@@ -1,0 +1,2 @@
+401.Na osnovu člana 12 Uredbe o Vladi Republike Crne Gore, ("Službeni list RCG", br. 19/94 i 4/97) i člana 3 Odluke o davanju saglasnosti na statusnu promjenu javnog preduzeća PTT saobraćaja Crne Gore ("Službeni list RCG", broj 40/98), Vlada Republike Crne Gore, na sjednici od 27. jula 2000. godine, donijela je
+ODLUKU O DAVANJU SAGLASNOSTI NA ODLUKU O OSNIVANJU DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU ZA PRUŽANJE USLUGA JAVNIH MOBILNIH TELEKOMUNIKACIJA
