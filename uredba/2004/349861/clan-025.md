@@ -1,0 +1,2 @@
+# Član 25
+Uprava za antikorupcijsku inicijativu vrši poslove uprave koji se odnose na: propagandno- preventivno djelovanje u cilju suzbijanja korupcije; predlaganje Vladi zaključivanja i primjene evropskih i drugih međunarodnih standarda i instrumenata iz oblasti antikorupcijske inicijative; unapređenje transparentnosti poslovnih operacija; vršenje drugih poslova koji proizilaze iz članstva u Paktu stabilnosti za jugoistočnu Evropu i u drugim međunarodnim organizacijama i institucijama, kao i druge poslove koji su joj određeni u nadležnost.

@@ -1,0 +1,20 @@
+# Član 60
+Danom stupanja na snagu ove uredbe nastavljaju sa radom, u djelokrugu utvrđenim, ovom uredbom:
+-Ministarstvo kulture, kao Ministarstvo kulture i medija,
+-Direkcija javnih prihoda Crne Gore, kao Poreska uprava,
+-Direkcija za nekretnine, kao Uprava za nekretnine,
+-Uprava carina Crne Gore, kao Uprava carina,
+-Agencija pomorske sigurnosti, kao Uprava pomorske sigurnosti,
+-Agencija za antikorupcijsku inicijativu, kao Uprava za antikorupcijsku inicijativu,
+-Direkcija šuma Crne Gore, kao Uprava za šume,
+-Republički sekretarijat za sport, kao Uprava za sport i omladinu,
+-Republički sekretarijat za zakonodavstvo, kao Sekretarijat za zakonodavstvo,
+-Republički sekretarijat za razvoj, kao Sekretarijat za razvoj,
+-Republički zavod za statistiku, kao Zavod za statistiku,
+-Republički hidrometeorološki zavod, kao Hidrometeorološki zavod,
+-Republički seizmološki zavod, kao Seizmološki zavod,
+-Republički Zavod za međunarodnu-naučnu, prosvjetno- kulturnu i tehničku saradnju, kao Zavod za međunarodnu- naučnu, prosvjetno- kulturnu i tehničku saradnju,
+-Državni arhiv Crne Gore, kao Državni arhiv,
+-Direkcija javnih radova Crne Gore, kao Direkcija javnih radova,
+-Direkcija za izgradnju auto-puteva u Crnoj Gori, kao Direkcija za izgradnju auto-puteva,
+-Agencija za razvoj malih i srednjih preduzeća, kao Direkcija za razvoj malih i srednjih preduzeća.

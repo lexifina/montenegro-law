@@ -1,0 +1,2 @@
+# Član 38
+Zavod za izvršenje krivičnih sankcija vrši poslove koji se odnose na: izvršenje krivičnih sankcija: kazne zatvora i maloljetničkog zatvora, mjera bezbjednosti obaveznog psihijatrijskog liječenja i čuvanja u zdravstvenoj ustanovi, mjera bezbjednosti obaveznog liječenja alkoholičara i narkomana, kazne zatvora izrečene u prekršajnom postupku i mjera za obezbjeđenje prisustva okrivljenog u krivičnom postupku - pritvor, kao i druge poslove koji su mu određeni u nadležnost.
