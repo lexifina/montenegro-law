@@ -1,0 +1,3 @@
+# Član 1
+Podnosioci izbornih lista na lokalnim izborima u 2002. godini imaju pravo da i posredstvom javnih glasila sa sjedištem u Crnoj Gori (u daljem tekstu: javna glasila) pravovremeno i objektivno informišu građane o svojim programima i aktivnostima.
+U javnim glasilima čiji je osnivač Republika Crna Gora podnosioci izbornih lista imaju pravo da, u okviru istih dnevnih termina, na posebnom kanalu TV Crne Gore, posebnom programskom bloku Radija Crne Gore i dodatku dnevnog lista "Pobjeda", o svojim programima i aktivnostima, pravovremeno objektivno i ravnopravno informišu građane (u daljem tekstu: predizborna kampanja), u skladu sa zakonom i pravilima utvrđenim ovom odlukom.

@@ -1,0 +1,4 @@
+# Član 7
+Javna glasila će u informativnim emisijama, izvan programa i stranica lista, predviđenih za predizbornu kampanju, obavještavati o aktulenim zbivanjima i aktivnostima državnih funkcionera i funkcionera političkih stranaka, poštujući pravila profesionalizma, objektivnosti i novinarske etike.
+Javna glasila, izvještavanje o aktuelnim događajima i radu državnih organa i državnih funkcionera, posebno izvještavanje o radnim posjetama članova Vlade i drugih državnih funkcionera opštinama u vrijeme predizborne kampanje za lokalne izbore, dužna su svesti na strogo informativni karakter.
+Kontakt programi i specijalne emisije u kojima učestvuju republički i funkcioneri lokalne uprave, u okviru kojih se angažman funkconera koristi u svrhu predizborne kampanje, ne mogu se emitovati izvan posebnog TV kanala, posebnog programskog bloka Radija i posebnog dodatka "Pobjede".

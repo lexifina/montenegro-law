@@ -1,0 +1,5 @@
+# Član 6
+Učesnici u predizbornoj kampanji dužni su da poštuju Ustav, zakone i profesionalnu etiku i obavezuju se na fer ponašanje koje isključuje uvrede, klevete, vrijeđanje i omalovažavanje ličnosti i ostale povrede dostojanstva građanina.
+Glavni i odgovorni urednik javnog glasila, glavni urednik posebnog TV kanala i urednici posebnog programskog bloka Radija Crne Gore i dodatka lista "Pobjeda", kao i novinari koji pripremaju izvještaje ili vode razgovore, dužni su da, ukoliko procijene da bilo koji oblik predstavljanja podnosioca izborne liste nije saglasan sa stavom 1 ovog člana, upozore podnosioca izborne liste.
+Glavni i odgovorni urednik javnog glasila može privremeno i da obustavi objavljivanje, uz obavezu da o razlozima neobjavljivanja istog dana obavijesti podnosioca izborne liste i programski odbor javnog glasila.
+Programski odbor javnog glasila povodom neobjavljivanja izjave, izvještaja, reportaže ili drugog oblika predstavljanja, zauzima stav i o svom stavu obavještava podnosioca izborne liste i javnost, najkasnije 48 sati od dana dostavljanja obavještenja o neobjavljivanju.
