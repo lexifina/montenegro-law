@@ -1,0 +1,2 @@
+# Član 6
+Kontrolni broj (dva numerička mjesta) jeste broj koji se računa za niz od šesnaest cifara (fiksni broj banke i broj računa), po međunarodnom standardu ISO 7064, MODUL 97. Kontrolni broj se dobija tako što se niz od prvih šesnaest cifara pomnoži sa 100, dobijeni broj podijeli sa 97, a ostatak oduzme od broja 98. Dobijeni rezultat izražen sa dvije cifre predstavlja kontrolni broj. Ako nema ostatka pri dijeljenju kontrolni broj je 98.
