@@ -1,0 +1,4 @@
+# Član 2
+Gasno ulje (dizel gorivo), koje se koristi kao gorivo za grijanje (tarifna oznaka CN 2710. 00 31 00), boji se crvenom bojom i označava markirnim indikatorom, koji je moguće utvrditi samo pomoću hemijskog testiranja. Obojeno gasno ulje mora sadržati najmanje 4,6 g markirnog indikatora "C.I. Solvent Yellonj 124" na 1000 litara gasnog ulja,na temperaturi od 15°C.
+Kerozin koji se koristi kao gorivo za grijanje (tarifna oznaka CN 2710. 00 21 20) boji se zelenom bojom i označava markirnim indikatorom, koji je moguće utvrditi samo pomoću hemijskog testiranja. Obojeni kerozin mora sadržati najmanje 4,3 g markirnog indikatora "C.I. Solvent Yellonj 124" na 1000 litara kerozina,na temperaturi od 15°C.
+Sastav markirnog indikatora iz st. 1 i 2 ovog člana određuje se prema JUS-u ili DIN-u 51 426. U slučaju spora primjenjuje se standard DIN 51 426.
