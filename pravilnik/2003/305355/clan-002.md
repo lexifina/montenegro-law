@@ -1,0 +1,6 @@
+# Član 2
+Za obavljanje linijskog prevoza putnika u drumskom saobraćaju prevoznik, zavisno od registrovanih linija na kojima vrši prevoz obavezan je primiti u radni odnos za:
+1) javni prevoz u međumjesnom autobuskom drumskom saobraćaju 2 radnika- vozača po jednoj voznoj jedinici, sa položenim vozačkim ispitom -kategorijom u skladu sa Zakonom o osnovama bezbijednosti saobraćaja na putevima;
+2) javni prevoz u gradskom i prigradskom linijskom autobuskom drumskom saobraćaju 2 radnika -vozača sa položenim vozačkim ispitom-kategorijom u skladu sa Zakonom o osnovama bezbjednosti saobraćaja na putevima, ukoliko se prevoz obavlja duže od 8 sati u toku jednog dana. Ukoliko prevoz dnevno traje više od 8 časova, još jednog vozača po vozilu;
+3) javni prevoz u vanlinijskom (slobodnom) autobuskom drumskom saobraćaju, najmanje jednog radnika -vozača sa položenim vozačkim ispitom- kategorijom u skladu sa Zakonom o osnovama bezbijednosti saobraćaja na putevima. Ukoliko je vrijeme vožnje duže od 8 časova dnevno u kontinuitetu, mora se obezbijediti još jedan vozač sa propisanim uslovima; i
+4) auto-taksi prevoz, jednog radnika-vozača za jedno prevozno sredstvo, a na svako naredno prevozno sredstvo još po jednog vozača sa položenim vozačkim ispitom- kategorijom, u skladu sa Zakonom o osnovama bezbijednosti saobraćaja na putevima.
