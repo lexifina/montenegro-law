@@ -1,0 +1,2 @@
+# Član 16
+Posuda, privremeno i konačno odlagalište moraju biti na vidnom mjestu obilježeni sa dva znaka i to: znakom za opasnost za životnu sredinu pored koga se stavlja natpis "OPASNO PO ŽIVOTNU SREDINU" i znakom opasnosti zavisno od karakteristika opasnog otpada pored koga se stavlja odgovarajući natpis, u skladu sa odredbama Odluke o obilježavanju otrova u prometu ("Službeni list SRJ", broj 38/97).
