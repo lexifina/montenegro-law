@@ -1,0 +1,3 @@
+# Član 2
+Društvo za upravljanje dužno je pripremiti i objaviti godišnji i periodični izvještaj o poslovanju društva za upravljanje investicionim fondom (u daljem tekstu: društvo za upravljanje) i investicionog fonda kojim upravlja.
+Godišnji i periodični izvještaj o poslovanju društva za upravljanje i investicionog fonda priprema i objavljuje društvo za upravljanje, sa sadržajem u skladu sa obaveznim elementima utvrđenim u prilozima 1, 2 i 3, koji su sastavni dio ovih pravila. Periodični izještaji o poslovanju društva za upravljanje i investicionog fonda pripremaju se za periode januar - mart, januar - jun, januar - septembar i januar - decembar tekuće godine.
