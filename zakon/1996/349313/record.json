@@ -1,0 +1,26 @@
+{
+  "id": 349313,
+  "path": "zakon/1996/349313",
+  "source": "https://www.sluzbenilist.me/propisi/349313",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/349313/download",
+  "title": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti i zdravstvenom osituranju",
+  "issue": "Službeni list Republike Crne Gore, broj 23/1996",
+  "published": "1996-07-31",
+  "in_force": "1996-08-08",
+  "in_force_basis": "Овај закон ступа на снагу осмог дана од дана објављивања у „Службеном листу Републике Црне Горе\"",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "bb4f6675525867523675d10ef37ad8d70dd5ca4659533f69bd55ad330fdfd3dc",
+  "articles_in_source": 7,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 1164,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "d76e8b22bc0c8177fa8266551f554b0b36ddc430675bead1b1f6f38cf81e984d"
+}
