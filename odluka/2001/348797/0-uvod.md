@@ -1,0 +1,4 @@
+350.Na osnovu člana 12 stav 2 Poslovnika Skupštine Republike Crne Gore, Skupština Republike Crne Gore na drugoj sjednici prvog redovnog zasijedanja u 2001. godini, dana 31. jula 2001. donijela je
+O D L U K U O OBRAZOVANJU KOMISIJE ZA UTVRĐIVANJE ČINJENICA, OKOLNOSTI I BITNIH ELEMENATA O NAVODIMA U TEKSTU OBJAVLJENOM U
+ZAGREBAČKOM LISTU "NACIONAL", POD NASLOVOM "GLAVNI MAFIJAŠKI
+BOS BALKANA" I DRUGIM TEKSTOVIMA OBJAVLJENIM U OVOM LISTU
