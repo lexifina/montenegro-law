@@ -1,0 +1,5 @@
+# Član 2
+Rizik zemlje, u smislu ove odluke, predstavlja vjerovatnoću ostvarivanja gubitka za banku, zbog nemogućnosti naplate potraživanja od lica izvan Republike Crne Gore (u daljem tekstu: Republika), iz razloga koji su vezani za politički, socijalni i ekonomski ambijent zemlje u kojoj se nalazi sjedište, odnosno prebivalište dužnika (u daljem tekstu: zemlja dužnika) i obuhvata:
+1) političko-ekonomski rizik, pod kojim se podrazumijeva vjerovatnoća ostvarivanja gubitka koja proizilazi iz nemogućnosti naplate potraživanja banke zbog ograničenja utvrđenih aktima državnih i drugih organa zemlje dužnika, kao i opštih ekonomskih i sistemskih prilika u toj zemlji;
+2) rizik transfera, pod kojim se podrazumijeva vjerovatnoća ostvarivanja gubitka zbog nemogućnosti naplate potraživanja iskazanih u valuti koja nije zvanična valuta zemlje dužnika, koja proizilazi iz ograničenja plaćanja obaveza prema povjeriocima iz drugih zemalja u određenoj valuti, utvrđenih aktima državnih i drugih organa zemlje dužnika.
+Sistem upravljanja rizikom zemlje
