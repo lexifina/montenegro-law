@@ -1,0 +1,2 @@
+Na osnovu člana 2. stav 3 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG", broj 15/94), a u vezi sa članom 4 stav 1 i članom 13 Odluke o uslovima i načinu davanja na korišćenje mineralnih sirovina ("Službeni list RCG", broj 56/93), Vlada Republike Crne Gore, na sjednici održanoj 13.septembra 2002. godine, donijela je
+ODLUKU O PRIHVATANJU ANEKSA III UGOVORA O PRAVU NA ISTRAŽIVANJA I EKSPLOATACIJU NAFTE I GASA NA KOPNU I PODMORJU CRNE GORE
