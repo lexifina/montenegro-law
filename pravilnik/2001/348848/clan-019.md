@@ -1,0 +1,3 @@
+# Član 19
+Po prijemu izvještaja komisije iz člana 17. ovog pravilnika, nadležni organ donosi rješenje o upotrebi, odnosno korišćenju objekta.
+Ako nadležni organ odobri upotrebu objekta na kome postoje određeni nedostaci i nepravilnosti, koji po vrsti i prirodi ne utiču na njegovo pravilno i bezbjedno korišćenje, odrediće rok u kojem su investitor i izvođač radova dužni otkloniti te nedostatke i nepravilnosti, a po potrebi i mjere obezbjeđenja koje se moraju preduzimati u interesu bezbjednog korišćenja objekta za vrijeme izvođenja naknadnih radova na otklanjanju utvrđenih nedostataka i nepravilnosti.
