@@ -1,0 +1,16 @@
+531.Na osnovu člana 58 tačka 1) Zakona o hartijama od vrijednosti ("Službeni list RCG", br. 59/00), Komisija za hartije od vrijednosti, na 77. sjednici od 21. septembra 2004. godine, donosi
+UPUTSTVO O PRIMJENI USLOVA ZA UVRŠTAVANJE HARTIJA OD VRIJEDNOSTI NA BERZANSKU KOTACIJU NA LISTE A ILI B I NAČINU TRGOVANJA TIM HARTIJAMA OD VRIJEDNOSTI
+1. Ovim uputstvom preciziraju se utvrđeni uslovi za uvrštavanje hartija od vrijednosti na berzansku kotaciju na liste A ili B i način trgovanja tim hartijama od vrijednosti.
+2. Pri uvrštavanju hartija od vrijednosti na berzansku kotaciju na listu A emitent ispunjava svoju obavezu da sačinjava i objavljuje finansijske izvještaje u skladu sa zakonom kada, prema mišljenju revizora:
+1) njegovi finansijski iskazi prikazuju realno i objektivno finansijsko stanje, bez rezervi (kada mišljenje revizora ne sadrži nikakvu kvalifikaciju ili ogradu), kao i kada
+2) njegovi finansijski iskazi prikazuju realno i objektivno finansijsko stanje sa rezervama, a emitent je isplatio dividendu akcionarima za najmanje dvije prethodne poslovne godine.
+3. Pri uvrštavanju hartija od vrijednosti na berzansku kotaciju na listu B emitent ispunjava svoju obavezu da sačinjava i objavljuje finansijske izvještaje u skladu sa zakonom kada, prema mišljenju revizora, njegovi finansijski iskazi prikazuju realno i objektivno finansijsko stanje, s tim da mišljenje revizora može sadržati i određene rezerve.
+4. Prospekt za kotaciju hartija od vrijednosti koje se uvrštavaju na berzansku kotaciju na listu A ili B, kao i potpuni izvještaj revizora sa mišljenjem, berza je dužna da objavi na svojoj internet stranici najkasnije jedan dan prije otpočinjanja trgovanja tim hartijama.
+Berza je dužna i da godišnji račun emitenta čije su hartije od vrijednosti uvrštene na berzansku kotaciju na listu A ili B sa izještajem revizora, kao i polugodišnje račune, objavi na svojoj internet stranici najkasnije tri dana od dana prijema ovih akata.
+5. U berzansku kotaciju na liste A ili B ne mogu se uvrstiti hartije od vrijednosti prije nego u potpunosti ispune propisane uslove za uvrštavanje u berzansku kotaciju.
+6. Hartijama od vrijednosti sa istim tržišnim simbolom, koje su uvrštene u berzansku kotaciju na liste A ili B, ne može se trgovati na slobodnom berzanskom tržištu.
+7. Hartije od vrijednosti sa istim tržišnim simbolom mogu biti uvrštene u berzansku kotaciju na liste A ili B samo na jednoj berzi.
+8. Obavezuju se berze da, najkasnije u roku od 30 dana od dana stupanja na snagu ovog uputstva, postojeća rješenja o prijemu hartija od vrijednosti na berzansku kotaciju usaglase sa ovim uputstvom.
+Emitent za koga je revizor dao mišljenje da njegovi finansijski iskazi prikazuju realno i objektivno finansijsko stanje, ali i iskazao određene rezerve, a čije su hartije od vrijednosti na dan stupanja na snagu ovog uputstva bile uvrštene na berzansku kotaciju na listu A, može izvršiti usaglašavanje iz stava 1 ovog člana na način da od revizora pribavi novo mišljenje kojim se potvrđuje da iskazane rezerve više ne postoje.
+9. Stupanjem na snagu ovog uputstva prestaje da važi Uputstvo o trgovanju hartijama od vrijednosti koje su uvrštene u berzansku kotaciju na liste A ili B broj 01/3-1194/2 od 16.12.2003. godine.
+10. Ovo uputstvo stupa na snagu osmog dana od dana objavljivanja u "Službenom listu RCG".
