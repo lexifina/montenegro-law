@@ -1,0 +1,3 @@
+# Član 3
+Urednici i voditelji političko-informativnih i specijalnih emisija i rubrika, javnih glasila čiji je osnivač Republika Crna Gora, obavezni su da, u toku izborne propagande, nezavisno i objektivno, predstavljaju sve podnosioce izbornih lista i njihove kandidate uz nepristrasan odnos prema svim zastupljenim političkim, socijalnim, etničko-kulturnim i drugim programima.
+Urednici, iz stava 1 ovog člana, sporazumno sa ovlašćenim predstavnicima podnosilaca izbornih lista utvrđuju program njihovog predstavljanja, u skladu sa zakonom, ovom odlukom i programsko - uređivačkim kriterijumima javnog glasila.
