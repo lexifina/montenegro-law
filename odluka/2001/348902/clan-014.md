@@ -1,0 +1,5 @@
+# Član 14
+Glavni urednik posebnog TV kanala namijenjenog medijskom prestavljanju Skupštine Republike Crne Gore, parlamentarnih stranaka i predizborne kampanje za predstavljanje podnosioca izbornih lista za prijevremene parlamentarne izbore u 2001.godini imenovaće se uz dvotrećinsku saglasnost članova Programskog odbora TV Crne Gore.
+Glavni urednik iz stava 1 ovog člana razrješava se uz saglasnost većine članova Programskog odbora TV Crne Gore.
+U javnim glasilima čiji je osnivač Republika Crna Gora, za predizbornu kampanju za prijevremene parlamentarne izbore u 2001. godini, konstituisaće se privremeni programski savjeti, koji će činiti ovlašćeni predstavnici svih podnosilaca izbornih lista, a čiji rad će koordinirati, naizmjenično, jedan od ovlašćenih predstavnika podnosilaca izbornih lista.
+Privremeni programski savjet svakodnevno će analizirati program i davati sugestije i preporuke nadležnim urednicima i organima za kontrolu sprovođenja ove odluke i poštovanje slobode javnog informisanja.

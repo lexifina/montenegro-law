@@ -1,0 +1,2 @@
+55. Na osnovu člana 32 stav 2 Zakona o javnom informisanju ("Službeni list RCG", br. 4/98) i člana 55 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 17/98 i 14/2000), Skupština Republike Crne Gore na sjednici prvog vanrednog zasijedanja u 2001. godini, dana 19. februara 2001. godine, donijela je
+O D L U K U O PRAVILIMA PREDSTAVLJANJA PODNOSILACA IZBORNIH LISTA ZA VRIJEME PREDIZBORNE KAMPANJE ZA PRIJEVREMENE PARLAMENTARNE IZBORE U 2001. GODINI
