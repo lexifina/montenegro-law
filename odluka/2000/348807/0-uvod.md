@@ -1,0 +1,2 @@
+515.Na osnovu člana 12 stav 3 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG" , broj 15/94), a u vezi sa članom 2 Odluke o uslovima i načinu davanja na korišćenje mineralnih sirovina ("Službeni list RCG", broj 56/93), Vlada Republike Crne Gore, na sjednici održanoj 12. oktobra 2000. godine, donijela je
+O D L U K U O PRIHVATANJU UGOVORA O DAVANJU PRAVA NA DETALJNA GEOLOŠKA ISTRAŽIVANJA I EKSPLOATACIJU TRESETA NA LEŽIŠTU "PODHUMSKI ZALIV" U SKADARSKOM JEZERU
