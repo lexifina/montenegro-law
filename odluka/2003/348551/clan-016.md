@@ -1,0 +1,2 @@
+# Član 16
+Pored izbornog materijala utvrđenog ovom odlukom, na izborima za predsjednika Republike, koji su raspisani za 11. maj 2003. godine, koristiće se izborni materijal (glasačke kutije, knjige birača, kutije za čuvanje kontrolnih kupona, paravani za glasanje, nevidljivo mastilo-sprej i optički čitači spreja), izrađeni u skladu sa Pravilima o jedinstvenim standardima za izborni materijal ("Službeni list RCG", br. 20/00, 11/01 i 53/02).

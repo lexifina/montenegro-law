@@ -1,0 +1,2 @@
+Na osnovu člana 10 Zakona o izboru predsjednika Republike ("Službeni list RCG", br. 11/03), a u vezi sa članom 32 tačka 4 i članom 74 Zakona o izboru odbornika i poslanika ("Službeni list RCG",br. 4/98, 17/98, 14/2000, 9/2001, 41/02 i 46/02), Republička izborna komisija, na sjednici od 30. aprila 2003. godine, donijela je
+ODLUKU O OBLIKU, IZGLEDU I ŠTAMPANJU GLASAČKIH LISTIĆA I DRUGOM IZBORNOM MATERIJALU ZA IZBORE ZA PREDSJEDNIKA REPUBLIKE CRNE GORE, KOJI ĆE SE ODRŽATI 11. MAJA 2003. GODINE
