@@ -1,0 +1,2 @@
+# Član 1
+Republika Crna Gora garantuje Saveznoj Republici Jugoslaviji uredno vraćanje zajma u iznosu od 11,0 miliona EUR-a od Evropske investicione banke za finansiranje Projekta rekonstrukcije energetskog sistema u Republici Crnoj Gori, na način, pod uslovima i rokovima predviđenim Ugovorom zaključenim između Evropske investicione banke i JEP"Elektroprivreda Crne Gore" Nikšić, ukoliko to ne učini JEP "Elektroprivreda Crne Gore" - Nikšić, kao krajnji korisnik zajma.
