@@ -1,0 +1,2 @@
+Na osnovu čl. 19, 65 i 94 Ustava Republike Crne Gore, člana 11 stav 1 Zakona o javnim preduzećima ("Službeni list RCG", broj 6/91), člana 39 Zakona o vodama ("Službeni list RCG", br. 16/95 i 22/95) i člana 12 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG", broj 15/94), Vlada Republike Crne Gore, na sjednici održanoj 31. maja 2002. godine, donijela je
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O OSNIVANJU JAVNOG REGIONALNOG PREDUZEĆA ZA VODOSNABDIJEVANJE, ODVOĐENJE OTPADNIH VODA, PRIKUPLJANJE, DEPONOVANJE I TRETMAN OTPADA "AQUA REGIA" D.O.O. BUDVA
