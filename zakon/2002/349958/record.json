@@ -1,0 +1,26 @@
+{
+  "id": 349958,
+  "path": "zakon/2002/349958",
+  "source": "https://www.sluzbenilist.me/propisi/349958",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/349958/download",
+  "title": "Zakon o izmjenama i dopunama Krivicnog zakona Republike Crne Gore",
+  "issue": "Službeni list Republike Crne Gore, broj 30/2002",
+  "published": "2002-06-26",
+  "in_force": "2002-07-04",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu Republike Crne Gore\"",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "903d0420b3a21417f8033e99dfe3457cf84b20837291461bce79b6306a20aad3",
+  "articles_in_source": 50,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 15468,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "cdfc574c72004a35e290882352f154c92975647652ebf59d325f0ccdf1821f92"
+}
