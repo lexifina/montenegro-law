@@ -1,0 +1,2 @@
+417.Na osnovu člana 131 stav 2 Zakona o radu ("Službeni list RCG", broj 43/03) i člana 81 stav 1 Opšteg kolektvnog ugovora ("Službeni list RCG", broj 1/04), Samostalni sindikat građevinarstva i industrije građevinskog materijala Crne Gore i Odbor Udruženja građevinarstva i industrije građevinskog materijala Privredne komore Crne Gore zaključuju
+GRANSKI KOLEKTIVNI UGOVOR ZA GRAĐEVINARSTVO I INDUSTRIJU GRAĐEVINSKOG MATERIJALA
