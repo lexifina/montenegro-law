@@ -1,0 +1,7 @@
+# Član 6
+Pored dokumentacije iz čl. 4 i 5 ovog pravilnika za osiguranika čija profesija zahtijeva posebne psihofizičke sposobnosti, kao i u slučaju povreda na radu, potrebna je dopunska dokumentacija, i to:
+- kod profesionalnih oboljenja obavezno se prilaže ekspertiza nadležnog Instituta ili Zavoda, iz koje treba da se vidi da li je profesionalno oboljenje utvrđeno u skladu sa Pravilnikom o utvrđivanju profesionalnih bolesti i po metodologiji za utvrđivanje profesionalnih oboljenja,
+- kod vozača profesionalca neophodno je priložiti odluku posebne ovlašćene komisije za ocjenu vozačkih sposobnosti za vozača profesionalca i rješenje nadležnog organa o oduzimanju vozačke dozvole;
+- kod zaposlenog u izvršnoj službi željezničkog saobraćaja prilaže se odluka-mišljenje zdravstvene komisije koja ocjenjuje psiho-fizičke sposobnosti zaposlenih u izvršnoj službi željezničkog saobraćaja, sa iscrpnim obrazloženjem i odgovarajućom medicinskom dokumentacijom koja se potkrepljuje mišljenjem o eventualnoj nesposobnosti;
+- kod zaposlenog u operativno izvršnoj službi Ministarstva unutrašnjih poslova, avionskom saobraćaju i pomorskoj plovidbi prilaže se poseban nalaz koji mora biti usaglašen sa posebnim zahtjevom o psiho-fizičkim sposobnostima zaposlenih;
+- kod povrede na radu u prethodnom postupku treba raspraviti i utvrditi okolnosti povređivanja i priložiti odgovarajuću dokumentaciju o prirodi povrede i liječenju te povrede.
