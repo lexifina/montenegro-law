@@ -1,0 +1,2 @@
+# Član 6
+Izvršni direktor Pošte je dužan da, bez odlaganja, protiv zaposlenog: koji odbije da izvrši nalog izvršnog direktora izdat radi obezbjeđenja minimuma procesa rada, koji sprečava zaposlene koji ne učestvuju u štrajku da rade, kao i protiv zaposlenog koji učestvuje u štrajku suprotno zakonu, pokrene postupak za utvrđivanje teže povrede radne obaveze zbog koje se izriče mjera prestanka radnog odnosa u skladu sa zakonom, kao i da preduzme druge mjere na koje je ovlašćen.
