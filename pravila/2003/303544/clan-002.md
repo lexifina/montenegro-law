@@ -1,0 +1,5 @@
+# Član 2
+Poslije člana 14 dodaje se novi član 14a, koji glasi:
+"Pri utvrđivanju godišnje neto vrijednosti imovine fonda za 2003. godinu menadžment preduzeće je dužno primijeniti odredbe člana 4a ovih pravila i korigovati mjesečne neto vrijednosti imovine fonda, utvrđene do dana stupanja na snagu ovih pravila, na način da iz vrijednosti akcija akcionarskih društava iz portfelja fonda isključi vrijednosti svih akcija fonda koje je fond otuđio ili stekao kupoprodajnim transakcijama sa drugim fondom.
+O kupoprodajnim transakcijama iz stava 1 ovog člana menadžment preduzeće je dužno obavijestiti druga menadžment preduzeća u roku od osam dana od dana stupanja na snagu ovih pravila.
+Korekciju mjesečne neto vrijednosti imovine fonda na način utvrđen u stavu 1 ovog člana dužno je da izvrši i menadžment preduzeće za fond koji nije bio učesnik u ovakvim transakcijama, ali kome je, samo zbog izvršenja ovakvih transakcija, došlo do promjene vrijednosti akcija akcionarskih društava iz portfelja fonda."
