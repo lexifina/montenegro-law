@@ -1,0 +1,2 @@
+# Član 12
+Ako doktor pojedinac ocijeni da će privremena spriječenost za rad trajati duže od 15 dana upućuje osiguranika radi dalje ocjene o potrebi privremene spriječenosti za rad Ljekarskoj komisiji doma zdravlja.Uput sa potrebnom medicinskom dokumentacijom osiguranik je dužan dostaviti Ljekarskoj komisiji doma zdravlja prije isteka poslednjeg dana privremene spriječenosti za rad koju je odobrio doktor pojedinac, a najkasnije u roku od tri dana nakon isteka odobrene privremene spriječenosti za rad.

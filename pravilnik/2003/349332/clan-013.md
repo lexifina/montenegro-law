@@ -1,0 +1,3 @@
+# Član 13
+Ako potreba za privremenu spriječenost za rad po istom osnovu nastupi u roku od 15 dana od dana po prestanku ranije odobrene spriječenosti za rad od strane Ljekarske komisije doma zdravlja, odnosno Prvostepene ljekarske komisije Fonda, doktor pojedinac dužan je osiguranika uputiti Ljekarskoj komisiji doma zdravlja, odnosno Prvostepenoj ljekarskoj komisiji Fonda, zavisno koja komisija je odobrila raniju spriječenost za rad.
+U slučaju da je privremena spriječenost za rad nastupila po drugom osnovu, osiguranika iz stava 1. ovog člana doktor pojedinac dužan je uputiti Ljekarskoj komisiji doma zdravlja.
