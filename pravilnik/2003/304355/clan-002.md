@@ -1,0 +1,2 @@
+# Član 2
+Usluge turističkih agencija se obavljaju u poslovnim prostorijama koje su isključivo namijenjene i uređene za obavljanje djelatnosti turističkih agencija a koje se ne koriste za stanovanje, kao i u poslovnim prostorijama u okviru poslovnih objekata u kojima se obavlja neka druga djelatnost, kao što su: ugostiteljski objekti, tržni centri, robne kuće, aerodromi, željezničke i autobuske stanice, marine i sl., pod uslovima utvrđenim ovim pravilnikom.

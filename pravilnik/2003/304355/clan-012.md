@@ -1,0 +1,2 @@
+# Član 12
+Izuzetno od odredbe člana 11 ovog pravilnika, ukoliko se poslovnica nalazi u objektima namijenjenim trgovačkim aktivnostima u robnim kućama, bankama, hotelima, sajamskim prostorijama, na putevima ili terminalima za javne usluge kopnenog, pomorskog ili vazdušnog saobraćaja ili u kiosku, poslovnica ne treba da ima sopstveni NjC, ali zaposlenim licima treba da bude omogućeno korišćenje NjC-a u blizini.
