@@ -1,0 +1,25 @@
+{
+  "id": 348244,
+  "path": "zakon/2002/348244",
+  "source": "https://www.sluzbenilist.me/propisi/348244",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/348244/download",
+  "title": "Zakon o davanju kontragarancije Saveznoj Republici Jugoslaviji za uredno vraćanje zajma za strukturno prilagodjavanje Republike Crne Gore",
+  "issue": "Službeni list Republike Crne Gore, broj 64/2002",
+  "published": "2002-11-28",
+  "in_force": "2002-11-29",
+  "in_force_basis": "Ovaj zakon stupa na snagu narednog dana od dana objavljivanja u \"Službenom listu Republike Crne Gore\".",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "3ccc8622a69de19aee96bffc349ba0e320d82818f870131248cb332ffebd54c9",
+  "articles_in_source": 4,
+  "note": null,
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 1471,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "text_sha256": "bd0819c6b710e73216aeafbb8516d7bd7ade10062adff18917008f95ca5f123d"
+}
