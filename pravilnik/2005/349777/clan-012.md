@@ -1,0 +1,2 @@
+# Član 12
+Instruktor praktične obuke za vazduhoplovno ovlašćeno osoblje koje obavlja poslove obezbjeđenja vazdušnog saobraćaja, kao i instruktor iz predmeta "Engleski jezik sa upotrebom vazduhoplovnih izraza na engleskom jeziku", mora imati najmanje srednju stručnu spremu, završenu školu kontrole letenja, odgovarajuću dozvolu za rad, završen kurs za instruktora ili supervizora kontrole letenja i minimum dvije godine radnog iskustva sa odgovarajućom dozvolom.
