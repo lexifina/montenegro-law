@@ -1,0 +1,3 @@
+# Član 51
+Predložena rješenja iz nacrta zakona, drugih propisa i opštih akata, prije dostavljanja Vladi, usklađuju se sa stavovima Republičkog sekretarijata za zakonodavstvo, ministarstva, odnosno drugih organa i organizacija od kojih su prethodno pribavljena mišljenja.
+Ako ministarstvo, odnosno drugi organ ili organizacija, koji pripremaju nacrt zakona, drugog propisa ili opšteg akta, ne prihvate stavove Republičkog sekretarijata za zakonodavstvo, ministarstva, odnosno drugih organa i organizacija, sadržane u njihovim mišljenjima, i ako u neposrednoj saradnji ne usaglase stavove o njima, sporna pitanja se usklađuju kod nadležnog potpredsjednika Vlade.
