@@ -1,0 +1,10 @@
+# Član 16
+## Sadržina prijave zaloge
+(1) Svrha prijave zaloge i sistema registrovanja je obavještavanje trećih lica o postojanju ili mogućem postojanju založnog prava na imovini zalogodavca. Ukoliko postoji potreba za dodatnom informacijom, treća lica se mogu infor- misati o zalogodavcu ili zalogoprimcu uvidom u dokumentaciju registra. Prijava o zalozi je pravno valjana ako sadrži:
+1) ime, adresu ili broj telefona ili adresu elektronske pošte zalogoprimca ili lica koje on ovlasti; ime i adresu zalogodavca ili lica koje je dužnik u pravnom poslu iz kojeg je nastalo obezbijeđeno potraživanje (ako to lice nije zalogodavac);
+2) posebno ili opšte određenje predmeta zaloge;
+3) potpis zalogodavca ili zalogoprimca.
+(2) Zalogodavac mora dati ovlašćenje za podnošenje prijave zaloge. Potpisom ugovora o zalozi zalogoprimac se smatra ovlašćenim od strane zalogodavca za podnošenje prijave zaloge u ime zalogodavca. Zalogodavac može dati ovlašćenje i na drugi način, u pisanoj formi. Prijava zaloge može se registrovati prije zaključenja ugovora o zalozi.
+(3) Prijava zaloge na pravno valjan način određuje zalogodavca, ako sadrži lično ime zalogodavca-preduzetnika ili naziv drugog subjekta koji je zalogodavac, identične kao u dokumentima registracije, u skladu sa važećim propisima. Ukoliko je zalogodavac fizičko lice koje se ne bavi privrednom djelatnošću, prijava zaloge na pravno valjan način određuje zalogodavca, ako sadrži ime, adresu i jedinstveni matični broj .
+(4) Ukoliko zalogodavac promijeni ime, druge relevantne podatke ili organizacioni oblik na način da registrovana prijava zaloge u vezi s tim može da dovede do zablude, registracija nema za posljedicu perfektuiranje ugovorne zaloge na imovini koju zalogodavac pribavi nakon proteka perioda od četiri mjeseca od nastale promjene, izuzev ukoliko izmijenjena prijava zaloge bude registrovana prije isteka tog roka.
+(5) Prijava o zalozi koja u bitnom ispunjava uslove iz ovog zakona proizvodi pravno dejstvo i ako sadrži manje greške koje ne dovode do zablude.
