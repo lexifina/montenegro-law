@@ -1,0 +1,3 @@
+# Član 6
+Novčanom kaznom u visini pedesetostrukog do dvjestostrukog iznosa minimalne zarade u Republici kazniće se za prekršaj preduzeće koje prodaje drvne sortimente preduzećima i drugim licima, bez potvrde Ministarstva poljoprivrede, šumarstva i vodoprivrede i potvrde Ministarstva industrije, energetike i rudarstva o ispunjavanju uslova iz čl. 2 i 3 ove uredbe.
+Novčanom kaznom u visini desetostrukog iznosa minimalne zarade u Republici kazniće se za prekršaj iz stava 1 ovog člana odgovorno lice u preduzeću i preduzetnik koji se bavi prodajom drvnih sortimenata. Pored kazne iz st. 1 i 2 ovog člana izreći će se i zaštitna mjera oduzimanja drvnih sortimenata koji su predmet prekršaja.

@@ -1,0 +1,2 @@
+# Član 4
+JP "Crnagorašume", vlasnici šuma i druga preduzeća iz člana 2 stav 2 ove uredbe, prije zaključenja ugovora o prometu drvnih sortimenata dužni su pribaviti potvrdu Ministarstva poljoprivrede, šumarstva i vodoprivrede i Ministarstva industrije, energetike i rudarstva o ispunjenju uslova iz čl. 2 i 3 ove uredbe. Potvrda iz stava 1 ovog člana izdaje se nakon pribavljenog mišljenja od drugih nadležnih organa uprave o ispunjenju propisanih uslova.
