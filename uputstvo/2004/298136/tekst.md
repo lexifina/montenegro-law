@@ -1,0 +1,11 @@
+746.Na osnovu člana 8. stav 1. tačka 13) i člana 58. tačka 1) Zakona o hartijama od vrijednosti ("Službeni list RCG", broj 59/00), Komisija za hartije od vrijednosti, na 87. sjednici od 29. decembra 2004. godine, donosi
+U P U T S T V O O NAČINU TRGOVANJA AKCIJAMA PRIVATIZACIONIH INVESTICIONIH FONDOVA
+1. "Investicione jedinice" privatizacionih fondova postaju od 01. januara 2005. godine obične akcije privatizacionih investicionih fondova, saglasno propisima.
+2. Akcije privatizacionih investicionih fondova kojima se može trgovati su akcije privatizacionih investicionih fondova koji su dobili dozvolu za rad Komisije za hartije od vrijednosti (u daljem tekstu: Komisija).
+3. Akcijama privatizacionih investicionih fondova može se trgovati isključivo na berzama, na posebnim listama utvrđenim u skladu sa pravilima berzi.
+4. Akcije privatizacionih investicionih fondova ne mogu se kotirati na berzama na listama A i B. 5. Društva za upravljanje privatizacionim investicionim fondovima dužna su da:
+- istovremeno sa dostavljanjem Komisiji, dostavljaju i berzama periodične i godišnje izvještaje o poslovanju privatizacionih investicionih fondova, sačinjenih u skladu sa odredbama Pravila o sadržini i objavljivanju izvještaja o poslovanju društava za upravljanje investicionim fondovima i investicionih fondova (" Službeni list RCG", broj 68/04);
+- istovremeno sa dostavljanjem Komisiji, dostavljaju i berzama podatke o mjesečnoj i godišnjoj vrijednosti imovine fonda i godišnjoj neto vrijednosti imovine fonda, kao i podatke o mjesečnoj i godišnjoj vrijednosti akcija fonda i godišnjoj neto vrijednosti akcija fonda;
+- u roku od pet dana od isteka mjeseca, dostavljaju berzama pregled imovine fonda kojim upravljaju, na posljednji dan prethodnog mjeseca, koji sadrži podatke o vrsti imovine fonda (hartije od vrijednosti, nekretnine i novčana sredstva), njenoj količini, pojedinačnoj vrijednosti, učešću u imovini fonda i, kada se radi o vlasničkim hartijama od vrijednosti, učešću u kapitalu emitenta tih hartija.
+6. Berze su dužne da izvještaje, podatke i preglede iz tačke 5. ovog uputstva objave na svom internet sajtu najkasnije tri radna dana od dana njihovog prijema.
+7. Ovo uputstvo stupa na snagu narednog dana od dana objavljivanja u "Službenom listu RCG".
