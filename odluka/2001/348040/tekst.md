@@ -1,0 +1,4 @@
+105.Na osnovu člana 13 Uredbe o zajedničkom vršenju tržišne, sanitarne, veterinarske i poljoprivredne inspekcijske kontrole u spoljnotrgovinskom prometu ("Službeni list RCG", broj 33/2000) i člana 12 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG", br.15/94 i 4/97), Vlada Republike Crne Gore, na sjednici održanoj dana 15.februara 2001. godine, donijela je
+O D L U K U O DOPUNI ODLUKE O SASTAVU, OVLAŠĆE-NJIMA I NAČINU RADA KOORDINACIONOG TIJELA ZA VRŠENJE ZAJEDNIČKE INSPEKCIJSKE KONTROLE U SPOLJNOTRGOVINSKOM PROMETU
+1. U Odluci o sastavu, ovlašćenjima i načinu rada koordinacionog tijela za vršenje zajedničke inspekcijske kontrole u spoljnotrgovinskom prometu ("Službeni list RCG", broj 33/2000), u tački 2, poslije riječi: "veterinarske" umjesto slova "i" stavlja se zarez, a poslije riječi: "poljoprivredne" dodaju se riječi: "i ekološke".
+2. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Republike Crne Gore".
