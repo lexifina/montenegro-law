@@ -1,0 +1,4 @@
+# Član 4
+U ograđenim prostorima kupališta i na udaljenosti od 200 metara od obale, zabranjeno je prilaziti gliserima, a na udaljenosti od 150 metara od obale, zabranjeno je prilaziti: čamcima, jedrilicama, daskama za jedrenje, skuterima i sl.
+Izuzetno od stava 1 ovog člana, čamcima i svim drugim plovnim objektima na motorni pogon dozvoljen je pristup na uređenim i izgrađenim kupalištima, samo na mjestima koja moraju biti na odgovarajući način obilježena, označena i ograđena, a brzim čamcima (skuterima, gliserima, čamcima koji vuku skije, banane i sl.) dozvoljena je plovidba u prostorima koja su za tu namjenu određena i koja su na odgovarajući način obilježena, označena i ograđena uz saglasnost nadležnog ministarstva.
+Mjesta za pristajanje (lijevke) iz stava 2. ovog člana određuje Javno preduzeće za upravljanje morskim dobrom, po Programu koji odobrava nadležno ministarstvo.
