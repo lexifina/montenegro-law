@@ -1,0 +1,3 @@
+Na osnovu člana 41. a u vezi sa članom 19. Zakona o planiranju i uređenju prostora ("Službeni list RCG", broj 16/95) i člana 94. Statuta opštine Budva ("Službeni list opštine Budva", broj 9/95 i 2/98), Skupština opštine Budva, na sjednici od 11. novembara 1999. godine, donijela je
+ODLUKA
+O DOPUNI ODLUKE O DONOŠENJU DETALJNOG URBANISTIČKOG PLANA "ROZINO"
