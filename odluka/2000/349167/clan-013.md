@@ -1,0 +1,3 @@
+# Član 13
+Udanima kada nemaju promotivnih skupova, izjava i konferencija za javnost podnosioci izbornih lista imaju pravo da na Televiziji i Radiju Crne Gore, u okviru posebnih programskih blokova, najviše dva puta tokom izborne kampanje, u trajanju od po devet minuta, prezentiraju svoje izborne programe i promovišu svoje odborničke kandidate ili pak, prezentiraju filmske i tonske inserte sa svojih promotivnih skupova.
+Korišćenje prava po osnovu stava 1 ovog člana podnosioci izbornih lista su dužni najaviti nadležnom uredniku javnog glasila sa naznakom u kojoj formi (snimak, razgovor i dr.) žele koristiti ovo pravo, najmanje 48 sati prije emitovanja posebnog programskog bloka.

@@ -1,0 +1,2 @@
+# Član 16
+Podnosioci potvrđenih izbornih lista imaju pravo na emitovanje na Radiju i Televiziji Crne Gore propagandnih izbornih spotova u ukupnom trajanju od 3 minuta tokom izborne kampanje, od čega jedan i po minut besplatno prije emisije Večernji dnevnik (Radio), odnosno Dnevnik 2 (Televizija), a jedan i po minut u dogovoru sa odgovarajućom službom Radio Televizije Crne Gore, prema tržišnim uslovima.

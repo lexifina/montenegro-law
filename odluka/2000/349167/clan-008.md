@@ -1,0 +1,5 @@
+# Član 8
+Javna glasila, prilikom redovnog izvještavanja o aktuelnim događajima i radu državnih organa i državnih funkcionera, ne mogu iznositi komentare ili tekstove kojima bi se označavala partijska pripadnost ili bi imali stranački propagandni karakter.
+Izvještavanje o aktivnostima državnih organa i funkcionera, na njihovim redovnim državnim poslovima u redovnim i tematskim emisijama javnih glasila, u vrijeme predizborne kampanje za prijevremene lokalne izbore u Podgorici i Herceg Novom, ne može se koristiti u svrhu izborne stranačke propagande.
+Do završetka izbora neće se organizovati kontakt programi i specijalne emisije, izvan programskih blokova za lokalne izbore, u kojima bi učestvovali funkcioneri opština Podgorica i Herceg Novi ili u okviru kojih bi se angažman funkcionera koristio u svrhu izborne propagande.
+U programu Televizije Crne Gore i programu Radija Crne Gore, izvan posebnih programskih blokova za lokalne izbore, neće se emitovati rubrike i emisije kojima bi se neposredno podsticala izborna propaganda u opštinama Podgorica i Herceg Novi.

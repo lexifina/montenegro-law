@@ -1,0 +1,3 @@
+# Član 1
+Podnosioci izbornih lista na prijevremenim lokalnim izborima u Podgorici i Herceg Novom imaju pravo da u javnim glasilima čiji je osnivač Skupština Republike Crne Gore (u daljem tekstu: javna glasila), u okviru istih dnevnih termina i posebnih programskih blokova, odnosno stranica sa naznakom "Lokalni izbori", ravnopravno, u formi izjava, konferencija za štampu, izvještaja i prezentacija izbornih programa, obavještavaju građane o svojim programima i aktivnostima.
+Termin emitovanja i dužinu trajanja posebnih programskih blokova na Televiziji Crne Gore i Radiju Crne Gore, odnosno broj stranica u dnevnom listu "Pobjeda" utvrđuju glavni i odgovorni urednici, uz saglasnost programskih odbora ovih glasila.
