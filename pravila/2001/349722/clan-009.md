@@ -1,0 +1,3 @@
+# Član 9
+Dokazom o organizacionoj i kadrovskoj osposobljenosti Centralne Depozitarne Agencije smatraju se statut i nacrt akta o unutrašnjoj organizaciji i sistematizaciji radnih mjesta u Centralnoj Depozitarnoj Agenciji, kojima se utvrđuje da Centralna Depozitarna Agencija ima posebne organizacione djelove za efikasno obavljanje poslova registracije hartija od vrijednosti i poslova kliringa i saldiranja transakcija sa tim hartijama.
+O licima sa posebnim ovlašćenjima i odgovornostima dostavljaju se sledeći podaci: ime i prezime, školska sprema, radno iskustvo, poslovi koje je to lice ranije obavljalo i da li je osuđivano za krivična djela protiv privrede ili službene dužnosti.

@@ -1,0 +1,3 @@
+# Član 4
+Pravilima Centralne Depozitarne Agencije utvđuju se naročito: prava i obaveze članova Centralne Depozitarne Agencije, način vođenja registra hartija od vrijednosti i način obavljanja poslova kliringa i saldiranja transakcija sa tim hartijama. Ova pravila se, nakon dobijanja dozvole za rad, objavljuju u "Službenom listu Republike Crne Gore".
+Pravila o rješavanju spornih transakcija sadrže odredbe o postupanju u slučajevima kada lice koje koristi usluge Centralne Depozitarne Agencije nije u mogućnosti da izvrši obavezu iz jednog ili više ugovora o kliringu i saldiranju transakcija sa hartijama od vrijednosti (tzv. difolt procedura).
