@@ -1,0 +1,2 @@
+# Član 10
+Amblem je izvezen na platnu i ušiva se na način propisan članom 8 ovog pravilnika. Identifikacioni broj carinskog službenika, kači se iznad amblema, osim na ljetnjim košuljama kada se kači na lijevom džepu, tipa je plastičnog bedža, pravougaonog oblika, dimenzija 7 h 2 cm, tamno sive podloge na kojoj je bijelim arapskim ciframa utisnut identifikacioni broj carinskog službenika iz službene evidencije.
