@@ -1,0 +1,2 @@
+# Član 43
+U slučaju da osiguranik zbog drugog akutnog oboljenja ili iz drugog opravdanog medicinskog razloga, po mišljenju nadležnog doktora zdravstvene ustanove za medicinsku rehabilitaciju, bude prinuđen da prekine rehabilitaciju može sporazumno sa tom zdravstvenom ustanovom da nastavi započetu rehabilitaciju, ukoliko nijesu nastupile kontraindikacije, najkasnije u roku od 3 mjeseca od dana prekida rehabilitacije.

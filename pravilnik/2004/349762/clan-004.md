@@ -1,0 +1,2 @@
+# Član 4
+Osiguranik, na teret sredstava Fonda u Republici i van Republike ostvaruje zdravstvenu zaštitu i druga prava iz zdravstvenog osiguranja u javnim zdravstvenim ustanovama i u drugim organizacijama ili ustanovama (u daljem tekstu: zdravstvena ustanova) sa kojima Fond ima zaključen ugovor, na način i pod uslovima utvrđenim Zakonom, drugim podzakonskim aktima donijetih na osnovu Zakona, ovim Pravilnikom i drugim opštim aktima Fonda.

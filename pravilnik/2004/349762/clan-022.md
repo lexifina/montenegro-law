@@ -1,0 +1,5 @@
+# Član 22
+Svaka posjeta doktoru pojedincu (dijagnoza, terapija, prvi i zadnji dan privremene spriječenosti za rad i dr.) mora biti evidentiran u karton bolesnika.
+Podaci o pruženoj zdravstvenoj zaštiti osiguranika čije mjesto prijave osiguranja, odnosno prebivališta nije na području opštine za koju je osnovan dom zdravlja, evidentiraju se u protokol doma zdravlja koji je pružio zdravstvenu uslugu.
+Osiguranik je dužan da prihvati savjet doktora pojedinca, da po dobijenim uputstvima upotrebljava propisane ljekove, da se podvrgne laboratorijskim, radiološkim i drugim ispitivanjima na koja je upućen, kao i da se javi zdravstvenoj ustanovi u koju je upućen na konsultativno-specijalistički pregled, na bolničko liječenje ili ljekarskoj komisiji za ocjenu radne sposobnosti, po propisima iz penzijsko-invalidskog osiguranja i u drugim slučajevima.
+Osiguranik je dužan da odmah po završenom ispitivanju ili liječenju stavi na uvid ili preda svom doktoru pojedincu nalaze o laboratorijskom ili radiološkom i drugom ispitivanju, otpusnu listu i drugu medicinsku dokumentaciju.

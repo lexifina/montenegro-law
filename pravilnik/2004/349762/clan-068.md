@@ -1,0 +1,3 @@
+# Član 68
+Pravo na zdravstvenu zaštitu imaju osigurana lica, iz člana 61. tačka 5. i 6. ovog Pravilnika ako je prije njihovog odlaska u inostranstvo utvrđeno da ne boluju od akutnih ili hroničnih oboljenja za koje je potrebno liječenje ili ljekarski nadzor.
+Osigurano lice koje je boravilo u inostranstvu bez predhodno utvrđenog zdravstvenog stanja, u smislu stava 1. ovog člana, ima samo pravo na naknadu troškova koji su nastali korišćenjem hitne medicinske pomoći, u roku utvrđenim članom 66. stav 2., ukoliko se ustanovi da prije odlaska u inostranstvo nije bolovalo od akutnog ili hroničnog oboljenja za koje je potrebno liječenje ili ljekarski nadzor.

@@ -1,0 +1,5 @@
+# Član 79
+Prevoz spavaćim kolima u željezničkom saobraćaju odrediće se samo ako je zbog prirode oboljenja osiguranika, putovanje ovim prevoznim sredstvom neophodno.
+Prevoz avionom Prvostepena ljekarska komisija Fonda odobriće osiguraniku samo u medicinski opravdanim slučajevima i to na osnovu predloga konzilijuma ljekara KC Crne Gore, odnosno konzilijuma ljekara specijalnih bolnica za određene vrste bolesti.
+Pratilac ostvaruje pravo na prevoz spavaćim kolima i avionom samo dok putuje sa bolesnikom. Ukoliko bolesnik u mjestu gdje je upućen ostaje na duže liječenje pratilac u povratku kao i u odlasku radi prihvata bolesnika ostvaruje pravo prevoza vozom II razred.
+Kod ležećih nepokretnih bolesnika koji se, na osnovu nalaza i mišljenja Prvostepene ljekarske komisije Fonda po prethodno pribavljenom mišljenju konzilijuma ljekara KC Crne Gore, odnosno kozilijuma ljekara specijalnih bolnica za određene vrste bolesti, mogu prevesti samo avionom i to na nosila, Fond će izvršiti uplatu iznosa potrebnih sredstava na ime prevoza avionom direktno avio-prevozniku.

@@ -1,0 +1,5 @@
+# Član 70
+Osiguranici iz člana 61. tačke 1 do 4, ostvaruju pravo na nabavku stomatološko protetičkih pomagala i ortotičkih sredstava u inostranstvu u obimu i na način koji ostvaruju osiguranici u zemlji po prethodnom odobrenju Prvostepene ljekarske komisije Fonda.
+Uz zahtjev za ostvarivanje prava iz stava 1. ovog člana osiguranik prilaže predlog doktora stomatologije, na kome je utisnuta šema zuba i naznačena vrsta stomatološko-protetčkih nadoknada, vrsta materijala koja će se ugraditi, predračun i specifikacija troškova, odnosno predlog ljekara specijaliste o vrsti ortopedskog i drugog pomagala i sanitarne sprave sa naznačenjem vrste materijala koji će biti ugrađen, predračun i specifikacija troškova.
+Odredbe st. 1. i 2. ovog člana primjenjuju se u slučaju popravke stomatološko-protetskih nadoknada, ortopedskih i drugih pomagala i sanitarnih sprava u inostranstvu.
+Ukupni troškovi u ostvarivanju prava iz stava 1. ne mogu iznositi više od troškova koji bi iznosili da je ovo pravo ostvareno u zemlji.

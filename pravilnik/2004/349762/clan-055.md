@@ -1,0 +1,2 @@
+# Član 55
+Zahtjev za odobrenje ljekova sa Liste ljekova koji se uz odobrenje Komisije za ljekove upotrebljavaju u stacionarnim zdravstvenim ustanovama i u toku ambulantno-polikliničkog liječenja, pod uslovom da je na otpusnoj listi utvrđena dalja terapija ovim lijekom, kao i za ljekove koji se upotrebljavaju po predlogu konzilijuma ljekara KC Crne Gore, podnosi zdravstvena ustanova u kojoj se osiguranik liječi.

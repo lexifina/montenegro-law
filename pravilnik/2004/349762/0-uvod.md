@@ -1,0 +1,2 @@
+Na osnovu čl. 48. i 95. stav 1. tačke 3. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Sl. list SRCG", br. 39/90, 21/91 i "Sl. list RCG", br. 30/92, 58/92, 6/94, 27/94 i 12/96) čl. 8. tačka 2. i čl. 51. i 52. Statuta Republičkog fonda za zdravstvo ("Sl. list RCG", br. 47/90,36/95 i 8/03), Savjet Republičkog fonda za zdravstvo, na sjednici od 23. decembra 2003. godine, donio je
+PRAVILNIK O OSTVARIVANJU ZDRAVSTVENE ZAŠTITE I DRUGIH PRAVA IZ ZDRAVSTVENOG OSIGURANJA
