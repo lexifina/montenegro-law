@@ -1,0 +1,2 @@
+# Član 9
+Ako nadzorni organ u vršenju stručnog nadzora utvrdi da izvođač odstupa od osnovne koncepcije projektovanja i građenja, projektovanih detalja, predviđenih kvaliteta materijala koji se ugrađuju, ili u pogledu drugih elemenata koji bi uticali na kvalitet radova, utvrđenu vrijednost objekta ili na produženje rokova izgradnje, o tome obavještava investitora i projektanta, odnosno izvođača radova i preduzima druge mjere u granicama svojih ovlašćenja.
