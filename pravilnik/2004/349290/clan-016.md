@@ -1,0 +1,3 @@
+# Član 16
+Nadležni organ uprave upisuje u registar samo one podnosioce zahtjeva koji ispunjavaju sve uslove utvrđene Zakonom, ovim pravilnikom, Pravilnikom o mjerama i postupcima upotrebe i zaštite elektronskog potpisa, sredstava za izradu elektronskog potpisa i sistema certifikovanja, kao i Pravilnikom o tehničkim pravilima i uslovima povezivanja sistema certifikovanja elektronskih potpisa.
+Rješenje o ispunjavanju uslova iz stava 1 ovog člana donosi se na osnovu uvida u dokumentaciju priloženu uz zahtjev za upis u registar, neposrednog razgovora sa ovlašćenim predstavnikom podnosioca zahtjeva i po potrebi, neposrednog uvida na lokaciji podnosioca zahtjeva.

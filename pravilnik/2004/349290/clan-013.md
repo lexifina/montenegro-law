@@ -1,0 +1,2 @@
+# Član 13
+Davalac usluga certifikovanja koji je upisan u evidenciju, u cilju obavljanja usluga izdavanja kvalifikovanih certifikata, podnosi nadležnom organu uprave zahtjev u pisanom obliku za upis u registar na Obrascu koji je odštampan u Prilogu 3 ovog pravilnika i čini njegov sastavni dio, kao i elektronskim putem kroz strukturirani obrazac koji se nalazi u za to predviđenom računarskom sistemu/informacionoj bazi registra i istovjetan je obrascu u pismenom obliku.

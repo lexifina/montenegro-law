@@ -1,0 +1,4 @@
+# Član 1
+Ovim pravilnikom utvrđuju se sadržaj i način dostavljanja prijave o početku obavljanja usluga certifikovanja u Republici Crnoj Gori (u daljem tekstu: Republika), postupak upisa u evidenciju davalaca usluga certifikovanja (u daljem tekstu: evidencija), sadržaj i način vođenja evidencije, postupak prijave i upisa promjena podataka u evidenciji, obrasci prijave za upis u evidenciju i prijave za upis promjena, sadržaj i način vođenja registra akreditovanih davalaca usluga certifikovanja (u daljem tekstu: registar), obrazac zahtjeva za upis u registar, spisak dokumentacije koja se prilaže uz zahtjev, visina i način plaćanja troškova registracije, kao i najniži iznos za koji se osigurava rizik od odgovornosti za štete koje, eventualno, vršenjem svoje djelatnosti prouzrokuju akreditovani davaoci usluga certifikovanja.
+II PRIJAVA, UPIS I VOĐENJE EVIDENCIJE
+Postupak prijave
