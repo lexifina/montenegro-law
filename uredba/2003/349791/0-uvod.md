@@ -1,0 +1,4 @@
+Na osnovu člana 94 tačka 3 Ustava Republike Crne Gore, Vlada Republike Crne Gore, na sjednici od 2.oktobra 2003.godine, donijela je
+UREDBU
+O DOPUNI UREDBE O ZAJEDNIČKOM VRŠENJU TRŽIŠNE, SANITARNE,
+VETERINARSKE, POLJOPRIVREDNE I EKOLOŠKE INSPEKCIJSKE KONTROLE U SPOLJNOTRGOVINSKOM PROMETU
