@@ -1,0 +1,2 @@
+# Član 1
+Obrazuje se Savjet Vlade Republike Crne Gore za kvalitet (u daljem tekstu: Savjet za kvalitet) kao stručno-savjetodavno tijelo za oblast uvođenja i unapređenja sistema kvaliteta u Republici Crnoj Gori. Savjet za kvalitet čine predstavnici Vlade Republike Crne Gore, Univerziteta Crne Gore, Agencije Crne Gore za prestrukturiranje privrede i strana ulaganja, preduzeća i drugih organa i organizacija.
