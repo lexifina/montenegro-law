@@ -1,0 +1,4 @@
+# Član 11
+Učesnici u predizbornoj kampanji, ukoliko procijene da su, na bilo koji način, povrijeđeni principi i prava utvrđeni ovom odlukom, mogu zatražiti reagovanje Savjeta za zaštitu slobode javnog informisanja, programskog odbora javnog glasila i privremenog programskog savjeta javnog glasila.
+Organi i tijela iz stava 1 ovog člana dužni su da, povodom podnijetog zahtjeva, zauzmu stav i o tome, u roku od 48 sati, obavijeste podnosioca zahtjeva i javnost.
+Ukoliko organi i tijela iz stava 1 ovog člana ne reaguju u propisanom roku ili pri zauzimanju stava previde činjenice na koje se ukazuje zahtjevom, podnosilac ima pravo da, u glasilu na čije se povrede ukazuje, u rubrici "Reagovanja", najviše do jednog minuta, odnosno 16 redaka sa 70 znakova u redu, obavijesti javnost o konkretnim navodima iz zahtjeva.

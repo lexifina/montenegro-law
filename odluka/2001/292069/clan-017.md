@@ -1,0 +1,3 @@
+# Član 17
+Javna glasila čiji su osnivači jedinice lokalne samouprave dužna su da, u skladu sa materijalnim i tehničkim mogućnostima, organizuju medijsko predstavljanje predizborne kampanje na područjima za koja su osnovana, shodno ovoj odluci.
+Pozivaju se javna glasila čiji su osnivači fizička i pravna lica i javna glasila čiji su osnivači sa sjedištem van Republike Crne Gore, a koja emituju svoj program ili se distribuiraju na teritoriji Crne Gore da, ukoliko se bave informisanjem o prijevremenim parlamentarnim izborima, poštuju načela objektivnosti i nepristrasnosti prema svim ponuđenim političkim, socijalnim, etničko-kulturnim i drugim programima.
