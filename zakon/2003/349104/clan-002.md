@@ -1,0 +1,2 @@
+# Član 2
+Akcioni plan harmonizacije ekonomskih sistma država članica državne zajednice Srbija i Crna Gora radi sprječavanja i uklanjanja prepreka slobodnom protoku ljudi, robe, usluga i kapitala, sa Predlogom novih elemenata ovog plana, kao i Sporazum vlada Republike Srbije i Republike Crne Gore o usvajanju Nacrta zakona o akcionom planu harmonizacije ekonomskih sistema država članica državne zajednice Srbija i Crna Gora radi sprječavanja i uklanjanja prepreka slobodnom protoku ljudi, robe, usluga i kapitala sastavni su dio ovog zakona.
