@@ -1,0 +1,2 @@
+215.Na osnovu člana 68 Zakona o izmjenama i dopunama Zakona o penzijskom i invalidskom osiguranju ("Službeni list SRCG", broj 28/91) i čl. 63 i 64 Statuta Republičkog fonda penzijskog i invalidskog osiguranja ("Službeni list RCG", broj 46/91), Savjet Republičkog fonda penzijskog i invalidskog osiguranja, na sjednici od 10. IV 2000. godine, donio je
+ODLUKU O PRODUŽENJU MANDATA ČLANOVIMA SAVJETA REPUBLIČKOG FONDA PENZIJSKOG I INVALIDSKOG OSIGURANJA
