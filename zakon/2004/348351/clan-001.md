@@ -1,0 +1,2 @@
+# Član 1
+Oslobađaju se od izvršenja 25% izrečene kazne zatvora lica koja su na dan stupanja na snagu ovog zakona pravosnažno osuđena za krivična djela propisana zakonima Republike Crne Gore.Izuzetno od stava 1 ovog člana, oslobađaju se od izvršenja 15% izrečene kazne zatvora lica koja su na dan stupanja na snagu ovog zakona pravosnažno osuđena za krivična djela: ubistvo, teška tjelesna povreda, razbojnička krađa, razbojništvo, teški slučajevi razbojničke krađe i razbojništva, kao i lica koja su tri puta pravosnažno osuđivana zbog izvršenog krivičnog djela.
