@@ -1,0 +1,3 @@
+# Član 14
+Cijene interkonekcije za javne telekomunikacione operatore ili pružaoce servisa koji imaju značajnu tržišnu poziciju, zasnivaju se na "uvećanim (inkrementalnim) troškovima" i uključuju razumnu stopu povraćaja takvih troškova u skladu sa odlukama Agencije. Cijene interkonekcije za javne telekomunikacione operatore ili pružaoce servisa, takođe, uključuju povraćaj učešća u zajedničkim troškovima. Agencija će utvrditi metodologiju "uvećanih(inkrementalnih) troškova".
+Do utvrđivanja metodologije iz stava 1 ovog člana "uvećani(inkrementalni) troškovi" će se zasnivati na cijeni uporednih usluga u drugim zemljama, o čemu odluku donosi Agencija.

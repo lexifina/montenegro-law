@@ -1,0 +1,4 @@
+# Član 13
+Javni telekomunikacioni operatori ili pružaoci servisa mogu da uspostave različite cijene i uslove usluga interkonekcije i pristupa za različite kategorije javnih telekomunikacionih operatora ili pružaoca servisa i različite kategorije usluga interkonekcije, gdje se te razlike mogu objektivno pravdati na bazi troškova nastalih pružanjem usluga interkonekcije, a koji su prihvatljivi od strane Agencije.
+Javni telekomunikacioni operatori ili pružaoci servisa koji obezbjeđuju interkonekciju mogu da uključe u svoju cijenu interkonekcije i troškove tekućeg održavanja linkova interkonekcije između svoje telekomunikacione mreže i mreže drugog operatora, kao i troškove korišćenja interkonekcije i pristupa.
+Uslovi priključenja na javnu telefonsku mrežu i pružanja telefonskih usluga biće iziferencirani tako da korisnici ne moraju da plaćaju za kapacitete koji nijesu neophodni za usluge za koje se podnosi zahtjev.
