@@ -1,0 +1,43 @@
+# Član 3
+Za članove Savjeta imenuju se:
+- za predsjednika
+1. akad. prof. dr Dragan Vukčević, Pravni fakultet - Podgorica,
+- za članove:
+1. akad. prof. dr Branislav Ostojić, Filozofski fakultet - Nikšić,
+2. akad. prof. dr Petar Vukoslavčević, Mašinski fakultet - Podgorica,
+3. akad. prof. dr Miodrag Perović, Prirodno-matematički fakultet - Podgorica,
+4. akad. prof. dr Slobodan Backović, Prirodno-matematički fakultet - Podgorica,
+5. prof. dr Predrag Ivanović, Ekonomski fakultet - Podgorica,
+6. prof. dr Perko Vukotić, Prirodno-matematički fakultet - Podgorica,
+7. prof. dr Ratko Đukanović, Filozofski fakultet - Nikšić,
+8. prof. dr Miladin Vuković, Filozofski fakultet - Nikšić,
+9. prof. dr Žarko Mirković, Muzička akademija - Cetinje,
+10. prof. dr Sreten Škuletić, Elektro-tehnički fakultet - Podgorica,
+11. prof. dr Dragan Radonjić, Pravni faku-ltet-Podgorica,
+12. prof. dr Božidar Šekularac, pomoćnik ministra za nauku i Univerzitet - Podgorica,
+13. prof. dr Dragan Koprivica, Filozofski fakultet - Nikšić,
+14. mr Živko Andrijašević, Filozofski fakultet - Nikšić,
+15. prof. dr Marko Camaj, Filozofski fakultet - Nikšić,
+16. doc. dr Ratko Radović, Klinički centar Crne Gore - Podgorica,
+17. doc. dr Slavka Gvozdenović, Filozofski fakultet - Nikšić,
+18. mr Mirjana Kuljak, Ekonomski fakultet - Podgorica,
+19. Radovan Damjanović, pomoćnik ministra za prosvjetu - Podgorica,
+20. Slobodan Daković, direktor JP Elektroprivreda Crne Gore - Nikšić,
+21. Ivo Armenko, direktor HTP Budvanska Rivijera,
+22. Mihailo Banjević, direktor KAP-a - Podgorica,
+23. Đoko Rajković, direktor AD Plantaže - Podgorica,
+24. Miodrag Caušević, potpredsjednik Pri-vredne komore Crne Gore - Podgorica,
+25. Branislav Bojanić, direktor Republičkog zavoda za zapošljavanje - Podgorica,
+26. Svetozar Bulatović, predsjednik Sindikata prosvjete, nauke, kulture i sporta Podgorica,
+27. Pavle Čukić, profesor pedagogije, OŠ "Radomir Mitrović" - Berane ,
+28. Uroš Zeković, profesor engleskog jezika, Institut za strane jezike - Podgorica,
+29. Tanja Novović, prosvjetni inspektor za predškolsko vaspitanje i obrazovanje, Ministarstvo prosvjete i nauke - Podgorica,
+30. Zuvdija Hodžić, književnik - Podgorica,
+31. Gojko Jelovac, direktor OŠ "Vladimir Nazor" - Podgorica,
+32. Faik Muhović, direktor OŠ "Salko Aljković" - Pljevlja,
+33. Drago Čantrić, direktor Gimnazije "Panto Mališić" - Berane,
+34. dr Nail Draga, direktor OŠ "Bedri Elezaga", Vladimir - Ulcinj,
+35. Borislav Kašćelan, direktor Zavoda za profesionalnu rehabilitaciju lica sa oštećenjima sluha i govora - Kotor,
+36. Dragan Perović, direktor Elektrotehničke škole - Nikšić.
+Za sekretara:
+Načelnik Odjeljenja za obrazovanje u Ministarstvu prosvjete i nauke.
