@@ -1,0 +1,2 @@
+# Član 12
+Nosilac tehničke kontrole potvrđuje ispravnost glavnog projekta na tri primjerka glavnog projekta tako što se na naslovnoj strani svakog posebnog dijela (knjige) glavnog projekta stavlja pečat koji sadrži: "Projekat se prihvata", podatke o preduzeću koje je nosilac tehničke kontrole, datum vršenja tehničke kontrole i potpis odgovornog vršioca tehničke kontrole, ovjeren pečatom preduzeća koje je nosilac tehničke kontrole.

@@ -1,0 +1,2 @@
+# Član 9
+Ako nosilac tehničke kontrole glavnog projekta utvrdi da je neophodna provjera tačnosti numeričkih ili grafičkih rezultata pojedinih dijelova glavnog projekta, ili kompletnog glavnog projekta, koja nije predmet tehničke kontrole, a od uticaja je na kontrolu elemenata iz člana 5 ovog pravilnika, predložiće investitoru i odgovornom projektantu glavnog projekta da obezbijede dopunske dokaze o ispravnosti i tačnosti glavnog projekta ili će, na zahtjev investitora, sam da izvrši potrebne numeričke i grafičke kontrole glavnog projekta.

@@ -1,0 +1,3 @@
+# Član 8
+Tehnička kontrola glavnog projekta za izgradnju objekata od značaja za Republiku, obuhvata i provjeru da li je postupljeno po zahtevima komisije koja je izvršila stručnu kontrolu generalnog projekta ili idejnog rješenja i idejnog projekta (reviziona komisija).
+Ako je reviziona komisija, čiji se izvještaj o izvršenoj stručnoj kontroli idejnog projekta prilaže uz glavni projekat, ukazala na određene nedostatke u idejnom projektu i utvrdila zahtjeve po kojima je projektant obavezan da postupi u glavnom projektu, vršilac tehničke kontrole u svom izvještaju, koji dostavlja investitoru, posebno konstatuje da li je postupljeno po zahtjevima komisije.

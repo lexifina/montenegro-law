@@ -1,0 +1,3 @@
+# Član 2
+Tehnička kontrola, u smislu ovog pravilnika, obuhvata provjeru usklađenosti glavnog projekta za građenje, nadziđivanje zgrada, odnosno pretvaranje zajedničkih djelova zgrade u stambeni ili poslovni prostor, sa zakonom i drugim propisima, tehničkim normativima i standardima koji se primjenjuju za građenje, odnosno rekonstrukciju objekata odgovarajuće vrste i namjene, kao i međusobnu usklađenost projekata koji su njegov sastavni dio.
+Tehničkom kontrolom provjerava se i da li glavni projekat sadrži sve propisane saglasnosti koje izdaju nadležni organi i organizacije, kao i propisane sastavne djelove.
