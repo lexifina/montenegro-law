@@ -1,0 +1,4 @@
+# Član 32
+## Prestanak važnosti
+Stupanjem na snagu ovog pravilnika prestaju da važe: Pravilnik o obliku i načinu vođenja evidencije i obrazaca javnih isprava u osnovnoj školi ("Službeni list RCG" br. 61/92), osim odredbe člana 25 i Pravilnik o sadržaju, obliku i načinu vođenja pedagoške evidencije u srednjoj školi ("Službeni list RCG" br. 61/92), osim odredbe člana 7.
+Pravilnik o javnim ispravama koje izdaje srednja škola ("Službeni list RCG" br. 61/92 i 4/93) i čl. 25 i 7 pravilnika iz stava 1 ovog člana primjenjivaće se do kraja školske godine u kojoj učenici završavaju osnovno obrazovanje odnosno srednje obrazovanje po nastavnom planu i programu koji je donijet po Zakonu o osnovnoj školi ("Službeni list RCG" br. 34/91, 56/92, 32/93, 20/95), Zakonu o srednjoj školi ("Službeni list RCG" br. 28/91, 56/92 i 27/94).
