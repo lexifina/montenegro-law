@@ -1,0 +1,2 @@
+# Član 40
+Evidencija o korisnicima prava iz penzijskog i invalidskog osiguranja za pojedine korisnike počinje da se vodi danom sticanja svojstva zaposlenog invalida rada kod kojeg je utvrđen djelimični gubitak radne sposobnosti, odnosno lica s invaliditetom i korisnika novčane naknade za tjelesno oštećenje, a prestaje danom prestanka tih prava, odnosno danom prestanka radnog odnosa, odnosno ugovora o radu.
