@@ -1,0 +1,2 @@
+Na osnovu člana 21. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Sl. list SRCG", br. 39/90 i 21/91, i "Sl. list RCG", br. 30/92, 58/92, 6/94, 27/94, 30/94, 16/95, 20/95, 23/96) i čl.8, 51, i 52 Statuta Republičkog fonda za zdravstvo ("Sl. list SRCG", br. 47/90 i "Sl.list RCG", br. 36/95, 08/03), Savjet Republičkog fonda za zdravstvo na sjednici, održanoj 23. decembra 2003. godine, donosi
+ODLUKU O USLOVIMA I NAČINU OBEZBJEĐIVANJA ZDRAVSTVENE ZAŠTITE LICIMA IZ ČLANA 21 ZAKONA O ZDRAVSTVENOJ ZAŠTITI I ZDRAVSTVENOM OSIGURANJU
