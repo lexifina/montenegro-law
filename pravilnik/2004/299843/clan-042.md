@@ -1,0 +1,3 @@
+# Član 42
+Davalac usluga certifikovanja ne smije pružati povjerljive podatke, osim u slučajevima kada to traži sud ili državni tužilac.
+Osoba koja kod davaoca usluga certifikovanja sprovodi provjeru rada sistema certifikovanja ima pravo uvida u povjerljive podatke, izuzev u kriptografske podatke ( podaci za izradu i provjeru elektronskog potpisa davaoca usluga certifikovanja ), ali ih ne smije iznositi izvan sistema niti objavljivati u izvještajima. Ta osoba se ugovorom dodatno obavezuje na držanje u potpunoj tajnosti povjerljivih podataka u koje je imala uvid za vrijeme postupaka provjere rada sistema certifikovanja.
