@@ -1,0 +1,2 @@
+137.Na osnovu člana 101 a. Zakona o penzijskom i invalidskom osiguranju ("Sl. list SRCG", br. 14/83, 12/85, 14/89 i 28/91 i "Sl. list RCG", br. 18/92 i 20/93) i člana 63. alineja 2. Statuta Republičkog fonda penzijskog i invalidskog osiguranja ("Sl. list RCG", br. 46/91 i 11/94), Savjet Republičkog fonda penzijskog i invalidskog osiguranja, na sjednici od 29. 02. 2000. godine, donio je
+O D L U K U O ISPRAVCI ODLUKE O DOKUPU STAŽA
