@@ -1,0 +1,5 @@
+# Član 2
+Društva, iz člana 1 ovog pravilnika, moraju da imaju:
+1. zaposleno kvalifikovano lice sa visokom stručnom spremom farmaceutskog smjera i položenim stručnim ispitom, pod čijim nadzorom se obavlja prijem, smještaj, čuvanje i izdavanje medicinskih proizvoda, odnosno zaposleno kvalifikovano lice sa visokom stručnom spremom farmaceutskog, medicinskog, stomatološkog ili veterinarskog smjera sa položenim stručnim ispitom i odgovarajućim znanjem i iskustvom kada su u pitanju medicinska sredstva;
+2. zaposleno lice sa srednjom stručnom spremom, farmaceutskog smjera, sa položenim stručnim ispitom, odnosno zaposleno lice sa srednjom stručnom spremom odgovarajuće struke, sa položenim stručnim ispitom zavisno od vrste medicinskog sredstva, ukoliko se ne bave prometom medicinskih proizvoda, koji vrši poslove prijema, smještaja i druge slične tehničke poslove u vezi sa medicinskim proizvodima i medicinskim sredstvima;
+3. odgovarajući prostor, odnosno prostorije i opremu za prijem, smještaj i čuvanje medicinskih proizvoda i medicinskih sredstava.
