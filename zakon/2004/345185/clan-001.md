@@ -1,0 +1,2 @@
+# Član 1
+Republika Crna Gora garantuje Srbiji i Crnoj Gori uredno vraćanje kredita u iznosu od 11.000.000,00 € od Evropske banke za obnovu i razvoj za finansiranje Projekta modernizacije aerodroma Crne Gore, na način, pod uslovima i u rokovima predviđenim Ugovorom zaključenim između Evropske banke za obnovu i razvoj i Javnog preduzeća "Aerodromi Crne Gore", ukoliko to ne učini JP "Aerodromi Crne Gore", kao krajnji korisnik kredita.
