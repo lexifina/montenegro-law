@@ -1,0 +1,3 @@
+# Član 1
+Ovom odlukom se utvrđuju kriterijumi: klasifikacije aktive banke izložene kreditnom riziku, obračuna i suspendovanja nenaplaćene kamate, kapitalizacije kamate i otpisa kredita i utvrđuju minimalni iznosi sredstava rezervi za pokriće potencijalnih gubitaka iz kreditnog poslovanja banke.
+Aktiva banke izložena kreditnom riziku, u smislu ove odluke su: krediti, pozajmice, avansi, investicije, trajna ulaganja u druga pravna lica i sve druge stavke bilansne aktive kod kojih je banka izložena riziku nemogućnosti naplate, kao i izdate garancije, ostala jemstva, akreditivi, odobreni još neiskorišćeni krediti i druge stavke vanbilansne aktive koje predstavljaju potencijalne obaveze banke.
