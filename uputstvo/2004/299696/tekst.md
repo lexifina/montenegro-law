@@ -1,0 +1,11 @@
+582.Na osnovu člana 26 Zakona o povraćaju oduzetih imovinskih prava i obeštećenja ("Službeni list RCG", broj 21/04), Ministarstvo finansija donijelo je
+UPUTSTVO
+O NAČINU I POSTUPKU REVALORIZACIJE IZNOSA DUGA BIVŠEG VLASNIKA
+1. Ovim uputstvom uređuje se način i postupak revalorizacije iznosa duga koji je bivši vlasnik primio kao naknadu za oduzete stvari ili prava kao i način njegove uplate.
+2. Opštinska komisija prilikom donošenja rješenja o povraćaju oduzetih stvari ili prava, utvrđuje revalorizovani iznos naknade koji je bivši vlasnik dobio prilikom oduzimanja stvari ili prava, i koji je dužan da vrati.
+3. Opštinska komisija prilikom donošenja rješenja o obeštećenju utvrđuje revalorizovani iznos naknade koji je bivši vlasnik dobio prilikom oduzimanja stvari ili prava, i koji je dužan da vrati. 4. Revalorizovana vrijednost iznosa iz tač. 2 i 3 ovog uputstva, koji je bivši vlasnik dobio prilikom oduzimanja stvari ili prava izračunava se na način što se taj iznos preračunava u odgovarajući dolarski iznos po važećem kursu na dan isplate, a zatim preračunava u iznos u eurima, po važećem kursu na dan donošenja rješenja o povraćaju ili obeštećenju.
+5. Kao važeći kurs za izračunavanje dolarskog iznosa protivvrijednosti isplaćene naknade iz tačke 4 ovog uputstva, kao i za pretvaranje dobijenog dolarskog iznosa u iznos u eurima, koristiće se kursna lista bivše Narodne banke Jugoslavije i Centralne banke Crne Gore.
+6. Opštinska komisija će rješenjem obavezati bivšeg vlasnika da utvrđenu revalorizovanu naknadu uplati na račun Fonda za obeštećenje u roku od dvije godine od dana pravosnažnosti rješenja, u četiri polugodišnja anuiteta.
+U slučaju ostvarivanja prava na obeštećenje, iznos obeštećenja utvrđen rješenjem, umanjuje se za iznos revalorizovane naknade koju je bivši vlasnik dobio prilikom oduzimanja stvari ili prava.
+7. Opštinska komisija će u rješenju o povraćaju odrediti da je uplata revalorizovane naknade uslov od kojeg zavisi ostvarivanje prava iz rješenja, tj. da se upis prava svojine na povraćenim nepokretnostima može izvršiti tek nakon dostavljanja dokaza o izvršenoj uplati.
+8. Ovo uputstvo stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Republike Crne Gore".
