@@ -1,0 +1,2 @@
+249.Na osnovu člana 53 stav 4 člana 45 i člana 48 stav 1 Zakona o porezu na dobit preduzeća ("Službeni list Republike Crne Gore", br. 3/92, 3o/93, 3/94, 42/94, 13/96 i 45/98), Direkcija javnih prihoda Republike Crne Gore, donijela je
+P R A V I L N I K O IZMJENAMA I DOPUNAMA PRAVILNIKA O SADRŽINI I NAČINU SASTAVLJANJA PORESKOG I KONSOLIDOVANOG BILANSA, OBLIKU I SADRŽAJU PORESKE PRIJAVE I OBRASCU IZJAVE O IZBJEGAVANJU DVOSTRUKOG OPOREZIVANJA DIVIDENDI
