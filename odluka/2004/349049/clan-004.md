@@ -1,0 +1,2 @@
+# Član 4
+Osiguranicima koji su plaćali doprinos za penzijsko i invalidsko osiguranje prema Odluci o osnovicama i stopi doprinosa za produženo osiguranje ("Sl. list RCG", br. 7/96), od dana stupanja na snagu ove odluke izvršiće se preračunavanje usklađenih neto osnovica koje su služile za plaćanje doprinosa za produženo osiguranje do dana stupanja na snagu ove odluke, na bruto iznose. Preračunavanje u smislu stava 1. ovog člana vrši se u skladu sa Uredbom o načinu preračunavanja postojećih neto zarada u bruto zarade ("Službeni list Republike Crne Gore" br. 34/2002).
