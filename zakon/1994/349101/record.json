@@ -1,0 +1,26 @@
+{
+  "id": 349101,
+  "path": "zakon/1994/349101",
+  "source": "https://www.sluzbenilist.me/propisi/349101",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/349101/download",
+  "title": "Zakon o republičkim taksama na firmu",
+  "issue": "Službeni list Republike Crne Gore, broj 3/1994",
+  "published": "1994-01-27",
+  "in_force": "1994-01-28",
+  "in_force_basis": "Овај закон ступа на снагу наредног дана од дана објављивања у „Службеном листу Републике Црне Горе\"",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "0c2f35e15b943225368b500b1e0f650a524f23ec50b7d1b9c9891493ad28957a",
+  "articles_in_source": 8,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 2541,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "52ea7363ae980a7001d9ac63a7042be01bf5bd181340f5b274cfd6fbf16868e9"
+}
