@@ -1,0 +1,3 @@
+# Član 3
+Sredstva iz člana 2 ove odluke uplaćivaće se u eurima na poseban depozitni račun Srbije i Crne Gore kod Narodne banke Srbije, sa isključivom namjenom otplate obaveza iz Sporazuma o kreditu za razvoj (SAC II), zaključenim između Srbije i Crne Gore kao zajmoprimca i Međunarodnog udruženja za razvoj, kao zajmodavca.
+Po dobijanju pozitivne ocjene Centralne banke Crne Gore od Međunarodnog udruženja za razvoj sredstva iz stava 1 ovog člana prenosiće se na poseban račun Srbije i Crne Gore kod Centralne banke Crne Gore, sa isključivom namjenom otplate obaveza iz Sporazuma o kreditu za razvoj.

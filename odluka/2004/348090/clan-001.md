@@ -1,0 +1,2 @@
+# Član 1
+Vlada Republike Crne Gore garantuje Državnoj zajednici Srbija i Crna Gora (u daljem tekstu: Srbija i Crna Gora) uredno vraćanje kredita u iznosu od 12.300.000,00 SDR (dvanaest miliona i tri stotine hiljada specijalnih prava vučenja) odobrenog od Međunarodnog udruženja za razvoj za strukturno prilagođavanje Republike Crne Gore (SAC II), na način, pod uslovima i u rokovima predviđenim Sporazumom o kreditu za razvoj zaključenim između Srbije i Crne Gore i Međunarodnog udruženja za razvoj.
