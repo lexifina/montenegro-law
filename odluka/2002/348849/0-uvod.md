@@ -1,0 +1,2 @@
+Na osnovu čl. 3 i 9 Zakona o imovini Republike Crne Gore ("Službeni list Republike Crne Gore", br. 44/99), čl. 3, 9a i 17 Zakona o privatizaciji privrede ("Službeni list Republike Crne Gore", br. 59/96, 6/99 i 59/00) i Odluke o Planu privatizacije za 2002. godinu ("Službeni list Republike Crne Gore", br. 13/02), i člana 12 stav 3 Uredbe o Vladi Republike Crne Gore ("Službeni list Republike Crne Gore", br. 15/94 i 4/97), Vlada Republike Crne Gore na sjednici od 10. oktobra 2002. godine, donosi
+O D L U K U O PRODAJI AKCIJA AD "JUGOPETROL" - KOTOR
