@@ -1,0 +1,3 @@
+# Član 16
+Hirurški blok iz člana 15 ovog pravilnika za hiruške zahvate kod malih životinja mora biti opremljen pokretnim operacionim stolom za male životinje, pokretnim stočićem za instrumente i pribor, uređajima za narkozu i UV lampom za dezinfekciju prostora.
+Hirurški blok iz člana 15 ovog pravilnika za hirurške zahvate na velikim životinjama mora biti opremljen stojnicom za fiksaciju i strunjačom, i priborom za obaranje i fiksaciju velikih životinja, odnosno mehaničkom ili hidrauličnom stojnicom-stolom za fiksaciju i obaranje velikih životinja, zatim pokretnim stočićem za instrumente i pribor, uređajima za narkozu i UV lampom za dezinfekciju prostora.
