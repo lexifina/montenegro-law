@@ -1,0 +1,4 @@
+# Član 54
+## Sadržaj sporazuma o naknadi
+Sporazumom o naknadi za eksproprisanu nepokretnost mora biti određen naročito: oblik i visina naknade, rok u kome je korisnik eksproprijacije dužan da ispuni te svoje obaveze, kao i obaveze ranijeg vlasnika, ukoliko su sporazumom ugovorene.
+Sporazum o naknadi unosi se u zapisnik koji mora da sadrži sve podatke neophodne za ispunjenje obaveza stranaka.

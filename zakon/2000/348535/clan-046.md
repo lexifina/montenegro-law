@@ -1,0 +1,2 @@
+# Član 46
+U postupku utvrđivanja naknade, u skladu sa odredbama ovog zakona, naknadom se može odrediti veći iznos od tržišne cijene, uzimajući u obzir materijalne i druge lične i porodične prilike ranijeg vlasnika, ako su te okolnosti od bitnog značaja za njegovu egzistenciju (uvećan broj članova domaćinstva i broj članova sposobnih za privređivanje, odnosno zaposlenih, zdravstveno stanje članova domaćinstva, mjesečni prihodi domaćinstva i sl.).

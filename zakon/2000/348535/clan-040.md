@@ -1,0 +1,5 @@
+# Član 40
+## Naknada za vinograd ili voćnjak
+Naknada za eksproprisani vinograd ili voćnjak koji daju plodove određuje se tako što se odredi obeštećenje za zemljište prema članu 36 ovog člana, pa se tom iznosu doda tržišna vrijednost neamortizovanih investicija uloženih u podizanje i održavanje takvog vinograda ili voćnjaka i iznos čistog prinosa koji bi taj vinograd dao, a obzirom na svoju starost i plodnost, za onoliko godina koliko je potrebno da se podigne i da stupi u punorodnost novi vinograd ili voćnjak.
+Naknada za eksproprisani mlad vinograd ili voćnjak koji ne daju plodove određuje se tako što se odredi naknada za zemljište po odredbama člana 36 ovog zakona, pa se tome doda vrijednost investicija uloženih za njegovo podizanje i iznos čistog prinosa koji bi se ostvario onoliko godina koliko je taj vinograd ili voćnjak star do trenutka eksproprijacije.
+Po odredbama st. 1 i 2 ovog člana određuje se naknada za pojedina stabla voćnjaka i čokota vinove loze koji se nalaze na eksproprisanom zemljištu.
