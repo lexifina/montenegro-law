@@ -1,0 +1,11 @@
+327.Na osnovu člana 130. stav 5. Zakona o vazdušnom saobraćaju ("Službeni list SRJ", br. 12/98, 44/99, 73/2000 i 70/2001) i Odluke o osnivanju Direktorata civilnog vazduhoplovstva države Srbije i države Crne Gore ("Službeni glasnik Republike Srbije", br. 102/2003 i "Službeni list Republike Crne Gore", br. 61/2003), Generalni direktor Direktorata civilnog vazduhoplovstva države Srbije i države Crne Gore izdaje
+N A R E D B U O VISINI NAKNADE ZA IZDAVANJE UVJERENJA O OSPOSOBLJENOSTI ZA OBUČAVANJE VAZDUHOPLOVNOG OSOBLJA
+1.Za izdavanje uvjerenja o osposobljenosti za obučavanje vazduhoplovnog ovlašćenog osoblja centru za obuku vazduhoplovnog ovlašćenog osoblja, plaća se naknada. Visina naknade zavisi od vrste dozvole, odnosno vrste ovlašćenja za koje se kandidati stručno obučavaju u tom centru.
+2.Visina naknade za izdavanje uvjerenja iz tačke 1. ove naredbe data je u tabeli koja čini sastavni dio ove naredbe.
+3.Ukoliko centar za obuku podnese zahtjev za izdavanje uvjerenja za obučavanje vazduhoplovnog ovlašćenog osoblja za sticanje različitih vrsta dozvola i ovlašćenja, iznosi dati u tabeli se ne sabiraju, već je podnosilac zahtjeva dužan da plati samo jedan, i to najviši iznos naknade, koji je u tabeli predviđen za odnosne vrste dozvola, odnosno ovlašćenja.
+4.Za izdavanje uvjerenja o osposobljenosti za obučavanje vazduhoplovnog stručnog osoblja centru za obuku vazduhoplovnog stručnog osoblja, plaća se naknada.
+5.Visina naknade iz tačke 4. ove naredbe iznosi 145 evra.
+6.Ukoliko centar za obuku podnese zahtjev za izdavanje uvjerenja za obučavanje različitih kategorija vazduhoplovnog stručnog osoblja, iznosi naknada se ne sabiraju.
+7.Centar za obuku vazduhoplovnog osoblja koji podnosi zahtjev za izdavanje uvjerenja o osposobljenosti za vršenje samo teorijske obuke, dužan je da uplati 50 % odgovarajućeg iznosa naknade koja je propisana.
+8.Naknada iz tač. 1. i 4. ove naredbe uplaćuje se na poseban račun Direktorata civilnog vazduhoplovstva države Srbije i države Crne Gore, a dokaz o izvršenoj uplati dostavlja se prilikom podnošenja zahtjeva za izdavanje uvjerenja o osposobljenosti za obučavanje vazduhoplovnog osoblja.
+9.Ova naredba stupa na snagu narednog dana od dana objavljivanja u "Službenom glasniku Republike Srbije" i "Službenom listu Republike Crne Gore".
