@@ -1,0 +1,2 @@
+* Iznos od 150 evra odnosi se na: ovlašćenje za instrumentalno letenje (IFR), ovlašćenje prvog pilota na vazduhoplovima težine do 5 700 kg, ovlašćenje prvog i drugog pilota na vazduhoplovima težine preko 5 700 kg, ovlašćenje instruktora letenja za obuku pilota na tipu aviona i ovlašćenje instruktora letenja u vazdušnom saobraćaju.
+** Iznos od 100 evra odnosi se na ostala ovlašćenja koja se upisuju u navedene dozvole.
