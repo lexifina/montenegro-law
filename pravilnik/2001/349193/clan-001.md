@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom uređuje se obavezna pomorska pilotaža (u daljem tekstu: pilotaža) u cilju osiguranja bezbjednosti broda i plovidbe u lukama i na određenim područjima unutrašnjih morskih voda i teritorijalnog mora na ulazu u Bokokotorski zaliv Republike Crne Gore, uslovi koje mora ispunjavati preduzeće koje obavlja poslove pilotaže, stručna sprema, plovidbeni staž ovla-šćenje i drugi uslovi koje mora ispunjavati pomorski pilot, ispitni program, legitimacija pilota, način obilježavanja pilotažnih brodova i pozivni znak za pilotažu.
