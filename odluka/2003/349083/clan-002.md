@@ -1,0 +1,2 @@
+# Član 2
+Prigodni crnogorski kovani novac formiran kao "Kolekcija kompletnog crnogorskog kovanog novca" i "Kolekcija 3 zlatnika i 3 srebrnjaka", mogu u , u reprezentativne svrhe, koristiti, predsjednik Republike Crne Gore, predsjednik Skupštine Republike Crne Gore ,predsjednik Vlade Republike Crne Gore i predsjednik Savjeta Centralne banke Crne Gore, kao poklon najvišim predstavnicima stranih država, vlada, centralnih banaka, međunarodnih finansijskih organizacija i drugih međunarodnih organizacija.
