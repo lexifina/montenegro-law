@@ -1,0 +1,2 @@
+# Član 1
+U Pravilima o transformaciji privatizacionih fondova u akcionarska društva ("Službeni list RCG', broj 19/02) u članu 4, u stavu 1 riječi: "najkasnije u roku od osam dana od dana njegovog donošenja na sastanku vlasnika ''investicionih jedinica'' '', zamjenjuju se riječima: " u roku od osam dana od dana stupanja na snagu zakona kojim se ureĎuju osnivanje i poslovanje investicionih fondova. ''
