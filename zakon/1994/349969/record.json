@@ -1,0 +1,26 @@
+{
+  "id": 349969,
+  "path": "zakon/1994/349969",
+  "source": "https://www.sluzbenilist.me/propisi/349969",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/349969/download",
+  "title": "Zakon o izmjemana i dopunama Zakona o porezu na dohodak građana",
+  "issue": "Službeni list Republike Crne Gore, broj 3/1994",
+  "published": "1994-01-27",
+  "in_force": "1994-02-04",
+  "in_force_basis": "Овај закон ступа на снагу осмог дана од дана објављивања у „Службеном листу Републике Црне Горе\", а примјењиваће се од 1",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "39329701367813c3547e57aa7530e3d6f6116f77ea818a71608063034700460c",
+  "articles_in_source": 67,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 11162,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "e1fb3074011a296b9b2c345c8469b2b3589ef95986dd75eb4acade5c0b78afc2"
+}
