@@ -1,0 +1,2 @@
+# Član 1
+Republika Crna Gora garantuje Srbiji i Crnoj Gori uredno vraćanje kredita u iznosu od 12.000.000,00 Eura od Evropske investicione banke za finansiranje Projekta modernizacije aerodroma u Podgorici i Tivtu, na način, pod uslovima i u rokovima predviđenim Ugovorom o finansiranju zaključenim između Srbije i Crne Gore i Evropske investicione banke, kao i Ugovorom o projektu između Evropske Investicione banke, Republike Crne Gore i Javnog preduzeća" Aerodromi Crne Gore", potpisanim 27. februara 2004. godine, ukoliko to ne učini Javno preduzeće "Aerodromi Crne Gore".
