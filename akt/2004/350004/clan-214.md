@@ -1,0 +1,9 @@
+# Član 214
+Službenici pisarnice staraju se da se sa predmetima posluje pravilno, uredno i na vrijeme, a naročito da se postupa u propisanim ili određenim rokovima, da se otkloni sve što bi smetalo blagovremenom radu sudija po predmetima, a odnosi se na djelokrug rada pisarnice, da sudijama na vrijeme budu predati svi predmeti u rad čim stigne kakav podnesak ili izvještaj po kome treba donijeti odluku, ili preduzeti neku drugu radnju.
+Službenici pisarnice se staraju da sudije i ostali službenici blagovremeno vraćaju predmete u cilju zavođenja u upisnicima.
+Upravitelj pisarnice će skrenuti pažnju sudiji ili službeniku koji postupa u predmetu, na protek pojedinih rokova, ili na očigledne greške u zapisnicima i izvornicima odluka, kao i na očigledne greške i propuste u vezi sa obračunom i naplatom takse, određivanjem rokova i ročišta itd.
+Upravitelj pisarnice redovno, a najmanje jedanput mjesečno izvještava predsjednika suda o odlukama koje nijesu izrađene, a zakonski rok je istekao. O ovakvim slučajevima u sudskoj upravi vodi se za svakog sudiju posebna evidencija.
+Službenik pisarnice stavlja u predmet odgovarajuće konstatacije u pogledu postupanja, odnosno nepostupanja stranaka i drugih lica kao i u vezi rada pisarnice (npr. "dostavnica nije vraćena", "traženi izvještaj nije primljen", "nije stigao odgovor na tužbu", "nije uložena žalba", "stranka nije postupila u ostavljenom roku", i sl.).
+Podneseni pravni lijek dostavlja se na odgovor protivnoj stranci i na pravnom lijeku utiskuje štambilj "dostavljanje žalbe na odgovor".
+Kada se kompletira spis za dostavljanje drugostepenom sudu, pisarnica će pripremiti nacrt izvještaja o dostavljanju predmeta višem sudu, koji podnosi sudiji na odobrenje i potpis.
+Upravitelj pisarnice provjerava da li je pravni lijek blagovremen i dozvoljen i ako smatra da je pravni lijek neblagovremen ili nedozvoljen na njemu običnom olovkom stavlja oznaku "neblagovremeno" ili "nedozvoljeno" i predmet predaje sudiji.

@@ -1,0 +1,2 @@
+# Član 138
+Prijem pismena od pošiljaoca koji poštu dostavlja koristeći dostavnu knjigu, potvrđuje se stavljanjem datuma i potpisa, u knjizi, kao i na dostavnici, povratnici ili na kopiji pismena čiji se original prima, ako su priloženi. Pored potpisa stavlja se i službeni pečat. Vrijeme prijema (sat, minut), stavlja se u svim slučajevima kad je to propisima predviđeno ili kad to odredi predsjednik vijeća ili sudija pojedinac. Ovaj podatak treba zabilježiti i na primljenom pismenu, odnosno na njegovom omotu, ako službenik koji ga je primio nije ovlašćen i da ga otvori.

@@ -1,0 +1,2 @@
+# Član 349
+Ako isti povjerilac na osnovu istog izvršnog naslova zatraži novim predlogom proširenje izvršenja upotrebom istog sredstva izvršenja ili više istovjetnih sredstava izvršenja, koji nijesu bili obuhvaćeni ranijim predlogom ili već donijetim rješenjem o izvršenju, ovakav novi predlog neće se posebno upisati u upisnik "I" nego će se uložiti u postojeći predmet i uvesti u popis spisa pod sljedećim brojem.

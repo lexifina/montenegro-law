@@ -1,0 +1,3 @@
+# Član 140
+Ako službenik koji primi pošiljku nije ovlašćen da je otvori, dužan je da odmah po prijemu, pošto stavi na omot datum i vrijeme prijema (sat i minut), preda službeniku ovlašćenom za njeno otvaranje. Ovo naročito važi za pošiljke upućene lično predsjedniku suda ili istražnom sudiji, za pošiljke koje imaju spoljnu oznaku "povjerljivo", "strogo povjerljivo" ili "službena tajna", kao i za pošiljke u vezi sa licitacijom, konkursom i sl.
+Obične pošiljke predaju se ovlašćenom službeniku za otvaranje neposredno, dok se preporučene pošiljke i pošiljke sa oznakom "povjerljivo", "strogo povjerljivo" ili "službena tajna" i druga pošta čiji je prijem pismeno potvrđen, predaju preko knjige.

@@ -1,0 +1,3 @@
+# Član 223
+## 6.3. Postupanje sa predmetom koji je vraćen neposredno od strane višeg suda
+Kad sud primi predmet od višeg suda, službenik suda vrši razvođenje u odgovarajućem upisniku. Ako je predmetna odluka od strane višeg suda u cjelini ili djelimično ukinuta, službenik suda će predmet zavesti pod novim brojem odgovarajućeg upisnika i bez odlaganja ga dostaviti sudiji. U tom slučaju sudija je dužan da najkasnije u roku od mjesec dana izda naredbu o zakazivanju ročišta za raspravljanje, s tim što će istovremeno narediti da se uz poziv za ročište strankama dostavi prepis drugostepene odluke. Ako zbog opravdanih razloga nije moguće zakazati ročište u ovom roku, odluka višeg suda dostaviće se strankama bez odlaganja.

@@ -1,0 +1,4 @@
+# Član 341
+Vodilac "Dnevnika novčanih kazni, troškova krivičnog postupka i oduzete imovinske koristi" dužan je provjeravati naplatu i preduzimati radnje da se potraživanje iz dnevnika i kontovnika naplati što prije, a naročito prije zastarjelosti.
+Na kraju svakog mjeseca vodilac dnevnika je dužan pregledati sve otvorene stavke i dostavljanjem "Obavjestiti o proteku roka naplate" (obrazac br. 64 Fm 5) obavjestiti odgovarajućeg sudiju da je rok za naplatu protekao. Nakon te obavijesti pokreće se izvršni postupak radi naplate dužnog iznosa.
+Ako je sud, koji je donio odluku, zatražio izvršenje novčane kazne, troškova krivičnog postupka i oduzete imovinske koristi od drugog suda, sud izvršenja će obavijestiti sud koji je tražio naplatu o pokretanju izvršnog postupka i navesti oznaku svog spisa.

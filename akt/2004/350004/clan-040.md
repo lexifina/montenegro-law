@@ -1,0 +1,3 @@
+# Član 40
+Sudije i službenici suda koriste godišnji odmor, po pravilu,u julu i avgustu.
+Raspored korišćenja godišnjeg odmora predsjednik sačinjava tako da u sudu ostane dovoljan broj sudija i službenika, kako bi se obezbijedilo nesmetano vođenje postupka u predmetima koji su zakonom određeni kao hitni (pritvorskim, istražnim, predmetima krivičnog postupka prema maloljetnicima, radnim sporovima, sporovima o zakonskom izdržavanju, smetanju državine, čuvanju i vaspitavanju djece, mjeničnim, čekovnim i zemljišno-knjižnim i privrednim sporovima koji se vode u toku stečaja, po predlozima za obezbjeđenje dokaza, predlozima za izdavanje, ograničenje ili ukidanje privremene mjere i dr.).

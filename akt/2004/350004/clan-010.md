@@ -1,0 +1,2 @@
+# Član 10
+Predsjednik suda usklađuje rad sudskih odjeljenja i drugih organizacionih jedinica u sudu. Kad predsjednik suda uoči u radu odjeljenja, vijeća, sudije pojedinca i istražnih sudija nejednako postupanje ili postupanje protivno važećim propisima ili odstupanje od ustaljene sudske prakse viših sudova, iznijeće svoja zapažanja radi zauzimanja jedinstvenog stava na sjednicama sudskih odjeljenja odnosno sudija.

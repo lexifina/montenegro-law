@@ -1,0 +1,2 @@
+# Član 87
+Iz spiska stalnih sudskih vještaka brišu se lica: koja se više ne nalaze u Republici Crnoj Gori, koja nijesu u mogućnosti da vrše dužnost vještaka zbog starosti, bolesti, gubitka poslovne sposobnosti ili iz drugih razloga, kao i lica koja su se pokazala nesposobnim ili koja se neopravdano neodazivaju sudskim pozivima. U tom cilju spisak stalnih sudskih vještaka revidira se na kraju svake godine. Na mjesto brisanih određuju se, po potrebi, druga lica za stalne vještake.

@@ -1,0 +1,2 @@
+# Član 342
+Ako je od dostavljanja obavijesti za izvršenje protekao rok određen u presudi, vodilac "Dnevnika novčanih kazni, troškova krivičnog postupka i oduzete imovinske koristi" dužan je zatražiti od izvršnog organa suda, ili od suda izvršenja, obavijest o razlozima zbog kojih izvršenje nije provedeno u navedenom roku na obrascu "Zahtjev o obavijesti o toku izvršenja novčane kazne, troškova krivičnog postupka i oduzete imovinske koristi" (obrazac br. 64 Fm 6). O utvrđenom stanju obavijestiće istovremeno i predsjednika suda.

@@ -1,0 +1,4 @@
+# Član 356
+Ako se uvidom u "Popis pljenidaba" (obrazac br. 63) ustanovi da su na pojedinim dužnikovim pokretnostima već osnovana založna prava u korist određenog povjerioca, kasnija pljenidba u korist kod drugog povjerioca na već zaplijenjenim pokretnostima provodi se uz stavljanje crvenom olovkom zabilješke o tome na pljenidbenom zapisniku u posebnoj rubrici pored upisa založnog prava povjerioca (na pr. "popisano u korist NN" i sl.).
+Pljenidba pokretnosti koje nijesu bile obuhvaćene prvom pljenidbom upisuju se u nastavku pljenidbenog zapisnika, koji se sastavlja povodom provođenja novog izvršenja protiv istog dužnika.
+Zapisnik o naknadno provedenoj pljenidbi čuva se u predmetu u kojem je provedena prva pljenidba, a u spise izvršnog predmeta u kome je sprovedena naknadna pljenidba stavlja se zabilješka izvršnog organa o obavljenoj naknadnoj pljenidbi na mjestu gdje bi trebao da bude pljenidbeni zapisnik.

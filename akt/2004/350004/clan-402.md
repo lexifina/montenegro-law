@@ -1,0 +1,4 @@
+# Član 402
+Sva primanja i izdavanja novčanog depozita koji se čuvaju u blagajni suda provode se preko "Blagajničkog izvještaja za gotovinu uplaćenu po strankama" (obrazac br.64 Fm 12), po redosljedu primanja i izdavanja. Zatim se na osnovu izvornika blagajničkog izvještaja za gotovinu uplaćenu po strankama, ta primanja i izdavanja knjiže u "Dnevnik novčanog depozita" koji se čuva u blagajni suda preko odgovarajućih kontovnika.
+Primanja i izdavanja novčanih depozita koji se čuvaju na računu suda u banci upisuju se na osnovu izvještaja banke. Izvještaje o uplatama i isplatama novčanih depozita koji se čuvaju na računu suda u banci čuva vodilac "Dnevnika novčanih depozita" koji se čuvaju na računu suda u banci, sređene po rednim brojevima izvoda u posebnom omotu.
+Primanja i izdavanja nenovčanih depozita upisuju se na osnovu zapisnika o primanju i naredbe sudije o izdavanju i knjiže se kopirnom metodom u "Dnevnik nenovčanih depozita" preko odgovarajućih kontovnika.

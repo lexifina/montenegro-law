@@ -1,0 +1,2 @@
+# Član 69
+Ukoliko dokument obuhata više listova, listovi se lijepe (ili spajaju na drugi adekvatan način koji onemogućava razdvajanje dokumenta) i lijepljeni listovi ovjeravaju se pečatom. Tako se postupa i kad je originalnom dokumentu priložen prevod koji je napravio sudski tumač.Ukoliko je za ovjeru priložen dokument na četvrtini strane, klauzula o ovjeri utiskuje se na poleđini. Ukoliko su potrebne nadovjere dodaje se novi list koji se pričvrsti za dokument i opremi po odredbama stava 1 ovog člana.
