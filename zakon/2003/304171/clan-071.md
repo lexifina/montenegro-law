@@ -1,0 +1,4 @@
+# Član 71
+Jedinica ili ustanova Vojske nadležna za vojno lice koje je u slučajevima iz člana 7 stav 1 tač. 1, 2 i 6 ovog zakona zadobilo ranu, povredu ili ozljedu usljed kojih je nastupilo oštećenje organizma, odnosno koje je poginulo ili umrlo, pokrenuće odmah, po službenoj dužnosti, odnosno na zahtjev pravno zainteresovanog lica, postupak radi utvrđivanja uzroka i okolnosti pod kojima je to lice ranjeno, povrijeđeno, ozlijeđeno, odnosno poginulo ili umrlo.
+Postupak, u smislu stava 1 ovog člana, za lice iz člana 14 ovog zakona pokreće nadležni organ, u skladu sa zakonom kojim se uređuje vršenje vojne obaveze.
+Po završenom postupku, nadležna vojna jedinica ili ustanova, odnosno nadležni organ izdaće pravno zainteresovanom licu uvjerenje o okolnostima iz stava 1 ovog člana radi ostvarivanja prava po ovom zakonu.

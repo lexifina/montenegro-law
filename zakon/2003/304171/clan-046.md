@@ -1,0 +1,3 @@
+# Član 46
+Pravo na novčanu naknadu materijalnog obezbjeđenja imaju borci, vojni invalidi i civilni invalidi rata od I do V grupe, bez obzira na godine života, kao i ostali vojni invalidi i civilni invalidi rata, ako su stariji od 60 godina života (žene), odnosno 65 godina života (muškarci) ili su nesposobni za rad i privređivanje.
+Pravo na novčanu naknadu materijalnog obezbjeđenja u smislu ovog zakona, imaju i članovi porodice umrlih ili poginulih boraca, vojnih invalida, civilnih invalida rata i članovi porodice palog borca, ako su nesposobni za rad i privređivanje i ako su materijalno neobezbijeđeni.

@@ -1,0 +1,3 @@
+# Član 84
+Pravo na ličnu invalidninu, porodičnu invalidninu, uvećanu porodičnu invalidninu, dodatak za njegu i pomoć od strane drugog lica, ortopedski dodatak, novčanu naknadu materijalnog obezbjeđenja i porodični dodatak pripada od prvog dana narednog mjeseca po ispunjenju uslova propisnih ovim zakonom, ako je zahtjev podnešen u roku od tri mjeseca od dana ispunjenja uslova, odnosno od prvog dana narednog mjeseca po podnošenju zahtjeva, ako je zahtjev podnešen po isteku tog roka.
+Danom ispunjenja uslova za ostvarivanje prava vojnog invalida po osnovu bolesti zadobijene u slučajevima iz čl. 12 i 13 ovog zakona smatra se dan otpuštanja iz Vojske.

@@ -1,0 +1,2 @@
+# Član 101
+Nosioci "Partizanske spomenice 1941." godine, lica odlikovana Ordenom Narodnog heroja i članovi njihovih porodica pravo na zdravstvenu zaštitu i druga prava u vezi sa ostvarivanjem zdravstvene zaštite, pravo na ortopedska pomagala, pravo na banjsko i klimatsko liječenje, pravo na besplatnu i povlašćenu vožnju i pravo na pogrebne troškove ostvarivaće u skladu sa ovim zakonom na način, po postupku i u obimu kao za vojne invalide.

@@ -1,0 +1,3 @@
+# Član 25
+Pri utvrđivanju procenta invaliditeta vojnog invalida, kod koga je u slučajevima iz člana 9 i člana 13 stav 1 tačka 3 ovog zakona nastupilo oštećenje organizma, uzima se odgovarajući procenat od cjelokupnog oštećenja organizma, s obzirom na prirodu bolesti i njen razvitak, trajanje i težinu ratnih napora, odnosno napora pri vršenju vojne službe, kao i u drugim slučajevima koji mogu uticati na bolest.
+Procenat vojnog invaliditeta utvrđen konačnim rješenjem u smislu stava 1 ovog člana, na osnovu pogoršanja bolesti, koji je određen pri prvom utvrđivanju vojnog invaliditeta, ne može se povećavati bez obzira na dalje pogoršanje.

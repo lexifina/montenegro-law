@@ -1,0 +1,4 @@
+# Član 91
+Pravo na porodičnu invalidninu i ostala prava po ovom zakonu trajno prestaju bračnom drugu stupanjem u brak, osim ako su ta prava stečena po osnovu nesposobnosti za rad i privređivanje nastalih prije navršenih 45 godina života (udovica), odnosno 50 godina života (udovac).
+Pravo iz stava 1 ovog člana prestaje i bračnom drugu koji ne vrši roditeljsku dužnost prema djeci sa kojom koristi prava utvrđena ovim zakonom. Ako roditelj nastavi da vrši roditeljsku dužnost, može nastaviti da koristi ta prava za vrijeme dok djeca ispunjavaju uslove za korišćenje prava.
+Korisniku prava iz st. 1 i 2 ovog člana, koji je to pravo stekao po osnovu nesposobnosti za rad i privređivanje, prestaju prava po ovom zakonu danom zaposlenja, odnosno bavljenja samostalnom djelatnošću, osim bračnom drugu koji ispunjava uslove u pogledu godina života za ostvarivanje prava u skladu sa ovim zakonom.

@@ -1,0 +1,2 @@
+# Član 85
+Vojni invalid koji stekne prava po ovom zakonu po osnovu bolesti i uživa ih najmanje pet godina, pa se poslije toga stanje poboljša i procenat invaliditeta smanji ispod procenta utvrđenog u slučajevima iz čl. 12 i 13 ovog zakona zadržava svojstvo vojnog invalida i koristi prava prema smanjenom procentu invaliditeta, pod uslovom da utvrđeno oštećenje organizma nije manje od 20%, odnosno 50%.

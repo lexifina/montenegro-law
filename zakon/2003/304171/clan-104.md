@@ -1,0 +1,2 @@
+# Član 104
+Korisnik porodične invalidnine državljanin Republike Crne Gore i državljanin Srbije i Crne Gore koji je to pravo ostvario kao član porodice lica poginulog ili umrlog od posljedica rane, povrede, ozljede ili bolesti zadobijene u oružanim snagama Socijalističke Federativne Republike Jugoslavije i Federativne Narodne Republike Jugoslavije ima pravo na porodičnu invalidninu u iznosu iz člana 36 stav 2 ovog zakona.

@@ -1,0 +1,2 @@
+# Član 72
+Vojni invaliditet, invaliditet civilnog invalida rata, pravo na dodatak za njegu i pomoć od strane drugog lica, pravo na ortopedski dodatak, nesposobnost za rad i privređivanje kao uslov za ostvarivanje prava po ovom zakonu, kao i činjenica da je bolest u uzročnoj vezi sa vršenjem vojne službe, odnosno psihosomatskih bolesti za utvrđivanje svojstva civilnog invalida rata u smislu čl. 9, 13 i 18 ovog zakona utvrđuje se na osnovu nalaza i mišljenja ljekarske komisije.

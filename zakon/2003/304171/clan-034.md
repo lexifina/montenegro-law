@@ -1,0 +1,10 @@
+# Član 34
+## 4. Porodična invalidnina i uvećana porodična invalidnina
+Pravo na porodičnu invalidninu imaju članovi uže porodice vojnog invalida od I do VII grupe, poslije njegove smrti, članovi uže porodice palog borca i članovi uže porodice lica koje je poginulo ili umrlo od posljedica rane, povrede, ozljede ili bolesti zadobijene u slučajevima iz čl. 12 i 13 ovog zakona.
+Pravo na porodičnu invalidninu ima i bračni drug umrlog civilnog invalida rata koji je do njegove smrti bio korisnik dodatka za njegu i pomoć od strane drugog lica.
+Pravo na porodičnu invalidninu ostvaruje se pod sljedećim uslovima:
+1) udovica - kad navrši 45 godina života ili udovac kad navrši 50 godina života ili prije navršenih 45, odnosno 50 godina života ako su nesposobni za rad i privređivanje;
+2) djeca, usvojenici i pastorčad - do navršene 15. godine života, odnosno do završetka školovanja, a najkasnije do navršene 26. godine života, a djeca palog borca do 27. godine života, a ako su nesposobni za rad i privređivanje za vrijeme dok ta nesposobnost traje, pod uslovom da je nesposobnost nastupila prije navršene 15. godine, odnosno 26. godine života, a kod djece palog borca do 27. godine života;
+3) ako užu porodicu sačinjavaju bračni drug sa jednim djetetom ili sa više djece, bračni drug ima pravo na porodičnu invalidninu kao sauživalac sa njima bez obzira na uslove iz stava 1 tačka 1 ovog člana i to dok i jedno od te djece ima pravo na porodičnu invalidninu.
+Lica iz stava 3 tačka 2 ovog člana koja su školovanje prekinula zbog služenja vojnog roka ili bolesti mogu koristiti pravo na porodičnu invalidninu i za vrijeme služenja vojnog roka, odnosno za vrijeme trajanja bolesti i to do navršene 26. godine života, a djeca palih boraca do navršene 27. godine života.
+Izuzetno od odredbi st. 1 i 2 ovog člana, bračni drug vojnog invalida i bračni drug civilnog invalida rata koji je u vrijeme smrti bio korisnik dodatka za njegu i pomoć od strane drugog lica ima pravo na porodičnu invalidninu nezavisno od uslova predviđenih u stavu 3 tačka 1 ovog člana, ako je sa vojnim invalidom, odnosno civilnim invalidom rata živio u zajedničkom domaćinstvu.
