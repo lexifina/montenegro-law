@@ -1,0 +1,4 @@
+# Član 10
+Ako je šteta pričinjena krčenjem ili čistom sječom šuma onda se, pored naknade štete za drvnu masu i uništene biljke u prirodnom podmlatku, odnosno šumskoj kulturi u naknadu štete uračunavaju i troškovi potrebni da se zemljište pošumi i uspostavi šumski red.
+Ako je šteta u šumi pričinjena požarom, onda se, pored naknade štete za drvnu masu i uništene biljke u prirodnom podmlatku, odnosno šumskoj kulturi, u naknadu štete uračunavaju i troškovi oko gašenja požara, čuvanja zgarišta i obnove šuma.
+Ako su dubeća stabla oštećena, a nijesu posječena, kao što je slučaj kod koranja, podbjeljivanja, prevršavanja i kresanja dubećih stabala ili prilikom vađenja luča, like i dr., onda se naknada štete za ovako oštećeno stablo obračunava 50% manje od iznosa naknade štete obračunate prema odredbama čl. 4, 5 i 6 ovog pravilnika, kao da je stablo posječeno, a drvo od tog stabla nije prisvojeno.

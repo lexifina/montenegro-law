@@ -1,0 +1,3 @@
+# Član 12
+Iznos naknade štete pričinjene šumama putem paše i brsta stoke utvrđuje se tako što se za svaki slučaj hvatanja stoke na bespravnoj paši ili brstu računa po jednom komadu sitne stoke (ovca, jagnje i dr.) 1 kilogram suvog sijena, a po jednom komadu krupne stoke, (konj, govedo, tele, ždrijebe, magarac i dr.) 5 kilograma suvog sijena.
+Iznos naknade štete iz stava 1. ovog člana obračunava se tako što se prodajna cijena suvog sijena po jedinici mjere uvećava za 200% ako se paša, odnosno brst vrši u šumama i na šumskom zemljištu protivno uslovima određenim šumskim osnovama i programom gazdovanja šumama, odnosno za 400% ako se paša ili brst vrši u šumama i na šumskom zemljištu gdje to nije dozvoljeno.

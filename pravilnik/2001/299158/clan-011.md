@@ -1,0 +1,2 @@
+# Član 11
+Za gljive, sjeme i plodove, ljekovito i drugo bilje, iznos naknade štete pričinjene protivpravnim korišćenjem, odnosno uništavanjem obračunava se tako da se prodajna cijena odnosnog proizvoda, po jedinici mjere, uveća za 200%, ako proizvodi potiču iz prirodnih šuma i šumskih kultura, odnosno za 300% ako proizvodi potiču iz priznatih šumskih sjemenskih objekata, zaštitnih šuma, šuma sa posebnom namjenom, od matičnih, elitnih ili plus stabala i stabala rijetkih vrsta drveća čija je sječa zabranjena.
