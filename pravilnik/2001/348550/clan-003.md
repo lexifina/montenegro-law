@@ -1,0 +1,4 @@
+# Član 3
+Panoi sa natpisima se mogu postavljati na zemljištu pored magistralnog i regionalnog puta na udaljenosti najmanje 5m, računajući od krajnje tačke poprečnog profila, po pravilu sa desne strane puta u smjeru odvijanja saobraćaja, pod uglom od 70 do 900 u odnosu na osu puta, odnosno pod uglom pod kojim će se izbjeći refleksija svjetlosti farova vozila.
+Panoi sa natpisima kojima se obavještava o kulturnim spomenicima, istorijskim i prirodnim znamenitostima ili kojima se obavještava o blizini objekata od značaja za turizam i saobraćaj, postavljaju se na udaljenosti od objekta ili sadržaja na koji se odnose koja omogućava pravovremeno reagovanje učesnika u saobraćaju.
+Izuzetno, reklame se postavljaju i na zaštitnim ogradama pored određenih objekata ili prostora (igrališta, stadioni, škole, pijace i sl.), a koji se nalaze pored javnih puteva.
