@@ -1,0 +1,6 @@
+520.Na osnovu člana 58. Zakona o penzijskom i invalidskom osiguranju ("Službeni list RCG", br. 54/2003 i 39/2004) i člana 9. stav 2. alineja 1. Statuta Republičkog fonda penzijskog i invalidskog osiguranja ("Službeni list RCG", broj 48/2004), Upravni odbor Republičkog fonda penzijskog i invalidskog osiguranja, na sjednici od 31. avgusta 2004. godine, donio je
+O D L U K U O USKLAĐIVANJU VRIJEDNOSTI PENZIJA ZA JEDAN LIČNI BOD OD 1. JULA 2004. GODINE
+1. Ovom odlukom usklađuje se, od 1. jula 2004. godine, vrijednost penzije za jedan lični bod, na osnovu statističkih podataka, sa kretanjem troškova života i prosječne zarade zaposlenih na teritoriji Republike Crne Gore u prethodnom polugodištu, u procentu koji predstavlja zbir polovine procenta rasta, odnosno pada troškova života i polovine procenta rasta, odnosno pada zarada, za 1,49%.
+2. Osnov za usklađivanje po ovoj odluci čini nominalni iznos vrijednosti penzije za jedan lični bod za prvo polugodište 2004. godine.
+3. Vrijednost penzije za jedan lični bod, usklađen prema ovoj odluci, iznosi 3,01 EUR za jul, avgust, septembar, oktobar, novembar i decembar 2004. godine.
+4. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Republike Crne Gore".
