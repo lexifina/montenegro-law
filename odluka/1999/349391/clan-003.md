@@ -1,0 +1,4 @@
+# Član 3
+Za ulazak u nacionalni park i upoznavanje njegovih prirodnih znamenitosti i pružanje usluga posjetiocima utvrđuju se naknade i to:
+Za domaće posjetioce Za ino-posjetioce - ulaznica (izuzev za djecu do 10 god.) 10,00 din/osobi 2 DEM/osobi - za dake i studente 5,00 din/osobi - - za motociklo 10,00 din/osobi 3 DEM/osobi - za putnički automobil 20,00 din/vozilo 5 DEM/vozilo - za putnički automobil sa prikolicom i za kombi 30,00 din/vozilo 10 DEM/vozilo - za autobus DD "Bjelasica" 150,00 din/vozilo - - za autobus turističke agencije 150, 00 din/vozilo 100 DEM/vozilo - za autobuse sa studentima i đacima 100,00 din/vozilo 50 DEM/vozilo - za razgledanje prirodnjačke zbirke i prikazivanje filma 25,00 din/osobi 5 DEM - za korišćenje sale 200,00 din 30 DEM - korišćenje vodiča za jedan dan 250,00 din 40 DEM - iznajmljivanje konja za jedan dan 500,00 din 100 DEM
+Naknade iz ovoga člana obračunava i naplaćuje čuvar parka ili drugo ovlašćeno lice.

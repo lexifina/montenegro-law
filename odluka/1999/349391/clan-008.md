@@ -1,0 +1,22 @@
+# Član 8
+Za obavljanje sportskog i privrednog ribolova na vodama kojima upravlja Nacionalni park i u kojima je dozvoljeno obavljanje ribolova utvrđuju se naknade i to:
+- Nacionalni park "Durmitor"
+- dnevna ribolovna dozvola za Crno jezero 200,00 din 35 DEM
+- za penzionere i članove ribolovnog društva "Žabljak" 150,00 din
+- dnevna ribolovna dozvola za rijeku Taru 150,00 din 20 DEM
+- Nacionalni park "Biogradska gora"
+- dnevna ribolovna dozvola 120,00 din 20 DEM
+- za penzionere 70,00 din
+- Nacionalni park "Skadarsko jezero"
+- dnevna dozvola za obavljanje sportskog ribolova 70,00 din 20 DEM
+- godišnja dozvola za obavljanje sportskog ribolova 800,00 din
+- za penzionere 400,00 din
+- godišnja dozvola za obavljanje privrednog ribolova za šarana, jegulju i ukljevu 3.500,00 din
+- pojedinačno za šarana 2.500,00 din
+- pojedinačno za jegulju 1.000,00 din
+- pojedinačno za ukljevu 1.000,00 din
+- za pari do 500 udica 1.000,00 din
+- za ulov zelene žabe 1.000,00 din Za odstrel pojedinih vrsta divljači i obavljanje sportskog lova na teritoriji nacionalnog parka utvrđuju se naknade i to:
+- Nacionalni park "Skadarsko jezero"
+- dnevna dozvola 200,00 din 220 DEM
+- godišnja dozvola 800,00 din Naknade iz ovoga člana obračunava i naplaćuje čuvar parka ili drugo ovlašćeno lice na dan izdavanja dozvole, a uplata se može vršiti i na žiro račun.
