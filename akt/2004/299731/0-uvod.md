@@ -1,0 +1,2 @@
+434.Na osnovu člana 131 stav 2 Zakona o radu ("Službeni list RCG", broj 43/03) i člana 81 stav 1 Opšteg kolektvnog ugovora ("Službeni list RCG", broj 1/04), Samostalni sindikat tekstila, kože,obuće, i hemijske industrije Crne Gore i Odbor Udruženja tekstila, kože, gume, obuće, hemijske i farmaceutske industrije Privredne komore Crne Gore, zaključuju
+GRANSKI KOLEKTIVNI UGOVOR ZA DJELATNOST TEKSTILA, KOŽE, GUME, HEMIJSKE I FARMACEUTSKE INDUSTRIJE
