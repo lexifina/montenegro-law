@@ -1,0 +1,2 @@
+Na osnovu člana 16 stav 1 Zakona o igrama na sreću ("Službeni list RCG", broj 20/95), a u vezi sa čl. 2 i 3 Odluke o uslovima i načinu sticanja prava na priređivanju igara na sreću putem koncesije ("Službeni list RCG", broj 4/96), Vlada Republike Crne Gore, na sjednici održanoj 18. januara 2002. godine, donijela je
+O D L U K U O PRIHVATANJU UGOVORA O PRENOŠENJU PRAVA NA PRIREĐIVANJE POSEBNIH IGARA NA SREĆU U JEDNOJ IGRAČNICI U BUDVI
