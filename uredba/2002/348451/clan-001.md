@@ -1,0 +1,2 @@
+# Član 1
+Na sticanje i ostvarivanje prava iz penzijskog i invalidskog osiguranja, do donošenja novog zakona o penzijskom i invalidskom osiguranju, u Republici Crnoj Gori primjenjuju se Zakon o osnovama penzijskog i invalidskog osiguranja ("Službeni list SRJ", broj 30/96), Zakon o penzijskom i invalidskom osiguranju ("Službeni list SRCG", br. 14/83,12/85, 14/89 i 28/91 i "Službeni list RCG", br. 18/92 i 20/93) i propisi doneseni na osnovu ovih zakona.
