@@ -1,0 +1,9 @@
+Na osnovu čl. 13 i 15 Zakona o izboru odbornika i poslanika ("Službeni list Republike Crne Gore"), br. 16/00, 18/00, 9/01, 41/02 i 46/02) i člana 149 Zakona o lokalnoj samoupravi ("Službeni list Republike Crne Gore", broj 42/03) i člana 43 Zakona o izboru predsjednika opštine ("Službeni list Republike Crne Gore", broj 42/03) donosim
+O D L U K U
+O RASPISIVANJU IZBORA ZA ODBORNIKE SKUPŠTINE OPŠTINE ŽABLJAK I
+PREDSJEDNIKA OPŠTINE ŽABLJAK
+1. Izbor odbornika Skupštine opštine Žabljak i predsjednika Opštine Žabljak održaće se dana 29. avgusta 2004. godine.
+2. Rokovi za sprovođenje izbornih radnji počinju teći od 7. juna 2004. godine.
+3. Rok za dostavljanje izbornih lista za odbornike i podnošenje predloga kandidata za predsjednika Opštine Opštinskoj izbornoj komisiji počinje teći od 27. juna 2004. godine, a završava se 4. avgusta 2004. godine.
+4. Izborna propaganda preko sredstava javnog informisanja i javnih skupova prestaje 27. avgusta u 24 časa.
+5. Ova odluka stupa na snagu danom donošenja, a biće objavljena u "Službenom listu Republike Crne Gore".
