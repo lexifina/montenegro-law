@@ -1,0 +1,2 @@
+37. Na osnovu čl.64 i 65 Zakona o svojinskoj i upravljačkoj transformaciji ("Službeni list RCG",br. 2/92 i 27/94), čl. 2a i 3 Zakona o privatizaciji privrede ("Službeni list RCG",br. 23/96 i 6/99) i člana 12 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG",br. 15/94 i 4/97), Vlada Republike Crne Gore, na sjednici od 18.januara 2001. godine, donijela je
+ODLUKU O POSEBNOM PROGRAMU PRIVATIZACIJE JAVNOG PREDUZEĆA "CRNA GORA ŠUME" - PLJEVLJA
