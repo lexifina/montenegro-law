@@ -1,0 +1,2 @@
+# Član 1
+Nadležnosti i ovlašćenja saveznih organa i organizacija utvrđena Zakonom o hartijama od vrijednosti ("Službeni list SRJ", broj 26/95), Zakonom o berzama, berzanskom poslovanju i berzanskim posrednicima ("Službeni list SRJ", broj 90/94), Zakonom o stranim ulaganjima ("Službeni list SRJ", br. 79/94, 15/96 i 29/96) (u daljem tekstu: savezni zakoni), privremeno, radi zaštite ekonomskih interesa, preuzimaju nadležni organi i organizacije Republike Crne Gore.
