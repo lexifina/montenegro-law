@@ -1,0 +1,2 @@
+# Član 1
+Prihvata se Ugovor o prenošenju prava korišćenja viška voda sa izvorišta "Potkučje" u Mojdežu na "Igalopromet" Preduzeće za unutrašnju i spoljnu trgovinu na veliko i malo, ugostiteljstvo, turizam, proizvodnju, drumski saobraćaj i usluge "ehport-import" sa p.o. iz Igala, radi eksploatacije vode i njene prodaje Javnom preduzeću za vodosnabdijevanje stanovništva i privrede u Opštini Herceg Novi, koji je pripremilo Ministarstvo poljoprivrede, šumarstva i vodoprivrede.
