@@ -1,0 +1,2 @@
+# Član 20
+Danom početka primjene ovih pravila prestaju da važe Pravila o vođenju i čuvanju poslovnih knjiga i druge dokumentacije o poslovanju specijalizovanih privatnih menadžment preduzeća i privatizacionih fondova ("Službeni list RCG", br. 19/02) i Pravila o nadzoru i kontroli poslovanja specijalizovanih privatnih menadžment preduzeća i privatizacionih fondova ("Službeni list RCG", br. 19/02 i 18/03).

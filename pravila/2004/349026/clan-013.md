@@ -1,0 +1,5 @@
+# Član 13
+Neposrednu kontrolu Komisija vrši na licu mjesta, u prostorijama društva za upravljanje ili investicionog fonda ili drugog lica kod koga opravdano očekuje da može pribaviti podatke i činjenice u vezi sa kontrolom, uvidom u registre, druge evidencije, poslovne knjige i drugu dokumentaciju koja se odnosi na predmet kontrole.
+Komisija ima pravo i da, pri vršenju neposredne kontrole, traži potrebna objašnjenja od odgovornih lica u društvu za upravljanje ili investicionom fondu u vezi sa podacima i činjenicama o njihovom poslovanju. Odgovorna lica su obavezna da Komisiji daju potrebna objašnjenja.
+Društvo za upravljanje je dužno da obezbijedi uvid u poslovne knjige i drugu dokumentaciju i u slučaju da je njihovo vođenje i čuvanje povjereno trećem licu.
+Za ostvarivanje prava uvida u poslovne knjige i drugu dokumentaciju prilikom neposredne kontrole društva za upravljanje odgovoran je izvršni direktor društva za upravljanje, a prilikom neposredne kontrole investicionog fonda odgovorni su izvršni direktor društva za upravljanje i predsjednik nadzornog odbora tog fonda.
