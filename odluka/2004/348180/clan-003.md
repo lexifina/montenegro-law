@@ -1,0 +1,22 @@
+# Član 3
+Institut kao visokospecijalizovana zdravstvena ustanova na tercijarnom nivou zdravstvene zaštite, radi obavljanja djelatnosti utvrđene zakonom, vrši sljedeće poslove:
+-prati i stručno metodološki kontroliše sprovođenje preventivnih programa od interesa za Republiku i u tom cilju koordinira i usmjerava rad svih zdravstvenih ustanova na teritoriji Republike;
+-prati, istražuje, analizira epidemiološku situaciju zaraznih i nezaraznih bolesti od većeg socijalno medicinskog značaja, predlaže, organizuje i sprovodi mjere preventivne medicinske zaštite;
+-stručno metodološki koordinira i usmjerava stručni rad zdravstvenih ustanova koje obavljaju higijensko epidemiološku djelatnost;
+-prati, analizira i ocjenjuje uticaj kvaliteta životne sredine (vazduh, zemljište i buka), na zdravstveno stanje stanovništva;
+-prikuplja i obrađuje propisane zdravstveno-statističke podatke;
+-sprovodi statistička istraživanja iz oblasti zdravstva u cilju praćenja i ocjene zdravstvenog stanja stanovništva iz oblasti organizacije rada zdravstvene službe;
+-prati i istražuje razvoj i organizaciju zdravstvenog sistema, radi analize o organizacionim problemima, problemima infrastrukture i zdravstvenim resursima;
+-prati i istražuje mogućnosti unapređenja zdravstveno- informacionog sistema;
+-izrađuje predlog planova ljudskih i ostalih resursa, planova specijalizacija i programa stručnog usavršavanja zaposlenih u zdravstvenim ustanova čiji je osnivač Republika;
+-prati i analizira zdravstvenu potrošnju po svim segmentima sistema, radi monitoring planova rada zdravstvenih ustanova, izradu i evaluaciju republičkih planova i programa razvoja i prati kvalitet zdravstvene zaštite;
+-prati, analizira i ocjenjuje higijenske uslove i bezbjednost školske i radne sredine;
+-vrši mikrobiološke, parazitološke, virusološke, hemijske, biološke, toksikološke i druge laboratorijske analize;
+-planira, predlaže i sprovodi mjere za očuvanje i unapređenje zdravlja stanovništva, zdravstveno-vaspitnim aktivnostima i putem medija, posebno marginalnih populacionih grupa;
+-prati, proučava, predlaže i sprovodi mjere na unapređenju planiranja porodice (reproduktivnog zdravlja, zdravlja majke i djeteta, radno aktivnog stanovništva i starih lica);
+-učestvuje u izradi i vrši monitoring standarda i normativa zdravstvenih resursa;
+-organizuje nastavu za studente fakulteta zdravstvenog usmjerenja;
+-organizuje i sprovodi specijalističko usavršavanje i usavršavanje iz područja užih specijalnosti zdravstvenih radnika iz oblasti preventivnih grana medicine;
+-organizuje i sprovodi naučno istraživačku djelatnost u skladu sa zakonom;
+-vrši nadzor i kontrolu nad štetnim biološkim i hemijskim agensima putem dezinfekcije, dezinsekcije i deratizacije;
+-priprema i izdaje "Statistički godišnjak" i druge publikacije vezane za djelatnost Instituta.
