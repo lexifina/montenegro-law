@@ -1,0 +1,4 @@
+# Član 17
+## Reagovanje na upozorenje
+17.1. Ukoliko imalac licence dokaže da nije učinio prekršaj, ili ukoliko postupi po Upozorenju o kršenju licence i ispravi prekršaj, Agencija o tome izdaje javno obavještenje na svom NJeb sajtu čime se postupak završava.
+17.2. Ukoliko imalac licence ponudi opravdanje za kršenje uslova licence i razloge zbog kojih se ovaj prekršaj ne treba ispraviti, Agencija će razmotriti i procijeniti ovo opravdanje. Agencija može odlučiti da održi pretres po ovom pitanju. Ako imalac licence opravda prekršaj, Agencija može preduzeti sve nephodne mjere, uključujući izmjenu uslova iz licence. Tada započinje postupak izmjene licence (poglavlje III ovog propisa). Uz mjere koje preduzima, Agencija na svom NJeb sajtu izdaje javno obavještenje da je prihvatila opravdanje koje je dostavio imalac licence za prekršaj uslova iz licence koje opisuje aktivnosti koje je sama preduzela u vezi sa ovim pitanjem.

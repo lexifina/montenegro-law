@@ -1,0 +1,7 @@
+# Član 15
+## Prikupljanje informacija
+15.1. Agencija prikuplja i analizira informacije koje se tiču aktivnosti imalaca licenci, kako bi utvrdila da li krše uslove iz licenci ili se kršenje može očekivati. Potrebne informacije Agencija pribavlja sljedećim postupcima:
+a) Izvještaj o poslovanju: Svi imaoci licenci su dužni da dostave Agenciji godišnji izvještaj o poslovanju. Agencija može od imaoca licence zatražiti izvještaj o poslovanju i za kraći period. Uz Godišnji izvještaj o poslovanju dostavlja se i Izjava o dosljednosti, kojom imalac licence potvrđuje da se pridržavao uslova iz licence. Obrazac Godišnjeg izvještaja o poslovanju se objavljuje na NJeb sajtu Agencije.
+b) Izvještaj o prigovorima: Svi imaoci licenci su dužni da dostave Agenciji godišnji izvještaj o prigovorima drugih imalaca licenci i korisnika usluga. Agencija može od imaoca licence zatražiti izvještaj o prigovorima i za kraći period. Agencija može, kada to od nje zahtjeva drugi imalac licence ili korisnik usluge imaoca licence, sama pristupiti utvrđivanju opravdanosti prigovora, pa ako utvrdi prekršaj licence, preduzeti odgovarajuće mjere.
+c) Nadgledanje tržišta: Agencija stalno prati obavljanje elektroenergetskih djelatnosti i funkcionisanje tržišta električne energije.
+d) Revizija ili posjeta na licu mjesta: Agencija, po metodi slučajnog uzorka, periodično ili kada posumnja da postoji kršenje uslova iz licence, sprovodi vanredne revizije dokumenata ili posjete na licu mjesta.
