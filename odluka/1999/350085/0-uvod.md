@@ -1,0 +1,3 @@
+Na osnovu člana 34. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Sl. list SRCG", br.39/90 i 21/91 i "Sl. list RCG" br.30/92, 6/94 i 27/94) člana 6. Odluke o učešću osiguranika u troškovima korišćenja zdravstvene zaštite ("Sl. list RCG" br. 34/91 i 19/93) i Odluke o valorizaciji iznosa učešća osiguranika u troškovima korišćenja zdravstvene zaštite za učešća utvrđena apsolutnim iznosima ("Sl. list RCG", br. 1/97), Republički fond za zdravstvo, donio je
+ODLUKA
+O VALORIZACIJI IZNOSA UČEŠĆA OSIGURANIKA U TROŠKOVIMA KORIŠĆENJA ZDRAVSTVENE ZAŠTITE ZA UČEŠĆA UTVRĐENA U APSOLUTNIM IZNOSIMA
