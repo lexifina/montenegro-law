@@ -1,0 +1,4 @@
+241.Na osnovu člana 124 stav 1 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03), Vlada Republike Crne Gore, na sjednici od 8. aprila 2004. godine, donijela je
+O D L U K U
+O OBUSTAVI OD IZVRŠENJA ODLUKE SKUPŠTINE OPŠTINE BUDVA O DAVANJU
+OVLAŠĆENJA ZA POTPISIVANJE SPORAZUMA SA RANIJIM VLASNICIMA GRADSKOG GRAĐEVINSKOG I DRUGOG ZEMLJIŠTA KOJE NIJE PRIVEDENO NAMJENI
