@@ -1,0 +1,7 @@
+320.Na osnovu člana 126. stav 4. Zakona o vazdušnom saobraćaju ("Službeni list SRJ", br. 12/98, 44/99, 73/2000 i 70/2001) i Odluke o osnivanju Direktorata civilnog vazduhoplovstva države Srbije i države Crne Gore ("Službeni glasnik Republike Srbije", broj 102/2003 i "Službeni list Republike Crne Gore", broj 61/2003), Generalni direktor Direktorata civilnog vazduhoplovstva države Srbije i države Crne Gore izdaje
+NAREDBU O VISINI NAKNADE ZA PROVJERU DA LI OVLAŠĆENA ZDRAVSTVENA USTANOVA I DALJE ISPUNJAVA USLOVE ZA VRŠENJE LJEKARSKIH PREGLEDA VAZDUHOPLOVNOG OVLAŠĆENOG OSOBLJA
+1. Za provjeru da li ovlašćena zdravstvena ustanova i dalje ispunjava uslove za vršenje ljekarskih pregleda vazduhoplovnog ovlašćenog osoblja plaća se naknada.
+2. Visina naknade iz tačke 1. ove naredbe zavisi od kategorije vazduhoplovnog ovlašćenog osoblja koje je zdravstvena ustanova ovlašćena da pregleda.
+3. Visina naknade za zdravstvene ustanove koje obavljaju preglede vazduhoplovnog ovlašćenog osoblja kategorije A, B, C i D iznosi 300 evra, a za zdravstvene ustanove koje obavljaju pregled vazduhoplovnog ovlašćenog osoblja kategorije B, C i D visina naknade iznosi 70 evra.
+4. Naknada iz tačke 1. ove naredbe uplaćuje se na poseban račun Direktorata civilnog vazduhoplovstva države Srbije i države Crne Gore.
+5. Ova naredba stupa na snagu narednog dana od dana objavljivanja u "Službenom glasniku Republike Srbije" i "Službenom listu Republike Crne Gore".
