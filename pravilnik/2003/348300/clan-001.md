@@ -1,0 +1,2 @@
+# Član 1
+Javna ustanova Regionalni centar za obuku ronilaca (u daljem tekstu Centar) u smislu ovog pravilnika, je posebna ustanova koja je u suorganizaciji sa Ministarstvom unutrašnjih poslova Republike Crne Gore namijenjena za planiranje, organizovanje, realizaciju, koordinaciju i nadzor ronilačkih aktivnosti, obuku i jedinstveno vođenje ronilačkih kadrova i razvoj ronilačke djelatnosti u cjelini.
