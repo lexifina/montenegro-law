@@ -1,0 +1,3 @@
+# Član 1
+Kandidati za predsjednika Republike ( u daljem tekstu: kandidat), lično ili preko ovlašćenih predstavnika, imaju pravo da podsredstvom medija sa sjedištem u Crnoj Gori (u daljem tekstu: mediji), pravovremeno i objektivno informišu graĎane o svojim programima i aktivnostima.
+Kandidati imaju pravo da u okviru istih dnevnih termina na posebnom kanalu TV Crne Gore, posebnom programskom bloku Radija Crne Gore i dodatku dnevnog lista "Pobjeda", o svojim programima i aktivnostima pravovremeno, objektivno i ravnopravno informišu graĎane ( u daljem tekstu: predizborna kampanja), u skladu sa Zakonom i pravilima utvrĎenim ovom odlukom.

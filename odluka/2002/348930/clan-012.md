@@ -1,0 +1,4 @@
+# Član 12
+Mediji će u informativnim emisijama, izvan programa i stranica lista predviĎenih za predizbornu kampanju, obavještavati o aktuelnim zbivanjima i aktivnostima državnih funkcionera i funkcionera političkih stranaka, poštujući pravila profesionalizma, objektivnosti i novinarske etike.
+Mediji, prilikom izvještavanja o aktuelnim dogaĎanjima i radu državnih organa i državnih funkcionera, ne mogu iznositi komentare ili tekstove kojima bi se označavala partijska pripadnost, ili bi imali propagandni karakter, odnosno koji imaju obilježje političke promocije kandidata.
+Kontakt programi i specijalne emisije, u kojima učestvuju državni funkcioneri i funkcioneri političkih stranaka ili u okviru kojih se angažman funkcionera koristi u svrhu predizborne kampanje, ne mogu se emitovati izvan posebnog TV kanala, posebnog programskog bloka Radija i posebnog dodatka "Pobjede".
