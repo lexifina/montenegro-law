@@ -1,0 +1,2 @@
+141.Na osnovu člana 3 st. 1 i 2 Zakona o izboru odbornika i poslanika ("Službeni list Republike Crne Gore", broj 4/98) i člana 38, stav 1, tačka 5 Statuta Opštine Herceg Novi ("Službeni list Republike Crne Gore-opštinski propisi", br. 1/96 i 13/98), Skupština opštine Herceg Novi, na sjednici održanoj 16. februara 2000. godine, donosi
+ODLUKU O UTVRĐIVANJU BROJA ODBORNIKA KOJI SE BIRA U SKUPŠTINU OPŠTINE HERCEG NOVI
