@@ -1,0 +1,3 @@
+# Član 6
+Radio-difuzne frekvencije koje su međunarodno iskoordinirane za magistralne radio-difuzne objekte na lokacijama Lovćen, Bjelasica i Durmitor dodjeljuju se za emitovanje radio i televizijskih programa pravnim licima čiji je osnivač Republika.
+Izuzetno od stava 1. ovog člana, slobodne radio-difuzne frekvencije na navedenim lokacijama mogu se dodijeliti pravnim licima čiji je osnivač jedinica lokalne samouprave ili, uz naknadu, drugim pravnim licima, pod uslovom da rade sa emisionim parametrima utvrđenim Planom raspodjele, uz prethodno pribavljenu saglasnost republičkog organa uprave nadležnog za poslove javnog informisanja.

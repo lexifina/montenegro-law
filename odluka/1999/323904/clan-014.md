@@ -1,0 +1,3 @@
+# Član 14
+Pravno lice koje za smještaj svojih emisionih uređaja i opreme koristi objekte Akcionarskog društva "Telekomunikacije Crne Gore", obavezno je da u postupku zaključivanja ugovora o dodjeli komercijalnih radio-difuznih frekvencija na korišćenje republičkom organu uprave nadležnom za poslove telekomunikacija dostavi dokaz o ugovornom regulisanju odnosa po tom osnovu.
+Cjenovnik usluga smještaja emisionih uređaja i opreme na objektima Akcionarskog društva "Telekomunikacije Crne Gore" usvaja Upravni odbor ovog akcionarskog društva uz saglasnost republičkog organa uprave nadležnog za poslove telekomunikacija.

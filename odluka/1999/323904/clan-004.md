@@ -1,0 +1,2 @@
+# Član 4
+Planom raspodjele utvrđuju se radio-difuzne frekvencije neophodne za emitovanje tri radio i tri televizijska programa, pravnim licima čiji je osnivač Republika, odnosno jednog radio i jednog televizijskog programa na teritoriji svake jedinice lokalne samouprave i dodjeljuju se bez naknade. Radio-difuzne frekvencije koje nijesu dodijeljene u skladu sa stavom 1 ovog člana, dodijeliće se uz naknadu (komercijalne radio-difuzne frekvencije).

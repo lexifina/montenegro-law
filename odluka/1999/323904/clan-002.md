@@ -1,0 +1,2 @@
+# Član 2
+Radio-difuzne frekvencije koje se dodjeljuju na korišćenje su međunarodno-iskoordinirane radio- difuzne frekvencije za teritoriju Republike Crne Gore (u daljem tekstu: Republika) i radio-difuzne frekvencije za koje republički organ uprave nadležan za poslove telekomunikacija, u saradnji sa drugim državnim organima, ocijeni da se mogu dodjeljivati na korišćenje za emitovanje radio i televizijskih programa.
