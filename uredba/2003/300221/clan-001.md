@@ -1,0 +1,4 @@
+# Član 1
+## O MINIMUMU PROCESA RADA I NAČINU NjEGOVOG OBEZBJEĐIVANjA U USTANOVAMA JAVNOG OBRAZOVANjA
+Zaposleni u ustanovama javnog obrazovanja mogu, u skladu sa zakonom, da organizuju štrajk pod uslovom da obezbijede minimum procesa rada propisan ovom uredbom.
+Ustanovama javnog obrazovanja, u smislu stava 1 ovog člana, smatraju se javne ustanove čiji je osnivač Republika Crna Gora, ili jedinica lokalne samouprave, i ustanove kojima je dodijeljena koncesija za izvođenje javnovažećeg obrazovnog programa u oblasti: predškolskog vaspitanja i obrazovanja jaslice, vrtići i drugi vidovi organizovanja predškolskog vaspitanja i obrazovanja, u skladu sa zakonom), osnovnog obrazovanja i vaspitanja (osnovne škole), srednjeg opšteg obrazovanja (gimnazije), stručnog obrazovanja (stručne škole), vaspitanja i obrazovanja lica sa smetnjama u razvoju, visokog obrazovanja (univerzitet i ustanove visokog obrazovanja), kao i domovi učenika i studenata.

@@ -1,0 +1,2 @@
+# Član 10
+Direktor, odnosno organ rukovođenja ustanove javnog obrazovanja je dužan da, bez odlaganja, protiv zaposlenog koji odbije da izvrši nalog poslodavca izdat radi obezbjeđivanja mimimuma procesa rada ili sprječava zaposlene koji ne učestvuju u štrajku da rade, ili učestvuje u štrajku koji je organizovan suprotno propisima, kao i u drugim slučajevima utvrđenim zakonom, pokrene postupak za utvrđivanje teže povrede radne obaveze zbog koje se izriče mjera prestanka radnog odnosa u skladu sa zakonom, kao i da preduzme i druge mjere na koje je ovlašćen.
