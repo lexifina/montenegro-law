@@ -1,0 +1,8 @@
+# Član 3
+Radi realizacije strategije kreditnog rizika iz člana 2 ove odluke, banka je dužna da uspostavi:
+1) jasna pravila za odobravanje novih kredita, kao i pravila za promjenu uslova, obnavljanje i refinansiranje postojećih kredita na način koji će obezbijediti da rizici takvih aktivnosti budu predmet adekvatnih procedura upravljanja rizikom i kontrole, prije nego što se uvedu ili preduzmu i prethodno odobre od strane nadležnih organa;
+2) sistem za praćenje stanja pojedinačnih tekućih kredita, uključujući informacione sisteme i analitičke tehnike koje omogućavaju nadležnom organu banke da mjeri kreditni rizik nerazdvojiv od svih vrsta transakcija, da posvete dovoljnu pažnju rizicima koji se ne mogu kvantifikovati i odnosu između kreditnog rizika i drugih rizika, uz obavezu uprave banke da se sistematski pregledi portfelja i procjene kvaliteta aktive rade najmanje jednom u tri mjeseca;
+3) sistem praćenja cjelokupne kompozicije i kvaliteta portfelja kredita kojim banka upravlja, kreditnim rizikom ukupnog portfelja kao i rizikom pojedinačnih kredita i transakcija;
+4) interni sistem rangiranja rizika u skladu sa: prirodom, veličinom i složenošću bančinih aktivnosti, s tim da krediti niskog rejtinga budu predmet dopunskog razmatranja i nadgledanja kroz politike i procedure propisane od strane rukovodstva banke;
+5) pravila kojima se utvrđuje obaveza nadležnog organa banke da prilikom procjenjivanja pojedinačnih kredita i njihovih kreditnih portfelja i kada treba procijeniti njihovu izloženost kreditnom riziku u nepovoljnim uslovima, razmotri i potencijalne, buduće, promjene u ekonomskim uslovima;
+6) proces blagovremenog preduzimanja aktivnosti na ozdravljenju pogoršanih kredita, upravljanja problematičnim kreditima i slično.
