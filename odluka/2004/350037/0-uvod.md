@@ -1,0 +1,2 @@
+306.Na osnovu člana 94 tač. 3) Ustava Republike Crne Gore i čl. 11 i 30 Zakona o spoljnoj trgovini ("Službeni list RCG", broj 28/04), a u vezi člana 9 stav 1 tačka 1 Zakona o standardizaciji ("Službeni list SRJ", br. 30/96, 59/98, 70/04, 8/03), Vlada Republike Crne Gore, na sjednici od 13. maja 2004.godine, donijela je
+ODLUKU O USLOVIMA KOJE MORAJU DA ISPUNJAVAJU KORIŠĆENA MOTORNA VOZILA PRILIKOM UVOZA
