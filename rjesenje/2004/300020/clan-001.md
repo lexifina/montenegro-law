@@ -1,0 +1,2 @@
+# Član 1
+Ministarstvo za ekonomske odnose sa inostranstvom i evropske integracije, na osnovu zahtjeva podnijetog od strane predstavnika mlinarske industrije Crne Gore, čija proizvodnja predstavlja više od 50% domaće proizvodnje navedenih proizvoda, pokreće postupak ispitivanja radi utvrđivanja postojanja ozbiljne štete, odnosno prijetnje od nanošenja ozbiljne štete po domaću mlinarsku industriju od prekomjernog uvoza brašna (tarifni broj 1101000000) i stočnog brašna od pšenice (tarifni broj 2302300000).
