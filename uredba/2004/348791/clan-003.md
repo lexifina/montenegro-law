@@ -1,0 +1,4 @@
+# Član 3
+Poslodavac je dužan da zaključi ugovor o radu sa novozaposlenim i dostavi ga područnoj jedinici Inspekcije rada u roku od 3 dana od dana njegovog zaključenja.
+Poslodavac je dužan da podatke o zasnivanju i prestanku radnog odnosa novozaposlenog podnese Direkciji javnih prihoda Republike Crne Gore na obrascu PNZL 1, koji je odštampan uz ovu uredbu i čini njen sastavni dio, u roku od 3 dana od dana zaposlenja ili dana prestanka zaposlenja.
+Poslodavac je dužan da u roku iz stava 1 ovog člana, za novozaposlene područnoj službi Zavoda za zapošljavanje dostavi prijavu o zasnivanju radnog odnosa (obrazac E-3), područnom odjeljenju Republičkog fonda penzijskog i invalidskog osiguranja prijavu za obavezno socijalno osiguranje (obrazac M-1) i Republičkom fondu za zdravstvo prijavu zdravstvenog osiguranja (obrazac MZ-1)
