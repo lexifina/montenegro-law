@@ -1,0 +1,2 @@
+31. Na osnovu čl. 1 i 2 Uredbe o zajedničkom vršenju tržišne, sanitarne, veterinarske i poljo- privredne inspekcijske kontrole u spoljnotrgovinskom prometu roba ("Službeni list RCG", broj 33/00), a u vezi sa članom 28 Zakona o zaštiti životinja od zaraznih bolesti koje ugrožavaju cijelu zemlju ("Službeni list SRJ", br. 43/86 i 53/91), Ministarstvo poljoprivrede, šumarstva i vodoprivrede donosi
+N A R E D B U O ZABRANI PROMETA POŠILJKI HRANE ZA ŽIVOTINJE KOJA SADRŽI SASTOJKE ŽIVOTINJSKOG PORIJEKLA
