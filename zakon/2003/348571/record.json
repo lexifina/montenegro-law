@@ -1,0 +1,25 @@
+{
+  "id": 348571,
+  "path": "zakon/2003/348571",
+  "source": "https://www.sluzbenilist.me/propisi/348571",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/348571/download",
+  "title": "Zakon o regulisanju obaveza i potrazivanja po osnovu ino duga i devizne stednje gradjana",
+  "issue": "Službeni list Republike Crne Gore, broj 55/2003",
+  "published": "2003-10-01",
+  "in_force": "2003-10-09",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu Republike Crne Gore\".",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "072514fac8a1d44289e2b9a03b0a486b03cb51ebfde605c82add4778e9373001",
+  "articles_in_source": 20,
+  "note": null,
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 11983,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "text_sha256": "3bf2c499939611e589210e49b3b911cc76349b585cb223e797a264643b49cfd9"
+}
