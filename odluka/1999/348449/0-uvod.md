@@ -1,0 +1,3 @@
+Na osnovu čl. 48 i 95 stav 1 tačka 3. Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Službeni list Socijalističke Republike Crne Gore", br.39/90 i 21/91 i "Službeni list Republike Crne Gore", br. 30/92, 58/92, 6/94, 21/94, 27/94, 16/95, 20/95, 22/95 i 23/96) i člana 8 Statuta Republičkog fonda za zdravstvo ("Službeni list Socijalističke Republike Crne Gore", br. 47/90 i "Službeni list Republike Crne Gore", br. 36/95), Savjet Republičkog fonda za zdravstvo , na sjednici br. 10 - održanoj dana 20.01.1999. godine, donio je
+ODLUKA
+O DOPUNI LISTE LJEKOVA KOJI SE MOGU PROPISIVATI I IZDAVATI NA TERET REPUBLIČKOG FONDA ZA ZDRAVSTVO
