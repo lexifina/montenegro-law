@@ -1,0 +1,3 @@
+# Član 4
+Ovlašćeno lice iz člana 3 ovog pravilnika na sve primjerke kolektivnog ugovora, nakon upisa u Registar kolektivnih ugovora (u daljem tekstu: Registar), upisuje redni broj registracije, mjesto i datum registracije i te podatke ovjerava svojim potpisom i pečatom ministarstva.
+Ministarstvo jedan primjerak registrovanog kolektivnog ugovora i rješenje o upisu u Registar zadržava u arhivi, jedan primjerak u dosije, po jedan primjerak dostavlja učesnicima u zaključivanju, a dva primjerka dostavlja Republičkom sekretarijatu za zakonodavstvo radi objavljivanja u "Službenom listu Republike Crne Gore".
