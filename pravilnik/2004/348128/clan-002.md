@@ -1,0 +1,81 @@
+# Član 2
+Program ispita za poslovođu turističke agencije obuhvata:
+1. Osnovi pravnog uređenja i turističkog zakonodavstva Republike Crne Gore:
+-Ustavna povelja Državne zajednice Srbije i Crne Gore;
+-Ustav Republike Crne Gore;
+-Pojam turističke politike;
+-Ciljevi turističke politike;
+-Subjekti turističke politike;
+-Mjere turističke politike -opšte i posebne;
+-Turizam u ekonomskoj politici Crne Gore;
+-Strategija i politika razvoja turizma u Crnoj Gori ( Master plan do 2020. godine);
+-Zakon o turizmu Republike Crne Gore;
+-Podzakonski akti Ministarstva nadležnog za poslove turizma;
+-Posebne uzanse u turizmu (sa posebnim osvrtom na ugovore o turizmu) ;
+-Zakon o zaštiti životne sredine;
+-Zakon o nacionalnim parkovima;
+-Strategija razvoja turizma Crne Gore;
+-Osnovne odredbe Prostornog plana Crne Gore.
+2. Osnovi turizma:
+-Pojam turiste i turizma;
+-Turizam i okruženje;
+-Uloga i značaj turizma u savremenom društvu;
+-Turistička ponuda i njene karakteristike;
+-Turistička potražnja i njene karakteristike;
+-Turistička destinacija;
+-Turističko mjesto;
+-Turistički proizvod;
+-Životni ciklus turističke destinacije i turističkog proizvoda;
+-Funkcije turizma-neekonomske;
+-Funkcije turizma-ekonomske;
+-Organizacija turizma;
+-Savremene tendencije u turističkim kretanjima.
+3. Psihologija i zaštita turističkog potrošača:
+-Psihologija potrošača;
+-Planovi potrošača;
+-Motivi potrošača;
+-Tipovi turističkog potrošača;
+-Potrošači prema osobinama ličnosti;
+-Totalna uloga turiste;
+-Specifičnost turističke statusne potrošnje;
+-Pravo zaštite turističkog potrošača (pravo na zadovoljenje osnovnih potreba, pravo na bezbjednost, pravo na informisanost, pravo izbora, pravo glasa potrošača, pravo obeštećenja, pravo na obrazovanje potrošača, pravo na zdravu životnu sredinu);
+-Pravo zaštite potrošača prema programu EU ( zaštita zdravlja i sigurnosti, zaštita ekonomskih interesa, pravo na informisanost i obrazovanost, pravo na obeštećenje, pravo o odlučivanju o propisima koji se odnose na standarde hrane, transporta, zaštitu okoline, konkurenciju i finansijske usluge).
+5. Turističke agencije:
+-Postanak i razvitak turističkih agencija;
+-Funkcije turističkih agencija;
+-Podjela turističkih agencija prema funkcijama( turoperatorska, detaljistička, reciptivna );
+-Detaljistička turistička agencija kao kanal prodaje proizvoda turoperatora, hotelskih, prevozničkih i drugih usluga;
+-Reciptivna turistička agencija kao posrednik između hotela i turoperatora;
+-Reciptivna turistička agencija kao organizator i kreator izleta, razgledanja, vođenja;
+-Turoperatori-postanak i razvoj;
+-Turoperatori i nabavljači;
+-Turistički aranžman kao proizvod turoperatora;
+-Kreacija, kalkulacija, prodaja i realizacija turističkih aranžmana;
+-Kanali prodaje turističkih aranžmana;
+-Marketing turoperatora;
+-Katalog turoperatora;
+-Prodaja karata prevoznika;
+-Ugovori koje sklapaju turističke agencije;
+-Sredstva i instrumenti plaćanja agencijskih usluga;
+-Organizacija i upravljanje turističkim agencijama;
+-Udruženje turističkih agencija, nacionalna i međunarodna.
+6. Turizam u Republici Crnoj Gori :
+-Osnovne karakteristike geografskog položaja;
+-Veličina i stanovništvo Crne Gore;
+-Geografske osnove za razvoj turizma-prirodne i društvene;
+-Osnovne geografske karakteristike i specifičnosti prirodnih cjelina Crne Gore: primorja, zetsko- skadarske ravnice, brda i visokih planina;
+-Istorijski pregled razvoja turizma u Crnoj Gori;
+-Izgrađena saobraćajna i ostala turistička infrastruktura;
+-Opis glavnih turističkih pravaca -geografski, istorijski i etnografski;
+-Društveno-ekonomske karakteristike glavnih turističkih pravaca u Crnoj Gori;
+-Osnovne karakteristike turističkog prometa u Crnoj Gori;
+-Glavni vidovi turizma u Crnoj Gori;
+-Crna Gora ekološka država -pravni i ekološki osnov za proglašenje;
+-Ciljevi i zadaci proglašenja Crne Gore kao ekološke države;
+-Mjere ekološke zaštite -pravne, finansijske i fizičke;
+-Ekološki programi u turističkoj ponudi Crne Gore;
+-Zaštićeni objekti;
+-Nacionalni parkovi, spomenici prirode, rezervati prirode, zaštićena rekreaciona područja, zaštićena područja mora, ostali zaštićeni objekti;
+-Objekti prirode Crne Gore pod međunarodnom zaštitom -Basen rijeke Tare, NP "Durmitor" sa dijelom kanjona rijeke Tare, Kotorsko-risanski zaliv;
+-Objekti međunarodne kulturne baštine -Kotor:
+-Kulturne, zabavne, sportske, folklorne i druge manifestacije.
