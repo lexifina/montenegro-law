@@ -1,0 +1,3 @@
+# Član 2
+Poslije člana 17 dodaje se novi član 17 a koji glasi:
+"Član 17 a Ministarstvo za zaštitu prava pripadnika nacionalnih i etničkih grupa vrši poslove Uprave koji se odnose na: praćenje ostvarivanja i zaštitu prava pripadnika nacionalnih i etničkih grupa u dijelu njihovog nacionalnog, etničkog, kulturnog, jezičkog i vjerskog indentiteta; unapreĎivanje meĎusobnih odnosa nacionalnih i etničkih grupa; dalje unapreĎenje meĎuetničke tolerancije u Republici, kao i uspostavljanje i održavanje nesmetanih kontakata pripadnika nacionalnih i etničkih grupa sa graĎanima van Crne Gore, bez štete za Crnu Goru; i vrši druge poslove koje su mu odreĎene u nadležnosti."
