@@ -1,0 +1,2 @@
+# Član 2
+Do primjene Uredbe o zaradama državnih službenika, zarade državnih službenika obračunavaće se i isplaćivati na način i pod uslovima kako je to bilo uređeno odredbama Uredbe o rangiranju i razvrstavanju radnih mjesta u oblasti prosvjete i nauke, kulture, zdravstva i socijalne zaštite i državne uprave ("Službeni list RCG", broj 20/92) u dijelu koji se odnosi na državne organe i posebnim listama za utvrđivanje plata službenika koje su donijete na osnovu te uredbe.
