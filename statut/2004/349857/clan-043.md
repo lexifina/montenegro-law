@@ -1,0 +1,2 @@
+# Član 43
+Opšta akta Fonda su: Statut, Pravilnik o organizaciji i načinu rada Prvostepene invalidske komsije, odluke o usklađivanju penzija i novčanih naknada, odluke o usklađivanju penzije za jedan lični bod, odluke o usklađivanju najviše osnovice za plaćanje doprinosa za penzijsko i invalidsko osiguranje, odluke o usklađivanju osnovica za produženo osiguranje, pravilnici i druga akta kojima se na opšti način uređuju pojedina pitanja iz djelokruga rada Fonda.

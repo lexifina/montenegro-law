@@ -1,0 +1,29 @@
+# Član 36
+U Centralnoj službi Fonda se:
+-obezbjeđuju uslovi za rad organa Fonda;
+-obezbjeđuje jedinstvena primjena propisa o penzijskom i invalidskom osiguranju i pripremaju uputstva radi obezbjeđivanja jedinstvene primjene propisa;
+-pruža stručna pomoć područnim odjeljenjima u vezi sa rješavanjem o pravima i primjenom propisa iz penzijskog i invalidskog osiguranja u prvom stepenu;
+-koordinira rad područnih odjeljenja i vrši nadzor nad njihovim radom u primjeni propisa iz penzijskog i invalidskog osiguranja;
+-rješava u prvom stepenu o pravima iz penzijskog i invlaidskog osiguranja koja se ostvaruju primjenom međunarodnih ugovora o socijalnom osiguranju, osim ako je za rješavanje o pravima primjenom pojedinih međunarodnih ugovora direktor ovlastio područna odjeljenja;
+-obavljaju poslovi pripreme i izrade materijala koji služe za pregovore sa inostranim nosiocima penzijskog i invalidskog osiguranja i učestvovanje na tim pregovorima;
+-pruža međunarodno pravna pomoć u sprovođenju međunarodnih ugovora o socijalnom osiguranju;
+-obavljaju poslovi u vezi sa stažom osiguranja koji se računa sa uvećanim trjanjem;
+-obavljaju poslovi utvrđivanja visine sredstava koja se, shodno zakonu, obezbeđuju Fondu iz budžeta Republike;
+-obavljaju poslovi matične evidencije o osiguranicima i korisnicima prava iz penzijskog i invalidskog osiguranja i vode druge evidencije propisane zakonom;
+-vrši izrada programa za sprovođenje penzijskog i invalidskog osiguranja i obavljanje poslova iz djelokruga Fonda;
+-sprovodi politika razvoja i unapređenja penzijskog i invalidskog osiguranja predlaganjem nadležnim organima preduzimanja potrebnih mjera i iniciranjem donošenja odgovarajućih propisa;
+-obavlja vještačenje invalidnosti i tjelesnog oštećenja, njihovog uzroka, kao i nesposobnosti člana porodice u postupku ostvarivanja prava iz penzijskog i invalidskog osiguranja u prvom stepenu;
+-vrši prethodna kontrola nalaza, ocjene i mišljenja organa vještačenja u prvom stepenu; -obavljaju normativni, plansko-analitički i drugi poslovi za potrebe rada organa Fonda;
+-prati i analizira razvoj penzijskog i invlaidskog osiguranja;
+-vrše statistička i druga istraživanja u oblasti penzijskog i invalidskog osiguranja;,
+-planira prikupljanje i raspoređivanje sredstava za ostvarivanje prava iz penzijskog i invalidskog osiguranja;
+-utvrđuje ekonomska politika i prati sprovođenje ekonomsko- finansijske politike Fonda;
+-vode prihodi po računima za Fond, vrši usklađivanje i isplate penzija, vrše usklađivanja knjigovodstvene evidencije i sastavljaju periodični obračuni i završni račun Fonda;
+-vrši kontrola finansijskog poslovanja Fonda u vezi sa namjenskim i ekonomičnim korišćenjem sredstava za penzijsko i invalidsko osiguranje;
+-vrši kontrole isplata penzija i novčanih naknada iz penzijskog i invalidskog osiguranja;
+-obavljaju i drugi finansijski poslovi u skladu sa zakonom,
+-vrši elektronska obrada podataka u jedinstvenom informacionom sistemu i elektronsko arhiviranje dokumentacije;
+-odlučuje o pravima, obavezama i odgovornostima zaposlenih u Stručnoj službi Fonda;
+-obavljaju poslovi pravnog prometa i zastupanja Fonda;
+-obavljaju poslovi informisanja; i
+-obavljaju i drugi poslovi u skladu sa zakonom i opštim aktima Fonda.
