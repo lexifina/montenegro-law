@@ -1,0 +1,2 @@
+# Član 1
+Vlada Republike Crne Gore garantuje Saveznoj Republici Jugoslaviji za uredno vraćanje zajma u iznosu od 10 miliona Eura odobrenog od Evropske investicione banke, za rekonstrukciju putne privrede u Republici Crnoj Gori na način, pod uslovima i u roku predviđenim Ugovorom zaključenim između Evropske investicione banke i Ministarstva pomorstva i saobraćaja -Odjeljenja za puteve, ukoliko to ne učini Ministarstvo pomorstva i saobraćaja -Odjeljenje za puteve, kao krajnji korisnik zajma.
