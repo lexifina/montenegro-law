@@ -1,0 +1,2 @@
+# Član 1
+U Uredbi o privremenom smanjenju stopa poreza na promet upotrebljavanih putničkih automobila ("Službeni list RCG", br.7/99,22/99, 35/99 i 50/99), u članu 2 riječi: "30.juna" zamjenjuju se riječima: "31. decembra".
