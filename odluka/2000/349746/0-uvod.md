@@ -1,0 +1,2 @@
+512.Na osnovu odredaba čl. 49 i 50 Zakona o svojinskoj i upravljačkoj transformaciji ("Službeni list Republike Crne Gore" br.2/92 i 27/94), Vlada Republike Crne Gore , po pribavljenom mišljenju Agencije Crne Gore za prestrukturiranje privrede i strana ulaganja, na sjednici od 26. oktobra 2000. godine donosi
+O D L U K U O IZMJENI ODLUKE O PREUZIMANJU UPRAVLJANJA DRUŠTVENIM PREDUZEĆEM "SLOBODNA CARINSKA ZONA BAR"
