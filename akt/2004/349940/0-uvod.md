@@ -1,0 +1,2 @@
+507.Na osnovu člana 131 stav 2 Zakona o radu ("Službeni list Republike Crne Gore", broj 43/03) i člana 81 stav 1 Opšteg kolektvnog ugovora ("Službeni list Republike Crne Gore", broj 1/04), Samostalni sindikat metalaca Crne Gore i Odbor Udruženja metalurgije, energetike, metalopre-rađivačke industrije i mašinogradnje Privredne komore Crne Gore, zaključuju
+GRANSKI KOLEKTIVNI UGOVOR ZA DJELATNOST METALURGIJE, METALOPRERAĐIVAČKE INDUSTRIJE I PROIZVODNJE MAŠINA, UREĐAJA I SAOBRAĆAJNIH SREDSTAVA

@@ -1,0 +1,2 @@
+# Član 43
+Predsjednik organizacije sindikata koji profesionalno obavlja tu funkciju i predstavnik zaposlenih, za vrijeme obavljanja sindikalnih aktivnosti i 6 mjeseci nakon prestanka tih aktivnosti ne može biti pozvan na odgovornost, proglašen kao zaposleni za čijim je radom prestala potreba, raspoređen na drugo radno mjesto kod istog i kod drugog poslodavca ili na drugi način doveden u nepovoljniji položaj, ukoliko postupa u skladu sa Zakonom i kolektivnim ugovorom.

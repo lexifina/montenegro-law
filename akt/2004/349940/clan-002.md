@@ -1,0 +1,3 @@
+# Član 2
+Odredbe ovog kolektivnog ugovora primjenjuju se na zaposlene i poslodavce u Republici Crnoj Gori koji obavljaju djelatnost crne metalurgije, proizvodnje rude obojenih metala, proizvodnje obojenih metala, prerade obojenih metala, metaloprerađivačke djelatnosti, mašinogradnje, proizvodnje saobraćajnih sredstava, brodogradnje, proizvodnje električnih mašina i aparata i druge djelatnosti koje su povezane u reprocjelinu,sa naznačenim granama kao osnovnim.
+Prava i obaveze zaposlenog koje poslodavac upućuje na rad u inostranstvo urediće se kolektivnim ugovorom kod poslodavca, u skladu sa zakonom.
