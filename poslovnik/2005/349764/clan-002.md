@@ -1,0 +1,4 @@
+# Član 2
+Institucija ima pečat i dva štambilja.
+Pečat Institucije je okruglog oblika prečnika 32 mm. U središtu pečata je grb Republike Crne Gore (u daljem tekstu: Republika), u spoljašnjem krugu tekst: "Republika Crna Gora- Podgorica", a u unutrašnjem krugu tekst: "Državna revizorska institucija".
+Štambilji su pravougaonog oblika sa grbom Republike Crne Gore u centralnom dijelu, na vrhu štambilja. Jedan štambilj se sastoji od teksta: u prvom redu: "Republika Crna Gora"; u drugom redu "Državna revizorska institucija"; u trećem redu: "Broj ______" i u četvrtom redu: "Podgorica, ______ 200__ god. ". Drugi štambilj se sastoji od teksta: u prvom redu: "Republika Crna Gora"; u drugom redu "Državna revizorska institucija"; u trećem redu: "Primljeno ______ 200__ god. " i u četvrtom redu: "Broj ______ " i "Prilog".

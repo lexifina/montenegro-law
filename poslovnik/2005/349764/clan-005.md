@@ -1,0 +1,5 @@
+# Član 5
+## Rukovođenje i izvršavanje zadataka
+Članovi Senata, kao rukovodioci sektora odlučuju i u okviru svog sektora snose odgovornost za zakonito i blagovremeno ispunjenje zadataka Institucije, u skladu sa Zakonom o Državnoj revizorskoj instituciji (u daljem tekstu: Zakon).
+Načelnici odjeljenja ispunjavaju zadate naloge, planiraju zadatke u okviru svog odjeljenja i pripremaju i sprovode terenski rad. Učestvuju u terenskom radu i odgovaraju za stručno i pravovremeno sprovođenje revizorskih i savjetodavnih postupaka, kao i za okončanje postupka i ocjenu rezultata revizije. Izrađuju predlog koncepta revizija koje treba uvrstiti u godišnji plan revizije i predlažu koje rezultate okončanih revizija treba uključiti u godišnji izvještaj.
+Državni revizori ispunjavanju zadate naloge i rade na pripremi i sprovođenju terenskog rada. Sakupljaju činjenice koje su im potrebne za donošenje odluke i pripremaju nacrt izvještaja i druge odluke kolegijuma. Učestvuju u izradi predloga za planiranje, pripremu i sprovođenje revizija. O svim bitnim zaključcima i zapažanjima neodložno obavještavaju načelnika odjeljenja.
