@@ -1,0 +1,2 @@
+# Član 4
+Radi obezbjeđenja sigurnosti i zaštite zdravlja građana, pravna lica koja uvoze, odnosno izvoze medicinske proizvode-ljekove i medicinska sredstva dužna su da prilikom uvoza, odnosno izvoza, Ministarstvu zdravlja dostave sertifikat analize medicinskih proizvoda-ljekova, odnosno medicinskih sredstava i sertifikat analize aktivne supstance izdate od strane proizvođača ili ovlašćene ustanove za ispitivanje i kontrolu medicinskih proizvoda-ljekova i medicinskih sredstava.
