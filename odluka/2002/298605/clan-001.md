@@ -1,0 +1,2 @@
+# Član 1
+Vlada Republike Crne Gore garantuje Saveznoj Republici Jugoslaviji uredno vraćanje zajma u iznosu od 850.000 SDR (1.040.000 USD) odobrenog od MeĎunarodnog udruženja za razvoj, za modernizaciju carinske službe u Republici Crnoj Gori, na način, pod uslovima i u roku predviĎenim Sporazumom o kreditu za razvoj, zaključenim izmeĎu Savezne Republike Jugoslavije i MeĎunarodnog udruženja za razvoj.
