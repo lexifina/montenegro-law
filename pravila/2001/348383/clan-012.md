@@ -1,0 +1,5 @@
+# Član 12
+Dokazom o organizacionoj i kadrovskoj osposobljenosti berze smatraju se statut i nacrt akta o unutrašnjoj organizaciji i sistematizaciji radnih mjesta u berzi, kojima se utvrđuje da berza ima posebne organizacione djelove za efikasno obavljanje poslova tržišta hartija od vrijednosti.
+Berza mora u nacrtu akta o unutrašnjoj organizaciji i sistematizaciji radnih mjesta u berzi utvrditi najmanje tri radna mjesta za brokera ili dilera sa položenim stručnim ispitom i obavezna je Komisiji dostaviti predugovor o radu na neodređeno vrijeme sa ovim licima.
+O licima sa posebnim ovlašćenjima i odgovornostima berza dostavlja sljedeće podatke: ime i prezime, školsku spremu, radno iskustvo, učešće ovih lica u akcijskom kapitalu akcionarskih društava, sa brojem i vrstom akcija i procentom učešća u akcijskom kapitalu i podatke o poslovima koje je to lice ranije obavljalo i da li je osuđivano za krivična djela protiv privrede ili službene dužnosti.
+Berza koja od Komisije dobije dozvolu za rad otpočinje sa radom kada obavijesti Komisiju da ima u stalnom radnom odnosu najmanje tri brokera ili dilera sa položenim stručnim ispitom.
