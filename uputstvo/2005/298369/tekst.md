@@ -1,0 +1,21 @@
+161.Na osnovu člana 8 tačka 14) Zakona o hartijama od vrijednosti ("Službeni list RCG", br. 59/00), Komisija za hartije od vrijednosti, na sjednici od 30. marta 2005. godine, donosi
+U P U T S T V O
+O NAČINU PRIJEMA PRIHVATA JAVNE PONUDE ZA PREUZIMANJE I ISPLATE
+SREDSTAVA AKCIONARIMA KOJI SU PRIHVATILI OVU PONUDU
+1. Ovim uputstvom uređuje se način prihvata javne ponude za preuzimanje od strane vlasnika akcija akcionarskog društva kojima je ponuda upućena (u daljem tekstu: akcionar), kao i način isplate sredstava akcionarima nakon okončanja postupka javne ponude za preuzimanje.
+2. Akcionar prihvata ponudu davanjem pismene izjave o prihvatu date ponude sačinjene u skladu sa odredbama člana 24 Pravila o preuzimanju akcionarskih društava ("Službeni list RCG", br. 12/05), uz naznaku datuma i vremena davanja prihvata ponude.
+Uz pismenu izjavu iz stava 1 ove tačke, akcionar daje i nalog za prodaju akcija koje su predmet javne ponude za preuzimanje.
+3. Prihvat ponude davanjem pismene izjave i naloga iz tačke 2 ovog uputstva akcionar može dati direktno ovlašćenom učesniku na tržištu hartija od vrijednosti sa sjedištem u Crnoj Gori kojeg je sticalac odredio u prospektu za preuzimanje (u daljem tekstu: ovlašćeni učesnik kojeg je odredio sticalac), kao i licu kojeg taj ovlašćeni učesnik odredi da, u njegovo ime i za njegov račun, prima naloge za trgovinu hartijama od vrijednosti.
+Lica iz stava 1 ove tačke ovjeravaju prijem pismene izjave i naloga iz tačke 2 ovog uputstva.
+4. Prihvat ponude akcionar može dati davanjem pismene izjave i naloga iz tačke 2 ovog uputstva i bilo kom drugom ovlašćenom učesniku na tržištu hartija od vrijednosti sa sjedištem u Crnoj Gori (u daljem tekstu: ovlašćeni učesnik kojeg odredi akcionar), kao i pravnim licima sa kojima ovi ovlašćeni učesnici imaju zaključen ugovor po kome ta lica mogu, u ime i za račun ovlašćenog učesnika, primati naloge za trgovinu hartijama od vrijednosti.
+Lica iz stava 1 ove tačke ovjeravaju prijem pismene izjave i naloga iz tačke 2 ovog uputstva.
+Ovlašćeni učesnik kojeg odredi akcionar dužan je da prihvat ponude, t.j. pismenu izjavu o prihvatanju ponude i nalog za prodaju akcija, dostavi ovlašćenom učesniku kojeg odredi sticalac u prospektu za preuzimanje, najkasnije do kraja narednog radnog dana od dana prijema tog prihvata.
+Ovlašćeni učesnik kojeg odredi akcionar odgovoran je za vjerodostojnost podataka iz prihvata ponude i za dostavljanje prihvata u roku iz stava 3 ove tačke.
+Ovlašćeni učesnik kojeg odredi sticalac ovjerava prijem prihvata ponude, t.j. ovjerava pismenu izjavu o prihvatanju ponude i nalog za prodaju akcija, koju mu dostavi ovlašćeni učesnik kojeg odredi akcionar.
+Ovjerom iz stava 5 ove tačke smatra se da je prihvat ponude izvršen u skladu sa prospektom za preuzimanje, od kog momenta odgovornost za sprovođenje prihvata ponude snosi ovlašćeni učesnik kojeg odredi sticalac.
+Ovlašćeni učesnik kojeg odredi sticalac ne može da odbije prijem ponude dostavljen od strane ovlašćenog učesnika kojeg odredi akcionar, osim u slučaju kada ga Centralna Depozitarna Agencija pismeno obavijesti da se dati nalog ne može sprovesti.
+5. Na osnovu prihvata ponuda primljenih u skladu sa odredbama tač. 3 i 4 ovog uputstva, ovlašćeni učesnik kojeg odredi sticalac daje nalog berzi za evidentiranje akcija na posebnoj listi i nalog Centralnoj Depozitarnoj Agenciji za prenos akcija sa računa akcionara koji su prihvatili ponudu na poseban račun na kome se vodi evidencija akcija po kojima je ponuda za preuzimanje prihvaćena.
+6. Odustajanje od prihvata ponude vrši se na isti način na koji je dat prihvat ponude, s tim da je ovlašćeni učesnik kojeg odredi sticalac dužan da odustanak od prihvata ponude dostavi berzi i Centralnoj Depozitarnoj Agenciji najkasnije do kraja narednog radnog dana od dana njegovog prijema.
+7. Odredbe tač. 2 do 6 ovog uputstva primjenjuju se i u slučaju konkurentske ponude.
+8. Nakon okončanja postupka javne ponude za preuzimanje, sredstava za isplatu akcionara Centralna Depozitarna Agencija uplaćuje na račun koji za klijente vodi ovlašćeni učesnik kojeg odredi akcionar, a ovaj ovlašćeni učesnik sredstva isplaćuje akcionaru, u najkraćem roku.
+9. Ovo uputstvo stupa na snagu narednog dana od dana objavljivanja u "Službenom listu RCG".
