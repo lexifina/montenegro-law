@@ -1,0 +1,2 @@
+# Član 1
+Svim manjinskim akcionarima Telekoma Crne Gore AD koji su prodali svoje akcije, a saldiranje akcija je izvršeno, odnosno promjena vlasništva nad akcijama registrovana kod Centralne Depozitarne Agencije na dan 1.aprila 2005.godine, kao i svim manjinskim akcionarima koji prodaju svoje akcije kroz javnu ponudu, Vlada Republike Crne Gore izvršiće isplatu kontribucije u iznosu od 0,3 eura po jednoj akciji.
