@@ -1,0 +1,2 @@
+# Član 6
+Direktor Javnog preduzeća je dužan da, bez odlaganja, protiv zaposlenog koji odbije da izvrši nalog direktora Javnog preduzeća, odnosno direktora Nacionalnog parka izdat radi obezbjeđivanja minimuma procesa rada, koji sprječava zaposlene koji ne učestvuju u štrajku da rade, kao i protiv zaposlenog koji učestvuje u štrajku suprotno zakonu, pokrene postupak za utv- rđivanje teže povrede radne obaveze zbog koje se izriče mjera prestanka radnog odnosa u skladu sa zakonom, kao i da preduzme druge mjere na koje je ovlašćen.
