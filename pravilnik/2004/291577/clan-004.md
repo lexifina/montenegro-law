@@ -1,0 +1,2 @@
+# Član 4
+Ostale organizacije navedene u članu 1 stavu 1 ovog pravilnika koje ne pripadaju bankarskom sektoru, umjesto dostavljanja podataka u pisanoj formi, mogu da dostavljaju Upravi podatke iz člana 1 st. 1 i 2 u elektronskoj verziji obrasca koristeći disketu, CD ROM, ili zaštićenu elektronsku poštu u formatu koji je unaprijed propisala i usvojila Uprava i to u rokovima navedenim u članu 2 st. 1, 2, 3 i 4.

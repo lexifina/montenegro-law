@@ -1,0 +1,9 @@
+# Član 2
+Podaci iz člana 1 stava 1 ovog pravilnika se dostavljaju Upravi o svakoj transakciji koja prelazi vrijednost od 15.000 eura i o više međusobno povezanih transakcija koje zajedno prelaze vrijednost od 15.000 eura odmah nakon izvršenja transakcije, ali najkasnije u roku od tri dana nakon obavljene transakcije u skladu sa članom 14 stav 1 Zakona. Ovi podaci se dostavljaju po jednom od sljedećih metoda:
+1) faksom,
+2) preporučenom poštom,
+3) ličnom dostavom ili preko kurira,
+4) na disketi ili CD ROMU, zaštićenom elektronskom poštom u formatu koji je unaprijed propisala i usvojila Uprava.
+Podaci iz člana 1 stava 2 ovog pravilnika se dostavljaju Upravi prije izvršenja transakcije uz obavještenje o roku u kojem bi trebalo obaviti transakciju u skladu sa članom 14, stav 2 Zakona. Podaci iz člana 1 stava 2 ovog pravilnika se prvo dostavljaju Upravi putem telefona, a potom u pisanoj formi po jednom od metoda navedenih u članu 2 stavu 1 ovog pravilnika najkasnije u toku narednog radnog dana.
+Ukoliko organizacija, u slučajevima iz člana 1 stava 2 ovog pravilnika, zbog prirode transakcije ili zato što transakcija nije u cjelini izvršena ili iz drugih opravdanih razloga, nije u mogućnosti da dostavi podatke prije izvršenja transakcije, ona je u obavezi da dostavi podatke Upravi odmah, odnosno neposredno nakon saznanja razloga za osnov sumnje da se radi o pranju novca uz obrazloženje zbog čega podaci nijesu mogli biti dostavljeni prije izvršenja transakcije.
+Organizacije navedene u članu 1 stavu 1 ovog pravilnika koje ne pripadaju bankarskom sektoru su dužne da dostavljaju Upravi podatke o svakoj transakciji koja prelazi vrijednost od 15.000 eura, o više međusobno povezanih transakcija koje zajedno prelaze vrijednost od 15.000 eura i o gotovinskim i bezgotovinskim transakcijama u bilo kom iznosu, kada postoji osnov sumnje da se radi o pranju novca, koristeći obrazac i uputstva iz Dodatka 2.
