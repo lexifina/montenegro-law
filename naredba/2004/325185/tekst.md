@@ -1,0 +1,7 @@
+289.Na osnovu člana 80. stav 4. Zakona o vazdušnom saobraćaju ("Službeni list SRJ", br. 12/98, 44/99, 73/2000 i 70/2001) i Odluke o osnivanju Direktorata civilnog vazduhoplovstva države Srbije i države Crne Gore ("Službeni glasnik Republike Srbije", br. 102/2003 i "Službeni list Republike Crne Gore", br. 61/2003),
+Generalni direktor Direktorata civilnog vazduhoplovstva države Srbije i države Crne Gore izdaje
+NAREDBU O VISINI NAKNADE ZA IZDAVANJE ODOBRENJA ZA LOKACIJSKU I PROJEKTNU DOKUMENTA-CIJU U VEZI IZGRADNJE ILI REKONSTRUKCIJE AERODROMA I DRUGIH OBJEKATA SA STANOVIŠTA BEZBJEDNOSTI VAZDUŠNOG SAOBRAĆAJA
+1. Za izdavanje odobrenja za lokacijsku dokumenataciju i izdavanje odobrenja za projektnu dokumentaciju, u vezi izgradnje i rekonstrukcije aerodroma, poletno-slijetnih i drugih staza, pristanišne platforme, objekata za prihvat i otpremu vazduhoplova, putnika i stvari i drugih objekata koji omogućuju bezbjedno polijetanje, slijetanje i boravak vazduhoplova na aerodromu, plaća se naknada.
+2. Visina naknade iznosi 100 evra po jednom projektu.
+3. Naknada iz tačke 1. ove naredbe uplaćuje se na poseban račun Direktorata civilnog vazduhoplovstva države Srbije i države Crne Gore, a dokaz o izvršenoj uplati dostavlja se prilikom podnošenja zahtjeva za izdavanje odobrenja za lokacijsku i projektnu dokumentaciju.
+4. Ova naredba stupa na snagu narednog dana od dana objavljivanja u "Službenom glasniku Republike Srbije" i "Službenom listu Republike Crne Gore".
