@@ -1,0 +1,5 @@
+# Član 6
+U slučaju da pravna i fizička lica vrše promociju investicionog fonda suprotno odredbama člana 66 stav 1 i člana 67 stav 3 Zakona o investicionim fondovima ("Službeni list RCG", br. 49/04) i odredbama člana 4 ovih pravila, Komisija će, najmanje u jednom dnevnom listu koji se izdaje na teritoriji Republike Crne Gore, objaviti saopštenje u kome će upozoriti potencijalne investitore na tu činjenicu.
+Komisija će, odmah po saznanju o vršenju promocije na način naveden u stavu 1 ovog člana, uputiti pismeno upozorenje društvu za upravljanje i zatražiti obustavljanje promocije, uz upozorenje da nastavljanje promocije predstavlja osnov za preduzimanje mjera protiv društva za upravljanje ili investicionog fonda.
+Ukoliko lica iz stava 1 ovog člana, i nakon upozorenja Komisije, nastave sa istovjetnom promocijom, Komisija će preduzeti odgovarajuće mjere i o tome pismeno obavjestiti ova lica.
+Odluku o preduzimanju mjera iz stava 3 ovog člana Komisija objavljuje najmanje u jednom dnevnom listu koji se izdaje na teritoriji Republike Crne Gore.
