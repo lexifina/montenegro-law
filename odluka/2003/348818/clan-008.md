@@ -1,0 +1,4 @@
+# Član 8
+U slučaju da ukupan iznos stečenih sopstvenih akcija prelazi 10% akcionarskog kapitala, banka je dužna da dio sopstvenih akcija koje je stekla, a najmanje u visini prekoračenja, otuđi najkasnije u roku od tri mjeseca od dana nastanka tog prekoračenja.
+Ako se na način utvrđen u stavu 1 ovog člana ne obezbjeđuje smanjenje ukupnog iznosa stečenih sopstvenih akcija ispod 10% akcionarskog kapitala, banka je dužna da od zavisnog lica banke ili lica koje posluje u svoje ime ali za račun tog zavisnog lica, a koji posjeduju akcije te banke, odmah zahtijeva da otuđi, ili prenese u svojinu banke uz odgovarajuću naknadu, akcije banke u vrijednosti koja obezbjeđuje eliminisanje nastalog prekoračenja.
+Prenos akcija izvršen na način utvrđen u stavu 2 ovog člana ne smatra se trgovanjem akcijama u smislu zakona kojim se uređuju hartije od vrijednosti.
