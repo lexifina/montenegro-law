@@ -1,0 +1,2 @@
+# Član 1
+Ovim uputstvom bliže se reguliše način i postupak uvida u dosijea sa kojih se skida oznaka stepena povjerljivosti "državna tajna", koji su vođeni o građanima Republike Crne Gore u Službi državne bezbjednosti, a koji se odnose na problematiku "unutrašnji neprijatelj", odnosno "unutrašnji ekstremizam" u periodu od osnivanja Službe državne bezbjednosti do stupanja na snagu Uredbe o stavljanju na uvid dosijea vođenih o građanima Republike Crne Gore u Službi državne bezbjednosti, kao i kontrola zakonitosti preduzetih aktivnosti.
