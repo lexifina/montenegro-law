@@ -1,0 +1,2 @@
+Na osnovu člana 2 stav 3 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG", br. 15/94 i 4/97), a u vezi sa članom 2 Odluke o uslovima i načinu davanja na korišćenje mineralnih sirovina ("Službeni list RCG", broj 56/93), Vlada Republike Crne Gore, na sjednici održanoj 5. juna 2003. godine, donijela je
+ODLUKU O PRIHVATANJU UGOVORA O DAVANJU PRAVA NA DETALJNA GEOLOŠKA ISTRAŽIVANJA MINERALNIH SIROVINA
