@@ -1,0 +1,4 @@
+# Član 21
+Svi subjekti javnog sektora dužni su da podnose izvještaje o svakom povlačenju sredstava zajma, bez obzira da li su zajmovi garantovani od strane Države, u roku od sedam dana od dana svake transakcije, kao i da dostavljaju kvartalne izvještaje o stanju sredstava na pozicijama na kojima se vode ti krediti.
+Sva pravna lica, izvan javnog sektora, iz člana 18 ovog zakona, kojima je Država izdala garancije, koje su još uvijek aktivne, za bilo koji kredit, podnose izvještaje o svakom povlačenju sredstava bilo kojih zajmova, bez obzira da li su zajmovi garantovani od strane Države, u roku od sedam dana od dana svake transakcije, kao i da dostavljaju kvartalne izvještaje o stanju sredstava na pozicijama na kojima se vode ti krediti.
+Sva pravna lica, izvan javnog sektora, iz stava 2 ovog člana moraju dobiti odobrenje Ministarstva prije ugovaranja bilo kojeg novog kredita, iz bilo kojeg izvora.

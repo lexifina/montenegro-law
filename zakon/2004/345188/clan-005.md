@@ -1,0 +1,5 @@
+# Član 5
+Strategijom duga se utvrđuju prioriteti i kvalifikovanost investicionih projekata Države čija implementacija zahtijeva potpuno ili djelimično finansiranje iz sredstava inostranih zajmova.
+Inicijativa za uključivanje u Strategiju duga koju predlažu subjekti javnog sektora dostavlja se posebnom odjeljenju Ministarstva finansija (u daljem tekstu: Ministarstvo), koje će dati ocjenu njihove finansijske opravdanosti, definisati prioritete i dostaviti Komisiji za politiku duga radi utvrđivanja predloga Strategije duga i dostavljanja Vladi na usvajanje.
+Aktom o osnivanju bliže će se regulisati, način rada i funkcionisanje Komisije iz stava 2 ovog člana, koju sačinjavaju ministar finansija (u daljem tekstu: ministar), ministar ekonomije i predsjednik Savjeta Centralne banke Crne Gore.
+Javna preduzeća čiji je osnivač Država i domaća pravna lica koja su najmanje 51% u državnom vlasništvu svoje investicione projekte dostavljaće organu iz stava 2 ovog člana, nakon dobijene saglasnosti ministarstva nadležnog za oblast u kojoj posluje.
