@@ -1,0 +1,2 @@
+# Član 1
+Ovim uputstvom se uređuje način ostvarivanja obaveza akcionarskih društava, utvrđenih odredbama čl. 116 i 122 Zakona o harijama od vrijednosti ("Službeni list RCG", br. 59/2000), za upis u Registar emitenata kod Komisije za hartije od vrijednosti (u daljem tekstu: Komisija) i za dostavljanje knjiga akcija Centralnoj Depozitarnoj Agenciji a.d. Podgorica (u daljem tekstu: Centralna Depozitarna Agencija).
