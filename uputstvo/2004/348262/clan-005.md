@@ -1,0 +1,2 @@
+# Član 5
+U slučaju da fond i društvo za upravljanje ugovore da, u slučaju rasta godišnjeg profita fonda, društvo za upravljanje ima pravo i na dodatnu godišnju naknadu u određenom procentu porasta godišnjeg profita, ovaj dio naknade će biti naplaćen nakon što skupština akcionara fonda usvoji godišnji finansijski izvještaj fonda, sa izvještajem revizora, jednokratno ili u više mjesečnih rata u toku tekuće godine, što će se utvrditi aneksom ugovora o upravljanju.

@@ -1,0 +1,2 @@
+596.Na osnovu člana 13 stav 3 Pravila o metodologiji za obračunavanje neto vrijednosti imovine investicionih fondova ("Službeni list RCG", br.__), a u vezi sa članom 48 Zakona o investicionim fondovima ("Službeni list RCG", br. 49/04), Komisija za hartije od vrijednosti, na sjednici od 28. oktobra 2004. godine, donosi
+UPUTSTVO O OBRAČUNU I NAPLATI NAKNADE DRUŠTAVA ZA UPRAVLJANJE INVESTICIONIM FONDOVIMA
