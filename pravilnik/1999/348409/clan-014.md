@@ -1,0 +1,2 @@
+# Član 14
+Oruđima za rad na kojima se vrše pregledi i ispitivanja, u smislu ovog pravilnika, smatraju se dizalice, prese i makaze sa ručnim dodavanjem materijala, žičare i ski-liftovi, viseće skele i liftovi za radove na vertikalnoj površini objekata na električni pogon, razvijači acetilena i acetilenskih stanica i uređaji u kojima se nanose i suše premazna sredstva, nitratna kupatila, kombinovane mašine za preradu drveta i sl. materijala, sredstva unutrašnjeg transporta na mehanizovani pogon (viljuškari, karete, transporteri neprekidnog transporta materijala i sl.).

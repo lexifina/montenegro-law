@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom uređuje se postupak ispitivanja hemijskih, fizičkih i bioloških štetnosti, osvjetljenja i mikroklime u radnoj sredini i sredstvima i opremi lične zaštite kao i postupak pregleda i ispitivanja protiv eksplozijsko zaštićenih uređaja i električnih instalacija i oruđa za rad koja u smislu čl. 25 i 26. Zakona o zaštiti na radu mogu da vrše poslodavci, odnosno ovlašćene organizacije (u daljem tekstu: ovlašćene organizacije).
