@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom utvrđuju se osnovice osiguranja za penzijsko i invalidsko osiguranje za državljane Srbije i Crne Gore zaposlene u inostranstvu, ako za to vrijeme nijesu obavezno osigurani kod stranog nosioca osiguranja ili ako prava iz penzijskog i invalidskog osiguranja, po propisima te države, ne mogu ostvariti ili koristiti van njene teritorije, a neposredno prije odlaska u inostranstvo bili su osigurani u Republici Crnoj Gori (u daljem tekstu: Republika), odnosno ako su prije odlaska u inostranstvo imali stalno prebivalište u Republici.
