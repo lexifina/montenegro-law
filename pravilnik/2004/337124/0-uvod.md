@@ -1,0 +1,3 @@
+514.Na osnovu člana 38 Zakona o državnoj upravi ("Službeni list RCG", broj 38/03), Ministarstvo pravde donosi
+PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O OSPOSOBLJAVANJU
+PRIPRAVNIKA, STRUČNOM ISPITU I STRUČNOM USAVRŠAVANJU SLUŽBENIKA
