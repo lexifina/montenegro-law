@@ -1,0 +1,4 @@
+Na osnovu člana 60 Zakona o visokom obrazovanju ( "Službeni list RCG", broj 60/ 03) člana 12 stav 3 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG ", br. 15/94 i 4/97) i Predloga Ministarstva prosvjete i nauke, Vlada Republike Crne Gore, na sjednici održanoj 27. novembra 2003. donijela je
+ODLUKU O DOPUNI ODLUKE O BROJU STUDENATA ZA UPIS U PRVU GODINU STUDIJA NA UNIVERZITETSKE JEDINICE UNIVERZITETA CRNE GORE ZA ŠKOLSKU 2003/2004. GODINU
+1. Odobrava se naknadni upis za 11 studenata na prvu godinu studija za školsku 2003/2004. godinu na Medicinskom fakultetu u Podgorici, koji će se finansirati iz Budžeta Republike, od kojih su dva mjesta namijenjena pripadnicima albanske nacionalnosti.
+2. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom listu Republike Crne Gore".
