@@ -1,0 +1,2 @@
+Na osnovu člana 14 stav 4 Zakona o društvenim djelatnostima ("Službeni list SRCG", br. 16/90 i 6/91 i "Službeni list RCG", br. 21/95) i člana 58 Zakona o zdravstvenoj zaštiti i zdravstvenom osiguranju ("Službeni list SRCG", br. 39/90 i 21/91 i "Službeni list RCG", br. 30/92, 58/92, 6/94, 27/94, 16/95, 20/95 i 23/96), Vlada Republike Crne Gore, na sjednici od 15. novembra 2002. godine donijela je
+ODLUKU
