@@ -1,0 +1,3 @@
+# Član 5
+Kao datum sticanja svojstva osiguranika u matičnu evidenciju unosi se dan, mjesec i godina početka zaposlenja, ili obavljanja samostalne djelatnosti, odnosno obavljanja ugovorenih poslova, a za osiguranike poljoprivrednike dan upisa u registar organa državne uprave nadležnog za poslove poljoprivrede, šumarstva i vodoprivrede.
+Kao datum prestanka svojstva osiguranika u matičnu evidenciju unosi se dan, mjesec i godina prestanka zaposlenja ili obavljanja samostalne djelatnosti, odnosno obavljanja ugovorenih poslova, a za osiguranike poljoprivrednike dan prestanka obavljanja poljoprivredne djelatnosti.
