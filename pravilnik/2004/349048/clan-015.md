@@ -1,0 +1,3 @@
+# Član 15
+Kuhinja u ugostiteljskom objektu, kapacitetom mora odgovarati potrebama restorana ili prostora za usluživanje gostiju.
+Kuhinja mora biti opremljena odgovarajućim termičkim uređajima, mora imati rashladnu komoru ili rashladne uređaje za namirnice sa odvojenim pregradama za meso i ribu, radne površine, prostore i uređaje za čišćenje i obradu namirnica, kuhinjsko posuđe odgovarajućeg kvaliteta, odvojene prostore sa sudoperama za pranje crnog i bijelog posuđa, sa tekućom toplom i hladnom vodom. Sudoper za pranje bijelog posuđa mora imati dvodjelno korito. Ako se pranje bijelog posuđa obavlja mašinski, dovoljno je jednodjelno korito. Kuhinja mora imati priručne prostore za čuvanje namirnica.

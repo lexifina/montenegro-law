@@ -1,0 +1,5 @@
+# Član 11
+U ugostiteljskom objektu visina od poda do plafona (dalje u tekstu: unutrašnja visina) u prostorijama za boravak, ishranu i u prostorijama za usluživanje gostiju, mora iznositi 2,80 m, a u smještajnim jedinicama unutrašnja visina mora iznositi najmanje 2,40 m, ako ovim pravilnikom nije drugačije određeno.
+Izuzetno, od odredbe stava 1 ovoga člana, u prostorijama za boravak, ishranu i .usluživanje gostiju, unutrašnja visina može iznositi 2,50 m, ako je u ugostiteljskom objektu ili prostoriji objekta ugrađen klima uređaj.
+U prostorijama ugostiteljskog objekta sa koso izvedenim plafonom ili plafonom različitih visina, prosječna unutrašnja visina mora biti u skladu sa odredbom stava 1 ovoga člana.
+U ugostiteljskom objektu smještenom u zgradi koja je istorijsko-kulturni spomenik, poslovne prostorije ne moraju imati unutrašnju visinu propisanu ovim pravilnikom, uz uslov da se u procesu rada ne pojavljuju nikakve štetne emisije i da na svako zaposleno lice dolazi najmanje 1 m2 vazdušnog prostora i 2 m2 slobodne površine poda.
