@@ -1,0 +1,4 @@
+# Član 11
+Za strane putničke brodove, prilikom plovidbe u unutrašnjim morskim vodama i uplovljavanja u luke i sidrišta, a nalaze se na turističkim putovanjima -krstarenjima, plaća se naknada za korišćenje objekata bezbjednosti plovidbe množeći NT sa 0,05 US dolara, za svako putovanje.
+Stav 1 ovog člana primjenjivaće se za brodove neto tonaže do 30.000 NT, dok će se za brodove preko 30.000 NT primjenjivati paušalna naknada u iznosu od 1.500,00 US dolara. Za brodove do 30.000 NT plaća se naknada prema tarifama iz stava 1 ovog člana - množeći NT sa 0,05 US dolara, dok će za brodove preko 30.000 NT bez obzira na NT naknada iznositi 1.500,00 US dolara.
+Ovaj vid obračuna odnosi se za svako putovanje, a ukoliko vlasnik, odnosno korisnik plati jednokratno godišnju naknadu množiće se NT sa 0,80 US dolara.
