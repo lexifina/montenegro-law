@@ -1,0 +1,11 @@
+Na osnovu člana 19, stav 3 Zakona o srednjoj školi ("Službeni list RCG", br. 28/91, 56/92 i 27/94), Ministarstvo prosvjete i nauke, donosi
+RJEŠENJE O DOPUNAMA RJEŠENJA DA SU ISPUNJENI PROPISANI USLOVI ZA OSNIVANJE I RAD SREDNJIH ŠKOLA
+1. U rješenju da su ispunjeni propisani uslovi za osnivanje i rad srednjih škola ("Službeni list RCG", br. 26/98, 13/99, 19/00, 49/00, 58/00, 18/01 i 28/01) u tački 7 na kraju stava 1, umjesto tačke stavlja se zarez i dodaju riječi: "obrazovni profil V stepen: elektroenergetičar specijalista za mreže i postrojenja, elektroenergetičar specijalista za električne instalacije, elektrotehničar specijalista za telekomunikacione mreže, elektrotehničar specijalista za računarsku opremu, elektrot-eh-ničar specijalista za elektroniku i auto-električar specijalista."
+2. U tački 19 na kraju stava 2 umjesto tačke stavlja se zarez i dodaju riječi: "obrazovni profil IV stepen: "mašinski tehničar."
+3. Poslije tačke 31 dodaje se tačka 31a koja glasi:
+UMJETNIČKA ŠKOLA OSNOVNOG SREDNJEG MUZIČKOG OBRAZOVANJA ZA TALENTE "ANDRE NAVARA" PODGORICA
+Područje rada: kultura, umjetnost, javno informisanje, obrazovni profil: IV stepen: muzički izvoĎači: violinista, violista, violončelista, kontrabasista i klavirista.
+4. U tački 33 na kraju stava 4 umjesto tačke stavlja se zarez i dodaju riječi: "obrazovni profil IV stepen: tehničar prodaje."
+5. U tački 34 na kraju stava 2 umjesto tačke stavlja se zarez i dodaju riječi: "obrazovni profil V stepen elektroenergetičar za električne instalacije, elektroenergetičar za mreže i postrojenja, elektroenergetičar električnih aparata i ureĎaja u domaćinstvu, auto- električar specijalista, elektro-tehničar specijalista za telekomunikacione mreže, elektro-tehničar specijalista za telekomunikcione ureĎaje, elektrotehničar specijalista za automatiku, elektrotehničar specijalista za računarsku opremu, elektroenergetičar specijalista za liftove i pokretne stepenice."
+6. U tački 37 poslije stava 5 dodaje se novi stav koji glasi: "Područje rada geodezija i graĎevinarstvo, obrazovni profili IV stepena: graĎevinski tehničar za visoku gradnju".
+7. Ovo rješenje stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Republike Crne Gore."
