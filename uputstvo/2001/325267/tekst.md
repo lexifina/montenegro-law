@@ -1,0 +1,4 @@
+95. Na osnovu člana 32 stav 1 tačka 5 i člana 92 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br.4/98, 17/98, 14/2000 i 9/2001 ), Republička izborna komisija, na sjednici od 5. marta 2001. godine, donijela je
+U P U T S T V O O JEDINSTVENIM OBRASCIMA ZA SPROVOĐENJE IZBORA NA BIRAČKIM MJESTIMA ODREĐENIM ODLUKOM O ODREĐIVANJU BIRAČKIH MJESTA ZA IZBOR PET POSLANIKA U SKUPŠTINU REPUBLIKE CRNE GORE
+1. U postupku izbora poslanika na biračkim mjestima određenim Odlukom o određivanju biračkih mjesta za izbor pet poslanika u Skupštinu Republike Crne Gore ("Službeni list RCG", br. 5/98), koristiće se, pored obrazaca utvrđenih Uputstvom o jedinstvenim obrascima za sprovođenje izbornih radnji ("Službeni list RCG", br. 20/2000) i obrasci propisani ovim uputstvom (PG 24 i 25) koji čine njegov sastavni dio.
+2. Ovo uputstvo stupa na snagu narednog dana od dana objavljivanja u "Službenom listu Republike Crne Gore".
