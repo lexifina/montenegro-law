@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom se utvrđuju: bliži uslovi, način i postupak za davanje odobrenja, razlozi i postupak za oduzimanje odobrenja i iznos naknade za pokriće administrativnih i drugih troškova postupka davanja odobrenja bankama za obavljanje poslova platnog prometa u međubankarskom platnom sistemu i žiro sistemu (u daljem tekstu: MPS i žiro sistem) čiji je operater Centralna banka Crne Gore (u daljem tekstu: Centralna banka).
