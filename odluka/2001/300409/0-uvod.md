@@ -1,0 +1,2 @@
+198. Na osnovu čl. 17 i 55, Zakona o Centralnoj banci Crne Gore ("Službeni list RCG", br. 52/00), a radi sprovođenja čl. 8,10, 15, 16, 18, 19, 22, 33, 34, 46, alineja 5) i 6) Zakona o bankama ("Službeni list RCG", br.52/00), Savjet Centralne banke Crne Gore, na sjednici održanoj 4. maja 2001. godine, donio je
+O D L U K U O POSTUPKU I NAČINU IZDAVANJA DOZVOLE ZA RAD, DAVANJU ODOBRENJA I SAGLASNOSTI I VISINI NAKNADA
