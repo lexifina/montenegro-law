@@ -1,0 +1,6 @@
+133.Na osnovu člana 29. Zakona o penzijskom i invalidskom osiguranju ("Sl. list SRCG", br. 14/83, 12/85, 14/89 i 28/91 i "Sl. list RCG", br. 18/92 i 20/93) i člana 63. alineja 7. Statuta Republičkog fonda penzijskog i invalidskog osiguranja ("Sl. list RCG", br. 46/91 i 11/94), Savjet Republičkog fonda penzijskog i invalidskog osiguranja, na sjednici od 29. 02. 2000. godine, donio je
+O D L U K U O UTVRĐIVANJU NAJVIŠEG IZNOSA PENZIJE ZA JANUAR 2000. GODINE
+1. Ovom odlukom utvrđuje se najviši iznos penzije, počev od 1. januara 2000. godine, u visini od 9.972,20 dinara, odnosno 506,60 DEM.
+2. Najviši iznos penzije iz tačke 1. ove odluke usklađen je (preindeksiran) prema kretanju prosječne zarade u Republici Crnoj Gori u januaru 2000. godine u odnosu na prosječnu zaradu u Republici u 1999. godini (52 %) i preveden od 1. januara 2000. godine sa jugoslovenskih dinara u njemačke marke, po prosječnom kursu DEM u odnosu na dinar iskazanom prema podacima Republičkog zavoda za statistiku za mjesec januar 2000. godine.
+3. Najviši iznos penzije iz tačke 1. ove odluke odrediće se po službenoj dužnosti dosadašnjim korisnicima najvišeg iznosa penzije, bez donošenja posebnog rješenja.
+4. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Republike Crne Gore".
