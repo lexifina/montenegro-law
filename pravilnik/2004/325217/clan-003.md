@@ -1,0 +1,3 @@
+# Član 3
+Osiguranik poljoprivrednik koji se opredijeli da doprinos za penzijsko i invalidsko osiguranje plaća na osnovicu osiguranja iz člana 2 ovog pravilnika, podnosi zahtjev Direkciji javnih prihoda, odnosno njenoj organizacionoj jedinici, na obrascu OP 1, najkasnije do 31. januara godine za koju se doprinos plaća.
+Obrazac zahtjeva iz stava 1 ovog člana odštampan je uz ovaj pravilnik i čini njegov sastavni dio. Ukoliko osiguranik poljoprivrednik ne podnese zahtjev za promjenu osnovice, u roku iz stava 1 ovog člana, plaća doprinos na osnovicu osiguranja na koju je bio osiguran u prethodnoj kalendarskoj godini.
