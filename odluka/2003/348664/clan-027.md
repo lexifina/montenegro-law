@@ -1,0 +1,2 @@
+# Član 27
+Kada Komisija za hartije od vrijednosti utvrdi da je nova emisija akcija banke iz člana 26 ove odluke uspjela i donese rješenje o uspješnosti ove emisije, Centralna Depozitarna Agencija prenosi ranije kupljene postojeće akcije banke i kupljene akcije nove emisije na račun hartija od vrijednosti kupaca akcija banke i istovremeno prenosi novčana sredstva sa privremenog računa iz člana 25 ove odluke, na račune ranijih vlasnika akcija banke.

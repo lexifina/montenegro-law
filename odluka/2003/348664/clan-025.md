@@ -1,0 +1,2 @@
+# Član 25
+Prodate postojeće akcije banke prenose se, nakon kliringa i saldiranja, na privremene račune hartija od vrijednosti novih kupaca kod Centralne Depozitarne Agencije, a novčana sredstva od prodaje tih akcija kupci uplaćuju na poseban privremeni račun kod Centralne Depozitarne Agencije, koja na tim računima ostaju dok kupci ne izvrše potrebnu dokapitalizaciju banke, odnosno do isteka roka za uplatu sredstava za kupovinu novih akcija banke.

@@ -1,0 +1,2 @@
+# Član 28
+U slučaju kada kupci postojećih akcija banke ne kupe novu emisiju akcija i Komisija za hartije od vrijednosti utvrdi da ta emisija akcija nije uspjela, akcije banke izdvojene na privremene račune kupaca kod Centralne Depozitarne Agencije vraćaju se na račune ranijih vlasnika akcija banke, a novac izdvojen na poseban račun kod Centralne Depozitarne Agencije vraća se kupcima koji nijesu uspjeli da izvrše potrebnu dokapitalizaciju banke.
