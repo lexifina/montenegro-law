@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom se propisuje visina naknade za zakup putnog pojasa, način izračunavanja i visina naknade za zakup drugog zemljišta koje pripada državnom putu (u daljem tekstu: putno zemljište), postupak dodjeljivanja putnog zemljišta, naknada za postavljanje i godišnja naknada za korišćenje cjevovoda, vodovoda, kanalizacije, električnih, telegrafskih i drugih vodova na državnom putu i sl., kao i naknada za izgradnju i naknada za korišćenje komercijalnih objekata (obavljanje pratećih djelatnosti) kojima je omogućen pristup sa državnog puta.
