@@ -1,0 +1,25 @@
+{
+  "id": 349349,
+  "path": "zakon/1996/349349",
+  "source": "https://www.sluzbenilist.me/propisi/349349",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/349349/download",
+  "title": "Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi",
+  "issue": "Službeni list Republike Crne Gore, broj 23/1996",
+  "published": "1996-07-31",
+  "in_force": "1996-08-08",
+  "in_force_basis": "Овај закон ступа на снагу осмог дана од дана објављивања у \"Службеном листу Републике Црне Горе\".",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "c266e7f84210335358780dadcec792005df2f7b6d843de080eb37b8f88e4bf95",
+  "articles_in_source": 5,
+  "note": null,
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 1409,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "text_sha256": "3afaec001c6032ac854438a6975e495e541668f93e699d22057db50cb26eaadc"
+}
