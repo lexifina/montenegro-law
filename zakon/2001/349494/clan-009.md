@@ -1,0 +1,10 @@
+# Član 9
+## Ispitivanje stranke
+(1) Stranka, u smislu ovog zakona, je svako lice koje je kod nadležnog poreskog organa registrovano kao poreski obveznik.
+(2) U poreskom postupku stranka može biti ispitana po pozivu poreskog organa ili po njenom zahtjevu.
+(3) Ispitivanje stranke vrši ovlašćeni službenik poreskog organa (u daljem tekstu: ovlašćeni službenik) koji vodi postupak utvrđivanja, kontrole, naplate ili istražnih radnji, kada ocijeni da je to potrebno radi utvrđivanja odlučnih činjenica i okolnosti koje su od značaja za razrješavanje poreske stvari ili radi davanja strankama mogućnosti da ostvare i zaštite svoja prava i interese.
+(4) Tok ispitnog postupka određuje ovlašćeni službenik koji vodi postupak, a prema okolnostima pojedinog slučaja, vodeći računa da stranci obezbjedi pravo: da iznosi činjenice koje mogu biti od uticaja za rješavanje poreske stvari, da predlaže dokaze radi utvrđivanja činjenica, da pobija tačnost navoda koji se ne slažu sa njenim navodima, da se izjasni o svim okolnostima i činjenicama koje su iznijete u ispitnom postupku, o prijedlozima i ponuđenim dokazima, da učestvuje u izvođenju dokaza i postavljanju pitanja drugim strankama, svjedocima i vještacima preko ovlašćenog službenika, a sa njegovom dozvolom i neposredno, kao i da se upozna sa rezultatima izvođenja dokaza i da se o tome izjasni.
+(5) U toku ispitnog postupka, ovlašćeni službenik koji vodi postupak može odlučiti da izvrši saslušanje stranke o svim ili pojedinim činjenicama i okolnostima koje su od značaja za tu poresku stvar.
+(6) Na saslušanju stranka izjavu daje po pravilu usmeno, a može je dati i pismeno.
+(7) Punomoćnik stranke ima pravo da učestvuje u postupku saslušanja stranke. Stranka, njen punomoćnik i poreski organ imaju pravo da cjelokupan tok saslušanja snime na magnetofonsku traku.(8) Ovlašćeno službeno lice koje vodi postupak nema pravo od stranke iznuđivati dokaze putem sile ili prevare, niti je prisiljavati da sastavlja ili potpisuje pismene izjave ili dokumenta.
+(9) Prije saslušanja stranke, ovlašćeni službenik koji vodi postupak dužan je da upozori stranku na krivičnu i materijalnu odgovornost za davanje lažne izjave.

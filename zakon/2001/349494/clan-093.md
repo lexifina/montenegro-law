@@ -1,0 +1,2 @@
+# Član 93
+Kada poreski organ u postupku inspekcijske kontrole ili na drugi način otkrije činjenice i okolnosti koje ukazuju da je učinjeno krivično djelo, privredni prestup ili prekršaj ili druga nezakonita radnja u oblasti poreza, ispitaće te činjenice i okolnosti u prisustvu nadležnog organa i, ukoliko utvrdi da ima osnova, podnijeće prijavu, odnosno zahtjev za pokretanje prekršajnog postupka nadležnom organu.

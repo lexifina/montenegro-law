@@ -1,0 +1,3 @@
+# Član 97
+(1) Ukoliko poreski obveznik izvrši uplatu veću od iznosa poreske obaveze, poreski organ je dužan iznos preplate sa pripadajućom kamatom prebiti sa budućom poreskom obavezom ili vratiti poreskom obvezniku, u skladu sa ovim zakonom.
+(2) Područna jedinica poreskog organa kod koje je poreski obveznik registrovan dužna je poreskog obveznika obavjestiti o izvršenoj preplati u roku od 20 dana od dana otkrivanja pretplate. Obavještenje sadrži naročito: iznos preplate, iznos preplate koji će se automatski odbiti od buduće poreske obaveze i iznos preplate koji je raspoloživ za odbijanje buduće poreske obaveze ili vraćanje poreskom obvezniku.
