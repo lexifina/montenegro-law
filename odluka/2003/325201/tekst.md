@@ -1,0 +1,13 @@
+Na osnovu člana 17 Poslovnika Vlade Republike Crne Gore ("Službeni list RCG", broj 45/01), Vlada Republike Crne Gore, na sjednici od 11. avgusta 2003. godine, donijela je
+ODLUKU
+O FORMIRANjU KOMISIJE ZA KOORDINACIJU PROCESA PRISTUPANjA
+SVJETSKOJ TRGOVINSKOJ ORGANIZACIJI
+1. Formira se Komisija za koordinaciju procesa pristupanja Svjetskoj trgovinskoj organizaciji, kao radno tijelo Vlade Republike Crne Gore (u daljem tekstu: Komisija).
+2. Zadaci Komisije su da: prati i koordinira rad ministarstava i državnih organa i institucija u procesu pripreme i pregovaranja za pristupanje Svjetskoj trgovinskoj organizaciji; formira radne grupe/ekspertske timove i koordinira njihov rad; inicira izradu analiza o usaglašenosti postojeće zakonske regulative sa pravilima Svjetske trgovinske organizacije, kao i analize o konkurentnosti pojedinih privrednih grana, kao osnove za pripremu lista koncesija za robe i usluge; razmatra informacije, tumačenja i dokumentacionu osnovu o svim aspektima spoljnotrgovinske i ekonomske politike; razmatra predloge pregovaračke platforme po pojedinim sektorima i sporazumima Svjetske trgovinske organizacije, uključujući i predloge lista koncesija kojima se regulišu uslovi pristupa domaćem tržištu za određene strane proizvode i pružaoce usluga; kontinuirano prati i analizira sprovođenje preuzetih obaveza u procesu pristupanja Svjetskoj trgovinskoj organizaciji i daje predloge za usklađivanje zakonske regulative i politike u pojedinim oblastima sa pravilima Svjetske trgovinske organizacije.
+3. Komisija se formira na nivou pomoćnika ministara, odnosno rukovodilaca državnih organa i institucija, posebno: Ministarstva za ekonomske odnose sa inostranstvom i evropske integracije, Ministarstva finansija, Ministarstva ekonomije, Ministarstva poljoprivrede, šumarstva i vodoprivrede, Ministarstva pomorstva i saobraćaja, Ministarstva turizma, Ministarstva pravde, Ministarstva zaštite životne sredine i uređenja prostora, Republičkog sekretarijata za zakonodavstvo i Uprave carina Crne Gore.
+Komisija uključuje eksperte za pojedine oblasti, kao i predstavnike poslovnih asocijacija.
+4. Komisija u svom radu može koristiti i međunarodnu stručnu pomoć.
+5. Predsjednika i članove Komisije iz tačke 3 ove odluke imenuje Vlada Republike Crne Gore.
+Radom Komisije rukovodi predstavnik Ministarstva za ekonomske odnose sa inostranstvom i evropske integracije.
+6. Stručne i administrativno- tehničke poslove za potrebe Komisije obavlja Ministarstvo za ekonomske odnose sa inostranstvom i evropske integracije.
+7. Ova odluka stupa na snagu danom objavljivanja u "Službenom listu Republike Crne Gore".
