@@ -1,0 +1,26 @@
+{
+  "id": 350007,
+  "path": "zakon/1994/350007",
+  "source": "https://www.sluzbenilist.me/propisi/350007",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/350007/download",
+  "title": "Zakon o izmjenama i dopunama Zakona o doprinosima za socijalno osiguranje",
+  "issue": "Službeni list Republike Crne Gore, broj 3/1994",
+  "published": "1994-01-27",
+  "in_force": "1994-01-28",
+  "in_force_basis": "Овај закон ступа на снагу наредног дана од дана објављивања у „Службеном листу Републике Црне Горе\"",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "3514d37fa073335cfc5a1b2f9d4229e5f0fa772ba34e2f0bb24417c3c4cc9710",
+  "articles_in_source": 21,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 4115,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "4fc15499fb126f34dae6cd0f1e17c0656df48b2a1ef8e85157e8fa26f16dd046"
+}
