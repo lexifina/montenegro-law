@@ -1,0 +1,3 @@
+# Član 15
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Repu-
+blike Crne Gore".
