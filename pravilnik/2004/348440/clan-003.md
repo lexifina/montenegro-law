@@ -1,0 +1,2 @@
+# Član 3
+Za sveštenike i vjerske službenike koji su doprinose za penzijsko i invalidsko osiguranje plaćali prema osnovicama iz Odluke o utvrđivanju osnovica za penzijsko i invalidsko osiguranje za sveštenike i vjerske službenike, samostalne umjetnike, samostalne radnike u oblasti kulture i vrhunske sportiste ("Sl. list RCG", broj 8/95) od dana stupanja na snagu ovog pravilnika, doprinosi će se obračunavati i plaćati prema osnovicama iz člana 2 ovog pravilnika.
