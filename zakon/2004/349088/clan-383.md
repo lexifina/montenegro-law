@@ -1,0 +1,4 @@
+# Član 383
+Drugostepeni sud će rješenjem ukinuti prvostepenu presudu, ako utvrdi da postoji bitna povreda odredaba parničnog postupka (član 367) i vratiće predmet istom prvostepenom sudu ili će ga ustupiti nadležnom prvostepenom sudu radi održavanja nove glavne rasprave. U ovom rješenju drugostepeni sud će odlučiti i koje se sprovedene radnje, zahvaćene bitnom povredom odredaba parničnog postupka, ukidaju.
+Ako su u postupku pred prvostepenim sudom učinjene povrede odredaba iz člana 367 stav 2 tač. 3, 4, 6 i 13 ovog zakona, drugostepeni sud će ukinuti prvostepenu presudu i odbaciti tužbu.
+Ako je u postupku pred prvostepenim sudom učinjena povreda odredaba iz člana 367 stav 2 tačka 12 ovog zakona, drugostepeni sud će, s obzirom na prirodu povrede, ukinuti prvostepenu presudu i vratiti predmet nadležnom prvostepenom sudu ili će ukinuti prvostepenu presudu i odbaciti tužbu.

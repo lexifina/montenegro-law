@@ -1,0 +1,5 @@
+# Član 181
+Ako svjedok koji je uredno pozvan ne dođe, a izostanak ne opravda ili se bez odobrenja ili opravdanog razloga udalji sa mjesta gdje treba da bude saslušan, sud će narediti da se prinudno dovede i da podmiri troškove dovođenja i kazniće ga novčanom kaznom do 500 €.
+Ako svjedok dođe i, nakon što je upozoren na posljedice, uskrati svjedočenje ili odgovor na pojedino pitanje, a sud ocijeni da su razlozi uskraćivanja neopravdani, kazniće ga novčanom kaznom do 500 €, a ako i poslije toga odbije da svjedoči može ga zatvoriti. Zatvor traje sve dok svjedok ne pristane da svjedoči ili dok njegovo saslušanje ne postane nepotrebno, a najduže 30 dana.
+Sud će, na zahtjev stranke, da naredi svjedoku da nadoknadi troškove što ih je prouzrokovao svojim neopravdanim izostankom, odnosno neopravdanim odbijanjem da svjedoči.
+Ako svjedok naknadno opravda svoj izostanak, sud će opozvati svoje rješenje o kazni, a može svjedoka sasvim ili djelimično osloboditi naknade troškova. Sud može opozvati svoje rješenje o kazni i kad svjedok naknadno pristane da svjedoči.

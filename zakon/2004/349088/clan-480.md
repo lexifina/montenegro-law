@@ -1,0 +1,8 @@
+# Član 480
+Arbitar je dužan da se izuzme kad postoje razlozi za izuzeće iz odredbe člana 69 ovog zakona. Iz istih razloga stranke mogu zahtijevati izuzeće arbitara.
+Izuzeće arbitra se može tražiti i ako arbitar nema potrebnih kvalifikacija o kojima su se stranke sporazumjele, kao i kada ne ispunjava svoje obaveze iz člana 479 stav 2 ovoga zakona.
+Stranka koja je sama ili zajedno sa protivnom strankom postavila arbitra može zahtijevati njegovo izuzeće samo ako je razlog za izuzeće nastao ili je stranka za njega saznala pošto je arbitar postavljen.
+Stranke se mogu sporazumjeti o postupku za izuzeće, ali ne mogu isključiti primjenu odredbe stava 7 ovog člana.
+Ako takvog sporazuma nema, stranka koja želi da podnese zahtjev za izuzeće dužna je, u roku od 15 dana pošto je saznala za postavljanje arbitara ili bilo koju okolnost iz st. 1 i 2 ovog člana, da podnese arbitražnom sudu pisani zahtjev za izuzeće, uz navođenje razloga zbog kojih ga traži.
+Ako se arbitar čije se izuzeće traži ne povuče ili se druga stranka ne složi sa zahtjevom za njegovo izuzeće, odluku o izuzeću će odmah donijeti arbitražni sud u sastavu u kojem će učestvovati i sudija čije se izuzeće zahtijeva.
+Ako se zahtjevom za izuzeće u postupku iz stava 4 ovog člana, odnosno u postupku iz stava 6 ovog člana ne uspije, stranka koja je tražila izuzeće može, u roku od 30 dana pošto joj bude dostavljena odluka kojom se izuzeće odbija, odnosno, ako arbitražni sud ne riješi po zahtjevu za izuzeće, u roku od 30 dana od dana postavljanja zahtjeva za izuzeće, u narednom roku od 30 dana od isteka toga roka, tražiti da sud predviđen članom 477 stav 3 ovog zakona donese odluku o izuzeću.

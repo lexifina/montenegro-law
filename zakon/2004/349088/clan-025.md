@@ -1,0 +1,4 @@
+# Član 25
+Ako sud kome je predmet ustupljen kao nadležnom smatra da je nadležan sud koji mu je predmet ustupio ili neki drugi sud, dostaviće, u roku od tri dana, predmet sudu koji treba da riješi sukob nadležnosti, osim ako nađe da mu je predmet ustupljen zbog očigledne omaške, a trebalo je da bude ustupljen nekom drugom sudu, u kom slučaju će ustupiti predmet drugom sudu i o tome obavijestiti sud koji mu je predmet ustupio.
+Kad je povodom žalbe protiv odluke prvostepenog suda kojom se on oglasio mjesno nenadležnim odluku donio drugostepeni sud, za tu odluku vezan je u pogledu nadležnosti i sud kome je predmet ustupljen, ako je drugostepeni sud koji je odluku donio nadležan za rješavanje sukoba nadležnosti između tih sudova.
+Odluka drugostepenog suda o stvarnoj nenadležnosti prvostepenog suda vezuje svaki sud kome kasnije isti predmet bude ustupljen, ako je drugostepeni sud nadležan za rješavanje sukoba nadležnosti između tih sudova.

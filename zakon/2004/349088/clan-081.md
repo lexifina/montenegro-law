@@ -1,0 +1,6 @@
+# Član 81
+Kada sud utvrdi da lice koje se pojavljuje kao stranka ne može biti stranka u postupku, a taj se nedostatak može otkloniti, pozvaće tužioca da izvrši potrebne ispravke u tužbi ili će preduzeti druge mjere da bi se postupak mogao nastaviti sa licem koje može biti stranka u postupku.
+Kada sud utvrdi da stranka nema zakonskog zastupnika ili da zakonski zastupnik nema posebno ovlašćenje kad je ono potrebno, zatražiće da nadležni organ starateljstva postavi staraoca parnično nesposobnom licu, odnosno pozvaće zakonskog zastupnika da pribavi posebno ovlašćenje ili će da preduzme druge mjere koje su potrebne da bi parnično nesposobna stranka bila pravilno zastupana.
+Sud može odrediti stranci rok za otklanjanje nedostataka iz st. 1 i 2 ovog člana. Dok se ne otklone ovi nedostaci, u postupku se mogu preduzimati samo one radnje zbog čijeg odlaganja bi mogle da nastanu štetne posljedice za stranku.
+Ako se navedeni nedostaci ne mogu otkloniti ili ako određeni rok bezuspješno protekne, sud će rješenjem ukinuti radnje sprovedene u postupku, ukoliko su zahvaćene ovim nedostacima i odbaciće tužbu ako su nedostaci takve prirode da sprečavaju dalje vođenje parnice.
+Protiv rješenja kojim se naređuju mjere za uklanjanje nedostataka nije dozvoljena žalba.

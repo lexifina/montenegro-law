@@ -1,0 +1,2 @@
+# Član 343
+Presuda zbog propuštanja i presuda drugostepenog suda donesena bez rasprave, dostavlja se strankama u skladu sa odredbama ovog zakona o dostavljanju.

@@ -1,0 +1,4 @@
+# Član 141
+Ako dostavljanje fizičkom licu po odredbama čl. 136 do 139 ovog zakona nije moguće, dostavljač će pismeno vratiti sudu koji je dostavljanje odredio. Ako se radi o dostavljanju putem pošte, pismeno se vraća pošti njegovog prebivališta. Na vratima, odnosno poštanskom sandučetu na adresi prebivališta ostavlja se obavještenje u kome je navedeno gdje se pismeno nalazi, rok od 15 dana u kome primalac mora podići pismeno, dan kada je obavještenje ostavljeno primaocu i potpis dostavljača. Na vraćenom pismenu navodi se ime dostavljača, razlog za takvo postupanje i dan kada je obavještenje ostavljeno primaocu.
+Ako primalac pismeno ne podigne u roku od 15 dana smatra se da je dostavljanje bilo izvršeno na dan kada je na vratima, odnosno u poštanskom sandučetu ostavljeno obavještenje.
+O dostavljanju koje je bilo izvršeno na način određen u ovom članu treba obavijestiti sud koji je dostavljanje odredio.

@@ -1,0 +1,3 @@
+# Član 118
+U zapisnik se unosi: naziv i sastav suda; mjesto gdje se vrši radnja; dan i čas kad se vrši radnja; naznačenje predmeta spora i imena prisutnih stranaka ili trećih lica i njihovih zakonskih zastupnika, odnosno punomoćnika.
+Zapisnik treba da sadrži bitne podatke o sadržini preduzete radnje. U zapisnik o glavnoj raspravi naročito će se unijeti: da li je rasprava bila javna ili je javnost bila isključena; sadržina izjava stranaka, njihovi predlozi, dokazi koje su ponudile, dokazi koji su izvedeni, uz navođenje sadržine iskaza svjedoka i vještaka; odluke suda donijete na ročištu, kao i izvornik odluke nakon zaključenja glavne rasprave.

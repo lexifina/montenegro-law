@@ -1,0 +1,2 @@
+# Član 235
+Svjedok ne može zbog opasnosti od kakve imovinske štete da uskrati svjedočenje o pravnim poslovima pri kojima je bio prisutan kao pozvani svjedok, o radnjama koje je u pogledu spornog odnosa preduzeo kao pravni prethodnik ili zastupnik jedne od stranaka, o činjenicama koje se tiču imovinskih odnosa uslovljenih porodičnom ili bračnom vezom, o činjenicama koje se tiču rođenja, sklapanja braka ili smrti, kao i kad je na osnovu posebnih propisa dužan da podnese prijavu ili da da izjavu.

@@ -1,0 +1,4 @@
+# Član 80
+Zakonski zastupnik može, u ime stranke, preduzimati sve radnje u postupku, ali ako je za podnošenje ili povlačenje tužbe, za priznanje, odnosno za odricanje od tužbenog zahtjeva, za zaključenje poravnanja ili za preduzimanje drugih radnji u postupku, posebnim propisima određeno da zastupnik mora imati posebno ovlašćenje, on može te radnje preduzimati samo ako ima takvo ovlašćenje.
+Lice koje se pojavljuje kao zakonski zastupnik dužno je da, na zahtjev suda, dokaže da je zakonski zastupnik. Kad je za preduzimanje određenih radnji u postupku potrebno posebno ovlašćenje, zakonski zastupnik je dužan da dokaže da ima takvo ovlašćenje.
+Kad sud ustanovi da zakonski zastupnik lica pod starateljstvom ne pokazuje potrebnu pažnju u zastupanju obavijestiće o tome organ starateljstva. Ako bi usljed propuštanja zastupnika mogla nastati šteta za lice pod starateljstvom, sud će zastati s postupkom i predložiti da se odredi drugi zakonski zastupnik.

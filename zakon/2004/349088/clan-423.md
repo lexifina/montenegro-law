@@ -1,0 +1,9 @@
+# Član 423
+Predlog za ponavljanje postupka podnosi se u roku od trideset dana, i to:
+1) u slučaju iz člana 421 tač. 1 i 2 ovog zakona, od dana kad je odluka dostavljena stranci;
+2) u slučaju iz člana 421 tačka 3 ovog zakona, ako je u postupku kao tužilac ili tuženi učestvovalo lice koje ne može biti stranka u postupku, od dana kada je odluka dostavljena tom licu; ako stranku koja je pravno lice nije zastupalo ovlašćeno lice ili ako parnično nesposobnu stranku nije zastupao zakonski zastupnik, od dana kad je odluka dostavljena stranci, odnosno njenom zakonskom zastupniku, a ako zakonski zastupnik, odnosno punomoćnik stranke nije imao potrebno ovlašćenje za vođenje parnice ili za pojedine radnje u postupku, od dana kad je stranka saznala za ovaj razlog;
+3) u slučajevima iz člana 421 tač. 4 do 6 ovog zakona, od dana kad je stranka saznala za pravosnažnu presudu u krivičnom postupku, a ako se krivični postupak ne može sprovesti, onda od dana kad je saznala za obustavu tog postupka ili za okolnosti zbog kojih se postupak ne može pokrenuti;
+4) u slučajevima iz člana 421 tač. 7 i 8 ovog zakona, od dana kad je stranka mogla upotrijebiti pravosnažnu odluku koja je razlog za ponavljanje postupka;
+5) u slučaju iz člana 421 tačka 9 ovog zakona, od dana kad je stranka mogla iznijeti sudu nove činjenice, odnosno nova dokazna sredstva.
+Ako bi rok određen u stavu 1 ovog člana počeo da teče prije nego što je odluka postala pravosnažna, taj će se rok računati od pravosnažnosti odluke, ako protiv nje nije bio izjavljen pravni lijek, odnosno od dostavljanja pravosnažne odluke višeg suda izrečene u posljednjem stepenu.
+Po proteku roka od pet godina od dana kad je odluka postala pravosnažna predlog za ponavljanje postupka ne može se podnijeti, osim ako se ponavljanje traži iz razloga navedenih u članu 421 tač. 1, 2 i 3 ovog zakona.

@@ -1,0 +1,2 @@
+# Član 70
+Sudija, čim sazna da postoji koji od razloga za izuzeće iz člana 69 tač. 1 do 6 ovog zakona, dužan je da prekine svaki rad na tom predmetu i da o tome obavijesti predsjednika suda.Ako sudija smatra da postoje druge okolnosti koje dovode u sumnju njegovu nepristranost (član 69 tačka 7), obavijestiće o tome predsjednika suda koji će da odluči o izuzeću. Do donošenja rješenja predsjednika suda, sudija može preduzimati samo one radnje za koje postoji opasnost od odlaganja.

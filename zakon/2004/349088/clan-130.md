@@ -1,0 +1,3 @@
+# Član 130
+Kad dostavljanje treba izvršiti licima ili ustanovama u inostranstvu ili strancima koji uživaju imunitet, dostavljanje će se izvršiti diplomatskim putem, ako u međunarodnom ugovoru ili u ovom zakonu (član 143) nije što drugo određeno.
+Ako se dostavljanje pismena treba izvršiti državljanima Srbije i Crne Gore u inostranstvu, dostavljanje se može izvršiti preko nadležnog konzularnog predstavnika ili diplomatskog predstavnika Srbije i Crne Gore koji vrši konzularne poslove u odnosnoj stranoj državi. Ovakvo dostavljanje punovažno je samo ako lice kome se pismeno dostavlja pristane da ga primi.

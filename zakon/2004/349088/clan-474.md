@@ -1,0 +1,5 @@
+# Član 474
+Ugovor o arbitraži je ugovor kojim stranke povjeravaju arbitraži sve ili određene sporove koji su među njima proizašli ili bi mogli proizaći iz određenog pravnog odnosa, kako ugovornog, tako i vanugovornog. Ugovor se može zaključti u obliku arbitražne klauzule u nekom ugovoru ili u obliku posebnog ugovora.
+Ugovor o arbitraži je punovažan, ako je zaključen u pisanom obliku. Ugovor je zaključen u pisanom obliku, ako je unesen u isprave koje su stranke potpisale ili kad je zaključen razmjenom pisma, telegrama, teleksa ili drugih sredstava telekomunikacija koja omogućavaju pisani dokaz o zaključenom ugovoru.
+Ugovor o arbitraži je zaključen u pisanom obliku i kad je zaključen razmjenom tužbe u kojoj tužilac navodi postojanje tog ugovora i odgovora na tužbu u kome tuženi to ne osporava.
+Pozivanje u ugovoru o arbitraži na ispravu (opšte uslove za zaključenje pravnog posla, tekst drugog ugovora i sl.) koja sadrži klauzulu o arbitraži predstavlja ugovor o arbitraži, ako je ugovor zaključen u pisanom obliku i ako je to pozivanje takvo da je ta klauzula sastavni dio ugovora.

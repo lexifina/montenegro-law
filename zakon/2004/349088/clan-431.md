@@ -1,0 +1,3 @@
+# Član 431
+Rješenje iz člana 429 ovog zakona donosi prvostepeni sud, ako predlog za ponavljanje postupka stigne prvostepenom sudu prije nego što je predmet povodom revizije upućen revizijskom sudu. Ako predlog za ponavljanje postupka stigne pošto je predmet povodom revizije upućen revizijskom sudu, rješenje iz člana 429 ovog zakona donosi revizijski sud.
+Rješenje iz člana 430 ovog zakona donosi prvostepeni sud, osim ako je predmet, u vrijeme kad revizija stigne prvostepenom sudu, povodom predloga za ponavljanje postupka upućen višem sudu radi donošenja odluke (član 428 stav 1), u kom slučaju rješenje donosi viši sud. Protiv rješenja suda iz st. 1 i 2 ovog člana nije dozvoljena žalba.

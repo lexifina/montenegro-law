@@ -1,0 +1,2 @@
+# Član 37
+Ako tužilac nije u tužbi naznačio vrijednost predmeta spora ili ako je očigledno suviše visoko ili suviše nisko naznačio vrijednost predmeta spora, sud će, po službenoj dužnosti ili po prigovoru tuženog, najkasnije na pripremnom ročištu, a ako pripremno ročište nije održano onda na glavnoj raspravi, prije početka raspravljanja o glavnoj stvari, brzo i na pogodan način utvrditi, odnosno provjeriti tačnost označene vrijednosti. Sud o tome odlučuje rješenjem, protiv kojeg žalba nije dozvoljena.

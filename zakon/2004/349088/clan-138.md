@@ -1,0 +1,2 @@
+# Član 138
+Kad lice kome je pismeno upućeno, odnosno odrasli član njegovog domaćinstva, odnosno ovlašćeno lice ili zaposleni u državnom organu ili pravnom licu, bez zakonitog razloga, odbije da primi pismeno, dostavljač će ga ostaviti u stanu ili u prostorijama gdje odnosno lice radi ili će pismeno staviti na vrata stana ili prostorije. Na dostavnici će zabilježiti dan, čas i razlog odbijanja prijema, kao i mjesto gdje je pismeno ostavljeno i time se smatra da je dostavljanje izvršeno.

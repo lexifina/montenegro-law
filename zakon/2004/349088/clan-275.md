@@ -1,0 +1,2 @@
+# Član 275
+Kad utvrdi da je tužba nerazumljiva ili nepotpuna ili da postoje nedostaci koji se tiču sposobnosti tužioca ili tuženog da budu stranke u parnici ili nedostaci u pogledu zakonskog zastupanja stranke ili nedostaci koji se odnose na ovlašćenje zastupnika da pokrene parnicu kad je takvo ovlašćenje potrebno, sud će radi otklanjanja ovih nedostataka preduzeti potrebne mjere predviđene u ovom zakonu (čl. 81 i 106).

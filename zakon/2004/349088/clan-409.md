@@ -1,0 +1,4 @@
+# Član 409
+Ako utvrdi da postoji bitna povreda odredaba parničnog postupka iz člana 367 st. 1 i 2 ovog zakona zbog koje se revizija može izjaviti, osim povreda određenih u st. 2 i 3 ovog člana, revizijski sud će rješenjem ukinuti u cjelini ili djelimično presudu drugostepenog i prvostepenog suda ili samo presudu drugostepenog suda i predmet vratiti na ponovno suđenje istom ili drugom sudiji prvostepenog suda, odnosno istom ili drugom vijeću drugostepenog suda ili drugom nadležnom sudu.
+Ako je u postupku pred prvostepenim ili drugostepenim sudom učinjena povreda iz člana 367 stav 2 tač. 3, 4, 6, i 13 ovog zakona, osim ako je odlučeno o zahtjevu o kome već teče parnica, revizijski sud će ukinuti rješenjem donesene odluke i odbaciti tužbu.
+Ako je u postupku pred prvostepenim ili drugostepenim sudom učinjena povreda iz člana 367 stav 2 tačka 12 ovog zakona, revizijski sud, s obzirom na prirodu povrede, postupiće prema odredbama st. 1 ili 2 ovog člana.

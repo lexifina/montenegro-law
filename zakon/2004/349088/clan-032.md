@@ -1,0 +1,2 @@
+# Član 32
+Ako se zahtjev odnosi na buduća davanja koja se ponavljaju, vrijednost predmeta spora računa se po njihovom zbiru, ali najviše do iznosa koji odgovara zbiru davanja za vrijeme od pet godina.

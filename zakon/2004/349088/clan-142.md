@@ -1,0 +1,8 @@
+# Član 142
+Ako stranka ili njen zastupnik u toku postupka ili prije isteka roka od šest mjeseci nakon pravosnažnog okončanja postupka promijene adresu na koju se dostava obavlja dužni su o tome odmah da obavijeste sud.
+Ako protiv pravosnažne odluke u roku iz stava 1 ovog člana bude izjavljena revizija, taj se rok produžava sve dok ne protekne šest mjeseci od dostave stranci odluke po reviziji kojom se revizija odbacuje, odbija ili pobijana odluka preinačava.
+Ako je protiv pravosnažne odluke prije isteka roka iz stava 1 ovog člana podnesen predlog za ponavljanje postupka, taj se rok produžava do isteka roka od šest mjeseci nakon pravosnažnosti prvostepene odluke u tom postupku protiv koje nije izjavljena žalba, odnosno do isteka roka od šest mjeseci od dostave stranci drugostepene odluke.
+Ako povodom vanrednog pravnog lijeka pravosnažna odluka bude ukinuta i predmet vraćen na ponovno suđenje, smatraće se da rok iz stava 1 ovog člana nije ni počeo teći.
+Ako stranka ili njen zastupnik ne obavijeste odmah sud o promjeni adrese, sud će odrediti da se dalje dostave u parnici vrše stavljanjem pismena na oglasnu tablu suda, sve dok stranka ili njen zastupnik ne obavijeste sud o svojoj novoj adresi.
+Dostava iz stava 5 ovog člana smatra se izvršenom nakon proteka osam dana od dana stavljanja pismena na oglasnu tablu suda.
+Kad punomoćnik za primanje pismena do isteka rokova iz st. 1 do 3 ovog člana promijeni svoju adresu, a o tome ne obavijesti sud, sud će stranci, na njen trošak, imenovati zastupnika za primanje pismena preko kojeg će se vršiti dostava, dok ne primi obavješenje stranke o postavljanju novog punomoćnika.

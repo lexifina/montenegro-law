@@ -1,0 +1,2 @@
+# Član 29
+Sud Republike Crne Gore (u daljem tekstu: domaći sud) je nadležan za suđenje kad je njegova nadležnost u sporu s međunarodnim elementom izričito određena zakonom ili međunarodnim ugovorom. Ako u zakonu ili međunarodnom ugovoru nema izričite odredbe o nadležnosti domaćeg suda za određenu vrstu sporova, domaći sud je nadležan za suđenje u toj vrsti sporova i kad njegova nadležnost proizlazi iz odredaba zakona o mjesnoj nadležnosti domaćeg suda.

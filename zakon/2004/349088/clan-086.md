@@ -1,0 +1,3 @@
+# Član 86
+Ako je privremeni zastupnik postavljen tuženome iz razloga navedenih u članu 82 stav 3 tač. 1 i 2 ovog zakona, sud će, u roku od osam dana, objaviti oglas u "Službenom listu Republike Crne Gore" i na oglasnoj tabli suda, a po potrebi i na drugi pogodan način.
+Oglas treba da sadrži: označenje suda koji je postavio privremenog zastupnika; zakonski osnov; ime tuženog kome se postavlja zastupnik; predmet spora; ime zastupnika i njegovo zanimanje i boravište, kao i upozorenje da će zastupnik zastupati tuženog u postupku sve dok se tuženi ili njegov punomoćnik ne pojavi pred sudom, odnosno dok organ starateljstva ne obavijesti sud da je postavio staraoca.

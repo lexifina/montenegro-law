@@ -1,0 +1,2 @@
+# Član 403
+Revizija se podnosi sudu koji je izrekao prvostepenu presudu u dovoljnom broju primjeraka za sud i protivnu stranku.

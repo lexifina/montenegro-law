@@ -1,0 +1,4 @@
+# Član 473
+U sporovima u kojima su stranke fizička lica s prebivalištem ili trajnim boravištem, odnosno pravna lica sa sjedištem u Republici Crnoj Gori, stranke mogu ugovoriti domaću arbitražu za rješavanje sporova o pravima kojima mogu slobodno raspolagati, ako zakonom nije utvrđeno da određene sporove rješavaju isključivo drugi sudovi.
+U sporovima u kojima je bar jedna od stranaka fizičko lice sa prebivalištem ili trajnim boravištem u inostranstvu, odnosno pravno lice sa sjedištem u inostranstvu, stranke se mogu dogovoriti i za nadležnost strane arbitraže za rješavanje sporova o pravima kojima mogu slobodno raspolagati, ako zakonom ili međunarodnim ugovorom nije predviđenja isključiva nadležnost domaćeg suda.
+Stranke se mogu sporazumjeti o tome da sporove iz st. 1 i 2 ovog člana iznesu pred stalni ili ad hoc arbitražni sud.
