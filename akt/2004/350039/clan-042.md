@@ -1,0 +1,2 @@
+# Član 42
+Predstavnik sindikalne organizacije, predstavnik granskog sindikata i predstavnik zaposlenih za vrijeme obavljanja sindikalnih aktivnosti i šest mjeseci nakon prestanka tih aktivnosti, ne može biti pozvan na odgovornost, proglašen kao zaposleni za čijim je radom prestala potreba, raspoređen na drugo radno mjesto kod istog ili drugog poslodavca ( zbog prestrukturiranja preduzeća) ili na drugi način doveden u nepovoljniji položaj, ukoliko postupa u skladu sa zakonom i kolektivnim ugovorom.
