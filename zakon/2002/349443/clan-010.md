@@ -1,0 +1,3 @@
+# Član 10
+Poglavlje VII PREDSTAVLJANJE PODNOSILACA IZBORNIH LISTA I KANDIDATA SA IZBORNIH LISTA i čl. 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63 i 64 brišu se.
+Poglavlja VIII, IX, X, XI, XIa, XII, XIII i XIV postaju poglavlja VII, VIII, IX, X, Xa, XI, XII i XIII.
