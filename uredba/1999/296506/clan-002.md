@@ -1,0 +1,35 @@
+# Član 2
+U članu 1. poslije stava 3. dodaje se novi stav 4, koji glasi:" preduzeća, i to:
+- Ad "Mermer"-Danilovgrad
+- Fabrika elektroda-Plužine
+- "IMAKO"-Bijelo Polje
+- HI "Radoje Dakić"- DD "Holding"-Podgorica
+- HI "Radoje Dakić" - DD "Fabrika odlivaka" - Podgorica
+- HI "Radoje Dakić" - DDE "Inžinjering remont i servis" - Podgorica
+- "Beranka" Berane
+- "TIMON" - Podgorica
+- VUNK0 - Bijelo Polje
+- "Mladost" - Bijelo Polje
+- "Polimka" - Berane
+- "Lenka" - Bijelo Polje
+- "19. decembar" - Podgorica
+- "Bokeljka" - Kotor
+- "Hemomont" - Podgorica
+- "ICN Galenika" - Podgorica
+- DD "Javorak" - Nikšić
+- DD "Impregnacija drveta" - Kolašin
+- DD "Eksportdrvo" - Kolašin
+- INIS "Marko Radović" - Podgorica
+- DIT "Donja Brezna" - Plužine
+- "Pilana" - Danilovgrad
+- JP "Nacionalni parkovi Crne Gore"
+- JP Regionalni vodovod "Crnogorsko primorje" - Budva
+- Zavod za izgradnju Bara - Bar
+- GP "Primorje" - Ulcinj
+- GP "Gorica" - Podgorica
+- GP "Crna Gora" - Razvoj i inžinjering - Nikšić
+- GP "Izgradnja" - Berane
+- GP "Radnik" - Bijelo Polje
+- GP "Građevinar" - Pljevlja
+- GP "Prvoborac" - Herceg Novi, i
+- Javna preduzeća koja se bave vodosnabdijevanjem i pružanjem stambenih i komunalnih usluga".
