@@ -1,0 +1,2 @@
+# Član 40
+Ko predsjedničkom kandidatu ili predlagaču, za potrebe kampanje, omogući protivpravno korišćenje objekata, finansijskih sredstava, vozila, tehničkih sredstava i druge imovine organa lokalne samouprave, Ministarstva unutrašnjih poslova, drugog ministarstva i državnog organa, pravosudnog organa, javnog preduzeća i ustanove, privrednog društva u kome je država većinski vlasnik, Vojske i vojnih organa kazniće se za krivično djelo kaznom zatvora do jedne godine.
