@@ -1,0 +1,2 @@
+155.Na osnovu člana 3 Zakona o imovini Republike Crne Gore ("Službeni list RCG", broj 44/99), člana 2a i 7a Zakona o privatizaciji ("Službeni list RCG", br. 23/96 i 6/99) i člana 12. stav 1 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG", br.15/94 i 4/97), Vlada Republike Crne Gore, na sjednici od 02. marta 2000. godine, donijela je
+UREDBU O NAČINU I USLOVIMA SANACIJE INSOLVENTNIH PREDUZEĆA

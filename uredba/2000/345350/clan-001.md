@@ -1,0 +1,2 @@
+# Član 1
+Ovom uredbom propisuje se način i uslovi konverzije potraživanja Republike Crne Gore (u daljem tekstu: Republika) i preduzeća i banaka u kojima su Republika, Fond za razvoj, Fond penzijsko-invalidskog osiguranja i Zavod za zapošljavanje (u daljem tekstu: fondovi), većinski vlasnici, radi sanacije preduzeća koja su svojinski transformisana, ali ne i privatizovana, za koja je pokrenut postupak prinudnog poravnanja ili stečajni postupak (u daljem tekstu: insolventna preduzeća).
