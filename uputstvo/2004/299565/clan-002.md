@@ -1,0 +1,2 @@
+# Član 2
+Obavezu obavještavanja u skladu sa Zakonom o sprječavanju pranja novca ("Službeni list RCG" br. 55/03), a u skladu sa indikatorima iz člana 1. ovog uputstva i svim drugim indikatorima koje ocijene relevantnim, lica iz člana 1. ovog uputstva izvršavaće, do početka rada Uprave za sprječavanje pranja novca, na način što će potrebnu dokumentaciju dostavljati Komisiji za hartije od vrijednosti.
