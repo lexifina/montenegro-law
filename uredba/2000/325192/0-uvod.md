@@ -1,0 +1,2 @@
+100.Na osnovu člana 102 Zakona o premjeru, katastru i upisima prava na nepokretnosti ("Službeni list RCG", br. 25/84 i 2/89), i člana 12 stav 1 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG", br. 15/94 i 4/97), Vlada Republike Crne Gore, na sjednici od 20. januara 2000.godine, donijela je
+U R E D B U O IZMJENI UREDBE O VISINI NAKNADE ZA KORIŠĆENJE PODATAKA PREMJERA, KATASTRA NEPOKRETNOSTI I USLUGA DIREKCIJE ZA NEKRETNINE REPUBLIKE CRNE GORE
