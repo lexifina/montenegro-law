@@ -1,0 +1,2 @@
+536.Na osnovu člana 12 st.1. i 3 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG", br. 15/94 i 4/97), Vlada Republike Crne Gore na sjednici od 19. oktobra 2oo1.godine, donijela je
+O D L U K U O OSLOBAĐANJU PLAĆANJA CARINSKIH OBAVEZA ZA UVOZ OPREME I MATERIJALA NEOPHODNOG ZA REALIZACIJU PROJEKTA RJEŠAVANJA KOMUNALNOG OTPADA OPŠTINA KOTOR,TIVAT I BUDVA I ZA IZGRADNJU VODOVODA GORNJE ZETE
