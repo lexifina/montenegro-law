@@ -1,0 +1,4 @@
+# Član 12
+Predsjednik Ustavnog suda, pored prava i dužnosti utvrđenih Ustavom Republike Crne Gore, Zakonom i Poslovnikom, organizuje, rukovodi i nadzire rad Ustavnog suda i predstavlja Ustavni sud; stara se o ostvarivanju saradnje sa državnim i drugim organima i organizacijama; saziva i predsjedava sjednicama i sastancima Ustavnog suda; potpisuje opšte i druge akte Ustavnog suda; obavlja i druge poslove određene zakonom i opštim aktima Ustavnog suda.
+Predsjednik Ustavnog suda obavještava Skupštinu Republike Crne Gore o nastupanju činjenica iz člana 3 stav 1 Zakona, najkasnije dva mjeseca prije isteka mandata predsjedniku i sudiji Ustavnog suda, odnosno ispunjenju uslova za prestanak funkcije predsjedniku i sudiji Ustavnog suda prije isteka vremena na koje su izabrani.
+Predsjednika, u slučaju njegove odsutnosti ili spriječenosti, zamjenjuje sudija Ustavnog suda na period od jedne godine, prema rasporedu koji utvrđuje Ustavni sud.
