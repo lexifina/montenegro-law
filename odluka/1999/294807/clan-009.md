@@ -1,0 +1,3 @@
+# Član 9
+Studenti zatečeni na Turističkom odsjeku dosadašnjeg Fakulteta za pomorstvo mogu završiti studije po nastavnom planu i programu tog odsjeka najkasnije do kraja školske 2001/2002.
+Studenti koji polože sve ispite po nastavnom planu i programu Turističkog odsjeka dosadašnjeg Fakulteta za pomorstvo, stiču diplomu više školske spreme na Fakultetu za turizam i ugostiteljstvo. Studenti zatečeni na Turističkom odsjeku dosadašnjeg Fakulteta za pomorstvo, kao i studenti koji su na tom odsjeku diplomirali, mogu da nastave studiranje na Fakultetu, u skladu sa pravilima studija, koja donosi Naučno-nastavno vijeće Univerziteta na predlog Matične komisije za osnivanje Fakulteta.
