@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se uslovi, način, postupak postavljanja, način izračunavanja i visina naknade za postavljanje reklamnih tabli i reklamnih panoa, oznaka i natpisa kojima se obilježavaju komercijalni objekti na magistralnim i regionalnim putevima i pored tih puteva, kao i uslovi za postavljanje natpisa kojima se učesnici u saobraćaju obavještavaju o kulturnim spomenicima, istorijskim i prirodnim znamenitostima i o blizini objekta od značaja za turizam i saobraćaj ( u daljem tekstu: natpisi ).

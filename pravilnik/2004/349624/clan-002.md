@@ -1,0 +1,5 @@
+# Član 2
+Natpisi se mogu postavljati na zemljištu pored magistralnih i regionalnih puteva na udaljenosti najmanje 5 metara računajući od krajnje tačke kolovoza do lijeve spoljne ivice table natpisa, po pravilu sa desne strane u smjeru odvijanja saobraćaja, pod uglom od 700 do 900 u odnosu na osu puta, odnosno pod uglom pod kojim će se izbjeći refleksija svjetlosti farova vozila.
+Izuzetno od stava 1 ovog člana u brdsko planinskim predjelima sa nepovoljnom topografijom natpisi se mogu postaviti na udaljenosti najmanje 3 metra računajući od krajnje tačke kolovoza do lijeve spoljne ivice table natpisa.
+Natpisi kojima se obavještava o kulturnim spomenicima, istorijskim i prirodnim znamenitostima ili kojima se obavještava o blizini objekata od značaja za turizam i saobraćaj, postavljaju se na udaljenosti od objekta ili sadržaja na koji se odnose, a koja omogućava pravovremeno reagovanje učesnika u saobraćaju.
+Natpisi se mogu postaviti i na komercijalnim objektima i zaštitnim ogradama pored određenih objekata ili prostora (igrališta, stadioni, škole, pijace i sl.), a koji se nalaze pored magistralnih i regionalnih puteva.
