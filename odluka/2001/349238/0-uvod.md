@@ -1,0 +1,2 @@
+431.Na osnovu člana 12 stav 3 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG", br. 15/94 i 4/97 i člana 3 Uredbe o preuzimanju određenih ovlašćenja saveznih organa i organizacija u vezi prometa hartija od vrijednosti i finansijskog tržišta ("Službeni list RCG", broj 33/2000), Vlada Republike Crne Gore, na sjednici od 17. avgusta 2001. godine, donijela je
+O D L U K U O EMISIJI DRŽAVNIH ZAPISA
