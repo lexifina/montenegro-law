@@ -1,0 +1,2 @@
+# Član 1
+Republika Crna Gora garantuje Saveznoj Republici Jugoslaviji uredno vraćanje zajma u iznosu od 15 miliona EUR-a od Evropske investicione banke za finansiranje Projekta obnove željeznice u Republici Crnoj Gori, na način, pod uslovima i u rokovima predviđenim Ugovorom zaključenim između Evropske investicione banke i Javnog preduzeća "Željeznice Crne Gore" a.d., ukoliko to ne učini Javno preduzeće "Željeznice Crne Gore" a.d., kao krajnji korisnik zajma.
