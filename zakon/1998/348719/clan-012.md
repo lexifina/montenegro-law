@@ -1,0 +1,2 @@
+# Član 12
+Skupština Komore: donosi statut Komore, finansijski plan i godišnji obračun; utvrĎuje visinu članskog doprinosa i drugih naknada za izvršene usluge i način njihovog plaćanja; utvrĎuje stavove i daje smjernice za rad nadležnih organa Komore u oblasti ekonomskog razvoja i privrednog sistema; bira članove Upravnog odbora, Nadzornog odbora i predsjednika Komore i vrši druge poslove od značaja za rad Komore, utvrĎene statutom Komore.
