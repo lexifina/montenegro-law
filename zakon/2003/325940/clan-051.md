@@ -1,0 +1,5 @@
+# Član 51
+## Uračunavanje pritvora i ranije kazne
+(1) Vrijeme provedeno u pritvoru, kao i svako drugo lišenje slobode u vezi sa krivičnim djelom uračunavaju se u izrečenu kaznu zatvora, maloljetničkog zatvora i novčanu kaznu. (2) Ako je krivični postupak vođen za više krivičnih djela u sticaju, a pritvor nije određen za svako od njih, vrijeme provedeno u pritvoru uračunava se u izrečenu kaznu zatvora, maloljetničkog zatvora i novčanu kaznu za krivično djelo za koje je okrivljeni osuđen. (3) Zatvor ili novčana kazna koju je osuđeni izdržao, odnosno platio za prekršaj ili privredni prestup, kao i kazna ili disciplinska mjera lišenja slobode koju je izdržao zbog povrede vojne discipline uračunava se u kaznu izrečenu za krivično djelo čija obilježja obuhvataju i obilježja prekršaja, privrednog prestupa, odnosno povrede vojne discipline. (4) Pri svakom uračunavanju izjednačava se dan pritvora, dan lišenja slobode, dan maloljetničkog zatvora, dan zatvora i četrdeset eura.
+GLAVA ČETVRTA
+MJERE UPOZORENjA

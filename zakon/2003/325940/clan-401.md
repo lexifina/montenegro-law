@@ -1,0 +1,8 @@
+# Član 401
+## Zločinačko udruživanje
+(1) Ko organizuje grupu ili drugo udruženje koja ima za cilj vršenje krivičnih djela za koje se može izreći kazna zatvora od jedne godine ili teža kazna, kazniće se zatvorom do tri godine.
+(2) Ako se djelo iz stava 1 ovog člana odnosi na udruženje koje ima za cilj vršenje krivičnih djela za koja se može izreći kazna zatvora od pet godina ili teža kazna, organizator udruženja će se kazniti zatvorom od jedne do osam godina, a pripadnik udruženja zatvorom do dvije godine.
+(3) Ako se djelo iz stava 1 ovog člana odnosi na udruženje koje ima za cilj vršenje krivičnih djela za koja se može izreći kazna zatvora od petnaest godina, organizator udruženja će se kazniti zatvorom od dvije do dvanaest godina, a pripadnik udruženja zatvorom do tri godine.
+(4) Ako se djelo iz stava 1 ovog člana odnosi na udruženje koje ima za cilj vršenje krivičnih djela za koja se može izreći kazna zatvora od dvadeset godina ili kazna zatvora od trideset godina, organizator udruženja će se kazniti zatvorom najmanje deset ili kaznom zatvora od trideset godina, a pripadnik udruženja zatvorom od šest mjeseci do pet godina.
+(5) Organizator udruženja iz st. 1 do 4 ovog člana koji otkrivanjem udruženja ili na drugi način spriječi izvršenje krivičnih djela radi čijeg vršenja je udruženje organizovano, kazniće se zatvorom do tri godine, a može se i osloboditi.
+(6) Pripadnik udruženja iz st. 2 do 4 ovog člana koji otkrije udruženje prije nego što je u njegovom sastavu ili za njega učinio neko krivično djelo predviđeno u st. 2 do 4 ovog člana radi čijeg vršenja je udruženje organizovano, kazniće se novčanom kaznom ili zatvorom do jedne godine, a može se i osloboditi od kazne.

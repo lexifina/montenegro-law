@@ -1,0 +1,3 @@
+# Član 43
+## Povrat
+Kad sud odmjerava kaznu učiniocu za krivično djelo koje je učinio poslije izdržane, oproštene ili zastarjele kazne ili oslobođenja od kazne, po proteku roka za opozivanje uslovne osude ili poslije izrečene sudske opomene, može tu okolnost uzeti kao otežavajuću, cijeneći pri tom posebno težinu ranije učinjenog krivičnog djela, da li je ranije djelo iste vrste kao i novo djelo, da li su oba djela učinjena iz istih pobuda, okolnosti pod kojima su djela učinjena i koliko je vremena proteklo od ranije osude, odnosno od izrečene, oproštene ili zastarjele kazne, oslobođenja od kazne, od proteka roka za opozivanje ranije uslovne osude ili od izrečene sudske opomene.

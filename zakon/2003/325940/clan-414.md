@@ -1,0 +1,4 @@
+# Član 414
+## Falsifikovanje službene isprave
+(1) Službeno lice koje u službenu ispravu, knjigu ili spis unese neistinite podatke ili ne unese važan podatak ili svojim potpisom, odnosno službenim pečatom ovjeri službenu ispravu, knjigu ili spis sa neistinitom sadržinom ili koje svojim potpisom, odnosno službenim pečatom omogući pravljenje službene isprave, knjige ili spisa sa neistinitom sadržinom, kazniće se zatvorom od tri mjeseca do pet godina.
+(2) Kaznom iz stava 1 ovog člana kazniće se i službeno lice koje neistinitu službenu ispravu, knjigu ili spis upotrijebi u službi kao da su istiniti, ili koje službenu ispravu, knjigu ili spis uništi, prikrije, u većoj mjeri ošteti ili na drugi način učini neupotrebljivom. (3) Odgovorno lice u privrednom društvu, ustanovi ili drugom subjektu koje učini djelo iz st. 1 i 2 ovog člana kazniće se kaznom propisanom za to djelo.

@@ -1,0 +1,5 @@
+# Član 264
+## Utaja poreza i doprinosa
+(1) Ko, u namjeri da on ili neko drugi izbjegne potpuno ili djelimično plaćanje poreza, doprinosa ili drugih propisanih dažbina, daje lažne podatke o zakonito stečenim prihodima, o predmetima ili drugim činjenicama koje su od uticaja na utvrđivanje ovakvih obaveza ili ko u istoj namjeri, u slučaju obavezne prijave, ne prijavi zakonito stečeni prihod, odnosno predmete ili druge činjenice koje su od uticaja na utvrđivanje ovakvih obaveza ili ko u istoj namjeri na drugi način prikriva podatke koji se odnose na utvrđivanje navedenih obaveza, a iznos obaveze čije se plaćanje izbjegava prelazi hiljadu eura, kazniće se zatvorom do tri godine i novčanom kaznom.
+(2) Ako iznos obaveze iz stava 1 ovog člana čije se plaćanje izbjegava prelazi deset hiljada eura, učinilac će se kazniti zatvorom od jedne do šest godina i novčanom kaznom.
+(3) Ako iznos obaveze iz stava 1 ovog člana čije se plaćanje izbjegava prelazi sto hiljada eura, učinilac će se kazniti zatvorom od jedne do osam godina i novčanom kaznom.

@@ -1,0 +1,4 @@
+# Član 97
+## Ponovno odlučivanje o vaspitnim mjerama
+(1) Ako je od pravosnažnosti odluke kojom je izrečena mjera pojačanog nadzora ili zavodska mjera proteklo više od dvije godine, a izvršenje nije započeto, sud će ponovo odlučiti o potrebi izvršenja izrečene mjere. Pri tom, sud može odlučiti da se ranije izrečena mjera izvrši, ne izvrši ili da se zamijeni nekom drugom mjerom.
+(2) Mjera upućivanja u vaspitni centar za maloljetnike neće se izvršiti ako je proteklo više od šest mjeseci od pravosnažnosti odluke kojom je ova mjera izrečena, a njeno izvršenje nije započeto.

@@ -1,0 +1,2 @@
+K R I V I Č N I Z A K O N I K
+OPŠTI DIO

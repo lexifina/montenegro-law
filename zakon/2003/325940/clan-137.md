@@ -1,0 +1,4 @@
+# Član 137
+## inostranstvu
+(1) Krivično zakonodavstvo Crne Gore važi i za stranca koji van teritorije Crne Gore učini prema njoj ili njenom državaljaninu krivično djelo i kad nijesu u pitanju krivična djela navedena u članu 135 ovog zakonika, ako se zatekne na teritoriji Crne Gore ili Srbije ili bude ekstradiran SCG.
+(2) Krivično zakonodavstvo Crne Gore važi i za stranca koji prema stranoj državi ili prema strancu učini u inostranstvu krivično djelo za koje se po zakonu zemlje u kojoj je učinjeno može izreći kazna zatvora od pet godina ili teža kazna, ako se zatekne na teritoriji Crne Gore, a ne bude ekstradiran stranoj državi. Ako ovim zakonikom nije drukčije određeno, sud u takvom slučaju ne može izreći težu kaznu od one koja je propisana zakonom zemlje u kojoj je krivično djelo učinjeno.

@@ -1,0 +1,5 @@
+# Član 295
+## Nedozvoljeno uzimanje djelova tijela radi presađivanja
+(1) Ljekar koji radi presađivanja uzme dio tijela od živog, punoljetnog, duševno zdravog i poslovno sposobnog lica bez prethodno pribavljenog pisanog pristanka tog lica ili ako uzme dio tijela živog lica koje nije punoljetno, koje je neuračunljivo ili je poslovno nesposobno bez prethodno pribavljenog pisanog pristanka roditelja, usvojioca ili staraoca, kazniće se zatvorom od tri mjeseca do četiri godine.
+(2) Kaznom iz stava 1 ovog člana kazniće se i ljekar koji radi presađivanja uzme dio tijela umrlog lica čija smrt nije utvrđena na način i u postupku prema propisima o presađivanju djelova ljudskog tijela.
+(3) Ljekar koji radi presađivanja uzme dio tijela umrlog lica koje se za života izričito, u pisanom obliku, protivilo uzimanju dijela tijela ili ako uzme dio tijela umrlog maloljetnog ili neuračunljivog lica bez prethodne pisane saglasnosti roditelja, usvojioca ili staraoca, kazniće se novčanom kaznom ili zatvorom do jedne godine.

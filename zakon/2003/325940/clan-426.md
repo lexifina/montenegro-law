@@ -1,0 +1,3 @@
+# Član 426
+## Genocid
+Ko u namjeri da potpuno ili djelimično uništi neku nacionalnu, etničku, rasnu ili vjersku grupu naredi da se vrše ubistva ili teške povrede tijela ili teško narušavanje fizičkog ili duševnog zdravlja članova grupe ili prinudno raseljavanje stanovništva ili da se grupa stavi u takve životne uslove koji dovode do potpunog ili djelimičnog istrebljenja grupe ili da se primijene mjere kojima se sprječava rađanje između pripadnika grupe ili da se vrši prinudno preseljavanje djece u drugu grupu ili ko u istoj namjeri izvrši neko do navedenih djela, kazniće se zatvorom najmanje pet godina ili kaznom zatvora od trideset godina.

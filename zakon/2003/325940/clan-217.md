@@ -1,0 +1,7 @@
+# Član 217
+## Oduzimanje maloljetnog lica
+(1) Ko maloljetno lice protivpravno zadrži ili oduzme od roditelja, usvojioca, staraoca ili drugog lica, odnosno ustanove, kojima je ono povjereno ili onemogućava izvršenje odluke kojom je maloljetno lice povjereno određenom licu, kazniće se novčanom kaznom ili zatvorom do dvije godine.
+(2) Ko onemogućava izvršenje odluke nadležnog organa kojom je određen način održavanja ličnih odnosa maloljetnog lica sa roditeljem ili drugim srodnikom, kazniće se novčanom kaznom ili zatvorom do jedne godine.
+(3) Ako je djelo iz stava 1 ovog člana učinjeno iz koristoljublja ili drugih niskih pobuda ili je usljed djela teže ugroženo zdravlje, vaspitanje ili školovanja maloljetnog lica, učinilac će se kazniti zatvorom od tri mjeseca do pet godina.
+(4) Učinioca djela iz st. 1 i 3 ovog člana koji dobrovoljno preda maloljetno lice licu ili ustanovi kojoj je ono povjereno ili omogući izvršenje odluke o povjeravanju maloljetnog lica, sud može osloboditi od kazne.
+(5) Ako izrekne uslovnu osudu za djelo iz st. 1 do 3 ovog člana, sud može odrediti obavezu učiniocu da u određenom roku preda maloljetno lice licu ili ustanovi kojoj je maloljetno lice povjereno ili omogući izvršenje odluke kojom je maloljetno lice povjereno određenom licu ili ustanovi, odnosno odluke kojom je određen način održavanja ličnih odnosa maloljetnog lica sa roditeljem ili drugim srodnikom.

@@ -1,0 +1,4 @@
+# Član 429
+## Ratni zločin protiv ranjenika i bolesnika
+(1) Ko, kršeći pravila međunarodnog prava za vrijeme rata ili oružanog sukoba, naredi da se prema ranjenicima, bolesnicima, brodolomnicima ili sanitetskom ili vjerskom osoblju vrše tjelesne povrede, mučenja, nečovječna postupanja, biološki, medicinski ili drugi naučni eksperimenti, uzimanje tkiva ili organa radi transplatacije ili druge radnje kojima se narušava zdravlje ili nanose velike patnje ili naredi protivzakonito uništavanje ili prisvajanje u velikim razmjerama materijala, sredstava sanitetskog transporta i zaliha sanitetskih ustanova ili jedinica koje nije opravdano vojnim potrebama ili ko izvrši neko od navedenih djela, kazniće se zatvorom najmanje pet godina.
+(2) Ko za vrijeme rata, oružanog sukoba ili okupacije naredi da se prema civilnom stanovništvu vrše ubistva ili ko takvo djelo izvrši, kazniće se zatvorom najmanje deset godina ili kaznom zatvora od trideset godina.

@@ -1,0 +1,6 @@
+# Član 95
+## Upućivanje u posebnu ustanovu za liječene i osposobljavanje
+(1) Maloljetniku koji je zaostao u psihofizičkom razvoju ili je duševno bolestan sud može, umjesto upućivanja u vaspitnu ustanovu ili vaspitno-popravni dom, izreći mjeru upućivanja u posebnu ustanovu za liječenje i osposobljavanje.
+(2) Mjera iz stava 1 ovog člana izreći će se umjesto mjere bezbjednosti obaveznog psihijatrijskog liječenja i čuvanja u zdravstvenoj ustanovi, ako se u posebnoj ustanovi za liječenje i osposobljavanje može obezbijediti liječenje i čuvanje i time postići svrha te mjere bezbjednosti.
+(3) Ako je mjera iz stava 1 ovog člana izrečena umjesto upućivanja u vaspitnu ustanovu ili upućivanje u vaspitno-popravni dom, maloljetnik ostaje u posebnoj ustanovi za liječenje i osposobljavanje najduže tri godine. Ako je ova mjera izrečena umjesto mjere bezbjednosti maloljetnik ostaje u posebnoj ustanovi dok je to potrebno, a kad navrši dvadeset tri godine izvršenje mjere se nastavlja u ustanovi u kojoj se izvršava mjera bezbjednosti obaveznog psihijatrijskog liječenja i čuvanja u psihijatrijskoj ustanovi.
+(4) Kad maloljetnik navrši osamnaest godina sud obavezno ispituje potrebu njegovog daljeg zadržavanja u ovoj ustanovi.

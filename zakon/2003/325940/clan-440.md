@@ -1,0 +1,5 @@
+# Član 440
+## drugih dobara zaštićenih međunarodnim pravom
+(1) Vojni zapovjednik ili lice koje faktički vrši ovu funkciju, koje znajući da snage kojima komanduje ili koje kontroliše pripremaju ili su započele vršenje krivičnog djela iz čl. 426 do 430, člana 432, čl. 434 do 437 i člana 439 ovog zakonika ne preduzme neophodne mjere koje je mogao i bio dužan da preduzme za sprječavanje izvršenja djela, pa usljed toga dođe do izvršenja tog djela, kazniće se kaznom propisanom za to krivično djelo.
+(2) Drugi pretpostavljeni koji, znajući da lica koja su mu potčinjena, pripremaju ili su započela vršenje krivičnih djela iz čl. 426 do 430, člana 432, čl. 434 do 437 i člana 439 ovog zakonika, u vršenju poslova u kojima im je on pretpostavljeni, ne preduzme neophodne mjere koje je mogao i bio dužan da preduzme za sprečavanje izvršenja djela, pa usljed toga dođe do izvršenja tog djela, kazniće se kaznom propisanom za to krivično djelo.
+(3) Ako je djelo iz st. 1 i 2 ovog člana učinjeno iz nehata, učinilac će se kazniti zatvorom do tri godine.

@@ -1,0 +1,7 @@
+# Član 466
+## Nepreduzimanje mjera za obezbjeđenje vojne jedinice
+(1) Vojni starješina koji u okviru svoje nadležnosti propusti da preduzme propisane, naređene ili druge očigledno potrebne mjere za obezbjeđenje jedinice, čuvanje života i zdravlja ljudi koji su mu povjereni, za osiguranje i održavanje u ispravnom stanju objekata, predmeta i sredstava koji služe borbenoj gotovosti, za uredno snabdijevanje hranom ili vojnom opremom ili za čuvanje i njegu stoke ili da se na vrijeme i uredno izvrše osiguravajući radovi ili obezbjeđenje objekata koji su mu povjereni, pa time dovede u opasnost život ljudi ili teško ugrozi zdravlje ljudi ili imovinu velike vrijednosti, kazniće se zatvorom od šest mjeseci do pet godina.
+(2) Ako je usljed djela iz stava 1 ovog člana nastupila teška tjelesna povreda ili imovinska šteta velikih razmjera ili su nastupile druge teške posljedice, učinilac će se kazniti zatvorom od jedne do osam godina.
+(3) Ako je usljed djela iz stava 1 ovog člana nastupila smrt jednog ili više lica, učinilac će se kazniti zatvorom od dvije do dvanaest godina.
+(4) Ako je djelo iz stava 1 ovog člana učinjeno iz nehata, učinilac će se kazniti novčanom kaznom ili zatvorom do dvije godine.
+(5) Ako je usljed djela iz stava 4 ovog člana nastupila posljedica iz stava 2 ovog člana, učinilac će se kazniti zatvorom od tri mjeseca do tri godine, a ako je nastupila posljedica iz stava 3 ovog člana, učinilac će se kazniti zatvorom od jedne do osam godina.

@@ -1,0 +1,5 @@
+# Član 267
+## Izdavanje hartija od vrijednosti bez pokrića
+(1) Odgovorno lice u banci, privrednom društvu ili drugom subjektu privrednog poslovanja koji izdaje hartije od vrijednosti, koje dozvoli izdavanje hartija od vrijednosti, iako je znalo ili je moglo i bilo dužno da zna za nemogućnost izvršenja obaveza izdavaoca koje proizlaze iz emisije, pod uslovima, u roku i na način utvrđen zakonom ili odlukom o emisiji, kazniće se novčanom kaznom ili zatvorom do jedne godine.
+(2) Službeno lice koje odobri izdavanje hartija od vrijednosti iako je znalo ili je moglo i bilo dužno da zna za nemogućnost izvršenja obaveza koje proizlaze iz emisije pod uslovima, u roku i na način utvrđen zakonom ili odlukom o emisiji, kazniće se zatvorom do jedne godine.
+(3) Odgovorno lice u banci koje odobri garanciju po određenoj emisiji hartija od vrijednosti iako je znalo ili je moglo i bilo dužno da zna za nemogućnost izvršenja garancijom preuzete obaveze banke, pod uslovima, u roku i na način predviđen zakonom ili garancijom, kazniće se novčanom kaznom ili zatvorom do šest mjeseci.

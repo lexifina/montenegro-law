@@ -1,0 +1,5 @@
+# Član 50
+## Odmjeravanje kazne osuđenom licu
+(1) Ako se osuđenom licu sudi za krivično djelo učinjeno prije nego što je započelo izdržavanje kazne po ranijoj osudi ili za krivično djelo učinjeno za vrijeme izdržavanja kazne zatvora ili maloljetničkog zatvora, sud će izreći jedinstvenu kaznu za sva krivična djela primjenom odredaba člana 48 ovog zakonika, uzimajući ranije izrečenu kaznu kao već utvrđenu. Kazna ili dio kazne koju je osuđeni izdržao uračunaće se u izrečenu kaznu zatvora.
+(2) Za krivično djelo učinjeno u toku izdržavanja kazne zatvora ili maloljetničkog zatvora sud će učiniocu izreći kaznu, nezavisno od ranije izrečene kazne, ako se primjenom odredaba člana 48 ovog zakonika, s obzirom na težinu krivičnog djela i neizdržani dio ranije izrečene kazne, ne bi mogla ostvariti svrha kažnjavanja.
+(3) Osuđeni koji za vrijeme izdržavanja kazne zatvora ili maloljetničkog zatvora učini krivično djelo za koje zakon propisuje novčanu kaznu ili kaznu zatvora do jedne godine, kazniće se disciplinski.
