@@ -1,0 +1,6 @@
+# Član 20
+## Saglasnost na akta
+Ovlašćeni učesnik podnosi Komisiji zahtjev za davanje saglasnosti na: ugovor o osnivanju, statut, pravila i odluku o imenovanju direktora.
+Ako se ugovor o osnivanju, statut i pravila ovlašćenog učesnika podnose Komisiji uz zahtjev za davanje dozvole za rad, davanjem dozvole za rad smatra se da je data saglasnost na ove akte.
+Uz zahtjev za davanje saglasnosti na izmjene i dopune ugovora o osnivanju, statuta i pravila, ovlašćeni učesnik dostavlja Komisiji izmjene i dopune tih akata, sa obrazloženjem. Saglasnost na izmjene i dopune ovih akata Komisija daje u formi rješenja.
+Uz zahtjev za davanje saglasnosti na odluku o imenovanju direktora, ovlašćeni učesnik dostavlja Komisiji: odluku o imenovanju direktora, sa obrazloženjem; biografske podatke o licu koje se imenuje, i to: godinu rođenja, školsku spremu, ukupan radni staž i poslove koje je obavljao do podnošenja zahtjeva, učešće u akcijskom kapitalu akcionarskih društava sa brojem i vrstom akcija i procentom učešća u akcijskom kapitalu, kao i potvrdu nadležnog organa da lice imenovano za direktora nije osuđivano za krivična djela protiv privrede ili službene dužnosti. Saglasnost na odluku o imenovanju direktora Komisija daje u formi rješenja.

@@ -1,0 +1,9 @@
+# Član 2
+## Uslovi za dobijanje dozvole za rad
+Dozvolu za rad kao ovlašćeni učesnik može dobiti akcionarsko društvo ako kao jedinu djelatnost obavlja sljedeće poslove sa hartijama od vrijednosti:
+1) broker može da obavlja poslove investicionog savjetnika i poslove posredovanja u kupovini i prodaji hartija od vrijednosti samo po nalogu klijenta, u svoje ime i za tuđ račun ili u tuđe ime i za tuđ račun;
+2) diler može da obavlja poslove investicionog savjetnika i brokera i da obavlja trgovinu hartijama od vrijednosti u svoje ime i za svoj račun radi ostvarivanja razlike u cijeni;
+3) investicioni menadžer može da obavlja poslove investicionog savjetnika, da upravlja portfeljom hartija od vrijednosti koje mu klijent povjeri i da hartije od vrijednosti drži za treća lica, a transakcije sa hartijama od vrijednosti obavlja preko brokera ili dilera;
+4) preuzimalac emisije može da obavlja poslove preuzimanja cijele nove emisije hartija od vrijednosti u cilju dalje prodaje u korist emitenta ili garantovanja emitentu da će neprodati dio preuzete emisije biti kupljen od strane preuzimaoca i da hartije od vrijednosti drži za treća lica, a transakcije sa hartijama od vrijednosti obavlja preko brokera ili dilera.
+Dozvolu za rad kao investicioni savjetnik može dobiti pravno lice osnovano kao akcionarsko društvo ili društvo sa ograničenom odgovornošću ili fizičko lice. Investicioni savjetnik može da obavlja poslove davanja savjeta o trgovini hartijama od vrijednosti i o prednostima kupovine, prodaje, preuzimanja ili drugog investiranja u hartije od vrijednosti, a ne može obavljati transakcije sa tim hartijama.
+Izuzetno od stava 1 ovog člana, poslove iz st. 1 i 2 ovog člana može obavljati i banka, ako ima odobrenje Centralne banke Crne Gore za obavljanje tih poslova i ukoliko ima poseban organizacioni dio koji se bavi isključivo poslovima sa hartijama od vrijednosti.
