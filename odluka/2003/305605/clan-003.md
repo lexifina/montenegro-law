@@ -1,0 +1,2 @@
+# Član 3
+Funkcionisanje interne revizije u banci se organizuje na način kojim se obezbjeđuje trajnost obavljanja funkcije interne revizije, dostupnost reviziji svih poslova u banci, nezavisnost, objektivnost i nepristrasnost u radu internog revizora, adekvatna organizacija izvršavanja funkcije interne revizije i obavljanje poslova interne revizije od strane lica koja posjeduju odgovarajuću kvalifikaciju i radno iskustvo.

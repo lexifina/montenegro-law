@@ -1,0 +1,2 @@
+# Član 11
+Ako interni revizor tokom revizije pojedinih elemenata poslovanja banke utvrdi postojanje nezakonitog poslovanja ili kršenja pravila o upravljanju rizicima, ili da se banka uključila u nesigurne ili nesolidne poslove, zbog čega banci prijeti nelikvidnost, insolventnost ili je time ugrožena sigurnost njenog poslovanja, dužan je da o tim činjenicama bez odlaganja obavijesti Centralnu banku, upravni odbor i komitet za nadzor.
