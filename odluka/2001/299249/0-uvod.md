@@ -1,0 +1,2 @@
+318.Vlada Republike Crne Gore, na osnovu člana 12 st. 1 i 3 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG" br.15/94 i 4/97) i na osnovu člana 3 Odluke o davanju saglasnosti na statusnu promjenu Javnog preduzeća "Luka Bar" Bar ("Službeni list RCG", broj 23/00), na sjednici od 18.maja 2001. godine, donijela je
+O D L U K U O DAVANJU SAGLASNOSTI NA STATUSNE PROMJENE I IZMJENE I DOPUNE STATUTA AD "LUKA BAR" BAR
