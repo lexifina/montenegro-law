@@ -1,0 +1,16 @@
+691.
+   Na osnovu člana 81 tačka 8 Ustava Republike Crne Gore, Skupština Republike Crne Gore na drugoj
+sjednici drugog redovnog zasijedanja u 1999. godini, dana 29. decembra 1999. godine, donijela je
+
+ODLUKU
+
+O IZBORU JEDNOG SUDIJE OSNOVNOG SUDA U ROŽAJAMA
+
+   Za sudiju Osnovnog suda u Rožajama bira se FADIL KADROVIĆ.
+
+Broj 02-3147/4
+Podgorica, 29. decembra 1999. godine
+
+Skupština Republike Crne Gore
+Predsjednik,
+Svetozar Marović, s.r.
