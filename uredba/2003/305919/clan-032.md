@@ -1,0 +1,8 @@
+# Član 32
+(1) Organ carinske službe naznačava oslobođenje od plaćanja carine za vatrogasno vozilo, koje korisnik prava uvozi iz inostranstva, na carinskoj deklaraciji.
+(2) Organ carinske službe na carinskoj deklaraciji upisuje slijedeću napomenu: "Ako korisnik prava otuđi vatrogasno vozilo u roku od tri godine od dana stavljanja u slobodan promet, mora platiti carinske dažbine u skladu sa Carinskim zakonom."
+(3) U saobraćajnu dozvolu vatrogasnog vozila, za koje je bilo ostvareno oslobođenje od plaćanja carine, u rubriku Napomena se upisuje sledeći tekst:
+"Vatrogasno vozilo se ne smije bez plaćanja carine otuđiti do (upisuje se datum isteka trogodišnjeg roka iz stava 2 ovog člana). Vatrogasno vozilo je namijenjeno isključivo za obavljanje vatrogasne djelatnosti."
+(4) Korišćenje vatrogasnog vozila, uvezenog uz oslobođenje od plaćanja carine u skladu sa zakonom, kontrolišu pored organa carinske službe, organ Ministarstva unutrašnjih poslova i nadležni inspekcijski organi, koji o nepravilnostima obavještavaju organe carinske službe.
+(5) Organ, nadležan za registraciju vozila neće registrovati vatrogasno motorno vozilo, koje je korisnik prava uvezao uz oslobođenje od plaćanja carine, na drugo pravno ili fizičko lice prije nego što istekne rok iz stava 2 ovog člana, ako korisnik prava ne podnese dokument organa carinske službe, da je carina plaćena u skladu sa Carinskim zakonom .
+(6) Odredbe ovog člana odgovarajuće se primjenjuju na vozila, koja se uvoze na carinsko područje na osnovu člana 184 stav 1 tačka 10 Carinskog zakona u namjeri, da se na carinskom području dodatno opremaju za vatrogasno djelovanje.

@@ -1,0 +1,4 @@
+# Član 19
+(1) Humanitarne organizacije, koje ne ispunjavaju uslove za oslobođenje od plaćanja carine, ili, koje su zatražile da upotrijebe robu oslobođenu od plaćanja carine za druge namjene a ne kako je predviđeno u članu 17 ove uredbe, dužne su o tome obavijestiti nadležni organ carinske službe.
+(2) U slučaju da ne ispunjava uslove za oslobođenje od plaćanja carine, humanitarna organizacija može ovu robu ustupiti drugoj humanitarnoj organizaciji, koja ispunjava uslove za oslobođenje od plaćanja carine u skladu sa članom 17 ove uredbe, organ carinske službe će dozvoliti prenos prava nad tom robom.
+(3) Za robu, koju humanitarna organizacija, koja ima pravo na oslobođenje od plaćanja carine, koristi u druge svrhe a ne u svrhe predviđene u članu 184 stav 1 tačka 4 Carinskog zakona, plaća se carinski dug, koji se obračunava u skladu sa Carinskim zakonom.

@@ -1,0 +1,8 @@
+# Član 23
+(1) Oslobođenje od plaćanja carine iz člana 20 ove uredbe, ostvaruje se na osnovu pismenog nalaza i mišljenja invalidske komisije, formirane u skladu sa propisima o penzijskom i invalidskom osiguranju ili odluke o priznatom statusu invalida u skladu sa propisima koji regulišu zaštitu fizički hendikepiranih lica. Umjesto pismenog nalaza i mišljenja invalidske komisije, može se podnijeti odluka Fonda za penzijsko i invalidsko osiguranje.
+(2) Korisnik prava na oslobođenje od plaćanja carine iz člana 22 stav 1 tač. 3 i 4 ove uredbe, može ostvariti pravo na oslobođenje od plaćanja carine, ako uvozi putničko vozilo isključivo za lični prevoz i ako organu carinske službe, pored nalaza i mišljenja komisije odnosno odluke ili potvrde iz stava 1 ovog člana, podnese sledeće dokaze:
+-da je sposoban da vozi putničko vozilo, a što dokazuje pomoću odgovarajuće vozačke dozvole na njegovo ime, ili
+-ovjereno pismeno ovlašćenje korisnika prava dato licu, koje će ga voziti, ako korisnik prava nema vozačku dozvolu odnosno nije u stanju da vozi, ili
+-odluku o produženom roditeljskom pravu, o hraniteljstvu, o određivanju staratelja odnosno odluku o starateljstvu.
+(3) Korisnik prava, koji ostvaruje oslobođenje od plaćanja carine za putničko vozilo iz člana 20 stav 2 tačka 3 ove uredbe, dužan je organu carinske službe podnijeti dokaz, da se vozilo koristi za potrebe lica, zbog čijeg fizičkog hendikepa treba da ima invalidska kolica.
+(4) Korisnik prava na oslobođenje od plaćanja carine, dužan je, pored navedenih dokaza i carinske deklaracije, podnijeti organu carinske službe pismenu izjavu, da u poslednje tri godine nije ostvario pravo na oslobođenje iz ove glave.

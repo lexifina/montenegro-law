@@ -1,0 +1,5 @@
+# Član 24
+(1) Organ carinske službe će o svim dokazima, na osnovu kojih član udruženja ostvaruje pravo na oslobođenje od plaćanja carine, prilikom uvoza putničkog vozila, upisati odgovarajuće podatke u carinsku deklaraciju, na kojoj će unijeti klauzulu o oslobođenju.
+(2) U saobraćajnu dozvolu putničkog vozila, za koje je bilo ostvareno oslobođenje od plaćanja carine, upisuje se sledeći tekst: "Vozilo se ne smije otuđiti bez plaćanja carine do (upisuje se datum isteka trogodišnjeg roka iz stava 1 ovog člana). Vozilo je namijenjeno isključivo za prevoz invalida."
+(3) Korišćenje putničkog vozila, oslobođenog od plaćanja carine u skladu sa zakonom, kontrolišu pored organa carinske službe i policija, kao i nadležni inspekcijski organi i o nepravilnostima obavještavaju organe carinske službe.
+(4) Organ nadležan za registraciju vozila, ne smije registrovati putničko motorno vozilo, koje je korisnik prava uvezao bez plaćanja carine, na drugo lice prije nego što istekne rok iz stava 2 ovog člana, ako korisnik prava ne podnese dokument organa carinske službe, da je carina plaćena u skladu sa Carinskim zakonom.
