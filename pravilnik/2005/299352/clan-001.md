@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se najveće dopuštene snage zračenja nepokretnih radijskih stanica, mjerila za njihovo postavljanje u gradovima i naseljima gradskog obilježja i sigurnosne udaljenosti od izvora elektromagnetnog zračenja u svrhu sprečavanja stvaranja nedopustivo jakih elektromagnetnih polja štetnih po zdravlje ljudi, kao i zaštita radio-difuzne opreme u skladu sa relevantnim standardima.
