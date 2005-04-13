@@ -1,0 +1,3 @@
+# Član 1
+Vlada Republike Crne Gore (u daljem tekstu: Vlada), u skladu sa Protokolom zaključenim između predstavnika Vlade i predstavnika Međunarodne finansijske korporacije (u daljem tekstu: IFC), potpisanim u Istambulu 12. marta 2004. godine izmiriće dio preuzetih Konsolidovanih -Ostalih IFC zajmova u iznosu od 1.517.100,00 E prenosom vlasništva 10% (deset posto) akcijskog kapitala Podgoričke banke AD, Podgorica, čiji je vlasnik Republika Crna Gora -Ministarstvo finansija.
+Vlada se obavezuje da će izmiriti IFC-u preostalu razliku Konsolidovanog Duga - Ostalih IFC zajmova nakon obavljenog zaključenja prenosa vlasništva iz stava 1 ovog člana, pod uslovima koji su definisani Ugovorom o preuzimanju duga i konverzije duga u akcije između Vlade i IFC-a.
