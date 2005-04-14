@@ -1,0 +1,2 @@
+# Član 7
+Ako Komisija u toku vršenja vanrednog pregleda utvrdi da je obim pregleda jednak ili približan obimu osnovnog pregleda, s obzirom na vrstu i obim popravke, ili ako su izvršenom popravkom izmjenjena neka od bitnih svojstava vazduhoplova značajnih za bezbjednost korišćenja takvog vazduhoplova, Direktorat civilnog vazduhoplovstva države Srbije i države Crne Gore zahtjevaće od korisnika vazduhoplova da dopuni zahtjev za pregled, i izvršiće osnovni pregled.

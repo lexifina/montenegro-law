@@ -1,0 +1,6 @@
+# Član 12
+Ako se vrši osnovni pregled vazduhoplova kome je izvršena obnova noseće strukture, koja je
+proistekla iz odobrenog programa tehničkog održavanja, nastalog kvara ili oštećenja, dotrajalosti ili izmjena noseće strukture, preporuka proizvođača ili naloga koji su u toku korišćenja propisani za taj tip vazduhoplova, korisnik vazduhoplova je dužan da u ugovoru o vršenju navedenih radova sa ovlašćenom organizacijom za održavanje vazduhoplova predvidi da ta organizacija preda Komisiji tehničku dokumentaciju vazduhoplova navedenu u Prilogu br. 6 koji je odštampan uz ovaj pravilnik i čini njegov sastavni dio.
+Ovlašćena organizacija za održavanje vazduhoplova iz stava 1. ovog člana dužna je da Komisiji omogući uvid u tehničku dokumentaciju o opravci, kao i uvid u tok opravke, primjenjenu tehnologiju i izvršene provjere tokom radova, kao i izvršena ispitivanja i prateću dokumentaciju za zamjenjene dijelove. Iz te dokumentacije se može vidjeti da li je dio nov, popravljen ili obnovljen, dozvoljeno vrijeme korišćenja, sposobnost za upotrebu, kao i rezultati ispitivanja koja su izvršena prije i poslije ugradnje dijela na vazduhoplov.
+Komisija može da zahtjeva da joj se dostave kopije nekih od dokumenata iz stava 2. ovog člana
+ako smatra da su potrebni da potvrde plovidbenost vazduhoplova.
