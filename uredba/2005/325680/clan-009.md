@@ -1,0 +1,2 @@
+# Član 9
+U slučajevima iz čl. 7 i 8 ove uredbe, visina sredstava koja obezbjeđuje Republika se utvrđuje na način što se od ukupnog iznosa penzije koja se isplaćuje korisniku, oduzima iznos u visini penzije koju bi korisnik dobijao po opštim propisima, a bila bi utvrđena bez uračunavanja perioda penzijskog staža za koji nijesu plaćeni doprinosi za penzijsko i invalidsko osiguranje, odnosno bez perioda provedenih u osiguranju kod nosioca penzijskog i invalidskog osiguranja vojnih osiguranika.
