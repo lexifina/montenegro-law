@@ -1,0 +1,2 @@
+206.Na osnovu člana 11 stav 3 Uredbe o konverziji devizne štednje građana u obveznice ("Službeni list RCG", br. 42/04 i 70/04), a u vezi čl. 17 i 18 Zakona o regulisanju obaveza i potraživanja po osnovu ino duga i devizne štednje građana ("Službeni list RCG", br. 55/03 i 11/04), Vlada Republike Crne Gore na sjednici od 21. aprila 2005. godine, donijela je
+ODLUKU O UREĐIVANJU MEĐUSOBNIH PRAVA I OBAVEZA PO OSNOVU OBVEZNICA DEVIZNE ŠTEDNJE STEČENIH PRODAJOM AKCIJA PREDUZEĆA
