@@ -1,0 +1,3 @@
+# Član 48
+Davalac usluga certifikovanja koji izdaje kvalifikovane certifikate sistem certifikovanja i informacioni sistem mora uskladiti sa zahtjevima sigurnosti rada informacionih sistema, saglasno obrascima ISO/IEC 17799:2000 (Code of Practice for Information Security Management) i BS 7799-2: 1999 (British Standard for Information Security Management - Specification for Information Security Management System).
+Sistem certifikovanja mora sadržati odvojene radne cjeline, pri čemu osoblje koje radi na poslovima upravljanja računarskim sistemom ili provjere identiteta i registracije potpisnika ne može vršiti poslove koji se odnose na izdavanje i opoziv certifikata.

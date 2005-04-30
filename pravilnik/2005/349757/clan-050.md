@@ -1,0 +1,3 @@
+# Član 50
+Davalac usluga certifikovanja podatke za izradu svog elektronskog potpisa mora čuvati u najmanje dva primjerka na odvojenim lokacijama, u za to namjenski uređenom prostoru zaštićenom od oštećenja u slučaju požara, poplave i drugih štetnih uticaja, kao i obezbijediti razdvajanje osnovnog skupa podataka za izradu elektronskog potpisa u najmanje dva dijela.
+Dostupnost podataka za izradu naprednog elektronskog potpisa davaoca usluga certifikovanja koji izdaje kvalifikovane certifikate, mora biti jednokratna i to samo za vrijeme izrade elektronskog potpisa i mora prestati nakon svake izrade elektronskog potpisa.

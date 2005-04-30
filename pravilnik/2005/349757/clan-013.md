@@ -1,0 +1,11 @@
+# Član 13
+Opšta pravila pružanja usluga certifikovanja, Pravilnik o postupcima izdavanja certifikata i Pravilnik o zaštiti sistema certifikovanja moraju biti izrađeni u skladu sa RFC 2527, odnosno međunarodno prihvaćenim obrascem ETSI TS 101 456 -Policy Reljuirements for Certification Authorities Issuing LJualified Certificates.
+Opšti akti iz stava 1 ovog člana, zavisno od oblasti koju uređuju, u svojoj strukturi obavezno sadrže segmente:
+1) uvodne napomene i osnovni podaci ( opis usluga; identifikacioni podaci i OID oznaka; korisnici i područje primjene usluga;adresni podaci);
+2) opšte odredbe ( obaveze davaoca usluga, potpisnika i korisnika;odgovornost; finansijska odgovornost; usklađenost sa zakonom; naknada za usluge; objava i opoziv certifikata; provjera usklađenosti; povjerljivost i tajnost poslovanja i podataka; zaštita intelektualne svojine/autorstva);
+3) identifikacija i potvrđivanje identiteta potpisnika ( registracija potpisnika; plansko obnavljanje certifikata; obnavljanje nakon opoziva; zahtjevi za opoziv certifikata);
+4) osnovni zahtjevi u radu sa certifikatima (prijem zahtjeva za izdavanje certfikata; izdavanje certifikata; dostavljanje/prihvat certifikata; opoziv certifikata; postupci provjere sigurnosnih mjera; arhiviranje certifikata i podataka; zamjena certifikata; postupci otklanjanja posljedica šteta i nezgoda; prestanak rada);
+5) kontrola sigurnosti opreme, postupaka i osoblja ( kontrola prostora, opreme i sredstava; kontrola postupaka i radnih procesa; kontrola osoblja -broj, stručnost, ovlašćenja);
+6) kontrola tehničke sigurnosti rada sistema certifikovanja ( izrada sopstvenog certifikata; zaštita podataka za izradu sopstvenog elektronskog potpisa; upravljanje podacima za izradu elektronskog potpisa; podaci za pristup potpisu davaoca usluga; kontrola sigurnosti računarskog sistema; kontrola sigurnosti radnog vijeka sistema; kontrola sigurnosti mrežnog sistema; kontrola sigurnosti kriptografskih modula );
+7) sadržaj certifikata i liste opozvanih certifikata ( sadržaj/obrazac certifikata; sadržaj liste opozvanih certifikata );
+8) postupci sa dokumentacijom (postupak kod promjene sadržaja dokumentacije; objavljivanje dokumentacije; postupak prihvatanja/odobravanja dokumentacije).
