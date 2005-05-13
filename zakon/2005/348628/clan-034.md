@@ -1,0 +1,4 @@
+# Član 34
+## Nosilac pripremnih poslova i pripremni poslovi
+Nosilac pripremnih poslova na izradi i donošenju planskog dokumenta je nadležni organ državne uprave, odnosno nadležni organ lokalne uprave.
+Pripremnim poslovima, u smislu stava 1 ovog člana, smatraju se: priprema programskog zadatka; priprema dokumentacije potrebne za izradu planskog dokumenta; (dokumentacione osnove); obavljanje poslova vezanih za ustupanje izrade planskog dokumenta; praćenje toka izrade planskog dokumenta; sprovođenje javnog konkursa iz člana 30 ovog zakona; pribavljanje propisanih saglasnosti i mišljenja i ostvarivanje saradnje sa ovlašćenim subjektima; poslovi organizacije i pregleda elaborata plana; priprema odluke o izradi i dono-šenju planskog dokumenta, kao i drugi poslovi u vezi izrade i donošenja planskog dokumenta.
