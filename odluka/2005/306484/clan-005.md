@@ -1,0 +1,2 @@
+# Član 5
+Izbjeglo odnosno interno raseljeno lice prilikom prijavljivanja, svoj status dokazuje legitimacijom izdatom od MUP-a RCG, shodno Pravilniku o legitimaciji raseljenih lica ("Sl.list RCG", br. 41/92 i 76/04), odnosno legitimacijom Komesarijata za izbjegla i raseljena lica, koja ima jedinstven i neponovljiv broj po određenom kodu, kao i potvrdom Komesarijata kojom se potvrđuje status, koja ne može biti starija od mjesec dana računajući od dana izdavanja.
