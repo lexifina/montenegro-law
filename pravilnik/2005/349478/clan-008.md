@@ -1,0 +1,2 @@
+# Član 8
+Detaljan projekat iz člana 7 ovog pravilnika sadrži glavni projekat skladišta, sa izvršenom revizijom projekta, obrazloženje projekta i utvrđenim iznosom potrebnih finansijskih sredstava za realizaciju projekta i nabavku prevoznih sredstava, bankarsku garanciju na taj iznos, izdatu od banke registrovane u Republici, prvoklasne ino strane banke ili dokaz o na drugi način obezbijeđenim sredstvima u tom iznosu od banke ili druge finansijske organizacije, kao i dokaz o obezbijeđenim sredstvima za plaćanje propisane naknade za dobijanje licence.
