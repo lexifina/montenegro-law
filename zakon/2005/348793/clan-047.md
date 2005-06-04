@@ -1,0 +1,5 @@
+# Član 47
+Ovlašćena lica organa uprave nadležnog za unutrašnje poslove dužna su da, na poziv doktora medicine, medicinske sestre ili medicinskog tehničara, pruže pomoć zdravstvenim radnicima pri savladavanju fizičkog otpora teže mentalno oboljelog lica iz člana 32 st. 1 i 2 ovog zakona i to samo dok to lice pruža fizički otpor i dok se ne obezbijedi zbrinjavanje i otklanjanje neposredne opasnosti za to lice, uključujući i prevoz tog lica.
+U slučaju kada postoji direktna opasnost da će mentalno oboljelo lice svojim ponašanjem u psihijatrijskoj ustanovi napasti na život i tijelo nekog lica ili otuđiti, uništiti ili teže oštetiti imovinu te ustanove, ovlašćena lica organa uprave nadležnog za unutrašnje poslove dužna su da, na poziv ovlašćenog lica psihijatrijske ustanove, hitno pruže odgovarajuću pomoć.
+Ovlašćena lica organa uprave nadležnog za unutrašnje poslove dužna su da, na osnovu prijave psihijatrijske ustanove, pronađu i vrate mentalno oboljelo lice koje je pobjeglo iz te ustanove.
+Lice koje je uputilo poziv iz st. 1, 2 i 3 ovog člana dužno je da ga naknadno u pisanom obliku obrazloži i da to obrazloženje priloži u medicinsku dokumentaciju.

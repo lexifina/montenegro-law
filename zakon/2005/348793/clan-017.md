@@ -1,0 +1,6 @@
+# Član 17
+Izuzetno od čl. 14, 15 i 16 ovog zakona pristanak nije obavezan, ako bi zbog njegovog pribavljanja bio neposredno ugrožen život mentalno oboljelog lica ili bi prijetila stvarna i neposredna opasnost od težeg narušavanja njegovog zdravlja.
+Medicinski postupak se može primjenjivati bez pristanka samo dok traju okolnosti iz stava 1 ovog člana.
+Zdravstveni radnik za mentalno zdravlje, odnosno psihijatar koji rukovodi procesom rada ili drugo ovlašćeno lice centra za mentalno zdravlje, odnosno psihijatrijske ustanove (u daljem tekstu: ovlašćeno lice) odlučuje o nužnosti i hitnosti određenog medicinskog postupka i o tome, bez odlaganja, obavještava zakonskog zastupnika mentalno oboljelog lica, ukoliko ga ima.
+Mentalno oboljelo lice koje je prisilno zadržano, odnosno smješteno u psihijatrijsku ustanovu može se, bez njegovog pristanka, podvrgnuti pregledu ili drugom medicinskom postupku koji služi liječenju tog lica, samo ako bi bez sprovođenja tog postupka nastalo teško oštećenje zdravlja tog lica.
+U slučajevima iz st. 1 i 4 ovog člana i člana 15 st. 2 i 3 ovog zakona, mentalno oboljelom licu se moraju objasniti, u mjeri u kojoj je to moguće, posljedice njegovog liječenja i to lice se uključiti u planiranje svog liječenja.

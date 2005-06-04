@@ -1,0 +1,2 @@
+# Član 28
+Psihijatar može odobriti razgovor mentalno oboljelog lica smještenog u psihijatrijsku ustanovu sa službenim licima organa uprave nadležnog za unutrašnje poslove i stručnim radnicima centra za socijalni rad, samo kad to dozvoljava zdravstveno stanje mentalno oboljelog lica. Psihijatar ne može odobriti razgovor lica iz stava 1 ovog člana sa mentalno oboljelim licem koje nije sposobno da razumije stanje u kojem se nalazi niti posljedice takvog razgovora.

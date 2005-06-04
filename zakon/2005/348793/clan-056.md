@@ -1,0 +1,2 @@
+# Član 56
+Novčanom kaznom od petostrukog do dvadesetostrukog iznosa najniže cijene rada u Crnoj Gori kazniće se za prekršaj psihijatar ili zdravstveni radnik za mentalno zdravlje i zdravstveni saradnik za mentalno zdravlje ili drugo lice koje obavlja posao zaštite i liječenja mentalno oboljelog lica, ako ne čuva, kao profesionalnu tajnu, sve što sazna ili primijeti tokom obavljanja tih poslova u skladu sa članom 25 ovog zakona.
