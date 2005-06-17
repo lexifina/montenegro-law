@@ -1,0 +1,2 @@
+301.Na osnovu člana 94 tač. 3) i 6) Ustava Republike Crne Gore ("Službeni list RCG", broj 48/92) i člana 12 st.1 i 2 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG", br. 15/94 i 4/97), Vlada Republike Crne Gore na sjednici od 12. maja 2005. godine donijela je
+UREDBU O ODREĐIVANJU ORGANA DRŽAVNE UPRAVE NADLEŽNIH ZA DAVANJE OBJAŠNJENJA I MIŠLJENJA U POSTUPKU STICANJA PRAVA SVOJINE NA NEPOKRETNOSTIMA STRANIH LICA KOJA OBAVLJAJU DJELATNOST NA TERITORIJI REPUBLIKE CRNE GORE
