@@ -1,0 +1,2 @@
+# Član 1
+Vlada Republike Crne Gore garantuje Državnoj zajednici Srbija i Crna Gora (u daljem tekstu: Srbija i Crna Gora), uredno vraćanje kredita, u iznosu od 2.680.000 E, odobrenog od Evropske banke za obnovu i razvoj za Projekat buduće modernizacije i usavršavanja sistema upravljanja kontrolom letenja, na način, pod uslovima i u rokovima predviđenim Sporazumom o zajmu za Projekat buduće modernizacije i usavršavanja sistema upravljanja kontrolom letenja, zaključenog između Agencije za kontrolu letenja Srbije i Crne Gore doo i Evropske banke za obnovu i razvoj.
