@@ -1,0 +1,7 @@
+# Član 29
+U primjeni principa iz člana 28 ovog pravilnika:
+(a) zabranjena je upotreba supstanci koje ubrzavaju rast ili proizvodnju, (uključujući antibiotike, kokcidiostatike ili druge vještačke supstance za povećanje prirasta) i upotreba hormona ili sličnih supstanci za kontrolu reprodukcije (npr. indukcija ili sinhronizacija estrusa), ili za druge svrh, s tim što hormoni mogu biti korišćeni za individualne životinje, kao forma terapeutskog veterinarskog tretmana;
+(b) obezbijediti veterinarski tretman životinja, ili tretman objekata, opreme i linija prerade, koji su zakonom ili na osnovu zakona utvrđeni kao obavezni, uključujući upotrebu imunoloških veterinarskih medicinskih proizvoda u trenutku kada je bolest dijagnosticirana u određenoj regiji u kojoj je proizvodna jedinica locirana.
+Prilikom korišćenja veterinarskih medicinskih proizvoda, tip proizvoda mora biti jasno obilježen (uključujući indikaciju farmakoloških supstanci), zajedno sa dijagnostičkim detaljima; posologijom (metodama administracije veterinarskog medicinskog proizvoda); trajanjem tretmana, i periodom karence.
+Podaci iz stava 2 ovog člana, moraju biti dostavljeni ovlašćenom licu prije označavanja stoke ili stočnog proizvoda kao proizvoda iz organske poljoprivrede.
+Stoka koja je tretirana mora biti jasno identifikovana, individualno, ako su u pitanju krupne životinje; individualno ili u grupi, u slučaju živine ili sitnih životinja.

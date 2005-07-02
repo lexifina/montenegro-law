@@ -1,0 +1,2 @@
+# Član 57
+Prevencija bolesti u organskoj pčelarskoj proizvodnji zasniva se na primjeni mjera kojima se povećava otpornost na bolesti i sprječavaju infekcije, kao npr.: sistematska kontrola košnica i trutovskog legla, obezbjeđivanje dovoljne rezerve polena i meda u košnicama, redovna dezinfekcija materijala i opreme u određenim intervalima, uništavanje kontamiranih materijala i njihovih izvora, redovna zamjena pčelinjeg voska i zamjena matica.

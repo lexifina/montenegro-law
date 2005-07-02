@@ -1,0 +1,5 @@
+# Član 24
+Sirovine za hranu za stoku biljnog porijekla utvrđene u Prilogu I, dio C, tačka 1 ovog pravilnika koje potiču iz konvencionalne proizvodnje, mogu se koristiti ako su proizvedene ili pripremljene bez upotrebe hemijskih sredstava.
+Za ishranu životinja u organskoj proizvodnji može se koristiti hrana životinjskog porijekla utvrđena u Prilogu I, dio C, tačka 2 ovog pravilnika.
+U organskoj proizvodnji za ishranu životinja može se koristiti stočna hrana mineralnog porijekla utvrđena Prilogom I ovog pravilnika (dio C tačka 3) i mikroelementi (dio D, tačka1.1.) i vitamini, provitamini i hemijske supstance koje imaju sličan efekat (tačka 1.2).
+U ishrani životinja mogu biti korišćeni samo proizvodi utvrđeni u Prilogu I ovog pravilnika, enzimi (dio D, tačka 1.3.), mikroorganizmi (tačka 1.4.), konzervansi (tačka 1.5), koagulanti, anti- zgrušavajući agensi i vezivne materije (tačka 1.6.), antioksidanti (tačka 1.7.), aditivi za silažu (tačka 1.8.), određene materije koje se koriste u ishrani životinja (tačka 2.) i pomoćne materije u stočnoj hrani (tačka 3.).

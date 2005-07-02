@@ -1,0 +1,2 @@
+# Član 9
+Životinje koje nijesu uzgajane u organskoj proizvodnji mogu, uz saglasnost ovlašćenog pravnog lica (u daljem tekstu: ovlašćeno lice), koristiti pašnjake organske proizvodne jedinice u ograničenom vremenskom periodu, ukoliko takve životinje dolaze iz ekstenzivnih proizvodnih uslova, ili se radi o vrstama životinja koje nijesu obuhvaćene ovim pravilnikom, pod uslovom da životinje u organskoj proizvodnji nijesu prisutne na pašnjacima u isto vrijeme.

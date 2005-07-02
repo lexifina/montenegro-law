@@ -1,0 +1,5 @@
+# Član 28
+Upotreba veterinarskih medicinskih proizvoda u organskom stočarstvu mora se zasnivati na sljedećim principima:
+a. fitoterapeutici (npr. biljni ekstrakti, esencije i dr.), homeopatski proizvodi (npr. biljne, životinjske i mineralne supstance) i mikroelementi i proizvodi navedeni u Prilogu II ovog pravilnika (Dio C tačka 3.), imaju prednost nad hemijsko- sintetičkim alopatskim veterinarskim medicinskim proizvodima ili antibioticima, ukoliko obezbijede da njihovi terapeutski efekti budu efikasni za životinju i uslove za koje je tretman predviđen;
+b. ako upotreba proizvoda iz tačke (a) ovog člana nije djelotvorna, ili je nedovoljno efikasna u borbi protiv bolesti i povreda, a u liječenju je neophodno izbjeći patnju ili stres životinja, hemijsko-sintetički alopatski veterinarski medicinski proizvodi ili antibiotici mogu se koristiti, pod kontrolom veterinara;
+c. upotreba hemijsko-sintetičkih alopatskih veterinarskih medicinskih proizvoda ili antibiotika za preventivni tretman je zabranjena.
