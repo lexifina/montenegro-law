@@ -1,0 +1,2 @@
+338.Na osnovu čl. 64 i 65 Zakona o svojinskoj i upravljačkoj transformaciji ("Službeni list RCG", br. 2/92 i 27/94), čl. 2a, 3 i 6 Zakona o privatizaciji privrede ("Službeni list RCG", br. 23/96, 6/99, 59/00 i 42/04) i člana 12 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG", br. 15/94 i 4/97), Vlada Republike Crne Gore, na sjednici od 12. maja 2005. godine, donijela je
+ODLUKU O POSEBNOM PROGRAMU PRIVATIZACIJE NJP "POBJEDA"- PODGORICA
