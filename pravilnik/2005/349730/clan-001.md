@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se minimalni uslovi koje mora ispunjavati proizvodna jedinica za zasnivanje organske poljoprivrede i metode organske biljne proizvodnje kojima se utvrđuju: izbor vrsta i sorti bilja, plodored, obrada zemljišta, sredstva i način đubrenja, sistem održavanja plodnosti zemljišta, način suzbijanja biljnih bolesti, štetočina i korova i mjesto, vrijeme i način sakupljanja šumskih plodova i ljekovitog bilja.

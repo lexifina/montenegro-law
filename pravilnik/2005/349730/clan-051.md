@@ -1,0 +1,2 @@
+# Član 51
+Ukoliko nije moguće obezbijediti ukupnu količinu supstrata iz organske proizvodnje, uz saglasnost ovlašćenog pravnog lica, za proizvodnju gljiva kao proizvoda organske poljoprivrede može se koristiti 25% supstrata (izračunato prema težini proizvoda prije kompostiranja), koji čine materije koje nijesu proizvedene po metodama organske proizvodnje, ali ispunjavaju uslove utvrđene članom 50 alineje treća, četvrta i peta ovog pravilnika.

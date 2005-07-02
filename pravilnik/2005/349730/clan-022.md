@@ -1,0 +1,3 @@
+# Član 22
+Podrška očuvanju biodiverziteta u organskoj biljnoj proizvodnji ostvaruje se kroz obavezno poštovanje plodoreda -smjena usjeva u vremenu i prostoru (u daljem tekstu: plodored), u skladu sa tipom proizvodnje i plodnošću zemljišta, uz raznolikost gajenih vrsta i sijanje zaštitnih pojaseva oko usjeva.
+Plodored je obavezna mjera organske proizvodnje, kojom se obezbjeđuje: održavanje plodnosti zemljišta; smanjenje zakorovljenosti, ispiranja đubriva, brojnog stanja štetočina i uzročnika bolesti biljaka; održavanje populacija korisnih životinjskih vrsta, biološke raznovrsnosti i održavanje i povećavanje biološke plodnosti zemljišta, tj. mikrobiološke aktivnosti tla.
