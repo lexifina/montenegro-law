@@ -1,0 +1,3 @@
+# Član 61
+Ako su mjenicu akceptirali intervenijenti koji imaju mjesto prebivališta u mjestu plaćanja ili ako su u mjenici označena da po potrebi plate lica koja u tom mjestu imaju mjesto prebivališta, imalac mjenice dužan je da mjenicu podnese svim tim licima i da, ako je to potrebno, podigne protest zbog neisplate najkasnije sjutradan po posljednjem danu dozvoljenom za podizanje protesta.
+Ako se protest ne podigne u roku iz stava 1 ovog člana, nemaju obavezu: onaj koji je naznačio adresu po potrebi ili za koga je intervencijom mjenica bila akceptirana, a tako isto i indosanti koji za njim dolaze.

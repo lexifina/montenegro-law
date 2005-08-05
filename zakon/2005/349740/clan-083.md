@@ -1,0 +1,2 @@
+# Član 83
+Ako je povjerilac u toku posljednja tri mjeseca prije isteka roka zastarjelosti usljed prestanka sudskog rada ili usljed vojne službe u ratu ili usljed više sile iz člana 55 ovog zakona bio spriječen u ostvarivanju svojih mjeničnih prava, zastarjelost ne teče dok traje ta spriječenost. Rok zastare se prekida dok traje stečaj nad povjeriočevom imovinom, s tim što zastarjelost ne može nastupiti u roku kraćem od 30 dana od dana završetka stečaja, odnosno prestanka razloga za spriječenost u ostvarivanju mjeničnih prava.

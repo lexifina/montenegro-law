@@ -1,0 +1,3 @@
+# Član 26
+Akcept se piše na samoj mjenici. Izražava se riječju "priznajem", "primljena", "prihvaćena" ili drugom riječju koja ima isto značenje, akcept potpisuje trasat. Kao akcept vrijedi i sam trasatov potpis kad je stavljen na lice mjenice.
+Kad je trasirana mjenica plativa na određeno vrijeme po viđenju ili kad na osnovu naročitog naređenja ima da se podnese na akceptiranje u određenom roku, onda akcept mora biti datiran danom kada je dat, osim ako imalac mjenice zahtijeva da se datira danom kada je mjenicu podnio na akceptiranje. Ako se akcept ne datira, imalac mjenice, da bi održao svoja regresna prava protiv indosanata i trasanta, mora taj propust da ustanovi blagovremeno podignutim protestom.

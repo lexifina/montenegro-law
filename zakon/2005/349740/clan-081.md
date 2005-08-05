@@ -1,0 +1,2 @@
+# Član 81
+Zastarjelost se prekida podnošenjem tužbe sudu. Sa tužbom se izjednačavaju: prijava mjeničnog potraživanja u stečaju, odnosno likvidaciji, ostvarivanje mjenično-pravnih zahtjeva u toku parnice, pozivanje u zaštitu, izvještaj kojim tuženi obavještava svog prethodnika da je protiv njega podnesena regresna tužba. Izvještaj se saopštava preko suda ili neposredno preporučenim pismom, u kom se slučaju dan kada je pismo predao pošti uzima kao dan saopštenja.

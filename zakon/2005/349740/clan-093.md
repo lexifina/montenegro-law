@@ -1,0 +1,4 @@
+# Član 93
+Ako se mjenica u toku roka određenog u oglasu ne podnese, onda sud oglašava nestalu mjenicu za amortizovanu i o tome izvještava akceptanta, odnosno trasanta neakceptirane mjenice ili trasanta koji je zabranio podnošenje mjenice na akceptiranje, stavljajući mu do znanja da mjeničnu svotu može isplatiti predlagaču amortizacije. Sud će o amortizovanju mjenice izvijestiti predlagača, kao i sva u mjenici imenovana lica.
+Na osnovu amortizovane mjenice ne mogu se ostvarivati nikakva mjenična prava.
+Na osnovu odluke o amortizaciji predlagač može protiv akceptanta, a u slučaju iz člana 92 stav 1 ovog zakona, protiv trasanta ostvariti svoja mjenična prava kao da ima neamortizovanu mjenicu, ali ti mjenični dužnici neće biti obavezni da izvrše isplatu, ako dokažu da je predlagač bespravno dobio odluku o amortizaciji.

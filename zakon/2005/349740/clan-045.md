@@ -1,0 +1,7 @@
+# Član 45
+Djelimično ili potpuno odbijanje akceptiranja, kao i djelimično ili potpuno odbijanje isplate mora se utvrditi javnom ispravom (protest zbog neakceptiranja ili zbog neisplate).
+Protest zbog neakceptiranja mora se podići u rokovima određenim za podnošenje na akceptiranje. Ako je u slučaju predviđenom članom 25 stav 1 ovog zakona mjenica bila podnesena prvi put posljednjeg dana roka, protest se može podići još i sjutradan.
+Protest zbog neisplate mjenice plative na određeni dan ili na određeno vrijeme od dana izdavanja ili viđenja mora se podići jednog od dva radna dana koji dolaze odmah za danom plaćanja mjenice. Ako je u pitanju mjenica plativa po viđenju, onda se protest mora podići prema odredbi stava 2 ovog člana o podizanju protesta zbog neakceptiranja.
+Kad je podignut protest zbog neakceptiranja, onda nije potrebno mjenicu podnijeti na isplatu niti podići protest zbog neisplate.
+Ako, prije ili poslije akceptiranja, trasat obustavi plaćanje ili ako je izvršenje nad njegovom imovinom ostalo bezuspješno, imalac mjenice može vršiti regres tek pošto bude podnio trasatu mjenicu na isplatu i pošto protest bude podignut.
+U slučaju otvaranja stečaja, odnosno likvidacije nad imovinom trasata, prije ili poslije akceptiranja, kao i u slučaju stečaja, odnosno likvidacije otvorene nad imovinom trasanta mjenice koja se ne smije podnijeti na akceptiranje, imalac mjenice može vršiti regres kad podnese dokaz o otvaranju postupka stečaja, odnosno likvidacije.

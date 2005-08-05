@@ -1,0 +1,3 @@
+# Član 17
+Lice koje drži mjenicu smatra se za njenog zakonitog imaoca ako svoje pravo dokaže neprekinutim nizom indosamenata. Isto pravilo važi i kada je posljednji indosament blanko iz člana 13 stav 3 ovog zakona. U pogledu ovog dokazivanja precrtani indosamenti smatraju se da ne postoje. Kad iza blanko indosamenta dolazi drugi indosament, smatra se da je potpisnik drugog indosamenta stekao mjenicu blanko indosamentom.
+Lice koje je, bilo kakvim događajem, lišeno mjenice, lice koje drži mjenicu i koje je svoje pravo dokazalo na način utvrđen stavom 1 ovog člana, nije dužno da mjenicu preda, osim ako je steklo zlonamjerno ili je pri sticanju postupilo s velikom nepažnjom.

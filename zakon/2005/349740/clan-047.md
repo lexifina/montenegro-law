@@ -1,0 +1,4 @@
+# Član 47
+Trasant, indosant ili avalista može odredbom "bez troškova", "bez protesta" ili bilo kojom drugom odgovarajućom odredbom, napisanom i potpisanom na mjenici, osloboditi njenog imaoca od obaveze da, radi vršenja regresa, podiže protest zbog neakceptiranja ili neisplate.
+Odredba stava 1 ovog člana ne oslobađa imaoca mjenice od podnošenja mjenice u propisanim rokovima i od blagovremenog davanja izveštaja. Prekoračenje rokova dokazuje lice koje to ističe protiv imaoca mjenice.
+Odredba koju je: trasant napisao dejstvuje prema svim potpisnicima; napisao indosant ili avalista dejstvuje samo prema onome koji ju je stavio. Ako imalac mjenice, suprotno odredbi koju je napisao trasant, podigne protest dužan je snositi protestne troškove. Kad odredba potiče od indosanta ili avaliste, troškovi protesta, ako je podignut, mogu se naplatiti od svih potpisnika.
