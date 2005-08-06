@@ -1,0 +1,2 @@
+# Član 1
+Vlada Republike Crne Gore garantuje Državnoj zajednici Srbija i Crna Gora (u daljem tekstu: Srbija i Crna Gora), uredno vraćanje kredita, u iznosu od 3.300.000,00 SDR (tri miliona i tri stotine hiljada specijalno vučenih prava) odobrenog od strane Međunarodnog udruženja za razvoj, namijenjenog za realizaciju Projekta reforme obrazovanja u Crnoj Gori, na način, pod uslovima i u rokovima predviđenim Sporazumom o kreditu za razvoj (Projekat reforme obrazovanja u Crnoj Gori), između Srbije i Crne Gore i Međunarodnog udruženja za razvoj.
