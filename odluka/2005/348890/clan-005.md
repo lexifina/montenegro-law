@@ -1,0 +1,3 @@
+# Član 5
+Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Republike Crne Gore".
+Su br. 300/05
