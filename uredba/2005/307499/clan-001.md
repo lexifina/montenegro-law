@@ -1,0 +1,4 @@
+# Član 1
+U Uredbi o Generalnom sekretarijatu Vlade Republike Crne Gore ("Službeni list RCG", br. 12/92, 9/03, 36/03 i 24/04), u članu 2 poslije tačke 16g) dodaju se dvije nove tačke koje glase:
+"16d) praćenje primjene međunarodnih propisa, konvencija, sporazuma iz oblasti borbe protiv trgovine ljudima; pokretanje inicijativa za usklađivanje domaćeg zakonodavstva sa međunarodnim standardima, ostvarivanje odnosa i saradnje domaćih i međunarodnih subjekata u cilju stvaranja efikasnih mehanizama za borbu protiv trgovine ljudima;
+16đ) pripremu i realizaciju planova i projekata u skladu sa ciljevima i načelima održivog razvoja i prioritetima utvrđenim dokumentom "pravci razvoja Crne Gore kao ekološke države"; saradnju sa međunarodnim organizacijama (UNDP i drugim), u cilju obezbjeđivanja inostrane podrške prioritetnim projektima održivog razvoja; širenje svijesti i podsticanje aktivnosti u oblasti održivog razvoja na svim nivoima;"
