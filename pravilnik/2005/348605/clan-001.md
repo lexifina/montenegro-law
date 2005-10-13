@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom se bliže propisuje način rada ovlašćenog lica, način sprovođenja unutra- šnje kontrole, čuvanje i zaštita podataka, način vođenja evidencija i osposobljavanje zaposlenih kod organizacija, advokata, advokatskih kancelarija, društava za reviziju, samostalnih revizora i pravnih ili fizičkih lica koja obavljaju računovodstvene ili druge slične usluge (u daljem tekstu: obveznici).
