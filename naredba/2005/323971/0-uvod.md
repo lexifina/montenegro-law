@@ -1,0 +1,5 @@
+566.Na osnovu čl. 11 i 28 Zakona o veterinarstvu ("Službeni list RCG" broj 11/04), Ministarstvo poljoprivrede, šumarstva i vodoprivrede donijelo je
+NAREDBU
+O ZABRANI DRŽANJA ŽIVINE NA OTVORENOM PROSTORU I MJERAMA KOJE
+MORAJU PREDUZIMATI DRŽAOCI ŽIVINE NA TERITORIJI REPUBLIKE CRNE
+GORE RADI SPRJEČAVANJA POJAVE I ŠIRENJA INFLUENCE PTICA
