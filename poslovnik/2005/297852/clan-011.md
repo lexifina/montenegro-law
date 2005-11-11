@@ -1,0 +1,8 @@
+# Član 11
+Agencija može donijeti rješenje o potpunom ili djelimičnom oduzimanju dodijeljenih brojeva i adresa u sljedećem slučajevima:
+1) ako se utvrdi da korišćenje dodijeljenih brojeva ili adresa nije u skladu sa Planom numeracije i Planom adresiranja, ili da korisnici dodijeljenih brojeva i adresa ne postupaju u skladu sa uslovima korišćenja iz rješenja o dodjeli tih brojeva, odnosno adresa,
+2) ako se utvrdi da operator ili pružalac servisa, kome su dodijeljeni brojevi odnosno adrese, nije otpočeo sa korišćenjem tih brojeva odnosno adresa u roku od šest mjeseci od dana prijema rješenja o dodjeli brojeva odnosno adresa ili ih ne koristi u skladu sa dinamikom navedenom u zahtjevu za dodjelu,
+3) ako se korisnik pismenim putem odrekne dodijeljenih brojeva i adresa,
+4) u slučaju znatnijih izmjena u Planu numeracije i Planu adresiranja zbog povećanih potreba za brojevima odnosno adresama, međunarodnog usklađivanja planova brojeva i adresa, ili otklanjanja prepreka ravnopravnom i otvorenom tržišnom takmičenju, a nakon prethodno pribavljenog mišljenja operatora ili pružalaca servisa na koje se te izmjene odnose.
+U slučaju oduzimanja dodijeljenih brojeva i adresa iz razloga navedenih u stavu 1. tačka 4) ovoga člana, Agencija će oduzete brojeve i adrese istovremeno zamijeniti drugim brojevima i adresama, a operatori i pružaoci servisa nemaju pravo na nadoknadu troškova.
+Rješenje iz stava 1. ovoga člana mora sadržati rok, koji ne može biti kraći od tri mjeseca, u kojem je operator ili pružalac servisa obavezan prestati sa korišćenjem brojeva odnosno adresa, koji su mu tim rješenjem oduzeti.

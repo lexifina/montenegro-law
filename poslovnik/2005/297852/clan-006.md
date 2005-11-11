@@ -1,0 +1,6 @@
+# Član 6
+Primarna dodjela
+Pravo na podnošenje zahtjeva za primarnu dodjelu brojeva i adresa Agenciji, uključujući geografske kodove, negeografske kodove, brojeve pojedinih telekomunikacionih servisa, kao i adrese nacionalnih i međunarodnih signalizacionih tačaka, imaju operatori i pružaoci servisa.
+Primarnom dodjelom Agencija dodjeljuje brojeve u blokovima od 500, 1000, 5000, 10000, 20000, 30000, 40000, 50000 brojeva za javne govorne usluge i za dodatne usluge i usluge inteligentne mreže u fiksnoj telekomunikacionoj mreži. Brojevi, koji se upotrebljavaju za numeraciju dodatnih usluga i inteligentne mreže mogu se dodjeljivati pojedinačno i u blokovima od 5, 10, 20, 50 i 100 brojeva, a na osnovu pisanog zahtjeva operatora ili pružaoca servisa, ako se takvom dodjelom podstiče razvoj telekomunikacionog tržišta i upotreba telekomunikacionih servisa.
+Primarnom dodjelom Agencija pojedinačno dodjeljuje pristupne kodove operatorima i pružaocima servisa u mobilnim telekomunikacionim mrežama, pri čemu istovremeno dodjeljuje i cijeli raspon pretplatničkih brojeva koji slijede iza tako dodijeljenog pristupnog koda.
+Brojevi i adrese, koji nijesu obuhvaćeni st. 2. i 3. ovog člana, Agencija dodjeljuje pojedinačno primarnom dodjelom.
