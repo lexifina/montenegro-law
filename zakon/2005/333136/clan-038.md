@@ -1,0 +1,5 @@
+# Član 38
+Kada skupština gradske opštine duže od tri mjeseca ne održava sjednice, neizvršava odluke nadležnih sudova ili neizvršava poslove utvrđene ovim zakonom, statutom i drugim aktima Glavnog grada, čime se onemogućava ostvarivanje prava građana ili nanosi znatna materijalna šteta ili ako vrši poslove iz nadležnosti Glavnog grada suprotno odredbama ovog zakona, statuta i drugim aktima Glavnog grada, gradonačelnik će dostaviti Skupštini predlog za pokretanje postupka radi preduzimanja odgovarajućih mjera, u skladu sa zakonom.
+U slučaju iz stava 1 ovog člana, Skupština će upozoriti skupštinu gradske opštine da u određenom roku obezbijedi ostvarivanje svojih poslova, odnosno izvrši zakonom, statutom i drugim aktima Glavnog grada utvrđene obaveze.
+Ako skupština gradske opštine u roku iz stava 2 ovog člana ne uspostavi obavljanje svojih poslova, odnosno ne izvrši zakonom, statutom i drugim aktima Glavnog grada utvrđene obaveze, Skupština će, na predlog gradonačelnika, raspuštiti skupštinu gradske opštine.
+U slučaju raspuštanja skupštine gradske opštine,obavljanje poslova skupštine gradske opštine do njenog konstituisanja vrši predsjednik gradske opštine.
