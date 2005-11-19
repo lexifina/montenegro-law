@@ -1,0 +1,2 @@
+# Član 6
+Poslodavac za obavljanje poslova pripreme akata o procjeni rizika iz člana 2 stav 1 tačka 4 ovog pravilnika, u skladu sa metodologijom o načinu i postupku procjene rizika na radnom mjestu i mjerama za otklanjanje rizika ili svođenja na najmanju moguću mjeru mora imati u radnom odnosu najmanje pet stručnih lica, koji su različite visoke stručne spreme odgovarajućeg tehničkog i drugog smjera, sa najmanje tri godine radnog iskustva u struci i položenim stručnim ispitom.
