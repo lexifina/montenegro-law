@@ -1,0 +1,2 @@
+# Član 9
+Kandidatu koji ispuni uslove i položi ispit za priznavanje ovlašćenja za letenje na tipu višemotornog klipnog aviona u dozvoli će biti upisano ovlašćenje za letenje na klasi višemotornih klipnih aviona (MER), a kandidatu koji ispuni uslove i položi ispit za priznavanje instruktorstva na tipu aviona za čije je bezbjedno upravljanje dovoljan jedan pilot (SPA), u dozvoli će biti upisano ovlašćenje instruktora letenja na klasi aviona sa jednim pilotom (CRI(SPA)).

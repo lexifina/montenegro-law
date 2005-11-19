@@ -1,0 +1,3 @@
+# Član 5
+Uslovi pod kojima je dozvola stečena u inostranstvu, u pogledu obuke, vremena provedenog na određenim poslovima, vremena i strukture ostvarenog naleta, broja izvedenih skokova i slično, ne mogu biti blaži od uslova za sticanje takve dozvole u Srbiji i Crnoj Gori.
+Ukoliko se zahtjeva priznavanje inostrane dozvole profesionalnog ili transportnog pilota aviona ili helikoptera, a podnosilac zahtjeva ne ispunjava uslov iz stava 1. ovog člana, Direktorat civilnog vazduhoplovstva može, uz saglasnost podnosioca zahtjeva, izdati domaću dozvolu nižeg ranga, ako su ispunjeni ostali uslovi iz ovog pravilnika.

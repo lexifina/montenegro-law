@@ -1,0 +1,4 @@
+# Član 2
+Dozvole letačkog osoblja stečene u inostranstvu i ovlašćenja upisana u takve dozvole, mogu se priznati ako su te dozvole, odnosno ovlašćenja izdale vazduhoplovne vlasti države članice Organizacije međunarodnog civilnog vazduhoplovstva (ICAO) i ako su te dozvole, odnosno ovlašćenja predviđena Zakonom o vazdušnom saobraćaju i propisima donetim na osnovu njega.
+Izuzetno od stava 1. ovog člana, inostrane dozvole kabinskog osoblja, pilota zmaja, pilota paraglajdera i padobranca, mogu se priznati iako nijesu izdate od strane vazduhoplovnih vlasti države iz koje potiču, već od strane drugog tijela koje je po propisima te države ovlašćeno za njihovo izdavanje.
+Priznavanje dozvola i ovlašćenja letačkog osoblja vrši Direktorat civilnog vazduhoplovstva države Srbije i države Crne Gore (u daljem tekstu: Direktorat civilnog vazduhoplovstva), pod uslovima propisanim Zakonom o vazdušnom saobraćaju, i pod uslovima i po postupku koji su propisani ovim pravilnikom.

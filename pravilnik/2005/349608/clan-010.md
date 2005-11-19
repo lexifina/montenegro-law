@@ -1,0 +1,2 @@
+# Član 10
+Na osnovu sprovedenog postupka priznavanja, Direktorat civilnog vazduhoplovstva izdaje kandidatu dozvolu čiji je rok važenja jednak roku važenja inostrane dozvole koja je predmet priznavanja, odnosno u domaću dozvolu upisuje ovlašćenje čiji je rok važenja jednak roku važenja ovlašćenja koje je upisano u inostranu dozvolu, osim kada su ovi rokovi duži od onih koji su predviđeni domaćim propisima.
