@@ -1,0 +1,2 @@
+# Član 1
+Vlada Republike Crne Gore garantuje Državnoj zajednici Srbija i Crna Gora (u daljem tekstu: Srbija i Crna Gora),uredno vraćanje kredita, u iznosu od 11.500.000 € (jedanaest miliona i pet stotina hiljada eura), odobrenog od Evropske banke za obnovu i razvoj (u daljem tekstu: EBRD), za Projekat rekonstrukcije regionalnih puteva u Crnoj Gori, na način, pod uslovima i u rokovima predviđenim Sporazumom o zajmu za realizaciju projekta rekonstrukcije regionalnih puteva u Crnoj Gori (u daljem tekstu: Sporazum o zajmu), zaključenog između Republike Crne Gore i EBRD-a.
