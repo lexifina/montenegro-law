@@ -1,0 +1,4 @@
+# Član 2
+Sredstva za rad, u smislu ovog pravilnika, su:
+-sredstva za rad sa povećanim opasnostima po život i zdravlje zaposlenih (u daljem tekstu: određena sredstva za rad) koji sa njima rade i dolaze u dodir pri radu, a to su: prese, makaze, dizalice i druga sredstva unutrašnjeg transporta, građevinske mašine, mašine za obradu i preradu metala i sličnih materijala, mašine za obradu i preradu drveta i sličnih materijala, kupatila sa nitratnim solima, razvijači acetilena i acetilenske stanice, sudovi pod pritiskom i cijevna mreža, pokretni zatvoreni sudovi pod pritiskom i pripadajuća instalacija, kompresori i kompresorske stanice kao i elektroenergetske odnosno elektro i gromobranske instalacije i
+-sredstva za rad koja ne predstavljaju povećanu opasnost po život i zdravlje zaposlenih (u daljem tekstu: ostala sredstva za rad).
