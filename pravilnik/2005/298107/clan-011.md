@@ -1,0 +1,6 @@
+# Član 11
+Stočnom hranom, u smislu člana 24a stav 1 tačka 16 Zakona smatraju se sve materije ili proizvodi životinjskog ili biljnog porijekla, uključujući i aditive u prvobitnom prirodnom stanju, svježem ili konzerviranom, proizvode industrijske prerade i organske i anorganske materije koje su direktno ili nakon prerade namijenjene za ishranu životinja oralnim putem.
+Đubrivima, u smislu člana 24a stav 1 tačka 16 Zakona smatraju se đubriva životinjskog ili biljnog porijekla, nepomiješana ili međusobno pomiješana ili hemijski obrađena, đubriva dobijena miješanjem ili hemijskom obradom proizvoda životinjskog ili biljnog porijekla, kao i mineralna i hemijska đubriva (azotna, fosforna kalijumova i dr.).
+Sredstvima za zaštitu bilja, u smislu člana 24a stav 1 tačka 16 Zakona smatraju se hemijska i biološka sredstva kojima se sprečava pojava ili suzbijaju biljne bolesti, štetočine i korovi.
+Sjemenom za reprodukciju i sadnim materi-jalom, u smislu člana 24a stav 1 tačka 16 Zakona smatra se sjeme za reprodukciju životinja i sjeme i sadni materijal za reprodukciju bilja.
+Priplodnom stokom, u smislu člana 24a stav 1 tačka 16 Zakona smatraju se sve priplodne životinje muškog i ženskog pola namijenjene za razmnožavanje.
