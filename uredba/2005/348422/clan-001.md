@@ -1,0 +1,2 @@
+# Član 1
+Ovom uredbom uređuje se izgled i sadržaj kontrolne akcizne markice (u daljem tekstu: akcizna markica), način obilježavanja duvanskih proizvoda i alkoholnih pića tim markicama, način i postupak odobravanja, štampanja i izdavanja akciznih markica, i način vođenja evidencija o uništenim, izdatim, iskorišćenim, oštećenim i neiskorišćenim akciznim markicama, za duvanske proizvode i alkoholna pića.

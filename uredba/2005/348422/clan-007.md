@@ -1,0 +1,4 @@
+# Član 7
+Obilježavanje duvanskih proizvoda i alkoholnih pića, vrši se lijepljenjem akcizne markice na kutiji (paklici), odnosno flaši ili drugoj ambalaži u koju se pakuju odnosni proizvodi, na način koji obezbjeđuje vidljivost podataka.
+Akcizna markica za obilježavanje duvanskih proizvoda mora biti nalijepljena na ambalaži ispod celofanskog ili drugog omotača, tako da je vidljiva i da se ne može odstraniti, a da se ne ošteti ambalaža, osim kod originalne ambalaže za cigare i cigarilose, koja ne sadrži celofanski ili drugi omotač, gdje akcizna markica može biti nalijepljena direktno na ambalažu.
+Akcizna markica za obilježavanje alkoholnih pića lijepi se preko zatvarača flaše ili druge ambalaže, odnosno preko drugog mjesta predviđenog za otvaranje ambalaže, tako da se flaša ili druga ambalaža ne može otvoriti, a da se markica ne iscijepa.
