@@ -1,0 +1,9 @@
+# Član 7
+## Značenje izraza
+Pojedini izrazi upotrijebljeni u ovom zakonu imaju sljedeće značenje:
+1) planovi ili programi su svi razvojni planovi i programi i dokumenti, uključujući i njihove izmjene, koje priprema i/ili usvaja organ na republičkom ili lokalnom nivou ili koje nadležni organ priprema za usvajanje od strane skupštine ili Vlade Republike Crne Gore, odnosno skupštine ili izvršnog organa jedinice lokalne samouprave, kao i planovi ili programi čije je donošenje obavezno na osnovu propisa;
+2) strateška procjena uticaja planova ili programa na životnu sredinu je procjena mogućih uticaja na životnu sredinu, uključujući i zdravlje ljudi, koja se sastoji u pripremi izveštaja o strateškoj procjeni, sprovođenju postupka za učešće javnosti i konsultacija i uzimanje u obzir izvještaja o strateškoj procjeni i rezultata učešća javnosti i konsultacija u postupku odlučivanja i donošenja ili usvajanja određenih planova i programa;
+3) izvještaj o strateškoj procjeni je dio dokumentacije koja se prilaže uz plan ili program i sadrži identifikaciju, opis i procjenu mogućih značajnih uticaja na životnu sredinu, uključujući i prekogranične uticaje, zbog realizacije plana ili programa, kao i razmatrana i usvojena varijantna rješenja, uz vođenje računa o ciljevima i geografskom obuhvatu plana ili programa, kao i mjere za smanjenje negativnih uticaja na životnu sredinu;
+4) javnost je jedno ili više fizičkih ili pravnih lica, udruženja i organizacije;
+5) zainteresovana javnost je javnost na koju plan ili program utiče ili može uticati, uključujući i nevladine organizacije koje se bave zaštitom životne sredine i evidentirane su kod organa državne uprave nadležnog za zaštitu životne sredine u skladu sa zakonom;
+6) zainteresovani organi i organizacije su državni organi i organizacije i organi lokalne samouprave koji, u skladu sa svojim nadležnostima, imaju obavezu ili interes u donošenju odluka koje se odnose na zaštitu životne sredine.
