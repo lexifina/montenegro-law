@@ -1,0 +1,3 @@
+# Član 10
+Rješenje o zaradi poslanika,odnosno funkcionera donosi nadležno radno tijelo Sku-pštine, osim za generalnog sekretara Predsjednika, za koga rješenje donosi Predsjednik, generalnog sekretara Vlade i direktora Agencije, za koje rješenja donosi nadležno radno tijelo Vlade Republike Crne Gore ( u daljem tekstu: Vlada ) i za sudije i tužioce, za koje rješenje donosi starješina organa.
+Obračun dijela zarade na osnovu radnog staža, u skladu sa članom 7 ovog zakona, vrši nadležna obračunska služba na osnovu podataka koje joj dostavlja nadležna personalna služba organa u kojem poslanik,odnosno funkcioner ostvaruje zaradu.
