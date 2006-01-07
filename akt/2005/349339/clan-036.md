@@ -1,0 +1,2 @@
+# Član 36
+Danom stupanja na snagu ovog ugovora prestaju da važe: Posebni kolektivni ugovor za javne predškolske ustanove ("Službeni list RCG", broj 32/96), Posebni kolektivni ugovor za osnovne škole("Službeni list RCG", broj 32/96), Posebni kolektivni ugovor za srednje škole("Službeni list RCG", broj 32/96) i Posebni kolektivni ugovor za specijalne škole i zavode ("Službeni list RCG", broj 38/96).
