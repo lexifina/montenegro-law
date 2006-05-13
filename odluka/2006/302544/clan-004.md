@@ -1,0 +1,2 @@
+# Član 4
+Izgled s lica srebrenjaka (avers) od 5 i 2 perpera je sljedeći: u centralnom dijelu srebrenjaka nalazi se portret knjaza Nikole, lik glave, profilnog karaktera ovjenčan lovorovim vijencem, koji je okrenut u odnosu na vertikalnu osu kovanice na lijevu stranu, obodno je ćiriličnim pismom ispisan tekst: "Nikola I.B.M. Knjaz i gospodar Crne Gore", a u donjem dijelu srebrenjaka, ispod lika glave, jubilarne godine: 1860 - 1910.

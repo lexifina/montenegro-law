@@ -1,0 +1,2 @@
+# Član 7
+Izgled s lica srebrenjaka (avers) od jednog perpera je sljedeći: u centralnom dijelu srebrenjaka nalazi se portret Knjaza Nikole, profilnog karaktera, koji je okrenut u odnosu na vertikalnu osu srebrenjaka na desnu stranu, obodno je ćiriličnim pismom ispisan tekst "Nikola I B.M. Knjaz i gospodar Crne Gore". Ispod portreta nalazi se lovorova grančica koja u polukružnoj formi prati obod srebrenjaka.
