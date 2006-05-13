@@ -1,0 +1,7 @@
+Na osnovu čl. 18 i 25 Zakona o referendumu o državno-pravnom statusu Republike Crne Gore ("Službeni list RCG", broj 12/06), Republička komisija za sprovođenje referenduma o državnom statusu Republike Crne Gore, na sjednici od 11. maja 2006. godine, donijela je
+O D L U K U
+1. U postupku sprovođenja referenduma o državno-pravnom statusu Republike Crne Gore, koji će se održati 21. maja 2006. godine, shodno se primjenjuje Odluka broj 01-206 od 4. oktobra 2002. godine ("Službeni list RCG", br. 53/02), osim člana 4 stav 2. i člana 11, čija se sadržina uređuje ovom odlukom.
+2. Proces štampanja glasačkih listića u Štampariji "Obod" Cetinje mogu pratiti predstavnici međunarodnih i domaćih organizacija kojima je Republička komisija za sprovođenje referenduma o državnom statusu Republike Crne Gore izdala službena ovlašćenja za posmatranje referenduma o državno-pravnom statusu Republike Crne Gore, raspisanog za 21. maj 2006. godine.
+3. Ovjeravanje glasačkih listića vrši se nanošenjem pečata Republičke komisije za sprovođenje referenduma o državnom statusu Republike Crne Gore, mašinskim putem u procesu štampanja glasačkih listića, iznad napomene o načinu glasanja.
+Brojanje glasačkih listića, odvajanje broja glasačkih listića po opštinama i njihovo pakovanje obaviće članovi Republičke komisije za sprovođenje referenduma o državnom statusu Republike Crne Gore u prostorijama Štamparije "Obod" Cetinje.
+4. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom listu Republike Crne Gore".
