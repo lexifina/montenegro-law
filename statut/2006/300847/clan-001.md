@@ -1,0 +1,2 @@
+# Član 1
+LJekarska komora Crne Gore je profesionalna organizacija koju osnivaju doktori medicine i doktori stomatologije ( u daljem tekstu: doktori ) radi zaštite i daljeg razvoja stručnosti, medicinske etike, poboljšanja kvaliteta zdravstvene zaštite i zaštite profesionalnih interesa, sa pravima i obavezama utvrđenim Zakonom o zdravstvenoj zaštiti ( " Službeni list RCG " br. 39 od 9. juna 2004. godine ) i ovim Statutom.
