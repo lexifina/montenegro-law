@@ -1,0 +1,2 @@
+Na osnovu člana 12 tačka 10 i člana 39 stav 3 Zakona o telekomunikacijama ("Službeni list Republike Crne Gore", broj 59/00) i Pravilnika o obrascima i naknadama za izdavanje dozvola za radio stanice ("Službeni list Republike Crne Gore", broj 66/03), Agencija za telekomunikacije i poštansku djelatnost (u daljem tekstu: Agencija) donosi
+PRAVILNIK O PODACIMA I DOKUMENTACIJI KOJA SE PODNOSI UZ ZAHTJEV ZA IZDAVANJE DOZVOLA ZA RADIO STANICE
