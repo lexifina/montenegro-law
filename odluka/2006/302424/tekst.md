@@ -1,0 +1,9 @@
+Izvršavajući odluku građana Crne Gore da se obnovi nezavisnost države Crne Gore i njen puni međunarodno pravni subjektivitet, slobodno donesenu na referendumu od 21. maja 2006. godine organizovanom u partnerstvu sa Evropskom Unijom i utvrđenu Izvještajem Republičke komisije za sprovođenje referenduma o državno - pravnom statusu Republike Crne Gore, koristeći pravo iz člana 2 Ustava Republike Crne Gore i člana 60. Ustavne povelje državne zajednice Srbija i Crna Gora,
+Skupština Republike Crne Gore, na svečanoj - šestoj sjednici prvog redovnog zasijedanja u 2006. godini, dana 3. juna 2006. godine, na osnovu člana 81 tačka 2 Ustava Republike Crne Gore, donijela je
+O D L U K U O PROGLAŠENJU NEZAVISNOSTI REPUBLIKE CRNE GORE
+1. Republika Crna Gora je nezavisna država sa punim međunarodno-pravnim subjektivitetom u njenim postojećim državnim granicama.
+2. Republika Crna Gora, obnovom državne nezavisnosti, preuzima sve poslove koje je usvajanjem Ustavne povelje državne zajednice Srbija i Crna Gora povjerila da vrše institucije državne zajednice.
+3. Republika Crna Gora primjenjivaće i preuzeće međunarodne ugovore i sporazume koje je zaključila i kojima je pristupila državna zajednica Srbija i Crna Gora, a koji se odnose na Crnu Goru i koji su u saglasnosti sa njenim pravnim poretkom.
+4. Do donošenja odgovarajućih propisa Republike Crne Gore, shodno će se primjenjivati kao njeni propisi oni koji su na dan stupanja na snagu ove odluke važili kao propisi državne zajednice Srbija i Crna Gora, ako nijesu u suprotnosti sa pravnim poretkom i interesima Republike Crne Gore.
+5. Republika Crna Gora urediće način preuzimanja poslova koji su do sada vršile institucije državne zajednice Srbija i Crna Gora i posebnim aktima Skupštine i Vlade Republike Crne Gore utvrdiće i objaviti načela na kojima će se izgrađivati i voditi unutrašnja i spoljna politika.
+6. Ova odluka stupa na snagu danom donošenja, a objaviće se "Službenom listu Republike Crne Gore".
