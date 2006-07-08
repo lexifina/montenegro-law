@@ -1,0 +1,4 @@
+# Član 50
+Kada plovni objekat namjerava da svrati u luku radi iskrcaja bolesnog ili povrijeđenog člana posade, putnika ili drugog lica radi pružanja hitne medicinske pomoći, zapovjednik mora, što je ranije moguće obavijestiti lučke vlasti dajući što je više moguće detalja o bolesti ili povredi kao i identitetu i statusu bolesnog odnosno povrijeđenog lica.
+Lučke vlasti će, po mogućnosti direktnom komunikacionom vezom ili drugim najbržim načinom, prije dolaska plovnog objekta obavijestiti zapovjednika o proceduri i dokumentima potrebnim za pravovremen iskrcaj bolesnog ili povrijeđenog lica kao i otpremu plovnog objekta bez zadržavanja.
+Plovnom objektu koji skreće u luku radi iskrcaja bolesnog ili povrijeđenog lica i namjerava odmah isploviti, lučke vlasti neće tražiti dokumente navedene u članu 31 ove uredbe, sa izuzetkom zdravstvene izjave i ako je to potrebno, opšte izjave.

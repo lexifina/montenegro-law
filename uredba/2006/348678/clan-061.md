@@ -1,0 +1,3 @@
+# Član 61
+Korisnici ili vlasnici objekata ili sredstava izgrađenih ili postavljenih na obali ili obalnom moru, dužni su ih održavati u stanju koje ne predstavlja opasnost za ljudske živote i bezbjednost plovidbe kao i zagađenja mora. Ako takvi objekti ili sredstva ugrožavaju ili mogu ugroziti ljudske živote, bezbjednost plovidbe ili zagaditi more, Kapetanija će odrediti mjere koje se moraju preduzeti da se ti objekti odnosno sredstva dovedu u ispravno stanje, ili će narediti njihovo uklanjanje.
+Ako se na objektima i sredstvima izgrađenim ili postavljenim na obali nalazi noćno spoljašnje osvjetljenje, na svjetiljkama se moraju postaviti štitnici prema plovnom putu.

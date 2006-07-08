@@ -1,0 +1,3 @@
+# Član 41
+Nakon završenog ukrcaja odnosno iskrcaja tereta ili putnika, svaki plovni objekat u luci mora biti spreman da isplovi po isteku vremena potrebnog za pripremu plovnog objekata za plovidbu, po lučkim uzansama. Na zahtjev lica koje upravlja lukom, plovni objekat mora isploviti ili se premjestiti, po isteku vremena potrebnog za pripremu plovnog objekta za plovidbu.
+Izuzetno od odredbe stava 1 ovog člana, na zahtjev lica koje upravlja plovnim objektom Kapetanija može odobriti i duže vrijeme za pripremu plovnog objekta za plovidbu na istom ili drugom vezu odnosno sidrištu kojeg odredi korisnik luke, ako se radi o radnjama vezanim za bezbjednost plovidbe.

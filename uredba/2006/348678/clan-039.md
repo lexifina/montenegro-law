@@ -1,0 +1,2 @@
+# Član 39
+Ako Kapetanija utvrdi da je plovni objekat, koji namjerava isploviti iz luke, ukrcao veći broj putnika ili veću količinu tereta nego što je dozvoljeno ili da je teret ukrcan, složen i osiguran tako da ugrožava bezbjednost plovnog objekta i lica na njemu, zabraniće plovnom objektu isplovljenje dok se ne iskrcaju prekobrojni putnici, odnosno dok se teret ne ukrca, složi i osigura na propisani način.
