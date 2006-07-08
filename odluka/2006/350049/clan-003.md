@@ -1,0 +1,3 @@
+# Član 3
+Početna visina koncesione naknade odnosi se na davanje šuma na korišćenje, kao i ustupanje drugih poslova iz člana 51 Zakona o šumama (uzgoj šuma, izgradnju i održavanje šumskih saobraćajnica, zaštitu šuma) preduzećima registrovanim u skladu sa čl. 9 i 16 tačka 5 Zakona o šumama, od strane Uprave za šume Pljevlja, putem ugovora na osnovu konkursa, u Područnoj jedinici iz člana 1 ove odluke.
+Početna visina koncesione naknade od 2007. godine utvrđuje se na nivou 13 gazdinskih jedinica Područne jedinice Pljevlja, vodeći računa o drvnoj masi, vrsti drveta, uslovima korišćenja šuma, obimu i vrijednosti poslova na šumsko- uzgojnim radovima utvrđenim važećim osnovama, izgradnji i održavanju puteva i zaštiti šuma i to za četinare 13,50 E i za lišćare 6,00 E.
