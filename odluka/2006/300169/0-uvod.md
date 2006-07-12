@@ -1,0 +1,2 @@
+Na osnovu člana 81 tačka 2 Ustava Republike Crne Gore i člana 3 stav 4 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02 i 45/04), Skupština Republike Crne Gore, na sedmoj sjednici prvog redovnog zasijedanja u 2006. godini, dana 10. jula 2006. godine, donijela je
+O D L U K U O UTVRĐIVANJU BROJA POSLANIKA KOJI SE BIRA U SKUPŠTINU REPUBLIKE CRNE GORE NA IZBORIMA U 2006. GODINI
