@@ -1,0 +1,26 @@
+{
+  "id": 349782,
+  "path": "zakon/2006/349782",
+  "source": "https://www.sluzbenilist.me/propisi/349782",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/349782/download",
+  "title": "Zakon o potvrdjivanju sporazuma izmedju Republike Srbije i Republike Crne Gore o regulisanju clanstva u medjunarodnim finansijskim organizacijama i razgranicenju finansijskih prava i obaveza",
+  "issue": "Službeni list Republike Crne Gore, broj 45/2006",
+  "published": "2006-07-17",
+  "in_force": "2006-07-17",
+  "in_force_basis": "Ovaj zakon stupa na snagu danom objavljivanja u \"Službenom listu Republike Crne Gore\"",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "f4756ade44f9c562177c6c12cc61e597b8c5fb4541ea9065259f7e63eaaac21e",
+  "articles_in_source": 30,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 15593,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "92ff377b025346400e20d968b0fe89abb19af4f2107fbffe3b62cfb9fbec4743"
+}
