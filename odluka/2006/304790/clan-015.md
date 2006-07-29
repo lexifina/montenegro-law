@@ -1,0 +1,2 @@
+# Član 15
+Ministarstvo nadležno za inostrane poslove vodi evidenciju o izdatim diplomatskim i službenim pasošima i vizama na te pasoše, kao i o nestalim, nevažećim i oduzetim pasošima i poništenim vizama, u skladu sa Odlukom o načinu vođenja evidencije o izdatim putnim ispravama i vizama, o odbijenim zahtjevima za izdavanje putnih isprava i viza, o oduzetim putnim ispravama i poništenim vizama i nevažećim putnim ispravama ("Službeni list SRJ", broj 5/97).

@@ -1,0 +1,5 @@
+# Član 2
+Putne isprave i vize utvrđene Zakonom o putnim ispravama jugoslovenskih državljana ("Službeni list SRJ", br. 33/96, 12/98, 44/99, 71/01, 23/02, 68/02 i 5/03), čiji su obrasci utvrđeni Odlukom o obrascima putnih isprava i viza ("Službeni list SRJ", br. 57/96, 14/97 i 4/98 i "Službeni list SCG", broj 18/03), koriste se privremeno kao putne isprave i vize Crne Gore.
+Zahtjev za izdavanje pasoša, zajedničkog pasoša, diplomatskog pasoša, službenog pasoša i vize podnosi se na obrascu propisanim Odlukom o obrascu zahtjeva za izdavanje putne isprave i vize ("Službeni list SRJ", broj 5/97).
+Evidencija o izdatim putnim ispravama i vizama vodi se na način propisan Odlukom o načinu vođenja evidencije o izdatim putnim ispravama i vizama, o odbijenim zahtjevima za izdavanje putnih isprava i viza, o oduzetim putnim ispravama i poništenim vizama i nevažećim putnim ispravama ("Službeni list SRJ", broj 5/97).
+Viza na pomorsku i brodarsku knjižicu izdaje se na način propisan Odlukom o načinu izdavanja vize na pomorsku i brodarsku knjižicu ("Službeni list SRJ", broj 5/97).
