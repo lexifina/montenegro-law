@@ -1,0 +1,26 @@
+{
+  "id": 348642,
+  "path": "zakon/2006/348642",
+  "source": "https://www.sluzbenilist.me/propisi/348642",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/348642/download",
+  "title": "Zakon o izmjenama i dopunama Zakonika o krivicnom postupku",
+  "issue": "Službeni list Republike Crne Gore, broj 47/2006",
+  "published": "2006-07-25",
+  "in_force": "2006-08-02",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu Republike Crne Gore\"",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "e2d66b5270404493c42708a0ecef0bde53ca4573cbecfbdb17507e08950610fb",
+  "articles_in_source": 72,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 18812,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "67611208f997293bee68abf223c689b792a8e55ce8df8436b6cfac191ea98925"
+}
