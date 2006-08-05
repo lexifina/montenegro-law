@@ -1,0 +1,5 @@
+# Član 2
+Amnestija se ne odnosi na lica:
+1) koja su pravosnažno osuđena za krivično djelo trgovine ljudima iz Krivičnog zakona Republike Crne Gore ("Službeni list RCG", br. 42/93, 14/94, 27/94 i 30/02) i krivično djelo ratnog zločina protiv civilnog stanovništva iz Krivičnog zakona SRJ ("Službeni list SFRJ", br. 44/76, 34/84, 74/87, 57/89, 3/90 i 38/90 i "Službeni list SRJ", br. 35/92, 37/93, 24/94 i 61/01) ili krivično dijelo ratnog zločina protiv civilnog stanovništva i trgovine ljudima iz Krivičnog zakonika Republike Crne Gore ("Službeni list RCG", br. 70/03) kao i za krivična djela protiv čovječnosti i drugih dobara zaštićenih međunarodnim pravom.
+2) protiv kojih je na dan stupanja na snagu ovog zakona naređeno izdavanje potjernice zbog nejavljanja na izdržavanje kazne zatvora ili zbog bjekstva sa izdržavanja kazne zatvora.
+Zavod za izvršenje krivičnih sankcija ili sud koji je naredio izdavanje potjernice dužan je da o tome obavijesti sud nadležan za primjenu amnestije, u roku od tri dana od dana stupanja na snagu ovog zakona.
