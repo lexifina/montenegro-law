@@ -1,0 +1,3 @@
+# Član 2
+Obrasci saobraćajne dozvole za registrovano vozilo i potvrde o privremenoj registraciji vozila, utvrđeni Pravilnikom o registraciji motornih i priključnih vozila ("Službeni list SFRJ", br. 74/89, 7/92, 22/92 i 25/92 i "Službeni list SRJ", br. 50/92 i 44/98) i obrazac vozačke dozvole utvrđen Pravilnikom o obrascu vozačke dozvole ("Službeni list SFRJ", broj 50/88) i Uredbom o upotrebi naziva Srbija i Crna Gora u javnim ispravama ("Službeni list RCG", broj 33/04), koriste se privremeno kao saobraćajne dozvole, potvrde o privremenoj registraciji vozila i vozačke dozvole Crne Gore.
+Na obrascima saobraćajne i vozačke dozvole, ispred serijskog broja obrasca, je oznaka "CG".
