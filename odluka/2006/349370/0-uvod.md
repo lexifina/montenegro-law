@@ -1,0 +1,2 @@
+Na osnovu člana 25 Zakona o hartijama od vrijednosti ("Službeni list RCG", broj 59/00), člana 25 Zakona o povraćaju oduzetih imovinskih prava i obeštećenju ("Službeni list RCG", broj 21/04) i člana 6 Odluke o obrazovanju Fonda za obeštećenje ("Službeni list RCG", broj 57/04), Upravni odbor Fonda za obeštećenje, na sjednici od 28.07.2006. godine, donosi
+O D L U K U O IZMJENI I DOPUNI ODLUKE O EMISIJI OBVEZNICA REPUBLIKE
