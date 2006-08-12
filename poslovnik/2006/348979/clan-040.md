@@ -1,0 +1,3 @@
+# Član 40
+## Odbor za politički sistem, pravosuđe i upravu
+Odbor za politički sistem, pravosuđe i upravu razmatra predloge zakona, drugih propisa i opštih akata i druga pitanja koja se odnose na: osnivanje, organizaciju i nadležnost organa vlasti i postupak pred tim organima; sistem lokalne samouprave; državne simbole; upotrebu nacionalnih simbola; državne praznike; republičko državljanstvo; izborni sistem; referendum; teritorijalnu organizaciju Republike; organizaciju i položaj glavnog grada i prestonice; medijski i radiodifuzni sistem; krivična i druga djela, odgovornost i kazne; amnestiju, pomilovanje i pravnu pomoć.

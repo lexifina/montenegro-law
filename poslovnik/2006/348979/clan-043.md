@@ -1,0 +1,3 @@
+# Član 43
+## Odbor za ekonomiju, finansije i buxet
+Odbor za ekonomiju, finansije i buxet razmatra predloge zakona, drugih propisa i opštih akata i druga pitanja koja se odnose na: razvoj i strategiju ekonomskog razvoja Republike; uslove za djelovanje tržišta i tržišne konkurencije; privređivanje, preduzetništvo i investiciona ulaganja; prirodna bogatstva, energetiku, rudarstvo, industriju, pomorstvo, saobraćaj i trgovinu; buxet Republike i završni račun buxeta Republike; finansijska prava i obaveze Republike; poreze i druge dažbine; carine; banke; hartije od vrijednosti; kredite, javne zajmove i zaduživanje Republike; osiguranje imovine i lica; igre na sreću; imovinsko-pravne, svojinske i obligacione odnose.

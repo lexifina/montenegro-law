@@ -1,0 +1,3 @@
+# Član 7
+Na prvoj sjednici Skupštine predsjedavajući konstatuje da je Republička izborna komisija podnijela Izvještaj o sprovedenim izborima i objavljuje da je podnošenjem izvještaja Republičke izborne komisije započeo mandat novoizabranim poslanicima, a potom se vrši izbor predsjednika i potpredsjednika Skupštine i izbor predsjednika i članova Administrativnog odbora.
+Konstatovanje mandata poslanika prilikom popune upražnjenog poslaničkog mjesta u toku trajanja mandata Skupštine vrši se objavom predsjednika Skupštine da je Republička izborna komisija podnijela Izvještaj o popuni upražnjenog poslaničkog mjesta.
