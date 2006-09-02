@@ -1,0 +1,2 @@
+# Član 1
+Dobra nacionalnih parkova u državnoj svojini, kojima upravlja i gazduje Javno preduzeće za nacionalne parkove Crne Gore (u daljem tekstu: Javno preduzeće), daju se na korišćenje domaćim i stranim pravnim i fizičkim licima, na način, pod uslovima i na vrijeme utvrđeno ovom odlukom za obavljanje djelatnosti dozvoljene zakonom, u skladu sa prostornim planovima područja posebne namjene, programima zaštite i razvoja nacionalnih parkova i Pravilnikom o unutrašnjem redu u nacionalnim parkovima.

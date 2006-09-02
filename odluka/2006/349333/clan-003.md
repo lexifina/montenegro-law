@@ -1,0 +1,2 @@
+# Član 3
+Zemljište, vodene površine, zgrade, građevinski objekti, uređene površine, materijal iz vodotoka i treset za hortikulturu iz Skadarskog jezera daju se na privremeno korišćenje privrednim društvima, pravnim licima, preduzetnicima i fizičkim licima ugovorom, nakon sprovedenog postupka po javnom pozivu, koji se objavljuje preko dnevnog štampanog medija koji se distribuira na čitavoj teritoriji Republike Crne Gore.

@@ -1,0 +1,6 @@
+# Član 12
+Sanitarno uzgojna sječa, izvlačenje stabala, pošumljavanje, kresanje, sakupljanje lisnika i suzbijanje štetnih insekata u nacioanlnim parkovima većeg obima i stepena složenosti može se povjeriti privrednom društvu, ili poduzetniku, ugovorom po sprovedenom postupku javnog oglašavanja.
+Sanitarno uzgojna sječa, izvlačenje stabala, kresanje, sakupljanje lisnika, četine, stelje, trave, mahovine, šumskog šušnja i sjemena, na područjima utvrđenim u skladu sa prostornim planom i godišnjim programom zaštite i razvoja nacionalnog parka, za potrebe domaćinstava odnosno manjeg stepena složenosti može se dozvoliti po zahtjevu fizičkag lica ili predzetnika.
+Sanitarna uzgojna sječa, izvlačenje stabala, pošumljavanje, kresanje, sakupljanje lisnika, četine, stelje, trave, mahovine, šumskog šušnja i sjemena u nacioanlnim parkovima može se obavljati samo u vrijeme vegetativnog mirovanja (jesen, zima, rano proljeće).
+Ispaša i puštanje domaćih životinja može se dozvoliti, po zahtjevu fizičkog lica, na područjima utvrđenim u skladu sa prostornim planom i godišnjim programom zaštite i razvoja nacionalnog parka, na period do šest mjeseci.
+Dozvolom iz st. 2 i 4 ovog člana određuje se područje i način na koji se smije vršiti sječa, sakupljanje, branje, ispaša odnosno puštanje domaćih životinja.
