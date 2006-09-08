@@ -1,0 +1,2 @@
+Na osnovu člana 18 Zakona o rudarstvu ("Službeni list RCG", broj 28/93) i člana 12 stav 3 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG", br. 15/94 i 4/97), Vlada Republike Crne Gore, na sjednici od 24. avgusta 2006. godine, donijela je
+ODLUKU O DAVANJU SAGLASNOSTI ZA IZMJENU UGOVORA O PRAVU NA DETALJNA GEOLOŠKA ISTRAŽIVANJA I EKSPLOATACIJU TEHNIČKO- GRAĐEVINSKOG KAMENA NA LEŽIŠTU "VOLUJICA" U LUCI BAR
