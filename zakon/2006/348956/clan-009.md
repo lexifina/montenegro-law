@@ -1,0 +1,2 @@
+# Član 9
+Odredbe Statuta Fonda i Banke i to (i) prva rečenica člana VIII, Odjeljak 2 (b), člana IX, Odjeljak 2 do zaključno sa odjeljkom 9 i člana XXI (b) Statuta Fonda; (ii) člana VII, Odjeljak 2 do zaključno sa odjeljkom 9, Statuta Banke; (iii) člana VI, Odjeljak 2 do zaključno sa odjeljkom 9 Statuta Korporacije; (iv) člana VIII, Odjeljak 2 do zaključno sa odjeljkom 9 Statuta Udruženja; i Konvencije o osnivanju Agencije, koji su odštampani u prilozima I, II, III, IV i V ovog zakona, neposredno se primjenjuju u Republici.

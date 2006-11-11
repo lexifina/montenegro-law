@@ -1,0 +1,3 @@
+# Član 4
+Centralna banka Crne Gore (u daljem tekstu: Centralna banka) određuje se za fiskalnog agenta u skladu sa članom V, odjeljak 1. Statuta Fonda i ovlašćena je da u ime Republike obavlja sve poslove i transakcije predviđene odredbama Statuta Fonda.
+Ministarstvo finansija (u daljem tekstu: Ministarstvo) određuje se za fiskalnog agenta u skladu sa članom III, odjeljak 2 Statuta Banke, i instituciju preko koje će se ostvarivati komunikacija sa Korporacijom, Udruženjem i Agencijom, saglasno članu IV, odjeljak 10 Statuta Korporacije, članu II, odjeljak 10 Statuta Udruženja, i članu 38 Konvencije o osnivanju Agencije.

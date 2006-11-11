@@ -1,0 +1,3 @@
+# Član 3
+Vlada je ovlašćena da se zadužuje ili na bilo koji drugi način obezbjeđuje sredstva, kojima će u ime Republike povremeno vršiti plaćanja prema Fondu, Banci, Korporaciji, Udruženju i Agenciji, na način i pod uslovima utvrđenim odlukama koje se odnose na članstvo Republike u tim finansijskim institucijama i u skladu sa njihovim statutima odnosno Konvencijom o osnivanju Agencije i da vrši plaćanja u vezi sa učešćem Republike u Odjeljenju za Specijalna Prava Vučenja Fonda.
+Vlada je ovlašćena da u skladu sa statutima Fonda, Banke, Korporacije Udruženja i Konvencijom o osnivanju Agencije izdaje neprenosive obavezujuće beskamatne zapise koji budu potrebni ili odgovarajući, a odnose se na članstvo Republike u Fondu, Banci, Udruženju ili Agenciji.
