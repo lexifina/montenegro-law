@@ -1,0 +1,3 @@
+# Član 1
+U Odluci o visini naknada za rad Komisije za hartije od vrijednosti ("Službeni list RCG", br. 73/04, 27/05, 65/05 i 80/05) u članu 2 stav 1 tačka 10) mijenja se i glasi:
+"10) naknade koju, pri prijavljivanju za pohađanje obuke, plaćaju fizička lica - kandidati, odnosno pravna lica koja ih šalju, za sticanje zvanja investicionog savjetnika, brokera, dilera ili investicionog menaxera investicionog ili penzionog fonda - u visini od 400 EUR za sticanje zvanja investicionog savjetnika i brokera, odnosno u visini od 500 EUR za sticanje zvanja dilera ili investicionog menaxera investicionog ili penzionog fonda".
