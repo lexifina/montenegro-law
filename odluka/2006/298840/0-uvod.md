@@ -1,0 +1,6 @@
+Na osnovu člana 14 Zakona o eksproprijaciji ("Službeni list RCG", broj 55/00), Vlada Republike Crne Gore, na sjednici održanoj 26. oktobra 2006. godine, donijela je
+ODLUKU
+O UTVRĐIVANjU JAVNOG INTERESA ZA EKSPROPRIJACIJU
+NEPOKRETNOSTI RADI REKONSTRUKCIJE DIONICE MAGISTRALNOG
+PUTA OD VIRPAZARA DO RASKRSNICE NA SJEVERNI PRIKLjUČNI PUT
+ZA TUNEL "SOZINA"
