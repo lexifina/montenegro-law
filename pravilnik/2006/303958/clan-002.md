@@ -1,0 +1,2 @@
+# Član 2
+Služba obezbjeđenja, u skladu sa zakonom, propisima donesenim na osnovu zakona i ovim pravilnikom, u Zavodu čuva osuđena, pritvorena, prekršajno kažnjena, maloljetna i oboljela lica u Zavodu i van njega, sprovodi osuđena i pritvorena lica, održava unutrašnji red i disciplinu osuđenih i pritvorenih lica, vrši poslove hvatanja odbjeglih osuđenih i pritvorenih lica, obezbjeđuje imovinu i objekte u kojima se osuđena i pritvorena lica nalaze, borave i rade.

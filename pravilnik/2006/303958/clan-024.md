@@ -1,0 +1,2 @@
+# Član 24
+Službenici obezbjeđenja koji vrše poslove obezbjeđenja putem patrole dužni su da štite lica, objekte i imovinu Zavoda, sprečavaju kretanje nepozvanih lica u zaštićenom prostoru Zavoda, zaustavljaju takva lica, utvrđuju njihov indentitet i razloge kretanja u patrolnom području i istovremeno obavještavaju neposrednog starješinu koji odlučuje o daljem postupku prema tim licima, te o svim bezbjednosnim zapažanjima podnose pismeni izvještaj.

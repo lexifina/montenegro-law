@@ -1,0 +1,21 @@
+# Član 12
+Službenik obezbjeđenja dužan je da poznaje način vršenja poslova obezbjeđenja, kao i poslove i zadatke službeničkog mjesta na koje je raspoređen, pa je u tom cilju dužan da:
+-na vrijeme prima dužnost i poslove vrši neprekidno do prijema sledeće smjene;
+-vrši dužnost shodno uputstvima za odgovarajuće poslove i zadatke i da pri vršenju dužnosti primjenjuje sredstva, mjere i metode rada u skladu sa propisanim ovlašćenjima i saglasno naređenju nadležnog ovlašćenog lica;
+-prije primanja dužnosti se javi neposrednom starješini na smotru radi pregleda oružja i opreme;
+-primopredaju dužnosti izvrši prema upu-tstvima za te poslove i zadatke;
+-na propisan način održava vezu sa drugim službenicima obezbjeđenja na dužnosti, šefom smjene i rukovodiocem službe obezbjeđenja, kao i sa drugim starješinama ako to situacija nalaže i u slučaju potrebe drugom službeniku pritekne u pomoć;
+-spriječi bjekstvo lica lišenog slobode;
+-sprečava narušavanje pravila o kućnom redu i discipline od strane osuđenog ili pritvorenog lica i otkriva povrede discipline i druge protivpravne radnje učinjene od strane ovih lica;
+-onemogućava samopovređivanje lica lišenih slobode i pruža pomoć povrijeđenim;
+-sprečava oštećenje objekata, instalacija, mašina, alata i druge imovine;
+-na vrijeme obavještava neposrednog starješinu o svojim zapažanjima za vrijeme vršenja službe;
+-alarmira i hitno interveniše u slučaju pobune, bjekstva, požara i drugih elementarnih nepogoda;
+-u međusobnim službenim odnosima oslovljava druge službenike obezbjeđenja prema zvanju i položaju i podnosi raport neposrednom starješini;
+-svojim ponašanjem u službi i van nje, doprinosi razvoju međuljudskih odnosa i jedinstva službe, čuva svoj ugled i ugled Zavoda;
+-poslove vrši u propisanoj, urednoj i čistoj uniformi, uredno obrijan i podšišan;
+-poznaje rukovanje i pravilnu upotrebu vatrenog oružja i druge opreme koja mu je u vršenju posla povjerena;
+-pohađa nastavu koja se organizuje radi obučavanja, obrazovanja i stručnog usavršavanja, kao i praktične vježbe koje se organizuju u cilju održavanja fizičke kondicije i spremnosti za vršenje službenih zadataka;
+-učestvuje u gađanju iz vatrenog oružja koje se organizuje u cilju postizanja većeg stepena obučenosti;
+-vodi propisane evidencije;
+-vrši i druge poslove po naređenju neposrednog starješine.

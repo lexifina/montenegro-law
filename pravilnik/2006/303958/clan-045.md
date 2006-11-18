@@ -1,0 +1,2 @@
+# Član 45
+Sprovođenje lica lišenih slobode, sredstvima javnog saobraćaja vrši se na način kojim se mogućnost bjekstva svodi na najmanju mjeru i po mogućnosti odvojeno od ostalih putnika. U tom cilju sprovodnik sa licima koja sprovodi, ulazi i izlazi na početnoj ili krajnjoj stanici poslije ostalih putnika. Lica koja se sprovode smještaju se što dalje od vrata, a kad je to moguće vrata i prozori se drže zatvoreni.

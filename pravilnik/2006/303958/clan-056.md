@@ -1,0 +1,2 @@
+# Član 56
+Sredstvo prinude se neće upotrijebiti prema licu lišenom slobode koje je očigledno bolesno, staro, iznemoglo ili je teški invalid, kao i prema ženskom licu lišenom slobode čija je trudnoća vidljiva, osim ako takvo lice vatrenim oružjem ili drugim opasnim sredstvom neposredno ugrožava život službenog lica ili ako se pruženi otpor ne može na drugi način savladati i narušeni red i mir uspostaviti.

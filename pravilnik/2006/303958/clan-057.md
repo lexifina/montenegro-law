@@ -1,0 +1,5 @@
+# Član 57
+O upotrebi sredstava prinude službenik obezbjeđenja je dužan da odmah sačini pismeni izvještaj u koji unosi podatke o: licu prema kome je sredstvo prinude upotrijebljeno, razlozima i načinu upotrebe i nastalim posledicama. Rukovodilac službe obezbjeđenja dužan je da odmah po prijemu izvještaja provjeri navode u izvještaju i da ga zajedno sa svojim mišljenjem i mišljenjem načelnika dostavi direktoru.
+O upotrebi gumene palice, vatrenog oružja, hemijskih sredstava, šmrkova sa vodom, specijalno obučenih pasa, direktor je dužan da u roku od tri dana od dana dobijanja izvještaja iz stava 1 ovog člana, dostavi Ministarstvu pravde pismeni izvještaj sa utvrđenim činjenicama i ocjenom o pravilnosti upotrebe sredstava prinude.
+O upotrebi fizičke snage direktor će obavijestiti Ministarstvo pravde samo ako je nastupila teška tjelesna povreda lica nad kojim je fizička snaga upotrijebljena.
+O upotrebi sredstava prinude prema pritvorenom licu direktor je dužan da obavijesti i predsjednika suda koji vrši nadzor u pogledu zakonitog postupanja prema pritvorenicima u Zavodu.
