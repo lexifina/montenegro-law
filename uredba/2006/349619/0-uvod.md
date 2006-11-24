@@ -1,0 +1,2 @@
+Na osnovu člana 79 Zakona o učešću privatnog sektora u vršenju javnih usluga ("Službeni list RCG", broj 30/02), a u skladu sa Strategijom o razvoju i izgradnji malih hidroelektrana Vlada Republike Crne Gore na sjednici od 8. novembra 2006.godine, donijela je
+UREDBU O NAČINU I USLOVIMA DODJELE KONCESIJA ZA ISTRAŽIVANJE VODOTOKA I TEHNO- EKONOMSKO KORIŠĆENJE VODNOG ENERGETSKOG POTENCIJALA ZA PROIZVODNJU ELEKTRIČNE ENERGIJE U MALIM HIDROELEKTRANAMA
