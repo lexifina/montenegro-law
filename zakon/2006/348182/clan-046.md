@@ -1,0 +1,2 @@
+# Član 46
+O podnijetim zahtjevima za upis u imenik advokata, imenik zajedničkih advokatskih kancelarija, imenik advokatskih ortačkih društava, imenik advokatskih pripravnika, zahtjevu za privremeni prestanak bavljenja advokaturom, zahtjevu za nastavak bavljenja advokaturom, zahtjevu za preseljenje advokatske kancelarije i drugim zahtjevima, nadležni organ Advokatske komore je dužan da donese odluku u roku od 30 dana od dana podnošenja zahtjeva.

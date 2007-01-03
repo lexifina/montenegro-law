@@ -1,0 +1,3 @@
+# Član 52
+Advokatska komora je obavezna da sudovima i drugim organima dostavi spisak advokata upisanih u imenik Advokatske komore, sa potrebnim podacima, u skladu sa pravilima Advokatske komore, radi određivanja branilaca po službenoj dužnosti u predkrivičnim i krivičnim postupcima.
+Advokatska komora je obavezna da sudovima i drugim organima dostavi spisak advokata upisanih u imenik Advokatske komore, sa potrebnim podacima, u skladu sa pravilima Advokatske komore, da u parničnim, vanparničnim, izvršnim, upravnim i drugim postupcima kao postavljeni zastupnici, privremeni zastupnici, privremeni staraoci ili punomoćnici za prijem pismena pruže stručnu i efikasnu pravnu pomoć strankama.
