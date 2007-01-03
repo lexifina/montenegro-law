@@ -1,0 +1,3 @@
+Na osnovu člana 13 stav (3) Zakona o energetici ("Službeni list RCG", broj 39/03), člana 10 stav 10.2. Pravilnika o licencama u energetskom sektoru Crne Gore ("Službeni list RCG", broj 50/04), člana 24 stav (1) tačka (3) Statuta Regulatorne agencije za energetiku ("Službeni list RCG", broj 31/04) i Finansijskog plana Regulatorne agencije za energetiku za 2007.godinu koji je Skupština Republike Crne Gore usvojila Odlukom SU-SK broj 01-603/4 od 11.decembra 2006.godine, Odbor Agencije na sjednici održanoj 22. decembra 2006. godine, donio je
+ODLUKU
+O UTVRĐIVANjU IZNOSA NAKNADA ZA LICENCE ZA 2007.GODINU
