@@ -1,0 +1,8 @@
+# Član 2
+Visina naknade za izdavanje dozvole za stavljanje lijeka u promet, iznosi za:
+Iznos u EUR 1. Stručno mišljenje o razvrstavanju proizvoda u lijek ili grupu lijekova ..... ................... ........................................................................................... 100,00 2. Procjenu dokumentacije u postupku izdavanja dozvole za stavljanje lijeka u promet .. ....................................... ..................................................... 80,00 3. Dozvole za stavljanje lijeka u promet:
+a) na osnovu potpune dokumentacije za:
+-farmaceutski oblik, jačinu i pakovanje lijeka ................................... 2.540,00 -svaki sljedeći farmaceutski oblik lijeka 1.690,00 -svaku sljedeću jačinu istog farmaceutskog oblika lijeka ............................................................. 970,00 b) na osnovu skraćene dokumentacije za:
+-farmaceutski oblik, jačinu i pakovanje lijeka ................................... 1.905,00 -svaki sljedeći farmaceutski oblik lijeka 1.585,00 -svaku sljedeću jačinu istog farmaceutskog oblika lijeka ............................................................ 970,00 4. Dozvole za tradicionalne lijekove za:
+-farmaceutski oblik, jačinu i pakovanje lijeka .................................... 1.990,00 -svaki sljedeći farmaceutski oblik lijeka 995,00 -svaku sljedeću jačinu istog farmaceutskog oblika lijeka ................ 495,00 5. Dozvole za homeopatske lijekove po farmaceutskom obliku:
+-šest i više pakovanja ............................. 1.820,00 -dva do pet pakovanja ................................. 1.565,00 -pojedinačno pakovanje .............................. 825,00 6. Dozvole za novu jačinu lijeka ............. 1.270,00 7. Prenos dozvole na novog nosioca dozvole 105,00.

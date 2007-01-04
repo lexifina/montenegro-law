@@ -1,0 +1,3 @@
+# Član 6
+Visina naknade za izadavanje dozvole za vršenje prometa lijekova na veliko, iznosi za:
+Iznos u EUR - postupak utvrđivanja uslova za obavljanje prometa ......................... 500,00 -izdavanje dozvole za promet ............................................................ 750,00 -izmjenu dozvole zbog promjene lica odgovornog za skladištenje i distribuciju lijekova.. ....................................... ..................................................... 500,00 -izmjenu dozvole za vršenje prometa zbog promjene kadra, opreme ili prevoznog sredstva.. ....................................... .................................................... 250,00.
