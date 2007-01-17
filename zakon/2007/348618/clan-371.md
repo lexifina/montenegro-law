@@ -1,0 +1,3 @@
+# Član 371
+Kad obvezniku izdržavanja prema kome se sprovodi izvršna sudska odluka o izdržavanju prestane radni odnos, organ, organizacija, ustanova, odnosno poslodavac kod kojeg je izdat nalog za prinudnu naplatu doprinosa za izdržavanje dužni su podatke o izvršnoj ispravi i dozvoli izvršenja, kao i ime i adresu lica kome se vrši isplata, da dostave organu, organizaciji ili ustanovi, odnosno poslodavcu kod koga se obveznik izdržavanja zaposlio.
+Organ, organizacija ili ustanova, odnosno poslodavac kod koga se obveznik izdržavanja zaposlio dužan je da o tome odmah obavijesti lice kome se po sudskoj odluci vrši isplata izdržavaoca.

@@ -1,0 +1,2 @@
+# Član 145
+Potpunim usvojenjem prestaju međusobna prava i dužnosti usvojenika i njegovih krvnih srodnika, osim ako dijete usvoji maćeha ili očuh.

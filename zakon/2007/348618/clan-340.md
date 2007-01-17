@@ -1,0 +1,3 @@
+# Član 340
+Kad je postupak pokrenut predlogom bračnih drugova za sporazumni razvod braka ne ispituju se činjenice na kojima je predlog zasnovan, ali sud može odlučiti da se sprovede dokazni postupak, kao po tužbi za razvod braka, ako ocijeni da opravdani interesi zajedničke maloljetne djece zahtijevaju da se brak održi.
+Ako predlagači imaju zajedničku djecu, sud može ispitivati činjenice i sprovoditi dokazni postupak o dijelu predloga bračnih drugova koji se odnosi na vršenje roditeljskog prava, ako dođe do uvjerenja da sporazum roditelja o ovim pitanjima ne pruža dovoljno garancije, da će interesi njihove maloljetne ili nesposobne djece biti ovim sporazumom u dovoljnoj mjeri zaštićeni.

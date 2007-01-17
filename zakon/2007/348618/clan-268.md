@@ -1,0 +1,4 @@
+# Član 268
+Ako je prestala vanbračna zajednica žene i muškarca, svako od njih, pod uslovima iz člana 262 stav 1 ovog zakona, ima pravo na izdržavanje od drugog, ako je zajednica života trajala duže vremena.
+Tužba za izdržavanje može se podnijeti najkasnije u roku od godinu dana od prestanka zajednice života, ali samo pod uslovima da su pretpostavke za izdržavanje nastale prije prestanka zajednice i trajale neprekidno do zaključenja glavne rasprave u parnici za izdržavanje.
+Sud može odbiti zahtjev za izdržavanje, ako izdržavanje traži vanbračni drug koji se bez ozbiljnog povoda od strane drugog vanbračnog druga grubo ili nedolično ponašao u vanbračnoj zajednici, ako je zlonamjerno ili bez opravdanog razloga napustio zajednicu života ili ako bi njegov zahtjev predstavljao očiglednu nepravdu za drugog vanbračnog druga.

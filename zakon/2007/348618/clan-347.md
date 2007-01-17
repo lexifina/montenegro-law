@@ -1,0 +1,4 @@
+# Član 347
+Ako tužbom za utvrđivanje, odnosno osporavanje očinstva nijesu kao tužioci i tuženi obuhvaćena sva lica iz člana 346 ovog zakona, sud će pozvati tužioca da proširi tužbu na ostala lica. Ta lica ne mogu se protiviti proširenju tužbe.
+Ako u sporu radi osporavanja očinstva tužilac u roku koji je sud odredio ne proširi tužbu na lica koja tužbom nijesu obuhvaćena ili ako ta lica u istom roku ne pristupe tužbi kao novi tužioci, tužba će se odbaciti.
+Ako u sporu radi utvrđivanja očinstva tužilac u roku koji je sud odredio ne proširi tužbu na lica koja tužbom nijesu obuhvaćena ili ako ta lica u istom roku ne pristupe tužbi kao novi tužioci, sud će o tome obavijestiti organ starateljstva i odrediti mu rok u kome može proširiti tužbu na lica koja tužbom nijesu obuhvaćena. Ako u tom roku tužba ne bude proširena, sud će tužbu odbaciti.

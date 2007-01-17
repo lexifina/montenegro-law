@@ -1,0 +1,3 @@
+# Član 52
+Pravo na podizanje tužbe za poništenje braka iz uzroka navedenih u čl. 46 do 48 i člana 51 ovog zakona pripada bračnim drugovima i drugim licima koja imaju neposredni pravni interes da brak bude poništen, kao i državnom tužiocu.
+Nakon prestanka razloga iz člana 48 ovog zakona, pravo na tužbu za poništenje braka pripada samo bračnom drugu koji je bio teže duševno bolestan ili je iz drugih razloga bio nesposoban za rasuđivanje. Tužba se može podnijeti u roku od jedne godine od prestanka navedenih razloga, a ako je bračni drug bio potpuno lišen poslovne sposobnosti, u roku od jedne godine od pravnosnažnosti odluke o vraćanju poslovne sposobnosti.

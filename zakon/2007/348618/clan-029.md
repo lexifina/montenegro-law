@@ -1,0 +1,2 @@
+# Član 29
+Matičar će preporučiti licima koja žele da stupe u brak da se do dana sklapanja braka uzajamno obavijeste o stanju zdravlja, da posjete bračno, odnosno porodično savjetovalište i da se upoznaju sa stručnim mišljenjem o uslovima za razvoj skladnih bračnih i porodičnih odnosa, da posjete zdravstvenu ustanovu radi upoznavanja sa mogućnostima i prednostima planiranja porodice, kao i da se sporazumiju o budućem prezimenu.

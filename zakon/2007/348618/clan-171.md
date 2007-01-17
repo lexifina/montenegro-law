@@ -1,0 +1,2 @@
+# Član 171
+Roditelji djeteta koje je smješteno u drugu porodicu imaju pravo i dužnost da zastupaju dijete, da upravljaju i raspolažu imovinom djeteta, da izdržavaju dijete, da sa djetetom održavaju lične odnose i da odlučuju o pitanjima koja bitno utiču na život djeteta zajednički i sporazumno sa hraniteljem, osim ako nijesu lišeni roditeljskog prava, odnosno poslovne sposobnosti ili se radi o roditeljima koji se ne staraju o djetetu ili se staraju na neodgovarajući način.
