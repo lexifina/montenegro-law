@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se sadržina i oblik službene legitimacije koja se izdaje licima koja su službenici Zavoda za metrologiju (u daljem tekstu: Zavod), raspoređenim na odgovarajuće poslove i ovlašćenim za vršenje metrološkog nadzora, iz čl. 23, 24 i 25 Zakona o metrologiji, i člana 28 Zakona o kontroli predmeta od dragocjenih metala, načinu njihovog izdavanja i vođenja evidencije o izdatim službenim legitimacijama.
