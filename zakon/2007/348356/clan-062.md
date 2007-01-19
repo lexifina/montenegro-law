@@ -1,0 +1,5 @@
+# Član 62
+## Mjere obezbjeđenja
+(1) U cilju obezbjeđenja izvršenja oduzimanja imovinske koristi, sud može, na predlog nadležnog tužioca, protiv okrivljenog pravnog lica odrediti privremenu mjeru obezbjeđenja u skladu sa odredbama Zakona o izvršnom postupku. U tom slučaju shodno se primjenjuju odredbe člana 216 st. 2 i 3 Zakonika o krivičnom postupku.
+(2) Ako okolnosti opravdavaju sumnju da će se u okviru okrivljenog pravnog lica ponovo izvršiti djelo za koje postoji osnovana sumnja da je za njega odgovorno to pravno lice ili neko drugo slično djelo, sud može u istom postupku, pored mjera iz stava 1 ovog člana, privremeno zabraniti okrivljenom pravnom licu obavljanje jedne ili više određenih privrednih djelatnosti, odnosno drugih djelatnosti.
+(3) Ako je protiv pravnog lica pokrenut krivični postupak, sud može, na predlog državnog tužioca ili po službenoj dužnosti, zabraniti izmjene statuta koje bi dovele do brisanja okrivljenog pravnog lica iz Centralnog registra Privrednog suda ili drugog registra koji vodi nadležni državni organ. Zabrana se upisuje u Centralni registar Privrednog suda ili drugi registar koji vodi nadležni državni organ.

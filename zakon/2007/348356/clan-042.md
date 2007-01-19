@@ -1,0 +1,7 @@
+# Član 42
+## Davanje podataka iz kaznene evidencije
+(1) Kaznena evidencija sadrži sljedeće podatke: naziv i sjedište pravnog lica; djelatnost pravnog lica, registarski i matični broj pravnog lica, podatke o učinjenom krivičnom djelu; podatke o kaznama, uslovnoj osudi, mjerama bezbjednosti; podatke o odgovornom licu koje je učinilo krivično djelo zbog kojeg je osuđeno pravno lice; oproštene kazne koje se odnose na osuđeno pravno lice za koje se kaznena evidencija vodi, kao i podatke o pravnim posljedicama osude; kasnije izmjene podataka sadržanih u kaznenoj evidenciji; podatke o izvršenoj kazni i poništenju evidencije o pogrešnoj osudi.
+(2) Podaci iz kaznene evidencije mogu se dati samo sudu, državnom tužiocu i organu uprave nadležnom za poslove policije u vezi sa krivičnim postupkom koji se vodi protiv pravnog lica koje je ranije bilo osuđeno, organu za izvršenje krivičnih sankcija i organu koji učestvuje u postupku davanja amnestije, pomilovanja, rehabilitacije ili odlučivanja o prestanku pravnih posljedica osude, kad je to potrebno za vršenje poslova iz njihove nadležnosti.
+(3) Podaci iz kaznene evidencije mogu se, na obrazložen zahtjev, dati i državnom organu i pravnom licu, ako za to postoji opravdani interes zasnovan na zakonu.
+(4) Pravnom licu se, na njegov zahtjev, mogu dati podaci o njegovoj osuđivanosti ili neosuđivanosti samo ako su mu potrebni radi ostvarivanja prava u inostranstvu.
+(5) Kaznenu evidenciju vodi Centralni registar Privrednog suda.

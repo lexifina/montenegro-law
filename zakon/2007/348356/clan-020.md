@@ -1,0 +1,9 @@
+# Član 20
+## Granice ublažavanja novčane kazne
+(1) Kad postoje uslovi za ublažavanje novčane kazne iz člana 19 ovog zakona, sud će ublažiti kaznu u ovim granicama:
+1) ako je za krivično djelo kao najmanja mjera kazne propisan petostruki iznos učinjene štete ili pribavljene protivpravne imovinske koristi ili deset hiljada eura (član 15 tačka 2), novčana kazna se može ublažiti do dvostrukog iznosa učinjene štete ili pribavljene protivpravne imovinske koristi ili do hiljadu eura;
+2) ako je za krivično djelo kao najmanja mjera kazne propisan desetostruki iznos učinjene štete ili pribavljene protivpravne imovinske koristi ili dvadeset hiljada eura (član 15 tačka 3), novčana kazna se može ublažiti do petostrukog iznosa učinjene štete ili pribavljene protivpravne imovinske koristi ili do deset hiljada eura;
+3) ako je za krivično djelo kao najmanja mjera kazne propisan petnaestostruki iznos učinjene štete ili pribavljene protivpravne imovinske koristi ili pedeset hiljada eura (član 15 tačka 4), novčana kazna se može ublažiti do osmostrukog iznosa učinjene štete ili pribavljene protivpravne imovinske koristi ili do dvadesetpet hiljada eura;
+4) ako je za krivično djelo kao najmanja mjera kazne propisan dvadesetostruki iznos učinjene štete ili pribavljene protivpravne imovinske koristi ili stotinu hiljada eura (član 15 tačka 5), novčana kazna se može ublažiti do desetostrukog iznosa učinjene štete ili pribavljene protivpravne imovinske koristi ili do pedeset hiljada eura;
+5) ako je za krivično djelo kao najmanja mjera kazne propisan pedesetostruki iznos učinjene štete ili pribavljene protivpravne imovinske koristi ili dvijestotine hiljada eura (član 15 tačka 6), novčana kazna se može ublažiti do dvadesetpetostrukog iznosa učinjene štete ili pribavljene protivpravne imovinske koristi ili do stotinu hiljada eura;
+(2) Kad je sud ovlašćen da pravno lice oslobodi od kazne može mu kaznu ublažiti bez ograničenja za ublažavanje kazne iz stava 1 ovog člana.
