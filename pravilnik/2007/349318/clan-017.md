@@ -1,0 +1,6 @@
+# Član 17
+Ovjeravanje mjerila vrši se po pravilu u službenim prostorijama Zavoda.
+Zavod može da vrši ovjeravanje mjerila van svojih službenih prostorija:
+1) na mjestu na kome se mjerilo nalazi, ako je u pitanju mjerilo koje je po svojoj konstrukciji vezano za mjesto na kome je postavljeno (stabilno mjerilo), ili ako je u pitanju mjerilo koje bi se zbog osjetljivosti konstrukcije moglo pri prenosu oštetiti ili pokvariti, u kom slučaju je podnosilac zahtjeva dužan da obezbijedi potreban broj radnika i opremu za vršenje pregleda;
+2) u prostorijama podnosioca zahtjeva, ako su ispunjeni uslovi u pogledu kadrova, opreme i radnih prostorija. Ispunjenost navedenih uslova provjerava komisija Zavoda na osnovu uslova koje propisuje direktor Zavoda. Ako komisija ustanovi da su uslovi ispunjeni, direktor Zavoda na osnovu izvještaja komisije donosi rješenje da se ovjeravanje određenih vrsta mjerila može vršiti u prostorijama podnosioca zahtjeva. Važnost ovog rješenja je tri godine;
+3) u laboratorijama inostranih proizvođača mjerila i ostalim inostranim laboratorijama u kojima postoje uslovi za ovjeravanje mjerila, kada se ovjeravanje mjerila ne može izvršiti u zemlji, kada podnosilac zahtjeva to traži, kada je u pitanju stručna ekspertiza ili kada se procjeni da za to postoje i drugi posebni razlozi.

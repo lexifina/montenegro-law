@@ -1,0 +1,2 @@
+# Član 18
+Ako ne postoje uslovi za prvo ovjeravanje mjerila u zemlji, prvo ovjeravanje mjerila može se izvršiti na osnovu rezultata ispitivanja mjerila sprovedenog u laboratoriji proizvođača mjerila ili nekoj drugoj ovlašćenoj laboratoriji, pod uslovom da se priloži dokumentacija koja dokazuje da je sprovedena detaljna provjera funkcionalnosti mjerila i provjera metroloških svojstava u odnosu na propisane zahtjeve.
