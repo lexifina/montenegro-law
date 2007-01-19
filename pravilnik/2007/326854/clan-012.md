@@ -1,0 +1,3 @@
+# Član 12
+Za mjerilo za koje je izdato uvjerenje o odobrenju tipa od inostrane ustanove, koju je država ovlastila za poslove zakonske metrologije, direktor Zavoda može izdati Uvjerenje o odobrenju tipa mjerila na osnovu priznanja tog uvjerenja, ako podnosilac zahtjeva uz zahtjev priloži potpuni izvještaj o ispitivanju i rezultatima ispitivanja na osnovu kojih je izdato to uvjerenje, odnosno druge podatke o mjerilu koje Zavod zatraži.
+Zavod može izvršiti ispitivanje tipa mjerila i u laboratoriji inostranog proizvođača ili drugoj ovlašćenoj laboratoriji u inostranstvu, ako za takvu vrstu ispitivanja ne postoje uslovi da se izvrši u zemlji.
