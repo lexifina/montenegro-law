@@ -1,0 +1,8 @@
+# Član 4
+## Nivo izuzeća
+(1) Sporazumi između dva ili više učesnika iz člana 7 st. 1 i 2 Zakona su izuzeti od zabrane kada svaki od učesnika sporazuma posluje u različitim fazama proizvodnje ili distribucije za potrebe sporazuma ili kada sporazumi definišu uslove pod kojima učesnici sporazuma mogu kupovati, prodavati ili preprodavati određenu robu ili usluge (vertikalni sporazumi).
+(2) Izuzeća iz stava 1 ovoga člana primjenjuju se na vertikalne sporazume između udruženja učesnika i njihovih članova, ili između tih udruženja i njihovih dobavljača, jedino ako su svi njihovi članovi trgovci na malo.
+(3) Izuzeće iz stava 1 ovoga člana primjenjuje se na vertikalne sporazume koji sadrže odredbe o ustupanju prava intelektualne svojine na kupca ili o korišćenju tih prava od strane kupca, ako te odredbe nijesu glavni cilj sporazuma i ako su direktno povezane sa korišćenjem, prodajom ili preprodajom robe ili usluga od strane kupca ili njegovih krajnjih korisnika. Izuzeće se primjenjuje ako odredbe koje se odnose na ugovornu robu ili usluge sadrže samo ograničenja neophodna za postizanje ciljeva sporazuma i ne isključuju konkurenciju u bitnom dijelu predmetnih roba ili usluga.
+(4) Izuzeće iz stava 1 ovoga člana primjenjuje se i na vertikalne sporazume između konkurentnih učesnika, kada zaključe jednostrani vertikalni sporazum, o prodaji konkurentne robe ili usluge:
+- kada je dobavljač proizvođač i distributer robe a kupac distributer i ne proizvodi robu koja predstavlja predmet sporazuma, ili
+- kada dobavljač nudi usluge na različitim nivoima trgovine a kupac ne pruža konkurentne usluge na istom nivou trgovine na kojem kupuje ugovorne usluge.
