@@ -1,0 +1,7 @@
+# Član 1
+U Pravilniku o tehničkim i eksploatacionim uslovima pod kojima se mogu koristiti radio-difuzne stanice za emitovanje televizijskog programa u frekvencijskim opsezima VHF I i III i UHF IV i V ("Sl.list RCG", br. 40/05, 42/06 i 01/07), član 32 se mijenja i glasi:
+"Odredbe ovog pravilnika primjenjuju se i na emitere kojima je dozvola za postavljanje ili dozvola za rad televizijskih predajnika i pretvarača izdata prije stupanja na snagu ovog pravilnika.
+Ukoliko televizijski predajnici i pretvarači iz stava 1. ovog člana ne ispunjavaju uslove propisane ovim pravilnikom, njihove tehničke karakteristike se moraju dovesti u sklad sa ovim pravilnikom do 31. maja 2007. godine.
+Izuzetno od stava 2 ovog člana, ukoliko se radi o televizijskim predajnicima i pretvaračima emitera javnih radio-difuznih servisa "Radio Crne Gore" i "Televizija Crne Gore", njihove tehničke karakteristike se moraju dovesti u sklad sa ovim pravilnikom do 30. juna 2007. godine.
+Ako televizijski predajnici i pretvarači koji su postavljeni i pušteni u rad prije stupanja na snagu ovog pravilnika stvaraju smetnje u radio-saobraćaju, njihove tehničke karakteristike moraju se dovesti u sklad sa odredbama ovog pravilnika radi otklanjanja tih smetnji, u roku od 30 dana od dana utvrđivanja smetnji.
+Ako se tehničke karakteristike televizijskih predajnika i pretvarača ne mogu dovesti u sklad sa odredbama ovog pravilnika, u rokovima iz st. 2. i 3. ovog člana, ti predajnici i pretvarači se ne mogu koristiti.''
