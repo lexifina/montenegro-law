@@ -1,0 +1,2 @@
+# Član 7
+Danom stupanja na snagu ove naredbe prestaje da važi Naredba o zabrani dovoza i prometa pošiljki živih svinja porijeklom sa teritorije Republike Srbije na teritoriju Republike Crne Gore ("Službeni list RCG", broj 32/05) i Naredba o dopuni Naredbe o zabrani dovoza prometa pošiljki živih svinja porijeklom sa teritorije Republike Srbije na teritoriju Republike Crne Gore ("Službeni list RCG", broj 43/05).
