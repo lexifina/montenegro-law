@@ -1,0 +1,2 @@
+# Član 6
+Ukoliko se zatekne pojedinac ili grupa splavara ili kajakaša da kreću da splavare sa mjesta koje nije određeno za polazak, ili se spuštaju čamcem ili kajakom niz rijeku Taru bez dozvole ili da nijesu uredno platili predviđene takse i naknade, ovlašćeni radnik u NP "Durmitor" naplatiće takse i naknade predviđene posebnom odlukom Javnog preduzeća za nacionalne parkove Crne Gore i zabraniti im dalje splavarenje.

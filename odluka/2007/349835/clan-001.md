@@ -1,0 +1,3 @@
+# Član 1
+Splavarenje na drvenim splavovima i gumenim čamcima i kajakašenje niz rijeku Taru može se vršiti u organizaciji ovlašćenih organizacija i turističkih agencija koje se bave organizovanjem splavarenja, kao i u sopstvenoj režiji pod određenim uslovima.
+Splavarenje i kajakašenje niz rijeku Taru dozvoljeno je od II Logora (Šljivanska vrela), pa do granice Nacionalnog parka u kanjonu rijeke Sušice. Splavarenje se može organizovati u trajanju od jednog dana od II Logora do Žugića Luke i od II Logora do Radovan Luke, kao i trajanju od dva dana, od II Logora do Radovan Luke - I dan, i od Radovan Luke do granice Parka u kanjonu Sušice II dan.
