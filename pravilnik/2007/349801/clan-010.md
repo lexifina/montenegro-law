@@ -1,0 +1,3 @@
+# Član 10
+Prije priključenja mHe na distributivni elektroenergetski sistem kupac i energetski subjekat koji vrši snabdijevanje električnom energijom zaključuju ugovor o prodaji električne energije u skladu sa zakonom i pravilima o radu distributivnog elektroenergetskog sistema.
+Energetski subjekt je dužan da priključi objekat kupca na distributivni elektroenergetski sistem u roku od 15 dana od dana zaključenja ugovora o prodaji električne energije ako je kupac ispunio uslove utvrđene rješenjem, priložio upotrebnu dozvolu za objekat, kao i dokaz o ispunjavanju propisanih tehničkih uslova kojima se obezbjeđuje sigurnost ljudi i imovine.

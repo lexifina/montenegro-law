@@ -1,0 +1,2 @@
+# Član 3
+Elektrane iz člana 1 ovog pravilnika priključuju se na distributivni elektroenergetski sistem u skladu sa Zakonom o energetici ("Službeni list RCG", broj 39/03), ovim pravilnikom i pravilima o radu distributivnog elektroenergetskog sistema, a u skladu sa standardima i tehničkim propisima koji se odnose na uslove priključenja i korišćenja elektroenergetskih objekata, uređaja i postrojenja i Distributivnim kodeksom.

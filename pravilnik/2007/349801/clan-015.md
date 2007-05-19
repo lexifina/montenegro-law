@@ -1,0 +1,6 @@
+# Član 15
+Za isporučioce električne energije na niskom naponu kojima se mjeri samo aktivna električna energija brojila električne energije moraju biti najmanje klase 2,0.
+Za isporučioce električne energije na niskom naponu kojima se mjeri aktivna energija, reaktivna energija i vršno opterećenje (direktne ili poluindirektne mjerne grupe) brojila električne energije moraju biti najmanje klase 1,0 za sve veličine osim reaktivne energije za koju moraju biti najmanje klase 3,0.
+Za isporučioce električne energije na visokom naponu (iznad 1 kV) mjeri se aktivna energija, reaktivna energija i vršno opterećenje brojilima električne energije najmanje klase 0,5 za sve veličine za proizvodnju do 10 GNJh/godine odnosno najmanje klase 0,2 za sve veličine za potrošnju preko 10 GNJh/godine, osim reaktivne energije za koju je najmanja klasa 3,0.
+Klasa tačnosti mjernih transformatora za mjerenje količine električne energije do 10 GNJh/godine godišnje na jednoj mjernoj grupi može da bude najviše klase 0,5, a za mjerenje iznad ove količine električne energije najmanje klase 0,2.
+Operator distribucije i isporučilac mogu sporazumno utvrditi u skladu sa ovim pravilnikom i tehničkim uslovima za obračunsko mjerno mjesto dodatne zahtjeve za mjerenjem.
