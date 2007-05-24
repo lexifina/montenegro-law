@@ -1,0 +1,4 @@
+Na osnovu člana 38 Zakona o državnoj upravi ("Službeni list RCG", broj 38/03), a u vezi člana 20 Zakona o organskoj poljoprivredi ("Službeni list RCG", broj 49/04) Ministarstvo poljoprivrede, šumarstva i vodoprivrede donijelo je
+UPUTSTVO O IZMJENAMA UPUTSTVA O POSTUPKU IZDAVANJA SAGLASNOSTI ZA ANGAŽOVANJE INOSTRANOG PRAVNOG LICA ZA KONTROLU I CERTIFIKACIJU PROIZVODA ORGANSKE POLJOPRIVREDE
+1. U Uputstvu o postupku izdavanja saglasnosti za angažovanje inostranog pravnog lica za kontrolu i certifikaciju proizvoda organske poljoprivrede ("Službeni listu RCG", broj 82/05 ) u tački 2. na kraju druge rečenice briše se dvotačka i dodaju riječi: "dokaz o ovlašćenjima", a podtačke 1) i 2) brišu se.
+2. Ovo uputstvo stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Republike Crne Gore".
