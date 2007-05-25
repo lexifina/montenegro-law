@@ -1,0 +1,1 @@
+# 1. POJAM I NAČELA

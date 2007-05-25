@@ -1,0 +1,6 @@
+# Član 80
+## Obaveza prečišćavanja otpadnih voda
+Privredno društvo, drugo pravno lice, odnosno preduzetnik koji ispušta ili odlaže materije koje mogu zagaditi vodu dužan je da te materije, prije ispuštanja u sistem javne kanalizacije ili drugi prijemnik, djelimično ili potpuno odstrani u skladu sa zakonom.
+Privredno društvo, drugo pravno lice, odnosno preduzetnik koji ispušta otpadnu vodu neposredno u prijemnik dužan je da obezbijedi prečišćavanje otpadnih voda do nivoa koji odgovara propisima o efluentima (emisiji).
+Radi obezbjeđenja prečišćavanja otpadnih voda do stepena utvrđenog propisom iz člana 79 stav 2 ovog zakona, privredno društvo, drugo pravno lice, odnosno preduzetnik koji ispušta otpadnu vodu u javnu kanalizaciju dužan je da izgradi i održava uređaje za prečišćavanje otpadnih voda.
+Radi obezbjeđenja prečišćavanja otpadnih voda do stepena utvrđenog propisom iz člana 79 stav 2 ovog zakona, jedinica lokalne samouprave dužna je da godišnje ulaže sredstva u izgradnju, rekonstrukciju i održavanje objekata za prečišćavanja otpadnih voda, sa pratećim uređajima, do nivoa predviđenog planom izgradnje objekata za prečišćavanje otpadnih voda za najmanje 2000 ekvivalentnih stanovnika.

@@ -1,0 +1,7 @@
+# Član 30
+## Saradnja sa javnošću u pripremi planova
+Nadležni organ uprave dužan je da omogući aktivno učešće javnosti i zainteresovanih lica u postupku pripreme i donošenja plana upravljanja vodama, odnosno njegove izmjene nakon sprovedenog postupka preispitivanja i učini dostupnom svu dokumentaciju od značaja za njegovu izradu.
+Nadležni organ uprave dužan je da pisanim putem obavijesti Savjet za vode, a preko javnih medija zainteresovana lica i širu javnost, o početku pripreme plana upravljanja vodama.
+Obavještavanje iz stava 2 ovog člana vrši se najkasnije tri godine prije početka perioda za koji se plan donosi, a obuhvata okvirni sadržaj plana, rokove i način pripreme i usvajanja plana, naziv nadležnog organa uprave i adresu na kojoj se mogu dobiti dodatne informacije, odnosno izvršiti uvid u dokumentaciju od značaja za njegovu izradu.
+Nadležni organ uprave, na način utvrđen stavom 2 ovog člana, obavještava o stanju izrade plana, uključujući i preliminarni pregled značajnih elemenata za upravljanje vodama na vodnom području za koje se plan donosi, najkasnije dvije godine prije početka perioda za koji se plan donosi.
+Nadležni organ uprave dužan je da objavi nacrt plana upravljanja vodama u najmanje jednom štampanom javnom mediju koji se distribuira na čitavoj teritoriji Republike, najkasnije godinu dana prije početka perioda za koji se plan donosi. Nacrt plana se na uvid javnosti izlaže u prostorijama nadležnog organa uprave, a na zahtjev zainteresovanog lica se omogućava uvid u dokumentacione osnove i podloge korišćene za izradu nacrta plana.

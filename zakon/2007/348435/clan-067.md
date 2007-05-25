@@ -1,0 +1,4 @@
+# Član 67
+## 5.1.6. Korišćenje voda za sport, turizam, kupanje i rekreaciju
+Namjene, odnosno uslovi za korišćenje akumulacija i drugih akvatorija za sport, kupanje, rekreaciju na vodama i turizam određuju se prostornim planom Republike, prostornim planom područja posebne namjene i drugim planskim dokumentima, u skladu sa ovim zakonom.
+Planskim dokumentima iz stava 1 ovog člana, u skladu sa namjenom i režimom zaštite akumulacije ili drugog akvatorija, određuju se sadržaji koji se mogu realizovati u zoni tih akvatorija, uključujući i sadržaje koji prevazilaze opštu upotrebu voda (parkirališta, pristupne staze do vode i oko akvatorija, plaže i sanitarni uređaji na njima, dozvoljene aktivnosti na vodi, kao: splavarenje, rafting, kajakaštvo, jedrenje i dr. i u prostoru vodnog dobra i drugo što je u vezi sa namjenama akumulacija, odnosno akvatorija i režimom njihove zaštite).
