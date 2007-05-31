@@ -1,0 +1,3 @@
+# Član 4
+## 1. Poravnanje sa oštećenim kako bi se naknadom štete, izvinjenjem, radom ili na neki drugi način otklonile, u cjelini ili djelimično, štetne posljedice djela
+Kad sud nađe da su se stekli uslovi za primjenu vaspitnog naloga poravnanje sa oštećenim kako bi se naknadom štete, izvinjenjem, radom ili na neki drugi način otklonile, u cjelini ili djelimično, štetne posljedice djela upoznaće oštećenog, maloljetnika i njegovog zakonskog zastupnika sa prednostima poravnanja, pravnim i procesnim posljedicama poravnanja i, ukoliko se saglase, sporazum o poravnanju između maloljetnika i oštećenog može biti zaključen odmah pred sudom.
