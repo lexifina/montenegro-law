@@ -1,0 +1,5 @@
+Na osnovu čl. 3 i 9 Zakona o imovini Republike Crne Gore ("Službeni list RCG", broj 44/99), člana 9a Zakona o privatizaciji privrede ("Službeni list RCG", br. 23/96, 6/99, 59/00 i 42/04) i člana 12 stav 3 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG", br. 15/94 i 4/97), Vlada Republike Crne Gore, na sjednici od 7. juna 2007. godine, donijela je
+ODLUKU O PRODAJI AKCIJA REPUBLIKE CRNE GORE I VLADE REPUBLIKE CRNE GORE U DRUŠTVU RADVENT AD NIKŠIĆ
+1. Vlada Republike Crne Gore prodaje 53747 akcija u vlasništvu Republike Crne Gore i 3695 akcija u vlasništvu Vlade Republike Crne Gore, što predstavlja 19,4271 % akcijskog kapitala Radvent ad Nikšić, po cijeni od 27.693,97 eura, kupcu MN Specialty Steels Limited, Velika Britanija, saglasno uslovima iz ponude i Ugovora o kupoprodaji akcija.
+2. Ovlašćuje se Branko Vujović, direktor Agencije za prestrukturiranje privrede i strana ulaganja da, u ime Vlade Republike Crne Gore, potpiše Ugovor o kupoprodaji akcija u društvu Radvent ad Nikšić.
+3. Ova odluka stupa na snagu danom objavljivanja u "Službenom listu Republike Crne Gore".
