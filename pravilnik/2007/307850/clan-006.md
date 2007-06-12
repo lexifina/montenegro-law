@@ -1,0 +1,6 @@
+# Član 6
+Usmjeravanje i identifikacija telefonskih poziva
+Servisi izbora i predizbora operatora mogu se koristiti za realizaciju telefonskih poziva prema mrežama u inostranstvu, fiksnim javnim telekomunikacionim mrežama u Crnoj Gori i mobilnim javnim telekomunikacionim mrežama u Crnoj Gori
+Pristupni operator je obavezan izvršiti prilagođenje svojih telekomunikacionih sistema servisu izbora/predizbora operatora, kako bi svi telefonski pozivi upućeni od strane korisnika pristupnog operatora, na osnovu korišćenja servisa izbora/predizbora operatora, bili automatski proslijeđeni u mrežu izabranog/predizabranog operatora. Sredstva potrebna za prilagođenje telekomunikacione mreže, a u cilju stvaranja mogućnosti za pružanje servisa izbora/predizbora operatora, obezbjeđuje pristupni operator uz pravo naplate troškova,nastalih pružanjem tog servisa, od izabranog/predizabranog operatora.
+Kada pristupni operator u interkonekcionoj tački preda telefonski poziv izabranom/predizabranom operatoru za dalje usmjeravanje poziva odgovoran je izabrani/predizabrani operator.
+Identifikacija korisnika pristupnog operatora koji realizuje poziv vrši se preko identifikacije pozivne linije (CLI) koju izabrani/predizabrani operator u interkonekcionoj tački dobija od pristupnog operatora.
