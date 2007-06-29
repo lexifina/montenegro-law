@@ -1,0 +1,3 @@
+Na osnovu tačke 1 Odluke Vlade Republike Crne Gore o obrazovanju Nacionalne komisije za implementaciju Akcionog plana za sprovođenje Programa borbe protiv korupcije i organizovanog kriminala ("Sl. list RCG", br. 15/07) i Akcionog plana za sprovođenje Programa borbe protiv korupcije i organizovanog kriminala, koji je Vlada Republike Crne Gore usvojila 24. avgusta 2006. godine, Nacionalna komisija za implementaciju Akcionog plana za sprovođenje Programa borbe protiv korupcije i organizovanog kriminala, na sjednici održanoj 16. marta 2007. godine, donijela je
+POSLOVNIK O RADU
+NACIONALNE KOMISIJE ZA IMPLMENTACIJU AKCIONOG PLANA ZA SPROVOĐENJE PROGRAMA BORBE PROTIV KORUPCIJE I ORGANIZOVANOG KRIMINALA
