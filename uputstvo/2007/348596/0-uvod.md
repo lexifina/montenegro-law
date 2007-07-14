@@ -1,0 +1,2 @@
+Na osnovu člana 17 stav 1 tačka 2) Zakona o Centralnoj banci Crne Gore ("Sl. list RCG",br. 52/00 i 47/01) i člana 23 Odluke o mikrokreditnim finansijskim institucijama ("Sl.list RCG", br. 01/03) Savjet Centralne banke Crne Gore, na sjednici održanoj 18.06.2007. godine, donio je
+U P U T S T V O O DOPUNI UPUTSTVA O SADRŽAJU I FORMI OBRAZACA IZVJEŠTAJA KOJE MIKROKREDITNE FINANSIJSKE INSTITUCIJE DOSTAVLJAJU CENTRALNOJ BANCI CRNE GORE
