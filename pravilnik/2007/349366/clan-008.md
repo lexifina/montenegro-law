@@ -1,0 +1,4 @@
+# Član 8
+Zdravstvene usluge iz člana 3 stav 1 tač. 1, 2, 3 i 4 ovog pravilnika, plaćaju se prema cijenama iz Cjenovnika zdravstvenih usluga Fonda, a najviše do maksimalno utvrđene godišnje vrijednosti ovih usluga utvrđenih ugovorom između Fonda i davaoca usluga.
+Troškovi iz člana 3 stav 1 tač. 5 i 6 ovog pravilnika, plaćaju se prema ukupnoj vrijednosti programa obezbjeđivanja hitne medicinske pomoći i higijensko - epidemiološke zaštite, a najviše do maksimalno utvrđene godišnje vrijednosti ovih programa utvrđenih ugovorom između Fonda i davaoca usluga.
+Troškovi iz člana 3 stav 1 tačka 7 ovog pravilnika, plaćaju se prema vrijednosti troškova za obezbjeđivanje dostupnosti zdravstvene zaštite osiguranim licima na nerazvijenim i manje razvijenim područjima, kao i područjima sa niskom gustinom naseljenosti, utvrđenih ugovorom između Fonda i davaoca usluga.

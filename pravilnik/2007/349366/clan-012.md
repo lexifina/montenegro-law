@@ -1,0 +1,2 @@
+# Član 12
+Ukoliko davaoc usluga smanji ukupnu vrijednost lijekova propisanih na ljekarski recept, tako da ona bude manja od prosječnih troškova lijekova na recept po jednom osiguranom licu u prethodnoj godini, umanjenih do 15% za ukupan broj osiguranih lica za koji davaoc usluga obezbjeđuje pružanje zdravstvenih usluga, Fond može da isplati stimulativnu naknadu u iznosu do najviše polovine ukupno ostvarene uštede.
