@@ -1,0 +1,2 @@
+# Član 41
+Pored ovlašćenja utvrđenih Zakonom o inspekcijskom nadzoru, inspektor ima obavezu i ovlašćenje da pregleda: državnu pripadnost jahti; upis u registar jahti; oznake i imena jahti; pregled jahti; popis posade i putnika na jahti; posjedovanje vinjete; plovila koja se nalaze na jahti; isprave na jahti koja plovi u vodama Republike; sredstva i opremu na jahti za sprječavanje zagađenja mora; ispunjenost uslova o zaštiti ljudskih života na moru; ovlašćenje posade, odnosno serifikate o osposobljenosti članova posade, kao i knjigu evidencije iznajmljivanja jahti.
