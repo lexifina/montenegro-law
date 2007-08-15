@@ -1,0 +1,4 @@
+# Član 11
+Građani i pravna lica su dužni da za potrebe odbrane zemlje daju: motorna vozila opšte i specijalne namjene, građevinske i druge mašine, sredstva i uređaje veze i informatike, plovne objekte, luke, pristaništa i instalacije za plovidbu, snabdijevanje, održavanje i remont plovnih objekata, vazduhoplove i aerodrome, pumpne stanice i skladišta, stanice za servisiranje i stanice za tehnički pregled motornih vozila i sredstva telekomunikacije, sredstva i uređaje za pripremu, štampanje i snimanje, lovačko i sportsko oružje, zgrade i zemljišta, kao i druga potrebna materijalna sredstva i jahaću, tegleću i tovarnu stoku.
+Sredstva i stoku iz stava 1 ovog člana, potrebna za odbranu zemlje, popisuje i evidenciju o njima vodi Ministarstvo.
+Građani čija su materijalna sredstva i stoka popisani za potrebe odbrane, dužni su da ta sredstva i stoku, na zahtjev Ministarstva, dopreme na određeno mjesto u stanju koje omogućava njihovu namjensku upotrebu.
