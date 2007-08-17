@@ -1,0 +1,2 @@
+# Član 2
+Ministarstvo kulture, sporta i medija (u daljem tekstu: nadležni organ) dodjeljuje SID i LBR SID kodove i utvrđuje oblik i sadržaj proizvođačkih kodova, način njihovog obilježavanja kod proizvodnje optičkih diskova odnosno proizvodnih djelova u skladu sa ugovorom zaključenim sa Međunarodnom federacijom diskografske industrije (u daljem tekstu: IFPI) -Sekretarijatom, London, Ujedinjeno Kraljevstvo.
