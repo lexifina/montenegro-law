@@ -1,0 +1,5 @@
+Na osnovu čl. 3 i 9 Zakona o imovini Republike Crne Gore ("Službeni list RCG", broj 44/99), člana 9a Zakona o privatizaciji privrede ("Službeni list RCG", br. 23/96, 6/99, 59/00, 42/04) i člana 12 stav 3 Uredbe o Vladi Republike Crne Gore ("Službeni list RCG", br. 15/94 i 4/97), Vlada Republike Crne Gore, na sjednici od 13. septembra 2007. godine, donijela je
+ODLUKU O PRODAJI AKCIJA REPUBLIKE CRNE GORE I VLADE REPUBLIKE CRNE GORE U DRUŠTVU MMK STANDARD AD NIKŠIĆ
+1. Vlada Republike Crne Gore prodaje 62135 akcija u vlasništvu Republike Crne Gore i 4272 akcija u vlasništvu Vlade Republike Crne Gore, što predstavlja 19,9080 % ukupnog akcijskog kapitala MMK Standard ad Nikšić, po cijeni od 39.562,72 eura, kupcu Comp Comerc doo Nikšić, saglasno uslovima iz ponude i ugovora o kupoprodaji akcija.
+2. Ovlašćuje se Branko Vujović, direktor Agencije za prestrukturiranje privrede i strana ulaganja da, u ime Vlade Republike Crne Gore, potpiše Ugovor o kupoprodaji akcija u društvu MMK Standard ad Nikšić.
+3. Ova odluka stupa na snagu danom objavljivanja u "Službenom listu Republike Crne Gore".
