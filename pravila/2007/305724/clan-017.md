@@ -1,0 +1,3 @@
+# Član 17
+Ako svojim nalazima Komisija utvrdi da nije bilo nepravilnosti u poslovanju kontrolisanog lica i kada kontrolisano lice, u roku propisanom ovim pravilima, svojim primjedbama osnovano ospori nalaze iz zapisnika o izvršenoj kontroli o nepravilnostima u poslovanju, Komisija donosi zaključak da je kontrolisano lice u vezi sa predmetom kontrole poslovalo u skladu sa propisima.
+Ako kontrolisano lice u propisanom roku ne dostavi primjedbe na zapisnik ili primjedbama osnovano ne ospori nalaze zapisnika kojima je konstatovana nepravilnost u poslovanju sa hartijama od vrijednosti, Komisija donosi rješenje o preduzimanju mjera kojim kontrolisanom licu nalaže da, u određenom roku, preduzme jednu ili više mjera za otklanjanje utvrđenih nepravilnosti.
