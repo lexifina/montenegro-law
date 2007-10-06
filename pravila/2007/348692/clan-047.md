@@ -1,0 +1,2 @@
+# Član 47
+Imovina dobrovoljnog penzionog fonda nije vlasništvo kastodija, ovlašćene banke kod koje se vode sredstva, ni Centralne Depozitarne Agencije kod koje se vode hartije od vrijednosti i ne može biti predmet prinudne naplate, zaloge, hipoteke, ne može se uključiti u likvidacionu ili stečajnu masu društva za upravljanje, kastodija ili drugih lica, niti koristiti za izmirivanje obaveza člana dobrovoljnog penzijskog fonda i drugih lica prema trećim licima.
