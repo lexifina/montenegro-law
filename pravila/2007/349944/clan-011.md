@@ -1,0 +1,2 @@
+# Član 11
+Komisija će, bez posebnih dodatnih uslova, upisati u registar investicionih menadžera penzionih fondova sva lica koja su do stupanja na snagu ovih pravila pohađala obuku i položila ispit za sticanje zvanja investicionog menadžera penzionog fonda, koja je u organizaciji Komisije održana od 11. marta 2006. godine, a zaključno sa 27. aprilom 2006. godine i lica koja završe obuku koja će otpočeti 24. septembra tekuće godine i polože ispit za sticanje zvanja investicionog menadžera penzionog fonda.
