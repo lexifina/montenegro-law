@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom uređuje se oblik, sadržaj i materijal za izradu ušnih markica i način postavljanja-aplikacije ušnih markica za identifikaciju goveda, obrazac i način vođenja registra gazdinstva i prijave kretanja goveda, obrazac i način izdavanja pasoša i privremenog pasoša, način vođenja evidencije, bliži sadržaj, način i postupak vođenja Centralnog registra gazdinstava, bliži sadržaj Elektronske baze podataka, obrazac popisnog lista i potvrde o izvršenoj identifikaciji goveda kao i način vođenja evidencije.
