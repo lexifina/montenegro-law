@@ -1,0 +1,3 @@
+# Član 21
+Nosilac prava intelektualne svojine može od Zavoda CG zahtijevati da mu se izda isprava o važenju prava u skladu sa odredbama ove uredbe.
+Uz zahtjev iz stava 1 ovog člana nosilac prava prilaže kopiju prijave i svih priloga podnijetih Zavodu SCG, odnosno Zavodu Srbije, ili ovjerenu kopiju prijave evropskog patenta koja obuhvata državnu zajednicu Srbija i Crna Gora ili Republiku Srbiju sa prilozima, odnosno ovjerenu kopiju isprave o priznatom pravu od strane Zavoda SCG, odnosno Zavoda Srbije ili ovjerenu kopiju evropskog patenta sa dejstvom u državnoj zajednici Srbija i Crna Gora ili Republici Srbiji, kao i dokaz o plaćanju propisane takse.

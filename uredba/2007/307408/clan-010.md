@@ -1,0 +1,2 @@
+# Član 10
+Međunarodna registracija u skladu sa Madridskim aranžmanom o međunarodnom registrovanju žigova (u daljem tekstu: Madridski aranžman) ili Protokolom uz Madridski aranžman o međunarodnom registrovanju žigova (u daljem tekstu: Protokol), izvršena prije 3. juna 2006. godine, sa teritorijalnim dejstvom za državnu zajednicu Srbija i Crna Gora, ima dejstvo u Crnoj Gori ako je sproveden postupak u skladu sa Pravilom 39 Zajedničkih odredaba za Madridski aranžman i Protokol.

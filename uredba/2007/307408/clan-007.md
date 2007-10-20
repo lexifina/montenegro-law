@@ -1,0 +1,4 @@
+# Član 7
+Produžetak važnosti žiga, na osnovu prijave podnijete, odnosno upisane u odgovarajući registar Zavoda Srbije na dan 3. juna 2006. godine ili kasnije, a prije početka rada Zavoda CG, važi u Crnoj Gori.
+Postupak po prijavi za produžetak važnosti žiga po kojoj nije odlučeno u vrijeme početka rada Zavoda CG, može se okončati pred Zavodom Srbije, a takav produžetak važi u Crnoj Gori, u skladu sa članom 6 ove uredbe.
+Od dana početka rada Zavoda CG, prijave za produžetak važnosti žiga se podnose i upisuju u odgovarajući registar Zavoda CG, u skladu sa zakonom. Postojanje žiga za čije produženje važnosti je podnijet zahtjev, Zavod CG utvrđuje na osnovu podataka o upisu u odgovarajući registar Zavoda Srbije, odnosno na osnovu isprave o žigu Zavoda Srbije, koji se podnose uz prijavu za produžetak važnosti žiga.

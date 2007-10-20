@@ -1,0 +1,2 @@
+# Član 3
+Patent, mali patent, dizajn ili topografija integrisanih kola registrovani i upisani u odgovarajući registar u Zavodu SCG, sa svim izmjenama i dopunama, do 3. juna 2006. godine, kao dana stupanja na snagu Odluke o proglašenju nezavisnosti Republike Crne Gore, važe u Crnoj Gori do isteka njihovog trajanja, odnosno do isteka roka za koji je Zavodu Srbije plaćena taksa za održavanje prava u skladu sa zakonom, bez posebne registracije i bez plaćanja dodatne takse.

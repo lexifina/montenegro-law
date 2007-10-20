@@ -1,0 +1,2 @@
+# Član 1
+Ovom uredbom uređuje se obezbjeđivanje primjene prava iz oblasti intelektualne svojine registrovanih u Zavodu za intelektualnu svojinu Srbije i Crne Gore (u daljem tekstu: Zavod SCG), odnosno Zavodu za intelektualnu svojinu Srbije (u daljem tekstu: Zavod Srbije), prava iz prijava podnijetih kod ovih zavoda, prava u odnosu na djela koja su predmet zaštite autorskog i srodnih prava, prava intelektualne svojine registrovanih kroz međunarodne registracije, kao i prava iz međunarodnih prijava.

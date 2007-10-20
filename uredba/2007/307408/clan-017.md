@@ -1,0 +1,4 @@
+# Član 17
+Evropski patent sa dejstvom u državnoj zajednici Srbija i Crna Gora, odnosno u Republici Srbiji, registrovan na osnovu prijave evropskog patenta podnijete prije 3. juna 2006. godine važi u Crnoj Gori do isteka roka za koji je plaćena taksa za održavanje Zavodu Srbije, bez posebne registracije i plaćanja dodatne takse.
+Evropski patent sa dejstvom u državnoj zajednici Srbija i Crna Gora, odnosno u Republici Srbiji, registrovan na osnovu prijave evropskog patenta podnijete na dan 3. juna 2006. godine ili kasnije, ali prije stupanja na snagu Sporazuma o saradnji i proširenju između Republike Crne Gore i Evropske patentne organizacije važiće u Crnoj Gori do isteka roka za koji je plaćena taksa za održavanje Zavodu Srbije, bez posebne registracije i plaćanja dodatne takse.
+Po isteku roka za koji je plaćena taksa za održavanje Zavodu Srbije iz st. 1 i 2 ovog člana, naknadno produžavanje roka zaštite odobrava Zavod CG koji naplaćuje i taksu za održavanje.

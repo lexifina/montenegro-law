@@ -1,0 +1,2 @@
+# Član 15
+Prava iz prijava evropskog patenta i međunarodnih prijava podnijetih u skladu sa PCT Sporazumom koji su ušli u evropsku fazu (u daljem tekstu: prijave evropskog patenta) i evropski patenti sa dejstvom u državnoj zajednici Srbija i Crna Gora, odnosno Republici Srbiji u skladu sa Sporazumom između Savezne vlade Savezne Republike Jugoslavije i Evropske patentne organizacije o saradnji u oblasti patenata, ratifikovanim 15. juna 2004. godine, imaju dejstvo u Crnoj Gori.
