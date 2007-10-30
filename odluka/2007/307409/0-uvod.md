@@ -1,0 +1,2 @@
+Na osnovu člana 17 Zakona o građevinskom zemljištu («Službeni list RCG», broj 55/2000), člana 45 stav 1 tačka 8 Zakona o lokalnoj samoupravi («Službeni list RCG», br. 42/03, 28/04, 75/05 i 13/06) , člana 5 stav 1 tačka 7 Zakona o finansiranju lokalne samouprave («Službeni list RCG» br. 42/03 i 44/03), člana 32 stav 1 alineja 8 i člana 40 Statuta Opštine Nikšić («Službeni list RCG - opštinski propisi" br. 20/04 i 43/06), Skupština opštine Nikšić, na sjednici održanoj 29.10.2007.godine, donosi
+O D L U K U
