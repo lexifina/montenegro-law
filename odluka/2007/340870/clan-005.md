@@ -1,0 +1,2 @@
+# Član 5
+Izrada Urbanističkog projekta za lokalitet hotela "Mediteran" izvršiće se u skladu sa postavkama GUP-a Ulcinj i Prostornog plana Ulcinja kao i odredbama Zakona o planiranju i uređenju prostora ("Sl.list RCG", br.28/05). Isto tako prilikom planiranja navedenog prostora mora da se obrati pažnja na sledeće: planirana struktura (objekti, uređenje terena, infrastruktura i sl.) mora da bude u skladu sa uslovima prirode, graditeljskog nasleđa i u funkciji šireg područija i zadovoljavanja zajedničkih potreba stanovništva i turista.
