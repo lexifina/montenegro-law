@@ -1,0 +1,28 @@
+{
+  "id": 349457,
+  "path": "zakon/2007/349457",
+  "source": "https://www.sluzbenilist.me/propisi/349457",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/349457/download",
+  "title": "Zakon o ratifikaciji Konvencije o zastiti morske sredine i priobalnog podrucja Sredozemlja i cetiri prateca protokola",
+  "issue": "Službeni list Republike Crne Gore, broj 64/2007",
+  "published": "2007-10-22",
+  "in_force": "2007-10-30",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u ’’Službenom listu Republike Crne Gore ’’",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "7f53d4e842aa918b60da74938bda4a9453f7575fb6810c1d0fc78b9351bd2e3d",
+  "articles_in_source": 137,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 315832,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "40e413d6629d2052b130faaef4096729e8123e1ed9df60e983c1afbcbd9fb163",
+  "enacted": "2007-10-09",
+  "enacted_basis": "Podgorica, 9. oktobra 2007"
+}
