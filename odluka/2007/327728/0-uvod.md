@@ -1,0 +1,2 @@
+Na osnovu čl. 23. i 31. Zakona o planiranju i uređenju prostora (''Sl.list RCG'', br. 28/05) i člana 59. Statuta Opštine Andrijevica (''Sl.list RCG- opštinski propisi'' , br. 21/04 i 42/06) a u skladu sa Petogodišnjim programom planiranja i uređenja prostora ("Službeni list RCG - opštinski propisi", br. 43/05) i Jednogodišnjim programom planiranja i uređenja prostora (''Službeni list RCG- opštinski propisi", br. 12/07) Predsjednik Opštine Andrijevica donosi
+O D L U K U
