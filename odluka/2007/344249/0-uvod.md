@@ -1,0 +1,2 @@
+Na osnovu čl. 45. Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 i 13/06) i čl. 38. tačka 55. Statuta Opštine Žabljak ("Sl.list RCG-opštinski propisi", br. 9/05 i 23/07), a u vezi sa čl. 9. Odluke o kriterijumima, načinu i postupku raspodjele sredstava za podršku projekata nevladinih organizacija ("Sl.list RCG-opštinski propisi", br. 23/07), Skupština opštine Žabljak na sjednici održanoj dana 19.10.2007.godine, donijela je
+O D L U K U
