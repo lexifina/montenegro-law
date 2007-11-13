@@ -1,0 +1,3 @@
+# Član 11
+Kada usled više sile ili razloga kojeg nije moguće predvidjeti dođe do smanjenog obima ili prekida u snabdijevanju vodom, Javno preduzeće je dužno da vodu distribuira u skladu sa redom prvenstva utvrđenim posebnom odlukom Upravnog odbora, odnosno da odmah preduzme mjere na otklanjanju uzroka poremećaja, kako bi se obezbijedila kontinuirana distribucija vode.
+U slučaju smanjenja dotoka ili nestašice vode na izvorištima u sušnim periodima godine Javno preduzeće je dužno da odmah, a najkasnije u roku od 24 časa, donese plan restrikcije isporuke vode na području Opštine, uz saglasnost organa lokalne uprave nadležnog za komunalne poslove, i o tome putem sredstava javnog informisanja obavijesti korisnike.

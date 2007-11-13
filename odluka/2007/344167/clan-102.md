@@ -1,0 +1,20 @@
+# Član 102
+Novčanom kaznom u visini od desetostrukog do dvjestastrukog iznosa minimalne zarade u Republici, kazniće se za prekršaje pravno lice ili preduzetnik:
+- ako izvodi radove na vodovodnim instalacijama priključenim ili se imaju priključiti na javni vodovod, i ako izvodi nove instalacije ili vrši prepravke postojećih, te mijenja oštećene djelove vodovodnih instalacija bez odobrenja Javnog preduzeća (član 14. odluke),
+- ako svoje vodovodne instalacije ne održavaju u ispravnom stanju (član 16. odluke),
+- ako radnicima Javnog preduzeća sa urednim ovlašćenjem ili posebnim pisanim nalogom ne dozvoli pristup na nekretnini i u prostorije u kojima se nalaze instalacije, uređaji i potrošna mjesta spojena sa javnim vodovodom (član 21 odluke),
+- ako postupi suprotno odredbama člana 24. odluke,
+- ako postupi suprotno odredbama člana 32. odluke,
+- ako izvrši priključak sa vodovodnom instalacijom mimo tehničke dokumentacije- projekta po kojem je dobio odobrenje za građenje (član 35. odluke),
+- ako postupi suprotno odredbama člana 37. odluke,
+- ako postupi suprotno odredbama člana 42. odluke,
+- ako postupi suprotno odredbama člana 46. i 47. odluke,
+- ako sklonište za vodomjer ne prilagodi propisanim tipovima u roku od 30 dana od pismene opomene Javnog preduzeća (član 49. odluke),
+- ako ne dopusti izvođenje radova na javnom vodovodu u cilju spriječavanja štete (člana 58. odluke),
+- ako unutrašnje vodovodne instalacije izvodi suprotno odredbama ove odluke ( član 67. odluke),
+- ako izvrši zaziđivanje i zatrpavanje vodovodnih instalacija prije konačnog pregleda i ispitivanja ( član 68. odluke),
+- ako ugrade hidrofor na vodovodnu mrežu ( član 75. odluke),
+- ako radnika Javnog preduzeća onemogući u očitavanju vodomjera (član 89. odluke),
+- ako se neovlašćeno priključi na vodovodnu mrežu (član 75. odluke),
+- ako preduzima bilo kakve štetne radnje na vodovodnom priključku ( član 75 odluke),
+- ako vodomjer okrene obrnuto od smjera protoka vode ( član 75. odluke).

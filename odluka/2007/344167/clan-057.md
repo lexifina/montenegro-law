@@ -1,0 +1,2 @@
+# Član 57
+Za izvršenje popravki na vodovodnoj mreži, priključnom vodu u vodomjeru, odnosno djelovima vodovoda nije potrebna saglasnost-dozvola vlasnika nekretnine, ali je Javno preduzeće dužno da ga o namjeravanim radovima prethodno obavijesti, a ako se radi o izuzetno hitnim slučajevima Javno preduzeće ima pravo da odmah otpočne sa radovima, a vlasnika obavijesti u toku radova ili po završetku radova.
