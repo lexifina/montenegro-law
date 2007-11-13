@@ -1,0 +1,2 @@
+Na osnovu člana 14 Zakona o komunalnim djelatnostima ("Službeni list RCG", broj 12/95), člana 32 stav 1 alineja 42 i člana 40 Statuta Opštine Nikšić ("Službeni list RCG- opštinski propisi", broj 20/04 i 43/06) i člana 12 b Odluke o izmjenama i dopunama Odluke o organizovanju Javnog komunalnog preduzeća ("Službeni list RCG-opštinski propisi", broj 37/03), Skupština opštine Nikšić, na sjednici održanoj 29.10.2007. godine, donosi
+O D L U K U
