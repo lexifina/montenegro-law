@@ -1,0 +1,2 @@
+Na osnovu člana 23. stav 1. Zakona o građevinskom zemljištu (,,Sl. list RCG", broj 55/00 ), člana 45. stav 1. tačka 9. Zakona o lokalnoj samoupravi (,,Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 ), člana 6. Odluke o građevinskom zemljištu ( ,,Sl. list RCG- opštinski propisi", broj 3/03) i člana 35. Statuta Opštine Danilovgrad (,, Sl. list RCG - opštinski propisi", broj 30/04) Skupština opštine Danilovgrad, na sjednici održanoj 22. 10. 2007. godine, donijela je
+O D L U K U
