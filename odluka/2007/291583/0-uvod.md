@@ -1,0 +1,2 @@
+Na osnovu čl. 45. a u vezi sa čl. 38. stav 1. tačka 44. Statuta Opštine Žabljak ("Sl.list RCG-opštinski propisi", br. 9/05 i 23/07), čl. 27. Zakona o društvenim djelatnostima ("Sl.list SRCG", br. 19/90 i "Sl.list RCG", br. 6/91, 27/91 i 21/95), člana 10. alineja 1. Odluke o osnivanju Javne ustanove Centar za kulturu Žabljak (broj 01-664 od 10.05.1993.godine) Skupština opštine Žabljak, na sjednici održanoj dana 19.10. 2007.godine, donijela je
+O D L U K U
