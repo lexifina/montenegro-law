@@ -1,0 +1,2 @@
+Na osnovu čl. 31 i 54 Zakona o planiranju i uređenju prostora ("Sl. list RCG", br. 28/05) člana 60 Statuta Opštine Nikšić ("Sl. list RCG-opštinski proopisi", br. 20/04 i 43/06), Programa planiranja i uređenja prostora Opštine Nikšić za period od 2006. do 2011. godine ("Sl. list RCG -opštinski propisi", broj 27/06) i Programa planiranja i uređenja prostora Opštine Nikšić za 2007. godinu ("Sl. list RCG - opštinski proopisi", br. 08/07), predsjednik opštine Nikšić, donosi
+ODLUKU
