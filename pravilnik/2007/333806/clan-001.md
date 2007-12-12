@@ -1,0 +1,2 @@
+# Član 1
+Radi sprovođenja utvrđenog obima zdravstvene zaštite iz oblasti prevencije i liječenja bolesti usta i zuba (u daljem tekstu: stomatološke usluge) iz obaveznog zdravstvenog osiguranja, Republički fond za zdravstveno osiguranje (u daljem tekstu: Fond) sa izabranim doktorom stomatologije i izabranim timom (u daljem tekstu: davaoc usluga), zaključuje ugovor o pružanju stomatoloških usluga osiguranim licima i plaćanju stomatoloških usluga, u skladu sa ovim pravilnikom.
