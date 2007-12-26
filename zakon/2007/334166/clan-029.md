@@ -1,0 +1,4 @@
+# Član 29
+Ministarstvo u vanrednim stanjima vrši poslove koordiniranja i komandovanja operativnim jedinicama, sprovođenja mobilizacije, pravovremenog obavještavanja i kontrole sprovođenja propisanih mjera i aktivnosti u zaštiti i spašavanju, osim traganja i spašavanja na moru, i vodi evidencije o operativnim jedinicama, sredstvima i preduzetim mjerama u zaštiti i spašavanju u vanrednim stanjima.
+Jedinica za gašenje požara iz vazduha organizuje se u okviru posebne organizacione jedinice Ministarstva.
+Način organizovanja i djelovanja operativnih jedinica, koordiniranje, komandovanje i mobilizacija operativnih jedinica u zaštiti i spašavanju u vanrednim stanjima, evidencije i način vođenja evidencija o operativnim jedinicama, sredstvima i preduzetim mjerama u vanrednim stanjima utvrđuju se propisom Ministarstva.

@@ -1,0 +1,4 @@
+# Član 40
+Organ državne uprave nadležan za poslove seizmologije dužan je da Ministarstvu daje saopštenja i stručne informacije u vezi sa nastankom zemljotresa, kao i prognozu vrste i obima posljedica njihovog dejstva na lica, imovinu i životnu sredinu.
+U slučaju nastanka vanrednog stanja prouzrokovanog razornim zemljotresom, organ državne uprave nadležan za poslove seizmologije i Ministarstvo dužni su da sačine analizu efekata razornog zemljotresa na ljudima, građevinskim objektima i životnoj sredini na ugroženom području.
+Organ državne uprave nadležan za poslove seizmologije i Ministarstvo dužni su da Vladi, najkasnije u roku od 30 dana od nastanka razornog zemljotresa, dostave detaljni izvještaj sa analizom vanrednog stanja izazvanog dejstvom razornog zemljotresa i njegovih razornih efekata.

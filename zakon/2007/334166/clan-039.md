@@ -1,0 +1,3 @@
+# Član 39
+Organ državne uprave nadležan za poslove hidrometeorologije dužan je da Ministarstvu pruži stručnu pomoć i dostavi meteorološke i hidrološke informacije, prognoze i upozorenja o uslovima koji prethode atmosferskim i hidrološkim elementarnim nepogodama i akcidentnim zagađenjima vazduha i voda, kao i o toku njihovog trajanja.
+Privredna društva, druga pravna lica i preduzetnici koji obavljaju meteorološka i hidrološka mjerenja i osmatranja dužna su da raspoložive podatke i informacije o stanju voda i atmosfere, prikupljene u zoni i u vrijeme dejstva pojava koje prouzrokuju nepogode i akcidente iz stava 1 ovog člana, dostavljaju organu državne uprave nadležnom za poslove hidrometeorologije i Ministarstvu.

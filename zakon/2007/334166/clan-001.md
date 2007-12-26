@@ -1,0 +1,2 @@
+# Član 1
+Zaštita i spašavanje obuhvata skup mjera i radnji koje se preduzimaju u cilju otkrivanja i sprječavanja opasnosti od prirodnih nepogoda, požara, tehničko-tehnoloških nesreća, hemijskih, bioloških, nuklearnih i radioloških kontaminacija, posljedica ratnog razaranja i terorizma, epidemija, epizootija, epifitotija i drugih nesreća, kao i spašavanja građana i materijalnih dobara ugroženih njihovim djelovanjem.

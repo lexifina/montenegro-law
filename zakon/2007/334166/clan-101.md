@@ -1,0 +1,3 @@
+# Član 101
+Privredna društva, druga pravna lica i preduzetnici dužni su da obezbijede da se zaposleni, prema posebno utvrđenom programu, upoznaju sa opasnostima od požara vezanim za poslove i zadatke na koje su raspoređeni, kao i sa mjerama i sredstvima za gašenje požara, praktičnom upotrebom priručnih aparata, uređaja, opreme i sredstava za gašenje požara i sa materijalnom i drugom odgovornošću zbog nepridržavanja propisanih mjera zaštite od požara.
+Privredna društva, druga pravna lica i preduzetnici dužni su da najmanje jednom godišnje vrše provjeru znanja zaposlenih, u skladu sa opštim aktom iz člana 102 ovog zakona, o čemu mora postojati dokumentacija.

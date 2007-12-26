@@ -1,0 +1,2 @@
+# Član 24
+Vlasnici i korisnici objekata u kojima se okuplja veći broj ljudi, kao što su škole, saobraćajni terminali, sportske dvorane i stadioni, veliki trgovački centri, velika proizvodna i druga postrojenja, kao i privredna društva, druga pravna lica i preduzetnici iz čl. 49 i 50 ovog zakona dužni su da uspostave i održavaju sistem javljanja i obavještavanja i obezbijede povezanost sistema sa OKC 112.

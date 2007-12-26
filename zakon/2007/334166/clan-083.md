@@ -1,0 +1,3 @@
+# Član 83
+## 6) Zaštita i spašavanje od poplava
+Zaštita i spašavanje od poplava obuhvata regulisanje vodotoka, izgradnju zaštitnih objekata, održavanje i saniranje oštećenih djelova zaštitnih objekata, posmatranje i izviđanje stanja vodotoka i visokih brana, zaštitnih objekata i okoline, obilježavanje visinskih kota plavnog talasa, pravovremeno javljanje i obavještavanje stanovništva ugroženog područja, sprovođenje evakuacije stanovništva i materijalnih dobara iz ugroženog područja, obezbjeđivanje prelaza i prevoza preko vode, spašavanje ugroženih lica na i pod vodom, crpljenje vode iz poplavljenih objekata i izvlačenje utopljenika, obezbjeđivanje stanovništvu poplavljenih područja osnovnih uslova za život i učešće u saniranju posljedica izazvanih poplavama.

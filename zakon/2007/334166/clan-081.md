@@ -1,0 +1,4 @@
+# Član 81
+## 4) Radiološka, hemijska i biološka zaštita
+Radiološka, hemijska i biološka zaštita obuhvata mjere i sredstva za pravovremeno otkrivanje i praćenje opasnosti od posljedica nesreća izazvanih opasnim materijama i radiološkim, hemijskim i biološkim oružjem, kao i preduzimanje mjera za zaštitu i odstranjivanje njihovih posljedica.
+Privredna društva, druga pravna lica i preduzetnici, koji vrše djelatnost proizvodnje i skladištenja opasnih materija, prevoza, snabdijevanja vodom, proizvodnje, prometa i skladištenja životinja, lijekova i stočne hrane, zdravstvene zaštite, kao i obrazovanja, vaspitanja i socijalne zaštite, dužni su da u objektima u kojima vrše djelatnost, na uređajima i sredstvima kojima vrše djelatnost, obezbijede zaštitna sredstva i sprovode zaštitu iz stava 1 ovog člana.
