@@ -1,0 +1,2 @@
+Na osnovu člana 51 Zakona o lokalnoj samoupravi ("Službni list RCG" broj 42/03, 28/04, 75/05 i 13/06), člana 40 Statuta opštine Nikšić ("Službeni list RCG-opštinski propisi", broj 20/04 i 43/06) i člana 13,15 i 18 Odluke o lokalnim javnim radio - difuznim servisima "Radio Nikšić" i "Televizija Nikšić" ("Službeni list RCG-opštinski propisi", br. 29/05 i 1/06), Skupština opštine Nikšić, na sjednici održanoj 26.12.2007. godine, donosi
+O D L U K U
