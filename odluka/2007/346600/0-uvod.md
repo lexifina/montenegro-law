@@ -1,0 +1,2 @@
+Na osnovu člana 31. i 54. Zakona o planiranju i uređenju prostora (’’Službeni list RCG’’, br. 28/05) i člana 72. Statuta Glavnog grada (’’Službeni list RCG’’, br. 28/06) i Jednogodišnjeg programa planiranja i uređenja prostora Glavnog grada - Podgorice za 2007.godinu (’’Službeni list RCG- opštinski propisi’’, br. 8/07) donijetog na osnovu Petogodišnjeg programa planiranja i uređenja prostora Opštine Podgorica za period 2006- 2010 godine (’’Službeni list RCG - opštinski propisi’’, br.3/06) Gradonačelnik Glavnog grada - Podgorice, donio je-
+O D L U K U
