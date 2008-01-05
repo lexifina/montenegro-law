@@ -1,0 +1,2 @@
+Na osnovu člana 58 Zakona o lokalnoj samoupravi («Službeni list RCG» br. 42/03, 28/04, 75/05 i 13/06), člana 9 Zakona o imovini RCG ( "Službeni list RCG» br. 44/99), člana 23 Zakona o građevinskom zemljištu ( "Službeni list RCG" broj 55/00) i člana 66 alineja 26 Statuta Prijestonice («Službeni list RCG»-opštinski propisi br. 3/05), i Odluka o imjenama i dopunama Statuta Prijestonice («Službeni list RCG»-opštinski propisi br.9/05 i 39/06), Predsjednik Prijestonice donosi
+O D L U K U
