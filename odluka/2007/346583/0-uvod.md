@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Sl.list RCG" br. 42/03), člana 64,66 i 67 Zakona o privrednim društvima ( "Sl.list RCG" br. 6/02)i člana 32. stav 1 tačka 9 , a u vezi člana 13. stav 1 tačka 2 alineja 2 i tačka 5 alineja 4 Statuta opštine Andrijevica ("Službeni list RCG - opštinski propisi" br. 21/04 i 42/06) , Skupština opštine Andrijevica na sjednici održanoj 21. decembra 2007. godine , donijela je
+O D L U K U
