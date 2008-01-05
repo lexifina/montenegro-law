@@ -1,0 +1,2 @@
+Na osnovu člana 47 stav 3, u vezi sa članom 50 stav 2 Zakona o Glavnom gradu (»Službeni list RCG«, broj 65/05) i članom 45 Zakona o finansiranju lokalne samouprave (»Službeni list RCG«, br. 42/03) i člana 48 stav 1 alineja 16 Statuta Glavnog grada (»Službeni list RCG-opštinski propisi«, broj 28/06), Skupština Glavnog grada - Podgorice, na sjednici održanoj 27.12.2007. godine, donijela je
+O D L U K U
