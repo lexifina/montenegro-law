@@ -1,0 +1,2 @@
+Na osnovu člana 23 stav 1 Zakona o građevinskom zemljištu ( "Službeni list RCG" broj 55/00), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi (" Službeni list RCG" broj 42/03, 28/04, 75/05 i 13/06), člana 2 Uredbe o načinu i postupku sprovođenja javnog nadmetanja odnosno prikupljanja ponuda u postupku prenosa prava na gradskom građevinskom zemljištu ( "Službeni list RCG" broj 38/03), člana 52. Statuta Prijestonice ("Službeni list RCG-opštinski propisi", br. 3/05, 9/05 i 39/06), Skupština opštine Cetinje, na sjednici održanoj 21. 12. 2007. godine donosi
+ODLUKU
