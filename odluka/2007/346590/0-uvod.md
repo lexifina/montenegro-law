@@ -1,0 +1,2 @@
+Na osnovu člana 23 stav 1 Zakona o građevinskom zemljištu («Službeni list RCG», broj 55/00), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi («Službeni list RCG» , broj 42/03 ,28/04, 75/05 i 13/06), člana 32 stav 1 alineja 9 i člana 40 Statuta opštine Nikšić (»Službeni list RCG-opštinski propisi«, broj 20/04 i 43/06) i člana 4 stav 2 tačka 4 Odluke o građevinskom zemljištu (»Službeni list RCG-opštinski propisi«, broj 18/03 i 27/06), Skupština opštine Nikšić, na sjednici održanoj 26.12.2007.godine, donosi
+O D L U K U
