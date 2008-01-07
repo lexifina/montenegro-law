@@ -1,0 +1,13 @@
+# Član 4
+Kandidata
+za
+PredsjednikamožepredložitipolitičkastrankailigrupagraĎana, naosnovupotpisanajmanje
+1,5%
+birača
+od
+ukupnogbrojabirača, računajućipremapodacima
+o
+brojubiračasaizborakojisuprethodiliodluci
+o raspisivanjuizbora.
+PojedinapolitičkastrankailigrupagraĎanamožepredložitisamojednogkandidata.
+Dvijeilivišepolitičkihstranakamogupredložitizajedničkogkandidata.

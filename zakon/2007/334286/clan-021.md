@@ -1,0 +1,10 @@
+# Član 21
+Sredstva za pokrićetroškova za izborPredsjednikaobezbjeĎuju se u budžetuCrne Gore.
+Kandidati
+za
+Predsjednikakojinaizborudobijunajmanje
+5% odvažećihglasovaimajupravonajednakunaknadutroškovaizbornepropagande.
+Visinunaknadeizstava
+2
+ovogčlanautvrĎujeSkupštinaCrne
+Gore popribavljenommišljenjuDržavneizbornekomisije, najkasnijenadanraspisivanjaizbora.

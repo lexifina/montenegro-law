@@ -1,0 +1,2 @@
+# Član 14
+DržavnaizbornakomisijautvrĎujeprivremenerezultateizbora, u rokuod 12 časova od dostavljanjaizvještajaopštinskihizbornihkomisija.

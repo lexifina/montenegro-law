@@ -1,0 +1,8 @@
+# Član 18
+Akonekiodkandidataizčlana 17 stav 2 ovogzakonaodustaneodizbora, pravo da učestvuje
+u
+drugomizbornomkrugustičekandidatkoji
+je sljedećipobrojudobijenihglasovau prvomizbornomkrugu.
+Ako
+u
+drugomizbornomkruguostanesamojedankandidat, zbogodustajanjadrugihkandidata, tajkandidat se smatraizabranim.

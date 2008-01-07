@@ -1,0 +1,5 @@
+# Član 7
+DržavnaizbornakomisijautvrĎujelistukandidata za Predsjednika u rokuod 48 časovaod istekarokaizčlana 6 stav 1 ovogzakona.
+Kandidatmožeodustatiodkandidaturenajkasnije do utvrĎivanjalistekandidata.
+RedoslednalistikandidatautvrĎujeDržavnaizbornakomisijažrijebom,
+u prisustvuovlašćenihpredstavnikapodnosilacapredlogakandidata.

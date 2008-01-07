@@ -1,0 +1,6 @@
+# Član 11
+Biračmožeglasatisamo za jednogkandidata.
+Glasa
+se
+zaokruživanjemrednogbrojaispredimena
+i prezimenakandidatailizaokruživanjemnjegovogimena i prezimena.
