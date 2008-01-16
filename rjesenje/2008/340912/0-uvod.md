@@ -1,0 +1,1 @@
+Na osnovu člana 36. stav 1. tačka 25. Statuta Opštine Herceg Novi ("Sl.list RCG" - opštinski propisi,br. 15/04.31/06, 14/07) i člana 39. Statuta JP "Čistoća" Herceg Novi , na sjednici od 28.12.2007.godine, donosi
