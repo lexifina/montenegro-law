@@ -1,0 +1,1 @@
+Na osnovu člana 16.stav 1. i 2. Zakona o javnim preduzećima ("Sl.list RCG" br. 6/91) i člana 36. stav 1. tačka 15. ("Sl.list RCG"-opštinski propisi,br. 15/04, 31/06 i 14/07) Skupština opštine Herceg Novi na sjednici održanoj dana 28.12.2007.godine, donosi
