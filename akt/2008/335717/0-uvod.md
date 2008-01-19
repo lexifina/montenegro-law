@@ -1,0 +1,2 @@
+Na osnovu člana 131 stav 4, a u vezi sa članom 154 stav 2 Zakona o radu ("Službeni list RCG", br. 43/03 i 25/06) i člana 40 Kolektivnog ugovora za Stručnu službu Crnogorske akademije nauka i umjetnosti ("Službeni list RCG", broj 21/07), Sindikalna organizacija Crnogorske akademije nauka i umjetnosti, Crnogorska akademija nauka i umjetnosti i Vlada Crne Gore, zaključuju
+KOLEKTIVNI UGOVOR O IZMJENAMA I DOPUNAMA KOLEKTIVNOG UGOVORA ZA STRUČNU SLUŽBU CRNOGORSKE AKADEMIJE NAUKA I UMJETNOSTI
