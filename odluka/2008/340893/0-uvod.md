@@ -1,0 +1,2 @@
+Na osnovu člana 44. tačka 4 Zakona o finansiranju lokalne samouprave ("Sl.list RCG", broj 42/03 i 44/03 ), člana 45 Zakona o lokalnoj samoupravi ("Sl.list RCG" broj 42/03, 28/04, 75/05 i 13/06), člana 28 i 29 Zakona o Budžetu ("Sl.list RCG" broj 40/01) i člana 34 tačka 6. Statuta Opštine Plav ("Sl.list RCG - opštinski propisi", br. 17/07), Skupština opštine Plav, na sjednici održanoj 26.12. 2007. godine, donosi
+O D L U K U
