@@ -1,0 +1,2 @@
+# Član 2
+Ovom odlukom se utvrđuju naknade iz člana 175 Zakona koje se plaćaju za osnivanje društava koja obavljaju poslove osiguranja, zastupanja, posredovanja i pružanja drugih usluga u osiguranju - dozvole za rad; naknade za davanje saglasnosti i odobrenja; naknade za polaganje stručnih ispita i sticanje zvanja; naknada za vršenje nadzora i ostale naknade za poslove koje u skladu sa zakonima i drugim propisima vrši Agencija, kao i visina, način obračuna i plaćanja istih.
