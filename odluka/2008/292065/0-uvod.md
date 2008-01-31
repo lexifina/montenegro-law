@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 10 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/3, 28/04, 75/05 i 13/06), čl. 31. stav 1. tačka 10. Statuta Opštine Bijelo Polje ("Sl.list RCG -opštinski propisi", br. 25/04 i 33/06") i čl.15. Odluke o mjesnim zajednicama ("Sl.list RCG -opštinski propisi", br. 18/05) Skupština opštine Bijelo Polje, na sjednici održanoj dana 13.12.2007 godine, donijela je
+O D L U K U
+o davanju saglasnosti na O D L U K U Zbora građana o osnivanju Mjesne zajednice
