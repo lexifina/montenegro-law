@@ -1,0 +1,5 @@
+# Član 4
+## Prijava sumnje primarnog i sekundarnog izbijanja zarazne bolesti
+Ako se pojavi zarazna bolest ili znakovi na osnovu kojih se sumnja da je životinja oboljela ili uginula od zarazne bolesti, vlasnik životinje bez odlaganja mora obavijestiti najbližu veterinarsku ambulantu, odnosno veterinara ili veterinarskog inspektora.
+Ako veterinar postavi sumnju na primarno ili sekundarno izbijanje bolesti sa Liste bolesti koje podliježu obavezi prijavljivanja pod rednim br.: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 25, 30, 37, 38, 54, 56, 57, 58, 59, 64, 66, 71, 86, 88, 89, 92, 94, 95, 149 i 150 dužan je da bez odlaganja, a najkasnije u roku od 24 sata (telefonom, telefaksom ili elektronskim putem) prijavi nadležnom veterinarskom inspektoru, koji bez odlaganja, a najkasnije u roku od 24 sata, obavještava nadležni organ (telefonom, telefaksom ili elektronskim putem).
+Prijava sumnje na zaraznu bolest iz stava 2 ovog člana, vrši se na Obrascu ,,PS" koji je odštampan uz ovaj pravilnik i čini njegov sastavni dio.
