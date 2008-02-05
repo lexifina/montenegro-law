@@ -1,0 +1,2 @@
+Na osnovu člana 3. Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/2000, 18/2000, 9/2001, 41/2002, 46/2002, 48/06 i 56/06) i člana 58 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06) i člana 56 stav 1 tačka 25 Statuta Opštine Tivat ("Službeni list RCG-opštinski propisi", br. 40/04 i 26/06), Predsjednik opštine Tivat dana 05.02.2008.godine, donio je
+O D L U K U
