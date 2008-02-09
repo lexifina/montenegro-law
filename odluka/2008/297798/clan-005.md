@@ -1,0 +1,3 @@
+# Član 5
+Poslovi ustupanja izvođenja radova i organizovanja stručnog nadzora u toku građenja deponije i potrebne infrastrukture, u skladu sa zakonom, kao i poslovi održavanja i upravljanja deponijom, povjeravaju se preduzeću "Lovanja" d.o.o. Kotor.
+Poslovi izrade plana zatvaranja i poslovi zatvranja privremene regionalne sanitarne deponije Lovanja (osiguranje stabilnosti deponije, tehnička i biološka rekultivacija, praćenje uticaja deponije na životnu sredinu i preduzimanje odgovarajućih mjera i realizacija aktivnosti u roku utvrđenim planom zatvaranja) povjeravaju se preduzeću "Lovanja" d.o.o. Kotor.
