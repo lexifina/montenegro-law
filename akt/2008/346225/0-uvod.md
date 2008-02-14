@@ -1,0 +1,1 @@
+Na osnovu čl. 14. stav 1. Zakona o planiranju i uređenju prostora ("Sl. list RCG", br. 28/05) i čl. 38. stav 1. tačka 3. Statuta Opštine Žabljak ("Sl. list RCG-opštinski propisi", br. 9/05 i 23/07), Skupština opštine Žabljak, na sjednici održanoj dana 23.01.2008.godine, donijela je
