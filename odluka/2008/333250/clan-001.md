@@ -1,0 +1,2 @@
+# Član 1
+Utvrđuje se početna visina koncesione naknade za davanje prava na korišćenje šuma preduzećima registrovanim u skladu sa čl. 9 i 16 tačka 5 Zakona o šumama ("Službeni list RCG", broj 55/00), ( u daljem tekst: Zakon o šumama), od strane Uprave za šume Pljevlja, za 2008.godinu, putem Ugovora na osnovu javnog konkursa, u sljedećim područnim jedinicama: Pljevlja, Rožaje, Berane, Bijelo Polje, Plav, Andrijevica, Kolašin, Podgorica, Danilovgrad, Mojkovac, Žabljak, Nikšić, Plužine, Šavnik.
