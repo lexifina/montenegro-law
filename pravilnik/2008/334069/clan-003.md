@@ -1,0 +1,3 @@
+# Član 3
+(1) PDVUD čiji je ukupan godišnji prihod preko 500.000 € pripremaju godišnje finansijske izvještaje u skladu s međunarodnim računovodstvenim standardima, uz primjenu načela fakturisane realizacije prilikom iskazivanja godišnjih prihoda, a izvještaje o novčanim tokovima na modifikovanoj gotovinskoj osnovi.
+(2) PDVUD čiji je ukupan godišnji prihod ispod 500.000 € pripremaju godišnje finansijske izvještaje u skladu s međunarodnim računovodstvenim standardima, uz primjenu načela, gotovinske realizacije prilikom iskazivanja godišnjih prihoda, a izvještaje o novčanim tokovima na modifikovanoj gotovinskoj osnovi.

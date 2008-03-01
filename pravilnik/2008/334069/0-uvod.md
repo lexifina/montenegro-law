@@ -1,0 +1,4 @@
+Na osnovu člana 53 Zakona o budžetu ("Službeni list RCG", br. 40/01, 71/05 i "Službeni list CG", broj 12/07), člana 6 Zakona o računovodstvu i reviziji ("Službeni list RCG", broj 69/05) Ministarstvo finansija donijelo je
+PRAVILNIK O NAČINU PRIPREME, SASTAVLJANJA I PODNOŠENJA FINANSIJSKIH IZVJEŠTAJA
+NEZAVISNIH REGULATORNIH TIJELA, PRAVNIH LICA, AKCIONARSKIH DRUŠTAVA I
+DRUŠTAVA SA OGRANIČENOM ODGOVO-RNOŠĆU U KOJIMA DRŽAVA ILI OPŠTINE IMAJU VEĆINSKI UDIO U VLASNIŠTVU
