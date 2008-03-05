@@ -1,0 +1,2 @@
+# Član 9
+Postupak notifikacije se sprovodi ako predloženi tehnički propis nema osnovu u međunarodnom standardu ili nije u skladu sa njim, a može da ima značajnog uticaja na spoljnu trgovinu ili ako se, zbog nastupanja ili prijetnje da će nastupiti opasnosti koje ugrožavaju bezbjednost, zdravlje ljudi, životinja i biljaka i životne sredine, prije donošenja tehničkog propisa ne sprovede postupak notifikacije.
