@@ -1,0 +1,2 @@
+Na osnovu člana 57. stav 1. tačka 5, a u vezi čl. 70. i 81. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06), čl. 5. i 14. Odluke o organizaciji i načinu rada lokalne uprave ("Sl. list RCG -opštinski propisi", br. 3/07) i čl. 55. i 58. Statuta Opštine Šavnik ("Sl.list RCG -opštinski propisi" br. 36/04) na predlog glavnog administratora predsjednik Opštine, donosi
+ODLUKU
