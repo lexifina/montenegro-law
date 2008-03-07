@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom uređuju se uslovi koje moraju ispunjavati privredna društva, ustanove ili institucije koje vrše provjeru bezbjednosno-tehničkih uslova i uslova zaštite životne sredine i zdravlja ljudi (u daljem tekstu: homologacijska i ekološka ispravnost) korišćenih vozila koja se uvoze u Crnu Goru, obrazac i sadržaj certifikata o homologacijskoj i ekološkoj ispravnosti korišćenih vozila, kao i visina naknade za provjeru ispunjenosti uslova i način vršenja provjere ispunjenosti uslova.
