@@ -1,0 +1,3 @@
+# Član 38
+Dodatna bezbjednosna provjera vrši se kada se dozvola za pristup tajnim podacima traži za podatke označene stepenom "STROGO TAJNO".
+Dodatna bezbjednosna provjera obuhvata, pored provjere činjenica iz osnovne i specijalne bezbjednosne provjere, i provjeru svih onih činjenica, okolnosti i događaja iz privatnog života podnosioca zahtjeva u posljednjih deset godina od dana podnošenja zahtjeva za izdavanje dozvole za pristup tajnim podacima, koje mogu da budu osnov za sumnju u njegovu pouzdanost, a naročito ako su njegove aktivnosti u suprotnosti sa interesima Crne Gore ili ako je povezan sa stranim licima koja mogu da ugroze spoljnu politiku i bezbjednost Crne Gore.

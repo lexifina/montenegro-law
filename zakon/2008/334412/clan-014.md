@@ -1,0 +1,2 @@
+# Član 14
+Ovlašćena lica za određivanje stepena tajnosti podataka "STROGO TAJNO" su: Predsjednik Crne Gore, predsjednik Skupštine Crne Gore, predsjednik i članovi Vlade Crne Gore, starješina organa uprave nadležnog za poslove policije, starješina organa uprave nadležnog za sprječavanje pranja novca i finansiranja terorizma, direktor Agencije za nacionalnu bezbjednost (u daljem tekstu: Agencija), državni tužilac i predsjednik Vrhovnog suda.
