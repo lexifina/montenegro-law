@@ -1,0 +1,2 @@
+# Član 1
+Radi ostvarivanja zajedničkih interesa građana u oblasti vodosnabdijevanja opština Herceg Novi, Kotor, Tivat, Budva, Bar i Ulcinj (u daljem tekstu: Crnogorsko primorje), Javno preduzeće za vodosnabdijevanje, deponovanje čvrstog otpada za područje Crnogorskog primorja i Cetinja, organizuje se i posluje kao Javno preduzeće regionalni vodovod Crnogorsko primorje (u daljem tekstu: Javno preduzeće).

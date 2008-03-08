@@ -1,0 +1,2 @@
+# Član 12
+Direktor preduzeća predlaže akte koje donosi Upravni odbor i odgovoran je za sprovođenje odluka i drugih akata Upravnog odbora, predlaže planove i program rada i razvoja preduzeća, učestvuje u utvrđivanju kriterijuma za korišćenje sredstava i raspodjelu dobiti, zaključuje ugovor sa opštinama o uslovima vodosnabdijevanja i međusobnim odnosima u pružanju usluga vodosnabdijevanja; vrši međusobnu koordinaciju poslovne aktivnosti svih subjekata i vrši druge poslove utvrđene zakonom, aktom o osnivanju, Statutom preduzeća i odlukama Upravnog odbora.
