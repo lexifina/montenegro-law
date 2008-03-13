@@ -1,0 +1,3 @@
+# Član 5
+## Druge usluge u vezi sa prevozom
+Drugim uslugama u vezi s prevozom iz člana 2 tačka 4 ove uredbe smatraju se: pretovarne i prateće usluge u lukama i pristaništima, vazduhoplovnim pristaništima, željezničkim stanicama i drugim mjestima, aerodromske usluge (služba kontrole leta, meteorološka služba, vatrogasna služba, služba prihvata i snabdijevanja vazduhoplova gorivom i mazivom, služba hitne pomoći i dr), neophodne za bezbjedno polijetanje i slijetanje vazduhoplova, usluge spašavanja i tegljenja brodova, spašavanje i vađenje plovila i popravke prevoznih sredstava u toku prevoza u svim vrstama saobraćaja.

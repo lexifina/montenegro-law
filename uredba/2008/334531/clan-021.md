@@ -1,0 +1,3 @@
+# Član 21
+## Veće narušavanje sistema
+U slučaju većeg narušavanja sistema elektronske komunikacije i poštanske djelatnosti ili nedovoljnog kapaciteta elektronske komunikacije na određenom dijelu teritorije Crne Gore, vršenje usluga obezbjeđuje organ uprave nadležan za poslove saobraćaja, pomorstva i telekomunikacija, premještanjem i upotrebom ljudskih i materijalno-tehnickih kapaciteta s drugih djelova teritorije Crne Gore uz obezbjeđenje neprekidnosti elektronskih komunikacija za prioritetne korisnike usluga (Ministarstvo odbrane, Ministarstvo inostranih poslova i Ministarstvo unutrašnjih poslova i javne uprave).
