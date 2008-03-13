@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom određuju se veliki tehnički sistemi od značaja za odbranu i tehnička sredstva od značaja za funkcionisanje tih sistema u oblasti: telekomunikacija, informatike, saobraćaja, elektroenergetike, vodosnabdijevanja i drugim oblastima od značaja za odbranu i propisuje postupak obavještavanja o izboru, izgradnji i razvoju tih sistema, nabavkama tehničkih sredstava značajnih za njihovo funkcionisanje i postavljanje zahtjeva za njihovo usklađivanje sa potrebama odbrane.
