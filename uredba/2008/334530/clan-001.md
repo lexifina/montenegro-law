@@ -1,0 +1,2 @@
+# Član 1
+Ovom uredbom se propisuje vođenje evidencije vojnika po ugovoru, podoficira i podoficira po ugovoru, oficira i oficira po ugovoru ( u daljem tekstu: profesionalna vojna lica), civilnih lica na službi u Vojsci Crne Gore (u daljem tekstu: civilna lica), rezervnih vojnika, rezervnih podoficira i rezervnih oficira (u daljem tekstu: lica u rezervnom sastavu), kadeta, stipendista i građana upisanih u vojnu evidenciju.
