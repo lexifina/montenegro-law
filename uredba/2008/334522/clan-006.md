@@ -1,0 +1,3 @@
+# Član 6
+Ugovor iz člana 5 stav 1 ove uredbe naročito sadrži: podatke o vodnom objektu koji se daje na korišćenje i održavanje, trajanje i druge uslove korišćenja vodnog objekta, obavezu održavanja vodnog objekta u skladu sa tehničkim pravilima o funkcionisanju i režimu eksploatacije vodnih sistema i izdatim vodnim aktima, način kontrole sprovođenja ugovora od strane nadležnog organa uprave, uslove raskida ugovora prije isteka vremena korišćenja i druge uslove od značaja za ugovorne strane.
+Vodnim objektima III kategorije iz člana 2 ove uredbe upravljaju i održavaju ih njihovi vlasnici, odnosno korisnici, u skladu sa izdatim vodnim aktima i zakonom.
