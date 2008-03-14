@@ -1,0 +1,2 @@
+# Član 2
+Opštine: Campomarino, Guglionesi, Larino, Petaccciato, Portocannone, San Giacomo, Degli Schiavoni, San Martino in Pensilis i Ururi iz Republike Italije, Opštine: Skadar i Kruja iz Republike Albanije i Opštine: Kotor, Budva, Herceg Novi, Tivat, Bar i Ulcinj iz Republike Crne Gore na principima izražene volje, meĎusobnog uvažavanja i obostranih interesa njihovih graĎana, pristupaju Eurodistriktu "Južni Jadran" u cilju uspostavljanja privredne, ekonomske, socijalne i kulturne saradnje.
