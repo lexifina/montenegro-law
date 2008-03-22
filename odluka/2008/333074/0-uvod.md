@@ -1,0 +1,2 @@
+Na osnovu člana 45. stav 1. tačka 2. i 8. Zakona o lokalnoj samoupravi ("Sl.list RCG", br.42/03, 28/04, 75/05 i 13/06), člana 6. stav 1. tačka 3. i člana 12. Zakona o finansiranju lokalne samouprave ("Sl.list RCG", br.42/03 i 44/03 i "Sl.list CG", br.5/08) i člana 33. Statuta Opštine Berane ("Sl.list RCG"-opštinski propisi br.21/04 i 34/06), Skupština Opštine Berane na sjednici od 29. 02. 2008. godine, donijela je
+O D L U K U
