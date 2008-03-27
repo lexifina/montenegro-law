@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2, člana 87.stav 1, a u vezi sa članom 90Zakona o lokalnoj samoupravi(''Sl.list RCG'', br.42/03, 28/04, 75/05 i 13/06), člana 31 stav 1 tačka 2 u vezi člana 79 Statuta Opštine Bijelo Polje(''Sl.list RCG'', br.25/04 i 33/06), i člana 5 Zakona o izmjenama i dopunama Zakona o zaradama državnih službenika i namještenika (''Sl.list CG''.br.17/07), na predlog Odbora za izbor i imenovanja, Skupština opštine Bijelo Polje, na sjednici održanoj dana 03. 03. 2008.godine, donijela je
+O D L U K U
