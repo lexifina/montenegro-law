@@ -1,0 +1,2 @@
+# Član 4
+Izvještaj sa javne rasprave, mišljenja nadležnih ustanova, kao i izvještaj Komisije za stručnu ocjenu Plana, dostaviće se obraĎivaču radi izrade Predloga plana. ObraĎivač je dužan da postupi po primjedbama recenzione komisije i nadležnih državnih ustanova, da razmotri primjedbe i predloge koji se budu formirali tokom javne rasprave i prihvati one koji su opravdani, i da na osnovu toga izradi predlog plana i dostavi ga na dalju proceduru.
