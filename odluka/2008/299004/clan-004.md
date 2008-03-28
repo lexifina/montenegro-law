@@ -1,0 +1,3 @@
+# Član 4
+Član 4. mijenja se i glasi:
+«Opština Kotor je saglasna da novčanu obavezu iz člana 3. stav 5. ove Odluke, u iznosu od 149.923,05 €, «Trecom» doo isplati u skladu sa čl.3. stav 2. Ugovora o prenosu prava korišćenja, OV II 2480/2001 od 21.06.2001.god., odnosno uvećanu za iznos od 64.872,32 € na ime zakonske zatezne kamate obračunate za period od 31. 12. 2001. god. kao krajnjeg roka za isplatu ugovorene obaveze pa do 29.02.2008.god, a uz uslov da se uknjižba dozvoli tek nakon cjelokupne isplate ugovorenog iznosa sa kamatom i precizno utvrĎenog razgraničenja uz definisanje namjene i vlasništva na kat.par. 124 K.O. Kotor II koje čini sastavni dio ove odluke, nakon čega će se pristupiti sačinjavanju Sporazuma i kat.parcelaciji.»

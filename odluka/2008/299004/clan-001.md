@@ -1,0 +1,5 @@
+# Član 1
+## o izmjenama i dopunama Odluke o načinu i uslovima regulisanja međusobnih novčanih potraživanja i imovinsko-pravnih odnosa Opštine Kotor i «Trecom» doo Kotor
+U Odluci o načinu i uslovima regulisanja meĎusobnih novčanih potraživanja i imovinsko-pravnih odnosa Opštine Kotor i «Trecom» doo Kotor («Sl.list Opštine Kotor» br. 3//01) iza člana 1. dodaje se novi član 1a koji glasi:
+« UtvrĎuje se nespornim da dug "Trecom" doo po osnovu zakupa poslovnih prostora iznosi 1.372.848, 53 €, po osnovu naknade za korišćenje gradskog graĎevinskog zemljišta iznosi 10.419, 22 € i po osnovu naknade za održavanje zajedničkih djelova zgrada iznosi 1.899, 26 €, sve zaključno sa 29.02.2008.godine, što ukupno iznosi 1.385.167,01 € (slovima: jedan milion trista osamdeset pet hiljada sto šezdeset sedam eura i 1/100).
+Obavezuje se "Trecom" doo da od iznosa duga utvrĎenog stavom 1. ovog člana izvrši isplatu Opštini Kotor odnosno Direkciji za ureĎenje i izgradnju Kotora iznos od 460.136, 54 € (slovima: četiristotinešezdeset hiljada stotridesetšest eura i 54/100) i to na ime:
