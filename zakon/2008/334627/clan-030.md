@@ -1,0 +1,5 @@
+# Član 30
+## Sadržina zahtjeva za izdavanje diplomatskog i službenog pasoša
+Zahtjev za izdavanje diplomatskog i službenog pasoša podnosi se na obrascu koji sadrži sljedeće podatke o licu za koje se zahtjev podnosi: prezime, ime, rođeno prezime, dan, mjesec i godinu rođenja, mjesto, opštinu i državu rođenja, jedinstveni matični broj, prebivalište i adresu stana, funkciju, odnosno zvanje, cilj putovanja u državu u koju putuje, kada i na koje vrijeme, po čijem nalogu, odnosno pozivu, broj ranije izdatog diplomatskog ili službenog pasoša i datum izdavanja; prezime, ime, dan mjesec i godinu rođenja, mjesto, opštinu i državu rođenja i jedinstveni matični broj člana uže porodice koji putuje sa njim; datum podnošenja zahtjeva, potpis ovlašćenog lica i otisak pečata organa iz člana 24 stav 2 ovog zakona.
+Podnosilac zahtjeva iz člana 24 stav 2 ovog zakona mora navesti tačne i istinite podatke u zahtjevu.
+Obrazac zahtjeva za izdavanje diplomatskog i službenog pasoša propisuje organ iz člana 22 stav 2 ovog zakona, a izrađuje Ministarstvo.
