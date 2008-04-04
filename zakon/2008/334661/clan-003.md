@@ -1,0 +1,2 @@
+# Član 3
+Pravo na isplatu deviznih sredstava građana (u daljem tekstu: deponent) iz člana 2 ovog zakona ima deponent koji ima ugovor o oročavanju deviznih sredstava sa Dafiment bankom AD Beograd u likvidaciji i ugovore o oročavanju sredstava na deviznu štednju i štednu knjižicu sa Bankom privatne privrede DD Podgorica, položenih preko preduzeća Jugoskandik DD Beograd, a kome isplata deviznih sredstava nije izvršena po zakonu države na čijoj teritoriji je sjedište banke.

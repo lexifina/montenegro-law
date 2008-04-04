@@ -1,0 +1,2 @@
+# Član 1
+Ovim zakonom uređuju se uslovi, način i rokovi isplate neisplaćenih oročenih deviznih sredstava građana po ugovorima o depozitu građana kod Dafiment banke AD Beograd u likvidaciji i ugovorima o oročavanju deviznih sredstava na deviznu štednju (u daljem tekstu: devizna sredstva) kod Banke privatne privrede DD Podgorica, položenih preko preduzeća Jugoskandik DD Beograd, za građane sa prebivalištem u Crnoj Gori.
