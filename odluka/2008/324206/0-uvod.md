@@ -1,0 +1,2 @@
+Na osnovu člana 2. Zakona o lokalnim komunalnim taksama («Službeni list RCG» br. 27/06), člana 45 stav 1 tačka 8 Zakona o lokalnoj samoupravi («Službeni list RCG» br. 42/03,28/04, 75/05 i 13/06), člana 5 tačka 6 Zakona o finansiranju lokalne samouprave («Službeni list RCG» br. 42/03 i «Službeni list Crne Gore» br.5/08) i člana 52 Statuta Prijestonice Cetinje («Službeni list RCG -opštinski propisi», br. 3/05,9/05 i 39/06) na sjednici održanoj dana 21.03.2008. godine, donijela je
+ODLUKU
