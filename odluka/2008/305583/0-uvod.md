@@ -1,0 +1,2 @@
+Na osnovu čl. 28. i 29. Zakona o graĎevinskom zemljištu («Službeni list RCG», broj 55/2000), člana 45. stav 1. tačka 8. Zakona o lokalnoj samoupravi )«Službeni list RCG», br. 42/03, 28/04, 75/05, 13/06), člana 5. stav 1. tačka 7. Zakona o finansiranju lokalne samouprave («Službeni list RCG», br. 42/03 i 44/03) i člana 52. Statuta Prestonice )«Službeni list RCG -opštinski propisi», br. 3/05, 9/05 i 13/06), Skupština Prestonice Cetinje, na sjednici održanoj dana 21. 03. 2008. godine, donijela je
+ODLUKU
