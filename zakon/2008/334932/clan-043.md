@@ -1,0 +1,5 @@
+# Član 43
+## Priznavanje valjanosti odobrenja druge države
+Nadležni organ može u postupku izdavanja odobrenja za stavljanje u promet GMO ili proizvoda koji sadrži, sastoji se ili je dobijen od GMO, nakon pribavljanja izvještaja NSBS, odnosno Nacionalnog savjeta za procjenu bezbjednosti hrane, podnosiocu prijave, rješenjem priznati valjanost isprave na osnovu koje je dobio odobrenje za stavljanje proizvoda u promet u drugoj državi, ako su u ispravi određeni uslovi koji odgovaraju uslovima utvrđenim ovim zakonom.
+Rješenjem iz stava 1 ovog člana određuje se i način monitoringa i obaveza izvještavanja o rezultatima monitoringa.
+Izuzetno od stava 1 ovog člana, nadležni organi iz člana 39, odnosno člana 40 ovog zakona može, nakon pribavljanja izvještaja NSBS ili Nacionalnog savjeta za procjenu bezbjednosti hrane, privremeno ograničiti ili zabraniti stavljanje u promet GMO ili proizvod koji sadrži, sastoji se ili je dobijen od GMO, ako je na osnovu informacije o novim naučno zasnovanim podacima utvrdio da GMO ili proizvod koji sadrži, sastoji se ili je dobijen od GMO može predstavljati rizik, koji prilikom izdavanja odobrenja nije bio uzet u obzir.

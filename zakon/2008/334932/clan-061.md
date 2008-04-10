@@ -1,0 +1,2 @@
+# Član 61
+Inspekcijski nadzor nad sprovođenjem ovog zakona i propisa donijetih na osnovu ovog zakona vrši Ministarstvo zdravlja preko sanitarnog inspektora, organ uprave nadležan za poslove veterinarstva preko veterinarskog inspektora, organ uprave nadležan za fitosanitarne poslove preko fitosanitarnog inspektora i organ uprave nadležan za zaštitu životne sredine preko inspektora za zaštitu životne sredine.

@@ -1,0 +1,2 @@
+# Član 12
+Nadležni organ uprave iz člana 10 st. 4, 5 i 6 ovog zakona u slučaju nedostatka naučnih informacija i znanja o mogućim razmjerama štetnih efekata na zdravlje ljudi, biološku raznovrsnost i životnu sredinu ili ako postoje nova naučna saznanja o tome da proizvod može izazvati štetne efekte po zdravlje ljudi, biološku raznovrsnost i životnu sredinu, može privremeno ograničiti ili zabraniti uvoz, upotrebu i stavljanje u promet, odnosno uvođenje u životnu sredinu GMO ili proizvoda koji sadrže, sastoje se ili su dobijeni od GMO.

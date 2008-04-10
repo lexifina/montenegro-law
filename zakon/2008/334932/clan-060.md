@@ -1,0 +1,2 @@
+# Član 60
+Organ državne uprave nadležan za poslove zdravlja, organ uprave nadležan za poslove veterinarstva, organ uprave nadležan za fitosanitarne poslove i organ uprave nadležan za zaštitu životne sredinu objavljuje u "Službenom listu Crne Gore" spisak GMO ili proizvoda koji sadrže, sastoje se ili su dobijeni od GMO, za koje je izdao rješenje kojim se odobrava namjerno uvođenje u životnu sredinu, u komercijalne svrhe, odnosno stavljanje u promet.

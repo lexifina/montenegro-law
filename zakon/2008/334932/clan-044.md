@@ -1,0 +1,7 @@
+# Član 44
+## Mjere zaštite u slučaju novih saznanja u prometu GMO
+Ako subjekat u poslovanju GMO, nakon dobijanja odobrenja za promet, posumnja ili dođe do saznanja o postojanju višeg stepena rizika od procijenjenog za zdravlje ljudi i životnu sredinu dužan je da, bez odlaganja, preduzme mjere za zaštitu zdravlja ljudi i životne sredine, pokrene postupak njegovog povlačenja iz prometa u slučajevima kada više nije pod njegovom kontrolom i o tome obavijesti nadležni organ koji je izdao odobrenje.
+U slučaju iz stava 1 ovog člana subjekat u poslovanju GMO dužan je da, na osnovu promijenjenih uslova, nadležnom organu podnese novu prijavu.
+Nove informacije o rizicima po zdravlje ljudi i životnu sredinu, svaki subjekt u poslovanju sa GMO dužan je da, bez odlaganja, dostavi nadležnom organu.
+Ako nadležnom organu postanu dostupne, prije ili tokom postupka izdavanja odobrenja, nove informacije o nivoima rizika koje predstavlja proizvod ili njegova upotreba, dužan je da te informacije uzme u obzir prilikom odlučivanja o stavljanju u promet.
+Ako nadležnom organu postanu dostupne nove informacije nakon pravosnažnosti odobrenja dužan je da, nakon pribavljanja mišljenja NSBS, odnosno Nacionalnog savjeta za procjenu bezbjednosti hrane, donese rješenje kojim mijenja, odnosno dopunjava postojeće odobrenje, uz saglasnost podnosioca prijave ili ukine odobrenje, ako podnosilac prijave nije saglasan sa izmjenom odobrenja.
