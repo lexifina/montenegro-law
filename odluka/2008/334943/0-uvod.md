@@ -1,0 +1,4 @@
+Na osnovu člana 3 stav 1 Zakona o imovini Republike Crne Gore ("Službeni list RCG", broj 44/99), a u vezi člana 14 Zakona o regulisanju obaveza i potraživanja po osnovu ino duga i devizne štednje građana ("Službeni list RCG", br.55/03 i 11/04), člana 7 stav 1 Zakona o isplati devizne štednje građana položene kod ovlašćenih banaka sa sjedištem van Republike Crne Gore ("Službeni list RCG", broj 81/06), čl. 7 stav 1 i 8 stav 1 Uredbe o konverziji devizne štednje građana u obveznice ("Službeni list RCG", broj 42/04) i člana 253 stav 2 Zakona o obligacionim odnosima ("Službeni list SFRJ", br. 29/78, 39/85, 57/89 i "Službeni list SRJ", broj 31/93), Vlada Crne Gore na sjednici od 20. marta 2008.godine, donijela je
+ODLUKU
+O OTKUPU OBVEZNICA DEVIZNE ŠTEDNJE GRAĐANA KOJE DOSPIJEVAJU 2016. i 2017.
+GODINE
