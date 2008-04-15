@@ -1,0 +1,2 @@
+Na osnovu člana 45. stav 1. tač. 2. i 16. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06) čl. 31. stav 1. tačka 17. a u vezi sa čl. 28. Stauta Opštine Šavnik ("Sl. list RCG- opštinski propisi", br. 36/04) i čl. 11. a u vezi sa čl. 56. Poslovnika Skupštine opštine Šavnik ("Sl. list RCG -opštinski propisi", br. 1/05) Skupština opštine Šavnik na sjednici održanoj 31.03. 2008.godine donosi
+ODLUKU
