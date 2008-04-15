@@ -1,0 +1,2 @@
+Na osnovu čl.45. st.1. tač. 9. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06), čl. 42. st. 1. tač. 9.Statuta Opštine Ulcinj ("Sl. list CG- opštinski propisi", br. 05/07), čl. 20 st. 2. Zakona o osnovama svojinsko pravnih odnosa ("Sl. list SRJ", br. 28/96) te Odluke Upravnog odbora Javnog komunalnog preduzeća Ulcinj br. 348 od 13.02.2008. godine, Skupština opštine Ulcinj, na sjednici održanoj dana 27. 03. 2008. godine, donijela je
+ODLUKU
