@@ -1,0 +1,2 @@
+# Član 13
+Natpisi se ne smiju postavljati: na mjestima gdje ugrožavaju postojeći prostor u funkcionalnom i ambijentalnom pogledu u trouglovima preglednosti meĎusobnog ukrštanja puteva, kao i njihovog ukrštanja sa željezničkom prugom; na mjestima gdje svojim položajem onemogućavaju vidljivost i pravovremenu uočljivost saobraćajnih znakova; na nepreglednim djelovima puta (unutrašnja strana krivine, zacjeci, usjeci, prevoji, suženi djelovi puta i sl.), mostovima, propustima, i na odstojanjima manjim od 100 m od tih dionica odnosno tih putnih objekata.

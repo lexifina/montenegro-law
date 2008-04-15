@@ -1,0 +1,4 @@
+# Član 1
+## pripada opštinskim i nekategorisanim putevima
+Ovom odlukom propisuje se visina godišnje naknade za registraciju drumskih motornih vozila, traktora i priključnih vozila koja se plaća za korišćenje opštinskih i nekategorisanih puteva, kao i uslovi i način korišćenja puta i putnog zemljišta koje pripada opštinskim i nekategorisanim putevima, te visina naknade za njihovo korišćenje.
+Pored navedene naknade, naknada iz stava 1. ovog člana propisuje se za vanredni prevoz, postavljanje natpisa i sl. na putu i pored puta(putnom i zaštitnom pojasu), zakup putnog zemljišta, zakup drugog zemljišta koje pripada upravljaču puta,priključenje prilaznog puta na opštinski i nekategorisani put, postavljanje cjevovoda, vodovoda, kanalizacije, električnih, telegrafskih, telefonskih i drugih vodova i sl., kao i naknada koja se plaća za izgradnju komercijalnih i drugih objekata kojima je omogućen pristup sa opštinskih i nekategorisanih puteva.

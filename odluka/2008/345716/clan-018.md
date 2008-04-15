@@ -1,0 +1,5 @@
+# Član 18
+Uz zakup, na zaštitnom pojasu opštinskih i nekategorisanih puteva, uz odobrenje, mogu se postavljati i ograde, pod uslovom da ne sprečavaju preglednost puta i ne ugrožavaju bezbijednost saobraćaja.
+Odobrenje za postavljanje ograda, natpisa pored lokalnih i nekategorisanih puteva, uz predhodno definisane uslove, izdaje organ uprave nadležan za poslove saobraćaja na osnovu zahtjeva pravnog i fizičkog lica.
+Uz zahtjev za izdavanje odobrenja podnosi se: dokaz o riješenim imovinsko pravnim odnosima na zemljištu u okviru zone na kojoj se postavlja ograda i natpis i tehnička dokumentacija (nacrt natpisa sa dimenzijama i tehničkim opisom, statički proračun, prikaz natpisa u prirodnoj boji, saobraćajna saglasnost i dr.).
+Sastavni dio odobrenja za postavljanje ograda i natpisa pored lokalnih i nekategorisanih puteva čine saobraćajno tehnički uslovi za ureĎenje lokacije (položaj, vrsta, veličina ograda i natpisa i drugi podaci koji su vezani za postavljanje natpisa na odreĎenoj lokaciji).
