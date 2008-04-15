@@ -1,0 +1,2 @@
+Na osnovu čl. 9. i 10. Zakona o imovini RCG (’’Sl. list RCG’’ br. 44/99), člana 23. Zakona o graĎevinskom zemljištu ("Sl. list RCG’’ br. 55/00) i člana 2. Uredbe o načinu i postupku sprovoĎenja javnog nadmetanja, odnosno prikupljanja ponuda u postupku prenosa prava na gradskom graĎevinskom zemljištu ("Sl. list RCG’’ br. 38/03) i člana 16. stav 2. i člana 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor’’ br. 3/04), Skupština Opštine Kotor, na sjednici održanoj 02. 04. 2008. godine, donijela je
+ODLUKU
