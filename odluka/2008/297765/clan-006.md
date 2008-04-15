@@ -1,0 +1,2 @@
+# Član 6
+Generalnim urbanističkim planom Nikšića, smjernicama za razradu i ureĎenje po urbanističkim jedinicama, za prostor obuhvata Plana predviĎeno je: »Dovršenje i ureĎenje stambene izgradnje i ulične mreže; urbano zelenilo uz funkcije i stanovanje». Istovremeno, prema prilogu namjene površina, za prostor obuhvata odreĎena je namjena: poslovno trgovački i uslužni sadržaji, stanovanje i parkovno i urbano zelenilo u većim kompleksima.
