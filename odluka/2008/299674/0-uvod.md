@@ -1,0 +1,2 @@
+Na osnovu člana 45. stav 1. tačka 2.i 8. Zakona o lokalnoj samoupravi ("Sl.list RCG" br 42/03, 28/04, 75/05 i13/06), člana 6. stav 1. tačka 3. i člana 12. Zakona o finansiranju lokalne samouprave ("Službeni list RCG"broj 42/03, 44/03 i "Sl list CG", br.5/08) i člana 32. Statuta Opštine Andrijevica ("Službeni list RCG - opštinski propisi", broj 21/04 i 42/06) Skupština opštine Andrijevica na sjednici održanoj dana24.03. 2008. godine, donijela je
+O D L U K U
