@@ -1,0 +1,2 @@
+# Član 4
+Ako je lice na službi poginulo vršeći dužnost u Vojsci ili je umrlo od posljedica zadobijenih rana, povreda, odnosno bolesti kao neposredne posljedice vršenja vojne službe u Vojsci ili u vezi sa službom u Vojsci, postupak po službenoj dužnosti pokreće nadležni starješina, o čemu obavještava članove uže porodice poginulog, odnosno umrlog lica, radi dostavljanja potrebnih dokaza i učešća u postupku za ostvarivanje prava na jednokratnu novčanu pomoć.

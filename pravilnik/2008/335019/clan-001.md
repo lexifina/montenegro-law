@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom se propisuju bliži uslovi, iznos i postupak za ostvarivanje prava na jednokratnu novčanu pomoć u slučaju tjelesnog oštećenja ili smrti lica na službi u Vojsci Crne Gore (u daljem tekstu: lica na službi), naknadu za osposobljavanje bračnog druga i naknadu za školovanje djece lica na službi koje pogine ili umre od zadobijene rane, povrede, ozljede ili bolesti za vrijeme službe ili u vezi sa službom u Vojsci Crne Gore (u daljem tekstu: Vojska).

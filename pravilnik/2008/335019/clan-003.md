@@ -1,0 +1,3 @@
+# Član 3
+Lice na službi koje, u miru, tokom vršenja službe ili u vezi sa službom, zadobije ranu, povredu ili ozljedu zbog koje je nastupilo tjelesno oštećenje organizma ili je nastupilo tjelesno oštećenje organizma zbog bolesti koja je nastala ili se pogoršala kao neposredna posljedica vršenja vojne službe, podnosi zahtjev za ostvarivanje prava na jednokratnu novčanu pomoć Ministarstvu odbrane, preko jedinice u kojoj je na službi.
+Ako je licu iz stava 1 ovog člana prestala služba u Vojsci, zahtjev se podnosi preko jedinice u kojoj je to lice bilo na službi, a ako je ta jedinica rasformirana, zahtjev se podnosi preko Generalštaba Vojske.

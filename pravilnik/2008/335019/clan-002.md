@@ -1,0 +1,5 @@
+# Član 2
+Ako lice na službi za vrijeme službe ili u vezi sa službom u Vojsci zadobije ranu, povredu ili ozljedu, odnosno pogine ili umre, starješina jedinice na položaju komandanta samostalnog bataljona, odnosno starješina njemu ravnog ili višeg položaja (u daljem tekstu: nadležni starješina), pokrenuće, po službenoj dužnosti, postupak radi utvrđivanja uzroka i okolnosti pod kojima je to lice ranjeno, povrijeđeno, ozlijeđeno, odnosno poginulo ili umrlo.
+Postupak za utvrđivanje uzroka i okolnosti iz stava 1 ovog člana, pokreće se u roku od tri dana od dana nastanka okolnosti.
+Ako je smrt lica iz stava 1 ovog člana nastupila kao posledica zadobijene rane, povrede ili ozljede, nastale za vrijeme službe ili u vezi sa službom, odnosno od bolesti koja je nastala ili se pogoršala kao neposredna posljedica službe u Vojsci, nalaz i mišljenje o tim okolnostima daje vojnoljekarska komisija, obrazovana u skladu sa Zakonom o Vojsci Crne Gore.
+Po završenom postupku, Ministarstvo odbrane izdaje pravno zainteresovanom licu uvjerenje o okolnostima iz stava 1 ovog člana.
