@@ -1,0 +1,2 @@
+# Član 4
+Hranom životinjskog porijekla iz člana 3 alineja 1 ovog pravilnika koja se može unijeti na teritoriju Crne Gore bez sertifikata ne smatra se: meso domaćih papkara, živine, zečeva, kunića, gajene i lovne divljači, mljeveno meso, proizvodi od mesa, riba i proizvodi od ribe, žive školjke, ostali mekušci, žablji bataci, puževi i njihovi proizvodi, mlijeko i proizvodi od mlijeka, jaja i proizvodi od jaja, topljena životinjska mast, čvarci, želatin i kolagen.

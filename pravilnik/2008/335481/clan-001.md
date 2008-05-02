@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se bliži uslovi,koje treba da ispunjava hrana životinjskog porijekla, kombinovana hrana, hrana za kućne ljubimce i bilje i biljni proizvodi, vrste i količine hrane i bilja i biljnih proizvoda, prilikom unosa na teritoriju Crne Gore, koja se koristi tokom putovanja u sredstvima prevoza, koja je namijenjena za snabdijevanje posade i putnika u prevoznim sredstvima u međunarodnom saobraćaju i koja se naručuje pouzećem (poštom, telefonom ili putem Interneta).
