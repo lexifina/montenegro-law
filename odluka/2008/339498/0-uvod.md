@@ -1,0 +1,2 @@
+Na osnovu člana 9 Zakona o imovini Republike Crne Gore ("Službeni list RCG", broj 44/99), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06) i člana 48 stav 1 alineja 9 Statuta Glavnog grada ("Službeni list RCG-opštinski propisi", broj 28/06), u skladu sa Jednogodišnjim programom planiranja i ureĎenja prostora Glavnog grada - Podgorice za 2008. godinu, Skupština Glavnog grada - Podgorice, na sjednici održanoj 18. i 22.04.2008. godine, donijela je
+O D L U K U

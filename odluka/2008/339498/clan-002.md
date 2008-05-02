@@ -1,0 +1,30 @@
+# Član 2
+Predmet prenosa prava na gradskom graĎevinskom zemljištu u smislu člana 1 ove odluke, su:
+- urbanističke parcele broj: 19, 20, 21 i 22, namjene-skladište poluotvorenog tipa sa pogonima prerade i dorade, ukupne površine 19.079 m2, u zahvatu Urbanističkog projekta "Skladišta i servisi-Cijevna", Blok 6;
+- 10 urbanističkih parcela, br. 33 do 42, namjene-skladište otvorenog tipa, ukupne površine 46.780 m2, u zahvatu Urbanističkog projekta "Skladišta i servisi-Cijevna", Blok 9 i Blok 10;
+- 17 urbanističkih parcela, br. 4 do 20, pretežne namjene-skladišta i servisi, ukupne površine 253.227 m2, u zahvatu Detaljnog urbanističkog plana "Servisno-skladišna zona sa ranžirnom stanicom";
+- 7 lokacija, namjena-farmaceutska industrija, ukupne površine 40.721 m2, u zahvatu Detaljnog urbanističkog plana "Industrijska zona A", Prostorna jedinica I;
+- 7 lokacija-namjena hemijska industrija, ukupne površine 39.910 m2, u zahvatu Detaljnog urbanističkog plana "Industrijska zona A", Prostorna jedinica II;
+-10 lokacija, namjena-elektronska industrija, ukupne površine 61.029 m2, u zahvatu Detaljnog urbanističkog plana "Industrijska zona A", Prostorna jedinica III;
+- 15 urbanističkih parcela, različitih namjena (mala agroprivreda i trgovina, mlinsko- pekarska industrija, prerada mlijeka i mliječnih proizvoda, mesa i mesnih proizvoda, prerada voća i povrća, diskontna prodaja, skladišta i hladnjače..), ukupne površine 259.557 m2, u zahvatu Detaljnog urbanističkog plana "Agroindustrijska zona";
+- urbanistička parcela broj 5, namjena-servisi i skladišta, površine 6.822 m2, u zahvatu Detaljnog urbanističkog plana "Servisno-skladišna zona uz željezničku prugu- Stari Aerodrom";
+- urbanistička parcela broj 8, namjena-trgovina i usluge, površine 3.298 m2, u zahvatu Detaljnog urbanističkog plana "Servisno-skladišna zona uz željezničku prugu- Vatrogasni dom";
+- urbanistička parcela broj 1/89, po namjeni trgovina i usluge, površine 629 m2, u zahvatu Detaljnog urbanističkog plana "Gorica C";
+- urbanistička parcela broj 95, po namjeni poslovno-trgovački centar, površine 994 m2, u zahvatu Detaljnog urbanističkog plana "Zabjelo 9";
+- urbanistička parcela broj 55, po namjeni poslovanje, površine 306 m2, u zahvatu Detaljnog urbanističkog plana "Zabjelo 9";
+- urbanistička parcela broj 4, po namjeni poslovni objekat, površine 5.255 m2, u zahvatu Detaljnog urbanističkog plana "Zona centralnih djelatnosti-Cetinjski put-Zona B";
+- urbanistička parcela broj 197, po namjeni poslovanje, površine 5.256 m2, u zahvatu Detaljnog urbanističkog plana "Prvi maj";
+- urbanistička parcela broj 2/75, po namjeni poslovno-komercijalni sadržaji, površine 290 m2, u zahvatu Detaljnog urbanističkog plana "Donja Gorica";
+- 7 urbanističkih parcela, po namjeni kolektivno stanovanje sa djelatnostima, površine cca 10.500 m2, u zahvatu Detaljnog urbanističkog plana "Konik-Sanacioni plan" Blok VII;
+- urbanistička parcela broj 53, po namjeni višeporodično stanovanje ili objekat javnih sadržaja, površine cca 940 m2, u zahvatu Detaljnog urbanističkog plana "Nova Varoš 2";
+- urbanistička parcela broj 2089/1-C, po namjeni sportska hala, površine 4.075 m2, u zahvatu Detaljnog urbanističkog plana "Konik-Stari Aerodrom", Zona D, Podzona 7;
+- urbanistička parcela broj 2089/1-B1, B2, B3, B4, površine 3.440 m2 i urbanistička parcela broj 2089/1-B5, B6, površine 1.642 m2, obije po namjeni sportski tereni, u zahvatu Detaljnog urbanističkog plana "Konik-Stari Aerodrom", Zona D, Podzona 7;
+- urbanističke parcele broj: 515, 516, 517 i 518, po namjeni individualno stanovanje, ukupne površine 2.407 m2, u zahvatu Detaljnog urbanističkog plana "Zagorič 1";
+- 24 urbanističke parcele, po namjeni individualno stanovanje, površine cca 9.500 m2, u zahvatu Detaljnog urbanističkog plana "Konik-Stari Aerodrom", Zona D, Podzone 4, 5 i 7;
+- urbanističke parcele broj 13 i 14 u Bloku 4 i urbanistička parcela broj 1 u Bloku 8, po namjeni individualno stanovanje -gradske vile, ukupne površine 3.981 m2, u zahvatu Detaljnog urbanističkog plana "Zabjelo- Ljubović";
+- 10 urbanističkih parcela, namjene-individualno stanovanje, ukupne površine cca 9.641 m2, u zahvatu Urbanističkog projekta "Skladišta i servisi-Cijevna"; blokovi: 16, 17 i 18;
+- urbanistička parcela broj 18, po namjeni individualno stanovanje sa djelatnostima, površine 439 m2, u zahvatu Detaljnog urbanističkog plana "Zabjelo B";
+- 12 urbanističkih parcela, po namjeni individualno stanovanje, površine po 558 m2 (ukupno 6.696 m2), u zahvatu Detaljnog urbanističkog plana "Kakaricka Gora";
+- urbanistička parcela broj 2/1721, površine 990 m2 i urbanistička parcela broj 2/1723, površine 1067 m2, po namjeni porodično stanovanje sa djelatnostima, u zahvatu Detaljnog urbanističkog plana "Donja Gorica";
+- urbanistička parcela broj 68/39, površine 2088 m2 i urbanistička parcela broj 68/40, površine 1930 m2, po namjeni individualno stanovanje, u zahvatu Detaljnog urbanističkog plana "Tološi II".
+- 10 urbanističkih parcela, po namjeni individualno stanovanje i 5 urbanističkih parcela, po namjeni individualno stanovanje u vilama, ukupne površine cca 10.300 m2, u zahvatu Detaljnog urbanističkog plana "Gorica D".
