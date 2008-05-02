@@ -1,0 +1,2 @@
+Na osnovu čl. 9. Zakona o imovini ("Sl. list RCG", broj 44/99), član 45. stav 1. tačka 9. Zakona o lokalnoj samoupravi ("Sl. list RCG", broj 42/03, 28/04, 75/05 i 13/06), član 23. stav 1. Zakona o graĎevinskom zemljištu ("Sl. list RCG" broj 55/00), član 22. stav 1. tačka 1. Odluke o graĎevinskom zemljištu ("Sl. list CG - opštinski propisi", broj 1/08), čl. 15. i čl. 33. Statuta Opštine Pljevlja ("Sl. list RCG -opštinski propisi", broj 37/04 i 30/07), Skupština opštine Pljevlja, na sjednici od 14.04. 2008. godine, donosi
+ODLUKU
