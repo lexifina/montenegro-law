@@ -1,0 +1,2 @@
+# Član 2
+Odobrava se naknada DOO ŠIK ’’Polimlje’’ - Berane u iznosu od 31.539,61 € na ime prenosa prava svojine na Opštinu Berane nepokretnosti - graĎevinski objekti (poslovne zgrade u vanprivredi, poslovni prostor u privredi, poslovne zgrade u privredi i pomoćne zgrade u privredi) upisane u list nepokretnosti- prepis 277 KO Berane na kat. parceli br. 2369 i kat. parceli br. 2376, svojina DOO ŠIK ’’Polimlje’’ - Berane.
