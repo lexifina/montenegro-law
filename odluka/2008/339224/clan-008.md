@@ -1,0 +1,13 @@
+# Član 8
+Zavisno od zvanja, složenosti, odgovornosti, značaja i uslova rada, zarade lokalnih funkcionera razvrstavaju se u tri platna razreda izražena u koeficijentima:
+____________________________________________________ Platni razred funkcija
+koeficijent ____________________________________________________ I
+predsjednik Opštine
+14,50
+predsjednik Skupštine
+13,50
+____________________________________________________ II
+potpredsjednik Opštine
+11,00 ____________________________________________________ III
+glavni administrator
+11,00 ____________________________________________________
