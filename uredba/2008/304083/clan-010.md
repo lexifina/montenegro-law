@@ -1,0 +1,2 @@
+# Član 10
+Ova uredba stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore", a primjenjivaće se do 31. decembra 2008. godine.
