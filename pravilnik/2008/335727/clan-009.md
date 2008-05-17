@@ -1,0 +1,2 @@
+# Član 9
+U članu 18 stav 1, iza riječi "Agenciji" brišu se riječi: "sa zahtjevom za definisanje načina i uslova pristupa i/ili interkonekcije" a dodaje se: "da definiše način i uslove pristupa i/ili interkonekcije. Strane koje zatraže tu vrstu pomoći od Agencije moraju dokazati da su primijenile sve druge postupke za rješavanje sporova uključujući i postupak rješavanja sporova na raznim nivoima poslovodnih struktura" .
