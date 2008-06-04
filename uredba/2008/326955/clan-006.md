@@ -1,0 +1,2 @@
+# Član 6
+Vodni informacioni sistem, se sastoji od: korisničkih aplikacija; NJeb aplikacija; NJeb servisa; baza- registara podataka (arhivski, istorijski i aktuelni podaci), uključujući i GIS podatke i servise; programske opreme; računarskih i komunikacionih uređaja; sistemske i korisničke podrške; prateće dokumentacije (poslovna, tehnička i pomoćna); uputstava, propisanih postupaka i procedura za njegov kontinuiran i ispravan rad, nadzor i upravljanje i podataka o korisnicima sistema.
