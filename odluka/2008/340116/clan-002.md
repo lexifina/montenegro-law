@@ -1,0 +1,5 @@
+# Član 2
+Opština Nikšić je korisnik:
+-urbanističke parcele koja je u listu nepokretnosti broj 2709 KO Nikšić upisana kao katastarska parcela broj 4871 po kulturi graĎevinska parcela površine 470 m2 , na kojoj je predviĎena izgradnja stambenog objekta, spratnosti P+1+Pk u skladu sa Odlukom o donošenju DUP-a Rastoci ("Službeni list RCG - opštinski propisi", broj 24/01);
+- urbanističke parcele koja je u listu nepokretnosti broj 787 KO Nikšić upisana kao katastarska parcela broj 4470/21 po kulturi livada 3. klase površine 546 m2 , na kojoj je predviĎena izgradnja jednog od individualnih stambenih objekata (kućice u nizu)., spratnosti P+1+Pk u skladu sa Odlukom o donošenju DUP-a Mrkošnica ("Službeni list RCG - opštinski propisi", broj 28/07);
+- katastarske parcele koja je u listu nepokretnosti broj 500 KO Straševina upisana kao katastarska parcela broj 187/32 površine 1.302 m2 koja čini dio urbanističke parcele ukupne površine 7.303 m2 , na kojoj je predviĎena izgradnja skladišno-poslovnog objekta, spratnosti P+2, ukupne gabaritne površine 5.700 m2, u skladu sa Odlukom o donošenju DUP-a Brlja ("Službeni list Crne Gore - opštinski propisi" broj 2/07).
