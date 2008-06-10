@@ -1,0 +1,7 @@
+# Član 2
+Studijom je obuhvaćeno područje površine 1,24 ha i definisano je granicama katastarskih parcela 3035, 3036, 3037 i 3038 kao i koordinatama:
+01. 6588746.1195 4694234.7072
+02. 6588609.9483 4694223.1080
+03. 6588681.8967 4694383.7507
+04. 6588773.0697 4694359.1820
+05. 6588778.9022 4694354.4862
