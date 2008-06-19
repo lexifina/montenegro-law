@@ -1,0 +1,4 @@
+# Član 1
+## o zamjeni nepokretnosti
+Opština Kotor je nosilac prava korišćenja na dijelu kat.par. 677/1 K.O. Škaljari I , površine 3114 m2, u naravi voćnjak 1. klase, po izvodu iz Lista nepokretnosti br. 162 Uprave za nekretnine RCG,PJ Kotor, čija procjenjena vrijednost na osnovu metode za procjenu vrijednosti gradskog graĎevinskog zemljišta ("Sl.list RCG" br. 71/04) iznosi ukupno 409 491,00 €, odnosno 131,50 € /m2.
+Brkanović Tonći JMBG 1602953230015 iz Kotora, sa prebivalištem Škaljari bb je nosilac prava svojine 10/21 na nekretninama označene kao kat. parc. 560, koja u naravi predstavlja šume 2. klase, površine 3114,00 m2, LN 46 Uprave za nekretnine RCG, PJ Kotor, čija procijenjena vrijednost na osnovu metode za odreĎivanje vrijednosti gradskog graĎevinskog zemljišta ("Sl.list RCG" br. 71/04) iznosi ukupno 364 960,80 € odnosno 117,20 €.
