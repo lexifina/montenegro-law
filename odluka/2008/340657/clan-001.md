@@ -1,0 +1,3 @@
+# Član 1
+## o razmjeni nepokretnosti između opštine Nikšić i Kasom Slobodana
+Radi obezbjeĎenja zemljišta potrebnog za javne sadržaje-izgradnju saobraćajnice a u skladu sa Odlukom o donošenju DUP-a Bistrica (Službeni list RCG-opštinski propisi", broj 16/07), vrši se razmjena nepokretnosti na način što će se katastarska parcela broj 1695/2 po kulturi graĎevinska parcela površine 368 m2 upisana u listu nepokretnosti broj 787 KO Nikšić kao korišćenje opštine Nikšić, razmijeniti za katastarsku parcelu broj 1715/1 po kulturi graĎevinska parcela površine 403 m2, upisana u listu nepokretnosti broj 3006 KO Nikšić kao svojina Kasom Slobodana iz Nikšića.
