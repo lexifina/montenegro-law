@@ -1,0 +1,3 @@
+# Član 2
+Opština Nikšić je korisnik:
+- katastarske parcele broj 176 površine 717 m2, katastarske parcele broj 177 površine 310 m2 katastarske parcele broj 178 površine 462 m2 katastarske parcele broj 179 površine 320 m2 katastarske parcele broj 187/30 površine 10.481 m2, sve ukupne površine 12.290 m2 upisane u listu nepokretnosti broj 500 KO Straševina koje čine dio urbanističke parcele ukupne površine 23.400 m2 , na kojoj je predviĎena izgradnja tri skladišno proizvodna objekta spratnosti P, ukupne gabaritne površine 1875 m2 a sve u skladu sa Odlukom o donošenju DUP-a Brlja (»Službeni list Crne Gore opštinski propisi «, broj 2/07)
