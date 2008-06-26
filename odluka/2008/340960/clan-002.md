@@ -1,0 +1,2 @@
+# Član 2
+Strateška procjena uticaja na životnu sredinu razmotriće postojeće stanje životne sredine na području obuhvaćenom Izmjenama i dopunama GUP-a grada Pljevalja iz člana 1., značaj i karakteristike planskog dokumenta, karakteristike uticaja planiranih sadržaja na mikro i makro lokaciju i druga pitanja i probleme zaštite životne sredine u skladu sa kriterijumima za utvrĎivanje značajnih uticaja navedenog planskog dokumenta na životnu sredinu.
