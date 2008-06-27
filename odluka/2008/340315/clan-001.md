@@ -1,0 +1,3 @@
+# Član 1
+## o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi proširenja seoskog nekategorisanog puta
+UtvrĎuje se javni interes za eksproprijaciju dijela nepokretnosti upisane u posjedovni list broj 14 KO Glibaći, dio parcele 14/2 upisane na Vuković Milju i posjedovni list broj 155 KO Glibaći, dio parcele 18/9/1 i 18/9/2 upisane na suvlasnike Vuković Vidaka Mijata na 2/5, Vuković Vidaka Ivana na 2/5, Vuković Vladimira Žarka na 2/15 i Bošković Veliše Jovana na 1/15 u površini koliko bude iznosila po eksproprijacionom elaboratu na dužini od 160,40m i prosječnoj širini puta od 4,00m.
