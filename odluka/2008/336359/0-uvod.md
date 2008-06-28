@@ -1,0 +1,2 @@
+Na osnovu člana 9 stav 1 Zakona o isplati devizne štednje građana položene kod ovlašćenih banaka sa sjedištem van Republike Crne Gore ("Službeni list RCG", broj 81/06), člana 25 Zakona o hartijama od vrijednosti ("Službeni list RCG", br.59/00 i 28/06) i člana 2 stav 1 Uredbe o konverziji devizne štednje građana u obveznice ("Službeni list CG", broj 40/08), Vlada Crne Gore, na sjednici od 19. juna 2008. godine, donijela je
+ODLUKU O EMISIJI OBVEZNICA CRNE GORE PO OSNOVU DEVIZNE ŠTEDNJE GRAĐANA
