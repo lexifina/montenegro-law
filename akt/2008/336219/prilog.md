@@ -1,0 +1,3 @@
+- Nastavna godina traje najmanje 180 radnih dana, odnosno 220 radnih dana sa praktičnim obrazovanjem, a za učenike završnih razreda 165 radnih dana.
+- Nacionalno testiranje učenika III i VI razreda će se obaviti 27. i 28. maja 2009.godine .
+- Maturski stručni ispit ( pilot testiranje) učenika će se obaviti od 02. do 04. juna 2009. godine.
