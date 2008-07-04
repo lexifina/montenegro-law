@@ -1,0 +1,3 @@
+# Član 7
+Uz poštovanje ambijentalnih uslova i urbanističkih parametara iz planskog dokumenta višeg reda o zauzeću i izgraĎenosti parcela, kroz urbanistička i idejna arhitektonska rješenja objekata, potrebno je posebno obezbijediti očuvanje postojećih zelenih površina.
+Shodno planskim opredjeljenjima tj. smjernicama i kriterijumima Prostornog plana Opštine Kolašin potrebno je planirati izgradnju novih turističkih kapaciteta viših i visokih kategorija na područjima sa najvećim potencijalom za razvoj turizma tj. na ekskluzivnim turističkim zonama na području Opštine Kolašin, gdje spada i ova lokacija.
