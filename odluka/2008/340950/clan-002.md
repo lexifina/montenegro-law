@@ -1,0 +1,2 @@
+# Član 2
+Područje za koje se radi "Studija" nalazi se sjeverno u odnosu na put od Žabljaka prema Kovačkoj dolini označen katastarskim parcelama broj 2936, uključujući i put kat. parcela br.2942 (dio), zatim, granica ide na sjeveru obuhvatajući katastarske parcele br.1881/1 , 188/2 dio 1880, 1882, 1881/3, 1885, dio 1886, 1883, 1877, 1876, na istoku zahvata katastarske parcele br: 2781, 2783, 2784, 2785, 2787, 2788, 2780, 2792, 2791,2794/1,2794/2 do puta kat. parcela 2942 sa površinom od cca 12,00 ha.
