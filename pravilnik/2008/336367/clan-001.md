@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom bliže se propisuje sadržaj i način vođenja evidencija o izdatim ličnim kartama, podacima unijetim u obrazac lične karte, podnijetim zahtjevima za izdavanje lične karte, podacima iz zahtjeva, dokumentaciji koja je priložena uz zahtjev i otisku dva prsta, prestanku važenja lične karte, ličnim kartama koje su oglašene nevažećim, zabranama korišćenja lične karte za prelazak državne granice i o izrađenim obrascima lične karte.
