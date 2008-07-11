@@ -1,0 +1,2 @@
+Na osnovu člana 9 Zakona o imovini RCG («Sl. list RCG«, broj 44/99), člana 45 stav 1 tačka 9. Zakona o lokalnoj samoupravi («Sl.list RCG» broj 42/03) člana 23 Zakona o graĎevinskom zemljištu («Sl.list RCG», broj 55/00) i člana 31. tačka 9. Statuta Opštine Bijelo Polje (« Sl. list RCG - opštinski propisi», br.25/04 i 33/06), Skupština Opštine Bijelo Polje na sjednici održanoj 17.06. 2008. godine, donijela je
+O D L U K U
