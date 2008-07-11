@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2, u vezi sa članom 90,Zakona o lokalnoj samoupravi ("Sl.list RCG",br.42/03,28/04,75/05 i 13/06), člana 31 stav 1 tačka 2 u vezi člana 79 Statuta Opštine Bijelo Polje ("Sl.list RCG",br.25/04 i 33/06)i člana 8 Zakona o izmjenama i dopunama Zakona o zaradama državnih službenika i namještenika ("Sl.list RCG"br.17/07), Skupština opštine Bijelo Polje ,na sjednici održanoj dana 16.06.2008. godine,donijela je
+O D L U K U
