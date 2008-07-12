@@ -1,0 +1,2 @@
+Na osnovu člana 122 stav 2 Zakona o Vojsci Crne Gore ("Službeni list RCG", broj 47/07), Ministarstvo odbrane donosi
+PRAVILNIK O BLIŽIM KRITERIJUMIMA PREKIDA ILI ODLAGANJA KORIŠĆENJA GODIŠNJIH ODMORA I ODSUSTAVA LICIMA NA SLUŽBI U VOJSCI CRNE GORE
