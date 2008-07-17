@@ -1,0 +1,2 @@
+# Član 2
+Postupak pretkvalifikacije za javno -privatno partnerstvo za Projekat autoput Bar-Boljare sprovešće Ministarstvo saobraćaja, pomorstva i telekomunikacija (u daljem tekstu: Ministarstvo) transparentno i uz ravnopravan tretmen svih ponuđača, primjenom najbolje međunarodne prakse, po preporuci Međunarodne finansijske korporacije (IFC), kao dijela grupacije Svjetske banke-konsultanta Ministarstva u sprovođenju javno-privatnog partnerstva za autoput Bar-Boljare.
