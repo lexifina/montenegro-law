@@ -1,0 +1,3 @@
+# Član 2
+Opština Nikšić je korisnik:
+- katastarske parcele broj 1605/2 površine 236 m2 upisane u listu nepokretnosti 764 , katastarske parcele broj 1577 površine 14 m2 upisana u listu nepokretnosti broj 2000 KO Nikšić i dijela katastarske parcele broj 1606/3 u površini od 816 m2, čija je ukupna površina 1446,00 m2 od čega je 630 m2 vanknjižno vlasništvo privatnog lica upisane u listu nepokretnosti broj 2794 KO Nikšić, sve ukupne površine 1066 m2, što je predmet javnog nadmetanja a koje čine dio urbanističke parcele ukupne površine 1833 m2 na kojoj je predviĎena izgradnja poslovno- stambenog objekta spratnosti Po+P+4+Pk a u skladu sa Odlukom o donošenju DUP-a urbanističke jedinice V-1-izmjene i dopune(»Službeni list Crne Gore- opštinski propisi«, broj 8/07).

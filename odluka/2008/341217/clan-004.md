@@ -1,0 +1,4 @@
+# Član 4
+Početna cijena gradsko graĎevinskog zemljišta koje je predmet nadmetanja iz člana 2 ove odluke ne može biti manja od 100,00 € po m2 zemljišta.
+Nakon izdavanja rješenja o saglasnosti na projekat od strane nadležnog organa, budući pribavilac prava-investitor je dužan podnijeti zahtjev nadležnom organu za obrazovanje katastarskih parcela u okviru predmetne urbanističke parcele, čime se stiču uslovi za uspostavljanje režima korišćenja zemljišta od strane prenosioca prava i pribavioca prava.
+Ispunjenjem uslova iz stava 2 ovog člana sprovešće se postupak nastale promjene u katastarskom operatu kod Uprave za nekretnine PJ Nikšić u pogledu režima korišćenja zemljišta-preciznih površina trajnog i privremenog korišćenja, kao i regulisanje meĎusobnih prava i obaveza u pogledu naknade za ustupljeno zemljište, o čemu će prenosilac i pribavilac prava sačiniti aneks ugovora.
