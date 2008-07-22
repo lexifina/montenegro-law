@@ -1,0 +1,6 @@
+# Član 3
+Zabrana iz člana 1 ove naredbe, ne primjenjuje se na uvoz pošiljki živih goveda ukoliko su rođena i uzgajana u zemljama koje ispunjavaju uslove iz člana 11 ove naredbe i za koje veterinarski inspektor zemlje izvoznice, odnosno zemlje porijekla, potvrđuje propisanom međunarodnom potvrdom (veterinarskim certifikatom -u daljem tekstu: certifikat) da su ispunjeni sljedeći uslovi:
+-da goveda nijesu hranjena mesno-koštanim brašnom i hranom za životinje koja sadrži tkiva sisara;
+-da je u zemlji porijekla, odnosno zemlji izvoznici na snazi zabrana ishrane preživara proteinima dobijenim od sisara i hranom za životinje koja sadrži tkiva sisara i da je zabrana efikasno sprovođena;
+-da su goveda, koja su namijenjena izvozu u Crnu Goru, trajno obilježena u skladu sa sistemom identifikacije, koji omogućava praćenje porijekla unatrag do majke goveda i stada porijekla, i da goveda nijesu potomstvo ženke kod koje je postojala sumnja na BSE;
+-da su goveda bila oteljena, uzgojena i boravila u stadima u kojima nije bilo nijednog potvrđenog slučaja BSE u posljednjih sedam godina, i da naknadno uključivana goveda potiču iz stada, odnosno gazdinstava sa jednakim statusom, ili da su goveda bila oteljena poslije datuma od kojeg se sprovodi zabrana ishrane preživara proteinima dobijenim od sisara.
