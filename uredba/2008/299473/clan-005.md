@@ -1,0 +1,2 @@
+# Član 5
+Vojno diplomatski predstavnici u zemlji prijema: predstavljaju i zastupaju interese Crne Gore u oblasti odbrane, razvijaju saradnju sa Ministarstvom odbrane i oružanim snagama, prate stanje u oblasti odbrane, vrše ulogu vojnog savjetnika šefa diplomatsko-konzularnog predstavništva, odnosno ambasadora, razvijaju saradnju sa vojno-diplomatskim korom i vojno-diplomatskim udruženjima i vrše druge aktivnosti.
