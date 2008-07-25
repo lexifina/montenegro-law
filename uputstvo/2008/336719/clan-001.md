@@ -1,0 +1,2 @@
+# Član 1
+U Uputstvu o radu Registra zaloga ("Službeni list RCG", broj 37/03), u članu 5 pod b) poslije riječi "advokat" stavlja se zarez, a riječi: "ili banka" zamjenjuju se riječima: "banka ili privredno društvo koje obavlja poslove finansijskog lizinga ili poslovna asocijacija", a pod c) poslije riječi "advokatom" stavlja se zarez a riječi: "ili bankom" zamjenjuju se riječima: "bankom ili privrednim društvom koje obavlja poslove finansijskog lizinga ili poslovnom asocijacijom".
