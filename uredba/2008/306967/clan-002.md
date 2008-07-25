@@ -1,0 +1,2 @@
+# Član 2
+Profesionalnom vojnom licu i članu mirovne misije za vrijeme obavljanja dužnosti iz člana 1 ove uredbe, pripada zarada koju bi ostvarivao na formacijskom mjestu u Vojsci Crne Gore (u daljem tekstu: Vojska), odnosno radnom mjestu, kao i naknada zbog obavljanja dužnosti u otežanim i rizičnim bezbjednosnim, geografskim i klimatskim uslovima opasnim po život i zdravlje (u daljem tekstu: naknada) i druga primanja koja ostvaruje u skladu sa propisima.
