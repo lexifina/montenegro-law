@@ -1,0 +1,4 @@
+# Član 2
+Planom je obuhvaćeno područje površine 7.36 ha.
+U zahvat Plana ulaze sljedeće katastarske parcele: dio kat. parcele broj 4620 (put), dio kat. parcele broj 4647 (dio puta), 4033, 2909, 2910, 2911/1, 2911/2, 2911/3, 2911/4, 2911/5, 2911/6, 2911/7, 2912, 2913, 2914, 2915, 2916, 2917, 2918, 2919, 2920, 2921, 2922, 2923, 2924, 2925, 2926, 2927, 2928, 2929, 2930, 2931, 2932, 2933, 2934, 2935, 2936, 2937, 2939/1, 2939/2, 2939/3, 2939/4, 2939/5, 2939/6, 2940, 2941, 2942/1, 2942/2, 2943/1, 2943/2, 2944, 2945, 2946, 2947, 2948, 2949, 2950, 2951, 2952, 2953, 2954, 2955, 2956, 2958, 2959, 2960, 2961, 2962, 2963, 2964 i 2965 KO Pljevlja.
+Granice zahvata Plana idu od ukrštanja ulica N. revolucije i ul. Rudarske, ulicom Rudarskom na jugoistok do ukrštanja sa obilaznim putem, dalje obilaznim putem na zapad do ulice N. revolucije, ulicom N. revolucije na sjeveroistok do početne tačke.
