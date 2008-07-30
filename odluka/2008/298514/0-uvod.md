@@ -1,0 +1,2 @@
+Na osnovu člana 14 stav 2 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 12/95), člana 48 stav 1 alineja 46 Statuta Glavnog grada ("Sl. list RCG-opštinski propisi", broj 28/06) i člana 8 stav 2 Odluke o organizovanju Javnog preduzeća "Zelenilo" - Podgorica ("Sl. list RCG-opštinski propisi", br. 33/03, 37/03, 13/04 i 19/04), Skupština Glavnog grada - Podgorice, na sjednici od 3., 10., 16. i 17.07.2008.godine, donijela je
+O D L U K U
