@@ -1,0 +1,2 @@
+# Član 20
+Stupanjem na snagu ovog pravilnika prestaje da važi Pravilnik o prijavljivanju za upis u evidenciju o državljanima Socijalističke Republike Crne Gore i državljanima drugih socijalističkih republika rođenih na teritorij i Socijalističke Republike Crne Gore, o vođenju te evidencije, o izdavanju uvjerenja o državljanstvu i o obrascu uvjerenja o državljanstvu («Službeni list SRCG» broj 26/78).
