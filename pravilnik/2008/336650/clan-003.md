@@ -1,0 +1,2 @@
+# Član 3
+Za sveštenike, vjerske službenike, monahe i monahinje koji su doprinose za penzijsko i invalidsko osiguranje plaćali prema osnovicama propisanim Pravilnikom o utvrđivanju osnovica za penzijsko i invalidsko osiguranje za sveštenike i vjerske službenike ("Službeni list RCG", broj 34/2004) , od dana stupanja na snagu ovog pravilnika doprinosi će se obračunavati i plaćati prema osnovicama iz člana 2 ovog pravilnika.
