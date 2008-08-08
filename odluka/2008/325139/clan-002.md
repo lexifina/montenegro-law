@@ -1,0 +1,2 @@
+# Član 2
+Plaketa Trinaestojulske nagrade za životno djelo je u obliku kvadratne pozlaćene ravne ploče od bronze, dimenzija 150 h 150 h 8 mm, na kojoj je udubljena reljefna forma sa konturama Crne Gore i trinaest spletova vrhova plamenova, sabalja i latica, na kojima izrasta prepoznatljiva forma kao simbolika nove Crne Gore. Na naličju Plakete ispisan je tekst: Trinaestojulska nagrada za životno djelo.

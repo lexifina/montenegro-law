@@ -1,0 +1,3 @@
+# Član 5
+Plaketa Trinaestojulske nagrade kao godišnje nagrade je u obliku kvadratne posrebrene ravne ploče od bronze, dimenzija 150 h 150 h 8 mm, sa ugraviranom mrežastom formom na kojoj se prepoznaje grb Crne Gore i krst sa vučedolske zastave.
+Plaketa je smještena u kutiji od kože tamno-crvene boje, dimenzija 210 h 210 h 5 mm. Na unutrašnjoj strani poklopca kutije nalazi se posrebrena ploča od bronze, dimenzija 11 h 11 mm na kojoj se nalazi grb Crne Gore, tekst: Crna Gora; Trinaestojulska nagrada za, prostor za ispisivanje godine za koju je nagrada dodijeljena; prostor za ispisivanje imena i prezimena dobitnika nagrade. Na spoljašnjoj strani poklopca kutije, u blindruk tehnici, utisnut je grb Crne Gore.

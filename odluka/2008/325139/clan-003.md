@@ -1,0 +1,5 @@
+# Član 3
+Diploma Trinaestojulske nagrade za životno djelo je u obliku dvolista, od kvalitetnog 250 gramskog fabriano papira, formata 200 h 200 mm.
+Na sredini prve strane nalazi se grb Crne Gore, ispod kojeg je ispisan tekst: Crna Gora.
+Na sredini druge strane nalazi se grafički prikaz reljefa sa Plakete, ispod kojeg je u četiri reda ispisan tekst: Trinaestojulska nagrada za životno djelo dodjeljuje se za djela i stvaralaštvo koja predstavljaju trajno dobro Crne Gore.
+Na trećoj strani nalazi se tekst: Diploma; Trinaestojulska nagrada za životno djelo; dodjeljuje se; prostor za ispisivanje zvanja, zanimanja ili funkcije dobitnika nagrade; prostor za ispisivanje imena i prezimena dobitnika nagrade; prostor za ispisivanje naziva djela i stvaralaštva za koje je dodijeljena nagrada; riječ: Broj, prostor za ispisivanje rednog broja;tekst: U Podgorici, 13. jula, prostor za ispisivanje godine u kojoj je nagrada dodijeljena; tekst: Predsjednik Žirija; prostor za pečat; tekst: Predsjednik Skupštine Crne Gore.
