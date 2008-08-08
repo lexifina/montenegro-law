@@ -1,0 +1,2 @@
+Na osnovu člana 86. i 87. a u vezi sa članom 90. Zakona o lokalnoj samoupravi ("Sl.list RCG" br. 42/03, 28/04 i 75/05), shodno odredbama člana 4, 5 i 6. Zakona o zaradama i drugim primanjima državnih i javnih funkcionera ("Sl.list CG" br. 33/08) i člana 30. Statuta Opštine Kotor ("Sl.list Opštine Kotor" br. 3/04 i "Sl.list Crne Gore-opštinski propisi" br. 17/08), Skupština Opštine Kotor na sjednici održanoj 22. jula 2008. godine donijela je
+O D L U K U
