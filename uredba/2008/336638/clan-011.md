@@ -1,0 +1,2 @@
+# Član 11
+Obveznice se mogu koristiti prije roka dospijeća za kupovinu akcija koje su u vlasništvu Fonda za razvoj Crne Gore, Republičkog Fonda penzijskog i invalidskog osiguranja i Zavoda za zapošljavanje Crne Gore (u daljem tekstu: fondovi), ukoliko u uslovima oglasa za prodaju - tenderu nije drugačije određeno. Centralna Depozitarna Agencija obavještava fondove o obveznicama stečenim prodajom akcija, u roku od osam dana, od dana kupoprodaje akcija.
