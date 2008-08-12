@@ -1,0 +1,4 @@
+Na osnovu člana 119 stav 3 i člana 123 stav 2 Zakona o zaštiti potrošača ("Službeni list RCG", broj 26/07), Vlada Crne Gore, na sjednici od 17. jula 2008.godine, donijela je
+UREDBU O KRITERIJUMIMA ZA VRŠENJE POJEDINIH POSLOVA UTVRĐENIH NACIONALNIM
+PROGRAMOM ZAŠTITE POTROŠAČA I BLIŽIM KRITERIJUMIMA, NAČINU I POSTUPKU
+PRUŽANJA FINANSIJSKE POMOĆI ORGANIZACIJAMA POTROŠAČA
