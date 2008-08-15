@@ -1,0 +1,8 @@
+# Član 30
+## Osnov upisa
+Upis iz člana 29 ovog zakona vrši se na osnovu izvoda iz matičnih registara koje, za crnogorske državljane, vode diplomatska ili konzularna predstavništva Crne Gore. Uz izvod se dostavlja i ovjerena fotokopija isprave organa druge države, ako je upis u matične registre izvršen na osnovu te isprave.
+Ako diplomatska ili konzularna predstavništva Crne Gore ne vode matične registre iz stava 1 ovog člana, ili ako rođenje, zaključenje braka i smrt crnogorskog državljanina nijesu prijavljeni diplomatskom ili konzularnom predstavništvu, upis u matične registre u Crnoj Gori vrši se na osnovu izvoda iz odgovarajuće evidencije nadležnog organa druge države.
+Izvod iz stava 2 ovog člana pribavlja i podnosi lice na koje se upis odnosi, odnosno koje prijavljuje podatke, ako međunarodnim ugovorom nije predviđena obaveza organa druge države da izvode iz svojih evidencija dostavljaju Ministarstvu, odnosno organu lokalne uprave.
+U slučaju iz stava 2 ovog člana, ako se izvod iz evidencije nadležnog organa druge države ne može pribaviti, upis podataka u matične registre u Crnoj Gori može se izvršiti na osnovu rješenja Ministarstva o utvrđivanju rođenja, zaključenja braka ili smrti. Rješenje se donosi na zahtjev lica iz stava 3 ovog člana, koje je dužno da uz zahtjev priloži dokaze o činjenicama koje se utvrđuju.
+Ako u izvodima iz st. 1 i 2 ovog člana nije upisan podatak o promjeni prezimena pri zaključivanju braka, podatak o tome se upisuje na osnovu izjava supružnika, u skladu sa pravilima opšteg upravnog postupka.
+Izgled i sadržaj obrazaca i način vođenja matičnih registara u diplomatskim ili konzularnim predstavništvima propisuje Ministarstvo.

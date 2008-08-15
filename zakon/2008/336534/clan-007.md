@@ -1,0 +1,5 @@
+# Član 7
+## Sadržaj matičnog registra vjenčanih
+Matični registar vjenčanih sadrži:
+1) osnovni upis: podatke o supružnicima - ime i prezime, dan, mjesec, godinu i mjesto rođenja, jedinstveni matični broj, državljanstvo, zanimanje, prebivalište i adresu stana; podatke o zaključenju braka - dan, mjesec, godinu i mjesto zaključenja braka i izjave supružnika o prezimenu nakon zaključenja braka; podatke o roditeljima bračnih drugova - ime i prezime i datum rođenja; ime, prezime i prebivalište svjedoka pri zaključivanju braka; ime i prezime odbornika skupštine opštine pred kojim je brak zaključen i ime i prezime matičara; ime i prezime i prebivalište punomoćnika, ako pri zaključenju braka jednog supružnika zastupa punomoćnik i ime i prezime tumača, ako je pri zaključenju braka bilo neophodno prisustvo tumača.
+2) dopunu, izmjenu ili brisanje osnovnog upisa: prestanak braka - smrću supružnika, proglašenjem nestalog supružnika umrlim, razvodom ili poništenjem braka; promjenu imena i prezimena supružnika, naknadne ispravke grešaka i druge promjene u vezi sa upisanim podacima.

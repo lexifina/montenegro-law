@@ -1,0 +1,6 @@
+# Član 6
+## Sadržaj matičnog registra rođenih
+Matični registar rođenih sadrži:
+1) osnovni upis: podatke o rođenju - ime i prezime i pol djeteta, dan, mjesec, godinu, čas i mjesto i opštinu rođenja, državljanstvo i jedinstveni matični broj; podatke o roditeljima djeteta - ime i prezime (za majku i rođeno prezime), datum i mjesto rođenja, državljanstvo, jedinstveni matični broj, zanimanje, prebivalište i adresu stana.
+2) dopunu, izmjenu ili brisanje osnovnog upisa: priznavanje, utvrđivanje ili osporavanje očinstva ili materinstva, naknadno zaključivanje braka roditelja ako je dijete rođeno prije zaključenja braka, usvojenje i prestanak usvojenja, starateljstvo i prestanak starateljstva, produženje i oduzimanje ili lišenje i ograničenje i vraćanje roditeljskog prava, promjenu ličnog imena djeteta i promjenu ličnog imena roditelja, usvojioca ili staratelja, promjenu pola, promjenu državljanstva, zaključivanje i prestanak braka, poništenje i oglašavanje braka nepostojećim, smrt i proglašenje umrlim, naknadne ispravke grešaka i druge promjene u vezi sa upisanim podacima.
+Za strance rođene na teritoriji Crne Gore matični registar rođenih sadrži podatke iz stava 1 ovog člana, osim podatka o državljanstvu, a podatke o sklapanju braka i smrti samo ukoliko su poznati u trenutku upisa ličnog stanja.
