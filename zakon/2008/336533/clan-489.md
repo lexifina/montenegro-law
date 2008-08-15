@@ -1,0 +1,6 @@
+# Član 489
+## Pregled stvari i vidljivi nedostaci
+(1) Kupac je dužan da primljenu stvar na uobičajeni način pregleda ili je da na pregled, čim je to prema redovnom toku stvari moguće, i da o vidljivim nedostacima obavijesti prodavca u roku od osam dana, a kod ugovora u privredi bez odlaganja, inače gubi pravo koje mu po tom osnovu pripada.
+(2) Kad je pregled izvršen u prisustvu obje strane, kupac je dužan da svoje primjedbe zbog vidljivih nedostataka saopšti prodavcu odmah, inače gubi pravo koje mu po tom osnovu pripada.
+(3) Ako je kupac otpremio stvar dalje bez pretovara, a prodavcu je pri zaključenju ugovora bila poznata ili morala biti poznata mogućnost takve dalje otpreme, pregled stvari može biti odložen do njenog prispijeća u novo mjesto opredjeljenja, i u tom slučaju kupac je dužan da prodavca obavijesti o nedostacima čim je po redovnom toku stvari mogao za njih doznati od svojih klijenata.
+(4) Kod potrošačkih ugovora potrošač kao kupac nije obavezan da pregleda stvar niti je da na pregled, ali je obavezan da odmah po saznanju obavijesti prodavca o postojanju vidljivih nedostataka, a najkasnije u roku od šest mjeseci od dana kad je otkrio nedostatak, inače gubi pravo koje mu po tom osnovu pripada.

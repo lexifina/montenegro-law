@@ -1,0 +1,1 @@
+# OPŠTE PRAVILO
