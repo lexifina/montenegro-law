@@ -1,0 +1,2 @@
+# Član 4
+DOO "Urbing" Podgorica se obavezuje da u ime investitora, preuzme sve obaveze na dogradnji i nadogradnji stambeno-poslovnog objekta iz člana 1.ove Odluke, te finansira sve troškove oko pribavljanja odgovarajućih odobrenja i saglasnosti, izrade projektne dokumentacije, naknade za ureĎenje graĎevinskog zemljišta, troškove ureĎenja terena, kao i druge troškove koji prate izgradnju predmetnog objekta.

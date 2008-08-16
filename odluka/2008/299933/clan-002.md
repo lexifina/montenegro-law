@@ -1,0 +1,3 @@
+# Član 2
+Ulog Opštine Kotor predstavlja ustupanje prava dogradnje i nadogradnje, sa pravom korišćenja, na dijelu kat. par. 505 K.O. Dobrota I, u površini razlike osnove postojećih objekata I i II i planiranog objekta, u skladu sa DUP-om Dobrote i urbanističko-tehničkim uslovima, a na osnovu ovjerenog Glavnog projekta na koji je data urbanistička saglasnost (u daljem tekstu: Glavnog projekta).
+Opština Kotor zadržava pravo vlasništva na preostalom dijelu kat. par. 505 K.O. Dobrota I, uz uspostavljanje prava zajedničke upotrebe iste, a u cilju privoĎenja namjeni i ureĎenja graĎevinskog zemljišta u skladu sa Glavnim projektom.
