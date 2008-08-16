@@ -1,0 +1,3 @@
+# Član 2
+Agencija vrši poslove koji se odnose na:
+Evidenciju investiciono-tehničke dokumentacije iz oblasti investicija, priprema i sprovodi godišnji program investicija Opštine, priprema i sprovodi program izgradnje, održavanja, rekonstrukcije i sanacije lokalnih i nekategorisanih puteva, obezbjeĎuje investiciono-tehničku dokumentaciju za investicije koje se investiraju iz sredstava kapitalnog budžeta Opštine, priprema tendere za izradu tehničke dokumentacije i ustupanje radova, vrši stručni nadzor i kontrolu investicionih aktivnosti Opštine, pruža stručnu pomoć mjesnim zajednicama i režijskim odborima u planiranju i sprovoĎenju investicionih aktivnosti, ostvaruje koordinaciju sa javnim ustanovama i preduzećima u pripremi i realizaciji investicionih aktivnosti.
