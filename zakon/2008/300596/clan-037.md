@@ -1,0 +1,3 @@
+# Član 37
+## Poljoprivredni inspektor
+Poljoprivredni inspektor vrši nadzor: u proizvodnji tipa i sorte duvana; korišćenja sjemena duvana za proizvodnju rasada duvana; proizvodnje rasada duvana; proizvodnje duvana u listu; kvaliteta i kvantiteta duvana pri otkupu duvana i obrađenog duvana; količina otkupljenog duvana po vrstama i klasama od proizvođača duvana; količina obrađenog duvana; u utvrđivanju uslova za obradu duvana; uslova za proizvodnju duvanskih proizvoda i nadzor nad evidencijom proizvođača duvana i registrovanih obrađivača duvana i proizvođača duvanskih proizvoda, kao i u vođenju evidencija i dostavljanja izvještaja u skladu sa ovim zakonom.
