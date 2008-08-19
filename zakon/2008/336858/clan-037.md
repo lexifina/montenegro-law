@@ -1,0 +1,5 @@
+# Član 37
+## Pretvaranje prijave za priznanje statusa ovlašćenog korisnika imena porijekla u prijavu za priznanje statusa ovlašćenog korisnika geografske oznake i obrnuto
+(1) Ako je u toku postupka po prijavi za priznanje statusa ovlašćenog korisnika oznake geografskog porijekla, u skladu sa članom 24 ovog zakona, došlo do pretvaranja prijave imena porijekla u prijavu geografske oznake, ili pretvaranja prijave geografske oznake u prijavu imena porijekla, podnosilac prijave za priznanje statusa ovlašćenog korisnika imena porijekla, odnosno geografske oznake čije je pretvaranje izvršeno, dužan je da, uz plaćanje propisane takse, podnese zahtjev za pretvaranje prijave za priznanje statusa ovlašćenog korisnika imena porijekla u prijavu za priznanje statusa ovlašćenog korisnika geografske oznake, ili obrnuto.
+(2) Nadležni organ je dužan da bez odlaganja obavijesti sve podnosioce prijave za priznanje statusa ovlašćenog korisnika određenog imena porijekla, odnosno geografske oznake, o podnijetom zahtjevu za pretvaranje prijave imena porijekla, odnosno geografske oznake.
+(3) O pretvaranju prijave iz stava 1 ovog člana nadležni organ donosi poseban zaključak.

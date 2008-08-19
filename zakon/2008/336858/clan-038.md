@@ -1,0 +1,5 @@
+# Član 38
+## Zaključak o plaćanju takse za priznanje statusa ovlašćenog korisnika
+(1) Ako prijava za priznanje statusa ovlašćenog korisnika imena porijekla, odnosno geografske oznake ispunjava uslove koji su propisani ovim zakonom da se podnosiocu prijave prizna status ovlašćenog korisnika imena porijekla, odnosno geografske oznake, nadležni organ će pozvati podnosioca prijave da plati taksu za priznanje statusa ovlašćenog korisnika imena porijekla, odnosno geografske oznake, za prvih pet godina i troškove objave podataka o ovlašćenom korisniku imena porijekla, odnosno geografske oznake i da dostavi dokaze o izvršenim uplatama.
+(2) Ako podnosilac prijave u roku od 30 dana od dana prijema obavještenja ne dostavi dokaze o izvršenim uplatama iz stava 1 ovog člana, prijava će se smatrati povučenom, o čemu se donosi zaključak o odbacivanju prijave.
+(3) U slučaju iz stava 2 ovog člana, podnosilac prijave za priznanje statusa ovlašćenog korisnika imena porijekla, odnosno geografske oznake, može uz plaćanje propisane takse da podnese predlog za povraćaj u pređašnje stanje, u roku od tri mjeseca od dana prijema zaključka o odbacivanju prijave.

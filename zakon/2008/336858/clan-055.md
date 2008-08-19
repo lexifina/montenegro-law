@@ -1,0 +1,7 @@
+# Član 55
+## Ukidanje rješenja o priznanju statusa ovlašćenog korisnika
+(1) Rješenje o priznanju statusa ovlašćenog korisnika imena porijekla, odnosno geografske oznake, na zahtjev zainteresovanog lica, nadležni organ može da ukine ako utvrdi da su prestali da postoje uslovi za priznanje statusa ovlašćenog korisnika imena porijekla, odnosno geografske oznake, propisani ovim zakonom.
+(2) U postupku po zahtjevu za ukidanje rješenja o priznanju statusa ovlašćenog korisnika imena porijekla, odnosno geografske oznake, ovlašćeni korisnik imena porijekla, odnosno geografske oznake dužan je da dokaže da postoje zakonom propisani uslovi za priznanje statusa ovlašćenog korisnika imena porijekla, odnosno geografske oznake.
+(3) Ako podnosilac zahtjeva za ukidanje rješenja o priznanju statusa ovlašćenog korisnika imena porijekla, odnosno geografske oznake, u toku postupka odustane od zahtjeva, nadležni organ može da nastavi postupak po službenoj dužnosti.
+(4) U postupku po zahtjevu za ukidanje rješenja o priznanju statusa ovlašćenog korisnika imena porijekla, odnosno geografske oznake, shodno se primjenjuju odredbe člana 36 ovog zakona.
+(5) Licu koje je upisano kao ovlašćeni korisnik imena porijekla, odnosno geografske oznake u odgovarajući registar, status ovlašćenog korisnika imena porijekla, odnosno geografske oznake prestaje narednog dana od dana pravosnažnosti rješenja o ukidanju rješenja o priznanju statusa ovlašćenog korisnika imena porijekla, odnosno geografske oznake.
