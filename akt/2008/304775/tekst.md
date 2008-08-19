@@ -1,0 +1,13 @@
+Na osnovu člana 10 stav 3 Zakona o obeštećenju korisnika prava iz penzijskog i invalidskog osiguranja ("Službeni list CG", broj 40/08), Ministarstvo finansija donijelo je
+UPUTSTVO
+O NAČINU PLAĆANJA RAČUNA UTROŠENE ELEKTRIČNE ENERGIJE PORESKIH OBAVEZA OBVEZNICAMA PO OSNOVU OBEŠTEĆENJA KORISNIKA PRAVA IZ PENZIJSKOG I INVALIDSKOG OSIGURANJA
+1. Ovim uputstvom uređuje se bliži način plaćanja računa utrošene električne energije i poreskih obaveza, obveznicama po osnovu obeštećenja korisnika prava iz penzijskog i invalidskog osiguranja (u daljem tekstu: obveznice).
+2. Radi plaćanja računa za utrošenu električnu energiju, odnosno dospjelu poresku obavezu, dužnik - vlasnik obveznica od Elektroprivrede Crne Gore AD Nikšić, odnosno Poreske uprave (u daljem tekstu: nadležni organ) prethodno pribavlja potvrdu o visini duga.
+3. Nadležni organ na zahtjev dužnika - vlasniku obveznica, izdaje potvrdu na ime, o visini duga po osnovu utrošene električne energije, odnosno dospjele poreske obaveze. Potvrda se izdaje u tri primjerka, od kojih se dva primjerka daju dužniku, a jedan primjerak zadržava kod sebe.
+4. Vlasnik obveznica - dužnik potvrdu iz tačke 3 ovog uputstva, odnosno njegov naslednik podnosi Centralnoj Depozitarnoj Agencija AD Podgorica (u daljem tekstu: Centralnoj Depozitarnoj Agenciji), koja vrši prenos obveznica sa računa vlasnika obveznica na račun nadležnog organa, do visine duga iskazanog u potvrdi.
+5. Centralna Depozitarna Agencija o izvršenim promjenama vlasništva na obveznicama sačinjava izvještaj o promjenama koji neposredno daje vlasniku obveznica. Izvještaj o promjenama vlasništva na obveznicama dostavlja se nadležnom organu u roku od sedam dana od dana izvršene promjene.
+Izvještaj o promjenama vlasništva sadrži lične podatke vlasnika obveznica, jedinstveni matični broj, adresu stanovanja, broj i iznos obveznica.
+6. Nadležni organ će na osnovu izvještaja Centralne Depozitarne Agencije, podnesenog od dužnika - vlasnika obveznica odnosno Centralne Depozitarne Agencije, izvršiti bez odlaganja umanjenje duga po osnovu utrošene električne energije, odnosno poreske obaveze.
+7. Nadležni organ radi sticanja obveznica u skladu sa ovim uputstvom će otvoriti račun obveznica kod Centralne Depozitarne Agencije.
+8. Bliži način otkupa obveznica, u skladu sa članom 8 stav 2 Uredbe o konverziji obeštećenja korisnika prava iz penzijskog i invalidskog osiguranja u obveznice i o načinu i bližim uslovima realizacije obveznica ("Službeni list CG", broj 45/08), regulisaće se ugovorom između Ministarstva finansija i Elektroprivrede Crne Gore AD Nikšić.
+9. Ovo uputstvo stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
