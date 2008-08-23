@@ -1,0 +1,4 @@
+# Član 18
+## Statut ustanove
+Statut ustanove sadrži: naziv, sjedište i adresu ustanove; djelatnost ustanove; djelokrug rada organa upravljanja i rukovođenja; uslove ipostupak za izbor i razrješenje direktora ustanove; opšte akte ustanove i način njihovog donošenja; finansiranje rada; način utvrđivanja kandidata iz reda zaposlenih za imenovanje članova organa upravljanja, način utvrđivanja predloga za razrješenje člana organa upravljanja iz reda zaposlenih, javnost rada i druga pitanja od značaja za rad ustanove.
+Saglasnost na statut ustanove daje osnivač.
