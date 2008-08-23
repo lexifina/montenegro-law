@@ -1,0 +1,2 @@
+# Član 2
+Imovinom, u smislu ovog zakona, smatra se: novac, pokretne stvari, nepokretnosti,dragocjeni predmeti (zlato,plemeniti metali, drago ili poludrago kamenje,biseri i drugi predmeti od vrijednosti), druga stvarna prava na stvarima, hartije od vrijednosti u skladu sa zakonom, druge isprave kojima se dokazuje pravo svojine na imovini i druga imovinska korist koja je pribavljena krivičnim djelom ili prekršajem.
