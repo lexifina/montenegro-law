@@ -1,0 +1,2 @@
+Na osnovu člana 29. Zakona o graĎevinskom zemljištu ("Sl. list RCG" broj 55/00), člana 45 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 75/05 i 13/06), člana 6 i 23 Za- kona o finansiranju lokalne samouprave ("Sl.list RCG" br. 42/03, 44/03 i Sl. list CG 5/08) i člana 31 Statuta Opštine Tivat ("Sl.list RCG- opštinski propisi" br. 40/04 i 26/06), Skupština Opštine Tivat, na sjednici održanoj 11.08.2008. godine donijela je
+O D L U K U
