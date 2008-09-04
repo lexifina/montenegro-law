@@ -1,0 +1,3 @@
+# Član 38
+Ako se utvrdi od strane nadležnog inspekcijskog organa da je u lovištu, u toku lovne sezone, nastalo osjetnije smanjenje brojnog stanja određene vrste divljači, usljed prekomjernog izlova, elementarne nepogode ili zdravstvene ugroženosti divljači, korisnik lovišta je obavezan da zabrani lov te vrste divljači, kao i da preduzme sve mjere radi uspostavljanja brojnog stanja divljači utvrđenog lovnom osnovom, odnosno godišnjim lovnim planom.
+Ako korisnik lovišta ne postupi u smislu stava 1 ovog člana, raskida se ugovor o korišćenju lovišta a sprovođenje tih mjera, o njegovom trošku, obezbjeđuje Ministarstvo.

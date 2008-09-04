@@ -1,0 +1,22 @@
+# Član 54
+Korisnici lovišta obavljaju sljedeće poslove i zadatke od javnog interesa:
+- izvode planirane mjere za zaštitu divljači i njene životne sredine, kao i mjere za očuvanje i poboljšanje životnih uslova divljači;
+- izvode sanitarni odstrijel bolesne ili povrijeđenje divljači;
+- sarađuju pri izvođenju mjera preventivne zdravstvene zaštite divljači i dopremaju uginulu divljač na veterinarski pregled;
+- vode evidencije o zaplijenjenoj i nađenoj uginuloj divljači;
+- sakupljaju, u saradnji sa institucijama iz oblasti zaštite prirode, podatke o divljači i njenoj životnoj sredini po određenoj metodologiji monitoringa;
+- izvode planirane mjere za sprječavanje štete od divljači i na divljači;
+- procjenjuju štete od divljači i na divljači;
+- obezbjeđuju naknade za štete od divljači vlasnicima ili korisnicima zemljišta;
+- obezbjeđuju stalnu kontrolu nad stanjem u sredini gdje divljač egzistira i obavještavaju nadležni državni organ o nedozvoljenim radnjama;
+- čuvanja lovišta i druge poslove zaštite u skladu sa propisima;
+- obezbjeđuju praktično obrazovanje iz oblasti gazdovanja sa divljači i lovstva;
+- učestvuju u obrazovanju i osposobljavanju lovaca;
+- izdaju dozvole za lov;
+- komuniciraju sa vlasnicima zemljišta i šuma i sa javnošću;
+- ponovo naseljavaju i unose rijetke i ugrožene autohtone vrste divljači i uspostavljaju odgovarajuću životnu sredinu;
+- sarađuju u naučno-istraživačkom radu koji se odnosi na divljač i lovstvo;
+- sarađuju pri izradi stručnih podloga za oblikovanje zaštitnih područja;
+- izdaju potvrde o porijeklu (propratnicu) divljači i njenih djelova;
+- evidentiraju sredstva ostvarena korišćenjem lovišta;
+- druge poslove i zadatke, u skladu sa ovim zakonom.

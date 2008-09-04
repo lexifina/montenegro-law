@@ -1,0 +1,6 @@
+# Član 12
+Lovišta su prostorne cjeline koje se ustanovljavaju na poljoprivrednim i vodnim površinama, površinama obraslim šumama i šumskom zemljištu, po pravilu, ne manjem od 3000 hektara, koje predstavljaju prirodnu i zaokruženu lovno-privrednu cjelinu i u kojima postoje prirodni i drugi uslovi za uspješan razvoj lovstva.
+Prema namjeni lovišta se dijele na lovišta i lovišta sa posebnom namjenom.
+Nelovne površine su: površine na kojima je zbog zaštite biodiverziteta trajno zabranjen lov na sve vrste divljači (zaštićena prirodna dobra ili pojedini njihovi djelovi i sl.); naselja i zaseoci; javni parkovi i groblja, površine svih javnih puteva, pruga i druge slične površine; objekti za liječenje, sport, turizam i rekreaciju; dvorišta seoskih domaćinstava i industrijskih i neindustrijskih objekata; površine koje služe za vojne, naučne i nastavne potrebe; ograđeni prostori u kojima nije dozvoljen pristup ili u kojima se divljač vještački uzgaja; vrtovi, višegodišnji zasadi i rasadi ograđeni ogradom koja ne dozvoljava prolaz zecu ili papkastoj divljači, kao i površine mora, morskog dobra i ribnjaka.
+U lovne površine, izuzev površina iz stava 3 ovog člana, ubrajaju se sve površine, uključujući i one na kojima je, zbog očuvanja određene vrste divljači, privremeno zabranjen lov.
+Lovne i nelovne površine određuju se u katastru lovišta.

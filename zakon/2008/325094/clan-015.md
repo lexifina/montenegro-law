@@ -1,0 +1,3 @@
+# Član 15
+Postupak dodjele lovišta na korišćenje pokreće se na osnovu javnog konkursa koji na osnovu odluke Vlade raspisuje Ministarstvo.
+Konkurs iz stava 1 ovog člana, u skladu sa odlukom Vlade, sadrži bliže uslove o dodjeli lovišta na korišćenje, i to: naziv i površinu lovišta, podatke o divljači i lovnim objektima, vrijeme na koje se lovište dodjeljuje na korišćenje; kadrovske, tehničke i organizacione uslove koje mora da ispunjava učesnik na konkursu; uslove obavljanja poslova koji su predmet konkursa; početnu visinu i način plaćanja naknade iz člana 20 ovog zakona i druge uslove od značaja za dodjelu lovišta na korišćenje.

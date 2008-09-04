@@ -1,0 +1,4 @@
+# Član 60
+Korisnik lovišta opštim aktom utvrđuje: bliže uslove za lov i vrijeme trajanja lova; pravo lovaca u korišćenju ulovljene divljači i njihovih djelova; kontrolu lova divljači; iznos naknade za ulovljenu divljač ili njene djelove, pružene usluge u lovištu, izdavanje propratnica, trofejnih listova i dr.; visinu naknade za izdavanje dozvole za lov, naknadu za učinjenu štetu i mjere bezbjednosti u korišćenju lovišta; mjere za zaštitu životne sredine; odnose i predstavljanje u Lovačkom savezu; odnose sa institucijama i drugim organizacijama iz oblasti zaštite prirode i lokalnom samoupravom; drugo od značaja za lov i korišćenje divljači.
+Na akt iz stava 1 ovog člana saglasnost daje Ministarstvo.
+Minimalni cjenovnik odstrijeljene divljači i njenih djelova utvrđuje Lovački savez, po prethodno pribavljenom mišljenju korisnika lovišta i uz saglasnost Ministarstva.

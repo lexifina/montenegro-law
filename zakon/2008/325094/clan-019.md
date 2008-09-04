@@ -1,0 +1,3 @@
+# Član 19
+Odnosi u korišćenju lovišta uređuju se ugovorom koji, na osnovu akta iz člana 17 ovog zakona, zaključuje Ministarstvo i korisnik lovišta, odnosno u skladu sa članom 18 ovog zakona Ministarstvo i organ državne uprave nadležan za gazdovanje šumama.
+Ugovor iz stava 1 ovog člana naročito sadrži: položaj i veličinu lovišta na kojem se ugovara korišćenje; trajanje i druge uslove korišćenja lovišta; mjere koje je korisnik dužan da preduzme u cilju unaprjeđenja lovišta; procjenu brojnog stanja divljači koja se uzgaja u lovištu po vrstama; uslove raskida ugovora prije isteka vremena korišćenja i druge elemente od značaja za ugovorne strane.
