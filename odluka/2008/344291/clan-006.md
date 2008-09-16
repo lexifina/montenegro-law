@@ -1,0 +1,2 @@
+# Član 6
+Osnovne smjernice iz planskih dokumenata širih teritorijalnih jedinica su: razrada namjene i parametara prostora datih GUP-om za kolektivno stanovanje. Uslov je unapreĎenje ambijenta, izgradnja u skladu sa uslovima prirode i graditeljskog nasljeĎa. Obezbijediti funkcionisanje predviĎenih sadržaja planiranjem odgovarajuće mreže saobraćajne i ostale tehničke infrastrukture i obezbijediti prostor za zadovoljavanje zajedničkih potreba stanovnika.
