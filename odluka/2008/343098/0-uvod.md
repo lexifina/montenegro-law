@@ -1,0 +1,2 @@
+Na osnovu člana 9 Zakona o imovini ("Sl. list RCG", br. 44/99),člana 23 stav 1 Zakona o graĎevinskom zemljištu ( "Sl. list RCG", broj 55/00), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06) i člana 3 alineja 3 Odluke o naknadi za prenos prava na nepokretnosti i naknada za prenos prava za izdavanje u zakup neizgraĎenog graĎevinskog zemljišta ("Sl. list RCG - opštinski propisi", broj 15/07) Skupština Prijestonice Cetinje, na sjednici održanoj dana 11.08.2008. godine, donosi
+O D L U K U
