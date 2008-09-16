@@ -1,0 +1,2 @@
+Na osnovu člana 9 Zakona o imovini RCG ("Službeni list RCG", broj 44/99), člana 22 stav 1 Zakona o prometu nepokretnosti ("Službeni list SRCG", br. 27/75, 35/75, 7/91 i 48/91 i "Službeni list RCG", br. 2/92 i 27/94), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06) i člana 15 stav 2 Statuta Prijestonice ("Službeni list RCG-opštinski propisi", br. 3/05, 9/05 i 39/06), Skupština Prijestonice Cetinje na sjednici održanoj dana 11.08.2008.godine, donijela je
+O D L U K U O PRENOSU PRAVA NA NEPOKRETNOSTI U KO BATA
