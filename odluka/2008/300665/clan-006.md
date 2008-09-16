@@ -1,0 +1,2 @@
+# Član 6
+Osnovne smjernice iz planskih dokumenata širih teritorijalnih jedinica su: razrada namjene prostora date Prostornim planom Opštine - zdravstveni i turistički kompleks. Uslov je čuvanje i unapreĎenje izvornog ambijenta, izgradnja u skladu sa uslovima prirode i graditeljskog nasljeĎa. Obezbijediti funkcionisanja predviĎenih sadržaja planiranjem odgovarajuće mreže saobraćajne i ostale tehničke infrastrukture i obezbjeĎenje površina i objekata za zadovoljavanje zajedničkih potreba stanovništva i turista.
