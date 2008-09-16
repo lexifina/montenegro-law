@@ -1,0 +1,2 @@
+Na osnovu člana 9. Zakona o imovini Republike Crne Gore ("Sl. list RCG", br. 44/99), člana 5. Odluke Savjeta Direkcije za ureĎenje i izgradnju Kotora o kriterijumima i uslovima ustupanja korišćenja sportskih sadržaja plivačkih bazena u Kotoru ("Sl. list Opštine Kotor", br. 4/07) i člana 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor", br. 3/04), Skupština Opštine Kotor na sjednici održanoj 27.08.2008. godine donijela je
+ODLUKU
