@@ -1,0 +1,3 @@
+# Član 9
+Ako ovlašćena institucija za stručnu kontrolu proizvodnje sjemenskog reproduktivnog materijala šumskog drveća, u toku kontrole, ustanovi da je opšte stanje objekta - stabla, sjemenske sastojine ili sjemenske plantaže narušeno, evidentiraće stanje u zapisniku i naložiće obustavljanje sakupljanja sjemena.
+Ako ovlašćena institucija za stručnu kontrolu proizvodnje sadnog reproduktivnog materijala šumskog drveća, u toku kontrole, ustanovi da u/na objektu ima reproduktivnog materijala koji ne odgovara podacima iz dokumentacije kao ni propisanoj čistoći- porijeklu, utvrdiće brojno stanje takvog reproduktivnog materijala, vidno ga obilježiti, unijeti to stanje u zapisnik i naložiti snabdjevaču da do određenog roka taj reproduktivni materijal izdvoji ili uništi.
