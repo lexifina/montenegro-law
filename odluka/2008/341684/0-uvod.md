@@ -1,0 +1,2 @@
+Na osnovu člana 25., čl. 31 do 51 Zakona o ureĎenju prostora i izgradnji objekata ("Sl.list CG br.51/08) člana 57 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 i 13/06), člana 60 Statuta Opštine Berane ("Sl.list RCG-opštinski propisi" br. 26/95), Jednogodišnjeg programa planiranja ureĎenja prostora ("Sl.list CG -Opštinski propisi", br.6/08), izvršni organ opštine Berane utvrĎuje
+ODLUKU
