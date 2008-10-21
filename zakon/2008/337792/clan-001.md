@@ -1,0 +1,2 @@
+# Član 1
+Ovim zakonom uređuje se upotreba jedinica Vojske Crne Gore (u daljem tekstu: jedinica Vojske) u međunarodnim snagama i učešće pripadnika civilne zaštite, policije i zaposlenih u organima državne uprave (u daljem tekstu: pripadnici civilne zaštite i zaposleni) u mirovnim misijama i drugim aktivnostima u inostranstvu, kao i prava i obaveze lica koja učestvuju u međunarodnim snagama, mirovnim misijama i drugim aktivnostima u inostranstvu.

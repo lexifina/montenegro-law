@@ -1,0 +1,3 @@
+# Član 14
+Pripadnici Vojske, civilne zaštite i zaposleni, za vrijeme učešća u aktivnostima iz člana 2 ovog zakona, imaju pravo na naknadu zarade i druga novčana primanja, najmanje u iznosu koji bi ostvarili da su na službi u Vojsci ili u radnom odnosu u Crnoj Gori, kao i druge naknade, pravo na zdravstvenu zaštitu i zdravstveno osiguranje u skladu sa propisima kojima je uređena služba u Vojsci, propisima iz oblasti rada, zdravstva i penzijskog i invalidskog osiguranja.
+Pored prava iz stava 1 ovog člana, pripadnici Vojske, civilne zaštite i zaposleni, za vrijeme učešća u aktivnostima iz člana 2 ovog zakona, imaju pravo i na zaradu i druga novčana primanja koje propisuje Vlada, u skladu sa međunarodnim ugovorima ili drugim međunarodnim aktima.
