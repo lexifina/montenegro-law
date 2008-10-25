@@ -1,0 +1,2 @@
+Na osnovu člana 17 Zakona o prometu nepokretnosti ("Sl.list SRCG" br. 27/75, 35/75, 7/91, 48/91 i "Sl.list RCG", br. 2/92 i 69/03), člana 9 Zakon o imovini RCG ("Sl.list RCG", br. 44/99), član 45 stav 1., tačka 9. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03) i člana 16 stav 2 i člana 30 Statuta Opštine Kotor ("Sl.list opštine Kotor", br. 3/04), Skupština opštine Kotor na sjednici održanoj dana 25. 09. 2008.godine, donijela je
+O D L U K A
