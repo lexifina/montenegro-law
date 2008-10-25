@@ -1,0 +1,2 @@
+# Član 4
+Dnevni centar ima za cilj zaštitu , promociju i unapreĎenje prava djece sa smetnjama u razvoju, socijalizaciju i integraciju djece sa smetnjama u razvoju u zajednicu na osnovu pružanja jednakih mogućnosti, obrazovanje u cilju pripreme djece za predškolsku/školsku nastavu ili osposobljavanje za samostalnost u dnevnim aktivnostima ovisno o očuvanim sposobnostima djeteta, kao i elementarnu socijalnu i medicinsku rehabilitaciju u cilju povećanja i održavanja funkcionalnih sposobnosti djece, te osposobljavanja za samostalnost u dnevnim aktivnostima.
