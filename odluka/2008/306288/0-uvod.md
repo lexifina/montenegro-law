@@ -1,0 +1,2 @@
+Na osnovu člana 45. stav 1. tačka 15. Zakona o lokalnoj samoupravi ( "Sl. list RCG" , br. 42/03, 28/04, 75/05, 13/06 ), čl. 62. i 63. Zakona o finansiranju lokalne samouprave ("Sl. list RCG" br. 42/03, 44/03 i "Sl. list CG", br. 5/08 ) i čl. 21. i 23. stav 1. tačka 16. Statuta Opštine Pljevlja ("Sl. list RCG", br. 37/04 i 30/07), Skupština opštine Pljevlja, na sjednici održanoj 26 septembra 2008. godine, donijela je
+ODLUKU
