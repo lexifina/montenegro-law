@@ -1,0 +1,3 @@
+# Član 6
+Ova odluka stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore".
+SU-SK br. 12-952
