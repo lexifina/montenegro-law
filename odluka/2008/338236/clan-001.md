@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom utvrđuju se mjere pripravnosti koje za vrijeme ratnog ili vanrednog stanja preduzimaju Vojska Crne Gore, državni organi, organi državne uprave, lokalne samouprave i lokalne uprave, privredna društva, druga pravna lica i preduzetnici (u daljem tekstu: nosioci odbrambenih priprema), radi postepenog i organizovanog prelaska na funkcionisanje u skladu sa Planom odbrane Crne Gore (u daljem tekstu: Plan odbrane).
