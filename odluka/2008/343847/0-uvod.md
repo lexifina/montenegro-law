@@ -1,0 +1,2 @@
+Na osnovu člana 45. stav 1 tačka 9 Zakona o lokalnoj samoupravi (’’Sl. list RCG’’ br. 42/03, 28/04, 75/05 i 13/06), člana 7. Zakona o prometu nepokretnosti (’’Sl. list RCG’’ br. 27/75 i 35/75), čl. 9. i 12. Zakona o imovini (’’Sl. list RCG’’ br. 44/99), člana 33. Statuta Opštine Berane (’’Sl. list RCG-opštinsksi propisi" br. 21/04 i 34/06), člana 42. Odluke o graĎevinskom zemljištu (’’Sl. list RCG - opštinski propisi" br. 1/06), Skupština opštine Berane na sjednici održanoj 13.10. 2008. godine, donijela je
+O D L U K U
