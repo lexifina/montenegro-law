@@ -1,0 +1,3 @@
+# Član 2
+DPP se izrađuje za središnji tok rijeke Morače, na kojem je predviđena izgradnja četiri hidroelektrane (Andrijevo, Raslovići, Milunovići i Zlatica), višenamjenske akumulacije uključujući i prostor oko akumulacija, neophodan za realizaciju i druge infrastrukture (putne, elektro, vodovodne, kanalizacione). Akumulacije se pružaju na toku od Zlatice (oko 1,5 km uzvodno od mosta na Smokovcu) do mosta Grlo (oko 2,5 km uzvodno od manastira Morača).
+Orijentacioni obuhvat DPP-a je dat u grafičkom prilogu, koji je odštampan uz ovu odluku i čini njen sastavni dio. Detaljno područje obuhvata plana i zaštitnih zona, tj. granice zahvata DPP-a, utvrdiće se DPP-om.
