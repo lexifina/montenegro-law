@@ -1,0 +1,3 @@
+# Član 13
+Ukupna količina izvađenog materijala iz vodotoka utvrđuje se na osnovu podataka obveznika ili, ako oni nisu dostavljeni ili postoji sumnja u njihovu ispravnost, na osnovu tehničke dokumentacije na koju obveznik pribavi vodnu saglasnost, kao i na osnovu podataka dobijenih od lica imenovanog za nadzor od strane nadležnog organa.
+Naknada iz člana 12 ovog zakona ne plaća se za izvađeni materijal iz vodotoka koji je iskorišćen za uređenje vodotoka (izgradnju, rekonstrukciju i održavanje zaštitnih vodnih objekata i dr.), na eksploatacionom području, u skladu sa tehničkom dokumentacijom za koju je pribavljena vodna saglasnost.
