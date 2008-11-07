@@ -1,0 +1,3 @@
+# Član 2
+Studija se sastoji iz: tekstualnog dijela i grafičkih priloga postojećeg i planiranog stanja uraĎenih u vidu knjige (elaborata) u analognoj i digitalnoj formi. Tekstualni dio sadrži: A. Opšti dio, B. Tekstualni dio, Uvodne napomene, Poglavlje 1-Postojeće stanje, Poglavlje 11- Planirano stanje i Infrastrukturu.
+Grafički prilozi: 1.Geodetska podloga sa granicom zahvata, 2. Izvod iz Prostornog plana opštine Budva, 3. Analiza postojećeg stanja -Namjena, 4. Namjena površina-Plan, 5. Tehnički zoning, 6. Parcelacija, nivelacija i regulacija, 7. Saobraćaj, 8. Pejzažna arhitektura, 9. Fekalna i atmosferska kanalizacija, 9a. Vodovodna mreža, 10. Elektro instalacije i 11. Telekomunikacije.
