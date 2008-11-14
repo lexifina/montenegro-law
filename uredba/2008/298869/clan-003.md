@@ -1,0 +1,3 @@
+# Član 3
+## Evidencija o tajnim podacima koji se daju na korišćenje
+Evidencija o tajnim podacima koji se daju na korišćenje vodi se u obliku registra u koji se upisuju sljedeći podaci: redni broj evidencije; broj i datum nastanka tajnog podatka; oznaka stepena tajnosti; datum davanja na korišćenje tajnog podatka; naziv organa i/ili ime i prezime lica kome se tajni podatak daje na korišćenje; broj dozvole za pristup tajnim podacima; način dostavljanja tajnog podatka; datum saglasnosti ovlašćenog lica za određivanje stepena tajnosti o davanju tajnog podatka na korišćenje i napomena (Obrazac broj 2).

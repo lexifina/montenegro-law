@@ -1,0 +1,3 @@
+# Član 2
+## Evidencija o tajnim podacima
+Evidencija o tajnim podacima vodi se odvojeno po stepenima tajnosti podataka u obliku registra u koji se upisuju sljedeći podaci: redni broj evidencije; naziv organa čije je ovlašćeno lice odredilo stepen tajnosti podataka; broj i datum nastanka tajnog podatka; datum prijema tajnog podatka; naziv organa i/ili ime i prezime lica kome se tajni podatak daje na korišćenje i datum davanja na korišćenje tajnog podatka; broj i datum kopije tajnog podatka; promjena stepena i datum promjene stepena tajnosti podatka; datum prestanka tajnosti podatka; broj i datum zapisnika o uništavanju tajnog podatka i napomena (Obrazac broj 1).
