@@ -1,0 +1,2 @@
+# Član 4
+Planom je predviĎena: obnova, ureĎenje i sanacija gradskog parkovnog kompleksa sa pojedinačnim objektima kulture i spomeničke vrijednosti, planirana je i izgradnja novog poslovno-stambenog kompleksa na lokaciji bivše rampe Boksita i saobraćajnice zapadnim područjem Trebjese, formiranje kontinuiranog zelenog pojasa sa rekreacijom i parkom ispod Trebjese, jakog pješačkog poteza, proširenje otvorenog prostora Centra za kulturu, sa parkovno-izložbenim i manifestacionim prostorom.
