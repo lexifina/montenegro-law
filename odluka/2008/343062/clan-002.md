@@ -1,0 +1,3 @@
+# Član 2
+Ovlašćuje se predsjednik Opštine da za potrebe realizacije DUP-a Centar 3 može pribaviti nepokretnosti po cijeni od 55.313,92 € utvrĎenoj od strane Komisije za procjenu nepokretne imovine Uprave za nekretnine - PJ Nikšić, i to:
+- katastarske parcele broj 1407/2 po kulturi dvorište, površine 17m2 i zemljište pod objektom površine 46m2 upisane u "A" listu lista nepokretnosti, broj 2541 KO Nikšić, kao susvojina Šućur Radoša, Šućur Petra, Šućur Milovana, Šućur Radenka, Šućur Ratka i Savićević Anke i porodična stambena zgrada broj 1, površine 65 m2, upisane u "V" listu lista nepokretnosti, broj 2541 KO Nikšić, kao susvojina Šućur Radoša, Šućur Petra, Šućur Milovana, Šućur Radenka, Šućur Ratka i Savićević Anke.
