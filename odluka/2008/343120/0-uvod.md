@@ -1,0 +1,4 @@
+Na osnovu člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi («Službeni list RCG» , broj 42/03 ,28/04, 75/05 i 13/06), člana 170 Zakona o ureĎenju prostora i izgradnji objekata ("Službeni list CG", broj 51/08), člana 2 Uredbe o načinu i postupku sprovoĎenja javnog nadmetanja odnosno prikupljanja ponuda u postupku prenosa prava na gradskom graĎevinskom zemljištu (» Službeni list RCG«, broj 38/03 ), člana 32 stav 1 alineja 9 i člana 40 Statuta opštine Nikšić (»Službeni list RCG-opštinski propisi «, broj 20/04 i 43/06) i člana 4 stav 2 i člana 6 stav 1 Odluke o graĎevinskom zemljištu (»Službeni list RCG-opštinski propisi «, broj 18/03 i 28/06), Skupština opštine Nikšić na sjednici održanoj 3.11.2008.godine, donosi
+O D L U K U
+o raspisivanju oglasa o javnom nadmetanju za prenos prava na gradsko
+građevinsko zemljište radi kompletiranja urbanističke parcele u skladu sa DUP- om
