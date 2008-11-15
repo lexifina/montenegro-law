@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04, 75/05 i 13/06), čl. 49 i 50 Zakona o planiranju i ureĎenju prostora ("Službeni list RCG", broj 28/05), a u vezi sa članom 163 Zakona o ureĎenju prostora i izgradnji objekata ("Službeni list CG", broj 51/08) i člana 13 stav 1 tačka 1 alineja 6 i člana 40 Statuta opštine Nikšić ("Službeni list RCG - opštinski propisi", broj 20/04 i 43/06), Skupština opštine Nikšić na sjednici održanoj 3.11.2008.godine, d o n o s i
+O D L U K U
