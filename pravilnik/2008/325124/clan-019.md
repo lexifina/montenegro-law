@@ -1,0 +1,2 @@
+# Član 19
+Danom stupanja na snagu ovog pravilnika prestaju da važe Pravilnik o postupku i načinu izdavanja licenci ("Službeni list RCG", broj 9/02), Pravilnik o načinu i postupku izdavanja licenci za izradu planskih dokumenata ("Službeni list RCG", broj 21/06), i Pravilnik o obliku, sadržaju i načinu vođenja registra stručnih lica sa licencom za obavljanje poslova izrade planskih dokumenata i registra privrednih društava, odnosno drugih pravnih lica, sa licencom za obavljanje poslova izrade planskih dokumenata ("Službeni list RCG", broj 21/06).
