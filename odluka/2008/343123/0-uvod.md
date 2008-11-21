@@ -1,0 +1,2 @@
+Na osnovu člana 57. stav 1, tačka 5, a u vezi sa čl. 70. i 81. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06), člana 5. Odluke o organizaciji i načinu rada lokalne uprave ("Sl. list RCG-opštinski propisi", br. 11/06 i 22/07), čl. 65. i 68. Statuta Opštine Žabljak ("Sl. list RCG -opštinski propisi", br. 9/05 i 23/07), na predlog glavnog administratora, predsjednik Opštine donosi
+ODLUKU
