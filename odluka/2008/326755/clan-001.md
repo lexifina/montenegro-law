@@ -1,0 +1,3 @@
+# Član 1
+## o prenosu prava na gradskom građevinskom zemljištu Upravi policije - Centru bezbjednosti H.Novi-Odjeljenju bezbjednosti Tivat
+Upravi policije-Centru bezbjednosti Herceg Novi-Odjeljenju bezbjednosti Tivat prenosi se pravo na gradskom graĎevinskom zemljištu označenom kao dio kat.parcele 273 u površini od 942m2 i dio kat.parcele 272 u površini od 466m2(ukupno 1408m2) na kom zemljištu je u LN 133 i 215 K.O. Radovići Opština Tivat uknjižena kao nosilac stvarnih prava na 1/1 dijela bez tereta i ograničenja i koje je u DUP-u Radovići definisano kao najveći dio urbanističke parcele broj 316 .

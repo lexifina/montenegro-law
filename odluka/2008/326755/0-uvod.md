@@ -1,0 +1,2 @@
+Na osnovu čl. 9 i 12 Zakona o imovini("Sl.list RCG"br.44/99), člana 17 Zakona o prometu nepokretnosti("Sl.list SRCG", br. 27/75, 35/75, 7/91 i 48/91 i "Sl.list RCG", br. 2/92 i 69/03) , čl.45 st.1 tač.9 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 i 13/06) i člana 31 stav 1 tačka 9 i člana 35 Statuta Opštine Tivat ("Sl.list RCG-opštinski propisi"br.40/04 i 26/06) na sjednici Skupštine Opštine Tivat, održanoj dana 11.11. 2008. godine, donijeta je
+O D L U K A
