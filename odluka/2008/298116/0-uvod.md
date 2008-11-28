@@ -1,0 +1,2 @@
+Na osnovu člana. 45. stav 1. tačka 15. Zakona o lokalnoj samoupravi ( ‚‚ Sl. list RCG ‚‚ br. 42/03 , 28/04,75/05 i 13/06 ), člana 40. stav 2. Zakona o Budžetu ( ‚‚ Sl. list RCG ‚‚ br. 40/01) , člana 62.i 63 Zakona o finansiranju lokalne samouprave ( ‚‚ Sl. list RCG ‚‚ br. 42/03,44/03, " Sl. list CG " br. 05/08 , 51/08 i člana 31. Statuta opštine Tivat ( ‚‚ Sl. list RCG - opštinski propisi ‚‚ br.40/04 ), Skupština opštine Tivat , na sjednici održanoj dana 11.11. 2008. godine , donijela je
+O D L U K U
