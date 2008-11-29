@@ -1,0 +1,5 @@
+# Član 9
+Dozvola za pristup tajnim podacima fizičkom licu, stepena tajnosti "POVJERLJIVO", oivičena je plavom bojom širine 3 mm i na prednjoj strani sadrži: u gornjem lijevom uglu natpis "Crna Gora", ispod "Direkcija za zaštitu tajnih podataka", na sredini grb Crne Gore, u gornjem desnom uglu broj dozvole, a ispod toga naziv "DOZVOLA ZA PRISTUP TAJNIM PODACIMA STEPENA TAJNOSTI POVJERLJIVO", mjesto za ime, prezime i JMB lica kome se izdaje dozvola, mjesto za naziv organa, odnosno pravnog lica u kome je zaposleno lice kome se izdaje dozvola, podatke o datumu izdavanja i datumu važenja dozvole, mjesto pečata (MP) i mjesto za potpis direktora.
+Dozvola iz stava 1 ovog člana na poleđini sadrži tekst koji glasi:
+"Lice kome je izdata dozvola ima pristup tajnim podacima stepena tajnosti "POVJERLJIVO" radi izvršavanja svojih poslova po principu "potrebno je da zna" i upoznato je sa propisanim uslovima za postupanje sa tajnim podacima".
+Obrazac dozvole za pristup tajnim podacima stepena tajnosti "TAJNO" dat je na obrascu broj 6, koji je odštampan uz ovaj pravilnik i čini njegov sastavni dio.
