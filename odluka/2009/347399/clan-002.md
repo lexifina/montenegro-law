@@ -1,0 +1,2 @@
+# Član 2
+Zaposlenima u Službi zaštite navedenim u članu 1. ove odluke, uvećanje zarade opredjeliće se donošenjem pojedinačnih rješenja o rasporeĎivanju na radna mjesta, tako što će se odrediti koeficijent koji pripada zaposlenima u Službi zaštite u skladu sa Zakonom o zaradama državnih službenika i namještenima i opštinskom Odlukom o zaradama i drugim primanjima opštinskih službenika i namještenika, nakon čega će se odrediti istim rješenjem i procentualno uvećanje, kako je propisano članom 1. ove odluke.
