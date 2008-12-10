@@ -1,0 +1,3 @@
+# Član 10
+## Evidencija o prestanku razloga za odbijanje zahtjeva za izdavanje putne isprave
+Evidencija o prestanku razloga za odbijanje zahtjeva za izdavanje putne isprave sadrži: prezime i ime, jedinstveni matični broj, pol, zakonski osnov za odbijanje zahtjeva za izdavanje putne isprave, broj i datum rješenja o odbijanju zahtjeva za izdavanje putne isprave, datum uručenja rješenja, datum podnošenja žalbe na rješenje o odbijanju zahtjeva, datum i broj rješenja po žalbi, datum uručenja rješenja po žalbi, datum prestanka razloga za odbijanje zahtjeva za izdavanje ili oduzimanje putne isprave i organ koji je obavijestio o prestanku razloga za odbijanje zahtjeva za izdavanje putne isprave.

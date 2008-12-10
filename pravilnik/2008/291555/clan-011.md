@@ -1,0 +1,3 @@
+# Član 11
+## Evidencija o trajanju razloga za odbijanje zahtjeva i oduzimanju putnih isprava i organima koji su podnijeli zahtjev
+Evidencija o trajanju razloga za odbijanje zahtjeva i oduzimanju putnih isprava i organima koji su podnijeli zahtjev sadrži: prezime i ime lica za čiji zahtjev za izdavanje putne isprave postoje ralozi za odbijanje zahtjeva, jedinstveni matični broj, pol, organ koji je obavijestio o nastanku razloga za odbijanje zahtjeva za izdavanje putne isprave ili oduzimanju putne isprave, datum nastanka razloga za odbijanje zahtjeva za izdavanje ili oduzimanje putne isprave i trajanje razloga.

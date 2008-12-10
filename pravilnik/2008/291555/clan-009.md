@@ -1,0 +1,3 @@
+# Član 9
+## Evidencija o putnim ispravama koje su oglašene nevažećim
+Evidencija o putnim ispravama koje su oglašene nevažećim sadrži: vrstu putne isprave, prezime i ime imaoca putne isprave, jedinstveni matični broj, pol, datum podnošenja prijave o nestanku putne isprave, gubitku ili krađi putne isprave, organ koji je donio rješenje o oglašavanju putne isprave nevažećom, broj i datum donošenja rješenja, serijski broj putne isprave koja se oglašava nevažećom, datum prosljeđivanja podataka radi oglašavanja nevažećom putne isprave i broj "Službenog lista Crne Gore" u kojem je objavljen broj putne isprave koja je oglašena nevažećom, datum nalaska putne isprave i datum uništenja pronađene putne isprave.
