@@ -1,0 +1,3 @@
+# Član 8
+Službeno lice ovlašćeno za prijem zahtjeva nakon utvrđivanja identiteta podnosioca zahtjeva provjerava: podatke iz službenih evidencija i priložene dokumentacije, da li je zahtjev potpisan i da li su stavljena na uvid i priložena propisana dokumenta i dokazi i o podnijetom zahtjevu podnosiocu zahtjeva izdaje potvrdu.
+Ako se provjerom iz stava 1 ovog člana, ustanovi da je zahtjev nepotpun, odnosno da podnoslac zahtjeva nije priložio potrebna dokumenta i dokaze, zbog čega se po zahtjevu ne može postupati, službeno lice iz stava 1 ovog člana, će podnosiocu zahtjeva ukazati na nedostatke u zahtjevu, ostaviće mu rok od osam dana da ih otkloni i to evidentirati u potvrdi o podnijetom zahtjevu.

@@ -1,0 +1,2 @@
+# Član 7
+Ako podnosilac zahtjeva traži izdavanje pasoša po hitnom postupku, dužan je da uz zahjev priloži i uput zdravstvene ustanove registrovane u Crnoj Gori, za liječenje u drugoj državi ili poziv zdravstvene ustanove druge države za liječenje ili druga dokumenta u vezi sa liječenjem u drugoj državi, dokaz o bolesti ili smrti člana porodice u drugoj državi (izvještaj o smrti, telegram i druga obavještenja) i akt o neodložnom službenom putovanju.
