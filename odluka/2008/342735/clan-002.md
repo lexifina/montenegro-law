@@ -1,0 +1,81 @@
+# Član 2
+Poslije člana 16. dodaju se dva nova člana koji glase:
+Član 16a
+"Sekretarijat za uređenje prostora i stambene poslove:
+- priprema propise iz oblasti prostornog planiranja i ureĎenja prostora, graĎevinarstva i graĎevinskog zemljišta;
+- priprema izvještaj o stanju ureĎenja prostora u saradnji sa nadležnim organima lokalne uprave;
+- priprema program ureĎenja prostora u saradnji sa nadležnim organima lokalne uprave;
+- priprema i daje potrebne podatke za voĎenje jedinstvenog informacionog sistema o prostoru;
+- vrši pripremne poslove za izradu lokalnih planskih dokumenata;
+- sprovodi postupak izrade izvještaja o strateškoj procjeni uticaja na životnu sredinu planova i programa iz oblasti ureĎenja prostora i graĎevinskog zemljišta;
+- izdaje urbanističko-tehničke uslove za potrebe izrade tehničke dokumentacije za izgradnju i rekonstrukciju objekata iz nadležnosti jedinice lokalne samouprave;
+- izdaje izvode iz planskih dokumenata koji sadrže podatke o urbanističko- tehničkim uslovima;
+- sačinjava separat urbanističko-tehničkih uslova;
+- izdaje graĎevinske dozvole za izgradnju i rekonstrukciju (nadgradnja, dogradnja, prenamjena) stambenih i poslovnih zgrada;
+- izdaje graĎevinske dozvole za izgradnju i rekonstrukciju porodičnih stambenih zgrada;
+- izdaje rješenja o izmjeni investitora kod izdatih graĎevinskih dozvola;
+- izdaje graĎevinske dozvole za rekonstrukciju objekata u postojećim gabaritima do privoĎenja lokacije namjeni;
+- izdaje rješenje o uklanjanju objekata na zahtjev vlasnika;
+- izdaje graĎevinske dozvole i upotrebne dozvole za objekte komunalne infrastrukture (gradske saobraćajnice, vodovod, kanalizacija, telefonske, elektro i druge instalacije, parkirališta, javne česme, fontane i sl.);
+- izdaje graĎevinske dozvole i upotrebne dozvole za izgradnju ili postavljanje spomenika, spomen obilježja, skulptura i sl.
+- izdaje urbanističko-tehničke uslove, graĎevinske dozvole i upotrebne dozvole za pomoćne objekte - barake, garaže, ostave, septičke jame, bunare, ograde i sl.;
+- izdaje urbanističko-tehničke uslove, odobrenja za postavljanje i odobrenja za upotrebu montažnih objekata privremenog karaktera (kiosci za prodaju različitih vrsta roba i pružanje usluga, ljetnje bašte, pokretne tezge, manji sportski i parking objekti i slično, reklamni panoi, reklamni plakati i slično, ljetnje terase i tende (otvorene i zatvorene) ispred ugostiteljskih objekata, montažne tende (otvorene i zatvorene) i vitrine za izlaganje robe van poslovnog prostora, pokretni stolovi, frižideri za sladoled, zabavni parkovi;
+- organizuje tehnički pregled izgraĎenih i rekonstruisanih poslovnih i stambenih zgrada;
+- izdaje upotrebnu dozvolu za izgraĎene i rekonstruisane poslovne i stambene zgrade;
+- sprovodi tehnički pregled i izdaje upotrebne dozvole za izgraĎene i rekonstruisane porodične stambene zgrade;
+- vodi evidenciju - arhivu izdatih graĎevinskih i upotrebnih dozvola za izgraĎene ili rekonstruisane poslovne i stambene zgrade;
+- vodi evidenciju - arhivu izdatih graĎevinskih i upotrebnih dozvola za izgraĎene ili rekonstruisane porodične stambene zgrade;
+- sprovodi upravni postupak za pretvaranje posebnih i zajedničkih djelova stambene zgrade u poslovni prostor;
+- ureĎuje odnose i vodi postupak u oblasti stanovanja i održavanja stambenih zgrada i stanova;
+- obavlja poslove koji se odnose na održavanje spoljašnjeg izgleda stambene zgrade i kućnog reda, u cilju ostvarivanja javnog interesa u vezi hitnih radova na stambenoj zgradi u skladu sa zakonom;
+- rješava u slučaju useljenja u zajedničke ili posebne djelove stambene zgrade bez pravnog osnova;
+- sprovodi postupak izvršenja i izvršnih rješenja organa lokalne uprave;
+- vrši ovjeru ugovora o zakupu stana izmeĎu zakupodavca i zakupca;
+- vodi registar upravnika stambenih zgrada;
+- vodi registar pravila o meĎusobnim odnosima etažnih vlasnika i po potrebi obavlja poslove za imenovanje privremenog upravnika ako etažni vlasnici ne obrazuju organe upravljanja u skladu sa zakonom;
+- učestvuje u pripremi i priprema normativna akta iz stambene oblasti;
+- obavlja i druge poslove u skladu sa zakonom.
+Član 16b
+Sekretarijat za komunalne poslove, saobraćaj i vode:
+- vrši poslove uprave koji se odnose na ureĎivanje odnosa i obezbjeĎenje razvoja obavljanja komunalne djelatnosti (snabdijevanje vodom za piće, odvoĎenje otpadnih i atmosferskih voda, održavanje javne čistoće, javne rasvjete, ureĎivanje i održavanje parkova i drugih javnih površina, održavanje i ureĎivanje groblja);
+- prati realizaciju investicionih programa u ovoj oblasti koje finansira Opština;
+- učestvuje u izradi Nacrta plana upravljanja otpadom;
+- izdaje dozvole za sakupljanje, odnosno transport otpada;
+- izdaje dozvole za obradu, odnosno odlaganje otpada;
+- daje saglasnost na plan upravljanja neopasnim otpadom proizvoĎača otpada;
+- daje i druga mišljenja, odnosno saglasnosti u skladu sa zakonom;
+- vodi registar o proizvodnji otpada i upravljanju otpadom, izdatim dozvolama i priprema zbirni izvještaj, koji dostavlja nadležnom organu državne uprave;
+- utvrĎuje i propisuje mjere zaštite, održavanje i rekonstrukcije lokalnih i nekategorisanih puteva i ulica u naseljima i mjere za razvoj saobraćajne infrastrukture, predlaže mjerila za kategorizaciju opštinskih puteva, odnosno za odreĎivanje nekategorisanih puteva i načinu njihovog finansiranja, održavanja, izgradnja, rekonstrukcije i korišćenja, obavlja i druge poslove iz nadležnosti jedinice lokalne samouprave u skladu sa zakonom o putevima i drugim propisima;
+- vrši poslove koji se odnose na tehničku regulaciju saobraćaja, predlaže projekat regulacije saobraćaja i prati realizaciju postavljanja i obilježavanja saobraćajne signalizacije u skladu sa projektom vertikalne i horizontalne signalizacije;
+- učestvuje u pripremi i izradi godišnjih programa i održavanja saobraćajne infrastrukture;
+- donosi plan linija u gradskom i prigradskom linijskom prevozu;
+- na osnovu sprovedenog postupka odlučuje rješenjem da li pravna ili fizička lica ispunjavaju uslove za izdavanje licenci i izvoda licenci;
+- izdaje licence i izvode licenci;
+- vodi evidenciju licenci i izvoda licenci;
+- donosi rješenje o ukidanju licence i o ukidanju licence obavještava komunalnu policiju;
+- sprovodi konkurs za izbor prevoznika za obavljanje javnog prevoza putnika u gradskom i prigradskom saobraćaju; povjerava obavljanje prevoza po sprovedenom konkursu; ukida rješenje kojim povjerava obavljanje prevoza u propisanim slučajevima;
+- utvrĎuje i ovjerava red vožnje po pojedinim linijama;
+- odreĎuje autobuska i taksi stajališta;
+- odreĎuje parking prostore i parkirališta;
+- donosi rješenje kojim odobrava obavljanje prevoza za sopstvene potrebe; vodi evidenciju prevoza za sopstvene potrebe;
+- izdaje saobraćajne saglasnosti (saglasnost na poseban linijski prevoz; saglasnost na izmjenu reda vožnje i dr.);
+- vodi evidenciju izdatih saglasnosti;
+- prati realizaciju investicionih programa koje finansira jedinica lokalne samouprave u oblasti saobraćaja;
+- prati i analizira stanje u oblasti puteva i drumskog saobraćaja;
+- sprovodi upravni postupak po zahtjevu za izdavanje vodnih uslova, vodne saglasnosti, vodne dozvole, potvrde o ispunjenosti uslova utvrĎenih vodnom saglasnošću i vodnog naloga iz svoje nadležnosti;
+- u zakonom predviĎenim slučajevima privremeno ograničava ili obustavlja vodno pravo;
+- odreĎuje granice vodnog dobra od lokalnog značaja i daje predloge za upis u katastar nepokretnosti;
+- odreĎuje status, odnosno prestanak statusa javnog vodnog dobra od lokalnog značaja i predlaže njegov upis, odnosno brisanje u katastru nepokretnosti;
+- odreĎuje područja na kojima je opšta upotreba javnog vodnog dobra od lokalnog značaja zabranjena ili uslove ograničenja, kao i način njegovog korišćenja na tom području;
+- odreĎuje obim i vrstu istražnih radova za izvorišta površinskih i podzemnih voda iz svoje nadležnosti;
+- donosi rješenje o zaštiti izvorišta površinskih i podzemnih voda iz svoje nadležnosti;
+- utvrĎuje poplavna područja za vode od lokalnog značaja;
+- priprema program sanacije od posledica štetnog dejstva i isti izvršava;
+- vodi registar voda;
+- vodi vodnu knjigu;
+- stara se o izgradnji, rekonstrukciji, održavanju i zaštiti vodnih objekata i objekata za upotrebu i korišćenje voda koje finansira jedinica lokalne samouprave u skladu sa zakonom i drugim propisima;
+- izdaje odobrenja za eksploataciju mineralnih sirovina u svrhu dobijanja graĎevinskog materijala za sopstvene potrebe, eksploataciju mineralnih sirovina koje se koriste za izgradnju i održavanje lokalnih infrastrukturnih objekata i vrši nadzor u skladu sa zakonom;
+- utvrĎuje visinu naknade za eksploatisane mineralne sirovine koje se koriste kao graĎevinski materijal za sopstvene potrebe i za izgradnju i održavanje lokalnih infrastrukturnih objekata;
+- priprema propise iz komunalne oblasti, saobraćaja i voda;
+- vrši upravni nadzor nad radom javnih preduzeća čiji je osnivač Opština iz komunalnih djelatnosti;
+- obavlja i druge poslove u skladu sa zakonskim propisima."
