@@ -1,0 +1,7 @@
+Na osnovu člana 82 tačka 8 Ustava Crne Gore i člana 4 stav 1 Zakona o upotrebi jedinica Vojske Crne Gore u međunarodnim snagama i učešću pripadnika civilne zaštite, policije i zaposlenih u organima državne uprave u mirovnim misijama i drugim aktivnostima u inostranstvu ("Službeni list CG", br. 61/08), Skupština Crne Gore 23. saziva, na sedmoj sjednici drugog redovnog zasijedanja u 2008. godini, dana 17. decembra 2008. godine, donijela je
+O D L U K U O UPOTREBI JEDINICE - MEDICINSKOG TIMA VOJSKE CRNE GORE U MIROVNOJ MISIJI UJEDINJENIH NACIJA "INTERNATIONAL SECURITY ASSISTANCE FORCE (ISAF)" U AVGANISTANU
+1. Upućuje se u mirovnu misiju Ujedinjenih nacija "INTERNATIONAL SECURITY ASSISTANCE FORCE (ISAF)" u Avganistanu, jedinica - medicinski tim (u daljem tekstu: medicinski tim) Vojske Crne Gore, koji čine: jedan ljekar i dva medicinska tehničara.
+2. Medicinski tim iz tačke 1 ove odluke vršiće dužnost u vojnoj bolnici u Kabulu.
+3. Ministarstvo odbrane odrediće sastav medicinskog tima, vrijeme angažovanja, rotacije - smjene, izvršiti pripremu, obuku i opremanje, kao i pratiti i koordinirati njegovo angažovanje u mirovnoj misiji iz tačke 1 ove odluke, u skladu sa zakonom.
+4. Sredstva za finansiranje medicinskog tima iz tačke 1 ove odluke obezbijediće se iz tekuće Budžetske rezerve za 2009. godinu, a za naredne godine u Budžetu Crne Gore.
+5. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
