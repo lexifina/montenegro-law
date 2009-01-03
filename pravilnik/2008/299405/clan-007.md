@@ -1,0 +1,2 @@
+# Član 7
+Ako vršilac revizije idejnog i glavnog projekta, utvrdi da je neophodna provjera tačnosti numeričkih ili grafičkih rezultata pojedinih djelova idejnog i glavnog projekta, ili kompletnog idejnog i glavnog projekta, koja je od uticaja na kontrolu elemenata iz čl. 4 i 5 ovog pravilnika, predložiće investitoru i vodećem projektantu idejnog i glavnog projekta da obezbijede dopunske dokaze o ispravnosti i tačnosti idejnog i glavnog projekta ili će, na zahtjev investitora, sam da izvrši potrebne numeričke i grafičke kontrole idejnog i glavnog projekta.
