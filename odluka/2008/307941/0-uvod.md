@@ -1,0 +1,2 @@
+Na osnovu člana 9. Zakona o imovini Republike Crne Gore ("Sl. list RCG" br. 44/99), člana 22 Zakona o prometu nepokretnosti (Sl. list RCG br. 27/75, 35/75, 7/91, 48/91 i 2/92), člana 45 Zakona o lokalnoj samoupravi (Sl. list RCG" br. 42/03, 28/04, 75/05 i 13/06) i člana 31. i 35. Statuta opštine Kolašin ("Sl. list RCG-opštinski propisi" br.25/04, 31/04 i 34/06), Skupština opštine Kolašin, na sjednici održanoj dana 15.12.2008. godine donijela je:
+O D L U K U
