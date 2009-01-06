@@ -1,0 +1,2 @@
+# Član 9
+Organ lokalne uprave nadležan za uređenje prostora, nakon pregleda tehničke dokumentacije idejnog rješenja, idejnog projekta i glavnog projekta, izdaje građevinsku dozvolu, ako je tehnička dokumentacija uređena u skladu sa Zakonom o o uređenju prostora i izgradnji objekata tj. izvršena revizija koja obuhvata: provjeru usklađenosti projekta sa urbanističko - tehničkim uslovima, izuzetak su zgrade za individualno stanovanje za koje se revizija ne radi.

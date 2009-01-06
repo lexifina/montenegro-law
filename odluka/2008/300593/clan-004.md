@@ -1,0 +1,3 @@
+# Član 4
+Objektima u smislu ove odluke smatraju se: objekti svih vrsta, saobraćajnih, vodoprivrednih i energetski objekti, unutrašnja i spoljna mreža i instalacije, objekti komunalne infrastrukture, industrijski, poljoprivredni i drugi privredni objekti, javne zelene površine, objekti sporta i rekreacije, groblja, skloništa i dr.
+Izgradnja pomoćnih privremenih objekata koji služe korišćenju stambenog i drugog objekta, a gradi se na istoj urbanističkoj parceli (garaže, barake, ostave, septičke jame, bunari, ograde i sl.) definisan je Odlukom o privremenim objektima. Porodičnim stambenim objektima smatraju se objekti površine do 500m2 i sa najviše 4 (četiri) stambene jedinice.

@@ -1,0 +1,2 @@
+# Član 28
+Investitor je dužan da po završetku gradnje objekta, a prije početka njegovog korišćenja, podnese zahtjev za izdavanje upotrebne dozvole po završetku svih radova.Uz zahtjev za izdavanje upotrebne dozvole investitor je dužan podnijeti projekat izvedenog objekta, dokaz od strane lica koje je vršilo nadzor da su radovi na objektu izvedeni prema propisima, normativima i standardima, kao i ostalu dokumentaciju propisanu Zakonom o uređenju prostora i izgradnji objekata.
