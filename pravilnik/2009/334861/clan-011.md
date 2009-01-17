@@ -1,0 +1,3 @@
+# Član 11
+Ukoliko se za elektro-energetsko napajanje radio-predajnika koriste obnovljivi izvori energije (solarni izvori, vjetrogeneratori, hidrogenske gorivne ćelije, generatori na prirodni gas i dr.), iznos godišnje naknade za korišćenje radio-frekvencija, množi se koeficijentom 0,75, osim kod predajnika za emitovanje radio-difuznih signala, gdje se iznos godišnje naknade množi koeficijentom 0,5.
+U slučaju elektronskih komunikacionih mreža iz člana 4 st. 4, 5, 6 i 7 ovog pravilnika, smanjenje naknade po osnovu upotrebe obnovljivih izvora, obračunava se proporcionalno broju baznih/repetitorskih stanica, koje se napajaju iz tih izvora.
