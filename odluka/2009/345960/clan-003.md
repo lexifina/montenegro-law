@@ -1,0 +1,3 @@
+# Član 3
+Zemljište iz člana 1. ove Odluke ustupa se u dugoročni zakup najduže u trajanju do 15 godina, radi postavljanja antenskog stuba i opreme u vlasništvu RDC-a, opreme GSM operatora, radio i TV emitera, kao i pravo na nesmetano korišćenje prilaznog puta ( dijela kat.par. 2 K.O. Muo II, u površini od 104 m2) ka tim objektima u svrhu postavljanja i održavanja istih.
+Kat.parc. navedene u članu 1. ove Odluke daju se u zakup Radio difuznom centru DOO Podgorica, kao i pravo korišćenja prilaznog puta iz stava 1. ovog člana samo dok postoji javni interes, a ukoliko doĎe do promjene u vlasničkoj strukturi ili djelatnosti RDC-a, ova Odluka prestaje da važi i ugovor o zakupu se raskida.
