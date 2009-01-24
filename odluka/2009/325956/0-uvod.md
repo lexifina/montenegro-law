@@ -1,0 +1,2 @@
+104. Na osnovu člana 14., člana 15. stav 2. i člana 16., a u vezi sa članom 105. Zakona o izboru odbornika i poslanika ("Sl. list RCG" br. 4/98, 5/98, 17/98, 14/00, 18/00,9/01,41/02, 46/02, 45/04, 48/06 i 56/06) i člana 39. stav 1. tačka 2. Statuta Opštine Budva ("Sl.list Opštine Budva", br. 4/05), Skupština Opštine Budva, na sjednici održanoj dana 23. januara 2009. godine, donijela je
+O D L U K U
