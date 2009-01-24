@@ -1,0 +1,2 @@
+105. Na osnovu člana 44. stav 2. Zakona o lokalnoj samoupravi (''Službeni list RCG'', br. 42/03, 28/04, 75/05 i 13/06), člana 3. st. 1. i 2. Zakona o izboru odbornika i poslanika (''Službeni list RCG'', br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06 i 56/06) i člana 39. stav 1. tačka 45. Statuta Opštine Budva (''Službeni list Opštine Budva'', br. 4/05), Skupština Opštine Budva, na sjednici održanoj dana 23. januara 2009.godine, donijela je
+O D L U K U
