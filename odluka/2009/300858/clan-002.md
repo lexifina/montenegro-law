@@ -1,0 +1,2 @@
+# Član 2
+Izmjenama i dopunama DUP-a "IGALO-kat. parcela 469" ne mijenja se namjena prostora, već se za namjenu mješovitih centara koja je data Izmjenama GUP-a opštine Herceg Novi u zoni Šištet Bare daju urbanistički parametri i regulacija za izgradnju uz uslov unapreĎenja ambijenta, izgradnje u skladu sa uslovima prirode i graditeljskog nasljeĎa, čime se ne stvaraju rizici po zdravlje ljudi i životnu sredinu i ne utiče na druge planove i programe u okruženju.
