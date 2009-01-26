@@ -1,0 +1,2 @@
+# Član 2
+Izmjenama i dopunama DUP-a "IGALO-kat. parcela 708/5" ne mijenja se namjena prostora, već se za postojeću namjenu kolektivnog stanovanja daju urbanistički parametri i regulacija za izgradnju novog objekta kolektivnog stanovanja na mjestu postojećeg kojim će se obezbjediti bolji uslovi stanovanja, kvalitetetnije i funkcionalnije ureĎenje prostora. Novom organizacijom i korišćenjem prostora ne stvaraju se rizici po zdravlje ljudi i životnu sredinu i ne utiče na druge planove i programe u okruženju.
