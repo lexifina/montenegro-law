@@ -1,0 +1,2 @@
+# Član 2
+1. Komunalna policija vrši poslove koji se odnose na komunalni red u oblasti parkiranja, deponovanja otpada, snabdijevanja vodom, odvoĎenja otpadnih i atmosferskih voda, javne čistoće, javne rasvjete, održavanja, lokalnih puteva, buke, radnog vremena, prevoza putnika u gradskom i prigradskom saobraćaju, auto taksi prevoza, pružanje informativnih usluga graĎanima i vršenje drugih poslova iz nadležnosti opštine propisanih zakonom i odlukom Skupštine.
