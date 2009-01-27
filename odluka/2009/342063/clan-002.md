@@ -1,0 +1,2 @@
+# Član 2
+Pravo korišćenja iz člana 1. ove odluke prenosi se radi izgradnje pratećih sadržaja u smislu BOT Sporazuma o izgradnji, funkcionisanju i transferu puta Meljine - Petijevići od 10.01.2007.g.koji je ovjeren kod Osnovnog suda u Herceg Novom pod Posl.br.Ov.11-8/2007.g. i Aneksa broj1 ovog BOT Sporazuma od 5.03.2008.g. koji je ovjeren kod Osnovnog suda u Herceg Novom Posl.br.Ov-1-2182/2008.
