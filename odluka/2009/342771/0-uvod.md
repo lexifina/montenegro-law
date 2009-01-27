@@ -1,0 +1,3 @@
+Na osnovu čl. 9., 10 i 12. Zakona o imovini Republike Crne Gore ("Sl.list RCG",br. 44/99) člana 45. stav 1. tačka 9. Zakona o lokalnoj samoupravi ("Sl.list RCG",br. 42/03) i člana 3. Uredbe o načinu i postupku sprovoĎenja javnog nadmetanja, odnosno prikupljanja ponuda u postupku prenosa prava na gradskom graĎevinskom zemljištu ("Sl.list RCG",br. 38/03) i člana 29. stav 2. Statuta opštine Herceg Novi ("Sl.list RCG- opštinski propisi", br. 15/04,31/06 i 14/07) Skupština opštine Herceg Novi na sjednici održanoj dana 29.12.2008.godine, donosi
+O D L U K U
+o raspisivanju Javnog poziva na javno nadmetanje za prenos prava svojine na gradskom
