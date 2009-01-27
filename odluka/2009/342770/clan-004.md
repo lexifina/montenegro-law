@@ -1,0 +1,2 @@
+# Član 4
+Planom se predviĎa izgradnja poslovnog objekta-benzinske pumpe sa pratećim sadržajima (trgovina, ugostiteljstvo i administracija), izgradnja tankova za benzin, naftu i plin, parking prostora sa 5 parking mjesta, izgradnju saobraćajne trake za povezivanje prostora benzinske pumpe sa magistralnom saobraćajnicom, pješačkih komunikacija i ozelenjavanje slobodnih površina, formiranje drvoreda duž Jadranskog puta, izgradnja objekata i vodova tehničke infrastrukture.
