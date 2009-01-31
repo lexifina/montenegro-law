@@ -1,0 +1,3 @@
+# Član 3
+Elaborat Plana sačinjen je u analognoj i digitalnoj formi, a sadrži tekstualni i grafički dio.
+Tekstualni dio čini: 1. Uvodni dio; 2. Postojeće stanje; 3. Stečene urbanističke obaveze; 4. Plansko rješenje; 5. Uslovi za ureĎenje prostora; 6. Saobraćaj; 7. Infrastruktura; 8. Zelenilo. Grafički dio čini: 01. Geodetska podloga sa granicom zahvata Plana (R 1:1000); 02. Izvod iz PPO-a Kotora - Plan namjene površina (R 1:25000); 03. Plan namjene površina i objekata (R 1:1000); 04. Plan regulacije, nivelacije i parcelacije (R 1:1000); 05. Plan saobraćaja (R 1:1000); 06. Plan hidrotehničke infrastrukture (R 1:1000); 07. Plan elektroenergetike (R 1:1000); 08. Plan telekomunikacije (R 1:1000) 09. Plan pejzažnog ureĎenja (R 1:1000); 10.Kompozicioni plan (R 1:1000).
