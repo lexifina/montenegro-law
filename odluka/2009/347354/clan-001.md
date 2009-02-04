@@ -1,0 +1,3 @@
+# Član 1
+## o stavljanju van snage Odluke o pristupanju izradi Izmjena i dopuna Detaljnog urbanističkog plana Radanovići
+Ovom Odlukom stavljaju se van snage Odluka o pristupanju izradi Izmjena i dopuna Detaljnog urbanističkog plana Radanovići, broj 01-4661, od 08.11.2005.godine ("Sl. list RCG - opštinski propisi", broj 35/05), Odluka o izmjeni i dopuni Odluke o izradi izmjena i dopuna DUP-a Radanovići, broj 01-6195 od 01.09.2006.godine ("Sl. list RCG - opštinski propisi", broj 37/06) i Odluka o dopuni Odluke o izradi izmjena i dopuna DUP-a Radanovići, broj 01-6993 od 25.09.2006.godine ("Sl. list RCG - opštinski propisi", broj 41/06).
