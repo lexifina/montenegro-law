@@ -1,0 +1,2 @@
+# Član 9
+Ukoliko nadzorni inženjer tokom vršenja stručnog nadzora utvrdi da izvođač radova odstupa od projektovanih detalja, predviđenih kvaliteta materijala, koji se ugrađuju ili u pogledu drugih elemenata koji bi uticali na kvalitet radova ili na produženje rokova izgradnje, odnosno rekonstrukcije objekta, upisom u građevinski dnevnik nalaže izvođaču radova otklanjanje nepravilnosti i obavještava investitora.

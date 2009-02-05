@@ -1,0 +1,3 @@
+# Član 10
+Ukoliko nadzorni inženjer utvrdi da se pri izvođenju radova odstupa od tehničke dokumentacije i kada konkretna odstupanja mogu da budu od uticaja na nosivost, upotrebljivost, trajnost, cijenu i ostvarivanje projektantskog koncepta objekta, ili mogu da dovedu do materijalne štete i ljudskih žrtava, tj. kada utvrdi nepravilnosti čije otklanjanje ne trpi odlaganje, upisom u građevinski dnevnik nalaže obustavljanje radova i izvođaču radova nalaže preduzimanje mjera neophodnih za sprječavanje i otklanjanje štetnih posledica.
+O radnjama iz stava 1 ovog člana nadzorni inženjer obavještava nadležni inspekcijski organ i investitora.
