@@ -1,0 +1,5 @@
+# Član 48
+## Otkrića
+(1) Svako otkriće na lokaciji na kojoj se vrši koncesiona aktivnost koje ima istorijsku, kulturnu ili prirodnu vrijednost smatra se državnom imovinom i koncesionar je dužan da o tom otkriću, bez odlaganja, obavijesti državni organ nadležan za poslove zaštite istorijskih, kulturnih i prirodnih vrijednosti. Ako koncesiona aktivnost može da ugrozi otkrivene predmete koji imaju istorijsku, kulturnu ili prirodnu vrijednost, koncesionar je dužan da odmah prekine ili ograniči koncesionu aktivnost i o tome, bez odlaganja, obavijesti organ nadležan za poslove zaštite istorijskih, kulturnih i prirodnih vrijednosti.
+(2) Nadležni državni organ iz stava 1 ovog člana dužan je da odmah, a najkasnije u roku od deset dana od dana dobijanja obavještenja, da instrukcije koncesionaru o postupanju sa otkrićem iz stava 1 ovog člana, odnosno o potrebi prekidanja ili ograničavanja vršenja koncesione djelatnosti na lokaciji na kojoj su pronađeni predmeti iz stava 1 ovog člana.
+(3) Za period prekida koncesionih aktivnosti rokovi utvrđeni u ugovoru o koncesiji ne teku.
