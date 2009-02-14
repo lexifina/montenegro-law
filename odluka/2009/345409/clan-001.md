@@ -1,0 +1,3 @@
+# Član 1
+## rukovodeća lica, lokalni službenici i namještenici lokalne uprave
+Ovom odlukom utvrĎuje se način obračuna visine mjesečnih zakupa stanova u vlasništvu Opštine Kotor (u daljem tekstu: stan) koje nakon sprovedenog postupka dodjele u zakup, u skladu sa odredbama Odluke o uslovima i načinu rješavanja stambenih potreba lokalnih funkcionera i rukovodećih lica lokalne uprave i Pravilnika o uslovima i načinu rješavanja stambenih potreba lokalnih službenika i namještenika lokalne uprave, koriste lokalni funkcioneri, rukovodeća lica, službenici i namještenici lokalne uprave (u daljem tekstu: zakupac) kao i način plaćanja mjesečnog zakupa.

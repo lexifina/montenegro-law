@@ -1,0 +1,3 @@
+180. Na osnovu člana 22. stav 3. Odluke o uslovima i načinu rješavanja stambenih potreba lokalnih funkcionera i rukovodećih lica lokalne uprave ("Sl.list Opštine Kotor" br. 7/06 i "Sl.list CG-opštinski propisi" br. 10/08), u vezi sa članom 22. stav 3. Pravilnika o uslovima i načinu rješavanja stambenih potreba lokalnih službenika i namještenika lokalne uprave ("Sl.list Opštine Kotor" br. 7/06 i 8/07) i na osnovu člana 53. Statuta Opštine Kotor ("Sl.list Opštine Kotor" br. 3/04 i "Sl.list CG-Opštinski propisi" br. 17/08), Predsjednik Opštine Kotor donosi
+O D L U K U
+o načinu utvrđivanja visine zakupa stanova u vlasništvu Opštine Kotor koje po osnovu dodjele u zakup koriste lokalni funkcioneri,
