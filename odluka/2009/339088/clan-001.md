@@ -1,0 +1,3 @@
+# Član 1
+Ovom odlukom osniva se Agencija za investicije i izgradnju Berana ureĎuje djelokrug, organizacija, način rada, način finansiranja, nadzorna ovlašćenja organa lokalne samouprave i druga pitanja od interesa za ostvarivanje njene funkcije ( u daljem tekstu: Agencija).
+Agencija se osniva za obavljanje poslova ureĎenja, unapreĎenja, zaštite i racionalnog korišćenja graĎevinskog zemljišta, održavanje i izgradnju nekategorisanih i lokalnih puteva i ulica, izgradnju javne rasvjete, rekonstrukciju održavanje i korišćenje poslovnih prostora, realizaciju investicija od interesa za Opštinu i obavljanje drugih poslova u skladu sa ovom odlukom i drugim aktima.
