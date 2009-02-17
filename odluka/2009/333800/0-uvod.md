@@ -1,0 +1,2 @@
+Na osnovu člana 18 Uredbe o Vladi Crne Gore ("Službeni list CG", broj 80/08) i člana 18e Uredbe o načinu i uslovima za dodjelu koncesija za vršenje geoloških istraživanja i eksploataciju mineralnih sirovina ("Službeni list RCG", br. 15/04 i 54/05), Vlada Crne Gore, na sjednici od 22. januara 2009. godine, donijela je
+ODLUKU O PRODUŽENJU PRAVA NA EKSPLOATACIJU ARHITEKTONSKO-GRAĐEVINSKOG (UKRASNOG) KAMENA NA LEŽIŠTU "MALJAT", OPŠTINA DANILOVGRAD
