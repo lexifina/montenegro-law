@@ -1,0 +1,4 @@
+# Član 24
+Zadnja unutrašnja strana korice obrasca putne isprave sadrži tekst: »Ova isprava je izdata da bi se nosiocu dao putni dokument koji može služiti kao zamjena za nacionalnu putnu ispravu. Ona ne prejudicira i ne utiče na državljanstvo nosioca isprave. Nosilac ima pravo da se vrati u Crnu Goru u roku važenja isprave. U slučaju nastanjenja u nekoj drugoj zemlji, a za potrebe putovanja, nosilac isprave podnosi zahtjev za izdavanje nove isprave nadležnom organu u zemlji novog boravišta» i tekst: «Ova putna isprava je vlasništvo Crne Gore. Ona sadrži 34 strane».
+U zadnjem planu unutrašnje strane korice nalazi se ornament sa Grbom Crne Gore i stilizovana teritorija Crne Gore.
+U donjem dijelu je zaštitni štampani motiv - dio sa ćemera, ispod kojeg je laserski utisnut serijski broj putne isprave (Obrazac broj 14).
