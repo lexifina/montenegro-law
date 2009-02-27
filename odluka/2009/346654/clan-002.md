@@ -1,0 +1,2 @@
+# Član 2
+Nagrada se dodjeljuje za ostvarene rezultate i dati doprinos iz oblasti: naučno istraživačkog rada, unapreĎenja i organizacije proizvodnje, turizma, trgovine i usluga, za umjetnička djela, za stručne i publicističke radove, kulturno prosvjetne i umjetničke aktivnosti, za fizičku kulturu i sport, za značajne rezultate koji doprinose unapreĎenju rada državnih organa i organa lokalne uprave i službi, kao i za druga stvaralaštva i doprinos od posebnog značaja za opštinu Pljevlja i njen razvoj.
