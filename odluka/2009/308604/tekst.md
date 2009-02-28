@@ -1,0 +1,5 @@
+Na osnovu člana 32 stav 1 tačka 4 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 17/98, 14/00, 9/01, 41/02, 46/02, 45/04, 48/06 i 56/06), Državna izborna komisija, na sjednici održanoj 25. februara 2009. godine, donijela je
+ODLUKU O IZMJENI PRAVILA O JEDINSTVENIM STANDARDIMA ZA IZBORNI MATERIJAL
+1. U Pravilima o jedinstvenim standardima za izborni materijal ("Sl. list RCG", br. 50/06) u tački 1 podtačka 1) stav 5 mijenja se i glasi: "Glasačke kutije koje su korišćene za glasanje na Referendumu o državno-pravnom statusu Crne Gore i na izborima za Predsjednika Crne Gore održanim 6. aprila 2008. godine, mogu se koristiti i na izborima koji će se održati 29. marta 2009. godine".
+U tački 1 podtačka 6) stav 1 mijenja se i glasi: "Na izborima koji će se održati 29. marta 2009. godine koristiće se paravani (oblika i dimenzija) koji su se koristili za glasanje na izborima za Predsjednika Crne Gore održanim 6. aprila 2008. godine".
+2. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom listu Crne Gore".
