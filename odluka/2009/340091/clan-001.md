@@ -1,0 +1,2 @@
+# Član 1
+Prijestonica Cetinje preuzima obavezu da kroz socijalni plan i program stambeno obezbijedi 7 (sedam) porodica koje žive u graĎevinskom objektu, koji se nalazi na gradskom graĎevinskom zemljištu, tj. na: - kat.parcela br.2063/2 iz lista nepokretnosti br. 404 za KO. Cetinje I, - kat.parcela br.2064/2 iz lista nepokretnosti br.2353 za KO. Cetinje I i - kat.parcela br. 2057 iz lista nepokretnosti br.2437 za KO. Cetinje I.
