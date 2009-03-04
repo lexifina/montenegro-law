@@ -1,0 +1,3 @@
+# Član 1
+Ovim pravilnikom propisuju se bliži uslovi i način ispunjavanja posebnih higijenskih zahtjeva za hranu životinjskog porijekla koje subjekat u poslovanju hranom (u daljem tekstu: subjekat poslovanja) treba da primjenjuje u svim fazama proizvodnje zaključno sa transportom i distribucijom radi dalje prodaje ili prerade, u skladu sa propisanim opštim higijenskim zahtjevima; zahtjevima za životinjsko i javno zdravlje; zahtjevima za dobrobit životinja; zahtjevima za identifikaciju životinja; zahtjevima sledljivosti i zahtjevima za upravljanje otpacima životinjskog porijekla.
+Ovaj pravilnik primjenjuju se na neprerađene i prerađene proizvode životinjskog porijekla koje sadrži i kombinovana hrana.

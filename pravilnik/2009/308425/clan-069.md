@@ -1,0 +1,9 @@
+# Član 69
+## Higijenski zahtjevi
+Djelovi broda, bazeni ili rezevoari koji se upotrebljavaju za skladištenje proizvoda ribarstva moraju biti čisti i održavani u dobrom i funkcionalnom stanju za vrijeme upotrebe.
+Proizvodi ribarstva moraju se nakon dopremanja na brod, bez odlaganja, zaštiti od kontaminacije, sunca i drugih izvora toplote. Za ispiranje proizvoda ribarstva može se koristiti samo voda za piće ili kada je to primjereno, čista voda.
+Proizvodima ribarstva mora se rukovati i moraju se skladištiti na način kojim se sprječava njihovo oštećenje. Lica koja rukuju proizvodima ribarstva mogu da koriste šiljasti pribor za manipulaciju sa velikim ribama ili ribama koje bi ih mogle povrijediti, pod uslovom da se ne ošteti meso proizvoda.
+Proizvodi ribarstva, osim onih koji se čuvaju živi, moraju se rashladiti u što kraćem roku nakon ulova odnosno utovara. Ako hlađenje nije moguće, proizvodi ribarstva se moraju iskrcati na kopno što je moguće prije.
+Led koji se koristi za hlađenje proizvoda ribarstva mora biti napravljen od vode za piće ili od čiste vode.
+Ako se na brodu ribama odstranjuje glava i/ili se vrši vađenje unutrašnjih organa, ti postupci se moraju obaviti na higijenski način u što kraćem roku nakon ulova i proizvodi se moraju odmah temeljno isprati vodom za piće ili čistom vodom. Odstranjene glave i izvađeni unutrašnji organi i djelovi koji mogu predstavljati opasnost po javno zdravlje moraju se bez odlaganja ukloniti i držati odvojeno od proizvoda namenjenih ishrani ljudi. Jetra i ikra namijenjena ishrani ljudi mora da se čuva na ledu, na temperaturi koja je približna temperaturi topljenja leda, ili se mora zamrznuti.
+Zamrzavanje cijele ribe u slanom rastvoru (salamuri) radi konzerviranja mora se izvršiti na temperaturi proizvoda od najviše -9ºC. Salamura ne smije predstavljati izvor kontaminacije proizvoda ribarstva.

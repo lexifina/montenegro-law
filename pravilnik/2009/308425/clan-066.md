@@ -1,0 +1,6 @@
+# Član 66
+## Zahtjevi u pogledu konstrukcije i opreme za brod za čuvanje svježih proizvoda ribarstva duže od 24 sata
+Brod koji je konstruisan i opremljen za čuvanje svježih proizvoda ribarstva duže od 24 sata mora imati odgovarajuće prostore, bazene i rezervoare za skladištenje proizvoda ribarstva na temperaturi iz člana 78 ovog pravilnika.
+Prostori za čuvanje proizvoda ribarstva moraju biti odvojeni od mašinskog odjeljenja broda i od prostorija za posadu, pregradama dovoljnim za spriječavanje kontaminacije uskladištenih proizvoda.
+Prostori i rezervoari koji se koriste za čuvanje proizvoda ribarstva moraju da obezbijede očuvanje proizvoda u odgovarajućim higijenskim uslovima i prema potrebi, da voda koja nastaje otapanjem leda ne ostane u kontaktu sa proizvodima.
+Na brodu koji je opremljen za hlađenje proizvoda ribarstva u ohlađenoj čistoj morskoj vodi, bazeni moraju imati uređaje za postizanje i održavanje ujednačene temperature u cijelom bazenu. Tim uređajima se mora postići takva brzina hlađenja kojom se obezbjeđuje da mješavina proizvoda ribarstva i čiste morske vode postigne temperatura od najviše 3ºC šest sati nakon utovara i ne više od 0ºC nakon 16 sati, koja se može pratiti i tamo gde je potrebno bilježiti.
