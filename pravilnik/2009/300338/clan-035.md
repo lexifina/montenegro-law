@@ -1,0 +1,4 @@
+# Član 35
+Hrana životinjskog porijekla koja se proizvodi i stavlja u promet u hermetički zatvorenim posudama mora da bude proizvedena na način da tokom prerade neprerađenog proizvoda ili tokom dodatne prerade prerađenog proizvoda, svaki dio obrađenog proizvoda bude podvrgnut određenoj temperaturi na određeni vremenski period na način kojim se sprječava kontaminacija proizvoda u toku termičkog postupka.
+Subjekat poslovanja koji vrši proizvodnju hrane iz stava 1 ovog člana treba redovno da provjerava glavne parametre (temperaturu, pritisak, hermetičnost posude, mikrobiološke kriterijume), u skladu sa tehnološkim procesom koji obuhvata i primjenu automatskih uređaja za očitavanje vrijednosti u sprovođenju termičkog postupka.
+Primijenjeni postupak termičke obrade mora biti u skladu sa međunarodno priznatim standardima (pasterizacija, ultra visoka tempertura ili sterilizacija).

@@ -1,0 +1,2 @@
+# Član 39
+Danom stupanja na snagu ovog pravilnika prestaje primjena Pravilnika o uslovima koje treba da ispunjavaju klanice za klanje životinja iz uvoza ("Službeni list SFRJ" broj 53/89) i Pravilnika o uslovima koje moraju da ispunjavaju objekti za klanje životinja, obradu preradu i uskladištenje proizvoda životinjskog porijekla ("Službeni list SFRJ" broj 53/89) i prestaju da važe odredbe Pravilnika o uslovima koje moraju ispunjavati klanice, objekti za preradu mesa, objekti za preradu ribe i mljekare ("Službeni list SRCG" broj 34/83).

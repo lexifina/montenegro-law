@@ -1,0 +1,3 @@
+# Član 16
+## Zahtjevi za ventilaciju
+Prostorije u kojima se vrši proizvodnja i promet hrane životinjskog porijekla moraju imati odgovarajući sistem prirodne ili vještačke ventilacije, odvod vodene pare i odvod neprijatnih mirisa. Otvori za dovod svježeg vazduha moraju biti postavljeni tako da ne dođe do kontaminacije vazduha prašinom, neprijatnim mirisima ili drugim agensima iz kontaminiranog prostora. Ti otvori moraju da budu snabdjeveni filterima i zaštitnom mrežom protiv ulaska insekata i štetočina. Sistem ventilacije mora biti izgrađen na način koji omogućava lak prilaz filterima i drugim djelovima radi čišćenja ili zamjene.

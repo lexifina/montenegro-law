@@ -1,0 +1,3 @@
+# Član 4
+## Odobravanje objekata
+Organ uprave nadležan za poslove veterinarstva (u daljem tekstu: nadležni organ), na zahtjev subjekta poslovanja iz člana 3 ovog pravilnika koji obavlja djelatnost proizvodnje i prometa: mesa domaćih papkara i kopitara, živine, lagomorfa, uzgajane divljači, divljači, mljevenog mesa, mesnih prerađevina, mehanički odvojenog mesa, proizvoda od mesa, topljene životinjske masti, čvaraka, tretiranih želudaca, bešike i crijeva, želatina, kolagena, živih školjki, bodljokožaca, plaštaša, morskih puževa, proizvoda ribarstva, žabljih bataka i puževa, mlijeka i proizvoda od mlijeka, jaja i proizvoda od jaja vrši upis u registar odobrenih objekata u skladu sa propisom.
