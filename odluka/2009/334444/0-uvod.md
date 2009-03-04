@@ -1,0 +1,2 @@
+Na osnovu člana 98 Zakona o hartijama od vrijednosti ("Službeni list RCG", br. 59/00, 28/06), člana 20 Statuta Centralne Depozitarne Agencije (broj: 02-196 od 30.06.2008.), a u vezi sa dijelom IV. tačka 1.1., 1.7., 3.10., 3.11., 3.12., 3.14, 4.1-4.6., 5.1-5.13. i dijelom DŽ. tačka 1.2., Pravila Centralne Depozitarne Agencije a.d. Podgorica ("Službeni list RCG", br.36/08). Odbor direktora Centralne Depozitarne Agencije a.d. Podgorica, na sjednici održanoj 29.01. 2009. godine, donosi
+O D L U K U O OSNIVANJU GARANTNOG FONDA I PRIMJENI POSTUPKA UGOVORNOG SALDIRANJA

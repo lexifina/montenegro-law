@@ -1,0 +1,2 @@
+# Član 7
+Osnovne uplate za 2009.godinu će se proporcionalno uvećati svim Članovima Učesnicima za iznos novčanih sredstava koja se na dan početka primjene postupka Ugovornog saldiranja nalaze na računu CDA cash pool kod CKB, broj 510-8093-11, otvorenom u skladu sa Uputstvom o načinu prodaje akcija čiji je vlasnik Republika Crna Gora ("Sl list RCG", broj 47/05) i Uputstvom o načinu prodaje akcija akcionarskih društava za koje je planom privatizacije utvrđena berzanska prodaja ("Sl list RCG", br. 53/04 i 74/05).

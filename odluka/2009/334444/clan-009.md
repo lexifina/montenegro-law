@@ -1,0 +1,2 @@
+# Član 9
+Visina Osnovne uplate za 2010.godinu određuje se primjenom formule iz tačke 5.5 dijela IV Pravila Agencije, korišćenjem podataka o saldiranim tržišnim transakcijama koje su ušle u postupak ugovornog saldiranja u 2009.godini, s tim što se tako dobijeni iznos Osnovne uplate uvećava za trećinu izračunate vrijednosti, kako bi se nivelisao I kvartal 2009. godine, u kojem nije primjenjivano ugovorno saldiranje.
