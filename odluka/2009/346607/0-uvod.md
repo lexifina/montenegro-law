@@ -1,0 +1,2 @@
+233. Na osnovu člana 2 stav 1 tačka 8 i člana 11 Zakona o komunalnim djelatnostima ("Službeni list RCG" , broj 12/95), član 21 Zakona o upravljanju otpadom ("Službeni list RCG", broj 80/05) i ("Službeni list CG" , broj 73/08), član 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list RCG" , broj 42/03 , 28/04 , 75/05 i 13/06) i člana 35 Statuta Opštine Plužine ("Sl.list RCG - Opštinski propisi", br. 23/04 i 07/07), Skupština Opštine Plužine, na sjednici održanoj 29.12.2008. godine donosi
+ODLUKU
