@@ -1,0 +1,3 @@
+# Član 2
+Opština Nikšić je korisnik:
+- katastarske parcele broj 4334/2 površine 230 m2, upisane u listu nepokretnosti broj 764 KO Nikšić kao korišćenje opštine Nikšić i katastarske parcele broj 4346/1 koju čini dvorište površine 742 m2, zemljište pod objektom broj 5 površine 9 m2 i zemljište pod objektom broj 2 površine 40 m2 upisana u listu nepokretnosti broj 2958 KO Nikšić kao korišćenje opštine Nikšić, koje zajedno formiraju urbanističku parcelu ukupne površine 1021m2 na kojoj je predviĎena izgradnja poslovno-stambenog objekta spratnosti P+2, u osnovi površine 360 m2 u skladu sa DUP- om Mrkošnica 1.
