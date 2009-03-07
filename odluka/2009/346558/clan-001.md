@@ -1,0 +1,4 @@
+# Član 1
+## o prenosu prava korišćenja na gradsko građevinsko zemljište na Ciriković Zanu
+Ciriković Zani iz Nikšića se prenosi pravo korišćenja na gradsko graĎevinsko zemljište za potrebe formiranja urbanističke parcele u skladu sa Odlukom o donošenju DUP-a Bistrica (»Službeni list RCG-opštinski propisi «, broj 23/01) i to:
+-katastarska parcela broj 4893 koju čini zemljište ispod objekta broj 1-porodične stambene zgrade površine 50 m2 i zemljište koje služi za redovnu upotrebu objekata prema planu parcelacije u skladu sa DUP-om Bistrica, dvorišta površine 150 m2, ukupne površine 200 m2, prema listu nepokretnosti broj 2796 KO Nikšić, po utvrĎenoj cijeni od 19,26 € po m2 , u skladu sa Rješenjem Sekretarijata za ureĎenje prostora i komunalno stambene poslove, broj 03-12075 od 06.12.2007. godine.
