@@ -1,0 +1,4 @@
+# Član 1
+## o izmjeni Odluke o pristupanju izradi Prostornog plana Opštine Tivat i Generalnog urbanističkog plana opštine Tivat kao dijela Prostornog plana opštine br. 0101-1392 od 20.12. 2006.godine
+Odluka se pristupanju izradi Prostornog plana Opštine Tivat i Generalnog urbanističkog plana Opštine Tivat kao dijela Prostornog plana Opštine br. 0101-1392 od 20.12. 2006.godine (»Sl.list RCG-opštinski propisi«, br. 08/07) mijenja se na način da se u nazivu odluke i svim članovima odluke naziv plana »Prostorni plan Opštine Tivat i Generalni urbanistički plan Opštine Tivat kao dio Prostornog plana« zamjenjuje nazivom »Prostorno urbanistički plan Opštine Tivat« u odgovarajućem padežu.
+Identična izmjena naziva plana odnosi se i na programski zadatak, ugovor o izradi plana i ugovor o izradi baznih studija.
