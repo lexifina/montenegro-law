@@ -1,0 +1,2 @@
+# Član 3
+EP CG AD Nikšić-Funkcionalna cjelina Distribucija-Elektrodistribucija Tivat takoĎe je dužna o svom trošku ,a na osnovu uslova koje će odrediti nadležni organ za poslove urbanizma prilikom izdavanja urbanističko tehničkih uslova, urediti dio kat.par.606/1 k.o.Donja Lastva na način što će popločati postojeći kanal u dužini od cca 10m a sve kako bi se obezbijedio nesmetani pješački prolaz pored nove trafo stanice.
