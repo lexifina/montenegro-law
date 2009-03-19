@@ -1,0 +1,2 @@
+# Član 2
+Državljani država članica Evropske Unije, Kneževine Andore, Kneževine Monako, Republike San Marino, Svete Stolice i Švajcarske Konfederacije, Bosne i Hercegovine, Republike Srbije, Republike Hrvatske, Republike Makedonije i Republike Kosovo mogu ulaziti, prelaziti preko teritorije i boraviti u Crnoj Gori do 30 dana sa važećom ličnom kartom, odnosno drugom ispravom na osnovu koje se može utvrditi njihov identitet i državljanstvo.
