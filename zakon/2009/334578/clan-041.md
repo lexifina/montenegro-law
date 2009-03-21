@@ -1,0 +1,4 @@
+# Član 41
+## Graditelj savjestan, a vlasnik zemljišta nesavjestan
+Lice koje izgradi zgradu ili drugu građevinu (građevinski objekat) na zemljištu na kome drugi ima pravo svojine (graditelj), stiče pravo svojine i na zemljištu na kome je izgrađen građevinski objekat, kao i na zemljištu koje je neophodno za redovnu upotrebu tog građevinskog objekta, ako nije znalo niti je moglo znati da gradi na tuđem zemljištu, a vlasnik zemljišta je znao za izgradnju i nije se usprotivio bez odlaganja.
+Vlasnik zemljišta, u slučaju iz stava 1 ovog člana, ima pravo da za vrijeme od tri godine od dana saznanja za završenu izgradnju, ali najkasnije za vrijeme od deset godina od završene izgradnje, traži da mu graditelj nadoknadi vrijednost zemljišta u visini njegove tržišne cijene u vrijeme donošenja sudske odluke.
