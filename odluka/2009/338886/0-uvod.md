@@ -1,0 +1,2 @@
+357. Na osnovu člana 7 Zakona o prometu nepokretnosti (»Sl. list RCG« br. 27/75 i 35/75), člana 9 i 12 Zakona o imovini RCG (»Sl. list RCG« br. 44/99), člana 40 stav 2 Zakona o lokalnoj samoupravi (»Sl.list RCG« br. 42/03, 28/04, 75/05, 13/06) i člana 35 Statuta Opštine Plužine (»Sl.list RCG - opštinski propisi« br. 23/04 i 7/07), Skupština opštine Plužine, na sjednici održanoj 29.12.2008. godine donijela je
+ODLUKU
