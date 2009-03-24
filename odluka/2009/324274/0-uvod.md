@@ -1,0 +1,3 @@
+330. Na osnovu člana 45 stav 1 tačka 15 Zakona o lokalnoj samoupravi ( "Sl. list RCG " br. 42/03, 28/04, 75/05 i 13/06) , člana 62 Zakona o finansiranju lokalne samouprave ("Sl. list RCG " br. 42/03, 44/03 i 5/08) i člana 31 stav 1, tačka 16 Statuta Opštine Bijelo Polje( "Sl. list RCG- opštinski propisi " br. 25/04 i 33/06), Skupština opštine Bijelo Polje , na sjednici održanoj dana 09.03.2009 godine, donosi
+ODLUKU
+o zaduženju Opštine Bijelo Polje kod Vlade Crne Gore vezano za kredit Međunarodne banke za rekonstrukciju i razvoj za realizaciju projekta "Rukovođenje i upravljanje zemljišnom administracijom" (Lamp Projekat) u Opštini Bijelo Polje
