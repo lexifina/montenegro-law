@@ -1,0 +1,2 @@
+# Član 7
+Intervencije na postojećim objektima na području Izmjena i dopuna urbanističkog plana, intervencije na objektima unutar njegovog gabarita (adaptacija, rekonstrukcija), intervencije na objektu kojim se mijenja njegov gabarit (dogradnja, nadogradnja), intervencije unutar urbanističke parcele i ureĎenja terena odobravaće se po urbanističko-tehničkim uslovima u postupku izdavanja uslova i saglasnosti definisanom ovim izmjenama i dopunama plana.
