@@ -1,0 +1,2 @@
+335. Na osnovu člana 45 stav 1 tač.10 Zakona o lokalnoj samoupravi ("Sl.list RCG" br. 42/03, 28/04, 75/05, 16/06),čl.31 stav 1 tačka 10 Statuta Opštine Bijelo Polje("Sl.list RCG-opštinski propisi", br. 25/04 i 33/06) i čl.15 Odluke o mjesnim zajednicama(Sl. list RCG-opštinski propisi" br.18/05 i "Sl. list CG-opštinski propisi" br.22/08)Skupština opštine Bijelo Polje,na sjednici održanoj dana 09.03.2009.godine, donijela je
+ODLUKU
