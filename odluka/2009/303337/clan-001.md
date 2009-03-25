@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom utvrđuju se vrste kombinovane hrane, njihovo razvrstavanje u skladu sa tarifnim oznakama Carinske tarife koja se primjenjuje u Crnoj Gori, po nadležnostima organa državne uprave: ministarstva nadležnog za poslove zdravlja (u daljem tekstu: Ministarstvo zdravlja) i organa uprave nadležnog za poslove veterinarstva (u daljem tekstu: Veterinarska uprava) u proizvodnji, prometu i međunarodnom prometu kombinovane hrane.
