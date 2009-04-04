@@ -1,0 +1,4 @@
+# Član 2
+DUP se sastoji iz: tekstualnog dijela i grafičkih priloga postojećeg i planiranog stanja uraĎenih u vidu knjige (elaborata) u analognoj i digitalnoj formi.
+Tekstualni dio sadrži: 1. Pristup i postupak izrade DUP-a, 2. Polazne osnove razvoja, 3. Stanje u prostoru-ocjena polaznih uslova za razvoj, 4. Urbanističko plansko rješenje Petrovca, 5. Urbanističko tehnički uslovi i 6. Smjernice oblikovanja i ureĎenja prostora.
+Grafički prilozi : 1.Granica obuhvata plana, 2. Postojeće stanje sa granicom plana, 3. Detaljna namjena površina, 4. Funkcionalna organizacija saobraćaja, 5. Nacrt parcelacije - Analitičko geodetski elementi, 6. Regulaciono rješenje, 7. Nivelaciono rješenje, 8. Urbanistički pokazatelji -indeks izgraĎenosti i indeks zauzetosti, 9. Plan saobraćaja- generalno nivelaciono rješenje sa analitičko-geodetskim elementima, 10. Infrastrukturna rješenja, 11. Pejzažna arhitektura, 12. Hortikulturno rješenje.
