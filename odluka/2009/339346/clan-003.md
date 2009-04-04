@@ -1,0 +1,4 @@
+# Član 3
+Zona zahvata LSL obuhvata prostor ograničen kako slijedi :
+sa zapadne strane: magistralnim putem Bar -Budva; sa sjeverne strane : potokom koji je označen kao kat.parc.148 KO Reževići I, sa istočne strane: granicom kat.parc. 145/2, 138, 137, 130/2 i 134, sa jedne strane i kat.parc.145/3 i 145/1, 146, 148, 129, 133 sve KO Reževići I, sa druge strane i dalje potokom koji je označen kao kat. parcela 2960 KO Reževići I i u istom pravcu granica je odreĎena lomnim tačkama: tačka 1. sa koordinatama Y= 575 172.92 DŽ= 677 958.20; tačka 2. sa koordinatama Y= 575 171.92 DŽ= 677 929.60;
+tačka 3. sa koordinatama Y= 575 182.99 DŽ= 677 848.21; tačka 4. sa koordinatama Y= 575 221.48 DŽ= 677 827.15. sa južne strane: makadamskim putem koji je označen kao kat.parc.2979 KO Reževići I. Ukupna površina zahvata Lokalne studije lokacije "Velji Kamen", iznosi 4,42 ha.
