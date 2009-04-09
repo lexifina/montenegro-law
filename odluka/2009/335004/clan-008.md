@@ -1,0 +1,3 @@
+# Član 8
+Ukupna rizikom ponderisana aktiva za kreditni rizik bankarske grupe izračunava se primjenom metoda potpune konsolidacije, ili drugog metoda, zavisno od odnosa nadređenog člana i drugih članova bankarske grupe.
+Izuzetno od stava 1 ovog člana, ako se za jednog i ili više podređenih članova bankarske grupe adekvatnost kapitala izračunava primjenom posebnih propisa, rizikom ponderisana aktiva za ta lica se izračunava primjenom tih propisa, uz isključivanje međusobnih odnosa sa članovima bankarske grupe, a dobijeni iznos se sabira sa iznosom rizikom ponderisane aktive bankarske grupe, izračunate na bazi finansijskih izvještaja ostalih članova bankarske grupe.

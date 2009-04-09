@@ -1,0 +1,4 @@
+# Član 13
+Banka koja je član bankarske grupe sa nadređenom bankom, nadređenim finansijskim holdingom ili nadređenim mješovitim holdingom, a koja je obveznik izvještavanja na konsolidovanoj osnovi, dužna je da dostavlja Centralnoj banci podatke o sastavu bankarske grupe kojoj pripada, kao i podatke o članovima te bankarske grupe.
+Podaci iz stava 1 ovog člana dostavljaju se Centralnoj banci jednom godišnje, na obrascima SBG i ČBG koji su odštampani uz ovu odluku i čine njen sastavni dio, i to do 31. marta tekuće godine, sa stanjem na dan 31. decembra prethodne godine, ili češće na zahtjev Centralne banke.
+Banka iz stava 1 ovog člana je dužna da o svakoj promjeni podataka o sastavu bankarske grupe, odnosno podataka o članovima te grupe, a koji su od značaja za kontrolu na konsolidovanoj osnovi, obavijesti Centralnu banku u roku od 30 dana od nastanka te promjene.
