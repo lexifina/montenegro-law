@@ -1,0 +1,4 @@
+# Član 31
+## Reklamacije
+Učesnik može podnijeti reklamacije koje se odnose na transfere izvršene u RTGS sistemu, najkasnije u roku od tri radna dana od dana izvršene obrade transfera.
+Reklamacije se dostavljaju Sektoru na utvrđenom obrascu, koji se daje u prilogu ovih pravila.

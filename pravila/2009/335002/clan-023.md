@@ -1,0 +1,2 @@
+# Član 23
+Pošiljalac može promjeniti prioritet poruke za transfer koja se nalazi u redu za čekanje do kraja operativnog dana. Ako pošiljalac nije u mogućnosti da promjenu prioriteta poruke izvrši elektronskim putem, obavještenje o promjeni prioriteta poruke dostavlja Centralnoj banci - Sektoru za platni promet (u daljem tekstu: Sektor), najkasnije do 17 časova, na utvrđenom obrascu koji se daje u prilogu ovih pravila.
