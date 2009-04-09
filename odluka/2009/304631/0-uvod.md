@@ -1,0 +1,2 @@
+Na osnovu člana 1. stav 2 Zakona o porezu na igre na sreću i zabavne igre ("Sl. list RCG", br. 27/06), a u vezi sa članom 5. tačka 3 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03 , 44/03 i "Sl. list CG", br. 5/08 ) i člana 35. Statuta Opštine Danilovgrad ("Sl. list RCG - opštinski propisi", br. 30/04 i "Sl. list CG - opštinski propisi", br. 19/08), Skupština opštine Danilovgrad , na sjednici održanoj dana 26.03.2009.godine, donijela je
+ODLUKU
