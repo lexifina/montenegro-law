@@ -1,0 +1,2 @@
+# Član 2
+Strateškom procjenom razmotriće se postojeće stanje životne sredine na području Prostorno- urbanističkog plana Opštine Mojkovac, značaj i karakteristike planskog dokumenta, karakteristike uticaja planiranih sadržaja na mikro i makro lokacije i druga pitanja i problemi zaštite životne sredine uključujući i zdravlje ljudi u skladu sa kriterijumima za utvrĎivanje značajnih uticaja navedenog planskog dokumenta na životnu sredinu.
