@@ -1,0 +1,3 @@
+# Član 5
+Osnovni sud Cetinje i Osnovno državno tužilaštvo Cetinje su dužni da u roku od jedne godine od dana stupanja na snagu ove odluke započnu sa radovima na stambenoj zgradi, a ukoliko to ne urade u ostavljenom roku gradsko graĎevinsko zemljište opisano u članu 2. ove odluke će se vratiti u posjed Prijestonici Cetinje.
+U slučaju da budući vlasnici etažnog dijela stambene zgrade izvrše promet svog dijela nepokretnosti u periodu od 10 godina od upisa stečenih prava kod Uprave za nekretnine dužni su Prijestonici Cetinje isplatiti naknadu za prenijeto zemljište shodno tržišnoj vrijednosti i platiti naknadu za ureĎenje graĎevinskog zemljišta.
