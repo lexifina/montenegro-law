@@ -1,0 +1,3 @@
+Na osnovu člana.12. Uredbe o načinu i postupku sprovoĎenja Javnog nadmetanja odnosno prikupljanja ponuda u postupku prenosa prava na gradskom graĎevinskom zemljištu ( " Sl. list RCG" br.38/05) i člana 30. Statuta Opštine Kotor ( "Sl. list Opštine Kotor" br. 3/04), a nakon sprovedenog postupka po javnom pozivu za prenos prava na gradskom graĎevinskom zemljištu objavljenom 15. 04. 2008. godine, Izvještaja Komisije za Javno nadmetanje br. 01-10189 od 19. 09. 2008. god. i Odluke o prenosu prava na gradskom graĎevinskom zemljištu u obuhvatu UP Privredna zona br. 11- 11078 od 25.
+09. 2008 god ("Sl. list CG" - opštinski propisi br.30/08), Skupština Opštine Kotor, na sjednici održanoj 21. 04. 2009. godine, donijela je
+ODLUKU
