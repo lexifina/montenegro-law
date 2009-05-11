@@ -1,0 +1,2 @@
+754. Na osnovu člana 57. stav 1 tačka 5. u vezi sa čl. 70. i 81. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/04, 28/04, 75/05 i 13/06), čl. 63. i 66. Statuta Opštine Rožaje ("Sl.list RCG -opštinski propisi", broj 33/04) i člana 17. Odluke o organizaciji i načinu rada lokalne uprave ("Sl. list RCG -opštinski propisi", br. 47/06 i 23/08), na prijedlog Glavnog administratora, Predsjednik Opštine donosi
+O D L U K U
