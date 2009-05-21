@@ -1,0 +1,2 @@
+Na osnuvu člana 17. Zakona o upravljanju otpadom (" Sl. list RCG " br. 80/05), člana 45. Zakona o lokalnoj samoupravi (»Sl.list RCG« br. 42/03, 28/04,75/05, 13/06), i člana 36. Statuta Opštine Herceg- Novi («Sl. list RCG - opštinski propisi» broj 15/04, 31/06,14/07), uz prethodnu saglasnost Ministarstva turizma i zaštite životne sredine broj: 01-36/2 od 21.01.2009.godine, Skupština Opštine Herceg Novi, na sjednici održanoj dana 24.04.2009. godine, donosi
+ODLUKU
