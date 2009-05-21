@@ -1,0 +1,2 @@
+# Član 5
+Sastavni dio Odluke o donošenju Izmjena i dopuna Urbanističkog projekta "Zapadno podgraĎe" su Elaborat Plana koji sadrži tekstualni i grafički dio obraĎen u analognom i digitalnom obliku, koje je izradio ObraĎivač plana - preduzeće "BIRO ZA URBANIZAM I PROJEKTOVANJE HERCEG NOVI" d.o.o. iz Herceg Novog, kao i saglasnost Ministarstva za ekonomski razvoj broj 10-1545/1 od 10.03.2009. godine.
