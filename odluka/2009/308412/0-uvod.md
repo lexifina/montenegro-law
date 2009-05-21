@@ -1,0 +1,2 @@
+Na osnovu člana 126 stav 3 Zakona o zaštiti prirode ("Sl. list CG", br. 51/08, 21/09), a vezano za član 27 stav 2 Zakona o zaštiti prirode ("Sl.list SRCG", br. 36/77, 39/77, 2/89, 29/89, 48/91, 17/92, 27/94) i člana 36 stav 1 tačka 3 Statuta Opštine Herceg Novi ("Sl. list RCG - opštinski propisi", broj 15/04, 31/06 i 14/07), Skupština opštine Herceg Novi na sjednici održanoj dana 24.04.2009. godine, donosi
+ODLUKU
