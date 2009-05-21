@@ -1,0 +1,2 @@
+Na osnovu člana 10 Ustavnog Zakona za sprovoĎenje Ustava Crne Gore ("Sl. list Crne Gore", br. 01/07, 09/08 i 04/09), na osnovu člana 45 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06) i člana 36 stav 1 tačka 1 Statuta Opštine Herceg Novi ("Sl. list RCG - opštinski propisi" broj 15/04, 31/06, 14/07), Skupština opštine Herceg Novi na sjednici održanoj dana 24.04.2009. godine, donosi
+ODLUKU
