@@ -1,0 +1,4 @@
+# Član 16
+Ako su na objektu utvrđeni nedostaci i nepravilnosti, komisija daje mišljenje da li se može dati odobrenje za njegovu upotrebu tek poslije otklanjanja tih nedostataka i nepravilnosti ili s obzirom na vrstu i prirodu nedostataka i nepravilnosti i prije njihovog otklanjanja, uz preduzimanje potrebnih mjera obezbjeđenja pri izvođenju naknadnih radova na otklanjanju uočenih nedostataka i nepravilnosti.
+Ako je tehničkim pregledom utvrđeno da se nedostaci i nepravilnosti na objektu ne mogu otkloniti ili da postoji neotklonjiva opasnost po stabilnost objekta, odnosno po život ili zdravlje ljudi, saobraćaj ili susjedne objekte, komisija će predložiti da se objekat poruši ili ukloni.
+Ako se u toku tehničkog pregleda utvrdi da postoji sumnja u kvalitet komisija će predložiti ispitivanje kvaliteta materijala, instalacija i opreme.

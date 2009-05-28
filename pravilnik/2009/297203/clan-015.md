@@ -1,0 +1,4 @@
+# Član 15
+Nakon izvršenog tehničkog pregleda objekta sačinjava se konačni izvještaj koji sadrži: broj i datum rješenja o obrazovanju komisije, imena članova komisije, naziv investitora i izvođača radova i imena njihovih predstavnika koji su učestvovali u radu komisije, kao i imena drugih lica koja su učestvovala u radu komisije ili prisustvovala njenom radu, mjesto, vrijeme i način rada komisije, predmet tehničkog pregleda, spisak dokumentacije stavljene na raspolaganje komisiji, mišljenje i predlozi komisije da li je objekat podoban ili nije podoban za upotrebu, kao i izdvojena mišljenja pojedinih članova komisije.
+Konačni izvještaj iz stava 1 ovog člana, potpisuju svi članovi komisije.
+Vršilac tehničkog pregleda dostavlja konačni izvještaj organu nadležnom za izdavanje građevinske dozvole i investitoru, u po dva primjerka.
