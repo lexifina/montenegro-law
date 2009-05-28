@@ -1,0 +1,3 @@
+# Član 29
+O toku redovne sjednice, javnom i nejavnom dijelu sjednice, vodi se jedinstven zapisnik.
+Zapisnik o toku redovne sjednice sadrži naročito: datum održavanja sjednice, imena prisutnih i odsutnih sudija, dnevni red, izmjene i dopune dnevnog reda, predmet odlučivanja, odnosno raspravljanja, kratak pregled rasprave o predmetu odlučivanja, vijećanje i glasanje u nejavnom dijelu redovne sjednice, imena sudija koji su glasali protiv predloga, usvojene primjedbe na predlog odluke odnosno rješenja, konstataciju da je sudija povodom odluke, odnosno rješenja izdvojio mišljenje, prisustvo javnosti, tonsko snimanje ili neki drugi način zapisivanja toka sjednice, a na zahtjev predsjednika ili sudije može sadržati i druge bitne činjenice.

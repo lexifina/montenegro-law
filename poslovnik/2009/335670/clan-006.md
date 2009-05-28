@@ -1,0 +1,3 @@
+# Član 6
+## Predsjednik i sudija Ustavnog suda
+Predsjednik, pored prava i dužnosti utvrđenih Zakonom o Ustavnom sudu Crne Gore (u daljem tekstu: Zakon): predstavlja Ustavni sud pred državnim organima Crne Gore, drugim organima i organizacijama i međunarodnim organima i organizacijama; organizuje i rukovodi radom Ustavnog suda; potpisuje opšte i druge akte Ustavnog suda; donosi pojedinačne akte u skladu sa zakonom; saziva i predsjedava sjednicom i javnom raspravom Ustavnog suda; naredbodavac je za raspolaganje finansijskim sredstvima; obavlja i druge poslove određene ovim poslovnikom i drugim aktima Ustavnog suda.

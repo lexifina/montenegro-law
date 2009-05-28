@@ -1,0 +1,3 @@
+# Član 13
+## Generalni sekretar i zamjenik generalnog sekretara
+Generalni sekretar, pored poslova propisanih Zakonom: prati predmete od njihovog prispjeća u Ustavni sud do njihovog otpremanja iz Ustavnog suda; stara se o nabavci osnovnih sredstava potrebnih za rad Ustavnog suda; ukazuje Ustavnom sudu na primjenu Zakona, ovog poslovnika i drugih akata Ustavnog suda; stara se o pripremanju plana rada, godišnjeg izvještaja o radu i finansijskog izvještaja Ustavnog suda; odgovara dopisom na ustavno-sudske predmete s oznakom "R"; omogućava, u skladu sa zakonom, uvid u spise predmeta učesnicima u postupku i drugim zainteresovanim licima; po potrebi saziva sastanak sa zaposlenima u Službi.

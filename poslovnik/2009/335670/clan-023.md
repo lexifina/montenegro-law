@@ -1,0 +1,2 @@
+# Član 23
+Redakciona komisija: utvrđuje konačan tekst odluke i rješenja usvojenih na sjednici, a po zaključku Ustavnog suda i drugih akata koje donosi Ustavni sud; predlaže Ustavnom sudu preispitivanje navedenih akata prije njihovog otpravljanja iz Ustavnog suda, kada ocijeni da za to postoje razlozi; uređuje Bilten i druge publikacije Ustavnog suda; obavlja i druge poslove koje joj povjeri Ustavni sud.

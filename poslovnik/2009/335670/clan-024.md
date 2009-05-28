@@ -1,0 +1,2 @@
+# Član 24
+Komisija za ostvarivanje ustavnosti i zakonitosti: prati i proučava pojave od interesa za ostvarivanje ustavnosti i zakonitosti i zaštitu ljudskih prava i sloboda, a naročito pitanja i pojave koja se kao sporna postave u postupku pred Ustavnim sudom i u vezi sa tim daje predloge i mišljenja Ustavnom sudu, radi razmatranja i zauzimanja stavova; priprema obavještenje za Skupštinu Crne Gore o uočenim pojavama neustavnosti i nezakonitosti; obavlja i druge poslove koje joj povjeri Ustavni sud.
