@@ -1,0 +1,2 @@
+Na osnovu člana 17. Zakona o životnoj sredini("Sl. list CG", br. 48/08), člana 45. Zakona o lokalnoj samoupravi (,,Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06) i člana 33. Statuta Opštine Pljevlja (,,Sl. list RCG - opštinski propisi", br. 37/04 i 30/07), a u skladu sa Programom rada Skupštine opštine Pljevlja za 2009. godinu ("Sl. list CG - opštinski propisi", br. 01/09), Skupština opštine Pljevlja na sjednici održanoj dana 11. maja 2009. godine donijela je
+ODLUKU
