@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom, na osnovu Izvještaja o pregledu, upoređivanju, ocjeni i vrednovanju dostavljenih ponuda i Izvještaja o postupku pregovora Komisije za vrednovanje ponuda i pregovaranje u postupku javnog nadmetanja za dodjelu koncesije za autoput Bar-Boljare i predloga Savjeta za izgradnju autopu- teva u Crnoj Gori, dodjeljuje se koncesija za projektovanje, finansiranje, izgradnju, upravljanje i održavanje autoputa Bar-Boljare, konzorcijumu koga čine "Konstruktor inženjering" d.d., "Institut građevinarstva Hrvatske" d.d. i "Tehnika" d.d. (u daljem tekstu: Koncesionar).
