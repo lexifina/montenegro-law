@@ -1,0 +1,2 @@
+896. Na osnovu člana 10 stav 1 tačka 15, člana 17 stav 1 alineja 2 , člana 34 stav 1 i člana 39 stav 2 Zakona o državnoj imovini ("Službeni list Crne Gore", broj 21/09), člana 58 st. 1, 2 i 3 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06) i člana 66 stav 1 alineja 26 Statuta Prijestonice ("Službeni list RCG - opštinski propisi", br. 3/05, 9/05, 39/06), Gradonačelnik Prijestonice donosi
+O D L U K U
