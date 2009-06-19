@@ -1,0 +1,2 @@
+Na osnovu člana 13 i člana 22 st. 1 i 4 Zakona o putevima ("Službeni list RCG", broj 42/04), čl. 45 i 51 stav 3 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06), člana 13 stav 1 tačka 11 al. 1 i 2 i člana 40 Statuta opštine Nikšić ("Službeni list RCG-opštinski propisi", br. 20/04 i 43/06) i člana 13 Odluke o opštinskim i nekategorisanim putevima ("Službeni list RCG-opštinski propisi", broj 15/06), Skupština opštine Nikšić na sjednici održanoj 8.06.2009. godine, donijela je
+O D L U K U
