@@ -1,0 +1,2 @@
+# Član 2
+DUP-om Topla od Šetališta do NJegoševe ne mijenja se osnovna namjena prostora, već se za prostor koji je pretežno izgraĎen daju urbanistički parametri i regulacija pri rekonstrukciji postojećih i izgradnji novih objekata, na način da se omogući afirmacija ambijentalnih i arhitektonskih vrijednosti naselja, ureĎenje i opremanje ukupnog graĎevinskog fonda, javnih površina i tehničke infrastrukture, čime se ne stvaraju rizici po zdravlje ljudi i životnu sredinu, i ne utiče na druge planove i programe u okruženju.
