@@ -1,0 +1,2 @@
+Na osnovu člana 4 stav 2 i člana 12 Zakona o komunalnim djelatnostima ("Sl. list RCG", br. 12/95), a u vezi sa članom 117 stav 1 tačka 2 i stav 2 Zakona o ureĎenju prostora i izgradnji objekata («Sl.list CG», br. 51/08) i člana 48 stav 1 alineja 29 Statuta Glavnog grada ("Sl. list RCG-opštinski propisi", broj 28/06), Skupština Glavnog grada -Podgorice, na sjednici održanoj 03. i 04.06. 2009. godine, donijela je
+ODLUKU
