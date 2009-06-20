@@ -1,0 +1,15 @@
+# Član 3
+Izrazi upotrijebljeni u ovom pravilniku imaju slijedeće značenje:
+1) EDLJM je Evropska direkcija za kvalitet lijekova koja je nadležna za Evropsku farmakopeju;
+2) imunološki lijekovi su lijekovi koji uzrokuju nastanak aktivnog ili pasivnog imuniteta ili su namijenjeni dijagnosticiranju imuniteta i spadaju u rizične lijekove;
+3) kvalitet lijeka je osobina lijeka koja se može utvrditi ispitivanjem kvaliteta svih sastojaka lijeka koja uključuje najmanje kvantitativnu analizu svih aktivnih supstanci i sva ostala ispitivanja potrebna za osiguravanje kvaliteta lijeka u skladu sa zahtjevima dozvole za stavljanje lijeka u promet;
+4) specifikacija predstavlja skup parametara sa granicama prihvatljivosti (specifikacijske granice) za svaki pojedinačni parametar sa navedenom metodom ispitivanja, odnosno referencama na njih;
+5) specifikacijske granice su brojčano izražene granične vrijednosti u mjernim jedinicama, područja ili drugi kriterijumi za pojedinačne parametre prema kojima mora lijek odgovarati da bi bio prihvatljiv za predviđenu upotrebu, koje Agencija za lijekove i medicinska sredstva (u daljem tekstu: Agencija) odobrava u postupku dobijanja dozvole za stavljanje lijeka u promet i koje važe do kraja roka upotrebe lijeka;
+6) standardne (rutinske) metode ispitivanja su ispitivanja provjere parametara koje izvodi proizvođač za svaku seriju lijeka prije puštanja serije lijeka u promet, po unaprijed predviđenoj dinamici;
+7) nestandardne (nerutinske) metode ispitivanja su ispitivanja provjere parametara na slučajnom uzorku serije lijeka prije puštanja te serije lijeka u promet;
+8) posebne metode ispitivanja su ispitivanja koja ciljano utvrđuju prisustvo neočekivanih nečistoća i koja ne moraju biti navedena u dokumentaciji za dobijanje dozvole za stavljanje lijeka u promet;
+9) organizacija kontrole kvaliteta lijeka podrazumijeva sve aktivnosti koje su povezane sa uzorkovanjem lijeka, dobijanjem potrebne dokumentacije i referentnih standarda, obavještava-njem o rezultatima analitičkog ispitivanja lijeka, kao i ocjenom priloženih sertifikata analize/ispitivanja kvaliteta lijeka;10)
+polazne supstance su supstance od kojih se aktivna supstanca proizvodi ili ekstrahuje. Polazne supstance bioloških lijekova su sve supstance biološkog porijekla kao npr. mikroorganozmi, organi i tkiva biljnog i životinjskog porijekla, ćelije ili biološke tečnosti (uključujući krv i plazmu) humanog i životinjskog porijekla, biotehnološke ćelijske tvorevine (ćelijski supstrati bilo rekombinovani ili ne, uključujući i matične ćelije);
+11)
+biološki lijek je lijek čiju aktivnu supstancu čini biološka supstanca (imunološki lijekovi, lijekovi iz krvi i plazme, lijekovi dobijeni visokim tehnologijama: genski inženjering, monoklonalna antitijela, hibridomi...) kao i lijekovi za napredno liječenje (genska terapija, somatska ćelijska terapija - alogenska i ksenogenska);
+12) biološka supstanca je supstanca koja je proizvedena ili ekstrahovana iz biološkog izvora za čiju karakterizaciju i kontrolu kvaliteta je potrebno izvršiti fizičko-hemijska ispitivanja, opis i kontrolu proizvodnog procesa.

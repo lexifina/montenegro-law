@@ -1,0 +1,2 @@
+# Član 4
+Kada je analitičko ispitivanje lijeka opisano u priznatim farmakopejama, detaljni opis ispitivanja se zamjenjuje navođenjem reference monografije: Evropske farmakopeje ( u daljem tekstu: Ph.Eur.) ili nacionalne farmakopeje ili farmakopeje drugih država, u kom slučaju podnosioc zahtjeva za dobijanje dozvole za stavljanje lijeka u promet (u daljem tekstu: podnosilac zahtjeva), dostavlja kopiju te monografije i validaciju analitičke metode iz monografije sa prevodom, kao i opšte zahtjeve za farmaceutski oblik lijeka.
