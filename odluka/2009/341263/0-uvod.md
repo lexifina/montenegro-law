@@ -1,0 +1,2 @@
+685.Na osnovu člana 49. stav 2. Zakona o lokalnoj samoupravi ("Sl .list RCG", br. 42/03, 28/04, 75/05 i 13/06), i člana 33. tačka18. Statuta Opštine Pljevlja ("Sl. list RCG-opštinski propisi" br.37/04 i30/07) i člana 13. odluke o Savjetu za razvoj i zaštitu lokalne samouprave ("Sl.list RCG- opštinski propisi" br.1/06), Skupština opštine Pljevlja, na sjednici održanoj 12.06.2009.godine donijela je
+ODLUKU
