@@ -1,0 +1,3 @@
+# Član 4
+U članu 63, stav 1, poslije"tačke 8" dodaje se nova tačka "9" koja glasi:
+"Privremeno zabrani obavljanje djelatnosti u objektima pored opštinskih i nekategorisanih puteva: stanica za snabdijevanje motornih vozila gorivom ( pumpne stanice ), auto- servisa, objekata za privremeni smještaj onesposobljenih vozila, putnih baza, auto baza za pružanje pomoći i informacija učesnicima u saobraćaju, ugostiteljskih objekata, turističkih objekata, trgovinskih objekata, komercijalnih objekata, sportsko-rekreativnih objekata i drugih komercijalnih objekata, izgraĎenih ili postavljenih na lokacijama koje su priključene na opštinske i nekategorisane puteve bez saglasnosti organa lokalne uprave nadležnog za poslove saobraćaja ".
