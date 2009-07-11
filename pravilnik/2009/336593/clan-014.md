@@ -1,0 +1,2 @@
+# Član 14
+Osnov za vrednovanje programa usavršavanja jednim poenom je program u ukupnom trajanju od 16 sati. Minimalan broj sati koji se vrednuje po 0,5 poena je osam sati. Nastavnik koji učestvuje u usavršavanju dobija jedan poen ako je uspješno obavio program usavršavanja i, najkasnije u roku od 30 dana od završetka programa usavršavanja, izradio seminarski rad ili drugi oblik rada, koji rukovodilac programa pozitivno ocijeni, i ako na drugi način aktivno sarađuje u programu usavršavanja.
