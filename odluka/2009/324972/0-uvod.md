@@ -1,0 +1,2 @@
+745. Na osnovu člana 40. stav 2. tačka 3. Zakona o državnoj svojini ("Službeni list Crne Gore", broj 21/09), člana 33. stav 3. Zakona o lokalnoj samoupravi ("Službeni list Republike Crne Gore", broj 42/03) i člana 30. Statuta Opštine Kotor ("Službeni list Opštine Kotor", broj 3/04; "Službeni list Crne Gore - opštinski propisi", broj 17/08), Skupština opštine Kotor, na sjednici održanoj 23. 06. 2009. godine, donijela je
+O D L U K U
