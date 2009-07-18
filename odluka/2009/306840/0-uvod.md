@@ -1,0 +1,2 @@
+776. Na osnovu člana 48 stav 1 alineja 44 Statuta Glavnog grada ("Službeni list RCG-opštinski propisi", broj 28/06) a u vezi sa članom 60 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", broj 42/03 i"Službeni list CG", br. 05/08) i članom 25 Zakona o hartijama od vrijednosti ("Službeni list RCG", br. 59/00 i 28/06), uz prethodnu saglasnost Vlade Crne Gore, Skupština Glavnog grada-Podgorice, na sjednici održanoj 09.07.2009.godine, donijela je
+O D L U K U
