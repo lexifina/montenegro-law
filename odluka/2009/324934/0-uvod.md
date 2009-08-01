@@ -1,0 +1,2 @@
+Na osnovu člana 4 Uredbe o zaradama i drugim novčanim primanjima pripadnika Vojske Crne Gore, civilne zaštite, policije i zaposlenih u organima državne uprave za vrijeme učešća u međunarodnim snagama, mirovnim misijama i drugim aktivnostima u inostranstvu ("Službeni list CG", broj 22/09), Vlada Crne Gore, na sjednici od 18. juna 2009. godine, donijela je
+O D L U K U O UTVRĐIVANJU VISINE NOVČANE NAKNADE PRIPADNIKU VOJSKE CRNE GORE -POSMATRAČU U MIROVNOJ MISIJI UJEDINJENIH NACIJA "UNMIL" U LIBERIJI
