@@ -1,0 +1,28 @@
+{
+  "id": 347978,
+  "path": "zakon/2009/347978",
+  "source": "https://www.sluzbenilist.me/propisi/347978",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/347978/download",
+  "title": "Zakon o izmjenama i dopunama Zakona o budzetu Crne Gore za 2009.godinu",
+  "issue": "Službeni list Crne Gore, broj 51/2009",
+  "published": "2009-08-04",
+  "in_force": "2009-08-04",
+  "in_force_basis": "Ovaj zakon stupa na snagu danom objavljivanja u “Službenom listu Crne Gore “",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "6456a8aea6e88054684a5674a1605b14c1e4a0b80dadc56ab15cb4e711f3e04a",
+  "articles_in_source": 59,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 92237,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "65d82d81b9dad6341865e6b91eeeb0f91aa0e721211a3323a82266d943d74523",
+  "enacted": "2009-07-27",
+  "enacted_basis": "Podgorica, 27.jula2009"
+}
