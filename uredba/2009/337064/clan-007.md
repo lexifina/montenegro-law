@@ -1,0 +1,2 @@
+# Član 7
+Danom stupanja na snagu ove uredbe prestaje da važi član 3 i stav 2 člana 5 Odluke o određivanju objekata ili djelova objekata i rejona uz objekte od posebnog značaja za odbranu ("Službeni list CG", broj 45/08) i član 2 Uredbe o utvrđivanju poslova od posebnog značaja za odbranu koji se u državnim organima i pravnim licima štite primjenom posebnih mjera bezbjednosti i kriterijuma za popunu radnih mjesta na kojima se ti poslovi obavljaju ("Službeni list CG", broj 36/08).
