@@ -1,0 +1,7 @@
+# Član 3
+Područje DUP-a obuhvata prostor ograničen:
+- sa južne strane: ulicom Žrtava fašizma od starog kotorskog puta do rijeke GrĎevice;
+- sa istočne strane: rijekom GrĎevicom do granice kat. parcela 107/1, 107/2, 107/3, sa jedne i kat. parcela 105, 102 i 101 KO Budva sa druge strane, te u pravcu sjevera siječe kat. parc. 100, 103, 97, 96, 95 i 93/1 sve KO Budva odnosno granicom DUP-a Podkošljun i UP-a "Stadion" (važeći plan);
+- sa sjeverne strane: iza objekta na kat. parceli 93/1 KO Budva i dalje granicom kat. parcele 93/1 sa jedne i kat. parcele 3065, 422/2, 427 i 428, sve KO Budva sa druge strane, nastavlja granicom katastarskih opština Budva i Maini i skreće granicom kat. parc. 466/1, KO Budva i dalje vododerinom do lomne tačke 1. sa koordinatama: y=569 366,53; dž=683 907,27 , zatim nastavlja pravcem lomnih tačaka: 2. sa koordinatama y=569 173,59; dž=683 540,99; 3. sa koordinatama y=569 100,73; dž=683 439,61; 4. sa koordinatama y= 569 026,15; dž=683 400,78; 5. sa koordinatama y=568 985,87; dž=683 397,12; i 6. sa koordinatama y= 568 986,15; dž=683 321,12;
+- sa zapadne strane: granicom katastarskih parcela 491/1, sa jedne i kat.parc. 1784, 1783, 1782 i 1780, sve KO Budva sa druge strane i dalje nastavlja granicom DUP-a Bijeli Do i DUP-a Dubovica I, odnosno ulicom koja je označena kao kat. parc. 3093/1 KO Budva, do starog kotorskog puta kat. parc. 3095 KO Budva i dalje istim do ulice Žrtava fašizma, gdje i završava.
+Ukupna površina zahvata DUP-a iznosi 60,92 ha.
