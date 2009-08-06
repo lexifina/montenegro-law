@@ -1,0 +1,2 @@
+793. Na osnovu člana 13. i člana 22. st.1. i 4. Zakona o putevima ("Sl. list RCG", br. 42/04), člana 45. i člana 51. stav 3. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06), člana 13. Odluke o opštinskim i nekategorisanim putevima ("Sl. list RCG - opštinski propisi", broj 11/07) i člana 33. Statuta Opštine Pljevlja ("Sl. list RCG - opštinski propisi", br. 37/04 i 30/07), Skupština opštine Pljevlja, na sjednici održanoj 10.07.2009. godine, donosi
+O D L U K U
