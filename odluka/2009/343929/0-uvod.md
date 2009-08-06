@@ -1,0 +1,2 @@
+803. Na osnovu člana 34. Statuta Opštine Plav, ("Sl. list RCG - opštinski propisi" br.17/07.), člana 145. stav 2. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06), i člana 13. Odluke o osnivanju Savjeta za razvoj i zaštitu lokalne samouprave ("Sl. list CG - opštinski propisi", br. 6/07), Skupština opštine Plav, na sjednici održanoj 10.07.2009. godine, donijela je
+O D L U K U
