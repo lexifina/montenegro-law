@@ -1,0 +1,2 @@
+Na osnovu člana 145 stav 2 Zakona o lokalnoj samoupravi ("Službeni list RCG" br 42/03, 28/04, 75/05 i 13/06), člana 143 stav 2 Statuta Prijestonice ("Službeni list CG-op- štinski propisi" br. 19/09) i člana 19 Odluke o Savjetu za razvoj i zaštitu lokalne samou- prave ("Službeni list RCG-opštinski propisi" br. 47/08), Skupština Prijestonice Cetinje na sjednici održanoj dana 23.07. 2009. godine donijela je
+O D L U K U
