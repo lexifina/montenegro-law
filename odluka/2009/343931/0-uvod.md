@@ -1,0 +1,2 @@
+Na osnovu člana 17 Zakona o upravljanju otpadom ("Sl.list RCG", br. 80/05 i Sl. list CG, br. 73/08), člana 45 Zakona o lokalnoj samoupravi ("Sl.list RCG",br. 42/03, 28/04, 75/05 i 13/06) i člana 31 Statuta Opštine Tivat ("Sl.list RCG",br. -opštinski propisi". Br. 40/04 i 26/06), uz prethodnu saglasnost Ministarstva turizma i zaštite životne sredine broj 01-299 od 15.06.2009. godine, Skupština Opštine Tivat, na sjednici održanoj dana 23.07. 2009.godine, donosi
+O D L U K U
