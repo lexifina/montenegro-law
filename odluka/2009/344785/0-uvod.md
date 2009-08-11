@@ -1,0 +1,2 @@
+Na osnovu čl. 62. Zakona o finansiranju lokalne samouprave ( Sl. list RCG" broj 42/03), člana 45. stav 1. tačka 15 . Zakona o lokalnoj samoupravi ( Sl.list RCG", br.42/03, 28/04, 75/05 i 13/06) i člana 31. stav 1. tačka 16. Statuta Opštine Bijelo Polje ("Sl. list RCG - opštinski propisi" broj 25/04 i 33/06), Skupština opštine Bijelo Polje, na sjednici održanoj dana 17.07. 2009. godine, donijela je:
+O D L U K U O
