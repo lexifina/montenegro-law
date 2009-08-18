@@ -1,0 +1,5 @@
+# Član 3
+## Zahtjev i dokazi za ostvarivanje prava
+Zahtjev za ostvarivanje prava na profesionalnu rehabilitaciju, pored lica iz člana 13 Zakona o profesionalnoj rehabilitaciji i zapošljavanju lica sa invaliditetom (u daljem tekstu: Zakon), može za nezaposleno lice sa invaliditetom podnijeti savjetnik za rehabiliticiju područne jedinice Zavoda za zapošljavanje Crne Gore (u daljem tekstu: Zavod), uz njegovu saglasnost, a za zaposleno lice sa invaliditetom, poslodavac uz saglasnost tog lica.
+Zahtjev iz stava 1 ovog člana, podnosi se područnoj jedinici Zavoda, prema mjestu prijavljivanja na evidenciju nezaposlenog lica sa invaliditetom, odnosno mjestu rada zaposlenog lica sa invaliditetom.
+Uz zahtjev iz stava 1 ovog člana, podnosi se dokaz o ostvarenom statusu lica sa invaliditetom, u smislu člana 6 Zakona, kao i nalazi i mišljenja stručnih lica, kojim se dokazuje, da pored zdravstvenih smetnji, lice sa invaliditetom ima obrazovne, psihološke, socio-ekonomske ili druge smetnje, koje umanjuju mogućnost zapošljavanja odnosno zadržavanja postojećeg zaposlenja ili napredovanja u njemu.

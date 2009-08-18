@@ -1,0 +1,7 @@
+# Član 4
+## Nadležni organ za davanje mišljenja
+Zahtjev i dokaze iz člana 3 ovog pravilnika, savjetnik za rehabilitaciju dostavlja prvostepenoj komisiji iz člana 8 stav 3 Zakona (u daljem tekstu: Komisija).
+Komisija iz stava 1 ovog člana ocjenjuje potrebu uključivanja lica sa invaliditetom u mjere i aktivnosti profesionalne rehabilitacije, na osnovu Liste stepenovanja smetnji po utvrđenim kriterijumima, koja je odštampana uz ovaj pravilnik i čini njegov sastavni dio (Prilog 1).
+Ako Komisija ocijeni, da na osnovu dostavljene dokumentacije ne može dati mišljenje o umanjenoj radnoj sposobnosti lica sa invaliditetom iz člana 6 stav 1 tačka 1 do 5 Zakona, na osnovu koje bi se utvrdila potreba uključivanja tog lica u mjere i aktivnosti profesionalne rehabilitacije, savjetnik za rehabilitaciju ga upućuje izabranom izvođaču profesionalne rehabilitacije iz člana 14 Zakona ( u daljem tekstu: izvođač profesionalne rehabilitacije), koji nalaz i ocjenu o njegovim radnim sposobnostima dostavlja Komisiji, radi davanja konačnog mišljenja o potrebi uključivanja tog lica u mjere i aktivnosti profesionalne rehabilitacije.
+Komisija iz stava 1 ovog člana daje mišljenje o potrebi uključivanja lica iz člana 6 stav 1 tačka 6 Zakona, na profesionalnu rehabilitaciju nakon utvrđene preostale radne sposobnosti tih lica, u smislu Pravilnika o uslovima i kriterijumima za utvrđivanje preostale radne sposobnosti i mogućnost zaposlenja.
+Mišljenje Komisije iz stava 3 ovog člana daje se na propisanom obrascu, koji je sastavni dio ovog pravilnika.
