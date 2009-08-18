@@ -1,0 +1,4 @@
+# Član 5
+Prilikom prijema i vođenja postupka po podnijetom zahtjevu ili prigovoru, energetski subjekat je dužan da dosljedno primijeni odredbe Zakona o opštem upravnom postupku, da odluči po zahtjevu u zakonom propisanom roku, bez odugovlačenja i sa što manje troškova za podnosica zahtjeva, kao i da omogući kvalitetno ostvarivanje njegovih prava i pravnih interesa.
+Nakon sprovedenog postupka energetski subjekat donosi rješenje, u formi i sadržini utvrđenim odredbama Zakona o opštem upravnom postupku, sa pravnim osnovom donošenja, jasnom izrekom o predmetu podneska, obrazloženjem i pravnom poukom podnosiocu.
+Izuzetno od prethodnog stava ovog člana, energetski subjekat u jednostavnim stvarima, kada se zahtjev kupca uvažava, odgovor može dati na unaprijed pripremljenom obrascu, sa kratkim navođenjem zahtjeva stranke i pozivanjem na materijalne propise na osnovu kojih je predmetna stvar riješena.
