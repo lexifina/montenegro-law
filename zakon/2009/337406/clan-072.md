@@ -1,0 +1,5 @@
+# Član 72
+(1) Inspekcijski nadzor nad sprovođenjem ovog zakona i propisa donesenih na osnovu ovog zakona vrši Ministarstvo, preko poljoprivrednih inspektora.
+(2) Inspekcijski nadzor nad sprovođenjem ovog zakona i drugih propisa koji se odnose na proizvodnju i promet poljoprivrednih proizvoda i hrane životinjskog porijekla i hrane za životinje vrši organ uprave nadležan za poslove veterinarstva, preko veterinarskih inspektora, u skladu sa zakonom.
+(3) Inspekcijski nadzor nad sprovođenjem ovog zakona i drugih propisa koji se odnose na proizvodnju i promet poljoprivrednih proizvoda i hrane biljnog porijekla na nivou primarne poljoprivredne proizvodnje vrši organ uprave nadležan za fitosanitarne poslove preko fitosanitarnih inspektora, u skladu sa zakonom.
+(4) Inspekcijski nadzor nad sprovođenjem ovog zakona i drugih propisa koji se odnose na proizvodnju i promet poljoprivrednih proizvoda i hrane biljnog porijekla nakon primarne poljoprivredne proizvodnje vrši organ državne uprave nadležan za poslove zdravlja, preko sanitarnih inspektora, u skladu sa zakonom.
