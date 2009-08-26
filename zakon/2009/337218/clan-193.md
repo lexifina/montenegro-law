@@ -1,0 +1,3 @@
+# Član 193
+## Lično dostavljanje
+Pismeno za koje je u ovom zakoniku određeno da se ima lično dostaviti predaje se neposredno licu kome je upućeno. Ako se lice kome se pismeno mora lično dostaviti ne zatekne tamo gdje se dostavljanje ima izvršiti, dostavljač će se obavijestiti kad i na kojem mjestu može to lice da zatekne i ostaviće mu kod jednog od lica iz člana 194 stav 1 ovog zakonika pisano obavještenje da, radi primanja pismena, bude u određeni dan i čas u svom stanu ili na svom radnom mjestu. Ako i poslije toga dostavljač ne zatekne lice kome se dostavljanje ima izvršiti, postupiće u skladu sa članom 194 stav 1 ovog zakonika i smatra se da je time dostavljanje izvršeno.

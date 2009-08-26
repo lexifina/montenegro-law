@@ -1,0 +1,3 @@
+# Član 284
+## Obaveza čuvanja tajne u istrazi
+Ako to zahtijevaju interesi krivičnog postupka, interesi čuvanja tajni, interesi javnog reda, morala ili zaštite ličnog ili porodičnog života oštećenog ili okrivljenog, službeno lice koje preduzima dokaznu radnju narediće licima koja saslušava ili koja prisustvuju dokaznim radnjama ili razgledaju spise istrage da čuvaju kao tajnu određene činjenice ili podatke koje su tom prilikom saznala i ukazaće im da odavanje tajne predstavlja krivično djelo. Ova naredba unijeće se u zapisnik o dokaznoj radnji, odnosno zabilježiće se na spisima koji se razgledaju, uz potpis lica koje je upozoreno.

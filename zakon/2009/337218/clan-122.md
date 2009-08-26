@@ -1,0 +1,5 @@
+# Član 122
+## Odlučivanje o posebnom načinu učestvovanja i saslušanja svjedoka i zaštita podataka
+(1) Rješenje o posebnom načinu učestvovanja i saslušanja zaštićenog svjedoka u istrazi donosi sudija za istragu, na predlog svjedoka, okrivljenog, branioca ili državnog tužioca, a na glavnom pretresu vijeće. Predlog mora da bude obrazložen.
+(2) Prije donošenja rješenja sudija za istragu će ocijeniti da li je iskaz svjedoka od takvog značaja da mu se odredi status zaštićenog svjedoka. Radi utvrđivanja tih činjenica sudija za istragu može da odredi ročište na koje će pozvati državnog tužioca i svjedoka.
+(3) Podaci o svjedoku koji će na poseban način učestvovati u postupku zapečatiće se u poseban omot i čuvati kod sudije za istragu. Na omot će se staviti naznaka "zaštićeni svjedok - tajna". Omot može otvoriti samo vijeće koje sudi na glavnom pretresu i drugostepeni sud u postupku po žalbi, ali će zabilježiti da je otvaran uz navođenje članova vijeća koji su upoznati sa njegovom sadržinom. Nakon toga omot će se ponovo zapečatiti i vratiti sudiji za istragu.

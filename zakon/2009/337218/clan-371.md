@@ -1,0 +1,4 @@
+# Član 371
+## Meritorne i procesne presude
+(1) Presudom se optužba odbija ili se optuženi oslobađa od optužbe ili se oglašava krivim.
+(2) Ako optužba obuhvata više krivičnih djela, u presudi će se izreći da li se i za koje djelo optužba odbija ili se optuženi oslobađa od optužbe ili se oglašava krivim.

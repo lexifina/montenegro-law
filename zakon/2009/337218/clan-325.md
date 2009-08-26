@@ -1,0 +1,4 @@
+# Član 325
+## Nedolazak branioca
+(1) Ako na glavni pretres ne dođe branilac koji je uredno pozvan, a ne obavijesti sud o razlogu spriječenosti čim je za ovaj razlog saznao ili ako branilac, bez odobrenja, napusti glavni pretres, optuženi će se pozvati da odmah uzme drugog branioca. Ako optuženi to ne učini, vijeće može odlučiti da se glavni pretres održi i bez prisustva branioca, ako se optuženi sa tim saglasi. Ako u slučaju obavezne odbrane ne postoji mogućnost da optuženi odmah uzme drugog branioca, odnosno da ga sud postavi bez štete za odbranu, glavni pretres će se odložiti.
+(2) Uredno pozvanog branioca čiji je neopravdani nedolazak doveo do odlaganja glavnog pretresa vijeće će kazniti novčanom kaznom do 1.000 € i obavezati da plati troškove odlaganja glavnog pretresa. Rješenje o tome sa kratkim obrazloženjem unosi se u zapisnik o glavnom pretresu.

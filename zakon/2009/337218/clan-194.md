@@ -1,0 +1,4 @@
+# Član 194
+## Posredno dostavljanje
+(1) Pismena za koja u ovom zakoniku nije određeno da se moraju lično dostaviti, ako se ne mogu neposredno predati licu kome su upućena, odnosno ako se primalac ne zatekne u stanu, mogu se predati nekome od njegovih odraslih članova domaćinstva, koji je dužan da primi pismeno. Ako se oni ne zateknu u stanu, pismeno će se predati upravniku stambene zgrade, odnosno ulaza ili susjedu, ako na to pristanu. Ako se dostavljanje vrši na radnom mjestu lica kome se pismeno ima dostaviti, a to lice se tu ne zatekne, dostavljanje se može izvršiti licu ovlašćenom za prijem pošte koje je dužno da primi pismeno ili licu koje je zaposleno na istom mjestu, ako ono pristane da primi pismeno.
+(2) Ako se utvrdi da je lice kome se pismeno ima dostaviti odsutno i da mu lica iz stava 1 ovog člana zbog toga ne mogu pismeno na vrijeme predati, pismeno će se vratiti uz naznačenje gdje se odsutni nalazi.

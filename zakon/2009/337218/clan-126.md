@@ -1,0 +1,5 @@
+# Član 126
+## Upozorenje svjedoku saradniku
+(1) Prije podnošenja predloga iz člana 125 stav 1 ovog zakonika, državni tužilac će opomenuti i upozoriti lice koje se predlaže za svjedoka saradnika na dužnosti iz člana 113 stav 2 ovog zakonika. Na oslobađanje od dužnosti svjedočenja iz člana 109 ovog zakonika i pravo da ne odgovara na pojedina pitanja iz člana 111 ovog zakonika, svjedok saradnik se ne može pozvati.
+(2) Opomena i upozorenje iz člana 113 stav 2 ovog zakonika, odgovori lica koje se predlaže za svjedoka saradnika i njegova izjava da će dati iskaz o svemu što mu je poznato i da neće ništa prećutati, državni tužilac će unijeti u zapisnik koji potpisuje to lice. Ako lice koje se predlaže za svjedoka saradnika ne govori crnogorski jezik, obezbijediće se prevod zapisnika na njegov jezik, nakon čega to lice potpisuje zapisnik. Zapisnik se prilaže uz predlog iz člana 125 stav 1 ovog zakonika.
+(3) Ako državni tužilac ocijeni da postoje uslovi da se okrivljeni koji se nalazi u pritvoru predloži kao svjedok saradnik, sud će omogućiti državnom tužiocu da radi izvođenja radnji iz st. 1 i 2 ovog člana ostvari kontakt sa okrivljenim.

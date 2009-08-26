@@ -1,0 +1,5 @@
+# Član 466
+## Sadržaj rješenja o sudskoj opomeni
+(1) Rješenje o sudskoj opomeni objavljuje se odmah po završetku glavnog pretresa, sa bitnim razlozima. Tom prilikom okrivljeni će se upozoriti da mu se za krivično djelo koje je učinio ne izriče kazna, jer se očekuje da će i sudska opomena na njega dovoljno uticati da više ne vrši krivična djela. Ako se rješenje o sudskoj opomeni objavljuje u odsustvu okrivljenog, sud će ovo upozorenje unijeti u obrazloženje rješenja. Na odricanje od prava na žalbu i pisanu izradu rješenja shodno se primjenjuje odredba člana 458 stav 7 ovog zakonika.
+(2) U dispozitivu rješenja o sudskoj opomeni, pored ličnih podataka o okrivljenom, navešće se samo da se okrivljenom izriče sudska opomena za djelo koje je predmet optužbe i zakonski naziv krivičnog djela. Dispozitiv rješenja o sudskoj opomeni obuhvata i podatke iz člana 374 stav 1 tač. 5 i 7 ovog zakonika.
+(3) U obrazloženju rješenja sud će iznijeti kojim se razlozima rukovodio prilikom izricanja sudske opomene.

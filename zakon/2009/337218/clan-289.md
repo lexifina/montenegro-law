@@ -1,0 +1,4 @@
+# Član 289
+## Pribavljanje podataka o okrivljenom
+(1) Državni tužilac će prije završene istrage pribaviti podatke o okrivljenom iz člana 100 stav 1 ovog zakonika, ako nedostaju ili ih treba provjeriti, kao i podatke o ranijim osudama okrivljenog, a ako okrivljeni još izdržava kaznu ili drugu sankciju koja je vezana za lišenje slobode i podatke o njegovom ponašanju za vrijeme izdržavanja kazne ili druge sankcije. Po potrebi, državni tužilac će pribaviti podatke o ranijem životu okrivljenog i o prilikama u kojima živi, kao i o drugim okolnostima koje se tiču njegove ličnosti. Državni tužilac može odrediti zdravstvene preglede ili psihološka ispitivanja okrivljenog kad je potrebno da se dopune podaci o ličnosti okrivljenog.
+(2) Ako dolazi u obzir izricanje jedinstvene kazne kojom će se obuhvatiti i kazne iz ranijih presuda, državni tužilac će zatražiti ovjerene prepise pravosnažnih presuda.

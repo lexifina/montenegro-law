@@ -1,0 +1,7 @@
+# Član 182
+## Prava pritvorenog lica
+(1) Pritvoreno lice ima pravo na neprekidni noćni odmor svakog dana u trajanju od najmanje osam sati.
+(2) Pritvorenom licu će se obezbijediti kretanje na otvorenom prostoru u krugu zatvora u trajanju od najmanje dva sata dnevno.
+(3) Pritvoreno lice ima pravo da nosi svoje odijelo, da se služi svojom posteljinom ili da o svom trošku nabavlja i koristi hranu, knjige, stručne publikacije, štampu, pribor za pisanje i crtanje i druge stvari koje odgovaraju njegovim redovnim potrebama, osim predmeta podobnih za nanošenje povreda, narušavanje zdravlja ili pripremu bjekstva.
+(4) Za vrijeme trajanja istrage sudija za istragu može, po službenoj dužnosti ili na predlog državnog tužioca, pritvorenom licu rješenjem privremeno uskratiti ili ograničiti nabavku i korišćenje štampe, ako bi usljed toga mogla da nastane šteta za vođenje postupka. Protiv rješenja sudije za istragu dozvoljena je žalba vijeću iz člana 24 stav 7 ovog zakonika.
+(5) Pritvoreno lice se može obavezati da obavlja radove nužne za održavanje čistoće u prostoriji u kojoj boravi. Ako pritvoreno lice to zahtijeva, sudija za istragu, odnosno predsjednik vijeća, u sporazumu sa upravom zatvora, može dozvoliti da on radi u krugu zatvora na poslovima koji odgovaraju njegovim psihičkim i fizičkim svojstvima, pod uslovom da to nije štetno za vođenje postupka. Za taj rad pritvorenom licu pripada naknada koju određuje lice koje rukovodi zatvorom.

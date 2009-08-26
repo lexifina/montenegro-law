@@ -1,0 +1,5 @@
+# Član 423
+## Ponavljanje postupka okončanog rješenjem
+(1) Ako je mimo slučajeva iz člana 422 ovog zakonika krivični postupak pravosnažno obustavljen u istrazi ili prije početka glavnog pretresa, po optužbi ovlašćenog tužioca, ponavljanje krivičnog postupka može se dozvoliti u skladu sa članom 428 stav 3 ovog zakonika, kad se podnesu novi dokazi na osnovu kojih se sud može uvjeriti da su se stekli uslovi za ponovno pokretanje krivičnog postupka.
+(2) Krivični postupak pravosnažno obustavljen do početka glavnog pretresa može se ponoviti kad je državni tužilac odustao od gonjenja, a oštećeni gonjenje nije preduzeo, ako se dokaže da je do odustanka došlo usljed krivičnog djela zloupotrebe službenog položaja državnog tužioca. Na dokazivanje da je državni tužilac učinio krivično djelo zloupotreba službenog položaja primjenjuje se odredba člana 424 stav 2 ovog zakonika.
+(3) Ako je postupak obustavljen zbog toga što je oštećeni kao tužilac odustao od gonjenja ili što se po zakoniku smatra da je odustao, oštećeni kao tužilac ne može tražiti ponavljanje postupka.

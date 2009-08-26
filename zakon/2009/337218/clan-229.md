@@ -1,0 +1,6 @@
+# Član 229
+## Troškovi postupka kad je okrivljeni oglašen krivim
+(1) Kad sud okrivljenog oglasi krivim izreći će u presudi da je dužan da naknadi troškove krivičnog postupka, koji su unaprijed isplaćeni iz sredstava iz člana 226 stav 4 ovog zakonika, kao i troškove privatnog tužioca, oštećenog kao tužioca i njihovih zakonskih zastupnika i nagradu i nužne izdatke njihovih punomoćnika.
+(2) Lice koje je okrivljeno za više krivičnih djela neće se osuditi na naknadu troškova u pogledu djela za koja je oslobođeno od optužbe, ukoliko se ti troškovi mogu izdvojiti iz ukupnih troškova.
+(3) U presudi kojom je više okrivljenih oglašeno krivim sud će odrediti koliki će dio troškova snositi svaki od njih, a ako to nije moguće, osudiće sve okrivljene da solidarno snose troškove. Plaćanje paušalnog iznosa odrediće se za svakog okrivljenog posebno.
+(4) U odluci kojom rješava o troškovima sud može osloboditi okrivljenog od dužnosti da naknadi u cjelini ili djelimično troškove krivičnog postupka iz člana 226 stav 2 tač. 1 do 6 i tačka 9 ovog zakonika, ako bi njihovim plaćanjem bilo dovedeno u pitanje izdržavanje okrivljenog ili lica koja je on dužan da izdržava. Ako se ove okolnosti utvrde poslije donošenja odluke o troškovima, predsjednik vijeća može, posebnim rješenjem, osloboditi okrivljenog od dužnosti naknade troškova krivičnog postupka.

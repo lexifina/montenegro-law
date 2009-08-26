@@ -1,0 +1,6 @@
+# Član 490
+(1) Kad je uslovnom osudom određeno da će se kazna izvršiti ako osuđeni ne vrati imovinsku korist, ne naknadi štetu ili ne ispuni druge obaveze, a osuđeni u određenom roku nije ispunio te obaveze, sud koji je sudio u prvom stepenu sprovešće postupak za opozivanje uslovne osude na predlog ovlašćenog tužioca ili po službenoj dužnosti.
+(2) Sudija koji za to bude određen saslušaće osuđenog, ako je dostupan i sprovešće potrebne radnje radi utvrđivanja činjenica i prikupljanja dokaza važnih za odluku.
+(3) Poslije toga će predsjednik vijeća zakazati sjednicu vijeća, o kojoj će obavijestiti tužioca, osuđenog i oštećenog. Nedolazak stranaka i oštećenog, ako su uredno obaviješteni, ne sprječava održavanje sjednice vijeća.
+(4) Ako sud utvrdi da osuđeni nije ispunio obavezu koja mu je bila određena presudom, donijeće presudu kojom će opozvati uslovnu osudu i odrediti da se utvrđena kazna izvrši ili odrediti novi rok za ispunjenje obaveze ili ukinuti taj uslov ili određenu obavezu zamijeniti drugom obavezom. Ako sud nađe da nema osnova za donošenje neke od tih odluka, rješenjem će obustaviti postupak za opozivanje uslovne osude.
+(5) Protiv presude iz stava 4 ovog člana žalbu može izjaviti i oštećeni, ako se presudom dira u njegove interese.

@@ -1,0 +1,10 @@
+# Član 210
+## Čitanje, odnosno uvid u zapisnik i potpisivanje zapisnika
+(1) Saslušano lice, lica koja obavezno prisustvuju radnjama u postupku, kao i stranke, branilac i oštećeni, ako su prisutni, imaju pravo da pročitaju zapisnik ili da zahtijevaju da im se pročita. Na to je dužno da ih upozori lice koje preduzima radnju, a u zapisnik će se naznačiti da li je upozorenje dato i da li je zapisnik pročitan. Zapisnik će se uvijek pročitati ako nije bilo zapisničara i to će se naznačiti u zapisniku.
+(2) Zapisnik potpisuje saslušano lice. Ako se zapisnik sastoji od više listova, saslušano lice potpisuje svaki list. Ako saslušano lice odbije da potpiše zapisnik ili da stavi otisak prsta, to će se zabilježiti u zapisnik i navešće se razlog odbijanja.
+(3) Na kraju zapisnika potpisaće se tumač, ako ga je bilo, svjedoci čije je prisustvo obavezno prilikom preduzimanja dokaznih radnji, a prilikom pretresanja i lice koje se pretresa ili čiji se stan pretresa. Ako zapisnik piše lice iz člana 207 stav 3 ovog zakonika, zapisnik potpisuju lica koja prisustvuju radnji. Ako takvih lica nema ili nijesu u stanju da shvate sadržinu zapisnika, zapisnik potpisuju dva svjedoka, osim ako nije moguće da se obezbijedi njihovo prisustvo.
+(4) Nepismeno lice, umjesto potpisa, stavlja otisak kažiprsta desne ruke, a zapisničar će ispod otiska upisati njegovo ime i prezime. Ako se, usljed nemogućnosti da se stavi otisak desnog kažiprsta, stavlja otisak nekog drugog prsta ili otisak prsta lijeve ruke, u zapisniku će se naznačiti od kojeg je prsta i sa koje ruke uzet otisak.
+(5) Ako saslušano lice nema obje ruke, pročitaće zapisnik, a ako je nepismeno, zapisnik će mu se pročitati i to će se zabilježiti u zapisnik.
+(6) Ako se radnja nije mogla obaviti bez prekida, u zapisniku će se naznačiti dan i čas kad je nastao prekid, kao i dan i čas kad se radnja nastavlja.
+(7) Ako je bilo prigovora u pogledu sadržine zapisnika, navešće se u zapisnik i ti prigovori.
+(8) Zapisnik na kraju potpisuje lice koje je preduzelo radnju i zapisničar.

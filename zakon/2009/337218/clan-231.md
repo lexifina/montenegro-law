@@ -1,0 +1,4 @@
+# Član 231
+## Nagrada i nužni izdaci branioca
+(1) Nagradu i nužne izdatke branioca i punomoćnika privatnog tužioca ili oštećenog dužno je da plati zastupano lice, bez obzira ko je po odluci suda dužan da snosi troškove krivičnog postupka, osim ako se po odredbama ovog zakonika nagrada i nužni izdaci branioca isplaćuju iz posebnog razdjela budžeta za rad sudova. Ako je okrivljenom bio postavljen branilac, a plaćanjem nagrade i nužnih izdataka bi bilo dovedeno u pitanje izdržavanje okrivljenog ili izdržavanje lica koje je on obavezan da izdržava, nagrada i nužni izdaci branioca isplatiće se iz posebnog razdjela budžeta za rad sudova. Na isti način će se postupiti i kad je oštećenom kao tužiocu bio postavljen punomoćnik.
+(2) Punomoćnik koji nije advokat ili advokatski pripravnik nema pravo na nagradu, već samo na naknadu nužnih izdataka.

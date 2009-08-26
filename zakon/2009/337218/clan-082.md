@@ -1,0 +1,5 @@
+# Član 82
+## Oduzimanje drugih predmeta po osnovu naredbe o pretresanju
+(1) Ako se prilikom pretresanja stana ili lica nađu predmeti koji nemaju veze sa krivičnim djelom zbog kojeg je pretresanje naređeno, ali koji ukazuju na drugo krivično djelo za koje se goni po službenoj dužnosti, oni će se opisati u zapisniku i privremeno oduzeti, a o oduzimanju će se odmah izdati potvrda.
+(2) Ako pretresanju nije prisustvovao nadležni državni tužilac, on će se odmah obavijestiti o pronalasku predmeta iz stava 1 ovog člana, radi pokretanja krivičnog postupka. Ovi predmeti će se odmah vratiti, ako državni tužilac nađe da nema osnova za pokretanje krivičnog postupka, a ne postoji drugi zakonski osnov po kome bi se ti predmeti mogli oduzeti.
+(3) Ako se kod pretresanja računara i sličnih uređaja za automatsku obradu podataka oduzmu određeni predmeti, oni će se odmah vratiti svojim korisnicima, ako nijesu potrebni za vođenje postupka. Lični podaci prikupljeni pretresanjem mogu se koristiti samo u svrhu vođenja krivičnog postupka i izbrisaće se čim ta svrha prestane.

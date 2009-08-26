@@ -1,0 +1,4 @@
+# Član 162
+## Obavještavanje lica prema kome je preduzeta mjera tajnog nadzora u slučaju kad ne dođe do pokretanja krivičnog postupka
+(1) Prije nego što se uništi materijal dobijen izvršenjem mjera tajnog nadzora u slučajevima iz člana 160 st. 7 i 8 ovog zakonika, sudija za istragu će obavijestiti lice prema kome je mjera preduzeta, a to lice ima pravo uvida u prikupljeni materijal.
+(2) Ako postoji osnovana bojazan da bi obavještavanje lica iz stava 1 ovog člana ili uvid u dobijeni materijal moglo da predstavlja ozbiljnu opasnost po život i zdravlje ljudi ili bi moglo ugroziti neku od istraga koje su u toku ili iz drugih opravdanih razloga, sudija za istragu, po pribavljenom mišljenju državnog tužioca, može odlučiti da ne obavještava lice prema kome je preduzeta mjera i da mu ne dozvoli uvid u dobijeni materijal.

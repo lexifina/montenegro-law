@@ -1,0 +1,7 @@
+# Član 60
+## Nastavljanje gonjenja na glavnom pretresu i povraćaj u pređašnje stanje
+(1) Kad državni tužilac odustane od optužnice na glavnom pretresu, oštećeni je dužan da se odmah izjasni da li hoće da nastavi gonjenje.
+(2) Ako oštećeni nije prisutan na glavnom pretresu, a uredno je pozvan ili mu se poziv nije mogao uručiti zbog neprijavljivanja sudu promjene adrese ili boravišta smatraće se da neće da nastavi gonjenje.
+(3) Predsjednik vijeća prvostepenog suda dozvoliće povraćaj u pređašnje stanje oštećenom koji nije uredno pozvan ili je uredno pozvan, a iz opravdanih razloga nije mogao doći na glavni pretres na kojem je donesena presuda kojom se optužba odbija zbog odustanka državnog tužioca od optužnice, ako oštećeni u roku od osam dana od prijema presude podnese molbu za povraćaj u pređašnje stanje i ako u toj molbi izjavi da nastavlja gonjenje. U ovom slučaju zakazaće se ponovo glavni pretres i presudom donesenom na osnovu novog glavnog pretresa ukinuće se ranija presuda. Ako uredno pozvani oštećeni kao tužilac ne dođe na novi glavni pretres ili prije početka pretresa izjavi da odustaje od gonjenja, ranija presuda ostaje na snazi.
+(4) Na povraćaj u pređašnje stanje iz stava 3 ovog člana primijeniće se odredbe člana 57 st. 3 i 4 ovog zakonika.
+(5) Presuda kojom se optužba odbija, izrečena u slučaju iz stava 2 ovog člana, postaje pravosnažna kad isteknu rokovi za podnošenje molbe za povraćaj u pređašnje stanje.

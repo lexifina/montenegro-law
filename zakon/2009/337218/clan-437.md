@@ -1,0 +1,5 @@
+# Član 437
+## Razlozi za podizanje zahtjeva za zaštitu zakonitosti
+(1) Protiv pravosnažnih sudskih odluka i protiv sudskog postupka koji je prethodio tim pravosnažnim odlukama Vrhovno državno tužilaštvo može podići zahtjev za zaštitu zakonitosti, ako je povrijeđen zakon.
+(2) Zahtjev iz stava 1 ovog člana Vrhovno državno tužilaštvo može podići i kad je odlukom Evropskog suda za ljudska prava ili drugog suda osnovanog potvrđenim međunarodnim ugovorom utvrđeno da su u toku krivičnog postupka povrijeđena ljudska prava i osnovne slobode i da je sudska odluka zasnovana na takvoj povredi, a nadležni sud nije dozvolio ponavljanje krivičnog postupka ili se povreda učinjena sudskom odlukom može otkloniti ukidanjem odluke ili njenim preinačenjem, a bez ponovnog vođenja postupka.
+(3) Zahtjev iz stava 1 ovog člana Vrhovno državno tužilaštvo može podići i kad je sudska odluka zasnovana na zakonu ili drugom propisu koji je prestao da važi na osnovu odluke Ustavnog suda, ukoliko sud nije dozvolio ponavljanje krivičnog postupka ili se povreda učinjena u sudskoj odluci može otkloniti ukidanjem odluke ili njenim preinačenjem, a bez ponavljanja postupka.

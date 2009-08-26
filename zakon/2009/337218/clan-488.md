@@ -1,0 +1,4 @@
+# Član 488
+## Sadržaj rješenja o trajnom oduzimanju imovine
+(1) Rješenje iz člana 487 stav 3 ovog zakonika sadrži podatke o osuđenom, njegovom pravnom sljedbeniku ili licu na koje je osuđeni prenio imovinu, o imovini koja se oduzima i odluku o troškovima staranja i upravljanja privremeno oduzetom imovinom iz člana 96 ovog zakonika. Ako bi se oduzimanjem imovine dovelo u pitanje izdržavanje osuđenog, njegovog pravnog sljedbenika ili lica na koje je osuđeni prenio imovinu ili lica koja su oni, u skladu sa zakonom, dužni da izdržavaju, tim rješenjem će se dio imovine izuzeti od oduzimanja.
+(2) Rješenje o trajnom oduzimanju imovine dostavlja se osuđenom, njegovom pravnom sljedbeniku ili licu na koje je osuđeni prenio imovinu, njegovom punomoćniku, državnom tužiocu i državnom organu koji u skladu sa zakonom upravlja oduzetom imovinom.

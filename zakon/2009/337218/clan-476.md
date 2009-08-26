@@ -1,0 +1,4 @@
+# Član 476
+## Postupak u slučaju predloga za izricanje mjere bezbjednosti obavezno liječenje alkoholičara ili obavezno liječenje narkomana
+(1) O izricanju mjere bezbjednosti obavezno liječenje alkoholičara i obavezno liječenje narkomana sud odlučuje nakon što pribavi nalaz i mišljenje vještaka. Vještak treba da se izjasni i o mogućnostima liječenja okrivljenog.
+(2) Ako je uslovnom osudom učiniocu određeno liječenje na slobodi, a on se nije podvrgao liječenju ili ga je samovoljno napustio, sud može, po službenoj dužnosti ili na predlog ustanove u kojoj se učinilac liječio ili je trebalo da se liječi, a po saslušanju državnog tužioca i učinioca, odrediti opozivanje uslovne osude ili prinudno izvršenje izrečene mjere obavezno liječenje alkoholičara ili obavezno liječenje narkomana u zdravstvenoj ustanovi ili drugoj specijalizovanoj ustanovi. Prije donošenja odluke sud će, po potrebi, pribaviti i mišljenje vještaka.

@@ -1,0 +1,11 @@
+# Član 81
+## Pravila pretresanja
+(1) Držalac stana i drugih prostorija pozvaće se da prisustvuje pretresanju, a ako je on odsutan, pozvaće se njegov zastupnik ili neko od odraslih ukućana ili susjeda.
+(2) Zaključane prostorije, namještaj ili druge stvari otvoriće se silom samo ako njihov držalac nije prisutan ili neće dobrovoljno da ih otvori. Prilikom otvaranja izbjegavaće se nepotrebno oštećenje.
+(3) Pretresanju stana ili lica prisustvuju dva punoljetna građanina kao svjedoci, osim ako postoje razlozi iz člana 83 stav 4 ovog zakonika. Pretresanje lica vrši lice istog pola, a za svjedoka se uzima lice istog pola. Svjedoci će se prije početka pretresanja upozoriti da paze na tok pretresanja, kao i da imaju pravo da prije potpisivanja zapisnika o pretresanju stave svoje prigovore, ako smatraju da sadržina zapisnika nije tačna.
+(4) Kad se pretresaju prostorije državnog organa, privrednog društva ili drugog pravnog lica, pozvaće se njihov rukovodilac da prisustvuje pretresanju.
+(5) Pretresanje i pregledi u vojnoj zgradi izvšiće se po odobrenju nadležnog vojnog starješine i uz prisustvo lica koje on odredi.
+(6) Ako se pretresanje mora izvršiti na brodu ili vazduhoplovu, naredba o pretresanju će se predati zapovjedniku broda, odnosno vazduhoplova. Zapovjednik broda, odnosno vazduhoplova ili lice koje on odredi prisustvuje pretresanju.
+(7) Pretresanje stana i lica treba vršiti obazrivo, uz poštovanje ljudskog dostojanstva i prava na privatnost, bez nepotrebnog remećenja kućnog reda i uznemiravanja građana.
+(8) O pretresanju sastaviće se zapisnik, koji potpisuju lice kod koga se ili na kome se pretresanje vrši i lica čije je prisustvo obavezno. Tok pretresanja se može audio ili audiovizuelno snimiti uz obraćanje posebne pažnje na mjesta na kojima su pronađena određena lica i predmeti. Mjesto pretresanja i njegovi pojedini dijelovi, kao i lica, odnosno predmeti pronađeni tokom pretresanja se mogu fotografisati. Audio, odnosno audiovizuelni snimak i fotografije se prilažu zapisniku o pretresanju i mogu služiti kao dokaz.
+(9) Prilikom pretresanja privremeno će se oduzeti samo oni predmeti i isprave koji su u vezi sa svrhom pretresanja. U zapisnik će se unijeti i tačno naznačiti predmeti i isprave koji se oduzimaju, što će se unijeti i u potvrdu koja će se odmah izdati licu kome su predmeti, odnosno isprave oduzete.

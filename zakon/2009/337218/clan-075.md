@@ -1,0 +1,5 @@
+# Član 75
+## Razlozi za pretresanje stana, drugih prostorija, pokretnih stvari i lica
+(1) Pretresanje stana i drugih prostorija okrivljenog ili drugih lica i njihovih pokretnih stvari izvan stana može se preduzeti ako postoje osnovi sumnje da će se pretresanjem okrivljeni uhvatiti ili da će se pronaći tragovi krivičnog djela ili predmeti važni za krivični postupak.
+(2) Pretresanje pokretnih stvari, u smislu stava 1 ovog člana, obuhvata i pretresanje računara i sličnih uređaja za automatsku obradu podataka koji su sa računarom povezani. Na zahtjev suda, lice koje se koristi računarom dužno je omogućiti pristup računaru i prenosivim medijima na kojima se čuvaju podaci koji se odnose na predmet pretresanja (diskovi, USB-fleš disk, USB-hard disk, diskete, trake i slično), kao i pružiti potrebna obavještenja za upotrebu računara. Lice koje to odbije iako za to ne postoje razlozi iz člana 111 ovog zakonika može biti kažnjeno u skladu sa članom 85 stav 3 ovog zakonika.
+(3) Pretresanje lica može se preduzeti kad postoje osnovi sumnje da će se pretresanjem pronaći tragovi i predmeti važni za krivični postupak.

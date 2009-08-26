@@ -1,0 +1,6 @@
+# Član 149
+## Sadržaj mišljenja vještaka i dužnosti vještaka prilikom pregleda i obdukcije leša
+(1) U svom mišljenju vještaci će naročito navesti koji je neposredni uzrok smrti, šta je taj uzrok izazvalo i kad je smrt nastupila.
+(2) Ako je na lešu nađena povreda, utvrdiće se da li je tu povredu nanio neko drugi i, ako jeste, onda čime, na koji način, koliko vremena prije nego što je smrt nastupila i da li je ona prouzrokovala smrt. Ako je na lešu nađeno više povreda, utvrdiće se da li je svaka povreda nanijeta istim sredstvom i koja je povreda prouzrokovala smrt, a ako je više povreda smrtonosnih, koja je od njih ili koje su svojim zajedničkim djelovanjem bile uzrok smrti.
+(3) U slučaju iz stava 2 ovog člana naročito će se utvrditi da li je smrt prouzrokovana samom vrstom i opštom prirodom povrede ili zbog ličnog svojstva ili naročitog stanja organizma povrijeđenog ili zbog slučajnih okolnosti ili okolnosti pod kojima je povreda nanijeta. Pored toga, utvrdiće se da li bi blagovremeno pružena pomoć mogla otkloniti smrt.
+(4) Vještak je dužan da obrati pažnju na nađeni biološki materijal (krv, pljuvačka, sperma, urin i dr.) i da ga opiše i sačuva za biološko vještačenje, ako ono bude određeno.

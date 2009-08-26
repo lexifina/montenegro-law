@@ -1,0 +1,8 @@
+# Član 155
+## Vještačenje poslovnih knjiga
+(1) Kad je potrebno vještačenje poslovnih knjiga, organ pred kojim se vodi postupak dužan je vještacima naznačiti u kom pravcu i u kom obimu treba obaviti vještačenje i koje činjenice i okolnosti treba utvrditi.
+(2) Ako je za vještačenje poslovnih knjiga privrednog društva, drugog pravnog lica ili preduzetnika nužno da se prethodno sredi njihovo knjigovodstvo, troškovi sređivanja knjigovodstva padaju na teret imaoca poslovnih knjiga.
+(3) Rješenje o sređivanju knjigovodstva donosi organ koji vodi postupak, na osnovu obrazloženog pisanog izvještaja vještaka kome je naloženo vještačenje poslovnih knjiga. U rješenju će se naznačiti i iznos koji je privredno društvo, drugo pravno lice ili preduzetnik dužno da položi sudu kao predujam za troškove sređivanja njegovog knjigovodstva. Protiv ovog rješenja nije dozvoljena žalba.
+(4) Nakon sređivanja knjigovodstva organ koji vodi krivični postupak donosi, na osnovu izvještaja vještaka, rješenje kojim utvrđuje visinu troškova nastalih usljed sređivanja knjigovodstva i određuje da te troškove snosi privredno društvo, drugo pravno lice ili preduzetnik čije je knjigovodstvo bilo predmet sređivanja. Na to rješenje može se izjaviti žalba u pogledu osnovanosti odluke o naknadi troškova i visine troškova. O žalbi rješava vijeće prvostepenog suda iz člana 24 stav 7 ovog zakonika.
+(5) Ukoliko troškovi i nagrada nijesu bili predujmljeni, oni će biti naplaćeni u korist organa koji ih je unaprijed isplatio vještacima.
+(6) Prije sprovođenja vještačenja iz stava 1 ovog člana obaviće se popis poslovnih knjiga i druge poslovne dokumentacije povezane sa poslovnim knjigama u prisustvu državnog tužioca ili ovlašćenog policijskog službenika.

@@ -1,0 +1,7 @@
+# Član 121
+## Posebni načini učestvovanja i saslušanja zaštićenog svjedoka
+(1) Posebni način učestvovanja i saslušanja svjedoka u krivičnom postupku je: saslušanje svjedoka pod pseudonimom, saslušanje uz pomoć tehničkih uređaja (zaštitni zid, uređaji za promjenu glasa, uređaji za prenos slike i zvuka) i slično.
+(2) Ako se posebni način saslušanja svjedoka u postupku odnosi samo na prikrivanje podataka iz člana 113 stav 3 ovog zakonika, saslušanje će se sprovesti pod pseudonimom, a u ostalom dijelu saslušanje će se sprovesti prema opštim odredbama ovog zakonika o saslušanju svjedoka.
+(3) Ako se posebni način učestvovanja i saslušanje svjedoka u postupku odnosi na prikrivanje podataka iz člana 113 stav 3 ovog zakonika i na prikrivanje lika svjedoka, saslušanje će se sprovesti posredstvom tehničkih uređaja za prenos slike i zvuka. Tehničkim uređajem rukuje stručno lice iz člana 282 stav 8 ovog zakonika. Lik i glas svjedoka tokom saslušanja će se izmijeniti. Tokom saslušanja svjedok će se nalaziti u prostoriji koja je odvojena od prostorije u kojoj se nalazi sudija za istragu i druga lica koja su prisutna saslušanju. Sudija za istragu će zabraniti svako pitanje čiji bi odgovor mogao da otkrije identitet svjedoka.
+(4) Nakon završenog saslušanja svjedok će potpisati zapisnik pseudonimom samo u prisustvu sudije za istragu i zapisničara.
+(5) Lica koja u bilo kom svojstvu saznaju podatke o svjedoku iz st. 2 i 3 ovog člana dužna su da ih čuvaju kao tajnu.

@@ -1,0 +1,6 @@
+# Član 258
+## Zadržavanje na mjestu izvršenja krivičnog djela i druge radnje
+(1) Ovlašćeni policijski službenik ima pravo da lice zatečeno na mjestu izvršenja krivičnog djela uputi državnom tužiocu ili da ga zadrži na mjestu izvršenja krivičnog djela do njegovog dolaska, ako bi to lice moglo dati podatke važne za krivični postupak i ako je vjerovatno da se njegovo saslušanje kasnije ne bi moglo izvršiti ili bi bilo skopčano sa znatnim odugovlačenjem ili drugim teškoćama. Zadržavanje ovog lica na mjestu izvršenja krivičnog djela ne može trajati duže od šest sati.
+(2) Kad je to neophodno radi utvrđivanja identiteta ili u drugim slučajevima od interesa za uspješno vođenje postupka, policija može fotografisati osumnjičenog i uzeti otiske njegovih prstiju, kao i preduzeti druge radnje potrebne za utvrđivanje identiteta, a uz prethodno odobrenje državnog tužioca i javno objaviti fotografiju osumnjičenog.
+(3) Ako je potrebno da se utvrdi od koga potiču otisci prstiju na pojedinim predmetima, policija može uzimati otiske prstiju od lica za koja postoji vjerovatnoća da su mogla doći u dodir s tim predmetima.
+(4) Lice prema kome je preduzeta neka od radnji iz ovog člana ima pravo da podnese pritužbu nadležnom državnom tužiocu ili neposredno višem organu policije.

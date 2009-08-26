@@ -1,0 +1,5 @@
+# Član 454
+## Pozivanje na glavni pretres
+(1) Sudija poziva na glavni pretres okrivljenog i njegovog branioca, tužioca, oštećenog i njihove zakonske zastupnike i punomoćnike, svjedoke, vještake i tumača, a po potrebi pribavlja i predmete koji treba da služe kao dokaz na glavnom pretresu.
+(2) Okrivljenom će se u pozivu naznačiti da na glavni pretres može doći sa dokazima za svoju odbranu ili da dokaze blagovremeno saopšti sudu kako bi se mogli pribaviti za glavni pretres. U pozivu će se okrivljeni upozoriti da će se glavni pretres održati i u njegovom odsustvu, ako za to postoje uslovi iz člana 457 ovog zakonika. Okrivljenom će se uz poziv dostaviti i optužni predlog, odnosno privatna tužba i poučiće se da ima pravo da uzme branioca, ali da se, u slučaju kad odbrana nije obavezna, zbog nedolaska branioca na glavni pretres ili uzimanja branioca tek na glavnom pretresu, glavni pretres ne mora odložiti.
+(3) Okrivljenom se poziv mora dostaviti tako da od dana dostavljanja poziva do dana glavnog pretresa ostane dovoljno vremena za pripremanje odbrane, a najmanje osam dana. Po pristanku okrivljenog ovaj rok se može skratiti.

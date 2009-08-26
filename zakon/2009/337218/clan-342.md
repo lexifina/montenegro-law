@@ -1,0 +1,4 @@
+# Član 342
+## Postavljanje pitanja optuženom
+(1) Nakon što optuženi iznese odbranu mogu mu se postavljati pitanja. Pitanja prvi postavlja tužilac, a nakon njega branilac. Poslije njih predsjednik vijeća i članovi vijeća mogu postavljati pitanja optuženom radi otklanjanja praznina, protivrječnosti i nejasnoća u iskazu. Oštećeni, njegov zakonski zastupnik ili punomoćnik, saoptuženi i vještak mogu neposredno postavljati pitanja optuženom uz odobrenje predsjednika vijeća. Pitanja optuženom, po istom redosljedu iz ovog stava, mogu se postavljati i više puta.
+(2) Predsjednik vijeća će zabraniti pitanja ili odgovor na već postavljeno pitanje, ako je ono nedozvoljeno u smislu člana 101 stav 1 ovog zakonika ili se ne odnosi na predmet krivičnog postupka. Ako predsjednik vijeća zabrani postavljanje određenog pitanja ili davanje odgovora, stranke mogu zahtijevati da o tome odluči vijeće.

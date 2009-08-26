@@ -1,0 +1,6 @@
+# Član 137
+## Naredba o vještačenju
+(1) Vještačenje određuje organ koji vodi postupak pisanom naredbom koja mora da sadrži: zadatak i obim vještačenja, rok za podnošenje pisanog nalaza i mišljenja i određivanje lica koje će izvršiti vještačenje a koje je upisano u Registar sudskih vještaka ili Registar pravnih lica za vršenje vještačenja (u daljem tekstu: Registar). Naredba se dostavlja i strankama.
+(2) Ako za određenu vrstu vještačenja postoji stručna ustanova ili se vještačenje može obaviti u okviru državnog organa, takva vještačenja, a naročito složenija, povjeriće se, po pravilu, takvoj ustanovi, odnosno organu. Ustanova, odnosno organ određuje jednog ili više stručnjaka odgovarajuće specijalnosti koji će izvršiti vještačenje.
+(3) Kad vještaka određuje organ koji vodi postupak, taj organ će, po pravilu, odrediti jednog vještaka, a ako je vještačenje složeno - dva ili više vještaka.
+(4) Ako za neku vrstu vještačenja nema postavljenih sudskih vještaka ili su svi sudski vještaci za određenu oblast vještačenja spriječeni da izvrše vještačenje u primjerenom roku, vještačenje može izvršiti lice sa prebivali- štem, odnosno sjedištem u drugoj državi ili lice koje nije upisano u Registar.

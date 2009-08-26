@@ -1,0 +1,5 @@
+# Član 443
+## Usvajanje zahtjeva za zaštitu zakonitosti
+(1) Kad Vrhovni sud utvrdi da je zahtjev za zaštitu zakonitosti osnovan donijeće presudu kojom će, prema prirodi povrede, preinačiti pravosnažnu odluku ili ukinuti u cjelini ili djelimično odluke prvostepenog i drugostepenog suda ili samo odluku drugostepenog suda i predmet vratiti na ponovno odlučivanje ili suđenje prvostepenom ili drugostepenom sudu ili će se ograničiti samo na to da utvrdi povredu zakona.
+(2) Ako je zahtjev za zaštitu zakonitosti podignut na štetu okrivljenog, a Vrhovni sud nađe da je osnovan, utvrdiće samo da postoji povreda zakona, ne dirajući u pravosnažnu odluku.
+(3) Ako drugostepeni sud po odredbama ovog zakonika nije bio ovlašćen da otkloni povredu zakona koja je učinjena u prvostepenoj odluci ili u sudskom postupku koji joj je prethodio, a Vrhovni sud prilikom odlučivanja o zahtjevu za zaštitu zakonitosti podignutom u korist okrivljenog nađe da je zahtjev osnovan i da radi otklanjanja učinjene povrede zakona treba prvostepenu odluku ukinuti ili preinačiti, ukinuće ili će preinačiti i drugostepenu odluku iako tom odlukom nije povrijeđen zakon.

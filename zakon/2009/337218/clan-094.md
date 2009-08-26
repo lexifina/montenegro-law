@@ -1,0 +1,5 @@
+# Član 94
+## Trajanje privremenog oduzimanja predmeta, imovinske koristi i imovine
+(1) Privremeno oduzimanje predmeta, imovinske koristi ili imovine može trajati najduže dok vijeće iz člana 24 stav 7 ovog zakonika ne odluči o zahtjevu državnog tužioca iz člana 486 ovog zakonika.
+(2) Ako je privremeno oduzimanje iz stava 1 ovog člana određeno u izviđaju, ukinuće se po službenoj dužnosti ako istraga ne započne u roku od šest mjeseci od dana donošenja rješenja o privremenom oduzimanju.
+(3) Prije isteka vremena iz st. 1 i 2 ovog člana, rješenje o privremenom oduzimanju predmeta, imovinske koristi ili imovine sud može ukinuti po službenoj dužnosti ili na zahtjev državnog tužioca ili zainteresovanog lica, ako se pokaže da nije potrebna ili opravdana s obzirom na težinu krivičnog djela, imovinske prilike lica na koje se odnosi ili prilike lica koje je po zakonu ono dužno da izdržava i okolnosti slučaja koje pokazuju da oduzimanje predmeta, imovinske koristi ili imovine neće biti onemogućeno ili znatno otežano do završetka krivičnog postupka.

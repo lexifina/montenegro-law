@@ -1,0 +1,6 @@
+# Član 392
+## Postupanje pred drugostepenim sudom
+(1) Kad spisi sa žalbom stignu drugostepenom sudu odmah se, na propisan način, određuje sudija izvjestilac. Ako se radi o krivičnom djelu za koje se goni po optužbi državnog tužioca, sudija izvjestilac će spise dostaviti državnom tužiocu, koji je dužan da ih razmotri i podnese svoj predlog ili izjavi da će predlog podnijeti na sjednici vijeća i da ih bez odlaganja vrati sudu.
+(2) Kad državni tužilac vrati spise, predsjednik vijeća će zakazati sjednicu vijeća i o njoj obavijestiti državnog tužioca, okrivljenog i njegovog branioca.
+(3) Sudija izvjestilac može, po potrebi, od prvostepenog suda pribaviti izvještaj o povredama odredaba krivičnog postupka, a može preko tog suda ili sudije za istragu suda na čijem se području radnja ima izvršiti ili na drugi način provjeriti navode žalbe u pogledu novih dokaza i novih činjenica ili od drugih organa ili organizacija pribaviti potrebne izvještaje ili spise.
+(4) Ako sudija izvjestilac utvrdi da se u spisima nalaze zapisnici i obavještenja iz člana 211 ovog zakonika, dostaviće spise prvostepenom sudu prije održavanja sjednice drugostepenog vijeća, da predsjednik prvostepenog vijeća donese rješenje o njihovom izdvajanju iz spisa i da ih, po pravosnažnosti rješenja, u zatvorenom omotu preda sudiji za istragu radi čuvanja odvojeno od ostalih spisa.

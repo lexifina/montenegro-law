@@ -1,0 +1,8 @@
+# Član 69
+## Kad okrivljeni mora imati branioca
+(1) Ako je okrivljeni lice sa posebnim potrebama, zbog kojih nije sposobno da se samo uspješno brani ili ako se postupak vodi zbog krivičnog djela za koje se može izreći najduža kazna zatvora, okrivljeni mora imati branioca prilikom prvog saslušanja.
+(2) Poslije podignute optužnice zbog krivičnog djela za koje se po zakonu može izreći kazna zatvora u trajanju od deset godina, okrivljeni mora imati branioca u vrijeme dostavljanja optužnice.
+(3) Okrivljeni kome je određen pritvor mora imati branioca dok je u pritvoru.
+(4) Okrivljeni kome se sudi u odsustvu, u smislu člana 324 stav 2 ovog zakonika, mora imati branioca čim sud donese rješenje o suđenju u odsustvu.
+(5) Ako okrivljeni u slučajevima iz st. 1, 2 i 3 ovog člana ne uzme branioca, o postavljenju branioca po službenoj dužnosti, do podizanja optužnice, odlučuje nadležni državni tužilac, a predsjednik suda nakon podignute optužnice do pravosnažnosti presude, a ako je izrečena najduža kazna zatvora, i za postupak po vanrednim pravnim lijekovima. Kad se okrivljenom po službenoj dužnosti postavi branilac poslije podignute optužnice, o tome će se okrivljeni obavijestiti istovremeno sa dostavljanjem optužnice. Ako okrivljeni u slučaju obavezne odbrane u toku postupka ostane bez branioca, a sam ne uzme drugog branioca, predsjednik suda pred kojim se vodi postupak postaviće mu branioca po službenoj dužnosti.
+(6) Okrivljenom će se po njegovom izboru postaviti branilac sa spiska Advokatske komore Crne Gore (u daljem tekstu: Advokatska komora). Ukoliko okrivljeni ne iskoristi ovo pravo, branilac će se postaviti po redosljedu sa spiska Advokatske komore.

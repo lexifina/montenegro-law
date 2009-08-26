@@ -1,0 +1,10 @@
+# Član 59
+## Oštećeni kao tužilac (supsidijarni tužilac)
+(1) Kad državni tužilac nađe da nema osnova da preduzme gonjenje za krivično djelo za koje se goni po službenoj dužnosti ili da nema osnova da preduzme gonjenje protiv nekog od prijavljenih saučesnika dužan je da, u roku od osam dana, o tome obavijesti oštećenog, uputi ga da može sam preduzeti gonjenje i dostavi mu rješenje o odbacivanju krivične prijave, osim u slučajevima iz člana 272 stav 6 i člana 273 ovog zakonika.
+(2) Na način iz stava 1 ovog člana postupiće državni tužilac kad donese naredbu o obustavi istrage i sud kad donese rješenje o obustavi postupka zbog odustanka državnog tužioca od optužbe.
+(3) Oštećeni ima pravo da preduzme, odnosno nastavi gonjenje, u roku od 30 dana od kad je primio obavještenje iz stava 1 ovog člana.
+(4) Ako je državni tužilac odustao od optužnice, oštećeni može, preuzimajući gonjenje, ostati pri podignutoj optužnici ili podići novu.
+(5) Oštećeni koji nije obaviješten da državni tužilac nije preduzeo gonjenje ili da je odustao od gonjenja može svoju izjavu da preduzima ili nastavlja postupak dati pred nadležnim sudom, u roku od šest mjeseci od dana kad je državni tužilac odbacio prijavu ili obustavio istragu, odnosno od dana kad je doneseno rješenje o obustavi postupka.
+(6) Obavještenje državnog tužioca, odnosno suda da oštećeni može preduzeti gonjenje sadrži i pouku koje radnje može preduzeti radi ostvarivanja ovog prava.
+(7) Ako oštećeni kao tužilac umre u toku roka za preduzimanje gonjenja ili u toku postupka, njegov bračni drug, lice sa kojim živi u vanbračnoj zajednici, djeca, roditelji, usvojenici, usvojitelji, braća i sestre mogu, u roku od tri mjeseca od dana njegove smrti, preduzeti gonjenje, odnosno dati izjavu da postupak nastavljaju.
+(8) Rješenje o obustavi postupka zbog odustanka državnog tužioca od gonjenja stupa na pravnu snagu po isteku rokova iz st. 3, 5 i 7 ovog člana, ako oštećeni, odnosno lica iz stava 7 ovog člana u propisanim rokovima nijesu preuzela gonjenje.

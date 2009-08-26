@@ -1,0 +1,6 @@
+# Član 199
+## Posebni slučajevi dostavljanja
+(1) Vojnim licima, pripadnicima straže u organu uprave nadležnom za izvršenje krivičnih sankcija i u ustanovama u kojima su smještena lica lišena slobode i zaposlenim u suvozemnom, rječnom, pomorskom i vazduhoplovnom saobraćaju, poziv se dostavlja preko njihove komande, odnosno neposrednog starješine, a po potrebi mogu im se na taj način dostavljati i ostala pismena.
+(2) Licima lišenim slobode pismena se dostavljaju u sudu ili posredstvom organa uprave nadležnog za izvršenje krivičnih sankcija ili ustanove u kojoj su smještena.
+(3) Licima koja uživaju pravo imuniteta u Crnoj Gori, ako međunarodnim ugovorima nije drukčije predviđeno, pismena se dostavljaju posredstvom ministarstva nadležnog za inostrane poslove.
+(4) Državljanima Crne Gore u drugoj državi, ako se ne radi o zamolnicama domaćih sudova za međunarodnu pravnu pomoć u krivičnim predmetima, pismena se dostavljaju posredstvom diplomatskog ili konzularnog predstavništva Crne Gore, pod uslovom da se druga država ne protivi takvom načinu dostavljanja i da lice kome se dostavlja dobrovoljno pristane da primi pismeno. Ovlašćeni radnik diplomatskog ili konzularnog predstavništva potpisuje dostavnicu kao dostavljač ako je pismeno uručeno u samom predstavništvu, a ako je pismeno dostavljeno poštom, potvrđuje to na dostavnici.
