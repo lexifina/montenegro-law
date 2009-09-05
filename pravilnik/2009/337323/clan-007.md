@@ -1,0 +1,2 @@
+# Član 7
+Stranac koji podnese zahtjev za odobravanje, odnosno produženje privremenog boravka radi zapošljavanja i rada, srednjoškolskog obrazovanja ili studiranja, učešća u programima međunarodne razmjene, specijalizacije, stručnog usavršavanja ili praktične obuke, naučno-istraživačkog rada ili liječenja, podnosi dokaze o opravdanosti zahtjeva za privremeni boravak iz čl. 41 do 47 Zakona o strancima.

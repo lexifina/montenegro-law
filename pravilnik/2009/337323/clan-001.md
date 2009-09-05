@@ -1,0 +1,3 @@
+# Član 1
+Bliži način izdavanja odobrenja za privremeni boravak, odnosno produženje privremenog boravka, odobrenja za stalno nastanjenje i putnih isprava za stranca, kao i upisa otkaza boravka do 90 dana, boravka na osnovu izdate vize za duži boravak (viza D), privremenog boravka, stalnog nastanjenja i zabrane ulaska u putnu ispravu stranca, pravila boravka i kućni red u prihvatilištu za strance (u daljem tekstu: Prihvatilište), način naplate troškova smještaja u Prihvatilištu i prinudnog udaljenja, sadržaj i izgled obrazaca, kao i sadržaj i način vođenja evidencija propisuju se ovim pravilnikom.
+Izrazi koji se u ovom pravilniku koriste za fizička lica u muškom rodu obuhvataju iste izraze u ženskom rodu.

@@ -1,0 +1,5 @@
+# Član 36
+Policijski službenici Prihvatilišta od službenika nadležne organizacione jedinice Policije, prilikom prihvata i smještaja stranca preuzimaju spise i dokumenta stranca, kao i prtljag i predmete koje posjeduje.
+Spisi i dokumenta stranca koji se smješta u Prihvatilište sadrže: rješenje o određivanju smještaja u Prihvatilište, odluku o prinudnom udaljenju, odnosno izrečenoj zaštitnoj mjeri udaljenja, pisano obavještenje o dovođenju i smještaju u Prihvatilište, koje dostavlja nadležna organizaciona jedinica Policije, tri fotografije stranca koje se koriste za izradu ličnih dokumenata, službenu zabilješku o obavljenom bezbjednosnom pregledu i posjedovanju novčanih sredstava, potvrdu o oduzetim predmetima i novčanim sredstvima, ljekarsku dokumentaciju, ukoliko je posjeduje i rješenje o imenovanju zakonskog zastupnika, ako se radi o maloljetnom ili poslovno nesposobnom licu.
+Radi pronalaženja identifikacionih dokumenata, novčanih sredstava i predmeta pogodnih za napad, bjekstvo ili samopovređivanje, nad strancem se može obaviti pretres kao i pregled njegovih stvari.
+Pretres stranca i pregled njegovih stvari obavlja policijski službenik istog pola.

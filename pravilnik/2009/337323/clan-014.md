@@ -1,0 +1,3 @@
+# Član 14
+Odobrenje privremenog boravka unosi se u važeću putnu ispravu stranca stavljanjem otiska štambilja veličine 105 mm dž 81 mm, koji u gornjem lijevom uglu sadrži naziv: "Crna Gora" i naziv organa koji je izdao odobrenje, a u sredini naziv: "ODOBRENJE PRIVREMENOG BORAVKA", ispod kojeg se nalaze mjesta za unos svrhe privremenog boravka, roka važenja odobrenja i potpisa ovlašćenog službenika (Obrazac broj 3).
+Ovlašćeni službenik potpisuje se na za to predviđenom mjestu u obrascu štambilja i ovjerava ga pečatom sa desne strane štambilja, tako da obuhvati dio štambilja i dio stranice putne isprave i omogući nesmetan uvid u podatke unesene u obrazac štambilja.

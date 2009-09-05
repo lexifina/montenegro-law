@@ -1,0 +1,2 @@
+# Član 48
+Danom stupanja na snagu ovog pravilnika prestaju da se primjenjuju odredbe Pravilnika o načinu izdavanja putnih i drugih isprava i viza strancima i o obrascima tih isprava i viza ("Službeni list SFRJ", broj 44/81 i "Službeni list SRJ", br. 23/00, 24/00 i 67/01) i Uputstva o sprovođenju Zakona o kretanju i boravku stranaca ("Službeni list SFRJ -Povjerljivo glasilo", broj 13/90), izuzev odredaba koje se odnose na izdavanje viza.

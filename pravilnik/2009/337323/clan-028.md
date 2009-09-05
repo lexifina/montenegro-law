@@ -1,0 +1,3 @@
+# Član 28
+Zahtjev za izdavanje putnog lista za stranca, stranac podnosi lično.
+Obrazac zahtjeva iz stava 1 ovog člana, sadrži: naziv organa kojem se zahtjev podnosi, mjesto za unos datuma podnošenja zahtjeva, naziv: "ZAHTJEV ZA IZDAVANJE PUTNOG LISTA ZA STRANCA", broj zahtjeva i bar code, mjesta za unos podataka o podnosiocu zahtjeva (jedinstveni matični broj, pol, prezime, ime, rođeno prezime, datum i mjesto rođenja, država rođenja, državljanstvo), mjesta za unos podataka o ocu i majci podnosioca zahtjeva i boravištu u Crnoj Gori, mjesto za unošenje izjave podnosioca zahtjeva o tačnosti unešenih podataka i saglasnosti da se njegovi lični podaci elektronski obrađuju, mjesto za unos broja telefona i potpis podnosioca zahtjeva (Obrazac broj 14).

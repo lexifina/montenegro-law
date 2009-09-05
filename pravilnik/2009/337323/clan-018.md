@@ -1,0 +1,4 @@
+# Član 18
+Odobrenje stalnog nastanjenja unosi se u putnu ispravu stranca stavljanjem otiska štambilja veličine 105 mm dž 81 mm, koji u gornjem lijevom uglu sadrži naziv "Crna Gora" i naziv organa koji je izdao odobrenje, a u sredini naziv: "ODOBRENJE STALNOG NASTANJENJA", ispod kojeg se nalaze mjesta za unos datuma izdavanja odobrenja i potpisa ovlašćenog službenika (Obrazac broj 5).
+Ovlašćeni službenik potpisuje se na za to predviđenom mjestu u obrascu štambilja i ovjerava ga pečatom sa desne strane štambilja, tako da obuhvati dio štambilja i dio stranice putne isprave i omogući nesmetan uvid u podatke unesene u obrazac štambilja.
+Prilikom unošenja štambilja odobrenog stalnog nastanjenja u putnu ispravu stranca, poništava se štambilj odobrenja privremenog boravka unošenjem štambilja "PONIŠTENO".

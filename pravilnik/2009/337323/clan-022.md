@@ -1,0 +1,3 @@
+# Član 22
+Obrazac putne isprave za lice bez državljanstva pravougaonog je oblika, veličine 125 mm dž 88 mm i sadrži koricu, jedan polikarbonatni list i 32 numerisane strane koje su prošivene specijalnim koncem. Korica obrasca putne isprave je izrađena od nefluorescentnog 120 gms sigurnosnog papira, hemijski osjetljivog na kisjeline, baze i druge organske reagense, koji sadrži vidljiva i nevidljiva UV vlakna. Boja korice je smeđa.
+U obrascu putne isprave, na strani sa podacima, vrši se lasersko graviranje crnobijele fotografije lica kojem se isprava izdaje, dimenzija 32 mm dž 41 mm i lasersko graviranje svih drugih podataka na toj strani.

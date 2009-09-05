@@ -1,0 +1,5 @@
+# Član 32
+Obrazac lične karte za stranca je pravougaonog oblika, u vidu kartice, dimenzija 86 mm dž 54 mm, izrađen od višeslojnog polikarbonata, u izvedenim tonovima pretežno plave boje, u koji se ugrađuju zaštitni elementi.
+Obrazac lične karte izrađen je u skladu sa standardima ISO/IEC 7810 za dimenzije i fizičke karakteristike i ISO/IEC 10373 za testiranje fizičkih karakteristika.
+Obrazac lične karte za stranca, na prednjoj strani, u gornjem lijevom uglu, sadrži Grb Crne Gore, a u središnjem gornjem dijelu naziv: "Crna Gora" i naziv: "Lična karta za stranca". U gornjem desnom uglu ispisan je naziv "Crna Gora" u mikroštampi. Na lijevoj strani obrasca, ispod Grba Crne Gore, je mjesto za fotografiju, dimenzija 24 mm dž 33 mm. Sa desne strane fotografije su mjesta za: prezime, ime, pol, državljanstvo, datum rođenja, broj lične karte, datum važenja i potpis.
+Obrazac lične karte za stranca na poleđini, u gonjem lijevom uglu, sadrži mjesta za: jedinstveni matični broj, datum izdavanja i naziv organa koji je ličnu kartu izdao, a u gornjem desnom uglu aplikaciju u obliku granica Crne Gore sa ucrtanim rijekama (Obrazac broj 17).

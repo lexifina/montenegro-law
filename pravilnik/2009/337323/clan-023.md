@@ -1,0 +1,3 @@
+# Član 23
+Na prednjoj spoljnoj strani korice nalazi se naziv: "Crna Gora", Grb Crne Gore, naziv "Putna isprava za lice bez državljanstva" i simbol elektronskog pasoša, koji su odštampani u tehnici zlatotiska (Obrazac broj 8).
+Na prednjoj unutrašnjoj strani korice, u zadnjem planu, nalazi se stilizovana karta Evrope na kojoj je bijelom bojom označena teritorija Crne Gore. U prednjem planu nalazi se naziv "Crna Gora", stilizovana površina Crne Gore unutar koje je zastava Crne Gore, oznaka "MNE" i zaštitni elemenat u obliku stilizovanog ćemera (ukrasni kaiš ženske crnogorske narodne nošnje) (Obrazac broj 9).

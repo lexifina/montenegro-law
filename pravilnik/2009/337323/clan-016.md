@@ -1,0 +1,3 @@
+# Član 16
+Uz zahtjev za odobravanje stalnog nastanjenja stranac je dužan da priloži dokaz o odobrenom privremenom boravku u Crnoj Gori, u neprekidnom trajanju od pet godina prije podnošenja zahtjeva, ovjerenu kopiju važeće putne isprave, dokaz o posjedovanju sredstava za izdržavanje, dokaz da ima obezbijeđen smještaj, dokaz o zdravstvenom osiguranju, dokaz da u Crnoj Gori nije pravosnažno osuđen za krivično djelo za koje se goni po službenoj dužnosti, kao i dokaz da protiv njega nije pokrenut krivični postupak za takvo krivično djelo.
+Za odobravanje stalnog nastanjenja maloljetnom strancu potreban je dokaz o stalnom nastanjenju jednog od roditelja i saglasnost drugog roditelja.

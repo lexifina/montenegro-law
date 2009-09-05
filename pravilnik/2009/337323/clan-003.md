@@ -1,0 +1,2 @@
+# Član 3
+Uz zahtjev iz člana 2 ovog pravilnika, stranac je dužan da priloži ovjerenu kopiju važeće putne isprave u koju je stavljen otisak ulaznog štambilja na graničnom prelazu, ako zahtjev podnosi u Crnoj Gori ili otisak štambilja prethodno odobrenog privremenog boravka, dokaz o posjedovanju sredstava za izdržavanje, dokaz da ima obezbijeđen smještaj, dokaz o zdravstvenom osiguranju, kao i dokaze o opravdanosti zahtjeva.

@@ -1,0 +1,3 @@
+# Član 13
+Prilikom rješavanja po zahtjevu za odobravanje privremenog boravka provjerava se da li stranac posjeduje važeću putnu ispravu, da li je nadležnom organu u Crnoj Gori prijavio boravište, osim u slučaju podnošenja zahtjeva za odobravanje prvog privremenog boravka u diplomatskom, odnosno konzularnom predstavništvu i da li za izdavanje odobrenja postoje zakonske smetnje, odnosno da li su ispunjeni uslovi za ulazak, kretanje i boravak u Crnoj Gori.
+Od stranca koji je podnio zahtjev za odobrenje privremenog boravka mogu se zahtijevati i dodatna obavještenja u pogledu činjenica navedenih u zahtjevu.
