@@ -1,0 +1,2 @@
+# Član 2
+Izradom Detaljnog urbanističkog plana za lokaciju "Sindikat-Meljine" ne mijenja se osnovna namjena prostora već će se za namjenu kolektivnog stanovanja definisanu planom višeg reda dati detaljna razrada i definisati urbanistički parametri i regulacija pri rekonstrukciji postojećih i izgradnji novih objekata, kao i smjernice za ureĎenje i opremanje ukupnog graĎevinskog fonda, javnih površina i tehničke infrastrukture.
