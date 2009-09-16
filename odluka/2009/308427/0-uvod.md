@@ -1,0 +1,3 @@
+906. Na osnovu člana 130 Zakona o lokalnoj samoupravi (’’Sl. list RCG’’, br. 42/03, 28/04, 75/05 i 13/06) i člana 33. stav 1 tačka 50 a u vezi sa članom 115 Statuta opštine Berane (’’Službeni list RCG-opštinski propisi’’, br. 21/04 i 34/06), Skupština opštine Berane, na sjednici održanoj dana 21. 08. 2009. godine donijela je
+ODLUKU
+o uspostavljanju saradnje i bratimljenju Opštine Berane sa Opštinom Esch-sur-Alzette iz
