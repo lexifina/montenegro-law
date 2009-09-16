@@ -1,0 +1,2 @@
+# Član 2
+Carinski organ, prilikom davanja odobrenja za stavljanje kontrolisane robe u odgovarajući carinski postupak, dužan je da utvrdi da li je uz jedinstvenu carinsku ispravu (u daljem tekstu: JCI) priložena dozvola za obavljanje spoljne trgovine kontrolisanom robom (u daljem tekstu: dozvola) iz člana 13 stav 1 Zakona o spoljnoj trgovini naoružanjem, vojnom opremom i robom dvostruke namjene (u daljem tekstu: Zakon) i da li podaci iz te dozvole odgovaraju podacima iz JCI i stvarnom stanju robe.
