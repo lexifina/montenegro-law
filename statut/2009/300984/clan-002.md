@@ -1,0 +1,4 @@
+# Član 2
+Privredna komora Crne Gore je samostalna, poslovna, stručna i interesna organizacija privrednih društava, banaka i drugih finansijskih organizacija, organizacija za osiguranje, preduzetnika i drugih oblika organizovanja koji obavljaju privrednu djelatnost na teritoriji Crne Gore i koje povezuju zajednički poslovni interesi, a koji su učlanjeni u Komoru na osnovu Zakona o Privrednoj komori Crne Gore (u daljem tekstu: Zakon).
+Članstvo u Komori stiče se upisom u Centralni registar Privrednog suda.
+U Komoru se mogu učlaniti, kada to odgovara zajedničkim interesima, poslovna i druga udruženja i zajednice, naučno - istraživačke i obrazovne institucije, savezi, interesne asocijacije, fondacije i drugi subjekti koji obavljaju djelatnost od značaja za privredu, o čemu odluku donosi Upravni odbor Komore.
