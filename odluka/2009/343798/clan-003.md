@@ -1,0 +1,2 @@
+# Član 3
+Obavezuje se Sekretarijat za ureĎenje prostora,stambeno-komunalne poslove graĎevinarstvo i zaštitu životne sredine opštine Bijelo Polje,kao organ koji vrši pripremne poslove na izradi i donošenju Lokalne studije lokacije, da omogući uvid u Nacrt svim zainteresovanim graĎanima,preduzećima,ustanovama i organima, u prostorijama Sekretarijata za ureĎenje prostora, stambeno-komunalne poslove graĎevinarstvo i zaštitu životne sredine svakim radnim danom,u vremenu od 9 do 12 časova u kancelariji br. 24, zgrada Opštine Bijelo Polje.
