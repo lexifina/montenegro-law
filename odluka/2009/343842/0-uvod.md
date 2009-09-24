@@ -1,0 +1,2 @@
+Na osnovu člana 36 stav 1 tačka 5 Statuta Opštine Herceg- Novi («Sl. list RCG - opštinski propisi» br. 15/04, 31/06, 14/07 i "Sl. list CG - Opštinski propisi", broj 16/09) i člana 49 stav 3 Zakona o planiranju i ureĎenju prostora («Sl. list RCG», broj 28/05), a u vezi sa članom 163 Zakona o ureĎenju prostora i izgradnji objekata (»Sl.list CG« br. 51/08), Skupština opštine Herceg Novi na sjednici održanoj dana 27.08. 2009. godine, donosi
+O D L U K U
