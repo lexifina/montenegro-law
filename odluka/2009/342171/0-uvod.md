@@ -1,0 +1,2 @@
+952. Na osnovu člana 45 stav 1 tačka 2, člana 51 stav 3, člana 87 stav 1 u vezi sa članom 90 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 i 13/06), člana 31 stav 1 alineja 2 i člana 35 Statuta Opštine Šavnik ("Sl.list RCG-opštinski propisi", br. 36/04 i " Sl.list CG - opštinski propisi", br. 24/08), Skupština opštine Šavnik, na sjednici održanoj dana 04.09.2009. god. donosi
+ODLUKU
