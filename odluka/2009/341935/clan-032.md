@@ -1,0 +1,4 @@
+# Član 32
+Danom stupanja na snagu ove odluke postojeće Javno preduzeće Radio difuzni servis »Radio Cetinje«, osnovano Odlukom o organizovanju javnog lokalnog radio-difuznog servisa »Radio Cetinje« (»Službeni list RCG - opštinski propisi«, broj 20/03) nastavlja sa radom pod istim nazivom, sa pravima i obavezama utvrĎenim Zakonom o medijima, Zakonom o radio- difuziji i ovom odlukom.
+Sredstva i imovina za rad »Radio Cetinja« čine sredstva i imovina Javnog preduzeća Radio difuzni servis »Radio Cetinje« utvrĎena bilansom stanja na dan stupanja na snagu ove odluke.
+Savjet »Radio Cetinja« imenovan u skladu sa ovom odlukom, dužan je da imenuje komisiju ili angažuje nezavisnu revizorsku kuću koja će utvrditi stanje imovine, kapitala i novčanih sredstava Javnog preduzeća Radio difuzni servis »Radio Cetinje« na dan njegovog konstituisanja.
