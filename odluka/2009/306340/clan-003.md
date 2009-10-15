@@ -1,0 +1,2 @@
+# Član 3
+Lokalnom studijom lokacije daće se dalja razrada namjene prostora definisane Prostornim Planom opštine u cilju aktiviranja ruralnog turizma u zaleĎu opštine, uz uslov očuvanja i unapreĎenja ambijentalnih karakteristika šireg i užeg područja i obezbjeĎenja funkcionisanja predviĎenih sadržaja planiranjem odgovarajuće saobraćajne i tehničke infrastrukture, a vodeći računa o uslovima zaštite životne sredine.
