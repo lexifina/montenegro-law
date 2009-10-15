@@ -1,0 +1,6 @@
+# Član 21
+(1) Nakon otvaranja koverata sa dokumentacijom za utvrđivanje ispunjenosti kriterijuma za pretkvalifikaciju, tenderska komisija vrši kontrolu dokumentacije i utvrđuje da li je podnosilac prijave dostavio svu dokumentaciju u skladu sa javnim oglasom za pretkvalifikaciju i pretkvalifikacionom dokumentacijom.
+(2) U slučaju da, nakon otvaranja i kontrole sadržaja koverte sa dokumentacijom za utvrđivanje ispunjenosti kriterijuma za pretkvalifikaciju, tenderska komisija utvrdi da dokumentacija ne ispunjava uslove iz stava 1 ovog člana, tenderska komisija odbacuje takvu prijavu kao neispravnu i ne razmatra je u daljem postupku.
+(3) Pregledom i vrjednovanjem dokumentacije za utvrđivanje ispunjenosti kriterijuma za pretkvalifikaciju utvrđuje se da li podnosioci prijava ispunjavaju kriterijume za pretkvalifikaciju, tražene javnim oglasom za pretkvalifikaciju i pretkvalifikacionom dokumentacijom.
+(4) Podnosioci prijave za pretkvalifikaciju, koji ispunjavaju tražene kriterijume za pretkvalifikaciju, smatraju se kvalifikovanim za dalje učešće u postupku davanja koncesije.
+(5) Prijave koje ne ispunjavaju utvrđene kriterijume za pretkvalifikaciju odbacuju se kao neispravne, a podnosioci tih prijava ne učestvuju u daljem postupku davanja koncesije.

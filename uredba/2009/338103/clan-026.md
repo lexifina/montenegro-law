@@ -1,0 +1,2 @@
+# Član 26
+Danom stupanja na snagu ove uredbe, prestaje da važi Uredba o načinu i uslovima za dodjelu koncesija za korišćenje poljoprivrednog zemljišta u državnoj svojini ("Službeni list RCG", broj 18/04), Uredba o načinu i uslovima za dodjelu koncesija za korišćenje vode za piće, poljoprivredu, industriju, komunalne potrebe i slične namjene ("Službeni list RCG", broj 32/03) i Pravilnik o sadržaju i elementima koncesionog elaborata za korišćenje voda za piće, poljoprivredu, industriju, komunalne potrebe i slične namjene ("Službeni list RCG", broj 36/03).
