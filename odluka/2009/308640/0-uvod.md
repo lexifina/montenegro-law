@@ -1,0 +1,2 @@
+Na osnovu člana 64 Zakona o privrednim društvima (,,Sl. list RCG", broj 6/02 i ,,Sl. list CG", br. 17/07 i 80/08), čl. 45 i 51 Zakona o lokalnoj samoupravi (,,Sl. list RCG", br. 42/03, 28/04, 75/05, i 13/06) i čl. 31 i 35 Statuta Opštine Šavnik (,,Sl. list RCG-opštinski propisi" broj 36/04 i ,,Sl. list CG-Opštinski propisi" broj 24/08), Skupština opštine Šavnik, na sjednici održanoj dana 14.10.2009. godine, donosi
+ODLUKU
