@@ -1,0 +1,2 @@
+Na osnovu čl. 64 stav 1 i 77 Zakona o privrednim društvima ("Službeni list RCG", broj 6/02 i "Službeni list CG", br. 17/07 i 80/08), člana 22 Zakona o državnoj upravi ("Službeni list RCG", broj 38/03 i "Službeni list CG", broj 22/08), Vlada Crne Gore, na sjednici od 10. septembra 2009.godine, donijela je
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O OSNIVANJU DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "MONTEPUT" PODGORICA
