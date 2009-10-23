@@ -1,0 +1,4 @@
+# Član 1
+## o donošenju izmjena i dopuna DUP-a Lastva-Seljanovo-Tivat-Gradiošnica
+Donose se izmjene i dopune Detaljnog urbanističkog plana Lastva-Seljanovo-Tivat- Gradiošnica koji je izraĎen na osnovu Odluke o pristupanju izradi Izmjena i dopuna Detaljnog urbanističkog plana Lastva-Seljanovo-Tivat-Gradiošnica, br. 0101 - 1391/2 od 27. decembra 2006.godine, Odluke o dopuni odluke o izradi Izmjena i dopuna Detaljnog urbanističkog plana Lastva-Seljanovo-Tivat-Gradiošnica br. 0101-1391/3 od 01. 10. 2007.godine i Odluke o dopuni odluke o izradi Izmjena i dopuna Detaljnog urbanističkog plana Lastva-Seljanovo-Tivat- Gradiošnica br. 0101-1391/4-07 od 24. 03. 2008.godine (u daljem tekstu: izmjene i dopune Plana).
+Plan je izradio "AG Infoplan" d.o.o. Nikšić - PJ "AG Infoplan" Budva, koji je kao Predlog plana zaveden pod brojem 0901-460 od 15. 06. 2009. godine.
