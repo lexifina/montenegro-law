@@ -1,0 +1,2 @@
+991. Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Službeni list RCG" br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06 i 56/06), člana 19 stav 3 Zakona o Prijestonici ("Službeni list CG", broj 47/08) i člana 63 stav 1 alineja 23 Statuta Prijestonice ("Službeni list CG-Opštinski propisi", broj 19/09), Skupština Prijestonice Cetinje, na sjednici održanoj dana 28.09. 2009. godine, donijela je
+ODLUKU
