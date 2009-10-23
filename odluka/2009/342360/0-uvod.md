@@ -1,0 +1,2 @@
+964. Na osnovu člana 45. stav 1. tačka 15. Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 i 13/06), čl. 60., 62. i 63. Zakona o finansiranju lokalne samouprave ("Sl.list RCG", br. 42/03 i 43/03 i "Sl.list CG", broj 5/08) i člana 40. Statuta Opštine Bar ("Sl.list RCG - opštinski propisi", br. 31/04, 22/05, 28/06 i 13/07), Skupština opštine Bar, na sjednici održanoj 28.09.2009.godine, donijela je
+ODLUKU
