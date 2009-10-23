@@ -1,0 +1,3 @@
+# Član 1
+## o izradi Strateške procjene uticaja na životnu sredinu Lokalne studije lokacije "Čisto polje"
+Pristupa se izradi Strateške procjene uticaja na životnu sredinu (u daljem tekstu: Strateška procjena) Lokalne studije lokacije "Čisto polje" koja obuhvata područje površine cca 79520 m2 i definisano je granicama katastarskih parcela br. 261, 4778, 263, 264, 265, 266, 267, 268, 276, 280, 281, 282, 283, 284, 285, 326, 327, 328, 329, 330, 331, 332, 182, 183, 338,339, 340, 341, 342, 273, 274, 275, 323, 324, 325, 321, 308, 309, 310, 311, 313, 314, 4721. Katastarske parcele su u dijelu KO LJubotinj I i nalaze se u zahvatu Prostornog plana opštine Cetinje.
