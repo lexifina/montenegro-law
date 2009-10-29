@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom bliže se propisuju mjere za sprečavanje štete od divljači koje su dužna da preduzmu pravna lica kojima je lovište dato na korišćenje (u daljem tekstu: korisnik lovišta) i vlasnici, odnosno korisnici stoke i zemljišta na kojima se prostire lovište ili koja su u blizini lovišta (u daljem tekstu: vlasnici, odnosno korisnici stoke i zemljišta) kao i način i postupak za ostvarivanje naknade štete od divljači.

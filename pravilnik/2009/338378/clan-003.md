@@ -1,0 +1,4 @@
+# Član 3
+Vlasnici, odnosno korisnici stoke i zemljišta su dužni da svoje zasijane, odnosno zasađene poljoprivredne kulture i stogove sijena ograđuju drvenom ili žičanom ogradom, na način koji onemogućava prolazak bilo koje dlakave divljači, kao i da premazivanjem mladih stabala voćaka odbojnim sredstvima, spriječe oštećenja na kori tih stabala.
+Vlasnici, odnosno korisnici stoke i zemljišta dužni su da redovno kontrolišu stanje svoje imovine, organizuju njeno čuvanje korišćenjem vezanih pasa, vidljivih plašila i zvučnih uređaja, kao i da sprovode ostale uobičajene mjere zaštite.
+Korisnik lovišta je obavezan da pruži pomoć i informacije vlasniku, odnosno korisniku stoke i zemljišta, prilikom nabavke sredstava za odbijanje divljači i davanja uputstava i stručnih savjeta o korišćenju tih sredstava u cilju sprečavanja, odnosno smanjivanja štete od divljači.
