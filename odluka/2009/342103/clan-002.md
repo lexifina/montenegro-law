@@ -1,0 +1,4 @@
+# Član 2
+LSL se sastoji iz tekstualnog dijela i grafičkih priloga postojećeg i planiranog stanja, uraĎenih u vidu knjige (elaborata) u analognoj i digitalnoj formi.
+Tekstualni dio sadrži: 1. Uvod. 2. Analiza postojećeg stanja, 3. Planirano rješenje. 4. Uslovi za ureĎenje prostora, 5. Saobraćaj. 6. Elektroenergetska mreža, 7. Hidrotehnička infrastruktura, i Dokumentaciju.
+Grafički prilozi: 1. Izvod iz PPOB- izmjene i dopune, 2. Izvod iz PPOB- izmjene i dopune, INSTALACIJE, Postojeće stanje - 3. Topografsko-katastarski plan, 4. Namjena objekata i površina, 5. Spratnost objekata. 6. Plan rušenja, Planirano stanje - 7. Postojeći kapaciteti i pokazatelji, 8.Plan parcelacije. 9.Spratnost objekata. 10. Namjena objekata i površina, 11. Plan regulacije, 12. Plan nivelacije, 13. Saobraćaj - Poprečni profili, 14. Vodovodna mreža, 15. Atmosferska i fekalna kanalizacija, 16. Telekomunikaciona mreža i 17. Elektroenergetska mreža.
