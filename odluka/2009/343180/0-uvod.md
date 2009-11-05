@@ -1,0 +1,2 @@
+1047. Na osnovu člana 64 stav 1 i člana 77 Zakona o privrednim društvima (»Sl.list RCG«, broj 06/02 i »Sl. list CG«, br. 17/07 i 80/08), člana 11 Zakona o javnim preduzećima (»Sl.list RCG«, br. 6/91), člana 13 Zakona o komunalnim djelatnostima (»Službeni list RCG«, broj 12/95), člana 32 stav 1 tačka 1 Zakona o lokalnoj samoupravi (»Službeni list RCG«, br. 42/03, 28/04, 75/05 i 13/06) i člana 48 Statuta Glavnog grada (»Službeni list RCG-opštinski propisi«, broj 28/06), Skupština Glavnog grada - Podgorice, na sjednici održanoj 21. i 23.10.2009.godine, donijela je
+O D L U K U
