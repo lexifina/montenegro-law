@@ -1,0 +1,2 @@
+1030. Na osnovu člana 96. stav 3. Zakona o lokalnoj samoupravi (" Sl.list.RCG" br.42/03, 28/04, 75/05,16/06), člana 80. stav 3. Statuta Opštine Bijelo Polje ( " Sl.list RCG -opštinski propisi" br. 25/04 i 33/06) i člana 61. stav 3. Odluke o Mjesnim zajednicama ( "Sl.list RCG- opštinski propisi", br. 18/05 i "Sl.list CG - opštinski propisi" br. 29/08), Skupština opštine Bijelo Polje, na sjednici održanoj 16.10.2009. godine, donijela je
+ODLUKU
