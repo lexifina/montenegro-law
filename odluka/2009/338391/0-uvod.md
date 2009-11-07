@@ -1,0 +1,2 @@
+Na osnovu člana 13 stav (3) Zakona o energetici ("Službeni list RCG", broj 39/03), člana 10 stav 10.2. Pravilnika o licencama u energetskom sektoru Crne Gore ("Službeni list RCG", broj 50/04 i "Službeni list CG", broj 54/09), člana 24 stav (1) tačka (3) Statuta Regulatorne agencije za energetiku ("Službeni list RCG", broj 31/04), Odbor Agencije, na sjednici održanoj 29.10.2009. godine, donio je
+ODLUKU O DOPUNI ODLUKE O NAKNADAMA ZA LICENCE ZA 2009.GODINU
