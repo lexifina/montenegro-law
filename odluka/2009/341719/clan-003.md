@@ -1,0 +1,2 @@
+# Član 3
+Stupanjem na snagu ove odluke prestaje da važi Odluka o imenovanju Upravnog odbora Javnog preduzeća za uzgoj, zaštitu i lov divljači i riba Danilovgrad, broj 01-1181 od 12.10. 2005. godine.
