@@ -1,0 +1,4 @@
+# Član 2
+Ako učesnik iz člana 1 stav 1 ove odluke, pogine ili umre od posljedica zadobijene rane, povrede ili ozljede, odnosno bolesti nastale kao neposredna posljedica učešća u međunarodnim snagama, odnosno mirovnim misijama i drugim aktivnostima u inostranstvu, njegovoj užoj porodici, odnosno roditeljima ukoliko nema užu porodicu, pripada novčana naknada u ukupnom iznosu od 150.000,00 eura. Ako učesnik nema užu porodicu, odnosno roditelje, naknada pripada braći i sestrama.
+Užom porodicom, u smislu ove odluke, smatra se bračni drug i djeca rođena u braku, vanbračna, pastorčad i usvojena.
+Prava iz člana 1 ove odluke i stava 1 ovog člana međusobno se isključuju, izuzev u slučaju kada nastupi smrt učesnika u roku od mjesec dana od dana utvrđenog tjelesnog oštećenja nastalog kao posljedica učešća u međunarodnim snagama, odnosno mirovnim misijama i drugim aktivnostima u inostranstvu.

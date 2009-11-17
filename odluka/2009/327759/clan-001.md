@@ -1,0 +1,6 @@
+# Član 1
+Pripadniku Vojske Crne Gore, civilne zaštite, policije i zaposlenom u organu državne uprave (u daljem tekstu: učesnik) koji za vrijeme učešća u međunarodnim snagama, odnosno mirovnim misijama i drugim aktivnostima u inostranstvu, kao i za vrijeme koje provede na odobrenom odsustvu, bez svoje krivice zadobije ranu, povredu ili ozljedu zbog koje je nastupilo tjelesno oštećenje ili je do tjelesnog oštećenja došlo zbog bolesti koja je nastala ili se pogoršala kao neposredna posljedica učešća u međunarodnim snagama, odnosno mirovnim misijama i drugim aktivnostima u inostranstvu, na ime osiguranja pripada naknada za tjelesno oštećenje.
+Naknada iz stava 1 ovog člana iznosi, za:
+- manje od 20% tjelesnog oštećenja, 5.000,00 eura, - 20% tjelesnog oštećenja, 20.000,00 eura, - 30% tjelesnog oštećenja, 30.000,00 eura, - 40% tjelesnog oštećenja, 40.000,00 eura, - 50% tjelesnog oštećenja, 50.000,00 eura, - 60% tjelesnog oštećenja, 60.000,00 eura, - 70% tjelesnog oštećenja, 70.000,00 eura, - 80% tjelesnog oštećenja, 80.000,00 eura, - 90% tjelesnog oštećenja, 90.000,00 eura, - 100% tjelesnog oštećenja, učesniku kojem nije neophodna njega i pomoć drugog lica,
+100.000,00 eura, - 100% tjelesnog oštećenja učesniku kojem je neophodna njega i pomoć drugog lica,
+150.000,00 eura.
