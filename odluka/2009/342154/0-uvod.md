@@ -1,0 +1,2 @@
+1077. Na osnovu člana 47 Zakona o ureĎenju prostora i izgradnji objekata (»Sl.list CG« br. 51/08), i člana 36 stav 1 tačka 5 Statuta Opštine Herceg- Novi («Sl. list RCG - opštinski propisi» broj 15/04, 31/06, 14/07 i «Sl. list CG - Opštinski propisi», broj 16/09), Skupština opštine Herceg Novi, na sjednici održanoj dana 23.10.2009. godine, donosi
+O D L U K U
