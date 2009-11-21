@@ -1,0 +1,2 @@
+# Član 6
+Grafička dokumentacija obuhvata: strukturno-geološku kartu odobrenog eksploatacionog polja sa izolinijama kvaliteta mineralne sirovine; kartu kategorizacije, klasifikacije i proračuna rezervi; situacioni plan rudnika; strukturne geološke profile kroz ležište mineralne sirovine po istražnim linijama; hidrogeološku kartu šireg područja sa ucrtanim vodotocima i objektima, izolinijama nivoa podzemnih voda i osnovnih vodonosnih horizonata; hidrogeološke profile kroz ležište, odnosno eksploataciono polje i plan postojećih površinskih kopova, odnosno jama.
