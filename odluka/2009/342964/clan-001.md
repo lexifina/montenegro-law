@@ -1,0 +1,4 @@
+# Član 1
+## o pribavljanju nepokretnosti za potrebe proširenja Službe zaštite i spašavanja Opštine Nikšić i poboljšanja funkcionalnosti aerodroma " Kapino Polje"
+Ovom odlukom stvaraju se uslovi za pribavljanje nepokretnosti za potrebe proširenja Službe zaštite i spašavanja Opštine Nikšić i poboljšanja funkcionalnosti aerodroma " Kapino Polje" i to :
+- katastarske parcele broj 1400/2, livada 5.klase, površine 8.105 m2 i zemljište pod objektom broj 1 površine 256 m2, zemljište pod objektom broj 2 površine 174 m2 i zemljište pod objektom broj 3 površine 247 m2, sve ukupne površine 8.782 m2, kao i objekte broj 1, 2 i 3 na predmetnoj parceli ukupne gabaritne površine 677 m2 sve upisano u listu nepokretnosti broj 84 KO Kočani kao svojina Države Crne Gore, a u skladu sa Zaključcima Vlade Crne Gore broj 03- 9889 od 17.09.2009.godine, po utvrĎenoj cijeni od 434.883,70 €.
