@@ -1,0 +1,2 @@
+1092. Na osnovu člana 45 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Službeni list RCG" broj 42/03, 28/04, 75/05 i 13/06) , člana 40 stav 1 Zakona o budžetu ("Službeni list RCG", broj 40/01, 44/01, 71/05 i " Službeni list CG", broj 12/07 i 53/09), člana 62 stav 1 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", broj 42/03 i 44/03 i "Službeni list CG", broj 05/08) i člana 18 stav 6 i člana 40 Statuta Opštine Nikšić ("Službeni list RCG - opštinski propisi", broj 20/04 i 43/06), Skupština opštine Nikšić na sjednici održanoj 11.11.2009.godine, donijela je
+ODLUKU
