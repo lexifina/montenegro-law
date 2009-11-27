@@ -1,0 +1,2 @@
+1095. Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", broj 21/09), člana 48 stav 2 Zakona o vodama ("Službeni list RCG", broj 27/07), čl. 2, 4 i 13 Zakona o komunalnim djelatnostima ("Službeni list RCG", broj 12/95), člana 51 stav 3 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04, 75/05 i 13/06) i člana 40 Statuta Opštine Nikšić ("Službeni list RCG-opštinski propisi", broj 20/04 i 43/06), Skupština opštine Nikšić na sjednici održanoj 11.11.2009.godine, donijela je
+ODLUKU
