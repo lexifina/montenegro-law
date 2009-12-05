@@ -1,0 +1,4 @@
+# Član 10
+Certifikat koji se izdaje pripadniku Vojske, odnosno zaposlenom u Ministarstvu, koji je u skladu sa programom obuke obučen za vršenje dužnosti u međunarodnim snagama, odnosno poslova u mirovnoj misiji i drugoj aktivnosti u inostranstvu, izrađen je od plastificiranog papira formata A-4 i oivičen aplikacijom lovorovog vijenca patina zlatne boje.
+U gornjem središnjem dijelu certifikata iz stava 1 ovog člana, nalazi se Grb Crne Gore, naziv "Crna Gora", "Ministarstvo odbrane", a ispod toga naziv "CERTIFIKAT", mjesta za čin, odnosno zvanje, ime i prezime, tekst: "OBUČEN JE ZA VRŠENJE DUŽNOSTI/POSLOVA", kao i mjesta za: naziv međunarodnih snaga, mirovne misije i druge aktivnosti u inostranstvu i države u kojoj će se vršiti dužnost, odnosno poslovi; broj, datum i mjesto izdavanja, potpis ovlašćenog lica i otisak pečata.
+Obrazac certifikata odštampan je uz ovaj pravilnik i čini njegov sastavni dio.

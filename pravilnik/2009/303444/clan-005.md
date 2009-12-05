@@ -1,0 +1,4 @@
+# Član 5
+Komisija na osnovu prijava na oglas i podataka iz evidencije ljudskih resursa Ministarstva sačinjava spisak pripadnika Vojske, odnosno zaposlenih u Ministarstvu koji ispunjavaju uslove oglasa, koji u roku od 7 dana od dana isteka roka za podnošenje prijava, dostavlja organizacionoj jedinici Ministarstva nadležnoj za ljudske resurse (u daljem tekstu: Organizaciona jedinica).
+Organizaciona jedinica organizuje provjeru fizičke sposobnosti, psihološko testiranje i ocjenu zdravstvene sposobnosti pripadnika Vojske, odnosno zaposlenog u Ministarstvu, a po potrebi provjeru znanja stranog jezika.
+Provjeru fizičke sposobnosti i znanja stranog jezika pripadnika Vojske, odnosno zaposlenog u Ministarstvu, vrši jedinica Vojske Crne Gore za obuku, a psihološko testiranje i ocjenu njihove zdravstvene sposobnosti vrši zdravstvena ustanova nadležna za utvrđivanje sposobnosti lica za službu u Vojsci Crne Gore.

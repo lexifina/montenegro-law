@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se bliži uslovi, način, postupak izbora, pripreme, obuke i upućivanja pripadnika Vojske Crne Gore (u daljem tekstu: pripadnik Vojske) i zaposlenih u Ministarstvu odbrane (u daljem tekstu: Ministarstvo) u međunarodne snage, odnosno mirovne misije i druge aktivnosti u inostranstvu, kao i obrazac certifikata o obučenosti za vršenje dužnosti u međunarodnim snagama, odnosno mirovnim misijama i drugim aktivnostima u inostranstvu.
