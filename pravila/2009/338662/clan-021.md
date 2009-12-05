@@ -1,0 +1,4 @@
+# Član 21
+Kada ovlašćeni učesnik izvršava klijentov nalog, obavezan je da ga izvrši na način koji je najpovoljniji za klijenta i u najkraćem roku u skladu sa okolnostima, tj. odmah po prijemu naloga i njegovom unošenju u knjigu naloga.
+Ovlašćeni učesnik je dužan da nalog realizuje na berzi na kojoj se određena hartija od vrijednosti nudi po najpovoljnijoj cijeni, a ukoliko se ista hartija od vrijednosti nudi na berzama po jednakoj cijeni prednost ima nalog koji je vremenski ranije dat.
+Kada ovlašćeni učesnik, koji nije član jedne od berzi, primi kupovni nalog koji se po uslovima iz stava 2 ovog člana mora realizovati na berzi na kojoj on nije član, dužan je klijenta uputiti na drugog ovlašćenog učesnika koji je član berze na kojoj se hartija od vrijednosti nudi po najpovoljnijoj cijeni i klijentu navesti razloge odbijanja prijema naloga.

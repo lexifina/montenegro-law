@@ -1,0 +1,4 @@
+# Član 1
+Ovim pravilima se propisuje način obavljanja poslova sa hartijama od vrijednosti kojima se trguje na berzama sa sjedištem u Crnoj Gori.
+Ova pravila primjenjuju se na ovlašćene učesnike na tržištu hartija od vrijednosti sa sjedištem u Crnoj Gori i filijale stranih pravnih lica koja obavljaju poslove sa hartijama od vrijednosti u Crnoj Gori (u daljem tekstu: ovlašćeni učesnik), s tim da, kada se određeno pravilo primjenjuje u određenim situacijama, odnosi se samo na ovlašćene učesnike za koje je ta situacija relevantna imajuću u vidu poslove sa hartijama od vrijednosti koje ti ovlašćeni učesnici, saglasno dozvoli za rad, mogu obavljati.
+Odredbe ovih pravila primjenjuju se i na banke sa sjedištem u Crnoj Gori koje imaju dozvolu za obavljanje poslova sa hartijama od vrjednosti, a u vezi sa obavljanjem tih poslova.

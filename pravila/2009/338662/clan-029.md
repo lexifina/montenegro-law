@@ -1,0 +1,2 @@
+# Član 29
+Kada ovlašćeni učesnik posluje kao investicioni menadžer za klijenta, obavezan je klijentu, u ugovorenim rokovima, dostavljati izvještaj koji sadrži vrijednost portfelja hartija od vrijednosti i iznos sredstava na računu klijenta kojima investicioni menadžer raspolaže u ime i za račun klijenta, na početku i kraju određenog perioda i njegovu strukturu na kraju perioda, a promjene u strukturi između tih datuma, na zahtjev klijenta.

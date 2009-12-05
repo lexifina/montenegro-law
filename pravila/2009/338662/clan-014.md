@@ -1,0 +1,4 @@
+# Član 14
+Svi oblici reklamiranja i komunikacije ovlašćenih učesnika baziraju se na principima fer poslovanja i poslovanja u dobroj vjeri i moraju sadržati osnovu za činjenice koje se izlažu.
+Pretjerane izjave, izjave bez stvarne podloge ili tvrdnje koje navode na pogrešan zaključak zabranjene su u javnoj komunikaciji. Ovlašćeni učesnik ne smije ni u jednom vidu javne komunikacije objaviti ili proslijediti bilo kakvu informaciju za koju zna ili pretpostavlja da sadrži netačne izjave, niti smije izostaviti materijalne činjenice ukoliko bi njihovo izostavljanje činilo da komunikacija može da se tumači dvosmisleno.
+Kada učestvuju na seminaru, radio ili televizijskom intervjuu ili se na bilo koji drugi način javno prezentiraju, ovlašćeni učesnici se moraju pridržavati pravila navedenih u st. 1 i 2 ovog člana.
