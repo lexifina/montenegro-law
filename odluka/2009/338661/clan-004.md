@@ -1,0 +1,2 @@
+# Član 4
+Ako podnosilac zahtjeva u pisanoj formi odustane od zahtjeva za upis u odgovarajući registar medicinskih sredstava, proizvođača i pravnih lica koja vrše promet, uvoz medicinskih sredstava i za davanje stručnih mišljenja i drugih rješenja, u roku od sedam dana od prijema potvrde Agencije za lijekove i medicinska sredstva (u daljem tekstu: Agencija) o potpunosti dokumentacije, podnosiocu zahtjeva se vraća iznos naknade umanjen za 30% u odnosu na uplaćeni iznos kojima se obezbjeđuju troškovi Agencije nastali u postupku procjenjivanja dostavljene dokumentacije.
