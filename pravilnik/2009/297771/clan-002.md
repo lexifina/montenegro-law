@@ -1,0 +1,2 @@
+# Član 2
+Privredno društvo, odnosno preduzetnik za obavljanje prometa na veliko duvanskim proizvodima, mora da raspolaže odgovarajućim skladišnim prostorom koji čini objekat, odnosno prostorija, namijenjen za preuzimanje, čuvanje i pripremanje duvanskih proizvoda za otpremu, koji je izgrađen od čvrstog materijala u skladu sa propisima o izgradnji objekata i koji ispunjava uslove u pogledu zaštite od spoljnih uticaja (vlaga, strani mirisi i dr.), sa obezbijeđenom ventilacijom.

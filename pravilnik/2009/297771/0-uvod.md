@@ -1,0 +1,2 @@
+Na osnovu člana 12 stav 2 Zakona o duvanu ("Službeni list CG", br.48/08 i 76/08), Ministarstvo ekonomije, donijelo je
+PRAVILNIK O BLIŽIM USLOVIMA I POSTUPKU UTVRĐIVANJA ISPUNJENOSTI USLOVA ZA OBAVLJANJE PROMETA NA VELIKO DUVANSKIM PROIZVODIMA
