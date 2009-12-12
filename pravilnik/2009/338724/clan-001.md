@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se sadržina i način vođenja Registra obrađivača duvana, Registra proizvođača duvanskih proizvoda, Registra trgovaca na veliko duvanskim proizvodima, Registra uvoznika duvana, obrađenog duvana i duvanskih proizvoda, Registra izvoznika duvana, obrađenog duvana i duvanskih proizvoda i Registra o markama duvanskih proizvoda i Evidencije trgovaca na malo duvanskim proizvodima (u daljem tekstu: Evidencija).
