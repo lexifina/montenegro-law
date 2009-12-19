@@ -1,0 +1,2 @@
+# Član 2
+Opština Kolašin se obavezuje da u investiranju u DOO KOL ENERGY učestvuje sa nenovčanim sredstvima koja se odnose na obezbjeĎenje pristupačnih puteva za realizaciju pojedinačnih MHE, prenošenje prava svojine nad zemljištem koje je neophodno za realizaciju projekta, obezbjeĎivanje kancelarija za sjedište novo otvorene firme i pribavljanje dozvola i saglasnosti neophodnih za realizaciju projekta. I na osnovu unijetog uloga postaje vlasnik 20% kapitala Kol energi.
