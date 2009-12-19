@@ -1,0 +1,2 @@
+# Član 2
+Područje za koje se izraĎuje Plan, obuhvata cjelokupnu površinu urbanističkih parcela br. 266 i 450, u zoni "A" DUP-a "Centar sa Gornjim Mojkovcem" ("Sl. list RCG-Opštinski propisi", br. 4/96), koje se nalaze u zoni izmeĎu ulica Junaka Mojkovačke bitke, Serdara Janka Vukotića i glavnog gradskog parkinga (k.p. br. 270/2), odnosno dio katastarskih parcela br. 263/1, 263/2, 263/3, 255, 256 i 257 KO Mojkovac, u ukupnoj površini od 3.236,72 m2.
