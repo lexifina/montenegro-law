@@ -1,0 +1,2 @@
+1201. Na osnovu člana 18 stav 2 Zakona o kulturi ("Sl.list CG", broj 49/08), člana 31 stav 1 alineja 41 Statuta Opštine Šavnik ("Sl. list RCG- Opštinski propisi", broj 36/04 i "Sl.list CG- Opštinski propisi", broj 24/08) i člana 13 Odluke o osnivanju Javne ustanove Centar za kulturu, sport i medije Šavnik ("Sl.list CG- Opštinski propisi", broj 19/09), Skupština opštine Šavnik, na sjednici održanoj 04.12.2009. godine, donosi
+O D L U K U
