@@ -1,0 +1,2 @@
+1196. Na osnovu člana 66 Zakona o ureĎenju prostora i izgradnji objekata ( "Sl. list RCG", broj 51/08) u vezi sa člana 45 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 i 13/06) i člana 36. stav 1. tač. 3 i 9. Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 31/06, 14/07 i 16/09), Skupština opštine Herceg Novi, na sjednici održanoj 01.12.2009. godine, donijela je
+O D L U K U
