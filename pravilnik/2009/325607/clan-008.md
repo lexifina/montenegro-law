@@ -1,0 +1,15 @@
+# Član 8
+## Ostali cjevovodi i objekti
+(1) Najmanje dozvoljeno rastojanje između postojećeg elektronskog komunikacionog kabla i instalacija za
+skladištenje i prenos zapaljivih tečnosti iznosi 1,5 m na mjestima približavanja i paralelnog vođenja. Izuzetno, u slučajevima kada se ne može postići navedeno rastojanje, isto se može smanjiti na 0,5 m na dužini ne kraćoj od 1,5 m pri čemu djelovi postrojenja za prenos i skladištenje zapaljivih tečnosti treba da budu prekriveni betonskom posteljicom debljine 0,1 m, otpornom na prodiranje zapaljive tečnosti ili isparavanja. Postojeći kabal potrebno je zaštititi odgovarajućim cijevima koje pored mehaničke čvrstoće moraju biti otporne na uticaj različitih vrsta mineralnih ulja.
+(2) Ako se cjevovodni sistem ili postrojenje iz prethodnog stava približava cijevima postojeće kablovske
+kanalizacije, a koje nijesu otporne na djelovanje mineralnih ulja i isparavanje, tada je potrebno u opasnom području od 4 m cijevi kablovske kanalizacije prekriti sa svih strana betonskom posteljicom minimalne debljine 0,1 m. Otvori cijevi u susjednim oknima kablovske kanalizacije treba da budu gasno nepropusni. Na jednom od zidova okna potrebno je postaviti pločicu sa natpisom kojim se upozorava osoblje o eventualnoj pojavi sakupljanja štetnih i eksplozivnih gasova.
+(3) Ako rekonstrukcija postojeće ili izgradnja nove saobraćajnice ugrožava trasu postojećeg podzemno
+položenog elektronskog komunikacionog kabla koji nije u zaštitnoj cijevi već se isti nalazi u trasi saobraćajnice, potrebno je izvršiti izmještanje istog. Nova trasa elektronskog komunikacionog kabla treba da bude u trotoaru ili zelenom pojasu predmetne saobraćajnice.
+(4) Ako rekonstrukcija postojeće ili izgradnja nove saobraćajnice ugrožava trasu postojeće kablovske
+kanalizacije, tako da će se ona nalaziti u trasi kolovoza nove saobraćajnice i da nije moguće postići minimalnu udaljenost između spoljnjeg zida gornjeg reda cijevi i nivelete saobraćajnice od 0,5 m, potrebno je izvršiti izmještanje postojeće kablovske kanalizacije. Okna nove kanalizacije lociraju se u trotoaru ili zelenom pojasu predmetne saobraćajnice.
+(5) Ako je trasa nove saobraćajnice planirana tako da se ukršta sa postojećim elektronskim komunikacionim
+kablom, potrebno je izvršiti izmještanje trase postojećeg elektronskog komunikacionog kabla tako da ona bude vertikalna na osu saobraćajnice, pri čemu elektronski komunikacioni kabal treba da se nalazi u zaštitnoj cijevi, kao i da se položi barem još jedna dodatna rezervna cijev. Dužina cijevi u kojoj se nalazi elektronski komunikacioni kabal treba da bude sa svake strane za 0,5 m veća od širine trase saobraćajnice. Ako trasa cijevi presijeca trotoar, i nastavlja se u zelenom pojasu, tada pomenuta trasa treba da završi u zelenom pojasu.
+(6) Po trasi i uz trasu podzemnog elektronskog komunikacionog kabla ili kablovske kanalizacije na udaljenosti manjoj od 2 m nije dopuštena sadnja drveća čije bi korijenje moglo onemogućiti pristup kablu ili ga može oštetiti.
+(7) Kod nadzemnih samonosivih elektronskih komunikacionih vodova potrebno je obezbijediti minimalni
+vazdušni koridor od 0,5 m oko voda.
