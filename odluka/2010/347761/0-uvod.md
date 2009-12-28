@@ -1,0 +1,2 @@
+Na osnovu člana 13 i člana 22 st. 1 i 4 Zakona o putevima ("Sl. list RCG", broj 42/04 i "Sl. list CG", broj 54/09), člana 45 i člana 51 stav 3 Zakona o lokalnoj samoupravi ("Sl. list RCG", broj 42/03, 28/04, 75/05 i 13/06), i člana 31 stav 1 tačka 8 Statuta Opštine Kolašin ("Sl. list RCG - Opštinski propisi", br. 25/04, 31/04 i 34/06), Skupština opštine Kolašin na sjednici održanoj 28.12.2009. godine, donijela je
+ODLUKU
