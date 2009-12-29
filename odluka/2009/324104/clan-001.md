@@ -1,0 +1,6 @@
+# Član 1
+## od izuzetnog značaja "Tvrđave Sveti Ivan"
+U Odluci o raspisivanju meĎunarodnog javnog poziva, putem zatvorenih ponuda, za davanje u dugoročni zakup objekata II, III, IV, V, VI i VII, koji se nalaze na kat.parc. 371 KO Kotor II i predstavljaju sastavni dio spomeničkog kompleksa od izuzetnog značaja "TvrĎave Sveti Ivan" ("Sl. list CG - Opštinski propisi" broj 10/09) u članu 4. stav 1. alinjeja 1. iz tačke a) mijenja se i glasi:
+- "realizaciju prethodnih i pripremnih radova i izradu idejnog projekta za potrebe sanacije, rekonstrukcije i revitalizacije objekata iz člana 1. ove odluke i njihovog privoĎenja utvrĎenoj namjeni kao spomeničkog kompleksa od izuzetnog značaja sa pripadajućim bedemima, platoima, stepeništima, prilazima i prolazima na kat.parceli 371 KO Kotor II, u skladu sa zakonima Crne Gore i UNESCO-vim dokumentima i dokumentima Savjeta Evrope i EU koja se odnose na spomenike kulture od meĎunarodnog značaja.
+Regionalni zavod za zaštitu spomenika kulture Kotor će prethodno uraditi arhivska, sistematsko-arhitektonska i sondažno-arheološka istraživanja sa izradom dokumentacije o postojećem stanju objekata, preventivnom zaštitom nalaza i izdatih konzervatorskih uslova za izradu projektne dokumentacije."
+U istom članu u tački d. umjesto riječi "tri godine" treba da stoji "osamnaest mjeseci".
