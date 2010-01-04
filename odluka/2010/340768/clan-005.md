@@ -1,0 +1,2 @@
+# Član 5
+Ova odluka stupa na snagu danom objavljivanja u "Službenom listu CG - Opštinski propisi", a primjenjivaće se od 1. januara 2010. godine do donošenja Budžeta Opštine Pljevlja za 2010. godinu, odnosno do 31. marta 2010. godine.
