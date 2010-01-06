@@ -1,0 +1,2 @@
+Na osnovu člana 14 stav 2 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 12/95), člana 48 stav 1 alineja 46 Statuta Glavnog grada ("Sl. list RCG-Opštinski propisi", broj 28/06) i člana 13 stav 1 alineja 5 Odluke o osnivanju "Parking servis" doo Podgorica ("Sl. list RCG- Opštinski propisi", broj 50/06), Skupština Glavnog grada - Podgorice, na sjednici održanoj 24.12.2009. godine, donijela je
+O D L U K U
