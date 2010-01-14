@@ -1,0 +1,3 @@
+Na osnovu člana 49 stav 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06), člana 33. tačka 18. Statuta Opštine Pljevlja ("Sl. list RCG - opštinski propisi", br. 37/04, 30/74 i 32/09) i člana 11. Odluke o obrazovanju radnih tijela Skupštine ("Sl. list RCG - opštinski propisi", br. 43/06 i 35/09), Skupština Opštine Pljevlja, na sjednici održanoj 24. 12. 2009. godine, donijela je
+ODLUKU
+o izmjeni Odluke o imenovanju Odbora za društvene djelatnosti Skupštine opštine
