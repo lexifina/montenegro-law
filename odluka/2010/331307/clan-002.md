@@ -1,0 +1,4 @@
+# Član 2
+LSL se sastoji iz tekstualnog dijela i grafičkih priloga postojećeg i planiranog stanja, urađenih u vidu knjige (elaborata) u analognoj i digitalnoj formi.
+Tekstualni dio sadrži: 1. Opšti dio, 2. Dokumentaciona osnova, 3. Analiza postojećeg stanja, 4. Plan, 5. Uslovi za uređenje prostora, 6. Plan infrastrukture, 7. Elementi za procjenu uticaja na životnu sredinu i Sveska 2 - Analiza predjela brda Spas.
+Grafički prilozi: 01. Ovjerena topografsko-katastarska podloga, 02. Topografsko- katastarska podloga sa granicom zahvata, 03. Izvod iz PPO-a Budva, 04. Izvod iz GUP-a Budva, 05. Postojeće korišćenje prostora, 06. Plan namjene površina, 07. Plan parcelacije, 08. Horizontalna i vertikalna regulacija, 09. Saobraćajna infrastruktura, 10. Elektroenergetska infrastruktura, 11. Telekomunikaciona infrastruktura, 12. Hidrote- hnička infrastruktura i 13. Pejzažna arhitektura.
