@@ -1,0 +1,2 @@
+Na osnovu čl. 1 i 4 Zakona o eksproprijaciji ("Sl. list RCG", br. 55/00, 12/02 i 28/06 i "Sl. list CG", broj 21/08), člana 33 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06) i člana 35 Statuta Opštine Tivat ("Sl. list RCG-Opštinski propisi", br. 40/04 i 26/06) Skupština opštine Tivat, na sjednici održane dana 29.12.2009. godine, donijela je
+O D L U K U
