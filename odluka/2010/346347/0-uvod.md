@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 1 tačka 15 i člana 34 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04,75/05 i 13/06), člana 7 Zakona o sportu ("Sl. list RCG", br. 49/04 i 13/07), Zakona o Javnim preduzećima ("Sl. list SRCG", broj 06/91), a u vezi sa članom 3 st. 4 i 5 Zakona o društvenim djelatnostima ("Službeni list SRCG", br. 19/90 i 6/91) i člana 31 Statuta Opštine Kolašin ("Sl. list RCG- Opštinski propisi", br. 25/04,31/04 i 34/06), Skupština opštine Kolašin na sjednici održanoj dana 28.12. 2009. godine, donijela je
+ODLUKU
