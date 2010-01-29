@@ -1,0 +1,29 @@
+# Član 2
+Stanovi se dodjeljuju sljedećim licima:
+1. Janković Zorka,
+2. Vujisić Dragić,
+3. Rakočević Radoje,
+4. Đukić Miroslav,
+5. Đorđevski Anka,
+6. Matović Grujica,
+7. Usović Momir,
+8. Rakočević Jagra,
+9. Drljević Darko,
+10. Kljajić Dragan,
+11. Vlahović Milan,
+12. Popović Zorica,
+13. Popović Dragoljub,
+14. Bošković Mašan,
+15. Bošković Pejo,
+16. Đurđić Nevenka,
+17. Čogurić Milanka,
+18. Bulatović Biljana
+19. Kljajić Bogdanka,
+20. Vuksanović Vesna,
+21. Mahmutović Aida,
+22. Bakić Velimir,
+23. Mašković Kata,
+24. Krković Radojica,
+25. Rajković Milica,
+26. Pejić Dragan.
+Za raspodjelu na korišćenje ostaje još 14 stanova koja će uslijediti nakon rješavanja spornih pitanja vezanih za ostvarivanje stanarskih prava i imovinskih odnosa.
