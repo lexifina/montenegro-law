@@ -1,0 +1,7 @@
+# Član 2
+## Zajedničko ulaganje
+U vršenju poslova iz sopstvene nadležnosti, a u oblasti zaštite dobrobiti životinja Opština Kotor i Opština Tivat putem zajedničkog ulaganja organizuju poslove od zajedničkog interesa iz člana 1. ove odluke na način što:
+1. Opština Kotor obezbjeđuje pravo korišćenja (dugogodišnjeg zakupa) na zemljištu na svom području sa pripadajućim privremenim objektom koji se koristi za potrebe izgubljenih i napuštenih pasa sa područja Opštine Kotor (dio kat.par. 967 K.O Kavač u površini utvrđenoj projektom, a čija ukupna površina iznosi 14.261 m2) i privremenu lokaciju (do donošenja lokalnog planskog dokumenta za predmetno područje) sa potrebnim priključcima na komunalnu infrastrukturu, idejno rješenje, odnosno projekat izgradnje skloništa i sva potrebna odobrenja za izgradnju i upotrebu Skloništa.
+2. Opština Tivat za potrebe izgradnje I faze Skloništa koju čini: prijemni dio (prostorija za prijem, veterinarsku obradu, čišćenje i karantin), stacionarni dio (zatvoreni i otvoreni prostori za smještaj i boravak životinja- 20 boksova), servisni dio (prostorija za skladište, čuvanje, pripremu i raspodjelu hrane) i upravni dio (prostorija za zaposlene) obezbjeđuje iznos od ukupno 65.000 eura.
+Sva međusobna prava i obaveze koje proizilaze iz zajedničkog ulaganja u izgradnju i održavanje Skloništa Opština Kotor i Opština Tivat će regulisati posebnim ugovorom u skladu sa odredbama ove odluke.
+Ovlašćuje se Predsjednik Opštine Kotor da u ime Opštine Kotor potpiše ugovor iz stava 2.ovog člana sa Predsjednikom Opštine Tivat.
