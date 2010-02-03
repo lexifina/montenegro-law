@@ -1,0 +1,2 @@
+Na osnovu člana 132 st. 3 i 4 Zakona o svojinsko- pravnim odnosima ("Sl. list RCG", broj 19/09), člana 6 Zakona o državnoj imovini ("Sl. list CG", broj 21/09), člana 16 stav 2 i člana 30 Statuta Opštine Kotor ("Sl. list - opštine Kotor", broj 3/04 i "Službeni list CG- Opštinski propisi", br. 17/08 i 31/09) i Zaključka Vlade Crne Gore Broj 03-13106 od 24.12.2009. god., Skupština opštine Kotor, na sjednici održanoj dana 19. 11. 2009. godine, donosi sljedeću
+O D L U K U
