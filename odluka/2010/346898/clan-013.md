@@ -1,0 +1,2 @@
+# Član 13
+Privremeni kamp predstavlja privremeni objekat koji čini zemljište određeno za boravak lica pod šatorom, u kamp kućici, kamp prikolici ili drugoj opremi za smještaj ljudi na otvorenom prostoru. Za odobrenje postavljanja privremenog kampa, mora biti određen organizator kampovanja, vrijeme za koje se određeno zemljište može koristiti kao privremeni kamp, ispunjeni minimalno- tehnički uslovi privremenog objekta za obavljanje djelatnosti turističkih objekata.

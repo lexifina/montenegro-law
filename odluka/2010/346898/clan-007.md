@@ -1,0 +1,2 @@
+# Član 7
+Štand, pano, mreža i pult predstavljaju otvorene privremene objekte, kod kojih jedan konstruktivni sklop objedinjuje površinu za izlaganje, (eventualno) čuvanje robe i zaštitu od atmosferskih prilika.To su laki mobilni objekti, koji se postavljaju na gotovu podlogu i površina im ne prelazi 3 m2. Na otvorenim privremenim objektima se može vršiti prodaja umjetničkih predmeta, knjiga, štampe, suvenira, čestitki, cvjeća i proizvoda domaće radinosti.

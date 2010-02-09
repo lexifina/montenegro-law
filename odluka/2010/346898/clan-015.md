@@ -1,0 +1,2 @@
+# Član 15
+Povremena pijaca je privremeni objekat koji predstavlja uređeno zemljište koje se privremeno koristi u svrhu prodaje namirnica. Za odobrenje za postavljanje povremene pijace kao privremenog objekta, mora biti određen organizator istih, vrijeme za koje se zemljište može koristiti kao privremeni objekat tog tipa, kao i ispunjeni minimalno- tehnički uslovi za obavljanje ove privredne djelatnosti.
