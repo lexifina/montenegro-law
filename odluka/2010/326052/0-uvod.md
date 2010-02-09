@@ -1,0 +1,2 @@
+Na osnovu člana 36 stav 3 Statuta Skupštine opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 31/06, 14/07, 16/09), a u skladu sa Programom borbe protiv korupcije i organizovanog kriminala i Akcionim planom za sprovođenje Programa borbe protiv korupcije i organizovanog kriminala, koji je donijela Vlada Crne Gore, Skupština opštine Herceg Novi, na sjednici održanoj dana 29.12.2009. godine, donosi
+O D L U K U
