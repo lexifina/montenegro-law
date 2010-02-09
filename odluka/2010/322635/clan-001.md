@@ -1,0 +1,10 @@
+# Član 1
+## o izmjeni Odluke o izradi Lokalne studije lokacije "LAPČIĆI"
+U Odluci o izradi Lokalne studije lokacije "Lapčići" ("Službeni list RCG-opštinski propisi", br. 32/06, 09/07, 25/08, 27/08 i ("Službeni list CG-Opštinski propisi", broj 36/09), Član 2, stav 1 mijenja se i glasi:
+" - sa južne strane: granicom kat. parcela 1986/3, 1986/2 i 1887 sa jedne strane i kat. parc. 1986/1 sa druge strane i dalje lokalnim putem koji je označen kao kat.parcela 1890, u istom pravcu potokom koji je označen kao kat. parcela 4588, zatim putem koji je označen kao kat. parcela 2044 i dalje potokom koji je označen kao kat. parcela 4590 i nastavlja granicom kat. parcela 2077, 2076, 2070, 2125 sa jedne i kat. parcela 2075, 2073, 2069 i 2126, sve KO Maini sa druge strane i dalje potokom koji je označen kao kat. parc. 4591 KO Maini i u istom pravcu lokalnim putem koji je označen kao kat.parc. 4605 KO Maini.
+- sa zapadne strane: granicom kat.parc. 1697, 1694, sa jedne i kat.parc. 1698, sve KO Maini sa druge strane, zatim lokalnim putem koji je označen kao kat. parc. 4599 (put za Pobore) i dalje potokom koji je označen kao kat.parc. 87 KO Maini.
+- sa sjeverne strane: granicom kat.parc. 97, 102, 111, 110/1, 109, 130, 142, sa jedne i kat. parc. 96, 112, 113, 136, 135, 137, sve KO Maini, sa druge strane i dalje putem koji je označen kao kat.parc. 151 KO Maini.
+- sa istočne strane: potokom koji je označen kao kat. parc. 4588 i 4589, zatim granicom kat. parc. 227, 229, 1921, sa jedne i kat. parc. 226, 230, 1923, 1922, sa druge strane i dalje makadamskim putem koji je označen kao kat. parc.1929 i 1956 KO Maini i dalje potokom koji je označen kao kat.parc. 4587 KO Maini, nastavlja starim putem za Cetinje, označen kao kat.parc. 4606 KO Maini i u istom pravcu regionalnim putem Budva - Cetinje.
+Površina zahvata iznosi 55.90 ha".
+Član 6 mijenja se i glasi:
+"Područje za koje se izrađuje Studija nalazi se u obuhvatu Prostornog plana Opštine Budva ("Službeni list RCG - opštinski propisi", broj 30/07 i "Službeni list CG - Opštinski propisi", broj 11/09), koji planovi sadrže smjernice za izradu Studije.
