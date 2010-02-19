@@ -1,0 +1,2 @@
+Na osnovu člana 34 Zakona o državnoj imovini ("Sl. list Crne Gore", broj 21/09), člana 22 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list Crne Gore", broj 88/09) i člana 36 st 1 tač 38 Statuta Opštine ("Sl. list RCG-Opštinski propisi", br. 15/04, 31/06, 14/07 i "Sl. list CG-Opštinski propisi", broj 16/09), Skupština opštine Herceg Novi, na sjednici održanoj dana 19.02.2010. godine, donijela je
+O D L U K U
