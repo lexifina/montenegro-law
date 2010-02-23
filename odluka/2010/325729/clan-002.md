@@ -1,0 +1,2 @@
+# Član 2
+Izmjene i dopune DUP-a, obuhvataju mali dio Detaljnog urbanisti kog plana "Rozino 2" i to dio Bloka 4, (urbanisti ka parcela 12, odnosno katastarske parcele: 1430, 1433/1, 1433/2, 1433/3, dio 1431, dio 1432 i dio 1425/3, sve KO Budva i urbanisti ka parcela 14 odnosno kat. parcele: dio 1425/3, dio 1432 i dio 1431, sve KO Budva), kao i lokacije na kojima su uo ene nepravilnosti u postupku sprovođenja DUP-a.
