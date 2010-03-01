@@ -1,0 +1,3 @@
+Na osnovu člana 14 stav 2 tačka 3 Zakona o komunalnim djelatnostima ("Službeni list RCG", broj 12/95), člana 48 stav 1 alineja 2 Statuta Glavnog grada ("Službeni list RCG-opštinski propisi", broj 28/06, člana 23 stav 2 Odluke o javnim parkiralištima ("Službeni list CG-opštinski propisi", broj 38/09) i člana 13 stav 1 alineja 6 Odluke o osnivanju "Parking servis Podgorica" d.o.o. Podgorica ("Službeni list RCG- opštinski propisi", broj 50/06), Skupština Glavnog grada - Podgorice, na sjednici održanoj 26.02. i 01.03.2010. godine, donijela je
+O D L U K U
+o davanju saglasnosti na Cjenovnik usluga za opšta i posebna parkirališta Odbora
