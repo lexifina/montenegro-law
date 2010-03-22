@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta Opštine Plužine ("Sl. list RCG- Opštinski propisi", br. 23/04 i 7/07) a u vezi sa članom 3 st. 1 i 2 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 16/00 - prečićen tekst, 18/00, 9/01, 41/02, 46/02, 48/06), članom 44 stav 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG" br. 88/09 i 3/10) i članom 24 Statuta Opštine Plužine, Skupština opštine Plužine, na sjednici održanoj 22.03.2010. godine donijela je
+ODLUKU
