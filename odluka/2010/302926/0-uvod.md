@@ -1,0 +1,2 @@
+Na osnovu čl. 14, 15 i 16, u vezi sa članom 105 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06 i 56/06), člana 52 stav 2 Zakona o Glavnom gradu ("Sl. list RCG", broj 65/05) i člana 23 stav 1 tačka 3 Statutarne odluke Gradske opštine Golubovci ("Sl. list RCG- opštinski propisi", broj 14/07), Skupština Gradske opštine Golubovci, na sjednici održanoj dana 22. 03. 2010. godine, donijela je
+O D L U K U
