@@ -1,0 +1,2 @@
+Na osnovu člana 3 st. 1 i 2 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06 i 56/06), čl. 11, 12 i 28 u vezi sa članom 52 stav 2 Zakona o Glavnom gradu ("Službeni list RCG", broj 65/05) i člana 48 stav 1 alineja 43 Statuta Glavnog grada ("Službeni list RCG- Opštinski propisi", broj 28/06), Skupština Glavnog grada-Podgorice, na sjednici održanoj 22. 03. 2010. godine, donijela je
+ODLUKU
