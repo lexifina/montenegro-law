@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03 i 28/04, 75/05, 13/06 i "Sl. list CG", broj 88/09), člana 40 stav 1 Zakona o Budžetu ("Sl. list RCG", br. 40/01, 44/01, 28/04, 71/05 i "Sl. list CG", br. 12/07, 73/08, 53/09), čl. 62, 63 i 64 Zakona o finasiranju lokalne samouprave ("Sl. list RCG", br. 42/03, 44/03 i "Sl. list CG", br. 05/08, 51/08) i čl. 39 i 47 stav 2 Statuta Opštine Budva ("Sl. list Opštine Budva", broj 04/05), Skupština opštine Budva, na sjednici održanoj dana 8.marta. 2010. godine, donijela je
+O D L U K U
