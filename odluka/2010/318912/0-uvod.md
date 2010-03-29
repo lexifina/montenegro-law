@@ -1,0 +1,2 @@
+Na osnovu čl. 45 i 49 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", broj 88/09), čl. 32 i 33 Statuta Opštine Mojkovac ("Sl. list RCG - Opštinski propisi", broj 3/05) i čl. 2 i 7 Odluke o obrazovanju radnih tijela Skupštine opštine Mojkovac ("Sl. list RCG - Opštinski propisi", broj 15/06), Skupština opštine Mojkovac, na sjednici održanoj 01.03.2010. godine, donijela je
+O D L U K U
