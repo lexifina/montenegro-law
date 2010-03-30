@@ -1,0 +1,2 @@
+# Član 3
+UP obuhvata prostor površine 15,79 ha, u KO Sveti Stefan koji je ograničen: sa zapadne strane: Morskim dobrom-Jadranskim morem; sa sjeverne strane: granicom kat. parc. 1456/34,1491, 1488, 1458/20, 1473/1,1472, 1471 i 1468, sa jedne i kat. parc. 1456/21, 1456/7 i 1455, sa druge strane;sa istočne strane: magistralnim putem Budva- Bar; sa južne strane: potokom koji je označen kao kat.parc. 1907, do Morskog dobra- Jadranskog mora.
