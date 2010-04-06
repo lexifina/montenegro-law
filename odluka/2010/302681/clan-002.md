@@ -1,0 +1,2 @@
+# Član 2
+Nekretninu iz člana 1 ove odluke Opština Kotor ustupa bez naknade Vaterpolo i plivačkom savezu Crne Gore i Vaterpolo klubu "Primorac" Kotor za po 1/2, u svrhu rješavanja stambenih potreba vaterpolista iz Kotora koji su kao članovi vaterpolo reprezentacije Crne Gore osvojili zlatnu medalju na Evropskom prvenstvu u Malagi 2008. godine i koji su učestvovali u osvajanju klupske titule Evropskog šampiona (Evro liga u Rijeci), a nemaju riješeno stambeno pitanje, izgradnjom stambenog objekta u skladu sa urbanističko-tehničkim uslovima utvrđenim DUP-om Kavča.
