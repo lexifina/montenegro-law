@@ -1,0 +1,2 @@
+# Član 2
+Nekretninu iz člana 1 ove odluke Opština Kotor ustupa bez naknade Državnom tužilaštvu Crne Gore - za potrebe Osnovnog državnog tužilaštva u Kotoru za po 1/3 i Osnovnom sudu u Kotoru za po 2/3, u svrhu rješavanja stambenih potreba zaposlenih službenika i namještenika, koji nemaju riješeno stambeno pitanje, izgradnjom stambenog objekta u skladu sa urbanističko-tehničkim uslovima utvrđenim DUP-om Kavča.

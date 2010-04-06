@@ -1,0 +1,2 @@
+Na osnovu člana 6, a u vezi sa članom 34 Zakona o državnoj imovini ("Službeni list CG", broj 21/09), člana 28 Zakona o svojinsko - pravnim odnosima ("Službeni list CG", broj 19/09), čl. 576 i 581 stav 1 Zakona o obligacionim odnosima ("Službeni list CG", broj 47/08) i člana 16 stav 2 i člana 30 Statuta Opštine Kotor ("Službeni list Opštine Kotor", broj 3/04 i "Službeni list CG-Opštinski propisi", br. 17/08 i 31/09), Zaključka Vlade br. 03-1312 od 04.03.2010 god., Skupština opštine Kotor na sjednici održanoj dana 25. 02. 2010. godine, donijela je
+O D L U K U
