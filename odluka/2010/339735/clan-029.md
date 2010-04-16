@@ -1,0 +1,3 @@
+# Član 29
+Pod upravljanjem vodnim objektima podrazumijeva se naročito: vođenje evidencije o vodnim objektima, nadzor u pogledu racionalnog korišćenja raspoloživih količina vode, naplata usluga za isporučenu vodu potrošačima, plaćanje troškova pogona i održavanja vodnih objekata, kontrola stanja korišćenja i održavanja vodnih objekata.
+Pod održavanjem vodnih objekata podrazumijeva se održavanje istih u ispravnom stanju u smislu tehničke ispravnosti uređaja i vodne mreže, uključujući i mjerni instrument potrošača, kao i obezbjeđivanje higijenske ispravnosti vode u skladu sa zakonskim i podzakonskim aktima iz ove oblasti.
