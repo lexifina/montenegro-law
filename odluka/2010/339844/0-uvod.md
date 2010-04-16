@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2, člana 51 stav 3 u vezi sa članom 90 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", broj 88/09), člana 13 stav 1 tačka 1 alineja 1, člana 32 stav 1 alineja 14 i člana 40 Statuta Opštine Nikšić ("Službeni list RCG-Opštinski propisi", br. 20/04 i 43/06), Skupština opštine Nikšić na sjednici održanoj 29.03.2010. godine, donijela je
+O D L U K U
