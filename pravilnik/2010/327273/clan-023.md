@@ -1,0 +1,4 @@
+# Član 23
+(1) Uređaji za osvjetljavanje puta i za davanje svjetlosnih znakova postavljeni na prednjoj strani motornog i priključnog vozila ne smiju davati svjetlost crvene boje vidljivu sa prednje strane vozila kao i svjetlost bijele boje od svjetala i reflektujućih materija postavljenih na zadnjoj strani vozila, odnosno vidljivih sa zadnje strane vozila.
+(2) Uređaji iz člana 22 stav 1 ovog pravilnika moraju biti tako ugrađeni i izvedeni da se međusobno ne ometaju u svojoj funkciji i dejstvu više nego što je to neizbježno, iako su izvedeni u jednom dijelu/uređaju.
+(3) Odredbe stava 1 ovog člana ne odnose se na svijetla za osvjetljavanje puta pri vožnji unazad, pokretno svijetlo za istraživanje (reflektor), svijetla za osvjetljavanje zadnje registarske tablice i registarsku tablicu prevučenu bijelom reflektujućom materijom, kao i na crveno treptuće svijetlo na motornim vozila koja služe kao podrška vozilima pod pratnjom.

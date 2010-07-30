@@ -1,0 +1,5 @@
+# Član 100
+(1) Motorna i priključna vozila koja se zbog konstrukcijskih razloga, na ravnom putu ne mogu kretati brzinom većom od 30 km/h, moraju biti obilježena znakom za označavanje sporih vozila.
+(2) Na vozilu mora postojati najmanje jedan znak za obilježavanje sporih vozila, postavljen na zadnjem dijelu vozila. Ako je na vozilu samo jedan znak za obilježavanje sporih vozila onda on mora biti postavljen tako da se nalazi, u odnosu na uzdužnu vertikalnu osu simetrije vozila, na lijevoj strani vozila. Znak za obilježavanje sporih vozila mora biti postavljen na visini ne manjoj od 250 mm (do donje ivice znaka) i ne višoj od 1500 mm (do gornje ivice znaka), mjereći od površine kolovoza do ivice znaka.
+(3) Sva vozila iz stava 1 ovog člana, registrovana u Crnoj Gori moraju biti označena znakom za označavanje sporih vozila od 1. juna 2010. godine.
+(4) Izgled, osnovne boje i dimenzije znaka kojim se obilježavaju spora vozila prikazan je u Prilogu broj 1, koji je odštampan uz ovaj pravilnik i čini njegov sastavni dio.

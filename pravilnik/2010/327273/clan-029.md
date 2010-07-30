@@ -1,0 +1,7 @@
+# Član 29
+(1) Svijetla za maglu na motornim vozilima sa četiri ili više točkova i na motornim vozilima sa tri točka koja su šira od 1,3 m, mogu biti ugrađena i izvedena kao dva svijetla za maglu, a na motociklima i motociklima sa bočnom prikolicom kao jedno svijetlo za maglu tako da daju svjetlost bijele ili žute boje.
+(2) Svijetla za maglu ne smiju se postavljati na većoj visini od one na kojoj su postavljena oborena svijetla.
+(3) Udaljenost donje ivice svijetleće površine svijetla za maglu od površine puta ne smije biti manja od 0,25 m. Spoljna ivica svijetleće površine svijetla za maglu ne smije biti udaljena više od 0,4 m od bočno najisturenije tačke vozila.
+(4) Svijetla za maglu moraju imati posebnu sklopku. Data svijetla moraju biti povezana tako da se mogu uključiti samo kad su uključena makar poziciona svijetla ili oborena svijetla.
+(5) Svijetla za maglu moraju biti tako izvedena da se omogućava njihovo podešavanje. Ugradnja treba biti izvedena na odgovarajućem dijelu vozila, tako da nije moguće da se njihova podešenost promijeni ne namjerno.
+(6) Svijetla za maglu trebaju biti tako podešena da je izbjegnuto zasljepljivanje ostalih učesnika u saobraćaju. Ovo će se smatrati zadovoljenim ukoliko na rastojanju od 25 m od izvora svjetlosti u ravni vertikalnoj na put, a u visini sredine svijetla za maglu, intenzitet svjetlosti svakog pojedinačnog svijetla za maglu, sa nazivnim naponom napajanja na njegovim priključcima, ne prelazi 1 lx.

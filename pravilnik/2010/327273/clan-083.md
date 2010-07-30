@@ -1,0 +1,3 @@
+# Član 83
+(1) Katadiopteri na zaprežnim vozilima moraju biti ugrađeni i izvedeni kao dva katadioptera crvene boje, koji nijesu trouglastog oblika, simetrično postavljena na zadnjoj strani vozila, tako da su noću pri dobroj vidljivosti, vidljiva na udaljenosti od najmanje 100 m kad su osvijetljena dugim svjetlom motornog vozila.
+(2) Reflektujuća površina katadioptera ne smije biti manja od 0,3 m2 ni više od 1 m2 udaljena od površine puta. Međusobno rastojanje reflektujućih površina katadioptera ne smije biti manje od 0,5 m2. Reflektujuća površina pojedinih katadioptera mora iznositi najmanje 20 cm2.

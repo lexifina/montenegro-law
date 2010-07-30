@@ -1,0 +1,4 @@
+# Član 89
+(1) Motorna i priključna vozila, osim mopeda, motocikla, motornog vozila sa tri točka, lakog četvorocikla, četvorocikla, traktora, traktorskih prikolica, prikolica sa jednom osovinom, gradskih autobusa i vozila namijenjenih za komunalne usluge (pranje i čišćenje ulica, odvoz smeća i fekalija i dr.), moraju imati rezervni točak sa pripadajućom opremom koji se po potrebi može upotrebiti.
+(2) Rezervni točak ne moraju imati motorna i priključna vozila ako su pneumatici ili naplatci opremljeni nekim sigurnosnim sistemom za bezbjednu vožnju sa izduvanom pneumatikom.
+(3) Rezervni točak ne moraju imati motorna i priključna vozila ukupne mase do 3,5 t ako vozilo posjeduje odgovarajuće sredstvo za privremeno osposobljavanje izduvanog pneumatika (npr. sprej ili pjena u boci pod pritiskom, itd.).

@@ -1,0 +1,4 @@
+# Član 58
+(1) Brave na vratima vozila moraju biti dvostepene i ugrađene i izvedene tako da drugi stepen brave spriječava otvaranje vrata, ako vrata nijesu potpuno zatvorena. Brave moraju imati uređaj kojim se osiguravaju tako da se lako učvrste u sigurnosni položaj. Brave na vratima koja se nalaze pored vozača, kao i brave na vratima teretnih motornih vozila, ne moraju biti osigurane na ovakav način.
+(2) Vrata, poklopci i druge vrste zatvarača na otvorima zatvorenih karoserija, čiji su slobodni otvori veći od minimalnih dimenzija za ulaz jedne osobe, moraju biti izvedeni tako da se mogu otvoriti i sa unutrašnje strane.
+(3) Poklopci na svim spoljašnjim stranama motornih i priključnih vozila moraju biti izvedeni, odnosno obezbijeđeni tako da se ne mogu sami otvoriti za vrijeme vožnje, pa ni pri jačim potresima.
