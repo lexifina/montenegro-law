@@ -1,0 +1,2 @@
+Na osnovu člana 29 Zakona o Glavnom Gradu ("Službeni list RCG - Opštinski propisi", broj 65/05), kao i člana 26 Statutarne odluke Gradske opštine ("Službeni list RCG - Opštinski propisi", broj 50/06), Skupština Gradske opštine, na sjednici održanoj dana 28. 07. 2010. godine, donosi
+O D L U K U o stavljanju van snage Odluke o raspisivanju i organizovanju referenduma na teritoriji Gradske opštine za slobodno izjašnjenje građana o potrebi osnivanja opštine Malesija/Tuzi ("Sl. list Crne Gore - Opštinski propisi", broj 20/10 od 31.05.2010)
