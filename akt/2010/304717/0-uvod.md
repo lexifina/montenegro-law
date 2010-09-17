@@ -1,0 +1,2 @@
+Na osnovu člana 51 stav 4 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", broj 88/09), člana 40 stav 1 tačka 41 Statuta Opštine Budva ("Sl. list CG-Opštinski propisi", broj 19/10) i člana 9 stav 2 Odluke o osnivanju JP "Pogrebne usluge" - Budva ("Sl. list Opštine Budva", br. 9/06 i 2/07), Skupština opštine Budva, na sjednici održanoj dana 17. septembra 2010. godine, donijela je
+R J E Š E NJ E
