@@ -1,0 +1,2 @@
+Na osnovu člana 40 Statuta Opštine Budva ("Službeni list CG-Opštinski propisi", broj 19/10), Skupština opštine Budva, na sjednici održanoj dana 17. septembra 2010.godine, donijela je
+R J E Š E NJ E
