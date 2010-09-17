@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 Zakona o kulturi ("Sl. list CG", broj 49/08), člana 7 Odluke o osnivanju Javne ustanove "Muzeji, galerija i biblioteka" i "Grad teatar" ("Sl. list Opštine Budva", br. 13/91, 02/92, 08/92, 05/96, 09/98, 02/07, 05/09, 07/09 i 09/09) i člana 40 stav 1 tačka 41 Statuta Opštine Budva ("Sl. list CG - Opštinski propisi", broj 19/10), Skupština opštine Budva, na sjednici održanoj dana 17. septembra 2010.godine donijela je
+R J E Š E NJ E
