@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2, člana 87, a u vezi sa članom 90 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list RCG", broj 88/09) i člana 6 Odluke o zaradama i drugim pravima po osnovu rada lokalnih funkcionera Opštine Rožaje ("Sl. list CG - Opštinski propisi", broj 33/08) i člana 41 Statuta Opštine Rožaje ("Sl. list RCG - Opštinski propisi", broj 33/04), Skupština opštine Rožaje na sjednici održanoj dana 8.09.2010. godine, donijela je
+O D L U K U
