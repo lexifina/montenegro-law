@@ -1,0 +1,2 @@
+Na osnovu člana 55 Zakona o finansiranju lokalne samouprave ("Sl. list RCG ", br. 42/03, 44/03 i "Sl. list CG", br. 5/08 i 51/08), člana 51 Zakona o Budžetu ("Sl. list RCG", br. 40/01, 44/01, 28/04, 71/05 i "Sl. list CG ", br. 12/07, 73/08 i 53/09) i člana 35 Statuta Opštine Danilovgrad ("Sl. list RCG - Opštinski propisi" , broj 30/04 i "Sl. list CG-Opštinski propisi ", broj 19/08), Skupština opštine Danilovgrad, na sjednici održanoj dana 15. i 16.09.2010. godine donijela je
+Z A V R Š N I R A Č U N
