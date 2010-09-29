@@ -1,0 +1,2 @@
+Na osnovu člana 1 Zakona o eksproprijaciji ("Sl. list RCG", br. 55/00, 28/06 i "Sl. list CG", broj 21/08), člana 33 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list Crne Gore", broj 88/09 i ispravke broj 3/10) i člana 41 Statuta Opštine Rožaje ("Sl. list RCG - Opštinski propisi", broj 33/04) Skupština opštine Rožaje na sjednici održanoj dana 8.09.2010. godine, donijela je
+O D L U K U
