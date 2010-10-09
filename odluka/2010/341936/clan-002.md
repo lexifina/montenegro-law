@@ -1,0 +1,2 @@
+# Član 2
+Član 20 mijenja se i glasi: "Visina godišnje naknade za korišćenje komercijalnih objekata (djelatnost elektronskih komunikacija: elektronska komunikaciona infrastruktura, uređaji i oprema, prenosni i emisioni kapaciteti i oprema; elektroprivredni objekati i oprema; i proizvodni objekti) koji za pristup tim objektima koriste lokalni i nekategorisani put utvđuje se u iznosu od 3€/m za opštinski put i 1,5€/m za nekategorisani put.
