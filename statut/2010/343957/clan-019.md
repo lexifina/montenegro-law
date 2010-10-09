@@ -1,0 +1,27 @@
+# Član 19
+Opština, u skladu sa zakonom i drugim propisom:
+- Uređuje i obezbjeđuje obavljanje i razvoj komunalnih djelatnosti, održavanje komunalnih objekata i komunalnog reda;
+- uređuje i obezbjeđuje obavljanje poslova izgradnje, rekonstrukcije, održavanja i zaštite lokalnih i nekategorisanih puteva, kao i ulica u naseljima;
+- uređuje i obezbjeđuje prevoz putnika u gradskom i prigradskom linijskom saobraćaju, autotaksi prevoz i prevoz za sopstvene potrebe;
+- uređuje i obezbjeđuje obavljanje saobraćaja na svom području;
+- uređuje i obezbjeđuje uslove za izgradnju i korišćenje objekata, kao i uslove za izgradnju i postavljanje pomoćnih objekata i montažnih objekata privremenog karaktera;
+- uređuje i obezbjeđuje privođenje namjeni građevinskog zemljišta u skladu sa lokalnim planskirn dokumentima i komunalno opremanje građevinskog zemljišta;
+- uređuje i obezbjeđuje uslove za razvoj preduzetništva;
+- uređuje, obezbjeđuje i stara se o lokalnim dobrima od opšteg interesa;
+- obezbjeđuje uslove i stara se o zaštiti životne sredine i pojedinih njenih djelova (kvalitet vazduha, zaštita od buke, upravljanje čvrstim otpadom i dr.);
+- uređuje i obezbjeđuje uslove za upravljanje vodama, vodnim zemljištem i vodnim objektima od lokalnog značaja. stara se o njihovoj zaštiti i korišćenju, izdaje vodna akta i vodi propisane evidencije; utvrđuje erozivna područja, protiverozivne mjere i sprovodi zaštitu od erozija i bujica; organizuje i obezbjeđuje obavljanje drugih poslova iz oblasti upravljanja, korišćenja i zaštite voda i vodosnabdijevanja:
+- uređuje odnose u oblasti stanovanja i stara se o obezbjeđenju uslova za održavanje stambenih zgrada; - uređuje, obezbjeđuje i stvara uslove za razvoj kulture i zaštitu kulturne baštine;
+- uređuje, organizuje i stvara uslove i stara se o razvoju turizma, kao i razvoju djelatnosti kojima se unaprjeđuje razvoj turizma;
+- stvara uslove za razvoj i unaprjeđenje sporta djece, omladine i građana, kao i razvijanje međuopštinske sportske saradnje;
+- stvara uslove za korišćenje poljoprivrednog zemljišta i stara se o njegovoj zaštiti;
+- u skladu sa mogućnostima, učestvuje u obezbjeđivanju uslova i unaprjeđenju djelatosti: zdravstvene zaštite, obrazovanja, socijalne i dječije zaštite, zapošljavanja i drugih oblasti od interesa za lokalno stanovništvo i vrši prava i dužnosti osnivača ustanova koje osniva u ovim djelatnostima, Li skladu sa zakonom;
+- u skladu sa mogućnostima, uređuje i obezbjeđuje rješavanje stambenih potreba lica u stanju socijalne potrebe i lica sa posebnim potrebama i pomaže rad humanitarnih i nevladinih organizacija iz ovih oblasti; - uređuje i obezbjeđuje uslove za informisanje lokalnog stanovništva;
+- uređuje i obezbjeđuje uslove za razvoj bibliotečke i drugih djelatnosti od interesa za lokalno stanovništvo; - rješava o pravima iz oblasti boračko-invalidske zaštite i vodi evidenciju o korisnicima prava;
+- uređuje i obezbjeđuje uslove za zaštitu i spašavanje lokalnog stanovništva od elementarnih nepogoda, požara, eksplozija, havarija i drugih akcidentnih i vanrednih događaja;
+- organizuje i sprovodi mjere zaštite stanovništva od zaraznih bolesti;
+- stvara uslove za razvoj poljoprivredne proizvodnje i obavlja druge poslove iz ove oblasti;
+- obezbjeđuje uslove za zaštitu potrošača;
+- uređuje način i uslove držanja kućnih ljubimaca, način postupanja sa napuštenim i izgubljenim životinjama, obezbjeđuje uslove za njihovo zbrinjavanje;
+- utvrđuje radno vrijeme u određenim djelatnostima i određuje područja u kojima se može obavljati određena djelatnost;
+- uređuje i obezbjeđuje uslove za održavanje javnih sajmova lokalnog značaja;
+- uređuje način organizovanja javnih radova od lokalnog značaja.
