@@ -1,0 +1,2 @@
+Na osnovu člana 28 Zakona o turističkim organizacijama ("Sl. list RCG", br. 11/04 i 46/07), člana 40 stav 1 tačka 42 Statuta Opštine Budva ("Sl. list CG - Opštinski propisi", broj 19/10) i člana 12 Odluke o osnivanju Turističke organizacije opštine Budva ("Sl. list Opštine Budva", br. 05/04 i 04/07), Skupština opštine Budva na sjednici održanoj dana 26. avgusta 2010.godine, donijela je
+R J E Š E NJ E
