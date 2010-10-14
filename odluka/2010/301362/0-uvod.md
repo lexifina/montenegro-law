@@ -1,0 +1,2 @@
+Na osnovu člana 17 stav 1 al. 2 i 15, člana 34 st. 1 i 3 i člana 31 stav 1 Zakona o državnoj imovini ("Službeni list CG", broj 21/09), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", broj 88/09), člana 44 st. 1 i 2 i člana 71 Statuta Prijestonice ("Službeni list CG- Opštinski propisi", broj 19/09) Skupština Prijestonice Cetinje na sjednici održanoj dana 30.09. 2010. godine, donijela je
+O D L U K U
