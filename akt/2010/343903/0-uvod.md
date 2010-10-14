@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav l tačka 10 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", broj 88/09), člana 40 stava 1 tačka 10 Statuta Opštine Budva ("Sl. list CG - Opštinski propisi", broj 19/10) i člana 15 Odluke o mjesnim zajednicama ("Sl. list Opštine Budva", br. 09/06 i 01/10) Skupština opštine Budva na sjedinci održanoj dana 26. avgusta 2010.godine, donijela je
+R J E Š E NJ E
