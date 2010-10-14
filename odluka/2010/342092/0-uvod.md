@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", broj 88/09), člana 6 Zakona o komunalnim djelatnostima, člana 4 stav 2 i člana 26 stav 3 Zakona o prekršajima ("Sl. list RCG", br. 25/94, 29/94 i 48/99) i člana 40 stav 1 tačka 27 Statuta Opštine Budva ("Sl. list CG- Opštinski propisi", broj 19/10), Skupština opštine Budva, na sjednici održanoj dana 17. septembra 2010. godine, donijela je
+O D L U K U
