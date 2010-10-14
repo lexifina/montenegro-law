@@ -1,0 +1,2 @@
+# Član 2
+Komisija za procjenu tršišne vrijednosti nepokretnosti, zasada i pripadnosti je izvršila procjenu katastarskih parcela broj 1576/5 KO Maine, 2040/3 KO Budva i 768/2 KO Bečići i svojim izvještajima broj 001-838/2, 001-838/3 i 001-838/4 od 19.04.2010.godine, kojima je procjenila tržišnu vrijednost m² za kat.parcelu 1576/5 KO Maine u iznosu od 200 €, za kat.parcelu 2040/3 KO Budva iznosu od 450 € te za kat.parcelu 768/2 KO Bečići iznos u vrijednosti od 300€.
