@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 1 tačka 1 i člana 127 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", broj 88/09), člana 2 stav 1 tačke 8 i člana 11 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 12/95), čl. 1, 2 i 64 Zakona o privrednim društvima ("Sl. list RCG", br. 6/02, 17/07 i "Sl. list CG", broj 80/08), i člana 33 Statuta Opštine Berane ("Sl. list RCG - Opštinski propisi", br. 21/04 i 34/06), Skupština opštine Berane, na sjednici održanoj dana 7. oktobra 2010. donijela je
+O D L U K U
