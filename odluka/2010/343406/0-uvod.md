@@ -1,0 +1,2 @@
+Na osnovu člana 25 Zakona o turističkim organizacijama ("Sl. list RCG", br. 11/04 i 46/07), člana 12 Odluke o osnivanju Turističke organizacije Žabljak ("Sl. list RCG-Opštinski propisi", broj 16/05 i "Sl. list CG-Opštinski propisi", broj 33/09) i člana 38 Statuta Opštine Žabljak ("Sl. list RCG-Opštinski propisi", br. 9/05 i 23/07) Skupština opštine Žabljak, na sjednici održanoj dana 07.10.2010. godine, donijela je
+O D L U K U
