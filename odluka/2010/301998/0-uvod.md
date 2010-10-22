@@ -1,0 +1,3 @@
+Na osnovu člana 14 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Službeni list RCG", broj 12/95), člana 48 stav 1 alineja 46 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", broj 28/06) i člana 10b stav 2 Odluke o organizovanju Javnog preduzeća "Vodovod i kanalizacija" - Podgorica ("Sl. list SRCG-Opštinski propisi", br. 30/89, 25/91 i "Sl. list RCG-Opštinski propisi", br. 37/91, 15/96, 26/97, 13/00, 22/03, 19/04 i 34/04), Skupština Glavnog grada - Podgorice, na sjednici održanoj 04. i 05. 10. 2010. godine, donijela je
+O D L U K U
+o davanju saglasnosti na Odluku o izmjenama Statuta Javnog preduzeća "Vodovod
