@@ -1,0 +1,3 @@
+# Član 4
+Član 11 mijenja se i glasi: " Naknada za stambene i poslovne objekte, u slučaju kada investitor ruši postojeći i gradi novi objekat, obračunava se kao rekonstrukcija objekta u postojećim gabaritima, pod uslovom da investitor za objekat koji se ruši ima list nepokretnosti u kome nije upisan teret " nema građevinsku dozvolu", dok se razlika u površini objekta koji se gradi i koji se ruši obračunava po uslovima iz prethodnog člana ove odluke.
+U slučaju da je površina objekta koji se ruši veća od površine objekta koji se gradi, investitor nema pravo na povraćaj razlike vrijednosti naknade".
