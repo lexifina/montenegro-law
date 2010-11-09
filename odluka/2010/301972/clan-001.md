@@ -1,0 +1,5 @@
+# Član 1
+## o izmjeni Odluke o izradi Lokalne studije lokacije "STANIŠIĆI"
+U Odluci o izradi Lokalne studije lokacije "Stanišići" ("Sl. list RCG - Opštinski propisi", br. 32/06, 35/06 i "Sl. list CG - Opštinski propisi" br. 6/09, 36/09 i 13/10) član 2, stav 1, tačka 2 mijenja se i glasi:
+"- sa istočne strane: Kukočkim potokom koji je označen kao kat. parc. 4596 KO Maini, te u istom pravcu siječe kat. parc. 3526 KO Maini i nastavlja putem koji je označen kao kat.parc.3527 KO Maini, zatim granicom kat. parc.3255, 3258, 3263, 3234, 3228/1, sa jedne i kat.parc. 3532, 3254, 3251, 3246, 3245, 3244, 3242, 3243, 3237, 3235, 3232, sve KO Maini, sa druge strane, pa nastavlja lokalnim putem koji je označen kao kat.parc. 4612 KO Maini i dalje granicom kat.parc. 206, 205/1, sa jedne i kat parc. 205/2, sve KO Braići, do potoka koji je označen kao kat. parc. 4595 KO Maini i dalje u pravcu jugo- istoka, desnom stranom regionalnog puta Budva-Cetinje." Član 2, stav 2 mijenja se i glasi:
+"Površina zahvata iznosi 33.22 ha".
