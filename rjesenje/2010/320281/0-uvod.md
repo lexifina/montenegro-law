@@ -1,0 +1,2 @@
+Na osnovu člana 51 stav 4 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05/, 13/06 i "Sl. list CG", br. 88/09 i 3/10), člana 40 stav 1 tačka 41 Statuta Opštine Budva ("Sl. list CG-Opštinski propisi", broj 19/10) i člana 18 Odluke o osnivanju Komunalno-stambenog javnog preduzeća "Budva" - Budva ("Sl. list Opštine Budva", br. 2/90, 1/92, 3/94, 9/98, 9/06 i 2/07 i "Sl. list CG- Opštinski propisi", broj 32/10), Skupština Opštine Budva, na sjednici održanoj dana 16. novembra 2010. godine, donijela je
+R J E Š E NJ E
