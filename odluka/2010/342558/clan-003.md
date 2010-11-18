@@ -1,0 +1,2 @@
+# Član 3
+Iznos zakupnine utvrdiće se u skladu sa cjenovnikom iz člana 6 Odluke o poslovnim zgradama i prostorijama ("Službeni list Opštine Kotor", broj 1/98, 2/03, 4/06 i 6/06 i "Sl. list CG - Opštinski propisi", broj 10/09). Za vrijeme zakupa poslovnih prostorija iz člana 1 ove odluke, zakupodavac Opština Kotor neće naplaćivati zakupninu, već se to smatra njenim učešćem u finansiranju rada i aktivnosti zakupca Srpske pravoslavne crkvene opštine.
