@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 2 i 36 Zakona o planiranju i uređenju prostora ("Sl. list RCG", br. 16/95 i 22/95), a u vezi sa članom 163 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", broj 51/08) i člana 33 Statuta Opštine Pljevlja ("Sl. list RCG", br. 37/04 i 30/07 i "Sl. list CG-Opštinski propisi", broj 32/09), Skupština opštine Pljevlja na sjednici od 22. oktobra 2010. godine, donijela je
+O D L U K U
