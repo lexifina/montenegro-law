@@ -1,0 +1,2 @@
+Na osnovu člana 109 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", broj 88/09), člana 36 Statuta Opštine Andrijevica ("Sl. list RCG-Opštinski propisi", br. 21/04 i 42/06), a u vezi sa članom 3 Odluke o pristupanju izmjenama i dopunama Statuta Opštine Andrijevica ("Sl. list CG-Opštinski propisi", broj 26/10) Skupština opštine Andrijevica, na sjednici od 28.10.2010. godine, donijela je
+O D L U K U
