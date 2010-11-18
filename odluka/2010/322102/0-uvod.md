@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", broj 88/09), člana 30 Statuta Opštine Kotor ("Sl. list RCG - Opštinski propisi", broj 3/04), Zaključka Komisije za poslovni prostor br. 3671/3 od 22.10.2010. godine, Skupština opštine Kotor je, na sjednici održanoj dana 2. 11. 2010. godine, donijela
+O D L U K U
