@@ -1,0 +1,2 @@
+# Član 2
+Dio katastarske parcele 1211/2 u površini od 40 m2 vlasništvo Opštine Kotor sa kat. parc. 1208/1,1208/2,1208/3 Ko Dobrota I vlasništvo DOO " Bereg invest" čine jednu urbanističku parcelu označenu kao S2-9 i kat. parc. 2569/2 površine 74 m2 zajedno sa kat. parc. 1212/1, 1212/2,1212/3 KO Dobrota I vlasništvo " Bereg invest"DOO, sve u K.O. Dobrota I, čini jednu urbanističku parcelu označeno kao S2-10 shodno Izmjenama i dopunama GUP-a Kotor, lokalitet Auto Kamp.
