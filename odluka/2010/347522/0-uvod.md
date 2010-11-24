@@ -1,0 +1,3 @@
+Na osnovu člana 32 stav 1 i člana 45 Zakona o lokalnoj samouprav i ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", broj 88/09 ), člana 21 Zakona o upravljanju otpadom ("Sl. list RCG", br. 80/05 i 73/08), člana 2 i 11 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 12/95 ), čl. 1, 2, 64 i 65 Zakona o privrednim društvima ("Sl. list RCG", br. 6/02, 17/07 i 80/08) i člana 34 Statuta Opštine Plav ("Sl. list RCG", br. 17/07 i "Sl. list CG", broj 25/09), Skupština opštine Plav, na sjednici održanoj dana 01. 11. 2010. godine, donijela je
+O D L U K U
+o pristupanju suosnivanja privrednog društva za upravljanje čvrstim komunalnim
