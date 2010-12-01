@@ -1,0 +1,2 @@
+Na osnovu člana 16, člana 26, člana 31 i člana 53 Zakona o uređenju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 51/08 i 40/10), člana 60 Statuta Opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06, "Službeni list Crne Gore -Opštinski propisi", br. 24/10 i 26/10), Programa uređenja prostora Opštine Nikšić za 2010. godinu ("Službeni list Crne Gore - Opštinski propisi", br. 42/09 i 24/10), predsjednik Opštine Nikšić, donosi
+O D L U K U
