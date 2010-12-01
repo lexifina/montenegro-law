@@ -1,0 +1,2 @@
+Na osnovu člana 13 Zakona o strateškoj procjeni uticaja na životnu sredinu ("Sl. list RCG", broj 80/05) člana 26 i člana 31 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08 i 40/10) i Mišljenja Službe za zaštitu životne sredine - Opštine Nikšić broj. 16-353-133 od 03.11. 2010. godine, sekretar Sekretarijata za uređenje prostora i stambene poslove Opštine Nikšić donosi
+O D L U K U
