@@ -1,0 +1,3 @@
+# Član 1
+## o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 31.1 DUP Bečići
+Opština Budva prenosi prava na nepokretnosti označenoj kao dio katastarske parcele 1460 KO Bečići uslovnom parcelacijom urađenom od strane ovlašćene geodetske organizacije Geomont označena kao katastarska parcela 1460/2 KO Bečići površine 178m² i dio katastarske parcele 1372 KO Bečići uslovnom parcelacijom označena kao katastarska parcela 1372/2 KO Bečići površine 29 m², sve nepokretnosti ukupne površine 207m² Čegar Đurađu neposrednom pogodbom radi formiranja urbanističke parcele broj 31.1 prema DUP-u Bečići.
