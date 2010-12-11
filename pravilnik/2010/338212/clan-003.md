@@ -1,0 +1,6 @@
+# Član 3
+Inicijativu za utvrđivanje novih i reviziju utvrđenih radnih mjesta, odnosno poslova na kojima se staž osiguranja računa sa uvećanim trajanjem i stepen uvećanja staža mogu dati privredno društvo, drugo zainteresovano pravno lice i preduzetnik (u daljem tekstu: poslodavac) i Fond penzijskog i invalidskog osiguranja Crne Gore (u daljem tekstu: Fond).
+Uz inicijativu iz stava 1 ovog člana dostavlja se stručna dokumentacija izrađena po Metodologiji za izradu stručne dokumentacije za utvrđivanje i reviziju radnih mjesta, odnosno poslova na kojima se staž osiguranja računa sa uvećanim trajanjem (u daljem tekstu: Metodologija) koja je sastavni dio ovog pravilnika.
+Stručnu dokumentaciju iz stava 2 ovog člana izrađuje ovlašćena organizacija registrovana za obavljanje stručnih poslova iz zaštite na radu (u daljem tekstu: stručna organizacija).
+Troškove za izradu stručne dokumentacije snosi podnosilac inicijative iz stava 1 ovog člana, koji je dužan da obezbijedi učešće predstavnika stručne organizacije u postupku razmatranja te inicijative.
+Inicijativa iz stava 1 ovog člana, uz stručnu dokumentaciju iz stava 2 ovog člana, dostavlja se organu državne uprave nadležnom za poslove penzijskog i invalidskog osiguranja, koji može, ako ocijeni da je to potrebno, zatražiti mišljenje druge stručne organizacije ili specijalizovane, odnosno naučne institucije.

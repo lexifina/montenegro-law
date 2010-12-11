@@ -1,0 +1,2 @@
+# Član 8
+Radi izrade stručne dokumentacije iz člana 3 stav 2 ovog pravilnika, revizije i utvrđivanja radnih mjesta kod poslodavca, u skladu sa ovim pravilnikom, poslodavac će organu državne uprave nadležnom za poslove penzijskog i invalidskog osiguranja, Fondu, stručnoj organizaciji, odnosno specijalizovanoj ili naučnoj instituciji omogućiti uvid u dokumentaciju koja se odnosi na radna mjesta na kojima se staž osiguranja računa sa uvećanim trajanjem, kao i obavljanje potrebnih istraživanja, propisanih Metodologijom.
