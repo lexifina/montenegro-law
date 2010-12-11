@@ -1,0 +1,3 @@
+# Član 1
+## Kamenovo
+Opština Budva razmjenjuje prava na nepokretnostima označenim kao dio katastarske parcele 738 KO Sveti Stefan uslovnom parcelacijom urađenom od strane ovlašćene geodetske organizacije Geomont označena kao katastarska parcela 738/2 KO Sveti Stefan površine 20m², dio katastarske parcele 741 KO Sveti Stefan uslovnom parcelacijom označena kao 741/3 površine 2m² i katastarska parcela 1925 uslovnom parcelacijom označena kao 1925/2 KO Sv.Stefan u površini od 1m², sa katastarskom parcelom 739 KO Sveti Stefan uslovnom parcelacijom označena kao 739/2 površine 29 m² vlasništvo Mitrović Milenka.

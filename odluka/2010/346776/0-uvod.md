@@ -1,0 +1,3 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09 i 3/10), čl. 3, 9, 34 i 40 Zakona od državnoj imovini ("Sl. list RCG", broj 21/09), člana 59 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", broj 51/08) i člana 40 Statuta Opštine Budva ("Sl. list Crne Gore - Opštinski propisi", broj 19/10), Skupština Opštine Budva, na sjednici održanoj dana 16. novembra 2010. godine, donijela je
+O D L U K U
+o razmjeni nepokretnosti radi formiranja urbanističke parcele br.78 DUP Pržno -
