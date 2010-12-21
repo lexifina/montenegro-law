@@ -1,0 +1,6 @@
+Na osnovu člana 45 stav 1 tačka 23 Zakona o lokalnoj samoupravi ("Sl. list RCG", br .42/03, 28/04, 75/05, 13/06) i ("Sl. list CG", br. 88/09 i 3/10), člana 16 Zakona o podizanju spomen obilježjima ("Sl. list CG", broj 40/08), člana 31 stav 1 tačka 53 Statuta Opštine Kolašin ("Sl. list RCG-Opštinski propisi", br. 25/04 i 34/06), te čl. 117, 118 i 119 Poslovnika Skupštine opštine Kolašin, ("Sl. list RCG-Opštinski propisi", br. 22/05 i 34/06), Skupština opštine Kolašin, na sjednici održanoj dana 29.11.2010. godine, donijela je
+O D L U K U
+o podizanju spomen obilježja
+I U Centru hitne medicinske pomoći u Kolašinu podiže se Spomen obilježje, Spomen - ploča sa slikom i natpisom: "Ovo zdanje proslavlja uspomenu na narednika Vukašina Markovića i njegovu službu u vojsci SAD u toku Prvog Svjetskog rata".
+II Skupština opštine Kolašin se obavezuje da u Program podizanja Spomen obilježja na području Opštine Kolašin za 2010. godinu, uvrsti podizanje ovog Spomen obilježja i pribavi saglasnost nadležnog Organa uprave - Ministarstva kulture za podizanje spomen ploče iz tačke 1 ove odluke, u skladu sa Zakonom.
+III Ova odluka stupa na snagu danom objavljivanja u "Službenom listu Crne Gore - Opštinski propisi".
