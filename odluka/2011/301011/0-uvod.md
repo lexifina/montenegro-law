@@ -1,0 +1,2 @@
+Na osnovu člana 62 u vezi sa članom 63 Zakona o finansiranju lokalne samouprave ("Sl.list RCG", br. 42/03, 44/03 i "Sl.list CG", br. 05/08 i 51/08) i člana 36 stav 1 tačka 16 Statuta Opštine Herceg Novi ("Sl. list RCG-Opštinski propisi", br. 15/04, 31/06,14/07 i "Sl. list CG-Opštinski propisi", broj 16/09), Skupština opštine Herceg Novi, na sjednici održanoj dana 28.12.2010. godine, donosi
+O D L U K U
