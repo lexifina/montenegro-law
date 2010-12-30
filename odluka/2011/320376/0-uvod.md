@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav l tačka 17 i člana 49 Zakona o lokalnoj samoupravi ("Sl. list RCG", broj 42/03 i "Sl. list CG", broj 88/09), te čl. 57, 58 i 59 Statuta Opštine Ulcinj ("Sl. list CG -Opštinski propisi", broj 5/07) i čl. 2, 4 i 7 Odluke o obrazovanju radnih tijela Skupštine ("Sl.list CG - Opštinski propisi", broj 17/08), Skupština opštine Ulcinj, na sjednici održanoj dana 30.12.2010.god., donijela je
+O D L U K U
