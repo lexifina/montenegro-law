@@ -1,0 +1,2 @@
+Na osnovu člana 44 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", br. 42/03, 44/03 i "Službeni list CG", broj 5/08) i člana 71 Statuta Prijestonice Cetinje ("Službeni list CG - Opštinski propisi", br. 19/09 i 37/10), Skupština Prijestonice Cetinje, na sjednici održanoj dana 27.12.2010. godine, donijela je
+O D L U K U O PRIVREMENOM FINANSIRANJU POTREBA BUDŽETA PRIJESTONICE CETINJE ZA PERIOD OD 01.01. DO 31.03.2011.GODINE
