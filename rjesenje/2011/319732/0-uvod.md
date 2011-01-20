@@ -1,0 +1,2 @@
+Na osnovu člana 45. Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03,28/04,75/05,13/06 i Zakona o izmjenama i dopunama Zakona o lokalnoj samoupravi "Službeni list CG", br.88/09) i člana 63. Statuta Prijestonice ("Službeni list CG- Opštinski propisi", br. 19/09), a u vezi sa članom 12. Odluke o izmjenama i dopunama Statuta Prijestonice ("Službeni list CG-Opštinski propisi", br.37/10) Skupština Prijestonice Cetinje na sjednici održanoj dana 27.12. 2010. godine donijela je
+R J E Š E NJ E
