@@ -1,0 +1,2 @@
+Na osnovu čl. 45. Zakona o lokalnoj samoupravi ("Sl.list RCG" broj 42/03,28/04,75/05, 13/06,88/09 i 3/10), člana 3,9,31,34 i 40 Zakona o državnoj imovini ("Sl. list CG" broj 21/09), člana 55 Zakona o eksproprijaciji ("Sl.listRCG" br.55/00), i člana 40 Statuta Opštine Budva (Sl.list CG -Opštinski propisi 19/10), Skupština Opštine Budva na sjednici održanoj dana 29. decembra 2010.godine, donijela je:
+O D L U K U O RAZMJENI NEPOKRETNOSTI RADI FORMIRANJA URBANISTIČKE
