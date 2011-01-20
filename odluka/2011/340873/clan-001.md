@@ -1,0 +1,3 @@
+# Član 1
+## PARCELE broj 26 u bloku 10 u skladu sa DUP-om ROZINO I
+Dio katastarske parcele broj 530/1 KO Budva uslovnom parcelacijom označena kao 530/3KO Budva površine 16m² korisnika Mijatović Vukašina i dio katastarske parcele broj 524 KO Budva uslovnom parcelacijom označena kao 524/2KO Budva površine 10m² korisnika preduzeća Arhitron d.o.o. Budva, razmjenjuje se sa Opštinom Budva za dio katstarske parcele broj 528 KO Budva uslovnom parcelacijom označena kao 528/2 KO Budva površine 9m² i dio katastarske parcele broj 3088 KO Budva uslovnom parcelacijom označena kao 3088/2 KO Budva površine 21m² korisnika Opštine Budva.
