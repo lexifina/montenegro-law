@@ -1,0 +1,2 @@
+Na osnovu člana 63.Statuta Prijestonice (Službeni list CG- Opštinski propisi", br. 19/09), a u vezi sa članom 12. Odluke o izmjenama i dopunama Statuta Prijestonice (Službeni list CG- Opštinski propisi", br. 37/10) i čl. 3. i 21.Odluke o obrazovanju radnih tijela Skupštine (Službeni list CG- Opštinski propisi", br. 1/10), Skupština Prijestonice Cetinje na sjednici održanoj dana 27.12.2010. godine, donijela je
+O D L U K U
