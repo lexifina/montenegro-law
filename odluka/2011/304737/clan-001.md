@@ -1,0 +1,2 @@
+# Član 1
+Opština Budva prenosi prava na nepokretnosti označenoj kao dio katastarske parcele 1043 KO Bečići površine 179m² uslovnom parcelacijom označena kao katastarska parcela 1043/2 KO Bečići i dio katastarske parcele 1044/1 KO Bečići površine 1m² uslovnom parcelacijom označena kao katastarska parcela 1044/3 KO Bečići Savić Slavki neposrednom pogodbom radi formiranja urbanističke parcele broj 7.3 u bloku 7c prema DUP-u Bečići.
