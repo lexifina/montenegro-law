@@ -1,0 +1,2 @@
+Na osnovu čl. 49. stav 3. i čl. 50. Zakona o planiranju i uređanju prostora ("Sl. list RCG", br. 28/05), a u vezi čl. 163. stav 1. Zakona o uređenju prostora i izgradnji objekata ("Sl.list CG", br. 51/08), čl. 40. stav 1. tačka 4. Statuta Opštine Budva ("Sl.list CG -Opštinski propisi", br.19/10), Skupština opštine Budva, na sjednici održanoj dana 29. decembra 2010.godine donijela je:
+O D L U K U O DONOŠENJU LOKALNE STUDIJE LOKACIJE "KOMOŠEVINA II"
