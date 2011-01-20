@@ -1,0 +1,2 @@
+Na osnovu čl.9 st.1, čl.29 st.2 i čl.40 st.2 tačka3 Zakona o državnoj imovini ("Sl.list CG"br.21/09),čl.33 st.1 tačka 1 i čl.45 st.1 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list RCG"br.42/03 ,28/04, 75/05 i 13/06 i "Sl.list CG"br.88/09) i čl.31 st.1 tačka 9 i čl.35 Statuta Opštine Tivat ("Sl.list RCG-opštinski propisi"br.40/04 i 26/06) na sjednici Skupštine opštine Tivat održanoj dana 29.12.2010. godine, donijeta je
+O D L U K A
