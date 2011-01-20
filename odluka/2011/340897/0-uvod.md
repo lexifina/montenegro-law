@@ -1,0 +1,2 @@
+Na osnovu člana 14a Odluke o organizovanju Javnog komunalnog preduzeća ("Sl. list SRCG" - Opštinski propisi", br. 14/90, 20/91, "Sl. list RCG - Opštinski propisi", br. 22/92, 12/93, 7/98, 17/99, 2/00, 20/03 i 40/06 i "Sl. list CG - Opštinski propisi", br. 17/10) i člana 63 stav 1 tačka 41 Statuta Prijestonice ("Sl. list CG - Opštinski propisi", br. 19/09 i 37/10), Skupština Prijestonice Cetinje, na sjednici održanoj dana 27.12.2010. godine, donijela je
+O D L U K U
