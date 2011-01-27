@@ -1,0 +1,2 @@
+Na osnovu člana 17 Zakona o upravljanju otpadom ("Sl.list RCG", br. 80/05 i "Sl.list CG", br. 73/08), člana 45 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09 i 3/10) i člana 38 stav 1 tačka 3 Statuta Opštine Žabljak ("Sl.list RCG-Opštinski propisi", br. 9/05 i 23/07), uz prethodnu saglasnost Ministarstva uređenja prostora i zaštite životne sredine broj 08-1748/8 od 25.11.2010.godine, Skupština opštine Žabljak na sjednici održanoj 24.12.2010.godine, donijela je
+O D L U K U
