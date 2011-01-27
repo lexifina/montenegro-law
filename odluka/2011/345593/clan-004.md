@@ -1,0 +1,2 @@
+# Član 4
+Planom je predviđeno da se unutar obuhvata, shodno osnovnim postavkama planskog dokumenta višeg reda u pogledu planiranih namjena površina i urbanističkih parametara o zauzetosti i izgrađenosti parcela, planira izgradnja objekata za stanovanje srednjih i viših gustina sa poslovno -trgovačkim i uslužnim sadržajima, kao pratećim uz već postojeće sadržaje (Radnički univerzitet, bioskop, dečji vrtić, supermarket).
