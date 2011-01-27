@@ -1,0 +1,2 @@
+# Član 2
+Plan obuhvata katastarske parcele upisane u: posjedovni list br. 620 KO Grahovo, posjedovni list 624 KO Grahovo, posjedovni list br. 626 KO Grahovo, posjedovni list br.630 KO Grahovo, posjedovni list br. 640 KO Grahovo, posjedovni list br. 552 KO Grahovo, vlasništvo "EKODOM" DOO iz Nikšića i posjedovni list br.629 KO Grahovo, vlasništvo "AQUATROL-GRAHOVO" DOO iz Herceg - Novog , kao i katastarske parcele drugih vlasnika koje se nalaze između naprijed navedenih parcela i zajedno sa njima čine prostornu cjelinu.
