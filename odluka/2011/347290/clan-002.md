@@ -1,0 +1,4 @@
+# Član 2
+Član 24 se mijenja i glasi :
+" Novčanom kaznom od 500 do 1.500 eura kazniće se za prekršaj privredno društvo ili preduzetnik ako: - taksi prevoz ne obavlja vozilom u skladu sa uslovima iz člana 6 - ne istakne taksi legitimaciju za vrijeme prevoza na vidnom mjestu (član 9. stav 3.) - postupi suprotno odredbi člana 13 - postupi suprotno odredbi člana 14 - postupi suprotno odredbi člana 18 - na zahtjev putnika,a po izvršenoj usluzi,ne izda račun(član 19,stav 3 ) - postupi suprotno odredbi člana 20 - cjenovnik ,kao i svaku njegovu promenu, ne ovjeri kod nadležnog organa ili ovjeri cenovnik ne istakne na vidnom mjestu bez teškoća pročitati (član 21) Za prekršaj iz stava 1 ovog člana, kazniće se i odgovorno lice u privrednom društvu novčanom kaznom od 100 do 200 eura.
+Za prekršaje iz stava 1 ovog člana kazniće se na licu mesta taksi vozač novčanom kaznom u iznosu od 50,00 eura"
