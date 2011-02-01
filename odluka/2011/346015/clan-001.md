@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom se reguliše: raspored poslovnih zgrada i prostorija na području opštine Kotor na poslovne zone; način utvrđivanja iznosa zakupnine; postupak i uslovi davanja u zakup; sadržaj i uslovi prestanka ugovora o zakupu; način korišćenja poslovnih prostorija i druga pitanja vezana za korišćenje i davanje u zakup poslovnih prostorija u vlasništvu opštine Kotor (u daljem tekstu: poslovne prostorije).

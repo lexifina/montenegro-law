@@ -1,0 +1,2 @@
+# Član 26
+Na sve ono što nije regulisano ovom Odlukom u postupku davanja u zakup poslovnih prostorija putem tendera primjenjivaće se odredbe Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl.list CG", br. 44/10), Uredbe o prodaji akcija i imovine putem javnog tendera ("Sl.list RCG", br. 8/99, 31/00, 14/03, 59/03) i Uredbe o prodaji akcija imovine putem javne aukcije ("Sl.list CG", broj 20/04).
