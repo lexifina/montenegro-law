@@ -1,0 +1,4 @@
+# Član 1
+## o izmjeni Odluke o izradi Detaljnog urbanističkog plana "Igalo-Bare" ("Sl. list CG - Opštinski propisi", broj 27/08 od 08.09.2008. godine )
+Mjenja se član 2 Odluke o izradi Detaljnog urbanističkog plana "Igalo-Bare", broj 01-1-342/08 od 24. aprila 2008. godine ("Sl. list CG - Opštinski propisi", broj 27/08 od 08.09.2008.godine), tako da umjesto "Područje za koje se izrađuje planski dokument je definisano Programskim zadatkom koji je sastavni dio ove odluke" treba da stoji:
+"Područje za koje se izrađuje Detaljni urbanistički plan "Igalo-Bare" definisano je Izmjenama i dopunama programskog zadatka za izradu Detaljnog urbanističkog plana "Igalo-Bare", broj 01-1-712/09 od 24.09.2009.godine ("Sl. list CG - Opštinski propisi", broj 32/09 od 08.10.2009.godine), koje čine sastavni dio ove odluke."
