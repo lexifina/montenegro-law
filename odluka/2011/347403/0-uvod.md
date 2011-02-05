@@ -1,0 +1,3 @@
+Na osnovu člana 34 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10), člana 67 Zakona o socijalnoj i dječjoj zaštiti ("Sl. list RCG", broj 78/05), člana 9 tačka 9 Zakona o vaspitanju i obrazovanju djece sa posebnim obrazovnim potrebama ("Sl. list RCG", br. 80/04 i "Sl. list CG", broj 45/10) i člana 33 tačka 14 Statuta Opštine Pljevlja ("Sl.list RCG - Opštinski propisi", br. 25/04, 37/04, 30/07 i "Sl.list CG - Opštinski propisi", broj 32/09), Skupština opštine, na sjednici održanoj 29.12. 2010.god. i Skupština NVU "Zračak Nade" - Pljevlja na sjednici 28.12. 2010. donijela je
+O D L U K U
+o osnivanju Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Pljevlja"
