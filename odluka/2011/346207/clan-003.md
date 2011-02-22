@@ -1,0 +1,2 @@
+# Član 3
+Lokalnom studijom lokacije za turističko-rekreativni kompleks »MARAT« Vrbanj daće se dalja razrada namjene prostora definisane Prostornim Planom opštine u cilju aktiviranja turističkih potencija u zaleđu opštine, uz uslov očuvanja i unapređenja ambijentalnih karakteristika šireg i užeg područja i obezbjeđenja funkcionisanja predviđenih sadržaja planiranjem odgovarajuće saobraćajne i tehničke infrastrukture, a vodeći računa o uslovima zaštite životne sredine.

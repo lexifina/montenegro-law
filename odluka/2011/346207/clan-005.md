@@ -1,0 +1,2 @@
+# Član 5
+Prilikom izrade Strateške procjene biće razmatrani uslovi i mjere zaštite vazduha, mjere zaštite površinskih i podzemnih voda, mjere zaštite od buke, zaštita zemljišta, očuvanje biodiverziteta, prirodnih i kulturnih dobara i zaštita prirodnog pejzaža, unapređenje zelenih površina, mjere zaštite u slučaju akcidentnih situacija, uticaji na zdravlje ljudi, eventualni prekogranični uticaji, kao i sva druga pitanja i problemi koji se ocijene kao značajni za predmetni prostor.
