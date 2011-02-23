@@ -1,0 +1,2 @@
+Na osnovu čl. 32 i 40 Statuta Opštine Nikšić ("Službeni list RCG-Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG-Opštinski propisi", broj 24/10), člana 53 Odluke o Etičkoj komisiji za izabrane predstavnike i funkcionere ("Službeni list CG-Opštinski propisi", broj 17/10) i člana 54 Odluke o Etičkoj komisiji za lokalne službenike i namještenike ("Službeni list CG-Opštinski propisi", broj 17/10), Skupština opštine Nikšić, na sjednici održanoj 4.02.2011.godine, donijela je
+O D L U K U
