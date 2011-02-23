@@ -1,0 +1,2 @@
+# Član 6
+Nosilac pripremnih poslova dužan je obezbijediti saradnju između nosioca izrade Izvještaja i obrađivača Plana na način što će im omogućiti međusobnu razmjenu svih potrebnih podataka kako bi se uskladila izrada ova dva dokumenta. Istovremeno nosilac izrade Izvještaja dužan je da sve zaključke do kojih dođe tokom izrade istog, a koji su od suštinskog značaja za koncept planskog rješenja predmetne Lokalne studije lokacije, dostavi nosiocu pripremnih poslova koji će iste proslijediti obrađivaču ovog Plana radi usklađivanja.
