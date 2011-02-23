@@ -1,0 +1,2 @@
+# Član 7
+Prostor u granicama obuhvata u Generalnom urbanističkog planu Nikšića je dio urbanističke jedinice br. 1- centralno jezgro, za koju je predviđena rekonstrukcija, obnova i revitalizacija na postojećoj osnovi, zadržavanje gabarita, uličnog rastera, linije fasade, zamjena i dogradnja. Opredjeljenjima Generalnog urbanističkog plana predmetna zona je određena kao pješačka, sa atraktivnim sadržajima, uz adaptaciju lokala i uređenje fasada.
