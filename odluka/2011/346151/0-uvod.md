@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list Crne Gore", broj 88/09 od 31. 12. 2009. godine) i na osnovu čl. 30 i 32 Statuta Opštine Kotor ("Sl. list Opštine Kotor", broj 3/04 i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 4/11), a u skladu sa čl. 9, 10 i 28 Zakona o nevladinim organizacijama ("Sl. list RCG", br. 27/99, 09/02, 30/02 i "Sl. list CG", broj 11/07 od 13. 12. 2007. god.), Skupština opštine Kotor na sjednici održanoj 25. 02. 2011. godine, donijela je
+O D L U K U
