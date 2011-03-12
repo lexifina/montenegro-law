@@ -1,0 +1,56 @@
+{
+  "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_novac/propisi_novac/propisi_o_jubilarnom_novcu/odluka_o_cijenama_prigodnog_kovanog_novca_1311.pdf",
+  "title": "Odluka o promjenama cijena izdatog prigodnog kovanog novca",
+  "source_sha256": "6129b380f86cea28dd10692f6d684112b6e7fe4ed09a3a17f3628f7fdfdd4dfe",
+  "source_bytes": 100514,
+  "pages": 2,
+  "source_images": 0,
+  "gazette_issue": "13/2011",
+  "publication_date": "2011-03-04",
+  "publication_evidence": {
+    "issue": "13/2011",
+    "date": "2011-03-04",
+    "quote": "13/11 od 04.03.2011",
+    "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/jubil_novcanice_kovani_novac/odluka_o_kolekciji_ckn_100god_3706_0907_1311.pdf",
+    "source_sha256": "5656ed9bb69b0de76806ce3ff3492b750a345c5ad2d7602ce57f483191a0baef"
+  },
+  "commencement_quote": "Ova odluka stupa na snagu osmog dana od dana objavljivanja u “Službenom listu Crne Gore“.",
+  "date": "2011-03-12",
+  "basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u “Službenom listu Crne Gore“.\"; Gazette 13/2011 publication on 2011-03-04 stated as \"13/11 od 04.03.2011\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/jubil_novcanice_kovani_novac/odluka_o_kolekciji_ckn_100god_3706_0907_1311.pdf.",
+  "text_sha256": "e3d42c0d53bcf3478956a5369b1f632f07b386ba5c9465163ce4e7257759649d",
+  "word_count": 576,
+  "official_numbers": [
+    "0101-4014/9-2-2010"
+  ],
+  "path": "odluka/2011/0101-4014-9-2-2010",
+  "kind": "as-enacted",
+  "issuer": "Centralna banka Crne Gore",
+  "text_status": "as-enacted",
+  "in_force": "2011-03-12",
+  "in_force_basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u “Službenom listu Crne Gore“.\"; Gazette 13/2011 publication on 2011-03-04 stated as \"13/11 od 04.03.2011\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/jubil_novcanice_kovani_novac/odluka_o_kolekciji_ckn_100god_3706_0907_1311.pdf.",
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "complete": true,
+  "first_law": null,
+  "source_listing": "https://www.cbcg.me/me/o-nama/regulativa/podzakonski-akti",
+  "related_pis_candidates": [
+    334035
+  ],
+  "official_number": "0101-4014/9-2-2010",
+  "official_number_quote": "O. br. 0101-4014/9-2-2010",
+  "line_endings": "LF",
+  "current_text_asserted": false,
+  "related_official_versions": [
+    {
+      "title": "Odluka o promjenama cijena izdatog prigodnog kovanog novca",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/jubil_novcanice_kovani_novac/odluka_o_cijenama_prigodnog_kovanog_novca_2517.pdf",
+      "source_context": "- Odluka o promjenama cijena izdatog prigodnog kovanog novca („Sl. list Crne Gore“ br. 13/11, 25/17) – Neslužbeni prečišćeni tekst"
+    },
+    {
+      "title": "Odluka o izmjenama i dopunama Odluke o promjenama cijena izdatog prigodnog kovanog novca",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/jubil_novcanice_kovani_novac/izmjene_cijenama_prigodnog_kovanog_novca_2517.pdf",
+      "source_context": "Odluka o izmjenama i dopunama Odluke o promjenama cijena izdatog prigodnog kovanog novca („Sl. list Crne Gore“ br. 25/17)"
+    }
+  ],
+  "version_note": "Text as enacted; linked amendments and consolidated copies are separate records and are not applied to this text."
+}
