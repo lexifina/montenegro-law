@@ -1,0 +1,2 @@
+# Član 8
+Stupanjem na snagu ove odluke prestaju da važe Detaljni urbanistički plan Bajer ("Sl. list RCG - Opštinski propisi", br. 12/92 i 17/97), Detaljni urbanistički plan Topla ("Sl.list RCG - Opštinski propisi", broj 27/03), Detaljni urbanistički plan Srbina-zapadni dio ("Sl.list RCG - Opštinski propisi", br. 21/92 i 17/97) i Izmjene i dopune DUP-a Topla II ("Sl. list RCG - Opštinski propisi", broj 48/75) u dijelovima koji odgovaraju zahvatu Detaljnog urbanističkog plana Bajer iz člana 2 ove odluke.
