@@ -1,0 +1,2 @@
+# Član 4
+Sastavni dio Odluke o donošenju Detaljnog urbanističkog plana "TOPLA - od Šetališta do Njegoševe" čine Elaborat Plana (tekstualni dio i grafički prilozi) u analognom i digitalnom obliku koje je izradio Obrađivač plana -"Agencija za izgradnju i razvoj Herceg Novog" D.O.O.-Herceg Novi, kao i Saglasnost Ministarstva održivog razvoja i turizma br. 04-57/1 od 21.01.2011.godine data na Predlog Plana.
