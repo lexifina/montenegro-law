@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", broj 88/09), a u vezi sa čl, 3 i 18 stav 1 Zakona o Glavnom gradu ("Službeni list RCG", br. 65/05 i "Službeni list CG", broj 72/10), Gradonačelnik Glavnog grada - Podgorice, po pribavljenom mišljenju Glavnog administratora, dana 24.02.2011. godine, donio je
+O D L U K U
