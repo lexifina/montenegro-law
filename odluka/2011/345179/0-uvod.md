@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 1 i člana 51 a u vezi sa članom 151a Zakona o lokalnoj samoupravi ("Sl. list RCG",br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09 i 03/10), člana 42 stav 1 tačka 1 i čl.192 i 193 Statuta Opštine Ulcinj ("Sl. list RCG-Opštinski propisi", broj 5/07 ) i člana 141 Poslovnika Skupštine opštine Ulcinj ("Sl.list RCG-Opštinski propisi", broj 17/08), Skupština opštine Ulcinj, na sjednici održanoj dana 26.01.2011.godine, donijela je
+O D L U K U
