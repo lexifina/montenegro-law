@@ -1,0 +1,3 @@
+Na osnovu člana 13 stav 3 i člana 22 stav 1 tačka 14 Zakona o putevima ("Sl.list RCG", broj 42/04 i "Sl.list CG", broj 54/09) i člana 45 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, "Sl.list CG", br. 88/09, 3/10) člana 41 Statuta Opštine Rožaje ("Sl.list RCG - Opštinski propisi", br. 33/04) Skupština opštine Rožaje, na sjednici održanoj dana 28.02. 2011.godine, donijela je
+O D L U K U
+o izmjenama i dopunama Odluke o utvrđivanju visine godišnje naknade za registraciju drumskih motornih vozila, traktora i priključnih vozila koja se plaća za korišćenje opštinskih i nekategorisanih
