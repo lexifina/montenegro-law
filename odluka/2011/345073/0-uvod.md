@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Službeni list Crne Gore", broj 21/09), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09 i 3/10) i člana 48 stav 1 alineja 9 Statuta Glavnog grada ("Službeni list RCG - Opštinski propisi", broj 28/06 i "Službeni list CG-Opštinski propisi", broj 39/10), Skupština Glavnog grada-Podgorice, na sjednici održanoj 02. i 03. marta 2011. godine, donijela je
+O D L U K U
