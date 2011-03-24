@@ -1,0 +1,2 @@
+Na osnovu člana 57 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", broj 88/09), člana 63 Statuta Prijestonice Cetinje ("Službeni list CG - Opštinski propisi", broj 19/09) i člana 12 stav 1 tačka 21 Odluke o izmjenama i dopunama Statuta Prijestonice ("Službeni list CG-Opštinski propisi", broj 31/10), Skupština Prijestonice Cetinje, na sjednici održanoj dana 07.03.2011. godine donosi
+O D L U K U
