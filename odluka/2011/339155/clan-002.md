@@ -1,0 +1,2 @@
+# Član 2
+Izmjenama i dopunama Urbanističkog projekta Stari grad ne stvaraju se rizici po zdravlje ljudi i životnu sredinu, obzirom da se planiraju manje prostorne intervencije u okviru Starog grada Herceg Novog koji je spomenik kulture I kategorije, uz puno poštovanje i integrisanje kriterijuma i parametara održivog razvoja i zaštite graditeljskog nasleđa, kao i stručnu kontrolu odgovarajućih službi zaštite kulturne baštine, a sve u cilju unapređenja i zaštite izvornog ambijenta.
