@@ -1,0 +1,2 @@
+# Član 2
+Urbanističkim projektom stambeno-poslovni kompleks "ZLATNIK" u Baošićima ne mijenja se osnovna namjena prostora definisana GUP-om, već se za prostor koji do sada nije priveden namjeni, daju urbanistički parametri i detaljni uslovi za izgradnju na način da se omogući afirmacija ambijentalnih i arhitektonskih vrijednosti naselja, uređenje i opremanje ukupnog građevinskog fonda, tehničke infrastrukture, čime se ne stvaraju rizici po zdravlje ljudi i životnu sredinu, i ne utiče na druge planove i programe u okruženju.
