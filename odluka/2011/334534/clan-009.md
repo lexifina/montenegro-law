@@ -1,0 +1,2 @@
+# Član 9
+Direktor Zavoda za statistiku će, u roku od osam dana od dana stupanja na snagu ove odluke, donijeti Uputstvo o sadržaju i načinu vođenja evidencije o upotrebi sredstava namijenjenih popisnim komisijama i sačinjavanju konačnog obračuna utrošenih sredstava za popis stanovništva, domaćinstava i stanova u 2011. godini, kao i Uputstvo za raspoređivanje sredstava popisnim komisijama jedinica lokalne samouprave.
