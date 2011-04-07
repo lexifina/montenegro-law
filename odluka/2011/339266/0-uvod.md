@@ -1,0 +1,2 @@
+Na osnovu člana 49 stav 3 i člana 50 Zakona o planiranju i uređenju prostora ("Sl.list RCG", broj 28/05), a u vezi sa članom 163 Zakona o uređenju prostora i izgradnji objekata ("Sl.list CG", broj 51/08) i člana 33 stav 1 Statuta Opštine Pljevlja ("Sl. list RCG-Opštinski propisi", br. 37/04 i 30/07 i "Sl. list CG- Opštinski propisi", broj 32/09), Skupština opštine Pljevlja, na sjednici od 15.03.2011. godine, donijela je
+O D L U K U
