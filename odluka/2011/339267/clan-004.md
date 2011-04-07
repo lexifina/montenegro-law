@@ -1,0 +1,3 @@
+# Član 4
+Pored djelatnosti iz prethodnog člana obavlja i slijedeće poslove: učestvuje u opštem i informatičkom obrazovanju građana; prikuplja obrađuje i čuva zavičajnu građu na teritoriji opštine; organizuje posebne oblike rada za djecu, omladinu i odrasle u cilju razvijanja i podsticanja čitalačke kulture; organizuje posebne oblike rada za lica sa posebnim potrebama i obezbjeđuje im uslove za korišćenje bibliotečke građe shodno njihovim potrebama i mogućnostima; organizuje kulturne aktivnosti u skladu sa svojom djelatnošću; vrši izdavačku djelatnost, organizuje istraživački rad u okviru svog djelovanja.
+Biblioteka može obavljati i druge djelatnosti koje su od značaja za ostvarivanje djelatnosti za koju je osnovana.

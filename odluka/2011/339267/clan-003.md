@@ -1,0 +1,4 @@
+# Član 3
+## Djelatnost Biblioteke
+Djelatnost Biblioteke je djelatnost od javnog interesa i u smislu ove odluke obuhvata: nabavku, obradu, čuvanje, zaštitu, korišćenje, prezentaciju i pupularizaciju bibliotečke građe; izradu kataloga, bibliografija, biltena, baze podataka i drugih izvora informacija; omogućavanje pristupa bibliotečkoj građi, izvorima informacija, uslugama i servisima; obezbjeđivanje korišćenja i protoka bibliografskih i drugih izvora informacija i usluga; edukaciju korisnika; vođenje evidencije o građi i korisnicima, i druge poslove u skladu sa zakonom.
+Pod bibliotečkom građom u smislu prethodnog stava podrazumjeva se tekstualni, zvučni, grafički, slikovni, elektronski ili na drugi način izrađen dokument ili predmet koji Biblioteka sakuplja , obrađuje, i stavlja korisnicima na raspolaganje.
