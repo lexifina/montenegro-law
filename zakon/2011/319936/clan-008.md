@@ -1,0 +1,6 @@
+# Član 8
+## Dobrovoljna ponuda za preuzimanje
+Sticalac koji nema akcije u emitentu ili koji nije stekao više od 30% ukupnog broja akcija sa pravom glasa emitenta nije dužan da sprovede postupak preuzimanja u skladu sa ovim zakonom, a ima namjeru da stekne akcije preko 30% ukupnog broja akcija sa pravom glasa, obavještava emitenta i Komisiju o donošenju odluke o preuzimanju, u roku iz člana 7 stav 4 ovog zakona.
+Objavljivanjem odluke iz stava 1 ovog člana, za sticaoca koji namjerava da pokrene postupak preuzimanja nastaje obaveza objavljivanja ponude za preuzimanje emitenta (u daljem tekstu: dobrovoljna ponuda za preuzimanje).
+Dobrovoljnu ponudu za preuzimanje sticalac može usloviti dostizanjem određenog praga uspješnosti, koji sticalac samostalno određuje.
+Ako u javnoj ponudi za preuzimanje ukupan procenat akcija prijavljenih u javnoj ponudi za preuzimanje zajedno sa ukupnim procentom akcija sa pravom glasa koje sticalac već posjeduje ne prelazi prag uspješnosti, sticalac ne može steći akcije prijavljene u postupku preuzimanja emitenta, a u slučaju da se prijavljenim akcijama prelazi prag uspješnosti, sticalac je obavezan kupiti ili preuzeti sve akcije prijavljene u javnoj ponudi za preuzimanje, pod uslovima utvrđenim javnom ponudom.

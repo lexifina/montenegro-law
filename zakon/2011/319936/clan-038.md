@@ -1,0 +1,7 @@
+# Član 38
+Ako sticalac u javnoj ponudi za preuzimanje stekne akcije emitenta, tako da zajedno sa akcijama koje je posjedovao prije sprovođenja javne ponude za preuzimanje posjeduje više od 75 % akcija sa pravom glasa emitenta, vlasnici preostalih akcija sa pravom glasa imaju pravo da, u roku od 15 dana od dana objavljivanja rezultata javne ponude za preuzimanje, ponude akcije sticaocu na otkup.
+Sticalac koji je prije sprovođenja javne ponude za preuzimanje posjedovao više od 75% akcija sa pravom glasa emitenta, a koji u postupku javne ponude za preuzimanje nije stekao ni jednu akciju sa pravom glasa emitenta, nije obavezan da ponudi dodatni rok za otkup akcija emitenta u skladu sa stavom 1 ovog člana.
+Sticalac je dužan da izvrši plaćanje preostalih ponuđenih akcija, u roku od tri dana od dana isteka roka iz stava 1 ovog člana, pod uslovima pod kojima je izvršio preuzimanje.
+Sticalac je dužan prilikom objavljivanja rezultata javne ponude za preuzimanje obavijestiti akcionare o pravu iz stava 1 ovog člana.
+Sticalac akcija ne može raspolagati sredstvima deponovanim na računu kod CDA koja su preostala nakon isplate cijene akcija i izmirenja drugih obaveza po javnoj ponudi za preuzimanje do isteka roka iz stava 1 ovog člana.
+Sticalac je dužan da, po isteku roka iz stava 1 ovog člana, Komisiji dostavi konačan izvještaj o broju akcija ponuđenih na otkup u postupku javne ponude za preuzimanje, sa izvodom iz evidencije CDA o ukupnom broju akcija koje su prodate kroz postupak javne ponude za preuzimanje.

@@ -1,0 +1,8 @@
+# Član 12
+Akcije u emitentu sa pravom glasa preko 30%, odnosno preko procenta koji je posjedovao na dan stupanja na snagu ovog zakona sticaocu i/ili sa njim povezanim licima ne daju pravo glasa do pokretanja postupka javne ponude za preuzimanje podnošenjem zahtjeva za odobrenje javne ponude za preuzimanje u skladu sa ovim zakonom ili dok višak akcija ne otuđi u skladu sa članom 11 stav 1 tačka 5 ovog zakona.
+Izuzetno od stava 1 ovog člana, sticalac i sa njim povezana lica koja steknu akcije banaka i društava za osiguranje nemaju pravo glasa od dana konačnosti rješenja kojim se odobrava sticanje kvalifikovanog učešća do dana podnošenja zahtjeva za odobrenje javne ponude za preuzimanje.
+Sticalac i sa njim povezana lica nemaju pravo glasa na svim akcijama emitenta u vlasništvu sticaoca i sa njim povezanog lica:
+1) od dana konačnosti rješenja kojim se odbija ili odbacuje zahtjev do dana konačnosti akta kojim Komisija odobrava javnu ponudu za preuzimanje ili
+2) ako ne objave prospekt u roku utvrđenom ovim zakonom do dana objavljivanja prospekta.
+CDA je dužna da u centralnom registru hartija od vrijednosti upiše zabilježbu suspenzije prava glasa sticaoca i sa njim povezanih lica danom prijema rješenja Komisije u skladu sa stavom 3 ovog člana.
+Ako sticalac i/ili sa njim povezana lica ne pokrenu postupak javne ponude za preuzimanje, ne objave prospekt za javnu ponudu za preuzimanje ili ne otuđe višak akcija u skladu sa ovim zakonom, akcionari emitenta mogu kod nadležnog suda pokrenuti postupak radi isplate kupoprodajne cijene po kojoj je sticalac bio obavezan da sprovede postupak preuzimanja.

@@ -1,0 +1,5 @@
+# Član 50
+Postupci javne ponude za preuzimanje započeti do dana stupanja na snagu ovog zakona okončaće se po propisima koji su važili do stupanja na snagu ovog zakona.
+Lica koja su sprovela postupak preuzimanja emitenta po propisima koji su važili do stupanja na snagu ovog zakona, u skladu sa uslovima utvrđenim za sprovođenje obavezne javne ponude za preuzimanje, nijesu dužna da ponovo sprovedu postupak preuzimanja u skladu sa odredbama ovog zakona.
+Obaveze sprovođenja postupka preuzimanja oslobođena su i lica koja su bila solidarno obavezna da sprovedu postupak preuzimanja po propisima koji su važili do stupanja na snagu ovog zakona, ako je jedno od ovih lica, na osnovu zaključenog međusobnog ugovora, sprovelo postupak preuzimanja u skladu sa tim propisima.
+Lica koja su do dana stupanja na snagu ovog zakona posredno stekla akcije emitenta i koja nijesu imala obavezu sprovođenja javne ponude za preuzimanje do dana stupanja na snagu ovog zakona nijesu dužna da sprovedu postupak preuzimanja osim ako nastave dalje da posredno stiču akcije emitenta i/ili povećavaju učešće u licima nad kojima ostvaruju kontrolu u smislu člana 2 stav 1 tačka 4 ovog zakona.

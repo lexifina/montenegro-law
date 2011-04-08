@@ -1,0 +1,9 @@
+# Član 42
+O konkurentskoj ponudi Komisija odlučuje najkasnije do isteka roka za prihvatanje javne ponude za preuzimanje.
+Rok za prihvatanje konkurentske ponude može trajati najduže od 15 do 60 dana od dana objavljivanja prospekta, s tim što se rok za prihvatanje javne ponude za preuzimanje emitenta produžava do isteka roka za prihvatanje konkurentske ponude.
+U toku trajanja konkurentske ponude sticalac i davalac konkurentske ponude ne mogu mijenjati uslove iz ponuda, osim povećavanja ponuđenih cijena za kupovinu akcija, objavljivanjem u štampanim medijima u kojima je objavljena javna, odnosno konkurentska ponuda, o čemu su dužni obavijestiti Komisiju.
+Povećanje cijene iz stava 3 ovog člana može se objaviti samo nakon obezbjeđivanja dodatnih novčanih sredstava na način i pod uslovima utvrđenim članom 32 ovog zakona.
+Sticalac i davalac konkurentske ponude mogu vršiti povećanje cijene za kupovinu akcija najkasnije 10 dana prije okončanja roka za prihvatanje ponuda, do kada su dužni da u štampanim medijima u kojima je objavljena javna, odnosno konkurentska ponuda objave konačne cijene za kupovinu akcija, a ukoliko ih ne objave, konačnom cijenom se smatra posljednja cijena koju su ova lica objavila u štampanim medijima.
+Konačne cijene sticaoca i davaoca konkurentske ponude objavljuje Komisija objedinjeno u dva dnevna štampana medija koja se distribuiraju na cijeloj teritoriji Crne Gore, najkasnije osam dana prije okončanja roka za prihvatanje ponuda.
+Konkurentska ponuda može se uslovljavati dostizanjem određenog praga uspješnosti samo ako je prag uspješnosti određen i u ponudi za preuzimanje i ako prag uspješnosti nije postignut do dana objavljivanja konkurentske ponude.
+Prag uspješnosti u konkurentskoj ponudi ne smije biti viši od praga uspješnosti iz javne ponude za preuzimanje.

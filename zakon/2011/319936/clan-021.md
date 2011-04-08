@@ -1,0 +1,6 @@
+# Član 21
+Prije objavljivanja prospekta za preuzimanje sticalac je dužan da zaključi ugovor sa CDA o evidentiranju, odnosno deponovanju akcija koje su predmet prihvata javne ponude za preuzimanje.
+Sticalac je dužan da CDA, prilikom zaključivanja ugovora iz stava 1 ovoga člana, dostavi podatke neophodne za registrovanje akcija, podatke o načinu na koji će prospekt za preuzimanje biti objavljen, kao i druge podatke na zahtjev CDA.
+Prije podnošenja zahtjeva za odobrenje javne ponude za preuzimanje sticalac mora na posebnom računu kod CDA deponovati sredstva za plaćanje svih akcija koje su predmet javne ponude za preuzimanje ili priložiti odgovarajuću bankarsku garanciju.
+Ako je prospektom za javnu ponudu za preuzimanje utvrđena mogućnost isplate cijene za preuzete akcije u hartijama od vrijednosti ili u novcu i u hartijama od vrijednosti, sticalac je dužan deponovati hartije od vrijednosti i novčana sredstva, odnosno bankarsku garanciju, na poseban račun kod CDA.
+Akcije stečene na osnovu javne ponude za preuzimanje sticalac je dužan platiti ili prenijeti vlasništvo nad hartijama od vrijednosti koje nudi na ime naknade u roku od tri radna dana od dana okončanja postupka javne ponude za preuzimanje.

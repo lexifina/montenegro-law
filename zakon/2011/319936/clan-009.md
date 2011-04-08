@@ -1,0 +1,3 @@
+# Član 9
+Obavezu objavljivanja ponude za preuzimanje banke i društva za osiguranje ima lice koje stekne preko 30% ukupnog broja akcija sa pravom glasa, a nakon dobijanja odobrenja nadležnog organa za kvalifikovano učešće od ili preko 50% učešća u glasačkim pravima ili kapitalu banke, odnosno društva za osiguranje, u skladu sa zakonom kojim su uređene banke i osiguranje.
+Sticalac iz stava 1 ovog člana je dužan da, najkasnije u roku od dva radna dana od dana dobijanja odobrenja iz stava 1 ovog člana, obavijesti emitenta i Komisiju o donošenju odluke o preuzimanju svih preostalih akcija emitenta sa pravom glasa.
