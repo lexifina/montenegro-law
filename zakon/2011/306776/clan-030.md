@@ -1,0 +1,4 @@
+# Član 30
+Sporove koji nastanu po osnovu stranih investicija rješava nadležni sud u Crnoj Gori, ako odlukom o osnivanju, odnosno ugovorom o investiranju nije predviđeno rješavanje sporova od strane domaće ili strane arbitraže, u skladu sa međunarodnim konvencijama.
+Ako je Vlada ugovorna strana, na sporove koji nastanu po osnovu stranih investicija, do potpisivanja Konvencije međunarodnog centra za rješavanje investicionih sporova (ICSID Konvencija), primjenjivaće se dodatna pravila ICSID Konvencije za zemlje koje nijesu potpisnice ICSID Konvencije od strane domaće ili strane arbitraže.
+Ako su ugovorne strane domaća i strana pravna i fizička lica, na sporove koji nastanu po osnovu stranih investicija primjenjivaće se pravila o arbitraži Komisije Ujedinjenih nacija za međunarodno trgovačko pravo (UNCITRAL) od strane domaće i strane arbitraže.
