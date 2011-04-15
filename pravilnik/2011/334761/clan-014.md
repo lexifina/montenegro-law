@@ -1,0 +1,2 @@
+# Član 14
+Danom stupanja na snagu ovog pravilnika prestaju da važe Pravilnik o uslovima koje moraju da ispunjavaju organizacije udruženog rada i fizička lica za izvođenje radova na održavanju, konzervaciji i restauraciji spomenika kulture ("Službeni list SRCG", broj 6/80) i Pravilnik o stručnom kadru, prostorijama i opremi za rad i osnivanje Zavoda za zaštitu spomenika kulture ("Službeni list SRCG", broj 11/80).
