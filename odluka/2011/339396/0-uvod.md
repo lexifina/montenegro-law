@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09 i 3/10), člana 5 i 6 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03, 44/03 i "Sl. list CG", br. 5/08 i 74/10) i člana 35 Statuta Opštine Danilovgrad ("Sl.list RCG - Opštinski propisi", broj 30/04 i "Sl.list CG - Opštinski propisi", broj 19/08), Skupština opštine Danilovgrad, na sjednici održanoj 25.03.2011. godine, donosi
+O D L U K U
