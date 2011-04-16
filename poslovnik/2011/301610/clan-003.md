@@ -1,0 +1,4 @@
+# Član 3
+## 1. Sazivanje Skupštine za prvu sjednicu
+Prvu sjednicu novoizabrane Skupštine saziva predsjednik Skupštine iz prethodnog saziva najkasnije u roku od 30 dana od dana održavanja izbora za odbornike.
+Saziv za sjednicu dostavlja se novoizabranim odbornicima u roku od tri dana od dana dostavljanja izvještaja Opštinske izborne komisije o sprovedenim izborima, a sjednica se održava najkasnije pet dana od dana upućivanja saziva odbornicima.
