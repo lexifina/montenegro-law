@@ -1,0 +1,2 @@
+Na osnovu člana 6 a u vezi sa članom 34 Zakona o državnoj imovini ("Sl.list CG", broj 21/ 09), člana 28 Zakona o svojinsko pravnim odnosima ("Sl. list CG", broj 19/ 09), člana 35 Statuta Opštine Danilovgrad ("Sl. list. CG - Opštinski propisi", broj 30/04) i Zaključka Vlade CG br. 03 - 10700 od 28. 12. 2010. godine, Skupština opštine Danilovgrad, na sjednici održanoj 25. 03. 2011. godine, donosi
+O D L U K U
