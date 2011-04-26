@@ -1,0 +1,2 @@
+Na osnovu čl. 31 i 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 93/06 i "Sl. list CG", broj 88/09), člana 16 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", broj 51/08 i 40/10) i člana 31 Statuta Opštine Kolašin ("Sl. list RCG- Opštinski propisi ", br. 25/04, 31/04, 34/06 i "Sl.list CG - Opštinski propisi", broj 41/10), Skupština opštine Kolašin na sjednici održanoj dana 31.03.2011. godine donijela je
+O D L U K U
