@@ -1,0 +1,2 @@
+# Član 2
+Prihvata se zahtjev DOO "Port Line" iz Budve u svojstvu zakupoprimca nepokretnosti iz stava 2 člana 1 ove odluke uz saglasnost "Tairex - Centar" DOO Tivat u svojstvu vlasnika (u daljem tekstu: korisnici povlasnog dobra) da se na nepokretnosti iz stava 1 člana 1 ove odluke (u daljem tekstu: poslužno dobro) konstituiše privremena stvarna službenost prolaza u korist korisnika povlasnog dobra.
