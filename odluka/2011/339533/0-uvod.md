@@ -1,0 +1,2 @@
+Na osnovu člana 130 Zakona o lokalnoj samoupravi ("Službeni list RCG" br. 42/03, 28/04, 75/05, 13/06 i "Službeni list Crne Gore", broj 88/09) i člana 30 stav 1 tačka 27 Statuta Opštine Kotor ("Službeni list Opštine Kotor", broj 3/04 i "Službeni list Crne Gore - Opštinski propisi", br. 17/08, 31/09, 40/10 i 4/11), Skupština Opština Kotor je na sjednici održanoj dana 31. 03. 2011. godine, donijela
+O D L U K U
