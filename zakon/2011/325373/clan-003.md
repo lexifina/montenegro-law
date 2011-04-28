@@ -1,0 +1,4 @@
+# Član 3
+U članu 3 osnovnog Sporazuma dodaju se dva nova stava 4 i 5 koji glase:
+4. Strana ugovornica poštuje obaveze koje druga strana ugovornica ima kao članica carinske, ekonomske ili monetarne unije, zajedničkog tržišta ili slobodne trgovinske zone, uključujući obaveze koje proizilaze iz međunarodnog sporazuma ili sporazuma o reciprocitetu te carinske, ekonomske ili monetarne unije, zajedničkog tržišta ili slobodne trogivinske zone.
+5. Odredbe ovog sporazuma neće se tumačiti tako da jednu stranu ugovornicu obavezuju da ulagačima druge strane ugovornice ili ulaganjima ili prihodima tih ulagača dodijeli prednosti bilo kojeg tretmana, povlastice ili privilegije koje su toj strani ugovornici dodijeljene na osnovu bilo kojeg međunarodnog sporazuma ili aranžmana koji se u cjelini ili najvećim dijelom odnosi na oporezivanje.
