@@ -1,0 +1,2 @@
+Na osnovu člana 60 stav 1, člana 62 stav 1 i 3 i člana 63 stav 1 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", br 42/03 i 44/03 i "Službeni list CG" , broj 5/08 i 74/10), člana 45 stav i tačka15 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", broj 88/09) i člana 30 stav Statuta Opštine Ulcinj ("Službeni list RCG - Opštinski propisi", broj 05/07), Skupština opštine Ulcinj, na sjednici održanoj 04.04.2011. godine, donijela je
+O D L U K U
