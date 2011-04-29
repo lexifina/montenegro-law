@@ -1,0 +1,2 @@
+# Član 1
+Ovim Statutom uređuju se: zadaci, unutrašnja organizacija i rad Notarske komore Crne Gore (u daljem tekstu: Notarska komora), izbor, prava i dužnosti njenih organa, prava i dužnosti notara, zamjenika notara, notarskih saradnika i pripravnika prema Notarskoj komori, organi za pokretanje i vođenje disciplinskog postupka, način vršenja javnih ovlašćenja, vođenje državnog Registra testamenata i druga pitanja od značaja za notarsku službu i rad Notarske komore, ako drugačije nije određeno Zakonom o notarima.
