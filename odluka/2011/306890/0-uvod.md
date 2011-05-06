@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Sl. list RCG", broj 42/03, 28/04, 75/05, 13/06, "Sl. list CG", broj 88/09 i 3/10), člana 33 Statuta Opštine Pljevlja ("Sl. list RCG- Opštinski propisi", broj 37/04 i 30/07 i "Sl. list CG-Opštinski propisi", broj 32/09) i člana 1 Odluke o pristupanju izradi izmjena i dopuna Statuta Opštine Pljevlja ("Sl. list CG-Opštinski propisi", broj 15/10), Skupština opštine Pljevlja, na sjednici održanoj dana 31.03.2011.godine, donijela je
+O D L U K U
