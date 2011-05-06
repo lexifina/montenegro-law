@@ -1,0 +1,2 @@
+Na osnovu člana 9 stav 1 tačka 5 Zakona o izmjenama i dopunama Zakona o lokalnoj samoupravi ("Sl. list CG", br. 88/09 i 3/10) i člana 33 stav 1 Statuta Opštine Pljevlja ("Sl. list RCG -Opštinski propisi", br. 37/04, 30/07 i "Sl. list CG", broj 32/09) i člana 196 Zakona o opštem upravnom postupku ("Sl. list RCG", broj 60/03), Skupština opštine Pljevlja, na sjednici od 31.03.2011. godine, donijela je
+O D L U K U
