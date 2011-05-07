@@ -1,0 +1,2 @@
+Na osnovu člana 48 Statuta Glavnog grada ("Službeni list RCG - Opštinski propisi", broj 28/06 i "Službeni list CG - Opštinski propisi", broj 39/10), a u vezi sa članom 32 stav 1 tačka 3 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", broj 88/09), Skupština Glavnog grada - Podgorice, na sjednici održanoj 28. i 29. 04. 2011. godine, donijela je
+O D L U K U
