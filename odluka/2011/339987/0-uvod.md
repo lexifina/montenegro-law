@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi (''Sl. list RCG'', br. 42/03, 28/04, 75/05, 13/06 i ''Sl. list CG'', br. 88/09), člana 33a Zakona o Glavnom gradu ("Sl.list RCG", br. 65/05 I "Sl.list CG", br. 23/10) i člana 48 stav 1 alineja 2 Statuta Glavnog grada-Podgorice (''Sl.list RCG-Opštinski propisi'', br. 28/06 i ''Sl.list CG-Opštinski propisi'', br. 39/10), a u vezi sa članom 8 Zakona o zaradama državnih službenika i namještenika (''Sl. list CG'', br. 86/09), Skupština Glavnog grada-Podgorice, na sjednici održanoj dana 28.i 29.04.2011. godine, donijela je
+O D L U K U
+o zaradama i drugim primanjima službenika i namještenika gradskih opština Tuzi i Golubovci
