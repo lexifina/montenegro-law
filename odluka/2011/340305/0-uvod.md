@@ -1,0 +1,2 @@
+Na osnovu člana 33a Zakona o Glavnom gradu ("Sl.list RCG" br. 65/05 i "Sl.list CG", br. 23/10) a u vezi sa članom 90 Zakona o lokalnoj samoupravi (''Sl. list RCG'', br. 42/03, 28/04, 75/05, 13/06 i ''Sl. list CG'', br. 88/09) i člana 48 stav 1 alineja 2 Statuta Glavnog grada-Podgorice (''Sl.list RCG-Opštinski propisi'', br. 28/06 i ''Sl.list CG-Opštinski propisi'', br. 39/10), Skupština Glavnog grada-Podgorice, na sjednici održanoj dana 28. i 29. 04.2011. godine, donijela je
+O D L U K U
