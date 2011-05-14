@@ -1,0 +1,2 @@
+# Član 1
+Ovim poslovnikom se, u skladu sa zakonom i Statutom Glavnog grada, uređuje: konstituisanje, organizacija i način rada Skupštine Glavnog grada- Podgorice (u daljem tekstu: Skupština), prava i dužnosti odbornika i način njihovog ostvarivanja, postupak donošenja akata, sazivanje sjednice Skupštine, tok sjednice, javnost rada, način i postupak učešća predstavnika nevladinih organizacija u radu sjednice i druga pitanja od značaja za rad Skupštine.

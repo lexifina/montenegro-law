@@ -1,0 +1,2 @@
+# Član 89
+Skupština odlučuje ako sjednici prisustvuje više od polovine ukupnog broja odbornika, a odluke donosi većinom glasova prisutnih odbornika, osim u slučaju donošenja: Statuta Glavnog grada, Budžeta, odluke o zaduživanju Glavnog grada, odluke o davanju saglasnosti za zaduživanje javnih službi čiji je osnivač, odluke kojom se utvrđuju materijalne obaveze građana, odluke o raspisivanju referenduma, odluke o izboru i razrješenju gradonačelnika i predsjednika Skupštine i odluke o proglašenju počasnim građaninom, koje se donose većinom glasova ukupnog broja odbornika.

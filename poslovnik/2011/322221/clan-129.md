@@ -1,0 +1,3 @@
+# Član 129
+Skupština i njena radna tijela sarađuju sa Skupštinom Crne Gore i skupštinama jedinica lokalne samouprave i njihovim radnim tijelima razmjenom informacija, dokumentacije i drugih materijala, međusobnim posjetama predstavnika skupštine i njihovih radnih tijela i putem drugih oblika međusobne saradnje.
+Osim sa subjektima iz prethodnog stava, Skupština sarađuje i sa lokalnim zajednicama drugih zemalja.
