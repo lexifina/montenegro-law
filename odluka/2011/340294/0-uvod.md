@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 i 40 stav 2 tačka 1 Zakona o državnoj imovini ("Sl.list CG", broj 21/09), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04,25/05 i 13/06 i "Službeni list CG", broj 88/09 i 3/10) i člana 48 stav 1 alineja 9 Statuta Glavnog grada ("Službeni list RCG- Opštinski propisi", broj 28/06 i "Službeni list CG-Opštinski propisi", broj 39/10), Skupština Glavnog grada- Podgorice, na sjednici održanoj 28. i 29. 04. 2011.godine, donijela je
+O D L U K U
