@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06, 88/09), člana 40 stav 2 tačka 2 Zakona o državnoj imovini ("Službeni list Crne Gore", broj 21/09) i člana 29 stav 2 Statuta opštine Herceg Novi ("Službeni list Crne Gore -Opštinski propisi", br. 15/04, 31/06, 14/07, 16/09) Skupština opštine Herceg Novi na sjednici održanoj dana 29.04.2011. godine donosi
+O D L U K U
