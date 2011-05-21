@@ -1,0 +1,2 @@
+# Član 3
+Plan obuhvata prostor od 62,89 ha, odnosno početna tačka je ušće Kolašinske rijeke u rijeku Taru, uzvodno Kolašinskom rijekom do mosta kod vodenice,putem ka Brezi,te spoljnjom granicom katastarskih parcela broj 82/2, 72, 73, 76, 77, 78, 67, 66, 61 do puta za Radigojno,putem za Radigojno, spoljnjom granicom katastarskih parcela broj 1162 i 1076, do rijeke Tare, uzvodno rijekom Tarom do početne tačke. Granice zahvata date su u grafičkom prilogu koji je ovjeren od nadležnog organa i sastavni je dio Odluke.
