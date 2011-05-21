@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 20 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09 i 3/10), člana 36 stav 1 tačka 2 i člana 154 stav 2 Statuta Opštine Herceg Novi ("Sl. list RCG-Opštinski propisi", br. 15/04, 31/06, 14/07 i "Sl. list CG-Opštinski propisi", broj 16/09), Skupština opštine Herceg Novi, na sjednici održanoj dana 29.04.2011. godine, donosi
+O D L U K U
