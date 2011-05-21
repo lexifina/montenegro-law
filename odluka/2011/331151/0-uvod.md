@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi("Sl. list RCG", broj 42/03, 28/04, 75/05 i 13/06), člana 19 stav 3 Odluke o privremenim objektima ("Sl. list CG - Opštinski propisi", broj 5/10) i člana 36 Statuta Opštine Herceg Novi ("Službeni list RCG- Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07 i "Sl. list CG - Opštinski propisi", broj 16/09), Skupština opštine Herceg Novi, na sjednici održanoj dana 29.04. 2011 godine, donosi
+O D L U K U
