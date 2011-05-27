@@ -1,0 +1,3 @@
+Na osnovu člana 103 stav 2 Zakona o visokom obrazovanju ("Službeni list RCG", broj 60/03 i "Službeni list CG", broj 45/10), Ministarstvo prosvjete i sporta donijelo je
+PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O KRITERIJUMIMA, NAČINU,
+USLOVIMA I VISINI NAKNADE ZA OSTVARIVANJE PRAVA NA SMJEŠTAJ I ISHRANU U DOMU, STUDENTSKI KREDIT, STIPENDIJU I PARTICIPACIJU PREVOZA
