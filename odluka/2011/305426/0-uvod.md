@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 i 13/06, "Sl.list Crne Gore", broj 88/09 od 31.12.2009), člana 60 stav 1, 62 stav 1 i 2 člana 64 stav 2 Zakona o finansiranju lokalne samouprave ("Sl.list RCG", br 42/03, 44/03, "Sl.list Crne Gore" , broj 05/08 od 23.01.2008, 51/08 od 22.08.2008, 74/10 od 17.12.2010) i člana 63 stav 1 tačka 15 Statuta Prijestonice Cetinje ("Sl.list CG-Opštinski propisi", br. 19/09 i 37/10), Skupština Prijestonce Cetinje, na sjednici održanoj dana 19.05.2011. godine, donijela je
+O D L U K U
