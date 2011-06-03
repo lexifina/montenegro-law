@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06 , "Sl.CG", broj 88/09), člana 63 stav 1 tačka 2 Statuta Prijestonice ("Sl.CG- Opštinski propisi", br. 19/09 i 37/10), čl. 3 i 21 Odluke o obrazovanju radnih tijela Skupštine ("Sl.CG-Opštinski propisi", broj 1/10), te Odluke o načinu i postupku obrazovanja Komisije za utvrđivanje stanja u JLRDS "Radio Cetinje", ("Sl.CG-Opštinski propisi", broj 12/11), Skupština Prijestonice Cetinje, na sjednici održanoj dana 19.05.2011.godine, donijela je
+O D L U K U
