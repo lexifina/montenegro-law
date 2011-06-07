@@ -1,0 +1,4 @@
+# Član 232
+Pravosnažno riješeni predmeti arhiviraju se i čuvaju na osnovu odluke za stavljanje spisa u arhivu koju potpisuje sudija ili za to ovlašćeni službenik suda koji na omotu predmeta svojim potpisom na štambilju određuju da je predmet za arhiviranje.
+Formiraju se dvije vrste arhive: priručna i opšta arhiva. Priručna arhiva se nalazi u sastavu sudske pisarnice, po pravilu, u posebnoj prostoriji. Završeni predmeti u priručnoj arhivi mogu se držati najduže dvije godine, a nakon isteka ovog roka predaju se na čuvanje opštoj arhivi zajedno sa odgovarajućim upisnicima. Opšta arhiva je zajednička za sve vrste spisa i drži se odvojeno od sudske pisarnice u posebnoj prostoriji. U arhivi se čuvaju upisnici i imenici iz ranijih godina, ako nijesu potrebni za tekući rad.
+Predmeti moraju biti zaštićeni od vlage i požara i obezbijeđeni od oštećenja, uništenja i krađe.

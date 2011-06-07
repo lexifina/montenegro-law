@@ -1,0 +1,3 @@
+# Član 119
+U slučaju trajne spriječenosti ili nastupanja drugih okolnosti usljed kojih ne postoji mogućnost da predsjednik vijeća, sudija ili zapisničar potpišu odluku koja je donijeta, ali nije izrađena, odnosno potpisana, odluku će izraditi ili potpisati umjesto predsjednika vijeća, drugi sudija, a umjesto zapisničara drugi zapisničar, odnosno namještenik suda koga odredi predsjednik suda. Neizrađena odluka izradiće se prema sadržaju objavljene odluke i prema podacima iz spisa.
+Ukoliko je zaključena rasprava, odnosno pretres, a odluka nije objavljena, predsjednik će predmet dati u rad drugom predsjedniku vijeća ili sudiji pojedincu da otvori raspravu, odnosno pretres i da sprovede postupak.

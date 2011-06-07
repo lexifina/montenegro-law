@@ -1,0 +1,11 @@
+# Član 147
+Prilikom otvaranja pošte treba paziti da se ne oštete omoti sa poštanskim žigom pismena, da se prilozi raznih pismena ne pomiješaju, a neko pismeno ili prilog ne ostane u omotu, kao i da se provjeri da li se brojevi napisani na omotu slažu sa brojevima primljenih pismena i dr.
+Ako neko od pismena nedostaje ili ako su primljeni samo prilozi bez propratnog akta ili se ne vidi ko je pošiljalac, to se utvrđuje službenom zabilješkom, uz koju se prilaže omot.
+U slučajevima iz stava 2 ovog člana, ukoliko je to moguće, sudska pisarnica o tome odmah obavještava pošiljaoca.
+Kad se iz samog pismena ne može utvrditi mjesto odakle je poslato i ime pošiljaoca ili kad datum predaje pošti može biti od važnosti za računanje rokova (žalba, konkurs i dr.), a ovi podaci su označeni na omotu, uz primljeno pismeno prilaže se omot.
+Ako je u jednom omotu više poslatih pismena uz koje bi trebalo priložiti omot, omot se prilaže uz jedno pismeno, a na ostala se stavlja broj iz upisnika pod kojim je evidentirano pismeno uz koje je priložen omot (na primjer Omot uz I broj 137/04).
+Kad je datum poštanskog žiga na omotu nečitak, tako da se ne može sa sigurnošću utvrditi dan predaje pošiljke, a na drugi način se ne može utvrditi blagovremenost, tražiće se izvještaj od pružaoca poštanskih usluga.
+Ako su omoti sudskoj pisarnici predati oštećeni ili ako postoji sumnja o neovlašćenom otvaranju, pošiljku treba otvoriti u prisustvu troje namještenika suda. Nedostaci i nepravilnosti utvrđeni prilikom otvaranja pošiljke konstatuju se zabilješkom (ako pismenu nedostaju prilozi, staviće se "primljeno bez priloga", ako mu nedostaju samo pojedini prilozi treba navesti njihove nazive i dr.).
+Ako se u omotu nađe pismeno upućeno drugom sudu ili drugom organu pismeno se na najpogodniji način dostavlja onome kome je upućeno uz zabilješku. Ovakvo pismeno se ne upisuje u upisnik.
+Ako se prilikom otvaranja pošiljke utvrdi da je uz pismeno priložen novac ili neka druga vrijednost, na primljenom pismenu kratkom zabilješkom konstatovaće se njihova vrsta i iznos. Primljeni novac i vrijednosti poslije evidentiranja pismena predaju se u sudski depozit.
+Ako je uz pismeno priložena dostavnica, na njoj će se potvrditi prijem stavljanjem datuma, potpisa i službenog pečata, nakon čega se vraća pošiljaocu.

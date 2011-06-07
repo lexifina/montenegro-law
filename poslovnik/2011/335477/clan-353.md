@@ -1,0 +1,2 @@
+# Član 353
+Ako isti povjerilac na osnovu iste izvršne isprave zatraži novim predlogom proširenje izvršenja upotrebom istog sredstva izvršenja ili više istovjetnih sredstava izvršenja, koji nijesu bili obuhvaćeni ranijim predlogom ili već donijetim rješenjem o izvršenju, taj novi predlog ne upisuje se posebno u upisnik "I" već se ulaže u postojeći predmet i upisuje u popis spisa pod narednim brojem.

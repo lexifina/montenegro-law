@@ -1,0 +1,3 @@
+# Član 145
+Ako lice koje primi pošiljku nije ovlašćeno da je otvori, dužno je da odmah po prijemu, nakon što na omot konstatuje datum i vrijeme prijema (čas i minut), preda pošiljku namješteniku ovlašćenom za njeno otvaranje. Ovo naročito važi za pošiljke upućene lično predsjedniku suda ili sudiji za istragu, za pošiljke koje imaju oznaku "strogo tajno", "tajno", "povjerljivo" ili "interno", kao i za pošiljke u vezi sa licitacijom, konkursom i dr.
+Obične pošiljke predaju se neposredno namješteniku ovlašćenom za otvaranje pošiljke, dok se preporučene i pošiljke sa oznakom "strogo tajno", "tajno", "povjerljivo" ili "interno" i druge pošiljke čiji je prijem pisano potvrđen, predaju preko dostavne knjige.

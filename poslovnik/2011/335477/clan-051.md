@@ -1,0 +1,2 @@
+# Član 51
+Radi obezbjeđenja blagovremenog podnošenja statističkih podataka i dostavljanja drugih evidencija za sudsku statistiku, sud vodi popis rokova izvještavanja sa podacima kojem organu se, kad i na osnovu kojih uputstava dostavljaju statistički podaci i druge evidencije. Popis rokova služi kao podsjetnik predsjedniku suda, upravitelju sudske pisarnice odnosno namješteniku određenom za vođenje sudske statistike.

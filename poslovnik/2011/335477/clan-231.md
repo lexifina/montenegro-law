@@ -1,0 +1,3 @@
+# Član 231
+## 6.3. Postupanje sa predmetom koji je vraćen neposredno od strane višeg suda
+Kad sud primi predmet od višeg suda, namještenik suda vrši razvođenje u odgovarajućem upisniku. Ako je odluka od strane višeg suda u cjelini ili djelimično ukinuta, namještenik suda će predmet upisati pod novim brojem odgovarajućeg upisnika i bez odlaganja ga dostaviti sudiji. Sudija je dužan da najkasnije u roku od mjesec dana zakaže ročište za raspravljanje i istovremeno odredi da se strankama uz poziv za ročište dostavi prepis drugostepene odluke. Ako zbog opravdanih razloga nije moguće zakazati ročište u ovom roku, odluka višeg suda dostaviće se strankama bez odlaganja.

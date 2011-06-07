@@ -1,0 +1,2 @@
+# Član 64
+Ukoliko sudija zbog dužeg odsustvovanja ili preopterećenosti ne može blagovremeno da rješava dodijeljene predmete, njegovi već dodijeljeni predmeti dodjeljuju se ostalim sudijama u sudskom odjeljenju, odnosno pravnoj oblasti po dnevnom redosljedu podnošenja zahtjeva za pokretanje postupka, uz poštovanje azbučnog reda početnih slova prezimena sudija, o čemu odlučuje predsjednik suda sam ili na predlog predsjednika odjeljenja ili sudije.

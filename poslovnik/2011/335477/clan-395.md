@@ -1,0 +1,4 @@
+# Član 395
+Sva primanja i izdavanja gotovinskog depozita koji se čuvaju u blagajni suda sprovode se preko blagajničkog izvještaja za gotovinu uplaćenu po strankama (obrazac broj 61 Fm 11), po redosljedu primanja i izdavanja, nakon čega se na osnovu izvornika blagajničkog izvještaja za gotovinu uplaćenu po strankama, ta primanja i izdavanja knjiže u dnevnik gotovinskog depozita koji se čuva u blagajni suda preko odgovarajućih kontovnika.
+Primanja i izdavanja gotovinskih depozita koji se čuvaju na računu suda u banci upisuju se na osnovu izvještaja banke. Izvještaje o uplatama i isplatama gotovinskih depozita koji se čuvaju na računu suda u banci čuva namještenik koji vodi dnevnik gotovinskih depozita, sređene po rednim brojevima izvoda u posebnom omotu.
+Primanja i izdavanja negotovinskih depozita upisuju se na osnovu zapisnika o primanju i naredbe sudije o izdavanju i knjiže se kopirnom metodom u dnevnik negotovinskih depozita preko odgovarajućih kontovnika.

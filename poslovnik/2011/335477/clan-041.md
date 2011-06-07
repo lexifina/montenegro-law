@@ -1,0 +1,3 @@
+# Član 41
+Sudije, službenici i namještenici suda koriste godišnji odmor, po pravilu, u julu i avgustu.
+Raspored korišćenja godišnjeg odmora predsjednik sačinjava tako da u sudu ostane dovoljan broj sudija, službenika i namještenika, kako bi se obezbijedilo nesmetano vođenje postupka u predmetima koji su zakonom određeni kao hitni (pritvorski predmeti; predmeti krivičnog postupka prema maloljetnicima; nasilje u porodici; radni sporovi; sporovi o zakonskom izdržavanju; smetanje državine; čuvanje i vaspitavanje djece; mjenični, čekovni i zemljišno-knjižni sporovi; privredni sporovi koji se vode u toku stečaja; sporovi po predlozima za obezbjeđenje dokaza, predlozima za izdavanje, ograničenje ili ukidanje privremene mjere i dr.).

@@ -1,0 +1,4 @@
+# Član 246
+Prva pismena kojima se pokreće postupak ili traži neka sudska radnja upisuju se u odgovarajuće upisnike i pomoćne knjige.
+Pismena koja se odnose na već upisane predmete, a koja zbog njihovog značaja treba da budu vidljiva u upisniku (žalba, prigovor i dr.) upisuju se u upisnik pod rednim brojem predmeta. Ostala pismena ulažu se u odgovarajući predmet bez posebnog upisivanja u upisnik.
+U slučaju kad u upisniku kod ranijeg upisa nema dovoljno mjesta za upisivanje daljih upisa, nastaviće se upisivanje u prvom slobodnom vodoravnom redu iza posljednjeg zauzetog rednog broja u upisniku. Radi označavanja veze sa tako nastavljenim upisom, stavlja se ispred oznake rednog broja predmeta, čiji se upisi nastavljaju, crvenom olovkom ili crvenim mastilom, redni broj predmeta iza kojeg slijedi nastavljeni upis. Red gdje se nalaze nastavljeni upisi nosi redni broj predmeta na koji se nastavljeni upis odnosi.

@@ -1,0 +1,5 @@
+# Član 209
+Odluke i druga pismena otprema namještenik sudske pisarnice određen za to rasporedom poslova, a u sudovima sa većim obimom posla, posebna organizaciona jedinica u sastavu sudske pisarnice.
+Pismena preuzeta za otpremanje moraju biti otpremljena istog dana. Pismena hitne prirode otpremaju se prvom poštom ili preko sudskog namještenika odmah po prijemu. Pismena primljena nakon zaključenja dostavnih knjiga, ako nijesu hitna, otpremaju se sjutradan.
+Na primjerku pismena koje ostaje u sudu ili ispod teksta odluke za dostavljanje stavlja se zabilješka o otpremanju, datum otpreme i potpis namještenika koji otprema poštu, broj dostavnica, omota i drugih pismena koji se otprema, kao i način otpremanja, a zatim se predmet vraća upravitelju sudske pisarnice, odnosno šefu odsjeka sudske pisarnice, radi razvođenja i stavljanja predmeta u rokovnik, odnosno ročišnik.
+Pismena koja se istog dana upućuju na istu adresu preko organa lokalne samouprave i lokalne uprave stavljaju se po pravilu u jedan omot.

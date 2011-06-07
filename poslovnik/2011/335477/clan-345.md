@@ -1,0 +1,4 @@
+# Član 345
+Namještenik koji vodi dnevnik novčanih kazni, troškova krivičnog postupka i oduzete imovinske koristi dužan je da provjerava naplatu i preduzima radnje da se potraživanje iz dnevnika i kontovnika naplati što prije, a naročito prije isteka roka zastarjelosti.
+Na kraju svakog mjeseca namještenik koji vodi dnevnik dužan je da pregleda sve otvorene stavke i dostavljanjem obavještenja o proteku roka naplate (obrazac broj 61 Fm 5) obavijesti nadležnog sudiju da je rok za naplatu protekao. Postupak izvršenja radi naplate utvrđenog iznosa pokreće se nakon prijema obavještenja.
+Ako je sud koji je donio odluku tražio izvršenje novčane kazne, troškova krivičnog postupka i oduzete imovinske koristi od drugog suda, sud nadležan za izvršenje će obavijestiti sud koji je tražio naplatu o pokretanju postupka izvršenja i navesti oznaku svog spisa.

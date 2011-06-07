@@ -1,0 +1,3 @@
+# Član 228
+Sa predmetom koji se dostavlja višem sudu dostavljaju se i sve isprave koje se čuvaju odvojeno od predmeta. U slučaju da u predmetu postoje prepisi tih isprava, izvornici se dostavljaju višem sudu samo na njegov zahtjev.
+Prije nego što se predmet otpremi višem sudu, službenik suda koji je pripremao izvještaj iz člana 227 stav 1 ovog poslovnika, dužan je da provjeri da li su predmetu priložene odgovarajuće dostavnice i potreban broj prepisa odluka povodom kojih je pravni lijek izjavljen, kao i da li je predmet sređen. Na isti način se postupa i kad se spis dostavlja na uvid drugom sudu ili drugom državnom organu.

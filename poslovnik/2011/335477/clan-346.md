@@ -1,0 +1,2 @@
+# Član 346
+Ako je od dostavljanja obavještenja za izvršenje protekao rok određen u presudi, namještenik koji vodi dnevnik novčanih kazni, troškova krivičnog postupka i oduzete imovinske koristi dužan je da zatraži od suda nadležnog za izvršenje, obavještenje o razlozima zbog kojih izvršenje nije sprovedeno u određenom roku na obrascu: zahtjev za obavještenje o toku izvršenja novčane kazne, troškova krivičnog postupka i oduzete imovinske koristi (obrazac broj 61 Fm 6). O utvrđenom stanju obavještava se i predsjednik suda.

@@ -1,0 +1,3 @@
+# Član 408
+Sekretarijat Sudskog savjeta obezbjeđuje i održava informacione tehnologije u sudovima, prati i implementira nove tehnološke napretke, brine o sigurnosti podataka i sistema, obučava sudije, službenike i namještenike suda i pruža stručnu pomoć u korišćenju Pravosudnog informacionog sistema.
+U sudovima koji koriste Pravosudni informacioni sistem predsjednik suda odgovoran je za obezbjeđivanje neophodnih kadrovskih i organizacionih uslova za funkcionisanje informacionog sistema, za tačan i ažuran unos podataka i za sprovođenja mjera bezbjednosti i zaštite podataka i informacionih tehnologija neophodnih za korišćenje Pravosudnog informacionog sistema.
