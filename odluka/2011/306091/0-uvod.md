@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 6 i člana 75 Zakona o lokalnoj samoupravi ("Sl.list RCG", br.42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09 i 3/10) i člana 33 stav 1 tačka 20 i člana 76 Statuta Opštine Berane ("Sl.list RCG-Opštinski propisi", br. 21/04 i 34/06 i "Sl.list CG-Opštinski propisi", broj 6/11), Skupština opštine Berane, na sjednici održanoj dana 26. i 27. 04. i 18. i 19. 05. 2011. godine, donosi
+O D L U K U
