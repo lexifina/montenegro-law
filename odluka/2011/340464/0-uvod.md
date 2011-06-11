@@ -1,0 +1,2 @@
+Na osnovu člana 49 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list Crne Gore", br. 88/09 i 3/10), člana 33 tač. 2 i 25 i člana 36 Statuta Opštine Berane ("Sl.list RCG - Opštinski propisi", br. 21/04, 34/06 i "Sl. list CG-Opštinski propisi", broj 6/11), Skupština opštine Berane, na sjednici održanoj dana 26. i 27. 04. i 18. i 19. 05. 2011. godine, donijela je
+O D L U K U
