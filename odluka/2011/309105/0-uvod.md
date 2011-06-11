@@ -1,0 +1,2 @@
+Na osnovu člana 47 stav 1 Zakona o lokalnoj samoupravi ("Sl.list RCG", br.42/03, 28/04, 75/05 i 13/06 i "Sl.CG", broj 88/09), te čl. 72 i 73 Statuta Prijestonice, "Sl.CG-Opštinski propisi", br.19/09 i 37/10), te čl. 113 i 114 Poslovnika Skupštine Prijestonice Cetinje, ("Sl.RCG-Opštinski propisi", broj 13/06), Skupština Prijestonice Cetinje, na sjednici održanoj dana 19.05.2011. godine, donijela je
+O D L U K U
