@@ -1,0 +1,3 @@
+# Član 3
+LSL obuhvata prostor površine 13.77 ha, u KO Budva koji je ograničen: sa južne strane: magistralnim putem Kotor-Budva; sa zapadne strane: granicom kat. parc. 2588, 2589 i 2590, sa jedne i kat. parcela 2576/2, 2577, 2579, 2580, 2581, 2582, 2583, 2584, 2585, 2587/1 i 2587/4, sa druge strane; sa sjeverne strane: granicom kat. opština Budva i Prijevor I, zatim nastavlja lokalnim, seoskim putem do granice kat. parcela 2570, 2569, 1898/1, 2298/2 i 2299, sa jedne i kat. parcela 2568, 2555, 2554, 2550, 2545, 2544, 2520 i 2519, sve KO Budva, sa druge strane;
+sa istočne strane: magistralnim putem Budva-Kotor.
