@@ -1,0 +1,2 @@
+Na osnovu člana 5 stav 1 tačka 5, a u vezi sa članom 70 stav 1 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04,75/05,13/06 i "Sl.list CG", broj 88/09), člana 59 stav 1 tačka 7 i člana 71 stav 1 i 2 Statuta Opštine Nikšić ("Sl.list RCG-Opštinski propisi", br. 20/04, 43/06 i "Sl.list CG-Opštinski propisi", broj 43/10), predsjednik Opštine Nikšić, po pribavljenom mišljenju glavnog administratora donio je
+O D L U K U
