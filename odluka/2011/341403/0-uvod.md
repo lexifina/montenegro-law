@@ -1,0 +1,3 @@
+Na osnovu člаnа 53 a u vezi sa člаnоm 31 Zakona o uređenju prostora i izgradnji objekata ("Sl.list CG", broj 51/08) Programa uređenja prostora Оpštine Tivat za 2010. godinu ("Sl.list CG- Opštinski propisi", broj 24/10, 33/10, 37/10), Odluke o izmjenama i dopunama DUP-a Lastva- Seljanovo-Tivat-Gradiošnica za lokaciju 8 ("Sl.list CG-Opštinski propisi"), Izmjena i dopuna DUP-a Lastva-Seljanovo-Tivat-Gradiošnica ("Sl.list CG-Opštinski propisi", brok 3/11) i člana 56 Statuta Opštine Tivat ("Sl.list CG-Opštinski propisi", br. 40/04 i 26/06), predsjednik Opštine Tivat donosi
+O D L U K U
+o dopuni Odluke o izradi izmjena DUP-a Lastva-Seljanovo-Tivat-Gradiošnica za
