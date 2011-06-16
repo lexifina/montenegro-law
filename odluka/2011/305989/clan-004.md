@@ -1,0 +1,2 @@
+# Član 4
+Javnim površinama, u smislu Zakona o lokalnim komunalnim taksama, za čije se korišćenje može uvesti lokalna komunalna taksa smatraju se površine utvrđene planskom dokumentacijom opštine,koje su dostupne svim korisnicima pod jednakim uslovima (ulice, trgovi, javni prolazi, javna stepeništa, mostovi, podvožnjaci, nadvožnjaci, parking prostori, trotoari, stajališta javnog prevoza, pijace, parkovi, travnjaci, površine za rekreaciju i sl.).
