@@ -1,0 +1,2 @@
+Na osnovu člana 60 stav 2 Zakona o visokom obrazovanju ("Službeni list RCG" , broj 60/03 i "Službeni list CG", broj 45/10), na prijedlog Univerziteta Crne Gore br. 07- 863/1 i 07-863/2 od 8. juna 2011. godine, Vlada Crne Gore na sjednici od 16. juna 2011. godine, donijela je
+O D L U K U O BROJU STUDENATA ZA UPIS NA OSNOVNE I SPECIJALISTIČKE STUDIJE UNIVERZITETA CRNE GORE ZA STUDIJSKU 2011/2012. GODINU KOJI SE FINANSIRAJU IZ BUDŽETA CRNE GORE
