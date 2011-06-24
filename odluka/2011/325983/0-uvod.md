@@ -1,0 +1,2 @@
+Na osnovu člana 30. tačka 5. Zakona o unutrašnjoj trgovini ("Sl. list Crne Gore", br.49/08), člana 14. stav 2. tačka 6. Zakona o komunalnim djelatnostima ("Sl. list RCG",br. 12/95) i člana 31. Statuta Opštine Tivat ("Službeni list RCG - Opštinski propisi", br. 40/04, 26/06 i "Službeni list Crne Gore - Opštinski propisi", br. 12/11 ), Skupština opštine Tivat, na sjednici održanoj dana 24.06.2011. godine, donijela je
+O D L U K U
