@@ -1,0 +1,4 @@
+# Član 1
+## o izmjeni odluke o određivanju uslova radi odabira partnera za zajedničku izgradnju stambenog objekta
+U odluci o ustupanju radova na izradi projektne dokumentacije (Idejnog projekta i Glavnog projekta, projekta izvedenog stanja) i izgradnje stambenog objekta u Budvi prenosu broj 0101-242/1 od 14. maja 2010. godine član 1 stav 1 mijenja se i glasi:
+"Predmet ove odluke je određivanje uslova za postupak javnog nadmetanja radi odabira partnera radi ustupanja radova na izradi projektne dokumentaacije (Idejnog projekta i Glavnog projekta) i izgradnji stambenog objekta na dijelu kat.parcele 555/5 KO Budva, uslovnom parcelacijom urađenom od strane ovlašćenje geodetske organizacije "Geomont" d.o.o. Budva označene kao 555/19 u površini od 398 m2, a u svemu prema urbanističko tehničkim uslovima izdatim od strane nadležnih organa Opštine Budva".
