@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Sl. list RCG", broj 65/2001 i "Sl.list CG", broj 75/10), člana 5. stav 1 tačka 1 Zakona o finansiranju lokalne samouprave ("Sl.list RCG", br. 42/03, 44/03 i "Sl.list CG", br. 5/08 i 74/10), člana 45. stav 1. tačka 8 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 13/06 i "Sl.list CG", broj 88/09) i člana 44 tačka 9 Statuta opštine Mojkovac ("Sl. list CG-Opštinski propisi", broj 31/10) Skupština opštine Mojkovac na sjednici održanoj 27.05.2011. godine, donosi
+O D L U K U
