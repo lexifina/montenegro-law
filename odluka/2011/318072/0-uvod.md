@@ -1,0 +1,2 @@
+Na osnovu člana 45 a u vezi sa članom 57 stav 1 tačka 6 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09 i 3/10) i člana 38 stav 1 tačka 53 Statuta Opštine Žabljak ("Sl. list RCG - Opštinski propisi", br. 9/05 i 23/07 i "Sl. list CG - Opštinski propisi", broj 3/11), Skupština opštine Žabljak, na sjednici održanoj dana 01.07.2011.godine, donijlela je
+O D L U K U
