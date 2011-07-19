@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 u vezi sa članom 18 al. 7 i 9 Zakona o državnoj imovini ("Sl. list CG" broj 21/09), člana 4 stav 1 i 3 Uredbe o prodaji i davanju u zakup stvari u državnoj svojini ("Sl. list CG", broj 44/10) i 38 tačka 52 a u vezi sa članom 20 Statuta Opštine Žabljak ("Sl. list RCG - Opštinski propisi", br. 9/05 i 23/07 i "Sl. list CG - Opštinski propisi", broj 3/11), Skupština opštine Žabljak, na sjednici održanoj dana 01.07.2011. godine, donijela je
+O D L U K U
