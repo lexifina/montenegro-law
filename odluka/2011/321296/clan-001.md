@@ -1,0 +1,5 @@
+# Član 1
+## o pribavljanju nepokretnosti
+Ovom odlukom stvaraju se uslovi za pribavljanje nepokretnosti i to:
+- katastarske parcele broj 4537 po kulturi pijesak, šljunak, površine 1.790 m2, upisane u listu nepokretnosti broj 782 KO Nikšić, kao korišćenje AD "Rudnika Boksita Nikšić" iz Nikšića, po procijenjenoj vrijednosti od 38,85 € po m2 zemljišta, što za površinu od 1.790 m2 ukupno iznosi 69.541,50 €, u skladu sa procjenom Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore -PJ Nikšić, broj 443-103- 294/11 od 20.05.2011.godine i
+- katastarske parcele broj 1793/2 po kulturi pašnjak 2.klase, površine 664 m2, upisane u listu nepokretnosti broj 2985 KO Nikšić, kao korišćenje AD "Rudnika Boksita Nikšić" iz Nikšića, po procijenjenoj vrijednosti od 40,40 € po m2 zemljišta, što za površinu od 664 m2 ukupno iznosi 26.825,60 €, u skladu sa procjenom Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore - PJ Nikšić, broj 443-103- 154/11 od 17.03.2011.godine.
