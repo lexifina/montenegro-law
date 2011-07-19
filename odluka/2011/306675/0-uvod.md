@@ -1,0 +1,2 @@
+Na osnovu člana 57. stav 1. tačka 6. Zakona o lokalnoj samoupravi ("Sl. list RCG", broj 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09), i člana 31. tačka 19. Statuta Opštine Tivat ("Službeni list RCG - Opštinski propisi", br.40/04, 26/06 i "Službeni list Crne Gore - Opštinski propisi", br. 12/11 ), Skupština opštine Tivat, na sjednici održanoj dana 24.06.2011. godine, donijela je
+O D L U K U
