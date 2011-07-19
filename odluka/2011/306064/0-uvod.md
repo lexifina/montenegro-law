@@ -1,0 +1,2 @@
+Na osnovu člana 13 Zakona o Glavnom gradu ("Službeni list RCG", broj 65/05 i "Službeni list CG", broj 88/09) i člana 53 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04,75/05 i 13/06 i "Službeni list CG", br. 88/09 i 03/10) i člana 59 Statuta Glavnog grada ("Službeni list RCG", br. 28/06 i "Službeni list CG", br. 39/10), Skupština Glavnog grada - Podgorice, na sjednici, održanoj 19. jula 2011.godine, donijela je
+O D L U K U
