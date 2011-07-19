@@ -1,0 +1,2 @@
+# Član 1
+Ovim poslovnikom se u skladu sa Zakonom i Statutom Prijestonice uređuje : konstituisanje, organizacija i način rada Skupštine Prijestonice, (u daljem tekstu: Skupština), prava i dužnosti odbornika, i način njihovog ostvarivanja, postupak donošenja akata, sazivanje sjednice Skupštine, tok sjednice, javnost rada, način i postupak učešća predstavnika nevladinih organizacija u radu sjednice i druga pitanja od značaja za rad Skupštine.
