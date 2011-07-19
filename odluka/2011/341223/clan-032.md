@@ -1,0 +1,5 @@
+# Član 32
+Izabrani predstavnik, odnosno funkcioner može da uskrati pružanje podataka Etičkoj komisiji, u slučaju ako davanje takvih podataka predstavlja zalaženje u njegovu privatnost ili privatnost trećih lica, ako bi se davanjem podataka ugrozila bezbjednost i drugi opravdani interesi izabranog predstavnika, odnosno funkcionera ili trećih lica, o čemu je dužan da obavijesti Etičku komisiju u utvrđenom roku.
+Izabrani predstavnik, odnosno funkcioner je obavezan da navede i ukoliko je to moguće, ukratko obrazloži razloge zbog kojih ne može da postupi po zahtjevu Etičke komisije.
+Etička komisija, ukoliko ocijeni potrebnim, obabještava organ nadležan za izbor, imenovanje ili postavljenje izabranog predstavnika, odnosno funkcionera, kao i javnost o uskraćivanju pružanja podataka.
+Etička komisija dužna je da, po službenoj dužnosti ili po zahtjevu izabranog predstavnika, odnosno funkcionera ili trećeg lica, vodi računa da se neopravdano ne naruši pravo na njihovu privatnost, kada je u posjedu takvih informacija.

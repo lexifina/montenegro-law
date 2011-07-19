@@ -1,0 +1,7 @@
+# Član 8
+## Uslovi za izbor člana Etičke komisije
+Za člana Etičke komisije može biti izabrano lice koje:
+-
+posjeduje visoke etičke vrijednosti i uživa ugled i poštovanje u svojoj sredini i
+-
+ima prebivalište na teritoriji Opštine Žabljak.
