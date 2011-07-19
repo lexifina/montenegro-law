@@ -1,0 +1,2 @@
+Na osnovu čl. 34, 35 st. 2 i 41 stav 1 alineja 3 Zakona o zaštiti i spašavanju ("Sl. list RCG", br.13/07 i 5/08), člana 31 stav 1 tačka 6 i člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03 i 28/04, 75/05, 13/06 i "Sl. list CG", broj 88/09) i člana 31 stav 1 tačka 45 Statuta Opštine Tivat ("Sl. list RCG-Opštinski propisi", br. 40/04, 26/06 i Sl. list CG - Opštinski propisi", broj 12/11), Skupština opštine Tivat, na sjednici održanoj dana 24.06.2011. godine, donjela je
+O D L U K U
