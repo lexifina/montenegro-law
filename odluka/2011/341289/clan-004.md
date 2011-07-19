@@ -1,0 +1,2 @@
+# Član 4
+Planom je predviđeno ukidanje zajedničke podzemne garaže za objekte sa oznakom B2 (objekat "Kole" - "Albona") i objekta sa oznakom C1 (nova zgrada "Miljanić") zbog odustajanja novog vlasnika objekta sa oznakom B2 od gradnje objekta veće spratnosti. Predviđeno je povećanje spratnosti objekta C1 iz razloga što se time neće narušiti prostorni i funkcionalni potencijal pripadajuće parcele. Planirana je izgradnja novog stambenog objekta sa oznakom C2, kao i infrastrukturno opremanje i uređenje terena.
