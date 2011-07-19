@@ -1,0 +1,4 @@
+# Član 6
+Usluge lične higijene i njege su: kupanje sa pranjem kose, pomoć u korišćenju berbersko-frizerskih i pedikirskih usluga na najpogodniji način, presvlačenje, higijenska priprema za uzimanje obroka, pomoć pri hranjenju i ostali poslovi vezani za higijenu korisnika.
+Pomoć u održavanju higijene stana i obavljanju neophodnih kućnih poslova podrazumijeva poslove u vezi sa: održavanjem čistoće stana, organizovanjem pranja i peglanja rublja, nabavkom neophodnih stvari za stan, zagrijavanjem stana, nabavkom životnih namirnica, pripremanjem jednostavnih obroka, dostavom gotovih obroka, pranjem posuđa, plaćanjem računa i drugih poslova u zavisnosti od potrebe korisnika.
+Pomoć radi zadovoljavanja drugih egzistencijalnih potreba je: pomoć u uspostavljanju kontakata sa službama i ustanovama iz oblasti zdravstvene i socijalne zaštite, pomoć pri korišćenju zdravstvenih usluga u prostorijama zdravstvenih ustanova, nabavka i kontrola uzimanja ljekova i dr.
