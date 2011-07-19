@@ -1,0 +1,21 @@
+DOPUNA PROGRAMA UREĐENJA PROSTORA OPŠTINE NIKŠIĆ ZA 2011.GODINU
+UVODNE NAPOMENE
+Zakonom o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08 i 40/10), propisano je da skupština lokalne samouprave donosi jednogodišnji program uređenja prostora koji obuhvata program izrade novih, odnosno izmjene i dopune postojećih planskih dokumenata i programa uređivanja građevinskog zemljišta.
+Programom se utvrđuje dinamika uređenja prostora, izvori finansiranja, rokovi uređenja, operativne mjere za sprovođenje planskog dokumenta, a naročito mjere za komunalno opremanje građevinskog zemljišta.
+U skladu sa navedenim, Skupština opštine Nikšić je usvojila Program uređenja prostora Opštine Nikšić za 2011.godinu, koji je objavljen u "Službenom listu CG- Opštinski propisi", broj 3/11.
+Navedenim Programom predviđeno je da ukoliko se tokom realizacije istog ukaže potreba za uključivanje novih planskih dokumenata pristupiće se izmjenama i dopunama Programa po postupku njegovog donošenja.
+Zainteresovani korisnici prostora su u toku prvih mjeseci 2011.godine Sekretarijatu za uređenje prostora i stambene poslove dostavili pisane podneske u kojima su iskazali svoja interesovanja i zahtjeve za izradu i donošenje planskih dokumenata, pa s tim u vezi vrši se dopuna Programa uređenja prostora Opštine Nikšić za 2011.godinu.
+U Programu uređenja prostora Opštine Nikšić za 2011.godinu u poglavlju 3/1. Procjena potrebe izrada novih i izmjena i dopuna postojećih planskih dokumenata ("Službeni list Crne Gore - Opštinski propisi" broj 3/11), poslije tačke 18. dodaju se 3 nove tačke koje glase:
+"19. Odluka o izradi izmjena i dopuna Detaljnog urbanističkog plana Brlja ("Službeni list CG- Opštinski propisi", broj 2/07),
+- Odluka o izradi strateške procjene uticaja na životnu sredinu izmjena i dopuna Detaljnog urbanističkog plana Brlja ("Službeni list CG- Opštinski propisi", broj 2/07),
+(Navedeni planski dokument obuhvata područje ograničeno magistralom Nikšić- Podgorica od Petlje do pumpe Žitan, južnom granicom parcele broj 174/1, KO Straševina, izohipsom 630 do puta sa parcelarnim brojem 187/21, istočnom granicom parcela 187/10 i 163/2, putem sa parcelarnim brojevima 1399/1 i 1399/2 i priključkom na Petlju. Podnosilac inicijative za izmjenu ovog planskog dokumenta Matović Božidar iz Nikšića je vlasnik katastarskih parcela br. 180, 187/5, 187/23, 187/13, 187/14, 187/15 i 187/20, ukupne površine 10.676 m2, upisane u listu nepokretnosti broj 384 KO Straševina potez Gradac, a predmet zahtjeva je planiranje benzinske pumpe sa pratećim sadržajima).
+Izmjenu i dopunu ovog planskog dokumenta zatražio je i Milović Ljubo iz Nikšića sa predmetom zahtjeva planiranje poslovnih objekata na katastarskoj parceli broj 173/1, list nepokretnosti broj 451 KO Straševina i na katastarskoj parceli 187/2, list nepokretnosti broj 543 KO Straševina na kojima imenovani ima pravo suvlasništva.
+20. Odluka o izradi Lokalne studije lokacije Podbožur
+- Odluka o izradi strateške procjene uticaja na životnu sredinu Lokalne studije lokacije Podbožur.
+(Obuhvat lokacije na katastarskoj parceli broj 50/1 - upisana u posjedovnom listu broj 93 KO Rudine, ukupne površine 6.900 m2, na lokaciji Podbožur uz magistralni put Nikšić - Trebinje, vlasništvo podnosioca zahtjeva Nikčević Veselina iz Risna, a predmet zahtjeva je planiranje benzinske pumpe sa pratećim sadržajima).
+21. Odluka o izradi Detaljnog urbanističkog plana Centar 2
+-Odluka o izradi strateške procjene uticaja na životnu sredinu Detaljnog urbanističkog plana Centar 2".
+(Planski dokument obuhvata područje između ulica: Narodnih heroja, Njegoševe, Karađorđeve i Bulevara Vuka Mićunovića. Predmet zahtjeva podnosioca inicijative Marković Miodraga iz Nikšića je planiranje izgradnje poslovno - stambenog objekta na parcelama na lokaciji ulice Karađorđeve na kojima imenovani ima pravo suvlasništva, uz plansko definisanje po potrebi rekonstrukcije objekata i uređenje prostora u okviru obuhvata).
+Dinamiku donošenja odluka o izradi planskih dokumenata u ovoj dopuni Programa teško je utvrditi, obzirom da prioritet imaju započeti postupci izrade i donošenja planskih dokumenata.
+Ova dopuna Programa objaviće se u "Službenom listu Crne Gore - Opštinski propisi".
+________________________________________________________________
