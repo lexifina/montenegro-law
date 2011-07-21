@@ -1,0 +1,2 @@
+Na osnovu člana 36 stav 2 Zakona o državnoj imovini (,,S1. list CG", broj 21/09), člana 4 stav 1 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini (,,S1. list CG", broj 44/10) i člana 34 Statuta Opštine Pljevlja ("Sl.list RCG-Opštinski propisi", br. 37/04, 30/07 i ,,S1. list CG - Opštinski propisi", br. 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici od 23.06. 2011. godine i 28.06.2011. godine, donijela je sljedeću
+O D L U K U
