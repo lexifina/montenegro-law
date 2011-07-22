@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 17, člana 53 Zakona o lokalnoj samoupravi ("Sl. list RCG ", br. 42/03, 28/04, 75/05 i 13/06, "Sl. list Crne Gore", broj 88/09), člana 32 stav 1 tačka 20 Statuta Opštine Andrijevica ("Sl. list RCG -Opštinski propisi", br. 21/04, 42/06 i "Sl .list Crne Gore - Opštinski propisi", broj 02/11), Skupština opštine Andrijevica, na sjednici održanoj dana 22.07.2011. godine, jednoglasno je donijela
+O D L U K U
