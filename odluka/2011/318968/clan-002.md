@@ -1,0 +1,4 @@
+# Član 2
+Planom je obuhvaćeno područje površine 29 253.33m2.
+U zahvat Plana ulaze sljedeće katastarske parcele: 2099, 2100, 2101, 2102/1, 2102/2, 2102/3, 2102/4, 2102/5, 2102/6, 2103/1, 2103/2, 2104, 2104, 2106, 2107, 2108, 2109, 2110, 2111, 2112/1, 2112/2, 2113/1, 2113/2, 2114, 2115, 2116, 2118/1, 2118/2, 2119/1, 2119/2, 2121/1, 2122/2, 2123, 2124, 2125, 2126, 2127, 2128, 2129, 2130/3, 2130/1, 2130/2, 2131 i dijelovi katastarske parcele broj 4626/2 KO Pljevlja.
+Granica zahvata Izmjena i dopuna DUP-a "Stara čaršija" u Pljevljima određena je granicama kontaktnih planova i to: prema prostoru koji je u zahvatu DUP-a ,,Centar I", osovinom ulice Vuka Kneževića i osovinom ulice Kralja Petra I (sa potpunom regulacijom navedenih saobraćajnica), prema prostoru u zahvatu DUP-a ,,Ada,, tako što u zahvat ulazi cijeli profil ulice Prvi Decembar a prema prostoru u zahvatu DUP-a ,,Breznica,, tako što u zahvat ulazi cijeli profil ulice Mila Peruničića.
