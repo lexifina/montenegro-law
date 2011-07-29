@@ -1,0 +1,3 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi (»Sl.list RCG«, br.42/03, 28/04, 75/05, 13/06, 88/09 i 3/10), čl. 29 i 30 Zakona o zapošljavanja i ostvarivanju prava iz osiguranja od nezaposlenosti (»Sl. list RCG«, broj14/10), 2011 i člana 33 Statuta Opštine Pljevlja (»Sl.list RCG-Opštinski propisi«, br. 37/04, 30/07, 32/09 i 14/11), a u skladu sa Nacionalnom strategijom zapošljavanja i razvoja ljudskih resursa CG 2007-2011, Skupština opštine Pljevlja , na sjednici od 23.06. i 28.06. 2011.godine, donijela je
+O D L U K U
+o usvajanju Strategije zapošljavanja i razvoja ljudskih resursa Opštine Pljevlja
