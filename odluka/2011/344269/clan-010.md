@@ -1,0 +1,3 @@
+# Član 10
+Kada ocjeni da je predlog ili inicijativa organa, službi i drugih subjekata osnovana, Savjet podnosi predlog, odnosno inicijativu nadležnim državnim ili lokalnim organima i službama u pisanom obliku.
+Predlog, odnosno inicijativa iz stava 1 ovog člana sadrži: naziv akta ili radnje kojom se povređuje pravo na lokalnu samoupravu, prava i slobode građana ili se ne obezjeđuje potreban obim i kvalitet javnih usluga, razloge na kojima se predlog, odnosno inicijativa zasniva, preporučene mjere za otklanjanje povrede, podizanje kvaliteta javnih usluga ili efikasnije vršenje poslova kao i druge podatke od značaja za ocjenjivanje opravdanosti predloga, odnosno inicijative Savjeta.
