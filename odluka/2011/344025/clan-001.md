@@ -1,0 +1,4 @@
+# Član 1
+## žrtve nasilja Nikšić
+U Odluci o zajedničkom ulaganju Opštine Nikšić i NVO SOS telefon za žene i djecu žrtve nasilja Nikšić ("Službeni list CG-Opštinski propisi", broj 3/11) član 1 mijenja se i glasi :
+"Ovom odlukom uređuju se odnosi zajedničkog ulaganja Opštine Nikšić i NVO SOS telefon za žene i djecu žrtve nasilja Nikšić, radi privođenja prostora planiranoj namjeni u skladu sa Odlukom o izmjenama i dopunama Generalnog urbanističkog plana Nikšića u dijelu namjene površina("Službeni list RCG- Opštinski propisi", broj 17/01), u cilju izgradnje stambenog objekta za zbrinjavanje žena i djece žrtava nasilja , spratnosti P+P1+Pk, ukupne gabaritne površine oko 573,78 m2, na katastarskoj parceli broj 3086/4, površine 738 m2, upisane u listu nepokretnosti broj 3808 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja Opštine Nikšić".
