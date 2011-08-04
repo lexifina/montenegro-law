@@ -1,0 +1,3 @@
+Na osnovu člana 34 stav 1 tačka 2 Zakona o lokalnoj samoupravi "(Sl list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10), član 67 Zakona o socijalnoj i dječjoj zaštiti ("Sl. list RCG", broj 78/05), član 2 Zakona o vaspitanju i obrazovanju djece sa posebnim potrebama ("Sl. lista RCG", br 80/04 i "Sl. lista CG, broj 45/10), član 34 Statuta Opštine Plav ("Sl. list RCG - Opštinski propisi", broj 17/07, "Sl. list CG - Opštinski propisi", br. 25/09 i 38/10), Skupštine Opštine Plav, na sjednici održanoj 15.07.2011. godine, donijela je
+O D L U K U
+o osnivanju Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama u razvoju - "Lipa"- Plav
