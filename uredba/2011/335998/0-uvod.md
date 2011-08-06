@@ -1,0 +1,2 @@
+Na osnovu člana 76 stav 3 Zakona o energetici ("Službeni list CG", broj 28/10), Vlada Crne Gore na sjednici od 23. juna 2011. godine donijela je
+U R E D B U O NAČINU IZDAVANJA, PRENOŠENJA I POVLAČENJA GARANCIJA PORIJEKLA ENERGIJE PROIZVEDENE IZ OBNOVLJIVIH IZVORA ENERGIJE I VISOKOEFIKASNE KOGENERACIJE
