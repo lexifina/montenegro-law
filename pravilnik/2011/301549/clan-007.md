@@ -1,0 +1,9 @@
+# Član 7
+## Značaj dobra
+Istorijski značaj dobra izražava se kroz mogućnost dokumentovanja razvoja ljudskog društva u cjelini, pojedinih kultura i civilizacija, pojedinih epoha, događaja i ličnosti iz bliže i dalje prošlosti, humanizacije ljudskih odnosa i čovjekove radne i životne sredine, skladnog razvitka nacionalnih kultura, njihove ravnopravnosti i međusobnog poštovanja kroz jačanje zajedništva i određivanje kulturnog i nacionalnog identiteta, veza građevine, cjeline ili područja sa istorijskom ličnošću ili značajnim događajem u istoriji.
+Umjetnički značaj dobra izražava se kroz prisustvo izuzetne umjetničke ili estetske vrijednosti ili predstavlja vrhunska opšteprihvaćena dostignuća stvaralaštva svog vremena, što se odražava kroz, kvalitet obrade, kvalitet materijala, proporcije, kompoziciju, vrijednost detalja, vrijednost konstrukcije.
+Naučni značaj dobra izražava se kroz mogućnost primjene fundamentalnih naučnih disciplina, kao i stepenom uloge i značaja određenog dobra u tumačenju i razvitku određene naučne discipline.
+Arheološki značaj dobra izražava se vrijednošću i starošću dobra sa stanovišta arheologije i njenih kriterijuma.
+Arhitektonski značaj dobra izražava se kroz vrijednost objekta, kroz pripadnost određenom arhitektonskom stilu, odnosno njegovom originalnom varijetetu i izvornom arhitektonskom izrazu iz određenog perioda i načina gradnje.
+Antropološki značaj dobra je vrijednost izražena kroz fizičke osobine čovjeka, porijeklo čovjeka i njegov položaj među ostalim fizičkim bićima.
+Tehnički značaj dobra je vrijednost izražena kroz umjetnost vještine, značaj oruđa i znanja proizvodnje koja se istorijski razvijala i koja čovječanstvu omogućava djelovanje na okolinu u svrhu sticanja materijalnih dobara kao i posebnost i osobenost metoda koje su se primjenjivale u nekom radu, zanatu, umjetnosti.
