@@ -1,0 +1,2 @@
+Na osnovu člana 56. stav 2. a u vezi sa članom 151 b. Tačka 3. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG" 88/09) i člana 41. Statuta Opštine Šavnik ("Sl. list CG -Opštinski propisi", br. 24/08), i Odluke o izmjena ma i dopunama Statuta Opštine Šavnik ("Sl. list CG -Opštinski propisi", br. 36/010), Skupština opštine Šavnik na sjednici održanoj dana 19.08.2011. godine, donijela je
+O D L U K U
