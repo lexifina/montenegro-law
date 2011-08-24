@@ -1,0 +1,3 @@
+# Član 2
+Opština Bijelo Polje i Čopić Stefan, Miloš i Petar zamjenjuju zemljište navedeno u članu 1. ove Odluke na način što će Opština Bijelo Polje postati nosilac prava korišćenja nepokretnosti označenih kao dio kat. parcele br. 1488/1 u površini od 81 m2; dio kat. parcele br. 1488/2 u površini od 721 m2 i dijela kat. parcele br. 1487 u površini od 1031 m2, što ukupno čini površinu od 1913 m2, a Čopić Stefan, Miloš i Petar nosioci prava korišćenja na dijelu kat. parcele br. 1490 u površini od 1913 m2.
+Svrha zamjene nepokretnosti iz prethodnog stava ovog člana je za potrebe završetka radova na zaobilaznici oko Bijelog Polja.
