@@ -1,0 +1,2 @@
+Na osnovu člana 45. stav 1. tačka 4. Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i 88/09 i 3/10), člana 47. Zakona o uređenju prostora i izgradnji objekata ("Sl.list CG", br. 51/08, 40/10 i 34/11) i člana 40. stav 1. tačka 4. Statuta opštine Budva (Službeni list Crne Gore-opštinski propisi", br. 19/10), Skupština opštine Budva na sjednici održanoj dana 09. avgusta 2011. godine, donijela je
+O D L U K U
