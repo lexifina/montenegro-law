@@ -1,0 +1,3 @@
+# Član 1
+Organizuje se Javno preduzeće "Vodovod i kanalizacija" Danilovgrad (u daljem tekstu: Preduzeće), koje je nastalo podjelom postojećeg Javnog komunalno-zanatskog preduzeća Danilovgrad osnovanog Odlukom o organizovanju Javnog komunalno-zanatskog preduzeća Danilovgrad ("Sl.list RCG-opštinski propisi", br.18/99), a u skladu sa Odlukom o davanju saglasnosti na Odluku Upravnog odbora Javnog komunalno- znatskog preduzeća Danilovgrad o statusnoj promjeni Preduzeća ("Sl.list CG-opštinski propisi", br. 12/11) na dva javna preduzeća i to: Javno preduzeće "Vodovod i kanalizacija" Danilovgrad i Javno preduzeće "Komunalno" Danilovgrad.
+Skupština opštine Danilovgrad ima pravo i dužnosti osnivača Preduzeća (u daljem tekstu: Osnivač ).
