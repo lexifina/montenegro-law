@@ -1,0 +1,2 @@
+# Član 14
+Sredstva Preduzeća čine sredstva po osnovu diobnog bilansa Javnog komunalno- zanatskog preduzeća Danilovgrad sa stanjem na dan statusne promjene kao i sredstva potrebna za rad Preduzeća i obavljanje komunalnih djelatnosti koje obezbijedi Osnivač. Međusobni odnosi u skladu sa diobnim bilansom urediće se ugovorom o razgraničavanju sredstava, pravima, obavezama i rasporedu zaposlenih, zaključenim izmedju JP "Komunalno" i JP "Vodovod i kanalizacija "Danilovgrad.

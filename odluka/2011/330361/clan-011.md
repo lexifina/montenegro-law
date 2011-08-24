@@ -1,0 +1,4 @@
+# Član 11
+Javni interes u Preduzeću obezbedjuje se:
+- davanjem saglasnosti na statut Preduzeća, - davanjem saglasnosti na statusne promjene, - imenovanjem i razrješenjem upravnog odbora, - davanjem saglasnosti na cjenovnik za pružanje komunalnih usluga, odnosno isporuku komunalnog proizvoda, - davanjem saglasnosti na smanjenje odnosno uvećanje osnovnog kapitala, - ugovorom o povjerovanju poslova koji se odnose na odredjenu komunalnu djelatnost, - davanjem saglasnosti na godišnji program održavanja komunalne infrastrukture, - usvajanjem izvještaja o sprovodjenju godišnjeg programa poslovanja komunalne djelatnosti, - usvajanjem izvještaja o tekućem održavanju komunalne infrastrukture,
+Skupština opštine vrši imenovanje organa upravanja i odlučuje o davanju saglasnosti iz stava jedan ovog člana na predlog predjsednika opštine.
