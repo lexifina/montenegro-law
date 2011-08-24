@@ -1,0 +1,4 @@
+# Član 4
+Plan se sastoji od tekstualnog i grafičkog dijela.
+Grafički dio sadrži sledeće priloge:
+- Topografsko - katastarska podloga 1 : 2000 - Topografsko - katastarska podloga sa granicom zahvata plana 1 : 2000 - Izvod iz GUP-a Bara 2020 - Namjena površina 1 : 5000 - Namjena površina - Postojeći način korišćenja 1 : 2000 - Analiza postojećeg stanja - Fizičke strukture 1 : 2000 - Analiza postojećeg stanja - Vlasništvo 1 : 2000 - Elektroenergetika - Postojeće stanje 1 : 2000 - Analiza postojećeg stanja - Valorizacija 1 : 2000 - Telekomunikaciona infrastruktura - Postojeće stanje 1 : 2000 - Namjena površina - Plan 1 : 2000 - Parcelacija, regulacija i nivelacija - Plan 1 : 1000 - Uslovi za sprovođenje plana - Plan 1 : 1000 - Saobraćaj - Plan 1 : 1000 - Hidrotehnička infrastruktura - Plan 1 : 2000 - Elektroenergetika - Plan 1 : 2000 - Telekomunikaciona infrastruktura - Plan 1 : 2000 - Pejzažna arhitektura - Plan 1 : 2000
