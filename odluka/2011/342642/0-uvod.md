@@ -1,0 +1,2 @@
+Na osnovu člana 49. stav 3. i člana 50. Zakona o planiranju i uređanju prostora ("Službeni list RCG", broj 28/05), a u vezi člana 163. stav 1. Zakona o uređenju prostora i izgradnji objekata ("Sl.list CG", br.51/08, 40/10 i 34/11) , člana 40. stav 1. tačka 4. Statuta opštine Budva ("Sl.l.CG -opštinski propisi", br.19/10), Skupština opštine Budva, na sjednici održanoj dana 09. avgusta 2011.god. donijela je:
+O D L U K U
