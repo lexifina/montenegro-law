@@ -1,0 +1,5 @@
+# Član 18
+Ukoliko ovlašćeni predlagači iz člana 13. ove Odluke u okviru jedne grupe predlagača, predlože više kandidata, u Prijedlog liste uvrstiće se kandidat koji ima podršku najvećeg broja ovlašćenih predlagača i ima duže radno iskustvo iz oblasti koje su relevantne za obavljanje djelatnosti RTV Cetinje.
+Predlog liste za imenovanje Savjeta, sa obrazloženjem i izvještajem o sprovedenom postupku za imenovanje Savjeta dostavlja se Skupštini Prijestonice na razmatranje i odlučivanje.
+Ukoliko Prijedlog liste nije potpun ili ukoliko nijedan predloženi kandidat za člana Savjeta u okviru jedne grupe ovlašćenih predlagača ne može biti uvršten na listu, saglasno kriterijumima iz stava 1 ovog člana, postupak za izbor člana Savjeta će se ponoviti u okviru grupe predlagača čiji prijedlog nije utvrđen.
+U slučaju iz stava 2. ovog člana, radno tijelo Skupštine Prijestonice dužno je da u roku od 15. dana od dana utvrđivanja Prijedloga liste za imenovanje, objavi ponovni Javni poziv ovlašćenim predlagačima čiji predlozi nisu utvrđeni.
