@@ -1,0 +1,2 @@
+Na osnovu člana 7 Zakona o pozorišnoj djelatnosti ("Službeni list Republike Crne Gore", broj 60/01 i "Službeni list Crne Gore" broj 75/10), člana 42 Zakona o kulturi ("Službeni list Crne Gore", broj 49/08 i 16/11) i člana 48 Statuta Glavnog grada ("Službeni list Republike Crne Gore-Opštinski propisi", broj 28/06 i "Službeni list Crne Gore-Opštinski propisi", broj 39/10) Skupština Glavnog grada-Podgorice, na sjednici održanoj dana 8. septembra 2011. godine, donijela je
+O D L U K U
