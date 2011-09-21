@@ -1,0 +1,3 @@
+# Član 1
+## o izmjenama i dopunama Odluke o organizovanju Društvene ustanove "Budo Tomović" Podgorica u Javnu ustanovu Kulturno-informativni centar "Budo Tomović" Podgorica
+U Odluci o organizovanju Društvene ustanove "Budo Tomović" Podgorica u Javnu ustanovu Kulturno-informativni centar "Budo Tomović" Podgorica ("Službeni list RCG- Opštinski propisi", br. 14/01 i 13/04), u članu 1 stav 2, članu 6, članu 12 alineja 5 i članu 15 riječi "Skupština opštine", "Budžet Opštine" i "predsjednik Opštine ", zamjenjuju se riječima "Skupština Glavnog grada", "Budžet Glavnog grada" i "Gradonačelnik Glavnog grada".
