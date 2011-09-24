@@ -1,0 +1,3 @@
+# Član 2
+Lice u službi u Vojsci koje u miru, tokom vršenja službe ili u vezi sa službom, zadobije ranu, povredu ili ozljedu zbog koje je nastupilo oštećenje organizma od najmanje 20% ili kome je nastupilo oštećenje organizma od najmanje 60% zbog bolesti koja je nastala ili se pogoršala kao neposredna posljedica vršenja vojne službe, podnosi zahtjev za ostvarivanje prava na jednokratnu novčanu pomoć Ministarstvu odbrane (u daljem takstu: Ministarstvo), preko jedinice u kojoj je u službi.
+Ako je licu iz stava 1 ovog člana prestala služba u Vojsci, zahtjev za ostvarivanje prava na jednokratnu novčanu pomoć podnosi se preko jedinice u kojoj je to lice bilo u službi, a ako je ta jedinica rasformirana, zahtjev se podnosi preko Generalštaba Vojske.

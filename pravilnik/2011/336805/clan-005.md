@@ -1,0 +1,2 @@
+# Član 5
+Ako je lice u službi u Vojsci poginulo vršeći dužnost u Vojsci ili je umrlo od posljedica zadobijene rane, povrede, odnosno bolesti kao neposredne posljedice vršenja vojne službe, postupak za ostvarivanje prava na jednokratnu novčanu pomoć, po službenoj dužnosti, pokreće starješina jedinice na položaju komandanta samostalnog bataljona njemu ravnog ili višeg položaja, o čemu obavještava članove uže porodice poginulog, odnosno umrlog lica, radi dostavljanja potrebnih dokaza i učešća u postupku.

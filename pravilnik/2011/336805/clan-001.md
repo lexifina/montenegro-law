@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se bliži uslovi za ostvarivanje prava na jednokratnu novčanu pomoć u slučaju oštećenja organizma ili smrti lica u službi u Vojsci Crne Gore (u daljem tekstu: Vojska), naknada dijela pogrebnih troškova, njihova visina, obrazovanje bračnog druga i naknada za obrazovanje djece lica u službi u Vojsci koje pogine ili umre od zadobijene rane, povrede, ozljede ili bolesti za vrijeme službe ili u vezi sa službom u Vojsci.
