@@ -1,0 +1,7 @@
+# Član 210
+## Redosljed naplate
+Nakon prijema podataka o stanju sredstava na računima izvršnog dužnika, organizacija za prinudnu naplatu nalaže svim bankama kod kojih izvršni dužnik ima sredstva na računima za obavljanje platnog prometa u zemlji da izvrše naplatu duga sa tih računa, srazmjerno stanju sredstava na tim računima, po formiranom redosljedu naplate.
+Ako na računima izvršnog dužnika za obavljanje platnog prometa u zemlji nema sredstava ili nema dovoljno sredstava, organizacija za prinudnu naplatu nalaže svim bankama kod kojih izvršni dužnik ima sredstva na računima za obavljanje platnog prometa sa inostranstvom da izvrši naplatu duga sa tih računa, srazmjerno stanju sredstava na tim računima.
+Banke iz st. 1 i 2 ovog člana dužne su da naplatu sa računa izvršnog dužnika izvrše bez odlaganja.
+Ako na računima iz st. 1 i 2 ovog člana nema sredstava ili nema dovoljno sredstava, organizacija za prinudnu naplatu zadržava blokadu tih računa do konačne naplate izvršnog povjerioca po osnovu priliva na bilo koji od ovih računa.
+Kad se izvršenje vrši sa računa izvršnog dužnika za obavljanje platnog prometa sa inostranstvom na kojem je izvršni dužnik imao sredstva u valuti koja nije euro, banka će izvršiti konverziju u eurima, po srednjem kursu sa kursne liste koju objavljuje Centralna banka Crne Gore (u daljem tekstu: Centralna banka), na dan prenosa tih sredstava u korist računa izvršnog dužnika.

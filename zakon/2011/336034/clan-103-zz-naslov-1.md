@@ -1,0 +1,1 @@
+# 2. Izvršne radnje

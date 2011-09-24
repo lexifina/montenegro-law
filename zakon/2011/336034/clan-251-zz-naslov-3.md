@@ -1,0 +1,1 @@
+# XXV. OPŠTE ODREDBE
