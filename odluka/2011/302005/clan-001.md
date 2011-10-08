@@ -1,0 +1,339 @@
+# Član 1
+Ovom odlukom se, šume u državnoj svojini daju na korišćenje prodajom drveta u dubećem stanju, u skladu sa izvođačkim projektima za Područnu jedinicu Rožaje i Područnu jedinicu Žabljak, za 2011. godinu, u gazdinskim jedinicama i po odjeljenjima, kao i po količinama i početnim cijenama, prema sljedećoj tabeli:
+PODRUČNA JEDINICA
+GAZDINSKA
+JEDINICA
+odjeljenje
+DOZNAČENA BRUTO DRVNA
+MASA
+(m3)
+POČETNA CIJENA
+EUR-a
+četinari
+lišćari
+ukupno
+četinara
+lišćara
+ROŽAJE
+‘’BALOTIĆKE ŠUME’’
+51 a
+1.039
+1.039
+15,50
+’’LOVNIČKE ŠUME’’
+7 a
+1.043
+1.043
+15,50
+29 a
+903
+903
+14,50
+31 a
+1.465
+1.465
+14,00
+32 a
+1.238
+1.238
+14,50
+47 a
+466
+466
+15,50
+50 a
+244
+244
+15,00
+UKUPNO:
+6
+5.359
+5.359
+SVE UKUPNO:
+6.398
+6.398
+PODRUČNA JEDINICA
+GAZDINSKA
+JEDINICA
+odjeljenje
+PLANIRANA BRUTO DRVNA
+MASA
+(m3)
+POČETNA CIJENA
+EUR-a
+četinari
+lišćari
+ukupno
+četinara
+lišćara
+ROŽAJE
+‘’BAĆ-BESNIK’’
+3 a
+122
+650
+772
+11,50
+5,50
+4 a
+714
+45
+759
+11,50
+5,50
+11 a
+199
+199
+13,50
+12 a
+239
+239
+13,50
+16 b
+1.061
+123
+1.184
+15,00
+5,50
+22 a
+555
+396
+951
+15,50
+5,50
+23 a
+1.438
+1.258
+2.696
+14,50
+5,50
+31 a
+195
+46
+241
+11,50
+5,50
+45 b
+699
+228
+927
+16,00
+5,50
+47 b
+483
+483
+16,00
+64 a
+1.292
+133
+1.425
+16,00
+5,50
+81 a
+427
+533
+960
+16,00
+5,50
+88 b
+509
+58
+567
+15,00
+5,50
+89 a
+543
+543
+14,50
+94 a
+792
+792
+15,00
+103 a
+1.325
+196
+1.521
+16,00
+5,50
+112 a
+192
+192
+16,00
+UKUPNO:
+17
+10.785
+3.666
+14.451
+’’GORNJI IBAR’’
+1 a
+727
+727
+16,00
+2 a
+329
+329
+16,00
+2 c
+298
+298
+16,00
+3 b
+751
+751
+16,00
+4 a
+1.046
+60
+1.106
+15,00
+5,50
+5a
+693
+21
+714
+15,00
+5,50
+18 a
+897
+21
+918
+14,00
+5,50
+18 b
+195
+97
+292
+13,00
+5,50
+19 a
+1.106
+1.106
+15,50
+19 b
+13,00
+5,50
+20 a
+969
+33
+1.002
+15,00
+5,00
+21 a
+461
+461
+15,00
+UKUPNO
+9
+7.501
+235
+7.736
+‘’PAUČINSKE ŠUME’’
+4 a
+1.084
+1.084
+16,00
+4 b
+835
+835
+14,00
+5 a
+661
+661
+13,50
+17 a
+1.482
+1.482
+14,00
+22 a
+1.176
+1.176
+15,00
+27 a
+1.038
+183
+1.221
+15,00
+5,50
+29 a
+791
+237
+1.028
+14,00
+5,50
+30 a
+783
+23
+806
+14,00
+5,50
+UKUPNO
+8
+7.850
+443
+8.293
+’’LOVNIČKE ŠUME’’
+1 a
+195
+195
+15,50
+2 a
+967
+967
+16,00
+3 a
+1.142
+1.142
+16,00
+5 a
+187
+187
+14,00
+5 b
+386
+386
+11,00
+5 c
+102
+102
+11,00
+21 a
+799
+799
+14,00
+25 a
+326
+326
+14,00
+27 a
+512
+512
+15,00
+37 a
+247
+247
+12,00
+38 a
+537
+537
+14,50
+UKUPNO
+11
+5.400
+5.400
+UKUPNO U PJ. ROŽAJE
+52
+37.934
+4.344
+42.278
+ŽABLJAK
+’’DONJI ŠARANCI’’
+55
+959
+959
+22,00
+56
+873
+873
+22,00
+UKUPNO
+2
+1.832
