@@ -1,0 +1,23 @@
+# Član 4
+U vršenju poslova iz člana 2 ove odluke, Služba Skupštine:
+- vrši poslove na pripremi i organizovanju sjednica Skupštine i njenih radnih tijela;
+- obavlja stručne i druge poslove koji se odnose na održavanje sjednica Skupštine i njenih radnih tijela;
+- obavlja stručne, administrativno-tehničke i druge poslove za Savjet za razvoj i zaštitu lokalne samouprave;
+- pruža stručnu pomoć odbornicima u vršenju odborničke funkcije;
+- priprema program rada Skupštine i prati njegovo izvršenje;
+- ostvaruje saradnju Skupštine opštine sa Skupštinom Crne Gore, skupštinama jedinica lokalne samouprave i drugim opštinama i gradovima u zemlji i inostranstvu;
+- vrši poslove u vezi sa ostvarivanjem saradnje sa Opštinskim odborima političkih partija koje participiraju u radu Skupštine opštine Herceg Novi;
+- organizuje ostvarivanje saradnje sa nevladinim organizacijama;
+- stara se o ostvarivanju saradnje sa predsjednikom Opštine i organima lokalne uprave;
+- obavlja poslove protokola za potrebe Skupštine opštine i predsjednika Skupštine;
+- obavlja poslove koji se odnose na obilježavanje praznika opštine Herceg Novi i dodjele nagrada i priznanja;
+- obavlja poslove informisanja o pitanjima o kojima odlučuje Skupština i informiše javnost o radu Skupštine, njenih radnih tijela, predsjednika Skupštine i sekretara Skupštine;
+- organizuje poslove koji se odnose na ostvarivanje saradnje sa predstavnicima sredstava javnog informisanja i obezbjeđuje im materijal potreban za ostvarivanje njihovih prava u pogledu izvještavanja sa sjednica Skupštine i radnih tijela;
+- vrši izradu propisa i drugih akata, kao i informativno-analitičkih materijala iz nadležnosti Skupštine, predsjednika Skupštine i sekretara Skupštine;
+- pruža stručnu pomoć i učestvuje u pripremi predloga akata i drugih materijala po zahtjevu radnih tijela, odbornika i klubova odbornika,
+- izrađuje tekstove usovjenih akata sa sjednice Skupštine (odluka, rješenja, zaključaka, preporuka, deklaracija i drugih propisa) i priprema ih za objavljivanje u "Službenom listu CG - Opštinski propisi";
+- stara se o realizaciji odluka i drugih propisa i akata koje donosi Skupština;
+- prikuplja, obrađuje, čuva i daje na korišćenje i razmjenu informativne i dokumentacione materijale potrebne za rad odbornika i radnih tijela Skupštine;
+- obavlja poslove kancelarijskog poslovanja, daktilografske i administrativno- tehničke poslove za potrebe Skupštine, radnih tijela, odbornika i klubova odbornika;
+- evidentira, klasifikuje i čuva izvorne odluke i druge akte i dokumenta koje donosi Skupština;
+- vrši stručne i druge poslove koje joj povjeri Skupština, predsjednik Skupštine i sekretar Skupštine.
