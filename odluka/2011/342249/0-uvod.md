@@ -1,0 +1,2 @@
+Na osnovu člana 25 st. 3 i 29 stav 2 Zakona o državnoj imovini ("Sl. list CG", broj 21/09), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09 i 3/10) i člana 33 stav 1 tačka 9 Statuta Opštine Pljevlja ("Sl.list RCG", br. 37/04, 30/07 i "Sl. list CG", br. 11/08, 21/09, 32/09 i 14/11), Skupština Opštine Pljevlja, na sjednici održanoj 20.10. 2011. godine, donijela je
+O D L U K U
