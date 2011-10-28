@@ -1,0 +1,6 @@
+# Član 1
+## o izmjenama i dopunama Odluke o naknadi za komunalno opremanje građevinskog zemljišta
+U Odluci o naknadi za komunalno opremanje građevinskog zemljišta ("Sl. list CG - Opštinski propisi", broj 10/11) u članu 6. stav 1. mijenja se i glasi:
+"Naknada za komunalno opremanje građevinskog zemljišta iz člana 2 ove odluke, plaća se po m2 razvijene građevinske površine objekta u osnovi, za ograde po m2 vertikalne površine, a za vodove, cjevovode, kanale, trakaste transportere i dr. poprečnog presjeka do 500 mm plaća se po metru dužnom, na osnovu revidovanog idejnog, odnosnog Glavnog projekta, izrađenog u skladu sa urbanističko-tehničkim uslovima i zakonom, ovjerenog od strane nadležnog organa".
+U stavu 2 poslije tačke 17 dodaje se nova tačka koja glasi:
+"18) za elektroenergetske objekte, objekte distributivne mreže, vodozahvate, brane i dr. naknada se plaća u iznosu 100% od naknade za izgradnju poslovnih objekata, a za vodove, cjevovode, kanale, trakaste transportere i dr. koji su u sklopu privrednih objekata plaća se na sledeći način: po dužnom metru poprečnog presjeka do 500 mm i to 50% od cijene po m2 za poslovne objekte, a poprečnog presjeka preko 500 mm plaća se po m2 u osnovi kao za poslovni objekat".
