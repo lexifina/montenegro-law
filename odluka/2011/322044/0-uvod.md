@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 1 tačka 27 i čl. 34 i 37 Statuta Opštine Berane ("Sl. list RCG - Opštinski propisi", br. 21/04 i 34/06 i "Sl. list CG - Opštinski propisi", broj 6/11), na predlog Odbora za izbor i imenovanja, Skupština opštine Berane je na sjednici održanoj 18. 07., 17. 08., 14. 09. i 03.10. 2011. godine, donijela
+O D L U K U
