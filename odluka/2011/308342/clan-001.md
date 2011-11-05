@@ -1,0 +1,10 @@
+# Član 1
+## o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za potrebe izgradnje dijela Njegoševe ulice i lokalnog puta za naselje Ravni
+Utvrđuje se javni interes za eksproprijaciju nepokretnosti za potrebe izgradnje dijela Njegoševe ulice i lokalnog puta za naselje Ravni, KO Mojkovac, i to:
+1. Dio katastarske parcele br. 1429, po kulturi pašnjak 1. klase sada katastarska parcela br. 1429/2, u površini od 04m2, upisano u list nepokretnosti br. 477 kao svojina Tomović Toma Vere.
+2. Dio katastarske parcele br. 1430 po kulturi pašnjak 1. klase, sada katastarska parcela br. 1430/2, u površini od 04a i 68m2, upisane u list nepokretnosti br. 475, kao susvojina Tomović Toška Vlada, Tomović Toška Tonka, Ristić Radisava Slavice i Tomović Radisava Sonje.
+3. Dio katastarske parcele br.1366 po kulturi šuma 3. klase, sada katastarska parcela 1366/2, u površini od 07a i 10m2, upisane u list nepokretnosti br. 660, kao svojina Palević Milorada Miloša.
+4. Dio katastarske parcele br. 758/2 po kulturi šuma 3. klase, sada katastarska parcela br. 758/5, u površini od 13a i 76m2 i 758/6 u površini od 07a i 77m2, upisane u list nepokretnosti br. 508, kao susvojina Lazarove Velimira Ružice,Vidojević Vladimira Radoša i Vidojević Vladimira Nataše.
+5. Dio katastarske parcele br. 759 po kulturi šuma 3. klase, sada katastarska parcela br. 759/2, u površini od 08a i 91m2 i 759/3 u površini od 11a i 36m2, upisane u list nepokretnosti br. 508, kao susvojina Lazarove Velimira Ružice, Vidojević Vladimira Radoša i Vidojević Vladimira Nataše.
+6. Dio katastarske parcele br. 761 po kulturi šuma 3. klase, sada katastarska parcela br. 761/2, u površini od 06a i 73m2, upisane u list nepokretnosti br. 508, kao susvojina Lazarove Velimira Ružice, Vidojević Vladimira Radoša i Vidojevic Vladimira Nataše.
+7. Dio katastarske parcele br. 762 po kulturi šuma 3. klase, sada katastarska parcela br. 762/2, u površini od 01a i 03m2, upisane u list nepokretnosti br. 508, kao svojina Lazarove Velimira Ružice, Vidojević Vladimira Radoša i Vidojević Vladimira Nataše.
