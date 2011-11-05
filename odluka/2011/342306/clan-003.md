@@ -1,0 +1,2 @@
+# Član 3
+Obavezuje se Opština Tivat da, po dostavljanju kompletne dokumentacije o vlasništvu u korist Mitropolije, i po rješavanju imovinsko pravnih odnosa na kat.parceli 1973/1 k.o.Đuraševići (brisanje tereta na dijelu koji nesporno pripada opštini shodno zemljišnoknjižnom upisu), izvrši procjenu vrijednosti zemljišta koje je predmet razmjene i pribavi saglasnost Vlade Crne Gore za otuđenje dijela iste.

@@ -1,0 +1,2 @@
+# Član 1
+Daje se saglasnost Opštini Tivat da pristupi realizaciji razmjene zemljišta sa Pravoslavnom Mitropolijom Crnogorsko-primorskom na način što će Opština ustupiti Mitropoliji dio kat.parcele 1973/1 k.o.Đuraševići u površini od cca 5000 m2 (oko crkve Sv.Arhangela Mihaila) a Mitropolija će ustupiti Opštini čestice zemlje 1208/2, 1210/2, 1213, 1211/1, 1211/3, 1217, 1218 i 1220 sve k.o. Đuraševići u površini od cca 5000 m2 (koje su sve dio kat.parcele 1967 i 1973/1 k.o.Đuraševići), a sve nakon okončanja postupka upisa prava na svoje ime i korist bez tereta i ograničenja.
