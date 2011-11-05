@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09) i člana 35 Statuta Opštine Plužine ("Sl.list CG-Opštinski propisi", br. 23/04, 7/07, 1/11 i 22/11), a u vezi sa članom 8 Zakona o zaradama državnih službenika i namještenika ("Sl.list CG", br. 86/09), Skupština Opštine Plužine, na sjednici održanoj dana 20.10.2011.godine, donosi
+O D L U K U
