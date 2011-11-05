@@ -1,0 +1,2 @@
+Na osnovu čl. 31 i 54 Zakona o planiranju i uređenju prostora ("Službeni list RCG", br. 28/05) u vezi člana 163 Zakona o uređenju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 51/08 , 40/10 i 34/11) i člana 60 Statuta Opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06,"Službeni list Crne Gore -Opštinski propisi", br. 24/10 i 26/10), predsjednik Opštine Nikšić donosi
+O D L U K U
