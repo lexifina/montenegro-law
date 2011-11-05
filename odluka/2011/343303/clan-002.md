@@ -1,0 +1,3 @@
+# Član 2
+U slučaju da CFSSI prenese prava na izgrađenom objektu ili dijelu objekta (stambenu jedinicu) licu koje ne ispunjava uslove za umanjenje naknade shodno člana 19 Odluke o naknadi za komunalno opremanje građeviskog zemljišta Fond je dužan platiti naknadu za uređenje građevinskog zemljišta u preostalom dijelu od 50% po tada važećim cijenama.
+Kao sredstvo obezbjeđenja plaćanja preostalih 50% iznosa komunalija Fond je dužan Opštini Tivat, Sekretarijatu za uređenje prostora i zaštitu životne sredine, u momentu izdavanja građevinske dozvole dostaviti blanko mjenice sa ovjerenim mjeničnim ovlašćenjima za sve pojedinačne posebne djelove objekta, naplative na prvi poziv.
