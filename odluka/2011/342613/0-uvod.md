@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 15 Zakona o lokalnoj samoupravi ( "Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list CG", broj 88/09), člana 60 stav 1, člana 62 st. 1 i 2, člana 64 stav 2 Zakona o finansiranju lokalne samouprave ("Sl. list RCG, br. 42/03, 44/03, "Sl. list CG", br. 05/08, 51/08, 74/10) člana 34 stav 1 tačka 16 Statuta Opštine Plav ("Sl. list RCG - Opštinski propisi", broj 17/07, "Sl. list CG", broj 25/09 i 38/10), Skupština opštine Plav, na sjednici održanoj dana 31.10.2011. godine, donijela je
+O D L U K U
