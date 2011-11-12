@@ -1,0 +1,4 @@
+# Član 3
+## Primjena Pravilnika
+Ukoliko Agencija u postupku analize određenog relevantnog maloprodajnog tržišta utvrdi da na tom tržištu nema efikasne konkurencije i da obaveze nametnute na odgovarajućem veleprodajnom tržištu ne bi dale očekivane rezultate Agencija rješenjem može operatoru narediti preduzimanje mjera koje mogu uključivati zabranu: obračunavanja prekomjernih cijena, ometanja ulaska na tržište ili ograničavanja konkurencije postavljanjem previsokih ili preniskih cijena, davanja neopravdanih prednosti određenom korisniku ili neosnovanog vezivanja određenih usluga.
+Agencija određivanjem odgovarajućih mjera može propisati jednu od sledećih metoda određivanja cijena usluga (kontrolu maloprodajnih cijena) i to: metodu ograničavanja maloprodajnih cijena i metodu troškovne orijentacije cijena.
