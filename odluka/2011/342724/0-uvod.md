@@ -1,0 +1,2 @@
+Na osnovu člana 117 stav 2 Zakona o uređenju prostora i izgradnji objekata ("Sl.list CG", broj 51/08, 34/11), člana 63 stav 1 tačka 30 Statuta Prijestonice ("Službeni list CG- Opštinski propisi", broj 19/09, 37/10) i člana 13 stav 1 Odluke o privremenim objektima ("Službeni list CG- Opštinski propisi", broj 21/11), Skupština Prijestonice Cetinje, na sjednici održanoj dana 03.11.2011. godine, donijela je
+O D L U K U
