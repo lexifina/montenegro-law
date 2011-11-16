@@ -1,0 +1,2 @@
+# Član 3
+Djelatnost Dnevnog centra predstavlja sveobuhvatan servis zaštite djece i omladine sa smetnjama i teškoćama u razvoju, utemeljen na holističkom pristupu, u kome se pruža kompleksan servis (socijalizacija, obrazovanje, njega, rehabilitacija, slobodne aktivnosti, podrška/savjetovanje roditelja, itd.) i njeguje socijalni model nasuprot medicinskom modelu rehabilitacije i osposobljavanja djece i omladine sa smetnjama i teškoćama u razvoju.
