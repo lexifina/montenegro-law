@@ -1,0 +1,2 @@
+# Član 12
+Izvršni direktor je dužan da izvršava naloge odbora direktora i sprovodi njegove odluke u vezi sa poslovanjem Akcionarskog društva, zastupanjem interesa Akcionarskog društva, upravljanjem imovinom Akcionarskog društva, zaključivanjem ugovora, otvaranjem računa u bankama, zapošljavanjem lica u Akcionarskom društvu, i izdavanjem naloga i uputstava koji su obavezni za sve zaposlene u Akcionarskom društvu i izvršavanjem drugih obaveza koje su neophodne za dobrobit Akcionarskog društva u okviru ograničenja ovlašćenja utvrđenih ugovorom i ovim statutom.
