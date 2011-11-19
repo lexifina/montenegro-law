@@ -1,0 +1,1 @@
+* Članom 3 st. 2 i 3 ovog pravilnika prenešena je Odluka Komisije od 2. februara 2005. godine o određivanju perioda nakon kojeg se vakcinacija protiv bjesnila smatra validnom (2005/91/EC: Commission Decision of 2 February 2005 establishing the period after which the anti-rabies vaccination is considered as valid)
