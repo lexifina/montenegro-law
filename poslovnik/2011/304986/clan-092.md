@@ -1,0 +1,4 @@
+# Član 92
+Mjera upozorenja izriče se odborniku odnosno drugom učesniku na sjednici koji svojim ponašanjem, uzimanjem riječi bez odobrenja, prekidanjem odbornika odnosno drugog učesnika dok govori ili drugim sličnim postupcima narušava red na sjednici ili povređuje odredbe ovog poslovnika.
+Mjera oduzimanja riječi izriče se odborniku odnosno drugom učesniku koji govorom narušava red na sjednici ili povređuje odredbe ovog poslovnika, a već je na toj sjednici dva puta upozoren na poštovanje reda i odredaba poslovnika.
+Mjera oduzimanja riječi izriče se odmah, bez prethodnog upozorenja odbornika odnosno drugog učesnika na sjednici koji upotrebljava riječi kojima vrijeđa dostojanstvo odbornika, drugih učesnika na sjednici i Skupštine ili iznosi podatke i ocjene uvredljive za institucije kao i iz privatnog života odbornika, javnih ličnosti i drugih lica.
