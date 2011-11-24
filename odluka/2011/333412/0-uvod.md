@@ -1,0 +1,2 @@
+Na osnovu člana 49 stav 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06), člana 33 tačka 18, Statuta Opštine Pljevlja ("Sl. list RCG - Opštinski propisi", br. 37/04, 30/07 i "Sl. list CG - Opštinski propisi", br. 32/09 i 14/11) i člana 11 Odluke o obrazovanju radnih tijela Skupštine ("Sl. list RCG-Opštinski propisi", broj 43/06), Skupština Opštine Pljevlja, na sjednici održanoj dana 14.11.2011. godine, donijela je
+O D L U K U
