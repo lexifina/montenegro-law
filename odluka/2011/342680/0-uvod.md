@@ -1,0 +1,3 @@
+Na osnovu člana 48 stav 1 alineja 9 Statuta Glavnog grada ("Sl.list RCG-Оpštinski propisi", br. 28/06 i "Sl. list CG-Оpštinski propisi", broj 39/10), u vezi sa članom 14 Statuta Agencije za izgradnju i razvoj Podgorice doo i u vezi sa članom 59 Zakona o privrednim društvima ("Sl.list RCG", br. 6/02, 17/07, 80/08, 40/10, 73/10, 36/11 i 40/11), na predlog Odbora direktora Agencije za izgradnju i razvoj Podgorice doo, Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 01. decembra 2011 godine, donijela je
+O D L U K U
+o umanjenju osnovnog kapitala Agencije za izgradnju i razvoj Podgorice d.o.o.
