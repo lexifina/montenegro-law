@@ -1,0 +1,1 @@
+* U ovaj pravilnik prenešena je Odluka Komisije 2007/410/EC od 12. juna 2007. o mjerama za sprječavanje unošenja i širenja štetnog organizma Potato spindle tuber viroid-a i njegovog širenja u Zajednicu (2007/410/EC: Commission Decision of 12 June 2007 on measures to prevent the introduction into and the spread within the Community of Potato spindle tuber viroid).
