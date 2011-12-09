@@ -1,0 +1,4 @@
+# Član 1
+## "Bjelojevići"
+Ovlašćuje se nadležni organ lokalne uprave Opštine Mojkovac - Agencija za investicije, građevinsko zemljište i razvoj da zaključi ugovor sa investitorom DOO "Haider Extrem Energy" iz Podgorice, kojim će se na ime naknade za komunalno opremanje građevinskog zemljišta za izgradnju mini hidroelektrana na Bjelojevićkoj rijeci izvršiti izvođenje radova na putnoj infrastrukturi Ambarine - Bjelojevići do mini hidroelektrane "Bjelojevići" predviđene projektom, u vrijednosti do 50% ugovorene naknade, u skladu sa članom 11. Odluke o naknadi za komunalno opremanje građevinskog zemljišta ("Sl. list CG - Opštinski propisi", br. 10/11 i 32/11).
+Radovi će se izvoditi na osnovu revidovanog projekta puta koji dostavi investitor, a vrijednost završenih radova uračunava se kao vrijednost utvrđene naknade.
