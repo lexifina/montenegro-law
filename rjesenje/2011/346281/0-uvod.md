@@ -1,0 +1,2 @@
+Na osnovu člana 51 stav 4 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06, "Sl. list CG", br. 88/09 i 3/10), člana 40 stav 1 tačka 41 Statuta Opštine Budva ("Sl. list Crne Gore - Opštinski propisi", broj 19/10) i člana 15a Odluke o osnivanju JP "Vodovod i kanalizacija" Budva, ("Sl. list Opštine Budva", br. 2/90, 2/92 i 9/98, Skupština opštine Budva, na sjednici održanoj dana 12. decembra 2011. godine, donijela je
+R J E Š E NJ E
