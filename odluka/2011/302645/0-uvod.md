@@ -1,0 +1,2 @@
+Na osnovu čl. 3, 9, 29 i 34 Zakona o državnoj imovini ("Sl. list CG", broj 21/09), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, ) i ("Sl. list CG", br. 88/09 i 3/10), člana 18 stav 1 tačka 9 Odluke o izmjenama i dopunama Statuta Opštine Berane ("Sl. list CG - Оpštinski propisi", broj 6/11), Odluke o davanju prethodne saglasnosti Opštini Berane za prodaju nepokretnosti Vlade Crne Gore broj 03-5813 od 09.06.2011 godine, Skupština opštine Berane na sjednici održanoj dana 09. i 24. 11. 2011. donijela je
+O D L U K U
