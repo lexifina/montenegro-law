@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom uređuje se postupak davanja i sadržina saglasnosti za uzimanje organa, tkiva i ćelija (u daljem tekstu: djelovi tijela) od živog davaoca u svrhu liječenja koje se odnosi na planiranu medi- cinsku intervenciju, odnosno uzimanje određenog dijela tijela za presađivanje određenom licu (u daljem tekstu: saglasnost), izjava o opozivu i izmjeni saglasnosti i druga pitanja od značaja za ove postupke.

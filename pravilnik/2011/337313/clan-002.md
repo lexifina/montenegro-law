@@ -1,0 +1,2 @@
+# Član 2
+Punoljetno, poslovno sposobno i lice sposobno za rasuđivanje (u daljem tekstu: punoljetni davalac) saglasnost daje nakon što ga ljekar iz člana 17 stav 1 Zakona o uzimanju i presađivanju djelova ljudskog tijela u svrhu liječenja (u daljem tekstu: Zakon) upozna o činjenicama propisanim članom 17 st. 1 i 2 Zakona, mogućnosti da zatraži drugo stručno mišljenje, kao i ostalim činjenicama od značaja za davanje saglasnosti i posljedicama uzimanja djelova tijela.
