@@ -1,0 +1,2 @@
+# Član 7
+Mjere i aktivnosti profesionalne rehabilitacije sprovodi izvođač profesionalne rehabilitacije, pod uslovom da ima stalni stručni tim od najmanje pet lica sa završenim studijskim programom visokog obrazovanja medicinskog, pedagoškog, psihološkog, sociološkog, socijalnog ili drugog odgovarajućeg društvenog usmjerenja, sa jednom godinom radnog iskustva u struci, u radu sa licima sa invaliditetom.
