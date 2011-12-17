@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 a u vezi sa članom 34 Zakona o državnoj imovini (,,Sl. list CG,, broj 21/09), člana 28 Zakona o svojinsko pravnim odnosima (,,Sl. list CG,, broj 19/09 ), Odluke Vlade Crne Gore br. 03 - 5923 od 16. juna 2011. godine i člana 35 Statuta opštine Danilovgrad ( ,,Sl. list RCG-Opštinski propisi" , broj 30/04 i " Sl. list CG - Opštinski propisi", br. 19/08 i 12/11), Skupština opštine Danilovgrad, na sjednici održanoj dana 29.11. 2011. godine, donosi
+O D L U K U
