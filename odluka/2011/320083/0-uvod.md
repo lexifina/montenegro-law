@@ -1,0 +1,2 @@
+Na osnovu člana 64 stav 1 i 77 Zakona o privrednim društvima ("Sl. list RCG", broj 06/02 i "Sl. list CG", br. 17/07 , 80/08 i 40/10 ), a u vezi sa članom 32 stav 1 tačka 11 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", broj 88/09) i člana 48 stav 1 alineja 14 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", broj 28/06 i "Sl. list CG - Opštinski propisi", broj 39/10), Skupština Glavnog grada - Podgorice, na sjednici održanoj 01. decembra 2011. godine, donijela je
+O D L U K U
