@@ -1,0 +1,2 @@
+# Član 2
+Urbanističkim projektom "Hotel Metalurg" u Igalu ne mijenja se osnovna namjena prostora, već se za objekat postojećeg hotela koji se nalazi u gusto izgrađenom okruženju, daju precizni urbanistički parametri i detaljni uslovi za rekonstrukciju koja će omogućiti prekategorizaciju cjelokupnog postojećeg hotelskog objekta u hotel više kategorije sa svim neophodnim pratećim sadržajima u skladu sa savremenim zahtjevima turističke privrede, čime se ne strvaraju rizici po zdravlje ljudi i životnu sredinu, i ne utiče na druge planove i programe u okruženju.

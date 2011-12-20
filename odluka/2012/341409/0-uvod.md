@@ -1,0 +1,2 @@
+Na osnovu člana 13 Zakona o strateškoj procjeni uticaja na životnu sredinu ("Službeni list RCG" , br. 80/05) i člana 12 Odluke o organizaciji i načinu rada lokalne uprave ("Sl. list CG op.propisi" , br. 28/11,), Sekretarijat za prostorno planiranje i izgradnju Opštine Herceg Novi, po prethodno pribavljenom Mišljenju Sekretarijata za stambeno - komunalne poslove i zaštitu životne sredine br. 02- 4- 353- 37/2011 od 16.12.2011.godine, donosi
+O D L U K U
