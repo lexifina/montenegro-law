@@ -1,0 +1,5 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/02, 28/04, 75/05, 13/06, "Sl. list CG", br. 88/09, 3/10), člana 34 Zakona o državnoj imovini ("Sl. list CG", br. 21/09, 40/11), člana 36 stav 1 tačka 10 Statuta Opštine Herceg Novi ("Sl. list RCG-Opštinski propisi", br. 15/04, 31/06, 14/07, "Sl. list CG-Opštinski propisi", br. 16/09, 16/11), i Odluke o davanju ovlašćenja predsjedniku Opštine Herceg Novi da zaključi ugovor o izmirenju međusobnih obaveza za transport vode i održavanje cjevovoda na dionici "Plat- Debeli brijeg" ("Sl. list CG-Opštinski propisi broj 22/08), Skupština opštine Herceg Novi, na sjednici održanoj dana 16.12.2011. godine, donosi
+O D L U K U
+o davanju saglasnosti na Ugovor između Općine Konavle i Opštine Herceg Novi o
+visini naknade za umanjenu upotrebnu vrijednost zemljišta u vlasništvu Općine Konavle kojim prolazi međunarodni infrastrukturni objekat za transport vode
+cjevovod Plat-Herceg Novi broj: 01-1-937/11 od 14.12.2011.godine i na Aneks ovog
