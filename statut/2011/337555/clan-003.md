@@ -1,0 +1,2 @@
+# Član 3
+U skladu sa zakonom, Akcionarsko društvo preduzima sve poslove, aktivnosti i radnje kojima se ostvaruje i unapređuje djelatnost Akcionarskog društva, uključujući i osnivanje drugih društava, sticanja sredstava u drugim društvima i ulaganja sopstvenih sredstava u druga društva, kao i osnivanje poslovnih jedinica, koje nemaju svojstvo pravnog lica i koje posluju u sjedištu i izvan sjedišta Akcionarskog društva.
