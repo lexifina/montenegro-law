@@ -1,0 +1,3 @@
+Na osnovu člana 147 Zakona o elektronskim medijima ("Sl. list CG", broj 46/10), člana 64 Zakona o privrednim društvima ("Sl. list RCG", broj 6/02), člana 32 stav 1 tačka 18 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09 i 3/10) i člana 42 stav 1 tačka 2 Statuta Opštine Ulcinj ("Sl. list RCG - Opštinski propisi", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG - Opštinski propisi", br. 5/07 i 16/11), Skupština opštine Ulcinj, na sjednici održanoj 05.12. 2011. godine, donijela je
+O D L U K U
+o osnivanju društva sa ograničenom odgovornošću Lokalni javni emiter "Radio televizija Ulcinj"
