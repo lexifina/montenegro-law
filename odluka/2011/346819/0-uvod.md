@@ -1,0 +1,2 @@
+Na osnovu člana 6 a uvezi sa članom 34 Zakona o državnoj imovini ("Sl. list CG", broj 21/09), člana 28 Zakona o svojinsko-pravnim odnosima ("Službeni list CG", broj 19/09), čl. 576 i 581 stav 1 Zakona o obligacionim odnosima ("Sl. list CG", broj 47/08) i člana 16 stav 2 i člana 30 Statuta Opštine Kotor ("Sl. list Opštine Kotor", broj 3/04, "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 04/11), Saglasnosti Vlade Crne Gore br: 03-11355/3 od 25. 11. 2011. godine, Skupština Opštine Kotor, na sjednici održanoj 29. 11. 2011. Godine, donjela je
+O D L U K U

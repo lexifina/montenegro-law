@@ -1,0 +1,3 @@
+# Član 3
+Ovlašćuje se predsjednik opštine Kotor da u ime Opštine Kotor sa Ministarstvom unutrašnjih poslova CG- Uprave policije zaključi Ugovor o ustupanju nekretnine bez naknade iz člana 1. ove odluke, a nakon sprovedene parcelacije kod Uprave za nekretnine, PJ Kotor po osnovu čega će se izvršiti promjena upisa prava vlasnosti i prava korišćenja na nepokretnosti iz člana 1 ove odluke kod Uprave za nekretnine CG, PJ Kotor.
+Ovlašćuje se Sekretarijat za urbanizam, građevinarstvo i prostorno planiranje Opštine Kotor da da saglasnost na parcelaciju dijela kat. parc. 121 KO Škaljari I u površinu od 145 m2, prema elaboratu ovlašćene geodetske firme.
