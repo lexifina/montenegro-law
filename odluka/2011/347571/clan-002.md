@@ -1,0 +1,2 @@
+# Član 2
+Etička komisija prati primjenu Etičkog kodeksa od strane lokalnih službenika i namještenika (u daljem tekstu: "zaposleni"), postupa po pritužbama i inicijativama, donosi odluke o povredama Etičkog kodeksa i druge akte, daje mišljenja i objašnjenja u vezi sa primjenom odredaba Etičkog kodeksa, informiše skupštinu i javnost o primjeni odredaba Etičkog kodeksa i obavlja druge zadatke utvrđene ovom odlukom.
