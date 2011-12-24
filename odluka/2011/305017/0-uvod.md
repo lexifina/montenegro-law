@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09 i 3/10), članom 86 Statuta Oštine Ulcinj ("Sl. list CG", broj 5/07 i "Sl. list CG11 - Opštinski propisi ", broj 16/) te članom 12 Odluke o naknadi za uređivanje građevinskog zemljišta ("Sl. list CG - Opštinski propisi", broj 9/09), Skupština Opštine Ulcinj je na sjednici održanoj dana 05. 12. 2011.godine, donijela
+O D L U K U
