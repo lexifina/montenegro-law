@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/4, 85/05, 13/06, "Sl. list CG", broj 88/09), člana 42 đ stav 2 Zakona o turističkim organizacijama ("Sl. list RCG", br. 11/04 i 46/07) i člana 30 Statuta Opštine Kotor ("Sl. list CG - Opštinski propisi", broj 4/11), Skupština Opština Kotor na sjednici održanoj 29. 11. 2011. godine, donijela je
+O D L U K U
