@@ -1,0 +1,8 @@
+# Član 1
+## o davanju saglasnosti na predlog sudskog poravnanja u postupku pred Osnovnim sudom u Kotoru poslovni broj P.br.448/11
+Daje se saglasnost za zaključenje sudskog poravnanja u parnici, između tužioca "Hotel Group Montenegro Stars" d.o.o. Budva i tužene Opštine Budva, koja se vodi pred Osnovnim sudom u Kotoru pod brojem P.br. 448/11.
+Sudskim poravnanjem će potraživanje Opštine Budva po osnovu neizmirenog dijela naknade za uređivanje građevinskog zemljišta za izgradnju hotela "Splendid" u Bečićima u iznosu 3.036.858,97 eura biti prebijeno sa odgovarajućim iznosom od ukupnog iznosa 4.834.224,66 eura koji je "Hotel Group Montenegro Stars" d.o.o. Budva uložio za opremanje gradskog građevinskog zemljišta, a peostalih 1.000.000,00 eura će Opština Budva izmiriti putem kompenzacije za neku drugu obavezu koju tužioc duguje tuženoj, najkasnije u roku 3 godine od zaključenja poravnanja.
+"Hotel Group Montenegro Stars" d.o.o. Budva će se odreći preostalog iznosa utuženog potraživanja 797.365,69 eura po navedenom osnovu.
+Sudskim poravnanjem će se precizirati da infrastrukturni objekti koje je izgradio "Hotel Group Montenegro Stars" d.o.o. Budva kao i određene nepokretnosti u funkciji saobraćajne infrastrkture postaju svojina Opštine Budva.
+Sudskim poravnanjem će se precizirati da se "Hotel Group Montenegro Stars" d.o.o. Budva odriče bilo kakvog daljeg potraživanja po osnovu navedenih sredstava uloženih za opremanje gradskog građevinskog zemljišta.
+Zaključenjem sudskog poravnanja smatraće se da je "Hotel Group Montenegro Stars" d.o.o. Budva u cjelosti izmirio obavezu plaćanja naknade za uređivanje građevinskog zemljišta za izgradnju hotela "Splendid" u Bečićima.
