@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 1 tačka 49 Statuta Opštine Andrijevica ("Službeni list RCG - Opštinski propisi", br. 21/04, 42/06 i "Službeni list CG - Opštinski propisi", broj 02/11), člana 29 Etičkog kodeksa izabranih predstavnika i funkcionera ("Službeni list CG - Opštinski propisi", broj 33/09), SO-e Andrijevica, na sjednici održanoj dana 30.11. 2011. godine, donijela je
+O D L U K U O ETIČKOJ KOMISIJI
