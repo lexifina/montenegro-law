@@ -1,0 +1,2 @@
+Na osnovu člana 18 i 19 Zakona o koncesijama (‘’Sl. list CG", br 8/09) i člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/02, 28/04, 75/05 i 13/05 i "Sl. list CG", br. 88/09 i 3/10) i člana 32 Statuta opštine Andrijevica, (‘’Sl. list RCG - Opštinski propisi", br. 21/04 , 43/06 i "Sl. list CG - Opštinski propisi", br. 2/11), Skupština opštine Andrijevica, na sjednici održanoj dana 22.12.2011.god. donijela je
+O D L U K U
