@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 10 i člana 96 stav 2 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09 i 03/10) i člana 82 a Statuta Opštine Kolašin ("Službeni list RCG - Opštinski propisi", br. 25/04, 31/04, 34/06 i "Sl list CG", broj 41/10), Skupština opštine Kolašin, na sjednici održanoj dana 07.12. 2011. godine donijela je
+O D L U K U
