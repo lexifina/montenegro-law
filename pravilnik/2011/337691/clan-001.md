@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o načinu određivanja elemenata elektronskih komunikacionih mreža i pripadajuće infrastrukture, širine zaštitnih zona i vrste radio koridora, u čijoj zoni nije dopuštena gradnja drugih objekata ("Službeni list CG", broj 83/09), u članu 6 stav 4 mijenja se i glasi:
+"Minimalna rastojanja drugih podzemnih ili nadzemnih objekata u slučaju paralelnog vođenja ili približavanja trasi elektronskog komunikacionog kabla definisana su u Tabeli 5. Ukoliko je rastojanje drugih podzemnih ili nadzemnih objekata manje od rastojanja definisanog u Tabeli 5, investitor će od Agencije tražiti određivanje uslova u skladu sa članom 30 stav 4 Zakona o elektronskim komunikacijama."

@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 4 Zakona o elektronskim komunikacijama ("Službeni list CG", br. 50/08, 70/09, 49/10 i 32/11), Ministarstvo za informaciono društvo i telekomunikacije donijelo je
+P R A V I L N I K O IZMJENI PRAVILNIKA O NAČINU ODREĐIVANJA ELEMENATA ELEKTRONSKIH KOMUNIKACIONIH MREŽA I PRIPADAJUĆE INFRASTRUKTURE, ŠIRINE ZAŠTITNIH ZONA I VRSTE RADIO KORIDORA, U ČIJOJ ZONI NIJE DOPUŠTENA GRADNJA DRUGIH OBJEKATA
