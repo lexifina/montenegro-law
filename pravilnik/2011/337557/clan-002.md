@@ -1,0 +1,8 @@
+# Član 2
+Izrazi upotrijebljeni u ovoj uredbi, imaju sljedeća značenja:
+1) Elektronski sistem za javne nabavke je kompjuterizovani sistem o opštoj upotrebi dostupnosti intereneta, koji se koristi sa ciljem da se obezbijedi veća efikasnost i ekonomičnost u oblasti javnih nabavki;
+2) Elektronska ponuda je svaka ponuda ili dio ponude, utvrđena u uslovima poziva na nadmetanje, koja se čuva, odnosno dostavlja naručiocu u elektronskom obliku i koja odgovara načelima bezbijednog elektronskog poslovanja po Zakonu o elektronskom potpisu i koja sa drugim dijelovima ponude istog ponuđača nedvosmisleno čini zaokruženu i logičnu cjelinu;
+3) Elektronsko sredstvo je elektronska oprema za obradu, uključujući digitalnu kompresiju, i čuvanje podataka koji se prenose, saopštavaju i primaju žicom, radiom, optičkim ili drugim elektromagnetskim sredstvima;
+4) Elektronski dokument je dokument u elektronskom obliku koji se koristi u pravnom prometu, upravnim, sudskim i drugim postupcima, u skladu sa zakonom kojim je uređen elektronski dokument;
+5) Elektronska arhiva je skup elektronskih dokumenata uređenih u dokumentacione cjeline u skladu sa zakonom kojim se uređuju postupci čuvanja i arhiviranja dokumenata; 6) Elektronski potpis je skup podataka u elektronskom obliku koji su pridruženi ili su logički povezani sa elektronskim dokumentom i koji služe za identifikaciju potpisnika, u skladu sa zakonom kojim je uređen elektronski potpis;
+7) Napredni elektronski potpis je elektronski potpis kojim se pouzdano garantuje identitet potpisnika i integritet elektronskih dokumenata, u skladu sa zakonom kojim je uređen napredni elektronski potpis.
