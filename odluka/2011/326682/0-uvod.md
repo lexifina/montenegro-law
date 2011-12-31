@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 11 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, 88/09, 3/10), člana 31 Zakona o planiranju i uređenju prostora ("Sl. list CG", broj 28/05), člana 163a Zakona o izmjenama i dopunama Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", broj 34/11) i člana 83 stav 1 tačka 14 Statuta Opštine Ulcinj ("Sl. list RCG - Opstinski propisi", br. 105/07 i 16/11), predsjednik Opštine Ulcinj donosi
+O D L U K U
