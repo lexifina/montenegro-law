@@ -1,0 +1,4 @@
+# Član 1
+U Zakonu o sjemenskom materijalu poljoprivrednog bilja ("Službeni list RCG", br. 28/06 i "Službeni list CG", br. 70/10 i 40/11) član 1 mijenja se i glasi:
+"Ovim zakonom uređuju se uslovi i način proizvodnje, dorade, stručne kontrole, kvalitet, stavljanje u promet, naknadna kontrola i uvoz sjemenskog materijala poljoprivrednog bilja: žita, industrijskog, krmnog, povrtarskog, ljekovitog, aromatičnog i začinskog bilja, cvijeća, kao i micelije jestivih i ljekovitih gljiva (u daljem tekstu: sjemenski materijal), priznavanje sorti, upis sorti u Registar sorti poljoprivrednog bilja i druga pitanja od značaja za proizvodnju i promet sjemenskog materijala.
+Na proizvodnju, stavljanje u promet, uvoz i priznavanje sorti genetički modifikovanog sjemenskog materijala primjenjuju se i odredbe zakona kojima se uređuju genetički modifikovani organizmi."
