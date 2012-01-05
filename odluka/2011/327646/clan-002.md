@@ -1,0 +1,2 @@
+# Član 2
+Iznos zakupnine poslovnog prostora u vlasništvu Glavnog grada - Podgorice, utvrđen ugovorom o zakupu poslovnog prostora, zaključenim sa Agencijom za izgradnju i razvoj Podgorice d.o.o., koji je minimum 50% veći u odnosu na cijenu zakupa utvrđenu Odlukom o cijeni zakupa poslovnog prostora u vlasništvu Glavnog grada - Podgorice ("Sl. list RCG - Opštinski propisi", broj 25/07), dodatno se umanjuje za još 12%.
