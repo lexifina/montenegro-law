@@ -1,0 +1,2 @@
+# Član 108
+Komisija za glasanje sačinjava kratak izvještaj o rezultatima tajnog glasanja koji sadrži podatke o: broju uručenih glasačkih listića; broju glasačkih listića nadjenih u glasačkoj kutiji (upotrijebljeni glasački listići); broju važećih i broj nevažećih glasačkih listića; broju glasova za i protiv, odnosno broj glasova za pojedinog kandidata; kao i konstataciju da li je predlog usvojen, odnosno koji je kandidat izabran.
