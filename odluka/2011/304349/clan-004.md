@@ -1,0 +1,2 @@
+# Član 4
+Prostorno-urbanističkim planom opštine Andrijevica u sklopu planirane mreže prostora određene specijalizacije i mreže razvojnih centara za opštinu u cjelini namjene su određene na tri nivoa: za opštinu u cjelini, po pojedinačnim reonima, te na kraju po specifičnim namjenskim cjelinama koje će se pojaviti u svim reonima ili će biti uređene na većim površinama koje se prostiru preko više reona.
