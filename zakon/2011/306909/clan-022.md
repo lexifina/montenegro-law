@@ -1,0 +1,2 @@
+# Član 22
+Ko uništi, ošteti, neovlašćeno skine ili na drugi način učini nepodobnim za upotrebu zastavu ili grb ili drugi simbol Crne Gore ili neke druge države ili oznake državnog organa ili drugog pravnog lica ili ko pocijepa ili na drugi način ošteti ili ukloni njihov jasno istaknuti oglas, dok je oglas imao javni značaj, kazniće se za prekršaj novčanom kaznom od 400 eura do 1.200 eura ili kaznom zatvora do 60 dana.

@@ -1,0 +1,3 @@
+# Član 4
+Prekršaji kojima se narušava javni red i mir su radnje kojima se na nedozvoljen način remeti mir, rad ili normalan način života građana, stvara nemir, neraspoloženje, uznemirenost ili ometa kretanje građana na ulicama i drugim javnim mjestima ili ometa ostvarivanje njihovih prava i obaveza, vrijeđa moral, ometa rad državnih organa i službenih lica u vršenju ovlašćenja, ugrožava opšta bezbjednost ljudi i imovine, kao i druge radnje utvrđene ovim zakonom.
+Prekršaji kojima se narušava javni red i mir, u smislu stava 1 ovog člana, su i radnje učinjene posredstvom elektronskih komunikacionih mreža.
