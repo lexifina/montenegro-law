@@ -1,0 +1,4 @@
+# Član 115
+## Uzdržavanje od posjećivanja određenog mjesta ili kontakta sa određenim licima
+(1) Rješenjem o primjeni vaspitnog naloga iz člana 12 stav 1 tačka 9 ovog zakona državni tužilac za maloljetnike određuje maloljetniku da se uzdrži od posjećivanja određenog mjesta ili kontakta sa određenim licima koja na njega mogu štetno uticati, vrijeme njegovog trajanja i upozorava maloljetnika da u tom vremenu vaspitni nalog može biti zamijenjen drugim vaspitnim nalogom ili ukinut.
+(2) Rješenje iz stava 1 ovog člana dostavlja se organu starateljstva koji, po pravilu, sam prati izvršenje vaspitnog naloga, a u izuzetnim slučajevima, i uz pomoć policijskog službenika i najmanje jednom mjesečno o tome izvještava stručnu službu. O tome stručna služba podnosi konačni izvještaj državnom tužiocu za maloljetnike koji je donio rješenje iz stava 1 ovog člana.

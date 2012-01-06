@@ -1,0 +1,6 @@
+# Član 109
+## Uključivanje u sportske aktivnosti
+(1) Rješenjem o primjeni vaspitnog naloga iz člana 12 stav 1 tačka 3 ovog zakona državni tužilac za maloljetnike određuje vrstu sportske aktivnosti u koju će se maloljetnik uključiti, vrijeme trajanja vaspitnog naloga i upozorava maloljetnika da u tom vremenu vaspitni nalog može biti zamijenjen drugim vaspitnim nalogom ili ukinut.
+(2) Sportske aktivnosti iz stava 1 ovog člana ne mogu biti agresivnog karaktera i podrazumijevati bliski tjelesni kontakt (npr. boks, kik boks i slične aktivnosti), osim kad se procijeni da su i takve sportske aktivnosti podobne za razvoj ličnosti maloljetnika u konkretnom slučaju.
+(3) Rješenje iz stava 1 ovog člana dostavlja se stručnoj službi i organu starateljstva koji samostalno ili preko određenog lica iz sportske organizacije prati njegovo izvršenje i najmanje jednom mjesečno o tome izvještava stručnu službu, koja podnosi periodični i konačni izvještaj o primjeni vaspitnog naloga državnom tužiocu za maloljetnike koji je donio to rješenje.
+(4) Radi stvaranja uslova za primjenu vaspitnog naloga iz člana 12 stav 1 tačka 3 ovog zakona, stručna služba vrši izbor odgovarajućih sportskih organizacija i sa njima zaključuje posebne sporazume. Stručna služba sačinjava listu odgovarajućih sportskih organizacija i dostavlja je državnim tužilaštvima.

@@ -1,0 +1,7 @@
+# Član 133
+## Obavljanje društveno korisnog ili humanitarnog rada
+(1) Rješenjem o izvršenju posebne obaveze iz člana 19 stav 1 tačka 6 ovog zakona sud određuje koji rad maloljetnik može da obavlja, i to najduže 120 časova u periodu od šest mjeseci i upozorava maloljetnika da u tom vremenu posebna obaveza može biti zamijenjena drugom posebnom obavezom, odnosno drugom vaspitnom mjerom ili njeno izvršenje obustavljeno.
+(2) Izbor vrste rada, odnosno posla i njegovo trajanje određuje sud, po pribavljenom mišljenju stručne službe, ali tako da taj rad ne ometa školovanje ili zaposlenje maloljetnika, odnosno ne šteti njegovom dostojanstvu.
+(3) Uslovi pod kojima maloljetnik obavlja društveno koristan ili humanitarni rad moraju biti u skladu sa propisima o zdravstvenoj zaštiti i zaštiti na radu.
+(4) Rješenje iz stava 1 ovog člana dostavlja se stručnoj službi i organu starateljstva koji određuje svog predstavnika, odnosno drugo lice koje ima iskustvo u radu sa maloljetnim licima, koje prati maloljetnika dok traje posebna obaveza i najmanje jednom mjesečno o tome izvještava stručnu službu. O tome stručna služba podnosi konačni izvještaj sudu koji je donio to rješenje.
+(5) Radi stvaranja uslova za primjenu posebne obaveze iz člana 19 stav 1 tačka 6 ovog zakona, stručna služba vrši izbor odgovarajućih ustanova i organizacija u kojima se može obavljati društveno koristan ili humanitarni rad i sa njima zaključuje posebne sporazume. Stručna služba sačinjava listu odgovarajućih ustanova i organizacija i dostavlja je sudovima sa područja svoje nadležnosti.

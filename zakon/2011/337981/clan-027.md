@@ -1,0 +1,7 @@
+# Član 27
+## Uslovni otpust iz vaspitne ustanove nezavodskog tipa i ustanove zavodskog tipa
+(1) Maloljetnika koji je u vaspitnoj ustanovi nezavodskog tipa i ustanovi zavodskog tipa proveo najmanje šest mjeseci sud može uslovno otpustiti iz ustanove, ako se, na osnovu uspjeha postignutog u vaspitanju, može osnovano očekivati da on ubuduće neće vršiti krivična djela i da će se u sredini u kojoj bude živio dobro vladati.
+(2) Sud može odlučiti da se prema maloljetniku dok traje uslovni otpust odredi neka od vaspitnih mjera pojačanog nadzora, kao i primjenu najviše dvije posebne obaveze iz člana 19 stav 1 ovog zakona.
+(3) Uslovni otpust traje najduže do isteka zakonom utvrđenog roka trajanja mjere upućivanja u vaspitnu ustanovu nezavodskog tipa ili ustanovu zavodskog tipa, ako prije toga sud ne obustavi izvršenje vaspitne mjere ili je zamijeni drugom mjerom.
+(4) Ako za vrijeme trajanja uslovnog otpusta maloljetnik učini krivično djelo ili se utvrdi da određena mjera pojačanog nadzora ne postiže svrhu ili maloljetnik ne ispunjava posebne obaveze koje su mu određene uz mjeru pojačanog nadzora, sud može opozvati uslovni otpust. U ovom slučaju vrijeme provedeno na uslovnom otpustu ne uračunava se u zakonom propisanom trajanju izrečene vaspitne mjere.
+(5) U slučaju iz st. 1 i 2 ovog člana, ako uslovni otpust ne bude opozvan, smatra se da je prema maloljetniku izvršena vaspitna mjera upućivanja u vaspitnu ustanovu nezavodskog tipa ili ustanovu zavodskog tipa.

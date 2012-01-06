@@ -1,0 +1,6 @@
+# Član 64
+## Izviđaj
+(1) Kad prikuplja obavještenja od maloljetnog lica policajac za maloljetnike postupa u skladu sa odredbama Zakonika o krivičnom postupku o prikupljanju obavještenja od građana i čini to, po pravilu, u prisustvu zakonskog zastupnika maloljetnog lica ili predstavnika organa nadležnog za socijalnu i dječju zaštitu (u daljem tekstu: centar za socijalni rad).
+(2) Maloljetnika u izviđaju saslušava državni tužilac za maloljetnike, u skladu sa odredbama Zakonika o krivičnom postupku o saslušanju osmunjičenog u izviđaju i čini to u prisustvu branioca i, po pravilu, u prisustvu zakonskog zastupnika maloljetnika, odnosno predstavnika centra za socijalni rad.
+(3) Izuzetno od stava 2 ovog člana, po odobrenju državnog tužioca za maloljetnike, policajac za maloljetnike može saslušati maloljetnika uz njegov pristanak i pristanak njegovog zakonskog zastupnika u prisusutvu branioca i, po pravilu, u prisustvu zakonskog zastupnika maloljetnika, odnosno predstavnika centra za socijalni rad.
+(4) Na lišenje slobode maloljetnika od strane organa uprave nadležnog za poslove policije ( u daljem tekstu: policija), zadržavanje od strane državnog tužioca za maloljetnike i određivanje pritvora u izviđaju shodno se primjenju odredbe Zakonika o krivičnom postupku.

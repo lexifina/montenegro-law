@@ -1,0 +1,8 @@
+# Član 83
+## Glavni pretres
+(1) Sudija za maloljetnike, odnosno predsjednik vijeća za maloljetnike dužan je da zakaže glavni pretres ili sjednicu u roku od osam dana od dana prijema predloga za izricanje krivične sankcije. O produženju ovog roka obavještava se predsjednik suda.
+(2) Na pripremu za glavni pretres, pripremno ročište za glavni pretres, rukovođenje glavnim pretresom, odlaganje i prekidanje glavnog pretresa, zapisnik i tok glavnog pretresa shodno se primjenjuju odredbe Zakonika o krivičnom postupku, osim ako sud smatra da njihova primjena u konkretnom slučaju ne bi bila cjelishodna.
+(3) Na glavni pretres se pozivaju maloljetnik, njegov zakonski zastupnik, branilac, državni tužilac za maloljetnike i predstavnik organa starateljstva. U slučaju da ne dođe uredno pozvani predstavnik organa starateljstva sud može odlučiti da se glavni pretres održi i bez njegovog prisustva.
+(4) Glavnom pretresu obavezno prisustvuju maloljetnik, državni tužilac za maloljetnike i branilac.
+(5) Ukoliko državni tužilac za maloljetnike ili branilac neopravdano izostanu sa glavnog pretresa, sudija za maloljetnike, odnosno predsjednik vijeća za maloljetnike obavještava o tome starješinu državnog tužilaštva, a branioca može kazniti novčanom kaznom u iznosu do 1.000 eura, o čemu obavještava Advokatsku komoru.
+(6) Odredbe Zakonika o krivičnom postupku o izmjeni i proširenju optužbe primjenjivaće se i u postupku prema maloljetniku, pri čemu je vijeće za maloljetnike ovlašćeno da, i bez predloga državnog tužioca za maloljetnike, donese odluku na osnovu činjeničnog stanja koje je utvrđeno na glavnom pretresu.

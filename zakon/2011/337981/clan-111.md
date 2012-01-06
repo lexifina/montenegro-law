@@ -1,0 +1,8 @@
+# Član 111
+## Plaćanje novčanog iznosa u korist humanitarne organizacije, fonda ili javne ustanove
+(1) Rješenjem o primjeni vaspitnog naloga iz člana 12 stav 1 tačka 5 ovog zakona državni tužilac za maloljetnike, ako maloljetnik svojim radom ostvaruje prihod ili ima sopstvenu imovinu, određuje visinu novčanog iznosa i humanitarnu organizaciju, fond ili javnu ustanovu kojoj će maloljetnik izvršiti uplatu određenog iznosa.
+(2) Stručna služba će uputiti jednom godišnje javni poziv humanitarnim organizacijama, fondovima i javnim ustanovama koje se bave zaštitom djece i maloljetnika da se prijave za dobijanje sredstava primjenom vaspitnog naloga iz člana 12 stav 1 tačka 5 ovog zakona, radi formiranja liste i ravnomjerne raspodjele sredstava.
+(3) Prilikom određivanja humanitarne organizacije, fonda ili javne ustanove kojoj će biti uplaćen određeni novčani iznos državni tužilac će pribaviti mišljenje stručne službe.
+(4) Rješenjem o primjeni vaspitnog naloga iz člana 12 stav 1 tačka 5 ovog zakona državni tužilac za maloljetnike odrediće vrijeme u kojem vaspitni nalog mora biti izvršen i upozoriti maloljetnika da u tom roku vaspitni nalog može biti zamijenjen drugim vaspitnim nalogom ili ukinut.
+(5) Rješenje iz stava 1 ovog člana dostavlja se stručnoj službi koja obavještava određenu humanitarnu organizaciju, fond ili javnu ustanovu o primjeni vaspitnog naloga iz člana 12 stav 1 tačka 5 ovog zakona i obavezuje je da joj podnese izvještaj u roku od osam dana od dana izvršene uplate ili isteka roka za uplatu.
+(6) Stručna služba, po prethodno pribavljenom obavještenju od strane humanitarne organizacije, fonda ili javne ustanove iz stava 5 ovog člana, podnosi konačni izvještaj državnom tužiocu za maloljetnike koji je donio rješenje iz stava 1 ovog člana.

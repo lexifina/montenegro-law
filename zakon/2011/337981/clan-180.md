@@ -1,0 +1,4 @@
+# Član 180
+## Uslovi za povratak maloljetnika
+(1) Organ starateljstva dužan je da tokom trajanja institucionalnih mjera i kazne maloljetničkog zatvora održava stalnu vezu sa maloljetnikom, njegovom porodicom i ustanovom ili odjeljenjem za maloljetnike u kojima je maloljetnik smješten, kako bi se maloljetnik i njegova porodica što bolje pripremili za vraćanje maloljetnika u raniju socijalnu sredinu i njegovo uključivanje u dalji drušveni život.
+(2) Ustanova ili odjeljenje za maloljetnike u kojima se izvršavaju institucionalne vaspitne mjere ili kazna maloljetničkog zatvora dužni su da najmanje tri mjeseca prije planiranog otpuštanja maloljetnika o tome obavijeste zakonskog zastupnika maloljetnika, odnosno bliske srodnike sa kojima je maloljetnik živio, kao i organ starateljstva i predlože im mjere koje bi trebalo preduzeti za prihvatanje maloljetnika.

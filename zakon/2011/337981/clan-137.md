@@ -1,0 +1,4 @@
+# Član 137
+## Zabrana napuštanja mjesta prebivališta ili boravišta
+(1) Rješenjem o izvršenju posebne obaveze iz člana 19 stav 1 tačka 10 ovog zakona sud određuje maloljetniku zabranu napuštanja mjesta njegovog prebivališta, odnosno boravišta, vrijeme trajanja i upozorava maloljetnika da u tom vremenu posebna obaveza može biti zamijenjena drugom posebnom obavezom, odnosno drugom vaspitnom mjerom ili njeno izvršenje obustavljeno.
+(2) Rješenje o izvršenju posebne obaveze iz člana 19 stav 1 tačka 10 ovog zakona dostavlja se organu starateljstva koji, po pravilu, sam prati izvršenje posebne obaveze, a u izuzetnim slučajevima, uz pomoć policijskog službenika, i najmanje jednom mjesečno o tome izvještava stručnu službu. O tome stručna služba podnosi konačni izvještaj sudu koji je donio rješenje iz stava 1 ovog člana.

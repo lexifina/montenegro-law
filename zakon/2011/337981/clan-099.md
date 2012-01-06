@@ -1,0 +1,7 @@
+# Član 99
+## Obustava izvršenja i izmjena odluke o vaspitnim mjerama
+(1) Kad su ispunjeni uslovi za izmjenu odluke o izrečenoj vaspitnoj mjeri, u skladu sa ovim zakonom, odluku o tome donosi sud koji je u prvom stepenu donio rješenje o vaspitnoj mjeri, ako sam nađe da je to potrebno ili na predlog državnog tužioca za maloljetnike, maloljetnika, njegovog zakonskog zastupnika, zavoda, odnosno ustanove ili organa starateljstva kojem je povjeren nadzor nad maloljetnikom.
+(2) Prije donošenja odluke sud će saslušati državnog tužioca za maloljetnike, maloljetnika, zakonskog zastupnika maloljetnika ili druga lica, a pribaviće i potrebne izveštaje od zavoda, odnosno ustanove u kojoj se izvršava institucionalna mjera, odnosno od organa starateljstva ili drugih organa i ustanova koje mogu dati podatke o maloljetniku.
+(3) Na sjednicu na kojoj se odlučuje o obustavi izvršenja ili izmjeni odluke o izrečenoj vaspitnoj mjeri pozivaju se i obavezno prisustvuju maloljetnik i njegov zakonski zastupnik, državni tužilac za maloljetnike i branilac, a o sjednici se obavještava predstavnik odjeljenja za maloljetnike ili ustanove u kojoj se vaspitna mjera izvršava i predstavnik organa starateljstva.
+(4) Odluku o obustavljanju, izmjeni odluke o vaspitnoj mjeri ili o uslovnom otpustu donosi sudija za maloljetnike, odnosno vijeće za maloljetnike nadležnog suda.
+(5) Na način iz st. 1 i 2 ovog člana donosi se i odluka o obustavljanju izvršenja vaspitne mjere i o uslovnom otpustu iz člana 27 ovog zakona.

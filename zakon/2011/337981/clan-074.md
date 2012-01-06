@@ -1,0 +1,8 @@
+# Član 74
+## Radnje koje se preduzimaju u pripremnom postupku
+(1) U pripremnom postupku državni tužilac za maloljetnike određuje način izvođenja pojedinih radnji u skladu sa ovim zakonom i Zakonikom o krivičnom postupku, kojim se obezbjeđuju pravo maloljetnika na odbranu, prava oštećenog i prikupljanje dokaza potrebnih za odlučivanje.
+(2) Saslušanju maloljetnika u pripremnom postupku moraju prisustvovati branilac i zakonski zastupnik maloljetnika. Ostalim radnjama u pripremnom postupku ova lica prisustvuju samo kad državni tužilac za maloljetnike ocijeni da je njihovo prisustvo neophodno. Državni tužilac za maloljetnike može, izuzetno, maloljetnika saslušati bez prisustva njegovog zakonskog zastupnika ako je to potrebno radi zaštite njegove ličnosti.
+(3) Državni tužilac za maloljetnike može narediti da se maloljetnik, kad je to potrebno radi zaštite njegove ličnosti, udalji prilikom izvođenja pojedinih radnji. Državni tužilac za maloljetnike će maloljetnika ukratko upoznati sa tokom postupka kojem nije prisustvovao, vodeći pri tome računa o zaštiti ličnosti maloljetnika.
+(4) Državni tužilac za maloljetnike može uskratiti pravo zakonskom zastupniku maloljetnika da prisustvuje određenoj radnji u pripremnom postupku, ako je takva odluka u interesu zaštite njegove ličnosti.
+(5) Saslušanje maloljetnika obaviće se kad je to potrebno uz pomoć psihologa, pedagoga ili drugog stručnog lica, pri čemu saslušanju može prisustvovati predstavnik organa starateljstva.
+(6) Kad neko od lica iz stava 5 ovog člana prisustvuje radnjama koje se vrše u pripremnom postupku, to lice može, po odobrenju državnog tužioca za maloljetnike, stavljati predloge i postavljati pitanja licu koje se saslušava.

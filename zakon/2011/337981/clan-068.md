@@ -1,0 +1,4 @@
+# Član 68
+## Poravnanje za krivična djela koja se gone po privatnoj tužbi
+(1) Kad sazna za izvršenje krivičnog djela za koje se goni po privatnoj tužbi, policajac za maloljetnike, uz saglasnost državnog tužioca za maloljetnike, upoznaje maloljetnika i oštećenog sa mogućnošću poravnanja i, uz njihovu saglasnost, postupak poravnanja povjerava posredniku, koji se vodi u skladu sa odredbama ovog zakona o primjeni vaspitnog naloga poravnanje sa oštećenim.
+(2) Ako maloljetnik i oštećeni ne prihvate postupak poravnanja ili se postupak poravnanja ne okonča u roku od 30 dana ili ne postignu sporazum ili maloljetnik ne ispuni u cjelini ili u pretežnom dijelu obaveze utvrđene sporazumom, oštećeni ima pravo da podnese predlog za pokretanje postupka nadležnom državnom tužiocu za maloljetnike, u roku za podnošenje privatne tužbe propisanom Zakonikom o krivičnom postupku.

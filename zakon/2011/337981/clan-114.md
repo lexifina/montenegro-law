@@ -1,0 +1,4 @@
+# Član 114
+## Pohađanje kurseva za stručno osposobljavanje ili priprema i polaganje ispita
+(1) Rješenjem o primjeni vaspitnog naloga iz člana 12 stav 1 tačka 8 ovog zakona državni tužilac za maloljetnike određuje maloljetniku vrstu kursa koji je obavezan da pohađa radi stručnog osposobljavanja za zanimanje koje odgovara njegovim sposobnostima i sklonostima ili određuje način pripreme i polaganja ispita kojim se provjerava znanje maloljetnika, vrijeme njegovog trajanja i upozorava maloljetnika da u tom vremenu vaspitni nalog može biti zamijenjen drugim vaspitnim nalogom ili ukinut.
+(2) Rješenje iz stava 1 ovog člana dostavlja se organu starateljstva koji samostalno ili preko određenog lica prati izvršenje vaspitnog naloga i najmanje jednom mjesečno o tome izvještava stručnu službu, koja podnosi konačni izvještaj državnom tužiocu za maloljetnike koji je donio to rješenje.

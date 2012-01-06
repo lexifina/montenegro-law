@@ -1,0 +1,6 @@
+# Član 129
+## Naknada štete radom maloljetnika
+(1) Rješenjem o izvršenju posebne obaveze iz člana 19 stav 1 tačka 2 ovog zakona sud maloljetnika obavezuje da ličnim radom naknadi štetu oštećenom i određuje mu se visina i vrijeme trajanja posebne obaveze i upozorava maloljetnika da posebna obaveza u tom vremenu može biti zamijenjena drugom posebnom obavezom, odnosno drugom vaspitnom mjerom ili njeno izvršenje obustavljeno.
+(2) Posebna obaveza naknade štete oštećenom ličnim radom maloljetnika može trajati najduže 60 časova u periodu od tri mjeseca, ali tako da taj rad ne ometa školovanje ili zaposlenje maloljetnika, odnosno ne šteti njegovom ugledu i dostojanstvu.
+(3) Uslovi pod kojim maloljetnik obavlja rad moraju biti u skladu sa propisima o radu, zdravstvenoj zaštiti i zaštiti na radu.
+(4) Rješenje suda o izvršenju posebne obaveze iz člana 19 stav 1 tačka 2 ovog zakona dostavlja se stručnoj službi i organu starateljstva koji određuje svog predstavnika, odnosno drugo lice koje ima iskustva u radu sa maloljetnim licima, koje prati maloljetnika dok traje posebna obaveza i najmanje jednom mjesečno o tome izvještava stručnu službu. O tome stručna služba podnosi konačni izvještaj sudiji za maloljetnike.

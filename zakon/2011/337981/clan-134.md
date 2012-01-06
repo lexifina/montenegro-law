@@ -1,0 +1,6 @@
+# Član 134
+## Uključivanje u sportske aktivnosti
+(1) Rješenjem o primjeni posebne obaveze iz člana 19 stav 1 tačka 7 ovog zakona sud određuje vrstu sportske aktivnosti u koju će se maloljetnik uključiti, vrijeme trajanja posebne obaveze i upozorava maloljetnika da u tom vremenu posebna obaveza može biti zamijenjena drugom posebnom obavezom, odnosno drugom vaspitnom mjerom ili njeno izvršenje obustavljeno.
+(2) Spotske aktivnosti iz stava 1 ovog člana ne mogu biti agresivnog karaktera i podrazumijevati bliski tjelesni kontakt (npr. boks, kik boks i slične aktivnosti), osim kad se procijeni da su i takve sportske aktivnosti podobne za razvoj ličnosti maloljetnika u konkretnom slučaju.
+(3) Rješenje iz stava 1 ovog člana dostavlja se stručnoj službi i organu starateljstva koji, samostalno ili preko određenog lica iz sportske organizacije, prati izvršenje posebne obaveze i najmanje jednom mjesečno o tome izvještava stručnu službu koja podnosi periodični i konačni izvještaj o primjeni posebne obaveze sudu koji je donio to rješenje.
+(4) Radi stvaranja uslova za primjenu posebne obaveze iz člana 19 stav 1 tačka 7 ovog zakona, stručna služba vrši izbor odgovarajućih sportskih organizacija i sa njima zaključuje posebne sporazume. Stručna služba sačinjava listu odgovarajućih sportskih organizacija i dostavlja je sudovima sa područja svoje nadležnosti.

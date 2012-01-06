@@ -1,0 +1,5 @@
+# Član 86
+## Odluka o troškovima postupka i o imovinskopravnom zahtjevu
+(1) Sud može maloljetnika obavezati na plaćanje troškova postupka i na ispunjenje imovinskopravnog zahtjeva samo ako je maloljetniku izrekao kaznu maloljetničkog zatvora. Ako je prema maloljetniku izrečena vaspitna mjera ili je postupak obustavljen, na troškove postupka shodno se primjenjuju odredbe Zakonika o krivičnom postupku kojima se uređuju troškovi postupka u slučaju obustave postupka, donošenja oslobađajuće ili odbijajuće presude, a oštećeni se radi ostvarivanja imovinskopravnog zahtjeva upućuje na parnični postupak.
+(2) Ako maloljetnik ima prihode ili imovinu, sud može odrediti da plati troškove postupka i prema oštećenom ispuni imovinskopravni zahtjev i kad prema njemu izrekne vaspitnu mjeru, odnosno kad sud nađe da nije cjelishodno izreći maloljetniku kaznu maloljetničkog zatvora, niti vaspitnu mjeru.
+(3) Na ostala pitanja koja se odnose na troškove postupka i ispunjenje imovinskopravnog zahtjeva shodno se primjenjuju odredbe Zakonika o krivičnom postupku.
