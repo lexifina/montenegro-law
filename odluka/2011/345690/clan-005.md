@@ -1,0 +1,2 @@
+# Član 5
+Prava i obaveze koje proističu iz ove odluke urediće se ugovorom koji će Opština Bar zaključiti sa novim korisnikom u roku od 8 dana od dana donošenja odluke. Ugovorom će se precizirati podaci o urbanističkoj parceli, namjeni i veličini objekta, načinu opremanja parcele objektima infrastrukture, uređenje zemljišta u okviru urbanističke parcele, rok privođenja namjeni zemljišta, kao i prava i obaveze ugovornih strana u slučaju neizvršenja tih obaveza.

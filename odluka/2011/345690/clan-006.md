@@ -1,0 +1,2 @@
+# Član 6
+Donošenjem ove Odluke prestaje da važi Odluka o prenosu prava na gradskom građevinskom zemljištu po DUP-u "Topolica - Bjeliši" Direkciji javnih radova Crne Gore, SO Bar, br. 030-409 od 17.12.2007. godine i Odluka o izmjenama i dopunama Odluke o prenosu prava na gradskom građevinskom zemljištu, po DUP-u "Topolica - Bjeliši" Direkciji javnih radova Crne Gore, SO Bar, br. 030-306 od 11.08.2011. godine.
