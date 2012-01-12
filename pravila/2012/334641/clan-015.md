@@ -1,0 +1,4 @@
+# Član 15
+Ako je u toku sprovođenja postupka neposredne kontrole potrebno odlučiti o pitanjima koja se tiču postupka nadzora ili je potrebno da kontrolisano lice preduzme neku radnju, kontrolor Komisije može zaključkom odlučiti o pitanjima koja se tiču postupka nadzora i naložiti kontrolisanom licu izvršenje potrebne radnje i rok u kojem se ta radnja ima izvršiti.
+Kontrolor Komisije koji vrši kontrolu kontrolisanog lica može zaključkom naložiti kontrolisanom licu da privremeno obustavi izvršenje određenih radnji do završetka nadzora.
+Kontrolori mogu, u toku nadzora, zaključkom privremeno zabraniti upotrebu poslovnih prostorija, uređaja i drugih sredstava za rad. Privremena zabrana upotrebe poslovnih prostorija može da traje onoliko koliko je neophodno da se sprovede kontrola, ali ne duže od tri dana od dana uručenja zaključka.
