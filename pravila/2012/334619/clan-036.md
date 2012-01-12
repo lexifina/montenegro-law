@@ -1,0 +1,2 @@
+# Član 36
+Imovina investicionog fonda nije vlasništvo depozitara, ovlašćene banke kod koje se vode sredstva, ni Centralne Depozitarne Agencije kod koje se vode hartije od vrijednosti i ne može biti predmet prinudne naplate, zaloge, hipoteke, ne može se uključiti u likvidacionu ili stečajnu masu društva za upravljanje, depozitara ili drugih lica, niti koristiti za izmirivanje obaveza člana investicionog fonda i drugih lica prema trećim licima.
