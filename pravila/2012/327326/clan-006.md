@@ -1,0 +1,7 @@
+# Član 6
+## Saglasnost za sticanje kvalifikovanog učešća
+Komisija donosi rješenje o davanju saglasnosti za sticanje kvalifikovanog učešća, u roku od 30 dana od dana prijema urednog zahtjeva, ukoliko se na osnovu dostavljene dokumentacije može zaključiti da su lica koja nameravaju da steknu kvalifikovano učešće podobna i pouzdana i da im je finansijski položaj takav da se može pretpostaviti da neće imati negativan uticaj na poslovanje Društva.
+Komisija donosi rješenje o odbijanju zahtjeva za davanje saglasnosti za sticanje kvalifikovanog učešća ukoliko se na osnovu dostavljene dokumentacije može zaključiti da lica koja nameravaju da steknu kvalifikovano učešće nisu podobna i pouzdana i da im je finansijski položaj takav da se može pretpostaviti da će imati negativan uticaj na poslovanje Društva.
+Odredbe stava 1 i 2 ovog člana shodno se primenjuju i kada se zahjtev za davanje saglasnosti za sticanje kvalifikovanog učešća podnosi u postupku izdavanja dozvole za rad Društva, kao i u slučaju naknadnog sticanja akcija Društva u procentu koji prelazi zakonski prag od 10%,20%,33%,50% ukupno izdatih akcija Društva.
+Društvo za upravljanje je dužno je da na sajtu Društva objavi svaku promjenu procenta kvalifikovanog učešća koja lica u društvu izvrše, i da o tome obavijeste Komisiju.
+Društvo je obavezno da, Komisiji, najmanje jednom u godišnjem kvartalu dostavi imena akcionara i članova koji posjedjuju kvalifikovano učešće, kao i podatke o visini tog učešća.
