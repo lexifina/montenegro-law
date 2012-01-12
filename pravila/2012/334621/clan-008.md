@@ -1,0 +1,6 @@
+# Član 8
+## programa transformacije
+(1) Otkup investicionih jedinica koje su upisane u registar po odluci o usvajanju programa transformacije vrši se na način da vlasnici investicionih jedinica otvorenog fonda nastalog u postupku transformacije pravo na otkup investicionih jedinica mogu ostvarivati u roku od dvije godine od dana donošenja rješenja Komisije o davanju saglasnosti na program transformacije svakih 120 dana po prosječnoj cijeni investicione jedinice u tim periodima.
+(2) Društvo je dužno da vrši isplatu investicionih jedinica, nakon isteka svakog pojedinačnog perioda od 120 dana vlasnicima investicionih jedinica koji su podnijeli zahtjev za otkup investicionih jedinica u svakom pojedinačnom periodu, u roku od 3dana.
+(3) Ukoliko sredstva za isplatu vlasnika investicionih jedinica, koji su zahtijevali ostvarivanje prava otkupa, ne mogu biti obezbijeđena prodajom imovine u roku od tri mjeseca od dana isteka svakog pojedinačnog roka za otkup od 120 dana, društvo za upravljanje je dužno da izvrši prenos dijela svake vrste imovine otvorenog fonda, koji je srazmjeran procentualnom učešću investicionih jedinica za koje je zahtijevan otkup u odnosu na ukupan broj investicionih jedinica.
+(4) Vlasnici investicionih jedinica otvorenog fonda nastalog transformacijom postojećeg fonda plaćaju proviziju za otkup investicionih jedinica shodno članu 181 Zakona.
