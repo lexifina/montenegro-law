@@ -1,0 +1,2 @@
+# Član 2
+Saradnja između Opštine Bijelo Polje i Opštine Strumica ostvarivat će se kroz razmjenu informacija i međusobnih iskustava u demokratskom i ukupnom razvoju lokalnih zajednica, realizaciji projekata kao primjera dobre prakse, uspostavljanjem neposrednih kontakata između privrednih subjekata, obrazovnih, kulturnih, društvenih i sportskih organizacija i sagledavanju konkretnih mogućnosti za uspostavljanje saradnje u interesu razvoja lokalnih zajednica.
