@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl.list CG - Opštinski propisi", br. 21/10) i Odluke o uslovima i načinu rješavanja stambenih pitanja lica koja bira ili imenuje Skupština i predsjednik Opštine ("Sl.list RCG-Opštinski propisi", br. 18/05 i "Sl. list CG - Opštinski propisi", br. 36/10), Skupština opštine na sjednici održanoj 30. 12. 2011 godine, donijela je
+O D L U K U
