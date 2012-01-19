@@ -1,0 +1,4 @@
+Na osnovu člana 38 stav 1 tačka 1 Zakona o energetici (″Službeni list CG″, broj 28/10) i člana 18 stav 1 tačka 1 Statuta Regulatorne agencije za energetiku (″Službeni list CG″, broj 7/11), Odbor Regulatorne agencije za energetiku, na sjednici od 30.12.2011. godine, utvrdio je
+M E T O D O L O G I J U
+ZA UTVRĐIVANJE REGULATORNOG PRIHODA I CIJENA
+ZA KORIŠĆENJE PRENOSNOG SISTEMA ELEKTRIČNE ENERGIJE
