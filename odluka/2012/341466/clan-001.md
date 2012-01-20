@@ -1,0 +1,3 @@
+# Član 1
+## o ustupanju bez naknade poslovnih i stambenih prostorija vlasništvo Opštine Veterinarskoj ambulanti d.o.o. ,,SINJAJEVINA" Šavnik
+Veterinarskoj ambulanti d.o.o. "SINJAJEVINA" Šavnik ustupaju se bez naknade na period od 5 godina poslovne prostorije u zgradi "Vojnog odsijeka" u Šavniku na katastarskoj parceli broj 68, upisana u listu nepokretnosti broj 18 KO Šavnik u ukupnoj površini 70 m2 radi obavljanja poslova iz redovne veterinarske djelatnosti, kao i stanbenog prostora površine 59m2 za stanovanje veterinara koji se nalazi u Šavniku posebni dio 12 evidentiran u prizemlju objekta broj 1 na katastarskoj parceli broj 92 u "V" listu lista nepokretnosti broj 8 KO Šavnik.
