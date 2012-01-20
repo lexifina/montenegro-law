@@ -1,0 +1,3 @@
+# Član 2
+Da bi se DSL privela namjeni u dijelu kat.parcele 1222/2 k.o.Mrčevac potrebno je regulisati imovinsko pravne odnose sa uknjiženim vlasnicima zemljišta pa se daje saglasnost za rješavanje istih putem zaključenja ugovora o kupoprodaji dijela predmetne parcele za kupoprodajnu cijenu od 150,oo €/m2 odnosno za ukupan iznos od 211.050,oo € (dvjestojedanaesthiljadaipedeset eura).
+Isplata navedenog iznosa izvršiće se u ratama s tim što će se 30% iznosa (70.350,oo €) avansno isplatiti na osnovu ove odluke odmah nakon njenog usvajanja na žiro račun punomoćnika vlasnika zemljišta a preostali dio po zaključenom kupoprodajnom ugovoru, a najkasnije do 31.12.2012.godine.

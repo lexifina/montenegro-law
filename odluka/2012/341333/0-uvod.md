@@ -1,0 +1,2 @@
+Na osnovu čl. 18, 51.29 st.2 i čl.54. Zakona o državnoj imovini ("Sl. list CG", br. 21/09), čl.40 st.2 i či.45 st.l tačka 9 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06, "Sl. list CG", br. 88/09 i 3/10) i čl.31 st.l tačka 9 i čl.35 Statuta Opštine Tivat ("Sl. list RCG - Opštinski propisi", br. 40/04 i 26/06 ."Sl. list CG - Opštinski propisi", br. l2/l 1 i 21/11), na sjednici Skupštine opštine Tivat održanoj dana 29.12.201 1.godine, donijeta je
+O D L U K A
