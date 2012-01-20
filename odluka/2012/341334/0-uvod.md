@@ -1,0 +1,3 @@
+Na osnovu čl.29 st.2 i čl.54. Zakona o državnoj imovini ("Sl. list CG", br. 21/09, 40/11), čl. 40 st.2 i čl.45 st.1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", br. 88/09) u vezi sa čl.7 st.2 i čl.52 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 40/10, 34/11, 40/11, 47/11) i u vezi sa čl.37. Zakona o eksproprijaciji ("Sl. list RCG", br. 55/00, 12/02,28/06 i "Sl. list CG", br. 21/08), te na osnovu čl.31 st.1 tačka 9. Statuta Opštine Tivat ("Sl. list RCG - Opštinski propisi", br. 40/04 i 26/06 i "Sl. list CG", br. 12/11 i 21/11), na sjednici Skupštine opštine Tivat održanoj dana 29.12.2011. godine, donijeta je
+O D L U K A
+o izmjeni Odluke br. 0304- 243 od 24.06.2011.god.
