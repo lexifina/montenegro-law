@@ -1,0 +1,2 @@
+Na osnovu člana 44 Zakona o finansiranju lokalne samouprave (,,S1. list RCG", br. 42/03, 44/03 i "Sl. list CG", br. 5/08 i 74/10), a u vezi sa članom 28 Zakona o budžetu (,,S1. list RCG", br. 40/01, 44/01, 71/05 i "Sl. list CG", br. 12/07, 53/09 i 49/10) i člana 38 stav 1 tačka 55 Statuta Opštine Žabljak - prečišćeni tekst (,,S1. list CG - Opštinski propisi", br. 6/11), Skupština opštine Žabljak na sjednici održanoj 27.12. 2011. godine, donijela je
+O D L U K U
