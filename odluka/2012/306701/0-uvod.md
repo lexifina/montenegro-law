@@ -1,0 +1,2 @@
+Na osnovu člana 24 a, a u skladu sa članom 79. Zakona o privrednim društvima ("Sl. list RCG", br. 6/02, "Sl. list CG", br. 17/07, 80/08 i 36/11), člana 9, alineja 8 i člana 18 stav 3 Statuta "Adriatic Holding" doo Budva, člana 10 alineja 8, člana 16 Odluke o osnivanju "Adriatic Holding" doo Budva, člana 40 Statuta Opštine Budva ("Sl. list Crne Gore - Opštinski propisi", broj 19/10), Skupština opštine Budva, na sjednici održanoj dana 29. decembra 2011. godine, donijela je
+O D L U K U
