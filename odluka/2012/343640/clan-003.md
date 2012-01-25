@@ -1,0 +1,2 @@
+# Član 3
+Razlika u površini pripadajućeg dijela nepokretnosti regulisaće se Ugovorom o fizičkoj diobi na način što će se obavezati Stefan Ide Klaus da plati Opštini Budva 194,5m² po cijeni koja je utvrđena na osnovu nalaza i mišljenja opštinske Komisije za procjenu tržišne vrijednosti 001-3521/2 od 02.11.2010. godine koja iznosi 60,00 Eura po m² u roku od 15 dana od dana zaključenja Ugovora o fizičkoj diobi.
