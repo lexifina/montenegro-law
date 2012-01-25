@@ -1,0 +1,2 @@
+Na osnovu člana 11.. stav 1 slova h) i i) Odluke o osnivanju društva sa ograničenom odgovornošću "Budva Holding" d.o.o. Budva ("Službeni list Opštine Budva", broj 1/08, 2/08, 10/08 i 2/09), člana 11. stav 1. alineja 4. i 8. Statuta društva sa ograničenom odgovornošću "Budva Holding" d.o.o. Budva ("Službeni list Opštine Budva", broj 1/08, 2/08, 10/08, 2/09 i 3/09 ) i člana 40. Statuta Opštine Budva ("Službeni list Crne Gore - Opštinski propisi", broj 19/10 ), Skupština opštine Budva na sjednici održanoj dana 29. decembra 2011. godine, donijela je
+O D L U K U
