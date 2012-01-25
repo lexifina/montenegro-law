@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", broj 88/09 i 3/10), člana 62 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03 i 5/08) i čl. 31 i 35 Statuta Opštine Kolašin ("Sl. list RCG - Opštinski propisi", br. 25/04, 31/04 i 34/06 i "Sl. list CG - Opštinski propisi", broj 41/10), Skupština opštine Kolašin, na sjednici održanoj dana 29.12.2011. godine, donijela je
+O D L U K U
