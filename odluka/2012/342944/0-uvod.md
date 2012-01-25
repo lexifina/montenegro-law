@@ -1,0 +1,2 @@
+Na osnovu čl. 45. Zakona o lokalnoj samoupravi ("Sl. list RCG", broj 42/03, 28/04, 75/05, 13/06, 88/09 i 3/10), člana 3., 9. i 31. Zakona o državnoj imovini ("Sl. list RCG", broj 21/09), čl. 55. Zakona o eksproprijaciji i člana 40. Statuta Opštine Budva (" Sl. list Crne Gore - Opštinski propisi", broj 19/10), Skupština Opštine Budva na sjednici održanoj dana 29. decembra 2011. godine, donijela je
+O D L U K U
