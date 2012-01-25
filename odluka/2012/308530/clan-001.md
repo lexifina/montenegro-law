@@ -1,0 +1,3 @@
+# Član 1
+## o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 5.16a u bloku br. 5B prema DUP-u "Budva -centar"
+Opština Budva prenosi prava na nepokretnosti označenoj kao dio katastarske parcele 2347 KO Budva uslovnom parcelacijom označena kao kat. parcela 2347/2 KO Budva površine 196 m², dio 2349 KO Budva uslovnom parcelacijom označena kao 2394/2 KO Budva površine 3 m² i dio katastarske parcele 2355 KO Budva uslovnom parcelacijom označena kao kat.parcela 2355/2 površine 32 m² neposrednom pogodbom radi formiranja urbanističke parcele broj 5.16a u bloku br. 5B prema DUP-u "Budva -centar", Ivanović Branki iz Budve.
