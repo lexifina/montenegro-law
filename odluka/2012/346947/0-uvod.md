@@ -1,0 +1,2 @@
+Na osnovu člana 62 u vezi sa članom 63 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03, 44/03 i "Sl. list CG", br. 05/08 i 51/08) i člana 32 stav 1 tačka 15 i16.Statuta Opštine Andrijevica, ("Sl. list RCG - Opštinski propisi", br. 21/04, 42/06, i "Sl. list CG - Opštinski propisi", br. 02/11), Skupština opštine Andrijevica, na sjednici održanoj dana,30.01.2012. godine, donosi
+O D L U K U o zaduženju Opštine Andrijevica
