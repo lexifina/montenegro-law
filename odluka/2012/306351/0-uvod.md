@@ -1,0 +1,2 @@
+Na osnovu člana člana 3 Zakona o rodnoj ravnopravnosti ("Sl. list RCG br. 06/07), člana 6 Memoranduma o saradnji potpisanog 10. decembra 2008. godine, između OSCE- Misija u Crnoj Gori, Vladine Kancelarije za rodnu ravnopravnost i Opštine Pljevlja, te člana 33 Statuta Opštine Pljevlja "Sl. list RCG - Opštinski propisi", br. 37/04, 30/07, "Sl. list CG - Opštinski propisi", br. 32/09, 14/11), Skupština opštine Pljevlja, na sjednici održanoj 29.12.2011. godine, donijela je
+O D L U K A

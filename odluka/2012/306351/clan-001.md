@@ -1,0 +1,5 @@
+# Član 1
+## o ravnopravnosti polova u Opštini Pljevlja
+Ovom odlukom uređuje se ostvarivanje ravnopravnosti žena i muškaraca, donošenje propisa i drugih akata, kao i preduzimanje posebnih mjera za sprječavanje neposredne i posredne diskriminacije zasnovane na polu, te stvaranje jednakih mogućnosti za ostvarivanja prava pripadnika/ca oba pola u Opštini Pljevlja ( organima lokalne samouprave, lokalne uprave, mjesnih zajednica, javnih službi).
+Puna ravnopravnost žena i muškaraca garantuje se, u skladu sa opšteprihvaćenim pravilima međunarodnog prava, potvrđenim i objavljenim međunarodnim sporazumima, Poveljom o ljudskim i manjinskim pravima i građanskim slobodama, Ustavom i zakonima Crne Gore, potpisanim Memorandumom između Opštine Pljevlja, Misije OSCE- a u Crnoj Gori, i Kancelarije za rodnu ravnopravnost Vlade Crne Gore, i propisima Skupštine opštine Pljevlja ( u daljem tekstu: Skupština).
+Organi lokalne samouprave, lokalne uprave, mjesnih zajednica i javnih službi dužni su da poštuju principe ravnopravnosti i obezbijede sve uslove za ostvarivanje jednakih mogućnosti žena i muškaraca u skladu sa prethodnim stavom ovog člana.
