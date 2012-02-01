@@ -1,0 +1,5 @@
+Na osnovu člana 45. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 3/06, "Sl. list CG", broj 88/09 i 3/10) i člana 34 Statuta Opštine Pljevlja ("Sl. list RCG - Opštinski propisi", broj 37/04, 30/07 i ("Sl. list CG - Opštinski propisi", broj 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici održanoj dana 29.12.2011. godine, donijela je
+R J E Š E Nj E o izmjenama i dopunama Rješenja o imenovanju Upravnog odbora JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Pljevlja"
+I. U Rješenju o imenovanju Upravnog odbora JU Dnevni Centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Pljevlja" ("Sl. list CG - Opštinski propisi", broj 11/11) u tački I. dodaje se podtačka 7. i glasi "Sanja Vukojičić"
+II. Mandat člana Upravnog odbora iz tačke I podtačaka 7. traje koliko i mandat članovima Upravnog odbora po rješenju br. 01- 030- 149 ("Sl. list CG - Opštinski propisi", broj 11/11)
+III. Rješenje stupa na snagu osmog dana od dana objavljivanja u ("Sl. listu CG - Opštinski propisi")
