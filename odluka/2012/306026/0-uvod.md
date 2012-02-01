@@ -1,0 +1,2 @@
+Na osnovu člana 45. stav 1. tačka 15. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06), člana 62. i 63. Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03, 44/03 i "Sl. list CG", br. 5/08, 51/08) i člana 21. i 23. stav 1. tačka 16. Statuta Opštine Pljevlja ("Sl. list RCG", br. 37/04, 30/07 i "Sl. list CG", br.32/09 i 14/11), Skupština opštine Pljevlja, na sjednici održanoj 29.12.2011. godine, donijela je
+O D L U K U
