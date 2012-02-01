@@ -1,0 +1,2 @@
+# Član 6
+Skupština opštine Kotor će nakon postignutog poravnanja u predmetu P. 360/10 pred Privrednim sudom u Podgorici u skladu sa odredbama ove odluke i postignutim poravnanjem pristupiti donošenju Odluke o izmjenama i dopunama Odluke o prenosu prava na gradskom građevinskom zemljištu u obuhvatu UP Privredna zona "Monte - Peštan" doo Tivat ("Službeni list Opštine Kotor", broj 05/07) i Odluke o izmjenama i dopunama Odluke o prenosu prava na gradskom građevinskom zemljištu u obuhvatu UP Privredna zona Petković Božidaru ("Službeni list Opštine Kotor", broj 05/07).
