@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Sl. list CG", broj 46/11) i člana 31 Statuta Opštine Tivat ("Sl. list RCG-Opštinski propisi", br. 40/04 i 26/06 i "Sl. list CG-Opštinski propisi", br. 12/11 i 21/11), Skupština opštine Tivat, na sjednici održanoj dana 07.02.2012. godine, donjela je
+O D L U K U o utvrđivanju broja odbornika u Skupštini opštine Tivat
