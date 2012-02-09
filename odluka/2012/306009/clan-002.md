@@ -1,0 +1,3 @@
+# Član 2
+Fondacija prestaje sa radom, nakon čega će se izvršiti ukidanje žiro računa i sprovesti radnje njenog brisanja iz registra.
+Prestankom rada Fondacije prestaje da važi i Ugovor o udruživanju rada i sredstava izmedju Fondacije i Purić Nade, broj ugovora 0104-1654/1 od 28. 10. 2004. godine. Početna imovina, prostorija, namještaj, oprema i osnivački ulog od 1.000,00 € kao i troškovi rada Fondacije prelaze na Opštinu Budva. Poslovi "Fondacije Budve za prevenciju narkomanije" obavljaće se u Sekretarijatu za društvene djelatnosti u skladu sa Odlukom o organizaciji i načinu rada lokalne uprave.

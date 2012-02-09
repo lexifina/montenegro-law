@@ -1,0 +1,2 @@
+Na osnovu člana 57 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list Crne Gore", br. 88/09 i 3/10) i na osnovu člana 67 Statuta Opštine Budva ("Sl. list Crne Gore - Opštinski propisi", br. 19/10), a u skladu sa članom 19 Zakona o nevladinim organizacijama ("Sl. list Crne Gore", br. 39/11), predsjednik Opštine Budva, dana 02. 02. 2012. godine donio je
+O D L U K U o stavljanju van snage Odluke o osnivanju Fondacije za prevenciju narkomanije
