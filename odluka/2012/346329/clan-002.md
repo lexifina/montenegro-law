@@ -1,0 +1,2 @@
+# Član 2
+Izmjenama i dopunama detaljnog urbanističkog plana "Topla - od Šetališta do Njegoševe" za kat. parcele br. 1243 i 1241/1 obje K.O. Topla, ne mijenja se osnovna namjena prostora - stanovanje ( preciznije stanovanje većih gustina ) , već se za predmetni prostor određuju uslovi i smjernice za izgradnju novog ili rekonstrukciju postojećeg stambenog objekta , čime se ne stvaraju rizici po zdravlje ljudi i životnu sredinu, i ne utiče na druge planove i programe iz okruženja.
