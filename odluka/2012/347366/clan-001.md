@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom daje se na upravljanje, korišćenje i održavanje komunalni objekat - parking prostor Javnom preduzeću "Autobuska stanica" Nikšić koji se nalazi ispred glavnog ulaza stanične zgrade Autobuska stanica u Nikšiću u ulici Gojka Garčevića, na dijelu katastarske parcele broj 4250/2, u ukupnoj površini od 719 m2, sa 35 parking mjesta, upisan u listu nepokretnosti broj 2952 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja Opštine Nikšić.
