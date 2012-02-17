@@ -1,0 +1,2 @@
+# Član 1
+Opština Budva prenosi - prodaje, a HG "Budvanska rivijera" a.d. Budva, prima - kupuje dio nepokretnosti označene kao: katastarska parcela 1373/1 KO Petrovac, uslovnom parcelacijom označen kao kat. parcela 1373/3 KO Petrovac, površine 54 m², i katastarska parcela 1372/2 KO Petrovac, uslovnom parcelacijom označen kao kat. parcela 1372/4 KO Petrovac, površine 47 m², neposrednom pogodbom, radi dokompletiranja urbanističke parcele broj 8 u skladu sa DUP- om "Petrovac - Centar" ("Sl. list CG - Opštinski propisi", broj 11/09).
