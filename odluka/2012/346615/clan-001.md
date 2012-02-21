@@ -1,0 +1,2 @@
+# Član 1
+Daje se saglasnost Opštini Herceg Novi da obezbjedi bankarsku garanciju i istu dostavi firmi A.D. Novi Prvoborac, Herceg Novi, a u svrhu obezbjeđenja sredstava za izmirenje konačnog iznosa za pribavljanje nepokretnosi označene kao kat.parc. 1981/5 KO Topla površine 15.961m2 i kat.parc.1981/6 KO Topla površine 29.633m2, buduće namjene za izgradnju postrojenja za prećišćavanje otpadnih voda u Opštini Herceg Novi.
