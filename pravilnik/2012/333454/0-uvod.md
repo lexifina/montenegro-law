@@ -1,0 +1,2 @@
+Na osnovu člana 20 Zakona o energetskoj efikasnosti ("Službeni list CG", broj 29/10), Ministarstvo ekonomije donijelo je
+P R A V I L N I K O GRANIČNOJ VRIJEDNOSTI POTROŠNJE ENERGIJE ZA ODREĐIVANJE VELIKOG POTROŠAČA, SADRŽAJU PLANA ZA POBOLJŠANJE ENERGETSKE EFIKASNOSTI I IZVJEŠTAJA O SPROVOĐENJU PLANA
