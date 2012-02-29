@@ -1,0 +1,2 @@
+Na osnovu člana 48 stav 1 alineja 48 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", br. 28/06 i "Sl. list CG - Opštinski propisi", br. 39/10) i člana 13 stav 2 Odluke o osnivanju Agencije za stanovanje d.o.o. Podgorica ("Sl. list RCG"- Opštinski propisi br. 26/05 i "Sl. list CG - Opštinski propisi", br. 37/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 16. februara 2012. godine, donijela je
+O D L U K U o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Agencije za stanovanje d.o.o. Podgorica
