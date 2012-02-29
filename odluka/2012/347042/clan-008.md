@@ -1,0 +1,2 @@
+# Član 8
+U članu 16 stav 1 alineja 1 poslije riječi "boravišne takse" dodaje se zarez i riječi "izletničke takse", poslije riječi:"članskog doprinosa za pravna i fizička lica u skladu sa propisima iz oblasti turizma;" dodaju se sljedeće riječi:"naknada za komunalno opremanje građevinskog zemljišta, naknada za korišćenje građevinskog zemljišta,", a riječ "republički" zamjenjuje se riječju "državni".
