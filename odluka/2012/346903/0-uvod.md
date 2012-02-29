@@ -1,0 +1,2 @@
+Na osnovu čl. 49, 50 Zakona o planiranju i uređenju prostora ("Službeni list RCG", broj 28/05) a u vezi sa članom 163. Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08 i 34/11), i člana 48.Statuta Glavnog grada ("Službeni list RCG - Opštinski propisi", broj 28/06 i "Službeni list CG - Opštinski propisi", broj 39/10), Skupština Glavnog grada- Podgorice, na sjednici održanoj dana 16. februara 2012. godine, donijela je
+O D L U K U o Urbanističkom projektu "Nova Varoš - Blok N" u Podgorici
