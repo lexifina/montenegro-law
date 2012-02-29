@@ -1,0 +1,2 @@
+Na osnovu člana 14 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Službeni list RCG", broj 12/95), člana 48 stav 1 alineja 48 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", br. 28/06 i "Sl. list CG - Opštinski propisi", br. 39/10) i člana 8 stav 2 Odluke o organizovanju Javnog preduzeća "Komunalne usluge"- Podgorica ("Sl. list RCG"- Opštinski propisi br. 33/03, 37/03, 13/04, 19/04 i 50/06), Skupština Glavnog grada - Podgorice, na sjednici održanoj 16. februara 2012. godine, donijela je
+O D L U K U
