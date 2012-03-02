@@ -1,0 +1,2 @@
+Na osnovu člana 71 Statuta Prijestonice Cetinje ("Službeni list CG - Opštinski propisi", br. 19/09 i 37/10), čl. 19 stav 2 i 41 stav 3 Odluke o osnivanju društva sa ograničenom odgovornošću Lokalni javni emiter "Radio i televizija Cetinje" ("Službeni list CG - Opštinski propisi", broj 27/11), na prijedlog Odbor za izbor i imenovanja, Skupština Prijestonice Cetinje, na sjednici održanoj dana 17.02.2012. godine, donijela je
+O D L U K U o imenovanju Savjeta Lokalnog javnog emitera "Radio i televizija Cetinje"
