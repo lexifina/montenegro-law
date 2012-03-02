@@ -1,0 +1,2 @@
+Na osnovu člana 45. stav 1. tačka 9. Zakona o lokalnoj samoupravi ("Sl. list RCG", broj 42/03, 28/04, 75/05, 13/06, 88/09 i 3/10) i člana 36.stav 1. tačka 10. Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br, 15/04, 31/06, 14/07 i 16/11), Skupština opštine Herceg Novi, na sjednici održanoj dana 21.02.2012.godine, donosi
+O D L U K U o davanju saglasnosti na Anex Generalnog ugovora o regulisanju međusobnih prava i obaveza i Ugovora o kupoprodaji između Opštine Herceg Novi i ad "Novi Prvoborac"

@@ -1,0 +1,2 @@
+# Član 1
+Skupština Opštine Herceg Novi daje saglasnost na Anex Generalnog ugovora o regulisanju međusobnih prava i obaveza (zaključenog između Opštine Herceg Novi i AD "Novog Prvoborca" Herceg Novi dana 05.03.2010.g. ovjerenog kod Osnovnog suda u Herceg Novom 08.03.2010.g. pod Posl.br. Ov- I.- 1408/2010) i Ugovora o kupoprodaji (zaključenog između Opštine Herceg Novi i AD "Novi Prvoborac" ovjerenog kod Osnovnog suda u Herceg Novom pod Posl.br. Ov.I- 1409/2010 od 08.03.2010.g.).
