@@ -1,0 +1,4 @@
+# Član 8
+U članu 18a poslije stava 2 dodaju se dva nova stava koji glase:
+"(3) Doprinosi se ne plaćaju na lična primanja ostvarena u obliku robe, poklona i kod činjenja ili pružanja pogodnosti zaposlenom, osim ako se ta lična primanja daju kao kompenzacija za neisplaćenu zaradu.
+(4) Za zaposlene u diplomatsko-konzularnim predstavništvima i misijama Crne Gore u inostranstvu ne plaćaju se doprinosi na poseban dodatak na osnovnu zaradu, posebne naknade troškova (za zdravstveno osiguranje, porodiljsko odsustvo, za stanovanje, dio za školovanje djece, za slučaj smrti u inostranstvu) i druga primanja (otpravničko, žeransko i funkcionalno primanje i primanje za izdržavanje članova porodice), u skladu sa propisima koji uredjuju prava i obaveze zaposlenih u diplomatsko-konzularnim predstavništvima i misijama Crne Gore u inostranstvu.«
