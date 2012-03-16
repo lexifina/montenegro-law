@@ -1,0 +1,2 @@
+Na osnovu čl. 45 i 57 stav 1 tačka 6 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list Crne Gore", br. 88/09, 03/10), i člana 30 stav 1 tačka 16 Statuta Opštine Kotor ("Sl. list Opštine Kotor", br. 3/04 i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 04/11), Skupština Opštine Kotor, na sjednici održanoj 02. 03. 2012. godine, donijela je
+O D L U K U o davanju saglasnosti na Rješenje predsjednika opštine o razrješenju potpredsjednika opštine
