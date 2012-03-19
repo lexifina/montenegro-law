@@ -1,0 +1,2 @@
+# Član 3
+Danom stupanja na snagu ove odluke prestaje da važi Odlukao razrešenju i imenovanju predsjednika i članova odbora za planiranje i ureĎenje prostora i komunalno stanbenu djelatnost("Službeni list CG-Opštinski propisi", br. 33/11)i Odluka o izmjenama i dopunama odluke o razrešenju i imenovanju predsjednika i članova Odbora za planiranje i ureĎenje prostora i komunalno- stanbenu djelatnost ("Službeni list CG-Opštinski propisi", br. 38/11)
