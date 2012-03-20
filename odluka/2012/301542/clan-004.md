@@ -1,0 +1,5 @@
+# Član 4
+Plan se sastoji od tekstualnog i grafičkog dijela.
+-Tekstualni dio je dat u štampanoj i elektronskoj formi.
+- Grafički dio je dat u štampanoj formi - karte i u elektronskoj formi i sadrži:
+1. Izvod iz PPO UlcinjR =1: 25 000 2. Izvod iz izmjena i dopuna GUP-a Ulcinj u zahvatu Lokaliteta: "Pinješ 1, "Pinješ 2", "Pristan", "Meterizi 1", "Meterizi 2" , "Meterizi 3", "Meraja 1" i "Meraja 2" R =1: 1 000 3. Izvod iz DUP-a "Ulcinj-gradR =1: 1 000 4. Kontaktne zone R =1: 5 000 5. Topografsko katastarska podloga R =1: 1 000 6. Topografsko katastarska podloga sa granicom zahvata R =1: 1 000 7. Analiza postojećeg stanja R =1: 1 000 8. Oblici intervencija R =1: 1 000 9. Namjena površina i distribucija sadržajaR =1: 1 000 10. Parcelacija i urbanističko tehnički uslovi R =1: 1 000 10a. Koordinate karakterističkih tačaka urbanističkih parcela R =1: 1 000 11. Saobraćaj R =1: 1 000 12. Elektroenergetika R =1: 1 000 13. Hidrotehnička infrastruktura R =1: 1 000 14. Telekomunikaciona infrastruktura, postojeće stanje i planR =1: 1 000 15. Pejzažna arhitektura R =1: 1 000.
