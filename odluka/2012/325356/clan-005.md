@@ -1,0 +1,3 @@
+# Član 5
+Za predmetni plan neophodna je strateška procjena uticaja na životnu sredinu iz razloga što se radi o neizgraĎenoj lokaciji na samoj obali mora, gde je planom višeg reda planirana izgradnja hotela, pri čemu za planske dokumente širih teritorijalnih cjelina ovog područja shodno ranijoj zakonskoj regulativi nije sproveden postupak strateške procjene.
+Kako se predmetnim planom ne predviĎaju aktivnosti koje prouzrokuju ozbiljna zagaĎenja, te kako negativni uticaji nisu prekogranične prirode, strateškom procjenom nije potrebno razmatrati uticaj plana na prekogranične standarde kvaliteta životne sredine.
