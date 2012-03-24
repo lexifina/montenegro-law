@@ -1,0 +1,2 @@
+Na osnovu člana 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor", br. 3/04 i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 4/11), Skupština Opštine Kotor, na sjednici održanoj 02. 03. 2012. godine, donijela je
+O D L U K U o izmjenama i dopunama Odluke o pristupanju zajedničkom uslužnom i koordinacionom društvu za vodosnabdijevanje i odvođenje otpadnih voda za Crnogorsko primorje i Opštinu Cetinje "Vodacom" doo.
