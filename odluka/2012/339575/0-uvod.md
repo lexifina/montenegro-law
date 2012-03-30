@@ -1,0 +1,2 @@
+Na osnovu člana 55 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03 , 28/04 , 75/05 i 13/06, "Službeni list Crne Gore", broju 88/09) člana 50 Statuta Opštine Andrijevica (" Službeni list RCG - Opštinski propisi", br. 21/04,42/06 ,,Službeni list CG-Opštinski propisi", broj 02/11 ) i člana 32 Poslovnika o radu Skupštine opštine Andrijevica ("Službeni list RCG-Opštinski propisi", br. 09/06 i 42/06), Skupština opštine Andrijevica, na Sjednici održanoj dana 30.03.2012. godine , donijela je
+O D L U K U
