@@ -1,0 +1,2 @@
+# Član 8
+Korisnik stipendije ima obavezu da po završetku studija, svoje profesionalne usluge ponudi prvenstveno Gradskoj opštini Golubovci i da u zavisnosti od procjene organa Gradske opštine za potrebom zapošljavanja tog obrazovnog profila, zasnuje radni odnos i provede na radu u Gradskoj opštini, najmanje jednu godinu, u protivnom biće dužan, da za vrijeme, koje nije proveo na radu, vrati revalorizovani iznos stipendije.
