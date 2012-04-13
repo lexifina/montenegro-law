@@ -1,0 +1,2 @@
+# Član 3
+LSL obuhvata prostor površine 10.16 ha, u KO Kruševica koji je ograničen: sa južne strane: seoskim putem koji je označen kao kat.parc. br. 893; sa zapadne strane: granicom kat. parc. 887/1, 887/2, 835, 838, 832 i 831, sa jedne i kat. parc. 887/3, 834, 833 i 839, sa druge strane, zatim nastavlja seoskim putem (kat.parc.828) i dalje kat.parc.1899/1 i 1899/2 ; sa sjeverne strane: siječe kat.parc. 699; sa istočne strane: potokom koji je označen kao kat. parc. 1898.

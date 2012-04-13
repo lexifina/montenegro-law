@@ -1,0 +1,4 @@
+# Član 2
+LSL se sastoji iz tekstualnog dijela i grafičkih priloga postojećeg i planiranog stanja, uraĎenih u vidu knjige (elaborata) u analognoj i digitalnoj formi.
+Tekstualni dio sadrži: Prateću dokumentaciju, 1. Uvod, 2. Analizu postojećeg stanja, 3. Planirano rješenje, 4. Uslove za ureĎenje prostora, 5. Saobraćaj, 6. Elektroenergetska mreža i 7. Hidrotehnička infrastrktura.
+Grafički prilozi: 1. Izvod iz Prostornog plana opštine Budva, 2. Topografsko- katastarski plan, 3. Namjena postojećih objekata i površina, 4. Spratnost postojećih objekata, 5. Plan rušenja, 6. Pokazatelji postojećeg stanja, 7. Namjena objekata i površina, 8. Spratnost objekata, 9. Nacrt urbanističke parcelacije, 10. Nivelacija objekata, 11. Saobraćaj - plan regulacije i nivelacije, 12. Saobraćaj - poprečni profili, 13. Hidrotehničke instalacije, 14. Elektroenergetska mreža, 15. Telekomunikaciona mreža i 16. Faze realizacije.
