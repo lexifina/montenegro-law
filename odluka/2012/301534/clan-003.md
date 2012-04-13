@@ -1,0 +1,2 @@
+# Član 3
+LSL obuhvata prostor površine 1.18ha, koji se nalazi u KO Reževići I, a ograničen je: sa zapadne strane: granicom kat. parc. br. 686, 687, 688, 689, 690, sa jedne i kat. parc. br. 685, 674, 684 i 683, sa druge strane; sa sjeverne strane: potokom (kat. parc. br. 2964/1) i seoskim putem (kat. parc. br. 571); sa istočne strane: seoskim putem (kat. parc. br. 604 i 665) i sa južne strane: seoskim putem (kat. parc. br. 735).
