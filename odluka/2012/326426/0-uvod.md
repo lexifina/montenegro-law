@@ -1,0 +1,2 @@
+Na osnovu člana 31 Statuta Opštine Kolašin-prečišćeni tekst ("Sl. list CG - Opštinski propisi", broj 31/11), člana 50 Poslovnika Skupštine opštine Kolašin ("Sl. list CG - Opštinski propisi", broj 13/11) i čl. 6 i 13 Odluke o obrazovanju radnih tijela Skpštine ("Sl. list RCG - Opštinski propisi", broj 31/05), Skupština opštine Kolašin, na sjednici održanoj dana 30.03.2012.godine donijela je
+O D L U K U
