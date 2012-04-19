@@ -1,0 +1,2 @@
+Na osnovu člana 31 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/04 i "Sl. list CG", br. 88/09 i 3/10), člana 8 stav 3 Zakona o regionalnom razvoju ("Sl. list Crne Gore", br. 20/11 od 15.04.2011. godine i 26/11 od 30.05.2011) i člana 35 Statuta Opštine Danilovgrad ("Sl. list RCG - Opštinski propisi", broj 30/04 i "Sl. list CG - Opštinski propisi", broj 19/08 i 12/11), Skupština opštine Danilovgrad, na sjednici održanoj 30.03. 2012. godine, donijela je
+O D L U K U
