@@ -1,0 +1,2 @@
+Na osnovu člana 18 stav 2 Zakona o kulturi ("Službeni list Crne Gore", br. 49/08 i 40/11), člana 48 stav 1 alineja 48 Statuta Glavnog grada ("Službeni list Republike Crne Gore-Opštinski propisi", broj 28/06 i "Službeni list Crne Gore-Opštinski propisi", broj 39/10) i člana 9 Odluke o osnivanju Javne ustanove Narodna biblioteka "Radosav Ljumović" Podgorica ("Službeni list Crne Gore-Opštinski propisi", broj 28/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 10. aprila 2012. godine, donijela je
+O D L U K U
