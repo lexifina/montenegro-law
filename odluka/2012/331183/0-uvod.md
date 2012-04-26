@@ -1,0 +1,2 @@
+Na osnovu člana 48 stav 1 alineja 2 i 33 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", broj 28/06 i "Sl. list CG - Opštinski propisi", broj 39/10) i člana 13 Odluke o postavljanju i izgradnji montažnih objekata privremenog karaktera na teritoriji Glavnog grada - Podgorice ("Sl. list CG - Opštinski propisi", br. 11/09, 16/10 i 37/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 10. aprila 2012. godine, donijela je
+O D L U K U
