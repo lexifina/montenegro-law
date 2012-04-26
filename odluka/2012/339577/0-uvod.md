@@ -1,0 +1,2 @@
+Na osnovu čl. 47 i 49 Zakona o ureĎenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 40/10, 34/11, 40/11 i 47/11), člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br.42/03, 28/04, 75/05 i 13/06, 88/09 i 3/10) i čl. 33. tačka 4 Statuta Opštine Berane ("Sl. list RCG-Opštinski propisi", br. 21/04, 34/06 i 06/11), Skupština opštine Berane, na sjednici održanoj dana 30. marta 2012. godine, donosi
+O D L U K U
