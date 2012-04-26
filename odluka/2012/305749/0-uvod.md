@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 i člana 51 stav 3 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09 i 03/10), čl. 2 i 3 Zakona o muzejskoj djelatnosti ("Sl. list CG", broj 49/10), člana 8 stav 2 Zakona o zaštiti kulturnih dobara ("Sl. list CG", br. 49/10), i člana 34 Statuta Opštine Berane ("Sl. list RCG - Opštinski propisi", br. 21/04, 34/06 i "Sl. list CG-Opštinski propisi", br. 06/11), Skupština opštine Berane, na sjednici održanoj dana 30. marta i 4. aprila 2012. godine, donosi
+O D L U K U
