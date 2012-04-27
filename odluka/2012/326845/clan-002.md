@@ -1,0 +1,2 @@
+# Član 2
+Iznos iz člana 1 ove odluke, utvrĎen je u skladu sa Odlukom o učešću Glavnog grada - Podgorice kao akcionara u AD Novi duvanski kombinat Podgorica, broj: 01-030/11-1326, od 01.12.2011. godine i Odlukom o izmjeni Odluke o učešću Glavnog grada-Podgorica kao akcionara u AD "Novi duvanski kombinat" Podgorica, broj: 01-030/12-279 koju je Skupština Glavnog grada-Podgorica donijela dana 13. marta 2012. godine ("Službeni list CG-opštinski propisi", br. 36/11 i 9/12).
