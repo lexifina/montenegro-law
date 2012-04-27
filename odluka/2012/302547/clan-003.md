@@ -1,0 +1,5 @@
+# Član 3
+Skupština Glavnog grada-Podgorica Odlukom o učešću Glavnog grada-Podgorica kao akcionara u AD Novi duvanski kombinat Podgorica broj: 01-030/11-1326, od 01.12.2011. godine i Odlukom o izmjeni Odluke o učešću Glavnog grada - Podgorica kao akcionara u AD Novi duvanski kombinat Podgorica, broj: 01-030/12-279 od 13. marta 2012. godine ("Službeni list CG - opštinski propisi", br. 36/11 i 9/12), odlučila je da se nenovčana sredstva u iznosu od 1.733.702,94 eura pretvore u nenovčani ulog Akcionarskog društva, pa se za utvrĎeni iznos povećava akcijski kapital Akcionarskog društva.
+Učešće Glavnog grada-Podgorica sastoji se od nenovčanog uloga, koji čini zemljište i naknada za komunalno opremanje graĎevinskog zemljišta.
+Procijenjena vrijednost zemljišta, shodno Izvještaju o procjeni Direkcije za imovinu, broj 13-460/11-1328 od 09.11.2011. godine, iznosi 70,47€/m2, što za ukupnu površinu od 24.602m2 iznosi 1.733.702,94 eura.
+Naknada za komunalno opremanje graĎevinskog zemljišta utvrdiće se nakon izrade idejnog, odnosno glavnog projekta.
