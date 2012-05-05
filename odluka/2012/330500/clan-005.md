@@ -1,0 +1,2 @@
+# Član 5
+Poslove izdavanja urbanističko tehničkih uslova za izgradnju objekata od javnog interesa po uslovima iz ove odluke, i ostale poslove radi realizacije izgradnje, obavljaće, kao prioritetne, nadležni Sekretarijat za prostorno planiranje i održivi razvoj a investiciono tehnička dokumentacija će se izraditi na osnovu Elaborata za utvrĎivanje javnog interesa, eksproprijacije - ustanovljavanja službenosti prolaza radi izgradnje objekata za prečišćavanje otpadnih voda koji je uradio "PRO ING" ad za projektovanje i inženjering, Novi Sad.
