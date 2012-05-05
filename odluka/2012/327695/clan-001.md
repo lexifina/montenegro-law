@@ -1,0 +1,3 @@
+# Član 1
+## Opštine Bijelo Polje
+Troškove ureĎenja graĎevinskog zemljišta za potrebe izgradnje stambenog objekta 1 koji se gradi na urbanističkoj parceli koju čine dijelovi kat.parcela 1453/3, 1453/19, 1453/4 i 1453/2, stambenog objekta 2 koji se gradi na urbanističkoj parceli koju čine dijelovi kat.parcela 1453/3, 1453/19, 1453/4 i 1453/2 i stambenog objekta 3 koji se gradi na urbanističkoj parceli koju čine dijelovi kat.parcela 1453/3 i 1453/4 KO Bijelo Polje u zahvatu DUP- a Nikoljac, a čiji investitor je Crnogorski fond za solidarnu stambenu izgradnju " DOO Podgorica", obezbijet će se iz sredstava budžeta Opštine u iznosu od 350.272, 28 eura.
