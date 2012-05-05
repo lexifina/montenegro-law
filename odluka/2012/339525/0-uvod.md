@@ -1,0 +1,2 @@
+Na osnovu člana 42, stav 2 Zakona o zaštiti i spašavanju (" Sl. list Crne Gore", br. 13/7, 05/08, 86/09 i 32/1), člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list Crne Gore", br. 88/09 i 03.10), i člana 34 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Službeni list CG - Opštinski propisi", broj 21/10), Skupština opštine Bijelo Polje, na sjednici održanoj 30.03. i 05.04.2012. godine, donijela je
+O D L U K U
