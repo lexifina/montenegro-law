@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta Opštine Plužine ("Sl. list RCG - Opštinski propisi", broj 23/04, i "Sl. list CG - Opštinski propisi", br. 07/07, 1/11), a u vezi člana 33 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06, 88/09, 3/10) i člana 12 stav 1 tačka 2 alineja 6 Statuta Opštine Plužine, Skupština opštine Plužine, na sjednici održanoj 12.04.2012. godine, donijela je
+O D L U K U
