@@ -1,0 +1,2 @@
+# Član 4
+Ovlašćuje se Predsjednik Opštine Budva da nepokretnost iz člana 1 ove odluke prenese na Elektroprivredu Crne Gore AD Nikšić uz naknadu utvrĎenu na osnovu nalaza i mišljenja Komisije za procjenu tržišne vrijednosti zasada i pripadnosti broj 001- 1471/1od 28.07.2011 .godine koja iznosi 75 €/m², a po predhodno pribavljenoj saglasnosti Vlade Crne Gore u smislu člana 40 Zakona o državnoj imovini.
