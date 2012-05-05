@@ -1,0 +1,23 @@
+# Član 25
+Savjet RTB:
+- donosi Statut;
+- bira i razrješava predsjednika iz reda članova Savjeta;
+- imenuje i razrješava izvršnog direktora RTB;
+- donosi opšte akte kojima se uređuju pitanja programskih i profesionalnih standarda RTB;
+- usvaja Programska dokumenta RTB;
+- donosi akt o unutrašnjoj organizaciji i sistematizaciji radnih mjesta;
+- usvaja Izvještaj o radu emitera za prethodnu godinu, sa posebnim osvrtom na primjenu programskih sadržaja i ostvarivanje obaveza utvrđenih zakonom;
+- usvaja Izvještaj o finansijskom poslovanju emitera za prethodnu godinu, koji posebno sadrži podatke o korišćenju budžetskih sredstava;
+- usvaja investicione i finansijske planove;
+- bira ovlašćenog revizora periodičnih i godišnjih obračuna;
+- usvaja Izvještaje revizora;
+- daje saglasnost na Ugovor sa nadležnim organom lokalne uprave o sufinansiranju programskih sadržaja u smislu stava 2 člana 20 ove odluke;
+- donosi opšti akt o minimumu procesa rada koji mora biti zadovoljen tokom štrajka zaposlenih;
+- analizira i odlučuje o prijavama u vezi sa kršenjem programskih principa utvrđenih Zakonom i programskim dokumentima i nalaže odgovarajuće mjere;
+- imenuje i razješava Komisiju za predstavke i prigovore gledalaca iz reda članova Savjeta;
+- donosi akte kojima se propisuju nadležnosti i način rada Komisije za predstavke i prigovore gledalaca;
+- donosi Pravila o predstavljanju političkih partija, kandidata i koalicija tokom političkih izbornih kampanja;
+- donosi odluke o raspolaganju imovinom RTB i zaduženju, u skladu sa Zakonom;
+- daje saglasnost na odluke i ugovore kojima se RTB obavezuje da izvrši plaćanje u iznosu većem od iznosa utvrđenog Statutom;
+- donosi Poslovnik o svom radu;
+- obavlja i druge poslove u skladu sa Zakonom, ovom odlukom i Statutom.
