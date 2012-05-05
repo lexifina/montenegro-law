@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom ureĎuje se osnivanje Savjeta mladih Prijestonice Cetinje (u daljem tekstu: Savjet mladih), broj članova, djelokrug i način rada Savjeta mladih, postupak izbora članova, način finansiranja rada i programa Savjeta mladih, uticaj Savjeta mladih na rad Sekretarijata za socijalnu politiku i mlade/Kancelarija za mlade u postupku donošenja odluka i drugih akata od neposrednog interesa za mlade i u vezi sa mladima te druga pitanja od značaja za rad Savjeta mladih.
