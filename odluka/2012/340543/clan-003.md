@@ -1,0 +1,2 @@
+# Član 3
+Plan nema značajnog uticaja na životnu sredinu i segmente iste ( vazduh, vode i more, zemljište, floru u faunu, klimu i dr.). Vjerovatnoća, intenzitet, složenost, vremenske dimenzije, prostorna dimenzija, kumulativna i sinergijska priroda uticaja, djelovanja na oblasti prirodnog, kulturnog i drugog značaja su neznatna, te se konstatuje da planski dokument poštujući kapacitete i resurse pojedinih lokacija neće izazvati značajne uticaje na životnu sredinu.
