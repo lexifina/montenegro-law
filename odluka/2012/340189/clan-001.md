@@ -1,0 +1,4 @@
+# Član 1
+## žene i djecu žrtve nasilja Nikšić
+U Odluci o zajedničkom ulaganju Opštine Nikšić i NVO SOS telefon za žene i djecu žrtve nasilja Nikšić ("Službeni list CG-Opštinski propisi", br. 3/11 i 23/11) član 2 mijenja se i glasi:
+"Učešće opštine Nikšić u izgradnji objekta iz člana 1 ove odluke, odnosi se na obezbjeĎenje lokacije-graĎevinskog zemljišta i to katastarske parcele broj 3086/4 površine 738 m2 čija je procijenjena vrijednost utvrĎena na iznos od 29.815,20 € odnosno 40,40 € po m2 zemljišta, u skladu sa procjenom vrijednosti nepokretnosti, broj 443-103-394/11 od 05.07.2011. godine uraĎene od strane Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine-Crne Gore PJ Nikšić, naknade po osnovu komunalnog opremanja graĎevinskog zemljišta za izgradnju planiranog objekta u iznosu od 22.951,20 €, kao i izradu glavnog projekta budućeg objekta".
