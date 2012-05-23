@@ -1,0 +1,2 @@
+Na osnovu člana 44 Statuta Opštine Mojkovac ("Sl. list CG - Opštinski propisi", broj 31/10) i člana 53 stav 2 Odluke o Etičkoj komisiji za izabrane predstavnike i funkcionere ("Sl. list CG - Opštinski propisi", broj 12/10) i člana 54. stav 2. Odluke o Etičkoj komisiji za lokalne službenike i namještenike("Sl. list CG - Opštinsi propisi", broj 12/10), Skupština opštine Mojkovac, na sjednici održanoj dana 26. 04. 2012. godine, donijela je
+O D L U K U
