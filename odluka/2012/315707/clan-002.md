@@ -1,0 +1,2 @@
+# Član 2
+U poglavlju: "III TEHNIČKO-ESTETSKI USLOVI ZA POSTAVLJANJE PRIVREMENIH OBJEKATA" u podnaslovu: "Otvoreni tip objekta-skladišta" stav 2 mijenja se i glasi: "Montažno demontažni objekti tipa zatvorenih bašti, tendi i ljetsnih bašta mogu se postavljati uz ugostiteljski ili trgovinski objekat u njegovoj funkciji pod uslovom da ugostiteljski ili trgovinski objekt ima odobrenje za rad ili upotrebnu dozvolu".

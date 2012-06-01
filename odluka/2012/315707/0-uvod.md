@@ -1,0 +1,2 @@
+Na osnovu člana 117 stav 1 tačka 2 i stav 2 Zakona o ureĎenju prostora i izgradnji objekata ("Sl.list CG", br. 51/08 i 34/11), člana 12 Odluke o postavljanju i izgradnji montažnih objekata privremenog karaktera na teritoriji Opštine Žabljak ("Sl.list CG- Opštinski propisi", br. 18/09, 14/10, 21/11 i 32/11) i člana 38 tačka 28 Statuta Opštine Žabljak ("Sl.list RCG-Opštinski propisi", br. 9/05 i 23/07 i "Sl.list CG-Opštinski propisi", broj 3/11), Skupština opštine Žabljak, na sjednici održanoj dana 15.05. 2012.godine, donijela je
+O D L U K U
