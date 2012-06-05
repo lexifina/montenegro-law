@@ -1,0 +1,2 @@
+Na osnovu čl. 32 i 33 Statuta Opštine Danilovgrad ("Sl. list RCG - Opštinski propisi", br. 30/04 i " Sl. list CG -Opštinski propisi", br. 19/08 i 12/11), člana 19 Odluke o obrazovanju radnih tijela Skupštine ("Sl. list RCG - Opštinski propisi ", br. 46/06), člana 47 stav 2 Poslovnika Skupštine opštine Danilovgrad ("Sl. list RCG - Opštinski propisi", br. 46/06 i "Sl. list CG - Opštinski propisi", broj 35/09), Skupština opštine Danilovgrad, na sjednici održanoj 30.05.2012. godine, donosi
+O D L U K U
