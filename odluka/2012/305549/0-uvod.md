@@ -1,0 +1,2 @@
+Na osnovu člana 48 Statuta Glavnog grada ("Sl.list RCG-opštinski propisi"; br. 28/06 i "Sl.list CG-opštinski propisi", br.39/10), člana 4 stav 2 Odluke o zaduženju Glavnog grada- Podgorice (Službeni list CG-opštinski propisi", br.14/07), člana 1 i 2 Odluke o davanju saglasnosti na Ugovor o obezbjeĎenju sredstava za finansiranje projekta - Izgradnja miniobilaznice II faza ("Sl.list CG-opštinski propisi", br. 38/09), Skupština Glavnog grada - Podgorice, na sjednici održanoj 8. i 11. juna 2012. godine, donijela je
+O D L U K U
