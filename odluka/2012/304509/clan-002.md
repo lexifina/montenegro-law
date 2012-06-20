@@ -1,0 +1,2 @@
+# Član 2
+Izmjenama i dopunama Plana je obuhvaćen prostor površine cca 48 ha i definisan je granicom koja ide regulacionom linijom Kružnog puta prema Donjem kraju od raskrsnica ulice Obilićeve do kraja ukrštanja sa Bulevarom Lenjina, zatim sredinom Bulevara Lenjina do raskrsnice sa ulicom Nikca od Rovina, osovinom ulice Nikca od Rovina do fudbalskog stadiona obuhvatajući kat.parcele 2407 i 2403 do starog groblja ( granicom parcele ) do ulice Obilićeve, zatim desnom stranom ulice Obilića do raskrsnice sa kružnim putem.
