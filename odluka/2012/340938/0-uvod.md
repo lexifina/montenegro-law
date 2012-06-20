@@ -1,0 +1,2 @@
+Na osnovu člana 2 Zakona o bezbjednosti saobraćaja ("Službeni list RCG", br. 72/05 i 27/06 i "Službeni list CG", br. 75/10), člana 45 u vezi člana 58 stav 2 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04,75/05 i 13/06 "Službeni list CG", broj 08/09 i 03/10 ) i člana 42 u vezi člana 86 stav 2 Statuta Opštine Ulcinj ("Sl. list Crne Gore-Opštinski propisi", br. 05/07, 09/09 i 16/11), Skupština opštine Ulcinj, na sjednici održanoj 04.06.2012.godine, donijela je
+O D L U K U
