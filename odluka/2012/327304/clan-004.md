@@ -1,0 +1,2 @@
+# Član 4
+Izdavanje urbanističko tehničkih uslova za izradu tehničke dokumentacije, odnosno graĎevinske dozvole za izgradnju postrojenja za prečišćavanje otpadnih voda, obavljat će nadležni Sekretarijat za planiranje i ureĎenje prostora i zaštitu životne sredine, uvažavajući podatke iz Prethodnog eksproprijacionog elaborata sa predloženim granicama zahvata potrebnih za eksproprijaciju, koji je uradio projektanski biro IK Konsalting i projektovanje Beograd, kao i podatke Uprave za nekretnine CG-Područna jedinica Cetinje.
