@@ -1,0 +1,3 @@
+# Član 5
+Djelatnost Biblioteke obuhvata: nabavku, obradu, čuvanje, zaštitu, korišćenje, prezentaciju i popularizaciju bibiliotečke graĎe; izradu kataloga, bibliografija i biltena, baze podataka i drugih izvora informacija; omogućava pristup bibliotečkoj graĎi, izvorima informacija, uslugama i servisima; obezbijeĎuje korišćenje i protok bibliografskih i drugih informacija i usluga; edukaciju korisnika; vodi evidenciju o graĎi i korisnicima i druge poslove u skladu sa zakonom.
+Pod bibliotečkom graĎom u smislu prethodnog stava podrazumijeva se svaki tekstualni, zvučni, grafički, slikovni, elektronski ili na drugi način izraĎen dokument ili predmet koji Biblioteka sakuplja, obraĎuje i stavlja korisnicima na raspolaganje.

@@ -1,0 +1,3 @@
+# Član 6
+Pored djelatnosti iz prethodnog člana Biblioteka obavlja i poslove: učestvuje u opštem i informatičkom obrazovanju graĎana; prikuplja, obraĎuje i čuva zavičajnu graĎu na teritoriji Prijestonice; organizuje posebne oblike rada za djecu, omladinu i odrasle u cilju razvijanja i podsticanja čitalačke kulture; organizuje posebne oblike rada za lica sa posebnim potrebama i obezbjeĎuje im uslove za korišćenje bibliotečke graĎe shodno njihovim potrebama i mogućnostima; organizuje kulturne aktivnosti u skladu sa svojom djelatnošću; vrši izdavačku djelatnost, organizuje istraživački rad u okviru svog djelovanja.
+Biblioteka može obavljati i druge djelatnosti koje su od značaja za ostvarivanje djelatnosti za koju je osnovana.
