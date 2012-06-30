@@ -1,0 +1,2 @@
+Na osnovu člana 5. i 7. Zakona o regionalnom razvoju Crne Gore ("Sl. list CG", br. 20/11 i 26/22), člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/5 i 13/06 i "Sl. list CG", br. 88/09 i 3/10) i člana 33 i 37 Statuta Opštine Berane ("Sl. list RCG - Opštinski propisi" br. 21/04 i 34/06 i "Sl. list CG- Opštinski propisi", br. 6/11), Skupština Opštine Berane na sjednici održanoj dana 11. i 12. juna 2012. godine, donijela je
+O D L U K U
