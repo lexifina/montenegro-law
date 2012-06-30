@@ -1,0 +1,3 @@
+# Član 5
+U članu 13 stav 1 mijenja se i glasi:
+»U slučajevima pretvaranja zajedničkih prostorija u stambeni ili poslovni prostor, izgradnje novog objekta umjesto postojećeg, pretvaranja stambenog u poslovni prostor, kao i rekonstrukcije objekata ukoliko se rekonstrukcijom mijenja namjena ili veličina objekta, Naknada se utvrĎuje samo za pozitivnu razliku prema namjeni prostorija koje se pretvaraju, namjeni i veličini objekta koji se gradi u odnosu na objekat koji se uklanja, odnosno namjeni i veličini objekta na kojem se vrši rekonstrukcija, ukoliko je prethodno plaćena Naknada za predmetni prostor, odnosno objekat.«
