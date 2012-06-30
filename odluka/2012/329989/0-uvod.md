@@ -1,0 +1,2 @@
+Na osnovu člana 2 stav 2, člana 5 Zakona o referendumu ("Sl.list RCG", broj 9/01) a u vezi sa članom 29 Zakona o teritorijalnoj organizaciji Crne Gore ("Sl.list CG", broj 54/11) i člana 33 stav 1 tačka 11 Statuta Opštine Berane ("Sl. list RCG-opštinski propisi", br.21/04, 34/06 i "Sl. list CG-opštinski propisi", broj 6/11), Skupština opštine Berane, na sjednici održanoj dana 11. juna 2012. godine, donijela je
+O D L U K U
