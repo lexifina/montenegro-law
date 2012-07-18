@@ -1,0 +1,2 @@
+Na osnovu čl. 47 i 49 Zakona o ureĎenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08 i 34/11), člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09 i 3/10) i čl. 42 i 46 Statuta Opštine Rožaje ("Sl. list CG - Opštinski propisi", broj 09/11), Skupština opštine Rožaje, na sjednici održanoj dana 25.06.2012. godine, donijela je
+O D L U K U
