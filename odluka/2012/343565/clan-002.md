@@ -1,0 +1,2 @@
+# Član 2
+Naknada za komunalno opremanje graĎevinskog zemljišta, utvrĎena ja na osnovu Odluke o naknadi za komunalno opremanje graĎevinskog zemljišta ("Sl. list CG- Opštinski propisi", br. 20/10 i 37/10) u iznosu od 1.593.288,00 €, za objekte bruto površine 22.293 m², na osnovu revidiranog Idejnog projekta, uraĎenog od strane d.o.o. "ARCHICON" iz Podgorice i revidovanog od d.o.o. "POP PROJEKT" iz Podgorice, i d.o.o. "INGENIUM" iz Podgorice.
