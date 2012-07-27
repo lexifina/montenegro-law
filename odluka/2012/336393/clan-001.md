@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o zaduživanju i davanju garancija Crne Gore za 2012. godinu ("Službeni list CG", broj 18/12) u članu 1 stav 2 riječi: "230,00 miliona eura", zamjenjuju se riječima: "308,00 miliona eura" a poslije riječi: "servisiranje dugova;" dodaju se riječi: "100,00 miliona eura kroz kreditni aranžman sa Credit Suisse International, Credit Suisse AG, London Branch i International Bank for Reconstruction and Development,".
