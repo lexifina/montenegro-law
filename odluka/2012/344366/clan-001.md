@@ -1,0 +1,3 @@
+# Član 1
+## o davanju ovlašćenja predsjedniku opštine da otkupi zemljište potrebno za formiranje urbanističke parcele 16.1 u skladu sa DUP-om Budva centar
+Opština Budva kupuje nepokretnosti označenu kao dio katastarske parcele 2199 KO Budva uslovnom parcelacijom označena kao katastarska parcela 2199/2 KO Budva površine 202 m² upisana sa pravom svojine na Poštu Crne Gore doo Podgorica -Telekom Crne Gore A.D.podgorica i nepokretnost označenu kao dio katastarske parcele 2174 uslovnom parcelacijom označena kao katastarska parcela 2174/2 površine 11 m2 upisana sa pravom svojine na Franeta Zorku, neposrednom pogodbom radi formiranja urbanističke parcele broj 16.1 prema DUP-u Budva centar
