@@ -1,0 +1,2 @@
+Na osnovu člana 14 Zakona o komunalnim djelatnostima ("Službeni list RCG", broj 12/05), člana 65 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", br. 42/03 i 44/03 i "Službeni list CG", br. 05/08 i 74/10) i člana 48 stav 1 Statuta Glavnog grada ("Službeni list RCG - Opštinski propisi", broj 28/06 i "Službeni list CG-Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada-Podgorice, na sjednici održanoj 20. jula 2012. godine, donijela je
+O D L U K U
