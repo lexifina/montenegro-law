@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi (Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 3/10), člana 48 stav 1 tačka 9 Statuta Glavnog grada ("Službeni list RCG - Opštinski propisi", broj 28/06 i "Službeni list CG", br. 39/10, i 18/12) i člana 7 Odluke o odreĎivanju graĎevinskog zemljišta koje će biti predmet raspolaganja u 2012. godini ("Službeni list CG-Opštinski propisi", broj 6/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj 20. jula 2012. godine, donijela je
+O D L U K U
+o izmjenama i dopunama Odluke o određivanju građevinskog zemljišta koje će biti
