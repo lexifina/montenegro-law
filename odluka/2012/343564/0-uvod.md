@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list Republike Crne Gore", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 03/10 ) i člana 48 stav 1 alineja 14 Statuta Glavnog grada ("Službeni list Republike Crne Gore - Opštinski propisi", broj 28/06 i "Službeni list CG", br. 39/10 i 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 20. jula 2012. godine, donijela je
+O D L U K U
