@@ -1,0 +1,2 @@
+Na osnovu člana 14 stav 2 tačka 3 Zakona o komunalnim djelatnostima ("Službeni list RCG", broj 12/95), člana 48 stav 1 alineja 2 Statuta Glavnog grada ("Službeni list RCG-Opštinski propisi", broj 28/06 i "Sl. list CG-Opštinski propisi", br. 39/10 i 18/12) i člana 13 stav 1 alineja 6 Odluke o osnivanju "Tržnice i pijace" d.o.o. Podgorica, ("Službeni list RCG - Opštinski propisi", broj 50/06) Skupština Glavnog grada - Podgorice, na sjednici održanoj 20. jula 2012. godine, donijela je
+O D L U K U
