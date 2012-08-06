@@ -1,0 +1,3 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list CG", br. 88/09, 03/10), člana 36 tačka 25 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, "Sl. list CG - Opštinski propisi", br. 16/09, 16/11) i člana 8 Odluke o osnivanju društva sa ograničenom odgovornošću - Društvo za izgradnju vodovodne i kanalizacione infrastrukture u Opštini Herceg Novi, broj: 01-3/43-12 od 17.07.2012. godine, Skupština opštine Herceg Novi, na sjednici održanoj dana 17.07.2012. godine donosi sljedeće
+R J E Š E NJ E
+o izboru članova Odbora direktora Društva sa ograničenom odgovornošću -Društva
