@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za zaključenje poravnanja u predmetu Posl.br. P.576/10/10
+Daje se saglasnost da se u predmetu Posl.br. P.576/10/10 pred Osnovnim sudom u Kotoru zaključi poravnanje, na način što će tužena Opština Tivat za zemljište označeno kao dio čestica zemlje 333/2, 333/3 i 333/7 k.o.Tivat u površini od 373 m2 koje se nalazi u okviru kat.parcele 931/1 k.o.Tivat isplatiti tužiocima Cankar Antonu, Vuksanović Zvonku i Handžijv Mariji naknadu u iznosu od 300,00 €/m2, odnosno ukupan iznos od 111.900,00 €, a tužioci će se odreći postavljenog tužbenog zahtjeva i povući predlog za odreĎivanje privremene mjere zabrane raspolaganja, opterećenja i otuĎenja i izvoĎenja graĎevinskih radova na istoj.
