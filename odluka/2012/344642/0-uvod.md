@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09 i 03/10), člana 18 stav 1 tačka 2 Zakona o regionalnom razvoju ("Sl. list CG", broj 20/11) i člana 26 stav 1 tačka 7 Statuta Opštine Ulcinj ("Sl. list CG-Opštinski propisi", br. 5/07 i 16/11), Skupština opštine Ulcinj, na sjednici održanoj dana 17.07.2012, donijela je
+O D L U K U
