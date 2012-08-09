@@ -1,0 +1,2 @@
+Na osnovu člana 42 stav 39 i člana 43 Statuta Opštine Ulcinj ("Sl. list CG-Opštinski propisi", br. 05/07 i 16/11), člana 8, člana 22 stav 1 tačka 1 i člana 61 Odluke o osnivanju društva sa ograničenom odgovornošću Lokalni javni emiter "Radio televizija Ulcinj" ("Službeni list CG-Opštinski propisi", broj 38/2011 od dana 16.12.2012. god.), Skupština opštine Ulcinj, na sjednici održanoj 19.07.2012. godine, donijela je
+R J E Š E NJ E
