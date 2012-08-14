@@ -1,0 +1,2 @@
+# Član 2
+Učešće opštine Nikšić u ovom projektu odnosi se na davanje nevladinoj organizaciji "Preporod" Nikšić na korišćenje bez naknade, poslovnog prostora, poseban dio 29, površine 29 m2 i poslovnog prostora, poseban dio 30, površine 20 m2 oba u objektu broj 1- stanične zgrade " Autobuska stanica" koji se nalazi na katastarskoj parceli broj 4250/2, upisanog u " V" listu lista nepokretnosti broj 2952 KO Nikšić kao svojina opštine Nikšić.
