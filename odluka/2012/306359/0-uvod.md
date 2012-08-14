@@ -1,0 +1,2 @@
+Na osnovu čl. 36 i 42 u vezi sa čl. 103 Zakona o kulturi ("Sl. list CG", br. 49/08, 16/11), čl. 8, 13 i 14 Zakona o bibliotečkoj djelatnosti ("Sl. list CG", broj 49/10), člana 34 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06) i člana 25 Statuta Opštine Herceg Novi ("Sl. list RCG-Opštinski propisi", br. 15/04, 31/06, 14/07 i 16/11), Skupština opštine Herceg Novi, na sjednici održanoj dana 17.07.2012. godine, donosi
+O D L U K U
