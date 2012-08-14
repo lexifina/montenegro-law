@@ -1,0 +1,3 @@
+# Član 1
+## o prenosu prava svojine na građevinsko zemljište na Božović Grujicu
+Božović Grujici iz Nikšića prenosi se pravo svojine na graĎevinsko zemljište za potrebe kompletiranja urbanističke parcele UP 5, u skladu sa Odlukom o donošenju Detaljnog urbanističkog plana Stara varoš-jug ("Službeni list CG-Opštinski propisi", broj 15/06 i 3/11) i to katastarska parcela broj 4924, po kulturi dvorište, površine 685 m2, upisana u listu nepokretnosti broj 2949 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja opštine Nikšić koja čini dio urbanističke parcele ukupne površine 1.227 m2, na kojoj je predviĎena izgradnja poslovno stambenog objekta maksimalne spratnosti Po+P+3+Pk.
