@@ -1,0 +1,5 @@
+# Član 5
+## Ugovor o finansijskom obezbjeđenju
+Ugovor o finansijskom obezbjeđenju, u smislu ovog zakona, je ugovor kojim davalac obezbjeđenja prenosi pravo svojine na instrumentu obezbjeđenja na primaoca finansijskog obezbjeđenja ili zasniva pravo zaloge na instrumentu obezbjeđenja u korist primaoca finansijskog obezbjeđenja, radi obezbjeđenja izvršenja određene finansijske obaveze.
+Ugovor o finansijskom obezbjeđenju prenosom prava svojine iz stava 1 ovog člana je ugovor, uključujući i ugovor o repo transakcijama (transakcijama prodaje hartija od vrijednosti sa obavezom reotkupa), kojim davalac finansijskog obezbjeđenja prenosi pravo svojine na instrument finansijskog obezbjeđenja na primaoca obezbjeđenja.
+Ugovor o finansijskom obezbjeđenju zasnivanjem založnog prava iz stava 1 ovog člana je ugovor kojim se davalac finansijskog obezbjeđenja obavezuje da na instrumentu obezbjeđenja zasnuje založno pravo u korist primaoca obezbjeđenja, uz zadržavanje prava svojine na instrumentu obezbjeđenja.

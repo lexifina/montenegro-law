@@ -1,0 +1,17 @@
+# Član 3
+## Primjena
+Ovaj zakon primjenjuje se na davaoca finansijskog obezbjeđenja (u daljem tekstu: davalac obezbjeđenja) i primaoca finansijskog obezbjeđenja (u daljem tekstu: primalac obezbjeđenja), i to :
+1) lica iz država članica Evropske Unije koja se po propisima tih država smatraju licima javnog prava, uključujući i lica koja su odgovorna za upravljanje ili uključena u upravljanje javnim dugom ili nadležna za vođenje poslovnih računa, osim pravnih lica za čije obaveze garantuje država;
+2) centralne banke država članica Evropske Unije;
+3) Evropsku centralnu banku, Banku za međunarodna poravnanja, Evropsku investicionu banku, Međunarodni monetarni fond i multilateralne razvojne banke (Međunarodna banka za rekonstrukciju i razvoj, Međunarodna finansijska korporacija, Među-Američka banka za razvoj, Azijska banka za razvoj, Afrička banka za razvoj, Savjet Evropske banke za razvoj (Savjet evropskog fonda za ponovno namirenje), Banku za trgovinu i razvoj Crnog Mora, Nordijsku investicionu banku, Karibsku banku za razvoj, Evropsku banku za rekonstrukciju i razvoj, Evropsku investicionu banku, Evropski investicioni fond, Agenciju za multilateralne investicionu garanciju, Međunarodnu finansijsku upravu za imunizaciju, Islamsku banku za razvoj, Američku investicionu korporaciju i Centralnu američku banku za ekonomske integracije);
+4) finansijske institucije država članica Evropske Unije koje su predmet prudencione supervizije, i to:
+- kreditne institucije čija je djelatnost primanje depozita i drugih povratnih sredstava od pravnih i fizičkih lica i odobravanje kredita u tuđe ime i za svoj račun,
+- finansijske institucije čija je osnovna djelatnost sticanje udjela u kapitalu ili obavljanje jedne ili više osnovnih finansijskih usluga, osim kreditnih institucija,
+- investiciona društva koja nijesu kreditne institucije, a čija je pretežna djelatnost pružanje investicionih usluga, odnosno sprovođenje investicionih aktivnosti i druga lica, u skladu sa propisima kojima se uređuje poslovanje investicionih društava,
+- društva za osiguranje, u skladu sa propisima kojima se uređuje obavljanje poslova osiguranja,
+- društva za zajednička ulaganja,
+- društva za upravljanje društvima za zajednička ulaganja u prenosive hartije od vrijednosti;
+5) centralne ugovorne strane, agente za poravnanja i klirinška društva, uključujući i institucije koje posluju na tržištu fjučersa, opcija i finansijskih derivata, u državama članicama Evropske Unije;
+6) druga pravna lica, a koja djeluju u ime ili zastupaju jedno ili više lica koja su vlasnici obveznica ili drugih dužničkih hartija od vrijednosti ili djeluju u ime institucije iz tač. 1 do 5 ovog stava.
+Ovaj zakon primjenjuje se na davaoca i primaoca obezbjeđenja sa sjedištem u Crnoj Gori, i to: državne organe nadležne za upravljanje javnim sredstvima, Centralnu banku Crne Gore, banke, mikrokreditne finansijske institucije, lica koja se bave kreditno- garantnim poslovima, Centralnu Depozitarnu Agenciju, Fond za zdravstveno osiguranje Crne Gore, Fond penzijskog i invalidskog osiguranja Crne Gore, Investiciono razvojni fond Crne Gore i društva za osiguranje, investicione fondove, društva za upravljanje investicionim fondovima i ovlašćene učesnike na tržištu hartija od vrijednosti.
+Lica iz stava 2 ovog člana mogu obezbjeđenje određenih finansijskih obaveza da vrše u skladu sa ovim zakonom ili drugim propisima kojima se uređuju sredstva obezbjeđenja.
