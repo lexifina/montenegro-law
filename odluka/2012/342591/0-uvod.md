@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Sl. list CG", broj 46/11) i člana 32 Statuta Opštine Kotor ("Sl. list Opštine Kotor", broj 03/04, "Sl. list Crne Gore - Opštinski propisi", br. 17/08, 31/09, 40/10 i 04/11), Skupština Opštine Kotor, na sjednici održanoj 2012. godine donijela je
+O D L U K U
