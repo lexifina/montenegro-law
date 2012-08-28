@@ -1,0 +1,3 @@
+Na osnovu čl. 1, 2 i 8 Zakona o vodama ("Sl.list RCG", broj 27/07) , čl. 7, 8 i 9 Zakona o izmjenama i dopunama Zakona o vodama ("Sl.list CG", broj 32/11), člana 45 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", broj 88/09), člana 34 Statuta Opštine Plav ("Sl.list RCG" - Opštinski propisi", broj 17/07 i "Sl.list CG - Opštinski propisi", br. 25/09 i 38/10), a u vezi člana 3 Zakona o prekršajima ("Sl.list CG", br. 01/11, 6/11 i 39/11), Skupština opštine Plav na sjednici održanoj 08.08.2012. godine, donijela je
+O D L U K U
+o izmjenama i dopunama Odluke o izgradnji, korišćenju, održavanju i upravljanju
