@@ -1,0 +1,2 @@
+# Član 3
+Poslove izdavanja urbanističko-tehničkih uslova za izgradnju postrojenja kao i ostale poslove oko izgradnje obavljaće Sekretarijat za ureĎenje prostora i imovinu ,dok će se lokacija za igradnju postrojenja za prečišćavanje otpadnih voda u Gusinju uskladiti sa prostorno- urbanističkim planom Opštine Plav čija je izrada u toku, a troškove nabavke opreme i montažu iste snosit će FIRMA" RADASTAV" donacija Republike Slovačke .
