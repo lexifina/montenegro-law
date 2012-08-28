@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, i "Sl. list CG", br. 88/09, 3/10,), člana 30 stav 1 tačka 39 Statuta Opštine Kotor ("Sl. list Opštine Kotor", broj 3/04, i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 4/11), člana 53 stav 2 Zakona o radu ("Sl. list CG", br. 49/08, 26/09, 26/10 i 59/11 ) i člana 35 Zakona o unutrašnjoj trgovini ("Sl. list CG", br. 49/08 i 40/11), Skupština opštine Kotor, na sjednici održanoj 31.07. 2012. godine, donijela je
+O D L U K U
