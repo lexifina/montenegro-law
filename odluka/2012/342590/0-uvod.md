@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 10 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", br. 88/09, 03/10) i člana 30 stav 1 tačka 1 Statuta Opštine Kotor ("Sl. list Opštine Kotor", broj 03/04 i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 4/11), i čl. 15 i 16 Odluke o mjesnim zajednicama ("Sl. list Opštine Kotor", broj 01/06), Skupština opštine Kotor na sjednici održanoj 31. 07. 2012. gdoine, donijela je
+O D L U K U
