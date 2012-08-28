@@ -1,0 +1,2 @@
+Na osnovu člana 40 a u vezi sa članom 23 stav 1 Zakona o državnoj imovini CG ("Sl. list CG", broj 21/09), Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list Crne Gore", broj 44/10) i člana 16 stav 2 i člana 30 Statuta Opštine Kotor ("Sl. list Opštine Kotor", broj 3/04 i "Sl. list CG-Opštinski propisi", broj 17/08), Zaključka Vlade CG", broj 06-1391/3 od 05.07.2012. god., Skupština Opštine Kotor, na sjednici održanoj 31. 07. 2012. godine, donijela je
+O D L U K U
