@@ -1,0 +1,2 @@
+Na osnovu čl. 6, 12 i 13 Zakona o komunalnim djelatnostima ("Sl. list CG", broj 12/95), člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10,) i člana 30 Statuta Opštine Kotor ("Sl. list Opštine Kotor", broj 3/04 i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 4/11), Skupština Opštine Kotor, na sjednici održanoj 31. 07. 2012. godine donijela je
+O D L U K U
