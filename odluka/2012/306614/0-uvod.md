@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 2 i člana 40 stav 1 tačka 1 Zakona o državnoj imovini ("Sl. list CG" br. 21/09), člana 33 stav 1 tačka 1 i člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, 88/09 i 03/10), i člana 34 tačka 9 Statuta opštine Plav, ("Sl. list RCG - Opštinski propisi", broj 17/07 i "Sl. list CG - Opštinski propisi", br. 25/09 i 38/10), Skupština opštine Plav, na sjednici održanoj 08.08.2012. godine, donijela je
+O D L U K U
