@@ -1,0 +1,4 @@
+Na osnovu člana 150 Zakona o energetici ("Službeni list CG", br. 28/10, 40/11 i 42/11), člana 18 stav 1 tačka 14 Statuta Regulatorne agencije za energetiku ("Slu- žbeni list CG", broj 7/11), a u vezi sa članom 12 Pravila o načinu i uslovima za izda- vanje, izmjenu i oduzimanje licenci za obavljanje energetskih djelatnosti ("Službeni list CG", broj 66/10), Odbor Regulatorne agencije za energetiku, na sjednici održa- noj 13. septembra 2012. godine, donio je
+O D L U K U O IZMJENI ODLUKE BROJ 12/201-16 OD 31. MAJA 2012. GODINE
+1. U Odluci broj 12/201-16 od 31. maja 2012. godine, kojom je Elektroprivredi Crne Gore AD Nikšić odobren otkup elektrodistributivne infrastrukture u Opštini Budva, a koji se odnosi na TS 35/10 kV, 2x8 MVA "Bečići" i transformatore 35/10 kV, 2x4 MVA, tačka 2. dispozitiva se briše.
+2. Ova odluka stupa na snagu danom donošenja i objaviće se u "Službenom li- stu Crne Gore".
