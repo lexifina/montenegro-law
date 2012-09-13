@@ -1,0 +1,4 @@
+Na osnovu člana 150 Zakona o energetici ("Službeni list CG", br. 28/10, 40/11 i 42/11), člana 18 stav 1 tačka 14 Statuta Regulatorne agencije za energetiku ("Službeni list CG", broj 7/11), a u vezi sa članom 12 Pravila o načinu i uslovima za izdavanje, iz- mjenu i oduzimanje licenci za obavljanje energetskih djelatnosti ("Službeni list CG", broj 66/10), Odbor Regulatorne agencije za energetiku, na sjednici održanoj 13. septembra 2012. godine, donio je
+O D L U K U O IZMJENI ODLUKE BROJ 12/1367-3 OD 12. JULA 2012. GODINE
+1. U Odluci broj 12/1367-3 od 12. jula 2012. godine, kojom je Elektroprivredi Crne Gore AD Nikšić odobren otkup elektrodistributivne infrastrukture koja se odnosi na ka- blovske vodove u Opštini Budva, tačka 2. dispozitiva se briše.
+2. Ova odluka stupa na snagu danom donošenja i objaviće se u "Službenom listu Cr- ne Gore".
