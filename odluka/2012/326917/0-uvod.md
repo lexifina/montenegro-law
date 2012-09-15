@@ -1,0 +1,2 @@
+Na osnovu člana62aZakona o ureĎenjuprostoraiizgradnjiobjekata ("Sl. list CG", br. 51/08 40/10 i 34/11), član 12 Odluke o postavljanjuigraĎenjumontažnihobjekata("Sl. list CG-Opštinskipropisi",broj 18/09)člana 45 Zakona o lokalnojsamoupravi("Sl. list RCG", br.42/03, 28/04, 75/05 i 13/06) ičl.33 i 37 StatutaOpštineBerane ("Sl. list RCG- Opštinskipropisi", br. 21/04 i 34/06 i "Sl. list RCG- Opštinskipropisi",broj 6/11) SkupštinaopštineBeranenasjedniciodržanojdana 22.08.2012. godine, donijela je
+O D L U K U
