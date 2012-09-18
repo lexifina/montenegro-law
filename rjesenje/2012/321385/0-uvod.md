@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 Zakona o kulturi ("Sl. list CG", br. 49/08, 16/11 i 40/11), člana 9 Odluke o osnivanju Javne ustanove Spomen dom "Crvena komuna" Petrovac ("Sl. list Opštine Budva", br. 5/92, 8/92, 4/94, 5/96, 9/98, 2/07, 5/09, 7/09) i člana 40 stav 1 tačka 41 Statuta Opštine Budva ("Sl. list CG - Opštinski propisi", broj 19/10), Skupština opštine Budva, na sjednici održanoj dana 18. septembra 2012. godine, donijela je
+R J E Š E NJ E
