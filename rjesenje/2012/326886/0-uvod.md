@@ -1,0 +1,1 @@
+Na osnovu člana 19 stav 2, člana 36 tačka 21 i člana 45 stav 4 Statuta Opštine Herceg Novi ("Sl. list RCG-Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07 i "Sl. list CG-Opštinski propisi", br. 16/09 i 16/01), Skupština opštine Herceg Novi, na sjednici održanoj 14.09.2012. godine, donosi
