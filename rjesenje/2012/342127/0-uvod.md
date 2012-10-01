@@ -1,0 +1,2 @@
+Na osnovu člana 36 tačka 15 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07 i "Sl. list CG-Opštinski popisi", br. 16/09 i 16/11) i člana 8 Odluke o organizovanju JU "Gradska biblioteka i čitaonica" Herceg Novi ("Sl. list CG-Opštinski propisi", broj 26/12), Skupština opštine Herceg Novi, na sjednici održanoj dana 14.09.2012. godine, donosi
+R J E Š E Nj E
