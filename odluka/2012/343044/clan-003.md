@@ -1,0 +1,2 @@
+# Član 3
+LSL obuhvata prostor površine 1,16 ha. u KO Tudorovići, ograničen kako slijedi: sa zapadne strane: granicom kat. parc. 1699, 1700, 1688 i 1687 sa jedne strane i kat. parc. 1701 sa druge strane, sa sjeverne strane: granicom kat.parc. 1686, 1685 i 1683, sa jedne i kat. parc. 1687, 1691, 1694, 1693, sa druge strane, sa istočne strane: granicom kat. parc. 1682, sa jedne strane i kat. parc. 1692, 1693, 1694 i 1695, sa druge strane, sa južne strane: granicom kat. parc. 1695, 1696 i 1698, sa jedne strane i kat.parc. 1701, sa druge strane.
