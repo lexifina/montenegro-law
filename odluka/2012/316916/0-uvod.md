@@ -1,0 +1,2 @@
+Na osnovu člana 6 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 12/95), člana 32 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", broj 88/09), i člana 63 stav 1 tačka 28 Statuta Prijestonice ("Sl. list Crne Gore - Opštinski propisi", br. 19/09 i 37/10), Skupština Prijestonice Cetinje, na sjednici održanoj dana 03.09.2012. godine, donijela je
+O D L U K U
