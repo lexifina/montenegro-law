@@ -1,0 +1,3 @@
+# Član 3
+Komisija se imenuje za godinu u kojoj se stipendija dodjeljuje tj. za školsku 2012/2013. godinu.
+Predsjednik Komisije se bira iz redova članova Komisije.
