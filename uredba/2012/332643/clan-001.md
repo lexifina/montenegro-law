@@ -1,0 +1,4 @@
+# Član 1
+OvomuredbomutvrĎujesenačinikriterijumizauspostavljanjeunutrašnjerevizijeujavnomsekt oru,
+odnosnouokvirusubjekataizčlana
+2 Zakonaosistemuunutrašnjihfinansijskihkontrolaujavnomsektoru.

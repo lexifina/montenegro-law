@@ -1,0 +1,5 @@
+# Član 5
+Subjektiizčl.2,
+3
+i
+4 oveuredbekojiuspostavljajuunutrašnjurevizijuorganizovanjemposebneorganizacionejediniceza unutrašnjureviziju, aktomounutrašnjojorganizacijiisistematizacijiutvrdićeposebnuorganizacionujedinicuzaunutraš njureviziju.
