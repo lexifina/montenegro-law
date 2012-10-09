@@ -1,0 +1,2 @@
+# Član 3
+Ciljevi i zadaci radi kojih se osniva "OFK Petrovac" je obavljanje sportske fudbalske djelatnosti koja obuhvata (obučavanje, trening i rekreativne aktivnosti) i sportske priredbe (fudbalska takmičenja i fudbalske manifestacije), kao i promovisanje fudbala kod djece i omladine u cilju unaprijeĎivanja i razvoja psihofizičkih sposobnosti i sportskih znanja i postizanje sportskih rezultata na svim nivoima.
