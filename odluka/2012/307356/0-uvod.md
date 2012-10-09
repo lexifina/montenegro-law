@@ -1,0 +1,2 @@
+Na osnovu člana 22 st. 1 i 5 Zakona o putevima ("Službeni list RCG", broj 42/04 i "Službeni list CG", br. 21/09, 54/09, 40/10, 73/10, 36/11 i 40/11) i člana 48 stav 1 alineja 8 Statuta Glavnog grada ("Službeni list RCG - Opštinski propisi", broj 28/06 i "Službeni list CG - Opštinski propisi", broj 39/10 i 18/12), uz prethodnu saglasnost Vlade Crne Gore, broj 06-2014/V od 27. septembra 2012. godine, Skupština Glavnog grada - Podgorice, na sjednici održanoj 28. septembra 2012. godine, donijela je
+O D L U K U
