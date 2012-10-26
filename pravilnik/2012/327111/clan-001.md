@@ -1,0 +1,4 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuju se fitosanitarne mjere za sprječavanje unošenja, širenja i suzbijanje Rhynchophorus ferrugineus (Oliver) na osjetljivom bilju.
+Osjetljivo bilje u smislu ovog pravilnika je bilje, osim plodova i sjemena, koje u osnovi stabla ima prečnik preko 5 cm i pripada sljedećim vrstama: Areca catechu, Arecastrum romanzoffianum (Cham) Becc, Arenga pinnata, Borassus flabellifer, Brahea armata, Butia capitata, Calamus merillii, Caryota maxima, Caryota cumingii, Chamaerops humilis, Cocos nucifera, Corypha gebanga, Corypha elata, Elaeis guineensis, Howea forsteriana, Jubea chilensis, Livistona australis, Livistona decipiens, Metroxylon sagu, Oreodoxa regia, Phoenix canariensis, Phoenix dactylifera, Phoenix theophrasti, Phoenix sylvestris, Sabal umbraculifera, Trachycarpus fortunei i rodu Washingtonia spp.
