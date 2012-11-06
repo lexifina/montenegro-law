@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom uređuju se kriterijumi, uslovi i način dodjele stipendija najboljim studentima koji imaju prebivalište na teritoriji Prijestonice Cetinje, prava i obaveze davaoca i korisnika stipendije, kao i druga pitanja od značaja za stipendiranje studenata na javnim i privatnim ustanovama visokog obrazovanja na kojima se stiče diploma primijenjenih osnovnih studija i akademskih osnovnih studija.
