@@ -1,0 +1,2 @@
+# Član 4
+Usvajanjem politike, kojom se uvode načela ravnopravnosti polova u Prijestonici Cetinje, promoviše se djelotvornost principa jednakih mogućnosti oba pola, kojom se obezbjeđuje potpuniji odgovor na potrebe i interese različitih kategorija građana i građanki, djelotvornija raspodjela ljudskih i novčanih resursa, osnažuju mehanizmi donošenja odluka i potpunijeg učešća građana i građanki u tom procesu, te ojačava funkcionisanje demokratije.

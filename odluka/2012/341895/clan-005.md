@@ -1,0 +1,2 @@
+# Član 5
+Svim zaposljenim u organima lokalne samouprave, lokalne uprave, javnim službama i ustanovama, čiji je osnivač Prijestonica Cetinje i mjesnim zajednicama na teritoriji Prijestonice Cetinje, garantuje se jednak tretman i ostvarivanje jednake koristi od rezultata rada, jednake mogućnosti kod korišćenja svih pogodnosti, jednake uslove napredovanja, pristup obukama i sticanju novih znanja i vještina i sve druge povoljnosti iz rada i po osnovu rada pod jednakim uslovima.

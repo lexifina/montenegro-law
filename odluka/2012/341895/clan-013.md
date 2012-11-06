@@ -1,0 +1,4 @@
+# Član 13
+Organi Prijestonice Cetinje će, u skladu sa odredbama važećih zakonskih propisa iz ove oblasti, preduzimati pozitivne i programske mjere unaprđenje i ostvarivanje rodne ravnopravnosti na osnovu analize položaja žena i muškaraca u oblasti za koju se utvrđuju.
+U okviru mjera iz prethodnog stava, organi Prijestonice Cetinje preduzimaju kontinuirane aktivnosti na podizanju svijesti javnih službenika/ca i namještenika/ca usvajanjem različitih mjera kojima se mjeri njihov uticaj na korisnike/ce, stalnim edukacijama i uvođenjem djelotvornih i trajnih programa obuke za zapošljene.
+Organi Prijestonice Cetinje aktivno sarađuju sa ministarstvom nadležnim za zaštitu ljudskih i manjinskih prava i drugim organima i tijelima, međunarodnim organizacijama, kao i nevladinim organizacijama, koje se bave pitanjima rodne ravnopravnosti u cilju postizanja rodne ravnopravnosti na teritoriji Prijestonice Cetinje.
