@@ -1,0 +1,2 @@
+Na osnovu čl. 34 i 36 Poslovnika Skupštine Crne Gore ("Službeni list RCG", br. 51/06 i 66/06 i "Službeni list CG" br. 88/09, 80/10, 39/11 i 25/12), Skupština Crne Gore 25. saziva, na prvoj - konstitutivnoj ćednici drugog redovnog (jesenjeg) zasijedanja u 2012. godini, dana 7. novembra 2012.godine, donijela je
+ODLUKU O IZBORU PREDĆEDNIKA I ČLANOVA ADMINISTRATIVNOG ODBORA SKUPŠTINE CRNE GORE 25. SAZIVA
