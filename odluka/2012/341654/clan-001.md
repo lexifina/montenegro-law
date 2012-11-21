@@ -1,0 +1,3 @@
+# Član 1
+## seoskog vodovoda za naselje Bistricu
+Opština Bijelo Polje opredjeljuje dio novčanih sredstava od naknade za uređenje građevinskog zemljišta za izgradnju malih hidroelektrana mhe "Bistrica A" i mhe "Bistrica B" na rijeci Bistrici, u iznosu od 532. 341, 38 € za izgradnju puta Bistrica - Đalovića klisura i seoskog vodovoda za MZ Bistrica, shodno opštinskom programu uređenju prostora, projektnom dokumentacijom i dozvolama nadležnih organa i shodno Ugovoru zaključenom između Sekretarijata za uređenje prostora i održivi razvoj i "Haider extrem energy" D.O.O. Podgorica, broj 06/1-1373/1 od 23.11.2011.godine.
