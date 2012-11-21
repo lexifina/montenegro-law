@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za odustajanje od žalbe u predmetu Posl.br. Rs.26/11
+Daje se saglasnost da se odustane od žalbe izjavljene na Rješenje Osnovnog suda Kotor Posl. br. Rs. 26/11 od 03.09.2012.godine, donijeto u pravnoj stvari predlagača Nikolić Zvonimira, kojim se obavezuje protivnik predlagača Opština Tivat da za zemljište označeno kao čest. zem. 3210/9 i 3212/10 k.o.Tivat površine 981 m2 (djelovi kat.parcela 3348, 3387 i 3351 k.o. Tivat) nacionalizovano rješenjem NO Opštine Tivat 25.04.1960.godine isplati naknadu u iznosu od 372.230,64 € i troškove postupka u iznosu od 4.600,00 €.
