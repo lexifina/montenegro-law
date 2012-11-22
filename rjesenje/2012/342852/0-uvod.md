@@ -1,0 +1,2 @@
+Na osnovu člana 36 stav 21 Statuta Opštine Herceg Novi ("Sl. list RCG-Opštinski propisi", br.15/04, 32/05, 31/06, 14/07, "Sl. list CG-Opštinski propisi",br, 16/09, 16/11), Skupština opštine Herceg Novi, na sjednici održanoj dana 22.11.2012.godine, donosi
+R J E Š E Nj E o imenovanju Komisije za preispitivanje opravdanosti davanja garancije na zaključenje sudskog poravnanja u predmetima I.br.2063/2012, I.br.2064/2012,
