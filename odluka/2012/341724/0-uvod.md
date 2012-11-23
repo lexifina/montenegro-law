@@ -1,0 +1,2 @@
+Na osnovu člana 2 stav 2 i člana 3 stav 3 Zakona o referendumu ("Sl. list RCG", broj 9/01), a u vezi sa članom 29 Zakona o teritorijalnoj organizaciji Crne Gore ("Sl. list CG", br. 54/ll), član 34 stav 1 tačka 11 Statuta Opštine Plav, ("Sl. list RCG - Opštinski propisi", broj 17/07, "Sl. list - Opštinski propisi", br. 25/09, 38/l0), Skupština opštine Plav, na sjednici održanoj dana 23.11. 20l2. godine, donijela je
+O D L U K U
