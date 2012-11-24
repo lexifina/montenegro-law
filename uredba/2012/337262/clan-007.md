@@ -1,0 +1,2 @@
+# Član 7
+U postupku prodaje privremeno oduzete nepokretne imovine putem prikupljanja ponuda primjenjivaće se odredbe propisa o prodaji i davanju u zakup državne imovine, u pogledu: određivanja minimalne cijene, investicionih ulaganja, načina plaćanja, sprovođenja postupka prikupljanja ponuda, subjekata koji imaju pravo učešća u postupku prikupljanja ponuda, prava i obaveza u postupku prikupljanja ponuda i u prigovorima na rang listu, podnošenja i prijema ponuda, otvaranja i ocjene ponuda, ukoliko ovom uredbom nije drugačije propisano.

@@ -1,0 +1,2 @@
+# Član 6
+U postupku prodaje privremeno oduzete nepokretne imovine putem javnog nadmetanja, u dijelu koji se odnosi na: sadržinu javnog poziva, potrebnu dokumentaciju, prava i obaveze učesnika na javnom nadmetanju, registraciju i sprovođenje postupka javnog nadmetanja, primjenjivaće se odredbe propisa kojima je uređena prodaja i davanje u zakup državne imovine, ukoliko ovom uredbom nije drugačije propisano.
