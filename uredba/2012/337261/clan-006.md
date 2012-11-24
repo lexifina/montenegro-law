@@ -1,0 +1,2 @@
+# Član 6
+U postupku davanja u zakup privremeno oduzete imovine putem prikupljanja ponuda primjenjivaće se odredbe propisa o prodaji i davanju u zakup državne imovine, u pogledu: određivanja minimalne cijene, investicionih ulaganja, načina plaćanja, postupka sprovođenja postupka prikupljanja ponuda, subjekata koji imaju pravo učešća u postupku prikupljanja ponuda, podnošenja i prijema ponuda, otvaranja i ocjene ponuda, prigovora na rang listu, ukoliko ovom uredbom nije drugačije propisano.
