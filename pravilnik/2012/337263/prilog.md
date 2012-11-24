@@ -1,0 +1,298 @@
+Obrazac 1
+ZAPISNIK O POLAGANJU LOVAČKOG ISPITA
+PODACI O KOMISIJI
+Sastav ispitne komisije (ime i prezime):
+1. _______________________________
+2. _______________________________
+3. _______________________________
+Broj i datum donošenja rješenja kojim je obrazovana ispitna komisija: _____________
+PODACI O KANDIDATU
+Prezime, očevo ime i ime kandidata: __________________________________________ Datum, mjesto i država rođenja: _____________________________________________
+JMBG: _______________________________
+Adresa stanovanja: __________________________________
+Kontakt (telefon, e-mail): _____________________________________________________ Školska sprema kandidata _____________________________________________________
+NAZIVI PREDMETA I POSTAVLJENA PITANJA I OCJENA
+1. Zakon o divljači i lovstvu:
+___________________________________________________________________________
+____________________________________________________________________________
+_________________________________________________________________________
+2. Lovačka etika i lovački običaji:
+____________________________________________________________________________
+____________________________________________________________________________
+_________________________________________________________________________
+3. Rasprostranjenost i biologija divljači:
+____________________________________________________________________________
+____________________________________________________________________________
+_________________________________________________________________________
+4. Planiranje, organizacija i gazdovanje lovištem:
+____________________________________________________________________________
+____________________________________________________________________________
+_________________________________________________________________________
+5. Lovačko oružje, municija i oprema, osnovi balistike i lovnog streljaštva:
+____________________________________________________________________________
+____________________________________________________________________________
+_________________________________________________________________________
+6. Lov divljači i postupanje sa odstrijeljenom divljači:
+____________________________________________________________________________
+____________________________________________________________________________
+_________________________________________________________________________
+7. Lovački trofeji:
+____________________________________________________________________________
+____________________________________________________________________________
+_________________________________________________________________________
+8. Lovna kinologija:
+____________________________________________________________________________
+____________________________________________________________________________
+_________________________________________________________________________
+9. Bolesti divljači i lovačkih pasa:
+____________________________________________________________________________
+____________________________________________________________________________
+_________________________________________________________________________
+10. Prva pomoć u lovu:
+____________________________________________________________________________
+____________________________________________________________________________
+_________________________________________________________________________
+Napomene: ____________________________________________________________________
+______________________________________________________________________________ ______________________________________________________________________________
+Opšta ocjena uspjeha kandidata: ________________________________
+Potpis članova ispitne komisije:
+1. _____________________ , predsjednik
+2. _____________________
+3. _____________________
+Potpis zapisničara (sekretara)
+_______________________
+Broj: ___________________
+U _____________________, 20___ godine
+Obrazac 2
+ZAPISNIK O POLAGANJU SOKOLARSKOG ISPITA
+PODACI O KOMISIJI
+Sastav ispitne komisije (ime i prezime):
+1. _______________________________
+2. _______________________________
+3. _______________________________
+Broj i datum donošenja rješenja kojim je obrazovana ispitna komisija: _____________
+PODACI O KANDIDATU
+Prezime, očevo ime i ime kandidata: ________________________________________ Datum, mjesto i država rođenja: ____________________________________________
+JMBG: _______________________________
+Adresa stanovanja: __________________________________
+Kontakt (telefon, e-mail): _____________________________________________________ Školska sprema kandidata _____________________________________________________
+NAZIVI PREDMETA I POSTAVLJENA PITANJA I OCJENA:
+1. Propisi
+koji
+se
+odnose
+na
+sokolarstvo
+uključujući
+i
+međunarodne
+konvencije:
+_______________________________________________________________________________
+_______________________________________________________________________________
+____________________________________________________________________________
+2. Istorijat sokolarstva:
+_______________________________________________________________________________
+_______________________________________________________________________________
+____________________________________________________________________________
+3. Biologija sokolarskih ptica:
+_______________________________________________________________________________
+_______________________________________________________________________________
+____________________________________________________________________________
+4. Smještaj i ishrana sokolarskih ptica:
+_______________________________________________________________________________
+_______________________________________________________________________________
+____________________________________________________________________________
+5. Sokolarska oprema:
+_______________________________________________________________________________
+_______________________________________________________________________________
+____________________________________________________________________________
+6. Obuka sokolarskih ptica i načini lova:
+_______________________________________________________________________________
+_______________________________________________________________________________
+____________________________________________________________________________
+Ocjena uspjeha kandidata: ________________________________
+Potpis članova ispitne komisije:
+1. _________________________ , predsjednik
+2. _________________________
+3.__________________________
+Potpis zapisničara (sekretara)
+_______________________
+Broj: ___________________
+U ____________________, 20___ godine
+Obrazac 3
+ZAPISNIK O POLAGANJU ISPITA ZA OCJENJIVAČA TROFEJA DIVLJAČI
+PODACI O KOMISIJI
+Sastav ispitne komisije (ime i prezime):
+1. _______________________________
+2. _______________________________
+3. _______________________________
+Broj i datum donošenja rješenja kojim je obrazovana ispitna komisija: _____________
+PODACI O KANDIDATU
+Prezime, očevo ime i ime kandidata: ________________________________________ Datum, mjesto i država rođenja: ___________________________________________
+JMBG: _______________________________
+Adresa stanovanja: __________________________________
+Kontakt (telefon, e-mail): _____________________________________________________ Školska sprema kandidata _____________________________________________________
+NAZIVI PREDMETA I POSTAVLJENA PITANJA I OCJENA:
+1. Razvoj lovstva, svrha i značenje trofeja, kratak istorijat ocenjivanja divljači i trofeja divljači:
+_______________________________________________________________________________
+_______________________________________________________________________________
+____________________________________________________________________________
+2. Lovačke smotre i izložbe, značaj i kratak pregled domaćih i međunarodnih izložbi:
+_______________________________________________________________________________
+_______________________________________________________________________________
+____________________________________________________________________________
+3. Obrada i priprema lovačkih trofeja:
+_______________________________________________________________________________
+_______________________________________________________________________________
+____________________________________________________________________________
+4. Razlikovanje tipičnih i atipičnih trofeja divljači, abnormalnosti trofeja divljači:
+_______________________________________________________________________________
+_______________________________________________________________________________
+____________________________________________________________________________
+5. Način ocenjivanja trofeja divljači u skladu sa Zakonom o divljači i lovstvu:
+_______________________________________________________________________________
+_______________________________________________________________________________
+____________________________________________________________________________
+Ocjena uspjeha kandidata: ________________________________
+Potpis članova ispitne komisije:
+1. ______________________ , predsjednik
+2. ______________________
+3._______________________
+Potpis zapisničara (sekretara)
+_______________________
+Broj: ___________________
+U ____________________, 20___ godine
+Obrazac 4
+Na osnovu Pravilnika o programu, sadržaju, načinu i visini troškova polaganja lovačkog ispita, sokolarskog ispita i ispita za ocjenjivača trofeja divljači ("Službeni list Crne Gore", broj __________, Lovački savez Crne Gore izdaje
+U V J E R E NJ E
+O POLOŽENOM LOVAČKOM ISPITU
+_______________________________________________________________
+(Prezime, ime oca i ime)
+Datum i mjesto rođenja __________________________________________________
+JMBG ________________________________________
+Evidencija položenog ispita
+Broj _______________________
+U __________________, 20 ___ godine
+Članovi ispitne komisije (ime i prezime i potpis):
+Predsjednik Lovačkog saveza
+Crne Gore
+______________________
+1.______________________________
+2.______________________________
+M.P.
+3.______________________________
+Obrazac 5
+Na osnovu Pravilnika o programu, sadržaju, načinu i visini troškova polaganja lovačkog ispita, sokolarskog ispita i ispita za ocjenjivača trofeja divljači ("Službeni list Crne Gore", broj __________, Lovački savez Crne Gore izdaje
+U V J E R E NJ E
+O POLOŽENOM SOKOLARSKOM ISPITU
+_______________________________________________________________
+(Prezime, ime oca i ime)
+Datum i mjesto rođenja __________________________________________________
+JMBG ________________________________________
+Evidencija položenog ispita
+Broj ___________________________________
+U __________________, ___________ 20 ___ godine.
+Članovi ispitne komisije (ime i prezime i potpis):
+Predsjednik Lovačkog saveza
+Crne Gore
+_______________________
+1.______________________________
+2.______________________________ M.P.
+3. ______________________________
+Obrazac 6
+Na osnovu Pravilnika o programu, sadržaju, načinu i visini troškova polaganja lovačkog ispita, sokolarskog ispita i ispita za ocjenjivača trofeja divljači ("Službeni list Crne Gore", broj __________, Lovački savez Crne Gore izdaje
+U V J E R E NJ E
+O POLOŽENOM ISPITU ZA OCJENJIVANJE TROFEJA DIVLJAČI
+_______________________________________________________________
+(Prezime, ime oca i ime)
+Datum i mjesto rođenja __________________________________________________
+JMBG ________________________________________
+Evidencija položenog ispita
+Broj ___________________________________
+U __________________, ___________ 20 ___ godine.
+Članovi ispitne komisije (ime i prezime i potpis):
+Predsjednik Lovačkog saveza
+Crne Gore
+________________________
+1.______________________________
+2.______________________________ M.P.
+3. _____________________________
+Obrazac 7
+EVIDENCIJA POLOŽENIH LOVAČKIH ISPITA I IZDATIH UVJERENJA O POLOŽENOM LOVAČKOM ISPITU
+Broj ________
+Evidencija položenih lovačkih ispita i izdatih uvjerenja o
+položenom lovačkom ispitu
+R/b
+Prezime, očevo
+ime i ime
+kandidata
+Datum,
+mjesto i
+država
+rođenja
+Mjesto i
+datum
+polaganja
+ispita
+JMBG
+Broj izdatog
+uvjerenja o
+položenom
+ispitu i datum
+izdavanja
+Naziv i sjedište
+korisnika lovišta
+kod kojeg je
+kandidat učlanjen
+Obrazac 8
+EVIDENCIJA POLOŽENIH SOKOLARSKIH ISPITA I IZDATIH UVJERENJA O POLOŽENOM SOKOLARSKOM ISPITU
+Broj ________
+Evidencija položenih sokolarskih ispita i izdatih uvjerenja o
+položenom sokolarskom ispitu
+R/b
+Prezime, očevo ime
+i ime kandidata
+Datum i
+mjesto
+rođenja
+JMBG
+Mjesto i
+datum
+polaganja
+ispita
+Broj izdatog
+uvjerenja o
+položenom
+ispitu i datum
+izdavanja
+Naziv i sjedište
+korisnika lovišta
+kod kojeg je
+kandidat učlanjen
+Obrazac 9
+EVIDENCIJA POLOŽENIH ISPITA ZA OCJENJIVAČA TROFEJA DIVLJAČI I IZDATIH UVJERENJA O POLOŽENOM ISPITU ZA OCJENJIVAČA TROFEJA DIVLJAČI
+Broj ________
+Evidencija položenih ispita za ocjenjivača trofeja divljači i
+izdatih uvjerenja o
+položenom ispitu ocjenjivača trofeja divljači
+R/b
+Prezime, očevo
+ime i ime
+kandidata
+Datum i
+mjesto
+rođenja
+JMBG
+Mjesto i
+datum
+polaganja
+ispita
+Broj izdatog
+uvjerenja o
+položenom
+ispitu i datum
+izdavanja
+Naziv i sjedište
+korisnika lovišta
+kod kojeg je
+kandidat učlanjen
