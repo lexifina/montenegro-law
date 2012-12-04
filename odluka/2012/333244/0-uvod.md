@@ -1,0 +1,2 @@
+Na osnovu člana 51 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/07, 75/05, 13/06 i "Sl. list CG", br. 88/09 i 3/10), člana 3 Zakona o prekršajima ("Sl. list Crne Gore", broj 1/11) i čl. 33 i 37 Statuta Opštine Berane ("Sl. list. RCG-Opštinski propisi", br. 21/04, 34/06 i "Sl. list CG- Opštinski propisi", broj 06/11) na sjednici održanoj dana 13. 11. 2012. godine, donijela je
+O D L U K A
