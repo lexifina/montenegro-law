@@ -1,0 +1,2 @@
+Na osnovu čl. 33 i 37 Statuta Opštine Berane ("Sl. list RCG - Opštinski propisi", br. 21/04 i 34/06 i "Sl. list CG - Opštinski propisi", broj 6/11) i člana 25 Odluke o osnivanju društva sa ograničenom odgovornošću Lokalni javni emiter Radio Berane ("Sl. list CG - Opštinski propisi", br. 16/11 i 20/11), na predlog Odbora za izbor i imenovanja, Skupština opštine Berane je na sjednici održanoj dana 13. 11. 2012. godine, donijela je
+O D L U K U
