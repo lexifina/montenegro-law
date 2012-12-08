@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 5 i člana 45 stav 2 Zakona o prevozu u drumskom saobraćaju ("Sl. list RCG", br.45/05), čl. 3 i 12 Zakona o komunalnim djelatnostima ("Sl. list RCG", br. 12/95) i člana 34 Statuta Opštine Plav ("Sl. list RCG-Opštinski propisi", br. 17/07) i ("Sl. list CG - Opštinski propisi", br. 25/09, 38/10), a u vezi čl. 3 i 24 Zakona o prekršajima ("Sl. list CG", br. 1/11, 6/11, 39/11), Skupština opštine Plav, na sjednici održanoj 23.11.2012 godine, donijela je
+O D L U K U
