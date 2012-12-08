@@ -1,0 +1,2 @@
+# Član 2
+Izmjenama i dopunama plana obuhvaćeno je područje površine 46,83 ha. Granica Izmjena i dopuna Plana definisana je osovinama saobraćajnica i počinje od raskrsnice Ulice Jovana Tomaševića i Ulice 13 Jul, ide u pravcu jugozapada Ulicom Jovana Tomaševića i Ulicom Ivana Milutinovića do raskrsnice sa Bulevarom Revolucije, nastavlja u pravcu sjeverozapada Bulevarom Revolucije do raskrsnice sa Ulicom Moskovskom, u pravcu sjeveroistoka Ulicom Moskovskom do raskrsnice sa Ulicom 13 Jul, i u pravcu jugoistoka Ulicom 13 jula do početne tačke.
