@@ -1,0 +1,2 @@
+Na osnovu čl. 3 i 12 Zakona o komunalnim djelatnosti ("Sl. list RCG", br. 12/95), člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09), člana 34 Statuta Opštine Plav ("Sl. list RCG - Opštinski propisi", broj 17/07 i "Sl. list CG - Opštinski propisi", br. 25/09, 38/10), a u vezi sa čl. 3, 24 i 25 Zakona o prekršajima ("Sl. list CG", br. 1/11, 6/11, 39/11), Skupština opštine Plav, na sjednici održanoj 23.11.2012.godine, donijela je
+O D L U K U
