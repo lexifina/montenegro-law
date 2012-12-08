@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom uređuju se sadržaj i vrsta podataka koje obveznik koji obavlja usluge platnog prometa ili prenosa novca (u daljem tekstu: pružalac usluga) prikuplja o uplatiocu odnosno unosi u obrazac ili poruku koja prati elektronski prenos novčanih sredstava, druge aktivnosti pružaoca usluga, kao i izuzeci u prikupljanju podataka o uplatiocu pri elektronskom prenosu novčanih sredstava koji predstavljaju neznatan rizik za pranje novca i finansiranje terorizma.
