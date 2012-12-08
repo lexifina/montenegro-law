@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Sl list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09) člana 63 Stav 4 Zakona o prevozu u drumskom saobraćaju ("Sl. list RCG", br. 45/05) i člana 34 Statuta Opštine Plav ("Sl. list RCG - Opštinski propisi", broj 17/07 i "Sl. list Opštinski propisi", br. 25/09, 38/10), a u vezi čl. 3, 24 i 25 Zakona o prekršajima ("Sl. list CG", br. 01/11, 06/11, 39/11), Skupština opštine Plav, na sjednici održanoj 23.11.2012.godine, donijela je
+O D L U K U
