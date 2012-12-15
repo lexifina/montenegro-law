@@ -1,0 +1,4 @@
+# Član 1
+## o pokretanju postupka za izbor strateškog partnera za izgradnju hotela u sklopu Sportsko-rekreativnog centra "Solila" u Igalu
+Opština Herceg Novi pokreće postupak za izbor strateškog partnera za izgradnju hotela u sklopu sportsko-rekreativnog centra Solila u Igalu, na lokalitetu označenom kao kat. parcele 224, 225, 226, 227, 228 i 229 K.O. Sutorina u Igalu, a sve u skladu sa Detaljnim urbanističkim planom "Stara banja-IGALO".
+U postupku izbora strateškog partnera za izgradnju hotela na lokalitetu označenom u stavu 1 ovog člana Opština Herceg Novi unosi pravo vlasništva na formiranoj urbanističkoj parceli UP172, površine 3505 m2, shodno izvodu iz plana parcelacije Detaljnog urbanističkog plana "Stara banja-IGALO" datog u prilogu, kao i naknadu za komunalno opremanje građevinskog zemljišta.
