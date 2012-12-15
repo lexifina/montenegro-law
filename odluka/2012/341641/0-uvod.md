@@ -1,0 +1,2 @@
+Na osnovu člana 2 Zakona o bezbjednosti saobraćaja na putevima ("Sl. list RCG", br. 72/05, 27/06 i 45/07 i "Sl. list CG", broj 75/10), člana 58 stav 1 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, i "Sl. list CG", br. 88/09 i 3/10) i člana 86 stav 1 Statuta Opštine Ulcinj ("Službeni list CG - Opštinski propisi", br. 05/07, 09/09 i 16/11), predsjednik Opštine Ulcinj, dana 04.07.2012. godine, donio je
+O D L U K U
