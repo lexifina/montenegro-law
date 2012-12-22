@@ -1,0 +1,3 @@
+# Član 2
+Odredbe ovog pravilnika primjenjuju se za vanaerodromsko slijetanje i polijetanje vazduhoplova na kopnu, morskoj i drugim vodenim površinama koje se obavljaju u skladu sa pravilima vizuelnog letenja propisanim Pravilnikom o letenju vazduhoplova i Pravilnikom o klasama crnogorskog vazdušnog prostora i uslovima za njihovo korišćenje, kao i odredbama drugih propisa kojima su uređene operacije koje se vrše vazduhoplovom.
+Operator vazduhoplova dužan je nakon slijetanja, tokom taksiranja i prije polijetanja, da se pridržava svih zahtjeva i preporučene prakse plovidbe na moru i unutrašnjim vodama.

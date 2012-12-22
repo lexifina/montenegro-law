@@ -1,0 +1,3 @@
+# Član 13
+Za vrijeme prilaza za slijetanje, slijetanja, polijetanja i putanje odlaska, kao i uz to vezanih manevara, minimalno rastojanje između vazduhoplova i lica i imovine mora iznositi najmanje 150 metara od vazduhoplova koji se koristi.
+Izuzetno od stava 1 ovog člana Agencija može, na zahtjev operatora vazduhoplova, odobriti slijetanje i polijetanje vazduhoplova i na manjoj udaljenosti od lica i imovine, kao i zonama u kojima je zabranjeno vanaerodromsko slijetanje i polijetanje vazduhoplova u slučajevima organizovanja aeromintinga, sportskih takmičenja padobranaca, paraglajdera, zmajara i drugo.
