@@ -1,0 +1,4 @@
+# Član 18
+## Poslovi medicinske službe u vanrednim situacijama
+(1) U vanrednim situacijama na aerodromu za pružanje usluga vaudušnog prevoza medicinska služba postupa u skladu sa odobrenim Planom za vanredne situacije (Airport Emergency Plan) koji je dio aerodromskog priručnika. (2) Osoblje medicinske službe treba biti upoznato sa Planom za vanredne situacije i učestvovati u provjeri Plana. (3) U slučaju nesreće vazduhoplova medicinska služba na aerodromu za pružanje usluga vazdušnog prevoza treba da pruži prvu pomoć povrijeđenima, razvrsta povrijeđene po težini povreda, pruži medicinsko zbrinjavanje i organizuje prevoz povrijeđenih do medicinske ustanove.
+(4) Za uspješnu intervenciju prilikom nesreće vazduhoplova osoblje službe treba da bude osposobljeno u cilju brze intervencije, uvježbanosti i efikane upotrebe medicinske opreme.
