@@ -1,0 +1,2 @@
+Na osnovu člana 15 Odluke o organizovanju Javnog preduzeća "Vodovod i kanalizacija" Cetinje ("Sl. list SRCG - Opštinski propisi", br. 14/90, 20/91 ("Sl. list RCG - Opštinski propisi", br. 22/92, 7/98, 20/99, 20/03, 40/06 i "Sl. list CG - Opštinski propisi", br. 17/10 i 10/11) i člana 63 stav 1 tačka 41 Statuta Prijestonice ("Sl. list CG - Opštinski propisi", br. 19/09 i 37/10), Skupština Prijestonice Cetinje, na sjednici održanoj dana 04.12.2012. godine, donijela je
+O D L U K A
