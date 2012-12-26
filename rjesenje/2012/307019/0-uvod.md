@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 2 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list Crne Gore", br. 88/09, 03/10, 73/10 i 38/12) i člana 30 Statuta Opštine Kotor ("Službeni list Opštine Kotor", broj 3/04 i "Službeni list Crne Gore - Opštinski propisi", broj 17/08 i 31/09, 40/10 i 04/11), Skupština opštine Kotor, na sjednici održanoj 05. 12. 2012. godine, donijela je
+R J E Š E NJ E
