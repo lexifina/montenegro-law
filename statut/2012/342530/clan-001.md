@@ -1,0 +1,2 @@
+# Član 1
+Statutom Opštine Mojkovac (u daljem tekstu: Statut) uređuju se pitanja koja se naročito odnose na:pravni status Opštine; imovinu i finansiranje; organe Opštine; mjesnu samoupravu; učešće građana u ostvarivanju lokalne samouprave; odnose i saradnju organa Opštine sa građanima, nevladinim organizacijama i drugim subjektima; javnost i transparentnost rada; poslove lokalne samouprave i druga pitanja od značaja za njen rad.
