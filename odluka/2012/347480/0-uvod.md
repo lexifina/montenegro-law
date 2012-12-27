@@ -1,0 +1,2 @@
+Na osnovu člana 44 st. 2, 3 i 4 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", br. 42/03 i 44/03 i "Službeni list CG", br. 5/08 i 74/10), a u vezi sa članom 28 Zakona o budžetu ("Službeni list RCG", br. 40/01, 44/01,28/04 i 71/05 i "Službeni list CG", br. 12/07, 73/08, 53/09, 46/10 i 49/10) i čl. 32 i 43 i člana 44 stav 5 Statuta Opštine Nikšić ("Službeni list RCG-Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG- Opštinski propisi", broj 24/10), Skupština opštine Nikšić na sjednici održanoj 25.12.2012.godine, donijela je
+O D L U K U
