@@ -1,0 +1,2 @@
+Na osnovu člana 2 Zakona o sportu ("Sl. list CG", broj 36/11), člana 2 stav 2 Odluke o izmjeni i dopuni Odluke o organizovanju JU "Sportska dvorana" u Tivtu ("Sl. list CG - Opštinski propisi", broj 33/12) i člana 31 stav 1 tačka 43 Statuta Opštine Tivat ("Sl. list RCG - Opštinski propisi", br. 40/04, 26/06 i "Sl. list Crne Gore - Opštinski propisi", br. 12/11 i 21/11), Skupština opštine Tivat, na sjednici održanoj 28.12.2012. godine, donijela je
+O D L U K U
