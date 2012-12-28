@@ -1,0 +1,2 @@
+Na osnovu člana 51 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06, "Službeni list CG", br. 88/09, 3/10 i 38/12), člana 3 Odluke o obrazovanju radnih tjela Skupštine opštine Budva ("Službeni list opštine Budva", broj 04/05) i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", broj 19/10), Skupština opštine Budva, na sjednici održanoj dana 28. decembra 2012. godine, donijela je
+O D L U K U
