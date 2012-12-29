@@ -1,0 +1,2 @@
+Na osnovu člana 48 stav 1 alineja 48 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", broj 28/06 i "Sl. list CG - Opštinski propisi", br. 39/10 i 18/12) i člana 13 stav 1 alineja 1 Odluke o osnivanju "Parking servis Podgorica" d.o.o. Podgorica ("Sl. list RCG-Opštinski propisi", broj 50/06 i "Sl. list CG-Opštinski propisi", broj 40/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 17. decembra 2012. godine, donijela je
+O D L U K U
