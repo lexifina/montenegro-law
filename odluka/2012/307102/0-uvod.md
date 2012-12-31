@@ -1,0 +1,2 @@
+Na osnovu člana 28. Zakona o budžetu ( "Službeni list RCG" , br. 40/2001, 44/2001 i 71/2005, "Službeni list CG" , br. 12/2007, 53/2009 i 49/2010 ), člana 44. Zakona o finansiranju lokalne samouprave ( "Službeni list RCG" br. 42/03 i 44/03, "Službeni list CG" , br. 05/08 i 74/2010 ) i člana 34. Statuta Opštine Pljevlja ( "Službeni list RCG - Opštinski propisi" , br. 37/04, 30/07 i "Službeni list CG - Opštinski propisi" , br. 32/09 i 14/11 ), Skupština opštine Pljevlja je, na sjednici održanoj 24 i 25.12.2012. godine, donijela
+ODLUKU
