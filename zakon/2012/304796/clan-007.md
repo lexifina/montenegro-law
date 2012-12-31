@@ -1,0 +1,5 @@
+# Član 7
+Prihode koje ostvari potrošačka jedinica sopstvenom djelatnošću, a na osnovu zakonskih ovlašćenja, služiće isključivo za finansiranje izdataka te potrošačke jedinice, do iznosa koji su planirani Budžetom.
+Izdaci potrošačke jedinice koji se finansiraju iz prihoda koji su namjenski opredjeljeni u skladu sa zakonom, izvršavaće se u visini njihovog ostvarenja, a do iznosa planiranih Budžetom.
+Potrošnja u tekućem mjesecu iz st. 1 i 2 ovog člana odobravaće se na osnovu izvještaja Državnog trezora o ostvarenju prihoda iz st. 1 i 2 ovog člana za prethodni mjesec, osim za januar mjesec. Za januar mjesec ova sredstva odobravaće se po mjesečnom planu potrošnje.
+Prihodi koje Ministarstvo odbrane ostvari od prodaje naorožanja i vojne opreme, prodaje i izdavanja bivše vojne imovine (nepokretnosti) i pružanja usluga, izvršavaće se do 4.500.000,00 € i služiće isključivo za finansiranje realizacije partnerskih ciljeva i opremanje Vojske u skladu sa NATO standardima. Ove izdatke Ministarstvo odbrane evidentiraće na izdacima: 4415 - Izdaci za opremu, kao prihod od sopstvene djelatnosti do visine njihovog ostvarenja
