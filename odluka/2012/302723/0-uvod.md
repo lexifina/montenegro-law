@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Službeni list CG", broj 46/11) i člana 32 tačka 42 i člana 40 Statuta Opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG-Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 27.12.2012. godine, donijela je
+O D L U K U
