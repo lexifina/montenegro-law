@@ -1,0 +1,2 @@
+Na osnovu člana 49 Poslovnika Skupštine Crne Gore ("Službeni list RCG", br. 51/06, 66/06 i "Službeni list CG", br. 88/09, 80/10, 39/11 i 25/12), a u vezi sa članom 33a stav 2 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02 i 46/02,45/04, 56/06 i "Službeni list CG", broj 46/11), Administrativni odbor Skupštine Crne Gore 25. saziva, na trećoj sjednici, održanoj 27. decembra 2012. godine, donio je
+ODLUKU O UTVRĐIVANJU ZARADE I DRUGIH PRIMANJA PREDSJEDNIKA I SEKRETARA DRŽAVNE IZBORNE KOMISIJE
