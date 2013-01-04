@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 tačka 9, a u vezi sa članom 103 stav 8 Zakona o vazdučnom saobraćaju ("Službeni list CG", broj 30/12), uz saglasnost Ministarstva saobraćaja i pomorstva, Agencija za civilno vazduhoplovstvo, donijela je
+PRAVILNIK O RADNOM VREMENU, VREMENU LETA, DNEVNOM, NEDELJNOM I GODIŠNJEM ODMORU, TRAJANJU PREVOZA I OBAVEZE DEŽURSTVA, BROJU POLIJETANJA I SLIJETANJA KAO I ZDRAVSTVENIM I MJERAMA ZAŠTITE U VEZI SA OBAVLJANJEM DUŽNOSTI POSADE VAZDUHOPLOVA*

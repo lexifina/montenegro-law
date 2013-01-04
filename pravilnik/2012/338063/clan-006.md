@@ -1,0 +1,5 @@
+# Član 6
+## Planiranje radnog vremena i trajanja letačke dužnosti
+Prilikom planiranja, rasporeda radnog vremena, vazduhoplovni subjekat obezbjeđuje srazmjeru između učestalosti i trajanja letačke dužnosti i učestalosti i trajanja odmora, i u najvećoj mjeri smanjuje negativan uticaj, koji ima na člana posade rad s punim radnim vremenom uz najkraći odmor.
+Prilikom planiranja trajanja letačke dužnosti, vazduhoplovni subjekat treba da izbjegava naizmjenično smjenjivanje dnevnih i noćnih letačkih dužnosti, pozicioniranje člana posade kojim se ozbiljno remeti njegov redovan tok spavanja i vršenja dužnosti i spriječi nastupanje pretjeranog zamora koji bi članu posade otežao da, s prihvatljivim nivoom sigurnosti, vrši letačku dužnost.
+O slobodnim danima koje planira za člana posade, vazduhoplovni subjekat ga obavještava najmanje sedam dana prije početka korišćenja slobodnih dana. Prilikom planiranja slobodnih dana mora se voditi računa da se slobodni dani, kad god je moguće, koriste u mjestu stanovanja člana posade.
