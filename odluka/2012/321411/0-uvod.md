@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 48/06 i "Službeni list CG", broj 24/10) i člana 32 tačka 18 Statuta Opštine Andrijevica (''Službeni list RCG - Opštinski propisi'', br.21/04 , 42/06 i ''Službeni list CG - Opštinski propisi'', broj 02/11), Skupština opštine Andrijevica, na sjednici održanoj 29.12.2012.godine, donijela je
+O D L U K U
