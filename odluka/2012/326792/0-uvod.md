@@ -1,0 +1,3 @@
+Na osnovu člana14. i 20. Zakona o podizanju spomen-obilježja ( "Sl.list CG", broj 40/08 ), člana 33. Statuta Opštine Pljevlja ( "Sl.list RCG-opštinski propisi", br. 37/04, 30/07, "Sl.list CG -opštinski propisi", br. 32/09, 14/11) i Programa podizanja spomen-obilježja na području Opštine Pljevlja u 2012. godini, Skupština opštine Pljevlja na sjednici održanoj dana 24. i 25.12.2012. godine, donijela je
+O D L U K A
+o podizanju spomen - obilježja ratnicima Premćansko-kosaničkog bataljona, Pljevaljske brigade i četi Rasavskoj u Durmitorskoj brigadi , koji su učesnici ratova 1875. godine , Prvog balkanskog rata, Drugog balkanskog rata i Prvog svjetskog rata
