@@ -1,0 +1,2 @@
+# Član 3
+Uslov za dodjelu sredstava za rješavanje stambenog pitanja je da zaposleni u lokalnoj upravi i javnim službama čiji je osnivač Opština - JSKP Plužine, Centru za kulturu i Turističkoj organizaciji Plužine stambenu pitanje rješava u sambeno-poslovnoj zgradi u Plužinama, ul. Marka Kulića i da to dokaže potpisanim ugovorom o kupovini stana sa Investitorom - Fondom za solidarnu stambenu izgradnju DOO Podgorica iz Podgorice.
