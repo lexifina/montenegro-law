@@ -1,0 +1,2 @@
+# Član 14
+Kada su naknade osigurane ugovorom direktno vezane za indeks dionica ili neku drugu referentnu vrijednost različitu od onih navedenih u prethodnom članu, posebne rezerve za te naknade moraju biti obračunate u visini što je moguće približnije vrijednosti jedinice za koju se smatra da predstavlja referentnu vrijednost ili, u slučaju kada jedinice nijesu određene, imovini odgovarajuće sigurnosti i mogućnosti prodaje koja korespondira što je moguće približnije onima na kojima se određena referentna vrijednost zasniva.
