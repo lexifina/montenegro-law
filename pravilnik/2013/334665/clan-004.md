@@ -1,0 +1,4 @@
+# Član 4
+U poslovnim prostorijama banke mora biti vidno označeno mjesto na kome se obavljaju poslovi zastupanja u osiguranju, koje će imati odgovarajuću računarsku opremu i programsku podršku za obavljanje poslova zastupanja u osiguranju, kao i istaknut naziv društva za osiguranje koje banka zastupa.
+Ako banka zastupa više društva za osiguranje za konkurentne proizvode, lica koja obavljaju poslove zastupanja u osiguranju u banci ne smiju ni na koji način uticati na ugovornika, odnosno osiguranika u izboru društva za osiguranje.
+U prostoru na kome se obavljaju poslovi zastupanja u osiguranju u banci mora biti izložen po abecednom redu odštampani spisak svih društava za osiguranje sa kojima banka ima sklopljen ugovor o zastupanju, koji uključuje i vrste osiguranja koje banka nudi za pojedina društva.
