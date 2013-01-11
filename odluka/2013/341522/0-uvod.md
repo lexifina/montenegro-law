@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 20 Zakona o lokalnoj samoupravi (,,Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, ,,Sl. list CG", br. 88/09, 03/10 i 38/12) i člana 31 stav 1 tač. 25 i 35 Statuta Opštine Danilovgrad (,,Sl. list RCG - Opštinski propisi", broj 30/04, ,,Sl. list CG - Opštinski propisi", br. 19/08 i 12/11), Skupština opštine Danilovgrad, na sjednici održanoj 27.12. 2012. godine, donosi
+O D L U K U
