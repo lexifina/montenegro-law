@@ -1,0 +1,2 @@
+Na osnovu člana 52 stav 5 Zakona o obaveznom osiguranju u saobraćaju ("Sl. list CG" br. 44/12 od 09. 08. 2012.), na sjednici održanoj 26. 12. 2012. godine, Savjet Agencije za nadzor osiguranja donio je
+P R A V IL N IK O SADRŽINI IZVJEŠTAJA, OBAVJEŠTENJA I DRUGIH PODATAKA KOJE UDRUŽENJE - NACIONALNI BIRO OSIGURAVAČA CRNE GORE DOSTAVLJA AGENCIJI ZA NADZOR OSIGURANJA I O NAČINU I ROKOVIMA NJIHOVOG DOSTAVLJANJA
