@@ -1,0 +1,2 @@
+Na osnovu člana 58 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06, "Sl. list Crne Gore", br. 88/09, 03/10 i 38/12), člana 65 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", broj 42/03 "Službeni list CG", br. 05/08, 51/08 i 74/10) i člana 32 tačka 15 Statuta Opštine Andrijevica ("Sl. list RCG - Opštinski propisi", br. 21/04 i 42/06, "Službeni list Crne Gore - Opštinski propisi", broj 02/11), Skupština opštine Andrijevica, na sjednici održanoj dana, 29.12.2012. godine, donijela je
+O D L U K U
