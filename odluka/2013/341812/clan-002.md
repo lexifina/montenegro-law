@@ -1,0 +1,3 @@
+# Član 2
+Javni interes za potpunu eksproprijaciju iz člana 1 ove odluke utvrđuje se na:
+- dio kat. parc. br. 174 označen u Elaboratu kao kat. parcela br. 174/2 pov. 187m², LN. br. 45 KO Gorica susvojina Đurović M. Živorad ¼, Vukčević S. Sonja 1/120, Stojanović Vesna 1/96, Popović S. Ksenija 1/24, Sekulić M. Ratka 1/96, Sekulić B. Predrag 1/96, Sekulić S. Puniša 1/120, Milošević Duška 1/96, Sekulić S. Žarko 1/24, Šćepanović S. Nataša 1/120, Obradović L. Svetlana ¼, Pajović S. Ljiljana 1/120, Sekulić B. Srđa 1/96, Radičević Lela 1/96, Sekulić B. Veljko 1/96, Sekulić Milka 1/120, Pavličić N. Veselin ¼, Sekulić S. Dragiša 1/24, Stamatović Neško 1/96.
