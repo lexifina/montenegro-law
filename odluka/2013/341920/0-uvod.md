@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06, i "Službeni list CG", br. 88/09, 03/10 i 38/12), čl. 3, 9 i 31 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), Zaključka Vlade Crne Gore o davanju prethodne saglasnosti broj 06-1250/3 od 21.06.2012.godine i člana 40 Statuta Opštine Budva (" Službeni list CG - Opštinski propisi", broj 19/10), Skupština opštine Budva, na sjednici održanoj dana 28. decembra 2012.godine, donijela je
+O D L U K U
