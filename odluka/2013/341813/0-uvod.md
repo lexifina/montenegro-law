@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2, člana 34 stav 3, člana 40 stav 1 Zakona o državnoj imovini ("Sl. list CG", broj 21/09), Zaključka Vlade Crne Gore broj: 06 - 2194/3 od 08. novembra 2012. godine i člana 35 Statuta Opštine Danilovgrad ("Sl. list RCG -Opštinski propisi", broj 30/04 i "Sl. list CG - Opštinski propisi", br. 19/08 i 12/11), Skupšina opštine Danilovgrad, na sjednici održanoj dana 27.12. 2012. godine, donosi
+O D L U K U
