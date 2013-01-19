@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim Statutom uređuju se pitanja od značaja za organizaciju, upravljanje, rad i funkcionisanje Javne ustanove Gradska biblioteka i čitaonica Herceg Novi (u daljem tekstu: Biblioteka): naziv i sjedište; zastupanje i predstavljanje; djelatnost; sastav, djelokrug rada, način imenovanja i razrješenja organa upravljanja; način utvrđivanja i razrješenja kandidata iz reda zaposlenih za člana organa upravljanja; djelokrug rada, uslovi i postupak za izbor i razrješenje direktora Biblioteke (u daljem tekstu: direktor); sastav i djelokrug rada drugih organa Biblioteke; finansiranje i planiranje; opšta akta Biblioteke i način njihovog donošenja; javnost rada i druga pitanja u skladu sa zakonom i Odlukom o organizovanju.
