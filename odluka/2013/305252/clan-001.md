@@ -1,0 +1,3 @@
+# Član 1
+## o izmjenama i dopunama Statuta Opštine Tivat
+U Statutu Opštine Tivat ("Sl. list RCG - Opštinski propisi", br. 40/04 i 26/06 i "Sl. list Crne Gore-Opštinski propisi", br. 12/11 i 21/11) član 1 mijenja se i glasi: "Statutom Opštine Tivat (u daljem tekstu: Statut) uređuju se prava i dužnosti opštine i način njihovog ostvarivanja, poslovi i način odlučivanja lokalnog stanovništva, način i uslovi vršenja sopstvenih poslova, organizacija i način rada organa, način donošenja propisa, način vršenja nadzora nad radom organa opštine i javnih službi, način obezbjeđenja javnosti rada organa i javnih službi, finansiranje, ustanovaljavanje simbola, praznik opštine i druga pitanja od značaja za funkcionisanje lokalne samouprave".

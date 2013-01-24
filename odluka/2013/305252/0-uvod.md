@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list Crne Gore", br. 88/09, 13/10 i 38/12) i člana 123 Statuta Opštine Tivat ("Sl. list RCG - Opštinski propisi", br. 40/04 i 26/06 i "Sl. list CG - Opštinski propisi", br. 12/11 i 21/11), i člana 1 Odluke o pristupanju izmjenama i dopunama Statuta Opštine Tivat ("Sl. list CG-Opštinski propisi", broj 28/12), Skupština opštine Tivat, na sjednici održanoj dana 28.12.2012. godine, donjela je
+O D L U K U
