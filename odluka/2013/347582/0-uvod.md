@@ -1,0 +1,2 @@
+Na osnovu člana 147 Zakona o elektronskim medijima ("Službeni list Crne Gore", broj 46/10), člana 32 stav 1 tačka 18 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 16/06 i, , Službeni list CG", br. 88/09, 3/10 i 38/12), člana 12 stav 1 tačka 17 Statuta Opštine Andrijevica ("Službeni list CG - Opštinski propisi", br. 21/04, 42/6 i "Službeni list Crne Gore-Opštinski propisi", broj 02/11), Skupština opštine Andrijevica, na sjednici održanoj 29.12.2012. godine, donijela je
+O D L U K U
