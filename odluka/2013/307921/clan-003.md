@@ -1,0 +1,2 @@
+# Član 3
+Ugovorom o koordinaciji projekta između Države Crne Gore "Terne CG" DOO iz Podgorice i Crnogorski elektroprenosni sistem AD zaključenog 25.01.2011. god. predviđena je obaveza da Država Crna Gora zaključi sa "Ternom CG"DOO, Ugovor kojim će se prenjeti pravo svojine i/ili službenosti na zemljištu u državnoj svojini neophodnim za realizaciju dijela infrastrukture električne energije za novu podmorsku HVDC interkonekciju između prenosnih mreža Italije i Crne Gore.
