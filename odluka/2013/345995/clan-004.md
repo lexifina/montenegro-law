@@ -1,0 +1,2 @@
+# Član 4
+Planom je predviđeno da se unutar obuhvata, shodno osnovnim postavkama planskog dokumenta višeg reda, zadrži ranije planirana izgradnja sa pretežnom namjenom individualno stanovanje, kolektivno stanovanje, saobraćajna i komunalna infrastruktura. Nastale izmjene odnose se na izmještanje DV 35 kV "Tivat-Bijela" do kojih je došlo zbog ukidanja trase ovog DV i planiranog polaganja 35 kV kabela trasom uz magistralnu saobraćajnicu, a što je u isto vrijeme uslovilo preparcelaciju urbanističkih parcela na trasi dalekovoda koji se ukida.
