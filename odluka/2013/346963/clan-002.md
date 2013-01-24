@@ -1,0 +1,2 @@
+# Član 2
+Član 2 mijenja se i glasi: "Na ime učešća Opštine Žabljak u izgradnji objekta iz člana 1 ove odluke, Vlada Crne Gore će učestvovati u finansiranju infrastrukturnih objekata u Žabljaku i to Sportskog centra sa 55% ukupne cijene investicije i prečistača otpadnih voda sa 49% ukupne cijene investicije, a dio sredstava u iznosu od 150.000,00 € (stopedesethiljada eura) uplatiće na račun budžeta opštine Žabljak".
