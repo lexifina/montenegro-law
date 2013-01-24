@@ -1,0 +1,2 @@
+Na osnovu člana 117 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 40/10, 34/11, 40/11 i 47/11) člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, i "Sl. list CG", br. 88/09, 3/10 i 28/12) i člana 31 Statuta Opštine Tivat ("Sl. list RCG - Opštinski propisi", br. 40/04, 26/06 i "Sl. list CG - Opštinski propisi", br. 12/11 i 21/11), Skupština Opština Tivat, na sjednici održanoj dana 28.12.2012. godine, donijela je
+O D L U K U
