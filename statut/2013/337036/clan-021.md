@@ -1,0 +1,3 @@
+# Član 21
+Iz sredstava za rad Komisije obezbjeđuju se sredstva naročito za: nesmetano funkcionisanje Komisije i ostvarivanje njene uloge kao regulatornog i nadzornog tijela na tržištu hartija od vrijednosti; nabavku opreme i pokriće materijalnih troškova za rad Komisije; učešće u radu međunarodnih organizacija; zarade zaposlenih u Komisiji i naknade članovima Komisije, koji nijesu u radnom odnosu u Komisiji, za učešće u radu Komisije.
+Finansijskim planom za narednu godinu predviđa se potreban obim sredstava po namjenama za sljedeću godinu, a konačan obračun sredstava utvrđuje se godišnjim računom Komisije.
