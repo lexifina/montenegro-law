@@ -1,0 +1,2 @@
+Na osnovu člana 53, člana 25, čl. 31 do 51 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08 i 34/11), člana 44 Statuta Opštine Mojkovac ("Sl. list CG-Opštinski propisi", broj 31/10), Jednogodišnjeg programa uređenja prostora ("Sl. list CG -Opštinski propisi", broj 23/12) i Programa planiranja i uređenja prostora-izmjena i dopuna ("Sl. list CG-Opštinski propisi", broj 5/13) Izvršni organ Opštine Mojkovac utvrđuje
+O D L U K U
