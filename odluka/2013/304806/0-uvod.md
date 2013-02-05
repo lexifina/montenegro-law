@@ -1,0 +1,2 @@
+Na osnovu člana 33, stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09 i 3/10), člana 4 stav 1 Zakona o eksproprijaciji ("Sl. list RCG", br. 55/00 i 28/06 i "Sl. list CG", broj 21/08) i člana 14 Statuta Opštine ("Službeni list RCG - Opštinski propisi", br. 21/04 i 34/06 i "Službeni list CG-Opštinski propisi", broj 6/11), Skupština opštine Berane, na sjednici održanoj dana 26. 12. 2012. godine, donijela je
+O D L U K U

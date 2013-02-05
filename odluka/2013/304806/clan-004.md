@@ -1,0 +1,2 @@
+# Član 4
+Izdavanje urbanističko tehničkih uslova za izradu tehničke dokumentacije, odnosno građevinske dozvole za izgradnju trase kolektora- sabirnica za prečišćavanje otpadnih voda do postrojenja za prečišćavanje otpadnih voda, obavljaće nadležni Sekretarijat za uređenje prostora i zaštitu životne sredine, uvažavajući podatke iz Eksproprijacionog elaborata sa predloženim granicama zahvata potrebnih za eksproprijaciju, koji je uradio doo"GeoProjekt Perišić" iz Podgorice, kao i podatke Uprave za nekretnine CG- Područna jedinica Berane.
