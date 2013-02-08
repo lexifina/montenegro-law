@@ -1,0 +1,2 @@
+# Član 22
+Komisija ima svoju internet stranicu na kojoj se objavljuju opšti akti Komisije, izvještaji o rezultatima izbora, informacije o održanim sjednicama Komisije i saopštenja za javnost, izvještaji političkih partija koje dostavljaju u skladu sa Zakonom o finansiranju političkih partija, kao i druge informacije i dokumenta koji nastaju u radu ili u vezi sa radom Komisije, a od značaja su za informisanje javnosti.
