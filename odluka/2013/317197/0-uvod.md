@@ -1,0 +1,2 @@
+Na osnovu člana 16 tač. 3 Statuta Agencije za nadzor osiguranja Crne Gore ("Službeni list RCG", br. 30/08) i člana 175 Zakona o osiguranju ("Sl. list RCG", br. 78/06, 19/07, "Sl. list Crne Gore", br. 53/09, 73/10, 40/11, 45/12), Savjet Agencije za nadzor osiguranja, na 107. sjednici održanoj 12.02.2013. godine, donio je
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O NAKNADAMA AGENCIJE ZA NADZOR OSIGURANJA
