@@ -1,0 +1,3 @@
+# Član 1
+## Podgorica
+Daje se saglasnost na Odluku Odbora direktora, o smanjenju osnovnog kapitala "Putevi" d.o.o. Podgorica, broj 401/1 od 09.02.2013.godine, u dijelu nenovčanog uloga osnivača u osnovnom kapitalu Društva, za nepokretnosti označene katastarskom parcelom broj 2456/1, po načinu korišćenja zemljište uz zgradu površine 1.277m2 i objekat u osnovi površine 269m2, spratnosti Po+P+1, i to poslovni prostor u prizemlju površine 198m2 i na I spratu površine 72m2, te nestambeni prostor u podrumu površine 30m2, kao i zemljište površine 25m2 označeno katastarskom parcelom broj 2456/2, sve iz l.n.br.4930 KO Podgorica II, koje se nalaze u Bul. Ivana Crnojevića br.10 u Podgorici, ukupne vrijednosti 1.239.138,00 eura.
