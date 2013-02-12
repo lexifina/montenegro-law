@@ -1,0 +1,2 @@
+Na osnovu člana 8 stav 2 i člana 13 Zakona o spomen- obilježjima ("Službeni list Crne Gore", br. 40/08 i 40/11) i člana 48 Statuta Glavnog grada ("Službeni list Republike Crne Gore - Opštinski propisi", br. 28/06 i "Službeni list Crne Gore - Opštinski propisi", br. 39/10 i 18/12), uz prethodno pribavljenu saglasnost Ministarstva kulture Crne Gore, Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 12. februara 2013. godine, donijela je
+D O P U N U
