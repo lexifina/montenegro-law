@@ -1,0 +1,3 @@
+# Član 6
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore", a primjenjivaće se od 08. aprila 2013. godine.
+Odredbe ovog pravilnika koje se odnose na stručno osposobljavanje, programe stručnog osposobljavanja, procedure i priručnike organizacije za osposobljavanje letačke posade, medicinske centre, sistem rukovođenja medicinskim centrima, program osposobljavanja, procedure i priručnike medicinskog centra, kao i odredbe člana ORA.GEN.200(a)(3) - identifikacija rizika vazduhoplovne sigurnosti za imaoce FSTD sertifikata koji nijesu uključeni u organizaciju za osposobljavanje ili imaoca certifikata vazdušnog operatora-AOC, primjenjivaće se od 08.04.2014. godine.

@@ -1,0 +1,5 @@
+# Član 2
+Ovim pravilnikom se uz prilagođavanje pravu Crne Gore preuzimaju:
+1) Uredba Evropske komisije (EU) broj 1178/2011 od 03. novembra 2011. godine o uspostavljanju tehničkih zahtjeva i administrativnih procedura u vezi sa letačkim posadama u civilnom vazduhoplovstvu u skladu sa Uredbom (EC) broj 216/2008 Evropskog Parlamenta i Savjeta, koja je dat u Prilogu 1 i čini sastavni dio ovog Pravilnika (PART-FCL; PART-MED);
+2) Uredba Evropske komisije (EU) broj 290/2012 od 30. marta 2012. godine kojom se mijenja i dopunjuje Uredba (EU) Br.1178/2011 od 03. novembra 2011. godine o uspostavljanju tehničkih zahtjeva i administrativnih procedura u vezi sa letačkim posadama u civilnom vazduhoplovstvu u skladu sa Uredbom (EC) broj 216/2008 Evropskog Parlamenta i Savjeta, koja je data u Prilogu 2 i čini sastavni dio ovog Pravilnika (PART-CC; PART-ARA; PART-ORA).
+U slučaju nejasnoća ili različitog tumačenja odredbi Priloga 1 i Priloga 2 iz stava 1 ovog člana, mjerodavan je originalni tekst na engleskom jeziku.

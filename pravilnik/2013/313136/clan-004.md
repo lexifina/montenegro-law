@@ -1,0 +1,2 @@
+# Član 4
+U primjeni Priloga 1 i Priloga 2 ovog pravilnika koriste se, kao preporučena praksa, rješenja propisana odlukama izvršnog direktora EASA-e broj 2011/015/R (15.12.2011.), 2011/016/R (15.12.2011.), 2012/005/R (19.04.2012.), 2012/006/R (19.04.2012), 2012/007/R (19.04.2012), 2012/010/R (04.07.2012.) i 2012/011/R (26.06.2012), koje sadrže prihvatljive načine usaglašavanja, uputstva za primjenu i certifikacione specifikacije i koje se objavljene na internet stranicama EASA-e.
