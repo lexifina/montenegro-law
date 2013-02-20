@@ -1,0 +1,25 @@
+Obrazac 1
+Crna Gora Ministarstvo kulture Cetinje
+ZAHTJEV ZA NAKNADU TROŠKOVA UMJETNICIMA ZA NABAVLJENU OPREMU,
+INSTRUMENTE ILI MATERIJAL ZA RAD
+PODACI O PODNOSIOCU ZAHTJEVA
+Ime: ____________________________________________________________
+Prezime: ________________________________________________________
+Broj lične karte ili broj pasoša: _____________________________________
+Adresa: _________________________________________________________
+Kontakt tel/fax: __________________________________________________
+E - mail adresa: __________________________________________________
+OSNOVNI PODACI O NABAVLJENOJ OPREMI
+Vrsta opreme: ___________________________________________________
+Količina: ________________________________________________________
+Vrijednost: ______________________________________________________
+OSNOVNI PODACI O INSTRUMENTIMA
+Vrsta instrumenta: _______________________________________________
+Model instrumenta: ______________________________________________
+Broj instrumenata i propratnih pomagala: ___________________________
+Vrijednost: ______________________________________________________
+OSNOVNI PODACI O MATERIJALU ZA RAD
+Vrsta materijala: _________________________________________________
+Količina: ________________________________________________________
+Vrijednost: ______________________________________________________
+Cetinje, ________20____.godine _____________________________ (potpis podnosioca zahtjeva)
