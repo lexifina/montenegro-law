@@ -1,0 +1,3 @@
+Na osnovu člana 21 Zakona o zaključivanju i izvršavanju međunarodnih ugovora ("Službeni list Crne Gore", broj 77/2008), Ministarstvo vanjskih poslova i evropskih integracija Crne Gore
+O B J A V LJ U J E
+da Sporazum o određivanju zajedničkog graničnog prelaza Zatrijebačka Cijevna- Grabon za međunarodni drumski putnički saobraćaj i granične tačke Vranica-Čerem između Vlade Crne Gore i Savjeta ministara Republike Albanije, koji je potpisan u Podgorici 25. januara 2012. godine, objavljen u "Službenom listu Crne Gore- Međunarodni ugovori" broj 12/2012 od 27. novembra 2012. godine, stupa na snagu 20. februara 2013. godine.
