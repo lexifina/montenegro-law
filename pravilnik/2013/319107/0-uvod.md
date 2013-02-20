@@ -1,0 +1,2 @@
+Na osnovu člana 8 stav 2 Zakona o metrologiji ("Službeni list CG", broj 79/08), Ministarstvo ekonomije donijelo je
+PRAVILNIK O IZMJENAMA PRAVILNIKA O TEHNIČKIM I METROLOŠKIM USLOVIMAI POSTUPKU OVLAŠĆIVANJA LICA ZA PRIPREMU TAKSIMETARA ZA OVJERAVANJE
