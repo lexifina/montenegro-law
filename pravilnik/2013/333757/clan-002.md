@@ -1,0 +1,9 @@
+# Član 2
+## Sadržaj informacionog sistema
+U informacioni sistem pristupa informacijama unose se sljedeći podaci:
+- naziv državnog organa (zakonodavni, izvršni, sudski, upravni), organa lokalne samouprave, organa lokalne uprave, ustanove, privrednog društva i drugog pravnog lica čiji je osnivač, suosnivač ili većinski vlasnik država ili lokalna samouprava, pravnog lica čiji se rad većim dijelom finansira iz javnih prihoda, kao i fizičkog lica, preduzetnika ili pravnog lica koje vrši javno ovlašćenje ili upravlja javnim fondom (u daljem tekstu: organ vlasti), koji je primio zahtjev za pristup informacijama;
+- broj i datum podnošenja zahtjeva za pristup informaciji (datum prijema, odnosno upisa u upisnik zahtjeva u organu vlasti); lično ime ili naziv pravnog lica koje podnosi zahtjev za pristup informacijama; kratak sadržaj informacije koja se traži; način na koji se traži pristup informaciji;
+- broj i datum obavještenja da je tražena informacija javno objavljena ili dostupna na internet stranici organa vlasti; broj i datum rješenja kojim je odlučeno o zahtjevu za pristup informaciji (dozvoljen pristup ili zahtjev odbijen), zaključka i akta kojim je zahtjev ustupljen nadležnom organu vlasti; kao i podatak da li je zahtjev riješen u roku;
+- broj i datum podnošenja žalbe protiv akta organa vlasti po zahtjevu za pristup informacijama; naziv organa vlasti protiv čijeg akta je podnesena žalba; broj i datum rješenja po žalbi; podatak da li je žalba riješena u roku; način odlučivanja po žalbi;
+- broj i datum podnošenja tužbe protiv rješenja o zahtjevima za pristup informacijama; naziv tuženog organa vlasti; broj i datum odgovora na tužbu; način odlučivanja suda (tužba usvojena, tužba odbijena; tužba odbačena ili obustavljen postupak);
+- vrsta mjera protiv organa vlasti zbog nepostupanja u skladu sa zakonom, naziv organa vlasti protiv kojeg je mjera preduzeta, datum preduzimanja mjere.
