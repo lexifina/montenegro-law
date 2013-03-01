@@ -1,0 +1,3 @@
+# Član 9
+Ako se nacrtom tehničkog propisa ograničava trgovina ili upotreba hemijskih supstanci, preparata ili proizvoda, radi zaštite javnog zdravlja, potrošača ili životne sredine, Ministarstvo Komis iji dostavlja raspoložive podatke o tim hemijskim supstancama, preparatima i proizvodima.
+Pored podataka iz stava 1 ovog člana, Ministarstvo obavještava Komisiju i o očekivanim uticajima nacrta tehničkog propisa na javno zdravlje, zaštitu potrošača ili životnu sredinu, i dostavlja odgovarajuće analize sprovedene u skladu sa opštim načelima procjene rizika od hemijskih supstanci, preparata ili proizvoda određenih u tehničkim propisima koji se odnose na procjenu i kontrolu rizika postojećih, odnosno novih hemijskih supstanci.

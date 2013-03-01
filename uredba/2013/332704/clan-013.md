@@ -1,0 +1,4 @@
+# Član 13
+Nadležno ministarstvo odlaže usvajanje tehničkog propisa za šest mjeseci, od dana prijema prijave u Komisiji, ako u roku od tri mjeseca, od dana prijema Komisija ili država članica Evropske unije dostavi detaljno mišljenje da tehnički propis predstavlja prepreku za slobodno kretanje robe na tržištu Evropske unije.
+Nadležno ministarstvo odlaže usvajanje nacrta tehničkog propisa koji sadrži pravila za usluge, za četiri mjeseca od dana prijema prijave u Komisiji, ako u roku od tri mjeseca od dana prijema Komisija ili država članica Evropske unije dostavi mišljenje da taj propis predstavlja prepreku za slobodno kretanje usluga ili slobodno osnivanje uslužnih operatera na tržištu Evropske unije.
+Ministarstvo, po pribavljenom mišljenju nadležnog ministarstva obavještava Komisiju o aktivnostima koje je nadležno ministarstvo preduzelo po mišljenju iz st. 1 i 2 ovog člana i razlozima zbog kojih mišljenje nije prihvaćeno.

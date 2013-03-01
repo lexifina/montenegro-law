@@ -1,0 +1,3 @@
+# Član 25
+Primjedbe, odnosno detaljna mišljenja u vezi sa prijavljenim nacrtom tehničkog propisa mogu se dati samo na djelove tehničkog propisa koji mogu ugroziti slobodno kretanje robe, odnosno usluga ili slobodno osnivanje uslužnih operatera.
+Primjedbe i mišljenja iz stava 1 ovog člana na nacrt tehničkog propisa kojim se utvrđuju pravila za usluge ne mogu se davati na odredbe kojima se uređuju pitanja u oblasti kulture, a naročito u oblasti audiovizuelne djelatnosti , koje države članice Evropske unije usvajaju u skladu sa svojim zakonodavstvom, zbog jezičke različitosti, nacionalnih i regionalnih karakteristika i kulturnog nasljeđa.

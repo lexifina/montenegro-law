@@ -1,0 +1,3 @@
+# Član 14
+Nadležno ministarstvo odlaže usvajanje nacrta tehničkog propisa za 12 mjeseci od dana prijema prijave u Komisiji, ako u roku od tri mjeseca od dana prijema, Komisija objavi namjeru predlaganja ili donošenja direktive, regulative ili odluke kojom se uređuju pitanja koja se odnose na oblast regulative tehničkog propisa, odnosno da je predlog tog akta već podnijet Savjetu Evropske unije.
+Nadležno ministarstvo odlaže usvajanje nacrta tehničkog propisa za 18 m jeseci od dana prijema prijave u Komisiji, ako Savjet Evropske unije zauzme zajednički stav o podnijetom predlogu direktive, regulative ili odluke, u roku iz stava 1 ovog člana.
