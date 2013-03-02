@@ -1,0 +1,128 @@
+Obrazac IPI
+IZBORI ZA KOJI SE PODNOSI IZVJEŠTAJ
+Datum održavanja izbora
+(dan, mjesec, godina)
+Obrazac PK
+PODACI O KANDIDATU
+Ime i prezime
+___________________________________ JMBG
+___________________________________ Datum rođenja
+___________________________________ Mjesto rođenja
+___________________________________ Nacionalnost
+___________________________________ Adresa prebivališta
+___________________________________ Grad, država
+___________________________________
+Obrazac RUS
+PODACI O RAČUNU ZA UPLATU SREDSTAVA ZA FINANSIRANJE IZBORNE KAMPANJE
+Broj računa
+____________________________________ Naziv banke kod koje je otvoren račun
+____________________________________ Iznos uplaćenih sredstava
+____________________________________
+I.
+OBRASCI ZA IZVJEŠTAVANJE O PRIKUPLJENIM BUDŽETSKIM SREDSTVIMA
+Obrazac PBD
+Red.br.
+Prihodi iz budžeta Crne Gore
+Iznos (u €)
+Ukupno:
+Napomena: Sredstva koja se izdvajaju iz budžeta Crne Gore za pokriće dijela troškova izborne kampanje (član 5 Zakona o finansiranju kampanje za izbor Predsjednika Crne Gore, Gradonačelnika i predsjednika opštine - u daljem tekstu: Zakon)
+II.
+OBRASCI IZVJEŠTAJA O UTROŠENIM SREDSTVIMA IZ JAVNIH IZVORA
+Obrazac TPS Troškovi za predizborne skupove
+Mjesto održavanja predizbornog
+skupa
+Datum održavanja
+Ukupni troškovi
+predizbornog skupa (u €)
+Ukupno:
+Napomena: Troškovi izborne kampanje, u smislu člana 10 Zakona su i troškovi predizbornih skupova
+Obrazac TP Troškovi za plakate Naziv pravnog
+lica pružaoca
+usluge
+Oblik
+organizovanja
+PIB#
+Datum izvršenja usluga
+Cijena plakata po
+jedinici (u €)
+Ukupna
+cijena plakata
+(u €)
+Ukupno:
+Napomena: Troškovi izborne kampanje, u smislu člana 10 Zakona, su i troškovi za plakate.
+Obrazac TR Troškovi reklamiranja, reklamnih spotova i reklamnog materiala
+Vrsta
+Troškovi reklamiranja
+(u €)
+Troškovi reklamnog
+materijala i izrade
+reklamnog spota (u €)
+Ukupni troškovi (u €)
+Ukupno:
+Napomena: Troškovi izborne kampanje, u smislu člana 10 Zakona, su i troškovi reklamiranja, reklamnih spotova i reklamnog materiala.
+Obrazac TO Troškovi za oglase
+Vrsta
+Datum oglašavanja
+Mjesto oglašavanja
+Troškovi plaćenih
+oglasa (u €)
+Ukupno:
+Napomena: Troškovi izborne kampanje, u smislu člana 10 Zakona, su i troškovi za oglase.
+Obrazac TP Troškovi za publikacije
+Vrsta
+Datum izvršenja usluge
+Vrsta usluge
+Cijena usluge (u €)
+Ukupno:
+Napomena: Troškovi izborne kampanje, u smislu člana 10 Zakona, su i troškovi za publikacije.
+Obrazac TEM Troškovi emisije u medijima
+Vrsta
+Datum emitovanja
+Cijena emitovanja (€)
+Ukupno:
+Napomena: Troškovi izborne kampanje, u smislu člana 10 Zakona, su i troškovi emisije u medijima.
+Obrazac TIJM
+Troškovi istraživanja javnog mnjenja
+Izvršilac usluge
+Datum izvršenja
+usluge
+Vrsta usluge
+Cijena usluge (u €)
+Ukupno:
+Napomena: Troškovi izborne kampanje, u smislu člana 10 Zakona, su i troškovi za istraživanja javnog mnjenja.
+Obrazac RTTOA Režijski troškovi i troškovi opšte administracije Vrsta troška
+Datum nastanka troška
+Iznos troška
+(u €)
+Drugi
+troškovi
+Ukupno (u €)
+Ukupno:
+Napomena: Troškovi izborne kampanje, u smislu člana 10 Zakona, su i režijski troškovi i troškovi opšte administracije.
+Obrazac TT Troškovi transporta Izvršilac usluge
+Datum izvršenja usluge
+Prevozno sredstvo
+Cijena usluge (u €)
+Ukupno:
+Napomena: Troškovi izborne kampanje, u smislu člana 10 Zakona, su i troškovi transporta.
+III. OBRASCI ZA ZBIRNI IZVJEŠTAJ (REKAPITULACIJU) O UTROŠENIM SREDSTVIMA IZ
+BUDŽETSKIH SREDSTAVA
+Obrazac UPR
+Opis
+Prihodi
+Iznos (u €)
+I. Budžetska sredstva
+1. Prihodi iz budžeta Crne Gore
+Rashodi
+1. Troškovi za predizborne skupove
+2. Troškovi za plakate
+3. Troškovi reklamiranja, reklamne spotove i reklamni materijal
+4. Troškovi za oglase
+5. Troškovi za publikacije
+6. Troškovi emisije u medijima
+7. Troškovi istraživanja javnog mnjenja
+8. Režijski troškovi i troškovi opšte administracije
+9. Troškovi transporta
+B. Ukupni troškovi (1+2+3+4+5+6+7+8+9)
+C. Višak sredstava (A-B)
+D. Nedostajuća sredstva (B-A) Napomena: # Svi podaci koji su unijeti pod ovom oznakom ne objavljuju se na internet stranici Državne izborne komisije. Ovi podaci se koriste isključivo za potrebe obavljanja poslova iz nadležnosti Državne izborne komisije i Ministarstva finansija.
