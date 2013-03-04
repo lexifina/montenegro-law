@@ -1,0 +1,3 @@
+# Član 10
+Sekretarijat za prostorno planiranje i izgradnju dostaviće Izvještaj na mišljenje Sekretarijatu za stambeno-komunalne poslove i zaštitu životne sredine, JZU Dom zdravlja Herceg Novi, i drugim zainteresovanim organima, organizacijama i javnosti, i obezbijediti učešće javnosti u razmatranju istog u skladu sa programom kojim će se utvrditi način i rokovi uvida u sadržinu Izvještaja o strateškoj procjeni, kao i način, rokovi i mjesto održavanja javne rasprave o istom.
+Izvještaj o strateškoj procjeni, program iz prethodnog stava i izvještaj o učešću zainteresovanih organa, organizacija i javnoj raspravi objaviće se na Web sajtu Opštine Herceg Novi www.hercegnovi.me.
