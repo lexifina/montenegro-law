@@ -1,0 +1,2 @@
+Na osnovu člana 63 stav 1 tač. 20 i 27 Statuta Prijestonice Cetinje ("Službeni list CG-Opštinski propisi", br. 19/09 i 37/10) kao i člana 2 Odluke o pristupanju izmjenama i dopunama Statuta Prijestonice ("Službeni list CG-Opštinski propisi", broj 40/12), a u vezi sa članom 114 Poslovnika Skupštine Prijestonice Cetinje ("Službeni list CG- Opštinski propisi", broj 21/11), Skupština Prijestonice Cetinje, na sjednici održanoj dana 26.02.2013. godine, donijela je
+O D L U K U
