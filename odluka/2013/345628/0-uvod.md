@@ -1,0 +1,2 @@
+Na osnovu člana 2 Zakona o lokalnim komunalnim taksama ("Službeni list RCG", broj 27/06), člana 5 stav 1 tačka 4 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", broj 42/03 i "Službeni list Crne Gore", br. 5/08 i 74/10) i člana 63 stav 1 tačka 8 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", br. 19/09 i 37/10), Skupština Prijestonice Cetinje, na sjednici održanoj dana 26.02.2013.godine, donijela je
+O D L U K U
