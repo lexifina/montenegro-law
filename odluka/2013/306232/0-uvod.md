@@ -1,0 +1,2 @@
+Na osnovu čl. 34, 35 st. 2 i 41 stav 1 alineja 3 Zakona o zaštiti i spašavanju ("Sl. list RCG", br. 13/07 i 5/08), člana 31 stav 1 tačka 2 i člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03 i 28/04) i člana 23 tačka 3 i člana 36 stav 1 tačka 40 Statuta Opštine Herceg Novi ("Sl. list RCG-Opštinski propisi", br. 15/04, 31/06, 14/07 i "Sl. list CG-Opštinski propisi", br. 16/09 i 16/11), Skupština Opštine Herceg Novi, na sjednici održanoj dana 21.02. 2013.godine, donosi
+O D L U K U
