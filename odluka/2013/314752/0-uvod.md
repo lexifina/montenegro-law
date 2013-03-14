@@ -1,0 +1,2 @@
+Na osnovu čl. 24 i 25 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 48/06 i "Sl. list CG", broj 46/11) i člana 34 tačka 53 Statuta Opštine Pljevlja ("Sl. list RCG - Opštinski propisi", br. 37/04 i 30/07 i "Sl. list CG - Opštinski propisi", br. 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici od: 01.02. i 08.02. 2013. godine, donijela je
+O D L U K U
