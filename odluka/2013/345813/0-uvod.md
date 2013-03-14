@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10 i 38/12), člana 63 stav 1 tačka 2 Statuta Prijestonice Cetinje, ("Sl. list CG", br. 19/09 i 37/10) i člana 54 Odluke o Etičkoj komisiji za lokalne službenike i namještenike ("Sl. list CG-Opštinski propisi", broj 24/10), Skupština Prijestonice Cetinje, na sjednici održanoj dana 26.02.2013.godine, donijela je
+O D L U K U
