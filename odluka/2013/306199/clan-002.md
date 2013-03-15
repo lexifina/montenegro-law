@@ -1,0 +1,3 @@
+# Član 2
+Crna Gora daje garancije za: kreditni aranžman između Kineske Exim banke i Barske Plovidbe a.d. Bar za Projekat "Nabavka teretnih brodova", u iznosu do 40,0 miliona eura; kreditni aranžman između Crnogorskog elektroprenosnog sistema a.d. Podgorica i Evropske banke za obnovu i razvoj (EBRD) ili NJemačke banke za razvoj (KfW) za Projekat "Kabal Tivat - Pljevlja", u iznosu do 25,0 miliona eura i kreditni aranžman za potrebe Montenegro Airlines-a, u iznosu od 1,2 miliona eura, za koji će se kreditor naknadno odrediti.
+Davanje garancije za kredite iz stava 1 ovog člana, urediće se odgovarajućim sporazumima.
