@@ -1,0 +1,2 @@
+# Član 54
+Pripravnici koji su započeli pripravnički staž prije stupanja na snagu ovog pravilnika, pripravnički staž završiće na osnovu Pravilnika o planu i programu praktičnog rada i obuke, obrascu i načinu vođenja pripravničke knjižice, sastavu ispitne komisije i načinu polaganja stručnog ispita zdravstvenih radnika i zdravstvenih saradnika - pripravnika sa visokom školskom spremom ("Službeni list CG", br. 10/09 i 40/11).

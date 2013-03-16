@@ -1,0 +1,4 @@
+# Član 39
+U knjižicu se upisuje datum početka i završetka staža, obavljanje staža po oblastima zdravstvene zaštite što ovjerava direktor zdravstvene ustanove u kojoj je pripravnik obavio pripravnički staž.
+Ako u zdravstvenoj ustanovi iz člana 2 ovog pravilnika ne postoje uslovi za potpuno obavljanje staža po propisanom programu, datum početka i završetka djelova staža ovjerava direktor zdravstvene ustanove u kojoj pripravnik obavlja određeni dio staža.
+Na stranama koje su predviđene za podatke o praktičnom radu pripravnika, zdravstvena ustanova u kojoj pripravnik obavlja staž upisuje podatke o mjestu i nazivu ustanove, jedinicama ustanove i vremenu trajanja praktičnog rada. Na mjestu predviđenom za opis poslova ovlašćeni zdravstveni radnik unosi podatke o poslovima koje je pripravnik upoznao kroz praktičan rad i po isteku vremena predviđenog za praktičan rad, upisuje ocjenu rada i ovjerava svojim potpisom.
