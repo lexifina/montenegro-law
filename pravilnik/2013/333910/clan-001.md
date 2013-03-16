@@ -1,0 +1,3 @@
+# Član 1
+Ovim pravilnikom utvrđuju se uslovi za izdavanje odobrenja za pružanje usluga kalibraže iz vazduha zemaljskih navigacionih i nadzornih sistema i uređaja, vazduhoplovnih telekomunikacija i opreme za svjetlosnu signalizaciju na aerodromima (u daljem tekstu: usluge kalibraže iz vazduha). Pružanjem usluga kalibraže iz vazduha se vrši mjerenje, provjera usklađenosti rezultata mjerenja sa utvrđenim specifikacijama i dovođenje parametara u okvire utvrđenih specifikacija za zemaljsku vazduhoplovnu opremu.
+Usluge kalibraže iz vazduha pruža organizacija koja ima odobrenje, koje izdaje Agencija za civilno vazduhoplovstvo (u daljem tekstu: Agencija).
