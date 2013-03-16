@@ -1,0 +1,3 @@
+# Član 1
+U Pravilima o metodologiji za obračunavanje neto vrijednosti imovine investicionih fondova u postupku transformacije (″Sl. list CG″, br. 01/12, 05/12, 09/12 i 65/12) član 6 stav 8) mijenja se i glasi:
+″Nadzorni odbor fonda dužan je da utvrđuje tačnost obračuna i odobrava mjesečnu i godišnju vrijednost imovine fonda, mjesečnu i godišnju vrijednost akcije fonda i godišnju vrijednost neto imovine fonda i godišnju neto vrijednost akcije fonda, u roku od 5 radnih dana od isteka perioda za koji nadzorni odbor utvrđuje tačnost obračuna. Ukoliko nadzorni odbor utvrdi da obračun iz ovog člana nije sačinjen u skladu sa ovim pravilima nalaže društvu za upravljanje da ispravi obračun.″
