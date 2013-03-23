@@ -1,0 +1,4 @@
+# Član 6
+## Prenos portfelja društva za osiguranje
+U slučaju prenosa portfelja osiguranja, društvo na koje se portfelj prenosi obračunava marginu solventnosti na osnovu premije i šteta uzevši u obzir ukupne podatke društva u koje se portfelj prenosi i podatke koji se odnose na prenešeni portfelj osiguranja.
+Društvo koje prenosi portfelj osiguranja mora društvu na koje se portfelj prenosi priložiti podatke za period od tri, odnosno sedam godina u slučajevima ako se najmanje 75% portfelja sastoji od osiguranja koja pokrivaju rizike kredita, oluje, grada ili mraza, odnosno za period poslovanja ako je kraći od tri, odnosno sedam godina u slučajevima ako se najmanje 75% portfelja sastoji od osiguranja koja pokrivaju rizike kredita, oluje, grada ili mraza radi obračuna margina solventnosti na osnovu premija i šteta prenešenog portfelja osiguranja.
