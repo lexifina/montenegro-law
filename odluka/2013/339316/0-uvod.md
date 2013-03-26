@@ -1,0 +1,2 @@
+Na osnovu člana 32 tačka 18 Statuta Opštine Andrijevica ("Službeni list RCG - Opštinski propisi", br. 21/04, 42/06 i "Sl. list CG-Opštinski propisi", broj 02/11) člana 50 Poslovnika Skupštine opštine Andrijevica ("Službeni list RCG - Opštinski propisi", br. 9/06, 42/06 i "Sl. list CG-Opštinski propisi", broj 33/11) i čl. 6 i 15 Odluke o obrazovanju radnih tijela ("Službeni list RCG - Opštinski propisi", broj 42/06), Skupština opštine Andrijevica, na sjednici održanoj 26. 03. 2013. godine, donijela je
+O D L U K U
