@@ -1,0 +1,2 @@
+Na osnovu člana 69 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 03/10 i 38/12) člana 32 stav1 tačka 21 Statuta Opštine Andrijevica ("Službeni list RCG - Opštinski propisi", br. 21/04, 42/06 i "Službeni list CG-Opštinski propisi", broj 02/11), Skupština opštine Andrijevica, na sjednici održanoj 29.03.2013.godine, donijela je
+O D L U K U
