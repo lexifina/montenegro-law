@@ -1,0 +1,5 @@
+Na osnovu člana 104 stav 6 Zakona o vazdušnom saobraćaju ("Službeni list CG", broj 30/12), uz prethodnu saglasnost Ministarstva saobraćaja i pomorstva, Agencija za civilno vazduhoplovstvo donijela je
+P R A V I L N I K O STRUČNOM OSPOSOBLJAVANJU I IZDAVANJU POTVRDE O OSPOSOBLJENOSTI POMOĆNOM VAZDUHOPLOVNOM OSOBLJU ZA
+OBAVLJANJE POSLOVA ODRŽAVANJA I NADZIRANJA RADA ISPRAVNOSTI
+VAZDUHOPLOVNO TEHNIČKIH UREĐAJA I SISTEMA KONTROLE LETENJA
+PRUŽALACA USLUGA U VAZDUŠNOJ PLOVIDBI

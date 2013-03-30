@@ -1,0 +1,2 @@
+# Član 5
+Agencija za civilno vazduhoplovstvo Crne Gore (u daljem tekstu: Agencija) može da prizna stručno osposobljavanje vazduhoplovno tehničkog osoblja KL koje je obavljeno u inostranstvu, u organizacijama za stručno osposobljavanje koje su ovlašćene od nadležne vazduhoplovne vlasti strane države, ako uslovi pod kojim je stručno osposobljavanje obavljeno nisu blaži od uslova propisanih ovim pravilnikom.

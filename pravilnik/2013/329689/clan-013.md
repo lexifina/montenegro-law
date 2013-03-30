@@ -1,0 +1,2 @@
+# Član 13
+Način polaganja teorijskih i praktičnih ispita, formiranja i čuvanja izvještaja sa ispita, način formiranja i sastav komisije, provjeru uslova koje kandidat mora da ispuni da bi pristupio polaganju ispita, obrazac ispitne liste, kao i druge administrativno-tehničke poslove, utvrđuje organizacija za stručno osposobljavanje vazduhoplovno tehničkog osoblja KL, uz prethodno odobrenje Agencije.
