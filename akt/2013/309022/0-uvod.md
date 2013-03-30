@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 5 Zakona o energetici ("Službeni list CG" br. 28/10, 40/11, 42/11 i 06/13), člana 18 stav 1 tačka 1 Statuta Regulatorne agencije za energetiku (''Službeni list CG'', broj 7/11) i Finansijskog plana Regulatorne agencije za energetiku za 2013. godinu, koji je Skupština Crne Gore usvojila Odlukom broj 00-72/12-37/3 EPA 37 XXV od 28. decembra 2012. godine, Odbor Agencije, na sjednici od 15. marta 2013. godine, utvrdio je
+METODOLOGIJU ZA UTVRĐIVANJE NAKNADA ZA LICENCE
