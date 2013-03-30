@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09, 03/10 i 38/12), člana 26 Zakona o stanovanju i održavanju stambenih zgrada ("Službeni list CG", br. 04/11 i 40/11) i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", broj 19/10), Skupština opštine Budva, na sjednici održanoj 11., 12., 13. i 14. marta 2013.godine, donijela je
+O D L U K U
