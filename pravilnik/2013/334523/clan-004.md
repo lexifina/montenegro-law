@@ -1,0 +1,3 @@
+# Član 4
+## Finansijski položaj i stabilnost
+Finansijski položaj i stabilnost podnosilaca zahtjeva - lica koja namjeravaju da steknu kvalifikovano učešće, Agencija cijeni na osnovu dostavljenih izvještaja, odnosno konsolidovanih finansijskih iskaza sa mišljenjem ovlašćenog revizora za posljednje tri godine, iz kojih utvrđuje da li je njegovo poslovanje u protekle tri godine bilo uspješno i stabilno, da li omogućava sticanje traženog nivoa kvalifikovanog učešća u društvu za osiguranje, i da li način finansiranja kvalifikovanog učešća ugrožava redovno poslovanje lica koje namjerava steći kvalifikovano učešće.
