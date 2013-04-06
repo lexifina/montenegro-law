@@ -1,0 +1,2 @@
+# Član 45
+Organ lokalne uprave nadležan za komunalne poslove može odobriti u pojedinim danima ili vremenskim intervalima u pješačkim zonama i drugim lokacijama organizovanje prigodnih prezentacija i prodaja roba na privremenim objektima tipa-štand ili izložbenim pultovima i slično, shodno uslovima predviđenim ovom odlukom za postavljanje montažnih objekata koji se mogu izmještati sa jednog mjesta na drugo.

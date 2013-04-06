@@ -1,0 +1,7 @@
+# Član 11
+Pod oglasnim panoom u smislu ove odluke smatra se objekat na kome privredno društvo, drugo pravno lice i preduzetnik ističe plakate, oglase, obavještenja i slično, radi informisanja i obavještavanja o održavanju zabavnih, kulturnih i sportskih manifestacija, obavljanju djelatnosti i slično, kao i posmrtne plakate i druge slične oglase i obavještenja.
+Pod reklamnim panoima smatraju se:
+- objekti na kojima se privredna društva, druga pravna lica i preduzetnici reklamiraju,
+- objekti privrednih društava, drugih pravnih lica i preduzetnika za reklamiranje sopstvenih djelatnosti ili objekti privrednih društava, drugih pravnih lica i preduzetnika registrovanih za obavljanje djelatnosti reklamiranja, odnosno marketinga, koji u komercijalne svrhe reklamiraju djelatnost, proizvode i usluge trećih lica (reklamni panoi tipa: megabord, bilbord, metrolajt i sitilajt),
+- reklamni panoi koji se postavljaju na fasadama i krovovima zgrada (murali, panoi, pisane reklame, svijetleće reklame, displeji, reklame sa elektronskom izmjenom reklamnih poruka i sl.), na kojima privredna društva, druga pravna lica i preduzetnici reklamiraju djelatnosti za sopstvene potrebe ili na kojima privredna društva, druga pravna lica i preduzetnici registrovani za obavljanje djelatnosti reklamiranja, odnosno marketinga, u komercijalne svrhe reklamiraju djelatnost, proizvode i usluge trećih lica ili pružaju usluge servisnih informacija,
+- reklamni transparenti, reklamne zastave i sl.
