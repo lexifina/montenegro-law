@@ -1,0 +1,3 @@
+# Član 1
+## o prenosu zemljišta na ime naknade za eksproprisano zemljište
+Opština Tivat prenosi Đinović Panteliji iz Tivta, jmbg 1704934234015, dio ranije čestice zemlje 1526/1 k.o. Gošići u površini od 211 m2 unutar kat.parcele 385 k.o. Gošići (na kojoj je isti upisan u LN 599 sa teretom zabrane otuđenja i opterećenja zbog "viška" površine od 211 m2) na ime naknade za njegov suvlasnički dio na zemljištu eksproprisanom za potrebe izgradnje saobraćajnice od Solila do kraja PUP -a Opštine Tivat, a označenom kao kat.par. 1045/29, 1045/70, 1045/71, 1085/31, 1085/49 i 1085/50 k.o. Radovići u ukupnoj površini od 211 m2.

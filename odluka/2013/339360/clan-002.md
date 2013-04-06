@@ -1,0 +1,2 @@
+# Član 2
+Na osnovu ove odluke a nakon njenog stupanja na snagu pred nadležnim organom uprave ili pred nadležnim sudom zaključiće se, u skladu sa odredbama Zakona o eksproprijaciji, sporazum kojim Opština stiče pravo uknjižbe na ¼ dijela eksproprisanih kat.parcela 1045/29, 1045/70, 1045/71, 1085/31, 1085/49 i 1085/50 k.o. Radovići, a Đinović Pantelija stiče pravo brisanja tereta zabrane otuđenja i opterećenja upisanog na kat. parceli 385 k.o. Gošići.
