@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za odricanje od prava na žalbu
+Daje se saglasnost za odricanje od prava na žalbu na rješenje Osnovnog suda Kotor Posl.br. Rs.54/11 od 14.03.2013.godine, donijeto u pravnoj stvari predlagača Rajčević Zvonimira kojim se utvrđuje nadoknada za 3/8 nacionalizovanog gradsko - građevinskog zemljišta označenog kao čest.zem. 3195/33 i 3195/34 k.o. Tivat, ukupne površine 1217 m2, ranijeg sopstvenika Staničić Ilije pok. Krsta u cjelini, pa se obavezuje Opština Tivat da predlagaču isplati naknadu za površinu za njegov suvlasnički dio odnosno za površinu od 456,375 m2 u iznosu od 159.731,25 € i troškove postupka u iznosu od 5.700,oo €.
