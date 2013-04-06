@@ -1,0 +1,3 @@
+# Član 2
+Proizvođači i uvoznici duvanskih proizvoda i alkoholnih pića, neiskorišćene akcizne markice bez hologramske zaštite, kao i duvanske proizvode i alkoholna pića sa nalijepljenim akciznim markicama bez hologramske zaštite koje imaju na zalihama, mogu da koriste nakon izvršenog popisa neiskorišćenih akciznih markica, duvanskih proizvoda i alkoholnih pića sa nalijepljenim akciznim markicama bez hologramske zaštite na dan isteka roka iz člana 1 ove uredbe i dostavljanja popisne liste nadležnom poreskom organu.
+Popisnu listu iz stava 1 ovog člana proizvođači i uvoznici duvanskih proizvoda i alkoholnih pića dostavljaju nadležnom poreskom organu najkasnije u roku od deset dana po isteku roka iz stava 1 ovog člana.
