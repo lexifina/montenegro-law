@@ -1,0 +1,2 @@
+# Član 2
+Djelovi i uređaji iz člana 1 ovog pravilnika su svaki instrument, oprema, mehanizam, dio, aparat, pribor ili dodatak, uključujući komunikacijsku opremu, koji se upotrebljava ili je namijenjen za upotrebu pri korišćenju ili nadzoru vazduhoplova u letu i koji je instaliran u vazduhoplov ili pričvršćen na vazduhoplov, što obuhvata i djelove strukture vazduhoplova, djelove motora ili djelove elise.
