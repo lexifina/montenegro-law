@@ -1,0 +1,4 @@
+# Član 11
+## Mišljenje na pravilnik o formiranju i korišćenju rezervi za izravnanje rizika
+Na predloženi pravilnik o formiranju i korišćenju rezervi za izravnanje rizika, ovlašćeni aktuar daje mišljenje o tome da li je on u skladu sa Zakonom i pravilnikom Agencije kojim se uređuju bliži kriterijumi i način obračunavanja rezervi za izravnanje rizika; daje mišljenje o načinu formiranja rezervi za izravnanje rizika i predloženom načinu njihovog korišćenja, kao i mišljenje o tome da li su u pravilniku primijenjena pravila struke osiguranja na osnovu dugoročnih (statističkih) podataka o premijama, štetama i tehničkim rezultatima.
+Na predložene izmjene i dopune pravilnika iz stava 1 ovog člana, ovlašćeni aktuar daje mišljenje o tome da li su one u skladu sa Zakonom i pravilnikom Agencije, kojim se uređuju bliži kriterijumi i način obračunavanja rezervi za izravnanje rizika, i da li se predlažu na osnovu iskustva sa štetama ili zbog promjena u portfelju osiguravača.

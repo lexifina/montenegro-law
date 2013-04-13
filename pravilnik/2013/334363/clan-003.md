@@ -1,0 +1,6 @@
+# Član 3
+## Mišljenje na opšte i posebne uslove osiguranja i tarife premija
+Na predložene opšte i posebne uslove osiguranja, ovlašćeni aktuar daje mišljenje o tome da li su oni u skladu sa Zakonom i propisima donijetim na osnovu Zakona i drugih propisa kojima se uređuje djelatnost osiguranja; daje pregled predmeta osiguranja i rizika od kojih se vrši osiguranje, kao i objašnjenje načina sprovođenja osiguranja i ostalih postupaka u procesu sprovođenja osiguranja.
+Odredba stava 1 ovog člana primjenjuje se i na izmjene i dopune uslova iz tog stava.
+Na predložene tarife premija osiguranja, ovlašćeni aktuar daje mišljenje o tome da li su one u skladu sa Zakonom, pravilima aktuarske struke i struke osiguranja; daje informaciju o statističkim podacima na osnovu kojih su izračunate tehničke premije (premijske stope) i podacima o tehničkim osnovama i metodama, odnosno pravilima za izračunavanje premijskih stopa i premija osiguranja klasifikovanih prema grupama koje se mogu definisati i obilježiti jednakim faktorima rizika (aktuarskim i analitičkim metodama).
+Na predložene izmjene i dopune tarifa iz stava 3 ovog člana, ovlašćeni aktuar daje mišljenje o tome da li ih je nadležni organ društva donio u skladu sa Zakonom, pravilima aktuarske struke i struke osiguranja, kao i mišljenje o ostvarenom tehničkom rezultatu za posljednje tri godine primjene tih tarifa.
