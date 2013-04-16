@@ -1,0 +1,2 @@
+Na osnovu člana 97 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06; "Službeni list Crne Gore", br. 88/09, 3/10 i 38/12), člana 46 i 67 Zakona o finansiranju lokalne samoupravu ("Službeni list RCG", br. 42/03, 44/03; "Službeni list CG", br. 5/08, 51/08 i 74/10) člana 65 Odluke o mjesnim zajednicama ("Službeni list Opštine Budva", br. 9/06 i 1/10) i člana 70 Statuta Opštine Budva ("Službeni list Crne Gore", broj 19/10) Predsjednik donosi
+O D L U K U
