@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 5 i člana 45 stav 2 Zakona o prevozu u drumskom saobraćaju ("Sl. list RCG", br. 45/05, 75/10 i 38/12), člana 4 stav 2 i člana 13 stav 3 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 12/95), člana 34 Statuta Opštine Pljevlja ("Sl. list RCG-Opštinski propisi", br. 37/04 i 30/07, i "Sl. list CG- Opštinski propisi", br. 32/09 i 14/11), Skupština opštine Pljevlja na sjednici od: 15.03., 18.03. i 01.04. 2013.god. donijela je
+O D L U K A
