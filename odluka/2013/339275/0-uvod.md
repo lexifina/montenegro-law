@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06, i "Sl. list CG", br. 88/09, 3/10), člana 20 Zakona o poljoprivredi i ruralnom razvoju ("Sl. list CG", broj 56/09), i člana 34 Statuta Opštine Pljevlja ("Sl. list RCG - Opštinski propisi", br. 37/04, 30/07 i "Sl. list CG - Opštinski propisi", br. 11/08, 21/09, i 32/09, 14/11), Skupština opštine Pljevlja, na sjednici održanoj dana 29.03. i 01.04.2013.godine, donijela je
+O D L U K U
