@@ -1,0 +1,2 @@
+Na osnovu člana 38 Statuta Opštine Žabljak ("Sl. list RCG-Opštinski propisi", br. 9/05, 23/07 i "Sl. list CG-Opštinski propisi", broj 3/11) i člana 12 Odluke o načinu formiranja i rada Etičke komisije za praćenje primjene Etičkog kodeksa lokalnih službenika/ca i namještenika/ca u opštini Žabljak ("Sl. list CG-Opštinski propisi", broj 21/11), Skupština opštine Žabljak, na predlog Odbora za izbor i imenovanja, na sjednici održanoj dana 28.03.2013.godine, donijela je
+O D L U K U
