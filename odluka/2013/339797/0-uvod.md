@@ -1,0 +1,2 @@
+Na osnovu člana 1, člana 16 stav 1 alineja 6, čl. 21 i 34 stav 1 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), člana 45 stav 1 tačka 9 i člana 51 stav 1 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 3/10 i 38/12), člana 44 st. 1 i 2 i člana 71 Statuta Prijestonice ("Službeni list CG-Opštinski propisi, broj 19/09 i 37/10), Skupština Prijestonice Cetinje, na sjednici održanoj dana 10.04.2013.donijela je
+O D L U K U
