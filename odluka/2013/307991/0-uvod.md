@@ -1,0 +1,2 @@
+Na osnovu čl. 40, 45 i 47 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10 i 38/12), čl. 38 i 45 Statuta Opštine Žabljak ("Sl. list RCG-Opštinski propisi", br. 9/05, 23/07 i "Sl. list CG-Opštinski propisi", broj 3/11) i člana 43 Poslovnika Skupštine opštine Žabljak ("Sl. list RCG- Opštinski propisi", broj 44/06 i "Sl. list CG-Opštinski propisi", broj 13/11), Skupština opštine Žabljak, na sjednici održanoj dana 28.03.2013.godine, donijela je
+O D L U K U
