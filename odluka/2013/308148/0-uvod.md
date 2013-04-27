@@ -1,0 +1,2 @@
+Na osnovu člana 29 a u vezi sa članom 23 stav1 Zakona o državnoj imovini ("Sl. list CG", broj 21/09), člana 132 st. 3 i 4 Zakona o svojinsko - pravnim odnosima ("Sl. list CG", br. 19/09), člana 33 stav 3 Zakona o lokalnoj samoupravi ("Sl. list RCG", broj 42/03) i člana 30 Statuta Opštine Kotor ("Sl. list Opštine Kotor", br. 3/04 i "Službeni list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 04/11), Zaključka Vlade CG broj 06-398/3 od 07. 03. 2013. godine, Skupština Opštine Kotor, na sjednici održanoj 02. 04. 2013. godine, donijela je
+O D L U K U
