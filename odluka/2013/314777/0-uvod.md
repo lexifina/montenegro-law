@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/02, 28/04, 75/05 i 13/06 i "Sl. list CG", br. 88/09 i 38/12) i člana 5 st. 2 i 3 Odluke o Savjetu za razvoj i zaštitu lokalne samouprave ("Sl. list RCG-Opštinski propisi", br. 30/07 i Odluke o izmjeni Odluke o Savjetu za razvoj i zaštitu lokalne samouprave ("Sl. list CG-Opštinski propisi", br. 8/08), Skupština Prijestonice Cetinje, na sjednici održanoj dana 10.04.2013.godine, donijela je
+O D L U K U
