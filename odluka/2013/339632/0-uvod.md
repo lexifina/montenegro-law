@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list Crne Gore", br. 88/09, 03/10, 73/10 i 38/12), stava 2 člana 6 Odluke o kriterijumima i uslovima ustupanja korišćenja sportskih sadržaja plivačkih bazena u Kotoru ("Sl. list opštine Kotor", br. 4/07) i člana 30 Statuta Opštine Kotor ("Službeni list Opštine Kotor", br. 3/04 i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 04/11), Skupština opštine Kotor je na sjednici održanoj 02. 04. 2013. godine, donijela
+O D L U K U
