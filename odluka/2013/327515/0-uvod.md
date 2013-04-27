@@ -1,0 +1,2 @@
+Na osnovu člana 8 Zakona o regionalnom razvoju ("Sl. list Crne Gore", br. 20/11 i 26/11), člana 31 stav 1 tačka 1 i člana 45 stav 1 tačka 3 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", br. 88/09, 3/10 i 38/12), i člana 30 Statuta Opštine Kotor ("Sl. list Opštine Kotor", br. 3/04 i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 4/11), Skupština Opštine Kotor na sjednici održanoj 02. 04. 2013. godine, donijela je
+O D L U K U
