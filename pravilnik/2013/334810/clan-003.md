@@ -1,0 +1,3 @@
+# Član 3
+## Prednja strana obrasca vozačke dozvole
+Obrazac vozačke dozvole, na prednjoj strani, sadrži Grb Crne Gore, naziv: "Crna Gora", naziv: "Vozačka dozvola" i oznaku "MNE", mjesto za fotografiju, dimenzija 24 x 33 mm; optički varijabilni sigurnosni element kinegram, sa motivom granica Crne Gore, Grba Crne Gore i oznake "MNE", koji zahvata desni dio fotografije; mjesta za prezime, ime, pol, dan, mjesec i godinu rođenja; datum izdavanja, datum prestanka važenja, naziv organa koji je izdao, broj vozačke dozvole, kategorije vozila za koje je vozačka dozvola izdata i potpis lica kome je izdata, kao i ovalni zaštitni element posebne strukture CLI i ugraviranu oznaku "CG".

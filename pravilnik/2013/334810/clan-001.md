@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuje se obrazac i bliži način izdavanja vozačke dozvole, sadržaj obrasca zahtjeva za izdavanje međunarodne vozačke dozvole, visina naknade troškova izrade obrasca vozačke dozvole i visina naknade za korišćenje podataka iz registra vozačkih dozvola, kao i bliži sadržaj i način vođenja evidencije o izdatim vozačkim dozvolama i izdatim međunarodnim vozačkim dozvolama, podacima unijetim u obrazac vozačke dozvole, podnijetim zahtjevima za izdavanje vozačke dozvole, podacima iz zahtjeva, dokumentaciji koja je priložena uz zahtjev, prestanku važenja vozačke dozvole, razlozima i datumu prestanka važenja, mjerama privremenog oduzimanja vozačkih dozvola, kao i o izrađenim obrascima vozačkih dozvola (u daljem tekstu: evidencija).
