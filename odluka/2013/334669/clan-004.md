@@ -1,0 +1,4 @@
+# Član 4
+DSL "Dio sektora 56" sadrži: izvod iz prostornog plana područja posebne namjene, granice područja za koje
+se donosi, detaljnu namjenu površina, ekonomsko-demografsku analizu,plan parcelacije, urbanističko-tehničke uslove za izgradnju objekata, građevinske i regulacione linije, trase infrastrukturnih mreža i saobraćajnica i smjernice za izgradnju infrastrukturnih i komunalnih objekata, nivelaciona i regulaciona rješenja, tačke i uslove priključenja na saobraćajnice, infrastrukturne mreže i komunalne objekte, smjernice urbanističkog i arhitektonskog oblikovanja prostora sa smjernicama za primjenu energetske efikasnosti i obnovljivih izvora energije, režim zaštite kulturne baštine, mjere za zaštitu životne sredine, mjere za zaštitu pejzažnih vrijednosti i smjernice za realizaciju projekata pejzažne arhitekture odnosno uređenja terena, ekonomsko tržišnu projekciju, način, faze i dinamiku realizacije plana.
+DSL "Dio sektora 56" je sastavni dio ove odluke.
