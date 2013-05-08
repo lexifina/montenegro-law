@@ -1,0 +1,2 @@
+# Član 2
+Urbanistička parcela navedena u članu 1. ove odluke sastoji se od katastarskih parcela koje su predmet otkupa, katastarske parcele br. 3209/1 sa LN.br. 1557 KO Ulcinj, u površini od 142 m2 svojina 1/1 Ivanović Vladimira, kat.parc.br. 3226/2 sa LN.br. 1557 KO Ulcinj, u površini od 49m2 svojina 1/1 Ivanović Vladimira, kat.parcele br. 3583/2 sa LN.br. 976 KO Ulcinj svojina Crne Gore-raspolaganje Vlada Crne Gore i kat.parc.br. 3208/5 u površini od 4 m2 upisane u LN.br. 963 KO Ulcinj, svojina CG-raspolaganje Opština Ulcinj-JU Centar za kulturu.
