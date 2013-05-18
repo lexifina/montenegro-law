@@ -1,0 +1,2 @@
+# Član 2
+Evidencija iz člana 1 ovog pravilnika sadrži sljedeće podatke: redni broj upisa, ime i prezime lica odgovornog za održavanje reda i bezbjednosti na rafting ruti, mjesto i datum privremene zabrane odnosno prekida pružanja usluga raftinga, rafting rutu, oznaku čamca za rafting ili splav, ime i prezime vodje čamca za rafting ili splav, razlog privremene zabrane odnosno prekida pružanja usluga raftinga.
