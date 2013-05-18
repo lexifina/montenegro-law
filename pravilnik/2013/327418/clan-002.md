@@ -1,0 +1,2 @@
+# Član 2
+Upisnik čamaca za rafting sadrži: oznaku,ime i luku pripadnosti čamca za rafting,tip, marku, model i materijal gradnje čamca za rafting, mjere čamca za rafting (dužina, širina i visina), tonažu čamaca za rafting (bruto i neto), pogonski uređaj čamaca za rafting, mjesto i godinu gradnje čamca za rafting, dozvoljeni prevoz lica i tereta, namjenu,najmanji broj članova posade čamca za rafting i broj i datum upisa čamca za rafting.
