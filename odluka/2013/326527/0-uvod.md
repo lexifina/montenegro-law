@@ -1,0 +1,2 @@
+Na osnovu člana 14 Zakona o eksproprijaciji ("Službeni list RCG" br. 55/00, 12/02 i 28/06 i "Službeni list CG", broj 21/08), Vlada Crne Gore, na sjednici od 28. marta 2013. godine donijela je
+ODLUKU O UTVRĐIVANJU JAVNOG INTERESA ZA EKSPROPRIJACIJU NEPOKRETNOSTI RADI IZGRADNJE KONVERTORSKOG POSTROJENJA U LASTVI GRBALJSKOJ I IZMJEŠTANJA DV 110 KV NIKŠIĆ-BILEĆA IZ DRAGOVE LUKE
