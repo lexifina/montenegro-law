@@ -1,0 +1,8 @@
+# Član 1
+## o davanju saglasnosti na predlog sudskog poravnanja u postupku pred Privrednim sudom u Podgorici poslovni broj P. br. 43/13
+Daje se saglasnost za zaključenje sudskog poravnanja u parnici između Agencije za izgradnju i razvoj Podgorice d.o.o. i "Stan Projekt" d.o.o. Podgorica, radi duga po osnovu naknade za uređivanje građevinskog zemljišta, koja se vodi pred Privrednim sudom u Podgorici pod brojem P.br. 43/13.
+Sudskim poravnanjem će "Stan Projekt" d.o.o Podgorica izmiriti potraživanje Agencije za izgradnju i razvoj Podgorice d.o.o po osnovu neizmirenog dijela naknade za uređenje građevinskog zemljišta za izgradnju poslovno-stambenog objekta, koji se nalazi na urb.parceli br.2090/1104 u zahvatu Detaljnog urbanističkog plana "Konik-
+Stari Aerodrom" -Izmjene i dopune u Podgorici u iznosu od 376.918,47 €, na način što će joj prenijeti u svojinu stambeni prostor izgrađen na kat.parceli br.868, objekat br.1 označen kao PD 54 površine 165 m2, spratnost PN, upisan u LN 481,KO Podgorica I u vrijednosti od 247.500,00 €.
+Predmetni stambeni prostor ili sredstva od prodaje istog iskoristit će se za uređivanje građevinskog zemljišta saglasno članu 63 Zakona o uređenju prostora i izgradnji objekata.
+Preostali iznos naknade za uređenje građevinskog zemljišta u iznosu od 129.418.47 € "Stan Projekt" d.o.o Podgorica je dužan platiti Agenciji za izgradnju i razvoj Podgorice d.o.o najkasnije do 31.12.2013.godine.
+"Stan Projekt" d.o.o Podgorica je dužan da Agenciji za izgradnju i razvoj Podgorice d.o.o preda predmetnu nepokretnost u svojinu u roku od 15 dana od dana zaključenja poravnanja, bez ikakvih pravnih i stvarnih tereta i ograničenja.
