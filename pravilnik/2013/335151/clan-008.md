@@ -1,0 +1,2 @@
+# Član 8
+Zapisnik iz člana 7 ovog pravilnika sačinjava se u četiri istovjetna primjerka od kojih jedan zadržava policijski službenik ili komunalni policajac koji je naredio premještanje vozila, dva se predaju neposrednom rukovodiocu organizacione jedinice Uprave policije nadležne za poslove bezbjednosti saobraćaja ili službeniku Komunalne policije zaduženom za poslove vođenja evidencija, a jedan primjerak zapisnika se predaje vozaču ili vlasniku vozila.

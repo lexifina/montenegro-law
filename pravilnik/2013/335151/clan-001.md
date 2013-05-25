@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se bliži uslovi koje mora da ispunjava privredno društvo ili preduzetnik za obavljanje poslova premještanja vozila na drugo mjesto, u slučajevima propisanim Zakonom o bezbjednosti saobaraćaja na putevima, način premještanja i čuvanja vozila, način prekida premještanja vozila i sadržaj i način vođenja evidencija o premještenim vozilima i preduzetim radnjama na premještanju vozila na drugo mjesto.
