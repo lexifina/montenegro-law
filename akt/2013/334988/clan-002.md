@@ -1,0 +1,5 @@
+# Član 2
+U Opštim uslovima za snabdijevanje električnom energijom ("Službeni list CG", broj 20/12) u članu 20 poslije stava 4 dodaju se stavovi 5, 6 i 7 koji glase:
+"(5) Kod kupaca kod kojih postoji tehnička mogućnost ograničenja snabdijevanja na mjernom mjestu, Javni snabdijevač može kao mjeru pomoći u ispunjavnja dospjelih obaveza i radi sprečavanja obustave snabdijevanja, umjesto upozorenja o isključenju iz stava 1 ovog člana, dostaviti upozorenje o ograničenju."
+"(6) Upozorenje o ograničenju snabdijevanja dostavlja se najmanje osam dana prije ograničenja isporuke i obavezno sadrži: vrijeme početka i trajanje ograničenja snabdijevanja (ne dužeg od 30 dana), iznos limitirane snage kupca i upozorenje o isključenju nakon isteka roka ograničenja snabdijevanja."
+"(7) Ukoliko kupac za vrijeme trajanja ograničenja snabdijevanja ne plati svoje obaveze za obračunatu električnu energiju ili sa Javnim snabdjevačem ne postigne sporazum o plaćanju Javni snabdjevač će obustaviti snabdijevanje električnom energijom isključenjem sa mreže bez ponovnog upozorenja."
