@@ -1,0 +1,4 @@
+# Član 2
+Ovim pravilnikom se, uz prilagođavanje pravu Crne Gore, preuzima Uredba (EZ) br. 551/2004 Evropskog parlamenta i Savjeta od 10. marta 2004. godine o organizaciji i upotrebi vazdušnog prostora u Jedinstvenom evropskom nebu (u daljem tekstu: Uredba o vazdušnom prostoru) i član 3 Uredbe (EZ) br. 1070/2009 Evropskog parlamenta i Savjeta od 21. oktobra 2009. godine kojom se mijenjaju i dopunjuju Uredbe (EZ) br. 549/2004, 550/2004, 551/2004 i 552/2004 u cilju pоbоlјšаnja efikasnosti i оdrživоsti еvrоpskоg vаzduhоplоvnоg sistеmа.
+Uredba o vazdušnom prostoru preuzima se u prečišćenom tekstu, koji je pripremila Agencija za civilno vazduhoplovstvo, koji sadrži izmjene i dopune ove uredbe propisane članom 3 Uredbe (EZ) br. 1070/2009 od 21. oktobra 2009. godine.
+Prečišćeni tekst Uredbe o vazdušnom prostoru iz stava 2 ovog člana dat je u Prilogu 1*, koji je sastavni dio ovog pravilnika.
