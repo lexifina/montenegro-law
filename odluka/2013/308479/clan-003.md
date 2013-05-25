@@ -1,0 +1,4 @@
+# Član 3
+Podnosiocu zahtjeva koji u roku do sedam dana od dana prijema potvrde o izvršenoj formalnoj procjeni dokumentacije, u pisanoj formi obavijesti Agenciju za ljekove i medicinska sredstva (u daljem tekstu: Agencija) da odustaje od zahtjeva, vraća se iznos naknade umanjen za 30% u odnosu na uplaćeni iznos.
+Podnosiocu zahtjeva koji u roku do sedam dana od dana predaje zahtjeva za izdavanje dozvola, sertifikata i odobrenja iz člana 1 ove odluke, za koje nije propisana formalna procjena dokumentacije, u pisanoj formi obavijesti Agenciju da odustaje od zahtjeva, vraća se iznos naknade umanjen za 30% u odnosu na uplaćeni iznos.
+Ako podnosilac zahtjeva u pisanoj formi odustane od zahtjeva za izdavanje dozvola, sertifikata i odobrenja, nakon isteka roka iz st. 1 i 2 ovog člana, snosi troškove u iznosu koji je utvrđen ovom odlukom za tu vrstu akta.
