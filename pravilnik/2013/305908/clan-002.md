@@ -1,0 +1,4 @@
+# Član 2
+Ovim pravilnikom se, uz prilagođavanje pravu Crne Gore, preuzima Uredba (EZ) br. 550/2004 Evropskog parlamenta i Savjeta od 10. marta 2004. godine o pružanju usluga u vazdušnoj plovidbi u Jedinstvenom evropskom nebu (u daljem tekstu: Urеdbа o pružanju usluga) i član 2 Uredbe (EZ) br. 1070/2009 Evropskog parlamenta i Savjeta od 21. oktobra 2009. godine kojom se mijenjaju i dopunjuju Uredbe (EZ) br. 549/2004, 550/2004, 551/2004 i 552/2004 u cilju pоbоlјšаnja efikasnosti i оdrživоsti еvrоpskоg vаzduhоplоvnоg sistеmа.
+Urеdbа o pružanju usluga preuzima se u prečišćenom tekstu, koji je pripremila Agencija za civilno vazduhoplovstvo i koji sadrži izmjene i dopune ove uredbe, propisane članom 2 Uredbe (EZ) br. 1070/2009 Evropskog parlamenta i Savjeta od 21. oktobra 2009. godine.
+Prečišćeni tekst Urеdbe o pružanju usluga iz stava 2 ovog člana dat je u Prilogu 1*, koji je sastavni dio ovog pravilnika.
