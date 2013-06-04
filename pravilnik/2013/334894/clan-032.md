@@ -1,0 +1,7 @@
+# Član 32
+## Posebni uslovi za ugradnju rezervoara za gas
+Ako je rezervoar za gas smješten u prostor za vozača i putnike, uključujući i prtljažnik, rezervoar odnosno armatura rezervoara (kombinovani - multi ventil) se postavlja u zaštitno zaptivno kućište koje omogućava stalnu zaštitu od mehaničkog oštećenja i pouzdano sprječava mogućnost curenja gasa u unutrašnjost vozila i koje se pomoću ozračnih otvora stalno provjetrava radi sprječavanja nakupljanja gasa i stvaranja eksplozivne smjese sa vazduhom.
+Zaštitno zaptivno kućište rezervoara gasa i njegovih uređaja mora obezbijediti slobodan prostor između rezervoara i kućišta širine od najmanje 20mm.
+Stalno provjetravanje zaštitnog zaptivnog kućišta mora da obezbijedi ulaz i izlaz vazduha kroz cijevi za provjetravanje, koje su iznutra glatke, promjera najmanje 25 mm. Instalacije koje se provode kroz cijevi za provjetravanje mogu smanjiti slobodan presjek tih cijevi najviše 20%.
+Ulazni i izlazni otvori cijevi za provjetravanje iz stava 3 ovog člana moraju biti postavljeni na način kojim se onemogućava njihovo zatvaranje tokom vožnje i moraju biti udaljeni od izduvnog uređaja i drugog izvora iskrenja najmanje 150 mm, ili najmanje 75 mm ako je postavljen usmjerivač koji onemogućava neposredno usmjerenje vazduha za provjetravanje na izduvni uređaj i drugi izvor iskrenja na vozilu.
+Izlazni otvori za provjetravanje zaštitnog zaptivnog kućišta za TNG moraju se po visini postaviti što niže, a otvori za provjetravanje zaštitnog zaptivnog kućišta za metan što visočije.
