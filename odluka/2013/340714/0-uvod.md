@@ -1,0 +1,2 @@
+Na osnovu člana 16 stav 1 Zakona o spomen-obilježjima ("Službeni list CG", broj 40/08), člana 32 stav 1 tačka 40 i člana 40 Statuta Opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", broj 24/10), u skladu sa Programom podizanja spomen-obilježja u opštini Nikšić u 2013. godini i uz saglasnost Ministarstva kulture, broj: 04-1444/2 od 24.07. 2012. godine i broj: 04-1444/4 od 13.09.2012. godine, Skupština opštine Nikšić, na sjednici održanoj 23.05.2013.godine, donijela je
+O D L U K U
