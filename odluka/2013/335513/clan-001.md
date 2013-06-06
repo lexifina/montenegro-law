@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom Skupština Crne Gore pokreće parlamentarnu istragu i formira Anketni odbor (u daljem tekstu Odbor) sa ciljem prikupljanja informacija i utvrđivanja činjenica povodom događaja koji se odnose na rad državnih organa, a na osnovu indicija da su članovi organa Demokratske Partije Socijalista, na sjednicama svojih organa, planirali, osmišljavali i dogovarali aktivnosti u izbornim procesima, zbog sumnje da su zloupotrebljavali državne institucije, organe uprave, agencije, javna preduzeća, budžet i javne fondove, IPA fondove i sredstva EIB.
