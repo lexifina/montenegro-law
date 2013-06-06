@@ -1,0 +1,23 @@
+# Član 24
+Savjet:
+- donosi Statut;
+- bira i razrješava predsjednika Savjeta iz reda članova Savjeta, u skladu sa Poslovnikom o radu Savjeta;
+- imenuje i razješava direktora i sa njim zaključuje ugovor o radu, u skladu sa Zakonom, na način i po postupku propisanom ovom odlukom i Statutom Radija Rožaje ;
+- donosi opšte akte kojima se uređuju pitanja programskih i profesionalnih standarda u društvu.
+- usvaja programska dokumenta ;
+- donosi opšti akt o unutrašnjoj organizaciji i sistematizaciji radnih mjesta u Radiju Rožaje, u skladu sa ovom odlukom i Statutom;
+- usvaja planove rada, izvještaje o radu, periodične i godišnje obračune ;
+- usvaja investicione i finansijske planove;
+- bira ovlašćenog revizora periodičnih i godišnjih obračuna;
+- usvaja izvještaje revizora;
+-daje saglasnost na Ugovor sa nadležnim organom lokalne uprave o sufinansiranju programskih sadržaja u smislu člana 18 stav 2. ove odluke.
+- donosi opšti akt o minimumu procesa rada koji mora biti zadovoljen tokom štrajka zaposlenih;
+- analizira i odlučuje o prijavama u vezi sa kršenjem programskih principa utvrđenih Zakonom i programskim dokumentima i nalaže odgovarajuće mjere;
+- imenuje i razješava Komisiju za predstavke i prigovore slušalaca iz reda članova Savjeta;
+- donosi akte kojima se propisuju nadležnosti i način rada Komisije za predstavke i prigovore slušalaca;
+- donosi pravila o predstavljanju političkih partija, kandidata i koalicija tokom političkih izbornih kampanja;
+- donosi odluke o kupovini, prodaji i stavljanju pod hipoteku imovine Radija Rožaje, u skladu sa Zakonom i opštinskim propisima;
+- donosi odluke o uzimanju bankarskih kredita i davanju finansijskih garancija, u skladu sa Zakonom i opštinskim propisima;
+- daje saglasnost na odluke direktora i ugovore kojima se Društvo obavezuje da izvrši plaćanje u ukupnom iznosu većem od iznosa utvrđenog Statutom;
+- donosi Poslovnik o svom radu;
+- obavlja i druge poslove u skladu sa Zakonom, ovom odlukom i Statutom;
