@@ -1,0 +1,2 @@
+Na osnovu člana 49 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 40/10, 34/11, 40/11 i 47/11), Programa uređenja prostora opštine Plav za 2010. godinu ("Sl. list CG - Opštinski propisi", broj 15/10) i člana 34 Statuta Opštine Plav ("Sl. list RCG - Opštinski propisi", broj 17/07 i "Sl. list CG - Opštinski propisi", br. 25/09 i 38/10), Skupština opštine Plav, na sjednici održanoj 30. 04. 2013. godine, donijela je
+O D L U K U
