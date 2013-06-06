@@ -1,0 +1,2 @@
+# Član 4
+Izdavanje urbanističko tehničkih uslova za izradu tehničke dokumentacije, odnosno građevinske dozvole za realizaciju ove investicije - izgradnja cjevovoda i uređaja za prečišćavanje otpadnih voda, obavljaće Sekretarijat za uređenje prostora i imovinu Opštine Plav, uvažavajući podatke iz Eksproprijacionog elaborata sa predloženom površinom zahvata neophodan za izgradnju objekata, koji će uraditi ovlašćena projektna organizacija. Prema podacima Uprave za nekretnine CG - područna jedinica Plav.
