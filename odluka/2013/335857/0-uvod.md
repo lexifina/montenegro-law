@@ -1,0 +1,2 @@
+Na osnovu člana 12 stav 1 Zakona o strateškoj procjeni uticaja na životnu sredinu ("Službeni list RCG", broj 80/05 i "Službeni list CG", br. 73/10, 40/11 i 59/11), po prethodno pribavljenom mišljenju Ministarstva održivog razvoja i turizma, Agencije za zaštitu životne sredine i Ministarstva zdravlja, Ministarstvo poljoprivrede i ruralnog razvoja donosi
+ODLUKU O IZRADI STRATEŠKE PROCJENE UTICAJA NA ŽIVOTNU SREDINU ZA STRATEGIJU SA PLANOM RAZVOJA ŠUMA I ŠUMARSTVA CRNE GORE

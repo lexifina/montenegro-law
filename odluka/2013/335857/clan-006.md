@@ -1,0 +1,3 @@
+# Član 6
+O izvršenoj strateškoj procjeni izradiće se Izvještaj o strateškoj procjeni uticaja na životnu sredinu za Strategiju sa planom razvoja šuma i šumarstva Crne Gore (u daljem tekstu: Izvještaj), u skladu sa zakonom.
+Izrada Izvještaja ustupiće se, preko Kancelarije projekta Fodemo "Razvoj šumarstva u Crnoj Gori", u skladu sa zakonom domaćem ili stranom pravnom licu ili preduzetniku registrovanom u Centralnom registru privrednih subjekata, odnosno u odgovarajućem registru nadležnog organa matične države stranog lica ili preduzetnika, za obavljanje poslova izrade planskih dokumenata, studija i analiza uticaja na životnu sredinu.

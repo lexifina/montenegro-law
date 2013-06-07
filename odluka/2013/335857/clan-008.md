@@ -1,0 +1,3 @@
+# Član 8
+Ministarstvo, kao organ nadležan za sprovođenje postupka strateške procjene, dužno je obezbijediti saradnju između nosioca izrade Izvještaja i Radne grupe za izradu Strategije, koju je obrazovalo Ministarstvo, na način što će im omogućiti međusobnu razmjenu svih potrebnih podataka kako bi se uskladila izrada ova dva dokumenta. Istovremeno, nosilac izrade Izvještaja dužan je da sve zaključke do kojih dođe tokom njegove izrade, a koji su od suštinskog značaja za koncept Strategije, dostavi Ministarstvu koji će iste proslijediti Radnoj grupi za izradu Strategije radi usklađivanja.
+Finalni izvještaj o strateškoj procjeni zajedno sa mišljenjem nadležnih organa i izvještajem o učešću javnosti biće uključeni u konačni materijal za Vladu.

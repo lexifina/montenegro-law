@@ -1,0 +1,3 @@
+# Član 9
+Ministarstvo će Izvještaj dostaviti na mišljenje Ministarstvu održivog razvoja i turizma, Agenciji za zaštitu životne sredine i Ministarstvu zdravlja, kao i drugim zainteresovanim organima, organizacijama i javnosti i obezbijediti učešće javnosti u razmatranju Izvještaja u skladu sa programom kojim će se utvrditi način i rokovi uvida u sadržinu Izvještaja, kao i način, rokovi i mjesto održavanja javne rasprave (radionica) o Izvještaju.
+Izvještaj, program iz stava 1 ovog člana i izvještaj o učešću zainteresovanih organa, organizacija i javnoj raspravi o Izvještaju, objaviće se na Web sajtu Ministarstva www.minpolj.gov.me
