@@ -1,0 +1,3 @@
+# Član 10
+Kontrola obuhvata neposredni uvid u pravnu, ekonomsko-finansijsku, medicinsku i drugu dokumentaciju, koja se vodi u elektronskoj i papirnoj formi kod Fonda i davaoca zdravstvenih usluga, kao i pribavljanjem izjava prikupljanjem obavještenja od ovlašćenih i drugih lica davaoca zdravstvenih usluga, prikupljanjem obavještenja od osiguranih lica i preduzimanje drugih odgovarajućih mjera i radnji radi utvrđivanja činjeničnog stanja, u vezi sa izvršenjem ugovornih obaveza.
+Podatke koji se odnose na medicinsku dokumentaciju osiguranog lica, a do kojih dođe u vršenju kontrole, kontrolor je dužan da čuva kao službenu tajnu, u skladu sa zakonom.
