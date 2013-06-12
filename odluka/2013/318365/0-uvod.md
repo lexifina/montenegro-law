@@ -1,0 +1,2 @@
+Na osnovu člana 48 Statuta Glavnog grada (″Službeni list RCG - opštinski propisi″, broj 28/06 i ″Službeni list CG - opštinski propisi″, broj 39/10 i 18/12) i člana 4 Odluke o osnivanju Etičke komisije za izabrane predstavnike i funkcionere u lokalnoj samoupravi Glavnog grada - Podgorice (″Sl. list Crne Gore - opštinski propisi″, br. 23/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 11. juna 2013. godine, donijela je
+O D L U K U
