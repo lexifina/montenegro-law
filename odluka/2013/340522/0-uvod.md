@@ -1,0 +1,2 @@
+Na osnovu člana 29, stav 2 Zakona o državnoj imovini ("Sl. list CG", br. 21/09), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi (Sl. list CG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09 i 3/10), člana 7 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl. list CG", br. 44/10), člana 41 Statuta Opštine Bar ("Sl. list CG - Opštinski propisi", br. 6/11) i Zaključka Vlade Crne Gore, broj: 06-401/4 od 07.03. 2013. godine, Skupština opštine Bar, na sjednici održanoj 28.05.2013. godine, donijela je
+O D L U K U
