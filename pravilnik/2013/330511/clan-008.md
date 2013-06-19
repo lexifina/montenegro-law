@@ -1,0 +1,4 @@
+# Član 8
+(1) Ako prijavljeno tijelo za ocjenjivanje usaglašenosti ugovorom povjeri drugom pravnom licu (u daljem tesktu: podizvođač) određene poslove ocjenjivanja usaglašenosti, odnosno ocjenjivanje usaglašenosti obezbijedi preko svog organizacionog oblika (u daljem tekstu: ogranak), o tome obavještava organ za prijavljivanje.
+(2) U slučajevima iz stava 1 ovog člana, prijavljeno tijelo za ocjenjivanje usaglašenosti može da povjeri odnosno obezbijedi obavljanje poslova ocjenjivanja usaglašenosti preko svog organizacionog oblika ako su ispunjeni zahtjevi iz člana 4 ovog pravilnika i odgovoran je za poslove koje ta lica obavljaju.
+(3) Prijavljeno tijelo za ocjenjivanje usaglašenosti, na zahtjev organa za prijavljivanje dostavlja dokumentaciju koja se odnosi na ocjenu kvaliteta rada koji obavlja podizvođač ili ogranak.

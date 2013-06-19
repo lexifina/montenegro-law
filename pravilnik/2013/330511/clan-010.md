@@ -1,0 +1,2 @@
+# Član 10
+Ako utvrdi ili od prijavljenog tijela za ocjenjivanje usaglašenosti bude obaviješten da prijavljeno tijelo za ocjenjivanje usaglašenosti ne ispunjava propisane zahtjeve iz člana 4 ovog pravilnika, ili ne izvršava preuzete obaveze, organ za prijavljivanje će ograničiti, privremeno ili trajno oduzeti prijavu, u zavisnosti od stepena neispunjavanja zahtjeva ili izvršavanja obaveza, i o tome bez odlaganja obavjestiti Evropsku Komisiju i države članice Evropske unije.

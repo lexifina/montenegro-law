@@ -1,0 +1,4 @@
+# Član 12
+(1) Ocjenjivanje usaglašenosti prijavljeno tijelo za ocjenjivanje usaglašenosti vrši primjereno djelatnosti, veličini privrednog društva, sektoru u kojem posluje, strukturi privrednog društva, stepenu složenosti tehnologije proizvodnje ocjenjivanog proizvoda, kao i količini ili vrsti serije proizvodnog procesa.
+(2) Prijavljeno tijelo za ocjenjivanje usaglašenosti prilikom sprovođenja ocjenjivanja usaglašenosti primjenjuje propise i utvrđuje stepen zaštite koji se zahtjeva za usaglašenost proizvoda s tehničkim propisom koji se odnosi na proizvod koji se ocjenjuje.
+(3) Ako prijavljeno tijelo za ocjenjivanje usaglašenosti utvrdi da proizvođač ne ispunjava zahtjeve utvrđene tehničkim propisima ili odgovarajućim harmonizovanim standardima ili tehničkim specifikacijama, naložiće proizvođaču da preduzme odgovarajuće korektivne mjere i neće izdati sertifikat o usaglašenosti.
