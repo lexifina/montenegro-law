@@ -1,0 +1,3 @@
+# Član 2
+Krivokapić Danica, kao predlagač u vanparničnom postupku RS. 178/11 protiv Opštine Kotor, a koji se vodi radi isplate nadoknade se obavezuje da razliku u nadoknadi između procijenjenih vrijednosti nepokretnosti koja je izuzeta i nepokretnosti iz člana 1., procijenjenu od strane sudskog vještaka u postupku a koja iznosi 31.200,00 eura (trideset jednu hiljadu i dvije stotine eura), isplati u korist Budžeta Opštine Kotor, nakon postizanja sudskog poravnanja.
+Nakon isplate razlike nadoknade iz stava 1 ovog člana Sekretarijat za imovinsko pravne poslove izdat će posebnu saglasnost za uknjižbu prava raspolaganja na nepokretnosti iz člana 1. ove odluke u korist predlagača Krivokapić Danice, što će biti sastavni dio sudskog poravnanja.
