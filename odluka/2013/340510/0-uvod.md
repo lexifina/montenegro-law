@@ -1,0 +1,2 @@
+Na osnovu člana 32 Statuta Opštine Andrijevica ("Službeni list RCG - Opštinski propisi", br. 21/04, 42/06 i "Službeni list CG - Opštinski propisi", broj 02/11), a u vezi čl. 7 i 14 Odluke o Etičkoj komisiji za lokalne službenike i namještenike ("Službeni list CG - Opštinski propisi", broj 38/11), Skupština opštine Andrijevica, na sjednici održanoj 30.05.2013.godine, donijela je
+O D L U K U
