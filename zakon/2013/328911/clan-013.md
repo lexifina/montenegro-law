@@ -1,0 +1,8 @@
+# Član 13
+Član 53 mijenja se i glasi:
+"Novčanom kaznom od 1.000 eura do 20.000 eura kazniće se za prekršaj pravno lice - zdravstvena ustanova primarnog nivoa zdravstvene zaštite u kojoj centar za mentalno zdravlje obezbjeđuje zaštitu mentalnog zdravlja, odnosno psihijatrijska ustanova, ako:
+1) pregleda ili podvrgne medicinskom postupku mentalno oboljelo lice koje može razumjeti prirodu, posljedice i opasnost predloženog medicinskog postupka i koje na osnovu toga može da donese odluku i izrazi svoju volju, bez pisanog pristanka tog lica (član 14 stav 1);
+2) podvrgne pregledu ili medicinskom postupku punoljetno mentalno oboljelo lice koje nije sposobno da da svoj pristanak ili maloljetno mentalno oboljelo lice, bez saglasnosti njegovog zakonskog zastupnika, odnosno etičkog komiteta psihijatrijske ustanove (član 15 st. 2 i 3);
+3) ne vodi medicinsku dokumentaciju o svim preduzetim medicinskim postupcima u liječenju mentalno oboljelog lica, u skladu sa zakonom (član 26);
+4) da podatke iz medicinske dokumentacije koji su potrebni za ostvarivanje prava mentalno oboljelog lica u službene svrhe na zahtjev nadležnih organa bez saglasnosti tog lica, a ako to lice nije sposobno da da saglasnost, osnovano se ne može pretpostaviti da se mentalno oboljelo lice ne bi protivilo davanju tih podataka (član 27 stav 4).
+Za prekršaj iz stava 1 ovog člana kazniće se i odgovorno lice u pravnom licu - zdravstvenoj ustanovi primarnog nivoa zdravstvene zaštite u kojoj centar za mentalno zdravlje obezbjeđuje zaštitu mentalnog zdravlja, odnosno psihijatrijske ustanove novčanom kaznom od 250 eura do 2.000 eura."
