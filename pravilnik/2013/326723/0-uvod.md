@@ -1,0 +1,3 @@
+Na osnovu člana 113 stav 5 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 8/04, 75/05, 13/06 i "Službeni list CG", br. 78/09, 3/10 i 38/12), čl. 10, 15, i 16 Zakona o žaštiti lica i imovine ("Službeni list RCG", broj 29/05 i "Službeni list CG", br. 26/10, 73/10 i 40/11) čl.5, 7 i 101 Zakona o zaštiti i spašavanju ("Službeni list CG", broj 13/07, 5/08, 86/09 i 32/11), čl. 33 i 34 Zakona o zaštiti podataka o ličnosti ("Službeni list CG", br. 79/08 i 70/09) i člana 70 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", broj 19/10) Predsjednik Opštine donosi
+P R A V I L N I K
+o radu Službe zaštite
