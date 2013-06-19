@@ -1,0 +1,2 @@
+Na osnovu člana 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor", broj 03/04 i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 04/11) i člana 16 Odluke o organizovanju Javnog preduzeća "Vodovod i kanalizacija" Kotor ("Sl. list SRCG - Opštinski propisi", broj 10/90, "Sl. list RCG - Opštinski propisi ", broj 30/92 i "Sl. list Opštine Kotor", broj 04/00), Skupština opštine Kotor, na sjednici održanoj 24. 05. 2013. godine, donijela je
+O D L U K U
