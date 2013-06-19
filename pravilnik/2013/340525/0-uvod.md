@@ -1,0 +1,2 @@
+Na osnovu člana 113 stav 5 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06, "Službeni list CG", br. 88/09, 3/10 i 38/12), člana 18 tačka 3 Zakona o zaštiti lica i imovine ("Službeni list RCG", broj 29/05, Službeni list Crne Gore", br. 26/10, 73/10 i 40/11) i člana 70 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", broj 19/10) Predsjednik Opštine donosi
+P R A V I L N I K
