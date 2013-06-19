@@ -1,0 +1,5 @@
+# Član 117
+## Druge javne ustanove
+Javne ustanove iz člana 112 stav 1 tač. 2 i 3 ovog zakona pružaju usluge podrške za samostalni život, savjetodavno-terapijske i socijalno-edukativne usluge i obavljaju poslove smještaja: djece sa poremećajima u ponašanju, djece bez roditeljskog staranja, djece čiji je razvoj ometen porodičnim prilikama, djece sa smetnjama u razvoju, odraslih lica sa invaliditetom, odraslih i starih lica sa psihijatrijskim stanjima, starih lica i lica koja su liječena od bolesti zavisnosti od droga, kao i druge poslove u skladu sa zakonom.
+Javne ustanove koje obavljaju poslove smještaja djece, mladih, odraslih i starijih lica transformisaće se s ciljem razvoja usluga podrške za samostalni život, savjetodavno - terapijske, odnosno socijalno-edukativne usluge, u skladu sa planom transformacije koji donosi nadležni organ državne uprave.
+Javna ustanova iz člana 112 stav 1 tačka 4 ovog zakona obavlja poslove odmora i rekreacije za dijete korisnika materijalnog obezbjeđenja i za dijete smješteno u ustanovu ili na porodičnom smještaju-hraniteljstvu.
