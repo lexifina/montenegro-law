@@ -1,0 +1,2 @@
+Na osnovu člana 48 stav 1 alineja 48 Statuta Glavnog grada ("Službeni list RCG - opštinski propisi", broj 28/06 i "Službeni list Crne Gore - opštinski propisi", broj 39/10 i 18/12) i člana 11 stav 2 Odluke o osnivanju Javnog preduzeća "Sportski objekti" ("Službeni list Crne Gore - opštinski propisi", br. 38/09), Skupština Glavnog grada - Podgorice, na sjednici održanoj 11. juna 2013.godine, donijela je
+O D L U K U
