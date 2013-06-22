@@ -1,0 +1,2 @@
+Na osnovu člana 48 stav 1 alineja 2 Statuta Glavnog grada (″Službeni list RCG-opštinski propisi″, broj 28/06 i ″Službeni list CG-opštinski propisi″, broj 39/10 i 18/12) i člana 5 stav 2 Odluke o osnivanju Savjeta za razvoj i zaštitu lokalne samouprave Glavnog grada-Podgorice (″Službeni list CG-opštinski propisi″, broj 23/11), Skupština Glavnog grada-Podgorice, na sjednici održanoj 11. juna 2013. godine, donijela je
+O D L U K U
