@@ -1,0 +1,2 @@
+# Član 11
+Privredno društvo i preduzetnik, čiji je račun blokiran u postupku prinudne naplate, ne smije, nakon isteka roka od 30 dana od dana blokade računa, vršiti naplatu svojih potraživanja i plaćanje svojih obaveza ugovaranjem promjene povjerilaca, odnosno dužnika u određenom obligacionom odnosu (asignacija, cesija, preuzimanje, ustupanje duga i dr.), prebijanjem (kompenzacijom), prenosom hartija od vrijednosti i/ili na drugi način kojim bi se izbjegavala naplata potraživanja i plaćanje obaveza preko računa, ako nije drukčije utvrđeno poreskim propisima.
