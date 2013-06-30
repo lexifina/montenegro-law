@@ -1,0 +1,4 @@
+# Član 3
+Revizorska dokumentacija se odlaže i čuva na bezbjednom mjestu, zaštićena od fizičkog uništenja i neovlašćenog korišćenja, u skladu sa Zakonom o sistemu unutrašnjih finansijskih kontrola, Međunarodnim standardima unutrašnje revizije, propisima o kancelarijskom poslovanju i propisima kojima se uređuje oblast koja je predmet unutrašnje revizije.
+Revizorska dokumentacija je povjerljiva i može se koristiti samo za potrebe revizije, ocjene kvaliteta rada unutrašnje revizije i druge namjene, u skladu sa Zakonom o sistemu unutrašnjih finansijskih kontrola i Međunarodnim standardima unutrašnje revizije.
+Revizorsku dokumentaciju mogu koristiti samo ovlašćena lica u jedinici za unutrašnju reviziju i lica koji imaju odobrenje za korišćenje od rukovodioca subjekta odnosno rukovodioca jedinice za unutrašnju reviziju.
