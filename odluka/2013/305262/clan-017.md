@@ -1,0 +1,2 @@
+# Član 17
+U slučaju da se korisnik ili drugo pravno ili fizičko lice ne pridržavaju odredbi ove Odluke, te oštete ili umanje vrijednost odnosnog sredstva, sitnog inventara, ambalaže ili drugih materijalnih vrijednosti na pijaci dužan je pričinjenu štetu nadoknaditi korisniku. Visinu pričinjene štete utvrdjuje komisija korisnika koju imenuje Izvršni direktor. Oštećenu stvar korisnik će popraviti o trošku korisnika ili učinioca štete.
