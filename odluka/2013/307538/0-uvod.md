@@ -1,0 +1,2 @@
+Na osnovu člana 11 stav 1 alineja 9 Zakona o državnoj imovini ("Službeni list CG", broj 21/09 ,40/11), člana 65 stav 1 i člana 66 stav 1 alineja 1, Zakona o zaštiti prirode ( "Službeni list CG" broj 51/08,21/09, 40/11), kao i člana 63 Statuta Prijestonice ("Službeni list CG - opštinski propisi", broj 19/09, 37/10), Skupština Prijestonice, na sjednici održanoj dana 14.06.2013. godine, donijela je
+O D L U K U
