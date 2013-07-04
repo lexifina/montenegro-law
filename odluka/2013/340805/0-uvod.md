@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("SL.list RCG" br.42/03,28/04,75/05 i 13/06 i "SL.list CG", br.88/09 i 03/10), člana 25 Zakona o stanovanju i održavanju stambenih zgrada ("SL.list CG",br.04/11 i 40/11) i člana 31 i 35 Statuta opštine Kolašin-Prečišćeni tekst ("SL.list CG-opštinsli propisi " br. 31/11 ) na sjednici održanoj dana 14.06. 2013. godine donijela je
+O D L U K U
