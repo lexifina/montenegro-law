@@ -1,0 +1,2 @@
+# Član 1
+Poslovi državne uprave iz nadležnosti Ministarstva održivog razvoja i turizma, koji se odnose na izdavanje i oduzimanje licenci, ovjeru licenci i poništavanje ovjere licenci, vođenja registra licenci i objavljivanja na sajtu iz čl. 35, 36, 37, 83, 84, 85, 106, 107, 108, 134, 135, 136 i 138 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08 i 34/11), povjeravaju se Inženjerskoj komori Crne Gore, (u daljem tekstu: Komora).
