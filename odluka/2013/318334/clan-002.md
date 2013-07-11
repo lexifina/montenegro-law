@@ -1,0 +1,7 @@
+# Član 2
+Pravo svojine na zemljištu iz člana 1 ove odluke prenosi se u zamjenu za pravo svojine na zemljištu, i to:
+• zemljište ukupne površine 3.483m2, označeno kat.parcelama broj 586/1, 586/2, 586/5, 586/6, 586/7, 586/4, 587/3 i 587/2 iz l.n.br 4970 KO Podgorica II, koje čini urbanističku parcelu broj 68 u zahvatu DUP-a "Zagorič 1-dio zone A"-Izmjene i dopune, na kojoj je planirana poslovna zgrada (ambasada),
+• zemljište ukupne površine 1.102m2, označeno kat.parcelama broj 583/8 i 584/3, iz l.n.br. 4459 i 4228 KO Podgorica II, koje čini urbanističke parcele broj 67 i 520 u zahvatu DUP-a "Zagorič 1-dio zone A"-Izmjene i dopune, na kojima su planirani objekti namjene individualno stanovanje,
+• zemljište ukupne površine 3.305m2, označeno kat.parcelama, 585/5, 585/6, 585/7, 585/8, 585/9 i 638/2 iz l.n.br. 4606 i 4780 KO Podgorica II, koje čini urbanističke parcele broj 504, 505, 502 i 503 u zahvatu DUP-a "Zagorič 1"-Izmjene i dopune, na kojima su planirani objekti namjene individualno stanovanje.
+Ukupna procijenjena vrijednost zemljišta koje NR Kina prenosi u svojinu Glavnom gradu, shodno procjeni Komisije Uprave za nekretnine Crne Gore, broj 02-9773/4-12, od 30.05.2013.godine, iznosi 1.262.762,20 eura.
+Obaveza Ambasade NR Kine je da izmiri Glavnom gradu razliku u vrijednosti zemljišta koje je predmet ove odluke, u iznosu od 2.166.098,45 eura, u roku koji će se definisati ugovorom o razmjeni.
