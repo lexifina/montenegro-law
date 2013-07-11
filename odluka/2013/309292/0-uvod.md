@@ -1,0 +1,2 @@
+Na osnovu člana 42 Zakona o kulturi ("Sl. list CG", broj 49/08, 16/11, 40/11 i 38/12), člana 8 stav 1 i člana 10 Zakona o muzejskoj djelatnosti ("Sl. list CG", broj 49/10, 40/11), člana 34 Zakona o lokanoj samoupravi ("Sl. list RCG", broj 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", broj 88/09 i 3/10), čl. 25 i 36 stav 1 tačka 15 Statuta Opštine Herceg Novi ("Sl. list RCG-Opštinski propisi", broj 15/04, 32/05, 31/06, 14/07 i "Sl. list CG - Opštinski propisi", broj 16/09 i 16/11), Skupština opštine Herceg Novi, na sjednici održanoj dana 2.07.2013.g. donosi
+O D L U K U
