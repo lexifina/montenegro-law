@@ -1,0 +1,2 @@
+# Član 1
+Skupština opštine Herceg Novi daje saglasnost na tekst Protokola o regulisanju međusobnih obaveza Između: Vade Crne Gore, Ministarstva finansija koje zastupa ministar finansija dr Radoje Žugić, Opštine Herceg Novi, koju zastupa predsjednik Opštine Herceg Novi Dejan Mandić i Javno Komunalno Stambenog Preduzeća Herceg Novi koje zastupa direktor Boris Seferović br. 01-1-876/13 od 26.06.2013.g.
