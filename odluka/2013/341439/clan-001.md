@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za zaključenje poravnanja u predmetu Posl.br. P.1185/10/10
+Daje se saglasnost za zaključenje sudskog poravnanja u parničnom postupku koji se pred Osnovnim sudom u Kotoru vodi pod Posl.br. P.1185/10/10 na način što će se tužena Opština Tivat obavezati da isplati tužiocima Janković Đuru, Uskoković Božidaru, Stjepčević Dejanu, Maslovar Dejanu, Petković Damiru, Belan Vicku, Radnjić Boru, Brkan Elvisu, Matković Albertu, Živić Marku, Janović Slavku, Ulčar Ivanu i Pean Branku naknadu u ukupnom iznosu od 36.800,00 €, po osnovu prekovremenog rada, noćnog i rada u vrijeme državnih i vjerskih praznika u Službi zaštite opštine Tivat u periodu od 12.10.2007.g. do 30.06.2010.godine kao i troškove postupka u iznosu od 5.000,00 €.
