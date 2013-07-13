@@ -1,0 +1,2 @@
+# Član 4
+Planom je predviđeno da se unutar obuhvata, shodno osnovnim postavkama planskog dokumenta višeg reda, planira izgradnja sa namjenom: stanovanje male gustine, stanovanje srednje gustine, mješovita namjena, centralne djelatnosti, površine za školstvo i socijalnu zaštitu, površine za sport i rekreaciju, površine za pejzažno uredenje naselja, vodene površine i površine za saobracajnu i komunalnu infrastrukturu.
