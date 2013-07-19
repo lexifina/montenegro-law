@@ -1,0 +1,2 @@
+# Član 13
+Donošenjem ove odluke prestaje da važi Odluka o stipendiranju učenika i studenata -djece palih boraca i invalida u oružanim sukobima 1991-1992 godine sa teritorije opštine Pljevlja ("Sl. Novine Opštine Pljevlja", broj 7/94) i Odluka o izmjenama i dopunama odluke o stipendiranju učenika i studenata -djece palih boraca i invalida u oružanim sukobima 1991 -1992. godine sa teritorije Opštine Pljevlja ("Službeni list RCG - Opštinski propisi", br. 11/07).

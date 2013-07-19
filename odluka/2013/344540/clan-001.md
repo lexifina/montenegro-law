@@ -1,0 +1,3 @@
+# Član 1
+## o stipendiranju učenika i studenata - djece palih boraca i invalida u oružanim sukobima 1991-1992. godine sa teritorije Opštine Pljevlja
+Ovom odlukom se utvrđuje pravo na stipendiju učenicima i studentima - djeci palih boraca i invalida u oružanim sukobima 1991 - 1992. godine sa teritorije opštine Pljevlja, uslovi, način i postupak ostvarivanja tog prava, način obezbjeđivanja sredstava, osnovica za utvrđivanje mjesečnog iznosa, mjesečni iznos stipendije za učenike i studente, kao i organ nadležan za njeno sprovođenje cilju zadovoljavanja osnovnih potreba u toku školovanja djece palih boraca i invalida u oružanim sukobima od 1991. i 1992. godine.
