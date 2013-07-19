@@ -1,0 +1,2 @@
+Na osnovu člana 32 Statuta Opštine Andrijevica ("Službeni list RCG - Opštinski propisi", br. 21/04, 42/06 i "Službeni list CG-Opštinski propisi", br. 02/11) i člana 25 Odluke o osnovanju društva sa ograničenom odgovornošću lokalni javni emiter "Radio Andrijevica" ("Službeni list CG-Opštinski propisi", broj 05/12 i 03/13), Skupština opštine Andrijevica, na sjednici održanoj 01.07.2013. godine, donijela je
+O D L U K U
