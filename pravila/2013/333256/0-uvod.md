@@ -1,0 +1,2 @@
+Na osnovu člana 6b, stav 3 Zakona o računovodstvu i reviziji Crne Gore ("Službeni list RCG", br. 69/05 i "Sl. list Crne Gore", broj 32/11), člana 8 stav 1 tačka 18) Zakona o hartijama od vrijednosti ("Sl. list RCG", br. 59/00, 10/01, 43/05, 28/06, i "Sl. list CG", br. 53/09, 73/10, 40/11) Komisija za hartije od vrijednosti na 72. sjednici održanoj 5.07.2013. godine, donijela je
+PRAVILA O IZMJENI PRAVILA O KONTNOM OKVIRU, SADRŽAJU RAČUNA U KONTNOM OKVIRU, SADRŽAJU I FORMI FINANSIJSKIH IZVJEŠTAJA ZA INVESTICIONE FONDOVE
