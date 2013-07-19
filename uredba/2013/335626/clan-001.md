@@ -1,0 +1,4 @@
+# Član 1
+## Predmet
+Ocjenjivanje rada državnog službenika, odnosno namještenika, u okviru zakonom utvrđenih kriterijuma (postignuti rezultati rada, samostalnost i kreativnost u vršenju poslova, kvalitet ostvarene saradnje sa strankama i saradnicima na poslu, kvalitet organizacije rada u vršenju poslova, kao i druge sposobnosti, vještine i kvalitet u vršenju poslova), vrši se prema mjerilima i na način koji su utvrđeni ovom uredbom.
+Ova uredba primjenjuje se i na zaposlene u Fondu penzijskog i invalidskog osiguranja Crne Gore, Fondu za zdravstveno osiguranje Crne Gore, Zavodu za zapošljavanje Crne Gore, Fondu rada i Agenciji za mirno rješavanje radnih sporova.
