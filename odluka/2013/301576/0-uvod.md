@@ -1,0 +1,3 @@
+Na osnovu člana 22 st. 1 i 5 Zakona o putevima ("Sl. list RCG", br. 42/04 i "Sl. list CG", br. 21/09, 54/09, 40/10, 73/10, 36/11, 40/11), član 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10) i člana 42 Statuta Opštine Rožaje ("Sl. list CG - Opštinski propisi", br. 9/11), na osnovu prethodno pribavljene saglasnosti Vlade Crne Gore br. 08-1379/3 od 20.06.2013. godine, Skupština opštine Rožaje, na sjednici održanoj dana 27.06.2013. godine, donosi
+O D L U K U
+o izmjenama i dopunama Odluke o naknadama za korišćenje opštinskih i nekategorisanih
