@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom osniva se Društvo sa ograničenom odgovornošću "Vodovod i kanalizacija"- Podgorica (u daljem tekstu: Društvo), kao jednočlano društvo, radi obavljanja poslova komunalne djelatnosti snabdijevanja pitkom vodom Glavnog grada - Podgorice (u daljem tekstu:Glavni grad) i gradskih opština, odvođenja i prečišćavanja otpadnih voda sa teritorije Glavnog grada, u skladu sa ovom odlukom i Statutom Društva.
