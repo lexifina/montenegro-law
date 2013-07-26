@@ -1,0 +1,4 @@
+# Član 11
+## Utvrđivanje predloga ocjene rada i upoznavanje sa predlogom ocjene rada
+Utvrđivanje predloga ocjene rada neposredni rukovodilac vrši tokom razgovora sa državnim službenikom, odnosno namještenikom, nakon čega ga upoznaje sa predlogom ocjene rada koja je unijeta u obrazac ocjene rada, i o tome sačinjava službenu zabilješku u koju unosi datum obavljenog razgovora, eventualno neslaganje državnog službenika, odnosno namještenika sa predlogom ocjene rada, kao i razloge neslaganja.
+Zabilješku iz stava 1 ovog člana, sa potpisom državnog službenika, odnosno namještenika i neposrednog rukovodioca, uz popunjeni obrazac ocjene rada koji sadrži predlog ocjene rada, neposredni rukovodilac, uz prethodnu saglasnost višeg neposrednog rukovodioca, dostavlja generalnom sekretaru Skupštine radi donošenja ocjene rada.

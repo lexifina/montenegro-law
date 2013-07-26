@@ -1,0 +1,2 @@
+# Član 1
+Ocjenjivanje rada državnog službenika, odnosno namještenika, u okviru zakonom utvrđenih kriterijuma (postignuti rezultati rada, samostalnost i kreativnost u vršenju poslova, kvalitet ostvarene saradnje sa strankama i saradnicima na poslu, kvalitet organizacije rada u vršenju poslova, kao i druge sposobnosti, vještine i kvalitet u vršenju poslova), vrši se prema mjerilima i na način koji su utvrđeni ovim pravilnikom.
