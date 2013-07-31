@@ -1,3 +1,3 @@
 # Члан 137
 ## Функционални имунитет
-Државни тужилац и замјеник државног тужиоца уживају функционални имунитет и не могу бити позвани на одговорност за мишљење дато или одлуку донијету у вршењу своје функције, осим ако се ради о кривичном дјелу.
+Rukovodilac državnog tužilaštva i državni tužilac uživaju funkcionalni imunitet i ne mogu biti pozvani na odgovornost za mišljenje dato ili odluku donijetu u vršenju svoje funkcije, osim ako se radi o krivičnom djelu.
