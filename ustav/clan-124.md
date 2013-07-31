@@ -1,6 +1,7 @@
 # Члан 124
 ## Врховни суд
 Врховни суд је највиши суд у Црној Гори.
-Врховни суд обезбјеђује јединствену примјену закона од стране судова.
-Предсједника Врховног суда бира и разрјешава те функције Скупштина на заједнички предлог предсједника Црне Горе, предсједника Скупштине и предсједника Владе.
-Ако се предлог за избор предсједника Врховног суда не поднесе у року од 30 дана, предсједник Врховног суда се бира на предлог надлежног радног тијела Скупштине.
+Vrhovni sud obezbjeđuje jedinstvenu primjenu zakona od strane sudova i vrši druge poslove propisane zakonom.
+Predsjednika Vrhovnog suda bira i razrješava Sudski savjet dvotrećinskom većinom, na predlog Opšte sjednice Vrhovnog suda.
+Predsjednik Vrhovnog suda bira se na pet godina.
+Isto lice može biti birano za predsjednika Vrhovnog suda najviše dva puta.
