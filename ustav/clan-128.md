@@ -1,12 +1,14 @@
 # Члан 128
 ## Надлежност Судског савјета
-Судски савјет:
-1) бира и разрјешава судију, предсједника суда и судију-поротника;
-2) утврђује престанак судијске функције;
-3) утврђује број судија и судија-поротника у суду;
-4) разматра извјештај о раду суда, представке и притужбе на рад суда и заузима ставове о њима;
-5) одлучује о имунитету судије;
-6) предлаже Влади износ средстава за рад судова;
-7) врши и друге послове утврђене законом.
-Судски савјет одлучује већином гласова свих чланова.
-У поступцима дисциплинске одговорности судија, министар правде не гласа.
+Sudski savjet:
+1) bira i razrješava predsjednika Vrhovnog suda;
+2) bira i razrješava predsjednika Sudskog savjeta;
+3) dostavlja Skupštini godišnji izvještaj o radu Sudskog savjeta i ukupnom stanju u sudstvu;
+4) bira i razrješava sudiju, predsjednika suda i sudiju-porotnika;
+5) razmatra izvještaj o radu suda, predstavke i pritužbe na rad suda i zauzima stavove o njima;
+6) utvrđuje prestanak sudijske funkcije;
+7) utvrđuje broj sudija i sudija porotnika;
+8) predlaže Vladi iznos sredstava za rad sudova;
+9) vrši i druge poslove utvrđene zakonom.
+Sudski savjet odlučuje većinom glasova svih članova osim u slučajevima propisanim Ustavom.
+U postupcima disciplinske odgovornosti sudija, ministar nadležan za poslove pravosuđa ne glasa.
