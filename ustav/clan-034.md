@@ -1,3 +1,3 @@
 # Члан 34
-## Блажи закон
-Кривична и друга кажњива дјела утврђују се и казне за њих изричу по закону који је важио у вријеме извршења дјела, осим ако је нови закон блажи за учиниоца.
+## Blaži propis
+Krivična i druga kažnjiva djela utvrđuju se i kazne za njih izriču po zakonu ili propisu koji je važio u vrijeme izvršenja djela, osim ako je novi zakon ili propis blaži za učinioca.
