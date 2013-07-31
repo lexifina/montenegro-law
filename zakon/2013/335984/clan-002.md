@@ -1,0 +1,4 @@
+# Član 2
+## Socijalno stanovanje
+Socijalno stanovanje, u smislu ovog zakona, je stanovanje odgovarajućeg standarda koje se obezbjeđuje pojedincima ili domaćinstvima koja iz socijalnih, ekonomskih i drugih razloga ne mogu da riješe pitanje stanovanja.
+Stanovanje odgovarajućeg standarda,u smislu stava 1 ovog člana, je stanovanje koje je u skladu sa načelima: dostupnosti, pravne sigurnosti, pristupačnosti stana za lica smanjene pokretljivosti i lica sa invaliditetom, stabilnosti i trajnosti objekata, aseizmičkog i arhitektonskog projektovanja, građenja objekata, zaštite zdravlja, zaštite životne sredine i prostora, zaštite od prirodnih i tehničko-tehnoloških nesreća, zaštite od požara, eksplozija i industrijskih incidenata, toplotne zaštite, energetske efikasnosti i zaštite od buke i vibracija.
