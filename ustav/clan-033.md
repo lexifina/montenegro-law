@@ -1,3 +1,4 @@
 # Члан 33
 ## Начело законитости
-Нико не може бити кажњен за дјело које, прије него што је учињено, није било прописано законом као кажњиво дјело, нити му се може изрећи казна која за то дјело није била предвиђена.
+Niko ne može biti kažnjen za djelo koje, prije nego što je učinjeno, nije bilo propisano zakonom ili propisom zasnovanim na zakonu kao kažnjivo djelo, niti mu se može izreći kazna koja za to djelo nije bila predviđena.
+Krivična djela i krivične sankcije mogu se propisivati samo zakonom.
