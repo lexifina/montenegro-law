@@ -1,11 +1,13 @@
 # Члан 127
 ## Састав Судског савјета
-Судски савјет има предсједника и девет чланова.
-Предсједник Судског савјета је предсједник Врховног суда.
-Чланови Судског савјета су:
-1) четири судије које бира и разрјешава Конференција судија;
-2) два посланика које бира и разрјешава Скупштина из реда парламентарне већине и опозиције;
-3) два угледна правника које бира и разрјешава предсједник Црне Горе;
-4) министар правде.
-Састав Судског савјета проглашава предсједник Црне Горе.
-Мандат Судског савјета је четири године.
+Sudski savjet ima predsjednika i devet članova.
+Članovi Sudskog savjeta su:
+1) predsjednik Vrhovnog suda;
+2) četiri sudije koje bira i razrješava Konferencija sudija, vodeći računa o ravnomjernoj zastupljenosti sudova i sudija;
+3) četiri ugledna pravnika koje bira i razrješava Skupština, na predlog nadležnog radnog tijela Skupštine po raspisanom javnom pozivu;
+4) ministar nadležan za poslove pravosuđa.
+Predsjednika Sudskog savjeta bira Sudski savjet iz reda svojih članova, koji nijesu nosioci sudijske funkcije, dvotrećinskom većinom članova Sudskog savjeta.
+Za predsjednika Sudskog savjeta ne može biti biran ministar nadležan za poslove pravosuđa.
+Predsjednik Sudskog savjeta ima odlučujući glas u slučaju jednakog broja glasova.
+Sastav Sudskog savjeta proglašava predsjednik Crne Gore.
+Mandat Sudskog savjeta je četiri godine.
