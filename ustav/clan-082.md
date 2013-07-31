@@ -13,8 +13,8 @@
 10) врши надзор над Војском и безбједносним службама;
 11) расписује државни референдум;
 12) бира и разрјешава предсједника и чланове Владе;
-13) бира и разрјешава предсједника Врховног суда, предсједника и судије Уставног суда;
-14) именује и разрјешава: врховног државног тужиоца и државне тужиоце, заштитника људских права и слобода; гувернера Централне банке и чланове Савјета Централне банке Црне Горе; предсједника и чланове Сената Државне ревизорске институције и друге носиоце функција одређене законом;
+13) bira i razrješava sudije Ustavnog suda,vrhovnog državnog tužioca i četiri člana Sudskog savjeta iz reda uglednih pravnika;
+14) imenuje i razrješava: zaštitnika ljudskih prava i sloboda; guvernera Centralne banke i članove Savjeta Centralne banke Crne Gore; predsjednika i članove Senata Državne revizorske institucije i druge nosioce funkcija određene zakonom;
 15) одлучује о имунитетским правима;
 16) даје амнестију;
 17) потврђује међународне уговоре;
