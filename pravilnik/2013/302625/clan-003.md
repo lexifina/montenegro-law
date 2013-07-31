@@ -1,0 +1,6 @@
+# Član 3
+## Izgled unutrašnje strane legitimacije
+Unutrašnja strana legitimacije (Obrazac 2) sadrži mjesta za umetanje kartice sa identifikacionim podacima i ovlašćenjima policijskih službenika.
+Kartica je svijetloplave boje, pravougaonog oblika, dimenzija 17 x 8 cm i izrađena je od posebnog materijala koji omogućava potreban stepen zaštite i trajnosti, u čijoj pozadini u gornjem i donjem dijelu se nalazi Grb Crne Gore.
+Kartica na gornjoj unutrašnjoj strani legitimacije sadrži nazive: ’’Crna Gora’’, ’’Ministarstvo unutrašnjih poslova’’ i ’’Uprava policije’’; mjesta za fotografiju dimenzija 2,5 x 3 cm, registarski broj, oznaku serije i serijski broj; naziv ’’SLUŽBENA LEGITIMACIJA’’ i mjesta za ime i prezime policijskog službenika kome se izdaje legitimacija, datum izdavanja, potpis ministra unutrašnjih poslova i pečat.
+Kartica na donjoj unutrašnjoj strani legitimacije sadrži tekst o ovlašćenjima koji glasi: ’’Policijski službenik, pored ovlašćenja, mjera i radnji utvrđenih Zakonikom o krivičnom postupku, Zakonom o prekršajima i posebnim zakonima, ovlašćen je da: prikuplja i obrađuje lične i druge podatke; vrši pozivanje; daje upozorenja i izdaje naređenja; upotrebljava tuđe saobraćajno sredstvo i sredstvo veze; upotrebljava sredstva prinude, i preduzima prikrivene policijske radnje.’’

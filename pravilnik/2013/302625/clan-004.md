@@ -1,0 +1,3 @@
+# Član 4
+## Izgled policijske značke
+Policijska značka je veličine 7,7 x 7,7 cm. Osnova policijske značke je osmokraka zvijezda zlatne boje za policijske službenike koji imaju zvanje glavnog policijskoj inspektora do mlađeg policijskog inspektora, a srebrne boje za policijske službenike koji imaju zvanje starijeg policijskog narednika do zvanja policajca, sa lentom plave boje u gornjem vodoravnom dijelu i natpisom "POLICIJA", ispisanim latiničnim pismom slovima zlatne boje, plavim krugom u koji su utisnute zlatne zvjezdice i heraldičkom oznakom za novčanu jedinicu perper stare Crne Gore. U sredini značke je štit crvene boje sa Grbom Crne Gore i zracima, kao i nazivom ''CRNA GORA'', a u donjem dijelu plavog kruga je pločica sa serijskim brojem značke (Obrazac 3).
