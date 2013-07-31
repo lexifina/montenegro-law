@@ -4,3 +4,4 @@
 Државна ревизорска институција врши ревизију законитости и успјешности управљања државном имовином и обавезама, буџетима и свим финансијским пословима субјеката чији су извори финансирања јавни или настају коришћењем државне имовине.
 Државна ревизорска институција подноси Скупштини годишњи извјештај.
 Државном ревизорском институцијом управља Сенат.
+Predsjednik i članovi Senata Državne revizorske institucije uživaju funkcionalni imunitet i ne mogu biti pozvani na odgovornost za mišljenje dato ili odluku donijetu u vršenju svoje funkcije, osim ako se radi o krivičnom djelu.
