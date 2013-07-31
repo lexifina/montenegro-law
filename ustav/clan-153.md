@@ -1,7 +1,9 @@
 # Члан 153
 ## Састав и избор
-Уставни суд има седам судија.
-Судија Уставног суда бира се на вријеме од девет година.
-Предсједник Уставног суда бира се из реда судија на вријеме од три године.
-За судију Уставног суда може бити бирано лице које ужива углед истакнутог правног стручњака, са најмање 15 година рада у струци.
-Предсједник и судија Уставног суда не може вршити посланичку и другу јавну функцију нити професионално обављати другу дјелатност.
+Ustavni sud ima sedam sudija.
+Sudija Ustavnog suda bira se na vrijeme od 12 godina.
+Sudije Ustavnog suda bira i razrješava Skupština, i to: dvoje sudija na predlog Predsjednika Crne Gore i pet sudija na predlog nadležnog radnog tijela Skupštine po raspisanom javnom pozivu koji predlagači sprovode.
+Sudija Ustavnog suda bira se iz reda istaknutih pravnika sa najmanje 40 godina života i 15 godina radnog iskustva u pravnoj struci.
+Sudije Ustavnog suda iz svog sastava biraju predsjednika Ustavnog suda na vrijeme od tri godine.
+Isto lice može biti birano samo jednom za predsjednika i sudiju Ustavnog suda.
+Predsjednik i sudija Ustavnog suda ne može vršiti poslaničku i drugu javnu funkciju niti obavljati drugu djelatnost.
