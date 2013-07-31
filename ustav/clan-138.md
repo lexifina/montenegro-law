@@ -1,3 +1,3 @@
 # Члан 138
 ## Неспојивост функције
-Државни тужилац и замјеник државног тужиоца не могу вршити посланичку и другу јавну функцију, нити професионално обављати другу дјелатност.
+Rukovodilac državnog tužilaštva i državni tužilac ne mogu vršiti poslaničku i drugu javnu fukciju, niti profesionalno obavljati drugu djelatnost.
