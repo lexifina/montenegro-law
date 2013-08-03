@@ -1,0 +1,2 @@
+# Član 1
+Udio Agencije Crne Gore za prestrukturiranje privrede i strana ulaganja, koja je prestala sa radom u skladu sa članom 2 Zakona o prestanku važenja Zakona o Agenciji Crne Gore za prestrukturiranje i strana ulaganja ("Službeni list CG", broj 83/09), u osnivačkom kapitalu i osnivačka prava u DOO "Centar za razvoj durmitorskog područja", preduzeće za promociju, konsalting, menadžment i razvoj - Žabljak" (u daljem tekstu: Društvo), preuzima Vlada Crne Gore (u daljem tesktu: Vlada).
