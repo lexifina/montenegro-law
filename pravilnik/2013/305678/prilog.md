@@ -1,0 +1,344 @@
+P R I L O G
+Grupe djelatnosti za koje se plaća članski doprinos turističkim organizacijama
+U prvu grupu spadaju sljedeće djelatnosti:
+-
+Gradski i prigradski kopneni prevoz putnika (šifra djelatnosti: 4931);
+-
+Ostali prevoz putnika u kopnenom saobraćaju (šifra djelatnosti: 4939);
+-
+Pomorski i priobalni prevoz putnika (šifra djelatnosti: 5010);
+-
+Pomorski i priobalni prevoz tereta, (šifra djelatnosti: 5020);
+-
+Vazdušni prevoz putnika (šifra djelatnosti: 5110);
+-
+Vazdušni prevoz tereta (šifra djelatnosti: 5121);
+-
+Uslužne djelatnosti u kopnenom saobraćaju (šifra djelatnosti: 5221);
+-
+Uslužne djelatnosti u vodenom saobraćaju (šifra djelatnosti: 5222);
+-
+Uslužne djelatnosti u vazdušnom saobraćaju (šifra djelatnosti: 5223);
+-
+Hoteli i sličan smještaj (šifra djelatnosti: 5510);
+-
+Odmarališta i slični objekti za kraći boravak (šifra djelatnosti: 5520);
+-
+Djelatnost kampova, auto-kampova i kampova za turističke prikolice (šifra
+djelatnosti: 5530);
+-
+Ostali smještaj- osim izdavaoci privatnog smještaja do 15 kreveta (šifra
+djelatnosti: 5590);
+-
+Djelatnosti restorana i pokretnih ugostiteljskih objekata (šifra djelatnosti: 5610);
+-
+Ostale usluge pripremanja i posluživanja hrane (šifra djelatnosti: 5629);
+-
+Usluge pripremanja i posluživanja pića (šifra djelatnosti: 5630);
+-
+Iznajmljivanje i lizing opreme za rekreaciju i sport (šifra djelatnosti: 7721);
+-
+Djelatnost putničkih agencija (šifra djelatnosti: 7911);
+-
+Djelatnost tur-operatora (šifra djelatnosti: 7912);
+-
+Ostale usluge rezervacije i djelatnosti povezane s njima (šifra djelatnosti: 7990);
+-
+Usluge uređenja i održavanja okoline (šifra djelatnosti: 8130);
+-
+Organizovanje sastanaka i sajmova (šifra djelatnosti: 8230);
+-
+Ostale zabavne i rekreativne djelatnosti (šifra djelatnosti: 9329).
+U drugu grupu spadaju sljedeće djelatnosti:
+-
+Destilacija, prečišćavanje i miješanje pića (šifra djelatnosti: 1101);
+-
+Proizvodnja vina od grožđa (šifra djelatnosti: 1102);
+-
+Proizvodnja pića i ostalih voćnih vina (šifra djelatnosti: 1103);
+-
+Proizvodnja ostalih nedestilovanih fermentisanih pića (šifra djelatnosti: 1104);
+-
+Proizvodnja piva (šifra djelatnosti: 1105);
+-
+Proizvodnja osvježavajućih pića, mineralne vode i ostale flaširane vode (šifra
+djelatnosti: 1107);
+-
+Proizvodnja ostalih osnovnih organskih hemikalija (šifra djelatnosti: 2014);
+-
+Trgovina na malo u nespecijalizovanim prodavnicama, pretežno hranom, pićem i
+duvanom (šifra djelatnosti: 4711);
+-
+Ostala trgovina na malo u nespecijalizovanim prodavnicama (šifra djelatnosti:
+4719);
+-
+Trgovina na malo voćem i povrćem u specijalizovanim prodavnicama (šifra
+djelatnosti: 4721);
+-
+Trgovina na malo mesom i proizvodima od mesa u specijalizovanim
+prodavnicama (šifra djelatnosti: 4722);
+-
+Trgovina na malo ribom, ljuskarima i mekušcima u specijalizovanim
+prodavnicama (šifra djelatnosti: 4723);
+-
+Trgovina
+na
+malo
+hljebom,
+tjesteninama,
+kolačima
+i
+slatkišima
+u
+specijalizovanim prodavnicama (šifra djelatnosti: 4724);
+-
+Trgovina na malo pićima u specijalizovanim prodavnicama (šifra djelatnosti:
+4725);
+-
+Trgovina na malo proizvodima od duvana u specijalizovanim prodavnicama
+(šifra djelatnosti: 4726);
+-
+Ostala trgovina na malo hranom u specijalizovanim prodavnicama (šifra
+djelatnosti: 4729);
+-
+Trgovina na malo motornim gorivima u specijalizovanim prodavnicama (šifra
+djelatnosti: 4730);
+-
+Trgovina na malo kompjuterima, perifernim jedinicama i softverom u
+specijalizovanim prodavnicama (šifra djelatnosti: 4741);
+-
+Trgovina
+na
+malo
+telekomunikacionom
+opremom
+u
+specijalizovanim
+prodavnicama (šifra djelatnosti: 4742);
+-
+Trgovina na malo tekstilom u specijalizovanim prodavnicama (šifra djelatnosti:
+4751);
+-
+Trgovina na malo knjigama u specijalizovanim prodavnicama (šifra djelatnosti:
+4761);
+-
+Trgovina na malo novinama i kancelarijskim materijalom u specijalizovanim
+prodavnicama (šifra djelatnosti: 4762).
+-
+Trgovina na malo odjećom u specijalizovanim prodavnicama (šifra djelatnosti:
+4771);
+-
+Trgovina na malo obućom i predmetima od kože u specijalizovanim
+prodavnicama (šifra djelatnosti: 4772);
+-
+Trgovina na malo farmaceutskim proizvodima u specijalizovanim prodavnicama
+- apotekama (šifra djelatnosti: 4773);
+-
+Trgovina na malo medicinskim i ortopedskim pomagalima u specijalizovanim
+prodavnicama (šifra djelatnosti: 4774);
+-
+Trgovina na malo kozmetičkim i toaletnim proizvodima u specijalizovanim
+prodavnicama (šifra djelatnosti: 4775);
+-
+Trgovina na malo polovnom robom u prodavnicama (šifra djelatnosti: 4779);
+-
+Trgovina na malo hranom, pićima i duvanskim proizvodima na tezgama i
+pijacama (šifra djelatnosti: 4781);
+-
+Trgovina na malo tekstilom, odjećom i obućom na tezgama i pijacama (šifra
+djelatnosti: 4782);
+-
+Trgovina na malo ostalom robom na tezgama i pijacama (šifra djelatnosti: 4789);
+-
+Trgovina na malo posredstvom pošte ili preko interneta (šifra djelatnosti: 4791);
+-
+Ostala trgovina na malo izvan prodavnica, tezgi i pijaca (šifra djelatnosti: 4799);
+-
+Taksi prevoz (šifra djelatnosti: 4932);
+-
+Emitovanje radio-programa (šifra djelatnosti: 6010);
+-
+Proizvodnja i emitovanje televizijskog programa (šifra djelatnosti: 6020);
+-
+Kablovske telekomunikacije (šifra djelatnosti: 6110);
+-
+Bežične telekomunikacije (šifra djelatnosti: 6120);
+-
+Satelitska telekomunikacija (šifra djelatnosti: 6130);
+-
+Ostalo monetarno posredovanje (šifra djelatnosti: 6419);
+-
+Iznajmljivanje vlastitih ili iznajmljenih nekretnina i upravljanje njima (šifra
+djelatnosti: 6820);
+-
+Računovodstveni, knjigovodstveni i revizorski poslovi; poresko savjetovanje
+(šifra djelatnosti: 6920);
+-
+Iznajmljivanje i lizing automobila i lakih motornih vozila (šifra djelatnosti: 7711);
+-
+Iznajmljivanje i lizing kamiona (šifra djelatnosti: 7712);
+-
+Iznajmljivanje i lizing opreme za vodeni transport (šifra djelatnosti: 7734);
+-
+Umjetničko obrazovanje (šifra djelatnosti: 8552);
+-
+Izvođačka umjetnost (šifra djelatnosti: 9001);
+-
+Pomoćne djelatnosti u okviru izvođačke umjetnosti (šifra djelatnosti: 9002);
+-
+Djelatnost muzeja (šifra djelatnosti: 9102);
+-
+Održavanje istorijskih lokacija, zgrada i sličnih turističkih spomenika (šifra
+djelatnosti: 9103);
+-
+Djelatnost botaničkih i zooloških vrtova i nacionalnih parkova (šifra djelatnosti:
+9104);
+-
+Kockanje i klađenje (šifra djelatnosti: 9200);
+-
+Djelatnost sportskih objekata (šifra djelatnosti: 9311).
+-
+Djelatnost zabavnih i tematskih parkova (šifra djelatnosti: 9321).
+U treću grupu spadaju sljedeće djelatnosti:
+-
+Proizvodnja derivata nafte (šifra djelatnosti: 1920);
+-
+Trgovina motociklima, djelovima i priborom, održavanje i popravka motocikala
+(šifra djelatnosti: 4540);
+-
+Trgovina na veliko čvrstim, tečnim i gasovitim gorivima i sličnim proizvodima
+(šifra djelatnosti: 4671);
+-
+Poštanske aktivnosti (šifra djelatnosti: 5310);
+-
+Izdavanje knjiga (šifra djelatnosti: 5811);
+-
+Izdavanje imenika i adresara (šifra djelatnosti: 5812);
+-
+Proizvodnja filmova, video-zapisa i televizijskog programa (šifra djelatnosti:
+5911);
+-
+Snimanje i izdavanje zvučnih zapisa i muzike (šifra djelatnosti: 5920);
+-
+Kompjutersko programiranje (šifra djelatnosti: 6201);
+-
+Obrada podataka, hosting i sl. ( šifra djelatnosti: 6311);
+-
+Veb portal (šifra djelatnosti: 6312);
+-
+Informacione uslužne djelatnosti na drugom mjestu nepomenute (šifra
+djelatnosti: 6399);
+-
+Specijalizovane dizajnerske djelatnosti (šifra djelatnosti: 7410);
+-
+Prevođenje i usluge tumača (šifra djelatnosti: 7430).
+-
+Lizing intelektualne svojine i sličnih proizvoda, izuzev autorskih prava (šifra
+djelatnosti: 7740);
+-
+Djelatnost agencija za zapošljavanje (šifra djelatnosti: 7810);
+-
+Djelatnost pozivnih centara (šifra djelatnosti: 8220);
+-
+Djelatnost agencija za naplatu potraživanja i kreditnih biroa (šifra djelatnosti:
+8291);
+-
+Ostale uslužne aktivnosti podrške poslovanju (šifra djelatnosti: 8299);
+-
+Sportsko i rekreativno obrazovanje (šifra djelatnosti: 8551);
+-
+Pranje i hemijsko čišćenje tekstilnih i krznenih proizvoda (šifra djelatnosti: 9601);
+-
+Djelatnost frizerskih i kozmetičkih salona (šifra djelatnosti: 9602);
+-
+Djelatnost njege i održavanja tijela (šifra djelatnosti: 9604);
+-
+Ostale lične uslužne djelatnosti, na drugom mjestu nepomenute (šifra djelatnosti:
+9609).
+U četvrtu grupu spadaju sljedeće djelatnosti:
+-
+Proizvodnja nakita i srodnih predmeta (šifra djelatnosti: 3212);
+-
+Ostala izdavačka djelatnost (šifra djelatnosti: 5819);
+-
+Ostale telekomunikacione djelatnosti (šifra djelatnosti: 6190);
+-
+Životno osiguranje (šifra djelatnosti: 6511);
+-
+Neživotno osiguranje (šifra djelatnosti: 6512);
+-
+Reosiguranje (šifra djelatnosti: 6520);
+-
+Obrada odštetnih zahtjeva i procjenjivanje rizika i šteta (šifra djelatnosti: 6621);
+-
+Djelatnost zastupnika i posrednika u osiguranju (šifra djelatnosti: 6622);
+-
+Fotografske usluge (šifra djelatnosti: 7420);
+-
+Ostale stručne, naučne i tehničke djelatnosti (šifra djelatnosti: 7490);
+-
+Djelatnost privatnog obezbjeđenja (šifra djelatnosti: 8010);
+-
+Usluge sistema obezbjeđenja (šifra djelatnosti: 8020);
+-
+Istražne djelatnosti (šifra djelatnosti: 8030);
+-
+Usluge održavanja objekata (šifra djelatnosti: 8110).
+-
+Usluge redovnog čišćenja zgrada (šifra djelatnosti: 8121);
+-
+Usluge ostalog čišćenja zgrada i opreme (šifra djelatnosti: 8122);
+-
+Usluge ostalog čišćenja (šifra djelatnosti: 8129);
+-
+Fotokopiranje, pripremanje dokumenata i druga specijalizovana kancelarijska
+podrška (šifra djelatnosti: 8219);
+-
+Rad umjetničkih ustanova (šifra djelatnosti: 9004).
+U petu grupu spadaju sljedeće djelatnosti:
+-
+Ostala prerada i konzervisanje voća i povrća (šifra djelatnosti: 1039);
+-
+Trgovina na veliko žitom, sirovim duvanom, sjemenjem i hranom za životinje
+(šifra djelatnosti: 4621);
+-
+Trgovina na veliko sirovom, nedovršenom i dovršenom kožom (šifra djelatnosti:
+4624);
+-
+Trgovina na veliko voćem i povrćem (šifra djelatnosti: 4631);
+-
+Trgovina na veliko mesom i proizvodima od mesa (šifra djelatnosti: 4632);
+-
+Trgovina na veliko mliječnim proizvodima, jajima i jestivim uljima i mastima (šifra
+djelatnosti: 4633);
+-
+Trgovina na veliko pićem (šifra djelatnosti: 4634);
+-
+Trgovina na veliko duvanskim proizvodima (šifra djelatnosti: 4635);
+-
+Trgovina na veliko šećerom, čokoladom i slatkišima (šifra djelatnosti: 4636);
+-
+Trgovina na veliko kafom, čajevima, kakaoom i začinima (šifra djelatnosti: 4637);
+-
+Trgovina na veliko ostalom hranom, uključujući ribe, ljuskare i mekušce (šifra
+djelatnosti: 4638);
+-
+Nespecijalizovana trgovina na veliko hranom, pićem i duvanom (šifra djelatnosti:
+4639);
+-
+Trgovina na veliko tekstilom (šifra djelatnosti: 4641);
+-
+Trgovina na veliko odjećom i obućom (šifra djelatnosti: 4642);
+-
+Trgovina na veliko porculanom, staklenom robom i sredstvima za čišćenje (šifra
+djelatnosti: 4644);
+-
+Trgovina na veliko parfimerijskim i kozmetičkim proizvodima (šifra djelatnosti:
+4645);
+-
+Trgovina na veliko farmaceutskim proizvodima (šifra djelatnosti: 4646);
+-
+Trgovina na veliko ostalim proizvodima za domaćinstvo (šifra djelatnosti: 4649);
+-
+Trgovina na veliko drvetom, građevinskim materijalom i sanitarnom opremom
+(šifra djelatnosti: 4673).
