@@ -1,0 +1,2 @@
+Na osnovu čl. 68 i 77 Zakona o privrednim društvima ("Službeni list RCG" broj 6/02 i "Službeni list CG", br. 17/07, 80/08 i 36/11) i člana 8 Odluke o osnivanju Društva sa ograničenom odgovornošću "Centar za ekotoksikološka ispitivanja" - Podgorica ("Službeni list CG", broj 39/12), Vlada Crne Gore, na sjednici od 20. juna 2013. godine, donijela je
+ODLUKU O IZMJENI STATUTA DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "CENTAR ZA EKOTOKSIKOLOŠKA ISPITIVANJA" - PODGORICA
