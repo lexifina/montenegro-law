@@ -1,0 +1,2 @@
+Na osnovu člana 53 stav 2 Zakona o radu ("Sl. list CG", br. 49/08, 26/09, 88/09, 26/10, 59/11, 66/12), člana 32 stav 1 tačka 26 i člana 51 stav 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list CG", br. 88/09, 03/10, 73/10, 38/12 ), člana 34 Statuta Opštine Plav ("Sl. list CG - Opštinski propisi", br. 17/07 i 25/09 i 38/10), a u vezi sa čl. 3, 24 i 25 Zakona o prekršajima ("Sl. list CG", br. 1/11, 6/11 i 39/11), Skupština opštine Plav, na sjednici održanoj dana 05.07.2013.godine, donijela je
+O D L U K U
