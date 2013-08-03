@@ -1,0 +1,5 @@
+# Član 10
+(1) Ako je cijena iz isprave o sticanju nepokretnosti niža od tržišne ili nije navedena u ispravi o sticanju nepokretnosti, organ državne uprave nadležan za poslove poreza (u daljem tekstu: nadležni poreski organ), procjenom utvrđuje tržišnu vrijednost nepokretnosti prema tržišnim cijenama u trenutku nastanka poreske obaveze.
+(2) Procjenu tržišne vrijednosti nepokretnosti iz stava 1 ovog člana utvrđuje ovlašćeni službenik nadležnog poreskog organa, na osnovu uporednih podataka o kretanju tržišne vrijednosti sličnih nepokretnosti sa istog područja i u isto vrijeme.
+(3) Ako uporedni podaci iz stava 2 ovog člana nijesu dostupni, procjenu tržišne vrijednosti nepokretnosti utvrđuje vještak sa licencom ovlašćenog procjenitelja, kojeg odredi nadležni poreski organ.
+(4) Izuzetno od stava 1 ovog člana, ako se nepokretnost stiče kroz postupak prodaje javnim nadmetanjem ili u stečajnom postupku, ukupnim iznosom naknade smatraju se sva plaćanja odnosno davanja koja sticalac nepokretnosti učini radi sticanja nepokretnosti.

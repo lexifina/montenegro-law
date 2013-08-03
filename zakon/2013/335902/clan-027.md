@@ -1,0 +1,2 @@
+# Član 27
+Danom početka primjene ovog zakona prestaje da važi Zakon o porezu na promet nepokretnosti ("Službeni list RCG", broj 69/03 i "Službeni list CG", broj 17/07) , Pravilnik o obliku i sadržaju prijave poreza na promet nepokretnosti ("Službeni list RCG", broj 11/04) i član 133 Zakona o izmjenama i dopunama zakona kojima su propisane novčane kazne za prekršaje ( "Službeni list CG",broj 40/11).

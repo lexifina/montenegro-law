@@ -1,0 +1,2 @@
+# Član 24
+Novčanom kaznom od 250 eura do 1.000 eura kazniće se odgovorno lice u sudu, državnom organu ili notar,ako nadležnom poreskom organu i poreskom organu lokalne samouprave na području na kojem se nalazi nepokretnost ne dostavi odluku kojom se mijenja vlasništvo na nepokretnostima, odnosno otpravak akta o pravnom poslu koji je predmet oporezivanja, u roku od 15 dana po isteku mjeseca u kojem je odluka postala pravosnažna, odnosno od dana sačinjavanja otpravka o pravnom poslu koji je predmet oporezivanja (član 15 stav 5).

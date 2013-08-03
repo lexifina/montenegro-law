@@ -1,0 +1,7 @@
+# Član 15
+(1) Poreska obaveza nastaje danom zaključenja ugovora, odnosno drugog pravnog posla kojim se stiče nepokretnost.
+(2) Ako je predmet ugovora iz stava 1 ovog člana buduća nepokretnost, poreska obaveza nastaje primopredajom, odnosno stupanjem u posjed nepokretnosti.
+(3) Ako se nepokretnost stiče na osnovu odluke suda ili drugog nadležnog organa, poreska obaveza nastaje danom pravosnažnosti te odluke.
+(4) Ako se nepokretnost stiče na osnovu ugovora o doživotnom izdržavanju, poreska obaveza nastaje danom smrti primaoca izdržavanja (davaoca nepokretnosti).
+(5) Sudovi, drugi nadležni organi i notari dužni su da nadležnom poreskom organu i poreskom organu lokalne samouprave na području na kojem se nalazi nepokretnost dostavljaju akte iz svoje nadležnosti na osnovu kojih se vrši promjena vlasnika nepokretnosti, odnosno otpravak akta o pravnom poslu koji je predmet oporezivanja, u roku od 15 dana po isteku mjeseca u kojem je odluka postala pravosnažna, odnosno od dana sačinjavanja otpravka o pravnom poslu koji je predmet oporezivanja, u skladu sa propisom kojim se uređuje opšti upravni postupak.
+(6) Ako ugovor o sticanju nepokretnosti ili odluka suda, odnosno rješenje organa nadležnog za poslove premjera i katastra nadležnom poreskom organu nije dostavljeno ili je dostavljeno neblagovremeno, smatraće se da je poreska obaveza nastala danom saznanja nadležnog poreskog organa o sticanju nepokretnosti.
