@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", broj 88/09, 3/10 i 38/12), člana 2 stav 1 Zakona o lokalnim komunalnim taksama ("Službeni list RCG", broj 27/06) i člana 31 Statuta Opštine Tivat ("Službeni list RCG-Opštinski propisi", broj 40/04 i 26/06 i "Službeni list CG-Opštinski propisi", broj 12/11, 21/11 i 3/13), Skupština opštine Tivat, na sjednici održanoj 25.07.2013. godine, donijela je
+O D L U K U

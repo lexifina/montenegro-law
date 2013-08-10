@@ -1,0 +1,5 @@
+# Član 1
+## o izmjenama Odluke o lokalnim komunalnim taksama
+U Odluci o lokalnim komunalnim taksama ("Službeni list RCG-Opštinski propisi", broj 3/07 i "Službeni list CG-Opštinski propisi", broj 2/08, 13/10 i 12/11), u tarifnom broju 1, tarifni stavovi 1.4 i 1.43 mijenjaju se i glase:
+"1.4 Za korištenje prostora na javnim površinama radi izvođenja građevinskih radova, raskopavanja, deponovanja građevinskog i drugog materijala, postavljanja konstrukcija drvenih i metalnih i postavljanja vozila u svrhu izvođenja građevinskih radova, osim radi izvođenja radova na rekonstrukciji opštinskog puta i objekata na tom putu, kao i objekata koji se izvode na osnovu ugovora o javno-privatnom partnerstvu zaključenim sa Opštinom Tivat ili javnim službama čiji je osnivač Opština Tivat, plaća se dnevno po m² zauzete površine: "
+"1.43 Za zauzimanje trotoara i parkinga za izvođenje građevinskih radova, raskopavanja, deponovanja građevinskog i drugog materijala, postavljanja konstrukcija drvenih i metalnih, postavljanja vozila u svrhu izvođenja građevinskih radova i sl...............................1,30 €".
