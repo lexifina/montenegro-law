@@ -1,0 +1,2 @@
+# Član 2
+Francesković Andrej iz Tivta vlasnik je kat.par. 238/2 k.o.Donja Lastva čiji dio u površini od 6m2 (parcelacijom označen kao k.p.238/5), kat.par.241/1 čiji dio u površini od 11m2 (parcelacijom označen kao k.p.241/5), kat.par.243 čiji dio u pov.od 7m2 (parcelacijom označen kao kat.par.243/3 ) i kat.par.244 čiji dio u površini od 37m2(parcelacijom označen kao kat.par.244/4) ulazi u planirane saobraćajnice( dio ulice broj 2 u obuhvatu ambijentalne cjeline i dio kolsko pješačke površine).
