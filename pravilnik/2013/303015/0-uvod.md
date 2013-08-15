@@ -1,0 +1,2 @@
+Na osnovu člana 14 stav 8 Zakona o sadnom materijalu ("Službeni list RCG", broj 28/06 i "Službeni list CG", broj 61/11) i člana 14 st. 8 i 9, Zakona o sjemenskom materijalu poljoprivrednog bilja ("Službeni list RCG", broj 28/06 i "Službeni list CG", broj 61/11), Ministarstvo poljoprivrede i ruralnog razvoja donijelo je
+P R AV I LN IK O BLIŽIM USLOVIMA U POGLEDU KADRA I OPREME KOJE TREBA DA ISPUNJAVA PRAVNO LICE I REGISTROVANI PROIZVOĐAČ ZA STRUČNU KONTROLU SADNOG I SJEMENSKOG MATERIJALA
