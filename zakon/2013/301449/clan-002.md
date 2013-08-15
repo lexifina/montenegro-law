@@ -1,0 +1,3 @@
+# Član 2
+Licima koja su na dan stupanja na snagu ovog zakona pravosnažno osuđena kaznom zatvora u trajanju do tri mjeseca za krivična djela propisana zakonima Crne Gore, a nijesu stupila na izdržavanje kazne, izrečena kazna zatvora zamjenjuje se uslovnom osudom, pri čemu se izrečena kazna zatvora uzima kao utvrđena i istovremeno određuje da se ista neće izvršiti ako u roku od dvije godine osuđeni ne učini novo krivično djelo.
+Za lica iz stava 1 ovog člana koja se nalaze na izdržavanju kazne obustavlja se izvršenje kazne, a preostali dio kazne zamjenjuje se uslovnom osudom, tako što se ostatak kazne uzima utvrđenim i određuje da se kazna neće izvršiti ako u roku od dvije godine osuđeni ne učini novo krivično djelo.
