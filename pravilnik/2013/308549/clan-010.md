@@ -1,0 +1,2 @@
+# Član 10
+Sprovođenje teorijskog dijela stručnog osposobljavanja, odnosno usavršavanja pripadnika operativnih jedinica izvodi se po planu stručnog osposobljavanja, odnosno usavršavanja koji sačinjava pravno lice, a sprovođenje praktičnog dijela stručnog osposobljavanja, odnosno usavršavanja po planu praktične obuke koji sačinjava služba zaštite koju Ministarstvo ovlasti za sprovođenje praktične obuke.

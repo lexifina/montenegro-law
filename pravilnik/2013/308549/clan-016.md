@@ -1,0 +1,2 @@
+# Član 16
+Pripadnik operativne jedinice koji je na provjeri znanja iz teorijskog dijela stručnog osposobljavanja ocijenjen ocjenom "zadovoljava" iz svake oblasti posebno pristupa provjeri znanja iz praktičnog dijela stručnog osposobljavanja iz tih oblasti, a pripadnik operativne jedinice koji je na provjeri znanja iz teorijskog dijela stručnog usavršavanja ocijenjen ocjenom "zadovoljava" pristupa provjeri znanja iz praktičnog dijela stručnog usavršavanja.
