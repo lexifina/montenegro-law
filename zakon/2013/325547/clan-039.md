@@ -1,0 +1,9 @@
+# Član 39
+## Izgradnja i korišćenje elektronskih komunikacionih mreža
+(1) Fizičko ili pravno lice dužno je da prilikom izgradnje i korišćenja elektronskih komunikacionih mreža, elektronske komunikacione infrastrukture i povezane opreme, kao i pružanja elektronskih komunikacionih usluga omogući potpuni nadzor i kontrolu nad izgradnjom i korišćenjem elektronskih komunikacionih mreža, elektronske komunikacione infrastrukture i povezane opreme, kao i pružanjem elektronskih komunikacionih usluga.
+(2) Elektronska komunikaciona mreža, elektronska komunikaciona infrastruktura i povezana oprema planira se, projektuje, proizvodi, gradi, održava i koristi u skladu sa međunarodnim i crnogorskim standardima i tehničkim specifikacijama koji se primjenjuju u Crnoj Gori, na način da:
+1) ne izaziva smetnje u radu drugih elektronskih komunikacionih mreža i elektronske komunikacione infrastrukture i povezane opreme;
+2) se licima smanjene pokretljivosti, kao i licima sa invaliditetom omogući pristup i dostupnost javnih elektronskih komunikacionih usluga.
+(3) Na javnu elektronsku komunikacionu mrežu može se priključiti elektronska komunikaciona mreža, elektronska komunikaciona infrastruktura i povezana oprema, pod uslovom da ispunjava tehničke uslove koji omogućavaju: slobodan izbor operatora i terminalne opreme, sigurnost upotrebe, integritet javne elektronske komunikacione mreže i interoperabilnost javnih elektronskih komunikacionih usluga.
+(4) Operator, odnosno vlasnik elektronske komunikacione mreže, elektronske komunikacione infrastrukture i povezane opreme dužan je da, u roku od sedam dana od dana početka korišćenja, Agenciji dostavi pisano obavještenje o početku korišćenja i tehničkim karakteristikama mreže, infrastrukture i povezane opreme.
+(5) Upotrebne i druge uslove za planiranje, izgradnju, održavanje i korišćenje pojedinih vrsta elektronskih komunikacionih mreža, elektronske komunikacione infrastrukture i povezane opreme propisuje Agencija.

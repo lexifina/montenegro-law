@@ -1,0 +1,6 @@
+# Član 178
+## Neželjene komunikacije
+(1) Upotreba automatskih govornih uređaja, bez ljudskog posredovanja (pozivni automati), faks aparata ili elektronske pošte, uključujući SMS ili MMS za pozive prema korisniku, radi direktnog marketinga, dozvoljena je samo uz prethodno pribavljenu saglasnost korisnika.
+(2) Pravno ili fizičko lice, bez obzira na saglasnost korisnika iz stava 1 ovog člana, kontakt podatke za elektronsku poštu koje dobije od svojih kupaca može koristiti radi reklamiranja i prodaje proizvoda i usluga, pod uslovom da je kupcu omogućio da, na jednostavan način i bez naknade, da primjedbe ili odbije korišćenje svojih elektronskih kontakt podataka u te svrhe, tokom njihovog prikupljanja ili prilikom dobijanja svake poruke, u slučaju da korisnik nije prethodno odbio takvu upotrebu podataka.
+(3) Nije dozvoljeno slanje elektronske pošte radi reklamiranja ili podsticanja primaoca da posjećuje internet stranice na kojima se pogrešno prikazuje ili prikriva identitet pošiljaoca ili bez tačne adrese na koju primalac može poslati zahtjev da se sa tom komunikacijom prestane.
+(4) Operator je dužan da korisnicima iz stava 3 ovog člana omogući selekciju dolazne elektronske pošte koja sadrži neželjene elektronske poruke ili štetan sadržaj, na brz i jednostavan način.

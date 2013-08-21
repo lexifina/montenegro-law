@@ -1,0 +1,4 @@
+# Član 48
+## Odvojeno računovodstvo
+(1) Ako pravno lice čija pretežna djelatnost nije djelatnost elektronskih komunikacija namjerava da sopstvenu elektronsku komunikacionu mrežu i/ili elektronsku komunikacionu infrastrukturu i povezanu opremu daje na korišćenje ili je koristi za pružanje javnih elektronskih komunikacionih usluga, dužno je da Agenciji podnese prijavu u skladu sa članom 46 stav 1 ovog zakona.
+(2) Pravno lice iz stava 1 ovog člana dužno je da osnuje izdvojeno pravno lice za pružanje djelatnosti javnih elektronskih komunikacija ili da vodi odvojeno računovodstvo po djelatnostima, na način da se odvojeno iskazuju prihodi i rashodi ostvareni na osnovu davanja na korišćenje elektronske komunikacione mreže i/ili elektronske komunikacione infrastrukture ili pružanja javnih elektronskih komunikacionih usluga od drugih djelatnosti.

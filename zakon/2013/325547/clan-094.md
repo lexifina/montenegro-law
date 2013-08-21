@@ -1,0 +1,7 @@
+# Član 94
+## Obračun neto troška
+(1) Ako je operator Univerzalnog servisa određen na osnovu javnog konkursa, Agencija prilikom provjeravanja računovodstvenih iskaza i podataka iz člana 93 ovog zakona sagledava troškove pružanja usluge Univerzalnog servisa koje je operator naveo u ponudi na javnom konkursu.
+(2) Drugačije troškove od troškova navedenih u ponudi po javnom konkursu Agencija sagledava samo ako je iz objektivnih razloga došlo do promjene uslova utvrđenih javnim konkursom i ako operator objektivno i transparentno dokaže opravdanost tih odstupanja.
+(3) Ako Agencija, na osnovu neto troška, utvrdi da pružanje usluge predstavlja prekomjerni trošak za operatora Univerzalnog servisa, rješenjem će utvrditi visinu naknade za pokriće neto troška za pružanje usluge Univerzalnog servisa, koja ne smije biti veća od visine neto troška.
+(4) Agencija može, u cilju smanjenja neto troškova pružanja usluge Univerzalnog servisa, operatoru Univerzalnog servisa naložiti primjenu određenih tehničkih i drugih rješenja ili zaključivanje ponuđenih interkonekcionih ugovora ili saradnju sa drugim operatorima ili priznati neto trošak do iznosa koji bi nastao primjenom zahtijevanog tehničkog i drugog rješenja.
+(5) Agencija na svojoj internet stranici objavljuje rezultate obračuna neto troška i rezultate revizije podataka iz člana 93 stav 2 ovog zakona koje joj je dostavio operator Univerzalnog servisa.

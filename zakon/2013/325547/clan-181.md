@@ -1,0 +1,9 @@
+# Član 181
+## Obaveza zadržavanja podataka
+(1) Operator je dužan da zadržava određene podatake o saobraćaju i lokaciji, kao i relevantne podatake potrebne za identifikaciju i registraciju pretplatnika- pravnih i fizičkih lica, u mjeri u kojoj su te podatke generisali ili obradili , za potrebe odbrane i nacionalne bezbjednosti, kao i radi sprječavanja vršenja krivičnog djela, istrage, otkrivanja i krivičnog gonjenja počinilaca krivičnih djela i pružanja pomoći kod potrage i spašavanja ljudi, zaštite života i zdravlja ljudi i imovine, u skladu sa zakonom.
+(2) Obaveza zadržavanja podataka iz stava 1 ovog člana odnosi se i na podatke o neuspjelim pozivima, ako su ti podaci generisani i obrađeni kod telefonskih usluga ili zabilježeni kod internet usluga od operatora.
+(3) Obaveza iz stava 1 ovog člana ne primjenjuje se na podatke koji otkrivaju sadržaj elektronske komunikacije.
+(4) Operator je dužan da, u svojoj mreži, o svom trošku, obezbijedi neophodne tehničke i organizacione uslove koji omogućavaju nadležnim državnim organima preuzimanje zadržanih podataka o saobraćaju i lokaciji, kao i odgovarajućih podataka potrebnih za identifikaciju i registraciju pretplatnika.
+(5) Period zadržavanja podataka iz stava 1 ovog člana ne smije biti kraći od šest mjeseci ni duži od dvije godine od dana obavljene komunikacije.
+(6) Operator je dužan da o podacima koje dostavlja nadležnom organu, bez navođenja ličnih podataka, o slučajevima kašnjenja u dostavljanju, kao i o zahtjevima za dostavljanje podataka koji nijesu mogli biti izvršeni, vodi evidenciju i statističke podatke na godišnjem nivou.
+(7) Neophodne tehničke i organizacione uslove iz stava 4 ovog člana i dozvoljeno kašnjenje od prijema zahtjeva do prenosa zadržanih podataka nadležnom organu propisuje organ državne uprave nadležan za unutrašnje poslove.

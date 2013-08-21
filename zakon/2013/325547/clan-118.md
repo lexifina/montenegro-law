@@ -1,0 +1,8 @@
+# Član 118
+## Prenos, odnosno ustupanje prava korišćenja radio-frekvencija
+(1) Pravo korišćenja radio-frekvencija može se prenijeti, odnosno ustupiti drugom pravnom ili fizičkom licu, na osnovu zajedničkog zahtjeva nosioca odobrenja i lica kome se prenosi, odnosno ustupa pravo korišćenja radio-frekvencija samo uz saglasnost Agencije.
+(2) Pravo korišćenja radio-frekvencija može se prenijeti, odnosno ustupiti samo na pravno ili fizičko lice koje ispunjava sve uslove za izdavanje odobrenja za korišćenje radio-frekvencija utvrđene odobrenjem.
+(3) Prilikom odlučivanja o davanju saglasnosti na prenos, odnosno ustupanje prava korišćenja radio-frekvencija koje se koriste za upotrebu javne elektronske komunikacione mreže Agencija naročito cijeni primjenu načela efikasnosti upravljanja radio-frekvencijskim spektrom, odnosno primjenu drugih načela iz člana 3 ovog zakona kod prenosa ili ustupanja radio-frekvencija.
+(4) Za prenos odnosno ustupanje prava korišćenja radio-frekvencija iz opsega koji su planom namjene radio-frekvencijskog spektra namijenjeni radio-difuznoj službi, podnosilac zahtjeva je dužan da prethodno pribavi saglasnost regulatornog organa nadležnog za oblast audio-vizuelnih medijskih usluga.
+(5) Nakon davanja saglasnosti iz stava 1 ovog člana Agencija licu kome se prenosi pravo korišćenja radio-frekvencija izdaje odobrenje za korišćenje radio- frekvencija na zahtjev iz člana 101 stav 2 tač.1, 2 i 3 ovog zakona.
+(6) Prenosom prava korišćenja radio-frekvencija u cjelosti se sa prethodnog nosioca odobrenja na sljedbenika prenose prava i obaveze utvrđene prethodnim odobrenjem za korišćenje radio-frekvencija.

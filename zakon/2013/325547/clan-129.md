@@ -1,0 +1,8 @@
+# Član 129
+## Plan numeracije i plan adresiranja
+(1) Planom numeracije utvrđuju se namjena i način korišćenja brojeva za pristup javnim elektronskim komunikacionim mrežama i javnim elektronskim komunikacionim uslugama i njihova dužina, vrsta i struktura.
+(2) Plan adresiranja sadrži: određivanje i strukturu kodova međunarodnih signalizacionih tačaka, kodova nacionalnih signalizacionih tačaka, kodova mobilnih mreža, identifikacioni kod mreže za prenos podataka i način upravljanja.
+(3) Planom numeracije i planom adresiranja obezbjeđuje se efikasno struktuiranje i korišćenje brojeva i adresa uz utvrđivanje jednakih uslova za dodjelu i korišćenje odgovarajućih brojeva i adresa javnim elektronskim komunikacionim mrežama i javnim elektronskim komunikacionim uslugama, odnosno izvršavanje zahtjeva operatora i korisnika javnih elektronskih komunikacionih usluga.
+(4) Izmjena i dopuna plana numeracije ili plana adresiranja može se vršiti radi izvršavanja obaveza koje proizilaze iz međunarodnih ugovora i sporazuma i obezbjeđenja uslova za uvođenje novih javnih elektronskih komunikacionih usluga, na osnovu procjene efekata predloženih izmjena ili dopuna, a naročito u odnosu na troškove koje prilikom prilagođavanja mogu imati operatori ili korisnici usluga.
+(5) Ako se izmjenama ili dopunama plana numeracije i plana adresiranja bitno utiče na sistem numeracije i/ili adresiranja ili nameće tehnološki zahtjevno izvođenje, rok za primjenu plana ne može biti kraći od šest mjeseci od dana stupanja na snagu plana.
+(6) Planove iz st. 1 i 2 ovog člana donosi Agencija i objavljuje ih u ,,Službenom listu Crne Gore" i na svojoj internet stranici.

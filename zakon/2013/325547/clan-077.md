@@ -1,0 +1,6 @@
+# Član 77
+## Kontrola izvršavanja mjera
+(1) Prilikom kontrole izvršavanja mjera iz člana 76 stav 1 ovog zakona Agencija može da primijeni metode troškovnog računovodstva koje mogu biti različite od metoda koje primjenjuje operator. Agencija može operatoru rješenjem naložiti i da obrazloži i po potrebi koriguje cijene, pri čemu je teret eventualnog dokazivanja opravdanosti cijena na operatoru.
+(2) Agencija može, primjereno cilju unaprjeđenja efikasnosti i održive konkurencije, ciljevima razvoja tržišta i povećanju dobrobiti za korisnike, propisati mehanizam pokrivanja troškova ili metodologiju određivanja cijena iz člana 76 stav 1 ovog zakona, odnosno vršiti upoređivanje sa cijenama na uporedivim tržištima ili tržištima sa razvijenom konkurencijom, uzimajući u obzir specifičnosti domaćeg tržišta.
+(3) Rješenjem iz člana 76 stav 1 ovog zakona Agencija operatoru može naložiti vođenje određenog sistema troškovnog računovodstva, kao i oblik i metodologiju vođenja računovodstva, uključujući kategorizaciju i razvrstavanje troškova i pravila koja se primjenjuju za raspoređivanje troškova.
+(4) Usklađenost sistema troškovnog računovodstva sa rješenjem iz stava 2 ovog člana utvrđuje nezavisni revizor, čiju izjavu o usklađenosti Agencija godišnje objavljuje na svojoj internet stranici.
