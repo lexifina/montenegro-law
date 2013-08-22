@@ -1,0 +1,2 @@
+Na osnovu Odluke o načinu postavljanja i uklanjanja privremenih objekata na teritoriji opštine Budva ("Službeni list opštine Budva", br. 05/09 i "Službeni list CG - Opštinski propisi", br. 19/10) i člana 40, tačka 5 Statuta opštine Budva ("Službeni list CG - Opštinski propisi", br.19/10), Skupština opštine Budva, na sjednici održanoj 11., 12., 13. juna, 12. jula i 08. avgusta 2013. godine donijela je
+ODLUKU
