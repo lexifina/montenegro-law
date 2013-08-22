@@ -1,0 +1,3 @@
+# Član 1
+## o dopuni Odluke o utvrđivanju početne cijene zakupa zemljišta u vlasništvu Opštine Budva broj 001-219/1 od 10.04.2012.godine
+Član 4. Odluke o utvrđivanju početne cijene zakupa zemljišta u vlasništvu Opštine Budva br. 001-219/1 od 10.04.2012.godine (" Sl.list CG- Opštinski propisi" broj 14/12 od 27.04.2012.godine) dopunjuje se na način što se nakon tačke 27. dodaje tačka 28. kojom se utvrđuje početna cijena lokacija predviđene za taksi stajalište, na nepokretnosti označenoj kao katastarska parcela 263/2 KO Petrovac u iznosu od 650,oo Eur, i nakon tačke 28. dodaje tačka 29. kojom se utvrđuje početna cijena lokacije predviđene za taksi stajalište na nepokretnosti označenoj kao katastarska parcela 1576/163 KO Maine u iznosu od 130,oo Eur.
