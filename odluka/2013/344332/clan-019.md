@@ -1,0 +1,2 @@
+# Član 19
+Danom stupanja na snagu ove odluke prestaju da važe sve odredbe Odluke o osnivanju Javnih ustanova "Muzeji, galerija i biblioteka" i "Grad teatar" Budva ("Službeni list Opštine Budva" broj 13/91, 2/92, 8/92, 5/96, 9/98, 2/07 i 7/09), koje se odnose na Javnu ustanovu ‘’Muzeji,galerija i biblioteka’’, a odredbe koje se odnose na JU ‘’Grad Teatar’’, ostaju na snazi do donošenja nove odluke.
