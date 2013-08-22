@@ -1,0 +1,2 @@
+# Član 17
+JU Muzeji preuzima sredstva, opremu i zaposlene iz dosadašnjih javnih ustanova Spomen dom "Reževići", Spomen dom "Crvena komuna’’ i poslovnih jedinica dosadašnje JU "Muzeji, galerija i biblioteka", osim poslovne jednice Biblioteka. Sredstva, opremu i zaposlene PJ Biblioteka preuzima narodna biblioteka JU Biblioteka Budve na osnovu diobnog bilansa izmedju PJ Biblioteka i dosadašnjih PJ iz sastava JU "Muzeji, galerija i biblioteka".
