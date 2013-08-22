@@ -1,0 +1,2 @@
+Na osnovu čl. 31, 53 i 162a Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 40/10, 34/11, 40/11,47/11 i 35/13 ) , člana 60 Statuta Opštine Nikšić ("Sl. list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list Crne Gore-Opštinski propisi", br. 24/10 i 26/10) i Programa uređenja prostora Opštine Nikšić za 2013. godinu ("Službeni list Crne Gore-Opštinski propisi", br. 22/13), Predsjednik Opštine Nikšić, donosi
+O D L U K U
