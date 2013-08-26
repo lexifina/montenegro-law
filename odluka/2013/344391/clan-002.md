@@ -1,0 +1,3 @@
+# Član 2
+Predsjednik opštine Bar je donio Odluku o pristupanju izradi imjena i dopuna detaljnog urbanističkog plana "Veliki Pijesak", br. 031-1103, od 26.08.2013 godine. Izmjene i dopune plana obuhvataju površinu od cca 2.10 ha sa namjenom za uređenje neizgrađenog građevinskog zemljišta, kao i urbanu rekonstrukciju izgrađenog građevinskog zemljišta za turističko stanovanje, sa ciljem kvalitetnije valorizacije ukupnog građevinskog zemljišta u zahvatu.
+Cilj izrade izmjena i dopuna Plana je planersko sagledavanje izmjena nastalih u prostoru i inicijativa korisnika prostora u periodu od donošenja detaljnog urbanističkog plana "Veliki Pijesak".
