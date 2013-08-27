@@ -1,0 +1,16 @@
+Na osnovu člana 6 stav 1 tačka 1, člana 10 Zakona o standardizaciji ("Sl.list CG", br.13/08) i člana 15 stav 1 tačka 5 Odluke o osnivanju Instituta za standardizaciju Crne Gore ("Službeni list RCG", broj 21/07), direktor Instituta za standardizaciju Crne Gore donosi:
+R J E Š E NJ E
+o donesenim crnogorskim standardima
+1.Donose se sledeći crnogorski standardi iz oblasti opštih standarda, terminologije, dokumentacije:
+1. Primjene na željeznici - Definicija referentnih masa vozila ............ MEST EN 15663:2013/Cor.1:2013 (en) 2. Primjene na željeznici - Kočenje - Opšti rječnik ............................. MEST EN 14478:2013 (en) 3. Sirće - Proizvod dobijen od tečnosti poljoprivrednog porijekla -
+Definicije, zahtjevi, označavanje .....................................................
+MEST EN 13188:2013/Cor.1:2013 (en, fr, de) 4. Sirće - Proizvod dobijen od tečnosti poljoprivrednog porijekla -
+Definicije, zahtjevi, označavanje .....................................................
+MEST EN 13188:2013 (en) 5. Tehnički crteži - Primjene na željeznici - Dio 4: Razmjena
+podataka ..........................................................................................
+MEST EN 15016-4:2013 (en) 6. Tehnički crteži - Primjene na željeznici - Dio 3: Postupanje sa
+izmjenama tehničke dokumentacije ................................................
+MEST EN 15016-3:2013 (en) 7. Tehnički crteži - Primjene na željeznici - Dio 2: Sastavnice .......... MEST EN 15016-2:2013/Cor.1:2013 (en) 8. Tehnički crteži - Primjene na željeznici - Dio 2: Sastavnice .......... MEST EN 15016-2:2013 (en) 9. Tehnički crteži - Primjene na željeznici - Dio 1: Opšti principi ..... MEST EN 15016-1:2013 (en) 10.Primjene na željeznici - Sistem označavanja za šinska vozila - Dio
+1: Opšti principi ........................................................................
+MEST EN 15380-1:2013 (en) 2. Crnogorski standardi iz tačke 1 ovog rješenja biće objavljeni u posebnom izdanju Instituta za standardizaciju Crne Gore. Crnogorski standardi iz tačke 1. ovog rješenja koji uz svoju oznaku imaju(en) i (me) objavljeni su na engleskom i crnogorskom jeziku.
+3. Ovo rješenje stupa na snagu danom objavljivanja u "Službenom listu Crne Gore".
