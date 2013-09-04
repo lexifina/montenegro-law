@@ -1,0 +1,2 @@
+Na osnovu člana 53 stav 4 Zakona o akcizama ("Slu-žbeni list RCG", br. 65/01, 76/05 i "Službeni list CG", br. 76/08, 50/09, 78/10, 61/11, 28/12 i 38/13), Ministarstvo finansija, u saradnji sa Ministarstvom poljoprivrede i ruralnog razvoja, donijelo je
+PRAVILNIK O IZMJENAMA PRAVILNIKA O NAČINU I USLOVIMA POVRAĆAJA AKCIZE NA MINERALNA ULJA KOJA SE UPOTREBLJAVAJU ZA POGON POLJOPRIVREDNE I ŠUMSKE MEHANIZACIJE
