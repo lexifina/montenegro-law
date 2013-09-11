@@ -1,0 +1,3 @@
+# Član 16
+## Stupanje na snagu
+Odluka o izradi lokalnog planskog dokumenta stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore - Opštinski propisi".
