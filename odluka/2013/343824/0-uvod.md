@@ -1,0 +1,2 @@
+Na osnovu čl. 13 i 22 Zakona o putevima ("Sl. list RCG", br. 42/04 i "Sl. list CG", 54/09 i 36/11), člana 45 i člana 51 stav 3 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06), člana 5 stav 1 tačka 6 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03, 44/03 i "Sl. list CG", br. 5/08,74/10) i člana 44 Statuta Opštine Mojkovac ("Sl. list CG - Opštinski propisi", br. 31/10), Skupština opštine Mojkovac, na sjednici održanoj 31.07.2013. godine, donosi
+O D L U K U
