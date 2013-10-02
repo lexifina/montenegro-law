@@ -1,0 +1,2 @@
+Na osnovu čl. 24 i 25 Zakona o izboru odbornika i poslanika ("Sl. list RCG", broj 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06) i ("Sl. list CG", br. 46/11) člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10, 73/10 i 38/12) i člana 63 stav 1 tačka 2 Statuta Prijestonice Cetinje ("Sl. list CG-Opštinski propisi", br. 19/09, 37/10, 26/13), Skupština Prijestonice Cetinje, na sjednici održanoj dana 01.10.2013. godine donijela je
+O D L U K U
