@@ -1,0 +1,2 @@
+Na osnovu člana 59 stav 2 alineja 2 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, "Sl. list Crne Gore - Opštinski propisi", br. 16/09 i 16/11) i člana 57 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, 88/09, 03/10, 73/10, 38/12), Skupština Opštine Herceg Novi, na sjednici održanoj dana 18.09.2013.godine, donijela je
+O D L U K U
