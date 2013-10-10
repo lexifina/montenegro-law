@@ -1,0 +1,3 @@
+# Član 5
+## Nediskriminacija
+U vršenju policijskih poslova policijski službenik ne smije dovoditi u povlašćeni, odnosno neravnopravan položaj lice u ostvarivanju njegovih prava i obaveza, po osnovu rase, boje kože, nacionalne pripadnosti, društvenog ili etničkog porijekla, veze sa nekim manjinskim narodom ili manjinskom nacionalnom zajednicom, jezika, vjere ili uvjerenja, političkog ili drugog mišljenja, pola, rodnog identiteteta, seksualne orjentacije, zdravstvenog stanja, invaliditeta, starosne dobi, imovnog stanja, bračnog ili porodičnog stanja, pripadnosti grupi ili pretpostavci o pripadnosti grupi, političkoj partiji ili drugoj organizaciji ili po osnovu bilo kojeg drugog ličnog svojstva.
