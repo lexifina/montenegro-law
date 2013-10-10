@@ -1,0 +1,2 @@
+# Član 2
+Kat. parcela broj 1456/36 iz lista nepokretnosti br.403 površine 66 m2, svojina Države Crne Gore, subjekat raspolaganja Prijestonica Cetinje zajedno sa kat. parcelom broj 1456/13 iz lista nepokretnosti broj 2327, površine 178 m2 svojina Jovetić Blaža, na kom dijelu parcele je u katastru nepokretnosti evidentiran teret zabrana otuđenja i opterećenja u površini od 38m2, sve u KO Cetinje I, čine urbanističku parcelu iz člana 1 ove odluke.
