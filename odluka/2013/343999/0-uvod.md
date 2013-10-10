@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 3 Zakona o administrativnim taksama ("Sl. list RCG", br. 55/03, 46/04, 81/05, 2/06 i "Sl. list CG", br. 22/08, 77/08, 03/09 i 40/10) i člana 36 stav 1 tačka 9 Statuta Opštine Herceg-Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07 i "Sl. list CG-Opštinski propisi", br. 16/09 i 16/11), Skupština opštine Herceg-Novi na sjednici održanoj dana 20.09.2013. godine, donosi
+O D L U K U
