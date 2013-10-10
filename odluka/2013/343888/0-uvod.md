@@ -1,0 +1,2 @@
+Na osnovu člana 30 Statuta Opštine Kotor ("Službeni list Opštine Kotor", broj 03/04 i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 04/11), a u skladu sa Programom borbe protiv korupcije i organizovanog kriminala i Akcionim Planom za sprovođenje Programa borbe protiv korupcije i organizovanog kriminala, koji je donijela Vlada Crne Gore i zaključcima Vlade Crne Gore od 10. jula 2008. godine, Skupština Opštine Kotor, na sjednici održanoj 11. 09. 2013. godine, donijela je
+O D L U K U
