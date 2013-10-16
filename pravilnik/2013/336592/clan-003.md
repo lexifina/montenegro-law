@@ -1,0 +1,3 @@
+# Član 3
+Za vozila iz člana 2 ovog pravilnika, koja se nalaze na javnim površinama (javni putevi, gradske ulice i ulice u naseljima, parkovi, prostori za parkiranje, vodna zemljišta) pravna lica koja upravljaju tim površinama (komunalna preduzeća, pravna lica koja upravljaju javnim putevima, morskim dobrom, nacionalnim parkovima i vodama) obezbjeđuju sakupljanje i predaju na prijemno mjesto odnosno postrojenje za obradu.
+Vozila iz člana 2 ovog pravilnika, koja se nalaze na drugim nepokretnostima, a koje nijesu javne površine sakupljaju i predaju na prijemno mjesto odnosno postrojenje za obradu vlasnici tih nepokretnosti.
