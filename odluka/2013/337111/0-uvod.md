@@ -1,0 +1,2 @@
+Na osnovu člana 11 i 46 Zakona o elektronskim komunikacijama ("Sl. list CG", broj 40/13) i člana 11 Statuta Agencija za elektronske komunikacije i poštansku djelatnost (u daljem tekstu - Agencija), na sjednici Savjeta Agencije održanoj dana 03. 10. 2013. godine, donio je
+O D LU K U O UTVRĐIVANJU OBLIKA I SADRŽAJA OBRASCA PRIJAVE KOJA SE PODNOSI PRIJE POČETKA, PRESTANKA ILI IZMJENE REŽIMA KORIŠĆENJA JAVNIH ELEKTRONSKIH KOMUNIKACIONIH USLUGA
