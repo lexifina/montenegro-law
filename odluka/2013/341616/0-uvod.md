@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 Zakona o državnoj imovini ("Sl. list CG", br. 21/09 i 40/11), člana 40 stav 1 i 2 i člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10 i 38/12) i člana 35 Statuta Opštine Šavnik ("Sl. list RCG-Opštinski propisi", br. 36/04, 24/08 i "Sl. list CG-Opštinski propisi", br. 36/10), Skupština opštine Šavnik, na sjednici održanoj dana 27.09. 2013.godine, donijela je
+O D L U K U
