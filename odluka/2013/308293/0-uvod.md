@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 03/10 i 38/12) člana 32 stav 1 Statuta Opštine Andrijevica ("Službeni list RCG - Opštinski propisi", br. 21/04, 42/06 i "Službeni list CG-Opštinski propisi", br. 02/11 i 21/13), Skupština opštine Andrijevica, na sjednici održanoj 30.09.2013.godine, donijela je
+O D L U K U
