@@ -1,0 +1,2 @@
+Na osnovu čl.14, 20 i 52 Zakona o spomen-obilježjima ("Sl. list CG", br 40/08), člana 63 stav 1 tačka 53 Statuta Prijestonice ("Sl. list CG-Opštinski propisi", br. 19/09, 37/10 i 26/13) i Programa podizanja spomen-obilježja u Prijestonici Cetinje za 2012.godinu, broj 015-061/12- 4861 od 29.06.2012. godine, Skupština Prijestonice Cetinje, na sjednici održanoj 01.10.2013. godine, donijela je
+O D L U K U
