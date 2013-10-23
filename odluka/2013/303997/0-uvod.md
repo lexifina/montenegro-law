@@ -1,0 +1,2 @@
+Na osnovu člana 117 stav 1 tačka 2 Zakon o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 40/10, 34/11, 40/11, 47/11 i 35/13) člana 32 stav 1 tačka 28 Statuta Opštine Andrijevica ("Službeni list RCG-Opštinski propisi", br. 21/04, 42/06 i "Službeni list CG - Opštinski propisi", br. 2/11 i 21/13), Skupština opštine Andrijevica, na sjednici održanoj 30.09.2013. godine, donijela je
+O D L U K U
