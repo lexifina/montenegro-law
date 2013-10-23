@@ -1,0 +1,3 @@
+Na osnovu člana 64 Zakona o privrednim društvima ("Sl. list RCG", br. 06/02 i "Sl. list CG", br. 17/07, 80/08, 40/10, 36/11 i 40/11), a u vezi sa članom 13 Zakona o unaprjeđenju poslovnog ambijenta ("Sl. list CG", br. 40/10), čl. 34 i 45 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06, "Sl. list CG", br. 88/09, 3/10 i 38/12), člana 13 Zakona o komunalnim djelatnostima ("Sl. list RCG", br. 12/95) i člana 63 stav 1 tačka 14 Statuta Prijestonice ("Sl. list CG-Opštinski propisi", br. 19/09, 37/10 i 26/13), Skupština Prijestonice Cetinje, na sjednici održanoj 01.10.2013. godine, donijela je
+O D L U K U
+o osnivanju društva sa ograničenom odgovornošću "Komunalno" Cetinje
