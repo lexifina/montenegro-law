@@ -1,0 +1,2 @@
+# Član 2
+Naknada za komunalno opremanje građevinskog zemljišta utvrđena je na osnovu Odluke o naknadi za komunalno opremanje građevinskog zemljišta ("Službeni list RCG-Opštinski propisi", br. 36/11) u iznosu od 282.766,20 € za objekat projektovane neto površine 1.556,14 m2, shodno Glavnom projektu ov.br. 08-361/10-101 od 16.03.2010. (11.05.2010.)godine ovjerenom od strane Sekretarijata za planiranje i uređenje prostora i zaštitu životne sredine i Građevinskoj dozvoli br. Up.08-361/10-101 od 20.05.2010.godine izdatoj od strane istog Sekretarijata.
