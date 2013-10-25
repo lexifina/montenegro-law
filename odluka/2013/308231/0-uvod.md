@@ -1,0 +1,2 @@
+Na osnovu člana 7 stav 3 i člana 31 Statuta Opštine Tivat ("Sl. list CG-Opštinski propisi", br. 40/04, 26/06 i "Sl. list CG - Opštinski propisi", br. 12/11, 21/11 i 03/13), kao i čl. 17 i 19 Odluke o uslovima, načinu i postupku dodjeljivanja Novembarske nagrade, javnih priznanja i nagrada i zvanja "Počasni građanin opštine Tivat" ("Sl. list CG-Opštinski propisi", broj 26/09), Skupština opštine Tivat, na sjednici održanoj dana 25.10.2013 godine, donijela je
+O D L U K U
