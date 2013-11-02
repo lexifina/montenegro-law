@@ -1,0 +1,3 @@
+# Član 1
+## o prenosu prava svojine na građevinsko zemljište na Gačević Rajku
+Gačević Rajki iz Nikšića prenosi se pravo svojine na građevinsko zemljište za potrebe formiranja urbanističke parcele u skladu sa Odlukom o Detaljnom urbanističkom planu Grudska mahala ("Službeni list RCG-Opštinski propisi ", broj 9/95, 1/03 i 16/07) i to katastarska parcela broj 511/4 koju čine zemljište ispod objekta broj 1, porodične stambene zgrade površine 42 m2, dvorište površine 232 m2, sve ukupne površine 274 m2 upisana u listu nepokretnosti broj 2735 KO Nikšić kao svojina Države Crne Gore sa pravom raspolaganja Opštine Nikšić, po utvrđenoj cijeni od 62,30 € po m2, prema procjeni Komisije za procjenu nepokretne imovine broj 443-103- 326/13 od 03.06.2013. godine.
