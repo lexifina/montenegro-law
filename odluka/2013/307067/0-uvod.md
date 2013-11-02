@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 14 i člana 51 stav 3 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09 i 38/12), člana 2 Zakona o divljači i lovstvu ("Službeni list CG", br. 52/08 i 40/11), člana 13 stav 1 tačka 7, člana 32 stav 1 tačka 14 i člana 40 Statuta Opštine Nikšić ("Službeni list RCG-Opštinski propisi", br. 20/04, 43/06 i "Službeni list CG-Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 18.10.2013. godine, donijela je
+O D L U K U
