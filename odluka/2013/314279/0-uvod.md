@@ -1,0 +1,2 @@
+Na osnovu člana 38 tačka 42 Statuta Opštine Žabljak ("Sl. list RCG-Opštinski propisi", br. 9/05, 23/07 i "Sl. list CG-Opštinski propisi", broj 3/11), a u vezi sa članom 11 Odluke o osnivanju društva sa ograničenom odgovornošću "Komunalno i vodovod" Žabljak ("Sl. list CG-Opštinski propisi", broj 21/13), Skupština opštine Žabljak, na sjednici održanoj dana 24.10.2013. godine, donijela je
+O D L U K U
