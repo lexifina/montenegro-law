@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Sl. list RCG", broj 65/01 i "Sl. list CG", broj 75/10) , člana 45 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, 88/09, 3/10, 73/10, 38/12) i člana 34 stav 1 tač. 2 i 8 Statuta Opštine Bijelo Polje ("Sl. list RCG- Opštinski propisi", br. 25/04, 33/06) i ("Sl. list CG- Opštinski propisi", broj 18/10), Skupština opštine Bijelo Polje, na sjednici održanoj 08.09. i 24.10.2013. godine, donijela je
+O D L U K U
