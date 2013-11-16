@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 3 Zakona o administrativnim taksama ("Sl. list RCG", br. 55/03, 46/04, 81/05, 2/06 i "Sl. list CG", br. 22/08, 77/08, 3/09, 40/10, 20/11 i 26/11) i člana 31 Statuta Opštine Tivat ("Sl. list RCG-Opštinski propisi", br. 40/04, 26/06 i "Sl. list CG-Opštinski propisi", br. 12/11, 21/11 i 3/13), Skupština opštine Tivat, na sjednici održanoj dana 25.10. 2013 godine, donijela je
+O D L U K U
