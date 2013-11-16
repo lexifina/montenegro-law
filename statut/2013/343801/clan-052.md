@@ -1,0 +1,2 @@
+# Član 52
+Stupanjem na snagu ovog Statuta prestaje da važi Statut JP "Vodovod i kanalizacija" Tivat br. 5 od 10.08. 1999. godine, na koji je SO Tivat dala saglasnost odlukom br. 0109-457 od 18.08.1999. godine sa Izmjenama i dopunama Statuta br. 115 od 10.02 2009. godine na koji je Skupština opštine Tivat dala saglasnost br. 0304-51 od 27.02.2009. godune i Izmjena i dopuna Statuta br. 1028/1 od 10.08. 2012. godine na na koji je Skupština opštine Tivat dala saglasnost br. 0304-204 od 27.08.2012. godine.
