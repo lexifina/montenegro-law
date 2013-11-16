@@ -1,0 +1,3 @@
+Na osnovu člana 39 Zakona o turističkim organizacijama ("Sl. list RCG", br. 11/04, 46/07 , "Sl. list CG", br. 73/10, 40/11) , člana 45 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list Crne Gore", br. 88/09 , 03/10, 73/10 i 38/12) i člana 34 stav 1 tač. 2 i 8 Statuta Opštine Bijelo Polje ("Službeni list RCG - Opštinski propisi", br. 25/04, 33/06 i "Sl. list CG-Opštinski propisi", broj 18/10) , Skupština opštine Bijelo Polje, na sjednici održanoj 08.09. i 24. 10. 2013. godine, donijela je
+O D L U K U
+o izmjeni Odluke o visini, načinu obračunavanja i plaćanja članskog doprinosa Turističkoj
