@@ -1,0 +1,2 @@
+# Član 52
+Stupanjem na snagu ovog Statuta prestaje da važi Statut JP "Komunalno" Tivat br. 5 od 10.08.1999. godine na koji je SO Tivat dala saglasnost odlukom br. 0109-458 od 18.08.1999. godine, sa izmjenama i dopunama Statuta donijetim na sjednicama upravnog odbora JP " Komunalno" Tivat, održane: 25.10.2007 godine (djel.br. 01-1/1539) na koje je SO Tivat dala saglasnost odlukom br. 0304-240 od 16.11.2007 godine; 10.08.2012. godine (djel.br. 01-1/1282) na koje je SO Tivat dala saglasnost odlukom br. 0304-203 od 27.08.2012. godine.
