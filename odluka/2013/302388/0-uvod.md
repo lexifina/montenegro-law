@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 20 Zakona o o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 , "Sl. list CG", br. 88/09 i 3/10, 75/10, 38/12) i člana 34 stav 1 tačka 24 Statuta Opštine ("Sl. list CG-Opštinski propisi", broj 21/10) i člana 1 Odluke o pristupanju izmjenama i dopunama Poslovnika Skupštine opštine Bijelo Polje ("Sl. list CG - Opštinski propisi", broj 14/13), Skupština opštine Bijelo Polje, na sjednici održanoj dana 08.09 i 24.10.2013. godine, donijela je
+O D L U K U
