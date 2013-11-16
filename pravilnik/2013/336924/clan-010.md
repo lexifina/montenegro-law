@@ -1,0 +1,5 @@
+# Član 10
+## Radno iskustvo za sticanje ovlašćenja za održavanje motora
+Podnosilac zahtjeva za sticanje ovlašćenja održavanja motora mora da ima radno iskustvo na poslovima održavanja motora u ovlašćenoj organizaciji za obavljanje poslova održavanja motora ili u organizaciji koja je po prirodi svoje djelatnosti prihvatljiva Agenciji i to:
+1) tri godine radnog iskustva na poslovima održavanja motora u ovlašćenoj organizaciji za obavljanje ovih poslova ili u organizaciji koja je po prirodi svoje djelatnosti prihvatljiva Agenciji i ako je, prije sticanja ovlašćenja za samostalan rad, poslove održavanja obavljao pod nadzorom ovlašćenog osoblja za održavanje motora;
+2) najmanje šest mjeseci radnog iskustva na poslovima održavanja motora u ovlašćenoj organizaciji za obavljanje ovih poslova ili ako je, prije sticanja ovlašćenja za samostalan rad, poslove održavanja obavljao pod nadzorom ovlašćenog osoblja za održavanje motora i ako kandidat u ovlašćenju za održavanje komponente ima već upisano održavanje APU.
