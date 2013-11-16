@@ -1,0 +1,3 @@
+Na osnovu člana 64 Zakona o privrednim društvima ("Sl. list RCG", broj 6/02, "Sl. list CG", br. 17/07, 80/08, 40/10, 73/10, 36/11 i 40/11) i člana 13 Zakona o unapređenju poslovnog ambijenta ("Sl. list CG", broj 40/10), člana 32 stav 1 tačka 1 i člana 45 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 03/10, 73/10 i 38/12), člana 13 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 12/95) i člana 34 stav 1 tačka 14 Statuta Opštine Bijelo Polje ("Sl. list CG-Opštinski propisi", broj 21/10), Skupština opštine Bijelo Polje, na sjednici održanoj dana 08.09 i 24.10.2013 godine, donijela je
+O D L U K U
+o osnivanju Društva sa ograničenom odgovornošću "Komunalno-Lim" Bijelo Polje
