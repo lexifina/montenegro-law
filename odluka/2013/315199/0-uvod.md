@@ -1,0 +1,2 @@
+Na osnovu člana 18 stav 2 Zakona o kulturi ("Sl. list CG", br. 49/08, 16/11 i 40/11), člana 12 Odluke o organizovanju Javne ustanove "Umjetnička kolonija" Danilovgrad ("Sl. list CG - Opštinski propisi", broj 23/13) i člana 35 Statuta Opštine Danilovgrad ("Sl. list RCG - Opštinski propisi", broj 30/04 "Sl. list CG - Opštinski propisi", br. 19/08 i 12/11), Skupština opštine Danilovgrad, na sjednici održanoj 11.11. 2013.godine, donosi
+O D L U K U
