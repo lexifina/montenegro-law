@@ -1,0 +1,2 @@
+Na osnovu člana 29, stav 2, člana 34 stav 3, člana 40 stav 1 Zakona o državnoj imovini ("Sl. list CG", broj 21/09), člana 7 stav 1 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl. list CG", broj 44/10), člana 31 stav 1 tačka 9 Statuta Opštine Kolašin - Prečišćeni tekst ("Sl. list CG-Opštinski propisi", broj 31/11) i saglasnosti Vlade Crne Gore, broj 06- 2590/3- 12 od 17.01.2013. godine, Skupština opštine Kolašin, na sjednici održanoj 4.11.2013. godine, donijela je
+O D L U K U
