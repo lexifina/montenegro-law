@@ -1,0 +1,2 @@
+Na osnovu člana 31 Statuta Opštine Kolašin-Prečišćeni tekst ("Sl. list CG-Opštinski propisi", broj 31/11), u skladu sa Programom borbe protiv korupcije i organizovanog kriminala i Akcionim planom za sprovođenje Programa borbe protiv korupcije i organizovanog kriminala koji je donijela Vlada Crne Gore i zaključcima Vlade Crne Gore od 10.jula 2008. godine, Skupština opštine Kolašin, na sjednici održanoj dana 4.11.2013. godine, donijela je
+O D L U K U
