@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom osniva se društvo sa ograničenom odgovornošću "Vodovod i kanalizacija" Budva (u daljem tekstu Društvo) tj. reorganizuje se JP "Vodovod i kanalizacija" Budva shodno čl.13 st.2. Zakona o unaprjeđenju poslovnog ambijenta kao jednočlano društvo, radi obavljanja poslova komunalne djelatnosti snadbijevanja pitkom vodom opštine Budva (u daljem tekstu Opština) odvođenja i prečišćavanja otpadnih voda sa teritorije Opštine u skladu sa ovom odlukom i statutom Društva.
