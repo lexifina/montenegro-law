@@ -1,0 +1,4 @@
+# Član 1
+## o izmjeni Odluke o razmjeni nepokretnosti broj 0101-220/1 od 28.05.2008. godine
+U Odluci o razmjeni nepokretnosti broj 0101-220/1 od 28.05.2008. godine ("Službeni list Opštine Budva broj 6/2008) mijenja se član 1 i glasi:
+"Katastarska parcele broj 457 KO Bečići površine 564m² sukorisnika Bečić Đuro, Bečić Branko, Bečić Slavka i Bečić Milorad i dio katastarske parcele 302 KO Bečići površine 490m² i katastarska parcela 302/3 površine 83m² sukorisnika Bečić Đura i Bečić Branka razmjenjuju se sa Opštinom Budva za dio katastarske parcele broj 87/6, korisnika Opštine Budva uslovnom parcelacijom označena kao kat.parcela 87/22 u površini od 139 m², katastarska parcela broj 114 KO Bečići korisnika Opštine Budva u površini od 391 m², za katastarsku parcelu broj 110 KO Bečići korisnika Opštine Budva površine od 342 m² i za dio katastarske parcele broj 87/5 uslovnom parcelacijom označena kao kat.parcela 87/21 u površini od 950 m² korisnika Opštine Budva.".
