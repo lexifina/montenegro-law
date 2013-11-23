@@ -1,0 +1,2 @@
+# Član 15
+Danom registracije Društva sve odredbe Odluke o uslovima i načinu postavljanja i uklanjanja privremenih objekata u reklamnom prostoru Opštine Budva ("Službeni list CG - Opštinski propisi", broj 8/11) i Odluke o lokalnim komunalnim taksama ("Službeni list CG - Opštinski propisi", broj 19/11) koje su se odnosile na Javno preduzeće za upravljanje reklamnim prostorom Opštine Budva "Mediteran reklame" Budva primjenjivaće se i na poslovanje Društva sa ograničenom odgovornošću "Mediteran reklame" Budva.
