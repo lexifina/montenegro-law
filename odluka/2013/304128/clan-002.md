@@ -1,0 +1,4 @@
+# Član 2
+LSL se sastoji iz tekstualnog dijela i grafičkih priloga postojećeg i planiranog stanja, urađenih u vidu knjige (elaborata) u analognoj i digitalnoj formi.
+Tekstualni dio sadrži: Dokumentaciju (opštu i postupak izrade plana), 1. Polazišta i ciljevi izrade LSL, 2. Uvodne napomene, 3. Dokumentaciona osnova, 4. Programski i prostorni koncept, 5. Zaštita životne sredine, 6. Detaljni program, - Saobraćaj, - Hidrotehnička infrastruktura, - Elektroenergetska mreža, - Hortikultura.
+Grafički dio sadrži: 1. Geodetska podloga sa granicom zahvata, 2. Izvod iz plana višeg reda, 3. Postojeća namjena površina, 4. Plan fizičkih struktura, 5. Plan namjena površina, 6. Plan parcelacije i regulacije, 7. Plan koji sadrži urbanističko-teh. uslove za sprovođenje plana, 8. Plan saobraćajne infrastrukture, 9. Plan hidrotehnike, 10. Plan električnih instalacija i 12. Plan pejzažne arhitekture.
