@@ -1,0 +1,2 @@
+Na osnovu člana 16 stav 1 Zakona o spomen-obilježjima ("Sl. list Crne Gore", br. 40/08 i 40/11) i člana 35 Statuta Opštine Danilovgrad ("Sl. list RCG - Opštinski propisi", broj 30/04 i "Službeni list Crne Gore - Opštinski propisi", br. 19/08 i 12/11), uz prethodnu saglasnost Ministarstva kulture br. 04-2175/2 od 03.09.2013.godine, Skupština opštine Danilovgrad, na sjednici održanoj 07.11.2013.godine, donosi
+O D L U K U
