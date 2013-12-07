@@ -1,0 +1,2 @@
+# Član 4
+U korist Atlas banke a.d. Podgorica, filijala Pljevlja, odobrava se upis hipoteke III reda na nekretninama koje se nalaze na katastarskoj parceli broj 1945/1, upisane u list nepokretnosti broj 2415 KO Pljevlja (Dom kulture), na ime obezbjeđenja naplate bančinih potraživanja koja mogu nastati u vezi sa garancijom iz člana 1. ove odluke, a u slučaju da banka izvrši plaćanje prema korisniku garancije.
