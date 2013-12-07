@@ -1,0 +1,2 @@
+Na osnovu člana 15 stav 1 Odluke o uspostavljanju strukture za pregovore o pristupanju Crne Gore Evropskoj uniji ("Službeni list CG", broj 9/12), Vlada Crne Gore, na sjednici od 3. oktobra 2013. godine, donijela je
+ODLUKU O IZMJENI ODLUKE O OBRAZOVANJU RADNE GRUPE ZA PRIPREMU PREGOVORA O PRISTUPANJU CRNE GORE EVROPSKOJ UNIJI ZA OBLAST PRAVNE TEKOVINE EVROPSKE UNIJE KOJA SE ODNOSI NA PREGOVARAČKO POGLAVLJE 22 - REGIONALNA POLITIKA I KOORDINACIJA STRUKTURNIH INSTRUMENATA
