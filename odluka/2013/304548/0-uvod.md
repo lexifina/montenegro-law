@@ -1,0 +1,2 @@
+Na osnovu čl. 1 i 7 Zakona o boravišnoj taksi ("Sl. list RCG", br. 11/04 i 13/04), člana 34 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list CG", br. 88/09, 03/10, 73/10, 38/12), i člana 34 Statuta Opštine Plav ("Sl. list RCG-Opštinski propisi", broj 17/07), a u vezi sa čl. 3, 24 i 25 Zakona o prekršajima ("Sl. list CG br. 1 /11, 6 /11 i 39 /11), Skupština opštine Plav, na sjednici održanoj dana 18. 11. 2013. godine, donijela je
+O D L U K U
