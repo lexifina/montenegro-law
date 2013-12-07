@@ -1,0 +1,2 @@
+Na osnovu člana 5 st. 1 i 3, člana 13 stav 3 Zakona o putevima ("Sl. list RCG", br. 42/02 i "Sl. list CG", br. 21/09, 54/09, 40/10, 73/10 i 36/11) i člana 32 stav 1 tačka 3 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", br. 88/09) člana 12 stav 2 tačka 12 alineja 1 i člana 34 Statuta Opštine Pljevja ("Sl. list RCG-Opštinski propisi", br. 37/04, 30/07 i "Sl. list CG-Opštinski propisi", br. 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici održanoj 11.11. i 15.11. 2013. godine, donijela je
+O D L U K U
