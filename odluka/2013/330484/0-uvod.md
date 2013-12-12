@@ -1,0 +1,2 @@
+Na osnovu člana 53 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09, 3/10, 73/10 i 38/12), člana 20 Zakona o Prijestonici ("Službeni list CG", br. 47/08 i 88/09), člana 76 Statuta Prijestonice ("Službeni list CG- Opštinski propisi", br. 19/09, 37/10, 26/13), Skupština Prijestonice Cetinje na sjednici održanoj dana 12.12. 2013. godine, donijela je
+O D L U K U
