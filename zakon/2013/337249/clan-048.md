@@ -1,0 +1,14 @@
+# Član 48
+(1) Novčanom kaznom od 3.000 eura do 8.000 eura kazniće se za prekršaj pravno lice, ako:
+1) se u organskoj biljnoj proizvodnji, pored opštih pravila iz člana 12 ovog zakona, ne primjenjuju i postupci obrade zemljišta i uzgoja bilja kojima se održava ili povećava sadržaj organskih materija u zemljištu, povećava stabilnost i biodiverzitet zemljišta i sprječava sabijanje i erozija zamljišta (član 13 stav 1 tačka 1);
+2) se u organskoj biljnoj proizvodnji, pored opštih pravila iz člana 12 ovog zakona, plodnost i biološka aktivnost zemljišta ne održava i ne povećava višegodišnjim plodoredom usjeva, uključujući leguminoze i drugo bilje koje se koristi kao zelenišno đubrivo, kao i upotrebom stajskog đubriva ili organskog materijala, po mogućnosti kompostiranog, iz organske proizvodnje (član 13 stav 1 tačka2);
+3) se u organskoj biljnoj proizvodnji, pored opštih pravila iz člana 12 ovog zakona, koriste proizvodi za čišćenje i dezinfekciju koji nijesu odobreni za upotrebu u organskoj proizvodnji u skladu sa članom 17 ovog zakona (član 13 stav 1 tačka 10);
+4) se u organskoj stočarskoj proizvodnji pored opštih pravila iz člana 12 ovog zakona koriste proizvodi namijenjeni za čišćenje i dezinfekciju objekata u kojima se drže životinje, a njihova upotreba nije dozvoljena u organskoj proizvodnji u skladu sa članom 17 ovog zakona (član 14 stav 1 tačka 5 alineja 5);
+5) subjekat i kontrolno tijelo ne zaključe ugovor o vršenju kontrole i sertifikacije u organskoj proizvodnji (član 18 stav 2);
+6) na poljoprivrednom gazdinstvu na kome je otpočela organska proizvodnja u toku prelaznog perioda ne primjenjuju pravila utvrđena ovim zakonom (član 18 stav 4 tačka 1);
+7) se na poljoprivrednom gazdinstvu na kojem je otpočela organska proizvodnja prelazni period ne utvrđuje prema vrsti biljne ili stočarske proizvodnje (član 18 stav 4 tačka 2);
+8) na poljoprivrednom gazdinstvu na kojem je otpočela organska proizvodnja ili proizvodnoj jedinici koja je jednim dijelom pod organskom proizvodnjom, a drugim dijelom u prelaznim periodu, subjekat ne drži odvojeno organske proizvode od proizvoda proizvedenih u prelaznom periodu, ne drži životinje odvojeno i ne vodi evidenciju kojom to može dokazati (član 18 stav 4 tačka 3);
+9) životinje i proizvode životinjskog porijekla proizvedene u prelaznom periodu na poljoprivrednom gazdinstvu na kojem je otpočela organska proizvodnja stavlja na tržište odnosno reklamira sa oznakama iz čl. 24 i 26 ovog zakona (član 18 stav 4 tačka 4).
+(2) Za prekršaj iz stava 1 ovog člana kazniće se i odgovorno lice u pravnom licu novčanom kaznom od 300 eura do 800 eura.
+(3) Za prekršaj iz stava 1 ovog člana kazniće se preduzetnik/ca novčanom kaznom od 300 eura do 2.000 eura.
+(4) Za prekršaj iz stava 1 ovog člana kazniće se fizičko lice novčanom kaznom od 300 eura do 800 eura.
