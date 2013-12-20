@@ -1,0 +1,2 @@
+Na osnovu čl. 14 , 15 i 105 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Sl. list CG", broj 46/11) i člana 33 stav 1 tačka 2 Statuta Opštine Berane ("Sl. list RCG-Opštinski propisi", br. 21/04 i 34/06 i "Sl. list CG-Opštinski propisi", broj 6/11), Skupština opštine Berane, na sjednici održanoj dana 11. decembra 2013. godine, donijela je
+O D L U K U
