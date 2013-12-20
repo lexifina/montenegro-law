@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10 i 38/12), člana 3 stava 2 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06 i 56/06 i "Sl. list CG", broj 44/11) i člana 33 stav 1 tačka 42 Statuta Opštine Berane ("Sl. list RCG- Opštinski propisi", br. 21/04 i 34/06 i "Sl. list CG-Opštinski propisi", broj 6/11), Skupština opštine Berane, na sjednici održanoj dana 11. decembra 2013. godine, donosi
+O D L U K U
