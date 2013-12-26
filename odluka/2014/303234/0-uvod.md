@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta Opštine Plužine a u vezi sa članom 31 tačka 9 ("Sl. list RCG - Opštinski propisi", broj 23/04, 7/07 i "Sl. list CG- Opštinski propisi" 1/11, 8/11, 22/11) razmatrajući zahtjev Fabrike elektroda "Piva" AD Plužine, za produženje roka vraćanja pozajmice broj 03-1296 od 17.12.2013. godine, Skupština opštine Plužine, na sjednici održanoj 26.12.2013. godine donijela je
+O D L U K U
