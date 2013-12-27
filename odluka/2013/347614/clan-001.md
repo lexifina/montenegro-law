@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za odustajanje od prava na žalbu
+Daje se saglasnost za odustajanje od prava na žalbu na rješenje Osnovnog suda Kotor Posl.br. Rs.5/13 od 31.10.2013.god. donijeto u pravnoj stvari predlagača Ribica Mladena,Čepić Nebojše, Marković Griner Katarine, Vukotić Sandre, Marković Tonke, Katalinić Marije, Marković Eme i Marković Silvija kojim se utvrđuje naknada za eksproprisano zemljište označeno kao kat.par. 462/2 pov.7m2, kat.par.468/3 pov.32m2 i kat.par.438/2 pov.89m2, sve k.o.Donja Lastva i obavezuje Opština Tivat da istima isplati naknadu u ukupnom iznosu od 30.996,48€.
