@@ -1,0 +1,2 @@
+# Član 3
+Sredstva Budžeta Opštine Kotor za 2014. godinu iz sredstava stavki "Transferi sportskim klubovima" služiće kao garant kreditnog zaduženja iz člana 1 ove odluke, na način što će se u slučaju neizmirivanja kreditnog zaduženja iz člana 1 ove odluke od strane "FK Bokelj" kreditno zaduženje izmiriti od strane davaoca garancije, a na račun opredjeljenih sredstava Budžeta za 2014. godinu za potrebe "FK Bokelj" iz stavke "Transferi sportskim klubovima", uz umanjenje pripadajućih sredstava "FK Bokelj" u iznosu izmirenog kreditnog zaduženja.
