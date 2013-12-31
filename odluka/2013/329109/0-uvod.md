@@ -1,0 +1,2 @@
+Na osnovu člana 8 Zakona o Budžetu ("Službeni list RCG", br. 40/01, 44/01, 28/04, 71/05, i "Službeni list CG" br. 12/07, 73/08, 53/09, 46/10 i 49/10), i člana 45 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", br. 42/03 i 44/03, 5/08 i 74/10 ) i člana 35 Statuta Opštine Šavnik ("Službeni list RCG - Opštinski propisi", br. 36/04, 24/08 i 36/10), Skupština Opštine Šavnik, na sjednici održanoj dana 13.12.2013. godine, donijela je
+O D L U K U
