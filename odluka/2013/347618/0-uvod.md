@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06, "Službeni list CG", br. 88/09, 03/10, 73/10 i 38/12), čl. 9, 39 i 40 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), kao i čl. 7 stav 2, čl. 48 i 49 stav 2 Zakona o kinematografiji ("Službeni list CG", br. 14/08, 40/10 i 40/11) i čl. 40 Statuta Opštine Budva (" Službeni list CG - Opštinski propisi", br. 19/10), Skupština opštine Budva, na sjednici održanoj dana 13. decembra 2013. godine, donijela je
+O D L U K U
