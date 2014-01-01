@@ -1,0 +1,2 @@
+# Član 1
+Ovim Statutom uređuju se pitanja u vezi sa organizacijom rada i funkcionisanja Društva sa ograničenom odgovornošću "Komunalno" Budva (u daljem tekstu: Društvo), i to: naziv i sjedište, djelatnost, osnovni kapital, zastupanje i predstavljanje, unutrašnja organizacija, prava, obaveze i odgovornosti u pravnom prometu, utvrđivanje poslovne politike i planiranje rada i razvoja, poslovanje i javnost rada, upravljanje i rukovođenje, informisanje i odnosi sa javnošću i druga pitanja od značaja za rad i poslovanje Društva.
