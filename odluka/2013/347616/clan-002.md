@@ -1,0 +1,3 @@
+# Član 2
+Izmjene i dopune Detaljnog urbanističkog plana Centralne zone u Andrijevici naročito se odnose na prenamjenu površina. Postojeće granice Detaljnog urbanističkog plana Centralne zone u Andrijevici se u potpunosti zadržavaju, a prenamjena površina se odnosi na dio parcele 2307 kao i parcelu broj 57/2 gdje je bila površina namijenjena za stočnu pijacu a izmjenama se planira centar za reciklažu kao i djelovi parcele 17/1 gdje se izmjenama i dopunama planiraju novi objekti različite spratnosti i dimenzija.
+Detaljni urbanistički plan Centralne zone u Andrijevici zahvata površinu 21,38 ha a izmjene i dopune koje se odnose na prenamjenu površinu su orjentaciono oko 1ha.
