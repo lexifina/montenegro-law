@@ -1,0 +1,2 @@
+# Član 1
+Ovim Statutom u skladu sa Odlukom o osnivanju Društva sa ograničenom odgovornošću "Pasrking Servis" Budva doo - Budva (u daljem tekstu: Društvao) uređuju se pitanja u vezi sa organizacijom rada i funkcionisanja Društva, i to: naziv i sjedište Društva, djelatnost, osnovni kapital, zastupanje i predstavljanje, unutrašnja organizacija, organi i način njihovog izbora, odgovornost za obaveze, upravljanje i rukovođenje, informisanje i odnos sa javnošću i druga pitanja u skladu sa Odlukom o osnivanju i zakonom.
