@@ -1,0 +1,2 @@
+# Član 22
+U zonama smirenog saobraćaja i pješačkim zonama iz čl. 15 i 17 ove odluke, osim dijela Hercegovačke ulice, od Ulice Stanka Dragojevića do Ulice Slobode, organ nadležan za poslove saobraćaja može odobriti kretanje teretnih vozila za snabdijevanje trgovinskih i ugostiteljskih objektata, kao i za potrebe izgradnje, rekonstrukcije, adaptacije i opremanja objekata najveće dozvoljene mase do 3,5 t u vremenu od 6,00 do 10,00 časova, brzinom kretanja pješaka, a najviše 10 km/h, na način i pod uslovima propisanim članom 4 ove odluke.

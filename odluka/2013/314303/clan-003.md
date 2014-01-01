@@ -1,0 +1,2 @@
+# Član 3
+Ulice sa jednosmjernim saobraćajem su: Hercegnovska, Slavonska, Vita Nikolića, Jaroslava Čermaka, Dragoljuba Milačića, Andrijevička, Mojsija Zečevića, Vuka Karadžića, Vučedolska, Novaka Miloševa, Bokeška, Miljana Vukova, Hercegovačka, Balšića (od Ulice Novaka Miloševa do Bulevara Ivana Crnojevića), Njegoševa, Obala Ribnice, Karađorđeva (od Ulice Njegoševe do Ulice Slobode); IV Proleterska, (od Ulice Marka Miljanova do Ulice omladinskih brigada), Omladinskih brigada (od Ulice Obala Ribnice do Ulice Vuka Karadžića), Sarajevska (od ulice Skopske do Ulice Milana Kuča).
