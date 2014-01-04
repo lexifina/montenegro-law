@@ -1,0 +1,17 @@
+Na osnovu člana 53 Zakona o koncesijama ("Službeni list CG", broj 8/09) i čl. 26 i 27 Ugovora o koncesiji za eksploataciju rječnih nanosa (šljunak i pijesak), na lokaciji "Radovina" (u dužini od 300m, sa lijeve, desne obale i korita vodotoka, MZ LJeškopolje), vodotok Morača, Glavni Grad Podgorica, Vlada Crne Gore, na sjednici od 28. novembra 2013. godine, donijela je
+ODLUKU
+O RASKIDU UGOVORA O KONCESIJI ZA EKSPLOATACIJU RJEČNIH NANOSA
+(ŠLJUNAK I PIJESAK), NA LOKACIJI "RADOVINA" (U DUŽINI OD 300m, SA
+LIJEVE, DESNE OBALE I KORITA VODOTOKA, MZ LJEŠKOPOLJE),
+VODOTOK MORAČA, GLAVNI GRAD PODGORICA
+1. Raskida se Ugovor o koncesiji za eksploataciju rječnih nanosa (šljunak i pijesak), na lokaciji "Radovina" (u dužini od 300m, sa lijeve, desne obale i korita vodotoka, MZ LJeškopolje), vodotok Morača, Glavni Grad Podgorica (u daljem tekstu: Ugovor o koncesiji), broj 931 od 15. avgusta 2011.godine, koji je Vlada Crne Gore zaključila sa koncesionarom ,,MBM Trans" D.O.O. iz Podgorice.
+2. Po osnovu raskida Ugovora o koncesiji koncesionar:
+- nema prava na naknadu štete, odnosno troškova za izvršene radove i uložena sredstva;
+- je dužan da u roku od 10 dana od dana prijema pismenog otkaza Ugovora o koncesiji uspostavi stanje na terenu koje je postojalo prije eksploatacije rječnih nanosa (šljunak i pijesak) na lokalitetu na kojem je vršio eksploataciju, uz uslov da time ne nastanu štete na lokalitetu, njegovoj okolini i prema trećim licima.
+3. Zadužuje se organ uprave nadležan za upravljanje vodama da u skladu sa Ugovorom, dostavi pisani otkaz koncesionaru.
+4. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+Obrazloženje
+Koncesionar "MBM Trans" D.O.O., iz Podgorice, obratio se Upravi za vode sa zahtjevom, od 27. avgusta 2013. godine, za raskid Ugovora o koncesiji za eksploataciju rječnih nanosa (šljunka i pijeska) na lokalitetu "Radovina" (u dužini od 300m, sa lijeve, desne obale i korita vodotoka, MZ LJeškopolje), vodotok Morača, Glavni Grad Podgorica, broj 931 od 15. avgusta 2011.godine, koji je sa koncesionarom, u svojstvu koncendenta, zaključila Vlada Crne Gore. Ugovor je zaključen u sprovođenju Odluke o dodjeli predmetne koncesije, koju je Vlada Crne Gore donijela na sjednici od 2. juna 2011. godine, a koja je objavljena u "Službenom listu Crne Gore", broj 36/11.
+Zahtjevom se, s pozivom na član 26 stav 1 tačka 1 Ugovora o koncesiji ističe da koncesionar usljed nedostatka rječnog materijala (šljunka i pijeska) već godinu dana nije u mogućnosti da eksploatiše odnosno koristi predmetnu lokaciju.
+Uvidom u navedene odredbe predmetnog ugovora može se nesumnjivo utvrditi da nema smetnji da se podneseni zahtjev koncesionara prihvati i ugovor raskine. Ovo tim prije, jer je koncesionar izmirio sve svoje obaveze po osnovu koncesione naknade, vezane za period do podnošenja zahtjeva za raskid Ugovora.
+Predlog odluke pripremljen je u skladu sa odredbama Zakona o koncesijama i Ugovora o koncesiji kojima je uređen raskid ugovora, uključujući i određenja da koncesionar po osnovu raskida tog ugovora nema prava na naknadu štete, odnosno troškova za izvršene radove i uložena sredstva i da je dužan da u roku od 10 dana od dana prijema pismenog otkaza Ugovora o koncesiji uspostavi stanje na terenu koje je postojalo prije eksploatacije riječnih nanosa (šljunak i pijesak) na lokalitetu na kojem je vršio eksploataciju, uz uslov da time ne nastanu štete na lokalitetu, njegovoj okolini i prema trećim licima (član 25 st. 2 i 3 Ugovora o koncesiji).
