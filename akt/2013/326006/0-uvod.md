@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o energetici ("Službeni list Crne Gore", br. 28/10, 40/11, 42/11 i 6/13) i člana 18 stav 1 tačka 1 Statuta Regulatorne agencije za energetiku (″Službeni list Crne Gore″, broj 7/11), Odbor Agencije, na sjednici od 26.12.2013. godine, utvrdio je
+M E T OD O L O G I JU ZA UTVRĐIVANJE CIJENA ZA KORIŠĆENJE PRENOSNOG ILI DISTRIBUTIVNOG SISTEMA KOJE PLAĆAJU KORISNICI DIREKTNOG VODA KADA JE ON PRIKLJUČEN NA PRENOSNI ILI DISTRIBUTIVNI SISTEM
