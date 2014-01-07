@@ -1,0 +1,12 @@
+# Član 1
+U Zakonu o porezu na dobit pravnih lica ("Službeni list RCG", br. 65/01 i 80/04 i "Službeni list CG", br. 40/08, 86/09 i 14/12) člana 31 mijenja se i glasi:
+(1) Novoosnovanom pravnom licu koje obavlja djelatnost u privredno nedovoljno razvijenim opštinama obračunati porez na dobit za prvih osam godina umanjuje se u iznosu od 100%.
+(2) Poresko oslobođenje iz stava 1 ovog člana odnosi se i na dobit koju poreski obveznik ostvari u novoosnovanoj poslovnoj jedinici, koja obavlja djelatnost u nedovoljno razvijenoj opštini, srazmjerno učešću dobiti ostvarene u toj poslovnoj jedinici u ukupnoj dobiti poreskog obveznika.
+(3) Poresko oslobođenje iz stava 2 ovog člana ostvaruje se pod uslovom da poreski obveznik vodi posebnu evidenciju poslovanja poslovne jedinice u nedovoljno razvijenoj opštini.
+(4) Ukupan iznos poreskog oslobođenja iz stava 1 ovog člana za period od osam godina ne može biti veći od 200.000,00 eura.
+(5) Prva godina u kojoj se ostvaruje pravo na poresko oslobođenje počinje da teče od dana upisa novoosnovanog pravnog lica u Centralni registar privrednih subjekata (u daljem tekstu: CRPS).
+(6) Novoosnovanim pravnim licem ne smatra se: pravno lice nastalo spajanjem ili podjelom postojećeg pravnog lica, pravno lice nastalo bilo kojom statusnom promjenom, kao i pravno lice koje je u periodu od tri godine koje prethode osnivanju tog pravnog lica prestalo da postoji, odnosno prekinulo sa poslovanjem u istoj ili sličnoj djelatnosti.
+(7) Pravo na oslobođenje ne može ostvariti novoosnovano pravno lice čiji je osnivač, odnosno suosnivač povezano lice.
+(8) Ako je poreski obveznik u periodu iz stava 1 ovog člana korisnik državne pomoći u skladu sa posebnim propisom, odnosno ostvario pravo na poresko oslobođenje za novozaposlena lica u skladu sa posebnim propisom i/ili članom 31b ovog zakona, ukupan iznos poreskog oslobođenja ne može biti veći od iznosa iz stava 4 ovog člana.
+(9) Izuzetno od stava 8 ovog člana, pravo na poresko oslobođenje iz st. 1 do 5 ovog člana nema poreski obveznik koji je korisnik državne pomoći dodijeljene zbog suočavanja sa poteškoćama u poslovanju, u skladu sa posebnim propisom kojim se uređuje dodjela državne pomoći.
+10) Poresko oslobođenje iz st. 1 do 5 ovog člana ne odnosi se na poreskog obveznika koji posluje u sektoru primarne proizvodnje poljoprivrednih proizvoda, transporta, brodogradilišta, ribarstva, čelika, trgovine i ugostiteljstva, osim primarnih ugostiteljskih objekata."
