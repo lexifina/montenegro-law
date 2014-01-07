@@ -1,0 +1,2 @@
+# Član 1
+Produžava se primjena Odluke o umanjenju iznosa zakupnine poslovnog prostora u vlasništvu Glavnog grada - Podgorice ("Sl. list CG - Opštinski propisi", br. 38/12) i Odluke o dodatnom umanjenju iznosa zakupnine poslovnog prostora u vlasništvu Glavnog grada - Podgorice ("Sl. list CG - Opštinski propisi", br. 15/13), tako da će se umanjenja predviđena ovim odlukama primjenjivati do 30.06.2014. godine.
