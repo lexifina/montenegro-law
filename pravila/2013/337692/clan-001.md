@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilima utvrđuju se vrste licenci za obavljanje energetskih djelatnosti, u skladu sa Zakonom o energetici (u daljem tekstu: Zakon), bliži uslovi za izdavanje licence, postupak izdavanja, izmjene i oduzimanja licence i način podnošenja zahtjeva, dokazi koji se dostavljaju uz zahtjev, sadržaj i izgled licence, period na koji se izdaje licenca, produženje važenja licence, mirovanje obaveza iz licence, razmjena informacija sa energetskim subjektima, način plaćanja naknada za licencu i sadržaj registra izdatih licenci.
