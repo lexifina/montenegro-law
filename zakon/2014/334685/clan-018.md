@@ -1,0 +1,2 @@
+# Član 18
+Ako pri upotrebi krvi ili komponenti krvi dođe do neželjenih posljedica, doktor medicine koji u liječenju primjenjuje krv i komponente krvi (u daljem tekstu: nadležni doktor) dužan je da o tome, bez odlaganja, u skladu sa Dobrom kliničkom praksom, obavijesti Komitet, zdravstvenu ustanovu u kojoj se primalac krvi liječi i odgovornog transfuziologa, na obrascu iz člana 16 stav 4 ovog zakona.

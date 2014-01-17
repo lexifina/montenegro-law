@@ -1,0 +1,5 @@
+# Član 26
+Lični podaci i podaci o zdravstvenom stanju davaoca krvi, rezultati obavljenih testiranja, postojanje zabrane davanja krvi, reakcije tokom uzimanja krvi i genetičke informacije su profesionalna tajna i čuvaju se kao lični podaci, u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti.
+Zabranjeno je neovlašćeno dodavanje podataka, njihovo brisanje ili izmjena u zdravstvenom kartonu davaoca krvi i informacionom sistemu, kao i podataka o zabrani davanja krvi i svaki prenos ili ustupanje informacija.
+Podaci iz stava 1 ovog člana mogu se koristiti samo za namjene koje su utvrđene ovim zakonom, zakonom kojim su uređene evidencije u oblasti zdravstva, kao i za obradu u statističke svrhe, epidemiološka i naučna istraživanja, ukoliko su anonimni i ne mogu se povezati sa ličnom identifikacijom davaoca krvi.
+Zavod uspostavlja procedure za prikupljanje, kontrolu i usaglašenost podataka iz stava 1 ovog člana, kao i procedure za rješavanje problema sa nepodudaranjem i razlikama u podacima.
