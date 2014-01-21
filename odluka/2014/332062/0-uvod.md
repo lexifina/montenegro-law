@@ -1,0 +1,2 @@
+Na osnovu člana 31 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 34/11, 35/13 i 39/13), čl. 5 i 10 Zakona o strateškoj procjeni uticaja na životnu sredinu ("Sl. list RCG", br. 80/05) i člana 18 Odluke o organizaciji i načinu rada lokalne uprave ("Službeni list CG - Opštinski propisi", br. 7/13 i 8/13), Sekretarijat za uređenje prostora i održivi razvoj Opštine Mojkovac, donosi
+O D L U K U
