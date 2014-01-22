@@ -1,0 +1,4 @@
+# Član 1
+## o dopuni Plana postavljanja privremenih objekata za teritoriju Opštine Budva za period od 01.04.2013. do 31.12.2015. godine
+U poglavlju III- NAČIN I POSTUPAK DAVANjA NA PRIVREMENO KORIŠĆENjE GRAĐEVINSKOG ZEMLjIŠTA, dodaje se stav 8 koji glasi:
+U skladu sa odredbama Odluke o izboru strateškog partnera za izgradnju Zabavnog- Action parka na brdu Spas ("Službeni list Opštine Budva", br. 17/08) biće sproveden postupak javnog nadmetanja za lokacije predviđene na katastarskim parcelama br. 1555, 1557, 1576/163 i 1576/164, sve KO Maine. Na navedenim katastarskim parcelama se predviđa lokacija za sportsko- rekreativni centar "Vodeni grad" prema idejno- funkcionalnom rješenju i lokacija za ugostiteljski centar sa uslužnim sadržajima i mogu se pojedinačno izdati na višegodišnji zakup od 30 godina, putem javnog nadmetanja.
