@@ -1,0 +1,4 @@
+# Član 2
+DUP se sastoji iz tekstualnog dijela i grafičkih priloga postojećeg i planiranog stanja, urađenih u vidu knjige (elaborata) u analognoj i digitalnoj formi.
+Tekstualni dio sadrži: 1. Opšti dio, 2. Dokumentaciona osnova, 3. Analiza postojećeg stanja, 4. Plan, 5. Plan infrastrukture, 6. Ekonomsko tržišna projekcija.
+Grafički dio sadrži: 00. Topografsko- katastarski plan, 01. Topografsko- katastarski plan sa zonom zahvata, 02. Izvod iz PPPPMD, 03. Izvod iz PPO Budva 2009, 04. Izvod iz GUP- a Budva, 05. Kontaktne zone, 06. Stanje fizičkih struktura i namjene površina, 07.Plan namjene površina, 08. Plan parcelacije, regulacije i nivelacije, 09. Plan saobraćajne infrastrukture, 10. Plan elektroenergetske infrastrukture, 11. Plan hidrotehničke infrastrukture, 12. Plan elektronskih komunikacija, 13. Plan pejzažne arhitekture, 14. Plan oblika.
