@@ -1,0 +1,3 @@
+Na osnovu člana 117 stav 1 tačka 3 i stav 3 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", broj 51/08, 40/10, 34/11 i 35/13), člana 32 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09 i 38/12) i člana 13 stav 1 tačka 8 alineja 2, člana 32 stav 1 tačka 31 i člana 40 Statuta Opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 27.12.2013. godine, donijela je
+O D L U K U
+o izgradnji lokalnih objekata od opšteg interesa na teritoriji Opštine Nikšić
