@@ -1,0 +1,2 @@
+Na osnovu člana 19 Odluke o Etičkoj komisiji za izabrane predstavnike i funkcionere ("Sl. list CG-Opštinski propisi", br. 40/10) i čl. 33 i 37 Statuta Opštine Berane ("Sl. list RCG-Opštinski propisi", br. 21/04 i 34/06 i "Sl. list CG-Opštinski propisi", br. 6/11), a na predlog Odbora za izbor i imenovanje, Skupština opštine Berane, na sjednici održanoj 22. januara 2014. godine, donijela je
+O D L U K U
