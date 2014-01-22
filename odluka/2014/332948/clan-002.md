@@ -1,0 +1,2 @@
+# Član 2
+Ugovor o dugoročnom zakupu zemljišta, zaključenog između Vlade Crne Gore i Konzorcijuma Northstar d.o.o Podgorica i Equest Capital Limited Jersey, UK se, shodno sadržaju stava 1 Preambule Aneksa Ugovora iz člana 1 ove odluke, odnosi na zemljište koje se nalazi na katastarskim parcelama broj 1539, 1540, 1544, 1564, 1545, 1546 i 1563/2, izvod iz zemljišne knjige broj 242 i 95 u Katastarskoj opštini Rose, opštini Herceg Novi, ukupne površine 522.521 m2 ("Zakupljeno zemljište" ili "Lokacija").
