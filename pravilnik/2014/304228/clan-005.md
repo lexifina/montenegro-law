@@ -1,0 +1,4 @@
+# Član 5
+## Izlaganje
+Liftovi i bezbjednosne komponente koje nijesu usaglašene sa zahtjevima iz člana 4 ovog pravilnika mogu se izlagati, odnosno pokazivati na sajmovima, izložbama, prezentacijama i drugim sličnim manifestacijama, samo ako je na njima stavljen vidljiv znak koji označava da one nijesu usaglašene sa zahtjevima iz ovog pravilnika i da se neće stavljati na tržište, odnosno da nijesu za prodaju sve dok instalater lifta, proizvođač bezbjednosnih komponenti ili njihov zastupnik ne obezbjedi usaglašenost sa zahtjevima iz ovog pravilnika.
+Za vrijeme izlaganja, odnosno pokazivanja liftova i bezbjednosnih komponenti iz sta- va 1 ovog člana, preduzimaju se odgovarajuće bezbjednosne mjere radi zaštite javnog interesa, a naročito zaštite zdravlja i bezbjednosti ljudi, zaštite imovine i životne sredine.
