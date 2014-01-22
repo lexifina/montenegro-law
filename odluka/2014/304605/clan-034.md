@@ -1,0 +1,2 @@
+# Član 34
+Postupak za rješavanje stambenih potreba komisija pokreće oglašavanjem raspoloživih stanova, odnosno sredstava za dodjelu kredita i građevinskih placeva u roku od 5 dana od dana dobijanja obavještenja iz stava 2 ovog člana. Obavještenje o raspoloživim stanovima, odnosno iznosu sredstava za dodjelu kredita, broja građevinskih placeva i visini sredstava za udruživanje, komisiji dostavlja predsjednik opštine najkasnije 60 dana od dana donošenja budžeta za tekuću godinu.

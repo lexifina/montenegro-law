@@ -1,0 +1,4 @@
+# Član 21
+Međusobna prava i obaveze (o davanju kredita, kupovinu stana, zamjeni stana, upisa hipoteke na nepokretnosti i dr.) bliže se uređuju ugovorom u skladu sa ovom odlukom i zakonom.
+Ugovor o kreditu sadrži naročito: podatke o ugovornim stranama, odluku o dodjeli kredita, visinu, svrhu i rokove korišćenja i otplate kredita, način revalorizacije neotplaćenog duga po kreditu, klauzulu o založnom pravu, odnosno hipoteci na stanu kupljenom ili izgrađenom sredstvima kredita i upis tog kredita u javne knjige, izjavu korisnika kredita o dozvoli administrativne zabrane na dio plate i visinu mjesečnog anuiteta do konačne otplate kredita, kao i način i rok izvršenja međusobnih obaveza u slučaju raskida ugovora o kreditu.
+Sredstva odobrenog kredita mogu se službeniku isplatiti u gotovom novcu, odnosno prenijeti na njegov tekući račun.
