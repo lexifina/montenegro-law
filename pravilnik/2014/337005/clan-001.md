@@ -1,0 +1,2 @@
+# Član 1
+Pravna odnosno fizička lica, koja obavljaju, odnosno otpočnu sa obavljanjem djelatnosti u privredno nedovoljno razvijenim opštinama, čiji je stepen razvijenosti do 100% prosječne vrijednosti indeksa razvijenosti u Crnoj Gori utvrđen u skladu sa posebnim propisom, za korišćenje poreskog oslobodjenja po osnovu poreza na dobit pravnih lica, odnosno poreza na dohodak fizičkih lica podnose zahtjev na Obrascu "ZZPO" - "Zahtjev za poresko oslobodjenje", koji je sastavni dio ovog pravilnika.

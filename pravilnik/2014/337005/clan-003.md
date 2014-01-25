@@ -1,0 +1,2 @@
+# Član 3
+Danom stupanja na snagu ovog pravilnika prestaju da važe Pravilnik o korišćenju poreske olakšice po osnovu poreza na dobit pravnih lica u nedovoljno razvijenim opštinama ("Službeni list RCG", broj 3/03) i Pravilnik o bližem načinu korišćenja poreske olakšice po osnovu ulaganja u stalna osnovna sredstva koja se koriste za proizvodnju energije iz obnovljivih izvora i energetsku efikasnost ("Službeni list CG", broj 9/09).
