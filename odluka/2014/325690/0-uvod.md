@@ -1,0 +1,2 @@
+Na osnovu člana 36 stav 1 tačka 25 Statuta Opštine Herceg Novi ("Sl. list RCG-Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, "Sl. list CG-Opštinski propisi", br. 16/09, 16/11) i člana 17 stav 1 alineja 2 Odluke o osnivanju Društva sa ograničenom odgovornošću, "Sportski centar Igalo" Igalo ("Sl. list CG-Opštinski propisi", br. 29/13), Skupštine opštine Herceg Novi, na sjednici održanoj dana 26.12.2013. godine, donosi
+O D L U K U
