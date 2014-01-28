@@ -1,0 +1,3 @@
+Na osnovu člana 64 Zakona o privrednim društvima ("Sl. list RCG", br. 06/02 i "Sl. list CG", br. 17/07, 80/08, 40/10, 73/10, 36/11 i 40/11), člana 13 Zakona o unapređenju poslovnog ambijenta ("Sl. list CG", br. 40/10), čl. 34 i 45 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl, list CG", br. 88/09, 03/10, 73/10, 38/12) i člana 35 Statuta Opštine Danilovgrad ("Sl. list RCG-Opštinski propisi", br. 30/04 i "Sl. list CG-Opštinski propisi", br. 19/08 i 12/11), Skupštine Opštine Danilovgrad, na sjednici održanoj 27.12.2013 godine, donijela je
+O D L U K U
+o osnivanju Društva sa ograničenom odgovornošću za uzgoj, zaštitu i lov divljači i riba Danilovgrad
