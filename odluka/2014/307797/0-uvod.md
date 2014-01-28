@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06 "Sl. list CG", br. 46/11) i člana 35 Statuta Opštine Danilovgrad ("Sl. list RCG- Opštinski propisi", br. 30/04, i "Sl. list CG - Opštinski propisi", br. 19/08 i 12/11), Skupština opštine Danilovgrad, na sjednici održanoj 27. 12. 2013. godine, donijela je
+O D L U K U
