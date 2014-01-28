@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta Opštine Plužine ("Sl. list RCG-Opštinski propisi", broj 23/04, 7/07 i "Sl. list CG-Opštinski propisi", br. 1/11, 8/11 i 22/11), a u vezi sa članom 53 stav 3 i 54 stav 5 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", br. 42/03, 44/03 i "Službeni list CG" 5/08, i 74/10), Skupština opštine Plužine, na sjednici održanoj 26.12.2013. godine donijela je
+P R A V I L N I K
