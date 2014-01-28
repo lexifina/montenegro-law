@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom osniva se Društvo sa ograničenom odgovornošću "Vodovod i kanalizacija" Danilovgrad (u daljem tekstu: Društvo), radi obavljanja poslova komunalne djelatnosti snabdijevanje pitkom vodom na teritoriji opštine Danilovgrad i prečišćavanja i odvođenja otpadnih voda sa teritorije opštine Danilovgrad, zbog reorganizacije Javnog preduzeća "Vodovod i kanalizacija" Danilovgrad u skladu sa odredbama Zakona o unapređenju poslovnog ambijenta.
