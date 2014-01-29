@@ -1,0 +1,2 @@
+# Član 5
+Danom stupanja na snagu ove odluke prestaju da se primjenjuju Rješenje o određivanju stalnih graničnih prelaza za međunarodni saobraćaj ("Službeni list SFRJ", broj 8/74), u dijelu koji se odnosi na pomorski granični prelaz Bar i aerodromski granični prelaz Golubovci- Titograd i Tivat i Rješenje o određivanju stalnog graničnog prelaza za međunarodni pomorski saobraćaj Kotor ("Službeni list SFRJ", broj 3/92).
