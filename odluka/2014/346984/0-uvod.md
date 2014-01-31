@@ -1,0 +1,2 @@
+Na osnovu čl. 24 i 25 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06 i 56/06 i "Službeni list CG", broj 46/11) i člana 48 Statuta Glavnog grada ("Službeni list RCG-Opštinski propisi", broj 28/06 i "Službeni list CG-Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj 31. januara 2014.godine, donijela je
+O D L U K U
