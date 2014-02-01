@@ -1,0 +1,2 @@
+# Član 13
+U slučaju bolničkog liječenja, na osnovu otpusne liste ili izvještaja zdravstve ne ustanove da se osiguranik nalazi na bolničkom liječenju kao i na predlog konzilijuma doktora odgovarajuće specijalnosti Kliničkog centra Crne Gore, izuzetno od člana 5 ovog pravilnika, privremena spriječenost za rad se može utvrditi za period prije dana javljanja osiguranika izabranom doktoru, odnosno Ljekarskoj komisiji.
