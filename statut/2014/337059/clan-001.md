@@ -1,0 +1,3 @@
+# Član 1
+## Sadržina Statuta
+Ovim statutom bliže se uređuje obavljanje djelatnosti od javnog interesa, u skladu sa zakonom, nadležnosti i djelokrug poslova organa i stručnih službi Agencije za elektronske komunikacije i poštansku djelatnost (u daljem tekstu: Agencija), donošenje opštih akata i druga akata, prava i dužnosti Savjeta Agencije (u daljem tekstu: Savjet), prava i dužnosti izvršnog direktora Agencije (u daljem tekstu: izvršni direktor), unutrašnja organizacija i druga pitanja koja su od značaja za poslove Agencije, utvrđena Zakonom o elektronskim komunikacijama i Zakonom o poštanskim uslugama.
