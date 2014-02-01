@@ -1,0 +1,3 @@
+# Član 5
+Na osnovu procjene iz člana 4 ovog pravilnika, policijski službenik koji rukovodi izvršenjem zaštitne mjere, uz saglasnost neposrednog rukovodioca ili lica koje on ovlasti, donosi Plan izvršenja zaštitne mjere.
+Plan izvršenja zaštitne mjere sadrži sljedeće podatke: naziv organa koji je izrekao zaštitnu mjeru, broj i datum rješenja o izrečenoj zaštitnoj mjeri i vrijeme njenog trajanja, podatke o učiniocu nasilja u porodici i žrtvi, mjerama i radnjama koje će se sprovoditi tokom trajanja zaštitne mjere, policijskim službenicima određenim za izvršenje mjera i radnji sa rokovima izvršenja, granice mjesta ili područja za izvršenje zaštitne mjere, način upoznavanja ostalih policijskih službenika sa zaštitnom mjerom i planom njenog izvršenja.
