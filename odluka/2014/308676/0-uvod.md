@@ -1,0 +1,2 @@
+Na osnovu člana 5 stav 2 Zakona o budžetu ("Sl. list RCG", br. 40/01, 44/01, 28/04, 71/05, "Sl. list CG", br. 12/07, 73/08, 53/09, 49/10), člana 45 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03, 44/03 "Sl. list CG", br. 05/08 i 51/08, 74/10), te člana 30 Statuta Opštine Kotor ("Sl. list Opštine Kotor", br. 03/04), Skupština opštine Kotor je na sjednici održanoj 27. 12. 2013. godine, donijela
+O D L U K U
