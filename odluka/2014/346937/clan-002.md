@@ -1,0 +1,47 @@
+# Član 2
+Predmet raspolaganja građevinskim zemljištem, u smislu člana 1 ove odluke, su urbanističke parcele obuhvaćene Odlukom o raspolaganju građevinskim zemljištem u 2013. godini ("Službeni list Crne Gore - Opštinski propisi", br. 07/13 i 18/13), na kojima nije prenijeto pravo, i to:
+- urbanističke parcele broj 59, 69, 70 i 71, različitih namjena, ukupne površine 24.406m2, u zahvatu UP-a "Skladišta i servisi-Cijevna", Blok 15;
+- 17 urbanističkih parcela broj 4 do 20, namjene-skladišta i servisi, ukupne površine 252.912m2, u zahvatu DUP-a "Servisno-skladišna zona sa ranžirnom stanicom";
+- 26 urbanističkih parcela različitih namjena (mala privreda i trgovina, mlinsko-pekarska industrija, prerada mlijeka i mliječnih proizvoda, mesa i mesnih proizvoda, prerada voća i povrća, diskontna prodaja, skladišta i hladnjače…), ukupne površine 152.832m2, u zahvatu DUP-a "Agroindustrijska zona";
+- urbanističke parcele broj 4, 5, 7 i 8, namjene-industrija i skladišta, ukupne površine 45.911m2, u zahvatu DUP-a "Industrijska zona-Kombinat aluminijuma" - Izmjene i dopune za koridor južne obilaznice u Podgorici;
+- urbanističke parcele "I" i "H", Blok VII, urbanistička parcela broj 91, namjene-kolektivno stanovanje sa djelatnostima, ukupne površine 5.531m2, u zahvatu DUP-a "Konik-Sanacioni plan" - Izmjene i dopune;
+- urbanističke parcele broj 11 i 15, namjene-sportski tereni i sport i rekreacija - spa centar, ukupne površine 21.100m2, u zahvatu DUP-a "Rekreativno-kulturna zona na obali rijeke Morače" - Južni dio - Izmjene i dopune;
+- 12 urbanističkih parcela namjene-individualno stanovanje, ukupne površine cca 5.440m2, u zahvatu DUP-a "Konik-Stari Aerodrom" - Izmjene i dopune;
+- 10 urbanističkih parcela namjene-individualno stanovanje, ukupne površine 10.004m2, u zahvatu UP-a "Skladišta i servisi-Cijevna", Blokovi 16, 17 i 18;
+- 12 urbanističkih parcela od broja 158 do 169, namjene-individualno stanovanje, površine po 558m2, (ukupno 6.696m2), u zahvatu Detaljnog urbanističkog plana "Kakaricka gora";
+- urbanističke parcele broj 39 i 40 ukupne površine 2.017m2, mješovita namjena, u zahvatu DUP-a "Donja Gorica" - Izmjene i dopune - koridor Cetinjskog puta i južne obilaznice;
+- urbanistička parcela broj 3/387 površine 522m2, namjene-porodično stanovanje u poljoprivredi, u zahvatu DUP-a "Donja Gorica" - Izmjene i dopune;
+- urbanističke parcele broj 1, 2, 5, 15, 16, 19, 20, 21, 23 i 24, namjene-individualno stanovanje, urbanističke parcele broj 3, 4, 17, 18 i 22, namjene -individualno stanovanje u vilama, ukupne površine cca 10.300m2, u zahvatu DUP-a "Gorica D";
+- urbanistička parcela broj 19, namjene-kolektivno stanovanje, površine 9.566m2, u zahvatu DUP-a "Nova Varoš 2" - Izmjene i dopune;
+- urbanistička parcela broj 514, namjene-trgovačko-poslovni centar, površine 11.589m2, u zahvatu DUP-a "Drač-putnički terminal" - Izmjene i dopune;
+- urbanističke parcele broj 8, 10, 11 i 12 i 18, Blok 3 i Blok 5, namjene-kolektivno stanovanje, ukupne površine 19.771m2, u zahvatu DUP-a "Servisno-skladišna zona" - Izmjene i dopune;
+- urbanističke parcele broj 20, 21 i 22, Blok 6, urbanističke parcele broj 23, 24, 25 i 26, Blok 7, urbanističke parcele broj 27, 28, 29 i 30, Blok 8, urbanističke parcele broj 31, 32, 33 i 34, Blok 9, namjene-djelatnosti, ukupne površine cca 47.000m2, u zahvatu DUP-a "Servisno-skladišna zona"-Izmjene i dopune;
+- urbanističke parcele broj 72 i 75, Blok 19, ukupne površine 32.160m2, namjene-servisi i skladišta, u zahvatu DUP-a "Servisno-skladišna zona"-Izmjene i dopune;
+- urbanistička parcela broj 1, Zona B, površine 273.413m2, namjene EXPO centar, urbanističke parcele broj 1, 2, 3, 4 i 5, Zona C, ukupne površine 460.782m2, namjene komercijalni sadržaji i hotel, urbanističke parcele broj 1 i 2, Zona D, ukupne površine 497.147m2, namjene trkačka staza i kamping, urbanističke parcele broj 1,2, 3 i 4, Zona F, ukupne površine 48.344m2, namjene izložbeni saloni, u zahvatu DUP-a "Industrijska zona A" - Izmjene i dopune;
+- urbanistička parcela broj 57 površine 2.352m2, namjene-poslovni objekat, u zahvatu DUP-a "Drač-Nova Varoš"-Zona A-podzona a3;
+- urbanističke parcele E1, E2, E3, namjene-diplomatsko-rezidencijalni objekti, ukupne površine 10.836m2, u zahvatu DUP-a "Spomen park Kruševac-Zona A i E" - Izmjene i dopune;
+- urbanističke parcele broj 154 površine 1.627m2, namjene-poslovni objekat, u zahvatu DUP- a "Pobrežje"- Zona G - Izmjene i dopune;
+- urbanističke parcele broj 105A i 105B, ukupne površine 8.630m2, namjene- poslovni objekti, u zahvatu DUP-a "Pobrežje" - Izmjene i dopune;
+- urbanistička parcela G10, površine 55m2, namjene-stanovanje sa djelatnostima, u zahvatu UP-a "Nova Varoš-Blok G";
+- urbanističke parcele broj V4, V6, V7 i VIII6, ukupne površine 5.021m2, namjene- stambeno-poslovni objekti, u zahvatu DUP-a "Poslovni centar Kruševac-Zona B";
+- urbanistička parcela broj 237E površine 525m2 i urbanistička parcela broj 748B površine 660m2, namjene-individualno stanovanje, u zahvatu DUP-a "Murtovina";
+- urbanističke parcele broj 46 površine 314m2, namjene-individualno stanovanje, u zahvatu DUP-a "Zabjelo 8", Blok 20;
+- urbanistička parcela broj 98, Zona B, površine 428m2, namjene-individualno stanovanje, u zahvatu DUP-a "Konik-Sanacioni plan" - Izmjene i dopune;
+- urbanističke parcele broj 5-3, 3-17 i 3-18, ukupne površine 4.151m2, namjene-djelatnosti sa stanovanjem, u zahvatu DUP-a "Prvoborac"- Izmjene i dopune;
+- urbanistička parcela broj 8-3, površine 1.506m2, namjene-kolektivno stanovanje sa djelatnostima, u zahvatu DUP-a "Blok 18-19";
+- urbanističke parcele broj 8b, 16a, 27, 27a, 28, 29, 79, ukupne površine 3.682m2, namjene- stanovanje, u zahvatu DUP-a "Zlatica B" - Izmjene i dopune;
+- urbanističke parcele broj 115, 116 i 117, ukupne površine 6.539m2, namjene-poslovanje, u zahvatu DUP-a "Zlatica B" - Izmjene i dopune;
+-26 urbanističkih parcela ukupne površine 13.738m2, namjene individualno stanovanje, u zahvatu DUP-a "Zagorič 2" - Izmjene idopune, Zona A i Zona B;
+-30 urbanističkih parcela broj 1 do 18, broj 24 do 29, broj 40a, broj 41 do 45, namjene stambeno-poslovni objekti, ukupne površine 129.396m2, u zahvatu DUP-a "Konik-Stari aerodrom III";
+- urbanističke parcele broj 33, 34, 35, 36 i 39, namjene poslovni objekti, ukupne površine 34.600m2, u zahvatu DUP-a "Konik-Stari aerodrom III";
+-16 urbanističkih parcela od broja 46 do 61, namjene porodično stanovanje tipa vila, ukupne površine 35.795m2, u zahvatu DUP-a "Konik-Stari aerodrom III";
+- urbanističke parcele broj 5-5 i 5-18, namjene individualno stanovanje, ukupne površine 585m2, u zahvatu DUP-a "Tološi 2" - Izmjene i dopune;
+- urbanističke parcele broj 16, 17, 201, 204 i 205, namjene-stanovanje sa djelatnostima, ukupne površine 6.407m2, u zahvatu DUP-a "Zabjelo 8";
+- urbanistička parcela broj 264, Zona E, namjene-tržnica, u zahvatu DUP-a "Konik-sanacioni plan" - Izmjene i dopune;
+- urbanističke parcele 1, 2 i 5, ukupne površine 8.763m2, namjene-poslovni objekti i stanovanje, u zahvatu DUP-a "Blok 5"-dio - Izmjene i dopune;
+- urbanistička parcela broj 14 površine 3.096m2, namjene-trgovina i ugostiteljstvo, u zahvatu DUP-a "Blok 35-36" - Izmjene i dopune;
+- urbanistička parcela broj 29-2 površine 2.634m2, namjene pijaca, u zahvatu DUP-a "Prvoborac" - Izmjene i dopune;
+- urbanističke parcele br. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 i 11, Blok 18, ukupne površine 3.479m2, namjene individualno stanovanje, u zahvatu DUP-a "SZ Kruševac-Blok VI" - Izmjene i dopune;
+- urbanističke parcele broj 604 (a, b) i broj 700, ukupne površine 1.074m2, namjene stanovanje sa djelatnostima, u zahvatu Urbanističkog projekta "Stara Varoš"-dio zone A - Izmjene i dopune;
+- urbanistička parcela broj 19 površine 960m2, namjene stanovanje sa djelatnostima, u zahvatu DUP-a "Pobrežje";
+- urbanističke parcele broj 81 i 82 ukupne površine 3.520m2, namjene stanovanje sa djelatnostima, u zahvatu DUP-a "Čepurci" - Izmjene i dopune.
