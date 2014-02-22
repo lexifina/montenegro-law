@@ -1,0 +1,2 @@
+# Član 7
+Planskim dokumentom, u skladu sa važećom planskom dokumentacijom višeg reda i zakonskom regulativom, razradjuje se područje predviđeno za razvoj turizma. Namjena se određuje za područje turizama sa zajedničkim sadržajima mješovitog karaktera (uslužnog, kulturnog, sportskog). Uslov je očuvanje i unapređenje ambijentalnih karakteristika šireg i užeg područja i obezbjeđenje funkcionisanja predviđenih sadržaja planiranjem odgovarajuće saobraćajne i tehničke infrastrukture, vodeći računa o uslovima zaštite životne sredine.
