@@ -1,0 +1,3 @@
+Na osnovu člana 12 st. 1 i 3 Zakona o strateškoj procjeni uticaja na životnu sredinu ("Sl. list RCG", br. 80/05 i ,,Sl. list CG", br. 73/10, 40/11, 59/11), člana 53 Zakona o uređenju prostora i izgradnji objekata (,,Sl. list CG", br. 51/18, 40/10, 34/11, 47/11, 35/13 i 39/13 ) i člana 11 Odluke o organizaciji i načinu rada lokalne uprave Prijestonice Cetinje (,,Službeni list CG - Opštinski propisi", br. 2/11, 6/12 i 23/13 ), Sekretarijat za planiranje i uređenje prostora i zaštitu životne sredine Prijestonice Cetinje, donosi
+O D L U K U
+o izmjenama i dopunama Odluke o izradi Strateške procjene uticaja na životnu sredinu Izmjena i dopuna Generalnog urbanističkog plana Opštine Cetinje za prostor Detaljnog urbanističkog plana ,,Crna Greda (Zona F)"
