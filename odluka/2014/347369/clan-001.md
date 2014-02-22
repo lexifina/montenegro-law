@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom propisuju se uslovi i postupak za postavljanje, odnosno građenje i uklanjanje pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom (u daljem tekstu: pristupni objekti) postojećim objektima na urbanističkim odnosno katastarskim parcelama u državnoj i privatnoj svojini, a koji nijesu propisani planskim dokumentom.
