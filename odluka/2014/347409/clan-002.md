@@ -1,0 +1,3 @@
+# Član 2
+Predmet ovog Sporazuma o vansudskom poravnanju jeste naplata dijela naknade za komunalno opremanje građevinskog zemljišta kroz postupak ustupanja nepokretnosti, poslovnih prostora neto površine cca 695 m², upisanih u listu nepokretnosti 3328, na katastarskoj parceli 507/11, u prizemlju zgrade d.o.o. "Nivel". Predmetni prostor namijenjen je Dnevnom centru za djecu i omladinu sa smetnjama i teškoćama u razvoju.Ostatak svoje obaveze po pitanju naplate naknade za komunalno opremanje građevinskog zemljišta investitor će regulisati shodno Odluci o naknadi koja važi na dan potpisivanja Ugovora o naknadi.
+Procjena nepokretnosti biće urađena od strane tri ovlašćena licencirana procjenitelja.
