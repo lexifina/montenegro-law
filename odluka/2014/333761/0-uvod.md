@@ -1,0 +1,2 @@
+Na osnovu člana 17 Zakona o budžetu ("Službeni list RCG", br. 40/01, 44/01 i 71/05 i "Službeni list CG", br.12/07, 73/08, 53/09, 46/10 i 49/10), člana 11 stav 5 Zakona o budžetu za 2014. godinu ("Službeni list CG", broj 61/13) i čl. 25 i 33 Zakona o hartijama od vrijednosti ("Službeni list RCG", br. 59/00 i 28/06), Vlada Crne Gore, na sjednici od 13. februara 2014. godine, donijela je
+ODLUKU O EMISIJI DRŽAVNIH HARTIJA OD VRIJEDNOSTI
