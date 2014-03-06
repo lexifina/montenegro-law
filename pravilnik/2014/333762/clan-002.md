@@ -1,0 +1,2 @@
+# Član 2
+Zavod za transfuziju krvi Crne Gore (u daljem tekstu: Zavod) uspostavlja objektivne i dokumentovane dokaze za obezbjeđivanje informativnog materijala licu koje daje krv za autolognu transfuziju (u daljem tekstu: autologna donacija) i za alogenu transfuziju (u daljem tekstu: alogena donacija), davanje saglasnosti i popunjavanje upitnika o davanju krvi (validacija), u skladu sa uspostavljenim standardnim operativnim procedurama.
