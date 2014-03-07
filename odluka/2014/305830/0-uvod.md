@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 17/98, 14/00, 9/01, 41/02, 46/02 i 45/04 i "Sl. list Crne Gore", br. 48/06, 56/06 i 46/11), a u vezi sa članovima 11, 12, 28 i 52 stav 2 Zakona o Glavnom gradu ("Službeni list RCG", broj 65/05 i "Sl. list Crne Gore", br. 88/09 i 72/10) i člana 48 stav 1 alineja 45 Statuta Glavnog grada ("Službeni list RCG-Opštinski propisi", broj 28/06 i "Sl. list Crne Gore", br. 39/10 i 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj 25. februara 2014. godine, donijela je
+O D L U K U
