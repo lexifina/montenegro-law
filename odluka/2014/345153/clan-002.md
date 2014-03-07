@@ -1,0 +1,3 @@
+# Član 2
+Naselje Kajevići, Mjesna zajednica Bać opština Rožaje sa granicom koja počinje od:
+Kuća Mukovića, vrela Kajevskog, Jablaničanskim potokom prema Škali i Vlaškoj ornici, zatim pored parcela zv. Morača, Dočiće putem prema Fazlijinom nagropu, dalje kota 2065 i završava se na koti zv. Bandera 2098 granice sa Kosovom, zatim državnom granicom sa Kosovom i onda kat. Granicom sa KO Bać, rijekom Magaricom do sliva sa rijekom Baćkom do granice sa kat. Parcelom (na kojoj se nalazi JU OŠ Bać sa školskim dvorištem i sportskom salom mjesnom centru u izgradnji) koja cjelokupna ostaje do Ibra i dalje rijekom Ibar do kuće Mukovića i sliva Jablaničanskog potoka.
