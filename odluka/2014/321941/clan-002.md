@@ -1,0 +1,2 @@
+# Član 2
+Učešće Glavnog grada predstavlja naknada za komunalno opremanje građevinskog zemljišta utvrđena na osnovu Odluke o naknadi za komunalno opremanje građevinskog zemljišta ("Službeni list RCG-Opštinski propisi", br. 36/11) u iznosu od 378.700,13 € za objekat projektovane neto površine 4.219,03 m2, shodno Glavnom projektu ov.br. UP. 08-361/13-386 od 18.10.2013. godine ovjerenom od strane Sekretarijata za planiranje i uređenje prostora i zaštitu životne sredine.
