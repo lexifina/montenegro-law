@@ -1,0 +1,2 @@
+Na osnovu čl. 47 i 49 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13 i 39/13) i člana 48 Statuta Glavnog grada ("Službeni list RCG - Opštinski propisi", br. 28/06 i "Službeni list CG - Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada-Podgorice, na sjednici održanoj dana 25. februara 2014. godine, donijela je
+O D L U K U

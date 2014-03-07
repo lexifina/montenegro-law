@@ -1,0 +1,3 @@
+# Član 4
+PUP-om su date smjernice i mjere za realizaciju plana: smjernice etapnog razvoja, smjernice za prostornu organizaciju i izradu detaljnih urbanističkih planova (DUP), Urbanističkih projekata (UP) i lokalnih studija lokacije (LSL); smjernice za izgradnju na područjima za koja se ne predviđa donošenje detaljnog urbanističkog plana, urbanističkog projekta ili lokalne studije lokacije.
+Smjernicama za izradu i reviziju DUP-ova, UP-ova i LSL, predviđeno je da se produžava važenje postojećih detaljnih urbanističkih planova, urbanističkih projekata ili lokalnih studija lokacije do donošenja novih ili izmjena postojećih, u svemu po smjernicama PUP-a.
