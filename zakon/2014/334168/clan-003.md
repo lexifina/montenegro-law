@@ -1,0 +1,4 @@
+# Član 3
+Član 39 mijenja se i glasi:
+"Opštinsku izbornu komisiju u stalnom sastavu, za sprovođenje prvih izbora za odbornike u skupštini novoosnovane opštine, imenuje Skupština Crne Gore, na predlog radnog tijela Skupštine nadležnog za izbor i imenovanja, iz reda kandidata koje predlože političke partije, odnosno izborne liste koje imaju odbornike u skupštini opštine kod koje dolazi do teritorijalne promjene, a koje ispunjavaju uslove da predlože predstavnike u stalni sastav opštinske izborne komisije utvrđene Zakonom o izboru odbornika i poslanika.
+Pravo da predlože predstavnike u stalni sastav biračkog odbora za sprovođenje prvih izbora u novoosnovanoj opštini pripada političkim partijama, odnosno izbornim listama koje imaju odbornike u skupštini opštine kod koje dolazi do teritorijalne promjene, saglasno kriterijumima utvrđenim Zakonom o izboru odbornika i poslanika."
