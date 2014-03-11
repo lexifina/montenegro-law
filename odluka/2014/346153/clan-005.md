@@ -1,0 +1,2 @@
+# Član 5
+Za predmetni plan radiće se strateška procjena uticaja na životnu sredinu obzirom da se radi o neizgrađemom području, gdje je planirana izgradnja objekata u funkciji turizma, a da za planski dokument širih teritorijalnih cjelina ovog područja, nije rađena Strateška procjena, ocjenjeno je da je za prostor u zahvatu predmetne Lokalne studije lokacije neophodno izraditi Stratešku procjenu uticaja na životnu sredinu, čiji obim i sadržaj je propisan članom 15 Zakona o strateškoj procjeni uticaja na životnu sredinu.
