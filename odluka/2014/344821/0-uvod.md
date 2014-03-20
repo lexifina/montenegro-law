@@ -1,0 +1,4 @@
+Na osnovu člana 64 Zakona o privrednim društvima ("Službeni list RCG", broj 06/02 i "Službeni list CG", br. 17/07, 80/08, 40/10, 73/10, 36/11 i 40/11), čl. 13 i 14 Zakona o unapređenju poslovnog ambijenta ("Sl. list CG", broj 40/10), člana 45 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 8/04, 75/05,13/06, "Sl. list CG", broj 12/95), člana 4 Zakona o klasifikaciji djelatnosti ("Sl. list CG", broj18/11) i čl. 13 i 38 Statuta Opštine Pljevlja ("Sl. list RCG-Opštinski propisi", br. 37/04, 30/07 i "Sl. list CG - Opštinski propisi", br. 11/08, 21/09, 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici održanoj dana 18.02.2014. godine, donijela je
+O D L U K U
+o osnivanju Društva sa ograničenom odgovornošću "Vodovod" Pljevlja
+1. OSNOVNE ODREDBE
