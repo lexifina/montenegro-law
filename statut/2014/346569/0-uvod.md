@@ -1,0 +1,3 @@
+Na osnovu člana 68 Zakona o privrednim društvima ("Sl. list RCG", broj 06/02 i "Sl. list CG", br. 17/07, 80/08, 40/10, 36/11 i 40/11), člana 10 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Andrijevica ("Službeni list Crne Gore - Opštinski propisi", broj 1/14), člana 32 Statuta Opštine Andrijevica ("Sl. list RCG - Opštinski propisi", br. 21/04, 42/06 i "Sl. list Crne Gore - Opštinski propisi", br. 02/11 i 21/13), Skupština opštine Andrijevica, na sjednici održanoj dana 03.03.2014. godine, donijela je
+S T A T U T
+Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" - Andrijevica
