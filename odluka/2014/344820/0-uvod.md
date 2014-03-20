@@ -1,0 +1,3 @@
+Na osnovu člana 64 Zakona o privrednim društvima ("Sl. list RCG", broj 06/02 i "Sl. list CG", br. 17/07, 80/08, 40/10, 73/10, 36/11 i 40/11), člana 13 Zakona o unapređenju poslovnog ambijenta ("Sl. list CG", br. 40/10), čl. 34 i 45 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10, 73/10 i 38/12), člana 61 Zakona o putevima ("Sl. list CG", broj 42/04) i čl. 13 i 38 Statuta Opštine Pljevlja, ("Sl. list RCG - Opštinski propisi", br. 37/04, 30/07, 11/08, 21/09, 32/09, 14/11), Skupština opštine Pljevlja, na sjednici održanoj dana 18.02.2014. godine, donijela je
+O D L U K U
+o osnivanju Društva sa ograničenom odgovornošću " Lokalni putevi" Pljevlja
