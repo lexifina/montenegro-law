@@ -1,0 +1,2 @@
+# Član 2
+Lokacija za objekat iz člana 1. ove odluke je određena urbanističko-tehničkim uslovima broj 05-352-31/7-2012 od 27.02.2013. godine i čini je urbanistička parcela 2.50. iz DUP-a "Ada" izmjene i dopune, a obuhvata katastarsku parcelu 131/2 KO Pljevlja po listu nepokretnosti br. 4164 KO Pljevlja; katastarske parcele 131/1, 132 i 133/2 KO Pljevlja po listu nepokretnosti br. 3189 KO Pljevlja i katastarsku parcelu 4602/3 KO Pljevlja po listu nepokretnosti br. 3372 KO Pljevlja.
