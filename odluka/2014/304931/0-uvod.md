@@ -1,0 +1,2 @@
+Na osnovu člana 44 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10 i 38/12) i člana 3 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Sl. list CG.", br. 46/11) i člana 24 Statuta Opštine Pljevlja ("Sl. list RCG - Opštinski propisi", br. 37/04, 30/07 i "Sl. list CG - Opštinski propisi") br. 32/09 i 14/11), Skupština opštine Pljevlja, dana 18.02. 2014. godine, donijela je
+O D L U K U
