@@ -1,0 +1,2 @@
+Na osnovu člana 59 stav 2 alineja 17 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", broj 15/04, 32/05, 31/06, 14/07, "Sl. list CG - Opštinski propisi", broj 16/09 i 16/11) i člana 7 Odluke o javnom prevozu putnika u gradskom linijskom drumskom saobraćaju ("Sl. list RCG - Opštinski propisi", broj 31/06, 37/11 i 36/13), Predsjednik Opštine Herceg Novi, dana 05.02.2014. godine, donosi
+O D L U K U
