@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom osniva se Društvo sa ograničenom odgovornošću "Komunalne usluge"Pljevlja (u daljem tekstu: Društvo),kao jednočlano društvo, radi obavljanja poslova komunalne djelatnosti: pružanje pijačnih, pogrebnih i parking usluga, sakupljanje i prevoženje izgubljenih i napuštenih životinja do skloništa i održavanje skloništa, radi i druge poslove od opšteg društvenog interesa u skladu sa ovom Odlukom i Statutom društva.
