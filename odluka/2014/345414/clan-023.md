@@ -1,0 +1,3 @@
+# Član 23
+Mjesna zajednica može ugovorom prenijeti upravljanje i održavanje vodnim objektima iz člana 19. ove odluke na d.o.o "Vodovod i kanalizacija" Andrijevica.
+Upravljanje u smislu prvog stava ovog člana obuhvata naročito nadzor u pogledu racionalnog i ekonomičnog korišćenja raspoloživih količina vode, staranje i neposredno održavanje u ispravnom stanju objekata za vodosnabdijevanje i njihovu zaštitu, preduzimanje potrebnih mjera u pogledu konrole zdravstvene ispravnosti vode za piće, vođenje postupka u vezi sa naknadama za korišćenje vode, raspolaganje sredstvima u pravcu održavanja i korišćenja objekata za vodosnabdijevanje i slično.

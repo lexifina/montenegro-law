@@ -1,0 +1,2 @@
+# Član 42
+Ukoliko korisnik vodnog objekta odbije da plati novčani iznos na ime učešća za izgradnju vodnog objekta, odbije da plati naknadu za korišćenje vode, ili se ne pridržava zakonskih odredaba i drugih propisa o racionalnom korišćenju vode, odredaba ugovora sačinjenog sa ostalim korisnicima odnosno ne pridržava se odredaba ove odluke, mjesna zajednica odnosno vodni odbor, odnosno investitor može podnijeti zahtjev Komunalnoj policiji da izvrši isključenje takvog korisnika sa predmetnog vodnog objekta.

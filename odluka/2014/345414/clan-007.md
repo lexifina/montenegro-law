@@ -1,0 +1,2 @@
+# Član 7
+Polazeći od zakonske odredbe kojom se vode tretiraju kao prirodno dobro od opšteg interesa koje se nalaze u državnoj svojini i koje se mogu koristiti na način i pod uslovima utvrđenim zakonom kojim se obezbjeđuje njihovo racionalno korišćenje, zaštita i drugi opšti interesi propisani zakonom zabranjena je uzurpacija izvorišta i izgradnja vodnih objekata bez prethodno pribavljene propisane vodne dokumentacije (vodni uslovi, vodna saglasnost, vodna dozvola ili vodni nalog).
