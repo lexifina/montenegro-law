@@ -1,0 +1,2 @@
+Na osnovu člana 13a i 14 Zakona o strateškoj procjeni uticaja na životnu sredinu ("Sl. list RCG", br. 80/05, ,,Sl. list CG," br. 73/10, 40/11, 59/11) i člana 11 Odluke o organizaciji i načinu rada lokalne uprave Prijestonice Cetinje (,,Službeni list CG - Opštinski propisi", br. 2/11 i 6/12, 17/12, 23/13), Sekretarijat za planiranje i uređenje prostora i zaštitu životne sredine Prijestonice Cetinje, donosi
+O D L U K U
