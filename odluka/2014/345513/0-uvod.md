@@ -1,0 +1,3 @@
+Na osnovu člana 78 tačka 3 Zakona o upravljanju otpadom ("Sl. list CG", br. 64/11), člana 2 tačka 5 i člana 3 tačka 5 Zakona o komunalnim djelatnostima ("Sl. list RCG", br. 12/95); člana 32 stav 1 tač. 1 i 9 Zakona o lokalnoj samoupravi ("Sl. list RCG", 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10 i 38/12) i člana 33 stav 1 tačka 26 Statuta Opštine Pljevlja ("Sl. list RCG- Opštinski propisi", br. 37/04, 30/07 i "Sl. list CG-Opštinski propisi", br. 11/08, 21/09, 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici održanoj dana 18.02.2014.god, donijela je
+O D L U K U
+o određivanju lokacije na kojoj će se privremeno skladištiti komunalni otpad sakupljen sa
