@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04,75/05 , 13/06, "Sl. list Crne Gore", br. 88/09, 3/10 i 38/12), čl. 62 i 63 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03, 44/03 i "Sl. list Crne Gore", br. 5/08 i 74/10) i čl. 21, 34 i 42 Statuta Opštine Pljevlja ("Sl. list RCG - Opštinski propisi", br. 37/04, "Sl. list Crne Gore - Opštinski propisi", br. 30/07, 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici održanoj dana 18.02.2014.god. donijela je
+O D L U K U
