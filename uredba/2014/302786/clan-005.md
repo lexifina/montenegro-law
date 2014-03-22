@@ -1,0 +1,10 @@
+# Član 5
+## Opšti uslovi za grupno izuzeće
+Grupno izuzeće primjenjuje se ako:
+1) se sporazumom utvrđuje pravo svih učesnika u sporazumu da bez ograničenja mogu pristupiti rezultatima zajedničkog istraživanja i razvoja ili zajedničkog finansiranja istraživanja i razvoja, koji mogu da obuhvataju i pravo intelektualne svojine i posebna znanja i vještine neophodne za dalji postupak istraživanja, razvoja i korišćenja rezultata istraživanja i razvoja;
+2) se sporazumom utvrđuje pravo svakog učesnika u sporazumu na slobodan pristup znanju i vještinama učesnika u sporazumu prije zaključenja sporazuma o istraživanju i razvoju, ako su ta znanja i vještine neophodni za korišćenje rezultata istraživanja i razvoja;
+3) je zajedničko korišćenje rezultata istraživanja i razvoja u direktnoj vezi sa rezultatima koji predstavljaju intelektualnu svojinu ili posebna znanja i vještine, a koji su odlučujući i neophodni u procesu proizvodnje ugovornog proizvoda ili primjene ugovornih tehnoloških procesa;
+4) se sporazumom kojim se utvrđuje specijalizacija proizvodnje jednog učesnika sporazuma predviđa obaveza snabdijevanja svih učesnika sporazuma osim u slučaju ugovaranja zajedničke distribucije ili isključivog prava proizvođača da distribuira taj proizvod.
+Grupno izuzeće od zabrane primjenjuje se i na sporazume o istraživanju i razvoju iz stava 1 tačka 1 ovog člana pod uslovom da je ugovorom predviđena specijalizacija jednog ili više učesnika u sporazumu u primjeni i komercijalizaciji rezultata istraživanja ili ako se usluge istraživanja i razvoja pružaju na komercijalnoj osnovi.
+Sporazumom iz stava 2 ovog člana mogu biti predviđena uzajamna davanja za pristup i korišćenje rezultata istraživanja u daljem procesu razvoja, do visine tržišne vrijednosti davanja.
+Grupno izuzeće od zabrane primjenjuje se i na sporazume kojima su ugovorena uzajamna davanja za pristup i korišćenje znanja i vještina drugog učesnika u sporazumu, prije zaključenja sporazuma o istraživanju i razvoju iz stava 1 tačka 2 ovog člana, do visine tržišne vrijednosti davanja.

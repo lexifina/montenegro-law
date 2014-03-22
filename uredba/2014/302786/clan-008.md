@@ -1,0 +1,5 @@
+# Član 8
+## Ugovorne odredbe na koje se ne primjenjuje grupno izuzeće od zabrane
+Grupno izuzeće od zabrane iz člana 4 ove uredbe ne primjenjuje se na ugovorne odredbe kojima se:
+1) zabranjuje osporavanje prava intelektualne svojine čiji su nosioci učesnici u sporazumu o istraživanju i razvoju, a koja su značajna za istraživanje i razvoj nakon završetka istraživanja i razvoja, ili zabranu osporavanja prava intelektualne svojine čiji su nosioci učesnici u sporazumu o istraživanju i razvoju, a kojima se štite rezultati tih istraživanja i razvoja, uz mogućnost raskida sporazuma o istraživanju i razvoju ako jedan od učesnika u sporazumu osporava ta prava intelektualne svojine;
+2) zabranjuje davanje licence drugoj ugovornoj stani za proizvodnju ugovornih proizvoda ili za primjenu ugovornih tehnološkog procesa, osim kada sporazum predviđa da jedan od učesnika u sporazumu koristi rezultate zajedničkog istraživanja i razvoja ili plaćenog istraživanja i razvoja na tržištu na kojem djeluje druga ugovorna strana.

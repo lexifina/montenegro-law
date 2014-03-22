@@ -1,0 +1,3 @@
+# Član 4
+## Sporazumi na koje se primjenjuje grupno izuzeće
+Grupno izuzeće od zabrane primjenjuje se na horizontalne sporazume iz člana 8 Zakona zaključene između dva ili više samostalnih učesnika na tržištu koji za predmet imaju ustupanje ili prenos prava intelektualne svojine na jednog ili više učesnika u sporazumu ili na privredno društvo koje su osnovali učesnici u sporazumu radi zajedničkog istraživanja i razvoja, zajedničkog finansiranja istraživanja i razvoja ili zajedničkog korišćenja rezultata istraživanja i razvoja kada su te odredbe sporazuma neophodne za sprovođenje predmeta sporazuma.
