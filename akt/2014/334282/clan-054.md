@@ -1,0 +1,3 @@
+# Član 54
+Poslodavac je dužan da zatraži i razmotri mišljenje i prijedloge sindikata prije donošenja odluke od bitnog značaja za profesionalne i ekonomske interese zaposlenih, otpuštanja zaposlenih usljed tehnološko-ekonomskih, restrukturalnih i drugih promjena, sistematizacije radnih mjesta i dr.
+U slučajevima iz stava 1 ovog člana poslodavac je dužan da blagovremeno, a najkasnije pet dana prije održavanja sastanka, obavijesti predstavnika sindikata na odgovarajućem nivou radi prisustvovanja sastancima organa poslodavca na kojima se razmatraju dostavljena mišljenja i prijedlozi, i donose odluke od bitnog značaja za profesionalne i ekonomske interese zaposlenih.
