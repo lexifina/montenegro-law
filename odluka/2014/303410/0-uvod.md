@@ -1,0 +1,2 @@
+Na osnovu člana 56 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 3/10 i 38/12), i člana 33, a u vezi sa članom 57 stav 3 Statuta Opštine Berane ("Službeni list RCG - Opštinski propisi", br. 21/04, 34/06 i "Službeni list CG - Opštinski propisi", br. 6/11), Skupština opštine Berane, na sjednici održanoj dana 31. marta 2014. godine, donijela je
+O D L U K U
