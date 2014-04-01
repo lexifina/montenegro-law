@@ -1,0 +1,3 @@
+# Član 11
+Kad usled više sile ili razloga kojeg nije bilo moguće predvidjeti ili spriječiti, dođe do smanjenog obima ili prekida u snabdijevanju vodom, društvo je dužno da vodu distribuira u skladu s redom prvenstva utvrđenim posebnom odlukom organa jedinice lokalne samouprave u skladu sa zakonom i da odmah preduzme mjere na otklanjanju uzroka poremećaja, kako bi se obezbjedila kontinuirana distribucija vode.
+U slučaju smanjenja dotoka ili nestašice vode na izvorištima u sušnim periodima godine, društvo je dužno da odmah, a najkasnije u roku od 24 časa, donese posebni plan isporuke vode na području opštine, uz saglasnost nadležnog organa lokalne uprave i da o tome putem sredstava javnog informisanja i na drugi odgovarajući način obavijesti korisnike.
