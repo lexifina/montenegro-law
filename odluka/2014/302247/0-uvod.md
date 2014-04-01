@@ -1,0 +1,2 @@
+Na osnovu člana 18 stav 1 alineja 2, člana 29 stav 2 u vezi sa članom 8 stav 1 Zakona o državnoj imovini ("Sl. list CG", br. 21/09), čl. 5, 7 i 10 Zakona o komunalnim djelatnostima ("Sl. list RCG", br. 12/95) i člana 31 stav 1 tačka 9 i člana 35 Statuta Opštine Tivat ("Sl. list RCG- Opštinski propisi", br. 40/04 i 26/06, "Sl. list CG-Opštinski propisi", br. 12/11, 21/11, 3/12) na sjednici Skupštine opštine Tivat održanoj dana 06.03.2014. godine, donijeta je
+O D L U K A
