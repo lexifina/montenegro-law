@@ -1,0 +1,2 @@
+# Član 4
+Usvajanjem politike, kojom se uvode načela ravnopravnosti polova u Opštini Bijelo Polje, promoviše se djelotvornost principa jednakih mogućnosti oba pola, i obezbjeđuje potpuniji odgovor na potrebe i interese različitih kategorija građana i građanki, djelotvornija raspodjela ljudskih i novčanih resursa, osnažuju mehanizmi donošenja odluka i omogućuje veće učešće građana i građanki u tom procesu, što će ukupno pridonijeti potpunijem funkcionisanju demokratije na području Opština Bijelo Polje.

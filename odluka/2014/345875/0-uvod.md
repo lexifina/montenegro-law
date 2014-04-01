@@ -1,0 +1,3 @@
+Na osnovu čl. 3 i 11 Zakona o rodnoj ravnopravnosti ("Sl. list RCG", br. 46/07 ), člana 31 stav 1 tačka 6 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list CG", br. 88/09, 03/10, 73/10, 38/12), člana 34 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl. list CG-Opštinski propisi", br. 18/10 i 32/13 ) i člana 6 Memoranduma o saradnji potpisanog 10. decembra 2007. godine između OSCE Misije u Crnoj Gori, Kancelarije za rodnu ravnopravnost u Vladi Crne Gore i Opštine Bijelo Polje, Skupština opštine Bijelo Polje, na sjednici održanoj 30.12.2013 i 06.03.2014.godine, donijela je
+O D L U K U
+o ravnopravnosti polova u Opštini Bijelo Polje
