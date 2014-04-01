@@ -1,0 +1,3 @@
+Na osnovu 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, 03/10, 73/10 i 38/12), člana 29 stav 2 Zakona o državnoj imovini ("Sl. list CG", br. 21/09 i 40/11), člana 4, u vezi sa članom 11 stav 1 tačka 2 Zakona o socijalnom stanovanju ("Sl. list CG", br. 35/13) i člana 36 stav 1 tačka 10 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, "Sl. list CG - Opštinski propisi", br. 16/09 i 16/11), Skupština opštine Herceg Novi, na sjednici održanoj 11.marta 2014. godine, donijela je
+O D L U K U
+o učešću Opštine Herceg Novi u implementaciji Nacionalnog stambenog projekta u okviru
