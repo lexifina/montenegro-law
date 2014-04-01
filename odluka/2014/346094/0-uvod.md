@@ -1,0 +1,2 @@
+Na osnovu člana 93 stav 3 Zakona o uređenju prostora i izradnji objekata ("Sl. list CG", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13 i 39/13) i člana 1 stav 3 i člana 3 Zakona o administrativnim taksama ("Sl. list RCG", br. 55/03, 46/04, 81/05, 2/06 i "Sl. list RCG", br. 22/08, 77/08, 03/09 i 30/10) i člana 36 stav 1 tačka 9 Statuta Opštine Herceg-Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07 i "Sl. list CG - Opštinski propisi", br. 16/09, 16/11), Skupština opštine Herceg-Novi, na sjednici održanoj dana 11.03.2014.godine, donosi
+O D L U K U
