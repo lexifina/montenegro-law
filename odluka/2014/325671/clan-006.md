@@ -1,0 +1,2 @@
+# Član 6
+Urbanističkim projektom, u skladu sa važećom planskom dokumentacijom višeg reda i zakonskom regulativom, utvrdiće se odgovarajuća organizacija i način korišćenja ovog prostora, i dati precizne smjernice za izgradnju hotela shodno savremenim zahtjevima turističke privrede. Uslov je očuvanje i unapređenje ambijentalnih karakteristika šireg i užeg područja i obezbjeđenje funkcionisanja predviđenih sadržaja planiranjem odgovarajuće saobraćajne i tehničke infrastrukture, vodeći računa o uslovima zaštite životne sredine.
