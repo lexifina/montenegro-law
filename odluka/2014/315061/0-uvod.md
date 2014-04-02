@@ -1,0 +1,2 @@
+Na osnovu čl. 47 i 49 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 34/1, 35/13 i 39/13), člana 45 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", br. 88/09, 38/12 i 10/14) i člana 44 stav 1 tačka 4 Statuta Opštine Mojkovac ("Sl. list CG - Opštinski propisi", br. 31/10 i 26/12), Skupština opštine Mojkovac, na sjednici održanoj dana 13.03.2014. godine, donijela je
+O D L U K U
