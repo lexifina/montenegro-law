@@ -1,0 +1,3 @@
+# Član 34
+Radi pribavljanja informacija, odnosno stručnih mišljenja o predlozima akata koji se razmatraju, radno tijelo na sjednicu može pozvati naučna i stručna lica, koja mogu pružiti te informacije (u daljem tekstu: javno saslušanje).
+Cilj javnog saslušanja iz stava 1 ovog člana je da se odbornici (radno tijelo) i javnost bliže informišu i upoznaju o suštinskim pitanjima i rješenjima, kao i onim koji su od posebnog interesa za građane i javnost, odnosno o pitanjima i rješenjima koja izazivaju nejasnoće, dileme ili principijelna sporenja, a koja su predmet konkretnog predloga akta, odnosno drugog pitanja o kome se vodi rasprava.

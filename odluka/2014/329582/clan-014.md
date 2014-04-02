@@ -1,0 +1,3 @@
+# Član 14
+Odbor za društvene djelatnosti ima predsjednika i 4 člana.
+Odbor za društvene djelatnosti razmatra planove i programe iz oblasti sporta, kulture, razmatra pitanja kulturnog nasleđa na području Opštine; razmatra pitanja koja se odnose na opšte obrazovnu, bibliotekarsku, izdavčku i arhivsku djelatnost; zapošljavanja; pitanja dodatnih oblika socijalne zaštite i pomoći za lica u stanju socijalne potrebe; društvene brige o djeci i omladini; informisanja lokalnog stanovništva; razmatra pitanja i predlaže mjere Skupštini iz nadležnosti Opštine iz ovih djelatnosti; razmatra pitanja saradnje sa nevladinim organizacijama; razmatra izvještaj o radu predsjednika Opštine i ostvarivanju funkcija lokalne samouprave iz ovih oblasti; vrši druge poslove iz ovih oblasti.

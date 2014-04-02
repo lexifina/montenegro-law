@@ -1,0 +1,3 @@
+# Član 11
+Odbor za izbor i imenovanja ima predsjednika i 4 člana.
+Odbor za izbor i imenovanja podnosi Skupštini predlog za izbor, imenovanje i razrješenje lica koje bira ili imenuje Skupština, osim predloga koje u skladu sa propisima podnose drugi ovlašćeni predlagači; predlaže akte kojima se uređuju pitanja ostvarivanja prava i dužnosti odbornika i funkcionera koje imenuje, bira i razrešava Skupština; donosi pojedinačne akte o statusnim i drugim pitanjima odbornika i drugih lica koje bira ili imenuje Skupština; razmatra i podnosi izvještaj o davanju saglasnosti na imenovanje i razrješenje u skladu sa posebnim zakonima; vrši druge poslove u skladu sa Statutom, drugim propisom i ovom Odlukom.
