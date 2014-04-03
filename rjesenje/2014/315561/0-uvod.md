@@ -1,0 +1,1 @@
+Na osnovu člana 34 Statuta Opštine Berane ("Sl. list RCG-Opštinski propisi", br. 21/04, 34/06 i "Sl. list CG-Opštinski propisi", broj 6/11), a na predlog Odbora za izbor i imenovanja, Skupština opštine Berane je na sjednici održanoj 3. aprila 2014. godine, donijela
