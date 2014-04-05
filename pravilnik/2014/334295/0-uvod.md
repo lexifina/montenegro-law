@@ -1,0 +1,2 @@
+Na osnovu člana 87 stav 6 Zakona o sportu ("Službeni list CG", br. 36/11 i 36/13), Ministarstvo prosvjete donijelo je
+PR A V I L N IK O BLIŽIM USLOVIMA, NAČINU, POSTUPKU I KRITERIJUMIMA ZA DODJELU SREDSTAVA SPORTSKIM SUBJEKTIMA I KONTROLU NAD REALIZACIJOM PROGRAMA
