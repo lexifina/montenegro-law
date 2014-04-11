@@ -1,0 +1,2 @@
+Na osnovu člana 1 Zakona o eksproprijaciji ("Sl. list RCG", br. 55/00, 12/02, 28/06 i "Sl. list Crne Gore", br. 21/08), člana 33 tačka 5 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09 i 3/10) i člana 35 Statuta Opštine Danilovgrad ("Sl. list CG - Opštinski propisi", br. 19/08 i 12/11), Skupština opštine Danilovgrad, na sjednici održanoj 28.03. 2014. godine, donosi
+O D L U K U
