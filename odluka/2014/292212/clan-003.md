@@ -1,0 +1,2 @@
+# Član 3
+Sredstva Budžeta opštine Rožaje za 2014.godinu iz sredstava stavke "Transferi sportskim organizacijama" služit će kao garant kreditnog zaduženja iz člana 1. Ove Odluke, na način što će se u slučaju neizmirivanja kreditnog zaduženja iz člana 1 Ove Odluke od strane sportskih organizacija, kreditno zaduženje izmiriti od strane davaoca garancije, a na račun opredijeljenih sredstava Budžeta za 2014.godinu za potrebe sportskih organizacija iz stavke " Transferi sportskim organizacijama".
