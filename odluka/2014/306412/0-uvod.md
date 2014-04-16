@@ -1,0 +1,2 @@
+Na osnovu člana 105 stav 5 Zakona o turizmu ("Sl. list CG", br. 61/10, 40/11 i 53/11), a u vezi sa članom 32 stav 1 tač. 7 i 13 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/6 i "Sl. list CG", br. 88/09, 3/10, 73/10, 38/12 i 10/14) i člana 48 stav 1 alineja 2 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", broj 28/06 i "Sl. list CG-Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada-Podgorice, na sjednici održanoj 03. aprila 2014. godine, donijela je
+O D L U K U
