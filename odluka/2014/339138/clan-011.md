@@ -1,0 +1,2 @@
+# Član 11
+Društvom upravlja Osnivač na način i pod uslovima utvrđenim ovom odlukom i Statutom Društva.
