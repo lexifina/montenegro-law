@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta Opštine Plužine ("Sl. list RCG - Opštinski propisi", broj 23/04, 7/07 i "Sl. list CG - Opštinski propisi", broj 1/11, 8/11 i 22/11), a u vezi sa članom 24 Zakona o izboru odbornika i poslanika ("Sl. list RCG" , br. 16/00, 18/00, 9/00, 41/02, 46/02, 48/06 i "Sl. list CG", broj 46/11) i članom 56 Zakona o izmjenama i dopunama Zakona o izboru odbornika i poslanika ("Sl. list CG", broj 14/14), na predlog Odbora za izbor i imenovanje Skupština opštine Plužine, na sjednici održanoj 17.04.2014. godine, donijela je
+O D L U K U
