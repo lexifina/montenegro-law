@@ -1,0 +1,22 @@
+# Član 2
+Predmet raspolaganja zemljištem i objektima u smislu člana 1 ovog Plana su sljedeće katastarske parcele:
+1) katastarska parcela br. 317/14 evidentirana u LN br. 589 KO Kolašin, ukupne površine 1417 m2, koja je u zahvatu DUP- a "Centar", zona A, podzona A 4, na urbanističkim parcelama br. 2, 2´ i 3 (zemljište preko puta zgrade Opštine kolašin)
+2) katastarska parcela br. 223 evidentirana u LN br. 1362 KO Kolašin, ukupne površine 2081 m2, koja je u zahvatu DUP- a "Centar", zona F, podzona F 6 na kojoj su utvrđene urbanističke parcele br. 2 i 2a (parcela na kojoj je Auto- moto drustvo)
+3) katastarska parcela br. 946/9 evidentirana u LN br. 589 KO Kolašin, ukupne površine 42.526 m2, sa neprodatim urbanističkim parcelama predviđenim DUP- om "Centar (Dulovine)
+4) katastarska parcela br. 125/1 evidentirana u LN br. 589 KO Kolašin, ukupne površine 1500 m2, koja je u zahvatu DUP- a "Centar", na kojoj su planirane urbanističke parcele up 17 i up 18 a planom se obuhvata up 17 (zemljište u ul. Dunje Đokić- zgrada za socijalne slučajeve)
+5) katastarska parcela br. 280/13 evidentirana u LN br. 1362 KO Kolašin, ukupne površine 22 m2, i objekat br. 1 - trafostanica, površine 22 m2 (trafostanica na Lugu pored sportske Hale)
+6) objekat br. 1 - trafostanica, površine 8 m2, na katastarskoj parceli br. 672/6 knjižena u LN br. 1361 KO Kolašin (trafostanica iza zgrade MUP- a Kolašin)
+7) Dio objekta broj 1 na kat. parceli br. 435, LN br. 589 KO Kolasin (Trafostanica u zgradi Opstine)
+8) katastarska parcela br. 201/1, LN br. 26 KO Radigojno površine 89.336 m2 (Prljavi brijeg)
+9) katastarska parcela br. 202/9, LN br. 26 KO Radigojno površine 66.265 m2 (Prljavi brijeg)
+10) katastarska parcela br. 234, LN br. 44 KO Drijenak površine 29.107 m2 (Drijenak) 11) katastarska parcela br. 252, LN br. 44 KO Drijenak površine 54.072 m2 (Drijenak) 12) katastarska parcela br. 379/1, LN br. 44 KO Drijenak površine 256.852 m2 (Drijenak) 13) katastarska parcela br. 384, LN br. 44 KO Drijenak površine 29.311 m2 (Drijenak) 14) katastarska parcela br. 275, LN br. 38 KO Babljak površine 4.343 m2 (Babljak) 15) katastarska parcela br. 277, LN br. 38 KO Babljak površine 4.193 m2 (Babljak) 16) katastarska parcela br. 279, LN br. 38 KO Babljak površine 1.661 m2 (Babljak)
+17) katastarska parcela br. 219/2, LN br. 18 KO Blatina površine 149 m2 (Blatina)
+18) katastarska parcela br. 1053, LN br. 67 KO Smrcje površine 2.024 m2 (Ski centar)
+19) katastarska parcela br. 101/1, LN br. 15 KO Bakovici površine 467.085 m2 (Markovo brdo)
+20) katastarska parcela br. 140, LN br. 15 KO Bakovici površine 2.484 m2 (Bakovici) 21) katastarska parcela br. 142, LN br. 15 KO Bakovici površine 3.529 m2 (Bakovici) 22) katastarska parcela br. 145, LN br. 15 KO Bakovici površine 16.594 m2 (Bakovici)
+23) katastarska parcela br. 117/1, LN br. 15 KO Bakovići površine 2.732 m2 (Bakovići) 24) katastarska parcela br. 117/9, LN br. 15 KO Bakovići površine 475 m2 (Bakovici) 25) katastarska parcela br. 248/1, LN br. 15 KO Bakovići površine 37.258 m2 (Bakovici) 26) katastarska parcela br. 244/1, LN br. 15 KO Bakovići površine 94.390 m2 (Bakovici)
+(odnosno urbanističke parcele broj UP 19, 20, 25, 28, 29, 30, 31, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42 DUP "Biznis zona", a pripadaju katastarskim parcelama pod rednim brojem 25 i 26 ovog Plana)
+27) katastarska parcela br. 1666, LN br. 311 KO Osredci površine 9.479 m2 (Manastir Moraca)
+28) katastarska parcela br. 1667, LN br. 311 KO Osredci površine 14.899 m2 (Manastir Moraca)
+29) katastarska parcela br. 607, LN br. 120 KO Dragovića Polje površine 500 m2 dvirište, 479 neplodno zemljište i objekat na istoj površine 119 m2 (Dragovića Polje)
+30) katastarska parcela br. 437/1, LN br. 1344 KO Kolašin površine 276 m2 i objekat broj 1 na istoj površine 102 m2 (Dom penzionera).
