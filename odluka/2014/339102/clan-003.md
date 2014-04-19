@@ -1,0 +1,2 @@
+# Član 3
+Ciljevi i zadaci radi kojih se osniva MRK "Danilovgrad" su obavljanje sportske rukometne djelatnosti koja obuhvata: obučavanje, treninge, rekreativne aktivnosti, rukometna takmičenja i rukometne manifestacije, kao i promovisanje rukometa kod djece i omladine u cilju unapređivanja i razvoja njihovih psihofizičkih sposobnosti, sportskih znanja i postizanja sportskih rezultata na svim nivoima.
