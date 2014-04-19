@@ -1,0 +1,4 @@
+# Član 11
+U članu 28 poslije stava 4 dodaju se dva nova stava koji glase:
+"Ako se podnosilac prijave u roku iz st. 3 i 4 ovog člana ne izjasni o postojanju razloga za odbijanje registracije iz člana 6 ovog zakona u odnosu na sve robe ili usluge za koje se traži registracija ili u svom izjašnjenju ne ospori razloge za odbijanje registracije, nadležni organ će rješenjem odbiti prijavu za registraciju u cjelini.
+Ako se podnosilac prijave u roku iz st. 3 i 4 ovog člana ne izjasni o postojanju razloga za djelimično odbijanje registracije iz člana 6 ovog zakona ili ako nakon dobijanja izjašnjenja o razlozima za odbijanje registracije u odnosu na sve robe ili usluge nadležni organ utvrdi da znak ne ispunjava uslove za registraciju u odnosu na pojedine robe ili usluge, rješenjem će djelimično odbiti prijavu za registraciju."
