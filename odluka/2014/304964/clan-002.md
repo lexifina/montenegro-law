@@ -1,0 +1,2 @@
+# Član 2
+Kat.parcela br. 4694/3 iz lista nepokretnosti broj 403 K.O. Cetinje I, po kulturi građevinska parcela u površini od 35 m2, svojina Države Crne Gore, subjekat raspolaganja Prijestonice Cetinje zajedno sa kat.parcelom broj 2700/1 i kat. parcelom broj 2701/1 iz lista nepokretnosti br. 3302, površine 278 m2 svojina Mudreša Vaska, sve u K.O.Cetinje I, čine urbanističku parcelu iz člana 1 ove odluke.
