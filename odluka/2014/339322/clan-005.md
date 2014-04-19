@@ -1,0 +1,2 @@
+# Član 5
+PUP opštine Danilovgrad sadrži tekstualni, grafički dio i Izvještaj o strateškoj procjeni uticaja na životnu sredinu. Grafički dio čine prostorno- planski dio za teritoriju opštine Danilovgrad, u razmjeri 1:25000 i urbanističko- planski dio koji se sastoji od Generalnog urbanističkog rješenja opštinskog centra Danilovgrad i Generalnog urbanističkog rješenja lokalnog centra Spuž, u razmjeri 1: 5000.
