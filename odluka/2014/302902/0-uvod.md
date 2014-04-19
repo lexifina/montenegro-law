@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list CG", br. 88/09, 03/10 i 38/12), člana 63 stav 1 tačka 40 Statuta Prijestonice ("Sl. list CG-Opštinski propisi", br. 19/09, 37/10 i 26/13) i člana 12 Odluke o osnivanju Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju u Prijestonici Cetinje ("Sl. list CG-Opštinski propisi", br. 33/11), Skupština Prijestonice Cetinje, na sjednici održanoj dana 27. i 31. 03. 2014. godine, donijela je
+O D L U K U
+o imenovanju člana Upravnog odbora Javne ustanove Dnevni centar za djecu i omladinu sa
