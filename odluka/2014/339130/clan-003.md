@@ -1,0 +1,2 @@
+# Član 3
+Utvrđuje se da je Ugovorom o koordinaciji projekta između Države Crne Gore Terne S.p.a i Crnogorski elektroprenosni sistem AD zaključenog 25. 01. 2011. god. predviđena je obaveza da Država Crna Gora zaključi sa Ternom, Ugovor kojim će se prenjeti pravo svojine i/ili službenosti na zemljištima u državnoj svojini neophodnim za realizaciju dijela infrastrukture električne energije za novu podmorsku HVDC interkonekciju između prenosnih mreža Italije i Crne Gore.
