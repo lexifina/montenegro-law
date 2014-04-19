@@ -1,0 +1,2 @@
+# Član 2
+Kat.parcela broj 2676/3 iz lista nepokretnosti broj 2450 K.O. Cetinje I, po kulturi zemljište uz stambeno poslovnu zgradu površine 63m2 i pomoćna zgrada obj. br. 1 spratnost P, površine 19 m2, ukupne površine 82 m2, svojina Države Crne Gore, subjekat raspolaganja Prijestonice Cetinje, zajedno sa kat.parcelom broj 2675 iz lista nepokretnosti broj 344, površine 362 m2, susvojina u obimu prava od po ½ Gagović Arsenija i Gagović Predraga, sve u K.O.Cetinje I, čine urbanističku parcelu iz člana 1 ove odluke.
