@@ -1,0 +1,8 @@
+# Član 48
+## Ovlašćenja inspektora
+Nadležni inspektor je ovlašćen da u vršenju inspekcijskog nadzora, osim ovlašćenja za koje je ovlašćen drugim propisima:
+1) zahtijeva sve informacije i dokumentaciju koja je potrebna za dokazivanje usaglašenosti građevinskog proizvoda sa izjavom o svojstvima i usaglašenost sa drugim zahtjevima u skladu sa ovim zakonom, kao i svim aktivnostima koje se preduzimaju kako bi se otklonili rizici koje predstavljaju građevinski proizvodi koji su stavljeni na tržište i upotrebu;
+2) obavlja odgovarajuće provjere, uzima uzorke proizvoda i daje ih na ispitivanje radi ocjene usaglašenosti tehničkih svojstava građevinskog proizvoda sa izjavom o svojstvima, ukoliko ima dovoljno razloga da vjeruje da građevinski proizvod obuhvaćen crnogorskim standardom ili za koji je izdata tehnička ocjena nema izjavljena svojstva i predstavlja rizik za ispunjenje osnovnih zahtjeva za objekte koji su definisani zakonom kojim se uređuje izgradnja objekata;
+3) provjerava da li su izvršeni propisani pregledi koji potvrđuju bezbjednost proizvoda tokom perioda upotrebe;
+4) pregleda poslovne prostorije i objekte proizvođača, ovlašćenog zastupnika, uvoznika, distributera, izvođača radova i drugog lica.
+Proizvođač, ovlašćeni zastupnik, uvoznik, distributer, izvođač radova i drugo lice dužni su da nadležnom inspektoru omoguće pregled svih prostora i uvid u sve radnje i dokumenta koji se odnose na ocjenu i provjeru postojanosti svojstava građevinskog proizvoda vezano za njihove bitne karakteristike, dokazivanje upotrebljivosti, stavljanje na tržište, distribuciju i upotrebu građevinskog proizvoda.

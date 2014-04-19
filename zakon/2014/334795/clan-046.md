@@ -1,0 +1,5 @@
+# Član 46
+## svojstvima, znaka usaglašenosti "CE" i sertifikata
+Evropski dokument o ocjeni, evropska tehnička ocjena, izjava o svojstvima i znak usaglašenosti "CE" izdati za proizvod proizveden u skladu sa usaglašenim standardom ili evropskom tehničkom ocjenom priznaju se u Crnoj Gori bez sprovođenja postupka iz čl. 44 i 45 ovog zakona ako izjavljena svojstva građevinskog proizvoda odgovaraju svojstvima tog proizvoda navedenim u tehničkom propisu iz člana 6 ovog zakona.
+Dokument izdat u postupku ocjene i provjere postojanosti svojstava građevinskog proizvoda od tijela imenovanog od strane države članice Evropske unije i prijavljenog Evropskoj komisiji za poslove ocjene i provjere postojanosti svojstava građevinskog proizvoda (Notifikovano tijelo), za građevinski proizvod obuhvaćen usaglašenom tehničkom specifikacijom, po svojoj pravnoj snazi i dejstvu u potpunosti se priznaje kao dokument izdat u skladu sa ovim zakonom.
+Dokumenta i isprave iz st. 1 i 2 ovog člana moraju biti prevedeni na crnogorski jezik.
