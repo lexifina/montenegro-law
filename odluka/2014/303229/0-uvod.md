@@ -1,0 +1,2 @@
+Na osnovu člana 44 Zakona o finansiranju lokalne samouprave ("Sl. list CG", br. 42/03, 44/03 i "Sl. list CG", br. 5/08 i 51/08 ) člana 58 st. 2 i 3 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, i "Sl. list CG", br. 88/09 i 3/10) i člana 26 stav 1 tačka 6 i člana 86 st. 2 i 3 Statuta Opštine Ulcinj ("Sl. list RCG-Opštinski propisi", broj 5/07, "Sl. list CG- Opštinski propisi", broj 16/11), Skupština Opštine Ulcinj, na sjednici održanoj dana 22.03.2014. godine, donijela je
+O D L U K U
