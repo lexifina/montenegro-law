@@ -1,0 +1,2 @@
+Na osnovu člana 40 Zakona o državnoj imovini ("Sl. list CG", broj 21/09), člana 45 tačka 9 Zakona o lokalnoj samoupravi ( "Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", br. 88/09, 3/10 i 38/12), člana 4 st. 1 i 29 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl. list CG", broj 44/10) i člana 44 tačka 10 Statuta Opštine Mojkovac ("Sl. list CG- Opštinski propisi", br. 31/10 i 26/12), Skupština opštine Mojkovac, na sjednici održanoj 31.03.2014.godine, donijela je
+O D L U K U
