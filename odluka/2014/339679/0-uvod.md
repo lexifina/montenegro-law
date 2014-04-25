@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 70/05 i 13/06, "Sl. list CG", br. 88/09 i 3/10) čl. 8 i 15 Zakona o zaštiti lica i imovine ("Sl. list CG", br. 1/14 i 6/14 ) i člana 83 stav 1 tačka 5 Statuta Opštine Ulcinj ("Sl. list CG-Opštinski propisi", br. 5/07, 9/09 i 16/11), uz mišljenje Glavnog administratora br. 14-16/1-14. od 02.04.2014. godine Predsjednik Opštine Ulcinj dana 04.04.2014. god., donosi
+O D L U K U
