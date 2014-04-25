@@ -1,0 +1,6 @@
+# Član 5
+Sjednice Savjeta održavaju se u skladu sa potrebama dinamike procesa pregovora i sa njima povezanim aktivnostima u oblasti vladavine prava, naročito u poglavljima 23 - Pravosuđe i temeljna prava i 24 - Pravda, sloboda i bezbjednost.
+Predsjednik Savjeta saziva sjednice po sopstvenoj procjeni ili na predlog članova Savjeta.
+Predsjednik Savjeta može organizovati konsultativne sastanke u cilju hitnog rješavanja pitanja koje usporava dinamiku pregovora u poglavljima 23 - Pravosuđe i temeljna prava i 24 - Pravda, sloboda i bezbjednost sa članovima Savjeta zaduženim za sprovođenje konkretnih aktivnosti u oblasti vladavine prava.
+Predsjednik Savjeta može, po potrebi, pozvati na sjednice Savjeta ili konsultativne sastanke starješine organa ili predstavnike institucija koji nijesu članovi Savjeta i zatražiti podatke, objašnjenja i izvještaje u vezi sa pitanjima koja se odnose na realizaciju obaveza iz poglavlja 23 - Pravosuđe i temeljna prava i 24 - Pravda, sloboda i bezbjednost.
+O dinamici ispunjavanja obaveza u poglavljima 23 - Pravosuđe i temeljna prava i 24 - Pravda, sloboda i bezbjednost, predsjednik Savjeta, po potrebi, upoznaje Kolegijum za pregovore o pristupanju Crne Gore Evropskoj uniji.
