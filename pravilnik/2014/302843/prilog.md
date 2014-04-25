@@ -1,0 +1,1 @@
+* U ovaj pravilnik prenešena je: Odluka Komisije (2006/473/EC) o priznavanju nekih trećih zemalja i nekih područja trećih zemalja kao slobodnih od štetnih organizama Xanthomonas campestris (svi sojevi patogeni za rod Citrus), Cercospora angolensis Carv. et Mendes i Guignardia citricarpa Kiely (svi sojevi patogeni za rod Citrus).
