@@ -1,0 +1,5 @@
+# Član 1
+## o preduzimanju mjera zaštite javnog interesa u Javnoj ustanovi Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju
+Radi zaštite javnog interesa u JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju, zbog nesavjesnog rada koji se odnosi na zapošljavanje suprotno Zakonima i Pravilniku o unutrašnjoj organizaciji i sistematizaciji radnih mjesta, postupanja suprotno pažnji dobrog domaćina, neizvršavanje zakonom utvrđenih obaveza, kako bi se obezbijedili uslovi za nesmetano funkcionisanje JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju i obavljanje djelatnosti za koje je ustanova osnovana, preduzimaju se sledeće mjere:
+- razrješava se Marijana Dakić, dužnosti V.D. direktora JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju Berane, imenovana Odlukom Upravnog odbora br. 16 od 17.12.2013. godine, na koju saglasnost nije dala Skupština opštine Berane,
+- raspušta se Upravni odbor JU Dnevni centar za djecu i omladinu sa smetnjama u razvoju Berane imenovan Odlukom Skupštine opštine br.02-030-308 od 14.12.2012. godine.

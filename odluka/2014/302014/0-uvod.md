@@ -1,0 +1,2 @@
+Na osnovu člana 6 stava 2 Zakona o ostvarivanju javnog interesa u javnim preduzećima ("Sl. list SRCG", br. 13/91, 16/91 i "Sl. list CG", br. 73/10), čl. 3 i 111 Zakona o socijalnoj i dječjoj zaštiti ("Sl. list CG", br. 27/13) i člana 60 Statuta Opštine Berane ("Sl. list RCG - Opštinski propisi", br. 21/04 i 34/06 i "Sl. list CG - Opštinski propisi", br. 6/11), Predsjednik opštine Berane, dana 28.04. 2014. godine, donio je
+O D L U K U
