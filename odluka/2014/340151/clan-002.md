@@ -1,0 +1,3 @@
+# Član 2
+Predsjednik opštine Bar je donio Odluku o pristupanju izradi imjena i dopuna detaljnog urbanističkog plana " Sutomore - centar ", br. 031-448, od 08.04.2014. godine, za površinu od cca 1.0 ha, sa ciljem stvaranja uslova za uređenje neizgrađenog građevinskog zemljišta, kao i urbanu rekonstrukciju izgrađenog građevinskog zemljišta za turistički kompleks, sa ciljem kvalitetnije valorizacije ukupnog građevinskog zemljišta u zahvatu.
+Cilj izrade izmjena i dopuna Plana je planersko sagledavanje izmjena nastalih u prostoru i inicijativa korisnika prostora u periodu od donošenja detaljnog urbanističkog plana "Sutomore - centar ".
