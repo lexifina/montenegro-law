@@ -1,0 +1,2 @@
+# Član 6
+Ova odluka stupa na snagu danom donošenja i biće objavljena u "Službenom listu CG - Opštinski propisi".
