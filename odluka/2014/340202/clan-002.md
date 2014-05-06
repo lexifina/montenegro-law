@@ -1,0 +1,2 @@
+# Član 2
+Ova odluka objaviće se u dnevnom listu "Pobjeda", na Web sajtu Glavnog grada - Podgorica (www.podgorica.me). Pravo uvida u Odluku o stavljanju van snage Odluke o izradi PPO-a Podgorice za prostor DUP-a "Dajbabe Zelenika - dio planske zone 11" u Podgorici, kod nosioca pripremnih poslova imaju sva zainteresovana lica, shodno članu 32 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13 i 39/13).
