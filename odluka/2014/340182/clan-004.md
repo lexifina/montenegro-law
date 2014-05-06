@@ -1,0 +1,2 @@
+# Član 4
+Ova odluka objaviće se u dnevnom listu "Pobjeda", na web sajtu Glavnog grada - Podgorica (www.podgorica.me). Pravo uvida u Odluku o izmjeni i dopuni Odluke o izradi Plana kao i u izmjenu i dopunu Programskog zadatka kod nosioca pripremnih poslova imaju sva zainteresovana lica, shodno članu 32. Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13 i 39/13).
