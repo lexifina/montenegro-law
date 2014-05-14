@@ -1,0 +1,4 @@
+# Član 2
+Granica Izmjena i dopuna plana ide sa juga i jugoistoka rijekom Lim do parcele 303 na istoku, obuhvatajući istu, gdje počinje industrijska zona zone B.Polja, sjeverna granica ide prugom Beograd- Bar do katastarske parcele broj 2671 uključujući istu do parcele 2662/2 uključujući istu gdje presijeca put označen parcelom broj 4727 do parcele broj 2662/6 dalje granicama parcela broj 2662/6, 2662/1, 2658, 2653, 2647, 2646/2, 2646/1, 2645, 2648, 2643, 2642, 2556, 2491, 2518, 2506, 2517, 2516, 2515, 2512, 2511, 2980, 2970, 2969, 2968, 557/5, 557/6, 558 i 559 uključujući iste do izlaska pruge Beograd- Bar iz tunela i dalje prugom do ulaska u tunel. Odatle zapadna granica područja ide Ulicom kneza Miroslava do raskrsnice sa Ulicom III sandžačke brigade do parcele 1981 na jugozapadu obuhvatajući istu gdje počinje područje DUP- a Rakonje.
+Površina zahvata plana iznosi oko 85 ha.
+Granica zahvata plana data je na grafičkom prilogu.

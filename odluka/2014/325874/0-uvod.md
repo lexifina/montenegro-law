@@ -1,0 +1,2 @@
+Na osnovu člana 31 st. 2 i 53 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 40/10, 40/11, 47/11, 35/13 i 39/13), člana 14 Statuta Opštine Bijelo Polje ("Sl. list CG- Opštinski propisi", br. 25/04, 33/06, 18/10 i 32/13) i Programa uređenja prostora Opštine Bijelo Polje za 2014. godinu ("Sl. list CG-Opštinski propisi", br. 5/14), predsjednik Opštine Bijelo Polje, donosi
+O D L U K U
