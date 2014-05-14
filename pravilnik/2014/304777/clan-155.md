@@ -1,0 +1,3 @@
+# Član 155
+Radi utvrđivanja da li je kontrolisano vozilo registrovano, odnosno označeno probnim tablicama i da li ima propisane važeće isprave o vozilu, policijski službenik zahtijeva od vozača da pokaže i stavi na uvid saobraćajnu dozvolu/potvrdu o registraciji ili potvrdu uz probne tablice, vrši uvid u registarske tablice ili probne tablice, propisanu naljepnicu i upoređuje podatke iz isprava sa podacima na vozilu ili podatke pribavlja iz evidencija koje, u skladu sa zakonom, vodi policija.
+Kontrolu vozila policijski službenik vrši uz što kraće zadržavanje vozila i vozača, a ukoliko je izvršena i kontrola podataka iz tahografa u vozilu, vozaču se na njegov zahtjev izdaje potvrda o izvršenoj kontroli zapisa tahografa, čiju kopiju zadržava policijski službenik.

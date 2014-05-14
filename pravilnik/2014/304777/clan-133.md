@@ -1,0 +1,2 @@
+# Član 133
+Kontrolu saobraćaja na putevima policijski službenik vrši korišćenjem službenog vozila, pješice, korišćenjem bicikla, motocikla, helikoptera ili drugim sredstvima, u pokretu ili zadržavanjem na pojedinim bezbjednim mjestima na putu, kao i snimanjem saobraćaja na putu u svrhu praćenja bezbjednosti i protočnosti saobraćaja, ponašanja učesnika u saobraćaju i dokumentovanja saobraćajnih i drugih prekršaja i krivičnih djela.

@@ -1,0 +1,6 @@
+# Član 226
+Upotrebom uređaja za izbacivanje mlazeva vode, pod uslovima i na način iz člana 57 Zakona, smatra se usmjereni mlaz vode pod većim pritiskom, kojim se djeluje neposredno prema grupi lica, koja se okupila i protivpravno se ponaša, tako da može da izazvati nasilje. Cilj upotrebe je da se spriječi pristup ili izvrši rasturanje, usmjeravanje, označavanje ili pasivizacija grupe lica.
+U cilju uspostavljanja javnog reda i mira narušenog u većem obimu, uređaj za izbacivanje mlazeva vode može se koristiti na način da izbacuje koncentrisani ili disperzovani mlaz vode.
+Policijski službenik ne smije da upotrijebi uređaje za izbacivanje mlazeva vode prema licu direktnim udarcem mlaza vode veće snage, sa udaljenosti sa koje se može ugroziti život tog lica.
+Uređaj za izbacivanje mlazeva vode izbacivaće ekološki čistu vodu.
+Izuzetno od stava 4 ovog člana, ukoliko se procijeni da se upotrebom ekološki čiste vode neće postići svrha upotrebe uređaja za izbacivanje mlazeva vode, sa vodom će se pomiješati propisana koncentracija neškodljivih nadražujućih materija ili ako je to potrebno radi lakšeg pronalaska i identifikacije pripadnika grupe, sa vodom će se pomiješati sredstvo za obilježavanje.

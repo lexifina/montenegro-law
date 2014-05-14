@@ -1,0 +1,2 @@
+# Član 194
+U slučaju snimanja razgovora koji nijesu privatni, a koji se obavljaju putem telefona ili drugih tehničkih sredstava kojima se komunikacija obavlja na daljinu, policijski službenik koji izvršava ovu mjeru dostavlja izvod iz odluke suda koji sadrži samo telefonski broj ili e- mail adresu i trajanje mjere, pravnim licima registrovanim za prenos informacija, ukoliko je to neophodno za sprovođenje odobrene mjere.

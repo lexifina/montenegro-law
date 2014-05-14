@@ -1,0 +1,2 @@
+# Član 196
+Podaci prikupljeni na poseban način mogu se koristiti za namjenu za koju su prikupljeni, a ukoliko je to neophodno da bi se spriječilo vršenje krivičnog djela za koje se mogu narediti mjere tajnog nadzora propisane zakonom, ti podaci mogu se koristiti u postupku predlaganja mjera tajnog nadzora kao činjenice iz kojih proizlaze potrebe njihovog preduzimanja, odnosno kao razlozi za postojanje osnova sumnje.

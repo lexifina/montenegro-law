@@ -1,0 +1,7 @@
+# Član 69
+O prikupljanju obavještenja od građana pomoću uređaja za audio ili audiovizuelno snimanje, prethodno se obavještava lice koje daje izjavu i istovremeno poučava da zatraži reprodukovanje snimka radi provjeravanja date izjave.
+Snimak iz stava 1 ovog člana sadrži: naziv organizacione jedinice, ime i prezime policijskog službenika, mjesto gdje se preduzima radnja, dan i čas kad je radnja započeta i završena, imena i prezimena prisutnih lica i u kom svojstvu prisustvuju, kao i naznačenje predmeta i podatke potrebne za identifikaciju lica čija se izjava snima.
+U službenu zabilješku ili zapisnik o prikupljenim obavještenjima unijeće se da je izvršeno snimanje, ko je snimanje izvršio, da je lice upoznato sa pravima iz stava 1 ovog člana i gdje se snimak čuva ako nije priložen spisima predmeta.
+Na zahtjev lica koje je dalo izjavu snimak će se odmah reprodukovati, a ispravke ili objašnjenja tog lica će se snimiti, što će se konstatovati u službenu zabilješku ili zapisnik o prikupljenim obavještenjima.
+Kad se obavještenja uzimaju od više lica, a snimanje se vrši na istom uređaju, policijski službenik obavezan je da snimanje izvrši na način da se sa sigurnošću može utvrditi koje je lice i šta izjavilo.
+Snimljeno obavještenje se može potpuno ili djelimično prepisati i priložiti uz službenu zabilješku ili zapisnik o prikupljenim obavještenjima, a njegov sadržaj ovjerava potpisom policijski službenik koji je izvršio snimanje.

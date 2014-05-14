@@ -1,0 +1,2 @@
+# Član 199
+Poziv iz člana 198 stav 1 ovog pravilnika obavezno sadrži: naziv i sjedište organizacione jedinice, broj i datum, ime i prezime, datum rođenja, ime roditelja, adresu i jedinstveni matični broj lica koje se poziva, razlog pozivanja, datum, vrijeme i mjesto u koje se lice poziva, upozorenje da se lice može prinudno dovesti ako se ne odozove na uredno dostavljen pisani poziv, pečat i potpis službenog lica.

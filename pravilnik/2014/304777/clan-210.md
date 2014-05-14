@@ -1,0 +1,2 @@
+# Član 210
+U cilju hvatanja učinioca krivičnog djela koga neposredno goni, policijski službenik može da se posluži saobraćajnim sredstvom i sredstvom veze Vojske Crne Gore, ako se njeni pripadnici nađu na licu mjesta i ako se time ne ometa izvršenje njihovih zadataka. Saobraćajnim sredstvom Vojske Crne Gore koje se nalazi u koloni ili transportu, policijski službenik može se poslužiti samo po odobrenju komadanta kolone ili transporta.

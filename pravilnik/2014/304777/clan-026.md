@@ -1,0 +1,2 @@
+# Član 26
+Kad se na osnovu početnih saznanja pretpostavlja da je izvršeno krivično djelo za koje se goni po službenoj dužnosti ili prekršaj i da na mjestu događaja treba preduzeti mjere ili radnje, radi razjašnjenja činjeničnog stanja, pronalaženja i obezbjeđenja tragova krivičnog djela ili prekršaja i predmeta koji mogu da posluže kao dokaz, nadređeni policijski službenik će, bez odlaganja, uputiti policijskog službenika na mjesto događaja.

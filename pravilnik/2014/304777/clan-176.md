@@ -1,0 +1,4 @@
+# Član 176
+Policijski službenik raspoređen na poslovima obezbjeđivanja uslova za nesmetan rad sudova, državnog tužilaštva i održavanja reda, u skladu sa zakonom propisanim ovlašćenjima, preduzima potrebene mjere za zaštitu i bezbjednost objekata sudova i državnog tužilaštava i njihove neposredne blizine.
+U vršenju poslova iz stava 1 ovog člana, policijski službenik prati stanje ulaska, kretanja i izlaska iz objekata, kontroliše rad lica koja vrše poslove zaštite lica i imovine, posebno u toku noći, i preduzima druge potrebne mjera za bezbjednost objekata, a naročito u odnosu na mogućnost izbijanja požara ili eksplozija.
+U vršenju poslova iz stava 1 ovog člana, policijski službenik preduzima potrebne mjere za bezbjednost sudija, tužilaca i drugih zaposlenih u sudovima i državnom tužilaštvu.

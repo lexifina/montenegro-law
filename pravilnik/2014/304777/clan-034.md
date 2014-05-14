@@ -1,0 +1,4 @@
+# Član 34
+Kad, na osnovu prikupljenih obavještenja i preduzetih drugih mjera i radnji, utvrdi da postoji osnovana sumnja da je izvršeno krivično djelo za koje se goni po službenoj dužnosti, policijski službenik sačinjava krivičnu prijavu, protiv poznatog ili nepoznatog učinioca, koju odmah dostavlja nadležnom državnom tužiocu.
+Izuzetno, kad policijski službenici liše slobode veći broj lica u teškim, složenim i značajnim predmetima, ta lica se mogu sprovesti nadležnom državnom tužiocu bez krivične prijave, odnosno samo uz službenu zabilješku o lišenju slobode, uz obavezu dostavljanja krivične prijave najkasnije u roku od 48 časova od časa lišenja slobode.
+Kad policijski službenik prikupi obavještenja i podatke koji ne predstavljaju biće krivičnog djela već prekršaja, podnijeće zahtjev za pokretanje prekršajnog postupka.

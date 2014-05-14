@@ -1,0 +1,5 @@
+# Član 229
+Kad okolnosti ukazuju na postojanje uslova za zakonitu upotrebu vatrenog oružja, policijski službenik vatreno oružje priprema za upotrebu stavljanjem metka u cijev prije nego što izda upozorenje na način iz člana 79 Zakona. Policijski službenik postavlja se u položaj koji mu je u datim okolnostima najbezbjedniji i omogućava sigurnu upotrebu vatrenog oružja i usmjerava oružje prema licu prema kome namjerava da ga upotrijebi.
+Ukoliko okolnosti to dopuštaju, odnosno ne dovodi se u pitanje bezbjednost ljudi i izvršenje službenog zadatka, prije upotrebe vatrenog oružja policijski službenik upozorava lice prema kome će upotrijebiti oružje povikom: "Stoj, policija, pucaću!"
+Poslije datog usmenog upozorenja, kad to okolnosti dopuštaju, policijski službenik pucanjem u vazduh upozorava lice o namjeri da upotrijebi vatreno oružje kao sredstvo prinude.
+Za vrijeme dok je oružje spremno za upotrebu policijski službenik ne smije da ga usmjerava prema drugim licima, a po prestanku okolnosti iz stava 1 ovog člana dužan je da bez odlaganja oružje ukoči i izvrši njegovo pražnjenje radi pripreme za bezbjedno nošenje.

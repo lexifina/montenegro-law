@@ -1,0 +1,2 @@
+# Član 166
+Ako se prilikom vršenja kontrole lica iz člana 164 ovog pravilnika, lice koje je izvršilo prekršaj pozove na diplomatski imunitet, policijski službenik će radi potvrđivanja te činjenice od tog lica odmah zatražiti na uvid ispravu kojom dokazuje diplomatski imunitet, i u što kraćem vremenu uzeti osnovne podatke o licu, broj i rok važenja isprave, kao i naziv organa koji je ispravu izdao.

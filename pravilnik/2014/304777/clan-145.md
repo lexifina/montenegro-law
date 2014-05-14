@@ -1,0 +1,7 @@
+# Član 145
+Policijski službenik zaustavljenom vozilu prilazi na način koji je najbezbjedniji po njega, vozača i putnike u vozilu i druge učesnike u saobraćaju, odnosno prilazi vozilu sa zadnje strane i staje neposredno iza vrata vozača, kako bi za vrijeme kontrole mogao da prati ponašanje vozača i putnika u vozilu.
+Policijski službenik treba da vodi računa da zauzme takav položaj da vozač naglim otvaranjem vrata ne bi mogao da ga napadne, odnosno povrijedi.
+Ukoliko kontrolu saobraćaja na putevima vrše dva policijska službenika, drugi policijski službenik zauzima položaj sa suprotne strane vozila od policijskog službenika koji prilazi vozaču na mjestu sa kojeg može da prati ponašanje suvozača i putnika u vozilu.
+Učesnika u saobraćaju na putevima policijski službenik pozdravlja policijskim pozdravom rukom i riječima, nakon čega mu saopštava razlog zaustavljanja i/ili predočava počinjeni prekršaj, upozorava lica koja se nalaze u vozilu da vozilo ne smiju napuštati, osim po njegovom pozivu ili odobrenju, kao i da se vozač može uključiti u saobraćaj tek kad mu policijski službenik to odobri.
+Policijski službenik od vozača traži da pokaže i preda na uvid isprave kojima dokazuje da ispunjava uslove za upravljanje vozilom i da vozilo kojim upravlja ispunjava uslove za učešće u saobraćaju.
+Izuzetno, policijski službenik, u slučajevima propisanim zakonom od vozača ili putnika zahtjeva da izađe iz vozila samo kad je to neophodno radi preduzimanja službenih radnji koje nije moguće izvršiti dok se lice nalazi u vozilu.

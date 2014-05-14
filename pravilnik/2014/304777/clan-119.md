@@ -1,0 +1,4 @@
+# Član 119
+Pozornički rejon, po pravilu, obuhvata određeni broj ulica, ili trg sa okolnim ulicama, ili samo jednu, odnosno više ulica, a može obuhvatati i samo jedan objekat i prostor koji pripada tom objektu (željeznička ili autobuska stanica, luka, pristanište, kamp, plaža i sl.).
+Patrolni rejon, po pravilu, obuhvata prigradsko naselje, određeni broj sela i nenaseljenih predjela koji tim selima gravitiraju, dio magistralnog puta, a može obuhvatiti jedan određen putni pravac ili više putnih pravaca.
+Broj i veličina pozorničkih i patrolnih rejona u okviru bezbjednosnog sektora utvrđuju se prema broju i značaju objekata, gustini naseljenosti, saobraćajnim problemima, stanju javnog reda i mira, vrsti, broju i učestalosti krivičnih djela i prekršaja i drugim okolnostima od značaja za bezbjednost.

@@ -1,0 +1,10 @@
+# Član 160
+Policijski službenik kontrolu brzine kretanja vozila ručnim laserskim uređajima za mjerenje brzine kretanja vozila može vršiti samo u vrijeme i na mjestima određenim u pisanom nalogu za izvršenje službenog zadatka.
+U pisanom nalogu za izvršenje službenog zadatka obavezno se upisuju konkretan zadatak kontrole brzine, mjesto rada, vrijeme rada, ograničenje brzine na navedenoj dionici i podatak da li se radi o putu u naselju ili van naselja.
+Policijski službenik prije početka rada sa ručnim laserskim uređajem za mjerenje brzine kretanja vozila vrši potrebna podešavanja i rukuje uređajem, u skladu sa uputstvom za upotrebu.
+Ukoliko se ručni laserski uređaj za mjerenje brzine kretanja vozila koristi sa postoljem, policijski službenik uređaj postavlja na bezbjedno mjesto van kolovoza, u položaju i na način da može na vrijeme izvršiti mjerenje brzine vozila i blagovremeno i bezbjedno izvršiti zaustavljanje vozila davanjem propisanog znaka.
+Ukoliko je ručni laserski uređaj za mjerenje brzine kretanja vozila opremljen sa štampačem, u toku rada štampač treba da bude povezan sa uređajem i postavljen na za to predviđeno mjesto na postolju, a za svako utvrđeno prekoračenje dozvoljene brzine kretanja vrši se štampanje grafičkog ispisa.
+Ukoliko se ručni laserski uređaj za mjerenje brzine kretanja vozila koristi bez postolja, odnosno mjerenje se vrši iz ruke, štampač treba da bude povezan sa uređajem i da se drži na opasaču policijskog službenika ili na drugi odgovarajući način.
+Izuzetno, ukoliko su uređaj i štampač povezani putem bežične veze, policijski službenik štampač može postaviti i na drugo mjesto koje omogućava štampanje grafičkog ispisa (u službenom vozilu ili na njemu i slično).
+Kad evidentira prekršaj prekoračenja dozvoljene brzine kretanja vozila, policijski službenik, po pravilu, vrši štampanje dva primjerka grafičkog ispisa, od kojih jedan uručuje vozaču koji je počinio prekršaj.
+Ukoliko u toku rada dođe do kvara štampača uređaja, policijski službenik o tome sačinjava službenu zabilješku i nastavlja rad sa uređajem bez štampača.

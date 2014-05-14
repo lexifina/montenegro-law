@@ -1,0 +1,3 @@
+# Član 139
+Prilikom vršenja kontrole saobraćaja na putevima, policijski službenik sve mjere i radnje preduzima sa dužnom pažnjom i poštovanjem, starajući se o dostojanstvu svakog lica, da lice ne bude u neprimjerenom položaju i izloženo nepovoljnim atmosferskim prilikama (kiši, snijegu, jakom vjetru, izrazito niskoj ili visokoj temperaturi i dr.).
+Policijski službenik može zahtijevati da kontrolisano lice sjedne u službeno vozilo ako je to neophodno radi preduzimanja službene radnje koja se na drugi način ne može izvršiti ili čije bi izvršenje na drugi način bilo otežano, pri tome vodeći računa o sopstvenoj bezbjednosti.

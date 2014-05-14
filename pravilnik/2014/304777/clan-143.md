@@ -1,0 +1,6 @@
+# Član 143
+Ukoliko na autoputu i putu rezervisanom za saobraćaj motornih vozila postoje pogodna proširenja (parkirališta ili druge površine), policijski službenik na tim mjestima može vršiti zaustavljanje i kontrolu saobraćaja nakon što se saobraćajni tok prethodno preusmjeri na proširenje.
+Proširenja iz stava 1 ovog člana treba da budu takvih dimenzija i oblika da na njima postoji prostor za nesmetan i bezbjedan protok preusmjerenog saobraćajnog toka sve do njegovog ponovnog uključenja u saobraćaj i prostor za bezbjedno zaustavljanje i kontrolu vozila, odnosno vozača.
+Preusmjeravanje saobraćaja na način iz stava 1 ovog člana, policijski službenik vrši postavljanjem privremene saobraćajne signalizacije, a po potrebi i neposrednim regulisanjem saobraćaja.
+Saobraćajna signalizacija iz stava 3 ovog člana, treba da bude postavljena tako da je vozači mogu blagovremeno uočiti i da omogući postepeno i bezbjedno usporavanje saobraćajnog toka i bezbjedno skretanje vozila na proširenje.
+Kontrola saobraćaja na putevima sprovodi se po planu koji sačinjava nadležna organizaciona jedinica, i sadrži: skicu mjesta na kojem se vrši kontrola saobraćaja, situacioni plan privremene saobraćajne signalizacije, skicu načina obilježavanja prostora za skretanje preusmjerenog saobraćajnog toka i prostora za zaustavljanje i kontrolu saobraćaja na proširenju.

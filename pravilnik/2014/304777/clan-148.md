@@ -1,0 +1,4 @@
+# Član 148
+Policijski službenik radi utvrđivanja prisustva alkohola, droga i/ili psihoaktivnih supstanci, odnosno prilikom postupanja u skladu sa članom 291 Zakona o bezbjednosti saobraćaja na putevima, daje vozaču uputstva o načinu korišćenja i postupku ispitivanja pomoću odgovarajućih sredstava i aparata i upozorava ga na posljedice odbijanja podvrgavanja ispitivanju.
+Policijski službenik vrši potrebna podešavanja sredstava i aparata iz stava 1 ovog člana i rukuje sa njima u skladu sa uputstvom za upotrebu.
+Policijski službenik ne smije dodirivati djelove sredstava i aparata iz stava 1 ovog člana koji su namijenjeni za jednokratnu upotrebu i dolaze u dodir sa ustima kontrolisanog lica (usnici za alkometar, štapići za uzimanje uzoraka pljuvačke, znoja i slično) nakon njihovog raspakivanja i može ih upotrijebiti samo za jedno ispitivanje.

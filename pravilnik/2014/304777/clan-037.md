@@ -1,0 +1,3 @@
+# Član 37
+Poslije podnošenja krivične prijave, policijski službenik, nastaviće sa prikupljanjem obavještenja i preduzimanjem potrebnih mjera i radnji u cilju otkrivanja nepoznatog učinioca, odnosno saučesnika i drugih krivičnih djela poznatog učinioca.
+Ukoliko policijski službenik poslije podnošenja krivične prijave sazna za nove činjenice u odnosu na krivično djelo, učinioca ili saučesnika, dokaze ili tragove krivičnog djela, dužan je da samoinicijativno ili na zahtjev nadležnog državnog tužioca prikupi potrebna obavještenja, i o tome sačini izvještaj koji mu, sa prilozima, dostavlja kao dopunu krivične prijave.

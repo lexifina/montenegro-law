@@ -1,0 +1,11 @@
+# Član 163
+Prilikom vršenja poslova kontrole saobraćaja na putevima, policijski službenici koriste tehnička sredstva i aparate za utvrđivanje prekršaja, vršenje potrebnih provjera za lica i vozila i vršenje drugih poslova i zadataka iz svoje nadležnosti, i to:
+- mjerne uređaje za mjerenje brzine kretanja vozila, prisustva alkohola u organizmu, GPS lokatore i sl.;
+- indikatore za prisustvo opojnih droga ili psihoaktivnih supstanci, i
+- uređaje za pristup službenim evidencijama, vršenje potrebnih provjera i unos podataka (prenosni računari, GPRS uređaji i sl.).
+Policijski službenik prilikom rada sa sredstvima i aparatima iz stava 1 ovog člana postupaju i rukuju u skladu sa uputstvom za upotrebu.
+Mjernim uređajima za mjerenje brzine kretanja vozila i prisustva alkohola u organizmu, po pravilu, rukuje policijski službenik koji je vođa patrole, odnosno prvi naveden u pisanom nalogu za izvršenje službenog zadatka.
+U pisanom nalogu za izvršenje službenog zadatka obavezno se navodi vrsta i serijski broj aparata, a za mjerne uređaje za mjerenje brzine kretanja vozila i prisustva alkohola u organizmu policijski službenik navodi od kojeg do kojeg broja testa je vršio mjerenje u toku svoje smjene.
+U slučaju ustupanja sredstava i aparata iz stava 1 ovog člana drugim nadležnim organizacionim jedinicama, o tome se sačinjava zapisnik o primopredaji u kojem se navodi datum i čas predaje uređaja i posljednji iskorišćeni broj testa, ukoliko je riječ o mjernom uređaju.
+Ukoliko policijski službenici u toku smjene ustupaju sredstva i aparate iz stava 1 ovog člana drugim policijskim službenicima iz iste ili drugih organizacionih jedinica ili za njih vrše uslužne provjere i mjerenja, dužni su da to konstatuju u pisanom nalogu za izvršenje službenog zadatka, a ukoliko se radi o mjernom uređaju za mjerenje brzine kretanja vozila i prisustva alkohola u organizmu, navešće i od kojeg do kojeg broja testa su vršena mjerenja.
+Policijski službenici prilikom rukovanja sredstvima i aparatima iz stava 1 ovog člana, postupaju sa dužnom pažnjom, da ne bi došlo do oštećenja ili uništenja, a u slučaju neispravnosti, kvara ili oštećenja tih sredstava i aparata, policijski službenik koji ih je zadužio, o tome sačinjava službenu zabilješku.

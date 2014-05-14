@@ -1,0 +1,5 @@
+# Član 55
+Policijski službenik ne smije ulaziti u prostorije diplomatskih i konzularnih predstavništava, misija stranih država i predstavništava međunarodnih organizacija.
+Izuzetno, policijski službenik može, na osnovu odobrenja neposrednog rukovodioca ući u prostorije diplomatskih i konzularnih predstavništava, misija stranih država i predstavništava međunarodnih organizacija ako to zahtijeva šef diplomatskog i konzularnog predstavništva, šef misije i predstavništva međunarodne organizacije ili lice koje on odredi, uz prethodno pisano ovlašćenje i naknadno izdatu potvrdu o zahtjevu za ulazak policijskog službenika u ove prostorije.
+Prostorije misija stranih država su zgrade ili djelovi zgrada i okolno ograđeno zemljište koje se, bez obzira na vlasništvo, koristi za potrebe misije, uključujući i rezidenciju (stan) šefa misije.
+Prostorije diplomatskih i konzularnih predstavništava su zgrade ili djelovi zgrade i okolno ograđeno zemljište koje, bez obzira na vlasništvo, služi isključivo za njihove potrebe.

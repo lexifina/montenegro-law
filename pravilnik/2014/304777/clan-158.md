@@ -1,0 +1,2 @@
+# Član 158
+U slučaju kad vozač vozila isključenog iz saobraćaja koje nije registrovano ili kojem je istekao rok važenja saobraćajne dozvole ili rok važenja probnih tablica ne izvrši naredbu o predaji registarskih tablica, policijski službenik angažovaće stručno lice da o trošku vozača skine registarske tablice i zatražiti od tog lica da izda račun za izvršeno skidanje registarskih tablica, koji će se priložiti nadležnom sudu, uz zahtjev za pokretanje prekršajnog postupka.

@@ -1,0 +1,5 @@
+# Član 140
+Kad je u vršenju poslova kontrole saobraćaja na putevima potrebno da se određeno vozilo zaustavi, policijski službenik prije davanja propisanog znaka treba da izabere najpogodnije i najbezbjednije mjesto za zaustavljanje vozila, a koje se nalazi izvan kolovoza.
+Izuzetno od stava 1 ovog člana, vozilo se može zaustaviti i na kolovozu, ako su gustina saobraćajnog toka, širina kolovoza i uslovi saobraćaja takvi da ne dolazi do ugrožavanja bezbjednosti policijskog službenika i učesnika u saobraćaju, i ako ne postoji mogućnost zaustavljanja van kolovoza.
+Ukoliko policijski službenici kontrolu saobraćaja obavljaju službenim vozilom, na mjestu na kojem se vrši zaustavljanje vozila službeno vozilo se bezbjedno parkira izvan kolovoza.
+Prilikom zaustavljanja vozila policijski službenik stoji uz desnu ivicu kolovoza gledano u pravcu kretanja vozila koje zaustavlja, a na putu sa jednosmjernim saobraćajem može stajati i uz lijevu ivicu kolovoza, ako je to, s obzirom na uslove, pogodnije sa stanovišta bezbjednosti i neometanog odvijanja saobraćaja.

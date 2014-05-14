@@ -1,0 +1,3 @@
+# Član 213
+Policijski službenik izdaje potvrdu korisniku, odnosno vlasniku saobraćajnog sredstva ili sredstva veze, o upotrebi njegovog saobraćajnog sredstva ili sredstva veze, i uputiti ga na pravo naknade troškova istvarne štete prouzrokovane upotrebom ovih sredstava.
+U potvrdi o upotrebi tuđeg saobraćajnog sredstva naznačiće se podaci o vozilu koje je upotrijebljeno, broj pređenih kilometara, vrijeme za koje je vozilo bilo upotrijebljeno, da li je bilo oštećenja na vozilu za vrijeme upotrebe i razlozi upotrebe, a za upotrebu sredstava veze podaci o vrsti upotrijebljenog sredstva, vrijeme i razlozi upotrebe.

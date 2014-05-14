@@ -1,0 +1,8 @@
+# Član 171
+Neposredno regulisanje saobraćaja policijski službenik vrši na raskrsnici ili drugom mjestu na putu, unakrsnim, naizmjeničnim ili mješovitim (kombinovanim) propuštanjem saobraćajnih tokova, odnosno zabranom odvijanja saobraćaja.
+Unakrsno regulisanje saobraćaja vrši se na raskrsnicama na kojima nijesu postavljeni uređaji za davanje svjetlosnih saobraćajnih znakova, u vrijeme intenzivnih saobraćajnih tokova vozila i pješaka i vrši se na način da se dozvoljava saobraćajni tok vozila iz jednog pravca koji se ukršta sa saobraćajnim tokom vozila iz drugog pravca, kojem je u tom momentu zabranjen prolaz.
+Naizmjenično propuštanje saobraćajnih tokova vrši se na dijelu puta ili ulice gdje je iz različitih razloga (saobraćajna nezgoda, radovi na putu, oštećenje kolovoza, odron ili druga prepreka na putu i sl.) došlo do suženja ili zauzimanja dijela kolovoza, tako da se ne može istovremeno odvijati saobraćaj u oba smjera.
+Mješovito (kombinovano) regulisanje saobraćaja vrši se na raskrsnici sa semaforima, kad u vrijeme povećanog saobraćajnog opterećenja, uspostavljeni režim rada semafora ne zadovoljava potreban nivo prohodnosti saobraćaja, odnosno u uslovima zastoja ili zagušenja saobraćaja na raskrsnici.
+Prilikom regulisanja saobraćaja na raskrsnici sa uređajima za davanje svjetlosnih saobraćajnih znakova, policijski službenik će, kad za to postoje tehničke mogućnosti, izmijeniti režim rada tih uređaja tako da emituju žuto trepćuće svijetlo.
+Prelazak sa jednog na drugi način regulisanja saobraćaja policijski službenik vrši u vrijeme i na način koji je najpovoljniji za bezbjednosti saobraćaja na putevima i ličnu bezbjednosti.
+Ako više policijskih službenika neposredno regulišu saobraćaj, znaci koje daju moraju biti međusobno usklađeni.

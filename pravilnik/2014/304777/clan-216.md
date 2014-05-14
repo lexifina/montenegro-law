@@ -1,0 +1,2 @@
+# Član 216
+Policijski službenik će bez odlaganja pružiti prvu pomoć ili obezbjediti pružanje ljekarske pomoći vidno povrijeđenom licu prema kome su upotrijebljena sredstva prinude o čemu će se obavijestiti njegova porodica ili drugi srodnici. Pomoć će se pružiti, odnosno obezbijediti i na zahtjev lica koje je prethodno tu pomoć odbilo. Pružanje ljekarske pomoći ponudiće se i licu na kome nema vidljivih povreda.

@@ -1,0 +1,3 @@
+# Član 175
+Policijski službenik će, u skladu sa zakonom, usmeno narediti vozaču, korisniku, odnosno vlasniku vozila da premjesti i propisno parkira vozilo na pogodno mjesto, u slučaju preduzimanja izuzetno hitnih mjera iz oblasti kriminaliteta, javnog reda i mira, bezbjednosti saobraćaja, obezbjeđenja lica ili objekata koji se posebno obezbjeđuju, otklanjanja neposredne opasnosti za život i zdravlje ljudi ili imovine, odnosno životne sredine.
+Ukoliko vozač, korisnik, odnosno vlasnik vozila nije prisutan ili odbije da premjesti vozilo, policijski službenik će bez odlaganja pozvati komunalnu policiju da vozilo premjesti na drugo mjesto upotrebom specijalnog motornog vozila za tu namjenu, odnosno izvršiće se premještanje vozila na drugi odgovarajući način.

@@ -1,0 +1,2 @@
+# Član 39
+Po dolasku na mjesto izvršenja krivičnog djela ili prekršaja, policijski službenik dužan je da preduzme mjere i radnje radi otklanjanja opasnosti po život i zdravlje ljudi ili imovinu i pružanja pomoći povrijeđenim licima ako ih ima, kao i da preduzme sve potrebne mjere da se očuva neizmijenjeno mjesto izvršenja krivičnog djela ili prekršaja, a naročito tragove i predmete koji mogu poslužiti kao dokazi.
