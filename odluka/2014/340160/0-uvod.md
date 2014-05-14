@@ -1,0 +1,3 @@
+Na osnovu člana 64 Zakona o privrednim društvima ("Sl. list CG", br. 6/02,17/07, 80/08, 40/10, 73/10, 36/11 i 40/11), člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, 88/09, 73/10 i 38/12 ), člana 13 Zakona o komunalnim djelatnostima ("Sl. list RCG", br. 12/95), člana 34 Statuta Opštine Plav ("Sl. list CG - Opštinski propisi", br. 17/07, 25/09 i 38/10), a u vezi sa članom 13 Zakona o unapređenju poslovnog ambijenta ("Sl. list CG", br. 40/10), Skupština opštine Plav, na sjednici održanoj 23.04.2014.godine, donijela je
+O D L U K U
+o osnivanju Društva sa ograničenom odgovornošću "Komunalne djelatnosti" Plav
