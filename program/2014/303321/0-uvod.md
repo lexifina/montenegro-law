@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 3 Zakona o lokalnoj samoupravi ("Sl. list RCG", broj 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 03/10, 73/10, 38/12 i 10/14), člana 20 stav 1 Zakona o poljoprivredi i ruralnom razvoju ("Sl. list CG", br. 56/09), člana 34 stav 1, tačka 3, Statuta Opštine Bijelo Polje ("Sl. list CG-Opštinski propisi", broj 32/13), Odluke o Budžetu Opštine Bijelo Polje za 2014.godinu ("Sl. list CG-Opštinski propisi", br. 3/14), Skupština opštine Bijelo Polje, na sjednici održanoj dana 03. i 04. aprila 2014. godine, donijela je
+P R O G R A M
