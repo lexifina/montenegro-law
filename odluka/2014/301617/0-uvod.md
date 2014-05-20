@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list CG", broj 88/09, 03/10 i 38/12), člana 32 Statuta Opštine Petnjica ("Sl. list CG - Opštinski propisi", br. 3/14) i člana 64 Privremenog Poslovnika Skupštine opštine Petnjica ("Sl. list CG - Opštinski propisi", broj 38/13), Skupština opštine Petnjica, na sjednici održanoj 20.05.2014. godine, donosi
+O D L U K U
