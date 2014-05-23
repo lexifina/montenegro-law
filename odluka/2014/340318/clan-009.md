@@ -1,0 +1,2 @@
+# Član 9
+Nosilac pripremnih poslova dužan je da obezbijedi saradnju sa svim organima, privrednim društvima, ustanovama i drugim pravnim licima nadležnim za poslove projekcije razvoja; vodoprivrede; elektroprivrede; saobraćaja; telekomunikacija; radio difuzije; zdravstva; odbrane zemlje; kulture; stambeno-komunalne djelatnosti; geodetske, geološke, geofizičke, seizmičke i hidrometeorološke poslove, poslove statistike; poljoprivrede, šumarstva, turizma, zaštite prirode, zaštite spomenika kulture i zaštite životne sredine.
