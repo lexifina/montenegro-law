@@ -1,0 +1,3 @@
+Na osnovu člana 117 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13 i 39/13), odredbi Odluke o načinu postavljanja i uklanjanja privremenih objekata na teritoriji Opštine Budva ("Službeni list Opštine Budva", broj 05/09) i člana 40 tačka 5 Statuta Opštine Budva ("Službeni list Crne Gore-Opštinski propisi", broj 19/10), Skupština opštine Budva, na sjednici održanoj dana 17., 28., 29., 30.aprila i 13. maja 2014. godine, donijela je
+O D L U K U
+o izmjeni i dopuni Plana postavljanja privremenih objekata za teritoriju Opštine Budva za
