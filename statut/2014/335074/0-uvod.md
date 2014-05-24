@@ -1,0 +1,2 @@
+Na osnovu Zakona o autorskom i srodnim pravima ("Službeni list CG" br. 37/11) i Zakona o nevladinim organizacijama ("Službeni list RCG", br. 27/99, 09/02, 30/02, "Službeni list CG", br. 11/07 i "Službeni list CG", br.39/11), Skupština NVO Organizacije za zaštitu prava autora muzike Crne Gore - PAM CG dana 08.09.2011 godine usvojila je Statut NVO Organizacije za zaštitu prava autora muzike Crne Gore - PAM CG a 12.06.2012 i 03.05.2014 izmjene i dopune Statuta - prečišćeni tekst
+S T A T U T NVO ORGANIZACIJE ZA ZAŠTITU PRAVA AUTORA MUZIKE CRNE GORE - PAM CG

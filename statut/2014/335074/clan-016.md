@@ -1,0 +1,5 @@
+# Član 16
+Organi PAM CG su:
+1) SKUPŠTINA;
+2) UPRAVNI ODBOR;
+3) IZVRŠNI DIREKTOR;
