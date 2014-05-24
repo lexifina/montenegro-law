@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi (" Sl. list RCG", br. 42/03 i 13/06, i "Sl. list CG", br. 88/09, 3/10 i 38/12), člana 42 stav 1 tačka 2 Statuta Opštine Ulcinj ("Sl. list CG-Opštinski propisi", br. 5/07,09/09 i 16/11), a u vezi člana 32 Porodičnog zakona ("Sl. list RCG", broj 1/07), Skupština Opštine Ulcinj je na sjednici održanoj 28.04.2014. godine, donijela je
+O D L U K U
