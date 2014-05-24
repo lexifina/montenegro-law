@@ -1,0 +1,3 @@
+# Član 4
+Spisak Droga i prekursora za koje dozvole za izvoz odnosno uvoz izdaje Agencija za ljekove i medicinska sredstva ili organ državne uprave nadležan za poslove zaštite zdravlja ljudi, dat je u Prilogu 2 - Spisak droga, psihotropnih supstanci i bilja koje se može koristiti za proizvodnju droga i Prilogu 3 - Spisak prekursora, koji su sastavni dio Kontrolne liste.
+Carinski organi, prilikom carinjenja robe koja je navedena u Spisku droga, psihotropnih supstanci i bilja koja se može koristiti za proizvodnju droga i spisku prekursora, kontrolišu da li se ta roba carini preko carinarnice koja je navedena u dozvoli Agencije za ljekove i medicinska sredstva ili dozvoli koju izdaje organ državne uprave nadležan za poslove zaštite zdravlja ljudi.

@@ -1,0 +1,3 @@
+# Član 7
+Na izdavanje dozvola za izvoz odnosno uvoz otpada, primjenjuju se odredbe Zakona o upravljanju otpadom ("Službeni list CG", broj 64/11), Zakona o potvrđivanju Bazelske konvencije o kontroli prekograničnog kretanja opasnih otpada i njegovom odlaganju ("Službeni list SRJ", Međunarodni ugovori, broj 2/99) i Pravilnika o bližem sadržaju dokumentacije koja se podnosi uz zahtjev za izdavanje dozvole za uvoz, izvoz i tranzit otpada kao i listi klasifikacije otpada ("Službeni list CG", broj 71/10).
+Spisak otpada čiji je uvoz zabranjen, odnosno otpada za koji se izdaju dozvole za izvoz odnosno uvoz, dat je u Prilogu 5 koji je sastavni dio Kontrolne liste.
