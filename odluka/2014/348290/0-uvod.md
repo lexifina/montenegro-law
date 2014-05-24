@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", br. 88/09, 3/10, 38/12 i 10/14), člana 105 Zakona o socijalnoj i dječjoj zaštiti ("Sl. list RCG", br. 27/13) i člana 33 Statuta Opštine Berane ("Sl. list RCG - Opštinski propisi", br. 21/04 i 34/06 i "Sl. list CG-Opštinski propisi", broj 6/11), Skupština opštine Berane, na sjednici održanoj 5. maja 2014. godine, donosi
+O D L U K U
