@@ -1,0 +1,2 @@
+# Član 6
+Poslove izdavanja urbanističko tehničkih uslova za izgradnju objekata od javnog interesa po uslovima iz ove odluke, i ostale poslove radi realizacije izgradnje, obavljaće kao prioritetne nadležni Sekretarijat za prostorno planiranje i održivi razvoj a investiciono tehnička dokumentacija će se izraditi na osnovu Elaborata eksproprijacije-ustanovljavanja službenog prolaza radi izgradnje objekata za prečišćavanje otpadnih voda sa UT uslovima, koje je uradio " PRO ING" AD za projektovanje i inžinjering Novi Sad, broj 325 od 7.03.2014. godine.
