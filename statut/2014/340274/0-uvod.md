@@ -1,0 +1,3 @@
+Na osnovu člana 77 Zakona o privrednim društvima ("Službeni list RCG", br. 06/02 i "Službeni list CG", br. 17/07, 80/08, 40/10, 73/10, 36/11 i 40/11), člana 11 Odluke o osnivanju društva sa ograničenom odgovornošću "Sportsko rekreativni centar Budva" Budva ("Službeni list CG - Opštinski propisi", br. 05/14) i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10), Skupština opštine Budva, na sjednici održanoj dana 17., 28., 29., 30.aprila i 13. maja 2014. godine, donijela je
+S T A T U T
+Društva sa ograničenom odgovornošću "Sportsko rekreativni centar Budva"
