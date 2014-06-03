@@ -1,0 +1,3 @@
+Na osnovu člana 13, stav 3 i člana 22 Zakona o putevima ("Sl.list RCG", br. 42/04 i "Sl.list CG", br. 21/09, 54/09 i 36/11), člana 58 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl.list CG", br. 88/09, 03/10, 73/10, 38/12 ), člana 5 st. 1 tačka 6 Zakona o finansiranju lokalne samouprave ("Sl.list RCG", br. 42/03, 44/03 i "Sl.list CG", br. 5/08,51/08, 74/10), člana 58, stav 1, tačka 25 Statuta Opštine Plav ("Sl.list RCG - Opštinski propisi", br.
+17/07 i "Sl.list CG - Opštinski propisi", br. 25/09 i 38/10), Predsjednik Opštine Plav donosi
+O D L U K U o izmjenama Odluke o korišćenju i naknadi za korišćenje puta i putnog zemljišta pored
