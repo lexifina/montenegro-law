@@ -1,0 +1,2 @@
+Na osnovu člana 31 tačka 18 Statuta Opštine Plužine ("Sl. list RCG - Opštinski propisi", br. 23/04 i 7/07 i "Sl. list CG- Opštinski propisi", br. 1/11, 8/11 i 22/11), a u vezi sa članom 56 i 151b Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", br. 88/09, 3/10, 38/12 i 10/14), Skupština opštine Plužine, na sjednici održanoj dana 05.06.2014. godine, donijela je
+O D L U K U
