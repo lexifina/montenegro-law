@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2, člana 34 stav 3 Zakona o državnoj imovini ("Sl. list CG", br. 21/09 i 40/11), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/04 i "Sl. list CG", br. 88/09, 3/10, 73/10, 38/12 i 10/14), člana 71 i 75 stav 3 Statuta Prijestonice ("Sl. list CG - Opštinski propisi", br. 19/09, 37/10 i 36/13), i člana 5 Odluke o valorizaciji građevinskog zemljišta kroz izgradnju stambeno - poslovnog objekta po modelu javno - privatnog partnerstva ("Sl. list CG-Opštinski propisi", br. 15/13), Skupština Prijestonice, na sjednici održanoj dana 30.05.2014. godine, donijela je
+O D L U K U
+o prenosu prava i obaveza Prijestonice iz Ugovora o javno-privatnom partnerstvu UZZ broj
