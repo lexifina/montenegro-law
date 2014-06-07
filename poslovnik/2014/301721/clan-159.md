@@ -1,0 +1,3 @@
+# Član 159
+Predstavnicima nevladinih organizacija koji učestvuju u radu sjednice dostavlja se poziv za sjednicu sa materijalom za tačku dnevnog reda po kojoj učestvuju, najkasnije 5 dana prije održavanja sjednice.
+Obavještenje o predstavnicima nevladinih organizacija koji će po pojedinim tačkama dnevnog reda prisustvovati sjednici Skupštine, objavljuje se na web sajtu Opštine ako za to postoje uslovi.
