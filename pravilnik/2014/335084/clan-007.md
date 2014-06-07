@@ -1,0 +1,3 @@
+# Član 7
+## Nadležnost
+Zahtjev za obnavljanje licence nastavnik koji realizuje predškolsko vaspitanje i obrazovanje, osnovno obrazovanje i vaspitanje, opšte srednje obrazovanje, vaspitanje i obrazovanje u resursnom centru i vaspitanje u domu učenika, odnosno domu učenika i studenata, direktor i pomoćnik direktora predškolske ustanove, osnovne škole, gimnazije, resursnog centra i obrazovnog centra podnosi Zavodu, a nastavnik koji realizuje stručno obrazovanje, obrazovanje odraslih kod organizatora obrazovanja odraslih, direktor i pomoćnik direktora stručne škole, mješovite škole i organizatora obrazovanja odraslih podnosi Centru.
