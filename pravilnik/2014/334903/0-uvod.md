@@ -1,0 +1,2 @@
+Na osnovu člana 5 stav 4 i člana 14 stav 4 Zakona o obezbjeđivanju krvi ("Službeni list CG ", broj 1/14), Ministarstvo zdravlja donijelo je
+PRAVILNIK O BLIŽIM USLOVIMA U POGLEDU PROSTORA, KADRA I OPREME ZAVODA ZA TRANSFUZIJU KRVI CRNE GORE I STANDARDIMA I MJERAMA ZA USPOSTAVLJANJE I ODRŽAVANJE SISTEMA KVALITETA *

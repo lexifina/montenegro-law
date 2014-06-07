@@ -1,0 +1,2 @@
+# Član 5
+Prostor u kojem Zavod obavlja postupke iz člana 1 ovog pravilnika, kao i prostor u kojem se vrši prikupljanje krvi na terenu od strane mobilnih timova, treba da je prilagođen postupcima koji se u njemu vrše, sa rasporedom prostorija koje obezbjeđuju logičan tok radnih procesa, kako bi se rizik od greške i kontaminacije sveo na najmanju moguću mjeru, uz održavanje odgovarajućeg nivoa higijene.

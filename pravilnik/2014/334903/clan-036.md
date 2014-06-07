@@ -1,0 +1,3 @@
+# Član 36
+U svim fazama postupaka iz člana 1 ovog pravilnika kese u kojima se nalazi prikupljena krv, komponente krvi koje se nalaze u procesu pripreme (polufinalne komponente krvi), komponente krvi koje su pripremljene za upotrebu (finalne komponente krvi) i uzorci krvi za testiranje obilježavaju se na način koji identifikuje njihov sadržaj i obezbjeđuje sljedljivost, u skladu sa propisom kojim se uređuje obilježavanje krvi i komponenti krvi.
+Ukoliko ne postoji validirani informacioni sistem, obezbjeđuje se obiljžavanje kesa za kontrolu statusa - razlikovanje izdatih i neizdatih jedinica krvi i kompomenti krvi, kao i obilježavanje autologne krvi i komponenti krvi, u skladu zakonom.

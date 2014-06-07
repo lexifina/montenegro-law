@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom bliže se propisuju uslovi u pogledu prostora, kadra i opreme Zavoda za transfuziju krvi Crne Gore (u daljem tekstu: Zavod), kao i standardi i mjere za uspostavljanje i održavanje sistema kvaliteta u postupku prikupljanja i testiranja krvi i ko- mponenti krvi, bez obzira na njihovu namjenu, kao i u postupku prerade, skladištenja i distribucije krvi i komponenti krvi koje su namijenjene za alogenu ili autolognu transfuziju.
