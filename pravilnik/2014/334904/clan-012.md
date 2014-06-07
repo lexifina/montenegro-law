@@ -1,0 +1,4 @@
+# Član 12
+1) Klupska radioamaterska stanica može raditi samo u klasi imenovanog odgovornog radioamatera ili predsjednika Kluba.
+2) Radioamateri, koji imaju položen Ispit za N i E klasu, mogu upotrebljavati klupsku radioamatersku stanicu samo za održavanje radio komunikacija na radio-frekvencijskim opsezima i sa dopuštenim vrstama i tipovima emisija, vrstama prenosa i snagama predajnika namijenjenim za N i E klasu.
+3) Radioamateri, koji imaju položen Ispit za N klasu, mogu upotrebljavati klupsku radioamatersku stanicu za održavanje radio komunikacija na radio-frekvencijskim opsezima i sa dopuštenim vrstama i tipovima emisija, vrstama prenosa i snagama predajnika namijenjenim za A klasu, samo uz prisustvo imenovanog odgovornog radioamatera, predsjednika Kluba ili radioamatera ovlašćenih od strane Kluba, a koji imaju položen Ispit za A klasu.
