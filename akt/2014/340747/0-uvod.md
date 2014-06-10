@@ -1,0 +1,2 @@
+Na osnovu člana 60 stav 2 i člana 66 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl.list CG", 88/09, 03/10, 38/12, 10/14) i člana 62 stav 2 Statuta Opštine Herceg Novi ("Sl. list RCG-Opštinski propisi", br. 15/04, 23/05, 31/06, 14/07, "Sl. list CG-Opštinski propisi", br. 16/09,16/11) Skupština opštine Herceg Novi, na sjednici održanoj 10.06.2014.godine, donosi
+Z A K L J U Č A K
