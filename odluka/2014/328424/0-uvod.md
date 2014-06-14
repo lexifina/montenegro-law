@@ -1,0 +1,2 @@
+Na osnovu člana 30 Statuta Opštine Kotor ("Sl. list Opštine Kotor", br. 3/04 i "Sl. list CG", br. 17/08, 1/09, 40/10 i 4/11) i člana 6 Odluke o organizovanju JP "Kotor" Kotor ("Sl. list SRCG- Opštinski propisi", br. 10/90, 21/91 i "Sl. list RCG - Opštinski propisi", br. 30/92 i 1/00 i "Sl. list Opštine Kotor", broj 1/00), Skupština opštine Kotor, na sjednici održanoj 28. 05. 2014. godine, donijela je
+O D L U K U
