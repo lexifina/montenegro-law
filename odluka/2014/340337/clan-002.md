@@ -1,0 +1,7 @@
+# Član 2
+Predmet prodaje je građevinsko zemljište i to:
+1. kat. parc.388/2 KO Lastva, koja po Detaljnoj razradi lokacije za konvertorsko postrojenje i trafostanicu- Lastva Grbaljska,predstavlja prilazni put ka Lokaciji UP2, površine 148 m2 a čija cijena po m2 iznosi 50 eura;
+2. kat. parc.389/2 KO Lastva, koja po Detaljnoj razradi lokacije za konvertorsko postrojenje i trafostanicu- Lastva Grbaljska,predstavlja prilazni put ka Lokaciji UP2, površine 117 m2 a čija cijena po m2 iznosi 40 eura;
+3. kat. parc.387/8 KO Lastva, koja po Detaljnoj razradi lokacije za konvertorsko postrojenje i trafostanicu- Lastva Grbaljsaka,predstavlja prilazni put ka Lokaciji UP2, površine 1215 m2, a čija cijena po m2 iznosi 80 eura;
+4. kat. parc.387/9 KO Lastva, koja po Detaljnoj razradi lokacije za konvertorsko postrojenje i trafostanicu- Lastva Grbaljska, predstavlja prilazni put ka Lokaciji UP2, površine 516 m2 a čija cijena po m2 iznosi 80 eura;
+Prenos prava svojine na nepokretnosti iz stava 1. ovog člana vrši se radi privođenja namjeni prilaznog puta ka UP 2 po Detaljnoj razradi lokacije za konvertorsko postrojenje i trafostanicu- Lastva Grbaljska.Sastavni dio ove Odluke čine Izvod iz Detaljnoj razradi lokacije za konvertorsko postrojenje i trafostanicu- Lastva Grbaljska, katastarska kopija plana, List nepokretnosti koji će biti i sastavni dio Javnog poziva za prenos prava svojine na građevinskom zemljištu.
