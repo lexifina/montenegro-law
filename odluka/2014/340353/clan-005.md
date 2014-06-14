@@ -1,0 +1,2 @@
+# Član 5
+PUP opštine Plav sadrži tekstualni, grafički dio i Izvještaj o strateškoj procjeni uticaja na životnu sredinu. Grafički dio čine prostorno-planski dio za teritoriju opštine Plav, u razmjeri 1:25000 i urbanističko-planski dio koji se sastoji od Generalnog urbanističkog rješenja opštinskog centra Plav i Generalnog urbanističkog rješenja lokalnog centra Gusinje i Generalnog urbanističkog rješenja lokalnog centra Murina.
