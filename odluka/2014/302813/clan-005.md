@@ -1,0 +1,6 @@
+# Član 5
+Namjena površina je data za svaku parcelu posebno kako je dato u grafičkom prilogu Plan namjene površina. Uz saglasnost opštinskog organa uprave koji je nadležan za planiranje i uređenje prostora prilikom donošenja ovog planskog dokumenta izvršena je prenamjena prostora za urbanističku parcelu 107 i glasi namjena Površine za zdravstvo (Z) se prenamjenjuje u mješovitu namjenu (MN).
+Takođe u dijelu javnih površina izvršiće se regulacija potoka I dobijeni prostor popločati I urediti uz sadržaje od opšteg javnog interesa.
+Parcelacija i preparcelacija zemljišta u području zahvata Plana vršiće se u skladu sa planom parcelacije datim u grafičkom prilogu Plan parcelecije, kao i smjernicama definisanim tekstualnim dijelom Plana.
+Parcelaciju i preparcelaciju zemljišta u području zahvata Plana sprovodi organ uprave nadležan za poslove katastra.
+Ukoliko se urbanistička parcela, koja je već određena ovim Planom, ne podudara sa postojećom katastarskom parcelom (ili parcelama), kao i u drugim opravdanim slučajevima kada je potrebno izvršiti manje usklađivanje urbanističke parcele sa zemljišno-knjižnim ili katastarskim stanjem, opštinski organ uprave nadležan za poslove uređenja prostora može izvršiti usklađivanje urbanističke parcele sa zemljišno-knjižnim ili katastarskim stanjem, prilikom izdavanja urbanističko-tehničkih uslova.

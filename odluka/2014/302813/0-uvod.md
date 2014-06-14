@@ -1,0 +1,2 @@
+Na osnovu člana 47 stav 3 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13 i 39/13), člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06, "Sl. list Crne Gore", br. 88/09, 03/10 i 38/12) i člana 32 stav 1 tačka 4 Statuta Opštine Petnjica ("Sl. list CG - Opštinski propisi", broj 3/14), Skupština opštine Petnjica, na sjednici održanoj dana 20.05.2014. godine, donijela je
+O D L U K U
