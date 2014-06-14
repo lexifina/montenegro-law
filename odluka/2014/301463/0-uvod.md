@@ -1,0 +1,2 @@
+Na osnovu člana 116 stav 3 Zakona o državnim službenicima i namještenicima ("Službeni list Crne Gore", br. 39/11 i 66/12), a u vezi sa članom 5 Uredbe o vrsti bližem sadržaju, načinu pripreme, donošenja i metodologije izrade programa stručnog osposobljavanja i usavršavanja državnih službenika i namještenika ("Službeni list Crne Gore", broj 59/13) i člana 69 stav 4 Statuta Opštine Budva ("Službeni list Crne Gore - Opštinski propisi", broj 19/10), Predsjednik Opštine donosi
+O D L U K U
