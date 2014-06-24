@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 17 i člana 56 stav 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 03/10, 38/12 i 10/14) i člana 31 stav 1 tačka 19 i člana 53 stav 2 Statuta Opštine Šavnik ("Sl. list RCG-Opštinski propisi", broj 36/04 i "Sl. list CG-Opštinski propisi", br. 24/08 i 36/10), Skupština opštine Šavnik, na sjednici održanoj dana 24.06.2014. godine, donijela je
+O D L U K U
