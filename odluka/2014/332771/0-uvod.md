@@ -1,0 +1,2 @@
+Na osnovu člana 30 Zakona o Glavnom gradu ("Sl. list RCG-Opštinski propisi", broj 65/05 i "Sl. list CG-Opštinski propisi", br. 88/09 i 72/10), te članova 23 stav 1 tač. 5 i 41 Statutarne odluke Gradske opštine Golubovci ("Sl. list RCG-Opštinski propisi", broj 14/07 i "Sl. list CG - Opštinski propisi", broj 24/11), Skupština Gradske opštine Golubovci na I-konstitutivnoj sjednici, održanoj dana 24.06.2014. godine, donijela je
+O D L U K U
