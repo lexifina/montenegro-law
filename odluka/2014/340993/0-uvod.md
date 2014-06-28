@@ -1,0 +1,2 @@
+Na osnovu člana 31 stav 2 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", broj 51/08, 34/11, 47/11, 35/13), i Programa uređenja prostora Opštine Žabljak za 2013. godinu (Sl. list CG -Opštinski propisi, br. 3/13 i člana 65 tačka 12 Statuta Opštine Žabljak ("Sl. list RCG - Opštinski propisi" br. 9/05 i 3/07 i " Sl. list CG - Opštinski propisi", br. 3/11), Predsjednik opštine Žabljak donosi
+O D L U K U
