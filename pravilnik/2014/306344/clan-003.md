@@ -1,0 +1,11 @@
+# Član 3
+Izrazi upotrijebljeni u ovom pravilniku imaju sljedeća značenja:
+1) ECAA Sporazum je Multilateralni sporazum između Evropske zajednice i njenih država članica i Republike Albanije, Bosne i Hercegovine, Republike Bugarske, Republike Hrvatske, Bivše Jugoslovenske Republike Makedonije, Republike Island, Republike Crne Gore, Kraljevine Norveške, Rumunije, Republike Srbije i Misije privremene uprave Ujedinjenih nacija na Kosovu (u skladu sa Rezolucijom Savjeta bezbjednosti UN 1244 od 10. juna 1999. godine) o uspostavljanju Zajedničkog evropskog vazduhoplovnog područja;
+2) Zajednica, propisi Zajednice, Ugovor o osnivanju Evropske zajednice, Službeni glasnik Evropske zajednice i države članice tumače se u skladu sa tačkama 2 i 3 Aneksa II ECAA Sporazuma;
+3) ICAO (International Civil Aviation Organization) je Međunarodna organizacija civilnog vazduhoplovstva;
+4) Nacionalna vazduhoplovna vlast, nadležni organ, nadležni organ države članice, nacionalni nadzorni organ ili nadležna vlast tumače se, kad je to primjenljivo, kao Agencija za civilno vazduhoplovstvo;
+5) Uredba (ЕZ) br. 549/2004 је Urеdbа Еvrоpskоg pаrlаmеntа i Sаvjеtа (ЕZ) br. 549/2004 оd 10. mаrtа 2004. gоdinе o utvrđivanju okvira za formiranje Jedinstvenog evropskog neba (Okvirnа urеdbа), kоја је prеuzеtа Pravilnikom o utvrđivanju okvira za formiranje jedinstvenog evropskog neba i poboljšanju efikasnosti i održivosti evropskog vazduhoplo vnog sistema ("Službeni list CG", broj 22/13);
+6) Uredba (ЕZ) br. 552/2004 је Urеdbа Еvrоpskоg pаrlаmеntа i Sаvjеtа (ЕZ) br. 552/2004 оd od 10. marta 2004. godine o interoperabilnosti Evropske mreže upravljanja vazdušnim saobraćajem (Uredba o interoperabilnosti), kоја је prеuzеtа Pravilnikom o interoperabilnosti evropske mreže za upravljanje vazdušnim saobraćajem i pоbоlјšаnju efikasnosti i оdrživоsti еvrоpskоg vаzduhоplоvnоg sistеmа (Sl.l. CG br. 22/2013);
+7) Data link je veza za prenos podataka za Jedinstveno evropsko nebo. Data link je način da se izmedu zemlje i vazduhoplova komunicira i razmjenom tekstualnih poruka, pored komunikacije glasom.
+8) Data link usluga je usluga veza za prenos podataka za Jedinstveno evropsko nebo.
+Ostali izrazi koji se koriste u ovom pravilniku imaju značenje koje je navedeno u članu 2, Priloga 1 ovog pravilnika.
