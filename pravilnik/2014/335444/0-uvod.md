@@ -1,0 +1,2 @@
+Na osnovu člana 7 stav 8, člana 10 stav 7, člana 11 stav 2, člana 12 stav 5, člana 13 stav 7 i člana 14 stav 5 Zakona o oznakama porijekla, geografskim oznakama i oznakama garantovano tradicionalnih specijaliteta poljoprivrednih i prehrambenih proizvoda ("Službeni list CG", broj 18/11), Ministarstvo poljoprivrede i ruralnog razvoja, donijelo je
+P R AV I L N I K O NAČINU REGISTROVANJA OZNAKE PORIJEKLA I GEOGRAFSKE OZNAKE POLJOPRIVREDNIH I PREHRAMBENIH PROIZVODA*

@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuje se bliži sadržaj i način podnošenja zahtjeva za registrovanje oznake porijekla ili geografske oznake, način podnošenja prigovora, sadržaj, oblik i način vodjenja registra oznake porijekla ili registra geografske oznake (u daljem tekstu: Registar), sadržaj zahtjeva za upis u evidenciju korisnika registrovanih oznaka porijekla i evidenciju korisnika registrovanih geografskih oznaka, sadžaj i način vođenja evidencije, postupak upisa i brisanja iz evidencije, način podnošenja zahtjeva za izmjenu specifikacije proizvoda, kao i oblik i sadržaj zahtjeva za ukidanje rješenja o registrovanju oznake porijekla ili geografske oznake.
