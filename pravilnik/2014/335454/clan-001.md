@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom utvrđuju se detaljna pravila za implementaciju mrežnih funkcija upravljanja vazdušnim saobraćajem (u daljem tekstu: ATM) u cilju omogućavanja optimalne upotrebe vazdušnog prostora u Jedinstvenom evropskom nebu i obezbjeđivanja korisnicima vazdušnog prostora korišćenje preferiranih putanja leta, pri čemu se omogućava maksimalan pristup vazdušnim prostorima i uslugama u vazdušnoj plovidbi.
