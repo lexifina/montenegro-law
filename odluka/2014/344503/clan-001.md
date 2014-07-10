@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za odustajanje od prava na žalbu u predmetu Posl.br.P.653/13
+Daje se saglasnost za odustajanje od prava na žalbu na presudu Privrednog suda u Podgorici Posl.br.P.653/13 od 18.06.2014.god. donijetoj u pravnoj stvari tužioca "Građevinar"doo Podgorica kojim se utvrđuje da je tužena Opština Tivat dužna da, iz osnova duga isplati tužiocu iznos od 1.593.859,oo€ sa zakonskom zateznom kamatom počev od 18.06.2014.god. do isplate kao i iznos od 234.319,62 na ime zakonske zatezne kamate obračunate od dospijeća potraživanja do dana izrade nalaza i troškove postupka u iznosu od 4.908,oo€ a sve u roku od osam dana po pravosnažnosti presude ,pod prijetnjom prinudnog izvršenja.
