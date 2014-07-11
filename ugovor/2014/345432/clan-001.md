@@ -1,0 +1,2 @@
+# Član 1
+Objavljuje se Odluka Zajedničkog komiteta Centralno-evropskog Sporazuma o slobodnoj trgovini br. 3/2013, o izmjenama i dopunama Aneksa 4 Centralno-evropskog Sporazuma o slobodnoj trgovini (CEFTA 2006), Protokol o definiciji pojma "proizvodi sa porijeklom" i metodama administrativne saradnje iz člana 14, stav 1 i 3, koja je usvojena u Sarajevu, 20. novembra 2013. godine, na engleskom jeziku.
