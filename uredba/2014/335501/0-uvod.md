@@ -1,0 +1,5 @@
+Na osnovu člana 20 stav 2 Zakona o energetici ("Službeni list CG", br. 28/10 i 6/13), Vlada Crne Gore na sjednici od 8. maja 2014. godine donijela je
+UREDBU
+O IZMJENI UREDBE O TARIFNOM SISTEMU ZA UTVRĐIVANjE PODSTICAJNE
+CIJENE ELEKTRIČNE ENERGIJE IZ OBNOVLjIVIH IZVORA ENERGIJE I
+VISOKOEFIKASNE KOGENERACIJE
