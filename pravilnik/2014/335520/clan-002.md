@@ -1,0 +1,2 @@
+# Član 2
+Procjena rizika za unošenje stranih divljih vrsta biljaka, životinja i gljiva i njihovih uzgojnih primjeraka i u slučaju ponovnog unošenja nestalih divljih vrsta i ponovnog unošenja nestalih autohtonih divljih vrsta biljaka, životinja i gljiva i njihovih uzgojnih primjeraka u ekosisteme, vrši se za svaku taksonomsku kategoriju posebno, uključujući i podvrstu, kao i za pojedinačne djelove biljaka, životinja ili gljiva i njihovih uzgojinih primjeraka koje su sposobne da se samostalno razmnožavaju na bilo koji način i za njihove gene.
