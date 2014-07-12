@@ -1,0 +1,170 @@
+OBRAZAC 1
+DNEVNA DOZVOLA ZA SPORTSKO REKREATIVNI RIBOLOV
+2014 godina
+DNEVNA DOZVOLA
+za sportsko-rekreativni ribolov
+Serijski broj: DD 0001
+__________________________________________
+Naziv izdavaoca dozvole
+Datum izdavanja_______________
+Visina naknade_______________
+(mp)
+______________
+Potpis izdavaoca
+Str.3
+2014 godina
+DNEVNA DOZVOLA
+za sportsko-rekreativni ribolov
+Serijski broj: DD 0001
+__________________________________________
+Naziv izdavaoca dozvole
+Datum izdavanja_______________
+Visina naknade_______________
+(mp)
+______________
+Potpis izdavaoca
+Str.1
+_________________________________
+Ime i prezime nosioca dozvole
+_________________________________
+Državljanstvo
+_________________________________
+Adresa prebivališta
+_________________________________
+Broj lične karte ili broj pasoša
+_________________________________
+Ribolovne vode za koje se izdaje dozvola
+_________________________________
+Ribolovna sredstva i alati
+_________________________________
+_________________________________
+_________________________________
+Ograničenja
+_________________________________
+Način ribolova
+Str.2
+_________________________________
+Ime i prezime nosioca dozvole
+_________________________________
+Državljanstvo
+_________________________________
+Adresa prebivališta
+_________________________________
+Broj lične karte ili broj pasoša
+_________________________________
+Ribolovne vode za koje se izdaje dozvola
+_________________________________
+Ribolovna sredstva i alati
+_________________________________
+_________________________________
+_________________________________
+Ograničenja
+_________________________________
+Način ribolova
+Str.4
+OBRAZAC 2
+VIŠEDNEVNA DOZVOLA ZA SPORTSKO REKREATIVNI RIBOLOV
+2014 godina
+VIŠEDNEVNA DOZVOLA
+za sportsko-rekreativni ribolov
+Serijski broj: VDD 0001
+__________________________________________
+Naziv izdavaoca dozvole
+Datum izdavanja_____________
+Datum isteka_____________
+Visina naknade_____________
+(mp)
+______________
+Potpis izdavaoca
+Str.3
+2014 godina
+VIŠEDNEVNA DOZVOLA
+za sportsko-rekreativni ribolov
+Serijski broj: VDD 0001
+__________________________________________
+Naziv izdavaoca dozvole
+Datum izdavanja_____________
+Datum isteka_____________
+Visina naknade_____________
+(mp)
+______________
+Potpis izdavaoca
+Str.1
+_________________________________
+Ime i prezime nosioca dozvole
+_________________________________
+Državljanstvo
+_________________________________
+Adresa prebivališta
+_________________________________
+Broj lične karte ili broj pasoša
+_________________________________
+Ribolovne vode za koje se izdaje dozvola
+_________________________________
+Ribolovna sredstva i alati
+Str.2
+_________________________________
+Ime i prezime nosioca dozvole
+_________________________________
+Državljanstvo
+_________________________________
+Adresa prebivališta
+_________________________________
+Broj lične karte ili broj pasoša
+_________________________________
+Ribolovne vode za koje se izdaje dozvola
+_________________________________
+Ribolovna sredstva i alati
+Str.4
+OBRAZAC 3
+GODIŠNJA DOZVOLA ZA SPORTSKO REKREATIVNI RIBOLOV
+2014 godina
+GODIŠNJA DOZVOLA
+za sportsko-rekreativni ribolov
+Serijski broj: GD 0001
+__________________________________________
+Naziv izdavaoca dozvole
+Datum izdavanja_______________
+Datum isteka_______________
+Visina naknade_______________
+(mp)
+______________
+Potpis izdavaoca
+Str.3
+2014 godina
+GODIŠNJA DOZVOLA
+za sportsko-rekreativni ribolov Serijski broj: GD 0001
+__________________________________________
+Naziv izdavaoca dozvole
+Datum izdavanja_______________
+Datum isteka_______________
+Visina naknade_______________
+(mp) ______________ Potpis izdavaoca
+Str.1
+_________________________________
+Ime i prezime nosioca dozvole
+_________________________________
+Državljanstvo
+_________________________________
+Adresa prebivališta
+_________________________________
+Broj lične karte ili broj pasoša
+_________________________________
+Ribolovne vode za koje se izdaje dozvola
+_________________________________
+Ribolovna sredstva i alati
+Str.2
+_________________________________
+Ime i prezime nosioca dozvole
+_________________________________
+Državljanstvo
+_________________________________
+Adresa prebivališta
+_________________________________
+Broj lične karte ili broj pasoša
+_________________________________
+Ribolovne vode za koje se izdaje dozvola
+_________________________________
+Ribolovna sredstva i alati
+Str.4
+OBRAZAC 4
