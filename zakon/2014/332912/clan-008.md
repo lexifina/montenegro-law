@@ -1,0 +1,4 @@
+# Član 8
+## Granice Nacionalnog parka "Biogradska gora"
+Nacionalni park "Biogradska gora" obuhvata djelove teritorije opština: Kolašin, Mojkovac i Berane, u granicama utvrđenim ovim zakonom.
+Granica Nacionalnog parka iz stava 1 ovog člana počinje sa ušća Bjelojevićke rijeke u rijeku Taru kota 832, preko Jarčevih strana izbija na poligon 2032, a odatle na kotu 2005. Granica zatim skreće u pravcu istoka i izlazi na greben iznad Šiškog jezera, pa u luku skreće i izlazi na Veliku Ostrovicu na kotu 1907, zahvatajući Veliki Ursulovac izlazi na Crnu Glavu - kota 2137. Odatle granica produžava u pravcu zapada izlazeći na kotu 1898, izlazi na Troglav, zatim produžava na katun Vranjak - kota 1787, skreće na sjevero-zapad na kotu 1890, katune Goleš i Crvenu gredu, izlazi na Donji lumer-kota 1728 i spušta se do Lumerskog potoka. Potom granica produžava do ušća Lumerskog potoka u Taru, skreće u pravcu sjevera i ide lijevom obalom rijeke Tare do početne tačke.
