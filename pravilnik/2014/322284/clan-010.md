@@ -1,0 +1,3 @@
+# Član 10
+## Prestanak primjene
+Danom stupanja na snagu ovoga pravilnika prestaje primjena Pravilnika o obilježavanju poletno-sletnih i drugih staza i pristanišne platforme na aerodromu ("Službeni list SFRJ", broj 47/79), odredbe koje se primjenjuju Pravilnika o načinu obilježavanja poletno-sletnih i drugih staza civilnih aerodroma i postavljanju znaka orijentacije na objekte u zoni civilnih aerodroma ("Službeni list SFRJ", broj 24/66), Pravilnika o održavanju objekata, opreme i instalacija od značaja za bezbjednost vazdušne plovidbe na aerodromu ("Službeni list SFRJ", broj 9/84) i Pravilnika o projektovanju, izgradnji i rekonstrukciji civilnih aerodroma i njihovoj klasifikaciji ("Službeni list SFRJ", br. 2/66 i 4/66)
