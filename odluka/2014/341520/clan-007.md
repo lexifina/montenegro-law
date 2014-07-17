@@ -1,0 +1,4 @@
+# Član 7
+Svi postojeći seoski jazovi koji su u upotrebi na području Opštine i za koje se u roku od 6(šest) mjeseci od stupanja na snagu ove odluke organu nadležnom za poslove vodoprivrede dostave podaci o trasi jaza sa spiskom i potpisima redovnika i spiskom parcela koje se navodnjavaju ovjereni od strane mjesne zajednice, proglašavaju se javnim objektima i nije dozvoljeno njihovo ukidanje ili zatvaranje na bilo koji način (zatrpavanje, mijenjanje pravca, podizanje objekata na njima ili u njihovoj neposrednoj blizini i dr.), čim bi se ometalo kretanje vode ili bio razlog za ometanje korišćenja kanala za navodnjavanje.
+Izgradnji novih kanala može se pristupiti poslije dobijanja saglasnosti od strane nadležnog organa lokalne samouprave za vodoprivredu.
+Zahtjev za dobijanje saglasnosti podnose korisnici vode.

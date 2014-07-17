@@ -1,0 +1,2 @@
+# Član 5
+Površinska voda koja nastaje od padavina, za vrijeme dugotrajnih kiša, ima svoje površinske tokove. Bujice i suhovare se ne smiju spriječavati ili usmjeravati u drugom pravcu, pogotovo ne na štetu drugoga (vlasnika zemljišta), nego imaju teći svojim tokom koji je ustaljen. U izuzetnim slučajevima, kada su ugroženi životi građana od površinske vode, smije se privremeno skrenuti tok bujice (ukoliko je to moguće) pravcem koji bi nanio najmanje štete na imovini drugih građana.
