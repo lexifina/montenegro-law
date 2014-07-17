@@ -1,0 +1,3 @@
+# Član 1
+## o prenosu prava raspolaganja na građevinsko zemljište na Pavićević Vidosavu
+Pavićević Vidosavi iz Nikšića prenosi se pravo raspolaganja na građevinsko zemljište za potrebe kompletiranja urbanističke parcele u skladu sa Odlukom o donošenju Urbanističkog projekta Gimnazije ("Službeni list RCG-Opštinski propisi", broj 18/94) i to na katastarskoj parceli broj 590/2, površine 119m2 upisana u listu nepokretnosti broj 787 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja opštine Nikšić, koja čini dio predmetne urbanističke parcele ukupne, površine 759 m2, na kojoj je predviđena izgradnja individualnog stambenog objekta.
