@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 1 tačka 36 Statuta Opštine Andrijevica ("Službeni list RCG - Opštinski propisi", br. 21/04, 42/06 i "Službeni list CG-Opštinski propisi", br. 02/11 i 21/13), čl. 13 i 14 Odluke o osnivanju d.o.o. "Komunalno" Andrijevica ("Službeni list Crne Gore-Opštinski propisi", broj 01/14), Skupština opštine Andrijevica, na sjednici održanoj dana 30.06.2014. godine, donijela je
+O D L U K U
