@@ -1,0 +1,4 @@
+# Član 1
+## o prenosu prava raspolaganja na građevinsko zemljište na Bugarski Ljeposavu
+Bugarski Ljeposavi iz Nikšića prenosi se pravo raspolaganja na građevinsko zemljište za potrebe formiranja urbanističke parcele u skladu sa Odlukom o Detaljnom urbanističkom planu Grudska mahala ("Službeni list RCG-Opštinski propisi", broj 09/95) i to na katastarskoj parceli broj 485/5, po kulturi dvorište površine 312 m2, upisanoj u listu nepokretnosti broj 787KO Nikšić kao svojina Države Crne Gore sa pravom raspolaganja opštine Nikšić, po cijeni od 60,20 € po m2 zemljišta, utvrđenoj procjenom Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore -PJ Nikšić, broj 443-103-394/14 od 28.05.2014. godine.
+Dio katastarske parcele broj 485/2, upisane u listu nepokretnosti, broj 782 KO Nikšić koja ulazi u obuhvatu predmetne urbanističke parcele, Bugarski Ljeposava je dužna da kupi od Rudnika Boksita AD Nikšić, koji su upisani kao korisnici ovog zemljišta.
