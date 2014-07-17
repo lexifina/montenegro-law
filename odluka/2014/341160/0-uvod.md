@@ -1,0 +1,2 @@
+Na osnovu člana 55 stav 3 Zakona o zaštiti prirode ("Službeni list CG", br. 51/08, 21/09, 40/11 i 62/13), člana 40 Statuta Opštine Nikšić ("Službeni list RCG-Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", broj 24/10), Saglasnosti Ministarstva odživog razvoja i turizma, broj 09-988/4 od 15.05.2014. godine i Mišljenja Ministarstva poljoprivrede i ruralnog razvoja, broj 663-2/13-2 od 04.12.2013. godine, Skupština opštine Nikšić, na sjednici održanoj 27.06.2014. godine, donijela je
+O D L U K U
