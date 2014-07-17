@@ -1,0 +1,3 @@
+# Član 1
+## o prenosu prava raspolaganja na građevinsko zemljište na Martinović Slobodana
+Martinović Slobodanu iz Nikšića prenosi se pravo raspolaganja na građevinsko zemljište za potrebe kompletiranja urbanističke parcele UP 2, u skladu sa Odlukom o donošenju Detaljnog urbanističkog plana Rastoci 1 ("Službeni list Crne Gore-Opštinski propisi", broj 24/10) i to katastarska parcela broj 390/11, po kulturi njiva 1 klase, površine 226 m2 upisana u listu nepokretnosti broj 787 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja opštine Nikšić, koja čini dio urbanističke parcele UP2 ukupne površine 404 m2, na kojoj je predviđena izgradnja individualnog stambenog objekta.

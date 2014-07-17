@@ -1,0 +1,3 @@
+# Član 2
+Pribavilac prava je obavezan da na ime naknade za dato građevinsko zemljište prenese u svojinu Države Crne Gore sa pravom raspolaganja opštine Nikšić nepokretnost koja se graniči sa nepokretnosti iz člana 1 ove odluke i to katastarsku parcelu broj 390/6, po kulturi njiva 1 klase, površine 212 m2 upisana u listu nepokretnosti broj 3679 KO Nikšić, kao svojina Martinović Slobodana.
+Razliku u površini od 14 m2 u odnosu na dato zemljište Martinović Slobodan dužan je izmiriti opštini Nikšić po cijeni od 40,40 € po m2 zemljišta, utvrđenoj procjenom Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore -PJ Nikšić, broj 443-103- 134/14-2 od 05.03.2014. godine
