@@ -1,0 +1,5 @@
+# Član 2
+Gradski stadion i pomoćni tereni sa pratećom infrastrukturom ( travnati teren, teren sa šljakastom podlogom,teren sa vještačkom podlogom, svlačionice, ekonomat, sala za sastanke, ambulanta, soba za doping kontrolu, kancelarije, parking prostor i druge prostorije u sklopu gradskog stadiona) se predaju na upravljanje, korišćenje i održavanje Fudbalskom klubu "Sutjeska-Nikšić" Nikšić za organizovanje treninga i fudbalskih utakmica od opštinskog do međunarodnog nivoa, bez nadoknade, na period do 5 godina.
+Fudbalski klub "Sutjeska-Nikšić" Nikšić poslovne prostore koji se nalaze u okviru gradskog stadiona može izdati u zakup samo uz saglasnost Skupštine opštine Nikšić i po odredbama člana 40 Zakona o državnoj imovini.
+Sredstva ostvarena u smislu stava 2 ovog člana, Fudbalski klub "Sutjeska-Nikšić" Nikšić može isključivo koristiti za obavljanje djelatnosti iz sopstvene nadležnosti.
+Bliži uslovi korišćenja, upravljanja i održavanja gradskog stadiona i pomoćnih terena sa pratećom infrastrukturom, urediće se posebnim ugovorom između Opštine Nikšić i Fudbalskog kluba "Sutjeska-Nikšić" Nikšić.
