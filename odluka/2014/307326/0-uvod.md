@@ -1,0 +1,2 @@
+Na osnovu člana 117 stav 1 tačka 2 i stav 2 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 40/10 i 34/11), član 45 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, 88/09 i 3/10) i člana 42 tačka 2 Statuta Opštine Ulcinj ("SI. list CG - Opštinski propisi", br. 5/07 i 16/11), Skupština opštine Ulcinj, na sjednici održanoj dana 22.07.2014 godine, donosi
+ODLUKU
