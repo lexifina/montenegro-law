@@ -1,0 +1,2 @@
+Na osnovu člana 19 stav 2 Zakona o hartijama od vrijednosti ("Sl. list RCG", br. 59/00, 10/01, 43/05, 28/06, "Sl. list Crne Gore", br. 53/09, 73/10, 40/11, 06/13) i člana 20 stav 2 Statuta Komisije za hartije od vrijednosti ("Sl. list CG" br. 04/13), Komisija za hartije od vrijednosti, na 122. sjednici od 11.7.2014. godine, donosi
+ODLUKU O IZMJENI ODLUKE O VISINI NAKNADA ZA RAD KOMISIJE ZA HARTIJE OD VRIJEDNOSTI
