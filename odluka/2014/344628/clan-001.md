@@ -1,0 +1,3 @@
+# Član 1
+## o otkupu zemljišta radi dokompletiranja urbanističke parcele br.169 sa ID "Ulcinj Grad" za lokalitet Meterizi 1
+Dozvoljava se Ljamović Fikretu i Vildani otkup katastarske parcele br.2714/3 po kulturi neplodno zemljište u površini od 6,00m2 upisane u LN.br.604 KO Ulcinj, katastarske parcele br.2696/3 po kulturi pašnjak 1 klase u površini od 13,00 m2 I kat.parcele br.2696/4 po kulturi pašnjak 1 klase, površine od 3,00 m2 sa LN br.605 KO Ulcinj I katastarske parcele br.2697/3 po kulturi zemljište uz stambenu poslovnu zgradu u površini od 35,00 m2 sa LN br.605 KO Ulcinj radi dokompletiranja urbanističke parcele br.169, formirane Izmjenama i dopunama DUP-a "Ulcinj - grad"za lokalitet Meterizi 1 .
