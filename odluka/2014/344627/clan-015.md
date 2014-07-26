@@ -1,0 +1,9 @@
+# Član 15
+Visina godišnje naknade za zakup odnosno za korišćenje odredjenih djelova putnog zemljišta iznosi za:
+- gradske ulice i ulice u naselju .....................................
+4,90 €/m2
+- lokalne puteve .............................................................
+3,00 €/m2
+- nekategorisane puteve.................................................
+2,00 €/m2
+Naknada se plaća godišnje do 20. januara tekuće godine za tu godinu, odnosno srazmjerno vremenu korišćenja u godini kada je korišćenje počelo.
