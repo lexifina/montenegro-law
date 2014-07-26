@@ -1,0 +1,3 @@
+# Član 1
+## komercijalno-turističkog centra i garaže u Budvi br. 001-2435/1
+Ovom Odlukom ovlašćuje se Predsjednik Opštine Budva da u ime Opštine Budva potpiše Anex IV Ugovora o ustupanju radova na izradi projektne dokumentacije i izgradnje poslovno- komercijalno-turističkog centra i garaže u Budvi del.br. 001-2435/1, pod uslovom da se u članu 3 predmetnog Anex-a doda da će novo izgrađeni objekat ma katastarskoj parceli 2200 KO Budva biti u vlasništvu Opštine Budva u obimu prava 1/1 što će se i evidentirati u nadležnoj Upravi za nekretnine i preduzme sve pravne radnje pred nadležnim organima radi realizacije predmetnog Ugovora.
