@@ -1,0 +1,3 @@
+# Član 10
+Kad usled više sile ili razloga kojeg nije bilo moguće predvidjeti ili spriječiti, dođe do smanjenog obima ili prekida u snabdijevanju vodom, "Vodovod" je dužan da vodu distribuira u skladu sa sledećim redom prvenstva: utvrđenim od strane Odbora direktora društva, odnosno da odmah preduzme mjere na otklanjanju uzroka poremećaja, kako bi se obezbjedila kontinuirana distribucija vode.
+U slučaju smanjenja dotoka ili nestašice vode na izvorištima u sušnim periodima godine, "Vodovod" je dužan da odmah, a najkasnije u roku od 24 časa, donese posebni plan isporuke vode na području Opštine, uz saglasnost nadležnog organa lokalne uprave i da o tome putem sredstava javnog informisanja i na drugi odgovarajući način obavijesti korisnike.
