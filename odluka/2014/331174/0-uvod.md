@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav1 tačka7 Zakona o lokalnoj samoupravi ("Sl.list RCG", br.42/03,28/04, 75/05 i 13/06 i "Sl.list CG", br.88/09 i 03/10), čl. 18 st.1 tačka 2. Zakona o regionalnom razvoju ("Sl. list CG" 20/2011), Statuta Opštine Ulcinj čl.26 st.1 tač.7 ("Sl.list CG-Opštinski propisi" br. 5/07 i 16/11), I Odluke o proglašenju lokaliteta "Vladimirske Krute"-biznis zonom otvorenom za ulaganja ("Sl. List CG- Opštinski propisi br. 24/12), Skupština opštine Ulcinj, na sjednici održanoj dana 27. 06. 2014 godine, donijela je
+ODLUKU
