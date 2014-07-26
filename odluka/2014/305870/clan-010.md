@@ -1,0 +1,7 @@
+# Član 10
+1. Isporučene količine vode utvrđuju ovlašćeni radnici "Vodovoda" na osnovu razlike stanja na brojilu vodomjera na kraju i početku vremenskog perioda za očitavanje.
+2. Prilikom utvrđivanja količine isporučene vode očitavaju se samo cijele jedinice mjere za koje je utvrđena cijena.
+3. Kod objekata u etažnoj svojini, u kojima posebni djelovi objekta nemaju vodomjere, količine isporučene vode raspoređuje se prema broju korisnika posebnog dijela objekta.
+4. Ako u objektima iz stava 1 ovog člana postoje posebni vodomjeri ugrađeni i evidentirani od strane "Vodovoda", količina isporučene vode se mjeri očitavanjem tih vodomjera.
+5. Korisnicima kod kojih se iz opravdanih razloga (nečitkost vodomjera, vodomjer stao i sl.) ne može utvrditi potrošnja komunalne usluge vodosnabdijevanja očitavanjem na vodomjeru, obračun utroška utvrdiće se po procjeni Vodovoda. Kao osnov za procjenu služiće srednje dnevna potrošnja iz prethodna tri mjeseca. Ako to nije moguće, procjena će se izvršiti prema prosječnoj potrošnji za naredna tri mjeseca ili prema srednjoj dnevnoj potrošnji u času procjenjivanja ili ukoliko i to ne zadovoljava, prema poredjenju sa drugim sličnim potrošačima.
+6. Korisnicima kod kojih se iz razloga tehničke nemogućnosti postavljanja mjernog instrumenta ili iz drugog razloga ne može obračunati cijena komunalne usluge na način predviđen u prethodnim stavovima ovog člana, cijena komunalne usluge vodosnabdijevanja (paušal) se utvrđuje prema pretpostavljenoj potrošnji i to u količini od 5 m³ mjesečno po članu domaćinstva.
