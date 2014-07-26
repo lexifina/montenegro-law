@@ -1,0 +1,2 @@
+Na osnovu člana 68 Zakona o privrednim društvima ("Službni list RCG", br. 06/02 i "Službeni list CG", br. 17/07, 80/08, 40/10, 73/10, 36/11 i 40/11), člana 11 Odluke o osnivanju društva sa ograničenom odgovornošću "Parking servis Budva" Budva ("Službeni list CG - Opštinski propisi", br. 33/13) i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10), Skupština opštine Budva, na sjednici održanoj 30.juna, 02., 03., 04. i 07. jula 2014. godine, donijela je
+ODLUKU
