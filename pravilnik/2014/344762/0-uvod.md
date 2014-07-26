@@ -1,0 +1,4 @@
+Na osnovu člana 57, a u vezi sa članom 90 Zakona o lokalnoj samoupravi ("Službeni list
+RCG", broj 42/03, 28/04 i 13/06 i "Službeni list CG", broj 88/09, 03/10, 38/12 i 10/14), a shodnom primjenom odredaba Zakona o državnim službenicima i namještenicima ("Službeni list CG", broj 39/11, 50/11 i 66/12), člana 147 Zakona o radu ("Službeni list CG", broj 49/08, 26/09, 88/09, 26/10, 59/11, 66/12), na osnovu člana 2 Opšteg kolektivnog ugovora ("Službeni list CG", broj 14/14) i člana 50 Statuta Opštine Kotor ("Službeni list Opštine Kotor", broj 3/04 i "Službeni list CG - Opštinski propisi", broj 17/08, 31/09, 40/10 i 4/11), Predsjednik/ca Opštine Kotor donosi
+P R A V I L N I K
+o izmjenama i dopunama Pravilnika o ostvarivanju prava službenika i namještenika lokalne uprave na plaćeno i neplaćeno odsustvo, stručno usavršavanje na radu,
