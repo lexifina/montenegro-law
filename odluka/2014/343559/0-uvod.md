@@ -1,0 +1,3 @@
+Na osnovu člana 30 Statua Opštine Kotor ("Sl. list Opštine Kotor" br. 3/04 i "Sl. list Crne Gore - Opštinski propisi", br. 17/08, 31/09, 40/10 i 4/11), člana 14 Zakona o komunalnim djelatnostima ("Sl. list RCG", br. 12/95), člana 10 Odluke o organizovanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija Kotor" Kotor ("Sl. list CG - Opštinski propisi", br. 3/14), člana 18 Statuta Društva sa ograničenom odgovornošću "Vodovod i kanalizacija Kotor" Kotor ("Sl. list CG - Opštinski propisi", br. 12/14), Skupština opštine Kotor na sjednici održanoj 08. 07. 2014. godine donijela je
+O D LU K U
+o davanju saglasnosti na Odluku Odbora direktora Društva sa ograničenom
