@@ -1,0 +1,2 @@
+Na osnovu člana 36 stav 2 i člana 42 Zakona o kulturi ("Službeni list CG", br. 49/08, 16/11, 40/11 i 38/12), člana 8 tačka 2 Zakona o bibliotečkoj djelatnosti ("Službeni list CG", br. 49/10 i 40/11) i člana 40 stav 1 tačka 14 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10), Skupština opštine Budva, na sjednici održanoj 30.juna, 02., 03., 04. i 07. jula 2014.godine, donijela je
+ODLUKU
