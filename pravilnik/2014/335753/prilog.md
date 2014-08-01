@@ -1,0 +1,21 @@
+IZVJEŠTAJ O SPROVEDENOJ MJERI BEZBJEDNOSTI OBAVEZNO PSIHIJATRIJSKO LIJEČENJE I ČUVANJE U ZDRAVSTVENOJ USTANOVI
+1. PODACI O IZREČENOJ MJERI
+Naziv i sjedište organa koji je izrekao mjeru: __________________________________________________
+Broj i datum rješenja: ____________________________________________________________________
+Trajanje mjere: _________________________________________________________________________
+Mjera je izrečena: prvi put / DA NE
+Ranija mjera: __________________________________________________________________________
+2. PODACI O LIJEČENOM I ČUVANOM LICU
+Prezime i ime:
+_______________________________________________________________________________________
+Ime: oca ___________________________ majke/djevojačko prezime/: ____________________________
+Pol:____________ ______________JMB________________________________________
+Datum i mjesto rođenja: _____________________________________________________________
+Država rođenja: _____________________________ državljanstvo: ______________________________
+Zanimanje i školska sprema: _____________________________________________________________
+Adresa stanovanja: _____________________________________________________________________
+3. PODACI O LIJEČENJU
+Datum početka liječenja: ________________________________________________________________
+Datum završetka liječenja: ______________________________________________________________
+Liječenje je prekinuto, datum, razlog: _____________________________________________________
+Liječenje: intenzivno- poluintenzivno- resocijalizacija je dovelo do pozitivnih promjena: DA NE

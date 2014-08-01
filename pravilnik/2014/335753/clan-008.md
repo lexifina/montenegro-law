@@ -1,0 +1,2 @@
+# Član 8
+Poslije završenog obaveznog liječenja i čuvanja, zdravstvena ustanova dostavlja izvještaj o sprovedenoj mjeri bezbjednosti obavezno psihijatrijsko liječenje i čuvanje u zdravstvenoj ustanovi sudu koji je uputio lice na čuvanje i liječenje, nadležnom organu socijalne zaštite u mjestu prebivališta liječenog lica i organu uprave nadležnom za poslove zdravlja na obrascu koji je sastavni dio ovog pravilnika (Prilog 1).
