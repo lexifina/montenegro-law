@@ -1,0 +1,9 @@
+# Član 9
+## Rashodi po osnovu upstream operacija
+(1) Rashodi po osnovu upstream operacija su kapitalni troškovi, operativni troškovi, sredstva uplaćena u fond za deinstalaciju i troškovi finansiranja.
+(2) Kapitalni troškovi, iz stava 1 ovog člana, su troškovi nastali kupovinom, odnosno drugim pribavljanjem postrojenja za proizvodnju ili transport ugljovodonika, uključujući instalacije ili strukture kao što su platforme, podmorske instalacije i postrojenja, terminali, postrojenja i cjevovodi, podvodni kablovi za snabdijevanje postrojenja energijom (struja, hidraulika i sl.), hemikalijama i daljinskim kontrolama, neophodnu pripadajuću opremu i drugu pokretnu imovinu koja je sastavni dio ili je povezana sa tim postrojenjima, kao i troškove istraživanja koji se priznaju u skladu sa ugovorom o koncesiji za proizvodnju ugljovodnika.
+(3) Operativni troškovi iz stava 1 ovog člana, su troškovi za zarade zaposlenih i za druge oblike radnog angažovanja u vezi sa upstream operacijama, troškovi potrošnog materijala, troškovi usluga, kao i drugi troškovi koji se priznaju u skladu sa ugovorom o koncesiji za proizvodnju ugljovodnika.
+(4) Sredstva uplaćena u fond za deinstalaciju, iz stava 1 ovog člana, su sredstva uplaćena na ime budućih rashoda za deinstalaciju postrojenja za proizvodnju, obradu, preradu, ili transport ugljovodonika.
+(5) Izdaci za zdravstvene, obrazovne, naučne, vjerske, kulturne, sportske i humanitarne svrhe, priznaju se kao rashod najviše do 1% ukupnog prihoda, osim rashoda nastalih za potrebe obuke domaćeg kadra iz institucija koje se finansiraju iz javnih prihoda po osnovu ugovora o koncesiji za proizvodnju ugljovodonika.
+(6) Svi rashodi koji se priznaju u skladu sa st. 1 do 5 ovog člana i članom 10 ovog zakona moraju biti dokumentovani.
+(7) Prihodi iz člana 8 ovog zakona i rashodi iz st. 1 do 5 ovog člana i člana 10 ovog zakona bliže se određuju propisom Ministarstva.
