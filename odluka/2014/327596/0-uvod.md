@@ -1,0 +1,2 @@
+Na osnovu člana 45 a u vezi sa članom 38 tačka 25 Statuta Opštine Žabljak ("Sl.list RCG- Opštinski propisi", br. 9/05, 23/07 i "Sl.list CG-Opštinski propisi", broj 3/11), člana 2, člana 7 tačka 5 i člana 13 Odluke o obrazovanju radnih tijela Skupštine opštine Žabljak ("Sl.list RCG- Opštinski propisi", broj 44/06), Skupština opštine Žabljak, na sjednici održanoj dana 07.07.2014.godine, donijela je
+O D L U K U
