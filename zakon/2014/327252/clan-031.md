@@ -1,0 +1,3 @@
+# Član 31
+Ako osuđeno lice, nakon upozorenja iz člana 30 stav 2 ovog zakona, nastavi da grubo zanemaruje svoje obaveze ili ih ne ispunjava, jedinica za uslovnu slobodu će o tome, bez odlaganja, obavijestiti sud koji je donio odluku u prvom stepenu.
+Grubim zanemarivanjem radnih obaveza smatra se: nepoštovanje radne discipline i radnog vremena, dolazak na posao pod dejstvom alkohola ili opojnih droga, oštećenje sredstava za rad ili prouzrokovanje druge štete poslodavcu, zaposlenima ili korisnicima usluga poslodavca, nasilničko, nedolično ili uvredljivo ponašanje ili iskazivanje bilo kakvog oblika netrpeljivosti prema zaposlenima ili korisnicima usluga pravnog lica, odnosno organizacije.

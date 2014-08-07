@@ -1,0 +1,4 @@
+# Član 34
+Rješenje Komisije za uslovni otpust obrazovane u skladu sa zakonom kojim se uređuje izvršenje krivičnih sankcija, kojim se osuđeno lice uslovno otpušta dostavlja se jedinici za uslovnu slobodu, u roku od osam dana od dana donošenja.
+O rješenju iz stava 1 ovog člana, jedinica za uslovnu slobodu će obavjestiti centar za socijalni rad, Zavod za zapošljavanje, poslodavca kod kojeg je uslovno otpušteno osuđeno lice zaposleno, odnosno bilo zaposleno, odgovarajuću zdravstvenu ustanovu, policiju, ustanove, druge subjekte i fizička lica, zavisno od obaveze utvrđene rješenjem o uslovnom otpustu.
+Organi, ustanove, drugi subjekti i fizička lica iz stava 2 ovog člana dužni su da sarađuju sa jedinicom za uslovnu slobodu i da daju potrebne podatke, odnosno informacije koje su u vezi sa izvršenjem obaveza utvrđenih rješenjem o uslovnom otpustu.

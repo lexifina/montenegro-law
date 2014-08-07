@@ -1,0 +1,3 @@
+# Član 18
+Kazna rada u javnom interesu izvršava se kod pravnog lica koje se bavi djelatnošću od javnog interesa (humanitarna, socijalna, komunalna, zdravstvena, poljoprivredna, ekološka ili druga slična djelatnost) ili neprofitabilne organizacije čija djelatnost je vezana za humanitarne, ekološke i druge slične aktivnosti (u daljem tekstu: pravno lice, odnosno organizacija).
+Radi izvršenja kazne rada u javnom interesu Ministarstvo pravde može zaključiti sporazum sa organima državne uprave i organima lokalne samouprave kad su u pitanju djelatnosti nad čijim obavljanjem ti organi vrše nadzor, kao i sa pravnim licima, odnosno organizacijama, koji sadrži opšta pravila o izvršenju kazne rada u javnom interesu i međusobna prava i obaveze.
