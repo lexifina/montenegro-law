@@ -1,0 +1,7 @@
+# Član 46
+Član 224 mijenja se i glasi:
+"(1) Protiv pravosnažnih sudskih odluka i protiv sudskog postupka koji je prethodio tim pravosnažnim odlukama Vrhovno državno tužilaštvo može podići zahtjev za zaštitu zakonitosti, ako je povrijeđen zakon ili drugi propis.
+(2) Zahtjev iz stava 1 ovog člana, Vrhovno državno tužilaštvo može podići i kad je odlukom Evropskog suda za ljudska prava ili drugog suda osnovanog potvrđenim međunarodnim ugovorom utvrđeno da su u toku prekršajnog postupka povrijeđena ljudska prava i osnovne slobode i da je sudska odluka zasnovana na takvoj povredi, a nadležni sud nije dozvolio ponavljanje prekršajnog postupka, ili se povreda učinjena sudskom odlukom može otkloniti ukidanjem odluke ili njenim preinačenjem, a bez ponovnog vođenja postupka.
+(3) Zahtjev iz stava 1 ovog člana, Vrhovno državno tužilaštvo može podići i kad je sudska odluka zasnovana na zakonu ili drugom propisu koji je prestao da važi na osnovu odluke Ustavnog suda Crne Gore, ukoliko sud nije dozvolio ponavljanje prekršajnog postupka ili se povreda učinjena u sudskoj odluci može otkloniti ukidanjem odluke ili njenim preinačenjem, a bez ponavljanja postupka.
+(4) Vrhovno državno tužilaštvo ne mora podići zahtjev za zaštitu zakonitosti ako smatra da je povrijeđen zakon, ali da povreda zakona nije uticala na pravilnost odluke i da se ne radi o pravnom pitanju važnom za jedinstvenu primjenu zakona ili zaštitu ljudskih prava i sloboda.
+(5) Zahtjev za zaštitu zakonitosti može se podnijeti u roku od 60 dana od dana kad je okrivljeni primio pravosnažnu odluku."
