@@ -1,0 +1,4 @@
+Na osnovu člana 18 Uredbe o Vladi Crne Gore ("Službeni list CG", broj 80/08), Vlada Crne Gore, na sjednici od 4.jula 2014.godine donijela je
+UREDBU
+O IZMJENAMA UREDBE O NAČINU OSTVARIVANjA PRAVA RASELjENIH LICA IZ BIVŠIH JUGOSLOVENSKIH REPUBLIKA I INTERNO RASELjENIH
+LICA SA KOSOVA KOJA BORAVE U CRNOJ GORI
