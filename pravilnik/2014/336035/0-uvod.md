@@ -1,0 +1,4 @@
+Na osnovu čl. 29 i 74 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 34/11, 35/13 i 39/13) Ministarstvo održivog razvoja i turizma donijelo je
+PRAVILNIK O IZMJENAMA I DOPUNI PRAVILNIKA O BLIŽEM SADRŽAJU I FORMI PLANSKOG DOKUMENTA, KRITERIJUMIMA NAMJENE POVRŠINA,
+ELEMENTIMA URBANISTIČKE REGULACIJE I JEDINSTVENIM GRAFIČKIM
+SIMBOLIMA
