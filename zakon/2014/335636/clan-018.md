@@ -1,0 +1,5 @@
+# Član 18
+## Mjere u slučaju nezgode
+U slučaju nezgode prevoznik je dužan da obezbijedi, prikupi i odstrani opasnu materiju ili da je na drugi način učini bezopasnom i o tome obavijesti Ministarstvo, a u zavisnosti od vrste i količine opasne materije i organ državne uprave nadležan za poslove zdravlja, organ uprave nadležan za poslove zaštite životne sredine, organ uprave nadležan za policijske poslove i organ uprave nadležan za inspekcijske poslove.
+Ako prevoznik nije u mogućnosti da ispale ili prosute opasne materije prikupi, odstrani, smjesti na određeno mjesto ili na drugi način obezbijedi, Ministarstvo će pozvati privredno društvo, drugo pravno lice ili preduzetnika, koje raspolaže tehničkim sredstvima za izvršenje takvog posla, da to uradi na račun prevoznika.
+Ukoliko zbog kvara na prevoznom sredstvu ili u slučaju saobraćajnog udesa prosutu ili ispalu opasnu materiju treba pretovariti, pretovar vrši prevoznik van puta, pri čemu je dužan da preduzme potrebne mjere bezbjednosti, uz prisustvo organa uprave nadležnog za policijske poslove.
