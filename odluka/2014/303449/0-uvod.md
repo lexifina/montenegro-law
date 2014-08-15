@@ -1,0 +1,4 @@
+Na osnovu člana 64. Zakona o privrednim društvima ("Sl.list RCG" br. 6/02, "Sl.list CG" br. 17/07, 80/08, 40/10, 73/10, 36/11, 40/11), a u vezi sa članom 13. Zakona o unapređenju poslovnog ambijenta ("Sl..list CG" br. 40/10), člana 32 stav1 tačka 14 i člana 45 stav 1 tačka 14, Zakona o lokalnoj samoupravi ("Sl.list RCG" br. 42/03, 28/04, 75/05 i 13/06, "Sl.list CG" br. 88/09, 03/10, 73/10, 38/12 i 10/14), člana 13 Zakona o komunalnim djelatnostima ("Sl. list. RCG" br. 12/95), člana 33 stav 1 , tačka 14 Statuta Opštine Berane ("Sl.list CG-Opštinski propisi" br. 21/04, 34/06 i "Sl.list CG-Opštinski propisi" br. 6/11), Skupština opštine Berane, na sjednici održanoj 10. i 11. jula 2014. godine, do nijela je
+O D L U K U
+o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Berane
+OSNOVNE ODREDBE
