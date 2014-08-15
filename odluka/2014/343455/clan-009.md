@@ -1,0 +1,3 @@
+# Član 9
+Zaposleni koji imaju neograničen limit troškova korišćenja mobilnog telefona, kao i zaposleni koji polažu pravo na limit do 100 EUR imaju i pravo na mobilni telefonski aparat u vrijednosti od 300 EUR, koji je u vlasništvu Opštine.
+Svi ostali zaposleni mogu da ostvare pravo na mobilne telefonske aparate na osnovu posebnog riješenja Predsjednika opštine koje će se realizovati Odlukom o izboru najboljeg telefonskog operatera, zavisno od planiranih sredstava u Budžetu, a na osnovu Odluke Predsjednika opštine o pokretanju postupka javne nabavke za 2014. godine, shodno članu 40 Zakona o javnim nabavkama ("Službeni list Crne Gore;" broj 42/11).

@@ -1,0 +1,2 @@
+# Član 3
+Pravo na dodjelu korišćenja mobilnog telefona i kartica za mobilne telefone za službene potrebe u organima iz člana 1ove odluke imaju izabrana i imenovana lica, pomoćnici imenovanih lica i postavljena lica, kao i službenici i namještenici (u daljem tekstu: zaposleni), koji po prirodi poslova svog radnog mjesta imaju potrebu obezijeđenja efikasne komunikacije sa drugim zaposlenima, poslovnim partnerima i strankama, bez obzira na radno vrijeme, ili poslove svog radnog mjesta obavljaju dijelom, ili u potpunosti, van poslovnih prostorija Opštine.
