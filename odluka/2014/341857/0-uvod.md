@@ -1,0 +1,2 @@
+Na osnovu člana 25 Zakona o turističkim organizacijama («Sl.list RCG» broj 11/04 i 46/07), člana 12 Odluke o osnivanju Turističke organizacije Tivat («Sl.list RCG - Opštinski propisi» broj 40/04), člana 19 Statuta Turističke organizacije Tivat i člana 31 Statuta Opštine Tivat («Sl.lsit CG - Opštinski propisi» broj 40/04 i 26/06), Skupština opštine Tivat na sjednici održanoj dana 10.07.2014. godine, donijela je
+O D L U K U
