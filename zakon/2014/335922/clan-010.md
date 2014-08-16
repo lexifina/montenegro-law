@@ -1,0 +1,6 @@
+# Član 10
+## Tehnološki procesi
+Projektovanjem, izgradnjom novih i rekonstrukcijom postojećih, korišćenjem i održavanjem tehnoloških procesa rada sa pripadajućim objektima i sredstvima za rad poslodavac je dužan da obezbijedi da se rad zaposlenih obavlja na bezbjedan način, a hemijske, fizičke (osim jonizujućih i nejonizujućih zračenja) i biološke štetnosti, mikroklima i osvjetljenje na radnim mjestima i u radnim i pomoćnim prostorijama usklade sa propisanim mjerama zaštite i normativima za djelatnost koja se obavlja na tim radnim mjestima i u tim prostorijama.
+Pri promjeni tehnološkog procesa, poslodavac je dužan da, prije početka rada, investicioni objekat sa pripadajućim sredstvima za rad prilagodi novom tehnološkom procesu.
+Pri izgradnji, rekonstrukciji ili rušenju objekta, poslodavac koji izvodi radove dužan je da izradi plan mjera zaštite, odnosno elaborat o uređenju gradilišta u skladu sa posebnim zakonom.
+Poslodavac koji planira da radovi traju duže od 30 radnih dana i da istovremeno radi više od 20 zaposlenih ili da je planiranim obimom radova obuhvaćeno više od 500 zaposlenih, odnosno da radovi traju duže od 500 dana, dužan je da, najkasnije pet dana prije početka radova, organu uprave nadležnom za poslove inspekcijskog nadzora (u daljem tekstu: Inspekcija rada) dostavi prijavu o početku radova u skladu sa posebnim zakonom.

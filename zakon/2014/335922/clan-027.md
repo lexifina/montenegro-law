@@ -1,0 +1,6 @@
+# Član 27
+## Sredstva za rad i sredstva i oprema lične zaštite na radu
+Projektovanje, proizvodnja i korišćenje sredstava za rad i sredstava i opreme lične zaštite na radu, čijom se upotrebom otklanjaju rizici ili opasnosti, koji nijesu mogli da budu otklonjeni primjenom odgovarajućih mjera zaštite, vrši se na način i u skladu sa primijenjenim tehnološkim postupkom.
+Poslodavac je dužan da zaposlenom nabavi i izda na upotrebu sredstva za rad i sredstva i opremu lične zaštite na radu neophodne za njegovo radno mjesto, samo ako za njih raspolaže sa propisanom dokumentacijom na službenom jeziku i jezicima u službenoj upotrebi, u kojoj je proizvođač, odnosno isporučilac naveo sve bezbjednosno-tehničke podatke koji su važni za ocjenjivanje rizika na radu sa njima i da su obezbijeđene sve mjere zaštite koje su određene dokumentacijom u skladu sa propisima o zaštiti i zdravlju na radu.
+U izuzetnim slučajevima, kada poslodavac nije u mogućnosti da pribavi propisanu dokumentaciju iz stava 2 ovog člana, može da je pribavi od pravnog lica ili preduzetnika registrovanog za obavljanje tih poslova.
+Poslodavac je dužan da obezbijedi da zaposleni sredstva za rad i sredstva i opremu lične zaštite na radu koristi u skladu sa njihovom namjenom i da u postupku upotrebe primjenjuje propisane mjere zaštite.
