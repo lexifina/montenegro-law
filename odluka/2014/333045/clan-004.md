@@ -1,0 +1,2 @@
+# Član 4
+Ova Odluka stupa na snagu danom donošenja i biće objavljena u "Sl.listu CG-Opštinski propisi" i na sajtu opštine Tivat www.opstinativat.com
