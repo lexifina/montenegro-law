@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 1 Zakona o energetici (″Službeni list CG″ br. 28/10, 40/11, 42/11 i 6/13) i člana 18 stav 1 tačka 1 Statuta Regulatorne agencije za energetiku (″Službeni list CG″, broj 7/11), Odbor Agencije, na sjednici održanoj 05. i 08. avgusta 2014. godine, utvrdio je
+METODOLOGIJU O IZMJENAMA METODOLOGIJE ZA UTVRĐIVANJE REGULATORNOG PRIHODA I CIJENA ZA KORIŠĆENJE PRENOSNOG SISTEMA ELEKTRIČNE ENERGIJE
