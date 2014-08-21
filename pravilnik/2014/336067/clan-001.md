@@ -1,0 +1,3 @@
+# Član 1
+## O BLIŽIM USLOVIMA I NAČINU VRŠENjA DETEKTIVSKIH POSLOVA
+Prikupljanje podataka o licima koja su nestala ili sakrivena, dužnicima, autorima ili pošiljaocima anonimnih pisama ili licima koja šire klevete ili uvrede; licima koja su stranci prouzrokuvala štetu; predmetima koji su izgubljeni, nestali ili ukradeni; dokaznom materijalu potrebnom za zaštitu i dokazivanje prava stranke pred pravosudnim i drugim organima, odnosno organizacijama, koji u postupcima odlučuju o tim pravima; uspješnosti lica u obavljanju poslova i poslovnosti privrednih društava i drugih pravnih lica (u daljem tekstu: detektivski poslovi) vrši se pod uslovima i na način utvrđen ovim pravilnikom.
