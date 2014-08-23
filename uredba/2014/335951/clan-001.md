@@ -1,0 +1,2 @@
+# Član 1
+Kontrolu izmirenja novčanih obaveza u komercijalnim transakcijama između privrednih subjekata, odnosno između javnog sektora i privrednih subjekata u rokovima propisanim Zakonom o rokovima izmirenja novčanih obaveza (u daljem tekstu: Zakon), vrši organ uprave nadležan za poslove utvrđivanja, kontrole i naplate poreza (u daljem tekstu: poreski organ), na način i po postupku propisanim ovom uredbom.
