@@ -1,0 +1,5 @@
+# Član 78
+U slučaju nastupanja vanrednih okolnosti kojima se ugrožava život i zdravlje ljudi i imovina veće vrijednosti, predsjednik Skupštine može sazvati sjednicu u roku kraćem od 7 dana, a dnevni red predložiti na samoj sjednici.
+Na dnevnom redu sjednice mogu se naći samo pitanja vezana za nastupanje vanrednih okolnosti.
+Tok rasprave i postupak odlučivanja može se urediti na početku sjednice, kao jednostavan i sažet, zavisno od razloga sazivanja i hitnosti donošenja odgovarajućih odluka.
+2.Tok sjednice
