@@ -1,0 +1,5 @@
+# Član 7
+Poslije paragrafa 1.32. dodaju se tri nova paragrafa koji glase:
+1.32 a. U skladu sa ovlašćenjem praćenja primjene programa kvaliteta radi procjene rezultata u računovodstvu i reviziji, kao i odgovarajućih IFAC-ovih SMO , kontrolu primjene ovog standarda vrši komisija ISRCG.
+1.32 b. Druge organizacije koje se u vršenju procesa edukacije, pozivaju na CORS-1 u obavezi su da omoguće ISRCG kontrolu primjene programa kvaliteta u procesu edukacije, kroz provjeru plana i programa procesa edukacije, načina organizovanja edukacije, načina sprovođenja ispita, kao i ispunjenosti uslova za izdavanje sertifikata (uz prethodnu pismenu najavu od strane ISRCG).
+1.32 c. Ukoliko komisija ISRCG utvrdi da organizacije iz paragrafa 1.32 b. ne primjenjuju u potpunosti program kvaliteta po IFAC-ovim SMO, sadržanih u CORS-1 onda se licu iz paragrafa 1.31 a. ne može u potpunosti priznati stečeno zvanje. Navedenom licu se može ponuditi polaganje razlike ispita kod ISRCG ili polaganje cijelog edukativnog programa kod ISRCG za konkretno zvanje.
