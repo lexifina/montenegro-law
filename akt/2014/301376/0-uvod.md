@@ -1,0 +1,2 @@
+Na osnovu člana 154 stav 2 tačka 2 Zakona o energetici ("SIužbeni list CG", br.28/2010 i 6/2013), Odluke o određivanju javnog snabdjevača električnom energijom ("Službeni list CG" br.7/2011) u skladu sa članom 52 stav 2 tačka (xi) Statuta Elektroprivrede Crne Gore AD Nikšić Odbor direktora Elektroprivrede Crne Gore AD Nikšić, na VI sjednici održanoj 09.07.2014.godine, utvrdio je
+OPŠTE USLOVE ZA SNABDIJEVANJE ELEKTRIČNOM ENERGIJOM
