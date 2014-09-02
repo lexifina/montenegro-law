@@ -1,0 +1,4 @@
+# Član 1
+## o izmjenama i dopunama Odluke o utvrđivanju naknade za uređenje, korišćenje i privremeno korišćenje zemljišta u skladu sa planom privremenih objekata
+U odluci o utvrđivanju naknade za uređenje, korišćenje i privremeno korišćenje zemljišta u skladu sa planom privremenih objekata ( "SI list CG- opštinski propisi" br 13/2013 i 15/2013), poslije člana 9 dodaje se novi član 9a koji glasi:
+"Skupština Opštine Ulcinj može posebnom odlukom, izuzetno, u slučaju potrebe većih investicija na postavljanju privremenog objekta, zapošljavanja većeg broja ljudi, posebnog značaja objekta za razvoj privrede i turističke ponude Opštine Ulcinj i u drugim opravdanim slučajevima u interesu Opštine, utvrditi drugačiju metodu utvrđivanja zakupnine i naknade iz ove Odluke, ili osloboditi investitora od njihovog plaćanja."

@@ -1,0 +1,2 @@
+Na osnovu člana 117 stav 2 Zakona o uređenju prostora i izgradnji objekata "Službeni list CG",br. 51/2008, 34/2011, 47/2011, 35/2013 i 39/2013", člana 26. stav 1. a u vezi člana 24. i 25. Odluke o privremenim objektima ("SI. list CG- Opštinski propisi", br. 38/12)član 45 tačka 2 Zakona o lokalnoj samoupravi ("SI. list RCG", br. 42/03, 28/04, 75/05, 13/06, 88/09 i 3/10) i člana 42 tačka 2 Statuta Opštine Ulcinj ("SI. list CG - Opštinski propisi", br. 5/07 i 16/11), Skupština opštine Ulcinj, na sjednici održanoj dana 22.07.2014 godine, donosi
+ODLUKU
