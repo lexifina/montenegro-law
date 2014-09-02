@@ -1,0 +1,3 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06, i "Sl.list CG", br. 88/09, 3/10, 38/12 i 10/14), čl. 3, 9, 34 i 40 Zakona o državnoj imovini ("Sl. list CG", broj 21/09 ) i člana 59 Zakona o uređenju prostora i izgradnji objekata ("Sl.list Crne Gore", br. 51/08, 40/10, 34/11, 47/11, 35/13, 39/13), člana 40 Statuta Opštine Budva ("Sl.list Crne Gore - Opštinski propisi", broj 19/10), Skupština opštine Budva na sjednici održanoj 11, 12 i 13.avgusta 2014. godine, donijela je
+ODLUKU
+o prenosu prava na nepokretnosti radi formiranja urbanističkih parcela broj 62, 63 i 64 u
