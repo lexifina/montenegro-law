@@ -1,0 +1,2 @@
+# Član 2
+Ugovorom iz člana 1 ove Odluke, će izmedju ostalog biti definisano učešće Opštine Budva u finansiranju predmetnih objekata tj. izgradnji garažnih etaža sa 150 garažnih mjesta, u skladu sa ispostavljenom situacijom nadzornog organa imenovanog od strane Stambene zadruge "Solidarno" Podgorica, a na osnovu usvojenih ponuda izvodjača radova br. 2771-2012 od 28.09.2012.g., i 1063-2013 od 14.05.2013.g.
