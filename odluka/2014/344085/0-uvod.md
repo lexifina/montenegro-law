@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 5 a u vezi sa članom 70 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04 i 75/05 i 13/06, i "Sl.list CG", br. 88/09, 3/10, 38/12 i 10/14) i člana 57 stav 1 tačka 5 Statuta Opštine Berane ("Sl.list RCG", br. 21/04 i 34/06 i "Sl.list CG- Opštinski propisi", broj 6/11), po pribavljenom mišljenju Glavnog administratora Predsjednik Opštine Berane donosi
+O D L U K U
