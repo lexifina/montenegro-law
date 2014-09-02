@@ -1,0 +1,2 @@
+Na osnovu člana 22 Odluke o privremenim objektima ("Službeni list-opštinski propisi", broj 38/12), člana 58 stav 2 i 3 Zakona o lokalnoj samoupravi ("Službeni list RCG" br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG" br. 88/09 i 3/10) i člana 26 st. 1 i 6 i člana 86 st. 2 i 3 Statuta Opštine Ulcinj ("Službeni list -Opštinski propisi" broj 5/07,"Službeni list -Opštinski propisi" br.16/11), Skupština Opštine Ulcinj,na sjednici održanoj dana 08.08.2014. godine, donijela je
+ODLUKU
