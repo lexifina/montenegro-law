@@ -1,0 +1,3 @@
+Na osnovu člana 10 stav 1 tačka 12, člana 17 stav 1 tačka 11, člana 18 stav 1 alineja 9, člana 29 stav 2 i člana 34 stav 1 Zakona o državnoj imovini ("Sl. List CG", br. 21/09 i 40/11), člana 13 a u vezi sa članom 2 stav 1 tačka 11 Zakona o komunalnim djelatnostima ("Sl. list RCG", br.12/95), člana 33 stav 1 tačka 1 i člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09, 3/10 , 38/12 i 10/14) i člana 71 Statuta Prijestonice ("Sl. List CG - opštinski propisi", br. 19/09 , 37/10 i 26/13) Skupština Prijestonice Cetinje na sjednici održanoj dana 31.07.2014. godine , donijela je
+ODLUKU
+o ustupanju Gradske tržnice na upravljanje i održavanje Javnom komunalnom preduzeću
