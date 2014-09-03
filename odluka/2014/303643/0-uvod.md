@@ -1,0 +1,2 @@
+Na osnovu člana 45.stav 1. tačka 15 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 13/06 i "Sl. list Crne Gore", br. 88/09,03/10, 38/12 i 10/14), člana 61. Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03, 44/03 i "Sl. list Crne Gore", br. 05/08, 51/08 i 74/10) i člana 30 Statuta Opštine Kotor ("Sl. list Opštine Kotor", br. 03/04 i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 04/11), Skupština opštine Kotor, na sjednici održanoj 14. 08. 2014. godine donijela je
+ODLUKU
