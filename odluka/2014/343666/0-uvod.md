@@ -1,0 +1,2 @@
+Na osnovu člana 63 stav 1 tačka 40 Statuta Prijestonice ("Sl. list CG- Opštinski propisi" br. 19/09, 37/10 i 26/13) , člana 10 stav 1 alineja 3 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija - Cetinje" ("Službeni list CG-Оpštinski propisi" br.30/13), člana 4 stav 1 alineja 3 i člana 5 Odluke o izmjenama i dopunama Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija - Cetinje" ("Službeni list CG-Оpštinski propisi" br. 22/14) Skupština Prijestonice Cetinje na sjednici održanoj dana 26.08.2014. godine donijela je
+ODLUKU
