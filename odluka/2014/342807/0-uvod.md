@@ -1,0 +1,2 @@
+Na osnovu člana 35. i člana 41. Zakona o zaštiti i spašavanju ("Sl. List CG" br: 13/07, 05/08, 86/09 i 32/11), člana 30. Statuta Opštine Kotor ("Sl. List Opštine Kotor" br: 03/04 i "Sl. List CG - Opštinski propsi" br: 17/08, 31/09, 40/10 i 04/11), na osnovu prethodno pribavljene saglasnosti ministarstva unutrašnjih poslova Crne Gore - Direktorata za vanredne situacije broj: 04/1-050/14- 17715/2 od 14. 04. 2014. godine, Skupština opštine Kotor na sjednici održanoj 14. 08. 2014. godine, donijela je
+ODLUKU
