@@ -1,0 +1,2 @@
+Na osnovu člana 5 stav 1 i 3, člana 13 stav 3 i člana 22 stav 6 Zakona o putevima ("Sl. list RCG" br. 42/04, 21/09, "Sl. list CG" br. 54/09, 40/10, 73/10, 36/11 i 40/11), člana 45 stav 2 Zakona o lokalnoj samoupravi ("Sl. list RCG" br. 42/03, 28/04, 75/05, 13/06, 88/09, 03/10, 73/10, 38/12 i 10/14), člana 63 tačka 28 i člana 74 Statuta Prijestonice ( "Sl. list CG-Оpštinski propisi" br. 19/09, 37/10 i 26/13), Skupština Prijestonice Cetinje, na sjednici održanoj dana 26.08.2014. godine, donijela je
+ODLUKU
