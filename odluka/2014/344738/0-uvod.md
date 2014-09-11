@@ -1,0 +1,2 @@
+Na osnovu člana 14. Zakona o kulturi ("Službeni list Crne Gore" broj 49/08, 16/11, 40/11, 38/12), člana 32. Zakona o lokalnoj samoupravi ("Službeni list RCG" broj 42/03, 28/04, 75/05 i 13/06 i "Službeni list Crne Gore" broj 88/09, 03/10, 38/12 i 10/14) i člana 30. Statuta Opštine Kotor ("Službeni list Opštine Kotor" broj 03/04 i "Službeni list Crne Gore - Opštinski propisi" broj 17/08, 31/09, 40/10 i 04/11), Skupština Opštine Kotor, na svojoj sjednici, održanoj 14. 08. 2014. godine donijela je
+ODLUKU
