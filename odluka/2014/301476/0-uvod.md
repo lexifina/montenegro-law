@@ -1,0 +1,3 @@
+Na osnovu člana 30. Statuta Opštine Kotor ("Sl. List Opštine Kotor" br. 03/04 i "Sl. List CG - Opštinski propsi" br. 17/08, 31/09, 40/10 i 04/11), člana 14. Zakona o komunalnim djelatnostima ("Sl. List RCG" br. 12/95), člana 10. Odluke o organizovanju Društva sa ograničenom odgovornošću "Komunalno Kotor" Kotor ("Sl. List CG - Opštinski propsi" br. 03/14) i člana 19. Statuta Društva sa ograničenom odgovornošću "Komunalno Kotor" Kotor ("Sl. List CG - Opštinski propsi" br: 12/14), Skupština opštine Kotor na sjednici održanoj dana 14. 08. 2014. godine donijela je
+ODLUKU
+o davanju saglasnosti na Odluku Odbora direktora Društva sa ograničenom odgovornošću
