@@ -1,0 +1,2 @@
+# Član 10
+Ova Odluka biće objavljena u ,,Sl.list CG - Opštinski propisi,, dnevnom listu ,,Pobjeda,, i na veb sajtu opštine Andrijevica www.andrijevica.me Pravo uvida u Odluku o izradi studije lokacije i Programski zadatak kod nosioca pripremnih poslova imaju sva zainteresovana lica, shodno članu 6. Zakona o uređenju prostora i izgradnji objekata (''Sl. list CG'', br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13 i 39/13).
