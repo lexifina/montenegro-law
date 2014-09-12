@@ -1,0 +1,15 @@
+# Član 93
+U mjesnoj zajednici građani odlučuju o pitanjima od neposrednog i zajedničkog interesa za građane sa tog područja, a naročito:
+- daju predloge i učestvuju u pripremi razvojnih programa i donošenju višegodišnjih nacionalnih planova opštine, izgradnji javne infrastrukture, izvođenju komunalnih investicija i u nadzoru nad izvršenim radovima,
+- učestvuje kod pripreme programa snabdijevanja vodom na seoskom području,
+- daju predloge za sanaciju deponija komunalnog odpada i učestvuje u njihovoj sanaciji,
+- daju predloge za uređenje i uljepšavanje prostora, uređenje i uljepšavanje šetališta i učestvuju u tome,
+- daju inicijative za dodatno uređenje saobraćaja (saobraćajna signalizacija, uređenje prilaza i dr.),
+- podnosi inicijative za promjenu prostornih i urbanističkih planova,
+- obavještavaju nadležni organ opštine o preoblemima i potrebama stanovnika mjesne samouprave u oblasti uređenja prostora i zaštite životne sredine.
+- učestvuju u organizovanju kulturnih, sportskih i drugih priredbi i manifestacija,
+- učestvuju u izgradnji, održavanju i zaštiti lokalnih i nekatogorisanih puteva,
+- učestvuju u upravljanju, izgradnji, održavanju i zaštiti seoskih vodovoda, groblja i drugih komunalnih objekata,
+- podnese inicijative za rješavanje socijalnih potreba stanovnika,
+- učestvuju u zaštiti i spasavanju od elementarnih nepogoda,
+- podnese predloge i inicijative i u drugim oblastima života i rada od interesa za lokalno stanovništvo.
