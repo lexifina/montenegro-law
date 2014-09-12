@@ -1,0 +1,2 @@
+# Član 9
+Nosilac pripremnih poslova dužan je obezbjediti saradnju između nosioca izrade Izvještaja i obrađivača Plana na način što će im omogućiti međusobnu razmjenu svih potrebnih podataka kako bi se uskladila izrada ova dva dokumenta. Istovremeno nosilac izrade Izvještaja dužan je da sve zaključke do kojih dođe tokom izrade istog, a koji su od suštinskog značaja za koncept planskog rješenja predmetnog Urbanističkog projekta, dostavi nosiocu pripremnih poslova koji će iste prosljediti obrađivaču ovog Plana radi usklađivanja.
