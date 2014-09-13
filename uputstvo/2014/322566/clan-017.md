@@ -1,0 +1,4 @@
+# Član 17
+Konkurentne ponude moraju biti izražene u iznosima djeljivim sa 100, a minimalni iznos nominalne vrijednosti svake pojedinačne konkurentne ponude je 10.000 EUR.
+Ponuđač može na aukciji dati najviše pet konkurentnih ponuda, navedenih po rastućim diskontnim stopama, s tim da ukupna nominalna vrijednost ovih ponuda ne može preći 50% ukupne nominalne vrijednosti emisije državnih zapisa.
+Izuzetno od stava 2 ovog člana, nakon okončanja aukcije, Ministarstvo finansija može prihvatiti ponude jednog ponuđača i kada one prelaze 50% ukupne nominalne vrijednosti emisije državnih zapisa, ako je taj ponuđač jedini dostavio ponude, ako svi ostali ponuđači podnesu ponude za kupovinu manje od 50% ukupne nominalne vrijednosti emisije državnih zapisa ili ako je taj ponuđač dao ponude za kupovinu državnih zapisa po nižim diskontnim stopama od ostalih ponuđača.
