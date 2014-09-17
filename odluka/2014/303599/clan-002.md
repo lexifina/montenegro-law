@@ -1,0 +1,3 @@
+# Član 2
+Detaljni urbanistički plan "Pečurice - centar" ("Službeni list CG - Opštinski propisi", broj 25/11) je planski dokument za koji je rađena strateškoj procjena uticaja na životnu sredinu i data saglasnost na izvještaj o strateškoj procjeni uticaja na životnu sredinu.
+Zahvat DUP-a "Pečurice - centar" obuhvata površinu od oko 158,9 ha. Ovaj prostor je ograničen sa jugozapadne strane Jadranskom magistralom - dionica Bar-Ulcinj, a sa sjeverne i istočne strane budućom vezom sa brzom saobraćajnicom. Generalnim urbanističkim planom Bara 2020, prostor koji je predmet detaljne razrade po nameni je opredeljen za turističko stanovanje, stanovanje srednjih gustina, stanovanje velikih gustina i centralne delatnosti.

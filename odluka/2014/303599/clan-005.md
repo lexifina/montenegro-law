@@ -1,0 +1,3 @@
+# Član 5
+Kriterijumi na osnovu kojih je ocijenjen uticaj ovih izmjena i dopuna DUP-a na životnu sredinu odnose se na procjenu značaja istog za životnu sredinu i održivi razvoj naročito u dijelu njegove prostorne dimenzije, broja izloženih stanovnika, kumulativne i sinergijske prirode mogućih uticaja i dr.
+Obzirom na prostorni obuhvat izmjena i dopuna (cca 9 ha), može se konstatovati da realizacija istog nema značajnog uticaja na segmente životne sredine (voda, vazduh, zemljište, flora i fauna) i zdravlje ljudi. Isto tako, stepen uticaja predmetnog planskog dokumenta na druge planove je neznatan i biće sveden u okvire koji ne narušavaju postojeću koncepciju/funkciju istih.

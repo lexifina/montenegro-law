@@ -1,0 +1,3 @@
+# Član 3
+Predsjednik opštine Bar je donio Odluku o pristupanju izradi imjena i dopuna detaljnog urbanističkog plana "Pečurice - centar" br. 031-1007, od 17.09.2014. godine, za površinu od cca 9.0 ha, sa ciljem stvaranja uslova za uređenje neizgrađenog građevinskog zemljišta, kao i urbanu rekonstrukciju izgrađenog građevinskog zemljišta za višeporodično stanovanje srednjih gustina, sa ciljem kvalitetnije valorizacije ukupnog građevinskog zemljišta u zahvatu.
+Cilj izrade izmjena i dopuna Plana je planersko sagledavanje izmjena nastalih u prostoru i inicijativa korisnika prostora i istim se neće mijenjati dozvoljen indeks izgrađenosti i namjena prostora.
