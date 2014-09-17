@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Sl.list RCG",br.4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Sl.list CG"br.46/11 i 14/14), i člana 36 Statuta Opštine Herceg Novi ("Sl.list RCG-Opštinski propisi",br.15/04,32/05,31/06,14/07,"Sl.list CG-Opštinski propisi",br.16/09 i 16/11), Skupština opštine Herceg, na sjednici održanoj dana 9.septembra 2014.godine, donosi
+ODLUKU
