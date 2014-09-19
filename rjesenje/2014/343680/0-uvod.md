@@ -1,0 +1,2 @@
+Na osnovu člana 14 Zakona o Glavnom gradu ("Službeni list RCG", br. 65/05 i "Službeni list CG", br. 72/10), člana 67 Statuta Glavnog grada ("Službeni list RCG - Opštinski propisi", br. 28/06 i "Službeni list CG - Opštinski propisi", br. 39/10 i 18/12) i člana 17 Poslovnika Skupštine Glavnog grada ("Službeni list CG -Opštinski propisi", br. 15/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 24. juna i 19. septembra 2014. godine, donijela je
+R J E Š E NJ E
