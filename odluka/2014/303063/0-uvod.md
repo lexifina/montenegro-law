@@ -1,0 +1,2 @@
+Na osnovu čl.29 st.2 i čl.40 st.1 Zakona o državnoj imovini ("Sl.list CG", br.21/09 ,40/11), čl.4 st.1 i 3 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl.list CG", br.44/10) i čl.31 Statuta Opštine Tivat ("Sl.list CG-Opštinski propisi" br.40/04,26/06 i "Sl.list CG-Opštinski propisi", br.12/11 i 21/11) uz prethodnu saglasnost Vlade CG, na sjednici Skupštine opštine Tivat održanoj dana 10.09.2014. donijeta je
+ODLUKA
