@@ -1,0 +1,2 @@
+Na osnovu čl. 15 i 105 Zakona o izboru odbornika i poslanika ("Sl.list RCG"br. 4/98, 5/98, 14/00, 18/00, 09/01, 41/02, 46/02, 45/04, 48/06 i 56/06 i "Sl. list CG", br.46/11 i 14/14) i čl. 44 i 45. Statuta opštine Herceg Novi ("Sl.list RCG- Opštinski propisi",br. 15/04,32/05,31/06, 14/07 i "Sl.list CG- Opštinski propisi",br. 16/09 i 16/11) Skupština opštine Herceg Novi , na sjednici održanoj 9.septembra 2014.godine, donosi
+O D L U K U
