@@ -1,0 +1,4 @@
+# Član 3
+## Odbijanje zahtjeva zbog nedostavljanja dokaza o postojanju osnovnog pravnog posla
+Ukoliko ugovorne strane ugovora o vansudskom poravnanju CDA ne dostave dokaz o postojanju osnovnog pravnog posla iz kojeg proističu prava i obaveze koje su predmet vansudskog poravnanja CDA će odbiti zahtjev za prenos vlasništva na hartijama od vrijednosti po osnovu ugovora o vansudskom poravnanju.
+U slučaju iz stava 1 ovog člana, ugovorne strane ugovora o vansudskom poravnanju obavezne su da pokrenu sudski postupak radi utvrđivanja postojanja pravnog posla koji je predmet vansudskog poravnanja pred nadležnim sudom. Po okončanju predmetnog sudskog postupka, ugovorne strane ugovora o vansudskom poravnanju, uz ponovni zahtjev za prenos vlasništva po osnovu vansudskog poravnanja, CDA dostavljaju sudsku odluku kojom se utvrđuje postojanje pravnog posla koji je predmet poravnanja.
