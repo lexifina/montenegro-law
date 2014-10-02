@@ -1,0 +1,3 @@
+Na osnovu člana 39. Odluke o rješavanju stambenih potreba lica koja bira ili imenuje Skupština Opštine, Predsjednik opštine i drugih lica čiji je rad od posebnog interesa za Opštinu (’’Sl. list CG - Opštinski propisi’’, broj 18/11), čl. 33 i 37 Statuta Opštine Berane (’’Sl. list RCG - Opštinski propisi’’, br. 21/04, 34/06 i ’’Sl. list CG -Opštinski propisi’’, broj 6/11), a na predlog Odbora za izbor i imenovanje, Skupština opštine Berane na sjednici održanoj 30.09. i 01.10. 2014. godine, donijela je
+RJEŠENjE
+o izboru predsjednika i članova Komisije o rješavanju stambenih potreba lica koja bira ili
