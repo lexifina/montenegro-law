@@ -1,0 +1,2 @@
+Na osnovu člana 56 Zakona o lokalnoj samoupravi (″Službeni list RCG″, br. 42/03, 28/04, 75/05 i 13/06 i ″Službeni list CG″, br. 88/09, 3/10, 73/10, 38/12 i 10/14), člana 48 Statuta Glavnog grada (″Službeni list RCG - Opštinski propisi″, br. 28/06 i ″Službeni list CG - Opštinski propisi″, br. 39/10 i 18/12) Skupština Glavnog grada - Podgorice, na sjednici održanoj 6. oktobra 2014. godine, donijela je
+ODLUKU
