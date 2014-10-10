@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 23 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09, 03/10, 38/12 i 10/14), člana 18 stav 2 Zakona o kulturi ("Službeni list CG", broj 49/08), člana 12 Odluke o organizovanju Javne ustanove Centar za kulturu Berane ("Sl.list CG - Opštinski propisi", br. 9/09), člana 33 stav 1 tačka 45 Statuta Opštine Berane (''Službeni list RCG - Opštinski propisi", broj 21/04 i "Službeni list RCG - Opštinski propisi", br. 34/06 i 6/11) , Skupština opštine Berane, na sjednici održanoj 30.09. i 01.10.2014. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta javne ustanove Centar za
