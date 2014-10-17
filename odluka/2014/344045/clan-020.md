@@ -1,0 +1,3 @@
+# Član 20
+Nadzor nad sprovođenjem ove Odluke vrši Sekretarijat za komunalno-stambene poslove i saobraćaj.
+U sprovođenju nadzora iz stava 1.ovog člana ukoliko Sekretarijat ocijeni da DOO Komunalno- Berane ne obavlja poslove Skloništa u skladu sa Zakonom, ovom Odlukom i drugim propisima, predložiće Predsjedniku opštine Berane da pristupi raskidu Ugovora sa DOO Komunalno i predloži povjeravanje poslova Skloništa drugom pravnom licu ili preduzetniku u skladu sa Zakonom.
