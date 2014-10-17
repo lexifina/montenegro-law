@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09, 3/10,38/12 i 10/14), člana 56 stav 1 tačka 5 Statuta Opštine Tivat ("Sl.list RCG-Opštinski propisi", br. 40/04,26/06, "Sl.list CG-Opštinski propisi", br.12/11, 21/11 i 03/12) po pribavljenom mišljenju Glavnog administratora, Predsjednik Opštine Tivat dana 22.09. 2014. godine donio je
+ODLUKU
