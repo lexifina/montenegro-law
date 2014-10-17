@@ -1,0 +1,3 @@
+# Član 5
+Poslove premještanja vozila na drugo mjesto izvršavaju 4 namještenika_zaposlena u Komunalnoj policiji Prijestonice Cetinje, odnosno po 2 vozača i 2 poslužioca specijalnog vozila "Pauk".
+Poslove prijema premještenog vozila na posebno uređenom parkingu za smještaj i čuvanje vozila, čuvanja premještenih vozila do njihovog vraćanja vlasniku ili korisniku, vraćanja premještenih vozila, vođenje evidencija primljenih i vraćenih vozila, kao i obavljanje drugih administrativnih poslova u vezi premještanja vozila, vršiće namještenici zaposleni u Komunalnoj policiji Prijestonice Cetinje, a prema rasporedu koji odredi Načelnik Komunalne policije Prijestonice Cetinje.

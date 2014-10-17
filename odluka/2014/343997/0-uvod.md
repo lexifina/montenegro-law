@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tač. 4 i 11 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "SLlist CG", br. 88/09, 3/10, 73/10 i 38/12), čl. 1 i 4 Uredbe o povjeravanju dijela poslova Uprave Policije Prijestonici Cetinje i opštinama Bar, Budva, Tivat, Kotor, Niksić, Uicinj i Herceg Novi ("Sl.list CG", br. 7/13 i 32/13) i člana 87 alineja 4 i alineja 13 Statuta Prijestonice ("Sl. list CG - Opštinski propisi", br. 19/09, 37/10 i 26/13), Gradonačelnik Prijestonice Cetinje donosi
+ODLUKU
