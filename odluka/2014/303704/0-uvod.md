@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 Zakona o državnoj imovini (’’Sl. list CG’’, br. 21/09 i 40/11) i člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ( "Sl.list RCG", br.42/03, 28/04, 75/05, i 13/06, i "Sl.list CG", br. 88/09, 3/10, 38/12 i 10/14), člana 33 stav 1 tačka 9 i člana 37 Statuta Opštine Berane ("Sl.list RCG-Opštinski propisi", br. 21/04, 34/06, i "Sl.list CG - Opštinski propisi", broj 6/11), Skupština opštine Berane, na sjednici održanoj 30.09. i 01.10.2014. godine, donijela je
+ODLUKU
