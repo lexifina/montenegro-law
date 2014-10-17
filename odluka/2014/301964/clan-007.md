@@ -1,0 +1,2 @@
+# Član 7
+Osnovne smjernice iz planskih dokumenata širih teritorijalnih jedinica su: dalja razrada namjene prostora u skladu sa Prostornim planom Opštine, sa ciljem aktiviranja turističkih potencijala na poluostrvu Luštica. Uslov je čuvanje i unapređenje ambijentalnih karakteristika šireg i užeg područja i obezbjeđenje funkcionisanja predviđenih sadržaja planiranjem odgovarajuće saobraćajne i tehničke infrastrukture, vodeći računa o uslovima zaštite životne sredine.
