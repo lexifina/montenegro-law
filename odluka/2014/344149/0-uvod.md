@@ -1,0 +1,2 @@
+Na osnovu čl.14 i 15 Odluke o osnivanju Društva sa ograničenom odgovornošću za uzgoj, zaštitu i lov divljači i riba Danilvograd ("Službeni list CG - Opštinski propisi" br. 2/14), i člana 35 Statuta Opštine Danilovgrad ("Sl. list RCG- Opštinski propisi" br. 30/04 i "Sl. list CG- Opštinski propisi" br 19/08 i 12/11) Skupština opštine Danilovgrad na sjednici održanoj dana 10., 13. i 15. oktobra 2014. godine donijela je
+ODLUKU
