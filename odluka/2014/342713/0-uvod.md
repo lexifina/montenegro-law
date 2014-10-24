@@ -1,0 +1,3 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Službeni list RCG" broj 42/03, 28/04, 75/05, 13/06 i "Službeni list Crne Gore" broj 88/09, 03/10, 73/10,38/12 i 10/14) u vezi sa članom 3. Odluke o prenosu prava korišćenja na gradskom građevinskom zemljištu radi izgradnje sportsko-rekreativnog centra putem zajedničkog ulaganja ("Službeni list Opštine Kotor" broj 10/07) i člana 30. Statuta Opštine Kotor ("Službeni list Opštine Kotor", broj 3/04 i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 4/11), Skupština Opštine Kotor, na sjednici održanoj 03. 10. 2014. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Prijedlog Aneksa I Ugovora o realizaciji i sufinansiranju, izgradnje

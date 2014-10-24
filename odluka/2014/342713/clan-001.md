@@ -1,0 +1,4 @@
+# Član 1
+## sportsko-rekreaciong centra (sportska hala) u Škaljarima na urbanističkoj parceli 419/b koju čine kat. parc 410/3 i dio kat. parc. 419 K.O. Škaljari I
+Daje se saglasnost na Prijedlog Aneksa I Ugovora o realizaciji i sufinansiranju izgradnje sportsko -rekreaciong centra (sportska hala) u Škaljarima na urbanističkoj parceli 419/b koju čine kat.parc 410/3 i dio kat.parc. 419 K.O. Škaljari I, koji će zaključiti Opština Kotor i Direkcija za uređenje i izgradnju Kotora sa Ministarstvom finansija Crne Gore, Direkcijom javnih radova Crne Gore i JU Resurnim centrom za školovanje i rehabilitaciju lica sa poremećajima sluha i govora Kotor, kao pravnim slijedbenikom Zavoda za školovanje i rehabilitaciju lica sa poremećajima sluha i govora Kotor, Škaljari.
+Prijedlog Aneksa I Ugovora iz stava 1. ovog člana čini sastavni dio ove odluke.
