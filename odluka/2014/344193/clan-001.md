@@ -1,0 +1,3 @@
+# Član 1
+## o izmjenama i dopunama Odluke o naknadi za komunalno opremanje građevinskog zemljišta
+U Odluci o naknadi za komunalno opremanje građevinskog zemljišta ("Sl.list CG - Opštinski propisi" br. 12/14), u tački 1. stav 1. člana 5. poslije riječi "UP-om Starog grada Kotora" umjesto slova "i" stavlja se zarez i dodaju riječi "Državnom studijom lokacije za sektor 15, Državnom studijom lokacije za sektor 16", a u tački 5. stava 1. istog člana poslije riječi: "DUP-om Bigova," a prije riječi "Lokalnom studijom lokacije Vrmac, " dodaju se nove riječi "Državnom studijom lokacije - Sektor 38: Bigova, Lokalnom studijom lokacije Trašte".
