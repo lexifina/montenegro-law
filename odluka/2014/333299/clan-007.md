@@ -1,0 +1,2 @@
+# Član 7
+Lokalnom studijom lokacije Motički gaj u skladu sa važećom planskom dokumentacijom višeg reda i zakonskom regulativom utvrdiće se odgovarajuća organizacija i namjena prostora, i odrediti uslovi i način korišćenja istog. Uslov je očuvanje i unapređenje ambijentalnih karakteristika šireg i užeg područja i obezbjeđenje funkcionisanja predviđenih sadržaja planiranjem odgovarajuće saobraćajne i tehničke infrastrukture, vodeći računa o uslovima zaštite životne sredine i održivog razvoja..
