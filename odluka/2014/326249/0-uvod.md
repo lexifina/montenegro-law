@@ -1,0 +1,2 @@
+Na osnovu čl. 45 i 51 Zakona o lokalnoj samoupravi("Sl.list RCG" br. 42/03,28/04,75/05,13/08,88/09,73/10,38/12 i 10/14), čl. 64,66 i 67 Zakona o privrednim društvima ( "Sl.list RCG" br. 6/02 i "Sl. list Crne Gore", br. 17/07 , 80/08 ,40/10 , 36/1 , 40/1) i člana 32. stav 1 tačka 9 , a u vezi člana 13. stav 1 tačka 2 alineja 2 i tačka 5 alineja 4 Statuta opštine Andrijevica ( "Sl.list RCG- Opštinski propisi" br. 21/04 i 42/06 i "Sl.list CG- Opštinski propisi" br. 02/11 i 21/13 ) , Skupština opštine Andrijevica na sjednici održanoj 06.10. 2014. godine , donijela je
+ODLUKU
