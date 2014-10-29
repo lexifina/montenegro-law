@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 7 Zakona o zaštiti dobrobiti životinja ("Sl. list CG", br. 14/08 i 40/11), odredaba člana 2 i 8 Zakona o izmjenama i dopunama Zakona o prekršajima ("Sl. List CG", br. 32/14) i člana 30 stav 1 tačka 3 Statuta Opštine Kotor ("Sl. list Opštine Kotor", broj 3/04 i "Sl. list CG - Opštinski propisi", br. 17/08 i 31/09, 40/10 I 4/11), Skupština opštine Kotor, na sjednici održanoj 03. 10. 2014. godine, donijela je
+O D L U K U
