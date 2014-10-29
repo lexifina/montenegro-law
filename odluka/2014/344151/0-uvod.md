@@ -1,0 +1,2 @@
+Na osnovu člana 9 stav 3. a u vezi sa članom 34 Zakona o državnoj imovini ("Sl.list CG", br. 21/09 i 40/11), člana 7 Zakona o svojinsko pravnim odnosima ("Sl.list CG",br. 19/09), Zaključka Vlade Crne Gore o davanju prethodne saglasnosti br. 08-887/3 od 8. 05. 2014. godine i člana 35 Statuta Opštine Danilovgrad ("Sl.list RCG-Opštinski propisi" br. 30/04 i "Sl.list CG - Opštinski propisi" br 19/08 i 12/11), Skupština Opštine Danilovgrad na sjednici održanoj dana 10., 13. i 15. oktobra 2014. godine, donosi
+ODLUKU
