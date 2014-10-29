@@ -1,0 +1,3 @@
+# Član 6
+Osnovne smjernice za izradu Izmjena i dopuna UP-a, iz planskih dokumenata širih teritorijalnih cjelina, sadržane su u Programskom zadatku koji je sastavni dio ove Odluke.
+Sastavni dio ove Odluke je i Odluka o pristupanju izradi strateške procjene uticaja na životnu sredinu.
