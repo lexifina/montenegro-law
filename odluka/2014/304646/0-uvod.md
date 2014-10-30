@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 1 tačka 10 Zakona o Glavnom gradu (''Sl.list RCG'', br. 65/05, ''Sl.list Crne Gore'', br. 88/09,72/10), a u vezi sa članom 26 stav 1 tačka 12 kao i člana 40 Statutarne Odluke Gradske opštine Tuzi (’’Sl.list RCG - Opštinski propisi’’, br. 50/06, ’’Sl.list Crne Gore’’,br.08/07, ’’Sl.list Crne Gore-Opštinski propisi’’, br. 07/12), Skupština Gradske opštine Tuzi na sjednici održanoj dana 30.10.2014. godine, donosi
+ODLUKU
