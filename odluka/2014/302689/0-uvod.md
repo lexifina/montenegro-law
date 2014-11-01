@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2, člana 87 stav 1, a u vezi sa članom 90 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list Crne Gore", br. 88/09, 03/10, 38/12 i 10/14 ) i člana 31 stav 1 tačka 2 Statuta Opštine Šavnik ("Sl. list RCG-Opštinski propisi", br. 36/04 i ,,Sl.list CG-Opštinski propisi", br. 24/08 i 36/10), na predlog Odbora za izbor i imenovanja, Skupština opštine Šavnik, na sjednici održanoj 20.10.2014. godine, donijela je
+ODLUKU
