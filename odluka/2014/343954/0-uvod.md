@@ -1,0 +1,2 @@
+Na osnovu člana 14 stav 2 tačka 3 Zakona o komunalnim djelatnostima ("Sl. List RCG" br. 12/95), člana 4 stav 2 Odluke o povjeravanju obavljanja komunalne djelatnosti upravljanja javnim prostorom za parikranje na kat. parc. 21/1 i 21/2 KO Kotor, Javnom komunalnom preduzeću "Kotor" Kotor ("Sl. List CG- opštinski propisi" br: 14/14) i člana 30. Statuta Opštine Kotor ("Sl. Opštine Kotor" br. 03/04 i "Sl. List Crne Gore - Opštinski propisi" br. 17/08, 31/09, 40/1 i 4/11), Skupština оpštine Kotor na sjednici održanoj 03. 10. 2014. godine, donijela je
+ODLUKU
