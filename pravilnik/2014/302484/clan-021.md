@@ -1,0 +1,6 @@
+# Član 21
+Naručilac kliničkog ispitivanja (u daljem tekstu: sponzor) dostavlja blagovremeno obavještenje Agenciji u slučaju ozbiljnog i neočekivanog neželjenog dejstva u toku sprovođenja kliničkog ispitivanja lijeka.
+Zdravstveni radnik koji učestvuje u kliničkom ispitivanju u svojstvu istraživača, sva ozbiljna neželjena dejstva/neželjene događaje odmah prijavljuje sponzoru, osim onih za koje se to ne za- htijeva Protokolom kliničkog ispitivanja ili Brošurom za istraživače.
+Sponzor vrši procjenu prijava iz stava 2 ovog člana i bez odlaganja obavještava sve istraživače, Etički komitet i Agenciju o svim saznanjima koja bi mogla štetno da utiču na zdravlje ispitanika, sprovođenje ispitivanja ili na obustavljanje sprovođenja kliničkog ispitivanja.
+Sponzor vodi detaljnu evidenciju o svim neželjenim dejstvima/neželjenim događajima koje mu je prijavio istraživač i vrši procjenu njihove ozbiljnosti, uzročno-posljedične povezanosti i oče- kivanosti.
+Sponzor ne smije da umanji stepen uzročno-posljedične povezanosti koji je procijenio istraživač. Ako se sponzor ne slaže sa procjenom uzročno-posljedične povezanosti koju je izvršio istraživač, u prijavi slučaja koja se dostavlja Agenciji treba navesti obje procjene.

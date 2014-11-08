@@ -1,0 +1,2 @@
+# Član 17
+Nosilac dozvole za lijek dostavlja Agenciji PSUR, koji sadrži sveobuhvatne informacije o bezbjednosti lijeka, koje su prikupljene u vremenskom periodu nakon stavljanja lijeka u promet, sa stručnom procjenom odnosa koristi i rizika prilikom njegove primjene, na zahtjev Agencije odmah, ili u obliku redovnih izvještaja, u skladu sa smjernicama Evropske agencije za ljekove o dobroj praksi u farmakovigilanci (Guideline on good pharmacovigilance practices-GVP, Module VII - Periodic safety update report).

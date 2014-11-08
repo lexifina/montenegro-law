@@ -1,0 +1,2 @@
+# Član 1
+U cilju bezbjedne primjene ljekova u Crnoj Gori, nosilac dozvole za lijek, zdravstvena ustanova, zdravstveni radnik i naručilac, odnosno predlagač kliničkog ispitivanja, pravna lica koja učestvuju u prometu ljekova (u daljem tekstu: učesnici u sistemu farmakovigilance), prikupljaju, dostavljaju i prate podatke o neželjenim dejstvima ljekova, za upotrebu u humanoj medicini, na način propisan ovim pravilnikom.

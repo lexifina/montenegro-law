@@ -1,0 +1,2 @@
+Na osnovu čl. 75 i 127 Zakona o ljekovima ("Službeni list CG", br. 56/11 i 6/13), Ministarstvo zdravlja, donijelo je
+P R A V I L N I K O NAČINU PRIKUPLJANJA PODATAKA I NAČINU PRIJAVLJIVANJA I PRAĆENJA NEŽELJENIH DEJSTAVA LJEKOVA ZA UPOTREBU U HUMANOJ MEDICINI
