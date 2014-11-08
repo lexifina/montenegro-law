@@ -1,0 +1,3 @@
+# Član 14
+Spajanje zajedničkih fondova
+Spajanje zajedničkih fondova je postupak u kojem dva ili više zajedničkih fondova ili njihovih investicionih odsjeka, prilikom prestanka poslovanja bez likvidacije, prenose svu svoju imovinu i obaveze na novoosnovani zajednički fond ili na njegov investicioni odsjek, u zamjenu za izdavanje investicionih jedinica vlasnicima investicionih jedinica u novoosnovanom fondu primaocu ili u njegovom investicionom odsjeku i koja može u skladu sa aktom o preuzimanju obuhvatati i novčanu naknadu koja nije viša od 10% neto vrijednosti imovine tih investicionih jedinica.

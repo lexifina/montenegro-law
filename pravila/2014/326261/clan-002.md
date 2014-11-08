@@ -1,0 +1,3 @@
+# Član 2
+## Pripajanje zajedničkih fondova
+Pripajanje zajedničkih fondova je postupak u kojem jedan ili više zajedničkih fondova ili njegovih investicionih odsjeka prestaje da postoji bez likvidacije i prenosi svu svoju imovinu i obaveze (u daljem tekstu: preuzeti fond) na drugi zajednički fond ili na investicioni odsjek drugog zajedničkog fonda (u daljem tesktu: fond primalac), u zamjenu za izdavanje investicionih jedinica vlasnicima investicionih jedinica u fondu primaocu, koja može u skladu sa aktom o preuzimanju obuhvatati i novčanu naknadu koja nije viša od 10% neto vrijednosti imovine tih investicionih jedinica.

@@ -1,0 +1,9 @@
+# Član 10
+Postupak pripajanja
+Pet radnih dana prije dana izračunavanja odnosa zamjene zabranjeno je svako dalje izdavanje ili otkup investicionih jedinica u preuzetom fondu i fondu primaocu.
+Zabrana iz stava 1 ovog člana traje do dan sprovođenja statusne promjene, uključujući i taj dan, ali ne duže od 15 dana.
+Društva za upravljanje preuzetim fondom i fondom primaocem moraju, prema stanju na dan obračuna odnosa zamjene i prema metodologiji opisanoj u nacrtu pripajanja, na osnovu kojeg je Komisija izdala saglasnost za pripajanje, odrediti odnos zamjene prema kojem će se sprovesti zamjena investicionih jedinica u preuzetom fondu za investicione jedinice u fondu priomaocu, uz moguće novčane isplate. Pri tome se mora poštovati neto-vrijednost imovine zajedničkih fondova koji učestvuju u postupku pripajanja.
+Društva za upravljanje preuzetim fondom i fondom primaocem dužna su na dan sprovođenja statusne promjene da sprovedu nacrt pripajanja i prenesu cjelokupni prenos imovine i obaveza u vezi sa svakim zajedničkim fondom koji učestvuje u postupku pripajanja.
+Društva za upravljanje preuzetim fondom i fondom primaocem dužna su na dan sprovođenja statusne promjene vlasnicima investicionih jedinica u preuzetom fondu zamijeniti investicione jedinice iz preuzetog fonda za investicione jedinice u fondu primaocu, u skladu s odnosom zamjene iz stava 3 ovoga člana.
+Društva za upravljanje preuzetim fondom i fondom primaocem ne smiju sprovesti prenos imovine i obaveza kao i zamjenu investicionih jedinica u skladu s odredbama ovoga člana ukoliko revizor prethodno nije izdao pozitivno mišljenje o pripajanju.
+Imovina preuzetog fonda u dijelu koji se odnosi na ograničenja ulaganja ne mora biti u potpunosti usklađena s odredbama Zakona o investicionim fondovima i prospektom fonda primaoca najviše 60 dana od dana sprovođenja statusne promjene.
