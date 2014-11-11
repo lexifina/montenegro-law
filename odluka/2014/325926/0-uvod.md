@@ -1,0 +1,2 @@
+Na osnovu člana 45, a u vezi sa članom 57 tačka 6 Zakona o lokalnoj samoupravi ("Sl. list RCG" broj:42/03, 28/04, 75/05 i 13/06 i Zakona o izmjenama i dopunama Zakona o lokalnoj samoupravi "Sl.list CG" br. 88/09, 03/10 i 38/12) i člana 34, a u vezi sa članom 59 tačka 7 Statuta Opštine Pljevlja ("Sl.List RCG - Opštinski propisi" br. 37/04, 30/07) i ("Sl. List CG - Opštinski propisi" br. 32/09 i 14/11), Skupština Opštine Pljevlja na sjednici od 28.10.2014. godine donijela je
+ODLUKU
