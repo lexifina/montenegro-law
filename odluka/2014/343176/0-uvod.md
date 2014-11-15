@@ -1,0 +1,2 @@
+Na osnovu člana 78 stav 3 Zakona o upravljanju otpadom ("Sl. list Crne Gore" broj 64/11), člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG" br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG" br. 88/09, 03/10, 38/12 i 10/14), čl. 33 i 37 Statuta Opštine Berane ("Sl.list RCG - Opštinski propisi" br. 21/04 i 34/06 i "Sl.list CG - Opštinski propisi" broj 06/11), Skupština opštine Berane, na sjednici održanoj dana 12. novembra 2014. godine, donijela je
+ODLUKU
