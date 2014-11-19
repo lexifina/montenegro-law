@@ -1,0 +1,2 @@
+# Član 21
+Organ lokalne uprave nadležan za poslove planiranja, uređenja prostora i izgradnji objekata može odobriti privrednim društvima i institucijama čiji je osnivač, u pojedinim danima ili vremenskim intervalima u pješačkim zonama i drugim lokacijama na građevinskom zemljištu, organizovanje prigodnih prezentacija i prodaju roba na privremenim objektima tipa - štand ili izložebenim pultovima i slično, shodno uslovima predviđenim ovom odlukom i Planom.

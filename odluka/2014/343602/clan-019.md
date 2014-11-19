@@ -1,0 +1,4 @@
+# Član 19
+Odobrenje za postavljanje i građenje privremenih objekata izdaje se sa rokom važenja do jedne godine, odnosno do privođenja planiranoj namjeni utvrđenoj planskim dokumentom, ako taj rok bude kraći.
+Izuzetno od stava 1 ovog člana, odobrenje za postavljanje i građenje privremenih objekata tipa kiosk, zatvorene bašte kao samostalnog privremenog objekta i manjeg sportskog objekta, izdaje se sa rokom važenja do tri godine, odnosno do privođenja zemljišta namjeni utvrđenoj planskim dokumentom, ako taj rok bude kraći.
+Odobrenje za postavljanje privremenih objekata može se produžiti nakon isteka roka iz stava 1 i 2 ovog člana, ako vlasnik objekta najkasnije u roku od 10 dana prije isteka roka važenja odobrenja podnese zahtjev za produženje odobrenja nadležnom organu , na način i u skladu sa uslovima propisanim sa ovom Odlukom i Planom.
