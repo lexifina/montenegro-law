@@ -1,0 +1,2 @@
+Na osnovu člana 56 Statuta opštine Tivat ("Sl.list RCG - Opštinski propisi" 40/04,26/06 i " Sl.list Crne Gore -Opštinski propisi 12/11 21/11 i 3/13) a u vezi s članom 17 Zakona o zaradama državnih službenika i namještenika ( "Službeni list Crne Gore" broj 14/12 ) i članom 166 b Zakona o državnim službenicima i namještenicima ("Sl.list Crne Gore" br. 39/11 i 66/12 ) Predsjednik Opštine Tivat donio je
+ODLUKU
