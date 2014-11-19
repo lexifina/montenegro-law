@@ -1,0 +1,2 @@
+Na osnovu člana 69 Zakona o budžetu i fiskalnoj odgovornosti ("Sl. list CG", br. 20/14), člana 55 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03 i 44/03 i "Sl. list CG", br. 5/08 i 74/10) i člana 38 stav 1 tačka 6 Statuta Opštine Žabljak ("Sl. list RCG- Opštinski propisi", br. 9/05 i 23/07 i "Sl. list CG-Opštinski propisi", br. 3/11), Skupština Opštine Žabljak na sjednici održanoj 23.10.2014. godine, donijela je
+O D L U K U
