@@ -1,0 +1,4 @@
+# Član 2
+Učešće Opštine Nikšić u izgradnji objekta iz člana 1 ove odluke, odnosi se na obezbjeđenje lokacije-građevinskog zemljišta i to dijela urbanističke parcele UP1 koju čini katastarska parcela broj 4935 površine 1.553,00 m2 vrijednosti od 93.009,17 EUR, odnosno 59,89 EUR po m2 zemljišta, utvrđene procjenom Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine-PJ Nikšić broj 443-103-717/14 od 14.10.2014.godine, kao i vršenje stručnog nadzora nad izgradnjom planiranog objekta.
+Učešće NVF "Ćano Koprivica" Nikšić se odnosi na izradu glavnog projekta za planirani objekat, obavezu plaćanja naknade za komunalno opremanje građevinskog zemljišta, obavezu pribavljanja svih odobrenja do izdavanja rješenja o upotrebnoj dozvoli kao i finansiranje izgradnje cjelokupnog objekta.
+Rok za izgradnju planiranog objekta je tri godine od dana izdavanja građevinske dozvole, u protivnom pokrenuće se postupak za prestanak važenja Odluke.

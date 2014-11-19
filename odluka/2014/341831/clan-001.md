@@ -1,0 +1,3 @@
+# Član 1
+## o zajedničkom ulaganju opštine Nikšić i NVF "Ćano Koprivica" Nikšić
+Ovom odlukom uređuju se odnosi zajedničkog ulaganja Opštine Nikšić i NVF "Ćano Koprivica" Nikšić, radi privođenja prostora planiranoj namjeni u skladu sa Odlukom o donošenju Detaljnog urbanističkog plana Rudo Polje ("Službeni list RCG -Opštinski propisi", br. 02/84, 23/01 i 16/07 i "Službeni list CG-Opštinski propisi", broj 20/14), u cilju izgradnje vaspitno obrazovne ustanove za primjenu Montessori pedagogije, maksimalne spratnosti P+1, na katastarskoj parceli broj 4935, površine 1.553,00 m2, upisane u listu nepokretnosti broj 2866 KO Nikšić, kao svojina Države Crne Gore, sa pravom raspolaganja Opštine Nikšić.
