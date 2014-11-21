@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list Crne Gore", broj 40/10, 46/10 i 06/13) i člana 66 Zakona o platnom prometu ("Službeni list Crne Gore", broj 62/13), Savjet Centralne banke Crne Gore, na sjednici održanoj 10.11.2014. godine, donio je
+O D L U K U O OSNOVNIM ELEMENTIMA NALOGA ZA PLAĆANJE ZA IZVRŠAVANJE NACIONALNIH PLATNIH TRANSAKCIJA PREKO TRANSAKCIONIH RAČUNA
