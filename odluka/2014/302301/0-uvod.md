@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list Crne Gore", br. 40/10, 46/10 i 06/13 ) i člana 79 stav 8, člana 118 stav 2 i člana 123 st. 1 i 5 Zakona o platnom prometu ("Službeni list Crne Gore", br. 62/13), Savjet Centralne banke Crne Gore, na sjednici održanoj 10.11.2014. godine, donio je
+O D L U K U O ZAŠTITI NOVČANIH SREDSTAVA KORISNIKA PLATNIH USLUGA I NOVČANIH SREDSTAVA PRIMLJENIH U ZAMJENU ZA IZDATI ELEKTRONSKI NOVAC
