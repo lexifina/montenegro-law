@@ -1,0 +1,2 @@
+# Član 3
+Pri procjeni usklađenosti rada platnog sistema sa pojedinim Principom za funkcionisanje platnih sistema, Centralna banka se posebno rukovodi ključnim odrednicama za ocjenu usklađenosti sa tim principom utvrđenim Principima za infrastrukturu finansijskog tržišta i dokumentima za njihovu implementaciju, kao i propisima i dokumentima Evropske centralne banke kojima se uređuju zahtjevi za nadgledanje sistemski značajnih platnih sistema i okvirom za nadgledanje platnih sistema koji nijesu sistemski značajni.
