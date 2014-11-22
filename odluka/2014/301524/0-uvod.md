@@ -1,0 +1,2 @@
+Na osnovu člana 48 stav 1 alineja 25b Statuta Glavnog grada (″Službeni list RCG - Opštinski propisi″, broj 28/06 i ″Službeni list CG - Opštinski propisi″, br. 39/10 i 18/12) i člana 30 Etičkog kodeksa izabranih predstavnika i funkcionera u lokalnoj samoupravi Glavnog grada - Podgorice (″Službeni list CG - Opštinski propisi″, broj 16/10), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 7. novembra 2014. godine, donijela je
+ODLUKU
