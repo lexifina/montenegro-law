@@ -1,0 +1,5 @@
+# Član 1
+## o raspisivanju Javnog poziva za prenos prava svojine na građevinskom zemljištu
+Skupština Opštine Ulcinj, odlučuje da se raspiše Javni poziv, radi prenosa prava svojine na građevinskom zemljištu, u vlasništvu Opštine Ulcinj i to katastarskim parcelama broj 6502/5 površine 1469 m2, po kulturi voćnjak prve klase i 6502/6 površine 1413 m2, po kulturi voćnjak prve klase sa LN.br.3849 KO Ulcinj, koje se nalaze unutar zahvata plana Izmjena i dopuna DUP-a "Ulcinj-grad" naselje Pinješ.
+Kat.parcela br.6502/5 čini urbanističku parcelu br.2, a kat.parcela br.6502/6 čini urbanističku parcelu br.3, unutar zahvata plana Izmjena i dopuna DUP-a "Ulcinj- grad" naselje Pinješ.Obadvije parcele su predviđene za stanovanje srednje gustine i imaju tretman gradskog građevinskog zemljišta.
+Prenos prava svojine na nepokretnostima iz stava 1. ovog člana vrši se radi privođenja namjeni predmetne parcele i to radi uređenja prostora u skladu sa namjenom predviđenom Izmjenama i dopunama DUP-a "Ulcinj-grad" naselje Pinješ.
