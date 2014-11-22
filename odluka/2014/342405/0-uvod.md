@@ -1,0 +1,2 @@
+Na osnovu člana 64. Zakona o privrednim društvima ("Sl.list CG " br.6/02,17/07, 80/08, 40/10, 73/10, 36/11 i 40/11) , člana 45. Zakona o lokalnoj samoupravi ("Sl.list RCG" broj 42/03, 28/04, 75/05, 13/06, 88/09, 73/10 i 38/12 ) , člana 13. Zakona o komunalnim djelatnostima ("Sl.list RCG" br.12/95), a vezano za čl. 13. Zakona o unapređenju poslovnog ambijenta ("Sl.list CG" br.40/10) te člana 34. Statuta Opštine Plav ("Sl.list CG - Opštinski propisi" br.17/07, 25/09 i 38/10), Skupština opštine Plav, na sjednici održanoj 10.11.2014.godine , donijela je
+ODLUKU
