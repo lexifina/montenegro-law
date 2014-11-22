@@ -1,0 +1,2 @@
+Na osnovu člana 14 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Službeni list RCG", broj 12/95), člana 48 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", broj 28/06 i "Sl. list CG - Opštinski propisi", br. 39/10 i 18/12) i člana 11 stav 1 alineja 1 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" - Podgorica ("Sl.list CG - Opštinski propisi", broj 22/13), Skupština Glavnog grada - Podgorice, na sjednici održanoj 7. novembra 2014. godine, donijela je
+ODLUKU
