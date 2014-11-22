@@ -1,0 +1,3 @@
+# Član 1
+## ograničenom odgovornošću ’’Regionalni biznis centar’’ Berane
+Ovom Odlukom ovlašćuje se Predsjednik Opštine Plav, da zaključi i potpiše Ugovor o osnivanju Društva sa ograničenom odgovornošću ’’Regionalni biznis centar’’ Berane, u formi i sadržini sačinjenoj od strane stručnog lica angažovanog na osnovu tendera br. 2o13/335-251/o5, shodno Projektu "Uspostavljanje regionalnog biznis centra i inkubatora na sjevero - istoku Crne Gore", br. 2o13/335251, i Memorandumu o saradnji izmedju Regionalne razvojne angencije Bjelasica, Komovi i Prokletije, opština Berane, Bijelo Polje, Andrijevica, Plav i Rožaje, kao potpisnika.
