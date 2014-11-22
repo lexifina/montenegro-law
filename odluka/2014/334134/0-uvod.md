@@ -1,0 +1,3 @@
+Na osnovu člana 29 st. 2 i 35 stav 1 Zakona o državnoj imovini (″Službeni list Crne Gore", br. 21/09 i 40/11), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi (″Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i ″Službeni list Crne Gore″, br. 88/09, 3/10,73/10, 38/12 i 10/14) i člana 48 stav 1 tačka 9 Statuta Glavnog grada (″Službeni list RCG - Opštinski propisi", broj 28/06 i "Službeni list CG-Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada-Podgorice, na sjednici održanoj dana 7. novembra 2014. godine, donijela je
+ODLUKU
+o izmjeni Odluke o prenosu prava raspolaganja građevinskim zemljištem Vladi Crne Gore -
