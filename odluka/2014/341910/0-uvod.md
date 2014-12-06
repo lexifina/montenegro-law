@@ -1,0 +1,2 @@
+Na osnovu člana 6. i člana 40 stav 2. tačka 3. Zakona o državnoj imovini ("Sl.list CG" br. 21/09), člana 561. i 562. Zakona o obligacionim odnosima ("Sl.list CG" br. 47/08, 4/11) i člana 16. stav 2. i člana 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor" br. 3/04 i "Sl. list CG- Opštinski propisi" br. 17/08 i 31/09, 40/10 i 4/11), Skupština оpštine Kotor na sjednici održanoj 14. 11. 2014. godine donijela je
+ODLUKU

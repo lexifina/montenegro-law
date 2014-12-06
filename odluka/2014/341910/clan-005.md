@@ -1,0 +1,3 @@
+# Član 5
+Prava i obaveze između Opštine Kotor i "MD Enterprise" DOO Kotor, Dobrota Autokamp BB koje proističu iz stava2. člana 2. ove Odluke, a odnose se na izgradnju saobraćajnice regulisaće se Ugovorom koji u ime Opštine Kotor zaključuje Direkcija za uređenje i izgradnju Kotora i "MD Enterprise" DOO Kotor, Dobrota Autokamp BB.
+Ugovorom iz stava 1.ovog člana će se regulisati i ovlašćenje Direkciji za uređenje i izgradnju Kotora da u slučaju potrebe, u ime "MD Enterprise" Kotor u svojstvu investitora podnese zahjtev nadležnim organima za izdavanje građevinske dozvole za izgradnju novoplanirane saobraćajnice u skladu sa planskim dokumentom.
