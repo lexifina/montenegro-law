@@ -1,0 +1,2 @@
+# Član 5
+Ime domena određuje se u skladu sa propisom kojim se uređuje način i postupak registracije i upotrebe domena, etičkim i moralnim načelima, standardima koncepta, upravljanja, implementacije i specifikacije imena domena, standardima komunikacionih nivoa i primjene i podrške pružanja internet usluga - RFC (Request For Comments) 1034, 1035, 1122 i 1123, kao i u skladu sa IETF (Internet Engineering Task Force) standardima datim u RFC dokumentima 3454, 3490, 3491, 3492 i 4690 (standardi pripreme i koncepta internacionalizovanih imena domena- IDN).
