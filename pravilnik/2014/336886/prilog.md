@@ -1,0 +1,36 @@
+* U ovaj pravilnik prenijeta je Direktiva 2004/108/EZ Evropskog parlamenta i Savjeta o elektromagnetnoj kompatibilnosti.
+PRILOG 1
+UNUTRAŠNJA KONTROLA PROIZVODNJE (OBEZBJEĐENJE KVALITETA PROIZVODNJE)
+1. Proizvođač mora za svaki uređaj izvršiti procjenu usaglašenosti sa bitnim zahtjevima elektromagnetne kompatibilnosti iz člana 5 stav 1 tačka 1 ovog pravilnika. Smatra se da je uređaj na koji su primijenjeni odgovarajući standardi iz člana 6 ovog pravilnika, usaglašen sa odgovarajućim bitnim zahtjevima iz člana 5 ovog pravilnika.
+2. Postupak ocjenjivanja usaglašenosti uređaja sa bitnim zahtjevima elektromagnetne kompatibilnosti iz člana 5 stav 1 tačka 1 ovog pravilnika mora uzeti u obzir sve uobičajene radne uslove i sve konfiguracije tog uređaja koje je proizvođač predvidio za namjensku upotrebu.
+3.Tehnička dokumentacija koja pruža dokaz o usaglašenosti uređaja sa bitnim zahtjevima elektromagnetne kompatibilnosti prati svaki uređaj, u skladu sa tačkom 2 Priloga 3 ovog pravilnika.
+4. Tehnička dokumentacija iz tačke 3 ovog priloga čuva se u periodu od najmanje deset godina od dana proizvodnje posljednjeg takvog uređaja.
+5. Usaglašenost uređaja sa svim bitnim zahtjevima elektromagnetne kompatibilnosti iz člana 5 ovog pravilnika potvrđuje se deklaracijom o usaglašenosti koju izdaje proizvođač ili njegov zastupnik.
+6. Deklaracija o usaglašenosti čuva se u periodu od najmanje deset godina od dana proizvodnje posljednjeg takvog uređaja.
+7. Ako proizvođač ili njegov zastupnik nemaju sjedište u Crnoj Gori, deklaraciju o usaglašenosti i tehničku dokumentaciju čuva lice koje stavlja uređaj na tržište Crne Gore. 8. Oprema i uređaji proizvode se u skladu s tehničkom dokumentacijom iz tačke 3 ovog Priloga i drugim zahtjevima iz ovog pravilnika koji se na njih odnose.
+9. Tehnička dokumentacija i deklaracija o usaglašenosti treba da budu pripremljeni u skladu sa Prilogom 3 ovog pravilnika.
+PRILOG 2
+POSTUPAK OCJENJIVANJA USAGLAŠENOSTI KOJI UKLJUČUJE IMENOVANO TIJELO ZA OCJENJIVANJE USAGLAŠENOSTI
+Ovaj postupak se sastoji od postupaka iz Priloga 1 ovog pravilnika i sljedećih dodatnih aktivnosti:
+1. Proizvođač ili njegov zastupnik imenovanom tijelu iz člana 8 ovog pravilnika, uz zahtjev za pokretanje postupka ocjenjivanja usaglašenosti, dostavlja tehničku dokumentaciju iz Priloga 3 tačka 2 ovog pravilnika. U zahtjevu podnesenom imenovanom tijelu proizvođač ili njegov zastupnik bliže određuje koje aspekte bitnih zahtjeva elektromagnetne kompatibilnosti treba ocijeniti.
+2. Imenovano tijelo vrši uvid u tehničku dokumentaciju i ocjenjuje da li ta dokumentacija pravilno iskazuje ispunjavanje zahtjeva iz ovog pravilnika. Ako je usaglašenost uređaja potvrđena, imenovano tijelo proizvođaču ili njegovom zastupniku izdaje ispravu o usaglašenosti kojom potvrđuje usaglašenost tog uređaja sa bitnim zahtjevima elektromagnetne kompatibilnosti. Isprava o usaglašenosti mora biti ograničena na one aspekte bitnih zahtjeva elektromagnetne kompatibilnosti za koje je imenovano tijelo sprovelo postupak ocjenjivanja usaglašenosti.
+3. Isprava o usaglašenosti iz tačke 2 ovog Priloga, kojom imenovano tijelo potvrđuje usaglašenost opreme sa bitnim zahtjevima elektromagnetne kompatibilnosti iz člana 5 ovog pravilnika, čini dio tehničke dokumentacije iz Priloga 3 tačka 2 ovog pravilnika.
+PRILOG 3
+ZNAK CE,
+TEHNIĆKA DOKUMENTACIJA I DEKLARACIJA O USAGLAŠENOSTI
+1. Znak CE Znak CE stavlja se na opremu u skladu sa zakonom kojim se uređuju tehnički zahtjevi za proizvode i ocjenjivanju usaglašenosti, propisom kojim se uređuje oblik, sadržaj i izgled znaka usaglašenosti i članom 9 ovog pravilnika.
+2. Tehnička dokumentacija Tehnička dokumentacija mora omogućiti da se sprovede ocjenjivanje usaglašenosti uređaja sa bitnim zahtjevima elektromagnetne kompatibilnosti iz člana 5 ovog pravilnika. Tehnička dokumentacija obuhvata projektovanje i proizvodnju uređaja, a posebno uključuje:
+- opšti opis uređaja, - dokaze o usaglašenosti sa primjenjenim harmonizovanim standardima, ako su ti standardi primjenjeni u cjelini ili djelimično, - za uređaje u proizvodnji kod kojih nijesu primijenjeni ili su samo djelimično primijenjeni standardi iz člana 6 ovog pravilnika, i za uređaje za koje ne postoje standardi, potrebno je priložiti opis postupaka koji su primijenjeni kako bi se zadovoljili bitni zahtjevi iz člana 5 ovog pravilnika, uključujući opis sprovođenja postupaka ocjenjivanja usaglašenosti sa zahtjevima elektromagnetne kompatibilnosti iz Priloga 1 ovog pravilnika, rezultate sprovedenih projektnih kalkulacija, izvršene preglede, ispitne izvještaje itd., - ispravu o usaglašenosti koju je izdalo imenovano tijelo, ako je sproveden postupak u skladu sa Prilogom 2 ovog pravilnika.
+3. Deklaracija o usaglašenosti Deklaracija o usaglašenosti sadrži najmanje:
+- pozivanje na ovaj pravilnik, - podatke o uređaju na koji se odnosi, utvrđene u članu 10 stav 1 ovog pravilnika, - naziv i adresu proizvođača, kao i, po potrebi, naziv i adresu njegovog zastupnika, - popis standarda ili drugih tehničkih specifikacija sa kojima je uređaj usaglašen, da bi ispunjavao zahtjeve ovog pravilnika, - datum izdavanja deklaracije o usaglašenosti, - ime, prezime i potpis lica koje je ovlašćeno da predstavlja proizvođača ili njegovog zastupnika.
+PRILOG 4
+MINIMALNI KRITERIJUMI KOJI MORAJU DA BUDU ISPUNJENI ZA IMENOVANJE TIJELA ZA OCENJIVANJE USAGLAŠENOSTI
+1. Imenovano tijelo, odgovorno lice i lica odgovorna za sprovođenje postupaka ocjenjivanja usaglašenosti ne mogu biti projektant, proizvođač, dobavljač, montažer ili korisnik opreme u vezi koje koje to tijelo vrši aktivnosti, kao ni njihov zastupnik.
+2. Imenovano tijelo, odgovorno lice i lica odgovorna za sprovođenje postupaka ne mogu biti direktno uključeni u projektovanje, izradu, trgovinu ili održavanje opreme, ni predstavljati strane koje su uključene u te aktivnosti, što ne isključuje mogućnost razmjene tehničkih informacija između proizvođača opreme i tijela.
+3. Imenovano tijelo i njegovi zaposleni moraju da sprovode ispitivanja i verifikacije sa profesionalnim pristupom i stručnom odgovornošću i ne smiju biti pod pritiskom ili uticajem, naročito ne finansijskim, od strane lica ili grupa u čijem su interesu rezultati kontrole, a što bi moglo uticati na njihovu odluku ili rezultate verifikacije.
+4. Imenovano tijelo mora da raspolaže stručnim kadrom i da poseduje potreban prostor kako bi bilo u mogućnosti da pravilno izvrši tehničke i administrativne poslove vezane za ocjenjivanje usaglašenosti, a mora da ima i pristup potrebnoj opremi.
+5. Lica odgovorna za ocjenjivanje usaglašenosti moraju da imaju:
+(a) odgovarajuće stručno i profesionalno obrazovanje, (b) odgovarajuće poznavanje zahtjeva ispitivanja koje izvršava kao i iskustvo u tom poslu, (c) sposobnost potrebnu za izdavanje isprava, zapisa i izvještaja koji pokazuju da je ispitivanje sprovedeno.
+6. Nepristranost lica zaduženih za vođenje postupaka mora biti zagarantovana i naknada za njihov rad ne smije da zavisi od broja obavljenih postupaka ocjenjivanja usaglašenosti, kao ni od dobijenih rezultata.
+7. Imenovano tijelo mora da zaključi ugovor o osiguranju od odgovornosti, osim ako njegovu odgovornost ne preuzme država u skladu sa zakonom.
+8. Imenovano tijelo mora da poštuje tajnost podataka koje dobije prilikom izvršavanja zadataka u skladu sa propisima koji uređuju zaštitu neobjavljenih podataka.
