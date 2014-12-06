@@ -1,0 +1,2 @@
+Na osnovu člana 23. Zakona o stanovanju i održavanju stambenih zgrada (" Sl. list Crne Gore", br 04/11, 40/11, 01/14, 06/14), člana 2. i 8. Zakona o izmjenama i dopunama Zakona o prekršajima ("Sl.list CG" br. 1/11, 39/11 i 32/14) i člana 30. Statuta Opštine Kotor ("Službeni list Opštine Kotor" broj 3/04 i "Sl. list CG-Opštinski propisi" br. 17/08, 31/09, 40/10 i 04/11), Skupština opštine Kotor, na sjednici održanoj 14. 11. 2014 godine, donijela je
+ODLUKU
