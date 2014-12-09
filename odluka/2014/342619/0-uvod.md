@@ -1,0 +1,2 @@
+Na osnovu člana 45. a u vezi sa članom 57.Zakona o lokalnoj samoupravi ("Sl. list RCG", br.42/03, 28/04, 75/05 i 13/06 i "Sl.list CG"", br. 88/09, 3/10, 38/12 i 10/14) i člana 33.stav 1 tačka 20 a u vezi sa članom 66 Statuta opštine Berane (,,Sl. list RCG-Opštinski propisi, br. 21/04 i 34/06 i ,,Službenom listu CG- Opštinski propisi", broj 6/11), Skupština opština Berane, na sjednici održanoj dana, 08. 12. 2014. godine donijela je
+ODLUKU
