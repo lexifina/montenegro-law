@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 6 Zakona o lokalnoj samoupravi ("Sl.list RCG", br.42/03, 28/04, 75/05, 13/06 i ""Sl.list CG"", br.88/09, 03/10, 38/12 i 10/14) i člana 33 stav 1 tačka 20 Statuta Opštine Berane ("SL.list RCG -Opštinski propisi", br. 21/04, 34/06 i ""Sl.list CG"- Opštinski propisi", broj 06/11), Skupština opštine Berana na sjednici održanoj dana, 08. 12. 2014. godine, donijela je
+ODLUKU
