@@ -1,0 +1,3 @@
+# Član 13
+Ako zajednički fond ulaže veliki dio svoje imovine u drugi zajednički fond ili druge subjekte za zajednička ulaganja, kako je to navedeno u članu 25 stav 1 tačka 3 Zakona o investicionim fondovima, opis ciljeva i investicione politike tog zajedničkog fonda u dokumentu sa ključnim informacijama za investitore sadrži kratko objašnjenje o tome kako se kontinuirano biraju drugi subjekti za zajednička ulaganja.
+Opis troškova uključuje sve troškove, koje snosi sam zajednički fond kao investitor u glavne subjekte za zajednička ulaganja. Naročito, u obračunu iznosa vlastitih tekućih troškova zajedničkog fonda, prikazuju se sve ulazne i izlazne naknade i tekući troškovi koje su naplatili glavni subjekti za zajednička ulaganja.
