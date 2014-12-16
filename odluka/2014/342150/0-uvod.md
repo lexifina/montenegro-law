@@ -1,0 +1,3 @@
+Na osnovu člana 117. stav 1.tačka 1. i stava 3. Zakona o uređenju prostora i izgradnji objekata ("Sl.list CG" br.51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14), čl. 2.i 8. Zakona o izmjenama i dopunama Zakona o prekršajima ("Službeni list CG", br. 1/11, 39/11 i 32/14) i čl.30 Statuta Opštine Kotor ("Sl.list Opštine Kotor" br. 03/04 i "Sl.list CG - Оpštinski propisi", br.17/08, 31/09, 40/10 i 04/11), Skupština оpštine Kotor, na sjednici održanoj 02. 12. 2014, godine, donijela je
+ODLUKU
+o dopuni Odluke o postavljanju odnosno građenju i uklanjanju pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom na teritoriji Opštine Kotor
