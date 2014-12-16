@@ -1,0 +1,2 @@
+Na osnovu čl. 68 i 69 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore", broj 20/14), člana 55 Zakona o finansiranju lokalne samouprave ("Službeni list Republike Crne Gore", broj 42/03 i "Službeni list Crne Gore", br. 5/08 i 74/10) i člana 63 stav 1 tačka 7 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", br. 19/09, 37/10 i 26/13), Skupština Prijestonice Cetinje, na sjednici održanoj 27.11 2014. godine, donijela je
+O D L U K U
