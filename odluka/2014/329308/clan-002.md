@@ -1,0 +1,2 @@
+# Član 2
+Suvlasnički dio od 10/240 na nepokretnostima iz Član 1 prodaje se ostalim suvlasnicima uknjiženim u Ln 320 ( Pavlin Krunoslavu, Miličić Nevenki, Richter Nadi,Pušić Petru, Kljajević Milovanu, Goldoni Vesni, Pavlin Mirjani, Pavlin Branimiru,Sekulić Mladenu, Sekulić Miljenku,Perinić Teresi,Perinić Isabel i Perinić Miriam) u jednakim djelovima za kupoprodajnu cijenu od 16.486,56€ (šesnaesthiljadačetiristoosamdesetšest eura i pedesetšest centi) .
