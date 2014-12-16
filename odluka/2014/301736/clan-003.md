@@ -1,0 +1,24 @@
+# Član 3
+AGENCIJA:
+- obavlja pripremne poslove i koordinira izradu i donošenje planskih dokumenata;
+- priprema odluke o izradi planskih dokumenata;
+- priprema programske zadatke za izradu lokalnih planskih dokumenata;
+- odlučuje o sprovođenju postupka izrade Izvještaja o strateškoj procjeni uticija na životnu sredinu za prostor u obuhvatu planskih dokumenata za koje se donosi odluka o izradi i priprema potrebna akta u postupku;
+- priprema i od nadležnih subjekata prikuplja dokumentaciju za izradu planskih dokumenata i Izvještaja o strateškoj procjeni uticaja na životnu sredinu;
+- obavlja poslove vezane za ustupanje izrade planskih dokumenata i Izvještaja o strateškoj procjeni uticaja na životnu sredinu;
+- obavljanje poslova organizacije i praćenje postupka izrade planskog dokumenta i Izvještaja o strateškoj procjeni uticaja na životnu sredinu;
+- obavlja poslove pribavljanja potrebnih saglasnosti i ostvaruje saradnju sa ovlašćenim subjektima;
+- organizuje i sprovodi javnu raspravu za planove i odluke iz domena nadležnosti Agencije;
+- priprema odluke o donošenju planskih i dokumenata iz nadležnosti Agencije;
+- obavlja poslove radi omogućavanja sprovođenja planskih dokumenata;
+- učestvuje u izradi akata kojima se propisuju uslovi za građenje objekata od opšteg interesa;
+- priprema Program uređenja prostora, za dio planiranja prostora, kao i svih drugih akata u vezi izrade i donošenja lokalnih planskih dokumenata;
+- formira i vodi dokumentacione osnove o prostoru;
+- obavlja poslove u vezi slobodnog pristupa informacijama iz djelokruga svoga rada;
+- ostvaruje saradnju sa NVO povodom pitanja iz svoje nadležnosti;
+- priprema informativne i druge stručne materijale za Skupštinu i predsjednika Opštine;
+- obezbjeđuje učešće javnosti u donošenju akata od zajedničkog interesa i ostalim aktima i aktivnostima u skladu sa zakonskim i opštinskim propisima;
+- stara se o objavljivanju na zvaničnoj internet prezentaciji Opštine akata u skladu sa zakonom i opštinskim propisima;
+- organizuje vršenje stručnih i administrativno-tehničkih poslova za potrebe komisija i radnih tijela imenovanih za obavljanje aktivnosti iz nadležnosti Opštine u ovoj oblasti i učestvuje u radu istih;
+- iz djelokruga nadležnosti Agencije vrši poslove vezano za javne nabavke, poslove na realizaciji usvojenih akcionih planova i strategija razvoja, poslove vezano za budžetske i poslove trezora, saradnje sa državnim organima i drugim pravnim licima u odviru djelokruga svog rada;
+- vrši i druge poslove iz nadležnosti Opštine u ovim oblastima.
