@@ -1,0 +1,1 @@
+# 14. -PLAN SA SMJERNICAMA ZA SPROVOĐENJE PLANSKOG DOKUMENTA....................................1:500
