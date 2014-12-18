@@ -1,0 +1,2 @@
+Na osnovu člana 25. Zakona o turističkim organizacijama (’’Sl. list RCG’’ br. 11/04 i 46/07), člana 12. Odluke o osnivanju Turističke organizacije Berane ("Sl. list CG-Opštinski propisi" broj 33/04) i člana 37. Statuta Opštine Berane ("Sl. list CG-Opštinski propisi" br. 21/04, 34/06 i "Sl. list CG-Opštinski propisi" broj 6/11), na predlog Odbora za izbor i imenovanje, Skupština opštine Berane, na sjednici održanoj dana 08. i 10. decembra 2014. godine, donijela je
+ODLUKU
