@@ -1,0 +1,2 @@
+Na osnovu člana 44 st. 2 i 4 Zakona o finansiranju lokalne samouprave("Sl.list RCG", br. 42/03 i 44/03 i "Sl.list CG - Opštinski propisi", br. 5/08 , 51/08 i 74/10), člana 58 Zakona o lokalnoj samoupravi ("Sl. list RCG, br. 42/03, 28/04, 75/05 i 13/06, "Sl.list CG" broj 88/09) i člana 36 stav 1 tačka 7 a u vezi sa članom 110 stav 2 i 4 i člana 60 Statuta Opštine Herceg Novi ("Sl.list RCG - Opštinski propisi" , br. 15/04, 32/05, 31/06, 14/07 i "Sl. list CG - Opštinski propisi", br. 16/09 i 16/11) Predsjednik Opštine Herceg Novi dana 22.12.2014. godine donosi
+ODLUKU
