@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list CG", br. 40/10, 46/10 i 06/13), člana 89 Zakona o bankama ("Službeni list CG", br.17/08 i 44/10) i člana 27 stav 8 Zakona o potrošačkim kreditima ("Službeni list CG", broj. 35/13), Savjet Centralne banke Crne Gore, na sjednici održanoj 11. decembra 2014. godine, donio je
+O D L U K U O IZMJENI I DOPUNI ODLUKE O JEDINSTVENOM NAČINU OBRAČUNA I ISKAZIVANJA EFEKTIVNE KAMATNE STOPE NA KREDITE I DEPOZITE
