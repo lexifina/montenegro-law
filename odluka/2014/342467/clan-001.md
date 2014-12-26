@@ -1,0 +1,3 @@
+# Član 1
+## ograničenom odgovornošću "Regionalni biznis centar" Berane
+Ovom Odlukom ovlašćuje se Predsjednik opštine Rožaje, da zaključi i potpiše Ugovor o osnivanju Društva sa ograničenom odgovornošću "Regionalni biznis centar" Berane, u formi i sadržani sačinjenoj od strane stručnog lica angažovanog na osnovu tendera br.2013/335-251/05, i shodno Projektu "Uspostavljanje regionalnog biznis centra i inkubatora sjevero - istoku Crne Gore " , br.2013/335251, i Memorandumu o saradnji izmedju Regionalne razvojne agencije Bjelasica, Komovi i Prokletije, opština Berane, Bijelo Polje , Andrijevica, Plav i Rožaje, kao potpisnika.
