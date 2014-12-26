@@ -1,0 +1,2 @@
+Na osnovu člana 32 tačka 14 Zakona o lokalnoj samoupravi (‘’Sl. list RCG’’ br. 42/03, 28/04, 75/05, 13/06 i ‘’Sl. list CG’’ br. 88/09, 3/10, 73/10 i 38/12), čl. 38 i 47 Zakona o sportu (‘’Sl. list CG’’ br. 36/11 i 36/13) i čl.33 i 37 Statuta opštine Berane (‘’Sl. list RCG-Opštinski propisi" br. 21/04 i 34/06 i "Sl. list CG-Opštinski propisi" broj 6/11), Skupština opštine Berane, na sjednici održanoj dana 08. i 10. decembra 2014. godine, donijela je
+ODLUKU
