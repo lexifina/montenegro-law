@@ -1,0 +1,2 @@
+Na osnovu člana 6 Zakona o komunalnim djelatnostima ("Sl.list RCG" broj 12/95), člana 32 stav 1 tačka 1 i člana 45 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Sl.list RCG" br. 42/03, 28/04, 75/05 i 13/06, "Sl.list CG" br. 88/09, 03/10, 38/12 i 10/14), člana 33 Statuta Opštine Berane ("Sl.list CG-Opštinski propisi" br. 21/04, 34/06 i "Sl.list CG-Opštinski propisi" broj 6/11) Skupština opštine Berane na sjednici održanoj dana 08. i 10. decembra 2014. godine, donijela je
+ODLUKU
