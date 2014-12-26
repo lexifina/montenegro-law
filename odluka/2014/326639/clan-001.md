@@ -1,0 +1,37 @@
+# Član 1
+## Ravna Rijeka - Jasikovac
+Utvrđuje se javni interes za potpunu eksproprijaciju nepokretnosti na području KO Majstorovina i to:
+- Preko parcele br.2489 upisane u L.N.br.44 na ime Vlaović Rajko sa obimom prava svojine 1/1.
+- Preko parcele br.2479 upisane u L.N.br. 41 na ime Vlaović Vuko sa obimom prava svojine 1/1.
+- Preko parcela br.2345 i 2346 upisane u L.N.br.36 na ime Vlaović Bogić sa obimom prava svojine 1/1.
+- Preko parcele br.2344 upisane u L.N.br. 35 na ime Vlaović Blažo sa obimom prava svojine 1/1.
+- Preko parcele br.2343, 2359 i 2358 upisane u L.N.br.51 na ime Vlaović Mikajlo sa obimom prava svojine 1/1.
+- Preko parcele br.2339 upisane u L.N.br.39 na ime Vlaović Borisav sa obimom prava svojine 1/1.
+- Preko parcele br.2340 upisane u L.N.br. 38 na ime Vlaović Božidar sa obimom prava svojine 1/1.
+- Preko parcele br.2314 i 2313 upisane u L.N.br.446 na ime Rkočević Batrić, Radosav i Zoran sa obimom prava susvojine 1/3.
+- Preko parcele br.2311 upisane u L.N.br. 4503 na ime Rakočević Dušanka sa obimom prava svojine 1/1.
+- Preko parcele br.2303 upisane u L.N.br. 450 na ime Rakočević Miloje sa obimom prava svojine 1/1.
+- Preko parcele br.2297 i 2295 upisane u L.N.br. 451 na ime Rakočević Rade sa obimom prava svojine 1/1.
+- Preko parcele br. 2289, 2291 i 2290 upisane u L.N.br. 452 na ime Rakočević Radovan sa obimom prava svojine 1/1.
+- Preko parcele br.2252, 2254 i 2255 upisane u L.N.br. 468 na ime Rutović Radoš sa obimom prava svojine 1/1.
+- Preko parcele br.2247, 2248 i 2250 upisane u L.N.br. 469 na ime Rutović Ranko sa obimom prava svojine 1/1.
+- Preko parcele br.2168, 2169 i 2170 upisane u L.N.br. 487 na ime Sošić Vukajlo sa obimom prava svojine 1/1.
+- Preko parcele br.2181, 2188 I 2189 upisane u L.N.br. 498 na ime Sošić Ljuban i Sava sa obimom prava susvojine 1/2.
+- Preko parcele br.2190, 2191 i 2192 upisane u L.N.br. 176 na ime Jeremić Novak sa obimom prava svojine 1/1.
+- Preko parcele br.1348, 1364, 1363 i 1347/2 upisane u L.N.br. 473 na ime Caković Milica sa obimom prava svojine 1/1.
+- Preko parcele br.1347/1 i 1344 upisane u L.N.br. 753 na ime Kovačević Dragica sa obimom prava svojine 1/1.
+- Preko parcele br.1359 i 1360 upisane u L.N.br. 481 na ime Stanišić Slobodan sa obimom prava svojine 1/1.
+- Preko parcele br.1353, 1354, 1355, 1356, 1357 i 1358 upisane u L.N.br. 471 na ime Rutović Miodrag sa obimom prava svojine 1/1.
+- Preko parcele br.1330 upisane u L.N.br. 436 na ime Peković Rade sa obimom prava svojine 1/1.
+- Preko parcele br.1332, 1335 i 1338 upisane u L.N.br. 140 na ime Jeremić Velimir sa obimom prava svojine 1/1.
+- Preko parcele br.1217/2 i 1339 upisane u L.N.br. 85 na ime Jeremić Tomislav sa obimom prava svojine 1/1.
+- Preko parcele br.1217/1 upisane u L.N.br. 150 na ime Jeremić Miloš, Vinka i Milija sa obimom prava susvojine 1/3.
+- Preko parcele br.1214 upisane u L.N.br. 144 na ime Jeremić Vinka sa obimom prava svojine 1/1.
+- Preko parcele br.1208 i 1209 upisane u L.N.br. 169 na ime Jeremić Miloš sa obimom prava svojine 1/1.
+- Preko parcele br.1187 upisane u L.N.br. 666 na ime Jeremić Milo sa obimom prava svojine 1/1.
+- Preko parcele br.1166, 1179, 1180 i 1182 upisane u L.N.br. 178 na ime Jeremić Mihajlo, Mišo i Novo sa obimom prava susvojine 1/3.
+- Preko parcele br.1162 i 1163 upisane u L.N.br. 172 na ime Jeremić Miljan sa obimom prava svojine 1/1.
+- Preko parcele br.1168 upisane u L.N.br. 181 na ime Jeremić Radoš sa obimom prava svojine 1/1.
+- Preko parcele br.1147 upisane u L.N.br. 179 na ime Jeremić Radoje sa obimom prava svojine 1/1.
+- Preko parcele br.1131 upisane u L.N.br. 149 na ime Jeremić Vukosav sa obimom prava svojine 1/1.
+- Preko parcela br.1156, 1157/1, 1165, 1093, 1096 i 2262 upisane u L.N.br. 664 i 758 na ime CG- SUBJEKT RASPOLAGANJA VLADA CRNR GORE sa obimom prava svojine 1/1.
