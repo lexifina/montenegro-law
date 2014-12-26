@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 23 Zakona o lokalnoj samoupravi ("Sl.list RCG" br. 42/03, 28/04, 75/05 i 13/06, "Sl.list CG" br. 88/09, 03/10, 73/10, 38/12 i 10/14) i člana 10 stav 1 alineja 1 Odluke o osnivanju društva sa ograničenom odgovornošću "Sportski centar" - Berane ("Službeni list Crne Gore - Opštinski propisi", broj 22/14) i člana 33 stav 1 tačka 45 Statuta opštine ("Sl.list CG -Opštinski propisi" br.21/04, 34/06 i "Sl.list CG-Opštinski propisi" br. 6/11), Skupština opštine Berane, na sjednici održanoj dana 08. i 10. decembra 2014. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Statut društva sa ograničenom odgovornošću "Sportski centar" -
