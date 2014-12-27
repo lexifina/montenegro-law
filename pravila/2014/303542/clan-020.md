@@ -1,0 +1,8 @@
+# Član 20
+Društvo za upravljanje može pridruživati naloge za trgovanje date u ime pojedinog investicionog fonda s nalozima drugog investicionog fonda kojim upravlja, investitora ili nalozima datim za vlastiti račun, ako su ispunjeni sljedeći uslovi:
+1) nije izvjesno da će pridruživanje naloga naštetiti interesima investicionog fonda čiji se nalozi pridružuju,
+2) da je propisana i primijenjena politika alokacije naloga koja dovoljno precizno uređuje fer alokaciju zbirnih naloga, uključujući način na koji količina i cijena navedene u nalogu utiču na alokaciju i postupanje sa djelimično izvršenim nalozima.
+Društvo za upravljanje dužno je prilikom pridruživanja jednog ili više naloga za trgovanje investicionog fonda sa nalozima drugih investicionih fondova, u slučaju kad je takav zbirni nalog djelimično izvršen, alocirati realizovane naloge u skladu sa svojom politikom alokacije naloga.
+Društvo za upravljanje ne smije prilikom pridruživanja naloga za vlastiti račun sa nalozima investicionog fonda, alocirati realizovane naloge na način koji bi naštetio investicionom fondu.
+Društvo za upravljanje dužno je, prilikom pridruživanja naloga investicionog fonda sa nalozima za vlastiti račun, u slučaju kada se navedeni zbirni nalog djelimično izvrši, alocirati realizovane naloge investicionog fonda na način da imaju prednost pred nalozima za vlastiti račun.
+Izuzetno, ako društvo za upravljanje može dokazati investitorima da bez pridruživanja naloga investicionog fonda nalogu za vlastiti račun, nalog ne bi bilo moguće izvršiti po tako povoljnim uslovima, ili ga ne bi bilo uopšte moguće izvršiti, društvo za upravljanje može alocirati realizovane naloge za vlastiti račun srazmjerno, u skladu sa politikom iz stava 1 tačke 2 ovog člana.

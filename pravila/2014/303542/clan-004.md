@@ -1,0 +1,6 @@
+# Član 4
+Društvo za upravljanje dužno je obezbijediti primjenu računovodstvenih politika i procedura iz člana 2 stav 5 ovih pravila kako bi se ostvarila zaštita investitora i investicionog fonda.
+Društvo za upravljanje dužno je voditi računovodstvo investicionog fonda na način da je u svakom trenutku moguće tačno utvrditi vrijednost imovine i obaveza investicionog fonda.
+Društvo za upravljanje dužno je propisati, primjenjivati i redovno ažurirati računovodstvene politike i procedure, u skladu sa računovodstvenim pravilima, kako bi se neto vrijednost imovine i vrijednost investicione jedinice svakog zajedničkog fonda mogla tačno izračunati i kako bi se zahtjevi za izdavanje i otkup investicionih jedinica mogli izvršavati po obračunatoj vrijednosti investicione jedinice zajedničkog fonda.
+Društvo za upravljanje dužno je propisati, primjenjivati i redovno ažurirati računovodstvene politike i procedure, u skladu sa računovodstvenim pravilima, kako bi se neto vrijednost imovine i neto vrijednost akcije svakog zatvorenog investicionog fonda mogla tačno izračunati.
+Društvo za upravljanje dužno je propisati primjerene postupke kako bi obezbijedilo pravilno i tačno vrednovanje imovine i obaveza investicionog fonda u skladu sa Zakonom o investicionim fondovima ("Sl. list Crne Gore", br. 54/11) (u daljem tekstu: zakon) i podzakonskim aktima.

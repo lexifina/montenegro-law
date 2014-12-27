@@ -1,0 +1,8 @@
+# Član 15
+Društvo za upravljanje dužno je prilikom odabira i kontinuiranog praćenja ulaganja postupati sa pažnjom dobrog stručnjaka, u najboljem interesu investicionog fonda i integriteta tržišta.
+Društvo za upravljanje dužno je obezbijediti posjedovanje primjerenog nivoa stručnosti i znanja o imovini u koju se ulažu sredstva investicionog fonda.
+Društvo za upravljanje dužno je propisati primjerene politike i procedure, kao i primjenjivati odgovarajuće mjere koje objezbjeđuju da se investicione odluke u ime investicionog fonda donose i ostvaruju u skladu sa ciljevima, strategijom i ograničenjima izloženosti rizicima investicionog fonda.
+Društvo za upravljanje dužno je, primjenjujući vlastitu politiku upravljanja rizicima, prilikom razmatranja pojedinog ulaganja, kad je to primjenjivo, izraditi analize i procjene učinka pojedinog ulaganja na strukturu imovine investicionog fonda, likvidnost i profil rizičnosti.
+Društvo za upravljanje dužno je analize i procjene iz stava 4 ovog članas provoditi isključivo na osnovu pouzdanih i relevantnih kvalitativnih i kvantitativnih informacija i podataka.
+Društvo za upravljanje dužno je prilikom zaključivanja, sprovođenja ili raskida ugovora o upravljanju rizicima sa trećim licima postupati sa pažnjom dobrog stručnjaka.
+Društvo za upravljanje dužno je prije zaključivanja ugovora iz stava 6 ovog člank preduzeti sve potrebne aktivnosti kako bi utvrdilo da je treće lice stručno i sposobno za pouzdano, profesionalno i efikasno obavljanje poslova upravljanja rizicima. Društvo je dužno uspostaviti metode i postupke za kontinuranu procjenu primjerenosti i pouzdanosti načina na koji treće lice obavlja delegirane poslove upravljanja rizicima.
