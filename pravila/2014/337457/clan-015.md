@@ -1,0 +1,5 @@
+# Član 15
+Na osnovu sprovedenog postupka neposrednog ili posrednog nadzora, Komisija može subjektu nadzora izreći nadzorne mjere propisane ovim pravilima u svrhu zakonitog i urednog poslovanja subjekata nadzora, zaštite interesa investitora i zaštite javnog interesa, a u slučaju utvrđenih nezakonitosti i nepravilnosti podnijeti odgovarajuću prijavu nadležnom tijelu.
+U smislu ovih pravila, nezakonitosti su stanja i postupci koji nisu u skladu sa zakonom, propisima donešenim na osnovu zakona, drugih zakona i podzakonskih akata .
+U smislu ovih pravila, nepravilnosti su stanja i postupci koji nisu u skladu sa vlastitim poslovnim politikama i usvojenim pravilima subjekta nadzora kao i standardima i pravilima struke, ili se isti dosljedno ne primjenjuju, a time se ugrožava poslovanje, posebno u vezi sa organizacionim zahtjevima i upravljanjem rizicima.
+Ukoliko Komisija ocijeni da utvrđene nepravilnosti u poslovanju subjekta nadzora imaju elemente krivičnog djela, privrednog prestupa ili prekršaja, Komisija će podnijeti prijavu nadležnom organu.

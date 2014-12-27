@@ -1,0 +1,3 @@
+# Član 19
+Kada Komisija tokom nadzora utvrdi nezakonitosti i nepravilnosti koje predstavljaju povredu odredbi zakona ili na osnovu njega donešenih propisa i drugih zakona kojima se uređuje poslovanje subjekata nadzora i propisa na osnovu istih, rješenjem će subjektu nadzora naložiti mjere za otklanjanje utvrđenih nezakonitosti i nepravilnosti ili prestanak postupanja koje predstavlja povredu odredbi zakona ili na osnovu njega donešenih propisa i drugih zakona kojima se uređuje poslovanje subjekata nadzora i propisa na osnovu istih.
+Komisija će u rješenju iz stava 1 ovog člana navesti i rokove u kojima je subjekt nadzora dužan otkloniti utvrđene nezakonitosti i nepravilnosti.

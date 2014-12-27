@@ -1,0 +1,5 @@
+# Član 3
+Komisija sprovodi nadzor po službenoj dužnosti i/ili na zahtjev zainteresovanih lica:
+1) neposrednim nadzorom, u prostorijama subjekta nadzora ili pravnih lica sa kojima je subjekt nadzora direktno ili indirektno, poslovno, upravljački ili kapitalno povezan, pregledom izvorne dokumentacije, provjerom i procjenom cjelokupnog poslovanja, sprovođenjem razgovora sa članovima uprave, članovima nadzornog odbora i drugim relevantnim licima i u prostorijama Komisije,
+2) posrednim nadzorom u prostorijama Komisije, na osnovu analize izvještaja koje su subjekti nadzora dužni u propisanim rokovima dostavljati Komisiji, praćenjem, prikupljanjem i provjerom dokumentacije, obavještenja i podataka dobijenih na poseban zahtjev Komisije, kao i praćenjem, prikupljanjem i provjerom podataka i saznanja iz drugih izvora, provjerom i procjenom poslovanja na osnovu dostavljenih izvještaja i prikupljenih informacija, sprovođenjem razgovora sa članovima uprave, članovima nadzornog odbora i drugim relevantnim licima.
+Neposredni nadzor iz stava 1 tačke 1 ovoga člana može biti redovni ili vanredni.
