@@ -1,0 +1,6 @@
+# Član 14
+## Prevencija i zaštita od torture
+Zaštitnik/ca kao nacionalni preventivni mehanizam za zaštitu lica lišenih slobode od mučenja i drugih oblika surovog, nečovječnog ili ponižavajućeg postupanja ili kažnjavanja (u daljem tekstu: NPM) redovno, po potrebi, obilazi, vrši kontrolni pregled i sagledava stanje u organima, organizacijama i ustanovama u kojima se nalaze lica lišena slobode i lica kojima je ograničeno kretanje, u skladu sa zakonom i Opcionim protokolom uz Konvenciju protiv torture i drugih surovih, neljudskih ili ponižavajućih kazni ili postupaka.
+Obilazak i sagledavanje stanja iz stava 1 ovog člana vrše Zaštitnik/ca, zamjenik/ca Zaštitnika/ce, glavni/a savjetnik/ca Zaštitnika/ce i savjetnik/ca Zaštitnika/ce zajedno sa članovima radnog tijela NPM-a.
+Kada Zaštitnik/ca na osnovu sagledanog stanja iz stava 1 ovog člana, utvrdi da treba poboljšati tretman i položaj lica lišenih slobode ili spriječiti mučenje i druge oblike surovog, nečovječnog ili ponižavajućeg postupanja i kažnjavanja daje mišljenje, preporuku/e i/ili upozorenje/a nadležnim organima u cilju poboljšanja njihovog tretmana i položaja i sprječavanja mučenja i drugih oblika surovog, nečovječnog ili ponižavajućeg postupanja i kažnjavanja.
+Način rada i postupanja NPM-a utvrđuje se metodologijom rada NPM-a, koju donosi Zaštitnik/ca.

@@ -1,0 +1,5 @@
+# Član 10
+## Inicijativa za donošenje zakona, drugog propisa i opšteg akta
+Kada Zaštitnik/ca u radu i postupanju utvrdi da do povrede ljudskih prava i sloboda dolazi zbog toga što zakon, drugi propis ili opšti akt ili njihove pojedine odredbe, nijesu usaglašene sa međunarodno priznatim standardima u oblasti ljudskih prava i sloboda podnijeće inicijativu nadležnom organu za donošenje, izmjenu ili dopunu zakona, drugog propisa ili opšteg akta, radi usaglašavanja sa tim standardima.
+Na potrebu podnošenja inicijative iz stava 1 ovog člana ukazuje zamjenik/ca Zaštitnika/ce za odgovarajuću oblast specijalizovanosti zaštite ljudskih prava i sloboda (u daljem tekstu: oblast specijalizovanosti), glavni/a savjetnik/ca Zaštitnika/ce i savjetnik/ca Zaštitnika/ce.
+Obrazloženu inicijativu iz stava 1 ovog člana priprema savjetnik/ca Zaštitnika/ce u saradnji sa zamjenikom/com Zaštitnika/ce za odgovarajuću oblast specijalizovanosti, odnosno glavni/a savjetnik/ca Zaštitnika/ce u saradnji sa Zaštitnikom/com.
