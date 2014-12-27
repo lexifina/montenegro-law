@@ -1,0 +1,2 @@
+# Član 3
+Vozilo koje se koristi za vršenje poslova zaštite stvari u transportu treba da bude blindirano, da zadovoljava uslove određenog stepena balističke zaštite, da je izrađeno i opremljeno na način koji sprječava neovlašćen pristup stvarima koje se prevoze, njihovo otvaranje, oštećenje ili otuđenje i da posjeduje poseban sertifikat izdat u skladu sa propisima kojima se uređuju tehnički zahtjevi za proizvode i ocjenjivanje usaglašenosti (u daljem tekstu: blindirano vozilo).
