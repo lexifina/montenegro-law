@@ -1,0 +1,2 @@
+Na osnovu čl. 50. Zakona o teritorijalnoj organizaciji Crne Gore ("Sl. list RCG", br. 54/11, 26/12, 27/13, 62/13 i 12/14), čl. 127, 128, 129. i 130. Zakona o državnim službenicima i namještenicima ("Sl. list RCG", br. 39/11, 50/11 i 66/12) i čl. 34. Statuta opštine Plav ("Sl. list RCG- Opštinski propisi’’ br. 17/07, 25/09 i 38/10), Skupština opštine Plav, na sjednici održanoj dana 29.12.2014. godine donijela je
+ODLUKU

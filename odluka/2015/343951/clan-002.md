@@ -1,0 +1,2 @@
+# Član 2
+Zaposleni službenici i namještenici u organima lokalne samouprave, službama i javnim ustanovama čiji je osnivač opština Plav, a koji žive na teritoriji opštine Gusinje, ne mogu bez odobrenja opštine Plav staviti na raspolaganje bilo koja službena dokumenta, predmete, baze podataka, registre, djelovodnike, tehničku opremu i druga osnovna sredstava i slično novoosnovanim organima opštine Gusinje, bez odobrenja opštine Plav i nadležnih organa.

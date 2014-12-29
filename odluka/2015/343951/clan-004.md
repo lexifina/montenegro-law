@@ -1,0 +1,3 @@
+# Član 4
+Zaposleni službenici i namještenici u organima lokalne samouprave opštine Plav, službama i javnim ustanovama čiji je osnivač opština Plav, sa teritorije novoosnovane opštine Gusinje stavit će se na raspolaganje organima lokalne samouprave opštine Gusinje, usled, teritorijalne promjene, te ukidanja dijela poslova u opštini Plav.
+Službenici i namještenici za vrijeme njihovog stavljanja na raspolaganje organima lokalne samouprave opštine Gusinje mogu ostvariti pravo na naknadu zarade u visini zarade isplaćene u mjesecu koji je predhodio stavljanju na raspolaganje do obezbjeđivanja odgovarajućeg raspoređivanja, odnosno do preuzimanja istih, a najduže 6 mjeseci od dana stavljanja na raspolaganje.
