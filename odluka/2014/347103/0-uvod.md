@@ -1,0 +1,2 @@
+Na osnovu člana 68 Zakona o privrednim društvima (" Sl. list RCG", br. 06/02 i ,, Sl. list CG,, br. 17/07, 80/08, 40/10, 73/10, 36/11 i 40/11), člana 11 stav 1 alineja 1. Odluke o osnivanju Društva sa ograničenom odgovornošću ,,Komunalno,, Danilovgrad ("Sl. list CG-Opštinski propisi", br. 02/14) i člana 35 Statuta Opštine Danilovgrad (" Sl. list RCG-opštinski propisi", br. 30/04, "Sl.list CG-Opštinski propisi", br. 19/08 i 12/11) Skupština opštine Danilovgrad, na sjednici održanoj dana 26. i 27.12.2014. godine, donijela je
+O D L U K U
