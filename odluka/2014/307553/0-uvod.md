@@ -1,0 +1,2 @@
+Na osnovu člana 29 Zakona o državnoj imovini ("SL. List CG" br. 21/09, 40/11), člana 45 Zakona o lokalnoj samoupravi ("Sl. List RCG", br. 42/03, 28/4, 75/05, 13/06) i "Sl. List CG", br. 88/09, 3/10, 73/10 i 38/12), člana 41 Statuta Opštine Bar ("Sl. list CG - Opštinski propisi", br. 06/11) i zaključka Vlade Crne Gore br. 08-2916/2 od 18.12.2014. godine, a u vezi sa članom 15 Zakona o budžetu Crne Gore ("Sl. List CG", br. 61/13), Skupština Opštine Bar, na sjednici održanoj 24.12.2014. godine, donosi
+ODLUKU
