@@ -1,0 +1,6 @@
+Na osnovu člana 81 Zakona o državnoj upravi ("Službeni list RCG", broj 38/03 i "Službeni list CG", br. 22/08 i 42/11) Vlada Crne Gore, na sjednici od 25. decembra 2014. godine, donijela je
+UREDBU
+O IZMJENI UREDBE O POVJERAVANjU POSLOVA IZ NADLEŽNOSTI
+MINISTARSTVA ODRŽIVOG RAZVOJA I TURIZMA JAVNOM PREDUZEĆU ZA
+UPRAVLjANjE MORSKIM DOBROM CRNE GORE I JAVNOM PREDUZEĆU ZA
+NACIONALNE PARKOVE CRNE GORE
