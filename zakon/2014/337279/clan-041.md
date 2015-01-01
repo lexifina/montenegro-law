@@ -1,0 +1,5 @@
+# Član 41
+## Odlučivanje uz saglasnost, potvrdu, odobrenje, odnosno mišljenje
+Kad je zakonom ili drugim propisom propisano da rješenje donosi jedan javnopravni organ uz prethodnu saglasnost, potvrdu ili odobrenje, odnosno po prethodno pribavljenom mišljenju drugog javnopravnog organa, rješenje se donosi kad drugi javnopravni organ da saglasnost, potvrdu ili odobrenje, odnosno mišljenje, a u uvodu rješenja se navodi naziv javnopravnog organa, kao i broj i datum akta kojim je taj organ dao saglasnost, potvrdu, odobrenje i mišljenje. Neprihvatanje mišljenja ne utiče na zakonitost rješenja, ali se mora obrazložiti.
+Javnopravni organ je dužan da saglasnost, potvrdu, odobrenje ili mišljenje iz stava 1 ovog člana, da u roku od 20 dana od dana kad je saglasnost, potvrda i odobrenje, odnosno mišljenje zatraženo, ako zakonom ili drugim propisom nije drukčije propisano.
+Ako javnopravni organ ne postupi u skladu sa stavom 2 ovog člana, smatraće se da je saglasnost, potvrdu ili odobrenje dao, odnosno da javnopravni organ koji donosi rješenje može donijeti rješenje i bez pribavljenog mišljenja, ako zakonom ili drugim propisom nije drukčije propisano.

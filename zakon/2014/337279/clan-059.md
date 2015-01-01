@@ -1,0 +1,5 @@
+# Član 59
+## Pojam, sadržina i način podnošenja podnesaka
+Podneskom u upravnom postupku smatra se zahtjev, predlog, prijava, molba, žalba, predstavka, prigovor i drugi podnesak kojima se stranka obraća javnopravnom organu u vezi sa određenom upravnom stvari.
+Podnesak mora da bude dovoljno razumljiv i, da bi se po njemu moglo postupiti, mora da sadrži: naziv javnopravnog organa kojem se upućuje; predmet na koji se podnesak odnosi; ime i prezime, prebivalište ili boravište i adresu, odnosno naziv i sjedište stranke, ime i prezime zastupnika, punomoćnika ili predstavnika, kao i način na koji stranka želi da joj javnopravni organ odgovori na podnesak.
+Stranka podnesak može podnijeti javnopravnom organu neposrednom predajom, dostavljanjem podneska poštom, faksom ili u elektronskom obliku u skladu sa propisima o elektronskoj upravi. Ako zakonom nije drukčije propisano, kratka i hitna saopštenja mogu se uputiti i telefonom ili poslati telegramom, ukoliko je to po prirodi stvari moguće, o čemu ovlašćeno službeno lice sačinjava pisanu zabilješku koju prilaže spisima predmeta.

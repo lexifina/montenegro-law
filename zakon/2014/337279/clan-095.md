@@ -1,0 +1,5 @@
+# Član 95
+## Nаknаde troškovа i nаgrаde drugim učesnicimа u upravnom postupku
+Svjedoci, vještaci, tumači i službena lica imaju pravo na propisanu naknadu troškova putovanja i izdataka izazvanih boravkom van njihovog prebivališta, odnosno boravišta. Ako im za to vrijeme pripada i zarada, imaju pravo i na propisanu naknadu izgubljene zarade. Pored propisane naknade, vještaci i tumači imaju pravo i na propisanu posebnu nagradu za obavljeno vještačenje, odnosno tumačenje.
+Zahtjev za naknadu troškova, odnosno nagradu iz stava 1 ovog člana, svjedoci, vještaci i tumači dužni su da stave prilikom saslušavanja, davanja mišljenja vještaka, odnosno tumača. U protivnom, gube pravo na naknadu, odnosno nagradu. Ovlašćeno službeno lice dužno je da o tome upozori svjedoka, vještaka i tumača, što će unijeti u zapisnik.
+Iznos naknade troškova, odnosno nagrade iz stava 1 ovog člana, utvrđuje rješenjem javno- pravni organ pred kojim se vodi upravni postupak i određuje ko je dužan da ih plati i u kom ro- ku. Protiv ovog rješenja dozvoljena je posebna žalba. Ovo rješenje predstavlja izvršnu ispravu.

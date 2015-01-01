@@ -1,0 +1,1 @@
+# 7. Okončаnje postupkа
