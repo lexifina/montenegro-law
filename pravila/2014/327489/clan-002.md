@@ -1,0 +1,3 @@
+# Član 2
+Član 16 stav 3 Pravila o sadržini prospekta za javnu ponudu emisije vlasničkih i dugoročnih dužničkih hartija od vrijednosti mijenja se i glasi:
+"Ovlašćeni učesnik je dužan da sredstva za kupljene hartije od vrijednosti uplati na račun emitenta iz stava 1 ovog člana najkasnije u roku od T+2 (drugi dan od dana sklapanja transakcije na berzi), s tim da plaćanje hartija od vrijednosti može izvršiti najranije narednog dana od dana sklapanja transakcije na berzi. Ukoliko ovlašćeni učesnik u roku od T+2 ne izvrši uplatu sredstava za kupljene hartije od vrijednosti, dužan je da emitentu, na ime naknade za neizvršenje zaključene transakcije, uplati sredstva u visini od 10% kupoprodajne cijene hartija od vrijednosti, u roku od dva dana od isteka roka T+2".
