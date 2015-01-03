@@ -1,0 +1,3 @@
+Na osnovu člana 59 Zakona o uređenju prostora i izgradnji objekta ("Sl.list CG" br.51/08,40/10,34/11,40/11,47/11,35/13 i 39/13), člana 34 st. 1 i 3 i člana 40 stav 2 tačka 3 Zakona o državnoj imovini ("Sl.list CG" br.21/09 i 40/11), člana 28 st. 1 i 2 Zakona o svojinsko pravnim odnosima("Sl.list CG" broj 19/09), člana 33 stava 1 tačka 1 i člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list RCG" br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG" br. 88/09, 3/10 i 38/12) i člana 36 st. 2 i 3 i člana 42 stav 1 tačka 9 Statuta Opštine Ulcinj ("Sl.list CG -Opštinski propisi" br.5/07,9/09 i 16/11), Skupština opštine Ulcinj na sjednici održanoj 17.12.2014. godine, donijela je
+ODLUKU
+o otkupu zemljišta radi dokompletiranja urbanističke parcele br.95 sa ID "Ulcinj Grad"
