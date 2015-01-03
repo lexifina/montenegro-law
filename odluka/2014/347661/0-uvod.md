@@ -1,0 +1,2 @@
+Na osnovu člana 17. Zakona o zaradama državnih službenika i namještenika ("Sl. list CG", broj 14/12), i člana 57 stav 1 tačka 11 Zakona o lokalnoj samoupravi( "Sl.list RCG" br. 42/03, 28/04, 75/05, 13/16 i "Sl. CG" br. 88/09, 3/10, 38/12 i 10/14) a u vezi sa čl. 134 i 166b Zakona o državnim službenicima i namještenicima ("Sl. list CG", br. 39/11, 50/11 i 66/12), i člana 83. Statuta Opštine Ulcinj ("Sl. list CG - Opštinski propisi", br. 05/07 i 16/11), donosim
+ODLUKU
