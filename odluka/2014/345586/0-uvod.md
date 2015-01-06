@@ -1,0 +1,2 @@
+Na osnovu člana 65 stav 1 i 2 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", br. 42/03, 44/03 i "Službeni list CG", br. 05/08, 51/08 i 74/10), člana 32stav 1 tačka 15 i člana 40 Statuta opštine Nikšić ( "Službeni list RCG- Opštinski propisi" br.20/04 i 43/06 i " Sl.list CG- Opštinski propisi ", broj 24/10), Skupština opštine Nikšić na sjednici održanoj 25.12.2014.godine, donijela je
+O D L U K U
