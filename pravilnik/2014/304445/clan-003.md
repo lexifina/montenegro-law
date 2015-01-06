@@ -1,0 +1,45 @@
+# Član 3
+Obrazac zapisnika je formata A4, izrađen od papira bijele boje i sadrži:
+1) Grb Crne Gore;
+2) naziv: "CRNA GORA";
+3) naziv organa državne uprave/organa uprave/nadležne inspekcije;
+4) naziv: "Zapisnik o inspekcijskom nadzoru nad prevozom opasnih materija u drumskom saobraćaju";
+5) broj zapisnika;
+6) mjesto nadzora;
+7) datum nadzora;
+8) vrijeme početka nadzora;
+9) oznaku države i registracijski broj vozila;
+10) oznaku države i registracijski broj prikolice/poluprikolice;
+11) podatke o prevozniku (naziv i sjedište, odnosno lično ime i adresa);
+12) lično ime vozača/suvozača;
+13) podatke o pošiljaocu i mjestu utovara;
+14) podatke o primaocu i mjestu istovara;
+15) ukupnu količinu opasne materije na vozilu (kg/l);
+16) prekoračenu količinu opasne materije na vozilu (kg/l);
+17) podatke o načinu prevoza opasne materije;
+18) podatke o prevoznim dokumentima;
+19) podatke o uputstvu o posebnim mjerama bezbjednosti;
+20) podatke o bilateralnim/multilateralnim/nacionalnim odobrenjima (odobrenje za prevoz, broj i datum);
+21) podatke o sertifikatu o ispravnosti vozila za prevoz opasne materije;
+22) podatke o sertifikatu o osposobljenosti vozača za prevoz opasne materije po klasi opasne materije;
+23) podatke o opasnoj materiji koja se prevozi;
+24) podatke da li vozilo ispunjava uslove za prevoz opasnih materija;
+25) podatke o zahtjevima u vezi sa vrstom prevoza;
+26) podatke o zabrani zajedničkog utovara;
+27) podatke o utovaru, obezbjeđenju tereta i rukovanju;
+28) podatke o curenju tereta ili oštećenju ambalaže;
+29) UN oznaku na ambalaži/cistijerni;
+30) podatke o označavanju pakovanja oznakama/listicama opasnosti;
+31) podatke o označavanju cistijerne/vozila listicama opasnosti;
+32) oznaku vozila (narandžasta tabla);
+33) podatke o osnovnoj bezbjednosnoj opremi;
+34) podatke o opremi u skladu sa opasnom materijom koja se prevozi;
+35) podatke o drugoj potrebnoj opremi;
+36) podatke o aparatima za gašenje požara;
+37) kategoriju rizika prema utvrđenim nepravilnostima (ako postoje);
+38) vrijeme završetka inspekcijskog nadzora;
+39) napomene;
+40) primjedbe na zapisnik (ako ih ima);
+41) broj primjeraka zapisnika;
+42) potpis vozača/suvozača;
+43) potpis inspektora koji je izvršio nadzor.
