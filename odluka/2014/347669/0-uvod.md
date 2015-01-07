@@ -1,0 +1,2 @@
+Na osnovu čl. 2, 4 i 5 Zakona o putevima ("Sl. list RCG" broj 42/04 i "Sl. list CG" br. 54/09, 36/11 i 40/11), člana 4 Zakona o prekršajima ("Sl, list CG" broj 39/11 i 32/14) i člana 35 Statuta Opštine Danilovgrad ("Sl.list RCG-Opštinski propisi" br.30/04 i "Sl list CG-Opštinski propisi" br. 19/08 i 12/11), Skupština opština Danilovgrad, na sjednici održanoj 26. i 27. 12. 2014. godine donosi
+ODLUKU
