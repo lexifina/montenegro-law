@@ -1,0 +1,2 @@
+# Član 7
+Ako stručna Komisija utvrdi da se nekategorisani put koristi za saobraćaj po bilo kom osnovu, da je dostupan većem broju korisnika, da su riješeni imovinsko - pravni odnosi, da širina poprečnog profila odnosno planum puta, nije manja od 5 metara, da podužni nagib nije veći od 12% i da ima proširenje za mimoilaženje, predložiće Direkciji za saobraćaj, održavanje i izgradnju puteva na području opštine Danilovgrad dalji postupak za proglašenje i upis u Registar nekategorisanih puteva.
