@@ -1,0 +1,2 @@
+Na osnovu člana 35 i 41 Zakona o zaštiti i spašavanju (,,Sl. list CG,, br. 13/07, 05/08, 86/09 i 32/11), člana 35 Statuta opštine Danilovgrad ("Sl list RCG - Opštinski propisi" br. 30/04, "Sl.list CG - Opštinski propisi" br. 19/08 i 12/11) na osnovu prethodno pribavljene Saglasnosti Ministarstva unutrašnjih poslova Crne Gore-Direktorata za vanredne situacije br.04-050/14-60-408/1 od 04.12.2014. godine, Skupština opštine Danilovgrad, na sjednici održanoj 26. i 27.12.2014. godine, donijela je
+O D L U K U
