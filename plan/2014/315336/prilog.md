@@ -1,0 +1,3 @@
+10 Ovo ograničenje se definiše kao EIRP (ekvivalentra izotropno izračena snaga) za fiksne ili ugrađene terminale, odnosno kao TRP (ukupna izračena snaga) za mobilne ili nomadske terminale. EIRP i TRP su ekvivalentni za izotropne antene. Za navedenu graničnu vrijednost dozvoljava se tolerancija definisana odgovarajućim standardima, kako bi se uzeo u obzir rad u ekstreminm uslovima sredine i podržao širok opseg proizvođača.
+11 Parametar PBL ima vrijednost -27 dBm/5 MHz u slučaju kada se vjerovatnoća kolizije interferirajućeg i interferencijom pogođenog
+paketa ne može uzeti u obzir, odnosno -15,5 dBm/5 MHz kada se ta vjerovatnoća može uzeti u obzir.
