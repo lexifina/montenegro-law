@@ -1,0 +1,3 @@
+Na osnovu člana 12 stav 2 i 3 Zakona o statusu potomaka dinastije Petrović Njegoš
+("Sl.list CG", br.36/11), člana 9 stav 1, člana 10 stav 1 tačka 12, člana 29 stav 2, člana 34 stav 1 i 3 Zakona o državnoj imovini ("Sl. list CG", br. 21/09 i 40/11), člana 33 stav 1 tačka 1 i člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10, 38/12 i 10/14), člana 71 Statuta Prijestonice ("Sl. list CG-opštinski propisi, br. 19/09, 37/10 i 26/13 ) i Zaključka Vlade Crne Gore broj 08-2739/4 od 04.12.2014.godine, Skupština Prijestonice Cetinje na sjednici održanoj dana 29.12.2014. donijela je
+O D L U K U
