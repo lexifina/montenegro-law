@@ -1,0 +1,2 @@
+Na osnovu člana 42. Zakona o teritorijalnoj organizaciji Crne Gore ("Službeni list CG", br. 54/11, 26/12, 27/13, 62/13 i 12/14), člana 58 Zakona o lokalnoj samoupravi ("Sl. list Crne Gore" br. 42/03, 28/04, 75/05, 13/06 i "Sl.list Crne Gore br. 88/09, 3/10, 73/10, 38/12 I 10/14) i člana 59 stav 1 tačka 25 Statuta opštine Gusinje ("Sl.list CG-Opštinski propisi" broj 25/14), Predsjednica Opštine Gusinje dana 31.12.2014. godine donosi
+ODLUKU
