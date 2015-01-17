@@ -1,0 +1,4 @@
+# Član 1
+## OBAVEZNO SOCIJALNO OSIGURANjE
+U Pravilniku o obliku, sadržini, načinu popunjavanja i dostavljanja jedinstvenog obrasca izvještaja o obračunatom i plaćenom porezu na dohodak fizičkih lica i doprinosima za obavezno socijalno osiguranje ("Službeni list CG", br. 76/10, 63/11, 28/12, 8/13, 4/14, 49/14 i 1/15), u Uputstvu za popunjavanje obrasca IOPPD "Posebni dio obrasca IOPPD", poslije stava 12 dodaje se novi stav koji glasi:
+"Za dobitke od igara na sreću popunjava se jedan red i to kolone: 1, 4, 5, 7 i 8, tako da se u kolonu 7 unosi ukupan iznos dobitaka od igara na sreću svih igrača za obračunski period na koji se odnosi isplata, a koji predstavlja razliku između ostvarenog dobitka i iznosa uplate (uloga), a u kolonu 8 se unosi ukupan iznos poreza koji je obračunat i obustavljen na dobitke svih igrača."
