@@ -1,0 +1,2 @@
+Na osnovu člana 50 i 52 Zakona o spomen-obilježjima ("Službeni list CG", br. 40/08 i 40/11), člana 40 stav 1 tačka 2 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10) i Programa podizanja spomen-obilježja u opštini Budva za 2013. godinu ("Službeni list CG - Opštinski propisi", br. 38/13), i saglasnosti Ministarstva kulture Crne Gore br. 401- 231/2 od 5.11.2014. godine, Skupština Opštine Budva na sjednici održanoj 22., 23. i 29. decembra 2014.godine, donijela je
+ODLUKU
