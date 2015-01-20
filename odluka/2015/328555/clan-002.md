@@ -1,0 +1,3 @@
+# Član 2
+Spomenički kompleks iz člana 1 ove Odluke predstavlja spomen obilježje iz NOB-a koje je podignuto 1978. godine u Brajićima.
+Na prilazu spomeničkom kompleksu nalazi se kamena ploča, veličine 224x252 cm sa fiksiranom bronzanom pločom koja prikazuje borbu ovdašnjeg naroda kroz 9 likova. Kamenom stazom, a zatim stepeništem od 9 stepenika dolazi se do velikog guvna, širine 580 cm, koje je ograđeno kamenim zidom. Zatim se preko 4 stepenika stiže do malog gumna širine 200 cm, na kojem se nalazi spomenik veličine 480x495 cm. Na gornjem dijelu je utisnuta zvijezda petokraka sa srpom i čekićem, a kroz središnji dio spomenika na crnoj podlozi ispisan je tekst.
