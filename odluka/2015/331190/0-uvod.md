@@ -1,0 +1,3 @@
+Na osnovu člana 33 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list RCG", br.42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 03/10, 38/12 i 10/14 ), u skladu sa odredbama Zakona o eksproprijaciji ("Službeni list CG", br.55/00, 12/02 i 28/06 i "Službeni list CG", br.21/08), člana 35, stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11) i člana 40 Statuta Opštine Budva ("Službeni list CG-Opštinski propisi", br.19/10), Skupština Opštine Budva na sjednici održanoj 22., 23. i 29. decembra 2014.godine, donijela je
+ODLUKU
+o izmjeni i dopuni Odluke o utvrđivanju javnog interesa za nepotpunu eksproprijaciji
