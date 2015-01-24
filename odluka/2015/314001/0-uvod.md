@@ -1,0 +1,3 @@
+Na osnovu čl. 31 i 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, ''Sl. list CG'' br. 88/09, 3/10, 38/12 i 10/14), člana 16 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 34/11, 35/13, 39/13 i 33/14) i člana 42 Statuta Opštine Rožaje, ("Sl. list CG-Opštinski propisi" broj 9/11), Skupština opštine Rožaje na sjednici održanoj dana 25.12.2014. godine donijela je
+O D L U K U
+o usvajanju Jednogodšnjeg programa uređenja prostora Opštine Rožaje za 2015.
