@@ -1,0 +1,10 @@
+# Član 8
+Odobrenje za građenje se izdaje na osnovu sledeće dokumentacije:
+1) odluke iz člana 4 stav 2 ove odluke;
+2) dokaza o pravu svojine, odnosno drugom pravu na zemljištu;
+3) glavnog projekta sa izvještajem o izvršenoj reviziji izrađenih u 6 (šest) primjeraka, od kojih su 3 (tri) u zaštićenoj digitalnoj formi;
+4) drugih dokaza odnosno saglasnosti shodno posebnim propisima;
+Dokaze iz stava 1 tačka 1, 2 i 4 ovog člana pribavlja organ nadležan za izdavanje dozvole po službenoj dužnosti.
+Za izdavanje dokaza iz stava 1 tačka 2 i 4 ovog člana ne plaća se taksa, naknada, odnosno drugi troškovi izdavanja.
+Ukoliko nadležni organi, odnosno institucije, ne dostave dokaze iz stava 1 tačka 4 ovog člana u roku od 10 dana od dana prijema zahtjeva za njihovo dostavljanje smatraće se da su saglasni sa revidovanim glavnim projektom.
+U postupku izdavanja odobrenja svaki posebni dio glavnog projekta ovjerava se štambiljem na kojem je upisan broj, datum i potpis ovlašćenog lica, kao i pečatom na svaki list projekta.
