@@ -1,0 +1,5 @@
+Na osnovu člana 28 stav 3 Zakona o prevozu opasnih materija ("Službeni list CG", broj 33/14), Ministarstvo unutrašnjih poslova donijelo je
+PRAVILNIK
+O BLIŽEM SADRŽAJU EVIDENCIJA O OSPOSOBLjAVANjU ZAPOSLENIH U
+VEZI PREVOZA OPASNIH MATERIJA I GODIŠNjEG IZVJEŠTAJA O PRIMJENI
+MJERA BEZBJEDNOSTI U PREVOZU OPASNIH MATERIJA
