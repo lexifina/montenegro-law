@@ -1,0 +1,5 @@
+# Član 112
+## Rezervni točak
+Rezervni točak mora postojati u motornim i priključnim vozilima, osim u mopedima, motociklima, motornim vozilima na tri točka, lakim četvorociklima, četvorociklima, traktorima, traktorskim prikolicama, radnim mašinama, motokultivatorima, prikolicama sa jednostrukom osovinom i jednoosovinskim prikolicama, autobu- sima za gradski i prigradski saobraćaj, trolejbusima za gradski saobraćaj, turističkom vozu i vozilima namenjenim za komunalne usluge (za pranje i čišćenje ulica, odvoz smeća i fekalija i sl.), tako da ga vozač može, po potrebi, koristiti.
+Pneumatik na rezervnom točku mora biti istih dimenzija i nosivosti kao pneumatici koji se koriste na vozilu ili biti homologovan kao privremeni rezervni točak prema jednoobraznim tehničkim uslovima.
+Rezervni točak ne moraju da imaju motorna i priključna vozila ako su pneumatici ili naplaci opremljeni nekim sigurnosnim sistemom za sigurnu vožnju s izduvanim pneumatikom ili ako vozilo posjeduje odgovarajuće sredstvo za privremeno osposobljavanje izduvanog pneumatika (npr. sprej, pjena u boci pod pritiskom, komplet za brzu popravku pneumatika i sl.).

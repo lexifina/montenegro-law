@@ -1,0 +1,11 @@
+# Član 40
+## Ugradnja i način izvođenja kočnica na priključnim vozilima
+Kočioni sistem na priključnim vozilima čija najveća dozvoljena masa ne prelazi 0,75 t ne mora da bude ugrađen i izveden u skladu sa odredbama člana 25 stav 1 ovog pravilnika.
+Radna kočnica na priključnim vozilima čija najveća dozvoljena masa prelazi 0,75 t, a koja su prvi put registrovana poslije 1. januara 1972. godine, treba da bude ugrađena i izvedena tako da djeluje na sve točkove prikolice, odnosno poluprikolice, a parkirna kočnica tako da djeluje na odgovarajući broj točkova da bi se ostvario propisani koeficijent kočenja.
+Radna kočnica priključnog vozila treba da bude izvedena tako da je vozač može tokom vožnje upotrijebiti sa vozačkog mjesta pomoću komande kojom stavlja u djelovanje radnu kočnicu vučnog vozila.
+Na priključnom vozilu čija najveća dozvoljena masa ne prelazi 3,5 t radna kočnica može da bude izvedena sa inercionom komandom.
+Kočioni sistem radnog kočenja na priključnom vozilu čija je najveća dozvoljena masa iznad 0,75 t treba da bude ugrađen i izveden sa automatskom komandom, kojom se aktivira radno kočenje priključnog vozila, ako se prekine uređaj za spajanje sa vučnim vozilom.
+Radna kočnica na prikolici sa jednostrukom osovinom i na jednoosovinskoj prikolici čija najveća dozvoljena masa ne prelazi 1,5 t i koja je sa vučnim vozilom spojena rudom, a kruti teret se oslanja istovremeno na vučno vozilo i prikolicu (stabla, cijevi, šine itd.), treba da bude ugrađena i izvedena tako da osigura radno kočenje prikolice.
+Ako je najveća dozvoljena masa prikolice od 0,75 t do 1,5 t i ako je dva puta manja od mase vučnog vozila, prikolica ne mora da ima uređaj kojim se osigurava radno kočenje.
+Na prikolicama bez kočnice ili sa inercionom komandom treba da bude ugrađena i izvedena pomoćna unakrsna priključna veza koja će, ako se glavna veza prekine, spriječiti da ruda, odnosno prikolica skrene u stranu ili će aktivirati radnu kočnicu.
+Kočioni sistem na prikolicama čija najveća dozvoljena masa prelazi 7 t, odnosno na poluprikolicama sa sedlom čija je najveća dozvoljena masa koja je umanjena za masu koja opterećuje sedlo veća od 7 t, treba da bude ugrađen i izveden kao dvovodni pneumatski prenosni mehanizam.

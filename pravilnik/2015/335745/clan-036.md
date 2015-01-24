@@ -1,0 +1,16 @@
+# Član 36
+## Ugradnja radne, pomoćne i parkirne kočnice
+Radna, pomoćna i parkirna kočnica na motornom i priključnom vozilu, treba da budu ugrađene i izvedene tako da na pouzdan i bezbjedan način zaustave vozilo.
+Radna, pomoćna i parkirna kočnica motornih vozila, osim na vozilima kategorije L mogu da budu kombinovane tako da:
+1) postoje najmanje dvije komande nezavisno jedna od druge i da komanda radne kočnice bude nezavisna i odvojena od komande parkirne kočnice;
+2) komanda pomoćne kočnice bude nezavisna od komande parkirne kočnice, ako je parkirna kočnica takve konstrukcije da se ne može staviti u dejstvo pri kretanju vozila.
+Radna kočnica motornih vozila treba da djeluje na sve točkove.
+Radna i parkirna kočnica treba da djeluje na površinu koja je sa točkovima stalno povezana dovoljno čvrstim djelovima.
+Ako otkaže kočnica na bilo kojoj osovini priključnog vozila spojenog sa motornim vozilom kao vučnim vozilom, treba da bude obezbijeđeno nesmetano kočenje kočnicama postavljenim u tom vučnom vozilu.
+Uređaji ili programi kod elektronski upravljanih kočionih sistema kojima se osigurava neprekidno podešavanje sile kočenja srazmjerno promjeni opterećenja na motornim i priključnim vozilima, osim na autobusima za gradski i prigradski saobraćaj, kao i na priključnim vozilima najveće dozvoljene mase do 1,5 t i na priključnim vozilima sa naletnom kočnicom, koja na bilo kojoj zadnjoj osovini imaju promjenu opterećenja "puno-prazno" veću od 40% od najvećeg osovinskog opterećenja, treba da budu ugrađeni i izvedeni tako da osiguravaju neprekidno podešavanje sile kočenja srazmjerno promjeni opterećenja.
+Na motornim i priključnim vozilima koja imaju elastično vješanje osovina pomoću opruga čiji je ugib opruga za stanje opterećenja "puno-prazno" manji od 25 mm, ne moraju da budu ugrađeni uređaji kojima se osigurava neprekidno podešavanje sile kočenja srazmjerno promjeni opterećenja.
+Usporivač za dugotrajno usporavanje na motornim vozilima najveće dozvoljene mase preko 5 t, koja su predviđena za vuču prikolica najveće dozvoljene mase preko 7 t, odnosno poluprikolica sa sedlom čija je najveća dozvoljena masa koja otpada na osovine prelazi 7 t, kao i na motornim vozilima najveće dozvoljene mase preko 9 t, treba da bude ugrađen i izveden tako da obezbjeđuje dugotrajno usporavanje vozila.
+Struktura prenosnog mehanizma radne kočnice na motornim vozilima najveće dozvoljene mase preko 10 t treba da bude takva da se kočnice na osovinama aktiviraju pomoću najmanje dva međusobno nezavisna izvora energije tako da, ukoliko otkaže kočenje na jednoj osovini, postoji mogućnost nesmetanog kočenja na drugoj osovini ili drugim osovinama, dok ostatak efikasnosti kočnog uređaja za radno kočenje može da bude najmanje 30% od normativa propisanog za radnu kočnicu iz člana 124 ovog pravilnika.
+Struktura kočionog sistema za radno kočenje motornih vozila koja moraju da ispunjavaju uslove iz stava 9 ovog člana, a predviđena su za vuču priključnih vozila, mora da bude takav da obezbijedi mogućnost rada dvovodne kočne instalacije na priključnim vozilima.
+Kod motornih i priključnih vozila, kao i kod skupa vozila dejstvo kočnica na pojedine osovine mora biti sinhronizovano.
+Odredbe stava 7 ovoga člana ne primjenjuju se na vozila opremljena vazdušnim sistemom elastičnog ogibljenja.

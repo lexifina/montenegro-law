@@ -1,0 +1,6 @@
+# Član 60
+## Rotaciona i/ili trepćuća svijetla
+Rotaciona i/ili trepćuća svijetla na vozilima treba da budu izvedena tako da daju svjetlost plave, crvene ili žuto-narandžaste boje i treba da budu postavljena na najviše mjesto na vozilu i da budu vidljiva sa svih strana, a može biti postavljeno više rotacionih i/ili treptućih svijetala raspoređenih tako da se sa bilo koje strane vozila vidi najmanje jedno svijetlo.
+Plavo rotaciono i/ili treptuće svjetlo, može biti postavljeno na vozilima sa pravom prvenstva prolaska.
+Žuto-narandžasto rotaciono i/ili treptuće svijetlo može biti postavljeno na radnim vozilima i radnim mašinama, kao i na putničkim, kombinovanim i teretnim vozilima koje upotrebljavaju službe pomoći i informacija na putevima, službe održavanja puteva, komunalne službe, komunalna policija, službe pratnje vozila za vanredne terete, vozilima kojima se prevoze vanredni tereti, službe pratnje vozila koja prevoze opasne materije, vozilima kojima se prevoze opasne materije i vozilima na kojima se ili pomoću kojih se obavlja ispitivanje na putevima.
+Rotaciona i/ili treptuća svijetla na vozilima pod pratnjom mogu da budu crvene i plave boje postavljena tako da je crveno svijetlo na desnoj strani vozila.
