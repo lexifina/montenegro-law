@@ -1,0 +1,2 @@
+Na osnovu člana 39 st. 2 i 3 Zakona o turističkim organizacijama (,,Sl. list RCG", br. 11/04, 46/07 i ,,Sl. list CG", br. 73/10, 40/11 i 45/14), člana 45 stav 1 tačka 8 Zakona o lokalnoj samoupravi (,,Sl.list RCG", broj 42/03, 28/04, 75/05, 13/06 i ,,Sl.list CG", broj 88/09, 03/10, 38/12 i 10/14) i člana 31 stav 1 tačka 8 Statuta Opštine Šavnik ( ,,Sl. list RCG- Opštinski propisi", broj 28/04 i ,,Sl.list CG - Opštinski propisi", br. 24/08 i 36/10), Skupština opštine Šavnik, na sjednici održanoj 29.12. 2014. godine, donijela je
+O D L U K U
