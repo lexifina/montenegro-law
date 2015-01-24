@@ -1,0 +1,2 @@
+Na osnovu čl. 1. 4 i 7. St. 2. i 3. Zakona o finansiranju političkih partija ("Sl. list CG" br. 42/11, 6o/11, 1/12, I 1o/14.), člana 45. Zakona o lokalnoj samoupravi ("Sl. list RCG" br. 42/o3, 28/o4, 75/o5, I 13/o6, "Sl. list CG" br. 88/o9, 3/1o, i 38/12.), i člana 3. i 34. Statuta opštine Plav, ("Sl. list CG - Opštinski propisi" br. 17/o7, 25/o9, i 38/1o.), Skupština opštine Plav, na sjednici održanoj 29. 12.2o14.godine, donijela je
+ODLUKU
