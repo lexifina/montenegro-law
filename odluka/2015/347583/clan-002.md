@@ -1,0 +1,2 @@
+# Član 2
+Kreditna sredstva iz člana 1 ove odluke, DOO "Vodovod i kanalizacija" Kotor je dužno koristiti u skladu sa Odlukom Upravnog odbora DOO "Vodovod i kanalizacija "Kotor o kreditnom zaduženju, radi izmirenja postojeceg kredita u iznosu od 100.000,00 eura , a preostala sredstva u iznosu od 50.000,00 eura bice usmjerena za pokrice tekuce likvidnosti, za izmirenje dijela obaveza prema Poreskoj Upravi Crne Gore po osnovu poreza I doprinosa I izmirenje dijela duga prema JP "Regionalni vodovod Crnogorsko primorje" Budva .
