@@ -1,0 +1,2 @@
+Na osnovu člana 45. Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 i 13/06) i ("Sl.list CG", br. 88/09, 03/10, 38/12 i 10/14) člana 48. Zakona o finansiranju lokalne samouprave ("Sl.list RCG", br. 42/03 i 44/03 "Sl.list CG", br.5/08 i 74/10), člana 33. i 37. Statuta Opštine Berane ("Sl.list RCG - Opštinski propisi" br. 21/04 i 34/06 i "Sl.list CG- Opštinski propisi" br. 06/11) Skupština Opštine Berane na sjednici održanoj dana 29. 12. 2014. godine, donijela je
+ODLUKU
