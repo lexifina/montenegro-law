@@ -1,0 +1,2 @@
+Na osnovu člana 39. Zakona o turističkim organizacijama ("Sl list RCG" br. 11/04, 46/07,"Sl list CG" br. 73/10 i 45/14), člana 4. i 24. Zakona o prekršajima ("Sl. list CG" br 1/11, 39/11, 32/14), čl.6. Odluke o visini, načinu obračunavanja i plaćanja članskog doprinosa u turističkoj organizaciji Opštine Kotor (Sl. List Opštine Kotor" 9/05) i člana 30. Statuta Opštine Kotor ("Sl.list Opštine Kotor" br. 3/04 i "Sl list CG -Opštinski propisi" br.17/08, 31/09, 40/10 i 04/11), Skupština Kotor,na sjednici održanoj 29. 12. 2014.godine, donijela je
+O D L U K U
