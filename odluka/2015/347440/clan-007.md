@@ -1,0 +1,2 @@
+# Član 7
+Danom stupanja na snagu ove Odluke prestaju da važe odredbe u Odluci o lokalnim komunalnim taksama (’’Sl.list RCG’’, br.13/07 i i ’’Sl.list CG’’, 2/07), koje se odnose na utvrđivanje obaveza za postavljanje ljetnjih bašti i terasa ispred ugostiteljskih objekata, postavljanje aparata: za kokice, točenje sladoleda, osvežavajuće napitke, sjemenke, kazana za kukuruz, palačinki, pomfrita i sl.
