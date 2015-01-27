@@ -1,0 +1,2 @@
+Na osnovu Člana 4. i 24. Zakona o prekršajima ("Sl. list CG" br. 1/11, 39/11, 32/14), Člana 13. Odluke o porezu na nepokretnosti ("Sl. list CG -Opštinski propisi" br. 14/12 i 15/12) i člana 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor" broj 3/04 i "Sl list CG -Opštinski propisi", br.17/08, 31/09, 40/10 i 04/11), Skupština Kotor na sjednici održanoj dana 29. 12. 2014.godine, donijela je
+O D L U K U
