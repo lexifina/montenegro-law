@@ -1,0 +1,2 @@
+# Član 3
+Organ državne uprave nadležan za poslove zdravlja u izuzetnim slučajevima, kod teških patoloških stanja, rijetkih bolesti, nastavka terapije propisane pri liječenju u inostranstvu, može da odobri primjenu lijeka koji nije na osnovnoj listi ljekova, na osnovu mišljenja konzilijuma doktora odgovarajućih specijalnosti Kliničkog centra Crne Gore i mišljenja Fonda za zdravstveno osiguranje Crne Gore.
