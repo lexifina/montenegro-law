@@ -1,0 +1,3 @@
+Na osnovu člana 15 Zakona o turističkim organizacijama («Sl.list RCG» broj 11/04 i 46/07), člana 17 Odluke o osnivanju turisticke organizacije opstine Tivat ("Sl list RCG opstinski propisi", br 40/04 i "Sl.list CG-Opštinski propisi", br 13/10), člana 32 Statuta Turističke organizacije Tivat i člana 31 Statuta opštine Tivat ("Sl.list RCG - Opštinski propisi" 40/04, 26/06 i "Sl.list Crne Gore - Opštinski propisi",br. 12/11, 21/11 i 3/13), Skupština opštine Tivat na sjednici održanoj dana 29.12.2014. godine, donijela je
+O D L U K U
+o imenovanju predstavnika Skupštine opštine u Nadzorni odbor Turističke organizacije
