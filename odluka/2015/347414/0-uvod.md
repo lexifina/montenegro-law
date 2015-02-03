@@ -1,0 +1,2 @@
+Na osnovu člana 34. stav 43. Statuta opštine Pljevlja ("Sl.list RCG-Opštinski propisi", br.37/04, 30/07 i "Sl.list CG-Opštinski propisi", br. 32/09 i 14/11) i člana 17. stav 1. tačka 1. Odluke o osnivanju društva sa ograničenom odgovornošću "Centar za sport i rekreaciju" Pljevlja ("Sl.list CG-Opštinski propisi", br. 07/14 i 16/14), Skupština opštine Pljevlja, na sjednici održanoj dana 29.01.2015. godine d o n i j e l a je
+ODLUKU
