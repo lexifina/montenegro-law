@@ -1,0 +1,2 @@
+# Član 2
+Urbanistički projektai za hotelski kompleks "ORJEN" na Vrbanju, obuhvata prostor površine cca 1.35 ha u okviru K.O. Kruševice, definisan Programskim zadatkom br. 01- 1- 900/14 od 27.06.2014.godina koji čini sastavni dio Odluke o izradi ovog planskog dokumenta. Takođe, prostor obuhvata plana se nalazi u užoj zoni parka Orjen za koji je donesena Odluka o proglašenju Regionalnog parka"Orjen" ("Sl.list CG op.propisi",br.16/09).
