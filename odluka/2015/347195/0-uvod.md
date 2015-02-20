@@ -1,0 +1,2 @@
+Na osnovu člana 96 stav 3 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09, 3/10, 38/12 i 10/14), čl.112 i čl. 87 i 75 Statuta Prijestonice ("Sl.list CG-Opštinski propisi", br. 19/09, 37/10, 26/13 i 39/14) i čl. 62 stav 4 i 5 Odluke o Mjesnim zajednicama ("Sl.list CG-Opštinski propisi", broj 15/07) Gradonačelnik Prijestonice privremeno donosi
+ODLUKU
