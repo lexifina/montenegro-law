@@ -1,0 +1,2 @@
+Na osnovu člana 16 stav 1 Zakona o spomen-obilježjima ("Službeni list Crne Gore", br. 40/08 i 40/11), člana 41 Statuta Opštine Bar ("Službeni list Crne Gore - Opštinski propisi", broj 6/11), u skladu sa Programom podizanja spomen-obilježja ("Službeni list Crne Gore - Opštinski propisi", broj 38/14) i uz saglasnost Ministarstva kulture, Skupština opštine Bar, na sjednici održanoj dana 19.02.2015. godine, donijela je
+ODLUKU
