@@ -1,0 +1,3 @@
+# Član 59
+Revizorski zapisnik, ovjeren od strane načelnika u sektoru, dostavlja se Rukovodiocu Kolegijuma, koji obavlja razgovor sa načelnikom u cilju utvrđivanja svih elemenata od značaja za preliminarnu fazu izvještavanja, nakon čega se zapisnik zavodi i dostavlja drugom članu Kolegijuma.
+Po prijemu revizorskog zapisnika drugi član Kolegijuma može zatražiti da se sazove sjednica Kolegijuma za slučaj da ocijeni da nijesu sprovedene sve radnje definisane Detaljnim planom revizije, ispoštovane procedure kontrole kvaliteta ili zbog drugih okolnosti zbog kojih smatra da zapisnik državnog revizora treba da bude predmet razmatranja na sjednici Kolegijuma.
