@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10, 38/12 i 10/14), a u vezi sa članom 7 stav 2 Zakona o zaradama državnih službenika i namještenika ("Sl. list CG", broj 14/12) i člana 33 stav 1 tačka 2 Statuta Opštine Pljevlja ("Službeni list RCG - Opštinski propisi", br. 37/2004, 30/2007 i "Službeni list CG - Opštinski propisi", br. 11/2008, 21/2009, 32/2009 i 14/2011), Skupština opštine Pljevlja, na sjednici održanoj dana 29.01.2015.godine, donijela je
+O D L U K U
+o zaradama lokalnih službenika i namještenika opštine Pljevlja
