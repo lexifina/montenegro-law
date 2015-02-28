@@ -1,0 +1,2 @@
+Na osnovu člana 6 Zakona o socijalnom stanovanju (″Sl. list CG″, broj 35/13) i člana 48 Statuta Glavnog grada (″Sl.list RCG - Opštinski propisi″, broj 28/06 i ″Sl. list CG-Opštinski propisi″, br. 39/10 i 18/12), uz prethodno pribavljenu saglasnost Ministarstva održivog razvoja i turizma, br. 08-93/67 od 24.12.2014. godine, Skupština Glavnog grada - Podgorice, na sjednici održanoj 17. februara 2015. godine, donijela je
+O D LU K U
