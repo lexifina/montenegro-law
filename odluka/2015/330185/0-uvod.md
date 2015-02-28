@@ -1,0 +1,2 @@
+Na osnovu člana 18 stav 2 Zakona o kulturi ("Službeni list Crne Gore", broj 49/08 i 40/11), člana 48 Statuta Glavnog grada ("Službeni list Republike Crne Gore-Opštinski propisi", broj 28/06 i "Službeni list Crne Gore-Opštinski propisi", br. 39/10 i 18/12 ) i člana 15 Odluke o osnivanju Javne ustanove Kulturno-informativni centar "Malesija" Tuzi ("Službeni list Republike Crne Gore-Opštinski propisi", broj 24/04 i "Službeni list Crne Gore-Opštinski propisi", broj 28/11), Skupština Glavnog grada-Podgorice, na sjednici održanoj 17. februara 2015. godine, donijela je
+O D L U K U
