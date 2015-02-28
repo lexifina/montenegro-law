@@ -1,0 +1,2 @@
+Na osnovu člana 48 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", broj 28/06 i "Sl. list CG - Opštinski propisi", br. 39/10 i 18/12) i člana 16 Odluke o postavljanju, građenju i uklanjanju privremenih objekata montažnog karaktera na teritoriji Glavnog grada - Podgorice ("Sl. list CG - Opštinski propisi", broj 11/14), Skupština Glavnog grada - Podgorice, na sjednici održanoj 17. februara 2015. godine, donijela je
+O D L U K U
