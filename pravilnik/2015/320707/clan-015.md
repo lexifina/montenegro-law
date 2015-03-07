@@ -1,0 +1,6 @@
+# Član 15
+Lice koje vrši poslove zaštite vatreno oružje nosi na vidnom mjestu, u futroli čija boja mora biti drukčija od boje uniforme.
+Kad okolnosti ukazuju na postojanje uslova za upotrebu vatrenog oružja, u skladu sa Zakonom, lice koje vrši poslove zaštite vatreno oružje priprema za upotrebu i postavlja se u položaj koji mu je u datim okolnostima najbezbjedniji i omogućava sigurnu upotrebu vatrenog oružja i usmjerava ga prema licu prema kome namjerava da ga upotrijebi.
+Prije upotrebe vatrenog oružja, lice koje vrši poslove zaštite dužno je, kad okolnosti to dopuštaju, da upozori lice prema kome namjerava da upotrijebi vatreno oružje povikom: "Stoj", a ukoliko lice ne postupi po datom upozorenju izdaje naređenje: "Stoj, pucaću".
+Ukoliko lice ni nakon naređenja iz stava 3 ovog člana ne prestane sa napadom na lice koje vrši poslove zaštite, lice u štićenom objektu, odnosno štićeni objekat, lice koje vrši poslove zaštite će ispaliti pucanj upozorenja u bezbjednom smjeru.
+Za vrijeme dok je vatreno oružje spremno za upotrebu, lice koje vrši poslove zaštite ne smije da ga usmjerava prema drugim licima, a po prestanku okolnosti iz stava 2 ovog člana dužno je da, bez odlaganja, oružje ukoči i izvrši njegovo pražnjenje radi pripreme za bezbjedno nošenje.
