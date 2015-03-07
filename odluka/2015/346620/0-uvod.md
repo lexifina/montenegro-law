@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 4 i tačka 11 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04 i 75/05, "Službeni list Crne Gore", br. 88/09, 03/10, 73/10, 38/12 i 10/14), i člana 4 Uredbe o povjeravanju dijela poslova Uprave policije Prijestonici Cetinje i opštinama Bar, Budva, Tivat, Kotor, Nikšić i Herceg Novi ("Službeni list Crne Gore", br. 7/13, 32/13 i 46/14), Predsjednik Opštine Kotor, donosi
+ODLUKU
