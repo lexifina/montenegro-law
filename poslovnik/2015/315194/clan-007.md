@@ -1,0 +1,3 @@
+# Član 7
+Član Komisije ima pravo i dužnost da: učestvuje u radu i odlučivanju Komisije, inicira razmatranje pitanja koja su u nadležnosti Komisije, čuva povjerljive podatke u skladu sa zakonom i aktima Komisije, čuva ugled i dostojanstvo Komisije, bude pravovremeno i redovno obavještavan o pitanjima o kojima odlučuje Komisija, ostvari uvid u svu dokumentaciju kojom raspolaže Komisija, u slučaju spriječenosti prisustvovanja zakazanoj sjednici blagovremeno obavijesti sekretara Komisije, obavlja druge poslove u skladu sa zakonom i ovim poslovnikom.
+Članovi Komisije imaju pravo na naknadu za rad u Komisiji, koju Komisija utvrđuje posebnom odlukom.
