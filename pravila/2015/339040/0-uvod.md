@@ -1,0 +1,2 @@
+Na osnovu člana 9 stav 1 tačka 11 Zakona o hartijama od vrijednosti ("Službeni list RCG", br. 59/00, 10/01, 43/05, 28/06, "Sl. list Crne Gore", br. 53/09, 73/10, 40/11, 06/13) i člana 41 st. 1 i 8 i člana 42 stav 2 Zakona o dobrovoljnim penzionim fondovima ("Službeni list RCG", br. 78/06, 14/07 i "Sl. list Crne Gore", br. 73/10, 40/11), Komisija za hartije od vrijednosti, na 148. sjednici od 24.02.2015. godine, donosi
+PRAVILA O IZMJENI PRAVILA O OBAVLJANJU KASTODI POSLOVA
