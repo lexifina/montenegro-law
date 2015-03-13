@@ -1,0 +1,10 @@
+# Član 6
+## Dostavljanje podataka za kontinuirano praćenje ispunjavanja uslova
+Radi kontinuiranog praćenja ispunjenosti uslova na osnovu kojih je izdata operativna licenca, a naročito procjene finansijske sposobnosti, vazdušni prevoznik Agenciji za civilno vazduhoplovtsvo (u daljem tekstu: Agencija), dostavlja :
+1) godišnje finansijske izvještaje, sa mišljenjem revizora, ako je mišljenje potrebno u skladu sa zakonom i po potrebi, najnoviji bilans stanja, najkasnije šest mjeseci nakon isteka obračunskog perioda;
+2) projektovani bilans stanja i bilans uspjeha za narednu finansijsku godinu;
+3) podatke o prethodnim i projektovanim prihodima i rashodima, naročito za gorivo, cijene prevoza putnika i cijene prevoza tereta, zarade, održavanje, amortizaciju, aerodromske naknade, naknade za vazdušnu plovidbu, troškove zemaljskog opsluživanja, osiguranje, prognoze prometa/prihoda itd;
+4) projektovane tokove gotovine i planove likvidnosti za narednu finansijsku godinu.
+Ako u toku važenja operativne licence se opravdano sumnja da vazdušni prevoznik ima finansijske poteškoće u poslovanju, Agencija vrši provjeru njegove finansijske sposobnosti i ako utvrdi da ne može da ispuni finansijske obaveze u periodu od 12 mjeseci, može da ukine ili privremeno ukine operativnu licencu.
+Odredba stava 1 ovog člana ne primjenjuje se na vazdušnog prevoznika koji obavlja djelatnost vazduhoplovom čija je najveća dopuštena masa pri polijetanju (MTOM) manja od 10.000 kg. i/ili koji ima manje od 20 putničkih sjedišta, s tim što dostavlja dokaze da njegov neto kapital iznosi najmanje 100.000 eura, a na zahtjev Agencije, dostavlja dokaze od značaja za ocjenu ispunjenosti uslova u pogledu finansijske sposobnosti, u skladu sa stavom 2 ovog člana.
+Vazdušni prevoznik koji obavlja djelatnost vazduhoplovom čija je najveća dopuštena masa pri polijetanju (MTOM) manja od 10.000 kg i/ili koji ima manje od 20 putničkih sjedišta, a koji je na osnovu finansisjkog izvještaja ostvario promet veći od 3.000.000 eura godišnje, na zahtjev Agencije dostavlja dokumentaciju iz člana 3 stav 1 tač. 2 i 3 ovog pravilnika, u roku od 90 dana od dana dostavljanja zahtjeva.
