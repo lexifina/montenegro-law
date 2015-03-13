@@ -1,0 +1,5 @@
+# Član 9
+## Vozila za prevoz tereta
+Vozila za prevoz tereta moraju imati ispisan naziv i sjedište ili ime i prezime i prebivalište prevoznika, odnosno lica koje obavlja prevoz za sopstvene potrebe, najmanje na spoljnim bočnim stranama kabine vozila, slovima visine minimalno 30 mm i bojom koja se bitno razlikuje od osnovne boje vozila, podaci navedeni na bočnim stranama vozila moraju odgovarati podacima navedenim u licenci za obavljanje djelatnosti javnog prevoza u drumskom saobraćaju, odnosno odobrenju za obavljanje prevoza za sopstvene potrebe.
+Na vozilima za prevoz tereta, na bočnim i zadnjoj strani zatvorenog tovarnog prostora, može biti ispisana reklama firme, proizvoda ili usluga pravnog lica ili preduzetnika za koga se obavlja prevoz.
+Vozila kojima se obavlja prevoz tereta u međunarodnom drumskom saobraćaju, pored uslova iz stava 1 ovog člana, moraju ispunjavati tehničke uslove u pogledu buke i emisije izduvnih gasova i uslove u pogledu bezbjednosti u skladu sa posebnim propisom, ako međudržavnim ugovorima nije drugačije utvrđeno.
