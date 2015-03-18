@@ -1,0 +1,17 @@
+Na osnovu člana 53 Zakona o koncesijama ("Službeni list CG", broj 8/09) i čl. 25 i 27 Ugovora o koncesiji za eksploataciju rječnih nanosa (šljunak i pijesak), na lokaciji "Dromira" (u dužini od 300m, sa desne obale i korita vodotoka, MZ Bioče), vodotok Morača, Glavni grad Podgorica, Vlada Crne Gore, na sjednici od 5. februara 2015. godine, donijela je
+ODLUKU
+O RASKIDU UGOVORA O KONCESIJI ZA EKSPLOATACIJU RJEČNIH NANOSA
+(ŠLjUNAK I PIJESAK), NA LOKACIJI "DROMIRA" (U DUŽINI OD 300M, SA
+DESNE OBALE I KORITA VODOTOKA, MZ BIOČE), VODOTOK MORAČA,
+GLAVNI GRAD PODGORICA
+1. Raskida se Ugovor o koncesiji za eksploataciju rječnih nanosa (šljunak i pijesak), na lokaciji "Dromira" (u dužini od 300m, sa desne obale i korita vodotoka, MZ Bioče), vodotok Morača, Glavni grad Podgorica (u daljem tekstu: Ugovor o koncesiji), broj 85 od 30. januara 2012. godine, koji je Vlada Crne Gore zaključila sa koncesionarom "Ilija Novaković Ico" D.O.O. iz Podgorice.
+2. Po osnovu raskida Ugovora o koncesiji koncesionar:
+- nema prava na naknadu štete, odnosno troškova za izvršene radove i uložena sredstva;
+- je dužan da u roku od 10 dana od dana prijema pismenog otkaza Ugovora o koncesiji uspostavi stanje na terenu koje je postojalo prije eksploatacije rječnih nanosa (šljunak i pijesak) na lokalitetu na kojem je vršio eksploataciju, uz uslov da time ne nastanu štete na lokalitetu, njegovoj okolini i prema trećim licima.
+3. Pismeni otkaz Ugovora o koncesiji koncesionaru u ime koncendenta daće Uprava za vode.
+4. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+Obrazloženje
+Koncesionar "Ilija Novaković Ico" D.O.O. iz Podgorice, obratio se Upravi za vode sa zahtjevom, od 12. decembra 2014. godine, za raskid Ugovora o koncesiji za eksploataciju rječnih nanosa (šljunka i pijeska) na lokalitetu "Dromira" (u dužini od 300m, sa desne obale i korita vodotoka, MZ Bioče), vodotok Morača, Glavni grad Podgorica, broj 85 od 30. januara 2012. godine, koji je sa koncesionarom, u svojstvu koncendenta, zaključila Vlada Crne Gore. Ugovor je zaključen u sprovođenju Odluke o dodjeli predmetne koncesije, koju je Vlada Crne Gore donijela na sjednici od 2. juna 2011. godine, a koja je objavljena u "Službenom listu Crne Gore", broj 36/11.
+Zahtjevom se poziva na član 25 stav 1 tačka 1 i član 26 stav 1 Ugovora o koncesiji te ističe da koncesionar usljed tehnoloških problema i ekonomske situacije već godinu dana nije u mogućnosti da eksploatiše odnosno koristi predmetnu lokaciju.
+Uvidom u navedene odredbe predmetnog ugovora može se nesumnjivo utvrditi da nema smetnji da se podneseni zahtjev koncesionara prihvati i ugovor raskine. Ovo tim prije, jer je koncesionar izmirio sve svoje obaveze po osnovu koncesione naknade, vezane za period do podnošenja zahtjeva za raskid Ugovora.
+Predlog odluke pripremljen je u skladu sa odredbama Zakona o koncesijama i Ugovora o koncesiji kojima je uređen raskid ugovora, uključujući i određenja da koncesionar po osnovu raskida tog ugovora nema prava na naknadu štete, odnosno troškova za izvršene radove i uložena sredstva i da je dužan da u roku od 10 dana od dana prijema pismenog otkaza Ugovora o koncesiji uspostavi stanje na terenu koje je postojalo prije eksploatacije rječnih nanosa (šljunak i pijesak) na lokalitetu na kojem je vršio eksploataciju, uz uslov da time ne nastanu štete na lokalitetu, njegovoj okolini i prema trećim licima (član 25 st. 2 i 3 Ugovora o koncesiji).
