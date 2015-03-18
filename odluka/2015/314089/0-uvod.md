@@ -1,0 +1,2 @@
+Na osnovu čl. 58 i 96 stav 3 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 i 13/06, "Sl.list CG", br. 88/09, 3/10, 38/12 i 10/14, čl.87 stav 1 alineja 24 Statuta Prijestonice ("Sl.list CG", br. 19/09, 37/10, 26/13, 39/14 i čl.62 stav 4 i 5 Odluke o Mjesnim zajednicama ("Sl.list RCG-Opštinski propisi", br. 15/07, Skupština Prijestonice Cetinje, na sjednici održanoj dana 02.03.2015.godine, donijela je
+ODLUKU
