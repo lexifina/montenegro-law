@@ -1,0 +1,5 @@
+# Član 85
+## 5. Postupak odlučivanja o sukobu nadležnosti
+Predlog za odlučivanje o sukobu nadležnosti mogu podnijeti jedan ili više organa između kojih postoji sukob i lice koje zbog prihvatanja, odnosno odbijanja nadležnosti ne može da ostvari svoja prava.
+Predlog iz stava 1 ovog člana podnosi se Ustavnom sudu, u roku od 15 dana od dana donošenja rješenja kojim se organ oglasio nenadležnim, ako se drugi organ prije toga oglasio nenadležnim u istom predmetu, odnosno od dana proteka roka u kojem je organ morao postupiti po zahtjevu stranke u skladu sa zakonom, a to nije učinio, a drugi organ se prije toga već oglasio nenadležnim u istom predmetu ili nije postupio u propisanom roku i na taj način nesporno pokazao da se za taj predmet ne smatra nadležnim (negativni sukob nadležnosti).
+Predlog iz stava 1 ovog člana podnosi se Ustavnom sudu, u roku od 15 dana od dana postupanja organa po zahtjevu stranke u skladu sa zakonom, ako je drugi organ prije toga već postupao u istom predmetu ili je preduzeo radnje iz kojih nesporno proizilazi da se za taj predmet smatra nadležnim (pozitivni sukob nadležnosti).

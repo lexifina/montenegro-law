@@ -1,0 +1,4 @@
+# Član 18
+Ustavni sud, na inicijativu predsjednika Ustavnog suda ili na obrazloženu inicijativu troje sudija, podnosi Skupštini obrazloženi predlog da se sudija Ustavnog suda razriješi dužnosti ako je osuđen za djelo koje ga čini nedostojnim za vršenje funkcije, ako trajno izgubi sposobnost za vršenje funkcije ili javno ispoljava svoja politička uvjerenja.
+Krivična djela koja sudiju Ustavnog suda čine nedostojnim za vršenje funkcije su krivična djela za koja se goni po službenoj dužnosti i za koja je propisana kazna zatvora preko šest mjeseci.
+Trajni gubitak sposobnosti za vršenje funkcije sudije Ustavnog suda utvrđuje se na osnovu stručnog nalaza i mišljenja zdravstvene ustanove, koji može zatražiti sam sudija ili predsjednik Ustavnog suda, a za predsjednika Ustavnog suda zamjenik predsjednika.

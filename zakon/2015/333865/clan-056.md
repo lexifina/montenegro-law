@@ -1,0 +1,2 @@
+# Član 56
+Inicijativu za pokretanje postupka za ocjenu saglasnosti zakona sa Ustavom i potvrđenim i objavljenim međunarodnim ugovorima, odnosno drugog propisa i opšteg akta sa Ustavom i zakonom može podnijeti fizičko i pravno lice, kao i organizacija, naselje, grupa lica i drugi oblici organizovanja koji nemaju svojstvo pravnog lica, koji ne moraju imati neposredan pravni interes za podnošenje inicijative.
