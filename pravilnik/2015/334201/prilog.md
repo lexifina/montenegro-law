@@ -1,0 +1,18 @@
+Prilog 1 ZAHTJEV ZA IZDAVANJE POTVRDE DA NA EVIDENCIJI ZAVODA ZA ZAPOŠLJAVANJE CRNE GORE NEMA NEZAPOSLENIH LICA KOJA ISPUNJAVAJU USLOVE ZA ZASNIVANJE RADNOG ODNOSA NA ODREĐENIM POSLOVIMA KOD POSLODAVCA ILI JE LICE SA EVIDENCIJE ODBILO ZASNIVANJE RADNOG ODNOSA NA TIM POSLOVIMA
+1. Naziv i sjedište poslodavca _____________________________________________________________________________________ 2. Djelatnost poslodavca (šifra i naziv djelatnosti) _____________________________________________________________________________________ 3. Matični broj registra poslodavca / PIB _____________________________________________________________________________________ 4. Naziv radnog mjesta _____________________________________________________________________________________ 5. Mjesto rada _____________________________________________________________________________________ 6. Broj izvršilaca _____________________________________________________________________________________ 7. Nivo obrazovanja i kvalifikacija _____________________________________________________________________________________ 8. Radno iskustvo _____________________________________________________________________________________ 9. Posebna znanja i vještine _____________________________________________________________________________________ 10. Napomena:
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+U ______________ Podnosilac zahtjeva Dana_____________ ______________________
+Prilog 2
+ZAVOD ZA ZAPOŠLJAVANJE CRNE GORE Broj:_____________ ________________, godine
+Na osnovu člana 66 Zakona o strancima ("Službeni list Crne Gore", broj 56/14) Zavod za zapošljavanje Crne Gore, na zahtjev _________________________________________________ ______________________________________________________________________________,
+(naziv poslodavca, sjedište, matični broj registra / PIB)
+izdaje
+P O T V R D U
+Da na evidenciji Zavoda za zapošljavanje Crne Gore nema nezaposlenih lica koja ispunjavaju uslove za zasnivanje radnog odnosa na poslovima __________________________________ ______________________________________________________________________________,
+(naziv radnog mjesta, nivo obrazovanja, kvalifikacija i broj izvršilaca)
+kod poslodavca _________________________________________________________________, ili je lice sa evidencije odbilo zasnivanje radnog odnosa na tim poslovima.
+Potvrda se izdaje radi davanja pisane ponude poslodavca za zapošljavanje stranca na određenom radnom mjestu, i u druge svrhe se ne može koristiti.
+Ova potvrda važi 60 dana od dana izdavanja.
+_______________________
+Potpis i pečat ovlašćenog lica
