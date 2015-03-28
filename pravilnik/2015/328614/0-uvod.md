@@ -1,0 +1,2 @@
+Na osnovu čl. 20 i 23 Zakona o autoputu Bar-Boljare ("Službeni list CG", broj 52/14), Ministarstvo finansija, donijelo je
+P R A V I L N I K O IZMJENAMA I DOPUNI PRAVILNIKA O POSTUPKU OSLOBAĐANJA OD PLAĆANJA PORESKIH I CARINSKIH OBAVEZA ZA IZVOĐENJE RADOVA NA IZGRADNJI AUTOPUTA BAR-BOLJARE
