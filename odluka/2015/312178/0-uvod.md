@@ -1,0 +1,2 @@
+Na osnovu člana 32 Statuta opštine Andrijevica ("Službeni list RCG - Opštinski propisi", br.21/04,42/06 i "Službeni list CG- Opštinski propisi",br: 02/11 i 21/13),člana 10 Odluke o osnivanju d.o.o "Vodovod i kanaliozacija"Andrijevica ("Službeni list Crne Gore- Opštinski propisi", broj: 01/14 ) i člana 18 Statuta d.o.o "Vodovod i kanaliozacija"Andrijevica ("Službeni list Crne Gore-Opštinski propisi",broj.7/14) ,Skupština opštine Andrijevica, na sjednici održanoj dana 12.03.2015. -godine, donijela je
+ODLUKU
