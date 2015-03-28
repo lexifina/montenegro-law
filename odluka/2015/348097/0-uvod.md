@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09, 38/12 i 10/14), člana 59 stav 1 tačka 7 i člana 71a Statuta Opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", br. 24/10 i 26/10), po pribavljenom mišljenju Glavnog administratora, broj 03- 061-11 od 09.03.2015. godine, predsjednik Opštine Nikšić, dana 11.03.2015. godine, donio je
+ODLUKU
