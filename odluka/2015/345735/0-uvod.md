@@ -1,0 +1,2 @@
+Na osnovu člana 5 stav 5 Zakona o putevima ("Sl. list RCG", br. 42/04, i "Sl. list CG", br. 54/09, 36/11), člana 51 Zakona o lokalnoj samoupravi ("Sl. List RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. List CG", br.88/09, 38/12 i 10/14) i čl. 44 Statuta opštine Mojkovac ("Sl. list CG - Opštinski propisi", br.31/10 i 26/12), Odluke o donošenju PUP-a opštine Mojkovac ("Sl. list CG - Opštinski propisi", br. 19/11 i 9/14) i člana 5 Odluke o opštinskim i nekategorisanim putevima, Skupština Opštine Mojkovac, na sjednici održanoj dana 26.02.2015 godine, donijela je:
+ODLUKU
