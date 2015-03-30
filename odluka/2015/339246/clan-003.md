@@ -1,0 +1,3 @@
+# Član 3
+Sva pokretna i nepokretna imovina opštine Plav kao i finansijska sredstva, koja su zatečena na teritoriji novoformirane opštine Gusinje ne mogu se koristiti bez predhodnog regulisanja podjele imovine i obaveza putem sporazuma izvršnih organa opština Plav i Gusinje (Predsjednika) i preuzimanja zaposlenih službenika i namještenika u skladu sa Odlukom Skupštine opštine Plav br. 0301-45/7 od 29.12.2014. godine ("Sl. list CG- Opštinski propisi br. 2/2015).
+Preuzimanje predmeta, baze podataka, poreskih i drugih potraživanja će se izvršiti nakon potpisivanja, odnosno zaključivanja sporazuma iz st. 1. ovog člana.
