@@ -1,0 +1,2 @@
+Na osnovu člana 31 stav 1 tačka 44 Statuta opštine Šavnik (,,Sl.list RCG -Opštinski propisi", br. 28/04 i ,,Sl.list CG -Opštinski propisi", br. 24/08 i 36/10) , člana 11 Odluke o osnivanju D.O.O. ,,Komunalne djelatnosti" , člana 11 Statuta D.O.O. ,,Komunalne djelatnosti", broj: 01-36 od 30.01.2014.godine, a u vezi sa članom 17 Statuta D.O.O.,,Komunalne djelatnosti", broj: 01-36 od 30.01.2014.godine, Skupština opštine Šavnik, na sjednici održanoj dana 31.03.2015.godine, donijela je
+RJEŠENJE
