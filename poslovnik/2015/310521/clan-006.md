@@ -1,0 +1,2 @@
+# Član 6
+Komisija saraĎuje sa meĎunarodnim organizacijama i institucijama drugih država koje se bave sprječavanjem sukoba interesa i ostvaruje bilateralnu i multirateralnu saradnju s tijelima u drugim zemljama koja imaju status sličan Komisiji i može organizovati meĎunarodna stručna savjetovanja i druge oblike saradnje, kao i potpisivati sporazume o meĎusobnoj saradnji, u skladu sa članom 40 stav 1 tačka 9 Zakona.
