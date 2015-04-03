@@ -1,0 +1,8 @@
+Na osnovu člana 6 stav 7 Zakona o finansiranju političkih subjekata i izbornih kampanja ("Službeni list CG", br. 52/14), Državna izborna komisija, na sjednici održanoj 18.marta 2015. godine, donijela je
+P R A V I L A O NAČINU OBRAČUNAVANJA I IZVJEŠTAVANJA O NENOVČANIM PRILOZIMA POLITIČKIM SUBJEKTIMA
+1. Ovim pravilima se utvrđuje način obračunavanja i izvještavanja o nenovčanim prilozima političkim subjektima.
+2. Nenovčane priloge politički subjekat obračunava kao razliku između cijene koju je platio za proizvod ili uslugu pravnom ili fizičkom licu i tržišne vrijednosti tog proizvoda ili usluge na dan kada su proizvod ili usluga plaćeni, prema podacima organa nadležnog za poslove statistike, ako je ta razlika veća za najmanje 15%.
+Ukoliko ne postoje podaci organa iz stava 1 ove tačke, tržišna cijena se obračunava na osnovu prosječne cijene tri različita davaoca proizvoda ili usluge u vrijeme njihovog plaćanja.
+3. O prihodima ostvarenim u smislu tačke 2 ovih pravila, politički subjekti izvještavaju Državnu izbornu komisiju kroz izvještaj o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora za izbornu kampanju i petnaestodnevne izvještaje o prilozima pravnih i fizičkih lica u toku izborne kampanje koji se podnose u skladu sa članom 39 stav 2 i članom 42 stav 2 Zakona o finansiranju političkih subjekata i izbornih kampanja, a iskazuju ih i kroz izvještaj o godišnjim prihodima, imovini i rashodima.
+4. Stupanjem na snagu ovih pravila prestaju da važe Pravila o načinu obračunavanja i izvještavanja o nenovčanim prilozima političkim partijama, broj 127. od 22. 02. 2013. godine ("Službeni list CG", broj 12/13).
+5. Ova pravila stupaju na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
