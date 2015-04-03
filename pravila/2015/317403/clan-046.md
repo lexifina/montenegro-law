@@ -1,0 +1,2 @@
+# Član 46
+Po ovim pravilima dužan je da postupa i javni funkcioner koji je, u vrijeme stupanja na snagu Zakona o izmjenama i dopunama Zakona o sprječavanju sukoba interesa ("Službeni list CG" broj 52/14), obavljao javnu funkciju, kao i lice koje je u skladu sa Zakonom o sprječavanju sukoba interesa imalo prava i obaveze (javni funkcioner kome je prestala javna funkcija, a nije istekao rok od 1 godinu po prestanku javne funkcije).

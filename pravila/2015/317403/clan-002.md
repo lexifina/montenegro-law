@@ -1,0 +1,3 @@
+# Član 2
+Po ovim pravilima dužni su da postupaju javni funkcioneri, sa njima povezana lica, državni organi, organi lokalne uprave i samouprave i druga pravna i fizička lica kada, u smislu odredbi Zakona o sprječavanju sukoba interesa, učestvuju u postupku pred Komisijom.
+Povezano lice je srodnik javnog funkcionera u pravoj liniji (roditelji, djeca i unučad) i pobočnoj do drugog stepena srodstva (brat i sestra), srodnik po tazbini do prvog stepena srodstva (roditelji i djeca supružnika), bračni i vanbračni supružnik, usvojilac i usvojenik, član zajedničkog domaćinstva, drugo fizičko ili pravno lice sa kojim javni funkcioner uspostavlja ili je uspostavio poslovni odnos.

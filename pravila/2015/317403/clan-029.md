@@ -1,0 +1,4 @@
+# Član 29
+Ovlašćeni član Komisije koji vodi postupak dužan je, po službenoj dužnosti, pribaviti podatke i obavještenja o činjenicama o kojima službenu evidenciju vode nadležni državni organi, organi državne uprave i opštine odnosno javna preduzeća, privredna društva, ustanova ili druga pravna lica.
+Ukoliko organi i pravna lica iz stava 1 ovog člana ne postupe u roku i na način, koji odredi Komisija, dužni su da o razlozima bez odlaganja obavijeste Komisiju, nakon čega Komisija obavještava organ koji vrši nadzor nad subjektom iz stava 1 ovog člana, a može obavijestiti i javnost.
+Ovlašćeni član Komisije koji vodi postupak, kad ocijeni da je to potrebno radi utvrĎivanja činjenica i okolnosti koje su značajne za odlučivanje, može po službenoj dužnosti narediti izvoĎenje dokaza, u skladu sa pravilima opšteg upravnog postupka.

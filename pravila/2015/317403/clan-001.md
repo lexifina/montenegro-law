@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilima bliže se ureĎuje postupak pred Komisijom za sprječavanje sukoba interesa (u daljem tekstu: Komisija) kada postupa i odlučuje o pravima i obavezama javnih funkcionera, vrši provjeru podataka iz Izvještaja, pravima i obavezama sa njima povezanim licima, kao i pravima i obavezama drugih pravnih i fizičkih lica, a koja se odnose na primjenu i sprovoĎenje Zakona o sprječavanju sukoba interesa (u daljem tekstu: Zakon) kao i drugih propisa kojima se utvrĎuje sukob interesa u oblastima koje su ureĎene tim propisima.

@@ -1,0 +1,2 @@
+# Član 15
+Provjera podataka predstavlja obradu i provjeru podataka o prihodima i imovini javnih funkcionera. Provjera se vrši obradom, prikupljanjem, razmjenom podataka, uporeĎivanjem, kao i analizom i provjerom prijavljenih podataka o imovini iz podnesenih Izvještaja o prihodima i imovini javnih funkcionera sa prikupljenim podacima od organa i pravnih lica, koji u svojim evidencijama raspolažu podacima o imovini javnih funkcionera, u skladu sa članom 20a Zakona.
