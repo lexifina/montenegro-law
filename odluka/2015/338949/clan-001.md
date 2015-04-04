@@ -1,0 +1,3 @@
+# Član 1
+## o izradi Lokalne studije lokacije " BEGOVO POLJE" -turističko naselje
+Ovom Odlukom pristupa se izradi Lokalne studije lokacije " Begovo polje"- turističko naselje, na katastarskim parcelama br. 24/110/1, 24/110/2, 24/110/3, 24/111/1, 24/111/2, 24/111/3, 24/115/2, 24/116/1, 24/116/2, 24/119/1, 24/121/1 i 24/121/2 upisanim u posjedovnom listu br. 166 KO Tepca, kat. parcelama br. 24/113/1 i 24/113/2 upisanim u posjedovnom listu br. 266 KO Tepca, kat. parcelama br. 24/112/1, 24/112/2, 24/114/1, 24/115, 24/115/3, 24/125/1 upisanim u posjedovnom listu br. 444 KO Tepca (u daljem tekstu: Studija).
