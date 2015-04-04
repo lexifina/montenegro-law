@@ -1,0 +1,5 @@
+# Član 1
+## Osnovnim sudom u Kotoru
+Daje se saglasnost u predmetu Posl. Br. P. 786/14/04 koji se vodi pred Osnovnim sudom u Kotoru, da se zaključi poravnanje, na način što će tužioci, Ivanović Katica, Brkanović Ljubo, Jančić Marija, Timotijević Trifona, Suđić Smiljka, Županović Sonja,Petrović Petar I Uskoković Davorka, sa tuženom, Opštinom Kotor, potpisati sudsko poravnanje, kojim će Opština Kotor priznati tužbeni zahtjev na sledeći način :
+" Tužiocima se priznaje pravo susvojine na kat.parc.560/1 KO Škaljari I ukupne površine 2.180,00m2 u obimu prava I to Ivanović Katica za 12/42 dijela, Brkanović Ljubo za 6/42 dijela, Jančić Marija za 6/42 dijela, Timotijević Trifona za 6/42 dijela, Suđić Smiljka za 3/42 dijela, Županović Sonja za 3/42 dijela,Petrović Petar za 3/42 dijela I Uskoković Davorka za 3/42 dijela a po osnovu dijela zemljišno knjižnog vlasništva na čes.zem.504/2 I 504/7 KO Škaljari.
+Troškovi parničnog postupka u iznosu od 15 800 eura tužena Opština Kotor isplatiće u 3.mjesečne rate od dana potpisivanja ovog poravnanja.
