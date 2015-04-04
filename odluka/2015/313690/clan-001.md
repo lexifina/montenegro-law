@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti na postizanje poravnanja u parničnom postupku P. 1004/12 pred Privrednim sudom u Podgorici
+Daje se saglasnost u predmetu Posl. br. P. 1004/12 koji se vodi pred Privrednim sudom u Podgorici, na način što će tužilac - Opština Kotor, u svojstvu osnivača MZ Muo, kao i MZ Muo, zaključiti sudsko poravnanje, sa tuženim - Savezom sindikata Crne Gore ( u daljem tekstu "Savez"-skraćenica "SSCG"), kojim će se regulisati sporni odnos nastao nakon zaključenja Ugovora o zakupu između MZ Muo i Saveza sindikata Crne Gore, dana 03.12.1997. godine, odnosno zavedenog od strane Saveza sindikata Crne Gore pod brojem 012-1273 od 04.12.1997.godine, a koji se odnosi na zakup nepokretnosti označene kao kat. parc.160 objekat 1. KO Muo I.
