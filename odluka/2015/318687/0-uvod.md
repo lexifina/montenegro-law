@@ -1,0 +1,2 @@
+Na osnovu člana 36 stav 1 tačka 40 Statuta Opštine Herceg Novi ("Sl.list RCG-Opštinski propisi" br. 15/04, 32/05, 31/06, 14/07 i "Sl.list CG-Opštinski propisi" br. 16/09 i 16/11) a u skladu sa članom 4 Odluke o prihvatanju Ugovora o osnivanju Zajedničkog uslužnog i koordinacionog društva za vodosnabdijevanje i odvođenje otpadnih voda za Crnogorsko primorje i Opštinu Cetinje "Vodacom" DOO ("Sl.list RCG- Opštinski propisi" br.38/04 i 14/13), Skupština opštine Herceg Novi, na sjednici održanoj 27.03.2015.godine, d o n o s i
+O D L U K A
