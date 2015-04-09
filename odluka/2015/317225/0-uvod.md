@@ -1,0 +1,2 @@
+Na osnovu člana 62 u vezi sa članom 63 Zakona o finansiranju lokalne samouprave ("Sl. List RCG", br.42/03,44/03 i "Sl. list CG", br. 05/08, 51/08, 74/10 i 1/15), člana 57 stav 1 Zakona o budžetu i finansijskoj odgovornosi ("Sl. list CG", br. 20/14, 56/14) i člana 36 stav 1 tačka 16 Statuta Opštine Herceg-Novi (Sl. list RCG - Opštinski propisi", br. 15/04, 31/06, 14/07 i "Sl.list CG - Opštinski propisi", broj 16/09 i 16/11), Skupština opštine Herceg-Novi, na sjednici održanoj 1.04. 2015. godine, donosi
+ODLUKU
