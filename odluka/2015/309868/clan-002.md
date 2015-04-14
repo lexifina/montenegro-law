@@ -1,0 +1,3 @@
+# Član 2
+Opština Herceg-Novi je saglasna da se predmet ugovora uskladi sa važećim DUP-om "Bijela -centar" (Sl.list CG- op.prop.35/09), na način da se isti uskladi sa planom parcelacije koji definiše UP 305 koja urbanistička parcela predstavlja lokaciju za izgradnju navedenog objekta, u skladu sa izdatim urbanističko-tehničkim uslovima broj: 02-3-350-272/2012 od 13.11.2012.godine.
+Na ime navedenih promjena u definisanju dijela lokacije koja je udio Opštine Herceg-Novi, Opština Herceg-Novi će, pored definisane obaveze investitora da izvrši regulaciju korita potoka, dobiti ukupnu površinu korisnog useljivog prostora od 100 m2.
