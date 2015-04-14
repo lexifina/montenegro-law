@@ -1,0 +1,2 @@
+Na osnovu člana 114. stav 2 Statuta opštine Plužine, ("Sl. list RCG- opštinski propisi" br. 23/04,07/07 i "Sl. list CG - Opštinski propisi," br. 1/11,8/11 i 22/11,) a u vezi sa članom 130. i 55 stav 2 Zakona o lokalnoj samoupravi (,, Sl. list RCG,, br. 42/03, 28/04, 75/05 i 13/06 i ,,Sl. list CG,, br. 88/09, 3/10, 38/12 i 10/14 ) Skupština opštine Plužine na sjednici održanoj 26.03.2015. godine donijela je
+ODLUKU
