@@ -1,0 +1,2 @@
+Na osnovu člana 19. Odluke o Savjetu za razvoj i zaštitu lokalne samouprave (''Sl. list RCG-Opštinski propisi’’ br. 32/05 i 35/05) i člana 33. i 37. Statuta opštine Berane (''Sl. list RCG-Opštinski propisi’’ br. 21/04 i 34/06 i ’’Sl. list CG -Opštinski propisi’’ br. 6/11), Skupština opštine Berane, na predlog Odbora za izbor i imenovanja, na sjednici održanoj 31. marta i 01. i 06. aprila 2015. godine, donijela je
+ODLUKU
