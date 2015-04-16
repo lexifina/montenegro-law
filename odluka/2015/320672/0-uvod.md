@@ -1,0 +1,2 @@
+Na osnovu člana 24. i 25. Zakona o izboru odbornika i poslanika (''Sl. list RCG'' br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 48/06 i ‘’Sl. list CG’’ br. 46/11 i 14/14) i člana 33. Statuta opštine Berane (''Sl. list RCG -Opštinski propisi’’ br. 21/04, 34/06 i ‘’Sl. list CG-Opštinski propisi "br. 6/11), Skupština Opštine Berane, na predlog Odbora za izbor i imenovanje, na sjednici održanoj 31. marta i 01. i 06. aprila 2015. godine, donijela je
+ODLUKU
