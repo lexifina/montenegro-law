@@ -1,0 +1,3 @@
+Na osnovu člana 4 stav 1, člana 29 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list Crne Gore", broj 44/10) i člana 48 stav 1 tačka 9 Statuta Glavnog grada ("Službeni list RCG-Opštinski propisi", broj 28/06 i "Službeni list CG-Opštinski propisi", br. 39/10 i 18/12), člana 26 Odluke o postavljanju, građenju i uklanjanju privremenih objekata montažnog karaktera na teritoriji Glavnog grada-Podgorice ("Sl. list Crne Gore-opštinski propisi", broj 11/14), Skupština Glavnog grada-Podgorice, na sjednici održanoj dana 8. i 14. aprila 2015. godine, donijela je
+ODLUKU
+o davanju u zakup zemljišta putem prikupljanja ponuda radi postavljanja montažnih objekata privremenog karaktera - tipa
