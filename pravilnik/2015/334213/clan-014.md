@@ -1,0 +1,2 @@
+# Član 14
+Broj savjetnika u višem državnom tužilaštvu određuje se prema broju državnih tužilaca, i to do polovine od ukupnog broja državnih tužilaca u višem državnom tužilaštvu.
