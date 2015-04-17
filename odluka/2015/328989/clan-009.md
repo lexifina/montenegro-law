@@ -1,0 +1,10 @@
+# Član 9
+Komunalno opremanje građevinskog zemljišta može izvršiti investitor čija lokacija se komunalno oprema i sa kojim je zaključen ugovor o naknadi, pod sledećim uslovima:
+- da se opremanje izvrši u skladu sa Zakonom o uređenju prostora i izgradnji objekata, na osnovu revidovanog glavnog projekta pribavljenog od strane investitora ili organa lokalne uprave nadležnog za komunalno opremanje građevinskog zemljišta, u skladu sa građevinskom dozvolom, odnosno odobrenjem za građenje lokalnih objekata od opšteg interesa;
+- da je nadležni organ izvršio eksproprijaciju nepokretnosti potrebnih za realizaciju radova na komunalnom opremanju, odnosno donio rješenje o eksproprijaciji nepokrentosti ili zaključio sporazum odnosno pribavio saglasnost vlasnika nepokretnosti;
+- da organ lokalne uprave nadležan za komunalno opremanje građevinskog zemljišta odobri cijene izrade i revizije tehničke dokumentacije i da saglasnost na predmjer i predračun radova komunalnog opremanja, s tim da jedinične cijene ne mogu biti veće od najnižih cijena iz tendera koje je sproveo odnosni organ u prethodnoj godini za istu ili sličnu vrstu i količinu radova, odnosno usluga;
+- da stručni nadzor nad izgradnjom objekata i uređaja komunalne infrastrukture vrši Agencija za izgradnju i razvoj Berana
+Međusobna prava i obaveze između organa lokalne uprave za komunalno opremanje građevinskog zemljišta i investitora iz stava 1 ovog člana, uređuju se ugovorom.
+Konačan obračun između organa lokalne uprave nadležnog za komunalno opremanje građevinskog zemljišta i investitora izvršiće se po ispostavljenoj i ovjerenoj okončanoj situaciji, nakon izdavanja upotrebne dozvole i primopredaje objekata i uređaja komunalne infrastrukture koji su predmet ugovora.
+Plaćanje izvedenih radova koji su predmet ugovora iz stava 2 ovog člana vrši se najviše do iznosa ugovorene naknade za komunalno opremanje.
+U slučaju da je investitor izmirio obaveze po osnovu naknade, vrijednost izvedenih radova iz prethodnog stava će se priznati kao avans za buduću gradnju, odnosno platiti investitoru.
