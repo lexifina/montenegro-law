@@ -1,0 +1,2 @@
+# Član 3
+Sredstva za obezbjeđenje navedenog kredita će biti mjenice i mjenična ovlašćenja Opštine Nikšić i upisivanje hipoteke na dijelu Autobuske stanice koji je u vlasništvu Opštine, koje nepokretnosti su upisane u Listu nepokretnosti 2952 - Izvod, KO Nikšić, zgradi u kojoj je smješteno Nikšićko pozorište, koje nepokretnosti su upisane u Listu nepokretnosti 2949 - Izvod, KO Nikšić i zgradi u kojoj je smještena Komunalna policija, koje nepokretnosti su upisane u Listu nepokretnosti 809 - Izvod, KO Nikšić.
