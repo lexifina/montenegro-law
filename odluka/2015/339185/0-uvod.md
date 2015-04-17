@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 člana 40 stav 2 tačka 3 Zakona o državnoj imovini ("Sl.list CG", br.21/09 i 40/11), člana 33. st.1. tačka1. i člana 45. st.1. tačka 9.Zakona o lokalnoj samoupravi ("Sl.list RCG",br.42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br.88/09, 3/10 i 38/12) i člana 33. stav 1 i tačka 9 i člana 37 stav 2 Statuta opštine Berane ("Sl.list RCG"-opštinski propisi, br.21/04 i 34/06 i "Sl.list CG"-opštinski propisi, br.6/11), Skupština opštine Berane, na sjednici održanoj 31. 03. i 01. 04. 2015. godine, donijela je
+O D L U K U
