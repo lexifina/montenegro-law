@@ -1,0 +1,2 @@
+Na osnovu člana 3 i 11 Zakona o rodnoj ravnopravnosti ( " Sl. List CG", br. 46/7), a u vezi sa članom 45 Zakona o lokalnoj samoupravi ("Sl. List RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. List CG", br. 88/09, 03/10, 38/12 i 10/14) i člana 33 tačka 2 Statuta opštine Berane ("SL. List RCG" - opštinski propisi, br. 21/04, br. 34/06 i "Sl. List CG - Opštinski propisi, " br. 6/11), Skupština Opštine Berane, na sjednici održanoj 31. 03. i 01. 04. 2015. godine donijela je
+O D L U K U

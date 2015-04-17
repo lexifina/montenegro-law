@@ -1,0 +1,2 @@
+# Član 4
+Princip ravnopravnosti obezbeđuje se donošenjem i realizacijom lokalnih planova djelovanja. Planovi djelovanja treba da sadrže rodne komponente na osnovu kojih se vrši stalna procjena i vrednovanje ostvarivanja rodne ravnopravnosti u skladu sa ovom odlukom kroz prikupljanje statističkih podataka i procjenu uticaja koju usvojene politike imaju na polažaj žena i muškaraca u lokalnoj zajednici.
