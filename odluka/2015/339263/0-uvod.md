@@ -1,0 +1,2 @@
+Na osnovu člana 45. Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl.list CG", br.88/09, 3/10, 38/12 i 10/14), člana 6. Zakona o sprečavanju sukoba interesa ("Sl.list CG", br.1/09, 41/11, 47/11, 52/14) člana 33. stav 1. tačka 49. i član 37. Statuta Opštine Berane ("Sl.list RCG-Opštinski propisi" br. 21/04 i 34/06 i "Sl.list CG-Opštinski propisi" br. 6/11), Skupština Opštine Berane, na sjednici održanoj dana 31. 03. i 01. 04. 2015. godine, donijela je
+ODLUKU
