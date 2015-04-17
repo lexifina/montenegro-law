@@ -1,0 +1,2 @@
+# Član 3
+Prostorno urbanističkim planom opštine Pljevlja do 2020. godine, planirani kontinuitet ovog prostora se prvenstveno zasniva na saobraćajnom rešenju koje ima za zadatak da povrati i očuva obeležje ovog dela grada, -stare gradske matrice -sa šestokrakom- raskrsnicom u svom središtu, stanovanje male gustine, stanovanje velike gustine, mešovito stanovanje, kultura i verski objekti, trgovi i šetališta, zelenilo idr.
