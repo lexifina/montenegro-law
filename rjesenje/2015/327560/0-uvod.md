@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i 88/09), člana 34 tačka 42 Statuta Opštine Pljevlja ("Sl. list RCG -Opštinski propisi", broj 37/04, 30/07 i "Sl. list CG -Opštinski propisi" br. 32/09 i 14/11) i Odluke o osnivanju Agencije za stambeno - poslovni fond D.O.O. Pljevlja ("Sl. list CG -Opštinski propisi" br.36/06), Skupština Opštine Pljevlja, na sjednici održanoj dana: 06.04. i 07.04. 2015.godine, donijela je:
+RJEŠENJE
