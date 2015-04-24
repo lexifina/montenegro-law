@@ -1,0 +1,2 @@
+Na osnovu čl. 45 Zakona o lokalnoj samoupravi ("Sl.list RCG" broj 42/03, 28/04, 75/05, 13/06 i "Sl.list CG" broj 88/09, 3/10, 38/12 I 10/14), čl. 9 Zakona o državnoj imovini ("Sl .list CG" broj 21/09) i čl.33 Statuta opštine Pljevlja ("Sl. list RCG -Opštinski propisi" br. 37/04, 30/07 i "Sl-list CG-Opštinski propisi" br.32/09 i 14/11) Skupština opštine Pljevlja, na sjednici održanoj dana: 06. i 07. 04. 2015.godine, donijela je
+ODLUKU
