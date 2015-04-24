@@ -1,0 +1,2 @@
+Na osnovu člana 10 Zakona o kulturi (″Službeni list Crne Gore″, br. 49/08 i 40/11) i člana 48 stav 1 alineja 3 Statuta Glavnog grada (″Službeni list Republike Crne Gore-Opštinski propisi″, broj 28/06 i ″Službeni list Crne Gore-Opštinski propisi″, br. 39/10 i 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj 8. i 14. aprila 2015. godine, razmatrala je Prijedlog Programa razvoja kulture Glavnog grada za period 2015-2019. godine, pa je u vezi sa istim donijela
+ODLUKU
