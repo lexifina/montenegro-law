@@ -1,0 +1,2 @@
+Na osnovu člana 53 Zakona o radu ("Sl .List CG " br. 49/08, 88/09, 26/09, 26/10, 59/11, 66/12, 31/14 i 53/14), člana 51. st. 3 Zakona o lokalnoj samoupravi (Sl.RCG br. 42/03, 28/04, 75/05 i 13/06 i "Sl.list CG", br. 88/09, 3/10, 38/2012, 10/14 i 57/14), člana 34. stav. 1 tačka. 32 Statuta Opštine Pljevlja ("Sl. list RCG -Opštinski propisi", br.18/11) Skupština opštine Pljevlja, na sjednici održanoj 06.04. i 07.04. 2015. godine, donijela je
+ODLUKU
