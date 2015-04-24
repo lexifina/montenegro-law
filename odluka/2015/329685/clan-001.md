@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o postavljanju, odnosno građenju i uklanjanju pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom na teritoriji Glavnog grada - Podgorice (″Sl list Crne Gore - Opštinski propisi″, broj 11/14), u članu 2 poslije riječi ″pod uslovom″ dodaju se riječi: ″da je postojećem objektu, odnosno posebnom dijelu objekta, obezbijeđen direktan pristup sa javne površine″.

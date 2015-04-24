@@ -1,0 +1,3 @@
+Na osnovu člana 117 stav 1 tačka 3 i stava 3 Zakona o uređenju prostora i izgradnji objekata (″Sl. list CG″, br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14), člana 4 Zakona o prekršajima (″Sl.list CG″, br. 1/11, 6/11, 39/11 i 32/14) i člana 48 stav 1 alineja 2 Statuta Glavnog grada (″Sl. list RCG-Opštinski propisi″, broj 28/06 i ″Sl.list CG-Opštinski propisi″, br. 39/10 i 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 8. i 14. aprila 2015. godine, donijela je
+ODLUKU
+o dopunama Odluke o postavljanju, odnosno građenju i uklanjanju pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom na teritoriji Glavnog grada Podgorice
