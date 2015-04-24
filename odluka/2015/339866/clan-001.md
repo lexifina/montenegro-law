@@ -1,0 +1,4 @@
+# Član 1
+## o prodaji nepokretnosti označene katastarskom parcelom broj 3848/2 iz lista nepokretnosti broj 608 KO Podgorica II
+Prodaje se nepokretnost u državnoj imovini, na kojoj pravo raspolaganja ima Glavni grad - Podgorica, iz lista nepokretnosti broj 608 KO Podgorica II, označena katastarskom parcelom broj 3848/2 po načinu korišćenja zemljište ispod zgrade površine 223m2, stambena zgrada u osnovi površine 223m2, spratnosti P2N, koja se sastoji od posebnih djelova: PD1 poslovni prostor u prizemlju (P) površine 170m2, PD2 poslovni prostor na prvom spratu (P1) površine 174m2, PD3 poslovni prostor na drugom spratu (P2) površine 180m2 i PD4 poslovni prostor u potkrovlju (PN) površine 153m2.
+Nepokretnost iz stava 1 nalazi se na uglu Njegoševe i Bokeške ulice, u zahvatu UP-a ″Nova Varoš-Kvart E″-Izmjene i dopune.
