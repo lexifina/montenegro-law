@@ -1,0 +1,2 @@
+Na osnovu člana 130 Zakona o lokalnoj samoupravi ("Sl.list RCG" br 42/03, 28/04, 75/05, 13/06 i "Sl.list CG" br.88/09 i 3/10) i člana 42 Statuta opštine Rožaje ("Sl. list CG-Opštinski propisi" br.9/11), Skupština opštine Rožaje, na sjednici održanoj dana 08.04.2015.godine, donijela je
+O D L U K U
