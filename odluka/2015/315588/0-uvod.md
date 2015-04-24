@@ -1,0 +1,2 @@
+Na osnovu čl. 12 i 15 Zakona o sportu (″Službeni list Crne Gore″, br. 36/11 i 36/13) i člana 48 stav 1 alineja 3 Statuta Glavnog grada (″Službeni list RCG-Opštinski propisi″, broj 28/06 i ″Službeni list CG-Opštinski propisi″, br. 39/10 i 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj 8. i 14. aprila 2015. godine, razmatrala je Prijedlog Programa razvoja sporta Glavnog grada za period 2015-2018. godine, pa je u vezi sa istim donijela
+ODLUKU
