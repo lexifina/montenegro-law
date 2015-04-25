@@ -1,0 +1,2 @@
+# Član 1
+Ovim statutom utvrđuju se poslovi i zadaci Privredne komore Crne Gore (u daljem tekstu: Komora); sastav, broj članova i način rada organa Komore; izbor, opoziv i trajanje mandata i nadležnosti organa Komore; oblici rada i organizovanja u Komori; prava, obaveze i odgovornosti članica Komore; način odlučivanja u Komori; saradnja sa organima i organizacijama; javnost rada Komore; način obezbjeđenja sredstava za rad; organizacija obavljanja stručnih i administrativnih poslova; postupak donošenja statuta i druga pitanja od značaja za rad Komore.
