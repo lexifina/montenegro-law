@@ -1,0 +1,5 @@
+# Član 2
+Lokacija se odreĎuje za prostor obuhvaćen katastarskim parcelama 986, 970, 985, 989,
+991, 990, 1899/1, 992, 993, 995, 996, 997, 998/1, 998/2, 1000, 999, 1004, 1005, 1006, 1007, 1003, 1002, 1001, 1012, 1011, 1009, 1013, 1014, 969/2, 969/1, 968, 1016, 967, 965, 966, 1017, 1019/1, 1021, 1023, 1024, 1032, 1031, 1025, 1026, 1028, 1029, 1030, 1038, 1033, 1034, 1035, 1081, 1325, 1036, 1037, 1043, 1042, 1041, 1040, 1039, 1045, 1046, 1047, 1049, 1044, 1049, 1051, 1050, 1054, 1022, 1078, 1074, 1882, 1077, 1073, 1071, 1062, 1060, 1061, 1063, 1070, 1075, 1076, 1074, 1079, 1055, 1056, 1091, 1090, 1072, 1092, 1069, 1068, 1067, 1086, 1087, 1058, 1064, 1065, 1066, 1057, 1048, 1053 KO Sveti Stefan. U zahvat konkursa ulaze i plaže 1877, 1879, 1881 KO Sveti Stefan, Opština Budva.
+Lokacija se odreĎuje u skladu sa Odlukom o donošenju Prostornog plana Opštine Budva
+("Službeni list CG - Opštinski propisi", broj 11/09) i Odlukom o donošenju Prostornog plana područja posebne namjene za Morsko dobro, sa Prostornim planom područja posebne namjene za Morsko dobro ("Službeni list CG", broj 30/07).
