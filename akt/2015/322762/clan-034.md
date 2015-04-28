@@ -1,0 +1,3 @@
+# Član 34
+Predstavnik Sindikata za vrijeme obavljanja sindikalnih aktivnosti i šest mjeseci nakon prestanka obavljanja sindikalnih aktivnosti, ne može biti pozvan na odgovornost u vezi sa obavljanjem sindikalnih aktivnosti, proglašen kao zaposleni za čijim radom je prestala potreba, raspoređen na drugo radno mjesto kod istog ili drugog državnog organa ili na drugi način doveden u nepovoljniji položaj, ukoliko postupa u skladu sa zakonom ili Ugovorom.
+Starješina državnog organa ne može staviti u povoljniji ili nepovoljniji položaj zaposlenog zbog članstva u Sindikatu ili njegovih sindikalnih aktivnosti.
