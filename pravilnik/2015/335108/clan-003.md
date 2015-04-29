@@ -1,0 +1,4 @@
+# Član 3
+Djelovi službene uniforme koje, pored djelova uniforme iz člana 2 ovog pravilnika, imaju policijski službenici interventne jedinice su sljedećeg izgleda, vrste materijala i tehničkih karakteristika:
+1) kombinezon je tamno plave boje, jednodjelni, sa okovratnikom koji se zatvara čičak trakom i dugim rukavima. Kombinezon se zakopčava sa prednje strane, po sredini, patent zatvaračem. Na zadnjem dijelu kombinezona našivena je tkanina protkana nitima od elastina. Rukavi su sastavljeni iz dva dijela, sa ojačanjima na laktovima, a na sredini se nalaze patent zatvarači. Džepovi se nalaze u visini grudi, na bokovima i nogavicama. Sirovinski sastav kombinezona je 65% poliester i 35% pamuk (± 3%), a masa po jedinici površine je 218 g/m2 (± 5%);
+2) čizme sa povišenom sarom su anatomskog oblika, uobičajenog izgleda, sa termo zaštitom, ojačane u dijelu pete i prstiju.
