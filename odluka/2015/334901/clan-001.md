@@ -1,0 +1,8 @@
+# Član 1
+Utvrđuje se javni interes za eksproprijaciju nepokretnosti u Opštini Bijelo Polje, i to:
+KO Pali
+1. kat. parcela broj 1407/2, livada 6 klase u površini od 135 m2, kat. parcela broj 1407/3, livada 6 klase u površini od 595 m2, kat. parcela broj 1407/4, livada 6 klase u površini od 241 m2, kat. parcela broj 1408/2, šuma 4 klase u površini od 58 m2 kat. parcela broj 1408/3, šuma 4 klase u površini od 256 m2 upisane u listu nepokretnosti broj 12, kao svojina Vujisić Baja Vukašina.
+2. kat. parcela broj 1338/2, šuma 4 klase u površini od 63 m2, kat. parcela broj 1338/3, šuma 4 klase u površini od 95 m2 i kat. parcela broj 1340/2, šuma 4 klase u površini od 638 m2 upisane u listu nepokretnosti broj 13, kao svojina Vujisić Milorada Vukote.
+3. kat. parcela broj 1344/2, šuma 4 klase u površini od 638 m2, kat. parcela broj 1344/3, šuma 4 klase u površini od 94 m2 i kat. parcela broj 1345/2, livada 6 klase u površini od 3 m2 upisane u listu nepokretnosti broj 14, kao svojina Vujisić Milovana Milana.
+4. kat. parcela broj 1410/2, livada 6 klase u površini od 2 m2, kat. parcela broj 1410/3, livada 6 klase u površini od 1 m2, kat. parcela broj 1410/4, livada 6 klase u površini od 2 m2, kat. parcela broj 1410/5, livada 6 klase u površini od 133 m2 i kat. parcela broj 1410/6, livada 6 klase u površini od 103 m2, kat. parcela broj 1411/2, voćnjak 4 klase u površini od 81m2, kat. parcela broj1415/2, pašnjak 5 klase u površini od 88 m2 i kat. parcela broj 1415/3, pašnjak 5 klase u površini od 9 m2 upisane u listu nepokretnosti broj 87, kao svojina Šćepanović Stevana Dragoljuba.
+5. kat. parcela broj 1450/2, šuma 4 klase u površini od 16 m2 upisana u listu nepokretnosti broj 117, kao svojina Rakočević Milike Radovana.
