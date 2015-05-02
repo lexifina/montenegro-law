@@ -1,0 +1,3 @@
+# Član 7
+U slučaju kada je urbanističko-tehničkim uslovima i glavnim projektom ovjerenom od stane nadležnog organa utvrdjeno da investitor ruši postojeći i gradi novi objekat na istoj parceli, naknada za stamben i poslvni objekate plaća se 20% za objekat, koji ruši i razliku u punom iznosnu za površinu objekta koji dogradjuje zavisno od zone i vrsti objekta.
+Investitor koji ruši postojeći objekat i gradi novi radi obračuna naknade u visini od 20% za objekat koji ruši, kao dokaz da je izmiri naknadu za uredjenje gradjevinskog zemljišta dostavlja gradjevinsku dozvolu, izdatu od nadležnog organa ili potvrdu, od organa za poslove urbanizma da u momentu gradjenja nije bila potrebna gradjevinska dozvola.
