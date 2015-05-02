@@ -1,0 +1,2 @@
+# Član 33
+Organ lokalne uprave nadležan za poslove uređenja prostora i izgradnji objekata poslove može odobriti privrednim društvima i institucijama čiji je osnivač, u pojedinim danima ili vremenskim intervalima u pješačkim zonama i drugimlokacijama na građevinskom zemljištu, organizovanje prigodnih prezentacija i prodaju roba na privremenim objektima tipa - štand ili izložebenim pultovima i slično, shodno uslovima predviđenim ovom odlukom i Planom.

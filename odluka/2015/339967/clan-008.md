@@ -1,0 +1,3 @@
+# Član 8
+Ljetnja bašta - terasa je prostor ispred ili pored ugostiteljskog objekta sa pripadajućim mobilijarom (stolovi i stolice),
+nenatkriven ili natkriven suncobranima, industrijski sklopivom tendom ili lakom konstrukcijom izrađenom od metalnih ili drvenih montažno-demontažnih elemenata sa krovnim pokrivačem izrađenim od lakog pokrivnog materijala. Ljetnja bašta - terasa se može ograđivati isključivo žardinjerama saambijetalnim zelenilom čija visina ne može biti veća od 60 cm.

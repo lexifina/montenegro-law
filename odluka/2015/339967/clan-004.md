@@ -1,0 +1,22 @@
+# Član 4
+Privremeni objekti u smislu ove odluke svrstavaju se u sledeće kategorije:
+-kućica;
+-kiosk;
+-zatvorena bašta;
+-ljetnja bašta;
+-štand;
+-prodajni pult;
+-prodajno-izložbeni pano;
+-rashladni uređaj za sladoled i osvježavajuće napitke;
+-aparat za kokice, kukuruz, kesten, krofne, palačinke, šećernu pjenu i sl.;
+-pokretni objekat;
+-telefonska govornica i internet terminal;
+-zabavni park;
+-manji sportski objekat;
+-privremeno parkiralište;
+-privremeni kamp;
+-karting staza;
+-autoperionica;
+-tenda;
+-pijaca;
+-drugi slični objekat.
