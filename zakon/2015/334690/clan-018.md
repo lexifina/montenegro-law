@@ -1,0 +1,8 @@
+# Član 18
+## Ugovor o mirovanju dugova
+U toku pregovora o finansijskom restrukturiranju, dužnik i povjerioci koji su zaključili sporazum o saglasnosti za učestvovanje u finansijskom restrukturiranju i drugi povjerioci koji se izjasne da učestvuju u finansijskom restrukturiranju zaključuju ugovor o mirovanju dugova.
+Nakon zaključenja ugovora o mirovanju dugova, a radi odlaganja izvršenja prinudne naplate sa računa dužnika i/ili odlaganja izvršenja prema dužniku na drugim predmetima izvršenja kojim su obezbijeđena potraživanja povjerilaca koji su zaključili ugovor o mirovanju dugova, ti povjerioci dužni su da, bez odlaganja, a najkasnije u roku od dva radna dana od dana zaključenja ugovora o mirovanju dugova, sudskim i drugim organima pred kojima se na predlog tih povjerilaca vodi postupak izvršenja dostave predlog za odlaganje izvršenja sa razlozima za odlaganje.
+Sud, odnosno drugi organ pred kojim se vodi postupak iz stava 2 ovog člana, dužan je da po prijemu predloga, bez odlaganja, a najkasnije u roku od dva radna dana, od dana prijema predloga, odluči o predlogu za odlaganje izvršenja.
+Sud odnosno drugi organ, dužan je da odluku iz stava 3 ovog člana, bez odlaganja, a najkasnije narednog dana od dana njenog donošenja, dostavi organizaciji za prinudnu naplatu ili drugom nadležnom organu.
+Ugovorom o mirovanju dugova može se ugovoriti ograničenje raspolaganja potraživanjem povjerioca.
+Ako se povjerioci i dužnik u periodu mirovanja dugova ne sporazumiju o finansijskom restrukturiranju, istekom perioda mirovanja dugova nastavlja se postupak naplate potraživanja sa računa dužnika, odnosno povjerioci stiču pravo na pokretanje ili nastavak postupka izvršenja, u skladu sa zakonom.

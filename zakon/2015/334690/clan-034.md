@@ -1,0 +1,3 @@
+# Član 34
+## Pravne posljedice neprihvatanja učešća manjinskih povjerilaca u finansijskom restrukturiranju
+Ako se na prvom sastanku povjerilaca za učešće u postupku finansijskog restrukturiranja odluče povjerioci čija potraživanja dostižu ili čine preko 75% od ukupnog duga dužnika, povjerioci koji se nijesu odazvali pozivu na prvi sastanak povjerilaca i povjerioci koji se na prvom sastanku povjerilaca izjasne da ne žele da učestvuju u finansijskom restrukturiranju, nemaju pravo da podnesu predlog za pokretanje stečajnog postupka nad dužnikom do okončanja postupka posredovanja u finansijskom restrukturiranju, ali ne duže od tri mjeseca od dana održavanja prvog sastanka povjerilaca.

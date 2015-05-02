@@ -1,0 +1,6 @@
+# Član 17
+## Privremeni moratorijum
+Privremeni moratorijum, u smislu ovog zakona, je oblik mirovanja dugova, koji nastupa u trenutku zaključivanja sporazuma o saglasnosti za učestvovanje u finansijskom restrukturiranju i traje do zaključenja ugovora o mirovanju dugova, odnosno do konstatovanja da dužnik i povjerioci nijesu uspjeli da zaključe taj ugovor.
+Radi odlaganja izvršenja prinudne naplate sa računa dužnika i/ili odlaganja izvršenja prema dužniku na drugim predmetima izvršenja u pogledu potraživanja povjerilaca koji su zaključili sporazum o saglasnosti za učestvovanje u finansijskom restrukturiranju, ti povjerioci su dužni da, bez odlaganja, a najkasnije u roku od dva radna dana, od dana zaključenja sporazuma, nadležnom sudu i drugim organima pred kojima se na zahtjev tih povjerilaca vodi postupak izvršenja, dostave predlog za odlaganje tog izvršenja sa razlozima za odlaganje.
+Sud, odnosno drugi organ pred kojim se vodi postupak iz stava 2 ovog člana, dužan je da po prijemu predloga, bez odlaganja, a najkasnije u roku od dva radna dana, od dana prijema predloga, odluči po predlogu za odlaganje izvršenja.
+Sud, odnosno drugi organ, dužan je da odluku iz stava 3 ovog člana, bez odlaganja, a najkasnije narednog dana od dana njenog donošenja, dostavi organizaciji za prinudnu naplatu ili drugom nadležnom organu.
