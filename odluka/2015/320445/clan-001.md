@@ -1,0 +1,44 @@
+# Član 1
+## o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave Opštine Plav
+U čl. 24. st 1. poslije tač. 45. Odluke o organizaciji i načinu rada organa lokalne uprave Opštine Plav ("Sl. list CG- Opštinski propisi", br. 9/2015) dodaju se nove tačke, a koje glase:
+" -Utvrđivanje vrste i visine lokalnih javnih prihoda, u skladu sa zakonskim i podzakonskim aktima;
+- Analizu stepena i efekata ostvarenih prihoda u cilju definisanja odgovarajuće fiskalne politike;
+- Vođenje registra poreskih obveznika i redovno usaglašavanje stanja registra sa registrom nepokretnosti koji vodi državni organ za nekretnine;
+- Propisivanje oblika i sadržaja porske prijave;
+- Preduzimanje mjera naplate lokalnih javnih prihoda, shodno Zakonu o poreskoj administraciji i drugim propisima;
+- Kontrolu lokalnih javnih prihoda i donošenje rješenja o preduzimanju mjera inspekcijskog nadzora u skladu sa zakonom;
+- Pripremu periodičnih izvještaja i informacija o stepenu realizacije lokalnih javnih prihoda;
+- Obezbjeđenje funkcionalnosti jedinstvenog informacionog sistema za oblast lokalnih javnih prihoda i obezbjeđenje monitoringa u ovoj oblasti;
+- Obezbjeđenje tačnog i ažurnog vođenja evidencije svih naplaćenih lokalnih javnih prihoda;
+- Izradu nacrta Odluke o privremenom finansiranju;
+- Pripremu izvještaja z Skupštinu opštine o korišćenju sredstava stalne budžetske rezerve;
+- Pripremu izvještaja za Skupštinu opštine o ostvarenju budžeta za prvih 6 (9) mjeseci;
+- Vođenje evidencije o postojećem potraživanju opštine;
+- Upravljanje finansijskim informacionim sistemom;
+- Pripremu propisa i drugih akata kojim se stimuliše politika razvoja malih i srednjih preduzeća i preduzetnika (poreska politika: poreske stope, olakšice, oslobađanje od plaćanja, formiranje baze podataka i dr.);
+- Predlaganje agrobudžeta i praćenje realizacije istog;
+- Predlaganje i učestvovanje u realizaciji mjera za podsticaj i razvoj poljoprivredne proizvodnje i stočarstva;
+- Davanje saglasnosti za promjenu namjene poljoprivrednog zemljišta;
+- Izdavanje uvjerenja individualnim proizvođačima o sopstvenoj proizvodnji poljoprivrednih proizvoda;
+- Predlaganje mjera za suzbijanje poljskih šteta i za zaštitu poljoprivrednog zemljišta od elementarnih nepogoda;
+- Utvrđivanje uslova za obavljanje privredne djelatnosti bez korišćenja poslovne prostorije;
+- Utvrđivanje ispunjenosti uslova za obavljanje auto taksi prevoza i linijskog prevoza o obavljanje javnog prevoza teretnim motornim vozilima kao i obavljanje prevoza za sopstvene potrebe;
+- Izdavanje odobrenja za obavljanje djelatnosti u produženom radnom vremenu;
+- Utvrđivanje vodnih uslova, izdavanje vodnih saglasnosti i vodnih dozvola;
+- Vođenje vodnih knjiga i katastra voda;
+- Vođenje evidencije o staračkim nadoknadama, odnosno socijalnom obezbjeđenju staračkih domaćinstava koja se isključivo bave poljoprivredom;
+- Prikupljanje i evidentiranje podataka o poljoprivrednom potencijalu opštine u privatnom vlasništvu;
+- Ovjeravanje knjiga i cjenovnika za pružanje ugostiteljskih i turističkih usluga;
+- Pripremu odluka i drugih dokumenata iz svoje nadležnosti koji se usvajaju na Skupštini opštine i koje donosi predsjednik Opštine;
+- sprovodi upravni postupak po zahtjevu za izdavanje vodnih uslova, vodne saglasnosti, vodne dozvole, potvrde o ispunjenosti uslova utvrđenih vodnom saglasnošću i vodnog naloga iz svoje nadležnosti;
+- u zakonom predviđenim slučajevima privremeno ograničava ili obustavlja vodno pravo;
+- određuje granice vodnog dobra od lokalnog značaja i daje predloge za upis u katastar nepokretnosti;
+- određuje status, odnosno prestanak statusa javnog vodnog dobra od lokalnog značaja i predlaže njegov upis, odnosno brisanje u katastru nepokretnosti;
+- određuje područja na kojima je opšta upotreba javnog vodnog dobra od lokalnog značaja zabranjena ili uslove ograničenja, kao i način njegovog korišćenja na tom području;
+- određuje obim i vrstu istražnih radova za izvorišta površinskih i podzemnih voda iz svoje nadležnosti;
+- donosi rješenje o zaštiti izvorišta površinskih i podzemnih voda iz svoje nadležnosti;
+- utvrđuje poplavna područja za vode od lokalnog značaja;
+- priprema program sanacije od posledica štetnog dejstva voda i isti izvršava;
+- vodi registar voda i vodnu knjigu;
+- stara se o izgradnji, rekonstrukciji, održavanju i zaštiti vodnih objekata i objekata za upotrebu i korišćenje voda koje finansira jedinica lokalne samouprave u skladu sa zakonom i drugim propisima;
+- obavlja poslove iz svoje nadležnosti u postupku davanja koncesija na vodnom dobru i vodi evidenciju ugovora o koncesijama na vodnom dobru."
