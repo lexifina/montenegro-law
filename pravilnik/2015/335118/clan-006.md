@@ -1,0 +1,3 @@
+# Član 6
+Unutar kruga odgajivačnice, treba da se nalazi prostorija za administraciju (poslovna administracija, evidencija), prostorija za boravak, odmor i ishranu lica koja rade u odgajivačnici i prostorija za presvlačenje lica koja rade u odgajivačnici (garderoba), pro- storija ili prostor za pripremu hrane za životinje, prostorija ili prostor za pranje posuđa za hranu i vodu za životinje, prostorija ili prostor za skladištenje hrane za životinje i sanitarni čvor.
+Pored prostorija i prostora iz stava 1 ovog člana, odgajivačnica treba da ima i smeštajni prostor za životinje, izolator za oboljele i povrijeđene životinje i prostor za kupanje životinja.
