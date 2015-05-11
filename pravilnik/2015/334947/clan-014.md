@@ -1,0 +1,3 @@
+# Član 14
+## Iskazivanje podkriterijuma estetske i funkcionalne karakteristike
+Podkriterijum estetske i funkcionalne karakteristike iskazuje se kroz tehničke i druge karakteristike koje nijesu predviđene tehničkom specifikacijom iz tenderske dokumentacije, a koje neposredno ili posredno doprinose povećanju estetskih i/ili funkcionalnih karakteristika ponuđene robe, odnosno proizvoda, na način što se tenderskom dokumentacijom utvrdi koje dodatne tehničke i druge karakteristike doprinose povećanju estetskih i/ili funkcionalnih karakteristika ponuđene robe, odnosno proizvoda i za svaku od njih odredi određeni broj bodova, tako da njihov zbir bude jednak broju bodova koji je određen za ovaj podkriterijum.

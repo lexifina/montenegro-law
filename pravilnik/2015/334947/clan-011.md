@@ -1,0 +1,3 @@
+# Član 11
+## Iskazivanje podkriterijuma garantni period, vrsta i kvalitet garancije i garantovana vrijednost
+Podkriterijum garantni period, vrsta i kvalitet garancije i garantovana vrijednost iskazuje se kroz parametre kao što su dužina garantnog roka, broj različitih garancija, sadržina garancije i sl., na način što se najveća ponuđena dužina garantnog roka, najveći ponuđeni broj različitih garancija, najbolji indeks ponuđene garancije, odnosno najbolji indeks drugog ponuđenog parametra podijeli sa ponuđenom dužinom garantnog roka, ponuđenim brojem različitih garancija, indeksom ponuđene garancije, odnosno indeksom drugog ponuđenog parametra i dobijeni količnik pomnoži sa brojem bodova koji je određen za ove parametre.
