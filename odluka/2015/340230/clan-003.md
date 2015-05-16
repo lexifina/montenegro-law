@@ -1,0 +1,3 @@
+# Član 3
+Ovlašćuje se predsjednica opštine Željka Vuksanović, da u ime opštine Kolašin, potpiše Ugovor o zaduženju i ostala akta u cilju izvršenja odredbe člana 1 ove Odluke.
+Ovlašćuje se predsjednica opštine Željka Vuksanović, da u ime opštine Kolašin, sa Ministarstvom finansija, Investiciono razvojnim fondom Crne Gore AD Podgorica ili drugom finansijskom institucijom, potpiše ugovor o cesiji i sva ostala potrebna akta kojim će omogućiti Ministarstvu finansija raspolaganje sredstvima koja opština Kolašin dobija od Egalizacionog fonda za period trajanja ugovora o cesiji i Ugovora o zaduživanju u cilju refinansiranja dugova i neizmirenih obaveza, do visine obaveza utvrdjenih pomenutim Ugovorima.

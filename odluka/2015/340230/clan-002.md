@@ -1,0 +1,2 @@
+# Član 2
+Refinansiranje dugova i neizmirenih obaveza će se izvršiti na osnovu Zaključaka Vlade Crne Gore br. 08-652 usvojenih na sjednici od 26.marta 2015.godine i Zaključaka Vlade Crne Gore br.08-834 od 15.04.2015. godine kojim je opštinama, korisnicama Egalizacionog fonda odobreno refinansiranje dugova i neizmirenih obaveza iz Egalizacionog fonda na osnovu Ugovora o cesiji s tim da sredstva ili garanciju za zaduženje radi refinansiranja i obezbjedjivanja povoljnijih kreditnih uslova obezbijedi Investiciono-razvojni fond Crne Gore ad Podgorica.
