@@ -1,0 +1,25 @@
+# Član 3
+Lokalnim objektima od opšteg interesa, u smislu ove odluke, smatraju se:
+1) Opštinski putevi (lokalni i nekategorisani) i prateći objekti;
+2) vodovodna i kanalizaciona infrastruktura;
+3) podzemni i nadzemni prolazi;
+4) ulice u naseljima i trgovi;
+5) javne i zelene površine i gradski parkovi;
+6) javni parking prostori;
+7) javne garaže;
+8) pijace;
+9) groblja;
+10) infrastruktura javnog snabdijevanja toplotnom energijom i sl.;
+11) ski liftovi;
+12) žičare koje se grade na teritoriji jedne jedinice lokalne samouprave;
+13) javna rasvjeta;
+14) objekti distributivne mreže naponskog nivoa do 35 kV;
+15) telekomunikaciona infrastruktura i sl;
+16)
+objekti
+ruralnog
+razvoja
+(poljoprivredni,
+seoskog
+stanovanja
+i turizma,stočarstva,voćarstva i sl.);
