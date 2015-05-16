@@ -1,0 +1,2 @@
+Na osnovu članova 4 i 6 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 16/95), člana 5 stav 3, člana 13 stav 3 i člana 22 stav 7 Zakona o putevima ("Službeni list RCG", broj 42/04 i "Službeni list Crne Gore", br. 54/09 i 36/11) i člana 31 Statuta Opštine ("Sl. list RCG- Opštinski propisi",broj 40/04 i 26/06 i "Službeni list CG-Opštinski propisi", broj 12/11, 21/11 i 3/13), Skupština opštine Tivat, na sjednici održanoj dana 20.04.2015.godine, donijela je
+ODLUKU
