@@ -1,0 +1,2 @@
+# Član 6
+Državni protokol, uz saglasnost generalnog sekretara Vlade, vrši i protokolarne poslove i za potrebe starješina drugih državnih organa koji se odnose na zvanične posjete delegacija i drugih visokih predstavnika stranih država, predstavnika misija, međunarodnih organizacija i institucija Crnoj Gori, kao i prilikom potpisivanja međunarodnih i drugih službenih dokumenata od značaja za Crnu Goru.
