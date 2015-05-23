@@ -1,0 +1,2 @@
+U znak poštovanja na ustanovljeni orden Danila I knjaza crnogorskoga, od 23-ćeg aprila (05-tog maja po novom kalendaru) 1853. godine, a u cilju obnove i očuvanja vrijednosti na kojima ga je zasnovao njegov Utemeljivač, posvećujući ga za nezavisnosti Crne Gore, a u skladu sa članom 3 Zakona o statusu potomaka dinastije Petrović - Njegoš ("Sl. list Crne Gore", broj 36/11 od 27.07.2011.) donosim:
+S T A T U T DANILOVA ORDENA
