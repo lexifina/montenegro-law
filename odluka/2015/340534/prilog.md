@@ -1,0 +1,443 @@
+I PRAVNI OSNOV Pravni osnov za izradu Plana sadržan je u odredbama Zakona o uređe- nju prostora i izgradnji objekata (’’Službeni list CG’’, br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14), Programa uređenja prostora Glavnog grada - Podgorice za 2015. godinu (’’Službeni list CG - Opštinski propisi’’, br. 07/15), i Pravilnika o bližem sadržaju i formi plan- skog dokumenta, kriterijumima namjene površina, elementima urbani- stičke regulacije i jedinstvenim grafičkim simbolima (’’Službeni list CG’’, broj 24/10 i 33/14).
+II PREDMET I CILJ IZRADE PLANSKOG DOKUMENTA Osnovne smjernice za izradu Plana sadržane su u Prostorno urbanistič- kom planu Podgorice ("Službeni list CG - Opštinski propisi", broj 06/14), kojim su planirane namjene za ovaj prostor: "šume", "površine za obra- du, sanaciju i skladištenje otpada" i manjim dijelom "poljoprivreda".
+U PUP-u je naglašeno, u tabeli 10.4 PUP Glavnog grada Podgorica:
+pregled državnih planskih dokumenata, urbanističkih projekata(UP) i lo- kalnih studija okacija (LSL), da se prostor u okviru zahvata LSL-e "Cen- tralno groblje Golubovci" treba predvidjeti za izletište, zonu eko-turizma i eko-sela.
+Cilj izrade Plana je da se prostor u zahvatu planskog dokumenta organi- zuje i uredi u skladu sa načelima propisanim članom 5 Zakona o uređenju prostora i izgradnji objekata (’’Službeni list CG’’, br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14), i da se odrede sve specifičnosti pod- ručja zahvata i kontaktnih planskih cjelina koje će predstavljati uvodne smjernice za stvaranje odgovarajuće koncepcije planskog rješenja.
+III METODOLOŠKI PRISTUP U postupku izrade Lokalne studije lokacije "Centralno groblje Golubovci" u Podgorici, potrebno je:
+
+Sagledavanje ulaznih podataka iz Prostornog urbanističkog
+plana Glavnog grada - Podgorice ("Službeni list CG -
+Opštinski propisi", broj 06/14), kao i ostale dokumentacije ko-
+ja je radjena za ovaj i okolni prostor.
+
+Analiza postojećeg stanja (sagledavanje programskih zahtje-
+va korisnika prostora);
+
+Analiza uticaja kontaktnih zona na ovaj prostor i obrnuto.
+IV SADRŽINA PLANSKOG DOKUMENTA Sadržaj Plana je definisan Zakonom o uređenju prostora i izgradnji objekata (’’Službeni list CG’’, br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14), članom 28, i Pravilnikom o bližem sadržaju i formi planskog dokumenta, kriterijumima namjene površina, elementima ur- banističke regulacije i jedinstvenim grafičkim simbolima (’’Službeni list CG’’, broj 24/10 i 33/14), članom 26.
+Lokalna studija lokacije, u skladu sa članom 28 Zakona, može se doni- jeti za područja koja se nalaze u zahvatu Prostorno-urbanističkog plana lokalne samouprave, za koja nije predviđena izrada detaljnog urbani- stičkog plana i urbanističkog projekta.
+Isti član Zakona propisuje da Lokalna studija lokacije sadrži:
+Izvod iz prostornog plana, granice područja za koje se donosi, detaljnu namjenu površina, ekonomsko demografsku analizu, plan parcelacije, urbanističko tehničke uslove za izgradnju objekata, građevinske i regu- lacione linije, trase infrastrukturnih mreža i saobraćajnica i smjernice za izgradnju infrastrukturnih i komunalnih objekata, nivelaciona i regulacio- na rješenja, tačke i uslove priključenja na saobraćajnice, infrastrukturne mreže i komunalne objekte, smjernice urbanističkog i arhitektonskog oblikovanja prostora sa smjernicama za primjenu energetske efikasnosti i obnovljivih izvora energije, režim zaštite kulturne baštine, mjere za za- štitu životne sredine, mjere za zaštitu pejzažnih vrijednosti i smjernice za realizaciju projekata pejzažne arhitekture odnosno uređenja terena, ekonomsko tržišnu projekciju, način, faze i dinamiku ralizacije plana.
+Lokalna studija lokacije po članu 26 Pravilnika o bližem sadržaju i formi planskog dokumenta, kriterijumima namjene površina, elementima ur- banističke regulacije i jedinstvenim grafičkim simbolima (’’Sl. list CG’’, br. 24/10 i 33/14) sadrži:
+- granice područja za koje se plan donosi;
+- plan parcelacije, elemente urbanističke regulacije i urbanističko-tehničke uslove za izgradnju objekata i uredjenje prostora u zonama detaljne razra- de (prostorni raspored, kapacitet, površine pod objektima i slobodne povr- šine; indeks izgradjenosti i indeks zauzetosti; broj korisnika površina i objekata - broj stanovnika i zaposlenih; veličina urbanističkih parcela, vr-
+ste objekata, visinu i orijentaciju objekata, najveći broj spratova, broj sta-
+nova, bruto razvijena gradjevinska površina i dr.; gradjevinske i regulacio-
+ne linije; nivelaciona i regulaciona rješenja; uslove priključivanja objekata
+na saobraćajnice, infrastrukturne mreže i komunalne objekte);
+- uporedne tabele postojećih i planskih bilansa i kapaciteta (po planskim
+jedinicama)
+- smjernice za uklapanje neformalnih objekta izgrađenih bez građevin-
+ske dozvole.
+Planski dokument se sastoji od tekstualnog i grafičkog dijela.
+Planski dokument sadrži i analitičko - dokumentacionu osnovu i opštu
+dokumentaciju kao obavezne priloge.
+Tekstualni dio planskog dokumenta sastoji se od teksta, koji prate
+karte i crteži u odgovarajućoj razmjeri,kao i tabele, dijagrami, grafikoni,
+fotografije i sl.
+Tekstualni dio planskog dokumenta sadrži:
+- uvodni dio;
+- analitički dio;
+- opšte i posebne ciljeve;
+- planirano rješenje;
+- smjernice za sprovođenje planskog dokumenta.
+Uvodni dio sadrži: opis granice i površinu obuhvaćenog prostora, plan-
+ski period, obrazloženje za izradu planskog dokumenta, zakonski
+osnov, izvod iz programskog zadatka.
+Analitičkim dijelom, daje se prikaz postojećeg stanja organizacije, ure-
+đenja i korišćenja prostora, koji se sastoji , u zavisnosti od vrste plan-
+skog dokumenta, od:
+1) analize prirodnih karakteristika planskog područja;
+2) analize postojećeg stanja namjena i kapaciteta područja obuhvaće-
+nog planom;
+3) analize postojećih fizičkih struktura, objekata infra i suprastrukture
+(sa podacima o izgrađenim objektima, uključujući i neformalne objekte,
+izgrađene suprotno zakonu ili važećem planu);
+4) ekonomsko - demografske analize:
+5) analize postojeće planske, studijske i tehničke dokumentacije višeg
+reda, planskog i susjednih područja sa odgovarajućim izvodom;
+6) analize područja koja su zaštićena propisom o prirodnoj, kulturnoj ba-
+štini i sl;
+7) analizu obaveza preuzetih međunarodnim ugovorima;
+8) ocjene iskazanih zahtjeva i potreba korisnika prostora koji su sastav-
+ni dio izvještaja o stanju uređenja prostora;
+9) sinteznog prikaza postojećeg stanja uređenja prostora sa evidentira-
+nim determinantama prostornog razvoja, tabelarnim prikazom prostor-
+nih pokazatelja i pregledom problema, ograničenja i potencijala plan-
+skog područja.
+Analiza i ocjena stanja u organizaciji, korišćenju i uređenju prostora, na-
+ročito sadrži: jasno izražene razlike između rješenja u planovima i sta-
+nja u prostoru, prikaz pozitivnih tendencija u prostornom razvoju, kao i
+mogućnosti rješavanja konflikata u prostoru.
+Ekonomsko - demografska analiza je stručna osnova kojom se ocjenju-
+ju demografski trendovi na području obuhvaćenom planom i posljedice
+na stambenu i ostalu izgradnju, infrastrukturu, mrežu objekata javnih
+funkcija, komunalnih objekata i sl.
+Opšti ciljevi polaze od: zajedničkih interesa i ciljeva utvrđenih planskim
+dokumentom šire teritorijalne cjeline, strateških razvojnih dokumenata,
+politike racionalnog korišćenja prostora i zaštite životne sredine; načela
+održivog razvoja, kao i cilja postizanja balansiranog socijalno - ekonom-
+skog razvoja.
+Posebni ciljevi sadrže sve specifičnosti područja za koje se izrađuje
+planski dokument i predstavljaju smjernice za izbor odgovarajuće kon-
+cepcije razvoja i izradu planskog rješenja.
+Planirano rješenje organizacije, uređenja i korišćenja prostora sadrži:
+1) obrazloženje planiranog prostornog modela (koncepta);
+2) koncepciju korišćenja, uređenja i zaštite planskog područja;
+3) ekonomsko - tržišnu i demografsku projekciju;
+4) faze realizacije;
+5) mreže i objekte supra i infrastrukture;
+6) podjelu na planske jedinice i zone;
+7) uporedne tabele postojećih i planskih bilansa i kapaciteta (po plan-
+skim jedinicama);
+8) uslove u pogledu planiranih namjena.
+Koncepcijom korišćenja, uređenja i zaštite područja obuhvaćenog pla-
+nom izražava se prostorna dimenzija, u cilju sticanja potpunog uvida u stepen racionalnosti i prostorne usklađenosti planiranih aktivnosti u od- nosu na prirodne uslove i prostorne resurse.
+Projekcija koncepcije daje se za čitav planski period, a posebno za prvu etapu realizacije.
+Projekcija sadrži i obrazloženje o načinu, obimu i dinamici finansiranja i realizacije planskih rješenja.
+Ekonomsko - tržišna projekcija je stručna osnova, koja se sastoji od ekonomskih procjena različitih varijanti u postupku planiranja, a koje služe izboru najboljih varijanti. Ekonomsko - tržišna projekcija mora biti razrađena kroz planersko dokazivanje ekonomske i tržišne opravdano- sti realizacije planiranih rješenja.
+Faze realizacije moraju biti jasno definisane, dokazane ekonomskim pa- rametrima, koje mora da prati procjena troškova izgradnje planiranih in- frastrukturnih sistema (troškovi opremanja i uređenja građevinskog ze- mljista).
+Smjernice za sprovođenje, u skladu sa vrstom planskog dokumenta, sa- drže:
+1) smjernice za dalju plansku razradu (oblici intervencija);
+2) smjernice za faznu realizacije plana;
+3) smjernice za zaštitu prirodnih i pejzažnih vrijednosti i kulturne baštine;
+4) smjernice za zaštitu životne sredine;
+5) smjernice za zaštitu od interesa za odbranu zemlje;
+6) smjernice za spriječavanje i zaštitu od prirodnih i tehničko - tehnolo- ških nesreća;
+7) smjernice za povećanje energetske efikasnosti i korišćenje obnovlji- vih izvora energije;
+8) urbanističko - tehničke uslove i smjernice za izgradnju objekata.
+9) smjernice za tretman neformalnih objekata i naselja.
+Grafički dio planskog dokumenta, u zavisnosti od vrste planskog do- kumenta, čine kartografski prikazi i grafički prilozi na kojima se, u zakonom propisanoj razmjeri, prikazuju postojeće stanje i planirani za- hvati u prostoru.
+Grafički dio sadrži:
+1) topografsku kartu odnosno topografsko - katastarski plan ili drugu ažurnu i ovjerenu podlogu sa granicom plana izdatu od strane nadle- žnog organa državne uprave; ukoliko se rade izmjene i/ili dopuna plana posebno se prikazuje granica obuhvata u kojem se mijenja ili dopunjuje određeni dio plana;
+2) izvod iz planskog dokumenta višeg reda;
+3) izvod iz planskih dokumenata područja koje plan obuhvata i kontakt- nog područja;
+4) inženjersko - geološke i seizmičke karakteristike terena;
+5) stanje fizičkih struktura i namjene površina sa prikazom objekata iz- građenih suprotno zakonu ili planu;
+6) administrativnu podjelu i podjelu na planske jedinice;
+7) plan namjene površina i objekata javnih funkcija;
+8) plan mjera, uslova i režima zaštite životne sredine, prirode i kulturne baštine;
+9) stanje i plan zelenih i slobodnih površina (predjela);
+10) stanje i plan saobraćajne infrastrukture;
+11) stanje i plan hidrotehničke infrastrukture;
+12) stanje i plan elektroenergetske infrastrukture:
+13) stanje i plan telekomunikacione infrastrukture;
+14) stanje i plan termotehničke infrastrukture;
+15) plan parcelacije, nivelacije i regulacije;
+16) plan sa smjernicama za sprovođenje planskog dokumenta (faze re- alizacije, oblici intervencija i dalja planska razrada).
+Grafički dio planskog dokumenta treba da sadrži i dvije sintezne karte, i to:
+- stanje organizacije, uređenja i korišćenja planskog područja (sa deter- minantama prostornog razvoja, odnosno konstantama u prostoru i ogra- ničenjima za izgradnju) i - plan organizacije, uređenja i korišćenja planskog područja.
+U zavisnosti od vrste planskog dokumenta i primjenjene razmjere, na kartografskom prikazu ili grafičkom prilogu obrađuje se jedan ili više te- matskih sadržaja, a na sinteznim kartama integralno se iskazuje posto- jeće stanje organizacije, uređenja i korišćenja prostora, odnosno inte- gralni plan organizacije, uređenja i korišćenja prostora, ili veći broj srod- nih tematskih cjelina (npr. sintezni plan infrastrukture).
+Broj kartografskih prikaza, odnosno grafičkih priloga, u zavisnosti od obima i načina prezentacije tematskih sadržaja, može se povećati ili smanjiti, u mjeri u kojoj je to neophodno za racionalno prikazivanje plan- skih rješenja.
+Grupisanjem više tematskih sadržaja na jednom kartografskom prikazu ili grafičkom prilogu ne smije se narušiti njihova čitljivost i preglednost, odno- sno mogućnost identifikacije površina i objekata svake pojedine teme.
+Kartografski prikaz ili grafički prilog formatira se na dimenzije A4 ili A3.
+Sadržaj grafičkog dijela planskog dokumenta označava se metodama znakova, boja i šrafura u skladu sa ovim pravilnikom, a specijalističkih karata (inženjersko-geološke, hidrogeološke, pedološke, šumske, lovne,
+ribolovne osnove, karte nagiba terena i druge) u skladu sa propisima i
+standardima, kojima su uređene pojedine specijalističke oblasti.
+Analitičko - dokumentaciona osnova je prilog plana, koji čine stručni i
+drugi dokumenti na osnovu kojih je plan izrađen, ili koji su izrađeni u ve-
+zi s planom, a koji u svom izvornom obliku ne ulaze u sastav plana.
+Analitičko - dokumentacionu osnovu čine uslovi, smjernice i predlozi,
+neophodni za izradu planskog dokumenta organa, privrednih društava,
+ustanova i drugih pravnih lica nadležnih za poslove: projekcija privred-
+nog i demografskog razvoja; vodoprivrede; elektroprivrede; saobraćaja;
+telekomunkacija; radio - difuzije; zdravstva; odbrane zemlje; kulture;
+stambeno - komunalne djelatnosti; geodetske, geološke, geofizičke, sei-
+zmičke i hidro meteorološke poslove; poslove statistike; poljoprivrede,
+šumarstva, turizma, zaštite prirode, zaštite kulturne i prirodne baštine;
+zaštite životne sredine i dr;
+Analitičko - dokumentacionu osnovu čine popis i odgovarajući izvodi iz do-
+kumenata o činjenicama, okolnostima ili pitanjima relevantnim za izradu
+plana (informacije, izvještaji, saopštenja, analize, studije, ekspertize, re-
+cenzije, konkursna rješenja i preporuke, stručna mišljenja, programi, pla-
+novi, projekti, kartografske publikacije, izvodi iz evidencija, zapisnici, napi-
+si u sredstvima javnog informisanja, izvodi iz udžbenika i drugih naučnih i
+stručnih publikacija, filmski, video i zvučni zapisi, fotografije, itd.).
+U toku pripreme analitičko - dokumentacione osnove izrađuje se sinte-
+zni tekstualni i grafički prikaz relevantnih studija, studijskih priloga, se-
+parata, ekspertiza, dokumentacije o korisnicima i vlasnicima zemljišta,
+bilansa i sl.
+Kada se za određene oblasti od posebnog značaja za planiranje razvoja
+ne raspolaže odgovarajućim informacijama, mogu se izvršiti dodatna is-
+traživanja u cilju izrade posebnih studija, elaborata i ekspertiza pojedi-
+nih oblasti, a u cilju rješavanja konkretnih problema u prostoru.
+Za potrebe izrade Prostornog plana Crne Gore; prostornog plana po-
+sebne namjene; detaljnog prostornog plana i prostorno - urbanističkog
+plana lokalne samouprave, u sklopu izrade analitičko - dokumentacione
+osnove pripremaju se i adekvatne bazne studije i istraživanja.
+V ENERGETSKA INFRASTRUKTURA
+Planiranje i razvoj prenosnog sistema se mora bazirati na sljedećim za-
+htjevima:
+
+Očuvanju postojeće i daljem povećanju sposobnosti mreže
+da održava ugovoreni nivo usluga;
+
+Zadovoljenju zahtjeva korisnika mreže za povećanje kapaci-
+teta mreže u cilju obezbjeđenja utvrđenih standarda napaja-
+nja i
+
+Izbjegavanju ograničenja u mreži kojima se onemogućava
+ostvarenje bilateralnih ugovora između snabdjevača i potro-
+šača.
+U gradskom području novoplanirane TS 10/0,4 kV treba izvoditi prema
+tehničkoj preporuci TP-1b "Distributivna transformatorska stanica DTS -
+EPCG 10/0,4 kV", donesenim od strane Sektora za distribuciju - Podgo-
+rica "Elektroprivrede Crne Gore", AD - Nikšić.
+
+Trafo-stanica je montažno-betonska sa srednjenaponskim
+postrojenjem u SF6 tehnologiji sa stepenom izolacije 24 kV.U
+posebnom slučaju, trafo-stanica se može ugraditi i u objekat
+u ravni terena.
+
+Trafo-stanica treba da bude bar jedan put prolazna na strani
+srednjeg napona.
+
+Trafo-stanica će se izvoditi za snage 630 kVA, 2 x 630
+kVA,1000 kVA i 2 x 1000kVA.
+
+Primarni namotaj transformatora 10 kV treba da bude pre-
+spojiv na napon 20 kV.
+
+Srednjenaponska oprema STS treba da bude sa stepenom
+izolacije 24 kV.
+
+Primarni namotaj transformatora 10 kV treba da bude pre-
+spojiv na napon 20 kV .
+
+Mreže srednjeg napona 10 kV u gradskom području treba iz-
+voditi u konceptu otvorenih prstenova. Mreža se izvodi sa
+podzemnim jednožilnim kablovima XHE 49 A ,240 mm2, sa
+stepenom izolacije 24 kV.
+
+Mreže srednjeg napona 10 kV u seoskom području treba iz-
+voditi kao radijalne. Mreže se izvode kao nadzemne sa ste-
+penom izolacije 24 kV.
+
+NN mreža u gradskom području izvodi se isključivo kao ka-
+blovska radijalnog tipa, bez rezervi, podzemno. U slučajevi-
+ma kada se radi o potrošačima od posebnog značaja, prepo-
+ručuje se prstenasta niskonaponska mreža.
+
+Osvjetljenje saobraćajnica planirati u skladu sa Preporukama
+za projektovanje, izvođenje i održavanje javne rasvjete na
+području Glavnog grada Podgorice.
+VI TELEKOMUNIKACIONA INFRASTRUKTURA Izmjenama i izradama DUP-a, UP-a i LSL-a treba predvidjeti izgradnju telekomunikacionih čvorišta na područjima Dajbaba, Vranića, Beri, Sta- re Zlatice, Kakaricke gore, Balijača, Bijelog Polja u skladu sa ciljevima i zadacima razvoja telekomunikacione infrastrukture.
+Takođe, izmjenama i izradama DUP-a, UP-a i LSL-a, treba planirati iz- gradnju telekomunikacione kanalizacije u cilju povezivanja novopredvi- đenih lokacija telekomunikacionih čvorova sa postojećom telekomunika- cionom infrastrukturom, kao i izgradnju zalazaka tk kanalizacije u poje- dine zone unutar posmatranih područja, duž postojećih, kao i planiranih pristupnih saobraćajnica, u zavisnosti od planiranih sadržaja, u cilju efi- kasnijeg i lakšeg nalaženja tehničkih rješenja za buduće korisnike sa tih područja. U svim navedenim detaljima biće potrebno planirati i kablov- ska tk okna, u skladu sa planiranim objektima u zoni obuhvata.
+Trasu planirane tk kanalizacije potrebno je, gdje god je to moguće, uklo- piti u buduće trotoare ulica i zelene površine. Izgradnju tk kanalizacije koja se planira, kao i tk okana, izvoditi u svemu prema važećim propisi- ma i preporukama iz ove oblasti .
+Kroz izradu i izmjene DUP-ova, UP-ova i LSL-a, prilikom određivanja detaljnog položaja bazne stanice mora se voditi računa o njenom ambi- jentalnom i pejzažnom uklapanju, i pri tome treba izbjeći njihovo locira- nje na javnim zelenim površinama u središtu naselja, na istaknutim re- ljefnim tačkama koje predstavljaju panoramsku i pejzažnu vrijednost, prostorima zaštićenih djelova prirode, arheološkim područjima i lokalite- tima, te istorijskim građevinskim cjelinama. Za konačan položaj postav- ke baznih stanica preporučuje se izrada odgovarajuće Studije ili Procje- ne uticaja na životnu sredinu.
+Za proširenje kapaciteta telekomunikacione mreže prvenstveno koristiti postojeće saobraćajne i infrastrukturne koridore i težiti njihovom objedi- njavanju u cilju zaštite i očuvanja prostora i sprečavanju zauzimanja no- vih površina. Gdje god visina stuba, u vizuelnom smislu, ne predstavlja problem (mogućnost zaklanjanja i skrivanja), preporučuje se korišćenje jednog antenskog stuba za više korisnika. Postavljanjem antenskih stu- bova ne mijenjati konfiguraciju terena i zadržati tradicionalan način kori- šćenja pejzaža. Prirodnu šumsku vegetaciju zaštititi i koristiti za vizuel- nu barijeru prostora antenskog stuba.
+VII HIDROTEHNIČKA INFRASTRUKTURA
+Planiranju infrastrukture prići u skladu sa planskim rješenjima i na osno- vu prethodno provjerenih mogućnosti postojećih mreža hidrotehničkih instalacija.
+Planirati propisano dimenzionisane hidrotehničke instalacije, te savre- menu funkcionalnu mrežu u objektima i za potrebe ukupnog kompleksa.
+Voditi računa o rješenjima kontaktnih zona.
+VIII SAOBRAĆAJ Saobraćaj u mirovanju Neophodan broj parking mjesta za svaku jedinicu građevinskog zemlji- šta, prema namjeni i veličini i za svaku namjensku zonu, utvrđuje se kao planska odrednica u planu sa detaljnom razradom i predstavlja obave- zujuću sadržinu plana.
+Potrebe za parking mjestima procjenjuju se u zavisnosti od namjene planiranih površina i stanja sistema javnog gradskog saobraćaja, uz sa- gledavanje mogućnosti prostora.
+Biciklistički saobraćaj Formiranje infrastrukture za biciklistički saobraćaj je potreba koja će biti sve aktuelnija. Na svim gradskim saobraćajnicama koje se rekonstruišu - proširuju na 4 trake i onima koje se planiraju kao novi putni pravci, tre- ba projektovati i biciklističke staze. Na ostaloj gradskoj putnoj osnovi, koja se ne može ili neće rekonstruisati, treba ispitati mogućnost obilje- žavanja biciklističkih staza na postojećim trotoarima i gdje god je to mo- guće i planirati, sa pravom prvenstva za bicikliste.
+Uz novoplanirane saobraćajnice obavezno je planiranje biciklističkih staza, pridržavajući se svih predviđenih propisa za projektovanje istih.
+Autoput je državni put koji je namijenjen isključivo za saobraćaj motor- nih vozila, sastavni je dio putnog povezivanja sa susjednim zemljama i utvrđen je prostornim planovima. Autoput je u saobraćajno-tehničkom smislu javni put posebno izgrađen i namijenjen isključivo za saobraćaj motornih vozila, koji je kao takav označen propisanim saobraćajnim znakom koji ima dvije kolovozne trake za saobraćaj iz suprotnih smjero- va fizički odvojene (zelenim pojasom, zaštitnom ogradom i sl.) bez ukr- štanja sa poprečnim putevima i željezničkim ili tramvajskim prugama u istom nivou i na koji se može uključiti, odnosno isključiti samo određe- nim i posebno izgrađenim javnim putevima na odgovarajuću kolovoznu traku autoputa. Poprečni profil sa minimum dvije kolovozne trake, širine 3,50 m i razdjelnim ostrvom širine minimum 4 m.
+Magistralni put je državni put koji povezuje gradove ili važnija privred- na područja Republike Crne Gore. Sastavni djelovi magistralnog puta
+su i izgrađeni priključci izvedeni u širini putnog pojasa1. Poprečni profili,
+biciklističke i pješačke staze su definisani i označeni na odgovarajućim
+grafičkim prilozima.
+Regionalni put je državni put namijenjen saobraćajnoj vezi između
+značajnih centara lokalnih zajednica i povezivanju saobraćaja sa drugim
+javnim putevima jednake ili više kategorije ili na putni sistem susjednih
+država. Sastavni djelovi regionalnog puta su i priključci izvedeni u širini
+putnog pojasa. Poprečni profili, biciklističke i pješačke staze su definisa-
+ni i označeni na odgovarajućim grafičkim prilozima.
+Lokalni put je javni put koji povezuje sela i naselja na teritoriji lokalne
+zajednice ili koji se nadovezuje na odgovarajuće puteve susjedne lokal-
+ne zajednice, a od značaja je za lokalni saobraćaj na teritoriji te lokalne
+zajednice. Poprečni profili, biciklističke i pješačke staze su definisani i
+označeni na odgovarajućim grafičkim prilozima.
+Gradske ulice su dionice puta u gradu ili naselju sa različitim stepenom
+infrastrukturne opremljenosti. Zavisno od toga, dijele se na glavne, sa-
+birne i pristupne gradske ulice. Ovim planom se definišu glavne gradske
+i sabirne ulice, dok će se ostale definisati DUP-ovima, UP-ovima, LSL-a
+i smjernicama definisanim ovim Planom za područja gdje se neće raditi
+planska dokumentacija.
+Glavna gradska ulica u profilu ima četiri kolovozne trake, od kojih su
+po dvije za svaki smjer, zelene površine sa svake strane kolovoza, bici-
+klističke staze i trotoare sa obije strane kolovoza.
+Gradske ulice - sabirne planirati tako da širina kolovoza bude 6 - 7m, sa
+dvostranim trotoarima, a gdje god je moguće planirati i zelene površine.
+Gradske ulice - pristupne planirati tako da širina kolovoza bude mini-
+mum 5 metara i gdje god je moguće planirati trotoare. Na svim planira-
+nim proširenjima i novim vezama gradskih ulica podrazumijeva se iz-
+gradnja i ostale potrebne saobraćajne strukture (biciklističke staze, tro-
+toari, stajališta za autobuse...).
+Pješačka staza je javni put koji je propisanom saobraćajnom signaliza-
+cijom obilježen i namijenjen isključivo za kretanje pješaka. Staze se
+predviđaju između dvije zelene površine, između saobraćajnica i uzviše-
+nja i između saobraćajnica i zgrada. Opravdanost planiranja staza je
+ako oko 50 pješaka pređe datu putanju u jednom danu. Širina staze je
+minimum 1,5 m po dužii nagiba maksimalno 12%. Širina staze kombio-
+vana sa saobraćajem je data u opisu odgovarajuće saobraćajnice.
+Biciklistička staza je izgrađena saobraćajna površina namijenjena za
+saobraćaj bicikla i bicikla sa motorom, koja se proteže duž kolovoza pu-
+ta i od njega je odvojena i obilježena propisanim saobraćajnim znakom
+za obilježavanje biciklističke staze. Za stazu između dvije zelene površi-
+ne širina je 1 m/jedna staza, između saobraćajnice i uzvišenja 1,50
+m/jedna staza, između saobraćajnice i zgrade 1,75 m/jedna staza. Ga-
+barit biciklističke staze uključuje zaštitnu traku od 25 cm i 50 cm.
+Daje se mogućnost korekcije profila prilikom izrade projektne dokumen-
+tacije u cilju utvrđivanja najracionalnijeg poprečnog profila i ukupnog
+tehničkog rješenja koje je moguće izvesti na predmetnoj trasi.
+Tip raskrsnice može se promijeniti DUP-om ili projektnim rješenjem ako
+se nakon analize uslova na terenu i sagledavanja saobraćajnih rješenja
+u kontaktnim zonama i protoka vozila pokaže da je bolje neko drugo
+rješenje raskrsnice.
+Planskim rješenjima treba planirati pretpostavke za nesmetano kretanje
+lica sa smanjenom pokretljivošću, projektovanjem oborenih ivičnjaka na
+mjestu pješačkih prelaza, kao i povezivanjem rampom denivelisanih
+prostora, obezbjeđenjem dovoljne širine, bezbjednih nagiba i odgovara-
+jućom obradom površina.
+Putnu infrastrukturu planirati u skladu sa članovima 112, 113, 114, 115,
+116, 117 i 118 Pravilnika o bližem sadržaju i formi planskog dokumenta.
+IX PEJZAŽNA ARHITEKTURA
+Rješavanjem ozelenjavanja prostora neophodno je postići optimalna
+pejzažna rješenja prostora za potrebe korisnika prostora odnosno
+
+očuvati i revitalizovati postojeće parkove;
+
+stvoriti zelene trgove i skverove kao "stepping stones" koji
+povezuju linijske poteze zelenila sa zelenim površinama;
+
+uspostaviti zelenu gradnju, stvarati urbane prostore u zeleni-
+lu;
+
+potrebno je postojeće degradirane površine revitalizovati i
+pejzažno urediti i privesti ih namjeni;
+
+stvoriti zeleni prsten grada kroz stvaranje manjih urbanih par-
+kova po cijeloj teritoriji (postojeće blokovsko zelenilo);
+
+neophodno je detaljnim razradama predvidjeti formiranje no-
+vih površina parkovskog karaktera i trgova, na svim mjestima
+koje omogućuju oblikovno i funkcionalno njihovo formiranje;
+
+formiranje sistema za zalivanje u okviru zelenih površina.
+1 Zakon o putevima (Sl. list RCG, br. 42/2004 od 22.6.2004. godine) Pejzažno urediti zonu planskog dokumenta u skladu sa članovima 118 do 126 Pravilnika o bližem sadržaju i formi planskog dokumenta, kriteri- jumima namjene površina, elementima urbanističke regulacije i jedin- stvenim grafičkim simbolima (’’Sl. list CG’’, br. 24/10 i 33/14) u zavisno- sti od planiranih sadržaja i namjena prostora.
+Parkovske površine potrebno je projektovati kao površine javnog karak- tera sa mrežom puteva i staza koje povezuju ambijentalne prostore i kompozicijske elemente: platoe, elemente sa vodom, dječja igrališta, sportski tereni i dr. Na postojećim parkovskim površinama potrebno je sprovesti entomološka i dendrološka istraživanja-valorizaciju sadnog materijala čime bi se izvršila sistematizovana sječa i uklanjanje starih i bolesnih stabala. Sve postojeće dekorativne elemente u parkovima (fontane, skulpture, svjetlosne elemente), onamo gdje je to potrebno, revitalizovati kroz obnovu boja, popravku itd. Takođe, sve postojeće parkovske sadržaje, mobilijar, ograde, dječja igrališta potrebno je revita- lizovati, oni koji su u teško zapuštenom stanju potrebno je zamijeniti no- vim. Dopunu sadnog materijala vršiti autohtonim i alohtonim visokode- korativnim sadnicama. Obnoviti degradirane sezonske cvijetnjake i stvo- riti nove na površinama gdje je to moguće i gdje se ambijentalno i kom- pozicijski uklapaju u prostor parka. Stvoriti cjeline za rekreaciju pasivnu i aktivnu za sve starosne uzraste. Više od 50% površine parka treba da bude pod zelenilom. Prilikom projektovanja novih parkovskih površina potrebno je izvršiti snimanje postojećeg stanja.
+U sklopu oblikovanja gradskih ulica predviđa se značajan porast drvore- da. Nužno je da dogradnju primarnog uličnog sistema prati i uporedo podizanje drvoreda. Drvorede treba širiti posebno na potezima koji ima- ju reprezentativni karakter ili spajaju prirodno-rekreativna značajna pod- ručja. U planu zelenila predviđa se podizanje i višestrukih drvoreda kao vizuelnih barijera između različitih sadržaja namjene prostora.
+Na novoplaniranim trgovima potrebno je povećati procenat zelenila u vi- du zasada visokodekorativnih vrsta alohtonih i autohtonih drveća, kao i stvaranja niskog sklopa biljaka u vidu žardinjera.
+Projektovati prostor sa otvorenim vizurama ka značajnim objektima - vjerskim, državnim, zdravstvenim itd. Pješačke ulice savremeno dizajni- rati i popločati prirodnim materijalima. Koristiti moderan dizajn elemena- ta rasvjete uz uklapanje u postojeće arhitektonsko oblikovanje.
+Stvaranje drvoreda sa visokim drvorednim sadnicama moguće je formi- rati samo u novoprojektovanim ulicama u kojima je širina trotoara mini- malno 2,5 m. U užim ulicama drvored se formira samo na sunčanoj strani ili obostrano, ali sa niskim drvorednim sadnicama. Kod formiranja drvoreda na parking mjestima potrebno je projektovati po jedno drvo na dva upravna parking mjesta, dok kod podužnog parkiranja na jedno par- king mjesto po jedno drvo. Gdje postoji mogućnost kod dvostrukih drvo- reda planirati između stabala zelene površine u vidu travnjaka.
+Koristiti biljne vrste koje imaju dubok korjenov sistem, čime bi se izbje- glo podizanje trotoara.
+Ujedno potrebno je birati vrste koje su otporne na zagađenje zemljišta, vazduha, buke itd. Rastojanje između pojedinačnih stabala iznosi od 6 do 12 m, pri čemu minimalno rastojanje od objekta iznosi 5 m. Izbjega- vati vrste sa velikim medonosnim plodovima pr. Prunus cerasifera atro- purpurea, Maclura aurantiaca itd. Koristiti vrste koje rastu u otežanim uslovima - zbijenom i zagađenom zemljištu, velikim količinama prašine na listovima, velikom intenzitetu buke.
+Na saobraćajnim ostrvima, na razdjelnim trakama, skverovima otvore- nog tipa, kružnim tokovima itd. saditi isključivo biljni materijal niskog ra- sta sa sitnim listovima i plodovima, parterno zelenilo zbog preglednosti saobraćaja. Kružne tokove urediti kompozicijski i saditi visokodekorati- van sadni materijal.
+Za saobraćajnice koje su riješene uz denivelaciju prostora saditi biljni materijal koji veže zemljište kao i vertikalno ozelenjavanje terena - kori- stiti puzavice. Tamo gdje nije moguće uvezati zemljište zbog prevelike denivelacije terena prostor je moguće urediti zelenim terasama, čije je zidove potrebno ozeleniti vertikalnim zelenilom.
+Zelenilo stambenih objekata i blokova predstavlja bitnu komponentu ze- lenog sistema grada. Osim estetske funkcije, zelenilo objekata i blokova ima izraženu i sanitarno-ekološku funkciju.
+Pješačke komunikacije unutar blokova spojene su sa vanblokovskim pješačkim stazama.
+U zavisnosti od intenziteta korišćenja širina staze se kreće od 1,5 do 3 m.
+Prostor je potrebno urediti zelenilom alohtonog i autohtonog biljnog ma- terijala, ujedno zelenilom stvoriti prostore za pasivan odmor i odvojiti ih od dječjih igrališta zelenilom koje ima funkciju vizuelne barijere kao i tampon zone protiv buke. Voditi računa o osunčanosti, položaju drveća u odnosu na objekte, instalacije, mobilijar itd.
+Potrebno je urediti prostore između građevinske i regulacione linije, u ši- rokim frontovima ulica koje nemaju drvored preporučuje se sadnja viso- kih drvorednih sadnica čime ulica dobija drvored, a vlasnik okućnice vi- zuelnu barijeru. Preporučuje se sadnja živih ograda umjesto stvaranja betonskih zidova. U slučajevima projektovanja betonskih ograda potreb-
+no ih je ozeleniti vertikalnim zelenilom, različitim vrstama visokodekora-
+tivnih puzavica. Neophodno je obezbijediti min. 30-40% zelenih površi-
+na, u zavisnosti od položaja parcele, zone stanovanja i namjene.
+Za površine groblja odnos površina za sahranjivanje prema površinama
+ostalog sadržaja kreće se u rasponu od 60:40% kod izrazito arhitekton-
+ske, do 40:60% kod pejzažne kompozicije. Ova funkcionalna podjela
+uglavnom se sastoji u sljedećim odnosima: 60% površine namijenjene
+grobnim mjestima, 20% zeleni pojas i parkovski oblikovan prostor, 16%
+površine za pješačke staze i saobraćajnice, 3% trg za ispraćaj sa objekti-
+ma kapele, i 1% ostali sadžaji. Uređenjem je potrebno stvoriti prostor koji
+odaje osjećaj mirnoće. Potrebno je stvoriti tampon zone zelenila ivicom
+groblja, prvenstveno na grobljima u užem gradskom jezgru. Velike beton-
+ske zidove potrebno je oplemeniti vertikalnim sistemom ozelenjavanja.
+Postojeća stara groblja potrebno je sačuvati kao dio istorijskog nasljeđa
+i parkovno ih urediti.
+X ENERGETSKA EFIKASNOST
+Neophodno je pri izradi smjernica za izdavanje urbanističko tehničkih
+uslova naglasiti da je pri izgradnji novih objekata potrebno je da se bar
+20% potrebne energije obezbijedi iz alternativnih izvora energije, pri če-
+mu treba voditi računa o ambijentalnim i pejzažnim karakteristikama
+okruženja budućih objekata.
+Održivoj potrošnji energije treba dati prioritet racionalnim planiranjem
+potrošnje, te implementacijom mjera energetske efikasnosti u sve seg-
+mente energetskog sistema.
+Instalacije za iskorišćavanje sunčeve energije potrebno je integrisati u
+oblikovanju objekata (krovovi, fasade). Najbolji način integracije ovih in-
+stalacija je postavljanje kolektora u ravan kosog krova. Ovakav način in-
+tegracije moguć je ukoliko je krov orijentisan ka jugu uz odstupanja ±
+30°. Najpogodnije tipologije zgrada za ovakvu integraciju su, svakako,
+stambeni objekti, bilo za kolektivno ili individualno stanovanje. U objekti-
+ma čije arhitektonsko rješenje upućuje na ravan krov, optimalno rješe-
+nje je postaviti solarnu instalaciju na nosače koji garantuju optimalni na-
+gib kolektora.
+Cilj sveobuhvatne uštede energije, a time i zaštite životne sredine, će
+stvoriti preduslove za sistemsku sanaciju i rekonstrukciju postojećih
+zgrada, a zatim i povećanje obavezne toplotne zaštite novih objekata.
+XI NIVELACIJA I REGULACIJA
+Kod rješavanja nivelacije i regulacije obezbijediti potrebne elemente koji
+garantuju najpovoljnije funkcionisanje unutar prostora kao i veze sa
+kontakitnim zonama. Uskladiti visine objekata i položaj na parceli, odno-
+sno odnos objekta prema uličnom frontu, preispitujući mogućnost plani-
+ranja istih površina pod objektom za istu planiranu namjenu, kako bi se
+postigla blokovska unificiranost. Uskladiti visine planiranih i postojećih
+saobraćajnica, visine poda objekata u odnosu na saobraćajnicu ili kol-
+sko-pješački prilaz. Građevinske linije definisati prema ulici a urbanistič-
+ki ograničiti prema susjedima.
+XII PARCELACIJA
+Od početka izrade Plana, obavezno je obezbjeđivanje kvalitetnih i ažur-
+nih podloga. Takođe je obaveza da se planska dokumentacija radi u di-
+gitalnoj obradi.
+U skladu sa članom 28 Pravilnika o bližem sadržaju i formi planskog doku-
+menta, kriterijumima namjene površina, elementima urbanističke regulaci-
+je i jedinstvenim grafičkim simbolima (’’Sl. list CG’’, br. 24/10 i 33/14), plan-
+ski dokumenti izrađuju se na ažuriranim topografsko-katastarskim karta-
+ma i planovima u digitanoj formi, a prezentuju se u analognoj formi izrađe-
+noj na papirnoj podlozi i moraju biti ažurirani i identični po sadržaju. Topo-
+grafsko-katastarske karte i planovi, u analognom i digitalnom obliku, koji
+se koriste kao podloge za izradu planskih dokumenata moraju biti izrađe-
+ni, izdati i ovjereni u skladu sa propisima o premjeru i katastru nepokretno-
+sti i o održavanju premjera i katastra zemljišta.
+Prilog Parcelacija treba da sadrži polilinijom definisane urbanitičke par-
+cele sa brojem. Numerisati sve urbanističke parcele u jednom nizu. Gra-
+fički prilog mora da sadrži spisak koordinata svih prelomnih tačaka ur-
+banističke parcele, spisak koordinata osovina ulica i kolsko pješačkih
+prilaza kao i sve druge analitičke podatke neophodne za prenošenje
+plana na teren. U što većoj mjeri poklopiti granice katastarskih i urbani-
+stičkih parcela i izbjegavati minimalna odstupanja.
+Podloga postojećeg stanja treba da sadrži i grafički prikazano vlasni-
+štvo.
+XIII URBANISTIČKO TEHNIČKI USLOVI
+Urbanističko - tehničke uslove treba posebno obraditi za svaku urbani-
+stičku parcelu i objekat i iskazati u posebnom prilogu koji će sadržati
+sve neophodne tekstualne, numeričke i grafičke podatke, u skladu sa
+Zakonom o uređenju prostora i izgradnji objekata (’’Službeni list CG’’, br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14) i u skladu sa članom 91 Pravilnika o bližem sadržaju i formi planskog dokumenta, kri- terijumima namjene površina, elementima urbanističke regulacije i jedin- stvenim grafičkim simbolima (’’Sl. list CG’’, br. 24/10 i 33/14), kojim su definisani elementi urbanističke regulacije.
+U skladu sa Zakonom o uređenju prostora i izgradnji objekata, Obrađi- vač Plana će nadležnom organu za poslove planiranja i uređenja pro- stora i zaštitu životne sredine dostaviti na uvid i dalji postupak planski dokument sa grafičkim prilozima urađenim na topografsko - katastar- skim planovima u razmjeri R = 1:1000 ili R = 1:500 i tekstom u fazi Nacrta i konačnog Predloga.
+Prilikom izrade Plana, potrebno je primijeniti Pravilnik o bližem sadržaju
+i formi planskog dokumenta, kriterijumima namjene površina, elementi-
+ma urbanističke regulacije i jedinstvenim grafičkim simbolima (’’Sl. list
+CG’’, br. 24/10 i 33/14), i isti uraditi u skladu sa Uputstvom za primjenu
+Pravilnika (model podataka).
+Konačni Predlog Izmjena i dopuna Plana dostaviti u skladu sa članom
+3. Pravilnika o načinu uvida, ovjeravanja, potpisivanja, dostavljanja, ar-
+hiviranja, umnožavanja i čuvanja planskog dokumenta ("Sl. list Crne
+Gore" br.71/08) .
+Na osnovu člana 5 stav 2, člana 9 i člana 13a, stav 1 Zakona o strateškoj procjeni uticaja na životnu sredinu ("Službeni list RCG'', br. 80/05 i "Službeni list CG’’, br. 73/10, 40/11 i 59/11), Sekretar Sekretarijata za planiranje i uređenje prostora i zaštitu životne sredine Glavnog grada - Podgorice, donosi -
+O D L U K U
+o izradi Strateške procjene uticaja na životnu sredinu Lokalne studije lokacije ’’Centralno groblje Golubovci" u Podgorici
+Član 1
+Pristupa se izradi Strateške procjene uticaja na životnu sredinu Lokalne studije lokacije "Centralno groblje Golubovci" u Podgorici, u daljem tekstu: Strateška procjena.
+Član 2
+Osnov za izradu Lokalne studije lokacije "Centralno groblje Golubovci" u Podgorici, je Program uređenja prostora Glavnog grada Podgorica za 2015. godinu.
+Član 3
+Cilj izrade predmetne Lokalne studije lokacije, koja obuhvata područje površine cca 6,4 ha, jeste stvaranje planskih pretpostavki za organizaciju i uređenje datog prostora u skladu sa planiranim sadržajima iz Prostornog urbanističkog plana Podgorice, kojim je za ovaj prostor predviđen za uređenje i proširenje postojećeg groblja.
+Član 4
+Strateška procjena uticaja na životnu sredinu Lokalne studije lokacije "Centralno groblje Golubovci" u Podgorici, izradiće se u cilju sagledavanja pitanja zaštite životne sredine i zdravlja ljudi u kontekstu izrade predmetnog plana, odnosno uticaja istog na segmente životne sredine i predloga odgovorajućih mjera za njihovo sprječavanje i ublažavanje, uz obezbjeđivanje transparetnog učešća javnosti u dati postupak. O izvršenoj Strateškoj procjeni izradiće se Izvještaj, u skladu sa Zakonom.
+Član 5
+U Izvještaj o strateškoj procjeni uticaja biće uključeni podaci o postojećem kvalitetu i kapacitetu segmenata životne sredine, u kontekstu i obimu usklađenom sa prostornim zahvatom i prirodom predmetnog planskog dokumenta.
+Član 6
+Nosilac izrade Izvještaja o strateškoj procjeni uticaja biće odabran kroz tenderski postupak, u skladu sa Zakonom propisanom procedurom. Rok za izradu Izvještaja se poklapa sa rokom izrade plana. Dati Izvještaj biće izrađen od strane multidisciplinarnog tima, sastavljenog od kvalifikovanih lica za određene oblasti.
+Član 7
+Nosilac pripremnih poslova za izradu plana, će obezbijediti uvid javnosti i zainteresovanoj javnosti istovremeno sa Nacrtom plana za koji se izrađuje strateška, a u skladu sa programom kojim će se utvrditi način i rokovi uvida u sadržinu Izvještaja o strateškoj procjeni i način i rokovi javne rasprave.
+Izvještaj o strateškoj procjeni i program iz prethodnog stava objaviće se na web sajtu Glavnog grada Podgorice www.podgorica.me i u dnevnom listu ’’Pobjeda’’.
+Član 8
+Ova Odluka donosi se istovremeno sa Odlukom o izradi Lokalne studije lokacije "Centralno groblje Golubovci" u Podgorici, i predstavjla njen sastavni dio i biće objavljena u "Službenom listu Crne Gore - opštinski propisi", na web sajtu Glavnog grada - Podgorice www.podgorica.co.me i u dnevnom listu »Pobjeda«.
+Član 9
+Finansijska sredstva za izradu Izvještaja o strateškoj procjeni u iznosi od 1000 € obezbijediće se iz budžeta Glavnog grada Podgorice.
+Broj: 08-351/14 - 1298/1 Podgorica,09. april 2015. godine
+VD sekretara,
+Oliver Marković, dipl.ing.građ,.
