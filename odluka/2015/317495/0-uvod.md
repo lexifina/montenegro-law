@@ -1,0 +1,3 @@
+Na osnovu člana 4 i 14 stav 4 Zakona o društvenim djelatnostima ("Sl. list RCG" br. 19/90, 25/90, 6/91 i 21/95), člana 90 i 104 Zakona o socijalnoj i dječjoj zaštiti ("Sl. list CG" br. 27/13 i 01/15), člana 34 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG" br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG" br. 88/09, 3/10, 38/12 i 10/14) i člana 34 stav 1 tačka 14 Statuta opštine Bijelo Polje ("Sl. list RCG-Opštinski propisi" br. 25/04 i 33/06 i "Sl. list CG-Opštinski propisi" br.18/10 i 32/13), Skupština opštine Bijelo Polje, na sjednici održanoj 30.04. i 14.05.2015. godine, donijela je
+O D L U K U
+o organizovanju JU Centar za djecu i mlade sa smetnjama u razvoju "Tisa"
