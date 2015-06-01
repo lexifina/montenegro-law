@@ -1,0 +1,2 @@
+Na osnovu člana 14 stav 4 i člana 22 stav 2 Zakona o društvenim djelatnostima ("Sl. list RCG" br.19/90, 6/91 i 21/95), člana 1 stav 2 Odluke o osnivanju JU Dnevni centar za djecu sa smetnjama u razvoju "Tisa" ("Sl. list CG-Opštinski propisi" br. 29/08) i člana 34 stav 1 tačka 2 Statuta opštine Bijelo Polje ("Sl. list RCG - Opštinski propisi" br. 25/04 i 33/06 i "Sl. list CG-Opštinski propisi" br. 18/10 i 32/13), Skupština opštine Bijelo Polje, na sjednici održanoj 30.04. i 14.05.2015. godine, donijela je
+O D L U K U
