@@ -1,0 +1,21 @@
+# Član 2
+Specijalističke jedinice, u skladu sa planovima za zaštitu i spašavanje i u zavisnosti od razvoja događaja na terenu, upotrebljavaju se za sprovođenje zaštite i spašavanja, a naročito za:
+- spašavanje ljudi, životinja i materijalnih i kulturnih dobara na rijekama, jezerima i poplavljenim područjima;
+- evakuaciju ljudi, životinja i materijalnih dobara preko rijeka, jezera i sa poplavljenih područja;
+- traganje za utopljenicima i njihovo vađenje iz rijeka, jezera, bunara i sa poplavljenih područja;
+- sprovođenje aktivnosti u cilju otkrivanja i sprječavanja zagađenja voda;
+- preduzimanje aktivnosti na spašavanju ljudi od nesreća na planinama, iz sniježnih lavina, jama, pećina, kanjona, rudarskih jama i sličnih mjesta;
+- traganje za izgubljenim licima;
+- traganje za nestalim vazduhoplovima;
+- prenošenje povrijeđenih i oboljelih lica sa nepristupačnih terena;
+- spašavanje ljudi, životinja i materijalnih dobara u urbanim sredinama, na visokim objektima, u tunelima i sličnim nepristupačnim objektima i mjestima;
+- otkrivanje, pronalaženje i spašavanje ljudi i životinja zatrpanih u ruševinama i ugroženih i nastradalih iz oštećenih objekata;
+- pretraživanje i pronalaženje zatrpanih i nastradalih ljudi i životinja u ruševinama sa psima tragačima;
+- raščišćavanje ruševina;
+- pružanje prve pomoći;
+- pripremu objekata i prostorija u javnoj upotrebi za potrebe zbrinjavanja;
+- dopremanje i distribuciju hrane, vode, sredstava za higijenu i dr.;
+- skladištenje hrane i odjeće za humani život stanovništva i životinja;
+- uspostavljanje radio-veza;
+- asanaciju terena; i
+- druge zadatke, u skladu sa raspoloživim ljudskim i materijalno-tehničkim resursima.
