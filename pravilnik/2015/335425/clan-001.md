@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se sadržaj i način vođenja evidencija koje, u skladu sa Zakonom o eksplozivnim materijama, vode Ministarstvo unutrašnjih, privredno društvo koje proizvodi eksplozivne materije, privredno društvo koje proizvodi eksplozivne materije na mjestu upotrebe, privredno društvo, drugo pravno lice i preduzetnik koji vrše promet, nabavku i/ili upotrebljavaju eksplozivne materije.
