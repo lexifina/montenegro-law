@@ -1,0 +1,2 @@
+# Član 3
+U članu 9 riječi: "najbolji ponuđeni indeks stepena zaštite životne sredine, odnosno najbolji indeks efekta energetske efikasnosti podijeli sa ponuđenim indeksom stepena zaštite životne sredine, odnosno ponuđenim indeksom efekta energetske efikasnosti", zamjenjuju se riječima: "ponuđeni indeks stepena zaštite životne sredine, odnosno ponuđeni indeks efekta energetske efikasnosti podijeli sa najboljim ponuđenim indeksom stepena zaštite životne sredine, odnosno najboljim ponuđenim indeksom efekta energetske efikasnosti".
