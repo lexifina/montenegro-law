@@ -1,0 +1,2 @@
+# Član 2
+Drugi suosnivač Društvo za konsalting i menadžement " MEDITERAN WTE " d.o.o. Budva , donio je Odluku o pokretanju skraćenog postupka likvidacije ovog društva, broj Br C 159/2015 od 27.01.2015.godine, ovjerenu pred izabranim notarom dana 30.04.2015.godine , čiji je sastavni dio Izjava br..No.C 162/2015 d 27.01.2015.godine, ovjerenu pred izabranim notarom dana 30.04.2015.godine da su neograničeno solidarno odgovorni za obeveze društva tri godine nakon brisanja iz Centraslnog registra privrednih subjekata u Podgorici.
