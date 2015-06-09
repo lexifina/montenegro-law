@@ -1,0 +1,2 @@
+Na osnovu člana 63 stav 4 Zakona o prevozu u drumskom saobraćaju ("Službeni list RCG", broj 45/04 i "Službeni list CG" 75/10, 38/12 i 18/14), člana 4 Zakona o izmjenama i dopunama Zakona o prekršajima ("Službeni list CG", broj 01/11, 06/11, 33/11 i 32/14) i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", broj 19/10), Skupština Opštine Budva, na sjednici održanoj 18., 19. i 25. maja 2015.godine, donijela je
+ODLUKU

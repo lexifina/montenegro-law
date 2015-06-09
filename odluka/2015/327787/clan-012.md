@@ -1,0 +1,2 @@
+# Član 12
+Vlasnici licenci i izvoda iz licenci dužni su da u roku 30 dana od dana stupanja na snagu ove Odluke dostavi dokaze ( osim uvjerenja predviđenog članom 9 stav 1 alineja 5 ove Odluke) kojima potvrđuje da ispunjava uslove za dobijanje licence odnosno izvoda iz licence, te ukoliko isto ne učine u ostavljenom roku nadležni organ će u smislu člana 22 Zakona o prevozu u drumskom saobraćaju ("Službeni list RCG", broj 45/05 i "Službeni list CG", broj 75/10 i 38/12) donijeti Rješenje kojim se ukida licenca.
