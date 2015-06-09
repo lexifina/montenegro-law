@@ -1,0 +1,2 @@
+Na osnovu člana 24 a. i člana 79.Zakona o privrednim društvima Crne Gore ("Službeni list RCG", broj 06/02 i "Službeni list CG", broj 17/07, 80/08 40/10, 36/11 i 40/11), člana 40 Statuta opštine Budva ("Službeni list CG - Opštinski propisi", broj 19/10) i člana 6. i 17. Odluke o osnivanju " Budva Holding" doo i člana 11 i 19 Statuta "Budva Holding"doo Budva Skupština opštine Budva, na sjednici održanoj 18, 19 i 25. maja 2015.godine, donijela je
+ODLUKU
