@@ -1,0 +1,2 @@
+Na osnovu člana 1. stav 3. Zakona o administrativnim taksama, ("Sl. list RCG br:55/03, 46/04, 81/05, 02/06 i Sl. CG br: 22/08, 77/08, 03/09, 40/10, 73/10, 20/11, 26/11, 56/13 i 45/14"), člana 51. Zakona o lokalnoj samoupravi, ("Sl. list CG" br.42/03, 28/04, 75/05 i "Sl. list CG" 13/05, 88/09, 03/10, 73/10, 38/12 i 10/14) i člana 30. tačka 9. Statuta Opštine Kotor ("Sl. list Opštine Kotor" br. 03/04 i "Sl. list CG-opštinski propisi" br. 17/08, 31/09, 40/10 i 04/11), Skupština Opštine Kotor na sjednici održanoj dana 15. 04. 2015.god, donijela je
+ODLUKU
