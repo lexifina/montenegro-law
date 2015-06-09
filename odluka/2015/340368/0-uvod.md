@@ -1,0 +1,2 @@
+Na osnovu člana 13 stav 1 alineja 1 Odluke o osnivanju Javne ustanove Dnevni centar za djecu sa smetnjama u razvoju "Tisa" ("Sl. list CG-Opštinski propisi" br. 29/08) i člana 34 stav 1 tačka 37 Statuta opštine Bijelo Polje ("Sl. list RCG-Opštinski propisi" br. 25/04 i 33/06 i "Sl. list CG-Opštinski propisi" br. 18/10 i 32/13), Skupština opštine Bijelo Polje, na sjednici održanoj dana 30.04. i 14.05.2015. godine, donijela je
+O D L U K U
