@@ -1,0 +1,2 @@
+# Član 2
+Komisija vrši poslove u skladu sa Zakonom o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 34/11, 35/13 i 33/14), Zakonom o autoputu Bar - Boljare ("Službeni list CG", broj 52/14), Pravilnikom o načinu vršenja tehničkog pregleda ("Službeni list CG", br. 33/09 i 57/13 ), Ugovorom o projektovanju i izgradnji autoputa Bar-Boljare, dionice: Smokovac-Uvač-Mateševo ("Službeni list CG", broj 54/14) i ovom odlukom.
