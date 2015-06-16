@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi (»Sl. list RCG« broj 42/03, 28/04, 75/05, 13/06 »Sl. list Crne Gore« broj 88/09, 03/10, 73/10, 38/12, 10/14), člana 14 stav 3 Odluke o privremenim objektima na teritoriji Opštine Tivat ("Sl.list Crne Gore - Opštinski propisi", broj 18/14) i člana 31 Statuta opštine Tivat (»Sl. list RCG - Opštinski propisi«, broj 40/04 i 26/06, i »Sl. list CG - Opštinski propisi« broj 12/11, 21/11, 03/13), Skupština Opštine Tivat, na sjednici održanoj dana 26.05.2015. godine donijela je
+ODLUKU
