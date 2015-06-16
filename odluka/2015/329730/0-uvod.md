@@ -1,0 +1,3 @@
+Na osnovu člana 117 stav 1 tačka 3 i stav 3 Zakona o uređenju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 51/08, 40/10, 34/11, 35/13 i 33/14) i člana 31 Statuta Opštine Tivat ( "Službeni list RCG - Opštinski propisi", broj 40/04 i 26/06 i "Službeni list Crne Gore - Opštinski propisi", broj 12/11, 21/11 i 03/13) Skupština Opštine Tivat, na sjednici održanoj dana 26.05.2015. godine donijela je
+O D L U K U
+o dopunama Odluke o postavljanju odnosno građenju i uklanjanju pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom na teritoriji Opštine Tivat
