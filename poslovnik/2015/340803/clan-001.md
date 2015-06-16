@@ -1,0 +1,2 @@
+# Član 1
+Ovim Poslovnikom se, u skladu sa Zakonom i Statutom opštine uređuje postupak konstituisanja Skupštine opštine, organizacija i način rada Skupštine opštine (u daljem tekstu: Skupština), prava i dužnosti odbornika i način njihovog ostvarivanja, sazivanje sjednice, akti Skupštine i postupak za njihovo donošenje, javnost rada, ostvarivanje saradnje, način i postupak učešća zainteresovanih građana i nevladinih organizacija u radu Skupštine, i druga pitanja od značaja za rad Skupštine.

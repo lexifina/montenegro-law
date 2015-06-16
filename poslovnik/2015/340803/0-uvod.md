@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 20 Zakona o lokalnoj samoupravi ("Sl.list RCG", br.42/03, 28/04, 75/05 i 13/06 i "Sl..list CG", br. 88/09, 3/10, 38/12 i 10/14), člana 31 stav 1 tačka 24 Statuta opštine Šavnik ("Sl.list RCG-Opštinski propisi", br.36/04 i "Sl.list-Opštinski propisi", br.24/08 i 36/10), Skupština opštine Šavnik, na sjednici održanoj 29.05.2015.godine donijela je
+P O S L O V N I K
+Skupštine Opštine Šavnik
