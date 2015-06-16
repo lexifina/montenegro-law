@@ -1,0 +1,2 @@
+Na osnovu člana 45. stav 1. tačka 2. čl. 51. st. 3, а u vezi sa čl. 3. stav 1. tačka 26. Zakona o lokalnoj samoupravi (" Sl.list RCG br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG" br. 88/2009, 3/2010, 38/2012, 10/2014 i 57/2014), člana 34. stav 1. tačka 32. Statuta Opštine Pljevlja ("Sl. list RCG - opštinski propisi", br. 37/04, 30/07 i "Sl. List C.Gore - Opštinski propisi" br. 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici održanoj 28.05. 2015. godine, donijela je:
+ODLUKU
