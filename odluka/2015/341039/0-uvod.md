@@ -1,0 +1,2 @@
+Na osnovu člana 117 stav 1 tačka 2 i stav 3 Zakona o uređenju prostora i izgradnji objekata ("Sl.list CG", br. 51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14) i člana 38 tačka 2 Statuta opštine Žabljak ("Sl.list RCG-Opštinski propisi", br. 9/05, 23/07 i "Sl.list CG-Opštinski propisi", br. 3/11 i 7/14), Skupština opštine Žabljak na sjednici održanoj dana 28.05.2015.godine, d o n i j e l a je
+O D L U K U
