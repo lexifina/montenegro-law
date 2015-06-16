@@ -1,0 +1,2 @@
+Na osnovu člana 13 i člana 14 Odluke o postavljanju, građenju i uklanjanju privremenih objekata montažnog karaktera na teritoriji opštine Žabljak ("Sl.list CG"-Opštinski propisi", br. 2/15 i 6/15) i člana 38 tačka 26 Statuta Opštine Žabljak ("Sl.list RCG- Opštinski propisi", br. 9/05 i 23/07 i "Sl.list CG- Opštinski propisi", br. 3/11 i 7/14), Skupština opštine Žabljak, na sjednici održanoj dana 28.05.2015. godine, donijela je
+O D L U K U
