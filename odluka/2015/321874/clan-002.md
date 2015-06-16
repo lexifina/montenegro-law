@@ -1,0 +1,3 @@
+# Član 2
+Član 14. mijenja se i glasi:
+Upogledu primjene ove Odluke na osnovu vodjenja baze podataka, nadležni organi Sekretarijat za planiranje, komunalne poslove, uredjenje prostora i zaštitu životne sredine, Sekretarijat za saobraćaj, putnu infrastrukturu i stambene poslove, Sekretarijat za ekonomski razvoj i preduzetništvo, Sekretarijat za poljoprivredu, turizam i vodoprivredu, Komunalna policija i drugi nadležni organi u skladu sa zakonom dostavljaju sve potrebne podatke, uključujući i podatke za komercijalne objekte za koje lokalna uprava ne izdaje odobrenje nadležnom organu za poslove javnih prihoda radi utvrdjivanja i naplate naknada.
