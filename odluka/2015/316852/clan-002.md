@@ -1,0 +1,4 @@
+# Član 2
+Radi unapređenja, zaštite, održavanja, prezentacije i popularizacije kotorskih bedema i tvrđave Sv. Ivan, kao dijela Područja Kotora, a u cilju očuvanja izuzetno univerzalne vrijednosti ovog kulturnog dobra, kao dijela prirodne i svjetske kulturne baštine, za upravljanje ovim kulturnim dobrom određuju se Direkcija za uređenje i izgradnju Kotora (u daljem tekstu Direkcija), i Turistička organizacija Kotor.
+Direkcija je dužna starati se o zaštiti, očuvanju integriteta navedenog kulturnog dobra, održavanju i sanaciji eventualnih oštećenja, obezbjeđenju uslova da shodno svojoj namjeni služi za zadovoljavanje kulturnih, naučnih i edukativnih potreba, posjeta od strane građana i turista i vrši naplatu naknade u te svrhe.
+Turistička organizacija Kotor je dužna starati se o prezentaciji i popularizaciji navedenog kulturnog dobra (izradom publikacija o kulturnom dobru; razvojem kulturnog turizma i sl).
