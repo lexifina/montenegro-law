@@ -1,0 +1,2 @@
+Na osnovu članova 45 i 58 Zakona o lokalnoj samoupravi ("Sl.list RCG" br: 42/03, 28/04, 75/05, 13/06, i "Sl.list CG" br. 88/09, 3/10 73/10, 38/12 i 10/14), člana 36 stav 1 i člana 60 Statuta Opštine Herceg Novi ("Sl.list RCG-Opštinski propisi" br. 15/04, 32/05, 31/06 i 14/07, i "Sl.list CG-Opštinski propisi" br. 16/09 i 16/11) Skupština opštine Herceg Novi na sjednici održanoj 11.06.2015.godine, donosi
+O D L U K U
