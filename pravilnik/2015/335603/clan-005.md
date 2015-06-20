@@ -1,0 +1,3 @@
+# Član 5
+Prva unutrašnja strana legitimacije Vrhovnog državnog tužioca sadrži elemente iz člana 4 stav 1 ovog pravilnika, a druga unutrašnja strana legitimacije uz naznaku "Imunitet" sadrži i tekst koji glasi: "Vrhovni državni tužilac uživa imunitet. Vrhovni državni tužilac ne može biti pozvan na krivičnu ili drugu odgovornost ili pritvoren za izraženo mišljenje ili glasanje u vršenju svoje funkcije. Protiv Vrhovnog državnog tužioca ne može se pokrenuti krivični postupak, niti odrediti pritvor, bez odobrenja Skupštine, osim ako je zatečen u vršenju krivičnog djela za koje je propisana kazna u trajanju dužem od pet godina zatvora."
+Unutrašnje strane legitimacije Vrhovnog državnog tužioca date su na obrascu koji je sastavni dio ovog pravilnika (Obrazac 3).
