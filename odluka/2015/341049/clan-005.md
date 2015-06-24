@@ -1,0 +1,2 @@
+# Član 5
+Prava i obaveze u vezi naknade za komunalno opremanje građevinskog zemljišta urediće se posebnim ugovorom koji će se zaključiti u roku od 30 (trideset) dana od dana zaključenja ugovora o prodaji zemljišta, a u skladu sa Odlukom o naknadi za uređivanje građevinskog zemljišta, nakon čega kupac stiče pravo na upis svojine na nepokretnosti.

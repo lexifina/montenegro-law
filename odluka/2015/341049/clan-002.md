@@ -1,0 +1,2 @@
+# Član 2
+Katastarska parcela br. 2976/3 KO Mišići prodaje se Lyapin Andrey Petroviču, iz Sankt Peterburga Ruska Federacija i služi za kompletiranje urbanističke parcele UP 758a u zoni »c«, podzona »C1«, po DUP-u »Sutomore-centar«, čiji veći dio čini kat. parcele. br. 3100 i 3101/2 KO Mišići, svojina imenovanog u obimu prava 1/1, a sve u skladu sa DUP-om »Sutomore - centar« (»Sl.list CG-Opštinski propisi«, br.40/12).
