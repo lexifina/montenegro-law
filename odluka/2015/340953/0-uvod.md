@@ -1,0 +1,2 @@
+Na osnovu člana 117 stav 1 tačka 1 i stava 3 Zakona o uređenju prostora i izgradnji objekata ("Sl.list CG", broj 51/08, 40/10,3 4/11, 47/11, 35/13, 39/13, 33/14) i člana 2 i 8 Zakona o izmjenama i dopunama Zakona o prekršajima (»Sl.list CG« broj 1/11, 6/11, 39/11 i 32/14) i člana 41 Statuta Opštine Bar ("Sl.list RCG-Opštinski propisi", broj 6/11) Skupština Opštine Bar , na VII sjednici održanoj 25. maja 2015. godine, donijela je
+O D L U K U
