@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 Zakona o socijalnom stanovanju ("Službeni list CG", br.35/13), člana 45 stav 1 tačka 3 Zakona o lokalnoj samoupravi ("Službeni list RCG", br.42/03, 28/04, 75/05, 13/06, "Službeni list CG", br.88/09, 03/10, 73/10, 38/12, 10/14) i člana 63 stav 1 tačka 3 Statuta Prijestonice ("Službeni list Crne Gore-Opštinski propisi", br.19/09, 37/10, 26/13, 39/14), uz saglasnost Ministarstva održivog razvoja i turizma, broj 08-78/16 od 02.03.2015. godine, Skupština Prijestonice na sjednici održanoj dana, 29.05.2015. godine, donijela je
+O D L U K U
