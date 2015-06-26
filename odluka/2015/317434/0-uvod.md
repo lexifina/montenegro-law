@@ -1,0 +1,2 @@
+Na osnovu člana 65 Zakona o visokom obrazovanju ("Službeni list CG", broj 44/14), a na prijedlog Upravnog odbora Univerziteta Crne Gore, broj 01-1576/1 od 12. juna 2015. godine, Vlada Crne Gore, na sjednici od 18.juna 2015. godine, donijela je
+O D L U K U O BROJU STUDENATA ZA UPIS U PRVU GODINU OSNOVNIH STUDIJA UNIVERZITETA CRNE GORE ZA STUDIJSKU 2015/2016. GODINU KOJI SE FINANSIRAJU IZ BUDŽETA CRNE GORE
