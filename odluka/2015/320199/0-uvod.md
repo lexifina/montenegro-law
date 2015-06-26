@@ -1,0 +1,2 @@
+Na osnovu člana 40 stav 2 tačka 3 Zakona o državnoj imovini (Sl. list CG", broj 21/09 i 40/11), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ( "Sl. list RCG", broj 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", broj 88/09, 3/10 i 38/12) i člana 44 stav 1 tačka 10 Statuta Opštine Mojkovac ("Sl.list CG-opštinski propisi", broj 31/10 i 26/12), Skupština opštine Mojkovac, na sjednici održanoj 25.06.2015 godine, donijela je
+O D L U K U
