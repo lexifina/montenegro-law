@@ -1,0 +1,3 @@
+# Član 12
+Obrazac uvjerenja o osposobljenosti za vršenje poslova utovara i istovara opasnih materija je dimenzija 210 x 297 mm i sadrži: Grb Crne Gore, nazive: ,,CRNA GORA" i ,,MINISTARSTVO UNUTRAŠNJIH POSLOVA", naziv: ,,UVJERENJE O OSPOSOBLJENOSTI ZA VRŠENJE POSLOVA UTOVARA I ISTOVARA OPASNIH MATERIJA", lično ime, jedinstveni matični broj, dan, mjesec i godinu rođenja kandidata, datum polaganja ispita, klasu/e opasne/ih materija za koju je osposobljen, datum prestanka važenja uvjerenja, broj, mjesto i datum izdavanja uvjerenja i mjesta za pečat i potpis ovlašćenog lica.
+Obrazac uvjerenja iz stava 1 ovog člana sastavni je dio ovog pravilnika.
