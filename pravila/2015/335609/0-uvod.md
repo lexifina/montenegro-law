@@ -1,0 +1,2 @@
+Na osnovu člana 18 tačka 1 Statuta Regulatorne agencije za energetiku (''Službeni list Crne Gore'', broj 7/11), a u vezi primjene člana 40 stav 2 tačka 5 i člana 51 stav 3 tačka 3 Zakona o energetici (''Službeni list Crne Gore'', br. 28/10, 42/11, 6/13 i 10/15), Odbor Agencije, na sjednici od 19.06.2015. godine, donio je
+P R A V I L A O IZMJENAMA I DOPUNAMA PRAVILA O ODOBRAVANJU NAKNADE ZA RAD OPERATORA TRŽIŠTA ELEKTRIČNE ENERGIJE
