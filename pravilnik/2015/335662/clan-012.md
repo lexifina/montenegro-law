@@ -1,0 +1,3 @@
+# Član 12
+Obrazac uvjerenja o osposobljenosti za bezbjednost u prevozu opasnih materija je dimenzija 210 x 297 mm, bijele boje i sadrži: Grb Crne Gore, na crnogorskom i engleskom jeziku nazive: ,,CRNA GORA" i ,,MINISTARSTVO UNUTRAŠNJIH POSLOVA", naziv: ,,Uvjerenje o osposobljenosti za bezbjednost u prevozu opasnih materija", broj uvjerenja, državnu oznaku Crne Gore, prezime, ime, datum i mjesto rođenja, državljanstvo, potpis lica kome je izdato uvjerenje, datum prestanka važenja uvjerenja za vrstu prevoza za koje se izdaje uvjerenje (drumski, željeznički prevoz), mjesto i datum izdavanja uvjerenja i mjesta za pečat i potpis ovlašćenog lica.
+Obrazac uvjerenja iz stava 1 ovog člana sastavni je dio ovog pravilnika.

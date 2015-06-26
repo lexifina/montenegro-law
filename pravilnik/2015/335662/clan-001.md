@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se bliži način organizovanja i sprovođenja provjere znanja lica zaduženog za bezbjednost prevoza opasnih materija u drumskom i željezničkom saobraćaju (u daljem tekstu: savjetnik za bezbjednost), obrascu uvjerenja o osposobljenosti za bezbjednost u prevozu opasnih materija, kao i način i postupak priznanja uvjerenja o osposobljenosti za bezbje dnost u prevozu opasnih materija koje je izdao nadležni organ druge države.
