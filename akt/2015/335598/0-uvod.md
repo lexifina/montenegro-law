@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 1 alineja 1 Zakona o energetici (''Službeni list CG'' br. 28/10, 42/11, 6/13 i 10/15) i člana 18 stav 1 tačka 1 Statuta Regulatorne agencije za energetiku (''Službeni list CG'', broj 7/11), Odbor Agencije, na sjednici održanoj 19.06 2015. godine, utvrdio je
+M E T O D O L O G I J U O IZMJENAMA I DOPUNAMA METODOLOGIJE ZA UTVRĐIVANJE REGULATORNOG PRIHODA I CIJENA ZA KORIŠĆENJE DISTRIBUTIVNOG SISTEMA ELEKTRIČNE ENERGIJE
