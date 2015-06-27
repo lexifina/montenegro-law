@@ -1,0 +1,3 @@
+# Član 3
+Opština Kotor dužna je da na ime otkupa zemljišta iz člana 1. ove Odluke, vlasniku ukupno isplatiti iznos od 53.390,36 eura.
+Isplata iznosa iz stava 1.ovog člana izvršiće se kompenzacijom, na teret dijela naknade za komunlno opremanje građevinskog zemljišta, koju investitor "Iso Building" d.o.o. Budva, treba da plati shodno Ugovoru o naknadi za komunalno opremanje građevinskog zemljišta br. 02-2067 od 29.04.2015.god., za izgradnju poslovno-proizvodnog objekta na UP 24, koja obuhvata kat parc. 502,503,504 i 508, sve KO Kubasi, zaključenog između Direkcije za uređenje i izgradnju Kotora i "Iso Building" d.o.o. Budva.
