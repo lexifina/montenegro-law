@@ -1,0 +1,3 @@
+# Član 5
+Za predmetni plan radiće se strateška procjena uticaja na životnu sredinu obzirom da je poluostrvo Luštica jedinstveni predio sa očuvanom makijom, da se radi o pretežno neizgrađenom prostoru za koji je potrebno dati dalju razradu namjene prostora definisane Prostornim Planom Opštine, te što za planske dokumente širih teritorijalnih cjelina ovog područja shodno ranijoj zakonskoj regulativi nije sproveden postupak strateške procjene.
+Kako se predmetnim planom ne predviđaju aktivnosti koje prouzrokuju ozbiljna zagađenja, te kako negativni uticaji nisu prekogranične prirode, strateškom procjenom nije potrebno razmatrati uticaj plana na prekogranične standarde kvaliteta životne sredine.

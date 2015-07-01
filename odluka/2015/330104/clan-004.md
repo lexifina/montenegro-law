@@ -1,0 +1,2 @@
+# Član 4
+Strateškom procjenom biće razmatrani uslovi i mjere zaštite vazduha, mjere zaštite površinskih i podzemnih voda, mjere zaštite od buke, zaštita zemljišta, zaštita predjela, flore i faune i očuvanje staništa i biodiverziteta, zaštita prirodnih i kulturnih vrijednosti, mjere zaštite u slučaju akcidentnih situacija, uticaji na zdravlje ljudi, kao i sva druga pitanja i problemi koji se ocjene kao značajni za predmetno područje.
