@@ -1,0 +1,2 @@
+Na osnovu člana 63 stav 4 Zakona o prevozu u drumskom saobraćaju ("Sl. list RCG", br. 45/05 i "Sl. list CG", br. 75/10, 38/12), člana 70 stav 2 Statuta Opštine Budva ("Sl. list Crne Gore - Opštinski propisi " broj 19/10) i Odluke o organizaciji i načinu obavljanja auto-taksi prevoza na teritoriji Opštine Budva ("Sl. list Crne Gore - Opštinski propisi" br. 10/13, 25/13, 15/14 i 17/15), Predsjednik Opštine Budva donosi
+O D L U K U
