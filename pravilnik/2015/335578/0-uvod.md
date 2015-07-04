@@ -1,0 +1,2 @@
+Na osnovu člana 22 stav 2, člana 27 stav 6 i člana 31 stav 5 Zakona o radnom vremenu i pauzama u toku radnog vremena mobilnih radnika i uređajima za evidentiranje u drumskom pre- vozu ("Službeni list CG", broj 75/10), Ministarstvo unutrašnjih poslova, uz saglasnost Ministarstva saobraćaja i pomorstva, donijelo je
+P R A V I L N I K O USLOVIMA U POGLEDU PROSTORA, OPREME I ALATA RADIONICE ZA TAHOGRAFE
