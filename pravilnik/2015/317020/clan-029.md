@@ -1,0 +1,8 @@
+# Član 29
+Naziv pod kojim se stona voda stavlja na tržište je »stona voda«, a u slučaju dodavanja CO2, »stona voda s ugljen dioksidom«, »gazirana stona voda«, »soda voda« ili drugi opisni ili uobičajeni naziv.
+Stona voda koja sadrži dodate materije tehnološke obrade može da bude označena navodom »sadrži…mg/l dodatog…«, a ako je u stonu vodu dodato više različitih supstanci, tada se ista označava navodom: »sadrži sljedeće dodate supstance (mg/l): …,…,…«.
+Nije dozvoljeno prilikom informisanja, označavanja, reklamiranja i prezentacije odnosno informisanja potrošača, korišćenje trgovačkih naziva, žigova, naziva marki proizvoda, slikovnih prikaza ili drugih oznaka koje bi, u slučaju vode u ambalaži, koja ne ispunjava zahtjeve za stonu vodu propisane ovim pravilnikom, mogle da stvore zabunu u vezi sa stonom vodom, a posebno navode koji upućuju na prirodnu mineralnu ili izvorsku vodu, (npr. riječi »kisjela voda«, »prirodna mineralna voda«, »mineral«, »izvorska voda«, »izvor«, »vrelo«, »prirodna« ili bilo koje druge izvedene riječi).
+Nije dozvoljeno označavanje stone vode na način koji vodi pripisuje svojstva koja se odnose na prevenciju ili liječenje bolesti.
+Stona voda koja je podvrgnuta obradi vazduhom obogaćenim ozonom treba da uključi neposredno pored izjave o hemijskom sastavu, i navod »voda podvrgnuta odobrenom postupku obrade vazduhom obogaćenim ozonom«.
+Stona voda koja je podvrgnuta obradi uklanjanja fluorida treba da uključi, neposredno pored izjave o hemijskom sastavu, i navod "voda podvrgnuta odobrenoj adsorpcijskoj tehnici".
+Kod naziva proizvoda naziv hemijskog jedinjenja »ugljen dioksid« može da bude zamijenjen hemijskom formulom »CO2«.

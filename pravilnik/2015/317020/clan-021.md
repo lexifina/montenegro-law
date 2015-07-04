@@ -1,0 +1,2 @@
+# Član 21
+Ukoliko se tokom eksploatacije prirodne mineralne vode iz izvora utvrdi da je voda zagađena i da odstupa od mikrobioloških kriterijuma iz Priloga 1 (tačka c) i Priloga 2 (Tabela 1), subjekat u poslovanju s hranom koji eksploatiše i koristi vodu iz izvora, treba da odmah obustavi sve aktivnosti, a posebno proces punjenja vode u ambalažu, dok uzrok zagađenja ne bude otklonjen, a voda ne bude u skladu sa odredbama čl.16 i 17 ovog pravilnika.
