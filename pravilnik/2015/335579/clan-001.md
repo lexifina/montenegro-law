@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se mjerila za utvrđivanje posebne psihofizičke sposobnosti za zasnivanje radnog odnosa u zvanju policijskog službenika na određenom radnom mjestu (u daljem tekstu: posebna psihofizička sposobnost) i psihofizičke sposobnosti policijskog službenika za dalje obavljanje poslova, kao i sastav i način rada zdravstvene komisije za utvrđivanje posebne psihofizi- čke sposobnosti za zasnivanje radnog odnosa u zvanju policijskog službenika i utvrđivanje opšte zdravstvene i psihofizičke sposobnosti policijskog službenika za dalje obavljanje poslova.
