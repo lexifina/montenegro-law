@@ -1,0 +1,4 @@
+# Član 4
+U Prilogu 1, u Poruci SMT 740, u uvodnoj rečenici riječi: "pravnih lica i preduzetnika", zamjenjuju se riječima: "pravnih lica, preduzetnika i fizičkih lica".
+U Prvom dijelu ove poruke, u polju: "40", u koloni: "Element poruke" u stavu 1 poslije riječi: "preduzetnika", dodaju se riječi: "ili JMB fizičkog lica", a u stavu 2 poslije riječi: "preduzetnika", dodaju se riječi: "i fizičkih lica".
+U Drugom dijelu ove poruke, u polju: "74010", u koloni: "Element poruke" poslije riječi: "preduzetnika", dodaju se zarez i riječi: "odnosno ime i prezime fizičkog lica", u polju: "74020", u koloni: "Element poruke" poslije riječi: "Mjesto", dodaju se riječi: "sjedišta pravnog lica ili preduzetnika, odnosno prebivališta fizičkog lica", a u u polju: "74030", u koloni: "Napomena" dodaje se nova alineja 4, koja glasi: " - oznaka "3" - fizičko lice".
