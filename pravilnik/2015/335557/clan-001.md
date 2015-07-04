@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se bliži sadržaj obavještenja koje proizvođač i distributer dostavljaju nadležnom organu nadzora na tržištu, ako na osnovu raspoloživih informacija i profesionalnog znanja i iskustva zna ili bi trebalo da zna da je proizvod koji je isporučio na tržište opasan, odnosno ocijeni da takav proizvod predstavlja ozbiljan rizik (u daljem tekstu: obavještenje o opasnom proizvodu).
