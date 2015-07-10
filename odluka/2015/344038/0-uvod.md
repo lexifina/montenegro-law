@@ -1,0 +1,2 @@
+Na osnovu člana 57. stav 1. tačka 9. i člana 58 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list CG", broj 88/09) i člana 59. stav 2. al. 9. i člana 60 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br. 42/03, 15/04, 32/05, 31/06, 14/07, "Sl. list Crne Gore-Opštinski propisi", br. 16/09 i 16/11), predsjednik Opštine Herceg Novi, dana 10. 07. 2015. godine, donosi
+O D L U K U
