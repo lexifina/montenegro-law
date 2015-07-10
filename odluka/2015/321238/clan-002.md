@@ -1,0 +1,2 @@
+# Član 2
+DOO ''Komunalno Kotor'' Kotor, se obavezuje da obavljanje djelatnosti upravljanja parkingom ''Puč'', kao djelatnost od javnog interesa vrši u skladu sa Zakonom o komunalnim djelatnostima ("Službeni list RCG", br. 12/95), odredbama Odluke o uređenju grada i naselja Opštine Kotor ("Sl. list Opštine Kotor" br. 02/06 i "Sl. list CG - Opštinski propisi", br. 5/09 i 14/12), propisima iz oblasti bezbjednosti saobraćaja i odredbama ove Odluke.
