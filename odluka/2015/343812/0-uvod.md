@@ -1,0 +1,2 @@
+Na osnovu člana 51 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09), člana 9 Zakona o bezbjednosti saobraćaja na putevima ("Sl. list CG", broj 33/12), člana 36 stav 1 tačka 3 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", broj 15/04, 32/05, "Sl. list RCG - Opštinski propisi" 31/06, 14/07, "Sl.list CG-Opštinski propisi" br.16/09 i 16/11), Skupština opštine Herceg Novi, na sjednici održanoj 26.06.2015. godine, donosi
+ODLUKU
