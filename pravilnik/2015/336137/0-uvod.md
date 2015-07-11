@@ -1,0 +1,6 @@
+Na osnovu člana 58 stav 2 Zakona o ljekovima ("Službeni list CG", br. 56/11 i 6/13), Ministarstvo zdravlja donijelo je
+PRAVILNIK
+O OBRASCU I SADRŽINI RECEPTA, KRITERIJUMIMA ZA KLASIFIKACIJU LJEKOVA,
+KAO I NAČINU PROPISIVANJA I IZDAVANJA LJEKOVA
+I.
+OSNOVNE ODREDBE
