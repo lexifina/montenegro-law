@@ -1,0 +1,4 @@
+# Član 16
+## Ograničavanje lične pokretljivosti
+Diskriminacijom po osnovu invaliditeta smatra se ograničavanje lične pokretljivosti uskraćivanjem ili ograničavanjem dostupnosti kvalitetnih i savremenih pomagala koja u najvećoj mogućoj mjeri omogućavaju ličnu pokretljivost lica sa invaliditetom, u skladu sa propisima kojima se uređuje zdravstvena zaštita i zdravstveno osiguranje.
+Dostupnost pomagala iz stava 1 ovog člana licu sa invaliditetom, pod drukčijim ili nepovoljnijim uslovima od uslova pod kojima su ta pomagala dostupna drugim licima sa invaliditetom, zbog njegovog ličnog svojstva (pola, imovnog stanja, nacionalne pripadnosti i dr.) smatra se diskriminacijom lica sa invaliditetom po drugom osnovu, osim ako bi obezbjeđivanje takvog pomagala ugrozilo život ili zdravlje tog ili drugog lica.

@@ -1,0 +1,4 @@
+# Član 26
+## Diskriminacija u oblasti kulture
+Nepristupačnost kulturnih dobara i aktivnosti licu ili grupi lica sa invaliditetom, onemogućavanje, ograničavanje ili otežavanje licu ili grupi lica sa invaliditetom da se bave kulturnim i umjetničkim radom, nesprovođenje propisa, odnosno nepreduzimanje posebnih mjera iz člana 5 stav 1 ovog zakona za podsticanje razvoja i korišćenja kulturnih, umjetničkih i intelektualnih potencijala lica ili grupe lica sa invaliditetom, u skladu sa propisima kojima se uređuje oblast kulture, smatra se diskriminacijom po osnovu invaliditeta.
+Diskriminacijom iz stava 1 ovog člana, smatra se i nepriznavanje kulturnog i jezičkog identiteta opštim ili pojedinačnim pravnim aktom, licu ili grupi lica sa invaliditetom, odnosno nepreduzimanje i nesprovođenje mjera za ostvarivanje tog identiteta u smislu propisa kojima se uređuje oblast kulture.

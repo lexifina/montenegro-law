@@ -1,0 +1,5 @@
+# Član 5
+## Propisi i posebne mjere
+Državni organi, organi državne uprave, organi jedinica lokalne samouprave, javna preduzeća i druga pravna lica koja vrše javna ovlašćenja (u daljem tekstu: organi), kao i druga pravna i fizička lica, u okviru svojih nadležnosti i ovlašćenja, dužni su da donose, odnosno uvode i sprovode propise i posebne mjere, koji su usmjereni na stvaranje uslova za ostvarivanje ravnopravnosti i zaštite lica sa invaliditetom, koja su po bilo kom osnovu u nejednakom položaju u odnosu na druga lica.
+Propisi i posebne mjere se donose, odnosno preduzimaju u oblasti: uređenja prostora i izgradnje objekata, informisanja, saobraćaja, vaspitanja i obrazovanja, zapošljavanja, rada, zdravlja, socijalne zaštite, kulture, javnog i političkog djelovanja, kao i u drugim oblastima društvenog života u kojima postoje razlozi za njihovo donošenje, odnosno uvođenje u smislu stava 1 ovog člana.
+Posebne mjere iz stava 1 ovog člana, primjenjuju se srazmjerno potrebama i mogućnostima i traju do ostvarenja ciljeva koji su tim mjerama utvrđeni.
