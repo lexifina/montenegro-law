@@ -1,0 +1,2 @@
+# Član 1
+Radi ostvarivanja principa učešća građana u ostvarivanju lokalne samouprave javnosti i transparentnosti rada organa lokalne samouprave, obezbjeđivanje odnosa i saradnje organa lokalne samouprave i građana , ovom odlukom uređuje se način i postupak učešća lokalnog stanovništva u vršenju javnih poslova, oblici i mehanizmi učešća, subjekti, mjere i aktivnosti koje preduzimaju organi opštine radi podsticanja i uključivanja gradjana u procese planiranja, donošenja odluka i u njihovoj implementaciji.

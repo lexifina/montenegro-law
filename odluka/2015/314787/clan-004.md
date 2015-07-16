@@ -1,0 +1,2 @@
+# Član 4
+U cilju boljeg razumijevanja razloga zašto se donosi konkretni akt organi opštine dužni su da prilagode formu akta, sadržaj rješenja i objašnjenja sa potrebama i mogućnostima učesnika, pravima i finansijskim obavezama koja se aktom predlažu, a naročito u odnosu na ustanovljena prava i obaveze, načinu izrade akta, učesnicima u postupku izrade akta, načinu podnošenja predloga, primjedbi, sugestija ili mišljenja na predoženi akt i o drugim pitanjima od značaja za uključivanje gradjana.

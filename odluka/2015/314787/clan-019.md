@@ -1,0 +1,3 @@
+# Član 19
+Na osnovu analize dobijenih podataka i informacija, nadležni organ lokalne uprave priprema prednacrt akta sa predlozima osnovnih i alternativnih rješenja od interesa za lokalno stanovništvo i dostavlja ga nadležnom organu radi utvrđivanja nacrta akta.
+U obrazloženju akta naročito se daju razlozi koji su bili opredjeljujući za obrađivača prilikom predlaganja rješenja, sa objašnjenjima novih rješenja, finansijskih efekata za građane, odnosno budžet opštine, njihovim prednostima u odnosu na postojeća rješenja i objašnjenjima kako se reflektuju na prava i obaveze gradjana i načinu za prevazilaženje potencijalnih problema koje predožene promjene izazivaju.

@@ -1,0 +1,3 @@
+# Član 12
+Organi opštine dužni su da primjenjuju razne oblike učešća mladih u procese planiranja i odlučivanja u opštini, uz konsultovanje sa njima i sa njihovim izabranim predstavnicima.
+Radi podrške aktivnostima organizacija i asocijacija mladih, ili u cilju njihovog udruživanja, organi opštine podsticaće rad ovih organizacija i asocijacija konkretnim mjerama i aktivnostima, kao što su : osnivanje centra za mlade ( ili savjetodavnih centara), planiranje slobodnog vremena mladih i društveno-kulturne aktivnosti, uspostavljanje saradnje sa školama, uključivanje mladih u programe stručnog osposobljavanja, podsticanje zapošljavanja , rješavanje smještajnih i stambenih potreba, uključivanje u rad parlamenta, prevencije u borbi protiv bolesti zavisnosti i sl.

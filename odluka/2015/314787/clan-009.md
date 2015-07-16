@@ -1,0 +1,2 @@
+# Član 9
+Organi opštine, podstiču učešće gradjana u javnom životu i putem drugih oblika, kao što su : organizovanje foruma potrošača i korisnika usluga, organizovanje tematskih ili foruma interesnih grupa ( lica sa posebnim potrebama, lica koja se nalaze u stanju socijalne potrebe i dr.), organizovanje tribina o specifičnim problemima i pitanjima nacionalnih i etničkih grupa, žena, omladine i djece, starih lica, penzionera kao i drugih zainteresovanih grupa,organizacija i udruženja.
