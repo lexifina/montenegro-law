@@ -1,0 +1,2 @@
+Na osnovu člana 28. Zakona o turističkim organizacijama (Sl. list CG br. 11/04, 46/07,73/10 i 40/11), člana 86. Odluke o osnivanju Turističke organizacije Opštine Petnjica ("Sl. list CG - opštinski propisi" broj 11/15) i člana 32. stav 1 tačka 45 Statuta Opštine Petnjica , ("Sl. list CG - opštinski propisi", broj 3/14 i 2/15), Skupština opštine Petnjica , na sjednici održanoj 30.06.2015 godine, donijela je
+ODLUKU
