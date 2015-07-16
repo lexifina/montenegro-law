@@ -1,0 +1,3 @@
+# Član 2
+Organi opštine dužni su da obezbijede da građani, pravna lica, nevladine organizacije i druge organizacije i zainteresovane grupe u opštini budu blagovremeno informisani o svim pitanjima koja su od značaja za njihov život i rad.
+Građani i subjekti iz stava 1 ovog člana imaju pravo da dobiju potrebne informacije radi njihovog uključivanja u faze predhodnog izjašnjavanja, a naročito u pripremi planova, programa razvoja, utvrđivanja investicione politike, kao i izradi i donošenju propisa i drugih akata kojima se utvrđuju prava i obaveze građana, o procedurama za ostvarivanje utvrđenih prava i izvršavanje obaveza kod organa opštine, kao i o drugim pitanjima koja su od interesa za ostvarivanje prava ili izvršavanje obaveza građana.

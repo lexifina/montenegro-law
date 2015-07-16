@@ -1,0 +1,3 @@
+# Član 20
+Na osnovu analize dobijenih podataka i informacija, nadležni organ lokalne uprave priprema nacrt akta sa predlozima osnovnih i alternativnih rješenja od interesa za lokalno stanovništvo i dostavlja ga Predsjedniku opštine radi utvrđivanja nacrta akta
+U obrazloženju nacrta akta naročito se daju razlozi koji su bili opredjeljujući za obrađivača prilikom predlaganja rješenja, objašnjenjima novih rješenja i njihovim prednostima u odnosu na postojeća rješenja, objašnjenjima kako se reflektuju na prava i obaveze građana i načinu za prevazilaženje potencijalnih problema koje mogu nastati usljed predloženih promjena, kao i finansijskim obavezama za građane, odnosno za budžet opštine.
