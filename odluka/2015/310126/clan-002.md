@@ -1,0 +1,5 @@
+# Član 2
+Izrada Plana se odnosi na prostor koji je omeđen granicama koje su date opisno.
+Plan obuhvata dio Mjesne zajednice Podbišće, omeđen magistralnim putem Podgorica - Bijelo Polje, sa druge strane željezničkom prugom Beograd - Bar i koritom rijeke Tare.
+Na sjeveru granica Plana počinje na osovini magistralnog puta Podgorica - Bijelo Polje, u visini katastarske parcele br. 282, zatim ka istoku granica prati regulaciju pristupne saobraćajnice (UP S-5) do granice sa katastarskom parcelom br. 334 a zatim sjevernim granicama katastarskih parcela br. 334, 335 i 336, zatim regulacijom novoplanirane saobraćajnice (UP S-7) do kp 971, pa južnim granicama parcela pruge Beograd - Bar (katastarske parcele br. 971 i 972), presjeca katastarske parcele br. 972 i ide do osovine magistralnog puta Podgorica - Bijelo Polje, u visini katastarske parcele br. 499/1. Od ove tačke, granica plana prati osovinu magistralnog puta Podgorica - Bijelo Polje i završava se u početnoj tački.
+Površina Plana je 57,03 ha.
