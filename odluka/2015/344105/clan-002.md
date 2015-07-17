@@ -1,0 +1,2 @@
+# Član 2
+Izrada Plana se odnosi na prostor koji je omeđen sa istočne strane granicom KO Budimlja i lokalnim putem ispod brda Jasikovac do raskrsnice sa ulicom koja veže Jasikovačko naselje sa mostom gde se nastavlja južna granica ulica do mosta, sa zapadne strane osovinom planirane regulacije rijeke Lima sa sjeverne strane magistralnim putem Berane-Rožaje. Granična ulica na južnoj strani plana ne ulazi u obuhvat plana a dio regionalnog puta je u zahvatu Plana.
