@@ -1,0 +1,15 @@
+# Član 5
+## Mjere koje se sprovode u slučaju potvrđivanja Njukastl bolesti na gazdinstvu
+(1) Ako je Njukastl bolest službeno potvrđena na gazdinstvu, službeni veterinar, pored mjera iz člana 4 stav 2 ovog pravilnika na zaraženom gazdinstvu, naređuje sprovođenje sljedećih mjera:
+1) usmrćivanje na licu mjesta sve živine na gazdinstvu, bez odlaganja i neškodljivo uništavanje i uklanjanje uginule ili usmrćene živine kao i svih jaja na način da se, što je više moguće, smanji opasnost od širenja boelsti;
+2) uništavanje i odgovarajuća obrada bilo kojih predmeta ili otpadaka, hrane za životinje, stelje ili đubriva koji mogu biti kontaminirani, pri čemu obrada treba da bude sprovedena u skladu sa uputstvom službenog veterinara i kojom se obezbijeđuje uništa- vanje virusa Njukastl bolesti;
+3) pronalaženje i neškodlivo uklanjanje mesa živine sa gazdinstva koja je zaklana tokom pretpostavljenog perioda inkubacije bolesti;
+4) pronalaženje i uništavanje priplodnih jaja koja su snešena tokom pretpostavljenog perioda inkubacije bolesti i koja su bila premještena sa gazdinstva, konzumnih jaja koja su snešena tokom pretpostavljenog perioda inkubacije bolesti i koja su bila premještena sa gazdinstva, osim ako prethodno nijesu bila na odgovarajući način dezinfikovana i pronalaženje živine koja se izlegla tokom perioda pretpostavljenog perioda inkubacije koja se stavlja pod službeni nadzor;
+5) čišćenje i dezinfekcija objekata za smještaj živine, njihove okoline, prevoznih sredstava koja se koriste pri prevozu opreme koja je mogla biti kontaminirana, nakon sprovođenja mjera iz tač. 1 i 2 ovog stava u skladu sa članom 10 ovog pravilnika;
+6) zabrana ponovnog uvođenja živine na gazdinstvo najmanje 21 dan poslije sprovođenja mjera iz tačke 5 ovog stava;
+7) sprovđenje epizootiološkog ispitivanja u skladu sa članom 7 ovog pravilnika.
+(2) Službeni veterinar može odrediti sprovođenje određenih mjera iz stava 1 ovog člana i na drugim gazdinstvima ukoliko njihov smještaj, međusobni položaj ili kontakt sa gazdinstvom na kojem je potvrđena Njukastl bolest ukazuju na mogućnost kontaminacije.
+(3) Kada se iz jata živine, koje ne pokazuje kliničke znake Njukastl bolesti, izoluje virus Njukastl bolesti koji ima indeks intracerebralni patogenosti (ICPI) veći od 0,7 i manji od 1,2, a referentna laboratorija utvrdi da izolovani virus potiče od atenuirane žive vakcine protiv Njukastl bolesti, može se odobriti odstupanje od sprovođenja mjera iz stava 1 tač. 1 do 6 ovog člana pod uslovom da je to gazdinstvo stavljeno pod službeni nadzor u trajanju od 30 dana i naložiti sprovođenje mjera iz člana 4 stav 2 tač. 1, 2, 4, 5 i 6 ovog pravilnika i:
+ zabranu premještanja živine sa gazdinstva, osim ako se direktno prevozi u klanicu;
+ o slanju živine na klanje obaviještava službenog veterinara koji je nadležan za tu klanicu uz obavezu da se živina u klanici drži i kolje odmah po prispijeću u klanicu i odvojeno od druge živine.
+(4) Svježe meso živine iz stava 3 ovog člana treba da ima oznaku o zdravstvenoj ispravnosti u skladu sa propisom kojim je uređeno vršenje službene kontrole proizvoda životinjskog porijekla namjenjenih za ishranu ljudi.
