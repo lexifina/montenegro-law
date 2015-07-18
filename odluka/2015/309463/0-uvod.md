@@ -1,0 +1,2 @@
+1087. Na osnovu člana 30. Statuta opštine Kotor ("Sl. list opštine Kotor" br. 3/04 i "Sl. list CG-opštinski propisi" br.17/08, 31/09, 40/10, 4/11), te člana 8. stav 4. Odluke o osnivanju Fondacije "Kotorski festival pozorišta za djecu" ("Sl. list opštine Kotor" br.04/03, 01/04, 13/05, "Sl. list CG-opštinski propisi" br. 18/10, 17/15), Skupština Opštine Kotor je na sjednici održanoj dana 02. 07. 2015.godine donijela
+O D L U K U
