@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom se daje saglasnost da se izvrše izmjene ugovora o naknadi za komunalno opremanje građevinskog zemljišta koje su investitori sa nadležnim organom Opštine zaključili u periodu od 25.05.2013. godine do 17.04.2015. godine, odnosno nakon isteka roka određenog članom 15a Odluke o dopuni Odluke o naknadi za komunalno opremanje građevinskog zemljišta ("Službeni list CG - Opštinski propisi", broj 15/12), a prije stupanja na snagu Odluke o naknadi za komunalno opremanje građevinskog zemljišta ("Službeni list CG - Opštinski propisi", broj 12/15).
