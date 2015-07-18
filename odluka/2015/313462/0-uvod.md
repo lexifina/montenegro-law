@@ -1,0 +1,3 @@
+Na osnovu člana 9 Zakona o bezbjednosti saobraćaja na putevima ("Službeni list RCG", broj 33/12 i 58/14), člana 4 Zakona o prekršajima ("Službeni list CG", broj 01/11, 06/11, 39/11 i 32/14), člana 32 stav 1 tačka 1 Zakona o lakalnoj samoupravi ( "Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 "Službeni list CG", br. 88/09, 38/12 i 10/14), člana 32 stav 1 tačka 28 i člana 40 Statuta opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG-Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 3.07.2015. godine, donijela je
+O D L U K U
+o regulaciji saobraćaja na teritoriji Opštine Nikšić

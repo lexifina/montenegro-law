@@ -1,0 +1,2 @@
+# Član 28
+U zonama smirenog saobraćaja i pješačkim zonama iz člana 21 i 23 ove odluke, organ lokalne uprave nadležan za poslove saobraćaja može odobriti kretanje teretnih vozila za snabdijevanje trgovinskih i ugostiteljskih objekata, kao i za potrebe izgradnje, rekonstrukcije, adaptacije i opremanja objekata, najveće dozvoljene mase do 3,5 t u vremenu od 6,00 do 9,00 časova i od 16,00 do 18,00 časova, brzinom kretanja pješaka, a najviše 10 km/h.
