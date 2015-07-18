@@ -1,0 +1,5 @@
+# Član 4
+Zaposlenom iz člana 1 ove odluke kome radni odnos prestane na osnovu pisanog sporazuma (sporazumni prestanak radnog odnosa) u skladu sa članom 125 Zakona o državnim službenicima i namještenicima, a nakon sprovedenog postupka po javnom pozivu iz člana 3 stav 1 ove odluke, isplatiće se otpremnina u visini od:
+- Zaposlenom koji dobije saglasnost starješine organa ili službe za sporazumni prestanak radnog odnosa, visina otpremnine iz člana 1 ove odluke, utvrđuje se u neto iznosu od 10.000,00 eura.
+- Zaposlenom koji ne dobije saglasnost starješine organa ili službe za sporazumni prestanak radnog odnosa, visina otpremnine iz člana 1 ove odluke, utvrđuje se u neto iznosu od 1.500,00 eura.
+- Zaposlenom koji dobije saglasnost starješine organa ili službe za sporazumni prestanak radnog odnosa, a koji u roku od godinu dana od dana raspisivanja javnog poziva iz člana 3 ove odluke navršava 67 godina života i najmanje 15 godina staža osiguranja, visina otpremnine iz člana 1 ove odluke, utvrđuje se u neto iznosu od 1.500,00 eura.
