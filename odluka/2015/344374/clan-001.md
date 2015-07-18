@@ -1,0 +1,3 @@
+# Član 1
+Opština Herceg Novi je dana 04.12.2014.godine zaključila Ugovor o konstituisanju stvarne službenosti postavljanja vodova sa ELEKTROPRIVREDOM CRNE GORE A.D.NIKŠIĆ iz Nikšića UZZ .br.1105/2014 pred notarom Tamarom Marić iz Herceg Novog.
+Ugovor je zaključen na vrijeme od 5 godina počev od dana pravosnažnosti rješenja o upisu ugovorene službenosti u Katastru nepokretnosti-kod Uprave za nekretnine, s tim što su se ugovorne strane obavezale da vlasnik poslužnih dobara pribavi saglasnost Skupštine opštine Herceg Novi o konstituisanju prava službenosti postavljanja vodova na neodređeno vrijeme i da se o tome kao i o visini naknade zaključi Aneks na ovaj ugovor.

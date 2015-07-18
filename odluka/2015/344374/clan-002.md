@@ -1,0 +1,2 @@
+# Član 2
+Opština Herceg Novi je kao vlasnik poslužnih dobara, nepokretnosti katastarski označenih kao dio kat.parc.244, površine 80m2 u naravi šume četvrte klase, dio kat.parc.245, površine 29m2 u naravi šume četvrte klase, dio kat.parc.246, površine 24m2 u naravi nekategorisani putevi, dio kat.parc.246, površine 24m2 u naravi nekategorisani put, dio kat.parc.247, površine 22m2 u naravi šume četvrte klase i dio kat.parc.250 , površine 480m2 u naravi nekategorisani put sve u K.O.Rose i dijela kat.parc.643, površine 5m2 u naravi nekategorisani put u K.O.Kumbor .

@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Sl.list CG" br.21/09,40/11), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list RCG" br.42/03,28/04,75/05,13/06 i "Sl.list CG" br.88/09,03/10,73/10,38/12) i člana 36 stav 1 tačka 10 Statuta Opštine Herceg Novi ("Sl.list RCG opš.propisi" br.15/04,31/06,14/07 i "Sl.list CG-opš.propisi" br.16/09,16/11) i člana 216 Zakona o svojinsko-pravnim odnosima("Sl.list CG" br.19/09), Skupština Opštine Herceg Novi na sjednici održanoj 29.06.2015.godine, donosi
+O D L U K U
+o davanju saglasnosti na Ugovor o konstituisanju stvarne službenosti postavljanja vodova UZZ.br.1105/2014 na dijelovima kat.parc.br.: 244, 245, 246, 247 i 250 sve u K.O.Rose i na dijelu kat.parc.643 K.O.Kumbor
