@@ -1,0 +1,2 @@
+Na osnovu čl. 68 i 77 Zakona o privrednim društvima ("Službeni list RCG", broj 6/02 i "Službeni list CG", br. 17/07, 80/08 i 36/11 ) i člana 10 Odluke o osnivanju društva sa ograničenom odgovornošću "Crnogorski operator tržišta električne energije" - Podgorica ("Službeni list CG", br. 76/10 i 60/11), Vlada Crne Gore, na sjednici od 9. jula 2015. godine, donijela je
+ODLUKU O IZMJENI I DOPUNI STATUTA DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "CRNOGORSKI OPERATOR TRŽIŠTA ELEKTRIČNE ENERGIJE" - PODGORICA
