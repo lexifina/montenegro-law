@@ -1,0 +1,4 @@
+# Član 2
+Član 2 mijenja se i glasi:
+"Evidencija o licima i saobraćajnim sredstvima koja su podvrgnuta graničnoj provjeri sadrži: redni broj pod kojim je izvršen upis, vrstu, vrijeme i datum prelaska državne granice, prezime, ime, ime roditelja, jedinstveni matični broj, državljanstvo, datum rođenja, pol, naziv države rođenja, vrstu i broj putne isprave, naziv države koja je izdala putnu ispravu, datum izdavanja i datum prestanka važenja putne isprave, podatke iz vize ukoliko je viza potrebna, podatak da li je lice ušlo ili izašlo iz Crne Gore, vrstu, marku, model, boju, broj šasije, broj motora, registarsku oznaku i državu registracije saobraćajnog sredstva i napomenu.
+Evidencija iz stava 1 ovog člana u elektronskoj formi sadrži i podatke prikupljene primjenom uređaja kojim se vrši automatsko očitavanje putnih i drugih isprava na osnovu kojih se utvrđuje identitet lica i registarskih oznaka motornih vozila."
