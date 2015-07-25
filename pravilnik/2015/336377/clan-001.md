@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuju se kategorije, način pakovanja i označavanja, specifični uslovi i način proizvodnje i prometa, obrazac knjige evidencije proizvodnje, sadržaj i rokovi za dostavljanje izvještaja o izvršenoj stručnoj kontroli, način i metode obavljanja stručne kontrole i stručne kontrole pod nadzorom, obrazac, sadržina i rokovi za podnošenje prijave za vršenje stručne kontrole, obrazac i sadržaj sertifikata o priznavanju i način vođenja evidencije o izdatim sertifikatima, kvalitet, obrazac etikete, sadržina i način izdavanja i vođenja evidencije za vegetativne djelove za umnožavanje i rasad povrća.

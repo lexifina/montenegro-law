@@ -1,0 +1,2 @@
+Na osnovu člana 4 st. 2 i 4, člana 5 stav 4, člana 9 stav 3, člana 14 st. 7 i 9, člana 16 stav 2, člana 19 stav 3, člana 32 stav 4, člana 38 stav 7 Zakona o sjemenskom materijalu poljoprivrednog bilja ("Službeni list CG", br. 28/06 i 61/11), Ministarstvo poljoprivrede i ruralnog razvoja donijelo je
+P R A V I L N I K O PROIZVODNJI I STAVLJANJU U PROMET VEGETATIVNIH DJELOVA ZA UMNOŽAVANJE POVRĆA I RASADA POVRĆA*
