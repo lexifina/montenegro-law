@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 1 tačka 22 Zakona o lokalnoj samoupravi ( ,, Sl list RCG" br. 42/03, 28 / 04, 75/ 05 i 13/ 06 i ,, Sl. list CG", br. 88/09, 3 /10, 38/12 i 10/14) , a u vezi člana 53 stava 2 Zakona o radu ( ,,Sl list CG" br. 49/08 , 26/ 09, 26/10 i 59 / 11) i člana 44, stav 1, tačka 2 i 47 Statuta Opštine Mojkovac ( ,, Sl list CG -Opštinski propisi ", br 31/10 i 26/ 12) , Skupština opštine Mojkovac ,na sjednici održanoj dana 30.06. 2015 godine ,donijela je :
+ODLUKU
