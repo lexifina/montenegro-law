@@ -1,0 +1,19 @@
+# Član 17
+## Mjere koje se odnose na mlijeko i proizvode od mlijeka proizvedene u zaraženom području
+(1) Mlijeko dobijeno od prijemčivih vrsta životinja koje potiče iz zaraženog područja i proizvodi od mlijeka proizvedeni od takvog mlijeka ne mogu se stavljati u promet.
+(2) Mlijeko dobijeno od prijemčivih vrsta životinja i proizvodi od mlijeka koji su proizvedeni u objektima koji se nalaze u zaraženom području ne mogu se stavljati u promet.
+(3) Izuzetno od stava 1 ovog člana, mlijeko i proizvodi od mlijeka dobijeni od prijemčivih vrsta životinja koje potiču iz zaraženog područja i koji su proizvedeni najmanje 21 dan prije procijenjenog datuma najranijeg zaražavanja na gazdinstvu u zaraženom području i koji su, nakon što su proizvedeni, uskladišteni i transportovani odvojeno od mlijeka i mliječnih proizvoda, proizvedenih nakon procijenjenog datuma, mogu se staviti u promet.
+(4) Izuzetno od stava 1 ovog člana, mlijeko dobijeno od prijemčivih vrsta životinja koje potiče iz zaraženog područja i proizvodi od mlijeka koji su proizvedeni od mlijeka koje je podvrgnuto obradi za odgovarajuću namjenu u skladu sa Prilogom 5 ovog pravilnika, mogu se staviti u promet.
+(5) Obrada iz stava 4 ovog člana sprovodi se u objektima koji se nalaze u zaraženom području ili ako ne postoje takvi objekti u zaraženom području, u objektima koji se nalaze izvan zaraženog područja pod uslovima iz stava 6 ovog člana.
+(6) Mlijeko i proizvodi od mlijeka obrađeni u objektima koji se nalaze u zaraženom području, mogu se stavljati u promet ako:
+1) je objekat pod službenim nadzorom;
+2) se u objektu prerađuje samo mlijeko koje ispunjava uslove iz st. 3 i 4 ovog člana ili je svježe mlijeko dobijeno od životinja izvan zaraženoga područja;
+3) je tokom cjelokupnog proizvodnog procesa mlijeko označeno, transportovano i skladišteno odvojeno od sirovog mlijeka i proizvoda od sirovog mlijeka koji se ne mogu otpremati izvan zaraženog područja;
+4) se prevoz sirovog mlijeka sa gazdinstava koja se nalaze izvan zaraženog područja u objekte iz stava 5 ovog člana obavlja prevoznim sredstvima koja su prije prevoza očišćena i dezinfikovana i koja nakon toga nijesu bila u kontaktu sa gazdinstvima u zaraženom području na kojima se drže prijemčive vrste životinja.
+(7) Službeni veterinar potvrđuje da mlijeko koje se stavlja na tržište ispunjava uslove iz stava 6 ovog člana.
+(8) Prevoz svježeg mlijeka sa gazdinstava koja se nalaze u zaraženom području u objekte koji su smješteni izvan zaraženog područja i prerada takvog mlijeka može se obavljati:
+1) uz odobrenje službenog veterinara za preradu sirovog mlijeka dobijenog od prijemčivih vrsta životinja držanih unutar zaraženog područja u objektima koji se nalaze izvan zaraženog područja, uz uputstvo o načinu prevoza u određeni objekat;
+2) prevoznim sredstvima koja su očišćena i dezinfikovana prije prevoza i koja su napravljena i održavana tako da ne dolazi do isticanja mlijeka tokom prevoza i koja su opremljena tako da ne dolazi do raspršivanja čestica mlijeka za vrijeme utovara i istovara mlijeka;
+3) ako se prije napuštanja gazdinstva na kojem je prikupljeno mlijeko životinja prijemčivih vrsta, očiste i dezinfikuju priključne cijevi, gume, kućišta točkova, donji dijelovi prevoznog sredstva i svo prosuto mlijeko, a nakon završne dezinfekcije i prije napuštanja zaraženog područja prevozno sredstvo ne smije naknadno doći u kontakt sa drugim gazdinstvima koja se nalaze u zaraženom području i na kojem se drže životinje prijemčivih vrsta;
+4) prevoznim sredstvom namijenjenim za prevoz u određenom geografskom ili administrativnom području, koje je označeno i očišćeno i dezinfikovano pod službenim nadzorom.
+(9) Prikupljanje i prevoz uzoraka svježeg mlijeka od životinja prijemčivih vrsta sa gazdinstava smještenih u zaraženom području u laboratoriju, kao i postupanje sa mlijekom u toj laboratoriji nije dozvoljeno, osim u ovlašćenoj laboratoriji za dijagnostiku slinavke i šapa.

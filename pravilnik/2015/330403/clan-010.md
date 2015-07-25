@@ -1,0 +1,6 @@
+# Član 10
+## Biosigurnosne mjere
+(1) Kada u slučaju potvrđivanja bolesti slinavke i šapa postoji opasnost od zaražavanja prijemčivih vrsta životinja u laboratorijama, zoološkim vrtovima, parkovima prirode, ograđenim područjima ili drugim mjestima i na mjestima gdje se životinje drže u naučne svrhe ili radi očuvanja vrste ili genetskih resursa životinja za proizvodnju, sprovode se odgovarajuće biosigurnosne mjere da bi se te životinje zaštitile od zaraze.
+(2) Kada je slinavka i šap potvrđena u nekom od objekata/mjesta iz stava 1 ovog člana može se odstupiti od sprovođenja mjera iz člana 8 stav 1 tačka 1 ovog pravilnika, pod uslovom da se sprovode sve potrebne mjere kojima se sprječava svaka opasnost od širenja virusa slinavke i šapa, radi očuvanja zdrastvenog statusa prijemčivih životinja i ako nijesu ugroženi socioekonomski interesi Crne Gore.
+(3) O odstupanju od stava 2 ovog člana, obavještava se Evropska komisija, a ako se radi o genetskim resursima životinja za proizvodnju, obavještenje sadrži i listu objekata koji su određeni kao rasplodni nukleusi prijemčivih vrsta životinja naophodnih za očuvanje rase.
+(4) Mjere za sprječavanje širenja virusa slinavke i šapa, posebno u odnosu na regionalizaciju i hitnu vakcinaciju, donose se kada se izvrši procjena situacija u slučajevima potvrđivanja slinavke i šapa iz stava 1 ovog člana.
