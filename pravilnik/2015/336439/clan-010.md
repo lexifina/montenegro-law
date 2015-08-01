@@ -1,0 +1,3 @@
+# Član 10
+(1) Veterinarski pregled pošiljki proizvoda životinjskog porijekla koje se unose u slobodnu zonu, slobodno skladište ili carinsko skladište u skladu sa zakonom kojim su uređene carine i za neposredno snabdijevanje pomorskih prevoznih sredstava u među- narodnom prometu vrši se u skladu sa čl. 5 do 7 ovog pravilnika.
+(2) Izuzetno od stava 1 ovog člana, a ukoliko se na osnovu unaprijed dostvaljenih podataka iz člana 5 stav 1 tačka 1 alineja 1 ovog pravilnika, ne može utvrditi krajnje odredište ili namjena pošiljke proizvoda životinjskog porijekla, smatra se da je pošiljka proizvoda životinjskog porijekla namijenjena uvozu u Crnu Goru.
