@@ -1,0 +1,4 @@
+# Član 2
+Navedenim Ugovorom se ukupni poreski dug (poreski i neporeski) u visini od 3.088.595,56 € ,( na dan 31.12.2014.g) , nastao po osnovu prispjelih a neizmirenih obaveza za poreze i doprinose na zarade , reprogramira na način da će se te obaveze izmirivati u 240 nejednakih mjesečnih anuiteta , počev od jula 2015. do 1.jula 2035.g. ( narednih 20.godina ).
+Navedeni iznos poreskog duga se odnosi na ukupne akumulirane obaveze za poreze i doprinose na zarade: organa lokalne samouprave Plav, JU Centar za kulturu Plav, JP za komunalno stambenu djelatnost Plav, JU Dnevni centar za djecu i omladinu sa smetnjama u razvoju "Lipa" Plav, Turističku organizaciju Plav i Opštinsku organizaciju Crvenog krsta Plav.
+Ukupan iznos duga i pojedinačno po pojedinim pravnim licima je usaglašen i potvrdjen Protokolom potpisanim sa Poreskom upravom CG br.03/15-1131 od 13.03.2015.
