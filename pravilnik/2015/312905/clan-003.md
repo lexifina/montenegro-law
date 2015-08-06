@@ -1,0 +1,8 @@
+# Član 3
+Izrazi upotrijebljeni u ovom pravilniku imaju sljedeća značenja:
+1) lice koje učestvuje u pripremi izvođenja javnog vatrometa je lice koje je stručno osposobljeno za rukovanje eksplozivnim materijama ili je osposobljeno za izvođenje poslova pripreme miniranja u skladu sa Zakonom o eksplozivnim materijama i koje vrši poslove za potrebe izvođenja javnog vatrometa (ograđuje bezbjednosni pojas, postavlja cijevi za ispaljivanje, stavlja pirotehnička sredstva u cijevi i druge slične poslove);
+2) mjesto izvođenja javnog vatrometa je mjesto pripreme i postavljanja pirotehničkih sredstava za vatromet u krugu od 5 metara unutar bezbjednosnog pojasa;
+3) bezbjednosni pojas je područje formirano neposredno prije izvođenja javnog vatrometa koje je određeno najmanjom bezbjednosnom udaljenošću, u svim smjerovima od mjesta izvođenja vatrometa, ograđeno fizičkom preprekom (traka ili drugi materijali), koja sprječava prolazak gledalaca, unutar kojeg ne smije biti gledalaca i objekata koji bi bili ugroženi čvrstim i gorućim djelovima pirotehničkog sredstava i otrovnim djelovanjem gasova koji nastaju pri aktiviranju i eksploziji pirotehničkih sredstava.
+4) Magnusov efekt je odstupanje od idealne putanje leta zbog rotacije pirotehničkog sredstva u letu i djelovanja cirkularnog i laminarnog toka u svim smjerovima i računa se po formuli 3,8xD (D-unutrašnji prečnik cijevi za ispaljivanje izražen u centimetrima, konačni rezultat je udaljenost u metrima);
+5) neaktivirano pirotehničko sredstvo je sredstvo koje se zbog nepoznatog uzroka pri paljenju ne aktivira ili se aktivira, ali u vazduhu ne eksplodira i padne na tlo;
+6) cijev za ispaljivanje je namjenski izrađena cijev za ispaljivanje vatrometnih bombi sa zatvorenim dnom i glatkim unutrašnjim zidovima.
