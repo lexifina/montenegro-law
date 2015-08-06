@@ -1,0 +1,6 @@
+# Član 47
+## Dokaz o patentibilnosti
+(1) Pisanim dokazom iz člana 46 stav 1 ovog zakona smatraće se ovjereni prevod na crnogorski jezik patentnog spisa patenta priznatog za isti pronalazak u postupku suštinskog ispitivanja prijave patenta koji sprovodi državni i međudržavni zavod u skladu sa članom 32 Ugovora o saradnji na području patenata, kao i drugi zavod, s kojim u trenutku podnošenja dokaza o patentibilnosti nadležni organ ima potpisan ugovor o saradnji.
+(2) Ako postupak priznanja patenta u zavodu iz stava 1 ovog člana nije okončan, nosilac patenta dužan je da u roku iz člana 46 stav 1 ovog zakona o tome obavijesti nadležni organ, koji može rok za dostavu pisanih dokaza o patentibilnosti produžiti za najviše tri mjeseca nakon završetka postupka priznanja patenta.
+(3) Ako nosilac patenta ne dostavi dokaz u dodatnom roku iz stava 2 ovog člana, patent prestaje da postoji na dan isteka desete godine njegovog trajanja.
+(4) Ako nosilac patenta nije podnio prijavu patenta za isti pronalazak ni jednom zavodu iz stava 1 ovog člana, može u roku iz člana 46 stav 1 ovog zakona zatražiti od nadležnog organa da pribavi rezultat ispitivanja patentibilnosti njegovog pronalaska putem jednog od državnih patentnih zavoda države s kojom ima potpisan ugovor o saradnji, pod uslovom da za to plati propisane administrativne takse i naknade posebnih troškova postupka.

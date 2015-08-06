@@ -1,0 +1,7 @@
+# Član 116
+## Pribavljanje dokaza u parničnom postupku
+(1) Kad se jedna stranka u parničnom postupku za zaštitu patenta od povrede u skladu sa odredbama čl. 103 do 120 ovog zakona poziva na određeni dokaz i tvrdi da se on nalazi kod druge stranke ili pod njenom kontrolom, sud će tu stranku pozvati da podnese taj dokaz, u određenom roku.
+(2) Kada nosilac patenta kao tužilac u tužbi za zaštitu patenta od povrede u skladu sa odredbama čl. 103 do 120 ovog zakona učini vjerovatnim da je došlo do povrede patenta prilikom obavljanja privredne djelatnosti u cilju pribavljanja privredne ili ekonomske koristi, sud će na njegov zahtjev pozvati tuženog da u određenom roku dostavi bankarske, finansijske ili slične poslovne dokumente, isprave i druge dokaze koji se nalaze kod njega ili su pod njegovom kontrolom.
+(3) Kada stranka koja je pozvana da podnese dokaze iz st. 1 i 2 ovog člana negira da se dokazi nalaze kod nje ili pod njenom kontrolom, sud može radi utvrđivanja te činjenice da izvodi dokaze.
+(4) U pogledu prava stranke da uskrati podnošenje dokaza shodno se primjenjuju odredbe o uskraćivanju svjedočenja zakona kojim se uređuje parnični postupak.
+(5) Sud će, s obzirom na sve okolnosti, po svom slobodnom uvjerenju cijeniti od kakvog je značaja to što stranka kod koje se dokaz nalazi ili pod čijom se kontrolom dokaz nalazi neće da postupi po rješenju suda kojim joj je naloženo da podnese dokaz ili suprotno uvjerenju suda poriče da se dokaz nalazi kod nje ili pod njenom kontrolom.

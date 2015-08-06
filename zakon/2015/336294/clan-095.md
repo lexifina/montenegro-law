@@ -1,0 +1,7 @@
+# Član 95
+## Trajanje zaštite
+(1) Sertifikat počinje da važi nakon isteka zakonskog roka trajanja osnovnog patenta i traje u periodu koji je jednak periodu koji protekne od datuma podnošenja prijave osnovnog patenta do dana izdavanja prve dozvole za stavljanje u promet, umanjen za pet godina.
+(2) Sertifikat ne može da važi duže od pet godina od datuma početka njegovog važenja.
+(3) Trajanje sertifikata produžava se samo jednom, i to na period od šest mjeseci, ako su za lijek za koji je izdata dozvola i koji je zaštićen sertifikatom ili patent koji ispunjava uslove za priznavanje sertifikata završena sva potrebna istraživanja u skladu sa prihvaćenim planom pedijatrijskog ispitivanja, pod uslovom da je dozvola izdata u svim državama članicama Evropske unije.
+(4) Odredba stava 3 ovog člana ne primjenjuje se na ljekove određene kao ljekove za rijetke bolesti i u slučaju ako podnosilac zahtjeva podnese i dobije jednogodišnje produženje zaštite stavljanja u promet pedijatrijskog lijeka na osnovu činjenice da nova pedijatrijska indikacija predstavlja značajnu kliničku prednost u odnosu na postojeće načine liječenja.
+(5) Produženje trajanja sertifikata priznatog za zaštitu ljekova za upotrebu u pedijatriji nije moguće za lijek za koji se primjenjuje jednogodišnje produženje desetogodišnjeg razdoblja zaštite, kao i za ljekove namijenjene liječenju teških i rijetkih bolesti, u skladu sa posebnim propisima.
