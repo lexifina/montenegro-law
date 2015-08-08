@@ -1,0 +1,8 @@
+# Član 37
+## Ugovor o dozvoljenom prekoračenju tekućeg računa
+(1) Ugovor o dozvoljenom prekoračenju tekućeg računa mora sadržavati elemente iz člana 16 stav 1 izuzev tačaka 6 i 8 te iznos o dozvoljenoj gornjoj granici prekoračenja na tekućem računu, troškove koji se u trenutku sklapanja ugovora naplaćuju i uslovima i postupku raskida ugovora.
+(2) Kod ugovora iz stava 1 ovog člana banka je dužna da izdavanjem i dostavljanjem izvoda, na ugovoreni način najmanje krajem svake godine, redovno obavještava korisnika o početnom saldu, promjenama stanja računa po osnovu uplata, isplata, naplata i plaćanja, te provizija i naknada koje banka zaračunava za izvršene usluge, kao i o završnom saldu računa za izvještajni period.
+(3) Osim dostavljanja izvještaja iz stava 2 ovog člana, banka je dužna da obavještava korisnika o primijenjenim kamatnim stopama u izvještajnom periodu, kao i promjenama kamatnih stopa, naknada i troškova prije njihove primjene, u roku i na način utvrđenim ovim zakonom.
+(4) Korisnik računa ima pravo da bez naplate posebne naknade podigne sredstva sa svog računa otvorenog u banci, u visini raspoloživih sredstava na računu.
+(5) Ako banka prećutno dopušta prekoračenje tekućeg računa, dužna je korisnika obavijestiti o visini nominalne kamatne stope, metodu njenog obračuna i ostalim troškovima kojima će teretiti tekući račun korisnika zbog prekoračenja, kao i o promjeni visine kamatne stope ili troškova. U slučaju da to prekoračenje traje duže od tri mjeseca, banka je dužna s korisnikom sklopiti ugovor o prekoračenju tekućeg računa.
+(6) Obavještenje iz stava 5 ovog člana će biti dostavljeno korisniku u izvještaju o stanju računa.

@@ -1,0 +1,3 @@
+# Član 14
+(1) Ako je za zaključenje ugovora o kreditu, odnosno lizingu obavezno i zaključenje ugovora o sporednim uslugama (naročito ugovora o osiguranju), a pri tom se cijena sporedne usluge ne može odrediti unaprijed - postojanje takve obaveze iskazuje se jasno, sažeto i na vidljiv način, zajedno sa iskazivanjem efektivne kamatne stope.
+(2) Pri oglašavanju je zabranjeno koristiti izraze kojima se kredit, odnosno lizing označavaju besplatnim ili slične izraze ako je odobrenje tog kredita, odnosno lizinga uslovljeno zaključenjem drugog ugovora ili je uslovljeno bilo čime što predstavlja trošak za korisnika ili stvara drugu obavezu.

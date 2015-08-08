@@ -1,0 +1,4 @@
+# Član 31
+(1) Ako korisnik svoju obavezu ne ispuni u ugovorenom roku, na dospjelu a neizmirenu obavezu primjenjuju se pravila o kamati koja se primjenjuje u slučaju dužnikovog kašnjenja u izmirenju obaveza, u skladu sa propisima kojima se uređuju obligacioni odnosi.
+(2) Ako u toku trajanja ugovornog odnosa nastupe okolnosti koje korisnika dovode u teško imovinsko stanje, odnosno druge bitne okolnosti na koje korisnik ne može uticati - banka, odnosno davalac lizinga mogu, na zahtjev korisnika, proglasiti zastoj u otplati (moratorij) za određeni period, u tom periodu banka, odnosno davalac lizinga ne obračunavaju zateznu kamatu na dospjelo, a neizmireno potraživanje.
+(3) Banka, odnosno davalac lizinga mogu svojim aktima poslovanja propisati kriterijume za proglašenje zastoja u otplati u skladu sa propisom CBCG.

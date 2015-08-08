@@ -1,0 +1,6 @@
+# Član 19
+## Ugovor o revolving kreditu
+(1) Ugovor o revolving kreditu je ugovor po kojem banka na određeni period stavlja određeni novčani iznos na raspolaganje korisniku, s tim da ga on može koristiti u svakom trenutku u odobrenom periodu. Kredit se odobrava kao okvirni iznos. Svako korištenje smanjuje raspoloživa sredstva, a vraćanje kredita obnavlja ih do odobrenog okvirnog iznosa.
+(2) U svakom trenutku i bez naknade, korisnik ima pravo da na uobičajeni način, raskine ugovor o revolving kreditu, izuzev ako je ugovoren otkazni rok koji ne može biti duži od mjesec dana.
+(3) Banka može otkazati ugovor o revolving kreditu, ako je tako ugovoreno, uz obavezu pisanog obavještavanja korisnika najmanje 30 dana unaprijed ili ukoliko korisnik i nakon privremenog uskraćivanja izvrši povlačenje sredstava suprotno ugovoru o revolving kreditu.
+(4) Banka može iz opravdanih razloga (neovlašteno korištenje kredita iz stava 1 ovog člana značajno pogoršanje kreditne sposobnosti korisnika i drugo) i ako je tako ugovoreno, privremeno ili trajno uskratiti korisniku pravo na povlačenje sredstava, s tim da je dužna da ga o razlozima uskraćivanja, obavještava u pisanoj formi ili elektronskim putem, i to ako je moguće odmah ili u roku od tri dana, osim kada je pružanje takvih obavještenja zabranjeno drugim propisima.

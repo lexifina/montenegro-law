@@ -1,0 +1,2 @@
+# Član 10
+Davalac finansijske usluge je dužan da u svojim poslovnim prostorijama i na svojoj internet stranici, i to najkasnije 15 dana prije njihove primjene, osigura da se korisnik upozna s opštim uslovima poslovanja na jednom od jezika koji je u službenoj upotrebi u državi Crnoj Gori, da mu pruži odgovarajuća objašnjenja i instrukcije koji se odnose na primjenu ovih uslova u vezi s određenom finansijskom uslugom, kao i da mu, na njegov zahtjev, u pisanoj formi ili na drugom trajnom nosaču podataka dostavi te uslove.
