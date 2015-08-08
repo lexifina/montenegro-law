@@ -1,0 +1,14 @@
+# Član 9
+## Fitosanitarne mjere za iskorjenjivanje štetnog organizma
+U obilježenom području, radi iskorjenjivanja štetnog organizma sprovode se sljedeće fitosanitarne mjere:
+1) hitna sječa infestiranog bilja i bilja sa simptomima prouzrokovanih štetnim organizmom i potpuno uklanjanje njihovog korijenja, a u slučajevima kada je infestirano bilje otkriveno van sezone leta štetnog organizma, sječa bilja i uklanjanje korijenja vrše se prije početka sljedeće sezone leta, u izuzetnim slučajevima, ako takva sječa nije odgovarajuća, primijenjuju se alternativne mjere za iskorjenjivanje koje pružaju isti nivo zaštite od širenja štetnog organizma, a razlozi za donošenje takve mjere i opis mjere dostavljaju se Evropskoj komisiji;
+2) sječa svog određenog bilja u poluprečniku od 100 m oko infestiranog bilja i pregled određenog bilja, radi otkrivanja znakova infestacije, a u izuzetnim slučajevima kada sječa nije odgovarajuća, vrši se detaljan pregled pojedinačnog određenog bilja u poluprečniku gdje se bilje neće sjeći, radi otkrivanja bilo kakvih znakova prisustva štetnog organizma i prema potrebi, primjenjuju se mjere za sprječavanje mogućeg širenja štetnog organizma sa tog bilja;
+3) uklanjanje, pregled i odlaganje bilja posječenog u skladu sa stavom 1 tač. 1 i 2 ovog člana i njihovog korijenja, preduzimajući sve neophodne mjera predostrožnosti da bi se izbjeglo širenje štetnog organizma tokom i nakon sječe;
+4) sprječavanje bilo kakvog premještanja potencijalno infestiranog materijala izvan obilježenog područja;
+5) sljedljivost do izvora infestacije i sljedljivost bilja povezanog sa slučajem infestacije što je više moguće i njihov pregled, radi pronalaženja znakova infestacije, a uključuje i uzorkovanje ciljanom destrukcionom metodom;
+6) zamjena određenog bilja drugim biljem prema potrebi;
+7) zabrana sadnje novog određenog bilja na otvorenom prostoru u području iz stava 1 tačka 2 ovog člana;
+8) intenzivno praćenje prisustva štetnog organizma godišnjim pregledima koji se sprovode u odgovarajuće vrijeme na biljkama domaćinima, a naročito u sigurnosnom području, uključujući prema potrebi, ciljano destrukciono uzorkovanje, a broj uzoraka navodi se u izvještaju;
+9) koje podižu nivo svijesti u javnosti o opasnosti koju predstavlja štetni organizam kao i dodatne mjere donešene za sprječavanje unošenja i širenja štetnog organizma, uključujući uslove u pogledu premještanja određenog bilja iz obilježenog područja;
+10) kojim bi se riješile bilo kakve posebne situacije ili komplikacije za koje se smatra da mogu spriječiti, ometati ili odložiti iskorjenjivanje, posebno one koje se odnose na pristupačnost i odgovarajući način iskorjenjivanja svog infestiranog bilja ili bilja za koje se sumnja da je infestirano, bez obzira na njihovu lokaciju, privatno ili javno vlasništvo ili odgovorno lice; i
+11) druge mjere koje mogu doprinijeti iskorjenjivanju štetnog organizma, u skladu sa Međunarodnim standardom ISPM br. 9 i ISPM br. 14.
