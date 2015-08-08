@@ -1,0 +1,3 @@
+# Član 5
+Izlog, prozor i vrata prostora za prodaju oružja i municije moraju biti zaštićeni na način iz člana 2 ovog pravilnika, od završetka radnog vremena do početka idućeg radnog dana, kao i za vrijeme odsutnosti prodavca.
+Izuzetno od stava 1 ovog člana, izlog i vrata mogu biti zaštićeni sa spoljašnje strane otvora pokretnim panelima od čeličnog profila, debljine zidova najmanje 0,5 mm i debljine profila panela najmanje 13 mm, a da čelični okvir sa panelima bude na tri strane učvršćen za spoljašnji nosivi zid, a pokretna strana da bude zaključana sa dvije brave. Prostor između otvora i pokretnih panela mora biti obezbijeđen tehničkom zaštitom.
