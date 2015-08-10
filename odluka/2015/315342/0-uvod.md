@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini (Službeni list CG-Opštinski propisi, broj 21/09 i 40/11), člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 3/10, 73/10, 38/12 i 10/14) i člana 71 i 75 stav 3 Statuta Prijestonice ("Službeni list CG-Opštinski propisi, broj 19/09, 37/10, 26/13 i 39/14), Skupština Prijestonice Cetinje na sjednici održanoj dana 31.07.2015. godine , donijela je
+O D L U K U
