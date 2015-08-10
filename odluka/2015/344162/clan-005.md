@@ -1,0 +1,3 @@
+# Član 5
+Olaksicu iz člana 4 alineja 1 Investitor (privredno društvo i preduzetnik) ostvaruje u iznosu do 7.000,00 eura po jednom novozaposlenom radniku, odnosno novootvorenom radnom mjestu, a može se koristiti samo ako se investiranjem povećava broj zaposlenih za 5 i više radnika.
+Olakšice iz člana 4 alineja 2, 3 i 4 ove Odluke odnose se i na postojeća privredna društva i preduzetnike na području opštine Bijelo Polje za proširenje privredne djelatnosti iz člana 3 ove odluke, a mogu se koristiti samo ako se proširenjem povećava broj zaposlenih za 5 i više radnika i važe za period od 3(tri) godine.
