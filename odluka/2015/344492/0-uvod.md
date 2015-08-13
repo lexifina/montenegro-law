@@ -1,0 +1,3 @@
+Na osnovu člana 34 stav 1 tačka 2, a u vezi sa članom 45 stav 1 tačka 14 Zakona lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09, 03/10, 73/10, 38/12 i 10/14), člana 89 stav l, člana 90, člana 104 stav 1 i člana 105 Zakona o socijalnoj i dječjoj zaštiti ("Sl.list CG", br. 27/13 i 01/15) i člana 48 stav 1 alineja 2 a u vezi alineje 14 Statuta Glavnog grada ("Sl.list CG - Opštinski propisi" br. 28/06 i "Sl.list CG", Opštinski propisi, 39/10 i 18/12), Skupština Glavnog grada Podgorice, na sjednici održanoj 30. i 31. jula 2015. godine, donijela je
+O D L U K U
+o osnivanju Javne ustanove za smještaj, rehabilitaciju i resocijalizaciju korisnika psihoaktivnih supstanci Podgorica
