@@ -1,0 +1,2 @@
+Na osnovu člana 48 stav 4 i 5 Zakona o vodama ("Sl. list RCG", br. 27/07, 73/10, 32/11 i 47/11 ), člana 4 stav 2, člana 6 i 12 Zakona o komunalnim djelatnostima ("Službeni list RCG", broj 12/95), člana 4 Zakona o prekršajima ("Službeni list CG", broj 1/11, 6/11, 39/11 i 32/14) i člana 48 Statuta Glavnog grada (" Sl. list RCG - Opštinski propisi", broj 28/06 i "Sl. list CG - Opštinski propisi", br. 39/10 i 18/12),Skupština Glavnog grada, na sjednici održanoj 30. i 31. jula 2015. godine, d o n i j e l a je
+O D L U K U
