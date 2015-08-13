@@ -1,0 +1,2 @@
+Na osnovu člana 45. stav. 1. tačka 10., člana 96. stav 1, 2 i 3. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09 i 3/10, 38/12 i 10/14), člana 132. stav 2. i 3. i člana 133, 134 i 135. Statuta Opštine Ulcinj ("Sl. list RCG", - opštinski propisi br. 5/07 i "Sl. list CG",-opštinski propisi br. 9/09 u 16/11), člana 12, 14, 15. i 18. Odluke o mjesnim zajednicama ("Sl. list CG" - opštinski propisi br. 38/11), dana 20.07.2015.godine, Predsjednik Skupštine opštine, donosi
+O D L U K U
