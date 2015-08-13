@@ -1,0 +1,3 @@
+Na osnovu člana 27 stav 7 Zakona o zaštiti dobrobiti životinja ("Službeni list CG", broj 14/08 i 40/11), člana 4 stav 2 i člana 12 Zakona o komunalnim djelatnostima ("Službeni list RCG", broj 12/95), člana 4 Zakona o prekršajima ("Službeni list CG", broj 1/11, 6/11, 39/11 i 32/14) i člana 48 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", br. 28/06 i"Sl. list CG - Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada, na sjednici održanoj 30. i 31. jula 2015. godine, d o n i j e l a je
+O D L U K U
+o izmjenama Odluke o uslovima i načinu držanja kućnih ljubimaca i načinu postupanja sa napuštenim i izgubljenim
