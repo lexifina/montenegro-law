@@ -1,0 +1,3 @@
+Na osnovu 29 stav 2 Zakona o državnoj imovini ( »Službeni list Crne Gore«, br. 21/09 i 40/11 ), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ( "Službeni list RCG", broj 42/03, 28/04, 75/05 i 13/06 i "Sl. list Crne Gore ", br. 88/09, 03/10, 73/10, 38/12 i 10/14 ) i člana 48 stav 1 alineja 9 Statuta Glavnog grada ( "Sl. list RCG - Opštinski propisi", br. 28/06, "Sl. list Crne Gore -Opštinski propisi", br.39/10, 18/12 ) i Saglasnosti Vlade Crne Gore broj 08-1501 od 02. jula 2015.godine, Skupština Glavnog grada - Podgorice, na sjednici održanoj 30. i 31. jula 2015. godine, donijela je
+O D L U K U
+o prenosu prava svojine na građevinskom zemljištu Stambenoj zadruzi zdravstvenih radnika Crne Gore "Zdravstvo"
