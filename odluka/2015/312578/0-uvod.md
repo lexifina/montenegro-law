@@ -1,0 +1,2 @@
+Na osnovu člana 92 stav 2 Zakona o socijalnoj i dječijoj zaštiti (Sl.list CG", broj 27/13 i 1/15), i člana 48 stav 1 alineja 48 Statuta Glavnog grada (Sl.list RCG-Opštinski propisi" br. 28/06 i "Sl.list CG -Opštinski propisi" br. 39/10 i 18/12) i člana 15. Odluke o osnivanju Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju - Podgorica ("Sl.list CG - Opštinski propisi", br br 13/15), Skupština Glavnog grada - Podgorice, na sjednici održanoj 30. i 31. jula 2015 , donijela je
+O D L U K U
