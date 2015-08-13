@@ -1,0 +1,2 @@
+Na osnovu člana 23 Zakona o stanovanju i održavanju stambenih zgrada ("Službeni list CG", br. 04/11, 40/11, 01/14 i 06/14), člana 4 Zakona o prekršajima ("Službeni list CG", broj 1/11, 6/11, 39/11 i 32/14) i člana 48 Statuta Glavnog grada (" Službeni list RCG - Opštinski propisi ", broj 28/06 i "Službeni list CG - Opštinski propisi ", br. 39/10 i 18/12), Skupština Glavnog grada, na sjednici održanoj 30. i 31. jula 2015. godine, d o n i j e l a je
+O D L U K U
