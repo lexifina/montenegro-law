@@ -1,0 +1,4 @@
+# Član 1
+## o prenosu prava svojine na građevinskom zemljištu radi dokompletiranja urbanističke parcele u zahvatu DUP-a "Rekreativno-kulturna zona na obali Morače, južni dio" - izmjene i dopune
+Glavni grad - Podgorica, kao nosilac prava raspolaganja, prenosi uz naknadu, privrednom društvu "Normal Tours" d.o.o. Podgorica, pravo svojine na građevinskom zemljištu ukupne površine 1.312m2, označeno katastarskim parcelama broj 1275/30, 1268/9, 1268/10, 1268/11, 1268/12 i 1268/14, iz listova nepokretnosti broj 177 i 178 KO Podgorica I.
+Pravo svojine na zemljištu iz prethodnog stava prenosi se radi dokompletiranja urbanističke parcele broj 9, Zona B, u zahvatu DUP-a "Rekreativno - kulturna zona na obali Morače, južni dio"- Izmjene i dopune, na kojoj je planirana izgradnja objekta namjene centralne djelatnosti ( poslovanje, komercijalne i uslužne djelatnosti ), površine pod objektom 720m2, max. BRP 5.462m2.
