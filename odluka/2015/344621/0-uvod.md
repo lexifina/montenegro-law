@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09, 3/10, 73/10, 38/12 i 10/14) i člana 48 stav 1 tačka 9 Statuta Glavnog grada ("Službeni list RCG - Opštinski propisi", br. 28/06 i "Službeni list CG", br. 39/10 i 18/12), Skupština Glavnog grada-Podgorice, na sjednici održanoj dana 30. i 31. jula 2015. godine, donijela je
+O D L U K U
+o izmjeni Odluke o učešću Glavnog grada - Podgorice u izgradnji objekta kolektivnog stanovanja za potrebe Udruženja penzionera Podgorice ("Sl list Crne Gore - Opštinski propisi", br.23/12 od 25. jula 2012. godine)
