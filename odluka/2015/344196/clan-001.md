@@ -1,0 +1,3 @@
+# Član 1
+## Budva
+U Odluci o visini, načinu obračunavanja i plaćanja članskog doprinosa Turističkoj organizaciji opštine Budva (,,Sl.list Opštine Budva", broj 9/06 i 2/07) član 1. mijenja se i glasi: "Ovom Odlukom utvrđuje se visina, način obračunavanja i plaćanja članskog doprinosa kojeg plaćaju sva pravna i fizička lica koja na teritoriji Opštine Budva imaju svoje sjedište ili organizacioni dio, a koja ostvaruju prihod obavljanjem turističkih, ugostiteljskih i s turizmom neposredno povezanih djelatnost, odnosno djelatnosti koje su razvrstane Pravilnikom o razvrstvanju djelatnosti za koje se plaća članski doprinos turističkim organizacijama ("Sl.list CG" br. 36/13)"
