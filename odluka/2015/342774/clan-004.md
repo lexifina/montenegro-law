@@ -1,0 +1,2 @@
+# Član 4
+Prostorni zahvat predmetnog planskog dokumenta je relativno mali, a obzirom da detaljna razrada prostora treba da bude zasnovana na razvojnim potrebama uvažavajući raspoložive resurse i kapacitete prostora, vizure ka moru i odnos prema okruženju, što će se u skladu sa zakonom provjeriti i kroz izradu odgovarajućih idejnih rješenja, smatra se da neće biti negativnih uticaja sa aspekta zaštite životne sredine i zdravlja ljudi.
