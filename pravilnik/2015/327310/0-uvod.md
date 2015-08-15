@@ -1,0 +1,4 @@
+Na osnovu člana 10 stav 6 Zakona o hemikalijama ("Službeni list CG", broj 18/12) Ministarstvo održivog razvoja i turizma, donijelo je
+PRAVILNIK
+O DOPUNI PRAVILNIKA O NAČINU KLASIFIKACIJE, PAKOVANjA I OZNAČAVANjA HEMIKALIJE I ODREĐENOG PROIZVODA U SKLADU SA
+GLOBALNO HARMONIZOVANIM SISTEMOM ZA KLASIFIKACIJU I
