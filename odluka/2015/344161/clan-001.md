@@ -1,0 +1,4 @@
+# Član 1
+## o davanju saglasnosti za skidanje tereta otuđenja i opterećenja
+Opština Bijelo Polje dozvoljava brisanje zabilježbe otuđenja i opterećenja na nepokretnostima u površini od 207 m2, koje se vode na Skoko Sirka iz Bijelog Polja u obimu prava sukorišćenje 207/598 i Omerhodžić Jasmina iz Bijelog Polja u obimu prava sukorišćenje 391/598, upisane u listu nepokretnosti br. 2410 KO Bijelo Polje, a što je u skladu sa DUP-om.
+Saglasnost iz prethodnog stava Opština Bijelo Polje daje pod uslovom da Jasmin Omerhodžić prizna pravo korišćenja Opštini Bijelo Polje na kat. parceli br. 283/2 u površini od 40 m2 i kat. parceli br. 283/3 u površini od 28 m2 (ukupne površine 68 m2) kao i da za preostalu površinu od 139 m2 (dio katastarske parcele br.283/1) plati tržišnu vrijednost Opštini Bijelo Polje.
