@@ -1,0 +1,2 @@
+Na osnovu člana 15 stav 1 Odluke o osnivanju Društva sa ograničenom odgovornošću "Parking servis-Bijelo Polje" ("Sl.list CG" -Opštinski propisi br.20/13), člana 10 stav 1 Statuta DOO "Parking-servis - Bijelo Polje" broj.01-01-2013 od 09. 10. 2013. godine i člana 34 stav 1 tačka 36 Statuta Opštine Bijelo Polje ("Sl.list RCG-Opštinski propisi" br.25/04, 33/06, "Sl.list CG- Opštinski propisi" br.18/10, 32/13), Skupština opštine Bijelo Polje, na sjednici održanoj 24.07. i 27.07.2015. godine, donijela je
+O D L U K U
