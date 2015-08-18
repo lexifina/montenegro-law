@@ -1,0 +1,2 @@
+Na osnovu člana 45. stav 1. tačka 9. Zakona o lokalnoj samoupravi (Službeni list RCG" br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG" br. 88/09, 03/10, 73/10, 38/12 i 10/14), člana 30. Statuta opštine Kotor («Sl. list Opštine Kotor» broj 3/04, "Sl. list CG-Opštinski propisi" 17/08, 31/09, 40/10 i 04/11), Zaključka Komisije za poslovni prostor br. 02-1626/3c od 14.04.2015.godine, Skupština opštine Kotor je na sjednici održanoj 20. 07. 2015 .godine, donijela
+O D L U K U
