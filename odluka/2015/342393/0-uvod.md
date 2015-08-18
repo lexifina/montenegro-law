@@ -1,0 +1,2 @@
+Na osnovu člana 43 stav 1 Zakona o Budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore", broj 20/14 i 56/14), člana 53 stav 2 i 3 Zakona o finansiranju lokalne samouprave ("Službeni list Republike Crne Gore", br.42/03 i 44/03 i "Službeni list Crne Gore", br.5/08, 74/10 i 1/15), i člana 87 alineja 17 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", br.19/09, 37/10, 26/13 i 39/14) Skupština Prijestonice Cetinje na sjednici održanoj dana, 31.07. 2015.godine, donijela je
+O D L U K U
