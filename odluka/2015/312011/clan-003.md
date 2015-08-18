@@ -1,0 +1,2 @@
+# Član 3
+Prostor obuhvaćen Izmjenama i dopunama Plana je predviđen za sledeće namjene površina: stanovanje (malih i srednjih gustina), centralne djelatnosti, turizam (hotel (T1), hostel, pansion (T3) ugostiteljstvo), školstvo i socijalnu zaštitu, zdravstvenu zaštitu, kulturu, sport i rekreaciju, mješovitu namjenu, površine za pejzažno uređenje-površine urbanog zelenila, saobraćajnu i ostalu (hidrotehnička, elektroenergetska, telekomunikaciona) infrastrukturu i vjerske objekte.
