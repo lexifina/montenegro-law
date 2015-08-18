@@ -1,0 +1,2 @@
+Na osnovu čl.1. i 7. Zakona o boravišnoj taksi ("Sl.list RCG", broj 11/04 i 13/04), člana 51. Zakona o lokalnoj samoupravi ("Sl.list RCG", broj 23/95) i člana 43 Statuta Opštine Ulcinj ("Sl.list RCG"- Opštinski propisi broj 5/07) te člana 24 stav 4 i 5 Zakona o prekršajima ("Sl.list CG" broj 1/11, 6/11, 39/11 i 32/14) Skupština Opština Ulcinj, na sjednici održanoj dana 24.07. 2015 god. donijela je:
+O D L U K U
