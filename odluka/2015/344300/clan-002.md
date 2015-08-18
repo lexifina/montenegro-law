@@ -1,0 +1,5 @@
+# Član 2
+Izgradnja primarnog vodovodnog sistema za snabdijevanje vodom iz Regionalnog vodovodnog sistema zahvata katastarske opštine Lješevići, Vranovići, Pobrđe i Glavatičići i sekundarnog odvojka za snabdijevanje područja poluostrva Bigova koje obrađeno u Državnoj studiji lokacija sektor 38 Bigova i Lokalnoj studiji lokacija "Trašte".
+Izgradnja dijela primarnog kanalizacionog sistema koji odvodi feklanu otpadnu vodu sa područja obuhvata Detaljnog urbanističkog plana naselja Bigova i sa područja poluostrva Bigova tretirano je Državnom studijom lokacije sektor 38 Bigova i Loklane studije lokacije "Trašte".
+Izgradnja postrojenja za prečišćavanje otpadnih voda za područje Bigove čija je lokacija definisana važećim DUP-om Bigove, izmjena urbanističko tehničkih uslova.
+Polaganje podzemnog optičkog kabla od optičkog spojnog puta Budva - Tivat u blizini rakrsnice Jugodrvo do lokaliteta Bigova Traste i dva podzemna 10 kV kablovska voda u trupu pristupne saobraćajnice lokalitetu Bigova Trašte.
