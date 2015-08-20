@@ -1,0 +1,2 @@
+# Član 2
+Odbor u vršenju svojih nadležnosti prati primjenu odredbi zakona i drugih propisa koje se odnose na: izbor odbornika i poslanika; izbor Predsjednika Crne Gore; birački spisak; finansiranje političkih subjekata i izbornih kampanja; registre prebivališta i boravišta; crnogorsko državljanstvo; ličnu kartu; kao i odredbi Krivičnog zakonika Crne Gore u dijelu odredbi koje se odnose na krivična djela protiv izbornih prava.
