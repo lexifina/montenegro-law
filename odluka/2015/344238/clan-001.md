@@ -1,0 +1,4 @@
+# Član 1
+## o prenosu prava na nepokretnosti radi formiranja urbanističke parcele 45 u okviru Dup-a "Pržno Podličak"
+Opština Budva prenosi prava na nepokretnostima označenim kao katastarske parcele broj:
+kat.parcele 901/1 KO Sveti Stefan povrsine 616 m², kat. parcelu 893/1 KO Sveti Stefan povrsine 1047 m², kat.parcele 888/3 KO Sveti Stefan povrsine 66 m², kat.parcele 894 KO Sveti Stefan povrsine 203 m² , kat.parcele 895/1 KO Sveti Stefan povrsine 20 m²,kat.parcele 895/2 KO Sveti Stefan povrsine 42 m², kat.parcela 896/1 KO Sveti Stefan površine 1061 m², kat.parcela 897 KO Sveti Stefan površine 100 m²,kat parcela 898 KO Sveti Stefan površine 567 m², kat.parcela 900, površine 74 m² , kat.parcela 899 , površine 243 m² , kat. Parcelu 1930/2 KO Sveti Stefan površine 3m², I katastarska parcela 1930/3 KO Sveti Stefan površine 67m² preduzeću Atlas invest d.o.o. Podgorica radi formiranja urbanističke parcele broj 45 a u skladu sa DUP-om Pržno Podličak.
