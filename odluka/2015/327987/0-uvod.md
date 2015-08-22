@@ -1,0 +1,2 @@
+Na osnovu čl.45. Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 03/10, 73/10, 38/12 i 10/14), članova 9 i 39 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11) i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10), Skupština opštine Budva na sjednici održanoj 05. i 06. avgusta 2015. godine, donijela je
+ODLUKU
