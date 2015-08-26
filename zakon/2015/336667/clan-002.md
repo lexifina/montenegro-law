@@ -1,0 +1,10 @@
+# Član 2
+Poslije člana 117 dodaje se novi član koji glasi:
+"Član 117a
+Centri za dnevni i palijativni boravak djece sa smetnjama u razvoju, odnosno odraslih lica sa invaliditetom iz člana 117 stav 1 ovog zakona formiraju se u svim opštinama u Crnoj Gori u cilju podizanja kvaliteta njihovog života i kao podrška njihovim porodicama, kroz dnevno i palijativno zbrinjavanje.
+Centri iz stava 1 ovog člana vrše održavanje, odnosno podizanje nivoa sposobnosti djece sa smetnjama u razvoju, odnosno odraslih lica sa invaliditetom kroz stručni tretman, programe i aktivnosti, podstiču senzibilniji odnos sredine prema potrebi za njihovim većim uključivanjem u zajednicu, kroz inkluzivne programe i aktivnosti u lokalnoj zajednici i pružaju podršku njihovim porodicama u cilju kvalitetnijeg funkcionisanja u zajednici.
+Pravo na korišćenje usluga centara iz stava 1 ovog člana imaju sva djeca sa smetnjama u razvoju, odnosno odrasla lica sa invaliditetom kod kojih su smetnje dijagnostikovane u nadležnoj zdravstvenoj ustanovi, bez obzira na godine njihovog života.
+Pravo na palijativno korišćenje usluga centara iz stava 1 ovog člana imaju djeca sa smetnjama u razvoju, odnosno odrasla lica sa invaliditetom kada ostanu bez roditelja ili staratelja.
+Pravo iz stava 4 ovog člana prestaje kada nadležni Centar za socijalni rad preuzme brigu o djetetu sa smetnjama u razvoju, odnosno odraslom licu sa invaliditetom i trajno ga zbrine kroz određivanje staratelja, odnosno smještaj u hraniteljskoj porodici ili odgovarajućoj ustanovi.
+Država je obavezna da, u cilju trajnog zbrinjavanja djece sa smetnjama u razvoju, odnosno odraslih lica sa invaliditetom nakon smrti njihovih roditelja ili staratelja, formira socijalno - zdravstvene ustanove regionalnog tipa u kojima će se, na odgovarajući način i uz korišćenje naučno dokazanih i provjerenih metoda, nastaviti njihovo liječenje i održavanje zadovoljavajućeg kvaliteta njihovog života.
+Način i dinamiku formiranja centara iz stava 1 ovog člana i ustanova iz stava 6 ovog člana, utvrđuje ministarstvo nadležno za poslove socijalnog staranja."
