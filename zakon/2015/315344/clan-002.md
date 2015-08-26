@@ -1,0 +1,5 @@
+# Član 2
+## Arbitraža
+Arbitraža podrazumijeva sprovođenje arbitražnog postupka pred arbitražnim tribunalom radi rješavanja spora u kojem su stranke fizička lica sa prebivalištem ili uobičajenim boravištem u Crnoj Gori, odnosno pravna lica koja su osnovana po pravu Crne Gore (unutrašnja arbitraža), kao i spora sa elementom inostranosti u kojem je jedna od stranaka fizičko lice sa prebivalištem ili uobičajenim boravištem u drugoj državi odnosno pravno lice koje je osnovano po stranom pravu i čije je sjedište u drugoj državi (međunarodna arbitraža).
+Pravno lice u smislu stava 1 ovog člana je državni organ, organ državne uprave, drugo pravno lice koje vrši javna ovlašćenja, organ lokalne samouprave, privredno društvo, javno preduzeće, javna ustanova, nevladina organizacija, investicioni ili drugi fond, kao i drugo udruženje ili organizacija koje u okviru svog poslovanja stalno ili povremeno ostvaruje ili pribavlja sredstva i njima raspolaže.
+Pod uobičajenim boravištem iz stava 1 ovog člana podrazumijeva se uobičajeno boravište u smislu zakona kojim se uređuje međunarodno privatno pravo.
