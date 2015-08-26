@@ -1,0 +1,2 @@
+Na osnovu člana 57. Zakona o lokalnoj samoupravi ("Službeni list RCG" broj 42/03, 28/04, 75/05, 13/06 i "Službeni list Crne Gore" broj 88/09, 3/10, 38/12 i 10/14) , člana 30. stav 1. tačka 16. i člana 64. stav 1. Statuta Opštine Kotor ("Službeni list Opštine Kotor" broj 03/04 i "Službeni list Crne Gore - Opštinski propisi" broj 17/08, 31/09, 40/10 i 4/11), Skupština Opštine Kotor na sjednici održanoj 06. 08. 2015. godine, donijela je
+O D L U K U
