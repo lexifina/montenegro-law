@@ -1,0 +1,14 @@
+# Član 15
+Član 24 mijenja se i glasi:
+"Prometom sadnog materijala može da se bavi privredno društvo, odnosno drugo pravno lice i preduzetnik, ako je upisan u Registar za promet sadnog materijala na veliko, odnosno u Registar za promet sadnog materijala na malo.
+Prometom sadnog materijala na veliko može se baviti privredno društvo, odnosno drugo pravno lice i preduzetnik, ako za poslove prometa ima u radnom odnosu lice sa završenim VII nivoom, (podnivo VII1) nacionalnog okvira kvalifikacije iz sektora poljoprivrede (smjer: voćarsko-vinogradarski, ratarski, povrtarski, opšti, šumarski, pejzažne arhitekture ili bilo koji drugi smjer povezan sa biljnom proizvodnjom) i objekat za skladištenje ili prodaju sadnog materijala.
+Prometom sadnog materijala na malo može da se bavi privredno društvo, odnosno drugo pravno lice i preduzetnik, ako u svakom prodajnom objektu ima u radnom odnosu lice sa završenim IV nivoom, (podnivo IV1) nacionalnog okvira kvalifikacije iz sektora poljoprivrede (poljoprivredni, šumarski ili bilo koji drugi smjer biljne proizvodnje).
+Prometom sadnog materijala ukrasnog bilja na malo (cvjećare) može se baviti privredno društvo, odnosno drugo pravno lice i preduzetnik, ako u svakom prodajnom objektu ima odgovorno lice sa završenim IV nivoom, (podnivo IV1) nacionalnog okvira kvalifikacije iz sektora poljoprivrede ili drugog sektora i dužan je da prijavi mjesto prodaje radi evidentiranja kod organa uprave.
+Izuzetno od stava 3 ovog člana, prometom sadnog materijala, osim sadnog materijala voća i vinove loze, na pijaci, pokretnim i nepokretnim štandovima - tezgama, sajmovima, izložbama, ako su obezbijeđeni uslovi za očuvanje kvaliteta i zdravstvene zaštite bilja mogu se baviti mali proizvođači na lokalnom tržištu koji ispunjavaju uslove iz člana 5 stav 4 ovog zakona i koji su upisani u evidenciju organa uprave.
+Registar za promet sadnog materijala na veliko, Registar za promet sadnog materijala na malo i evidenciju iz stava 5 ovog člana vodi organ uprave.
+Registrovani proizvođači mogu vršiti prodaju sadnog materijala na mjestu proizvodnje.
+Ispunjenost uslova iz st. 2, 3, 4 i 5 ovog člana utvrđuje organ uprave.
+Upis u Registar za promet sadnog materijala na veliko i u Registar za promet sadnog materijala na malo vrši se na osnovu zahtjeva.
+Privredna društva, odnosno druga pravna lica i preduzetnici koji su upisani u registre iz stava 1 ovog člana dužni su da svaku promjenu podataka upisanih u registar prijave organu uprave, u roku od 15 dana od dana nastale promjene.
+Podaci iz Registra za promet sadnog materijala na veliko i Registra za promet sadnog materijala na malo su javni.
+Sadržaj i način vođenja Registra za promet sadnog materijala na veliko i Registra za promet sadnog materijala na malo i evidencije iz stava 5 ovog člana, sadržinu zahtjeva i dokumentaciju koja se prilaže uz zahtjev za upis u registre propisuje Ministarstvo."
