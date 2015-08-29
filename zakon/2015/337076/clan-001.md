@@ -1,0 +1,3 @@
+# Član 1
+U Zakonu o sjemenskom materijalu poljoprivrednog bilja ("Službeni list RCG", broj 28/06 i "Službeni list CG", broj 61/11) u članu 1 stav 1 mijenja se i glasi:
+"Ovim zakonom uređuju se uslovi i način proizvodnje i sertifikacije, dorade, stručne kontrole, kvalitet, stavljanje u promet sjemenskog materijala poljoprivrednog bilja: žita, industrijskog (repa, uljarice, predivo i drugo bilje) i krmnog bilja i krompira (u daljem tekstu: sjemenski materijal), priznavanje sorti, upis sorti u Registar sorti poljoprivrednog bilja i druga pitanja od značaja za proizvodnju i promet sjemenskog materijala."
