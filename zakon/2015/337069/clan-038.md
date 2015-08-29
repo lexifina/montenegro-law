@@ -1,0 +1,2 @@
+# Član 38
+Naziv GLAVE OSAMNAEST mijenja se i glasi: "PREKID, OBUSTAVA I ZASTOJ POSTUPKA".
