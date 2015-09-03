@@ -1,0 +1,2 @@
+# Član 7
+Kroz izradu Planskog dokumenta, u skladu sa važećim planskim dokumentima širih i užih teritorijalnih cjelina, utvrdiće se odgovarajuća organizacija i detaljna namjena korišćenja prostora, te dati precizne smjernice i uslovi za njegovo uređenje. Uslov je očuvanje i unapređenje ambijentalnih karakteristika šireg i užeg područja, i obezbjeđenje funkcionisanja predviđenih sadržaja planiranjem odgovarajuće saobraćajne i tehničke infrastrukture, vodeći računa o uslovima zaštite životne sredine.
