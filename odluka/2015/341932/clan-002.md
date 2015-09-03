@@ -1,0 +1,4 @@
+# Član 2
+Opština Kotor i Perović Dušan su se sporazumjeli da naknadu tržišne vrijednosti nepokretnosti iz člana 1. stav 3. isplate putem kompenzacije ( razmjene nepokretnosti) i to da kat.parc. 535/3 površine 81 m2, kat.parc. 534/7 površine 62 m2 I kat.parc.535/5 površine 352 m2 sve K.O. Muo, Ln 334, vlasništvo tuženog Perović Dušana bude ustupljena Opštini Kotor radi izgradnje parkinga u Novom Naselju, Škaljari Kotor.
+Vrijednost nepokretnosti koju Opština Kotor pribavlja za potebe izgradnje parking prostora ukupne površine 495 m2 iznosi 115 eura /m2, što sve ukupno iznosi 56.925,00 eura.
+Razliku u iznosu od 29.670,00 eura, Opština Kotor neće isplaćivati tuženom Perović Dušanu već istu će kompenzirati sa spornom nepokretnošću u K.O. Škaljarima I, a koje su takođe predmet sudskog spora P.902/12 po tužbi Opštine Kotor protiv tuženog Perović Dušana i drugih, kada za to budu stečeni uslovi što će se regulisati posebnom odlukom.
