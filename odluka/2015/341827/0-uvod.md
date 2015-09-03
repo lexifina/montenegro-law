@@ -1,0 +1,3 @@
+Na osnovu člana 32 stav 1, tačka 26 Zakona o lokalnoj samoupravi (``Službeni list RCG``, broj. 42/03, 28/04, 75/05 i 13/06 i ``Službeni list CG``, broj 88/09, 03/10, 73/10, 38/12 i 10/14) i člana 4 Zakona o prekršajima (``Službeni list CG``, broj 1/11, 6/11, 39/11 i32/14), a u vezi sa čla nom 53 Zakona o radu (``Službeni list CG``, broj 48/08, 26/09, 88/09, 26/10, 59/11, 66/12 i 31/14) i člana 32 i 12 Statuta Opštine Andrijevica (``Službeni list RCG-opštinski propisi, broj 21/04, 42/06 i ``Službeni list CG`` - Opštinski propisi, broj. 2/11 i 21/13 ) Skupština opštine Andrijevica, na sjednici održanoj, 21.08.2015. godine, donijela je
+O D L U K U
+o izmjenama i dopunama Odluke o radnom vremenu,
