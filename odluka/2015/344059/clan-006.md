@@ -1,0 +1,2 @@
+# Član 6
+Prostorno - urbanističkim planom opštine Nikšić za prostor obuhvata plana generalno je planirano kao područje sa pretežnim namjenama :površine za stanovanje ,površine za mješovitu namjenu,površine za industriju i proizvodnju ,površine za poljoprivredu ,površine za školstvo i socijalnu zaštitu ,površine za centralne djelatnosti ,površine za turizam ,površine javne namjene ,površine specijalne namjene -"Arboretum",površine zaštitnih šuma,pojedinačna kulturna dobra ,memorijalno istorijsko nasleđe .
