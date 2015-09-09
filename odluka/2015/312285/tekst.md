@@ -1,0 +1,6 @@
+Na osnovu člana 29 stav 1 Zakona o državnoj imovini ("Službeni list CG", broj 21/09), čl. 3 i 9a Zakona o privatizaciji privrede ("Službeni list RCG", br. 23/96, 6/99, 59/00 i 42/04) i Odluke o planu privatizacije za 2015. godinu ("Službeni list CG", broj 9/15), Vlada Crne Gore, na sjednici od 20. avgusta 2015. godine, donijela je
+ODLUKU O PRODAJI AKCIJA VLADE CRNE GORE U INSTITUTU ZA FIZIKALNU MEDICINU,
+REHABILITACIJU I REUMATOLOGIJU ,,DR SIMO MILOŠEVIĆ" A.D. IGALO
+1. Vlada Crne Gore prodaje 73.387 akcija Instituta za fizikalnu medicinu, rehabilitaciju i reumatologiju "Dr Simo Milošević" a.d. Igalo u vlasništvu Vlade Crne Gore, po cijeni od 46,3988 eura za jednu akciju, što ukupno iznosi 10.020.000 eura, Kupcu, društvu International Wellness Group Limited, London, Velika Britanija, na način i pod uslovima definisanim ponudom i Ugovorom o kupoprodaji akcija.
+2. Ovlašćuje se Branko Vujović, predsjednik Tenderske komisije za privatizaciju da, u ime Vlade Crne Gore, potpiše Ugovor o kupoprodaji akcija u Institutu za fizikalnu medicinu, rehabilitaciju i reumatologiju "Dr Simo Milošević" a.d. Igalo.
+3. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom listu Crne Gore".
