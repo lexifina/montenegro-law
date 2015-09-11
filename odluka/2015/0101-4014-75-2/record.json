@@ -1,0 +1,57 @@
+{
+  "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/o_nadzoru_nad_primjenom_zakona_o_konverziji_kredita_chf.pdf",
+  "title": "Odluka o nadzoru nad primjenom Zakona o konverziji kredita u švajcarskim francima CHF u eure EUR",
+  "source_sha256": "09854fc4932d3eee1e2706aa7e0485bdfc39fe1334ce6be6b710aa93d9b9af28",
+  "source_bytes": 110914,
+  "pages": 2,
+  "source_images": 0,
+  "gazette_issue": "49/2015",
+  "publication_date": "2015-09-03",
+  "publication_evidence": {
+    "issue": "49/2015",
+    "date": "2015-09-03",
+    "quote": "49/15 od 03.09.2015",
+    "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/odluka_nad_primjenom_zakona_o_konverziji_kredita_chf_6316.pdf",
+    "source_sha256": "c56c8157181b93f4625d772b327b5288ea2e9560ef1038e74675cd947056e057"
+  },
+  "commencement_quote": "Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“.",
+  "date": "2015-09-11",
+  "basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“.\"; Gazette 49/2015 publication on 2015-09-03 stated as \"49/15 od 03.09.2015\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/odluka_nad_primjenom_zakona_o_konverziji_kredita_chf_6316.pdf.",
+  "comparison_mode": "exact body and annex character sequences; signature character inventory equal",
+  "text_sha256": "a781feb9229664d134e0d76828eecf43064320b6509c0ecaf27a749fd807132c",
+  "word_count": 473,
+  "official_numbers": [
+    "0101-4014/75-2"
+  ],
+  "path": "odluka/2015/0101-4014-75-2",
+  "kind": "as-enacted",
+  "issuer": "Centralna banka Crne Gore",
+  "text_status": "as-enacted",
+  "in_force": "2015-09-11",
+  "in_force_basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“.\"; Gazette 49/2015 publication on 2015-09-03 stated as \"49/15 od 03.09.2015\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/odluka_nad_primjenom_zakona_o_konverziji_kredita_chf_6316.pdf.",
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "complete": true,
+  "first_law": null,
+  "source_listing": "https://www.cbcg.me/me/o-nama/regulativa/podzakonski-akti",
+  "related_pis_candidates": [
+    337137
+  ],
+  "official_number": "0101-4014/75-2",
+  "official_number_quote": "O. br. 0101-4014/75-2",
+  "line_endings": "LF",
+  "current_text_asserted": false,
+  "related_official_versions": [
+    {
+      "title": "Odluka o nadzoru nad primjenom Zakona o konverziji kredita u švajcarskim francima CHF u eure EUR",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/odluka_nad_primjenom_zakona_o_konverziji_kredita_chf_6316.pdf",
+      "source_context": "- Odluka o nadzoru nad primjenom Zakona o konverziji kredita u švajcarskim francima CHF u eure EUR („Sl. list Crne Gore“ br. 49/15, 63/16) - Neslužbeni prečišćeni tekst"
+    },
+    {
+      "title": "Odluka o izmjenama i dopunama Odluke o nadzoru nad primjenom Zakona o konverziji kredita u švajcarskim francima CHF u eure EUR",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/izmjene_nad_primjenom_zakona_o_konverziji_kredita_chf_6316.pdf",
+      "source_context": "Odluka o izmjenama i dopunama Odluke o nadzoru nad primjenom Zakona o konverziji kredita u švajcarskim francima CHF u eure EUR („Sl. list Crne Gore“ br. 63/16)"
+    }
+  ],
+  "version_note": "Text as enacted; linked amendments and consolidated copies are separate records and are not applied to this text."
+}
