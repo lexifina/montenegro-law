@@ -1,0 +1,2 @@
+# Član 2
+Javni interes se utvrđuje radi regulisanja protivpožarnog pristupnog puta za zgradu za kolektivno stanovanje izgrađena na kat. Parceli br.1002 KO Rožaje, u skladu sa Zakonom o zaštiti i spašavanju ("Sl. list CG" br. 13/7, 5/08, 32/11) i Pravilnikom o tehničkim normativima za pristupne puteve, okretnice i uređene platoe za vatrogasna vozila u blizini objekata povećanog rizika od požara ("Sl. list SRJ" br. 8/95), kao opšti javni interes.
