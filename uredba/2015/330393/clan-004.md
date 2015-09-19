@@ -1,0 +1,2 @@
+# Član 4
+Program za analizu podataka iz biračkog spiska i preduzimanje mjera radi obezbjeđenja njihove međusobne usklađenosti i tačnosti omogućava sinhronizaciju podataka i kontrolu preuzimanja podataka iz matičnog registra rođenih, registra crnogorskih državljana, registra prebivališta i matičnog registra umrlih (u daljem tekstu: izvorni registri) u svakom trenutku, uvidom u broj birača u biračkom spisku, podatke koji se preuzimaju i promjene u izvornim registrima od značaja za vođenje biračkog spiska.
