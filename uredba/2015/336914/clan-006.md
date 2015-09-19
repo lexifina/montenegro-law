@@ -1,0 +1,4 @@
+# Član 6
+Kada se pomorska nezgoda ili nesreća dogodi u unutrašnjim morskim vodama i teritorijalnom moru Crne Gore, učesnici pomorske nezgode ili nesreće, njihovi predstavnici, kao i organi državne uprave koji imaju informaciju o pomorskoj nezgodi ili nesreći, dužni su da bez odlaganja obavijeste organ uprave nadležan za sigurnost plovidbe (u daljem tekstu: organ uprave) i Lučku kapetaniju.
+Organ uprave obavještava Ministarstvo, Komisiju i organ državne uprave nadležan za poslove odbrane ako je u pomorskoj nezgodi ili nesreći učestvovao ratni brod.
+Ukoliko je u pomorskoj nezgodi ili nesreći učestvovao brod koji vije stranu zastavu, Ministarstvo u roku od 24 sata od dobijanja obavještenja o pomorskoj nezgodi ili nesreći, obavještava državu čiju zastavu brod vije i druge zainteresovane države.
