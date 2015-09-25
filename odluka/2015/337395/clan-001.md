@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o zaduživanju i davanju garancija Crne Gore za 2015. godinu ("Službeni list CG", broj 6/15), u članu 2 na kraju stava 1 tačka zamjenjuje se zarezom i dodaju riječi: "Opštinu Kolašin u iznosu od 7.000.000,00 eura i ostale opštine koje koriste sredstva iz Egalizacionog fonda u iznosu od 100.000.000,00 eura, radi izmirenja obaveza i neizmirenih dugova, refinansiranje postojećih kreditnih obaveza i racionalizaciju uprave."
