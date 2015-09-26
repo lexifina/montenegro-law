@@ -1,0 +1,2 @@
+# Član 2
+Područje za koje se donosi Planski dokument obuhvata površinu od cca 7.70 ha, nalazi se unutar katastraske opštine Mrkovi na Luštici i definisano je Programskim zadatkom koji je sastavni dio Odluke o izradi Lokalne studije lokacije "Mrkovi - Njivice" na Luštici ("Sl. list CG Opstinski propisi." br. 04/14), kao i Odluka o izradi Strateške procjene uticaja na životnu sredinu za isti Planski dokument ("Sl. list CG Opstinski propisi." br. 08/14).
