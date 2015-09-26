@@ -1,0 +1,2 @@
+Na osnovu čl. 49. Zakona o lokalnoj samoupravi ( "Sl.list RCG " br.42/03, 28/04, 75/05 i "Sl.list CG" br.13/06, 88/09, 3/10 i 38 /12), čl. 31,32 i 35 Statuta Opštine Kolašin- Prečišćeni tekst ("Sl.list CG"- Opštinski propisi broj 31/11), i člana 4,6 i 11 Odluke o obrazovanju radnih tijela Skupštine ("Sl.list RCG- Opštinski propisi",broj 31/05), Skupština opštine Kolašin, na sjednici održanoj dana 28.08.2015.godine donijela je
+O D L U K U
