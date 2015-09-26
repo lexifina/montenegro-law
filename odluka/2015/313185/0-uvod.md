@@ -1,0 +1,2 @@
+Na osnovu člana 92 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Sl.list RCG",br. 42/03,28/04, 75/05, 13/06, 88/09, 03/10, 73/10, 38/12, 10/14),člana 5 stav 1 tačka 3 Zakona o finansiranju lokalne samouprave ("Sl.list CG" broj: 42/03, 44/03, "Sl.list CG" broj: 05/08, 51/08, 74/10,01/15) i člana 36 stav 1 tačka 9 Statuta opštine Herceg Novi ("Sl.list RCG-Opštinski propisi",br.15/04, 32/05, 31/06, 14/07, "Sl.list CG-Opštinski propisi"",br.16/09 i 16/11) Skupština opštine Herceg Novi na sjednici održanoj dana 15.09.2015.godine, donosi
+O D L U K U
