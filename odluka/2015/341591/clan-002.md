@@ -1,0 +1,2 @@
+# Član 2
+Ovlašćuje se Predsjednik opštine Šavnik, da sredstva za otpremninu u iznosu od 10 000,00 eura, kao i sredstva za zaostala potrživanja po osnovu ličnog dohotka do dana donošenja Rješenja o prestanku radnog odnosa isplati iz sredstava tekuće budžetske rezerve, u skladu sa sporazumom br. 01-035 od 15.09.2015.godine i da prenese JU Centar za kulturu, sport i medije Šavnik predviđena sredstva za tu namjenu.
