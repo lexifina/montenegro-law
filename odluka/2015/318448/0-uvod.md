@@ -1,0 +1,2 @@
+Na osnovu člana 11 stav 1 alineja 5 Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalne djelatnosti" Šavnik ("Sl.list CG-Opštinski propisi", br. 30/13 i 18/15) i člana 18 stav 1 tačka 5 Društva sa ograničenom odgovornošću "Komunalne djelatnosti" Šavnik ("Sl.list CG-Opštinski propisi", br. 23/15) i člana 35 Statuta opštine Šavnik ("Sl.list RCG-Opštinski propisi", br. 36/04 i "Sl.list CG-Opštinski propisi", br 24/08, 36/10 i 18/15), Skupština opštine Šavnik na sjednici održanoj 30.09.2015. godine, donijela je
+O D L U K U
