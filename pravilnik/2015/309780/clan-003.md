@@ -1,0 +1,2 @@
+# Član 3
+Kontrola imovine i prihoda iz člana 1 ovog pravilnika vrši se upoređivanjem podataka iz izvještaja o imovini i prihodima, kao i imovini i prihodima bračnih i vanbračnih supružnika i djece koja žive u zajedničkom domaćinstvu, koji policijski službenici dostavljaju u skladu sa posebnim zakonom, sa podacima organa i pravnih lica koji raspolažu tim podacima, a koji su dostupni u skladu sa zakonom.
