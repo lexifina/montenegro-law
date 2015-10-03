@@ -1,0 +1,4 @@
+# Član 24
+Tajni podaci, osim podataka stepena tajnosti "STROGO TAJNO", mogu se obrađivati van bezbjednosnih zona, ako je prostor ili područje u kojem se obrađuju fizički ili tehnički obezbijeđen, a pristup do njega pod nadzorom. Lice koje obrađuje tajni podatak van bezbjednosnih zona mora imati tajni podatak cijelo vrijeme pod nadzorom. Po okončanoj obradi, tajni podatak se vraća u bezbjednosnu zonu.
+Kad se tajni podatak stepena tajnosti "TAJNO" i "POVJERLJIVO" mora obrađivati van prostora, odnosno prostorija određenog organa radi izvođenja tačno određenog naloga, starješina organa utvrđuje mjere za zaštitu tajnog podatka koje moraju biti u skladu sa mjerama propisanim za odgovarajuću bezbjednosnu zonu.
+Svako iznošenje ili unošenje tajnog podatka stepena tajnosti "TAJNO" i "POVJERLJIVO" van bezbjednosne zone se evidentira. Lice koje preuzima tajni podatak, potvrđuje to svojeručnim potpisom i preuzima odgovornost za zaštitu tajnog podatka.

@@ -1,0 +1,2 @@
+# Član 1
+Državni organi, organi državne uprave, organi jedinica lokalne samouprave i druga pravna lica kojima je povjereno vršenje javnih ovlašćenja (u daljem tekstu: organi), kao i pravna i fizička lica kad u vršenju zakonom utvrđenih poslova, odnosno izvršavanju ugovorenog posla saznaju za tajne podatke (u daljem tekstu: organizacije) dužni su da administrativne i fizičke mjere zaštite tajnih podataka, sprovode pod uslovima i na način propisan ovom uredbom.
