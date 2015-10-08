@@ -1,0 +1,2 @@
+# Član 43
+Zaposlenom za čijim je radom prestala potreba, a nije mu obezbijeđeno nijedno od prava utvrđenih zakonom, poslodavac je dužan da isplati otpremninu u visini od najmanje 60% njegove mjesečne prosječne zarade bez poreza i doprinosa u prethodnom polugodištu za svaku godinu rada kod tog poslodavca, odnosno 60% mjesečne prosječne zarade bez poreza i doprinosa na nivou grane, ako je to povoljnije za zaposlenog.

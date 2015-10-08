@@ -1,0 +1,3 @@
+# Član 54
+Poslodavac će za vrijeme važenja člana 60 Opšteg kolektivnog ugovora ("Sl. list Crne Gore", br. 14/2014), na račun posebnog fonda reprezentativnog sindikata na nivou Crne Gore, prilikom isplate zarade, uplaćivati iznos od 0,2% na zaradu zaposlenog koji je član tog sindikata, kao povećani trošak u funkciji kvalitetnog izvršavanja poslova, prevencije radne invalidnosti i rekreativnog odmora zaposlenih.
+U slučaju prestanka važenja člana 60 Opšteg kolektivnog ugovora, ugovorne strane su saglasne da poslodavac sredstva iz stava 1 ovog člana uplaćuje na poseban račun Fonda za prevenciju radne invalidnosti i rekreativni odmor sindikalne organizacije kod poslodavca kod koga je zaposleni član.
