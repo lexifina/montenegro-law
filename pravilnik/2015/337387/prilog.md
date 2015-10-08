@@ -1,0 +1,1 @@
+-------------------------- * U ovaj pravilnik prenesena je Direktiva Savjeta od 26. juna 1964. godine o zdravstvenim problemima životinja koja utiču na trgovinu govedima i svinjama unutar Evropske unije (Council Directive 64/432/EEC of 26 June 1964 on animal health problems affecting intra- Community trade in bovine animals and swine)
