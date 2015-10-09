@@ -1,0 +1,3 @@
+Na osnovu člana 57 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Sl.list RCG«, br. 42/03, 28/04, 75/05, 13/06 i »Sl.list CG«, br. 88/09, 03/10, 73/10, 38/12 i 10/14) i člana 72 stav 1 tačka 6 Statuta Glavnog grada (»Sl.list RCG - Opštinski propisi«, br. 28/06 i »Sl.list CG-Opštinski propisi«, br. 39/10 i 18/12), a u vezi sa članom 18 stav 1 Zakona o Glavnom gradu (»Sl.list RCG«, br.65/05 i »Sl.list CG«,br.88/09 i 72/10), Gradonačelnik Glavnog grada, po pribavljenom mišljenju
+Glavnog administratora br.: 01-02-034/15-779/1 od 03.04.2015. godine, donio je
+O D L U K U
