@@ -1,0 +1,3 @@
+# Član 2
+Urbanistički projekat "Savina - kat. parcela 2093/1 K.O.Topla", obuhvata prostor u površini od cca 0.22 ha u okviru K.O. Topla, definisan Programskim zadatkom br. 01-1374/15-1 od 03.08.2015. godine, koji čini sastavni dio Odluke o izradi ovog planskog dokumenta.
+Osnovni cilj izrade navedenog planskog dokumenta je detaljna razrada i valorizacija istog shodno planovima višeg reda. Imajući u vidu da se radi o neizgrađenoj lokaciji u centru grada, planom će se definisati precizni uslovi urbanističke regulacije i smjernice za izgradnju novoplaniranih objekata kao razrada plana višeg reda, a radi stvaranja kvalitetnog prostora u funkcionalnom i ambijentalnom smislu vodeći računa o zaštiti životne sredine.
