@@ -1,0 +1,7 @@
+# Član 3
+## Kriterijumi za utvrđivanje učestalosti periodičnih mjerenja
+Učestalost periodičnih mjerenja utvrđuje se na osnovu sljedećih kriterijuma:
+1) mjerenje se vrši jedanput svake četvrte kalendarske godine ako pri prvom mjerenju u odabranim tačkama u okolini izvora izmjerene vrijednosti ne prelaze 10% propisanih vrijednosti upozorenja za elektromagnetna polja date frekvencije, odnosno ako ukupni nivo zračenja koje kumulativno generišu svi izvori ne prelazi 10% dozvoljene vrijednosti;
+2) mjerenje se vrši jedanput svake druge kalendarske godine ako pri prvom mjerenju u odabranim tačkama u okolini izvora izmjerene vrijednosti iznose između 10% i 50% propisanih vrijednosti upozorenja za elektromagnetna polja date frekvencije, odnosno ako ukupni nivo zračenja koje kumulativno generišu svi izvori iznosi između 10% i 50% dozvoljene vrijednosti;
+3) mjerenje se vrši jedanput godišnje ako pri prvom mjerenju u odabranim tačkama u okolini izvora izmjerene vrijednosti prelaze 50% propisanih vrijednosti upozorenja za elektromagnetna polja date frekvencije, odnosno ako ukupni nivo zračenja koje kumulativno generišu svi izvori prelazi 50% dozvoljene vrijednosti.
+Periodično mjerenje nivoa elektromagnetnog polja u okolini izvora sprovodi se sa povećanom učestalošću u skladu sa stavom 1 ovog člana, ako se na lokaciji izvora elektromagnetnih polja za koje je izdata dozvola za korišćenje pusti u rad novi izvor koji povećava utvrđenu učestalost periodičnih mjerenja.
