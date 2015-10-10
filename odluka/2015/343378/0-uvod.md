@@ -1,0 +1,2 @@
+Na osnovu člana 28 Zakona o turističkim organizacijama ("Sl.list RCG", broj 11/04, 46/07 i "Sl.list CG", 73/10, 40/11 i 45/14), člana 24 Odluke o osnivanju Turističke organizacije Opštine Bar ("Sl.list RCG-Opštinski propisi", broj 21/04 i 06/05 i "Sl.list CG-Opštinski propisi", broj 7/15) i člana 41 stav 1 tačka 31 Statuta opštine Bar ("Službeni list CG-Opštinski propisi", broj 6/11), Skupština opštine Bar, na sjednici održanoj 17.09.2015.godine, donijela je
+O D L U K U
