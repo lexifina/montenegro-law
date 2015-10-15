@@ -1,0 +1,4 @@
+# Član 1
+Ovim zakonom propisuju se standardi kvaliteta i bezbjednosti tkiva i ćelija koje su namijenjene za korišćenje kod ljudi u postupcima dobijanja, davanja, uzimanja, testiranja, obrade, očuvanja, skladištenja, distribucije, presađivanja, uvoza, izvoza i razmjene tkiva i ćelija, kao i za industrijsku izradu proizvoda dobijenih od tkiva i ćelija, u cilju obezbjeđivanja zaštite zdravlja ljudi.
+Odredbe ovog zakona odnose se i na hematopoetske ćelije iz periferne krvi, matične ćelije (krvi) pupčanika i koštane srži, matične ćelije odraslih i polne ćelije, ako posebnim zakonom nije drugačije uređeno.
+Odredbe ovog zakona ne odnose se na tkiva i ćelije koje se koriste za autologno presađivanje u okviru istog hirurškog zahvata, krv i komponente krvi, organe ili djelove organa ako se njihova funkcija koristi u istu svrhu kao i cijeli organ u ljudskom tijelu, kao i na tkiva dobijena prilikom uzimanja organa za potrebe transplantacije istog organa.

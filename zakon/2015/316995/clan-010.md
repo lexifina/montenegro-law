@@ -1,0 +1,4 @@
+# Član 10
+Organ državne uprave nadležan za poslove zdravlja (u daljem tekstu: Ministarstvo), zdravstvene ustanove i zdravstveni radnici uključeni u postupke dobijanja, uzimanja, skladištenja, presađivanja i razmjene tkiva i ćelija i ostale zdravstvene ustanove, kao i obrazovne ustanove, mediji i druge organizacije međusobno sarađuju na uspješnom sprovođenju, unaprjeđivanju, popularizaciji i zdravstvenom prosvjećivanju stanovništva o značaju davanja tkiva i ćelija.
+Popularizacija davanja tkiva i ćelija sprovodi se kontinuirano na teritoriji Crne Gore i podrazumijeva upoznavanje javnosti sa medicinskim, zakonskim, socijalnim, etičkim i drugim aspektima od značaja za davanje tkiva i ćelija.
+Promovisanje dobrovoljnog davanja tkiva i ćelija u štampanim i elektronskim medijima ili u bilo kojem drugom nosiocu oglasne poruke je besplatno.

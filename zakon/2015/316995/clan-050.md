@@ -1,0 +1,8 @@
+# Član 50
+Sva tkiva i ćelije koje su dobijene, obrađene, očuvane ili distribuirane na teritoriji Crne Gore, kao i relevantni podaci o proizvodima i materijalima koji dolaze u kontakt sa tkivima i ćelijama i utiču na njihov kvalitet i bezbjednost moraju da budu evidentirani i praćeni od davaoca do primaoca, kao i od primaoca do davaoca (u daljem tekstu: sljedljivost), u svim fazama postupaka iz člana 1 ovog zakona.
+Ovlašćene zdravstvene ustanove dužne su da uspostave sistem identifikacije dodjeljivanjem jedinstvenog identifikacionog broja svakom davaocu, dobijenom tkivu i ćeliji, kao i proizvodu dobijenom od tkiva i ćelija, radi obezbjeđivanja sljedljivosti.
+Sadržaj jedinstvenog identifikacionog broja tkiva i ćelija namijenjenih za uvoz, izvoz, odnosno razmjenu može se uskladiti sa prihvaćenim kodnim sistemom država članica Evropske unije sa kojima se taj postupak obavlja.
+Sva tkiva i ćelije se obilježavaju naljepnicom koja sadrži podatke ili upućivanja na podatke koji se odnose na postupke dobijanja tkiva i ćelija i prijema u ovlašćenim zdravstvenim ustanovama za obradu, skladištenje i distribuciju.
+Ovlašćene zdravstvene ustanove dužne su da čuvaju sve podatke i dokumentaciju koja je potrebna za sljedljivost, najmanje 30 godina nakon kliničkog korišćenja (potpuna sljedljivost).
+Podatke koji su potrebni za obezbjeđivanje sljedljivosti ovlašćene zdravstvene ustanove čuvaju u pisanom i elektronskom obliku.
+Bliže uslove za obezbjeđivanje sljedljivosti tkiva i ćelija, kao i proizvoda i materijala koji dolaze u kontakt sa tkivima i ćelijama, vođenje evidencija i druga pitanja od značaja za obezbjeđivanje sljedljivosti propisuje Ministarstvo.

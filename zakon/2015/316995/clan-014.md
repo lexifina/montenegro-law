@@ -1,0 +1,5 @@
+# Član 14
+Postupke iz člana 1 ovog zakona mogu da obavljaju zdravstvene ustanove i djelovi zdravstvenih ustanova ili banke tkiva i ćelija koje ispunjavaju propisane uslove i imaju rješenje Ministarstva za obavljanje ovih postupaka (u daljem tekstu: ovlašćene zdravstvene ustanove).
+Rješenje iz stava 1 ovog člana donosi se po vrsti postupaka i tkiva, odnosno ćelija.
+Pojedine poslove u vezi dobijanja, obrade, očuvanja, skladištenja i distribucije tkiva i ćelija koji utiču ili mogu da utiču na kvalitet i bezbjednost tkiva i ćelija mogu da obavljaju i pravna lica, koja imaju rješenje iz st. 1 i 2 ovog člana, kao i zdravstvene ustanove, djelovi zdravstvenih ustanova i banke tkiva i ćelija iz država članica Evropske unije ili drugih država koje imaju dozvolu nadležnog organa za obavljanje tih poslova, ukoliko imaju iste uslove za uzimanje i prijem tkiva i ćelija i laboratorijska testiranja davaoca, koja su propisana ovim zakonom.
+Bliže uslove u pogledu prostora, kadra i opreme koje moraju da ispunjavaju ovlašćene zdravstvene ustanove i pravna lica iz stava 3 ovog člana propisuje Ministarstvo.

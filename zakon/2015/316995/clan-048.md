@@ -1,0 +1,6 @@
+# Član 48
+Ministarstvo može, uz saglasnost Vlade Crne Gore, sa međunarodnim organizacijama i institucijama, odnosno drugim državama da zaključi ugovor o uspostavljanju uzajamne saradnje za razmjenu tkiva i ćelija.
+Na osnovu ugovora iz stava 1 ovog člana, ovlašćene zdravstvene ustanove mogu da vrše neposrednu razmjenu tkiva i ćelija, ukoliko su sljedljivost i standardi kvaliteta i bezbjednosti ekvivalentni sljedljivosti i standardima kvaliteta i bezbjednosti koji su propisani ovim zakonom, kao i ukoliko su ispunjeni najviši profesionalni standardi medicinske nauke kojima se obezbjeđuje kvalitet i sprječavanje prenošenja zaraznih bolesti.
+Ukoliko su ispunjeni uslovi iz ugovora iz stava 1 ovog člana Ministarstvo, bez odlaganja, daje dozvolu za svaki pojedinačni slučaj razmjene tkiva, odnosno ćelija ovlašćenim zdravstvenim ustanovama.
+Ovlašćene zdravstvene ustanove dužne su da odmah obavijeste Ministarstvo o izvršenom presađivanju tkiva, odnosno ćelija koje se obezbjeđuju u skladu sa ugovorom iz stava 1 ovog člana.
+Bliže uslove za razmjenu tkiva i ćelija i način provjere ekvivalentnosti sljedljivosti i standarda kvaliteta i bezbjednosti tkiva i ćelija dobijenih razmjenom propisuje Ministarstvo.

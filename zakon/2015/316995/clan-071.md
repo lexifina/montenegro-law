@@ -1,0 +1,41 @@
+# Član 71
+Novčanom kaznom u iznosu od 1.000 eura do 20.000 eura kazniće se za prekršaj ovlašćena zdravstvena ustanova, ako:
+1) ne obrazuje Etički komitet, u skladu sa zakonom (član 16 stav 1);
+2) tkiva i ćelije koje nijesu dobijene i primljene u skladu sa ovim zakonom ne odbaci, ne skladišti i ne uništi u skladu sa posebnim propisom kojim je uređeno upravljanje medicinskim otpadom (član 21 stav 1);
+3) o prihvatanju odnosno odbacivanju tkiva i ćelija ne vodi posebnu evidenciju (član 21 stav 2);
+4) o prihvatanju odnosno odbacivanju tkiva i ćelija ne sačini godišnji izvještaj (član 21 stav 2);
+5) godišnji izvještaj iz člana 21 stav 2 ovog zakona ne dostavi Ministarstvu do 15. januara tekuće godine za prethodnu godinu (član 21 stav 3);
+6) ne čuva tkiva i ćelije u stanju, odnosno fizičkoj izolaciji ili na drugi odgovarajući način, radi provjere njihovog kvaliteta i bezbjednosti (karantin) do donošenja odluke o njihovom prihvatanju ili odbacivanju (član 22);
+7) zdravstvenim radnicima koji vrše poslove u postupcima iz člana 1 ovog zakona ne obezbijedi kontinuiranu edukaciju i obuku, u skladu sa programima koji su zasnovani na naučnom razvoju u ovoj oblasti (član 23 stav 3);
+8) ne vodi evidenciju o broju i vrsti uvezenih tkiva i ćelija i njihovom presađivanju (član 47 stav 6);
+9) ne vodi evidenciju o broju i vrsti izvezenih tkiva i ćelija i njihovom presađivanju (član 47 stav 6);
+10) odmah ne obavijesti Ministarstvo o izvršenom presađivanju tkiva, odnosno ćelija koje se obezbjeđuju u skladu sa ugovorom iz člana 48 stav 1 ovog zakona (član 48 stav 4);
+11) ne uspostavi sistem identifikacije dodjeljivanjem jedinstvenog identifikacionog broja svakom davaocu, dobijenom tkivu i ćeliji, kao i proizvodu dobijenom od tkiva i ćelija, radi obezbjeđivanja sljedljivosti (član 50 stav 2);
+12) ne čuva sve podatke i dokumentaciju koja je potrebna za sljedljivost, najmanje 30 godina nakon kliničkog korišćenja (član 50 stav 5);
+13) podatke koji su potrebni za obezbjeđivanje sljedljivosti ne čuva u pisanom i elektronskom obliku (član 50 stav 6);
+14) ne uspostavi efikasan sistem za analizu, praćenje, evidentiranje i međusobno obavještavanje o svim ozbiljnim neželjenim pojavama i ozbiljnim neželjenim reakcijama koje mogu da utiču na kvalitet i bezbjednost tkiva i ćelija, kao i o svim ozbiljnim neželjenim reakcijama koje se uoče tokom ili nakon kliničkog korišćenja tkiva i ćelija i koje mogu da se povežu sa njihovim kvalitetom i bezbjednošću (član 51 stav 1);
+15) u cilju obezbjeđivanja sljedljivosti i kontrole kvaliteta i bezbjednosti, ne prati ozbiljne neželjene pojave i ozbiljne neželjene reakcije kod davaoca, odnosno primaoca (član 51 stav 2);
+16) u cilju obezbjeđivanja sljedljivosti i kontrole kvaliteta i bezbjednosti o svakoj sumnji na ozbiljne neželjene pojave i ozbiljne neželjene reakcije kod davaoca, odnosno primaoca bez odlaganja ne obavijesti sve ovlašćene zdravstvene ustanove koje su uključene u postupke iz člana 1 ovog zakona i Ministarstvo (član 51 stav 2);
+17) ne vodi registar ozbiljnih neželjenih pojava i ozbiljnih neželjenih reakcija (član 51 stav 3);
+18) ne uspostavi sistem za efikasno, precizno i provjerljivo povlačenje za dalje korišćenje tkiva i ćelija, kao i svakog proizvoda dobijenog od tkiva i ćelija koji se može dovesti u vezu sa ozbiljnom neželjenom pojavom ili ozbiljnom neželjenom reakcijom (član 52);
+19) ne uspostavi i ne održava sistem kvaliteta koji se zasniva na standardima, specifikacijama i principima Dobre proizvođačke prakse i Dobre laboratorijske prakse (član 53 stav 1);
+20) u upravljanju sistemom kvaliteta ne obezbijedi sljedeću neophodnu dokumentaciju: pisane procedure; smjernice; priručnike za obuku i referentne priručnike; obrasce za izvještavanje; evidencije o davaocima; podatke o krajnjem odredištu tkiva, odnosno ćelija i druge podatke za obezbjeđivanje i upravljanje sistemom kvaliteta (član 53 stav 2);
+21) radi upravljanja i obezbjeđivanja sistema kvaliteta i sljedljivosti ne vodi i ne čuva dokumentaciju iz člana 53 stav 2 ovog zakona (član 53 stav 4);
+22) ne utvrdi pisane procedure za svaki proces obrade kojim se obezbjeđuje kvalitet i bezbjednost tkiva i ćelija, kao i za svaku izmjenu procesa obrade (član 54 stav 3);
+23) ne obezbijedi da se svi postupci u vezi skladištenja evidentiraju i dokumentuju, u skladu sa uspostavljenim pisanim procedurama i uslovima skladištenja (član 55 stav 2);
+24) ne primjenjuje standardne postupke kontrole prostora za pakovanje i skladištenje, kako bi se spriječile pojave koje mogu negativno da utiču na funkcionalnost ili kvalitet tkiva i ćelija (član 55 stav 3);
+25) ne zaključi pisani ugovor sa zdravstvenom ustanovom koja ima dozvolu za obavljanje poslova skladištenja, kako bi se, u slučaju prestanka rada, obezbijedilo očuvanje tkiva i ćelija i njihovo prenošenje i skladištenje u tu zdravstvenu ustanovu, pod uslovima propisanim ovim zakonom (član 55 stav 4);
+26) ne obezbijedi da se tkiva i ćelije obilježavaju u skladu sa ovim zakonom i da se dokumentacija o tome čuva (član 56 stav 1);
+27) ne obezbijedi odgovarajuću ambalažu za pakovanje tkiva i ćelija (član 56 stav 2);
+28) prije distribucije tkiva i ćelija ne provjeri način obrade i uslove kvaliteta i bezbjednosti tkiva i ćelija, u skladu sa ovim zakonom (član 57 stav 2);
+29) ne obavlja distribuciju tkiva i ćelija pod uslovima kojima se obezbjeđuje njihov kvalitet i bezbjednost (član 57 stav 3);
+30) podatke iz člana 59 stav 1 ovog zakona ne vodi i ne evidentira na jedinstven način, koji onemogućava nastanak rizika od zamjene identiteta (član 59 stav 2);
+31) ne uspostavi pisane procedure za dobijanje, kontrolu i usaglašenost podataka iz člana 59 stav 1 ovog zakona (član 59 stav 5);
+32) podatke iz člana 59 stav 1 ovog zakona ne čuva na bezbjednom mjestu i na način koji onemogućava da se davalac ili primalac može neovlašćeno identifikovati, uz istovremeno obezbjeđivanje sistema sljedljivosti (član 60 stav 1);
+33) ne vodi evidenciju o: broju davalaca; vrsti i broju dobijenih tkiva i ćelija, testiranih, skladištenih, obrađenih, očuvanih, odnosno distribuiranih tkiva i/ili ćelija (ili koje su na drugi način bile na raspolaganju); načinu korišćenja tkiva i ćelija; porijeklu i odredištu tkiva i ćelija; broju primalaca tkiva i ćelija i vrsti i broju uništenih tkiva i ćelija (član 62 stav 1);
+34) o podacima iz člana 62 stav 1 ovog zakona ne sačini godišnji izvještaj (član 62 stav 2);
+35) izvještaj iz člana 62 stav 2 ovog zakona ne dostavi Ministarstvu do 30. juna tekuće godine za prethodnu godinu (član 62 stav 3);
+36) ne vodi evidenciju o: ličnim podacima davaoca i primaoca; svakom uzimanju i presađivanju, uvozu, izvozu i razmjeni tkiva i ćelija; ozbiljnim neželjenim pojavama i ozbiljnim neželjenim reakcijama; uspješnosti postupaka i zdravstvenom stanju davaoca i primaoca nakon sprovedenog postupka i ostalim podacima koji su od značaja za ove postupke (član 63 stav 1);
+37) o podacima iz člana 63 stav 1 ovog zakona ne sačini mjesečni i godišnji izvještaj (član 63 stav 2);
+38) mjesečne izvještaje o evidencijama iz člana 63 stav 1 ovog zakona ne dostavi Ministarstvu do 15. u tekućem mjesecu za prethodni mjesec, a godišnji izvještaj do 31. marta tekuće godine za prethodnu godinu (član 63 stav 3);
+Za prekršaj iz stava 1 ovog člana kazniće se i odgovorno lice u ovlašćenoj zdravstvenoj ustanovi novčanom kaznom u iznosu od 300 eura do 2.000 eura.

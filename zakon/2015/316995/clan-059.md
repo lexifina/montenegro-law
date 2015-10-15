@@ -1,0 +1,6 @@
+# Član 59
+Lični podaci i podaci o zdravstvenom stanju davaoca i primaoca, rezultati obavljenih laboratorijskih testiranja, ozbiljne neželjene pojave ili ozbiljne neželjene reakcije, genetičke informacije, kao i ostali lični podaci koje saznaju zdravstveni radnici i zdravstveni saradnici u svim fazama postupka od uzimanja do presađivanja, odnosno uništavanja tkiva i ćelija, kao i zaposleni u pravnim licima iz člana 14 stav 3 ovog zakona, su profesionalna tajna i čuvaju se kao lični podaci, u skladu sa zakonom kojim je uređena zaštita podataka o ličnosti.
+Podatke iz stava 1 ovog člana ovlašćene zdravstvene ustanove vode i evidentiraju na jedinstven način, koji onemogućava nastanak rizika od zamjene identiteta.
+Zabranjeno je neovlašćeno dodavanje podataka, njihovo brisanje ili izmjena u zdravstvenom kartonu davaoca i informacionom sistemu, kao i svaki prenos ili ustupanje informacija.
+Podaci iz stava 1 ovog člana mogu da se koriste samo za namjene koje su utvrđene ovim zakonom, zakonom kojim su uređene evidencije u oblasti zdravstva, kao i za obradu u statističke svrhe, epidemiološka i naučna istraživanja, ukoliko su anonimni i ne mogu se povezati sa ličnom identifikacijom davaoca.
+Ovlašćene zdravstvene ustanove uspostavljaju pisane procedure za dobijanje, kontrolu i usaglašenost podataka iz stava 1 ovog člana.

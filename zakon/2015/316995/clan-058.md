@@ -1,0 +1,2 @@
+# Član 58
+Svako tkivo i ćelija koja se distribuira mora da ima jedinstveni identifikacioni broj koji sadrži informacije o postupku dobijanja i prijema u ovlašćenim zdravstvenim ustanovama, podatke o uzimanju, davanju, obradi, očuvanju, karantinu, skladištenju, distribuciji i presađivanju tkiva i ćelija, kako bi se omogućila sljedljivost u skladu sa ovim zakonom i obezbijedile informacije o najvažnijim osobinama i svojstvima tkiva i ćelija.
