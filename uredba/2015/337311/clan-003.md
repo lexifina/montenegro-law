@@ -1,0 +1,4 @@
+# Član 3
+## Obavještavanje kontakt tačke
+Kada inspektor organa nadzora na tržištu (u daljem tekstu: inspektor), po službenoj dužnosti ili po obavještenju potrošača, proizvođača, distributera, carinskog organa, izvještaja sistema brze razmjene informacija u Evropskoj uniji o opasnim proizvodima, naročito o proizvodima koji predstavljaju ozbiljan rizik (u daljem tekstu: RAPEX sistem) ili na osnovu druge dostupne međunarodne baze podataka ili baza podataka drugih država ili drugih dostupnih baza podataka koje dobija preko kontakt tačke, prilikom inspekcijskog nadzora utvrdi da se na tržištu nalazi opasan proizvod dužan je da, pored preduzimanja propisanih mjera, o tome bez odlaganja obavijesti kontakt tačku, u skladu sa propisom kojim se uređuje sadržaj obavještenja o opasnom proizvodu.
+Ako inspektor po prijemu obavještenja iz stava 1 ovog člana utvrdi da proizvod nije opasan, o tome će informisati kontakt tačku za potrebe izvještavanja.
