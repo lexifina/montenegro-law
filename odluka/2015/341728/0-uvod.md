@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl.list CG", br. 88/09 i 3/10), člana 60 i 62 Zakona o finansiranju lokalne samouprave ("Sl.list RCG", br. 42/03 i "Sl.list CG", br. 5/08 i 74/10), člana 2 Odluke o zaduživanju i davanju garancija Crne Gore za 2015. godinu ("Sl.list CG", br. 6/15 i 54/15) i člana 44 stav 1 tačka 17 Statuta Opštine Mojkovac ("Sl.list CG-Opštinski propisi, br. 31/10 i 26/12), Skupština opštine Mojkovac na sjednici održanoj dana 08.10.2015. godine donijela je
+ODLUKU
