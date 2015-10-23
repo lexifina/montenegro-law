@@ -1,0 +1,2 @@
+Na osnovu člana 31 i 35Statuta Opštine ("Sl. list RCG-Opštinski propisi",broj 40/04 i 26/06 i "Službeni list CG-Opštinski propisi", broj 12/11, 21/11 i 3/13), i člana 3 Sporazuma o utvrđivanju prava i obaveza na izgradnji objekata za kolektivno stanovanje broj 0101-911 od 20.11.2013 godine i Sporazuma o izmjenama i dopunama Sporazuma o utvrđivanju prava i obaveza na izgradnji objekata za kolektivno stanovanje u Tivtu broj 0101-370-80/28, Skupština opštine Tivat, na sjednici održanoj dana 30.09.2015.godine, donijela je
+ODLUKU
