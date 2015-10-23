@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Sl.list RCG"br.42/03 ,28/04, 75/05 i 13/06 i "Sl.list CG"br.88/09, 3/10,73/10,38/12 i 10/14), člana 31 Statuta opštine Tivat("Sl.list RCG-Opštinski propisi"br.40/04 i 26/06 i "Sl.list Crne Gore- Opštinski propisi"br.12/11 , 21/11,3/12) I člana 15 Odluke o mjesnim zajednicama (Sl.list CG-Opštinski propisi, br. 37/05), Skupština opštine Tivat ,na sjednici održanoj dana 30.09.2015. godine donijela je
+O D L U K U
