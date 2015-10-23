@@ -1,0 +1,3 @@
+Na osnovu člana 29 Zakona o državnoj imovini ("Sl.list Crne Gore" br.21/09, 40/11) u vezi sa čl.194, 201, 208 i 216 Zakona o svojinsko pravnim odnosima ("Sl.list Crne Gore"br. 19/09) i sa članom 52 Zakona o uređenju prostora i izgradnji objekata ("Sl.list Crne Gore "br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13, 34/14 ) i na osnovu člana 35 Statuta Opštine Tivat ("Sl.list Republike Crne Gore- Opštinski propisi" br. 40/04, 26/06, "Sl.list Crne Gore- Opštinski propisi"br. 12/11, 21/11, 03/12) Skupština opštine Tivat na sjednici održanoj dana 30.09.2015. godine donijela je
+O D L U K U
+o ustanovljavanju službenosti na dijelu kat.parcela 1278, 1279 i 1281 k.o.Mrčevac radi rekonstrukcije 10kV kablovskog
