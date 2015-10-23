@@ -1,0 +1,2 @@
+# Član 12
+Djelovi uniforme iz člana 11 tač. 1 i 4 i tač. 7 do 14 ovog pravilnika istog su izgleda, sastava i boje kao djelovi uniforme iz člana 5 tač. 1 i 5 i tač. 9 do 16 ovog pravilnika, djelovi uniforme iz tač. 2 i 3 kao djelovi uniforme iz člana 7 stav 2 ovog pravilnika, a djelovi uniforme iz tač. 5 i 6 i tač. 15 i 16 kao djelovi uniforme iz člana 10 st. 2, 3 i 4 ovog pravilnika, s tim što je kroj djelova uniforme iz tač. 1 i 4 i tač. 5 do 14 prilagođen anatomskoj građi žene.
