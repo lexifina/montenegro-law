@@ -1,0 +1,3 @@
+# Član 1
+## o prenosu ovlašćenja na komisiju za rješavanje stambenih pitanja za lokalne službenike i namještenike
+Ovlašćuje se Komisija za rješavanje stambenih pitanja lokalnih službenika i namještenika ( u daljem tekstu Komisija ), koju je formirao Predsjednik opštine Tivat u skladu sa članom 44 Odluke o rješavanju stambenih potreba službenika i namještenika organa lokalne uprave Opštine Tivat ( Sl.list"Crne Gore 25/15), da u i ime i za račun zaposlenih u Turističkoj organizaciji Tivat, JU "Sportska dvorana" Tivat i JU " Centar za kulturu" Tivat sprovede postupak raspodjele stanova koji su opredijeljeni u sklopu zajedničkog projekta Opštine Tivat i CFSSI.
