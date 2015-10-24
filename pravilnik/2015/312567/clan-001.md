@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o zahtjevima za koordinisano uvođenje data link usluga za Jedinstveno evropsko nebo ("Službeni list CG", br. 27/14), na kraju člana 2, tačka se briše i dodaju se riječi " i Uredba Komisije (EU) 2015/310 od 26. februara 2015. godine, kojom je mijenja i dopunjava Uredba Komisije (EZ) br. 29/2009 od 16. januara 2009. godine koja propisuje zahtjeve za data link usluge za Jedinstveno evropsko nebo i kojom se stavlja van snage Uredba (EU) br. 441/2014, koja je data u Prilogu 2 ovog pravilnika."
