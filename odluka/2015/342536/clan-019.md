@@ -1,0 +1,2 @@
+# Član 19
+Danom stupanja na snagu ove odluke prestaju da važe Odluka o organizovanju Javne ustanove Centar za kulturu Nikšić ("Službeni list RCG - Opštinski propisi", broj 25/99 i "Službeni list CG - Opštinski propisi", broj 33/08) i Odluka o osnivanju Javne ustanove "Stari grad - Anderva" Nikšić ("Službeni list RCG - Opštinski propisi", broj 6/01 i "Službeni list CG - Opštinski propisi", broj 33/08).
