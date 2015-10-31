@@ -1,0 +1,4 @@
+# Član 1
+## u Kličevu Ministarstvu prosvjete Crne Gore za potrebe proširenja djelatnosti Javne predškolske ustanove "Dragan Kovačević" Nikšić
+Opština Nikšić je nosilac prava raspolaganja na prizemnoj zgradi broj 1, objekta Mjesne zajednice u Kočanima, površine 166 m2, na katastarskoj parceli broj 1179, upisan u listu nepokretnosti -izvod broj 93 KO Kočani i na zgradi broj 1, Doma omladine u Kličevu, površine 108 m2, na katastarskoj parceli broj 2865, upisan u listu nepokretnosti broj 393 KO Kličevo.
+Dio objekta MZ Kočani iz stava 1 ovog člana, u površini od 81 m2 kao i cjelokupan objekat Doma omladine u Kličevu u površini od 108 m2 ustupaju se na privremeno upravljanje i korišćenje, bez naknade, Ministarstvu prosvjete Crne Gore za potrebe proširenja djelatnosti Javne predškolske ustanove " Dragan Kovačević" Nikšić.
