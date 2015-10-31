@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta opštine Plužine ("Službeni list CG - Opštinski propisi", br. 23/2004, 7/2007, i "Službeni list CG- Opštinski propisi", br. 1/2011, 8/2011 i 22/2011), a u veyi sa članom 10 Zakona o teritorijalnoj organizaciji Crne Gore (″Službeni list CG″, br. 54/11, 26/12, 27/13, 62/13 i 12/14) Skupština opštine Plužine, na sjednici održanoj 12.10. 2015. godine, d o n i j e l a j e
+O D L U K U
