@@ -1,0 +1,4 @@
+# Član 1
+## o davanju na korišćenje poslovnih prostora Javnoj ustanovi "Centru za socijalni rad za opštine Nikšić, Plužine i Šavnik"
+Opština Nikšić je vlasnik poslovnog prostora u privredi, u prizemlju objekta broj 1, poseban dio 2, površine 60 m2, na katastarskoj parceli broj 1395, upisan u listu nepokretnosti broj 2773 KO Nikšić, poslovnog prostora u prizemlju objekta broj 7, poseban dio 1, površine 57 m2, na katastarskoj parceli broj 1365/4, upisan u listu nepokretnosti broj 2772 KO Nikšić i poslovnog prostora u suterenu objekta broj 13, poseban dio 113, površine 76 m2, na katastarskoj parceli broj 2763, upisan u listu nepokretnosti broj 2866 KO Nikšić.
+Poslovni prostori iz stava 1 ovog člana daju se na korišćenje bez naknade Javnoj ustanovi "Centru za socijalni rad za opštine Nikšić, Plužine i Šavnik", radi obavljanja djelatnosti iz sopstvene nadležnosti.
