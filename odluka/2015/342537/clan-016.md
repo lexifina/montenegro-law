@@ -1,0 +1,2 @@
+# Član 16
+Sredstva, opremu i zaposlene iz organizacionih djelova izdvojenih iz sastava Javne ustanove Centar za kulturu Nikšić: Narodne biblioteke "Njegoš" i Izdavačke djelatnosti i iz dijela Javne ustanove "Stari grad - Anderva" Nikšić (pravni poslovi, računovodstveno-finansijski poslovi, dio administrativno-komercijalnih poslova, poslovi arihive, dio knjigovodstvenih poslova i drugi srodni poslovi ) preuzima Ustanova.
