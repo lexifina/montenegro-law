@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14 i 56/14), čl. 62 stav 1, 63 stav 1 i 64 stav 2 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", br. 42/03 i 44/03 i "Službeni list CG", br. 05/08, 74/10 i 01/15) člana 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), čl.63 stav 1 tačka 15, 74 i 75 stav 3 Statuta Prijestonice ("Službeni list CG -Opštinski propisi", br. 19/09, 37/10, 26/13 i 39/14) Skupština Prijestonice, na sjednici održanoj 04.11.2015.godine, donijela je
+O D L U K U
