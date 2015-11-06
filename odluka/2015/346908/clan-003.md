@@ -1,0 +1,2 @@
+# Član 3
+Ovlašćuje se Predsjednik Opštine Kotor da sa ovlašćenim predstavnikom Ministarstva prosvjete CG, zaključi Ugovor o ustupanju bez naknade nekretnine iz člana 1. u vezi sa članom 2. ove Odluke, na osnovu kojeg će se izvršiti promjena upisa u katastru nepokretnosti za KO Dobrotu I kod Uprave za nekretnine CG - Područna jedinica Kotor, kao i da sa ovlašćenim predstavnikom Ministarstva prosvjete CG potpiše raskid Ugovora o ustupanju nekretnina bez naknade zaveden kod Ministarstva prosvjete CG pod brojem 01-850 od 16. 02. 2009.godine.
