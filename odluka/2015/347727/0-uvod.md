@@ -1,0 +1,3 @@
+1712. Na osnovu člana 48 Statuta Glavnog grada ("Službeni list RCG-Opštinski propisi", broj 28/06 i "Službeni list CG-Opštinski propisi", broj 39/10 i 18/12), člana 10 Odluke o osnivanju Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju - Podgorica ("Službeni list CG - Opštinski propisi", broj 13/15) i člana 16 Statuta Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju - Podgorica, Skupština Glavnog grada - Podgorice, na sjednici održanoj 06. novembra 2015.godine, donijela je
+O D L U K U
+o davanju saglasnosti na Odluku Upravnog odbora Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i
