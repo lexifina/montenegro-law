@@ -1,0 +1,2 @@
+Na osnovu člana 16, te članova 20, 38 i 40 stav 1 Zakona o spomen - obilježjima ("Službeni list Crne Gore", broj 40/08 i 40/11), člana 63 stav 1 tačka 52 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", broj 19/09,37/10 , 26/13 i 39/14) uz prethodno pribavljenu saglasnost Ministarstva kulture, rješenjem broj UPI 01-99/2 od 1.07.2015. godine, Skupština Prijestonice Cetinje, na sjednici održanoj dana 26.10. 2015.godine, donijela je
+ODLUKU
