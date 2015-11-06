@@ -1,0 +1,23 @@
+# Član 22
+Služba Glavnog administratora vrši stručne i druge poslove iz okvira prava i dužnosti Glavnog administratora , koji se odnose na:
+• pripremu upravnih akata u drugostepenom upravnom postupku,
+• pripremu mišljenja na akt o organizaciji i načinu rada organa lokalne uprave,
+• pripremu akta koja se odnose na zakonitost, efikasnosti i ekonomičnost u vršenju poslova lokalne uprave,
+• pripremu mišljenja na akt o unutrašnjoj organizaciji i sistematizaciji poslova organa lokalne uprave i službi,
+• pripremu stručnih upustava i instrukcije o načinu postupanja u vršenju poslova organa lokalne uprave,
+• pripremu odgovarajućeg akta radi izvršavanja akata Predsjednika opštine u ostvarivanju funkcije usmjeravanja i koordiniranja rada organa lokalne uprave i obezbjeđenja zakonitog, efikasnog i ekonomičnog rada organa uprave,
+• saradnju sa nadležnim organom uprave,
+• postupa po pritužbama građana na rad organa uprave,
+• predlaže akte koji se odnose na imovinska prava i ovlašćenja koje opština vrši u pogledu imovine koja služi za ostvarivanje njenih funkcija i vodi evidenciju te imovine,
+• pokreće postupak za upis prava na nepokretnostima,
+• pokreće postupak prenosa na nepokretnostima i vrši stručnu obradu akata o prenosu tih prava,
+• podnošenje predloga za utvrđivanje javnog interesa i eksproprijaciju nepokretnosti za potrebe opštine,
+• zastupa Opštinu i mjesne organe pred nadležnim sudovima i organima u oblasti imovinskih prava koja su u nadležnosti službe,
+• daje podatke organima opštine na osnovu evidencije koju vodi,
+• priprema propise i vrši obradu akata u vezi sa raspolaganjem državnom imovinom iz okvira ovlašćenja opštine (odluke, ugovori, rješenja),
+• daje mišljenja na predlog akata o raspolaganju državnom imovinom koje pripremaju javne službe čiji je osnivač opština,
+• priprema ugovore o zakupu poljoprivrednog zemljišta,
+• izradu i monitoring dokumenata iz svoje nadležnosti,
+• slobodan pristup informacijama iz nadležnosti Službe Glavnog administratora,
+• vršenje drugih poslova koje mu povjeri Predsjednik opštine,
+• vršenje drugih poslova u skladu sa ovlašćenjima i odgovornostima Glavnog administratora.

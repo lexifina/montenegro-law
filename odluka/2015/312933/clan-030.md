@@ -1,0 +1,3 @@
+# Član 30
+## Izvještaj glavnog administratora
+Glavni administrator najmanje jedanput godišnje podnosi predsjedniku Opštine izvještaj o svom radu i radu Službe i o stanju ostvarivanja funkcija organa i službi lokalne uprave. Ako Predsjednik opštine utvrdi da organ ili služba lokalne uprave ne vrši utvrđene poslove iz svoga djelokruga ili ne vrši poslove na zakonit, efikasan i ekonomičan način, a Glavni administrator nije preduzeo mjere za njihovo vršenje i za ostvarivanje funkcija organa - službe lokalne uprave, odnosno ako Glavni administrator poslove iz svoje nadležnosti ne obavlja zakonito, efikasno, ekonomično, ili poslove vrši nesavjesno, pokrenuće postupak razrešenja Glavnog administrator, u skladu sa Statutom.

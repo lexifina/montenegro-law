@@ -1,0 +1,20 @@
+# Član 21
+Služba Predsjednika opštine vrši poslove koji se odnose na:
+• utvrđivanju organizacije i načinu rada organa uprave Opštine koju donosi Predsjednik, radi na izradi propisa i drugih akata koje donosi Predsjednik opštine, prati realizaciju zaključaka Predsjednika opštine i izrađuje izvještaj o realizaciji tih zaključaka,
+• pripremu sastanaka Predsjednika opštine, i stara se o realizaciji zaključaka sa tih sastanaka,
+• izradu smjernica za ostvarivanje planova i programa razvoja Opštine i učestvuje u izradi programa rada Skupštine opštine,
+• pripremu izvještaja Predsjednika o njegovom radu u ostvarivanju funkcije lokalne samouprave,
+• pripremu mišljenja o predlogu odluka i drugih akata koje Skupštini podnese drugi predlagač, po pribavljenom izjašnjenju nadležnog organa uprave,
+• planiranju i organizaciji odnosa sa javnošću (PR) Predsjednika opštine, koordiniranju poslova odnosa sa javnošću organa i službi lokalne uprave,
+• obavljanje poslova u vezi sa ostvarivanjem saradnje sa Skupštinom i Vladom Crne Gore, Zajednicom opština Crne Gore, opštinama u Crnoj Gori, gradovima u inostranstvu,
+• vršenje poslova u vezi sa ostvarivanjem međunarodne saradnje,
+• vršenju protokolarnih poslova sa Službom Skupštine i organizaciji proslave Dana opštine, kao i drugih manifestacija,
+• postupanje po predstavkama i pritužbama građana upućenih Predsjedniku, utvrđuje činjenice o osnovanosti predstavki i pritužbi, priprema odgovore na iste, postupa po predstavkama koje državni organi upućuju Predsjedniku radi utvrđivanja činjenica, odnosno rješavanja pitanja koja su predmet tih predstavki i pritužbi,
+• koordinaciju procesa analize potreba i izrade predloga projekata za konkurisanje, pripremu predloga projekata za konkurisanje kod inostranih finansijskih izvora (IPA fondovi, drugi fondovi Evropske Unije, ostali međunarodni fondovi), realizaciju odobrenih projekata od interesa za opštinu, izvještavanje i praćenje uspješnosti (evaluacija), saradnja sa NVO i privatnim sektorom, analizu programa podrške EU dostupnih lokalnim samoupravama u okviru programa Pretpristupne podrške (IPA), predlaganje projektnih timova za pripremu konkretnih projekata,
+• učestvovanje u pripremi, sprovođenju i iznalaženju mogućnosti obezbjeđivanja sredstava za njihovo finansiranje i realizaciju,
+• pripremu informativnih i drugih stručnih materijala za Skupštinu i Predsjednika opštine,
+• obavljanje stručnih i administrativno-tehničkih poslova za stručna radna tijela koje obrazuje Predsjednik u poslovima iz djelokruga svoga rada i Služba Glavnog administratora,
+• kancelarijsko poslovanje (poslovi pisarnice i arhive, poslovi prijema i dostave pošte, obrada predmeta i drugih dokumenata i drugi poslovi iz oblasti kancelarijskog poslovanja) za Službu Predsjednika opštine i Službu Glavnog administratora,
+• korišćenje službenih vozila za potrebe Službe Predsjednika opštine, Službe Glavnog administratora, goste opštine, predstavnike međšunarodnih organizacija i druga lica,
+• slobodan pristup informacijama iz posjeda Službe, shodno Zakonu,
+• vršenje i drugih poslova po nalogu Predsjednika opštine.
