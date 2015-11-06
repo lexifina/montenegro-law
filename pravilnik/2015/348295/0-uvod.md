@@ -1,0 +1,4 @@
+Na osnovu člana 57. i 90. Zakona o lokalnoj samoupravi ("Službeni list RCG" br. 42/03, 28/04, 75/05,13/06 i "Službeni list CG" broj 88/09, 03/10, 73/10, 38/12 i 10/14), a shodnom primjenom člana 17. Zakona o državnim službenicima i namještenicima ("Službeni list CG" br. 39/11, 50/11, 66/12 i 34/14), člana 147. Zakona o radu ("Službeni list CG" broj 49/08, 26/09, 88/09, 26/10, 59/11, 66/12 i 31/14), na osnovu člana 3. Opšteg kolektivnog ugovora ("Sl.list CG" br. 14/14) i člana 50. Statuta Opštine Kotor ("Službeni list Opštine Kotor" broj 3/04 i "Službeni list CG-Opštinski propisi" br. 17/08, 31/09, 40/10 i 4/11), na predlog Sekretarijata za opštu upravu, predsjednik Opštine Kotor donosi
+PRAVILNIK
+o izmjenama i dopunama pravilnika
+o ostvarivanju prava službenika i namještenika lokalne uprave na plaćeno i neplaćeno odsustvo, stručno usavršavanje na radu,
