@@ -1,0 +1,2 @@
+Na osnovu čl. 1. Zakona o eksproprijaciji ("Sl. list RCG", br. 55/00, 12/02, 28/06 i "Sl. list CG", br. 21/08), čl. 33 stav1. tačka 5. Zakona o lokalnoj samoupravi ("Sl.list RCG", br.42/03, 28/04, 75/05, 13/06 i "Sl. list CG" br.88/09, 3/10, 73/10, 38/12 i 10/14) i člana 16. stav 2. i člana 30. Statuta Opštine Kotor ("Službeni list Opštine Kotor" broj 03/04, "Službeni list Crne Gore - Opštinski propisi" broj 17/08, 31/09, 40/10 i 4/11), Skupština Opštine Kotor na sjednici održanoj 07. 10. 2015. godine, donijela je
+O D L U K U
