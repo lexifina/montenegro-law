@@ -1,0 +1,5 @@
+# Član 16
+Radi postizanja jednakih uslova za sve učesnike konkursa, kao i metodološkog postupka kojim će Komisija izvršiti pravičnu selekciju projekata nevladinih organizacija učesnika Konkursa, propisuje se Obrazac za prijavu projekta, koji će se nevladinim organizacijama obezbijediti na dostupan način.
+Neposredno nakon raspisivanja konkursa, Komisija određuje jedan dan ("Dan otvorenih vrata"), tokom kojeg ima obavezu da informiše nevladine organizacije o svim pitanjima od značaja za učešće na Konkursu.
+Poziv za učešće na konsultacijama oglašava se u sredstvima javnog informisanja i posredstvom interneta.
+Pored konsultacija iz stava 2 ovog člana, za sva pitanja od značaja za učešće na konkursu i potrebne informacije, zainteresovane NVO mogu se obratiti Komisiji u pisanoj formi u periodu od 15 dana od dana raspisivanja konkursa. Pitanja se dostavljaju preko Građanskog biroa sa podacima o NVO i kontakt adresi osobe koja se obraća nakon čega će Komisija u razumnom roku dostaviti tražene informacije shodno njenim nadležnostima.

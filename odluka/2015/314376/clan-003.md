@@ -1,0 +1,2 @@
+# Član 3
+Zbog posebnog doprinosa razvoju kulture i istorijskom razvoju sredine, kontinuiteta u radu, dostignutog dometa i značaja za prezentaciju sredine, kao i doprinosa multikulturalnom skladu na području Opštine u izuzetno dugom periodu, kao i zbog specifičnosti u organizaciji i radu, tradicionalnim organizacijama: "Bokeljska mornarica", Srpsko pjevačko društvo "Jedinstvo" i Gradska muzika ovom Odlukom daje se poseban status i regulišu se posebni kriterijumi i način raspodjele sredstava.
