@@ -1,0 +1,3 @@
+# Član 2
+Naselja na teritoriji opštine Rožaje su:
+Rožaje kao naselje gradskog karaktera i naselja Balotiće, Baza, Bandžov, Bandžovo Brdo, Bašča, Bać, Bačevac, Besnik, Bijela Crkva, Biševo, Blace, Bogaje, Bukovica, Crnokrpe, Čokrlije, Ćosovica, Daciće, Đuranovića Luke, Donja Lovnica, Donje Biševo, Dračenovac, Donja Crnča, Donji Bukelj, Gornja Lovnica, Gornja Crnča, Gornji Bukelj, Grahovača, Gusnice, Grahovo, Grižica, Ibarac, Jablanica, Kalače, Kačare, Kajeviće, Klanac, Kalenderi, Kaluđerski Laz, Klekovača, Koljeno, Lučice, Malindubrava, Njeguš, Tuzova Luka, Paučina, Plunce, Peškovići, Pripeč, Radetina, Razdolje, Ramovići, Radeva Mahala, Džudževići, Seošnica, Sinanovića Luke, Sređani, Stupa, Suho Polje, Šušteri, Hurije, Honsiće, Halilovići, Vuča, Zloglavlje, Zeleni .
