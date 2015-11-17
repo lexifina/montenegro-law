@@ -1,0 +1,4 @@
+# Član 2
+Izrada plana se odnosi na prostor koji obuhvata katastarske parcele , odnosno njihove djelove , br. 2531, 2532, 2517/1, 2517/2, 2533, 2540,2534, 2535, 2541, 1303, 1304, 1305, 2491, 2492, 1306, 1307, 1308, 1313, 1314, 1315, 1316, 1301, 1302, 1293, 1294, 1295, 1296, 1297, 1338, 1328, 1329, 1336, 1337, 1327, 1340, 1345, 1534, 2583, 2580, 2575, 2573, 2572, 2541 i 2536 KO Osredci i djelove katastarskih parcela br. 44, 45, 46, 47, 3160, 3159 KO Medjurečje , na dijelu vodotoka Tustički potok-pritoka Ibrištice , između kota 1050 mnm (kota gornje vode ) i 737 mnm ( kota donje vode) za mHE ,,Ocka gora", odnosno između kota 730 mnm (kota gornje vode ) i 590 mnm ( kota donje vode) za mHE ,,Jasičje".
+Površina zahvata Plana je data orjentaciono i iznosi cca 3,7 ha.
+Konačna granica zahvata sa koordinatama tačaka , kao i površina zahvata biće definisane kroz proces izrade Plana .
