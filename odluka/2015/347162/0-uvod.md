@@ -1,0 +1,2 @@
+Na osnovu čl. 28, 31-51 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG" br. 51/08,40/10, 34/11, 47/11, 35/13, 39/13 i 33/14), člana 55 Statuta Opštine Kolašin ("Sl. List RCG-Opštinski propisi" br. 25/04, 31/04,34/06 i "Sl. List CG -Opštinski propisi" br. 31/11 ) i Programa uređenja prostora opštine Kolašin za 2015. godinu ("Sl. List CG -Opštinski propisi" br. 15/15) Predsjednica opštine Kolašin d o n o s i -
+O D L U K U
