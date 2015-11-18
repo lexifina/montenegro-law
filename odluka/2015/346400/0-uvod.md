@@ -1,0 +1,2 @@
+Na osnovu člana 23 stav 1 tačka 1. Odluke o osnivanju Turističke organizacije Opštine Danilovgrad (,, Sl. list RCG- Opštinski propisi,, br. 22/05 ) i člana 31 stav 1 tačka 38 Statuta opštine Danilovgrad, (,,Sl. list RCG - Opštinski propisi ,, br. 30/04 i ,,Sl. list CG- Opštinski propisi", br. 19/08 i 12/11), Skupština opštine Danilovgrad, na sjednici održanoj 05.11.2015. godine, donijela je
+O D L U K U
