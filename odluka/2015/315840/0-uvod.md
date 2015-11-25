@@ -1,0 +1,2 @@
+Na osnovu člana 57, stav 1, tačka 5 Zakonao lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", broj 88/09, 03/10, 38/12, 10/14 i 57/14) i člana 67 tačka 6 Statuta Opštine Budva ("Službeni list Crne Gore - opštinski propisi", broj 9/10), po pribavljenom mišljenju Glavnog administratora, br. 12-01-103/2 od 20.10.2015. godine, predsjednik Opštine, donio je
+ODLUKA
