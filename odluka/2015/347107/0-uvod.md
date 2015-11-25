@@ -1,0 +1,2 @@
+Na osnovu člana 47 stav 3 Zakona o uređenju prostora i izgradnji objekata (’’Službeni list CG’’, br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14) i člana 35 Statuta Opštine Danilovgrad (’’Službeni list RCG - Opštinski propisi’’, br. 30/04 i ’’Službeni list CG - Opštinski propisi" br. 19/08 i 12/11), Skupština Opštine Danilovgrad, na sjednici održanoj 05.11. 2015. godine, donijela je
+O D L U K U
