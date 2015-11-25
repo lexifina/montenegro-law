@@ -1,0 +1,2 @@
+# Član 5
+U članu11 stav 2, članu 13 stav 1, članu 14 st. 1 i 3, članu 18, članu 19, članu 20 stav 1, članu 21 st. 1, 2, 3 i 5, članu 24 stav 1 al. 1 i 5 i stav 2, članu 25 stav 2, članu 26 stav 3, članu 28, članu 29 al. 1 i 8, članu 31, članu 32 stav 3, članu 33, članu 34 stav 2, članu 35, članu 36 stav 4 i članu 40 stav 1 riječ "Preduzeće" u različitom padežu zamjenjuje se riječima:" Privredno društvo" u odgovarajućem padežu.

@@ -1,0 +1,2 @@
+Na osnovu člana 4 stav 2, člana 6 i 12 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 12/95), člana 4 Zakona o prekršajima ("Službeni list CG", br. 1/11, 6/11, 39/11 i 32/14) i člana 48 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", broj 28/06 i"Sl. list CG - Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada-Podgorice, na sjednici održanoj 6. novembra 2015. godine, donijela je
+ODLUKA
