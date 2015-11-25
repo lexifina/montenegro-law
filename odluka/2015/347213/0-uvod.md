@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Sl. list Crne Gore", br. 21/09 i 40/11), člana 25 Zakona o stanovanju i održavanju stambenih zgrada ("Sl.list Crne Gore", br. 04/11, 40/11, 01/14 i 06/14 ) i člana 48 stav 1 alineja 9 i 14 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", broj 28/06 i "Sl. list Crne Gore - Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj 6. novembra 2015. godine, donijela je -
+O D L U K U
