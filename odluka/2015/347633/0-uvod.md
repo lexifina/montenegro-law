@@ -1,0 +1,2 @@
+Na osnovu člana 48 stav 1 alineja 48 Statuta Glavnog grada ("Službeni list RCG-Opštinski propisi", broj 28/06 i "Službeni list CG-Opštinski propisi", br. 39/10 i 18/12) i člana 11 stav 1 alineja 8 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" - Podgorica ("Sl. list Crne Gore-Opštinski propisi", broj 22/13), Skupština Glavnog grada -Podgorice, na sjednici održanoj 6. novembra 2015. godine, donijela je
+O D L U K U
