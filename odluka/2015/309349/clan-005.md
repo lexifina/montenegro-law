@@ -1,0 +1,2 @@
+# Član 5
+Stupanjem na snagu ove Odluke prestaje da važi Odluka o učešću Glavnog grada - Podgorice u izgradnji objekta kolektivnog stanovanja za potrebe Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" - Podgorica i Društva sa ograničenom odgovornošću "Čistoća" - Podgorica ("Sl.list CG-Opštinski propisi", broj 6/14) i Odluka o učešću Glavnog grada- Podgorice u izgradnji objekta kolektivnog stanovanja za potrebe privrednih društava čiji je osnivač Glavni grad ("Sl.list CG- Opštinski propisi", broj 39/13).
