@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi (,,Sl.list RCG’’, br.42/03, 28/04,75/05 i 13/06 i ,,Sl.list CG’’, br. 88/09, 38/12 i 10/14),člana 2 stav 1 tačka 8 i člana 11 Zakona o komunalnim djelatnostima (,,Sl.list RCG’’, br.12/95), člana 24 Zakona o upravljanju otpadom (,,Sl.list RCG’’, br.64/11) i člana 31 stav 1 tačka 28 Statuta Opštine Šavnik (,,Službeni list RCG -opštinski propisi", br.36/04 i ,,Službeni list Crne Gore-opštinski propisi", br. 24/08, 36/10 i 18/15), Skupština opštine Šavnik, na sjednici održanoj dana 11.11.2015.godine, donijela je
+O D L U K U
+o prestanku važenja Odluke o zajedničkom organizovanju poslova odlaganja komunalnog otpada za opštine Nikšić, Šavnik i
