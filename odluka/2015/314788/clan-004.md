@@ -1,0 +1,3 @@
+# Član 4
+Kako se radi o neizgrađenom prostoru unutar zahvata Plana u kome je prisutnan značajan fond zasada maslina i drugih kategorija zelenila, moguće postojeće podzemne vode i dr., koje nisu evidentirane i zaštićeni prema važećoj zakonskoj regulativi, što predstavlja veliki problem prilikom definisanja pitanja i problema vezanih za životnu sredinu, neophodno je pokloniti naročitu pažnju uticajima koje će izazvati planirana izgradnja na navedene prirodne vrijednosti, koje je ujedno potrebno i zaštiti.
+Plansko rješenje za predmetnu lokaciju i uticaje istog treba sagledati u širem kontekstu u odnosu na cjelokupni prostor Opštine Herceg Novi, a naročito po pitanjima snabdjevanja vodom, kanalisanja otpadnih voda, dispozicije i prerade otpada, i elektrosnabdjevanja.
