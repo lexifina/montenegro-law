@@ -1,0 +1,2 @@
+Na osnovu člana 7 Statuta Opštine Bijelo Polje ("Sl. list RCG-Opštinski propisi" br. 25/04,33/06 i "Sl.list CG-Opštinski propisi" br. 18/10 i 32/13) i člana 9 stav 1 Odluke o uslovima, načinu i postupku za dodjelu opštinske Nagrade "3. Januar" ("Sl.list RCG- Opštinski propisi" br. 30/07 "Sl.list CG-Opštinski propisi" br. 40/10), Skupština opštine Bijelo Polje, na sjednici održanoj 30.11.2015. godine, donijela je
+R J E Š E NJ E
