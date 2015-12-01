@@ -1,0 +1,6 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 03/10, 73/10, 38/12 i 10/14), člana 93 tačka 2a Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14) i člana 40 Statuta opštine Budva ("Službeni list CG-Opštinski propisi", br. 19/10), Skupština opštine Budva, na sjednici održanoj dana 01. decembra 2015.godine, donijela je
+R J E Š E N J E
+o davanju saglasnosti
+1. Daje se saglasnost Ivić Dejanu i firmi"Kagan Group" , kao vlasnicima pretežnog dijela UP broj 29 u zahvatu LSL-a "Komoševina I" ( Sl.list CG-Opštinski propisi br.18/11), da izrade Idejno rješenje koristeći pripadajuće koeficijente predviđene za urbanističku parcelu 29 shodno LSL "Komoševina I" u čiji sastav ulazi dio k.p.3097 KO Budva u površini od 23m² vlasništvo Opštine Budva.
+2. Ovlašćuje se Predsjednik opštine Budva da u ime Opštine Budva pred izabranim notarom,po uslovima iz ove odluke i dopisa Sekretarijata za investicije,broj 05-4710/2 od 13.06.2014.godine, potpiše saglasnost na idejno rješenje.
+3. Rješenje o davanju saglasnosti stupa na snagu danom donošenja,a biće objavljeno u "Službenom listu Crne Gore - Opštinski propisi".
