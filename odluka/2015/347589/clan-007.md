@@ -1,0 +1,2 @@
+# Član 7
+Urbanističkim projektom, u skladu sa važećom planskom dokumentacijom višeg reda i zakonskom regulativom, utvrdiće se odgovarajuća organizacija i način korišćenja ovog prostora, i dati precizne smjernice za izgradnju objekta mješovite namjene. Uslov je očuvanje i unapređenje ambijentalnih karakteristika užeg i šireg područja i obezbjeđenje funkcionisanja predviđenih sadržaja planiranjem odgovarajuće saobraćajne i tehničke infrastrukture, vodeći računa o uslovima zaštite životne sredine.
