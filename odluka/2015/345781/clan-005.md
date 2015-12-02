@@ -1,0 +1,2 @@
+# Član 5
+Zvanje "Počasni građanin Petnjice" može se dodijeliti državljaninu Crne Gore, kao i stranom državljaninu, državniku i funkcioneru međunarodne organizacije i udruženja, koji svojim radom, naučnim, umjetničkim, političkim, humanitarnim i drugim djelovanjem doprinosi razvoju i ugledu Opštine Petnjica, razvoju demokratije, očuvanju mira i napretku čovječanstva. Zvanje "Počasni građanin Petnjice" dodjeljuje se u obliku plakete.
