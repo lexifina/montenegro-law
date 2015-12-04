@@ -1,0 +1,2 @@
+Na osnovu člana 36 stav 1 tačka 25 Statuta opštine Herceg Novi ("Sl. List RCG- Opštinski propisi", broj 15/04, 32/05, 31/06, 14/07 i "Sl. list CG, opštinski propisi"br. 16/09,16/11) i člana 13 Odluke o organizovanju Javne ustanove "Gradski muzej Mirko Komnenović i Galerija Josip Bepo Benković" Herceg Novi ("Sl.list CG- Opštinski propisi", br. 11/13, 21/13), Skupština opštine Herceg Novi na sjednici održanoj dana 04.12.2015.godine, donosi sledeće
+R J E Š E NJ E
