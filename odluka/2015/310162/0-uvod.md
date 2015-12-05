@@ -1,0 +1,3 @@
+Na osnovu člana 45. Stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Sl.list RCG" br. 42/02, 28/04, 75/05,13/06,88/09 i "Sl.list CG" br. 3/10,38/12 i 10/14)), člana 57. Zakona o budžetu i fiskalnoj odgovornosti ("Sl.list RCG" br. 20/14), člana 62. i 63. Zakona o finansiranju lokane samouprave ("Sl.list RCG" br. 1/15) i člana 31. Stav 16 Statuta opštine Tivat ("Sl.list RCG - Opštinski propisi, br.40/04, 26/06, i Sl.list RCG - opstinski propisi 12/11, 21/11, 3/13), Skupština opštine Tivat, na sjednici održanoj dana 18.11.2015.godine, donijela je
+O D L U K U
+o zaduživanju Opštine Tivat za realizaciju Projekta vodosnadbijevanja i odvođenja otpadnih voda u primorskom regionu -
