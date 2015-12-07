@@ -1,0 +1,2 @@
+# Član 2
+Kreditna sredstva iz člana 1. ove Odluke, DOO "Komunalno Kotor" je dužno koristiti u skladu sa Odlukom Odbora direktora DOO "Komunalno Kotor" o kreditnom zaduženju - bankarska garancija, a koja će služiti kao sredstvo za obezbijeđenje izvršenja ugovorenih obaveza po Ugovoru o produženju prava na eksploataciju šljunka i pijeska na ležištu "Nalježići" Opština Kotro broj 01-2662/1 od 05. 07. 2006. godine i Aneksa 2 <Ugovora prema Ministarstvu ekonomije.
