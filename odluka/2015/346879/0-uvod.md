@@ -1,0 +1,2 @@
+Na osnovu člana 45 Stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Službeni list RCG" br. 42/03, 28/04, 75/05, 13/06, i "Službeni list CG" br. 88/09, 03/10, 38/12 i 10/14), člana 60, 63 i 64 st.2 Zakona o finansiranju lokalne samouprave ("Službeni list RCG" br. 42/03, 44/03, i "Službeni list Crne Gore" br. 05/08, 51/08, 74/10 i 01/15) i člana 42 i 46 Statuta opštine Rožaje ( "Službeni list CG - Opštinski propisi" br. 9/11), Skuština opštine Rožaje, na sjednici održanoj dana 25.11.2015. godine, donijela je :
+O D L U K U
