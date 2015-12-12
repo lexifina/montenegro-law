@@ -1,0 +1,2 @@
+# Član 16
+Kontrola izvršenja uslovne osude sa zaštitnim nadzorom, kao i mjera bezbjednosti izrečenih uz ovu mjeru vrši se putem neposrednog kontakta službenika koga odredi Jedinica za uslovnu slobodu sa uslovno osuđenim licem, najmanje jednom mjesečno, a po potrebi i češće, kao i stalnom provjerom ispunjavanja obaveza zaštitnog nadzora kod ustanova, organizacija i pojedinaca koji su uključeni u realizaciju programa iz člana 11 ovog pravilnika.

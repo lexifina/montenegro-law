@@ -1,0 +1,2 @@
+# Član 27
+Nakon razgovora iz člana 25 ovog pravilnika, Jedinica za uslovnu slobodu sačinjava procjenu rizika uslovno otpuštenog osuđenog lica, na osnovu podataka dobijenih od uslovno otpuštenog osuđenog lica i podataka iz dokumentacije o uslovno otpuštenom osuđenom licu (sudske odluke, nalazi i mišljenja doktora medicine i drugih stručnih lica, izvještaji centra za socijalni rad prema prebivalištu i boravištu osuđenog lica, izvještaji Zavoda za izvršenje krivičnih sankcija i dr).

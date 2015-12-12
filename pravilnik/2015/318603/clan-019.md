@@ -1,0 +1,2 @@
+# Član 19
+Nakon razgovora iz člana 18 ovog pravilnika, a na osnovu posebnog ugovora sa pravnim licem, odnosno organizacijom u koju se osuđeno lice upućuje radi izvršenja kazne rada u javnom interesu, u skladu sa Zakonom o izvršenju uslovne osude, uslovne osude sa zaštitnim nadzorom, kazne rada u javnom interesu i uslovnog otpusta (u daljem tekstu: Zakon), Jedinica za uslovnu slobodu sačinjava individualni program radnih aktivnosti osuđenog lica.

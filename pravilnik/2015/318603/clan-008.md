@@ -1,0 +1,2 @@
+# Član 8
+Kontrola izvršenja uslovne osude, obaveza izrečenih uz uslovnu osudu i mjera bezbjednosti, ukoliko su izrečene uz uslovnu osudu, vrši se putem neposrednog kontakta službenika koga odredi Jedinica za uslovnu slobodu sa uslovno osuđenim licem, najmanje jednom mjesečno, a po potrebi i češće, kao i stalnom provjerom ispunjavanja obaveza kod ustanova, organizacija i pojedinaca koji su uključeni u realizaciju programa iz člana 5 ovog pravilnika.
