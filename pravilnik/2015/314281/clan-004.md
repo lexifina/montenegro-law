@@ -1,0 +1,6 @@
+# Član 4
+## Izgled unutrašnje strane legitimacije
+Unutrašnja strana legitimacije (Obrazac 2) sadrži mjesta za umetanje kartice svijetloplave boje, dimenzija 7 x 7 cm, koja je izrađena od posebnog materijala koji omogućava potreban stepen zaštite i trajnosti.
+Kartica na gornjoj unutrašnjoj strani legitimacije sadrži nazive: "Crna Gora", "Ministarstvo pravde" i "Zavod za izvršenje krivičnih sankcija"; mjesto za fotografiju dimenzija 3,5 x 3 cm, registarski broj, oznaku serije i serijski broj; naziv "SLUŽBENA LEGITIMACIJA" i mjesta za ime i prezime imaoca legitimacije, datum izdavanja, potpis ministra pravde i pečat.
+Kartica na donjoj unutrašnjoj strani legitimacije sadrži tekst o ovlašćenjima, koji glasi:
+"Imalac ove legitimacije je, pod uslovima propisanim Zakonom o izvršenju kazni zatvora, novčane kazne i mjera bezbjednosti, ovlašćen da nosi, drži i upotrijebi vatreno oružje i druga sredstva prinude, da prilikom hvatanja zatvorenika ili pritvorenog lica legitimiše građane i utvrđuje njihov identitet, izdaje upozorenja i usmene naredbe, obezbijedi mjesto za koje postoji sumnja da se odbjegli zatvorenik krije, posluži se prevoznim sredstvom i sredstvom veze do kojeg može da dođe, kao i da vrši druga ovlašćenja u skladu sa Zakonom o izvršenju kazni zatvora, novčane kazne i mjera bezbjednosti i drugih propisa."
