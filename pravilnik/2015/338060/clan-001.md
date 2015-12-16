@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o načinu ostvarivanja prava na oslobađanje od plaćanja akcize i poreza na dodatu vrijednost za diplomatska i konzularna predstavništva i međunarodne organizacije ("Službeni list CG" br. 34/10 i 52/13), u članu 11 stav 2 riječi :"Obveznici poreza koji nijesu uvoznici, odnosno proizvođači akciznih proizvoda,", zamjenjuju se riječima: "Poreski odnosno akcizni obveznici koji vrše prodaju akciznih proizvoda na koje je plaćena akciza", a riječi: "poreskom organu", zamjenjuju se riječima:"carinskom organu".
