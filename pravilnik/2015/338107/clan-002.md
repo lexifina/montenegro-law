@@ -1,0 +1,4 @@
+# Član 2
+Integralna zaštita bilja vrši se racionalnom upotrebom kombinacije bioloških, biotehnoloških, hemijskih i drugih mjera za uzgoj bilja, uz ograničenu upotrebu sredstava za zaštitu bilja, neophodnih za održavanje populacije štetnih organizama na nivou koji ne izaziva ekonomski neprihvatljivu štetu ili gubitak.
+Integralna zaštita bilja obuhvata mjere zaštite bilja, kroz smanjenu upotrebu sredstava za zaštitu bilja uz prednost primjene nehemijskih metoda zaštite bilja, koje se zasnivaju na agronomskim tehnikama iz člana 3 tačka 1 ovog pravilnika ili fizičkim, mehaničkim ili biološkim metodama suzbijanja štetnih organizama.
+Prilikom smanjene upotrebe sredstava za zaštitu bilja iz stava 2 ovog člana koriste se ona sredstva za zaštitu bilja, koja imaju najmanji rizik za zdravlje ljudi i životnu sredinu.
