@@ -1,0 +1,3 @@
+Na osnovu člana 36 stav 1 tačka 17 Statuta opštine Herceg Novi ("Sl.list RCG-Opštinski propisi" broj 15/04, 32/05, 31/06, 14/07 i "Sl.list CG Opštinski propisi", broj 16/09 i 16/11) i člana 26 Poslovnika Skupštine opštine Herceg Novi ("Sl.list RCG-Opštinski propisi", broj 15/04, 31/06 i "Sl.list CG-Opštinski propisi", broj 16/11), Skupština opštine Herceg Novi na sjednici održanoj dana 18.12.2015. godine, donosi
+R J E Š E NJ E
+o prestanku dužnosti, razrješenju i imenovanju tri člana Odbora za imovinsko pravna raspolaganja Skupštine
