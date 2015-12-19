@@ -1,0 +1,2 @@
+# Član 14
+Po pribavljenoj saglasnosti od predsjednika opštine Plav, ovlašćeno lice za zastupanje opštine Plav oštećenom licu dostavlja predlog visine naknade štete i ostavlja mu rok od 3 dana, da se pismeno izjasni o ponuđenom iznosu ili da svoju saglasnost da usmeno na zapisnik pred tim organom. Ukoliko oštećeno lice da saglasnost na predloženu visinu novčane naknade štete, ovlašćeno lice za zastupanje opštine Plav će sa oštećenim zaključiti sporazum o mirnom rješenju spora.

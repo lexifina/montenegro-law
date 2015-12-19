@@ -1,0 +1,2 @@
+# Član 5
+Komunalni inspektor je obavezan da oštećenom licu izda potvrdu o prijavljenom događaju. (Obrazac 2, koji je sastavni dio ovog Pravilnika). Komunalni inspektor je dužan da u saradnji sa veterinarskim stanicama sa teritorije opštine Plav, organizuje preduzimanje neophodih mjera i aktivnosti na pronalaženju, hvatanju, identifikaciji, fotografisanju psa ili mačke, mjesta događaja, da prikuplja dokaze u cilju utvrđivanja da li uhvaćeni pas odnosno mačka imaju vlasnika odnosno držaoca i dr.

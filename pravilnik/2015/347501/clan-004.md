@@ -1,0 +1,2 @@
+# Član 4
+Prijava iz čl. 3. ovog Pravilnika sadrži podatke o oštećenom licu kao što su: ime i prezime, adresa stanovanja, JMBG, mjesto, datum i čas nastalog događaja i kratak opis događaja. Oštećeno lice je obavezno, da u prijavi navede sve okolnosti vezane za kritičan slučaj, eventualne svjedoke, kao i da opiše psa od koga je pretrpio povrede. Oštećeno lice je u obavezi, da sa komunalnim inspektorom opštine Plav, ode na lice mjesta, ukoliko je to neophodno radi daljeg utvrđivanja činjenica vezanih za događaj ( fotografisanja psa ili mačke).

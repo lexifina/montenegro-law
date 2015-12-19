@@ -1,0 +1,2 @@
+# Član 19
+Komunalni inspektor je u obavezi, da ustroji i uredno vodi evidenciju o podnijetim prijavama i izdatim potvrdama oštećenim licima, kao i da o podnijetim prijavama i izdatim potvrdama, uredno obavještava ovlašćeno lice za zastupanje opštine Plav i sekretara Sekretarijata za uređenje prostora i imovinu opštine Plav. Izvještaji iz st. 1.ovog člana dostavljaju se najkasnije do 15. u mjesecu za predhodni mjesec.
