@@ -1,0 +1,2 @@
+# Član 12
+Interni oglas iz člana 11 stav 1 ovog pravilnika, sadrži: naziv organizatora obrazovanja, odnosno usavršavanja i mjesto, vrstu obrazovanja, odnosno usavršavanja, uslove obrazovanja, odnosno usavršavanja, broj lica koja se upućuju na obrazovanje, odnosno usavršavanje, vrijeme trajanja obrazovanja, odnosno usavršavanja, adresu, rok i način podnošenja prijave na oglas i dokaze koje kandidat mora da priloži uz prijavu.
