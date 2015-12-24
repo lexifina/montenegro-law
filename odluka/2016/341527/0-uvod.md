@@ -1,0 +1,2 @@
+Na osnovu člana 38 tačka 2 Statuta opštine Žabljak (''Sl.list RCG-Оpštinski propisi'', br. 9/05, 23/07 i ''Sl.list CG-Оpštinski propisi'', br. 3/11 i 7/14) i člana 4 Odluke o rješavanju stambenih potreba službenika i namještenika organa lokalne uprave opštine Žabljak (''Sl.list CG-Оpštinski propisi'', br. 6/15), Skupština opštine Žabljak na sjednici održanoj dana 24.12.2015.godine, d o n i j e l a je
+O D L U K U
