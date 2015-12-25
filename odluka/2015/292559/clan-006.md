@@ -1,0 +1,4 @@
+# Član 6
+Tehnička dokumentacija (idejni ili glavni projekat), u smislu ove odluke, izrađuje se za potrebe izdavanja građevinske dozvole za lokalne objekte od opšteg interesa, a glavni projekat izrađuje se za potrebe građenja tog objekta.
+Tehnička dokumentacija izrađuje se na osnovu odluke iz člana 4 stav 2 ove odluke, a u skladu sa odredbama Zakona o uređenju prostora o izgradnji objekata ( u daljem tekstu: Zakon), pravilnika, važećih tehničkih normativa, standarda i normi kvaliteta.
+Privredno društvo, pravno lice, odnosno preduzetnik koji izrađuje, odnosno reviduje tehničku dokumentaciju iz stava 2 ovog člana, mora prije početka vršenja djelatnosti, osigurati i imati u toku cijelog trajanja poslovanja, osiguranu svoju odgovornost za štetu koja bi mogla da se desi investitorima ili trećim licima u vezi sa obavljanjem njihove djelatnosti.
