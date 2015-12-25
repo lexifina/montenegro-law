@@ -1,0 +1,3 @@
+# Član 2
+Prostor Savinske Dubrave, svojom veličinom, morfologijom, prirodnim i kulturno-istorijskim svojstvima (spomenici od izuzetnog značaja) se definiše kao predioni element prostorno- funkcionalne strukture grada. Kao najveći element zelenila u gradu, ima nezamjenjljiv i veoma značajan efekat na kvalitet života.
+S obzirom na relativno malu površinu i položaj unutar gradskog jezgra, Savinska Dubrava sadrži predstavnike rijetkih i značajnih elemenata flore, fungije i faune Crne Gore koje uživaju zaštitu kako na nacionalnom tako i na međunarodnom nivou. Osim toga, kao gradska šuma, okružena naseljem, doprinosi regulisanju i poboljšanju mikroklimatskih uslova čime stvara povoljne uslove za boravak, rekreaciju i odmor.

@@ -1,0 +1,3 @@
+Na osnovu člana 55 stav 3, a vezano za član 43 i 57 Zakona o zaštiti prirode ("Sl list CG", broj 51/08, 21/09, 40/11, 62/13 i 06/14) člana 57 stav 1 tačka 9 Zakona o lokalnoj samoupravi ( "Sl.list RCG",br, 42/03, 28/04, 75/05, 13/06, "Sl.list CG", br. 88/09, 03/10, 73/10, 38/12 i 10/14), člana 59 stav 2 tačka 9 Statuta Opštine Herceg Novi ( "Sl.list RCG - Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07 "Sl.list CG - Opštinski propisi",br.16/09 i 16/11) i na osnovu pozitivnog mišljenja Ministarstva održivog razvoja i turizma broj 09-728/2 od 21.03.2014. godine, Skupština opštine Herceg Novi na sjednici održanoj 04.12.2015.godine, donosi
+ODLUKU
+o proglašenju zaštićenog prirodnog dobra: predio izuzetnih odlika "Savinska Dubrava"
