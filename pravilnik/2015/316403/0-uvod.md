@@ -1,0 +1,3 @@
+Na osnovu člana 16 stav 2 Zakona o registrima prebivališta i boravišta ("Službeni list CG", broj 46/15), Ministarstvo unutrašnjih poslova donijelo je
+P R A V I L N I K O OBRASCU POTVRDE O IZVRŠENOM UNOSU PRIJAVE PREBIVALIŠTA,
+IZVRŠENOJ PROMJENI PREBIVALIŠTA, ODNOSNO ADRESE, UNOSU PRIJAVE O ODLASKU U DRUGU DRŽAVU I PRIJAVE POVRATKA IZ DRUGE DRŽAVE U REGISTAR PREBIVALIŠTA
