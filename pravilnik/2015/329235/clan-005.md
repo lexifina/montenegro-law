@@ -1,0 +1,3 @@
+# Član 5
+Ovaј pravilnik stupa na snagu osmog dana od dana objavljivanja u ''Službenom listu Crne Gore''.
+---------------------------- *U ovaj Pravilnik prenešen je čl. 4 i 5 i prilozi II i V Regulative br. 762/2008 EVROPSKOG PARLAMENTA I SAVJETA od 9. jula 2008. godine o dostavljanju statističkih podataka o akvakulturi od strane država članica i stavljanju van snage Regulative Savjeta br. 788/96 (REGULATION (EC) No 762/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 July 2008 on the submission by Member States of statistics on aquaculture and repealing Council Regulation (EC) No 788/96).
