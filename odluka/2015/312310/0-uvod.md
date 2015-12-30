@@ -1,0 +1,2 @@
+Na osnovu člana 42. i, stav 5. Zakona o turističkim organizacijama ("Sl. list RCG", broj 11/04, 13/04, 46/07 i "Sl.list CG", broj 73/10, 40/11 i 45/14 ), člana 4. i 24. Zakona o prekršajima ("Sl.list CG", broj 1/11, 39/11, 32/14) i člana 30. Statuta Opštine Kotor ("Sl. List Opštine Kotor", broj 3/04 i "Sl. List CG- Opštinski propisi", broj 17/08, 31/09, 40/11 i 4/11), Skupšina opštine Kotor na sjednici održanoj dana 15. 12. 2015. godine, donijela je:
+ODLUKU
