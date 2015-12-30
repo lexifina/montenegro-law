@@ -1,0 +1,2 @@
+Na osnovu člana 39, stav 2 i 3 Zakona o turističkim organizacijama ("Službeni list RCG" br. 11/04 i 46/07 i "Službeni list CG" br. 73/10, 40/11 i 45/14) , člana 45 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09, 38/12 i 10/14) člana 32 stav 1 tačka 8 i člana 40 Statuta opštine Nikšić, ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", br. 24/10), Skupština opštine Nikšić, na sjednici održanoj 18.12.2015. godine, donijela je
+O D L U K U
