@@ -1,0 +1,2 @@
+Na osnovu član. 57 st. 1 t. 9 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03 ... CG 57/14), član. 59, stav.1 tačka 9. Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, "Sl. list Crne Gore - Opštinski propisi", br. 16/09, 16/11) i Član. 1 Odluka o osnivanju Agencije za izgradnju i razvoj Herceg-Novi ("Sl.list RCG- Opštinski propisi", br. 33/06), Predsjednik Opštine Herceg-Novi, donio je
+ODLUKU

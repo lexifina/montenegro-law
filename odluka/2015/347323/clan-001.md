@@ -1,0 +1,3 @@
+# Član 1
+## o povjeravanju poslova izrade katastra drveća i katastra zelenih površina Agenciji za izgradnju i razvoj Herceg Novog
+Poslovi izrade katastra drveća i katastra zelenih površina iz nadležnosti Sekretarijata za prostorno planiranje, izgradnju, komunalne djelatnosti i zaštitu životne sredine po Član. 11 st. 1 t. 1 i 2 Odluke o ostvarivanju posebnog interesa zaštite i unaprijeđenja zelenih površina na teritoriji Opštine Herceg-Novi ("Sl.list CG op.prop.", br. 24/15), i Član. 12 st. 1 t. 11 Odluke o organizaciji i načinu rada lokalne uprave Opštine Herceg-Novi ("Sl.list CG-op.prop.", br. 7/15, 16/15) povjeravaju se Agenciji za izgradnju i razvoj Herceg-Novog.
