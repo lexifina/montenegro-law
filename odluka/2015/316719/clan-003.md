@@ -1,0 +1,2 @@
+# Član 3
+Javnim površinama, u smislu ove odluke, za čije se korišćenje uvodi lokalna komunalna taksa, smatraju se površine utvrđene planskom dokumentacijom Opštine, koje su dostupne svim korisnicima pod jednakim uslovima (ulice, trgovi, javni prolazi, javna stepeništa, mostovi, podvožnjaci, nadvožnjaci, parking prostori, trotoari, stajališta javnog prevoza, pijace, parkovi, travnjaci, površina za rekreaciju i slično).
