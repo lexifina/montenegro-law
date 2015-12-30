@@ -1,0 +1,2 @@
+Na osnovu člana 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor" br. 3/04 i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 4/11), te člana 7. stav 1. alineja 2. Odluke o organizovanju kulturnog centra "Nikola Đurković" Kotor kao javne ustanove ("Sl. list RCG - Opštinski propisi", br. 03/92, "Sl. list Opštine Kotor" br. 1/94, 1/96, 4/98, 4/03, 0/06 i"Sl. list CG - Opštinski propisi", br. 4/10), Skupština opštine Kotor na sjednici održanoj 15. 12. 2015. godine donijela je
+ODLUKU
