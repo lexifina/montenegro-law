@@ -1,0 +1,2 @@
+Na osnovu člana 16 stav 8 Zakona o efikasnom korišćenju energije ("Službeni list CG", broj 57/14), Ministarstvo ekonomije donijelo je
+P R A V I L N I K O METODOLOGIJI ZA UTVRĐIVANJE GODIŠNJE POTROŠNJE PRIMARNE ENERGIJE, SADRŽAJU PLANA I IZVJEŠTAJA O SPROVOĐENJU PLANA ZA POBOLJŠANJE ENERGETSKE EFIKASNOSTI VELIKOG POTROŠAČA
