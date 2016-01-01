@@ -1,0 +1,2 @@
+# Član 3
+Javni funkcioner koji primi protokolarni ili prigodni poklon u smislu Zakona o sprječavanju korupcije, dužan je da, u roku od osam dana od dana prijema, podatke o tome dostavi državnom organu, organu državne uprave, pravosudnom organu, organu lokalne samouprave, organu lokalne uprave, nezavisnom tijelu, regulatornom tijelu, javnoj ustanovi, javnom preduzeću ili drugom privrednom društvu, odnosno pravnom licu koje vrši javna ovlašćenja, odnosno djelatnosti od javnog interesa ili je u državnom vlasništvu (u daljem tekstu: organ vlasti) u kojem vrši javnu funkciju.
