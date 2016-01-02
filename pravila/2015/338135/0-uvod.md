@@ -1,0 +1,2 @@
+Na osnovu člana 88 stav 1 tačka 8, a u vezi sa članom 30 Zakona o sprječavanju korupcije ("Službeni list CG", broj 53/14) i člana 6 Poslovnika o radu Savjeta Agencije za sprječavanje korupcije ("Službeni list CG", broj 66/15), na sjednici održanoj 17. decembra 2015. godine, Savjet Agencije za sprječavanje korupcije donosi
+PRAVILA O PROVJERI PODATAKA IZ IZVJEŠTAJA O PRIHODIMA I IMOVINI DIREKTORA AGENCIJE ZA SPRJEČAVANJE KORUPCIJE
