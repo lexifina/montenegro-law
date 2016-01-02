@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG" br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG" br. 88/09, 38/12 i 10/14), člana 40 Zakona o državnoj imovini ("Službeni list CG", broj 21/09), člana 5 stav 1 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list CG", broj 44/10), člana 32 stav 1 alineja 9 i člana 40 Statuta opštine Nikšić ("Službeni list RCG -Opštinski propisi" br. 20/04 i 43/06 i "Službeni list CG-Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 18.12.2015. godine, donijela je
+O D L U K U
+o izmjenama i dopunama Odluke o raspisivanju oglasa za prikupljanje ponuda radi prodaje putničkih motornih vozila u
