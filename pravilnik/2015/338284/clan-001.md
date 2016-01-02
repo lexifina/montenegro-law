@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom utvrđuje se način i program obuke za vršenje energetskih pregleda zgrada i redovnih energetskih pregleda sistema za grijanje i sistema za klimatizaciju (u daljem tekstu: energetski pregledi), uslovi za sprovođenje programa obuke za vršenje energetskih pregleda, sadržaj zahtjeva i dokumentacija koja se prilaže uz zahtjev za izdavanje ovlašćenja za vršenje energetskih pregleda i ovlašćenja za sprovođenje programa obuke i polaganja stručnog ispita za vršenje energetskih pregleda, kao i sadržaj i način vođenja registara ovlašćenih lica za vršenje energetskih pregleda i ovlašćenih organizacija za sprovođenje programa obuke i polaganja stručnog ispita.
