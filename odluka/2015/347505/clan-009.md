@@ -1,0 +1,2 @@
+# Član 9
+Za trajno vršenje poslova iz djelatnosti odvođenja i prečišćavanja otpadnih voda, Društvo mora voditi evidenciju o tim vodovima i podzemnim objektima u obimu i na način koji obezbjeđuje da se ti podaci mogu koristiti za katastar vodova i podzemnih objekata, kao i evidenciju o opremi, postrojenjima, uređajima i drugim sredstvima koja obezbjeđuju kvalitetno obavljanje tih poslova u skladu sa propisima.

@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom propisuje se način i uslovi organizovanja poslova prikupljanja, prečišćavanja i ispuštanja otpadnih voda sa teritorije Opštine Herceg Novi, upravljanje, korišćenje, održavanje i zaštita sistema za prikupljanje, prečišćavanje i ispuštanje otpadnih voda (u daljem tekstu javni kanalizacioni sistem), priključenje stambenih, poslovnih i drugih objekata na sistem javne kanalizacije, kao i druga pitanja vezano za odvođenje i prečišćavanje otpadnih voda radi poboljšanja opštih uslova života i zaštite životne sredine.
