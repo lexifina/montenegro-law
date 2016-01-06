@@ -1,0 +1,2 @@
+# Član 2
+Područje za koje se donosi Planski dokument obuhvata površinu od cca 2.60 ha, nalazi se unutar katastraske opštine Sasovići i definisano je Programskim zadatkom br. 01-1-334/2013-1 od 29.03.2013.godina, koji je sastavni dio Odluke o izradi Lokalne studije lokacije "Sasovići" ("Sl. list CG - Opštinski propisi".br. 13/13), kao i Odluka o izradi Strateške procjene uticaja na životnu sredinu za isti Planski dokument ("Sl. list CG - Opštinski propisi".br. 20/13).
