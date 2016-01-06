@@ -1,0 +1,2 @@
+Na osnovu člana 23 st.1 tač.3 Statutarne odluke Gradske opštine Golubovci ("Sl.list RCG-Opštinski propisi" br.14/07 i "Sl.list CG-Opštinski propisi", br.24/11) i člana 9 st.1 Odluke o uslovima, načinu i postupku za dodjelu nagrade Gradske opštine Golubovci ("Sl. list CG - Opštinski propisi", br. 32/12 i 10/15), Skupština Gradske opštine Golubovci na VIII sjednici, održanoj dana 24.12.2015.godine, d o n i j e l a j e
+ODLUKA
