@@ -1,0 +1,38 @@
+# Član 10
+Za ispitivanje vozila pravno lice treba da ima sljedeću opremu, i to:
+- višekanalni mjernopojačivački most;
+- dinamomentijski valjak za mjerenje snage vozila;
+- mjerni uređaj za utvrđivanje masenih parametara vozila (mogućnost mjerenja osovinskog opterećenja u opsegu od 0-10000 kg);
+- test pult za stacionarno ispitivanje motora;
+- test pult za ispitivanje hidrauličnih komponenti;
+- hidrauličnu presu;
+- mjerni uređaj za ispitivanje potrošnje goriva;
+- mjerni uređaj za određivanje dinamičkih karakteristika vozila;
+- mjerni uređaj za ispitivanje staklenih površina kod vozila;
+- ultrazvučni aparat za mjerenje debljine (demetar) zida posude pod pritiskom;
+- ultrazvučni aparat za ispitivanje zavarenih spojeva i materijala;
+- uređaj za mjerenje koncentracije opasnih materija;
+- uređaj za mjerenje električnog otpora;
+- uređaj za kontrolu usmjerenosti i jačine svijetla sa luksmetrom i vizirom;
+- mjerni uređaj za provjeru gabarita, razmaka osovine i raspona točkova;
+- uređaj za utvrđivanje slobodnog hoda točka upravljača;
+- uređaj za kontrolu zatamnjenja u izduvnim gasovima dizel motora;
+- uređaj za mjerenje CO u izduvnim gasovima benzinskih motora;
+- uređaj za mjerenje nivoa jačine buke;
+- kanalsku dizalicu nosivosti najmanje 10000 kg;
+- kompresor sa manometrom i potrebnim vodovima za provjeru pritiska;
+- davač za mjerenje sile na pritisak i zatezanje do 20000 N;
+- mjerne trake;
+- štopericu;
+- katalog boja;
+- dubinomjer za mjerenje dubine šara na pneumatiku;
+- uređaje za mjerenje usporavanja vozila na stazi ili putu;
+- uređaje za kontrolu spajanja električne instalacije između vučnih i priključnih vozila;
+- baterijsku lampu u protiveksplozivnoj zaštiti za vizuelni pregled posude sa unutrašnje strane;
+- detektor plina;
+- uređaj za mjerenje ugla nagiba posude pod pritiskom;
+- metar i metarsku traku od 25 m;
+- pomično mjerilo;
+- pokretnu sijalicu; i
+- pomoćni pribor i automehaničarski alat.
+Pravno lice mora da ima odgovarajući dokaz o ispravnosti opreme iz stava 1 ovog člana, kao i stručnu literaturu o tehničkim podacima vozila, opreme i uređaja.

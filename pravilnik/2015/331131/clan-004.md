@@ -1,0 +1,2 @@
+# Član 4
+Ispitivanje vozila koja se prepravljaju ili bitnije popravljaju vrši se identifikacijom vozila, utvrđivanjem da li je identifikaciona oznaka vozila određena od strane proizvođača vozila, pregledom dostavljene dokumentacije, pregledom vozila i njegove opreme i djelova, utvrđivanjem tehničkih karakteristika vozila i proračunom tehničkih parametara, u skladu sa zakonom i propisanim standardima.
