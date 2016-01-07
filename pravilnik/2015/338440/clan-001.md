@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se minimalni uslovi za obavljanje provjere identiteta i zdravstvenog stanja pošiljke bilja kada se ta provjera obavlja na mjestu koje nije mjesto unošenja i na krajnjem odredištu, posebne garancije i isprave u vezi transporta pošiljke bilja do odredišta odnosno krajnjeg odredišta, bliže uslove za premještanje pošiljke bilja do odredišta i način izdavanja dokumenta o kretanju pošiljke.
