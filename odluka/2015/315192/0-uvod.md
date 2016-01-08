@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 i člana 7 stav 2 Zakona o boravišnoj taksi ("Službeni list RCG", broj 11/04 i "Službeni list CG", broj 48/15) i člana 48 stav 1 alineja 2 Statuta Glavnog grada ("Službeni list RCG - Opštinski propisi ", broj 28/06 i "Službeni list CG-Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada-Podgorice, na sjednici održanoj 28. i 29. decembra 2015. godine, donijela je
+O D L U K U
