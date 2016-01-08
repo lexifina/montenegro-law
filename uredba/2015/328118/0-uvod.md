@@ -1,0 +1,5 @@
+Na osnovu člana 20 stav 2 Zakona o energetici ("Službeni list CG", br. 28/10, 6/13 i 10/15), Vlada Crne Gore na sjednici od 28.
+decembra 2015. godine, donijela je
+U R E D B U
+O IZMJENAMA I DOPUNI UREDBE O TARIFNOM SISTEMU ZA UTVRĐIVANJE PODSTICAJNE CIJENE ELEKTRIČNE ENERGIJE
+IZ OBNOVLJIVIH IZVORA ENERGIJE I VISOKOEFIKASNE KOGENERACIJE
