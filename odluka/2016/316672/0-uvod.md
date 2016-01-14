@@ -1,0 +1,2 @@
+Na osnovu člana 43 stav 1 Zakona o Budžetu i fiskalnoj odgovornosti( "Službeni list Crne Gore",broj 20/14 i 56/14)člana 53 stav 2 i 3 i član 54 stav 5 zakona o finansiranju lokalne samouprave("Službeni list Republike Crne Gore",br.42/03 i 44/03 i "Službeni list Crne Gore",br.5/08,74/10 i 1/15) i član 30. Statuta Opštine Kotor ("Službeni list Opštine Kotor broj 03/04 i "Službeni list Crne Gore - opštinski propisi" br 17/08,31/09,40/10 i 4/11)Skupština Opštine Kotor na sjednici održanoj 23. 12. 2015. godine, donijela je
+O D L U K A
