@@ -1,0 +1,2 @@
+Na osnovu člana 47 Zakona o uređenju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 51/08, 40/10, 34/11, 35/13 i 33/14), člana 45 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", broj 88/09, 38/12 i 10/14), člana 32 stav 1 tačka 4 Statuta opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 18.12.2015.godine, d o n i j e l a je
+O D L U K U
