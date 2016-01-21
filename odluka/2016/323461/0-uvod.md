@@ -1,0 +1,2 @@
+Na osnovu člana 33. Zakona o Budžetu i fiskalnoj odgovornosti (Sl.list CG,br.20/14 od 25.4.2014,i 56/14 od 24.12.2014),čl.1. stav 3.Odluke o izmjenama i dopunama Odluke o lokalnoj upravi (Sl.list Opštine Kotor br.9/07),čl.2.Odluke o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave ("Sl.list CG-Opštinski propisi" br.1/12)i čl.30.Statuta Opštine Kotor("Sl.list-Opštine Kotor", br.3/04), Skupština Opštine Kotor je na sjednici održanoj 23. 12. 12.2015 g. donijela:
+ODLUKU
