@@ -1,0 +1,2 @@
+Na osnovu člana 14 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Službeni list RCG", broj 12/95), člana 48 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", br. 28/06 i "Sl. list CG-Opštinski propisi", br. 39/10 i 18/12) i člana 13 alineja 1 Odluke o osnivanju "Deponija" d.o.o. - Podgorica ("Sl.list RCG - Opštinski propisi", br. 50/06 i "Sl. list CG-Opštinski propisi", br. 34/09), Skupština Glavnog grada -Podgorice, na sjednici održanoj dana 28. i 29. decembra 2015. godine, donijela je -
+O D L U K U
