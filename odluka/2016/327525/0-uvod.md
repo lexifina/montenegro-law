@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta opštine Plužine ("Službeni list CG - Opštinski propisi", br. 23/2004, 7/2007, i "Službeni list CG-Opštinski propisi", br. 1/2011, 8/2011 i 22/2011), а u vezi sa članom 57 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list RCG" br.42/02, 28/04,75/05 i 13/06 i "Službeni list CG",br.88/09, 3/10, 38/12 i 10/14) i člana 10 Zakona o teritorijalnoj oranizaciji Crne Gore ("Službeni list CG",br.54/11) i Skupština opštine Plužine na sjednici održanoj 28.12.2015., donijela je
+O D L U K U
