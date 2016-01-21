@@ -1,0 +1,2 @@
+Na osnovu člana 66 stav 4 Zakona o uređenju prostora i izgradnji objekata ("Sl. list Crne Gore", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14) i člana 48 stav 1 alineja 2 Statuta Glavnog grada ("Sl.list RCG - Opštinski propisi", broj 28/06 i "Sl.list CG - Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada Podgorice, uz prethodnu saglasnost Vlade Crne Gore, na sjednici održanoj dana 28. i 29. decembra 2015. godine, donijela je
+O D L U K U
