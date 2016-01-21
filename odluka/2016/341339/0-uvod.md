@@ -1,0 +1,2 @@
+Na osnovu člana 92 stav 2 Zakona o socijalnoj i dječjoj zaštiti ("Sl. list CG", br. 27/13 i 1/15) i člana 48 stav 1 alineja 48 Statuta Glavnog grada ("Sl.list RCG-Opštinski propisi″, br. 28/06 i ″Sl. list CG-Opštinski propisi″, br. 39/10 i 18/12) i člana 11 Odluke o osnivanju Javne ustanove za smještaj, rehabilitaciju i resocijalizaciju korisnika psihoaktivnih supstanci-Podgorica (″Sl.list CG-Opštinski propisi″, br. 27/15), Skupština Glavnog grada-Podgorice, na sjednici održanoj dana 28. i 29. decembra 2015. godine, donijela je
+O D L U K U
