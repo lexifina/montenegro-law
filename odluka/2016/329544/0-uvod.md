@@ -1,0 +1,2 @@
+Na osnovu člana 40 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", br. 88/09, 3/10, 38/12, 10/14 i 1/15), člana 6 stav 2 i člana 40 stav 2 tačka 3 Zakona o državnoj imovini ("Sl.list CG", br. 21/09) i člana 38 tačka 8 Statuta Opštine Žabljak ("Sl. list RCG - Оpštinski propisi", br. 9/05 i 23/07 i "Sl. list CG - Оpštinski propisi", br. 3/11 i 7/14), Skupština opštine Žabljak, na sjednici održanoj dana 24.12.2015. godine, d on i j e l a je
+O D L U K U
