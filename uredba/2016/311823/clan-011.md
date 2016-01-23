@@ -1,0 +1,3 @@
+# Član 11
+Naknada troškova javnog izvršitelja obuhvata naknadu sudskih i administrativnih taksi, naknadu izdataka za čuvanje stvari, naknadu za troškove prevoza i druge stvarne troškove nastale u vezi sa sprovođenjem izvršenja.
+Naknada troškova javnog izvršitelja koji se odnose na izdavanje uvjerenja i potvrda u vezi predmeta u kojem postupa iznosi 5 eura, a naknada za fotokopiranje spisa i prepis sopstvenog dokumenta iznosi 0,2 eura po stranici i naplaćuje se od podnosioca zahtjeva.
