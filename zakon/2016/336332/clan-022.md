@@ -1,0 +1,4 @@
+# Član 22
+(1) Uprava carina može da sarađuje i razmjenjuje informacije sa carinskim službama drugih država i međunarodnim organizacijama u oblasti carinskih poslova, carinskih istraga, obavještajnog rada, prilikom otkrivanja i sprječavanja kršenja propisa, obuke carinskih službenika, unaprjeđivanja tehničke opremljenosti i drugim oblastima, u skladu sa potvrđenim međunarodnim ugovorima.
+(2) Uprava carina može da razmjenjuje lične i tajne podatke sa carinskim organima drugih država i međunarodnim organizacijama u skladu sa potvrđenim međunarodnim ugovorima, ako ti organi i organizacije obezbjeđuju jednak nivo zaštite podataka ekvivalentan zaštiti utvrđenoj propisima Crne Gore.
+(3) Način razmjene podataka iz stava 2 ovog člana, utvrđuje se sporazumom o saradnji koji zaključuje Uprava carina sa nadležnim organom druge države i međunarodnim organizacijama.

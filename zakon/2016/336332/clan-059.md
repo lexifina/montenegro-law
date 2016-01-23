@@ -1,0 +1,18 @@
+# Član 59
+## Poslovi ekspertskog carinskog kadra, nivoi, zvanja i uslovi
+(1) Ekspertski carinski kadar vrši poslove koji se odnose na: vršenje najsloženijih poslova iz djelokruga rada carinske službe koji zahtijevaju posebnu stručnost i samostalnost u radu; izradu planskih dokumenata i sagledavanje stanja u poslovanju u cilju razvoja carinske službe; pripremu, praćenje i primjenu carinskih i drugih propisa iz djelokruga rada Uprave carina; zastupanje pred pravosudnim organima; međunarodnu carinsku saradnju; carinsko- upravni i prekršajni postupak; razvoj službe, planiranje i izvještavanje; unaprjeđenje radnog ambijenta; organizaciju i upravljanje ljudskim resursima; stručno usavršavanje; pravne, finansijske, investicione, informatičke i poslove razvoja carinskog informacionog sistema; statističke i poslove vođenja evidencija; poslove naplate prihoda i postupanja sa carinskom robom; poslove kontrole primjene carinskih propisa, revizije; tarife; laboratorijskog ispitivanja; carinskih postupaka; intelektualne svojine; zabrana i ograničenja; naplate poreza i akciza; saradnje sa privredom; kontrole porijekla i vrijednosti robe; kontrole rada unutrašnjih organizacionih jedinica i carinskih službenika; bezbjednosti; obavještajnog rada, carinskih istraga; suzbijanja krijumčarenja; naknadne kontrole; kontrole carinsko - robne dokumentacije i carinjenja robe; pregled robe u postupku carinjenja; stavljanja robe u odgovarajuće postupke; carinski nadzor nad robom i carinske kontrole putnika, prevoznih sredstava i robe u međunarodnom putničkom i robnom prometu;
+(2) U okviru kategorije ekspertskog carinskog kadra u Upravi carina utvrđuju se nivoi, carinska zvanja i uslovi i to:
+1) nivo 1:
+- samostalni carinski savjetnik I i samostalni carinski inspektor I - VII1 nivo kvalifikacije obrazovanja i najmanje pet godina radnog iskustva;
+- samostalni carinski savjetnik II i samostalni carinski inspektor II - VII1 nivo kvalifikacije obrazovanja i najmanje tri godine radnog iskustva;
+- samostalni carinski savjetnik III i samostalni carinski inspektor III- VII1 nivo kvalifikacije obrazovanja i najmanje jednu godinu radnog iskustva.
+2) nivo 2:
+- viši carinski savjetnik I i viši carinski inspektor I - VII1 nivo kvalifikacije obrazovanja i najmanje tri godine radnog iskustva;
+- viši carinski savjetnik II i viši carinski inspektor II - VII1 nivo kvalifikacije obrazovanja i najmanje dvije godine radnog iskustva;
+- viši carinski savjetnik III i viši carinski inspektor III -VII1 nivo kvalifikacije obrazovanja i najmanje jednu godinu radnog iskustva.
+3) nivo 3:
+- carinski savjetnik I i carinik - viši saradnik I -najmanje V nivo kvalifikacije obrazovanja i najmanje tri godine radnog iskustva;
+- carinski savjetnik II i carinik - viši saradnik II -najmanje V nivo kvalifikacije obrazovanja i najmanje dvije godine radnog iskustva;
+- carinski savjetnik III i carinik - viši saradnik III -najmanje V nivo kvalifikacije obrazovanja i najmanje jednu godinu radnog iskustva.
+(3) Zvanja: samostalni carinski inspektor I, II i III, viši carinski inspektor I, II i III i carinik -viši saradnik I, II i III utvrđuju se u skladu sa kriterijumima utvrđenim aktom o sistematizaciji za obavljanje poslova iz osnovne djelatnosti carinske službe u nadležnosti carinarnice, poslova suzbijanja krijumčarenja, carinskih istraga, obavještajnog rada, revizije, naknadne i unutrašnje kontrole.
+(4) Zvanja: samostalni carinski savjetnik III, samostalni carinski inspektor III, viši carinski savjetnik III i viši carinski inspektor III su početne pozicije u okviru nivoa kategorije ekspertskog carinskog kadra.

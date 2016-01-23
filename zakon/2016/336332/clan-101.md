@@ -1,0 +1,6 @@
+# Član 101
+## Obrada podataka
+(1) Uprava carina prikuplja, evidentira, vrši obradu i obezbjeđuje zaštitu ličnih i drugih podataka, neposredno od lica na koje se ti podaci odnose i iz postojećih evidencija, o čemu carinski službenik nije u obavezi da obavijesti lica na koja se takvi podaci odnose, ukoliko bi se time onemogućilo ili otežalo izvršenje određenog službenog zadatka.
+(2) U vršenju poslova iz stava 1 ovog člana, primjenjuju se propisi kojima se uređuje zaštita ličnih podataka, zaštita tajnih podataka, kao i propisi kojima se uređuje zaštita podataka koji predstavljaju službenu i poslovnu tajnu.
+(3) Carinski službenik je dužan da prije unošenja ličnih i drugih podataka u evidencije, procijeni pouzdanost izvora i vjerodostojnost ličnih i drugih podataka.
+(4) Pojedinačni podaci o fizičkim i pravnim licima sadržani u carinskim deklaracijama, kao i podaci potrebni za utvrđivanje i provjeru carinske vrijednosti robe, u skladu sa odredbama zakona kojim se uređuju carinski poslovi i odredbama zakona kojim se uređuje zvanična statistika i sistem zvanične statistike, smatraju se službenom tajnom i ne smiju se od strane carinskog organa dalje saopštavati bez izričite saglasnost lica ili ovlašćenih organa koji su ih dali.
