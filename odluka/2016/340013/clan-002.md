@@ -1,0 +1,2 @@
+# Član 2
+Izrada Plana se odnosi na prostor koji je omeđen sa ulicom Aerodromskom na potezu od raskrsnice sa regionalnim putem Berane - Andrijevica do raskrsnice sa Manastirskom ulicom.Zapadna granica je Manastirska ulica do raskrsnice sa ulicom na kat.parceli br.949 KO Dolac,potom se nastavlja jazom do ulice prema "Crnagoraput"-u,ide istočno ulicom do regionalnog puta.Istočna granica je regionalni put do raskrsnice sa Aerodromskom ulicom.U zahvat Plana ulaze jaz i sve ulice izuzev Aerodromske koja pripada kontaktnom planu. Površina zahvata Plana je cca 17,25 ha

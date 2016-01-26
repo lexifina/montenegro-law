@@ -1,0 +1,2 @@
+# Član 9
+Ova Odluka stupa na snagu danom donošenja a objaviće se u Službenom listu Crne Gore -opštinski propisi , dnevnom listu "Dan" kao i na sajtu Opštine Berane www.Berane.me
