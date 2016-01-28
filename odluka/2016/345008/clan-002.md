@@ -1,0 +1,2 @@
+# Član 2
+Ovlašćuje se Predsjednik Opštine Budva da u ime Opštine Budva preduzme sve pravne radnje pred nadležnim organima radi poništaja, odnosno raskida svih pravnih poslova donijetih na osnovu Odluke Skupštine Opštine Budva broj 0101-306/1 od 07.07.2014.godine o davanju ovlašćenja za potpisivanje Anex-a IV Ugovora o ustupanju radova na izradi projektne dokumentacije i izgradnje poslovno-komercijalno-turističkog centra i garaže u Budvi broj 001-2435/1.
