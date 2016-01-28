@@ -1,0 +1,3 @@
+Na osnovu čl. 8 stava 2 i 3 Zakona o socijalnom stanovanju ("Sl. list CG", 35/13), čl. 32 stav 1 tačka 17 Zakona o lokalnoj samoupravi ("Sl. list RCG", 42/03, 28/04, 75/05 i 13/03 i "Sl. list CG", br. 88/09, 38/12 i 10/14), čl. 19 stav 1 alineja 17 i 44 stav 1 tačka 2 Statuta opštine Mojkovac ("Sl.list CG - Opštinski propisi", br. 31/10 i 26/12) i uz prethodnu saglasnost Ministarstva rada i socijalnog staranja, br. 023-715/15-2, od 10.12. 2015. godine, Skupština opštine Mojkovac, na sjednici održanoj dana 24.12.2015. godine, donijela je
+O D L U K U
+o rješavanju stambenih potreba po osnovu prava na socijalno stanovanje
