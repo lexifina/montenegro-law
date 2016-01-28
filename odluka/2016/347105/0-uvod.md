@@ -1,0 +1,3 @@
+Na osnovu člana 34 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG'’, br. 42/03, 28/04, 75/05, 13/06 i "Sl. Iist CG", br. 88/09, 3/10), člana 104 Zakona o socijalnoj i dječjoj zaštiti ("Sl. list CG", broj 27/13, 1/15, 42/15 i 47/15), člana 10 tačka 8 Zakona o vaspitanju i obrazovanju djece sa posebnim obrazovnim potrebama ("Sl. list RCG", br. 80/04 i "Sl. list CG", broj 45/10) i člana 34 tačka 14 Statuta Opštine Pljevlja ("Sl.list RCG - Opštinski propisi", br. 37/04, 30/07 i "Sl.list CG - Opštinski propisi", broj 32/09 i 14/11), Skupština opštine, na sjednici održanoj 28.12. 2015.godine, donijela je
+O D L U K U
+o osnivanju JU Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom Pljevlja
