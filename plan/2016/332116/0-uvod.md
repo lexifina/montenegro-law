@@ -1,0 +1,2 @@
+Na osnovu čl. 117 Zakona o uređenju prostora i izgradnji objekata (''Sl.list CG'', broj 51/08, 40/10, 34/11 i 47/11,35/13, 39/13, 33/14), člana 13 i 14 Odluke o postavljanju, građenju i uklanjanju privremenih objekata montažnog karaktera na teritoriji opštine Rožaje ("Sl.list CG" br. 31/14), i čl.42 Statuta opštine Rožaje ("Sl. list CG-Opštinski propisi", br. 9/11), Skupština opštine Rožaje, na sjednici održanoj dana 24.12.2015. godine, donijela je
+G O D I Š NJ I P L A N
