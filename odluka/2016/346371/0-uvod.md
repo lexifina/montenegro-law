@@ -1,0 +1,2 @@
+Na osnovu člana 45 i 51 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, ''Sl. list CG'' br. 88/09, 3/10, 38/12 i 10/14), člana 15 Zakona o uređenju prostora i izgradnji objekata ( "Sl. list CG", br. 51/08, 34/11, 35/13, 39/13 i 33/14) i člana 42 Statuta opštine Rožaje, ("Sl. list CG-Opštinski propisi" br. 9/11), Skupština opštine Rožaje, na sjednici održanoj dana 24.12.2015. godine, donijela je
+O D L U K U
