@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, 88/09, 03/10, 73/10, 38/12, 10/14) i člana 60 stav 1 tačka 5 Statuta Opštine Bijelo Polje (’’Sl.list RCG-Opštinski propisi’’, br.25/04, 33/06, "Sl.list CG-Opštinski propisi", 18/10, 32/13), predsjednik Opštine Bijelo Polje, dana 11.12.2015.godine, donio je
+O D L U K U
