@@ -1,0 +1,2 @@
+Na osnovu člana 29 Zakona o državnoj imovini (" Službeni list CG" br. 21/09 ), član 32 stav 1 tačka 17, član 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG" br. 42/03, 28/04, 75/05, 13/06, 88/09), člana 18 stav 1 tačka 17 i član 42 stav 1 tačka 9 Statuta opštine Rožaje ("Službeni list CG - Opštinski propisi" br. 09/11), Skupština opštine Rožaje, na sjednici održanoj dana 24.12.2015. godine, donijela je:
+O D L U K U
