@@ -1,0 +1,4 @@
+# Član 28
+Van redovnog radnog vremena državnog tužilaštva obavljaju se samo oni poslovi koji ne trpe odlaganje.
+U osnovnim i višim državnim tužilaštvima i Specijalnom državnom tužilaštvu na osnovu godišnjeg rasporeda poslova rukovodilac državnog tužilaštva, za rukovođenje izviđajem i radnjama u istrazi van radnog vremena, na početku mjeseca određuje državne tužioce, službenike i namještenike koji će naizmjenično biti u državnom tužilaštvu neprekidno 24 časa (dežurstvo) ili će biti u pripravnosti da dođu u državno tužilaštvo kad se za to ukaže potreba.
+Pored državnih tužilaca, službenika i namještenika iz stava 2 ovog člana, rukovodilac državnog tužilaštva može odrediti dežurstvo ili pripravnost i drugih državnih tužilaca, službenika i namještenika radi obavljanja poslova koji ne trpe odlaganje.

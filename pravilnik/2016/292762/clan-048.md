@@ -1,0 +1,7 @@
+# Član 48
+## 13. Dodjeljivanje i oduzimanje predmeta
+Predmeti, osim u slučajevima specijalizacije državnog tužioca, dodjeljuju se državnim tužiocima po redosljedu prispjeća, na način da se dnevno prispjeli predmeti dodjeljuju prema azbučnom redu početnih slova prezimena državnih tužilaca. Ako je istovremeno podnijeto više krivičnih prijava, tada se podnesci razvrstavaju po azbučnom redu početnih slova prezimena lica protiv kojih je podnijeta krivična prijava, a ako je istovremeno primljeno više drugih podensaka kojima se osniva spis, tada se podnesci razvrstavaju po azbučnom redu početnih slova prezime podnosioca i nakon razvrstaanja predmeta isti se dodjeljuju prema azbučnom redu početnih slova prezimena državnih tužilaca.
+Ukoliko se vode upisnici po različitim vrstama predmeta, predmeti se dodjeljuju državnim tužiocima po azbučnom redu početnih slova prezimena državnih tužilaca za svaku vrstu predmeta posebno.
+Dodjeljivanje spisa predmeta državnom tužiocu upisuje se u upisnik tako da dodjele prate azbučni red početnih slova prezimena državnih tužilaca.
+U slučaju da je državni tužilac započeo rad na predmetu u vrijeme dežurstva predmet se dodjeljuje u rad tom državnom tužiocu.
+Izuzetno od stava 1 ovog člana, u državnim tužilaštvima u kojima je informacioni sistem uspostavljen dodjela predmeta vrši se kroz algoritam za dodjelu predmeta koji je sastavni dio aplikacije informacionog sistema, odmah po upisu u sistem osnovnih podataka o predmetu.

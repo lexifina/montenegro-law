@@ -1,0 +1,2 @@
+# Član 88
+Na sva primljena pismena stavlja se otisak prijemnog pečata (Obrazac 3), po pravilu na prvu stranu u desnom gornjem dijelu pismena. Ako tu nema dovoljno mjesta otisak se stavlja na pogodno mjesto na prvoj strani, a ako to nije moguće, na poleđini u gornjem lijevom uglu. Ako su obje strane pismena u cjelini ispunjene tekstom, otisak primljenog pečata stavlja se na poseban papir koji se spaja i upisuje datum prijema. Ako je pismeno u zatvorenom omotu, a primalac nije ovlašćen da ga otvori, otisak prijemnog pečata stavlja se na omotu.

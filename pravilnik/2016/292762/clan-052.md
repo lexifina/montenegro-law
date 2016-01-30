@@ -1,0 +1,2 @@
+# Član 52
+U državnim tužilaštvima u kojima postoje uslovi za vođenje upisnika u elektronskom obliku, raspodjela novoprimljenih predmeta vrši se korišćenjem informacionog sistema (matematičkog algoritma) koji obezbjeđuje da na kraju jednog ciklusa raspodjele svi državni tužioci imaju podjednak broj novoprimljenih predmeta u radu i da budu podjednako opterećeni. Trajanje jednog ciklusa raspodjele koji ne može biti kraći od jednog mjeseca, državno tužilaštvo određuje u skladu sa godišnjim prilivom predmeta, godišnjim rasporedom poslova i brojem državnih tužilaca.

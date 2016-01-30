@@ -1,0 +1,4 @@
+# Član 152
+Državno tužilatšvo vodi posebnu evidenciju u Knjizi oduzetih predmeta (Obrazac 19) o onim predmetima koje preuzima istovremeno sa krivičnom prijavom ili izvještajem policije ili uz prijavu drugih organa. Ukoliko se oduzeti predmeti ne čuvaju u državnom tužilaštvu u Knjizi oduzetih predmeta će se označiti kod koga su predmeti na čuvanju.
+Državno tužilaštvo u Knjizi oduzetih predmeta vodi evidenciju o oduzetom novcu u domaćoj i stranoj valuti po specifikaciji, o dragocjenostima, kao što su zlato i proizvodi od zlata i drugih plemenitih metala i o drugim vrijednosnim predmetima, kao što su razni vrijednosni papiri, takse, poštanske marke, srećke i sl.
+Lice zaduženo za rukovanje oduzetim predmetima dužno je da do odluke državnog tužilaštva u predmetu, čuva oduzete predmete u blagajni, odnosno u dobro obezbijeđenom prostoru državnog tužilaštva.

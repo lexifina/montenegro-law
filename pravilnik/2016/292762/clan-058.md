@@ -1,0 +1,4 @@
+# Član 58
+Kad je nakon završetka rada na predmetu u jednom odjeljenju potrebno da se u drugom odjeljenju nastavi sa radom, državni tužilac koji je radio na predmetu je dužan da spise predmeta svrsta hronološkim redom i preko pisarnice predmet preda rukovodiocu državnog tužilaštva, radi određivanja državnog tužioca koji nastavlja sa radom na predmetu.
+Prilikom završetka rada na predmetu ili dostavljanja predmeta sudu ili drugom organu, državni tužilac koji je radio na predmetu je dužan da pojedine spise predmeta svrsta hronološkim redom, izdvoji dio predmeta koji ostaje u državnom tužilaštvu od dijela koji se dostavlja sudu ili drugom organu, da zabilježi koji spisi su kome dostavljeni i predmet preda pisarnici koja postupa po datom nalogu.
+Ako prilikom dostavljanja predmeta sudu ili drugom organu, ostaje jedan dio predmeta u državnom tužilaštvu, u popisu spisa predmeta zabilježiće se koji su spisi ostali.

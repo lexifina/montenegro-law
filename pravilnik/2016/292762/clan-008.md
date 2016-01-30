@@ -1,0 +1,4 @@
+# Član 8
+Radi vršenja nadzora nad radom nižih državnih tužilaštava Vrhovno državno tužilaštvo i viša državna tužilaštva donose godišnji plan nadzora.
+U planu nadzora iz stava 1 ovog člana navode se državna tužilaštva u kojima će se tokom godine vršiti nadzor i raspored nadzora prema kvartalima godine. Neposredno prije početka nadzora ruko- vodilac državnog tužilaštva koje vrši nadzor posebnom odlukom određuje tačno vrijeme nadzora, državne tužioce koji će izvršiti nadzor, kao i koje vrste predmeta će se pregledati i u kojem obimu.
+Izuzetno u slučaju smetnji u radu državnog tužilaštva, po odluci vrhovnog državnog tužioca, odnosno rukovodioca višeg državnog tužilaštva može se izvršiti vanredni, potpuni ili djelimični pregled radi utvrđivanja uzroka koji su doveli do smetnji u radu. Pregled nad radom ostvaruje se uvidom u rad državnih tužiilaca i zaposlenih, kao i uvidom u predmete i odluke, te na drugi pogodan način.

@@ -1,0 +1,6 @@
+# Član 69
+Rukovodilac državnog tužilaštva utvrđuje kućni red. Ako je u istoj zgradi smješteno više državnih tužilaštava, kućni red utvrđuje hijerarhijski viši državni tužilac.
+Ukoliko se u istoj zgradi nalazi više pravosudnih organa, kućni red će se utvrditi sporazumno sa starješinama tih organa, osim ako su prostorije tih organa potpuno odvojene. Ako se kućni red ne utvrdi sporazumno, utvrđuje ga ministar nadležan za poslove pravosuđa.
+Kućnim redom se utvrđuje način korišćenja radnih i drugih prostorija u zgradi državnog tužilaštva, način ulaska i zadržavanja stranaka i drugih lica u zgradi, raspolaganje ključevima ulaznih vrata, mjere za održavanje reda i čistoće u zgradi, mjere bezbjednosti zgrade i lica u zgradi, mjere čuvanja sredstava za rad i drugih predmeta koji se nalaze u zgradi, korišćenje zemljišta i parking prostora koji pripadaju zgradi i sl.
+Kućnim redom utvrđuju se i dužnosti službenih lica na koja se kućni red odnosi.
+Sa kućnim redom upoznaju se rukovodilac državnog tužilaštva, državni tužioci, službenici i namještenici i službena lica na koja se odnosi kućni red, a izvod iz kućnog reda, u dijelu koji se odnosi na građane, ističe se na vidnom mjestu u zgradi državnog tužilaštva.

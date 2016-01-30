@@ -1,0 +1,2 @@
+# Član 9
+Rukovodilac državnog tužilaštva usklađuje rad tužilačkih odjeljenja i drugih organizacionih jedinica. Kad rukovodilac državnog tužilaštva u radu odjeljenja i drugih organizacionih jedinica uoči nejednako postupanje ili postupanje suprotno važećim propisima ili odstupanje od ustaljene tužilačke prakse dužan je da, u okviru svojih ovlašćenja, preduzme odgovarajuće mjere radi zauzimanja stava za jednako postupanje, odnosno postupanje u skladu sa zakonom i ustaljenom tužilačkom praksom.

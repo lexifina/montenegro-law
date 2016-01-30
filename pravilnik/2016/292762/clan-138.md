@@ -1,0 +1,2 @@
+# Član 138
+U Krivični upisnik za predmete u drugostepenom krivičnom postupku "Ktž" i Krivični upisnik za odgovornost pravnih lica u drugostepenom postupku "Ktž-I" upisuju se podaci o podnijetim žalbama na prvostepene odluke, prvostepenom krivičnom postupku, podnosiocu žalbe, toku i odlukama drugostepenog postupka, kao i učestvovanju rukovodioca državnog tužilaštva, odnosno državnog tužioca na sjednicama i pretresima.
