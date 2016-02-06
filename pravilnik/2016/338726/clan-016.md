@@ -1,0 +1,3 @@
+# Član 16
+## Prijem obavještenja o nesreći ili ozbiljnoj nezgodi vazduhoplova
+Ako se nesreća ili ozbiljna nezgoda vazduhoplova dogodi na teritoriji strane države, a Crna Gora je država registracije ili država projekta ili država proizvodnje ili država operatora vazduhoplova, Komisija u koordinaciji sa Ministarstvom, odmah po prijemu obavještenja o nesreći ili ozbiljnoj nezgodi, potvrđuje prijem obavještenja i dostavlja nadležnom organu strane države na čijoj se teritoriji dogodila nesreća ili ozbiljna nezgoda raspoložive informacije o vazduhoplovu i posadi koji su uključeni u nesreću ili ozbiljnu nezgodu.
