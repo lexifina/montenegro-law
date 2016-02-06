@@ -1,0 +1,3 @@
+# Član 42
+(1) Ako smatra da je to neophodno radi efikasnijeg ili ekonomičnijeg rada Ustavnog suda ili zbog drugih opravdanih razloga, predsjednik je ovlašćen da Ustavnom sudu predloži ustanovljavanje i drugih vijeća za odlučivanje o ustavnim žalbama.
+(2) Ako se novo vijeće ustanovljava radi odlučivanja o hitnim ustavnim žalbama odnosno predmetima koji su vezani za kratke rokove ili koji ne trpe odlaganje, Ustavni sud može odlučiti da novoustanovljeno vijeće odlučuje i o procesnim pretpostavkama i o meritumu ustavnih žalbi, a da se sjednica vijeća održava i u slučaju kad postoji samo jedan predmet pripremljen za sjednicu.

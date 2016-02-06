@@ -1,0 +1,5 @@
+# Član 109
+## 4. Uvid u ustavnosudski spis nakon okončanja postupka
+(1) Generalni sekretar odobrava učesniku u postupku uvid u ustavnosudski spis i nakon što je ustavnosudski postupak okončan, a predmet razvrstan pod oznakom "a/a.", ako učesnik pisanim podneskom obavijesti Ustavni sud da priprema zahtjev za zaštitu prava pred Evropskim sudom za ljudska prava i navede razloge zbog kojih uvid u spis smatra potrebnim.
+(2) Fizičkom licu koje nije bilo učesnik u postupku, generalni sekretar može odobriti uvid u ustavnosudski spis iz odredaba člana 107. ovog poslovnika nakon okončanja ustavnosudskog postupka, a predmet razvrstan pod oznakom "a/a.", ako to lice nedvosmisleno dokaže da za to ima opravdan stručni, naučni, istraživački ili slični interes, uz svojeručno potpisano jemstvo da lična imena, nazive pravnih lica i nazive mjesta i stranih država, sadržane u spisima predmeta po ustavnoj žalbi, neće objaviti.
+(3) Odobrenje, odnosno službena zabilješka o uskraćivanju odobrenja iz st. 1. i 2. ovog člana daje se u pisanom obliku i smatra se dijelom ustavnosudskog spisa.

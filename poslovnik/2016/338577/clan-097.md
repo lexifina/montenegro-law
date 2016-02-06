@@ -1,0 +1,6 @@
+# Član 97
+## 1) Sadržina ustavnosudske odluke i rješenja
+(1) Ustavnosudske odluke i rješenja imaju uvod, izreku i obrazloženje.
+(2) U uvodu odluke i rješenja prvo se navodi ime i prezime predsjednika, odnosno predsjednika nadležnog vijeća ili sudije koji je predsjedavao sjednicom, a zatim imena i prezimena sudija koji su učestvovali u donošenju odluke ili rješenja abecednim redom prema početnom slovu njihovih prezimena, bez navođenja naučnih ili stručnih titula, datum održavanja sjednice o vijećanju i glasanju, kojom je većinom donijeta i druge podatke u zavisnosti od vrste postupka i predmeta spora.
+(3) Izreka odluke i rješenja sadrži: odluku Ustavnog suda, naziv osporenog akta, oznaku osporene odredbe i naziv donosioca akta, datum donošenja ili objavljivanja osporenog akta, privremenu naredbu, podatke o objavljivanju akta Ustavnog suda, kao i druge potrebne činjenice u zavisnosti od vrste postupka i predmeta spora.
+(4) Obrazloženje odluke i rješenja sadrži: ime odnosno naziv podnosioca podneska, bitnu sadržinu podneska, odgovora, odnosno mišljenja donosioca akta i osporenog akta, sadržinu osporene odredbe, propise na kojima se zasniva odluka, relevantnu praksu, ustavnopravne razloge za odlučivanje, kao i druge činjenice zavisno od predmeta spora i vrste akta.
