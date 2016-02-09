@@ -1,0 +1,2 @@
+# Član 5
+Donošenjem ovog Plana stvaraju se uslovi za privođenje namjeni prostora u zahvatu istog, u skladu sa smjernicama i uslovima za uređenje prostora definisanim Elaboratom Plana.
