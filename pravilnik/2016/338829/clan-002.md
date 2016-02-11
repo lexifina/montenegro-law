@@ -1,0 +1,3 @@
+# Član 2
+Kontrola primjene odredaba čl. 24 do 34 Zakona i kontrola tokom izborne kampanje (u daljem tekstu: kontrola), kao i nadzor tokom izborne kampanje (u daljem tekstu: nadzor), u smislu ovog Pravilnika, Agencija za sprječavanje korupcije (u daljem tekstu: Agencija) vrši uvidom u dokumentaciju dostavljenu na zahtjev Agencije ili neposrednim uvidom u poslovne knjige, knjigovodstvenu i drugu dokumentaciju političkog subjekta i drugog lica koji je predmet kontrole.
+U cilju sprovođenja kontrole i nadzora iz stava 1 ovog člana, Agencija prikuplja i analizira izvještaje, informacije i podatke od političkih subjekata, informacije i podatke koje subjekti nadzora dostave Agenciji po službenoj dužnosti ili na njen zahtjev, kao i podatke od drugih pravnih i fizičkih lica.
