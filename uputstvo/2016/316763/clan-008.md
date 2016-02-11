@@ -1,0 +1,4 @@
+# Član 8
+Ako je pokrenut postupak iz člana 7 ovog Uputstva, ovlašćeni službenik će, od nadležnih državnih organa, organa državne uprave i organa lokalne uprave, organa lokalne samouprave, odnosno javnih preduzeća, privrednih društava, ustanova ili drugih pravnih i fizičkih lica, zatražiti potrebne podatke i obavještenja o činjenicama koje su neophodne za vođenje postupka i odlučivanje Agencije, uz određenje roka za dostavljanje tih informacija, vodeći računa da sačuva identitet podnosioca prigovora.
+Ukoliko nadležni organi, pravna i fizička lica iz stava 1 ovog člana ne dostave potrebne podatake i obavještenja u ostavljenom roku i o razlozima nepostupanja ne obavijeste Agenciju, Agencija će podnijeti zahtjev za pokretanje prekršajnog postupka pred nadležnim sudom.
+U slučaju iz stava 2 ovog člana, Agencija obavještava organ koji vrši nadzor nad njihovim radom, podnosi poseban izvještaj Skupštini Crne Gore i obavještava javnost.

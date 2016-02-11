@@ -1,0 +1,4 @@
+# Član 11
+Kada nakon sprovedenog postupka, ovlašćeni službenik utvrdi da je došlo do povrede Zakona, sačinjava predlog odluke, koja sadrži kratak opis prigovora, radnje koje su preduzete od strane Agencije u cilju provjere navoda iz prigovora i činjenice utvrđene u toku postupka. Predlog odluke takođe sadrži posebne mjere za političkog subjekta u cilju otklanjanja identifikovanog problema, ukoliko utvrdi nedostatke koji se mogu otkloniti.
+Predlog odluke iz stava 1 ovog člana dostavlja se direktoru Agencije, na donošenje.
+Odluka se dostavlja državnom organu, organu državne uprave i organa lokalne uprave, organa lokalne samouprave, odnosno javnom preduzeću, privrednom društvu, ustanovi ili drugom pravnom i fizičkom licu na čiji rad se preporuka odnosi i objavljuje na internet stranici Agencije, najkasnije u roku od pet dana od dana donošenja.
