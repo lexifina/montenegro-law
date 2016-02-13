@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se bliži uslovi u pogledu tehničke opremljenosti i stručnog kadra za izdavanje licence za upravljanje željezničkom infrastrukturom, sadržaj zahtjeva za izdavanje licence za upravljanje infrastrukturom i dokumentacija koja se podnosi uz zahtjev, obrazac licence za upravljanje infrastrukturom i način vođenja evidencije o izdatim licencama za upravljanje infrastrukturom (u daljem tekstu: licenca).
