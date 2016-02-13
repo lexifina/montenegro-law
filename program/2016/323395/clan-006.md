@@ -1,0 +1,3 @@
+# Član 6
+Ovaj Program stupa na snagu osmog dana od dana objavljivanja u "Službenom listu" Crne Gore-Opštinski propisi.
+Tivat, 27.01.2016.god.

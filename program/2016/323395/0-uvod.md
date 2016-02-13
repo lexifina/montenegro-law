@@ -1,0 +1,2 @@
+Na osnovu člana 20 Zakona o poljoprivredi i ruralnog razvoja ("Službeni list CG", broj 56/09 i 1/15), člana 5 Zakona o poljoprivrednom zemljištu ("Službeni list RCG ", broj 15/92, 59/92, 27/94 i 32/11), Strategije rurualnog razvoja do 2020.godine("Službeni list CG- Оpštinski propisi", broj 15/2015.godine) i člana 56 Statuta Opštine Tivat ("Službeni list RCG- Оpštinski propisi", broj 40/04 i 26/06 i "Službeni list CG-Оpštinski propisi", broj 12/11, 21/11 i 3/13), Predsjednik Opštine Tivat donosi
+P R O G R A M
