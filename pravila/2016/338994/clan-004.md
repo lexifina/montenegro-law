@@ -1,0 +1,2 @@
+# Član 4
+O prilozima ostvarenim u smislu člana 2 ovih Pravila, politički subjekti izvještavaju Agenciju za sprječavanje korupcije podnošenjem izvještaja o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora za izbornu kampanju i petnaestodnevne izvještaje o prilozima pravnih i fizičkih lica u toku izborne kampanje koji se podnose u skladu sa članom 39 stav 2 i članom 42 stav 2 Zakona o finansiranju političkih subjekata i izbornih kampanja, a iskazuju ih i kroz izvještaj o godišnjim prihodima, imovini i rashodima.
