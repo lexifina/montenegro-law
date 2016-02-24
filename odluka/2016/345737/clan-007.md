@@ -1,0 +1,2 @@
+# Član 7
+Dodijeljeni iznos jednokratne pomoći ne može biti veći od 50% prosječne zarade bez poreza i doprinosa (neto) u Crnoj Gori u mjesecu u kojem se pomoć odobrava i može biti realizovan u robi ako nadležni organ procijeni da je to povoljnije za korisnika. Izuzetno, nadležni organ Opštine može u skladu sa mogućnostima odobriti pomoć u smislu čl. 5 stav 2 i licu koje nije u stanju socijalne potrebe.
