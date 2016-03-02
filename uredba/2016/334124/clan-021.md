@@ -1,0 +1,5 @@
+# Član 21
+## Jačina alkohola
+Jačina alkohola za pića iz carinskih tarifnih brojeva 22 04 označava se u skladu sa posebnim propisom.
+Stvarna jačina alkohola po volumenu za pića koja sadrže više od 1,2% vol. alkohola, osim pića iz stava 1 ovog člana navode se u skladu sa Prilogom 8 koji je sastavni dio ove uredbe.
+Informacije o hrani koje se odnose na naziv i neto količinu hrane, kao i na stvarnu jačinu alkohola po volumenu (%) za pića koja sadrže više od 1,2 % vol. alkohola moraju se nalaziti u istom vidnom polju.
