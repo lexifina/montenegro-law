@@ -1,0 +1,5 @@
+# Član 1
+## o izmjeni Odluke o izradi Izmjena i dopuna Detaljnog urbanističkog plana "ROZINO I"
+U Odluci o izradi Izmjena i dopuna Detaljnog urbanističkog plana "ROZINO I", (»Sl. list CG - Opštinski propisi«, broj 05/13), Član 2 mijenja se i glasi:
+" Izmjenama i dopunama DUP-a, preispitaće se prostor u obuhvatu postojećeg plana i iznaći optimalno plansko rješenje na lokacijama:
+1. Blok 1 - UP3, UP4; 2. Blok 4 - UP1, UP2; 3. Blok 5 - UP6, UP7; 4. Blok 6 - UP1, UP4, UP5, UP6, k-2; 5. Blok 7- UP1, UP2, UP3; 6. Blok 8 - UP6, UP9, UP10, UP13; 7. Blok 9 -UP1, UP2, UP3, UP4, UP5, UP6, UP7, UP8, UP9, UP10, UP11, UP12, UP13; 8. Blok 10 - UP2, UP5, UP6, UP7, UP8, UP11, UP12, UP13, UP14, UP18, UP25 i z-1; 9. Blok 11 - UP1; 10. Blok 12 -UP1, UP2, UP3, UP5, UP6, UP7 i z-2; 11. Blok 13 - UP2, UP3, UP4 i UP8; 12. Blok 14 -UP1, UP2, UP5, UP6, UP7, UP16, z-5 i k-1; saobraćajnicama S-8, S-10, S-11, S-12, S-14, S-15, S-20, S-22, S-26, S-28, S-29 i S-33 kao i na djelovima katastarskih parcela u KO Budva, br. 507/7, 1632/2, 1533/3, 1588/2, 514, 555/5, 518, 532/1, 617/1, 551/4 i 603, na kojima je potrebno planirati odgovarajuće trafostanice".
