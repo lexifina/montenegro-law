@@ -1,0 +1,2 @@
+Na osnovu člana 112 stav 6 i člana 113 stav 2 Zakona o vodama ("Službeni list RCG", broj 27/07 i "Službeni list CG", br. 32/11 i 48/15), Ministarstvo poljoprivrede i ruralnog razvoja donijelo je
+PRAVILNIK O IZMJENI I DOPUNI PRAVILNIKA O SADRŽAJU ZAHTJEVA I DOKUMENTACIJI ZA IZDAVANJE VODNIH AKATA, NAČINU I USLOVIMA ZA OBAVEZNO OGLAŠAVANJE U POSTUPKU UTVRĐIVANJA VODNIH USLOVA I SADRŽAJU VODNIH AKATA
