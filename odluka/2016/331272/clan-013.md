@@ -1,0 +1,2 @@
+# Član 13
+Prihvatanjem i stupanjem na snagu Aneksa br. 1 Ugovora o zakupu hotela "Kraljičina Plaža" Budva, Zakupac se odriče prava na arbitražu nastalog po osnovu eventualnog neizvršenja obaveza Zakupodavca, koje se odnosi na dosadašnje prolongiranje obezbeđivanja neophodnih preduslova za početak izgradnje pomenutog hotela (usvajanje detaljnog urbanističkog plana). Izuzev slučaja navedenog u stavu 1 ovog člana pravo Zakupca na arbitražu ostaje nedirnuto u drugim slučajevima.

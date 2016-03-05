@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tačka 3 Ustava Crne Gore, Amandmana IV stav 1 na Ustav Crne Gore i člana 39 stav 3 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), Skupština Crne Gore 25. saziva, na osmoj śednici drugog redovnog (jesenjeg) zasijedanja u 2015. godini, dana 29. decembra 2015. godine, donijela je
+O D L U K U O PRIHVATANJU ANEKSA BR. 1 UGOVORA O ZAKUPU HOTELA "KRALJIČINA PLAŽA" BUDVA
