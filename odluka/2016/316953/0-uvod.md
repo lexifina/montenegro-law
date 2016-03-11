@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 5 Zakona o lokalnoj samou pravi (,,Sl.list RCG’’, br. 42/03,28/04, 75/05 i 13/06 i ,,Sl.list CG’’, br.88/09,3/10 i 38/12, 10/14 i 57/14) i čl. 55 st. 1 tačka 6 Statuta Opštine Kolašin ("Službeni list CG - Opštinski propisi " br. 31/11), po pribavljenom mišljenju Glavnog administrator br.07-482/2 od 22.02.2016.godine, predsjednica Opštine Kolašin, dana 22.02. 2016 godine, donosi-
+ODLUKU
