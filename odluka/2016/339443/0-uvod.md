@@ -1,0 +1,2 @@
+Na osnovu čl. 32. stav 1. tačka 1. Zakona o lokalnoj samoupravi (»Sl. list RCG« broj 42/03, 28/04, 75/05, 13/06, 88/09, 3/10, 73/10, 38/12 i 10/14), člana 12. Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 12/95 , člana 30. Statuta Opštine Kotor ( »Sl. list Opštine Kotor broj 3/4 i Sl. list Crne Gore -Opštinski propisi broj 17/08, 31/09, 40/10 i 4/11) i zaključaka Vlade Crne Gore 08-1876 od 20.08.2015 godine Skupština opštine Kotor na sjednici održanoj 19. 02. 2016. godine, donijela je
+O D L U K U
