@@ -1,0 +1,2 @@
+# Član 21
+Lice koje upravlja službenim vozilom će u slučaju lakšeg kvara, koji ne utiče na dalje bezbjedno upravljanje službenim vozilom niti na prouzrokovanje drugih štetnih posljedica na službenom vozilu i težeg kvara, koji utiče na dalje bezbjedno upravljanje istim ili na prouzrokovanje drugih štetnih posljedica na službenom vozilu, obavjestiti zaduženo lice u Sekretarijatu za lokalnu samoupravu.
