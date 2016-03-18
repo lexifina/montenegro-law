@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom uređuje se način i postupak učešća lokalnog stanovništva u vršenju javnih poslova, oblici učešća i mehanizmi, subjekti, mjere i aktivnosti koje preduzimaju organi lokalne samouprave i organi lokalne uprave ( u daljem tekstu: organi Opštine) u cilju podsticanja i uključivanja građana u proces planiranja, donošenja odluka i njihovoj implementaciji i druga pitanja u vezi sa načinom i postupkom učešća lokalnog stanovništva u vršenju javnih poslova.
