@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Sl. list RCG" br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG" br. 88/09, 03/10, 38/12), člana 42 Statuta opštine Rožaje ( "Sl. list CG - Opštinski propisi" br. 09/11) i članova 142, 143, 145 Poslovnika o radu Skupštine opštine Rožaje ("Sl. list CG - Opštinski propisi" br. 1/12), Skupština opštine Rožaje, na sjednici održanoj dana 03.03.2016.godine, donijela je
+ODLUKU
