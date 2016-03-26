@@ -1,0 +1,2 @@
+Na osnovu člana 26 tačka 4 Statutarne odluke Gradske opštine Tuzi ("Sl. list RCG-Opštinski propisi", br. 50/06, ’’Sl.list Crne Gore- državni propisi’’,br.08/07, ’’Sl.list Crne Gore- Opštinski propisi’’, br. 07/12) kao i člana 154 Poslovnika o radu Skupštine Gradske opštine Tuzi ("Sl. list RCG-Opštinski propisi", br. 06/07) Skupština Gradske opštine, na sjednici održanoj 10. marta 2016. godine, donijela je
+ODLUKU
