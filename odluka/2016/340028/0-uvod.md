@@ -1,0 +1,2 @@
+Na osnovu člana 28. Zakona o turističkim organizacijama ( "Sl. list RCG", broj 11/04 i 46/07), člana 24. Odluke o osnivanju Turističke organizacije opštine Pljevlja ( "Sl. list RCG - Opštinski propisi", broj 30/05) i člana 34 Statuta opštine Pljevlja ( "Sl. List RCG - Opštinski propisi", broj 37/04 i 30/07 i "Sl. List C.Gore - Opštinski propisi" br. 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici održanoj dana 14.03.2016. godine, donijela je
+O D L U K U
