@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list RCG" br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG" br. 88/09, 3/10, 73/10, 38/12, 10/14 i 3/16), čl. 63 stav 1 tačka 41 i 75 Statuta Prijestonice ("Službeni list CG - Opštinski propisi" br. 19/09, 37/10, 26/13, 39/14 i 12/16) i člana 10 stav 1 alineja 10 Odluke o osivanju Društva sa ograničenom odgovornošću "Sportski centar Cetinje" ("Službeni list CG - Opštinski propisi" br. 30/13 i 22/14), Skupština Prijestonice, na sjednici održanoj dana 30.03.2016. godine, donijela je
+O D L U K U
