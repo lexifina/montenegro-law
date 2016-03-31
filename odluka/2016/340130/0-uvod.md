@@ -1,0 +1,2 @@
+Na osnovu člana 6 Zakona o komunalnoj policiji("Sl.list CG", br. 57/14), člana 71 tačka 3, člana 72 tačka 3 I člana 79 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 и 13/06 и "Sl.list CG", br. 88/09, 3/10, 73,10, 38/12 и 10/14) i člana 38 tačka 2 Statuta opštine Žabljak ("Sl.list RCG-Opštinski propisi", br. 9/05, 23/07 i "Sl.list CG-Opštinski propisi", br. 3/11 i 7/14), Skupština opštine Žabljak, na sjednici održanoj dana 24.03.2016.godine, d o n i j e l a j e
+O D L U K U
