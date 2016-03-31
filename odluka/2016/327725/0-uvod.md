@@ -1,0 +1,2 @@
+Na osnovu člana 10 Odluke o organizovanju Javne ustanove Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u Prijestonici ("Sl. list CG - Opštinski propisi", br. 48/15) i čl.63 stav 1 tačka 41 i 75 Statuta Prijestonice ("Sl.list CG- Opštinski propisi", br. 19/09, 37/10, 26/13, 39/14 i 12/16), Skupština Prijestonice na sjednici održanoj dana 30.03.2016. godine, donijela je
+O D L U K U
