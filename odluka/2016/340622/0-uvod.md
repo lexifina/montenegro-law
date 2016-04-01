@@ -1,0 +1,2 @@
+Na osnovu člana 60 stav 1 i člana 60 a Zakona o lokalnoj samoupravi ("Sl.list RCG, br.42/03, 28/04, 75/05, 13/06, 88/09, 03/10, 73/10, 38/12, 10/14, 57/14 i 03/16) i člana 63 Statuta opštine Herceg Novi ("Sl.list RCG- Opštinski propisi", br. 15/04, 31/06, 32/05, 14/07 i "Sl.list CG-Opštinski propisi", br.16/09 i 16/11), postupajući po presudi Upravnog suda Crne Gore, U.br.2113/15 od 23.02.2016. godine, Skupština opštine Herceg Novi, u ponovljenom postupku, na sjednici održanoj dana 01.04.2016. godine, donosi
+O D L U K U
