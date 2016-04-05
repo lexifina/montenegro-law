@@ -1,0 +1,2 @@
+Na osnovu člana 14 Zakona o porezu na nepokretnosti (,,Sl.List RCG,, broj 65/01, 69/03 i"Službeni list Crne Gore 75/10, 09/15 ), Odluke o poreza na nepokretnosti (,,Sl.list Crne Gore - Opštinski propisi, broj 02/16), člana 36 Zakona o poreskoj administraciji (,,Sl.list RCG, broj 65/01, 80/04 i 29/05 i "Službeni list Crne Gore" broj 20/11, 08/15) i člana 70 st. 1. i 4. Statuta Opštine Budva (,,Sl. List Crne Gore - Opštinski propisi, broj 19/10), Predsjednik Opštine Budva d o n o s i
+P R A V I L N I K
