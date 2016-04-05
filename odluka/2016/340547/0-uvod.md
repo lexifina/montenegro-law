@@ -1,0 +1,2 @@
+Na osnovu člana 45. stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 74/05 i 13/06 i " Službeni list CG", br. 88/09, 38/12 , 10/14 i 3/16), člana 65 i 66 stav 4 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br.51/08, 34/11, 35/13 i 33/14 ), člana 32. Statuta opštine Petnjica ("Službeni list CG-Opštinski propisi", 3/14, 2/15 i 41/15) Skupštine opštine Petnjica, na sjednici odrzanoj 10. i 30.03.2016 .godine, donijela je
+O D L U K U
