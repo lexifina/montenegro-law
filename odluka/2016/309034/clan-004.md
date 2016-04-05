@@ -1,0 +1,4 @@
+# Član 4
+Ovlašćuje se Predsjednik opštine Plav, da u ime Opštine Plav, sa Ministarstvom finansija i bankom zaključi ugovor o cesiji i potpiše akte kojima će omogućiti Ministarstvu finansija raspolaganje sredstvima koja opština Plav dobija iz Egalizacionog fonda i Zakonom ustupljenih prihoda za period trajanja Ugovora o cesiji i Ugovora o zaduživanju, do visine obaveza utvrđenih pomenutim Ugovorima.
+Ovlašćuje se Predsjednik Opštine Plav da preduzme sve pravne radnje i zaključi odgovarajuće ugovore o uspostavljanju hipoteke radi obezbjedjivanja navedenog potraživanja, potpiše i ostala akta koja budu neophodna za realizaciju navedenog potraživanja.
+Ovlašćuje se Predsjednik Opštine Plav, da u ime Opštine Plav, sa Ministarstvom finansija zaključi Ugovor i sva ostala akta neophodna za dobijanje državne garancije na ukupan iznos kredita.
