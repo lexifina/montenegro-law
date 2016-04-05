@@ -1,0 +1,71 @@
+Obrazac 1
+___________________________________________________________
+(naziv organa lokalne uprave ili lokalne samouprave/reprezentativnog sindikata)
+PREDLOG
+kandidata za izbor na listu članova disciplinske komisije
+Ime
+i
+prezime
+kandidata: _____________________________________________;
+Podatak
+o
+dužini
+radnog
+iskustva
+kandidata: ______________________________;
+Podaci o iskustvu u radu disciplinskih komisija, odnosno o posjedovanju znanja iz oblasti službeničkih ili radnih odnosa:
+________________________________________________________________ ___
+________________________________________________________________ ___
+________________________________________________________________ ___
+________________________________________________________________ ___
+"IZJAVLJUJEM DA U DOSADAŠNJEM RADU NIJESAM DISCIPLINSKI KAŽNJAVAN, DA SE PROTIV MENE NE VODI DISCIPLINSKI POSTUPAK I DA PRIHVATAM KANDIDATURU ZA IZBOR NA LISTU ČLANOVA DISCIPLINSKE KOMISIJE"
+______________________________(potpis kandidata)
+Mjesto i datum: __________________________________________________
+___________________________________
+/potpis
+predstavnika
+organa
+lokalna
+uprave
+ili
+lokalne
+samouprave
+ili
+odgovornog lica
+u reprezentativnom sindikatu/
+Obrazac 2
+PRIJAVA
+kandidata za izbor na listu članova disciplinske komisije
+Ime
+i
+prezime
+kandidata: _____________________________________________;
+Broj
+lične
+karte
+i adresa:______________________________________________;
+Podaci
+o
+radnom
+iskustvu kandidata:___________________________________;
+POSLODAVAC: PERIOD RADA:
+Podaci o iskustvu kandidata u radu disciplinskih komisija, odnosno o posjedovanju
+znanja
+iz
+oblasti
+službeničkih
+ili
+radnih
+odnosa: ___________________________
+________________________________________________________________ ___
+________________________________________________________________ ___
+________________________________________________________________ ___
+________________________________________________________________ ___
+________________________________________________________________ ___
+"IZJAVLJUJEM DA U DOSADAŠNJEM RADU NIJESAM DISCIPLINSKI KAŽNJAVAN I DA SE PROTIV MENE NE VODI DISCIPLINSKI POSTUPAK"
+Prilog (dokaz):
+1. _____________________________________________________________
+2. _____________________________________________________________
+3. _____________________________________________________________
+Mjesto i datum: _______________________________
+______________________________(potpis kandidata)

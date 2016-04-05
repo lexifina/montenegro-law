@@ -1,0 +1,2 @@
+Na osnovu člana 70 stav 4 Statuta Opštine Budva ("Službeni list Crne Gore -Opštinski propisi", broj 19/10), a u vezi sa članom 87 stav 3 Zakona o državnim službenicima i namještenicima ("Službeni list CG", broj 39/11, 66/12 i 31/14) i članom 90 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04, 75/05, 13/06, i "Službeni list Crne Gore", broj 88/09, 03/10, 73/10, 38/12 i 10/14) Opština Budva je donijela
+P R A V I L N I K
