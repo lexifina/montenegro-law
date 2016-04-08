@@ -1,0 +1,3 @@
+# Član 25
+U državama Evropske unije, kao i u drugim državama u kojima postoje državne, odnosno javne škole uobičajenog obrazovnog standarda i u kojima se nastava odvija na jednom od svjetskih jezika, predškolsko vaspitavanje i obrazovanje djece, osnovno obrazovanje i vaspitavanje djece i srednje opšte obrazovanje (gimnazija) i stručno obrazovanje djece, vrši se u javnim, odnosno državnim institucijama.
+Ukoliko iz objektivnih razloga nije moguće izvršiti upis djece u javne obrazovne institucije ili ukoliko je to odluka roditelja, Ministarstvo u svakom konkretnom slučaju odlučuje o opravdanosti zahtjeva, odnosno mogućnosti participacije u troškovima školovanja, odnosno naknadi za školovanje djece.
