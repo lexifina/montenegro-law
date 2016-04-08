@@ -1,0 +1,6 @@
+Na osnovu člana 57 Zakona o šumama ("Službeni list CG", br. 74/10 i 47/15), Ministarstvo
+poljoprivrede i ruralnog razvoja donijelo je
+PRAVILNIK
+О IZMJENAMA I DOPUNI PRAVILNIKA O DOZNACI STABALA ZA SJEČU,
+NAČINU PRIJEMA I OBILJEŽAVANJU DRVNIH SORTIMENATA I UVJERENJU
+O PORIJEKLU DRVNIH SORTIMENATA
