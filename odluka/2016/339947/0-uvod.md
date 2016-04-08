@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 17 Zakona o lokalnoj samoupravi(,,Sl.list RCG" br. 42/03, 28/04, 75/05 I 13/06 I ,,Sl.listCG" br. 88/09, 03/10 ,38/12, 10/14 ,57/14 i 03/16), člana 63 stav 1 tačka 20 Statuta Prijestonica (,,Sl.list CG- Opštinski propisi" br.19/09, 37/10, 26/13, 39/14 i 12/16 ), člana 14 Odluke o Etičkoj komisiji za lokalne službenike i namještenike (,,Sl.list CG-Opštinski propisi"br 24/10), Skupština Prijestonice Cetinje na sjednici održanoj dana 30.03.2016. godine, donijela je
+ODLUKU
