@@ -1,0 +1,2 @@
+# Član 16
+Specijalizant koji se nalazi na specijalističkom stažu van zdravstvene ustanove dužan je da se redovno, a najmanje jednom mjesečno, javlja rukovodiocu organizacionog dijela zdravstvene ustanove za koji obavlja specijalizaciju i da ga obavještava o toku specijalizacije, a posebno o tome da li mu ustanova gdje obavlja specijalistički staž omogućava obavljanje tog staža, u skladu sa propisanim planom i programom.

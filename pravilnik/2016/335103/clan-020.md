@@ -1,0 +1,2 @@
+# Član 20
+Ukoliko specijalizant ne položi specijalistički ispit u zakonom propisanom roku i/ili prema zdravstvenoj ustanovi ne ispuni neku od obaveza koja je propisana ovim pravilnikom i ugovorom iz člana 14 ovog pravilnika dužan je da zdravstvenoj ustanovi vrati cjelokupan iznos naknada i troškova koje je specijalizant ostvario za vrijeme obavljanja specijalizacije, u skladu sa zaključenim ugovorom.

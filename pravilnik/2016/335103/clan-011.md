@@ -1,0 +1,2 @@
+# Član 11
+Usmeni intervju se obavlja radi uvida u lične i profesionalne kompetencije, sposobnosti i interesovanja, psihološki aspekt i karijerne ambicije, kao i opšta znanja, specifična znanja i vještine za pojedinu specijalizaciju, motivisanost, kvalitet socijalne komunikacije (verbalna i neverbalna), opšti utisak i druge osobine kandidata koje su od značaja za pojedinu specijalizaciju, o čemu Komisija sačinjava pisani izvještaj koji sadrži broj bodova za svakog kandidata pojedinačno.
