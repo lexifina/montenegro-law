@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Sl.list RCG", br.42/03, 28/04, 75/05 i 13/06 i "Sl.list CG", br. 88/09, 03/10, 38/12, 10/14 i 3/16), člana 31 stav 1 tačka 1, a u vezi sa članom 121 Statuta opštine Šavnik ( "Sl.list RCG - opštinski propisi" br. 36/04 i "Sl.list CG - opštinski propisi" br. 24/08, 36/10 i 18/15) i člana 136 stav 2 i člana 140 Poslovnika Skupštine opštine Šavnik (,,Sl.list CG -opštinski propisi", br. 18/15), Skupština opštine Šavnik, na sjednici održanoj 28.03.2016.godine donijela je
+O D L U K U
