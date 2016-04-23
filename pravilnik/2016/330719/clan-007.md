@@ -1,0 +1,3 @@
+# Član 7
+## Prestanak primjene
+Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o sadržaju zahtjeva i dokumentaciji koja se prilaže uz zahtjev za odobravanje objekata za proizvodnju i promet hrane biljnog porijekla nakon primarne proizvodnje, kombinovane hrane i ostale hrane ("Službeni list CG", broj 33/09), Pravilnik o obliku, sadržaju, načinu vođenja registara i postupku upisa u registre odobrenih objekata ("Službeni list CG", broj 43/09) i Pravilnik o sadržaju i načinu vođenja registra objekata za proizvodnju i promet hrane životinjskog porijekla ("Službeni list CG", broj 23/12).
