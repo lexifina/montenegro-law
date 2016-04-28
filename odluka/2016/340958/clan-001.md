@@ -1,0 +1,3 @@
+# Član 1
+## od raskrsnice kod JP Vodovod i kanalizacija do novog mosta na Port Mileni i u okviru Zone B podzone 3 za urbanističke parcele broj 9, 10, 11 i 12 u Ulcinju
+POTVRĐUJE SE Odluka Predsjednika Opštine Ulcinj o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Ulcinjsko Polje" u okviru zone B podzone 7 i 9 za urbanističke parcele broj 50, 51, 59, 60, 61, 62, 63, 64, 65, 66, 67, 7, 8, 9, 10, 11, 12, 13, 14, bulevara od raskrsnice kod JP Vodovod i kanalizacija do novog mosta na Port Mileni i u okviru Zone B podzone 3 za urbanističke parcele broj 9, 10, 11 i 12 u Ulcinju broj 01-347/16 od 26.2.2016. godine

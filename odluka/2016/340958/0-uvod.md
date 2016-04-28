@@ -1,0 +1,3 @@
+Na osnovu člana 22 Odluke o privremenim objektima ("Sl. list CG" br.38/12 - Opštinski propisi), člana 58. stav 2 i 3. Zakona o lokalnoj samoupravi("Sl.list RCG" br. 42/03, 28/04, 75/05, 13/06, i "Sl. list CG" br. 88/09 i 3/10) i člana 26 st 1 t 6 i čl 86 st 2 i 3 Statuta Opštine Ulcinj ("Sl. list RCG-Opštinski propisi" br.5/07, "Sl. list CG-Opštinski propisi" br. 16/11), Skupština Opštine Ulcinj, na sjednici održanoj dana 30.03.2016. godine, donijela je
+O D L U K U
+o potvrđivanju Odluke o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Ulcinjsko Polje" u okviru zone B podzone 7 i 9 za urbanističke parcele broj 50, 51, 59, 60, 61, 62, 63, 64, 65, 66, 67, 7, 8, 9, 10, 11, 12, 13, 14, bulevara
