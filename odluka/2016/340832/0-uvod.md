@@ -1,0 +1,2 @@
+Na osnovu člana 36 stav 1 tačka 25 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, "Sl. list CG - Opštinski propisi", br. 16/09 i 16/11) i člana 10 stav 1 tačka 1 Odluke o osnivanju Društva sa ograničenom odgovornošću "Čistoća" Herceg Novi ("Sl. list CG- Opštinski propisi", broj 14/13 i 08/15), Skupština opštine Herceg Novi, na sjednici održanoj dana 08.04.2016.godine, donosi
+O D L U K U
