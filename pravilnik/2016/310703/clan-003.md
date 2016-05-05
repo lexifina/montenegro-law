@@ -1,0 +1,8 @@
+# Član 3
+## Uslovi za uvoz i tranzit proizvoda životinjskog porijekla
+(1) Proizvodi životinjskog porijekla mogu se uvoziti ako:
+1) ne potiču sa gazdinstva koje se nalazi na području ili dijelu područja koja su pod ograničenjima zbog primjene mjere suzbijanja i iskorijenjivanja bolesti na koju su životinje od kojih proizvod potiče prijemčive ili iz bilo kog područja iz kojih bi premještanje ili trgovina predstavljali rizik za zdravstveni status životinja;
+2) ne potiču iz objekta u kojem tokom klanja ili proizvodnog procesa nijesu bili trupovi ili djelovi životinja za koje se sumnja da su mogle biti zaražene nekom od bolesti iz člana 2 stav 1 tačka 1 ovog pravilnika.
+(2) Proizvodi životinjskog porijekla koji potiču iz područja iz stava 1 tačka 1 ovog člana, mogu se uvoziti samo ako su termički obrađeni u skladu sa posebnim propisom.
+(3) Proizvode životinjskog porijekla prilikom uvoza i tranzita treba da prati sertifikat nadležnog organa države izvoza, kojim se potvrđuje da su ispunjeni uslovi iz st. 1 i 2 ovog člana i uslovi higijene hrane u svim fazama proizvodnje, prerade i stavljanja u promet, uključujući i primarnu proizvodnju, skladištenje, prevoz, pro-daju ili ispo-ruku krajnjem potrošaču, utvrđeni posebnim propisom.
+(4) Proizvodi životinjskog porijekla: životinjska crijeva, krv i proizvodi od krvi papkara, kopitara i živine (osim seruma kopitara), mast i otopljene masnoće, meso kunića (lagomorfa) i meso divljači iz uzgoja koji su namjenjeni ishrani ljudi, pored uslova iz stava 1 ovog Člana, treba da ispunjavaju i uslove utvrđene propisom o posebnim zahtjevima higijene hrane životinjskog porijekla.
