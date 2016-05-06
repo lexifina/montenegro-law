@@ -1,0 +1,2 @@
+Na osnovu člana člana 35 stav 1 tačka 2 Statuta opštine Plužine ( "Sl. List RCG- Opštinski propisi" broj 23/04 i 7/07 i "Sl.list CG-Opštinski propisi" broj 1/2011, 8/11 i 22/11) a u vezi sa članom 32. stav 1. tačka 16 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 03/10,73/10,38/12 i 10/14) Skupština opštine Plužine, na sjednici održanoj 11.04.2016. godine, d o n i j e l a j e
+O D L U K U
