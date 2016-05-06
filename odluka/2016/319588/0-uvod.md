@@ -1,0 +1,3 @@
+Na osnovu člana 14, 36 i 42 Zakona o kulturi ("Sl. list CG", br. 49/08, 16/11, 40/11, 38/12), člana 8 stav 1 i člana 9 Zakona o muzejskoj djelatnosti ("Sl. list CG", br. 49/10 i 40/11 ), člana 34 i 45 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Sl.list RCG", broj 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09, 3/10, 73/10, 38/12 i 10/14), i člana 34 stav 1 tačka 14 Statuta Opštine Bijelo Polje ("Sl.list RCG-Opštinski propisi", br. 25/04 i 33/06 i "Sl.list CG-Opštinski propisi", br. 18/10 i 32/13), Skupština opštine Bijelo Polje, na sjednici održanoj dana 07. i 08.04.2016. godine, donijela je
+O D L U K U
+o osnivanju Javne ustanove MUZEJ Bijelo Polje
