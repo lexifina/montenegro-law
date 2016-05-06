@@ -1,0 +1,2 @@
+# Član 13
+Nevladina organizacija koja je za realizaciju projekata koristila budžetska sredstva, po javnom konkursu u prethodnoj godini, prilaže i izvještaj o realizaciji projekta sa detaljnim opisom faza realizacije i detaljnim obrazloženjem eventualnih odstupanja uključujući i finansijski izvještaj sačinjen u skladu sa posebnim propisom. Ukoliko nevladina organizacija ne dostavi tražene izvještaje o realizovanim projektima iz predhodnih godina koji su finansirani iz budžeta Opštine, ne može učestvovati u raspodjeli sredstava za godinu u kojoj se sredstva raspodjeljuju.
