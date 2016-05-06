@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 i člana 121 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09, 38/12 i 10/14), člana 34 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl. list CG-Opštinski propisi", br. 21/10), a u skladu sa "Strategijom razvoja socijalne zaštite starih lica" u Crnoj Gori, u cilju nastavka obezbjeđivanja pomoći i njege starim licima u kući), Skupština opštine Bijelo Polje na sjednici održanoj dana 07. i 08.04.2016. godine, donijela je
+ODLUKU
