@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 10 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list CG", br. 88/09, 03/10, 73/10, 38/12, 10/14 , 57/14 i 03/16), člana 31 stav 1 tačka 10 Statuta opštine Danilvograd ("Sl. list RCG - opštinski propisi" br 30/04, "Sl. list CG - opštinski propisi" br. 19/08 i 12/11) i člana 14 Odluke o mjesnim zajednicama ("Sl. list RCG - opštinski propisi" br. 24/07), Skupština opštine Danilovgrad, na sjednici održanoj 11. i 12. aprila 2016. godine, donosi
+O D L U K U
