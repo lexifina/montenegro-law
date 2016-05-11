@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 15 Zakona o lokalnoj samoupravi (Sl.list RCG, broj 42/03,28/04,75/05,13/06; Sl.listCG ,broj 88/09,3/10,73/10,38/12,10/14,57/14 i 3/16), člana 62 stav 1 Zakona o finanarisanju lokalne samouprave (Sl.list RCG, broj 42/03, 44/03, i Sl. List CG br. 05/08, 51/08,74/10,1/15,78/15 i 3/16) i člana 36 Statuta Opštine Herceg Novi (Sl.list CG - Opštinski propisi". broj 15/04, 31/06, 14/07 i 16/11), Skupštine opštine Herceg Novi, na sjednici održanoj dana 26.04.2016.godine, donijela je
+O D L U K U
