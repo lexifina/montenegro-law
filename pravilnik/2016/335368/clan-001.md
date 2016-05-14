@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o privremeno rezervisanom vazdušnom prostoru Crne Gore i privremenim ili stalnim ograničenjima u vazdušnom prostoru Crne Gore ("Službeni list CG", broj 8/15) u članu 2 stav 2 mijenja se i glasi:
+"Privremeno izdvojeno područje iz stava 1 ovog člana, ograničeno je koordinatama 423249N 0191344E, 422717N 0191818E, kružnica poluprečnika 7,5 km sa centrom u 422510N 0191338E, 422303N 0190858E, 422835N 0190423E, kružnica poluprečnika 7,5 km sa centrom u 423042N 0190904E, 423249N 0191344E, iznad kojeg letenje može biti ograničeno vremenski ili određivanjem visine ispod ili iznad koje se ono ne smije vršiti."
