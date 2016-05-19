@@ -1,0 +1,2 @@
+Na osnovu člana 130 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl.list CG", br.88/09, 03/10, 73/10, 38/12, 10/14, 03/16), člana 36 stav 1 tačka 27 i člana 143 stav 2 alineja 3. Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, "Sl. list Crne Gore - Opštinski propisi", br. 16/09, 16/11), Skupština opštine Herceg Novi dana 26.04. 2016. godine, donosi
+O D L U K U

@@ -1,0 +1,2 @@
+# Član 2
+Saradnja dvije opštine zasnivaće se na razvoju i unapređenju iskustava u demokratskom funkcionisanju lokalne uprave, razmjeni informacija i razvoju komplementarnih djelatnosti od obostranog značaja kroz neposredne kontakte privrednih organizacija, privrednika, vaspitno - obrazovnih ustanova, kulturnih institucija, društvenih i sportskih organizacija, udruženja i građana, a ostvarivaće se zaključivanjem posebnih sporazuma kojima će se konkretizovati oblici saradnje i realizacija dogovorenih projekata.
