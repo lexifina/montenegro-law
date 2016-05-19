@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 i člana 16 stav 1 tačka 1 Zakona o državnoj imovini (Sl.list CG- broj 21/09, 40/11), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi("Sl.list RCG 42/03, 8/04, 75/05, 13/06, Sl.list CG- broj 88/09, 3/1073/10, 38/12) i člana 36 stav 1 tačka 10, a u vezi sa članom 29 stav 2 Statuta Opštine Herceg Novi (Sl.list RCG-Opštinski propisi broj 15/04, 32/05, 31/06, 14/07, Sl list CG-Opštinski propisi broj 16/09, 16/11), Skupština Opštine Herceg Novi, na sjednici održanoj dana 26.04.2016. godine, donosi
+O D L U K U
