@@ -1,0 +1,4 @@
+# Član 7
+## Ovlašćenja postavljenih lica
+Lica postavljena u smislu čl. 4 i 5 ovog zakona, prate i kontrolišu korišćenje državnih resursa, odnosno resursa opštine, Glavnog grada i Prijestonice (u daljem tekstu opština) i bez njihove pisane saglasnosti (supotpis) ne može se zasnovati ni prestati radni odnos, niti odobriti korišćenje državnih resursa u ministarstvu i drugom organu uprave, fondu, zavodu i ustanovi iz člana 4 ovog zakona, odnosno resursa opštine, kako bi se u izbornom procesu spriječilo njihovo korišćenje suprotno zakonu.
+U slučaju da lice iz stava 1 ovog člana, nije saglasno sa zasnivanjem ili prestankom radnog odnosa određenog lica, odnosno korišćenjem državnih resursa, odnosno resursa opštine za koje smatra da mogu biti zloupotrijebljeni u izbornom procesu, dužno je da to obrazloži u pisanoj formi i dostavi resornom ministru i Vladi.

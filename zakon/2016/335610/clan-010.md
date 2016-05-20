@@ -1,0 +1,6 @@
+# Član 10
+## Angažovanje savjetnika i administrativno-tehničkog lica
+Ministar koji bude izabran da rukovodi ministarstvom određenim Sporazumom može za svoje potrebe da postavi do dva lica za obavljanje stručnih poslova (u daljem tekstu: savjetnik) i angažuje jedno lice za vršenje administrativno-tehničkih poslova, bez sprovođenja procedure propisane posebnim zakonom i mimo utvrđenog broja sistematizovanih radnih mjesta, o čemu donosi rješenje.
+Izuzetno od stava 1 ovog člana, ministar koji rukovodi ministarstvom nadležnim za unutrašnje poslove može da postavi do tri savjetnika.
+Lica iz st. 1 i 2 ovog člana, postavljaju se odnosno angažuju bez zasnivanja radnog odnosa i pripada im naknada zarade u visini zakonom propisane zarade za vršenje poslova za čije se vršenje postavljaju odnosno angažuju i po tom osnovu imaju pravo na zdravstveno i penzijsko i invalidsko osiguranje, u skladu sa zakonom kojim se uređuju doprinosi za socijalno osiguranje.
+Angažman lica iz st. 1 i 2 ovog člana prestaje danom utvrđivanja konačnih rezultata izbora za poslanike u Skupštini Crne Gore u 2016. godini u skladu sa Zakonom o izboru odbornika i poslanika, o čemu ministar koji je to lice postavio odnosno angažovao donosi rješenje.
