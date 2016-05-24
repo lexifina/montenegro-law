@@ -1,0 +1,5 @@
+Na osnovu člana 51 stav 4. Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06, "Služeni list CG" br. 88/09, 03/10, 73/10, 38/12, 10/14 i 57/14), člana 40 stav 1 tačka 41 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10), člana 11 stav 3 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Budva ("Službeni list CG - Opštinski propisi", br. 33/2013) i člana 51 Statuta Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Budva ("Službeni list CG - Opštinski propisi", br. 38/13) Skupština Opštine Budva, na sjednici održanoj 18., 19., 20. i 24. maja2016.godine, donijela je
+RJEŠENJE
+o davanju saglasnosti na Odluku o izboru i imenovanju izvršnog direktora d.o.o. "Vodovod i kanalizacija" Budva
+1.Daje se saglasnost na Odluku o izboru i imenovanju Medigović Milenka za Izvršnog direktora Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Budva.
+2. Rješenje stupa na snagu danom donošenja, a biće objavljeno u "Službenom listu Crne Gore - Opštinski propisi".
