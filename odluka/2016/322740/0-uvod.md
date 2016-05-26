@@ -1,0 +1,2 @@
+Na osnovu člana 16 stav 1 Zakona o spomen-obilježjima ("Službeni list Crne Gore" broj 40/08 i 40/11) i člana 48 Statuta Glavnog grada ("Službeni list Crne Gore-Opštinski propisi", broj 28/06 i "Službeni list Crne Gore-Opštinski propisi", broj 39/10 i 18/12), u skladu sa Programom podizanja spomen-obilježja ("Službeni list Crne Gore-Opštinski propisi" broj 13/16), uz prethodnu saglasnost Ministarstva kulture Crne Gore, broj UP I 01-32/8 od 11. maja 2016. godine, Skupština Glavnog grada-Podgorice, na śednici održanoj dana 16. maja 2016. godine, donijela je
+ODLUKU
