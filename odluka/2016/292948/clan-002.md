@@ -1,0 +1,2 @@
+# Član 2
+Urbanistička parcela navedena u članu 1. ove Odluke sastoji se od katastarske parcele koja je predmet otkupa i dijela katastarske parcele br. 2214/1 porodična stambena zgrada u površini od 57,00 m2 , kat.parc. 2214/1 dvorište u površini od 134m2 sa LN.br. 1931 KO Ulcinj -svojina 1/1 Knežević Tomo Ranko, i katastarska parcele br. 2216 u površini od 186,00m2 sa LN. br.1922 KO Ulcinj -svojina 1/1 Knežević Tomo Ranko.
