@@ -1,0 +1,2 @@
+Na osnovu člana 2 tačka 11, člana 4 stav 2 i člana 12 Zakona o komunalnim djelatnostima ("Službeni list RCG", broj 12/95), člana 32 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09, 38/12, 10/14 i 57/14), član 26 stav 1 tačka 1 i člana 42 stav 1 tačka 2 Statuta opštine Ulcinj ("Službeni list CG - opštinski propisi",br. 5/07, 9/09 i 16/11) Skupština opštine Ulcinj na sjednici održanoj dana: 27.04.2016 godine, donijela je
+O D L U K U
