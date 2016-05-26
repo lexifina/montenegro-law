@@ -1,0 +1,3 @@
+Na osnovu člana 117 stav 3 Zakona o uredjenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 40/10, 34/11, 35/13 i 33/14), člana 32 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09, 38/12, 14/10 i 03/16), člana 32 stav 1 tačka 31 i člana 40 Statuta opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 27.04.2016.godine, donijela je
+O D L U K U
+o izmjeni i dopuni Odluke o postavljanju odnosno građenju i uklanjanju pomoćnih objekata na teritoriji Opštine
