@@ -1,0 +1,2 @@
+# Član 2
+Pejović Željko je dužan da plati opštini Žabljak naknadu za građevinsko zemljište iz člana 1 ove odluke i to za razliku u površini između građevinskog zemljišta koje je u njegovoj svojini i urbanističke parcele broj 889a formirane planom parcelacije, a koja iznosi 61 m2 u skladu sa Odlukom o naknadi za dokompletiranje urbanističkih parcela ("Sl.list CG-Opštinski propisi", br. 31/14 i 1/16).
