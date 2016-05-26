@@ -1,0 +1,3 @@
+# Član 1
+## o otkupu zemljišta radi dokompletiranja urbanističke parcele br.52 sa ID DUP-a "Ulcinj-Grad" za lokalitet "Pinješ 2" Opština Ulcinj
+Dozvoljava se Ljajka Hodu, otkup katastarske parcele br.3321/3 po kulturi neplodno zemljište, u površini od 3 m2 LN.br.604 KO Ulcinj, upisana kao Svojina Crne Gore-nosilac prava raspolaganja Opština Ulcinj, i katastarske parcele br.3350/2 po kulturi neplodno zemljište u površini od 30 m2, sa LN.br. 605 KO Ulcinj upisana kao Svojina Crne Gore- nosilac prava raspolaganja Opština Ulcin radi dokompletiranja urbanističke parcele br.52, formirane Izmjenama i dopunama DUP-a "Ulcinj - Grad" za lokalitet "Pinješ 2".
