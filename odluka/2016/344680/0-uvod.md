@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 2 i člana 51 stav 3 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09, 38/12, 10/14 i 3/16 ), člana 26 stav 1 Zakona o stanovanju i održavanju stambenih zgrada ("Službeni list CG", br. 4/11, 40/11, 01/14 i 6/14), člana 32 stav 1 alineja 2 i člana 40 Statuta opštine Nikšić ("Službeni list RCG - opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG-Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 27.04.2016 godine, donijela je
+ODLUKU
+o rješavanju stambenih potreba opštinskih funkcionera i starješina organa lokalne uprave

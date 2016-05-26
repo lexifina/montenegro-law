@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom uređuju se oblici rješavanja stambenih potreba lica koja bira i imenuje Skupština opštine Nikšić, lica koja imenuje i postavlja predsjednik opštine Nikšić, čije je vršenje poslova uslovljeno zasnivanjem radnog odnosa na osnovu javnog konkursa u organima Opštine, zatim način obezbjeđenja sredstava, kriterijumi, organi, postupak rješavanja stambenih potreba opštinskih funkcionera i starješina organa lokalne uprave i druga pitanja od značaja za rješavanje stambenih potreba ovih lica.
