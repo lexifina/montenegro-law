@@ -1,0 +1,3 @@
+# Član 1
+## o otkupu zemljišta radi dokompletiranja urbanističke parcele br.69 sa ID DUP-a "Ulcinj-Grad" za lokalitet "Pinješ 1" Opština Ulcinj
+Dozvoljava se Astafović Rasimu, otkup katastarske parcele br. 3449/1 po kulturi dvorište, u površini od 221,00m2 upisane u LN.br.607 KO Ulcinj Ulcinj kao Svojina Crne Gore-nosilac prava raspolaganja Opština Ulcinj i katastarske parcele br.3449/3 po kulturi dvorište, u površini od 67,00m2 upisane u L.N.br.607 KO Učcinj kao svojina Crne Gore-nosilac prava raspolaganja Opština Ulcinj, radi dokompletiranja urbanističke parcele br.69, formirane Izmjenama i dopunama DUP-a "Ulcinj - Grad" za lokalitet "Pinješ 1".
