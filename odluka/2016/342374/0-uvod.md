@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Sl. list CG" broj 21/09, 40/11), člana 45 Zakona o lokalnoj samoupravi ("Sl.list RCG" broj 42/03, 28/4, 75/05, 13/06 i "Sl. List CG" broj 88/09, 3/10, 73/10, 38/12, 10/14, 57/14, 03/16) i člana 34 stav 1 tačka 9 Statuta Opštine Bijelo Polje ("Sl. list RCG - Opštinski propisi", broj 25/04 i 33/06, "Sl.List CG-Opštinski propisi" br.18/10, 32/13), Skupština opštine Bijelo Polje dana 27.04.2016 godine,donijela je
+ODLUKU
