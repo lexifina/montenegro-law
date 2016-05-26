@@ -1,0 +1,2 @@
+Na osnovu člana 57. stav 1. tačka 5. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03,28/04, 75/05, 13/06 i "Sl. list CG" br. 88/09, 3/10, 38/12 i 10/14) i člana 57. stav 1. tačka 6. Statuta Opštine Pljevlja ("Službeni list RCG - Opštinski propisi", br. 37/2004, 30/2007 "Službeni list CG - Opštinski propisi", br. 11/2008, 21/2009, 32/2009 i 14/2011), po pribavljenom mišljenju Glavnog administratora, Predsjednik opštine Pljevlja, dana 05.05.2016. godine, donio je
+O D L U K U
