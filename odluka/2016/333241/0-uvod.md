@@ -1,0 +1,2 @@
+Na osnovu člana 6 Zakona o komunalnim djelatnostima ("Službeni list RCG", broj 12/95), člana 32 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Službeni list RCG", br.42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 38/12, 10/14 i 03/16), člana 32 stav 1 tačka 28 i člana 40 Statuta opštine Nikšić ("Službeni list RCG-Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG-Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 27.04.2016.godine, donijela je
+O D L U K U
