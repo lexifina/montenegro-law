@@ -1,0 +1,43 @@
+# Član 17
+Služba Predsjednika opštine i Glavnog administratora obavlja stručne i druge poslove koji se odnose na vršenje izvršne funkcije predsjednika opštine, radnih tijela predsjednika, a naročito:
+- priprema i organizuje sjednice za rad Predsjednika, potpredsjednika i radnih tijela;
+- radi na izradi propisa i drugih akata koje donosi Predsjednik opštine;
+- priprema mišljenje Predsjednika opštine na predloge akata koji ne spadaju u nadležnost drugih organa upućene Skupštini koje predlažu ovlašćeni predlagači u skladu sa Statutom;
+- daje mišljenje Predsjedniku opštine na nacrte propisa koje pripremaju nadležni organi i službe lokalne uprave iz nadležnosti Skupštine i Predsjednika opštine;
+- prati realizaciju akata i zaključaka Predsjednika opštine i njegovih radnih tijela i radi na izradi stučno- informativnog materijala iz nadležnosti Predsjednika opštine; daje stručna mišljenja radnim tijelima Predsjednika opštine; priprema sastanke Predsjednika i potpredsjednika opštine i druge sastanke koji se organizuju u opštini i stara se o realizaciji utvrđenih obaveza sa tih sastanaka; organizuje saradnju sa novinarima i obezbjeđuje materijale u vezi sa obavještavanjem javnosti o radu Predsjednika i organa lokalne uprave i javnih službi; obavlja poslove u vezi sa ostvarivanjem saradnje sa Skupštinom i Vladom Crne Gore, opštinama i gradovima u zemlji i inostranstvu;
+- vrši protokolarne poslove za potrebe predsjednika i potpredsjednika opštine;
+- postupa po predstavkama i pritužbama građana i priprema odgovore po istima; zakazuje prijeme stranaka kod predsjednika, i po potrebi, vrši prijem stranaka; postupa po predstavkama koje državni organi upućuju Predsjedniku opštine radi utvrđivanja činjenica, odnosno rješavanja pitanja koja su predmet tih predstavki i pritužbi;
+- pripremu izvještaja o radu predsjednika opštine i ostvarivanju funkcija lokalne samouprave;
+- obavlja poslove u vezi sa ostvarivanjem saradnje sa Skupštinom i Vladom Crne Gore, opštinama u Crnoj Gori, gradovima u inostranstvu;
+- vrši protokolarne poslove u saradnji sa Službom Skupštine oko organizacije dana opštine;
+- obavlja stručne i administrativno-tehničke poslove za stručna radna tijela koja obrazuje predsjednik u poslovima iz svog djelokruga rada;
+- čuva izvornike svih akata koje donosi predsjednik opštine;
+- poslove finansijskog uravljanja i kontrole;
+- pripremu i realizaciju razvojnih programa i projekata opštine kojima se podstiče ekonomski razvoj, obezbjeđuje zaštita životne sredine, održivi razvoj, podstiču preduzetničke inicijative, javno-privatna partnerstva i iniciraju izmjene propisa u cilju stvaranja podsticajnog ambijenta za razvoj opštine;
+- ostvarivanje saradnje sa nadležnim organima uprave i javnim službama opštine, organima državne uprave, privrednim društvima, preduzetnicima i drugim subjektima, radi obezbjeđivanja uslova za razvojne programe od interesa za opštinu; ostvaruje saradnju sa međunarodnim organizacijama radi realizacije konkretnih planova i programa;
+- izrada planova i projekata razvoja Opštine Šavnik i iznalaženje mogućnosti njihovog finansiranja i realizacije sredstvima EU;
+- priprema prijave (aplikacije) i prateću projektnu dokumentaciju za obezbjeđivanje sredstava međunarodne finansijske podrške;
+- osigurava adekvatan monitoring i evaluaciju tokom realizacije projekata finanisranih sredstvima međunarodne finansijske podrške,
+- učestvuje na domaćim i međunarodnim skupovima, radionicama i seminarima posvećenim praćenju dešavanja na međunarodnoj sceni u pogledu aktivnosti lokalne samouprave u procesu EU integracija i međunarodnih dešavanja,
+- koordinira realizaciju aktivnosti koje će osigurati pripremu lokalne samouprave za korišćenje strukturnih instrumenata EU, nakon članstva u EU.
+- priprema prijave (aplikacije) i prateću projektnu dokumentaciju za obezbjeđivanje sredstava finansijske podrške iz domaćih izvora,
+- ostvarivanje svih oblika saradnje za potrebe predsjednika, potpredsjednika i menadžera Opštine sa institucijama i tijelima Evropske unije, predstavništvima država i loklanih samouprava u inostranstvu i diplomatsko - konzularnim predstavništvima u Crnoj Gori, EU i ostalih međunarodnih organizacija u Crnoj Gori, a u cilju odabira aplikacije za sredstva za realizaciju programa i projekata od interesa za Opštinu po instrukcijama predsjednika i/ili menadžera Opštine;
+- apliciranje za sredstva za projekte i programe od interesa za opštinu koji su odabrani od strane predsjednika Opštine;
+- saradnju sa organima lokalne uprave, lokalnim samoupravama u Crnoj Gori, Zajednicom opština Crne Gore, civilnim sektorom i javnosti na poslovima iz svoga djelokruga, u cilju koordiniranja aktivnosti, razmjene informacija i poslovanja u okviru procesa apliciranja za sredstva za realizaciju programa i projekata od interesa za opštinu po instrukcijama predsjednika opštin;
+- praćenje izvršenja obaveza od strane organa lokalne uprave i lokalne samouprave u okviru djelokruga svojih aktivnosti po instrukcijama Predsjednika;
+- poslove u vezi slobodnog pristupa informacijama iz svog djelokruga rada u skladu sa zakonom i druge poslove koje odredi Predsjednik opštine
+- vrši i druge poslove koje odredi predsjednik Opštine.
+Služba obavlja stručne i druge poslove koji se odnose na vršenje izvršne funkcije Glavnog administratora, a naročito:
+- rješavanje u drugostepenom upravnom postupku;
+- staranje o zakonitom, efikasnom i ekonomičnom vršenju poslova organa i službi lokalne uprave;
+- davanje mišljenja na akta o unutrašnjoj organizaciji i sistematizaciji radnih mjesta organa i službi lokalne uprave;
+- davanje mišljenja na akt o organizaciji i načinu rada lokalne uprave;
+- davanje mišljenja na odluke pripremljene za usvajanje u Skupštini Opštine i za donošenje od strane predsjednika Opštine i po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa i autentičnih tumačenja opštinskih propisa;
+- razmatranje programa rada i izvještaja o radu organa i službi lokalne uprave, kao i pripremu izjašnjenja za predsjednika Opštine;
+- izvršavanje akata predsjednika Opštine koje donosi u ostvarivanju funkcija usmjeravanja i koordiniranja radom i vršenja nadzora nad radom organa i službi lokalne uprave;
+- predlaganje i preduzimanje mjera u cilju otklanjanja uočenih problema i nepravilnosti u radu organa i službi lokalne uprave;
+- razmatranje pritužbi građana na rad organa i službi lokalne uprave, vršenje uvida u spise predmeta i utvrđivanje činjenica na koje se ukazuje pritužbama, zahtijevanje da se starješina organa - službe izjasni po istima;
+- izrada Izvještaja o radu Glavnog administratora;
+- pokretanje postupka odgovornosti starješine organa i službi;
+- ostvarivanje neposredne saradnje sa nevladinim organizacijama;
+- vršenje i drugih poslova shodno ovlašćenjima i odgovornostima glavnog administratora, u skladu sa zakonom.

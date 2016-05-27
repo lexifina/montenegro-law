@@ -1,0 +1,3 @@
+# Član 26
+Starješina organa dužan je da obezbijedi zakonit, efikasan i ekonomičan rad organa, da postupa po aktima Predsjednika i Glavnog administratora na način i u rokovima koje utvrde, da se stara o ostvarivanju utvrđenih oblika saradnje sa građanima, nevladinim organizacijama i različitim interesnim grupama, naročito kada je u pitanju ostvarivanje potreba građana i organizovanja javnih rasprava u postupku donošenja propisa i razvojnih dokumenata u oblastima iz nadležnosti organa.
+Starješina organa je dužan da se u radu i postupanju pridržava Etičkog kodeksa lokalnih službenika i namještenika, da zaposlene upozna sa Etičkim kodeksom i od njih pribavi propisane izjave o prihvatanju pravila Etičkog kodeksa.

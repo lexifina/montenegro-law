@@ -1,0 +1,2 @@
+# Član 21
+Rad organa lokalne uprave i službi organizuje se u skladu sa zakonom, propisima i drugim aktima opštine, na način kojim se obezbjedjuje: zakonito, efikasno i ekonomično vršenje poslova, javnost i transparentnost u radu, podsticanje i uključivanje građana u proces odlučivanja, odabir metoda rada i aktivnosti kojima se obezbjeđuje vršenje poslova na način koji odgovara jačanju profesionalnosti u radu i odgovornosti za vršenje poslova.
