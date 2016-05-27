@@ -1,0 +1,3 @@
+Na osnovu člana 34 stav 1 tačka 2 a u vezi sa članom 45 stav 1 tačka 14 Zakona o lokalnoj samoupravi ( "Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, i "Sl. list CG" br. 88/09, 03/10, 73/10, 38/12 i 10/14), člana 89 stav 1 a u vezi sa članovima 90, 104 stav 1 i 105 Zakona o socijalnoj i dječjoj zaštiti (" Sl. list CG" br. 27/13), člana 42 stav 1 tačka 2 Statuta opštine Rožaje ("Sl. list CG - opštinski propisi", br. 9/11 ), Skupština opštine Rožaje , na sjednici održanoj dana 12.05.2016.godine, donijela je
+ODLUKU
+o osnivanju Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju

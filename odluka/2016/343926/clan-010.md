@@ -1,0 +1,2 @@
+# Član 10
+JU Dnevni centar ima svoj Statut. Statut sadrži: naziv, sjedište i adresu JU Dnevni centar; djelatnost JU Dnevni centar, djelokrug organa upravljanja i rukovođenja; uslove i postupak za izbor i razrješenje direktora JU Dnevni centar; opšte akte JU Dnevni centar i način njihovog donošenja; finansiranje rada; način utvrđivanja kandidata iz reda zaposlenih za imenovanje članova organa upravljanja; način utvrđivanja prijedloga za razrješenje člana organa upravljanja iz reda zaposlenih; javnost rada i druga pitanja od značaja za rad JU Dnevni centar.
