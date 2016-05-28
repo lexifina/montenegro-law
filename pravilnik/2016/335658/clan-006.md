@@ -1,0 +1,4 @@
+# Član 6
+## Stupanje na snagu
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+------------------------ * U ovaj pravilnik prenijeta je Direktiva 91/271/EEC koja se odnosi na prečišćavanje komunalnih otpadnih voda, posljednji put dopunjena Direktivom Vijeća 2013/64/EU o izmjeni direktiva Vijeća 91/271/EEC i 1999/74/EC i direktiva 2000/60/EC, 2006/7/EC, 2006/25/EC i 2011/24/EU Evropskog parlamenta i Vijeća zbog izmjene statusa Mayottea u odnosu na Evropsku uniju i Direktiva 91/676/EEC koja se odnosi na zaštitu voda od zagađivanja uzrokovanog nitratima iz poljoprivrednih izvora, posljednji put dopunjena Uredbom (EC) 1137/2008 Evropskog parlamenta i Vijeća o prilagođavanju nekih instrumenata podložnih postupku utvrđenom u članu 251 Ugovora i Odluci Vijeća 1999/468/EC u vezi sa regulatornim postupkom i kontrolom.

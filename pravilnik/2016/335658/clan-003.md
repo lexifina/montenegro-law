@@ -1,0 +1,9 @@
+# Član 3
+## Kriterijumi za određivanje osjetljivih područja
+Osjetljiva područja su vodna tijela:
+1) koja su eutrofna ili koja u bliskoj budućnosti mogu postati eutrofna (prirodna slatkovodna jezera, druga slatkovodna tijela, estuari i priobalne morske vode) ukoliko se ne sprovedu mjere zaštite, prikupljanja i unaprijeđenog prečišćavanja otpadnih voda prije ispuštanja u: jezera i vodotoke koji se ulivaju u jezera odnosno akumulacije, zalive kod kojih je utvrđena slaba izmjena vode i gdje može doći do nagomilavanja hranljivih materija, estuare, zalive i druge priobalne morske vode kod kojih je utvrđena slaba izmjena vode ili gdje može doći do nagomilavanja hranljivih materija;
+2) koja sadrže ili bi mogla da sadrže koncentracije nitrata veće od 25 mg/l ili u slučaju ekstremnih vremenskih ili geografskih uslova koncentracije nitrata veće od 50 mg/l za površinske slatke vode namjenjene zahvatanju vode za piće, ukoliko se ne sprovedu mjere zaštite, prikupljanja i unaprijeđenog prečišćavanja otpadnih voda prije ispuštanja u vodno tijelo;
+3) gdje je neophodno unaprijeđeno prečišćavanje u skladu sa posebnim propisom.
+Unaprijeđeno prečišćavanje voda obuhvata:
+- uklanjanje fosfora iz otpadnih voda prilikom ispusta u jezera i vodotoke koji se ulivaju u jezera odnosno akumulacije, zalive kod kojih je utvrđena slaba izmjena vode i gdje može doći do nagomilavanja hranljivih materija, osim ukoliko se dokaže da njegovo uklanjanje neće imati uticaj na nivo eutrofikacije, a u slučaju ispusta iz velikih aglomeracija po potrebi uklanjanje i azota;
+- uklanjanje fosfora i/ili azota u slučaju ispusta iz velikih aglomoeracija u estuare, zalive i druge priobalne morske vode kod kojih je utvrđena slaba izmjena vode ili gdje može doći do nagomilavanja hranljivih materija, osim ukoliko se dokaže da njihovo uklanjanje neće imati uticaj na nivo eutrofikacije.
