@@ -1,0 +1,2 @@
+Na osnovu člana 11. Zakona o turističkim organizacijama ("Sl. list RCG" br. 11/04 i 46/07 i "Sl. list CG" br. 45/04), člana 23. Odluke o osnivanju Turističke organizacije Opštine Kotor ("Sl. list Opštine Kotor" br. 9/05 i "Sl. list CG" - Opštinski propisi br. 14/15) i člana 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor" br. 3/04 i "Sl. list CG" - Opštinski propisi br. 17/08, 31/09, 40/10 i 4/11), Skupština Opštine Kotor, na sjednici održanoj 26. 04. 2016. godine, donijela je
+ODLUKU
