@@ -1,0 +1,2 @@
+# Član 23
+Organ lokalne uprave nadležan za prostorno planiranje može odobriti privrednim društvima i institucijama čiji je osnivač, u pojedinim danima ili vremenskim intervalima u pješačkim zonama i drugim lokacijama na građevinskom zemljištu, organizovanje prigodnih prezentacija i prodaju roba na privremenim objektima tipa - štand ili izložbenim pultovima i slično, shodno uslovima predviđenim ovom odlukom i Planom.

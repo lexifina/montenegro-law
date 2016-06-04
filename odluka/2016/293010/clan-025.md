@@ -1,0 +1,4 @@
+# Član 25
+Zemljište iz člana 24 ove Odluke daje se u zakup na osnovu odredbi Zakona o državnoj imovini, Zakona o javnim nabavkama, Uredbe o prodaji i davanju u zakup stvari u državnoj svojini, ove odluke i Plana postavljanja privremenih objekata.
+Izuzetno, u zakup se može davati i zemljište koje nije predviđeno Planom postavljanja privremenih objekata, ako je na predmetnom zemljištu izgrađen privremeni objekat od tvrdog materijala po ranijim propisima, u skladu sa aktom nadležnog organa lokalne uprave.
+Zemljište iz stava 1 ovog člana se daje u zakup najduže do kraja kalendarske godine, uz mogućnost produženja zakupa do trajanja važenja Plana postavljanja privremenih objekata, ukoliko je korisnik uredno izmirio sve obaveze po ovom osnovu za prethodnu godinu korišćenja, u suprotnom primijeniće se odredbe člana 21 ove Odluke.

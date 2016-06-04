@@ -1,0 +1,2 @@
+# Član 3
+Privremeni objekti se mogu postavljati i graditi, pod uslovom da: ne narušavaju postojeće gradske i komunalne funkcije, ne ugrožavaju kolske i pješačke komunikacije, odnosno obezbjeđuju prolaz za pješake u zoni DUP-ova u skladu sa urbanističkom regulativom predmetnog DUP-a, a van DUP-ova 3 m od regulacione linije, ne devastiraju prostor i ne ugrožavaju životnu sredinu (prekomjerna buka, štetno isparenje, zagađenja, stvaranje opasnog otpada i sl.).

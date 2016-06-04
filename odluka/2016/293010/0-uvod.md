@@ -1,0 +1,3 @@
+Na osnovu člana 117, stav 1, tačka 2 i stava 3 Zakona o uređenju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14), člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG" br. 88/09, 3/10, 38/12 i 10/14) i člana 43 Statuta Opštine Ulcinj ("Sl. list CG- Opštinski propisi", br. 05/07, 09/09 i 16/11), Skupština Opštine Ulcinj na sjednici održanoj dana 27.04. 2016.godine, donijela je
+ODLUKU
+o postavljanju, građenju i uklanjanju privremenih objekata montažnog karaktera na teritoriji Opštine Ulcinj

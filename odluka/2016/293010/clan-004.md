@@ -1,0 +1,6 @@
+# Član 4
+Privremeni objekti u smislu ove odluke svrstavaju se u sledeće kategorije:
+1.privremeni objekti koji se mogu izmiještati sa jednog mjesta na drugo, i to:
+slobodnostojeće i zidne vitrine, automati i aparati, konzervator, prodajno - izložbeni pult, posebna vozila koja imaju proizvođački atest za obavljanje djelatnosti, gateri i cirkulari, štafelaj za slikanje, izložbene police, aparati za prodaju osvježavajućih napitaka, sladoleda, dezerta, kestenja, kukuruza, kokica, krofni, palačinki, šećerne pjene i sl., telefonske govornice i drugi slični uređaji i objekti koji prema odredbama ove Odluke imaju karakter privremenog objekta.
+2. reklamno-oglasni panoi, 3. tende, 4. štand, 5. montažni objekti tipa kiosk, 6. otvoreni šank sa terasom, 7. zatvorene i otvorene bašte 8. akua park, 9. parkiralište, kamp, kamionska ili auto pijaca, manji sportski objekat, dječije igralište i zabavni park, karting staza, 10. kontejneri - posude za odlaganje komunalnog otpada, zelena ostrva, 11.van zone DUP-ova montažno - demontažni objekti tipa "Azil za pse", 12. van zone DUP-ova privremeno odlagalište čvrstog komunalnog otpada, reciklažno dvorište.
+13. drugi slični uređaji i objekti koji prema odredbama ove odluke imaju karakter privremenog objekta
