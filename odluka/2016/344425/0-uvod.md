@@ -1,0 +1,2 @@
+Na osnovu člana 18 stav 2 Zakona o kulturi ("Službeni list Crne Gore", br. 49/08 i 40/11), člana 48 Statuta Glavnog grada ("Službeni list Republike Crne Gore-Opštinski propisi", broj 28/06 i "Službeni list Crne Gore-Opštinski propisi", br. 39/10 i 18/12 ) i člana 11 Odluke o osnivanju Javne ustanove Muzeji i galerije Podgorica ("Službeni list Crne Gore-Opštinski propisi", broj 28/11), Skupština Glavnog grada-Podgorice, na sjednici održanoj 16. i 17. maja 2016. godine, donijela je
+ODLUKU
