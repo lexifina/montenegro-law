@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za zasnivanje stvarne službenosti na neodređeno vrijeme na dijelu kat.parcele broj 3868/11 KO Donja Gorica
+Glavni grad - Podgorica, kao nosilac prava raspolaganja, daje saglasnost za zasnivanje stvarne službenosti na dijelu kat.parcele broj 3868/11 KO Donja Gorica, radi postavljanja kabla za elektronaponsko napajanje za potrebe izgradnje trafostanice TS 1/0,4 kV, broj 15 nova, koja je DUP - om ″Donja Gorica - koridor Južne obilaznice i Cetinjskog puta″ - Izmjene i dopune, predviđena na urbanističkoj parceli 11, podzona A1, odnosno katastarskoj parceli broj 3868/7 KO Donja Gorica, svojina ″Čelebić″ d.o.o. Podgorica.
