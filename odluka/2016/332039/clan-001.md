@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom osniva se Društvo sa ograničenom odgovornošću "Regionalni park Komovi za teritoriju Glavnog grada" Podgorica (u daljem tekstu: Društvo), i uređuje: firma i sjedište Društva, osnivač, djelatnost, osnivački ulog, upravljanje i zastupanje, vrsta i obim odgovornosti, ovlašćenja u pravnom prometu sa trećim licima, sticanje, raspodjela dobiti i snošenje rizika, zaštita životne sredine i druga pitanja od značaja za osnivanje Društva.

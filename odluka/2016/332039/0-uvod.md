@@ -1,0 +1,4 @@
+Na osnovu člana 64 Zakona o privrednim društvima ("Sl. list RCG", broj 06/02 i "Sl. list CG", br. 17/07, 80/08, 40/10, 36/11 i 40/11), člana 34 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14 i 3/16), a u vezi sa članom 15 Odluke o proglašenju Regionalnog parka Komovi za teritoriju Glavnog grada Podgorica (‘’Sl.list CG-Opštinski propisi, broj 06/15) i člana 48 Statuta Glavnog grada ("Sl. list RCG-Opštinski propisi", broj 28/06 i "Sl. list CG-Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj 16. i 17. maja 2016. godine, donijela je
+O D L U K U
+o osnivanju Društva sa ograničenom odgovornošću "Regionalni park Komovi za teritoriju Glavnog grada’’
+Podgorica
