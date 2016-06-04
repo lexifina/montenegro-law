@@ -1,0 +1,2 @@
+Na osnovu člana 56 stav 1 tačka 2 i stav 3 Zakona o državnim službenicima i namještenicima ("Sl.list CG" broj 39/11, 50/11, 66/12, 34/14), člana 54 stav 2 Statuta Opštine Bijelo Polje ("Sl.list RCG - Opštinski propisi", broj 25/04 i 33/06 i "Sl.list CG - Opštinski propisi" broj 18/10 i 32/13) i člana 34 i 35 Poslovnika Skupštine opštine Bijelo Polje ("Sl.list CG - Opštinski propisi" broj 34/11 i 32/13), Skupština opštine Bijelo Polje na sjednici održanoj dana 06.05.2016.godine donijela je
+ODLUKU
