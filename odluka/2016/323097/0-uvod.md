@@ -1,0 +1,2 @@
+Na osnovu člana 69 Zakona o lokalnoj samoupravi ("Sl.list br. ( " Sl. list RCG" br. 42/03, 28/05, 75/05, 13/06 i "Sl. list CG" br. 88/09, 03/10,73/10,38/12,10/14,57/14 i 03/16 ) i člana 65 Statuta opštine Tivat ("Sl.list RCG - Opštinski propisi" 40/04, 26/06 i "Sl.list Crne Gore - Opštinski propisi",br. 12/11, 21/11 i 3/13), Skupština opštine Tivat na sjednici održanoj dana 07.06.2016. godine, donijela je
+ODLUKU
