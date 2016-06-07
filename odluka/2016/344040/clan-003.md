@@ -1,0 +1,2 @@
+# Član 3
+Sredstva Budžeta Opštine Kotor za 2016. godinu iz sredstava stavke "Transferi sportskim klubovima" služiće kao garant kreditnog zaduženja iz člana 2. ove Odluke na način što će se u slučaju neizmirivanja istog izmiriti od strane davaoca garancije, a na račun opredijeljenih sredstava Budžeta za 2016. godinu za potrebe "FK Bokelj" iz stavke "Transferi sportskim klubovima", uz umanjenje pripadajućih sredstava "FK Bokelj" u iznosu iz člana 2. ove Odluke.
