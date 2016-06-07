@@ -1,0 +1,2 @@
+Na osnovu člana 25 Zakona o turističkim organizacijama ("Sl. list RCG", broj 11/04, 46/07, 73/10, 40/11 i 45/14), člana 36 tačka 40 Statuta Opštine Herceg Novi ("Sl. list CG - Opštinski propisi", br. 15/04, 31/06, 14/07, "Sl. list CG - Opštinski propisi", br. 16/09 i 16/11)) i člana 6 Odluke o osnivanju Turističke organizacije Opštine Herceg Novi ("Sl. list CG - Opštinski propisi", broj 2/05), Skupština Opštine Herceg Novi, na sjednici održanoj 07.06.2016.godine, donosi
+R J E Š E NJ E
