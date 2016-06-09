@@ -1,0 +1,3 @@
+# Član 2
+U skladu sa tačkom 1. ove Odluke izvršiće se fizička dioba kat.parcela 557/2,557/4,556/1,556/4,556/6 na sledeći način: a) kat.parcela 557/2 u pov.195m² ostaće upisana na Opštinu Budva u obimu prava 184/195 i AD Elmos Budva u obimu prava 11/195(dio saobraćajnica S-15 i ulice Žrtava fašizma),dok će kat.parcela 557/4 u pov.174m² ostati upisana na Milana Božovića u obimu prava 1/1(dio UP3 blok9);
+b) kat.parcela 556/1 u pov.1286m² biće upisana na Milana Božovića u obimu prava 1/1(dio UP3 blok9),dok će kat.parcele 556/4 pov.31m² i 556/6 pov.12m² biti upisane na Opštinu Budva u obimu prava 1/1(dio saobraćajnica S-15 i ulice Žrtava fašizma).

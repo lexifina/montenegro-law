@@ -1,0 +1,3 @@
+# Član 1
+## o razmjeni i fizičkoj diobi nepokretnosti radi formiranja urbanističke parcele br.3 blok 9 u skladu sa DUP-om "Rozino I"
+Katastarske parcele broj 556/5 KO Budva površine 21m² i 555/31 KO Budva površine 52m²,ukupne površine 73m², upisane u l.n.332 i 3508 KO Budva sa pravom raspolaganja Opštine Budva razmjenjuje se za suvlasničke dijelove na katastarskim parcelama broj 557/2 KO Budva površine 23m²,556/4 i 556/6 u površini od 40m² ,ukupne površine 63m²,sa pravom susvojine upisane u l.n.2442 i 2486 Milana Božovića iz Budve,a radi formiranja urbanističke parcele broj 3 u bloku 9 u skladu sa DUP- om "Rozino I".
