@@ -1,0 +1,2 @@
+Na osnovu člana 68 i 69 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14), člana 55 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", br. 42/03 i "Službeni list CG", br. 05/08 i 74/10) i člana 40 tačka 6. Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10 ), Skupština Opštine Budva, na sjednici održanoj 18., 19., 20. i 24. maja 2016. godine, donijela je
+ODLUKU
