@@ -1,0 +1,3 @@
+Na osnovu člana 3. stav 5. tač.3 Uredbe o izmjenama Uredbe o bližim kriterijumima i metodologiji za određivanje tržišne vrijednosti nepokretnosti ("Službeni list CG", br. 36/11 i 66/15), člana 33 tačka 3 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 03/10, 73/10, 38/12, 10/14 i 57/14) i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10) Skupština Opštine Budva, na sjednici održanoj 18., 19., 20. i 24. maja 2016 godine, donijela je
+ODLUKU
+o prosječnoj cijeni građevinskog, poljoprivrednog, šumskog i ostalog zemljišta za 2015 god.
