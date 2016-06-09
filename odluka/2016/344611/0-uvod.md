@@ -1,0 +1,2 @@
+Na osnovu člana 70 st 3 Zakona o lokalnoj samoupravi (Službeni list RCG 42/03, 28/04, 75/05, 13/06, Službeni list CG 88/09, 3/10, 73/10, 38/12, 10/14, 57/14 i 13/06) i člana 86 st 1 i 4 Statuta Opštine Herceg-Novi ("Sl.list RCG- Opštinski propisi", br. 15/04, 32/05, 31/06, "Sl.list CG-opštinski propisi", br. 14/07, 16/09, 16/11) Predsjednica Opštine Herceg-Novi, dana 19.05.2016 godine, donosi
+ODLUKU

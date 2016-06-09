@@ -1,0 +1,4 @@
+# Član 1
+## o izmjeni i dopuni Odluke o osnivanju Agencije za izgradnju i razvoj Herceg-Novog ("Službeni list RCG - Opštinski propisi", broj 33/06, od 10.08.2016)
+U Odluci o osnivanju Agencije za izgradnju i razvoj Herceg-Novog ("Službeni list RCG - Opštinski propisi", broj 33/06, od 10.08.2016) mijenja se član 1, tako da glasi :
+Osniva se Agencija za izgradnju i razvoj Herceg-Novog, kao posebna javna služba, za vršenje poslova građevinarstva; finansijskog posredovanja; aktivnosti u vezi sa nekretninama; holding poslova; poslova prostornog planiranja, planova prostornog i urbanističkog razvoja Opštine Herceg-Novi; uređivanja, unaprijeđivanja, zaštite i racionalnog građevinskog zemljišta; izgradnje, rekonstrukcije i razvoja lokalnih nekategorisanih puteva; izrada tehničke dokumentacije za izgradnju lokalnih objekata od javnog interesa; realizacije investicija značajnih za Opštinu Herceg-Novi, i obavljanje drugih poslova po nalogu osnivača.
