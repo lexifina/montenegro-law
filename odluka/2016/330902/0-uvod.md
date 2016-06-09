@@ -1,0 +1,2 @@
+Na osnovu člana 117 stav 2 i 3 Zakona o uredjenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 34/11, 47/11, 35/13, 39/13 i 33/14), člana 113, 114 i 115 Zakona o opštem upravnom postupku ,člana 1 i 2 Odluke o osnivanju Društva sa ograničenom odgovornošću "Mediteran reklame" Budva ("Službeni list Opštine Budva",broj 33/2013) i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", broj 19/10), Skupština opštine Budva, na sjednici održanoj 18., 19., 20. i 24. maja 2016. godine, donijela je
+ODLUKU
