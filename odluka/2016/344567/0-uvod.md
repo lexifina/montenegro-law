@@ -1,0 +1,2 @@
+Na osnovu člana 4 stav 2, člana 6 i 12 Zakona o komunalnim djelatnostima ( " Sl. List RCG ", br. 12/95 ), člana 155 stav 1 Zakona o vodama ( " Sl. list RCG", br. 27/07" i " Sl. list CG ", br. 32/11, 47/11 i 48/15) i člana 4 Zakona o prekršajima ( " Sl.list CG", br. 1/11, 6/11, 39/11, 32/14 ) i člana 34 Statuta opštine Pljevlja ("Sl. list RCG- Оpštinski propisi br. 37/04 i 30/07; i "Sl. list CG - Оpštinski propisi" br. 32/09 i 14/11") Skupština opštine Pljevlja na sjednici održanoj dana: 16.05. i 17.05.2016. godine, donijela je:
+O D L U K U
