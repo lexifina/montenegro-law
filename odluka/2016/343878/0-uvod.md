@@ -1,0 +1,2 @@
+Na osnovu člana 65 stav 1 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03 i 44/03 i "Sl. list CG", br. 5/08, 51/08, 74/10, 01/15, 78/15 i 03/16 ), člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG" br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG" br. 88/09, 3/10, 73/10, 38/12 , 10/14, 57/14 i 03/16) i člana 63 stav 1 alineja 17 Statuta Prijestonice ("Sl. list Crne Gore - Opštinski propisi", broj 19/09, 37/10, 26/13 i 39/14 i broj 12 /16), Skupština Prijestonice Cetinje na sjednici održanoj dana 30.05.2016.godine, donijela je
+ODLUKU
