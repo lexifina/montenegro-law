@@ -1,0 +1,2 @@
+# Član 20
+U ocjenjivanju zdravstvene sposobnosti članova posade, osim zdravstvenih ograničenja iz čl. 12 i 13 ovog pravilnika, u zavisnosti od posebne namjene brodova na kojima plove i u zavisnosti od poslova i dužnosti, uzimaju se u obzir i zdravstvena ograničenja u odnosu na posebne uslove rada koji postoje na tim brodovima, u skladu sa propisom kojim se uređuje utvrđivanje zdravstvene sposobnosti zaposlenih na poslovima sa posebnim uslovima rada.
