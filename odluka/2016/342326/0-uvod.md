@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2, člana 87 stav 1 a u vezi sa članom 90 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09, 3/10, 38/12, 10/14 i 1/15), člana 23 Zakona o zaradama zaposlenih u javnom sektoru ("Sl.list CG", br. 16/16) i člana 38 tačka 2 Statuta opštine Žabljak ("Sl.list RCG-Opštinski propisi", br. 9/05 i 23/07 i "Sl.list CG-Opštinski propisi", br. 3/11 i 7/14), Skupština opštine Žabljak, na sjednici održanoj 25.05.2016.godine, d o n i j e l a je
+ODLUKU
