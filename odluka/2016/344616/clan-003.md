@@ -1,0 +1,4 @@
+# Član 3
+Opština Kotor sa jedne strane i Perović Dragan, Perović Dušan i Perović Jovan su se sporazumjeli da medjusobna potraživanja kompenziraju i to na sledeći način:
+-Tuženi-protivtužioci Perović Dragan, Perović Jovan i Perović Dušan u predmetu P 902/12, na ime uzurpiranog dijela kat. parc. 2/1 KO Škaljari I u površini od 266 m2 isplate tržišnu vrijednost nepokretnosti utvrdjenu od strane sudskog vještaka i ovlašćenog procjenitelja a koja iznosu 115 eura /m2, odnosno što ukupno iznosi 30.590,00 eura.
+-Tužena Opština Kotor, u predmetu P 1530 /11 kojim se utvrdjuje naknada za faktički oduzeti dio nepokretnosti za izgradnju Novog naselja u Škaljarima, označene kao kat. parc. 2/2 i 2/5 KO Škaljari I, u površini od 69 m2, isplatit će tržišnu vrijednost nepokretnosti utvrđenu od strane sudskog vještaka i ovlašćenog procenitelja a koja iznosi 115 eura /m2 što ukupno iznosi 7.935,00 eura.

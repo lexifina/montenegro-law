@@ -1,0 +1,4 @@
+# Član 1
+## o davanju saglasnosti na postizanje poravnanja u parničnim postupcima P 902/12 i P 1530/11 pred Osnovnim sudom u Kotoru
+Daje se saglasnost za postizanje poravnanja u sledećim predmetima:
+- predmet poslovni broj P.902/12 koji se vodi pred Osnovnim sudom u Kotoru po tužbi tužioca Opštine Kotor protiv tuženih Perović Dragana, Perović Dušana i Perović Jovana u dijelu tužbenog zahtjeva na dijelu kat. parc. 2/1 u površini od 266 m2. - predmet poslovni broj P.1530/11/11 koji se vodi pred Osnovnim sudom u Kotoru po tužbi tužioca Dragana i Jovana Perovića protiv tužene Opštine Kotor radi utvrđivanja prava naknade faktički oduzetog dijela nepokretnosti označene ka kat. parc. 2/2 i 2/5 KO Škaljari I a koja po starom premjeru nosi oznaku čest. zem 525/1 i 537/2 KO Škaljari I u ukupnoj površini od 69 m2 ranijeg vlasništva Perović Dragana i Jovana.

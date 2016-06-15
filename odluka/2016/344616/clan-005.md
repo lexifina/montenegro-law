@@ -1,0 +1,2 @@
+# Član 5
+Perović Jovan, Perović Dragan i Perović Dušan sklopili su sudsko poravnanje br. RS 109/14 od 22. 09. 2015. god. kojim su izvršili diobu nepokretnosti i saglasno dogovorili da prenosom suvlasničkog dijela na kat. parc. 139, 140, 141 KO Škaljari I, prenosi i sudržavinsko pravo potraživanje na dijelu kat. parc 2/1 kao i obavezu rješavanja potraživanja Opštine Kotor na kat. parc. 139,140,141 KO Škaljari, a sve po sudskim predmetima P 902/12 i P 1530/11.
