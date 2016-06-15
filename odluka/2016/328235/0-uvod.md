@@ -1,0 +1,2 @@
+Na osnovu člana 117. stav 2. i stava 3., u vezi sa članom 7., stav 3. Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG" br. 51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14) i čl. 30 Statuta Opštine Kotor ("Sl. list Opštine Kotor" br.03/04 i "Sl. list CG - opštinski propisi", br.17/08, 31/09, 40/10 i 04/11), Skupština Opštine Kotor, na sjednici održanoj 119. 05. maja 2016. godine, donijela je:
+O D L U K U
