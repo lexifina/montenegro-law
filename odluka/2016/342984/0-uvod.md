@@ -1,0 +1,2 @@
+Na osnovu člana 30. Statuta opštine Kotor ("Sl. list opštine Kotor" br. 3/04 i "Sl. list CG-opštinski propisi" br. 17/08, 31/09, 40/10, 4/11), te člana 5. stav 5. Odluke o organizovanju opštinske javne ustanove "Muzeji" ("Sl. list RCG - opštinski propisi" br. 003/92, "Sl. list opštine Kotor" br. 001/94, 001/96, 003/99, "Sl. list CG - opštinski propisi" br. 004/10, 009/12, 024/14), Skupština opštine Kotor na sjednici održanoj 19. 05. 2016.godine donijela je
+O D L U K U
