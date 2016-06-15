@@ -1,0 +1,3 @@
+Na osnovu člana 30. Statuta opštine Kotor ("Sl. list opštine Kotor" br. 3/04 i "Sl. list CG-opštinski propisi" br. 17/08, 31/09, 40/10, 4/11), te člana 6. stav 3. Odluke o organizovanju Kulturnog centra "Nikola Đurković" Kotor kao javne ustanove ("Sl. list RCG - opštinski propisi" br. 003/92, "Sl. list opštine Kotor" br. 001/94, 001/96, 004/98, 004/03, 002/06, "Sl. list CG- opštinski propisi" br. 004/10), Skupština Opštine Kotor na sjednici održanoj 19. 05. 2016.godine donijela je
+O D L U K U
+o davanju saglasnosti za davanje u zakup objekta nautičkog kluba - kafe bara u okviru JU Kulturni centar "Nikola
