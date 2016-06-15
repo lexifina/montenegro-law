@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta Opštine Šavnik ("Sl. list RCG-Opštinski propisi", br. 36/04 i "Sl. list CG-Opštinski propisi", br. 24/08 i 36/10) i člana 7, 10 i 23 Odluke o Etičkoj komisiji za izabrane predstavnike i funkcionere ("Sl. list CG- Opštinski propisi", br. 1/11), Skupština opštine Šavnik, na predlog Odbora za izbor i imenovanje, na sjednici održanoj dana 25.05.2016.godine, donijela je
+ODLUKU
