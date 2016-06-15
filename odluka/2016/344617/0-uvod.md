@@ -1,0 +1,2 @@
+Na osnovu člana 6. stav 1. Zakona o državnoj imovini ("Sl.list CG", broj 21/09), člana 201. a u vezi sa članom 208. i 213. Zakona o svojinsko-pravnim odnosima ("Sl. list CG", broj 19/09), člana 16. stav 2. i člana 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor" broj 3/04 i "Sl.list CG-opštinski propisi" broj 17/08, 31/09, 40/10 i 4/11), Skupština Opštine Kotor, na sjednici održanoj 19. 05. 2016. godine, donijela je
+ODLUKU
