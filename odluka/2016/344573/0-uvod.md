@@ -1,0 +1,2 @@
+Na osnovu člana 3., 4. 5. Zakona o zaštiti kulturnih dobara ("Službeni list Crne Gore" broj 49/10 i 40/11), člana 19. Zakona o zaštiti prirodnog i kulturno istorijskog područja Kotora ("Službeni list Crne Gore" broj 56/13), člana 45. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, 88/09, 03/10, 73/10, 38/12 i 10/14) i člana 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor", br. 03/04, "Sl. list Crne Gore-opštinski propisi", br. 17/08, 31/09, 40/10 i 04/11), Skupština Opštine Kotor na sjednici održanoj 19. 05. 2016 godine donijela je
+ODLUKU
