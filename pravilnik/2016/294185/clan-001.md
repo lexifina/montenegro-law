@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o obrascu i sadržini recepta, kriterijumima za klasifikaciju ljekova, kao i načinu propisivanja i izdavanja ljekova ("Službeni list CG", broj 34/15), član 7 mijenja se i glasi:
+"Ljekove koji se izdaju na recept propisuje doktor medicine ili doktor stomatologije (u daljem tekstu: doktor) koji ima licencu za rad (izabrani doktor, doktor specijalista iz Centra za mentalno zdravlje, Centra za djecu sa smetnjama u razvoju, Centra za plućne bolesti i tuberkulozu) i doktor specijalista sa sekundarnog ili tercijarnog nivoa zdravstvene zaštite (doktor specijalista infektolog i doktor specijalista endokrinolog)."
