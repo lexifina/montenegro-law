@@ -1,0 +1,2 @@
+Na osnovu člana 35 i 41 Zakona o zaštiti i spašavanju ("Sl. list CG" br. 13/07, 05/08, 86/09 i 32/11), člana 63 Statuta Prijestonice ("Sl list CG - Opštinski propisi" br. 19/09, 37/10, 26/13, 39/14 i 12/16) na osnovu prethodno pribavljene Saglasnosti Ministarstva unutrašnjih poslova Crne Gore - Direktorata za vanredne situacije br. 04-UPI-228/15-6510/3 od 21.12.2015.godine, Skupština Prijestonice, na sjednici održanoj 30.05.2016.godine, donijela je
+ODLUKA
