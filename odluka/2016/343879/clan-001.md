@@ -1,0 +1,3 @@
+# Član 1
+## o prodaji nepokretnosti neposrednom pogodbom Nenezić Božidaru
+Odobrava se prodaja nepokretnosti radi dokompletiranja urbanističke parcele UP 173 koja se nalazi u zahvatu Izmjena i dopuna DUP- a "Aerodrom" (Zona B) zona B2-blok 5, neposrednom pogodbom Nenezić Božidaru iz Cetinja, kako slijedi: -katastarska parcela br. 1808/2 iz lista nepokretnosti broj 403 KO Cetinje I, po kulturi građevinska parcela u površini od 11 m2, svojina Države Crne Gore, subjekat raspolaganja Prijestonice Cetinje -katastarska parcela br. 1809/2 iz lista nepokretnosti broj 403 KO Cetinje I, po kulturi građevinska parcela u površini od 80 m2, svojina Države Crne Gore, subjekat raspolaganja Prijestonice Cetinje.
