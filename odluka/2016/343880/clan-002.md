@@ -1,0 +1,2 @@
+# Član 2
+Katastarska parcela br.3725/5 iz lista nepokretnosti broj 2411 K.O. Cetinje I, po kulturi građevinska parcela u površini od 8 m2, svojina Države Crne Gore, subjekat raspolaganja Prijestonice Cetinje i katastarska parcela br. 3726/3 iz lista nepokretnosti broj 404 KO Cetinje I, po kulturi građevinska parcela, površine 1m2, zajedno sa katastarskom parcelom broj 3725/3 iz lista nepokretnosti br.1738, površine 62 m2 svojina Sulejman Hočka, sve u K.O.Cetinje I, čine urbanističku parcelu iz člana 1 ove odluke.
