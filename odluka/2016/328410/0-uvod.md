@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 5 Zakona o lokalnoj samoupravi (,,Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i ,,Sl. list CG", br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14 i 03/16) i člana 72 stav 1 tačka 6 Statuta Glavnog grada (,,Sl. list RCG - Opštinski propisi", br. 28/06 i ,,Sl. list CG - Opštinski propisi", br. 39/10 i 18/12), po pribavljenom mišljenju Glavnog administratora br. 01-02-034/16-960 od 30.05.2016. godine, Gradonačelnik Glavnog grada je 1.juna 2016. godine, donio:
+ODLUKU
