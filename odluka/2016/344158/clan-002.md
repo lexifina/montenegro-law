@@ -1,0 +1,3 @@
+# Član 2
+U članu 6 stav 1 dodaju se tri nove alineje koje glase:
+" - u Ulici Orjenski bataljon, na dijelu puta od raskrsnice sa Jadranskom magistralom do raskrsnice sa Ulicom Nikole Ljubibratića, u smjeru kretanja prema ulici Nikole Ljubibratića, u periodu od 01.07. do 01.09.", " - u Ulici Prve bokeške brigade, na dijelu puta od raskrsnice sa Jadranskom magistralom do raskrsnice sa ulicom Stijepa Šarenca, u smjeru kretanja prema ulici Stijepa Šarenca, u periodu od 01.07. do 01.09.", " - u Ulici Braće Pedišića, na dijelu puta od mosta do raskrsnice kod zapadnog ulaza u stari željeznički tunel, u smjeru kretanja prema tunelu, u periodu od 01.07. do 01.09".
