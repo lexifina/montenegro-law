@@ -1,0 +1,2 @@
+# Član 2
+Lokacija za postavljanje trafostanice iz člana 1 ove Odluke nalazi se na kat. parc. broj 45/3 K.O.Trebesin, a za polaganje priključnog napojnog energetskog visokonaponskog 10 kV kabla do spajanja na visokonaponsku vršnu konzolu postojeće stubne trafostanice STS "Trebesin", na lokaciji koja se sastoji od dijelova kat. parc. broj 45/2, 59/2, 59/1, 59/6, 59/4, 62, 1150, 331, 327, 270, sve K.O. Trebesin, Herceg Novi u svemu prema skici plana lokacije koja je sastavni dio ove Odluke.
