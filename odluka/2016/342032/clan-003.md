@@ -1,0 +1,2 @@
+# Član 3
+Stupanjem na snagu ove Odluke prestaje da važi Odluka o imenovanju Upravnog odbora JP"Vodovod i kanalizacija"Bar ("Sl.list CG-opštinski propisi", broj 32/14), Odluka o razrješenju i imenovanju jednog člana Upravnog odbora JP"Vodovod i kanalizacija"Bar ("Sl.list CG-opštinski propisi", broj 7/15) i Odluka o razrješenju i imenovanju jednog člana Upravnog odbora JP"Vodovod i kanalizacija"Bar ("Sl.list CG-Opštinski propisi", broj 19/15).
