@@ -1,0 +1,3 @@
+# Član 3
+Radi brisanja tereta zabrane otuđenja i opterećenja upisanog u LN 1659 k.o.Tivat na kat.parceli 4012/1 vlasništva Samardžić Milorada i kompletiranja UP Z1-276 u zahvatu DUP-a "Gornji Kalimanj" te stvaranja uslova za privođenje DUP-a namjeni u dijelu saobraćajnice S-04 i kanala , Samardžić Milorad i Opština Tivat rješavaju međusobne odnose na način opisan u članu 1 i 2 odluke uz obavezu imenovanog da Opštini Tivat isplatiti naknadu u iznosu od 2.516,80€ koja predstavlja razliku u vrijednostima zemljišta predmetnog zemljišta a sve u skladu sa procjenom ovlašćenog procjenitelja i sudskog vještaka.
+Isti je dužan naknadu iz stava prvog isplatiti u roku od 30 (trideset) dana od dana donošenja odluke.
