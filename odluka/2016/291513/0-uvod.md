@@ -1,0 +1,2 @@
+Na osnovu člana 87 stav 6 Zakona o sportu ("Sl. list CG", br. 36/11 i 36/13), člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", br. 88/09, 03/10, 73/10, 38/12, 10/1457/14 i 3/16) ) i člana 36. stav 1. tačka 3. Statuta Opštine Herceg Novi ("Sl.list RCG - opštinski propisi", br. 15/04, 32/05, 31/06 i 14/07 i "Sl.list CG - opštinski propisi", br. 16/09 i 16/11), Skupština opštine Herceg Novi, na sjednici održanoj dana 07.06.2016. godine, donosi
+ODLUKU

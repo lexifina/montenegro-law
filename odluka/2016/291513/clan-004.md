@@ -1,0 +1,10 @@
+# Član 4
+Mijenja se član 5 Odluke tako da glasi:
+"Program razvoja sporta u opštini Herceg Novi, donosi organ uprave nadležan za sport, na osnovu predloga komisije za sport.
+Razvoj sporta se podstiče sredstvima predviđenim Odlukom o budžetu opštine Herceg Novi za tekuću godinu. Sufinansiranje programa rada sportskih klubova, razvoj školskog sporta, razvoj ženskog sporta, razvoj sporta lica sa invaliditetom i razvoj sportske rekreacije građana vrši se sa izdataka za sportska društva, sportske organizacije ili sportske klubove, u zavisnosti od naziva izdatka navedenog u Odluci o budžetu opštine Herceg Novi.
+Za sufinansiranje programa rada sportskih klubova sa sjedištem na teritoriji opštine Herceg Novi izdavajaju se sredstva u iznosu od 80% od ukupnih sredstava budžetom predviđenih za sufinansiranje sportskih društava, sportskih organizacija ili sportskih klubova.
+Za sufinansiranje razvoja školskog sporta izdavajaju se sredstva u iznosu od 2% od ukupnih sredstava budžetom predviđenih za sufinansiranje sportskih društava, sportskih organizacija ili sportskih klubova.
+Za sufinansiranje razvoja ženskog sporta izdavajaju se sredstva u iznosu od 2% od ukupnih sredstava budžetom predviđenih za sufinansiranje sportskih društava, sportskih organizacija ili sportskih klubova.
+Za sufinansiranje razvoja sporta lica sa invaliditetom izdavajaju se sredstva u iznosu od 3% od ukupnih sredstava budžetom predviđenih za sufinansiranje sportskih društava, sportskih organizacija ili sportskih klubova.
+Za sufinansiranje razvoja sportske rekracije građana izdavajaju se sredstva u iznosu od 3% od ukupnih sredstava budžetom predviđenih za sufinansiranje sportskih društava, sportskih organizacija ili sportskih klubova.
+Za sufinansiranje sportskih događaja koji su od posebnog značaja za uspješno prezentovanje opštine na domaćoj i međunarodnoj sceni izdavajaju se sredstva u iznosu od 10% od ukupnih sredstava budžetom predviđenih za sufinansiranje sportskih društava, sportskih organizacija ili sportskih klubova. Odluku o sufinansiranju u ovim slučajevima donosi predsjednik Opštine, nakon pribavljenog mišljenja od strane organa lokalne uprave nadležnog za sport."
