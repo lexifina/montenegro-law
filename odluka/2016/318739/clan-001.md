@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom uređuje se način i uslovi ostvarivanja prava na zaradu, naknadu i druga primanja zaposlenih u Opštini Bar, u skladu sa zakonom kojim se uređuju zarade zaposlenih u javnom sektoru (u daljem tekstu: Zakon), opštim propisima o radu, Opštim kolektivnim ugovorom (u daljem tekstu: Kolektivni ugovor) i Granskim kolektivnim ugovorom za oblast uprave i pravosuđa (u daljem tekstu: Granski kolektivni ugovor).

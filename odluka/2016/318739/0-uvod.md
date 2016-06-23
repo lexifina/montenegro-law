@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list RCG", broj 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", broj 88/09, 3/10, 73/10, 38/12, 10/14, 57/14 i 3/16), a u vezi člana 2 stav 1 tačka 2 i člana 17, 23 i 44 stav 1 Zakona o zaradama zaposlenih u javnom sektoru ("Sl.list CG", broj 16/16) i člana 41 stav 1 tačka 2 Statuta Opštine Bar ("Sl.list CG - Opštinski propisi", broj 6/11), na osnovu saglasnosti Ministarstva finansija broj 03-4570/2016 od 10.05.2016.godine, Skupština opštine Bar, na sjednici održanoj 13.06. 2016.godine, donijela j e
+O D L U K U
+o zaradama zaposlenih u Opštini Bar
