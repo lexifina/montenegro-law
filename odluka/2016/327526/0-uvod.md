@@ -1,0 +1,2 @@
+Na osnovu člana 117 Zakona o uređenju prostora i izgradnji objekata ("Službeni list Crne Gore", broj 51/08, 40/10, 34/11, 40/11, 47/11, 35/13 33/14), člana 14 stav 4 Odluke o privremenim objektima na teritoriji opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", broj 18/14 i 18/15), i člana 31 Statuta Opštine Tivat ( "Službeni list RCG - Opštinski propisi", broj 40/04 i 26/06 i "Službeni list CG - Opštinski propisi", broj 12/11, 21/11 i 03/13), Skupština Opštine Tivat, na sjednici održanoj dana 07.06.2016. godine, donijela je
+ODLUKU
