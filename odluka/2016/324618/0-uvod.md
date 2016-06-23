@@ -1,0 +1,2 @@
+Na osnovu člana17 Odluke o osnivanju DOO "Komunalno" Tivat ("Sl.list- Opštinski propisi br. 24/13 i 04/15), člana 33 Statuta DOO Komunalno ("Sl.list CG- Opštinski propisi br. 32/13 i 05/15) i člana 31. Statuta opštine Tivat ("Sl.list RCG - Opštinski propisi" br. 40/04 i 26/06 i "Sl.list CG-Opštinski propisi" br. 12/21 , 21/11, 03/13) Skupština opštine Tivat na sjednici održanoj 07.06. 2016.godine, donijela je
+O D L U K U
