@@ -1,0 +1,2 @@
+Na osnovu člana 4 stav 2 i člana 12 Zakona o komunalnim djelatnostima(Sl.list RCG br.12/95"),člana 155 Zakona o vodama ("Sl.list CG br. 27/07,32/11,47/11 i 48/15") i Člana 31 Statuta opštine Tivat ( "Sl.list RCG Opštinski propisi br. 40/04 i 26/06" i Sl.list CG Opštinski propisi br.12/11,21/11 i 03/13") ,Skupština opštine Tivat ,na sjednici održanoj dana,07.06. 2016.godine donijela je
+O D L U K U
