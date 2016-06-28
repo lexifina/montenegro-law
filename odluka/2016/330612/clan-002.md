@@ -1,0 +1,2 @@
+# Član 2
+Opština Tivat privremeno daje u zakup "Primorje" Hotels&restaurants ad Tivat nepokretnost iz člana 1 odluke na vrijeme do 31.12.2016. god. uz mogućnost produženja ugovora za još 3 odnosno 6 mjeseci zavisno od dinamike izgradnje spratne garaže i stvaranja uslova za drugačiji način raspolaganja istom odnosno do stvaranja uslova za davanje iste u koncesiju u skladu sa odredbama Zakona o koncesijama.

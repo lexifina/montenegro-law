@@ -1,0 +1,2 @@
+# Član 3
+Zakupac se obavezuje da za svoje potrebe koristi 20 parking mjesta a da 10 parking mjesta ustupi na korišćenje,uz naknadu, hotelima u neposrednoj blizini ukoliko isti iskažu interesovanje za korišćenje predmetnog parkinga po cjenovniku na koji će saglasnost dati izvrši organ jedinice lokalne samouprave i da primjerak ugovora koji zaključi sa korisnicima dostavi opštinskom organu za poslove saobraćaja.
