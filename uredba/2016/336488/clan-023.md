@@ -1,0 +1,2 @@
+# Član 23
+Troškovi koji nastanu u vezi sa korišćenjem telefona, telegrama, telefaksa, intemeta, iznajmljivanja prostorije za sastanke, iznajmljivanja personalnih računara za pripremanje službenih izvještaja ili za potrebe službene korespodencije na službenom putovanju u inostranstvu, a koji su neophodni za obavljanje određenih poslova, obračunavaju se na osnovu računa, odobrenog od rukovodioca ili lica koje on ovlasti.
