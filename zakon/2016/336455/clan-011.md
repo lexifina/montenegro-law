@@ -1,0 +1,6 @@
+# Član 11
+U poglavlju II OPŠTI DIO naziv potpoglavlja 8, naziv člana i član 44 mijenjaju se i glase:
+"8. Primjena opšteg dijela Krivičnog zakonika Crne Gore
+Shodna primjena odredaba Krivičnog zakonika Crne Gore
+Član 44
+Na pravna lica se shodno primjenjuju odredbe opšteg dijela Krivičnog zakonika Crne Gore o: krivičnom djelu (član 5), načinu izvršenja krivičnog djela (član 6), vremenu izvršenja krivičnog djela (član 7), mjestu izvršenja krivičnog djela (član 8), krajnjoj nuždi (član 11), podstrekavanju (član 24), pomaganju (član 25), granicama odgovornosti i kažnjivosti saučesnika (član 27), kažnjavanju podstrekača i pomagača za pokušaj i lakše krivično djelo (član 28), svrsi kažnjavanja (član 32), svrsi uslovne osude (član 54), opozivanju uslovne osude zbog ranije učinjenog krivičnog djela (član 56), opozivanju uslovne osude zbog neispunjenja određenih obaveza (član 57), rokovima za opozivanje uslovne osude (član 58), trajanju zaštitnog nadzora (član 63), posljedicama neispunjavanja obaveze zaštitnog nadzora (član 64), zaštiti oštećenog (član 114), toku i prekidu zastarijevanja krivičnog gonjenja (član 125), toku i prekidu zastarijevanja izvršenja kazne i mjere bezbijednosti (član 128), vremenskom važenju krivičnog zakonodavstva (član 133) i značenju izraza (član 142), ako ovim zakonom nije drukčije određeno."
