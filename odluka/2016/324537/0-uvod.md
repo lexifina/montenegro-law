@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta opštine Plužine ( "Sl. List RCG"- opštinski propisi broj 23/04 i "Sl.list CG"-opštinski propisi broj 7/07, 1/2011, 8/11 i 22/11), a u vezi sa članom 68 Zakona o zaštiti prirode (Sl. list Crne Gore", br. 51/08, 21/09, 40/11, 62/13), a shodno članu 5 Zakona o raftingu ("Sl. list Crne Gore", br. 53/11 od 11.11.2011), Skupština opštine Plužine, na sjednici održanoj 13.06.2016. godine, donijela je
+O D L U K U
