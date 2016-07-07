@@ -1,0 +1,3 @@
+Na osnovu člana 9 i 11 Zakona o rodnoj ravnopravnosti ( "Službeni list RCG", broj 46/07 i "Službeni list Crne Gore", br. 73/10, 40/11, 35/15 ), a u vezi sa članom 45 stav 2 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list Crne Gore", br. 88/09, 3/10, 73/10, 38/12, 10/14, 57/14 i 3/16), člana 35 Statuta Opštine Danilovgrad ("Službeni list RCG - Opštinski propisi", br. 30/04, "Službeni list CG - Opštinski propisi", br. 19/08 i 12/11), Skupština opštine Danilovgrad, na sjednici održanoj 20. i 21. juna 2016. godine, donijela je
+O D L U K U
+o rodnoj ravnopravnosti u Opštini Danilovgrad
