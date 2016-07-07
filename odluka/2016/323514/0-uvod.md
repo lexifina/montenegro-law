@@ -1,0 +1,2 @@
+Na osnovu člana 31 stav 1 tačka 2 Statuta opštine Danilovgrad ("Sl. list RCG - Opštinski propisi" broj 30/04 i "Sl. list CG - Opštinski propisi" broj 19/08 i 12/11 ), a u vezi sa članom 116 stav 1 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list Crne Gore", br. 88/09, 3/10, 73/10, 38/12, 10/14, 57/14 i 3/16), Skupština opštine Danilovgrad na sjednici održanoj 20. i 21. juna 2016. godine, donijela je
+O D L U K U
