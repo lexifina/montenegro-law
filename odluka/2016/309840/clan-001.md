@@ -1,0 +1,5 @@
+# Član 1
+## o prenosu prava na građevinskom zemljištu na Šljivančanin Dušku i Oljaču Mladena
+Prenosi se uz naknadu pravo svojine na građevinskom zemljištu na Šljivančanin Dušku iz Bara, Ul. Borska 4/8 sa obimom prava od 1/4 i Oljaču Mladena iz Žabljaka, Ul. Svetog Save bb sa obimom prava od 3/4 radi dokompletiranja urbanističke parcele broj 973 u zahvatu Detaljnog urbanističkog plana Žabljak, a u skladu sa Odlukom o donošenju izmjena I dopuna Detaljnog urbanističkog plana Žabljak ("Sl.list CG-Opštinski propisi", br. 7/14) , i to:
+- na katastarskoj parceli broj 3985/7 površine 46 m2 i katastarskoj parceli broj 3986/11 površine 7 m2 upisanim u listu nepokretnosti broj 193 KO Žabljak I kao svojina Crne Gore sa pravom raspolaganja Opštine Žabljak.
+- na dijelu katastarske parcele broj 3849/1 površine 66 m2 upisane u listu nepokretnosti broj 619 KO Žabljak I sa teretom i ograničenjem - zabilježbom zabrane otuđenja i opterećenja na 27 m2 i bez tereta i ograničenja zabilježbe zabrane otuđenja i opterećenja na 39 m2 a na kojim djelovima je vanknjižni vlasnik Crna Gora sa pravom raspolaganja Opštine Žabljak.

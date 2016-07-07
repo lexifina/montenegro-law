@@ -1,0 +1,2 @@
+# Član 2
+Šljivančanin Duška i Oljača Mladen su dužni da plate Opštini Žabljak naknadu za građevinsko zemljište iz člana 1 ove odluke i to za razliku u površini između građevinskog zemljišta na kome imaju pravo svojine i urbanističke parcele broj 973 formirane planom parcelacije, a koja iznosi 119 m2 u skladu sa Odlukom o naknadi za dokompletiranje urbanističkih parcela ("Sl.list CG-Opštinski propisi", br. 31/14 i 1/16).
