@@ -1,0 +1,4 @@
+Na osnovu člana 17 Zakona o crnogorskom državljanstvu ("Službeni list CG", br. 13/08, 40/10, 28/11, 46/11 i 20/14), Vlada Crne Gore, na sjednici od 5. maja 2016. godine, donijela je
+ODLUKU O DOPUNAMA ODLUKE O KRITERIJUMIMA ZA UTVRĐIVANJE NAUČNOG,
+PRIVREDNOG, EKONOMSKOG, KULTURNOG I SPORTSKOG INTERESA CRNE
+GORE ZA STICANJE CRNOGORSKOG DRŽAVLJANSTVA PRIJEMOM
