@@ -1,0 +1,2 @@
+# Član 1
+U Uredbi o kriterijumima i načinu obračuna iznosa minimalne koncesione naknade za ustupanje prava na istraživanje i eksploataciju mineralnih sirovina ("Službeni list CG", broj 37/11) u članu 19 stav 3 riječi: "za količinu eksploatisane mineralne sirovine koja prelazi godišnju minimalnu količinu za eksploataciju utvrđenu ugovorom o koncesiji" zamjenjuju se riječima: "u iznosu za koji je veći od SDN."
