@@ -1,0 +1,2 @@
+Na osnovu člana 47 stav 3, člana 49 i člana 162b stav1 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13 i 39/13, 33/14), i člana 36 stav 1 tačka 5 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, "Sl. list CG - Opštinski propisi", br. 16/09, 16/11), Skupština opštine Herceg Novi, na sjednici održanoj 24.06.2016.godine, donosi
+ODLUKU
