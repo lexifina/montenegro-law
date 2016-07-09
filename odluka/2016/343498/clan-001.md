@@ -1,0 +1,3 @@
+# Član 1
+## o davanju na korišćenje poslovnih prostora Vaterpolo i plivačkom savezu Crne Gore
+Opština Nikšić, kao nosilac prava raspolaganja nepokretnosti upisanih u listu nepokretnosti broj 810 KO Nikšić, daje na korišćenje bez naknade, na period od 20 (dvadeset) godina uz mogućnost produženja vremena korišćenja, Vaterpolo i plivačkom savezu Crne Gore poslovni prostor za kancelariju površine 23,00 m2, koji se nalazi na kraju izlaznog stepeništa na spratu sa sjeverne strane službenog ulaza u bazen, kao i prostor za suvenirnicu površine 20,00 m2, koji se nalazi uz biletarnicu na prizemlju glavnog ulaza na bazen.
