@@ -1,0 +1,3 @@
+# Član 2
+Priznavanje plaćene naknade u slučajevima iz člana 1 stav 2 ove odluke u postupku izdavanja građevinske dozvole vršiće se prema zoni i lokaciji za koju je izvršeno avansno plaćanje naknade proporcionalno površini objekta i cijeni naknade u odnosu na zonu i lokaciju za koju se izdaje građevinska dozvola u novom postupku.
+Za razliku između površine objekta koji se gradi i površine za koju se priznaje avansno plaćena naknada iz člana 1 ove odluke, investitori su dužni da plate naknadu za komunalno opremanje građevinskog zemljišta u skladu sa odlukom koja važi u vrijeme kada se vrši priznavanje naknade za komunalno opremanje građevinskog zemljišta.

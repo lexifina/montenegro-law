@@ -1,0 +1,4 @@
+# Član 1
+## o priznavanju naknade za komunalno opremanje građevinskog zemljišta investitorima koji su izvršili avansno plaćanje naknade za uređivanje građevinskog zemljišta
+Ovom odlukom, investitorima koji su izvršili avansno plaćanje naknade za uređivanje građevinskog zemljišta za određenu lokaciju, a nijesu ostvarili ovo svoje pravo u roku određenim članom 18 Odluke o naknadi za komunalno opremanje građevinskog zemljišta ("Službeni list CG-Opštinski propisi", broj 12/15) priznaje se uplaćena naknada za površine objekata koje su utvrđene u skladu sa aktom organa lokalne uprave nadležnog za izdavanje građevinske dozvole, u vrijeme kad je izvršeno avansno plaćanje ove naknade.
+Ukoliko se investitoru ne može izdati građevinska dozvola za objekat na lokaciji za koju je izvršio avansno plaćanje naknade za uređivanje građevinskog zemljišta, priznanje iz stava 1 ovog člana prenijeće se na drugu lokaciju gdje može da gradi u skladu sa Planom.
