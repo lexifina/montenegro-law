@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 3 Zakona o lokalnoj samoupravi (Službeni list RCG 42/03, 28/04, 75/05, 13/06, Službeni list CG 88/09, 3/10, 73/10, 38/12, 10/14, 57/14, 3/16), u vezi člana 36 stav 1 tačka 5 Statuta Opštine Herceg-Novi (Službeni list RCG- Opštinski propisi 15/04, 32/05, 31/06, 14/07, Službeni list CG, opštinski propisi 16/09, 16/11), na sjednici održanoj dana 24.06.2016.godine, donosi
+ODLUKU
