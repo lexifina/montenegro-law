@@ -1,0 +1,3 @@
+Na osnovu člana 45. stav 1. tačka 15. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", broj 88/09, 3/10, 73/10 ,38/12 i 10/14), člana 57. Zakona o budžetu i fiskalnoj odgovornosti ("Sl. list RCG" br. 20/14), člana 62, 63 i 64 Zakona o finansiranju lokalne samouprave ("Službeni list RCG" br 1/15) i člana 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor", broj 3/04 i "Sl. list CG-Opštinski propisi", br. 17/08, 31/09, 40/10 i 4/11) i Zaključka Vlade Crne Gore broj 08-3077 od 29. 12. 2015. godine, Skupština Opštine Kotor, na sjednici održanoj 16. 06. 2016. godine, donijela je
+ODLUKU
+o zaduživanju Opštine Kotor za realizaciju Projekta "Vodosnabdijevanje i odvođenje otpadnih voda na Jadranskoj obali,
