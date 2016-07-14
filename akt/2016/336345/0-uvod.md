@@ -1,0 +1,2 @@
+Na osnovu člana 43 stav 1 tačka 5 Zakona o energetici (''Službeni list Crne Gore'', broj 5/16) i člana 13 tačka 1 Statuta Regulatorne agencije za energetiku (''Službeni list Crne Gore'', broj 15/16), Odbor Regulatorne agencije za energetiku, na sjednici od 29. juna 2016. godine, utvrdio je
+METODOLOGIJU ZA UTVRĐIVANJE REGULATORNO DOZVOLJENOG PRIHODA I NAKNADE ZA RAD OPERATORA TRŽIŠTA ELEKTRIČNE ENERGIJE
