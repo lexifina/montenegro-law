@@ -1,0 +1,14 @@
+# Član 33
+## Ovlašćenja inspektora za stanovanje
+U vršenju poslova inspekcijskog nadzora inspektor za stanovanje obavezan je da provjerava, naročito:
+1) da li je etažni vlasnik kao imalac prava nadogradnje,u slučaju potrebe privremenog iseljenja iz stana, vlasniku, uz njegovu saglasnost, dok traju radovi, obezbijedio na privremeno korišćenje drugi stan koji mu ne pogoršava uslove stanovanja, uključujući i odgovarajuće troškove (član 178 stav 2 tačka 2 Zakona o svojinsko pravnim odnosima);
+2) da li je etažni vlasnik kao imalac prava nadogradnje, u roku od 10 dana po završetku radova, prostorije, uređaje i instalacije doveo u stanje kakvo je bilo prije izvođenja radova (član 178 stav 2 tačka 3 Zakona o svojinsko pravnim odnosima);
+3) da li je etažni vlasnik kao imalac prava nadogradnje najkasnije 30 dana prije početka izvođenja radova obavijestio vlasnike o početku izvođenja radova (član 178 stav 2 tačka 4 Zakona o svojinsko pravnim odnosima);
+4) da li je nadležni organ lokalne uprave obezbijedio izvođenje hitnih radova, do sprečavanja nastanka dalje štete, preko privrednog društva, odnosno drugog pravnog lica ili na drugi način, ako upravnik, odnosno organi upravljanja stambene zgrade to nisu učinili (član 15 stav 1);
+5) da li je nadležni organ lokalne uprave, dostavio zahtjev iz člana 19 stava 2 ovog zakona i izvod iz registara iz člana 26 ovog zakona, organu uprave nadležnom za poslove statistike (član 19 stav 3);
+6) da li je organ uprave nadležan za poslove statistike u roku od osam dana od dana prijema izvoda iz registara i zahtjeva iz člana 18 stava 2 ovog zakona, dostavio nadležnom organu lokalne uprave akt o određivanju matičnog broja i šifre djelatnosti stambene zgrade (član 19 stav 4);
+7) da li je nadležni organ lokalne uprave u roku od osam dana od dana prijema akta o određivanju matičnog broja i šifre djelatnosti stambene zgrade isti dostavio podnosiocu zahtjeva iz člana 19 stav 2 ovog zakona(član 19 stav 5);
+8) da li je organ lokalne uprave rješenjem, obračunao iznos i utvrdio način plaćanja troškova održavanja stambene zgrade i urbanističke parcele, u skladu sa odlukom skupštine etažnih vlasnika, odnosno ugovorom iz člana 16 stav 4 ovog zakona (član 20 stav 1);
+9) da li je nadležni organ lokalne uprave imenovao, na zahtjev jednog ili više vlasnika ili po službenoj dužnosti, privremenog upravnika, ako etažni vlasnici nijesu obrazovali organe upravljanja u skladu sa zakonom (član 22 stav 1);
+10) da li nadležni organ lokalne uprave ili privredno društvo kome nadležni organ lokalne uprave povjeri vođenje regista vodi registar etažnih vlasnika, registar stambenih zgrada i njihovih posebnih djelova i registar upravnika stambenih zgrada (član 26 stav 1);
+11) da li je organ uprave nadležan za upis prava u katastar nepokretnosti, iz evidencije koju vodi u skladu sa zakonom, organu odnosno privrednom društvu iz člana 26 stav 1 ovog zakona dostavio podatke iz člana 26 stav 2 al.1 do 5 ovog zakona(član 26 stav 2).

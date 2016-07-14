@@ -1,0 +1,12 @@
+# Član 39
+Novčanom kaznom od 500 eura do 2.000 eura kazniće se za prekršaj odgovorno lice u organu uprave, organu lokalne samouprave i lokalne uprave ako:
+1) nije obezbijedio izvođenje hitnih radova, do sprečavanja nastanka dalje štete, preko privrednog društva, odnosno drugog pravnog lica ili na drugi način, ako upravnik, odnosno organi upravljanja stambene zgrade to nisu obezbijedili (član 15 stav 1);
+2) nije dostavio zahtjev iz člana 19 stava 2 ovog zakona i izvod iz registara iz člana 26 ovog zakona, organu uprave nadležnom za poslove statistike (član 19 stav 3);
+3) u roku od osam dana od dana prijema izvoda iz registara i zahtjeva iz člana 19 stav 3 ovog zakona, nije dostavio nadležnom organu lokalne uprave akt o određivanju matičnog broja i šifre djelatnosti stambene zgrade (član 19 stav 4);
+4) u roku od osam dana od dana prijema akta o određivanju matičnog broja i šifre djelatnosti stambene zgrade isti nije dostavio podnosiocu zahtjeva iz člana 19 stav 2 (član 19 stav 5);
+5) nije upisao u registar stambenih zgrada matični broj i šifru djelatnosti stambene zgrade (član 19 stav 8);
+6) nije rješenjem, u skladu sa odlukom skupštine etažnih vlasnika, odnosno ugovorom iz člana 16 stav 4 ovog zakona obračunao iznos i utvrdio način plaćanja troškova održavanja stambene zgrade i urbanističke parcele (član 20 stav 1);
+7) nije pribavio podatke iz člana 20 stava 2 ovog zakona u roku od 15 dana od dana dostavljanja zahtjeva upravnika (član 20 stav 3);
+8) na zahtjev jednog ili više etažnih vlasnika ili po službenoj dužnosti nije imenovao privremenog upravnika, ako etažni vlasnici nijesu organizovali organe upravljanja u skladu sa zakonom (član 22 stav 1);
+9) ne vodi registar etažnih vlasnika, i/ili registar stambenih zgrada i njihovih posebnih djelova i/ili registar upravnika stambenih zgrada (član 26 stav 1);
+10) iz evidencije koju vodi u skladu sa zakonom nije dostavio organu odnosno privrednom društvu iz člana 26 stav 1 podatke o katastarskoj parceli na kojoj je izgrađena stambena zgrada, i/ili stambenoj zgradi (položaj; oblik; građevinska bruto površina u skladu sa standardima; način korišćenja; naziv objekta; adresa; spratnost; godina izgradnje i pravni status izgradnje), i/ili posebnim djelovima stambene zgrade (položaj, oblik, neto površina u skladu sa standardima, način korišćenja, naziv objekta, adresa; spratnost, sobnost, godina izgradnje i pravni status), i/ili pravima na stambenoj zgradi i posebnim djelovima i nosiocima tih prava i teretima i ograničenjima (član 26 stav 2).

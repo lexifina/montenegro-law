@@ -1,0 +1,9 @@
+# Član 16
+## Troškovi održavanja
+Troškove redovnog održavanja, nužnih i hitnih radova na stambenoj zgradi i urbanističkoj parceli snose etažni vlasnici srazmjerno učešću neto površine svojih posebnih djelova stambene zgrade u površini svih posebnih djelova, prema stvarnim troškovima.
+Etažni vlasnici su dužni da, kao akontaciju za troškove iz stava 1 ovog člana, uplate mjesečni iznos na zajednički račun zgrade, i to u iznosu od 1 bod/m2 neto stambene ili neto površine poslovnog prostora, odnosno 0,5 boda/m2 neto površine nestambenog prostora koji čine: zajednička potkrovlja, perionice, sušionice, hodnici, holovi, podrumi, garaže i garažna mjesta.
+Vrijednost boda, koja ne može biti manja od 0,2 €, utvrđuje skupština etažnih vlasnika.
+Izuzetno od stava 3 ovog člana, vrijednost boda može se utvrditi ugovorom o prenosu prava svojine nad posebnim dijelom stambene zgrade izgrađene u turističkoj zoni.
+Izuzetno od stava 1 ovog člana, investitor stambene zgrade dužan je da samostalno snosi troškove redovnog održavanja, nužnih i hitnih radova stambene zgrade i urbanističke parcele, organizuje poslove održavanja stambene zgrade i preduzme aktivnosti za formiranje organa upravljanja stambene zgrade u periodu od godinu dana od dana prenosa prava svojine najmanje jednog posebnog dijela stambene zgrade sa investitora na kupca, odnosno od dana upisa te promjene u katastar nepokretnosti, ili drugu odgovarajuću evidenciju nepokretnosti.
+Račun o iznosu sredstava za redovno održavanje, nužne i hitne radove etažnih vlasnika, odnosno korisnika je izvršna isprava u izvršnom postupku.
+Izuzetno od stava 1 ovog člana korisnik posebnog dijela stambene zgrade snosi troškove redovnog održavanja, nužnih i hitnih radova stambene zgrade i urbanističke parcele, ako je tu obavezu preuzeo ugovorom o međusobnim pravima i obavezama.
