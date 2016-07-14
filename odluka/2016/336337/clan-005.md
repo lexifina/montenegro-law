@@ -1,0 +1,2 @@
+# Član 5
+Ministarstvo finansija, Centralna banka Crne Gore, Uprava za sprječavanje pranja novca i finansiranja terorizma, kao i drugi organi i pravna lica nadležni za primjenu restriktivnih mjera koje su uvedene ovom odlukom, dužni su da, u okviru svojih nadležnosti, obezbijede primjenu ove odluke, kao i da o preduzetim aktivnostima obavijeste Ministarstvo vanjskih poslova i evropskih integracija.
