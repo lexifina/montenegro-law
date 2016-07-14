@@ -1,0 +1,3 @@
+# Član 4
+Vojna legitimacija na prednjoj strani sadrži znak Vojske Crne Gore; na crnogorskom i engleskom jeziku nazive: "VOJSKA CRNE GORE" i "VOJNA LEGITIMACIJA"; mjesto za fotografiju imaoca vojne legitimacije, dimenzija 25 x 33 mm; mjesto u obliku pravougaonika dimenzija 50 x 11 mm, u koji se upisuju ime, prezime i čin imaoca vojne legitimacije; serijski broj, datum izdavanja i zaštitne elemente u obliku univerzalnog holograma i natpisa "VCG".
+Vojna legitimacija na poleđini sadrži znak Vojske Crne Gore; na crnogorskom i engleskom jeziku nazive: "CRNA GORA" i "VOJSKA CRNE GORE"; generisani QR kod i zaštitne elemente u obliku univerzalnog holograma i natpisa "VCG".
