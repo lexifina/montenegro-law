@@ -1,0 +1,4 @@
+Na osnovu člana 103 Zakona o Vojsci Crne Gore ("Službeni list CG", br. 88/09, 75/10, 40/11 i 32/14), Ministarstvo odbrane donijelo je
+PRAVILNIK O IZNOSU NAKNADE LICU U SLUŽBI U VOJSCI CRNE GORE UPUĆENOM U
+INOSTRANSTVO RADI OBRAZOVANJA, USAVRŠAVANJA, OBUKE ILI VOJNE
+VJEŽBE
