@@ -1,0 +1,2 @@
+Na osnovu člana 36 tačka 25 Statuta Opštine Herceg Novi ("Sl.list RCG - opštinski propisi", br.42/03, 15/04, 32/05, 31/06, 14/07, "Sl.list Crne Gore-opštinski propisi", br.16/09, 16/11) i člana 16 stav 1 Odluke o osnivanju Javne ustanove "Dnevni centar za djecu sa smetnjama i teškoćama u razvoju" ("Sl.list CG-opštinski propisi", br. 03/11, 08/14), Skupština opštine Herceg Novi na sjednici održanoj dana 18.07.2016. godine donosi
+O D L U K U
