@@ -1,0 +1,1 @@
+Na osnovu člana 36 stav 1 tačka 26 Statuta Opštine Herceg Novi ("Sl.Hst RCG-opštinski propisi, br. 15/04, 32/05, 31/06 i 14/07, i " SI. list CG-opštinski propisi br. 16/09 i 16/11) i člana 14 Odluke o dodjeli nagrada Opštine Herceg Novi ("Sl.list RCG-opštinski propisi", br. 9/02 i 32/04), Skupština opštine Herceg-Novi, na sjednici održanoj dana 18.07. 2016.godine, donosi
