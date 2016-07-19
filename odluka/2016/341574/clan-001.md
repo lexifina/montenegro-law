@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom osniva se Društvo sa ograničenom odgovornošću "Vodovod i kanalizacija" Ulcinj (u daljem tekstu: Društvo), kao jednočlano društvo, radi obavljanja poslova komunalne djelatnosti snabdijevanja pitkom vodom teritorije opštine Ulcinj i odvođenja i prečišćavanja otpadnih voda sa teritorije opštine Ulcinj, zbog reorganizacije Javnog preduzeća "Vodovod i kanalizacija" Ulcinj u skladu sa odredbama Zakona o unaprjeđenju poslovnog ambijenta.

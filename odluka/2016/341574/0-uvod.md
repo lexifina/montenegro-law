@@ -1,0 +1,3 @@
+Na osnovu člana 64 Zakona o privrednim društvima ("Službeni list RCG", broj 06/02 i "Službeni list CG", br.17/07, 80/08, 40/10, 36/11 i 40/11), a u vezi sa čl.13 Zakona o unaprjeđenju poslovnog ambijenta ("Sl.list CG", broj 40/10), člana 34 i 45 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Sl.list RCG", br.42/03, 28/04, 75/05, 13/06, "Sl.list CG", br.88/09, 3/10 i 38/12), člana 13 Zakona o komunalnim djelatnostima ("Sl.list RCG, broj 12/95) i člana 42 Statuta Opštine Ulcinj ("Sl. list Crne Gore - Opštinski propisi", br. 05/07, 09/09 i 16/11) Skupština opštine Ulcinj, na sjednici održanoj dana 18.06.2016 godine, donijela je
+O D L U K U
+o osnivanju društva sa ograničenom odgovornošću " Vodovod i kanalizacija" Ulcinj
