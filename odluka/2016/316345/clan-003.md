@@ -1,0 +1,2 @@
+# Član 3
+Glavni projekat za izgradnju navedenih lokalnih objekata od opšteg interesa izradiće se i revidovati na osnovu ove Odluke, a u skladu sa važećim tehničkim normativima, standardima i normama propisanim odredbama Zakona o uređenju prostora i izgradnju objekata ("Sl.list CG" br.51/08 40/10; 34/11; 40/11; 47/11; 39/13 i 33/14) i Pravilnika o načinu izrade, razmjeri i brližoj sadržini tehničke dokumentacije ("Sl.list CG" , broj 23/14)
