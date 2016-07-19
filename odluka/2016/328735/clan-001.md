@@ -1,0 +1,3 @@
+# Član 1
+## o izmjenama i dopunama Statuta opštine Rožaje
+U Statutu opštine Rožaje ( "Sl. list Crne Gore - Opštinski propisi", broj 9/11) član 1 mijenja se i glasi: "Statutom opštine Rožaje ( u daljem tekstu: Statut ) uređuju se prava i dužnosti opštine i način njihovog ostvarivanja, poslovi i način odlučivanja lokalnog stanovništva, način i uslovi vršenja sopstvenih poslova, organizacija i način rada organa, način donošenja propisa, način vršenja nadzora nad radom organa Opštine i javnih službi, finansiranje, ustanovljavanje simbola, praznik Opštine i druga pitanja od značaja za funkcionisanje lokalne samouprave".
