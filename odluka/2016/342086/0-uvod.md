@@ -1,0 +1,2 @@
+Na osnovu člana 26. Odluke o postavljanju odnosno, građenju i uklanjanju privremenih objekata montažnog karaktere na teritoriji Opštine Kotor ("Sl.list CG" - Opštinski propisi br.3/14) i člana 30.Statuta opštine Kotor, (Službeni list opštine Kotor br.3/04), ("Sl.list RCG" - Opštinski propisi br.17/08,31/09,40/10 i 4/11), Skupština opštine Kotor na sjednici održanoj 16. 06. 2016. godine, donijela je
+O D L U K U
