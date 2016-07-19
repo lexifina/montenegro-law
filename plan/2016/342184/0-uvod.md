@@ -1,0 +1,2 @@
+Na osnovu člana 13 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 16/95), člana 7 Zakona o koncesijama ("Sl. list Crne Gore", br. 8/09) i člana 31 Statuta Opštine ("Sl. list RCG-Opštinski propisi",broj 40/04 i 26/06 i "Službeni list CG-Opštinski propisi", broj 12/11, 21/11 i 3/13), člana 2 Odluke o javnim parkiralištima na području Opštine Tivat ("Sl.list Crne Gore - Opštinski propisi", br. 26/14), Skupština opštine Tivat, na sjednici održanoj dana 28.06.2016.godine, donijela je
+GODIŠNJI PLAN
