@@ -1,0 +1,2 @@
+Na osnovu člana 34. Stav 1 tačka 42 Statuta Opštine Pljevlja ("Sl. list RCG - opštinski propisi", broj 37/04, 30/07 i "Sl. list CG - opštinski propisi", broj 32/09 i 14/11), kao i člana 24 Odluke o organizovanju Lokalnog javnog emitera Radio - Televizije Pljevlja ("Sl. list CG-opštinski propisi", broj 14/2011), Skupština Opštine Pljevlja, na sjednici održanoj dana: 18.07.2016. godine, donijela je
+ODLUKU
