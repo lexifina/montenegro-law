@@ -1,0 +1,5 @@
+# Član 15
+Sve zdravstvene ustanove koje obavljaju bolničku djelatnost dužne su da preduzmu odgovarajuće mjere i aktivnosti za prepoznavanje i održavanje umrlog davaoca, radi sprovođenja postupka očuvanja i uzimanja organa za presađivanje, uključujući pripremu, obavještavanje i optimalno zbrinjavanje davaoca, kao i procjenu podobnosti davaoca i organa, u skladu sa ovim zakonom.
+Za obavljanje aktivnosti iz stava 1 ovog člana, direktor zdravstvene ustanove imenuje bolnički koordinacioni tim, a ministar nadležan za poslove zdravlja bolničkog koordinatora, na predlog direktora te ustanove.
+Bolnički koordinacioni tim i bolnički koordinator su odgovorni za organizovanje i usklađivanje rada u zdravstvenoj ustanovi, obavještavanje i organizovanje saradnje sa drugim zdravstvenim ustanovama i timovima za uzimanje i presađivanje organa i sa Ministarstvom odnosno Nacionalnim koordinacionim tijelom, u cilju obezbjeđivanja maksimalne dostupnosti kvaliteta i bezbjednosti organa za presađivanje.
+Bliže uslove i kriterijume za izbor i djelokrug rada bolničkog koordinacionog tima i bolničkog koordinatora propisuje Ministarstvo.

@@ -1,0 +1,4 @@
+# Član 47
+Ovlašćene zdravstvene ustanove vode evidenciju o ličnim podacima davaoca i primaoca, o svakom uzimanju i presađivanju organa, razmjeni, uspješnosti postupaka, ozbiljnim neželjenim događajima i ozbiljnim neželjenim reakcijama, zdravstvenom stanju davaoca i primaoca nakon sprovedenog postupka uzimanja, odnosno presađivanja, preduzetim mjerama radi obezbjeđivanja kvaliteta i bezbjednosti, obavljanja intervencija i ostalim podacima koji su od značaja za ove postupke.
+Mjesečne izvještaje o podacima iz stava 1 ovog člana, ovlašćene zdravstvene ustanove dostavljaju Ministarstvu do 15. u tekućem mjesecu za prethodni mjesec, a godišnji izvještaj do 31. marta tekuće godine za prethodnu godinu.
+Sadržinu evidencija iz stava 1 ovog člana, kao i način dostavljanja izvještaja iz stava 2 ovog člana propisuje Ministarstvo.

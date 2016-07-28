@@ -1,0 +1,6 @@
+# Član 19
+U ovlašćenoj zdravstvenoj ustanovi na tercijarnom nivou zdravstvene zaštite u kojoj se vrši presađivanje organa, direktor imenuje medicinski tim za presađivanje organa (u daljem tekstu: medicinski tim), kao stručno tijelo za obavljanje postupaka presađivanja, a ministar nadležan za poslove zdravlja imenuje lice odgovorno za organizovanje postupaka presađivanja organa, na predlog direktora te ustanove.
+Prije presađivanja organa obavezno se vrši karakterizacija i druga imunološka testiranja davaoca i organa na osnovu obaveznog prikupljanja minimalno potrebnih podataka i prikupljanjem dodatnih informacija, na osnovu odluke medicinskog tima. Obim i vrsta dodatnih informacija zavisi od njihove dostupnosti i posebnih okolnosti slučaja.
+Ukoliko je ugrožen život primaoca i ukoliko je očekivana korist za primaoca, u skladu sa analizom rizika i koristi, veća od rizika koje mogu da izazovu nekompletni podaci, organ može da se presadi i bez dobijenih podataka i informacija iz stava 2 ovog člana.
+O aktivnostima iz st. 2 i 3 ovog člana medicinski tim sačinjava zabilješku koja se čuva u medicinskoj dokumentaciji.
+Bliže uslove i kriterijume za imenovanje lica iz stava 1 ovog člana, kao i njegov djelokrug rada, propisuje Ministarstvo.

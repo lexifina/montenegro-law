@@ -1,0 +1,8 @@
+# Član 45
+Ministarstvo može, uz saglasnost Vlade Crne Gore, sa Eurotransplantom i drugim međunarodnim organizacijama i institucijama, odnosno drugim državama, da zaključi ugovor o uspostavljanju uzajamne saradnje za razmjenu organa, ukoliko za pojedine organe dobijene od umrlog davaoca nije moguće naći odgovarajućeg primaoca u Crnoj Gori.
+Na osnovu ugovora iz stava 1 ovog člana, ovlašćene zdravstvene ustanove mogu da vrše neposrednu razmjenu organa ukoliko su sljedljivost i standardi kvaliteta i bezbjednosti ekvivalentni sljedljivosti i standardima kvaliteta i bezbjednosti koji su propisani ovim zakonom, kao i ukoliko su ispunjeni najviši profesionalni standardi medicinske nauke kojima se obezbjeđuje kvalitet i bezbjednost i sprječavanje prenošenja zaraznih bolesti.
+Ukoliko su ispunjeni uslovi iz st. 1 i 2 ovog člana Ministarstvo, bez odlaganja, daje saglasnost za svaki pojedinačni slučaj razmjene organa ovlašćenim zdravstvenim ustanovama.
+Ovlašćene zdravstvene ustanove dužne su da odmah obavijeste Ministarstvo o izvršenom presađivanju organa koji se obezbjeđuju u skladu sa ugovorom iz stava 1 ovog člana.
+Ministarstvo prati razmjenu organa, u skladu sa ovim zakonom.
+U slučaju razmjene organa, zdravstvena ustanova sa kojom se vrši razmjena organa dostavlja ovlašćenoj zdravstvenoj ustanovi koja vrši presađivanje organa informacije o karakterizaciji davaoca i organa, sljedljivosti, kvalitetu i bezbjednosti, ozbiljnim neželjenim događajima i ozbiljnim neželjenim reakcijama, radi provjere ekvivalentnosti sljedljivosti i standarda kvaliteta i bezbjednosti, u skladu sa ovim zakonom.
+Bližu sadržinu i način prenošenja informacija iz stava 6 ovog člana propisuje Ministarstvo.
