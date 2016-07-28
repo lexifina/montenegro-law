@@ -1,0 +1,2 @@
+# Član 5
+Danom stupanja na snagu ove odluke prestaje da važi Odluka o utvrđivanju visine koeficijenata sekretara i pomoćnika sekretara Zajednice opština, broj: 02-05/07 od 13. aprila 2007. godine, Odluka o raspoređivanju u platne razrede i utvrđivanju visine koeficijenata za zaposlene u Sekretarijatu Zajednice opština, broj: 03-277/14 od 30. aprila 2014. godine, Odluka o utvrđivanju obračunske vrijednosti koeficijenta za obračun zarada zaposlenih u Sekretarijatu Zajednice opština, broj: 02-54/13 od 16. decembra 2013. godine.
