@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 Zakona o lokalnoj samoupravi ("Službeni list RCG", br.42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14 i 03/16), člana 3 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 04/98, 05/98, 17/98, 14/00, 18/00, 09/01, 41/02, 46/02, 45/04, 48/06 i "Sužbeni list CG", br. 46/11, 14/14, 47/14 i 12/16) i člana 40 Statuta opštine Budva ("Službeni list CG - Opštinski propisi" br. 19/10) Skupština opštine Budva, na sjednici održanoj dana 25. jula 2016. godine, donijela je
+ODLUKU
