@@ -1,0 +1,2 @@
+# Član 2
+Pravno lice koje vrši promet veterinarskih ljekova na veliko (u daljem tekstu: veterinarska veledrogerija) postupa u skladu sa smjernicama Dobre prakse u distribuciji u pogledu uvođenja i održavanja sistema obezbjeđenja kvaliteta, kadrova, prostora, opreme, vođenja dokumentacije, radnih procesa, reklamacija, vraćanja veterinarskih ljekova, sumnje na falsifikovane veterinarske ljekove, internog nadzora i transporta.
