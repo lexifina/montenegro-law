@@ -1,0 +1,2 @@
+Na osnovu člana 3 stav 4 Zakona o boravišnoj taksi ("Sl.list RCG", br.11/04 i "Sl.list CG", br. 48/15), člana 5 stav 4 Zakona o finansiranju lokalne samouprave ("Sl.list RCG", br. 42/03, 44/03 i "Sl.list CG", br. 5/08, 74/10 i 3/16), člana 38 stav 1 tačke 2 i 8 Statuta opštine Žabljak ("Sl.list RCG-Opštinski propisi", br. 9/05, 23/07 i "Sl.list CG-Opštinski propisi", br. 3/11 i 7/14) Skupština opštine Žabljak na sjednici održanoj dana 07.07.2016.godine, donijela je
+O D L U K U
