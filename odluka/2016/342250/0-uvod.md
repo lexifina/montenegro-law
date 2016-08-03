@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", broj 88/09, 03/10,73/10,38/12, 10/14, 57/14 i 03/16), člana 36 stav 1 tačka 3 Statuta Opštine Herceg Novi (" Službeni list RCG - opštinski propisi", broj 15/04, 32/05, 31/06, 14/07, "SI.Iist CG - opštinski propisi" broj 16/09 I 16/11) i člana 4 stav 2 Odluke o građenju, postavljanju i uklanjanju lokalnih objekata od opšteg interesa (,SI.Iist CG - opštinski propisi" broj 45/15),Skupština Opštine Herceg Novi, na sjednici održanoj dana 18.07.2016.godine , donosi
+ODLUKU
+o utvrđivanju lokacije za rekonstrukciju lokalnog objekta od opšteg interesa - mjesne
