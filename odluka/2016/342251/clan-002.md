@@ -1,0 +1,2 @@
+# Član 2
+Lokacija kojom se utvrđuje trasa za izgradnju distributivne mreže naponskog nivoa od 10kV "Klinci-Mrkovi", nalazi se na poluostrvu Luštica, Opština Herceg Novi, a istu čine dijelovi katastarskih parcela br.: 1455,1539,1541, sve K.O. Mrkovi, kao i dijelovi katastarskih parcela br.945, 1569, 1566/1,1566/2, 233, 240/4 i 240/2, sve K.O. Rose, u svemu prema Skici plana lokacije koja je sastavni dio ove odluke.
