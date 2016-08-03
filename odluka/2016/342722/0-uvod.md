@@ -1,0 +1,2 @@
+Na osnovu člana 40 stav 2 tačka 3 i 4 Zakona o državnoj imovini ("Sl. list CG" br. 21/09), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ( "Sl. list RCG" br. 42/03, 28/04, 75/05, 13/06, 88/09, 03/10 i 38/12), člana 42 stav 9 Statuta opštine Rožaje ("Sl.list CG - opštinski propisi", br. 9/11), Odluke o građevinskom zemljištu ("Sl. list CG - Opštinski propisi" br. 20/11), i člana 2 Odluke o Budžetu opštine Rožaje za 2016.godinu ("Sl.list CG - Opštinski propisi", br. 4/2016), Skupština opštine Rožaje, na sjednici održanoj dana 30.06.2016.godine, donijela je
+O D L U K U
