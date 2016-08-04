@@ -1,0 +1,7 @@
+Na osnovu člana 82 stav 1 tač. 3 i 8 Ustava Crne Gore i člana 4 stav 1 Zakona o upotrebi jedinica Vojske Crne Gore u međunarodnim snagama i učešću pripadnika civilne zaštite, policije i zaposlenih u organima državne uprave u mirovnim misijama i drugim aktivnostima u inostranstvu ("Službeni list CG", broj 61/08), Skupština Crne Gore 25. saziva, na Desetoj śednici prvog redovnog (proljećnjeg) zasijedanja u 2016. godini, dana 22. jula 2016. godine, donijela je
+O D L U K U O UPUĆIVANJU PRIPADNIKA VOJSKE CRNE GORE U MIROVNU OPERACIJU EVROPSKE UNIJE "EU NAVFOR - ATALANTA"
+1) U mirovnu operaciju Evropske unije "EU NAVFOR - ATALANTA" (eng. European Union Naval Force Operation Atalanta) upućuje se do 16 pripadnika Vojske Crne Gore, sa mogućnošću rotacije.
+2) Savjet za odbranu i bezbjednost utvrdiće pravila angažovanja i nacionalna ograničenja pripadnika Vojske Crne Gore za vrijeme učešća u mirovnoj operaciji Evropske unije "EU NAVFOR - ATALANTA".
+3) Ministarstvo odbrane će izvršiti izbor pripadnika Vojske Crne Gore za upućivanje u operaciju, utvrditi trajanje rotacije - smjene, izvršiti pripremu, obuku i opremanje, pratiti i koordinisati angažovanje u mirovnoj operaciji Evropske unije "EU NAVFOR - ATALANTA" u skladu sa zakonom.
+4) Danom stupanja na snagu ove odluke prestaje da važi Odluka o učešću pripadnika Vojske Crne Gore u mirovnoj operaciji Evropske unije "EU NAVFOR - ATALANTA" ("Službeni list CG", broj 51/09).
+5) Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
