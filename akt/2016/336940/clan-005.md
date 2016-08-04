@@ -1,0 +1,3 @@
+# Član 5
+Prije početka školske godine, a najkasnije do 15. juna, direktori domova su dužni da, u skladu sa aktom o unutrašnjoj organizaciji i sistematizaciji radnih mjesta i aktom o normativima i standardima za sticanje sredstava iz javnih prihoda za ustanove koje realizuju javno važeće obrazovne programe, organu državne uprave nadležnom za poslove prosvjete (u daljem tekstu: Ministarstvo), dostave liste zaposlenih za čijim je radom u potpunosti ili djelimično prestala potreba.
+U postupku sačinjavanja liste zaposlenih iz stava 1 ovog člana, Ministarstvo ostvaruje saradnju sa predstavnicima Sindikata.

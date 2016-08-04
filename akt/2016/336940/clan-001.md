@@ -1,0 +1,2 @@
+# Član 1
+Ovim kolektivnim ugovorom (u daljem tekstu: Ugovor), Samostalni sindikat đačkih i studentskih domova Crne Gore (u daljem tekstu: Sindikat) i Vlada Crne Gore (u daljem tekstu: Vlada) uređuju, u skladu sa zakonom, pojedina prava i obaveze zaposlenih u javnim ustanovama učeničkog i studentskog standarda (u daljem tekstu: dom), prava i obaveze poslodavaca prema zaposlenima, kao i međusobna prava i obaveze ugovornih strana.
