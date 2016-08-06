@@ -1,0 +1,2 @@
+Na osnovu člana 65 Zakona o visokom obrazovanju ("Službeni list CG", br. 44/14 i 47/15), na prijedlog Upravnog odbora Univerziteta Crne Gore, broj 02-1328/1 od 20. maja 2016. godine, Vlada Crne Gore, na sjednici od 17. juna 2016. godine, donijela je
+O D L U K U O BROJU STUDENATA ZA UPIS NA SPECIJALISTIČKE STUDIJE UNIVERZITETA CRNE GORE ZA STUDIJSKU 2016/2017. GODINU KOJI SE FINANSIRAJU IZ BUDŽETA CRNE GORE
