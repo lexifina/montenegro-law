@@ -1,0 +1,2 @@
+Na osnovu člana 4 stav 2, člana 6 i 12 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 12/95), člana 155 stav 1 Zakona o vodama ("Sl. list RCG", broj 27/07 i "Sl. list CG", br. 32/11, 47/11 i 48/15), a u vezi sa članom 6 Zakona o komunalnoj policiji ("Službeni list CG", broj 57/14) i člana 48 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", broj 28/06 i"Sl. list CG - Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada -Podgorice, na sjednici održanoj dana 28. i 29. jula 2016. godine, donijela je -
+O D L U K U
