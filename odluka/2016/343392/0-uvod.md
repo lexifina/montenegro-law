@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list Crne Gore", br. 88/09, 3/10, 38/12, 10/14, 57/14 i 03/16) i člana 48 Statuta Glavnog grada ("Službeni list RCG - Opštinski propisi", broj 28/06 i "Službeni list CG - Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 28. i 29. jula 2016. godine, donijela je -
+ODLUKU
