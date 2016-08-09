@@ -1,0 +1,2 @@
+Na osnovu člana 4 stav 2, člana 6 i 12 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 12/95), a u vezi sa članom 6 Zakona o komunalnoj policiji ("Sl. list CG", broj 57/14) i člana 48 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi", broj 28/06 i"Sl. list CG - Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada Podgorice, na sjednici održanoj dana 28. i 29. jula 2016. godine, donijela je -
+O D L U K U
