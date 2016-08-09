@@ -1,0 +1,2 @@
+Na osnovu člana 14 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Sl.list RCG ", broj 12/95) I člana 48 Statuta Glavnog grada ("Sl.list RCG - Opštinski propisi", broj 28/06 i "Sl.list CG - Opštinski propisi", br. 39/10 i 18/12) i člana 13 stav 1 al.1 i 5 Odluke o osnivanju "Putevi" d.o.o.Podgorica ("Sl.list RCG - Opštinski propisi", broj 50/06) Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 28. i 29. jula 2016. godine, d o n i j e l a je -
+O D L U K U
