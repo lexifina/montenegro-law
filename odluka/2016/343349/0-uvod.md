@@ -1,0 +1,2 @@
+Na osnovu člana 48 stav 1 alineja 7 Statuta Glavnog grada ("Službeni list Republike Crne Gore - Opštinski propisi" , broj 28/06 i "Službeni list crne Gore- Opštinski propisi", br. 39/10 i 18/12) i člana 11 stav 1 alineja 6 Odluke o osnivanju Društva sa ograničenom odgovornošću "Sportski objekti" ("Službeni list Crne Gore-Opštinski propisi", broj 22/13), Skupština Glavnog grada-Podgorice, na sjednici održanoj 28. i 29. jula 2016. godine, donijela je
+ODLUKU
