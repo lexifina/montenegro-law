@@ -1,0 +1,4 @@
+# Član 2
+## Izmjene i dop.DUP-a uredj.naselj. Gusinje ,3,45 ha, ("Sl.list RCG"br.32/2005) <<ARH fak>> Beograd
+Prostornim urbanističkim planom Opštine Plav (u dijelu za Gusinje) ,su date smjernice i mjere za realizaciju plana : smjernice etapnog razvoja ,smjernice za prostornu organizaciju i izradu detaljnih urbanističkih planova (DUP) ,Urbanistički projekata (UP) i lokalnih studija lokacije (LSI) : smjernice za izgradnju na područjima za koja se ne predvidja donošenje detaljnog urbanističkog plana,urbanističkog projekta ili lokalne studije lokacije.
+Smjernicama za izradu i reviziju DUP-ova ,predvidjeno je da se produžava važenje postojećih detaljnih urbanističkih planova,urbanističkih projekata ili lokalnih studija lokacije do donošenja novih ili izmjena postojećih ,u svemu po smjernicama PUP-a.
