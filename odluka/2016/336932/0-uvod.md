@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tač. 3 i 19 Ustava Crne Gore, Amandmana IV stav 1 na Ustav Crne Gore i člana 29 Zakona o državnoj imovini ("Službeni list CG" br. 21/09 i 40/11), Skupština Crne Gore 25. saziva, na Dvanaestoj śednici prvog redovnog (proljećnjeg) zasijedanja u 2016. godini, dana 29. jula 2016. godine, donijela je
+O D L U K U O PRIHVATANJU AKCIONARSKOG UGOVORA IZMEĐU DRŽAVE CRNE GORE I A2A S.P.A.
