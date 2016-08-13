@@ -1,0 +1,2 @@
+Na osnovu člana 37,38,39,40,41 i 42 Zakona o turističkim organizacijama ("Sl list RCG" br. 11/04, 46/07, "Sl list CG" br. 73/10,40/11 i 45/14), člana 4. i 24. Zakona o prekršajima ("Sl. list CG" br 1/11, 6/11, 39/11 i 32/14), i člana 43 Statuta Opštine Ulcinj ("Sl. list CG" - Opštinski propisi br 5/2007, 9/2009 i 16/2011), Skupština opštine Ulcinj na sjednici održanoj dana 18.07.2016 godine, donosi
+ODLUKU
