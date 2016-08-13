@@ -1,0 +1,2 @@
+# Član 2
+Izmjenama Plana obuhvaćene su zone I, J, G, H i F i kat parcele 3144 i 3145 KO Žabljak I izuzev djelova katastarskih parcela br.3595/1, 3595/2 , 3826, 3966, 3967 i 3969/2 KO Žabljak I, koje su u zahvatu plana I koje su obuhvaćene Odlukom o pristupanju izradi izmjena DUP-a Žabljak br.351/16-01-892 od 17.05.2016 godine, Odlukom o izmjeni odluke o pristupanju izradi izmjena DUP-a Žabljak br. 351/16-01-918 od 19.05.2016 godine i Odlukom o pristupanju izradi izmjena DUP-a Žabljak br. 351/16-01-941 od 24.05.2016 godine ukupne površine cca 108,00 ha.
