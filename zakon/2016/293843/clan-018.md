@@ -1,0 +1,3 @@
+# Član 18
+## Mjere u slučaju prekida javnog okupljanja
+Policijski službenik će naređenje o prekidu javnog okupljanja zbog razloga iz člana 17 ovog zakona saopštiti organizatoru ili vođi okupljanja, odnosno učesnicima javnog okupljanja. U slučaju iz stava 1 ovog člana, organizator ili vođa okupljanja je dužan da učesnicima javnog okupljanja odmah saopšti da je okupljanje prekinuto i da zatraži da se učesnici mirno raziđu. Ako organizator, vođa okupljanja ili učesnici javnog okupljanja ne postupe u skladu sa naređenjem iz stava 1 ovog člana, policija će preduzeti mjere radi razilaženja učesnika javnog okupljanja, u skladu sa zakonom.
