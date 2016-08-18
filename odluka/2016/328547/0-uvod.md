@@ -1,0 +1,4 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi (Sl.list RCG, broj 42/03,28/04,75/05 i 13/06 i Sl.list CG, broj 88/09, 3/10, 73/10, 38/12, 10/14, 57/14, 3/16), člana 36 stav 1 tačka 3 Statuta opštine Herceg Novi ("Sl. list RCG - opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, "Sl. list CG - Opštinski propisi", br. 16/09 i 16/11) i člana 4 stav 2 Odluke o građenju, postavljanju i uklanjanju lokalnih objekata od opšteg interesa ("Sl.list CG, opštinski propisi", broj 45/15), Skupština Opštine Herceg Novi na sjednici održanoj dana 18.07.2016.godine, donijela je
+O D L U K U
+o utvrđivanju lokacije za izgradnju lokalnog objekta od opšteg interesa, objekta ruralnog razvoja, turističko-ruralnog
+kompleksa "Klub zdravlja i uživanja" na lokaciji koja se sastoji od katastarske parcele broj 1945/1 K.O. Podi,
