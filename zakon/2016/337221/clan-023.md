@@ -1,0 +1,8 @@
+# Član 23
+## Plan bezbjednosne zaštite luke
+Na osnovu procjene bezbjednosne zaštite luke izrađuje se plan bezbjednosne zaštite luke. Za izradu plana bezbjednosne zaštite luke, koja se sastoji od jednog ili više lučkih područja, odgovorna je Lučka uprava, odnosno pravno lice koje koristi luku u skladu sa zakonom. Plan bezbjednosne zaštite luke izrađuje Ovlašćena organizacija.
+Ovlašćena organizacija koja je izradila procjenu bezbjednosne zaštite luke ne smije da izrađuje plan bezbjednosne zaštite luke.
+Plan bezbjednosne zaštite luke odobrava Ministarstvo.
+Plan bezbjednosne zaštite luke mora da bude zaštićen od neovlašćenog pristupa i otkrivanja. Plan bezbjednosne zaštite luke može da se čuva u elektronskom obliku i u tom slučaju treba da bude zaštićen od neovlašćenog brisanja, uništenja ili izmjena i dopuna.
+Plan bezbjednosne zaštite luke sadrži naročito: opis područja luke sa pristaništima, opis postojećeg bezbjednosnog stanja luke, ekonomska obilježja luke i organizaciono uređenje, mjere zaštite luke od neovlašćenog pristupa, postupke, mjere i aktivnosti za stepene bezbjednosne zaštite 1, 2 i 3, uključujući mjere bezbjednosne zaštite koje se primjenjuju za ukrcavanje putnika i vozila i djelove plana koji se mogu mijenjati bez odobrenja Ministarstva. O izvršenim izmjenama djelova plana koji se mogu mijenjati bez odobrenja Ministarstva, Lučka uprava odnosno pravno lice koje koristi luku u skladu sa zakonom, dužno je da obavijesti Ministarstvo u roku od 15 dana od dana izvršenih izmjena plana.
+Bliži sadržaj i način izrade plana bezbjednosne zaštite luke utvrđuju se propisom Ministarstva.
