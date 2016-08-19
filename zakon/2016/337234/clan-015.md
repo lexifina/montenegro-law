@@ -1,0 +1,3 @@
+# Član 15
+U članu 123 st. 1 i 2 mijenjaju se i glase:
+"Zaključivanjem ugovora o uključivanju svoje interpretacije u filmsku produkciju ili fonogram, smatra se da je interpretator isključivo i neograničeno ustupio filmskom producentu ili proizvođaču fonograma svoja imovinska prava na interpretaciji i na fotografijama nastalim u vezi sa tom interpretacijom, ako ugovorom nije drugačije određeno. Interpretator iz stava 1 ovog člana ima pravo na naknadu od filmskog producenta za svako pojedinačno imovinsko pravo iz stava 1 ovog člana, kao i od proizvođača fonograma za njegovo pravo davanja u zakup."
