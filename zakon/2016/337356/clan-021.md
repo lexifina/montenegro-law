@@ -1,0 +1,6 @@
+# Član 21
+U članu 53 stav 5 riječ "pokretanja" zamjenjuje se riječju "otvaranja".
+Poslije stava 5 dodaje se novi stav koji glasi:
+"(6) Na osnovu rješenja stečajnog sudije, nadležni organ koji vodi odgovarajuće javne knjige ili registre dužan je da izvrši brisanje razlučnih prava iz stava 5 ovog člana." Poslije stava 6 dodaju se dva nova stava koja glase:
+"(8) Razlučni povjerioci koji imaju založno pravo na stvarima ili pravima stečajnog dužnika o kojima se vode javne knjige ili registri, a nemaju novčano potraživanje prema stečajnom dužniku koje je tim založnim pravom obezbijeđeno nijesu stečajni povjerioci i namiruju se samo iz sredstava ostvarenih prodajom založne imovine.
+(9) Razlučni povjerioci iz stava 8 ovog člana dužni su da u roku za podnošenje prijave potraživanja obavijeste sud o založnom pravu uz dostavljanje dokaza o postojanju založnog prava i dokaza o iznosu novčanog potraživanja prema trećem licu koje je tim pravom obezbijeđeno na dan otvaranja stečajnog postupka čime stiču svojstvo stranke. Propuštanje radnje obavještavanja suda sa odgovarajućim dokazima u navedenom roku ima za posljedicu da ti razlučni povjerioci ne mogu ostvarivati svoja založna prava u stečajnom postupku." Dosadašnji stav 6 postaje stav 7.
