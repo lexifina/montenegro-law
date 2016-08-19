@@ -1,0 +1,3 @@
+# Član 14
+Ministarstvo vodi evidenciju o državnom pečatu, pečatima državnih organa i pečatoreznicama.
+Evidencija iz stava 1 ovog člana, sadrži podatke o obavještenjima o potrebi izrade pečata (broj i datum, naziv državnog organa koji je dostavio obavještenje), podatke o zahtjevima za izradu pečata (broj i datum), podatke o izrađenim pečatima (broj i veličina pečata, naziv državnog organa), podatke o uništenim i izgubljenim pečatima (broj i veličina pečata, naziv državnog organa), kao i podatke o pečatoreznicama (naziv i sjedište privrednog društva, ime i prezime odgovornog lica u privrednom društvu, odnosno ime i prezime preduzetnika, broj i datum ovlašćenja).

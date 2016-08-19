@@ -1,0 +1,2 @@
+# Član 1
+Ovim zakonom uređuju se izgled, sadržaj, upotreba i izrada državnog pečata i pečata koje u vršenju poslova iz svoje nadležnosti koriste Predsjednik Crne Gore, Skupština Crne Gore, Vlada Crne Gore, Ustavni sud Crne Gore i njihove službe, Zaštitnik ljudskih prava i sloboda Crne Gore, Centralna banka Crne Gore, Državna revizorska institucija Crne Gore, organi državne uprave, sudovi i Državno tužilaštvo, Sudski savjet, Savjet za odbranu i bezbjednost, Tužilački savjet, kao i drugi organi kad je to propisano posebnim zakonom (u daljem tekstu: državni organ).
