@@ -1,0 +1,8 @@
+# Član 33
+## Rješavanje na osnovu usmene rasprave i na nejavnoj sjednici
+Ako Upravni sud rješava upravni spor na osnovu usmene rasprave, odlučiće na osnovu činjenica koje su utvrđene na usmenoj raspravi i na osnovu činjenica utvrđenih u upravnom postupku.
+Ako Upravni sud na usmenoj raspravi utvrdi da je činjenično stanje drukčije od činjenica utvrđenih u upravnom postupku ili ako nađe da postupak nije pravilno sproveden, što je bilo od uticaja na rješenje upravne stvari, presudom će poništiti osporeni akt, odnosno drugu upravnu aktivnost.
+U slučaju iz stava 2 ovog člana, tuženi javnopravni organ čiji je akt, odnosno druga upravna aktivnost poništen, dužan je da postupi po presudi Upravnog suda i donese novi akt ili preduzme drugu upravnu aktivnost, osim u slučaju kad je Upravni sud sam meritorno odlučio u skladu sa članom 36 ovog zakona.
+Kad odlučuje na nejavnoj sjednici, Upravni sud donosi odluku na osnovu činjeničnog stanja utvrđenog u upravnom postupku.
+Ako Upravni sud na nejavnoj sjednici ocijeni da se spor ne može raspraviti na osnovu činjenica utvrđenih u upravnom postupku zbog toga što u pogledu utvrđenih činjenica postoji protivurječnost u spisima predmeta ili su one u bitnim tačkama nepotpuno utvrđene ili je iz utvrđenih činjenica izveden nepravilan zaključak u pogledu činjeničnog stanja ili ako nađe da postupak nije pravilno sproveden što je bilo od uticaja na rješavanje upravne stvari, presudom će poništiti osporeni akt, odnosno drugu upravnu aktivnost.
+U slučaju iz stava 5 ovog člana, tuženi javnopravni organ dužan je da postupi po presudi Upravnog suda i donese novi akt, odnosno preduzme drugu upravnu aktivnost.
