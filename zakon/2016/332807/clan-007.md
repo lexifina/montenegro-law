@@ -1,0 +1,3 @@
+# Član 7
+U članu 21 stav 2 mijenja se i glasi:
+"Bliži uslovi i način obavljanja poštanskih usluga, kriterijumi za obavljanje poštanskih usluga, kriterijumi za organizaciju poštanskih usluga u posebnim okolnostima i posebnim geografskim uslovima, rokovi za prenos i uručenje poštanskih pošiljaka, dimenzije i način pakovanja poštanskih pošiljaka, kao i gustina pristupnih tačaka poštanske mreže univerzalnog poštanskog operatora, način postupanja sa poštanskim pošiljkama koje je zabranjeno slati jer sadrže zabranjene materije i predmete, način otvaranja i pregledanja poštanskih pošiljki i postupanje sa neuručivim poštanskim pošiljkama, utvrđuju se podzakonskim aktom organa državne uprave nadležnog za poštansku djelatnost (u daljem tekstu: Ministarstvo)."
