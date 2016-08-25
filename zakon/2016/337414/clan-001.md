@@ -1,0 +1,2 @@
+# Član 1
+U Zakonu o centralnom registru stanovništva ("Službeni list RCG", broj 49/07 i "Službeni list CG", broj 41/10) u članu 2 riječi: "državnih organa i drugih korisnika" zamjenjuju se riječima: "državnih organa, organa državne uprave, organa lokalne samouprave i lokalne uprave (u daljem tekstu: organi), kao i privrednih subjekata, pravnih lica, preduzetnika i fizičkih lica koja su zakonom ovlašćena da te podatke koriste (u daljem tekstu: drugi korisnici)."
