@@ -1,0 +1,2 @@
+# Član 30
+Danom stupanja na snagu ove uredbe prestaje da važi Uredba o bližim uslovima, načinu ostvarivanja i visini zarade i drugih primanja lica u službi u Vojsci Crne Gore ("Službeni list CG", broj 28/15) i odredbe Uredbe o bližim uslovima, načinu ostvarivanja i visini naknada troškova i drugih primanja lica u službi u Vojsci Crne Gore ("Službeni list CG", broj 26/15) koje se odnose na naknadu za dežurstvo.

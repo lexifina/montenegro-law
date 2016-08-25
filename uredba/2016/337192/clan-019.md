@@ -1,0 +1,2 @@
+# Član 19
+Dodatak za uništavanje neeksplodiranih ubojnih sredstava pripada profesionalnom vojnom licu koje je postavljeno na formacijsko mjesto za poslove uništavanja neeksplodiranih ubojnih sredstava, kao i profesionalnom vojnom licu postavljenom u organizacionoj jedinici Vojske nadležnoj za poslove pronalaženja, uklanjanja i uništavanja neeksplodiranih ubojnih sredstava (EOD odjeljenje), u iznosu od 125% obračunske vrijednosti koeficijenta.
