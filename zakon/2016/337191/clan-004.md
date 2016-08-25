@@ -1,0 +1,8 @@
+# Član 4
+Član 9 mijenja se i glasi:
+"Notar vrši poslove na svom službenom području, koje obuhvata područje osnovnog suda u kome se nalazi službeno sjedište notara.
+Notarske zapise o pravnim poslovima na osnovu kojih se vrši prenos i uspostavljanje prava vlasništva i drugih stvarnih prava na nepokretnosti sastavlja notar na čijem službenom području se nepokretnost nalazi.
+Ukoliko se nepokretnosti koje su predmet pravnog posla nalaze na službenom području dva ili više notara, notarski akt sastavlja jedan od notara na čijem se službenom području nalazi jedna od nepokretnosti, i to notar kome se stranka prvo obrati.
+Notarske zapise o pravnim poslovima na osnovu kojih se vrši prenos i uspostavljanje prava svojine i drugih stvarnih prava na nepokretnostima u kojim se kao ugovorna strana, odnosno založni povjerilac pojavljuju državni organi, organi državne uprave, organi lokalne samouprave, ustanove i druga pravna lica koja vrše javna ovlašćenja, kao i privredna društva u kojima je država većinski vlasnik kapitala, sastavlja notar sa službenog područja iz stava 2, odnosno stava 3 ovog člana, pri čemu se mora voditi računa o ravnomjernoj zastupljenosti notara u vršenju ovih poslova.
+Ravnomjernu zastupljenost notara iz stava 4 ovog člana, obezbjeđuje Notarska komora Crne Gore (u daljem tekstu: Komora), određivanjem notara koji će sastaviti notarski zapis prema abecednom redu ličnog imena notara.
+Ako za određeno službeno područje nije imenovan notar ili notar sa tog područja mora biti izuzet, ministarstvo nadležno za poslove pravosuđa (u daljem tekstu: ministarstvo) će uz prethodno pribavljeno mišljenje Komore, za obavljanje notarskih poslova na tom području odrediti notara sa najbližeg službenog područja."
