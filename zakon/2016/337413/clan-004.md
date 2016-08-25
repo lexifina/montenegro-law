@@ -1,0 +1,6 @@
+# Član 4
+Član 18 mijenja se i glasi:
+"(1) Na teret rashoda banke u poreske svrhe, priznaje se uvećanje ispravke vrijednosti potraživanja bilansne aktive i rezervisanja za gubitke po vanbilansnim stavkama u iznosu obračunatom na nivou banke, koja su u skladu sa unutrašnjim aktima banke iskazani u bilansu uspjeha na teret rashoda u poreskom periodu, u skladu sa propisima Centralne banke Crne Gore.
+(2) Na teret rashoda društva za osiguranje u poreske svrhe, priznaje se uvećanje indirektnog otpisa prema kategorijama naplativosti potraživanja i tehnička rezervisanja, obračunati i iskazani u bilansu uspjeha na teret rashoda u poreskom periodu, do iznosa utvrđenog zakonom kojim je uređeno osiguranje.
+(3) Rezervisanja od posebnih rizika kod berzansko posredničkih društava, priznaju se kao rashod u obračunatim iznosima, a najviše do iznosa koji je utvrđen propisima kojima su uređene hartije od vrijednosti.
+(4) Rezervisanja po osnovu obnovljivih prirodnih bogatstava, garancija kod prodaje proizvoda i usluga (garantni rok), očekivanih gubitaka po osnovu sudskih sporova (delikatnih ugovora), priznaju se kao rashod u skladu sa propisima kojima je uređeno računovodstvo, a rezervisanja po osnovu otpremnina i jubilarnih nagrada najviše do iznosa utvrđenog propisima o radu."
