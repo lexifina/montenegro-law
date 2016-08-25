@@ -1,0 +1,4 @@
+# Član 22
+## Uslovi za obavljanje komunalnih djelatnosti
+(1) Obavljanje komunalnih djelatnosti može se povjeriti licima iz člana 20 stav 1 ovog zakona koja su registrovana u Centralnom registru privrednih subjekata (u daljem tekstu: CRPS) za obavljanje komunalnih djelatnosti i koja ispunjavaju uslove u pogledu kadra i tehničke opremljenosti za obavljanje komunalne djelatnosti, na način kojim se zadovoljavaju kvalitet komunalnih usluga i tehnički uslovi za komunalnu infrastrukturu, opremu i sredstva u skladu sa čl. 43 i 44 ovog zakona.
+(2) Ispunjenost uslova iz stava 1 ovog člana, osim za regulisane komunalne djelatnosti i komunalne djelatnosti iz člana 3 stav 1 tač. 10, 11 i 13 ovog zakona, propisuje i utvrđuje rješenjem organ državne uprave nadležan za komunalne djelatnosti (u daljem tekstu: Ministarstvo), u skladu sa zakonom.

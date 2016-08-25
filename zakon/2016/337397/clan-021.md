@@ -1,0 +1,14 @@
+# Član 21
+## Povjeravanje obavljanja komunalnih djelatnosti
+(1) Jedinica lokalne samouprave obavljanje komunalnih djelatnosti od opšteg ekonomskog interesa povjerava privrednim društvima iz člana 20 stav 1 ovog zakona ugovorom o povjeravanju obavljanja komunalnih djelatnosti koji se zaključuje nakon sprovedenog postupka po javnom oglasu u skladu sa zakonom kojim se uređuju uslovi, način i postupak javnih nabavki.
+(2) Poslovi investicionog održavanja komunalne infrastrukture ne mogu se povjeriti ugovorom iz stava 1 ovog člana.
+(3) Nadležni organ jedinice lokalne samouprave priprema i sprovodi postupak po javnom oglasu iz stava 1 ovog člana.
+(4) Nadležni organ jedinice lokalne samouprave dužan je da objavi javni oglas iz stava 1 ovog člana najmanje šest mjeseci prije isteka ugovora iz stava 1 ovog člana.
+(5) Prije pokretanja postupka javnog oglašavanja, nadležni organ lokalne uprave priprema:
+- analizu postojećeg tehničkog, finansijskog i organizacionog stanja u komunalnoj djelatnosti za period koji ne može biti kraći od tri godine;
+- pregled očekivanih rezultata povjeravanja obavljanja komunalnih djelatnosti i projekciju potrebnih resursa za ostvarivanje tih rezultata;
+- prikaz načina organizovanja i postupaka koji se u povjeravanju komunalnih djelatnosti sprovode u najmanje tri države članice Evropske unije.
+(6) Jedinica lokalne samouprave može obavljanje komunalne djelatnosti koja nije od opšteg ekonomskog interesa povjeriti vršiocu komunalne djelatnosti iz člana 20 stav 1 alineja 1 ovog zakona ugovorom o povjeravanju obavljanja komunalnih djelatnosti bez sprovođenja postupka po javnom oglasu, uz prethodno urađenu analizu tržišta kojom se dokazuje da tržište ne može da pruži obavljanje te komunalne djelatnosti u utvrđenom obimu i kvalitetu i po prihvatljivoj cijeni.
+(7) U slučaju da analiza tržišta iz stava 6 ovog člana ukaže na postojanje raspoloživog tržišta za obavljanje komunalne djelatnosti, primjenjuju se odredbe st. od 1 do 5 ovog člana.
+(8) Ugovor iz st. 1 i 6 ovog člana zaključuje se na period koji ne može biti kraći od tri ni duži od deset godina.
+(9) Ugovor iz st. 1 i 6 ovog člana sadrži: predmet ugovora; vrijeme na koje se ugovor zaključuje; potreban kadar i opremu za vršenje komunalnih djelatnosti; komunalnu infrastrukturu koja se daje na korišćenje za obavljanje komunalne djelatnosti i uslove i način njenog korišćenja; cijene za pružanje komunalnih usluga, u skladu sa članom 54 ovog zakona; prava i obaveze ugovornih strana; način dostizanja propisanog kvaliteta i efikasnosti u obavljanju komunalnih djelatnosti; način pripreme i dostavljanja godišnjeg programa i izvještaja o obavljanju komunalne djelatnosti; način vršenja kontrole nad sprovođenjem ugovora; razloge za raskid ugovora prije isteka roka na koji je zaključen sa obavezama vršilaca komunalnih djelatnosti u slučaju raskida i druge elemente od značaja za povjeravanje poslova.
