@@ -1,0 +1,3 @@
+# Član 9
+Nijedan notar ne smije sastaviti notarski zapis o pravnom poslu iz člana 9. stav 4. ZON prije nego što mu bude dostavljeno rješenje o rasporedu predmeta iz člana 6. ovih pravila, odnosno rješenje Upravnog odbora iz člana 7. ovih pravila.
+Ukoliko se prije nego što je izvršen određivanje notara po ovim pravilima, nekom notaru stranke obrate direktno sa zahtjevom da sačini notarski zapis o pravnom poslu iz člana 9. stav 4. ZON, notar je dužan da odbije sačinjavanje takvog notarskog zapisa i da uputi stranke da su dužne da postupe po ovim pravilima i da se u skladu sa članom 2. ovih pravila Notarskoj komori Crne Gore podnese zahtjev za određivanje notara koji će sačiniti notarski zapis o takvom pravnom poslu.
