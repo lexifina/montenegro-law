@@ -1,0 +1,3 @@
+# Član 1
+## o zasnivanju stvarne službenosti na određeno vrijeme u korist "MTEL" DOO iz Podgorice
+Opstina Bijelo Polje ustanovljava pravo stvarne službenosti na period od 10 godina, u korist "MTEL" DOO iz Podgorice, radi polaganja optičkog kabla od postojećeg telekomovog okna ispred hotela "Bijela Rada" do postojeceg telekomovog okna na uglu ulice Slobode i Živka Žižića na kat.parceli br.1113 u dužini od 53,90 m i na kat. parceli br.1138/8 u dužini od 28,60m, koje su upisane u Listu nepokretnosti br.410 KO Bijelo Polje, na ime CRNA GORA- SUBJEKT RASPOLAGANJA OPŠTINA BIJELO POLJE sa obimom prava svojine 1/1, a sve to u skladu sa urbanističko tehničkim uslovima br.06-159/7-15 od 21.12.2015 godine.
