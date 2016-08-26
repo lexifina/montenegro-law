@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10, 73/10, 38/12, 10/14, 57/14 i 03/16) i člana 12 stav 4 tačka 5 Statuta Opštine Bijelo Polje (’’Sl. list RCG-Opštinski propisi", broj 25/04, 36/06 i ’’Sl. list CG" broj 18/10, 32/13), Skupština opštine Bijelo Polje na sjednici održanoj 29.07.2016. godine, donijela je
+ODLUKU
