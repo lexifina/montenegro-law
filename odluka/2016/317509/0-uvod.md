@@ -1,0 +1,2 @@
+Na osnovu člana 16 stav 1 Zakona o spomen - obilježjima ("Sl.list CG", br. 40/08 i 40/11), i člana 44 stav 1 tačka 2 Statuta opštine Mojkovac ("Sl.list CG - Opštinski propisi", br. 31/10 i 26/12), u skladu sa Programom podizanja spomen - obilježja br: 05-28 od 11.04.2016. godine i uz saglasnost Ministarstva kulture Crne Gore, Rješenje br. UPI 01-93 od 05.05.2016. godine, Skupština opštine Mojkovac na sjednici održanoj dana 01.08.2016. godine, donijela je
+O D L U K U
