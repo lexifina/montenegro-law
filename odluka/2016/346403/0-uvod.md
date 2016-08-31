@@ -1,0 +1,2 @@
+Na osnovu člana 11 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Rožaje ( "Sl. list CG - Opštinski propisi" br. 06/14), člana 18 Statuta Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Rožaje i člana 42 Statuta opštine Rožaje ("Sl. list Crne Gore - opštinski propisi" broj 9/11 i 31/16), Skupština opštine Rožaje, na sjednici održanoj dana 25.08.2016.godine, d o n i j e l a j e
+O D L U K U
