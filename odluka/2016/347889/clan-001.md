@@ -1,0 +1,3 @@
+# Član 1
+## o davanju ovlašćenja za davanje saglasnosti za izdavanje građevinske dozvole na investitora D.O.O. "Prima car" Cetinje
+Ovlašćuje se Gradonačelnik Prijestonice Cetinje za davanje saglasnosti za izdavanje građevinske dozvole na investitora D.O.O. "Prima car" Cetinje, za realizaciju projekta u skladu sa UTU broj 05-1944/11 od 1.12.2015. godine izdatih od strane Ministarstva održivog razvoja i turizma za izradu tehničke dokumentacije za urbanističku parcelu UP16 u zahvatu Izmjena i dopuna DUP-a UP-a Istorijsko jezgro Cetinje, na kat. parceli br. 3440/1 upisane u listu nepokretnosti br. 1329 K.O. Cetinje I površine 399 m2, svojina Prijestonice Cetinje, korišćenje D.O.O. "Prima car" Cetinje.
