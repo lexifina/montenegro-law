@@ -1,0 +1,2 @@
+Na osnovu člana 63 stav 1 tačka 41 Statuta Prijestonice ("Službeni list CG- Opštinski propisi" br. 19/09 , 37/10, 26/13, 39/14 i 12/16) i čl. 7 i 10 Odluke o organizovanju Javne ustanove Narodna biblioteka i čitaonica "Njegoš" Cetinje ("Sl. CG- Opštinski propisi" br. 18/12) Skupština Prijestonice Cetinje na sjednici održanoj dana 26.08. 2016.godine donijela je
+R J E Š E NJ E O IMENOVANJU SAVJETA JAVNE USTANOVE NARODNA BIBLIOTEKA I ČITAONICA "NJEGOŠ" CETINJE
