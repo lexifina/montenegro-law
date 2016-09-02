@@ -1,0 +1,2 @@
+Na osnovu člana 32 st.1 tačka 16 Zakona o lokalnoj samoupravi (Sl.list RCG 42/03, 28/04, 75/05, 13/06 i Sl.list CG br. 88/09, 3/10, 38/12, 10/14 i 3/16), a u vezi sa članom 12 tačka 8 alineja 2 i članom 31 st.1 tačka 2 Statuta Opštine Kolašin(Sl.list RCG-Opštinski propisi br.25/04, 31/04, 34/06 i Sl.list CG-Opštinski propisi br.41/10),Skupština opštine Kolašin, na sjednici održanoj dana 16.08.2016.godine, donijela je-
+O D L U K U
