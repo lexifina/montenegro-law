@@ -1,0 +1,2 @@
+Na osnovu člana 25 i čl. 31 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13, 33/14), te člana 57 stav 1 tačka 11 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10, 73/10, 38/12, 10/14, 57/14, 3/16), a u vezi člana 1 Odluke o povjeravanju izrade Prostorno-urbanističkog plana Opštine Herceg-Novi ("Sl.list CG- Opštinski propisi"br. 30/16), predsjednik Opštine Herceg Novi donosi
+O D L U K U
