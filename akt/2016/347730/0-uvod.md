@@ -1,0 +1,2 @@
+Na osnovu člana 51 stav 5 Zakona o lokalnoj samoupravi ("Sl. list" RCG 42/03, 28/04, 75/05, 13/06 "Sl.list CG", br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14 i 03/16) i na osnovu člana 46 stav 1 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 32/05, 31/06,14/07, "Sl. list Crne Gore - Opštinski propisi", br. 16/09, 16/11), Skupština Opštine Herceg Novi na sjednici održanoj dana 02.09.2016. godine, donosi
+ZAKLJUČAK
