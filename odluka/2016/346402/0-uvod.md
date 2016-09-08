@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi (''Sl. list RCG'', br. 42/03, 28/04, 75/05, 13/06 i ''Sl. list CG'', br. 88/09, 03/10, 73/10, 38/12 i 10/14), člana 17 stav 2 i člana 23 stav 1 Zakona o zaradama zaposlenih u javnom sektoru (''Sl. list CG'', br. 16/16), Instrukcija Ministarstva finansija i člana 31 stav 1 tačka 2 Statuta opštine Plužine (»Sl.list RCG« - opštinski propisi br. 23/04 i 07/07 i »Sl.list CG« - opštinski propisi br. 1/11, 8/11 i 22/11) Skupština opštine Plužine, uz prethodnu saglasnost Ministarstva finansija br.01-03-8490/1 od 29.06.2016.godine, na sjednici održanoj dana 22.08.2016. godine, d o n i j e l a j e
+O D L U K U
+o zaradama i drugim primanjima lokalnih službenika i namještenika
