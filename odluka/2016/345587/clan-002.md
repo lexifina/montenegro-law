@@ -1,0 +1,2 @@
+# Član 2
+Član 4 mijenja se i glasi:" Za prisustvovanje sjednici Skupštine odbornik ima pravo na naknadu troškova u visini jedne dnevnice za službeno putovanje u zemlji, dok za prisustvo sjednicama radnog tijela odbornik ima pravo na naknadu troškova u visini pola dnevnice za službeno putovanje u zemlji". Nakon stava 1, dodaje se novi stav 2 koji glasi: "Predsjednicima klubova odbornika, i njihovim zamjenicima u slučaju njihovog odsustva, pripada naknada za prisustvovanje sjednicama kolegijuma predsjednika Skupštine u visini jedne dnevnice za službena putovanja u zemlji".
