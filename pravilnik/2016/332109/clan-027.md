@@ -1,0 +1,2 @@
+# Član 27
+Na osnovu utvrđenog stanja šuma, analize i ocjene gazdovanja šumama u predhodnom uređajnom periodu, u zavisnosti od namjene i funkcije šume, u skladu sa planom razvoja šuma, Programom se utvrđuju ciljevi gazdovanja šumama i mjere za realizaciju ciljeva i izrađuju planovi gazdovanja šumama, i to: plan sječa, plan šumsko uzgojnih radova, plan korišćenja nedrvnih šumskih proizvoda, plan izgradnje i održavanja šumskih puteva i drugih objekata, plan zaštite šuma i plan mjera za unaprjeđenje zaštićenih staništa i vrsta Natura 2000.
