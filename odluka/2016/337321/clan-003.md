@@ -1,0 +1,7 @@
+# Član 3
+Vlada Crne Gore, na predlog Ministarstva vanjskih poslova i evropskih integracija, može odobriti oslobađanje dijela sredstava, odnosno odobriti korišćenje dijela imovine čije je raspolaganje, odnosno korišćenje ograničeno primjenom restriktivne mjere, pod uslovom da je nadležni organ iz člana 14 ove odluke obavijestio Komitet o namjeri da odobri pristup dijelu sredstava, odnosno dijelu imovine a Komitet ne donese negativnu odluku u roku od tri radna dana od dana prijema obavještenja i kad utvrdi da je taj dio sredstava, odnosno dio imovine:
+- nužan za zadovoljenje osnovnih potreba uključujući troškove za ishranu, zakup,
+hipoteku, ljekove, liječenje, poreze, premije osiguranja i javne komunalne usluge;
+- namijenjen isključivo za plaćanje razumnih stručnih honorara ili troškova u vezi pružanja pravnih usluga; ili
+- namijenjen isključivo za plaćanje troškova ili naknada za usluge za uobičajeno čuvanje ili održavanje sredstava, odnosno imovine čije je raspolaganje, odnosno korišćenje ograničeno primjenom restriktivne mjere.
+Vlada Crne Gore, na predlog Ministarstva vanjskih poslova i evropskih integracija, može odobriti oslobađanje dijela sredstava, odnosno odobriti korišćenje dijela imovine čije je raspolaganje, odnosno korišćenje ograničeno primjenom restriktivne mjere, kad utvrdi da su ta sredstva ili imovina neophodni za podmirenje vanrednih troškova i pod uslovom da je nadležni organ iz člana 14 ove odluke o tome obavijestio Komitet i da je Komitet odobrio donošenje takve odluke u roku od pet radnih dana od prijema obavještenja.

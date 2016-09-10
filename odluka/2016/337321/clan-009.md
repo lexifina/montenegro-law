@@ -1,0 +1,2 @@
+# Član 9
+U cilju sprovođenja ove odluke, nadležni organi iz člana 14 ove odluke dužni su da osiguraju da se lažni, falsifikovani, ukradeni i izgubljeni pasoši i druge putne isprave što prije proglase nevažećim i da se onemogući njihova upotreba, kao i da te podatke hitno razmijene sa drugim državama članicama Ujedinjenih nacija preko baze podataka Međunarodne kriminalističke policijske organizacije (INTERPOL), kao i da o tome obavijeste Komitet.
