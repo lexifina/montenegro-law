@@ -1,0 +1,4 @@
+# Član 4
+Za PUP OHN neophodna je strateška procjena uticaja na životnu sredinu obzirom da se radi o planskom dokumentu kojim se, u skladu sa planiranim ekonomskim, socijalnim, ekološkim i kulturno-istorijskim razvojem, određuju ciljevi i mjere prostornog i urbanističkog razvoja cjelokupne lokalne smouprave.
+Strateška procjena uticaja na životnu sredinu PUP-a OHN, izradiće se u cilju sagledavanja pitanja zaštite životne sredine i zdravlje ljudi u kontekstu izrade predmetnog plana, odnosno uticaja istog na segmente životne sredine i predloga odgovarajućih mjera za njihovo sprječavanje i ublažavanje, uz obezbjeđenje transparentnog učešća javnosti u dati postupak, što znači, prilikom izrade Izvještaja o SPU nepohodno je razmotriti sva varjantna rješenja i izabrati najpovoljnije sa aspekta zaštite životne sredine.
+O izvršenoj Strateškoj procjeni izradiće se Izvještaj, u skladu sa Zakonom.

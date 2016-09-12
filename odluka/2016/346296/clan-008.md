@@ -1,0 +1,3 @@
+# Član 8
+Nosilac pripremnih poslova za sprovođenje postupka izrade i donošenja Strateške procjene, dužan je obezbijediti
+saradnju između nosioca izrade Izvještaja i obrađivača PUP-a OHN na način što će im omogućiti međusobnu razmjenu svih potrebnih podataka kako bi se obezbijedila istovremena izrada i usklađenost ova dva dokumenta. Istovremeno, nosilac izrade Izvještaja dužan je da sve zaključke do kojih dođe tokom izrade istog, a koji su od suštinskog značaja za koncept planskog rješenja predmetnog planskog dokumenta, dostavi nosiocu pripremnih poslova koji će iste proslijediti obrađivaču ovog plana radi usklađivanja.
