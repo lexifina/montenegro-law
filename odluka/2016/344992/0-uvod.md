@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 1 tačka 3 i člana 33 stav 1 i 2 Statuta Opštine Danilovgrad (,,Sl. list RCG- Opštinski propisi,, br. 30/04 i ,, Sl. list CG- Opštinski propisi,, br. 19/08 i 12/11) , člana 6 i 12 Odluke o obrazovanju radnih tijela Skupštine (,,Sl. list RCG - Opštinski propisi,, br. 46/06 ) i člana 47 stav 2 Poslovnika Skupštine opštine Danilovgrad (,,Sl. list RCG - Opštinski propisi,, br. 46/06 i ,,Sl. list CG- Opštinski propisi,, br. 35/09 i 01/13), Skupština opštine Danilovgrad, na sjednici održanoj 14.09.2016. godine, d o n o s i
+O D L U K U
