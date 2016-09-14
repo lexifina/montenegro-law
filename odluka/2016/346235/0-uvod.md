@@ -1,0 +1,2 @@
+Na osnovu člana 24 i 25 stav 8 i 10 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br.4/98, 17/98, 14/00, 9/01, 41/02, 46/02. i 48/06 i "Službeni list CG", broj 46/11, 14/14, 47/14 i 12/16), i člana 35 Statuta opštine Danilovgrad (,,Sl. list RCG - Opštinski propisi,, br. 30/04 i ,,Sl. list CG - Opštinski propisi,, br. 19/08 i 12/11), Skupština opštine Danilovgrad, na sjednici održanoj 14.09.2016. godine, donijela je
+O D L U K U
