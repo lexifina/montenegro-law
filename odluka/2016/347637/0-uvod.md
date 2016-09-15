@@ -1,0 +1,2 @@
+Na osnovu člana 31 i 32 Zakona o uređenju prostora i izgradnji objekata ("Sl. List CG", br. 51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14), i člana 44 Statuta opštine Mojkovac ("Sl.list CG - Opštinski propisi", br. 31/10), a u skladu sa Jednogodišnjim programom uređenja prostora za 2016. godinu ("Sl. list CG - Opštinski propisi", br. 37/16), Predsjednik opštine Mojkovac, dana 15.09.2016. godine, d o n o s i
+O D L U K U
