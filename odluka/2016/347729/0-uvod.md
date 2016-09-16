@@ -1,0 +1,2 @@
+Na osnovu člana 24. Zakona o izboru odbornika i poslanika ("Sl.list RCG", br. 4/98, 5/98, 17/98, 14/2000, 9/2001, 41/2002 i 46/2002) u vezi sa članom 56 Zakona o izmjenama i dopunama Zakona o izboru odbornika i poslanika ("Sl.list CG" br. 14/2014) i člana 34 tačka 53 Statuta opštine Pljevlja ("Sl.List RCG - Opštinski propisi", broj 37/04 i 30/07 i "Sl. List CG - Opštinski propisi", broj 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici od 09.09. 2016. godine, donijela je:
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O IMENOVANJU OPŠTINSKE IZBORNE KOMISIJE
