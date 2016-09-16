@@ -1,0 +1,2 @@
+Na osnovu člana 24 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 04/98, 05/98, 17/98, 14/00, 18/00, 09/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Službeni list CG", br. 46/11, 14/14, 47/14 i 12/16) i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10) Skupština opštine Budva, na sjednici održanoj dana 12. septembra 2016. godine, donijela je
+ODLUKU O IZMJENI ODLUKE O IMENOVANJU OPŠTINSKE IZBORNE KOMISIJE
