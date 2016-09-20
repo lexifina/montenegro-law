@@ -1,0 +1,2 @@
+Na osnovu člana 20 stav 2 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 05/98, l7/98, l4/2ooo, 18/oo, 09/2ool, 4l/2oo2.,46/2oo2 i45/o4, 48/o6 i "Sl list CG" br. 46/ll . i 14/14. ), i člana 34 Satatuta opštine Plav, ("Sl. list RCG - Opštinski propisi", br. l7/o7. i "Sl. list CG - Opštinski propisi" br. 25/o9 i 38/lo.), Skupština opštine Plav, na sjednici održanoj 20. 09. 2016. godine, donijela je:
+O D L U K U
