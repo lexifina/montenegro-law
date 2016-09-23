@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom utvrđuju se vrste, način dodjele priznanja i novčanih nagrada i visina novčanih nagrada službeniku, odnosno namješteniku (u daljem tekstu: carinski službenik) za izuzetne uspjehe ili doprinos u radu carinske službe i vrste i način dodjele priznanja organizacionim jedinicama u organu uprave nadležnom za poslove carina (u daljem tekstu: Uprava carina), državnim organima, organima državne uprave, organima lokalne samouprave koji u obavljanju svojih poslova sarađuju sa Upravom carina, nosiocima javnih ovlašćenja i pojedincima sa značajnim doprinosom za rad i razvoj carinske službe.
