@@ -1,0 +1,2 @@
+Na osnovu člana 96 Zakona o lokalnoj samoupravi ( "Službeni list RCG", broj 42/03, 28/04, 75/05, 13/06, i " Službeni list CG " broj 88/09, 3/10, 38/12, 10/14, 57/14, 3/06) člana 101 i 102 Statuta Opštine Budva ("Službeni list CG-Opštinski propisi", broj 19/10) i Odluke o mjesnim zajednicama ("Službeni list opštine Budva", broj 9/06 i 1/10) Zbor gradjana mjesne zajednice "Donji Pobori" dana 04. 06. 2016.godine, donio je
+O D L U K U O OSNIVANJU MJESNE ZAJEDNICE DONJI POBORI
