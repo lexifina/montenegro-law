@@ -1,0 +1,2 @@
+# Član 1
+Ovim kolektivnim ugovorom (u daljem tekstu: Ugovor), Sindikalna organizacija Javne ustanove Centar za stručno obrazovanje (u daljem tekstu: Sindikat), direktor Javne ustanove Centar za stručno obrazovanje i Vlada Crne Gore (u daljem tekstu: Vlada) uređuju, u skladu sa zakonom, pojedina prava i obaveze zaposlenih u Javnoj ustanovi Centar za stručno obrazovanje (u daljem tekstu: Centar), prava i obaveze poslodavca prema zaposlenima, kao i međusobna prava i obaveze ugovornih strana.
