@@ -1,0 +1,2 @@
+# Član 2
+Tržišna vrijednost katastarske parcele 561/12 KO Budva prema Izvještaju o procjeni od 17.05.2016.godine koji je uradila Potkomisija Uprave za nekretnine Podgorica. iznosi 235,00 €/m² a vrijednost objekta 10.000,00€ ( ukupno 69.220.00€) Tržišna vrijednost katastarske parcele 1521/18 KO Budva iznosi 332,00 €/m² prema Izvještaju o procjeni 12.05.2016.godine je uradila Potkomisije Uprave za nekretnine Podgorica.

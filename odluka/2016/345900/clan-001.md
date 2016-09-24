@@ -1,0 +1,2 @@
+# Član 1
+Katastarska parcela 561/12 KO Budva sa objektom ukupne površine 252 m² vlasništvo "Montenegropromet"doo Budva razmjenjuju se za dio katastarske parcele 1521/18 KO Budva u površini od 208m² koja je upisana u LN 332 KO Budva vlasništvo Opština Budva , a koja će se ustupiti Ivanković Neđeljku na ime njegovog sukorisničkog dijela u kat.parcelama 561/1, 561/16, 561/20, 561/21, 561/13, 561/14, 561/15, 561/17, 561/18 i 561/19 sve KO Budva u ukupnoj površini od 175m².
