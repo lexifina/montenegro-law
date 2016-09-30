@@ -1,0 +1,2 @@
+Na osnovu člana 45 i 58 stav 1 i 2. Zakona o lokalnoj samoupravi ( "Sl.list RCG" br 42/03, 28/04, 75/05, 13/06, i "Sl. List CG "br. 88/09, 03/10 ,75/10, 38/12, 10/14 i 12/16), Odluke Vlade Crne Gore o raspuštanju Skupštine opštine Gusinje(Sl.list CG broj, 47/16) i člana 35 Statuta opštine Gusinje, (" "Sl. list CG - Opštinski propisi" br. 25/14.),Skupština opštine Gusinje-Odbor povjerenika, na sjednici održanoj 16.09.2o16. godine, donijela je
+O D L U K U
