@@ -1,0 +1,2 @@
+Na osnovu člana 24. i 25. Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 5/98, l7/98, l4/2ooo, 9/ol, 4l/o2.,46/o2 i 48/o6 i "Sl list CG" br. 46/ll , 14/14,47/14 i 12/16. ), Odluke Vlade Crne Gore o raspuštanju Skupštine opštine Gusinje(Sl.list CG broj,47/16) i člana 35 Statuta opštine Gusinje, (" "Sl. list CG - Opštinski propisi" br.25/14.),Skupština opštine Gusinje-Odbor povjerenika, na sjednici održanoj 16.09.2o16. godine, donijela je
+O D L U K U
