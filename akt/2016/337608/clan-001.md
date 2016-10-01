@@ -1,0 +1,2 @@
+# Član 1
+Ovim kolektivnim ugovorom (u daljem tekstu: Ugovor), Sindikalna organizacija Javne ustanove Ispitni centar (u daljem tekstu: Sindikat), direktor Javne ustanove Ispitni centar (u daljem tekstu: direktor) i Vlada Crne Gore (u daljem tekstu: Vlada) uređuju, u skladu sa zakonom, pojedina prava i obaveze zaposlenih u Javnoj ustanovi Ispitni centar (u daljem tekstu: Ispitni centar), prava i obaveze poslodavca prema zaposlenima, kao i međusobna prava i obaveze ugovornih strana.
