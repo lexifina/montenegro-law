@@ -1,0 +1,4 @@
+Na osnovu člana 98 stav 1 Zakona o energetici ("Službeni list CG", broj 5/16), Ministarstvo ekonomije donijelo je
+PRAVILNIK
+O VRSTAMA I KLASIFIKACIJI OBJEKATA ZA PROIZVODNJU ELEKTRIČNE
+ENERGIJE IZ OBNOVLJIVIH IZVORA I VISOKOEFIKASNE KOGENERACIJE
