@@ -1,0 +1,12 @@
+# Član 9
+## Muška carinska uniforma (zimska)
+Kapa je šapka ovalnog oblika, tamno sive boje, prilagođena zimskim uslovima, sastavljena od štitnika i kape koja je ivicom prošivena na pasu kape. Sa spoljašnje strane prošivena je traka crne boje sa stilizovanom pletenicom u zlatnoj ili srebrnoj boji, zavisno od zvanja. Štitnik je izrađen od plastične mase, sa gornje strane presvučen lakiranim politeksom u crnoj boji, zajedno prišiven na pasu kape sa znojnicom. Na prednjem dijelu kape, u sredini, nalazi se službena značka Uprave. U unutrašnjem dijelu šapke nalazi se elastična traka tamno sive boje.
+Sakoj je od zimskog štofa, tamno sive boje, koji prati liniju tijela i blago je ukrojen, sa reverom koji je visoko pozicioniran, jednorednog kopčanja sa tri dugmeta, sa epoletama u boji sakoa. Sa prednje strane u lijevom gornjem dijelu nalazi se ušiveni džep na kojem je našiven službeni znak Uprave carina. Sa lijeve i desne strane u donjem dijelu nalaze se ušiveni džepovi sa poklopcem. Na rukavima, koji su na krajevima blago prorezani nalaze se četiri ušivena dugmeta. Dugmad su usklađena sa bojom odijela. Sirovinski sastav može biti najmanje vuna 80% i 20% metrijala sintetičkog porijekla. Postava je od viskoze.
+Pantalone su od zimskog štofa, u istoj tkanini kao i sako, tamno sive boje, kroja koji prati figuru i liniju noge. Nogavice su bez manžetni. Sa strane pantalona su postavljena dva kosa džepa i dva ušivena džepa pozadi koji se kopčaju dugmadima. Na pojasu se nalaze gajke za kaiš, a u predjelu pasa jedno dugme i skriveni patent zatvarač. Pantalone su postavljene do koljena. Sirovinski sastav može biti vuna najmanje 60% i 40% materijala sintetičkog porijekla. Postava je od viskoze.
+Pulover je blago strukiran, od viskozne trikotaže u tamno sivoj boji, sa V izrezom.
+Košulja dugih rukava, je blago strukirana, u svijetlo sivoj boji, izrađena od prirodnog materijala, sa sirovinskim sastavom od 98% pamuka i 2% elastina radi bolje pokretljivosti. U prednje gornjem dijelu sa lijeve strane nalazi se džep.
+Kravata je od fino izrađene tkanine u sivoj boji.
+Cipele su duboke, kožne, postavljene prirodnom kožom, nepromočive, crne boje, sa debljim đonom od gume koji je prošiven, na pertlanje.
+Čarape su deblje od prirodnog materijala, klasične, crne boje.
+Kaiš za pantalone je od kvalitetne kože, klasičnog oblika, širine od 30mm, crne boje, koji se kopča metalnom kopčom.
+Rukavice su kožne, klasičnog oblika sa prstima, crne boje.
