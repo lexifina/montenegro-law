@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se način notifikacije prisustva štetnih organizama sa Liste I.A., II.A., I.B, ili II.B čije je prisustvo bilo nepoznato na teritoriji Crne Gore i prisustva, odnosno sumnje na štetne organizme koji nijesu utvrđeni listama i sprovođenja fitosanitarnih mjera koje se dostavljaju Evropskoj komisiji u skladu sa Sporazumom o stabilizaciji i pridruživanju između evropskih zajednica i njihovih država članica i Crne Gore.
