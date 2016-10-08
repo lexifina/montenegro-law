@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 1 tačka 1, člana 40 sav 1 i 2 Zakona o lokalnoj samoupravi ("Sl.list Republike Crne Gore" br.42/03 ,28/04, 75/05 i 13/06 i "Sl.list Crne Gore" br.88/09, 3/10,73/10,38/12), člana 34 stav 1 Zakona o državnoj imovini ("Sl.list Crne Gore" br.21/09) i člana 31 stav 1 tačka 9 Statuta Opštine Tivat ("Sl.list Republike Crne Gore-Opštinski propisi"br.40/04 i 26/06 "Sl.list Crne Gore-Opštinski propisi" br.12/11,21/11,03/12)) Skupština opštine Tivat ,na sjednici održanoj dana 20.09.2016. godine donijela je
+O D L U K U
