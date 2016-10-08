@@ -1,0 +1,2 @@
+Na osnovu člana 66 stav 3 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 40/10, 34/11, 40/11, 35/13 i 33/14) i člana 31 Statuta Opštine Tivat ("Službeni list RCG - Opštinski propisi", broj 40/04 i 26/06 i "Službeni list CG - Opštinski propisi", broj 12/11, 21/11 i 03/13), Skupština Opštine Tivat, na sjednici održanoj dana 20.09.2016. godine, donijela je
+O D L U K U
