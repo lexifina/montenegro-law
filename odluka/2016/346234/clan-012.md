@@ -1,0 +1,3 @@
+# Član 12
+Zatvorena bašta je objekat lagane konstrukcije izrađen od metalnih ili drvenih montažno-demontažnih elemenata sa prozirnim zidovima i krovnim pokrivačem koji se postavlja na građevinskom zemljištu uz ugostiteljski objekat u njegovoj funkciji.
+Otvorena bašta je prostor ispred ili pored ugostiteljskog objekta sa pripadajućim mobilijarom (stolovi i stolice), nenatkriven suncobranima, industrijski sklopivom tendom ili lakom konstrukcijom izrađenom od metalnih ili drvenih montažno-demontažnih elemenata sa krovnim pokrivačem izrađenim od lakog materijala, oivičena ukrasnom pokretnom ogradom, koji se postavlja na građevinskom zemljištu uz ugostiteljski objekat u njegovoj funkciji.

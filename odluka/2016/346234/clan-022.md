@@ -1,0 +1,2 @@
+# Član 22
+Odobrenje za postavljanje i građenje privremenih objekata na zemljištu u svojini Opštine Danilovgrad izdaje se najduže sa rokom važenja do 3 (tri) godine za objekte koji se nalaze u Planu privremenih objekata, a za ostale objekte najduže do jedne godine, uzimajući u obzir i objekte na zemljištu u privatnoj svojini, odnosno u oba slučaja do privođenja prostora planiranoj namjeni utvrđenoj planskim dokumentom.

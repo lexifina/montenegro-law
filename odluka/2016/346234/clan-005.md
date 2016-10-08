@@ -1,0 +1,2 @@
+# Član 5
+Pod privremenim objektima koji se mogu izmještati sa jednog mjesta na drugo smatraju se: slobodnostojeće i zidne vitrine, automati i aparati za prodaju osvježavajućih napitaka, sladoleda, dezerata, kestenja i sl, kazani za kukuruz, konzervatori, posebna vozila koja imaju proizvođački atest za obavljanje djelatnosti, brente, gateri, cirkulari, splavovi i drugi slični samostalni objekti i uređaji, štafelaj za slikanje, izložbene police, pultovi za izlaganje i prodaju knjiga, urbani mobilijar (česme, fontane, klupe i sl.) i objekti za naplatu.

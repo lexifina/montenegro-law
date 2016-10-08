@@ -1,0 +1,2 @@
+# Član 3
+Privremeni objekti se mogu postavljati i graditi, pod uslovom da: ne narušavaju postojeće gradske i komunalne funkcije, ne ugrožavaju kolske i pješačke komunikacije, odnosno obezbeđuju prolaz za pješake od najmanje 1.60m, ne devastiraju prostor i ne ugrožavaju životnu sredinu (prekomjerna buka, štetna isparenja, zagađenja, stvaranje opasnog otpada i sl.), kao i da ispunjavaju ostale uslove definisane Planom postavljanja privremenih objekata.
