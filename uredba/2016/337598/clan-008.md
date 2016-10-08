@@ -1,0 +1,2 @@
+# Član 8
+Zvanje nadzornik zatvorske policije može steći lice koje ima V nivo kvalifikacije obrazovanja, najmanje jednu godinu radnog iskustva na poslovima obezbjeđenja pritvorenih i osuđenih lica ili najmanje dvije godine radnog iskustva u policijskom zvanju ili najmanje tri godine radnog iskustva, položen stručni ispit za rad u državnim organima i drugi stručni ispit u oblasti obezbjeđenja pritvorenih i osuđenih lica.

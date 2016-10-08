@@ -1,0 +1,2 @@
+# Član 5
+Zvanje zapovjednik zatvorske policije može steći lice koje ima VII1 nivo kvalifikacije obrazovanja, najmanje tri godine radnog iskustva u Zavodu ili policijskom zvanju ili najmanje pet godina radnog iskustva, od čega najmanje tri godine na poslovima rukovođenja ili drugim poslovima koji zahtijevaju samostalnost u radu, položen stručni ispit za rad u državnim organima i drugi stručni ispit u oblasti obezbjeđenja pritvorenih i osuđenih lica.

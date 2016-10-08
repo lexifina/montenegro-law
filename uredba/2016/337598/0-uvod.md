@@ -1,0 +1,2 @@
+Na osnovu člana 173 stav 2 Zakona o izvršenju kazni zatvora, novčane kazne i mjera bezbjednosti ("Službeni list CG", broj 36/15) i člana 22 stav 4 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", broj 16/16), Vlada Crne Gore, na sjednici od 1. septembra 2016. godine, donijela je
+UREDBU O ZVANJIMA, USLOVIMA ZA STICANJE ZVANJA I OZNAKAMA ZVANJA SLUŽBENIKA OBEZBJEĐENJA U ZAVODU ZA IZVRŠENJE KRIVIČNIH SANKCIJA
