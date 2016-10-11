@@ -1,0 +1,3 @@
+# Član 5
+Prilikom izraade Strateške procjene biće razmatrani uslovi i mjere zaštite vazduha, mjere zaštite površinskih i podzemnih voda, mjere zaštite od buke, zaštita zemljišta, zaštita predjela, flore i faune i očuvanje staništa i biodiverziteta, zaštita prirodnih i kulturnih vrijednosti, mjere zaštite u slučaju akcidentnih situacija, uticaji na zdravlje ljudi, kao i sva druga pitanja i problemi koji se ocjene kao značajni za predmetno područje.
+Postupak strateške procjene uticaja na životnu sredinu mora biti pokrenut u isto vrijeme kad i pripremni poslovi na izradi LSL, na način da strateška procjena bude integrisana u LSL i da je usklađema sa podacima i analizom.
