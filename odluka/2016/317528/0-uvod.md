@@ -1,0 +1,2 @@
+Na osnovu člana 5, 10 i 13a Zakona o strateškoj procjeni uticaja na životnu sredinu (''Sl.list RCG'', br. 80/05 i "Sl. List CG", br. 73/10, 40/11 i 59/11) i člana 18 Odluke o organizaciji i načinu rada lokalne uprave ("Službeni list CG" - opštinski propisi, br. 7/13 i 8/13) Sekretarijat za uređenje prostora i održivi razvoj opštine Mojkovac, d o n o s i
+O D L U K U O IZRADI STRATEŠKE PROCJENE UTICAJA NA ŽIVOTNU SREDINU
