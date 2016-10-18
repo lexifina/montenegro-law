@@ -1,0 +1,2 @@
+# Član 33
+Predsjednik reprezentativnog sindikata kod poslodavca za vrijeme obavljanja sindikalnih aktivnosti i šest mjeseci nakon prestanka tih aktivnosti, ne može biti pozvan na odgovornost u vezi sa obavljanjem sindikalnih aktivnosti, proglašen kao zaposleni za čijim radom je prestala potreba, raspoređen na drugo radno mjesto kod istog ili drugog poslodavca bez svog pristanka ili na drugi način doveden u nepovoljniji materijalni i profesionalni položaj, ukoliko postupa u skladu sa zakonom i kolektivnim ugovorom.
