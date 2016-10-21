@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 23 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 042/03, 028/04, 075/05, 013/06, Službeni list CG", br. 088/09, 003/10, 073/10, 038/12, 010/14, 057/14, 003/16), člana 17 Zakona o državnoj imovini( "Sl.list CG" br. 21/09 i 40/11) i člana 36 satv 1 tačka 40 Statuta Opštine Herceg Novi ("Sl.list RCG - Opštinski propisi" br. 15/04, 32/05, 31/06, 14/07 i "Sl.list CG-Opštinski propisi br. 16/09 i 16/11), Skupština opštine Herceg Novi na sjednici održanoj 26.09.2016.godine, donijela je
+O D L U K U
