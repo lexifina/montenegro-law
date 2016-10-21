@@ -1,0 +1,2 @@
+# Član 1
+Ovim kolektivnim ugovorom (u daljem tekstu: Ugovor), Sindikalna organizacija Javne ustanove Zavod za udžbenike i nastavna sredstva (u daljem tekstu: Sindikat), direktor Javne ustanove Zavod za udžbenike i nastavna sredstva i Vlada Crne Gore (u daljem tekstu: Vlada) uređuju, u skladu sa zakonom i Opštim kolektivnim ugovorom, pojedina prava i obaveze zaposlenih u Javnoj ustanovi Zavod za udžbenike i nastavna sredstva (u daljem tekstu: Zavod), prava i obaveze poslodavca prema zaposlenima, kao i međusobna prava i obaveze ugovornih strana.

@@ -1,0 +1,23 @@
+# Član 36
+Pored Opštim kolektivnim ugovorom propisanih, teže povrede radne obaveze su:
+- falsifikovanje isprava usljed kojih je nastupila šteta po Zavod;
+- gubljenje povjerljive dokumentacije i drugih materijala;
+- zloupotreba položaja ili prekoračenje datog ovlašćenja koje je prouzrokovalo teže posljedice za Zavod i zaposlene;
+- davanje neistinitih podataka ili falsifikovanje ličnih dokumenata zaposlenog prilikom zasnivanja radnog odnosa sa Zavodom;
+- netačno evidentiranje rada u namjeri da sebi ili drugom zaposlenom obezbijedi povoljnije učešće na povećanje osnovne zarade po osnovu rezultata rada;
+- zloupotreba radne obaveze u namjeri da se za sebe ili drugog pribavi imovinska korist ili drugom nanese šteta;
+- neovlašćeno davanje informacija drugim licima ili javnosti u vezi finansijskog stanja kod Zavoda;
+- pronevjera ili krađa imovine Zavoda;
+- direktno ili indirektno neprijavljivanje štete nastale u Zavodu, kao i prikrivanje oštećenja ili uništenja imovine Zavoda, čija vrijednost prelazi šest minimalnih zarada;
+- nepreduzimanje potrebnih mjera za obezbjeđivanje imovine Zavoda, usljed čega je došlo do znatne materijalne štete;
+- neprijavljivanje ili neblagovremeno prijavljivanje kvarova na uređajima i drugim sredstvima Zavoda;
+- dolaženje na posao pod dejstvom alkohola ili opojnih droga, odnosno opijanje ili korišćenje opojnih droga u toku rada;
+- neopravdano izostajanje sa posla tri radna dana uzastopno, odnosno sedam radnih dana sa prekidima u roku od godine;
+- samovoljno napuštanje radnog mjesta;
+- izricanje novčane kazne za povredu radnih obaveza uzastopno dva ili više puta u periodu od godinu dana;
+- sprječavanje i ometanje rada inspektora, odnosno neobezbjeđivanje traženih podataka i dokumenata u postupku inspekcijske kontrole;
+- ometanje funkcije kontrole koju direktor organizuje preko zaposlenog sa posebnim ovlašćenjima i odgovornostima;
+- namjerno ometanje jednog ili više zaposlenih u procesu rada, čime se izrazito otežava izvršavanje radnih obaveza što prouzrokuje teže posljedice za Zavod i zaposlene;
+- nepostupanje po odluci o privremenom raspoređivanju na druge poslove i radne zadatke;
+- pomaganje, podstrekivanje, direktno ili indirektno omogućavanje nastanka štete Zavodu; i
+- izazivanje nereda u prostorijama Zavoda.
