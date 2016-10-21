@@ -1,0 +1,4 @@
+# Član 50
+Ustanova obezbjeđuje da se sredstva koja zaposleni koji su članovi Sindikata izdvajaju za sindikalnu članarinu, od zarade odnosno naknade zarade, uplaćuju na račun Sindikata, u skladu sa aktima Sindikata.
+Ustanova je dužna da dva puta godišnje, na zahtjev Sindikata, dostavi ažurirani spisak zaposlenih-članova Sindikata kojima je, shodno aktima iz stava 1 ovog člana, izvršio obustavu sindikalne članarine.
+Postupak rješavanja individualnih radnih sporova koji nastaju u ostvarivanju prava zaposlenog iz rada i po osnovu rada, kao i kolektivnih radnih sporova koji nastaju u postupku zaključivanja, pri- mjene, izmjene i dopune ovog Ugovora i ostvarivanja prava na sindikalno organizovanje, mogu se povjeriti miritelju, odnosno arbitru, u skladu sa zakonom kojim se uređuje mirno rješavanje radnih sporova.

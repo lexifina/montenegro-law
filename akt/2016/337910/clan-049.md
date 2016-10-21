@@ -1,0 +1,3 @@
+# Član 49
+Predstavnik Sindikata, za vrijeme obavljanja sindikalnih aktivnosti i šest mjeseci nakon obavljanja istih, ne može biti pozvan na odgovornost u vezi sa njihovim obavljanjem, proglašen kao zaposleni za čijim radom je prestala potreba, raspoređen na drugo radno mjesto kod istog ili drugog poslodavca ili na drugi način doveden u nepovoljniji položaj, ukoliko postupa u skladu sa zakonom i ovim Ugovorom.
+Predstavnik Sindikata koji sindikalnu aktivnost obavlja puno radno vrijeme (profesionalno), na osnovu sporazuma između potpisnika ovog Ugovora, ima pravo da se po prestanku sindikalne funkcije vrati na radno mjesto koje je obavljao prije odlaska na funkciju, a ukoliko to radno mjesto ne postoji na drugo radno mjesto koje odgovara njegovoj stručnoj spremi.

@@ -1,0 +1,2 @@
+# Član 1
+Ovim kolektivnim ugovorom (u daljem tekstu: Ugovor), Sindikalna organizacija Javne ustanove Viša stručna škola "Policijska akademija" (u daljem tekstu: Sindikat), direktor Javne ustanove Viša stručna škola "Policijska akademija" i Vlada Crne Gore (u daljem tekstu: Vlada) uređuju, u skladu sa zakonom i Opštim kolektivnim ugovorom, pojedina prava i obaveze zaposlenih u Javnoj ustanovi Viša stručna škola "Policijska akademija" (u daljem tekstu: Ustanova), prava i obaveze poslodavca prema zaposlenima, kao i međusobna prava i obaveze ugovornih strana.
