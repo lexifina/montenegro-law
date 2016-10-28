@@ -1,0 +1,3 @@
+# Član 60
+## Označavanje bespilotnih vazduhoplova i vazduhoplovnih modela čija operativna masa je veća od 20 kg i ne prelazi 150 kg
+Bespilotni vazduhoplovi i vazduhoplovni modeli čija je operativna masa veća od 20 kg i ne prelazi 150 kg, osim propisanih oznaka, na vidljivom mjestu na spoljašnjoj strani vazduhoplova, moraju imati, najmanje sa dvije strane, natpis: "VAZDUHOPLOV BEZ POSADE - UNMANNED AIRCRAFT" ispisan velikim latiničnim slovima visine najmanje 50 mm, u boji koja je u jasnom kontrastu sa bojom pozadine i natpis "UPOZORENJE! OPERATOR VAZDUHOPLOVA MOŽDA NIJE SVJESTAN VAŠE PRISUTNOSTI" "WARNING! AIRCRAFT OPERATOR MIGHT NOT BE AWARE OF YOUR PRESENCE" ispisan velikim latiničnim slovima visine najmanje 20 mm, bijele boje na crvenoj podlozi.
