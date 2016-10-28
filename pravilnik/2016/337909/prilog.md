@@ -1,0 +1,82 @@
+OBRAZAC ZAHTJEVA ZA NAKNADU ŠTETE ŽRTVAMA KRIVIČNIH DJELA NASILJA
+CRNA GORA MINISTARSTVO PRAVDE Broj:_______________ U Podgorici, dana _____ 20__. godine
+Na osnovu člana 23 stav 2 Zakona o naknadi štete žrtvama krivičnih djela nasilja ("Službeni list CG", broj 35/15), podnosim
+ZAHTJEV ZA NAKNADU ŠTETE
+IME _________________________________________________________________________________________ PREZIME ____________________________________________________________________________________ Djevojačko prezime___________________________ Prezime i očevo ime _______________________________ Prezime, ime i djevojačko prezime majke ___________________________________________________________ Dan, mjesec i godina rođenja______________________________, mjesto rođenja___________________________ država rođenja______________________________ Pol _______________ Državljanstvo_____________________________ Prebivalište/boravište____________________________________________________________________________ (mjesto, adresa, opština i država) Zanimanje i zvanje______________________________________________________________________________ Radno mjesto i adresa poslodavca__________________________________________________________________ Broj lične karte, odnosno drugog dokumenta na osnovu kojeg se može utvrditi identitet podnosioca zahtjeva u skladu sa propisima države čiji je državljanin ________________________________________________________ Broj telefona ili e-mail adresa _____________________________________________________________________
+AKO PODNOSILAC ZAHTJEVA NIJE NEPOSREDNA ŽRTVA:
+Ime i prezime zakonskog zastupnika podnosioca zahtjeva (ukoliko izdržavano lice nije punoljetno ili nije poslovno sposobno)_________________________________________________________________________________ Ime i prezime preminule žrtve _________________________________________________________________ Datum smrti žrtve __________________________________________________________________________ Odnos
+srodstva
+podnosioca
+zahtjeva
+sa
+neposrednom
+žrtvom
+krivičnog
+djela
+nasilja _________________________________________________________________________________________ Da
+li
+podnosilac
+zahtjeva
+ostvaruje
+pravo
+na
+porodičnu
+penziju
+po
+preminuloj
+žrtvi _________________________________________________________________________________________
+OPIS KRIVIČNOG DJELA NASILJA:
+Ime i prezime izvršioca krivičnog djela nasilja (ako je poznato) _____________________________________________________________________________________________ Datum i mjesto izvršenja krivičnog djela nasilja ______________________________________________________ Okolnosti
+izvršenja
+krivičnog
+djela
+nasilja:
+okolnosti
+koje
+su
+prethodile
+krivičnom djelu___________________________________________________________ okolnosti i način izvršenja krivičnog djela____________________________________________________________ postupanje neposredno nakon izvrsenje krivičnog djela_________________________________________________________________________
+DATUM
+kad
+je
+prijavljeno
+izvršenje
+krivičnog
+djela
+nasilja
+policiji
+odnosno
+državnom tužilaštvu___________________________________________________________________________________ OPIS POSLJEDICA krivičnog djela nasilja_________________________________________________________ ___________________________________________________________________________________________ ___________________________________________________________________________________________ ___________________________________________________________________________________________
+IZJAVA o tome da li je žrtvi poznato da li se protiv učinioca krivičnog djela nasilja vodi krivični postupak, pred kojim državnim
+tužilaštvom,
+odnosno
+sudom
+i
+pod
+kojim
+poslovnim
+brojem predmeta__________________________________________________________________________________
+IZJAVA O VRSTI I VISINI NAKNADA, odnosno drugih primanja koje je žrtva ostvarila po drugim pravnim osnovima___________________________________________________________________________________ ___________________________________________________________________________________________
+VRSTA I VISINA NAKNADE KOJU ŽRTVA ZAHTIJEVA:
+Naknada izgubljene zarade______________________________________________________________________ Naknada troškova zdravstvene zaštite______________________________________________________________ Naknada uobičajenih troškova sahrane____________________________________________________________ Naknada zbog gubitka zakonskog izdržavanja_______________________________________________________
+Datum: ______________________
+______________________________ Potpis podnosioca zahtjeva
+Prilog:
+-
+dokaz o državljanstvu ili stalnom boravku;
+-
+potvrda policije ili državnog tužilaštva da je krivično djelo nasilja prijavljeno;
+-
+medicinska dokumentacija iz koje proizlazi da je žrtva pretrpjela teške tjelesne povrede ili teško narušenje
+fizičkog i psihičkog zdravlja;
+-
+dokaz o nesposobnosti za rad u smislu propisa o penzijskom i invalidskom osiguranju;
+-
+dokaz o plaćenim troškovima sahrane;
+-
+izvod iz matičnog registra umrlih, ako je žrtva umrla zbog posljedica krivičnog djela nasilja;
+-
+potvrda o ostvarivanju naknada, odnosno drugih primanja koje je žrtva ostvarila po drugim pravnim osnovima;
+-
+druge isprave kojima se dokazuje ispunjenje uslova za ostvarivanje naknade, a kojima žrtva raspolaže.
+Napomena: U slučaju da je podnosilac u zahtjevu naveo lažne podatke ili je propustio da navede činjenice koje utiču na ostvarivanje prava na naknadu štete ili je utvrđeno da u konkretnom slučaju nema krivičnog djela nakon što podnosiocu zahtjeva bude isplaćena naknada, u skladu sa čl. 17 i 37 Zakona o naknadi štete žrtvama krivičnih djela nasilja ("Službeni list CG", broj 35/15) podnosilac zahtjeva je dužan da Crnoj Gori vrati isplaćeni iznos naknade uvećan za troškove postupka.
