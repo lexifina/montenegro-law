@@ -1,0 +1,2 @@
+# Član 3
+Međusobna prava i obaveze Opštine Žabljak i Bošković Jovana i Vujinović Bogoslava urediće se bliže posebnim ugovorom na način što će se izvršiti razmjena katastarske parcele broj 3690/20 površine 8 m2 za katastarske parcele broj 3690/21 površine 10 m2 i 3690/22 površine 2 m2 upisane u listu nepokretnosti broj 1415 KO Žabljak I na Bošković Jovana i Vujinović Bogoslava, kao sukorisnike s tim što imenovanima pripada naknada za 4 m2 građevinskog zemljišta za koliko je površina katastarskih parcela broj 3690/21 i 3690/22 veća od površine katastarske parcele broj 3690/20.
