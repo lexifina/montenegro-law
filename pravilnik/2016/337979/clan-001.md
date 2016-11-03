@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se način i postupak sačinjavanja i vođenja Liste čekanja i dostavljanja spiskova lica kod kojih je utvrđeno da je presađivanje ljudskih organa (u daljem tekstu: organi) jedini način liječenja organu državne uprave nadležnom za poslove zdravlja (u daljem tekstu: Ministarstvo), kriterijumi za utvrđivanje prioriteta za dodjeljivanje dobijenih organa, kao i druga pitanja od značaja za vođenje Liste čekanja.
