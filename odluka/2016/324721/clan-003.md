@@ -1,0 +1,2 @@
+# Član 3
+Međusobna prava i obaveze Opštine Žabljak i Vuković Ruže urediće se posebnim ugovorom na način što će se izvršiti razmjena katastarskih parcela broj 3986/7 površine 4 m2 i 3986/8 površine 19 m2 za katastarsku parcelu broj 3846/8 površine 24 m2 upisanoj u listu nepokretnosti broj 104 KO Žabljak I na Vuković Ružu s tim što imenovanoj pripada naknada za 1 m2 građevinskog zemljišta za koliko je površina katastarske parcele broj 3846/8 veće od površine katastarskih parcela broj 3986/7 i 3986/8.
