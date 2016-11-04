@@ -1,0 +1,2 @@
+Na osnovu člana 45 i 58 stav 1 i 2 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09, 3/10, 38/12, 10/14 i 3/16) i člana 38 Statuta opštine Žabljak ("Sl.list RCG-opštinski propisi", br. 9/05, 23/07 i "Sl.list CG-opštinski propisi", br. 3/11 i 7/14), Skupština opštine Žabljak na sjednici održanoj dana 03.11.2016.godine, d o n i j e l a je
+O D L U K U
