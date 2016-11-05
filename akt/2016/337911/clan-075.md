@@ -1,0 +1,2 @@
+# Član 75
+Predstavnik sindikata na odgovarajućem nivou ima pravo da, radi obavljanja sindikalnih aktivnosti, odsustvuje sa rada uz naknadu zarade, povodom prisustvovanja sindikalnim sastancima, seminarima, sindikalnoj edukaciji, kursevima, kongresima i konferencijama u zemlji i inostranstvu, u trajanju od 20 sati mjesečno, s tim što je obavezan da blagovremeno informiše poslodavca, najmanje tri dana prije odsustva.

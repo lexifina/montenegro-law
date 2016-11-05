@@ -1,0 +1,2 @@
+# Član 76
+Predstavnik sindikata na odgovarajućem nivou za vrijeme obavljanja sindikalnih aktivnosti i šest mjeseci nakon obavljanja sindikalnih aktivnosti ne može biti pozvan na odgovornost u vezi sa obavljanjem sindikalnih aktivnosti, proglašen kao zaposleni za čijim radom je prestala potreba, raspoređen na drugo radno mjesto kod istog ili drugog poslodavca ili na drugi način doveden u nepovoljniji položaj ukoliko postupa u skladu sa zakonom i ovim Ugovorom.
