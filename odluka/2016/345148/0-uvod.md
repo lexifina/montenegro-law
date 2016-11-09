@@ -1,0 +1,2 @@
+Na osnovu člana 117 Stav 2 Zakona o uređenju prostora i izgradnji oobjekata ("Sl. List CG", br. 51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14), i člana 44 Statuta opštine Mojkovac ("Sl.list CG -opštinski propisi", br. 31/10 i 26/12), a u skladu sa Jednogodišnji program uređenja prostora za 2016. godinu ("Sl.list CG-opštinski propisi", br. 37/16) i Odlukom o postavljanju i izgradnji montažnih objekata privremenog karaktera na teritoriji Opštine Mojkovac ("Sl. list CG-opštinski propisi", br. 14/10), Predsjednik opštine Mojkovac, dana 09.11.2016. godine, donosi:
+O D L U K U
