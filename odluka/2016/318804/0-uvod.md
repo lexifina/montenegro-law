@@ -1,0 +1,2 @@
+Na osnovu čl. 15 i 50 stav 6 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14 i 56/14), člana 11 Zakona o Budžetu Crne Gore za 2016. godinu ("Službeni list CG", broj 79/15) i čl. 25 i 33 Zakona o hartijama od vrijednosti ("Službeni list RCG", br. 59/00, 43/05 i 28/06 i "Službeni list CG", broj 6/13), Vlada je, na osnovu člana 10 Uredbe o Vladi Crne Gore ("Službeni list CG", broj 80/08), bez održavanja sjednice, na osnovu pribavljenih saglasnosti većine članova Vlade, 4. novembra 2016. godine, donijela
+ODLUKU O EMISIJI DRŽAVNIH OBVEZNICA
