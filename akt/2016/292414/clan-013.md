@@ -1,0 +1,4 @@
+# Član 13
+(1) Ako nadležni mrežni operator u kontinuitetu od tri i više mjeseci nije u mogućnosti da pristupi mjernom mjestu kupca i izvrši mjerenje utrošene električne energije, snabdjevač ima pravo da kao osnov za obračun koristi vrijednosti ostvarene u istom periodu prethodne godine, uvažavajući porast potrošnje električne energije za kategoriju potrošnje kojoj kupac pripada.
+(2) U slučaju iz stava 1 ovog člana, kada se radi o novom kupcu kod koga nije moguće kao osnov za obračun utrošene električne energije koristiti energetske vrijednosti ostvarene u istom periodu prethodne godine, kao osnov za obračun se koriste energetske vrijednosti utvrđene ugovorom o snabdijevanju električnom energijom.
+(3) U svim slučajevima propisanim ovim opštim uslovima kada se obračun vrši na osnovu procijenjenog utroška električne energije, snabdjevač sačinjava novi obračun sa odgovarajućim poravnanjem, na osnovu izmjerenih veličina, na kraju sljedećeg obračunskog perioda.

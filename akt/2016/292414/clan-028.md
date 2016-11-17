@@ -1,0 +1,8 @@
+# Član 28
+(1) Privremeni objekti su objekti privremenog karaktera koji posjeduju odobrenje nadležnog organa o njihovom postavljanju, kao što su ljetnje bašte, pokretne tezge, pokretni cirkusi, ringišpili i drugi objekti za zabavu, reportažna kola televizije, kamp prikolice, montažne bine za manifestacije i sl.
+(2) Kupci koji zaključe ugovor o priključenju sa operatorom distributivnog sistema za privremeni objekat, stiču pravo da zaključe privremeni ugovor o snabdijevanju električnom energijom, ako izvrše avansnu uplatu ili pribave bankarsku garanciju, u iznosu procijenjene tromjesečne potrošnje obračunate po važećim tarifnim stavovima.
+(3) Ako je ugovor o priključenju za privremeni objekat zaključen na period kraći od tri mjeseca, snabdjevač zahtijeva avansnu uplatu ili dostavljanje bankarske garancije u iznosu procijenjene potrošnje električne energije u periodu važenja ugovora o priključenju, obračunatu po važećim tarifnim stavovima.
+(4) Procjenu potrošnje iz st. 2 i 3 ovog člana vrši snabdjevač, na osnovu potrošnje objekata istog ili sličnog tipa za isti vremenski period iz prethodne godine.
+(5) Snabdjevač i kupac iz st. 2 i 3 ovog člana zaključuju ugovor o snabdijevanju na period na koji je zaključen ugovor o priključenju.
+(6) Obavještenje o prestanku snabdijevanja, snabdjevač dostavlja kupcu i nadležnom mrežnom operatoru osam dana prije isteka ugovora o snabdijevanju.
+(7) Na dan isteka ugovora o snabdijevanju nadležni mrežni operator privremeni objekat kojem je prestalo snabdijevanje, isključuje sa mreže, očitava mjerno mjesto i očitano stanje dostavlja snabdjevaču koji vrši konačni obračun utrošene električne energije.

@@ -1,0 +1,4 @@
+# Član 12
+(1) Ako se očitavanje utrošene električne energije za prethodni mjesec ne izvrši u rokovima utvrđenim pravilima kojima se uređuje mjerenje u distributivnom sistemu, obračun utrošene električne energije vrši se zbirno za dva mjeseca, ako u periodu između dva očitavanja nije bilo promjene cijene električne energije.
+(2) U slučaju iz stava 1 ovog člana, ako je u periodu između dva očitavanja došlo do promjene cijene električne energije obračun se vrši primjenom stare cijene na količinu utrošene električne energije do dana promjene, od kada se primjenjuje nova cijena na količinu električne energije utrošenu nakon promjene.
+(3) Količina električne energije utrošena prije, odnosno od dana promjene cijene, utvrđuje se svođenjem ukupne količine energije srazmjerno trajanju perioda do i nakon promjene cijene.
