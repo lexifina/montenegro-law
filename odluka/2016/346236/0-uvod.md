@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09, 38/12 i 10/14), člana 58 stav 1 tačka 25 Statuta Opštine Plav ("Sl. list RCG - Opštinski propisi", br. 17/07, "Sl. list Crne Gore-Opštinski propisi", br. 25/09, 38/10), a u vezi sa članom 125 stav 1 i članom 166 b Zakona o državnim službenicima i namještenicima ("Sl. list Crne Gore", br. 39/11, 66/12 i 34/14), Predsjednik Opštine Plav, donosi
+O D L U K U
