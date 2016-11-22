@@ -1,0 +1,2 @@
+Na osnovu člana 117 stav 3 Zakona o uređenju prostora i izgradnji objekata objekata ("Sl.list CG" broj 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14), člana 58 stav 1 Zakona o lokalnoj samoupravi ("Sl.list RCG" broj 42/03, 28/04, 75/05, 13/06 i 88/09, 13/10, 73/10, 38/12, 10/14, 57/14 ) i člana 60 stav 1 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", broj 15/04, 32/05, 31/06, 14/07,"Sl. list CG o.p" broj 16/09 i 16/11), Predsjednica Opštine Herceg Novi, donosi
+ODLUKU
