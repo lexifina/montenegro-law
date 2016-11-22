@@ -1,0 +1,3 @@
+# Član 4
+Ulice sa jednosmjernim saobraćajem su: "Luke Tomanovića", "Palih boraca", "Trg Dara Petkovića" (od ulice "Palih boraca" do izlaza na ulicu "II Dalmatinske brigade"), "21. Novembra" (od ul. "M.Tita" do ul. "Karpoška"), "II Dalmatinske brigade" (od ul."Palih Boraca" do jadranske magistrale), "Karpoška", "Sremsko Karlovačka", "Njegoševa" ( Od ul. "Luke Tomanovića" do ul. "21. Novembra"), "Istarska" ( od ul. "Njegoševe" do ul. "Đačke"), "Ribarski put" (od raskrsnice sa ul. "21 Novembra" iz pravca Pina do raskrsnice sa "Šetalištem Iva Vizina"), "Pakovo" ( od raskrsnice sa ul."Ribarski put" do raskrsnice sa ul. "21 Novembra"), "Kalimanjska II " i "Kalimanjska IV".
+Ulice koje nijesu obuhvaćene u stavu 1 ovog člana su dvosmjerne.

@@ -1,0 +1,6 @@
+# Član 3
+Pravo prvenstva u odnosu na vozila koja dolaze iz svih bočnih saobraćajnica, imaju vozila koja saobraćaju ulicama: Arsenaolskom i 21. Novembra.
+Pravo prvenstva u odnosu na vozila koja dolaze iz svih bočnih saobraćajnica, izuzev u odnosu na vozila koja se kreću saobraćajnicama navedenim u stavu 1 ovog člana, imaju vozila koja saobraćaju ulicama: , Istarskom ( od Arsenalske do raskrsnice sa Đačkom), II Dalmatinskom, i Kalimanjskom;
+Pravo prvenstva u odnosu na vozila koja dolaze iz svih bočnih saobraćajnica, izuzev u odnosu na vozila koja se kreću saobraćajnicama navedenim u st. 1 i 2 ovog člana, imaju vozila koja saobraćaju ulicama: Njegoševom, Istarskom (od Doma zdravlja do magistrale), Palih Boraca i ul. Pakovo;
+Pravo prvenstva u odnosu na vozila koja dolaze iz svih bočnih saobraćajnica, izuzev u odnosu na vozila koja se kreću saobraćajnicama navedenim u st. 1,2 i 3 ovog člana, imaju vozila koja saobraćaju ulicama: Luke Tomanovića.
+Glavne saobraćajnice obuhvaćene Projektom vođenja i regulisanja saobraćajnih tokova u naseljima "Donja Lastva- Seljanovo" , "Gornje Seljanovo", "Gradiošnica", "Krašići" i "Radovići", imaju prvenstvo prolaza u odnosu na sva vozila koja dolaze iz svih bočnih saobraćajnica.

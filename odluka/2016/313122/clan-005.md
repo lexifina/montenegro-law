@@ -1,0 +1,4 @@
+# Član 5
+Teretna vozila mogu da se kreću samo Jadranskom magistralom.
+Izuzetno , ulicama u zahvatu DUP-a "Tivat- Centar" , osim u pješačkim zonama i zonama smirenog saobraćaja, dozvoljen je saobraćaj za teretna vozila najveće dozvoljene mase 5 t, koja vrše snabdijevanje trgovinskih i ugostiteljskih objekata, kao i za potrebe izgradnje, rekonstrukcije, adaptacije i opremanja objekata u vremenu od 6,00 časova do 09,00 časova, na osnovu izdatog odobrenja organa uprave nadležnog za poslove saobraćaja (u daljem tekstu: organ nadležan za poslove saobraćaja).
+Vozila za hitne intervencije na infrastrukturnim objektima i komunalna vozila, u obavljanju poslova, kao i vozila za potrebe kulturnih zbivanja (bine, mobilijar i sl.) mogu saobraćati gradskim ulicama, bez odobrenja organa uprave nadležnog za poslove saobraćaja.
