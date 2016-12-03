@@ -1,0 +1,5 @@
+Страна 1 - Број 46 СЛУЖБЕНИ ЛИСТ ЦРНЕ ГОРЕ - Oпштински прописи 25. новембар 2016.
+1672.
+Na osnovu člana 22 stav 1 tačka 3, 4, 6, 7, 8, 9, 10, 11 i 12 i stava 5 Zakona o putevima ("Službeni list RCG", broj: 42/04 i "Službeni list CG", br. 21/09, 54/09, 40/10, 73/10, 36/11 i 40/11), člana 5 stav 1 tačka 6 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", br. 42/03 i "Službeni list CG", br. 5/08,74/10 i 1/15, 3/16), člana 45 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09, 38/12 i 10/14), člana 4 i 24 Zakona o prekršajima ("Službeni list CG"br. 1/11, 39/11 i 32/14), člana 32. Statuta opštine Petnjica ("Službeni list CG - Opštinski propisi",br. 03/14, 02/15 i 41/15) uz prethodnu saglasnost Vlade Crne Gore broj 08-2703 od 28.10.2016.godine, Skupština opštine Petnjica, na sjednici održanoj 16.11.2016. godine, donijela je
+ODLUKU
+o naknadama za korišenje Opštinskih i nekategorisanih puteva na teritoriji opštine Petnjica
