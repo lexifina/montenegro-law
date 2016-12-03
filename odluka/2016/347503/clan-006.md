@@ -1,0 +1,2 @@
+# Član 6
+Investitor je dužan da implementira propisane uslove I smjernice definisane Planom,a koje su vezane za otklanjanje mogućnosti pojave konflikta između Projekta izgradnje mHE na vodotoku "Đurička rijeka sa pritokama" I snadbijevanja vodom opštine Plav u dijelu-Hidrotehnička infrastruktura ,četvrti pasus,tačka 1-9,kao I da se prilikom izdavanja UTU za izradu projektne dokumentacije mora ista uskladiti sa datim smjernicama DOO "Komunalne djelatnosti"Plav.

@@ -1,0 +1,4 @@
+Страна 1 - Број 46 СЛУЖБЕНИ ЛИСТ ЦРНЕ ГОРЕ - Oпштински прописи 25. новембар 2016.
+1668.
+Na osnovu člana 47 stav 3 I 49 Zakona o uređenjuprostora i izgradnjiobjekata ("Sl. list CG", br. 51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14), člana 45 Zakona o lokalnoj samoupravi ("Sl.list RCG" br.42/03, 28/04, 75/05 i 13/06 i "Sl.list CG", br. 88/09 i 38/12), člana 58 StatutaOpštinePlav ("Službeni list RCG - opstinskipropisi", br. 17/17 i "Službeni list CG - opstinskipropisi" br. 25/09 I 38/10), člana 109. i 110. Zakona o lokalnoj samoupravi ("SI. list RCG", br. 42/03, 28/04, 75/05, 13/06 od, 88/09, 03/10, 73/10, 38/12 i 10/14), i uz saglasnostMinistarstvaodrživograzvoja i turizma, Direktorat za planiranjeprostora br.104- 989/28 od 23.09.2016 godine, Skupština opštine Plav na sjednici održanoj dana 07.11.2016.godine donosi:
+OD LU KU
