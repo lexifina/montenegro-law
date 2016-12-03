@@ -1,0 +1,2 @@
+Na osnovu člana 23 Zakona o upravljanju otpadom ("Sl.list CG"br.64/2011 I 39/16) , člana 45 i 58.Zakona o lokalnoj samoušravi ("Sl.list RCG"br.42/03,28/04,75/05,13/06,i "Sl.list CG" br.88/09 ,3/10 38/12 I 10/14) i člana 34. Statuta opštine Plav ,("Sl.list RCG -opštionski propisi" br.17/07, i"Sl.list CG-.opštinski propisi" br.25/09 i 38/10), Skupština opštine Plav , na sjednici održanoj dana 07.11-2016 godine donijela je :
+O D L U K U
