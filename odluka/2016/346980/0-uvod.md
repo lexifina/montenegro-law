@@ -1,0 +1,2 @@
+Na osnovu čl. 47 i 49 Zakona o uređenju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14) i člana 48 Statuta Glavnog grada ("Službeni list RCG - Opštinski propisi", br. 28/06 i "Službeni list Crne Gore - Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 25. novembra 2016. godine, donijela je -
+ODLUKU O DONOŠENJU DETALJNOG URBANISTIČKOG PLANA ’’KARABUŠKO POLJE"
