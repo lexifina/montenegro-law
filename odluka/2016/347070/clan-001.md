@@ -1,0 +1,4 @@
+# Član 1
+## o prenosu prava svojine na građevinskom zemljištu radi dokompletiranja urbanističkih parcela D, E i F, blok VII u zahvatu DUP-a "Konik-Sanacioni plan" - izmjene i dopune
+Glavni grad - Podgorica, kao nosilac prava raspolaganja, prenosi uz naknadu, privrednom društvu "Adađo" d.o.o iz Podgorice, pravo svojine na građevinskom zemljištu ukupne površine 2374 m2, označeno katastarskim parcelama broj 2046/6, 2046/16, 2090/1175, 2090/1176, i 2090/1177 iz listova nepokretnosti broj 1325 i 3217 KO Podgorica III, na kojima su izvedeni građevinski radovi koji se odnose na parking i saobraćajnicu.
+Pravo svojine na zemljištu iz prethodnog stava prenosi se radi dokompletiranja urbanističkih parcela broj D, E i F, blok VII u zahvatu DUP-a "Konik - sanacioni plan"- Izmjene i dopune, na kojima je planirana izgradnja objekata kolektivnog stanovanja sa djelatnostima.
