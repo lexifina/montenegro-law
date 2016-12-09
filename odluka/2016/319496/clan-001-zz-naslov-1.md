@@ -1,0 +1,1 @@
+# IV SREDSTVA KOJA SE PRENOSE U 2016. god............... 59.169,30
