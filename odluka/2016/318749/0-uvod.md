@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 2 Zakona o lokalnoj samoupravi ("Sl.list RCG" broj: 42/03, 28/04, 75/05, 13/06, "Sl.list CG" broj: 88/09, 03/10, 73/10, 38/12, 10/14, 57/14, 3/16) i člana 60 stav 3 Statuta Opštine Herceg Novi ("Sl list RCG-Opštinski propisi" broj 15/04, 32/05, 31/06, 14/07 i "Sl list CG-Opštinski propisi" broj 16/09 i 16/11), uz prethodno pribavljenu Saglasnost Ministarstva kulture Crne Gore, Rješenje br. Upl01-112/2 od 07.07.2016. godine,Skupština opštine Herceg Novi, na sjednici održanoj dana 24.11.2016. godine, donosi
+ODLUKU
