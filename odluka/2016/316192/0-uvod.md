@@ -1,0 +1,2 @@
+Na osnovu člana 32. stav 1. tačka 16. i člana 45. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG", br. 88/09, 3/10, 38/12, 10/14 I 57/14 ); člana 70. Zakona o kulturi ("Sl. list Crne Gore", br. 49/08 od 15.08.2008, 16/11 od 22.03.2011, 40/11 od 08.08.2011, 38/12 od 19.07.2012) i člana 34 Statuta Opštine Pljevlja ( "Sl.list RCG - Opštinski propisi", br. 37/04, i 30/07 I "Sl. List CG - Opštinski propisi" br. 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici održanoj 28.11.2016.godine, donijela je:
+ODLUKU
