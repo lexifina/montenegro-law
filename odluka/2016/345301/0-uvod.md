@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 1 tačka 14 Zakona o lokalnoj samoupravi ( " Službeni list Republike Crne Gore", broj 042/03, 028/04, 075/05, 013/06, Službeni list Crne Gore " broj 088/09, 003/10, 073/10, 038/12, 010/14, 057/14, 003/16), članova 47 i 48 Zakona o sportu ("Službeni list Crne Gore" broj 036/11, 036/13) i člana 42a stav 1 tačka 15 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi" broj 019/09, 037/10, 026/13, 039/14, 012/16), Skupština Prijestonice, na sjednici održanoj dana 30.11. 2016. godine, donosi
+ODLUKU
