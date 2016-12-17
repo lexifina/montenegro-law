@@ -1,0 +1,2 @@
+# Član 2
+Skupština opštine Herceg Novi daje saglasnost na zaključenje Sporazuma o regulisanju imovinsko- pravnih odnosa između Opštine Herceg Novi i Novak Ilinke u vezi sa izgradnjom i rekonstrukcijom puta Herceg Novi- Trebinje, na način da se izvrši uknjižba svojinskih prava Opštine Herceg Novi na kat. parc. 1576/2 K.O. Podi u površini od 46 m2 i uknjižba Novak Ilinke na kat. parc. 1486/3 K.O. Podi u površini od 46 m2.
