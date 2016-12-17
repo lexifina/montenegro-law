@@ -1,0 +1,2 @@
+# Član 2
+Lokacija kojom se utvrđuje trasa za izgradnju vodovodne i kanalizacione infrastrukture "Đenovići -Marići", nalazi se u okviru katastarske opštine Đenovići, u Herceg Novom, a istu čine dijelovi katastarskih parcela br.: 672/1, 671/1, 9, 26, 30/8, 30/7 i 30/5, sve K.O. Đenovići ( od postojećih infrastrukturnih mreža do planiranih objekata u naselju Marići) u svemu prema Skici plana lokacije koja je sastavni dio ove Odluke.
