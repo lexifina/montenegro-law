@@ -1,0 +1,2 @@
+# Član 2
+Izrada Plana se odnosi na prostor postojeće LSL "Kaludra 2" koji obuhvata dijelove katastarskih parcela br.:1676,16781680,16811684,1689,1690,16911692,1693,1770 i 1766 koji je površine 7,5ha i koji je proširen duž istog puta obuhvatajući put i prostor od cca 15m obostrano uz put zahvatajući i tok rijeke a prema granicama koje su date u grafičkom prilogu koji je sastavni dio projektnog zadatka u dužini od cca 5km .
