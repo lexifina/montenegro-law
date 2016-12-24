@@ -1,0 +1,2 @@
+# Član 27
+Doktor medicine specijalista iz člana 24 stav 1 tačka 3 ovog pravilnika treba da ima najmanje dvije godine edukacije u zdravstvenoj ustanovi za presađivanje jetre tokom koje je učestvovao u preoperativnoj pripremi i anesteziji 30 pacijenata (od čega najmanje desetoro djece) za presađivanje jetre i rješavanju komplikacija tokom presađivanja i učestvovao u post- transplantacionom praćenju zdravstvenog stanja najmanje desetoro djece.

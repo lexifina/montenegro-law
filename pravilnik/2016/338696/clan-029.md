@@ -1,0 +1,2 @@
+# Član 29
+Za optimalno izvođenje vaskularnih anastomoza kod odojčadi u postupku presađivanja jetre može da učestvuje i doktor medicine specijalista opšte hirurgije, uže specijalnosti plastične hirurgije ili doktor medicine specijalista plastične, rekonstruktivne i estetske hirurgije, doktor medicine specijalista opšte hirurgije, uže specijalnosti vaskularne hirurgije ili doktor medicine specijalista vaskularne hirurgije, ako je u posljednjih pet godina obavio najmanje 15 zahvata kod djece.

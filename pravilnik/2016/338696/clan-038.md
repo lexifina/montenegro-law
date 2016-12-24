@@ -1,0 +1,2 @@
+# Član 38
+Pored stručnog kadra iz čl. 10, 11, 16, 20, 24, 31 i 35 ovog pravilnika, ovlašćene zdravstvene ustanove koje obavljaju postupke uzimanja i/ili presađivanja organa treba da imaju i doktora medicine specijalistu psihijatrije ili diplomiranog psihologa sa iskustvom u evaluaciji živih davalaca, porodične interakcije i psihološke podrške bolničkom koordinacionom timu i medicinskom timu i primaocima organa, kao i diplomiranog socijalnog radnika za sprovođenje programa socijalne rehabilitacije primaoca organa.

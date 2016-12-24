@@ -1,0 +1,2 @@
+# Član 3
+Postupke iz člana 1 ovog pravilnika mogu da obavljaju ovlašćene zdravstvene ustanove koje ispunjavaju opšte uslove u pogledu prostora, medicinsko-tehničke opreme i stručnog kadra za obavljanje zdravstvene djelatnosti u bolnicama, kao i posebne uslove propisane standardnim operativnim procedurama (u daljem tekstu: procedure) zasnovanim na standardima, specifikacijama i principima Dobre kliničke prakse i ovim pravilnikom.

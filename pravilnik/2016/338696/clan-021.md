@@ -1,0 +1,7 @@
+# Član 21
+Doktor medicine specijalista iz člana 20 stav 1 tačka 1 ovog pravilnika treba da ima najmanje dvije godine edukacije u zdravstvenoj ustanovi za presađivanje jetre koja obavlja najmanje 30 presađivanja jetre godišnje, tokom koje je:
+1) obavio najmanje 20 presađivanja i uzimanja jetre od čega deset kao prvi hirurg i deset kao prvi asistent;
+2) učestvovao u zbrinjavanju pacijenata;
+3) ovladao znanjem i vještinama: njege pacijenata u završnim fazama bolesti jetre, odabira primaoca, osnova histokompatibilnosti i tipizacije tkiva, postoperativnog i kasnijeg zbrinjavanja pacijenata, korišćenja imunosupresivne terapije, diferencijalne dijagnostike i interpretacije nalaza testova funkcija jetre, interpretacije histoloških nalaza biopsije i dugoročnog praćenja zdravstvenog stanja i zbrinjavanja pacijenata.
+Izuzetno od stava 1 ovog člana, doktor medicine specijalista iz člana 20 stav 1 tačka 1 ovog pravilnika može da obavlja postupak presađivanja jetre ako ima kliničko iskustvo u trajanju od pet godina i ako je obavio najmanje 20 presađivanja i uzimanja jetre, od čega deset kao prvi hirurg i deset kao asistent i bio uključen u preoperativno zbrinjavanje i praćenje zdravstvenog stanja pacijenata.
+Ako se presađivanje jetre vrši od živog davaoca, doktor medicine specijalista iz člana 20 stav 1 tačka 1 ovog pravilnika treba da je tokom posljednje dvije godine učestvovao kao prvi hirurg u najmanje 20 operacija - resekcija jetre sa više od tri segmenta i učestvovao u najmanje pet postupaka uzimanja jetre od živog davaoca.

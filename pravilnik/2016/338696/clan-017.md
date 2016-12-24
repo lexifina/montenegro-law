@@ -1,0 +1,3 @@
+# Član 17
+Doktor medicine specijalista iz člana 16 stav 1 tačka 1 ovog pravilnika treba da ima najmanje dvije godine edukacije u zdravstvenoj ustanovi za presađivanje gušterače, tokom koje je kao prvi hirurg obavio pet presađivanja i pet uzimanja gušterače.
+Izuzetno od stava 1 ovog člana, doktor medicine specijalista iz člana 16 stav 1 tačka 1 ovog pravilnika može da obavlja postupak presađivanja gušterače ako ima kliničko iskustvo u trajanju od pet godina i ako je obavio najmanje 20 presađivanja gušterače, od čega deset kao prvi hirurg i deset kao asistent i najmanje deset uzimanja gušterače.

@@ -1,0 +1,3 @@
+# Član 32
+Doktor medicine specijalista iz člana 31 stav 1 tačka 1 ovog pravilnika treba da ima najmanje dvije godine edukacije u zdravstvenoj ustanovi za presađivanje srca tokom koje je obavio najmanje 20 presađivanja srca kao prvi hirurg ili prvi asistent i deset uzimanja srca kao prvi hirurg ili prvi asistent.
+Izuzetno od stava 1 ovog člana, doktor medicine specijalista iz člana 31 stav 1 tačka 1 ovog pravilnika može da obavlja postupak presađivanja srca ako ima kliničko iskustvo u trajanju od pet godina i ako je obavio najmanje 20 presađivanja srca ili pluća kao prvi hirurg ili asistent (u najmanje 15 slučajeva treba da bude prvi hirurg), kao i najmanje deset uzimanja srca, pod stručnim nadzorom doktora medicine odgovarajuće specijalnosti.
