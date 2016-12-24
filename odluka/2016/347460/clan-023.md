@@ -1,0 +1,2 @@
+# Član 23
+Građevinski radovi koji se izvode iznad, ispod ili u neposrednoj blizini objekata i instalacija javnog kanalizacionog sistema kojim Vodovod i kanalizacija pruža usluge, mogu se izvoditi samo uz saglasnost Vodovoda i kanalizacije. Sve radove na zaštiti i obezbjeđenju objekata i instalacija iz stava 1 ovog člana izvodi Vodovod i kanalizacija ili drugi izvođač radova, pod nadzorom Vodovoda i kanalizacije, na teret investitora.
