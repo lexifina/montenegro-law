@@ -1,0 +1,3 @@
+# Član 1
+Opština Danilovgrad prihvata proslijeđena kreditna sredstva Evropske banke za obnovu i razvoj (EBRD) u iznosu od 5.350.000,00 eura, zajmoprimaoca Država Crna Gora - Ministarstvo finansija, namijenjenih za realizaciju projekta "Infrastrukturni projekat Opštine Danilovgrad", odnosno izgradnju postrojenja za prečišćavanje otpadnih voda i rehabilitacije vodovodne i kanalizacione mreže u opštini Danilovgrad, shodno Zaključku Vlade br. 08-750 od 28.05.2015. godine.
+Dio u iznosu od 50% proslijeđenih kreditnih sredstava, odnosno 2.675.000,00 eura, Zaključkom Vlade Crne Gore br. 08-2502 od 05.11.2015. godine, opredijeljena su kao bespovratna (grant) sredstva Opštini Danilovgrad i za ista ne postoji obaveza vraćanja.
