@@ -1,0 +1,2 @@
+Na osnovu člana 44 Zakona o finansiranju lokalne samouprave ("Sl.list RCG", br. 42/03 i 44/03 i "Sl.list CG - Opštinski propisi", br. 5/08 , 51/08 i 74/10, 1/15, 78/15, 3/16) i člana 110 stav 2, 3 i 4 Statuta opštine Herceg Novi ("Sl.list RCG - Opštinski propisi" , br. 15/04, 32/05 ,31/06, 14/07 i "Sl. list CG - Opštinski propisi", br. 16/09 i 16/11), Skupština opštine Herceg Novi na sjednici održanoj dana 22.12.2016. godine, donijela je
+O D L U K U
