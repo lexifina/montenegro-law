@@ -1,0 +1,2 @@
+Na osnovu čl. 29 i 30 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06 i 56/06 i "Službeni list Crne Gore", br. 46/11, 14/14, 47/14 i 12/16), Skupština Crne Gore 26. saziva, na četvrtoj sjednici drugog redovnog (jesenjeg) zasijedanja u 2016. godini, dana 29. decembra, donijela je
+ODLUKU O IMENOVANJU DEVET ČLANOVA/ICA DRŽAVNE IZBORNE KOMISIJE
