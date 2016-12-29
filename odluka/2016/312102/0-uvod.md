@@ -1,0 +1,2 @@
+Na osnovu člana 33.Zakona o budžetu i fiskalnoj odgovornosti ("Sl. list Crne Gore" br. 20/14), člana 39. Zakona o finansiranju lokalne samouprave ( Sl. list RCG br. 42/03, 44/03 i Sl. list CG br. 5/08, 74/10, 1/15, 78/15 i 3/16 ) i člana 33. Statuta Opštine Berane (’’Sl. list RCG - Opštinski propisi’’ br. 21/04, 34/06 i ’’Sl. List CG-Opštinski propisi’’ 6/11) Skupština Opštine Berane na sjednici održanoj 22.12. 2016. godine, donijela je:
+O D L U K U O BUDŽETU OPŠTINE BERANE ZA 2017. GODINU
