@@ -1,0 +1,3 @@
+# Član 9
+Uzimanje uzoraka, priprema uzoraka i ispitivanje građevinskih proizvoda, zavisno od vrste proizvoda, sprovodi se prema standardima koji su dati u prilozima iz ovog pravilnika, odnosno na način određen revidovanim glavnim projektom objekta za građevinske proizvode iz člana 5 stav 2 ovog pravilnika.
+Ako standard iz stava 1 ovog člana, ne sadrži odredbe u pogledu uzimanja uzoraka, pripreme uzoraka i ispitivanja građevinskih proizvoda, primjenjuju se postupci na osnovu kojih se vrši ocjena i provjera postojanosti svojstava građevinskog proizvoda u vezi sa bitnim karakteristikama, na način kojim se obezbjeđuje ispunjavanje osnovnih zahtjeva za objekat.

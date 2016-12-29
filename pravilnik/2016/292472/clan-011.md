@@ -1,0 +1,3 @@
+# Član 11
+Proizvođač, ovlašćeni zastupnik odnosno uvoznik i distributer građevinskog proizvoda dužni su da preduzmu odgovarajuće mjere u cilju održavanja svojstava građevinskog proizvoda prilikom rukovanja, skladištenja i prevoza, a izvođač objekta prilikom rukovanja, skladištenja, prevoza i ugradnje građevinskog proizvoda.
+Održavanje svojstava građevinskog proizvoda, sprovodi se u skladu sa s tehničkim pravilima i uputstvima proizvođača ili izrađivača građevinskog proizvoda i standardima koji su dati u prilozima iz ovog pravilnika, kao i u skladu s tehničkim pravilima i uputstvima proizvođača ili izrađivača građevinskog proizvoda.
