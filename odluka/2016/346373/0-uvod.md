@@ -1,0 +1,2 @@
+Na osnovu člana 37 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br.20/14 i 56/14) i člana 44 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", broj 42/03 i "Službeni list CG", br. 05/08, 74/10 i 01/15) i člana 63 stav 1 tačka 2 i člana 75 stav 3 Statuta Prijestonice ("Službeni list CG - Opštinski propisi", br. 19/09, 37/10, 26/13 ,39/14 i 12/16), Skupština Prijestonice Cetinje, na sjednici održanoj 28.12.2016. godine, donijela je
+O D L U K U O PRIVREMENOM FINANSIRANJU POTREBA BUŽETA PRIJESTONICE CETINJE ZA PERIOD 01.01 DO 31.03.2017.GODINE
