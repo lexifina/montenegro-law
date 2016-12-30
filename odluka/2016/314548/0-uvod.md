@@ -1,0 +1,2 @@
+Na osnovu člana 37 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14 i 56/14), člana 44 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", broj 42/03 i "Službeni list CG", br. 05/08, 74/10 i 01/15) i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10), Skupština Opštine Budva, na sjednici održanoj dana 30. decembra 2016. godine, donijela je
+ODLUKU O PRIVREMENOM FINANSIRANJU OPŠTINE BUDVA
