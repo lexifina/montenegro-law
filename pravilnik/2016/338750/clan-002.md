@@ -1,0 +1,4 @@
+# Član 2
+## Označavanje mjesta za parkiranje vozila kojima se prevoze lica sa invaliditetom
+Mjesto za parkiranje jednog vozila treba da bude veličine 370 x 500 cm sa prostorom širine 150 cm i izlazom sa mjesta za parkiranje na trotoar koji je obezbijeđen ukošenim ivi- čnjakom nagiba najviše 10%, širine najmanje 120 cm kad se nalazi u nizu parkirališnih mjesta, označava se znakom pristupačnosti u skladu sa Prilogom 1 koji je sastavni dio ovog pravilnika.
+Mjesto za parkiranje za dva vozila treba da bude veličine 590 x 500 cm sa međuprostorom širine 150 cm i izlazom sa mjesta za parkiranje na trotoar koji je obezbijeđen ukošenim ivičnjakom nagiba najviše 10%, širine najmanje 120 cm, koje se na- lazi u nizu parkirališnih mjesta, označava se znakom pristupačnosti u skladu sa Prilogom 2 koji je sastavni dio ovog pravilnika.
