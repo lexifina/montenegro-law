@@ -1,0 +1,2 @@
+Na osnovu člana 3. i 13. Statuta Agencije za gazdovanje gradskom lukom i člana 1. i 6. Odluke o osnivanju Agencije za gazdovanje gradskom lukom ("Sl. list RCG-Opštinski propisi", broj 48/06), člana 57 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list RCG" broj 42/03, 28/04, 75/05, 13/06, 88/09, 03/10, 73/10, 38/12, 10/14, 57/14) i člana 59 stav 2 tačka 9 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", broj 15/04, 32/05, 31/06, 14/07 i Sl. list CG" broj 16/09 i 16/11), Predsjednik Opštine Herceg Novi,dana 12.12.2016. god. donosi
+ODLUKU
