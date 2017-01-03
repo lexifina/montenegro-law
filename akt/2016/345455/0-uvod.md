@@ -1,0 +1,2 @@
+Na osnovu člana 31 st.1 tačka 43 Statuta opštine Kolašin ( Sl.list. RCG-Opštinski propisi" br.25/04, 31/04, 34/06 i " Sl.list CG-Opštinski propisi" br.41/10 ) i člana 10 st.1 Odluke o osnivanju društva sa ograničenom odgovornošću " Vodovod i kanalizacija" Kolašin ( " Sl.list CG-Opštinski propisi" br.33/13), Skupština opštine Kolašin, na sjednici održanoj dana 12.12.2016.donijela je-
+Z A K LJ U Č A K
