@@ -1,0 +1,2 @@
+Na osnovu čl. 53 i u vezi sa čl. 31 Zakona o uređenju prostora i izgradnji objekata (''Sl. list CG'', br. 51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14) i čl. 65 Statuta opštine Žabljak (''Sl. list RCG - Opštinski propisi'', br. 9/05 i 3/07 i ''Sl. list CG - Opštinski propisi'', br. 3/11 i 7/14 ) a u skladu sa Programom uređenja prostora za 2016. godinu (''Sl. list CG - Opštinski propisi'', br. 1/16), Predsjednik opštine Žabljak donio je
+O D L U K U
