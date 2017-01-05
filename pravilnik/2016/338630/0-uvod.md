@@ -1,0 +1,2 @@
+Na osnovu člana 11 stav 1 tačka 1, člana 14 i člana 169 stav 6 Zakona o elektronskim komunikacijama ("Sl. list CG" broj: 40/13 i 56/13) Savjet Agencije za elektronske komunikacije i poštansku djelatnost na sjednici održanoj 20.12.2016. godine donio je
+PRAVILNIK O IZMJENAMA PRAVILNIKA O NAČINU I ROKOVIMA ZA SPROVOĐENJE MJERA ZAŠTITE SIGURNOSTI I INTEGRITETA ELEKTRONSKIH KOMUNIKACIONIH MREŽA I USLUGA
