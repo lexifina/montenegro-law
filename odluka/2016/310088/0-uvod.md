@@ -1,0 +1,3 @@
+Na osnovu člana 45 Stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", broj 88/09, 3/10, 73/10 ,38/12 i 10/14), člana 57. Zakona o budžetu i fiskalnoj odgovornosti ("Sl.list RCG" br. 20/14), člana 62, 63 i 64 Zakona o finansiranju lokalne samouprave ("Službeni list RCG" br 1/15) i člana 36 stav 1 tačka 10 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi" broj 15/04, 32/05, 31/06, 14/07, "Sl. list CG - opštinsi propisi" broj 16/09, 16/11, Skupština Opštine Herceg Novi na sjednici održanoj dana 22.12.2016. godine,donijela je
+ODLUKU
+o zaduživanju Opštine Herceg Novi za realizaciju Projekta "Vodosnadbjevanje i odvođenje otpadnih voda na Jadranskoj obali,
