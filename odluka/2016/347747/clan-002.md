@@ -1,0 +1,2 @@
+# Član 2
+Ovlašćuje se Direkcija za imovinu Glavnog grada da u skladu sa ovom odlukom zaključi akt o sporazumnom rješavanju imovinsko- pravnih odnosa na zemljištu u zahvatu DUP-a "Zagorič II"- Izmjene i dopune, u dijelu ul. Iva Andrića u Podgorici, iz predmeta Osnovnog suda u Podgorici P.br. 4602/2014, pov. 347 m2, sa Lazović Sanjom, Lazović Sandrom, Lazović Sašom i Lazović Verom, svi iz Podgorice.
