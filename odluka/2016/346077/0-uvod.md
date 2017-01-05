@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br.88/09,38/12, 10/14 i 3/16 ), člana 34 st. 1 i 3 i člana 40 stav 2 tačka 3 Zakona o državnoj imovini ("Službeni list CG", broj 21/09), člana 32 stav 1 tačka 9 i člana 40 Statuta opštine Nikšić ("Službeni list RCG - Opštinski propisi", br.20/04 i 43/06 i "Službeni list CG - Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 23.12.2016.godine, donijela je
+O D L U K U
