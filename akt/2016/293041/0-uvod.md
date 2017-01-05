@@ -1,0 +1,2 @@
+Na osnovu člana 8 stav 2 i člana 13 stav 1, a u vezi sa članom 38 Zakona o spomen-obilježjima ("Službeni list Crne Gore", br. 40/08 i 40/11) i člana 48 stav 1 alineja 45 Statuta Glavnog grada ("Službeni list Republike Crne Gore - Opštinski propisi", broj 28/06 i "Službeni list Crne Gore - Opštinski propisi", br. 39/10 i 18/12), uz prethodno pribavljenu saglasnost Ministarstva kulture Crne Gore, Rješenje br. UP I 01- 32/11 od 5. decembra 2016. godine, Skupština Glavnog grada - Podgorice, na śednici održanoj dana 22. i 23. decembra 2016. godine, donijela je
+D O P U N U
