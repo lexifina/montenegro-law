@@ -1,0 +1,2 @@
+# Član 3
+Spomenik je od bijelog i sivog kamena, dimenzija 1,10 x 3,00 m, stabilan i jednostavan, trenutkom i mjestom podizanja simbolizuje opstajanje plemena, porodice i ljudi u ovom jedinstvenom dijelu stare Crne Gore kroz vjekove. Geometrijskog je oblika sa stilizovanim krstom u sredini koji simbolizuje prolaz kroz vrijeme i vjekove. Formom je ovovremenski, pročišćen, skroman, bez suvišnih detalja. Polihromijom bijelog i sivog kamena uklapa se savršeno u ambijent starog i novog i ne dominira okolinom.
