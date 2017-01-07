@@ -1,0 +1,2 @@
+Na osnovu Zakona o Budžetu i fiskalnoj odgovornosti ("Sl. list Crne Gore" br. 20/14 i 56/14), člana 55 i 56 Zakona o finansiranju lokalne samouprave ("Sl. list RCG" br.42/03, 44/03 i "Sl. list Crne Gore".br. 5/08 i br. 74/10) i člana 42 Statuta opštine Rožaje ("Sl. list Crne Gore-Opštinski propisi" br. 09/11 i 31/16), Skupština opštine Rožaje, na sjednici održanoj 27.12.2016. godine, d o n i j e l a j e:
+O D L U K U O ZAVRŠNOM RAČUNU BUDŽETA OPŠTINE ROŽAJE ZA 2015.GODINU
