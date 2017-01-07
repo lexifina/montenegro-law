@@ -1,0 +1,2 @@
+Na osnovu člana 49 stav 1 i 4 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, i "Sl. list CG" br. 88/09, 3/10,73/10, 38/12, 10/14, 57/14 i 3/16) i člana 63 stav 1 tačka 27 Statuta Prijestonice ("Sl. list CG - opštinski propisi", broj 19/09 , 37/10, 26/13, 39/14 i 12/16) Skupština Prijestonice Cetinje na sjednici održanoj dana 28.12. 2016. godine donijela je
+O D L U K U
