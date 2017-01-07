@@ -1,0 +1,2 @@
+Na osnovu člana 9 Zakona o bezbjednosti saobraćaja na putevima ("Sl. list CG", broj 33/12 i 58/14), člana 32 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", broj 88/09, 03/10, 73/10, 38/12, 10/14,57/14 i 03/16) i člana 24 stav 4 tačke 1, 2 i 3 Zakona o prekršajima ("Službeni list Crne Gore", br. 001/11, 006/11, 039/11 i 032/14) , Skupština Prijestonice Cetinje, na sjednici održanoj dana 28.12.2016. godine, donijela je
+ODLUKU
