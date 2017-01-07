@@ -1,0 +1,2 @@
+# Član 33
+U pojedinim danima ili vremenskim intervalima, u pješačkim zonama i drugim lokacijama na građevinskom zemljištu, radi održavanja prigodnih prezentacija, proslava ili manifestacija, organ lokalne uprave nadležan za poslove uređenja prostora može odobriti lokacije za postavljanje privremenih objekata tipa - štand, izložbeni pano ili prodajni pult, shodno uslovima predviđenim ovom odlukom i Planom.

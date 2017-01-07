@@ -1,0 +1,2 @@
+# Član 15
+Privremeni objekti komunalne infrastrukture i urbani mobilijar ( reciklažna dvorišta, zelena ostrva, dječija igrališta, informativni punktovi, telefonske govornice, internet terminali, skulpture, česme, klupe, fontane) su objekti neophodni za funkcionisanje određenih komunalnih djelatnosti i mogu se postavljati po zahtjevu organa lokalne uprave i preduzeća, organizacija i privrednih društava čiji je osnivač opština ili država.

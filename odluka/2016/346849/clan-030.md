@@ -1,0 +1,3 @@
+# Član 30
+Odobrenje za postavljanje ili građenje privremenih objekata na zemljištu u svojini Opštine izdaje se najduže sa rokom važenja do kraja kalendarske godine, a na zemljištu u privatnoj svojini do jedne godine, odnosno u oba slučaja do privođenja lokacije planiranoj namjeni utvrđenoj planskim dokumentom, ako taj rok bude kraći.
+Izuzetno od stava 1, na zemljištu kojim raspolaže Opština Bar i na javnim površinama, odobrenje za privremene objekte, tipa - štand, prodajni pult, prodajno-izložbeni pano, rashladni uređaj za sladoled i osvježavajuće napitke, pokretni objekat , zabavni park, privremeno parkiralište, privremeni kamp i pijaca, izdaje se sa rokom važenja ne kraćim od 2 mjeseca.
