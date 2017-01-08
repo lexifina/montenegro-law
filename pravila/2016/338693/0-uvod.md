@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 2 Zakona o hartijama od vrijednosti ("Sl. list RCG", br. 59/00, 10/01, 43/05, 28/06 i "Sl. list CG", br. 53/09, 73/10, 40/11, 06/13) i člana 17 stav 3 Zakona o računovodstvu ("Službeni list Crne Gore", br. 052/16), Komisija za hartije od vrijednosti Crne Gore (u daljem tekstu: Komisija) na 235. sjednici od 28.12.2016. godine donosi
+PRAVILA O SADRŽAJU, ROKOVIMA I NAČINU SAČINJAVANJA I DOSTAVLJANJA FINANSIJSKIH IZVJEŠTAJA EMITENATA HARTIJA OD VRIJEDNOSTI
