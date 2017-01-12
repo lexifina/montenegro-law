@@ -1,0 +1,2 @@
+Na osnovu člana 18 Zakona o sportu ("Sl.list CG" br. 36/11) i člana 56. i 31. Statuta Opštine Tivat, ("Sl.list RCG - Opštinski propisi" br. 40/04 i 26/06 i "Sl.list CG"- Opštinski propisi, br. 12/11,21/11 i 3/13), člana 7, 13 i 25 Odluke o finansiranju sporta ("Službeni list Crne Gore" - Opštinski propisi, broj 45/2016) , Skupština opštine Tivat, na sjednici održanoj 12.01.2017. godine, donijela je
+ODLUKU
