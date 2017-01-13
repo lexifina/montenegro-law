@@ -1,0 +1,57 @@
+Prilog PARSF
+PRIVREMENI PLAN AKONTATIVNE RASPODJELE SREDSTAVA EGALIZACIONOG FONDA OPŠTINAMA ZA 2017. GODINU
+Redni Naziv opštine %
+broj
+1
+2
+4
+1
+Andrijevica
+3.43
+2
+Berane
+10.57
+3
+Bijelo Polje
+15.99
+4
+Danilovgrad
+5.30
+5
+Žabljak
+1.82
+6
+Kolašin
+3.08
+7
+Mojkovac
+2.91
+8
+Nikšić
+19.07
+9
+Plav
+3.30
+10
+Pljevlja
+6.80
+11
+Rožaje
+8.57
+12
+Ulcinj
+2.97
+13
+Cetinje
+10.00
+14
+Šavnik
+2.70
+15
+Petnjica
+2.03
+16
+Gusinje
+1.46
+UKUPNO
+100.00

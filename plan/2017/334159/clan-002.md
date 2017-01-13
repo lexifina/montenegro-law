@@ -1,0 +1,2 @@
+# Član 2
+Sredstva Fonda za 2017. godinu će se, do donošenja Plana akontativne raspodjele sredstava Fonda opštinama za 2017. godinu, privremeno akontativno raspoređivati korisnicima iz člana 1 ovog plana, na osnovu petnaestodnevnog priliva na račun Fonda i to prema učešću pojedinih opština u ukupnim sredstvima Fonda utvrđenog Planom akontativne raspodjele sredstava Egalizacionog fonda opštinama za 2016. godinu ("Sl. list CG", broj 4/16), a koji je sadržan u Prilogu "PARSF" i koji je sastavni dio ovog plana .
