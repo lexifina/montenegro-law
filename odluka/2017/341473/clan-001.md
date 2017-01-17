@@ -1,0 +1,3 @@
+# Član 1
+## o prenosu građevinskog zemljišta neposrednom pogodbom
+PRENOSI SE neposrednom pogodbom građevinsko zemljište Vuković Dragomiru iz Žabljaka, i to urbanistička parcela broj 402a u skladu sa Odlukom o donošenju i sprovođenju Detaljnog urbanističkog plana Žabljak ("Sl.list RCG-opštinski propisi", br. 21/89, 18/92, 8/94 i 40/06 i "Sl.list CG-opštinski propisi", br. 7/14) u katastru nepokretnosti označena kao katastarska parcela broj 3985/1, poslovne zgrade u privredi površine 24 m2, upisanoj u listu nepokretnosti broj 193 KO Žabljak I, kao svojina Države Crne Gore, sa pravom raspolaganja Opštine Žabljak.

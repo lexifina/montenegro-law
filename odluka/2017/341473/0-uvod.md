@@ -1,0 +1,2 @@
+Na osnovu člana 33 tačka 1 a u vezi sa članom 45 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl.list CG", br. 88/09, 3/10, 38/12, 10/14 i 3/16), člana 34 stav 1 i 3 i člana 40 stav 2 tačka 4 Zakona o državnoj imovini ("Sl.list CG", br. 21/09 i 40/11) i člana 38 tačka 9 Statuta opštine Žabljak ("Sl.list RCG-opštinski propisi", br. 9/05, 23/07 i "Sl.list CG-opštinski propisi", br. 3/11 i 7/14) Skupština opštine Žabljak na sjednici održanoj dana 28.12.2016.godine, d o n i j e l a je
+O D L U K U
