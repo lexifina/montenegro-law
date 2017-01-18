@@ -1,0 +1,4 @@
+# Član 11
+## voda
+Jedinica lokalne samouprave i pravno lice koje upravlja postrojenjem za prečišćavanje komunalnih otpadnih voda, dužni su da obezbijede da postrojenja za prečišćavanje komunalnih otpadnih voda budu projektovana, izgrađena, rekonstruisana i da se održavaju na način da ispunjavaju zahtjeve lokalnih klimatskih uslova sa kapacitetima primjerenim sezonskim promjenama opterećenja, u skladu sa programom izgradnje kolektorskih sistema i postrojenja za tretman komunalnih otpadnih voda, i da omoguće prečišćavanje u skladu sa čl. 10, 12 i 18 ovog zakona.
+Organ uprave, odnosno organ lokalne uprave nadležan za izdavanje vodnih dozvola dužan je da Ministarstvu dostavlja podatke važećih vodnih dozvola za ispuštanje komunalnih otpadnih voda u recipijent po aglomeracijama do 31. januara tekuće za prethodnu godinu.
