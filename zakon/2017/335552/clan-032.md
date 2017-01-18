@@ -1,0 +1,8 @@
+# Član 32
+## Sigurna treća zemlja
+Sigurna treća zemlja je zemlja u kojoj je stranac koji traži međunarodnu zaštitu siguran od progona, odnosno od rizika trpljenja ozbiljne nepravde, koja poštuje načelo zabrane protjerivanja ili vraćanja (non refoulement) i u kojoj postoji mogućnost da dobije međunarodnu zaštitu.
+Postupajući po zahtjevu za međunarodnu zaštitu Ministarstvo, u svakom konkretnom slučaju, utvrđuje da li se radi o sigurnoj trećoj zemlji, u smislu stava 1 ovog člana, kao i da li postoji veza između te zemlje i stranca koji traži međunarodnu zaštitu na osnovu koje se može razumno očekivati da će u toj zemlji zatražiti međunarodnu zaštitu, uzimajući u obzir sve činjenice i okolnosti njegovog zahtjeva za međunarodnu zaštitu.
+Stranac koji traži međunarodnu zaštitu biće blagovremeno obaviješten da u njegovom slučaju postoji sigurna treća zemlja i da može da iznese razloge zbog kojih se ta zemlja ne može smatrati sigurnom trećom zemljom, s obzirom na specifičnosti njegovih ličnih svojstava i okolnosti.
+U slučaju kad se u postupku po zahtjevu za međunarodnu zaštitu utvrdi da postoji sigurna treća zemlja, zahtjev će biti odbijen, a strancu koji traži međunarodnu zaštitu izdaće se potvrda da u postupku nije razmatrana osnovanost njegovog zahtjeva za međunarodnu zaštitu.
+U slučaju da sigurna treća zemlja odbije da prihvati stranca čiji je zahtjev odbijen, u smislu stava 4 ovog člana, njegov zahtjev za međunarodnu zaštitu će se ponovo razmatrati u skladu sa ovim zakonom.
+Ministarstvo će redovno obavještavati Evropsku komisiju o zemljama za koje je utvrđeno da su sigurne treće zemlje.

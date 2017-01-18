@@ -1,0 +1,11 @@
+# Član 44
+## Prikupljanje, razmatranje i procjena činjenica i okolnosti
+Stranac koji traži međunarodnu zaštitu dužan je da sarađuje sa Ministarstvom, priloži svu dokumentaciju kojom raspolaže i iznese tačne i istinite podatke koji se odnose na identitet, uzrast, državljanstvo, porodicu, zemlje prethodnog boravišta, prethodne zahtjeve za međunarodnu zaštitu, pravce putovanja, isprave na osnovu kojih se može utvrditi identitet i razloge traženja međunarodne zaštite.
+Prilikom odlučivanja o osnovanosti zahtjeva za međunarodnu zaštitu Ministarstvo će prikupiti i razmotriti sve relevantne činjenice i okolnosti, a naročito:
+1) izjave i dokaze koje je stranac koji traži međunarodnu zaštitu dao, u skladu sa stavom 1 ovog člana, a naročito informacije o tome da li je bio ili može biti izložen progonu ili riziku trpljenja ozbiljne nepravde;
+2) aktuelne činjenice o zemlji porijekla i, po potrebi, o zemljama kroz koje je putovao, o zakonima i propisima tih zemalja i načinu na koji se oni primjenjuju, na osnovu izvještaja i drugih dokumenata Visokog komesarijata i Evropske kancelarije za podršku azilu (EASO) i drugih organizacija koje se bave zaštitom ljudskih prava;
+3) da li su lična svojstva i okolnosti stranca koji traži međunarodnu zaštitu, a naročito pol i uzrast, kao i položaj u društvu, uzrok radnji ili djela progona ili trpljenja ozbiljne nepravde kojima je bio ili može biti izložen;
+4) o aktivnostima stranca koji traži međunarodnu zaštitu, nakon napuštanja zemlje porijekla, koje su usmjerene na stvaranje uslova neophodnih za odobravanje međunarodne zaštite, pri čemu će se procijeniti da li te aktivnosti mogu izložiti stranca progonu ili riziku trpljenja ozbiljne nepravde ako se vrati u tu zemlju;
+5) da li stranac koji traži međunarodnu zaštitu može dobiti zaštitu zemlje čije bi državljanstvo mogao dokazati;
+6) da li je stranac koji traži međunarodnu zaštitu tu zaštitu zatražio u razumnom vremenu od dolaska u Crnu Goru, i ako nije da li je za to iznio opravdane razloge.
+Kad se utvrdi da je stranac koji traži međunarodnu zaštitu bio izložen progonu ili riziku trpljenja ozbiljne nepravde, odnosno prijetnjama takvim progonom ili nepravdom smatraće se da postoji osnovan strah od progona ili trpljenja ozbiljne nepravde, osim ako postoje opravdani razlozi za vjerovanje da se takav progon ili ozbiljna nepravda neće ponoviti.

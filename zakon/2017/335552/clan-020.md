@@ -1,0 +1,6 @@
+# Član 20
+## Posebne proceduralne garancije
+Strancu koji traži međunarodnu zaštitu a koji, s obzirom na svoja lična svojstva i okolnosti (uzrast, pol, polno opredjeljenje, rodni identitet, teške bolesti, mentalno zdravlje ili posljedice mučenja, silovanja ili drugih teških oblika psihičkog, fizičkog ili nasilja zasnovanog na polu i rodu), nije u potpunosti sposoban da ostvaruje prava i izvršava obaveze u skladu sa ovim zakonom, bez odgovarajuće pomoći, obezbjeđuju se posebne proceduralne garancije.
+Posebnim proceduralnim garancijama smatra se odgovarajuća podrška strancima iz stava 1 ovog člana, radi ostvarivanja prava i izvršavanja obaveza u skladu sa ovim zakonom.
+Svojstva i okolnosti iz stava 1 ovog člana, u postupku od izražene namjere za podnošenje zahtjeva za međunarodnu zaštitu do donošenja odluke po zahtjevu za međunarodnu zaštitu, utvrđuju za to osposobljeni policijski službenici i ovlašćena službena lica Ministarstva i drugih nadležnih organa, u skladu sa ovim zakonom.
+Na postupak po zahtjevu stranca koji traži međunarodnu zaštitu kome su potrebne posebne proceduralne garancije, a naročito po zahtjevu žrtve mučenja, silovanja ili drugih teških oblika psihičkog, fizičkog ili nasilja zasnovanog na polu i rodu, ako im se ne može pružiti odgovarajuća podrška, neće se primjenjivati odredbe čl. 36 i 51 ovog zakona.
