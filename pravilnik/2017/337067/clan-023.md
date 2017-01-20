@@ -1,0 +1,4 @@
+# Član 23
+Izvođenje aluminijumske konstrukcije vrši se na način da aluminijumska konstrukcija ima tehnička svojstva i ispunjava zahtjeve određene glavnim projektom i ovim pravilnikom.
+Uslovi za izvođenje i održavanje aluminijumske konstrukcije određuju se programom kontrole i osiguranja kvaliteta koji je sastavni dio projekta aluminijumske konstrukcije, na način utvrđen u Prilogu B koji je sastavni dio ovog pravilnika.
+Izuzetno od stava 2 ovog člana, ako tehničko rješenje aluminijumske konstrukcije, odnosno uslovi u kojima se izvode radovi i druge okolnosti koje mogu biti od uticaja na tehnička svojstva aluminijumske konstrukcije, nijesu obuhvaćeni Prilogom B ovog pravilnika, programom kontrole i osiguranja kvaliteta koji je sastavni dio projekta aluminijumske konstrukcije, moraju se urediti posebni uslovi građenja kojima se obezbjeđuje da aluminijumska konstrukcija ima tehnička svojstva i ispunjava zahtjeve određene glavnim projektom i ovim pravilnikom.

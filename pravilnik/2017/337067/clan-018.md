@@ -1,0 +1,3 @@
+# Član 18
+Projekat rekonstrukcije objekta, kojim se mijenja aluminijumska konstrukcija, pored uslova iz čl. 12 do 17 ovog pravilnika mora da sadrži podatke o utvrđenim zatečenim tehničkim svojstvima aluminijumske konstrukcije za stvarno izvedeno stanje aluminijumske konstrukcije.
+Zatečena tehnička svojstva aluminijumske konstrukcije za stvarno izvedeno stanje aluminijumske konstrukcije, prije početka izrade tehničke dokumentacije za rekonstrukciju objekta, utvrđuju se uvidom na licu mjesta na objektu, uvidom u tehničku dokumentaciju objekta, uzimanjem uzoraka, ispitivanjima uzoraka i djelova aluminijumske konstrukcije, proračunima ili na drugi odgovarajući način.
