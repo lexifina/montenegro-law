@@ -1,0 +1,2 @@
+Na osnovu člana 32 tačka 17 Zakona o lokalnoj samoupravi ("Sl. list RCG" br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG" br. 88/09, 03/10 i 38/12) , člana 18 tačka 11 Statuta opštine Rožaje ("Sl. list - Opštinski propisi" broj 9/11 i 31/16) , člana 18 stav 2 Odluke o organizaciji i načinu rada lokalne uprave opštine Rožaje ("Sl. list CG - Opštinski propisi" br. 09/11), Skupština opštine Rožaje, na sjednici održanoj dana 27.12.2016.godine, donijela je
+O D L U K U
