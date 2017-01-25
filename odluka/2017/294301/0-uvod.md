@@ -1,0 +1,4 @@
+Na osnovu člana 34 tačka 43 Statuta Opštine Pljevlja ("Sl. list RCG - Opštinski propisi", broj 37/04, 30/07 i "Sl. List CG - Opštinski propisi" br. 32/09 i 14/11) Skupština Opštine Pljevlja, na sjednici održanoj dana: 28. i 29.12.2016. godine, donijela je
+ODLUKU
+O DAVANJU SAGLASNOSTI NA PROGRAM RADA DOO "LOKALNI PUTEVI"
+PLJEVLJA ZA 2017. GODINU
