@@ -1,0 +1,3 @@
+# Član 3
+Kupovina predmetne nepokretnosti iz člana 1 ove odluke, izvršiće se u skladu sa Geodetskim elaboratom parcelacije po DUP-u "Centar sa Gornjim Mojkovcem", UP 274 i UP 273a, koji je urađen od strane "Geoprojekt Perišić" D.O.O. iz Podgorice, br. 43/14, od 6. februara 2014. godine, koji čini sastavni dio ove Odluke.
+Građevinsko zemljište, koje je predmet ove odluke obuhvata katastarsku parcelu br. 256/1 površine 34m2 koja se koristi kao trotoar ispred objekta lamela "b" i katastarsku parcelu br. 256/4 površine 3m2, koja služi kao prolaz između objekata lamele "a" i lamele "b", a obje su upisane u Listu nepokretnosti br. 491 KO Mojkovac kao svojina - ,,EXIT- COMERC" MOJKOVAC.
