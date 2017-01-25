@@ -1,0 +1,2 @@
+Na osnovu člana 117 Zakona o uređenju prostora i izgradnji objekata (''Sl.list CG'', broj 51/08, 40/10, 34/11 i 47/11,35/13, 39/13, 33/14), člana 13 i 14 Odluke o postavljanju, građenju i uklanjanju privremenih objekata montažnog karaktera na teritoriji opštine Rožaje ("Sl.list CG" br. 31/14) i člana 42 Statuta Opštine Rožaje ("Sl. list CG - Opštinski propisi", br. 9/11 i 31/16), Skupština opštine Rožaje, na sjednici održanoj dana 27.12.2016. godine, donijela je
+GODIŠNJI PLAN PRIVREMENIH OBJEKATA ZA 2017. GODINU
