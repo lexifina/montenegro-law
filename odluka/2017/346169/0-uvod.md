@@ -1,0 +1,2 @@
+Na osnovu člana 35 stav 1 Statuta opštine Plužine ("Sl.list RCG - Opštinski propisi" broj 23/04 i 7/07 i "Sl.list CG - Opštinski propisi" broj 1/11, 8/11 i 22/11) i člana 64 Zakon o privrednim društvima ("Sl.list RCG" broj 06/02 i "Sl.list CG" br.17/07,80,08,40/10, 36/11 i 40/11) a u vezi sa članom 21 Odluke o proglašenju regionalnog parka Piva ("Sl.list CG - Opštinski propisi" broj 15/15), i članom 55 Zakona o zaštiti prirode ("Sl.list CG" br.54/2016.) , Skupština opštine Plužine, na sjednici održanoj 29.12.2016. godine, d o n i j e l a j e
+O D L U K U
