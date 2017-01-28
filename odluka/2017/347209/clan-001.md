@@ -1,0 +1,4 @@
+# Član 1
+## o davanju saglasnosti za zaključenje poravnanja u predmetu Posl.br.P.457/16
+Daje se saglasnost za zaključenje poravnanja u predmetu Posl.br.P.457/16 koji se vodi pred Osnovnim sudom u Herceg Novom na način što će Opština Tivat obavezati da na ime naknade za zemljište u k.o.Radovići na trasi saobraćajnice od Solila do kraja PUP-a Opštine TIvat koje čine djelovi kat.parc. 1045/85 u površini od 104m2, kat.parc.1045/14 u površini od 39m2, kat.par.1100/36 u površini od 13m2 i kat.parc.1100/35 u površini od 356m2 ( sve ranija čestica zemlje 1154/3) isplati Popović Vladimiru iznos od 41.984,oo€ i troškove postupka u iznosu od 1.500,oo€ u roku od petnaest dana od dana zaključenja poravanja .
+Uslov za zaključenje poravnanja je da tužilac povuče tužbu za isplatu naknade za istu česticu zemlje koja u površini od 385m2 ulazi u kat.parcelu 1146/1 k.o.Radovići
