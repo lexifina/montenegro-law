@@ -1,0 +1,2 @@
+# Član 3
+Protokolarni pokloni su: monografije i druge štampane publikacije, umjetnički predmeti, tonski i video zapisi o Crnoj Gori ili Tivtu, suveniri i drugi predmeti koji odražavaju simbole kulture, istorije, umjetnosti, tradicije i predstavljaju turističke, ekonomske i druge specifičnosti Crne Gore ili Tivta kao opštine, kao i konditorski proizvodi vrhunskog kvaliteta, vino i druga alkoholna pića, koji čine brend Crne Gore.
