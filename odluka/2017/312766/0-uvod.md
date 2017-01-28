@@ -1,0 +1,2 @@
+Na osnovu člana 31 Statuta opštine Plužine, ("Sl.list RCG-Opštinski propisi" br.23/04 i 7/07 i "Sl.list CG- Opštinski propisi" br. 1/11, 8/11 i 22/11), člana 33 Zakona o Budžetu CG ("Sl.list CG" br. 20/14) i člana 42 i 43 Zakona o finansiranju lokalne samouprave ("Sl.list RCG" br. 42/03, 44/03, "Sl.list CG" 5/08, 51/08 i 74/10 i 1/15), Skupština opštine na sjednici održanoj 29.12. 2016. godine, d o n i j e l a j e
+O D L U K U O PLANU BUDŽETA OPŠTINE PLUŽINE ZA 2017. GODINU
