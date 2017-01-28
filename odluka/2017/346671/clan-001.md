@@ -1,0 +1,4 @@
+# Član 1
+## o uslovima i načinu davanja saglasnosti investitoru u postupku pribavljanja građevinske dozvole ako se objekat gradi na dijelu urbanističke parcele
+U postupku izdavanja građevinske dozvole investitoru se može izdati zakonom propisana saglasnost za građenje na svojoj vlasničkoj parceli u okviru urbanističke parcele pod uslovom da preostali dio urbanističke parcele predstavlja javni put, saobraćajnu površinu, kanal, komunalnu infrastrukturu ili drugi lokalni objekat od opšteg interesa na kojem je nosilac prava Opština Tivat i kada je na parceli upisana službenost prolaza.
+Saglasnost iz stava 1 može se izdati i kada preostali dio urbanističke parcele predstavlja kat.parcelu koja je u katastru nepokretnosti uknjižena na ime i korist Opštine Tivat ali sa teretom zabrane otuđenja i opterećenja ( imovina nepoznatog vlasnika) .
