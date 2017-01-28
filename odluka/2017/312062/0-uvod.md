@@ -1,0 +1,2 @@
+Na osnovu člana 31 Statuta Opštine Tivat("Sl.list RCG-Opštinski propisi" br. 40/04 i 26/06, i "Sl.list CG - Opštinski propisi" br. 12/11, 21/11 i 3/13"), člana 47 Poslovnika Skupštine opštine Tivat("Sl.list-opštiski propisi",br.21/11) i člana 5 Odluke o obrazovanju radnih tijela ("Sl.list RCG-Opštinski propisi" br. 08/05), Skupština opštine Tivat, na sjednici održanoj dana 12.01.2017.godine, donijela je
+ODLUKU
