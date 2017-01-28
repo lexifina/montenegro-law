@@ -1,0 +1,5 @@
+# Član 75
+Prozori u radnim prostorijama proizvodnih objekata sa velikim stepenom rizika moraju da budu odgovarajućih dimenzija tako da obezbjeđuju propisano osvjetljenje i prirodno provjetravanje.
+Prozorska stakla ne smiju imati nepravilnosti u obliku mjehurića koji bi mogli djelovati kao sočiva i pod uticajem sunčevih zraka povećavati opasnost od požara.
+U radnim prostorijama u kojima postoji opasnost da krhotine stakla dođu u dodir sa eksplozivnim materijama, umjesto od stakla prozori moraju da budu od lake, prozirne plastične materije koja ne stvara oštre komadiće i koja pod povećanim vazdušnim pritiskom lako ispada iz prozorskog okvira. Prozori koji gledaju na sunčanu stranu moraju da budu zatamnjeni ili sa staklom difuzne svjetlosti, tako da se mogu otvoriti bez upotrebe merdevina, a donji dio okvira prozora sa unutrašnje strane mora da bude postavljen sa padom ka unutrašnjosti prostorije, pod uglom od 45°.
+U proizvodnim objektima sa velikim stepenom rizika ne smiju se postavljati svjetlarnici sa staklenim pločama.

@@ -1,0 +1,16 @@
+# Član 29
+Skladišta tipa 2 smještena na spoljašnjem prostoru, u odnosu na konstrukciju, moraju da ispunjavaju sljedeće uslove:
+1) zidovi (uključujući pokrivni dio) i vrata moraju da budu otporni na municiju;
+2) udaljenost od tavanice do poda ne smije biti manja od 1,8 m;
+3) zidovi i vrata moraju da budu otporni na požar, u skladu sa članom 8 stav 1 tačka 1 ovog pravilnika;
+4) na konstrukciji se sa unutrašnje strane mora na vidnom mjestu nalaziti pločica ovlašćenog proizvođača, na kojoj moraju da budu i podaci o otpornosti na požar zidova, kao i podaci o otpornosti na municiju;
+5) konstrukcija se izvodi kao rešetkasta konstrukcija od čeličnih profila, sa spoljašnje strane obložena čeličnim limom debljine najmanje 6 mm, a iznutra obložena materijalom, propisane vatrootpornosti u skladu sa članom 8 stav 1 tačka 1 ovog pravilnika;
+6) ako je unutrašnja obloga od tvrdog drveta, debljina obloge ne može da bude manja od 50 mm, a između spoljašnjeg lima i unutrašnje obloge stavlja se sloj od negorivog materijala odgovarajuće vatrootpornosti;
+7) ako unutrašnji dio obloge sadrži ploče od neobojenih metala, te ploče moraju da budu zaštićene premazom koji sprječava stvaranje varnice, pri čemu zaštitni sloj ne smije biti oštećen;
+8) boja spoljašnjih metalnih djelova treba da ima pojačanu refleksiju u pogledu energije zračenja, a zavisno od smještaja mogu se zaštititi bojom koja odgovara boji neposredne okoline (za skladišta smještena u šumama i drugim sličnim mjestima);
+9) skladište se, radi smanjenja težine, može izraditi sa dvostrukim zidovima između kojih se nakon montaže na mjestu upotrebe stavlja ispuna od negorivog materijala, s tim da budu ispunjeni uslovi u pogledu otpornosti na požar u skladu sa članom 8 stav 1 tačka 1 ovog pravilnika i otpornosti na municiju u skladu sa članom 9 stav 1 tačka 1 ovog pravilnika, a ukoliko je ispuna od pješčane mase debljina sloja mora da bude najmanje 15 cm;
+10) konstrukcija se može izvesti u više djelova koji se na mjestu upotrebe spajaju u cjelinu rastavljivim ili nerastavljivim vezama, pri čemu spoljašnja mjesta moraju da ispunjavaju uslove u pogledu otpornosti na municiju i otpornosti na požar, kao i ostali dio konstrukcije;
+11) za sredstva za paljenje eksploziva mora da bude izrađen poseban prostor koji ispunjava uslove propisane za konstrukciju skladišta, pri čemu se zahtjevi u pogledu otpornosti na požar odnose i na unutrašnje pregrade između dijela za sredstva za paljenje eksploziva i dijela za ostale eksplozivne materije;
+12) prostor iz tačke 11 ovog stava mora da bude izrađen tako da mu se može pristupiti samo sa spoljašnje strane i mora se zaključavati na dva mjesta, na način kao i vrata skladišta;
+13) konstrukcija mora da ima mogućnost pričvršćivanja za podlogu, čiju vezu nije moguće rastaviti sa spoljašnje strane, a ukoliko je konstrukcija izrađena od djelova spojenih rastavljivim vezama, najmanje krajnji djelovi moraju da budu pričvršćeni za podlogu na taj način;
+14) konstrukcija se ne smije direktno oslanjati na okolni teren već na betonsku i sličnu podlogu, pri čemu podloga mora da bude uzdignuta, odnosno izvedena sa blagom kosinom prema spoljašnjim stranama u pogledu slivanja atmosferskih voda; i 15) podloga mora da bude izrađena tako da se otvori za ventilaciju ne mogu zatvoriti.

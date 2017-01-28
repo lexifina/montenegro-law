@@ -1,0 +1,4 @@
+# Član 74
+Spoljašnja vrata proizvodnih objekata sa velikim stepenom rizika moraju se otvarati prema spolja i voditi neposredno na otvoreni prostor ili zaštitni prolaz, a njihovo zaključavanje vrši se samo sa spoljašnje strane.
+Broj spoljašnjih vrata na objektima iz stava 1 ovog člana određuje se prema veličini objekta i broju zaposlenih, s tim da se na tim objektima ne smiju postavljati klizna i leteća vrata.
+Dimenzije spoljašnjih vrata određuju se u zavisnosti od tehnološkog postupka, odnosno od predviđenog unutrašnjeg transporta i broja zaposlenih, a na tim vratima ne smiju se postavljati pragovi. Svaka radna prostorija u proizvodnom objektu sa velikim stepenom rizika mora imati najmanje jedan evakuacioni izlaz, koji je izrađen od nezapaljivog materijala i koji se nalazi na dijelu zida koji nema prozore.

@@ -1,0 +1,9 @@
+# Član 26
+Skladišta tipa 1, u odnosu na sistem za ventilaciju, moraju da ispunjavaju sljedeće uslove:
+1) skladište mora da ima sistem za prirodnu ventilaciju, sa dovoljnom izmjenom vazduha prema proračunu, posebno prema najviše dozvoljenim koncentracijama štetnih materija, a ventilacija mora da bude tako izvedena da u skladištu ne dođe do pojave vlage ili nedozvoljenog zagrijavanja;
+2) otvori za dovod vazduha za ventilaciju, čiji se broj određuje prema proračunu, moraju da budu na visini od 0,1 m od poda skladišta, a otvori za odvod vazduha moraju da budu pri plafonu na suprotnoj strani skladišta od otvora za dovod vazduha, tako da dovodni i odvodni otvori ne mogu da budu veći od 0,1 m2;
+3) otvori za ventilaciju moraju da budu konstruisani i izvedeni tako da kroz njih nije moguće ubacivanje bilo kakvih predmeta, ulijetanje varnice ili zrna municije (oblik periskopa), kao i ulazak atmosferske vode;
+4) otvori za ventilaciju moraju sa spoljašnje strane biti zaštićeni pocinkovanim mrežicama, veličine šupljina najviše 5 x 5 mm, debljine žice najmanje 0,5 mm ili sa poklopcem od lima sa otvorima;
+5) ukoliko u skladištu nije moguće izvesti otvore za ventilaciju u obliku periskopa, otvori moraju da budu zaštićeni na način iz člana 21 stav 1 tačka 8 ovog pravilnika, s tim da se mogu izrađivati prepreke i u otvorima, odnosno sa unutrašnje strane otvora za ventilaciju;
+6) ukoliko se prepreke ne postavljaju sa unutrašnje strane otvora za ventilaciju, na toj strani se moraju postaviti štitnici radi sprječavanja prekrivanja otvora;
+7) otvori za ventilaciju moraju se redovno čistiti; i 8) ukoliko instalacije sistema za ventilaciju prolaze kroz granice požarnih sektora, materijali ispune između instalacije i otvora na zidovima moraju da budu otporni na požar, a na mjestima prodora instalacija kroz granice požarnih sektora moraju se postaviti klapne otporne na požar, u skladu sa članom 8 stav 1 tačka 2 ovog pravilnika.

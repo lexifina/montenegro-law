@@ -1,0 +1,4 @@
+# Član 31
+Skladišta tipa 2 smještena na spoljašnjem prostoru, u odnosu na ventilaciju, moraju da ispunjavaju sljedeće uslove:
+1) skladišta moraju da imaju najmanje dva otvora za ventilaciju postavljena na suprotnim zidovima sa gornjom ivicom pri vrhu zida, a pored tih otvora, otvori se mogu izraditi i na donjem dijelu bočnih zidova ili u podu, neposredno uz bočne zidove, pri čemu moraju da budu takve konstrukcije da se postavljanjem (ugradnjom) na mjestu upotrebe ne mogu zatvoriti; i 2) zaštita otvora mora da bude takva da kroz otvor nije moguće ubacivanje bilo kakvih predmeta, ulijetanje varnice ili zrna municije, prodor plamena i ulazak atmosferske vode, pri čemu se prepreke mogu izvesti i u otvoru, odnosno sa njegove unutrašnje strane.
+Pored uslova iz stava 1 ovog člana, skladišta tipa 2 smještena na spoljašnjem prostoru moraju da ispunjavaju i uslove iz člana 26 stav 1 tač. 2, 5, 7 i 8 ovog pravilnika.

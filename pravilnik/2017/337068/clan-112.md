@@ -1,0 +1,4 @@
+# Član 112
+Bezbjednosno rastojanje kod proizvodnih objekata prostire se kružno oko proizvodnog objekta sa velikim stepenom rizika i mjeri se između međusobno najbližih spoljašnjih strana zida dva susjedna objekta, a određuje se u zavisnosti od količine i vrste eksplozivnih materija, namjene objekta, vrste krovnog pokrivača, konfiguracije okolnog terena, kao i namjene susjednih objekata i njihovog predviđenog stepena oštećenja.
+Na određivanje bezbjednosnih rastojanja za proizvodne objekte primjenjuju se odredbe čl. 96 do 111 ovog pravilnika.
+Bezbjednosno rastojanje između proizvodnih objekata sa velikim stepenom rizika i međusobno između objekata sa velikim stepenom rizika i objekata sa malim stepenom rizika dati su u Tabeli T-7. U slučaju da proizvodni objekti nemaju izgrađene grudobrane, bezbjednosna rastojanja data u Tabeli T-3 moraju se udvostručiti.

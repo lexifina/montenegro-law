@@ -1,0 +1,4 @@
+# Član 102
+Bezbjednosno rastojanje između skladišta eksplozivnih materija i skladišta zapaljivih tečnosti i gasova ne smije biti manje od dvostrukog bezbjednosnog rastojanja između skladišta datog u Tabeli T- 3.
+Bezjednosno rastojanje između skladišta eksplozivnih materija i aerodroma i drugih obavezno štićenih objekata, u skladu sa zakonom kojim se uređuje zaštita lica i imovine, ne smije biti manje od petostrukog bezbjednosnog rastojanja između skladišta i objekata i puteva, datog u Tabeli T-3.
+Izuzetno od stava 2 ovog člana ukoliko se u blizini objekata iz stava 2 ovog člana, nalaze privremena radilišta na kojima je potrebna upotreba eksplozivnih materija, eksplozivne materije mogu se skladištiti samo u kontejnerima mase do 500 kg eksplozivne materije, uz obaveznu izgradnju grudobrana u smjeru pasivnog objekta.

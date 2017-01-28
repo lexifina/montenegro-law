@@ -1,0 +1,4 @@
+# Član 32
+Skladišta tipa 2 smještena na spoljašnjem prostoru, u odnosu na zaštitu od atmosferskih pražnjenja, statičkog elektriciteta i varničenja, moraju da ispunjavaju sljedeće uslove:
+1) u slučaju spajanja djelova rastavljivim vezama moraju se obezbijediti pravilno izrađeni spojevi u pogledu uzemljenja cjelokupne konstrukcije (povezano u cjelinu sa jednim uzemljenjem ili uzemljenje svakog pojedinačnog spojnog dijela);
+2) uzemljenje se mora periodično ispitati u skladu sa propisima kojima se uređuje zaštita objekata od atmosferskih pražnjenja; i 3) skladišta moraju da imaju gromobransku instalaciju, u skladu sa propisima iz tačke 2 ovog stava. Pored uslova iz stava 1 ovog člana, skladišta tipa 2 smještena na spoljašnjem prostoru moraju da ispunjavaju i uslove iz člana 10 ovog pravilnika.

@@ -1,0 +1,2 @@
+# Član 15
+U zavisnosti od toga jesu li postavljena na otvorenom prostoru kao poseban objekat ili u nekom drugom objektu nadzemna skladišta mogu da budu spoljašnja i unutrašnja, a s obzirom na nivo poda mogu da budu površinska (koja su izgrađena u nivou ili iznad nivoa okolnog terena), poluukopana (od kojih je najviše dvije trećine visine iznad nivoa okolnog terena) i ukopana (od kojih se više od dvije trećine visine nalazi ispod nivoa okolnog terena).
