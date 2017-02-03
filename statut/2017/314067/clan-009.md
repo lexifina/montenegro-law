@@ -1,0 +1,3 @@
+# Član 9
+Ciljevi Zajednice su: razvoj, unapređenje i zaštita lokalne samouprave u Crnoj Gori, u skladu sa principima Evropske povelje o lokalnoj samoupravi; ostvarivanje zajedničkih interesa jedinica lokalne samouprave i unapređenje njihovih stručnih, materijalnih i finansijskih kapaciteta za ostvarivanje nadležnosti i efikasno pružanje usluga građanima.
+Zajednica predstavlja i zastupa zajednički utvrđene interese svojih članica, a naročito u postupku pripreme i donošenja zakona i drugih akata koji su od značaja za organizaciju, rad, funkcionisanje i finansiranje lokalne samouprave i predstavljanju njihovih interesa pred centralnim vlastima i međunarodnim organizacijama i asocijacijama.

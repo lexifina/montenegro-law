@@ -1,0 +1,1 @@
+# PRAVNI STATUS

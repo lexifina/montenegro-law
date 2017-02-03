@@ -1,0 +1,2 @@
+# Član 39
+Odbor za društvene djelatnosti prati i razmatra primjenu zakona i drugih propisa iz oblasti društvenih djelatnosti; vrši razmjenu iskustava i praksi u normativnoj uređivanju i primjeni propisa u praksi u zemljama regiona i zemljama članicama EU; učestvuje u radu stručnih timova resornih ministarstava; podnosi inicijative, daje izjašnjenja, predloge i amandmane na zakone i druge propise i vrši druge poslove koji se odnose na oblast društvenih djelatnosti, a koji su od interesa za lokalne samouprave.

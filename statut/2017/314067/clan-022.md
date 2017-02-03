@@ -1,0 +1,25 @@
+# Član 22
+Upravni odbor:
+- utvrđuje Predlog Statuta Zajednice i Predlog Odluke o izmjeni i dopuni Statuta;
+- donosi Program rada Zajednice;
+- donosi Finansijski plan Zajednice;
+- usvaja Izvještaj o radu Zajednice;
+- usvaja Izvještaj o finansijskom poslovanju Zajednice;
+- utvrđuje predlog Odluke o visini članarine;
+- odlučuje o raspolaganju imovinom Zajednice;
+- donosi odluku o učešću Zajednice u organizacijama i institucijama od značaja za ostvarivanje ciljeva Zajednice, kroz osnivanje, suosnivanje ili kupovinu njihovih udjela;
+- donosi Odluku o privremenom finansiranju Zajednice;
+- donosi odluke i druge akte kojim se obezbjeđuje ostvarivanje ciljeva i djelatnosti Zajednice;
+- donosi odluke i druge akte kojim se uređuju pitanja zarada i naknada zaposlenih i lica angažovanih za potrebe ostvarivanja ciljeva i djelatnosti Zajednice;
+- donosi odluku o učlanivanju u međunarodne asocijacije i organizacije;
+- bira i razrješava predsjednika i dva potpredsjednika Upravnog odbora;
+- imenuje i razrješava Generalnog sekretara;
+- imenuje članove u sastav stalnih radnih tijela Zajednice;
+- odlučuje o izdavanju časopisa "Naša Zajednica" i imenuje glavnog urednika i članove redakcije;
+- stara se o ostvarivanju međuopštinske i međunarodne saradnje;
+- daje saglasnost na Odluku Generalnog sekretara o izboru pomoćnika Generalnog sekretara;
+- daje saglasnost na akt o organizaciji i sistematizaciji radnih mjesta u Sekretarijatu Zajednice;
+- u slučaju prestanka mandata Generalnom sekretaru, donosi odluku o imenovanju vršioca dužnosti do izbora Generalnog sekretara u skladu sa Statutom;
+- donosi Plan javnih nabavki;
+- donosi Poslovnik o radu;
+- obavlja i druge poslove od interesa za ostvarivanje ciljeva i rada organa Zajednice i njenih članica.

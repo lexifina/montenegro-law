@@ -1,0 +1,2 @@
+# Član 36
+Odbor za finansiranje lokalne samouprave prati i razmatra primjenu zakona i drugih propisa o finansiranju lokalne samouprave; vrši razmjenu iskustava i praksi u normativnom uređivanju i primjeni propisa o finansiranju lokalnih samouprava u regionu i zemaljama EU; učestvuje u radu stručnih timova resornih ministarstava; pokreće inicijative, daje izjašnjenja, predloge i podnosi amandmane na zakone i druge propise kojima se uređuje finansiranje lokalne samouprave i vrši druge poslove koji se odnose na ovu oblast.
