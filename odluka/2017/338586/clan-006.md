@@ -1,0 +1,4 @@
+# Član 6
+Izvještaj o strateškoj procjeni izrađuje organ nadležan za pripremu plana ili programa ili ga može povjeriti pravnom licu ili preduzetniku koje je upisano u odgovarajući registar za obavljanje poslova izrade planskih dokumenata, studija i analiza uticaja na životnu sredinu u skladu sa Zakonom.
+Pravno lice ili preduzetnik za izradu strateške procjene, odnosno Izvještaja o strateškoj procjeni mora obrazovati multidisciplinarni tim sastavljen od stručnih lica (između ostalih obavezno mora da sadrži stručnjaka za biodiverzitet i zdravlje ljudi, kao i elektro inženjera), kvalifikovanih za analizu svakog elementa Izvještaja o strateškoj procjeni.
+Tim iz stava 2 ovog člana i multidisciplinarni tim koji priprema Izmjene i dopune DPP, dužni su da u toku rada razmjenjuju i usaglašavaju podatke i rješenja u svim fazama izrade Izmjena i dopuna DPP.

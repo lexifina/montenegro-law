@@ -1,0 +1,3 @@
+# Član 1
+Pristupa se izradi Strateške procjene uticaja na životnu sredinu za Izmjene i dopune Detaljnog prostornog plana za koridor dalekovoda 400 kv sa optičkim kablom od Crnogorskog primorja do Pljevalja i podmorski kabal 500 kv sa optičkim kablom Italija - Crna Gora u dijelu detaljne razrade lokacije za trafostanicu i konvertorsko postrojenje Blato u Lastvi Grbaljskoj (u daljem tekstu: Izmjene i dopune DPP).
+Cilj strateške procjene je da već u toku pripreme i prije usvajanja plana identifikuju i procijene njihove posljedice na životnu sredinu. Uticaje predloženog plana i njegovih alternativa potrebno je analizirati prije donošenja planskog dokumenta. Nalaze i preporuke Izvještaja o strateškoj procjeni potrebno je inkorporirati u Izmjene i dopune DPP.

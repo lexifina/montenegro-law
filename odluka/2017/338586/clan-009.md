@@ -1,0 +1,2 @@
+# Član 9
+U skladu sa važećim međunarodnim ugovorima i Zakonom o strateškoj procjeni uticaja na životnu sredinu državni organ nadležan za poslove zaštite životne sredine pokreće postupak o razmjeni informacija o prekograničnim uticajima, ukoliko se Izvještajem o strateškoj procjeni uticaja dođe do zaključka da realizacijom izmjena i dopuna planskog dokumenta postoji uticaj na životnu sredinu druge države.
