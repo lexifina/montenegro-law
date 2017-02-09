@@ -1,0 +1,3 @@
+# Član 9
+Nevladina organizacija koja je za realizaciju projekata koristila budžetska sredstva po javnom konkursu u prethodnoj godini, prilaže, u štampanoj ili elektronskoj verziji, izvještaj o realizaciji projekta, sa opisom faza realizacije i obrazloženjem eventualnih odstupanja, uključujući i finansijski izvještaj u propisanoj formi, shodno Ugovoru o korišćenju sredstava.
+Ukoliko nevladina organizacija ne dostavi traženi finansijski i opisni izvještaj o realizaciji sredstava za prethodno odobren projekat koji je finansiran iz Budžeta Opštine, ne može učestvovati u narednim raspodjelama sredstava.
