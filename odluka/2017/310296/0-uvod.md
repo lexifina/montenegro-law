@@ -1,0 +1,2 @@
+Na osnovu čl. 24 i 25 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 17/98, 14/00, 73/00, 9/01, 41/02, 46/02, 45/04, 48/06 i 56/06 i "Službeni list CG", br. 46/11, 14/14, 47/14 i 12/16) i člana 40 Statuta opštine Nikšić ("Službeni list RCG-Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG-Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 10.02.2017.godine, donijela je
+O D L U K U
