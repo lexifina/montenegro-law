@@ -1,0 +1,7 @@
+# Član 5
+## Početna hrana za odojčad
+(1) Subjekat u poslovanju hranom može stavljati na tržište početnu hranu za odojčad (infant formula) samo ako je proizvedena od proteina datih u Prilogu 1 tačka 2 koji je sastavni dio ove uredbe, i/ili drugih sastojaka koji se mogu dodavati u početnu hranu za odojčad, za koje je naučno dokazana njihova pogodnost za ishranu odojčadi.
+(2) Početna hrana za odojčad (infant formula) mora ispunjavati zahtjeve u pogledu osnovnog sastava u skladu sa Prilogom 1 ove uredbe, uzimajući u obzir sadržaj esencijalnih i uslovno esencijalnih aminokisjelina u majčinom mlijeku datim u Prilogu 2 koji je sastavni dio ove uredbe.
+(3) Početna hrana za odojčad (infant formula) proizvedena od proteina kravljeg mlijeka iz Priloga 1 tačka 2.1 ove uredbe sa sadržajem proteina između minimuma i 0,5g/100kJ (2g/100kcal) može se koristiti za ishranu odojčadi samo ako za to postoje opšte prihvaćeni naučni dokazi.
+(4) Početna hrana iz stava 3 ovog člana koja je proizvedena od hidrolizata proteina iz Priloga 1 tačka 2.2 ove uredbe sa sadržajem proteina između minimuma i 0,56g/100kJ (2,25g/100kcal) može se koristiti za ishranu odojčadi samo ako za to postoje opšte prihvaćeni naučni dokazi i mora biti u skladu sa zahtjevima datim u Prilogu 3 koji je sastavni dio ove uredbe.
+(5) Početna hrana iz stava 1 ovog člana mora da ispunjava i propisane zahtjeve koji se odnose na mikrobiološke kriterijume, kontaminente, radioaktivnost i druge zahtjeve utvrđene posebnim propisima.
