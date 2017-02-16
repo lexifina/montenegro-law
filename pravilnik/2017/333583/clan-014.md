@@ -1,0 +1,2 @@
+# Član 14
+Prilikom određivanja vrste i težine disciplinske mjere iz člana 113 Zakona o notarima, disciplinska komisija cijeni sve olakšavajuće i otežavajuće okolnosti, a naročito težinu učinjene povrede, stepen odgovornosti, okolnosti pod kojima je povreda učinjena, ponašanje učinioca povrede, prije i poslije učinjene povrede, kao i druge okolnosti karakteristične za učinjenu povredu i njenog učinioca.

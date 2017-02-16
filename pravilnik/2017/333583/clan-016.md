@@ -1,0 +1,5 @@
+# Član 16
+Prigovor na odluku prvostepene disciplinske komisije predsjednik prvostepene disciplinske komisije dostavlja na izjašnjenje disciplinskom tužiocu, odnosno notaru koji imaju pravo da se pisano izjasne na prigovor, u roku od osam dana od dana prijema.
+Predsjednik prvostepene disciplinske komisije dužan je da po prijemu izjašnjenja ili po proteku roka za izjašnjenje zajedno sa prigovorom, bez odlaganja, dostavi spise drugostepenoj disciplinskoj komisiji.
+Drugostepena disciplinska komisija razmatra prigovor na zatvorenoj sjednici, cijeneći naročito da li je u prvostepenom postupku potpuno i pravilno utvrđeno činjenično stanje, da li je izrečena odgovarajuća disciplinska mjera i da li je pravilno primijenjeno materijalno pravo.
+Ako ocijeni potrebnim da ponovo sasluša notara ili disciplinskog tužioca ili nekog od svjedoka i drugih lica koji su dali iskaz u prvostepenom postupku ili da pozove nove svjedoke ili vještake ili neposredno izvede neki drugi dokaz, predsjednik drugostepene disciplinske komisije zakazuje raspravu.
