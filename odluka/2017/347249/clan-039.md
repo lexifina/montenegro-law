@@ -1,0 +1,4 @@
+# Član 39
+Novčanom kaznom od 150 do 10.000,00 € kazniće se za prekršaj Vodovod kome su povjereni poslovi upravljanja i održavanja seoskih ili lokalnih vodovoda, ako:
+- pri održavanju i zaštiti vodnih objekata ne preduzima i sprovodi potrebne mjere u cilju zaštite izvorišta za vodosnabdijevanje, vodovodne mreže, uređaja i instalacija na vodovodnoj mreži do mjernog instrumenta potrošača uključujući i mjerni instrument (član 23), - vrši radove dogradnje i rekonstrukcije seoskih i lokalnih vodovoda bez prethodno pribavljene vodne saglasnosti organa uprave Ulcinj nadležnog za izdavanje vodnih akata (član 24), - ne obavijesti potrošače o prestanku isporuke vode na način i u rokovim predviđenim odredbama člana 29, - ne obavijesti potrošače o ograničenju u korišćenja vode, na način i u rokovima predviđenim odredbama čl. 30.
+Za prekršaje iz stava 1 ovog člana kazniće se odgovorno lice u Vodovodu novčanom kaznom od 20 do 1.000,00€.

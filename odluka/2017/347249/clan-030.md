@@ -1,0 +1,3 @@
+# Član 30
+Kada usljed suše, većih tehničkih kvarova, ili drugih razloga, dođe do smanjenja ili nestašice vode potrebne za normalno snabdijevanje potrošača, subjekat koji upravlja vodnim objektima može donijeti odluku o ograničenju korišćenja vode, odnosno o korišćenju vode isključivo za određene potrebe (piće, sanitarne potrebe i pojenje stoke) vodeći pri tom računa o rezervama vode za slučaj požara.
+O odluci iz prethodnog stava, kao i uslovima korišćenja vode i vremenu trajanja ograničenja, subjekat iz stava 1 ovog člana upoznaće potrošače preko sredstava javnog informisanja ili na drugi prigodan način, najmanje 48 časova prije stupanja na snagu takve odluke.

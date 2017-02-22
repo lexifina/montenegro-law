@@ -1,0 +1,3 @@
+Na osnovučlana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09, 38/12 i 10/14 ), člana 48 stav 4 i 5 Zakona o vodama ("Službeni list RCG", broj 27/07 i "Službeni list CG", br. 32/11, 47/11 I 48/15), člana 12, 14 i 15 Zakona o komunalnim djelatnostima ("Sl. list CG", broj 55/16), i člana člana 42, stav 1. tačka 2. Statuta opštine Ulcinj ("Službeni list CG - Opštinski propisi", br. 5/07, 9/09 i 16/11), Skupština Opštine Ulcinj na sjednici održanoj 30.12.2016. godine, donijela je
+ODLUKU
+o vodosnabdijevanju seoskih i drugih naselja na teritoriji Opštine Ulcinj
