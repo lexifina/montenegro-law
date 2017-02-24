@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika("Sl.list RCG", br. 04/98, 05/98, 17/98, 14/00, 18/00, "Sl.list SRJ", br. 73/00, 09/01, 41/02, 46/02, 45/04, 48/06, 56/06, "Sl.list CG", br. 46/11, 14/14, 47/14, 12/16) i člana 36 Statuta opštine Herceg Novi ("Sl.list RCG- Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, "Sl.list CG-Opštinski propisi", br. 16/09, 16/11), Skupština opštine Herceg Novi, na sjednici održanoj 20.02.2017. godine, donijela je
+O D L U K U
