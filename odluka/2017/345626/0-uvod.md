@@ -1,0 +1,2 @@
+Na osnovu člana 37. Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14 i 56/14), člana 44. Zakona o finansiranju lokalne samouprave ("Službeni list RCG", broj 42/03 i "Službeni list CG", br. 05/08, 74/10 i 01/15) i člana 30. i 34. Statuta Opštine Kotor ("Službeni list CG - Opštinski propisi", br. 19/10), Skupština Opštine Kotor, na sjednici održanoj dana 21. 02. 2017. godine, donijela je
+ODLUKU
