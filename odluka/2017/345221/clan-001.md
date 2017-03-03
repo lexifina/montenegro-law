@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za zaključivanje Ugovora o sufinansiranju između Glavnog grada Podgorica i Udruženja penzionera Podgorica
+Daje se saglasnost za zaključivanje Ugovora o sufinansiranju između Glavnog grada Podgorica i Udruženja penzionera Podgorica, kojim se Glavni grad Podgorica obavezuje da izvrši uplatu iznosa od 139.000,00 eura Udruženju penzionera Podgorica po Ugovoru o građenju broj 62, kojim je ugovorena izgradnja stambeno poslovnog objekta na urbanističkoj parceli 17 u okviru Detaljnog urbanističkog plana ″Servisno skladišna zona″ u Podgorici, sa 104 stambene jedinice, za potrebe penzionera iz Glavnog grada.
