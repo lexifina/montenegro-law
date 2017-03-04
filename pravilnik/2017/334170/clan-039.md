@@ -1,0 +1,2 @@
+# Član 39
+Na svaki primjerak pismena primljenog u Agenciji stavlja se otisak štambilja o prijemu, i to, po pravilu, na prvu stranicu u sredini gornjeg dijela pismena. Ako tu nema dovoljno mjesta, otisak se stavlja na pogodno mjesto na prvoj stranici, a ako to nije moguće, na poleđini pismena u gornjem lijevom uglu. Ako su sve stranice pismena u cjelini ispunjene tekstom, otisak štambilja o prijemu stavlja se na poseban papir koji se spaja sa pismenom.

@@ -1,0 +1,2 @@
+Na osnovu člana 56 stav 1 tačka 1 Zakona o zaštiti podataka o ličnosti ("Službeni list CG", br. 79/08, 70/09 i 44/12) i člana 15 stav 1 tačka 1 Statuta Agencije za zaštitu ličnih podataka i slobodan pristup informacijama, Savjet Agencije za zaštitu ličnih podataka i slobodan pristup informacijama, na sjednici održanoj dana 10.02.2017. godine, donio je
+PRAVILNIK O POSLOVANJU AGENCIJE ZA ZAŠTITU LIČNIH PODATAKA I SLOBODAN PRISTUP INFORMACIJAMA
