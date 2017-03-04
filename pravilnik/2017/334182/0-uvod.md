@@ -1,0 +1,4 @@
+Na osnovu člana 6 stav 1 tačka 9, a u vezi sa čl. 74 stav 1, 75 stav 7, 81 stav 11 i 86 stav 2Zakona o vazdušnom saobraćaju ("Službeni list CG", broj 30/12), uz prethodnu saglasnost Ministarstva saobraćaja i pomorstva, Agencija za civilno vazduhoplovstvo donijela je
+PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O CERTIFIKACIJI PLOVIDBENOSTI I EKOLOŠKOJ CERTIFIKACIJI VAZDUHOPLOVA I
+VAZDUHOPLOVNIH PROIZVODA, DJELOVA I UREĐAJA I ZA CERTIFIKACIJU
+PROJEKTNIH I PROIZVODNIH ORGANIZACIJA
