@@ -1,0 +1,4 @@
+# Član 9
+O toku izvršenja mjere bezbjednosti zabrana približavanja, Jedinica za uslovnu slobodu, najmanje dva puta u toku izvršenja, podnosi izvještaj organu uprave nadležnom za poslove policije i državnom tužilaštvu.
+Izvještaj iz stava 1 ovog člana sadrži: podatke o osuđenom, podatke o žrtvi ili drugom licu ili grupi lica kojima osuđeni ne smije da se približava, podatke o mjestu u odnosu na koje je određena mjera bezbjednosti zabrana približavanja i granicama mjesta ili područja za izvršenje te mjere, podatke o pravima i obavezama osuđenog tokom izvršenja mjere, radnje koje je Jedinica za uslovnu slobodu preduzimala tokom izvršenja mjere i druge podatke o toku izvršenja mjere.
+U slučaju da osuđeni ne poštuje obaveze koje su mu određene individualnim programom izvršenja mjere bezbjednosti zabrana približavanja, izvještaj iz stava 1 ovog člana sadrži i podatke o tome.
