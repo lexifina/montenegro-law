@@ -1,0 +1,2 @@
+# Član 8
+Upoznavanje sa Zakonom o sudovima, Zakonom o Sudskom savjetu i sudijama, Sudskim poslovnikom, Poslovnikom Sudskog savjeta, Kućnim redom i Etičkim kodeksom sudija, Evropskom konvencijom za zaštitu ljudskih prava i osnovnih sloboda i praksom Evropskog suda za ljudska prava, kao i sa drugim materijalnim i procesnim zakonima koji se primjenjuju u radu podrazumijeva obavezu čitanja i primjene tih propisa koje obezbjeđuje sud u kojem se pripravnik stručno osposobljava.
