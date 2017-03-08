@@ -1,0 +1,4 @@
+# Član 7
+Član 65 mijenja se i glasi:
+"Preuzimanje notarskih spisa, knjiga i u depozit predatih isprava, novca, hartija od vrijednosti i drugih predmeta u slučaju prestanka vršenja poslova notara vrši se u kancelariji notara, u prisustvu svih članova komisije obrazovane u skladu sa članom 93 stav 2 Zakona o notarima (u daljem tekstu: Komisija).
+Zapisnik o preuzimanju notarskih spisa, knjiga i u depozit predatih isprava, novca i hartija od vrijednosti, kao i drugih predmeta notara, koji prestaje sa vršenjem poslova ili u slučaju promjene službenog sjedišta, treba da sadrži: mjesto sačinjavanja, sastav Komisije, vrijeme preuzimanja, ukupan broj posebnih fascikli u kojima su složeni notarski akti po vrsti, redne brojeve spisa pojedinih knjiga iz svake fascikle, stvari preuzete u depozit, knjige koje se nalaze u kancelariji notara i potpis članova Komisije."
