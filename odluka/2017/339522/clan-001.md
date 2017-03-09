@@ -1,0 +1,3 @@
+# Član 1
+## o dopuni Odluke o kriterijumima, načinu i postupku raspodjele sredstava nevladinim organizacijama
+U Odluci o kriterijumima, načinu i postupku raspodjele sredstava nevladinim organizacijama ("Sl.list Crne Gore - opštinski propisi", br. 19/09 ) u članu 3 poslije stava 2 dodaje se novi stav koji glasi: '' Izuzetno od odredbe stava 1 ovog člana, sredstva iz člana 1 ove odluke, mogu se u skladu sa Finansijskim planom Gradske opštine za budžetsku godinu, raspodjeliti nevladinim organizacijama po odluci predsjednika Gradske opštine, na osnovu podnijetih zahtjeva nevladinih organizacija''.
