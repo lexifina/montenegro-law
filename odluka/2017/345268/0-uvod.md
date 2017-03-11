@@ -1,0 +1,2 @@
+Na osnovu člana 14 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 12/95), člana 10 stav 1 tačka 1 Odluke o osnivanju društva sa ograničenom odgovornošću "Vodovod i kanalizacija-Cetinje" ("Sl. list CG-Opštinski propisi" br. 30/13 i 22/14) i člana 63 stav 1 tačka 42 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", br. 019/09, 037/10, 026/13 , 039/14 i 012/16), Skupština Prijestonice Cetinje, na sjednici održanoj dana 01.03.2017. godine, donijela je
+ODLUKU
