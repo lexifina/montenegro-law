@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 t. 9 i t.10 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/2003, 28/2004, 75/2005, 13/2006 i "Službeni list CG", br.88/2009, 3/2010, 38/2012, 10/2014, 57/2014 i 3/2016), člana 85 stav 1 t. 2 Statuta Opštine Ulcinj ("Službeni listu CG -Opštinski propisi", br. 5/2007, 9/2009 i 16/2011) a u vezi člana 22 stav 3 Odluke o organizaciju i načinu rada organa lokalne uprave ("Službeni list CG - Opštinski propisi", br. 16/2012, 33/2013, 13/2014, 23/2014 i 11/2015), Predsjednik Opštine u vršenju izvršne funkcije, donosi
+PRAVILNIK
