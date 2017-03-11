@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 1 tačka 8 Zakona o lokalnoj samoupravi (,,Službeni list RCG" br. 42/03, 28/04, 75/05 i 13/06 i ,,Službeni list CG" br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14 i 3/16) i člana 48 stav 1 alineja 2, u vezi sa članom 22 tačka 5 Statuta Glavnog grada (,,Službeni list RCG - Opštinski propisi", broj 28/06 i ,,Službeni list CG - Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada-Podgorice, na sjednici održanoj 28. februara 2017. godine, donijela je
+O D L U K U

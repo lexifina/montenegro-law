@@ -1,0 +1,4 @@
+# Član 8
+Pravna pomoć može se uskratiti:
+- ako je zahtjev očigledno neosnovan, - ako bi to bilo štetno po interese stranke koja traži pravnu pomoć, - ako bi korišćenje zahtijevanog vida pravne pomoći bilo u suprotnosti sa zakonom, - ako stranka uslovljava pružanje pravne pomoći uspjehom ili krajnjim ishodom, - ako je u istoj pravnoj stvari već donijeta pravosnažna odluka, a ne postoje nove činjenice i okolnosti, - ako je u istoj pravnoj stvari stranka već angažovala punomoćnika, - ako je u istoj stvari već pružena pravna pomoć protivnoj stranci i - u drugim slučajevima kada pružanje pravne pomoći nije opravdano.
+U slučaju iz stava 1 ovog člana, nadležni organ dužan je da, na zahtjev stranke, donese riješenje kojim će obrazložiti razloge uskraćivanja pravne pomoći po pravilima upravnog postupka.
