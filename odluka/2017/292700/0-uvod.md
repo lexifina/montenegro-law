@@ -1,0 +1,2 @@
+Na osnovu člana 108 Zakona o lokalnoj samoupravi (,,Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i ,,Sl. list CG", br. 88/09, 73/10, 38/12, 10/14, 57/14 i 03/16) i člana 98 stav 3 Statuta Glavnog grada (,,Sl. list RCG-Opštinski propisi", broj 28/06 i ,,Sl. list CG-Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 28. februara 2017. godine, donijela je
+ODLUKU
