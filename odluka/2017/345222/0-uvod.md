@@ -1,0 +1,3 @@
+Na osnovu člana 1 stav 1 Zakona o eksproprijaciji ("Službeni list RCG, broj 55/00, 12/02, 28/06, i Sl. list Crne Gore, br. 21/08), člana 7 Zakona o uredjenju prostora i izgradnji objekata ("Službeni list CG, broj 51, 40/10, 34/11, 47/11 , 35/13, 39/13 i 33/14), člana 33 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 3/10, 73/10, 38/12, 10/14, 57/14 i 3/16 ), i člana 71 Statuta Prijestonice ("Službeni list CG-Opštinski propisi, broj 19/09, 37/10, 26/13, 39/14 i 12/16), Skupština Prijestonice Cetinje na sjednici održanoj dana 01.03.2017. godine donijela je
+ODLUKU
+o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti u
