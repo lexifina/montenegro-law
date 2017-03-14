@@ -1,0 +1,2 @@
+Na osnovu člana 154 Zakona o socijalnoj i dječjoj zaštiti ("Sl. list CG", br. 27/13, 01/15, 42/15, 47/15, 56/16, 66/16, 01/17), a u skladu sa članom 25 Odluke o pravima i uslugama iz socijalne i dječje zaštite ("Sl. list CG-Opštinski propisi" br. 03/17) i člana 31 Statuta Opštine Tivat ("Sl. list RCG-Opštinski propisi", br. 40/04, 26/06 i "Sl. list CG-Opštinski propisi", br. 12/11, 21/11 i 3/13), Skupština opštine Tivat na sjednici održanoj dana 14.03.2017. godine donijela je
+O D L U K U
