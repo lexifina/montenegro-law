@@ -1,0 +1,3 @@
+Na osnovu člana 42 Zakona o finansiranju lokalne samouprave ("Sl.list RCG", 42/03, 44/03, "Sl.list CG", br.5/08, 51/08, 74/10, 1/15, 78/15, 3/16), člana 48 stav 2 i člana 55c Zakona o Glavnom gradu ("Sl. list RCG", br. 65/05, "Sl. list Crne Gore", br. 88/09, 72/10 i 2/16), člana 9 stav 1 tačka 2 i člana 23 stav 1 tačka 2 Statutarne odluke Gradske opštine Golubovci ("Službeni list RCG-opštinski propisi", br. 14/07 i "Sl. list CG-opštinski propisi"; br. 24/11), Skupština Gradske opštine Golubovci, na XII sjednici, održanoj dana 27.12.2016. godine, usvojila je
+ODLUKU
+o finansijskom planu Gradske Opštine Golubovci za 2017. godinu
