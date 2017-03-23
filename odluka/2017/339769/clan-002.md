@@ -1,0 +1,2 @@
+# Član 2
+Liješević Ivan je dužan da plati Opštini Žabljak naknadu za građevinsko zemljište iz člana 1 ove odluke i to za razliku u površini između katastarske parcele broj 2635/21 koja je u njegovoj svojini i koja je prema planu parcelacije sastavni dio javne saobraćajnice - ulice i urbanističke parcele broj 610, a koja iznosi 8 m2 u skladu sa Odlukom o naknadi za dokompletiranje urbanističkih parcela ("Sl.list CG-Opštinski propisi", br. 31/14 i 1/16).
