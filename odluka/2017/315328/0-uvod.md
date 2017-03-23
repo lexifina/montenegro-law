@@ -1,0 +1,2 @@
+Na osnovu čl. 45. stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list RCG" br. 42/03, 28/04, 75/05, 13/06 i "Sl.lista CG" br. 88/09,3/10,38/12, 10/14, 57/14 i 3/16,) i člana 35 Statuta opštine Plužine ("Sl.list RCG - Opštinski propisi" br. 23/04,7/07) i "Sl.list CG - Opštinski propisi" br. 1/11, 8/11,22/11), a u vezi sa članom 40. st.2 i 3 Zakona o državnoj imovini ("Sl.list CG" br. 21/09), Skupština opštine Plužine, na sjednici održanoj 23.03.2017. godine, d o n i j e l a j e
+O D L U K U
