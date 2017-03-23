@@ -1,0 +1,2 @@
+# Član 6
+Stupanjem na snagu ove Odluke prestaje da važi Odluka o prenosu prava svojine broj 463/12-01-452 od 25.12.2014.godine ("Sl.list CG - Opštinski propisi", broj 2/15), Odluka o izmjenama i dopunama Odluke o prenosu prava svojine broj 031/16-01-767 od 26.04.2016.godine i Odluka o potvrđivanju Odluke o izmjenama i dopunama Odluke o prenosu prava svojine na Elektroprivredu Crne Gore AD Nikšić ("Sl.list CG - Opštinski propisi", broj 26/16).
