@@ -1,0 +1,5 @@
+Na osnovu člana 50 Opšteg zakona o obrazovanju i vaspitanju ("Službeni list RCG", br. 64/02, 31/05 i 49/07 i "Službeni list CG", br. 45/10, 45/11, 36/13 i 39/13) i člana 196 Zakona o opštem upravnom postupku ("Službeni list RCG", broj 60/03 i "Službeni list CG", broj 32/11), Ministarstvo prosvjete donijelo je
+RJEŠENJE O IZDAVANJU LICENCE PRIVATNOJ USTANOVI ORGANIZATORU OBRAZOVANJA ODRASLIH "CENTAR ZA KREATIVNO OBRAZOVANJE GLOBE" IZ PODGORICE
+1. Izdaje se licenca Privatnoj ustanovi organizatoru obrazovanja odraslih "CENTAR ZA KREATIVNO OBRAZOVANJE GLOBE" iz Podgorice, za izvođenje: Programa obrazovanja za učenje engleskog jezika, Programa obrazovanja za učenje poslovnog engleskog jezika, Programa obrazovanja za učenje pravnog engleskog jezika, Programa obrazovanja za učenje ruskog jezika, Programa obrazovanja za učenje italijanskog jezika, Programa obrazovanja za učenje francuskog jezika i Programa obrazovanja za učenje njemačkog jezika, kojima je utvrđena javna važnost.
+2. Ovo rješenje stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore".
+UPI broj 060-20/2017
