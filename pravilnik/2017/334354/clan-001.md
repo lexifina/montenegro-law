@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se način vođenja i sadržaj registra pravnih lica za uzgoj, selekciju, proizvodnju i promet pčelinjih matica (u daljem tekstu: Centar za uzgoj pčelinjih matica), bliža sadržina i vrste matične evidencije pčelinjih matica, uslovi u pogledu objekata, opreme i stručne spreme zaposlenih u Centru za uzgoj pčelinjih matica, uslovi gajenja i veličina zaštitnog pojasa oko Centra za uzgoj pčelinjih matica.
