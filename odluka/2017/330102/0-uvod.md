@@ -1,0 +1,2 @@
+Na osnovu člana 98 Zakona o lokalnoj samoupravi ("Sl. list RCG" br. 42/03, 28/04, 75/05,13/06 I "Sl. list CG" br. 88/09, 03/10 i 38/12), člana 112 i člana 42 Satuta opštine Rožaje ("Sl. list CG - Opštinski propisi", br. 09/11 i 31/16) i na osnovu člana 14 Odluke o mjesenim zajednicama ("Sl. list RCG - Opštinski propisi" br. 12/2005), Skupština opštine Rožaje, na sjednici održanoj 02.03.2017.godine, d o n i j e l a j e
+ODLUKU
