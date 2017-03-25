@@ -1,0 +1,2 @@
+Na osnovu člana 83 stav 3 i 83a, a u vezi sa članom 65 Zakona o poštanskim uslugama ("Sl. list Crne Gore", broj 57/11, 55/16) i članom 14 stav 1 tačka 6 Zakona o elektronskim komunikacijama ("Sl. list CG", broj 40/13 i 56/13), Savjet Agencije za elektronske komunikacije i poštansku djelatnost na sjednici održanoj 14.03.2017. godine donio je
+PRAVILNIK O POSTUPKU I KRITERIJUMIMA ZA IZBOR UNIVERZALNOG POŠTANSKOG OPERATORA
