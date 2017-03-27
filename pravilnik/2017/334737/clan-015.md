@@ -1,0 +1,4 @@
+# Član 15
+Za građenje i projektovani eksplatacioni vijek objekta glavnim projektom objekta moraju se predvidjeti svi uticaji na dimnjak koji proizlaze iz načina i redosljeda građenja objekta koji sadrži dimnjak i građenja dimnjaka, predvidivih uslova uobičajene upotrebe objekta i uticaja okoline na objekat.
+Glavnim projektom objekta u dijelu u kojem se odnosi na dimnjak mora se, u skladu s ovim pravilnikom, dokazati da će objekat tokom građenja i projektovanog eksploatacionog vijeka ispunjavati osnovni zahtjev mehaničke otpornosti i stabilnosti, zaštite od požara, zaštite od buke, higijene, zdravlja i zaštite okoline, sigurnosti u korišćenju, kao i uštede energije i toplotne zaštite objekta u odnosu na odvođenje dimnih gasova.
+Kada je, radi ispunjavanja zahtjeva utvrđenih ovim pravilnikom potrebna dodatna zaštita dimnjaka, ta zaštita će se smatrati sastavnim dijelom tehničkog rješenja dimnjaka.
