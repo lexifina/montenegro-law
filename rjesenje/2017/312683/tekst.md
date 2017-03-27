@@ -1,0 +1,7 @@
+Na osnovu člana 45. Zakona o lokalnoj samoupravi( "Sl.list RCG" broj 42/03,28/04,75/05,13/06,i "Sl.list CG"broj 88/09,3/10,38/12,10/14,57/14 i 03/16),člana 93 tačka 2a Zakona o uređenju prostora i izgradnji objekata ( "Sl.list Crne Gore 51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14) ) i člana 40 Statuta Opštine Budva( Sl.list Crne Gore - opštinski propisi " broj 19/10), Skupština Opštine Budva na sjednici održanoj dana 27. marta 2017. godine, donijela je
+R J E Š E NJ E
+o davanju saglasnosti za gradnju na dijelu UP 1-4 u skladu sa DUP-om "Babin do "
+1. Daje se saglasnosti Popović Komnenu i Smiljkić Sofiji , vlasnicima katastarskih parcela 2043/3KO Budva u pov.570m² i 2044/3 KO Budva u površini od 19m², koje čini dio UP 1-4, za gradnju na dijelu UP 1-4 blok 1 u skladu sa DUP-om Babin do , a u čiji sastavni dio ulazi dio kat.parcela 3094/1 KO Budva u površini od 1,89m² vlasništvo Opštine Budva , saglasnost za gradnju na dijelu urbanističke parcele , na način što se izgradnjom objekta neće koristiti kapaciteti Opštine Budva.
+Saglasnost se daje u skladu sa Idejnim rješenjem urađenim od strane "Urban Project" doo Budva posl.br.26/1-1 od 26.11.2015.godine.
+2. Ovlašćuje se Predsjednik opštine Budva da u ime Opštine Budva pred izabranim notarom, po uslovima iz ove odluke , potpiše saglasnost na idejno rješenje.
+3. Rješenje o davanju saglasnosti stupa na snagu danom donošenja, a biće objavljeno u "Službenom listu Crne Gore - Opštinski propisi".
