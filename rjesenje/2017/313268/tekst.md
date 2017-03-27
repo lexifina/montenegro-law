@@ -1,0 +1,7 @@
+Na osnovu člana 45. Zakona o lokalnoj samoupravi( "Sl.list RCG" broj 42/03,28/04,75/05,13/06,i "Sl.list CG"broj 88/09,3/10,38/12,10/14,57/14 i 03/16),člana 93 tačka 2a Zakona o uređenju prostora i izgradnji objekata ( "Sl.list Crne Gore 51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14) ) i člana 40 Statuta Opštine Budva( Sl.list Crne Gore - opštinski propisi " broj 19/10), Skupština Opštine Budva na sjednici održanoj dana 27. marta 2017 godine, donijela je
+R J E Š E NJ E
+o davanju saglasnosti za gradnju na dijelu UP 2 u bloku broj 4 u skladu sa DUP-om Dubovica I
+1. Daje se Drašković Drašku , vlasniku katastarske parcele 1757/2 KO Budva u pov.495m² koja čini dio UP 2 u bloku broj 4, a u čiji sastav ulazi dio kat.parcele 3070/1 KO Budva u površini od 2m² vlasništvo Opštine Budva, saglasnost za gradnju na dijelu urbanističke parcele , na način što se izgradnjom objekta neće koristiti kapaciteti Opštine Budva.
+Saglasnos se daje u skladu sa Idejnim rješenjem broj 14-urš-3/16 urađenim od strane privrednog društva "Kalos " Budva koje je revidovano od strane "Tria architecture"doo Budva, kao i Urbanističko tehničkih uslova izdatih od strane Sekretarijata za urbanizam i zaštitu životne sredine broj 06-061/1277/2 od 21.07.2016.godine.
+2. Ovlašćuje se Predsjednik opštine Budva da u ime Opštine Budva pred izabranim notarom, po uslovima iz ove odluke , potpiše saglasnost na idejno rješenje.
+3. Rješenje o davanju saglasnosti stupa na snagu danom donošenja, a biće objavljeno u "Službenom listu Crne Gore - Opštinski propisi".
