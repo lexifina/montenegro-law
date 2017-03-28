@@ -1,0 +1,2 @@
+Na osnovu člana 44. stav 2. Zakona o kulturi ("Sl. list CG", br. 49/08, 16/11, 40/11 i 38/12), i člana 31. 44 Statuta opštine Šavnik ("Sl. list RCG-opštinski propisi", br. 36/04 i "Sl. list CG-opštinski propisi", br. 24/08, 36/10, 18/15 i 26/16) i člana 9. stav 1 Odluke o osnivanju JU Centra za kulturu, sport i medije Šavnik ("Sl. list CG-opštinski propisi", br. 19/09), Skupština opštine Šavnik na sjednici održanoj 28.03. 2017. godine donijela je
+ODLUKU
