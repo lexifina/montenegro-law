@@ -1,0 +1,3 @@
+# Član 26
+Uslovi za izvođenje i održavanje drvene konstrukcije određuju se programom kontrole i osiguranja kvaliteta koji je sastavni dio glavnog projekta drvene konstrukcije, na način utvrđen u Prilogu H, koji je sastavni dio ovog pravilnika.
+Izuzetno od stava 2 ovog člana, ako tehničko rješenje drvene konstrukcije, odnosno uslovi u kojima se izvode radovi i druge okolnosti koje mogu biti od uticaja na tehnička svojstva drvene konstrukcije, nijesu obuhvaćeni Prilogom H ovog pravilnika, programom kontrole i osiguranja kvaliteta, koji je sastavni dio projekta drvene konstrukcije, moraju se urediti posebni uslovi građenja kojima se obezjeđuje da drvena konstrukcija ima tehnička svojstva i ispunjava zahtjeve određene glavnim projektom i ovim pravilnikom.

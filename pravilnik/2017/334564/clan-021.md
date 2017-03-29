@@ -1,0 +1,3 @@
+# Član 21
+Projekat rekonstrukcije objekta, kojim se mijenja drvena konstrukcija, pored uslova iz čl. 13 do 20 ovog pravilnika, mora da sadrži podatke o utvrđenim zatečenim tehničkim svojstvima drvene konstrukcije za stvarno izvedeno stanje drvene konstrukcije.
+Postojeća tehnička svojstva drvene konstrukcije za stvarno izvedeno stanje drvene konstrukcije prije početka izrade tehničke dokumentacije za rekonstrukciju objekta, utvrđuju se uvidom na licu mjesta na objektu, uvidom u tehničku dokumentaciju objekta, uzimanjem uzoraka, ispitivanjima uzoraka i djelova drvene konstrukcije, proračunima ili na drugi odgovarajući način.
