@@ -1,0 +1,4 @@
+# Član 25
+## Uslovi za izvođenje i održavanje zidane konstrukcije
+Uslovi za izvođenje i održavanje zidane konstrukcije određuju se programom kontrole i osiguranja kvaliteta koji je sastavni dio glavnog projekta zidane konstrukcije, na način utvrđen u Prilogu J koji je sastavni dio ovog pravilnika.
+Izuzetno od stava 1 ovog člana, ako tehničko rješenje zidane konstrukcije, odnosno uslovi u kojima se izvode radovi i druge okolnosti koje mogu biti od uticaja na tehnička svojstva zidane konstrukcije, nijesu obuhvaćeni Prilogom J ovog pravilnika, programom kontrole i osiguranja kvaliteta, koji je sastavni dio projekta zidane konstrukcije, moraju se urediti posebni uslovi građenja kojima se obezbjeđuje da zidana konstrukcija ima tehnička svojstva i ispunjava zahtjeve određene glavnim projektom i ovim pravilnikom.
