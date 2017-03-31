@@ -1,0 +1,2 @@
+Na osnovu člana 23, stav 1 Zakona o upravljanju otpadom ("Sl. list CG", br. 64/11), Zakona o izmjenama i dopunama Zakona o upravljanju otpadom ("Sl. List CG" br. 39/16) i člana 34 Statuta opštine Pljevlja ("Sl. list RCG", - opštinski propisi br: 37/04, 30/07 i "Sl. list CG", - opštinski propisi br. 32/09, 14/11), Skupština opštine Pljevlja na sjednici održanoj 13.03.2017. godine, donijela je
+ODLUKU
