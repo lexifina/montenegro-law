@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 17 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list CG", br. 88/09, 03/10) i člana 36 tačka 17 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, "Sl. list CG - Opštinski propisi", br. 16/09, 16/11), Skupština opštine Herceg Novi, na sjednici održanoj 31.03.2017.godine, donosi
+O D L U K U
