@@ -1,0 +1,2 @@
+# Član 2
+Pravo na korišćenje stipendija ima 6 studenata studijskog programa Mašinskog fakulteta u Pljevljima, smjer Mehanička obrada drveta, koji su nastavili studije na Mašinskom fakultetu u Podgorici, a koji su bili korisnici stipendije u školskoj 2015/16. godini, shodno Odluci o stipendiranju studenata studijskog programa Mašinskog fakulteta u Pljevljima za školsku 2015/2016. godinu ("Sl. list CG - opštinski propisi", br. 27/15).
