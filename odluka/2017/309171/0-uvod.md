@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 03/10, 38/12, 10/14) člana 29 stav 2 Zakona o državnoj imovini ("Sl.list Cg", br.21/09) i člana 34 tačka 9 Statuta Opštine Pljevlja ("Sl. list RCG- Opštinski propisi br. 37/04; 30/07; i "Sl. list CG br. 32/09 i 14/11"), Skupština opštine Pljevlja dana 13.03.2017. godine donijela je:
+ODLUKU
