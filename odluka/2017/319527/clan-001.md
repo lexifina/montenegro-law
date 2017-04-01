@@ -1,0 +1,25 @@
+# Član 1
+Utvrđuje se javni interes za eksproprijaciju nepokretnosti u Opštini Mojkovac, i to:
+KO Stevanovac
+1. kat. parcela broj 586/3, livada 5 klase u površini od 556 m2, kat.parcela broj 584/2, šuma 5 klase u površini od 74 m2, kat.parcela broj 583/2, pašnjak 5 klase u površini od 29 m2, kat.parcela broj 582/2, njiva 6 klase u površini od 420 m2, kat. parcela broj 578/2, livada 7 klase u površini od 137 m2, kat.parcela broj 557/2, pašnjak 5 klase u površini od 417 m2 i kat. parcela broj 546/2, livada 4 klase u površini od 268 m2 upisane u listu nepokretnosti broj 78 kao svojina Damjanović Milorada Jovana,
+2. kat. parcela broj 626/2, šuma 4 klase u površini od 88 m2 i kat.parcela broj 625/2, livada 6 klase u površini od 31 m2 upisana u listu nepokretnosti broj 74 kao svojina Jušković Uroša Kristine.
+KO Lepenac
+1. kat. parcela broj 3/3, livada 5 klase u površini od 278 m2, kat. parcela broj 3/3, šuma 5 klase u površini od 46 m2, kat. parcela broj 3/4, šuma 5 klase u površini od 332 m2, kat. parcela broj 3/5, šuma 5 klase u površini od 677 m2, kat. parcela broj 1/3, livada 7 klase u površini od 12 m2 upisane u posjedovnom listu broj 50 susvojina Vukadinović Dragića 1/6, Vukadinović V. Dragoljuba 1/6, Vukadinović Ivana 1/12, Vukadinović Jovana 1/6, Terzić Milene 1/12, Vukadinović V. Radoja 1/6 i Vukadinović Vojina Vukića 1/6,
+2. kat. parcela broj 1/3, pašnjak 5 klase u površini od 30 m2 upisana u posjedovnom listu broj 157 svojina Savić Vuka Vukomira,
+3. kat. parcela broj 4/4, šuma 5 klase u površini od 168 m2, kat.parcela broj 4/5, šuma 5 klase u površini od 159 m2 upisane u posjedovnom listu broj 287 svojina Vukadinović Petra Milutina,
+4. kat. parcela broj 4/6, šuma 5 klase u površini od 78 m2 upisana u posjedovnom listu broj 286 svojina Vukadinović Petra Lakića,
+5. kat. parcela broj 11/3, šuma 4 klase u površini od 9 m2 upisana u posjedovnom listu broj 272 susvojina Dragović Đura Radmile 1/3, Ceković Đura Ranke 1/3 i Anđelić Đura Vesne 1/3,
+6. kat. parcela broj 1/3, pašnjak 5 klase u površini od 775 m2, kat. parcela broj 1/4, pašnjak 5 klase u površini od 2 m2, kat. parcela broj 1/5, pašnjak 5 klase u površini od 37 m2 upi-sane u posjedovnom listu broj 46 susvojina Jovanović Mihaila Božidara 1/3, Jovanović Dragomira Darka 1/3 i Jovanović Mihaila Mijomira 1/3,
+7. kat. parcela broj 4/3, šuma 5 klase u površini od 354 m2, kat. parcela broj 4/4, šuma 5 klase u površini od 56 m2, kat. parcela broj 4/5, šuma 5 klase u površini od 35 m2, kat. parcela broj 4/6, šuma 5 klase u površini od 5 m2, kat. parcela broj 4/7, šuma 5 klase u površini od 283 m2, kat. parcela broj 4/8, šuma 5 klase u površini od 12 m2 upisane u posjedovnom listu broj 45 susvojina Ašanin Mijata Gorana 1/3, Ašanin Mijata Veselina 1/3 i Ašanin Mijata Zorana 1/3,
+8. kat. parcela broj 1/4, šuma 6 klase u površini od 3 m2, kat.parcela broj 1/5, šuma 6 klase u površini od 14 m2 upisane u posjedovnom listu broj 257 svojina Radović Vere,
+9. kat. parcela broj 2/3, šuma 6 klase u površini od 25 m2 upisana u posjedovnom listu broj 73 svojina Tomović Svetozara Miroja,
+10. kat. parcela broj 12/4, šuma 6 klase u površini od 33 m2, kat. parcela broj 12/5, livada 6 klase u površini od 229 m2, kat. parcela broj 12/6, livada 6 klase u površini od 30 m2 i kat. parcela broj 1/2, livada 6 klase u površini od 230 m2 upisana u posjedovnom listu broj 322 svojina Vuković Dragoljuba Vitomira,
+11. kat. parcela broj 12/7, livada 6 klase u površini od 11 m2 upisana u posjedovnom listu broj 323 i svojina Vuković Gordane,
+12. kat. parcela broj 12/5, livada 5 klase u površini od 180 m2 upisana u posjedovnom listu broj 354 svojina Barac Dragoljuba,
+13. kat. parcela broj 3/3, pašnjak 5 klase u površini od 298 m2, kat. parcela broj 3/4, pašnjak 5 klase u površini od 2 m2 upisane u posjedovnom listu broj 72 susvojina Fuštić Gospave 1/3, Fuštić Momira Vesne 1/3 i Fuštić Momira Vojke 1/3,
+14. kat. parcela broj 1/4, šuma 4 klase u površini od 2 m2, kat. parcela broj 1/5, šuma 4 klase u površini od 2 m2, kat. parcela broj 1/6, livada 6 klase u površini od 87 m2, kat. parcela broj 1/7, livada 6 klase u površini od 723 m2 upisane u posjedovnom listu broj 227 svojina Grdinić Jova Novice,
+15. kat. parcela broj 12/3, livada 6 klase u površini od 306 m2 i blok broj 17, kat. parcela broj 12/4, livada 6 klase u površini od 27 m2 i kat. parcela broj 1/5, šuma 4 klase u površini od 7 m2 i kat. parcela broj 1/6, šuma 4 klase u površini od 4 m2 upisane u posjedovnom listu broj 38 svojina Barac Vladimira Branislava,
+16. kat. parcela broj 2/3, livada 6 klase u površini od 255 m2 upisana u posjedovnom listu broj 72 susvojina Fuštić Gospave 1/3, Fuštić Momira Vesne 1/3 i Fuštić Momira Vojke 1/3,
+17. kat. parcela broj 1/2, livada 6 klase u površini od 230 m2 upisana u posjedovnom listu broj 322 svojina Vuković Dragoljuba Vitomira,
+18. kat. parcela broj 1/4, pašnjak 5 klase u površini od 57 m2 upisana u posjedovnom listu broj 353 svojina Barac Vla-di-mira Bogoljuba,
+19. kat. parcela broj 53/3,šuma 4 klase u površini od 97 m2 upisana u posjedovnom listu broj 33 susvojina Vlaović Milana Đura 1/3, Vlaović Milana Grujice 1/3 i Vlaović Milana Milića 1/3.
