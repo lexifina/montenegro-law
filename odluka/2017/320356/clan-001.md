@@ -1,0 +1,55 @@
+# Član 1
+Utvrđuje se javni interes za eksproprijaciju nepokretnosti u Opštini Bijelo Polje, i to:
+KO Ravna Rijeka
+1. kat. parcela broj 7/5, šuma 4 klase u površini od 1 m2 i kat. parcela broj 3/6, voćnjak 2 klase u površini od 10 m2 upisane u listu nepokretnosti broj 480, kao svojina Smolović Jagoša Miška;
+2. kat. parcela broj 3/7, dvorište u površini od 23 m2 upisana u listu nepokretnosti broj 282, kao susvojina Smolović Jagoša Miška 1/2 i Smolović Jagoša Miša 1/2;
+3. kat. parcela broj 7/6, šuma 4 klase u površini od 16 m2 i kat. parcela broj 3/8, pašnjak 4 klase u površini od 20 m2 upisane u listu nepokretnosti broj 479, kao svojina Smolović Jagoša Miša;
+4. kat. parcela broj 5/5, njiva 4 klase u površini od 6 m2 upisana u listu nepokretnosti broj 481, kao svojina Smolović Vučine Sonje;
+5. kat. parcela broj 24/3, livada 2 klase u površini od 4 m2 i kat. parcela broj 99/4, dvorište u površini od 1 m2 upisane u listu nepokretnosti broj 155, kao svojina Ljuca Hasa Murata;
+6. kat. parcela broj 26/4, livada 2 klase u površini od 8 m2 i kat. parcela broj 26/5, livada 2 klase u površini od 29 m2 upisane u listu nepokretnosti broj 124, kao svojina Kadić Ibra-hima Enisa;
+7. kat. parcela broj 35/2, njiva 2 klase u površini od 22 m2 upisana u listu nepokretnosti broj 341, kao svojina Ljuca Mulaza Muzafera;
+8. kat. parcela broj 58/2, livada 3 klase u površini od 16 m2 upisana u listu nepokretnosti broj 3, kao susvojina Adžić Radoša Dragoljuba 61/120 i Adžić Radula Radojice 59/120;
+9. kat. parcela broj 55/5, voćnjak 2 klase u površini od 68 m2 upisana u listu nepokretnosti broj 5, kao svojina Adžić Radula Radosava;
+10. kat. parcela broj 56/5, livada 3 klase u površini od 35 m2 upisana u listu nepokretnosti broj 394, kao svojina Baković Radoja Ljiljane;
+11. kat. parcela broj 56/4, neplodno zemljište u površini od 400 m2 i kat.parcela broj 151/2, dvorište u površini od 764 m2 upisane u listu nepokretnosti broj 86, kao svojina Jugopetrol AD za istraživanje, eksploataciju i promet nafte;
+12. kat. parcela broj 145/2, livada 2 klase u površini od 15 m2 i kat. parcela broj 145/3, livada 2 klase u površini od 1 m2 upisane u listu nepokretnosti broj 328, kao svojina Ćetković Vlajka Milana;
+13. kat. parcela broj 146/4, njiva 4 klase u površini od 65 m2 upisana u listu nepokretnosti broj 203, kao svojina D.O.O. Veritas Bijelo Polje;
+14. kat. parcela broj 146/5, njiva 4 klase u površini od 72 m2 upisana u listu nepokretnosti broj 25, kao susvojina Bulatović Aleksandra 1/3, Bulatović Milutina 1/3 i Bulatović Momčila 1/3;
+15. kat. parcela broj 163/3, njiva 2 klase u površini od 180 m2 upisana u listu nepokretnosti broj 472, kao svojina Rakočević Blaža Milosava;
+16. kat. parcela broj 164/2, voćnjak 2 klase u površini od 2 m2 i kat. parcela broj 163/4, njiva 2 klase u površini od 65 m2 upisana u listu nepokretnosti broj 471, kao svojina Rakočević Blaža Radosava;
+17. kat. parcela broj 169/2, nekategorisani putevi u površini od 12 m2 i kat. parcela broj 170/2, šuma 4 klase u površini od 113 m2 upisane u listu nepokretnosti broj 265, kao svojina Rudić Milorada Dragomira;
+18. kat. parcela broj 182/2, šuma 4 klase u površini od 386 m2 i kat. parcela broj 181/4, livada 5 klase u površini od 269 m2 upisana u listu nepokretnosti broj 336, kao svojina Šćekić Milisava Zorana;
+19. kat. parcela broj 181/5, livada 5 klase u površini od 97 m2 i kat. parcela broj 279/18, pašnjak 4 klase u površini od 67 m2 upisane u listu nepokretnosti broj 312, kao susvojina Šćekić Dušana Marka 1/2 i Šćekić Dušana Perunike 1/2;
+20. kat. parcela broj 279/19, pašnjak 4 klase u površini od 81 m2 i kat. parcela broj 279/20, pašnjak 4 klase u površini od 550 m2 upisane u listu nepokretnosti broj 318, kao svojina Šćekić Milovana Slobodana;
+21. kat. parcela broj 279/9, pašnjak 4 klase u površini od 25 m2 upisana u listu nepokretnosti broj 478, kao svojina Šćekić Zorana;
+22. kat. parcela broj 1293/3, nekategorisani putevi u površini od 34 m2 upisana u listu nepokretnosti broj 468, kao svojina Grandov Neđeljka Đorđija;
+23. kat. parcela broj 68/10, njiva 2 klase u površini od 6 m2 upisana u listu nepokretnosti broj 469, kao svojina Ljuca Safedina Ersida;
+24. kat. parcela broj 68/11, njiva 2 klase u površini od 19 m2 i kat. parcela broj 106/2, livada 3 klase u površini od 203 m2 upisane u listu nepokretnosti broj 154, kao svojina Ljuca Husa Malića;
+25. kat. parcela broj 68/13, njiva 2 klase u površini od 15 m2 upisana u listu nepokretnosti broj 426, kao svojina Mušović Smaila Ruždije;
+26. kat. parcela broj 72/3, livada 2 klase u površini od 624 m2 i kat. parcela broj 71/3, livada 4 klase u površini od 291 m2 upisane u listu nepokretnosti broj 1, kao svojina Adžić Mika Božidara;
+27. kat. parcela broj 78/2, voćnjak 2 klase u površini od 19 m2 upisana u listu nepokretnosti broj 322, kao svojina Ćetković Đorđija Mirjane;
+28. kat. parcela broj 79/4, dvorište u površini od 7 m2 upisana u listu nepokretnosti broj 325, kao svojina Ćetković Puniše Žarka;
+29. kat. parcela broj 79/5, voćnjak 2 klase u površini od 9 m2 upisana u listu nepokretnosti broj 403, kao svojina Drpljanin Redžepa Mulke;
+30. kat. parcela broj 79/6, voćnjak 2 klase u površini od 4 m2 upisana u listu nepokretnosti broj 329, kao susvojina Ćetković Milenka Božidara 1/8, Minić Milenka Danijele 1/8, Španjević Milenka Dušice 1/8, Ćetković Rajka Miladina 1/2 i Ćetković Milebnka Nikole 1/8;
+31. kat. parcela broj 84/2, voćnjak 2 klase u površini od 19 m2, kat. parcela broj 85/2, voćnjak 2 klase u površini od 56 m2, kat. parcela broj 93/2, pašnjak 1 klase u površini od 5 m2 i kat. parcela broj 68/12, njiva 2 klase u površini od 12 m2 upisane u listu nepokretnosti broj 157, kao svojina Ljuca Husa Ćamila;
+32. kat. parcela broj 99/5, dvorište u površini od 7 m2 upisana u listu nepokretnosti broj 162, kao susvojina Ljuca Safedina Ersida 1/4, Ljuca Safedina Mensura 1/4, Ljuca Safedina Mersida 1/4 i Ljuca Milahete 1/4;
+33. kat. parcela broj 100/3, pašnjak 1 klase u površini od 39 m2 upisana u listu nepokretnosti broj 161 kao susvojina Ljuca Faika Ermina 1/3, Ljuca Zaima Esme 1/3 i Ljuca Faika Jasmina 1/3;
+34. kat. parcela broj 127/2, pašnjak 1 klase u površini od 2 m2 upisana u listu nepokretnosti broj 289, kao svojina Vasić Draga Valentine;
+35. kat. parcela broj 128/2, voćnjak 2 klase u površini od 2 m2 upisana u listu nepokretnosti broj 204, kao svojina Nišavić Vuka Rajka;
+36. kat. parcela broj 140/5, dvorište u površini od 7 m2 upisana u listu nepokretnosti broj 411, kao svojina Boričić Milovana Radovana;
+37. kat. parcela broj 183/3, voćnjak 2 klase u površini od 19 m2 upisana u listu nepokretnosti broj 421, kao svojina Mušović Smaila Bilsena;
+38. kat. parcela broj 183/4, voćnjak 2 klase u površini od 91 m2 upisana u listu nepokretnosti broj 213, kao svojina Balić Rasima Selma;
+39. kat. parcela broj 189/2, livada 2 klase u površini od 11 m2 upisana u listu nepokretnosti broj 76, kao svojina Dacić Lazara Radoice;
+40. kat. parcela broj 192/2, dvorište u površini od 2 m2 upisana u listu nepokretnosti broj 215, kao svojina Petrić Sekule Milije;
+41. kat. parcela broj 193/3, dvorište u površini od 20 m2, kat. parcela broj 193/4, voćnjak 2 klase u površini od 3 m2 i kat. parcela broj 196/6, njiva 3 klase u površini od 402 m2 upisana u listu nepokretnosti broj 89, kao svojina Dulović Milana Dragana;
+42. kat. parcela broj 197/2, pašnjak 2 klase u površini od 2 m2, kat. parcela broj 197/3, livada 2 klase u površini od 30 m2 i kat. parcela broj 198/2, livada 2 klase u površini od 220 m2 upi-sane u listu nepokretnosti broj 402, kao svojina Lu- Monte doo;
+43. kat. parcela broj 279/21, livada 3 klase u površini od 102 m2 upisana u listu nepokretnosti broj 76, kao svojina Dumanović Maje;
+44. kat. parcela broj 279/22, livada 3 klase u površini od 21 m2 upisana u listu nepokretnosti broj 453, kao svojina Božović Milete Nikole;
+45. kat. parcela broj 279/23, livada 3 klase u površini od 33 m2 upisana u listu nepokretnosti broj 314, kao susvojina Šćekić Momčila 1/4, Šćekić Olge 1/4, Šćekić Slavice 1/4 i Šćekić Slobodana 1/4;
+46. kat. parcela broj 279/24, livada 3 klase u površini od 46 m2 upisana u listu nepokretnosti broj 316, kao svojina Šćekić Milovana Momčila;
+47. kat. parcela broj 279/25, livada 3 klase u površini od 15 m2 upisana u listu nepokretnosti broj 312, kao susvojina Šćekić Dušana Marka 1/2 i Šćekić Dušana Perunike 1/2;
+48. kat. parcela broj 279/26, livada 3 klase u površini od 216 m2 upisana u listu nepokretnosti broj 317, kao svojina Šćekić Milovana Petka;
+49. kat. parcela broj 208/15, livada 3 klase u površini od 140 m2, kat. parcela broj 208/16, livada 3 klase u površini od 4 m2, kat. parcela broj 208/17, livada 3 klase u površini od 30 m2, kat. parcela broj 279/27, pašnjak 4 klase u površini od 25 m2 i kat. parcela broj 279/28, pašnjak 4 klase u površini od 9 m2 upisane u listu nepokretnosti broj 477, kao susvojina Gurešić Danke 1/4, Gurešić Miloja Milića 1/4 i Gurešić Miodraga Milutina 1/2;
+50. kat. parcela broj 211/7, pašnjak 3 klase u površini od 2 m2 upisana u listu nepokretnosti broj 348, kao susvojina Šćekić Dušana Marka 1/12, Šćekić Milovana Momčila 1/6, Šćekić Dušana Olge 1/6, Šćekić Dušana Perunike 1/12, Šćekić Milovana Petka 1/6, Šćekić Slavice 1/6 i Šćekić Milovana Slobodana 1/6;
+51. kat. parcela broj 282/5, pašnjak 5 klase u površini od 4 m2 upisana u listu nepokretnosti broj 398, kao svojina Bulatović Radoša Miraša;
+52. kat. parcela broj 196/8, njiva 3 klase u površini od 263 m2, kat. parcela broj 196/10, šuma 5 klase u površini od 48 m2 i kat. parcela broj 196/11, njiva 3 klase u površini od 91m2 upi-sane u listu nepokretnosti broj 90, kao svojina Dulović Milana Miodraga.
