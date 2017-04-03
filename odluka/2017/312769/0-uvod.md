@@ -1,0 +1,2 @@
+Na osnovu člana 15 stav 1 Zakona o uređenju prostora i izgradnji objekata (,, Sl.list RCG’’, br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13,39/13 i 33/14) člana 31 i člana 35 Statuta Opštine Šavnik (,,Službeni list RCG -opštinski propisi", br.36/04 i ,,Službeni list Crne Gore-opštinski propisi", br. 24/08, 36/10, 18/15 i 26/16), Skupština opštine Šavnik, na sjednici održanoj dana, 28.03.2017.godine, donijela je
+O D L U K U
