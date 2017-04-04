@@ -1,0 +1,3 @@
+Na osnovu člana 64 Zakona o privrednim društvima ("Sl. list RCG", br. 06/02 i "Sl. list CG", br.17/07, 80/08, 40/10, 36/11 i 40/11), a u vezi sa članom 13 Zakona o unaprjeđenju poslovnog ambijenta ("Sl.list CG", br. 40/10), člana 34 i 45 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br. 88/09, 3/10, 73/10, 38/12, 10/14, 57/14, 3/16), i člana 31 Statuta opštine Tivat ("Sl.list RCG-Opštinski propisi" 40/04, 26/06 i "Sl. list CG-Opštinski propisi",br. 12/11, 21/11 i 03/13), Skupština opštine Tivat, na sjednici održanoj dana 14.03.2017. godine, donijela je
+O D L U K U
+o osnivanju društva sa ograničenom odgovornošću " Sportski centar Župa" Tivat
