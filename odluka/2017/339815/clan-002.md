@@ -1,0 +1,2 @@
+# Član 2
+Urbanistička parcela navedena u članu 1. ove Odluke sastoji se od katastarske parcele koja je predmet otkupa i katastarske parcele br.5389/2 u površini od 482,00 m2 sa L.N.br. 6133 KO Ulcinj svojina 1/1 Džuretović R. Nedžat, katastarske parcele br.5389/3 u površini od 445,00€ sa LN 4751 KO Ulcinj svojina 1/1 Džuretović R. Besnik , katastarske parcele br. 5389/4 u površini od 8 m2 sa LN br. 4751 KO Ulcinj svojina 1/1 Džuretović R. Besnik, katastarska parcele 5389/5 u površini od 133 m2 susvojina ½ Džuretović R. Nedžat I ½ Džuretović R. Besnik.
