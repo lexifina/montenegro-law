@@ -1,0 +1,2 @@
+Na osnovu člana 22 stav 1 i 5 Zakona o putevima ("Sl.list RCG"-br.42/04 i ’’Sl.list CG’’- br. 21/09, 54/09, 40/10,73/10, 36/11 i 40/11), i člana 45 stav 1 tačka 8 Zakona o lokalnoj samoupravi (''Sl. list RCG", broj 42/03, 28/04, 75/05 i 13/06 i ''Sl. list CG", br. 88/09, 03/10, 73/10,38/12, 10/14 i 57/14, 03/16) i člana 34 stav 1 tačka 2 i 8 Statuta Opštine Bijelo Polje (’’Sl. list RCG-opštinski propisi", broj 25/04, 36/06 i ’’Sl. list CG" broj 18/10, 32/13), Skupština opštine Bijelo Polje, na sjednici održanoj 09. i 14.03.2017. godine, donijela je
+O D L U K U
