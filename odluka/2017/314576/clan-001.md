@@ -1,0 +1,2 @@
+# Član 1
+Opština Herceg Novi se sudskim poravnanjem zaključenim pred Osnovnim sudom u Herceg Novom Rs.96/12 od 29.11.2012 god., obavezala prema Općini Konavle, R.Hrvatska, na isplatu mjesečnih iznosa od 25.000,00€ na ime umanjenja vrijednosti zemljišta u vlasništvu Općine Konavle, kojim prolazi cjevovod "Plat - Herceg Novi". Opština Herceg Novi je od zaključenja poravnanja do oktobra 2016. godine izmirila po ovom poravnanju 955.000,00€.
