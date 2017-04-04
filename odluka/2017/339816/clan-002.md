@@ -1,0 +1,2 @@
+# Član 2
+Urbanistička parcela navedena u članu 1. ove Odluke sastoji se od katastarske parcele koja je predmet otkupa i dijela katastarske parcele br.5411/1 sa Lista nepokretnosti br.5209 KO Ulcinj površine od 1.094,00 m2 , 1/1 svojina Nimanbegović B.Emina iz Ulcinja I kat.parc.br.5411/2 sa Lista nepokretnosti br.5209 KO Ulcinj površine od 1.132,00 m2 , svojina 1/1 Nimanbegović B.Emina, iz Ulcinja.
