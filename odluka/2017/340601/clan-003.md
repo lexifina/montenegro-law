@@ -1,0 +1,2 @@
+# Član 3
+Ovlašćuje se pravni zastupnik Opštine Tivat da sa Vuković Nenadom u predmetu Posl.br.Rs.73/16, sa Vuksanović Božidarom, Zlatkom i Evicom u predmetu Posl.br.Rs.74/16 i sa Vuksanović Brankom i Njezicom i Dojkić Senkom u predmetu Posl.br.Rs.75/16 zaključi poravnanja na način opisan u članu 1 i 2 odluke uz uslov da isti, ni pravnim sredstvima ni fizički , ne ometaju izvođenje građevinskih radova na predmetnoj saobraćajnici .

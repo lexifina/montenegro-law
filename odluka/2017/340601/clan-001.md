@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za zaključenje poravnanja u predmetima Posl.br.Rs.73/16, 74/16 i 75/16
+Daje se saglasnost za zaključenje poravnanja u predmetima koji se vode pred Osnovnim sudom u Kotoru na način što će se Opština Tivat obavezati da za zemljište eksproprisano za potrebe izgradnje dijela saobraćajnice S-9, S-7 i S 10 u zahvatu DUP-a "Župa-Češljar" isplati naknadu u iznosu od 166,10€/m2 i to Vuković Nenadu za kat.parcelu 4639/2 k.o.Tivat površine 398m2 ( Posl.br.Rs.73/16) , Vuksanović Božidaru, Zlatku i Evici za kat.parcele 4640/2 i 4640/3 ukupne površine 528m2 (Posl.br.Rs.74/16) i Vuksanović Branku i Njezici i Dojkić Senki za kat.parcelu 4645/2 površine 181m2 (Posl.br.Rs.75/16) , kao i naknadu za nasade i troškove postupka .
