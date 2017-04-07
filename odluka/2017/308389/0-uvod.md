@@ -1,0 +1,2 @@
+Na osnovu člana 45. stav 1. tač. 2, člana 87. stav 1 a u vezi sa članom 90 Zakona o lokalnoj samoupravi ("Sl. list RCG" br. 42/03, 28/04, 75/05 i 13/06, "Sl. list CG" br. 88/09, 03/10, 73/10, 38/12, 10/14), člana 23 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", broj 16/16 i 83/16) i člana 32. Statuta Opštine Petnjica (Sl. List CG - opštinski propisi br. 3/14,2/15 i 41/15), uz saglasnost Ministarstva finansija br.03-4891/2 od 29. marta 2017 godine, Skupština opštine Petnjica, na sjednici održanoj dana 31.03.2017.godine donijela je
+ODLUKU
