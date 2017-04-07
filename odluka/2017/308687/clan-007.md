@@ -1,0 +1,2 @@
+# Član 7
+U cilju kompletne realizacije i načina finansiranja ovog lokalnog javnog rada za pomoć i njegu starih lica u kući, Opština Kotor i Opštinska organizacija Crvenog krsta Kotor, zaključiće Sporazum koji čini sastavni dio ove Odluke kojim će se ovaj partnerski odnos definisati u pogledu cilja, njegovog trajanja, prava i obaveza partnera, načina prenošenja sredstava za isplatu kao i načina njegovog praćenja i provođenja u djelo i to u roku od osam dana od dana donošenja Odluke.

@@ -1,0 +1,3 @@
+# Član 4
+Radi izvođenja ovog lokalnog javnog rada, u skladu sa potrebama, brojem korisnika, prioritetima i kriterijumima, kao i oblika pomoći u kući, u skladu sa navedenom Odlukom Opštine Kotor, biće radno angažovana na određeno vrijeme pet lica - gerontodomaćice koje su tokom prethodnog perioda, počev od 2005. godine, bile radno angažovane preko Zavoda za zapošljavanje Crne Gore i Karitasa kotorske Biskupije, na projektu javnog rada "Njega starih lica u Crnoj Gori".
+U skladu sa raspoloživim sredstvima u Budžetu Opštine i potrebama za ovim vidom pomoći, broj gerontodomaćica kao i način njihovog plaćanja može biti mijenjan.

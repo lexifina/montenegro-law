@@ -1,0 +1,2 @@
+Na osnovu člana 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor" br. 03/04 i "Sl. list CG - Opštinski propisi" br. 17/08, 31/09, 40/10 i 04/11), provodeći u djelo pravo na pomoć iz odredbi člana 7. i 8. Odluke o socijalnim davanjima Opštine Kotor ("Sl list Crne Gore - Opštinski propisi" br. 03/14 od 28. 01. 2014), a u skladu sa "Strategijom razvoja socijalne zaštite starih lica" u Crnoj Gori, u cilju nastavka obezbjeđivanja pomoći i njege starim licima u kući, Skupština opštine Kotor je na IV sjednici od 27. 03. 2017. godine, donjela
+ODLUKU
