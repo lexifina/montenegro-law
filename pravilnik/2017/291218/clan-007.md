@@ -1,0 +1,4 @@
+# Član 7
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u ,,Službenom
+listu Crne Gore.
+-------------------- *U ovaj pravilnik prenijeti su čl. 4, 5, 7, 13, 15, 16 i 17 Direktive Savjeta 2009/156/E od 30. novembra 2009.o uslovima zdravlja životinja kojima se uređuje premještanje i uvoz kopitara iz trećih zemalja/ Council directive 2009/156/EC of 30 November 2009 on animal health conditions governing the movement and importation from third countries of equidae i Odluka Komisije od 25. jula 1995 o utvrđivanju kategorija muških kopitara na koje se primjenjuje zahtjev u pogledu arteritisa konja propisan u članu 15 stavu (b) tački ii. Direktive Vijeća 90/426/EEZ (Commission Decision of 25 July 1995 defining the categories of male equidae to which the requirement regarding viral arteritis laid down in Article 15 (b) (ii) of Council Directive 90/426/EEC applies)
