@@ -1,0 +1,2 @@
+Na osnovu čl.45. Zakona o lokalnoj samoupravi( "Sl.list RCG" broj 42/03,28/04,75/05i Sl list CG broj 13/06,88/09,3/10 ,38/1210/14 i 03/16),člana 3,9,34 i 40 Zakona o državnoj imovini ( "Sl. list RCG" broj 21/09i 40/11), član 59. Zakona o uređenju prostora i izgradnji objekata ( "Sl.list Crne Gore 51/08), člana 40 Statuta Opštine Budva( Sl.list Crne Gore - opštinski propisi " broj 19/10), Skupština Opštine Budva na sjednici održanoj dana 27. marta 2017.godine, donijela je
+ODLUKU
