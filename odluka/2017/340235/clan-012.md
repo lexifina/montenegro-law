@@ -1,0 +1,4 @@
+# Član 12
+Organi Opštine Šavnik će, u skladu sa odredbama važećih zakonskih propisa iz ove oblasti, preduzimati podsticajne i programske mjere za podsticanje i ostvarivanje rodne ravnopravnosti na osnovu analize položaja žena i muškaraca u oblasti za koju se utvrđuju.
+U okviru mjera iz prethodnog stava, organi Opštine Šavnik će preduzimati kontinuirane aktivnosti na podizanju svijesti zaposlenih usvajanjem različitih mjera kojima se mjeri njihov uticaj na korisnike/ce, stalnim edukacijama i uvođenjem djelotvornih i trajnih programa obuke za zaposlene.
+Organi Opštine će aktivno sarađivati sa Ministarstvom za ljudska i manjinska prava i drugim organima i tijelima, međunarodnim organizacijama, kao i nevladinim organizacijama, koje se bave pitanjima rodne ravnopravnosti u cilju postizanja rodne ravnopravnosti na teritoriji Opštine.

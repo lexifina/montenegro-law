@@ -1,0 +1,3 @@
+Na osnovu člana 3 i 11 Zakona o rodnoj ravnopravnosti (,,Sl.list RCG", br. 46/07, 73/10, 40/11 i 35/15), člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list CG", br.88/09, 3/10, 73/10, 38/12, 10/14, 57/14 i 3/16), člana 31 stav 1 tačka 2 i člana 35 Statuta Opštine Šavnik (''Sl. list RCG - opštinski propisi'', br. 36/04 i ''Sl. list CG - Opštinski propisi'', br. 24/08, 36/10, 18/15 i 26/16) i člana 6 Memoranduma o saradnji u oblasti rodne ravnopravnosti, potpisanog 28.10.2015.godine između OSCE-a Misija u Crnoj Gori, Ministarstva za ljudska i manjinska prava i Opštine Šavnik, Skupština opštine Šavnik, na sjednici održanoj dana 28.03.2017. godine, donijela je
+ODLUKU
+o rodnoj ravnopravnosti u Opštini Šavnik
