@@ -1,0 +1,2 @@
+Na osnovu člana 6 Zakona o komunalnim djelatnostima (,,Sl.list CG" br.12/95), člana 32 stav 1 tačka 1 Zakona o lokalnoj samopravi (Sl.list RCG", br.42/03, 28/04, 75/05, 13/06 i ,,Sl.list CG", br. 88/09, 38/12, 10/14 i 03/16), člana 31 stav 1 tačka 28 Statuta Opštine Šavnik ("Sl.list RCG"-opštinski propisi br.36/04 i "Sl.list CG" -opštinski popisi br. 24/08, 36/10, 18/15 i 26/16), Skupština opštine Šavnik na sjednici održanoj dana 28.03.2017.godine, donosi
+O D L U K U
