@@ -1,0 +1,2 @@
+Na osnovu člana 23 stav 1 Zakona o upravljanju otpadom ( ,, Sl.listCG’’, br. 64/11 i 39/16 ) člana 31 stav 1 i člana 35 Statuta Opštine Šavnik (,,Službeni list RCG -opštinski propisi", br.36/04 i ,,Službeni list Crne Gore-opštinski propisi", br. 24/08, 36/10, 18/15i 26/16), uz saglasnost Ministarstva održivog razvoja i turizma br. 110-126/5 od 13.02.2017. godine, Skupština opštine Šavnik, na sjednici održanoj dana 28.03. 2017.godine, donosi
+ODLUKU
