@@ -1,0 +1,4 @@
+# Član 31
+## Način korišćenja oznake "Garantovano tradicionalnog specijaliteta"
+(1) Naziv garantovano tradicionalnog specijaliteta koji je upisan u Registar naziva garantovano tradicionalnog specijaliteta može se koristiti samo za identifikovanje poljoprivrednih ili prehrambenih proizvoda, koji su proizvedeni u skladu sa specifikacijom, kao garantovano tradicionalni specijalitet, od dana objavljivanja u "Službenom listu Crne Gore".
+(2) Naziv garantovano tradicionalnog specijaliteta koji je upisan u Registar naziva garantovano tradicionalnog specijaliteta na crnogorskom jeziku, udruženje može u specifikaciji garantovano tradicionalnog specijaliteta, navesti da deklaracija može pored naziva proizvoda na crnogorskom jeziku, sadržati i naziv na drugim jezicima da je proizvod dobijen u skladu sa tradicijom područja.
