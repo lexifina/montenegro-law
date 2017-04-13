@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2, člana 34 stav 3 i člana 40 stav 1 Zakona o državnoj imovini ("Sl. list CG", br. 21/09 i 40/11), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 3/10, 73/10, 38/12, 10/14, 57/14 i 3/16 ), i člana 71 i 75 stav 3 Statuta Prijestonice Cetinje ("Službeni list CG-Opštinski propisi, broj 19/09, 37/10, 26/13, 39/14 i 12/16), Skupština Prijestonice Cetinje, na sjednici održanoj dana, 31.03.2017. godine, donijela je
+ODLUKA
+o učešću Prijestonice Cetinje u valorizaciji građevinskog zemljišta kroz zajedničku izgradnju stambeno-poslovnog
