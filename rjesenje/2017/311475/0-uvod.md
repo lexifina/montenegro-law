@@ -1,0 +1,2 @@
+Na osnovu člana 57 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 042/03, 028/04, 075/05, 013/06, ‘’Sl. list CG", br. 088/09, 003/10, 073/10, 038/12, 010/14, 057/14, 003/16) i člana 12 Odluke o visini naknade za ustupanje građevinskog zemljišta na privremeno korišćenje ("Sl. list RCG - Opštinski propisi", broj 05/02 i 06/05, ‘’Sl.list CG - Opštinski propisi’’ , br.09/17 ), Sekretarijat za finansije, uz saglasnost predsjednika Opštine Bijelo Polje, donosi
+RJEŠENJE
