@@ -1,0 +1,2 @@
+Na osnovu člana 23 stav 2 i 3 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG",br.16/16,83/16),člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi("Službeni list RCG",br.42/03,28/04,75/05 i 13/06 i "Službeni list CG",br.88/09,38/12,10/14 i 03/16) i člana 35 Statuta opštine Gusinje ("Službeni list CG",br.25/14) ,Skupština opštine Gusinje,na sjednici održanoj 30.03.2017 godine,donijela je
+O D L U K U
