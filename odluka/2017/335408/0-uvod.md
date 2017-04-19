@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3, a u vezi sa članom 5 stav 2 Zakona o Centralnoj banci Crne Gore ("Službeni list Crne Gore", br. 40/10, 46/10 i 06/13) i u vezi sa članom 5 Odluke o izdavanju jubilarnog zlatnog i srebrnog kovanog novca ("Službeni list CG", broj 24/16), Savjet Centralne banke Crne Gore, na sjednici od 7. aprila 2017. godine, donio je
+O D L U K U O IZMJENI ODLUKE O KORIŠĆENJU I BALANŽIRANJU JUBILARNOG ZLATNOG I SREBRNOG KOVANOG NOVCA
