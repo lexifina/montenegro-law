@@ -1,0 +1,2 @@
+Na osnovu člana 28 a u vezi sa članom 23 Zakona o uređenju prostora i izgradnji objekata (Sl.list CG br. 51/08 ,40/10, 34/11,47/11,35/13,39/13,33/14) i člana 45 stav 1 tačka 4 Zakona o lokalnoj samoupravi ( Sl.list RCG broj 42/03,28/04,75/05,13/06,,,Sl.list CG " broj 88/09,03/1038/12,10/14,57/14 I 3/16 ) i člana 35 tačka 3 Statuta Opština Gusinje (Sl.list - Opštinski propisi br.25/14 , Skupština opštine Gusinje, na sjednici održanoj dana,30.03..2017. godine, donijela je :
+O D L U K U
