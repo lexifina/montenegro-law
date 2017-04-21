@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom osniva se Društvo sa ograničenom odgovornošću "Komunalne djelatnosti" Gusinje (u daljem tekst: Društvo), kao jednočlano društvo radi obavljanja komunalnih djelatnosti, snadbijevanja naselja vodom za piće , odvodjenja i prečišćavanja otpadnih voda na području opštine, prikupljanja , odvoženja i deponovanja čvrstog otpada kao i održavanja privremenog odlagališta i čvrstog otpada.
