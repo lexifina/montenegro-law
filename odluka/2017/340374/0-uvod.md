@@ -1,0 +1,2 @@
+Na osnovu člana 2 Zakona o lokalnim komunalnim taksama ("Službeni list RCG", broj 27/06), a u vezi sa članom 5 stav 1 tačka 4 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", broj 42/03 i "Službeni list CG", br. 5/08, 74/10, 1/15, 78/15 i 3/16) i člana 48 stav 1 alineja 8 Statuta Glavnog grada ("Službeni list RCG - Opštinski propisi", broj 28/06 i "Službeni list CG - Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 11. aprila 2017. godine, donijela je -
+O D L U K U
