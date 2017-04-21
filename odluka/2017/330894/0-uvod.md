@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14 i 03/16), člana 87 stav 1 alineja 5 Statuta Prijestonice ("Službeni list CG - Opštinski propisi", br. 19/09, 37/10, 26/13, 39/14 i 12/16), i mišljenja Glavnog administratora br. 011- 061/17-302/2 od 24.03.2017. godine, Gradonačelnik Prijestonice donosi
+O D L U K U
