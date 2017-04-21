@@ -1,0 +1,3 @@
+# Član 22
+DOO "Komunalne djelatnosti" Gusinje će privremeno uskratiti isporuku vode korisniku čije su instalacije na objektu takve da njihovo stanje i funkcionisanje predstavlja opasnost po život ljudi, odnosno može prouzrokovati štetu na materijalnim dobrima ili ugroziti pružanje usluga drugim korisnicima.
+O razlozima uskraćivanja isporuke vode iz stave 1 ovog člana DOO "Komunalne djelatnosti" Gusinje je dužno da obavjesti organ uprave nadležan za poslove inspekcije (u daljem tekstu komunalna inspekcija) odmah a najkasnije u roku od 24h od momenta kada je privremeno uskraćeno pružanje usluge.

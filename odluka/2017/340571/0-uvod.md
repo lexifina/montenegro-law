@@ -1,0 +1,2 @@
+Na osnovu člana 4,18 i 48 Zakona o vodama ("Sl.list RCG" br.27/07, i"Sl.list Crne Gore", br.72/10, 32/11, 47/11,48/15 i 52/16), člana 32 stav1 tačka 10 Zakona o lokalnoj samoupravi ("Sl.list CG" br.42/03, 28/04, 75/05 i 13/06 i "Sl.list CG" br.88/09, 03/10, 73/10 , 38/12,10/14,i 3/16), člana 24 Zakona o prekršajima ("Sl.list CG broj.1/11, 6/11 i 39/11) i člana 35 Statuta Opštine Gusinje ("Sl.list CG-Opštinski propisi" br.25/14.),Skupština Optšine Gusinje na sjednici održanoj dana 30.03.¬¬ 2017.godine. donjela je:
+O D L U K U
