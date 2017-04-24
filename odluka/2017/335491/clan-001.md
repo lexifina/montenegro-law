@@ -1,0 +1,7 @@
+# Član 1
+Utvrđuje se javni interes za eksproprijaciju nepokretnosti u Opštini Podgorica i to:
+KO Trebješica
+1. kat. parcele broj 522/12, šuma 5. klase u površini od 72 m2, kat. parcele broj 522/13, šuma 5. klase u površini od 160 m2, kat. parcele broj 526/10, šuma 5. klase u površini od 302 m2, kat. parcele broj 526/11, šuma 5. klase u površini od 172 m2, kat. parcele broj 526/12, šuma 5. klase u površini od 127 m2, kat. parcele broj 526/13, šuma 5. klase u površini od 335 m2, kat. parcele broj 526/14, šuma 5. klase u površini od 38 m2, kat. parcele broj 527/5, pašnjak 7. klase u površini od 519 m2, kat. parcele broj 527/6, pašnjak 7. klase u površini od 66 m2 i kat. parcele broj 522/14, šuma 5. klase u površini od 2 m2 upisana u listu nepokretnosti broj 26 kao svojina Milošević Miraša Novice,
+2. kat. parcele broj 525/7, šuma 5. klase u površini od 68 m2 upisana u listu nepokretnosti broj 122 kao svojina Milošević Vere ud. Željka,
+3. kat. parcele broj 528/4, šuma 5. klase u površini od 119 m2, kat. parcele broj 528/5, šuma 5. klase u površini od 138 m2, kat. parcele broj 528/6, šuma 5. klase u površini od 10 m2 i kat. parcele broj 528/7, šuma 5. klase u površini od 126 m2 upisane u listu nepokretnosti broj 102 kao svojina Milošević Radovana Momira,
+4. kat. parcele broj 524/4, šuma 5. klase u površini od 87 m2 upisana u listu nepokretnosti broj 103 kao susvojina Milošević Vučina Sima 1/2 i Milošević Vučina Tomislava 1/2.
