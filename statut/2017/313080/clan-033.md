@@ -1,0 +1,20 @@
+# Član 33
+Nadležnosti Izvršnog odbora:
+- zajedno sa predsjednikom Sindikalne organizacije predstavlja Sindikalnu organizaciju u svakodnevnoj komunikaciji sa poslodavcem,
+- sprovodi program rada Sindikalne organizacije,
+- predlaže pravilnike i izmjene i dopune pravilnika i Statuta,
+- odlučuje o pravima i obavezama članova Sindikalne organizacije u skladu sa Statutom i pravilnicima,
+- obezbjeđuje uslove za redovno, potpuno i istinito informisanje zaposlenih o pitanjima koja utiču na njihov materijalni i socijalni položaj,
+- u ime Sindikalne organizacije brine za realizaciju Kolektivnog ugovora kod poslodavca i pokreće inicijativu za njegove izmjene i dopune,
+- predlaže Skupštini kandidate za Sekretara Sindikalne organizacije,
+- predlaže Skupštini poslovnik o svom radu,
+- priprema izvještaj o radu Sindikalne organizacije,
+- priprema izvještaj o finansijskom poslovanju Sindikalne organizacije,
+- predlaže Skupštini da donese odluku o protestu ili stupanju u štrajk,
+- organizuje akcije: prikupljanja humanitarne pomoći, rekreativno-sportskog karaktera, proslave nove godine, osmog marta, druženja u slobodno vrijeme, ispraćaja članova u penziju i druge vrste akcija,
+- donosi odluku o pokretanju i potpisivanju kolektivne tužbe za ostvarivanje pojedinačnih prava po osnovu rada i pokreće kolektivni spor sa poslodavcem,
+- obezbjeđuje uslove da članovi Sindikalne organizacije redovno plaćaju članarinu i da se sredstva sindikalne članarine koja ostaju u Sindikalnoj organizaciji troše namjenski, odnosno isključivo za sindikalne aktivnosti,
+- donosi odluku o sazivanju vanrednog zasjedanja Skupštine u skladu sa Statutom,
+- u slučajevima predviđenim ovim Statutom raspisuje referendum,
+- u slučajevima predviđenim članom 37 st.1 tačka11. bira Izbornu komisiju,
+- obavlja i druge poslove od interesa za članstvo.
