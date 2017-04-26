@@ -1,0 +1,3 @@
+# Član 5
+Izradom Izmjena i dopuna ovog planskog dokumenta potrebno je postojećim sardžajima koji su planirani na predmetnim parcelama zamjeniti namjenu tako da se na UP-1,3,5,6 i 6a predvidi površina ograničene namjene(zoo vrt) a na UP-62,64 i 65 predvidi turizam u skladu sa smjernicama postojećeg plana. Ostale namjene ,parcelaciju kao i smjernice za sprovođenje su zadržane.
+Ovim planskim dokumentom su utvrdjena rješenja, kojim će se definisati uslovi daljeg razvoja i izgradnje kao i urbanistička regulacija u zoni zahvata DUP-a, sa ciljem stvaranja kvalitetnog prostora u funkcionalnom, fizičkom, ambijentalnom i u smislu kvaliteta životne sredine ovog područja.
