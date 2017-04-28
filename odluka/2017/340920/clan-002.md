@@ -1,0 +1,2 @@
+# Član 2
+Za predmetnu parcelu primjenjivaće se smjernice iz Prostorno-urbanističkog plana opštine Rožaje do 2020.godine ("Sl. list CG - opštinski propisi", br. 31/12 i 2/17), Pravilnika o bližim uslovima za osnivanje ustanova u oblasti obrazovanja i vaspitanja ("Sl. list RCG" br. 40/05), kao i ostali normativi, standardi i uzanse za ovu vrstu objekata, u postupku donošenja UTU i građevinske dozvole.
