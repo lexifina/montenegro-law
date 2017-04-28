@@ -1,0 +1,3 @@
+Na osnovu člana 25 Zakona o turističkim organizacijama (,,Sl. list RCG,, , br. 11/04 i 46/07, ,,Sl. list CG" br. 73/10, 40/11 i 45/14), člana 11 Odluke o osnivanju Turistike organizacije opštine Danilovgrad (,,Sl. list RCG - opštinski propisi br. 22/05), člana 15 Statuta Turistike organizacije opštine Danilovgrad (,,Sl. list CG - opštinski propisi br. 40/15) i člana 35 Statuta opštine Danilovgrad (''Sl. list RCG-opštinski propisi" br. 30/04 i "Sl. list CG - opštinski propisi", br.19/08 i 12/11), na predlog Odbora za izbor i imenovanje, Skupština opštine Danilovgrad, na sjednici održanoj 28. 04. 2017. godine, donijela je
+O D L U K U
+o izmjeni Odluke o određivanju predstavnika ispred Skupštine opštine Danilovgrad u
