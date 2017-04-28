@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2, člana 51 stav 3 a u vezi sa članom 90 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04,75/05,13/06, "Sl. list CG", br.88/09,3/10,73/10,38/12,10/14, 57/14 i 3/16), člana 23 stav 1 i člana 45a stav 2 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", broj 16/16, 83/16), člana 44 Statuta opštine Mojkovac ("Sl. list CG"-Opštinski propisi, br. 31/10 i 26/12) Skupština opštine Mojkovac, uz prethodnu saglasnost Ministarstva finansija, broj 03-2253/1 od 20.02.2017. na sjednici održanoj 12.04.2017. godine, donijela je
+ODLUKU
