@@ -1,0 +1,1 @@
+Na osnovu člana 30. Statuta Opštine Kotor (‚‚Sl.list Opštine Kotor", br. 03/04, ‚‚Sl.list Crne Gore - opštinski propisi", br. 17/08, 31/09, 40/10, 04/11), Skupština opštine Kotor na V sjednici održanoj 12. 04. 2017. godine donijela je O D L U K U o utvrđivanju Nacrta Lokalnog plana za razvoj usluga socijalne zaštite u Opštini Kotor (2016- 2020)
