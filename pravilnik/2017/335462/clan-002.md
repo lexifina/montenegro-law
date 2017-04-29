@@ -1,0 +1,2 @@
+# Član 2
+Pravna lica koja profesionalno koriste biocide i pravna lica koja obavljaju djelatnost proizvodnje, prometa, upotrebe i skladištenja biocida, treba da imaju najmanje jedno zaposleno lice, pod čijim se neposrednim nadzorom obavlja upotreba, odnosno proizvodnja, promet i skladištenje biocida sa završenim VII nivoom nacionalnog okvira kvalifikacija iz oblasti: medicine, farmacije, veterine, tehnologije, šumarstva, agronomije, biologije ili hemije, u zavisnosti od vrste i namjene biocida.
