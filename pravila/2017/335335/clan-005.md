@@ -1,0 +1,24 @@
+# Član 5
+Izračunavanje vrijednosti posla kupoprodaje bloka akcija vrši se množenjem broja akcija koje
+su predmet bloka i cijene tih akcija.
+Cijena akcija iz stava 1 ovog člana jednaka je prosječnoj cijeni akcija, koje su predmet bloka,
+na posljednja tri dana trgovanja tim akcijama na berzama u Crnoj Gori prije dana trgovanja blokom
+ovih akcija. Prosječna cijena akcija iz stava 2 ovog člana utvrđuje se na način što se ukupna
+vrijednost svih transakcija sa određenim akcijama na berzi u Crnoj Gori, u posljednja tri dana
+trgovanja tim akcijama, prije dana trgovanja blokom tih akcija, podijeli ukupnim brojem akcija koje
+su bile predmet tih transakcija.
+Transakcije blokom akcija ne mogu se zaključivati po cijeni koja za više od 10% odstupa od
+prosječne cijene utvrđene u skladu sa st. 2 i 3 ovog člana.
+Izuzetno od st. 2 i 3 ovog člana, ukoliko se akcijama koje su predmet trgovine blokom nije
+trgovalo tokom tri dana u periodu od šest mjeseci prije dana trgovanja blokom akcija, cijena se
+određuje na osnovu prosječne cijene posljednje tri transakcije u periodu od šest mjeseci, a ukoliko
+sa tim akcijama nijesu zaključene tri transakcije u proteklih šest mjeseci, učesnici u bloku
+samostalno utvrđuju cijenu tih akcija.
+Izuzetno od ograničenja iz stava 4 ovog člana Komisija može, na obrazložen zahtjev učesnika
+u blok transakciji, dati saglasnost da se cijena akcija utvrdi uz veće odstupanje od prosječne cijene
+izračunate u skladu sa st. 2 i 3 ovog člana.
+Učesnici u transakciji su dužni da, uz obrazložen zahtjev iz stava 6 ovog člana, dostave
+Komisiji elaborat o planiranoj cijeni akcija u blok transakciji, koji je sačinjen od strane ovlašćenog
+revizora.
+Elaborat iz stava 7 ovog člana, naročito sadrži vrijednost, odnosno cijenu akcija, kao i metode
+na osnovu kojih je određena cijena akcija,
