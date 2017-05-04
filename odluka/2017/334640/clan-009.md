@@ -1,0 +1,2 @@
+# Član 9
+Ovom Odlukom prestaje da važi Odluka o izradi Strateške procjene uticaja na životnu sredinu za Detaljni urbanistički plan za lokalitet "Liman 2" u Ulcinju, sa brojem 05-6777/1-11 od dana 30.12.2011. godine, kao i Odluka o potrebi izrade Strateške procjene uticaja na životnu sredinu u zahvatu za Detaljni urbanistički plan za lokalitet "Liman 2" u Ulcinju, sa brojem 05-6777/2-12 od dana 13.01.2012 godine.
