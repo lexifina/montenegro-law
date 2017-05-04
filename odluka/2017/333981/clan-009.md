@@ -1,0 +1,2 @@
+# Član 9
+Ovom Odlukom prestaje da važi Odluka o izradi Strateške procjene uticaja na životnu sredinu za Detaljni urbanistički plan za lokalitet "Pinješ 3" u Ulcinju, sa brojem 05-3554/12 od dana 08.06.2012 godine, kao i Odluka o potrebi izrade Strateške procjene uticaja na životnu sredinu u zahvatu za Detaljni urbanistički plan za lokalitet "Pinješ 3" u Ulcinju, sa brojem 05-3554/2-12 od dana 20.06.2012 godine.
