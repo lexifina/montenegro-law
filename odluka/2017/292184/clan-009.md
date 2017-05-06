@@ -1,0 +1,2 @@
+# Član 9
+Ovom Odlukom prestaje da važi Odluka o izradi Strateške procjene uticaja na životnu sredinu za Detaljni urbanistički plan za lokalitet "Pinješ-Borova šuma" u Ulcinju, sa brojem 05-6792/1-12 od dana 14.09.2012. godine, kao i Odluka o potrebi izrade Strateške procjene uticaja na životnu sredinu u zahvatu za Detaljni urbanistički plan za lokalitet "Pinješ-Borova šuma" u Ulcinju, sa brojem 05-6792/2-12 od dana 19.11.2012 godine.
