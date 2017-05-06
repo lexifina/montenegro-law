@@ -1,0 +1,3 @@
+# Član 7
+Olakšice definisane članom 4 ove Odluke se odobravaju samo investitorima koji posluju u okviru biznis zone "Babića Polje" Mojkovac i mogu iznositi najviše 70% od opravdanih troškova ukupne investicije za mala privredna društva, 60% za srednja i 50% za velika privredna društva.
+Olakšice iz člana 4 ove Odluke mogu se kumulirati sa drugom državnom pomoći za iste opravdane troškove, u skladu sa zakonom kojim se uređuje državna pomoć do procenta propisanog stavom 1 ovog člana. Opravdani troškovi iz stave 1 ovog člana odnose se na ulaganja u materijalnu imovinu i otvaranje novih radnih mjesta.
