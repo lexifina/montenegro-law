@@ -1,0 +1,4 @@
+# Član 2
+Lokalnom studijom lokacije se definiše organizacija prostora i utvrđuju uslovi za izgradnju u skladu sa utvrđenim režimom i stepenom zaštite određenih djelova obuhvaćenog prostora. Razlozi za vršenje strateške procjene su sagledavanje svih mogućih
+značajnih uticaja na životnu sredinu i utvrđivanje konkretnih mjera zaštite kojima će se obezbijediti trajno očuvanja kvaliteta životne
+sredine zaštita.
