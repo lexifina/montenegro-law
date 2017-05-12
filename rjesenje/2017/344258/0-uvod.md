@@ -1,0 +1,2 @@
+Na osnovu člana 45. Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06 i 88/09) , i člana 34 tačka 42 Statuta Opštine Pljevlja ( "Sl. list RCG - opštinski propisi", broj 37/04, 30/07 i 32/09) i Odluke o osnivanju DOO "Centar za sport i rekreaciju" Pljevlja ("Sl.list CG - opštinski propisi" br.7/14) i Odluke o izmjenama i dopunama Odluke o osnivanju DOO "Centar za sport i rekreaciju" Pljevlja ("Sl. List CG - opštinski propisi" br. 16/14), Skupština Opštine Pljevlja, na sjednici održanoj dana: 24. i 25.04.2017.godine, donijela je:
+RJEŠENJE
