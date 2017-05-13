@@ -1,0 +1,2 @@
+# Član 1
+Ovim Statutom u skladu sa Odlukom o odnivanju društva sa ograničenom odgovornošću " Autobuska stanica" Tivat (u daljem tekstu:Društvo) uređuju se pitanja u vezi sa organizacijom rada i funkcionisanja Društva i to: osnivači, naziv i sjedište, djelatnost ,osnovni kapital, unutrašnja organizacija, odgovornost za obaveze, upravljanje i rukovođenje, informisanje i odnosi sa javnošću, kao i druga pitanja u skladu sa Odlukom o osnivanju i zakonom.
