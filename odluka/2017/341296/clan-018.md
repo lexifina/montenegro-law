@@ -1,0 +1,2 @@
+# Član 18
+Pravo na podsticaje ostvaruju fizička i pravna lica registrovana za obavljanje poljoprivredne djelatnosti kao i odgovarajuće NVO čiji su ciljevi i djelatnost poljoprivreda i koji imaju prebivalište odnosno sjedište na području opštine Tivat ( u daljem tekstu: korisnici), koji svoje aktivnosti u oblasti poljoprivrede sprovode na teritoriji opštine Tivat, osim pčelara koji mogu da imaju seleće pčelinjake u drugim opštinama.
