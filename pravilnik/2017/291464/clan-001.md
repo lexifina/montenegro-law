@@ -1,0 +1,9 @@
+# Član 1
+U Pravilniku o unutrašnjem poslovanju Državnog tužilaštva ("Službeni list CG", broj 6/16) poslije člana 47 dodaje se novi član koji glasi:
+"Član 47a
+Po zahtjevu lica iz člana 43 Zakona o zaštiti podataka o ličnosti postupa državni tužilac koji je zadužen spisima predmeta koji se odnose na to lice.
+Po zahtjevu lica iz člana 44 Zakona o zaštiti podataka o ličnosti postupa državni tužilac koji je zadužen spisima predmeta koji se odnose na to lice.
+Dopunu, izmjenu, odnosno brisanje ličnog podatka u upisnicima i pomoćnim knjigama, po nalogu državnog tužioca iz stava 1 ovog člana, vrši upravitelj pisarnice i o tome obavještava podnosioca zahtjeva i korisnike tih ličnih podataka.
+U slučaju kad upravitelj pisarnice sam utvrdi da su lični podaci u upisnicima nepotpuni, netačni ili nijesu ažurirani, dužan je da ih dopuni, izmijeni ili izbriše, o čemu će obavijestiti lice na koje se lični podaci odnose i korisnike tih ličnih podataka.
+Ako postoji potreba da se radi odbrane, nacionalne i javne bezbjednosti, sprječavanja izvršenja krivičnih djela, otkrivanja i gonjenja učinilaca krivičnih djela, zaštite privrednog ili finansijskog interesa, kao i radi zaštite lica ili prava i sloboda drugih, u obimu koji je nužan za ostvarivanje svrhe radi koje je ograničenje utvrđeno, u smislu člana 45 Zakona o zaštiti podataka o ličnosti, ograniči pravo podnosioca zahtjeva iz stava 1 ovog člana, o tome državni tužilac koji je zadužen spisima predmeta koji se odnosi na lice koje je podnijelo zahtjev, u svakom konkretnom slučaju obavještava podnosioca zahtjeva.
+Kad je pristup ličnim podacima ograničen u smislu člana 45 Zakona o zaštiti podataka o ličnosti, upravitelj pisarnice će o izvršenoj dopuni, izmjeni ili brisanju ličnih podataka iz st. 3 i 4 ovog člana, obavijestiti samo one korisnike koji imaju pristup tim podacima."
