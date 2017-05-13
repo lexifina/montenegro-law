@@ -1,0 +1,22 @@
+# Član 17
+Skupština Komore:
+- donosi Statut Komore i druga akta;
+- donosi Kodeks stomatološke zdravstvene etike;
+- propisuje način i postupak upisa u Registar i način i postupak brisanja iz Registra licenci;
+- donosi Poslovnik o radu;
+- donosi finansijski plan i usvaja završni račun Komore;
+- donosi Plan i program aktivnosti Komore;
+- donosi Pravilnik o organizaciji, postupku i načinu rada Suda Komore;
+- bira i razrješava predsjednika Skupštine Komore;
+- bira i razrješava predsjednika Komore i zamjenika predsjednika Komore, na predlog Izvršnog odbora;
+- bira i razrješava članove Izvršnog odbora Komore;
+- bira i razrješava tužioca i članove Suda Komore;
+- bira i razrješava predsjednika, zamjenika predsjednika i članove Nadzornog odbora za finansijsko poslovanje;
+- bira branioce Komore;
+- bira i razrješava članove stalnih i povremenih komisija Komore i njihove zamjenike;
+- utvrđuje visinu članarine;
+- razmatra izvještaje organa i radnih tijela Komore;
+- donosi odluku o raspuštanju Skupštine i prijevremenim izborima;
+- razmatra, donosi zaključke, utvrđuje stavove i daje mišljenje u vezi pitanja značajnih za rad Komore i zdravstva;
+- bira počasne članove Komore;
+- vrši i druge poslove u skladu sa Zakonom i Statutom.
