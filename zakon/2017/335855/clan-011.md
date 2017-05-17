@@ -1,0 +1,3 @@
+# Član 11
+## Inspekcijski nadzor u oblasti tkiva i ćelija kada se vrši uzorkovanje
+Zdravstvenog inspektora koji vrši inspekcijski nadzor u oblasti tkiva i ćelija, koji obuhvata postupak uzorkovanja tokom kojeg se ne mogu utvrditi sve činjenice ili pregledati sva dokumenta, ne treba smatrati odgovornim za nedostatke koje nije bilo moguće primijetiti tokom vršenja inspekcijskog nadzora zbog ograničenog vremena koje je određeno za vršenje inspekcijskog nadzora, obima pregleda ili što se određeni procesi nijesu mogli utvrditi jer nijesu mogli nastupiti do ili u vrijeme obavljanja inspekcijskog nadzora.
