@@ -1,0 +1,2 @@
+# Član 5
+Uniforma čuvara šuma: kišne kabince, kaiš i torbe, treba da traje pet godina, zimske jakne- vjetrovke sa uloškom, ljetnje jakne, šal i rukavica, treba da traju četiri godine, pantalone (zimske i ljetnje), polo majce, džemperi, kape odnosno kačketi (zimskih ljetnjih), zimske i ljetnje cipele treba da traju dvije godine, a košulje (dugih i kratkih rukava) i čarape (zimskih i ljetnjih) godinu dana.
