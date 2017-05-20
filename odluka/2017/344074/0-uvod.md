@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2, člana 40 stav 1 Zakona o državnoj imovini (,,Sl. list CG", br. 21/09 i 40/11), člana 35 Statuta Opštine Danilovgrad (,,Sl. list RCG- opštinski propisi", br. 30/04 i "Sl. list CG - opštinski propisi" br. 19/08 i 12/11) i Odluke Vlade Crne Gore o davanju prethodne saglasnosti opštini Danilovgrad za otuđenje nepokretnosti (,,Sl. list CG",br. 6/17), Skupština opštine Danilovgrad, na sjednici održanoj 28.04.2017. godine, donijela je
+O D L U K U
