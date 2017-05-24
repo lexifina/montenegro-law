@@ -1,0 +1,1 @@
+Na osnovu člana 70 stav 1 i 4 Statuta Opštine Budva ("Sl. list CG - opštinski propisi", broj 19/10) i člana 18 stav 2 Odluke o regulisanju saobraćaja na teritoriji opštine Budva ("Sl. list Opštine Budva", br. 5/09, 9/09 i 29/12) Predsjednik Opštine, d o n o s i
