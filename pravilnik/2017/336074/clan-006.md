@@ -1,0 +1,4 @@
+# Član 6
+(1) Kada na osnovu sprovedenog epizootiološkog ispitivanja,službeni veterinar utvrdi, ili zaključi na osnovu potvrđenih podataka, da je bolest mogla biti prenešena sa drugih gazdinstava na gazdinstvo iz čl.3 i 4 ovog pravilnika, ta druga gazdinstva se stavljaju pod službeni nadzor u skladu sa članom 3 ovog pravilnika sve dok se sumnja na određenu bolest ne isključi.
+(2) Mjere iz stave 1 ovog člana primjenjuju se najmanje dok traje vrijeme inkubacije za svaku određenu bolest, računajući od trenutka kada je došlo do zaraze, u skladu sa članom 5 ovog pravilnika.
+(3) Mjere iz stava 1 ovog člana mogu da se sprovode na dio gazdinstva i na životinje koje se na njemu nalaze ili samo na životinje koje su prijemčive na određene bolesti, ukoliko se gazinstvo sastoji od više proizvodnih jedinica.
