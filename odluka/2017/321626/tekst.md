@@ -1,0 +1,4 @@
+Na osnovu člana 32 tačka 44 i člana 40 Statuta opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", broj 24/10) i člana 10 stav 3 Odluke o osnivanju Javne ustanove Narodne biblioteke "Njegoš" Nikšić ("Službeni list CG - Opštinski propisi", broj 36/15), Skupština opštine Nikšić, na sjednici održanoj 30.05.2017.godine, donijela je
+O D L U K U o davanju saglasnosti na Odluku Savjeta Javne ustanove Narodna biblioteka "Njegoš" Nikšić o izboru direktora
+Daje se saglasnost na Odluku Savjeta Javne ustanove Narodna biblioteka "Njegoš" Nikšić, broj: 07/135 od 23.01.2017. godine, o izboru Renate Bulajić, za direktora Javne ustanove Narodna biblioteka "Njegoš" Nikšić.
+Ova odluka stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore - Opštinski propisi".
