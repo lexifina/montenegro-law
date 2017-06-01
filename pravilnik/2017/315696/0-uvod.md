@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 1 tačka 16, člana 57 stav 1 tačka 11 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 3/10, 75/10, 38/12, 10/14, 57/14, 3/16), člana 39 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list CG", br. 35/13) i člana 60 stav 1 tačka 14, člana 63 stav 1 Statuta Opštine Bijelo Polje ("Službeni list RCG - Opštinski propisi", br. 25/04, 33/06 i "Službeni list CG - Opštinski propisi", br. 18/10 i 32/13), predsjednik Opštine Bijelo Polje d o n o s i
+P R A V I L N I K
