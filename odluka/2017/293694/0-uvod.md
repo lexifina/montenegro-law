@@ -1,0 +1,2 @@
+Na osnovu člana 58 Zakona o lokalnoj samoupravi (Sl.list RCG, broj 42/03,28/04,75/05,13/06; Sl.list CG,broj 88/09,3/10,73/10,38/12,10/14 ), člana 36 stav 1 i člana 60 Statuta Opštine Herceg Novi ('' Sl.list RCG - opštinski propisi '' br. 15/04,32/05,31/06,14/07 i ,,Sl.list CG- opštinski propisi'' br.16/09 i 16/11) Skupština opštine Herceg Novi, na sjednici održanoj dana 30.05.2017.g. donijela je
+O D L U K U O DAVANJU SAGLASNOSTI NA ODLUKU POTPREDSJEDNIKA OPŠTINE HERCEG NOVI U FUNKCIJI PREDSJEDNIKA OPŠTINE BROJ:01-638/17
