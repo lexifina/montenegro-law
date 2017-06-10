@@ -1,0 +1,4046 @@
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Andrijevica /
+CG 84320
+Balj
+19E49151/
+42N44359
+93.7
+1543
+889.1
+1
+ND
+Andrijevica /
+CG 84320
+Balj
+19E49151/
+42N44359
+95.8
+740
+37
+1
+ND
+Andrijevica /
+CG 84320
+Balj
+19E49151/
+42N44359
+102.1
+1543
+889.1
+1
+ND
+Andrijevica /
+CG 84320
+Balj
+19E49151/
+42N44359
+103.4
+1543
+889.1
+1
+ND
+Bar/
+CG 85000
+Bar
+19E0600/
+42N0600
+91.8
+40
+25
+0,501
+95
+GE84
+Dislocirano
+Bar/
+CG 85000
+Bjelasica-Virpazar
+19E03083/
+42N14348
+106.7
+554
+504.3
+1
+ND
+Bar/
+CG 85000
+Velji Grad
+19E00546/
+42N09039
+89.6
+497
+494
+10
+3
+45
+GE84
+Bar/
+CG 85000
+Velji Grad
+19E00546/
+42N09039
+93.0
+497
+494
+1
+ND
+Bar/
+CG 85000
+Velji Grad
+19E00546/
+42N09039
+95.4
+497
+494
+1
+ND
+Bar/
+CG 85000
+Velji Grad
+19E00546/
+42N09039
+96.0
+497
+494
+1
+330
+Bar/
+CG 85000
+Velji Grad
+19E00546/
+42N09039
+99.8
+497
+494
+10
+3
+20
+GE84
+Bar/
+CG 85000
+Velji Grad
+19E00546/
+42N09039
+101.3
+497
+494
+1
+ND
+Bar/
+CG 85000
+Velji Grad
+19E00546/
+42N09039
+106.0
+497
+494
+10
+1
+330
+GE84
+Bar/
+CG 85000
+Velji Grad
+19E00546/
+42N09039
+88.7
+497
+494
+1
+ND
+Bar/
+CG 85000
+Velji Grad
+19E00546/
+42N09039
+102.1
+497
+494
+10
+1
+330
+GE84
+Bar/
+CG 85000
+Velji Grad
+19E00546/
+42N09039
+107.7
+497
+494
+1
+ND
+Bar/
+CG 85000
+Volujica
+19E06042/
+42N04309
+87.6
+140
+126
+1
+ND
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Bar/
+CG 85000
+Volujica
+19E06042/
+42N04309
+91.0
+140
+126
+1
+ND
+Bar/
+CG 85000
+Volujica
+19E06042/
+42N04309
+91.8
+140
+126
+1
+ND
+Bar/
+CG 85000
+Volujica
+19E06042/
+42N04309
+96.6
+140
+126
+1
+ND
+Bar/
+CG 85000
+Volujica
+19E06042/
+42N04309
+97.6
+140
+126
+1
+ND
+Bar/
+CG 85000
+Volujica
+19E06042/
+42N04309
+104.7
+140
+126
+1
+ND
+Bar/
+CG 85000
+Volujica
+19E06042/
+42N04309
+107.3
+140
+126
+1
+ND
+Berane/
+CG 84300
+Berane
+19E5400/
+42N5200
+88.2
+946
+218
+0,501
+0,500
+ND
+GE84
+Berane/
+CG 84300
+Jejevica
+19E53351/
+42N52179
+89.1
+955
+209.8
+1
+3
+ND
+GE84
+Berane/
+CG 84300
+Jejevica
+19E53351/
+42N52179
+93.3
+955
+209.8
+1
+ND
+Berane/
+CG 84300
+Jejevica
+19E53351/
+42N52179
+95.3
+955
+209.8
+1
+1
+ND
+GE84
+Berane/
+CG 84300
+Jejevica
+19E53351/
+42N52179
+98.2
+955
+209.8
+1
+1
+ND
+GE84
+Berane/
+CG 84300
+Jejevica
+19E53351/
+42N52179
+99.8
+955
+209.8
+1
+ND
+Berane/
+CG 84300
+Jejevica
+19E53351/
+42N52179
+100.9
+955
+209.8
+1
+ND
+Berane/
+CG 84300
+Jejevica
+19E53351/
+42N52179
+104.6
+955
+209.8
+1
+ND
+Berane/
+CG 84300
+Jejevica
+19E53351/
+42N52179
+105.4
+955
+209.8
+1
+1
+ND
+GE84
+Berane/
+CG 84300
+Jejevica
+19E53351/
+42N52179
+106.7
+955
+209.8
+1
+ND
+Bijelo Polje/
+CG 84000
+Bijelo Polje
+19E4600/
+43N0200
+101.1
+1006
+263
+1
+1
+ND
+GE84
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Bijelo Polje/
+CG 84000
+Galica
+19E36115/
+43N04521
+93.1
+1190
+442,8
+1
+ND
+GE84
+Dislocirano
+Bijelo Polje/
+CG 84000
+Galica
+19E36115/
+43N04521
+95.6
+1190
+442,8
+1
+ND
+GE84
+Dislocirano
+Bijelo Polje/
+CG 84000
+Galica
+19E36115/
+43N04521
+103.0
+1190
+442,8
+1
+ND
+GE84
+Dislocirano
+Bijelo Polje/
+CG 84000
+Galica
+19E36115/
+43N04521
+107.0
+1190
+442,8
+1
+ND
+GE84
+Dislocirano
+Bijelo Polje/
+CG 84000
+Kurilo BP
+19E51155/
+43N02073
+91.6
+1323
+590
+1
+ND
+Bijelo Polje/
+CG 84000
+Kurilo BP
+19E51155/
+43N02073
+94.6
+1323
+590
+2,500
+ND
+Bijelo Polje/
+CG 84000
+Kurilo BP
+19E51155/
+43N02073
+95.5
+1323
+590
+1
+ND
+Bijelo Polje/
+CG 84000
+Kurilo BP
+19E51155/
+43N02073
+100.3
+1323
+590
+1
+ND
+Bijelo Polje/
+CG 84000
+Kurilo BP
+19E51155/
+43N02073
+103.8
+1323
+590
+2,500
+ND
+Bijelo Polje/
+CG 84000
+Kurilo BP
+19E51155/
+43N02073
+104.8
+1323
+590
+1
+ND
+Bijelo Polje/
+CG 84000
+Kurilo BP
+19E51155/
+43N02073
+107.2
+1323
+590
+1
+ND
+Bijelo Polje/
+CG 84000
+Obrov
+19E45343/
+43N01337
+87.9
+958
+225.7
+1
+ND
+Bijelo Polje/
+CG 84000
+Obrov
+19E45343/
+43N01337
+89.0
+958
+225.7
+1
+1
+ND
+GE84
+Bijelo Polje/
+CG 84000
+Obrov
+19E45343/
+43N01337
+90.5
+958
+225.7
+1
+ND
+Bijelo Polje/
+CG 84000
+Obrov
+19E45343/
+43N01337
+91.0
+958
+225.7
+1
+ND
+Bijelo Polje/
+CG 84000
+Obrov
+19E45343/
+43N01337
+93.9
+958
+225.7
+1
+ND
+Bijelo Polje/
+CG 84000
+Obrov
+19E45343/
+43N01337
+94.6
+958
+225.7
+10
+ND
+GE84
+Dislocirano
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Bijelo Polje/
+CG 84000
+Obrov
+19E45343/
+43N01337
+96.6
+958
+225.7
+1
+ND
+Bijelo Polje/
+CG 84000
+Obrov
+19E45343/
+43N01337
+97.2
+958
+225.7
+1
+ND
+Bijelo Polje/
+CG 84000
+Obrov
+19E45343/
+43N01337
+98.8
+958
+225.7
+1
+ND
+Bijelo Polje/
+CG 84000
+Obrov
+19E45343/
+43N01337
+103.8
+958
+225.7
+10
+ND
+GE84
+Dislocirano
+Bijelo Polje/
+CG 84000
+Obrov
+19E45343/
+43N01337
+103.0
+958
+225.7
+1
+ND
+Bijelo Polje/
+CG 84000
+Obrov
+19E45343/
+43N01337
+105.8
+958
+225.7
+10
+1
+ND
+GE84
+Budva/
+CG 85310
+Budva
+18E5000/
+42N1700
+98.7
+415
+368
+1
+40
+GE84
+Dislocirano
+Budva/
+CG 85310
+Crvena Komuna-
+Petrovac
+18E5633/
+42N1220
+89.2
+13
+33
+0,100
+ND
+Budva/
+CG 85310
+Spas
+18E49220 /
+42N17015
+88.2
+389
+365
+1
+ND
+Budva/
+CG 85310
+Spas
+18E49220/
+42N17015
+89.2
+389
+365
+1
+ND
+Budva/
+CG 85310
+Spas
+18E49220/
+42N17015
+90.0
+389
+365
+1
+ND
+Budva/
+CG 85310
+Spas
+18E49220/
+42N17015
+92.2
+389
+365
+0,501
+1
+60
+GE84
+Budva/
+CG 85310
+Spas
+18E49220/
+42N17015
+93.7
+389
+365
+1
+1
+60
+GE84
+Budva/
+CG 85310
+Spas
+18E49220/
+42N17015
+97.1
+389
+365
+0,501
+1
+75
+GE84
+Budva/
+CG 85310
+Spas
+18E49220/
+42N17015
+98.7
+389
+365
+1
+ND
+Budva/
+CG 85310
+Spas
+18E49220/
+42N17015
+99.4
+389
+365
+1
+ND
+Budva/
+CG 85310
+Spas
+18E49220 /
+42N17015
+100.5
+389
+365
+1
+ND
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Budva/
+CG 85310
+Spas
+18E49220 /
+42N17015
+101.7
+389
+365
+1
+ND
+Budva/
+CG 85310
+Spas
+18E49220 /
+42N17015
+103.0
+389
+365
+1
+ND
+Budva/
+CG 85310
+Spas
+18E49220 /
+42N17015
+103.8
+389
+365
+1
+1
+ND
+GE84
+Budva/
+CG 85310
+Spas
+18E49220/
+42N17015
+104.3
+389
+365
+1
+ND
+Budva/
+CG 85310
+Spas
+18E49220/
+42N17015
+105.3
+389
+365
+1
+ND
+Budva/
+CG 85310
+Spas
+18E49220 /
+42N17015
+106.8
+389
+365
+1
+ND
+Cetinje/
+CG 81250
+Cetinje-Bogišin krš
+18E55401/
+42N23285
+88.2
+687
+457.2
+3,010
+1
+55
+GE84
+Cetinje/
+CG 81250
+Cetinje-Bogišin krš
+18E55401/
+42N23285
+90.1
+687
+457.2
+3,010
+1
+ND
+GE84
+Cetinje/
+CG 81250
+Cetinje-Bogišin krš
+18E55401/
+42N23285
+93.0
+687
+457.2
+1
+ND
+Cetinje/
+CG 81250
+Cetinje-Bogišin krš
+18E55401/
+42N23285
+94.5
+687
+457.2
+1
+1
+ND
+GE84
+Cetinje/
+CG 81250
+Cetinje-Bogišin krš
+18E55401/
+42N23285
+97.3
+687
+457.2
+1
+ND
+Cetinje/
+CG 81250
+Cetinje-Bogišin krš
+18E55401/
+42N23285
+99.4
+687
+457.2
+1
+ND
+Cetinje/
+CG 81250
+Cetinje-Bogišin krš
+18E55401/
+42N23285
+100.4
+687
+457.2
+3,010
+1
+ND
+GE84
+Cetinje/
+CG 81250
+Cetinje-Bogišin krš
+18E55401/
+42N23285
+102.2
+687
+457.2
+1
+ND
+Cetinje/
+CG 81250
+Cetinje-Bogišin krš
+18E55401/
+42N23285
+104.0
+687
+457.2
+1
+ND
+Cetinje/
+CG 81250
+Cetinje-Bogišin krš
+18E55401/
+42N23285
+105.1
+687
+457.2
+1
+ND
+Cetinje/
+CG 81250
+Lovćen
+18E49053/
+42N23579
+94.9
+1752
+1781
+60,250
+ND
+GE84
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Cetinje/
+CG 81250
+Lovćen
+18E49053/
+42N23579
+98.0
+1752
+1781
+60,250
+ND
+GE84
+Cetinje/
+CG 81250
+Lovćen
+18E49053/
+42N23579
+100.1
+1752
+1781
+60,250
+10
+GE84
+Dislocirano
+Cetinje/
+CG 81250
+Lovćen
+18E49053/
+42N23579
+101.0
+1752
+1781
+60,250
+ND
+ART11
+Dislocirano
+Cetinje/
+CG 81250
+Lovćen
+18E49053/
+42N23579
+103.5
+1752
+1781
+60,250
+ND
+ART11
+Dislocirano
+Danilovgrad/
+CG 81410
+Danilovgrad
+19E0700/
+42N3300
+92.9
+100
+6
+1
+ND
+GE84
+Dislocirano
+Danilovgrad/
+CG 81410
+Kurilo DG
+19E04036/
+42N34069
+92.9
+274
+178.4
+1
+ND
+Danilovgrad/
+CG 81410
+Kurilo DG
+19E04036/
+42N34069
+104.0
+274
+178.4
+1
+ND
+Danilovgrad/
+CG 81410
+Kurilo DG
+19E04036/
+42N34069
+105.0
+274
+178.4
+1
+ND
+Gusinje/
+CG 84326
+Gusinje
+19E5100/
+42N3400
+88.4
+950
+-33
+1
+1
+ND
+GE84
+Gusinje/
+CG 84326
+Gusinje
+19E5100/
+42N3400
+90.3
+950
+-33
+1
+ND
+GE84
+Dislocirano
+Gusinje/
+CG 84326
+Gusinje
+19E5100/
+42N3400
+91.3
+950
+-33
+1
+350
+GE84
+Dislocirano
+Gusinje/
+CG 84326
+Gusinje
+19E5100/
+42N3400
+104.0
+950
+-33
+1
+1
+ND
+GE84
+Gusinje/
+CG 84326
+Gusinje
+19E5100/
+42N3400
+105.2
+950
+-33
+1
+1
+ND
+GE84
+Gusinje/
+CG 84326
+Gusinje
+19E5100/
+42N3400
+107.0
+950
+-33
+1
+1
+ND
+GE84
+Herceg Novi/
+CG 85340
+Herceg Novi
+18E3000/
+42N2700
+90.0
+86
+143
+0,500
+D
+0.2
+250 -
+290°
+GE84
+Dislocirano
+Herceg Novi/
+CG 85340
+Žvinje
+18E29376/
+42N26505
+89.2
+283
+280
+1
+ND
+Herceg Novi/
+CG 85340
+Žvinje
+18E29376/
+42N26505
+90.0
+283
+280
+0,501
+1
+ND
+GE84
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Herceg Novi/
+CG 85340
+Žvinje
+18E29376/
+42N26505
+103.2
+283
+280
+1
+ND
+Herceg Novi/
+CG 85340
+Žvinje
+18E29376/
+42N26505
+106.7
+283
+280
+1
+ND
+Kolašin/
+CG 81210
+Bablja Greda
+19E30416/
+42N49403
+87.7
+1085
+331.1
+1
+ND
+Kolašin/
+CG 81210
+Bablja Greda
+19E30416/
+42N49403
+88.9
+1085
+331.1
+1
+ND
+GE84
+Dislocirano
+Kolašin/
+CG 81210
+Bablja Greda
+19E30416/
+42N49403
+89.7
+1085
+331.1
+1
+ND
+Kolašin/
+CG 81210
+Bablja Greda
+19E30416/
+42N49403
+93.5
+1085
+331.1
+1
+ND
+Kolašin/
+CG 81210
+Bablja Greda
+19E30416/
+42N49403
+94.0
+1085
+331.1
+1
+ND
+GE84
+Dislocirano
+Kolašin/
+CG 81210
+Bablja Greda
+19E30416/
+42N49403
+97.6
+1085
+331.1
+1
+1
+ND
+GE84
+Kolašin/
+CG 81210
+Bablja Greda
+19E30416/
+42N49403
+101.3
+1085
+331.1
+1
+ND
+Kolašin/
+CG 81210
+Bablja Greda
+19E30416/
+42N49403
+103.0
+1085
+331.1
+1
+1
+ND
+GE84
+Kolašin/
+CG 81210
+Bablja Greda
+19E30416/
+42N49403
+104.0
+1085
+331.1
+1
+ND
+Kolašin/
+CG 81210
+Bablja Greda
+19E30416/
+42N49403
+104.6
+1085
+331.1
+1
+ND
+Kolašin/
+CG 81210
+Bablja Greda
+19E30416/
+42N49403
+105.8
+1085
+331.1
+1
+ND
+Kolašin/
+CG 81210
+Bjelasica
+19E40415/
+42N51026
+92.1
+2116
+1333
+60,250
+ND
+GE84
+Kolašin/
+CG 81210
+Bjelasica
+19E40415/
+42N51026
+99.3
+2116
+1333
+60,250
+ND
+GE84
+Kolašin/
+CG 81210
+Bjelasica
+19E40415/
+42N51026
+101.8
+2116
+1333
+60,250
+ND
+GE84
+Dislocirano
+Kolašin/
+CG 81210
+Bjelasica
+19E40415/
+42N51026
+106.3
+2116
+1333
+60,250
+ND
+GE84
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Kolašin/
+CG 81210
+Kolašin
+19E3200/
+42N4900
+100.6
+1100
+251
+1
+1
+ND
+GE84
+Kolašin/
+CG 81210
+Morača
+19E25274/
+42N47262
+88.3
+1020
+487.4
+1
+ND
+Kolašin/
+CG 81210
+Morača
+19E25274/
+42N47262
+94.0
+1020
+487.4
+5
+ND
+Kotor/
+CG 85330
+Kotor
+18E4500/
+42N2600
+95.3
+70
+518
+0,501
+1
+50
+GE84
+Kotor/
+CG 85330
+Tunel Vrmac
+18E4506/
+42N2405
+89.0
+73
+/
+0,100
+0 - 70
+Kotor/
+CG 85330
+Vrmac
+18E44435/
+42N26100
+88.0
+534
+507
+0,501
+1
+45
+GE84
+Kotor/
+CG 85330
+Vrmac
+18E44435/
+42N26100
+89.0
+534
+507
+1
+1
+ND
+GE84
+Kotor/
+CG 85330
+Vrmac
+18E44435/
+42N26100
+91.2
+534
+507
+1
+ND
+Kotor/
+CG 85330
+Vrmac
+18E44435/
+42N26100
+93.4
+534
+507
+1
+ND
+Kotor/
+CG 85330
+Vrmac
+18E44435/
+42N26100
+97.4
+534
+507
+1
+ND
+Kotor/
+CG 85330
+Vrmac
+18E44435/
+42N26100
+99.0
+534
+507
+0,501
+1
+45
+GE84
+Kotor/
+CG 85330
+Vrmac
+18E44435/
+42N26100
+102.0
+534
+507
+1
+ND
+Kotor/
+CG 85330
+Vrmac
+18E44435/
+42N26100
+105.0
+534
+507
+1
+ND
+Kotor/
+CG 85330
+Vrmac
+18E44435/
+42N26100
+106.3
+534
+507
+0,501
+1
+65
+GE84
+Kotor/
+CG 85330
+Vrmac
+18E44435/
+42N26100
+107.9
+534
+507
+0,501
+1
+D
+GE84
+Mojkovac/
+CG 84205
+Katuničko Brdo
+19E33199/
+42N56396
+89.0
+1222
+307.6
+1
+ND
+Mojkovac/
+CG 84205
+Katuničko Brdo
+19E33199/
+42N56396
+92.8
+1222
+307.6
+1
+50
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Mojkovac/
+CG 84205
+Katuničko Brdo
+19E33199/
+42N56396
+95.1
+1222
+307.6
+1
+ND
+Mojkovac/
+CG 84205
+Katuničko Brdo
+19E33199/
+42N56396
+98.5
+1222
+307.6
+1
+ND
+Mojkovac/
+CG 84205
+Katuničko Brdo
+19E33199/
+42N56396
+101.8
+1222
+307.6
+1,500
+ND
+Mojkovac/
+CG 84205
+Katuničko Brdo
+19E33199/
+42N56396
+103.4
+1222
+307.6
+1
+ND
+Mojkovac/
+CG 84205
+Katuničko Brdo
+19E33199/
+42N56396
+105.3
+1222
+307.6
+1
+ND
+Mojkovac/
+CG 84205
+Katuničko Brdo
+19E33199/
+42N56396
+107.8
+1222
+307.6
+1,500
+ND
+Mojkovac/
+CG 84205
+Mojkovac
+19E3500/
+42N5500
+92.8
+1015
+91
+0,500
+ND
+GE84
+Dislocirano
+Nikšić/
+CG 81400
+Bratogošt
+18E32204/
+42N54054
+102.8
+1363
+742.9
+1
+ND
+Nikšić/
+CG 81400
+Grahovo
+18E4000/
+42N3740
+90.5
+1154
+549
+0,100
+ND
+GE84
+Dislocirano
+Nikšić/
+CG 81400
+Grahovo
+18E4000/
+42N3740
+93.7
+1154
+549
+0,100
+ND
+GE84
+Dislocirano
+Nikšić/
+CG 81400
+Grahovo
+18E4000/
+42N3740
+104.1
+1154
+549
+0,250
+ND
+GE84
+Dislocirano
+Nikšić/
+CG 81400
+Grahovo
+18E4000/
+42N3740
+106.0
+1154
+549
+0,250
+ND
+GE84
+Dislocirano
+Nikšić/
+CG 81400
+Ilino Brdo
+18E3433/
+42N4258
+89.2
+1082
+618
+1
+ND
+Nikšić/
+CG 81400
+Nikšić
+18E5800/
+42N4600
+88.4
+720
+276
+0,500
+ND
+Nikšić/
+CG 81400
+Nikšić
+18E5800/
+42N4600
+89.8
+720
+276
+1
+ND
+GE84
+Dislocirano
+Nikšić/
+CG 81400
+Nikšić
+18E5800/
+42N4600
+92.0
+720
+276
+1
+ND
+Nikšić/
+CG 81400
+Nikšić
+18E5800/
+42N4600
+107.5
+720
+276
+0,2
+ND
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Nikšić/
+CG 81400
+Ostrog
+19E00150/
+42N41598
+89.0
+908
+731.4
+0,500
+ND
+Nikšić/
+CG 81400
+Ostrog
+19E00150/
+42N41598
+90.7
+908
+731.4
+0,500
+ND
+Nikšić/
+CG 81400
+Ostrog
+19E00150/
+42N41598
+93.2
+908
+731.4
+0,500
+ND
+Nikšić/
+CG 81400
+Ostrog
+19E00150/
+42N41598
+94.4
+908
+731.4
+0,500
+ND
+Nikšić/
+CG 81400
+Ostrog
+19E00150/
+42N41598
+100.0
+908
+731.4
+0,500
+ND
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+88.0
+1143
+507.1
+10
+9
+220
+GE84
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+89.8
+1143
+507.1
+1
+220
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+90.3
+1143
+507.1
+1
+ND
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+91.3
+1143
+507.1
+1
+ND
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+93.9
+1143
+507.1
+1
+ND
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+95.7
+1143
+507.1
+1
+ND
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+96.8
+1143
+507.1
+1
+ND
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+98.9
+1143
+507.1
+10
+9
+50
+GE84
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+102.4
+1143
+507.1
+10
+ND
+GE84
+Dislocirano
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+102.5
+1143
+507.1
+1
+ND
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+103.6
+1143
+507.1
+1
+ND
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+104.4
+1143
+507.1
+1
+ND
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+106.3
+1143
+507.1
+1
+ND
+Nikšić/
+CG 81400
+Suđina Glava
+18E59347 /
+42N48444
+106.9
+1143
+507.1
+10
+1
+ND
+GE84
+Nikšić/
+CG 81400
+Trebjesa
+18E5800/
+42N4600
+90.7
+720
+281
+1
+ND
+GE84
+Dislocirano
+Nikšić/
+CG 81400
+Trebjesa
+18E5800/
+42N4600
+93.2
+720
+281
+1
+ND
+GE84
+Dislocirano
+Nikšić/
+CG 81400
+Trebjesa
+18E5800/
+42N4600
+95.7
+720
+281
+1
+ND
+GE84
+Dislocirano
+Nikšić/
+CG 81400
+Trebjesa
+18E5800/
+42N4600
+104.4
+720
+281
+1
+ND
+GE84
+Dislocirano
+Petnjca/
+CG 84312
+Petnjica
+20E0045/
+42N5505
+90.7
+1247
+438
+1
+ND
+Petnjica/
+CG 84312
+Petnjica
+20E0045/
+42N5505
+106.0
+1247
+438
+1
+ND
+Plav/
+CG 84325
+Plav-Kofiljača
+19E57311/
+42N35400
+89.9
+1235
+275.4
+10
+3
+ND
+GE84
+Plav/
+CG 84325
+Plav-Kofiljača
+19E57311/
+42N35400
+90.9
+1235
+275.4
+1
+ND
+Plav/
+CG 84325
+Plav-Kofiljača
+19E57311/
+42N35400
+92.8
+1235
+275.4
+1
+1
+ND
+GE84
+Plav/
+CG 84325
+Plav-Kofiljača
+19E57311/
+42N35400
+97.2
+1235
+275.4
+10
+3
+ND
+GE84
+Plav/
+CG 84325
+Plav-Kofiljača
+19E57311/
+42N35400
+99.9
+1235
+275.4
+1
+ND
+Plav/
+CG 84325
+Plav-Kofiljača
+19E57311/
+42N35400
+100.7
+1235
+275.4
+10
+1
+ND
+GE84
+Plav/
+CG 84325
+Plav-Kofiljača
+19E56506/
+42N35467
+102.9
+1235
+275.4
+10
+1
+ND
+GE84
+Plav/
+CG 84325
+Plav-Kofiljača
+42N35491/
+19E56501
+105.6
+1235
+275.4
+1
+ND
+Plav/
+CG 84325
+Plav-Kofiljača
+19E57311/
+42N35400
+107.8
+1235
+275.4
+1
+ND
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Plužine/
+CG 81435
+Budanj
+18E5051/
+43N1003
+89.5
+1129
+220
+0,500
+ND
+Plužine/
+CG 81435
+Budanj
+18E5051/
+43N1003
+97.1
+1129
+220
+0,500
+ND
+Plužine/
+CG 81435
+Plužine
+18E50084/
+43N08495
+95.5
+807
+-57.7
+1
+1
+ND
+GE84
+Plužine/
+CG 81435
+Unač
+18E54178/
+43N12111
+89.5
+1723
+787.3
+0,501
+ND
+GE84
+Dislocirano
+Plužine/
+CG 81435
+Unač
+18E54178/
+43N12111
+93.4
+1723
+787.3
+0,501
+ND
+GE84
+Dislocirano
+Plužine/
+CG 81435
+Unač
+18E54178/
+43N12111
+100.4
+1723
+787.3
+0,501
+1
+ND
+GE84
+Plužine/
+CG 81435
+Unač
+18E54178/
+43N12111
+106.5
+1723
+787.3
+0,501
+1
+ND
+GE84
+Plužine/
+CG 81435
+Zavorovi
+18E5047/
+43N0827
+93.4
+1208
+157
+0,500
+ND
+Plužine/
+CG 81435
+Zavorovi
+18E5047/
+43N0827
+94.5
+1208
+157
+1
+ND
+Plužine/
+CG 81435
+Zavorovi
+18E5047/
+43N0827
+102.0
+1208
+157
+1
+ND
+Pljevlja/
+CG 84210
+Gradac
+19E09351/
+43N23375
+89.9
+849
+-57.3
+0,250
+1
+20
+GE84
+Pljevlja/
+CG 84210
+Gradac
+19E09351/
+43N23375
+98.6
+849
+-57.3
+0,250
+1
+20
+GE84
+Pljevlja/
+CG 84210
+Gradac
+19E09351/
+43N23375
+104.5
+849
+-57.3
+0,250
+20
+GE84
+Dislocirano
+Pljevlja/
+CG 84210
+Gradac
+19E09351/
+43N23375
+105.5
+849
+-57.3
+0,250
+20
+GE84
+Dislocirano
+Pljevlja/
+CG 84210
+Pljevlja
+19E2400/
+43E2000
+94.8
+1183
+336
+1
+ND
+Pljevlja/
+CG 84210
+Pljevlja
+19E2400/
+43E2000
+103.0
+1183
+336
+1
+ND
+GE84
+Dislocirano
+Pljevlja/
+CG 84210
+Tvrdaš
+19E23192/
+43N19488
+89.2
+1200
+368
+1
+ND
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Pljevlja/
+CG 84210
+Tvrdaš
+19E23192/
+43N19488
+93.2
+1200
+368
+1
+ND
+Pljevlja/
+CG 84210
+Tvrdaš
+19E23192/
+43N19488
+96.8
+1200
+368
+10
+3
+ND
+GE84
+Pljevlja/
+CG 84210
+Tvrdaš
+19E23192/
+43N19488
+97.6
+1200
+368
+1
+ND
+Pljevlja/
+CG 84210
+Tvrdaš
+19E23192/
+43N19488
+98.3
+1200
+368
+10
+3
+ND
+GE84
+Pljevlja/
+CG 84210
+Tvrdaš
+19E23192/
+43N19488
+101.3
+1200
+368
+10
+1
+ND
+GE84
+Pljevlja/
+CG 84210
+Tvrdaš
+19E23192/
+43N19488
+102.3
+1200
+368
+1
+ND
+Pljevlja/
+CG 84210
+Tvrdaš
+19E23192/
+43N19488
+104.5
+1200
+368
+1
+ND
+Pljevlja/
+CG 84210
+Tvrdaš
+19E23192/
+43N19488
+105.5
+1200
+368
+1
+ND
+Pljevlja/
+CG 84210
+Tvrdaš
+19E23192/
+43N19488
+106.7
+1200
+368
+10
+1
+ND
+GE84
+Pljevlja/
+CG 84210
+Tvrdaš
+19E23192/
+43N19488
+107.5
+1200
+368
+1
+ND
+Podgorica/
+CG 81000
+Fundina
+19E2210/
+42N2605
+88.6
+576
+607
+1
+ND
+Podgorica/
+CG 81000
+Fundina
+19E2210/
+42N2605
+90.2
+576
+607
+1
+ND
+Podgorica/
+CG 81000
+Podgorica
+19E1900/
+42E2700
+93.3
+130
+120
+1
+ND
+Podgorica/
+CG 81000
+Podgorica
+19E1900/
+42E2700
+93.8
+130
+120
+1
+ND
+GE84
+Dislocirano
+Podgorica/
+CG 81000
+Podgorica
+19E1900/
+42E2700
+98.5
+130
+120
+1
+1
+ND
+GE84
+Podgorica/
+CG 81000
+Podgorica
+19E1900/
+42E2700
+101.9
+130
+120
+1
+ND
+GE84
+Dislocirano
+Podgorica/
+CG 81000
+Podgorica
+19E1900/
+42E2700
+105.7
+130
+120
+1
+ND
+GE84
+Dislocirano
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Podgorica/
+CG 81000
+Podgorica (RTV
+Dom)
+19E1442/
+42E2626
+95.5
+130
+120
+1
+1
+ND
+GE84
+Podgorica/
+CG 81000
+Potoci-Mrke
+19E19518/
+42N31526
+97.1
+356
+356
+1
+ND
+Podgorica/
+CG 81000
+Potoci-Mrke
+19E19518/
+42N31526
+105.3
+356
+356
+1
+ND
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+87.6
+451
+450
+1
+ND
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+88.1
+451
+450
+1
+D
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+89.3
+451
+450
+30,200
+5
+330
+GE84
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+90.7
+451
+450
+1
+ND
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+91.5
+451
+450
+5,010
+1
+D
+GE84
+Podgorica/
+CG 81000
+Sjenica
+19E04545/
+42N24260
+92.5
+451
+450
+1
+ND
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+96.0
+451
+450
+1
+ND
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+96.5
+451
+450
+30,200
+5
+330
+GE84
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+97.4
+451
+450
+1
+D
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+99.0
+451
+450
+1
+ND
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+99.7
+451
+450
+1
+D
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+100.6
+451
+450
+1
+D
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+101.1
+451
+450
+1
+ND
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+101.5
+451
+450
+1
+ND
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+102.5
+451
+450
+1
+ND
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+103.0
+451
+450
+30,100
+1
+330
+GE84
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+104.7
+451
+450
+30,100
+1
+330
+GE84
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+105.7
+451
+450
+1
+D
+Podgorica/
+CG 81000
+Sjenica
+19E04545/
+42N24260
+106.2
+451
+450
+1
+ND
+Podgorica/
+CG 81000
+Sjenica
+19E04545/
+42N24260
+107.3
+451
+450
+1
+ND
+Podgorica/
+CG 81000
+Sjenica
+19E19254/
+42N27480
+107.9
+451
+450
+1
+ND
+Podgorica/
+CG 81000
+Velja Gora
+19E04545/
+42N24260
+93.8
+705
+640.9
+1
+ND
+Podgorica/
+CG 81000
+Velja Gora
+19E04545/
+42N24260
+101.9
+705
+640.9
+1
+ND
+Podgorica/
+CG 81000
+Vrela Ribnička
+19E174906/
+42N253994
+97.0
+60
+70
+0,500
+300
+Rožaje/
+CG 84310
+Bandžovo Brdo
+20E10291/
+42N50251
+88.6
+1100
+27
+1
+ND
+Rožaje/
+CG 84310
+Bandžovo Brdo
+20E10291/
+42N50251
+92.6
+1138
+27
+0,250
+1
+ND
+GE84
+Rožaje/
+CG 84310
+Bandžovo Brdo
+20E10291/
+42N50251
+96.3
+1138
+27
+1
+1
+ND
+GE84
+Rožaje/
+CG 84310
+Bandžovo Brdo
+20E10291/
+42N50251
+98.7
+1138
+27
+0,250
+1
+ND
+GE84
+Rožaje/
+CG 84310
+Bandžovo Brdo
+20E10291/
+42N50251
+101.4
+1138
+27
+1
+ND
+GE84
+Dislocirano
+Rožaje/
+CG 84310
+Bandžovo Brdo
+20E10291/
+42N50251
+102.8
+1100
+27
+1
+ND
+Rožaje/
+CG 84310
+Bandžovo Brdo
+20E10291/
+42N50251
+104.4
+1138
+27
+1
+ND
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Rožaje/
+CG 84310
+Gospođin Vrh
+20E11559/
+42N54537
+101.4
+1558
+433
+1
+ND
+Rožaje/
+CG 84310
+Kacuber
+20E01232/
+42N50259
+89.5
+1574
+718
+1
+5
+ND
+GE84
+Rožaje/
+CG 84310
+Kacuber
+20E01232/
+42N50259
+90.0
+1574
+718
+1
+ND
+Rožaje/
+CG 84310
+Kacuber
+20E01232/
+42N50259
+91.4
+1574
+718
+1
+ND
+Rožaje/
+CG 84310
+Kacuber
+20E01232/
+42N50259
+94.2
+1574
+718
+1
+5
+ND
+GE84
+Rožaje/
+CG 84310
+Kacuber
+20E01232/
+42N50259
+100.4
+1574
+718
+1
+ND
+Rožaje/
+CG 84310
+Kacuber
+20E01232/
+42N50259
+102.5
+1574
+718
+1
+1
+ND
+GE84
+Rožaje/
+CG 84310
+Kacuber
+20E01232/
+42N50259
+105.0
+1574
+718
+1
+ND
+Rožaje/
+CG 84310
+Kacuber
+20E01232/
+42N50259
+107.4
+1574
+718
+1
+1
+ND
+GE84
+Rožaje/
+CG 84310
+Rožaje
+20E1100/
+42N5000
+104.4
+1000
+-90
+1
+ND
+GE84
+Dislocirano
+Šavnik/
+CG 81450
+Krnovska Glavica
+19E6000/
+42N5400
+87.6
+1630
+553
+1
+ND
+Šavnik/
+CG 81450
+Krnovska Glavica
+19E06164/
+42N54084
+92.5
+1630
+553
+1
+ND
+Šavnik/
+CG 81450
+Krnovska Glavica
+19E6000/
+42N5400
+93.0
+1630
+553
+1
+ND
+Šavnik/
+CG 81450
+Šavnik-Pješivac
+19E06076/
+42N57129
+90.5
+973
+41.3
+1
+1
+ND
+GE84
+Šavnik/
+CG 81450
+Šavnik-Pješivac
+19E06076/
+42N57129
+90.9
+973
+41.3
+0,250
+1
+180
+GE84
+Šavnik/
+CG 81450
+Šavnik-Pješivac
+19E06076/
+42N57129
+92.5
+973
+41.3
+0,250
+180
+GE84
+Dislocirano
+Šavnik/
+CG 81450
+Šavnik-Pješivac
+19E06076/
+42N57129
+97.1
+973
+41.3
+0,250
+1
+180
+GE84
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Šavnik/
+CG 81450
+Šavnik-Pješivac
+19E06076/
+42N57129
+105.3
+973
+41.3
+0,250
+1
+180
+GE84
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+90.8
+582
+586
+1
+ND
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+91.5
+582
+586
+1
+ND
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+92.7
+582
+586
+1
+ND
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+92.9
+582
+586
+0,501
+70
+GE84
+Dislocirano
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+94.3
+582
+586
+0,501
+1
+70
+GE84
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+95.5
+582
+586
+1
+ND
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+95.7
+582
+590
+0,501
+200
+ART11
+Dislocirano
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+96.0
+582
+586
+1
+060/320
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+96.6
+582
+586
+1
+ND
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+100.0
+582
+586
+1
+1
+10
+0,1
+180-260°
+GE84
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+100.8
+582
+586
+1
+D
+0.1
+180-290°
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+101.4
+582
+586
+1
+ND
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+102.0
+582
+586
+5,010
+ND
+GE84
+Dislocirano
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+102.7
+582
+586
+1
+ND
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+104.6
+582
+586
+1
+1
+ND
+GE84
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+105.8
+582
+586
+1
+ND
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+106.7
+582
+586
+1
+350
+GE84
+Dislocirano
+Tivat/
+CG 85320
+Luštica
+18E36297/
+42N24364
+107.3
+582
+586
+1
+ND
+Tivat/
+CG 85320
+Tivat
+18E4200/
+42N2600
+88.5
+30
+55
+0,501
+1
+75
+GE84
+Ulcinj/
+CG 85360
+Fraskanjel
+19E22535/
+41N58057
+104.7
+84
+65.9
+1
+55
+GE84
+Dislocirano
+Ulcinj/
+CG 85360
+Fraskanjel
+19E22535/
+41N58057
+105.6
+84
+65.9
+1
+55
+GE84
+Dislocirano
+Ulcinj/
+CG 85360
+Možura
+19E14412/
+41N57487
+88.4
+478
+489.1
+1
+ND
+Ulcinj/
+CG 85360
+Možura
+19E14412/
+41N57487
+90.4
+478
+489.1
+1
+ND
+Ulcinj/
+CG 85360
+Možura
+19E14412/
+41N57487
+93.4
+478
+489.1
+10
+3
+10
+GE84
+Ulcinj/
+CG 85360
+Možura
+19E14412/
+41N57487
+93.9
+478
+489.1
+1
+ND
+Ulcinj/
+CG 85360
+Možura
+19E14412/
+41N57487
+97.3
+478
+489.1
+10
+3
+10
+GE84
+Ulcinj/
+CG 85360
+Možura
+19E14412/
+41N57487
+99.0
+478
+489.1
+1
+ND
+Ulcinj/
+CG 85360
+Možura
+19E14412/
+41N57487
+100.6
+478
+489.1
+10
+1
+355
+GE84
+Ulcinj/
+CG 85360
+Možura
+19E14412/
+41N57487
+102.6
+478
+489.1
+10
+1
+355
+GE84
+Ulcinj/
+CG 85360
+Možura
+19E14412/
+41N57487
+104.0
+478
+489.1
+1
+ND
+Ulcinj/
+CG 85360
+Možura
+19E14412/
+41N57487
+105.6
+478
+489.1
+1
+ND
+Ulcinj/
+CG 85360
+Možura
+19E14412/
+41N57487
+106.4
+478
+489.1
+1
+ND
+Ulcinj/
+CG 85360
+Možura
+19E14412/
+41N57487
+107.7
+478
+489.1
+1
+ND
+Lokacija
+predajnika
+Naziv uže lokacije
+predajnika
+GE84ografske
+koordinate
+(WGS84)
+Frekvencija (MHz)
+Nadmorska
+visina
+terena (m)
+Heff'-
+max
+ERP (kW)
+GE84
+Plan
+ERP
+(kW)
+Planirano
+Azimut
+maksimalnog
+zračenja
+ERP
+lim
+(kW)
+Sektor
+(Azimut)
+Status
+Napomena
+Ulcinj/
+CG 85360
+Pinješ
+19E12407/
+42N55373
+91.3
+125
+164
+1
+ND
+Ulcinj/
+CG 85360
+Pinješ
+19E12407/
+42N55373
+92.7
+125
+125
+1
+ND
+Ulcinj/
+CG 85360
+Ulcinj
+19E1300/
+41N5600
+90.4
+164
+130
+10
+25
+GE84
+Dislocirano
+Ulcinj/
+CG 85360
+Ulcinj
+19E1300/
+41N5600
+91.3
+164
+130
+1
+345
+GE84
+Dislocirano
+Ulcinj/
+CG 85360
+Ulcinj
+19E1300/
+41N5600
+92.4
+164
+130
+10
+25
+GE84
+Dislocirano
+Ulcinj/
+CG 85360
+Ulcinj
+19E1300/
+41N5600
+104.0
+164
+130
+10
+355
+GE84
+Dislocirano
+Žabljak/
+CG 84220
+Durmitor
+19E0344/
+43N1000
+91.3
+2104
+1125
+60,250
+ND
+GE84
+Žabljak/
+CG 84220
+Durmitor
+19E0344/
+43N1000
+96.1
+2104
+1125
+60,250
+ND
+GE84
+Žabljak/
+CG 84220
+Durmitor
+19E0344/
+43N1000
+99.9
+2104
+1125
+60,250
+345
+GE84
+Žabljak/
+CG 84220
+Durmitor
+19E0344/
+43N1000
+107.8
+2104
+1125
+60,250
+ND
+GE84
+Dislocirano
+Žabljak/
+CG 84220
+Pitomine
+19E06487/
+43N09378
+88.5
+1513
+537.3
+1
+ND
+Žabljak/
+CG 84220
+Pitomine
+19E06487/
+43N09378
+93.9
+1513
+537.3
+1
+1
+ND
+GE84
+Žabljak/
+CG 84220
+Pitomine
+19E06487/
+43N09378
+95.1
+1513
+537.3
+1
+ND
+Žabljak/
+CG 84220
+Pitomine
+19E06487/
+43N09378
+100.7
+1513
+537.3
+1
+ND
+Žabljak/
+CG 84220
+Pitomine
+19E06487/
+43N09378
+104.0
+1513
+537.3
+1
+ND
+Žabljak/
+CG 84220
+Pitomine
+19E06487/
+43N09378
+107.8
+1513
+537.3
+1
+ND
