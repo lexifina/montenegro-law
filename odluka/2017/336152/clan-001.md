@@ -1,0 +1,4 @@
+# Član 1
+## 2255 (2015) i 1452 (2002) PREMA ČLANOVIMA ORGANIZACIJE TALIBANI I SA NJIMA POVEZANIM POJEDINCIMA, GRUPAMA, SUBJEKTIMA I ENTITETIMA
+Ovom odlukom uvode se međunarodne restriktivne mjere, utvrđene rezolucijama Savjeta bezbjednosti Ujedinjenih nacija 1988 (2011), 2255 (2015) i 1452 (2002), prema članovima organizacije Talibani (u daljem tekstu: Talibani) i sa njima povezanim pojedincima, grupama, subjektima i entitetima.
+Talibani i sa njima povezani pojedinci, grupe, subjekti i entiteti iz stava 1 ovog člana, navedeni su na Sankcionoj listi (u daljem tekstu: Lista) koja je objavljena na internet stranici Ujedinjenih nacija i koju vodi Komitet Savjeta bezbjednosti Ujedinjenih nacija za Talibane (u daljem tekstu: Komitet), formiran na osnovu rezolucije Savjeta bezbjednosti Ujedinjenih nacija 1988 (2011).

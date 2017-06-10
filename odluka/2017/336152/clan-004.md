@@ -1,0 +1,2 @@
+# Član 4
+Zabranjeno je, direktno ili indirektno, snabdijevanje, prodaja ili prenos naoružanja i sa njim povezanih materijala svih vrsta uključujući oružje i municiju, vojna vozila i opremu, paravojnu opremu i njihove rezervne djelove, kao i davanje tehničkih savjeta, pomoći ili obuka koje se odnose na vojne aktivnosti Talibana i sa njima povezanim pojedincima, grupama, subjektima i entitetima, sa teritorije Crne Gore ili od strane crnogorskih državljana van teritorije Crne Gore ili upotrebom plovila i vazduhoplova pod zastavom Crne Gore.
