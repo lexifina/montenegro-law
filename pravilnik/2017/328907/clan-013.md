@@ -1,0 +1,5 @@
+# Član 13
+## Stupanje na snagu
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+listu Crne Gore".
+--------------------------------- * U ovaj pravilnik prenesene su odredbe čl,4,5,7,8,9,10 i 14 i Priloga II tač. 4, 7, 8, 9, 10 i 11 Direktive Savjeta 92/119/EEZod 17. decembra 1992 godine o uvođenju opštih mjera Zajednice za suzbijanje određenih bolesti životinja i posebnih mjera koje se odnose na vezikularnu bolest svinja (COUNCIL DIRECTIVE 92/119/EEC of 17 December 1992 introducing general Community measures for the control of certain animal diseases and specific measures relating to swine vesicular disease) i Odluka Komisije od 4. jula 2000.godine o utvrđivanju dijagnostičkog postupka, metoda uzimanja uzoraka i kriterijuma za procjenu rezultata laboratorijskih ispitivanja za potvrđivanje i diferencijalnu dijagnozu vezikularne bolesti svinja (COMMISSION DECISION2000/428/EC of 4 July 2000 establishing diagnostic procedures, sampling methods and criteria for the evaluation of the results of laboratory tests for the confirmation and differential diagnosis of swine vesicular disease)
