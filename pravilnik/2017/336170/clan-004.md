@@ -1,0 +1,4 @@
+# Član 4
+Komora javnih izvršitelja je dužna da najkasnije narednog dana od dana dostavljanja zahtjeva iz člana 3. Pravilnika, odgovori na zahtjev izvršnog povjerioca, na način što dnevno primljene zahtjeve raspoređuje po abecednom redu ličnog imena javnih izvršitelja sa istog službenog područja.
+Ukoliko je broj predloga za izvršenje navedenih u zahtjevu izvršnog povjerioca manji od broja izvršitelja nadležnih za postupanje, određivanje izvršitelja po prvom sljedećem zahtjevu izvršnog povjerioca započeće od prvog narednog izvršitelja koji po abecednom redu dolazi posle izvršitelja koji je bio poslednji određen.
+Ravnomjerna raspodjela predmeta propisana članom 5a Zakona o izmjenama i dopunama Zakona o izvršenju i obezbjeđenju, ne primjenjuje se na one javne izvršitelje koji su odlukom o imenovanju Ministra pravde jedini imenovani za područja Osnovnih sudova u Danilovgradu, Ulcinju, Rožajama i Cetinju..

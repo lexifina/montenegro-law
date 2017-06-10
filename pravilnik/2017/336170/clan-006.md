@@ -1,0 +1,5 @@
+# Član 6
+Javni izvršitelj je dužan da u roku od dva dana od dana prijema prijedloga za izvršenje, obavijesti Komoru o primljenim prijedlozima odnosno prijedlozima koji nisu podnijeti, i to elektronskim putem na obrascu 3, koji se nalazi na sajtu Komore javnih izvršitelja, a najkasnije 8 dana od dana dostavljanja obavještenja o dodjeljivanju predmeta nadležnom javnom izvršitelju.
+Obrazac 3 sadrži sve podatke koji se nalaze u obrascu 2, kao i podatak da li je javni izvršitelj primio prijedlog ili nije, datum prijema prijedloga, te broj predmeta pod kojim se vodi kod javnog izvršitelja.
+Izvršitelj koji je određen za postupanje, a nije primio prijedloge za izvršenje, prilikom prvog narednog postupka određivanja javnog izvršitelja imaće prednost, na taj način što će njemu biti dodijeljen onaj broj prijedloga za izvršenje koji u prethodnoj raspodjeli nije primio, nakon čega će se pristupiti određivanju izvršitelja po abecednom redu, u skladu sa članom 4. ovog Pravilnika.
+Komora će upoređivati podatke koje izvršitelji dostavljaju u obrascu 3 sa podacima kojima raspolaže Komora i utvrđivati eventualne nepravilnosti u radu javnih izvršitelja.

@@ -1,0 +1,4 @@
+# Član 3
+Prije podnošenja prijedloga za izvršenje nadležnom izvršitelju, izvršni povjerilac je u obavezi da Komori javnih izvršitelja uputi zahtjev za određivanje javnog izvršitelja, kojem će biti podnijet prijedlog za izvršenje.
+Zahtjev se podnosi u elektronskoj formi, na obrascu 1 koji se nalazi na sajtu Komore javnih izvršitelja u rubrici "RASPODJELA PREDMETA".
+Obrazac 1 sadrži opšte podatke povjerioca i u posebnom dijelu: referentni broj, registracioni broj predmeta kod izvršnog povjerioca, datum podnošenja zahtjeva, visina potraživanja, ime i prezime/naziv izvršnog dužnika, adresa, opština izvršnog dužnika, naznaka da li se radi o pravnom licu, preduzetniku ili fizičkom licu, PIB/JMBG, naznaka da li se radi o vjerodostojnoj ili izvršnoj ispravi, te koji nadležni organ je izvršnu ispravu izdao.
