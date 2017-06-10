@@ -1,0 +1,3 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04,75/05,13/06, "Sl. list CG", br.88/09,3/10,73/10,38/12,10/14), člana 23 stav 1 u vezi sa članom 17 stav 2 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", broj 16/16,83/16), člana 34 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl. list RCG - Opštinski propisi", br. 25/04,33/06, "Sl. list CG" - Opštinski propisi" br.18/10,32/13), Skupština Opštine Bijelo Polje, na sjednici održanoj dana 15.05.2017. godine, donijela je:
+ODLUKU
+o kriterijumima i načinu određivanja dodatka na zaradu za obavljanje poslova
