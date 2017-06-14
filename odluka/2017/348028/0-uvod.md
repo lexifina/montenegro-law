@@ -1,0 +1,2 @@
+Na osnovu člana 1, a u vezi sa članom 3 Zakona o izmjenama i dopunama Zakona o zaradama zaposlenih u javnom sektoru ("Sl.list CG", broj 83/16) i člana 22 Statuta Zajednice opština Crne Gore ("Sl.list CG", broj 8/17), Upravni odbor Zajednice opština Crne Gore, uz pribavljenu saglasnost Vlade Crne Gore broj: 07-1433 od 18.05.2017.godine, donio je
+ODLUKU O IZMJENI ODLUKE O RASPOREĐIVANJU U GRUPE POSLOVA I KOEFICIJENTIMA ZA ZARADE ZAPOSLENIH U SEKRETARIJATU ZAJEDNICE OPŠTINA CRNE GORE
