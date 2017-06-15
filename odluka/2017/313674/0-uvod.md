@@ -1,0 +1,1 @@
+Na osnovu člana 31 st.1 tačka 42 Statuta opštine Kolašin ( "Sl.list RCG-Opštinski propisi" br. 25/04, 31/04, 34/06 i "Sl.list CG-Opštinski propisi" br. 41/10) i člana 8 i 9 Odluke o osnivanju JU "Centar za kulturu" Kolašin ("Sl.list CG- Opštinski propisi" br.39/09), Skupština opštine Kolašin na sjednici održanoj dana 29.05.2017.godine donijela je-
