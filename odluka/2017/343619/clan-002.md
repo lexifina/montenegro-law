@@ -1,0 +1,3 @@
+# Član 2
+Urbanističku parcelu broj 5 (urbanistički blok 52), ukupne površine 3132 m2 u zahvatu Detaljnog urbanističkog plana Rastoci 1, pored zemljišta iz člana 1 ove odluke čine katastarska parcela broj 389/4, livada 1.klase, površine 1391 m2 i katstarska parcela broj 389/8, livada 1.klase, površine 1369 m2, upisane u listu nepokretnosti broj 3302 KO Nikšić, kao svojina Drašković Jefta.
+Drašković Jefto dužan je da riješi imovinsko pravne odnose sa vlasnicima drugih katastarskih parcela, ukupne površine 250 m2, koje ulaze u urbanističku parcelu UP 5 (urbanistički blok 52), koja je predmet kompletiranja.
