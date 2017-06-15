@@ -1,0 +1,1 @@
+Na osnovu člana 117 stava 3 Zakona o uređenju prostora i izgradnji objekata (‚‚Sl. list CG’’ , br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14) , člana 31 stav 1 tačka 2 Statuta Opštine Kolašin (‚‚Sl. list RCG - o.p.ˮ, br. 25/04, 31/04, 34/06, i ‚‚Sl. list CG - o.p.’’, br. 41/10) Skupština Opštine Kolašin na sjednici održanoj dana 29.05.2017.godine donijela je
