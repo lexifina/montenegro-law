@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 1 tačka 1 i 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list RCG" broj 42/03, 28/04, 75/05, 13/06 i "Sl.list CG" broj 88/09, 3/10, 38/12, 10/14, 57/14 i 03/16), člana 3, 9, 31 i 34 Zakona o državnoj imovini ("Sl. list CG" 21/09 i 40/11), člana 40 Statuta Opštine Budva ("Sl.list Crne Gore - opštinski propisi" broj 19/10) i Zaključka Vlade Crne Gore o davanju prethodne saglasnosti broj 07-697 od 30.03.2017.godine), Skupština Opštine Budva na sjednici održanoj dana 30. maja 2017.godine, donijela je
+ODLUKU
