@@ -1,0 +1,3 @@
+# Član 1
+## radi dokompletiranja urbanističke parcele
+Opština Nikšić, prodaje neposrednom pogodbom, "Grading-u" DOO Nikšić, Perović Bosiljki i Knežević Vladimiru, zemljište površine 62 m2, označeno katastarskom parcelom broj 1536/9, koja je upisana u listu nepokretnosti broj 764 KO Nikšić, kao svojina Države Crne Gore, sa pravom raspolaganja opštine Nikšić, po cijeni od 162,00 € po m2 zemljišta. Zemljište iz stava 1 ovog člana prodaje se za potrebe dokompletiranja urbanističke parcele UP 3, u skladu sa Odlukom o Detaljnom urbanističkom planu Staro Pazarište ("Službeni list Crne Gore-Opštinski propisi", broj 23/11), na kojoj je planirana izgradnja poslovno- stambenog objekta, Vp+4+Pk.
