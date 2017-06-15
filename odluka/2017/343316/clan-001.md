@@ -1,0 +1,3 @@
+# Član 1
+## o razmjeni nepokretnosti radi formiranja urbanističke parcele br.4.1 blok broj 4a u skladu sa LSL "Seoca"
+Katastarske parcele broj 331/3 KO Prijevor I pov. 104m² i 331/4 KO Prijevor I pov. 64m² vlasništvo Kovačević Gojka i katastarske parcele 331/5 KO Prijevor I pov. 53m² i 331/6 KO Prijevor I pov. 3m², vlasništvo Kovačević Blaža razmjenjuje se za katastarske parcele broj 333/2 KO Prijevor I pov. 12m² , 562/2 KO Prijevor I pov. 40m², 562/3 KO Prijevor I pov. 14m², 562/4 KO Prijevor I pov. 42m² i 559/2 KO Prijevor I pov. 18m², ukupne površine 126m², vlasništvo Opštine Budva, a radi formiranja urbanističke parcele br.4.1 blok broj 4a u skladu sa LSL "Seoca".
