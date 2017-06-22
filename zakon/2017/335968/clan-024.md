@@ -1,0 +1,3 @@
+# Član 24
+## Korišćenje logotipa nacionalnog brenda u promotivne svrhe
+Državni organi, organi državne uprave, nadležni organi opštine, organi lokalne uprave, sudovi, državno tužilaštvo, privredna društva u većinskom vlasništvu države koja obavljaju poslove od javnog interesa, diplomatsko - konzularna predstavništva i institucije i službe čiji je osnivač Crna Gora,odnosno opština i druge organizacije i udruženja, mogu u skladu sa ovim zakonom upotrebljavati logotip nacionalnog brenda na propagandnom materijalu, predmetima, suvenirima, reklamnim fotografijama, crtežima, agendama, zastavicama, prospektima, značkama, kesama, privjescima, elektronskoj korespodenciji, internet stranici, portalima i sl.

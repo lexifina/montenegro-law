@@ -1,0 +1,5 @@
+# Član 19
+## Nosioci prava korišćenja logotipa nacionalnog brenda
+(1) Nosioci prava korišćenja logotipa nacionalnog brenda mogu biti: pravna i fizička lica, državni organi, organi državne uprave, nadležni organi opštine, organi lokalne uprave, sudovi, državno tužilaštvo, privredna društva u većinskom vlasništvu države koja obavljaju poslove od javnog interesa, diplomatsko - konzularna predstavništva i institucije i službe čiji je osnivač Crna Gora, odnosno opština, preduzetnici i druge organizacije i udruženja (u daljem tesktu: korisnici logotipa nacionalnog brenda).
+(2) Pravna i fizička lica, preduzetnici, druge organizacije i udruženja iz stava 1 ovog člana stiču pravo korišćenja logotipa nacionalnog brenda na način utvrđen čl. 20 do 23 ovog zakona.
+(3) Uslovi, način sticanja i korišćenja logotipa nacionalnog brenda za državne organe, organe državne uprave, nadležne organe opštine, organe lokalne uprave, sudove, državno tužilaštvo, diplomatsko - konzularna predstavništva i privredna društva u većinskom vlasništvu države koja obavljaju poslove od javnog interesa, institucije i službe čiji je osnivač Crna Gora, odnosno opština utvrđuju se propisom Vlade.
