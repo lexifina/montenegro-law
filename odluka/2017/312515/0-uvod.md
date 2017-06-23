@@ -1,0 +1,2 @@
+Na osnovu člana 63 stav 15 Zakona o prevozu u drumskom saobraćaju ("Službeni list RCG", broj 45/05 i "Službeni list CG" broj 75/10, 38/12 i 18/14), člana 4 stav 1 Zakona o prekršajima ("Službeni list CG", broj 1/11, 6/11, 39/11 i 32/14) i člana 48 stav 1 alineja 2 Statuta Glavnog grada ("Sl. list RCG-opštinski propisi", broj 28/06 i"Sl. list CG-opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj 12. juna 2017. godine, donijela je
+O D L U K U
