@@ -1,0 +1,2 @@
+Na osnovu člana 51. i člna 72. Zakona o lokalnoj samoupravi ("sl. list RCG" broj 42/03, 28/04, 75/05 i 13/06, "Službeni list CG" br. 88/09, 3/110, 73/10, 10/14, 57/17 i 3/16) člana 19. stav 2. tačka 6. i člana 25. tačka 7. Zakona o kulturi ("Sl. list CG" br. 49/08, 16/11, 40/11, 38/12) i 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor" br. 03/04 i "Sl. list Crne Gore" - opštinski propisi br. 17/08, 31/09, 40/10 i 04/11) Skupština Opštine Kotor na VI sjednici održanoj 26. 06. 2017. godine donijela je
+ODLUKU
