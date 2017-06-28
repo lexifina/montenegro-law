@@ -1,0 +1,2 @@
+# Član 10
+Nakon sprovedenog kompletnog postupka provjere istinitosti navoda iz prijave i/ili zahtjeva za zaštitu zviždača, Agencija daje mišljenje, koje, ukoliko je došlo do ugrožavanja javnog interesa koje upućuje na postojanje korupcije ili ukoliko je došlo do štete ili mogućnosti nastanka štete po zviždača, sadrži preporuku Agencije o tome šta treba preduzeti kako bi se ugrožavanje spriječilo, odnosno otklonilo, rok za postupanje po preporuci i rok za obavještavanje Agencije o sprovedenim preporukama.

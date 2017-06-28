@@ -1,0 +1,7 @@
+# Član 3
+Izrazi koji se koriste u ovim Pravilima imaju sljedeće značenje:
+Prijava je bilo koji način, vrsta i sadržaj komunikacije, kojom se fizičko i ovlašćeno lice u pravnom licu obrati Agenciji sa opravdanim razlozima u sumnju o ugrožavanju javnog interesa koja upućuje na postojanje korupcije ili zahtjevom za zaštitu zvizdača kao i drugi podaci, uključujući i anonimne informacije ili dokumenta.
+Zviždač je fizičko ili pravno lice koje se na bilo koji način prijavom obrati Agenciji.
+Ovlašćeni službenik je zaposleni Agencije u Odsjeku za postupanje po prijavama i zaštitu zvizdača, kao i drugo lice koje direktor Agencije, u skladu sa Zakonom, ovlasti da po službenoj dužnosti pribavlja, obrađuje i čuva podatke i obavještenja, po potrebi sprovodi ispitni postupak ili raspravu o okolnostima, činjenicama i dokazima, neophodnim za postupanje po prijavama o ugrožavanju javnog interesa koja upućje na postojanje korupcije i zahtjevima za zaštitu zvizdača.
+Prethodno ispitivanje je postupak kojim ovlašćeni službenik obavlja neposredan uvid u podnesak radi procjene da li sadrži podatke, sa kojima je potrebno postupati po odredbama Zakona i drugih propisa koji se odnose na prijave o ugrožavanju javnog interesa koje upućuje na postojanje korupcije ili zahtjeve za zaštitu zvizdača.
+Ostali izrazi koji se koriste u ovim Pravilima imaju isto značanje kao i u Zakonu, drugim zakonima i propisima koji se odnose na postupanje po prijavama o ugrožavanju javnog interesa koje upućje na postojanje korupcije i zahtjevima za zaštitu zvizdača.

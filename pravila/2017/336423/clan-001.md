@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilima se bliže uređuju način i vrste pokretanja postupaka pred Agencijom za sprječavanje korupcije (u daljem tekstu: Agencija) radi obezbjeđenja primjene odredbi Zakona o sprječavanju korupcije (u daljem tekstu: Zakon), te važećih podzakonskih akata kojima je obuhvaćeno postupanje ovlašćenih lica Agencije po prijavama o ugrožavanju javnog interesa koje upućuje na postojanje korupcije i zahtjevima za zaštitu zviždača, prethodno ispitivanje prijave i/ili zahtjeva za zaštitu zviždača i način vođenja postupaka nakon prethodnog ispitivanja.
