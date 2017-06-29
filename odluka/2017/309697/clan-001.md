@@ -1,0 +1,5 @@
+# Član 1
+## Zorić Oliveru, Zorić Petra i Zorić Slavicu
+PRENOSI SE uz naknadu pravo svojine na građevinskom zemljištu na Zorić Željka iz Žabljaka, Ul. Narodnih heroja bb, Zorić-Sekulović Anitu iz Podgorice, Ul. Skopska br. 56, Zorić Oliveru iz Žabljaka, Ul. Narodnih heroja bb, Zorić Petra iz Žabljaka, Ul Narodnih heroja bb i Zorić Slavicu iz Zagreba, Ul. Šolfanska br. 8, u obimu ptava od po 1/5, radi dokompletiranja urbanističke parcele broj 489 u obuhvatu Detaljnog urbanističkog plana Žabljak koja pripada prvoj A građevinskoj zoni, i to:
+- na dijelu katastarske parcele broj 3150/1 površine 67 m2 upisanoj u listu nepokretnosti broj 243 KO Žabljak I, kao sukorišćenje Zorić Željka, Zorić-Sekulović Anite, Zorić Olivere, Zorić Petra i Zorić Slavice sa teretom i ograničenjem-zabrana otuđenja i opterećenja na površini od 67 m2, a koji dio je u svojini Crne Gore, sa pravom raspolaganja Opštine Žabljak, i
+- - na dijelu katastarske parcele broj 3164/1, građevinska parcela, površine 4 m2 upisanoj u listu nepokretnosti broj 193 KO Žabljak I, kao svojina Crne Gore, sa pravom raspolaganja Opštine Žabljak.
