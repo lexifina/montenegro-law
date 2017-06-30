@@ -1,0 +1,2 @@
+# Član 1
+Ovim zakonom uređuje se pravni status korisnica prava na naknadu po osnovu rođenja troje ili više djece, priznatog na osnovu člana 4 (čl. 54a i 54b) Zakona o dopunama Zakona o socijalnoj i dječjoj zaštiti („Službeni list CG”, broj 42/15), koje su prestale da važe danom objavljivanja Odluke Ustavnog suda Crne Gore U - I broj 6/16 od 19. aprila 2017. godine („Službeni list CG”, broj 31/17) i čl. 1 i 2 (čl. 54a stav 1 i 54b stav 1) Zakona o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti („Službeni list CG”, broj 1/17).

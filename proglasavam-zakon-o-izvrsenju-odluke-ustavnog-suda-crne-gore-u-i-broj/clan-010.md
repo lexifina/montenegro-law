@@ -1,0 +1,4 @@
+# Član 10
+## Način ostvarivanja prava korisnica koje su bile na evidenciji Zavoda za zapošljavanje
+Radi ostvarivanja prava iz člana 7 ovog zakona, korisnice koje su koristile pravo iz člana 4 (član 54b) Zakona o dopunama Zakona o socijalnoj i dječjoj zaštiti, odnosno člana 2 (član 54b stav 1) Zakona o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti, a kojima su radi ostvarivanja tog prava prestala prava po osnovu nezaposlenosti, imaju pravo da se prijave na evidenciju Zavoda za zapošljavanje Crne Gore u roku od 15 dana od dana stupanja na snagu ovog zakona.
+Zavod za zapošljavanje Crne Gore dužan je da u roku od 15 dana od dana podnošenja prijave iz stava 1 ovog člana, obezbijedi ostvarivanje prava koje su korisnice imale prije ostvarivanja prava na naknadu iz člana 4 (član 54b) Zakona o dopunama Zakona o socijalnoj i dječijoj zaštiti, odnosno člana 2 (član 54b stav 1) Zakona o izmjenama i dopunama Zakona o socijalnoj i dječjoj zaštiti.
