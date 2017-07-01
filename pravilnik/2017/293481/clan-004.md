@@ -1,0 +1,10 @@
+# Član 4
+Naknada za korišćenje materijalnih sredstava datih u izvršavanju materijalne obaveze isplaćuje se vlasniku za:
+- teretno vozilo, specijalno teretno vozilo, radno vozilo, traktor, radnu mašinu, priključno vozilo, motorno vozilo, vozilo zа prevoz putnikа, specijalno putničko vozilo, laki i teški četvorocikl, motorne sanke, tegljač, plovni objekat, izvore električne energije, motorne i električne testere i druga tehnička sredstva za spašavanje, opremu u perionicama automobila, prenosne rezervoare za vodu i instrumente i opremu koji se mogu koristiti za radijacionu, biološku i hemijsku dekontaminaciju, u visini tržišne cijene po času korišćenja tih sredstava na dan njihove predaje;
+- putničko vozilo, u visini naknade po pređenom kilometru utvrđenoj u skladu sa propisima kojima se uređuju naknade za korišćenje sopstvenog automobila u službene svrhe zaposlenih u javnom sektoru;
+- korišćenje objekata sa opremom i uređajima koji služe njihovoj osnovnoj namjeni, kao što su luke, pristaništa, aerodromi i slični objekti, u visini stvarnih troškova koji dnevno nastaju prilikom korišćenja tih objekata;
+- korišćenje stambenih, poslovnih i drugih objekata i zemljišta, sa odgovarajućim uređajima i instalacijama, u visini dnevnog iznosa zakupnine koja je uobičajena u mjestu gdje se nalazi objekat ili zemljište;
+- utrošenu električnu energiju, vodu, telefonske impulse, uslugu interneta i druge troškove za vrijeme korišćenja zemljišta ili objekata, u visini dnevnih stvarnih troškova;
+- korišćenje materijalnih sredstava koja nijesu podobna za vraćanje (hrana, ogrijev, tekstil, sirovine, građevinski materijal i dr.), u visini tržišnih cijena tih sredstava na dan određen za vraćanje.
+Za korišćenje materijalnih sredstava datih u izvršavanju materijalne obaveze koja nijesu navedena u stavu 1 ovog člana, vlasniku se isplaćuje naknada koja je utvrđena za najsličnija materijalna sredstva.
+Naknada iz st. 1 i 2 ovog člana pripada vlasniku od časa predaje materijalnih sredstava do časa njihovog vraćanja.

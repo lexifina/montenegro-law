@@ -1,0 +1,3 @@
+# Član 5
+Vlasniku pripada naknada troškova u vezi izvršavanja materijalne obaveze za dopremanje i vraćanje materijalnih sredstava, i to:
+- naknada troškova prevoza od mjesta prebivališta vlasnika do mjesta određenog za predaju materijalnog sredstva, u visini cijene vozne karte javnog prevoza prema priloženom računu, - dnevnica, koja se obračunava i isplaćuje za vrijeme potrebno za dopremanje i predaju materijalnih sredstava u skladu sa propisom kojim se uređuju naknade troškova zaposlenih u javnom sektoru, - naknada troškova za utrošeno pogonsko gorivo i mazivo, u visini tržišnih cijena goriva i maziva prema priloženom računu.

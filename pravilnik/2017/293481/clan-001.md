@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom utvrđuje se visina i način utvrđivanja naknade za korišćenje sredstava datih u izvršavanju materijalne obaveze, naknade troškova u vezi izvršavanja materijalne obaveze, kao i naknade za oštećena, uništena ili nestala sredstva privrednog društva, drugog pravnog lica, preduzetnika i građanina (u daljem tekstu: vlasnik) data u izvršavanju materijalne obaveze u zaštiti i spašavanju.
