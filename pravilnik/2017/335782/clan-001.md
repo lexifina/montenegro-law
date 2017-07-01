@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se sadržaj i metodologija izrade elaborata o procjeni rizika na osnovu kojih se izrađuju nacionalni planovi zaštite i spašavanja (u daljem tekstu: nacionalni plan), elaborata o procjeni rizika na osnovu kojih se izrađuju opštinski planovi zaštite i spašavanja (u daljem tekstu: opštinski plan) i elaborata o procjeni rizika na osnovu kojih se izrađuju planovi zaštite i spašavanja privrednih društava, drugih pravnih lica i preduzetnika (u daljem tekstu: preduzetni plan), kao i način njihovog usaglašavanja, ažuriranja i čuvanja.

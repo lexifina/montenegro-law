@@ -1,0 +1,2 @@
+# Član 9
+Elaborati iz člana 1 ovog pravilnika izrađuju se na osnovu raspoloživih podataka o elementarnim nepogodama, tehničko-tehnološkim nesrećama i drugim nesrećama koje su se dešavale ili se mogu desiti na određenom području; podataka o posljedicama koje su nastale ili mogu nastati njihovim djelovanjem; naučnih, tehničkih ili drugih saznanja i dostignuća i stručnih materijala (analize, programi, inicijative, projekti i dr.) koji su korišćeni ili se mogu koristiti za procjenjivanje elementarnih nepogoda, tehničko-tehnoloških nesreća i drugih nesreća.

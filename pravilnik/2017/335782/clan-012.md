@@ -1,0 +1,2 @@
+# Član 12
+Usaglašavanje elaborata iz člana 1 ovog pravilnika vrši se tako što se elaboratom na osnovu kojeg se izrađuje opštinski plan i elaboratom na osnovu kojeg se izrađuje preduzetni plan obuhvataju i pitanja iz elaborata na osnovu kojeg se izrađuje nacionalni plan, na način što se daju detaljnije i konkretnije ocjene stepena rizika po ljude, životinje, biljke, materijalna dobra i životnu sredinu na području za koje se izrađuje elaborat.

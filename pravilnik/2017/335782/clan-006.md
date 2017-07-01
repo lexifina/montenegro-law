@@ -1,0 +1,2 @@
+# Član 6
+U posebnom dijelu elaborata iz člana 1 ovog pravilnika vrši se pojedinačna analiza svih vrsta elementarnih nepogoda, tehničko-tehnoloških nesreća i drugih nesreća koje mogu nastati na području za koje se vrši procjenjivanje i koje svojim djelovanjem mogu ugroziti ljude, životinje, biljke, materijalna dobra i životnu sredinu, a što se naročito odnosi na analizu podataka o nastanku i posljedicama elementarnih nepogoda, tehničko-tehnoloških nesreća i drugih nesreća.
