@@ -1,0 +1,3 @@
+# Član 8
+U dijelu plana iz člana 4 stav 1 tačka 4 ovog pravilnika utvrđuju se mjere, postupci i zadaci kojima se vrši mobilizacija i aktiviranje operativnih jedinica.
+U cilju blagovremenog sprovođenja mobilizacije i aktiviranja operativnih jedinica u dijelu plana iz stava 1 ovog člana utvrđuju se način prenošenja saopštenja i naredbe za mobilizaciju; izvršioci mobilizacije; način pozivanja pripadnika operativnih jedinica; zborna mjesta; način popune i snabdijevanja ličnim i materijalnim sredstvima; način kontrole izvršenja mobilizacije; način izrade i dostavljanja izvještaja o mobilizaciji jedinica, pregled zbornih mjesta operativnih jedinica i način njihovog aktiviranja.

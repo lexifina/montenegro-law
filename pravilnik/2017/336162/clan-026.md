@@ -1,0 +1,2 @@
+# Član 26
+Dio plana iz člana 18 stav 1 tačka 8 ovog pravilnika sadrži podatke o drugim mjerama i aktivnostima radi povećanja kvaliteta reagovanja i djelovanja na elementarne nepogode, tehničko-tehnološke nesreće i druge nesreće, kroz upoznavanje svih zaposlenih u privrednom društvu, drugom pravnom licu i kod preduzetnika sa sadržajem plana, redovno servisiranje i održavanje opreme i sredstava, kao i kontinuirano osposobljavanje i usavršavanje za vršenje poslova zaštite i spašavanja.

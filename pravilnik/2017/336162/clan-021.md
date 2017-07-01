@@ -1,0 +1,2 @@
+# Član 21
+Dio plana iz člana 18 stav 1 tačka 3 ovog pravilnika sadrži podatke o dužnostima i zadacima organa upravljanja, odgovornih lica za zaštitu i spašavanje i svih zaposlenih u privrednom društvu, drugom pravnom licu i kod preduzetnika prije, tokom i nakon nastanka elementarne nepogode, tehničko-tehnološke nesreće i druge nesreće, kao i načinu njihovog postupanja u slučaju pojave elementarne nepogode, tehničko-tehnološke nesreće i druge nesreće.

@@ -1,0 +1,2 @@
+# Član 20
+Dio plana iz člana 18 stav 1 tačka 2 ovog pravilnika sadrži podatke o ljudskim i materijalnim resursima koji se mogu angažovati u privrednom društvu, drugom pravnom licu i kod preduzetnika u slučaju nastanka elementarne nepogode, tehničko-tehnološke nesreće i druge nesreće (broj lica i njihova zaduženja u zaštiti i spašavanju, vrsta i količina opreme i sredstava za zaštitu i spašavanje).

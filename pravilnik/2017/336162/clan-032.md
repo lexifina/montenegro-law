@@ -1,0 +1,2 @@
+# Član 32
+Usaglašavanje planova zaštite i spašavanja iz člana 1 ovog pravilnika vrši se tako što se opštinskim planom i preduzetnim planom obuhvataju i pitanja iz nacionalnog plana, na način što se detaljnije i konkretnije određuju nosioci i izvršioci zadataka i planiraju materijalni resursi potrebni za izvršavanje predviđenih zadataka u cilju zaštite i spašavanja ljudi, životinja, biljaka, materijalnih dobara i životne sredine na području za koje se izrađuje plan.

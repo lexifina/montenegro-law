@@ -1,0 +1,3 @@
+# Član 12
+U dijelu plana iz člana 4 stav 1 tačka 8 ovog pravilnika utvrđuje se način informisanja javnosti na ugroženom području o opasnostima od nastanka elementarne nepogode, tehničko- tehnološke nesreće i druge nesreće, odnosno o posljedicama koje mogu nastati po ljude, životinje, biljke, materijalna dobra i životnu sredinu, kao i mjerama koje se preduzimaju na sprečavanju, odnosno na zaštiti i spašavanju ugroženih i nastradalih ljudi i životinja, biljaka, materijalnih dobara i životne sredine i na otklanjanju nastalih posljedica.
+Dio plana iz stava 1 ovog člana sadrži i pregled javnih radio-difuznih emitera za emitovanje radio i televizijskog programa (nacionalnih i lokalnih) preko kojih će se vršiti obavještavanje i informisanje javnosti.

@@ -1,0 +1,8 @@
+# Član 6
+Dio plana iz člana 4 stav 1 tačka 2 ovog pravilnika sadrži pregled:
+1) jedinica za zaštitu i spašavanje opština (vatrogasne jedinice, jedinice za pružanje pomoći ugroženom i nastradalom stanovništvu i druge jedinice za zaštitu i spašavanje), organizovane kao opštinske službe za zaštitu i spašavanje (u daljem tekstu: službe zaštite) sa podacima o njihovom sjedištu, rukovodiocima i pripadnicima tih službi, njihovim adresama i brojevima telefona, kao i materijalnim resursima kojima raspolažu te službe;
+2) specijalističkih jedinica za zaštitu i spašavanje sa podacima o njihovom sjedištu, rukovodiocima i pripadnicima tih jedinica, njihovim adresama i brojevima telefona, kao i materijalnim resursima kojima raspolažu te jedinice;
+3) dobrovoljnih jedinica za zaštitu i spašavanje sa podacima o njihovom sjedištu, rukovodiocima i pripadnicima tih jedinica, njihovim adresama i brojevima telefona, kao i materijalnim resursima kojima raspolažu te jedinice;
+4) jedinica za zaštitu i spašavanje privrednih društava, drugih pravnih lica i preduzetnika sa podacima o njihovom sjedištu, rukovodiocima i pripadnicima tih jedinica, njihovim adresama i brojevima telefona, kao i materijalnim resursima kojima raspolažu te jedinice;
+5) jedinice za gašenje požara iz vazduha sa podacima o njenom sjedištu, rukovodiocu i pripadnicima te jedinice, njihovim adresama i brojevima telefona, kao i materijalnim resursima kojima raspolaže ta jedinica;
+6) jedinica civilne zaštite sa podacima o njihovom sjedištu, rukovodiocima i pripadnicima tih jedinica, njihovim adresama i brojevima telefona, kao i materijalnim resursima kojima raspolažu te jedinice.
