@@ -1,0 +1,2 @@
+# Član 4
+Za maloljetno lice i punoljetno lice koje nije poslovno sposobno ili je nesposobno za rasuđivanje, saglasnost daju oba roditelja, ukoliko su živa, odnosno staratelj, a za lica koja nijesu u mogućnosti da se izjasne, saglasnost može dati bračni, odnosno vanbračni supružnik, punoljetno dijete, roditelj, usvojenik, usvojilac ili srodnik sa kojim se davalac nalazi u drugom stepenu krvnog srodstva (u daljem tekstu: davalac saglasnosti), nakon što ih medicinski tim upozna o činjenicama iz člana 3 ovog pravilnika.

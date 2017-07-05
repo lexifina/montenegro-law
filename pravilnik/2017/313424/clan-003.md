@@ -1,0 +1,2 @@
+# Član 3
+Punoljetno, poslovno sposobno i lice sposobno za rasuđivanje kome se vrši presađivanje organa (u daljem tekstu: punoljetni primalac) daje saglasnost za presađivanje organa nakon što ga medicinski tim za presađivanje organa (u daljem tekstu: medicinski tim) upozna da je nakon sprovedenih medicinskih ispitivanja i ostalih metoda liječenja utvrđeno da je presađivanje organa jedini način liječenja.
