@@ -1,0 +1,5 @@
+Na osnovu člana 37 stav 4 Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja ("Službeni list CG", broj 43/16), Ministarstvo zdravlja donijelo je
+P R A V I L N I K
+O POSTUPKU DAVANJA I SADRŽINI SAGLASNOSTI ZA UZIMANJE ORGANA
+MALOLJETNOG UMRLOG LICA I UMRLOG PUNOLJETNOG LICA KOJE NIJE
+POSLOVNO SPOSOBNO ILI JE NESPOSOBNO ZA RASUĐIVANJE I VOĐENJU REGISTRA UMRLIH DAVALACA
