@@ -1,0 +1,3 @@
+# Član 7
+Pored analiza iz člana 6 ovog pravilnika, praćenje zdravstvenog stanja primaoca vrši se i redovnim laboratorijskim analizama, po potrebi, a najmanje jedanput u toku šest do osam nedjelja, uz redovne medicinske preglede (najmanje jedanput u toku četiri do šest mjeseci) kod izabranog doktora, odnosno u zdravstvenoj ustanovi, nakon isteka prve godine od presađivanja organa.
+Nakon isteka perioda od pola godine od presađivanja organa, primalac treba da uradi kontrolni pregled u zdravstvenoj ustanovi: ultrazvuk organa ili druge instrumentarne testove, u skladu sa stanjem i funkcijom presađenog organa.

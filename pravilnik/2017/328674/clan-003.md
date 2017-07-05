@@ -1,0 +1,3 @@
+# Član 3
+Zdravstvena ustanova u kojoj je izvršeno presađivanje organa (u daljem tekstu: zdravstvena ustanova) neposredno prati zdravstveno stanje primaoca, uz provjeru antitijela davaoca organa u krvi primaoca i uspostavljanje i održavanje funkcije presađenog organa, kao i pojave mogućih komplikacija, za vrijeme bolničkog liječenja i nakon otpusta iz zdravstvene ustanove.
+Praćenje zdravstvenog stanja primaoca uključuje i davanje imunosupresivne terapije i terapije održavanja, odnosno smanjenja pojave akutnih epizoda odbacivanja organa tokom prvih šest mjeseci, odnosno poboljšanja stanja u periodu od pet, odnosno deset godina, kao i uticaj na smanjenje bakterijskih, a posebno virusnih infekcija.
