@@ -1,0 +1,2 @@
+# Član 3
+Punoljetno, poslovno sposobno i lice sposobno za rasuđivanje (u daljem tekstu: živi davalac) pisanu saglasnost daje kod osnovnog suda, organa lokalne uprave ili notara (u daljem tekstu: nadležni organ), nakon što ga doktor medicine, koji ne učestvuje u postupku uzimanja organa, upozna o pravu na opoziv i izmjenu pisane saglasnosi do početka zahvata, kao i o drugim činjenicama značajnim za ovaj postupak, u skladu sa zakonom.
