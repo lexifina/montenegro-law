@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se postupak davanja i sadržina pisane izjave i izjave o opozivu ili izmjeni pisane izjave (u daljem tekstu: pisana izjava), koju punoljetno, poslovno sposobno i lice sposobno za rasuđivanje daje izabranom doktoru da se protivi postupku uzimanja organa za slučaj smrti, kao i sadržina i način vođenja registra pisanih izjava i umrlih lica od kojih su uzeti organi (u daljem tekstu: umrli davalac).
