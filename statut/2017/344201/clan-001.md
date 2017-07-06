@@ -1,0 +1,2 @@
+# Član 1
+Ovim Statutom se u skladu sa Zakonom bliže uređuje: naziv i sjedište, djelatnost, sredstva za finansiranje i imovina, organizacija i način rada, djelokrug organa upravljanja i rukovođenja, njihov način odlučivanja i druga pitanja značajna za rad Javne ustanove Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u opštini Danilovgrad (u daljem tekstu: JU Centar za dnevni boravak).
