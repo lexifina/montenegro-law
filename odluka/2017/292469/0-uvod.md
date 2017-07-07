@@ -1,0 +1,2 @@
+Na osnovu člana 51 stav 1 i 3 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG, br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14 i 03/16), 71 Statuta Prijestonice ( "Službeni list CG - opštinski propisi br. 19/09, 26/13, 39/14 i 12/16) Skupština Prijestonice, na sjednici održanoj dana 19. i 26. 06.2017. godine donijela je
+ODLUKU o sufinansiranju projekta rekonstrukcije fudbalskog stadiona na UP 2-1B u okviru DUP-a "Zona sporta" na Cetinju
