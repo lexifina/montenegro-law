@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o regulisanju saobraćaja na teritoriji Prijestonice - Cetinje ("Sl. list CG- opštinski propisi", br. 40/12 i 53/16), Član 9, mijenja se i glasi: "Snabdijevanje poslovnih prostora (trgovine, ugostiteljski objekti i sl.) u Istorijskom jezgru grada može se vršiti svakog dana u vremenskom periodu od 06-08h i od 17-19h, izuzev u Njegoševoj ulici i Dvorskom trgu gdje se snabdijevanje poslovnih prostora može vršiti svakog dana od 06-08h, teretnim vozilom propisane težine"
