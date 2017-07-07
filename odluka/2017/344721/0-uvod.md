@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 2 Zakona o lokalnoj samoupravi ("Sl. list RCG" broj 42/03, 28/04, 75/05, 13/06 i "Sl. list CG" broj 88/09, 3/2010, 73/10, 38/12, 10, 14, 57/14 i 03/16), člana 4, st.1 Zakona o prekršajima prekršajima ("Sl. list CG", br. 1/2011, 6/2011 i 32/2014), člana 12, st.3, tač.13 i člana 31 stav 1 tačka 2 Statuta Opštine Tivat ("Službeni list RCG - opštinski propisi", broj 40/04, 26/06, Službeni list Crne Gore - opštinski propisi", broj 12/11, 21/11, 03/13), Skupština opštine Tivat na sjednici održanoj dana 20.06.2017. godine, donijela je
+ODLUKU
