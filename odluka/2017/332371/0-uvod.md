@@ -1,0 +1,2 @@
+Na osnovu člana 21 stav 4 Zakona o zaradama zaposlenih u javnom sektoru ("Sl.list CG", br. 16/16, 83/16) i člana 23 stav 1 tačka 3 Statutarne oduke Gradske opštine Golubovci ("Sl.list RCG-opštinski propisi", broj 14/07 i "Sl. list CG-optinski propisi", br. 24/11), po prethodno pribavljenom mišljenju Ministarstva finansija br. 03-2679/1 od 24.02.2017. godine i uz saglasnost Vlade Crne Gore br. 07-740 od 06.04.2017. godine, Skupština Gradske opštine Golubovci, na XIV sjednici, održanoj dana 22.06.2017.godine, donijela je
+ODLUKA O VARIJABILNOM DIJELU ZARADE
