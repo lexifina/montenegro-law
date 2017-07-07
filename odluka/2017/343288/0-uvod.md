@@ -1,0 +1,2 @@
+Na osnovu člana 63 stav 1 tačka 42 Statuta Prijestonice Cetinje ( "Sl.list Crne Gore - Opštinski propisi", br. 19/09, 37/10, 26/13, i 12/16), Skupština Prijestonice Cetinje na sjednici održanoj dana , 19. i 26. 06.2017. godine, donijela je
+ODLUKU o davanju saglasnosti na Plan i program rada sa Finansijskim planom Javne ustanove Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u Prijestonici za 2017. godinu
