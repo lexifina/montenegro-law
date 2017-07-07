@@ -1,0 +1,3 @@
+# Član 2
+Katastarska parcela broj 1782/1 iz lista nepokretnosti broj 1968 KO Cetinje I i katastarska parcela broj katastarske br.1707/5 iz lista nepokretnosti broj 2464 KO Cetinje I svojina Države Crne Gore, subjekat raspolaganja Prijestonice Cetinje zajedno sa katastarskim parcelama broj 1781/1 i broj 1782/2 iz lista nepokretnosti br.3302 K.O.Cetinje I, svojina Mudreša Vasko , čine urbanističku parcelu iz člana 1 ove Odluke.
+Nepokretnosti iz člana 1 ove odluke prodaju se uz naknadu od 78 €/m2, što ukupno iznosi 11.232,00 €, shodno Izvještaju o procjeni vrijednosti nepokretne imovine, ovlašćenog procjenjivača Radovana Šušića iz Podgorice broj 07-460/17- 362 od 24.04.2017.godine.
