@@ -1,0 +1,4 @@
+# Član 11
+Doktor medicine specijalista medicine rada, po obavljenom zdravstvenom pregledu zaposlenog, sačinjava izvještaj o izvršenom prethodnom zdravstvenom pregledu zaposlenog, odnosno izvještaj o periodičnom zdravstvenom pregledu zaposlenog u tri primjerka, od kojih poslodavcu i zaposlenom dostavlja po jedan primjerak izvještaja najkasnije u roku od 15 dana od dana izvršenog zdravstvenog pregleda, a jedan primjerak zadržava.
+U primjerku izveštaja koji se dostavlja poslodavcu ne navodi se zdravstveno stanje zaposlenog, već se samo daje nalaz i mišlenje o radnoj sposobnosti, dok preostala dva primjerka sadrže i zdravstveno stanje sa obrazloženjem neophodnih predloženih mjera za adekvatnu zaštitu i očuvanje zdravlja zaposlenog.
+Obrazac izvještaja za prethodni zdravstveni pregled, odnosno obrazac izvještaja za periodični zdravstveni pregled dati su u prilozima br. 5 i 6, koji čine sastavni dio ovog pravilnika.
