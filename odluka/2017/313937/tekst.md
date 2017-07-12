@@ -1,0 +1,4 @@
+Na osnovu člana 139 stav 3 Zakona o energetici (''Službeni list CG'', broj 5/16) i člana 12 stav 1 tačka 3 Statuta Regulatorne agencije za energetiku (''Službeni list CG'', broj 36/17), postupajući po Zahtjevu DOO ''Crnogorski elektrodistributivni sistem'' Podgorica za odobravanje imenovanja lica ovlašćenog za praćenje realizacije Programa mjera primjene nediskriminatornih uslova za pristup distributivnom sistemu električne energije, Odbor Agencije, na sjednici održanoj 12. jula 2017. godine, donio je
+O D L U K U
+1. Odobrava se DOO ''Crnogorski elektrodistributivni sistem'' Podgorica, da imenuje za ovlašćeno lica za praćenje realizacije Programa mjera primjene nediskriminatornih uslova za pristup distributivnom sistemu električne energije, Darka Milutinovića, diplomiranog pravnika zaposlenog u tom društvu.
+2. Ova odluka stupa na snagu danom donošenja, a objavljuje se u ''Službenom listu Crne Gore''.
