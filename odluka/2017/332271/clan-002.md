@@ -1,0 +1,2 @@
+# Član 2
+Zadatak komisije je da sprovede čitavu zakonsku proceduru oko izrade teksta, i Skupštini dostavit predlog izmjene i dopune Statuta opštine Gusinje.
