@@ -1,0 +1,10 @@
+# Član 42
+## Promjena članstva balansne grupe
+(1) Član balansne grupe - subjekt poravnanja ima pravo da bilo kada zatraži pokretanje postupka prelaska u drugu balansnu grupu ili preuzimanje sopstvene balansne odgovornosti.
+(2) Nosilac balansne odgovornosti dužan je da članu koji želi promijeniti balansnu grupu da odobrenje za promjenu balansne grupe, pod uslovom da je član izmirio sve finansijske obaveze vezane za obračun odstupanja i kupoprodaju električne energije.
+(3) Balansno odgovorni subjekt dužan je da, u slučaju izlaska iz balansne grupe, dostavi Operatoru tržišta prihvatljiv instrument obezbjeđenja plaćanja u skladu sa čl. 46 i 47 ovih Pravila, osim ako pri izlasku dostavi dokaze da je pristupio novoj balansnoj grupi, čiji nosilac balansne odgovornosti preuzima balansnu i finansijsku odgovornost za njega .
+(4) U slučaju kada subjekat poravnanja mijenja balansnu grupu dužan je da priloži nadležnom operatoru sistema i Operatoru tržišta podnesak o zamjeni balansne grupe.
+(5) Podnesak o zamjeni balansne grupe predstavlja odobrenje nosioca balansne odgovornosti balansne grupe iz koje subjekt poravnanja istupa, iz kojeg se vidi koji subjekat poravnanja istupa iz balansne grupe i kojoj balansnoj grupi pristupa i kopije starog i novog ugovora o prenosu balansne odgovornosti.
+(6) Ako podnesak za zamjenu balansne grupe sadrži propisane i zahtijevane dokaze iz st. 2 i 5 ovog člana, zamjena počinje važiti u roku od jednog mjeseca po isteku mjeseca u kojem je subjekat poravnanja, odnosno nosilac balansne odgovornosti predao podnesak nadležnom operatoru sistema i Operatoru tržišta.
+(7) U slučaju krajnjeg kupca - subjekta poravnanja sa ugovorom o prodaji električne energije sa potpunim snabdijevanjem, postupak zamjene snabdjevača - promjena pripadnosti balansnoj grupi je utvrđen pravilima kojima se uređuje promjena snabdjevača krajnjih kupaca električne energije.
+(8) Član balansne grupe može ovlastiti nosioca balansne odgovornosti balansne grupe u koju namjerava da se uključi, da u njegovo ime sprovede proceduru zamjene balansne grupe.

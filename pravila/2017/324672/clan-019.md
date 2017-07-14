@@ -1,0 +1,7 @@
+# Član 19
+## Podaci o obračunskim mjerenjima i gubicima
+(1) U bazi podataka se nalaze obračunski mjerni podaci i podaci o gubicima u prenosnom i distributivnom sistemu.
+(2) Operator prenosnog sistema i Operator distributivnog sistema su odgovorni za obračunska mjerenja električne energije (satna, dnevna, mjesečna) na pojedinačnim primopredajnim mjestima.
+(3) Operator prenosnog sistema i Operator distributivnog sistema dužni su da provjerene i potvrđene mjerne podatke za učesnike na tržištu, koji su tim postali zvanični, dostave Operatoru tržišta.
+(4) Podatke iz stava 3 ovog člana Operator tržišta koristi za obračun količinskog odstupanja predaje/prijema električne energije od voznih redova, finansijski obračun za učesnike na tržištu kao balansno odgovorne subjekte, otkup električne energije od povlašćenih proizvođača, prodaju otkupljene električne energije od povlašćenih proizvođača snabdjevačima i kupcima samosnabdjevačima i analizu funkcionisanja tržišta. (5) Operator prenosnog sistema i Operator distributivnig sistema utvrđuju gubitke nastale u prenosnom i distri- butivnom sistemu za svaki sat posebno i dužni su da podatke o utvrđenim gubicima dostave Operatoru tržišta.
+(6) Operator tržišta podatke o gubicima u prenosnom i distributivnom sistemu koristi za obračun količinskog odstupanja predaje/prijema električne energije od voznih redova i finansijski obračun za operatore sistema kao balansno odgovorne subjekte i analizu funkcionisanja tržišta.

@@ -1,0 +1,7 @@
+# Član 36
+## Balansna odgovornost
+(1) Svi učesnici na tržištu imaju pravo da zaključuju bilateralne ugovore o kupovini i prodaji električne energije i pristupaju prekograničnim prenosnim kapacitetima radi uvoza i izvoza električne energije i dužni su da učestvuju u balansnom mehanizmu i snose troškove koje iz njega proističu u skladu sa Zakonom, ovim Pravilima i uslovima iz licenci.
+(2) Svi učesnici na tržištu dužni su da preuzmu balansnu i finansijsku odgovornost za uticaj svojih transakcija na sigurnost, pouzdanost i ekonomičnost rada elektroenergetskog sistema Crne Gore.
+(3) Balansno odgovrni subjekti i nosioci balansne odgovornosti, koji su izazvali debalans, dužni su da troškove balansiranja plate Operatoru tržišta, u skladu sa količinskim obračunom odstupanja, finansijskim obračunom i finansijskim poravnanjem odstupanja.
+(4) Sredstva za pokrivanje troškova balansiranja, koja su, za obračunski period, uplatili počinioci debalansa u skladu sa stavom 3 ovog člana, Operator tržišta dužan je da prenese Operatoru prenosnog sistema, kao subjektu odgovornom za obezbjeđenje pomoćnih usluga i usluga balansiranja prenosnog sistema, u skladu sa propisom kojim se uređuju način i cijena pružanja pomoćnih usluga i usluga balansiranja prenosnog sistema električne enerije.
+(5) Iznos sredstava iz stava 4 ovog člana mora biti jednak iznosu sredstava koja je Operator prenosnog sistema utrošio za balansiranje prenosnog sistema u obračunskom periodu.

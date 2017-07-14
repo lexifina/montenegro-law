@@ -1,0 +1,5 @@
+# Član 7
+(1) Operator tržišta nije odgovoran prema učesnicima na tržištu za nadoknadu moguće štete za prodate/kupljene količine električne energije, koje su rezultat trgovanja na tržištu električne energije na bazi bilateralnih ugovora.
+(2) Operator tržišta nije odgovoran prema kupcu električne energije na tržištu električne energije za nadoknadu moguće štete nastale kao posledica otkaza isporuke električne energije, uzrokovanih kvarovima i poremećajima na proizvodnim, prenosnim ili distributivnim kapacitetima.
+(3) Operator tržišta nije odgovoran prema učesnicima na tržištu za nadoknadu moguće štete nastale kao posledica ograničavanja trgovanja na tržištu električne energije na bazi bilateralnih ugovora ili prava na ranije dodijeljeni prekogranični kapacitet, uzrokovanih nepredvidljivim okolnostima i višom silom.
+(4) Ako u ovim Pravilima ili u drugim, za Operatora tržišta, važećim propisima nije drugačije određeno, Operator tržišta nije odgovoran prema bilo kom učesniku na tržištu za nadoknadu štete, uključujući i sve posredne i posledične štete, kao i gubitak dobiti ili plaćanje zateznih kamata, nastalih zbog okolnosti i događaja navedenih u ovim Pravilima.

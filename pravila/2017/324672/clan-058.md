@@ -1,0 +1,13 @@
+# Član 58
+## Određivanje cijene odstupanja
+(1) Osnovna cijena odstupanja (Cp) po kojoj se vrši obračun odstupanja u obračunskom intervalu utvrđuju se u skladu sa metodologijom kojom se utvrđuju cijene i uslovi za pružanje pomoćnih usluga i usluga balansiranja prenosnog sistema električne energije i izražava se u €/MWh.
+(2) Osnovna cijena odstupanja mora da odražava stvarne troškove Operatora prenosnog sistema u procesu balansiranja sistema.
+(3) Osnovna cijena odstupanje izračunava se za svaki obračunski interval posebno.
+(4) Osnovna cijena dstupanja ista je za sve balansne grupe i balansno odgovorne subjekte.
+(5) Cijena odstupanja balansno odgovornog subjekta i balansne grupe, čije odstupanje je unutar njihove zone tolerancije T jednaka je osnovnoj cijeni odstupanja.
+(6) Cijena odstupanja balansno odgovornog subjekta i balansne grupe, čije odstupanje je suprotnog znaka od odstupanja kontrolne oblasti Crna Gora jednaka je osnovnoj cijeni odstupanja i na nju se ne primjenjuju zone tolerancije.
+(7) Cijena odstupanja balansno odgovornog subjekta i balansne grupe, čije odstupanje je istog znaka kao odstupanje kontrolne oblasti Crna Gora jednaka je osnovnoj cijeni odstupanja i na nju se ne primjenjuju zone tolerancije, ako je odstupanje kontrolne oblasti Crna Gora unutar njene zone tolerancije u odnosu na elektroenergetsku interkonekciju (TS).
+(8) Cijena dijela pozitivnog odstupanja balansno odgovornog subjekta i balansne grupe van zone tolerancije T jednaka je 1,5 CP, kada je odstupanje kontrolne oblasti Crna Gora pozitivno i van zone tolerancije TS.
+(9) Cijena dijela negativnog odstupanja balansno odgovornog subjekta i balansne grupe van zone tolerancije T jednaka je 0,5 CP, kada je odstupanje kontrolne oblasti Crna Gora negativno i van zone tolerancije TS
+(10) Nosilac balansne odgovornosti, odnosno balansno odgovorni subjekt koji je ostvario pozitivna odstupanja dužan je da plati prekomjerno preuzetu i/ili nedovoljno isporučenu električnu energiju po utvrđenoj cijeni odstupanja. (11) Nosilac balansne odgovornosti, odnosno balansno odgovorni subjekt koji je ostvario negativna odstupanja ima pravo na nadoknadu za prekomjerno predatu i/ili nedovoljno preuzetu električnu energiju po utvrđenoj cijeni odstupanja.
+(12) Ukoliko su ukupni troškovi balansiranja sistema, koje ima Operator prenosnog sistema u određenom obračunskom intervalu veći od salda balansnih obračuna svih balansnih grupa i balansno odgovornih subjekata onda se cijene odstupanja u određenim obračunskim intervalima koriguju na način da saldo balansnih obračuna svih balansnih grupa pokrije troškove balansiranja sistema.
