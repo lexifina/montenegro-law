@@ -1,0 +1,2 @@
+Na osnovu člana 9 stav 1, člana 29 stav 2 i člana 40 stav 2 tačka 3 Zakona o državnoj imovini (,,Sl.list. CG", br. 21/09 i 40/11), člana 33 stav 1 tačka 1 i čana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi (,,Sl.list RCG", br. 42/03, 28/04, 75/05 i 13/06 i ,,Sl.list CG", br.88/09, 3/10, 38/12, 10/14 i 3/16) i člana 35 Statuta opštine Danilovgrad (,,Sl.list RCG- opštinski propisi", br.30/04 i ,,Sl.list CG-opštinski propisi", br.19/08 i 12/11), Skupština opštine Danilovgrad na sjednici održanoj 30.06.2017. godine, donijela je
+O D L U K U
