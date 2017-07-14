@@ -1,0 +1,2 @@
+# Član 34
+U članu 443 stav 1 riječi: "Ko na osnovu razlike u rasi, boji kože, nacionalnosti, etničkom porijeklu ili nekom drugom ličnom svojstvu" zamjenjuju se riječima: "Ko zbog nacionalne ili etničke pripadnosti, pripadnosti rasi ili vjeroispovijesti ili zbog odsustva te pripadnosti ili zbog razlika u pogledu političkog ili drugog ubjeđenja, pola, jezika, obrazovanja, društvenog položaja, socijalnog porijekla, seksualne orijentacije, rodnog identiteta, invaliditeta, imovnog stanja ili nekog drugog ličnog svojstva".

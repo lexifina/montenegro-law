@@ -1,0 +1,3 @@
+# Član 7
+U članu 48 stav 2 tačka 1, članu 124 stav 1 tačka 1, članu 126 stav 2, članu 144 stav 1, članu 241 stav 5, članu 242 stav 5, članu 358, članu 385 stav 2, članu 386 stav 1, članu 387 stav 3, članu 401 stav 4, čl. 426 i 427, članu 428 stav 3, članu 429 stav 2, članu 430 stav 2, članu 432 stav 2, članu 434 stav 3, članu 442 stav 2 i članu 477 stav 1 riječi: "kazna zatvora od četrdeset godina" u različitom padežu zamjenjuju se riječima: "kazna dugotrajnog zatvora" u odgovarajućem padežu.
+U članu 363, članu 374 stav 2, članu 447 stav 4, članu 447c stav 3 i članu 447d stav 3 riječi: "zatvor od četrdeset godina" u različitom padežu zamjenjuju se riječima: "kazna dugotrajnog zatvora" u odgovarajućem padežu.

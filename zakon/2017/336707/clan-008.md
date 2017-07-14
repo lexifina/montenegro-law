@@ -1,0 +1,4 @@
+# Član 8
+U članu 142 stav 12 mijenja se i glasi:
+"(12) Imovinskom korišću pribavljenom krivičnim djelom smatra se imovinska korist pribavljena krivičnim djelom, neposredno ili posredno, koja se sastoji od svakog uvećanja ili sprječavanja umanjenja imovine, do kojeg je došlo izvršenjem krivičnog djela, imovina za koju je zamijenjena ili sa kojom je sjedinjena ili u koju je pretvorena imovinska korist pribavljena krivičnim djelom, kao i svaka druga korist koja je dobijena od imovinske koristi pribavljene krivičnim djelom ili imovine za koju je zamijenjena ili u koju je pretvorena imovinska korist pribavljena krivičnim djelom, bez obzira da li se nalazi na teritoriji Crne Gore ili van nje, kao i sve isprave kojima se dokazuje neko imovinsko pravo."
+U stavu 31 riječi: "Porodicom ili porodičnom zajednicom" zamjenjuju se riječima: "Članovima porodice ili porodične zajednice".
