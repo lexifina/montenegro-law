@@ -1,0 +1,2 @@
+# Član 1
+U Zakonu o porezu na nepokretnosti ("Službeni list RCG", broj 65/01 i "Službeni list CG", br. 75/10 i 9/15), u članu 4 stav 6 riječi: "prava korišćenja, trajnog korišćenja nepokretnosti, odnosno nosilac prava korišćenja nepokretnosti po osnovu dugoročnog zakupa" zamjenjuju se riječima: "prava korišćenja i trajnog korišćenja nepokretnosti, osim prava korišćenja nepokretnosti po osnovu dugoročnog zakupa".
