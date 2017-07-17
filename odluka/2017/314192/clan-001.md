@@ -1,0 +1,9 @@
+# Član 1
+Ovom Odlukom ovlašćuje se Predsjednik Opštine Budva da se u ime Opštine Budva saglasi sa Presudom Višeg suda u Podgorici kojom bi bio usvojen Sporazum o priznanju krivice zaključen između Specijalnog državnog tužioca i okrivljenog pravnog lica GUGI COMMERCE d.o.o. Budva, odgovornog lica u pravnom licu Milovanović Dragoljuba i osnivača Savić Branislava, u predmetima Kti-S.br. 3/15 (koji vodi tužilac Vukčević Lidija) i Kt-S.br. 189/15 (koji vodi tužilac Čađenović Saša) ukoliko isti bude sadržao sledeće odredbe:
+ utvrđuje se imovinsko pravni zahtjev u visini štete koju su utvrdili vještaci
+angažovani u krivičnom postupku na iznos
+u visini od 2.254.585,24 eura u predmetu Kti-S.br. 3/15
+u visini od 3.842.766,69 eura u predmetu Kt-S.br. 189/15
+ Opština Budva prihvata da joj se na ime imovinsko pravnog zahtjeva ustupe:
+u predmetu Kti-S.br. 3/15 pravo svojine na poslovnim prostorima upisanim u LN 3447 KO Budva, kat. parcela 2058/1 - zgrada Tradeunique, oznaka PD 64 površine 34m²; PD 212 površine 61m² i PD 213 površine 106m² (procijenjene vrijednosti 518.677,5o eura) i na zemljištu upisanom u LN 523, 188 i 52 KO Bečići ukupne površine 1.683 m² (procijenjene vrijednosti 1.435.372,73 eura), dok će se novčani iznos od 300.535,016 eura uplatiti u roku od 30 dana na žiro-račun Opštine Budva;
+U predmetu Kt-S.br. 189/15 pravo svojine na zemljištu upisanom u LN 299, 269, 70, 271, 59 i 294 KO Glavati, ukupne površine 15.049 m² (procijenjene vrijednosti 1.620.777,30 eura), dok će se novčani iznos od 2.221.989,39 eura uplatiti u roku od 12 mjeseci na žiro- račun Opštine Budva, a kao obezbjeđenje za uplatu ovog iznosa ima služiti: založno pravo na nepokretnostima upisanim u LN 665, 610, 662, 549, 563, 602, 483, 510, 514, 517, 544 i 455 KO Donja Lastva (zemljište, vila i pomoćni objekat) ukupne procijenjene vrijednosti 3.874.671,oo eura.
