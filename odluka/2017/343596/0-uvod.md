@@ -1,0 +1,2 @@
+Na osnovu člana 38 tačka 44 Statuta opštine Žabljak ("Sl.list RCG-opštinski propisi", br. 9/05, 23/07 i "Sl.list CG-opštinski propisi", br. 3/11 i 7/14) a u vezi sa članom 10 Odluke o osnivanju društva sa ograničenom odgovornošću "Sportski centar Žabljak" Žabljak ("Sl.list CG-opštinski propisi", br. 31/14), Skupština opštine Žabljak, na sjednici održanoj dana 29.06.2017.godine, d o n i l e l a je
+O D L U K U
