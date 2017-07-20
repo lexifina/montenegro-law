@@ -1,0 +1,5 @@
+# Član 19
+## Kriterijumi revizije
+Državni revizor treba da utvrdi odgovarajuće kriterijume revizije koji odgovaraju cilju revizije i revizorskim potpitanjima.
+Državni revizor može koristiti različite izvore kako bi odredio kriterijume revizije, kao što su: zakoni i podzakonska akta, strateški planovi, odluke menadžmenta, ključni performansni indikatori postavljeni od strane subjekta revizije ili vlade, detaljne procedure, standardi bazirani na sprovedenim istraživanjima, literatura profesionalnih i/ili međunarodnih organizacija, međunarodna poređenja dobrog učinka, odgovarajući učinak u privatnom sektoru, poređenje istih subjekata u različitom vremenskom periodu ili različitih subjekata koji obavljaju istu aktivnost, planska dokumenta, ugovore i budžete subjekata revizije, kriterijume za slične revizije koje su koristile druge VRI, standarde koje je postavio državni revizor nakon obavljenih konsultacija sa angažovanim eksternim stručnjakom za navedenu oblast.
+Državni revizor može koristiti i druge kvalitativne i kvantitativne kriterijume u zavisnosti od predmeta revizije.
