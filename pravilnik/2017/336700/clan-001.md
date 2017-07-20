@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom utvrđuju se bliži uslovi i način obavljanja poštanskih usluga, kriterijumi za obavljanje poštanskih usluga, rokovi za prenos i uručenje poštanskih pošiljaka, dimenzije i način pakovanja poštanskih pošiljaka, kao i gustina pristupnih tačaka poštanske mreže univerzalnog poštanskog operatora, način postupanja sa poštanskim pošiljkama koje je zabranjeno slati jer sadrže zabranjene materije i predmete, način otvaranja i pregledanja poštanskih pošiljaka i postupanje sa neuručivim poštanskim pošiljkama, poštanski žigovi, kao i druga pitanja u vezi sa obavljanjem poštanskih usluga.
