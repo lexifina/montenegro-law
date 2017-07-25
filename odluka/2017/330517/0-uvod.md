@@ -1,0 +1,4 @@
+Страна 46 - Број 33 СЛУЖБЕНИ ЛИСТ ЦРНЕ ГОРЕ - Oпштински прописи 2. август 2017.
+1290.
+Na osnovu člana 57 stav 1 tačka 7 Zakona o lokalnoj samoupravi (Sl.list RCG, broj 42/03, 28/04, 75/05, 13/06, 88/09 i Sl.list CG, broj 3/10, 73/10, 38/12, 10/14, 57/14 i 3/16), člana 71 Zakona o privrednim društvima ("Službeni list Republike Crne Gore", br. 6/02, Službeni list Crne Gore", br. 17/07, 80/08, 40/10, 36/11, 40/11), člana 59 stav 2 alineja 7 Statuta Opštine Herceg Novi ("Službeni list RCG - opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, Službeni list Crne Gore - opštinski propisi", br. 16/09, 16/11), člana 15 Statua Agencije za izgradnju i razvoj Herceg Novog i člana 9 stav 2 Odluke o osnivanju Agencije za izgradnju i razvoj Herceg Novog (Sl. list RCG op.br. 33/06 i sl. CG op. br. 25/16), donosi se
+ODLUKA O RAZRJEŠENJU IZVRŠNOG DIREKTORA I IMENOVANJU VRŠIOCA DUŽNOSTI IZVRŠNOG DIREKTORA"AGENCIJE ZA IZGRADNJU I RAZVOJ HERCEG NOVOG" DOO HERCEG NOVI
