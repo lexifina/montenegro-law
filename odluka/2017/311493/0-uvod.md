@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", br. 88/09, 03/10, 73/10,
+38/12, 10/14, 57/14, 03/16) i člana 34 stav 1 tačka 2 a shodno članu 136 Statuta Opštine Bijelo Polje ("Sl.list RCG - opštinski propisi", br. 25/04, 33/06 i "Sl.list CG-opštinski propisi", br. 18/10, 32/13) i članu 130 stav 2 Poslovnika Skupštine opštine Bijelo Polje ("Sl. list CG -opštinski propisi", br. 34/11,32/13), Skupština opštine Bijelo Polje, na sjednici održanoj dana 26.07. 2017. godine, donijela je
