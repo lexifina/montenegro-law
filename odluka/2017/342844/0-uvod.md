@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list RCG" broj, 42/03, 28/04, 75/05, 13/06 i "Službeni list Crne Gore", broj 88/09, 3/10, 73/10, 38/12, 10/14, 57/14 i 3/16) i člana 56 stav 1 tačka 4 Statuta opštine Tivat ("Službeni list RCG-Opštinski propisi" broj 40/04 i 26/06 i "Službeni list Crne Gore- Opštinski propisi", broj 12/11, 21/11 i 3/13), po pribavljenom mišljenju glavnog administratora, predsjednica Opštine dana 31.07.2017. godine donijela je
+O D L U K U
