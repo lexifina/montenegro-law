@@ -1,0 +1,3 @@
+# Član 1
+U Poslovniku Vlade Crne Gore ("Službeni list CG", br. 3/12 i 31/15) u članu 40 stav 1 na kraju alineje 8, tačka se zamjenjuje tačka - zarezom, a poslije alineje 8 dodaje se nova alineja koja glasi:
+"- mišljenje Kancelarije za podršku nacionalnom službeniku za ovjeravanje na predlog propisa kojim se uređuje organizacija i način rada državne uprave i predlog pravilnika o unutrašnjoj organizaciji i sistematizaciji organa državne uprave u dijelu kojim je utvrđena nadležnost organa državne uprave u vezi korišćenja sredstava u okviru Instrumenta pretpristupne podrške Evropske unije, odnosno radna mjesta čiji su poslovi vezani za upravljanje sredstvima u okviru Instrumenta pretpristupne podrške Evropske unije."
