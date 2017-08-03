@@ -1,0 +1,2 @@
+Na osnovu člana 32. Stav 1, tačka 16 i člana 45. Zakona o lokalnoj samoupravi ("Sl. List RCG",broj 42/03, 28/04,75/05, 13/06, "Sl. List CG", broj 88/09, 03/10, 38/12, 10/14, 57/14) i člana 32. stav 1, tačka 2 i 3 Statuta opštine Petnjica ("Sl.list CG- Opštinski propisi", br. 3/14, 2/15 i 41/15) Skupština opštine Petnjica, na sjednici održanoj dana 28.06.2017. godine, donijela je
+O D L U K U O USVAJANJU LOKALNOG AKCIONOG PLANA ZA POSTIZANJE RODNE RAVNOPRAVNOSTI U OPŠTINI PETNJICA 2017 - 2021
