@@ -1,0 +1,2 @@
+Na osnovu člana 145. Zakona o lokalnoj samoupravi ("Sl. list RCG", broj 42/03, 28/04, 75/05 i 13/06 i "Sl. list CG - opštinski propisi, broj 88/09) člana 33. tačka 18. Statuta Opštine Pljevlja ("Sl. list RCG - opštinski propisi", broj 37/04 i 30/07 i "Sl. list CG - opštinski propisi, broj 32/09 i 14/11), i člana 13. Odluke o Savjetu za razvoj i zaštitu lokalne samouprave ("Sl. list RCG - opštinski propisi" , broj 1/06), Skupština Opštine Pljevlja, na sjednici održanoj dana 10.07.2017. godine, donijela je:
+ODLUKU
