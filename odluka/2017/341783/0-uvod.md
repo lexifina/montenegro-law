@@ -1,0 +1,2 @@
+Na osnovu člana 10 stav 1 Zakona o teritorijalnoj organizaciji Crne Gore ("Službeni list CG", br. 54/11, 26/12, 27/13, 62/13, 12/14 i 03/16), člana 32 stav 1 tačka 40 i člana 40 Statuta opštine Nikšić ("Službeni list RCG-Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG-Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 21.07.2017. godine, donijela je
+O D L U K U
