@@ -1,0 +1,2 @@
+Na osnovu člana 36 tačka 15 Statuta Opštine Herceg Novi ("Sl. list RCG - opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, "Sl. list CG - Opštinski propisi", br. 16/09 i 16/11) i člana 10 stav 1 alineja 3 Odluke o osnivanju "Parking servis" DOO Herceg Novi ("Sl. list CG - opštinski propisi, br. 29/13 i 04/14), Skupština opštine Herceg Novi na sjednici održanoj 03.08.2017. godine, donijela je
+RJEŠENJE
