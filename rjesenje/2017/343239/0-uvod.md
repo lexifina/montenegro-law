@@ -1,0 +1,2 @@
+Na osnovu člana 36 tačka 15 Statuta Opštine Herceg Novi ("Sl. list RCG - opštinski propisi", br. 15/04,32/05,31/06,14/07,"Sl. list CG - Opštinski propisi" br. 16/09,16/11) i člana 8 Odluke o osnivanju Društva sa ograničenom odgovornošću - Društvo za izgradnju vodovodne i kanalizacione infrastrukture u Opštini Herceg Novi broj: 01- 3/43-12 od 17.07.2012. godine), Skupština opštine Herceg Novi, na sjednici održanoj dana 03.08.2017. godine, donijela je
+RJEŠENJE
