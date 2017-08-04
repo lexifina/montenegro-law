@@ -1,0 +1,6 @@
+Komisija za hartije od vrijednosti (u daljem tekstu: Komisija) na osnovu čl. 44v st. 2 Zakona o hartijama od vrijednosti ("Službeni list RCG", br. 59/00, 10/01, 43/05, 28/06 i "Službeni list CG", br. 53/09, 73/10, 40/11, 06/13) u vezi sa čl. 22a st. 23 Zakona o privrednim društvima ("Službeni list RCG", br. 06/02, Službeni list CG", br. 17/07, 80/08, 40/10, 36/11, 40/11), na zahtjev emitenta "GRAWE OSIGURANJE" a.d. Podgorica, na 264. sjednici od 04.08.2017. godine, donosi
+R J E Š E N J E
+1. Evidentira se da je izvršeno restrukturiranje privrednih društava spajanjem uz pripajanje društva preuzimaoca "GRAWE OSIGURANJA" a.d. Podgorica i preuzetog društva "MERKUR OSIGURANJE" a.d. Podgorica i da akcionarski kapital društva preuzimaoca "GRAWE OSIGURANJE" a.d. Podgorica ostaje nepromijenjen.
+2. Poništavaju se akcije preuzetog društva "MERKUR OSIGURANJE" a.d. Podgorica i to: 19.000 akcija, simbol: MEOS, ISIN: MEMEOSRA1PG4, pa se emitent "MERKUR OSIGURANJE" a.d. Podgorica briše iz Registra emitenata hartija od vrijednosti kod Komisije za hartije od vrijednosti i Centralnog registra hartija od vrijednosti Centralne Depozitarne Agencije a.d. Podgorica.
+3. Dispozitiv ovog rješenja objaviće se u "Službenom listu Crne Gore".
+4. Ovo rješenje stupa na snagu danom donošenja.
