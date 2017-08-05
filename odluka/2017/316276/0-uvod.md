@@ -1,0 +1,1 @@
+Na osnovu člana 34 stava 1 tačka 3 i 4 Statuta Opštine Bijelo Polje ("Sl. list RCG - Opštinski propisi", broj 25/04,33/06 i "Sl. list CG - Opštinski propisi", 18/10 i 32/13), Skupština Opština Bijelo Polje, na sjednici održanoj 26.07.2017.godine, donijela je
