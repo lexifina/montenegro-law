@@ -1,0 +1,3 @@
+Na osnovu člana 13 stav 2 i 5 Zakona o upravljanju otpadom ("Službeni list CG", br. 64/11 i 39/16), člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG", br. 88/09, 38/12 i 10/14), člana 44 stav 1 tačka 2 i 28 Statuta opštine Mojkovac ("Sl. list CG - opštinski propisi", br. 31/10 i 26/12) i uz Saglasnost Ministrastva održivog razvoja i turizma, br.110-126/36 od 09.06.2017. godine, Skupština opštine Mojkovac, na sjednici održanoj dana 17.07.2017. godine, donijela je
+O D L U K U o načinu odvojenog sakupljanja i sakupljanja komunalnog otpada, radi obrade, na teritoriji Opštine Mojkovac
+Predmet
