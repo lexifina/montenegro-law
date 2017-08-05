@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list Republike Crne Gore", br. 42/03, 28/04, 75/05, 13/06, Službeni list Crne Gore", br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14, 03/16) i člana 12 stav 4 tačka 5 Statuta Opštine Bijelo Polje ("Sl. list RCG - Opštinski propisi", broj 25/04 i "Sl.list CG - Opštinski propisi", broj 33/06, 18/10 i 32/13), Skupština Opštine Bijelo Polje, na sjednici održanoj dana 26.07.2017 godine, donijela je
+ODLUKU
