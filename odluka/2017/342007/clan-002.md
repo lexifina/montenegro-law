@@ -1,0 +1,3 @@
+# Član 2
+Minimalna cijena građevinskog zemljišta iz člana 1 ove odluke iznosi 242,00 eura po 1m2, shodno procjeni Komisije Direkcije za imovinu, za procjenu vrijednosti građ.zemljišta i objekata u imovini Glavnog grada -Podgorice, broj 13-460/16-596 od oktobra 2016.godine.
+Pored naknade za zemljište iz prethodnog stava, obaveza kupca je da Glavnom gradu nadoknadi troškove izvedenih radova na izgradnji saobraćajnice sa parkinzima na dijelu predmetne urbanističke parcele, u iznosu od 25.175,70 eura, shodno Nalazima i mišljenjima ovlašćenog procjenjivača Predraga Hajdukovića od 20.03. i 18.04.2017.godine.
