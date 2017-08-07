@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2, 34 stav 1 i 40 stav 2 tačka 3 Zakona o državnoj imovini ( "Sl. list Crne Gore", br. 21/09, 40/11 ), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ( "Službeni list RCG", broj 42/03, 28/04, 75/05, 13/06 i "Sl. list Crne Gore ", br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14, 03/16 ) i člana 48 stav 1 alineja 9 Statuta Glavnog grada ( "Sl. list RCG - Opštinski propisi", br. 28/06, "Sl. list Crne Gore - Opštinski propisi", br. 39/10, 18/12), Skupština Glavnog grada - Podgorice, na sjednici održanoj 28. jula 2017. godine, donijela je-
+O D L U K U

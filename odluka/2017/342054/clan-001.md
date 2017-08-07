@@ -1,0 +1,4 @@
+# Član 1
+## o prenosu prava svojine na građevinskom zemljištu radi dokompletiranja urbanističke parcele broj 31 u zahvatu Detaljnog urbanističkog plana »Zabjelo - Zelenika » u Podgorici
+Glavni grad - Podgorica, kao nosilac prava raspolaganja, prenosi uz naknadu Auto moto društvu "Stanić" doo Podgorica, pravo svojine na građevinskom zemljištu označenom katastarskom parcelom broj 6985/7 površine 117m2 po načinu korišćenja pašnjak 3.klase iz lista nepokretnosti broj 5773 KO Podgorica III i suvlasnički dio u površini od 190m2 od katastarske parcele br.7030/1 u obimu prava od 211/490 upisane na Glavni grad sa pravom raspolaganja.
+Pravo svojine na zemljištu iz prethodnog stava prenosi se radi dokompletiranja urbanističke parcele broj 31 u zahvatu Detaljnog urbanističkog plana »Zabjelo - Zelenika« - Izmjene i dopune.

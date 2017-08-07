@@ -1,0 +1,2 @@
+# Član 2
+Urbanističku parcelu broj 31 površine 558m2 u zahvatu Detaljnog urbanističkog plana »Zabjelo - Zelenika« u Podgorici, pored zemljišta opisanog u članu 1 stav 1 ove odluke, čini i preostali dio katastarske parcele broj 7030/1 po načinu korišćenja dvorište površine 291m2 i objekat br.1 u izgradnji površine 150m2 shodno listu nepokretnosti broj 2610 KO Podgorica III, susvojina AMD »Stanić« u obimu prava od 279/490.
