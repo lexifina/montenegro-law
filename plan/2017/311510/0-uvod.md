@@ -1,0 +1,2 @@
+Na osnovu člana 26 Zakona o regionalnom razvoju Crne Gore ("Sl.list CG br.20/11"), Strategije regionalnog razvoja Crne Gore 2010-2014 i na osnovu člana 44 Statuta Opštine Mojkovac ("Sl.list CG-opštinski propisi br.31/10 i br.26/12"), Skupština opštine Mojkovac, na sjednici održanoj dana 17.07.2017.godine, donijela je:
+AKCIONI PLAN ZA 2017. GODINU STRATEŠKOG PLANA RAZVOJA OPŠTINE MOJKOVAC 2012-2019
