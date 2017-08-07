@@ -1,0 +1,5 @@
+Na osnovu člana 45 stav 1 tačka 6 Zakona o lokalnoj samoupravi ("Sl.list RCG", br.42/03,28/04,75/05 i 13/06 i "Sl.list
+CG",br.88/09,38/12 i 10/14) i člana 44 stav 1 tačka 6 Statuta Opštine Mojkovac("Sl.list CG-Opštinski propis", br.31/10 i 26/12),a u vezi sa članom 45 Zakona o finansiranju lokalne samouprave ("Sl.list RCG", br. 42/03,44/03 i "Sl.list CG", br. 5/08, 74/10), članom 8 Zakona o Budžetu i fiskalnoj odgovornosti ("Sl.list CG", br. 20/14) Skupština Opštine Mojkovac na sjednici od 17.07.2017.godine, donijela je
+ODLUKU O IZMJENAMA I DOPUNAMA
+ODLUKE O BUDŽETU OPŠTINE MOJKOVAC
+ZA 2017. GODINU
