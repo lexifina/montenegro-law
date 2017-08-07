@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 tačka 4 i tačka 11 Zakona o loklanoj samoupravi (Sl.list RCG br.42/03,28/04,75/05 i Sl.list CG br.88/09,03/10,73/10,38/12 i 10/14) , čl.4 Uredbe o povjeravanju dijela poslova uprave policije Prijestonici Cetinje i opštinama Bar,Budva,Bijelo Polje,Tivat,Kotor,Nikšić ,Ulcinj i Herceg Novi (Sl. list CG br.7/13 ,32/13 i 46/14) i čl.56 stav 1 tačka 14 Statuta Opštine Tivat ("Sl.list RCG- opštinski propisi" 40/04, 26/06 i "Sl.list Crne Gore-opštinski propisi",br. 12/11, 21/11 i 3/13), Predsjednica opštine Tivat, donosi
+O D L U K U

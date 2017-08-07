@@ -1,0 +1,3 @@
+# Član 2
+Povjerene poslove iz člana 1 ove odluke vrši Komunalna policija Opštine Tivat ( u daljem tekstu :Komunalna policija) u skladu sa odredbama Zakona o bezbijednosti saobraćaja na putevima ,drugim propisima donijetim na osnovu tog zakona ,kojima se uređuje oblast povjerenih poslova i u skladu sa ovom odlukom.
+U vršenju povjerenih poslova koji se odnose na premiještanje vozila zaustavljenih ili parkiranih na mjestima iz člana 60 stav 1 Zakona o bezbijednosti saobraćaja na putevima,Komunalna policija obavlja i poslove izdavanja prekršajnog naloga i pokretanja prekršajnog postupka u skladu sa Zakonom.

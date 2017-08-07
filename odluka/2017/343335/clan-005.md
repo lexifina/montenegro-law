@@ -1,0 +1,3 @@
+# Član 5
+Premještanje vozila koje obuvataju radnje utovara ,prevoza na mjesto određeno za čuvanje vozila,istovara ,čuvanja vozila,kao i naplate naknade troškova za premještanje vozila , vršiće privredno društvo "Parking servis " DOO Tivat, u skladu sa Pravilnikom o bližim uslovima koje mora da ispunjava privredno društvo ili preduzetnik za obavljanje poslova premiještanja vozila i načinu premiještanja i čuvanja vozila ("Sl list CG" br .22/13) , Uredbom o visini naknade troškova za premiještanje vozila("Sl.list CG" br.7/13) i ovom odlukom.
+Privredno društvo "Parking servis " DOO Tivat, odgovara za sve nastale štete od započinjanja premještanja do preuzimanja vozila od strane vozača ili vlasnika,odnosno korisnika vozila.
