@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o obliku, sadržini, načinu popunjavanja i dostavljanja jedinstvenog obrasca Izvještaja o obračunatom i plaćenom porezu na dohodak fizičkih lica i doprinosima za obavezno socijalno osiguranje ("Službeni list CG", br. 76/10, 63/11, 28/12, 8/13, 4/14, 49/14, 1/15, 2/15, 10/16 i 8/17), u Obrascu IOPPD, u Šifrarniku osnova za obračun, poslije šifre 091 dodaje se nova šifra koja glasi:
+"092 - naknada korisnicama prava na naknadu po osnovu ranije korišćenog prava na naknadu po osnovu rođenja troje ili više djece kojima je radi korišćenja tog prava njihovom voljom prestao radni odnos na neodređeno vrijeme.".
