@@ -1,0 +1,2 @@
+# Član 7
+Pristup i kretanje u čekaonicama, vestibilima, na peronima i u drugim prostorijama određenim za putnike dozvoljen je licima koja imaju važeću voznu kartu, odnosno namjeravaju da je kupe, putnicima koji prelaze iz jednog voza u drugi do polaska voza kojim nastavljaju dalje putovanje ili posjeduju druge isprave za pristup i kretanja na tim mjestima i licima kojima je potrebno obavještenje u vezi sa putovanjem ili prevozom robe.

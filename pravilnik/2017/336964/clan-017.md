@@ -1,0 +1,33 @@
+# Član 17
+Radi bezbjednog i urednog odvijanja željezničkog saobraćaja i očuvanja lične bezbjednosti putnika i drugih lica, licima koja se kreću na željezničkom području ili se nalaze u vozu za prevoz putnika ili robe nije dozvoljeno:
+- hodanje po kolosjecima, stajanje na kolosjeku ili u njegovoj neposrednoj blizini, hodanje ili zadržavanje između žute linije na peronu koja označava granicu za kretanje lica i kolosjeka na peronu;
+- ostavljanje predmeta pored kolosjeka bliže od 1,5 m od najbliže šine kolosjeka;
+- prelaziti preko kolosjeka ili željezničkih postrojenja na mjestima koja nijesu određena za prelaženje;
+- neoprezno prelaziti kolosjek na dozvoljenim mjestima;
+- prelaziti preko pruge na putnim prelazima koji su zaštićeni branicima ili polubranicima, ako su branici/polubranici spušteni ili ako signalno-sigurnosni uređaj pokazuje zabranjen prelaz preko pruge;
+- neovlašćeno hodanje ili vožnja biciklom ili drugim vozilom željezničkom prugom i staničnim kolosjecima ili neovlašćeno kretanje prostorom u kome je to dozvoljeno samo pod određenim uslovima;
+- prelaziti preko željezničkog mosta, vijadukta i prolaziti kroz željeznički tunel;
+- stajati pored infrastrukturnih objekata, gdje prilikom prolaska voza ili željezničkih vozila nema slobodnog prostora;
+- prenošenje preko pruge naročito teških ili glomaznih predmeta ili teških vozila koja saobraćaju na putevima s posebnom dozvolom za vanredni prevoz, kao i vuča lanaca ili metalnih predmeta, ako bi se time dodirivale obije šine kolosjeka;
+- puštanje, napasanje ili kretanje stoke po željezničkom području, a posebno pored željezničke pruge;
+- neovlašćeno mijenjanje položaja skretnica ili drugih uređaja kojima se obezbjeđuje saobraćaj vozova ili preduzimanje neke druge slične radnje, osim one kojom bi se spriječila opasnost po sigurnost voza, bezbjednost putnika ili drugih lica;
+- hodanje ili zadržavanje u blizini voza ili željezničkih kola koja se kreću;
+- zadržavanje u prostoru između skladišta i utovarno-istovarne rampe i vozila, koja se kreću ili čije se pokretanje očekuje;
+- naslanjanje na vozoveili željeznička vozila, kao i na njihova ulazno-izlazna vrata;
+- iskakanje u ili iz voza dok je u pokretu;
+- sjedenje ili stajanje kraj otvorenih vrata ili na stepenicama željezničkih kola i na prelaznicama, kao i na drugim mjestima, koja nijesu namijenjena za boravak putnika;
+- hodanje preko odbojnika ili provlačenje ispod njih, prelazak između dva dijela voza ili grupe vozila koja se kreću jedna prema drugima, kao i ispred vozila koja se kreću;
+- ulaženje i izlaženje za vrijeme zadržavanja voza ispred ulaznog signala ili na otvorenoj pruzi;
+- ulaženje ili izlaženje u/iz vozova ili željezničkih vozila kroz prozor;
+- prevoz u vozu koji nije namenjen za prevoz putnika bez dozvole željezničkog prevoznika ili upravljača infrastrukture;
+- naginjanje kroz prozor i otvaranje vrata željezničkih kola ili naslanjanje na njih tokom kretanja voza;
+- prljanje, nanošenje štete ili otuđivanje inventara i druge opreme u vozovima za prevoz putnika i u prostorijama u stanicama koje su namijenjene putnicima;
+- bacanje predmeta, otpadaka ili prolivanje tečnosti kroz prozor željezničkih kola;
+- zauzimanje više sjedišta u putničkim kolima nego što putnik poseduje važećih voznih karata;
+- prevoz u vozovima za prevoz putnika bez važeće vozne karte;
+- otuđivanje vatrogasnih aparata ili rezervnih djelova željezničkih vozila;
+- skidanje ili cijepanje izvoda iz reda vožnje, cjenovnika voznih karata, obavještenja, reklama, mapa željezničkih mreža sa zidova staničnih prostorija i putničkih kola;
+- parkiranje motornih i drugih vozila na željezničkom području na mjestima koja za to nijesu određena;
+- penjanje na krov voza ili željezničkih vozila, na teret otvorenih teretnih željezničkih kola i konstrukcije željezničkih postrojenja;
+- polivanje ili prskanje konstrukcije željezničkih postrojenja, vodova, izolatora ili vozila;
+- svako drugo ponašanje ili djelovanje lica kojim bi se ugrozila lična bezbjednost i nesmetano i bezbjedno odvijanje željezničkog saobraćaja.
