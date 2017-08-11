@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o načinu i uslovima ostvarivanja prava na profesionalnu rehabilitaciju ("Službeni list CG", br. 58/11 i 46/14) u članu 3 stav 1 riječi: "savjetnik za profesionalnu rehabilitaciju biroa rada Zavoda za zapošljavanje Crne Gore (u daljem tekstu: Zavod)" zamjenjuju se riječima: "službenik Zavoda za zapošljavanje Crne Gore (u daljem tekstu: Zavod), koji u birou rada obavlja poslove profesionalne rehabilitacije (u daljem tekstu: službenik Zavoda)".
