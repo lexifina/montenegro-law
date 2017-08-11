@@ -1,0 +1,1 @@
+# XVI. ODUZIMANJE ČINA

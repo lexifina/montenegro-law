@@ -1,0 +1,3 @@
+# Član 173
+## Zaštitne mjere
+Vojnom pilotu ili vojnom letaču koji vrši dužnost na vazduhoplovu, vazduhoplovno- tehničkom osoblju koje radi na vazduhoplovu, vojnom padobrancu, vojnom roniocu, vojnom osoblju mornarice koje vrši dužnosti na brodu i drugom plovnom sredstvu, vozaču vojnog motornog vozila, kao i drugom vojnom licu koje radi na poslovima opasnim po život ili imovinu ili štetnim za zdravlje, koje povrijedi pravila službe koju vrši i na taj način ugrozi bezbjednost ljudi ili imovine, u disciplinskom postupku zbog disciplinskog prestupa mogu se izreći zaštitne mjere u skladu sa ovim zakonom.

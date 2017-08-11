@@ -1,0 +1,7 @@
+# Član 207
+## Vojno-policijski poslovi
+Poslove sprečavanja vršenja i otkrivanja krivičnih djela u Vojsci, pronalaženja i hvatanja učinilaca krivičnih djela u Vojsci i njihovo privođenje nadležnim organima, kontrolu i održavanje vojne discipline, obezbjeđenje određenih lica, objekata i prostora, jedinica Vojske u pokretu i za vrijeme izvršavanja zadataka i obezbjeđenje jedinica oružanih snaga stranih država prilikom prolaska ili boravka na teritoriji Crne Gore, protivterorističku i protivdiverzionu zaštitu u Vojsci, kontrolu i regulisanje saobraćaja vojnih vozila u vojnom krugu i na putevima, vrši vojna policija.
+Poslove iz stava 1 ovog člana, vrše ovlašćena lica vojne policije.
+U vršenju poslova iz stava 1 ovog člana, ovlašćeno lice vojne policije, primjenjuje ovlašćenja prema vojnim licima, kao i licima koja nijesu u službi u Vojsci ako ih zatekne u rejonu vojnog objekta ili prostora na kojima se nalazi jedinica Vojske ili ih u njima zatekne u vršenju krivičnog djela, ili kad vrši poslove obezbjeđenja određenih lica, objekata ili prostora ili jedinica Vojske u pokretu, odnosno za vrijeme izvršavanja zadataka.
+Prilikom preduzimanja ovlašćenja prema licima iz stava 3 ovog člana, koja nijesu u službi u Vojsci, ovlašćeno lice vojne policije je dužno da bez odlaganja o tome obavijesti organ uprave nadležan za policijske poslove i preda mu lice i dokumentaciju.
+Ovlašćena lica vojne policije, utvrđuje Ministarstvo.
