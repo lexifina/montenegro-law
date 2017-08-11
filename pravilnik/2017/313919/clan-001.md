@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o kriterijumima i uslovima za utvrđivanje procenta invaliditeta, preostale radne sposobnosti i mogućnosti zaposlenja ("Službeni list CG", br. 6/12 i 46/14) u članu 2 u uvodnoj rečenici stava 1 poslije riječi lica briše se zarez, a riječi: "uvidom u dokumentaciju i dodatnim konsultacijama doktora medicine određenih specijalnosti" zamjenjuju se riječima: "i uvidom u dokumentaciju".
