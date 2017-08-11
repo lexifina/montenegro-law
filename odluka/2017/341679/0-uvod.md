@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Sl. list CG", br. 21/09, 40/11), člana 201 stav 1 i člana 216 Zakona o svojinsko pravnim odnosima ("Sl. list CG", br. 19/09), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list CG", br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14, 03/16) i člana 34 stav 1 tačka 9 Statuta Opštine Bijelo Polje ("Sl. list RCG - Opštinski propisi", br. 25/04, 33/06, "Sl. list CG" - Opštinski propisi" br. 18/10, 32/13), Skupština opštine Bijelo Polje dana 04.08.2017. godine, donijela je
+O D L U K U
+o izmjeni Odluke o ustanovljavanju stvarne službenosti u korist MILKRAFT LECHE D.O.O.
