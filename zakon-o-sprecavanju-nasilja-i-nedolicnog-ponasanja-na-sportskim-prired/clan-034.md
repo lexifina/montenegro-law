@@ -1,0 +1,4 @@
+# Član 34
+## Zabrana prisustvovanja sa obavezom boravka u prostorijama policije
+Zabrana prisustvovanja određenim sportskim priredbama na teritoriji Crne Gore sa obavezom boravka u prostorijama policije može se izreći licu kome je izrečena kazna za prekršaje iz člana 30 stav 1 ovog zakona, ako bi prisustvo tog lica moglo dovesti do povećane opasnosti od nasilja i nedoličnog ponašanja na sportskim priredbama.
+Lice iz stava 1 ovog člana, dužno je da pristupi u organizacionu jedinicu policije prema mjestu prebivališta, a ako je odsutno iz mjesta prebivališta i nalazi se u Crnoj Gori dužno je da pristupi u najbližu organizacionu jedinicu policije, najkasnije dva časa prije početka određene sportske priredbe i dužno je da boravi u prostorijama policije ili drugim pogodnim prostorijama za vrijeme trajanja i dva časa nakon završetka te priredbe.

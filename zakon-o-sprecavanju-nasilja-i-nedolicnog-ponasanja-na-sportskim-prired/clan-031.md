@@ -1,0 +1,14 @@
+# Član 31
+Novčanom kaznom u iznosu od 100 eura do 500 eura kazniće se za prekršaj fizičko lice ako:
+1) ne štiti lica i imovinu koja se nalazi u sportskom objektu, u cilju obezbjeđenja reda na sportskoj priredbi (član 19 stav 1 tačka 1);
+2) ne utvrdi da li lice koje ulazi ili se nalazi u sportskom objektu posjeduje ulaznicu ili drugu odgovarajuću ispravu izdatu od strane organizatora sportske priredbe, u cilju obezbjeđenja reda na sportskoj priredbi (član 19 stav 1 tačka 2);
+3) ne spriječi neovlašćen ulazak u sportski objekat lica iz člana 19 stav 1 tačka 2 ovog zakona, u cilju obezbjeđenja reda na sportskoj priredbi (član 19 stav 1 tačka 3);
+4) ne utvrdi da lice koje ulazi ili se nalazi u sportskom objektu posjeduje alkoholna pića, drogu, psihoaktivne supstance, pirotehnička sredstva, oružje ili druge predmete pogodne za nanošenje povreda ili za stvaranje nereda i nasilja, i takve predmete privremeno ne oduzme, u cilju obezbjeđenja reda na sportskoj priredbi (član 19 stav 1 tačka 4);
+5) ne utvrdi da li lice koje ulazi ili se nalazi u sportskom objektu posjeduje transparente, zastave ili drugi materijal sa tekstom, slikom, znakom ili drugim obilježjem kojima se poziva ili podstiče na oružani sukob ili nasilje, mržnju ili netrpeljivost, nacionalnu ili rasnu diskriminaciju, ili diskriminaciju po osnovu vjere, pola ili seksualne orijentacije, ili po drugom osnovu, u cilju obezbjeđenja reda na sportskoj priredbi (član 19 stav 1 tačka 5);
+6) ne zabrani pristup licu u alkoholisanom stanju iznad 0,50 g/kg, odnosno licu koje je pod uticajem droge ili drugih psihoaktivnih supstanci, u cilju obezbjeđenja reda na sportskoj priredbi (član 19 stav 1 tačka 6);
+7) ne zabrani pristup licu koje pokušava da unese u sportski objekat alkohol, drogu, psihoaktivne supstance, pirotehnička sredstva, oružje ili druge predmete pogodne za nanošenje povreda ili za stvaranje nereda i nasilja, u cilju obezbjeđenja reda na sportskoj priredbi (član 19 stav 1 tačka 7);
+8) ne zabrani gledaocima prelaz iz jednog dijela sportskog objekta u drugi dio, u cilju obezbjeđenja reda na sportskoj priredbi (član 19 stav 1 tačka 8);
+9) ne zadrži gledaoca koji se nasilno ponaša ili na drugi način remeti javni red i mir na sportskoj priredbi i ne preda ga policiji, u cilju obezbjeđenja reda na sportskoj priredbi (član 19 stav 1 tačka 9);
+10) ne onemogući gledaocima pristup onim djelovima sportskog objekta koji nisu namijenjeni gledaocima, u cilju obezbjeđenja reda na sportskoj priredbi (član 19 stav 1 tačka 10);
+11) ne odvoji gostujuće navijače usmjeravanjem na posebne ulaze i izlaze iz sportskog objekta i ne smjesti ih u poseban dio gledališta koji je za njih određen, u cilju obezbjeđenja reda na sportskoj priredbi (član 19 stav 1 tačka 11);
+12) ne preda policiji lica zatečena u činjenju prekršaja ili krivičnog djela, u cilju obezbjeđenja reda na sportskoj priredbi (član 19 stav 1 tačka 12).
