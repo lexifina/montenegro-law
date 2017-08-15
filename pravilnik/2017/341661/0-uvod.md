@@ -1,0 +1,2 @@
+Na osnovu člana 28 i člana 29 Zakona o održavanju stambenih zgrada ("Sl. list CG", br. 41/2016), člana 70 stav 1 tačka 12 i člana 72 stav 4 Statuta Opštine Mojkovac ("Sl. list CG - opštinski propisi", br. 31/10 i 26/12) i Odluke o Budžetu Opštine Mojkovac za 2017. godinu ("Sl. list Crne Gore - Opštinski propisi", broj 51/2016), Skupština opštine Mojkovac, na śednici održanoj 17.07. 2017. godine, donijela je
+PRAVILNIK
