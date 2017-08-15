@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 21 u vezi sa članom 111 stav 2 Zakona o lokalnoj samoupravi (,,Sl. list RCG", br. 42/03, 28/04, 75/05 i 13/06 i ,,Sl. list CG", br. 88/09, 73/10, 38/12, 10/14, 57/14 i 03/16) i člana 48 Statuta Glavnog grada (,,Sl. list RCG - Opštinski propisi",broj 28/06 i ,,Sl. list CG - Opštinski propisi", br. 39/10 i 18/12), Skupština Glavnog grada- Podgorice, na sjednici održanoj dana 28. jula 2017. godine, donijela je
+IZMJENE
