@@ -1,0 +1,2 @@
+# Član 3
+Na središnjoj poziciji zastave, sa podjednakom površinom na bijelom i zelenom polju, nalazi se grb opštine Rožaje, dimenzija 50x44cm, kao simbol urbanog naselja grada i njegove arhitekture, u čijem je središtu najstariji objekat na području grada, sa dva klika kao prirodno prepoznatljiv simbol grada, te sa simbolikom prikazanoj na samoj zastavi predstavlja sve prirodne, kulturne i tradicionalne specifičnosti naše Opštine.
