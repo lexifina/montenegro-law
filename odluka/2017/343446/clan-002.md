@@ -1,0 +1,3 @@
+# Član 2
+Granice zahvata Izmjene i dopune DUP-a određene su granicama važećeg Detaljnog urbanističkog plana "Petovića Zabio", ("Sl. list CG - opštinski propisi", br. 39/14), koje su date u digitalnom obliku i u grafičkom prilogu koji je sastavni dio ove odluke. Granica je utvrđena digitalno i zahvata površinu od cca 51,41ha.
+Izmjenama i dopunama DUP-a preispitaće se cjelokupan prostor važećeg planskog dokumenta radi iznalaženja boljeg urbanističkog rješenja, posebno u dijelu parcelacije, kao i otklanjanja određenih nepravilnosti koje su konstatovane tokom sprovođenja plana, a koje utiču na funkcionalnu primjenu plana.
