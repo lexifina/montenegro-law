@@ -1,0 +1,3 @@
+# Član 1
+## o oslobađanju plaćanja dijela obaveza po osnovu godišnje naknade za korišćenje komercijalnih objekata na lokaciji "Kruške" koji za pristup tim objektima koriste lokalni i nekategorisani put
+Oslobađaju se plaćanja dijela obaveza po osnovu godišnje naknade za korišćenje komercijalnih objekata obveznici iz člana 25 Odluke o korišćenju i naknadi za korišćenje puta i putnog zemljišta pored opštinskih i nekategorisanih puteva ("Sl.list CG"-opštinski propisi, broj 32/11, 26/13, 33/14, 4/15, 10/15, 37/16, 50/16 i 19/17) koji za pristup tim objektima koriste lokalni i nekategorisan put za lokaciju "Kruške" u iznosu od 70% za period od tri godine i to: 2017., 2018. i 2019.godinu.
