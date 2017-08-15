@@ -1,0 +1,3 @@
+# Član 27
+Učiniocu prekršaja iz prethodnog člana ove Odluke izreći će se i zaštitna mjera oduzimanja predmeta kojim je prekršaj počinio.
+Oduzeti predmeti se uz zahtjev za pokretanje prekršajnog postupka predaju organu nadležnom za vođenje prekršajnog postupka.
