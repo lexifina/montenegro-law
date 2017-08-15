@@ -1,0 +1,2 @@
+Na osnovu člana 5 stav 3, člana 13 stav 3, člana 22 stav 7, člana 51, 55 i 57 Zakona o putevima ("Službeni list RCG", br. 42/04 i 21/09 i "Službeni list CG", br. 54/09, 73/10 i 40/11), člana 32 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05 i 13/06" i "Službeni list CG", br. 88/09, 3/10, 38/12, 10/14, 57/14 i 3/16), člana 42 i 46 Statuta opštine Rožaje ("Službeni list CG - Opštinski propisi", br. 9/11 i 31/16), Skupština opštine Rožaje na sjednici održanoj 20.07.2017.godine donijela je
+O D L U K U
