@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za zasnivanje stvarne službenosti na neodređeno vrijeme na dijelu kat.parcele broj 401 KO Cvarin
+Glavni grad - Podgorica, kao nosilac prava raspolaganja, daje saglasnost za zasnivanje stvarne službenosti na dijelu kat.parcele broj 401 KO Cvarin, u površini od 27 m2, radi postavljanja dalekovoda DV 10 kV za trafostanicu STS 10/0,4 kV was-impex snage 250 kVA na kat. parceli br.485/1 KO Rogami, koja lokacija je određena Odlukom Gradonačelnika Glavnog grada o određivanju lokacije sa elementima urbanističko tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa, br. 01-031/17-2050 od dana 16. marta 2017. godine.
