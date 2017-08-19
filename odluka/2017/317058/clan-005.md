@@ -1,0 +1,3 @@
+# Član 5
+Ovlašćuje se Gradonačelnik Prijestonice Cetinje da sa ovlašćenim predstavnikom Sindikata kulture Crne Gore zaključi Ugovor iz člana 1 ove odluke, kojim će biti regulisana međusobna prava i obaveze ugovornih strana. Ugovor će predstavljati osnov za upis tereta, zabilježbu ugovora u "G" listu nepokretnosti kod Uprave za nekretnine - Područna jedinica Cetinje.
+Ovlašćuje se Gradonačelnik Prijestonice Cetinje da sa ovlašćenim predstavnikom Sindikata kulture Crne Gore, nakon izdavanja gradjevinske dozvole i početka radova na parceli koja je predmet ove Odluke, u vezi za članom 3 ove Odluke, zaključi Ugovor kojim će biti regulisana međusobna prava i obaveze ugovornih strana.
