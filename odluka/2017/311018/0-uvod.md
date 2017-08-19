@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 1 tačka 26 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04, 75/05 i 13/06 i "Službeni list Crne Gore", broj 88/09, 03/10, 73/10, 38/12 i 10/14), člana 4 i 24 Zakona o prekršajima ("Službeni list Crne Gore", broj 01/11, 06/11, 39/11 i 32/14), člana 63 stav 1 tačka 2 Statuta Prijestonice Cetinje ("Službeni list Crne Gore - opštinski propisi", broj 19/09, 37/10, 26/13, 39/14 i 12/16), Skupština Prijestonice Cetinje na sjednici održanoj dana, 31.07.2017.godine, donijela je
+O D L U K U O IZMJENI I DOPUNI ODLUKE O RADNOM VREMENU
