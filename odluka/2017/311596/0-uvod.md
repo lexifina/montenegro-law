@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2, člana 87 stav 1 a u vezi sa članom 90 Zakona o lokalnoj samoupravi (Sl.list RCG, broj 42/03,28/04,75/05 i 13/06 i Sl.list CG, broj 88/09, 3/10, 73/10, 38/12, 10/14, 57/14, 3/16) i člana 23 Zakona o zaradama zaposlenih u javnom sektoru (Sl.list CG, broj 16/16, 82/16, i 21/17), shodno izmjenama i dopunama Zakona o zaradama zaposlenih u javnom sektoru (Sl.list CG, broj 42/17), Skupština opštine Herceg Novi na sjednici održanoj 03.08.2017. godine, donijela je
+O D L U K U O ZARADAMA LOKALNIH FUNKCIONERA OPŠTINE HERCEG NOVI
