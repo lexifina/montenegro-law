@@ -1,0 +1,2 @@
+Na osnovu člana 23 stav 1 Zakona o upravljanju otpadom ("Sl.list Crne Gore" br. 64/11, 39/16) i člana 36 stav 1 tačka 4 Statuta opštine Herceg Novi("Sl.list RCG-opštinski propisi" broj: 15/04, 32/05, 31/06, 14/07 i "Sl.list CG-opštinski propisi" broj:16/09, 16/11) Skupština opštine Herceg Novi, na sjednici održanoj 03.08.2017.godine, donijela je
+O D L U K U O USVAJANJU PLANA UPRAVLJANJA KOMUNALNIM I NEOPASNIM GRAĐEVINSKIM OTPADOM ZA PERIOD OD 2016-2020.GODINE NA TERITORIJI OPŠTINE HERCEG NOVI
