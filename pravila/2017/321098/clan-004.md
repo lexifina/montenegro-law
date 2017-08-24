@@ -1,0 +1,2 @@
+# Član 4
+Zagušenje u prenosnoj mreži nastaje kada prijavljena vrijednost pograma razmjene na interkonektivoj vezi u određenom smjeru pređe vrijednost ATC-a na istoj vezi u istom smjeru odnosno, usled postojanja interesovanja za prekogranični prenos električne energije sa snagom većom nego što to omogućavaju prenosni kapaciteti ili usljed smanjenja prenosnih kapaciteta zbog nepredviđenih događaja u elektroenergetskom sistemu.
