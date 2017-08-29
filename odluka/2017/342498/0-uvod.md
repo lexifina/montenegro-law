@@ -1,0 +1,2 @@
+Na osnovu člana 57. stav 1. tačka 5. a u vezi sa članom 70. i 90. Zakona o lokalnoj samoupravi ("Službeni list RCG" broj 42/03, 28/04, 75/05 i 13/06 i "Službeni list Crne Gore" broj 88/09, 3/10, 73/10 i 38/12, 10/14, 57/14 i 3/16) i člana 50. stav 1. tačka 5. Statuta Opštine Kotor ("Službeni list Opštine Kotor" broj 03/04 i "Službeni list Crne Gore - opštinski propisi" broj 17/08, 31/09, 40/10 i 4/11), po pribavljenom Mišljenju Glavnog administratora broj 0901-12281/2 od 14.08. 2017.godine, Predsjednik Opštine Kotor donosi
+O D L U K U
