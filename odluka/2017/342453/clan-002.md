@@ -1,0 +1,2 @@
+# Član 2
+Katastarske parcele brroj: 6105/2, 6107/2 i 6121/4 sve KO Novi Bar, prodaju se »KIPS«-u D.O.O Podgorica, ulica Veljka Vlahovića radi kompletiranja urbanističke parcele A7-UP3 u zoni "A", blok 7, po DUP-u »Topolica IV«, u sastavu koje se nalazi kat. parcela broj: 6106/1 KO Novi Bar, površine 6514m2, svojina obimu 1/1 tog privrednog društva, a sve u skladu sa DUP-om »Topolica IV« (»Sl.list CG-opštinski propisi«, br.39/13).
