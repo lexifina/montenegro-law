@@ -1,0 +1,3 @@
+Na osnovu člana 29 Zakona o državnoj imovini ("Sl. List CG", br. 21/09 i 40/11), u vezi sa članom 194, 201, 208 i 216 Zakona o svojinsko pravnim odnosima ("Sl. List CG", br. 19/09), člana 33 stav 1 tačka 1 i člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. List RCG", br. 42/03, 28/04, 75/05 i 13/06 i "Sl. List CG", br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14 i 3/16) i člana 41 Statuta Opštine Bar ("Sl. List CG", br. 6/11), Skupština Opštine Bar, na sjednici održanoj dana 10.08.2017. godine, donijela je
+ODLUKU
+o uspostavljanju službenosti radi polaganja priključnog 10 kV kablovskog voda na dionici od postojeće MBTS
