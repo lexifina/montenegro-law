@@ -1,0 +1,3 @@
+Na osnovu člana 47 stav 3, a u vezi sa članom 24 Zakona o uređenju prostora i izgradnju objekata ("Sl.list CG’’, br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14) i člana 31 stav 1 tačka 4 Statuta Opštine Šavnik ("Sl.list RCG-opštinski propisi’’, br. 36/04, i "Sl.list CG-opštinski propisi", br. 24/08, 36/10 i 18/15), Skupština Opštine Šavnik, na sjednici održanoj dana 21.08.2017.
+godine d o n o s i
+O D L U K U
