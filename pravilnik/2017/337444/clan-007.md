@@ -1,0 +1,3 @@
+# Član 7
+Obrazac prijave o nestanku putne isprave (Obrazac 5) sadrži naziv organa kojem je podnijeta prijava; broj prijave (bar code); naziv: "PRIJAVA O NESTANKU PUTNE ISPRAVE" i mjesta za prezime i ime imaoca putne isprave, prezime i ime roditelja, odnosno zakonskog zastupnika, jedinstveni matični broj, prebivalište i adresu stana, datum nestanka putne isprave, konstataciju da li je putna isprava izgubljena ili ukradena, serijski broj putne isprave, vrstu putne isprave, mjesto i datum izdavanja, svojeručni potpis podnosioca prijave i svojeručni potpis roditelja, odnosno zakonskog zastupnika.
+Obrazac iz stava 1 ovog člana sadrži i napomene: "U prijavi podnosilac zahtjeva mora navesti tačne podatke" i "Prijava se popunjava čitko štampanim slovima".

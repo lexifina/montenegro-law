@@ -1,0 +1,3 @@
+# Član 3
+Obrazac zahtjeva za izdavanje pasoša (Obrazac 1) sadrži naziv organa kojem se podnosi zahtjev za izdavanje pasoša, broj zahtjeva (bar code); naziv: "ZAHTJEV ZA IZDAVANJE PASOŠA" i mjesta za unos podataka iz člana 29 stav 1 Zakona o putnim ispravama (u daljem tekstu: Zakon), kao i podataka o jeziku i pismu na kojem se vrši unos podataka o ličnom imenu, razlogu izdavanja pasoša, broju telefona i mjesto za svojeručni potpis roditelja, odnosno zakonskog zastupnika.
+Obrazac iz stava 1 ovog člana sadrži i napomene: "U zahtjevu podnosilac zahtjeva mora navesti tačne podatke" i "Zahtjev se popunjava čitko štampanim slovima".

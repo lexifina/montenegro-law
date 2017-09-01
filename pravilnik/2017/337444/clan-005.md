@@ -1,0 +1,3 @@
+# Član 5
+Obrazac zahtjeva za izdavanje putnog lista (Obrazac 3) sadrži naziv i sjedište diplomatskog ili konzularnog predstavništva Crne Gore kojem se podnosi zahtjev; mjesto za fotografiju dimenzija 35x45 mm; broj zahtjeva (bar code); naziv: "ZAHTJEV ZA IZDAVANjE PUTNOG LISTA" i mjesta za unos podataka iz člana 29 stav 1 Zakona, kao i podataka o jeziku i pismu na kojem se vrši unos podataka o ličnom imenu, adresi boravka crnogorskog državljanina u drugoj državi, datumu i razlogu dolaska u drugu državu i mjesto za svojeručni potpis roditelja, odnosno zakonskog zastupnika.
+Obrazac iz stava 1 ovog člana sadrži i napomene: "U zahtjevu podnosilac zahtjeva mora navesti tačne podatke" i "Zahtjev se popunjava čitko štampanim slovima".
