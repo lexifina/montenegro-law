@@ -1,0 +1,2 @@
+Na osnovu člana 15 i člana 105 Zakona o izboru odbornika i poslanika ("Sl. list RCG" br. 4/98, 5/98, 14/00, 18/00, 09/01, 41/02, 46/02, 45/04, 48/06 i 56/06 i "Sl. list CG", br. 46/11 i 14/14) i člana 55c Zakona o Glavnom gradu ("Službeni list RCG’’, br. 65/05, ’’Službeni list Crne Gore", br. 88/09, 72/10, 02/16) Skupština Gradske opštine Tuzi , na sjednici održanoj 31.08.2017. godine, donosi
+ODLUKU
