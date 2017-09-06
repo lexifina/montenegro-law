@@ -1,0 +1,6 @@
+# Član 8
+Predmet nabavke mora da bude opisan potpuno, jasno i razumljivo, na način koji omogućava podnošenje odgovarajuće ponude po vrsti, kvalitetu, cijeni, kao i po drugim potrebnim svojstvima i uslovima.
+U opisu predmeta nabavke navode se podaci o količini, mjestu i rokovima izvršenja ili posebni zahtjevi u pogledu načina izvršenja predmeta javne nabavke, koji su od značaja za izradu ponude i izvršenje ugovora.
+Starješina organa uprave, posebne i stručne službe i javne ustanove, je dužan da, na osnovu prethodnog ispitivanja tržišta, u zahtjevu za pokretanje postupka , navede ime i adresu najmanje jednog ponuđača, koji je kvalifikovan za konkretnu nabavku, kome će se uputiti poziv za dostavljenje ponuda.
+Prije pokretanja postupka hitne nabavke, organ uprave ili stručna služba ili javna ustanova za koju se konkretna nabavka sprovodi mora pribaviti potvrdu Sekretarijata za finansije o raspoloživosti potrebnih finansijskih sredstava.
+Zadatak službenika za javne nabavke je da pripremi zahtjev za dostavljanje ponuda, uputi zahtjev za podnošenje ponuda, otvori ponude, sastavi zapisnik o pregledu, ocjeni i vrednovanju ponuda, pripremi prijedlog obavještenja o ishodu postupka hitne nabavke.

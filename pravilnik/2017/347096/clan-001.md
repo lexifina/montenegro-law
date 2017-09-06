@@ -1,0 +1,2 @@
+# Član 1
+Ovim Pravilnikom se uređuju postupci, pravila i uslovi za hitne nabavke roba, usluga i ustupanje radova za potrebe organa uprave, posebnih i stručnih službi i javnih ustanova Glavnog grada Podgorica, u cilju otklanjanja opasnosti od nepredvidjenih događaja na koje naručilac nije mogao ili ne može da utiče, otklanjanja posledica tih nepredviđenih događaja, ugroženosti zdravlja i života građanja, kada nema mogućnosti da se sprovede postupak javne nabavke i postupi u rokovima određenim Zakonom o javnim nabavkama.
