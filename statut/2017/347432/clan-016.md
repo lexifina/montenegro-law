@@ -1,0 +1,2 @@
+# Član 16
+Organi lokalne uprave, javnih ustanova i privrednih društava čiji je osnivač Opština, su obavezni da obezbijede korišćenje jezika i pisma u upravnom postupku, kod izdavanja javnih isprava i vođenja službene evidencije, svih akata vezanih za izborno pravo, izražavanje, čuvanje, njegovanje i razvijanje i javno ispoljavanje nacionalne, etničke, kulturne i vjerske posebnosti u skladu sa zakonom.

@@ -1,0 +1,2 @@
+# Član 2
+Statutom se uređuju: prava i dužnosti opštine i način njihovog ostvarivanja; poslovi i način odlučivanja lokalnog stanovništva; način i uslovi vršenja sopstvenih poslova; organizacija i način rada organa, način donošenja propisa; način vršenja nadzora nad radom organa opštine i javnih službi; način povjeravanja određenih poslova radnim tjelima skupštine; način obezbjeđenja javnosti rada organa i javnih službi; finansiranje; ustanovljenje simbola, praznik opštine i način njegovog obilježavanja i druga pitanja od značaja za funkcionisanje lokalne samouprave.

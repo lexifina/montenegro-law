@@ -1,0 +1,4 @@
+# Član 59
+Predsjednik Skupštine predsjedava Skupštinom, rukovodi njenim radom, stara se o realizaciji odluka i drugih akata Skupštine, predstavlja Skupštinu, predlaže dnevni red, potpisuje akte Skupštine, koordinira rad radnih tijela, sarađuje sa predsjednikom Opstine, brine se o javnosti rada Skupštine i obavlja i druge poslove u skladu sa zakonom, ovim statutom i poslovnikom o radu.
+U slučaju odsutnosti ili spriječenosti predsjednika, Skupštinom predsjedava odbornik kojeg odredi predsjednik Skupštine.
+Ukoliko predsjednik Skupštine nije u mogućnosti da odredi odbornika koji će predsjedavati sjednicom u slučaju iz prethodnog stava, sjednicom predsjedava odbornik iz partije, odnosno koalicije koja ima najveći broj odbornika u Skupštini, koga odredi klub odbornika te partije, odnosno koalicije.
