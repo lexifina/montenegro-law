@@ -1,0 +1,4 @@
+Na osnovu člana 117. stav 1., tačka 1. i stava 3., Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG" br.51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14), člana 2. i 8. Zakona o izmjenama i dopunama Zakona o prekršajima ("Sl. list CG", broj 1/11, 39/11 i 32/14) i člana 14., 32., 33. i 35b) Odluke o organizaciji i načinu rada lokalne uprave ("Sl. list Opštine Kotor", broj 11/05, 9/07, "Službeni list CG-opštinski propisi", 13/11, 1/12, 40/12, 26/13, 33/15) i člana 30. Statuta Opštine Kotor ("Sl.list Opštine Kotor" br.03/04 i "Sl. list CG - opštinski propisi", br.17/08, 31/09, 40/10 i 04/11), Skupština Opštine Kotor, na VIII sjednici održanoj 01. 09. 2017. godine, donijela je:
+O D L U K U
+o izmjeni i dopuni Odluke o postavljanju odnosno
+građenju i uklanjanju privremenih objekata montažnog
