@@ -1,0 +1,3 @@
+Na osnovu člana 45. stav 1. tačka 9. Zakona o lokalnoj samoupravi (Službeni list RCG" br. 42/03, 28/04, 75/05 i 13/06 i "Službeni list CG" br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14 i 03/16), člana 30. tačka 10. Statuta opštine Kotor («Sl. list Opštine Kotor» broj 3/04, "Sl. list CG-opštinski propisi" 17/08, 31/09, 40/10 i 04/11), Zaključka Komisije za poslovni prostor br. 02-3097/2a od 30. 06. 2017. godine, a u vezi člana 39. stav 1. i 2. Zakona o dražavnoj imovini ("Službeni list CG" broj 21/09 i 40/11), Skupština opštine Kotor je na VIII sjednici održanoj 01. 09. 2017 .godine, donijela
+O D L U K U
+o izdavanju u zakup poslovnih prostorija
