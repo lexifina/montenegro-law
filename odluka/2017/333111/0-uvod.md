@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 7 Zakona o zaštiti dobrobiti životinja ("Službeni list Crne Gore", br. 014/08, 040/11, 047/15), člana 51 stav 3 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 042/03, 028/04, 075/05, 013/06, Službeni list Crne Gore", br. 088/09, 003/10, 073/10, 038/12, 010/14, 057/14, 003/16) i člana 30 Statuta Opštine Kotor ("Sl. list Opštine Kotor", broj 3/04 i "Sl. list CG - Opštinski propisi", br. 17/08, 31/09, 40/10 i 04/11), Skupština opštine Kotor, na VIII sjednici održanoj 01. 09. 2017 godine, donijela je
+ODLUKA
