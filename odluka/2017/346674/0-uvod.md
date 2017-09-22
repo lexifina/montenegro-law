@@ -1,0 +1,2 @@
+Na osnovu člana 31 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", broj 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14) i člana 72 Statuta Glavnog grada - Podgorice ("Službeni list RCG - opštinski propisi", br. 28/06 i "Službeni list CG - opštinski propisi", br. 39/10, 18/12 i 38/17), Gradonačelnik Glavnog grada Podgorice, donio je
+ODLUKU O IZMJENI ODLUKE O IZRADI IZMJENA I DOPUNA DETALJNOG URBANISTIČKOG PLANA "SERVISNO SKLADIŠNA ZONA UZ ŽELJEZNIČKU PRUGU - VATROGASNI DOM" U PODGORICI
