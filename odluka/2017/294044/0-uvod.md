@@ -1,0 +1,2 @@
+Na osnovu člana 18 a stav 4 i člana 19 Zakona o privrednim društvima ("Službeni list RCG" broj 6/02 i "Službeni list CG", br. 17/07, 80/08 i 36/11) i na osnovu člana 25 stav 1 i člana 26 tačka 1, a u vezi sa čl. 28 i 30 Statuta Pošte Crne Gore AD Podgorica ("Službeni list CG", br. 61/11, 12/13 i 18/17), Osnivač - Vlada Crne Gore, na sjednici od 31. avgusta 2017. godine, donijela je
+ODLUKU O IZMJENI STATUTA POŠTE CRNE GORE AD PODGORICA
