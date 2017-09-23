@@ -1,0 +1,3 @@
+# Član 7
+## različite proizvodne jedinice
+Ako je afrička kuga svinja potvrđena na gazdinstvu koje ima dvije ili više odvojenih proizvodnih jedinica, u cilju omogućavanja završetka turnusa tova, može se odstupiti od preduzimanja mjera iz člana 6 stav 1 tačka 1 ovog pravilnika na proizvodnoj jedinici na kojoj se nalaze zdrave svinje, pod uslovom da je utvrđeno da su struktura, veličina, udaljenost između proizvodnih jedinica i postupci proizvodnje takvi da je u proizvodnoj jedinici osigurano potpuno odvojeno držanje i ishrana i da je onemogućeno širenje virusa iz jedne u drugu proizvodnu jedinicu.
