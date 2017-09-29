@@ -1,0 +1,1 @@
+Na osnovu člana 45 stav 2 tačka 2 i člana 45a stav2 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", broj 16/16, 83/16, 21/17 i 42/17), člana 55 tačka 23 i člana 58 stav 2 Statuta opštine Kolašin ("Sl.listRCG"opštinski propisi br.25/04,31/04, 34/06 i "Sl.list CG"- opštinski propisi, br. 41/10), predsjednica opštine Kolašin, donosi :
