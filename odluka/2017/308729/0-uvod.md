@@ -1,0 +1,2 @@
+Na osnovu člana 32 Zakona o Prijestonici (Sl.list Crne Gore br. 51/17), člana 45 stav 1 tačka 1 Zakona o lokalnoj samoupravi (Sl.list Crne Gore br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14 i 03/16), člana 63 stav 1 tačka 1 Statuta Prijestonice (Sl.list Crne Gore - opštinski propisi br. 19/09, 37/10, 26/13, 39/14,12/16) i člana 111 Poslovnika Skupštine Skupštine Prijestonice Cetinje (Sl.list Crne Gore - opštinski propisi br. 21/11), Skupština Prijestonice Cetinje, na sjednici održanoj dana 25.09.2017. godine donijela je
+O D L U K U
