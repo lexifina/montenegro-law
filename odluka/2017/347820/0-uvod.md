@@ -1,0 +1,2 @@
+Na osnovu člana 55 stav 1 a u vezi sa članom 57 Zakona o državnim službenicima i namještenicima ("Sl. List CG" br. 39/11, 50/11, 66/12 i 34/14), čl. 57 stav 1 tačka 7 Zakona o lokalnoj samoupravu ("Sl.list CG",br. 88/09, 03/10, 38/12, 10/14 i 57/14) i čl. 68 stav 1 tačka 8 Statuta opštine Rožaje ("Sl.list CG" br.9/11) i čl. 42 stav 4 Odluke o organizaciji i načinu rada lokalne uprave opštine Rožaje ("Sl.list CG- opštinski propisi " br. 29/14 i 38/16), te i Odluke o izboru kandidata br. 2381 od 24.08.2017. godine, Predsjednik opštine Rožaje, d o n o s i:
+ODLUKU
