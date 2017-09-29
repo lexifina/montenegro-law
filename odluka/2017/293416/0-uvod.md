@@ -1,0 +1,2 @@
+Na osnovu člana 24 Odluke o osnivanju Društva sa ograničenom odgovornošću Lokalni javni emiter ,,Radio Danilovgrad,, (,,Sl. list CG-opštinski propisi,, br. 39/15) i člana 35 Statuta Opštine Danilovgrad (,,Sl. list RCG- opštinski propisi,, br. 30/04 i ,,Sl. list CG-opštinski propisi,, br. 19/08 i 12/11), Skupština opštine Danilovgrad, na sjednici održanoj 19.09.2017. godine, d o n o s i
+O D L U K U
