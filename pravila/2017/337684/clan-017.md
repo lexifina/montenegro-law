@@ -1,0 +1,4 @@
+# Član 17
+## Naknadno popunjavanje članstva
+Ukoliko članu savjeta po funkciji prestane funkcija na osnovu koje je postao član savjeta, njegovo mjesto u savjetu pripada licu izabranom na tu funkciju, ako je pripadnik istog manjinskog naroda ili iste druge manjinske nacionalne zajednice i prihvata članstvo u savjetu. Ukoliko se iz bilo kog razloga upražnjeno mjesto u savjetu ne može popuniti na taj način, popunjavanje će se izvršiti iz reda kandidata sa liste kandidata iz člana 15 ovih pravila, tako što će to mjesto pripasti kandidatu sa najvećim brojem glasova.
+Ukoliko član savjeta (po funkciji ili izabran na elektorskoj skupštini) da ostavku na članstvo u savjetu, popunjavanje će se izvršiti iz reda kandidata sa liste kandidata iz člana 15 ovih pravila, tako što će to mjesto pripasti kandidatu sa najvećim brojem glasova.
