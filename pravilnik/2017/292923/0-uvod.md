@@ -1,0 +1,2 @@
+Na osnovu člana 99 stav 2 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 34/11, 35/13, i 33/14), Ministarstvo održivog razvoja i turizma, donijelo je
+PRAVILNIK O DOPUNI PRAVILNIKA O OBLIKU I IZGLEDU TABLE SA PODACIMA O IZDATOJ GRAĐEVINSKOJ DOZVOLI
