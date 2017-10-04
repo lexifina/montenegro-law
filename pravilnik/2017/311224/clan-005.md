@@ -1,0 +1,4 @@
+# Član 5
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom
+listu Crne Gore".
+-------------------------------- *U ovaj pravilnik prenešene su odredbe iz Odluke Komisije 90/254 EEZ o uslovima za odobravanje odgajivačkih organizacija i udruženja koja uspostavljaju ili vode matičnu evidenciju kvalitetnih priplodnih ovaca i koza u čistoj rasi, Odluke Komisije 89/504/EEZ o utvrđivanju uslova za priznavanje i nadzor udruženja odgajivača, odgajivačkih organizacija i privatnih preduzeća koje uspostavljaju i vode matičnu evidenciju kvalitetnih priplodnih hibridnih svinja i Odluke Komisije 89/501/EEZ o utvrđivanju uslova za priznavanje i nadzor udruženja odgajivača, odgajivačkih organizacija koje uspostavljaju i vode matičnu evidenciju kvalitetnih priplodnih svinja u čistoj rasi.
