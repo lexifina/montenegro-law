@@ -1,0 +1,2 @@
+Na osnovu čl. 24 i 25 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 48/06 i "Sl. list CG", br. 46/11 I 14/14) i člana 32. Statuta Opštine Petnjica ("Sl. list CG-Opštinski propisi", br.3/14, 2/15 i 41/15), Skupština opštine Petnjica, na predlog Odbora za izbor i imenovanje, na sjednici održanoj 20.09.2017. godine, donijela je
+O D L U K U
