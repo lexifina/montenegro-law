@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list RCG", br.42/03, 28/04, 75/05, 13/06 i "Sl. list CG", br.88/09, 3/10, 73/10, 38/12, 10/14 i 03/16), člana 63 stav 1 tačka 41 Statuta Prijestonice ("Sl.list CG- opštinski propisi", 19/09, 37/10, 26/13, 39/14 i 12/16) i člana 10 stav 1 alineja 3 Odluke o osnivanju društva sa ograničenom odgovornošću "Vodovod i kanalizacija - Cetinje"("Sl. list CG - opštinski propisi", br. 30/13 i 22/14), Skupština Prijestonice, na sjednici održanoj dana, 25.09.2017. godine, donijela je
+ODLUKU
