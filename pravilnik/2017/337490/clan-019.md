@@ -1,0 +1,4 @@
+# Član 19
+## Zahtjevi koje mora da ispunjava tijelo za ocjenjivanje usaglašenosti
+(1) Tijelo za ocjenjivanje usaglašenosti je osposobljeno da vrši ocjenjivanje usaglašenosti iz tačke 3.2. Priloga 1 i Priloga 2 ovog pravilnika za koje je prijavljeno, bez obzira da li ocjenjivanje vrši samostalno ili se obavlja u njegovo ime i pod njegovom odgovornošću.
+(2) Lice odgovorno za obavljanje poslova ocjenjivanja usaglašenosti mora da poznaje i razumije bitne zahtjeve iz Priloga 1 ovog pravilnika, standarde i druge propise koji se odnose na ocjenjivanje usaglašenosti posuda (3) Zaposleni u tijelu za ocjenivanje usaglašenosti mora da čuva povjerljivost podataka i informacija koje je saznao prilikom obavljanja svojih zadataka, u skladu sa tačkom 3.2. Priloga 1 i Prilogom 2 ovog pravilnika, u skladu sa zakonom.
