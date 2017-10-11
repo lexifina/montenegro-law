@@ -1,0 +1,4 @@
+Na osnovu člana 36. stav 1 tačka 25 Statuta Opštine Herceg Novi ("Sl.list RCG"-opštinski propisi ,br. 15/04, 32/05, 31/06, 14/07, i "Sl.list CG"-opštinski propisi br 16/09, 16/11) i člana 9 stav 2 Odluke o organizovanju JU "Gradska biblioteka i čitaonica Herceg Novi" ("Sl.list CG"-opštinski propisi,br. 26/12) Skupština opštine Herceg Novi na sjednici 11.10.2017.godine, donijela je
+R J E Š E NJ E O DAVANJU SAGLASNOSTI NA ODLUKU SAVJETA JAVNE USTANOVE "GRADSKA BIBLIOTEKA I ČITAONICA HERCEG NOVI" O IMENOVANJU VRŠIOCA DUŽNOSTI DIREKTORA USTANOVE
+1.-Daje se saglasnost na Odluku Savjeta Javne ustanove "Gradska biblioteka i čitaonica Herceg Novi" br. 291 od 09.08.2017.godine o imenovanju Nevenke Mitrović za vršioca dužnosti direktora JU "Gradska biblioteka i čitaonica Herceg Novi".
+2.- Rješenje stupa na snagu danom donošenja a biće objavljena u "Službenom listu Crne Gore-opštinski propisi".
