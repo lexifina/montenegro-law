@@ -1,0 +1,2 @@
+# Član 1
+Daje se saglasnost na Odluke odbora direktora "Parking servis Herceg Novi" DOO Herceg Novi br. 03-1-324/17 od 09.08.2017. godine i br. 03-1-325/17 od 09.08.2017.godine o razrješenju vršioca dužnosti izvršnog direktora KONTIĆ BATRIĆA i imenovanju TOMAŠEVIĆ JADRANKA za vršioca dužnosti izvršnog direktora "Parking servis Herceg Novi" DOO Herceg Novi do izbora izvršnog direktora u skladu sa zakonom.

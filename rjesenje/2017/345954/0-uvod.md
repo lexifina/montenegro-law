@@ -1,0 +1,4 @@
+Na osnovu člana 36 stav 1 tačka 25 Statuta Opštine Herceg Novi ("Službeni list RCG - opštinski propisi", br. 15/04, 32/05, 31/06, 14/07, "Službeni list Crne Gore - opštinski propisi", br. 16/09, 16/11), Skupština opštine Herceg Novi na sjednici održanoj 11.10. 2017.godine, donijela je
+RJEŠENJE
+O DAVANJU SAGLASNOSTI NA ODLUKE ODBORA DIREKTORA "PARKING SERVIS HERCEG NOVI" DOO
+HERCEG NOVI BROJ: 03-1-324/17 OD 09.08.2017. GODINE I BROJ: : 03-1-325/17 OD 09.08.2017.GODINE O RAZRJEŠENJU VRŠIOCA DUŽNOSTI IZVRŠNOG DIREKTORA I IMENOVANJU VRŠIOCA DUŽNOSTI IZVRŠNOG DIREKTORA "PARKING SERVIS HERCEG NOVI" D.O.O. HERCEG NOVI
