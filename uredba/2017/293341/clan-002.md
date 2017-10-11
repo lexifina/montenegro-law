@@ -1,0 +1,7 @@
+# Član 2
+Doživotna mjesečna naknada vrhunskog sportiste u skladu sa Zakonom o sportu (u daljem tekstu: Zakon), iznosi:
+1) dvije prosječne mjesečne neto zarade u Crnoj Gori za ostvareno prvo mjesto na Olimpijskim igrama, Paraolimpijskim igrama, jedinom zvaničnom svjetskom ili evropskom seniorskom prvenstvu u određenom sportu, koji je na programu Olimpijskih igara ili Paraolimpijskih igara;
+2) jednu i po prosječnu mjesečnu neto zaradu u Crnoj Gori za ostvareno drugo i treće mjesto na Olimpijskim igrama, Paraolimpijskim igrama, jedinom zvaničnom svjetskom seniorskom prvenstvu ili drugo mjesto na jedinom zvaničnom evropskom seniorskom prvenstvu u određenom sportu, koji je na programu Olimpijskih igara ili Paraolimpijskih igara;
+3) jednu prosječnu mjesečnu neto zaradu u Crnoj Gori za ostvareno treće mjesto na jedinom zvaničnom evropskom seniorskom prvenstvu u određenom sportu, koji je na programu Olimpijskih igara ili Paraolimpijskih igara.
+Selektoru seniorske reprezentacije Crne Gore u ekipnom sportu, koja je ostvarila rezultat iz člana 24 stav 1 Zakona, visina doživotne mjesečne naknade određuje se zavisno od toga kakve je rezultate ostvarila ekipa u skladu sa stavom 1 ovog člana.
+Crnogorskom državljaninu koji je izabran za sportistu godine na osnovu rezultata ostvarenog u određenom sportu koji je na programu Olimpijskih igara ili Paraolimpijskih igara, a kome nije utvrđen status vrhunskog sportiste, visina doživotne mjesečne naknade iznosi jednu polovinu prosječne mjesečne neto zarade u Crnoj Gori.
