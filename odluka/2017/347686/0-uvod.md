@@ -1,0 +1,2 @@
+Na osnovu čl. 6, 12 i 13 Zakona o komunalnim djelatnostima ("Sl. list RCG", broj 12/95) člana 32 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 3/10, 10/14, 57/14 i 3/16) i člana 32. Statuta Opštine Petnjica ("Službeni list CG -Opštinski propisi", br. 3/14, 2/15 i 41/15), Skupština opštine Petnjica, na sjednici održanoj 20.09.2017. godine, donijela je
+ODLUKU O PIJACAMA
