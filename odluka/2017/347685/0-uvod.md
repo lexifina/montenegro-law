@@ -1,0 +1,2 @@
+Na osnovu člana 6. i člana 39. stav 2. Zakona o državnoj imovini ("Sl.list CG" br.21/09), člana 29. Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl.list CG", broj 44/10), kao i člana 16 stav 2 i člana 30. Statuta Opštine Kotor ("SL.list Opštine Kotor" br.3/04; "Sl.lst CG - Opštinski propisi" br.17/08), Skupština Opštine Kotor na XI sjednici održanoj 25. 09. 2017.godine, donosi sledeću:
+O D L U K U
