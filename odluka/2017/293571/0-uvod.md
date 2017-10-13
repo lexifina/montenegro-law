@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list RCG" br. 42/03,28/04, 75/05, 13/06 i "Službeni list CG" br. 88/09, 3/10, 73/10, 38/12, 10/14, 57/14 i 3/16), člana 32 stav 1 tačka 44 Statuta opštine Petnjica ("Službeni list CG - opštinski propisi" br. 3/14, 2/15 i 41/15) i članova 10 i 13 Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalne djelatnosti " Petnjica ("Službeni list CG - opštinski propisi" br. 30/15), Skupština opštine Petnjica, na sjednici održanoj dana 20.09.2017. godine, donijela je
+O D L U K U
