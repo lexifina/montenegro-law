@@ -1,0 +1,4 @@
+# Član 5
+(1) U objektima u kojima su smještene životinje koristi se automatska i mehanička oprema koja se provjerava najmanje jednom dnevno, a ako se otkriju kvarovi, otklanjaju se odmah ili se preduzimaju mjere, radi zaštite zdravlja i dobrobiti životinja dok se kvar ne otkloni.
+(2) Objekat u kojem su smještene životinje koji se vještački provjetrava treba da ima i rezervni sistem provjetravanja, koji je do otklanjanja kvara na glavnom sistemu dovoljan za očuvanje zdravlja i dobrobiti životinja, kao i alarmni sistem koji upozorava lice koje se brine o životinjama o kvaru u sistemu za provjetravanje i koji treba da se redovno održava i provjerava u skladu sa uputstvom proizvođača.
+(3) Električna oprema i električne instalacije treba da budu postavljene na način da se spriječi povređivanje životinja.
