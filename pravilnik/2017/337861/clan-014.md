@@ -1,0 +1,3 @@
+# Član 14
+## Pretpostavka usaglašenosti na osnovu nacionalnih standarda
+Ako standardi iz člana 12 ovog pravilnika nijesu doneseni i objavljeni ili međunarodni standardi iz člana 13 ovog pravilnika nijesu objavljeni, za potrebe isporuke na tržište iz člana 4 ili slobodnog prometa iz člana 5 ovog pravilnika, smatra se da je električna oprema usaglašena sa ciljevima bezbjednosti iz člana 4 i Priloga 1 ovog pravilnika ako je proizvedena u skladu sa bezbjednosnim odredbama važećih nacionalnih standarda u zemlji članici EU gdje je oprema proizvedena, ako je obezbijenđen nivo bezbjednosti jednak nivou koji se zahtijeva u Crnoj Gori.

@@ -1,0 +1,3 @@
+# Član 5
+## Slobodan promet
+Električna oprema koja ispunjava zahtjeve utvrđene ovim pravilnikom, može da se isporučuje se na tržište bez ograničenja.
