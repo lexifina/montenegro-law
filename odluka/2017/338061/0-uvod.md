@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tačka 3 Ustava Crne Gore i čl. 36 i 44a Zakona o manjinskim pravima i slobodama ("Službeni list RCG", br. 31/06, 51/06 i 38/07 i "Službeni list CG", br. 2/11 i 31/17), Skupština Crne Gore 26. saziva, na Drugoj sjednici Drugog redovnog (jesenjeg) zasijedanja u 2017. godini, dana 16. oktobra 2017. godine, donijela je
+ODLUKU O IZMJENAMA I DOPUNI ODLUKE O OSNIVANJU FONDA ZA ZAŠTITU I OSTVARIVANJE MANJINSKIH PRAVA
