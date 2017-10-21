@@ -1,0 +1,2 @@
+Na osnovu člana 13 stav 1 Zakona o komunalnim djelatnostima ("Sl.list RCG", broj 12/95), člana 2 stav 1 i 3 Odluke o javnim parkiralištima na području opštine Tivat ("Sl. list Crne Gore - opštinski propisi", br. 26/14, 15/15 i 28/16) i člana 31 stav 1 tačka 25 Statuta opštine Tivat ("Sl. list RCG - opštinski propisi", broj 40/04 i 26/06 i "Sl.list CG - opštinski propisi", br. 12/11, 21/11 i 03/13), Skupština Opštine Tivat, na sjednici održanoj 02.10. 2017 godine, donijela je
+O D L U K U
