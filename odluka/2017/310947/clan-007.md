@@ -1,0 +1,3 @@
+# Član 7
+Cijena zakupa poslovnog prostora ili njegovog dijela koji ne zadovoljava tehničke standarde, odnosno koji ima nedostatke (građevinske, hidroizolacione, nedostatke kod hidrotehničkih i elektroinstalacija i sl.), koji onemogućavaju ili otežavaju njegovo nesmetano korišćenje, može se umanjiti u procentu koji bude utvrđen u postupku predviđenim ovim članom.
+Odluku o umanjenju iz stava 1 ovog člana donosi posebna Komisija koju predlaže Direkcija za imovinu, na osnovu prethodnog izvještaja stručne komisije koju predlaže Direkcija za investicije. Predlog posebne Komsije iz stava 2 ovog člana sadrži stepen i strukturu nedostataka sa procjenom njihove vrijednosti, mogućnost otklanjanja, predloženi procenat umanjenja i rok za koji se predlaže umanjenje.
