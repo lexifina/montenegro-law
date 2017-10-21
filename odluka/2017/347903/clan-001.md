@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom utvrđuju su akustičke zone na teritoriji Opštine Tivat i lokacije koje su namijenjene za održavanje javnih skupova, zabavnih i sportskih priredbi i drugih aktivnosti na otvorenom prostoru, koji mogu dovesti do prekoračenja graničnih vrijednosti buke, u skladu sa postojećom i planiranom namjenom područja, granične vrijednosti nivoa buke procijenjene u skladu sa izvorima buke koji se nalaze ili mogu nalaziti u određenoj zoni i njenoj neposrednoj blizini i sprovođenje mjera zaštite i primjene graničnih vrijednosti buke.
