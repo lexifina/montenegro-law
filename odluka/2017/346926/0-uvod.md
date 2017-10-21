@@ -1,0 +1,4 @@
+Na osnovu čl. 47 st.3. i člana 49 Zakona o uređenju prostora i izgradnji objekata ("Sl.list CG" broj 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13, 33/14), člana 45 Zakona o lokalnoj samoupravi ("Sl.list RCG" broj 42/03, 28/04, 75/05, 13/06 i "Sl.list CG" broj 88/09, 3/10, 73/10, 38/12, 10/14, 57/14 i 3/16), člana 31 Statuta Opštine Tivat (''Službeni list Republike Crne Gore - opštinski propisi'' broj 40/04 i 26/06, "Sl.list Crne Gore -opštinski propisi", broj 12/11, 21/11, 3/13), Odluke o pristupanju izradi Izmjena i dopuna DUP-a "Gradiošnica" za lokaciju proizvodno komunalnih površina sa programskim zadatkom ("Sl.list CG-opštinski propisi" broj 12/16) i saglasnosti Ministarstva održivog razvoja i turizma, Direktorat za planiranje prostora,
+Podgorica, broj 104-1520/19 od 11.09.2017.godine, Skupština opštine Tivat, na sjednici održanoj dana
+02.10.2017. godine, donijela je
+O D L U K U
