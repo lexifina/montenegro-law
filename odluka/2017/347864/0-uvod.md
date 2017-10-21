@@ -1,0 +1,2 @@
+Na osnovu člana 21 stav 4 Zakona o zaradama zaposlenih u javnom sektoru ("Sl.list CG", br. 16/16, 83/16, 21/17, 42/17) i člana 56 Statuta Opštine Tivat ("Sl.list Republike Crne Gore - opštinski propisi", br. 40/04, 26/06 i "Sl.list Crne Gore - opštinski propisi", br. 12/11, 21/11, 03/13) , po prethodno pribavljenom Mišljenju Ministarstva finansija uz saglasnost Vlade Crne Gore br. 07-2538 od 31.08.2017. godine, dana 02.10.2017 godine, Skupstina Opstine Tivat donijela je
+ODLUKU
