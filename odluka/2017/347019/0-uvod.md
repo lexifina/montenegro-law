@@ -1,0 +1,3 @@
+Na osnovu člana 31 i 53a Zakona o uređenju prostora i izgradnji objekata, ("Sl.list CG" 51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14), člana 3 Uredbe o proceduri izrade i donošenja planskog dokumenta po skraćenom postupku ("Službeni list CG" br 40/13), Dopune programa uređenja prostora Opštine Tivat za 2017.godinu ("Sl.list CG"-opštinski propisi 12/17 i 28/17), člana 6 Sporazuma o izradi izmjena i dopuna DUP-a "Golf i Donji Radovići zapad" broj 0909-350-520/15 od 22.08.2017.godine i člana 56 Statuta Opštine Tivat, "Sl.list RCG"-opštinski propisi broj 40/04, 26/06 i "Sl.list CG"-opštinski propisi 12/11, 21/11 i 03/13, Predsjednica Opštine Tivat donosi
+O D L U K U
+o pristupanju izradi Izmjena i dopuna Detaljnog urbanističkog plana
