@@ -1,0 +1,2 @@
+Na osnovu člana 31 i 53 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14) i člana 58 Statuta Opštine Danilovgrad (’’Službeni list RCG - opštinski propisi’’, br.30/04 i ’’Službeni list CG - opštinski propisi" br. 19/08 i 12/11), Predsjednik Opštine Danilovgrad, donio je
+O D L U K U O IZMJENI ODLUKE O IZRADI IZMJENA I DOPUNA PROSTORNO URBANISTIČKOG PLANA OPŠTINE DANILOVGRAD U DIJELU GUR-A DANILOVGRADA I GUR-A SPUŽA U DANILOVGRADU
