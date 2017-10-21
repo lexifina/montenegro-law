@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list RCG", broj 42/03, 28/04, 75/05, 13/06 i "Sl.list CG", broj 88/09, 03/10, 73/10, 38/12, 10/14, 57/14 i 03/16), člana 29 stav 2 Zakona o državnoj imovini ("Sl.list CG", br. 21/09 i 40/11) i člana 31 stav 1 tačka 9 Statuta Opštine Tivat ("Sl. list RCG - opštinski propisi", broj 40/04 i 26/06 i "Sl.list CG - opštinski propisi", broj 12/11, 21/11 i 03/13), Skupština opštine Tivat, na sjednici održanoj 02.10.2017 godine, donijela je
+O D L U K U
