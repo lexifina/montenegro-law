@@ -1,0 +1,2 @@
+# Član 7
+Zaposleni sa kojim je potpisan Sporazum o raskidu radnog odnosa uz isplatu otpremnine iz člana 6 ove Odluke, ne može zasnovati radni odnos u organima i službama Opštine Kotor, državnim organima, kao ni u javnim ustanovama i preduzećima čiji je osnivač Država Crna Gora ili Opština Kotor u periodu od 5 godina od dana isplate otpremnine, osim ukoliko jednokratno vrati čitav iznos primljene otpremnine.
