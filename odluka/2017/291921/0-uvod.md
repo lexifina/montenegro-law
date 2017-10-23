@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Sl. list RCG"br. 42/2003,28/2004,75/2005,13/2006 i "Sl. list CG" br.88/2009, 03/2010,38/2012, 10/2014, 57/2014 i 3/2016) čl. 61 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br.42/2003, 44/2003, i "Sl. list CG", br. 05/2008, 51/2008, 74/2010, 1/2015, 3/2016 i 30/2017), i čl. 21, čl. 34 stav 1 tačka 16 i člana 42 stav 3 Statuta opštine Pljevlja ("Sl. list CG - Opštinski propisi", br. 14/11), Skupština opštine Pljevlja na sjednici održanoj dana 16.10.2017.godine, donijela je:
+ODLUKU
