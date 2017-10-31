@@ -1,0 +1,2 @@
+# Član 3
+Ciljevi i zadaci radi kojih se osniva OK "Budva" su: obavljanje sportske odbojkaške djelatnosti koja obuhvata obučavanje, treninge, rekreativne aktivnosti, odbojkaška takmičenja i odbojkaške manifestacije, kao i promovisanje odbojke kod djece i omladine u cilju unapređivanja i razvoja njihovih psihofizičkih sposobnosti, sportskih znanja, umjeća i postizanja sportskih rezultata na svim nivoima.
