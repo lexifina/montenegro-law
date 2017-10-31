@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o regulisanju drumskog saobraćaja ("Sl. list RCG - opštinski propisi", br. 22/07, 27/07, "Sl. list CG - opštinski propisi", br. 06/07, 26/08, 05/10, 37/11, 21/13, 36/13, 17/15, 24/15, 27/16, 32/16) u čl. 5, 12, 21, 29 i 30 riječi: "Sekretarijat za stambeno - komunalne poslove i zaštitu životne sredine Opštine Herceg Novi" u različitom padežu zamjenjuju se riječima "Sekretarijat nadležan za poslove saobraćaja Opštine Herceg Novi" u odgovarajućem padežu.
