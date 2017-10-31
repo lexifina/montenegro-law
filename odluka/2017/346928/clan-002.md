@@ -1,0 +1,3 @@
+# Član 2
+Član 2 mjenja se i glasi:
+" Skupština opštine Herceg Novi daje saglasnost na zaključenje Ugovora o preuzimanju ispunjenja po sudskom poravnanju Rs. br. 96/12 od 29.11.2012. godine, između Opštine Herceg Novi kao dužnika i D.O.O. " Vodovod i kanalizacija" Herceg Novi kao preuzimaoca ispunjenja, na period od 01.09.2017. godine do 01.03.2020. godine, na način, da se novčani iznos od 25.000,00 € mjesečno, uplaćuje od strane D.O.O. " Vodovod i kanalizacija" Herceg Novi na žiro račun Opštine Herceg Novi, najkasnije do 15-og u tekućem mjesecu za prethodni mjesec, koji iznos Opština Herceg Novi, kao izvršni dužnik potom uplaćuje Općini Konavle kao izvršnom povjeriocu".
