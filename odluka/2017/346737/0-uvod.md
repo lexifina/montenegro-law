@@ -1,0 +1,3 @@
+Na osnovu člana 3. stav 5. tač.3 Uredbe o izmjenama Uredbe o bližim kriterijumima i metodologiji za određivanje tržišne vrijednosti nepokretnosti ("Službeni list CG", broj 36/11, 66/15) člana 33 tačka 3 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG", br. 88/09, 03/10. 73/10 i 38/12) i člana 40 Statuta Opštine Budva (" Službeni list CG - opštinski propisi" broj 19/10) Skupština Opštine Budva, na sjednici održanoj dana 11. oktobra 2017. godine, donijela je
+ODLUKU
+O PROSJEČNOJ CIJENI GRAĐEVINSKOG, POLJOPRIVREDNOG, ŠUMSKOG I OSTALOG ZEMLJIŠTA ZA
