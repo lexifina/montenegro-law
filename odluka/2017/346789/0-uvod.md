@@ -1,0 +1,3 @@
+Na osnovu člana 117 stav 2 i 3 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14), člana 113, 114 i 115 Zakona o opštem upravnom postupku, člana 1 i 2 Odluke o osnivanju Društva sa ograničenom odgovornošću "Mediteran reklame" Budva ("Službeni list CG - Opštinski propisi", br. 33/13) i člana 40 Statuta opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10), Skupština opštine Budva, na sjednici održanoj dana 11. oktobra 2017.godine, donijela je
+ODLUKU
+o izmjenama i dopunama Odluke o uslovima i načinu postavljanja i uklanjanja privremenih objekata u reklamnom
