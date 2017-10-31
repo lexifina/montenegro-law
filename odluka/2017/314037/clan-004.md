@@ -1,0 +1,2940 @@
+# Član 4
+Sredstva budžeta po organizacionoj, ekonomskoj i funkcionalnoj klasifikaciji planirana su i izvršena u sljedećim
+iznosima:
+Organiza ciona šifra
+Ekono
+mska šifra
+Funkcio
+nalna šifra
+Naziv
+Plan
+Izvršenje
+%
+011
+PREDSJEDNIK I KABINET
+783,306.
+68
+1,023,326.02
+13
+0.64
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+313,306.
+68
+299,857.11
+95
+.71
+4111
+0111
+Neto zarade
+185,000.
+00
+176,865.23
+95
+.60
+4112
+0111
+Porez na zarade
+27,858.5
+5
+26,159.71
+93
+.90
+4113
+0111
+Doprinosi na teret zaposlenog
+66,358.5
+3
+64,116.43
+96
+.62
+4114
+0111
+Doprinosi na teret poslodavca
+31,323.0
+1
+30,098.83
+96
+.09
+4115
+0111
+Opštinski prirez
+2,766.59
+2,616.91
+94
+.59
+412
+OSTALA LIČNA PRIMANJA
+24,000.0
+0
+17,746.82
+73
+.95
+4127
+0111
+Ostale naknade
+24,000.0
+0
+17,746.82
+73
+.95
+414
+RASHODI ZA USLUGE
+140,000.
+00
+70,902.66
+50
+.64
+4141
+0111
+Rashodi za službena putovanja
+25,000.0
+0
+21,046.44
+84
+.19
+4142
+0111
+Rashodi za reprezentaciju
+50,000.0
+0
+6,112.45
+12
+.22
+4149
+0111
+Ostale usluge
+65,000.0
+0
+43,743.77
+67
+.30
+419
+OSTALI IZDACI
+23,000.0
+0
+21,208.11
+92
+.21
+4191
+0111
+Izdaci po osnovu isplate ugovora
+o djelu
+23,000.0
+0
+21,208.11
+92
+.21
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+283,000.
+00
+613,611.32
+21
+6.82
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+283,000.
+00
+613,611.32
+21
+6.82
+012
+SLUŽBA
+GLAVNOG
+ADMINISTRATORA
+119,167.
+68
+106,999.79
+89
+.79
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+103,667.
+68
+97,376.57
+93
+.93
+4111
+0111
+Neto zarade
+60,000.0
+0
+57,310.69
+95
+.52
+4112
+0111
+Porez na zarade
+8,850.62
+8,628.37
+97
+.49
+4113
+0111
+Doprinosi na teret zaposlenog
+23,990.2
+3
+20,823.63
+86
+.80
+4114
+0111
+Doprinosi na teret poslodavca
+9,926.83
+9,750.78
+.23
+4115
+0111
+Opštinski prirez
+900.00
+863.10
+95
+.90
+412
+OSTALA LIČNA PRIMANJA
+2,000.00
+1,995.30
+99
+.77
+4127
+0111
+Ostale naknade
+2,000.00
+1,995.30
+99
+.77
+414
+RASHODI ZA USLUGE
+6,000.00
+189.00
+3.
+15
+4141
+0111
+Rashodi za službena putovanja
+2,000.00
+189.00
+9.
+45
+4142
+0111
+Rashodi za reprezentaciju
+2,000.00
+0.
+00
+4149
+0111
+Ostale usluge
+2,000.00
+0.
+00
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+7,500.00
+7,438.92
+99
+.19
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+7,500.00
+7,438.92
+99
+.19
+013
+SLUŽBA SKUPŠTINE
+807,294.
+89
+690,466.27
+85
+.53
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+106,785.
+76
+104,587.63
+97
+.94
+4111
+0111
+Neto zarade
+63,296.9
+9
+61,686.04
+97
+.45
+4112
+0111
+Porez na zarade
+9,325.97
+9,154.44
+98
+.16
+4113
+0111
+Doprinosi na teret zaposlenog
+22,602.8
+5
+22,371.66
+98
+.98
+4114
+0111
+Doprinosi na teret poslodavca
+10,547.1
+3
+10,459.77
+99
+.17
+4115
+0111
+Opštinski prirez
+1,012.82
+915.72
+90
+.41
+412
+OSTALA LIČNA PRIMANJA
+174,308.
+36
+153,209.18
+87
+.90
+4126
+0111
+Naknade
+skupštinskim
+odbornicima
+171,808.
+36
+150,881.33
+87
+.82
+4127
+0111
+Ostale naknade ( skupstinske
+komisije)
+2,500.00
+2,327.85
+93
+.11
+414
+RASHODI ZA USLUGE
+5,453.00
+4,953.00
+90
+.83
+4141
+0111
+Rashodi za službena putovanja
+500.00
+0.
+00
+4142
+0111
+Rashodi za reprezentaciju
+4,953.00
+4,953.00
+10
+0.00
+4149
+0111
+Ostale usluge
+0.00
+417
+RENTA
+60,000.0
+0
+22,596.29
+37
+.66
+4171
+0111
+Zakup objekata
+60,000.0
+0
+22,596.29
+37
+.66
+419
+OSTALI IZDACI
+6,300.00
+5,718.43
+90
+.77
+4191
+0111
+Izdaci po osnovu isplate ugovora
+o djelu
+6,300.00
+5,718.43
+90
+.77
+431
+TRANSFERI INSTITUCIJAMA,
+POJEDINCIMA, NEVLADINOM I
+JAVNOM SEKTORU
+315,916.
+00
+254,437.02
+80
+.54
+43151
+0111
+Transferi političkim partijama -
+redovno finansiranje
+245,916.
+00
+184,437.02
+75
+.00
+43152
+0111
+Transferi političkim partijama -
+70,000.0
+70,000.00
+izbori 2016
+0.00
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+138,531.
+77
+144,964.72
+10
+4.64
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+138,531.
+77
+144,964.72
+10
+4.64
+014
+SLUŽBA
+ZA
+JAVNE
+NABAVKE
+84,055.0
+1
+79,709.63
+94
+.83
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+64,350.0
+0
+63,317.33
+98
+.40
+4111
+0111
+Neto zarade
+37,300.0
+0
+37,246.48
+99
+.86
+4112
+0111
+Porez na zarade
+6,000.00
+5,680.74
+94
+.68
+4113
+0111
+Doprinosi na teret zaposlenog
+13,600.0
+0
+13,556.61
+99
+.68
+4114
+0111
+Doprinosi na teret poslodavca
+6,800.00
+6,265.22
+92
+.14
+4115
+0111
+Opštinski prirez
+650.00
+568.28
+87
+.43
+412
+OSTALA LIČNA PRIMANJA
+12,000.0
+0
+9,098.83
+75
+.82
+4127
+0111
+Ostale naknade
+12,000.0
+0
+9,098.83
+75
+.82
+414
+RASHODI ZA USLUGE
+1,030.00
+618.80
+60
+.08
+4141
+0111
+Rashodi za službena putovanja
+0.00
+4142
+0111
+Rashodi za reprezentaciju
+30.00
+0.
+00
+4149
+0111
+Ostale usluge
+1,000.00
+618.80
+61
+.88
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+6,675.01
+6,674.67
+99
+.99
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+6,675.01
+6,674.67
+99
+.99
+015
+KANCELARIJA ZA BORBU
+PROTIV KORUPCIJE
+51,402.3
+4
+48,846.20
+95
+.03
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+43,650.0
+0
+43,445.41
+99
+.53
+4111
+0111
+Neto zarade
+25,750.0
+0
+25,658.72
+99
+.65
+4112
+0111
+Porez na zarade
+3,720.00
+3,716.06
+99
+.89
+4113
+0111
+Doprinosi na teret zaposlenog
+9,350.00
+9,276.69
+99
+.22
+4114
+0111
+Doprinosi na teret poslodavca
+4,450.00
+4,422.18
+99
+.37
+4115
+0111
+Opštinski prirez
+380.00
+371.76
+97
+.83
+412
+OSTALA LIČNA PRIMANJA
+3,000.00
+2,140.20
+71
+.34
+4127
+0111
+Ostale naknade
+3,000.00
+2,140.20
+71
+.34
+414
+RASHODI ZA USLUGE
+2,005.00
+518.14
+25
+.84
+4141
+0111
+Rashodi za službena putovanja
+700.00
+518.14
+74
+.02
+4142
+0111
+Rashodi za reprezentaciju
+480.00
+0.
+00
+4149
+0111
+Ostale usluge
+825.00
+0.
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+2,747.34
+2,742.45
+99
+.82
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+2,747.34
+2,742.45
+99
+.82
+021
+SEKRETARIJAT
+ZA
+ZAŠTITU IMOVINE
+252,150.
+96
+267,417.25
+10
+6.05
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+146,270.
+96
+144,318.94
+98
+.67
+4111
+0330
+Neto zarade
+86,360.5
+9
+85,237.14
+98
+.70
+4112
+0330
+Porez na zarade
+12,680.9
+6
+12,324.70
+97
+.19
+4113
+0330
+Doprinosi na teret zaposlenog
+31,140.7
+9
+30,810.59
+98
+.94
+4114
+0330
+Doprinosi na teret poslodavca
+14,718.0
+8
+14,713.48
+99
+.97
+4115
+0330
+Opštinski prirez
+1,370.54
+1,233.03
+89
+.97
+412
+OSTALA LIČNA PRIMANJA
+13,180.0
+0
+10,837.55
+82
+.23
+4127
+0330
+Ostale naknade
+13,180.0
+0
+10,837.55
+82
+.23
+414
+RASHODI ZA USLUGE
+7,500.00
+4,417.34
+58
+.90
+4141
+0330
+Rashodi za službena putovanja
+0.00
+4142
+0330
+Rashodi za reprezentaciju
+0.00
+4146
+0330
+Advokatske, notarske i pravne
+usluge
+7,500.00
+4,417.34
+58
+.90
+419
+OSTALI IZDACI
+5,200.00
+5,146.64
+98
+.97
+4191
+0330
+Izdaci po osnovu isplate ugovora
+o djelu
+5,200.00
+5,146.64
+98
+.97
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+80,000.0
+0
+102,696.78
+12
+8.37
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+80,000.0
+0
+102,696.78
+12
+8.37
+031
+SEKRETARIJAT
+ZA
+LOKALNU SAMOUPRAVU
+1,689,59
+0.56
+1,244,660.99
+73
+.67
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+393,459.
+79
+392,646.28
+99
+.79
+4111
+0160
+Neto zarade
+232,863.
+00
+232,383.90
+99
+.79
+4112
+0160
+Porez na zarade
+32,630.0
+0
+32,564.50
+99
+.80
+4113
+0160
+Doprinosi na teret zaposlenog
+83,956.9
+0
+83,673.43
+99
+.66
+4114
+0160
+Doprinosi na teret poslodavca
+40,749.8
+9
+40,766.30
+10
+0.04
+4115
+0160
+Opštinski prirez
+3,260.00
+3,258.15
+99
+.94
+412
+OSTALA LIČNA PRIMANJA
+75,000.0
+0
+71,975.54
+95
+.97
+4127
+0160
+Ostale naknade
+75,000.0
+0
+71,975.54
+95
+.97
+413
+RASHODI ZA MATERIJAL
+118,697.
+00
+73,374.63
+61
+.82
+4131
+0160
+Administrativni materijal
+50,000.0
+0
+35,852.94
+71
+.71
+4133
+0160
+Materijal za posebne namjene
+5,000.00
+1,833.75
+.68
+4134
+0160
+Rashodi za energiju
+42,697.0
+0
+17,327.80
+40
+.58
+4135
+0160
+Rashodi za gorivo
+21,000.0
+0
+18,360.14
+87
+.43
+414
+RASHODI ZA USLUGE
+224,000.
+00
+125,207.52
+55
+.90
+4141
+0160
+Rashodi za službena putovanja
+0.00
+4142
+0160
+Rashodi za reprezentaciju
+1,000.00
+0.
+00
+4143
+0160
+Komunikacione usluge
+151,500.
+00
+88,983.72
+58
+.74
+4148
+0160
+Usluge strucnog usavrsavanja
+11,500.0
+0
+8,458.25
+73
+.55
+4149
+0160
+Ostale usluge
+60,000.0
+0
+27,765.55
+46
+.28
+415
+TEKUĆE ODRŽAVANJE
+9,000.00
+5,518.19
+61
+.31
+4152
+0160
+Tekuće održavanje građevinskih
+objekata
+1,000.00
+511.70
+51
+.17
+4153
+0160
+Tekuće održavanje opreme
+8,000.00
+5,006.49
+62
+.58
+417
+RENTA
+63,000.0
+0
+29,988.00
+47
+.60
+4171
+0160
+Zakup objekata
+63,000.0
+0
+29,988.00
+47
+.60
+419
+OSTALI IZDACI
+23,500.0
+0
+18,713.31
+79
+.63
+4191
+0160
+Izdaci po osnovu isplate ugovora
+o djelu
+15,000.0
+0
+13,390.61
+89
+.27
+4194
+0160
+Osiguranje
+3,000.00
+0.
+00
+4199
+0160
+Ostalo
+5,500.00
+5,322.70
+96
+.78
+431
+Transferi
+institucijama,
+pojedincima, nevladinom i javnom
+sektoru
+25,000.0
+0
+16,317.79
+65
+.27
+431911
+0160
+Transferi Mjesnim zajednicama,
+25,000.0
+0
+16,317.79
+65
+.27
+441
+KAPITALNI IZDACI
+305,000.
+00
+1,193.00
+0.
+39
+4415
+0160
+Izdaci za opremu
+255,000.
+00
+1,193.00
+0.
+47
+4416
+0160
+Investiciono održavanje
+50,000.0
+0
+0.
+00
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+452,933.
+77
+509,726.73
+11
+2.54
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+452,933.
+77
+509,726.73
+11
+2.54
+032
+SEKRETARIJAT
+ZA
+DRUŠTVENE DJELATNOSTI
+6,603,96
+8.53
+6,109,749.08
+92
+.52
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+184,886.
+40
+184,737.32
+99
+.92
+4111
+0160
+Neto zarade
+109,232.
+52
+109,099.14
+99
+.88
+4112
+0160
+Porez na zarade
+15,777.7
+1
+15,776.32
+99
+.99
+4113
+0160
+Doprinosi na teret zaposlenog
+39,441.9
+5
+39,436.62
+99
+.99
+4114
+0160
+Doprinosi na teret poslodavca
+18,834.2
+2
+18,846.95
+10
+0.07
+4115
+0160
+Opštinski prirez
+1,600.00
+1,578.29
+.64
+412
+OSTALA LIČNA PRIMANJA
+20,000.0
+0
+16,736.55
+83
+.68
+4127
+0160
+Ostale naknade
+20,000.0
+0
+16,736.55
+83
+.68
+414
+RASHODI ZA USLUGE
+6,000.00
+2,490.00
+41
+.50
+4141
+0160
+Rashodi za službena putovanja
+500.00
+0.
+00
+4142
+0160
+Rashodi za reprezentaciju
+500.00
+0.
+00
+4149
+0160
+Ostale usluge
+5,000.00
+2,490.00
+49
+.80
+419
+OSTALI IZDACI
+10,000.0
+0
+9,061.98
+90
+.62
+4191
+0160
+Izdaci po osnovu isplate ugovora
+o djelu
+10,000.0
+0
+9,061.98
+90
+.62
+421
+TRANSFERI ZA SOCIJALNU
+ZAŠTITU
+26,000.0
+0
+21,636.00
+83
+.22
+4215
+1090
+Tuđa njega i pomoć
+26,000.0
+0
+21,636.00
+83
+.22
+431
+Transferi
+institucijama,
+pojedincima, nevladinom i javnom
+sektoru
+5,647,71
+5.92
+5,233,126.02
+92
+.66
+4311
+0760
+Transferi za zdravstvenu zaštitu
+30,000.0
+0
+0.
+00
+4312
+0970
+Transferi obrazovanju
+26,900.0
+0
+26,878.00
+99
+.92
+43131
+0820
+Transferi institucijama sporta
+553,207.
+30
+525,010.33
+94
+.90
+43132
+0820
+Transferi institucijama kulture
+320,000.
+00
+205,000.00
+64
+.06
+4316
+1090
+Jednokratne socijalne pomoći
+23,300.0
+0
+22,900.00
+98
+.28
+4318
+0970
+Ostai transferi pojedincima
+56,000.0
+0
+39,740.00
+70
+.96
+431912
+0830
+Transferi RTV Budva
+716,617.
+60
+713,494.02
+99
+.56
+431913
+0810
+Transferi Mediteranki Sportski
+Centar d.o.o.
+450,000.
+00
+421,091.61
+93
+.58
+431914
+0810
+Transferi Sportsko Rekreativni
+Centar "BUDVA"
+700,000.
+00
+635,971.46
+90
+.85
+431915
+0820
+Transferi JU Grad Teatar
+980,000.
+00
+884,807.16
+90
+.29
+431916
+0820
+Transferi JU Biblioteka grada
+Budve
+300,000.
+00
+277,921.43
+92
+.64
+431917
+0820
+Transferi JU Muzeji i Galerije
+Budve
+1,006,69
+1.02
+1,005,742.43
+99
+.91
+431918
+0840
+Transferi Crvenom krstu
+75,000.0
+0
+66,000.00
+88
+.00
+431919
+0820
+Transferi ostalo
+410,000.
+00
+408,569.58
+99
+.65
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+709,366.
+21
+641,961.21
+90
+.50
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+709,366.
+21
+641,961.21
+90
+.50
+041
+SEKRETARIJAT
+ZA
+PRIVREDU I FINANSIJE
+5,333,16
+9.55
+5,338,997.56
+10
+0.11
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+639,021.
+47
+635,002.92
+99
+.37
+4111
+0112
+Neto zarade
+376,862.
+53
+375,145.21
+.54
+4112
+0112
+Porez na zarade
+54,628.9
+7
+54,024.88
+98
+.89
+4113
+0112
+Doprinosi na teret zaposlenog
+137,135.
+07
+135,535.65
+98
+.83
+4114
+0112
+Doprinosi na teret poslodavca
+64,894.9
+0
+64,892.56
+10
+0.00
+4115
+0112
+Opštinski prirez
+5,500.00
+5,404.62
+98
+.27
+412
+OSTALA LIČNA PRIMANJA
+37,900.0
+0
+36,859.97
+97
+.26
+4127
+0112
+Ostale naknade
+37,900.0
+0
+36,859.97
+97
+.26
+414
+RASHODI ZA USLUGE
+58,690.3
+6
+56,666.29
+96
+.55
+4141
+0112
+Rashodi za službena putovanja
+500.00
+326.96
+65
+.39
+4142
+0112
+Rashodi za reprezentaciju
+2,000.00
+315.55
+15
+.78
+4144
+0112
+Bankarske usluge i negativne
+kursne razlike
+49,190.3
+6
+49,182.64
+99
+.98
+4149
+0112
+Ostale usluge
+7,000.00
+6,841.14
+97
+.73
+416
+KAMATA
+190,000.
+00
+185,779.89
+97
+.78
+4161
+0112
+Kamate finansijskim institucijama
+190,000.
+00
+185,779.89
+97
+.78
+419
+OSTALI IZDACI
+84,000.0
+0
+74,413.88
+88
+.59
+4191
+0112
+Izdaci po osnovu isplate ugovora
+o djelu
+36,000.0
+0
+35,427.51
+98
+.41
+4193
+0112
+Izrada i odrzavanje softvera
+25,000.0
+0
+17,193.80
+68
+.78
+4199
+0112
+Ostalo
+23,000.0
+0
+21,792.57
+94
+.75
+422
+SREDSTVA
+ZA
+TEHNOLOŠKE VIŠKOVE
+100,000.
+00
+46,401.02
+46
+.40
+4222
+0112
+Otpremnine
+za
+tehnološke
+viškove
+100,000.
+00
+46,401.02
+46
+.40
+461
+OTPLATA DUGA
+1,154,58
+9.51
+1,010,292.28
+87
+.50
+4611
+0112
+Otplata hartija od vrijednosti i
+kredita rezidentima
+1,154,58
+9.51
+1,010,292.28
+87
+.50
+462
+OTPLATA
+GARANCIJA
+U
+ZEMLJI
+697,346.
+89
+664,486.23
+95
+.29
+4621
+0112
+Otplata garancija u zemlji
+697,346.
+89
+664,486.23
+95
+.29
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+2,146,62
+1.32
+2,458,665.34
+11
+4.54
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+2,146,62
+1.32
+2,458,665.34
+11
+4.54
+471
+TEKUĆA
+BUDŽETSKA
+REZERVA
+200,000.
+00
+170,429.74
+85
+.21
+4711
+0112
+Tekuća budžetska rezerva
+200,000.
+00
+170,429.74
+85
+.21
+472
+STALNA
+BUDŽETSKA
+REZERVA
+25,000.0
+0
+0.00
+0.
+00
+4721
+0112
+Stalna budžetska rezerva
+25,000.0
+0
+0.
+00
+051
+SEKRETARIJAT
+ZA
+INVESTICIJE
+I
+PLANIRANJE
+12,988,2
+12.73
+10,023,852.3
+9
+77
+.18
+PROSTORA
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+334,670.
+06
+330,302.49
+98
+.69
+4111
+0620
+Neto zarade
+198,450.
+06
+195,106.00
+98
+.31
+4112
+0620
+Porez na zarade
+29,000.0
+0
+28,196.04
+97
+.23
+4113
+0620
+Doprinosi na teret zaposlenog
+70,520.0
+0
+70,519.85
+10
+0.00
+4114
+0620
+Doprinosi na teret poslodavca
+33,700.0
+0
+33,660.07
+99
+.88
+4115
+0620
+Opštinski prirez
+3,000.00
+2,820.53
+94
+.02
+412
+OSTALA LIČNA PRIMANJA
+15,000.0
+0
+14,911.85
+99
+.41
+4127
+0620
+Ostale naknade
+15,000.0
+0
+14,911.85
+99
+.41
+414
+RASHODI ZA USLUGE
+8,000.00
+2,992.30
+37
+.40
+4141
+0620
+Rashodi za službena putovanja
+2,000.00
+1,509.99
+75
+.50
+4142
+0620
+Rashodi za reprezentaciju
+1,000.00
+617.04
+61
+.70
+4149
+0620
+Ostale usluge
+5,000.00
+865.27
+17
+.31
+416
+KAMATA
+244,780.
+00
+0.00
+0.
+00
+4161
+0620
+Kamata wte
+244,780.
+00
+0.
+00
+419
+OSTALI IZDACI
+8,900.00
+6,862.16
+77
+.10
+4191
+0620
+Izdaci po osnovu isplate ugovora
+o djelu
+6,900.00
+6,862.16
+99
+.45
+4193
+0620
+Izrada i odrzavanje softvera
+2,000.00
+0.
+00
+441
+KAPITALNI IZDACI
+5,974,00
+0.00
+1,726,476.85
+28
+.90
+4412
+0620
+Izdaci za lokalnu infrastrukturu
+3,424,00
+0.00
+1,246,215.14
+36
+.40
+4413
+0620
+Izdaci za građevinske objekte
+1,500,00
+0.00
+152,001.47
+10
+.13
+4414
+0620
+Izdaci za uredjenje zemljista
+50,000.0
+0
+0.
+00
+4419
+0620
+Ostali kapitalni izdaci
+1,000,00
+0.00
+328,260.24
+32
+.83
+461
+OTPLATA
+HARTIJA
+OD
+VRIJEDNOSTI
+I
+KREDITA
+REZIDENTIMA
+800,000.
+00
+0.00
+0.
+00
+4611
+0620
+Otplata duga
+800,000.
+00
+0.
+00
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+5,602,86
+2.67
+7,942,306.74
+14
+1.75
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+5,602,86
+2.67
+7,942,306.74
+14
+1.75
+052
+SEKRETARIJAT
+ZA
+GRADSKU INFRASTRUKTURU I
+AMBIJENT
+2,335,90
+0.43
+1,429,140.28
+61
+.18
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+193,240.
+00
+190,254.29
+98
+.45
+4111
+0620
+Neto zarade
+115,000.
+00
+112,444.83
+97
+.78
+4112
+0620
+Porez na zarade
+16,100.0
+0
+16,083.61
+.90
+4113
+0620
+Doprinosi na teret zaposlenog
+41,000.0
+0
+40,589.97
+99
+.00
+4114
+0620
+Doprinosi na teret poslodavca
+19,530.0
+0
+19,526.70
+99
+.98
+4115
+0620
+Opštinski prirez
+1,610.00
+1,609.18
+99
+.95
+412
+OSTALA LIČNA PRIMANJA
+14,600.0
+0
+14,592.27
+99
+.95
+4127
+0620
+Ostale naknade
+14,600.0
+0
+14,592.27
+99
+.95
+413
+RASHODI ZA MATERIJAL
+346,380.
+00
+209,833.23
+60
+.58
+41341
+0620
+Rashodi
+za
+energiju-
+javna
+rasveta
+346,380.
+00
+209,833.23
+60
+.58
+414
+RASHODI ZA USLUGE
+11,530.0
+0
+6,903.92
+59
+.88
+4141
+0620
+Rashodi za službena putovanja
+0.00
+4142
+0620
+Rashodi za reprezentaciju
+500.00
+0.
+00
+4149
+0620
+Ostale usluge
+11,030.0
+0
+6,903.92
+62
+.59
+415
+TEKUĆE ODRŽAVANJE
+300,000.
+00
+127,157.49
+42
+.39
+4151
+0620
+Tekuće
+održavanje
+javne
+infrastrukture
+300,000.
+00
+127,157.49
+42
+.39
+419
+OSTALI IZDACI
+18,100.0
+0
+18,080.86
+99
+.89
+4191
+0620
+Izdaci po osnovu isplate ugovora
+o djelu
+18,100.0
+0
+18,080.86
+99
+.89
+431
+Transferi
+institucijama,
+pojedincima, nevladinom i javnom
+sektoru
+350,000.
+00
+0.00
+0.
+00
+431921
+0620
+Transfri Komunalno d.o.o.
+350,000.
+00
+0.
+00
+441
+KAPITALNI IZDACI
+50,000.0
+0
+0.00
+0.
+00
+4416
+0620
+Investiciono održavanje
+50,000.0
+0
+0.
+00
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+1,052,05
+0.43
+862,318.22
+81
+.97
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+1,052,05
+0.43
+862,318.22
+81
+.97
+053
+SLUŽBA
+NAPLATE
+NAKNADE
+ZA
+KOMUNALNO
+OPREMANJE GRAĐEVINSKOG
+ZEMLJIŠTA
+782,272.
+58
+706,846.69
+90
+.36
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+87,800.0
+0
+86,123.72
+98
+.09
+4111
+0620
+Neto zarade
+50,830.0
+0
+50,826.87
+99
+.99
+4112
+0620
+Porez na zarade
+7,460.00
+7,452.83
+99
+.90
+4113
+0620
+Doprinosi na teret zaposlenog
+18,710.0
+0
+18,405.14
+98
+.37
+4114
+0620
+Doprinosi na teret poslodavca
+10,000.0
+0
+8,693.34
+86
+.93
+4115
+0620
+Opštinski prirez
+800.00
+745.54
+93
+.19
+412
+OSTALA LIČNA PRIMANJA
+3,000.00
+2,660.40
+88
+.68
+4127
+0620
+Ostale naknade
+3,000.00
+2,660.40
+.68
+414
+RASHODI ZA USLUGE
+1,200.00
+20.30
+1.
+69
+4141
+0620
+Rashodi za službena putovanja
+700.00
+0.
+00
+4142
+0620
+Rashodi za reprezentaciju
+500.00
+20.30
+4.
+06
+4149
+0620
+Ostale usluge
+0.00
+419
+OSTALI IZDACI
+24,000.0
+0
+23,113.23
+96
+.31
+4191
+0620
+Izdaci po osnovu isplate ugovora
+o djelu
+24,000.0
+0
+23,113.23
+96
+.31
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+666,272.
+58
+594,929.04
+89
+.29
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+666,272.
+58
+594,929.04
+89
+.29
+061
+SEKRETARIJAT
+ZA
+URBANIZAM
+I
+ZAŠTITU
+ŽIVOTNE SREDINE
+211,883.
+03
+204,551.61
+96
+.54
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+177,876.
+45
+176,645.24
+99
+.31
+4111
+0620
+Neto zarade
+104,965.
+86
+104,276.42
+99
+.34
+4112
+0620
+Porez na zarade
+15,226.8
+3
+15,222.18
+99
+.97
+4113
+0620
+Doprinosi na teret zaposlenog
+38,079.0
+6
+37,737.99
+99
+.10
+4114
+0620
+Doprinosi na teret poslodavca
+18,074.4
+8
+17,885.74
+98
+.96
+4115
+0620
+Opštinski prirez
+1,530.22
+1,522.91
+99
+.52
+412
+OSTALA LIČNA PRIMANJA
+4,920.00
+4,323.15
+87
+.87
+4127
+0620
+Ostale naknade
+4,920.00
+4,323.15
+87
+.87
+414
+RASHODI ZA USLUGE
+5,500.00
+0.00
+0.
+00
+4141
+0620
+Rashodi za službena putovanja
+0.00
+4142
+0620
+Rashodi za reprezentaciju
+1,000.00
+0.
+00
+4149
+0620
+Ostale usluge
+4,500.00
+0.
+00
+419
+OSTALI IZDACI
+5,150.00
+5,146.64
+99
+.93
+4191
+0620
+Izdaci po osnovu isplate ugovora
+o djelu
+5,150.00
+5,146.64
+99
+.93
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+18,436.5
+8
+18,436.58
+10
+0.00
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+18,436.5
+8
+18,436.58
+10
+0.00
+071
+0560
+KOMUNALNA POLICIJA
+638,431.
+90
+586,653.26
+91
+.89
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+455,450.
+78
+451,021.07
+99
+.03
+4111
+0560
+Neto zarade
+268,780.
+00
+266,290.09
+99
+.07
+4112
+0560
+Porez na zarade
+39,002.9
+5
+38,650.58
+99
+.10
+4113
+0560
+Doprinosi na teret zaposlenog
+97,451.0
+1
+96,301.44
+.82
+4114
+0560
+Doprinosi na teret poslodavca
+46,306.8
+2
+45,912.47
+99
+.15
+4115
+0560
+Opštinski prirez
+3,910.00
+3,866.49
+98
+.89
+412
+OSTALA LIČNA PRIMANJA
+17,800.0
+0
+15,859.46
+89
+.10
+4127
+0560
+Ostale naknade
+17,800.0
+0
+15,859.46
+89
+.10
+413
+RASHODI ZA MATERIJAL
+8,500.00
+7,178.08
+84
+.45
+4131
+0560
+Administrativni materijal
+8,500.00
+7,178.08
+84
+.45
+414
+RASHODI ZA USLUGE
+41,420.0
+0
+176.12
+0.
+43
+4141
+0560
+Rashodi za službena putovanja
+500.00
+0.
+00
+4142
+0560
+Rashodi za reprezentaciju
+1,000.00
+0.
+00
+4149
+0560
+Ostale usluge
+39,920.0
+0
+176.12
+0.
+44
+419
+OSTALI IZDACI
+52,000.0
+0
+51,035.17
+98
+.14
+4191
+0560
+Izdaci po osnovu isplate ugovora
+o djelu
+52,000.0
+0
+51,035.17
+98
+.14
+441
+KAPITALNI IZDACI
+5,000.00
+3,131.30
+62
+.63
+4415
+0560
+Izdaci za opremu
+5,000.00
+3,131.30
+62
+.63
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+58,261.1
+2
+58,252.06
+99
+.98
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+58,261.1
+2
+58,252.06
+99
+.98
+081
+INFORMACIONI CENTAR
+219,148.
+92
+183,909.76
+83
+.92
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+49,625.5
+5
+48,126.81
+96
+.98
+4111
+0830
+Neto zarade
+29,626.6
+3
+28,463.84
+96
+.08
+4112
+0830
+Porez na zarade
+4,553.92
+4,039.22
+88
+.70
+4113
+0830
+Doprinosi na teret zaposlenog
+10,062.7
+9
+10,264.79
+10
+2.01
+4114
+0830
+Doprinosi na teret poslodavca
+4,922.21
+4,954.87
+10
+0.66
+4115
+0830
+Opštinski prirez
+460.00
+404.09
+87
+.85
+412
+OSTALA LIČNA PRIMANJA
+2,650.00
+1,662.75
+62
+.75
+4127
+0830
+Ostale naknade
+2,650.00
+1,662.75
+62
+.75
+413
+RASHODI ZA MATERIJAL
+3,500.00
+276.00
+7.
+89
+4131
+0830
+Administrativni materijal
+3,500.00
+276.00
+7.
+89
+414
+RASHODI ZA USLUGE
+14,420.0
+0
+5,705.91
+39
+.57
+4141
+0830
+Rashodi za službena putovanja
+500.00
+0.
+00
+4142
+0830
+Rashodi za reprezentaciju
+920.00
+0.
+00
+4148
+0830
+Usluge strucnog usavrsavanja
+500.00
+0.
+00
+4149
+0830
+Ostale usluge
+12,500.0
+0
+5,705.91
+45
+.65
+415
+RASHODI
+ZA
+TEKUĆE
+ODRŽAVANJE
+1,000.00
+422.45
+42
+.25
+4153
+0830
+Tekuće održavanje opreme
+1,000.00
+422.45
+42
+.25
+419
+OSTALI IZDACI
+12,600.0
+0
+7,588.89
+60
+.23
+4191
+0830
+Izdaci po osnovu isplate ugovora
+o djelu
+7,600.00
+7,588.89
+99
+.85
+4193
+0830
+Izrada i održavanje softvera
+5,000.00
+0.
+00
+441
+KAPITALNI IZDACI
+120,000.
+00
+82,929.44
+69
+.11
+4415
+0830
+Izdaci za opremu
+120,000.
+00
+82,929.44
+69
+.11
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+15,353.3
+7
+37,197.51
+24
+2.28
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+15,353.3
+7
+37,197.51
+24
+2.28
+091
+SLUŽBA ZAŠTITE
+797,607.
+79
+739,272.51
+92
+.69
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+603,838.
+68
+601,008.35
+99
+.53
+4111
+0320
+Neto zarade
+325,796.
+76
+323,966.97
+99
+.44
+4112
+0320
+Porez na zarade
+45,419.7
+9
+45,410.69
+99
+.98
+4113
+0320
+Doprinosi na teret zaposlenog
+116,933.
+23
+116,653.05
+99
+.76
+4114
+0320
+Doprinosi na teret poslodavca
+111,136.
+15
+110,434.40
+99
+.37
+4115
+0320
+Opštinski prirez
+4,552.75
+4,543.24
+99
+.79
+412
+OSTALA LIČNA PRIMANJA
+22,500.0
+0
+21,507.50
+95
+.59
+4127
+0320
+Ostale naknade
+22,500.0
+0
+21,507.50
+95
+.59
+413
+RASHODI ZA MATERIJAL
+23,500.0
+0
+17,838.24
+75
+.91
+4131
+0320
+Administrativni materijal
+5,500.00
+3,920.28
+71
+.28
+4134
+0320
+Rashodi za energiju
+8,000.00
+6,295.46
+78
+.69
+4135
+0320
+Rashodi za gorivo
+10,000.0
+0
+7,622.50
+76
+.23
+414
+RASHODI ZA USLUGE
+9,000.00
+5,778.35
+64
+.20
+4141
+0320
+Rashodi za službena putovanja
+1,800.00
+1,702.86
+94
+.60
+4142
+0320
+Rashodi za reprezentaciju
+1,000.00
+0.
+00
+4143
+0320
+Komunikacione usluge
+1,200.00
+932.87
+77
+.74
+4149
+0320
+Ostale usluge
+5,000.00
+3,142.62
+62
+.85
+415
+RASHODI
+ZA
+TEKUĆEODRŽAVANJE
+2,000.00
+0.
+00
+4153
+0320
+Tekuće održavanje opreme
+2,000.00
+0.
+00
+441
+KAPITALNI IZDACI
+46,000.0
+500.00
+1.
+4415
+0320
+Izdaci za opremu
+45,000.0
+0
+500.00
+1.
+11
+4416
+0320
+Investiciono održavanje
+1,000.00
+0.
+00
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+90,769.1
+1
+92,640.07
+10
+2.06
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+90,769.1
+1
+92,640.07
+10
+2.06
+092
+SLUŽBA ZAŠTITE IMOVINE
+I LICA
+136,647.
+97
+135,391.41
+99
+.08
+411
+BRUTO
+ZARADE
+I
+DOPRINOSI
+NA
+TERET
+POSLODAVCA
+121,788.
+23
+120,561.07
+98
+.99
+4111
+0111
+Neto zarade
+71,951.5
+6
+71,339.77
+99
+.15
+4112
+0111
+Porez na zarade
+10,156.2
+3
+10,018.99
+98
+.65
+4113
+0111
+Doprinosi na teret zaposlenog
+26,070.4
+4
+25,694.14
+98
+.56
+4114
+0111
+Doprinosi na teret poslodavca
+12,510.0
+0
+12,505.82
+99
+.97
+4115
+0111
+Opštinski prirez
+1,100.00
+1,002.35
+91
+.12
+412
+OSTALA LIČNA PRIMANJA
+6,000.00
+5,970.60
+99
+.51
+4127
+0111
+Ostale naknade
+6,000.00
+5,970.60
+99
+.51
+463
+OTPLATA
+OBAVEZA
+IZ
+PRETHODNOG PERIODA
+8,859.74
+8,859.74
+10
+0.00
+4631
+0170
+Otplata obaveza iz prethodnog
+perioda
+8,859.74
+8,859.74
+10
+0.00
+UKUPNO:
+33,834,2
+11.55
+28,919,790.7
+0
+85
