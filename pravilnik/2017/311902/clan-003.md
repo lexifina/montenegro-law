@@ -1,0 +1,2 @@
+# Član 3
+EKZO je pravougaonog oblika izrađena od plastificiranog papira dimenzija: dužine 53,98mm širine 85,60 mm i debljine 0,76mm i sadrži podatke o Fondu i osiguranom licu u skladu sa Odlukom Administrativne komisije za koordinaciju sistema socijalne sigurnosti (u daljem tekstu: Administrativna komisija) oznake S1 od 12. juna 2009. godine o Evropskoj kartici zdravstvenog osiguranja i Odlukom Administrativne komisije oznake S2 od 12. juna 2009. godine o tehničkim specifikacijama Evropske kartice zdravstvenog osiguranja.

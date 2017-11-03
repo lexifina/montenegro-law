@@ -1,0 +1,2 @@
+# Član 2
+EKZO je isprava na osnovu koje osigurana lica Fonda za zdravstveno osiguranje Crne Gore (u daljem tekstu Fond) za vrijeme privremenog boravka na teritoriji druge države članice Evropske unije (u daljem tekstu: EU) i Evropskog ekonomskog prostora (u daljem tekstu: EEP) ostvaruju pravo na zdravstvene usluge čije se pružanje iz medicinskih razloga ne može odložiti uzimajući u obzir očekivanu dužinu privremenog boravka kao i vrstu zdravstvene usluge.
