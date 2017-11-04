@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se način utvrđivanja posebne psihofizičke sposobnosti za zasnivanje radnog odnosa za obavljanje poslova obezbjeđenja pritvorenih i osuđenih lica u Zavodu za izvršenje krivičnih sankcija (u daljem tekstu: posebna psihofizička sposobnost) i provjere psihofizičkih sposobnosti službenika za poslove obezbjeđenja pritvorenih i osuđenih lica (u daljem tekstu: provjera psihofizičkih sposobnosti).
