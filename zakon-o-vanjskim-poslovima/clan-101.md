@@ -1,0 +1,4 @@
+# Član 101
+## Usklađivanje sredstava za zarade, dodatke na zaradu, naknade i druga primanja
+Sredstva za zarade, dodatke na zaradu i naknade diplomata i drugih zaposlenih koji rade na administrativno-tehničkim poslovima u diplomatsko-konzularnim predstavništvima, osim lokalnog osoblja, u državama prijema, odnosno sjedišta međunarodne organizacije, koje nijesu dio euro-zone u slučaju negativnih kursnih razlika, pada vrijednosti EURA u odnosu na domaću valutu u iznosu većem od 10 % na godišnjem nivou, dobijenog prema podacima Centralne banke Crne Gore u decembru tekuće godine, usklađuju se prema utvđenom procentu, počev od januara naredne godine.
+Odluku o usklađivanju iz stava 1 ovog člana donosi Vlada, na predlog Ministarstva, na koji je saglasnost dao organ državne uprave nadležan za poslove finansija.
