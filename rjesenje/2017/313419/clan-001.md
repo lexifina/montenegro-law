@@ -1,0 +1,4 @@
+# Član 1
+## o davanju saglasnosti za gradnju na dijelu UP 50.1 blok 50 u okviru DUP-a "Bečići"
+Daje se Tamari Pavićević vlasnici katastarskih parcela 849 i 850/2 KO Bečići koje u površini od 254 m² ulazi u sastav UP 50.1 blok 50 u okviru DUP-a "Bečići ", a koja je obezbjedila saglasnost preduzeća "Consulting" doo Budva vlasnika kat.parcele 848/1 KO Bečići koja u površini od 202m² ulazi u sastav navedene UP, i u čiji sastav ulazi kat.parcela 851 KO Bečići pov. 330m² i 850/1 KO Bečići pov.186m² vlasništvo Opštine Budva, saglasnost za gradnju na dijelu urbanističke parcele.
+Saglasnost se daje na Idejno rješenje za faznu izgradnju na UP 50.1 u bloku 50 u zahvatu DUP-a "Bečići" urađenim od strane preduzeća za projektovanje, inženjering i konsalting "Studio Zi Za" doo Danilovgrad , a koje je revidovano od strane DOO "Continental Engineering " Podgorica broj 144/17 od oktobra 2017.godine.
