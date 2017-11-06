@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Službeni list CG" br. 88/09, 03/10, 38/12, 10/14, 57/14 i 03/16), člana 29 Zakona o državnoj imovini ("Službeni list CG", br.21/09 i 40/11), a u vezi sa članom 194, 199, 201, 206 i 215 Zakona o svojinsko pavnim odnosima Crne Gore ("Službeni list CG", br. 19/09) i člana 40 Statuta Opštine Budva ("Službeni list CG-Opštinski propisi", br. 19/10), Skupština opštine Budva, na sjednici održanoj dana 06. novembra 2017. godine, donijela je
+R J E Š E NJ E
