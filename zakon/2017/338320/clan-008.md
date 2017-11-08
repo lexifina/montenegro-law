@@ -1,0 +1,8 @@
+# Član 8
+Poslije člana 51 dodaje se novi član koji glasi:
+"Odgovornost priznate organizacije za pričinjenu štetu
+Član 51a
+Priznata organizacija je dužna da plati naknadu za pričinjenu štetu, ako je pravosnažnom sudskom ili arbitražnom odlukom utvrđena odgovornost za štetu Organa uprave, koja je nastala zbog pomorske nezgode, zajedno sa zahtjevom za naknadu štete oštećenim strankama zbog:
+1) gubitka ili oštećenja imovine, tjelesne povrede ili smrti, za koju je dokazano na sudu da je prouzrokovana namjernim djelom ili propustom ili grubom nepažnjom priznate organizacije, njenih tijela, zaposlenih, zastupnika ili drugih koji djeluju u ime priznate organizacije, Organ uprave ima pravo na naknadu štete od priznate organizacije u iznosu utvrđenom odlukom suda za koju je priznata organizacija prouzrokovala gubitak, oštećenje, povredu ili smrt.
+2) tjelesne povrede ili smrti, za koju je dokazano na sudu da je prouzrokovana nemarom, nepažnjom ili propustom priznate organizacije, njenih zaposlenih, zastupnika ili drugih koji djeluju u ime priznate organizacije, Organ uprave ima pravo na naknadu štete od priznate organizacije u iznosu utvrđenom odlukom suda za koju je priznata organizacija prouzrokovala tjelesnu povredu ili smrt u iznosu od najmanje 4 miliona eura.
+3) gubitka ili oštećenja imovine, za koju je dokazano na sudu da je prouzrokovana nemarom, nepažnjom ili propustom priznate organizacije, njenih zaposlenih, zastupnika ili drugih koji djeluju u ime priznate organizacije, Organ uprave ima pravo na naknadu štete od priznate organizacije u iznosu utvrđenom odlukom suda za koju je priznata organizacija prouzrokovala gubitak ili oštećenje imovine u iznosu od najmanje 2 miliona eura."
