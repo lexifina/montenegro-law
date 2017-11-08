@@ -1,0 +1,5 @@
+# Član 134
+## Ovlašćenje inspektora
+Pored ovlašćenja utvrđenih Zakonom o inspekcijskom nadzoru, inspektor odnosno komunalni inspektor je ovlašćen da:
+1) zaustavlja i pregleda: motorna vozila kao i njihovu unutrašnjost; autobuske stanice; autobuska stajališta; teretne stanice; stvarno sjedište prevoznika; ugovore; prevozne isprave; licence; izvode licence; dozvole; odobrenja, rješenje, redove vožnje, poslovne knjige i drugu dokumentaciju koja omogućava uvid u poslovanje prevoznika, lica koje upravlja autobuskom stanicom ili teretnom stanicom, kao i da utvrđuje identitet tih lica i lica zatečenih u motornom vozilu;
+2) naredi otklanjanje nedostataka u vezi: ispunjavanja propisanih uslova za obavljanje javnog prevoza putnika i tereta; prevoza za sopstvene potrebe; uslova za rad autobuskih stanica i teretnih stanica; u vezi ispunjavanja uslova za pravna lica ovlašćena od strane Ministarstva, uredne kontrole tehničke ispravnosti vozila; pridržavanja reda vožnje; izvršavanja zadataka i poslova stručnog i voznog osoblja.

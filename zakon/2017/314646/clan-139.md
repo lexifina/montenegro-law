@@ -1,0 +1,86 @@
+# Član 139
+Novčanom kaznom u iznosu od 1.200 eura do 7.000 eura kazniće se za prekršaj pravno lice, ako:
+1) povjeri upravljanje vozilom vozaču kojem nijesu prestale pravne posljedice osude za jedno od krivičnih djela protiv: života i tijela, zdravlja ljudi, polne slobode, javnog reda i mira i bezbjednosti javnog saobraćaja (član 10 stav 3);
+2) se u vozilu koje se u javnom prevozu putnika i tereta koristi na osnovu zakupa ili lizinga ne nalazi ugovor o zakupu iz člana 23 stav 2 ovog zakona, odnosno lizingu, kao i izvod licence koji glasi na zakupca, odnosno korisnika lizinga (član 23 stav 4);
+3) vozilo uzeto u zakup sa kojim obavlja javni prevoz da u podzakup (član 23 stav 8);
+4) u vozilu kojim se obavlja javni prevoz u drumskom saobraćaju nema original izvoda licence koji se odnosi na to vozilo (član 24 stav 3);
+5) prenese na drugo lice izdati izvod licence, koji mu je izdat na period za koji je izdata licenca (član 24 stav 4);
+6) prenese na drugo lice licencu, koja mu je izdata na period od pet godina (član 25 stav 8);
+7) original licence ne čuva u prostorijama u kojima se nalazi njegovo stvarno sjedište (član 25 stav 9);
+8) pismeno ne obavijesti Organ uprave, odnosno nadležni organ lokalne uprave o promjeni podataka, u roku od osam dana od dana nastale promjene, ukoliko dođe do promjene podataka na osnovu kojih je izdata licenca prevoznika (član 26 stav 1);
+9) obavlja javni prevoz putnika putničkim automobilom, osim auto-taksi prevoz i šatl prevoz (član 33 stav 1);
+10) linijski gradski ili prigradski prevoz putnika ne obavlja sa gradskim ili prigradskim autobusima (član 35 stav 3);
+11) obavlja linijski gradski i prigradski prevoz putnika a nadležni organ jedinice lokalne samouprave mu nije povjerio obavljanje te djelatnosti (član 35 stav 5);
+12) linijski gradski i prigradski prevoz putnika obavlja bez registrovanog i ovjerenog reda vožnje od nadležnog organa lokalne uprave (član 36 stav 1);
+13) se ne pridržava registrovanog i objavljenog reda vožnje (član 36 stav 3);
+14) ukrcavanje i iskrcavanje putnika u linijskom gradskom i prigradskom prevozu putnika ne obavlja na autobuskim stajalištima, prema registrovanom redu vožnje (član 38);
+15) ne prodaje vozne karte za linijski gradski i prigradski prevoz posredstvom posrednika, poslovnicama prevoznika i u autobusima (član 41 stav 1);
+16) ne prodaje vozne karte samo za linije utvrđene registrovanim i ovjerenim redom vožnje u skladu sa cjenovnikom iz člana 40 ovog zakona (član 41 stav 2);
+17) obavlja posebni linijski gradski i prigradski prevoz bez saglasnosti koju izadaje nadležni organ jedinica lokalne uprave (član 43 stav 2);
+18) međugradski linijski prevoz putnika ne obavlja međugradskim autobusima (član 44 stav 2);
+19) međugradski linijski prevoz putnika vozilima iz člana 44 stav 3 ovog zakona obavlja bez saglasnosti Organa uprave (član 44 stav 4);
+20) se saglasnost iz člana 44 stav 4 ovog zakona ne nalazi u autobusu prevoznika za vrijeme obavljanja prevoza (član 44 stav 5);
+21) se ne pridržava registrovanog i objavljenog reda vožnje (član 47 stav 3);
+22) ukrcavanje i iskrcavanje putnika u međugradskom linijskom prevozu ne obavlja na autobuskim stanicama i autobuskim stajalištima, prema registrovanom redu vožnje (član 51);
+23) ne dostavi ovjerenu kopiju registrovanog i ovjerenog reda vožnje, cjenovnik i dovoljan broj voznih karata autobuskim stanicama koje koristi po redu vožnje, najkasnije osam dana prije početka obavljanja prevoza na određenoj liniji (član 53 stav 1);
+24) cjenovnik usluga u međugradskom linijskom prevozu putnika sadrži cijene za relacije u linijskom gradskom i prigradskom prevozu putnika (član 53 stav 3);
+25) ne prodaje vozne karte putnicima preko autobuskih stanica, turističkih agencija ili preko svojih poslovnica (član 54 stav 1);
+26) na mjestima ulaska putnika u skladu sa redom vožnje gdje ima organizovane prodaje voznih karata, vozne karte prodaje u autobusima (član 54 stav 2);
+27) u cijenu vozne karte prodate u poslovnici prevoznika ili posredstvom turističke agencije nije uračunalo staničnu uslugu, ukoliko vožnja počinje na autobuskoj stanici (član 54 stav 3);
+28) u cijenu vozne karte prodate u poslovnici prevoznika ili posredstvom turističke agencije uračuna staničnu uslugu, a nije zaključen ugovor iz člana 54 stav 4 (član 54 stav 5);
+29) za linije utvrđene registrovanim i ovjerenim redom vožnje ne prodaje vozne karte u skladu sa cjenovnikom ovjerenim od Organa uprave (član 54 stav 8);
+30) ne zaključi ugovor o pružanju usluga prodaje voznih karata, sa autobuskom stanicom, odnosno turističkom agencijom, u pisanoj formi kojim se utvrđuje broj i raspored sjedišta za svaki registrovani red vožnje na osnovu koga se vrši prodaja voznih karata (član 55 stav 1);
+31) proda veći broj voznih karata od alotmana sjedišta koji je utvrđen ugovorom iz člana 55 stav 1 ovog zakona (član 55 stav 2);
+32) u slučaju iz člana 55 stav 3 proda veći broj voznih karata od ukupnog alotmana sjedišta za registrovani red vožnje, na osnovu kojeg se vrši prodaja voznih karata (član 55 stav 4);
+33) je utvrđeni alotman sjedišta veći od broj mjesta koji je označen u saobraćajnoj dozvoli vozila sa kojim se obavlja prevoz za registrovani red vožnje (član 55 stav 5);
+34) posebni linijski međugradski prevoz putnika obavlja autobusima bez ugovora zaključenog između korisnika prevoza i prevoznika (član 59 stav 1);
+35) se u toku obavljanja posebnog linijskog međugradskog prevoza u vozilu ne nalazi ugovor o prevozu iz člana 59 stav 1 ovog zakona, sa spiskom putnika ovjerenim od strane prevoznika i na prednjem vjetrobranskom staklu autobusa u donjem desnom uglu nije istaknuta tabla sa oznakom relacije i natpisom ,,posebni linijski prevoz" (član 59 stav 3);
+36) prevozi putnike posebnim linijskim međugradskim prevozom, koji nijesu upisani u spisak putnika (član 59 stav 4);
+37) ukrcavanje i iskrcavanje putnika u posebnom linijskom međugradskom prevozu putnika ne vrši na mjestima koja su utvrđena ugovorom iz člana 59 stav 1 ovog zakona, kao i na autobuskim stajalištima (član 59 stav 5);
+38) u roku od osam dana od dana zaključivanja ugovora o posebnom linijskom međugradskom prevozu putnika, Organu uprave, ne podnese zahtjev za izdavanje saglasnosti za obavljanje posebnog linijskog međugradskog prevoza (član 60 stav 1);
+39) se saglasnost iz člana 60 stav 3 ovog zakona ne nalazi u vozilu za vrijeme obavljanja posebnog linijskog međugradskog prevoza putnika (član 60 stav 5);
+40) međugradski linijski prevoz putnika ne obavlja sa međugradskim autobusima (član 62 stav 2);
+41) međunarodni linijski prevoz putnika između dvije države, obavlja malim autobusima (klasa B) usljed ograničavajućih saobraćajno-tehničkih karakteristika puta, bez saglasnosti Organa uprave (član 62 stav 3);
+42) se dozvola za tranzit ne nalazi u vozilu prevoznika za vrijeme obavljanja prevoza (član 67 stav 3);
+43) se za vrijeme obavljanja prevoza iz člana 69 stav 1 ovog zakona u vozilu ne nalazi original dozvole za međunarodni linijski prevoz putnika, odnosno za tranzitni linijski prevoz putnika (član 69 stav 2);
+44) ne obavlja međunarodni linijski prevoz putnika, na najmanje polovini od ukupnog broja godišnjih polazaka na odobrenoj međunarodnoj liniji, ako je linija odobrena u saradnji sa stranim prevoznikom ili samostalno ne održava najmanje isti broj linija, prema određenoj državi, kao i strani prevoznik, u skladu sa ugovorom o zajedničkom obavljanju prevoza na liniji (član 69 stav 3);
+45) ukrcavanje i iskrcavanje putnika u međunarodnom linijskom prevozu ne obavlja na autobuskim stanicama, u skladu sa dozvolom za međunarodni prevoz putnika (član 73);
+46) u međunarodnom linijskom prevozu putnika ne dostavi ovjerenu kopiju dozvole sa sastavnim djelovima i dovoljan broj voznih karata autobuskim stanicama koje koristi po redu vožnje, najkasnije osam dana prije početka obavljanja prevoza na određenoj liniji (član 74 stav 1);
+47) cjenovnik usluga u međunarodnom linijskom prevozu putnika sadrži cijene za relacije u međugradskom, prigradskom ili gradskom linijskom prevozu putnika (član 74 stav 3);
+48) ne prodaje i ne izdaje vozne karte u međunardnom linijskom prevozu u skladu sa odredbama člana 54 ovog zakona, odnosno prema cjenovniku usluga (član 75);
+49) obavlja povremeni prevoz putnika na istoj relaciji linijskog prevoza, u isto vrijeme odlaska i dolaska, i na istim mjestima vrši ukrcavanje i iskrcavanje putnika (član 81 stav 2);
+50) ne obavlja povremeni prevoz putnika u međunarodnom drumskom saobraćaju između Crne Gore i država koje su potpisnice Interbus ugovora, u skladu sa tim ugovorom (član 81 stav 3);
+51) ne obavlja povremeni prevoz putnika u međunarodnom drumskom saobraćaju između Crne Gore i država koje nijesu potpisnice Interbus ugovora, u skladu sa bilateralnim ugovorima i ovim zakonom (član 81 stav 4);
+52) povremeni prevoz putnika iz člana 81 stav 1 tačka 6 i naizmjenični prevoz putnika, ne obavlja na osnovu dozvole za vanlinijski prevoz putnika u drumskom saobraćaju, ako međunarodnim ugovorom nije drukčije određeno (član 83 stav 2);
+53) se dozvola za vanlinijski prevoz putnika ne nalazi u vozilu za vrijeme obavljanja prevoza (član 83 stav 4);
+54) povjeri obavljanje auto-taksi prevoza vozaču koji je osuđivan kaznom zatvora duže od godinu dana za krivična djela protiv života i tijela, zdravlja ljudi, polne slobode, javnog reda i mira i bezbjednosti javnog saobraćaja (član 89 stav 5);
+55) prevoz putnika ne započne ili ne završi na stajalištima u neposrednoj blizini registrovanih smještajnih kapaciteta, koja je odredio nadležni organ jedinice lokalne uprave, ukoliko ispred registrovanih smještajnih kapaciteta nema mogućnosti za prijem i iskrcavanje putnika (član 90 stav 4);
+56) ne obavlja šatl prevoz sa autobusima ili putničkim vozilima serijski proizvedenim sa osam ili devet sjedišta, računajući i sjedište vozača (član 90 stav 6);
+57) u toku obavljanja šatl prevoza u vozilu na prednjem vjetrobranskom staklu u donjem desnom uglu nema istaknutu tablu sa oznakom relacije i natpisom ,,SHUTTLE PREVOZ" (član 90 stav 8);
+58) ne pruža usluge prevoznicima i putnicima pod jednakim uslovima u skladu sa opštim uslovima iz člana 94 stav 4 ovog zakona i prema cjenovniku usluga autobuske stanice (član 94 stav 3);
+59) na autobuskoj stanici ne pruža usluge svim prevoznicima pod jednakim uslovima, u skladu sa opštim aktom autobuske stanice na koji saglasnost daje Organ uprave (član 97 stav 1);
+60) cijene usluga utvrdi u većem iznosu od maksimalne visine cijena iz člana 97 stav 8 ovog zakona (član 97 stav 7);
+61) licencu za pružanje usluga autobuske stanice ne čuva u svom stvarnom sjedištu (član 98 stav 6);
+62) obavlja linijski prevoz putnika a ne zaključi ugovor o pružanju usluga autobuske stanice prije početka obavljanja prevoza po registrovanom redu vožnje, u skladu sa ovim zakonom i opštim uslovima iz člana 94 stav 4 ovog zakona (član 100 stav 2);
+63) ne vrši prihvat i otpremu autobusa samo za linije u skladu sa registrovanim i ovjerenim redom vožnje, odnosno dozvolom za međunarodni linijski prevoz putnika (član 101 stav 1);
+64) po prijemu obavještenja iz člana 105 stav 1 ovog zakona, uključilo drugog prevoznika za obavljanje prevoza, na račun prevoznika koji je bio dužan obaviti prevoz, a ne izda odgovarajuću potvrdu (član 105 stav 2);
+65) se potvrda iz člana 105 stava 2 ovog zakona ne nalazi u vozilu za vrijeme obavljanja prevoza (član 105 stav 3);
+66) međunarodni prevoz tereta ne obavlja na osnovu dozvole za međunarodni prevoz tereta u skladu sa ovim zakonom ili potvrđenim međunarodnim ugovorom (član 109 stav 5);
+67) pri vršenju međunarodnog prevoza tereta u vozilu nema pravilno popunjenu dozvolu za međunarodni prevoz tereta, dnevnik putovanja i potvrdu o usaglašenosti s tehničkim odredbama emisije buke i emisijom izduvnih gasova i sa sigurnosnim zahtjevima za vozila u skladu sa Vodičem za korisnike multilateralna kvota ECMT/CEMT dozvola (član 110 stav 5);
+68) dozvolu za međunarodni prevoz tereta ne koristi za vozilo za koje izdat izvod licence, odnosno odobrenje za obavljanje prevoza tereta za sopstvene potrebe (član 111 stav 1);
+69) nema u vozilu kojim obavlja prevoz stranu dozvolu za međunarodni prevoz tereta za vrijeme obavljanja međunarodnog prevoza tereta, kao i prazne vožnje u okviru tog prevoza (član 111 stav 2);
+70) ne popuni pravilno i tačno dozvolu, odnosno dnevnik putovanja pri obavljanju međunarodnog prevoza tereta (član 111 stav 3);
+71) mijenja podatke unesene u dozvoli, odnosno dnevniku putovanja pri obavljanju međunarodnog prevoza tereta (član 111 stav 4);
+72) ne koristi dozvolu u skladu sa svrhom za koju je izdata (član 111 stav 5);
+73) se u vozilu za vrijeme obavljanja međunarodnog prevoza tereta na teritoriji Crne Gore ne nalazi pravilno i tačno popunjena dozvola za međunarodni prevoz tereta, ovjerena od organa uprave nadležnog za poslove carine na graničnom prelazu (član 112 stav 3);
+74) za vrijeme obavljanja prevoza iz člana 114 stav 1 ovog zakona u teretnom vozilu se ne nalazi dokumentacija koja potvrđuje da se radi o prevozu za koji nije potrebna dozvola (član 114 stav 2);
+75) uđe u Crnu Goru vozilom koje ne ispunjava uslove utvrđene posebnim propisima u pogledu zaštite životne sredine i bezbjednosti u drumskom saobraćaju (član 116);
+76) licencu za pužanje usluge teretne stanice ne čuva u svom stvarnom sjedištu (član 119 stav 5);
+77) ne pruža usluge pod jednakim uslovima svim prevoznicima u skladu sa opštim aktom teretne stanice (član 121 stav 1);
+78) prevoz za sopstvene potrebe obavlja bez odobrenja za prevoz za sopstvene potrebe (član 123 stav 1);
+79) prevoz za sopstvene potrebe u međunarodnom drumskom saobraćaju obavlja bez dozvole koja se izdaje po postupku za izdavanje dozvola za međunarodni javni prevoz putnika, odnosno tereta, u skladu sa ovim zakonom, ako je međunarodnim ugovorom predviđeno da se prevoz obavlja na osnovu dozvole (član 128 stav 1);
+80) obavlja prevoz putnika, odnosno tereta u komercijalne svrhe, autobusom i teretnim vozilom, kojim obavlja prevoz za sopstvene potrebe (član 129).
+Za prekršaj iz stava 1 ovog člana kazniće se i odgovorno lice u pravnom licu novčanom kaznom u iznosu od 500 eura do 1.200 eura.
+Za prekršaj iz stava 1 ovog člana kazniće se preduzetnik novčanom kaznom u iznosu od 1.000 do 4.000 eura.
+Za prekršaj iz stava 1 tač. 37, 66, 70, 71 i tač. 78, 79 i 80 ovog člana kazniće se fizičko lice novčanom kaznom u iznosu od 500 eura do 1.200 eura.
+Za prekršaj iz stava 1 tač. 14, 22 i 45 ovog člana kazniće se fizičko lice novčanom kaznom u iznosu od 150 eura do 500 eura.
