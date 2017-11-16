@@ -1,0 +1,2 @@
+Na osnovu člana 25. Zakona o hartijama od vrijednosti ("Službeni list RCG", br. 59/00 i 28/06), člana 25. Zakona o povraćaju oduzetih imovinskih prava i obeštećenju ("Službeni list RCG", broj 21/04, 49/07, 60/07 i 70/17), i člana 6. Odluke o obrazovanju Fonda za obeštećenje ("Službeni list RCG", broj 57/04), Upravni odbor Fonda za obeštećenje, na sjednici od 06.11.2017. godine, donosi
+ODLUKU O IZMJENI ODLUKE O II EMISIJI OBVEZNICA REPUBLIKE CRNE GORE PO OSNOVU OBEŠTEĆENJA BIVŠIH VLASNIKA
