@@ -1,0 +1,2 @@
+Na osnovu člana 37 stav 4 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 17/98, 14/00, 9/01, 41/02, 46/02 i 48/06 i "Službeni list CG", broj 46/11, 14/14, 47/14 i 12/16 i 60/17 ) i čl. 11 i 12 Zakona o izboru Predsjednika Crne Gore ("Službeni list Crne Gore", br.17/07, 8/09,12/16), Državna izborna komisija, na sjednici održanoj 06.11.2017. godine, donijela je
+PRAVILA O DOPUNAMA PRAVILA O RADU BIRAČKIH ODBORA
