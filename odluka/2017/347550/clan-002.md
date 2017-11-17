@@ -1,0 +1,2 @@
+# Član 2
+Naknada za katastarsku parcelu, broj 4857/5 iz člana 1 ove odluke, utvrđena je na 55,00 € po m2 zemljišta, odnosno u ukupnom iznosu od 2.915,00 €, u skladu sa procjenom Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore-PJ Nikšić, broj 958-103-353/17 od 12.07.2017.godine, a za katastarsku parcelu, broj 2801/3 na 53,50 € po m2 zemljišta, odnosno u ukupnom iznosu od 1.337,50 €, u skladu sa procjenom Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore-PJ Nikšić, broj 958-103-352/17 od 12.07.2017.godine.

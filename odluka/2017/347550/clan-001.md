@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za kupovinu nepokretnosti za potrebe izgradnje ulica Borislava Pekića i Pavla Kovačevića
+Ovom odlukom daje se saglasnost opštini Nikšić za kupovinu nepokretnosti za potrebe izgradnje ulica Borislava Pekića i Pavla Kovačevića i to katastarske parcele, broj 4857/5 u površini od 53,00 m2, upisane u listu nepokretnosti, broj 3717 KO Nikšić, kao korišćenje Radonjić Mijodraga i katastarske parcele, broj 2801/3 u površini od 25,00 m2, upisane u listu nepokretnosti broj 3516 KO Nikšić, kao sukorišćenje Radulović Branke u dijelu 1/3, Radulović Petra u dijelu 1/6, Radulović Stevana u dijelu 1/3 i Radulović Zorana u dijelu 1/6.
