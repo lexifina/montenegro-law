@@ -1,0 +1,3 @@
+# Član 5
+Tekst ispisan na spomen-obilježu ploči ispisan je ćiriličnim pismom i glasi:
+Fudbalerima i sportskim radnicima poginulim za slobodu u NOB-u 1941.-1945. Andrić Markiša, Vukčević Đoko, Dapčević Ivo, Derviš Marko Đurašković, Vojo Ivanišević, Luka Ivanović, Đuro Jovanović, Vlado Jovićević, Petar Kirsanov, Vladimir Laković, Bogdan Laković, Milutin Lekić, Nikola Lopičić, Branko Martinović, Svetozar Martinović, Stanko Nikolić, Ivo Mirković, Tomaš Mićunović, Mirko Mićunović,Novak Mugoša,Vasilije Pajević, Niko Pejović, Ljubomir Popović,Savo Strugar, Boško Ćeranić i Niko Šarenac Stjepko FK" Lovćen" 1988.godine.
