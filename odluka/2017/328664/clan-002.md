@@ -1,0 +1,4 @@
+# Član 2
+Glasački listić se štampa u broju koji odgovara broju birača u Skupštini opštine Tuzi opštine u okviru Glavnog grada Podgorice a koji će Izborna komisija Glavnog grada Podgorice objaviti nakon isteka roka iz člana 13 Zakona o biračkim spiskovima.
+Istovremeno će se štampati rezervni glasački listići čiji će broj utvrditi Izborna komisija Glavnog grada Podgorice u roku iz stava 1 ovog člana, saglasno članu 74 stav 3 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br.04/98, 17/98, 14/00, 09/01, 41/02, 46/02, 48/06 i "Službeni list CG".broj 46/11,14/14, 47/14, i 12/16)
+Rezervni broj glasačkih listića čuva Izborna komisija Glavnog grada Podgorice i po potrebi na zahtjev pojedinih biračkih odbora i u slučaju ponavljanja izbora na pojedinim biračkim mjestima - zapisnički predaje ovlašćenim licima biračkih odbora , odnosno novoimenovanih biračkih odbora za ta biračka mjesta.
