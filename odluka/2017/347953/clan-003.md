@@ -1,0 +1,2 @@
+# Član 3
+Na uzdignutom platou od teraco pločica podignut je spomenik od tamno sivog nepravilno rezanog mermera. Na prednjoj strani spomenika dimenzije: 230(visina) x 100 x 38 cm, uklesan je tekst, imena, prezimena i godine rođenja natradalih putnika, ispisani srebrnom bojom. Na poleđini spomenika dimenzije: 230(visine) x 75 x 23 cm, uklesan je tekst i imena autora spomenika, ispisani srebrnom bojom. Iznad mermernog dijela postavljena je metalna šina u obliku točka, dimenzije 133 x 133 x 41 cm.
