@@ -1,0 +1,2 @@
+# Član 3
+Na uzdignutom platou od ređanog kamena urađena je spomen-česma od betona nepravilnog oblika, obojena bijelom bojom. Česma se sastoji od četiri prelivne cijevi, srednjeg betonskog dijela nepravilnog oblika iz kojeg izlazi crna mermerna izlivna cijev sa vodom koja se sliva u betonsko korito. Na srednjem betonskom dijelu ugrađene su bijele mermerne ploče, različitih dimenzija, sa uklesanim tekstom latiničnim pismom.
