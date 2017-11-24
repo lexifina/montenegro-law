@@ -1,0 +1,3 @@
+Na osnovu člana 65 Zakona o finansiranju lokalne samouprave ("Sl. list RCG" br. 42/03, 44/03 i "Sl. list CG" br. 005/08, 051/08, 74/10, 01/15, 78/15 i 03/16), člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi (" Sl. list CG" br. 42/03, 28/04, 75/05, 13/06 i "Sl.list CG" 3/10, 73/10, 38/12, 10/14, 57/14 i 03/16) i člana 34 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl.list RCG - opštinski propisi", br. 25/04, 33/06 i "Sl.list CG-opštinski propisi", br. 18/10, 32/13), Skupština opštine Bijelo Polje, na sjednici održanoj dana 06.11.2017. godine, donijela je
+O D L U K U
+o davanju saglasnosti na izmjenu i dopunu Cjenovnika usluga za posebna parkirališta Odbora direktora D.O.O.
