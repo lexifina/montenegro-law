@@ -1,0 +1,2 @@
+# Član 3
+Opština Bijelo Polje dodjeljuje javna priznanja, radi odavanja priznanja za izuzetna dostignuća i doprinos od posebnog značaja za razvoj i ugled Opštine Bijelo Polje, a posebno za izuzetne uspjehe u unaprjeđivanju preduzetništva, privrede, obrazovanja, umjetnosti, kulture, zaštite i unaprjeđivanja životne sredine, sporta, tehničke kulture, zdravstva, zaštite i spašavanja i drugih djelatnosti, kao i za podsticanje aktivnosti koje su tome usmjerene.

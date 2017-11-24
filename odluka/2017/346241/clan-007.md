@@ -1,0 +1,2 @@
+# Član 7
+Javna priznanja iz člana 3 sastoje se od odgovarajuće diplome ispisane na tvrdom papiru formata A3, s grbom Opštine Bijelo Polje, na kojoj je ispisan naziv priznanja, ime i prezime dobitnika priznanja ako je dobitnik fizičko lice, odnosno naziv pravnog lica ili udruženja, dostignuće za koje se priznanje dodjeljuje i datum uručenja, potpis predsjednika Skupštine i predsjednika Opštine Bijelo Polje.
