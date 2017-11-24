@@ -1,0 +1,2 @@
+Na osnovu člana 16, a shodno čl. 50 i 52 Zakona o spomen-obilježjima (,,Sl. list CG", br. 40/08 i 40/11), člana 34 tačka 2 Statuta Opštine Bijelo Polje (Sl. list RCG - Opštinski propisi", br. 25/04 i 33/06, ,,Sl. list CG - Opštinski propisi", br. 18/10 i 32/13) u skladu sa Programom podizanja spomen-obilježja u Opštini Bijelo Polje za 2013. godinu (,,Sl. list CG - Opštinski propisi", br. 32/13) i uz saglasnost Ministarstva kulture, Skupština opštine Bijelo Polje, na sjednici održanoj 06.11. 2017.godine, donijela je
+ODLUKU
