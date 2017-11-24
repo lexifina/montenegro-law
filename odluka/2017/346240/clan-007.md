@@ -1,0 +1,2 @@
+# Član 7
+U članu 81 dodaje se novi stav koji glasi: "U slučaju prekida sjednice odnosno odlaganja rasprave po određenom pitanju zbog razloga iz stava 1 ovog člana, predsjednik Skupštine saziva nastavak sjednice u roku od 7 dana nakon izvršenih konsultacija, odnosno prispeća traženog mišljenja, s tim da krajnji rok za obavljanje neophodnih konsultacija ne može biti duži od 10 dana od dana prekida sjednice".
