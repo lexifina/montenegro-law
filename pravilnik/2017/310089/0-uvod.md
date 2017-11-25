@@ -1,0 +1,3 @@
+Na osnovu člana 81 stav 4 Zakona o upravljanju otpadom ("Službeni list CG", br. 64/11 i 39/16), Ministarstvo održivog razvoja i turizma donijelo je
+P R A V I L N I K
+O IZMJENI I DOPUNI PRAVILNIKA O BLIŽEM SADRŽAJU DOKUMENTACIJE KOJA SE PODNOSI UZ ZAHTJEV ZA IZDAVANJE DOZVOLE ZA UVOZ, IZVOZ I TRANZIT OTPADA, LISTI KLASIFIKACIJE OTPADA I SADRŽAJU

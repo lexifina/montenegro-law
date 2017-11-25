@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o bližem sadržaju dokumentacije koja se podnosi uz zahtjev za izdavanje dozvole za uvoz, izvoz i tranzit otpada, listi klasifikacije otpada i sadržaju i načinu vođenja registra izdatih dozvola ("Službeni list CG", broj 83/16) u članu 4 riječi: "ovjeren obrazac obavještenja države izvoza" zamjenjuju se riječima: "dodatne informacije koje prate isporuku otpada date u Prilogu 3a ovog pravilnika"
