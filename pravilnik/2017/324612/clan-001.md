@@ -1,0 +1,2 @@
+# Član 1
+Pripadniku jedinice civilne zaštite kod koga je, usljed povrede ili bolesti zadobijenih za vrijeme vršenja dužnosti u jedinici civilne zaštite, a bez njegove krivice, nastupilo tjelesno oštećenje od najmanje 20% i članovima uže porodice pripadnika jedinice civilne zaštite koji za vrijeme vršenja dužnosti civilne zaštite izgubi život, pripada jednokratna novčana pomoć u visini koja se propisuje ovim pravilnikom.
