@@ -1,0 +1,2 @@
+# Član 11
+Planiranje i projektovanje novih privremenih i trajnih građevinskih objekata, korišćenja prirodnih resursa (rudarstvo, energetika, saobraćaj, pomorstvo, vodoprivreda, poljoprivreda, šumarstvo, lovstvo, ribarstvo, turizam i dr), kao i radnji, aktivnosti i djelatnosti na području Regionalnog parka / Parka prirode "Dragišnica i Komarnica" sprovodiće se na osnovu prethodno obezbijeđenih smjernica i uslova zaštite prirode koje izdaje Agencija za zaštitu životne sredine.

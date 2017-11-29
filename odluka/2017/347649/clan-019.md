@@ -1,0 +1,5 @@
+# Član 19
+## Godišnji program upravljanja
+Plan upravljanja se ostvaruje godišnjim programima upravljanja (u daljem tekstu: Godišnji program) koje donosi Upravljač, a na koji saglasnost daje organ lokalne uprave nadležan za poslove zaštite životne sredine.
+Godišnji program upravljanja sadrži narocito: detaljan prikaz poslova na čuvanju, održavanju, unapređenju, promociji i održivom korišcenju zaštićenog prirodnog dobra za potrebe nauke, obrazovanja, rekreacije i turizma i ukupnog socio- ekonomskog razvoja; prikaz subjekata i organizacionih i materijalnih uslova za izvršenje programa, visine i izvora potrebnih finansijskih sredstava i druge elemente u skladu sa Planom upravljanja.
+Upravljač je dužan da Izvještaj o ostvarivanju Godišnjeg programa za prethodnu godinu dostavi nadležnom organu najkasnije do 1. marta tekuće godine za prethodnu godinu. Upravljač je dužan da Godišnji program upravljanja za narednu godinu dostavi na saglasnost nadležnom organu najkasnije do 30. novembra tekuće godine za narednu godinu.
