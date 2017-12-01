@@ -1,0 +1,2 @@
+# Član 1
+U Metodologiji za utvrdjivanje naknada za priključenje na distributivni sistem električne energije ("Službeni list Crne Gore", br. 7/17 i 44/17) u članu 6 stav 9, poslije riječi "naknade" tačka na kraju teksta briše se i dodaju riječi ",ako je nabavka vršena u prethodnoj godini, u suprotnom na bazi cijena iz odobrenog investicionog plana za narednu godinu, ako plan sadrži konkretne jedinične cijene, odnosno iz Strategije razvoja energetike do 2030. godine, ako cijene nijesu sadržane u odobrenom investicionom planu."
