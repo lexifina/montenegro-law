@@ -1,0 +1,4 @@
+# Član 2
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne
+Gore".
+------------------------- * U ovaj pravilnik prenjeta je Odluka Savjeta 93/195/EEZ od 2. februara 1993 o uslovima zdravlja životinja i veterinarskom sertifikovanju za ponovni ulazak registrovanih konja za trke, takmičenja i kulturna događanja nakon privremenog izvoza / Commission Decision of 2 February 1993 on animal health conditions and veterinary certification for the re-entry of registered horses for racing, competition and cultural events after temporary export (93/195/EEC) i Odluka komisije od 10. aprila 1992. o uslovima zdravlja životinja i veterinarskom sertifikovanju za privremeni ulazak registrirovanih konja (92/260/EEZ)/ Commission Decision of 10 April 1992 on animal health conditions and veterinary certification for temporary admission of registered horses (92/260/EEC)
