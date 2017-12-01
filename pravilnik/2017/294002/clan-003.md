@@ -1,0 +1,7 @@
+# Član 3
+## Sadržaj izvještaja o stanju ispuštanja komunalnih otpadnih voda za aglomeracije u Crnoj Gori
+Izvještaj o stanju ispuštanja komunalnih i industrijskih otpadnih voda za aglomeracije u Crnoj Gori sačinjava se na godišnjem nivou i sadrži podatke o:
+1) propisima u oblasti otpadnih voda, uključujući ocjenu usaglašenosti sa propisima Evropske unije;
+2) stanju upravljanja komunalnim otpadnim vodama i biološki razgradivim industrijskim otpadnim vodama u aglomeracijama, uključujući veličinu i opterećenje u aglomeracijama, ispuste, količinu i kvalitet ispuštenih otpadnih voda, karakteristike postrojenja za tretman otpadnih voda i kolektorskih sistema, broju korisnika fizičkih i pravnih lica, procentualno izraženom broju stanovnika po aglomeracijama koji su povezani na kolektorski sistem, procentualno izraženom broju stanovnika po aglomeracijama koji su povezani na postrojenje za tretman otpadnih voda, broju korisnika fizičkih i pravnih lica po aglomeracijama, broju uzetih uzoraka po parametru i broju odstupanja u kvalitetu u odnosu na broj uzoraka uzetih u toku godine ispuštene komunalne otpadne vode i biološki razgradivih industrijskih otpadnih voda u odnosu na propisane parametre, po aglomeracijama;
+3) broju ostvarenih inspekcijskih kontrola u oblasti upravljanja komunalnim otpadnim vodama, broju izrečenih kazni i iznosu naplaćenih kazni i
+4) zaključnim razmatranjima i preporukama o upravljanju komunalnim i industrijskim otpadnim vodama.
