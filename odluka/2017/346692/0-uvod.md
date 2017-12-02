@@ -1,0 +1,2 @@
+Na osnovu člana 24 i 25. Zakona o izboru odbornika i poslanika ("Sl.list RCG" br. 4/98, 5/98, 17/98, 14/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Sl.list CG" br. 46/11, 14/14 i 47/14) i člana 31. Statuta opštine Tivat ("Službeni list RCG- opštinski propisi" br. 40/04 i 26/06 i "Sl.list CG - opštinski propisi" br.12/11, 21/11, 03/13), Skupština opštine Tivat, na sjednici održanoj dana 07.11. 2017 godine, donijela je
+O D L U K U
