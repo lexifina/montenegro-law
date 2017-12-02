@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom bliže se uređuju kriterijumi, uslovi, način i postupak dodjele studentske nagrade, nagrade za dobitnike priznanja "Luča", nagrade za "Đaka generacije", nagrade za učenike osnovnih i srednjih škola za osvojeno I,II,III mjesto na državnim takmičenjima i nagrade za učenike osnovne i srednje muzičke škole koji su na državnim takmičenjima osvojili Specijalnu nagradu i nagradu Zlatna lira.
