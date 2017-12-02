@@ -1,0 +1,3 @@
+Na osnovu člana 31 člana 31 Statuta Opštine Tivat ("Sl. list RCG - opštinski propisi", br. 40/04 i 26/06 i "Sl. list Crne Gore - opštinski propisi", br. 12/11, 21/11 i 03/13) i člana 47 Odluke o rješavanju stambenih potreba lica koja bira ili imenuje Skupština opštine i Predsjednik opštine i drugih lica čiji je rad od posebnog interesa za Opštinu ("Službeni list Crne Gore - opštinski propisi", br. 032/11, 025/15), Skupština Opštine Tivat na sjednici održanoj dana 07.11.2017 godine, donijela je
+ODLUKU
+o imenovanju Komisije za rješavanje stambenih pitanja lica koja bira ili imenuje Skupština opštine i Predsjednik opštine
