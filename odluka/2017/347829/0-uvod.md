@@ -1,0 +1,3 @@
+Na osnovu člana 36 i 42 Zakona o kulturi ("Sl. list CG", br. 49/08, 16/11, 40/11, 38/12), člana 8 stav 1, član 9 stav 2 i člana 10 Zakona o muzejskoj djelatnosti ("Sl. list CG", br. 49/10, 40/11), člana 34 i 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, "Sl. list CG", br. 88/09, 03/10, 73/10, 38/12, 10/14, 57/14 i 03/16), člana 31 Statuta Opštine Tivat ("Sl.list RCG-opštinski propisi", br. 40/04, 26/06 i "Sl.list CG-opštinski propisi" br. 12/11, 21/11 i 03/13) Skupština opštine Tivat, na sjednici održanoj dana 07.11.2017 godine, donosi
+ODLUKU
+o osnivanju Javne ustanove Muzej i galerija Tivat
