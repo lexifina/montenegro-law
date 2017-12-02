@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za zaključenje poravnanja u predmetu Posl.br.P.826/16
+Daje se saglasnost za zaključenje poravnanja u predmetu Posl.br.P.826/16 koji se vodi pred Osnovnim sudom u Kotoru po tužbi tužilaca Andrić Antuna, Mićunović Milovana, Andrić Nade, Andrić Iliji ,Petković Pine, Smolović Katice, Bauk Mirjane i Petković Marije na način što će Opština Tivat obavezati da na ime naknade za dio kat.parcele 1297 k.o.Mrčevac-u naravi lokalni put kroz naselje Gradiošnica ukupne površine 993m2, koji odgovara ranijim česticama zemlje 509/1 i 509/2 k.o.Mrčevac, isplati imenovanima za njihove suvlasničke djelove od ukupno 209/360 iznos od 48.954,oo€ i troškove postupka u iznosu od 5.590,oo€ , sve u roku od petnaest dana od dana zaključenja poravanja .
