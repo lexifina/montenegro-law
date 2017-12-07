@@ -1,0 +1,2 @@
+Na osnovu člana 45. i člana 57. stava 1. tačka 6. Zakona o lokalnoj samoupravi ("Sl. list RCG" br. 42/03, 28/04, 75/05, 13/06 i "Sl. list CG" br. 88/09, 3/10, 73/10, 38/12 i 10/14), i člana 30. stav 1. tačka 16., člana 64. i člana 65. Statuta Opštine Kotor ("Sl. list Opštine Kotor" br. 03/04 i "Sl. list CG" - opštinski propisi br. 17/08, 31/09, 40/10 i 4/11), i člana 109. Poslovnika Skupštine Opštine Kotor ("Sl. list CG" - opštinski propisi br 9/12), Skupština Opštine Kotor na XIII sjednici održanoj 01. 12. 2017. godine, donijela je
+ODLUKU
