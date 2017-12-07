@@ -1,0 +1,3 @@
+Na osnovu člana 65 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03, 44/03) i ("Sl. list CG", br. 05/05, 55/08, 51/08, 47/10, 01/15, 78/15, 03/16), čl 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, 3/10, 73/810, 38/12, 10/14, 57/14, 03/16), člana 34 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl. list RCG-Opštinski propisi", br. 25/04 i 33/06 i "Sl. list CG - opštinski propisi", br. 18/10 i 32/13), Skupština opštine Bijelo Polje, na sjednici održanoj 05.12.2017.godine, donijela je
+ODLUKU
+o izmjeni i dopuni Odluke o davanju saglasnosti na Odluku Odbora direktora DOO "Komunalno-Lim" Bijelo Polje
