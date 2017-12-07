@@ -1,0 +1,2 @@
+# Član 1
+Daje se saglasnost DOO "Vodovod i kanalizacija Kotor" za otvaranje namjenskog žiro računa radi deponovanja finansijskih sredstava od strane Opštine Kotor u iznosu od 271.621,00 eura (sopstveno učešće za obavezne radove 118.804,00 eura i za opcione radove 152.817,00 eura) za potrebe realizacije Ugovornog sporazuma sa MPP "Jedinstvo" AD, broj 3484 od 16.10.2017. godine zaveden kod DOO "Vodovod i kanalizacija Kotor".
