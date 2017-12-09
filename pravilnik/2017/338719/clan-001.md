@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se bliži način izvršavanja posebnih mjera predostrožnosti oduzimanje i zadržavanje stvari čije držanje i upotreba nijesu zabranjeni, posmatranje u toku noći, odvajanje od ostalih zatvorenika, usamljenje, uskraćivanje ili ograničavanje aktivnosti na otvorenom, testiranje na zarazne bolesti, alkohol, opojne droge ili druge psihoaktivne supstance i zatvaranje u posebno obezbijeđenu prostoriju, kao i izgled prostorija u kojima se izvršavaju posebne mjere predostrožnosti usamljenje i zatvaranje u posebno obezbijeđenu prostoriju.
