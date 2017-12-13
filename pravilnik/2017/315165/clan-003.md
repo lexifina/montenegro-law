@@ -1,0 +1,3 @@
+# Član 3
+Inspekcijski nadzor vrši se ostvarivanjem neposrednog uvida u opšte i pojedinačne akte i radnje nosilaca odbrambenih priprema, radi utvrđivanja: činjeničnog stanja, zakonitosti postupanja u primjeni propisa i drugih akata u oblasti odbrane, kvaliteta i usklađenosti dokumentacije sa zakonskim i podzakonskim propisima i drugim aktima, stanja, održavanja i skladištenja sredstava koja se nalaze na zaduženju i pregleda objekta u vojnom krugu.
+Nosioci odbrambenih priprema su: građani, Vojska, državni organi, organi državne uprave, lokalne samouprave i lokalne uprave, privredna društva, druga pravna lica i preduzetnici.
