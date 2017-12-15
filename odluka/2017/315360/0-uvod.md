@@ -1,0 +1,2 @@
+Na osnovu člana 11 i člana 18 Zakona o rodnoj ravnopravnosti (,,Sl.list RCG" broj 46/07 i ,,Sl.list CG" br.35/15) i člana 31 tačka 2 Statuta opštine Kolašin (,,Sl.list CG -o.p." br.25/04, 31/04, 34/06 i ,,Sl.list CG -o.p." br 41/10) Skupština opštine Kolašin na sjednici održanoj dana 27.11. 2017. godine, donijela je
+O D L U K U O USVAJANJU LOKALNOG AKCIONOG PLANA I PLANA AKTIVNOSTI ZA POSTIZANJE RODNE RAVNOPRAVNOSTI
