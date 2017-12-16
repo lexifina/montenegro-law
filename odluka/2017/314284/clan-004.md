@@ -1,0 +1,5 @@
+# Član 4
+Član 49 mijenja se i glasi:
+"Banka je dužna da utvrđuje razliku između iznosa rezervacija za potencijalne gubitke, obračunatog u skladu sa članom 48 ove odluke i zbira iznosa ispravke vrijednosti za stavke bilansne aktive i rezervisanja za vanbilansne stavke, izračunatog u skladu sa odredbama ove odluke kojima se propisuje način vrednovanja stavki aktive primjenom Međunarodnih računovodstvenih standarda i Međunarodnih standarda finansijskog izvještavanja.
+Pozitivna razlika između iznosa obračunatih rezervacija za potencijalne gubitke i zbira iznosa ispravke vrijednosti za stavke bilansne aktive i rezervisanja za vanbilansne stavke, utvrđena po pojedinačnim partijama, predstavlja potrebne rezerve za procijenjene gubitke.
+Banka je dužna da Centralnoj banci dostavlja izvještaje o klasifikaciji stavki bilansne aktive i stavki vanbilansa, kao i podatke o iznosu obračunatih rezervacija za potencijalne gubitke, u skladu sa odlukom kojom se propisuju izvještaji koje banke dostavljaju Centralnoj banci."
