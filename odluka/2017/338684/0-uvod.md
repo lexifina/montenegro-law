@@ -1,0 +1,2 @@
+Na osnovu člana 77 Zakona o šumama ("Službeni list CG", br. 74/10 i 47/15), člana 29 stav 1 i člana 40 Zakona o državnoj imovini ("Službeni list CG", broj 21/09) i čl. 4, 5 i 6 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list CG", broj 44/10), Vlada Crne Gore, na sjednici od 16. novembra 2017. godine, donijela je
+ODLUKU O PRODAJI DRVETA U DUBEĆEM STANJU NA TRASI ŽIČARE I SKI STAZE SKIJALIŠTA "KOLAŠIN 1600"
