@@ -1,0 +1,55 @@
+# Član 3
+Evidencija o postupanju u upravnim stvarima (u daljem tekstu: evidencija) koju vodi prvostepeni javnopravni organ sadrži:
+1) broj prenesenih predmeta iz ranijeg perioda izvještavanja;
+2) broj predmeta vraćenih na ponovni postupak;
+3) broj postupaka pokrenutih u periodu izvještavanja;
+4) ukupan broj predmeta u periodu izvještavanja (broj postupaka po zahtjevu stranke i po službenoj dužnosti);
+5) broj riješenih predmeta;
+6) broj zahtjeva odbijenih iz formalnih razloga;
+7) broj obustavljenih postupaka;
+8) broj negativnih rješenja (odbijenih zahtjeva);
+9) broj pozitivnih rješenja (usvojenih zahtjeva);
+10) broj predmeta riješenih u zakonskom roku;
+11) broj predmeta riješenih u opravdano produženom roku;
+12) broj predmeta riješenih nakon isteka zakonskog roka;
+13) broj neriješenih predmeta na kraju perioda izvještavanja;
+14) broj primljenih žalbi na rješenja prvostepenog organa;
+15) broj neriješenih žalbi na rješenja prvostepenog organa;
+16) ukupan broj žalbi u periodu izvještavanja;
+17) broj odbijenih žalbi;
+18) broj rješenja kojima prvostepeni organ zamjenjuje svoje rješenje po žalbi;
+19) broj po žalbi poništenih rješenja kad je drugostepeni organ donio meritorno rješenje;
+20) broj po žalbi poništenih rješenja kad je predmet vraćen prvostepenom organu na ponovni postupak;
+21) broj po žalbi poništenih rješenja - drugo;
+22) ukupan broj po žalbi poništenih rješenja;
+23) broj neriješenih upravnih izvršenja prenijetih iz ranijeg perioda izvještavanja;
+24) broj pokrenutih upravnih izvršenja u periodu izvještavanja;
+25) ukupan broj izvršenja u periodu izvještavanja;
+26) broj izvršenja preko drugih lica;
+27) broj izvršenja putem novčanih kazni;
+28) broj izvršenja neposrednom prinudom;
+29) broj izvršenja po osnovu poravnanja;
+30) broj obustavljenih izvršenja;
+31) broj rješenja kojima se odbija zahtjev za ponavljanje postupka;
+32) broj rješenja u ponovljenom postupku koja su ostavljena na snazi;
+33) broj rješenja u ponovljenom postupku koja su zamijenjena novim rješenjem;
+34) ukupan broj rješenja u ponovljenom postupku;
+35) broj odloženih izvršenja;
+36) broj poništenih rješenja po članu 139 Zakona o upravnom postupku (u daljem tekstu: Zakon);
+37) broj poništenih rješenja po članu 140 Zakona;
+38) broj ukinutih rješenja po članu 140 Zakona;
+39) broj ukinutih zakonitih rješenja (član 141 Zakona);
+40) broj poništenih i izmijenjenih rješenja u vezi sa upravnim sporom (član 143 Zakona);
+41) broj sklopljenih upravnih ugovora;
+42) broj izmjenjenih upravnih ugovora zbog promijenjenih okolnosti;
+43) broj raskinutih upravnih ugovora zbog promijenjenih okolnosti;
+44) broj jednostrano raskinutih upravnih ugovora;
+45) broj poništenih upravnih ugovora;
+46) broj izdatih uvjerenja iz službenih evidencija (član 33 Zakona);
+47) broj izdatih uvjerenja o drugim činjenicama (član 34 Zakona);
+48) broj neriješenih prigovora prenijetih iz ranijeg perioda izvještavanja;
+49) broj primljenih prigovora u periodu izvještavanja;
+50) ukupan broj prigovora u periodu izvještavanja;
+51) broj prigovora odbijenih iz formalnih razloga;
+52) broj prigovora odbijenih iz materijalno pravnih razloga; i
+53) broj usvojenih prigovora.
