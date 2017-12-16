@@ -1,0 +1,3 @@
+# Član 5
+Nominalna vrijednost hartija od vrijednosti koje je emitovala država Crna Gora, države članice Evropske unije i međunarodne finansijske institucije, odnosno tržišna vrijednost drugih sredstava obezbjeđenja koja se daju za obezbjeđenje kredita za likvidnost mora iznositi najmanje 110% vrijednosti kredita.
+Ukoliko tržišna vrijednosti hartija od vrijednosti i drugih sredstava obezbjeđenja koji su dati za obezbjeđenje kredita za likvidnost padne za više od 5 procentnih poena u odnosu na inicijalno ugovoreni procenat za obezbjeđenje tog kredita, banka je dužna da, na zahtjev Centralne banke, obezbijedi dodatna sredstva obezbjeđenja iz člana 4 ove odluke ili da vrati dio kredita radi usklađivanja sa inicijalno ugovorenim procentom za obezbjeđenje tog kredita.
