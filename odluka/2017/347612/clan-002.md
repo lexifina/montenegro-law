@@ -1,0 +1,2 @@
+# Član 2
+Urbanističku parcelu broj 2090/1093 u zahvatu DUP-a "Konik-Stari aerodrom" - Izmjene i dopune, pored zemljišta opisanog u članu 1 stav 1 odluke, čini i zemljište označeno kat.parcelom broj 2090/1093 površine 1353 m2, svojina "Unipred" d.o.o. Bijelo Polje, shodno listu nepokretnosti broj 6559 KO Podgorica III, bez tereta i ograničenja, te kat.parcela broj 2090/1596 površine 2 m2, svojina Čović Milinka shodno listu nepokretnosti broj 5471 KO Podgorica III.
