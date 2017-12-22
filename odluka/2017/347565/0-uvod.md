@@ -1,0 +1,3 @@
+Na osnovu člana 39. Zakona o zaštiti kulturnih dobara ("Službeni list Crne Gore" br. 49/10 i 40/11), člana 45. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06 i "Sl. list Crne Gore" br. 88/09, 03/10, 73/10, 38/12 , 10/14, 57/14 i 03/16), i člana 30. Statuta Opštine Kotor ("Sl. list Opštine Kotor", br. 03/04, "Sl. list Crne Gore - Opštinski propisi" br. 17/08, 31/09, 40/10 i 04/11), Skupština opštine Kotor je na XIII sjednici održanoj 01. 12. 2017. godine, je donijela
+ODLUKA
+o izmjeni odluke o upravljanju kulturnim dobrom i naknadi koja se plaća prilikom obilaska kotorskih bedema i
