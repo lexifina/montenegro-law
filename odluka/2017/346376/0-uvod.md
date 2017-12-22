@@ -1,0 +1,2 @@
+Na osnovu člana 27. stav 1. tačka 5 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 42/03, 28/04, 75/05, 13/06, i "Službeni list CG , broj 88/09, 03/10, 73/10 i 38/12, 10/14, 27/17 i 3/16") i člana 37 tačka 6 Statuta Opštine Budva ("Službeni list Crne Gore-Opštinski propisi", broj 27/17), predsjednik Opštine Budva, po pribavljenom mišljenju Glavnog administratora, broj 12- 01-161/2 od 11,12.2017. donosi
+O D L U K U
