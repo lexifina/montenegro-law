@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se mjere za sprečavanje širenja virusa visoko patogene avijarne influence kod ptica koje se drže u zoološkim vrtovima i drugim objektima u kojima se uzgajaju i drže ptice u komercijalne ili nekomercijalne svrhe, radi izlaganja i obrazovanja javnosti, očuvanja životinjske vrste ili naučnih istraživanja sa divljih ptica, živine i drugih ptica kod kojih je službeno potvrđeno prisustvo visoko patogena avijarna influence.

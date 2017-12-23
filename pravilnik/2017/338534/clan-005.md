@@ -1,0 +1,3 @@
+# Član 5
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+------------------------ * U ovaj pravilnik prenjeta je Odluka Komisije 2007/598/EC od 28. avgusta 2007. godine o mjerama za sprečavanje širenja visoko patogene avijarne influence na druge ptice u zatočeništvu držane u zoološkim vrtovima i odobrenim tijelima, institutima ili centrima u državama članicama (COMMISSION DECISIONof 28 August 2007concerning measures to prevent the spread of highly pathogenic avian influenza to other captive birds kept in zoos and approved bodies, institutes or centres in the Member States)
