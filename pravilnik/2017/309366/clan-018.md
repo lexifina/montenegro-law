@@ -1,0 +1,7 @@
+# Član 18
+Za liječenje životinja akvakulture mogu se koristiti supstance biljnog, životinjskog ili mineralnog porijekla u homeopatskom rastvoru, biljke i njihovi ekstrakti koji nemaju anestetički efekat i elementi u tragovima, metali, prirodni imunostimulansi i probiotici.
+Ako upotreba supstanci iz stava 1 ovog člana nije djelotvorna u liječenju bolesti, mogu se koristiti alopatski tretmani, uključujući i antibiotike, koji se koriste dva puta godišnje, odnosno jedan tretman godišnje kada se radi o životinjama čiji je proizvodni ciklus kraći od jedne godine.
+U slučaju da alopatski tretmani nijesu korišćeni u skladu sa stavom 2 ovog člana, životinje akvakulture se ne mogu stavljati u promet kao organski proizvodi.
+Liječenje protiv parazita vrši se u dva tretmana godišnje, odnosno jedan tretman godišnje kada je proizvodni ciklus kraći od 18 mjeseci, isključujući tretman koji je dio obaveznog programa zdravstvene zaštite.
+Nakon sprovođenja alopatskih veterinarskih tretmana i tretmana protiv parazita iz st. 2 i 4 ovog člana, kao i tretmana koji su obuhvaćeni obaveznim programom zdravstvene zaštite životinja, period karence traje dvostruko duže u odnosu na period karence u neorganskoj proizvodnji u skladu sa uputstvom proizvođača lijeka, a u slučaju da period karence nije određen uputstvom proizvođača lijeka, period karence traje 48 sati.
+U slučaju liječenja veterinarskim medicinskim proizvodima, prije stavljanja u promet životinja akvakulture, obavještava se kontrolno tijelo, a tretirane životinje se obilježavaju.
