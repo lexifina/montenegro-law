@@ -1,0 +1,15 @@
+# Član 1
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti radi izgradnje
+DV 110 kV Tivat - Budva (sistem ulaz-izlaz) u TS 400/110 kV Lastva Grbaljska u svrhu izgradnje DV 2x400kV Lastva -Trebinje i Lastva-Pljevlja i DV 400kV Lastva-Podgorica, dionica Lastva-Čevo i to:
+Opština Kotor
+K.O. Gorovići
+- dijela katastarske parcele broj 1037, šuma 3. klase u površini od 437 m2, dijela katastarske parcele broj 1048, šuma 3. klase u površini od 752 m2, dijela katastarske parcele broj 1038, neplodno zemljište u površini od 8 m2, upisanih u list nepokretnosti broj 40 kao susvojina Dajičić Dejana u dijelu 2/12, Dajičić Radosave za 6/12, Dajičić Zorke 1/3,
+- dijela katastarske parcele broj 1049/1, šuma 3. klase u površini od 117 m2, upisane u list nepokretnosti broj 71 kao susvojina Kaluđerović Petra Dragane u dijelu 1/25, Kaluđerović Jova Ilije 1/5, Kaluđerović Vasa Jova 1/5, Kaluđerović Petra Ljiljane 1/25, Kaluđerović Milenke 1/20, Kaluđerović Dušana Milovana 1/5, Kaluđerović Petra Mirjane 1/25, Kaluđerović Slađane 1/20, Kaluđerović Petra Slobodana 1/25, Rajković Marka Snežane 1/20, Kaluđerović Stanice 1/25, Kaluđerović Svetlane 1/20,
+- dijela katastarske parcele broj 1046/1, šuma 3. klase u površini od 10 m2, drugog dijela katastarske parcele broj 1046/1, šuma 3. klase u površini od 42 m2, upisanih u list nepokretnosti broj 143 kao svojina Mazarak Boja Pera,
+- dijela katastarske parcele broj 1040/1, šuma 3. klase u površini od 621 m2, upisane u list nepokretnosti broj 121 kao susvojina Kralj Đura Branka u dijelu 2/6, Šarenac rođ. Kralj Jelene 1/6, Kralj Miloša 1/6,
+- dijela katastarske parcele broj 1078/2, šuma 3. klase u površini od 620 m2, drugog dijela katastarske parcele broj 1078/2, šuma 3. klase u površini od 40 m2, upisanih u list nepokretnosti broj 60 kao susvojina Kaluđerović Sava Jovice u dijelu 1/2, Kaluđerović Sava Miloša 1/2.
+Opština Kotor
+K.O. Lastva
+- dijela katastarske parcele broj 1, šuma 3. klase u površini od 123 m2, dijela katastarske parcele broj 6, šuma 3. klase u površini od 112 m2, dijela katastarske parcele broj 9, šuma 3. klase u površini od 27 m2, upisanih u list nepokretnosti broj 631 kao susvojina Duletić Branka Željka u dijelu 1/6, Duletić Nikole Aleksandra za 1/24, Duletić Načinović Antice 1/18, Duletić Dušana Astrida 1/18, Duletić Pera Krsta 1/6, Duletić Nikole Mirene 1/24, Duletić Marka Petra 1/6, Stanković Renate 1/6, Dragašević Slobodana Tamare 1/24, Duletić Dušana Teute 1/18, Antić Slobodana Tijane 1/24,
+- dijela katastarske parcele broj 2, šuma 3. klase u površini od 207 m2, upisane u list nepokretnosti broj 573 kao susvojina Stanišić rođ. Jovanović Biljane u dijelu 1/2, Stanišić Jova Mirka 1/2,
+- dijela katastarske parcele broj 8/1, šuma 3. klase u površini od 244 m2, prvog dijela katastarske parcele broj 8/4, šuma 3. klase u površini od 2 m2, drugog dijela katastarske parcele broj 8/4, šuma 3. klase u površini od 25 m2, dijela katastarske parcele broj 8/5, šuma 3. klase u površini od 53 m2, upisanih u list nepokretnosti broj 351 kao susvojina Stanišić rođ. Jovanović Biljane 1/8, Stanišić Blaža Dejana 1/8, Stanišić Jova Mirka 1/8, Stanišić Iva Steva 1/4.
