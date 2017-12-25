@@ -1,0 +1,3 @@
+Na osnovu člana 42 i 43 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", broj 42/03 i "Službeni list CG", broj 05/08, 74/10,1/15,78/15, 3/16 i 30/17), člana 44 Zakona o Glavnom gradu ("Službeni list RCG", broj 65/05 i "Službeni list CG", broj 72/10, 2/16 i 31/17) i člana 48 stav 1. alineja 6 Statuta Glavnog grada ("Službeni list RCG-opštinski propisi" broj 28/06 i "Službeni list CG-opštinski propisi", broj 39/10, 18/12 i 38/17), Skupština Glavnog grada - Podgorice, na sjednici održanoj 21. decembra 2017. godine, donijela je
+ODLUKU O BUDŽETU GLAVNOG GRADA PODGORICE ZA 2018. GODINU
+OPŠTI DIO
