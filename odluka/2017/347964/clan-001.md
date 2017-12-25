@@ -1,0 +1,3 @@
+# Član 1
+## o osnivanju biznis zone "Istok" na području Opštine Nikšić
+Ovom odlukom jedinica lokalne samouprave (u daljem tekstu: Osnivač) osniva biznis zonu "Istok" na području opštine Nikšić. Ova odluka sadrži podatke o lokaciji, načinu upravljanja, načinu finansiranja infrastrukturnog opremanja lokacije biznis zone "Istok", vrste djelatnosti koje se mogu obavljati u biznis zoni, olakšice koje se mogu odobriti korisniku biznis zone, međusobna prava i obaveze osnivača i vlasnika ako je lokacija ili dio lokacije biznis zone u privatnom vlasništvu i druga pitanja, u cilju podrške ekonomskom razvoju opštine, podsticaja investicija i otvaranja novih radnih mjesta.
