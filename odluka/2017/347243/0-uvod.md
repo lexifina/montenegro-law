@@ -1,0 +1,2 @@
+Na osnovu čl. 32 stav 1 tačka 19, u vezi sa čl. 33 Statuta Opštine Petnjica ("Sl. list CG - Opštinski propisi", broj 3/14, 2/15 i 41/15 ), i člana 12 Odluke o obrazovanju radnih tijela Skupštine opštine Petnjica ("Sl. list CG - Opštinski propisi broj 5/14 ) na predlog Odbora za izbor i imenovanja, Skupština opštine Petnjica, na sjednici održanoj 27.12.2017. godine, donijela je
+O D L U K U O IMENOVANJU PREDSJEDNIKA I ČLANOVA ODBORA ZA FINANSIJE I EKONOMSKI RAZVOJ
