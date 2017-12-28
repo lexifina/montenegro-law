@@ -1,0 +1,3 @@
+# Član 7
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+---------------------------- *U ovaj pravilnik prenijete su odredbe Regulative (EU) br. 1217/2009 od 30. novembra 2009. o uspostavljanju sistema za prikupljanje računovodstvenih podataka o prihodima i poslovnim aktivnostima poljoprivrednih gazdinstava u Evropskoj zajednici i Uredbe Komisije (EU) 2015/220 оd 3. februara 2015. o utvrđivanju pravila za primjenu Uredbe Savjeta (EZ) br. 1217/2009 o uspostavljanju sistema za prikupljanje računovodstvenih podataka o prihodima i poslovnim aktivnostima poljoprivrednih gazdinstava u Evropskoj uniji.
