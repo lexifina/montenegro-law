@@ -1,0 +1,2 @@
+# Član 7
+Evidencija o upotrebi sredstava za zaštitu i spašavanje u vanrednom stanju sadrži: naziv "EVIDENCIJA O UPOTREBI SREDSTAVA ZA ZAŠTITU I SPAŠAVANJE U VANREDNOM STANJU"; podatke o vrsti operativne jedinice; naziv opštine; redni broj; naziv sredstva za zaštitu i spašavanje; podatke o vlasniku sredstva za zaštitu i spašavanje i mjestu, datumu i vremenu upotrebe; podatke o aktivnostima za koje je sredstvo upotrijebljeno i primjedbu (Obrazac 3).

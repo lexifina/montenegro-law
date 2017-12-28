@@ -1,0 +1,2 @@
+# Član 6
+Zbirna evidencija o operativnim jedinicama i preduzetim mjerama u zaštiti i spašavanju u vanrednom stanju sadrži: naziv "ZBIRNA EVIDENCIJA O OPERATIVNIM JEDINICAMA I PREDUZETIM MJERAMA U ZAŠTITI I SPAŠAVANJU U VANREDNOM STANJU"; redni broj; naziv opštine i vrstu operativne jedinice; podatke o angažovanju operativnih jedinica (broj angažovanih pripadnika operativnih jedinica, preduzete mjere u zaštiti i spašavanju u vanrednom stanju, poslovi na kojima su angažovani, mjesto, datum i vrijeme angažovanja operativne jedinice) i primjedbu (Obrazac 2).

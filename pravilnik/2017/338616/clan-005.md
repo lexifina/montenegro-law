@@ -1,0 +1,3 @@
+# Član 5
+Pojedinačna evidencija o operativnim jedinicama i preduzetim mjerama u zaštiti i spašavanju u vanrednom stanju sadrži: naziv "POJEDINAČNA EVIDENCIJA O OPERATIVNIM JEDINICAMA I PREDUZETIM MJERAMA U ZAŠTITI I SPAŠAVANJU U VANREDNOM STANJU"; podatke o vrsti operativne jedinice; naziv jedinice lokalne samouprave (u daljem tekstu:
+opština); redni broj; ime i prezime pripadnika operativne jedinice; podatke o preduzetim mjerama u zaštiti i spašavanju u vanrednom stanju; podatke o angažovanju pripadnika operativne jedinice (poslove na kojima je pripadnik operativne jedinice bio angažovan, mjesto, datum i vrijeme angažovanja) i primjedbu (Obrazac 1).
