@@ -1,0 +1,2 @@
+# Član 25
+Fizioterapeutu strancu, pored uslova za oduzimanje licence iz čl. 22 i 23 ovog pravilnika, licenca, odnosno privremena licenca za rad se oduzima i u slučaju ako je na snazi zaštitna mjera udaljenja, mjera bezbjednosti protjerivanje stranca iz zemlje, zaštitna mjera protjerivanje stranca sa teritorije Crne Gore ili mu je otkazan boravak, u skladu sa zakonom kojim se uređuje boravak i rad stranaca.
