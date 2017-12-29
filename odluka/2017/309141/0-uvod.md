@@ -1,0 +1,2 @@
+Na osnovu člana 116 stav 1 tačka 13 Zakona o energetici ("Sllužbeni list CG" broj 5/2016) , člana14 Metodologije za utvrđivanje naknada za priključenje na distributivn sistem električne energije ("Službeni list CG" broj 7/2017) i člana 33 Statuta DOO "Crnogorski elektrodistributivni sistem" Podgorica , Odbor direktora putem vansjedničnog izjašnjavanja održanog 1. decembra 2017. godine, donio je
+O D L U K U O ODREĐIVANJU NAKNADA ZA PRIKLJUČENJE NA DISTRIBUTIVNI SISTEM ELEKTRIČNE ENERGIJE
