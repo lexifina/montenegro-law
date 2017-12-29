@@ -1,0 +1,2 @@
+Na osnovu člana 82 tačka 3 Ustava Crne Gore i člana 43 stav 2 Zakona o nacionalnom javnom emiteru Radio i Televizija Crne Gore ("Službeni list CG", br. 79/08, 45/12, 43/16 i 54/16), a u vezi sa članom 42 stav 1 Zakona o sprječavanju korupcije ("Službeni list CG", br. 53/14 i 42/17), Skupština Crne Gore 26. saziva na Desetoj sjednici Drugog redovnog (jesenjeg) zasijedanja u 2017. godini, dana 29. decembra 2017. godine, donijela je
+O D L U K U O RAZRJEŠENJU JEDNOG ČLANA SAVJETA RADIO I TELEVIZIJE CRNE GORE
