@@ -1,0 +1,2 @@
+Na osnovu člana 34 st. 5 i 6 i člana 76h Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03, 44/03 i "Sl. list CG, br. 5/08 i 74/10, 1/15, 78/15, 3/16, 30/17 i 92/17), Ministarstvo finansija donijelo je
+PLAN PRIVREMENE AKONTATIVNE RASPODJELE SREDSTAVA EGALIZACIONOG FONDA ZA 2018. GODINU OPŠTINAMA KOJE SU BILE KORISNICE OVIH SREDSTAVA U 2017. GODINI, ISKLJUČUJUĆI PRIJESTONICU CETINJE

@@ -1,0 +1,77 @@
+P r i l o g PPARSF
+PLAN PRIVREMENE AKONTATIVNE RASPODJELE SREDSTAVA EGALIZACIONOG FONDA OPŠTINAMA ZA 2018. GODINU
+Redn
+i broj
+Naziv opštine
+Iznos
+raspoređenih
+sredstava u €
+%
+1
+2
+3
+4
+1
+Andrijevica
+1,268,312.00
+4.09
+2
+Berane
+3,925,130.00
+12.66
+3
+Bijelo Polje
+5,756,655.00
+18.57
+4
+Danilovgrad
+1,882,316.00
+6.07
+5
+Žabljak
+626,325.00
+2.02
+6
+Kolašin
+1,011,108.00
+3.26
+7
+Mojkovac
+925,467.00
+2.99
+8
+Nikšić
+6,122,386.00
+19.75
+9
+Plav
+1,058,818.00
+3.42
+10
+Pljevlja
+2,663,495.00
+8.59
+11
+Rožaje
+2,624,316.00
+8.47
+12
+Ulcinj
+870,212.00
+2.81
+13
+Šavnik
+1,040,604.00
+3.36
+14
+Petnjica
+755,320.00
+2.44
+15
+Gusinje
+469,536.00
+1.51
+UKUPNO
+31,000,000.00
+100.0
+0

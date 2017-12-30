@@ -1,0 +1,3 @@
+# Član 2
+Sredstva Fonda za 2018. godinu će se, do donošenja Plana akontativne raspodjele sredstava Fonda opštinama za 2018. godinu, privremeno akontativno raspoređivati korisnicima iz člana 1 ovog plana, na osnovu petnaestodnevnog priliva na račun Fonda i to prema učešću pojedinih opština u ukupnim sredstvima Fonda utvrđenog Planom akontativne raspodjele sredstava Egalizacionog fonda opštinama za 2017. godinu ("Sl. list CG", broj 32/17), pri čemu se učešće Prijestonice Cetinje ravnomjerno raspoređuje na ostale opštine, korisnice sredstava Fonda za 2018. godinu.
+Iznos raspoređenih sredstava pojedinačno za svaku opštinu i njihovo učešće u ukupnim sredstvima Fonda za 2018. godinu, prema privremenom rasporedu, sadržano je u Prilogu "PPARSF" i čini sastavni dio ovog plana.
