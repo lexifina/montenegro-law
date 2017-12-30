@@ -1,0 +1,2 @@
+# Član 5
+Pošiljke sirovog mlijeka, proizvoda od mlijeka, kolostruma i proizvoda od kolostruma mogu da se uvoze u Crnu Goru iz država ili njihovih područja u kojima je bolest slinavke i šapa izbila u periodu od 12 mjeseci prije datuma izdavanja zdravstvenog sertifikata ili u kojima je sprovedena vakcinacija protiv te bolesti u tom periodu, pod uslovom da su termički obrađeni u skladu sa članom 4 ovog pravilnika.
