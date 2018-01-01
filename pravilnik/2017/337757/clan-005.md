@@ -1,0 +1,3 @@
+# Član 5
+Karton stranca je formata A4 i sadrži nazive: "Ministarstvo unutrašnjih poslova" i "Centar za prihvat", mjesto za fotografiju stranca dimenzija 30x35mm, naziv "KARTON STRANCA", mjesta za unos podataka o strancu (prezime, rođeno prezime i ime, imena roditelja, pol, dan, mjesec i godina rođenja, mjesto i država rođenja, državljanstvo, lični opis stranca i posebna obilježja, podatke o zdravstvenom stanju i napomene), datum prijema stranca, datum otpusta, odnosno napuštanja Centra za prihvat, kao i mjesta za pečat i potpis službenika Centra za prihvat.
+Obrazac kartona stranca sastavni je dio ovog pravilnika (Obrazac 2).
