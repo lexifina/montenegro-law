@@ -1,0 +1,2 @@
+# Član 3
+Za iznose naknada iz čl. 1 i 2 ove odluke, koji predstavljaju učešće opštine Nikšić u finansiranju izgradnje četiri stambena objekta za potrebe službenika Ministarstva unutrašnjih poslova, Uprave policije Crne Gore i Agencije za nacionalnu bezbjednost, koji rade u ovim organima, a žive na teritoriji opštine Nikšić, ima se umanjiti cijena koštanja m2 stambenog prostora u objektima koji se planiraju graditi na lokaciji iz člana 1 ove odluke.

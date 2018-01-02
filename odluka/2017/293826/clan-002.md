@@ -1,0 +1,3 @@
+# Član 2
+Sindikat Uprave policije Crne Gore, kao Investitor objekta, oslobađa se obaveze plaćanja naknade za komunalno opremanje građevinskog zemljišta i dužan je da o svom trošku izvrši kompletno komunalno opremanje građevinskog zemljišta do priključka na urbanističku parcelu, uključujući i izgradnju pristupnih saobraćajnica, u skladu sa planskim dokumentom.
+Iznos naknade za komunalno opremanje građevinskog zemljišta utvrdiće se nakon izrade revidovanog idejnog, odnosno glavnog projekta saglasno članu 3 Odluke o naknadi za komunalno opremanje građevinskog zemljišta ("Službeni list CG-Opštinski propisi", broj 12/15).
