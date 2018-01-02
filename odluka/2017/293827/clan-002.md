@@ -1,0 +1,3 @@
+# Član 2
+Na navedenoj lokaciji iz člana 1 ove odluke, tj. površinama za sport i rekreaciju, zakupcima se može omogućiti postavljanje privremenih objekata montažnog karaktera za opremu, a može se omogućiti i postavljanje ugostiteljskih objekata različitih sadržaja za smještaj posjetilaca i sportista, te u svrhu poslovnih, komercijalnih i uslužnih djelatnosti. Pored navedenog mogu se formirati sadržaji tipa kafe-restorana, kao i dopuna sadržajnih komponenti u svrhu aktivne i pasivne rekreacije (mobilijara, sportskih terena i staza), kao i opreme za dječiju igru i urbane opreme.
+Na predmetnoj mikrolokaciji, prisutna je šumska sastojina crnog bora (Pinus nigra) i nije primijećeno prisustvo endemičnih, rijetkih, dekorativnih i međunarodno značajnih vrsta.
