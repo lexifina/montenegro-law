@@ -1,0 +1,5 @@
+# Član 5
+## Stavljanje na tržište
+(1) Oprema pod pritiskom i sklopovi čiji je najveći dozvoljeni pritisak veći od 0.5 bara stavljaju se na tržište ako su pravilno instalirani i ako ne ugrožavaju zdravlje i bezbjednost ljudi, životinja i imovine, u skladu sa ovim pravilnikom i posebnim propisima. (2) Na sajmovima, izložbama i prezentacijama dozvoljeno je izlaganje opreme i sklopova pod pritiskom koji nijesu usaglašeni sa zahtjevima iz ovog pravilnika, ako je označeno vidljivom oznakom da je oprema neusaglašena i da se ne može stavljati na tržište.
+(3) U slučaju izlaganja opreme i sklopova iz stava 2 ovog člana, preduzimaju se neophodne mjere radi zaštite zdravlja i bezbjednosti ljudi i imovine, u skladu sa propisanim zahtjevima.
+(4) Oprema pod pritiskom ili sklopovi, koji ispunjavaju uslove utvrđene ovim pravilnikom i koji su obilježeni znakom usaglašenosti, stavljaju se slobodno na tržište. (5) U cilju sigurne i ispravne upotrebe gasne opreme i sklopova, podaci iz tač. 3.3 i 3.4 Priloga 1, osim podataka na pločici sa tehničkim podacima, moraju biti na crnogorskom jeziku.
