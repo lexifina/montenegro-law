@@ -1,0 +1,2 @@
+Na osnovu člana 7. a u vezi sa članom 56 Zakona o izboru odbornika i poslanika (,,Sl. list RCG", br. 04/98, 05/98, 17/98, 14/00, 18/00, ,,Sl. list SRJ'' br.73/00, 09/01, 41/02, 46/02, 45/04, 48/06, 56/06, i ,, Sl. list CG'' br. 46/11, 14/14, 47/14, 12/16, 60/17), člana 45 Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/06, ("Sl. list CG", br. 88/09, 03/10 i 38/12) i člana 42 Statuta opštine Ulcinj ("Službeni list CG" - Opštinski propisi br. 5/07, 9/09 i 16/11), Skupština Opština Ulcinj na Sjednici održanoj dana: 20.12.2017. godine donosi
+RJEŠENJE
