@@ -1,0 +1,2 @@
+Na osnovu člana 44. Stav 2, i 4. Zakona o finansiranju lokalne samouprave ("Sl. list RCG" br. 42/03, 44/03, i " Sl. list CG" br.05/08, 74/10 i 1/15.), člana 45. Zakona o lokalnoj samoupravi ("Sl. list CG, br.42/03, 28/07, 75/05, 13/06" i "Sl. list CG, br.88/09, 3/10, 10/14, 57/14 - dr. zakon i 3/16), člana 37. Zakona o Budžetu i fiskalnoj odgovornosti "Sl. list CG" br. 20/14 i 56/14), i člana 32.Statuta opštine Petnjice, ("Sl. list CG - opštinski propisi" br. 3/14, 2/15, i 41/15), Skupština opštine Petnjice, na sjednici održanoj 27.12.2017. godine, donosi
+O D L U K U
