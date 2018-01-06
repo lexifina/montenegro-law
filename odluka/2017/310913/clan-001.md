@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom utvrđuje se visina troškova obrazovanja i osposobljavanja, kao i provjere znanja kandidata za lice zaduženo za bezbjednost prevoza opasnih materija u drumskom i željezničkom saobraćaju (u daljem tekstu: savjetnik za bezbjednost), lica koja učestvuju u utovaru i istovaru opasnih materija u drumskom i željezničkom saobraćaju i kandidata za vozača za prevoz opasnih materija u drumskom saobraćaju.
