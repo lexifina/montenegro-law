@@ -1,0 +1,2 @@
+Na osnovu člana 219 Zakona o planiranju prostora i izgradnji objekata ("Sl.list CG" 64/17), a u vezi sa članom 162c Zakona o uređenju prostora i izgradnji objekata ("Sl.list CG" 51/08, 34/11, 35/13 i 33/14), akta Ministarstva održivog razvoja i turizma broj 104-2547/3 od 01.12.2017.godine i člana 56 Statuta Opštine Tivat, "Sl.list RCG"-opštinski propisi broj 40/04, 26/06 i "Sl.list CG"-opštinski propisi 12/11, 21/11 i 03/13, Predsjednica Opštine Tivat donijela je
+ODLUKU O IZRADI DETALJNOG URBANISTIČKOG PLANA "TIVAT- CENTAR"
