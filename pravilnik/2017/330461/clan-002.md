@@ -1,0 +1,3 @@
+# Član 2
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+----------------- *U ovaj pravilnik prenesena je Regulativa KOMISIJE (EZ) br. 1251/2008 od 12. decembra 2008. o sprovođenju Direktive Savjeta 2006/88/EZ u pogledu uslova i kriterijuma sertifikovanja za stavljanje na tržište i uvoz u Zajednicu životinja i proizvoda akvakulture te utvrđivanju popisa vektorskih vrsta/Commission Regulation (EC) No 1251/2008 of 12 December 2008 implementing Council Directive 2006/88/EC as regards conditions and certification requirements for the placing on the market and the import into the Community of aquaculture animals and products thereof and laying down a list of vector species
