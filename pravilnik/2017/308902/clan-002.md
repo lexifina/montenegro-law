@@ -1,0 +1,3 @@
+# Član 2
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+-------------------- * U ovaj pravilnik prenesena je Uredba Komisije (EZ) br. 1177/2006 od 1. avgusta 2006. o sprovođenju Uredbe (EZ) br. 2160/2003 Evropskog parlamenta i Savjeta u pogledu zahtjeva za upotrebu posebnih metoda kontrole u okviru nacionalnih programa kontrole salmonele kod živine /Commission Regulation (EC) No 1177/2006 of 1 August 2006 implementing Regulation (EC) No 2160/2003 of the European Parliament and of the Council as regards requirements for the use of specific control methods in the framework of the national programmes for the control of salmonella in poultry
