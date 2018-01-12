@@ -1,0 +1,2 @@
+Na osnovu Čl.44 stav 2.3 i 4 Zakona o finansiranju lokalne samouprave ("Sl.list RCG"-br.42/03.44/03 "Sl.list CG"-broj 05/08. 51/08. 74/10, 01/15.78/15 i 03/16) i Čl.37 Zakona o Budžetu i fiskalnoj odgovornosti ("Sl.list CG " br.20/14 i 56/14) Čl.34 Statuta Opštine Bijelo Polje ("Sl.list RCG"-opštinski propisi br.25/04,33/06,i "Sl.list CG"-Opštinski propisi br.18/10,32/13,47/17) Skupština opštine Bijelo Polje na sjednici održanoj 22 .12.2017.godine, donijela je
+O D L U K U O PRIVREMENOM FINANSIRANJU OPŠTINE BIJELO POLJE
