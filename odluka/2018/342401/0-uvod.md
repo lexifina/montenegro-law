@@ -1,0 +1,2 @@
+Na osnovu člana 24 i 25 Zakona o izboru odbornika i poslanika ("Sl.list RCG", br.04/98, 05/98, 17/98, 14/00, 18/00, "Sl.list SRJ" br. 72/00, 09/01, 41/02, 46/02, 45/04, 48/06, 56/06"Sl.list CG", br.46/11, 14/14, 47/14, 12/16, 60/17 ) i člana 34 Statuta opštine Bijelo Polje ("Sl.list RCG- Opštinski propisi" br.25/04,33/06 "Sl.list CG- Opštinski propisi" br. 18/10, 32/13 i 47/17), Skupština opštine Bijelo Polje, na sjednici održanoj 22.12.2017.godine, donijela je
+O D L U K U
