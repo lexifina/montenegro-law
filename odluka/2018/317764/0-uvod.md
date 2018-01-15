@@ -1,0 +1,1 @@
+Na osnovu čl. 32 stav 1 tačka 19, u vezi sa čl. 33 Statuta Opštine Petnjica ("Sl. list CG - Opštinski propisi", broj 3/14, 2/15 i 41/15), i člana 16 Odluke o obrazovanju radnih tijela Skupštine opštine Petnjica ("Sl. list CG - Opštinski propisi broj 5/14) na predlog Odbora za izbor i imenovanja, Skupština opštine Petnjica, na sjednici održanoj 15.01.2018. godine, donijela je
