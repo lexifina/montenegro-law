@@ -1,0 +1,2 @@
+Na osnovu čl. 217 Zakona o planiranju prostora i izgradnji objekata (''Sl. list CG'', br. 64/17) i čl. 65 Statuta opštine Žabljak (''Sl. list RCG - Opštinski propisi'', br. 9/05 i 3/07 i ''Sl. list CG - Opštinski propisi'', br. 3/11 i 7/14 ) a u skladu sa Programom uređenja prostora za 2017 . godinu (''Sl. list CG - Opštinski propisi'', br. 1/17), Predsjednik Opštine Žabljak, dana 25. decembra 2017. godine, donio je
+O D L U K U
