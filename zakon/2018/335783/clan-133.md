@@ -1,0 +1,7 @@
+# Član 133
+## Prestanak radnog odnosa i pravo na otpremninu
+Državnom službeniku, odnosno namješteniku iz člana 131 st. 1 i 2 ovog zakona, koji za vrijeme dok se nalazi na raspolaganju ne bude raspoređen, po isteku tog vremena prestaje radni odnos po sili zakona.
+Državni službenik, odnosno namještenik kome prestane radni odnos u skladu sa stavom 1 ovoga člana, ima pravo na otpremninu u skladu sa zakonom kojim se uređuju zarade zaposlenih u javnom sektoru.
+Državni službenik, odnosno namještenik koji je ostvario pravo na otpremninu u skladu sa stavom 2 ovog člana, ne može zasnovati radni odnos u državnom organu ili pravnom licu iz člana 3 stav 2 ovog zakona, u periodu od jedne godine od dana isplate otpremnine.
+Ograničenje iz stava 3 ovog člana ne odnosi se na lice koje vrati cjelokupni iznos isplaćene otpremnine.
+Rješenje o prestanku radnog odnosa iz stava 1 ovog člana donosi starješina organa za upravljanje kadrovima.

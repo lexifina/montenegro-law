@@ -1,0 +1,3 @@
+# Član 27
+## Opis poslova
+Ekspertski kadar vrši poslove koji se odnose na: izradu strategijskih dokumenata i programa, analiziranje stanja u cilju podsticanja privrednog, socijalnog, kulturnog, ekološkog i ukupnog društvenog razvoja; pripremu zakona i drugih propisa; vršenje upravnog nadzora; pripremu analitičkih, informativnih i drugih materijala sa predlogom usaglašavanja sistema sa međunarodno priznatim standardima; vođenje, odnosno odlučivanje u upravnom postupku i preduzimanje drugih upravnih aktivnosti; preduzimanje upravnih mjera i upravnih radnji; davanje objašnjenja, stručnih uputstava i instrukcija za primjenu zakona i drugih propisa i izradu posebnih metodologija rada i postupanja.

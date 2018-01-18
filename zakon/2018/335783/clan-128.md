@@ -1,0 +1,7 @@
+# Član 128
+## Ukidanje državnog organa ili dijela poslova koje preuzima drugi državni organ
+U slučaju ukidanja državnog organa ili dijela poslova, državni organ u čiji djelokrug prelaze poslovi preuzima državne službenike, odnosno namještenike koji su radili na tim poslovima, na osnovu odluke starješine tog organa.
+Državni službenik, odnosno namještenik preuzet u skladu sa stavom 1 ovog člana, do raspoređivanja na radno mjesto u skladu sa aktom o unutrašnjoj organizaciji i sistematizaciji državnog organa koji ga je preuzeo, obavlja poslove koje je obavljao prema rješenju o raspoređivanju državnog organa iz čijeg djelokruga su poslovi preuzeti i druge poslove po nalogu starješine organa u koji je preuzet i zadržava zaradu koju je primao do preuzimanja.
+Državni službenik, odnosno namještenik koji ne bude raspoređen u skladu sa stavom 2 ovog člana, zato što nema slobodnih radnih mjesta za koje ispunjava uslove stavlja se na raspolaganje organu za upravljanje kadrovima za potrebe internog tržišta rada, na osnovu odluke starješine organa.
+Rješenje o raspoređivanju, odnosno rješenje o stavljanju na raspolaganje, donosi starješina državnog organa koji je preuzeo poslove iz stava 1 ovog člana, najkasnije u roku od dva mjeseca od dana donošenja akta o unutrašnjoj organizaciji i sistematizaciji tog organa.
+Na osnovu rješenja o stavljanju na raspolaganje iz stava 4 ovog člana, organ za upravljanje kadrovima donosi rješenje o pravima i obavezama državnog službenika, odnosno namještenika na raspolaganju.

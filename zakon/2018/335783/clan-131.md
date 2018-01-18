@@ -1,0 +1,5 @@
+# Član 131
+## Zaštita državnog službenika, odnosno namještenika koji je na raspolaganju
+Državni službenik, odnosno namještenik, dok se nalazi na raspolaganju na osnovu rješenja iz člana 128 stav 4, člana 129 st. 1 i 2 i člana 130 stav 2 ovog zakona, ostvaruje pravo na naknadu zarade u visini zarade isplaćene u mjesecu koji je prethodio stavljanju na raspolaganje, do obezbjeđivanja odgovarajućeg raspoređivanja, a najduže šest mjeseci od dana stavljanja na raspolaganje.
+Državnom službeniku, odnosno namješteniku koji je prije stavljanja na raspolaganje radio ili imao pravo da radi polovinu punog radnog vremena zbog njege djeteta sa težim smetnjama u razvoju ili je samohrani roditelj sa djetetom do navršenih sedam godina života ili je roditelj djeteta sa teškim invaliditetom, na raspolaganju se nalazi do odgovarajućeg raspoređivanja, a najduže jednu godinu od dana stavljanja na raspolaganje.
+Sredstva za ostvarivanje prava iz st. 1 i 2 ovog člana obezbjeđuju se u budžetu Crne Gore, na teret državnog organa koji je državnog službenika, odnosno namještenika stavio na raspolaganje.

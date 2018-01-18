@@ -1,0 +1,9 @@
+# Član 98
+## Disciplinski postupak za lakšu povredu službene dužnosti
+Disciplinski postupak za lakšu povredu službene dužnosti protiv državnog službenika, odnosno namještenika vodi državni službenik u državnom organu koga ovlasti starješina tog državnog organa ili lice koje starješina državnog organa odredi sa liste iz člana 99 ovog zakona (u daljem tekstu: ovlašćeno lice za vođenje disciplinskog postupka).
+Ovlašćeno lice za vođenje disciplinskog postupka dužno je da državnom službeniku, odnosno namješteniku protiv koga se vodi disciplinski postupak za lakšu povredu službene dužnosti, omogući da učestvuje u postupku i da se izjasni o povredi koja mu je stavljena na teret.
+Ako je državni službenik, odnosno namještenik protiv koga se vodi disciplinski postupak, uredno pozvan, a pozivu se nije odazvao, niti je opravdao izostanak, a ovlašćeno lice za vođenje disciplinskog postupka procijeni da se na osnovu sprovedenih dokaza može utvrditi odgovornost službenika, odnosno namještenika, sprovešće postupak bez učešća tog državnog službenika, odnosno namještenika.
+Na osnovu sprovedenog postupka iz st. 2 i 3 ovog člana, ovlašćeno lice za vođenje disciplinskog postupka utvrđuje predlog odluke i dostavlja ga starješini državnog organa.
+U postupku odlučivanja o disciplinskoj odgovornosti ovlašćeno lice za vođenje disciplinskog postupka primjenjuje zakon kojim se uređuje upravni postupak, ako ovim ili drugim zakonom nije drukčije uređeno.
+Disciplinsku mjeru za lakšu povredu službene dužnosti protiv državnog službenika, odnosno namještenika, na predlog ovlašćenog lica za vođenje disciplinskog postupka, izriče rješenjem starješina državnog organa, u roku od deset dana od dana dostavljanja predloga odluke starješini.
+Protiv rješenja iz stava 6 ovog člana državni službenik, odnosno namještenik ima pravo žalbe.

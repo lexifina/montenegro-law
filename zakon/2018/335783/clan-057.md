@@ -1,0 +1,5 @@
+# Član 57
+## Predlaganje odnosno postavljenje visokog rukovodnog kadra
+Ministar je dužan da, najkasnije u roku od deset dana od dana prijema liste za izbor kandidata i izvještaja iz člana 56 stav 7 ovog zakona, nakon obavljenog razgovora sa svim kandidatima sa liste za izbor kandidata predloži Vladi postavljenje sekretara ministarstva, odnosno generalnog direktora u ministarstvu.
+Starješina drugog organa uprave ili službe koju obrazuje Vlada dužan je da, najkasnije u roku od deset dana od dana prijema liste za izbor kandidata i izvještaja iz člana 56 stav 7 ovog zakona, nakon obavljenog razgovora sa svim kandidatima sa liste za izbor kandidata predloži Vladi postavljenje pomoćnika starješine organa uprave, odnosno službe, ako posebnim propisom nije drukčije propisano.
+Direktor pravnog lica iz člana 3 stav 2 ovog zakona, najkasnije u roku od deset dana od dana prijema liste za izbor kandidata i izvještaja iz člana 56 stav 7 ovog zakona, nakon obavljenog razgovora sa svim kandidatima sa liste za izbor kandidata donosi rješenje o postavljenju pomoćnika direktora.

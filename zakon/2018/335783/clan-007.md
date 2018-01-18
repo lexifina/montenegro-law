@@ -1,0 +1,3 @@
+# Član 7
+## Zabrana diskriminacije
+Državni službenik, odnosno namještenik ne smije u obavljanju poslova vršiti diskriminaciju građana po osnovu: rase, boje kože, nacionalne pripadnosti, društvenog ili etničkog porijekla, veze sa nekim manjinskim narodom ili manjinskom nacionalnom zajednicom, jezika, vjere ili uvjerenja, političkog ili drugog mišljenja, pola, promjene pola, rodnog identiteta, seksualne orijentacije i/ili interseksualnih karakteristika, zdravstvenog stanja, invaliditeta, starosne dobi, imovnog stanja, bračnog ili porodičnog stanja, pripadnosti grupi ili pretpostavke o pripadnosti grupi, političkoj partiji, sindikalnoj ili drugoj organizaciji, kao i po osnovu drugih ličnih svojstava.
