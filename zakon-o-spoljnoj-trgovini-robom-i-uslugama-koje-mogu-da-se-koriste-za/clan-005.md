@@ -1,0 +1,9 @@
+# Član 5
+## Zabrana izvoza
+Izvoz robe koja može da se koristi za izvršenje smrtne kazne, mučenje ili drugo okrutno, neljudsko ili ponižavajuće postupanje ili kažnjavanje, zabranjen je.
+Izvoznik, u smislu ovog zakona, je pravno lice, preduzetnik, organizacija ili organ državne uprave, uključujući odgovarajuće oblike saradnje u čije ime se podnosi izvozna deklaracija, odnosno lice, organizacija ili državni organ koji u trenutku prihvatanja izvozne deklaracije ima zaključen ugovor s primaocem u stranoj državi i ovlašćenje za odlučivanje o slanju robe van carinskog područja Crne Gore.
+Ako ugovor iz stava 2 ovog člana nije zaključen ili ako ugovorna strana u tom ugovoru ne nastupa u svoje ime, izvoznikom se smatra pravno lice, preduzetnik, organizacija ili organ državne uprave ovlašćen za odlučivanje o slanju robe van carinskog područja Crne Gore.
+Ako po osnovu raspolaganja robom, u skladu sa ugovorom iz stava 2 ovog člana naknadu ostvaruje pravno lice ili preduzetnik, organizacija ili organ državne uprave s boravištem ili poslovnim nastanom van Crne Gore, izvoznikom se smatra ugovorna strana s boravištem ili poslovnim nastanom u Crnoj Gori.
+Roba iz stava 1 ovog člana, namijenjena za lišavanje života lica i roba čijom primjenom lice može da se izloži mučenju prilikom ograničavanja slobode, kontrole, nemira ili samozaštite, utvrđuje se propisom koji donosi Vlada Crne Gore (u daljem tekstu: Vlada).
+Pružanje tehničke pomoći za robu iz stava 5 ovog člana, zabranjeno je.
+Izuzetno, organ državne uprave nadležan za poslove spoljne trgovine (u daljem tekstu: Ministarstvo) može da odobri izvoz robe iz stava 5 ovog člana i pružanje tehničke pomoći za tu robu ako podnosilac zahtjeva za izvoz posjeduje odobrenje da će u državi uvoza ta roba da se koristi isključivo za izlaganje u muzeju.
