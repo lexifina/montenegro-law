@@ -1,0 +1,2 @@
+# Član 138
+Na pitanja zastarjelosti pokretanja i vođenja disciplinskog postupka, odnosno izvršenja disciplinskih mjera, upis i brisanje disciplinskih mjera iz kadrovske evidencije, osnov privremenog ograničenja vršenja dužnosti, odlučivanje o privremenom ograničenju vršenja dužnosti i prava u slučaju privremenog ograničenja vršenja dužnosti lokalnog službenika i namještenika, primjenjuju se propisi o državnim službenicima i namještenicima.

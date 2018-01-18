@@ -1,0 +1,8 @@
+# Član 124
+U slučaju prestanka mandata glavnom administratoru, odnosno licu koje vrši poslove visokog rukovodnog kadra, može se odrediti vršilac dužnosti do imenovanja, odnosno postavljenja u skladu sa ovim zakonom, a najduže do šest mjeseci.
+Vršioca dužnosti određuje organ nadležan za imenovanje, odnosno postavljenje lica koja vrše poslove visokog rukovodnog kadra i glavnog administratora.
+Za vršioca dužnosti odrediće se lokalni službenik iz organa lokalne uprave, stručne službe, odnosno posebne službe u kojem se određuje vršilac dužnosti, koji ispunjava uslove propisane za glavnog administratora, odnosno za radno mjesto visokog rukovodnog kadra za koje se određuje.
+Ako u organu lokalne uprave, stručnoj službi, odnosno posebnoj službi ne postoji lokalni službenik koji ispunjava uslove u smislu stava 3 ovog člana, za vršioca dužnosti odrediće se lice van tog organa, odnosno službe, koje ispunjava uslove propisane za glavnog administratora, odnosno za radno mjesto visokog rukovodnog kadra za koje se određuje.
+Za vrijeme vršenja dužnosti, vršilac dužnosti ima ovlašćenja, prava, obaveze i odgovornosti glavnog administratora, odnosno lica koje vrši poslove visokog rukovodnog kadra.
+Vršilac dužnosti koji je određen iz reda lokalnih službenika, po isteku vremena vršenja dužnosti ima pravo da se vrati na isto ili da se trajno rasporedi na drugo odgovarajuće radno mjesto za koje je propisan isti nivo kvalifikacija obrazovanja i radno iskustvo u jednakom ili dužem trajanju.
+Odredbe st. 1 do 6 ovog člana shodno se primjenjuju i na određivanje vršioca dužnosti i njegova ovlašćenja, kao i na prava, obaveze i odgovornosti sekretara skupštine i rukovodioca javnih službi.

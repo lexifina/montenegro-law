@@ -1,0 +1,2 @@
+# Član 209
+Do imenovanja predsjednika i članova Komisije za žalbe u skladu sa zakonom kojim se uređuju prava, obaveze i odgovornosti državnih službenika i namještenika, o žalbi na rješenja kojima je odlučeno o pravima i obavezama lokalnih službenika, odnosno namještenika i odluku o izboru lokalnog službenika, odnosno namještenika, žalba se podnosi komisijama za žalbe opština obrazovanim po dosadašnjim propisima.

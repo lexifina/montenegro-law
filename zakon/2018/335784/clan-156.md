@@ -1,0 +1,5 @@
+# Član 156
+Registar mjesnih zajednica vodi nadležni organ lokalne uprave.
+Upisom u registar mjesna zajednica stiče svojstvo pravnog lica.
+Sadržaj i način vođenja registra mjesnih zajednica utvrđuje Ministarstvo.
+XI.UČEŠĆE GRAĐANA U OSTVARIVANjU LOKAL NE SAMOUPRAVE

@@ -1,0 +1,2 @@
+# Član 122
+Predsjednik opštine, odnosno starješina organa lokalne uprave, stručne službe, odnosno posebne službe dužan je da, najkasnije u roku od deset dana od dana prijema liste za izbor i izvještaja iz člana 121 stav 4 ovog zakona, nakon obavljenog razgovora sa svim kandidatima sa liste za izbor kandidata, donose rješenje o imenovanju, odnosno postavljenju kandidata sa liste za izbor kandidata.

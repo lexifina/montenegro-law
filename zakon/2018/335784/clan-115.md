@@ -1,0 +1,9 @@
+# Član 115
+Na osnovu potpune i uredne dokumentacije koja je blagovremeno dostavljena, jedinica za upravljanje ljudskim resursima sačinjava listu kandidata koji ispunjavaju uslove oglasa.
+Kandidat koji ispunjava uslove internog, odnosno javnog oglasa, podliježe provjeri znanja, sposobnosti, kompetencija i vještina, zavisno od kategorije radnih mjesta.
+Provjera iz stava 2 ovog člana vrši se pisanim testiranjem i usmenim intervjuom i na drugi odgovarajući način, ocjenjivanjem znanja, sposobnosti, kompetencija i vještina, na osnovu propisanih kriterijuma.
+Provjeru iz stava 2 ovog člana vrši komisija koju obrazuje jedinica za upravljanje ljudskim resursima i čine je predstavnik jedinice za upravljanje ljudskim resursima, predstavnik organa lokalne uprave, stručne službe, odnosno posebne službe koji je, po pravilu, rukovodilac unutrašnje organizacione jedinice u kojoj se vrši popuna radnog mjesta i stručno lice iz odgovarajuće oblasti rada.
+Stručno lice iz stava 4 ovog člana određuje jedinica za upravljanje ljudskim resursima sa liste stručnih lica koju utvrđuje organ uprave nadležan za upravljanje kadrovima (u daljem tekstu: Uprava za kadrove) .
+O provjeri iz stava 2 ovog člana, komisija iz stava 4 ovog člana sačinjava izvještaj.
+Jedinica za upravljanje ljudskim resursima, u roku od tri dana od dana sačinjavanja izvještaja iz stava 6 ovog člana, utvrđuje listu za izbor kandidata i dostavlja je licu koje rukovodi organom lokalne uprave, stručnom službom, odnosno posebnom službom koje je pokrenulo postupak za popunu radnog mjesta.
+Na sprovođenje provjere znanja, sposobnosti, kompetencija i vještina kandidata koji ispunjavaju uslove oglasa, kriterijume i način ocjenjivanja, kao i utvrđivanje liste za izbor kandidata shodno se primjenjuju propisi o državnim službenicima i namještenicima.

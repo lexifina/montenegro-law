@@ -1,0 +1,3 @@
+# Član 21
+Opština ima statut i druge opšte akte.
+Statutom opštine uređuje se: prava i dužnosti opštine i način njihovog ostvarivanja, poslovi i način odlučivanja lokalnog stanovništva, način i uslovi vršenja sopstvenih poslova, organizacija i način rada lokalne uprave, način donošenja propisa, način vršenja nadzora nad radom organa i službi iz člana 69 ovog zakona i javnih službi, način obezbjeđenja javnosti rada i učešća građana u poslovima iz nadležnosti opština, finansiranje, oblik i sadržina simbola, praznik opštine i način njegovog obilježavanja, osnivanje i rad mjesne zajednice i drugih oblika mjesne samouprave, uslovi za pokretanje građanske inicijative i druga pitanja od značaja za funkcionisanje lokalne samouprave.

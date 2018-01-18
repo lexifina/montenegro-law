@@ -1,0 +1,3 @@
+# Član 126
+## 5. Prava i obaveze lokalnih službenika
+Na prava i obaveze lokalnih službenika i namještenika koje se odnose na: uslove rada, odmor i odsustvo, obavezu izvršavanja naloga i čuvanja i zaštite tajnih podataka i podataka o ličnosti, poštovanje radnog vremena, obaveze za vrijeme vanrednih situacija i okolnosti, izbjegavanje sukoba interesa, prijavljivanje mogućeg sukoba interesa, zabranu zloupotrebe rada u organu lokalne uprave, stručnoj službi, odnosno posebnoj službi, korišćenje imovine, zabranu primanja poklona, dodatni rad i ograničenje članstva u organima privrednih društava, shodno se primjenjuju propisi o državnim službenicima i namještenicima.
