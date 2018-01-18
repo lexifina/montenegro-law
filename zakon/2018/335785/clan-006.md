@@ -1,0 +1,4 @@
+# Član 6
+## Definicija
+(1) Turistička djelatnost je pružanje usluga: turističkih agencija, turističkih vodiča, pratioca, animatora i zastupnika, u kulturnom, nautičkom, ruralnom/seoskom, zdravstvenom, vjerskom, kongresnom, sportskom, omladinskom, lovnom i ribolovnom, sportsko- rekreativnom i avanturističkom, ekoturizmu i drugim oblicima turizma, na kupalištima, skijaškim terenima, kao i pružanje drugih usluga u skladu sa ovim zakonom.
+(2) Turista je fizičko lice koje van svog mjesta stalnog boravka provede u nekom drugom mjestu najmanje 24 sata ili ostvari najmanje jedno noćenje, ali ne duže od jedne godine bez prekida, radi odmora, zabave, razonode, sporta i rekreacije, kulture, vjere, ekologije, obavljanja poslovnih komunikacija, učestvovanja u sportskim takmičenjima, kulturnim i umjetničkim manifestacijama, kao i radi putovanja brodom, odnosno drugim plovilom.

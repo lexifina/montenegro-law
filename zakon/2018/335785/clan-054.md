@@ -1,0 +1,4 @@
+# Član 54
+## Sportsko-rekreativne i avanturističke aktivnosti
+(1) Turističke usluge koje uključuju sportsko-rekreativne i avanturističke aktivnosti su: planinarenje, vožnja kajakom, kanuom i drugim sličnim plovilima, ronjenje, jedrenje, jahanje, skakanje padobranom, vožnja žičarom, prolaz kanjonom (canyoning) , jedrenje na dasci (windsurfing, kitesurfing) , skakanje elastičnim konopom (bungee jumping) , vožnja na sajli (zip line) , sportski ribolov, vožnja terenskim vozilom van puta (jeeping off-road vehicles) , speleološke aktivnosti i druge aktivnosti koje pružaju stručno osposobljena lica (vodiči, spasioci, instruktori, treneri i druga lica koja su obučena za pružanje pojedinih usluga) , koja imaju domaću ili međunarodnu licencu/sertifikat za pružanje tih usluga izdatu od odgovarajućih asocijacija.
+(2) Minimalno-tehničke uslove i način pružanja usluga iz stava 1 ovog člana propisuje Vlada Crne Gore (u daljem tekstu: Vlada) .

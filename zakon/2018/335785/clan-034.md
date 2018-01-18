@@ -1,0 +1,7 @@
+# Član 34
+## Turistički vodič
+(1) Turistički vodič je fizičko lice koje po unaprijed utvrđenom programu, pruža turistima usluge vođenja, pokazivanja i stručnog objašnjavanja: prirodnih ljepota i rijetkosti, kulturno- istorijskih spomenika, umjetničkih djela, etnografskih i drugih znamenitosti, istorijskih događaja i legendi o tim događajima i ličnostima, privrednih i političkih događaja i dešavanja, kao i pojedinih mjesta i područja, koje je upisano u CRPS kao preduzetnik, osim ako je stalno zaposlen u turističkoj agenciji.
+(2) Poslove iz stava 1 ovog člana, može da obavlja samo turistički vodič koji ima legitimaciju turističkog vodiča (u daljem tekstu: legitimacija) .
+(3) Poslove turističkog vodiča može da obavlja i strano fizičko lice koje ispunjava uslove propisane ovim zakonom.
+(4) Turističkim vodičem ne smatra se stručno lice koje pokazuje, objašnjava ili daje informacije unutar poslovnog prostora u kojem radi (muzej, galerija, nacionalni park i slično) , zaposleno lice turističke agencije koje prati grupu turista iz mjesta u mjesto, vodič u planinama, pećinama i slično, u lovu i ribolovu, kao i vođa i pratilac ekskurzije i/ili izleta.
+(5) Turističkim vodičem ne smatra se strani državljanin koji prati organizovana grupna putovanja stranog organizatora, koja su započela u stranoj državi i završavaju se povratkom u stranu državu, ako nema legitimaciju turističkog vodiča, u skladu sa ovim zakonom.
