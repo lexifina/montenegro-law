@@ -1,0 +1,2 @@
+# Član 8
+Stupanjem na snagu ovog Uputstva prestaje da važi Uputstvo o obrascu izveštaja o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora u izbornoj kampanji za izbor poslanika i odbornika i Uputstvo o obrascu izvještaja o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora za izbornu kampanju za izbor Predsjednika Crne Gore od 31. januara 2016. godine ("Službeni list Crne Gore", broj 9/2016).
