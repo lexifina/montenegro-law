@@ -1,0 +1,3 @@
+Na osnovu čl. 4. st. 1. tač. 6, 7, 8. i 9., čl. 22. st. 1. tač. 10 i st. 5, 6. i 7. Zakona o putevima ("Sl. list RCG", br. 42/04 i 21/09 i "Sl. list CG", br. 54/09, 40/10, 73/10, 36/11 i 40/11), čl. 32. st.1. tač. 2., čl. 45. st. 1. tač. 2. i .8. i čl. 51. st. 1. i 3. Zakona o lokalnoj samoupravi ("Sl. list RCG", br. 42/03, 28/04, 75/05, 13/05 i "Sl. list CG", br. 88/09, 03/10, 38/12, 10/14, 57/14 i 3/16) i čl. 16. i čl. 34. Statuta Opštine Plav ("Sl .list RCG- opštinski propisi", br. 17/07 i "Sl. list CG- opštinski propisi", br. 25/09 i 38/10), Skupština Opštine Plav, na sjednici održanoj dana 28.12.2017.godine donijela je:
+O D L U K U
+o dopuni Odluke o korišćenju i naknadi za korišćenje puta i putnog zemljišta pored opštinskih i nekategorisanih
