@@ -1,0 +1,3 @@
+Na osnovu člana 45 Zakona o lokalnoj samupravi (Sl.list RCG br.42/03, 28/04, 75/05, 13/06, i Sl.list.CG br.88/09, 3/10, 38/12, 10/14, 57/14 i 3/16) i člana 8Zakona o budžetu i fiskalnoj odgovomosti ("Sl.list CG", broj 20/14, 56/14 i 70/17) i člana 45 Zakona o finansiranju lokalne samouprave ("Sl.list RCG",broj 42/03 i 44/03 " Sl.list CG",br.05/08,51/08 i 74/10, 1/15, 78/15 i 3/16) i člana 34 Statuta opštine Plav ("Sl.list RCG - opštinski propisi" br.17/07, 25/09 i "Sl.list CG - opštinski propisi"broj 38/10), Skupština Opštine Plav, na sjednici održanoj dana 28.12.2017.godine, donijela je
+O D L U K U
+o izmjenama i dopunama Odluke o Budžetu Opštine Plav za 2017. godinu
