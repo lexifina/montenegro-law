@@ -1,0 +1,1 @@
+Na osnovu člana 44 Zakona o finansiranju lokalne samouprave ("Sl. list RCG" br. 42/03 i 44/03 i "Sl.list CG", br. 5/08, 51/08, 74/10, 1/15, 78/15, 3/16 i 30/17) člana 69 Statuta opštine Rožaje (Sl. list CG-opštinski propisi, br. 9/11 i 31/16) predsjednik opštine Rožaje donosi:
