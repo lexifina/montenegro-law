@@ -1,0 +1,2 @@
+Na osnovu člana 8 Zakona o regionalnom razvoju (Sl.list CG br.20/11 i 20/15),člana 45 Zakona o lokalnoj samoupravi (Sl.list RCG br.42/03, 28/04, 75/05, 13/06, i Sl.list CG br.88/09, 3/10, 38/12 i 10/14 i 3/16) i člana 31 tačka 3 Statuta opštine Kolašin (,,Sl.list CG -o.p. br.25/04, 31/04, 34/06 i ,,Sl.list CG -o.p.br.41/10) Skupština opštine Kolašin na sjednici održanoj dana 25.12. 2017. godine, donijela je
+O D L U K U O USVAJANJU STRATEŠKOG PLANA RAZVOJA OPŠTINE KOLAŠIN (2018-2022)
