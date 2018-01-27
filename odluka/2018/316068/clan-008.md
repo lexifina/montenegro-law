@@ -1,0 +1,4 @@
+# Član 8
+Dinamiku trošenja sredstava odobrenih budžetom Opštine utvrđuje Predsjednik u skladu sa članom 49, stav 2 Zakona. Sekretar za finansije sredstva utvrđena godišnjim budžetom Opštine odobrava potrošačkim jedinicama izdavanjem varanta (dodjela) / alokacija (mjesečnih ili kvartalnih kvota) na osnovu planova potrošnje dostavljenih od strane korisnika budžeta, a u skladu sa utvrđenom dinamikom.
+.
+-
