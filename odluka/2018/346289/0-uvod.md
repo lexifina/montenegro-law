@@ -1,0 +1,2 @@
+Na osnovu člana 48 Zakona o vodama ("Sl. list RCG", br. 27/07 i " Sl.list CG ", br. 32/11, 47/11, 48/15 i 52/16), člana 4 Zakona o prekršajima ( " Sl.list CG", br. 1/11, 6/11, 39/11, 32/14, 43/17, 51/17 ) I člana 34 Statuta opštine Pljevlja ("Sl. list RCG- opštinski propisi br. 37/04; 30/07; i "Sl. list CG - opštinski propisi" br. 32/09 i 14/11") Skupština opštine Pljevlja na sjednici održanoj dana 27.12. 2017. godine, donijela je:
+O D L U K U
