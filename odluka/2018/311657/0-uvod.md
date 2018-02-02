@@ -1,0 +1,1 @@
+Na osnovu člana 31 Statuta opštine Tivat ("Sl.list CG"-opštinski propisi br. 40/04, 26/06, 12/11, 21/11, 03/13), i člana 11 Odluke o osnivanju JU Muzej i galerija ("Sl.list CG-opštinski propisi br. 48/17) Skupština opštine Tivat na sjednici održanoj dana 17.01.2018. godine, donijela je O D L U K U O davanju saglasnosti na Statut JU Muzej i galerija Tivat
