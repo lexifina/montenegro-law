@@ -1,0 +1,2 @@
+# Član 13
+Strategije revizije, odnosno godišnje planove revizije dostavljaju se Evropskoj komisiji i Nacionalnom službeniku za ovjeravanje u rokovima utvrđenim Okvirnim sporazumima zaključenim između Vlade Crne Gore i Komisije Evropskih zajednica o pravilima za saradnju koja se odnose na finansijsku pomoć EZ Crnoj Gori u okviru sprovođenja Instrumenta pretpristupne pomoći (IPA) (u daljem tekstu: Okvirni sporazum).
