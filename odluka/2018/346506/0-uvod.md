@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list RCG" br. 02/18), člana 34 stav 1 tačka 2 Statuta opštine Bijelo Polje, ("Sl.list RCG -opštinski propisi br.25/04 i 33/06, Sl.list CG -opštinski propisi br.18/10, 32/13 i 47/17") i člana 25 Odluke o organizovanju Lokalnog javnog emitera Radio Bijelo Polje ("Sl.list CG-opštinski propisi br.25/11"), Skupština opštine Bijelo Polje, na sjednici održanoj 31.01.2018. godine, donijela je
+O D L U K U
