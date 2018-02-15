@@ -1,0 +1,5 @@
+Na osnovu člana 14 Zakona o eksproprijaciji ("Službeni list RCG", br. 55/00, 12/02 i 28/06 i "Službeni list CG", br. 21/08 i 30/17) Vlada Crne Gore, na sjednici od 28. decembra 2017. godine, donijela je
+O D L U K U O UTVRĐIVANJU JAVNOG INTERESA ZA
+EKSPROPRIJACIJUNEPOKRETNOSTI ZA REKONSTRUKCIJU REGIONALNOG
+PUTA R-20 BERANE - KALAČE, DIONICA BERANE - PETNJICA, LOKALITETI
+BERANE - STJENICE I STJENICE - PODVADE
