@@ -1,0 +1,2 @@
+# Član 2
+Katastarska parcela broj 6461/7 KO Novi Bar, prodaje se Škrijelj Nedžad Jasminu, iz Bara radi kompletiranje urbanističke parcele broj A3-UP2, u zoni »A«, blok 3, koja se sastoji od: katastarske parcele broj 6461/7 i katastarskih parcela broj: 6177/1 površine 1.343m2 i 6178 površine 370m2, obje svojina imenovanog u obimu prava 1/1, sve KO Novi Bar, a u skladu sa DUP-om »Topolica IV« (»Sl.list CG-opštinski propisi«, br.39/13).
