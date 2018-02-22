@@ -1,0 +1,8 @@
+# Član 10
+## Obaveze distributera
+(1) Distributeri, prije stavljanja aparata na tržište, provjeravaju da li aparat posjeduje propisani znak CE, da li su uz njega priložena uputstva i bezbjednosna obavještenja, u skladu sa tačkom 1.5. Priloga 1 ovog pravilnika na crnogorskom jeziku, kao i da li su proizvođač i uvoznik ispunili zahtjeve utvrđene članom 7 st. 6 i 8 i članom 9 stav 5 ovog pravilnika.
+(2) Distributeri, prije stavljanja opreme na raspolaganje na tržište, provjeravaju da li oprema ima znak CE i primjerak EU izjave o usaglašenosti koji sadrži uputstva o načinu ugradnje ili sastavljanja, prilagođavanja, rukovanja i održavanja, u skladu sa tačkom 1.7. Priloga 1 ovog pravilnika na crnogorskom jeziku, kao i da li su proizvođač i uvoznik ispunili zahtjeve iz člana 7 st. 6 i 8 i člana 9 stav 5 ovog pravilnika.
+(3) Ako distributer sumnja da aparat ili oprema ne ispunjava zahtjeve utvrđene Prilogom 1 ovog pravilnika, neće da stavi aparat ili opremu na tržište, dok se ne sprovede njihovo usklađivanje, a ako aparat ili oprema predstavlja rizik, distributer o tome obavještava proizvođača ili uvoznika, kao i inspekcijski organ nadležan za nadzor na tržištu.
+(4) Distributeri obezbjeđuju da uslovi skladištenja ili prevoza ne ugrožavaju usaglašenost aparata ili opreme sa osnovnim zahtjevima utvrđenim Prilogom 1 ovog pravilnika.
+(5) Distributeri, koji sumnjaju da aparat ili oprema koje su stavili na tržište nije usaglašen sa ovim pravilnikom, preduzimaju korektivne mjere kako bi aparat ili opremu, po potrebi, povukli sa tržišta ili opozvali.
+(6) Ako aparat ili oprema predstavlja rizik, distributeri o tome bez odlaganja obavještavaju nadležni inspekcijski organ o neusaglašenosti, kao i o svim preduzetim korektivnim mjerama.
