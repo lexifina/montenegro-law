@@ -1,0 +1,2 @@
+# Član 3
+Ocjenjivanje lica u službi u Vojsci po kriterijumima propisanim Zakonom o Vojsci Crne Gore vrši se na osnovu evidencija o praćenju rada i zapažanjima o karakteristikama lica koje se ocjenjuje, kao i na osnovu službenih zabilješki o razgovorima obavljenim radi ukazivanja na propuste u radu koji mogu imati za rezultat ocjenu "ne zadovoljava" i usmjeravanjima i davanju instrukcija za otklanjanje uočenih propusta, koje vode pretpostavljeni i prvi ili glavni podoficir jedinice Vojske u kojoj je lice u službi u Vojsci postavljeno.
