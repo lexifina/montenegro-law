@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom produžava se rok trajanja koncesije utvrđen Ugovorom o koncesiji za eksploataciju nemetalične mineralne sirovine tehničko-građevinskog kamena iz ležišta "Darza", opština Ulcinj, broj 01-9524/1 od 9.11.2007. godine (u daljem tekstu: ugovor), koji je Vlada Crne Gore zaključila sa DOO "Božović" - Nikšić, a koji je Ugovorom o prenosu Ugovora o koncesiji, broj 01-9524/1 od 9.11.2007. godine, za eksploataciju nemetalične mineralne sirovine tehničko-građevinskog kamena iz ležišta "Darza", na DOO ,,Euromix beton" - Bar.
