@@ -1,0 +1,3 @@
+Na osnovu člana 10 stav 1 alineja 5 Odluke o osnivanju Javne ustanove Centar za dnevni boravak djece sa smetnjama u razvoju i odrslih lica sa invaliditetom u opštini Danilovgrad ("Sl. list CG - opštinski propisi", br. 08/17), člana 18 stav 4 Statuta Javne ustanove Centar za dnevni boravak djece sa smetnjama u razvoju i odrslih lica sa invaliditetom u opštini Danilovgrad ("Sl. list CG - opštinski propisi", br. 29/17) i člana 35 Statuta opštine Danilvograd ("Sl. list RCG -opštinski propisi" br 30/04, "Sl. list CG - opštinski propisi" br 19/08 i 12/11), Skupština opštine Danilovgrad, na sjednici održanoj 23.02.2018. godine, d o n o s i
+O D L U K U
+o davanju saglasnosti na Odluku Upravnog odbora Javne ustanove Centar za dnevni boravak djece sa smetnjama u razvoju i
