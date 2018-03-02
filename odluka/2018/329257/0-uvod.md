@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18), člana 35 stav 2 tačka 7 i člana 39 stav 8, a u vezi sa članom 79 Zakona o privrednim društvima ("Službeni list RCG", broj 06/02 i "Službeni list CG", br. 17/07, 80/08, 40/10, 36/11 i 40/11) i člana 40 Statuta opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 20.02.2018. godine, donijela je
+O D L U K U
