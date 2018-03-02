@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 2 Statuta Opštine Danilovgrad (,,Sl. list RCG - opštinski propisi,, br. 30/04 i ,,Sl. list CG -opštinski propisi,, br. 19/08 i 12/11), člana 19 Odluke o obrazovanju radnih tijela Skupštine (,,Sl. list RCG - opštinski propisi,, br. 46/06), člana 47 stav 2 i člana 134 Poslovnika Skupštine opštine Danilovgrad (,,Sl. list RCG - opštinski propisi,, br. 46/06 i ,,Sl. list CG - opštinski propisi,, br. 35/09 i 01/13), Skupština opštine Danilovgrad, na sjednici održanoj 23.02. 2018. godine, d o n o s i
+O D L U K U
