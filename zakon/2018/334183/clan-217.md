@@ -1,0 +1,6 @@
+# Član 217
+## Rješavanje započetih postupaka
+Postupci započeti prije stupanja na snagu ovog zakona okončaće se po propisima koji su važili do stupanja na snagu ovog zakona.
+Započeti postupci po zahtjevima interno raseljenih lica sa Kosova koja su privremeno zadržala status u skladu sa Odlukom o privremenom zadržavanju statusa raseljenih i interno raseljenih lica u Crnoj Gori ("Službeni list CG", broj 46/06) za izdavanje dozvola za stalno nastanjenje ili privremeni boravak u skladu sa čl. 105a i 105b Zakona o strancima ("Službeni list CG", br. 82/08, 72/09, 32/11, 53/11, 27/13 i 61/13), koji su podnijeti do 31. decembra 2014. godine, okončaće se u skladu sa tim zakonom.
+Licima iz stava 2 ovog člana kojima bude izdata dozvola za stalno nastanjenje, nakon isteka roka te dozvole, izdaće se dozvola za stalni boravak u skladu sa članom 91 ovog zakona, pri čemu su dužni da u postupku izdavanja te dozvole prilože izdatu dozvolu za stalno nastanjenje.
+Licima iz stava 2 ovog člana kojima bude izdata dozvola za privremeni boravak do tri godine shodno članu 105a st. 1 i 2 Zakona o strancima ("Službeni list CG", br. 82/08, 72/09, 32/11, 53/11, 27/13 i 61/13), izdaće se dozvola za stalni boravak u skladu sa članom 220 stav 1 ovog zakona.

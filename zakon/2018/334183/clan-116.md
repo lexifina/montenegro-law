@@ -1,0 +1,5 @@
+# Član 116
+## Zabrana prinudnog udaljenja
+Zabranjeno je prinudno udaljenje stranca u državu gdje su njegov život ili sloboda ugroženi zbog njegove rasne, vjerske ili nacionalne pripadnosti, pripadnosti posebnoj društvenoj grupi ili političkog mišljenja, ili u kojoj bi mogao biti podvrgnut mučenju ili neljudskom i ponižavajućem postupanju ili kažnjavanju, ili bi nad njim mogla biti izvršena smrtna kazna, kao i da bi vraćanje u drugu državu predstavljalo opasnost od prinudnog udaljenja u državu porijekla.
+Zabranjeno je prinudno udaljenje stranca ako je to u suprotnosti sa Konvencijom o zaštiti ljudskih prava i osnovnih sloboda, Evropskom konvencijom o sprječavanju mučenja i nečovječnog ili ponižavajućeg postupanja ili kažnjavanja, Konvencijom o pravima djeteta i Konvencijom o ostvarivanju dječjih prava.
+Maloljetni stranac bez pratnje će se, uzimajući u obzir najbolji interes djeteta, prinudno udaljiti u državu u kojoj će biti predat članu porodice, imenovanom staratelju ili ustanovi za prihvatanje djece.

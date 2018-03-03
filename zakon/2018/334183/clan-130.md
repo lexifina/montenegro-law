@@ -1,0 +1,4 @@
+# Član 130
+## Ovlašćenje za pretres i uzimanje biometrijskih podataka
+U postupku prinudnog udaljenja ili smještaja stranca u prihvatilište policijski službenici ovlašćeni su da bez naredbe o pretresanju izvrše pretres stranca i predmeta koje stranac nosi, ako postoji sumnja da stranac posjeduje oružje ili oruđe za napad ili sumnja da će odbaciti, sakriti ili uništiti predmete koji se mogu koristiti kao dokaz u krivičnom ili prekršajnom postupku, kao i u postupku prinudnog udaljenja.
+Strancu koji nezakonito boravi, a nema ispravu o identitetu ili postoji sumnja u njegov identitet mogu se uzeti otisci prstiju i fotografija, bez njegove saglasnosti, ako je to u interesu nacionalne, odnosno unutrašnje bezbjednosti ili zaštite ekonomskih interesa države, zaštite zdravlja i morala, ili zaštite prava i sloboda drugih.

@@ -1,0 +1,8 @@
+# Član 168
+## Stalni boravak člana porodice državljanina države članice Evropske unije koji je državljanin treće države
+Dozvola za stalni boravak može se izdati članu porodice državljanina države članice Evropske unije koji je državljanin treće države ako je do dana podnošenja zahtjeva za izdavanje dozvole sa državljaninom države članice Evropske unije zakonito boravio u Crnoj Gori neprekidno pet godina na osnovu odobrenog privremenog boravka.
+Smatra se da je član porodice državljanina države članice Evropske unije koji je državljanin treće države neprekidno boravio u Crnoj Gori i kad je u periodu od pet godina odsustvovao iz Crne Gore više puta do jedne godine ukupno ili šest mjeseci u toku jedne godine ili je iz Crne Gore odsustvovao zbog služenja vojnog roka.
+Izuzetno od stava 1 ovog člana, dozvola za stalni boravak može se izdati članu porodice državljanina države članice Evropske unije koji je državljanin treće države, ako je:
+1) državljanin države članice Evropske unije sa kojim je boravio u Crnoj Gori umro za vrijeme trajanja privremenog boravka radi rada koji je trajao neprekidno dvije godine prije smrti ili kraće vrijeme ako je smrt nastupila kao posljedica povrede na radu ili profesionalne bolesti;
+2) izgubio crnogorsko državljanstvo ženidbom ili udajom za državljanina države članice Evropske unije koji je zaposlen ili obavlja preduzetničku djelatnost.
+Pravo na stalni boravak, bez obzira na trajanje privremenog boravka u Crnoj Gori, ima i član porodice koji boravi u Crnoj Gori sa državljaninom države članice Evropske unije, koji je stekao pravo na stalni boravak u skladu sa članom 167 stav 1 ovog zakona.
