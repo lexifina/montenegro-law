@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovom uredbom propisuju se mjerila i način bodovanja projekata, odnosno programa u prioritetnim oblastima od javnog interesa i oblasti zaštite lica sa invaliditetom koje realizuju nevladine organizacije (u daljem tekstu: projekti, odnosno programi), način sačinjavanja liste nezavisnih procjenjivača i visina naknade za njihov rad, bliža sadržina ugovora o načinu isplate i korišćenja sredstava, izvještavanju i nadzoru nad realizacijom projekata, odnosno programa za koji su dodijeljena sredstva nevladinim organizacijama, kao i bliži način sačinjavanja izvještaja o finansiranju projekata, odnosno programa nevladinih organizacija.
