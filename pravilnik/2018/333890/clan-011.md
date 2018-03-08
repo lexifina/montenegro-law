@@ -1,0 +1,3 @@
+# Član 11
+Unutrašnja kontrola nad preduzetim mjerama po osnovu svih oblika neetičkog i nezakonitog ponašanja zaposlenih u Ministarstvu i Vojsci vrši se neposrednim uvidom u pojedinačne akte i radnje organizacionih jedinica Ministarstva, odnosno Vojske, radi utvrđivanja činjeničnog stanja u vezi sa postupanjem po izrečenim disciplinskim mjerama državnim službenicima i namještenicima Ministarstva, odnosno izrečenim disciplinskim mjerama ili kaznama licima u službi u Vojsci.
+Unutrašnju kontrolu iz stava 1 ovog člana vrši inspektor u roku od 30 dana od prijema obavještenja o izrečenim disciplinskim mjerama, odnosno kaznama.
