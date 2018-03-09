@@ -1,0 +1,2 @@
+Na osnovu člana 82 tačka 3 Ustava Crne Gore i člana 38 stav 1 Zakona o nacionalnom javnom emiteru Radio i Televizija Crne Gore ("Službeni list Crne Gore", br. 79/08, 45/12, 43/16 i 54/16) Skupština Crne Gore 26. saziva, na Drugoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2018. godini, dana 9. marta 2018. godine, donijela je
+O D L U K U O IMENOVANJU JEDNOG ČLANA SAVJETA RADIO I TELEVIZIJE CRNE GORE
