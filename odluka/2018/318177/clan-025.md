@@ -1,0 +1,3 @@
+# Član 25
+U postupku davanja mišljenja o osnovanosti zahtjeva za jednokratnu novčanu pomoć, organ nadležan za vođenje postupka utvrđuje socijalno-anamnestičke podatke, a po potrebi vrši i provjeru podataka kod Centra za socijalni rad, drugog nadležnog organa ili službe i na drugi pogodan način, pri čemu se posebno cijeni da li se pružanjem nekog od oblika socijalne zaštite kod Centra za socijalni rad može postići zadovoljenje potrebe podnosioca zahtjeva.
+Nakon sprovedenog postupka iz stava 1 ovog člana, nadležni organ dostavlja predsjedniku Opštine zahtjev i mišljenje sa prijedlogom za odlučivanje.
