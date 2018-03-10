@@ -1,0 +1,4 @@
+# Član 1
+## o razmjeni nepokretnosti
+Opština Žabljak prenosi pravo svojine na JUGOPETROL AD za Istraživanje, eksploataciju i promet nafte i naftinih derivata iz Podgorice, katastarsku parcelu broj 3967/6, građevinska parcela površine 1.708 m2 upisana u List nepokretnostibroj 194 KO Žabljak I i katastarsku parcelu broj 3990/3 građevinska parcela površine 95 m2 upisana u List nepokretnostibroj 198 KO Žabljak I, u Detaljnom urbanističkom planu označene kao urbanistička parcela broj 1016a, površine 1.803 m2.
+JUGOPETROL AD se obavezuje da na opštinu Žabljak prenese pravo svojine na katastarskoj parceli broj 3851, površine 654 m2, katastarskoj parceli broj 3851/1 poslovne zgrade u privredi površine 50 m2 i katastarsku parcelu broj 3851/2, skladište površine 24 m2 upisane i Listu nepokretnosti broj 183 KO Žabljak I, kao svojina JUGOPETROL AD.
