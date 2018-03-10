@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" br.02/18 od 10.01.2018.godine), člana 31 Statuta opštine Tivat ("Službeni list RCG-opštinski propisi" br.40/04 od 30.12.2004.godine, 26/06 od 11.07.2006.godine; "Službeni list Crne Gore-opštinski propisi" br.12/11 od 08.04.2011.godine, 21/11 od 11.07.2011.godine, 03/13 od 16.01.2013.godine),Skupština opštine Tivat na sjednici održanoj dana 22.02.2018.godine donijela je
+O D L U K U
