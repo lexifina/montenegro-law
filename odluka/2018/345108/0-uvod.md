@@ -1,0 +1,2 @@
+Na osnovu člana 10 i člana 38 stav 1 tač. 4 i 9 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18), člana 7 Uredbe o biznis zonama ("Službeni list CG", broj 77/16 i 38/17), člana 32 stav 1 tač. 3 i 9 i člana 40 Statuta opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 20.02.2018. godine, donijela je
+O D L U K U
