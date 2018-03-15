@@ -1,0 +1,2 @@
+Na osnovu člana 24 i člana 31 Zakona o uređenju prostora i izgradnji objekata (,,Sl.list CG", br. 51/08, 40/10, 34/11, 35/13 i 33/14), a u vezi sa članom 217 Zakona o planiranju prostora i izgradnji objekata (,,Sl.list CG", br. 64/17), člana 60 Statuta opštine Nikšić (,,Sl.list RCG - Opštinski propisi", br.20/04 i 43/06 i "Sl. list Crne Gore - Opštinski propisi" broj 24/10) i Programa uređenja prostora opštine Nikšić za 2017. godinu ("Sl. list Crne Gore - Opštinski propisi" br. 51/16), Predsjednik Opštine Nikšić, donosi
+ODLUKU
