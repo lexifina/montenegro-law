@@ -1,0 +1,2 @@
+Na osnovu člana 48 Statuta Glavnog grada (»Službeni list RCG-Opštinski propisi«, broj 28/06 i "Službeni list CG - Opštinski propisi", broj 39/10, 18/12 i 38/17) i člana 14 Odluke o osnivanju Javne ustanove Kulturno-informativni centar Zeta (»Službeni list RCG - Opštinski propisi« br. 24/04 i »Službeni list CG-Opštinski propisi« broj 28/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 16. marta 2018. godine, donijela je -
+O D L U K U O DAVANJU SAGLASNOSTI NA ODLUKU SAVJETA JAVNE USTANOVE KULTURNO-INFORMATIVNI CENTAR ZETA - GOLUBOVCI O IZBORU DIREKTORICE USTANOVE
