@@ -1,0 +1,2 @@
+Na osnovu člana 29 alineja 1 Zakona o Glavnom gradu ("Službeni list Republike Crne Gore", br. 65/05, 88/09, 72/10, 02/16), člana 47 alineja 1 Statuta opštine u okviru Glavnog grada - Tuzi ("Službeni list Crne Gore - opštinski propisi", br. 039/17), a u vezi člana 59 Zakona o lokalnoj samoupravi ("Sl. list CG" br. 02/18), Skupština opštine u okviru Glavnog grada - Tuzi na sjednici održanoj dana 02.03.2018. godine, donosi
+ODLUKU O POTVRĐIVANJU
