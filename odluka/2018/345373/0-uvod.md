@@ -1,0 +1,2 @@
+Na osnovu člana 219 Zakona o planiranju prostora i izgradnji objekata ("Sl.list CG" , br. 64/17), a u vezi sa članom 162c Zakona o uređenju prostora i izgradnji objekata (»Sl. list CG«, br.51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14), akta Ministarstva održivog razvoja i turizma broj 104-286/3 od 30.01.2018. godine i člana 75 stav 1 tačka 3 Statuta Opštine Bar (»Sl. list CG - opštinski propisi«, broj 06/11), Predsjednik Opštine Bar donio je
+ODLUKU O IZRADI DETALJNOG URBANISTIČKOG PLANA "PRVA FAZA PRIVREDNE ZONE BAR "
