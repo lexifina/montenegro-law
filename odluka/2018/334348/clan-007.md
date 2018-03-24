@@ -1,0 +1,3 @@
+# Član 7
+Obezbjeđivanje lica, objekata i prostora određenih u skladu sa ovom odlukom podrazumijeva planiranje, koordiniranje i izvršavanje preventivno-operativnih, fizičkih, preventivno-tehničkih, zdravstvenih, biološko-sanitarnih i higijensko-epidemioloških mjera.
+Obim i vrsta mjera iz stava 1 ovog člana određuju se na osnovu procjene ugroženosti lica, objekata i prostora i stepena zaštite, koje sačinjava organizaciona jedinica Ministarstva nadležna za vojno-obavještajne i bezbjednosne poslove, kao i na osnovu podataka dobijenih primjenom preventivno-operativnih mjera i drugih podataka i saznanja.
