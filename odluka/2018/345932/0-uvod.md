@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini (»Sl. list CG«, br. 21/09 i 40/11), člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi (»Sl. list RCG«, br. 42/03, 28/04, 75/05 i 13/06 i »Sl. list CG«, br. 88/09, 03/10, 73/10, 38/12, 10/14 i 13/16), i člana 41 stav 1 tačka 9 Statuta Opštine Bar (»Sl. list CG - opštinski propisi«, br. 6/11), ) i saglasnosti Vlade Crne Gore, broj 07-296 od 01.02.2018. godine 2018. godine, Skupština opštine Bar, na sjednici održanoj dana 05.03.2018. godine, donijela je
+ODLUKU
