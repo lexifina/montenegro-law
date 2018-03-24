@@ -1,0 +1,2 @@
+Na osnovu člana 58. stav 1. tačka 7. Zakona o lokalnoj samoupravi ("Službeni list CG" br. 2/18) i člana 57. stav 1. tačka 6. Statuta Opštine Pljevlja ("Službeni list RCG - Opštinski propisi", br. 37/2004, 30/2007 "Službeni list CG - Opštinski propisi", br. 11/2008, 21/2009, 32/2009 i 14/2011), po pribavljenom mišljenju Glavnog administratora, Predsjednik opštine Pljevlja, dana 19.02.2018. godine, donio je:
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O ORGANIZACIJI I NAČINU RADA LOKALNE UPRAVE OPŠTINE PLJEVLJA
