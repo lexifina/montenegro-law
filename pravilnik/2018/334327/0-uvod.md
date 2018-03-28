@@ -1,0 +1,2 @@
+Na osnovu člana 177 Zakona o osiguranju ("Službeni list Republike Crne Gore" br. 078/06, 019/07, "Službeni list Crne Gore" br. 53/09, 73/10, 40/11, 45/12, 6/13, 55/16) a u vezi sa članom 14 Zakona o obaveznom osiguranju u saobraćaju ("Službeni list Crne Gore", br. 44/12), Udruženje - Nacionalni Biro osiguravača Crne Gore je utvrdilo, a Savjet Agencije za nadzor osiguranja, na 238. sjednici održanoj 02.03.2018. godine, dao saglasnost na
+PRAVILNIK O DOPUNI PRAVILNIKA O JEDINSTVENIM KRITERIJUMIMA ZA UTVRĐIVANJE NAKNADE NEMATERIJALNE I NEKIH VIDOVA MATERIJALNE ŠTETE
