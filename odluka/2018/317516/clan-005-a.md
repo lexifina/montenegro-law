@@ -1,0 +1,2 @@
+# Član 5a
+Status objekata, koji su izgrađeni na mjestu razdvajanja pruge Vrbnica-Bar i pruge Nikšić-Podgorica, gdje se Prostorno urbanističkim planom planira tzv. "triangl", kojim se obezbjeđuje posebno saobraćanje vozova i povezanost navedenih željezničkih koridora i koji su Detaljnim urbanističkim planom "Zagorič 5" predviđeni za uklanjanje, preispitaće se, u konačnom, Planom generalne regulacije koji će se uraditi u skladu sa odredbama Zakona o planiranju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 064/17 od 06.10.2017).
