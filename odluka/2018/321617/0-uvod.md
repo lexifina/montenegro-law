@@ -1,0 +1,2 @@
+Na osnovu člana 16 stav 1 Zakona o spomen-obilježjima ("Službeni list CG", br. 40/08, 40/11 i 2/17) i člana 48 Statuta Glavnog grada ("Službeni list Republike Crne Gore - Opštinski propisi", broj 28/06 i "Sl.list Crne Gore - Opštinski propisi", br. 39/10, 18/12 i 38/17), u skladu sa Programom podizanja spomen-obilježja za 2017. godinu, uz prethodno pribavljenu saglasnost Ministarstva kulture Crne Gore, Skupština Glavnog grada - Podgorice, na śednici održanoj dana 16. marta 2018. godine, donijela je
+O D L U K U
