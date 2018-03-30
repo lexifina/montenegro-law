@@ -1,0 +1,2 @@
+Na osnovu članova 17, 18, 19, 23, 24 I 25 Zakona o izboru odbornika I posanika (Službeni list Crne Gore", br. 046/11 od 16.09.2011, 014/14 od 22.03.2014, 047/14 od 07.11.2014, 012/16 od 23.02.2016,060/17 od 30.09.2017), člana 32 Statuta Opštine Petnjica ("Sl.list CG - Opštinski propisi", br. 3/14, 2/15 i 4/15 ), skupština Skupština opštine Petnjica, na predlog Odbora za izbor i imenovanja, sjednici održanoj dana 30.03.2018. godine, donijela je:
+ODLUKU
