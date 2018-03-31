@@ -1,0 +1,2 @@
+# Član 8
+Pri nazivnim uslovima rada i u prisustvu smetnji, odnosno uticajnih veličina iz člana 7 ovog pravilnika, uticaj smetnji na etilometar treba da bude takav da promjene u rezultatu mjerenja nijesu veće od NDG za ovaj rezultat mjerenja, a ako je promjena u rezultatu mjerenja veća od NDG za ovaj rezultat mjerenja, etilometar treba da upozorava da je mjerenje nevažeće ili da se mjerenje ne može izvršiti.
