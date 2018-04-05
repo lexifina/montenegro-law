@@ -1,0 +1,2 @@
+Na osnovu člana 36 tačka 15 Statuta Opštine Herceg Novi ("Sl.list RCG-opštinski propisi" broj 15/04,32/05,31/06, 14/07 i "Sl.list CG-opštinski propisi" broj 16/09, 16/11, "Sl.list CG" br. 60/17) i člana 14 stav 1 Odluke o osnivanju društva sa ograničenom odgovornošću "Sportski centar Igalo" Igalo ("Sl.list CG-opštinski propisi" broj 29/13, 35/17) Skupština opštine Herceg Novi na sjednici održanoj dana 05.04.2018.godine, donijela je
+R J E Š E NJ E O IMENOVANJU ČLANOVA ODBORA DIREKTORA DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "SPORTSKI CENTAR IGALO" IGALO
