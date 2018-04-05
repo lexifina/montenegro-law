@@ -1,0 +1,1 @@
+Na osnovu člana 36 stav 1 tačka 17 i člana 53 Statuta Opštine Hereg Novi, ("Sl.list RCG-opštinski propisi",br. 15/04,32/05,31/06,14/07, "Sl.list CG"-opštinski propisi" br.16/09, 16/11, "Sl.list CG" br.60/17) Skupština opštine Hereg Novi na sjednici održanoj 05.04.2018.godine, donijela je R J E Š E NJ E O IMENOVANJU SEKRETARA SKUPŠTINE OPŠTINE HERCEG NOVI
