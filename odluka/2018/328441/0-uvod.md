@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 1 tačka 7, a u vezi sa članom 69 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18) i člana 67 stav 1 tačka 6 Statuta opštine Budva ("Službeni list Crne Gore - opštinski propisi", broj 19/10), po pribavljenom mišljenju Glavnog administratora, broj ________________ od _________________, Predsjednik opštine Budva d o n o s i
+ODLUKA O IZMJENI ODLUKE O ORGANIZACIJI I NAČINU RADA ORGANA LOKALNE UPRAVE OPŠTINE BUDVA
