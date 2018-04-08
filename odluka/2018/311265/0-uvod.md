@@ -1,0 +1,3 @@
+Na osnovu člana 65 Zakona o finansiranju lokalne samouprave ("Sl.list RCG", br. 42/03, 44/03 i "Sl.list CG", br. 88/09, 03/10, 73/10 i 38/12), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list CG" br.02/18) i člana 34 stav 1 tačka 2 i 17 Statuta Opštine Bijelo Polje, ("Sl. list RCG - Opštinski propisi", br. 25/04 i 33/06 i "Sl. list CG - Opštinski propisi", br.18/10, 32/13 i 47/17), Skupština opštine Bijelo Polje, na sjednici održanoj 23. 03.2018. godine, donijela je:
+O D L U K U
+o davanju saglasnosti na Odluku Odbora direktora DOO Vodovod "Bistrica" Bijelo Polje o zalaganju nepokretnosti radi
