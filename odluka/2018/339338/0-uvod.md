@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 17/98, 14/00, 9/01, 41/02, 46/02, 45/04 i "Sl. list Crne Gore" br. 48/06, 56/06 , 46/11, 014/14, 047/14, 012/16, 060/17 i 010/18), člana 29 st.1 tač.17 u vezi sa članovima 26 st.1, 27 i 55c Zakona o Glavnom gradu ("Službeni list RCG", broj 65/05 i "Sl. list Crne Gore" br. 88/09, 72/10, i 02/16 ), Skupština Gradske opštine Golubovci, na XVII sjednici, održanoj dana 29.03. 2018. godine, donijela je -
+O D L U K U
