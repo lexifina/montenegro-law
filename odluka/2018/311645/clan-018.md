@@ -1,0 +1,5 @@
+# Član 18
+## Produženo radno vrijeme
+Organ lokalne uprave nadležan za preduzetništvo, na zahtjev privrednog subjekta, može produžiti radno vrijeme, u objektima iz člana 14 stav 2 najduže za dva sata u odnosu na radno vrijeme propisano istim, uz prethodno pribavljeno mišljenje stručne institucije o primijenjenim mjerama zaštite od buke, mišljenje Komunalne policije i organa državne uprave nadležnog za održavanje javnog reda i mira (u daljem tekstu: policija), da u periodu od šest mjeseci prije podnošenja zahtjeva nijesu preduzimane upravne mjere i radnje, odnosno mjere radi održavanja javnog reda i mira, saglasnost skupštine etažnih vlasnika za ugostiteljske objekte locirane u dijelu kolektivnih stambeno-poslovnih zgrada, saglasnost upravnika-direktora poslovnog centra ili 51% vlasnika-korisnika poslovnog objekta u datom poslovnom centru, odnosno saglasnost mjesne zajednice za objekte u naseljenim mjestima, a ne nalaze se u kolektivnim stambeno-poslovnim zgradama.
+Rješenje iz stava 1ovog člana donosi se na period od 3 mjeseca.
+Ovo rješenje se može produžavati na isti period, uz pribavljanje propisanih saglasnosti iz stava 1 ovog člana.

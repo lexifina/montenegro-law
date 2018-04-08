@@ -1,0 +1,3 @@
+# Član 25
+U koliko se kazino i drugi objekti u kojima se priređuju igre na sreću koji su definisani članom 22 ove odluke nalazi u okviru stambenih zgrada za obavljanje djelatnosti za koje su registrovani moraju imati atest od institucije ili ustanove koja je u Centralnom registru privrednog suda Crne Gore registrovana za izdavanje atesta kojima se utvrđuje nivo buke.
+Privredni subjekti koji su registrovani za obavljanje djelatnosti navedene u predhodnom stavu ovog člana u objektima koji se nalaze u okviru stambenih zgrada nivo buke ne smije biti preko granice koja je predviđena pozitivno-pravnim propisima.
