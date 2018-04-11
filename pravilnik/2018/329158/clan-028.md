@@ -1,0 +1,3 @@
+# Član 28
+## Prestanak primjene
+Danom stupanja na snagu ovog pravilnika prestaje primjena odredaba Pravilnika o normama kvaliteta, pakovanja, plombiranja i deklarisanja sjemena poljoprivrednog bilja ("Službeni list SFRJ", broj 55/75) i Pravilnika o kvalitetu sjemena poljoprivrednog bilja ("Službeni list SFRJ", br. 47/87, 60/87, 55/88 i 81/89 i "Službeni list SRJ", br. 16/92, 8/93, 21/93, 30/94, 43/96, 10/98, 15/01 i 58/02), koje se odnose na sjemenski materijal krmnog bilja i prestaju da važe odredbe Pravilnika o stručnoj kontroli nad proizvodnjom poljoprivrednog sjemena ("Službeni list RCG", br. 28/94 i 5/03), koje se odnose na sjemenski materijal krmnog bilja.
