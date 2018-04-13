@@ -1,0 +1,2 @@
+# Član 3
+Stupanjem na snagu ove Odluke prestaju da važe Odluke, br.01-030/14-23 od 03.02.2014.godine; (Sl.list CG-opštinski propisi br 4/14); br.01-030/14-287 od 26.08.2014.godine (Sl.list CG-opštinski propisi br.24/14); br.01-030/15-349 i br. 01- 030/15-350 od 26.10.2015.godine (Službeni list CG-opštinski propisi br. 37/15); br.01-030/16-325 i br.01-030/16-326 od 30.03.2016.godine (Službeni list CG -opštinski propisi br.15/16); br.01-030/16-428 i br.01-030/16-410 od 30.11.2016.godine (Službeni list CG-opštinski propisi br. 48/16).
