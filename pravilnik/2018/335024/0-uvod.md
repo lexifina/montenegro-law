@@ -1,0 +1,4 @@
+Na osnovu člana 117 stav 5 i člana 119 stav 5 Zakona o Vojsci Crne Gore ("Službeni list CG", broj 51/17), Ministarstvo odbrane donijelo je
+PRAVILNIK
+O BLIŽIM USLOVIMA, NAČINU IZBORA I DRUGIM PITANJIMA OD ZNAČAJA
+ZA IZBOR PROFESIONALNOG VOJNOG LICA ZA OBRAZOVANJE ILI USAVRŠAVANJE I STIPENDISTE

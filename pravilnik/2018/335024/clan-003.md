@@ -1,0 +1,2 @@
+# Član 3
+Interni oglas za izbor profesionalnog vojnog lica za obrazovanje ili usavršavanje, sadrži: naziv organizatora obrazovanja, odnosno usavršavanja, mjesto, vrstu, uslove i vrijeme trajanja obrazovanja, odnosno usavršavanja, broj profesionalnih vojnih lica koja se upućuju na obrazovanje, odnosno usavršavanje, adresu, rok i način podnošenja prijave na oglas i dokaze koje kandidat mora da priloži uz prijavu.
