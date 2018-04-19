@@ -1,0 +1,3 @@
+# Član 5
+## životinje koje podliježu odobravanju
+Objekti u kojima se obavljaju djelatnosti proizvodnje, prerade i distribucije hrane za životinje koje podliježu odobravanju kao i objekti u kojima se obavljaju djelatnosti proizvodnje, prerade i distribucije hrane za životinje na porodičnom poljoprivrednom gazdinstvu dati su u Prilogu 2.
