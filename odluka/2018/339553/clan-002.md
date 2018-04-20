@@ -1,0 +1,5 @@
+# Član 2
+Sudsko poravnanje iz stava 1 ovog člana se odnosi na stambeni prostor PD3 koji je upisan u listu nepokretnosti broj 182 u KO Mojkovac, na katastarskoj parceli broj 266, broj zgrade 1, spratnosti P1, ukupne površine 63m2.
+Navedeni stambeni prostor je sada upisan kao svojina Države Crne Gore, subjekt raspolaganja Opština Mojkovac u obimu prava 1/1.
+Sudsko poravnanje, za koje se ovom odlukom daje saglasnost, se može zaključiti samo na način što će se potvrditi da nepokretnost iz stava 1 ovog člana predstavlja zaostavštinu pok. Jakše Vlahovića, kojem je rješenjem Skupštine Opštine Mojkovac br. 03-1548/2-64 od 2. septembra 1964. godine, izvršena eksproprijacija porodične stambene zgrade u centru Mojkovca sa kućnim brojem 34 sa tačnim opisom i dimenzijama u svrhu proširenja i asfaltiranja trga gradskog naselja Mojkovac, izgradnje prilaza stambeno poslovnoj zgradi i novo izgrađenoj tržnici.
+Saglasnost za zaključenje sudskog poravnanja se daje pod uslovom da tužioci odustanu od ispostavljanja svih sudskih troškova i bilo kakvih drugih potraživanja po ovom osnovu prema Opštini Mojkovac.
