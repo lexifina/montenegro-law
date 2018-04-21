@@ -1,0 +1,2 @@
+# Član 7
+Prijava poklona ponuđenih od zvaničnih predstavnika strane države koje je lice u službi u Vojsci prihvatilo u ime Ministarstva odbrane, odnosno Vojske sadrži: ime, prezime, čin i formacijsko mjesto lica koje prijavljuje poklon; vrstu poklona; povod prihvatanja poklona; podatke o poklonodavcu; mjesto i datum prihvatanja poklona; datum prijave poklona i potpis lica koje prijavljuje poklon (Obrazac 4).
