@@ -1,0 +1,2 @@
+Na osnovu člana 31 stav 1 tačka 2 Statuta opštine Plužine ("Sl.list RCG-opštinski propisi" br. 23/04 i 7/07 i "Sl.list CG - opštinski propisi" br. 1/11, 8/11 i 22/11), a u vezi sa članom 43 Odluke o korišćenju i uklanjanju privremenih objekata na teritoriji opštine Plužine ("Sl.list CG-opštinski propisi" br. 14/12), Skupština opštine Plužine na sjednici održanoj dana 02.04.2018. godine, donijela je
+O D L U K U
