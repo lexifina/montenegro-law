@@ -1,0 +1,1 @@
+Na osnovu člana 38 stav 1 tač. 2 i 21 Zakona o lokalnoj samoupravi ("Službeni list CG" br.2/18), člana 7 Odluke o Savjetu za saradnju lokalne samouprave i nevladinih organizacija ("Službeni list CG- opštinski propisi" br. 19/15) Skupština Prijestonice Cetinje na sjednici održanoj dana, 30.03. 2018. godine donijela je
