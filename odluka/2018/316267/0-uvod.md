@@ -1,0 +1,2 @@
+Na osnovu člana 40 stav 2 tačka 3 i 4 Zakona o državnoj imovini, ("Sl.list CG" br.21/09 I 40/11) člana 38 stav 1 tačka 9 Zakona o lokaljnoj samoupravi ( "Sl. List CG br.2/18) i člana 34 Statuta opštine Plav ( Sl.list RCG-opštinski propisi broj 17/07 i Sl.list CG- opštinski propisi broj 25/09 i 38/10 ) Odluke o građevinskom zemljištu ( Sl.list CG-opštinski propisi broj 15/08) Skupština opštine Plav na sjednici održanoj 29.03.2018 godine, donjela je :
+ODLUKU
