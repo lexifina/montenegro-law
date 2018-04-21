@@ -1,0 +1,5 @@
+# Član 1
+## o utvrđivanju da Sporazum o pridruživanju Opštine Plav Regionalnoj turističkoj organizaciji regiona Bjelasica i Komovi nije stupio na pravnu snagu
+Utvrđuje se da Sporazum o pridruživanju Opštine Plav Regionalnoj turističkoj organizaciji regiona Bjelasica i Komovi br. 477 od 11.02.2009. godine, koji predstavlja sastavni dio Sporazuma o osnivanju Regionalne turističke organizacije ("Sl. list RCG- Opštinski propisi", br. 16/06), nije nikada stupio na pravnu snagu.
+Konstatuje se da Sporazum o pridruživanju Opštine Plav Regionalnoj turističkoj organizaciji regiona Bjelasica i Komovi br. 477 od 11.02.2009. godine nije nikada proizvodio pravno dejstvo, iz razloga što organi Regionalne turističke organizacije "Bjelasica&Komovi" nijesu nikada konstituisani u skladu sa pravnim propisima države Crne Gore, koji regulišu oblast turističkih organizacija.
+Isti Sporazum takođe nikada nije proizvodio pravno dejstvo, iz razloga što nikada nije usvojen na Skupštini Opštine Plav, a takođe nikada nije objavljen u "Službenom listu RCG- Opštinski propisi".
