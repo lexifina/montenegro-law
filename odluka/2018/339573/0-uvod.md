@@ -1,0 +1,1 @@
+Na osnovu člana 63 stav 1 tačka 41 Statuta Prijestonice Cetinje ("Sl. list CG-opštinski propisi", br. 19/09, 37/10, 26/13, 39/14 i 12/16) i člana 13, 14 i 15 Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalno" Cetinje("Sl. list CG- opštinski propisi", br 30/13, 22/14 i 16/17) Skupština Prijestonice Cetinje, na sjednici održanoj dana, 30.03.2018.godine, donijela je
