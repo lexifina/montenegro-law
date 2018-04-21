@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi (,,Sl.list CG’’ br. 02/18), a u vezi sa članom 143 Zakona o upravnom postupku (,,Sl.list CG’’ br.56/14,20/15,40/16 i 37/17) i člana 34 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl.list RCG- Opštinski propisi" br.25/04, 33/06 "Sl.list CG-Opštinski propisi" br.18/10, 32/13 i 47/17), Skupština opštine Bijelo Polje, na sjednici održanoj dana 22.03. 2018. godine, donijela je:
+ODLUKU
