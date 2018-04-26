@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list CG", br. 40/10, 06/13 i 70/17), a u vezi sa članom 110 stav 2 Zakona o finansijskom lizingu, faktoringu, otkupu potraživanja, mikrokreditiranju i kreditno-garantnim poslovima ("Službeni list CG", broj 73/17), Savjet Centralne banke Crne Gore, na sjednici održanoj 13. aprila 2018. godine, donio je
+O D L U K U O MINIMALNIM STANDARDIMA ZA UPRAVLJANJE RIZICIMA U POSLOVANJU PRUŽALACA FINANSIJSKIH USLUGA
