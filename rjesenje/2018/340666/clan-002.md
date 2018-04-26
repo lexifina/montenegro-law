@@ -1,0 +1,3 @@
+# Član 2
+Zadatak Komisije je da:
+1. utvrdi prioritetne oblasti u kojima će se za određenu godinu pružati finansijska podrška za realizaciju projekata nevladinih organizacija, 2. raspiše javni konkurs za raspodjelu sredstva za projekte nevladinih organizacija, 3. donese odluku o raspodjeli sredstava nevladinim organizacijama, 4. prati realizacju zaključenih ugovora, 5. javno predstavi realizovane aktivnosti i ostvarene rezultate nevladinih organizacija čiji su projekti podržani, 6. podnese Skupštini izvještaj o podržanim projektima, iznosu dodijeljenih sredstava, realizovanim projektima i njihovim efektima.
