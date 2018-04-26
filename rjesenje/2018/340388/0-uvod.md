@@ -1,0 +1,2 @@
+Na osnovu člana 48 i člana 53 stav 1 Statuta opštine u okviru Glavnog grada - Tuzi ("Službeni list Crne Gore - opštinski propisi", br.39/17), člana 4 i člana 10 Odluke o obrazovanju radnih tijela Skupštine opštine u okviru Glavnog grada- Tuzi ("Sl.list Crne Gore- opštinski propisi", br.8/18), a u skladu sa Izvještajem o popuni odborničkih mjesta Izborne komisije Glavnog grada- Podgorice broj 4924/18 od dana 11.04.2018. godine, Skupština opštine u okviru Glavnog grada- Tuzi je na sjednici održanoj 26.04.2018. godine , donijela
+RJEŠENJE
