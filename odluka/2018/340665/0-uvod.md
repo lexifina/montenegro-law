@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika (" Sl.list RCG" br.04/98, 05/98, 17/98, 14/00, 18/00, "Sl.list SRJ" br. 73/00, 09/01, 41/02, 46/02, 45/04, 48/06 i " Sl.list CG" br.46/11, 14/14, 47/14, 12/16,60/17 i 10/18 ), člana 24 st.1 i 31 st.1 tačka 40 Statuta opštine Kolašin (" Sl.list RCG-opštinski propisi" br.25/04, 31/04, 34/06 i "Sl.list CG-opštinski propisi br.41/10) Skupština opštine Kolašin, na sjednici održanoj dana 27.04.2018.godine donijela je-
+O D L U K U O UTVRĐIVANJU BROJA ODBORNIKA KOJI SE BIRAJU U SKUPŠTINU OPŠTINE KOLAŠIN
