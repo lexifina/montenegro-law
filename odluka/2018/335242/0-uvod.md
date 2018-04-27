@@ -1,0 +1,2 @@
+Na osnovu člana 82 tač. 3 i 14 Ustava Crne Gore i čl. 29 i 30 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06 i 56/06, i "Službeni list CG", br. 46/11, 14/14, 47/14, 12/16, 6/17 i 10/18), Skupština Crne Gore 26. saziva, na Šestoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2018. godini, dana 27. aprila 2018. godine, donijela je
+ODLUKU O IMENOVANJU JEDNOG ČLANA DRŽAVNE IZBORNE KOMISIJE IZ REDA PREDSTAVNIKA CIVILNOG DRUŠTVA, NEVLADINOG SEKTORA I UNIVERZITETA
