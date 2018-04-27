@@ -1,0 +1,6 @@
+# Član 9
+Za hitne i nepredviđene izdatke tokom fiskalne godine koristiće se sredstva tekuće i stalne budžetske rezerve.
+Sredstva tekuće budžetske rezerve koriste se za nepredviđene ili nedovoljno predviđene izdatke koji se finansiraju iz Budžeta.
+O korišćenju sredstava tekuće budžetske rezerve odlučuje predsjednik opštine. Predsjednik opštine može ovlastiti sekretara sekretarijata za finansije i ekonomski razvoj da odluči o korišćenju sredstava tekuće budžetske rezerve do određenog iznosa.
+Stalna budžetska rezerva koristi se za finansiranje izdataka na ime učešća opštine u otklanjanju posledica vanrednih okolnosti kao što su poplave, suše, požar i druge elementarne nepogode, odnosno drugih vanrednih događaja koji mogu ugroziti život i zdravlje ljudi ili prouzrokuju štetu većih razmjera.
+Stalna budžetska rezerva može se koristiti i za izvršavanje obaveza Budžeta usled smanjenog obima primitaka i pokriće budžetskog deficita.
