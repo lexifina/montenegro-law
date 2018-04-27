@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 21 i člana 43 stav 1 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18), člana 32 tačka 19 i člana 35 Statuta opštine Nikšić ("Službeni list RCG-Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG- Opštinski propisi", broj 24/10) i člana 20 Odluke o obrazovanju radnih tijela Skupštine ("Službeni list RCG-Opštinski propisi", br. 14/05 i 1/07), Skupština opštine Nikšić, na sjednici održanoj 27.04.2018.godine, donijela je
+O D L U K U
