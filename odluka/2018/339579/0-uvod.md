@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 02/18) i člana 32 stav 1 tačka 1, a shodno članu 135 Statuta Opštine Petnjica ("Sl.list CG-opštinski propisi", br. 3/14, 2/15 i 41/15) i članu 136 a u vezi sa članom 133 stav 1 Poslovnika Skupštine opštine Petnjica ("Sl. list CG - Opštinski propisi", br. 17/2014) Skupština opštine Petnjica, na sjednici održanoj dana 30.03.2018.godine, donijela je
+ODLUKU
