@@ -1,0 +1,3 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Sl. list RCG", br. 65/01 i "Sl. list CG", br. 75/10 i 79/15), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18) i člana 5 stav 1 tačka 1 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03, 44/03 i "Sl. list CG", br. 05/08, 51/08, 74/10, 1/15, 78/15, 3/16, 30/17 i 92/17) i člana 44 Statuta opštine Mojkovac ("Sl. list CG"-opštinski propisi, br. 31/10 i 26/12) Skupština opštine Mojkovac na sjednici održanoj 03.04..2018. godine, donijela je
+O D L U K U
+o oslobađanju plaćanja poreza na nepokretnosti - zemljište u zoni V planinsko područje za 2018.
