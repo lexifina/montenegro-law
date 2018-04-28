@@ -1,0 +1,2 @@
+Na osnovu člana 13 Odluke o rješavanju stambenih potreba po osnovu prava na socijalno stanovanje ("Sl. list CG"- opštinski propisi broj 3/16) i člana 44 stav 1 tačka 2 Statuta opštine Mojkovac (" Sl list CG " - opštinski propisi br. 31/10 i 26/12) Skupština opštine Mojkovac, na sjednici održanoj 29.03.2018. godine, donijela je
+ODLUKU O IMENOVANJU KOMISIJE ZA RJEŠAVANJE STAMBENIH POTREBA LICA PO OSNOVU PRAVA NA SOCIJLANO STANOVANJE
