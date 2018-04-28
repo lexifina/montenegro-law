@@ -1,0 +1,2 @@
+Na osnovu člana 38. stav 1. tačka 14. Zakona o lokalnoj samoupravi ("Sl.list Crne Gore" br.02/18), člana 31. stav 1. tačka 25. Statuta opštine Tivat ("Sl.list RCG- opštinski propisi", br. 40/04, 26/06 i "Sl.list Crne Gore-opštinski propisi", br. 12/11, 21/11 i 3/13 i člana 2. Odluke o osnivanju Društva za odvođenje I prečišćavanje otpadnih voda za opštine Kotor I Tivat ("Sl.list Crne Gore - opštinski propisi" br.37/16 ), Skupština opštine Tivat, na sjednici održanoj dana 29.03.2018.godine, donijela je
+O D L U KU
