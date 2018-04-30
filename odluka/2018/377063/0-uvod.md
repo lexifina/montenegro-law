@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Službeni list RCG", broj 65/01 i "Službeni list CG", br. 75/10, 9/15 i 44/17), i člana 63 stav 1 tačka 8, člana 75 stav 3 Statuta Prijestonice ("Službeni list CG-opštinski propisi", br.19/09, 37/10, 26/13, 39/14 i 12/16), Skupština Prijestonice Cetinje, na sjednici održanoj, 30.04.2018.godine, donijela je
+O D L U K U O IZMJENI ODLUKE O POREZU NA NEPOKRETNOSTI
