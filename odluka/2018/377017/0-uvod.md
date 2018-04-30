@@ -1,0 +1,2 @@
+Na osnovu člana 58 Zakona o lokalnoj samoupravi (,,Sl list CG ,, , br. 002/18), člana 11 stav 1 Zakona o kulturi (,, Službeni list Crne Gore ,, broj 049/08, 016/11, 040/11, 038/12), člana 87 stav 1 alineja 23, a u vezi sa članom 90 Statuta Prijestonice (,, Službeni list Crne Gore - opštinski propisi ,, broj 019/09, 037/10, 026/13, 039/14, 012/16), Gradonačelnik Prijestonice Cetinje, donio je
+O D L U K U
