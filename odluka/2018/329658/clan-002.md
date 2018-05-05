@@ -1,0 +1,2 @@
+# Član 2
+Ovlašćuje se Direkcija za imovinu i zastupanje Opštine Herceg Novi da, u skladu sa ovom odlukom zaključi akt o sporazumnom rješavanju imovinsko- pravnih odnosa na zemljištu označenom kao dio kat. parc. 2340 K.O. Topla u pov. 60 m2, sa dimenzijama i koordinatnim tačkama navedenim u Elaboratu, izrađenom od "Geodata" d.o.o. Herceg Novi od 21.04.2017. godine, iz predmeta Osnovnog suda u Herceg Novom Posl. br. P. 19/17-10, sa Brković Aleksandrom, Milošević Gavrom, Gojković Jasnom, Rančić Katarinom, Milićević Majom i Milošević Milenom, svi iz Beograda.
