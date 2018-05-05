@@ -1,0 +1,4 @@
+# Član 1
+U Uredbi o naknadi troškova zaposlenih u javnom sektoru ("Službeni list CG", broj 40/16) u članu 5 poslije stava 3 dodaju se dva nova stava koja glase:
+"Službenim putovanjem ne smatra se izvršavanje radnih obaveza po nalogu rukovodioca u oblasti pružanja usluge prevoza u vazdušnom i željezničkom saobraćaju, u skladu sa aktom o unutrašnjoj organizaciji i sistematizaciji (upravljanje prevoznim sredstvom, opsluživanje putnika tokom prevoza i obavljanje drugih poslova koji su u vezi sa izvršenjem naloga za prevoz).
+Pružanjem usluga prevoza, u smislu stava 4 ovog člana, ne smatra se izvršavanje radne obaveze zaposlenog po nalogu rukovodioca u Avio servisu Generalnog Sekretarijata Vlade Crne Gore" (u daljem tekstu: Vlada) i Avio helikopterskoj jedinici Ministarstva unutrašnjih poslova (u daljem tekstu: Avio helikopterska jedinica)."
