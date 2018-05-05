@@ -1,0 +1,84 @@
+# Član 2
+Zahvat predmetnog plana je površine 21,62 ha i obuhvaćen je: brdom Gorica na sjeveru, Ulicom Rista Stijovića na zapadnoj strani, Bulevarom Ivana Crnojevića od jugozapada prema jugoistoku i trasom željezničke pruge Beograd-Bar na istočnoj strani. Grafički prikaz zahvata plana je prilog Programskog zadatka.
+Zahvat planskog dokumenta je definisan je koordinatama tačaka:
+Br.
+X
+Y
+1
+605 063,73
+700 843,57
+2
+605 108,65
+700 841,15
+3
+605 329,75
+700 964,39
+4
+605 443,58
+701 058,57
+5
+605 459,28
+701 088,04
+6
+605 463,09
+701 086,00
+7
+605 477,20
+701 112,48
+8
+605 490,88
+701 105,19
+9
+605 504,98
+701 131,67
+10
+605 506,75
+701 130,73
+11
+605 543,00
+701 198,00
+12
+605 635,20
+701 139,43
+13
+605 405,44
+700 626,58
+14
+605 400,75
+700 620,21
+15
+605 367,34
+700 541,16
+16
+605 134,64
+700 474,95
+17
+605 051,62
+700 463,46
+18
+604 956,70
+700 475,71
+19
+604 956,02
+700 488,27
+20
+604 973,56
+700 555,39
+21
+604 984,52
+700 597,32
+22
+604 996,69
+700 634,49
+23
+605 017,49
+700 671,49
+24
+605 041,53
+700 708,14
+25
+605 057,39
+700 748,29
+26
+605 053,16
+700 053,16
