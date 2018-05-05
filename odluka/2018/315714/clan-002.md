@@ -1,0 +1,6 @@
+# Član 2
+U članu 5 stav 1 alineja 1 mijenja se i glasi:
+- "u Ulici Obala Nikole Kovačevića u Igalu, osim vozila za snabdjevanje u vremenu od 06,00 do 09,00 časova i od 14,00 do 16,00 časova na osnovu odobrenja Sekretarijata nadležanog za poslove saobraćaja Opštine Herceg Novi sa obaveznim smjerom od Titove vile do početka Šetališta Pet Danica;"
+U članu 5 stav 1 alineja 6 mijenja se i glasi:
+- "na lokalnom priobalnom putu kroz naselja, Baošići i Bijela do plivališta, kao i dijela puta u Bijeloj pored hotela "Delfin" do raskrsnice sa Jadranskom magistralom u Jošicama u vremenu od 10,00 do 16,00 časova i od 19,00 do 01,00 čas u periodu od 1. jula do 1. septembra, osim za motorna vozila čiji vlasnici imaju prebivalište u zoni zabrane kretanja vozila za koje Sekretarijat nadležan za poslove saobraćaja Opštine Herceg Novi izda posebno odobrenje i taksi vozila;" U članu 5 stav 1 poslije alineje 7 dodaje se nova alineja i glasi:
+-"na lokalnom priobalnom putu kroz naselja, Kumbor i Đenovići od Zmijica do restorana "Papagaj", od 19,00 do 01,00 čas u periodu od 1. jula do 1. septembra, osim za motorna vozila čiji vlasnici imaju prebivalište u zoni zabrane kretanja vozila za koje Sekretarijat nadležan za poslove saobraćaja Opštine Herceg Novi izda posebno odobrenje i taksi vozila."
