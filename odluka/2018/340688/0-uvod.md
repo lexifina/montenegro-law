@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 , člana 41 stav 1 i člana 201 Zakona o lokalnoj samoupravi ("Sl. list CG" br. 2/18); člana 38 stav 2 i člana 148 Statuta opštine Pljevlja ("Sl. list RCG - Opštinski propisi", br.37/04,30/2007 i "Sl. list RCG - Opštinski propisi", br. 37/04 i 30/07 i "Sl. list CG-opštinski propisi" br. 32/09 i 14/11) i člana 137 stav 2 i člana 138 Poslovnika Skupštine opštine Pljevlja (Sl. List CG - opštinski propisi", br. 13/15), Skupština opštine Pljevlja na sjednici održanoj dana 19.04.2018. godine, donijela je:
+ODLUKU
