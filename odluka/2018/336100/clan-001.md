@@ -1,0 +1,3 @@
+# Član 1
+U Odluci o privremenom ograničenju izvoza određenih drvnih sortimenata ("Službeni list CG", br. 23/17 i 63/17) u članu 1 stav 1 riječi: "tarifnih oznaka 4401 11 00 i 4401 12 00" zamjenjuju se riječima: "tarifnih oznaka 4401 11 00, 4401 12 00, 4401 21 00, 4401 22 00, 4401 40 10, 4401 40 90".
+U stavu 3 riječi: "tarifnih brojeva 4401 11 00 i 4401 12 00" zamjenjuju se riječima: "tarifnih oznaka 4401 11 00 i 4401 12 00, iverja od nečetinara (lišćara) iz tarifne oznake 4401 21 00, iverja od četinara iz tarifne oznake 4401 22 00, piljevine iz tarifne oznake 4401 40 10, drvnih otpadaka i ostataka i okoraka iz tarifne oznake 4401 40 90".
