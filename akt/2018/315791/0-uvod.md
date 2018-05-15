@@ -1,0 +1,2 @@
+Na osnovu člana 150 stav 4 Zakona o radu ("Službeni list CG", br. 49/08, 59/11, 66/12, 31/14 i 4/18), člana 24 st. 1 i 5 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17 i 12/18) i člana 3 Opšteg kolektivnog ugovora ("Službeni list CG", br. 14/14 i 39/16), Sindikalna organizacija Javne ustanove Ispitni centar, direktor Javne ustanove Ispitni centar i Vlada Crne Gore, zaključuju
+K O L E K T I V N I UGOVOR O IZMJENAMA KOLEKTIVNOG UGOVORA ZA JAVNU USTANOVU ISPITNI CENTAR
