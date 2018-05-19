@@ -1,0 +1,80 @@
+# Član 13
+## Najveća dozvoljena greška (NDG)
+Vrijednosti najveće dozvoljene greške (NDG) koje se odnose na konvencionalnu masu tegova, date su u sljedećoj tabeli:
+Nazivna masa
+kg
+Klasa
+E1
+mg
+Klasa
+E2
+mg
+Klasa
+F1
+mg
+Klasa
+F2
+mg
+Klasa
+M1
+mg
+Klasa
+M1-2
+mg
+Klasa
+M2
+mg
+Klasa
+M2-3
+mg
+Klasa
+M3
+mg 5000
+25000 80000 250000 500000 800000 1600000 2500000 2000
+10000 30000 100000 200000 300000
+600000
+1000000 1000
+1600
+5000
+16000
+50000
+100000 160000
+300000
+500000
+500
+800
+2500
+8000
+25000
+50000
+80000
+160000
+250000
+200
+300
+1000
+3000
+10000
+20000
+30000
+60000
+100000
+100
+160
+500
+1600
+5000
+10000
+16000
+30000
+50000
+50
+25
+80
+250
+800
+2500
+5000
+8000
+16000
+25000
