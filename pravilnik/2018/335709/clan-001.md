@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o tehničkim i metrološkim uslovima i postupku ovlašćivanja lica za pripremu automatskih mjerila nivoa tečnosti u nepokretnim rezervoarima za ovjeravanje ("Službeni list CG", br. 19/18), član 13 mijenja se i glasi:
+"Za vršenje poslova pripreme sondi za ovjeravanje, privredno društvo odnosno preduzetnik mora da ima najmanje dva zaposlena, sa najmanje srednjim stručnim obrazovanjem u obimu od 180 kredita CSPK-a (III nivo nacionalnog okvira kvalifikacija) ili srednjim opštim i stručnim obrazovanjem u obimu od 240 kredita CSPK-a (IV nivo nacionalnog okvira kvalifikacija, podnivo 1) tehničkog smjera i najmanje tri godine radnog iskustva na poslovima ispitivanja ili proizvodnje ili servisiranja sondi."
