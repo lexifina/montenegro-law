@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Sl.list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Sl.list CG", br. 46/11 i 14/14) i člana 38 tačka 40 Statuta opštine Žabljak ("Sl.list RCG-opštinski propisi", br. 9/05, 23/07 i Sl.list CG-opštinski propisi", br. 3/11 i 7/14), Skupština opštine Žabljak na sjednici održanoj dana 26.04.2018.godine, donijela je
+O D L U K U
