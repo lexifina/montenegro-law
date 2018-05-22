@@ -1,0 +1,2 @@
+Na osnovu člana 17 Uredbe o Vladi Crne Gore ("Službeni list CG", br. 80/08, 14/17 i 28/18), a u vezi sa članom 2 Zakona o ratifikaciji Okvirnog sporazuma između Vlade Crne Gore i Komisije evropskih zajednica o pravilima za saradnju koja se odnose na finansijsku pomoć EZ Crnoj Gori u okviru sprovođenja Instrumenta pretpristupne pomoći (IPA) (Službeni list CG", broj 1/08), Vlada Crne Gore, na sjednici od 26. aprila 2018. godine, donijela je
+UREDBU O IZMJENAMA UREDBE O ORGANIZACIJI DECENTRALIZOVANOG UPRAVLJANJA INSTRUMENTOM PRETPRISTUPNE POMOĆI EVROPSKE UNIJE
