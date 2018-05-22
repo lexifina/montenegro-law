@@ -1,0 +1,2 @@
+# Član 2
+Urbanističku parcelu broj 10, ukupne površine 931 m2 u zahvatu Urbanističkog projekta za prostor između ulica Nika Miljanića, Njegoševe, II Dalmatinske i Baja Pivljanina, pored zemljišta iz člana 1 ove odluke čini i katastarska parcela broj 1047 dvorište 490 m2, zemljište ispod porodične stambene zgrade, površine 166 m2 i zemljište ispod garaže, površine 15 m2, koja je upisana u listu nepokretnosti broj 1739 KO Nikšić kao susvojina u dijelu od po 1/3, Mićunović Žarka, Mićunović Slobodana i Mićunović Vlada.
