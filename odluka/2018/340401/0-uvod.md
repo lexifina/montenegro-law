@@ -1,0 +1,2 @@
+Na osnovu člana 16 stav 1 Zakona o spomen-obilježjima ("Službeni list CG", br. 40/08, 40/11 i 2/17) i člana 40 Statuta opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", broj 24/10), u skladu sa Programom podizanja spomen-obilježja u opštini Nikšić u 2018. godini ("Službeni list CG - Opštinski propisi", broj 7/18) i uz prethodnu saglasnost Ministarstva kulture Crne Gore, Rješenjem UPI-broj: 01-16/5 od 12.03.2018. godine, Skupština opštine Nikšić, na sjednici održanoj 27.04.2018. godine, donijela je
+O D L U K U
