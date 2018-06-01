@@ -1,0 +1,4 @@
+# Član 1
+Ovim statutom uređuju se ciljevi osnivanja Ljekarske komore Crne Gore (u daljem tekstu: Komora); njena organizacija, djelatnost i poslovanje; izbor, nadležnost i način rada organa; odlučivanje i sprovođenje odluka; prava i obaveze članova Komore; finansiranje, kao i druga pitanja od značaja za rad Komore.
+Komora je nezavisna strukovna, profesionalna organizacija koju osnivaju zdravstveni radnici koji su stekli obrazovanje na medicinskom fakultetu (u daljem tekstu: doktori medicine), radi zaštite i daljeg razvoja stručnosti, medicinske etike, poboljšanja kvaliteta zdravstvene zaštite i zaštite profesionalnih interesa, sa pravima i obavezama propisanim zakonom i ovim statutom.
+Komora štiti prava i zastupa interese doktora medicine, unapređuje zdravstvenu djelatnost, stara se o etičkom ponašanju doktora medicine, kao i o ugledu i časti medicinske struke i pravilnom obavljanju zdravstvene djelatnosti.
