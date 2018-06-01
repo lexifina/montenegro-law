@@ -1,0 +1,2 @@
+Na osnovu člana 32 Statuta Opštine Petnjica ("Sl. List CG-Opštinski propisi, br 3/2014,2/2015,41/2015) i člana 9 Odluke o ustanovljavanju i dodjeljivanju javnih priznanja i nagrada i zvanju počasnog građanina ("Sl. List CG-Opštinski propisi", br. 41/2015) , Skupština Opštine Petnjica , na sjednici održanoj dana 01.06.2018 godine, donijela je:
+ODLUKU O ODREĐIVANJU ŽIRIJA ZA DODJELU NAGRADE "4.AVGUST"
