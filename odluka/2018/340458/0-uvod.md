@@ -1,0 +1,2 @@
+Na osnovu člana 21. stav 4. Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG," broj 16/16, 93/16 , 21/17 i 42/17), člana 45 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" broj 42/03, 28/04, 75/05, 13/06, 88/09, 3/10, 73/10, 38/12, 10/14 i 57/14) po prethodno pribavljenom Mišljenju Ministarstva finansija broj 03-21312/1 od 29.01. 2018. Godine,Skupština Opštine Gusinje , na sjednici održanoj 11.05.2018. godine, donijela je
+ODLUKU
