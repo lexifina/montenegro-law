@@ -1,0 +1,5 @@
+Na osnovu člana 50 Opšteg zakona o obrazovanju i vaspitanju ("Službeni list RCG", br. 64/02, 31/05 i 49/07 i ’’Službeni list CG’’, br. 45/10, 45/11, 36/13, 39/13 i 47/17) i člana 18 stav 1 Zakona o upravnom postupku (’’Službeni list CG’’, br. 56/14, 20/15, 40/16 i 37/17), Ministarstvo prosvjete donijelo je
+R J E Š E N J E O IZDAVANJU LICENCE ORGANIZATORU OBRAZOVANJA ODRASLIH JAVNOJ USTANOVI ŠKOLA ZA SREDNJE I VIŠE STRUČNO OBRAZOVANJE "SERGIJE STANIĆ", PODGORICA
+1. Izdaje se licenca za rad organizatoru obrazovanja odraslih Javnoj ustanovi Škola za srednje i više stručno obrazovanje "Sergije Stanić", Podgorica, za izvođenje Programa za sticanje stručnih kvalifikacija: Pomoćni kuvar, Buregdžija, Pekar, Poslastičar, Turistički vodič, Programa obrazovanja za sticanje znanja: Učenje crnogorskog jezika, Engleski jezik za zaposlene u oblasti turizma i Turski jezik i Programa obrazovanja za sticanje i unapređenje ključne vještine - Daktilografija.
+2. Ovo rješenje stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore’’.
+UP I broj 060-60/2018-2
