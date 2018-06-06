@@ -1,0 +1,3 @@
+# Član 6
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+------------------------ * U ovaj Pravilnik prenijeta je implementirajuća Odluka Komisije (EU) 2018/5 оd 3. januara 2018. o izmjeni Implementirajuće Odluke 2012/270/EU u pogledu simptoma organizama Epitrix cucumeris (Harris), Epitrix papa sp. n., Epitrix subcrinita (Lec.) i Epitrix tuberis (Gentner) i uspostavljanja odgovarajućih obilježenih područja (Commission Implementing Decision (EU) 2018/5 of 3 January 2018 amending Implementing Decision 2012/270/EU as regards the symptoms of Epitrix cucumeris (Harris), Epitrix papa sp. n., Epitrix subcrinita (Lec.) and Epitrix tuberis (Gentner) and the establishment of relevant demarcated areas).
