@@ -1,0 +1,2 @@
+Na osnovu člana 47 stav 3 i člana 49 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14), člana 217 Zakona o planiranju prostora i izgradnji objekata ("Sl. list CG", br. 64/17), člana 59 Zakona o lokalnoj samoupravi (Sl. list CG", br. 64/17), člana 68 stav 1 tačka 23 i člana 69 Statuta Opštine Rožaje ("Sl. list CG - Opštinski propisi", br. 09/11 i 31/16), a uz Saglasnost Ministarstva održivog razvoja i turizma br.104-792/31- 2017 od 15.02.2018.godine, Predsjednik opštine Rožaje, donio je
+O D L U K U
