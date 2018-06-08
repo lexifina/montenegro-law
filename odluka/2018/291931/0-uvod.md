@@ -1,0 +1,2 @@
+Na osnovu člana 11 stav 9, člana 24 stav 10, člana 25 stav 15, člana 48 stav 11, člana 66 stav 14, člana 67 stav 5, člana 84 stav 8, član 85 stav 12, člana 98 stav 11, člana 109 stav 6 i člana 119 stav 8 Zakona o prevozu u drumskom saobraćaju ("Službeni list CG", broj 71/17), Vlada Crne Gore, na sjednici od 26. aprila 2018. godine, donijela je
+ODLUKU O VISINI NAKNADE ZA IZDAVANJE LICENCI I DOZVOLA U DRUMSKOM SAOBRAĆAJU
