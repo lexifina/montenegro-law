@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 1 tačka 7 Zakona o lokalnoj samoupravi "Sl. list CG" broj 02/18) i člana 59 stav 2 tačka 5 Statuta Opštine Herceg Novi ("Službeni list RCG - opštinski propisi", br. 15/04, 32/05, 31/06, 14/07 i Službeni list Crne Gore - opštinski propisi", br. 16/09, 016/11, 60/17), Predsjednik Opštine donosi sljedeću:
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O ORGANIZACIJI I NAČINU RADA LOKALNE UPRAVE OPŠTINE HERCEG NOVI
