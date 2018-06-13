@@ -1,0 +1,2 @@
+Na osnovu člana 87. stav 14. Zakona o prevozu u drumskom saobraćaju ("Službeni list Crne Gore", br. 71/2017 od 31.10.2017. godine), člana 59. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/2018), člana 67. stav 1. tačka 23. Statuta Opštine Budva ("Službeni list Crne Gore - Opštinski propisi" broj 19/10) i u skladu sa Pravilnikom o obrascu cjenovnika usluga u auto taksi prevozu Ministarstva saobraćaja i pomorstva broj: 340/17-01-8717/1 od 29.11.2017. godine, predsjednik Opštine Budva donosi:
+O D L U K U
