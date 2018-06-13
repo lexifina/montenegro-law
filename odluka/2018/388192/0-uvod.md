@@ -1,0 +1,2 @@
+Na osnovu člana 60 Zakona o zaštiti prirode ("Sl.list CG"br.54/16), člana 19 Odluke o proglašenju regionalnog parka "Piva" ("Sl.list CG-opštinski propisi" br.15/15) i člana 13 Statuta "Regionalnog parka Piva" doo br.01-502, uz prethodnu saglasnost Vlade Crne Gore br.07-2578 од 17.05.2018.године, "Park prirode Piva" doo, donijelo je
+O D L U K U O VISINI I NAČINU PLAĆANJA NAKNADA ZA KORIŠĆENJE DOBARA PARKA PRIRODE "PIVA"
