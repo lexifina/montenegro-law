@@ -1,0 +1,2 @@
+Na osnovu člana 65 Zakona o visokom obrazovanju ("Službeni list CG", br. 44/14, 47/15, 40/16, 42/17 i 71/17), na prijedlog Upravnog odbora Fakulteta za crnogorski jezik i književnost, broj 266 od 8. maja 2018. godine, Vlada Crne Gore, na sjednici od 7. juna 2018. godine, donijela je
+ODLUKU O BROJU STUDENATA ZA UPIS U PRVU GODINU OSNOVNIH STUDIJA NA FAKULTETU ZA CRNOGORSKI JEZIK I KNJIŽEVNOST ZA STUDIJSKU 2018/2019. GODINU KOJI SE FINANSIRAJU IZ BUDŽETA CRNE GORE
