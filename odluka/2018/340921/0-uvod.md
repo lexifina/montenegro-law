@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br.2/18) i člana 34 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Službeni list Crne Gore-opštinski prpisi", br.25/04,33/06 i ("Službeni list Crne Gore- opštinski prpisi",br.18/10,32/13 i 47/17) a u vezi člana 53 stav 3 Zakona o finansiranju lokalne samouprave("Službeni list RCG", br.42/03,44/03 i "Službeni list CG", br.5/08,51/08,74/10,01/15,78/15,03/16,30/17 i 92/17), Skupština Opštine Bijelo Polje, na sjednici održanoj dana 23.05.2018.godine, donijela je
+ODLUKU
