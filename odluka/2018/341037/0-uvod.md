@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18), člana 34 stav 1 tačka 2 Statuta opštine Bijelo Polje ("Sl. list CG- opštinski propisi" br. 21/10 , 32/13 i 47/17) i člana 4 i 6 i 18 Uredbe o biznis zonama ("Službeni list CG", br.77/16 i 38/17 ) uz pribavljeno Mišljenje Komisije za kontrolu državne pomoći , br.01-21/3 od 07.05.2018 godine, i prethodnu Saglasnost Ministarstva ekonomije, br.313/-142/2018-2 od 18.05.2018.godine,Skupština opštine Bijelo Polje, na sjednici održanoj dana 23.05..2018 godine, donijela je:
+O D L U K U

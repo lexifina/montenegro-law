@@ -1,0 +1,2 @@
+# Član 5
+Pod upravljanjem prostorom biznis zona, podrazumijeva se: raspisivanje javnog poziva i odabir korisnika biznis zona, posredovanje i zaključivanje ugovora između osnivača i vlasnika zemljišta i objekata, odnosno njihovih zakupodavaca, određivanje uslova za ostvarivanje olakšica za privređivanje u biznis zonama i redovno vršenje kontrole i nadzora korisnika olakšica u bisnis zonama u pogledu ispunjavanja uslova i obaveza utvrđenih zaključenim ugovorima.
