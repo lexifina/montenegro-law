@@ -1,0 +1,5 @@
+# Član 3
+Elaborat Plana je sačinjen u analognoj i digitalnoj formi, a sadrži tekstualni i grafički dio.
+Tekstualni dio čini: Opšta dokumentacija; Uvodni dio; I Ocjena stanja: 1.Analiza i ocjena postojeće relevantne dokumentacije; 2.Analiza prirodnih uslova i potencijali; 3.Stvoreni uslovi i potencijali; II Plan:1.Prostorna organizacija; 2.Uslovi za izgradnju, uređenje i zaštitu; 3.Saobraćajna infrastruktura; 4.Ekonomsak analiza sa elementimatržišno-finansijske projekcije; 5.Analitički podaci.
+Grafički dio čini: 01. Topografsko-katastarska podloga sa granicom zahvata (R 1:1000); 02. Izvod iz PPPN MD (R 1:10000); 02. Izvod iz PPO-a Kotor (R 1:25000); 04. Analiza postojećeg stanja (R 1: 1000); 05. Plan namjene površina (R 1:1000); 06a. Plan parcelacije (R 1:1000); 06b. Plan regulacije i nivelacije (R 1:1000); 07. Plan saobraćajne infrastrukture (R 1:1000); 08. Plan elektroenergetske infrastrukture (R 1:2500); 09. Plan hidrotehničke infrastrukture (R 1:2500); 11. Plan elektronskih komunikacija (R 1:2500); 12. Plan pejzažnog uređenja (R 1:2500).
+Separat s urbanističko-tehničkim uslovima
