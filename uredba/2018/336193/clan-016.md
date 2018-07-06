@@ -1,0 +1,3 @@
+# Član 16
+Prilikom sprovođenja javne rasprave na način iz člana 14 stav 1 alineja 1 ove uredbe, ministarstvo vodi računa da prostorije u kojima se organizuje javna rasprava budu pristupačne licima sa invaliditetom.
+Ako se tekst nacrta zakona, odnosno strategije koji je predmet javne rasprave neposredno odnosi na prava, obaveze i pravne interese lica sa poremećajima sluha i govora, odnosno lica sa oštećenim vidom, ministarstvo će omogućiti da se javna rasprava sprovede uz upotrebu gestovnog govora, odnosno da tekst nacrta zakona, odnosno strategije bude dostupan u audiotonskom zapisu ili na Brajevom pismu.

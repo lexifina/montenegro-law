@@ -1,0 +1,2 @@
+# Član 1
+Ovom uredbom utvrđuju se kriterijumi i postupak izbora predstavnika nevladinih organizacija u radne grupe i druga radna tijela koje obrazuju ministarstva i organi uprave (u daljem tekstu: organi državne uprave) radi sagledavanja pitanja od zajedničkog interesa ili za normativno uređivanje odgovarajućih pitanja, kao i postupak i način sprovođenja javne rasprave u pripremi zakona i strategija.

@@ -1,0 +1,3 @@
+# Član 9
+Starješina organa državne uprave, aktom o obrazovanju radnog tijela, izabraće za člana tog tijela predstavnika nevladine organizacije koji ispunjava uslove iz člana 5 ove uredbe i za koga je dostavljeno najviše predloga nevladinih organizacija koje su ispunile uslove iz člana 4 ove uredbe.
+U slučaju da za dva ili više predstavnika nevladinih organizacija, koji ispunjavaju uslove iz člana 5 ove uredbe, bude dostavljen jednak broj predloga nevladinih organizacija koje su ispunile uslove iz člana 4 ove uredbe, izbor predstavnika nevladinih organizacija u radno tijelo vrši starješina organa državne uprave.

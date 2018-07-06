@@ -1,0 +1,2 @@
+# Član 20
+Postupci izbora predstavnika nevladinih organizacija u radne grupe i druga tijela koja obrazuju organi državne uprave započeti do dana stupanja na snagu ove uredbe, okončaće se u skladu sa Uredbom o načinu i postupku ostvarivanja saradnje organa državne uprave i nevladinih organizacija ("Službeni list CG", broj 7/12), a postupci sprovođenja javne rasprave u pripremi zakona započeti do dana stupanja na snagu ove uredbe, okončaće se u skladu sa Uredbom o postupku i načinu sprovođenja javne rasprave u pripremi zakona ("Službeni list CG", broj 12/12).
