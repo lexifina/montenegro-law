@@ -1,0 +1,5 @@
+# Član 81
+## Usklađivanje organizacije unutrašnje službe zaštite
+Organ i drugi subjekt iz člana 57 stav 1 ovog zakona uskladiće organizaciju unutrašnje službe zaštite sa ovim zakonom u roku od jedne godine od dana stupanja na snagu ovog zakona.
+U roku iz stava 1 ovog člana organ, odnosno drugi subjekt iz člana 57 stav 1 ovog zakona kojem je izdato rješenje o ispunjenosti uslova za organizovanje unutrašnje službe zaštite u skladu sa Zakonom o zaštiti lica i imovine ("Službeni list CG", broj 1/14), dužan je da podnese zahtjev za izdavanje rješenja o ispunjenosti uslova za organizovanje unutrašnje službe zaštite u skladu sa ovim zakonom.
+Ako organ, odnosno drugi subjekt iz člana 57 stav 1 ovog zakona ne podnese zahtjev za izdavanje rješenja o ispunjenosti uslova za organizovanje unutrašnje službe zaštite u skladu sa stavom 2 ovog člana, rješenje o ispunjenosti uslova za organizovanje unutrašnje službe zaštite koje mu je izdato u skladu sa Zakonom o zaštiti lica i imovine ("Službeni list CG", broj 1/14) prestaje da važi.

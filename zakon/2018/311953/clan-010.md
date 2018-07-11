@@ -1,0 +1,5 @@
+# Član 10
+## sportskoj ili drugoj javnoj priredbi
+Ako privredno društvo, drugo pravno lice i preduzetnik koji obavljaju djelatnost zaštite održavaju red na javnom okupljanju, sportskoj ili drugoj javnoj priredbi, dužni su da Ministarstvu i organu uprave nadležnom za policijske poslove (u daljem tekstu: policija) najkasnije 48 časova prije početka vršenja poslova zaštite o tome dostave pisano obavještenje i plan fizičko-tehničke zaštite.
+Plan fizičko-tehničke zaštite sadrži podatke o prostoru koji su od značaja za bezbjedno vršenje poslova zaštite prilikom održavanja javnog okupljanja, sportske ili druge javne priredbe, podatke o broju i rasporedu lica koja vrše poslove fizičke zaštite, podatke o broju i rasporedu tehničkih sredstava koja se koriste u vršenju poslova tehničke zaštite, kao i druge podatke od interesa za bezbjedno i nesmetano održavanje javnog okupljanja, sportske ili druge javne priredbe.
+Obavještenje i plan iz stava 1 ovog člana dostavljaju se organizacionoj jedinici policije u mjestu održavanja javnog okupljanja, sportske ili druge javne priredbe.
