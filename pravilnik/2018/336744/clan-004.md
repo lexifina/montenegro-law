@@ -1,0 +1,3 @@
+# Član 4
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore", a primjenjivaće se od 1. januara 2020. godine.
+----------------------- *U ovaj Pravilnik prenijete su odredbe Uredbe Vijeća Evropske unije (EZ) br. 1308/2013 o uspostavljanju zajedničke organizacije tržišta poljoprivrednih proizvoda i stavljanju izvan snage uredbi Vijeća (EEZ) br. 922/72, (EEZ) br. 234/79, (EZ) br. 1037/2001 i (EZ) br. 1234/2007 I Uredbe Vijeća Evropske unije(EZ) br.566/2008 o utvrđivanju detaljnih pravila za primjenu Uredbe Vijeća (EZ) br. 1234/2007 u pogledu stavljanja na tržište mesa od goveda starosti 12 mjeseci ili manje
