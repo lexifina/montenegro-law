@@ -1,0 +1,2 @@
+# Član 4
+Sastavni dio ove Odluke su Geodetski elaborat skice mjesta asfaltnog puta - kp 671 KO Podbišće, opština Mojkovac, broj 220/18 od 9. maja 2018. godine, koji je urađen od strane GEOPROJEKT PERIŠIĆ d.o.o. iz Podgorice i Izvještaj o procjeni vrijednosti nepokretne imovine zemljišta po 1 m2, komisije Opštine Mojkovac za utvrđivanje stanja na terenu i procjene vrijednosti predmetnih nepokretnosti.
