@@ -1,0 +1,2 @@
+# Član 7
+Sakupljač način odvojenog sakupljanja komunalnog otpada vrši prema sačinjenom Planu, odnosno rasporedu sakupljanja u gradskim i prigradskim naseljima, po danima, sa određenom satnicom zavisno od broja i strukture korisnika usluga, ljetnjeg i zimskog perioda ili drugih faktora koji mogu uticati na količinu proizvedenog komunalnog otpada, o čemu se obavještava javnost putem sredstava javnog informisanja, postavljanjem info tabli,obavještenja i slično.

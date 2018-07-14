@@ -1,0 +1,6 @@
+# Član 6
+Sakupljač obezbjeđuje odvojeno sakupljanje komunalnog otpada, shodno tehničkim uslovima, na sljedeći način:
+1. U Centu grada i na područjima prigradskih naselja (gdje je moguće postaviti odvojene posude), sakupljanje "suve" frakcije ( papira i kartona, plastične ambalaže, stakla, metala) i "mokre" frakcije, vrši se u odvojenim posebno označenim posudama.
+2. u svim prigradskim naseljima,(kod individualnog tipa stanovanja) kod kojih se sakupljanje otpada vrši sistemom "od vrata do vrata" na način da se sakupljanje "suve" frakcije (papira i kartona, plastične ambalaže, stakla, metala) ,kao i sakupljanje "mokre" frakcije, vrši u posebno označenim posudama (kante, kese) u određenim danima. Sakupljanje stakla i metala, zbog svoje specifičnosti, može se vršiti posebno u odnosu na ostale suve frakcije, u skladu sa tehničkim mogućnostima sakupljača.
+3. sakupljanje tzv. zelenog otpada vrši se u posebnim posudama, ostavljenjem otpada na lokacijama i u vremenu koje odredi sakupljač ili po pozivu korisnika usluge uz odgovarajuću naknadu.
+4. sakupljanje i odlaganje kabastog otpada može se vršiti po pozivu korisnika usluge uz odgovarajuću naknadu ili na način da korisnici usluga sami odvoze svoj kabasti otpad na za to određenoj lokaciji koju odredi sakupljač.

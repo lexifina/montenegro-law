@@ -1,0 +1,2 @@
+Na osnovu člana 13 stav 5 Zakona o upravljanju otpadom("Sl.list Crne Gore" br.64/11 i 39/16), člana 12 stav 2 tačka 1 i člana 31 Statuta Opštine Tivat ("Sl.list RCG- opštinski propisi" 40/04, 26/06 i "Sl.list Crne Gore-opštinski propisi",br. 12/11, 21/11 i 3/13), uz saglasnost Ministarstva održivog razvoja i turizma br.113-60/74 od 29.03.2018.godine, Skupština opštine Tivat na sjednici održanoj dana 12.06.2018 godine, donijela je
+O D L U K U O NAČINU ODVOJENOG SAKUPLJANJA I SAKUPLJANJA KOMUNALNOG OTPADA RADI OBRADE NA TERITORIJI OPŠTINE TIVAT
