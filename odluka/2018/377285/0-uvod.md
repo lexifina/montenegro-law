@@ -1,0 +1,2 @@
+Na osnovu člana 31 stav 1 tačka 47 Statuta opštine Tivat ("Službeni list RCG- opštinski propisi", br. 40/04, 26/06 i "Službeni list Crne Gore-opštinski propisi", br. 12/11, 21/11 i 3/13), I člana 31 stav 2 Statuta Društva za odvođenje I prečišćavanje otpadnih voda za opštine Kotor I Tivat ("Službeni list Crne Gore-opštinski propisi" br.13/18),Skupština opštine Tivat na sjednici održanoj dana 12.06.2018.godine, donijela je
+O D L U K U
