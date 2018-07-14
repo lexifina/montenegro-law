@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 1 i člana 201 Zakona o lokalnoj samoupravi (Sl.list Crne Gore br.02/18), člana 63 stav 1 tačka 1 Statuta Prijestonice (Sl.list Crne Gore - opštinski propisi br. 19/09, 37/10, 26/13, 39/14,12/16) i člana 111 Poslovnika Skupštine Prijestonice Cetinje (Sl.list Crne Gore - opštinski propisi br. 21/11), Skupština Prijestonice Cetinje, na sjednici održanoj dana 28.06.2018. godine, donijela je
+O D L U K U
