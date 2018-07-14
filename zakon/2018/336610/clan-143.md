@@ -1,0 +1,9 @@
+# Član 143
+## Usklađivanje rada sportskih organizacija
+Sportski klubovi, sportska društva i sportsko-rekreativna društva koji na dan stupanja na snagu ovog zakona obavljaju sportsku djelatnost, dužni su da usklade rad, organizaciju i opšte akte sa odredbama ovog zakona, u roku od četiri mjeseca od dana stupanja na snagu ovog zakona.
+Sportski klubovi, sportska društva i sportsko-rekreativna društva su dužna da u roku iz stava 1 ovog člana podnesu Ministarstvu uz zahtjev i statut sačinjen u skladu sa članom 59 ovog zakona, odluku o obrazovanju organa u skladu sa čl. 60 do 66 ovog zakona i dokaze o ispunjenosti uslova za obavljanje sportske djelatnosti iz člana 48 st 1 i 2 ovog zakona.
+POK i nacionalni sportski savezi koji na dan stupanja na snagu ovog zakona obavljaju sportsku djelatnost, dužni su da usklade rad, organizaciju i opšte akte sa odredbama ovog zakona i Ministarstvu dostave dokumentaciju iz stava 2 ovog člana u roku od dva mjeseca od dana isteka roka iz stava 1 ovog člana.
+COK je dužan da, u roku od mjesec dana od dana isteka roka iz stava 3 ovog člana, uskladi rad, organizaciju i opšte akte sa odredbama ovog zakona i Ministarstvu dostavi dokumentaciju iz stava 2 ovog člana.
+O zahtjevu sportskih organizacija iz st. 2, 3 i 4 ovog člana Ministarstvo će odlučiti u roku od dva mjeseca od dana podnošenja zahtjeva.
+Ako sportska organizacija ne uskladi rad, organizaciju i opšte akte sa odredbama ovog zakona i ne dostavi dokumentaciju iz stava 2 ovog člana, u roku iz stava 1 ovog člana, odnosno st. 3 i 4 ovog člana, brisaće se iz Registra.
+U slučaju iz stava 6 ovog člana, sportska organizacija koja je brisana iz Registra i lica (fizička i pravna) koja su u Registru osnivači na dan stupanja na snagu ovog zakona, odgovaraju solidarno za obaveze te sportske organizacije.
