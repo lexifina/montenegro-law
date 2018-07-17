@@ -1,0 +1,8 @@
+Na osnovu člana 38. Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18), člana 29 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), a u vezi sa članom 194, 199, 201, 206 i 215 Zakona o svojinsko pavnim odnosima Crne Gore ("Službeni list CG", br. 19/09) i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10) Skupština opštine Budva, na sjednici održanoj dana 17. jula 2018 godine, donijela je
+RJEŠENJE
+o davanju saglasnosti za ustanovljavanje privremenog prava službenosti
+1. Daje se Bečić Željku saglasnost za ustanovljavanje privremenog prava službenosti prolaza preko dijela katastarskih parcela 1067/2 i 1064/1 KO Bečići u vlasništvu Opštine Budva, u širini od 3m, do izgradnje buduće saobraćajnice po DUP- u "Bečići" ili do privođenja namjeni katastarske parcele 1067/2 KO Bečići koja čini UP 12.3.u skladu sa DUP-om "Bečići". Prednje se daje kako bi se omogućio prilaz katastarskoj parceli 1067/1 KO Bečići koja je u vlasništvu Bečić Željka.
+2. Službenost prolaza uz člana 1 ovog rješenja, ustanovljava se bez naknade.
+3. Privremena službenost prolaza iz člana 1 ovog Rješenja ustanovljava se do izgradnje buduće saobraćajnice po DUP-u "Bečići" ili do privođenja namjeni katastarske parcele 1067/2 KO Bečići koja čini UP 12.3.u skladu sa DUP-om "Bečići ".
+4. Ovlašćuje se Predsjednik opštine Budva da u ime Opštine Budva pred izabranim notarom, po uslovima iz ovog rješenja, potpiše Ugovor o ustanovljanju privremenog prava službenosti prolaza preko opštinskih parcela 1067/2 i 1064/1 KO Bečići .
+5. Rješenje o davanju saglasnosti stupa na snagu danom donošenja, a biće objavljeno u "Službenom listu Crne Gore- Opštinski propisi".
