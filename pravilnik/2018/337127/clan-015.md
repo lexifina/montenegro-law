@@ -1,0 +1,11 @@
+# Član 15
+## Sertifikati
+Jaja za priplod koje potiču iz Crne Gore i koja se stavljaju u promet na teritoriju država članica Evropske unije tokom prevoza do mjesta odredišta, treba da prati sertifikat koji se izdaje na obrascu 1.
+Jednodnevne piliće koji potiču iz Crne Gore i koji se stavljaju u promet na teritoriju država članica Evropske unije tokom prevoza do mjesta odredišta, treba da prati sertifikat koji se izdaje na obrascu 2.
+Živinu za priplod i proizvodnju koja potiču iz Crne Gore i koja se stavlja u promet na teritoriju država članica Evropske unije tokom prevoza do mjesta odredišta, treba da prati sertifikat koji se izdaje na obrascu 3.
+Živinu za obnovu populacije divljači koja potiču iz Crne Gore i koja se stavlja u promet na teritoriju država članica Evropske unije tokom prevoza do mjesta odredišta, treba da prati sertifikat koji se izdaje na obrascu 4.
+Pošiljke živine, jednodnevnih pilića i jaja za priplod koje sadrže manje od 20 jedinki (osim ptica neletačica i njihovih jaja za priplod), a koje potiču iz Crne Gore i koje se stavljaju u promet na teritoriju država članica Evropske unije tokom prevoza do mjesta odredišta, treba da prati sertifikat koji se izdaje na obrascu 5.
+Živinu za klanje koja potiče iz Crne Gore i koja se stavlja u promet na teritoriji država članica Evropske unije tokom prevoza do mjesta odredišta, treba da prati sertifikat koji se izdaje na obrascu 6.
+Živinu i jaja za priplod namijenjene uvozu u Crnu Goru, treba da prati original sertifikata u skladu sa posebnim propisom, koji je ovjeren od službenog veterinara države izvoznice, odnosno države porijekla i kojim se potvrđuje da živina ili jaja za priplod odgovaraju zahtjevima ovog pravilnika i posebnog propisa o zdravstvenim zahtjevima za uvoz.
+Sertifikat se štampa na jednom listu papira ili po potrebi na više stranica, a stranice treba da čine jedinstvenu cjelinu i budu nedjeljive i imaju serijski broj, a boja pečata i potpisa službenog veterinara treba da bude različita od boje sertifikata.
+Sertifikat izdaje službeni veterinar na dan pregleda na crnogorskom jeziku i najmanje jednom od službenih jezika države porijekla odnosno države odredišta, a namjenjen je jednom primaocu i važi pet dana od dana pregleda.
