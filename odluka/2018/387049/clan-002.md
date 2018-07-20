@@ -1,0 +1,3 @@
+# Član 2
+Katastarska parcela broj 3367/2 iz lista nepokretnosti broj 2376 KO Cetinje I i katastarska parcela broj 3368/3 iz lista nepokretnosti broj 404 KO Cetinje I, svojina Države Crne Gore, subjekat raspolaganja Prijestonice Cetinje zajedno sa katastarskom parcelom broj 3368/1 iz lista nepokretnosti br.1625 K.O.Cetinje I, svojina Vuković Srđan čine urbanističku parcelu iz člana 1 ove Odluke.
+Nepokretnost iz člana 1 ove odluke prodaje se uz naknadu od 97,00 €/m2, što ukupno iznosi 9.700,00 €, shodno Izvještaju o procjeni vrijednosti nepokretne imovine, ovlašćenog procjenjivača Svetlane Žugić iz Podgorice broj 07-460/18-185/2 od 30.05.2018.godine.
