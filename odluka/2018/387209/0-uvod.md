@@ -1,0 +1,2 @@
+Na osnovu člana 1, člana 18 stav 1 alineja 9, član 29 stav 2 i člana 34 stav 1 Zakona o državnoj imovini ("Službeni list CG, broj 21/09 i 40/11), člana 63 stav 1 tačka 9 i člana 71 Statuta Prijestonice ("Službeni list CG-opštinski propisi, broj 19/09, 37/10, 26/13, 39/14 i 12/16)Skupština Prijestonice Cetinje na sjednici održanoj dana 28.06.2018. godine, donijela je
+ODLUKU O USTUPANJU NA UPRAVLJANJE ELEKTRIČNIH VOZILA U VLASNIŠTVU PRIJESTONICE CETINJE TURISTIČKOJ ORGANIZACIJI PRIJESTONICE CETINJE
