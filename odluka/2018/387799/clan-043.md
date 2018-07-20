@@ -1,0 +1,2 @@
+# Član 43
+Postupci za rješavanje stambenih potreba započeti prije stupanja na snagu ove odluke, okončaće se po odredbama odluke koja je bila na snazi u vrijeme podnošenja zahtjeva, ukoliko je to povoljnije za lokalnog službenika odnosno namještenika . Ova odluka primjenjivat će se I na ranije dodijeljene stambene kredite, ukoliko je povoljnija za korisnike kredita, kojima je dodijeljen kredit na osnovu odluka koje su prestale da važe usvajanjem ove Odluke.
