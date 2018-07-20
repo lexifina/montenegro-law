@@ -1,0 +1,4 @@
+# Član 112
+Poslovi predsjednika opštine, potpredsjednika opštine, glavnog administratora, starješine organa odnosno službe, glavnog gradskog arhitekte, menadžera i rukovodilaca javnih službi nespojivi su sa funkcijom odbornika i članstvom u organima upravljanja javnih službi čiji je osnivač jedinica lokalne samouprave.
+Sprječavanja sukoba javnog i privatnog interesa izabranih, imenovanih i postavljenih lica u organu lokalne samouprave, organu lokalne uprave i glavnog administratora, obezbjeđuje se u skladu sa zakonom kojim se uređuje sprječavanje korupcije.
+Lica iz stava 1 ovog člana ne mogu biti angažovani od javnih službi, pravnih ili fizičkih lica za obavljanje bilo kojih poslova koji su povezani sa poslovima organa lokalne samouprave i u funkciji su ostvarivanja njihovih prava i interesa pred lokalnim organima.

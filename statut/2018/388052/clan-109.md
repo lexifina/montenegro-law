@@ -1,0 +1,4 @@
+# Član 109
+Opština može imati menadžera.
+Menadžer predlaže i učestvuje u pripremi i realizaciji planova i programa razvoja opštine kojima se podstiče ekonomski razvoj, preduzetnička inicijativa i javno-privatno partnerstvo, obezbjeđuje zaštita životne sredine i održivi razvoj, priprema i upravlja projektima koji se finansiraju iz međunarodnih fondova i drugih izvora, prati njihovu realizaciju, priprema informacije i izvještaje o realizaciji projekata, uspostavlja i vodi bazu podataka o planovima, programima i projektima, inicira izmjene i dopune propisa koji otežavaju poslovnu inicijativu i vrši druge poslove koje mu predsjednik opštine povjeri. Menadžer se postavlja na osnovu javnog konkursa na vrijeme od pet godina.
+Menadžeru prestaje mandat i razriješava se u skladu sa članom 100 i 101 Statuta.

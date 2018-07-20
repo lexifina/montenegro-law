@@ -1,0 +1,2 @@
+# Član 1
+Statutom Opštine Tivat (u daljem tekstu: Statut) uređuju se prava i dužnosti Opštine i način njihovog ostvarivanja, poslovi i način odlučivanja lokalnog stanovništva, način i uslovi vršenja sopstvenih poslova, organizacija i način rada organa opštine, organa mjesne samouprave i javnih službi, način donošenja propisa, način vršenja nadzora nad radom organa opštine i javnih službi, način obezbjeđenja javnosti rada organa i javnih službi, finansiranje, oblik i sadržina simbola, praznik opštine i druga pitanja od značaja za funkcionisanje lokalne samouprave.
