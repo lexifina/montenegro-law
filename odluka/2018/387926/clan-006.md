@@ -1,0 +1,2 @@
+# Član 6
+Svi obveznici plaćanja članskog doprinosa iz člana 1 ove odluke dužni su da u roku od 30 dana od dana registracije Turističke organizacije nadležnom poreskom organu lokalne uprave dostave bilans uspjeha, odnosno drugi akt kojim se utvrđuje visina prihoda odstvarenog u prethodnoj godini, obavljanjem turističke, ugostiteljske i s turizmom neposredno povezane djelatnosti, kao i obavještenje o razvrstavanju djelatnosti Republičkog zavoda za statistiku Crne Gore, odnosno drugi akt kojim se utvrđuje djelatnost.
