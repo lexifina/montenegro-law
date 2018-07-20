@@ -1,0 +1,4 @@
+# Član 3
+Opština Kotor je dužna da na ime otkupa zemljišta iz člana 1. ove Odluke vlasniku ukupno isplati iznos od 147.000,00 eura.
+Isplata iznosa iz stava 1 ovog člana izvršiće se kompenzacijom, na teret dijela naknade za komunalno opremanje građevinskog zemljišta, koju investitor "RD 29 Oktobar" doo. Kotor treba da plati shodno Ugovoru o naknadi za komunalno opremanje građevinskog zemljišta br. 02-2116 od 11.05.2016. godine za izgradnju poslovnog objekta na UP 1193-a u iznosu od 145.746,12.
+Razlika između vrijednosti zemljišta i visine naknade za komunalno opremanje u iznosu od 1.253,88 eura Opština Kotor neće isplatiti vlasniku zemljišta, već će ista biti priznata kao plaćena naknada za komunalno opremanje građevinskog zemljišta, kada kao investitor bude gradio druge objekte na teritoriji Opštine Kotor.
