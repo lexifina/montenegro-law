@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 02/2.018) i člana 45 Statuta Opštine Pljevlja ("Službeni list RCG - opštinski propisi", broj 37/04, 30/07 i "Službeni list CG - opštinski propisi", broj 32/09 i 14/11), i člana 10 Poslovnika Skupštine Opštine Pljevlja ("Službeni list CG - opštinski propisi" broj 13/15) Skupština opštine Pljevlja, na konstitutivnoj sjednici, održanoj 06.07. i 20.07.2018. godine, donijela je:
+ODLUKU O IZBORU PREDSJEDNIKA SKUPŠTINE OPŠTINE PLJEVLJA
