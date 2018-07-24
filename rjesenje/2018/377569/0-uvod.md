@@ -1,0 +1,2 @@
+Na osnovu člana 36 stav 1 tačka 25 Statuta Opštine Herceg Novi ("Sl.list RCG- opštinski propisi" br. 15/04, 32/05, 31/06, 14/07, "Sl.list CG-opštinski propisi",br. 16/09 i 16/11 i "Sl.list CG"br. 60/17) Skupština opštine Herceg Novi, na sjednici održanoj 24.07.2018. godine, donijela je
+R J E Š E NJ E O DAVANJU SAGLASNOSTI NA ODLUKU SAVJETA JAVNE USTANOVE KULTURE "HERCEG FEST" HERCEG NOVI O IZBORU DIREKTORA
