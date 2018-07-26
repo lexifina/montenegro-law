@@ -1,0 +1,2 @@
+Na osnovu člana 244 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", broj 64/17), člana 38 stav 1 tačka 6 Zakona o lokalnoj samoupravi (»Službeni list CG«, broj 2/18) i člana 40 Statuta opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 11.07.2018. godine, donijela je
+O D L U K U
