@@ -1,0 +1,6 @@
+# Član 11
+Član 18 mijenja se i glasi:
+"Investitorima koji su izvršili plaćanje naknade za uređivanje odnosno za komunalno opremanje građevinskog zemljišta za određenu lokaciju, a nijesu sagradili objekat niti dobili građevinsku dozvolu, priznaje se uplaćena naknada za površine objekata koje su utvrđene u skladu sa aktom organa lokalne uprave nadležnog za izdavanje građevinske dozvole, u vrijeme kad je izvršeno plaćanje ove naknade.
+Ukoliko investitor ne može graditi objekat na lokaciji za koju je izvršio plaćanje naknade, pravo iz stava 1 ovog člana prenijeće se na drugu lokaciju, gdje može da gradi, u skladu sa Planom.
+Priznavanje plaćene naknade u slučajevima iz stava 2 ovog člana u postupku prijave građenja vršiće se prema zoni i lokaciji za koju je izvršeno plaćanje naknade proporcionalno površini, namjeni objekta i cijeni naknade u odnosu na zonu i lokaciju za koju se vrši prijava građenja u novom postupku.
+Za razliku između površine objekta koji se gradi i površine za koju se priznaje plaćena naknada iz stava 1 i 2 ovog člana, investitori su dužni da plate naknadu u skladu sa odlukom koja važi u vrijeme kada se vrši priznavanje naknade za komunalno opremanje građevinskog zemljišta."

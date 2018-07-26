@@ -1,0 +1,2 @@
+Na osnovu člana 239 stav 4 Zakon o planiranju prostora i izgradnji objekata ("Službeni list CG", broj 64/17), člаnа 38 stav 1 tačka 8 i člana 44 Zаkоnа о lоkаlnој sаmоuprаvi ("Službeni list CG", broj 2/18) i člana 32 stav 1 tačka 8 i člana 40 Statuta opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", broj 24/10) uz prethodnu saglasnost Vlade Crne Gore br. 07-2498 od 10. 05. 2018. godine, Skupština opštine Nikšić, na sjednici održanoj 11.07. 2018. godine, donijela je
+O D L U K U
