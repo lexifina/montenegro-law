@@ -1,0 +1,5 @@
+# Član 1
+## o ustupanju na privremeno upravljanje i korišćenje dijela poslovnog objekta u Humcima Ministarstvu prosvjete Crne Gore
+Opština Nikšić je nosilac prava raspolaganja na objektu broj 1 u Humcima, ukupne površine 1.459 m2, koji se sastoji iz: posebnog dijela 1, poslovni prostor, površine 251 m2, posebnog dijela 2, poslovni prostor, površine 53 m2, posebnog dijela 3, poslovni prostor, površine 104 m2, posebnog dijela 4, poslovni prostor, površine 84 m2, posebnog dijela 5, poslovni prostor, površine 785 m2 i posebnog dijela 6, poslovni prostor, površine 182 m2, koji se nalazi na katastarskoj parceli broj 3512, upisan u listu nepokretnosti broj 3995 KO Nikšić.
+Opština Nikšić ustupa na privremeno upravljanje i korišćenje, bez naknade, Ministarstvu prosvjete Crne Gore, dio objekta iz
+stava 1 ovog člana, u površini od 843,40 m2, koju čini dio posebnog dijela 1, u površini od 152,21 m2, dio posebnog dijela 2, u površini od 33,15 m2, poseban dio 3, površine od 104,00 m2, dio posebnog dijela 5, u površini od 554,04 m2, za potrebe proširenja djelatnosti Javne predškolske ustanove "Dragan Kovačević" Nikšić.
