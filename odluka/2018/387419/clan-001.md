@@ -1,0 +1,4 @@
+# Član 1
+## o razmjeni nepokretnosti između Opštine Nikšić i Žižić Miomira iz Nikšića
+Opština Nikšić kao nosilac prava raspolaganja prenosi u svojinu Žižić Miomiru zemljište označeno katastarskom parcelom broj 143/43, površine 421 m2 i katastarskom parcelom broj 145/5, površine 23 m2 upisane u listu nepokretnosti broj 787 KO Nikšić, koje čine urbanističku parcelu 4, u okviru urbanističkog bloka 28, na kojoj je u skladu sa Odlukom o Detaljnom urbanističkom planu Rastoci 1 ("Službeni list CG-Opštinski propisi", broj 24/10), planirana izgradnja stambenog objekta spratnosti Po+P+1+Pk.
+Vrijednost zemljišta iz stava 1 ovog člana utvrđena je na 40,40 € po m2 zemljišta, odnosno u ukupnom iznosu od 17.937,60 €, u skladu sa procjenom Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore - PJ Nikšić broj 958-103- 741/17-3 od 24.10.2017.godine.

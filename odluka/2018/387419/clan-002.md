@@ -1,0 +1,3 @@
+# Član 2
+Žižić Miomir kao vlasnik prenosi u svojinu Opštini Nikšić zemljište označeno katastarskom parcelom broj 1889/2, površine 432 m2, upisana u listu nepokretnosti broj 3268 KO Nikšić, koje se nalazi u obuhvatu Detaljnog urbanističkog plana Bistrica- izmjene i dopune za potrebe izgradnje-uređenja parkovske površine.
+Vrijednost zemljišta iz stava 1 ovog člana utvrđena je na 45,00 € po m2 zemljišta, odnosno u ukupnom iznosu od 19.440,00 €, u skladu sa procjenom Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore - PJ Nikšić, broj 958-103- 741/17-1 od 23.10.2017.godine.
