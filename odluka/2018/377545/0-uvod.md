@@ -1,0 +1,2 @@
+Na osnovu člana 55 Zakona o lokalnoj samoupravi (″Službeni list CG″, broj 02/18), člana 15 st. 1 i 2 Zakona o Glavnom gradu (″Službeni list RCG″, broj 65/05 i ″Službeni list CG″, br. 88/09, 72/10, 2/16 i 31/17), člana 48 Statuta Glavnog grada (″Službeni list RCG - Opštinski propisi″, broj 28/06 i ″Službeni list CG - Opštinski propisi″, br. 39/10, 18/12 i 38/17) Skupština Glavnog grada - Podgorice, na sjednici održanoj 31. jula 2018. godine, donijela je -
+O D L U K U
