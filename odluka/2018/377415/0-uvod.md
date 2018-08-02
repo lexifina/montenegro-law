@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ( "Službeni list Crne Gore" br. 02/18), člana 28 stav 1 tačka 3 Zakona o državnoj imovini( "Sl. list RCG" broj 21/09) i člana 40 stav 1 tačka 9 Statuta Skupštine opštine Budva ("Službeni list Crne Gore - opštinski propisi" br. 19/10), Skupština Opštine Budva, na sjednici održanoj dana 17. jula 2018. godine, donijela je
+ODLUKU O DAVANJU NA KORIŠĆENJE STANA ZA SLUŽBENE POTREBE
