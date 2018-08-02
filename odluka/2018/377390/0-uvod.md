@@ -1,0 +1,2 @@
+Na osnovu člana 87. stav. 14. Zakona o prevozu u drumskom saobraćaju ("Službeni list Crne Gore", br. 71/2017), člana 38. stav 1 tačka 2. a u vezi sa članom 59. Zakona o lokalnoj samoupravi ("Službeni list Crne gore", br. 2/2018), kao i na osnovu člana 40. stav 1. tačka 2. Statuta Opštine Budva ("Službeni list Crne Gore-Opštinski propisi", br. 19/2010), Skupština Opštine Budva, na sjednici održanoj dana 17. jula 2018. godine, donijela je
+ODLUKU
