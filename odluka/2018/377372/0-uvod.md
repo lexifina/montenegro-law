@@ -1,0 +1,2 @@
+Na osnovu čl. 28 a u vezi sa članom 201 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18), člana 3, 9, 34 i 40 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11) i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10) Skupština opštine Budva, na sjednici održanoj dana 17. jula 2018.godine, donijela je
+ODLUKU O IZMJENI ODLUKE O RAZMJENI NEPOKRETNOSTI
