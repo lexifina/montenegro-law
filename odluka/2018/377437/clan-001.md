@@ -1,0 +1,4 @@
+# Član 1
+## o izmjenama i dopunama Odluke o osnivanju društva sa ograničenom odgovornošću lokalnog javnog emitera "Radio televizija Budva"
+U Odluci o osnivanju društva sa ograničenom odgovornošću lokalnog javnog emitera "Radio televizija Budva" ("Službeni list Crne Gore - opštinski propisi" broj 14/12), član 8 stav 1 mijenja se i glasi:
+"RTB je dužna da pruža javne usluge proizvodnje i emitovanja radijskih i/ili televizijskih programa sa informativnim, kulturnim, umjetničkim, obrazovnim, naučnim, dječjim, zabavnim, sportskim i drugim programskim sadržajima, kojima se obezbjeđuje ostvarivanje prava i interesa građana i drugih subjekata u oblasti informisanja." U istom članu, stav 2 riječi: "U cilju ostvarivanja javnog interesa u oblasti informisanja RTB je dužna", zamjenjuju se riječima: "Pružanjem javnih usluga RTB dužna je da".
