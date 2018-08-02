@@ -1,0 +1,2 @@
+Na osnovu člana 36 Statuta Opštine Herceg Novi ("Sl. list RCG- Opštinski propisi" br. 15/04, 31/06, 14/07, "Sl. list CG- opštinski propisi" br. 16/09 i 16/11 i " Sl.list CG br. 60/17"), člana 5 i člana 6 Odluke o osnivanju Turističke organizacije Opštine Herceg Novi ( "Sl. list RCG- Opštinski propisi", br. 2/05 i "Sl. list CG-Opštinski propisi br. 14/18), Skupština Opštine Herceg Novi, na sjednici održanoj 24.07.2018. godine, donijela je
+RJEŠENJE
