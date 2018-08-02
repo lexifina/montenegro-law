@@ -1,0 +1,2 @@
+Na osnovu člana 85 stav 2 Zakona o vodama ("Službeni list RCG", broj 27/07 i "Službeni list CG", br. 73/10, 32/11, 47/11, 48/15 i 52/16), Ministarstvo poljoprivrede i ruralnog razvoja, uz prethodno mišljenje Ministarstva održivog razvoja i turizma i Ministarstva zdravlja, donijelo je
+PRAVILNIK O IZMJENI PRAVILNIKA O BLIŽIM USLOVIMA KOJE TREBA DA ISPUNJAVAJU PRAVNA LICA KOJA VRŠE ISPITIVANJA KVALITETA VODA
