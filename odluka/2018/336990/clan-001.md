@@ -1,0 +1,2 @@
+# Član 1
+Mandat Komisije za praćenje postupanja nadležnih organa u istragama slučajeva prijetnji i nasilja nad novinarima, ubistava novinara i napada na imovinu medija, obrazovane Odlukom o obrazovanju Komisije za praćenje postupanja nadležnih organa u istragama slučajeva prijetnji i nasilja nad novinarima, ubistava novinara i napada na imovinu medija ("'Službeni list CG", broj 59/16). produžava se na period od dvije godine.
