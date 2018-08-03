@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tačka 3 Ustava Crne Gore, a u vezi člana 36b stav 1 tačka 5 Zakona o manjinskim pravima i slobodama i člana 3 Odluke o osnivanju Fonda za zaštitu i ostvarivanje manjinskih prava ("Službeni list CG", br. 13/08, 64/11 i 68/17), Skupština Crne Gore 26. saziva, na Dvanaestoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2018. godini, dana 27. jula 2018. godine, donijela je
+ODLUKU O IZBORU JEDNE ČLANICE UPRAVNOG ODBORA FONDA ZA ZAŠTITU I OSTVARIVANJE MANJINSKIH PRAVA IZ REDA NEZAVISNIH EKSPERATA KOJI SE BAVE LJUDSKIM I MANJINSKIM PRAVIMA
