@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 i člana 40 stav 2 tačka 3 Zakona o državnoj imovini ("Sl.list CG" br.21/09,40/11), člana 58 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Sl.list CG " br. 002/18) i člana 59 stav 2 tačka 17 Statuta Opštine Herceg Novi ("Sl.list RCG opšt.propisi" br.15/04, 32/05,31/06,14/07 i "Sl.list CG-opšt.propisi" br.16/09,16/11), Predsjednik opštine Herceg Novi donosi sledeću:
+ODLUKU
