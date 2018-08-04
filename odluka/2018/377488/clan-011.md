@@ -1,0 +1,4 @@
+# Član 11
+## 1.3. Odbor za budžet, privredu i razvoj
+Odbor za budžet, privredu i razvoj ima predsjednika i četiri člana.
+Odbor za budžet, privredu i razvoj razmatra predlog odluke o budžetu, predlog završnog računa budžeta i akte o realizaciji budžeta, predloge odluka kojima se utvrđuju lokalni javni prihodi-porezi, prirezi, takse i naknade; pitanja koja se odnose na zaduživanje, uzimanje zajmova i davanje garancija; razmatra planove i programe razvoja opštine i pitanja od značaja za razvoj privrede i poljoprivrede i razvoj preduzetništva; predloge za utvrđivanje javnog interesa za eksproprijaciju napokretnosti za potrebe lokalne samouprave; razmatra plan kapitalnih poboljšanja i višegodišnji investicioni plan i akte kojima se predlaže utvrđivanje investicione politike; razmatra izvještaj predsjednika opštine o njegovom radu i radu organa i službi iz ovih oblasti i vrši i druge poslove utvrđene Statutom i drugim propisima.
