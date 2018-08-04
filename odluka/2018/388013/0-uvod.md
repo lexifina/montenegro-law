@@ -1,0 +1,2 @@
+Na osnovu člana 33, 35 i člana 41 alineja 1 Zakona o zaštiti i spašavanju ("Sl. list CG" br. 13/07, 5/08, 86/09, 32/11 i 54/16), člana 35 stav 1 tačka 45 Statuta opštine Gusinje ("Sl. list CG -opštinski propisi" br. 25/14 ), uz predhodnu saglasnost Ministarstva unutrašnjih poslova -Direktorata za vanredne situacije br.04-UPI-228/16- 633/2 od 11.03.2016.godine Skupština opštine Gusinje , na sjednici održanoj 12.08. 2018. godine donosi:
+ODLUKU
