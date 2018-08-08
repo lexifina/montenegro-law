@@ -1,0 +1,2 @@
+# Član 7
+Ukoliko u nekoj vrsti osiguranja, usljed neuobičajenih okolnosti koje mogu biti trenutnog karaktera (znatne promjene u premiji osiguranja ili druge promjene na pojedinim proizvodima osiguranja, promjene načina rješavanja i/ili rezervacije šteta, promjene regulative, izuzetno velike štete i sl.) racio šteta značajnije odstupa od razumnih očekivanja, može se izvršiti korekcija racia šteta u cilju smanjenja efekata ovih okolnosti, uz adekvatno obrazloženje opravdanosti postupka od strane ovlašćenog aktuara.
