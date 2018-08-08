@@ -1,0 +1,5 @@
+# Član 2
+Izrazi upotrijebljeni u ovom pravilniku imaju sljedeća značenja:
+1) davalac usluga certifikovanja je pravno ili fizičko lice koje vrši usluge izdavanja certifikata za elektronski potpis, elektronski pečat i autentifikaciju internet stranica, usluge izdavanja elektronskih vremenskih pečata, usluge elektronske preporučene dostave, verifikacije elektronskih potpisa i elektronskih pečata i čuvanja elektronskih potpisa i elektronskih pečata;
+2) kvalifikovani davalac usluga certifikovanja je pravno ili fizičko lice koje vrši usluge izdavanja kvalifikovanih certifikata za elektronski potpis, kvalifikovanih certifikata za elektronski pečat, kvalifikovanih certifikata za autentifikaciju internet stranica, kvalifikovanih elektronskih vremenskih pečata, kvalifikovane elektronske preporučene dostave, verifikacije kvalifikovanih elektronskih potpisa i kvalifikovanih elektronskih pečata i čuvanja kvalifikovanih elektronskih potpisa i kvalifikovanih elektronskih pečata;
+3) korisnik je fizičko ili pravno lice koje se oslanja na elektronsku identifikaciju ili uslugu certifikovanja.
