@@ -1,0 +1,4 @@
+Na osnovu člana 152 Zakona o Vojsci Crne Gore ("Službeni list CG", broj 51/17), Ministarstvo odbrane donijelo je
+PRAVILNIK
+O NAČINU PRESTANKA SLUŽBE U VOJSCI CRNE GORE PROFESIONALNOM
+VOJNOM LICU I LICU U REZERVNOM SASTAVU VOJSKE CRNE GORE
