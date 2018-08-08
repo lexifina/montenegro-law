@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se obrazac prijave i odjave boravka stranca kome je izdata viza za duži boravak (viza D) ili boravi u Crnoj Gori do 90 dana u skladu sa članom 34 Zakona o strancima i stranca kome je izdata dozvola za privremeni boravak, dozvola za privremeni boravak i rad i dozvola za stalni boravak ako namjerava da u drugom mjestu u Crnoj Gori privremeno boravi duže od tri dana.
