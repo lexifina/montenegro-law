@@ -1,0 +1,2 @@
+Na osnovu člana 29 i 30 Zakona o održavanju stambenih zgrada ("Sl. list CG", br. 41/16) i člana 36 stav 1 tačka 3 Statuta Opštine Herceg Novi ("Sl list RCG - Opštinski propisi", br.15/04, 32/05, 31/06, 14/07, "Sl.list CG - opštinski propisi", br. 16/09, 16/11 i "Sl.list CG" br.60/17), Skupština opštine Herceg Novi, na sjednici održanoj dana 24.07.2018. godine, donijela je
+ODLUKA O RJEŠAVANJU STAMBENIH POTREBA LOKALNIH SLUŽBENIKA I NAMJEŠTENIKA KUPOVINOM STANA POD POVOLJNIJIM USLOVIMA

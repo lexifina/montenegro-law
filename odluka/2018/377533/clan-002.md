@@ -1,0 +1,2 @@
+# Član 2
+Pravo na rješavanje stambenog pitanja u skladu sa ovom odlukom ima lokalni službenik i namještenik koji je u radnom odnosu na neodređeno vrijeme, a koji nije riješio stambeno pitanje, pod uslovima da on, njegov bračni drug, lice sa kojim živi u vanbračnoj zajednici ili član njegovog porodičnog domaćinstva nemaju stan, odnosno porodičnu stambenu zgradu u svojini, susvojini ili zajedničkoj svojini, na teritoriji Crne Gore.
