@@ -1,0 +1,6 @@
+# Član 16
+## Izdavanje potvrda
+(1) Nadležni organ izdaje državljanima Crne Gore i licima koja su u Crnoj Gori stekla profesionalnu kvalifikaciju potvrdu o tome da su njihovi dokazi o profesionalnim kvalifikacijama u skladu sa minimalnim uslovima osposobljenosti propisanim direktivama Evropske unije, kada se radi o profesijama koje se priznaju na osnovu minimalnih uslova osposobljenosti.
+(2) Na zahtjev stručnjaka, nadležni organ izdaje potvrdu o sticanju profesionalne kvalifikacije u Crnoj Gori ili o obavljanju regulisane profesije odnosno profesionalne djelatnosti u Crnoj Gori, ako ispunjava uslove.
+(3) Nadležni organ izdaje potvrdu o važenju diplome i sertifikata o profesionalnim kvalifikacijama koje su državljani Crne Gore stekli u republikama bivše SFRJ do dana međunarodnog priznanja tih republika i koju su stekli u Republici Srbiji do 25. januara 2008. godine.
+(4) Kod automatskog priznavanja na osnovu člana 41 ovog zakona, nadležni organ, pored potvrde iz stava 3 ovog člana, izdaje i potvrdu da su državljani Crne Gore u republikama bivše SFRJ do dana međunarodnog priznanja tih republika i da su u Republici Srbiji do 25. januara 2008. godine obavljali djelatnost na njihovoj teritoriji najmanje tri uzastopne godine, i to pet godina prije dana izdavanja potvrde.

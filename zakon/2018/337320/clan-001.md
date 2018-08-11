@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+(1) Ovim zakonom uređuje se postupak priznavanja profesionalnih kvalifikacija koje su stečene u državama članicama Evropske unije, Evropskog ekonomskog prostora ili Švajcarske konfederacije (u daljem tekstu: države ugovornice) radi stalnog obavljanja regulisanih profesija u Crnoj Gori, pružanja povremenih ili privremenih usluga u Crnoj Gori kod obavljanja regulisanih profesija, izdavanja Evropske profesionalne kartice, administrativna saradnja između država ugovornica, kao i druga pitanja od značaja za priznavanje profesionalnih kvalifikacija za obavljanje regulisanih profesija.

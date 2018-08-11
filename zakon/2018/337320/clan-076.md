@@ -1,0 +1,3 @@
+# Član 76
+## Prestanak važenja
+(1) Danom početka primjene ovog zakona prestaje da važi Zakon o priznavanju inostranih kvalifikacija za obavljanje regulisane profesije ("Službeni list CG", broj 18/11), odredbe Zakona o nacionalnim stručnim kvalifikacijama ("Službeni list CG", br. 80/08, 14/09 i 40/16) koje se odnose na priznavanje inostranih sertifikata za obavljanje regulisanih profesija u Crnoj Gori i odredbe Zakona o priznavanju inostranih obrazovnih isprava i izjednačavanju kvalifikacija ("Službeni list CG", br. 57/11 i 42/16) koje se odnose na priznavanje inostranih obrazovnih isprava o stečenom srednjem, odnosno visokom obrazovanju za obavljanje regulisanih profesija.
