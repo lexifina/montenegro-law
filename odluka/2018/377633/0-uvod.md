@@ -1,0 +1,2 @@
+Na osnovu člana 68 i 69 Zakona o Budzetu i fiskalnoj odgovornosti ("Sl.list CG", br.20/14,56/14,70/17 i 4/18), člana 55. i 56. Zakona o finansiranju lokalne samouprave ("Sl.list RCG", br. 42/03,44/03) i "Sl.list CG" , 5/08,51/08 i 74/10), i člana 44. Statuta opštine Mojkovac ("Sl.list CG"-opštinski propisi br.31/10 i 26/12) Skupština opštine Mojkovac na sjednici održanoj dana 31.07.2018.godine, d o n i j e l a je
+O D L U K U
