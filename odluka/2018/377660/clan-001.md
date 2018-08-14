@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za odustajanje od prava na žalbu u predmetu Posl.br.P.1580/14/14
+Daje se saglasnost za odustajanje od prava na žalbu na presudu Osnovnog suda Kotor Posl.br.P.1580/14/14 od 20.05.2018.god. kojom se obavezuje tužena Opština Tivat da isplati tužiocima Starčević Neđeljku, Kikanović Zagorki, Dodić Zoranu, Nikoli i Goranu iznos od ukupno 85.126,89€ na ime naknade za izuzeto zemljište označeno kao djelovi kat.parcela 1045/83, 1147/1, 1147/3 i 1146/11 KO Radovići odnosno kao djelovi ranijih čestica zemlje 1287 i 1289 kao i da isplati troškove postupka u iznosu od 9.335,oo€ ,sve u roku od 15 dana od dana od dana pravosnažnosti presude.
