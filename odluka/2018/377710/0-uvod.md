@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 1 tačka 1,člana 38 stav 1 tačka 9 i člana 44 stav 1 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore" br.2/18), člana 29 Zakona o državnoj imovini ("Sl.list Crne Gore"br.21/09, 40/11) u vezi sa članom 194, 201, 208 i 216 Zakona o svojinsko pravnim odnosima ("Sl.list Crne Gore" br.19/09) i sa članom 149 Zakona o energetici ("Sl.list Crne Gore"br.28/10,40/11, 42/11 ,6/13) i člana 18 i 39 Statuta Opštine Tivat ("Sl.list Crne Gore-opštinski propisi" br.24/18) na sjednici Skupštine opštine Tivat održanoj dana 09.08.2018.godine, donijeta je
+O D L U K A
