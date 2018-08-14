@@ -1,0 +1,2 @@
+# Član 5
+Sastavni dio ove odluke su Odluka o donošenju Prostornog plana posebne namjene "Bjelasica i Komovi" - detaljna razrada lokaliteta Žarski ("Sl. list Crne Gore" br. 4/11), Elaborat eksproprijacije u granicama zahvata detaljne urbanističke razrade lokaliteta Žarski u zoni Prostornog plana posebne namjene "Bjelasica i Komovi" koji je urađen od strane "Geoprojekt Perišić" DOO iz Podgorice br. 67/18 od 21. februara 2018. godine i listovi nepokretnosti za navedene nepokretnosti.
