@@ -1,0 +1,3 @@
+# Član 3
+Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+Ts.broj:150/18
