@@ -1,0 +1,2 @@
+# Član 5
+Vlasnik, odnosno korisnik bazenskog kupališta treba da u svim djelovima bazenskog kupališta obezbijedi sanitarno-tehničke i higijenske uslove koji sprječavaju prenošenje uzročnika zaraznih bolesti i pojavu drugih uzroka koji mogu narušiti zdravlje posjetilaca, kao i da odredi lice koje je odgovorno za praćenje sprovođenja mjera i aktivnosti propisanih ovim pravilnikom (u daljem tekstu: odgovorno lice).
