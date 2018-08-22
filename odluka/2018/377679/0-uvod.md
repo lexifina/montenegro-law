@@ -1,0 +1,2 @@
+Na osnovu 28.stav 1 a u vezi sa članom 201 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18) i člana 45 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 42/03,28/04,75/05 i "Službeni list CG", br. 13/06,88/09,3/10, 38/12 i 10/14), članova 9, 39 i 40 Zakona o državnoj imovini ("Službeni list CG", br. 21/09) i člana 40 Statuta Opštine Budva ("Službeni list CG-Opštinski propisi", br. 19/10), Skupština opštine Budva, na sjednici održanoj dana 03. avgusta 2018. godine, donijela je
+ODLUKU
