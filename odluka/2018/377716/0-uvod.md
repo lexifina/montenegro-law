@@ -1,0 +1,2 @@
+Na osnovu člana 27 i 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" broj 2/18), i člana 2, u vezi sa članom 25 Zakona o lukama ("Službeni list Crne Gore" broj 51/08, 40/11 i 27/13) i člana 50 stav 1 tačka 28 Statuta Opštine Kotor ("Službeni list Opštine Kotor" broj 03/04, "Službeni list Crne Gore - opštinski propisi" broj 17/08, 31/09, 40/10 i 04/11), Predsjednik Opštine Kotor dana 27. 07. 2018. godine, donio je
+O D L U K U
