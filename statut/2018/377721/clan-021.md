@@ -1,0 +1,6 @@
+# Član 21
+Opština i javne službe čiji je osnivač opština dužne su da vode evidenciju o svojoj imovini, u skladu sa zakonom.
+Vrijednost imovine opštine procjenjuje organ lokalne uprave nadležan za poslove imovine.
+Opština može odrediti i drugi ovlašćeni organili instituciju za procjenu vrijednosti nepokretnih stvari (ovlašćenog sudskog vještaka - procjenitelja i dr.).
+Imovina opštine iskazuje se u skladu sa zakonom.
+Skupština razmatra izvještaj o stanju imovine opštine i javnih službi, najmanje jednom godišnje.
