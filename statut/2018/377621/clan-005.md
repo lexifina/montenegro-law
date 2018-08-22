@@ -1,0 +1,6 @@
+# Član 5
+Opština ima grb i zastavu (Simboli opštine).
+Grb Opštine je Osnovni grb Opštine Petnjica sаstoji se od herаldičkog štitа. Osnov štita je oivičen zlatnom i crvenom bojom. U gornjem dijelu grba stoji upisano latinicom ime grada. Na desnoj strani u gornjem dijelu grba je tvrđava koja simbolizuje početak urbanosti. Na lijevoj strani, u donjem dijelu heraldičkog štita je džamija iz XVI vijeka, koja je kulturno istorijski spomenik. U sredini grba je Radmanska klisura. Petnjička kotlina je u dnu grba.U njenom sastavu je prikazana rijeka Popča i njene četiri pritoke.
+Službeni grb sastoji se od osnovnog grba kome je dodata "cvijetna kruna", koja simbolizuje prirodna bogatstva Opštine Petnjica. U dnu grbа se nаlаzi lentа. Nа lenti je latiničnim slovimа ispisаn tekst " PETNjICA
+Zastava opštine je pravougaonog oblika čija je dužina najmanje dvostruko veća od širine, sa podlogom bijele boje, sa ucrtanim grbom Opštine u sredini. Plava linija simbolizuje bogatstvo Opštine Petnjica rijekama, izvorištima i prirodnim vodenim tokovima. Zelena linija simbolizuje prirodni ambijent, sa očuvanim pejzažima i plodnu zemlju na teritoriji Opštine Petnjica.
+Upotreba simbola opštine uređuje se odlukom Skupštine opštine.

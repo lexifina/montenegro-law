@@ -1,0 +1,4 @@
+# Član 105
+## Građanska inicijativa
+Građani mogu, organima opštine, uputiti građansku inicijativu za donošenje ili promjena akta kojim se uređuju pitanja iz nadležnosti opštine, a od značaja su za građane.
+Građanska inicijativa se može pokrenuti o pitanjima: planiranja i uređenja prostora, zaštite životne sredine, izgradnja I održavanje opštinskih puteva I druge infrastructure, pružanja usluga iz komunalne djelatnosti, poreza, naknada i taksi, kulture i sporta i drugim pitanjima iz nadležnosti opštine.
