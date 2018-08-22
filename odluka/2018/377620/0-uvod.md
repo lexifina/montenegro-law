@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi( "Sl. List Crne Gore " br. 02/18 ) i člana 17 i člana 22 Zakona o zaradama zaposlenih u javnom sektoru ("Sl.list Crne Gore", br. 16/16,83/16,21/17,42/17,12/18,39/18 i 42/18) i člana 35 i člana 39 Statuta Opštine Tivat ("Sl.list Crne Gore-opštinski propisi", br.24/18), a po prethodno pribavljenom mišljenju Ministrstva br. 01-12879/1 od 06.08.2018.godine, na sjednici Skupštine opštine Tivat održanoj dana 09.08.2018.godine, donijela je
+ODLUKU O IZMJENI ODLUKE
