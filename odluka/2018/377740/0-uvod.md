@@ -1,0 +1,2 @@
+Na osnovu člana 87. stav 14. Zakona o prevozu u drumskom saobraćaju ("Službeni list Crne Gore", br. 71/2017 od 31.10.2017. godine), člana 59. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/2018), člana 50. Statuta Opštine Kotor ("Službeni list Opštine Kotor" broj 3/04 i "Službeni list Crne Gore - opštinski propisi" broj 17/08, 31/09, 40/10 i 4/11) i u skladu sa Pravilnikom o obrascu cjenovnika usluga u auto taksi prevozu Ministarstva saobraćaja i pomorstva broj: 340/17-01- 8717/1 od 29.11.2017. godine, predsjednik Opštine Kozor donosi:
+ODLUKA
