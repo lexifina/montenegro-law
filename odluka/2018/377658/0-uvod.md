@@ -1,0 +1,2 @@
+Na osnovu člana 43 Zakona o lokalnoj samoupravi ("Sl.list CG" br.2/18), člana 31, 32,33 Statuta opštine Kolašin (Sl.list RCG-opštinski propisi" br. 25/04, 31/04, 34/04 i "Sl.list CG-opštinski propisi" br. 41/10) i člana 4,6, 18 c Odluke o obrazovanju radnih tijela Skupštine ("Sl.list CG-opštinski propisi br.31/05, 31/14) Skupština opštine Kolašin, na sjednici održanoj dana 24.08.2018.godine donijela je-
+O D L U K U
