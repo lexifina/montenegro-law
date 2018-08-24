@@ -1,0 +1,2 @@
+# Član 4
+Ova Odluka stupa na snagu danom donošenja a objaviće se u "Službenom listu CG- opštinski propisi".
