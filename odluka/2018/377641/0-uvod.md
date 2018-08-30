@@ -1,0 +1,2 @@
+Na osnovu članova 23 i 29 st.1 tač.1 Zakona o Glavnom gradu ("Službeni list RCG", br. 65/05 i "Službeni list CG", br. 88/09, 72/10 i 2/16) i člana 17. Odluke o obrazovanju radnih tijela Skupštine Gradske opštine Golubovci ("Službeni list RCG- opštinski propisi", broj 24/07), a na predlog predsjednice Opštine u okviru Glavnog grada- Golubovci, Skupština opštine Golubovci, na_II sjednici, održanoj dana 29.08. 2018. godine, donijela je -
+O D L U K A
