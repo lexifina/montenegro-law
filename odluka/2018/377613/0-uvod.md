@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ( "Sl. list CG" broj 2/18), a u vezi sa članom 64 stav 2 Zakona o putevima ("Sl. list RCG" broj 42/04 i "Sl. list CG" broj 54/09, 36/11 i 92/17), članom 60 Zakona o zaštiti prirode (Sl. list CG", br. 54/16), i članom 5 Zakona o raftingu ("Sl. list CG ", br. 53/11), Skupština opštine Plužine, na sjednici održanoj 30.07.2018. godine d o n i j e l a j e
+O D L U K U
