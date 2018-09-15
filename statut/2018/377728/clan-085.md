@@ -1,0 +1,4 @@
+# Član 85
+Sekretar Skupštine organizuje i stara se o obavljanju stručnih, administrativnih i drugih poslova za Skupštinu i njena radna tijela, priprema sjednice Skupštine i njenih radnih tijela, stara se o primjeni odredaba statuta, poslovnika Skupštine i njenih radnih tijela, odgovoran je za izradu zapisnika i vođenje fono ili drugog elektronskog zapisa sjednica Skupštine, obradu akata Skupštine i za objavljivanje odluka i drugih opštih akata Skupštine, pomaže predsjedniku Skupštine u radu, vrši i druge poslove u skladu sa ovim statutom i drugim aktima Skupštine.
+Sekretar skupštine rukovodi radom službe Skupštine sa svim pravima i obavezama starješine organa lokalne uprave i za svoj rad i rad službe skupštine, odgovara predsjedniku skupštine i skupštini.
+Akt o unutrašnjoj organizaciji i sistematizaciji stručne službe skupštine, donosi sekretar skupštine, uz saglasnost predsjednika skupštine.
