@@ -1,0 +1,3 @@
+# Član 3
+Generalštab Vojske Crne Gore, do 1. novembra tekuće godine, sačinjava i dostavlja komisiji za izbor profesionalnih vojnih lica za unapređivanje (u daljem tekstu: komisija) spisak profesionalnih vojnih lica koji do kraja te godine ispunjavaju uslove za unapređivanje.
+Spisak iz stava 1 ovog člana, za profesionalna vojna lica koja su postavljena na formacijska mjesta u organu državne uprave nadležnom za poslove odbrane (u daljem tekstu: Ministarstvo), drugom organu državne uprave, državnom organu, privrednom društvu ili pravnom licu, sačinjava i komisiji dostavlja organizaciona jedinica Ministarstva nadležna za ljudske resurse.
