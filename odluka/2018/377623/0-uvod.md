@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), člana 27 stav 1 tačka 20 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18), člana 40 Statuta opštine Nikšić ("Službeni list RCG - Opštinski propisi", br. 20/04 i 43/06 i "Službeni list CG - Opštinski propisi", broj 24/10), Skupština opštine Nikšić, na sjednici održanoj 29.08.2018.godine, donijela je
+O D L U K U
