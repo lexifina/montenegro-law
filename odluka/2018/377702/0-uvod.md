@@ -1,0 +1,2 @@
+Na osnovu člana 201 Zakona o lokalnoj samoupravi (Službeni list CG", br. 02/18), člana 31 stav 1 tačka 27 Statuta opštine Šavnik ("Sl.list RCG - opštinski propisi", br. 36/04 i "Sl. list CG - opštinski propisi", broj 24/08, 36/10, 18/15 i 26/16) i člana 19 Odluke o obrazovanju radnih tijela Skupštine ("Sl. list RCG-opštinski propisi", br. 45/06) Skupština opštine Šavnik, na sjednici održanoj dana 17.08. 2018. godine, donijela je
+ODLUKU
