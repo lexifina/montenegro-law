@@ -1,0 +1,2 @@
+Na osnovu člana 68 Zakona o privrednim društvima ("Službeni list RCG", br. 06/02 i "Službeni list CG", br. 17/07, 80/08, 40/10, 36/11 i 40/11), odredbi Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16, 74/16 i 02/18), člana 11 Odluke o osnivanju društva sa ograničenom odgovornošću Otpadne vode Budva i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10) Skupština opštine Budva, na sjednici održanoj dana 04. septembra 2018.godine, donijela je
+STATUT DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "OTPADNE VODE" - BUDVA
