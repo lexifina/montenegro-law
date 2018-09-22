@@ -1,0 +1,57 @@
+{
+  "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/odluka_o_reprodukciji_nov.pdf",
+  "title": "Odluka o reprodukciji novčanica",
+  "source_sha256": "7ad5061d084f2eb87d8f6c3d0268555cd922297ce7c480b4a3eea493b9fc5076",
+  "source_bytes": 139533,
+  "pages": 4,
+  "source_images": 0,
+  "gazette_issue": "61/2018",
+  "publication_date": "2018-09-14",
+  "publication_evidence": {
+    "issue": "61/2018",
+    "date": "2018-09-14",
+    "quote": "61/18 od 14.09.2018",
+    "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/odluka_o_reprodukciji_novcanica_prec_tekst_54-22.pdf",
+    "source_sha256": "254022bf3f3a58b7de58301921e94d96e2862abf251e23943759b54c0f703f4d"
+  },
+  "commencement_quote": "Ova odluka stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu Crne Gore\".",
+  "date": "2018-09-22",
+  "basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu Crne Gore\".\"; Gazette 61/2018 publication on 2018-09-14 stated as \"61/18 od 14.09.2018\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/odluka_o_reprodukciji_novcanica_prec_tekst_54-22.pdf.",
+  "comparison_mode": "exact body and annex character sequences; signature character inventory equal",
+  "text_sha256": "7c97e03bd1eb82d1daa148356a8e08af35059fe6395c38b821f0492407c164de",
+  "word_count": 914,
+  "official_numbers": [
+    "0101-6850-3/2018"
+  ],
+  "path": "odluka/2018/0101-6850-3-2018",
+  "kind": "as-enacted",
+  "issuer": "Centralna banka Crne Gore",
+  "text_status": "as-enacted",
+  "in_force": "2018-09-22",
+  "in_force_basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu Crne Gore\".\"; Gazette 61/2018 publication on 2018-09-14 stated as \"61/18 od 14.09.2018\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/odluka_o_reprodukciji_novcanica_prec_tekst_54-22.pdf.",
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "complete": true,
+  "first_law": null,
+  "source_listing": "https://www.cbcg.me/me/o-nama/regulativa/podzakonski-akti",
+  "related_pis_candidates": [
+    316293
+  ],
+  "official_number": "0101-6850-3/2018",
+  "official_number_quote": "O. br. 0101-6850-3/2018",
+  "line_endings": "LF",
+  "current_text_asserted": false,
+  "related_official_versions": [
+    {
+      "title": "Odluka o reprodukciji novčanica",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/odluka_o_reprodukciji_novcanica_prec_tekst_54-22.pdf",
+      "source_context": "- Odluka o reprodukciji novčanica („Sl. list Crne Gore“ br. 61/18, 54/22) - Neslužbeni prečišćeni tekst"
+    },
+    {
+      "title": "Odluka o izmjenama Odluke o reprodukciji novčanica",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/izmjene_odluke_o_reprodukciji_novcanica_54-22.pdf",
+      "source_context": "Odluka o izmjenama Odluke o reprodukciji novčanica („Sl. list Crne Gore“ br. 54/22)"
+    }
+  ],
+  "version_note": "Text as enacted; linked amendments and consolidated copies are separate records and are not applied to this text."
+}
