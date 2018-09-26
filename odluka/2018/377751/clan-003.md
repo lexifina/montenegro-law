@@ -1,0 +1,5 @@
+# Član 3
+Zaposlenom u organima lokalne uprave i službama Opštine Tivat za čijim radom je prestala potreba u skladu sa članom 128 ,129 i 130 Zakona o državnim službenicima i namještenicima uslijed ukidanja organa lokalne uprave i službi ili dijela poslova koje ne preuzima drugi državni organ , i li izmjene unutrašnje organizacije (donošenje novog akta o sistematizaciji ili izmjene poostojećeg) pripada otpremnina u visini 12 bruto zarada.
+Zaposlenom kojem do ostvarivanja prava na penziju nedostaje do dvije godine a za čijim radom je prestala potreba u skladu sa stavom 1 ovog člana pripada otpremnina u visini od tri bruto zarade.
+Zaposlenom kojem do ostvarivanja prava na penziju nedostaje dvije do pet godina a za čiji m radom je prestala potreba u skladu sa stavom 1 ovog člana pripada otpremnina u visini od šest bruto zarada.
+Zaposlenom u organima lokalne uprave i službama, kojem do ostvarivanja prava na penziju nedostaje od pet do sedam godina a za čijim radom je prestala potreba u skladu sa stavom 1 ovog člana pripada otpremnina u visini od osam bruto zarada.
