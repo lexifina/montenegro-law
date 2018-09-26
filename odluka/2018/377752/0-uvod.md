@@ -1,0 +1,2 @@
+Na osnovu člana 38 i 44 Zakona o Lokalnoj samoupravi ( "Službeni list Crne Gore", br. 02/18) i člana 32 stav 1, tačka 9, a u vezi sa članom 13, stav 1 , tačka 2 , alineja 2 i tačka 5, alineja 4 Statuta opštine Andrijevica ("SL RCG - Opštinski propisi",br. 21/04 i 42/06 i "SL CG - opštinski propisi" br. 02/11 i 21/13), Skupština opštine Andrijevica,na sjednici održanoj 06.09.2018.godine, doniela je
+ODLUKU
