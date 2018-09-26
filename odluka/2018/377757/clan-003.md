@@ -1,0 +1,2 @@
+# Član 3
+U roku od trideset dana od dana stupanja Odluke na snagu , pod uslovom da je naknada isplaćena, sa imenovanom će se zaključiti kupoprodajni ugovor kojim će biti regulisana prava i obaveze ugovornih strana .
