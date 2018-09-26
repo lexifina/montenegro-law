@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi (,,Službeni list CG", br. 02/18), člana 29 stav 2 tačka 3 Zakona o komunalnim djelatnostima (,,Službeni list CGore'', br. 55/16 i 74/16), člana 11 stav 1 alineja 6 Odluke o osnivanju društva sa ograničenom odgovornošću ,,Komunalno Budva" (,,Službeni list CG - Opštinski propisi", br. 33/13) i člana 40 stav 1 tačka 42 Statuta Opštine Budva (,,Službeni list CG-Opštinski propisi'', br. 19/10 ), Skupština opštine Budva, na sjednici održanoj dana 04. septembra 2018.godine, donijela je
+ODLUKU
