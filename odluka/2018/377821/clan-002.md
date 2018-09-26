@@ -1,0 +1,2 @@
+# Član 2
+Urbanističku parcelu br. 98, po DUP-u »Zelen«, pored zemljišta opisanog u članu 1 stav 1 odluke, čini i zemljište označeno kat. parcelom broj 2301 površine 159m2 svojina 1/1 D.O.O. »Minas Montenegro« Podgorica, katastarska parcela broj 2545/8 površine 2m2, svojina u obimu 1/1 Čakalović Vlaha, te katastarske parcela broj: 2545/5 površine 4m2 i 2545/6 površine 22m2, obje svojina 1/1 Crna Gora, raspolaganje u obimu 1/1 Vlada Crne Gore, upravljanje 1/1 Željeznička infrastruktura Crne Gore, sve KO Sutomore.
