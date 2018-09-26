@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za zasnivanje stvarne službenosti na neodređeno vrijeme uz naknadu na dijelu katastarskih parcela broj 210 i 218/1, KO Mrke
+Glavni grad - Podgorica, kao nosilac prava raspolaganja, daje saglasnost za zasnivanje stvarne službenosti na dijelu katastarske parcele broj 210, KO Mrke i na dijelu katastarske parcele broj 218/1, KO Mrke, radi postavljanja kablovskih vodova za trafostanicu TS 10/0,4 kV Bekom snage 1000 kVA na katastarskoj parceli br. 208/1 KO Mrke, koja lokacija je određena Odlukom Gradonačelnika Glavnog grada o određivanju lokacije sa elementima urbanističko tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa, br. 01-031/18-248 od dana 17. januara 2018. godine.
