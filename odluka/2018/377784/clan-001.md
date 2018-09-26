@@ -1,0 +1,4 @@
+# Član 1
+## o prodaji građevinskog zemljišta privrednom društvu "KAĆA" D.O.O Bar radi dokompletiranja urbanističkih parcela po DUP-u "Bjelila- Rutke - Gorelac"
+Opština Bar, prodaje neposrednom pogodbom, privrednom društvu "Kaća" d.o.o Bar, građevinsko zemljište ukupne površine 477m2, označeno kao: katastarska parcela broj 1358, površine 176m2, upisana u listu nepokretnosti broj 3124 KO Zankovići, kao svojina Opštine Bar u dijelu 1/1, katastarska parcela broj 3635/5, površine 237m2 i katastarska parcela broj 3635/4, površine 64m2, obje, upisane u listu nepokretnosti broj 3761 KO Zankovići, kao svojina Crne Gore, u dijelu 1/1 i raspolaganje Opština Bar u dijelu 1/1.
+Zemljište iz stave 1 ovog člana prodaje radi dokompletiranja urbanističkih parcela UP 510 i UP 512 po DUP-u "Bjelila- Rutke - Gorelac"
