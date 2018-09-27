@@ -1,0 +1,2 @@
+Na osnovu člana 48 stav 1 tačka 2 Statuta Glavnog grada ("Sl. list RCG-opštinski propisi", broj 28/06 i "Sl. list CG- opštinski propisi", br. 39/10, 18/12 i 38/17) i člana 11 alineja 9 Odluke o osnivanju Društva sa ograničenom odgovornošću "Pogrebne usluge" - Podgorica ("Sl. list CG-opštinski propisi", broj 22/13), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 27. septembra 2018. godine, d o n i j e l a j e -
+O D L U K U
