@@ -1,0 +1,2 @@
+Na osnovu člana 65 stav 1 i 2 Zakona o finansiranju lokalne samouprave (''Sl. list RCG'', br. 42/03 i 44/03 i ''Sl. list CG'', br. 5/08) i člana 38 stav 1 tačka 15 Statuta Opštine Žabljak (''Sl. list RCG - opštinski propisi'', br. 9/05 i 23/07), Skupština opštine Žabljak, na sjednici održanoj dana 27.09.2018. godine, d o n i j e l a je
+O D L U K U O DAVANJU SAGLASNOSTI NA ODLUKU ODBORA DIREKTORA O KREDITNOM ZADUŽENJU DOO ''KOMUNALNO I VODOVOD'' ŽABLJAK
