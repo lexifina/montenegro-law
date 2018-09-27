@@ -1,0 +1,2 @@
+Na osnovu člana 48 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list Republike Crne Gore - Opštinski propisi", broj 28/06 i "Službeni list Crne Gore - Opštinski propisi", br. 39/10,18/12 i 38/17) i člana 11 stav 1 alineja 9 Odluke o osnivanju "Sportski objekti" d.o.o. - Podgorica ("Službeni list Crne Gore-Opštinski propisi", broj 22/13), Skupština Glavnog grada - Podgorice, na śednici održanoj dana 27. septembra 2018. godine, d o n i j e l a j e -
+O D L U K U
