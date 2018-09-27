@@ -1,0 +1,2 @@
+Na osnovu člana 48 stav 1 tačka 2 Statuta Glavnog grada ("Sl. list RCG-opštinski propisi", br. 28/06 i "Sl. CG- opštinski propisi", br. 39/10,18/12 i 38/17) i člana 13 alineja 4 Odluke o osnivanju "Agencije za stanovanje" d.o.o. - Podgorica ("Sl. list RCG-opštinski propisi", br. 26/05 i "Sl. list CG-opštinski propisi", br. 37/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 27. septembra 2018. godine, d o n i j e l a j e -
+O D L U K U
