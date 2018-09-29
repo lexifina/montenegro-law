@@ -1,0 +1,6 @@
+Na osnovu člana 17 Zakona o crnogorskom državljanstvu ("Službeni list CG", br. 13/08, 40/10, 28/11, 46/11, 20/14 i 54/16), Vlada Crne Gore, na sjednici od 26. jula 2018. godine, donijela je
+ODLUKU
+O IZMJENI I DOPUNI ODLUKE O KRITERIJUMIMA ZA UTVRĐIVANjE
+NAUČNOG, PRIVREDNOG, EKONOMSKOG, KULTURNOG I SPORTSKOG
+INTERESA CRNE GORE ZA STICANJE CRNOGORSKOG DRŽAVLjANSTVA
+PRIJEMOM
