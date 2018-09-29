@@ -1,0 +1,4 @@
+Na osnovu člana 100 stav 7 Zakona o energetici ("Službeni list CG", br. 5/16 i 51/17), Vlada Crne Gore, na sjednici od 26. jula 2018. godine, donijela je
+UREDBU
+O NAČINU IZDAVANjA, PRENOŠENjA I POVLAČENjA GARANCIJE PORIJEKLA ELEKTRIČNE ENERGIJE PROIZVEDENE IZ OBNOVLjIVIH
+IZVORA ENERGIJE I VISOKOEFIKASNE KOGENERACIJE
