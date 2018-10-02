@@ -1,0 +1,3 @@
+Na osnovu člana 38 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list CG", broj 02/18), člana 48 tačka 12 Statuta Glavnog grada ("Službeni list RCG-opštinski propisi", broj 28/06 i "Službeni list CG-opštinski propisi", br. 39/10, 18/12 i 38/17), a u vezi sa članom 31 Zakona o privrednim društvima ("Službeni list RCG", broj 06/02 i "Službeni list CG", br. 17/07, 80/08, 40/10, 36/11 i 40/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 27. septembra 2018. godine, donijela je
+O D L U K U
+o davanju saglasnosti na Ugovor o ustupanju Ugovora o dokapitalizaciji privrednog društva "Novi duvanski
