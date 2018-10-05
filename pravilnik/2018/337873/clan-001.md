@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se sadržaj i način vođenja registra licenci za rad i privremenih licenci za rad koje služe za neposredno obavljanje zdravstvene djelatnosti (u daljem tekstu: licenca), zdravstvenih radnika koji su stekli obrazovanje na farmaceutskom fakultetu i kvalifikaciju obrazovanja: doktor farmacije, diplomirani farmaceut, diplomirani farmaceut- medicinski biohemičar, magistar farmacije (u daljem tekstu: farmaceut) i obrazac licenci.
