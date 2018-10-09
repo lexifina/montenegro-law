@@ -1,0 +1,3 @@
+Na osnovu člana 47 i 49 Zakona o uređenju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14), a u vezi sa članom 217 Zakona o planiranju prostora i izgradnji objekata ("Službeni list Crne Gore", broj 64/17 i 44/18) i člana 48 Statuta Glavnog grada ("Službeni list RCG - opštinski propisi", broj 28/06 i "Službeni list Crne Gore - opštinski propisi", br. 39/10, 18/12 i 38/17), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 27. septembra 2018. godine, donijela je
+ODLUKU
+O DONOŠENJU DETALJNOG URBANISTIČKOG PLANA "MASLINE" U PODGORICI

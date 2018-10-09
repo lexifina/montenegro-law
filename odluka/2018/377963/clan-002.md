@@ -1,0 +1,3 @@
+# Član 2
+Planom je obuhvaćeno područje površine cca 45,27 ha. Zahvat Plana ograničen je: na istočnoj strani prostorom koji je Prostorno-urbanističkim planom Glavnog grada Podgorice definisan granicama Urbanističkog projekta "Kasarna Masline" (trasa Ulice Žarka Zrenjanina); na sjevernoj strani Detaljnim urbanističkim planom "Murtovina"; u sjeveroistočnom dijelu Detaljnim urbanističkim planom "Kakaricka Gora" (u dijelu podnožja brda); na zapadnoj Detaljnim urbanističkim planom "Ibričevina" (trasa Ulice X crnogorske brigade); na sjeverozapadnoj strani Detaljnim urbanističkim planom "Prvoborac" (trase ulica X crnogorske brigade i CASNO-a), a sa južne strane granica Plana prati trasu Ulice Nikole Đurkovića.
+Koordinate prelomnih tačaka granice zahvata Plana su sljedeće:
