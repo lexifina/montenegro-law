@@ -1,0 +1,36 @@
+# Član 2
+U Radnu grupu imenuju se:
+1. šefica Radne grupe
+Slavica Pavlović, v.d. generalne direktorice u Ministarstvu poljoprivrede i ruralnog razvoja;
+2. članovi/ice:
+1) Andrijana Babić, statističarka u Zavodu za statistiku,
+2) Dragoljub Bajković, predsjednik Nevladine organizacije Udruženje profesionalnih ribara - Bar,
+3) Sunčica Boljević, pomoćnica direktora Uprave za bezbjednost hrane, veterinu i fitosanitarne poslove,
+4) Srđan Dragomanović, predstavnik Zajednice opština Crne Gore,
+5) Mirko Đurović, direktor Instituta za biologiju mora,
+6) Deniz Frljučkić, samostalni savjetnik u Ministarstvu poljoprivrede i ruralnog razvoja,
+7) Zdravko Ikica, naučni saradnik u Institutu za biologiju mora,
+8) Aleksandra Ivanović, rukovoditeljka u JP za upravljanje morskim dobrom Crne Gore,
+9) Boško Ivanović, direktor Nevladine organizacije Udruženje profesionalnih ribara Južni Jadran,
+10) Aleksandar Joksimović, naučni savjetnik u Institutu za biologiju mora,
+11) Milena Kapa, sekretarka Odbora za turizam, poljoprivredu, ekologiju i prostorno planiranje u Skupštini Crne Gore,
+12) Marko Kise, predsjednik Nevladine organizacije Nacionalno udruženje proizvođača ribe Crne Gore,
+13) Ivo Knežević, predsjednik Nevladine organizacije Udruženje ribara Ulcinj,
+14) Ljubo Kočović, predstavnik Montenegro Biznis Alijanse,
+15) Nada Kosić, samostalna savjetnica u Ministarstvu poljoprivrede i ruralnog razvoja,
+16) Milena Krasić, samostalna savjetnica u Ministarstvu poljoprivrede i ruralnog razvoja,
+17) Bojana Lakićević - Đuranović, profesorica na Pravnom fakultetu Univeziteta Crne Gore,
+18) Kristina Lapčević, načelnica u Ministarstvu poljoprivrede i ruralnog razvoja,
+19) Žarko Lukšić, načelnik u Upravi pomorske sigurnosti,
+20) Milica Mandić , naučna saradnica u Institutu za biologiju mora,
+21) Olivera Marković, naučna saradnica u Institutu za biologiju mora,
+22) Nikola Milosavljević, rukovodilac u Investiciono-razvojnom fondu Crne Gore AD,
+23) Sanja Nikezić, predsjednica Nevladine organizacije Udruženje plivaričara Crne Gore,
+24) Ana Pešić, naučna saradnica u Institutu za biologiju mora,
+25) Vladan Radonjić, generalni direktor u Ministarstvu saobraćaja i pomorstva,
+26) Milivoje Saičić, samostalni savjetnik u Ministarstvu poljoprivrede i ruralnog razvoja,
+27) Ivana Stojanović, samostalna savjetnica u Ministarstvu održivog razvoja i turizma,
+28) Mijomir Tapušković, inspektor za morsko ribarstvo u Ministarstvu poljoprivrede i ruralnog razvoja,
+29) Nebojša Todorović, predsjednik Udruženja ribara Sidro Bar,
+30) Silvio Tosanti, predsjednik Nevladine organizacije Udruženje profesionalnih ribara na moru Crne Gore - Škver,
+31) Vukoman Živković, glavni policijski inspektor u Upravi policije.
