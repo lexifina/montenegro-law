@@ -1,0 +1,3 @@
+# Član 11
+## Obrazac za vrednovanje projekata
+Vrednovanje projekata prema propisanim kriterijumima i mjerilima iz čl. 4 do 9 ovog pravilnika vrši se na obrascu koji sadrži: nazive "OBRAZAC ZA VREDNOVANJE PROJEKATA" i "Komisija za vrednovanje projekata", naziv i godinu objave javnog konkursa, naziv projekta, naziv, odnosno ime i prezime podnosioca projekta, mjesta za unos bodova na osnovu svakog pojedinačnog kriterijuma, odnosno mjerila i obrazloženja za dodijeljene bodove, ukupan broj bodova po svim kriterijumima, odnosno mjerilima, mjesto za unos komentara dodijeljenih bodova, kao i mjesto i datum popunjavanja obrasca i potpis člana Komisije (Obrazac 1).

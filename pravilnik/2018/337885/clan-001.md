@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuju se način vrednovanja projekata prema kriterijumima za raspodjelu sredstava za finansiranje projekata za podršku aktivnostima značajnim za očuvanje i razvoj nacionalnih, odnosno etničkih posebnosti manjinskih naroda i drugih manjinskih nacionalnih zajednica i njihovih pripadnika u oblasti nacionalnog, kulturnog, jezičkog i vjerskog identiteta, izgled i sadržaj obrasca na kojem se podnosi projekat i obrasca na kojem se vrši vrednovanje projekata, kao i potrebna dokumentacija kojom se dokazuje ispunjenost propisanih kriterijuma i uslova za učešće na javnom konkursu za raspodjelu sredstava (u daljem tekstu: javni konkurs).
