@@ -1,0 +1,3 @@
+Na osnovu člana 57 stav 1 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14, 56/14,70/17 i 04/18), člana 62 stav 1 i člana 63 stav 1 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", br. 42/03 i 44/03 i "Službeni list CG", br. 05/08, 74/10, 01/15, 78/15, 03/16, 30/17 i 92/17), člana 63 stav 1 tačka 15 i člana 75 stav 3 Statuta Prijestonice ("Službeni list CG-opštinski propisi", br. 19/09, 37/10, 26/13, 39/14 i 12/16) Skupština Prijestonice Cetinje, na sjednici održanoj 28.09.,02,03 i 04.10.2018. godine, donijela je
+O D L U K U
+O KREDITNOM ZADUŽENJU PRIJESTONICE RADI REFINANSIRANJA OBAVEZA PO OSNOVU KREDITA
