@@ -1,0 +1,11 @@
+# Član 3
+Izrazi upotrijebljeni u ovom pravilniku imaju sljedeća značenja:
+1) strana putna isprava je pasoš, porodični pasoš, zajednički pasoš, diplomatski pasoš,
+službeni pasoš, pomorska knjižica, brodarska knjižica i druga putna isprava priznata u skladu sa
+međunarodnim ugovorima, na osnovu koje se može utvrditi identitet njenog imaoca, a koja je
+izdata u skladu sa propisima o izdavanju putnih isprava druge države;
+2) davalac smještaja je privredno društvo, pravno lice, preduzetnik i fizičko lice koje obavlja
+turističku i ugostiteljsku djelatnost, odnosno pruža turističke i ugostiteljske usluge, u skladu sa
+zakonom kojim se uređuje turizam, kao i drugo privredno društvo, preduzetnik, pravno i fizičko
+lice koje uz naknadu prima lica na smještaj, odnosno organizuje smještaj za svoje zaposlene ili
+članove, uključujući i smještaj u objektu zatvorenog tipa.
