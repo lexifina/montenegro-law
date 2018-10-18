@@ -1,0 +1,2 @@
+# Član 6
+Sadržaj konzervatorskih uslova iz člana 90 stav 4 Zakona, primjenjuje se i za kulturna dobra i potencijalne arheološke lokalitete, prostor sa izraženim ambijentalnim vrijednostima i njihovu okolinu, kao i druga dobra sa potencijalnim kulturnim vrijednostima, koja se nalaze na području koje je u obuhvatu planskog dokumenta i za koja nije potrebna građevinska dozvola, odnosno prijava građenja.
