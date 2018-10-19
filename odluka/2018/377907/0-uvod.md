@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 20 i člana 50 stav 3 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 2/18), člana 36 stav 1 tačka 20 i člana 73 stav 3 Statuta opštine Mojkovac ("Sl. list CG - opštinski propisi", br. 29/18), a na predlog predsjednika Skupštine, Skupština opštine Mojkovac, na sjednici održanoj dana 09.10.2018. godine, donijela je
+O D L U K U O IMENOVANJU SEKRETARA SKUPŠTINE OPŠTINE MOJKOVAC
