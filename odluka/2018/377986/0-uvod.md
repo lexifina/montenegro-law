@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 i člana 33 stav 2 Zakona o državnoj imovini ("Službeni list CG", br.21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18), člana 34 stav 1 tačka 9 i člana 38 Statuta Opštine Plav ("Sl. list RCG - Opštinski propisi", br. 17/07 i "Sl.list CG-Opštinski propisi br.25/09 i 38/10), Skupština opštine Plav, na sjednici održanoj 24.09.2018.godine, donijela je
+ODLUKA

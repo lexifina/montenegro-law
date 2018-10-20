@@ -1,0 +1,3 @@
+# Član 1
+## o ustupanju na privremeno upravljanje i korišćenje Sportsko rekreativnog centra - Murino Ministarstvu prosvjete Crne Gore
+Opština Plav kao nosilac prava raspolaganja Sportsko rekreativnog centra - Murino, ukupne bruto površine objekta 296,63 m2, koji se nalazi na katastarskim parcelama broj 16/1, 20/1, 21/2 i 22/1 upisane na listu nepokretnosti broj 186 KO Mašnica, ustupa predmetni objekat na privremeno upravljanje i korišćenje, bez naknade, Ministarstvu prosvjete Crne Gore, za potrebe unaprjeđenja nastavnih i vannastavnih aktivnosti učenika i nastavnika OŠ "Petar Dedović" u Murini.
