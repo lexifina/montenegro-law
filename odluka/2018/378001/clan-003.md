@@ -1,0 +1,2 @@
+# Član 3
+Spomen-obilježje čini centralni obelisk od aluminijumske legure, sa krupnim betonskim postamentom u obliku kocke. Na prednjoj strani postamenta, nalazi se ploča od crnog mermera na kojoj je urezana petokraka zvijezda i tekst. Dimenzije spomen-obilježja: Postament: 4 x 3 m; Mermerna ploča: 1,80 x 1,20 m; Obelisk visina h: 4 m. Autor: Vasilije Vajo Knežević, arhitekta iz Podgorice (Titograd). Odgovorno lice za podizanje spomen-obilježja: FK " Lovćen" Cetinje.
