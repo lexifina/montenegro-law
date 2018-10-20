@@ -1,0 +1,2 @@
+Na osnovu člana 14 i 15 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Danilvograd ("Službeni list CG - opštinski propisi" br. 2/14), i člana 35 Statuta Opštine Danilovgrad ("Sl. list RCG- opštinski propisi" br. 30/04 i "Sl. list CG- opštinski propisi" br 19/08 i 12/11) Skupština Opštine Danilovgrad, na sjednici održanoj 28.09. 2018. godine, donijela je
+O D L U K U
