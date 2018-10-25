@@ -1,0 +1,5 @@
+Na osnovu člana 9d Zakona o zaštiti i zdravlju na radu ("Službeni list CG", br. 34/14 i 44/18), Ministarstvo rada i socijalnog staranja donijelo je
+PRAVILNIK
+O USLOVIMA, PROGRAMU I NAČINU POLAGANjA STRUČNOG ISPITA ZA
+OBAVLjANjE POSLOVA KOORDINATORA ZA ZAŠTITU I ZDRAVLJE NA RADU
+U FAZI IZRADE PROJEKTA I KOORDINATORA U FAZI IZVOĐENJA RADOVA

@@ -1,0 +1,4 @@
+# Član 4
+Posebni dio stručnog ispita sastoji se od pisanog rada i usmene odbrane tog rada.
+Pisani rad stručnog ispita obuhvata izradu plana mjera zaštite i zdravlja na radu i dokumenata, koji u skladu sa karakteristikama projekta, sadrži relevantne informacije iz oblasti zaštite i zdravlja na radu koje je potrebno uzeti u obzir u toku izvođenja svih radova (izgradnja, rekonstrukcija, adaptacija, sanacija, upotreba, održavanje, rušenje objekata i sl.), i dokumenata kao što su: metod gradnje (method statement), uputstva za bezbjedan rad, plan i projekat skele, program montažnih radova, uputstva za montažu i demontažu i sl., u skladu sa posebnim propisima o zaštiti i zdravlju na radu u građevinarstvu odnosno na privremenim ili pokretnim gradilištima.
+Usmeni dio stručnog ispita obuhvata odbranu pisanog rada iz stava 2 ovog člana.
