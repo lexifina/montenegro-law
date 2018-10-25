@@ -1,0 +1,4 @@
+# Član 3
+Obrazac dozvola iz člana 1 ovog pravilnika je pravougaonog oblika, u vidu kartice, dimenzija 86 x 54 mm, izrađen od višeslojnog polikarbonata u izvedenim tonovima pretežno plave boje u koji su ugrađeni zaštitni elementi i u skladu sa standardima ISO/EIC 7810, za dimenzije i fizičke karakteristike i ISO/EIC 10373, za testiranje fizičkih karakteristika.
+Obrazac, na prednjoj strani, sadrži: Grb Crne Gore, naziv "Crna Gora", naziv dozvole, naziv "Crna Gora" u mikroštampi, mjesto za fotografiju dimenzija 24 x 33 mm, kao i mjesta za: prezime i ime lica koje vrši poslove zaštite, jedinstveni matični broj, datum važenja dozvole i registarski broj.
+Obrazac, na poleđini, sadrži: naziv organa koji izdaje dozvolu i datum izdavanja dozvole, aplikaciju u obliku granica Crne Gore sa ucrtanim rijekama i, uz naznaku "OVLAŠĆENjE", tekst koji glasi: "Imalac ove dozvole vrši poslove zaštite u skladu sa ovlašćenjima iz Zakona o zaštiti lica i imovine."
