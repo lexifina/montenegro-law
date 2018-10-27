@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ("Sl.list CG" br.2/18), člana 47 stav 3 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG" br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14), a u vezi sa članom 217 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG" br.64/17,44/18 i 63/18), Skupština Opštine Bar na sjednici održanoj 09.10.2018. godine donijela je
+O D L U K U
