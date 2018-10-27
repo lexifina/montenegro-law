@@ -1,0 +1,2 @@
+Na osnovu člana 28 Zakona o turističkim organizacijama ("Sl. List RCG", br. 11/04,46/07 i "Sl. List CG", br. 73/10, 40/11, 45/14 i 42/17), člana 36 stav 1 tačka 41 Statuta opštine Mojkovac ("Sl. List CG - opštinski propisi", br. 29/18) i člana 15 Odluke o osnivanju Turističke organizacije opštine Mojkovac ("Sl. List RCG - opštinski propisi", br. 32/06), Skupština opštine Mojkovac, na sjednici održanoj dana 09.10.2018. godine, donijela je
+O D L U K U
