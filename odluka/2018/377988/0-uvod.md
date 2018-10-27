@@ -1,0 +1,5 @@
+Na osnovu člana 47 stav 3. Zakona o uređenju prostora i izgradnji objekata (''Službeni list Crne Gore'' broj 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13, 33/14), u vezi sa članom 217 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG" broj 64/17 i 44/18), člana 8 Uredbe o proceduri izrade i donošenja planskog dokumenta po skraćenom postupku ("Službeni list CG" broj 40/13) i člana 31 Statuta Opštine Tivat (''Službeni list RCG - opštinski propisi'', broj 40/04 i 26/06, »Sl.list CG-opštinski propisi«, br.12/11, 21/11,
+03/13), Odluke o pristupanju izradi Izmjena i dopuna DUP-a "Donji Radovići centar" ("Sl.list CG-opštinski propisi" broj 43/17) i saglasnosti Ministarstva održivog razvoja i turizma, Direktorat za planiranje prostora,
+Podgorica, broj 104-756/41 od 17.09.2018.godine, Skupština opštine Tivat, na sjednici održanoj dana
+11.10.2018. godine, donijela je
+ODLUKA
