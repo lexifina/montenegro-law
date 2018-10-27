@@ -1,0 +1,3 @@
+Na osnovu člana 27 stav 7 Zakona o zaštiti dobrobiti životinja ("Sl. list CG", br. 14/2008, i 40/2011 - dr. zakon i 47/2015), člana 4 stav 2 i člana 12 Zakona o komunalnim djelatnostima (""Sl. list CG", br. 55/2016, 74/2016 - ispr. i 2/2018 - dr. zakon), člana 4 Zakona o prekršajima (""Sl. list CG", br. 1/2011, 6/2011 - ispr., 39/2011, 32/2014, 43/2017 - odluka US i 51/2017) i člana 32 Statuta Opštine Petnjica ("Sl. list RCG - opštinski propisi", br. 29/18), Skupština Opštine Petnjica, na sjednici održanoj 11.10.2018. godine, donijela je:
+ODLUKU
+O USLOVIMA I NAČINU DRŽANjA KUĆNIH LjUBIMACA I NAČINU POSTUPANjA SA NAPUŠTENIM I IZGUBLjENIM KUĆNIM LjUBIMCIMA
