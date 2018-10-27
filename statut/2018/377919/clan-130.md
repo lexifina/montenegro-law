@@ -1,0 +1,2 @@
+# Član 130
+U mjesnoj zajednici građani odlučuju i učestvuju u odlučivanju o ostvarivanju lokalnih potreba i interesa u oblastima: uređivanja naselja; stanovanja; izgradnje, održavanja i zaštite lokalnih i nekategorisanih puteva; izgradnje, održavanja i zaštite objekata za vodosnabdijevanje i tretman otpadnih voda; prevoza putnika u lokalnom saobraćaju; zaštite potrošača; kulture; fizičke kulture; zaštite i unaprjeđivanja životne sredine; izgradnje i održavanja druge lokalne infrastrukture kao u drugim oblastima od značaja za život i rad lokalnog stanovništva na tom području.

@@ -1,0 +1,33 @@
+# Član 43
+## 1.2. Poslovi Skupštine
+Skupština:
+1) donosi statut opštine;
+2) donosi propise i druge opšte akte;
+3) donosi strateški plan razvoja opštine;
+4) donosi planove i programe razvoja za pojedine oblasti;
+5) donosi urbanističke projekte;
+6) donosi program uređenja prostora, odnosno plan komunalnog opremanja;
+7) donosi budžet i završni račun budžeta;
+8) uvodi i utvrđuje opštinske poreze, takse, naknade i druge sopstvene prihode;
+9) raspolaže nepokretnom imovinom, osim u slučajevima otuđenja imovinskih prava na nepokretnostima neposrednom pogodbom, utvrđenim zakonom kojim se uređuje državna imovina;
+10) utvrđuje uslove za osnivanje mjesnih zajednica i daje saglasnost na odluke o osnivanju;
+11) raspisuje referendum za teritoriju opštine ili za dio teritorije;
+12) odlučuje o građanskoj inicijativi;
+13) odlučuje o raspisivanju samodoprinosa za teritoriju opštine;
+14) osniva javne službe;
+15) odlučuje o zaduživanju i davanju garancija, u skladu sa zakonom;
+16) vrši potvrđivanje mandata i odlučuje o pravima odbornika;
+17) donosi odluku o skraćenju mandata skupštine;
+18) bira i razrješava predsjednika skupštine, predsjednika opštine i potpredsjednika skupštine;
+19) daje saglasnost na odluku o imenovanju i razrješenju potpredsjednika opštine;
+20) imenuje sekretara skupštine, na predlog predsjednika skupštine;
+21) imenuje članove radnih tijela skupštine;
+22) imenuje i razrješava članove organa upravljanja javnih službi;
+23) razmatra i usvaja izvještaj o radu predsjednika opštine i radu organa i službi;
+24) razmatra godišnje planove i izvještaje o radu javnih službi čiji je osnivač opština;
+25) razmatra izvještaj o realizaciji preporuka Državne revizorske institucije;
+26) donosi poslovnik o svom radu;
+27) donosi etički kodeks;
+28) donosi odluku o zaradama lokalnih funkcionera i lica koja imenuje Skupština;
+29) donosi odluku o zaradama lokalnih službenika i namještenika;
+30) vrši i druge poslove utvrđene zakonom, ovim statutom i posebnim odlukama.
