@@ -1,0 +1,2 @@
+Na osnovu člana 42. Statuta Opštine Ulcinj ("Službeni list CG-opštinski propisi"broj 5/07, 9/09 i 16/11), i člana 10 Odluke o obrazovanju radnih tijela Skupštine ("Službeni list CG-opštinski propisi"broj 17/08 i 37/14), Skupština Opštine na sjednici održanoj dana 30.10.2018. godine donijela je
+O D L U K U O IZMJENAMA I DOPUNAMA ODLUKE O OBRAZOVANJU I ODREĐIVANJU ODBORNIKA KOJI PRISUSTVUJE SKLAPANJU BRAKA
