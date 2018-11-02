@@ -1,0 +1,3 @@
+# Član 94
+Danom stupanja na snagu ove odluke ukida se dio poslova Službe gradonačelnika u oblasti saradnje sa medijima i oblasti prijema zahtjeva građana i drugih zainteresovanih subjekata za informisanje o načinu ostvarivanja prava i obaveza pred organima lokalne samouprave, lokalne uprave i javnih službi, njihovo prosljeđivanje nadležnim organima i službama i dostavljanje povratne informacije podnosiocu u roku od 48 časova od časa prijema i vođenja evidencije o primljenim zahtjevima i rokovima dostavljanja povratne informacije.
+Ukinute poslove iz stava 1 ovog člana, zaposlene na tim poslovima, opremu i predmete preuzima Služba za odnose sa javnošću u djelokrugu propisanom ovom odlukom, u roku od sedam dana od dana imenovanja vršioca dužnosti rukovodioca te službe.

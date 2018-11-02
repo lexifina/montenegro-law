@@ -1,0 +1,3 @@
+Na osnovu člana 58 stav 1 tačka 7 i člana 70 stav 2 Zakona o lokalnoj samoupravi (,,Sl. list CG", br. 02/18) i člana 72 stav 1 tačka 6 Statuta Glavnog grada (,,Sl. list RCG - Opštinski propisi",br. 28/06 ,,Sl. list CG - Opštinski propisi", br. 39/10, 18/12, 38/17), a u vezi sa članom 18 stav 1 Zakona o Glavnom gradu (,,Sl. list RCG", br. 65/05, ,,Sl. list CG", br. 88/09, 72/10, 02/16, 31/17), po pribavljenom mišljenju glavnog administratora br.01-02-034/18-2977 od 29. oktobra 2018. godine, gradonačelnik Glavnog grada, dana 29. oktobra 2018. godine, donio je
+ODLUKU
+o organizaciji i načinu rada uprave Glavnog grada

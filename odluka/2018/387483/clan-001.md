@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom organizuje se lokalna uprava Glavnog grada, obrazuju organi lokalne uprave (u daljem tekstu: organi uprave), posebne službe i službe koje vrše zajedničke i stručne poslove za potrebe Glavnog grada (u daljem tekstu: stručne službe), uređuje njihov djelokrug, način rada, kriterijumi za unutrašnju organizaciju i sistematizaciju organa uprave i službi i druga pitanja od značaja za rad lokalne uprave.
