@@ -1,0 +1,4 @@
+# Član 152
+Radi zajedničkog vršenja određenih poslova iz sopstvene nadležnosti, opština može zaključiti poseban ugovor sa drugom opštinom, ako je to u njihovom zajedničkom interesu.
+Ugovorom iz prethodnog stava uređuje se naziv i sjedište zajedničkog organa privrednog društva, ustanove ili druge organizacije, stvarna i mjesna nadležnost, vrsta, obim i način obavljanja zajedničkih poslova, način rada, odlučivanja i finansiranja, nadzor nad radom, posebna prava i obaveze zaposlenih kao i druga pitanja od značaja za osnivanje, rad i prestanak rada.
+Nadležni organ lokalne uprave, odnosno posebne službe, koji na osnovu ugovora vrši poslove iz stave 1 ovog člana, dužan je da podnese godišnji izvještaj o radu, izvještaj o finansijskom poslovanju i godišnji program rada opštinama koje su zaključile ugovor radi zajedničkog vršenja određenih poslova.
