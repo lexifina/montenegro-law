@@ -1,0 +1,2 @@
+# Član 2
+Javni sektor iz člana 1 ove uredbe čine državni organi, organi državne uprave, nadležni organi opštine, Glavnog grada, opštine u okviru Glavnog grada i Prijestonice, organi lokalne uprave, sudovi, državno tužilaštvo, privredna društva u većinskom vlasništvu države koja obavljaju poslove od javnog interesa, diplomatska i konzularna predstavništva Crne Gore u inostranstvu i institucije i službe čiji je osnivač Crna Gora, odnosno opština (u daljem tekstu: korisnik).
