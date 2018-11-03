@@ -1,0 +1,7 @@
+# Član 7
+Službenik za javne nabavke sprovodi nabavku u skladu sa dostavljenim zahtjevom i po proceduri koja je definisana ovim Pravilnikom.
+Zadatak službenika za javne nabavke je da pripremi zahtjev za dostavljanje ponuda, uputi zahtjev za podnošenje ponuda, izvrši prijem ponuda, sačini zapisnik o prijemu, pregledu, ocjeni i vrednovanju ponuda, pripremi prijedlog obavještenja o ishodu postupka nabavke male vrijednosti i ugovor o nabavci (ukoliko je primjenjivo).
+Prije pokretanja nabavke male vrijednosti organ uprave, posebna službe, stručna službe ili javna ustanove na čiji zahtjev se pokreće procedura nabavke male vrijednosti, u obavezi je da izvrši istraživanje tržišta, posebno, tržišnu cijenu roba, usluga ili radova koji su predmet nabavke u cilju upućivanja poziva za dostavljanje ponude ponuđaču.
+Predmet nabavke mora da bude opisan potpuno, jasno i razumljivo, na način koji omogućava podnošenje odgovarajuće ponude po vrsti, kvalitetu, cijeni, kao i po drugim potrebnim svojstvima i uslovima.
+U opisu predmeta nabavke navode se podaci o količini, mjestu i rokovima izvršenja ili posebni zahtjevi u pogledu načina izvršenja predmeta javne nabavke, koji su od značaja za izradu ponude i izvršenje nabavke, uključujući i podatke koji su od značaja za zaštitu životne sredine, energetsku efikasnost ili socijalne zahtjeve.
+Izvršenje nabavke prati i kontroliše starješina organa uprave, posebne službe, stručne službe ili javne ustanove Glavnog grada Podgorica na čiji zahtjev se pokreće procedura.

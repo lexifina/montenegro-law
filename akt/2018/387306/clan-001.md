@@ -1,0 +1,2 @@
+# Član 1
+Ovim Pravilnikom se uređuju postupci, pravila i uslovi za nabavku roba i usluga za potrebe organa uprave, posebnih službi, stručnih službi i javnih ustanova Glavnog grada Podgorica čija je ukupna procijenjena vrijednost na godišnjem nivou manja od 15.000,00 eura sa PDV-om i za ustupanje izvođenja radova čija je ukupna procijenjena vrijednost na godišnjem nivou manja od 30.000,00 eura sa PDV-om, na koje se ne primjenjuje Zakon o javnim nabavkama.
