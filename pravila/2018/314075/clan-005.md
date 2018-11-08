@@ -1,0 +1,11 @@
+# Član 5
+## Dozvoljena ulaganja i opšta ograničenja u poslovanju
+Specijalizovani investicioni fond može ulagati u finansijske intrumente uređene zakonom kojim se uređuje tržište kapitala i u nekretnine, pri čemu se u osnivačkim aktima moraju konkretno navesti oblici i kategorije imovine u koje fond namjerava da ulaže svoja sredstva.
+Specijalizovani investicioni fond je obavezan da ulaže svoja sredstva u skladu sa investicionom politikom definisanom u osnivačkim aktima fonda, a usklađenost ulaganja fonda sa osnivačkim aktima kontroliše depozitar fonda.
+Specijalizovani investicioni fond ne smije izdavati obveznice i odobravati kredite i zajmove iz svoje imovine niti garantovati za obaveze trećih lica.
+Specijalizovani investicioni fond treba da osnivačkim aktima propiše maksimalnu godišnju naknadu koju može naplatiti društvo za upravljanje.
+Društvo za upravljanje ne može donijeti odluku o povećanju godišnje naknade za upravljanje bez pisane saglasnosti većine vlasnika investicionih jedinica specijalizovanog investicionog fonda.
+U slučaju povećanja godišnje naknade za upravljanje, specijalizovani investicioni fond treba da upozna vlasnike investicionih jedinica sa tom odlukom i da im omogući da u roku, koji ne može biti kraći od 90 dana od dana javnog objavljivanja odluke o povećanju naknade, otkupe investicione jedinice pod uslovima koji su važili prije povećanja.
+Specijalizovani investicioni fonda je obavezan da u svojim osnivačkim aktima precizira iznos ulazne naknade prilikom kupovine investicionih jedinica i iznos izlazne naknade prilikom otkupa investicionih jedinica, pri čemu iznos izlazne naknade ne može biti veći od 5% od neto vrijednosti imovine po investicionoj jedinici.
+Društvo za upravljanje ne može donijeti odluku o povećanju ulazne i izlazne naknade za upravljanje bez pisane saglasnosti većine vlasnika investicionih jedinica.
+U slučaju povećanja ulazne i izlazne naknade, specijalizovani investicioni fond treba da upozna vlasnike investicionih jedinica sa tom odlukom i da im omogući da u roku, koji ne može biti kraći od 90 dana od dana javnog objavljivanja odluke o povećanju naknade, otkupe investicione jedinice pod uslovima koji su važili prije povećanja naknade.
