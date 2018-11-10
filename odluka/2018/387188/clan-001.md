@@ -1,0 +1,3 @@
+# Član 1
+## o naknadi za rad stalnih radnih tijela Skupštine Glavnog grada obrazovanih posebnim odlukama
+Ovom odlukom utvrđuju se uslovi i visina naknade za rad članova stalnih radnih tijela Skupštine Glavnog grada, i to: Savjeta za razvoj i zaštitu lokalne samouprave Glavnog grada-Podgorice, Etičke komisije za izabrane predstavnike i funkcionere u lokalnoj samoupravi Glavnog grada- Podgorice, Etičke komisije za lokalne službenike i namještenike Glavnog grada-Podgorice, Savjeta za pitanja mladih Glavnog grada-Podgorice i Savjeta za saradnju Glavnog grada-Podgorice i nevladinih organizacija, i druga pitanja od značaja za ostvarivanja prava na naknadu za rad.

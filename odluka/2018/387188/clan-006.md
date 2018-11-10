@@ -1,0 +1,2 @@
+# Član 6
+Danom početka primjene ove odluke prestaje da važi Odluka o naknadi za rad članova Savjeta za razvoj i zaštitu lokalne samouprave Glavnog grada- Podgorice ("Službeni list CG-opštinski propisi", br. 37/11 i 18/13) i Odluka o naknadi za rad članova Etičke komisije za izabrane predstavnike i funkcionere u lokalnoj samoupravi Glavnog grada-Podgorice ("Službeni list CG - opštinski propisi", broj 18/13).
