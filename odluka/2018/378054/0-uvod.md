@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Sl.list CG" br. 2/2018), čl. 61 Zakona o finansiranju lokalne samouprave ("Sl.list RCG" br. 42/2003, 44/2003 i "Sl.list CG" br. 05/2008, 51/2008, 74/2010, 1/2015, 3/2016, 30/2017 i 92/2017), i čl. 21, čl.34 stav 1 tačka 16 i člana 42 stav 3 Statuta Opštine Pljevlja ("Sl.list RCG" br:37/04 i 30/07 i "Sl.list CG- Opštinski propisi" br. 32/09 i 14/11), Skupština Opštine Pljevlja na sjednici održanoj dana 02.11. 2018.godine, donijela je:
+ODLUKU
