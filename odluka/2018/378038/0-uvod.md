@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Službeni list CG", br . 02/18), Zakona o zaradama zaposlenih u javnom sektoru ( "Sl. list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18), člana 42 Statuta opštine Rožaje ("Sl. list CG - Opštinski propisi", br. 09/11 i 31/16), Skupština opštine Rožaje, uz prethodno pribavljenu saglasnost Ministarstva finansija, na sjednici održanoj dana 25.10.2018 godine, donijela je
+O D L U K U
