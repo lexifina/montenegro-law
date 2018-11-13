@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom propisuje se roba čiji je izvoz zabranjen, a namijenjena je za lišavanje života lica i roba čijom primjenom lice može da se izloži mučenju prilikom ograničavanja slobode, kontrole, nemira ili samozaštite i roba čiji uvoz i izvoz nijesu zabranjeni, a koja može da se koristi za usmrćivanje lica ubrizgavanjem smrtonosne injekcije (anestetička sredstva barbiturati sa kratkoročnim ili srednjoročnim djelovanjem).
