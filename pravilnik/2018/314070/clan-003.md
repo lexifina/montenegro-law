@@ -1,0 +1,4 @@
+# Član 3
+Stručni nadzor nad građenjem složenih inženjerskih objekata vrši privredno društvo, pravno lice ili preduzetnik, koji u skladu sa Zakonom o planiranju prostora i izgradnji objekata (u daljem tekstu: Zakon) ima licencu za obavljanje poslova revizije tehničke dokumentacije i stručnog nadzora, odnosno komisija koju čine fizička lica koja ispunjavaju uslove u skladu sa Zakonom (u daljem tekstu: stručni nadzor).
+Na osnovu revidovanog glavnog projekta, stručni nadzor utvrđuje faze građenja za koje je neophodno sačiniti izvještaj i priprema plan prijema radova koji dostavlja investitoru, nadležnom inspekcijskom organu i privrednom društvu, pravnom licu odnosno preduzetniku koji gradi objekat (u daljem tekstu: izvođač radova).
+Obaveznim fazama iz stava 2 ovog člana smatraju se radovi koji se nakon završetka izvođenja ne mogu kontrolisati.
