@@ -1,0 +1,2 @@
+Na osnovu člana 47 stav 3 i člana 49 Zakona o uređenju prostora i izgradnji objekata ("Sl. list CG", br. 51/08, 40/10, 34/11, 47/11, 35/13, 39/13 i 33/14) i člana 42 Statuta opštine Rožaje ("Sl. list CG - Opštinski propisi", br. 09/11 i 31/16), a uz Saglasnost Ministarstva održivog razvoja i turizma, br.104-1956/6 od 26.09.2018.godine, Skupština opštine Rožaje, na sjednici održanoj dana 25.10.2018. godine, donijela je
+O D L U K U
