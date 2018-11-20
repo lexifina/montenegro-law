@@ -1,0 +1,2 @@
+Na osnovu čl.29 stav 2 Zakona o državnoj imovini ("Sl. list CG" broj 21/09 i 40/11), a u vezi sa članom 59 stav 2 Zakona o lokalnoj samoupravi ("Sl. list CG" br.2/18) i čl. 33 stav 1 tačka 9 Statuta opštine Pljevlja ("Sl. list RCG - opštinski propisi" br. 37/04, 30/07 i "Sl. list CG - opštinski propisi" broj 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici održanoj dana 02.11.2018. godine, donijela je
+O D L U K U
