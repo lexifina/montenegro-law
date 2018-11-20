@@ -1,0 +1,7 @@
+# Član 1
+## o razmjeni zemljišta između Opštine Pljevlja i DOO Bambis group Podgorica i Marković Bogdana
+Daje se saglasnost za razmjenu zemljišta između Opštine Pljevlja i DOO Bambis group Podgorica iz Podgorice i Marković Mirka Bogdana iz Beograda, radi regulisanja imovinsko pravnih odnosa na seoskom putu u selu Vrulja, na način što:
+-
+Opština Pljevlja, kao subjekt prava raspolaganja, prenosi u svojinu DOO Bambis group Podgorica katastarsku parcelu broj 1621/3, neplodno zemljište površine 456,00m2, upisanu u listu nepokretnosti broj 86 KO Vrulja, a DOO Bambis group Podgorica prenosi u svojinu Opštini Pljevlja zemljište označeno katastarskim parcelama broj 1531/5, livada 5.klase, površine 485,00m2 i parcelu broj 1531/11, livada 5.klase, površine 123,00m2 (ukupno 608,00m2) iz lista nepokretnosti broj 168 KO Vrulja,
+-
+Opština Pljevlja, kao subjekt prava raspolaganja, prenosi u svojinu Marković Mirka Bogdanu katastarsku parcelu broj 1621/2, neplodno zemljište površine 1370,00m2, upisanu u listu nepokretnosti broj 86 KO Vrulja, a Marković Bogdan prenosi u svojinu Opštini Pljevlja zemljište označeno katastarskim parcelama broj 1531/6, livada 5.klase, površine 623,00m2, broj 1531/8, livada 5.klase, površine 849,00m2, parcela broj 1531/10, livada 5.klase, površine 68,00m2 i parcela broj 1531/14, livada 5.klase, površine 144,00m2 (ukupno 1684,00m2) iz lista nepokretnosti broj 82 KO Vrulja.
