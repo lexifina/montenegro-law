@@ -1,0 +1,2 @@
+Na osnovu člana 16. i člana 137. stav 2. Zakona o sportu ("Sl. list CG", br. 44/18 ), člana 38. stav 1, tačka 4. Zakona o lokalnoj samoupravi ( "Sl.list CG", br.2/18) i člana 34. Statuta Opštine Pljevlja ( "Sl. list RCG - Opštinski propisi", br. 37/04, 30/07, "Sl. list CG - Opštinski propisi", br. 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici održanoj dana 02.11.2018. godine, donijela je
+O D L U K U O USVAJANJU STRATEGIJE RAZVOJA SPORTA OPŠTINE PLJEVLJA ZA PERIOD 2018-2021.
