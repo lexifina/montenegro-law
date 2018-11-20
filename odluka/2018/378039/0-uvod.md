@@ -1,0 +1,2 @@
+Na osnovu člana 69 Zakona o budžetu ("Sl.list RCG", br. 40/01, 44/01, 28/04 i 71/05 i "Sl.list CG" br. 12/07, 73/08, 53/09, 46/10, 49/10, 20/14, 56/14, 70/17 i 4/18), člana 55 i 56 Zakona o finansiranju lokalne samouprave ("Sl.list RCG" br. 42/03, 44/03 i "Sl.list CG" br. 5/08, 51/08, 74/10, 1/15, 78/15, 3/16, 30/17 i 92/17) i člana 38 stav 1 tačka 7 Zakona o lokalnoj samoupravi ("Sl.list CG" broj 2/18) Skupština Opštine Plužine, na sjednici održanoj 29.10.2018. godine, donijela j e:
+ODLUKU O USVAJANJU ZAVRŠNOG RAČUNA BUDŽETA OPŠTINE PLUŽINE ZA 2017. GODINU
