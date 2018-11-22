@@ -1,0 +1,2 @@
+Na osnovu člana 135 stav 1 tačka 1 i 7 Opšteg zakona o obrazovanju i vaspitanju (Sl. list Crne Gore", br. 64/02 31/05, 49/07, "SL. list Crne Gore", br. 45/10, 45/11, 39/13, 44/13, 47/17), člana 27 stav 1 tačka 15 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("SL. list Crne Gore", br. 02/18), člana 63 stav 1 tačka 2 Statuta Prijestonice ("Službeni list Crne Gore - opštinski propisi" br. 19/09, 37/10, 26/13, 39/14 i 12/16) Skupština Prijestonice Cetinje, na sjednici održanoj dana 26.10. i 06.11.2018. godine, donijela je
+ODLUKU
