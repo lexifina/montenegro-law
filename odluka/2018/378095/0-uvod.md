@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 Zakona o socijalnom stanovanju ("Službeni list CG", br. 35/13), člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 02/18 ) i člana 63 stav 1 tačka 3 Statuta Prijestonice ("Službeni list CG - opštinski propisi", br. 19/09, 37/10, 26/13, 39/14) uz saglasnost Ministarstva održivog razvoja i turizma, broj 111-43/24 od 24.09.2018. godine, Skupština Prijestonice na sjednici održanoj dana , 26.10. i 06.11.2018. godine, donijela je
+O D L U K U
