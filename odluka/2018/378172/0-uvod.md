@@ -1,0 +1,2 @@
+Na osnovu člana 49 Zakona o teritorijalnoj organizaciji Crne Gore ("Službeni list CG", br. 54/11, 26/12, 27/13, 62/13, 12/14, 3/16, 31/17) i člana 3 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Službeni list CG" br. 46/11 i 14/14), Skupština opštine u okviru Glavnog grada- Tuzi, na sjednici održanoj dana 21.11.2018. godine, donosi
+ODLUKU
