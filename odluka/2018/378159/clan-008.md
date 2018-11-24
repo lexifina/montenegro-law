@@ -1,0 +1,2 @@
+# Član 8
+Obveznici plaćanja članskog doprinosa iz člana 1 ove odluke, dužni su da organu uprave Opštine Tuzi nadležanom za poslove lokalnih prihoda, dostave bilans uspjeha do 31. marta tekuće godine za prethodnu godinu (pravna lica), odnosno do kraja aprila tekuće godine za prethodnu godinu (fizička lica-preduzetnici) kao dokaz o visini ostvarenog prihoda u prethodnoj godini, kao i akt nadležnog organa kojim se utvrđuje djelatnost obveznika.
