@@ -1,0 +1,2 @@
+# Član 6
+Prilikom prijema zahtjeva utvrđuje se identitet stranca istraživača, da li je strana putna isprava, odnosno lična karta koju je izdao nadležni organ druge države kojom se dokazuje identitet važeća, da li stranac istraživač zakonito boravi u Crnoj Gori, da li ima izdatu vizu za duži boravak (viza D), da li je ustanova, odnosno pravno ili fizičko lice iz člana 4 ovog pravilnika upisano u Centralni registar privrednih subjekata i da li su uz zahtjev podneseni dokazi o ispunjenosti uslova za izdavanje dozvole.
