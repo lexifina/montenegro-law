@@ -1,0 +1,5 @@
+# Član 7
+Dobrovoljno napuštanje Crne Gore maloljetnog stranca bez pratnje sprovodi organ uprave nadležan za policijske poslove (u daljem tekstu: policija), u saradnji sa partnerskom organizacijom.
+Ako se u postupku dobrovoljnog napuštanja Crne Gore utvrdi da maloljetnog stranca nije moguće predati članu porodice ili se procijeni da to nije u njegovom najboljem interesu, policija će, u saradnji sa partnerskom organizacijom od ustanove za prihvatanje djece u državi povratka pribaviti pisanu saglasnost da će prihvatiti maloljetnog stranca.
+Radi sprovođenja dobrovoljnog napuštanja Crne Gore, policija će maloljetnom strancu bez pratnje, u saradnji sa partnerskom organizacijom, odrediti pratnju sve do prihvatanja od strane člana porodice, imenovanog staratelja ili ustanove za prihvatanje djece u državi povratka.
+Dobrovoljno napuštanje Crne Gore maloljetnog stranca u pratnji roditelja, staratelja, odnosno zakonskog zastupnika sprovodi se u skladu sa propisom kojim se uređuje dobrovoljni odlazak stranaca.
