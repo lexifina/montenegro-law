@@ -1,0 +1,2 @@
+# Član 7
+Administrativna saradnja Ne dovodeći u pitanje članove 31 i 32 Priloga I Konvencije, kako bi se obezbijedila pravilna primjena ovog Aneksa, CEFTA Strane, EU, Farska ostrva, Island, Norveška, Švajcarska (uključujući Lihtenštajn) ili Turska će pomoći jedna drugoj, preko nadležnih carinskih uprava, u provjerama validnosti uvjerenja o kretanju robe EUR.1, izjava o porijeklu ili izjava dobavljača, te tačnosti informacija datih u tim dokumentima.
