@@ -1,0 +1,3 @@
+# Član 35
+Prilikom rješavanja stambene potrebe zaposlenog na način iz člana 9 stav 1 alineja 1,2,3,5 i 6 ove odluke kao sredstvo obezbjeđenja potraživanja prethodno se upisuje hipoteka ili drugo stvarno sredstvo obezbjeđenje na nepokretnostima zaposlenog ili na nepokretnostima trećih lica uz njihovu pisanu saglasnost, najmanje u visini odobrenog kredita ili se primjenjuju druga sredstva stvarnog i ličnog obezbjeđenja potraživanja, do konačne isplate kredita.
+Ako zaposleni u momentu ostvarivanja prava na rješavanje stambene potrebe po ovoj odluci ne posjeduje nepokretnost za sredstva obezbjeđenja iz stava 1 ovog člana, upisaće se hipoteka na nepokretnosti koju je pribavio od sredstava dobijenih po ovoj odluci.
