@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22, a u vezi sa članom 27 stav 1 tačka 22 Zakona o lokalnoj samoupravi (,,Sl.list CG", br. 2/18), člana 25 stav 2 Zakona o poljoprivredi i ruralnom razvoju (,,Sl.list CG", br. 56/09, 18/11, 40/11, 34/14, 1/15, 30/17 i 51/17) i člana 35 stav 1 tačka 2 Statuta opštine Šavnik (,,Sl.list CG", br. 31/18),Skupština opštine Šavnik na sjednici, održanoj, dana 09.11.2018. godine, donijela je
+O D L U K U
