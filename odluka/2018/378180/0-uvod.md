@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 Zakona o kulturi ("Sl listi Crne Gore" , br. 49/08, 16/11, 40/11 i 38/12 ), člana 10 stav 3 Odluke o organizovanju Javne ustanove Centar za kulturu Danilovgrad (''Sl. list CG - opštinski propisi'', br. 12/12) i člana 35 Statuta opštine Danilovgrad (''Sl. list RCG - opštinski propisi'', br. 30/04 i ''Sl. list CG-opštinski propisi'', br. 19/08 i 12/11) Skupština opštine Danilovgrad, na sjednici održanoj 23.11. 2018. godine, donijela je
+O D L U K U
