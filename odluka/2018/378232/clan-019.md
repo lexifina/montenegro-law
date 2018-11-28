@@ -1,0 +1,3 @@
+# Član 19
+Opštinski funkcioner i starješina organa lokalne uprave koji je koristio stambeni kredit do dana stupanja na snagu ove odluke, a ponovo se prijavi na oglas za dodjelu kredita, dodjeljena sredstva vrednovaće se na način da se iznos dodjeljenih kreditnih sredstava preračunava u površinu stana, prema tržišnoj cijeni stana u opštini Šavnik na dan dodjele tog kredita.
+U slučaju da se ovakvim vrednovanjem dobijenog stambenog kredita utvrdi da je opštinski funkcioner i starješina organa lokalne uprave dobio manji iznos od iznosa koji mu pripada, istom se može odobriti razlika do iznosa stambenog kredita po odredbama ove odluke.
