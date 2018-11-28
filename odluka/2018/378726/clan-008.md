@@ -1,0 +1,3 @@
+# Član 8
+Privremeni upravnik saziva skupštinu vlasnika stambene zgrade radi njenog konstituisanja.
+Privremeni upravnik predlaže program održavanja stambene zgrade, stara se o realizaciji programa održavanja stambene zgrade i o tome priprema i podnosi izvještaj za skupštinu stambene zgrade, po sopstvenoj inicijativi obezbjeđuje obavljanje hitnih radova, zaključuje ugovore o zakupu poslovnih prostorija, naplaćuje prihode i izvršava obaveze, predstavlja i zastupa stambenu zgradu, organizuje naplate i prijem uplata u korist računa stambene zgrade, prima i otpušta domara, obezbjeđuje poštovanje pravila etažnih vlasnika, podnosi skupštini izvještaj o svom radu, izvršava i druge poslove koje odredi skupština stambene zgrade, a sve do izbora upravnika stambene zgrade.
