@@ -1,0 +1,3 @@
+# Član 81
+Danom stupanja na snagu ove odluke ukidaju se poslovi Službe za informacione sisteme i zajedničke poslove kao posebne službe.
+Ukinute poslove iz stava 1 ovog člana u djelokrugu utvrđenom ovom odlukom i dio ukinutih poslova Sekretarijata za lokalnu samoupravu u oblasti zaključenja braka, ovjere potpisa, rukopisa i prepisa, kancelarijskog poslovanja, prijema i otpremanja pošte, upisa kvalifikacije obrazovanja i ovjere radnih i volonterskih knjižica, zaposlene na tim poslovima, opremu i predmete preuzima Služba za opšte i zajedničke poslove kao stručna služba, u roku od sedam dana od dana imenovanja vršioca dužnosti rukovodioca te Službe.

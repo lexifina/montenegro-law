@@ -1,0 +1,2 @@
+# Član 74
+Danom stupanja na snagu ove odluke nastavljaju sa radom u okviru djelokruga utvrđenog ovom odlukom: Sekretarijat za lokalnu samoupravu, Sekretarijat za finansije i lokalne javne prihode, Sekretarijat za komunalne poslove i saobraćaj, Sekretarijat za mlade, sport i socijalna pitanja, Sekretarijat za kulturu i društvene djelatnosti, Direkcija za investicije, Komunalna policija, Služba zaštite i spašavanja, Služba predsjednika opštine i Služba glavnog administratora.

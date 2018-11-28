@@ -1,0 +1,3 @@
+# Član 83
+Predsjednik opštine imenovaće vršioce dužnosti sekretara, odnosno direktora organa uprave i rukovodilaca stručnih službi iz člana 76 stav 2, člana 77 stav 2, člana 78 stav 2, člana 79 stav 2, člana 80 stav 2, člana 81 stav 2 ove odluke, u roku od sedam dana od dana stupanja na snagu ove odluke.
+Danom imenovanja vršilaca dužnosti sekretara, odnosno direktora organa uprave i rukovodilaca stručnih službi iz stava 1 ovog člana, prestaje mandat sekretara i pomoćnika sekretara, odnosno direktora i pomoćnika direktora organa uprave i mandat načelnika, odnosno rukovodioca posebnih službi, čiji su poslovi ukinuti.
