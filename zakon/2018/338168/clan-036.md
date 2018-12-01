@@ -1,0 +1,8 @@
+# Član 36
+Novčanom kaznom u iznosu od 500 eura do 4.000 eura kazniće se za prekršaj odgovorno lice u organu uprave i organu lokalne uprave, ako:
+1) ne organizuje javnu raspravu u roku od pet radnih dana od dana prijema zahtjeva za davanje saglasnosti na elaborat i ne obavijesti zainteresovane organe i organizacije i zainteresovanu javnost o načinu, roku i mjestu javnog uvida, načinu dostavljanja primjedbi i mišljenja, kao i o vremenu i mjestu održavanja javne tribine o elaboratu (član 20 stav 1);
+2) danom početka javne rasprave ne objavi na svojoj internet stranici i portalu e-Uprave elaborat za koji je organizovana javna rasprava (član 20 stav 2);
+3) ne obrazuje Komisiju za procjenu uticaja iz reda zaposlenih u nadležnom organu i drugih stručnih lica koja imaju završen najmanje VII-1 nivo nacionalnog okvira kvalifikacija i najmanje pet godina radnog iskustva u struci za pojedine segmente životne sredine (član 21 stav 2);
+4) ne objavi na svojoj internet stranici i portalu e-Uprave odluku o davanju saglasnosti ili odbijanju zahtjeva za davanje saglasnosti na elaborat, izvještaj o razlozima za prihvatanje ili odbijanje primjedaba, predloga i mišljenja zainteresovanih organa i organizacija i zainteresovane javnosti i elaborat, u roku od pet radnih dana od dana donošenja odluke (član 24 stav 5);
+5) ne vodi evidenciju o odlukama o davanju saglasnosti i odbijanju zahtjeva za davanje saglasnosti na elaborat (član 30 stav 1);
+6) ne omogući uvid u dokumentaciju o sprovedenom postupku procjene uticaja, zainteresovanim organima i organizacijama i zainteresovanoj javnosti, na zahtjev podnijet u pisanoj ili elektronskoj formi (član 31 stav 1).
