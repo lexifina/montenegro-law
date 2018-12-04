@@ -1,0 +1,10 @@
+# Član 88
+Kada se izbor Predsjednika opštine vrši javnim glasanjem, glasanje se vrši prozivkom odbornika i jasnim izgovaranjem riječi "Za" "Protiv" ili "Uzdržan"
+Ako je za predsjednika opštine predložen jedan kandidat, a nije dobio potrebnu većinu glasova, postupak izbora se ponavlja sa novim kandidatom ili kandidatima.
+Ako su predložena dva kandidata, a nijedan nakon izvršenog tajnog glasanja, nije dobio potrebnu većinu glasova, postupak se ponavlja sa novim kandidatima.
+Ako je predloženo više od dva kandidata, a nijedan nije dobio potrebnu većinu glasova, postupak glasanja se ponavlja između dva kandidata koji su dobili najveći broj glasova, odnosno između više kandidata koji su dobili najveći jednaki broj glasova.
+Ako ni u ponovnom glasanju iz stava 4 ovog člana nijedan kandidat nije dobio potrebnu većinu glasova, postupak izbora se ponavlja sa novim kandidatima.
+Po završenom glasanju komisija dostavlja izvještaj predsjedavajućem koji saopštava rezultate glasanja za predsjednika opštine i objavljuje koji je kandidat izabran.
+Predsjedniku opštine koji je izabran iz reda odbornika, izborom na funkciju Predsjednika opštine prestaje mandat odbornika.
+Ako se Predsjednik opštine ne izabere u roku od 30 dana od dana konstituisanja Skupštine, na predlog Vlade ili jedne trećine odbornika Skupština donosi odluku o skraćenju svog mandata.
+Odluka iz stava 8 ovog člana donosi se u roku od 15 dana od isteka roka iz člana 85 stav 2 Statuta.

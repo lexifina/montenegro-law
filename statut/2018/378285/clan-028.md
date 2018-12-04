@@ -1,0 +1,2 @@
+# Član 28
+Prvu sjednicu novoizabrane Skupštine saziva predsjednik Skupštine prethodnog saziva, najkasnije u roku od 15 dana od dana objavljivanja konačnih rezultata izbora. Sjednica skupštine održava se najkasnije u roku od 15 dana od dana sazivanja. Prvom sjednicom novoizabrane skupštine, do izbora predsjednika skupštine, predsjedava najstariji odbornik.
