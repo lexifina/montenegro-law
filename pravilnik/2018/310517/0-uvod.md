@@ -1,0 +1,2 @@
+Na osnovu člana 4 st. 2 i 4, člana 5 stav 4, člana 9 stav 3, člana 14 st. 7 i 9, člana 16 stav 2, člana 19 stav 3, člana 32 stav 4 i člana 38 stav 7 Zakona o sjemenskom materijalu poljoprivrednog bilja ("Službeni list RCG", broj 28/06 i "Službeni list CG", broj 61/11 i 48/15), Ministarstvo poljoprivrede i ruralnog razvoja donijelo je
+PRAVILNIK O IZMJENI PRAVILNIKA O PROIZVODNJI I STAVLJANJU U PROMET VEGETATIVNIH DJELOVA ZA UMNOŽAVANJE POVRĆA I RASADA POVRĆA*
