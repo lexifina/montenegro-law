@@ -1,0 +1,2 @@
+Na osnovu člana 9 stav 1 Zakona o bezbjednosti saobraćaja na putevima ("Sl. list CG", broj 33/12, 58/14 i 14/17 ), člana 27 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18 ), člana 35 Statuta Opštine Danilovgrad (’’Službeni list RCG - opštinski propisi’’, br. 30/04 i ’’Službeni list CG - opštinski propisi’’ br.19/08 i 12/11) i Glavnog projekta tehničkog regulisanja saobraćaja u Danilovgradu, Skupština Opštine Danilovgrad, na sjednici održanoj 23.11.2018. godine, donijela je
+O D L U K U
