@@ -1,0 +1,2 @@
+Na osnovu člana 96b Zakona o elektronskim medijima ("Sl. list CG", br. 46/10, 46/10, 40/11, 53/11, 6/13, 55/16 i 92/17) i Odluke o raspisivanju izbora za odbornike u Skupštini opštine Tuzi ("Sl.list CG", br. 77/18), Savjet Agencije za elektronske medije, na sjednici održanoj 07.12.2018.godine, je donio
+P R A V I L N I K O PRAVIMA I OBAVEZAMA EMITERA TOKOM KAMPANJE ZA IZBORE ZA ODBORNIKE U SKUPŠTINI OPŠTINE TUZI, KOJI ĆE BITI ODRŽANI 03. MARTA 2019. GODINE
