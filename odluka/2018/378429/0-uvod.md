@@ -1,0 +1,3 @@
+Na osnovu člana 57 stav 1 tačka 6 Zakona o lokalnoj samoupravi ("Sl. list RCG br.42/03, 28/04, 75/05, 13/06, 88/09, 3/10, 73/10, 38/12,10/14, 57/14,03/16) i člana 34 stav 1 tačka 21 Statuta Opštine Bijelo Polje ("Službeni list Crne Gore-opštinski prpisi", br.25/04, 33/06 i "Službeni list Crne Gore-opštinski prpisi", br. 18/10, 32/13 i 47/17), a u vezi člana 207 Zakona o lokalnoj samoupravi ’’(Sl. list CG’’ br. 2/08), Skupština opštine Bijelo Polje, na sjednici održanoj dana 10 i 11.12. 2018.godine, donijela je
+O D L U K U
+o davanju saglasnosti na Odluku predsjednika Opštine br. 01-7884 od 03.09.2018. godine o imenovanju
