@@ -1,0 +1,2 @@
+# Član 87
+Odredbe posebnih zakona kojima su osnovane: Agencija za elektronske komunikacije i poštansku djelatnost, Agencija za ljekove i medicinska sredstva, Agencija za mirno rješavanje radnih sporova, Agencija za nadzor osiguranja, Agencija za zaštitu konkurencije, Fond penzijskog i invalidskog osiguranja Crne Gore, Fond za zdravstveno osiguranje Crne Gore i Fond rada uskladiće se sa ovim zakonom u roku od 12 mjeseci od dana stupanja na snagu ovog zakona.
