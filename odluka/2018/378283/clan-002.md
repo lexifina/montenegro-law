@@ -1,0 +1,2 @@
+# Član 2
+Poslovni prostor iz člana 1 ove odluke ustupa se na privremeno korišćenje na period od 5 (pet) godina, sa mogućnošću produženja vremena korišćenja, uz naknadu od 9,00 E/m2 mjesečno, što za površinu od 353,00 m2 iznosi ukupno 3.177,00 € mjesečno, a sve prema Procjeni vrijednosti zakupnine nepokretnosti od 04.09.2018.godine, urađenoj od strane Komisije formirane Rješenjem predsjednika Opštine Nikšić, broj 02-031-994 od 15.05.2015.godine.
