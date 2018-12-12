@@ -1,0 +1,3 @@
+Na osnovu člana 164 stav 9 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", br. 64/17), člаnа 38 stav 1 tačka 2 i 8 Zаkоnа о lоkаlnој sаmоuprаvi ("Službeni list CG", br. 2/18) i člana 34 Statuta Opštine Plav ("Službeni list RCG - Opštinski propisi", broj17/07 i "Službeni list CG - Opštinski propisi ", broj 25/09 i 38/10), uz prethodnu saglasnost Ministarstva održivog razvoja i turizma br.101-25/392, od 22.10.2018. godine, Skupština Opštine Plav na sjednici održanoj dana 22.11.2018.godine, donijela je
+ODLUKU
+o naknadi za komunalno opremanje građevinskog zemljišta za bespravne objekte
