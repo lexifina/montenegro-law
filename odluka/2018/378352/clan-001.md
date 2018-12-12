@@ -1,0 +1,3 @@
+# Član 1
+## Nevladinom udruženju NVO "Izvor života" Nikšić
+Opština Nikšić, kao nosilac prava raspolaganja, na nepokretnosti-objektu broj 1, zgradi Mjesne zajednice Centar II, u ulici Novaka Ramova, ukupne površine 90 m2, poseban dio 1, koji se nalazi na katastarskoj parceli broj 2346, upisan u listu nepokretnosti broj 2850 KO Nikšić, daje dio zgrade Mjesne zajednice Centar II bez naknade na privremeno korišćenje, u površini od 75,50 m2, Nevladinom udruženju NVO "Izvor života" Nikšić, za potrebe otvaranja narodne kuhinje, dok dio objekta u površini od 14,50 m2 ostaje za potrebe Mjesne zajednice Centar II.
