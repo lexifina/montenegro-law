@@ -1,0 +1,7 @@
+# Član 4
+Lice
+iz
+člana
+1
+oveodlukestičepravoupisasvojinenapredmetnojnepokretnostikodupravezanekretnine
+- PodručnajedinicaKolašin, nakonizmirenjaugovorneobaveze.
