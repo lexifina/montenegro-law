@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2, člana 39 stav 1 i člana 40 stav 1 Zakona o državnoj imovini ("Sl. list CG" br. 21/09 i 40/11), člana 4 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl. list CG" br. 44/10) i 32 tačka 9 Statuta opštine Žabljak ("Sl.list CG - opštinski propisi", br. 27/18), Skupština opštine Žabljak, na sjednici održanoj dana 13.12.2018. godine, d o n i j e l a j e
+O D L U K U
