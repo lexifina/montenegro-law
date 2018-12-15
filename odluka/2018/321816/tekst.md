@@ -1,0 +1,7 @@
+Na osnovu člana 17 stav 1 alineja 1 Statuta Komore fizioterapeuta Crne Gore ("Službeni list Crne Gore" broj 44/2017), Skupština Komore fizioterapeuta Crne Gore je 15.12.2018. godine donijela
+ODLUKU O BODOVANJU DODATNIH USAVRŠAVANJA ODRŽANIH PRIJE OSNIVANJA KOMORE FIZIOTERAPEUTA CRNE GORE
+1. Bodovaće se sva dodatna usavršavanja koja su pohađali fizioterapeutski tehničari, viši fizioterapeutski tehničari, bachelori primijenjene fizioterapije i specijalisti primijenjene fizioterapije prije osnivanja Komore fizioterapeuta Crne Gore, a prema Pravilniku o kontinuiranoj edukaciji i načinu vrednovanja svih oblika stručnog usavršavanja fizioterapeuta i fizioterapeutskih tehničara.
+2. Ova Odluka se odnosi na fizioterapeutske tehničare, više fizioterapeutske tehničare, bachelore primijenjene fizioterapije i specijaliste primijenjene fizioterapije koji su nakon sticanja diplome pohađali razne oblike dodatnog usavršavanja.
+3. Evidencija bodova će se vršiti u cilju obnavljanja prve javne isprave kojom se dokazuje stručna osposobljenost za neposredan rad i vršenje fizioterapeutske zdravstvene djelatnosti.
+4. Za sprovođenje ove Odluke nadležna je Stručna služba Komore fizioterapeuta Crne Gore kojoj fizioterapeutski tehničari, viši fizioterapeutski tehničari, bachelori primijenjene fizioterapije i specijalisti primijenjene fizioterapije dostavljaju Zahtjev za bodovanje prisustva sa određenog dodatnog usavršavanja uz kopiju potvrde/sertifikata o učešću.
+5. Ova Odluka stupa na snagu danom donošenja, a važi do 31.12.2019. godine.
