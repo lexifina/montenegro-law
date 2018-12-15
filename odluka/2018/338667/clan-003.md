@@ -1,0 +1,2 @@
+# Član 3
+U Pravilniku o kontinuiranoj edukaciji i načinu vrednovanja svih oblika stručnog usavršavanja fizioterapeuta i fizioterapeutskih tehničara u članu 5 stav 1 se mijenja i glasi: »Fizioterapeuti i fizioterapeutski tehničari moraju da prođu provjeru stručnosti svakih sedam godina radi obnavljanja javne isprave kojom se dokazuje stručna osposobljenost za neposredan rad i vršenje fizioterapeutske zdravstvene djelatnosti.«.

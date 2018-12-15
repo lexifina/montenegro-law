@@ -1,0 +1,2 @@
+# Član 2
+U Pravilniku o kontinuiranoj edukaciji i načinu vrednovanja svih oblika stručnog usavršava- nja fizioterapeuta i fizioterapeutskih tehničara u članu 1 dodaje se stav 4 koji glasi: »Termin "fizio- terapeut" se odnosi na zdravstvene radnike koji su završili više i visoko obrazovanje, dok se termin "fizioterapeutski tehničar" odnosi na zdravstvene radnike koji su završili srednje obrazovanje.«.

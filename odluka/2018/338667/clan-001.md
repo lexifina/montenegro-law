@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o kontinuiranoj edukaciji i načinu vrednovanja svih oblika stručnog usavršavanja fizioterapeuta i fizioterapeutskih tehničara u članu 1 stav 3 mijenja se i glasi: »Prema ovom Pravilniku fizioterapeuti i fizioterapeutski tehničari su u obavezi stručno da se usavršavaju i provjeravaju stručnost radi sticanja uslova za produženje javne isprave kojom se dokazuje stručna osposobljenost za neposredan rad i vršenje fizioterapeutske zdravstvene djelatnosti.«.
