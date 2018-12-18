@@ -1,0 +1,41 @@
+# Član 2
+Planom je obuhvaćeno područje površine cca 151,26 ha. Prostor ovog planskog dokumenta ograničen je: na zapadu trasom željezničke pruge Beograd-Bar, a na sjeveru Bulevarom Josipa Sladea. Istočno i južno od granice zahvata planskog dokumenta su zasadi kompanije "13. jul Plantaže" a.d.
+Koordinate prelomnih tačaka granice zahvata Plana su sljedeće:
+X
+Y
+6604852.
+51
+4697721.
+05
+6604729.
+21
+4697777.
+56
+6604714.
+15
+4697752.
+47
+6604198.
+94
+4697952.
+56
+6603703.
+13
+4696820.
+72
+6603357.
+49
+4695778.
+78
+6603791.
+24
+4695622.
+43
+6604021.
+27
+4696302.
+50
+6604306.
+23
+4696212.
+52
