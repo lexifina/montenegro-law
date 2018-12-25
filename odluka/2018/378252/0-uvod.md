@@ -1,0 +1,2 @@
+Na osnovu člana 217. Zakona o planiranju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 64/18, 44/18 i 63/18), člana 31. Zakona o uređenju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14), člana 74. Statuta Glavnog grada ("Službeni list RCG - opštinski propisi", br. 28/06, Službeni list Crne Gore - opštinski propisi", br. 39/10, 18/12, 38/17), Gradonačelnik Glavnog grada Podgorice donio je
+ODLUKU O IZMJENI ODLUKE O IZRADI DETALJNOG URBANSITIČKOG PLANA "DRAČ-VATROGASNI DOM" U PODGORICI

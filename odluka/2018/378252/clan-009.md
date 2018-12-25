@@ -1,0 +1,62 @@
+# Član 9
+Sekretarijat za opštu upravu i društvene djelatnosti vrši poslove koji se odnose na:
+- praćenje i unapređivanje sistema lokalne samouprave;
+- izradu propisa koji se odnose na sistem lokalne samouprave, organizaciju lokalne uprave i drugih propisa;
+- izradu propisa o mjesnim zajednicama i poslove vezane za osnivanje i rad mjesnih
+zajednica;
+- administrativno-tehničke poslove za rad mjesnih zajednica;
+- izradu propisa o učešću lokalnog stanovništva u vršenju javnih poslova, saradnji sa nevladinim organizacijama, učešću predstavnika građana i NVO-a u radu skupštine;
+- upravljanje ljudskim resursima i vođenje propisane kadrovske evidencije;
+- postupak zaključenja braka, vođenje matičnog registra vjenčanih;
+- ovjeru prepisa, potpisa i rukopisa;
+- izdavanje radnih i volonterskih knjižica;
+- organiziciono-tehničke poslove u vezi sa sprovođenjem izbora,
+- izradu i sprovođenje propisa koji se odnose na upotrebu pečata;
+- razvoj preduzetništva, unapređenje poslovnog ambijenta, podsticanje otvaranja novih radnih mjesta i zapošljavanja;
+- utvrđivanje ispunjenosti uslova za tehničku opremljenost poslovnih prostora i izdavanje odobrenja za obavljanje, odnosno rješenja o prestanku obavljanja djelatnosti;
+- dostavu podataka o privrednim subjektima nadležnom organu radi upisa u Centralni turistički registar;
+- staranje o organizovanju organa u stambenim zgradama i vođenje njihovog registra; postupak iseljenja iz zajedničkih ili posebnih djelova stambene zgrade; nadzor nad izvođenjem hitnih radova koje obezbjeđuje opština;
+- evidenciju o nazivima naselja, ulica, trgova i brojevima zgrada;
+- uređivanje i obezbjeđivanje uslova za razvoj kulture i zaštitu kulturnih dobara kroz pripremu propisa, programa i drugih akata vezanih za razvoj kulture u Opštini u pozorišnoj, bibliotečkoj, muzejskoj, kinematografskoj, arheološkoj i drugim oblastima razvoja kulture, umjetničkog stvaralaštva i kulturno-umjetničkog amaterizama; vođenje registra, zaštitu i održavanje spomenika kulture i spomen obilježja; izradu programa podizanja spomen-obilježja; organizovanje kulturnih manifestacija i druge poslove u oblasti kulture;
+- iniciranje i podrška mjerama u oblasti primarne zdravstvene zaštite;
+- iniciranje i podršku mjerama u oblasti obrazovanja;
+- stvaranje uslova za razvoj i unapređenje sporta djece, omladine i građana;
+- dodjeljivanje nagrada i priznanja u oblasti sporta; izrada programa finansiranja aktivnosti u sportu i sportskih manifestacija;
+- ostvarivanje prava iz oblasti socijalne i dječje zaštite;
+- ostvarivanje rodne ravnopravnosti i zaštita ljudskih i manjinskih prava;
+- vođenje evidencije nevladinih organizacija za teritoriju opštine;
+- upravne i druge poslove koji se odnose na usmjeravanje djece sa posebnim potrebama u obrazovne programe;
+- dodjelu stipendija svršenim učenicima srednjih škola, kao i podsticanje daljeg školovanja talentovane i nadarene djece;
+- zaštitu starih, osoba sa invaliditetom i marginalizovanih kategorija stanovništva;
+- izradu lokalnog plana akcije za djecu, mlade, praćenje realizacije utvrđenih mjera i pripremu izvještaja;
+- kancelarijsko poslovanje;
+- poslove tekućeg i investicionog održavanja objekata u kojima su smješteni organi lokalne uprave;
+- poslove obezbjeđenja i zaštite objekata u kojima su smješteni organi Opštine i drugih objekata, u skladu sa propisima; portirske poslove; poslove koji se odnose na korišćenje, održavanje i evidenciju službenih vozila; pomoćno-tehničke poslove u vezi sa upotrebom i zaštitom zastave i grba Opštine; poslove kopiranja i povezivanja štampanih materijala; poslove održavanja higijene službenih prostorija;
+- preduzimanje mjere na poboljšanju i povećanju efikasnosti informacionog sistema u cjelini i po djelovima;
+- izradu i realizaciju planova obuka i usavršavanja za korišćenje informacione tehnologije i sistema; izradu planova za opremanje, nabavku opreme i preduzimanje mjere za održavanje računarskih sredstava; staranje o funkcionisanju računarskih mreža i razmjeni podataka u njima;
+- planiranje i učešće u projektovanju, implementaciji i realizaciji informacionog sistema u Opštini; izradu plana, predlaganje i organizaciju uvođenja novih programskih sistema i staranje o usavršavanju postojećih, u skladu sa zahtjevima neprekidnog funkcionisanja informacionog sistema;
+- organizaciju i sprovođenje mjera radi zaštite podataka;
+- obavljanje poslova kojima se obezbjeđuje javnost i tranparentnost rada organa Opštine i učešće lokalnog stanovništva u vršenju javnih poslova ,
+- vođenje i ažuriranje web sajt-a Opštine,
+- objavljivanje akata koje donosi Skupština i predsjednik opštine, plana i programa ucešća lokalnog stanovništva u donošenju odluka i drugih akata, o organizovanju tribina, okruglih stolova, objavljivanja izvještaja o rezultatima javne rasprave, sjednicama skupštine i donijetim aktima, aktivnostima koje preduzimaju organi opštine i dr.
+- izradu i sprovođenje planova, programa i drugih dokumenata iz oblasti energetske efikasnosti; vođenje jedinstvenog informacionog sistema potrošnje energije i energenata u objektima kojima raspolaže Opština; izrada i sprovođenje programa poboljšanja energetske efikasnosti i plana poboljšanja energetske efikasnosti za potrebe opštine;
+- stručne, administrativno-tehničke, organizacione i protokolarne poslove za potrebe predsjednika opštine, potpresjednika Opštine i radna tijela koje formira predsjednik opštine;
+- pripremu propisa i drugih akata koje donosi predsjednik opštine;
+- praćenje realizacije odluka predsjednika opštine i njegovih radnih tijela;
+- izradu stučno-informativnog materijala iz nadležnosti predsjednika opštine;
+- obezbjeđivanje saradnje sa medijima, nevladinim organizacijama i građanima;
+- postupanje po predstavkama i pritužbama građana i pripreme za odgovore po istima;
+- postupanje po predstavkama koje državni organi upućuju Predsjedniku Opštine radi utvrđivanja činjenica, odnosno rješavanja pitanja koja su predmet tih predstavki i pritužbi;
+- pripremu godišnjeg izvještaja o radu Sekratarijata;
+-obavljanje stručnih i administrativno tehničkih poslova za potrebe skupštine,
+-obavljanje stručnih i administrativno tehničkih poslova za potrebe glavnog administratora,
+-obavljanje kancelarijskog poslovanja (poslovi pisarnice i arhive, poslovi prijema i dostave pošte, drugi poslovi iz oblasti kancelarijskog poslovanja),
+-izdavanje odobrenja za obavljanje djelatnosti u produženom radnom vremenu; utvrđivanje uslova za obavljanje privredne djelatnosti bez korišćenja poslovne prostorije, utvrđivanje ispunjenosti uslova za obavljanje auto taksi prevoza i obavljanje javnog prevoza motornim vozilima, kao i obavljanje prevoza za sopstvene potrebe;
+- rješavanje o pitanjima iz boračke i invalidske zaštite i zaštite invalida rata i vođenje evidencije o broju korisnika i vrsti tih prava;
+- praćenje ostvarivanja odnosa saradnje organa lokalne uprave i službi sa građanima,
+- sprovođenje javnih i internih oglasa i konkursa za organe lokalne uprave,
+- vođenje propisane evidencije iz oblasti rada: sagledavanje i analizu potrebe organa za usavršavanjem i obukom kadra i pružanje pomoći u realizaciji obuke i usavršavanju kadrova;
+- pripremu izvještaja o rješavanju upravnih stvari iz svoje nadležnosti;
+- pripremu izvještaja, informativnih i drugih stručnih materijala za skupštinu, predsjednika opštine i organe uprave iz svog djelokruga;
+- upravni postupak za slobodan pristup informacijama iz svog djelokruga
+- vršenje drugih poslova u skladu sa zakonom, odlukama skupštine i predsjednika Opštine.

@@ -1,0 +1,42 @@
+# Član 10
+Sekretarijat za finansije, ekonomiju i lokalne javne prihode vrši poslove uprave koji se odnose na:
+- pripremanje, planiranje, izradu i izvršenje budžeta opštine;
+- dostavljanje podataka nadležnim organima o prihodima, izdacima, budžetskom zaduženju, neizmirenim obavezama, nepokretnim i pokretnim stvarima sa kojima raspolaže Opština;
+- izvršavanje plaćanja po zahtjevu potrošačkih jedinica;
+- vođenje glavne knjige trezora;
+- upravljanje raspoloživim novčanim sredstvima na konsolidovanom računu trezora;
+- vođenje evidencije i upravljanje dugom Opštine;
+- pripremu završnog računa budžeta Opštine;
+- poslove osiguranja službenika i imovine Opštine;
+- utvrđivanje, naplatu i kontrolu lokalnih javnih prihoda;
+- vođenje registra poreskih obveznika;
+- učestvovanje u izradi propisa kojim se uređuje sistem lokalnih javnih prihoda;
+- prijem i obradu svih poreskih prijava poreskih obveznika;
+- vođenje poreskog knjigovodstva;
+- poresku kontrolu;
+- redovnu i prinudnu naplatu poreza ;
+- poslove javnih nabavki, u skladu sa zakonom;
+- vođenje jedinstvene evidencije imovine Opštine, u skladu sa zakonom;
+- izradu propisa koji se odnose na raspolaganje imovinom opštine;
+- pripremu pojedinačnih odluka i ugovora za predsjednika Opštine i Skupštinu koji se tiču raspolaganja imovinom Opštine;
+- racionalno i namjensko korišćenje i upravljanje imovinom opštine;
+- upis prava na nepokretnostima, eksproprijaciju, parcelaciju, razgraničenje i druge upravne poslove u vezi sa imovinskim pravima opštine;
+- zaštitu imovinskih prava opštine pred sudom i drugim organima u skladu sa zakonom;
+- pokretanje postupka prodaje i davanja u zakup nepokretnih stvari i drugih dobara kojima raspolaže opština;
+- pripremu predloga ugovora o prodaji, razmjeni, zakupu, uspostavljanju hipoteke ili fiducije i sl, zaključivanje tih ugovora kada je posebno ovlašćena i praćenje njihove realizacije;
+- poslove koji se odnose na korišćenje, održavanje i evidenciju službenih vozila;
+- podsticajne mjere u oblasti poljoprivrede, ruralnog razvoja;
+-predlaganje mjera za organizovanje zaštite od elementarnih nepogoda i drugih vanrednih okolnosti i stvara uslove za njihovo ostvarivanje,
+-obezbjeđenje sprovođenje mjera preventivne dezinfekcije, dezinsekcije i deratizacije u naseljenim mjestima, na javnim površinama u stambenim objektima, sredstvima lokalnog javnog saobraćaja i dr.
+- rješavanje o upisu i vođenje registra poljoprivrednih proizvođača;
+- izdavanje vodoprivrednih uslova, saglasnosti i dozvola
+- vođenje evidencije o staračkim naknadama, odnosno socijalnom obezbjeđenju staračkih domaćinstava koja se isključivo bave poljoprivredom, prikupljanje i evidenciju podataka o poljoprivrednom potencijalu opštine u privatnom vlasništvu;
+- pripremu propisa iz nadležnosti Sekretarijata i praćenje njihovog sprovođenja;
+- sprovođenje politike i uspostavljanje sistema zaštite i unapređenja životne sredine; izradu strateških dokumenata u oblasti održivog razvoja i zaštite životne sredine, programa monitoringa segmenata životne sredine, lokalnog programa zaštite životne sredine i implementaciju tih programa; izradu plana za interventne mjere u vanrednim slučajevima zagađivanja životne sredine; uspostavljanje i vođenje evidencije zagađivača; zaštitu i poboljšanje kvaliteta vazduha; davanje saglasnosti na izvještaj o strateškoj procjeni uticaja na životnu sredinu za planove i programe koje donosi opština; sprovođenje postupka procjene uticaja na životnu sredinu za projekte za koje saglasnost, odobrenje ili dozvolu izdaju drugi organi opštine; vođenje postupka izdavanja integrisane dozvole u skladu sa zakonom; izradu strateške karte buke i akcionog plana; određivanje akustičnih zona;izdavanje uslova i mjera za zaštitu životne sredine u postupku izdavanja urbanističko- tehničkih uslova; uspostavljanje i vođenje informacionog sistema i vođenje propisanih evidencija iz ove oblasti; nadzor nad sprovođenjem propisa iz oblasti životne sredine; iniciranje, izradu i praćenje realizacije programa i projekata iz oblasti zaštite životne sredine i energetske efikasnosti koji se finansiraju iz međunarodnih fondova i druge poslove iz ove oblasti; pripremu izvještaja o stanju životne sredine, prirode, energetskoj efikasnosti i drugih informativnih i stručnih materijala za skupštinu, predsjednika i organe uprave; sprovođenje postupka strateške procjene uticaja na životnu sredinu urbanističkog projekta, odnosno lokalnog planskog dokumenta;
+- predlaganje akata koja se odnose na imovinska prava i ovlašćenja koje Opština vrši u pogledu imovine koja služi za ostvarivanje njenih funkcija i vođenje evidencije te imovine; pokretanje postupka za upis prava na nepokretnostima; pokretanje postupka prenosa prava na građevinskom zemljištu i vršenje stručne obrade akata o prenosu prava na građevinskom zemljištu; davanje podataka organima opštine na osnovu evidencije koju vodi; pripremanje propisa i obrada akata u vezi sa raspolaganjem državnom imovinom iz okvira ovlašćenja opštine (odluke, ugovori, rješenja); davanje mišljenja na predloge akata o raspolaganju državnom imovinom koje pripremaju javne službe čiji je osnivač opština, pripremanje ugovora o zakupu građevinskog zemljišta, pripremanje ugovora o zakupu poljoprivrednog zemljišta; vođenje evidencije o svojinsko pravnim promjenama nastalim po osnovu tih akata i pokretanje postupka za promjene upisa prava na nepokretnostima; pokretanje postupka eksproprijacije shodno Programu uređivanja građevinskog zemljišta i zastupanje opštine do okončanja postupka; pripremanje predloga odluka o utvđivanju opšteg interesa za eksproprijaciju nepokretnosti koje se eksproprišu u cilju izgradnje objekata koji su od interesa za opštinu;
+-vođenje postupka i rješavanje o predaji neizgrađenog gradskog građevinskog zemljišta ranijih vlasnika radi privođenja namjeni određenoj planom; pripremanje i preduzimanje mjera radi zaštite imovinskih prava i ovlašćenja opštine; učestvovanje u identifikaciji i zaštiti kapitala opštine u postupcima transformacije privrednih subjekata;
+- pripremu izvještaja o rješavanju upravnih stvari iz svoje nadležnosti;
+- pripremu izvještaja o stanju imovine opštine kao i pripremu informativnih i drugih stručnih materijala za Skupštinu, predsjednika opštine i organe uprave iz svog djelokruga;
+- upravni postupak za slobodan pristup informacijama iz svog djelokruga;
+- druge poslove iz svog djelokruga, u skladu sa zakonom i odlukama skupštine i
+predsjednika opštine.
