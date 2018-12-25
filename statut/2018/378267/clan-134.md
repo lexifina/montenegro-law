@@ -1,0 +1,2 @@
+# Član 134
+Opštinski referendum se može raspisati radi prethodnog izjašnjavanja građana : o uvođenju samodoprinosa za teritoriju opštine, izgradnji objekata infrastrukture od interesa za opštinu, odlučivanja o pitanjima pokrenutim građanskom inicijativom koja nije prihvaćena od strane Skupštine, o pitanjima od značaja za unaprjeđenje i zaštitu životne sredine, kao i o drugim pitanjima od posebnog značaja iz nadležnosti opštine o kojima Skupština ima pravo da donosi Odluke.
