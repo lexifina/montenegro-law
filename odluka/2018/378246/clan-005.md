@@ -1,0 +1,35 @@
+# Član 5
+Sekretarijat za finansije, razvoj i preduzetništvo vrši poslove koji se odnose na:
+- praćenje i sprovodjenje zakona i propisa donesenih na osnovu zakona u oblasti: finansiranja, budžeta, zarada u javnom sektoru, zaštite podataka o ličnosti, regionalnog razvoja, poljoprivrede, turizma, zanatstva, trgovine, preduzetništva, rada u dijelu radnog vremena, kontrole državne pomoći, zaštite potrošača, i drugih propisa koji su u vezi sa ostvarivanjem funkcija organa, izjašnjavanje na nacrte i predloge zakona, planskih dokumenata i drugih propisa i akata iz ove oblasti;
+- pripremu i sprovođenje propisa Opštine u oblastima za koje je organ osnovan, (budžet Opštine, završni račun, privremeno finansiranje, zarade lokalnih funkcionera i lokalnih službenika i namještenika, lokalne javne prihode, u saradnji sa dugim organima lokalne uprave, pripremu osnivačkih akata javnih službi nad kojima vrši nadzor), izjašnjavanje o inicijativama za ocjenu ustavnosti i zakonitosti propisa Opštine iz djelokruga organa;
+- izradu i sprovođenje programskih i planskih akata iz djelokruga organa, sprovođenje lokalnog strateškog plana, plana integriteta i sl., praćenje i sprovođenje državnih planskih akata u okviru nadležnosti organa;
+- upravljanje konsolidovanim računom trezora, podračunima i drugim računima; vođenje postupka otvaranja podračuna i utvrđivanja načina njihovog korišćenja, vođenje glavne knjige trezora i pomoćne knjige, finansijsko planiranje i upravljanje gotovinskim sredstvima, kontrolu izdataka i izvršavanje budžeta, obračun i isplatu zarada i naknada zaposlenima u Opštini, i isplatu zarada i naknada zaposlenim u javnim ustanovama čiji je osnivač Opština, budžetsko računovodstvo i izvještavanje, upravljanje finansijskim informacionim sistemom;
+- sprovođenje upravnih postupaka i donošenje rješenja u oblastima za koje je organ osnovan: o utvrđivanju ispunjenosti minimalno-tehničkih uslova u poslovnim prostorijama, za obavljanje ugostiteljske djelatnosti i kategorisanje ugostiteljskih objekata, za pružanje ugostiteljskih i turističkih usluga u posebnim objektima, za obavljanje ugostiteljskih usluga u domaćinstvu i seoskom domaćinstvu, usluga rent-a-cara i limo servisa, za upis u centralni turistički registar, za utvrđivanje ispunjenosti uslova o privremenoj i trajnoj promjeni namjene poljoprivrednog zemljišta u nepoljoprivredne svrhe, o prestanku obavljanja djelatnosti, izdavanje uvjerenja o bavljenju poljoprivrednom proizvodnjom individualnim poljoprivrednim proizvođačima, izdavanje uvjerenja o činjenicama o kojima organ vodi evidenciju, i druge upravne postupke i donošenje drugih rješenja u skladu sa zakonom i odlukama Opštine;
+- procjenu analize uticaja odluka i drugih propisa (RIA) iz svog djelokruga;
+- učešće u identifikaciji i zaštiti kapitala Opštine u postupku transformacije javnih preduzeća čiji je osnivač Opština i drugih privrednih subjekata, kupovinu i prodaju hartija od vrijednosti ili udjela u privrednim društvima, zaduživanje Opštine, davanje garancija i sl.;
+- vođenje evidencije o dugu Opštine, evidencije zarada zaposlenih u Opštini i drugih evidencija u skladu sa zakonom;
+- dostavljanje podataka nadležnim organima o prihodima, izdacima i budžetskom zaduženju;
+- postupanje po inicijativama građana iz djelokruga organa;
+- pripremu izvještaja o radu organa, realizaciji fiskalne politike za tekuću godinu, korišćenju stalne budžetske rezerve i drugih informativnih i stručnih materijala za Skupštinu, predsjednika Opštine, organe državne uprave i sl.;
+- pripremu godišnjeg izvještaja za glavnog administratora o postupanju u upravnim stvarima iz svoje nadležnosti; obezbjeđivanje učešća građana u vršenju javnih poslova iz svoje nadležnosti, ostvarivanje principa transparentnosti objavljivanjem propisanih akata, saradnju sa nevladinim organizacijama i pripremu izvještaja u skladu sa posebnim odlukama Opštine;
+- evidenciju podataka iz godišnjih izvještaja o popisu nepokretnih i pokretnih stvari kojima raspolaže Opština, u skladu sa propisima o računovodstvu;
+- izradu i sprovođenje programa i planova podsticaja razvoja preduzetništva, poljoprivrede, turizma i sl.;
+- utvrđivanje programa aktivnosti i načina stimulisanja preduzetničkih inicijativa na lokalnom nivou, saradnju i pružanje informacija zainteresovanim subjektima za razvoj preduzetništva, a posebno malim i srednjim preduzećima u cilju korišćenja resursa i realizacije planova i programa u ovim oblastima, saradnju sa asocijacijama poslodavaca i sl.;
+- učestvovanje u promovisanju i realizaciji aktivnosti za razvoj turizma i iniciranje i realizacija promocije atraktivnih turističkih destinacija opštine, saradnju i učestvovanje u radu organa Turističke organizacije i učestvovanje u stvaranju uslova i organizovanju sajmova i drugih sličnih manifestacija iz oblasti turizma;
+- vođenje evidencija i dostavljanje podataka o privrednim subjektima nadležnim organima;
+- zaštitu potrošača i ostvarivanje neposredne saradnje sa subjektima iz ove oblasti;
+- saradnju i koordinaciju sa Sekretarijatom za investicije i projekte u pripremi i sprovođenju razvojnih programa, planova i projekata iz nadležnosti organa;
+- vođenje centralnog turističkog registra;
+- vršenje prijema i ovjeravanja prijava o početku obavljanja trgovine i o promjeni podataka u prijavi obavljanja trgovine i vođenje evidencije istih;
+- vršenje prijema i ovjeravanja prijava o početku obavljanja zanatstva, i o promjeni podataka u prijavi zanatstva i vođenje evidencije istih;
+- donošenje rješenja o obavljanju djelatnosti u vremenu dužem od propisanog;
+- davanje mišljenja o zakupu poljoprivrednog zemljišta u vlasništvu Opštine;
+- praćenje stanja i predlaganje programa aktivnosti za podsticanje razvoja poljoprivrede i ruralnih područja opštine, vođenje evidencije o zemljištu koje je promijenilo namjenu; davanje mišljenja o davanju u zakup poljoprivrednog zemljišta u vlasništvu Opštine, učestvovanje u izradi biznis planova, učestvovanje u realizaciji mjera državne agrarne politike, prikupljanje dokumentacije za ostvarivanje prava na staračke naknade i prosljeđivanje Ministarstvu na rješavanje, učestvovanje u organizaciji sajmova - izložbi iz oblasti poljoprivrede, organizovanje stručnih predavanja vezanih za pojedine oblasti proizvodnje u cilju edukacije poljoprivrednih proizvođača;
+- staranje o sprovođenju mjera za uzgoj, zaštitu i lov divljači;
+- učešće u pripremi i postupku donošenja Strateškog plana Opštine;
+- učešće u pripremi i postupku donošenja Strategije razvoja turizma Opštine;
+- učešće u pripremi i postupku donošenja Strategije razvoja poljoprivrede Opštine;
+- postupanje po zahtjevima za slobodan pristup informacijama;
+- pripremu informacija za medije iz svog djelokruga i dostavljanje Službi za saradnju, poslove predsjednika i informisanje na obradu i objavljivanje u medijima, veb sajtu i društvenim mrežama;
+- upravni nadzor i poslove u vezi ostvarivanja prava osnivača u javnim službama u oblastima iz svoje nadležnosti;
+- druge poslove iz svog djelokruga, u skladu sa zakonom i drugim propisima.

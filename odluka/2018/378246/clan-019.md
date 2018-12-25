@@ -1,0 +1,23 @@
+# Član 19
+Služba za unutrašnju reviziju vrši poslove unutrašnje revizije koji se odnose na:
+- organizovanje i obavljanje unutrašnje revizije svih poslovnih funkcija iz nadležnosti Opštine, u skladu sa Međunarodnim okvirom profesionalne prakse unutrašnje revizije i propisima Crne Gore;
+- izradu Povelje unutrašnje revizije;
+- izradu strateškog i godišnjeg plana rada unutrašnje revizije, praćenje i izvršenje istih;
+- izradu plana i programa pojedinačne revizije radi procjene i poboljšanja efektivnosti upravljanja rizikom, kontrola i upravljanja;
+- izradu izvještaja pojedinačne revizije koje dostavlja predsjedniku Opštine i odgovornom licu organizacione jedinice kod koje je obavljena revizija;
+- obavljanje pojedinačne revizije na zahtjev predsjednika Opštine i obavljanje revizije korišćenja sredstava Evropske unije;
+- obavljanje revizije kod pravnih lica čiji je osnivač Skupština opštine ili u kojima Opština ima većinski vlasnički udio, a koje nemaju sopstvenu jedinicu za unutrašnju reviziju;
+- praćenje sprovođenja preporuka datih u izvještajima iz prethodno obavljenih revizija;
+- izradu periodičnih i godišnjih izvještaja o radu unutrašnje revizije koje dostavlja predsjedniku Opštine;
+- praćenje i predlaganje edukacije unutrašnjih revizora;
+- osiguranje i unapređenje rada unutrašnje revizije;
+- praćenje sprovođenja preporuka Državne revizorske institucije;
+- saradnju sa Direktoratom za centralnu harmonizaciju Ministarstva finansija, što uključuje i obavezu dostavljanja propisanih izvještaja;
+- saradnju sa Državnom revizorskom institucijom, međunarodnim i domaćim strukovnim institucijama i udruženjima;
+- pripremanje informativnih i drugih stručnih materijala za Skupštinu i predsjednika Opštine, izjašnjavanje na nacrte i predloge zakona i drugih propisa, pripremanje stručnih mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa, sprovođenje plana integriteta, ostvarivanje neposredne saradnje sa nevladinim organizacijama, iz nadležnosti organa;
+- pripremanje informacija za medije iz svog djelokruga i dostavljanje Službi za saradnju, poslove predsjednika i informisanje na obradu i objavljivanje u medijima, veb sajtu i društvenim mrežama;
+- pripremanje izvještaja za glavnog administratora o postupanju u upravnim stvarima iz svoje nadležnosti;
+-
+upravni postupak za slobodan pristup informacijama iz djelokruga organa;
+-
+procjenu analize uticaja odluka i drugih propisa (RIA) iz svog djelokruga; i - druge poslove iz svog djelokruga u skladu za zakonom i drugim propisima.

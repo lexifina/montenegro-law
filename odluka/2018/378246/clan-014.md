@@ -1,0 +1,21 @@
+# Član 14
+Služba glavnog administratora vrši stručne i druge poslove za ostvarivanje funkcije Glavnog administratora, koji se odnose na:
+- poslove drugostepenog organa u upravnim stvarima iz nadležnosti organa lokalne uprave i posebnih službi;
+- koordiniranje radom organa uprave, u izvršavanju poslova za koje je potrebna međusobna saradnja (priprema propisa, akcionih planova, strateškog plana razvoja opštine i drugih razvojnih planova i programa, priprema izvještaja o njihovoj realizaciji i stručno informativnih materijala, izvještaja o sprovođenju zakona, opštinskih propisa i dr.);
+- davanje mišljenja na akt o organizaciji i načinu rada lokalne uprave Opštine;
+- davanje mišljenja na akt o unutrašnjoj organizaciji i sistematizaciji organa uprave;
+- davanje stručnih uputstava i instrukcija za rad organima uprave, radi pravilne primjene zakona i drugih propisa;
+- pripremanje godišnjeg izvještaja o postupanju u upravnim stvarima iz nadležnosti opštine;
+- izradu i podnošenje predsjedniku Opštine godišnjeg izvještaja o radu i drugih izvještaja na zahtjev predsjednika Opštine;
+- staranje o zakonitom, efikasnom i ekonomičnom vršenju poslova organa uprave;
+- izradu analitičkih i informativnih materijala u vezi sa funkcionisanjem lokalne uprave, za potrebe predsjednika Opštine i nadležnog organa državne uprave; sprovođenje plana integriteta;
+- izvršavanje akata predsjednika Opštine koji se odnose na usmjeravanje i usklađivanje rada organa lokalne uprave, javnih službi i agencija čiji je osnivač i vršenje nadzora nad radom organa uprave;
+- predlaganje i preduzimanje mjera u cilju otklanjanja uočenih problema i nepravilnosti u radu organa uprave;
+- preduzimanje aktivnosti u vezi sa reorganizacijom lokalne uprave, u saradnji sa nadležnim organom uprave;
+- postupanje po inicijativama građana iz djelokruga službe;
+- pripremanje informacija za medije iz svog djelokruga i dostavljanje Službi za saradnju, poslove predsjednika i informisanje na obradu i objavljivanje u medijima, veb sajtu i društvenim mrežama;
+- pripremanje akta o načinu organizovanja poslova organa uprave u mjesnoj zajednici (dekoncentracija poslova uprave);
+- razmatranje i odlučivanje o pritužbama građana na rad organa uprave;
+- saradnju sa nevladinim organizacijama koje prate razvoj lokalne samouprave u cilju poboljšanja komunikacije između Opštine i građana i razvoja demokratije na lokalnom nivou i drugi poslovi iz nadležnosti Opštine u ovoj oblasti;
+- vrši poslove u vezi slobodnog pristupa informacijama iz djelokruga glavnog administratora;
+- druge poslove iz svog djelokruga u skladu za zakonom i drugim propisima.
