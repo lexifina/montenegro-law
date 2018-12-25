@@ -1,0 +1,2 @@
+Na osnovu člana 43 Zakona o lokalnoj samoupravi ("Sl. list CG", broj 02/2018), člana 34 tačka 18, Statuta Opštine Pljevlja ("Sl. list RCG - opštinski propisi", broj 37/04, 30/07 i "Sl. list CG - opštinski propisi", broj 32/09 i 14/11) i člana 19. Odluke o obrazovanju radnih tijela Skupštine ("Sl. list RCG-opštinski propisi", broj 43/06 i 35/09), Skupština Opštine Pljevlja, na sjednici održanoj dana 07.12.2018 godine, donijela je:
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O IMENOVANJU SAVJETA ZA PREDSTAVKE I PRITUŽBE
