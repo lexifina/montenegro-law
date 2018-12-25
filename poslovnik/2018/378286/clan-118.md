@@ -1,0 +1,6 @@
+# Član 118
+Nevladina organizacija može da predloži predstavnika da učestvuje u radu sjednice Skupštine (Institut "slobodna stolica") ukoliko ispunjava sljedeće uslove:
+- da je registrovana kod nadležnog organa državne uprave, najmanje godinu dana;
+- da ima sjediste na teritoriji opštine;
+- da je u prethodnoj godini realizovala jedan ili više projekata u opštini, ili učestvovala u najmanje jednoj javnoj kampanji u opštini, ili realizovala najmanje dvije jednokratne aktivnosti od značaja za opštinu, ili učestvovala sa konkretnim predlozima u najmanje tri javne rasprave koje su sprovedene u opštini;
+- da u statutu ima utvrđene djelatnosti i ciljeve djelovanja za oblasti koje su u nadležnosti Skupštine.
