@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi (’’Sl. list Crne Gore’’ br.02/18), člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje (’’Sl.list Crne Gore-opštinski propisi’’, br. 19/18 ), člana 23 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list Crne Gore", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18 i 42/18), Skupština opštine Bijelo Polje, na sjednici održanoj dana 10 i 11.12. 2018. godine, donijela je
+ODLUKU
