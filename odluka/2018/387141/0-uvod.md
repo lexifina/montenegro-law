@@ -1,0 +1,2 @@
+Na osnovu člana 11 stav 1 alineja 5 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Danilovgrad ("Sl. list CG - opštinski propisi", br. 02/14) i člana 38 Statuta opštine Danilovgrad ( "Sl. list RCG - opštinski propisi" br 30/04, "Sl. list CG - opštinski propisi" br 43/18) Skupština opštine Danilovgrad, na sjednici održanoj 21.12. 2018. godine, d o n o s i
+O D L U K U
