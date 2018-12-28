@@ -1,0 +1,2 @@
+Na osnovu člana 82 tačka 3 Ustava Crne Gore i člana 5 stav 5 Odluke o obrazovanju Odbora za dalju reformu izbornog i drugog zakonodavstva ("Službeni list CG", broj 70/18), Skupština Crne Gore 26. saziva, na Osmoj sjednici Drugog redovnog (jesenjeg) zasijedanja u 2018. godini, dana 28. decembra 2018. godine, donijela je
+ODLUKU O IZBORU JEDNOG ČLANA ODBORA ZA DALJU REFORMU IZBORNOG I DRUGOG ZAKONODAVSTVA
