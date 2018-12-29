@@ -1,0 +1,2 @@
+# Član 100
+Komisija za glasanje sačinjava Izvještaj o rezultatima tajnog glasanja koji sadrži: broj uručenih glasačkih listića; broj neupotrijebljenih glasačkih listića; broj glasačkih listića nađenih u glasačkoj kutiji; broj važećih i broj nevažećih glasačkih listića; broj glasova ''za'' i ''protiv'', odnosno broj glasova za pojedinog kandidata; kao i konstataciju da li je predlog usvojen, odnosno koji je kandidat izabran.
