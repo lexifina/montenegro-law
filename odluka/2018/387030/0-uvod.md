@@ -1,0 +1,2 @@
+Na osnovu člana 42 i 43 Zakona o finansiranju lokalne samouprave ("Službeni list RCG" br. 42/03 i 44/03 i "Službeni list CG" br.05/08, 51/08, 74/10, 1/15, 78/15, 3/16, 30/17 i 92/17), člana 34 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG" br.20/14, 56/14, 70/17, 4/18 I 55/18) i člana 35 i 72 Statuta Opštine Tivat ("Službeni list RCG - opštinski propisi" i "Službeni list CG - opštinski propisi" br. 24/18), Skupština opštine Tivat, na sjednici održanoj 21.12.2018.godine, donosi
+ODLUKU O BUDŽETU OPŠTINE TIVAT ZA 2019. GODINU
