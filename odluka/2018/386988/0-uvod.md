@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Sl.list CG - opštinski propisi", broj 02/18), člana 62 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", broj 44/03 i "Službeni list CG", br. 05/08, 51/08, 74/10, 1/15, 78/15, 3/16 i 30/17) i člana 48 stav 1 tačka 19 Statuta Glavnog grada ("Sl. list RCG - opštinski propisi", broj 28/06 i "Službeni list - opštinski popisi", br. 39/10, 18/12 i 38/17), Skupština Glavnog grada - Podgorice je na sjednici održanoj 27. i 28. decembra 2018. godine, donijela -
+O D L U K U O ZADUŽENJU GLAVNOG GRADA PODGORICA
