@@ -1,0 +1,340 @@
+# Član 2
+Član 2 mijenja se i glasi:
+Primici po vrstama i ekonomskoj klasifikaciji utvrđeni su u sljedećim iznosima:
+E k o n o m s k a
+K l a s i f i k a c i j a
+OPIS
+PLAN 2018.
+u €
+7
+UKUPNI PRIMICI
+2.980.828,56 €
+71
+TEKUĆI PRIMICI
+1.262.800,00 €
+711
+POREZI
+725.000,00 €
+711-1
+Porez na dohodak fizičkih lica
+185.000,00 €
+711-3-1
+Porez na nepokretnosti
+370.000,00 €
+711-3-2
+Porez na promet nepookretnosti
+30.000,00 €
+711-7-5
+Prirez porezu na dohodak fizičkih lica
+140.000,00 €
+713
+TAKSE
+44.600,00 €
+713-1-2
+Lokalne administrativne takse
+13.500,00 €
+713-5
+Lokalne komunalne takse
+31.000,00 €
+713-6
+Ostale takse
+100,00 €
+714
+NAKNADE
+453.000,00 €
+714-1
+Naknada za korišćenje dobara od opšteg interesa
+85.000,00 €
+714-1-1
+Naknada za korišćenje voda
+82.000,00 €
+Страна 3 - Број 51 СЛУЖБЕНИ ЛИСТ ЦРНЕ ГОРЕ - Oпштински прописи 29. децембар 2018.
+714-1-2
+Naknada za izvađeni materijal iz vodotoka
+500,00 €
+714-1-3
+Naknada za zaštitu voda od zagađivanja
+2.500,00 €
+714-2
+Naknada za korišćenje prirodnih dobara
+280.000,00 €
+714-2-1
+Naknada za korišćenje šuma
+280.000,00 €
+714-6
+Naknada za uređivanje i izgradnju građevinskog
+zemljišta
+30.000,00 €
+714-8
+Naknada za puteve
+43.000,00 €
+714-8-4
+Godišnja naknade pri registraciji motornih vozila
+16.500,00 €
+714-8-9
+Ostale naknade za puteve
+26.500,00 €
+714-9
+Ostale naknade
+15.000,00 €
+715
+Ostali primici
+40.200,00 €
+715-2-3
+Novčane kazne koje izriču jedinice lokalnih
+samouprava
+200,00 €
+715-5
+Ostali prihodi lokalne uprave
+40.000,00 €
+72
+PRIMICI OD PRODAJE IMOVINE
+5.000,00 €
+721
+Primici od prodaje nefinansijske imovine
+5.000,00 €
+721-1
+Prodaja nepokretnosti
+5.000,00 €
+73
+Primici od otplate kredita i sredstva prenesena iz
+prethodne godine
+329.028,56 €
+731
+Primici od otplate stanbenih kredita zaposlenih u
+organima lok.uprave
+0,00 €
+732
+Sredstva prenesena iz prethodne godine
+329.028,56 €
+74
+DONACIJE I TRANSFERI
+1.384.000,00 €
+741
+Donacije
+0,00 €
+741-1-2
+Donacije
+0,00 €
+742
+TRANSFERI
+1.384.000,00 €
+742-6
+Transferi od Egalizacijonog fonda
+1.384.000,00 €
+Izdaci po vrstama i ekonomskoj klasifikaciji utvrđeni su u sljedećim iznosima:
+Страна 4 - Број 51 СЛУЖБЕНИ ЛИСТ ЦРНЕ ГОРЕ - Oпштински прописи 29. децембар 2018.
+K l a s i f i k a c i j a
+O P I S
+PLAN 2018.
+u € Organi - zaciona
+Funkcio
+-nalna
+E k o n o m s k a
+1
+2
+3
+4
+8
+41
+TEKUĆI IZDACI
+1.388.395,19 €
+411
+BRUTO ZARADE I DOPRINOSI NA
+TERET POSLODAVCA
+734.779,06 €
+411-1
+NETO ZARADE
+431.146,98 €
+411-2
+POREZ NA ZARADE
+64.068,25 €
+411-3
+DOPRINOSI NA TERET ZAPOSLENOG
+153.516,87 €
+411-4
+DOPRINOSI NA TERET POSLODAVCA
+77.700,52 €
+411-5
+PRIREZ POREZU
+8.346,44 €
+412
+OSTALA LIČNA PRIMANJA
+49.391,76 €
+412-4
+JUBILARNE NAGRADE
+2.472,00 €
+412-6
+NAKNADE ODBORNICIMA I RAD.TIJELIMA
+40.211,76 €
+412-7
+OSTALE NAKNADE
+6.708,00 €
+413
+RASHODI ZA MATERIJAL
+102.266,60 €
+413-1
+ADMINISTRATIVNI MATERIJAL
+10.119,46 €
+413-3
+MATERIJAL ZA POSEBNE NAMJENE
+2.500,00 €
+413-4
+TROŠKOVI ELEKTRIČNE ENRGIJE
+67.905,41 €
+413-5
+RASHODI ZA GORIVO
+16.708,73 €
+413-9
+OSTALI RASHODI ZA MATERIJAL
+5.033,00 €
+414
+RASHODI ZA USLUGE
+43.391,93 €
+414-1
+SLUŽBENA PUTOVANJA
+5.690,14 €
+414-2
+REPREZENTACIJA
+7.874,91 €
+414-3
+KOMUNIKACIONE USLUGE
+17.365,90 €
+414-4
+BANKARSKE USLUGE
+3.161,98 €
+414-6
+ADVOKATSKE,NOTARSKE I PRAVNE
+USLUGE
+1.000,00 €
+414-7
+KONSULTANTSKE USLUGE PROJEKTI I
+STUDIJE
+1.000,00 €
+414-8
+USLUGE STRUČNOG USAVRŠAVANJA
+1.050,00 €
+414-9
+OSTALE USLUGE
+6.249,00 €
+415
+RASHODI ZA TEKUĆE ODRŽAVANJE
+101.736,90 €
+415-1
+ODRŽAVANJE JAVNE INFRASTRUKTURE
+80.687,22 €
+415-2
+ODRŽAVANJE GRAĐ. OBJEKATA
+2.676,79 €
+415-3
+TEKUĆE ODRŽAVANJE OPREME
+18.372,89 €
+416
+RASHODI ZA KAMATE
+243.327,79 €
+416-1
+KAMATE REZIDENTIMA
+243.277,79 €
+416-2
+KAMATE NEREZIDENTIMA
+50,00 €
+Страна 5 - Број 51 СЛУЖБЕНИ ЛИСТ ЦРНЕ ГОРЕ - Oпштински прописи 29. децембар 2018.
+418
+RASHODI ZA SUBVENCIJE
+30.000,00 €
+418-1
+SUBVENCIJE ZA PROIZVODNJU
+30.000,00 €
+419
+OSTALI RASHODI
+83.501,15 €
+419-1
+IZDACI PO OSNOVU ISPLATE UGOVORA
+O DJELU
+3.570,00 €
+419-3
+IZRADA I ODRŽAVANJE SOFTVERA
+1.000,00 €
+419-4
+OSIGURANJE IMOVINE I LICA
+11.437,94 €
+419-6
+KOMUNALNE NAKNADE
+21.738,14 €
+419-8
+TAKSE
+134,00 €
+419-9
+OSTALO
+45.621,07 €
+42
+TRANSFERI ZA SOCIJALNU ZAŠTITU
+23.708,20 €
+421
+PRAVA IZ SOC.ZAŠTITE
+23.708,20 €
+421-8
+OSTALA PRAVA IZ OBLASTI SOCIJALNE
+ZAŠTITE
+23.708,20 €
+422
+OTPREMNINE ZA TEH. VIŠKOVE
+0,00 €
+422-2
+OTPREMNINE ZA TEH. VIŠKOVE
+0,00 €
+43
+TRANSFERI
+371.276,40 €
+431
+TRANSFERI INSTITUC.POJED.NVO
+371.276,40 €
+431-3
+TRANSFERI KULTURI I SPORTU
+287.100,00 €
+431-4
+TRANSFERI NVO
+4.000,00 €
+431-5
+TRANSFERI POLITIČKIM PARTIJAMA
+STRANKAMA I UDRUŽENJIMA
+53.076,40 €
+431-6
+TRANSF.ZA JEDNOKR.SOC.POMOĆI
+7.000,00 €
+431-8
+OSTALI TRANSFERI POJEDINCIMA
+8.100,00 €
+431-9
+OSTALI TRANSFERI INSTITUCIJAMA
+12.000,00 €
+44
+KAPITALNI IZDACI
+133.000,00 €
+441
+KAPITALNI IZDACI
+133.000,00 €
+46
+OTPLATA DUGA
+1.025.897,87 €
+461
+OTPLATA DUGA
+353.955,80 €
+461-1
+OTPLATA HARTIJA OD VRIJEDNOSTI I
+KREDITA REZIDENTIMA
+353.955,80 €
+463
+OTPLATA OBAVEZA IZ PRETH.PERIODA
+671.942,07 €
+47
+REZERVE
+38.550,90 €
+471
+TEKUĆA BUDŽETSKA REZERVA
+28.550,90 €
+472
+STALNA BUDŽETSKA REZERVA
+10.000,00 €
+UKUPNI IZDACI
+2.980.828,56 €
