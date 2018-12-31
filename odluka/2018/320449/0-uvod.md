@@ -1,0 +1,2 @@
+Na osnovu člana 17 stav 6 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18 i 42/18) i člana 49 Poslovnika Skupštine Crne Gore ("Službeni list RCG", br. 51/6 i 66/6, i "Službeni list CG", br. 88/9, 80/10, 39/11, 25/12, 49/13, 32/14, 42/15, 52/17 i 17/18), Administrativni odbor Skupštine Crne Gore 26. saziva, na 57. sjednici održanoj 27. decembra 2018. godine, donio je
+ODLUKU O IZMJENI ODLUKE O UTVRĐIVANJU DODATKA NA ZARADU ZA OBAVLJANJE POSLOVA NA ODREĐENIM RADNIM MJESTIMA ZAPOSLENIMA U SLUŽBI SKUPŠTINE CRNE GORE
