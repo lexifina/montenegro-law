@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za zasnivanje stvarne službenosti na neodređeno vrijeme uz naknadu na dijelu katastarskih parcela broj 2819/2, broj 3732/2, broj 2818/1 i broj 2819/3 KO Tološi
+Glavni grad - Podgorica, kao nosilac prava raspolaganja, daje saglasnost za zasnivanje stvarne službenosti na dijelu katastarskih parcela broj 2819/2, broj 3732/2, broj 2818/1 i broj 2819/3 KO Tološi, radi polaganja energetskog kabla u cilju priključenja na elektroenergetsku infrastrukturu trafostanice NDTS 10/0,4 kV "Tološi 7-nova" 1000 kVA, sa uklapanjem u SN mrežu, na urbanističkoj parceli UP 295, u Bloku 9, u zahvatu Detaljnog urbanističkog plana "Tološi 2" - izmjene i dopune.
