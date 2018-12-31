@@ -1,0 +1,2 @@
+Na osnovu člana 26 i 31 Zakona o uređenju prostora i izgradnji objekata ("Sl.list CG" 51/08, 34/11, 35/13 i 33/14), člana 38 Zakona o lokalnoj samoupravi ("Sl.list CG" broj, 02/18,), člana 33 Statuta Opštine Plav ("Sl.list Crne Gore - opštinski propisi", broj 44/18), Odluke o pristupanju izradi DUP-a "Prnjavor -I faza" ("Sl.list CG-opštinski propisi" broj 26/17) i Saglasnosti Ministarstva održivog razvoja i turizma, Direktorat za planiranje prostora, Podgorica broj: 104-3885/5, Skupština opštine Plav, na sjednici održanoj dana 31.12 2018.godine, donijela je
+O D L U K U
