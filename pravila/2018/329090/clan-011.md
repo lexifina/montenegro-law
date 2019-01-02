@@ -1,0 +1,2 @@
+# Član 11
+Danom stupanja na snagu ovih pravila prestaju da važe: Pravila o utvrđivanju bližih uslova za sticanje zvanja brokera, dilera i investicionog menadžera ("Sl. list RCG", br. 34/17), Pravila o utvrđivanju bližih uslova za sticanje zvanja investicionog menadžera investicionog fonda ("Sl. list CG", br. 32/12 i 30/15) i Pravila o utvrđivanju bližih uslova za sticanje zvanja investicionog menadžera penzionog fonda ("Sl. list RCG", br. 78/06 i 14/07 i "Sl. list CG", br. 73/10 i 40/11).
