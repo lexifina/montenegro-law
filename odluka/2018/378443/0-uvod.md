@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 1 tačka 13 a u vezi sa članom 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list CG" br. 56/14,20/15,40/16,37/17 ), člana 27 stav 1 tačka 16 a u vezi sa članom 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje, ("Sl.list RCG-opštinski propisi", br.19/18), člana 16 Zakona o sportu ( "Sl.list CG 44/18") Skupština opštine Bijelo Polje, na sjednici održanoj dana 10. i 11.12.2018. godine, donijela je
+O D L U K U
