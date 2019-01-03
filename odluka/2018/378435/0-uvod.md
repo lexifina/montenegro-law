@@ -1,0 +1,2 @@
+Na osnovu člana 7 stav 3 Zakona o finansiranju političkih subjekata i izbornih kampanja ("Sl.list CG", br. 52/14,76/15,83/16,92/17), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 02/18), člana 46 stav 1 tačka 2 Statuta opštine Bijelo Polje ("Sl.list CG - opštinski propisi" br.19/18), Skupština opštine Bijelo Polje, na sjednici održanoj 10 i 11.12.2018. godine donijela je
+ODLUKU
