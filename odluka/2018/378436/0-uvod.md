@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18), člana 39 stav 1 i 2 i člana 40 stav 1 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 040/11) i člana 4 i 5 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list CG" br. 44/10) i člana 46 stav 1 tačka 9 Statuta Opštine Bijelo Polje ("Službeni list CG- opštinski propisi", br. 19/18),Skupština opštine Bijelo Polje dana 10 i 11.12.2018. godine, donijela je
+O D L U K U
