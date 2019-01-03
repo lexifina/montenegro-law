@@ -1,0 +1,2 @@
+Na osnovu člana 10 stav 1 tačka 3 i člana 13 stav 1 Zakona o zaštiti prirode ("Službeni list Crne Gore", br. 54/16), člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore - opštinski propisi", br. 02/18), člana 46 stav 1 tačka 4 Statuta Opštine Bijelo Polje "Službeni list Crne Gore - Opštinski propisi", br. 19/18), Skupština opština Bijelo Polje, na sjednici održanoj 10. i 11.12.2018. godine, donijela je
+O D L U K U
