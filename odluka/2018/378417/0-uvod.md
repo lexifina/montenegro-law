@@ -1,0 +1,2 @@
+Na osnovu člana 94 stav 2 tačka 1 Zakona o socijalnoj i dječijoj zaštiti ( "Sl.list CG" br. 27/13,1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17,i 50/17), člana 46 stav 1 tačka 2 i 14 Statuta Opštine ("Sl.list CG - opštinski propisi" br. 19/18)) , člana 12 stav 1 tačka 1 Odluke o organizovanju JU Centar za djecu i mlade sa smetnjama u razvoju "Tisa" ("Sl.list CG - opštinski propisi" br.17/2015), , Skupština opštine Bijelo Polje, na sjednici održanoj dana 10. i 11.12.2018.godine, donijela je
+O D L U K U
