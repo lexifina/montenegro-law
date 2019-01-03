@@ -1,0 +1,3 @@
+Na osnovu člana 64 Zakona o privrednim društvima ("Službeni list RCG", broj 06/02 i "Službeni list CG", broji 7/07, 80/08, 40/10, 36/11 i 40/11), člana 38 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18), člana 15 Zakona o komunalnim djelatnostima ("SI.list RCG", broj 55/16, 74/16 i 2/18), člana 4. Zakona o klasifikaciji djelatnosti ("Sl.list CG" broj 18/11) i člana 42 Statuta Opštine Ulcinj ("SI. list Crne Gore - Opštinski propisi", broj 05/07, 09/09 i 16/11), Skupština opštine Ulcinj, na sjednici održanoj dana:04.12. 2018. godine, donijela je
+ODLUKU
+o izmjenama i dopunama Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalne djelatnosti"
