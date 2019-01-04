@@ -1,0 +1,4 @@
+# Član 2
+Nadležnosti Direkcije u dijelu poslovanja Autobuskom stanicom preuzeće Društvo sa ograničenom odgovornošću "Komunalno" Danilovgrad, a djelokrug ostalih poslova Direkcije preuzeće nadležni organ lokalne uprave opštine Danilovgrad vezan za poslove saobraćaja.
+Nadležni organ lokalne uprave opštine Danilovgrad će u roku od 30 dana od dana stupanja na snagu ove odluke, saglasno djelokrugu utvrđenim zakonom, uskladiti akt o unutrašnjoj organizaciji i sistematizaciji radnih mjesta i preuzeti od Direkcije zaposlene koji su radili na tim poslovima, opremu i službenu dokumentaciju.
+Društvo sa ograničenom odgovornošću "Komunalno" Danilovgrad će u roku od 30 dana od dana stupanja na snagu ove odluke, saglasno djelokrugu utvrđenim zakonom, uskladiti akt o unutrašnjoj organizaciji i sistematizaciji radnih mjesta i preuzeti od Direkcije zaposlene koji su vršili poslove vezano za Autobusku stanicu, opremu i službenu dokumentaciju.
