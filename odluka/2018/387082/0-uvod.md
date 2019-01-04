@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 i tačka 29 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18), člana 23 stav 1 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18 i 42/18) i člana 35 stav 1 tačka 2 i tačka 29 Statuta opštine Danilovgrad ("Sl. list CG"-opštinski propisi",br. 43/18), uz prethodnu saglasnost Ministarstva finansija broj 03-19643/1 od 10.12.2018. godine, Skupština opštine Danilovgrad na sjednici održanoj 21.12. 2018. godine, donosi
+ODLUKU
