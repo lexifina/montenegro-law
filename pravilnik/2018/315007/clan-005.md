@@ -1,0 +1,2 @@
+# Član 5
+Učestvovanje u radu organizacionog dijela u kojem se obavlja stručno osposobljavanje po uputstvima mentora podrazumijeva prisustvo radnjama koje preduzima mentor i mogućnost uvida u spise predmeta koje određuje mentor, kao i obavezu izrade nacrta akata, odnosno drugih materijala iz okvira rada organizacionog dijela u kojem se obavlja stručno osposobljavanje, pod nadzorom i uputstvima mentora.

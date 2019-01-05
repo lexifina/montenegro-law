@@ -1,0 +1,2 @@
+# Član 4
+Upoznavanje sa organizacijom i nadležnostima Ministarstva podrazumijeva upoznavanje sa osnovnim i posebnim organizacionim jedinicama i sekretarijatom Ministarstva i diplomatsko-konzularnim poslovima koji se odnose na bilateralne odnose, multilateralne odnose, ekonomsku diplomatiju, kulturnu diplomatiju, zajedničku vanjsku i bezbjednosnu politiku Evropske unije, zajedničke NATO politike, konzularne poslove, poslove saradnje sa dijasporom - iseljenicima i međunarodno pravne poslove.
