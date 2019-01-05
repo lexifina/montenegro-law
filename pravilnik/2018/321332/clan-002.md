@@ -1,0 +1,25 @@
+# Član 2
+Procjena bezbjednosne zaštite luke, pored podataka utvđenih Zakonom o bezbjednosnoj zaštiti brodova i luka i ISPS pravilnikom o bezbjednosnoj zaštiti brodova i lučkih područja, sadrži i:
+- eventualne nedostatake, koji se odnose na ljudski faktor, infrastrukturu, politike i postupke;
+- prioritetne mjere i njihovu efikasnost radi otklanjanja nedostataka u luci;
+- područja koja su relevantna za bezbjednosnu zaštitu luke, uključujući i granice luke;
+- bezbjednosna pitanja koja se odnose na kontaktne tačke između lučkih operativnih područja;
+- lica zaposlena u luci koja podliježu bezbjednosnoj provjeri zbog prisustva u područjima visokog rizika;
+- djelove luke koji se određuju prema stepenu bezbjednosnog rizika;
+- identifikaciju mogućih rizika u sezoni kada je povećan dolazak brodova u luci ili drugih događaja koji se ne dešavaju stalno u luci;
+- djelove lučkih područja, kao što su: položaj, prilazi, izvori napajanja električnom energijom, komunikacioni sistem sa podacima o svojini i korisnicima i druga pitanja od značaja za bezbjednosnu zaštitu;
+- scenarije bezbjednosnog rizika za luku ili djelove njene infrastrukture, teret, prtljag, putnike ili transportnu opremu unutar luke koji mogu biti direktni ciljevi prijetnje;
+- eventualne posljedice prijetnji koje mogu biti direktne ili indirektne i koje mogu dovesti do ljudskih žrtava;
+- mogućnost povezanosti nezgoda u luci;
+- osjetljivost svakog lučkog područja;
+- organizaciju bezbjedonosne zaštite luke sa licima zaduženim za bezbjednosnu zaštitu luke;
+- nedostatke bezbjednosne zaštite luke koji se odnose na organizaciju i postupke zaštite;
+- mjere i postupke koji će se sprovoditi radi smanjivanja nedostataka bezbjednosne zaštite luka, nadzor nad bezbjednosnom zaštitom na cijeloj luci ili njenom dijelu, uključujući i utvrđivanje identiteta putnika, zaposlenih u luci ili drugih lica koja su angažovana u luci, posjetilaca i posade brodova i nadzor tereta i prtljaga;
+- mjere i postupke u slučaju povećanja stepena bezbjednosne zaštite;
+- mjere i postupke u slučaju sumnjivog tereta, prtljaga, nepoznatih paketa, goriva, zaliha ili lica, poznate opasnosti prilikom uklanjanja opasnosti;
+- mjere i postupke radi ograničavanja ili ublažavanja posljedica nastalih usled ugrožavanja bezbjednosti u luci;
+- način sprovođenja mjera i postupaka bezbjednosne zaštite luke sa licima zaduženim za sprovođenje pojedinih mjera;
+- odnos prema drugim planovima bezbjednosne zaštite i njihovim mjerama;
+- način komunikacije prilikom sprovođenja mjera i postupaka;
+- način zaštite informacija u pogledu bezbjednosne zaštite luke;
+- način upoznavanja lica sa neposrednom opasnošću u luci i upoznavanje javnosti, prema potrebi.
