@@ -1,0 +1,2 @@
+# Član 160
+Stručne i druge poslove za potrebe Skupštine, njenih radnih tijela, predsjednika Skupštine, klubova odbornika i odbornika, nevladinih organizacija i građana koji učestvuju u radu sjednice, Savjeta za razvoj i zaštitu lokalne samouprave, Etičke komisije za izabrane predstavnike i funkcionere i Savjeta za saradnju lokalne samouprave i nevladinih organizacija, obavlja Služba za skupštinske poslove, u skladu sa Odlukom o obrazovanju Službe za skupštinske poslove.
