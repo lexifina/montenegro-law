@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za zasnivanje stvarne službenosti na neodređeno vrijeme uz naknadu na dijelu katastarskih parcela broj 11/9, broj 11/3, broj 2700/2 i broj 2702 KO Vranj
+Glavni grad - Podgorica, kao nosilac prava raspolaganja, daje saglasnost za zasnivanje stvarne službenosti na dijelu katastarskih parcela broj 11/9, broj 11/3, broj 2700/2 i broj 2702 KO Vranj, radi postavljanja kablovskih vodova za trafostanicu STS 10/0,4 kV ETC snage 160 kVA na kat. parceli br.11/2 KO Vranj, koja lokacija je određena Odlukom Gradonačelnika Glavnog grada o određivanju lokacije sa elementima urbanističko tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa, br. 01-031/17- 9555 od dana 25. decembra 2017. godine.
