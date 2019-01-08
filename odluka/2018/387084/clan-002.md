@@ -1,0 +1,2 @@
+# Član 2
+Ovlašćuje se Direkcija za imovinu Glavnog grada da zaključi ugovor o zasnivanju stvarne službenosti na neodređeno vrijeme uz naknadu, sa privrednim društvom "Crnogorski fond za solidarnu stambenu izgradnju" d.o.o, kojim će biti regulisana obaveza da se nepokretnosti, nakon završetka radova (iskopa i postavljanja kablova), vrate u prvobitno stanje, kao i obaveza plaćanja naknade u skladu sa procjenom Komisije za procjenu vrijednosti građevinskog zemljišta i objekata u imovini Glavnog grada- Podgorice.
