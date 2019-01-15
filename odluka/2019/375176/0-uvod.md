@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ("Sl.list CG", broj 2/18) i člana 36 Statuta Opštine Mojkovac ("Sl.list CG" - opštinski propisi, br. 29/18), Skupština opštine Mojkovac na sjednici održanoj dana 26.12.2018.godine donijela je
+O D L U K U O POTVRĐIVANJU ZAKLJUČKA PREDSJEDNIKA OPŠTINE MOJKOVAC O OSLOBAĐANJU OD PLA ĆANJA DIJELA OBAVEZE PO OSNOVU GODIŠNJE NAKNADE ZA KORIŠĆENJE KOMERCIJALNIH OBJEKATA KOJIMA JE OMOGUĆEN PRISTUP SA PUTA ZA 2018.GODINU
