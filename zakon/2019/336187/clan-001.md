@@ -1,0 +1,4 @@
+# Član 1
+U Zakonu o međunarodnoj i privremenoj zaštiti stranaca ("Službeni list Crne Gore", broj 2/17) član 8 mijenja se i glasi:
+"Postupak po zahtjevu za međunarodnu zaštitu, kao i poslove prihvata i smještaja stranca koji traži međunarodnu zaštitu i smještaja azilanata, stranaca sa odobrenom supsidijarnom zaštitom i stranaca sa odobrenom privremenom zaštitom vrši organ državne uprave nadležan za unutrašnje poslove (u daljem tekstu: Ministarstvo).
+Poslove prihvata i smještaja stranca koji traži međunarodnu zaštitu, Ministarstvo vrši preko organizacione jedinice za smještaj stranaca koji traže međunarodnu zaštitu (u daljem tekstu: Centar za prihvat), a poslove smještaja azilanata, stranaca sa odobrenom supsidijarnom zaštitom i stranaca sa odobrenom privremenom zaštitom Ministarstvo vrši preko organizacione jedinice koja pruža pomoć za integraciju ovih lica u društvo."
