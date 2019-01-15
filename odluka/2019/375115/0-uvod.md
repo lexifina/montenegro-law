@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 i tačka 28 Zakona o lokalnoj samoupravi (,,Službeni list CG", br. 2/18), člana 23 stav 2 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", broj 16/16, 83/16, 21/17, 42/17, 12/18, 39/18 i 42/18) i člana 35 stav 1 tačka 28 Statuta opštine Šavnik ("Službeni list CG - opštinski propisi", br. 31/28), uz prethodnu saglasnost Ministarstva finansija, broj: 13-03-18392/1od 24.10.2018. godine, Skupština opštine Šavnik, na sjednici održanoj 27.12.2018. godine, donijela je
+ODLUKU
