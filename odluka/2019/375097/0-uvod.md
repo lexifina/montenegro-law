@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi (Sl.list CG br.2/18), člana 29 stav 2 i 39 stav 3 Zakona o državnoj imovini (Sl.list CG br.21/09 I 40/11) i člana 36 stav 1 tačka 10 Statuta Opštine Herceg Novi (Sl.list RCG - op.prop.15/04, 32/05, 31/06, 14/07 i Sl.list CG-op.prop. 6/09, 16/11 i 60/17), na sjednici održanoj 24.12.2018.godine, Skupština opštine Herceg Novi, donijela je
+ODLUKU
