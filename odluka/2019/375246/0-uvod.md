@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 21 Zakona o lokalnoj samoupravi ("Sl. list CG", broj 02/18), člana 40 Statuta Opštine Pljevlja ("Sl. list CG - opštinski propisi, broj 46/18), člana 49 stav 1 Poslovnika Skupštine Opštine Pljevlja ("Sl. list CG- opštinski propisi" br: 13/15) i člana 11 Odluke o obrazovanju radnih tijela Skupštine ("Sl. list RCG-opštinski propisi", broj 43/06), Skupština Opštine Pljevlja, na sjednici održanoj dana 26.12.2018. godine, donijela je:
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O IMENOVANJU ODBORA ZA IZBOR I IMENOVANJA SKUPŠTINE OPŠTINE PLJEVLJA
