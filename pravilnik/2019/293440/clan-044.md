@@ -1,0 +1,7 @@
+# Član 44
+## Glavni projekat brana i akumulacija
+Pored opštih sadržaja iz člana 22 ovog pravilnika, glavni projekat sadrži i tehnički izvještaj sa tekstualnom i numeričkom dokumentacijom koji je, u zavisnosti od vrste, tipa i specifičnosti objekta, analogan sadržaju idejnog projekta i koji se radi sa detaljizacijom na nivou glavnog projekta.
+Glavni projekat predstavlja detaljnu razradu tehničkog rješenja brane i pratećih objekata koje je dobijeno idejnim projektom i dodatnim istražnim radovima urađenim za potrebe glavnog projekta, te predstavlja detaljnu projektnu razradu dispoziciono sasvim determinisanog objekta i njegovih pratećih sadržaja.
+Osnovu za izradu glavnog projekta čini idejni projekat i zaključci dobijeni u okviru njega, rezultati prethodnih proučavanja (istražnih radova, modelskih ispitivanja, studijskih istraživanja) urađenih za potrebe glavnog projekta, projektni zadatak, kao i uslovi definisani prostorno-planskom dokumentacijom.
+U okviru glavnog projekta variraju se i optimiziraju samo detalji pojedinih djelova objekta brane (npr. oblikovanje evakuacionih organa i sl.) u skladu sa rezultatima odgovarajućih hidrauličkih i matematičkih modelskih istraživanja, a proračuni su na najvišem nivou detaljnosti, sa potpunim dokazivanjem svih komponenti stabilnosti objekata: hidrauličke, konstrukcijske (statičke i dinamičke), geotehničke i druge.
+Izradi glavnog projekta prethodi izbor konkretne opreme, tako da se projekat radi sa gabaritima, masama i drugim karakteristikama opreme dobijenim od odabranog proizvođača i/ili isporučioca opreme.

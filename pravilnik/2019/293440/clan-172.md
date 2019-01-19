@@ -1,0 +1,4 @@
+# Član 172
+Projekat organizacije i tehnologije građenja je sastavni dio tehničke dokumentacije i radi se, u zavisnosti od vrste, tipa i specifičnosti objekta, kao: elaborat o funkcionalnosti i racionalnosti izgradnje objekta, elaborat o tehničko-tehnološkim i organizacionim elementima izgradnje objekta i glavni projekat organizacije i tehnologije građenja.
+Elaborat o funkcionalnosti i racionalnosti izgradnje objekta je sastavni dio idejnog rješenja, eleborat o tehničko-tehnološkim i organizacionim elementima izgradnje objekta je sastavni dio idejnog projekta, a glavni projekat organizacije i tehnologije građenja je sastavni dio glavnog projekta objekta.
+Vrsta, obim i sadržaj projekta organizacije i tehnologije građenja zavisi od vrste, tipa i specifičnosti objekta i vrste odgovarajuće tehničke dokumentacije, a definiše se projektnim zadatkom.

@@ -1,0 +1,4 @@
+# Član 32
+## Idejno rješenje brana i akumulacija
+U zavisnosti od vrste, tipa i specifičnosti objekta, kao dio prethodnih proučavanja za izradu idejnog rješenja kod složenih sistema, kao i kod sistema koji su nedovoljno izučeni, najprije se radi studija sistema, kojom se optimizira konfiguracija čitavog sistema i sužava prostor za odlučivanje o parametrima brana i akumulacija koje će se razmatrati u okviru idejnog rješenja.
+Na nivou idejnog rješenja sagledavaju se tehničke mogućnosti za realizaciju brana i akumulacija, određuju se makrolokacije objekata brana, sagledavaju se okvirne performanse akumulacija (moguće isporuke vode vodoprivrednim korisnicima, energetska proizvodnja, uslovi retenziranja velikih voda, mogućnosti povećavanja malih voda, itd.), utvrđuju se okvirne nadmorske visine/kote normalnog uspora, sagledavaju se sukobi interesa pojedinih sektora i korisnika prostora i usmjeravaju se dalji istražni radovi za narednu fazu projektovanja.

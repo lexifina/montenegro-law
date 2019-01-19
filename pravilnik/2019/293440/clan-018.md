@@ -1,0 +1,4 @@
+# Član 18
+Idejni projekat predstavlja tehničku razradu osnovne koncepcije i dispozicije utvrđene u idejnom rješenju, sa ciljem da se utvrdi optimalno rješenje i mikrolokacija objekta, sa stanovišta ekonomskih, funkcionalnih, tehnoloških i tehničkih zahtjeva, kao i zahtjeva za zaštitu životne sredine.
+Idejni projekat analizira i razrađuje naročito: mikrolokaciju objekta; tehničko-tehnološke i eksploatacione karakteristike objekta; stabilnost i sigurnost objekta; tehničko-tehnološke i organizacione elemente izgradnje objekta; energetske sisteme objekta sa procjenom energetske efikasnosti; rješenja infrastrukture; konstruktivna i građevinska rješenja; opremu, instalacije, uređaje i postrojenja objekta; predmjer i predračunsku vrijednost izgradnje objekta.
+Na osnovu idejnog projekta mogu se, po potrebi, izraditi studija opravdanosti, licitaciona dokumentacija za izbor i nabavku opreme i licitaciona dokumentacija za izgradnju objekta.

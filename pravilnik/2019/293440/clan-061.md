@@ -1,0 +1,9 @@
+# Član 61
+## Glavni projekat hidroenergetskih objekata
+Pored opštih sadržaja iz člana 22 ovog pravilnika, glavni projekat sadrži i tehnički izvještaj sa tekstualnom i numeričkom dokumentacijom koji je, u zavisnosti od vrste, tipa i specifičnosti objekta, analogan sadržaju idejnog projekta i koji se radi sa detaljizacijom na nivou glavnog projekta.
+Glavni projekat predstavlja detaljnu razradu tehničkog rješenja hidroelektrane u okviru višenamjenskog objekta, koje je dobijeno idejnim projektom, a na bazi detaljnih prethodnih proučavanja (istražnih radova, modelskih ispitivanja, studijskih istraživanja), obavljenih za potrebe glavnog projekta, zaključaka izvedenih iz idejnog projekta, uslova definisanih prostorno-planskom dokumentacijom, a u skladu sa projektnim zadatkom.
+Glavni projekat predstavlja detaljnu projektnu razradu dispoziciono sasvim determinisanog objekta i njegovih pratećih sadržaja.
+U okviru glavnog projekta variraju se i optimiziraju samo detalji pojedinih djelova objekta (npr. oblikovanje evakuacionih organa i sl.) u skladu sa rezultatima odgovarajućih modelskih matematičkih i hidrauličkih istraživanja.
+Proračuni su na najvišem nivou detaljnosti, sa potpunim dokazivanjem svih komponenti stabilnosti objekata: hidrauličke, konstrukcijske (statičke i dinamičke), geotehničke i druge, sagledavaju se svi fenomeni koji utiču na funkcije sistema, a posebno se sagledavaju prelazni režimi u radu hidroelektrane, sa svim delikatnim fenomenima koji prate te procese (problemi vodnog udara, nestacionarni fenomeni u dovodnoj i odvodnoj derivaciji i načini njihovog neutralisanja, problem vibracija i pulzacije pritisaka, problemi stabilnosti pojedinih hidrauličnih režima tokom eksploatacije objekta i u hidrološki i hidraulički kritičnim razdobljima).
+Nakon potpunog konstrukcijskog projektovanja radi se detaljni predmjer i predračun troškova izgradnje.
+Izradi glavnog projekta prethodi izbor konkretne opreme.

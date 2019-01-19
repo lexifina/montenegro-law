@@ -1,0 +1,10 @@
+# Član 62
+U zavisnosti od vrste, tipa i specifičnosti objekta, ne razmatraju se alternativne mikrolokacije brane i ostalih postrojenja i objekata, već se na bazi istražnih radova, hidrauličkih i matematičkih modela urađenih za potrebe glavnog projekta, one jednoznačno definišu, po potrebi uz dodatne istražne radove i modelska ispitivanja.
+Izrađuju se detaljni proračuni svih objekata, sa jednoznačnim dokazima da su ostvareni neophodni koeficijenti svih vidova stabilnosti i sigurnosti, uzimajući u obzir i propisane najnepovoljnije kombinacije uticaja, kao i najnepovoljnije prelazne režime rada sistema, kada su pojedini uticaji mjerodavni za definisanje stabilnosti sistema.
+Građevinski objekti se projektuju za unaprijed tačno definisanu opremu, čije su karakteristike (gabariti, mase, načini oslanjanja, računske sile i uticaji, itd.) dobijeni od odabranih proizvođača i/ili isporučilaca.
+Novi djelovi glavnog projekta su: numerički podaci o položaju objekata, tehnički uslovi građenja, mjere zaštite na radu.
+Predmjer se radi na nivou detaljnosti koji omogućava, po potrebi, pouzdanu izradu licitacione dokumentacije za izgradnju objekta.
+Svi bezbjednosno važni proračuni stabilnosti objekata i sistema prilažu se u izvornom vidu proračuna.
+Sastavni dio tehničke dokumentacije glavnog projekta je i detaljan opis izvođenja po svakoj poziciji, sa definisanim uslovima, redosljedom, tehnologijom izvođenja i ispitivanjima kvaliteta opreme, instalacija, uređaja, postrojenja, objekata i izvedenih radova, kao i pojedinačnih elemenata objekata, uslovima za osmatranje, itd.
+Defiinišu se mjere zaštite na radu, posebno izdvojene za sve bezbjednosno važne faze izgradnje objekta, montaže i ispitivanja opreme, instalacija, uređaja, postrojenja i objekata.
+Definišu se uputstva za funkcionalno ispitivanje, probni rad i ispitivanje performansi opreme, instalacija, uređaja, postrojenja i objekata u toku probnog rada, uputstva za održavanje opreme, instalacija, uređaja, postrojenja i objekata, kao i uputstva za upravljanje i korišćenje objekta.
