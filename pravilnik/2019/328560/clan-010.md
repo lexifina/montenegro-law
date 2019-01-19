@@ -1,0 +1,3 @@
+# Član 10
+Ako izvođač radova zbog nedostataka prouzrokovanih nepredviđenim okolnostima (nedovoljna nosivost tla, visoki nivo podzemnih voda, promjene djelova elemenata i opreme koja je fabrički proizvedena i sl.) ne može da izvodi radove po revidovanom glavnom projektu, ovlašćeni inženjer izvođača radova je dužan da o tome obavijesti ovlašćenog inženjera vršioca stručnog nadzora, koji o tome obavještava nadležnog inspekcijskog organa.
+U slučaju iz stava 1 ovog člana, izmjenu glavnog projekta vrši investitor, odnosno projektant koji je izradio glavni projekat, nakon prijema zapisnika nadležnog inspekcijskog organa kojim se potvrđuje postojanje nepredviđenih okolnosti.

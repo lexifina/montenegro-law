@@ -1,0 +1,6 @@
+# Član 9
+Ako u toku izgradnje objekta ovlašćeni inženjer izvođača radova utvrdi nedostatke u revidovanom glavnom projektu, treba da u pisanoj formi bez odlaganja, obavijesti ovlašćenog inženjera vršioca stručnog nadzora.
+Ako ovlašćeni inženjer vršioca stručnog nadzora ocijeni da su primjedbe ovlašćenog inženjera izvođača radova iz stava 1 ovog člana opravdane, upisom u građevinski dnevnik naložiće investitoru da izvrši izmjenu glavnog projekta i da izvrši njegovu reviziju i o tome obavijestiti nadležni inspekcijski organ.
+Investitor, odnosno projektant koji je izradio glavni projekat, treba da otkloni nedostatke iz stava 2 ovog člana u propisanom roku.
+Ako investitor, odnosno projektant koji je izradio glavni projekat, ne postupi u skladu sa stavom 3 ovog člana, vršilac stručnog nadzora treba da, nakon upozorenja upućenog investitoru i projektantu, u roku od sedam dana od dana prijema upozorenja o tome obavijesti nadležnog inspekcijskog organa.
+Ako nedostaci iz stava 2 ovog člana ugrožavaju život i zdravlje ljudi, sigurnost objekta, okolinu, saobraćaj i/ili susjedne objekte, izvođač radova dužan je da, po nalogu vršioca stručnog nadzora, obustavi izvođenje radova i o tome obavijesti nadležni inspekcijski organ.
