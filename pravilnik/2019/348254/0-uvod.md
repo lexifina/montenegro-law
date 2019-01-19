@@ -1,0 +1,2 @@
+Na osnovu člana 54 stav 6 Zakona o veterinarstvu ("Službeni list CG", br. 30/12, 48/15, 52/16 i 43/18), Ministarstvo poljoprivrede i ruralnog razvoja donijelo je
+PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O MJERAMA ZA SPRJEČAVANJE POJAVE, OTKRIVANJE, SUZBIJANJE I ISKORJENJIVANJE TRANSMISIVNIH SPONGIFORMNIH ENCEFALOPATIJA*

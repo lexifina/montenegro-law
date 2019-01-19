@@ -1,0 +1,3 @@
+# Član 13
+U članu 28 stav 1 mijenja se i glasi:
+"(1) Proizvodnja i korišćenje prerađenih proteina životinjskog porijekla i krmnih smješa koje sadrže prerađene proteine životinjskog porijekla za ishranu životinja akvakulture, osim ribljeg brašna i prerađenih proteina životinjskog porijekla dobijenih od insekata iz uzgoja, može da se vrši ako nus proizvodi životinjskog porijekla namijenjeni za proizvodnju prerađenih proteina životinjskog porijekla potiču iz odobrenih objekata za klanje u kojima se ne kolju preživari ili iz objekata za rasijecanje u kojima se ne vrši otkošćavanje ili rasijecanje mesa preživara ili drugih objekata u kojima se ne vrši manipulacija proizvodima od preživara."
