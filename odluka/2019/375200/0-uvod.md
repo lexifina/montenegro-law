@@ -1,0 +1,2 @@
+Na osnovu člana 18 stav 1 alineja 2 i člana 29 stav 2 Zakona o državnoj imovini ("Sl. list CG", broj 21/2009 i 40/2011), člana 33 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list Crne Gore - opštinski propisi", broj 2/2018) i člana 20 stav 1 i stav 2 Statuta opštine Mojkovac ("Sl. list Crne Gore - opštinski propisi", broj 29/2018), Skupština opštine Mojkovac, na śednici održanoj 26. decembra 2018. godine, donijela je
+ODLUKA
