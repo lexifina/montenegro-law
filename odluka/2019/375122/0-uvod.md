@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 2 Zakona o lokalnim komunalnim taksama ("Službeni list RCG", br. 27/06 i 33/18), člana 5 tačka 4 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", br. 42/03 i 44/03, "Službeni list CG", br. 05/08, 51/08 i 74/10) i člana 40 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi"br. 19/10), Skupština Opštine Budva, na sjednici održanoj dana 27. decembra 2018.godine, donijela je
+ODLUKU
