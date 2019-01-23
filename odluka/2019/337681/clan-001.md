@@ -1,0 +1,2 @@
+# Član 1
+Utvrđuje se javni interes za eksproprijaciju nepokretnosti u Opštini Pljevlja za kat.parcelu broj 267/3, pašnjak 5. klase u površini od 483 m², kat.parcelu broj 265/3, šumu 5. klase u površini od 38 m² i njivu 3. klase u površini od 41 m2, kat.parcelu broj 283/2, šumu 5. klase u površini od 208 m² i kat.parcelu broj 283/3, šumu 5. klase u površini od 221 m² upisane u listu nepokretnosti broj 169 KO Borova kao svojina Mrdak Radomira Dejana.
