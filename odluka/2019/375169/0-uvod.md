@@ -1,0 +1,2 @@
+Na osnovu 38 stava 1 tačke 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18), člana 42b stav 1 i 2 Zakona o turističkim organizacijama ("Službeni list RCG", br. 46/07, 40/11, 45/14 i 42/17) i člana 40 stav 1 tačka 2 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10) uz prethodnu saglasnost Vlade Crne Gore br. 07-1038 od 22.03.2018. godine, Skupština opštine Budva, na sjednici održanoj dana 27. decembra 2018.godine, donijela je
+ODLUKU
