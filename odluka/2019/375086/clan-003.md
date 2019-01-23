@@ -1,0 +1,2 @@
+# Član 3
+Opština Žabljak dodjeljuje javna priznanja, radi odavanja priznanja za izuzetna dostignuća i doprinos od posebnog značaja za razvoj i ugled Opštine Žabljak, a posebno za izuzetne uspjehe u unapređivanju preduzetništva, privrede, obrazovanja, umjetnosti, kulture, zaštite i unapređivanja životne sredine, sporta, tehničke kulture, zdravstva, zaštite i spašavanja i drugih djelatnosti, kao i za podsticanje aktivnosti koje su tome usmjerene.
