@@ -1,0 +1,3 @@
+Na osnovu člana 38 Zakona o lokalnoj samupravi ("Službeni list Crne Gore", br. 002/18) i člana 8 Zakona o budžetu i fiskalnoj odgovomosti ("Sl.list CG", broj 20/14, 56/14, 70/17, 30/17 i 92/17) i člana 45 Zakona o finansiranju lokalne samouprave ("Sl.list RCG",broj 42/03 i 44/03 " Sl.list CG",br.05/08,51/08 i 74/10, 1/15, 78/15, 3/16, 30/17 i 92/17) i člana 33 Statuta opštine Plav ("Službeni list Crne Gore - opštinski propisi", br. 44/18), Skupština Opštine Plav, na sjednici održanoj dana 27.12.2018.godine, donijela je
+O D L U K U
+o izmjenama i dopunama Odluke o Budžetu Opštine Plav za 2018. godinu
