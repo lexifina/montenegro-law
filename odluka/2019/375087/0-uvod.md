@@ -1,0 +1,2 @@
+Na osnovu člana 42 stav 2 Statuta opštine Budva ("Službeni list CG - Opštinski propisi", br. 19/10), člana 10 stav 4 alineja 9 Odluke o obrazovanju radnih tijela Skupštine opštine Budva ("Službeni list opštine Budva", br.04/05 i "Službeni list CG - Opštinski propisi", br. 02/13), Skupština Opštine Budva, na sjednici održanoj dana 27. i 28. decembra 2018. godine, donijela je
+ODLUKU O DAVANJU OVLAŠĆENJA ODBORU ZA STATUT I PROPISE
