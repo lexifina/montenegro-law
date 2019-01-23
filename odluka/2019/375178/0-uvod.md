@@ -1,0 +1,2 @@
+Na osnovu člana 11 stav 1 alineja 7 Odluke o osnivanju DOO ,, Parking Servis'' Budva (,,Službeni list CG- Opštinski propisi", br. 33/13 i 21/14), člana 20 stav 1 alineja 1 Statuta DOO ,, Parking Servis'' Budva (,,Službeni list CG - Opštinski propisi", br. 38/13) i člana 40 Statuta Opštine Budva (,,Službeni list CG-Opštinski propisi", br. 19/10) Skupština opštine Budva, na sjednici održanoj dana 27. decembra 2018. godine, donijela je
+ODLUKU
