@@ -1,0 +1,2 @@
+Na osnovu člana 49.Zakona o uređenju prostora i izgradnji objekata (''Sl.list CG'', br.51/08, 34/11, 35/13, 33/14) i člana 32. Statuta Opštine Petnjica (''Sl.list CG''-Opštinski propisi, br. 39/18),i dobijene Saglasnosti od strane Ministarstva održivog razvoja i turizma na korigovani Predlog PUP-a Petnjica ( br.104-2740/24 od 24.12.2018.godine) , Skupština opštine Petnjica, na sjednici održanoj 27.12. 2018. godine, donijela je
+ODLUKU
