@@ -1,0 +1,2 @@
+# Član 2
+Zaposlenima u organima lokalne uprave opštine Gusinje za čijim radom je potreba prestala u skladu sa članom 127 i 129 Zakona o državnim službenicima i namještenicima zbog organizacionih promjena, donošenja novog akta o unutrašnjeg organizaciji i sistematizaciji radnih mjesta ili izmjene postojeceg, pripada vidina od 12 bruto zarada ukoliko ne ispunjavaju uslove za ostvarivanje prava na penziju po sili zakona.
