@@ -1,0 +1,3 @@
+Na osnovu člana 52 Zakona o planiranju prostora i izgradnji objekta ("Sl.list CG" br.064/17,44/18 I 63/18), člana 34 stav 1 i 3 , člana 40 stav 2 tačka 3 Zakona o državnoj imovini ("Sl.list CG" br.21/09 i 40/11), člana 28 stav 1 i 2 Zakona o svojinsko pravnim odnosima("Sl.list CG" br.19/09), člana 33 stava 1 tačka 1 i člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ( "Sl.list CG" br.2/18,) I člana 36 stav 2 i 3 i člana 42 stav 1 tačka 9 Statuta Opštine Ulcinj ("Sl.list CG - opštinski propisi" br.5/07,9/09 i 16/11), Skupština Opštine Ulcinj na sjednici održanoj dana 28.12.2018 godine, donijela je
+O D L U K U
+o otkupu zemljišta radi dokompletiranja urbanističke parcele br.151 I 315 zona C sa ID DUP-a "Ulcinj-Grad" za
