@@ -1,0 +1,2 @@
+Na osnovu člana 22 stav 1 i člana 17 stav 2 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18 - odluka US i 42/2018), člana 38 stav 1 tačka 29 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18) i člana 42. a u vezi sa članom 119. Statuta opštine Ulcinj ("Sl.List CG" - opštinski propisi br. 15/07,09/09 i 16/11), Skupština opštine Ulcinj, na sjednici održanoj dana 27.12.2018 godine, donijela je
+ODLUKU
