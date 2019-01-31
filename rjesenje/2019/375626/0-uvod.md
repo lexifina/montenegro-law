@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 21 Zakona o lokalnoj samoupravi ("Službeni list CG" br. 2/18), člana 73 stav 1 tačka 24 i član 74 stav 2 alineja 3 Statuta Prijestonice ("Službeni lista CG-opštnski propisi 49/18), člana 27 stav 5 Poslovnika Skupštine Prijestonice Cetinje ("Službeni list CG- opštinski propisi" br. 21/11) i člana 4 i 11 Odluke o obrazovanju radnih tijela Skupštine ("Sl. list CG- opštinski propisi" br. 01/10 i 53/16) Skupština Prijestonice Cetinje na sjednici održanoj, 31.01.2019. godine, donosi
+R J E Š E NJ E
