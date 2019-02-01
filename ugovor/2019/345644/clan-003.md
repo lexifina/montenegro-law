@@ -1,0 +1,2 @@
+# Član 3
+Državljani države jedne strane ugovornice koji nemaju mogućnost da izađu sa teritorije države druge strane ugovornice u roku koji je naveden u čl. 1 i 3 ovog Sporazuma, zbog razloga koji ne zavise od njih (bolest, druge vanredne situacije), uz postojanje dokumentovane ili druge vjerodostojne potvrde tih razloga, mogu se obratiti nadležnim organima države u kojoj borave radi dobijanja dozvole za produženje boravka na teritoriji te države na period koji je neophodan za vraćanje u državu svog državljanstva ili stalnog nastanjenja.
