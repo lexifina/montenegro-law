@@ -1,0 +1,19 @@
+# Član 4
+Lokalna studija lokacije se sastoji od tekstualnog i grafičkog dijela i čine sastavni dio ove Odluke.
+Tekstualni dio sadrži:
+OPŠTA DOKUMENTACIJA
+UVODNI DIO
+ANALITIČKI DIO
+PLANSKI DIO:
+-
+IZVOD IZ STRATEŠKE PROCJENE UTICAJA NA ŽIVOTNU SREDINU
+-
+PREGLED OSTVARENIH KAPACITETA
+-
+INFRASTRUKTURA
+-
+EKONOMSKA ANALIZA SA ELEMENTIMA TRŽIŠNE PROJEKCIJE
+Grafički dio sadrži:
+00 GEODETSKI SNIMAK ……….…………………………………..………… R1/500
+01 KATASTARSKO GEODETSKA PODLOGA ……………………………. R1/2500
+01a KORIGOVANA GRANICA PLANA ……………………………………… R1/2500
