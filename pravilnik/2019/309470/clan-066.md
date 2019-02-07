@@ -1,0 +1,3 @@
+# Član 66
+Evidenciju mjera za povredu poslovnog morala i dobrih poslovnih običaja vodi Sud časti na osnovu konačnih odluka o njihovom izricanju. U evidenciju se unosi: poslovno ime i adresa sjedišta privrednog subjekta u odnosu na kojeg je utvrđeno da je učinio povredu dobrih poslovnih običaja i poslovnog morala, opis povrede, datum kada je učinjena povreda, izrečena mjera, datum konačnosti odluke i datum izvršenja mjere.
+Izrečena mjera briše se iz evidencije, po proteku roka od dvije godine od konačnosti odluke ako se u tom roku ne učini nova povreda dobrih poslovnih običaja i poslovnog morala.
