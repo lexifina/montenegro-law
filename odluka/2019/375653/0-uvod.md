@@ -1,0 +1,2 @@
+Na osnovu člana 49 Zakona o teritorijalnoj organizaciji Crne Gore ("Službeni list CG", br. 54/11, 26/12, 27/13, 62/13, 12/14, 3/16, 31/17), člana 64 Zakona o sportu ("Službeni list CG" broj 44/18), člana 4 stav 2 Odluke o preuzimanju osnivačkih prava i obaveza u "FK Dečić" Tuzi ("Službeni list CG - opštinski propisi", broj 50/18) i člana 47 stav 1 tačka 1 Statuta opštine u okviru Glavnog grada - Tuzi ("Službeni list CG - opštinski propisi", broj 39/17), Skupština opštine u okviru Glavnog grada - Tuzi, na sjednici održanoj 11.02.2019. godine, donijela je
+ODLUKU
