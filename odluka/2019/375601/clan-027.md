@@ -1,0 +1,3 @@
+# Član 27
+Služba za zajedničke poslove dužna je da u roku od petnaest dana od dana stupanja na snagu ove odluke, Direkciji za imovinu i zastupanje, dostavi podatke iz knjigovodstvene evidencije o broju, vrsti, tipu i starosti službenih vozila koja su u upotrebi.
+Sekretarijat za finansije i lokalne javne prihode, u saradnji sa organima i služba kojima su dodjijeljena vozila Odlukom o davanju na korišćenje službenih vozila organima i službama Opštine Herceg Novi, je dužan da u roku od trideset dana od dana stupanja na snagu ove odluke dostavi predsjedniku Opštine Interni akt kojim će se urediti maksimalna godišnja potrošnja goriva po organu i službi kome je dodjeljeno vozilo na korišćenje, uz propisan obrazac o evidenciji potrošnje na mjesečnom nivou.
