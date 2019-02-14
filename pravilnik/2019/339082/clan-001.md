@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o tehničkim standardima zaštite vazduha od emisija isparljivih organskih jedinjenja koje nastaju skladištenjem, pretakanjem i distribucijom motornih benzina ("Službeni list CG", broj 7/14) u članu 10 stav 2 mijenja se i glasi:
+"Efikasnost zadržavanja benzinskih para sistema sakupljanja benzinskih para treba da bude jednaka ili veća od 85%, u skladu sa sertifikatom proizvođača koji se izadaje prema standardu MEST EN 16321-1:2017 (Rekuperacija isparenja benzina tokom punjenja motornih vozila na uslužnim stanicama - Dio 1: Metode ispitivanja za odobravanje tipa ocjenjivanja efikasnosti sistema za rekuperaciju isparenja benzina)."
