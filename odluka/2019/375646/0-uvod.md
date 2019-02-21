@@ -1,0 +1,2 @@
+Na osnovu člana 58 Zakona o lokalnoj samoupravi ("Sl.list CG" broj 2/18), člana 59 stav 2 alineja 11 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", broj 15/04, 32/05, 31/06, 14/07, "Sl. list CG - Opštinski propisi", broj 16/09, 16/11 I 60/17) i člana 7 Odluke o javnom prevozu putnika u gradskom linijskom drumskom saobraćaju ("Sl. list RCG - Opštinski propisi", broj 31/06, 37/11, 36/13, 17/15 i 27/16), Predsjednik Opštine Herceg Novi, dana 25.01.2019. godine, donosi
+ODLUKU
