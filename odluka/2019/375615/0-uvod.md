@@ -1,0 +1,2 @@
+Na osnovu člana 39 stav 1 i člana 59 stav 2, a u vezi sa članom 154 stav 2 i 4 Zakona o socijalnoj i dječjoj zaštiti (" Službeni list Crne Gore" , br. 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17 i 50/17), člana 32 stav 1 tačka 16 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" , br. 2/18) i člana 70 stav 2 Statuta Opštine Budva ("Službeni list Crne Gore - Opštinski propisi" , br. 19/10) predsjednik Opštine Budva, donio je
+ODLUKU O DOPUNI ODLUKE O PRAVIMA IZ SOCIJALNE I DJEČJE ZAŠTITE
