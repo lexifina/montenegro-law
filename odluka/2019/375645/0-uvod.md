@@ -1,0 +1,2 @@
+Na osnovu člana 54 Zakona o državnoj imovini ("Sl. list Crne Gore", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore", broj 2/18) i člana 52 Zakona o eksproprijaciji ("Sl. list RCG", br. 55/00, 12/02 i 28/06 i "Sl. list CG", br. 21/08, 30/17 i 75/18), Skupština Glavnog grada - Podgorice, na sjednici održanoj 18. februara 2019. godine, donijela je
+O D L U K U
