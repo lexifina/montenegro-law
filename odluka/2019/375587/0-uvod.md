@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 29 Zakona o lokalnoj samoupravi ("Sl. list CG" br. 2/18), člana 23 stav 1 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18 i 42/18), i člana 40 stav 1. tačka 29 Statuta opštine Pljevlja ("Sl. list CG - Opštinski propisi", br. 46/2018), Skupština opštine Pljevlja, po prethodno pribavljenom mišljenju Ministarstva finansija Crne Gore br. 03-1332/1 od 05.02.2019. godine, dana 08.02.2019. godine, donijela je:
+ODLUKU
