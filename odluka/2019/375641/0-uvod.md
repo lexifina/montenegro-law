@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore" br.02/18), na osnovu člana 29 Zakona o elektronskim medijima ("Sl.list CG" br. 46/10,40/11, 53/11, 06/13, 55/16, 92/17), člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl. list CG-Opštinski propisi", br. 19/18) i člana 21 Odluke o organizovanju Lokalnog javnog emitera Radio Bijelo Polje ("Sl.list CG - opštinski propisi", br.25/11 i 11/18), na predlog Odbora za izbor i imenovanja, Skupština opštine Bijelo Polje, na sjednici održanoj 11.02.2019. godine, d o n i j e l a j e
+O D L U K U
