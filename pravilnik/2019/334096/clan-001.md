@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom uređuju se međusobna prava i dužnosti lica koje je strani državljanin ili državljanin Crne Gore koji ima regulisan boravak u državi prijema (u daljem tekstu: lokalno osoblje) i Ministarstva vanjskih poslova radi vršenja administrativno-tehničkih, pomoćnih i drugih poslova u diplomatsko-konzularnim predstavništvima Crne Gore u inostranstvu (u daljem tekstu: diplomatsko-konzularno predstavništvo).
