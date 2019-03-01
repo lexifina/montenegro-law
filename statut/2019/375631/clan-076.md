@@ -1,0 +1,2 @@
+# Član 76
+Predsjednik Skupštine predstavlja Skupštinu, saziva sjednicu Skupštine, predsjedava i rukovodi njenim radom, stara se o realizaciji odluka i drugih akata Skupštine, predlaže dnevni red, potpisuje akte Skupštine, koordinira rad radnih tijela, sarađuje sa gradonačelnikom, brine se o javnosti rada Skupštine i obavlja i druge poslove u skladu sa zakonom, ovim statutom i Poslovnikom Skupštine.

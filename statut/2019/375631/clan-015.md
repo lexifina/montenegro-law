@@ -1,0 +1,2 @@
+# Član 15
+Povelja Glavnog grada dodjeljuje se građanima Glavnog grada i drugim licima, njihovim udruženjima, mjesnim zajednicama, ustanovama, privrednim društvima i drugim pravnim licima povodom njihovih jubileja i značajnih događaja u zemlji i u gradu, za uspjehe u poslovanju, zasluge za razvoj Glavnog grada, unapređenje kvaliteta života u Glavnom gradu i za promociju ugleda Glavnog grada u zemlji i svijetu.

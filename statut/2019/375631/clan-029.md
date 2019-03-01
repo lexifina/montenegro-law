@@ -1,0 +1,2 @@
+# Član 29
+Zbog posebnog značaja koji Glavni grad ima za Državu, organi Glavnog grada sa nadležnim državnim organima, u skladu sa Zakonom, usklađuju sprovođenje poslova iz svoje nadležnosti u dijelu stvaranja uslova za razvoj Glavnog grada, predstavljanja Glavnog grada u protokolarnim i promotivnim situacijama i u poslovima međudržavne i međunarodne saradnje, kao i u dijelu organizovanja i sprovođenja priredbi i proslava državnog karaktera.
