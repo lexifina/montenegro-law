@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Sl.list CG", br. 55/16, 74/16 i 2/18), člana 48 stav 1 tačka 52 Statuta Glavnog grada ("Sl. list RCG - Opštinski propisi" broj 28/06 i "Sl.list CG - Opštinski propisi", br. 39/10, 18/12 i 38/17) i člana 11 stav 1 alineja 1 Odluke o osnivanju društva sa ograničenom odgovornošću "Zelenilo" - Podgorica ("Sl. list CG - Opštinski propisi", broj 22/13), Skupština Glavnog grada - Podgorice, na sjednici održanoj 18. februara 2019. godine, donijela je -
+O D L U K U
+o davanju saglasnosti na Odluku o izmjeni Statuta Društva sa ograničenom odgovornošću "Zelenilo" -
