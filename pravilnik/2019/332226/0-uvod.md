@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 tačka 9 Zakona o vazdušnom saobraćaju ("Službeni list CG", br. 30/12 i 30/17), uz saglasnost Ministarstva saobraćaja i pomorstva, Agencija za civilno vazduhoplovstvo donijela je
+PRAVILNIK O PRESTANKU VAŽENJA PRAVILNIKA O SPROVOĐENJU ISTRAŽIVANJA NESREĆA I OZBILJNIH NEZGODA U CIVILNOM VAZDUHOPLOVSTVU
