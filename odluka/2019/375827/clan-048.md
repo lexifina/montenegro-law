@@ -1,0 +1,2 @@
+# Član 48
+Predsjednik opštine donijeće akt o unutrašnjoj organizaciji i sistematizaciji radnih mjesta službe predsjednika opštine u roku od 30 (trideset) dana od dana stupanju na snagu ove Odluke. Starješina organa lokalne uprave donijeće akt o unutrašnjoj organizaciji i sistematizaciji radnih mjesta i broju izvršilaca u organu u roku od 30 dana od dana stupanja na snagu ove Odluke i dostaviti predsjedniku na saglasnost.
