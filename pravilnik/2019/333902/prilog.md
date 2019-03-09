@@ -1,0 +1,34 @@
+ZAPISNIK O TOKU I REZULTATIMA ISPITA ZA STICANJE STRUČNE KVALIFIKACIJE
+___________________________________________________________________________________
+(naziv kvalifikacije)
+Ime, očevo ime i prezime kandidata: _____________________________________________ Dan, mjesec, godina rođenja, opština, država:
+___________________________________________________________________________________
+Organizator provjere (br. licence) _______________________________________________
+SADRŽAJ ISPITA
+Djelovi ispita
+Ishodi učenja
+Uspjeh
+TEORIJSKI DIO ISPITA
+Naziv jedinice kvalifikacije:
+U skladu sa Ispitnim katalogom
+Broj bodova za prolaznost
+Broj bodova na testu
+Maksimalan broj bodova
+PRAKTIČNI DIO ISPITA
+Naziv jedinice kvalifikacije:
+U skladu sa Ispitnim katalogom
+Broj bodova za prolaznost
+Broj osvojenih bodova
+Maksimalan broj bodova
+Početak ispita:
+______h
+Završetak ispita: ______h Uspjeh na ispitu: položio/la
+nije položio/la
+NAPOMENA:
+______________________________________________________________________________________________________________ ______________________________________________________________________________________________________________ ___________________________________
+KOMISIJA:
+(ime i prezime, broj licence)
+1. ________________________________________________
+2._________________________________________________
+3._________________________________________________
+Datum:
