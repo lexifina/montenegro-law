@@ -1,0 +1,6 @@
+# Član 2
+Obrazac identifikacione oznake lica koje vrši poslove zaštite (u daljem tekstu: identifi- kaciona oznaka) je pravougaonog oblika, u vidu kartice, dimenzija 86 x 54 mm, izrađen od PVC materijala, u izvedenim tonovima pretežno smeđe boje, u koju su ugrađeni zaštitni elementi i preko koje se nanosi zaštitna folija sa hologramom.
+Obrazac identifikacione oznake izrađen je u skladu sa standardima ISO/IEC 7810, za dimenzije i fizičke karakteristike i ISO/IEC 10373, za testiranje fizičkih karakteristika.
+Obrazac identifikacione oznake, na prednjoj strani, sadrži: Grb Crne Gore, naziv: "Crna Gora", mjesta za fotografiju dimenzija 24 x 33 mm, prezime, ime, državljanstvo, jedinstveni ma- tični broj lica koje vrši poslove zaštite, naziv privrednog društva, drugog pravnog lica ili ime i pre- zime preduzetnika kod kojeg je to lice zaposleno (firma), datum izdavanja i datum do kojeg važi identifikaciona oznaka.
+Obrazac identifikacione oznake, na poleđini, sadrži mjesta za datum rođenja, pol, radno mje- sto lica koje vrši poslove zaštite, naziv organa koji je izdao i broj identifikacione oznake, kao i mje- sto za potpis lica koje vrši poslove zaštite.
+Obrazac identifikacione oznake sastavni je dio ovog pravilnika.
