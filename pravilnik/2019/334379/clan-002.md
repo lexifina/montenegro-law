@@ -1,0 +1,3 @@
+# Član 2
+## Sastavni djelovi željezničke infrastrukture
+Sastavni djelovi željezničke infrastrukture su: donji i gornji stroj pruge, objekti na pruzi (mostovi, vijadukti, tuneli, propusti i drugi objekti), stanični kolosjeci, telekomunikaciona, signalno-sigurnosna, elektrovučna, elektroenergetska i ostala postrojenja i uređaji na pruzi, oprema pruge, zgrade željezničkih službenih mjesta i ostali objekti na željezničkim službenim mjestima koji su u funkciji organizovanja i regulisanja željezničkog saobraćaja sa zemljištem koje služi tim zgradama, pružni pojas i vazdušni prostor iznad pruge u visini od 12 m, odnosno 14 m kod dalekovoda napona preko 220 kV, računajući iznad gornje ivice šine.
