@@ -1,0 +1,2 @@
+# Član 4
+Strateškom procjenom će se analizirati i ocijeniti mogući negativni uticaji na životnu sredinu do kojih može doći tokom realizacije plana iz člana 2 ove odluke, odnosno projekata u odnosu na vrstu, kvalitet, obim i namjenu mineralnih sirovina koje se eksploatišu ili se planiraju eksploatisati, radi obezbijeđenja korišćenja mineralnih resursa na principima održivog razvoja, zaštite životne sredine i kulturnog nasljeđa.
