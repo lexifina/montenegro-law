@@ -1,0 +1,2 @@
+Na osnovu člana 15 Zakona o turističkim organizacijama ("Službeni list RCG" broj 11/04 i 46/07, "Službeni list Crne Gore" broj 73/10, 40/11, 45/14 i 42/17), člana 17 Odluke o osnivanju turisticke organizacije opstine Tivat ("Sl list RCG opstinski propisi", br 40/04 i "Sl.list CG-opštinski propisi", br 13/10), člana 32 Statuta Turističke organizacije Tivat i člana 35 Statuta opštine Tivat ("Sl.list CG - opštinski propisi" broj 24/18), Skupština opštine Tivat na sjednici održanoj dana 28.02.2019.godine, donijela je
+O D L U K U
