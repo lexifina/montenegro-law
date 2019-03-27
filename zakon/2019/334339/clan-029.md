@@ -1,0 +1,5 @@
+# Član 29
+## Prestanak rada postrojenja
+Nakon prestanka rada postrojenja, odnosno obavljanja aktivnosti, operater je dužan da najkasnije u roku od tri mjeseca od dana prestanka rada postrojenja odnosno obavljanja aktivnosti, izvrši procjenu stanja zagađenja zemljišta i podzemnih voda opasnim supstancama koje je postrojenje koristilo, proizvelo ili ispustilo.
+Ako je postrojenje prouzrokovalo značajno zagađenje zemljišta ili podzemnih voda opasnim supstancama u odnosu na stanje koje je utvrđeno u izvještaju o postojećem stanju, operater je dužan da odmah preduzme potrebne mjere za uklanjanje posljedica zagađenja kako bi se lokacija vratila u prvobitno stanje, vodeći računa o tehničkoj izvodljivosti takvih mjera.
+Operater je dužan da u roku od 15 dana od dana preduzimanja mjera dostavi organu uprave relevantne podatke o mjerama koje je preduzeo nakon konačnog prestanka rada postrojenja, odnosno obavljanja aktivnosti u skladu sa stavom 2 ovog člana, a koje organ uprave objavljuje na svojoj internet stranici.

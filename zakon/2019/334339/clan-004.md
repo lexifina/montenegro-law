@@ -1,0 +1,15 @@
+# Član 4
+## Načela integrisanog sprečavanja i kontrole zagađivanja životne sredine
+Načela integrisanog sprečavanja i kontrole zagađivanja životne sredine su:
+1) načelo predostrožnosti:
+a) svaka aktivnost mora biti sprovedena na način da se: ne prouzrokuje bilo kakvo zagađenje; spriječe ili smanje emisije na samom izvoru zagađivanja koje dovode do zagađenja vazduha, vode, mora ili zemljišta; smanji korišćenje neobnovljivih prirodnih resursa i energije; spriječi ili smanji stvaranje otpada i svede na minimum rizik po zdravlje ljudi, životnu sredinu i materijalna dobra;
+b) radi izbjegavanja rizika i opasnosti po životnu sredinu treba primijeniti sve utvrđene preventivne mjere zaštite životne sredine, odnosno korišćenje najbolje dostupnih tehnika, kao i korišćenje proizvoda, opreme i uređaja i primjenu proizvodnih postupaka i sistema održavanja projektovanih parametara postrojenja, koji su najpovoljniji po životnu sredinu;
+2) načelo integrisanog pristupa:
+a) dozvola mora uzeti u obzir cjelokupni rad postrojenja, uključujući emisije u vazduh, vodu i zemljište, proizvodnju otpada, korišćenje prirodnih sirovina, energetsku efikasnost, buku, sprečavanje udesa i remedijaciju lokacije nakon prestanka rada postrojenja;
+b) integrisani pristup izdavanja dozvola je usklađen postupak izdavanja dozvole u kom učestvuje više od jednog nadležnog organa koji preduzimaju mjere za efikasan i integrisan pristup ovom postupku;
+3) načelo održivog razvoja - u svrhu ostvarivanja održivog razvoja zahtjevi zaštite životne sredine uspostavljeni ovim zakonom i posebnim propisima moraju biti uključeni u pripreme i sprovođenje utvrđenih politika i aktivnosti na svim područjima privrednog i socijalnog razvoja kroz postupak izdavanja dozvola;
+4) načelo hijerarhije upravljanja otpadom:
+a) hijerarhija upravljanja otpadom predstavlja redosljed prioriteta u praksi upravljanja otpadom koji čine: sprečavanje stvaranja otpada i redukcija, odnosno smanjenje korišćenja resursa i količina i/ili opasnih karakteristika nastalog otpada;
+b) ponovna upotreba, odnosno korišćenje proizvoda za istu ili drugu namjenu; reciklaža, odnosno tretman otpada u cilju dobijanja sirovine za proizvodnju istog ili drugog proizvoda; iskorišćavanje, odnosno kompostiranje, povrat energije i drugo;
+5) načelo "zagađivač plaća"- pravno i fizičko lice koje je pričinilo štetu u životnoj sredini ili neposrednu opasnost od štete dužno je nadoknaditi troškove nastale zagađivanjem životne sredine kao posljedicu svojih aktivnosti, koji uključuju troškove za ugrožavanje i rizik po životnu sredinu i troškove uklanjanja štete nanijete životnoj sredini, odnosno vraćanja lokacije u zadovoljavajuće stanje;
+6) načelo pristupa informacijama i učešća javnosti - javnost mora imati pristup informacijama koje se odnose na zahtjev za izdavanje dozvole za postrojenja, izradu nacrta dozvole, rješenju o izdavanju dozvole i o reviziji dozvole, kao i na relevantne podatke dobijene monitoringom, u cilju informisanja javnosti o radu postrojenja i o njihovom mogućem uticaju na životnu sredinu, kako bi se obezbijedila transparentnost postupka izdavanja dozvola.

@@ -1,0 +1,8 @@
+# Član 73
+## Obaveze operatera i primjena graničnih vrijednosti
+Operater postojećeg velikog postrojenja za sagorijevanje koje je izuzeto od primjene graničnih vrijednosti emisija Odlukom savjeta Energetske zajednice do 31. decembra 2023. godine, dužan je da:
+1) organu državne uprave nadležnom za energetiku dostavlja evidenciju o broju radnih sati do 31. marta tekuće za prethodnu godinu, za period na koji se izuzeće odnosi;
+2) obustavi rad postrojenja nakon utrošenih 20.000 radnih sati, koje može iskoristiti počev od 1. januara 2018. godine do najkasnije 31. decembra 2023. godine.
+Postojeća srednja postrojenja za sagorijevanje sa ulaznom toplotnom snagom većom od 5 MW, mogu biti izuzeta od primjene graničnih vrijednosti emisija do 1. januara 2030. godine, pod uslovom da je najmanje 50% korisne toplote proizvedene u postrojenju, u posljednjih pet godina, isporučeno u obliku pare ili vruće vode javnoj mreži za isporuku toplotne energije i da emisije sumpor dioksida ne prelaze 1.100 mg/m3, a emisije suspendovanih čestica ne prelaze 150 mg/m3.
+Postojeća srednja postrojenja za sagorijevanje sa ulaznom toplotnom snagom većom od 5 MW koja se koriste za pokretanje ćelija za komprimovanje gasa kojima se obezbjeđuje bezbjednost i zaštita sistema za transport gasa, mogu biti izuzeta od primjene graničnih vrijednosti emisija za okside azota do 1. januara 2030. godine.
+Srednja postrojenja za sagorijevanje u kojima se kao glavno gorivo koristi biomasa, a koja su smještena u područijima gdje nijesu zabilježena prekoračenja standarda kvaliteta vazduha, mogu biti izuzeta od primjene graničnih vrijednosti emisije do 1. januara 2030. godine, pod uslovom da emisija suspendovanih čestica ne prelazi 150 mg/Nm3.
