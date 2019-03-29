@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 021/09 od 20.03.2009, 040/11), člana 27 stav 1 tačka 15, člana 28 stav 1 tačka 1, člana 33 stav 2 i člana 34 stav 1 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18) i člana 33 stav 1 tačka 9 i člana 37 Statuta Opštine Plav("Službeni list Crne Gore - opštinski propisi", br. 044/18), Skupština opštine Plav,na sjednici održanoj dana 29.03.2019. godine, donijela je
+ODLUKU
