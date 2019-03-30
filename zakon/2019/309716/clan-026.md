@@ -1,0 +1,10 @@
+# Član 26
+## Postupanje nadležnih organa prilikom unošenja stranih i invazivnih stranih vrsta
+Strane vrste i invazivne strane vrste koje izazivaju zabrinutost u Crnoj Gori i/ili Evropskoj uniji, mogu se unositi u Crnu Goru samo preko određenih graničnih prelaza, na kojima je organizovana veterinarska i fitosanitarna kontrola.
+Prilikom kontrole pošiljke koja sadrži strane vrste i invazivne strane vrste koje izazivaju zabrinutost u Crnoj Gori i/ili Evropskoj uniji i dokumentacije koja je prati, granični veterinarski, odnosno granični fitosanitarni inspektor daje odobrenje ili zabranjuje unos robe u carinsko područje, u skladu sa posebnim propisom.
+Carinski organ prilikom službenih kontrola pri unošenju pošiljke, provjerava da li je invazivna strana vrsta ili sadrži invazivne strane vrste, sa liste vrsta koje izazivaju zabrinutost u Crnoj Gori i/ili Evropskoj uniji, odnosno pripadaju li robi koja je obuhvaćena oznakama kombinovane nomenklature i da li posjeduju odobrenja za unos robe u carinsko područje.
+Ako se na osnovu kontrole iz stava 2 ovog člana, utvrdi da uvoznik ne posjeduje propisanu dokumentaciju, granični veterinarski inspektor odnosno granični fitosanitarni inspektor donosi rješenje o vraćanju ili uništavanju pošiljke, u skladu sa posebnim propisom.
+U slučaju iz stava 4 ovog člana, granični veterinarski inspektor, odnosno granični fitosanitarni inspektor privremeno oduzima strane, odnosno invazivne strane vrste, do donošenja rješenja o vraćanju ili uništavanju pošiljke.
+Privremeno oduzete strane i invazivne strane vrste, privremeno se smještaju u skladu sa zakonom kojim se uređuje zaštita prirode, do donošenja odluke o daljem postupanju.
+Troškove provjere, privremenog smještaja, uništenja i/ili vraćanja strane ili invazivne strane vrste snosi uvoznik, odnosno lice odgovorno za pošiljku.
+Tranzit stranih i invazivnih stranih vrsta koje izazivaju zabrinutost u Crnoj Gori i/ili Evropskoj uniji, preko teritorije Crne Gore, može se dozvoliti ako pošiljku prati propisana dokumentacija u skladu sa zakonom i dozvola odnosno saglasnost zemlje uvoza.
