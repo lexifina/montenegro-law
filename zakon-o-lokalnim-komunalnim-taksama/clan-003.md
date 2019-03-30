@@ -1,0 +1,6 @@
+# Član 3
+## Utvrđivanje taksene obaveze
+Lokalne komunalne takse, na javnim površinama, mogu se uvesti i utvrditi do sljedećih iznosa, za:
+1) korišćenje prostora na javnim površinama, osim radi postavljanja podzemnih i nadzemnih vodova i antenskih stubova koji se koriste za pružanje elektronskih komunikacionih usluga, uključujući i pripadajuće uređaje i opremu koji su građeni ili izgrađeni na istim i koji omogućavaju njihovo funkcionisanje i cjelishodno korišćenje (izvodni ormarić, outdoor kabineti, okna, stubovi, armature, antenski sistemi), trafostanica, ormara i elektro-energetskih stubova, prodaje štampe, knjiga i drugih publikacija, proizvoda starih i umjetničkih zanata i domaće radinosti, do 15 eura po m2, mjesečno;
+2) korišćenje reklamnih panoa i bilborda van poslovnog prostora, kao i na objektima i javnim površinama koji pripadaju opštini, osim pored magistralnih i regionalnih puteva do iznosa koji se utvrđuju za postavljanje reklamnih panoa ili bilborda na državnim putevima u skladu sa zakonom;
+3) korišćenje prostora za parkiranje motornih i priključnih vozila, motocikala i bicikala, na uređenim i obilježenim mjestima, do iznosa 10 eura za mjesečno korišćenje obilježenih mjesta, do 0,5 eura po započetom času korišćenja po vozilu, odnosno do 300 eura, ako se obračun vrši na godišnjem nivou na izdate licence.
