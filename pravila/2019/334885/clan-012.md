@@ -1,0 +1,3 @@
+# Član 12
+Ukoliko se prevoz po registrovanom redu vožnje ne obavi, lice koje upravlja autobuskom stanicom ili prevoznik u zavisnosti ko je izvršio prodaju karte, dužan je da izvrši povraćaj pune vrijednosti prevoznine i naplaćene stanične usluge, ili da organizuje prevoz svih putnika na liniji shodno zaključenom ugovoru između lica koje upravlja autobuskom stanicom i prevoznika, nosioca reda vožnje po čijem redu vožnje prevoz nije obavljen.
+Prevoznik koji nije u mogućnosti da obavi prevoz prema registrovanom redu vožnje, dužan je da najkasnije 30 minuta prije otpočinjanja prevoza, o tome obavijesti lica koja upravljaju autobuskim stanicama koje su unijete u red vožnje.

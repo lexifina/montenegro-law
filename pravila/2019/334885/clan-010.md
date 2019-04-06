@@ -1,0 +1,9 @@
+# Član 10
+Usluge prijema i otpreme autobusa, lice koje upravlja autobuskom stanicom je dužno da vrši za one prevoznike koji imaju registrovane redove vožnje, odnosno odgovarajuće dozvole za međunarodni linijski prevoz putnika.
+Ako prevoz obavljaju dva ili više prevoznika dužni su da licu koje upravlja autobuskom stanicom dostave zaključen ugovor o zajedničkom obavljanju linijskog prevoza sa rasporedom održavanja polazaka po danima u skladu sa Zakonom kojim se uređuje prevoz u drumskom saobraćaju.
+Lice koje upravlja autobuskom stanicom dužno je da u roku od tri dana po prijemu registrovanog reda vožnje i zahtjeva za pružanjem staničnih usluga obavjesti prevoznika o mogućnostima pružanja usluga autobuske stanice.
+U slučaju da autobuska stanica nema potreban broj perona za pružanje usluga prevoznicima za obavljanje linijskog prevoza po novim redovima vožnje, lice koje upravlja autobuskom stanicom dužno je da u roku od tri dana izda potvrdu prevozniku i o tome obavjesti nadležni državni organ, a u roku od godinu dana dužno je da obezbjedi potreban broj perona.
+U slučaju da u naseljenom mjestu ima više autobuskih stanica prevoznik se samostalno opredjeljuje koju će autobusku stanicu koristiti.
+Ako na autobuskoj stanici za koju se prevoznik opredijelio nema dovoljan broj perona za obavljanje linijskog prevoza po novim redovima vožnje, prevoznik je dužan da koristi usluge jedne od ostalih autobuskih stanica.
+Lice koje upravlja autobuskom stanicom može svoje usluge pružati i prevoznicima koji obavljaju vanlinijski prevoz u skladu sa Zakonom o prevozu u drumskom saobraćaju, ukoliko ima slobodnih kapaciteta.
+Lice koje upravlja autobuskom stanicom neće pružati usluge prevoznicima koji obavljaju vanlinijski prevoz putnika u drumskom saobraćaju suprotno Zakonu kojim se uređuje prevoz u drumskom saobraćaju.
