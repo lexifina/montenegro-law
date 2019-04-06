@@ -1,0 +1,3 @@
+# Član 14
+## Rezultati sprovedenih postupaka uticaja planiranog projekta na životnu sredinu
+Rezultati sprovedenih postupaka uticaja planiranog projekta na životnu sredinu u skladu sa posebnim propisima sadrže opis očekivanih, značajnih štetnih uticaja projekta na životnu sredinu koji proizlaze iz podložnosti projekta na rizike od velikih nesreća i/ili udesa, kao i informacije o procjenama rizika i drugim procjenama dobijenim u skladu sa posebnim propisima i procjenom uticaja na životnu sredinu, a po potrebi, sadrži i mjere predviđene za sprečavanje ili ublažavanje značajnih štetnih uticaja na životnu sredinu, kao i mjere pripravnosti i mjere koje će se preduzeti u slučaju velikih nesreća i/ili udesa.
