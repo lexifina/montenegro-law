@@ -1,0 +1,4 @@
+# Član 15
+U slučajevima iz člana 14 stav 1. al. 1, 2, 3 i 4 ovih pravila, ukoliko vozno osoblje procijeni da na bezbjedan način ne može udaljiti putnika iz vozila, to će učiniti u prvoj autobuskoj stanici, o čemu će obavijestiti organ unutrašnjih poslova, radi pružanja asistencije, odnosno sačekaće sa polaskom do dolaska ovlašćenog lica nadležnog za unutrašnje poslove i udaljavanja putnika iz vozila.
+Vozno osoblje će o preduzetim radnjama iz stava 1 ovog člana, sačiniti zapisnik u kome će naznačiti razloge daljeg uskraćivanja prevoza putnika, opisati događaj i isti svojeručno potpisati uz pribavljanje potpisa jednog broja putnika, ovlašćenog lica nadležnog za unutrašnje poslove i predstavnika autobuske stanice.
+Po završetku vožnje, vozno osoblje dostavlja zapisnik iz stava 2 ovog člana odgovornom licu prevoznika koji obavlja prevoz.
