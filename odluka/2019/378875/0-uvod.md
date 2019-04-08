@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 21 i člana 43 stav 2 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18), člana 36 stav 1 tačka 21 i člana 38 stav 3 Statuta opštine Mojkovac ("Sl. list CG - opštinski propisi", br. 29/18) i člana 7 stav 1 Odluke o obrazovanju radnih tijela Skupštine opštine Mojkovac ("Sl. list CG - opštinski propisi", br. 9/14), na predlog Odbora za izbor i imenovanja, Skupština opštine Mojkovac na sjednici odražanoj dana 26.03.2019.godine, donijela je
+O DL U K U O IZMJENAMA ODLUKE O IMENOVANJU ODBORA SKUPŠTINE OPŠTINE MOJKOVAC
