@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samouparavi ("Službeni list CG", br. 02/18), člana 35 stav 3 Zakona o osnovnom obrazovanju i vaspitanju ("Službeni list RCG", br. 64/02, 049/07, Službeni list CG", br. 45/10, 40/11, 39/13, 47/17) i članu 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Službeni list CG-opštinski propisi", br. 19/18), Skupština opštine Bijelo Polje na sjednici održanoj dana 19.03.2019.godine, donijela je
+ODLUKU
