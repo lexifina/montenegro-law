@@ -1,0 +1,2 @@
+Na osnovu člana 40. Statuta Opštine Pljevlja ("Sl.list RCG- opštinski propisi"br.46/18 ), i člana 21. Stav 2. Odluke o opštinskim i nekategorisanim putevima("Sl. list RCG -opštinski propisi", broj: 11/2007 i "SL.list CG-opštinski propisi 35/13, 35/14 i 27/15), Skupština opštine Pljevlja, na sjednici održanoj dana 22.03.2019.godine, d o n i j e l a j e:
+O D L U K U O DAVANJU SAGLASNOSTI ZA ANGAŽOVANJE TREĆIH LICA ZA POTREBE IZGRADNJE I ODRŽAVANJA OPŠTINSKIH I NEKATEGORISANIH PUTEVA ZA 2019.GODINU
