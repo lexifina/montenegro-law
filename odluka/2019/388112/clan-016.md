@@ -1,0 +1,2 @@
+# Član 16
+U Odluci o organizaciji i načinu rada lokalne uprave Opštine Tivat ("Službeni list Crne Gore - opštinski propisi", br. 43/18) član 76 stav 3 formulacija ,,Sekretarijat za komunalne poslove i saobraćaj" mijenja se i glasi :,,Sekretarijat za komunalne poslove, saobraćaj i energetsku efikasnost".

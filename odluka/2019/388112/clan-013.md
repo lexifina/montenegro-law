@@ -1,0 +1,2 @@
+# Član 13
+Danom stupanja na snagu ove odluke Sekretarijat za komunalne poslove i saobraćaj iz Odluke o organizaciji i načinu rada lokalne uprave Opštine Tivat (,,Sl. list CG -opštinski propisi", br. 43/18) nastavlja sa radom kao Sekretarijat za komunalne poslove, saobraćaj i energetsku efikasnost, u okviru svojih nadležnosti, iz razloga što nije formiran novi organ uprave nego je izvršena izmjena naziva istog, na način kako je to propisano u tački 1 ove Odluke.

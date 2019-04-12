@@ -1,0 +1,2 @@
+# Član 4
+U Odluci o organizaciji i načinu rada lokalne uprave Opštine Tivat (,,Sl. list CG -opštinski propisi", br. 43/18), u članu 10 dodaje se nova tačka 2 koja glasi : ,,izdavanje/ukidanje licenci i izvoda licence za javni prevoz putnika u unutrašnjem lokalnom drumskom saobraćaju ( auto-taksi prevoz, linijski gradski i prigradski prevoz), izdavanje taksi legitimacije, izdavanje odobrenja za prevoz za sopstvene potrebe, ovjera cjenovnika auto-taksi prevoza, vođenje registra svih prevoznika; ", a dotadašnja tačka 2 postaje tačka 3, i tako redom.

@@ -1,0 +1,2 @@
+# Član 6
+U Odluci o organizaciji i načinu rada lokalne uprave Opštine Tivat (,,Sl. list CG -opštinski propisi", br. 43/18), član 20 tačka 25 mjienja se i glasi: ,,upravljanje ljudskim resursima, vođenja kadrovske evidencije lokalnih službenika i namještenika, evidencije internog tržišta rada, stručnog osposobljavanja i usavršavanja i drugih evidencija propisanih zakonom i odlukama opštine u oblastima iz nadležnosti službe;".
