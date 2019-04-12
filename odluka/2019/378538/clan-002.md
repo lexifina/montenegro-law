@@ -1,0 +1,3 @@
+# Član 2
+UP se radi za prostor ograničen: na sjevernoj strani slijepom ulicom koja se pruža u pravcu istok-zapad, u dijelu DUP-a "Goričani-Berislavci - dio A"; na istočnoj strani trasom lokalne ulice duž koje se proteže granica sa DUP- om "Goričani- Berislavci - dio B"; u južnom dijelu trasama obilaznice Golubovci i magistralnim putem M2, gdje se ove saobraćajnice ukrštaju u kružnoj raskrsnici, u blizini područja koje obuhvata DUP "Golubovci - dio zone 1.4" (važeći planski dokument), i na zapadnoj strani obilaznicom Golubovci, koja je paralelna željezničkoj pruzi Beograd-Bar. Zahvat UP-a iznosi 30,65 ha.
+Opisano područje je definisano koordinatama tačaka:
