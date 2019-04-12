@@ -1,0 +1,2 @@
+# Član 4
+Zdravstvenu sposobnost profesionalno izloženih lica i lica odgovornih za mjere zaštite utvrđuje zdravstvena ustanova koja obavlja djelatnost zdravstvene zaštite zaposlenih (medicina rada), preko doktora medicine specijaliste medicine rada (u daljem tekstu: doktor medicine rada), koji je edukovan za oblast povećanog rizika izlaganja elektromagnetnom polju i optičkom zračenju, u skladu sa propisima kojima se uređuje zdravstvena zaštita i zaštita zdravlja na radu.

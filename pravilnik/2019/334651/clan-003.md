@@ -1,0 +1,2 @@
+# Član 3
+Za rad na radnim mjestima sa povećanim rizikom izlaganja elektromagnetnom polju i optičkom zračenju, pored opšte zdravstvene sposobnosti, profesionalno izložena lica i lica odgovorna za mjere zaštite, treba da ispunjavaju i posebne zdravstvene uslove, zavisno od njihove izloženosti izvoru nejonizujućih zračenja, koja se utvrđuje aktom imaoca, odnosno operatera izvora nejonizujućih zračenja (u daljem tekstu: akt o procjeni rizika).

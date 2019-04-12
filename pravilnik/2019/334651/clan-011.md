@@ -1,0 +1,2 @@
+# Član 11
+Vanredni zdravstveni pregled obavlja se ako je došlo do neplanirnog događaja u kojem je zbog ljudske greške ili kvara opreme došlo ili je moglo doći do štetnog djelovanja nejonizujućih zračenja na zdravlje ljudi (akcident) i ako je profesionalno izloženo lice i lice odgovorno za mjere zaštite bilo izloženo nejonizujućem zračenju iznad granice najvećeg dopuštenog nivoa izlaganja optičkom zračenju ili iznad granične vrijednosti izloženosti elektromagnetnom polju.
