@@ -1,0 +1,2 @@
+Na osnovu člana 15 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14, 56/14, 70/17, 4/18 i 55/18), člana 14 Zakona o budžetu Crne Gore za 2019. godinu ("Službeni list CG", broj 87/18), čl. 15 i 16 i člana 70 stav 2 Zakona o tržištu kapitala ("Službeni list CG", broj 1/18) i člana 1 st. 3, 4, 6 i 11 Odluke o zaduživanju Crne Gore za 2019. godinu ("Službeni list CG", broj 1/19), Vlada Crne Gore, na sjednici od 4. aprila 2019. godine, donijela je
+O D L U K U O EMISIJI DRŽAVNIH OBVEZNICA KOJE DOSPIJEVAJU 2024. GODINE
