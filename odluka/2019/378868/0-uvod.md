@@ -1,0 +1,2 @@
+Na osnovu čl.38. tačka 9. Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18 ), člana 34 stav 3 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), Zaključka Vlade Crne Gore o davanju prethodne saglasnosti broj 07-4948 od 01.11.2018.godine i člana 44 stav 1 tačka 9 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 02/19) Skupština Opštine Budva, na sjednici održanoj 29. marta 2019.godine, donijela je
+ODLUKU
