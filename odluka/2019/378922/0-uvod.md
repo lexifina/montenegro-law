@@ -1,0 +1,2 @@
+Na osnovu člana 23 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18) člana 5 a u vezi člana 21 i 23 Zakona o Prijestonici ("Službeni list CG" br. 51/17) i člana 73 stav 1 tačka 40 Statuta Prijestonice ("Službeni list CG" - opštinski propisi, br. 49/18, i 09/19), Skupština Prijestonice, na sjednici održanoj dana 29.03.2019. godine, donijela je
+O D L U K U O IZMJENAMA I DOPUNI ODLUKE O PEČATIMA
