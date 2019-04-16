@@ -1,0 +1,2 @@
+Na osnovu člana 39, a u vezi sa članom 154 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list Crne Gore", br. 027/13, 001/15, 042/15, 047/15, 056/16, 066/16, 001/17, 031/17, 042/17, 050/17), člana 27 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18), člana 73 stav 1 tačka 2 Statuta Prijestonice ("Službeni list Crne Gore - opštinski propisi", br. 049/18, 009/19), Skupština Prijestonice Cetinje, na sjednici, održanoj dana 29.03.2019. godine, donijela je
+ODLUKU O IZMJENI I DOPUNI ODLUKE O OBLICIMA SOCIJALNE I DJEČJE ZAŠTITE
