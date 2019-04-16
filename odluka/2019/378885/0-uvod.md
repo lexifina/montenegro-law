@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" broj 2/18), člana 10. Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalne djelatnosti" Ulcinj ("Službeni list Crne Gore - opštinski propisi broj 18/17 i 48/18) i člana 42 stav Statuta opštine Ulcinj ("Službeni list Crne Gore - opštinski propisi broj 5/07, 09/09 i 16/11), Skupština opštine Ulcinj, na sjednici održanoj dana 25.03.2019 godine, donijela je
+ODLUKU
