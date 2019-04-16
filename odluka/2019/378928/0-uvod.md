@@ -1,0 +1,2 @@
+Na osnovu čl.28 stav 1 tačka 1 i člana 38 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18), člana 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11 ), člana 31 stav 2 Zakona o nevladinim organizacijama ("Službeni list CG", br. 39/11 i 37/17) i člana 44 stav 1 tačka 9 Statuta Opštine Budva ("Službeni list CG-Opštinski propisi", br. 02/19), Skupština opštine Budva na sjednici održanoj 29. marta 2019.godine, donijela je
+ODLUKU
