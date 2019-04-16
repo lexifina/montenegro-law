@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom uređuju se opšti uslovi korišćenja, čuvanja i održavanja komunalnih objekata, održavanja čistoće, uređenje grada i prigradskih naselja Mojkovac, odnosno propisuje komunalni red i opšti uslovi za njegovo sprovođenje u naseljima gradskog karaktera, prigradskim naseljima i turističkim mjestima i u mjestima u kojima komunalna preduzeća obavljaju djelatnost odnosno pružaju usluge.

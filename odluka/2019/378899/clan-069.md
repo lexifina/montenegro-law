@@ -1,0 +1,3 @@
+# Član 69
+Radove na dovođenju u prethodno stanje javne površine na kojima su izvođeni radovi, a koja je namijenjena za saobraćaj vozila i pješaka, kao i radove na uređenju javnih i zelenih površina izvodi preduzeće kojem je održavanje tih površina povjereno u skladu sa tehničkim uslovima za raskopavanje i dovođenje raskopanih javnih površina u prvobitno stanje (u daljem tekstu: tehnički uslovi) o trošku podnosioca zahtjeva za raskopavanje.
+Radove na dovođenju u prethodno stanje neizgrađenog gradsko-građevinskog zemljišta može da izvrši podnosilac zahtjeva sam i putem izvođača kome te poslove povjeri u skladu sa tehničkim uslovima.
