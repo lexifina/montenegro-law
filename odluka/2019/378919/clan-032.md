@@ -1,0 +1,2 @@
+# Član 32
+Organ lokalne uprave nadlžan za sport dužan je da, u saradnji sa lokalnim i nacionalnim radijskim i TV medijima, kao i preko zbanične web stranice Opštine i društvenih mreža, doprinese adekvatnom praćenju i vidljivosti rezultata sportista, promociji sporta, sportske rekreacije i zdravih stilova života, te kroz edukativne emisije o sportu afirmiše značaj sporta i podstiče djecu i mlade za bavljanje sportom.
