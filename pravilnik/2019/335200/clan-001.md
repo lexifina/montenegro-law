@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se bliži sadržaj plana zaštite lica i imovine koju ne obezbjeđuje država (u daljem tekstu: zaštita) objekata i prostora u kojima se vrše djelatnosti od javnog interesa, djelatnosti koje predstavljaju povećanu opasnost za život i zdravlje ljudi, kao i objekata čijim bi oštećenjem ili uništenjem mogle nastupiti teže posljedice po život i zdravlje većeg broja ljudi (u daljem tekstu: obavezno štićeni objekat).
