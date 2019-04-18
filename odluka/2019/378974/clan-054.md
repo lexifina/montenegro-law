@@ -1,0 +1,2 @@
+# Član 54
+Akt o unutrašnjoj organizaciji i sistematizaciji donosi starješina organa lokalne uprave, glavni administrator i glavni gradski arhitekta, uz saglasnost predsjednika Opštine. Unutrašnju organizaciju, broj i strukturu službenika za vršenje povjerenih poslova utvrđuje predsjednik Opštine, na predlog starješine organa lokalne uprave u kojem se vrše povjereni poslovi, uz saglasnost nadležnog organa državne uprave.
