@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o kontrolnoj listi za izvoz i uvoz robe ("Službeni list CG", br. 22/14, 38/15, 29/16, 62/16, 24/17 i 35/18), u članu 5 stav 2 riječi: "Pravilnika o utvrđivanju spiska droga, psihotropnih supstanci i bilja koje se može koristiti za proizvodnju droga ("Službeni list CG", broj 56/12)" zamjenjuju se riječima: "Pravilnika o utvrđivanju spiska droga, psihotropnih supstanci i bilja koje se može koristiti za proizvodnju droga ("Službeni list CG", br. 41/18 i 57/18)".

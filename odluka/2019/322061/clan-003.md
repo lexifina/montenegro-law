@@ -1,0 +1,3 @@
+# Član 3
+U članu 7 stav 1 mijenja se i glasi:
+"Na izdavanje dozvola za izvoz i uvoz otpada, primjenjuju se odredbe Zakona o upravljanju otpadom ("Službeni list CG", br. 64/11 i 39/16), Zakona o potvrđivanju Bazelske konvencije o kontroli prekograničnog kretanja opasnih otpada i njegovom odlaganju ("Službeni list SRJ", Međunarodni ugovori, broj 2/99) kao i odredbe Pravilnika o bližem sadržaju dokumentacije koja se podnosi uz zahtjev za izdavanje dozvole za uvoz, izvoz i tranzit otpada, listi klasifikacije otpada i sadržaju i načinu vođenja registra izdatih dozvola ("Službeni list CG", br. 83/16 i 76/17)."
