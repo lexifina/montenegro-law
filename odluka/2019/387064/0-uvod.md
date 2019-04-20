@@ -1,0 +1,3 @@
+Na osnovu člana 10. stav 2. Zakona o komunalnim djelatnostima ("Sl. list CG", br. 55/16, 74/16 i 2/18), člana 9. stav 1. tačka 6. Zakona o bezbjednosti saobraćaja na putevima ("Sl. list CG", br. 33/12, 58/14 i 14/17), člana 115.do 120. Zakona o planiranju prostora i izgradnji objekata ("Sl. list CG", br. 64/17, 44/18 i 63/18), člana 4. Zakona o prekršajima ("Sl. list CG", br. 01/11, 06/11, 39/11, 32/14, 43/17 i 51/17), člana 27. stav 1. tačka 1.Zakona o lokalnoj samoupravi ("Sl. list CG", br. 02/18) i člana 14. stav 1. tačka 1. i član 33. stav 1. tačka 2. Statuta Opštine Plav ("Sl. list CG- Opštinski propisi", br. 44/18), Skupština Opštine Plav, na sjednici održanoj dana 29.03.2019. godine, donijela je:
+ODLUKU
+o javnim parkiralištima na teritoriji Opštine Plav
