@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 3 Zakona o administrativnim taksama (,,Sl.list RCG" 55/03, 46/04, 81/05, 2/06 i ,,Službeni list CG br. 22/08, 77/08, 03/09, 40/10, 20/11, 26/11, 56/13, 45/14, 53/16 i 37/17), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG" broj 2/18), člana 35 stav 1 tačka 2 Statuta opštine Šavnik ("Sl. list CG-opštinski propisi" br. 31/18), Skupština opštine Šavnik, na sjednici održanoj dana 29.03.2019. godine, donijela je
+ODLUKU
