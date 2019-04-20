@@ -1,0 +1,4 @@
+# Član 10
+U Ugovoru o poslovanju u biznis zoni koji zaključuje upravljač biznis zone i korisnik biznis zone, definišu se: način korišćenja katastarske parcele u biznis zoni, uslovi poslovanja, rok na koji važi ugovor, ostala prava i obaveze ugovornih strana, kao i finansijske olakšice za korisnike biznis zone.
+U slučaju da korisnik biznis zone raskine odnos sa zaposlenim, a ostvaruje olakšice po osnovu broja zaposlenih korisnik biznis zone je dužan da u roku od 30 dana zasnuje radni odnos sa drugim licem i da o tome obavijesti upravljača biznis zone.
+U slučaju nepoštovanja ugovora od strane korisnika, isti gubi prava na olakšice definisane ugovorom i u obavezi je da osnivaču biznis zone vrati iznos olakšica koje je koristio po osnovu ugovora, a osnivaču pripada pravo na naknadu štete shodno pozitivnim pravnim propisima Crne Gore.
