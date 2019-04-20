@@ -1,0 +1,2 @@
+Na osnovu člana 13 stav 5 Zakona o upravljanju otpadom ("Službeni list CG", br. 64/11 i 39/16), člаnа 38 stav 1 tačka 2 Zаkоnа о lоkаlnој sаmоuprаvi ("Službeni list CG", br. 2/18) i člana 32 stav 1 tačka 2 Statuta Opštine Žabljak ("Službeni list CG - opštinski propisi", br.27/18), uz prethodnu saglasnost Ministarstva održivog razvoja i turizma br.113-60/234 od 22.11.2018. godine, Skupština Opštine Žabljak, na sjednici održanoj dana 04.04.2019.godine, donijela je
+ODLUKU O NAČINU ODVOJENOG SAKUPLJANJA I SAKUPLJANJA KOMUNALNOG OTPADA RADI OBRADE NA TERITORIJI OPŠTINE ŽABLJAK
