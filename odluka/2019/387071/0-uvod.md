@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18), a u vezi sa članom 6 stav 1 Zakona o socijalnom stanovanju ("Službeni list CG", broj 35/13), člana 35 stav 1 tačka 4 i člana 46 Statuta Opštine Šavnik ("Službeni list CG - Opštinski propisi", broj 31/18), uz prethodnu saglasnost Ministarstva održivog razvoja i turizma, broj: 111- 42/14, od 18.02.2019. godine, Skupština opštine Šavnik , na sjednici održanoj 29.03.2019. godine, donijela je
+ODLUKU
