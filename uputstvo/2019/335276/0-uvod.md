@@ -1,0 +1,2 @@
+U skladu sa članom 24 Statuta Komore fizioterapeuta Crne Gore ("Službeni list Crne Gore", broj 44/17, 39/18) i Pravilnikom o čuvanju, upotrebi i kontroli upotrebe faksimila fizioterapeuta ("Službeni list Crne Gore", broj 16/2019), a na osnovu predloga Komisije za kontrolu kvaliteta rada fizioterapeuta, Izvršni odbor Komore fizioterapeuta Crne Gore je na sjednici održanoj 23.04.2019.g., usvojila
+UPUTSTVO O UPOTREBI FAKSIMILA FIZIOTERAPEUTA
