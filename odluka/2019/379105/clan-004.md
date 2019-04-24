@@ -1,0 +1,2 @@
+# Član 4
+Obavezuje se Sekretarijat za imovinu, zastupanje i investicije da prati realizaciju ovog Sporazuma i osnovnih ugovora i da posebno povede računa o rokovima za izvršenje pravosnažne presude Osnovnog suda u Baru P.br. 277/13, kao i da hipoteka uspostavljena na osnovu rješenja Osnovnog suda u Baru I.br.112/14 od 25.02.2014. godine u korist Opštine Bar, ostane upisana u listovima nepokretnosti do konačnog obračuna i potpisivanja Protokola o konačnom obračunu.
