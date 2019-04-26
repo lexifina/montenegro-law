@@ -1,0 +1,2 @@
+Na osnovu člana 107 stav 6 Zakona o socijalnoj i dječijoj zaštiti ("Službeni list Crne Gore", br. 27/13, 01/15, 42/15, 47/15, 56/16, 66/16, 01/17, 31/17, 42/17, 50/17), člana 14 stav 2 Odluke o osnivanju Javne ustanove Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u Opštini Danilovgrad ("Sl. list Crne Gore - opštinski propisi" br. 8/17 i 49/18) i člana 38 Statuta Opštine Danilovgrad ("Sl. list Crne Gore" br. 43/18) Skupština Opštine Danilovgrad na sjednici održanoj 29.03. i 09.04.2019. godine donijela je
+ODLUKU
