@@ -1,0 +1,2 @@
+# Član 2
+Danom stupanja na snagu ove Odluke prestaju da važe Odluka o korekciji cijena komunalnih usluga na području opštine Danilovgrad br.01-2961 od 20.12.2007. godine, Odluka o cijenama pogrebnih usluga br.01-2969 od 20.12.2007. godine , Odluka o cijenama tipiziranih grobnica na gradskom groblju Danilovgrad br.01-2976 od 20.12.2007. godine i Odluka o izmjenama i dopunama Cjenovnika staničnih usluga autobuske stanice Danilovgrad br. 348 od 09.05.2017. godine.
