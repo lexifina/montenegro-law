@@ -1,0 +1,6 @@
+# Član 3
+Sredstva za rješavanje stambenih potreba lica iz člana 1 ove odluke obezbjeđuju se iz:
+- Budžeta Glavnog grada,
+- sredstava od prodaje i zakupa stanova,
+- kredita i
+- drugih izvora namijenjenih za rješavanje stambenih potreba.
