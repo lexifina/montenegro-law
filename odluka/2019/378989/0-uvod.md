@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 tačka 3 i člana 55 stav 5 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore" broj 55/16, 74/16 i 02/18), člana 38 stav 1 tačka 30 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" broj 02/18), člana 35 stav 1 tačka 30 Statuta Opštine Danilovgrad ("Službeni list Crne Gore" broj 43/18), Skupština opštine Danilovgrad, na sjednici održanoj 29.03. i 09. 04. 2019. godine, donijela je
+ODLUKU O DAVANJU SAGLASNOSTI NA ODLUKU O UTVRĐIVANJU CJENOVNIKA USLUGA D.O.O. "KOMUNALNO" DANILOVGRAD
