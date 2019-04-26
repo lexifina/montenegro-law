@@ -1,0 +1,2 @@
+Na osnovu člana 31 stav 1 i 2 i člana 12 stav 1, alineja 3 Statuta JU Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u opštini Danilovgrad (,,Sl. list CG opštinski propisi'' 29/17 ), Upravni odbor JU Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u opštini Danilovgrad, na sjednici održanoj dana 11.02.2019. godine, donio je
+O D L U K U O IZMJENAMA I DOPUNAMA STATUTA JU CENTAR ZA DNEVNI BORAVAK DJECE SA SMETNJAMA U RAZVOJU I ODRASLIH LICA SA INVALIDITETOM U OPŠTINI DANILOVGRAD
