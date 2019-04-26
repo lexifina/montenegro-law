@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Sl.list CG", br. 55/16, 74/16 i 2/18), člana 54 stav 1 tačka 58 Statuta Glavnog grada ("Sl.list CG-Opštinski propisi", broj 8/19) i člana 13 stav 2 Odluke o osnivanju Agencije za stanovanje d.o.o. Podgorica ("Sl.list RCG-Opštinski propisi", broj 26/05 i "Sl.list CG-Opštinski propisi", broj 37/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 11. aprila 2019. godine, donijela je -
+O D L U K U
