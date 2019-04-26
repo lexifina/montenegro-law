@@ -1,0 +1,3 @@
+# Član 10
+Predsjednik opštine, odnosno starješina organa, aktom o obrazovanju radne grupe, izabraće za člana predstavnika nevladine organizacije koji ispunjava uslove iz člana 6 ove Odluke i za koga je dostavljeno najviše predloga nevladinih organizacija koje su ispunile uslove iz člana 5 ove Odluke.
+Izuzetno, u slučaju da za dva ili više predstavnika nevladinih organizacija, koji ispunjavaju uslove iz člana 6 ove Odluke, bude dostavljen jednak broj predloga nevladinih organizacija koje su ispunile uslove iz člana 5 ove Odluke, u sastav radne grupe bira se kandidat sa više iskustva u oblasti koja je predmet uređivanja.
