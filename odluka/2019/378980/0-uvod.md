@@ -1,0 +1,2 @@
+Na osnovu člana 40 stav 2 tačka 1 a u vezi člana 35 stav 1 Zakona o državnoj imovini ("Sl. list CG" br. 21/09 i 40/11), člana 58 stav 1 tačka 6 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18), člana 78 stav 1 tačka 6 Statuta Opštine Bijelo Polje ("Sl. list CG- opštinski propisi", br. 19/18) i Saglasnosti Skupštine opštine Bijelo Polje ("Službeni list Crne Gore-opštinski propisi", br. 12/19), predsjednik Opštine Bijelo Polje d o n o s i :
+ODLUKU
