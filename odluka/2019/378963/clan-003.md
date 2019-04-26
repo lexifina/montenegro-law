@@ -1,0 +1,2 @@
+# Član 3
+Nepokretnost iz člana 1 ove odluke prodaje se po cijeni od 384,06€/m2, što ukupno iznosi 80.268,54€, shodno Izvještaju o procjeni tržišne vrijednosti urbanizovanog zemljišta upisanog u l.n. 2275 KO Novi Bar, na kat. parceli broj 4991/4, MRICS, REV i akreditovanog NUPCG procjenjivača i ovlašćenog sudskog vještaka Mr Zorana Senića, od 21.01.2019. godine, protokolisanog kod Opštine Bar pod brojem 04-460/19-468 od 12.03.2019. godine.
