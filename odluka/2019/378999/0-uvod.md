@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16, 74/16 i 2/18), člana 54 stav 1 tačka 58 Statuta Glavnog grada ("Sl. list CG-opštinski propisi", broj 8/19) i člana 13 stav 1 alineja 1 Odluke o osnivanju "Putevi" d.o.o. Podgorica ("Sl. list RCG-opštinski propisi", broj 50/06), Skupština Glavnog grada - Podgorice, na sjednici održanoj 11. aprila 2019. godine, d o n i j e l a j e -
+O D L U K U
