@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom uređuje se izrada, upotreba, čuvanje, uništavanje pečata koje u vršenju poslova iz svoje nadležnosti koristi Skupština Glavnog grada (u daljem tekstu: skupština), Gradonačelnik Glavnog grada (u daljem tekstu: gradonačelnik), glavni administrator, organi lokalne uprave i službe Glavnog grada, Služba skupštine, mjesne zajednice, Savjet za razvoj i zaštitu lokalne samouprave i drugi subjekti kada je to propisano posebnom odlukom skupštine.
