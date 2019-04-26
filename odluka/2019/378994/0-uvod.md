@@ -1,0 +1,2 @@
+Na osnovu člana 92 stav 2 Zakona o socijalnoj i dječjoj zaštiti ("Sl.list CG", br. 27/13, 01/15, 42/15, 47/15, 56/16, 66/16, 01/17, 31/17, 42/17 i 50/17), člana 54 stav 1 tačka 58 Statuta Glavnog grada ("Sl.list CG-opštinski propisi", broj 8/19) i člana 10 Odluke o osnivanju Javne ustanove za brigu o djeci "Dječji savez" Podgorica ("Sl. list CG-opštinski propisi", broj 52/18),Skupština Glavnog grada - Podgorice, na sjednici održanoj 11. aprila 2019. godine, donijela je
+O D L U K U
