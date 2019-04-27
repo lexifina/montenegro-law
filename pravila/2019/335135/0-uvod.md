@@ -1,0 +1,6 @@
+Komisija za tržište kapitala Crne Gore (u daljem tekstu: Komisija) na osnovu čl. 30 stav 1 i čl. 367 stav 3 Zakona o tržištu kapitala ("Sl. list CG", br. 01/18), na 55. sjednici od 05.04.2019. godine donosi
+PRAVILA O DOPUNI PRAVILA O BLIŽEM SADRŽAJU ZAHTJEVA
+ZA IZDAVANjE DOZVOLE ZA RAD I SADRŽAJU
+DOKUMENTACIJE KOJA SE PRILAŽE UZ ZAHTJEV ZA IZDAVANjE DOZVOLE
+ZA RAD AKCIONARSKOM DRUŠTVU ZA OBAVLjANjE POSLOVA
+CENTRALNOG KLIRINŠKOG DEPOZITARNOG DRUŠTVA
