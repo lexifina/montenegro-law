@@ -1,0 +1,4 @@
+# Član 18
+## Savjetovanje radi povećanja zapošljivosti i zapošljavanja
+Savjetovanje radi povećanja zapošljivosti i zapošljavanja podrazumijeva pružanje stručne pomoći nezaposlenom licu i ostalim tražiocima zaposlenja u izboru, traženju i prihvatanju zaposlenja, upoznavanje sa metodama i tehnikama aktivnog traženja zaposlenja, podršku u razvoju vještina upravljanja karijerom, radi sticanja znanja i vještina potrebnih za povećanje zapošljivosti i unaprjeđenja profesionalnog razvoja pojedinca.
+Savjetovanje iz stava 1 ovog člana se sprovodi individualno i kroz informativno- motivacione radionice, seminare i druge oblike grupnog rada, radi sticanja i razvijanja znanja i vještina za aktivno traženje zaposlenja, odnosno preduzetničkih znanja i kompetencija za upravljanje sopstvenim profesionalnim razvojem i drugih znanja, vještina i kompetencija.

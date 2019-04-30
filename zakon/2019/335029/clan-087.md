@@ -1,0 +1,5 @@
+# Član 87
+## Stečena prava
+Nezaposleno lice koje je do dana stupanja na snagu ovog zakona ostvarilo pravo po osnovu nezaposlenosti, u skladu sa propisima koji su važili do dana stupanja na snagu ovog zakona, nastavlja da koristi pravo u istom obimu, trajanju i iznosu i nakon stupanja na snagu ovog zakona.
+Nezaposleno lice koje je do dana stupanja na snagu ovog zakona ostvarilo pravo na novčanu naknadu, u skladu sa propisima koji su važili do dana stupanja na snagu ovog zakona, do ponovnog zaposlenja ili dok čeka na zaposlenje, odnosno do nastupanja nekog od osnova za prestanak prava na novčanu naknadu, nastavlja da koristi pravo u istom obimu, trajanju i iznosu i nakon stupanja na snagu ovog zakona, poslije navršenih 67 godina života do ostvarivanja 15 godina staža osiguranja.
+Nezaposleno lice iz stava 2 ovog člana, kojem novčana naknada prestane zbog zasnivanja radnog odnosa, nakon njegovog prestanka može se ponovo prijaviti na evidenciju nezaposlenih lica i poslije navršenih 67 godina života, radi nastavka korišćenja prava na novčanu naknadu, za preostalo vrijeme, u istom obimu, trajanju i iznosu, do ostvarivanja 15 godina staža osiguranja.
