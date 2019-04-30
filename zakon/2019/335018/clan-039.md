@@ -1,0 +1,2 @@
+# Član 39
+Ako proizvođač ili distributer kozmetičkog proizvoda zna ili bi, na osnovu raspoloživih informacija i profesionalnog iskustva trebalo da zna, odnosno ako posumnja ili utvrdi da kozmetički proizvod koji je stavljen na tržište nije usklađen i ne ispunjava zahtjeve propisane zakonom kojim se uređuje opšta bezbjednost proizvoda, dužan je da odmah preduzme odgovarajuće korektivne mjere, kako bi se obezbijedila njegova usklađenost ili povlačenje sa tržišta, odnosno opoziv, u zavisnosti od konkretnog slučaja.

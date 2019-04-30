@@ -1,0 +1,2 @@
+# Član 9
+Prisustvo malih količina zabranjenih supstanci koje potiču od nečistoća u prirodnim ili sintetičkim sastojcima ili koje nastanu tokom postupka proizvodnje, skladištenja i prenosa supstanci iz ambalaže, a koje se tehnički ne mogu odvojiti i ako njihovo prisustvo u tim količinama nije štetno po zdravlje ljudi i ne ugrožava bezbjednost kozmetičkog proizvoda, dozvoljeno je, u skladu sa Dobrom proizvođačkom praksom.

@@ -1,0 +1,5 @@
+# Član 8
+Procjena bezbjednosti i ocjena usklađenosti kozmetičkog proizvoda vrši se provjerom njegovog sastava, u skladu sa standardima i metodama uzorkovanja i analiza, koje mogu da obezbijede ponovljivost i uporedivost rezultata.
+Ponovljivost i uporedivost rezultata iz stava 1 ovog člana se pretpostavlja, ako je upotrijebljena metoda uzorkovanja i analize u skladu sa odgovarajućim harmonizovanim standardima čije su referentne oznake objavljene u Službenom listu Evropske unije, a koje je donijelo nadležno tijelo Evropske unije.
+Proizvođač je dužan da o procjeni bezbjednosti kozmetičkog proizvoda sačini izvještaj, koji mora da sadrži opis uzorkovanja, metode analize, kao i druge podatke i upućivanje na evropske, nacionalne ili druge priznate metode analize.
+Provjeru bezbjednosti i ocjenu usklađenosti, uzorkovanje, način, vrstu, obim i metode analiza bezbjednosti i sastava kozmetičkih proizvoda, kao i sadržinu izvještaja o procjeni bezbjednosti i ocjenu usklađenosti kozmetičkih proizvoda propisuje Ministarstvo.

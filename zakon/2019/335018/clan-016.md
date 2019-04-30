@@ -1,0 +1,5 @@
+# Član 16
+Za označavanje, stavljanje na tržište, prezentaciju i reklamiranje kozmetičkih proizvoda nije dozvoljeno korišćenje naziva, robnog žiga, slike i simbola ili drugih oznaka kojima se pripisuju osobine ili dejstva koja ti proizvodi nemaju.
+Na ambalaži kozmetičkog proizvoda ili na bilo kojem pratećem dokumentu, obavještenju, naljepnici, prstenu ili grlu ambalaže koji prate ili koji se odnose na kozmetički proizvod dozvoljeno je označavanje, odnosno tvrdnja da nijesu vršena ispitivanja na životinjama.
+Označavanje, odnosno tvrdnja iz stava 2 ovog člana dozvoljena je samo ako proizvođač i distributeri nijesu vršili ili naručili neko ispitivanje gotovog kozmetičkog proizvoda, njegovog prototipa ili bilo kojeg sastojka na životinjama, ili ako nijesu korišćeni sastojci koje su drugi proizvođači, odnosno distributeri ispitivali na životinjama, radi razvoja novih kozmetičkih proizvoda.
+Informacije o kozmetičkom proizvodu su podaci koji su dostupni krajnjem korisniku putem etikete, drugog pratećeg materijala ili na drugi način, uključujući sredstva savremene tehnologije i komunikacije.

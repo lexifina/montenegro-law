@@ -1,0 +1,2 @@
+# Član 57
+Danom stupanja na snagu ovog zakona prestaje da se primjenjuje Zakon o zdravstvenoj ispravnosti životnih namirnica i predmeta opšte upotrebe ("Službeni list SFRJ", broj 53/91 i "Službeni list SRJ", broj 37/02) i prestaju da važe odredbe Zakona o zdravstvenom nadzoru nad životnim namirnicama i predmetima opšte upotrebe ("Službeni list SRCG", br. 26/73, 32/84, 12/86 i 4/88) koje se odnose na kozmetičke proizvode.

@@ -1,0 +1,4 @@
+# Član 45
+Informacije o rizicima koje kozmetički proizvodi mogu da imaju po zdravlje i bezbjednost potrošača, koji su utvrđeni u postupku inspekcijskog nadzora na tržištu i podaci o identifikaciji proizvoda, vrsti rizika i preduzetim mjerama moraju biti dostupni javnosti, u skladu sa načelom transparentnosti.
+Organ uprave nadležan za inspekcijske poslove dužan je da dostavi Ministarstvu godišnji izvještaj o nadzoru nad kozmetičkim proizvodima do 31. januara tekuće godine, za prethodnu godinu.
+Na osnovu izvještaja iz stava 2 ovog člana Ministarstvo sačinjava godišnji izvještaj, sa analizom rezultata i efekata preduzetih mjera i objavljuje ga na svojoj internet stranici, a po potrebi može ga učiniti dostupnim javnosti i drugim sredstvima javne komunikacije i dostavlja ga nadležnim tijelima drugih država i Evropskoj komisiji, na njihov zahtjev.
