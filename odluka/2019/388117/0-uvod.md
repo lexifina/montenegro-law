@@ -1,0 +1,2 @@
+Na osnovu člana 4 stav 1 Odluke o pristupanju izrade Strateškog plana razvoja opštine Gusinje ("Službeni list CG - opštinski propisi " br. 3/19 ) a u vezi članom 5 i 8 Zakona o regionalnom razvoju Crne Gore ( " Službeni list CG" broj 20/11, 26/11 i 20/15) i Pravilnika o metodologiji za izradu strateškog plana razvoja jedinice lokalne samouprave ("Službeni list CG" broj 68/16) , Predsjednica opštine Gusinje dana 17.04.2019. dono-si :
+ODLUKU
