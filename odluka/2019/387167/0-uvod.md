@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 Zakona o državnoj imovini ("Sl. list Crne Gore"br. 21/09, 40/11) člana 28 stav 1 tačka 1, člana 33 stav 2 i člana 34 stav 1 Zakona o lokalnoj samoupravi ("Sl. list Crne Gore" br. 2/18) i člana 73 stav 1 tačka 2 i člana 76 Statuta Prijestonice ("Sl. list Crne Gore-opštinski propisi" br. 049/18, 09/19) Skupština Prijestonice Cetinje, na sjednici održanoj dana 17.04.2019. godine, donijela je
+ODLUKU
