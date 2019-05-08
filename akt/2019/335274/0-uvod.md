@@ -1,0 +1,2 @@
+Na osnovu člana 128 stav 2 Zakona o energetici ("Službeni list CG", br. 5/16 i 51/17) i člana 23 stav 2 alineja 2 Statuta Društva sa ograničenom odgovornošću "Crnogorski operator tržišta električne energije" - Podgorica ("Službeni list CG", br. 13/11, 60/11 i 39/15), Odbor direktora Društva sa ograničenom odgovornošću "Crnogorski operator tržišta električne energije" - Podgorica, na sjednici održanoj 01.04.2019.godine, donio je
+IZMJENE I DOPUNE TRŽIŠNIH PRAVILA
