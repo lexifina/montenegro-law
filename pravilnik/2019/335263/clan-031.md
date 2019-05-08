@@ -1,0 +1,8 @@
+# Član 31
+## Učestalost monitoringa ekološkog statusa
+Tokom nadzornog monitoringa ekološkog statusa površinskih voda, analize specifičnih zagađajućih supstanci i fizičko-hemijskih parametara vrše se prema učestalosti datoj u Prilogu 11 (tabela 1), a za biološke ili hidromorfološke elemente kvaliteta, analiza se sprovodi najmanje jednom tokom nadzornog monitoringa.
+Za operativni monitoring učestalost analiza pojedinih elemenata kvaliteta ekološkog statusa utvrđuje se na način da se osigura dovoljno podataka za pouzdanu procjenu stanja kvaliteta i u intervalima koji ne prelaze intervale utvrđene Prilogom 11 (tabela 1).
+Za istraživački monitoring, analize elemenata kvaliteta sprovode se takvom dinamikom da se osigura dovoljan broj rezultata mjerenja i analiza za određivanje uzroka, razloga opterećenja i veličine i uticaja iznenadnog zagađenja iz člana 24 ovog pravilnika.
+Za određivanje učestalosti monitoringa uzima se promjenljivost vrijednosti parametara usljed prirodnih uticaja, kao i uticaja ljudskih aktivnosti i mora se osigurati prihvatljiv nivo pouzdanosti i tačnosti analitičkih rezultata, a vrijeme uzorkovanja se određuje tako da se uticaj sezonskih promjena svede na najmanju moguću mjeru i da rezultati ispitivanja odražavaju promjene nastale uticajem ljudskih aktivnosti.
+Ako prirodne sezonske promjene znatno utiču na rezultate ispitivanja, sprovodi se dodatni monitoring u različitim godišnjim dobima u istoj godini.
+Izuzetno od st. 1, 2 i 3 ovog člana programom monitoringa može se odstupiti od učestalosti monitoringa ekološkog statusa, ako je potrebno povećati pouzdanost rezultata procjene ekološkog statusa.
