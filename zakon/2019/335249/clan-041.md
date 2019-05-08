@@ -1,0 +1,5 @@
+# Član 41
+## Usklađivanje poslovanja detektiva
+Detektiv kome je izdata dozvola za vršenje detektivskih poslova u skladu sa Zakonom o detektivskoj djelatnosti ("Službeni list RCG", broj 29/05 i "Službeni list CG", broj 61/11), dužan je da se u roku od dvije godine od dana stupanja na snagu ovog zakona osposobi i položi stručni ispit za vršenje detektivskih poslova, u skladu sa ovim zakonom.
+Ako se detektiv u roku iz stava 1 ovog člana ne osposobi i ne položi stručni ispit za vršenje detektivskih poslova u skladu sa ovim zakonom, dozvola za vršenje detektivskih poslova koja mu je izdata u skladu sa Zakonom o detektivskoj djelatnosti ("Službeni list RCG", broj 29/05 i "Službeni list CG", broj 61/11) prestaje da važi.
+U slučaju iz stava 2 ovog člana, detektiv je dužan da vrati detektivsku legitimaciju izdatu u skladu sa Zakonom o detektivskoj djelatnosti ("Službeni list RCG", broj 29/05 i "Službeni list CG", broj 61/11), u roku od tri dana od dana prestanka važenja dozvole za vršenje detektivskih poslova.

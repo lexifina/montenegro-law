@@ -1,0 +1,5 @@
+# Član 40
+## Usklađivanje poslovanja privrednog društva, drugog pravnog lica, odnosno preduzetnika koje obavlja detektivsku djelatnost
+Privredno društvo, drugo pravno lice, odnosno preduzetnik koje obavlja detektivsku djelatnost uskladiće svoje poslovanje sa ovim zakonom, u roku od jedne godine od dana stupanja na snagu ovog zakona.
+U roku iz stava 1 ovog člana, privredno društvo, drugo pravno lice, odnosno preduzetnik koje obavlja detektivsku djelatnost na osnovu odobrenja za obavljanje detektivske djelatnosti izdatog u skladu sa Zakonom o detektivskoj djelatnosti ("Službeni list RCG", broj 29/05 i "Službeni list CG", broj 61/11), dužno je da podnese zahtjev za izdavanje odobrenja za obavljanje detektivske djelatnosti u skladu sa ovim zakonom.
+Ako privredno društvo, drugo pravno lice, odnosno preduzetnik koje obavlja detektivsku djelatnost ne podnese zahtjev za izdavanje odobrenja u skladu sa stavom 2 ovog člana, odobrenje za obavljanje detektivske djelatnosti koje mu je izdato u skladu sa Zakonom o detektivskoj djelatnosti ("Službeni list RCG", broj 29/05 i "Službeni list CG", broj 61/11) prestaje da važi.
