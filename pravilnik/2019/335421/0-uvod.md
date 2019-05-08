@@ -1,0 +1,3 @@
+Na osnovu člana 23 stav 8 Zakona o graničnoj kontroli ("Službeni list CG", br. 72/09, 39/13 i
+17/19), Ministarstvo unutrašnjih poslova donijelo je
+P R A V I L N I K O OBRASCU IDENTIFIKACIONE OZNAKE LICA ZAPOSLENIH U PRIVREDNOM DRUŠTVU, PRAVNOM LICU I KOD PREDUZETNIKA KOJI OBAVLJAJU DJELATNOST NA PODRUČJU GRANIČNOG PRELAZA
