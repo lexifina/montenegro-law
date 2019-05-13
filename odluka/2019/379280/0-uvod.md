@@ -1,0 +1,3 @@
+Na osnovu člana 2 stav 2, člana 8 stav 2, čl. 14, 16 i 21 Zakona o spomen - obilježjima ("Službeni list CG", br. 40/08, 40/11, 02/17), a u vezi sa članom 33 Statuta Opštine Plav ("Službeni list CG - Opštinski propisi", broj 44/18) i Programa podizanja spomen - obilježja u opštini Plav u 2018.godini (Službeni list CG - Opštinski propisi, br. 02/19 i 06/19), te Rješenja Ministarstva kulture o davanju saglasnosti na predlog odluke o podizanju spomen - obilježja broj UPI 01-254/4-2018 od 22. marta 2019.godine, Skupština Opštine Plav je na sjednici održanoj dana 12.04.2019.godine, donijela
+ODLUKU
+o podizanju spomen obilježja davanjem naziva
