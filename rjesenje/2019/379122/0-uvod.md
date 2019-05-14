@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 tačka 22 Statuta Opštine Herceg Novi ("Sl.list CG-opštinski propisi" br. 01/19) i člana 9 stav 1 alineja 3 Odluke o osnivanju društva sa ograničenom odgovornošću "Komunalno stambeno" Herceg Novi ("Sl.list CG-opštinski propisi",br. 29/13, 08/15, 27/17) Skupština opštine Herceg Novi, na sjednici započetoj 25.04.2019.godine i nastavljenoj 08.05.2019.godine, 10.05.2019.godine i 14.05.2019.godine, donijela je
+R J E Š E NJ E O IMENOVANJU ČLANOVA ODBORA DIREKTORA DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "KOMUNALNO STAMBENO" HERCEG NOVI
