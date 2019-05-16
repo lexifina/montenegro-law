@@ -1,0 +1,2 @@
+Na osnovu člana 23 stav 1 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18 i 42/18), člana 38 stav 1 tačka 2 i tačka 29 Zаkоnа о lоkаlnој sаmоuprаvi ("Službeni list CG", broj 2/18), člana 35 stav 1 tačka 29 i člana 38 stav 1 Statuta opštine Nikšić ( "Službeni list CG - Opštinski propisi", broj 31/18), uz prethodnu saglasnost Ministarstva finansija, broj: 03- 1920/1, od 13. 02. 2019. godine, Skupština opštine Nikšić, na sjednici održanoj 24.04.2019. godine, donijela je
+ODLUKU
