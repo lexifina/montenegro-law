@@ -1,0 +1,4 @@
+# Član 3
+Pri korišćenju poslovnog prostora iz člana 1 ove odluke, NVO "Udruženje za pomoć licima ometenim u psihofizičkom razvoju" Nikšić je obavezno postupati sa dužnom pažnjom dobrog domaćina, čuvati poslovni prostor od oštećenja i uništenja, držati ga u urednom i ispravnom stanju, snositi troškove štete koja bi nastala njegovom nepažnjom za vrijeme korišćenja istog.
+Za sve eventualne prepravke na objektu, odnosno njegovu rekonstrukciju ili adaptaciju, korisnik objekta mora dobiti prethodnu saglasnost Opštine.
+Troškove investicionog i tekućeg održavanja za vrijeme korišćenja poslovnog prostora iz člana 1 ove odluke dužno je da snosi NVO "Udruženje za pomoć licima ometenim u psihofizičkom razvoju" Nikšić i isto je dužno da ispunjava sve obaveze po osnovu komunalnih i dugih usluga (voda, struja i sl.).
