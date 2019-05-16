@@ -1,0 +1,2 @@
+Na osnovu člana 4 stav 2, člana 12, 14 i 15 Zakona o komunalnim djelatnostima ("SI. list CG", broj 55/16), člana 155 stav 1 Zakona o vodama ("Službeni list RCG", broj 27/07 i "Službeni list CG", br. 32/11, 47/11, 48/15, 55/16, 02/17 i 80/17), člana 4 Zakona o prekršajima ("Službeni list CG", broj 1/11,6/11, 39/11 i 32/14) i člana 42, stav 1. tačka 2. Statuta opštine Ulcinj ("Službeni list CG - opštinski propisi", br. 5/07, 9/09 i 16/11), Skupština Opštine Ulcinj, na sjednici održanoj dana 18.03.2019 , donijela je
+ODLUKU
