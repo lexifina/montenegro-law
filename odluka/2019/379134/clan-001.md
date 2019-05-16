@@ -1,0 +1,3 @@
+# Član 1
+## za zasnivanje stvarne službenosti radi polaganja priključnog 10kV kablovskog voda
+Opština Nikšić, daje saglasnost "Crnogorskom elektrodistributivnom sistemu" d.o.o. Podgorica, za zasnivanje stvarne službenosti, radi polaganja priključnog 10kV kablovskog voda, na dijelu katastarske parcele broj 2586/1, u površini od 105 m2 iz lista 787 KO Nikšić, dijelu katastarske parcele broj 2623, u površini od 94 m2 iz lista nepokretnosti 2862 KO Nikšić i dijelu katastarske parcele broj 4521/2, u površini od 1 m2 iz lista nepokretnosti 3975 KO Nikšić, sve upisane kao svojina Države Crne Gore sa pravom raspolaganja Opštine Nikšić.
