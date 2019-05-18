@@ -1,0 +1,7 @@
+# Član 1
+Utvrđuje se javni interes za eksproprijaciju nepokretnosti u Glavnom gradu Podgorica i to:
+KO Rogami
+1. dio kat. parcele broj 522/1 (novi broj 522/11), neplodno zemljište u površini od 409 m2, upisane u listu nepokretnosti broj 297 kao susvojina Vukanović Luke 1/3, Vukanović Milana 1/3 i Novosel Šćepan Milodarke 1/3,
+2. dio kat. parcele broj 561/3 (novi broj 561/10), neplodno zemljište u površini od 89 m2, upisana u listu nepokretnosti broj 199 kao susvojina Rajković Maše ud. Novaka 2/16, Rajković Dragutin Bojana 1/16, Rajković Jovan Budislava 4/64, Saveljić Budislavke 4/64, Rajković Dragana 4/48, Rajković Vojislav Dragomira 4/48, Rajković Ive 2/64, Rajković - Bulatović Jovane 1/64, Stamatović Marije 1/64, Rajković Jovan Marine 4/64, Rajković Dragutin Natalije 1/16, Rajković Vojislav Nikole 4/48, Rajković Milutin Slobodana 4/32 i Rajković Milutin Sreta 4/32,
+3. dio kat. parcele broj 559 (novi broj 559/2), pašnjak 4. klase u površini od 40 m2 i dio kat. parcele broj 558 (novi broj 558/3), livada 5. klase u površini od 450 m2, upisane u listu nepokretnosti broj 202 kao susvojina Rajković Božidar Branka 1/6, Rajković Ljubomir Milivoja 1/2, Rajković Božidar Miloša 1/6 i Rajković Božidar Raca 1/6,
+4. dio kat. parcele broj 555 (novi broj 555/4), livada 5. klase u površini od 163 m2, dio kat. parcele broj 555 (novi broj 555/5), livada 5. klase u površini od 1118 m2 i dio kat. parcele broj 556 (novi broj 556/4), pašnjak 4. klase u površini od 774 m2 upisane u listu nepokretnosti broj 923 kao svojina Rajković Vojislava Nikole.
