@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14, 56/14,70/17, 04/18 I 55/18 ), člana 43 i 48 Zakona o finansiranju lokalne samouprave ("Službeni list CG", br. 03/19), člana 46 Statuta Opštine Rožaje ("Sl. list CG - opštinski propisi" br.38/18), Skupština opštine Rožaje, na sjednici održanoj dana 22.04.2019. godine, d o n o s i
+O D L U K U O KREDITNOM ZADUŽENJU OPŠTINE ROŽAJE RADI REFINANSIRANJA OBAVEZA PO OSNOVU KREDITA
