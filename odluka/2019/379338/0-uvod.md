@@ -1,0 +1,2 @@
+Na osnovu člana 29 Zakona o državnoj imovini ("Sl.list Crne Gore" br.21/09, 40/11) u vezi sa članom 194, 199, 201, 206, 215 Zakona o svojinsko pravnim odnosima ("Sl.list Crne Gore" br.19/09), člana 28 stav 1 tačka 1, člana 38 sav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore" br.2/18), i člana 18 stav 1 i 2 i člana 39 Statuta Opštine Tivat ("Sl.list Crne Gore- opštinski propisi" br.24/18) na sjednici Skupštine opštine Tivat održanoj dana 25.04.2019.godine, donijeta je
+O D L U K A
