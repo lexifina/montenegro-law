@@ -1,0 +1,2 @@
+# Član 5
+Uz prijavu na interni oglas, pored dokaza o ispunjenosti uslova, kandidat prilaže i motivaciono pismo, radnu biografiju i mišljenje rukovodioca organizacione jedinice Ministarstva u kojoj je raspoređen, koje se naročito odnosi na ocjenu radne uspješnosti i sposobnosti kandidata i nesmetani nastavak radnog procesa u slučaju izbora kandidata za raspoređivanje na rad u diplomatsko-konzularnom predstavništvu.
