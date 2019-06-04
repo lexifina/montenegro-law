@@ -1,0 +1,2 @@
+Na osnovu člana 94 stav 2 Statuta Opštine Plav ("Sl. list CG-opštinski propisi", broj 02/18), a u vezi sa članom 115 stav 4 i članom 121 stav 3 Zakona o lokalnoj samoupravi ("Sl. list CG", broj 02/18), članu 26 stav 3 i 5 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18 i 42/18) i člana 27 stav 4 Uredbe o kriterijumima i bližem načinu sprovođenja provjere znanja, sposobnosti, kompetencija i vještina za rad u državnim organima("Sl. list CG", broj 50/18), predsjednik Opštine Plav, donio je
+ODLUKU

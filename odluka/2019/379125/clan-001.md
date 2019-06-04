@@ -1,0 +1,4 @@
+# Član 1
+## o visini naknade za rad istaknutih stručnjaka i stručnih lica
+Ovom odlukom uređuje se naknada stručnog lica i istaknutog stručnjaka za rad u komisiji za provjeru znanja, sposobnosti, kompetencija i vještina, odnosno u komisiji za provjeru kompetencija, znanja i sposobnosti (u daljem tekstu: Komisija) kandidata u postupku popune radnog mjesta u organima i službama lokalne uprave i Službi skupštine Opštine Plav, po raspisanom javnom konkursu, odnosno internom ili javnom oglasu, kao i druga pitanja od značaja za ostvarivanje prava na naknadu.
+Pod istaknutim stručnjakom, odnosno stručnim licem iz stava 1 ovog člana podrazumijeva se lice sa liste istaknutih stručnjaka, odnosno sa liste stručnih lica, koju utvrđuje organ državne uprave nadležan za poslove upravljanja kadrovima.
