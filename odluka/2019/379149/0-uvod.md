@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list Crne Gore", broj 002/18), čl. 89 stav 1, 90, 104 stav 1 i 105 Zakona o socijalnoj i dječijoj zaštiti ("Sl. list Crne Gore", br. 27/13, 1/15, 42/15, 47/15, 56/15, 66/16, 1/17, 31/17, 42/17 i 50/17), člana 20 stav 1 tačka 26 u vezi člana 46 stav 1 tačka 14 Statuta Opštine u okviru Glavnog grada - Golubovci ("Sl. list Crne Gore - Opštinski propisi", broj 12/19), Skupština Opštine u okviru Glavnog grada - Golubovci, na sjednici održanoj dana 10.05.2019. godine, donijela je -
+ODLUKU O OSNIVANJU JAVNE USTANOVE "CENTAR ZA PRUŽANJE USLUGA IZ OBLASTI SOCIJALNE I DJEČIJE ZAŠTITE,
+ZA OPŠTINU U OKVIRU GLAVNOG GRADA - GOLUBOVCI"
