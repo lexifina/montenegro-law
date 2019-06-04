@@ -1,0 +1,129 @@
+Obrazac Z1
+OPŠTINA U OKVIRU GLAVNOG GRADA - GOLUBOVCI
+PREDMET: Zahtjev za jednokratnu novčanu pomoć za poboljšanje materijalne situacije
+Prezime i ime ______________________ ime roditelja _________________________
+Mjesto i datum rođenja ___________________________________________________
+Mjesto prebivališta ___________________________MZ_________________________
+Adresa stana ___________________________________________________________
+Bračno stanje: oženjen-udata, neoženjen-neudata, razveden-a, udovac-udovica,
+vanbračna zajednica.
+______________________________________________________________________
+Sposobnost za rad: sposoban, nesposoban (u slučaju nesposobnosti priložiti
+odgovarajuću medicinsku dokumentaciju).
+______________________________________________________________________
+Članovi domaćinstva: srodstvo sposobnost za rad datum rođ.
+1. ____________________, _______________, _______________, ____________
+2. ____________________, _______________, _______________, ____________
+3. ____________________, _______________, _______________, ____________
+4. ____________________, _______________, _______________, ____________
+5. ____________________, _______________, _______________, ____________
+6. ____________________, _______________, _______________, ____________
+7. ____________________, _______________, _______________, ____________
+Radni status: zaposlen-a, nezaposlen-a, poljoprivredni proizvođač, penzioner,
+učenik, student, ostalo (stauts se dokazuje odgovarajućom potvrdom)
+______________________________________________________________________
+Prihodi domaćinstva: plata, penzija, materijalno obezbjeđenje porodice, dodatak za
+njegu i pomoć drugog lica, ostala primanja (priložiti pismeni dokaz):
+______________________________________________________________________
+______________________________________________________________________
+Visina prihoda: __________________________________________________________
+______________________________________________________________________
+Prihodi srodnika-roditelja i djece (ako su u zajedničkom domaćinstuv). Vrsta i
+visina (priložiti pismeni dokaz) ______________________________________________
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+Stambena situacija podnosioca zahtjeva: stanarsko pravo, vlasnik stana ili kuće,
+suvlasnik, podstanar, sustanar, ostalo (ako je podstanar navesti ime i prezime
+stanodavca i visinu stanarine).
+___________________________________________________________________
+Stambena situacija srodnika (ako se radi o zajedničkom domaćinstvu): stanarsko
+pravo, vlasnik stana ili kuće, suvlasnik, podstanar, sustanar, ostalo.
+___________________________________________________________________
+Zdravstveno stanje podnosioca zahtjeva i članova njegovog porodičnog domaćinstva:
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+Napomena:__________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+___________________________________________________________________
+Br.žiro računa podnosioca zahtjeva:______________________________________
+Naziv banke i br.računa:_______________________________________________
+Potrebna dokumentacija: Podnosilac zahtjeva:
+Kopija lične karte, _______________________
+Kopija žiroračuna, br.l.k.____________________
+Ljekarska dokumentacija, izdata od FL_______________
+Dokaz o primanjima (ček od penzije, MOP, JMB______________________
+i drugi dokazio prihodima podnosioca Br.tel._____________________
+zahtjeva i članova domaćinstva, ne stariji
+od 6 mjeseci),
+Uvjerenja Zavoda za zapošljavanje,
+Uvjerenje o visini prihoda iz prethodne godine
+(iz Poreske uprave)
+Obrazac Z2
+OPŠTINA U OKVIRU GLAVNOG GRADA - GOLUBOVCI
+PREDMET: Zahtjev za jednokratnu novčanu pomoć za troškove liječenja.
+Prezime i ime ______________________ ime roditelja __________________________
+Mjesto i datum rođenja ___________________________________________________
+Mjesto prebivališta ___________________________MZ_________________________
+Adresa stana ___________________________________________________________
+Bračno stanje: oženjen-udata, neoženjen-neudata, razvedena, udovac-udovica,
+vanbračna zajednica.
+______________________________________________________________________
+Sposobnost za rad: sposoban, nesposoban (u slučaju nesposobnosti priložiti
+odgovarajuću medicinsku dokumentaciju).
+______________________________________________________________________
+Članovi domaćinstva: srodstvo sposobnost za rad datum rođ.
+1. ____________________, _______________, _______________, ____________
+2. ____________________, _______________, _______________, ____________
+3. ____________________, _______________, _______________, ____________
+4. ____________________, _______________, _______________, ____________
+5. ____________________, _______________, _______________, ____________
+6. ____________________, _______________, _______________, ____________
+7. ____________________, _______________, _______________, ____________
+Radni status: zaposlen-a, nezaposlen-a, poljoprivredni proizvođač, penzioner,
+učenik, student, ostalo
+______________________________________________________________________
+Prihodi domaćinstva: plata, penzija, materijalno obezbjeđenje porodice, dodatak za
+njegu i pomoć drugog lica, ostala primanja :
+______________________________________________________________________
+______________________________________________________________________
+Visina prihoda: _________________________________________________________
+_____________________________________________________________________
+Prihodi srodnika-roditelja i djece (ako su u zajedničkom domaćinstvu).
+Vrsta i visina___________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+Stambena situacija podnosioca zahtjeva: stanarsko pravo, vlasnik stana ili kuće, suvlasnik, podstanar, sustanar, ostalo (ako je podstanar navesti ime i prezime stanodavca i visinu stanarine).
+___________________________________________________________________
+Stambena situacija srodnika (ako se radi o zajedničkom domaćinstvu): stanarsko
+pravo, vlasnik stana ili kuće, suvlasnik, podstanar, sustanar, ostalo.
+___________________________________________________________________
+Zdravstveno stanje podnosioca zahtjeva i članova njegovog porodičnog domaćinstva:
+___________________________________________________________________
+___________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+Napomena:_____________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+Br.žiro računa podnosioca zahtjeva:_________________________________________
+Naziv banke i br.računa:___________________________________________________
+Potrebna dokumentacija: Podnosilac zahtjeva:
+Kopija lične karte, ________________________
+Kopija žiro računa, br.l.k.______________________
+Ljekarska dokumentacija koja nije starija od 3 god. izdata od FL________________
+(osim u slučajevima trajnog invaliditeta), JMB_______________________
+Dokaz o troškovima liječenja
+(račune za nabavku Br. tel______________________
+ljekova,obavljene specijalističke preglede i slično)
+Uput za liječenje u inostranstvu i dokaz o
+troškovima prevoza
+Ostale dokaze koji se odnose na troškove liječenja
