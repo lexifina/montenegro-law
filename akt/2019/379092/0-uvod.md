@@ -1,0 +1,2 @@
+Na osnovu člana 55 stav 5 Zakona o komunalnim djelatnostima (»Sl.list CG« broj 55/16, 2/18), člana 38 stav 1 tačka 30 Zakona o lokalnoj samoupravi ("Sl.list CG" broj 2/18) i člana 34 stav 1 tačka 30 Statuta Opštine Herceg Novi ("Sl. list CG - opštinski propisi", broj 1/19), Skupština opštine Herceg Novi, na sjednici započetoj 25.04.2019.godine i nastavljenoj 08.05.2019.godine i 10.05.2019.godine, donijela je
+ODLUKU O DAVANJU SAGLASNOSTI NA PROMJENU CIJENE KOMUNALNE USLUGE D.O.O. »VODOVOD I KANALIZACIJA« HERCEG NOVI
