@@ -1,0 +1,2 @@
+Na osnovu člana 43 stav 1 tačka 1 alineja 1 Zakona o energetici (''Službeni list CG'', br. 5/16 i 51/17) i člana 12 stav 1 tačka 1 Statuta Regulatorne agencije za energetiku (''Službeni list CG'', broj 36/17), Odbor Regulatorne agencije za energetiku, na sjednici od 06. juna 2019. godine, utvrdio je
+METODOLOGIJU ZA UTVRĐIVANJE REGULATORNO DOZVOLJENOG PRIHODA I CIJENA ZA KORIŠĆENJE PRENOSNOG SISTEMA ELEKTRIČNE ENERGIJE
