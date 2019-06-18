@@ -1,0 +1,2 @@
+Na osnovu člana 43 Statuta Opštine Bar ("Sl.list CG-opštinski propisi ", broj 37/18) i člana 11 stav 1 alineja 4 Odluke o osnivanju d.o.o. "Vodovod i kanalizacija"Bar ("Sl.list CG-opštinski propisi", broj 10/16) i Odluke Odbora direktora doo"Vodovod i kanalizacija"Bar broj 297 od 21.01.2019. godine o razrješenju Izvršnog direktora na lični zahtijev, Skupština opštine Bar, na sjednici održanoj 18.06.2019. godine, donijela je
+O D L U K U
