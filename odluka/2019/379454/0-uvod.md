@@ -1,0 +1,2 @@
+Na osnovu člana 43 Statuta Opštine Bar ("Sl.list CG-opštinski propisi ", broj 37/18) i člana 1 Odluke o izmijeni Odluke o organizovanju Javnog preduzeća "Kulturni centar"Bar ("Sl.list CG-opštinski propisi", broj 41/06) i Odluke Upravnog odbora JP Kulturni centar Bar broj 765 od 13.05.2019. godine o imenovanju direktora, Skupština opštine Bar, na sjednici održanoj 18.06.2019. godine, donijela je
+O D L U K U
