@@ -1,0 +1,5 @@
+# Član 35
+## Odnos prema građanima, nevladinim organizacijama i drugim subjektima
+U cilju afirmisanja rada organa, organa uprave i razvoja lokalne demokratije, Sekretarijat sarađuje sa nevladinim organizacijama, privatnim sektorom i drugim subjektima u oblastima za koje je osnovan u skladu sa zakonom i propisima Opštine.
+Sekretarijat je dužan da organizuje vršenje poslova i zadataka iz svog djelokruga, na način kojim se građanima omogućava da lakše i u najkraćem roku ostvare svoja prava i obaveze i da im pruže stručnu pomoć u pogledu ostvarivanja tih prava i obaveza.
+Građani, pravna lica, civilni sektor i drugi subjekti mogu organima, organima uprave i etičkim komisijama dostavljati pritužbe, predloge, sugestije inicijative i predloge u pisanoj ili elektronskoj formi, preko kutija za predloge, primjedbe i sugestije, dežurnih telefona i neposrednim prijemom kod starješine organa, odnosno lokalnih funkcionera u skladu sa posebnim uputstvom predsjednika Opštine, odnosno propisima kojima se uređuju etički standardi, odnosno postupanje etičkih komisija.

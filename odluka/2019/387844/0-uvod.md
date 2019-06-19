@@ -1,0 +1,3 @@
+Na osnovu člana 58 stav 1 tačka 7 Zakona o lokalnoj samoupravi (''Službeni list CG'', broj 2/18), člana 35 stav 1 tačka 6 Zakona o Glavnom gradu ("Službeni list RCG", broj 65/05 i "Službeni list CG", br. 88/09, 72/10, 2/16 i 31/17), člana 94 stav 1 tačka 6 i člana 106 stav 5 Statuta Opštine u okviru Glavnog grada - Golubovci (''Službeni list CG - Opštinski propisi'', broj 12/19), predsjednik Opštine u okviru Glavnog grada - Golubovci, po pribavljenom mišljenju glavnog administratora Glavnog grada, broj 01-02-032/19-2324/1 od 06.juna 2019.godine, dana 07.juna 2019. godine, donio je-
+O D L U K U
+o organizaciji i načinu rada lokalne uprave Opštine u okviru Glavnog grada - Golubovci
