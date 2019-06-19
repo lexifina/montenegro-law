@@ -1,0 +1,3 @@
+Na osnovu člana 8, člana 25 stav 3 i člana 29 stav 2 Zakona o državnoj imovini ("Sl.list Crne Gore", br.21/09 i 40/11), člana 64 Zakona o privrednim društvima ("Sl.list RCG", broj 6/02 i "Sl.list CG", br.17/07, 80/08, 40/10, 36/11 i 40/11), člana 27 stav 1 tačka 13, člana 38 stav 1 tačka 9 i 14 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore", broj 2/18), te člana 24 stav 1 tačka 13 i člana 54 stav 1 tačka 12 i 17 Statuta Glavnog grada ( "Sl.list CG-Opštinski propisi", broj 8/19), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 13. juna 2019. godine, donijela je -
+O D L U K U
+o dopuni Odluke o nepokretnoj imovini Društva sa ograničenom odgovornošću "Sportski objekti"- Podgorica, broj 01-
