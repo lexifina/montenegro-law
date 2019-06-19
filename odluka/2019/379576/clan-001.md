@@ -1,0 +1,5 @@
+# Član 1
+## zajednica VI - Kruševac - dio" u Podgorici
+Prodaje se građevinsko zemljište u državnoj imovini, sa pravom raspolaganja Glavnog grada - Podgorice, u zahvatu DUP-a "Stambena zajednica VI - Kruševac - dio" u Podgorici, označeno kao:
+- urbanistička parcela broj UP1, blok 18, površine 394m2, koju čini katastarska parcela broj 1823/9 iz l.n.br. 4048 KO Tološi; - urbanistička parcela broj UP2, blok 18, površine 246m2, koju čini katastarska parcela broj 1823/10 iz l.n.br. 4048 KO Tološi; - urbanistička parcela broj UP3, blok 18, površine 262m2, koju čini katastarska parcela broj 1823/11 iz l.n.br. 4048 KO Tološi; - urbanistička parcela broj UP4, blok 18, površine 402m2, koju čini katastarska parcela broj 1823/12 iz l.n.br. 4048 KO Tološi; - urbanistička parcela broj UP5, blok 13, površine 484m2, koju čine katastarske parcele broj 1823/20 površine 405m2 i 1822/80 površine 79m2 iz l.n.br. 4048 KO Tološi;
+Na navedenim urbanističkim parcelama planirana je izgradnja objekata namjene "SMG - stanovanje malih gustina", spratnosti P+2+Pk.
