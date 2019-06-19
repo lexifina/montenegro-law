@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2, člana 34 stav 3 i člana 40 stav 1 Zakona o državnoj imovini ("Sl. list Crne Gore", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list CG", broj 2/18), člana 54 stav 1 tačka 12 Statuta Glavnog grada ( "Sl. list CG - opštinski propisi", broj 8/19) i Odluke Vlade Crne Gore o davanju prethodne saglasnosti Glavnom gradu - Podgorica za otuđenje nepokretnosti, broj 07-2253 od 6. juna 2019. godine, Skupština Glavnog grada - Podgorice, na sjednici održanoj 13. juna 2019. godine, donijela je
+O D L U K U
+o prodaji građevinskog zemljišta - urbanističke parcele A2.7.
