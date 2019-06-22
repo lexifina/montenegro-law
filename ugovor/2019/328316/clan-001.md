@@ -1,0 +1,2 @@
+# Član 1
+Objavljuje se Sporazum o prepoznavanju obuka i sertifikaciji pomoraca za službu na plovilima registrovanim u Svetom Vincentu i Grenadinima između Ministarstva saobraćaja i pomorstva u ime Vlade Crne Gore i Pomorske uprave Svetog Vincenta i Grenadina u ime Vlade Svetog Vincenta i Grenadina, zaključen razmjenom potpisa 4. marta 2019. godine u Podgorici i 5 februara 2019. godine u Kingstaunu, u originalu na engleskom jeziku.
