@@ -1,0 +1,3 @@
+Na osnovu člana 38, stav 1, tačka 28, Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18), člana 23 stav 1 i 2 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18 - odluka US i 42/18), i člana 31, stav 1, tačka 2, Statuta opštine Kolašin ("Sl.list RCG"- opštinski propisi, br. 25/04,31/04,34/06 i "Sl.list CG"- opštinski propisi br. 41/10)), Skupština opštine Kolašin, uz prethodnu saglasnost Ministarstva finansija, broj: 03-1362/1 od 22.01.2019.godine, na sjednici održanoj 17.06.2019. godine, donijela je
+O D L U K U
+o zaradama lokalnih funkcionera Opštine Kolašin
