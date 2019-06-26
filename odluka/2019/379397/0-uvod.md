@@ -1,0 +1,2 @@
+Na osnovu člana 38 st.1 tačka 21 Zakona o lokalnoj samoupravi ("Sl.list CG" br.2/18), člana 31 st.1 tačka 18 Statuta opštine Kolašin ("Sl.list RCG-opštinski propisi" br.25/04, 31/04, 34/06 i " Sl.list CG-opštinski propisi" br. 41/10), člana 4 i člana 11 Odluke o obrazovanju radnih tijela Skupštine ("Sl.list CG-opštinski propisi" br.31/05), Skupština opštine Kolašin na sjednici održanoj 17.06.2019.godine donijela je-
+O D L U K U
