@@ -1,0 +1,2 @@
+# Član 3
+Učesnikom narodnooslobodilačkog rata (u daljem tekstu: učesnik), u smislu ove odluke, smatra se lice koje je stupilo u narodnooslobodilački rat poslije 9. septembra 1943. godine (muškarac), odnosno poslije 1. juna 1944. godine (žena), ako mu je vrijeme od stupanja u narodnooslobodilački rat do 15. maja 1945. godine priznato u staž osiguranja koji se računa sa uvećanjim trajanjem, shodno odredbama Zakona o penzijskom i invalidskom osiguranju.
