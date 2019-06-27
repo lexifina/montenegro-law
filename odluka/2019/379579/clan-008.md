@@ -1,0 +1,19 @@
+# Član 8
+Komunalna policija vrši poslove kojima se obezbjeđuje:
+- praćenje i sprovođenje zakona i propisa donesenih na osnovu zakona u oblasti komunalnog nadzora i održavanja komunalnog reda, prekršajnog postupka i u drugim oblastima u kojima vrši komunalni nadzor i održava komunalni red; izjašnjavanje na nacrte i predloge zakona, drugih propisa i planskih dokumenata u ovim oblastima;
+- izradu i sprovođenje programa rada službe i drugih programskih i planskih akata iz djelokruga službe; sprovođenje plana integriteta i drugih planova i programa opštine u okviru djelokruga službe; praćenje i sprovođenje državnih planskih akata u okviru nadležnosti službe;
+- komunalni nadzor i održavanje komunalnog reda u oblastima: snabdijevanja vodom; prečišćavanja otpadnih voda; odvođenja otpadnih i atmosferskih voda; snabdijevanja toplotom; javne čistoće; prevoza i deponovanja komunalnog i drugog otpada, izgradnje, održavanja i korišćenja deponija; uređivanja i održavanja pijaca, groblja, parkova, zelenih i drugih javnih površina; održavanja ulica, saobraćajnica i drugih javnih površina i javne rasvjete; izgradnje, korišćenja i održavanja lokalnih puteva, nekategorisanih puteva, saobraćajnih oznaka i signalizacije, prevoza putnika u gradskom i prigradskom linijskom saobraćaju, auto taksi i vanrednog prevoza, parkiranja na javnim parkiralištima; održavanja i korišćenja mostova, javnih objekata i regulacije i održavanje riječnih korita; postavljanje privremenih i pomoćnih objekata, stanovanja u stambenim zgradama; držanja kućnih ljubimaca; zaštite od buke u životnoj sredini; upotrebe simbola opštine, kontrole radnog vremena, i u drugim oblastima u kojima opština vrši sopstvene poslove ili prenesene, odnosno povjerene poslove iz nadležnosti državne uprave u skladu sa zakonom;
+- vođenje evidencije izdatih prekršajnih naloga iz nadležnosti komunalne policije ( unos, ažuriranje podataka počinilaca prekršaja);
+- učestvovanje u zaštiti i spašavanju u skladu sa zakonom kojim se uređuje sistem zaštite i spašavanja;
+- pružanje pomoći u izvršenjima odluka nadležnih organa lokalne uprave i javnih službi u skladu sa zakonom;
+- davanje mišljenja u postupku izdavanja saglasnosti za produženje radnog vremena;
+- davanje mišljenja u postupku izdavanja saglasnosti na upotrebu akustičnih i elektroakustičnih uređaja;
+- saradnja sa Sekretarijatom u poslovima iz oblasti inspekcijskog nadzora i drugim inspekcijskim i bezbjedonosnim službama na lokalnom i centralnom nivou;
+- učestvovanje u izradi nacrta i predloga opštinskih propisa iz domena svoje nadležnosti;
+- postupanje po inicijativama građana iz djelokruga službe;
+- pripremanje informativnih i drugih stručnih materijala za Skupštinu i predsjednika Opštine; izjašnjavanje na nacrte i predloge zakona i drugih propisa, pripremanje stručnih mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa, sprovođenja plana integriteta, ostvarivanje neposredne saradnje sa nevladinim organizacijama, iz nadležnosti organa;
+- pripremanje informacija za medije iz svog djelokruga i dostavljanje službi nadležnoj za informisanje na obradu i objavljivanje u medijima, veb sajtu i društvenim mrežama;
+- pripremanje izvještaja za glavnog administratora o postupanju u upravnim stvarima iz svoje nadležnosti;
+- vođenje upravnog postupka za slobodan pristup informacijama i drugih upravnih postupaka u skaldu sa zakonom iz djelokruga službe;
+- procjenu analize uticaja odluka i drugih propisa ( RIA) iz svog djelokruga i
+- druge poslove iz svog djelokruga u skladu sa zakonom i drugim propisima.
