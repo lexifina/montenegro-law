@@ -1,0 +1,4 @@
+# Član 7
+## Stupanje na snagu
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+---------------------- * U ovaj Pravilnik prenijete su: Uredba (EZ) br. 391/2009 od 23. aprila 2009. o zajedničkim pravilima i normama za organizacije koje obavljaju pregled i nadzor brodova; Direktiva Komisije 2014/111/EU оd 17. decembra 2014. o izmjeni Direktive 2009/15/EZ s obzirom na određene kodekse i povezane izmjene određenih konvencija i protokola koje je donijela Međunarodna pomorska organizacija (IMO); Direktiva 2009/15/EZ od 23. aprila 2009. o zajedničkim pravilima i normama za organizacije koje obavljaju pregled i nadzor brodova te za odgovarajuće aktivnosti pomorskih Uprava i Uredba Komisije (EU) br. 1355/2014 оd 17. decembra 2014. o izmjeni Uredbe (EZ) br. 391/2009 s obzirom na određene kodekse i povezane izmjene određenih konvencija i protokola koje je donijela Međunarodna pomorska organizacija (IMO)
