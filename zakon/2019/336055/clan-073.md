@@ -1,0 +1,2 @@
+# Član 73
+Kad se u crnogorski upisnik brodova upisuje brod koji je bio upisan u strani upisnik brodova, a iz isprave o brisanju broda iz stranog upisnika brodova se vidi da je brod opterećen hipotekom na brodu, upisaće se, po službenoj dužnosti, predbilježba hipoteke sa redom prvenstva koji ima prema času koji je bio mjerodavan za utvrđivanje reda prvenstva u stranom upisniku brodova, ako u času upisa nijesu ispunjeni uslovi za uknjižbu hipoteke na brodu određene ovim zakonom.

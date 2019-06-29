@@ -1,0 +1,2 @@
+# Član 126
+Ako se brod koji je bio brisan iz upisnika brodova zbog toga što je propao ili se pretpostavljalo da je propao, ili zbog toga što je trajno povučen iz plovidbe, ili zbog toga što je proglašen pomorskim plijenom, odnosno ratnim plijenom na moru, ponovo upisuje u upisnik brodova, sud će donijeti rješenje o ponovnom upisu broda sa svim podacima i upisanim pravima iz upisnika sa kojima je ranije bio upisan, a koji su važili do dana brisanja broda i o tome obavijestiti vlasnika broda i sva ostala lica u čiju korist je bilo upisano neko pravo na brodu.

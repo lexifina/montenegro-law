@@ -1,0 +1,2 @@
+# Član 11
+U list C uloška glavne knjige upisnika brodova upisuju se tereti kojima je brod ili njegov dio opterećen, prava stečena na tim pravima, zakup broda, brodarski ugovor na vrijeme za cijeli brod, pravo preče kupovine i druga ograničenja raspolaganja brodom kojima je podvrgnut vlasnik opterećenog broda, zabrane opterećivanja, otuđivanja i zabilježbe za koje nije izričito određeno da se upisuju u drugi list uloška.

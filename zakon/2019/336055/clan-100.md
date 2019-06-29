@@ -1,0 +1,3 @@
+# Član 100
+Lice koje želi da ospori uknjižbu protiv trećih lica, o čijoj je dozvoli bilo propisno obaviješteno, može uložiti žalbu protiv dozvole te uknjižbe i predložiti sudu upis zabilježbe da je uknjižba sporna, a najkasnije u roku od 60 dana od dana isteka roka za žalbu, podnijeti tužbu za brisanje uknjižbe protiv svih lica koja su osporavanom uknjižbom stekla upisano pravo ili su na upisanom pravu postigla dalje uknjižbe ili predbilježbe.
+Poslije isteka roka iz stava 1 ovog člana, protiv trećih lica koja su prije zabilježbe spora na upisanom pravu stekla dalja upisana prava, može se tužbom za brisanje osporavati uknjižba samo ako ta lica nijesu bila savjesna u pogledu valjanosti osporavane uknjižbe.

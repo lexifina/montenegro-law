@@ -1,0 +1,3 @@
+# Član 97
+Zabilježba tužbe za ostvarivanje pomorskih privilegija briše se po službenoj dužnosti, ako u roku od 60 dana od dana pravnosnažnosti presude donesene na osnovu tužbe koja je bila predmet zabilježbe, povjerilac potraživanja obezbijeđenog pomorskim privilegijima ne zatraži prodaju broda ili upis hipoteke, ili ako se na njegov zahtjev u tom roku ne sprovede zaustavljanje broda u skladu sa članom 172 stav 2 ovog zakona.
+Ako iz spisa predmeta iz stava 1 ovog člana ne proizilazi da je u zakonskom roku zatražena prodaja broda ili upis hipoteke ili da je sprovedeno zaustavljanje broda, sud će da postupi u skladu sa članom 81 st. 2 i 3 ovog zakona.
