@@ -1,0 +1,2 @@
+Na osnovu člana 150 stav 1 Zakona o radu ("Službeni list CG", br. 49/08, 59/11, 66/12, 31/14 i 4/18) i člana 68 st. 2 i 3 Opšteg kolektivnog ugovora ("Službeni list CG", br. 14/14, 39/16 i 40/18), Vlada Crne Gore, Upravni odbor Unije poslodavaca Crne Gore, Skupština Saveza sindikata Crne Gore i Glavni odbor Unije slobodnih sindikata Crne Gore, zaključuju
+OPŠTI KOLEKTIVNI UGOVOR O IZMJENAMA OPŠTEG KOLEKTIVNOG UGOVORA
