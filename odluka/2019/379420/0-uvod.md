@@ -1,0 +1,2 @@
+Na osnovu člana 38, tačka 7, Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/2018), člana 40 Zakona o finansiranju lokalne samouprave ("Sl. list CG", br. 3/2019) i člana 31 i 35 Statuta Opštine Kolašin ("Sl. list RCG"- Opštinski propisi br. 25/2004, 31/2004, 34/2006 i "Sl. list CG"-Opštinski propisi br. 41/2010), Skupština Opštine Kolašin, na sjednici održanoj dana 17.06.2019. godine donijela je
+ODLUKA
