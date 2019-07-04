@@ -1,0 +1,2 @@
+# Član 164
+Danom stupanja na snagu ovog Statuta prestaje da važi Statut Opštine Kolašin "Sl.list RCG-opštinski propisi br: 25/04, izmjene i dopune Statuta Opštine Kolašin "Sl.list RCG "-opštinski propisi br: 31/04, 34/06, izmjene i dopune Statuta Opštine Kolašin "Sl.list CG" - opštinski propisi br: 41/10 i prečišćen tekst Statuta Opštine Kolašin "Sl.list CG" -opštinski propisi br.31/2011 od 21.10.2011.godine.
