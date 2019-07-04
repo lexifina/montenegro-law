@@ -1,0 +1,16 @@
+# Član 137
+## 2. Građanska inicijativa
+Građanskom inicijativom predlaže se donošenje ili promjena akta kojim se uređuju značajna pitanja iz nadležnosti Opštine Tuzi.
+Građani imaju pravo da pokrenu pred Skupštinom Opštine Tuzi građansku inicijativu o sljedećim pitanjima:
+
+utvrđivanje poreza;
+
+uređenja prostora;
+
+uređivanje i korišćenje građevinskog zemljišta;
+
+javni prevoz putnika u gradskom i prigradskom saobraćaju;
+
+socijalna i dječja zaštite;
+
+postavljanje privremenih objekata.

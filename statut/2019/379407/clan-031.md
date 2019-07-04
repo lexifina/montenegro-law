@@ -1,0 +1,3 @@
+# Član 31
+Organ lokalne uprave nadležan za poslove imovine zaključuje ugovor o kupoprodaji, poklonu, razmjeni, zakupu, davanju na korišćenje i sl. (u daljem tekstu: raspolaganje) zemljišta u imovini Opštine Tuzi, ugovor o kupoprodaji, poklonu i razmjeni objekata u imovini Opštine Tuzi, uspostavljanju založnog prava na zemljištu i objektima, zasnivanju stvarnih službenosti na zemljištu, kao i druge ugovore za koje bude ovlašćen odlukom Skupštine Opštine Tuzi ili predsjednika Opštine Tuzi.
+Izuzetno od odredbe stava 1 ovog člana, ugovor o davanju u zakup ili na korišćenje službenih prostorija mjesnih zajednica zaključuje organ uprave nadležan za poslove mjesnih zajednica, u skladu sa posebnom odlukom Skupštine Opštine Tuzi.
