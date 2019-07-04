@@ -1,0 +1,2 @@
+Na osnovu člana 16 Zakona o sportu ("Sl. list CG", br. 44/18 ), člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ( "Sl.list CG", br. 2/18) i člana 31 tačka 2 Statuta opštine Kolašin (,,Sl.list RCG -o.p." br.25/04, 31/04, 34/06 i ,,Sl.list CG -o.p." br. 41/10) Skupština opštine Kolašin na sjednici održanoj dana 17.06.2019. godine, donijela je
+O D L U K U O USVAJANJU STRATEGIJE RAZVOJA SPORTA U OPŠTINI KOLAŠIN ZA PERIOD 2018-2021
