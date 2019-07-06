@@ -1,0 +1,3 @@
+# Član 1
+## o usvajanju Izvještaja o radu sa finansijskim izvještajem JU "Muzej i galerija" Tivat za 2018.godinu
+Usvaja se Izvještaj o radu sa finansijskim izvještajem JU "Muzej i galerija" Tivat za 2018.godinu.
