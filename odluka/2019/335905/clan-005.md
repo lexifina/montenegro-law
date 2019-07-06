@@ -1,0 +1,2 @@
+# Član 5
+Izmjene i dopune PUP-a sadrže: granice područja za koje se donosi; detaljnu namjenu površina; smjernice za izgradnju infrastrukturnih i komunalnih objekata; smjernice urbanističkog i arhitektonskog oblikovanja prostora sa smjernicama za primjenu energetske efikasnosti i obnovljivih izvora energije; uslove i smjernice za zaštitu prirode i zaštitu životne sredine; mjere za zaštitu pejzažnih vrijednosti; smjernice i mjere za sprovođenje planskog dokumenta i smjernice za izgradnju na područjima za koja se ne predviđa donošenje detaljnih planova.
