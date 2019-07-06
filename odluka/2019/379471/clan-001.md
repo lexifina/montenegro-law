@@ -1,0 +1,3 @@
+# Član 1
+U Odluci o osnivanju sportskog kluba Plivački vaterpolo klub Budva - Budvanska rivijera br. 01-3139/1 od 1. 11. 2018. godine, koju je potvrdila Skupština Opštine Budva Odlukom o potvrđivanju Odluke o osnivanju kluba Plivački vaterpolo klub Budva - Budvanska rivijera (,,Službeni list Crne Gore- Opštinski propisi", broj: 2/19), član 3 mijenja se i glasi:
+" Lice ovlašćeno za zastupanje Osnivača, odnosno sportskog kluba Plivački vateroplo klub Budva - Budvanska rivijera u toku postupka registracije je Draško Dapčević iz Budve, Dositejeva 43/5 sa JMBG 3001977232012 broj lične karte 795795882 izdate od MUP- a Crne Gore filijala Budva".
