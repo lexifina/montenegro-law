@@ -1,0 +1,6 @@
+# Član 1
+## o dopuni Odluke o kućnom redu u stambenim zgradama
+U Odluci o kućnom redu u stambenim zgradama (Sl.list Crne Gore -opštinski propisi br.48/17) , poslije člana 26 dodaje se novi član 26 a koji glasi :
+" U ulazima u stambenim zgradama postavljaju se štampane procedure za postupanje u slučaju zaštite i spašavanja, kao i obavještenja o važnim telefonskim brojevima službi za spašavanje ( policija,vatrogasci,hitna pomoć, operativni komunikacioni centar).
+Hodnici i stepeništa obilježavaju se panik osvjetljenjem i smjerom kretanja u slučaju evakuacije .
+Aparat za gašenje požara sa uputstvom za upotrebu u stambenoj zgradi se postavlja na vidnom mjestu i to najmanje po jedan aparat (tipa: CO2-5kg) za elektroinstalacije, pored glavnog razvodnog ormara i najmanje po jedan aparat (tipa : S-9) na svakoj etaži ."
