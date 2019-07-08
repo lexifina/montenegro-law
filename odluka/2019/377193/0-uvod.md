@@ -1,0 +1,2 @@
+Na osnovu člana 61. stav 1. i člana 62. stav 2. Zakona o Lokalnoj samoupravi ("Sl. list CG" br. 2/18 i 34/19) i člana 54. stav 1. i člana 55. stav 1. Statuta Opštine Kotor ("Sl. List Opštine Kotor" br. 3/04 i "SL CG -Opštinski propisi br. 17/08, 31/09, 40/10 i 4/11), Skupština opštine Kotor na XXIII sjednici održanoj 08. 07. 2019. godine, donijela je
+ODLUKU O RAZRJEŠENJU PREDSJEDNIKA OPŠTINE KOTOR
