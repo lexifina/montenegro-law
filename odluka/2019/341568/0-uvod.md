@@ -1,0 +1,2 @@
+Na osnovu člana 198 Zakona o lokalnoj samoupravi ( "Sl. list Crne Gore" -Opštinski propisi br.02/18, 34/19), člana 162, 163 i 164 Statuta opštine Bijelo Polje ("Sl. list CG- opštinski propisi" br. 19/18) i člana 19 Odluke o Savjetu za razvoj i zaštitu lokalne samouprave ("Sl. list RCG-opštinski propisi br. 02/06"), Skupština opštine Bijelo Polje na sjednici održanoj 10. i 11. 07. 2019. godine, donijela je
+ODLUKU
