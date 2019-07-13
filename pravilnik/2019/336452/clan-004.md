@@ -1,0 +1,26 @@
+# Član 4
+Tekstualni dio plana mjera zaštite obuhvata:
+- metod gradnje, metod rada, uputstva za bezbjedan rad, način planiranja i projektovanja skela, način i izvođenje montažnih radova, uputstva za montažu i demontažu i sl.;
+- dostupne podatke o postojećim instalacijama i uređajima, kao i uticajima okoline gradilišta na zaštitu i zdravlje na radu zaposlenih (podzemni i nadzemni katastar instalacija, situacije, nacrti, postojeće stanje na lokaciji, zaostale opasne materije, predmeti, materijali i sl.);
+- određivanje granica gradilišta prema okolini (gradilišna tabla, vidno označavanje, znakovi zaštite i zdravlja na radu, ograđivanje gradilišta sa čvrstom ogradom visine najmanje 2m u naseljenim mjestima, postavljanje zapreka na prilazima sa znacima upozorenja i, po potrebi, uvođenje stalnog čuvarskog nadzora na gradilištima koja se ne mogu u potpunosti ograditi i sl.);
+- način identifikacije i vođenja evidencije prisutnosti zaposlenih i drugih lica na gradilištu (lična dokumenta, ID kartice, ručno pisani ili elektronski sistem evidencije prisutnosti i sl.);
+- mjere zaštite zaposlenih od vozila i mjere za nesmetano odvijanje saobraćaja, kada kroz područje gradilišta prolazi aktivni javni put;
+- određivanje i održavanje radnih i pomoćnih prostorija na gradilištu;
+- određivanje saobraćajnica, evakuacijskih puteva i izlaza za slučaj opasnosti sa uputstvima za održavanje;
+- utvrđivanje mjesta, prostora i načina razmještanja i skladištenja materijala koji se ugrađuje;
+- određivanje mjesta i prostora za smještaj i čuvanje i popis opasnih materija;
+- određivanje mjesta i prostora za privremeno odlaganje otpada;
+- način prevoza, prenosa, utovara, istovara i odlaganja raznih vrsta materijala i teških predmeta;
+- način označavanja, odnosno osiguranja opasnih mjesta i ugroženih prostora na gradilištu (opasne zone);
+- način označavanja sredstava za rad na kojima je izvršen pregled i ispitivanje;
+- način rada u neposrednoj blizini ili na mjestima gdje se pojavljuju štetni gasovi, prašine, pare, odnosno gdje može doći do požara, eksplozije ili mogu nastati druge opasnosti;
+- način uređenja električnih instalacija za pogon sredstava za rad, uređaja i rasvjete na gradilištu;
+- određivanje vrste i broja određenih sredstava za rad sa mjerama zaštite u odnosu na njihov smještaj i korišćenje;
+- način zaštite zaposlenih od pada sa visine ili u dubinu;
+- način zaštite zaposlenih prilikom iskopa zemlje, a posebno za rovove, kanale, šahtove, jame i sl.;
+- način zaštite zaposlenih prilikom rušenja ili uklanjanja, odnosno demontaže objekata ili nekog njegovog dijela;
+- mjere zaštite od požara kao i opreme, uređaja i sredstva za zaštitu od požara na gradilištu;
+- način organizovanja pružanja prve pomoći na gradilištu i transporta do najbliže zdravstvene ustanove;
+- način obezbjeđivanja smještaja, ishrane i prevoza zaposlenih na gradilište i sa gradilišta;
+- popis radova iz Priloga br. 1 i 2 Pravilnika o mjerama zaštite na radu na privremenim ili pokretnim gradilištima*;
+- određivanje mjesta rada na kojima postoji povećana opasnost po život i zdravlje zaposlenih, kao i vrste i količine potrebnih sredstava i opreme lične zaštite na radu.
