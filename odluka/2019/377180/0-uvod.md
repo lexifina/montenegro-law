@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 14, a u vezi člana 29 stav 1 tačka 2. Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/2018), člana 105. Zakona o socijalnoj i dječjoj zaštiti ("Sl. list CG", br. 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, Odluka USCG", br. 42/17 i 50/17) i člana 42. stav 1. tačka 14. Statuta Opštine Ulcinj ("Sl. list CG-opštinski propisi", br. 5/07, 9/09 i 16/11), Skupština opštine Ulcinj na sjednici održanoj dana,10.06.2019.godine, donosi
+O D L U K U
