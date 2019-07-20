@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o izradi Izmjena i dopuna Prostorno urbanističkog plana Glavnog grada Podgorice u dijelu Generalne urbanističke razrade "Golubovci" i u dijelu Generalne urbanističke razrade ,,Podgorica’’ ("Službeni list CG", br. 32/18 i 57/18) u nazivu odluke i članu 1 riječi: "u dijelu Generalne urbanističke razrade "Golubovci" i u dijelu Generalne urbanističke razrade ,,Podgorica’’ " brišu se.
