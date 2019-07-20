@@ -1,0 +1,27 @@
+# Član 10
+U Centrali Zavoda se:
+- obezbjeđuje jedinstvena primjena propisa koji se odnose na poslove u vezi sa zapošljavanjem i ostvarivanje prava za vrijeme nezaposlenosti;
+- pripremaju uputstva radi uspostavljanja i unaprjeđenja jedinstvene metodologije rada u područnim jedinicama;
+- priprema program rada i finansijski plan;
+- priprema izvještaj o radu i finansijski izvještaj;
+- pripremaju uputstva za vođenje evidencija u oblasti zapošljavanja;
+- istražuju kretanja na tržištu rada i priprema analitičko - informativna osnova za utvrđivanje politike zapošljavanja;
+- obezbjeđuju podaci za statistička istraživanja i jedinstveni informacioni sistem u oblasti zapošljavanja;
+- ostvaruje koordinacija rada područnih jedinica;
+- obavljaju stručni poslovi koji se odnose na slobodu kretanja radnika;
+- pruža stručna pomoć područnim jedinicama u vezi sa primjenom propisa koji se odnose na ostvarivanje prava za vrijeme nezaposlenosti;
+- sprovode međunarodni ugovori o socijalnom osiguranju, u dijelu koji se odnosi na osiguranje od nezaposlenosti;
+- prate propisi, pripremaju opšti i drugi akti, i ugovori;
+- obavljaju poslovi pravnog zastupanja Zavoda;
+- pripremaju i sprovode međunarodni projekti;
+- planira, obezbjeđuje i vodi finansijska politika Zavoda;
+- obezbjeđuje jedinstvena primjena propisa koji se odnose na profesionalnu rehabilitaciju i zapošljavanje lica sa invaliditetom;
+- rješava u prvostepenom postupku o pravu na subvencije, kao i finansiranju grant šema, u skladu sa propisima o zapošljavanju i profesionalnoj rehabilitaciji lica sa invaliditetom;
+- obavljaju poslovi unutrašnje revizije;
+- obezbjeđuju uslovi za rad organa Zavoda;
+- vodi matična evidencija zaposlenih u Zavodu;
+- obavljaju finansijski poslovi,u skladu sa zakonom;
+- obezbjeđuje zakonitost sprovođenja postupka javnih nabavki;
+- obezbjeđuje funkcionisanje jedinstvenog informacionog sistema u oblasti zapošljavanja;
+- obavljaju poslovi informisanja;
+- obavljaju i drugi poslovi u skladu sa zakonom, ovim statutom i drugim aktima Zavoda.
