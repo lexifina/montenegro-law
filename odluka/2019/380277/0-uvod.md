@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 1 tačka 2 Statuta Opštine Plužine ("Sl. list CG - opštinski propisi" br. 39/18), a u vezi sa članom 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG"br. 2/18), a u vezi sa članom 7 Zakona o turističkim organizacijama ("Službeni list Republike Crne Gore", br. 11/04, 46/07, Službeni list Crne Gore", br. 73/10, 40/11, 45/14, 42/17, 27/19 Skupština opštine Plužine, na sjednici održanoj 25.07.2019. godine, d o n I j e l a j e
+ODLUKU
