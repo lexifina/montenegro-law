@@ -1,0 +1,2 @@
+# Član 8
+Kontrolu izvršenja uslovne osude, obaveza izrečenih uz uslovnu osudu i mjera bezbjednosti i drugih mjera, ukoliko su izrečene uz uslovnu osudu, službenik iz člana 6 stav 1 tačka 2 ovog pravilnika, u skladu sa Zakonom, vrši neposredno, kao i kontinuiranom provjerom ispunjavanja obaveza kod ustanova, organizacija i pojedinaca koji su uključeni u realizaciju programa iz člana 5 ovog pravilnika.

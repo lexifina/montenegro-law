@@ -1,0 +1,2 @@
+# Član 16
+Kontrolu izvršenja uslovne osude sa zaštitnim nadzorom, kao i mjera bezbjednosti i drugih mjera ukoliko su izrečene uz ovu sankciju, službenik iz člana 12 stav 1 tačka 2 ovog pravilnika, u skladu sa Zakonom vrši neposredno najmanje jednom mjesečno, a po potrebi i češće, kao i kontinuiranom provjerom ispunjavanja obaveza zaštitnog nadzora kod ustanova, organizacija i pojedinaca koji su uključeni u realizaciju programa iz člana 11 ovog pravilnika.
