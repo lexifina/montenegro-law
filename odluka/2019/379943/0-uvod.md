@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi (’’Sl.list CG’’ br.2/1834/19) i člana 38 Zakona o finansiranu lokalne saouprave (’’Sl.list CG’’ br.3/19 člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje (’’Službeni list CG" broj 19/18) i člana 2 i 9 Odluke o korišćenju sredstava tekuće i stalne budžetske rezerve (’’ sl. list CG -opštinski propisi’’ br.11/18 i 19) Skupština opštine Bijelo Polje na sjednici održanoj 10. i 11. 07.2019. godine, donijela je
+O D L U K U
