@@ -1,0 +1,6 @@
+# Član 1
+## prenosu prava raspolaganja na nepokretnosti i zasnivanju stvarne službenosti u korist DOO CEDIS Podgorica
+Opština Bijelo Polje prenosi pravo raspolaganja na nepokretnosti i ustanovljava pravo stvarne službenosti u korist DOO Crnogorskom elektrodistributivnom sistemu Podgorica - CEDIS, uz naknadu, shodno procjeni Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore, radi izgradnje trafostanice TS 10/04 kv Voljavac sa priključnim 10 kv kablovskim vodom na sledećim nepokretnostima:
+- na kat. parceli broj 640/2 - površine 77 m2 upisane u posjedovnom listu br. 24 KO Voljavac na ime CRNA GORA - SUBJEKT RASPOLAGANJA OPŠTINA BIJELO POLJE sa obimom prava sopstvenik-posjednik 1/1, prenos prava raspolaganja;
+- na dijelu kat. parcele broj 640/1 - površine 19 m2 u dužini od 31,80 m, upisane u listu nepokretnosti br. 24 KO Voljavac na ime CRNA GORA SUBJEKT RASPOLAGANJA OPŠTINA BIJELO POLJE sa obimom prava sopstvenik- posjednik 1/1, zasnivanje stvarne službenosti (za potrebe polaganja kabla) i
+- na dijelu kat. parcele broj 686 - površine 8 m2 u dužini od 13,36 m, upisane u listu nepokretnosti br. 63 KO Voljavac na ime CRNA GORA SUBJEKT RASPOLAGANJA OPŠTINA BIJELO POLJE sa obimom prava sopstvenik-posjednik 1/1, zasnivanje stvarne službenosti (za potrebe polaganja kabla).
