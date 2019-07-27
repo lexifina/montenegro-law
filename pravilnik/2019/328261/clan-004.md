@@ -1,0 +1,3 @@
+# Član 4
+Nakon razgovora iz člana 3 ovog pravilnika, Ministarstvo pravde sačinjava program izvršenja kazne zatvora u prostorijama u kojima osuđeni stanuje i osuđenog obavještava, pisanim putem, o danu i času kad će se izvršiti provjera uslova za izvršenje kazne zatvora u prostorijama u kojima osuđeni stanuje i instaliranje uređaja za praćenje osuđenog (u daljem tekstu: uređaj).
+O danu i času kad će se izvršiti provjera uslova za izvršenje kazne zatvora u prostorijama u kojima osuđeni stanuje i instaliranje uređaja, osuđeni se može obavijestiti i telefonom ili drugim sredstvima elektronske komunikacije, ako se saglasio sa takvim načinom obavještavanja prilikom razgovora iz člana 3 ovog pravilnika.
