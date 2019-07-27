@@ -1,0 +1,1156 @@
+IZVJEŠTAJ O GAZDOVANJU LOVIŠTEM "ULCINJ"
+ZA LOVNU 2018GODINU
+Ulcinj, februar 2019. godine
+UVOD
+Upravni odbor J.P. »ULCINJ«ULCINJ korisnika lovišta »Ulcinj« na sjednici održanoj 19.06.2019 godine u Ulcinju, na osnovu evidencija izvršenih radova predviđenih Godišnjim planom gazdovanja, u skladu sa članom 31. stav 5. donio je:
+IZVJEŠTAJ
+o izvršenim radovima i preduzetim mjerama u prethodnoj 2018 lovnoj godini
+OPŠTI PODACI O KORISNIKU LOVIŠTA
+Obrazac 1
+NAZIV KORISNIKA
+J.P. »ULCINJ«ULCINJ
+SJEDIŠTE I ADRESA
+Ulcinj, bul. "Đerđ Kastrioti Skenderbeu" b.b.
+GODINA OSNIVANJA
+1912
+BROJ, DATUM I NAZIV IZDAVAOCA AKTA
+ZADNJEG UPISA U REGISTAR I
+PIB
+8-0009490-007 od 21.07.2014
+02194180
+NAZIV LOVIŠTA I
+BROJ UGOVORA O KORIŠĆENJU
+Ulcinj
+322/11-0801-33/112
+POVRŠINA LOVIŠTA KOJE KORISTI (HA)
+26.055
+Obrazac 2
+ORGANIZOVANOST KORISNIKA LOVIŠTA
+NAZIV ORGANA UPRAVLJANJA
+BROJ ČLANOVA
+DATUM ODRŽAVANJA
+ZADNJE SJEDNICE
+SKUPŠTINA
+-
+-
+UPRAVNI ODBOR
+5
+_________
+NADZORNI ODBOR
+-
+-
+SUD ČASTI
+-
+-
+KOMISIJE
+(NAVESTI NAZIV)
+Za uzgoj i zaštitu divljači
+Za lovno streljaštvo
+Za nagrade i odlikovanja
+Za procjenu štete od divljači
+-
+-
+Obrazac 3
+Članstvo i broj lovaca u prethodnoj godini
+Broj članova
+353
+Broj izdatih dozvola za lov
+353
+Broj izdatih lovnih karata
+309
+Obrazac 4
+BROJ I STRUKTURA ZAPOSLENIH KOD KORISNIKA LOVIŠTA
+NAZIV
+RADNOG MJESTA
+P R O F E S I O N A L N O
+Volonterski
+angažovano
+VSS
+VSS
+SSS
+NSS
+Ukupno
+DIREKTOR
+1
+-
+-
+-
+1
+-
+POM.
+DIREKTORA
+-
+2
+-
+-
+2
+-
+UPRAVNIK
+1
+-
+2
+-
+3
+-
+LOVOČUVAR
+-
+-
+4
+-
+4
+-
+ADM. RADNIK
+1
+-
+2
+-
+3
+-
+DRUGI
+RAADNCI
+-
+-
+-
+1
+1
+-
+Obrazac 5
+OPREMLJENOST
+Re
+d.
+br.
+NAZIV
+JEDINICA MJERE
+POVRŠIN
+A
+KOMADA
+1.
+KANCALARIJSKI PROSTOR
+41M
+1
+2.
+KOMPJUTER
+-
+4
+3.
+TEL/FAX,
+-
+1
+4.
+LOVOČUVARSKA ODIJELA
+-
+7
+5.
+TERENSKA VOZILA
+-
+2
+6.
+MOTOCIKLI
+-
+-
+7.
+ČAMACI
+-
+-
+8.
+ORUŽJE
+-
+5
+PODACI O LICU KOJE PREDSTAVLJA I ZASTUPA KORISNIKA LOVIŠTA
+Obrazac 6
+PODACI O LICU OVLAŠĆENOM ZA PREDSTAVLJANJE I ZASTUPANJE
+IME I PREZIME
+AJET ZAGA
+JMBG
+0704984223010
+ADRESA
+Ulcinj,Rastiš
+OBRAZOVANJE
+V.S.S.
+FUNKCIJA KOD KORISNIKA LOVIŠTA
+Direktor
+BROJ I DATUM AKTA O IZBORU NA FUNKCIJU
+Br. 201/1 od 28.05.2014godine
+KONTAKTI: MOB.TEL. FAX I E:MAIL
+067-729-001 , ajetzaga@hotmail.com
+PREDUZETE MJERE GAZDOVANJA U PRETHODNOJ LOVNOJ GODINI
+MJERE ZAŠTITE DIVLJAČI
+Obrazac 7
+BROJ I STRUKTURA ZAPOSLENIH NA POSLOVIMA ČUVANJA LOVIŠTA
+NAZIV
+RADNOG MJESTA
+RADNI ODNOS
+VOLONTERS
+KI
+ANGAŽOVA
+NO
+VSS
+VSS
+SSS
+NSS
+UKUPNO
+UPRAVNIK
+1
+-
+2
+-
+3
+-
+LOVOČUVA
+R
+-
+-
+4
+-
+4
+-
+UKUPNO
+1
+-
+6
+-
+7
+-
+Obrazac 8
+BROJ PODNIJETIH PRIJAVA NA SUZBIJANJU NEZAKONITOG LOVA
+VRSTA
+PRIJAVE
+BROJ
+PODNIJETIH
+PRIJAVA
+IME I PREZIME LICA PROTIV
+KOGA JE PODNIJETA PRIJAVA
+DATUM PODNOŠENJA
+PRIJAVE
+KRIVIČNA
+-
+-
+-
+PREKRŠAJNA
+-
+-
+-
+DISCIPLINSKA
+-
+-
+-
+Obrazac 9
+SKRAĆIVANJE LOVNE SEZONE ILI SMANJENJE BROJA LOVNIH DANA
+VRSTA
+DIVLJAČI
+PERIOD SKRAĆENJA LOVNE SEZONE
+BROJ SMANJENJA
+LOVNIH DANA
+SVE VRSTE DIVLJAČI
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Obrazac 10
+SMANJIVANJE BROJA PREDATORA KOJI ČINE ŠTETU NA PODNOŠLJIV BROJ
+VRSTA
+DIVLJAČI
+BROJ ODSTRIJELJENE DIVLJAČI -
+REDOVAN ODSTRIJEL
+BROJ ODSTRIJELJENE DIVLJAČI -
+VANREDAN ODSTRIJEL - HAJKE1
+VUK
+2
+-
+LISICA
+40
+2
+ŠAKAL
+87
+13
+KUNA BJELICA
+38
+2
+-
+-
+-
+Obrazac 11
+UKLANJANJE PASA I MAČAKA LUTALICA KOJI BEZ KONTROLE VLASNIKA KREĆU I ČINE ŠTETE U LOVIŠTU
+VRSTA
+ŽIVOTINJA
+BROJ ODSTRIJELJENIH ŽIVOTINJA U
+TOKU LOVNIH DANA
+BROJ ODSTRIJELJENIH ŽIVOTINJA -
+VANREDAN ODSTRIJEL2
+PSI
+-
+-
+MAČKE
+-
+-
+UKUPNO
+-
+-
+MJERE UZGOJA DIVLJAČI
+Obrazac 12
+VRSTA
+RADOVA
+PLANIRANO
+REALIZOVANO
+VRST
+A
+BROJ
+ILI
+KOLIČINA
+POVRŠ
+INA
+VRST
+A
+BROJ
+ILI
+KOLIČINA
+POVRŠ
+INA
+PROIZVODNJA DIVLJAČI (KOM)
+-
+-
+-
+-
+-
+-
+NASELJAVANJE DIVLJAČI (KOM)
+-
+-
+-
+-
+-
+-
+MELIORISANJE PAŠNJAKA (HA) 3
+-
+-
+-
+-
+-
+-
+OBRADA NJIVA (HA) 4
+-
+-
+-
+-
+-
+-
+SADNJA
+PLODONOSNOG
+DRVEĆA
+I
+GRMLJA (HA)5
+-
+-
+-
+-
+-
+-
+PRIHRANA DIVLJAČI - KABASTA HRANA
+(KG)
+Sije
+no
+4.086
+-
+Sije
+no
+-
+-
+PRIHRANA DIVLJAČI - ZRNASTA HRANA
+(KG)
+Kuk
+uruz
+6.408
+-
+Kuk
+uruz
+-
+-
+PRIHRANA
+DIVLJAČI -
+GOMOLJASTA
+HRANA (KG)
+-
+-
+-
+-
+-
+-
+KONCENTRATI (KG)
+-
+-
+-
+-
+-
+-
+SO (KG)
+Ani
+malna
+180
+-
+Ani
+malna
+-
+-
+MELIORISANJE PAŠNJAKA - LOKALITETI ________________________________________________________
+OBRADA NJIVA - LOKALITETI ________________________________________________________________
+SADNJA PLODONOSNOG DRVEĆA I GRMLJA - LOKALITETI _________________________________________
+________________________________________________________________________________________
+1Organizovane akcije kada predatori čine štete po imovinu fizičkih ili pravnih lica 2Organizovane akcije kada psi ili mačke lutalice čine štete po imovinu fizičkih ili pravnih lica 3Navesti lokalitete 4Navesti lokalitete 5Navesti lokalitete
+PREDUZETE MJERE NA UREĐIVANJU LOVIŠTA U PRETHODNOJ GODINI
+Obrazac 13
+R
+.
+B
+R.
+NAZIV
+OBJEKTA
+PLAN
+REALIZACIJA
+IZGRADI
+TI/
+NABAVI
+TI
+ODRŽA
+VATI
+IZGRAĐ
+ENO/
+NABAVL
+JENO
+ODRŽAV
+ANO
+MJERE UREĐENJA LOVIŠTA - OBJEKATA RADI ZAŠTITE DIVLJAČI I NJIHOVIH STANIŠTA
+1
+.
+GRANIČNE OZNAKE (KOM.)
+-
+15
+5
+15
+2
+.
+OSMATRAČNICE
+-
+ČEKE
+ZATVORENE
+(KOM.)
+-
+9
+-
+9
+3
+.
+OSMATRAČNICE
+-
+ČEKE
+OTVORENE
+(KOM.)
+-
+20
+-
+20
+MJERE UREĐENJA LOVIŠTA - OBJEKATA RADI UZGOJA DIVLJAČI
+4
+.
+MELIORISANI PAŠNJACI (POVRŠINA ha)
+-
+-
+-
+-
+5
+.
+VJEŠTAČKE LIVADE (POVRŠINA ha)
+-
+-
+-
+-
+6
+.
+PROSJEKE (DUŽINA KM.)
+-
+-
+-
+-
+7
+.
+OBRAĐENE NJIVE (POVRŠINA ha)
+-
+-
+-
+-
+8
+.
+HRANILICA (KOM.)
+1
+12
+-
+12
+9
+.
+SOLILA (KOM.)
+-
+6
+-
+6
+1
+0.
+IZVORI I POJILA (KOM.)
+-
+42
+-
+42
+1
+1.
+INKUBATORI (KAPACITET I KOM.)
+-
+-
+-
+-
+1
+2.
+VOLIJERI (M²)
+-
+-
+-
+-
+1
+3.
+OBJEKTI ZA SKLADIŠTENJE HRANE (KOM -
+M²)
+-
+1-12
+-
+1-12
+MJERE UREĐENJA LOVIŠTA - OBJEKATA RADI KORIŠĆENJA OSTALIH FUNKCIJA STANIŠTA I DIVLJAČI
+1
+4.
+STAZE I PUTEVI- KM
+-
+Više
+stotina
+-
+Više
+stotina
+1
+5.
+LOVAČKIH KUĆE I DOMOVI KOM - M²
+1
+-
+1
+-
+1
+6.
+LOVAČKI PUTEVI (POSTOPICE I SL.)
+-
+Više
+stotina
+-
+Više
+stotina
+Obrazac 14
+VRSTA LOVNE DIVLJAČI
+REDOVNI ODSTRIJEL
+DOMAĆI LOV
+LOV STRANACA
+PLANIRANO
+BROJ
+JEDINKI
+ODOBRENO
+BROJ
+JEDINKI
+ODSTRIJELJ
+ENO
+BROJ
+JEDINKI
+PLANIRANO
+BROJ
+JEDINKI
+ODOBRENO
+BROJ
+JEDINKI
+ODSTRIJELJ
+ENO
+BROJ
+JEDINKI
+KRUPNA UZGOJNA DIVLJAČ
+jelen obični (Cervus elaphus L.)
+-
+-
+-
+-
+-
+-
+jelen lopatar (Dama dama L.)
+-
+-
+-
+-
+-
+-
+muflon(Ovis musimon Pall.)
+-
+-
+-
+-
+-
+-
+srna obična (Capreolus capreolus L.) - srndać
+-
+-
+-
+-
+-
+-
+divokoza (Rupicapra rupicapra L.)
+-
+-
+-
+-
+-
+-
+svinja divlja (Sus scrofa L.)
+70
+70
+62
+10
+10
+8
+mrki medvjed (Ursus arctos L) - mužjak
+-
+-
+-
+-
+-
+-
+SITNA DLAKAVA UZGOJNA DIVLJAČ
+zec obični (Lepus europaeus Pall.)
+528
+400
+390
+-
+-
+-
+PERNATA UZGOJNA DIVLJAČ
+fazan (Phasianus sp. L.)
+384
+384
+50
+50
+50
+46
+jarebica kamenjarka (Alectoris graeca Meissn.)
+-
+-
+-
+-
+-
+-
+OSTALA DLAKAVA DIVLJAČ
+vuk (Canis lupus L.)
+3
+3
+3
+-
+-
+-
+jazavac (Meles meles L.)
+20
+20
+15
+-
+-
+-
+mačka divlja (Felis silvestris Schr.)
+-
+-
+-
+-
+-
+-
+kuna bjelica (Martes foina Ehr.)
+70
+50
+35
+-
+-
+-
+kuna zlatica (Martes martes L. )
+40
+10
+8
+-
+-
+-
+lasica mala (Mustela nivalis L.)
+-
+-
+-
+-
+-
+-
+tvor (Putorius putorius L.)
+-
+-
+-
+-
+-
+-
+puh veliki (Glis glis L.)
+-
+-
+-
+-
+-
+-
+vjeverica (Sciurus vulgaris L)
+-
+-
+-
+-
+-
+-
+lisica (Vulpes vulpes L.)
+50
+50
+45
+-
+-
+-
+šakal (Canis aureus L.)
+100
+100
+80
+15
+10
+10
+OSTALA PERNATA DIVLJAČ
+prepelica pućpura (Coturnix coturnix L.)
+480
+480
+385
+150
+100
+95
+šumska šljuka - bena (Scolopax rusticola L.)
+420
+420
+300
+100
+100
+100
+bekasina (kokošica) (Gallinago gallinago L.)
+420
+420
+310
+100
+100
+95
+golub grivnjaš (Columba palumbus L.)
+300
+300
+150
+40
+40
+40
+golub pećinar(Columba livia Gmelin.)
+-
+-
+-
+-
+-
+-
+grlica (Streptopelia turtur L.)
+350
+350
+270
+50
+50
+45
+gugutka (Streptopelia decaocto Friv.)
+-
+-
+-
+-
+-
+-
+guska divlja (Anser anser L.)
+30
+30
+17
+10
+10
+10
+patka divlja-gluvara (Anas platyrhynchos L.)
+450
+450
+280
+150
+150
+120
+patka zviždara (Anas penelope L)
+250
+250
+115
+100
+100
+95
+patka čegrtaljka (Anas strepera L)
+300
+300
+190
+100
+100
+90
+patka glavata (siva plovka) (Aythya ferina L.)
+50
+50
+20
+20
+20
+20
+ćubasta (krunasta) patka (Aythya fuligula L.)
+50
+50
+30
+20
+20
+20
+patka krža kržulja (Anas crecca L.)
+300
+300
+190
+100
+100
+95
+liska crna - baljoška (Fulica atra L.)
+300
+300
+200
+50
+40
+40
+vrana siva (Corvus corone cornix L.)
+500
+500
+120
+-
+-
+-
+svraka (Pica pica L.)
+300
+300
+150
+-
+-
+-
+sojka (Garrulus glandarius L.)
+450
+450
+410
+-
+-
+-
+Obrazac 15
+VRSTA LOVNE DIVLJAČI
+- UZGOJNI ODSTRIJEL -
+KRUPNA DIVLJAČ
+PLANIRANO
+BROJ
+JEDINKI
+ODOBRENO
+BROJ
+JEDINKI
+ODSTRIJELJ
+ENO
+BROJ
+JEDINKI
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Obrazac 16
+VRSTA LOVNE DIVLJAČI
+- SANITARNI ODSTRIJEL -
+KRUPNA
+DIVLJAČ
+BROJ
+JEDINKI
+SITNA
+DIVLJAČ
+BROJ
+JEDINKI
+-
+-
+-
+-
+-
+-
+-
+-
+-
+MJERE SPRJEČAVANJA ŠTETA OD DIVLJAČI I NA DIVLJAČ
+Tabela 17
+ŠTETE OD DIVLJAČI ZA KOJE JE PODNEŠEN ZAHTJEV ZA NAKNADU
+VRSTA DIVLJAČI KOJA JE
+POČINILA ŠTETU
+VRSTA ŠTETE I BROJ
+OŠTEĆENIH JEDINKI ILI
+POVRŠINA OŠTEĆENJA
+BROJ I DATUM AKTA O
+PODNEŠENOJ PRIJAVI
+IME I PREZIME FIZIČKOG ILI
+PRAVNOG LICA PODNOSIOCA
+ZAHTJEVA
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Tabela 18
+ŠTETE OD DIVLJAČI ZA KOJE NIJE PODNEŠEN ZAHTJEV ZA NAKNADU
+A KOJE SU SE PO SAZNANJU KORISNIKA LOVIŠTA DOGODILE U LOVIŠTU
+VRSTA DIVLJAČI KOJA JE
+POČINILA ŠTETU
+VRSTA ŠTETE
+BROJ OŠTEĆENIH JEDINKI
+ILI POVRŠINA OŠTEĆENJA
+IME I PREZIME FIZIČKOG ILI
+PRAVNOG LICA
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+EKONOMSKO-FINANSIJSKI IZVJEŠTAJ
+Obrazac 19
+RE
+D.
+BR
+OJ.
+VRSTA PRIHODA
+REALIZOVANO
+€
+1.
+OD IZDAVANJA DOZVOLA ZA LOV
+13.030,00
+2.
+OD INO LOVA (STRANACA)
+6.460,00
+3.
+DONACIJE
+750,00
+4.
+OD NAKNADE ŠTETE KOJA FIZIČKA I PRAVNA LICA
+POČINE U LOVIŠTU BESPRAVNIM LOVOM ILI NA BILO KOJI
+DRUGI BESPRAVAN NAČIN
+-
+5.
+IZ SREDSTAVA BUDŽETA OPŠTINE
+79.700,00
+6.
+NAMJENJSKI FIN.SREDSTVA ZA POREZE I DOPRINOSE
+7.440,00
+7.
+OD APLICIRANIH PROJEKATA
+800,00
+8.
+PRIHODI OD TURISTIČKE ORGANIZACIJE-ULCINJ
+9.000,00
+9.
+OD
+MINISTARSTVA
+POLOPRIVREDE
+I
+RURALNOG
+RAZVOJA
+225,00
+10.
+IZ DRUGIH IZVORA
+4.970,75
+UKUPNO
+122.375,85
+Obrazac 20
+RE
+D.
+BROJ.
+VRSTA RASHODA
+REALIZOVANO
+€
+1.
+NETO ZARADE
+60.609,87
+2.
+NAKNADE ZA OTPREMNINU
+-
+3.
+POREZI DOPRINOSI PO REPROGRAMU
+16.403,70
+4.
+OBAVEZE PDV
+2.333,88
+5.
+ISHRANA DIVLJAČI
+-
+6.
+NAKNADA PO UGOVORU O DJELU
+4.805,00
+7.
+NAKNADE ZA ČLANA UO
+-
+8.
+TROŠKOVI ZA REPREZENTACIJU
+207,80
+9.
+TROŠKOVI ZA TEL.MOBILNI I FIKSNI
+3,512,08
+10.
+NAKNADA ZA ČLANOVE UO-SUDSKE PRESUDE
+27,231,56
+11.
+TROŠKOVI NA IME SUDSKI PRESUDA
+-
+12.
+TROŠKOVI PLATNOG PROMETA
+858,89
+13.
+TROŠKOVI KANCELARIJSKOG MATERIJALA
+492,33
+14.
+TROŠKOVI GORIVA
+2.410,00
+15.
+TROŠKOVI ELEKTRIČNE ENERGIJE
+232,84
+16.
+TROŠKOVI ZA LOKALNE I REPUBLICKE TAKSE
+145,00
+17.
+NAKNADA ZA KORIŠĆENJE LOVIŠTA L.S.C.G.
+1.589,47
+18.
+NAKNADA ZA KORIŠĆENJE LOVIŠTA MINISTARSTVU
+POLOPRIVREDE I RURALNOG RAZVOJA
+751,27
+19.
+TROŠKOVI PTT USLUGA
+65,00
+20.
+NAKNADA LOVCIMA ZA ODSTREL LISICA
+135,00
+21.
+TROŠKOVI ZA ODRŽAVANJE AUTA
+-
+22.
+TROŠKOVI ZA SPONZORSTVO
+-
+UKUPNO
+121.783,69
+UKUPNI PRIHODI: 122.375,85
+UKUPNI TROŠKOVI: 121.783,69
+_______________________
+SALDO:592,16
+POTPIS OVLAŠĆENOG LICA
+AJET ZAGA S.R
