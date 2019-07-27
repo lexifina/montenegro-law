@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Sl. list CG" br.002/18, 34/19 ), člana 20 stav 1
+Zakona o poljoprivredi i ruralnom razvoju ("Sl. list CG" br. 056/09, 018/11,040/11, 034/14,001/15,030/17, 051/17), član 46 stav 1 tačka 4 Statuta Opštine Bijelo Polje ("Sl. list CG-Opštinski propisi", br. 19/18), Odluke o budžetu Opštine Bijelo Polje za 2019. godinu (Sl.list CG-Opštinski propisi" br.05/19) i saglasnosti Ministarstva poljoprivrede i ruralnog razvoja br. 320- 219/19-2, Skupština opštine Bijelo Polje na sjednici održanoj dana 10.i 11.07 .2019. godine, donijela je
+P R O G R A M
