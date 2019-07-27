@@ -1,0 +1,2 @@
+# Član 5
+Nakon razgovora iz člana 4 ovog pravilnika, Ministarstvo pravde na osnovu podataka dobijenih od osuđenog, podataka iz dokumentacije o tom licu (sudska odluka, nalazi i mišljenja doktora medicine i drugih stručnih lica, izvještaji centra za socijalni rad prema prebivalištvu ili boravištvu osuđenog i dr.), podataka dobijenih od drugih organa, institucija i organizacija, podataka dobijenih od oštećenog ili drugog lica, sačinjava program izvršenja mjere bezbjednosti udaljenje iz stana ili drugog prostora za stanovanje.
