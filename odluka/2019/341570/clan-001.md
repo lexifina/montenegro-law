@@ -1,0 +1,3 @@
+# Član 1
+## o ustupanju na privremeno korišćenje nepokretnosti DOO "Komunalne djelatnosti Plav"
+Opština Plav, kao sopstvenik posjednik, ustupa DOO "Komunalne djelatnosti Plav" na privremeno korišćenje nepokretnosti upisane u "A" listi Lista nepokretnsoti broj 150 KO Bogajiće i to katastarska parcela broj 351, plan 6, skica 9, potes Završ, livada 5.klase površine 1017m2 i nepokretnosti upisane u "A" listi Lista nepokretnsoti broj 265 KO Plav i to katastarska parcela broj 2680, plan 20, potes Ribarka, pašnjak 3.klase površine 4027m2 a sve ukupne površine 5044m2 za potrebe realizacije projekta "Prekogranične zajedničke inicijative za bolje upravljanje otpadom"
