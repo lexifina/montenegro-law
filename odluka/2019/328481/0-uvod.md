@@ -1,0 +1,2 @@
+Na osnovu člana 38, tačka 19 Zakona o lokalnoj samoupravi ("Sl. List CG" broj: 02/18) i člana 40 tačka 19, a u vezi sa članom 89 tačka 8 Statuta Opštine Pljevlja ("Sl. List CG - opštinski propisi" broj: 46/18), Skupština Opštine Pljevlja na sjednici od 08. i 09.07.2019. godine donijela je:
+O D L U K U O DAVANJU SAGLASNOSTI NA RJEŠENJE PREDSJEDNIKA OPŠTINE O IMENOVANJU POTPREDSJEDNIKA OPŠTINE PLJEVLJA
