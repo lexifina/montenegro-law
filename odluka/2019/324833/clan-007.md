@@ -1,0 +1,3 @@
+# Član 7
+Za svakog zaposlenog kome je isplaćena otpremnina, lice koje u skladu sa zakonom kojim se uređuju zarade u javnom sektoru donosi rješenje o drugim primanjima zaposlenog, dužno je da u roku od deset dana od dana isplate otpremnine po osnovu sporazumnog prestanka radnog odnosa, dostavi organu državne uprave nadležnom za poslove javne uprave (u daljem tekstu: Ministarstvo javne uprave) kopiju sporazuma o prestanku radnog odnosa.
+Ministarstvo javne uprave vodi evidenciju o zaposlenima koji su, u skladu sa ovom odlukom, ostvarili pravo na optremninu i objavljuje je na svojoj internet stranici.
