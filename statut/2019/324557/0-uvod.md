@@ -1,0 +1,2 @@
+Na osnovu člana 68 Zakona o privrednim društvima ("Službeni list RCG", broj 6/02 i "Službeni list CG", br. 17/07, 80/08 i 36/11) i člana 9 stav 1 tačka 1 Odluke o osnivanju Društva sa ograničenom odgovornošću "Regionalni vodovod Crnogorsko primorje" ("Slu- žbeni list CG", broj 79/17), Vlada Crne Gore, na sjednici od 18. jula 2019. godine, donijela je
+STATUT DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "REGIONALNI VODOVOD CRNOGORSKO PRIMORJE"
