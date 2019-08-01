@@ -1,0 +1,2 @@
+Na osnovu člana 13 i 22 Zakona o putevima ("Sl. list RCG", br. 42/04 i "Sl. list CG", br. 54/09, 36/11i 92/17), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Sl. list CG" br. 2/18), člana 5 stav 1 tačka 6 Zakona o finansiranju lokalne samouprave ("Sl. list RCG", br. 42/03, 44/03 i "Sl. list CG", br. 5/08, 51/08, 74/10, 1/15, 78/15, 3/16, 30/17 i 92/17) i člana 44 Statuta opštine Mojkovac ("Sl. list CG - opštinski propisi", br. 31/10 i 26/12), Skupština opštine Mojkovac na sjednici održanoj dana 29.03.2018. godine, donijela je
+ODLUKU
