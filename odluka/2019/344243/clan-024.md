@@ -1,0 +1,2 @@
+# Član 24
+Danom upisa Društva sa ograničenom odgovornošću "Komunalno" Nikšić i registracije Odbora direktora i Izvršnog direktora u Centralni registar privrednih subjekata prestaje da važi Odluka o organizovanju Javnog komunalnog preduzeća ("Službeni list SRCG - Opštinski propisi", br. 13/90 i 12/91 i "Službeni list RCG - Opštinski propisi", br. 04/94, 16/97, 12/99, 25/99 i 37/03), pravni status Javnog komunalnog preduzeća Nikšić kao i mandat svim njegovim organima.

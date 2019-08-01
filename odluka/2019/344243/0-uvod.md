@@ -1,0 +1,3 @@
+Na osnovu člana 64 stav 1 i člana 77 Zakona o privrednim društvima ("Službeni list RCG", broj 6/02 i "Službeni list CG", br. 17/07, 80/08, 40/10, 36/11 i 40/11), člana 20 stav 1 alineja 1, a u vezi sa članom 74 stav 1 Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16 i 2/18), člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18), člana 35 stav 1 tačka 14 i člana 38 stav 1 Statuta opštine Nikšić ("Službeni list CG - Opštinski propisi ", broj 31/18), Skupština opštine Nikšić, na sjednici održanoj 12.07.2019. godine, donijela je
+ODLUKU
+o osnivanju Društva sa ograničenom odgovornošću "Komunalno" Nikšić
