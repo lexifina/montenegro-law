@@ -1,0 +1,3 @@
+# Član 1
+## o davanju na korišćenje Mjesnoj zajednici Vidrovan dijela zgrade mjesne zajednice
+Mjesnoj zajednici Vidrovan daje se na korišćenje bez naknade, dio zgrade broj 1, označen kao poslovni prostor poseban dio 3 - površine 40,00 m2, poslovni prostor poseban dio 4 - površine 345,00 m2, poslovni prostor poseban dio 5 - površine 31,00 m2, poslovni prostor poseban dio 6 - površine 43,00 m2, poslovni prostor poseban dio 7 - površine 39,00 m2 i nestambeni prostor poseban dio 8 - površine 19,00 m2, koji se nalazi na katastarskoj parceli broj 32, upisana u listu nepokretnosti broj 753 KO Rastovac, kao svojina Države Crne Gore sa pravom raspolaganja Opštine Nikšić.
