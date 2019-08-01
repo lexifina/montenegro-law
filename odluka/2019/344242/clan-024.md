@@ -1,0 +1,2 @@
+# Član 24
+Danom upisa Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Nikšić i registracije Odbora direktora i Izvršnog direktora u Centralni registar privrednih subjekata prestaje da važi Odluka o organizovanju Javnog preduzeća "Vodovod i kanalizacija" Nikšić ("Službeni list SRCG - Opštinski propisi", br. 12/90 i 12/91 i "Službeni list RCG - Opštinski propisi", br. 16/97 i 12/99), pravni status Javnog preduzeća "Vodovod i kanalizacija" Nikšić kao i mandat svim njegovim organima.
