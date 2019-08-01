@@ -1,0 +1,2 @@
+Na osnovu člana 116 Zakona o planiranju prostora i izgradnju objekata,( »Službeni list CG », br. 64/17 i 44/18), člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi (»Službeni list CG«, broj 2/18 ), člana 35 stav 1 tačka 4 i člana 38 stav 1 Statuta opštine Nikšić ("Službeni list CG - Opštinski propisi", broj 31/18), uz saglasnost Ministarstva održivog razvoja i turizma, broj 104-757/72 od 12.07.2019.godine i saglasnost Ministarstva kulture, broj UP/I- 03-170/2019-3 od 10.07.2019 godine, Skupština opšttine Nikšić, na sjednici održanoj 12.07.2019.godine, donijela je
+ODLUKU
