@@ -1,0 +1,2 @@
+# Član 1
+Ovim Poslovnikom se u skladu sa zakonom i Statutom opštine u okviru Glavnog grada Golubovci uređuje: konstituisanje, organizacija i način rada Skupštine opštine u okviru Glavnog grada-Golubovci (u daljem tekstu: Skupština); prava i dužnosti odbornika i način njihovog ostvarivanja; postupak donošenja akata, sazivanje sjednice Skupštine, tok sjednice, javnost rada, način i postupak učešća predstavnika nevladinih organizacija u radu sjednice i druga pitanja od značaja za rad Skupštine.

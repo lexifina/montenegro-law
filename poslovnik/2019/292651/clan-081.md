@@ -1,0 +1,2 @@
+# Član 81
+Skupština odlučuje ako sjednici prisustvuje više od polovine ukupnog broja odbornika, a odluke donosi većinom glasova prisutnih odbornika, osim u slučaju donošenja: Statuta, odluke kojima se utvrđuju materijalne obaveze građana, odluke o raspisivanju opštinskog refernduma, odluke o izboru i razješenju predsjednika opštine i predsjednika Skupštine, odluke o zaduženju Opštine, odluke o skraćenju mandata Skupštine, koje se donose većinom glasova ukupnog broja odbornika.

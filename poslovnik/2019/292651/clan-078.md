@@ -1,0 +1,4 @@
+# Član 78
+## Udaljenje sa sjednice
+Mjera udaljenje sa sjednice izriče se odborniku koji ne poštuje odluku predsjednika Skupštine o oduzimanju riječi ili koji na drugi način narušava red na sjednici.
+Mjera udaljenja sa sjednice odnosi se na radni dan u kome je izrečena.
