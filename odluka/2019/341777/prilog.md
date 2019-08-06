@@ -1,0 +1,5 @@
+PRILOG
+Opis granica zašticenog prirodnog dobra - Park prirode "Ulcinjska solana" Granice Parka prirode "Ulcinjska solana" prostiru se od 18.68 km od perimetra lokaliteta, 16.55 km prati drenažni kanal - kanal je uključen u granicu - i 2.13 km sjeverne obale kanala Port Milena blizu aministrativnih i fabričkih zgrada Solane. Granica prati vještački izgrađene strukture oko lokaliteta i uključuju cijelu Solanu i okolne kanale, ali isključuje kanal Port Milena i ostatke predhodne lagune.
+Spisak katastarskih parcela prirodnog dobra Parka prirode "Ulcinjska solana" Prema katarstarskoj evidenciji Uprave za nekretnine, Solana Ulcinj zauzima sledeće katastarske parcele broj 30/2, 30/3, 376, 377, 358, 359, 360, 362, 363/1, 363/2, 364, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407 i 410, sve u K.O. Ulcinjsko polje, kao i katastarske parcele broj 1242/2, 1258/5, 1258/6, 1258/7 i 1270, sve u K.O. Zoganje.
+Grafički prikaz granica Parka prirode "Ulcinjska solana"
+Grafički prikaz zona zaštite prirodnog dobra Parka prirode "Ulcinjska solana"
