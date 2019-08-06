@@ -1,0 +1,2 @@
+Na osnovu člana 39 Zakona o turističkim organizacijama ( "Službeni list Republike Crne Gore",br. 011/04, 046/07, "Službeni list Crne Gore", br. 073/10, 040/11, 045/14, 042/17, 027/19.), člana 40 stav 1 tačka 2 Statuta opštine Pljevlja ( "Sl. list RCG - Opštinski propisi", br. 37/04 i 30/07 i "Sl. list CG - Opštinski propisi", br. 46/18) i člana 38 stav 1 tačka 2 Zakona o lokanoj samoupravi ("Sl. list CG", br. 2/2018), Skupština opštine Pljevlja, dana: 08. i 09. 07.2019. godine donijela je:
+ODLUKU
