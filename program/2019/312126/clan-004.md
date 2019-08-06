@@ -1,0 +1,4 @@
+# Član 4
+Predsjednik Opštine može u slučaju potrebe, a na prijedlog Sekretarijata za ruralni i održivi razvoj donijeti Odluku o mjerama za podsticaj koje nijesu predviđene ovim Programom.
+Sekretarijat za ruralni i održivi razvoj može u toku izvršenja Programa vršiti izmjene namjene korišćenja sredstava i preusmjeravati ih sa mjere, za koju nije bilo dovoljno interesovanja, na drugu mjeru Programa gdje je interesovanje veće od projektovanog iznosa.
+Sekretar Sekretarijata za ruralni i održivi razvoj, ukoliko se javi potreba zbog određenih okolnosti, može izvršiti izmjenu namjene korišćenja sredstava Programa do 5.000,00 eura, kao i upotrijebiti neutrošena sredstva (nakon isteka predviđenog roka), i opredijeliti ih za podsticaje ili pomoći koje nijesu obuhvaćene ovim Programom mjera, a koji su u skladu sa principima i politikom ruralnog i/ili održivog razvoja.
