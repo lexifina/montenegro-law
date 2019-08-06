@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi (’’Sl.list Crne Gore ’’ br 02/18 i 34/19) a u vezi sa članom 27 stav 1 tačka 13 Zakona o lokalnoj samoupravi (’’Sl.list Crne Gore ’’ br 02/18 i 34/19), člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje (’’Sl.list Crne Gore - opštinski propisi’’, broj 19/18) a u vezi sa članom 27 stav 1 tačka 16 Statuta Opštine Bijelo Polje (’’Sl.list Crne Gore - opštinski propisi’’, broj 19/18), Skupština Opštine Bijelo Polje na sjednici održanoj 10. i 11. 07. 2019. godine donijela je
+ODLUKU
+o prihvatanju kandidature za organizaciju međuopštinskih omladinskih sportskih igara
