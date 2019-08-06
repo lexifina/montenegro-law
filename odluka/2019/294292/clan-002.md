@@ -1,0 +1,4 @@
+# Član 2
+Miloje Dobrašinović, rođen je 15. aprila 1898. godine u Zaostru-Berane. Profesor. Jedan je od organizatora ustanka u srezu bjelopoljskom, i aktivni učesnik 13-julskog ustanka 1941. godine. Bio je prvi komandant mjesta u oslobođenom gradu 20. jula 1941. godine. Od juna 1942. godine bio je borac Četvrtog bjelopoljskog bataljona Treće proleterske (sandžačke) brigade. Učesnik konferencije rodoljuba za Crnu Goru, Boku i Sandžak održane 16. juna 1942. godine na Tjentištu i potpisnik njene Rezolucije. Od 26. novembra 1943. godine, bio je vijećnik AVNOJ-a i član Izvršnog vijeća ZAVNO Sandžaka. Do rata bio je profesor gimnazije u Bijelom Polju, 1953. godine inicijator osnivanja Više realne gimnazije u Bijelom Polju i njen direktor. Umro je u martu 1970. godine u Bijelom Polju.
+Ovim spomen-obilježjem simbolično i trajno se odaje počast borcu za slobodu i društveno
+političkom radniku.
