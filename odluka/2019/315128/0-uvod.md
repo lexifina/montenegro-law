@@ -1,0 +1,2 @@
+Na osnovu člana 28 Zakona o turističkim organizacijama (’’Službeni list RCG’’ br. 11/04, 46/07, 73/10, 40/11, 45/14, 42/17 i 27/19), člana 39 Statuta opštine Berane (''Službeni list Crne Gore - Opštinski propisi'' br. 42/18) i člana 23 Odluke o osnivanju Turističke organizacije Berane (’’Službeni list RCG’’-Opštinski propisi br. 33/04), Skupština opštine Berane na sjednici održanoj dana, 11. jula 2019. godine, donijela je
+O D L U K U
