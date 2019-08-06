@@ -1,0 +1,3 @@
+# Član 2
+Đorđije Stanić, rođen je 1914. godine u Bijelom Polju. Pravnik. Aktivno je učestvovao u revolucionarnom studentskom pokretu u Beogradu. U KPJ primljen je na Beogradskom univerzitetu. Njegov najznačajniji rad je bio na organizovanju omladine u bjelopoljskom srezu i Sandžaku. Jedan je od organizatora ustanka 1941. godine u srezu bjelopoljskom. Učestvovao je u napadu za oslobođenje grada i u organizovanju ustaničke vlasti u Bijelom Polju. Poginuo je u bici na Sutjesci, 13. juna 1943. godine. Jedna od ulica u Bijelom Polju nosi njegov naziv.
+Spomen-ploča svojim sadržajem odaje počast borcu za slobodu i trajno čuva uspomenu na ovu istorijsku ličnost.
