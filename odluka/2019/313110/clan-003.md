@@ -1,0 +1,4 @@
+# Član 3
+Spomen-česma sastoji se od betonskog zida, koji ujedno predstavlja i potporu terena.
+Oblikovano, česma je simetrična sa lijeve i desne strane u vidu krila sa horizontalnim kanelurama, dok je centralni dio kvadratnog oblika sa stilizovanom kapom u gornjem dijelu, ispod kojeg se nalazi izlivna cijev, kvadratnog presjeka. Ispod izlivne cijevi nalazi se betonsko korito dimenzije 240/69/40 cm. Sa bočne strane korita nalaze se dvije betonske klupe u obliku ćiriličnog slova P, dimenzija 95/45/40 cm. Zid spomen-česme je kaskadni, ofarban sivom betonskom bojom. Na centralnom dijelu ispod stilizovane kape nalazi se spomen-ploča od crnog granita sa uklesanim tekstom ćiriličnim pismom sive pozadine, dimenzije 98/49 cm.
+Simbol petokraka ,,U znak sjećanja na junačke podvige boraca Petog udarnog polimskog bataljona bjelopoljskog NOP odreda formiranog 30. novembra 1941. godine na ovom području".
