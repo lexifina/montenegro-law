@@ -1,0 +1,3 @@
+# Član 2
+Spomen-česma podignuta je u spomen na Jagodu Bogićević, rođenu 1923.godine, u selu Bogićevići-Danilovgrad. Prvih ratnih dana postala je borac Udarnog bataljona NOR-a i učesvovala je u oružanim akcijama na Vinićima i Župi nikšićkoj, gdje je i ranjena. Od juna 1942. godine postaje borac Pete crnogorske proleterske brigade i učestvuje na mnogim ratištima od Vučeva, Igmana, Treskavice, Prozora, Jajca, Vakufa, Neretve i Sutjeske. Poginula je 18. aprila 1944. godine, blizu naselja Pape, kod Bijelog Polja.
+Ovim spomen-obilježjem simbolično i trajno se čuva uspomena i odaje počast borcu za slobodu.
