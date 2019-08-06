@@ -1,0 +1,4 @@
+# Član 2
+Nikica V. Knežević, rođen 1889. godine u Šarancima-Šavnik. Major bivše jugoslovenske vojske u penziji. Veteran balkanskih i prvog svjetskog rata, učesnik mojkovačke bitke. Aktivni je učesnik u 13-julskom ustanku 1941. godine. Do juna 1942. godine bio je savjetnik u Glavnom štabu za Sandžak. Od 5 juna 1942. godine do aprila 1943. godine bio je u partizanskoj gerili na području sreza Bijelo Polje. Poslije bitke na Sutjesci, juna 1943. godine, bio je zamjenik komandanta Glavnog štaba NOV i PO za Sandžak. Kraj rata je dočekao na dužnosti komandanta Glavnog štaba za Srbiju. Bio je vijećnik ZAVNOS-a. Umro je 1973. godine. Jedna od ulica u Bijelom Polju nosi njegov naziv.
+Ovim spomen-obilježjem simbolično i trajno se odaje počast borcu za slobodu i čuva uspomena
+na ovu istorijsku ličnost.
