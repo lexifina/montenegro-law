@@ -1,0 +1,2 @@
+Na osnovu člana 7, člana 20 stav 1 tačka 1, člana 39 stav 3, člana 40 i 41 Zakona o turističkim organizacijama ("Službeni list Republike Crne Gore", br. 011/04, 046/07, Službeni list Crne Gore", br. 073/10, 040/11, 045/14, 042/17, 027/19 ),člana 27 stav 1 tačka 12, člana 38 stav 1 tačka 2 i 8, Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18, 034/19) člana 14,15i 33 Statuta Opštine Plav ("Službeni list Crne Gore - opštinski propisi", br. 044/18), Skupština opštine Plav na sjednici održanoj dana 16.07.2019. godine, donijela je
+ODLUKU
