@@ -1,0 +1,2 @@
+Na osnovu člana 8 stav 2, člana 13 stav 1, člana 52 Zakona o spomen- obilježjima ("Sl. list CG", br. 40/08, 40/11 i 2/17), i člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl. list CG - opštinski propisi", br. 19/18), a na osnovu prethodno dobijene saglasnosti Ministarstva kulture Crne Gore, Skupština opštine Bijelo Polje, na sjednici održanoj 10. i 11. 07. 2019. godine, donijela je
+PROGRAM
