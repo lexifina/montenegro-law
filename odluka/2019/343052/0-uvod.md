@@ -1,0 +1,2 @@
+Na osnovu člana 13 stav 5 Zakona o upravljanju otpadom ("Službeni list CG", br. 64/11 i 39/16), i člana 32tačka 6 Statuta opštine Gusinje Sl.list-opštinski propisi broj 003/19 , Skupština opštine Gusinje na sjednici održanoj dana 12.07.2019. godine, uz prethodnu saglasnost Ministarstva održivog razvoja i turizma, br. 113-146/121 od 21.06.2019 godine., donosi:
+O D L U K U O NAČINU ODVOJENOG SAKUPLJANJA I SAKUPLJANJA KOMUNALNOG OTPADA RADI OBRADE NA TERITORIJI OPŠTINE GUSINJE
