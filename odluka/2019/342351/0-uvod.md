@@ -1,0 +1,2 @@
+Na osnovu člana 14, 15, 39 i 52 Zakona o komunalnim djelatnostima ("Sl. list CG", br. 55/16, 74/16, 02/18), člana 155 Zakona o vodama ("Sl. list RCG" br. 27/07 i "Sl. list CG", br.73/10,32/11,47/11,48/15,52/16,55/16,02/17), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18 i 34/19) i člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl. list CG - Opštinski propisi", br. 19/18), Skupština opštine Bijelo Polje, na sjednici održanoj 10. i 11. 2019. godine, donijela je
+O D L U K U
