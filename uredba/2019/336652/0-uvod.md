@@ -1,0 +1,6 @@
+Na osnovu člana 37 Zakona o državnoj upravi ("Službeni list CG", broj 78/18), Vlada Crne Gore, na sjednici od 25. jula 2019. godine, donijela je
+UREDBU
+O DOPUNI UREDBE O POVJERAVANjU DIJELA POSLOVA UPRAVE ZA
+INSPEKCIJSKE POSLOVE GLAVNOM GRADU PODGORICA I OPŠTINAMA
+ANDRIJEVICA, BERANE, BIJELO POLjE, GUSINjE,
+KOLAŠIN, MOJKOVAC, NIKŠIĆ I ROŽAJE
