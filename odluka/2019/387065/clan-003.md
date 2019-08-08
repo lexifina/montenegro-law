@@ -1,0 +1,3 @@
+# Član 3
+Pravo svojine na zemljištu iz člana 1 stav 1 ove odluke, prenosi se uz naknadu u iznosu od 65,00 eura po 1m2, što za površinu od 246m2 iznosi ukupno 15.990,00 eura shodno Izvještaju o procjeni tržišne vrijednosti nepokretnosti Komisije za procjenu vrijednosti građevinskog zemljišta i objekata u imovini Glavnog grada-Podgorice broj 13-460/18-183 od januara 2019.godine, koja je potvrđena kao validna, aktom Komisije od 05. jula 2019.godine.
+Naknadu iz člana 3 stav 1 odluke imenovani će uplatiti u jednakim mjesečnim ratama na žiro račun Budžeta Glavnog grada Podgorice broj 550-3574-31, najkasnije do 31. decembra 2020. godine.
