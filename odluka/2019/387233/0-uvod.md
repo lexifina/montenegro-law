@@ -1,0 +1,2 @@
+Na osnovu člana 34 i člana 40 Zakona o državoj imovini CG ("Sl. List CG", br. 21/09, 40/11), člana 38 Zakona o lokalnoj samouopravi ("Sl. List RCG" br.2/18, br. 34/19) član 7 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl. List Crne Gore" broj 44/10) i člana 30 Statuta Opštine Kotor ("Sl. List Crne Gore, br.3/04 i "Sl. List Crne Gore - opštinski propisi" br-17/08, 31/09, 40/10 i 4/11), Zaključka Vlade Crne Gore broj 07-5625 od 06.12.2018. godine, Skupština Opštine Kotor, na XXVI sjednici održanoj 25. 07. godine, donijela je:
+ODLUKU
