@@ -1,0 +1,2 @@
+Na osnovu člana 34 i člana 40 Zakona o državnoj imovini (" Sl. List CG" br. 21/09, 40/11), člana 38 Zakona o lokalnoj samoupravi ("Sl. list RCG" br. 2/18, 34/2019), člana 16 i člana 30 Statuta Opštine Kotor (" Službeni list Opštine Kotor" broj 3/04, i "Službeni list CG-opštinski propisi" broj 17/08, 31/09, 40/10 i 4/11), Skupština Opštine Kotor, na XXVI sjednici održanoj 25. 07. 2019 godine, donijela je
+O D L U K U
