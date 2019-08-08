@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi (,,Sl. list CG", br. 02/18 i 34/19), a u vezi sa čl. 3 i 11 Zakona o rodnoj ravnopravnosti (,, Sl. list RCG", broj 46/07 i ,,Sl. list CG", br. 73/10, 40/11 i 35/15) i člana 54 stav 1 tačka 2 Statuta Glavnog grada (,,Sl. list CG - Opštinski propisi", broj 08/19), Skupština Glavnog grada-Podgorice, na sjednici održanoj dana 25. jula 2019. godine, donijela je
+ODLUKU

@@ -1,0 +1,2 @@
+# Član 2
+Prilikom izbora odbornika/ca, obrazovanja radnih tijela, izbora, odnosno imenovanja lokalnih funkcionera/ki, imenovanja, odnosno postavljenja lokalnih službenika/ca, izbora direktora/ki javnih službi, organa mjesnih zajednica i mjesnih centara i formiranja zvaničnih delegacija Glavnog grada po pravilu se obezbjeđuje rodna ravnopravnost srazmjerno procentu zastupljenosti lica tog pola u ukupnoj populaciji, a najmanje u procentu od 30% manje zastupljenog pola.
