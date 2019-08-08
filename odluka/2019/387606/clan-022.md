@@ -1,0 +1,2 @@
+# Član 22
+Za člana radnog tijela može biti predloženo lice koje ima prebivalište u Glavnom gradu, koje je osnivač, član, zaposlen ili volonter nevladine organizacije najmanje jednu godinu prije podnošenja predloga i koje nije član organa političkih partija, javni funkcioner u smislu Etičkog kodeksa za izabrane predstavnike i funkcionere u lokalnoj samoupravi Glavnog grada, lokalni službenik, odnosno namještenik i zaposleni u javnim službama čiji je osnivač Glavni grad.

@@ -1,0 +1,4 @@
+# Član 12
+Odbor za finansije, privredu i razvoj
+Odbor za finansije, privredu i razvoj ima predsjednika i osam članova.
+Odbor za finansije, privredu i razvoj razmatra predlog odluke o budžetu, predlog završnog računa budžeta i akte o realizaciji budžeta, predloge odluka kojima se utvrđuju lokalni javni prihodi-porezi, prirezi, takse i naknade; pitanja koja se odnose na zaduživanje, uzimanje zajmova i davanje garancija; razmatra planove i programe razvoja Glavnog grada i pitanja od značaja za razvoj privrede i poljoprivrede i razvoj preduzetništva; predloge za utvrđivanje javnog interesa za eksproprijaciju nepokretnosti za potrebe lokalne samouprave; razmatra plan kapitalnih poboljšanja i višegodišnji investicioni plan i akte kojima se predlaže utvrđivanje investicione politike; razmatra izvještaj Gradonačelnika o njegovom radu i ostvarivanju funkcija lokalne samoupra ve iz ovih oblasti i vrši druge poslove utvrđene Statutom i drugim propisima.
