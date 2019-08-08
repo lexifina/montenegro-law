@@ -1,0 +1,2 @@
+# Član 9
+Savjet postupa po sopstvenoj inicijativi, po predlogu državnih i lokalnih organa, organa uprave, službi, javnih službi čiji je osnivač Vlada Crne Gore ili Glavni grad, po inicijativi građana, mjesne zajednice, nevladinih organizacija, privrednih društava i drugih subjekata koji smatraju da je propisom, drugim aktom ili radnjom državnog, odnosno organa i službe Glavnog grada povrijeđeno Ustavom i zakonom utvrđeno pravo na lokalnu samoupravu, prava i slobode lokalnog stanovništva ili da nije obezbjeđen potreban obim i kvalitet javnih usluga.
