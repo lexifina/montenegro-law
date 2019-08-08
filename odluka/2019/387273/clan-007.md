@@ -1,0 +1,3 @@
+# Član 7
+Ovlašćuje se Predsjednik Opštine Kotor da sa Bigova Bay d.o.o. zaključi Ugovor o ustanovljavanju prava stvarne službenosti na poslužnom dobru iz člana 1. ove Odluke, u skladu sa odredbama ove Odluke.
+Prilikom zaključenja ugovora potrebno je precizirati obavezu Bigova Bay da nakon završetka radova vrati zemljište (poslužno dobro), iz člana 1. ove Odluke u prvobitno stanje, kao i da prilikom izvođenja radova omogući nesmetan prolaz svim licima i prevoznim sredstvima u mjeri u kojoj je to moguće i u skladu sa propisima koji se odnose na ove radove, kao i u skladu sa dozvolama koje budu izdate za postavljanje kablova i vršenje drugih aktivnosti, kako bi se garantovala sigurnost svih lica prilikom vršenja tih aktivnosti.

@@ -1,0 +1,2 @@
+# Član 3
+Odlukom Skupštine Opštine Kotor o utvrđivanju lokacije za izgradnju tehničke infrastrukture do lokaliteta Bigova - Trašte (,,Sl. list CG - optinski propisi" br. 028/15), utvrđena je lokacija i urbanističko-tehnički uslovi za izgradnju javnog vodovodnog, fekalnog kanalizacionog sistema i polaganje podzemnog optičkog kabla i dva podzemna 10 kV kablovskog voda za potrebe lokaliteta Bigova - Trašte.
