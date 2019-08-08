@@ -1,0 +1,2 @@
+# Član 6
+Na internet stranici Glavnog grada se, pored akata popisanih zakonom, Statutom i posebnim odlukama Glavnog grada, objavljuje i obavještenje o postupku za ostvarivanje prava i obaveza građana kod organa uprave Glavnog grada, potrebnoj dokumentaciji, propisanim taksama, izvještaj o rezultatima ispitivanja stavova građana o kvalitetu pruženih javnih usluga i drugi izvještaji od značaja za informisanje građana o javnim poslovima.

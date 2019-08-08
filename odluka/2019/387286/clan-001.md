@@ -1,0 +1,3 @@
+# Član 1
+Ovom odlukom uređuju se oblici, subjekti, postupci, rokovi i način učešća lokalnog stanovništva (u daljem tekstu: građani) u vršenju javnih poslova, sadržina izvještaja o uspješnosti postupka i druga pitanja od značaja za građansku participaciju.
+Pod javnim poslovima u smislu ove odluke smatra se donošenje planova i programa za pojedine oblasti, budžeta i opštih akata kojima se utvrđuju prava i obaveze građana utvrđenih zakonom, statutom, planom učešća građana u donošenju odluka i ovom odlukom (u daljem tekstu: akti), kao i javni poslovi u kojima građani ostvaruju prava ili izvršavaju obaveze utvrđene zakonom.
