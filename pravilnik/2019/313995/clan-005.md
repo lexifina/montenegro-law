@@ -1,0 +1,3 @@
+# Član 5
+Objekat treba da je obezbijeđen tekućom toplom i hladnom higijenski ispravnom vodom, pod pritiskom potrebnim za nesmetano i, sa sanitarno-higijenskog i zdravstvenog aspekta, bezbjedno obavljanje djelatnosti, a na svakom točećem mjestu namijenjenom za pranje ruku treba da ima potreban pribor i sredstva za pranje, sušenje i dezinfekciju ruku.
+Na mjestima na kojima ne postoji sistem za javno snabdijevanje stanovništva vodom za piće ili je postojeći sistem nedovoljnog kapaciteta, objekat može da se snabdijeva vodom iz sopstvenog izvorišta (poseban izvor, sopstveni bunar i slično), na način kojim može da se obezbijedi higijenski ispravna voda.
