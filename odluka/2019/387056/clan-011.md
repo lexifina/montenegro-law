@@ -1,0 +1,3 @@
+# Član 11
+Savjet podnosi Skupštini izvještaj o svom radu najmanje jednom godišnje.
+Izvještaj iz stava 1 ovog člana sadrži: broj podnijetih inicijativa, prijedloga, mišljenja, izjašnjenja, preporuka, način postupanja nadležnih organa, ocjenu profesionalnosti i efikasnosti rada lokalne uprave sa aspekta preduzimanja mjera za unaprijeđivanje položaja nevladinih organizacija, način informisanja i konsultovanja nevladinih organizacija, podatke o učešću nevladinih organizacija u radu radnih grupa i drugih oblika rada u lokalnoj upravi Glavnog grada, organizovanju zajedničkih javnih rasprava, okruglih stolova, seminara i sl, ocjenu postupka finansiranja projekata nevladinih organizacija, uočene nepravilnosti, prijedlog mjera za njihovo otklanjanje i sl.

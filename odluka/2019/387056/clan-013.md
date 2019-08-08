@@ -1,0 +1,3 @@
+# Član 13
+Član Savjeta koji je predstavnik nevladinih organizacija može biti lice sa prebivalištem u Glavnom gradu koje je osnivač, zaposleno ili volontira u nevladinoj organizaciji, ima iskustvo u oblasti razvoja civilnog društva i saradnje sa javnim sektorom i koga podržavaju najmanje tri nevladine organizacije.
+Član Savjeta iz stava 1 ovog člana ne može biti javni funkcioner u smislu odredaba Etičkog kodeksa za izabrane predstavnike i funkcionere u lokalnoj samoupravi Glavnog grada, lokalni službenik i namještenik u upravi Glavnog grada ili Službi Skupštine ni funkcioner političke partije (predsjednik partije, član predsjedništva, njihovi zamjenici, član izvršnog i glavnog odbora političke partije).
