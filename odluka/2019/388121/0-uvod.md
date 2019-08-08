@@ -1,0 +1,2 @@
+Na osnovu člana 54 stav 1 tačka 58 Statuta Glavnog grada ("Sl. list CG - Opštinski propisi", broj 08/19) i člana 18 stav 1 alineja 5 Odluke o osnivanju "Parking servis Podgorica" d.o.o. Podgorica ("Službeni list RCG- opštinski propisi", broj 50/06 i "Službeni list CG - opštinski propisi", broj 40/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 25. jula 2019. godine, donijela je -
+ODLUKU
