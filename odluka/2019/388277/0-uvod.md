@@ -1,0 +1,2 @@
+Na osnovu čl. 16 i 24 i člana 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18 i 34/19), člana 31 stav 2 i člana 54 stav 1 tačka 12 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19), Skupština Glavnog grada - Podgorice, na sjednici održanoj 25. jula 2019. godine, donijela je -
+ODLUKU O JAVNO-PRIVATNOM PARTNERSTVU ZA UREĐENJE PARK ŠUME "TOLOŠI"
