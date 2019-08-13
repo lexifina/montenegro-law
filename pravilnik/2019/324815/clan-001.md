@@ -1,0 +1,5 @@
+# Član 1
+U Pravilniku o načinu izdavanja, upotrebe i sadržini faksimila ("Službeni list CG", br. 27/16, 41/16 i 75/18 ) član 9 mijenja se i glasi:
+"Za zdravstvene radnike sa završenim fakultetom zdravstvenog usmjerenja, faksimil je pravougaonog oblika dimenzija 45x20 mm, sa natpisom u vodoravnim redovima: u prvom redu- "broj faksimila", u drugom redu - "ime i prezime, stručno/naučno/akademsko zvanje", u trećem redu - "broj licence za rad".
+Za zdravstvene radnike sa završenom specijalizacijom, faksimil je pravougaonog oblika dimenzija 45x20 mm, sa natpisom u vodoravnim redovima: u prvom redu - "broj faksimila", u drugom redu - "ime i prezime, stručno/naučno/akademsko zvanje", u trećem redu - "specijalista - naziv grane medicine", u četvrtom redu - "broj licence za rad".
+Za zdravstvene radnike sa završenom užom specijalizacijom, faksimil je pravougaonog oblika dimenzija 50x25 mm, sa natpisom u vodoravnim redovima: u prvom redu - "broj faksimila", u drugom redu - "ime i prezime, stručno/naučno/akademsko zvanje", u trećem redu - "specijalista - naziv grane medicine", u četvrtom redu - "naziv uže specijalizacije", u petom redu- "broj licence za rad"."
