@@ -1,0 +1,10 @@
+Na osnovu člana 82 tačka 3 Ustava Crne Gore i člana 39 stav 3 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), Skupština Crne Gore 26. saziva, na Desetoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2019. godini, dana 31. jula 2019. godine, donijela je
+O D L U K U
+O IZMJENAMA ODLUKE O DAVANjU U DUGOROČNI ZAKUP ZEMLjIŠTA ZA
+IZGRADNjU BAZNOG NASELjA PLANINSKOG CENTRA "KOLAŠIN 1600",
+KOLAŠIN
+1. Tačka 1. Odluke o davanju u dugoročni zakup zemljišta za izgradnju baznog naselja planinskog centra "Kolašin 1600", Kolašin ("Službeni list CG", broj 73/18), mijenja se i glasi:
+"1. Daje se u dugoročni zakup zemljište koje predstavlja državnu svojinu - vlasništvo Države Crne Gore, u obimu prava 1/1, u Katastarskom operatu Opštine Kolašin, u Listu nepokretnosti broj 68 i Listu nepokretnosti broj 231 KO Smrčje, označeno kao katastarske parcele br. 900/7, 904/14, 904/15, 904/16, 904/17, 904/18, 904/19, 904/20, 904/21, 904/22, 904/27, 904/28, 904/52, 904/53, 939/2, 940/2, 1057/3, 1057/4, 1057/6, 1057/7, 1057/8, 1057/9, 1057/10, 1057/11, 1057/12, 1057/14, 1057/18, 1057/20, 1057/21, 1057/23, 1057/24, 1060/11, 1060/12, 1060/13, 1060/14, 1060/15, 1060/16, 1060/17, 1060/18, 1060/19, 1060/20, 1060/21, 1060/24, 1060/25, 1060/27, 1060/29, 1060/30, 1060/31, 1060/32, 1060/41, 1060/42, 1060/43, 1060/44, 1060/45, 1069/2, 1069/3, 1069/4, 1069/5, 1069/6, 1069/8 i 1069/9, u ukupnoj površini od 238.359 m2, koja je predmet Ugovora o zakupu i Aneksa ugovora o zakupu iz tačke 4 ove odluke."
+2. Tačka 4. Odluke o davanju u dugoročni zakup zemljišta za izgradnju baznog naselja planinskog centra "Kolašin 1600", Kolašin, mijenja se i glasi:
+"4. Prava i obaveze između Države Crne Gore - Vlade Crne Gore (Zakupodavac) i Konzorcijuma (Zakupac), po osnovu ovog zakupa utvrđuju se Ugovorom o dugoročnom zakupu lokaliteta planinskog centra "Kolašin 1600", Kolašin, i Aneksom ugovora o dugoročnom zakupu lokaliteta planinskog centra "Kolašin 1600", Kolašin, koji zaključuju Zakupodavac i Zakupac."
+3. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
