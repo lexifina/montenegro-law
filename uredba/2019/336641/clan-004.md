@@ -1,0 +1,2 @@
+# Član 4
+Rješenje o pretvaranju posebnog i zajedničkog dijela stambene zgrade u poslovnu prostoriju, odnosno rješenje o pretvaranju poslovne prostorije nastale promjenom načina korišćenja posebnog ili zajedničkog dijela stambene zgrade u posebni ili zajednički dio stambene zgrade, ako je planskim dokumentom predviđeno uklanjanje postojećeg objekta zbog realizacije infrastrukturnih objekata ili objekata od značaja za jedinicu lokalne samouprave ili državu Crnu Goru, može se izdati samo na period do uklanjanja tog objekta.
