@@ -1,0 +1,6 @@
+# Član 10
+Radi sprovođenja postupka fiskalizacije, obveznik fiskalizacije, iz člana 4 stav 1 tač.1 i 2 ovog zakona, dužan je da izda fiskalni račun korišćenjem fiskalnog servisa.
+Obveznik fiskalizacije dužan je da za potrebe sprovođenja postupka fiskalizacije koristi certifikat za elektronski potpis izdat od davaoca usluge certifikovanja u skladu sa propisom kojim se uređuju uslovi za korišćenje elektronskog potpisa.
+Obveznik fiskalizacije dužan je da, radi potpisivanja fiskalnih računa za potrebe sprovođenja postupka fiskalizacije i potvrde identiteta prilikom elektronske razmjene podataka i informacija sa Upravom, koristi certifikat za elektronski potpis u skladu sa propisom kojim se uređuju uslovi za korišćenje elektronskog potpisa.
+Obveznik fiskalizacije dužan je da, radi sprovođenja postupka fiskalizacije, obezbijedi stalnu internet vezu za on-line razmjenu fiskalnih računa sa Upravom u realnom vremenu.
+Obveznik fiskalizacije, iz člana 4 stav 1 tačka 3 ovog zakona, dužan je da postupak fiskalizacije primjenjuje u trenutku prodaje, putem stalne internet veze koristeći fiskalni servis i da Upravi dostavi podatke sa samonaplatnog uređaja (automata) sa kojeg obavlja oporezivi promet.
