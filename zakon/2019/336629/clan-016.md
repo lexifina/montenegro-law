@@ -1,0 +1,2 @@
+# Član 16
+Naziv poglavlja IIa mijenja se i glasi: "IIa. STANDARDIZACIJA, KODIFIKACIJA I OBEZBJEĐENJE KVALITETA U OBLASTI ODBRANE".
