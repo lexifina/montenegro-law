@@ -1,0 +1,2 @@
+# Član 1
+U Zakonu o upotrebi jedinica Vojske Crne Gore u međunarodnim snagama i učešću pripadnika civilne zaštite, policije i zaposlenih u organima državne uprave u mirovnim misijama i drugim aktivnostima u inostranstvu ("Službeni list CG", br. 61/08 i 31/17), u nazivu zakona, čl. 1 i 2, nazivu poglavlja III., članu 7 stav 1, članu 12 stav 2, članu 14, članu 15 stav 1, članu 16 stav 1, članu 17 stav 1 i članu 19 st. 1 i 2 riječi: "civilne zaštite" zamjenjuju se riječima: "operativne jedinice za zaštitu i spašavanje".
