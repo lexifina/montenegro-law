@@ -1,0 +1,3 @@
+# Član 13
+Rano otkrivanje bolničke infekcije sprovodi se dijagnostikovanjem, mikrobiološkim utvrđivanjem uzročnika i njegovih karakteristika, kao i epidemiološkim ispitivanjem, radi identifikacije izvora infekcije, puteva širenja, rezervoara uzročnika, vremena i mjesta nastanka i raširenosti bolničke infekcije.
+Nakon otkrivanja bolničke infekcije, sprovodi se izolacija ili grupisanje oboljelih lica, kao i druge opšte i specifične mjere za suzbijanje širenja infekcije, odgovarajuća dekolonizacija, u skladu sa vrstom i uzročnikom bolničke infekcije i liječenje oboljelih lica, primjenom odgovarajućih ljekova i terapijskih procedura.

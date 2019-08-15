@@ -1,0 +1,7 @@
+# Član 5
+Provjetravanjem i čišćenjem prostorija u kojima se obavlja zdravstvena djelatnost, kao i čišćenjem radnih površina, pribora, predmeta, opreme i drugog medicinskog materijala i pranjem posuđa koje se koristi za posluživanje hrane i vode obezbjeđuju se higijenski uslovi pacijentima.
+Prostorije u kojima se vrši zdravstvena djelatnost redovno se provjetravaju prirodnom ventilacijom - otvaranjem prozora ili upotrebom ventilacionih uređaja.
+Čišćenje prostorija, radnih površina, pribora za rad i drugih predmeta sprovodi se redovno, u skladu sa planom čišćenja, kojim se određuje vrijeme čišćenja, način i sredstva za čišćenje, kao i lica koja treba da obave čišćenje.
+Čišćenje prostorija, radnih površina, pribora, predmeta, opreme i drugog medicinskog materijala vrši se upotrebom mehaničkih i hemijskih sredstava, a po potrebi i upotrebom dezinfekcionih sredstava, po dnevnom, nedjeljnom i mjesečnom rasporedu.
+Mašinsko ili ručno pranje posuđa (centralna i čajna kuhinja) vrši se prema propisanoj i prihvaćenoj proceduri kojom se obezbjeđuje ispunjavanje zahtjeva koji se odnose na predmete koji dolaze u kontakt sa hranom, u skladu sa zakonom kojim se uređuje bezbjednost hrane.
+O čišćenju prostorija, radnih površina, pribora, predmeta, opreme i drugog medicinskog materijala vodi se dnevna lista evidencije čišćenja, koja sadrži podatke o djelovima koji se čiste, vremenu čišćenja, upotrijebljenom sredstvu za čišćenje, kao i ime i prezime lica koje je obavilo čišćenje i njegov potpis.

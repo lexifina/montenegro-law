@@ -1,0 +1,3 @@
+# Član 4
+Sanitarno-tehnički i higijenski postupci sprovode se uspostavljanjem jasnog i jednostavnog sistema označavanja kretanja osoblja, pacijenata i posjetilaca, kao i označavanjem zona visokog rizika od infekcije, odnosno zabranjenog pristupa neovlašćenim licima, kako bi se rizik od kontaminacije sveo na najmanju moguću mjeru, uz održavanje odgovarajućeg nivoa higijene i uspostavljanjem kružnog toka za čiste i nečiste - kontaminirane materijale i opremu (rublje, pribor, otpad i sl.) na način kojim se onemogućava ukrštanje čistog i nečistog materijala i opreme ili transport u zatvorenim kontejnerima.
+Za sprovođenje aktivnosti iz stava 1 ovog člana donosi se akt o kućnom redu.
