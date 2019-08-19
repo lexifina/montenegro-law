@@ -1,0 +1,2 @@
+Na osnovu člana 36 stav 4 Statuta Opštine Danilovgrad (,,Sl. list CG -opštinski propisi,, br. 43/18), člana 19 Odluke o obrazovanju radnih tijela Skupštine (,,Sl. list RCG - opštinski propisi,, br. 46/06), člana 47 stav 2 Poslovnika Skupštine opštine Danilovgrad (,,Sl. list RCG - opštinski propisi,, br. 46/06 i ,,Sl. list CG - opštinski propisi,, br. 35/09 i 01/13), Skupština opštine Danilovgrad, na sjednici održanoj 28.06., 30.07. i 01.08. 2019. godine, d o n o s i
+O D L U K U
