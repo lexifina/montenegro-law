@@ -1,0 +1,3 @@
+# Član 9
+U članu 14 poslije stava 4 dodaje se novi stav koji glasi:
+"(5) Poreskom savjetniku i privrednom društvu iz člana 3 stav 1 tačka 3 ovog zakona, koji ima osiguranje od profesionalne odgovornosti ugovoreno u državi sjedišta ili drugoj državi EEP, kao dokaz osiguranja prihvataju se potvrde tog osiguranja, ako su ekvivalentne po svojoj namjeni i pokriću usluge koje pruža u vezi osiguranog rizika, osiguranog iznosa ili gornje granice garancije i mogućeg isključenja iz pokrića osiguranja, izdate od finansijske institucije ili osiguravača u državi sjedišta poreskog savjetnika ili drugoj državi EEP."
