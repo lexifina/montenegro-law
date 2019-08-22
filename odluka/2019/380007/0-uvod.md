@@ -1,0 +1,3 @@
+Na osnovu člana 4 Zakona o komunalnoj policiji ("Sl. list CG", br. 57/14), člana 20 i člana 21 stav 1 Zakona o komunalnim djelatnostima ("Sl.list CG", br. 055/16, 074/16 i 02/18), člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 02/18, 34/19), člana 26 stav 1 tačka 2 Statuta Opštine Tuzi ("Sl. list CG- Opštinski propisi", br. 24/19) i člana 6 Odluke o organizaciji i načinu rada lokalne uprave Opštine Tuzi ("Sl. list CG- Opštinski propisi", br. 26/19) na sjednici Skupštine Opštine Tuzi održanoj 18.07.2019. godine, donijeta je
+ODLUKA
+o Službi komunalne policije i inspekcijskog nadzora
