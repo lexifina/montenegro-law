@@ -1,0 +1,10 @@
+# Član 57
+Zaštitni pojas je pojas zemljišta uz opštinski i nekategorisani put u kome je korišćenje prostora ograničeno zbog izbjegavanja štetnih uticaja okoline na put i saobraćaja na njemu i obrnuto.
+Širina zaštitnog pojasa u kome se ne mogu otvarati kamenolomi, graditi, vaditi šljunak i pijesak, podizati industrijska postrojenja i slični objekti iznosi pored opštinskih puteva 20 m, a pored nekategorisanih puteva 10 m računajući od spoljne ivice putnog pojasa.
+Širina zaštitnog pojasa u kome se ne mogu graditi stambene, poslovne, pomoćne i slične zgrade, kopati rezervoari, septičke jame i slično, niti podizati električni dalekovodi iznosi pored opštinskih puteva 10m, a pored nekategorisanih puteva 5 m, računajući od spoljne ivice putnog pojasa.
+Izuzetno od stava 3 ovog člana u brdsko planinskim predjelima sa nepovoljnom topografijom mogu se graditi stambene, poslovne, pomoćne i slične zgrade i u zaštitnom pojasu, ali ne na manjoj udaljenosti od 5m od putnog pojasa opštinskih i 3m nekategorisanih puteva.
+U zaštitnom pojasu iz stava 3 ovog člana mogu se graditi na osnovu odobrenja nadležnog organa: stanice za snabdijevanje motornih vozila gorivom, auto servis, objekat za privremeni smještaj onesposobljenih vozila, putna baza, auto baza za pružanje pomoći i informacija učesnicima u saobraćaju.
+Investitor radova u zaštitnom pojasu lokalnog i nekategorisanog puta nema pravo da traži zaštitu od štetnih uticaja puta na njegove objekte ili uređaje.
+Telegrafske, telefonske, vazdušne kablovske linije i vodovi, dalekovodi, električni vodovi niskog napona za osvjetljavanje, cjevovodi, kanalizacija, vodovod i slični objekti mogu se postavljati u putnom i zaštitnom pojasu puta samo po odobrenju nadležnog organa.
+Troškove postavljanja ovih objekata snosi investitor.
+Odredbe stavova 1 do 7 ovog člana ne odnose se na dio puta koji prolazi kroz naseljeno mjesto ako je izgrađen kao gradska ulica ili za koji je detaljnim urbanističkim planom predviđeno da će se izgraditi kao gradska ulica.

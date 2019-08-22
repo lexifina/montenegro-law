@@ -1,0 +1,3 @@
+# Član 21
+Odobrenje za izgradnju i rekonstrukciju opštinskog i nekategorisanog puta izdaje opštinski organ nadležan za poslove uređenja prostora.
+Organ uprave iz stava 1 ovoga člana izdaje uslove za priključenje lokacija na kojima se grade objekti i postavljaju uređaji pored opštinskih puteva: stanica za snabdijevanje motornih vozila gorivom (pumpne stanice), auto servisa, objekta za privremeni smještaj onesposobljenih vozila, putnih baza, auto baza za pružanje pomoći i informacija učesnicima u saobraćaju, ugostiteljskih objekata, turističkih objekata, trgovinskih objekata, sportsko rekreativnih objekata i drugih komercijalnih objekata.

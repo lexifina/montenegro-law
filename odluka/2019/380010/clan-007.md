@@ -1,0 +1,2 @@
+# Član 7
+Ako stručna Komisija utvrdi da se nekategorisani put koristi za saobraćaj po bilo kom osnovu, da je dostupan većem broju korisnika, da su riješeni imovinskopravni odnosi, da širina poprečnog profila, odnosno planum puta, nije manja od 5 m, da podužni nagib nije veći od 12% i da ima proširenje za mimoilaženje, predložiće službi za saobraćaj dalji postupak za proglašenje i upis u Registar nekategorisanih puteva.

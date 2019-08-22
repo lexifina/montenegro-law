@@ -1,0 +1,2 @@
+# Član 36
+Ako na opštinskom i nekategorisanom putu dođe do prekida saobraćaja zbog elementarnih nepogoda (sniježnih lavina, odronjavanja terena u većem obimu, zemljotresa), a Direkcija i odabrani izvođač nijesu u stanju da svojim sredstvima otklone nastale smetnje ili uspostave saobraćaj, lokalna uprava Opštine postupa na osnovu Plana za otklanjanje elementarnih nepogoda, koji se donosi po hitnom postupku.

@@ -1,0 +1,2 @@
+# Član 73
+Skupština opštine Tuzi će u roku od 6 mjeseci od dana stupanja na snagu ove odluke donijeti jednogodišnji Program i godišnji plan razvoja i održavanje opštinskih i nekategorisanih puteva. Sekretarijat za planiranje i uređenje prostora i komunalne poslove u saradnji sa Direkcija za izgradnju, imovinu i zastupanje utvrdiće mjerila za kategorizaciju opštinskih i nekategorisanih puteva u roku od 6 mjeseci od dana stupanja na snagu ove odluke i utvrditi registar opštinskih i nekategorisanih puteva.
