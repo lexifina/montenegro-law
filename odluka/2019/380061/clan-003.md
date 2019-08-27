@@ -1,0 +1,2 @@
+# Član 3
+Poslove upravljanja, održavanja uređenog, otvorenog i zatvorenog prostora i objekata koji se koriste za prodaju svježih poljoprivrednih i prehrambenih proizvoda, druge robe široke potrošnje kao i pružanje pratećih usluga obavlja Privredno društvo, kome su posebnim Ugovorom od strane Skupštine opštine Danilovgrad, povjereni ovi poslovi, a nakon sprovedenog postupka po javnom oglasu u skladu sa Zakonom (u daljem tekstu: Privredno društvo).

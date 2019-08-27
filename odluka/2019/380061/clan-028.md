@@ -1,0 +1,3 @@
+# Član 28
+Upravni nadzor nad primjenom odredaba ove odluke vrši organ uprave nadležan za komunalne poslove.
+Inspekcijski nadzor nad sprovođenjem ove odluke vrši Komunalni inspektor, ako posebnim propisom nije utvrđena nadležnost druge inspekcije. Obezbjeđenje komunalnog reda i komunalni nadzor nad sprovođenjem ove odluke vrši komunalni policajac.
