@@ -1,0 +1,3 @@
+Na osnovu čl. 29 st. 2 , čl. 34 i čl.40.st. 2 tač. 3 i 4 Zakona o državnoj imovini ("Sl.list CG", br. 21/09 i 40/11), čl. 38 st. 1 tač. 9 Zakona o lokalnoj samoupravi ( "Sl.list CG" br. 2/18), čl. 7 Zakona o regulaciji neformalnih objekata ("Sl. list CG", br. 56/16) , čl.46 st.1 tač. 9 Statuta opštine Rožaje ("Sl.list CG-opštinski propisi", br. 38/18), Odluke o građevinskom zemljištu ("Sl. List CG-Opštinski propisi", br. 20/11), ) i čl. 2 Odluke o Budžetu opštine Rožaje za 2019 godinu. ("Sl.list CG-Opštinski propisi", br. 5/19 ), Skupština opštine Rožaje na sjednici održanoj dana31.07.2019. godine , donijela je:
+ODLUKU
+o davanju saglasnosti za brisanje tereta zabrane otuđenja i opterećenja upisanog na katastarskoj parceli br.1695/1 KO Rožaje uz naknadu.
