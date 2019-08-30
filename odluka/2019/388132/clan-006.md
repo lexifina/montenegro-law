@@ -1,0 +1,2 @@
+# Član 6
+U članu 20,stav 2,dodaje se tačka 3 koja glasi "3.monitoring realizacije projekata i programa." U članu 20 zadnji stav,briše se "Na osnovu izabranih projekata od kojih svaka nevladina organizacija koja konkuriše može podnijeti najviše jedan" a dodaje "Nevladinoj organizaciji koja je konkurisala sa više projekata,odnosno programa mogu se dodijeliti sredstva za finansiranje samo jednog projekta,odnosno programa"
