@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 Zakona o državnoj imovini ("Sl.list Crne Gore"br.21/09, 40/11) člana 27 stav 1 tačka 2 , člana 28 stav 1 tačka 1,člana 33 stav 2 i člana 34 stav 1 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore" br.2/18) i člana 18 stav 1,2 i 3 Statuta Opštine Tivat ("Sl.list Crne Gore-opštinski propisi" br.24/18) Skupština opštine Tivat ,na sjednici održanoj dana 20.08.2019.godine, donijela je
+O D L U K U
