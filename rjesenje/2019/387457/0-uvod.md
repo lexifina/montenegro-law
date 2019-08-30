@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 tačka 22 Statuta Opštine Herceg Novi ("Sl.list CG-opštinski propisi" br. 01/19) i člana 13 stav 2 Odluke o osnivanju društva sa ograničenom odgovornošću "Čistoća" Herceg Novi ("Sl.list CG-opštinski propisi",br. 14/13, 18/15, 27/17) Skupština opštine Herceg Novi, na sjednici održanoj dana, 30.08.2019.godine, donijela je
+R J E Š E NJ E O IMENOVANJU ČLANOVA ODBORA DIREKTORA DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "ČISTOĆA" HERCEG NOVI
