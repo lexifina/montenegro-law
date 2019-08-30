@@ -1,0 +1,1 @@
+Na osnovu člana 34 stav 1 tačka 21 Statuta Opštine Herceg Novi ("Sl.list CG-opštinski propisi", br. 1/19), i člana 14 Odluke o dodjeli Nagrada Opštine Herceg Novi Skupština Opštine Herceg Novi na sjednici održanoj dana 30.08.2019.godine, donijela je
