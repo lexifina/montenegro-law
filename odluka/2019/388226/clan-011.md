@@ -1,0 +1,9 @@
+# Član 11
+1) Kod utvrđivanja i plaćanja naknade u ratama ugovara se redovna kamata, zatezna kamata i odgovarajuća sredstva obezbjeđenja plaćanja.
+2) Iznos mjesečne rate se uvećava za iznos prosječne redovne kamate koju plaća domicilna banka na oročena sredstva do godinu dana.
+(3) U slučaju da vlasnik bespravnog objekta zadocni sa plaćanjem naknade, obračunava se zatezna kamata u skladu sa zakonom.
+(4) Obezbjeđivanje potraživanja iz stava 1 ovog člana vrši se upisom hipoteke na bespravno izgrađenom objektu za koji se utvrđuje naknada i uslov je donošenja rješenja o utvđivanju naknade i uslov je zaključivanja ugovora.
+5) Vlasnik bespravnog objekta dužan je da dostavi nadležnom organu dokaz o upisu hipoteke u katastar nepokretnosti u roku od 15 (petnaest) dana od dana održavanja rasprave u postupku utvrđivanja nakade u ratama. U suprotnom, smatraće se da je vlasnik bespravnog objekta saglasan da se naknada utvrdi u jednokratnom iznosu.
+(6) Ukoliko vlasnik bespravnog objekta zadocni sa plaćanjem duže od tri mjeseca, smatraće se dospjelim cjelokupni iznos duga, shodno čemu će Opština Ulcinj aktivirati sva ugovorena sredstva obezbjeđenja.
+(7) Prilikom zaključenja ugovora o hipoteci vlasnik bespravnog objekta je dužan da od ovlašćenog procjenitelja obezbijedi procjenu vrijednosti nepokretnosti na kojoj će biti uspostavljena hipoteka, čija vrijednost prije zaključenja ugovora mora biti 50% veća od utvrđene naknade.
+(8) Izuzetno od stava 4 ovog člana, predmet hipoteke može biti objekat za koji se obračunava naknada, nepokretnost upisana u listu nepokretnosti bez tereta i ograničenja i to: stambeni prostor, poslovni prostor, urbanistička parcela, a izuzetno, ukoliko Opština ima interesa i katastarska parcela na kojoj je planirana izgradnja objekata od opšteg interesa koji služe komunalnom opremanju lokacije.
