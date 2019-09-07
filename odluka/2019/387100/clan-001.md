@@ -1,0 +1,4 @@
+# Član 1
+## o izmjenama i dopunama Odluke o raspisivanju Javnog poziva za davanje u dugoročni zakup nepokretnosti
+Mijenja se član 5 stav 1 Odluke o raspisivanju Javnog poziva za davanje u dugoročni zakup nepokretnosti broj 154/18-8 od 30.7.2018. godine, objavljene u Službenom listu Crne Gore Opštinski propisi broj 30/2019, te isti stav sada glasi:
+"Pravo da učestvuju na javnom nadmetanju imaju sva domaća i strana pravna lica i konzorcijumi, koja u skladu sa javnim pozivom dostave ponudu za finansiranje, projektovanje, opremanje, održavanje i upravljanje zabavnim Aqua parkom, u skladu sa planskom dokumentacijom, dostave ponudu o visini zakupa nepokretnosti u skladu sa minimalnom cijenom zakupa zemljišta određenom u Članu 3. ove Odluke, dostave investicioni program sa rokovima za završetak radova i reference za pet sličnih realizovanih projekta.
