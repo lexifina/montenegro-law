@@ -1,0 +1,3 @@
+# Član 1
+## O prodaji zemljišta radi dokompletiranja UP 41 i UP 53 u zahvatu DUP-a ‘’Radigojno’’
+Opština Kolašin prodaje DOO’’Aqua Bianca’’ iz Podgorice neposrednom pogodbom zemljište u KO Radigojno i to:kat.parcela br.153/1 površine 16 m2, kat.parcela br.153/2 površine 88 m2, kat.parcela br.153/3 površine 6 m2, kat.parcela br.153/4 površine 96 m2, kat.parcela br.153/5 površine 656 m2,kat.parcela br. 153/6 površine 53 m2, kat.parcela br.153/7 površine 21 m2, kat.parcela br.153/8 površine 22 m2, kat.parcela br.153/9 površine 192 m2, i kat.parcela br.153/10 površine 169 m2, a sve radi dokompletiranja urbanističkih parcela br.41 i 53 u zahvatu DUP-a ‘’Radigojno’’.
