@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19), člana 34 stav 1 tačka 2 Statuta Opštine Herceg Novi ("Službeni list CG" - opštinski propisi broj 1/19) i člana 4 stav 2 Odluke o građenju, postavljanju i uklanjanju lokalnih objekata od opšteg interesa ("Sl.list CG - opštinski propisi" broj 45/15), Skupština opštine Herceg Novi, na sjednici održanoj dana 30.08.2019.godine, donijela je
+ODLUKU
