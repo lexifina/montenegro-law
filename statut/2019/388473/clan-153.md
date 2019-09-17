@@ -1,0 +1,3 @@
+# Član 153
+U cilju učešća lokalnog stanovništva u donošenju odluka od neposrednog i zajedničkog interesa, Skupština posebnom odlukom uređuje način i postupak učešća stanovnika u vršenju javnih poslova.
+Odlukom iz stava 1 ovog člana uređuju se: oblici (anketiranje, medija planovi, table za obavještavanje, kutije primjedbi, predloga i sugestija, web sajtovi, dežurni telefoni, organizovanje radionica u mjesnim zajednicama, gostovanja predavača, stručni skupovi i okrugli stolovi i sl.), subjekti, postupci, rokovi i načini učešća lokalnog stanovništva u vršenju javnih poslova, izvještaj o uspješnosti postupka i druga pitanja od značaja za aktivnosti lokalnog stanovništva u donošenju odluka.

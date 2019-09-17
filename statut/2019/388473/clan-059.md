@@ -1,0 +1,3 @@
+# Član 59
+Predsjednik Skupštine pred Skupštinom daje svečanu izjavu nakon čega stupa na dužnost.
+Tekst svečane izjave glasi: "Svečano se obavezujem da ću dužnosti predsjednika Skupštine obavljati u skladu sa Ustavom, Zakonom i Statutom Opštine».
