@@ -1,0 +1,2 @@
+Na osnovu člana 33, člama 38 st.1 tačka 9 i člana 41 stav 1 Zakona o lokalnoj samoupravi i "Službeni list CG", broj 2/18 ), člana 6,člana 34 st. 1 i 3 i člana 54 Zakona o državnoj imovini ("Službeni list CG", broj 21/09 i 40/11), i člana 36 stav 2 i 3 i člana 42 stav 1 tačka 9 Statuta Opštine Ulcinj ("Sl.list CG -opštinski propisi" br.5/07,9/09 i 16/11), Skupština Opštine Ulcinj, na sjednici održanoj 24.06.2019.godine, donijela je
+O D L U K U
