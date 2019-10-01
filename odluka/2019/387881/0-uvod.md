@@ -1,0 +1,2 @@
+Na osnovu člana 54, stav 1, tačka 57 Statuta Glavnog grada (»Službeni list CG-opštinski propisi«, broj 08/19) i člana 12 Odluke o osnivanju Javne ustanove »Gradsko pozorište« Podgorica (»Službeni list RCG-opštinski propisi«, br. 27/02, 02/03 i »Službeni list CG-opštinski propisi«, br. 28/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 1. oktobra 2019. godine, donijela je -
+O D L U K U O DAVANJU SAGLASNOSTI NA ODLUKU SAVJETA JAVNE USTANOVE "GRADSKO POZORIŠTE" PODGORICA O RAZRJEŠENJU DIREKTORICE USTANOVE
