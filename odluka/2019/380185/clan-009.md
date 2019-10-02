@@ -1,0 +1,2 @@
+# Član 9
+Javnim službama čiji je osnivač Prijestonica ili država Crna Gora, nevladinim organizacijama, pravnim licima koja se bave zaštitom prava i interesa osoba sa invaliditetom, samostalnim umjetnicima kao i drugim fizičkim i pravnim licima koja su od posebnog interesa za Prijestonicu, Skupština Prijestonice Cetinje, na predlog Gradonačelnika Prijestonice, može donijeti odluku o davanju na korišćenje poslovnog prostora bez nadoknade.
