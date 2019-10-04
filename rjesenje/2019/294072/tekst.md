@@ -1,0 +1,8 @@
+Komisija za tržište kapitala (u daljem tekstu: Komisija) na osnovu člana 59 stav 1 tačka 5, a u vezi sa članom 11 stav 5, članom 60 tač. 5 i 6 i članom 61 stav 1 Zakona o dobrovoljnim penzionim fondovima ("Sl. list Republike Crne Gore", br. 78/06, 14/07, "Sl. list Crne Gore", br. 73/10, 40/11, 13/18) (u daljem tekstu: ZDPF), na 78. sjednici od 4.10.2019. godine donosi
+R J E Š E Nj E
+1. ODUZIMA SE dozvola za rad Društvu za upravljanje penzionim fondom ATLAS PENZIJA AD Podgorica (PIB: 02716879) izdata Rješenjem Komisije br. 03/15-19/9-07 od 18.3.2008. godine.
+2. UKIDA SE zabrana likvidacije Društvu za upravljanje penzionim fondom ATLAS PENZIJA AD Podgorica izrečena rješenjem br. 04/2-11/2-19 od 24.1.2019. godine.
+3. NALAŽE SE pružaocima platnih usluga u Crnoj Gori da obustave izvršenje naloga ovlašćenih lica društva iz tačke 1 dispozitiva ovog rješenja za prenos novčanih sredstava sa računa Dobrovoljnog penzionog fonda PENZIJA PLUS, kao i sa računa Društva za upravljanje penzionim fondom ATLAS PENZIJA AD Podgorica.
+4. NALAŽE SE Centralnom klirinško depozitarnom društvu da obustavi izvršenje naloga ovlašćenih lica društva iz tačke 1 dispozitiva ovog rješenja za prenos hartija od vrijednosti iz portfelja Dobrovoljnog penzionog fonda PENZIJA PLUS i sa računa Društva za upravljanje penzionim fondom ATLAS PENZIJA AD Podgorica na druga lica.
+5. Tačka 1 ovog rješenja upisaće se kao zabilježba kod Centralnog registra privrednih subjekata Poreske uprave u Podgorici (u daljem tekstu: CRPS), dok će se kod istog registra izvršiti brisanje zabilježbe zabrane likvidacije DZU ATLAS PENZIJA izrečene rješenjem Komisije br. 04/2-11/2-19 od 24.1.2019. godine.
+Ovo rješenje stupa na snagu danom donošenja.
