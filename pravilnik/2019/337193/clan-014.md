@@ -1,0 +1,3 @@
+# Član 14
+Nakon sprovedene provjere iz člana 3 ovog pravilnika, a najkasnije u roku od sedam dana, Komisija u skladu sa Zakonom o izvršenju kazni zatvora, novčane kazne i mjera bezbjednosti sačinjava izvještaj o toj provjeri i dostavlja ga starješini Uprave.
+Izvještaj iz stava 1 ovog člana sadrži mjesto i datum održavanja provjere, imena i prezimena kandidata, podatak ako je kandidat isključen iz daljeg dijela postupka provjere, broj bodova ostvaren na opštem i posebnom dijelu pisanog testa, usmenom intervjuu i praktičnoj provjeri ako je vršena praktična provjera, kao i ukupan broj bodova ostvaren na provjeri za svakog kandidata posebno.

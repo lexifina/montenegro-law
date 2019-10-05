@@ -1,0 +1,4 @@
+# Član 4
+Provjera iz člana 3 ovog pravilnika vrši se na osnovu plana provjere znanja, kompetencija i vještina koji, za svaki interni oglas u Upravi (u daljem tekstu: interni oglas) pojedinačno, utvrđuje komisija za provjeru znanja, kompetencija i vještina.
+Plan iz stava 1 ovog člana sačinjava se najkasnije u roku od 10 dana od dana sačinjavanja liste kandidata koji ispunjavaju uslove internog oglasa i objavljuje se na oglasnoj tabli i internet stranici Uprave.
+Plan iz stava 1 ovog člana sadrži podatke o sastavu komisije za provjeru znanja, kompetencija i vještina (u daljem tekstu: Komisija), broju prijavljenih kandidata, oblastima koje će biti obuhvaćene na pisanom testiranju i usmenom intervjuu, podatke o načinu sprovođenja praktične provjere, ako se za taj interni oglas vrši praktična provjera, kao i vrijeme trajanja pisanog testiranja, usmenog intervjua i praktične provjere.
