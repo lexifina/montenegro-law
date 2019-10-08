@@ -1,0 +1,2 @@
+Na osnovu člana 2 stav 1 Zakona o lokalnim komunalnim taksama (''Službeni list CG", broj 18/19), člаnа 38 stav 1 tač. 2 i 8 Zаkоnа о lоkаlnој sаmоuprаvi (''Službeni list CG", br. 2/18 i 34/19) i člana 54 stav 1 tačka 11 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19) nakon dobijanja saglasnosti Vlade Crne Gore, Skupština Glavnog grada - Podgorice, na sjednici od 1. oktobra 2019. godine, donijela je
+ODLUKU O LOKALNIM KOMUNALNIM TAKSAMA GLAVNOG GRADA - PODGORICE
