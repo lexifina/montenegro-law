@@ -1,0 +1,3 @@
+# Član 1
+## o izmjeni Odluke o prenosu prava korišćenja na nepokretnostima na kojima pravo raspolaganja ima opština Pljevlja Društvu sa ograničenom odgovornošću "Čistoća" Pljevlja
+U Odluci o prenosu prava korišćenja na nepokretnostima na kojima pravo raspolaganja ima opština Pljevlja Društvu sa ograničenom odgovornošću "Čistoća" Pljevlja ("Sl. list CG -opštinski propisi" broj 31/17 i "Sl. list CG -opštinski propisi" br. 3/19) u čl. 1 u tabeli, poslije rednog broja 15 dodaje se redni broj 16 - zgrada javne garaže, broj lista nepokretnosti-2415, broj katastarske parcele - 1944, broj zgrade1, PD broj 1, spratnost 1P, površine 1656m2 i broj 17 trafostanica, broj lista nepokretnosti-2415, broj katastarske parcele - 1944, broj zgrade1, PD broj 2, spratnost 1P, površine 9m2.
