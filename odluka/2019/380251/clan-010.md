@@ -1,0 +1,3 @@
+# Član 10
+Predsjednik Opštine može, u izuzetnim slučajevima, na predlog Komisije dodijeliti stipendiju i studentima osnovnih i postdiplomskih studija (specijalističkih i magistarskih), koji nisu u radnom odnosu, bez obzira na status studenta, vrstu studija, godinu studija i prosjek ocjena ukoliko se radi o studentu koji je u prethodnom školovanju pokazao izuzetne rezultate u oblasti naučnog odnosno umjetničkog stvaralaštva ili o studentu čija se porodica nalazi u posebno složenim-vanrednim okolnostima (socijalno ugrožene porodice), studentu bez oba roditelja, studentu sa invaliditetom i studentu pripadniku RE populacije.
+O pravu iz stava 2 ovog člana rješenjem odlučuje Predsjednik Opštine, na predlog Komisije.
