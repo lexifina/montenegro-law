@@ -1,0 +1,3 @@
+# Član 1
+## kao i načinu privremenog skladištenja neopasnog građevinskog otpada
+Ovom Odlukom određuje se privremena lokacija za skladištenje neopasnog građevinskog i kabastog otpada na dijelu katastarske parcele 1150 KO Ledenice Gornje. Kako se radi o objektu komunalne infrastrukture, isti se smatra lokalnim objektom od opšteg interesa. Inicijativu za donošenje ove Odluke podnio je Sekretarijat za zaštitu prirodne i kulturne baštine Opštine Kotor. Lokacija je utvrđena na osnovu Radne grupe za utvrđivanje mogućih lokaliteta za privremeno odlagalište formirane Rješenjem br. 01-407 do 15.01.2018.godine.
