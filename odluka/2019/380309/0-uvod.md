@@ -1,0 +1,2 @@
+Na osnovu člana 22 stav 1 tačke 9 i 10 i stav 5 Zakona o putevima ("Službeni list CG", broj 42/04, Službeni list CG", broj 21/09, 54/09, 40/10, 73/10, 36/11, 40/11 i 92/17), člаnа 38 stav 1 tačke 2 i 8 Zаkоnа о lоkаlnој sаmоuprаvi ( ''Službeni list CG", br. 2/18 i 34/19) i člаnа 46 stav 1 tačke 2 i 8 Stаtutа Opštine Bijelo Polje (’’Službeni list CG - opštinski propisi" broj 19/18), Skupština opštine Bijelo Polje na sjednici održanoj 01.10. 2019. godine, donijela je
+ODLUKU
