@@ -1,0 +1,3 @@
+# Član 1
+## o davanju na upravljanje i korišćenje lokaliteta ,,Brezovačko brdo"
+Lokalitet ,,Brezovačko brdo"- područje od posebnog značaja za razvoj turizma u opštini Rožaje, površine od 30 ha, koja se sastoji od dijela katastarske parcele br.1386/1 zv.,,Golo brdo" po kulturi šuma 1 klase, kat.parcele br.1387 zv.,,Golo brdo" po kulturi pašnjak 1 klase, dijela kat.parcele br.2694/1 zv.,,Zeleni" po kulturi šuma 1 klase upisane u LN br.344 KO Rožaje na ime SO-e Rožaje, daje se na upravljanje i korišćenje Turističkoj organizaciji Rožaje na period od 20 godina, radi očuvanja kulturno- istorijskog i prirodnog nasljeđa i zaštite od devastacije kao i realizacije projekata iz oblasti turizma, sporta i rekreacije.
