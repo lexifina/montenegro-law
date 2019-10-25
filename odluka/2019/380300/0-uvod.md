@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 a u vezi sa članom 27 stav 1 tačka 25 Zakona o lokalnoj samoupravi ("Sl.list CG" br.02/18), a u vezi sa članom 53 stav 2 Zakona o radu ("Sl.list CG" br. 49/08, 26/09, 88/09 , 26/10, 59/11, 66/12, 31/14, 53/14 i 04/18) člana 46 stav 1 tačka 2 a u vezi sa članom 27 stav 1 tačka 21 Statuta Opštine Bijelo Polje ("Sl.list CG- opštinski propisi" br.19/18), Skupština opštine Bijelo Polje na sjednici održanoj 01.10.2019. godine, donijela je:
+O D L U K U
