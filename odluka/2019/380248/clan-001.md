@@ -1,0 +1,4 @@
+# Član 1
+## o razmjeni nepokretnosti
+Prijestonica Cetinje, prenosi u svojinu Drašković rođ.Marković (Đorđije) Ljiljana, Marković (Pavla) Milutin, Marković (Marka) Zoran, nepokretnosti označene kao kat. parcela broj 4453/2, površine 499m2, kat. parcela broj 4453/13, površine 453m2, kat. parcela broj 4454/20, površine 88m2, kat. parcela broj 4453/9, površine 248 m2, kat. parcela broj 4454/16, površine 86m2, kat. parcela broj 4454/9, površine 243m2 i kat. parcela broj 4454/10 površine 37m2, upisane u l.n. broj 404 KO Cetinje I, kao svojina Država Crna Gora raspolaganje Prijestonica Cetinje.
+Na osnovu Izvještaja o procjeni vrijednosti nepokretnosti broj 07-460/19-1192 od 05.09.2019. godine koji je sačinio sudski vještak građevinske struke Zoran Filipović, vrijednost ovog zemljišta utvrđena je u ukupnom iznosu 71.618,20 eura (43,30 eura/m2).

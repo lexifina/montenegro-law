@@ -1,0 +1,3 @@
+# Član 2
+Drašković rođ.Marković (Đorđije) Ljiljana, Marković (Pavla) Milutin, Marković (Marka) Zoran, prenose u svojinu Prijestonici Cetinje nepokretnost označene kao kat. parcela broj 4454/12, površine 414m2, kat. parcela broj 4454/13, površine 443m2 i kat. parcela broj 4454/14, površine 767m2, upisane u l.n. broj 3179 KO Cetinje I, kao susvojina u obimu od po 1/3.
+Na osnovu Izvještaja o procjeni vrijednosti nepokretnosti broj 07-460/19-1192 od 05.09.2019. godine koji je sačinio sudski vještak građevinske struke Zoran Filipović, vrijednost ovog zemljišta utvrđena je u ukupnom iznosu 70.319,20 eura (43,30 eura/m2).
