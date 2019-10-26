@@ -1,0 +1,3 @@
+# Član 3
+Nezaposleno lice sa kojim je Zavod za zapošljavanje Crne Gore (u daljem tekstu: Zavod) zaključio ugovor o međusobnim pravima, obavezama i odgovornostima za vrijeme obrazovanja, osposobljavanja i uključivanja u druge mjere usmjerene na povećanje zaposlenosti, odnosno smanjenje nezaposlenosti, podnosi zahtjev za ostvarivanje prava na novčanu pomoć Zavodu, prema mjestu prijavljivanja u evidenciju o nezaposlenim licima.
+Nezaposleno lice sa kojim je Zavod zaključio ugovor iz stava 1 ovog člana, a upućuje se van mjesta prebivališta, odnosno boravka, podnosi zahtjev za ostvarivanje prava na novčanu pomoć i naknadu troškova prevoza Zavodu, prema mjestu prijavljivanja u evidenciju o nezaposlenim licima.
