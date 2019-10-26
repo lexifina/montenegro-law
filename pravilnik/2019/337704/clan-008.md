@@ -1,0 +1,5 @@
+# Član 8
+U slučaju nestanka ili gubitka ulaznog, odnosno izlaznog štambilja, policijski službenik iz člana 7 stav 2 ovog pravilnika, bez odlaganja, obavještava rukovodioca organizacione jedinice policije nadležne za kontrolu državne granice, koji o tome, bez odlaganja, obavještava sve uže organizacione jedinice policije koje vrše poslove kontrole državne granice i oglašava nestanak ili gubitak štambilja u ,,Službenom listu Crne Gore", u roku od osam dana od dana nestanka ili gubitka.
+U slučaju pronalaska ulaznog, odnosno izlaznog štambilja koji je oglašen nestalim ili izgubljenim, taj štambilj se mora povući iz upotrebe.
+U slučaju da se utvrdi da je otisak štambilja falsifikovan, originalni štambilj koji sadrži isti broj kao i falsifikovani štambilj povlači se iz upotrebe, o čemu policijski službenik iz člana 7 stav 2 ovog pravilnika sačinjava službenu zabilješku.
+Prilikom nabavke novog štambilja, novom štambilju ne smije se dodijeliti broj nestalog, izgubljenog ili falsifikovanog štambilja.
