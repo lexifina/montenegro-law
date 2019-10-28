@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2, člana 27 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Sl. list CG" br. 2/18 i 34/19), člana 19 stav 1 tačka 15 i člana 35 stav 1 tačka 2 Statuta opštine Šavnik ("Sl. list CG - opštinski propisi", br.31/18), člana 3 i 6 Odluke o bližim kriterijumima za korišćenje sredstava tekuće i stalne budžetske rezerve (,,Sl. list CG-opštinski propisi", br. 26/16), Skupština opštine Šavnik, na sjednici, održanoj 28.10.2019. godine, donijela je
+O D L U K U
