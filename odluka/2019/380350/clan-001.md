@@ -1,0 +1,3 @@
+# Član 1
+## ("Službeni list Crne Gore-opštinski propisi", br. 038/17 od 05.09.2017)
+Mijenja se Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju puta prnjavorske ulice (Sl.list CG-opštinski propisi br. 031-783 od 29.08.2017.godine, na način što se u članu 1 poslije tačke 17 dodaje sledeća: 18. Katastarska parcela blok 11/10/3, neplodna zemljišta površine 138m2, katastarska parcela blok 11/10/4, neplodna zemljišta površine 20m2 i katastarska parcela blok 11/10/5, neplodna zemljišta površine 5m2 upisana na PL broj 66 KO Prnjavor na ime imaoca prava Pupović Hako Remzija rođena Šarovović sa obimom prava 1/1 sopstvenik posjednik.
