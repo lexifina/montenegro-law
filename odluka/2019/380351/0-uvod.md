@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 1 tačka 16 Zakona o lokalnoj samoupravi ("Sl. list CG", broj 02/18 i 34/19), člana 78 stav 1 tačka 16 Statuta Opštine Bijelo Polje ("Sl. list CG-opštinski propisi", broj 18/19), članom 26 stav 3 i 5 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18 , 42/18 i 34/19) i člana 27 stav 4 Uredbe o kriterijumima i bližem načinu sprovođenja provjere znanja, sposobnosti, kompetencija i vještina za rad u državnim organima("Sl. list CG", broj 50/18), predsjednik Opštine Bijelo Polje , donio je
+ODLUKA
