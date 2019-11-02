@@ -1,0 +1,9 @@
+# Član 94
+## Vrijeme izlaganja
+Izlaganje odbornika u raspravi može trajati najduže 10 minuta.
+Odbornik po istoj tački dnevnog reda može da dobije riječ najviše dva puta.
+Odbornik u raspravi može dobiti riječ drugi put tek kad se iscrpi lista učesnika koji govore prvi put, s tim da drugi put ne može govoriti duže od 5 minuta.
+Odbornik koji nije iskoristio pravo u prvom krugu, ima pravo da učestvuje u raspravi u drugom krugu u trajanju do 5 minuta.
+Odbornik ima pravo da u toku izlaganja postavlja pitanja u vezi tačke dnevnog reda predlagaču odnosno predstavniku predlagača.
+Skupština može, na predlog Predsjednika Skupštine, odlučiti bez rasprave da se o pojedinoj tački dnevnog reda može govoriti samo jedanput.
+Skupština može, na predlog Predsjednika Skupštine, odrediti i drugačije vrijeme trajanja izlaganja, kao i da o određenim pitanjima govori samo određeni broj predstavnika Kluba odbornika, Predsjednik opštine, odnosno, drugi predlagač akta.
