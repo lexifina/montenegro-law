@@ -1,0 +1,2 @@
+Na osnovu člana 174 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18, 034/19) a u vezi sa članom 7 Odluke o kriterijumima, načinu i postupku raspodjele sredstava nevladinim organizacijama (" Službeni list Crne Gore -opštinski propisi" br. 013/18) i člana 53 stav 1 tačka 2 Statuta Opštine Tuzi ("Službeni list Crne Gore -opštinskli propisi" br. 024/19), na sjednici Skupštine opštine Tuzi, održanoj 05.11.2019. godine, donijeta je
+ODLUKA
