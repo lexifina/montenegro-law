@@ -1,0 +1,2 @@
+Na osnovu člana 78a stav 3 Zakona o upravljanju otpadom ("Sl.list Crne Gore" br. 64/11 i 39/16), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ( "Sl.list CG" br. 2/18), čl. 35 stav 1 tačka 2 Statuta Opštine Danilovgrad ("Sl.list CG - Opštinski propisi", br. 43/18), uz prethodnu Saglasnost Vlade Crne Gore br. 07-3936 od 26.09.2019, Skupština opštine Danilovgrad, na sjednici održanoj 18. i 25. oktobra 2019. godine, donijela je
+ODLUKU
