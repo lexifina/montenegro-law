@@ -1,0 +1,4 @@
+# Član 7
+Informisanje lokalnog stanovništva o pokretanju postupka izrade akta od zajedničkog interesa, organ opštine obezbjeđuje putem: web sajta, lokalnog javnog emitera, dostupnih tabli za obavještenja, dežurnih telefona i na drugi pogodan način.
+Organ opštine, u skladu sa medija planom, može primijeniti i druge mehanizme informisanja i to: informator, odnosno priručnik, bilten, brošuru, vodič, audio vizuelni ili elektronski mediji, organizovanje sastanaka, tribina i edukativnih radionica u mjesnim zajednicama i na drugim odgovarajućim mjestima, organizovanje seminara, objavljivanje određenih informacija na bilbordima i sl.
+Medija plan sadrži: subjekte, oblike, načine i postupke učešća lokalnog stanovništva u vršenju javnih poslova, postupke, rokove, strukturu izvještaja o uspješnosti postupka.

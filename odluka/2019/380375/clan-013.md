@@ -1,0 +1,2 @@
+# Član 13
+Organ opštine zadužen za koordinaciju konsultovanja u pripremnom postupku izrade akta od zajedničkog interesa dužan je da obradi prikupljene podatke, da sačini izvještaj o rezultatima konsultovanja, objavi ga na web sajtu Opštine i dostavi ga učesnicima konsultovanja u roku od deset dana od dana isteka roka iz stava 3 člana 12 ove Odluke. Izvještaj iz stava 1 ovog člana sadrži: primijenjene mehanizme konsultovanja, mjesto, način, rokove primjene, pregled učesnika konsultovanja i pregled dobijenih inicijativa, prijedloga, sugestija i komentara.
