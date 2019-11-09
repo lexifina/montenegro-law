@@ -1,0 +1,5 @@
+# Član 21
+Postupak izbora predstavnika nevladinih organizacja za člana radnog tijela Skupštine, u skladu sa članom 5 stav 4 i 9 ove Odluke, pokreće Odbor za izbor i imenovanja objavljivanjem javnog poziva za predlaganje kandidata.
+Javni poziv iz stava 1 ovog člana objavljuje se na sajtu Glavnog grada Podgorica, u oglasnom odjeljku za Opštinu u okviru Glavnog grada-Golubovci, na oglasnoj tabli Opštine i najmanje u jednom dnevnom listu koji se štampa i distribuira na teritoriji Opštine u okviru Glavnog grada-Golubovci.
+Javni poziv iz stava 1 ovog člana sadrži: podatke o broju predstavnika nevladinh organizacija u radnom tijelu, kriterijume za nevladinu organizaciju koja može da predloži svog predstavnika u radnom tijelu, podatke o dokumentaciji koja se dostavlja uz prijedlog predstavnika nevladine organizacije u radnom tijelu; podatke o formi i sadržini prijedloga, rokovima za podnošenje i načinu dostavljanja prijedloga i drugim pitanjima od značaja za imenovanje.
+Rok za dostavljanje prijedloga po javnom pozivu iz stava 1 ovog člana, je 10 dana od dana objvaljivanja javnog poziva.

@@ -1,0 +1,4 @@
+# Član 12
+Odbor za budžet, privredu i razvoj
+Odbor za budžet, privredu i razvoj ima predsjednika i četiri člana.
+Odbor za budžet, privredu i razvoj, razmatra prijedlog odluke o Budžetu, prijedlog Završnog računa budžeta i druge akte o realizaciji budžeta, prijedloge odluka kojima se utvrđuju lokalni javni prihodi-porezi, prirezi, takse i naknade; pitanja koja se odnose na zaduživanje, uzimanje zajmova i davanja garancija; razmatra planove i programe razvoja Opštine i pitanja od značaja za razvoj privrede i poljoprivrede i razvoj preduzetništva; prijedloge za utvrđivanje javnog interesa za eksproprijaciju nepokretnosti za potrebe lokalne samouprave; razmatra plan kapitalnih poboljšanja i višegodišnji investiocioni plan i akte kojima se predlaže utvrđivanje investicione politike; razmatra izvještaj o radu predsjednika Opštine i ostvarivanju funkcija loklane samouprave iz ovih oblasti i vrši druge poslove utvrđene Statutom i drugim propisima.
