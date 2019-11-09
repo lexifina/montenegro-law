@@ -1,0 +1,10 @@
+Na osnovu člana 12 stav 5 Zakona o zdravstvenoj zaštiti bilja ("Službeni list RCG", broj 28/06 i "Službeni list CG", br. 28/11 i 48/15), Ministarstvo poljoprivrede i ruralnog razvoja donijelo je
+NAREDBU O ZABRANI UNOŠENJA BILJA RADI SPREČAVANJA UNOŠENJA I ŠIRENJA
+ŠTETNOG ORGANIZMA XYLELLA FASTIDIOSA (Wells et al.)
+1. Radi sprečavanja unošenja i širenja štetnog organizma Xylella fastidiosa (Wells et al.) zabranjeno je unošenje na teritoriju Crne Gore bilja roda Coffea namijenjenog sadnji, osim sjemena, porijeklom iz Kostarike (Costa Rica) i Hondurasa.
+2. Zabranjeno je unošenje na teritoriju Crne Gore bilja, osim sjemena, namijenjenog sadnji porijeklom iz obilježenih područja država članica Evropske unije datih u Prilogu 1 i država koje nijesu članice Evropske unije (u daljem tekstu: trećih država), u kojima je prisutan štetni organizam, osim iz područja datih u Prilogu 2.
+3. Zabrana iz tačke 2 ove naredbe, primjenjuje se na određeno bilje iz Priloga 1 Pravilnika o fitosanitarnim mjerama za sprječavanje unošenja i širenja bakterije Xylella fastidiosa (Wells et al.) ("Službeni list CG", br. 40/19 i 54/19).
+4. Bilje roda Coffea, vrsta Malva sylvestris, vrste Nerium oleander, vrste Olea europaea, vrste Polygala myrtifolia L., vrste Portulaca oleracea, vrsta Prunus dulcis i Prunus avium, roda Quercus sp., vrste Sorghum halepense, vrste Vinca resea, vrste Westringia fruticosa (Willd.) i vrste Rosmarinus officinalis, koje nije porijeklom iz područja iz tačke 2 ove naredbe, može se unositi na teritoriju Crne Gore pod uslovom da ga prati izvještaj o izvršenom molekularnom laboratorijskom ispitivanju koji nije stariji od šest mjeseci i kojim se potvrđuje da je bilje u pošiljci slobodno od štetnog organizma Xylella fastidiosa (Wells et al).
+5. Prilozi 1 i 2 čine sastavni dio ove naredbe.
+6. Danom stupanja na snagu ove naredbe prestaje da važi Naredba o zabrani unošenja bilja radi sprječavanja unošenja i širenja štetnog organizma Xylella fastidiosa (Wells et al.) ("Službeni list CG", broj 22/16).
+7. Ova naredba stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
