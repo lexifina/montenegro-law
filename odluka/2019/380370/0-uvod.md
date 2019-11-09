@@ -1,0 +1,2 @@
+Na osnovu člana 16, 24 i člana 29 stav 2 Zakona o državnoj imovini ("Službeni list Crne Gore", broj 21/09), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 02/18 i 34/19), člana 46 stav 1 tačka 9 Statuta Opštine u okviru Glavnog grada - Golubovci ("Službeni list CG - Opštinski propisi", broj 12/19), Skupština Opštine u okviru Glavnog grada - Golubovci, na IX sjednici održanoj 18.10.2019. godine, donijela je -
+ODLUKU
