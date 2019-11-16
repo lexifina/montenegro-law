@@ -1,0 +1,3 @@
+Na osnovu člana 20 stav 8 Zakona o energetici ("Službeni list CG", br. 5/16 i 51/17), Ministarstvo ekonomije donijelo je
+PRAVILNIK
+O NAČINU IZRAČUNAVANJA UŠTEDE PRIMARNE ENERGIJE IZ KOGENERACIJE I ODREĐIVANJA UKUPNOG STEPENA EFIKASNOSTI KOGENERACIONOG OBJEKTA
