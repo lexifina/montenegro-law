@@ -1,0 +1,7 @@
+# Član 13
+Djelatnost Društva je finansiranje pripreme, sprovođenja i razvoja programa, projekata i sličnih aktivnosti u oblasti očuvanja, održivog korišćenja, zaštite i unaprjeđivanja životne sredine, energetske efikasnosti i korišćenja obnovljivih izvora i energije na državnom i lokalnom nivou, i to:
+- sprovođenje nacionalnih strateško - planskih dokumenata iz područja zaštite životne sredine, održivog razvoja i energetske efikasnosti;
+- posredovanje u vezi sa finansiranjem zaštite životne sredine, energetske efikasnosti i obnovljivih izvora energije iz sredstava obezbijeđenih iz kredita, donacija i pomoći, instrumenata, programa i fondova Evropske unije, Ujedinjenih nacija i međunarodnih organizacija, stranih ulaganja namijenjenih zaštiti životne sredine, od stranih država, finansijskih institucija i domaćih i stranih pravnih i fizičkih lica;
+- vođenje baze podataka o programima, projektima i sličnim aktivnostima u području zaštite životne sredine i energetske efikasnosti, potrebnim i raspoloživim finansijskim sredstvima za njihovo ostvarivanje;
+- uspostavljanje i ostvarivanje saradnje sa međunarodnim i domaćim finansijskim institucijama i drugim pravnim i fizičkim licima, radi finansiranja zaštite životne sredine i energetske efikasnosti, u skladu sa nacionalnim strateško-planskim dokumentima iz oblasti zaštite životne sredine, energetske efikasnosti i obnovljivih izvora energije; i
+- druge poslove koji se odnose na finansiranje zaštite životne sredine i energetske efikasnosti.
