@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti "Crnogorskom elektrodistributivnom sistemu" d.o.o. Podgorica za zasnivanje stvarne službenosti radi polaganja priključnog 10kV podzemnog kablovskog voda
+Opština Šavnik, daje saglasnost "Crnogorskom elektrodistributivnom sistemu" d.o.o. Podgorica, za zasnivanje stvarne službenosti, radi polaganja priključnog 10kV podzemnog kablovskog voda i uzemljenja, na dijelu katastarske parcele broj 1271/1, u površini od 35 m2 iz lista nepokretnosti broj 206 KO Tušinja i dijelu katastarske parcele broj 1273/4, u površini od 15 m2 iz lista nepokretnosti broj 206 KO Tušinja, upisane kao svojina Države Crne Gore sa pravom raspolaganja Opštine Šavnik.
