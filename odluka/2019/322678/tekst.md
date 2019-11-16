@@ -1,0 +1,7 @@
+Komisija za tržište kapitala (u daljem tekstu: Komisija) na osnovu člana 7 stav 3 Zakona o sprječavanju pranja novca i finansiranja terorizma ("Sl. list Crne Gore", br. 33/14, 44/18) (u daljem tekstu: ZSPNFT) i Pravilnika o smjernicama za izradu analize rizika i faktorima rizika radi sprječavanja pranja novca i finansiranja terorizma ("Sl. list Crne Gore", br. 65/18), na 81. sjednici od 31.10.2019. godine donosi
+ODLUKU O USVAJANJU SMJERNICA ZA PRISTUP ZASNOVAN NA RIZIKU I IZRADU ANALIZE RIZIKA OD PRANJA NOVCA I FINANSIRANJA TERORIZMA KOD UČESNIKA NA TRŽIŠTU KAPITALA
+1. Usvajaju se Smjernice za pristup zasnovan na riziku i izradu analize rizika od pranja novca i finansiranja terorizma kod učesnika na tržištu kapitala (u daljem tekstu: Smjernice).
+2. Smjernice iz tačke 1 čine sastavni dio ove Odluke, a dostupne su na internet stranici Komisije.
+3. Obveznici Komisije iz člana 94 stav 1 tačka 3 ZSPNFT-a dužni su da interne akte za analizu rizika, politike i program za sprovođenje mjera sprječavanja pranja novca i finansiranja terorizma sačine/usklade sa Smjernicama iz tačke 1 ove Odluke, kao i da sprovedu ostale aktivnosti neophodne za obezbjeđivanje njihove primjene u roku od 60 dana od dana stupanja na snagu ove Odluke.
+4. Danom stupanja na snagu ove Odluke prestaju da važe Smjernice za analizu rizika radi sprječavanja pranja novca i finansiranja terorizma kod učesnika na tržištu hartija od vrijednosti br. 01/1-121/1-15 od 30. januara 2015. godine.
+5. Ova Odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
