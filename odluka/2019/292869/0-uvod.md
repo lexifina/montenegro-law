@@ -1,0 +1,2 @@
+Na osnovu člana 8. Zakona o budžetu i fiskalnoj odgovornosti ( Sl.list Crne Gore" br. 20/14, 56/14, 70/17, 4/18 - odluka US i 55/18), člana 31 Zakona o finansiranju lokalne samouprave ("Sl. list CG" br.03/19) i člana 42.stav 1.tačka 6.Statuta Opštine Ulcinj ( Sl.list CG" - opštinski propisi", br. 05/07, 9/09 i 16/11) Skupština Opštine Ulcinj na sjednici održane dana 31.10.2019. godine donosi :
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O BUDŽETU OPŠTINE ULCINJ ZA 2019. GODINU
