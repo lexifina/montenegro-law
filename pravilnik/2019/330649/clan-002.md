@@ -1,0 +1,7 @@
+# Član 2
+Razvojni projekti u oblasti prerađivačke industrije, po osnovu kojih se može steći crnogorsko državljanstvo prijemom, treba da ispunjavaju sljedeće uslove:
+- da se ulaganje vrši u izgradnju novih industrijskih kapaciteta ili proširenje/rekonstrukciju postojećih kapaciteta;
+- da je ulaganje u izgradnju novih industrijskih kapaciteta u minimalnom iznosu investicije od 5.000.000,000 eura u primorskom regionu ili Glavnom gradu Podgorica ili minimum investicije u iznosu od 3.500.000,000 eura u sjevernom ili središnjem regionu, osim Glavnog grada Podgorica;
+- da je ulaganje u proširenje/rekonstrukciju postojećih industrijskih kapaciteta, minimalni iznos investicije od 3.000.000,000 eura u primorskom regionu ili Glavnom gradu Podgorica ili minimum investicije u iznosu od 2.000.000,000 eura u sjevernom ili središnjem regionu, osim Glavnog grada Podgorica;
+- da će razvojni projekat koji se odnosi na izgradnju novih industrijskih kapaciteta zapošljavati najmanje 40 zaposlenih u primorskom regionu ili Glavnom gradu Podgorica ili najmanje 30 zaposlenih u sjevernom ili središnjem regionu, osim Glavnog grada Podgorica;
+- da će razvojni projekat koji se odnosi na proširenje/rekonstrukciju postojećih industrijskih kapaciteta zapošljavati najmanje 25 novozaposlenih, u primorskom regionu ili Glavnom gradu Podgorica ili najmanje 20 novozaposlenih u sjevernom ili središnjem regionu, osim Glavnog grada Podgorica.
