@@ -1,0 +1,6 @@
+# Član 23
+Komunalne djelatnosti mogu na opštem parkiralištu na kojem se vrši naplata parkiranja, izuzetno, odobriti rezervaciju parking mjesta državnim organima, organima Opštine Tuzi, javnim službama, diplomatskim i drugim stranim predstavnicima, drugim pravnim licima i preduzetnicima, u zavisnosti od raspoloživih kapaciteta, vremena korišćenja i drugih okolnosti od značaja po cjenovniku usluga, a na osnovu predhodno pribavljene saglasnosti Sekretarijata za planiranje, uređenje prostora i komunalne poslove Opštine Tuzi.
+Rezervaciju parking mjesta na opštem parkiralištu, Komunalne djelatnosti, mogu odobriti i licima sa invaliditetom iz člana 18. stava 1. ove Odluke.
+Odobrenje o rezervaciji parking mjesta iz stava 1. i 2. ovog člana, izdaje se sa rokom važenja do jedne godine.
+Odobrenje o rezervaciji parking mjesta može se produžiti nakon isteka roka iz stava 3. ovog člana, ako korisnik parking mjesta najkasnije u roku od 10 dana prije isteka roka važenja odobrenja o rezervaciji, podnese zahtjev za produženje Komunalnim djelatnostima.
+Komunalne djelatnostiće u skladu sa rješenjem Sekretarijata za planiranje, uređenje prostora i komunalne poslove Opštine Tuzi obezbijediti korišćenje otvorenih parkirališta za potrebe taksi stajališta.

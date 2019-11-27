@@ -1,0 +1,4 @@
+# Član 19
+Sekretarijat za planiranje, uređenje prostora i komunalne poslove Opštine Tuzi, dužan je na opštem parkiralištu da odredi najmanje 5% parking mjesta za vozila lica sa 80% ili više procenata tjelesnog oštećenja ili tjelesnog invaliditeta, odnosno lica kod kojih je usljed tjelesnog oštećenja ili tjelesnog invaliditeta utvrđena nesposobnost donjih ekstremiteta od 60% ili više procenata, vozila koja koriste djeca sa tjelesnom, mentalnom i senzornom ometenošću i koja ostvaruju pravo na ličnu invalidninu ili pravo na dodatak za njegu i pomoć, kao i vozila udruženja ovih lica.
+Komunalne djelatnostisu dužne su da na posebnom parkiralištu odrede najmanje 5% parking mjesta za vozila lica iz stava 1. ovog člana.
+Vozilo lica iz stava 1. i 2. ovog člana, označava se znakom pristupačnosti koji izdaje Sekretarijat za planiranje, uređenje prostora i komunalne poslove Opštine Tuzi, u skladu sa propisom o bezbjednosti saobraćaja na putevima.
