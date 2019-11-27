@@ -1,0 +1,2 @@
+# Član 12
+Organi Opštine su dužni obezbijedit da se o pitanjima od šireg značaja u postupku donošenja odluka od neposrednog i zajedničkog interesa kao što su: razvojni programi Opštine, srednjoročni programi uređenja gradskog građevinskog zemljišta, Prostorni plan Opštine, GUP i slično, uključi što šira javnost (stanovništvo, privredni subjekti i preduzetnici, nevladine i druge organizacije i zainteresovane grupe i sl.)

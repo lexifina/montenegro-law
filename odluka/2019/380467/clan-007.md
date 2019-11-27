@@ -1,0 +1,2 @@
+# Član 7
+Organ opštine dužan je da omogući učešće lokalnog stanovništva u vršenju javnih poslova i putem postavljanja kutije za primjedbe, prijedloge i sugestije, na vidnom mjestu u okviru zgrade opštine, obavještavanjem preko veb sajtova,postavljanjem dežurnih telefona, organizovanjem radionica u mjesnim zajednicama, gostovanjem predavača, organizovanjem stručni skupova, okruglih stolova, medija planovi i sl.
