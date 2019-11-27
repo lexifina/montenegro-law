@@ -1,0 +1,27 @@
+# Član 2
+Pod poljskom štetom u smislu ove odluke podrazumijeva se uništavanjem ili oštećenjem usjeva, sadnica, stabala, pašnjaka, livada i poljoprivredne mehanizacije koje nastaju usled:
+1. Napasanja stoke na imanjima drugih vlasnika bez saglasnosti vlasnika,
+2. Progona i prevoza stoke, poljoprivrednih proizvoda i oruđa, mašina i alata za rad preko
+poljoprivrednih imanja, bez odobrenja vlasnika,
+3. Nepravilnog korišćenja sezonskih puteva,
+4. Uklanjanje graničnih međa i međaša,
+5. Skretanje vode, vodotoka i bujičnih potoka preko imanja drugih vlasnika bez odobrenja
+vlasnika,
+6. Oštećenje ili uništavanje poljoprivredne mehanizacije na imanjima,
+7. Rušenje i oštećenje koliba, torova i sl.
+8. Prevoz drveta, kamena i dr. preko poljoprivrednog zemljišta,
+9. Sječa, lomljenje ili bilo koji drugi način uništavanja voćnjaka, sadnica ili drugih
+poljoprivrednih kultura,
+10. Puštanje stoke, odnosno živine po zasijanim površinama ili drugom poljoprivrednom
+zemljištu, gdje se može pričiniti šteta,
+11. Vađenje kamena, šljunka i drugog materijala kojim se pričinjava šteta na
+poljoprivrednom zemljištu,
+12. Zloupotreba tuđe stoke,
+13. Sprečavanje korišćenja seoskih puteva i progona bez ovlašćenja,
+14. Sprečavanje korišćenja seoskih pojila i dr. zajedničkih vodopoja i njihovo rušenje i
+zagrađivanje,
+15. Rušenje i oštećenje kanala za navodnjavanje, /jazova/, kao i sadnja i uzgajanje
+šumskih kultura u neposrednoj blizini jazova za navodnjavanje koji bi smetali
+normalnom protoku vode,
+16. Izgradnja građevinskih objekata, ograda i prepreka, kako na jazu, tako i pored njega,
+17. Sve druge samovoljne radnje kojima se sprečava šteta na poljoprivrednom zemljištu.
