@@ -1,0 +1,3 @@
+Na osnovu člana 34 i člana 40 Zakona o državnoj imovini ("Sl. list CG" br. 21/09, 40/11), člana 38 Zakona o lokalnoj samoupravi ("Sl. list RCG" br. 2/18, 34/19), člana 1 Zakona o eksproprijaciji (,,Sl. list RCG", br. 55/00, 12/02, 28/06 i "Sl. list CG", br. 21/08, 30/17, 75/18) i člana 19 i člana 36 Statuta Opštine Kotor ("Sl. list CG - opštinski propisi" br. 37/19), Skupština Opštine Kotor na XXXI sjednici održanoj 06. 11. 2019. godine donijela je
+ODLUKU
+o izmjenama i dopunama Odluke o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi privođenja namjeni zemljišta planiranog za izgradnju saobraćajnice G i G1 u DSL Sektor 38: Bigova i LSL Trašte
