@@ -1,0 +1,2 @@
+# Član 3
+Obveznici plaćanja naknade su pravna lica i preduzetnici koji obavljaju određene aktivnosti na teritoriji opštine Pljevlja koje utiču ili mogu uticati na životnu sredinu i za koje je obavezna ili se može zahtijevati procjena uticaja na životnu sredinu u skladu sa Uredbom o projektima za koje se vrši procjena uticaja na životnu sredinu ("Službeni list RCG", broj 20/07 i "Službeni list CG", br. 47/13, 53/14 i 37/18) (sa liste I tačka 2 podtačka c i tačka 3 podtačka a i liste II tačka 3 podtačka a).

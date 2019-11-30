@@ -1,0 +1,2 @@
+Na osnovu člana 79 Zakona o životnoj sredini ("Službeni list CG", broj 52/16), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19), člana 7 stav 1 tačka 9 Zakona o finansiranju lokalne samouprave ("Službeni list CG", broj 3/19) i člana 40 stav 1 tačka 2 Statuta Opštine Pljevlja ("Službeni list CG - opštinski propisi", broj 46/18), Skupština opštine Pljevlja na sjednici od 14.11.2019. godine, uz saglasnost Vlade Crne Gore, donijela je
+ODLUKU O VISINI I NAČINU PLAĆANJA NAKNADE ZA ZAŠTITU I UNAPREĐIVANJE ŽIVOTNE SREDINE OPŠTINE PLJEVLJA
