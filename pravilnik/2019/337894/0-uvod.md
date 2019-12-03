@@ -1,0 +1,2 @@
+Na osnovu čl. 116 i 177 tačka 5 Zakona o osiguranju ("Službeni list RCG", br. 78/06 i 19/07, "Službeni list RCG", br. 53/09, 73/10, 40/11, 45/12, 06/13 i 55/16), na 287. sjednici od 22. 11. 2019. godine, Savjet Agencije za nadzor osiguranja donosi
+PRAVILNIK O SADRŽINI I NAČINU VOĐENJA REGISTARA PODATAKA O DRUŠTVIMA ZA OSIGURANJE I DRUGIM SUBJEKTIMA KOJI PODLIJEŽU KONTROLI AGENCIJE ZA NADZOR OSIGURANJA
