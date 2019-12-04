@@ -1,0 +1,3 @@
+# Član 148
+Opština stvara uslove, podstiče i pomaže učešće lokalnog stanovništva u ostvarivanju lokalne samouprave putem različitih oblika učešća stanovništva u izjašnjavanju i odlučivanju o poslovima od zajedničkog interesa.
+Građani neposredno učestvuju u izjašnjavanju i odlučivanju i to: inicijativom, građanskom incijativom, na zboru građana i referendumom (opštinski i mjesni).

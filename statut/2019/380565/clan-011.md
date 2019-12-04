@@ -1,0 +1,4 @@
+# Član 11
+Organi opštine, organi lokalne uprave, javnih ustanova i preduzeća čiji je osnivač Opština, su obavezni da obezbijede korišćenje jezika i pisma iz prethodnog člana u upravnom i sudskom postupku, kod izdavanja javnih isprava i vođenja službene evidencije, svih akata vezanih za izborno pravo, izražavanje, čuvanje, njegovanje i razvijanje i javno ispoljavanje nacionalne, etničke, kulturne i vjerske posebnosti u skladu sa Zakonom.
+Imena organa koja vrše javna ovlašćenja, naziv opštine, naziv naseljenih mjesta, trgova, ulica, ustanova, poslovnih i drugih firmi i toponima mjesta ispisuju se i na jeziku i pismu iz člana 10. ovog Statuta.
+Ravnopravnost crnogorskog i albanskog jezika i pisma u javnom životu obezbjeđuje se u postupku pred javnim ustanovama, školama, preduzećima i svim subjektima koja vrše javna ovlašćenja i u svim sadržajima javnog života (zborovi građana, skupovi, proglasi i sl.).

@@ -1,0 +1,4 @@
+# Član 4
+Opština je samostalna teritorijalna jedinica u kojoj građani ostvaruju lokalnu samoupravu u skladu sa zakonom, Statutom, kao i Evropskom poveljom o lokalnoj samoupravi.
+Teritorija opštine je utvrđena zakonom i obuhvata Ulcinj kao naselje gradskog karaktera i naselja: Ambula, Bijela Gora, Bratica, Briska Gora, Bojke, Brajše, Vladimir, Gornji Štoj, Gornja Klezna, Donji Štoj, Donja Klezna, Darza, Draginje, Đerane, Žej, Zoganje, Krute Ulcinjske, Krute, Kruče, Kolomza, Kodra, Kosići, Kaliman, Kravari, Leskovac, Lisnabore, Mide, Međureč, Pistula, Reč, Raštiš, Sukobin, Suma, Salč, Sutjel, Sveti Đorđe, Ćurke, Fraskanjel, Šas, Štodra, Selita, Donji Raštiš, Đonza, Donji Kravar i druga naselja utvrđena posebnom odlukom Skupštine opštine.
+Teritorija i naziv opštine mogu se promijeniti u postupku utvrđenom zakonom.
