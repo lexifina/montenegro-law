@@ -1,0 +1,2 @@
+# Član 5
+Sastavni dio ove Odluke je Ugovor o usaglašavanju dužničko-povjerilačkih odnosa i Anex br.1 navedenog ugovora zaključeni između VK "Primorac" Kotor "Primorje" AD Tivat Hotel & restoraunts, informacija o aktivnostima Opštine Kotor na regulisanju međusobnih odnosa sa VK "Primorac" Kotor, izjave osnivača ovjerene kod notara o prenosu svojih udjela u Klubu na Opštinu Kotor i predlog ugovora o promjeni vlasničke strukture u VK "Primorac" Kotor.
