@@ -1,0 +1,2 @@
+# Član 1
+Produžava se koncesija za priređivanje posebnih igara na sreću u kazinu "Casino Royal Splendid", na lokaciji hotel "Splendid", Bečići bb, Budva, koncesionara - privrednog društva Džek Pot DOO, sa sjedištem u Podgorici, dodijeljena Odlukom Vlade Crne Gore broj 03-13058 od 17. decembra 2009. godine ("Službeni list Crne Gore", broj 6/10), za period od pet godina, počev od dana isteka Ugovora o koncesiji za priređivanje posebnih igara na sreću u kazinu "Marina" - Budva, broj 02/01-152/1 od 17. februara 2010. godine, zaključno sa 15. februarom 2025. godine.
