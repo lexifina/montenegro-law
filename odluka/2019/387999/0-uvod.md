@@ -1,0 +1,3 @@
+Na osnovu člana 17 stav 1 i 2 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18 i 34/19) i člana 46 stav 1 tačka 2 Statuta Opštine u okviru Glavnog grada Golubovci ("Službeni list Crne Gore- opštinski propisi", br. 12/19), Skupština Opštine u okviru Glavnog grada-Golubovci, uz prethodnu saglasnost Ministarstva finansija br. 03-15547/1 od 30.10.2019. godine, na sjednici održanoj dana 29.11.2019. godine, donijela je-
+ODLUKU
+o dodatku na zaradu zaposlenih u Javnoj ustanovi "Centar za pružanje usluga iz oblasti socijalne i dječije zaštite za
