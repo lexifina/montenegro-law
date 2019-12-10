@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 i 4 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/2018 i 34/2019), člana 6 stav 1 Zakona o socijalnom stanovanju ("Sl. list CG", br. 35/2013), člana 36 stav 1 tačka 2 i 4 Statuta Opštine Kotor ("Službeni list CG - Opšinski propisi" br 37/19), uz predhodno dobijenu saglasnost Ministarstva održivog razvoja i turizma, broj 111-42/23 od 21.10.2019. godine, Skupština Opštine Kotor , na XXXII sjednici održanoj 18. 11. 2019. godine, donjela je
+O D L U K U
