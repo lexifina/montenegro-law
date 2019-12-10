@@ -1,0 +1,3 @@
+# Član 1
+## o izmjenama i dopunama Odluke o kupovini zemljišta - kat.parc. 16/3 K.O. Lješevići radi privođenja namjeni saobraćajnice planirane LSL Grbalj II
+Mijenja se član 3 Odluke u dijelu koji se odnosi na neraspoređena novčana sredstva u iznosu od 16.133,58 eura, na način što se određuje da se ista neće isplaćivati vlasniku zemljišta već će se kompenzovati na teret dijela potraživanja Opštine Kotor po osnovu poreza na nepokretnosti koja po obračunu za 2017. godinu iznose 20.145,42 eur i za 2018. godinu 19.476,76 eur, što čini ukupan iznos od 39.622,18 eur, shodno dopisu Sekretarijata za lokalne prihode, budžet i finansije br. 04-16223/1 od 31.10.2019. godine.
