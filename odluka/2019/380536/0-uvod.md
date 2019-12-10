@@ -1,0 +1,2 @@
+Na osnovu člana 18 stav 2 Zakona o kulturi ("Službeni list Crne Gore", br. 49/08 i 40/11), člana 54 stav 1 tačka 58 Statuta Glavnog grada ("Službeni list Crne Gore - opštinski propisi", broj 8/19) i člana 17 Odluke o osnivanju Javne ustanove "Gradsko pozorište" Podgorica ("Službeni list RCG - opštinski propisi", br. 27/02 i 2/03 i "Službeni list Crne Gore - opštinski propisi", broj 28/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 28. novembra 2019. godine, donijela je
+ODLUKU
