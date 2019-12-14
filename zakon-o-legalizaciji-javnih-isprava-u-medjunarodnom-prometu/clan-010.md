@@ -1,0 +1,3 @@
+# Član 10
+O ovjeri domaće javne isprave sačinjava se potvrda na toj ispravi ili na posebnom listu koji mora biti spojen sa tom ispravom jemstvenikom čiji se krajevi na zadnjoj strani pričvršćuju pečatnim voskom ili ljepljivom trakom i ovjeravaju pečatom nadležnog suda, Ministarstva i organa državne uprave nadležnog za vanjske poslove, odnosno diplomatsko-konzularnog predstavništva.
+Potvrda nadležnog suda, Ministarstva i organa državne uprave nadležnog za vanjske poslove, odnosno diplomatsko-konzularnog predstavništva sadrži: naziv i sjedište organa koji je izvršio ovjeru; oznaku pod kojom je ovjera upisana u upisnik iz člana 15 ovog zakona; datum izvršene ovjere; iznos naplaćene takse za izvršenu ovjeru, potpis službenog lica koje je izvršilo ovjeru i pečat organa.

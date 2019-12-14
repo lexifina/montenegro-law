@@ -1,0 +1,7 @@
+# Član 7
+Ovjeru domaćih javnih isprava, na zahtjev zainteresovanog lica, vrši nadležni sud.
+Autentičnost potpisa lica koje je potpisalo domaću javnu ispravu i autentičnost pečata javnopravnog organa koji je izdao tu ispravu, službeno lice u nadležnom sudu utvrđuje na osnovu potpisa tog lica i pečata javnopravnog organa koji su deponovani u nadležnom sudu.
+Nakon izvršene ovjere iz stava 1 ovog člana, zainteresovano lice dostavlja domaću javnu ispravu Ministarstvu radi ovjere potpisa službenog lica u nadležnom sudu koje je izvršilo ovjeru domaće javne isprave i pečata nadležnog suda.
+Autentičnost potpisa službenog lica u nadležnom sudu koje je izvršilo ovjeru domaće javne isprave i pečata nadležnog suda službeno lice u Ministarstvu utvrđuje na osnovu potpisa tog lica i pečata nadležnog suda koji su deponovani u Ministarstvu.
+Domaću javnu ispravu, nakon izvršene ovjere iz stava 3 ovog člana, zainteresovano lice dostavlja organu državne uprave nadležnom za vanjske poslove, odnosno diplomatskom ili konzularnom predstavništvu Crne Gore u drugoj državi (u daljem tekstu: diplomatsko-konzularno predstavništvo) u kojoj će se domaća javna isprava upotrijebiti, radi ovjere potpisa službenog lica u Ministarstvu i pečata Ministarstva.
+Autentičnost potpisa službenog lica u Ministarstvu koje je izvršilo ovjeru domaće javne isprave i pečata Ministarstva utvrđuje se na osnovu potpisa tog lica i pečata Ministarstva koji su deponovani u organu državne uprave nadležnom za vanjske poslove.
