@@ -1,0 +1,4 @@
+# Član 7
+Rješenje o oglašavanju izdaje D.o.o. "Mediteran reklame", na osnovu zahtjeva pravnog ili fizičkog lica sa priloženom tehničkom i drugom dokumentacijom oglasne poruke (skica reklamnog objekta sa lokacijom, dimenzijama, geometrijskim karakteristikama i tehničkim opisom, statički proračun, prikaz natpisa u prirodnoj boji i dr.) ili po službenoj dužnosti u skladu sa zakonom.
+Oglasne poruke odnosno površine moraju ispunjavati tehničke uslove koje utvrđuje nadležni organ lokalne samouprave.
+Prije izdavanja rješenja o oglašavanju neophodno je pribaviti rješenje o davanju saobraćajne saglasnosti izdato od strane organa uprave nadležnog za poslove saobraćaja, kao i saglasnost vlasnika parcele/objekta ukoliko se oglasna poruka nalazi na privatnom zemljištu ili se postavlja na privatnom građevinskom objektu.

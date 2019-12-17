@@ -1,0 +1,2 @@
+# Član 5
+Oglasne poruke odnosno površine na teritoriji opštine Budva mogu se postavljati na području koje se nalazi u granicama važećih planskih dokumenata, nezavisno od njegovog imovinsko-pravnog statusa. Dakle, postavljanje oglasne poruke na javnoj površini ili građevinskim objektima i njihovim sastavnim djelovima i drugim površinama, koje u skladu sa posebnim Zakonima uredjuje organ lokalne samouprave ukoliko su vidljive sa javne površine, jednako podliježu naplati lokalne komunalne takse.

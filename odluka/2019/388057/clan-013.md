@@ -1,0 +1,3 @@
+# Član 13
+Oglašivač, odnosno korisnik oglasne površine dužan je da u roku od 48 sati od dana prestanka obavljanja djelatnosti, odnosno od dana preseljenja iz objekta u kome je obavljao djelatnost, ukloni oglasnu površinu odnosno poruku i o tome obavijesti nadležni organ lokalne samouprave. U suprotnom, oglasna površina, koja je ostala vidno istaknuta i nakon zatvaranja poslovne jedinice, podliježe utvrđivanju i naplati lokalne administrativne takse.
+Sezonski korisnici, ukoliko obavljaju djelatnost i u narednoj godini, ne moraju uklanjati oglasne površine iz prethodnog stava, ali iste ne mogu biti istaknute duže od 8 mjeseci od zatvaranja objekta.
