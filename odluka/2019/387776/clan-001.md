@@ -1,0 +1,3 @@
+# Član 1
+## o davanju ovlašćenja predsjedniku Opštine
+Ovlašćuje se Predsjednik opštine Budva da u ime Opštine Budva preduzme sve potrebne mjere i radnje radi realizacije Kupoprodajnog Ugovora zaključenog između RO u osnivanju "Stari Grad" i Bogosavljević Aleksandra, odnosno da pred nadležnim organom da klauzulu intabulandi za uknjižbu Pavlović Aleksandra (po osnovu Ugovora o kupoprodaji ovjerenog pred Prvim opštinskim sudom u Beogradu Ov br 18371/90 od 12.10.1990.godine), na stanu koji se nalazi u potkrovlju zgrade br. 5, izgrađene na katastarskoj parceli 1750/1 KO Budva i upisane u list nepokretnosti broj 1048 KO Budva , površine 65m².
