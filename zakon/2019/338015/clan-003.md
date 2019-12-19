@@ -1,0 +1,9 @@
+# Član 3
+Član 33 mijenja se i glasi:
+"Ako umrlo lice prije smrti nije dalo pisanu saglasnost, odnosno pisanu izjavu iz čl. 32 i 32b ovog zakona, pisanu saglasnost za uzimanje organa od tog lica radi presađivanja drugom licu u svrhu liječenja može dati član uže porodice, na način propisan ovim zakonom.
+Kada bolnički koordinator, uvidom u registre iz člana 32c ovog zakona, utvrdi da umrlo lice prije smrti nije dalo pisanu saglasnost, odnosno pisanu izjavu iz stava 1 ovog člana, dužan je da odmah pozove jednog od članova uže porodice, po redosljedu iz člana 11 stav 1 tačka 13 ovog zakona, i da ga informiše o pravu da se sa uzimanjem organa od umrlog lica saglasi ili da odbije davanje pisane saglasnosti, kao i o pravu da pisanu saglasnost može da opozove ili izmijeni, do momenta pripreme tog lica za uzimanje organa, o čemu obavještava bolnički koordinacioni tim.
+Članu uže porodice iz stava 2 ovog člana ostavlja se razuman rok, odnosno vrijeme da donese odluku, koje ne smije da ugrozi mogućnost uzimanja organa i njihovu bezbjednost radi presađivanja drugom licu.
+O radnjama iz st. 1, 2 i 3 ovog člana, bolnički koordinator je dužan odmah da sačini zabilješku, koja se čuva u medicinskoj dokumentaciji.
+Bolnički koordinator dužan je da pisanu saglasnost iz stava 1 ovog člana, odnosno izjavu o njenom opozivu ili izmjeni dostavi Ministarstvu odmah, a najkasnije prvog narednog radnog dana nakon davanja i da istovremeno o tome sačini zabilješku, koja se čuva u medicinskoj dokumentaciji.
+Ministarstvo vodi registar saglasnosti i izjava iz stava 2 ovog člana, kao i registar davalaca.
+Postupak davanja, sadržinu i obrazac pisane saglasnosti i izjave iz stava 2 ovog člana, način njihovog dostavljanja Ministarstvu, sadržinu i način vođenja registara iz stava 6 ovog člana, kao i druga pitanja od značaja za ove postupke propisuje Ministarstvo."
