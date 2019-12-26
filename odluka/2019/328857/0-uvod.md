@@ -1,0 +1,2 @@
+Na osnovu člana 17 stav 1 alineja 1 Statuta Komore fizioterapeuta Crne Gore ("Službeni list Crne Gore", broj 44/17 i 39/18), Skupština Komore fizioterapeuta Crne Gore, na sjednici održanoj, dana 16. decembra 2019. godine, donijela je
+O D L U K U O IZMJENAMA I DOPUNAMA PRAVILNIKA O KONTINUIRANOJ EDUKACIJI I NAČINU VREDNOVANJA SVIH OBLIKA STRUČNOG USAVRŠAVANJA FIZIOTERAPEUTA I FIZIOTERAPEUTSKIH TEHNIČARA
