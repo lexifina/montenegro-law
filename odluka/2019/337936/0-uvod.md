@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 4 Zakona o zaštiti prirode ("Službeni list CG", broj 54/16) na predlog Skupštine opštine Danilovgrad i Skupštine Glavnog grada Podgorica, po prethodno pribavljenom mišljenju Ministarstva održivog razvoja i turizma broj 112-534/32 od 29.11.2019.godine, Ministarstva poljoprivrede i ruralnog razvoja broj 327-255/19-3 od 28.11.2019.godine, i Ministarstva kulture broj 01-4349/4 od 4.12.2019.godine, Vlada Crne Gore na sjednici od 5. decembra 2019.godine, donijela je
+ODLUKU O PROGLAŠENJU PARKA PRIRODE "RIJEKA ZETA"
