@@ -1,0 +1,4 @@
+# Član 11
+Prije pregleda iz člana 10 ovog pravilnika, lice koje vrši poslove zaštite će zatražiti od lica koje ulazi ili izlazi iz štićenog objekta ili prostora, odnosno od lica koje upravlja vozilom, odnosno plovilom da mu omogući vršenje pregleda.
+U slučaju da lice koje ulazi u štićeni objekat ili prostor odbije da se podvrgne pregledu, odnosno odbije da se izvrši pregled vozila, odnosno plovila kojim upravlja, lice koje vrši poslove zaštite tom licu neće dozvoliti ulazak u štićeni objekat ili prostor.
+U slučaju da lice koje izlazi iz štićenog objekta ili prostora odbije da se podvrgne pregledu, odnosno odbije da se izvrši pregled vozila, odnosno plovila kojim upravlja, kao i u slučaju da lice koje može ugroziti život i bezbjednost štićenog lica odbije da se podvrgne pregledu, lice koje vrši poslove zaštite postupiće na način iz člana 8 stav 5 ovog pravilnika.

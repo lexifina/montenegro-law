@@ -1,0 +1,5 @@
+# Član 7
+Lice koje vrši poslove zaštite, prije utvrđivanja identiteta lica u skladu sa Zakonom o zaštiti lica i imovine (u daljem tekstu: Zakon), usmeno se obraća licu čiji identitet se utvrđuje sa zahtjevom da stavi na uvid ličnu kartu ili drugu javnu ispravu sa fotografijom na osnovu koje se može utvrditi identitet.
+Na zahtjev lica čiji se identitet utvrđuje, lice koje vrši poslove zaštite dužno je da ga upozna sa razlozima utvrđivanja identiteta.
+Ako lice koje ulazi u štićeni objekat ili štićeni prostor odbije da stavi na uvid ličnu kartu ili drugu javnu ispravu sa fotografijom na osnovu koje se može utvrditi identitet, lice koje vrši poslove zaštite tom licu neće dozvoliti ulazak u štićeni objekat ili štićeni prostor.
+Ako je lice čiji se identitet utvrđuje zatečeno u izvršenju krivičnog djela ili prekršaja na području štićenog objekta ili štićenog prostora, odnosno ako to lice može ugroziti život i bezbjednost štićenog lica, lice koje vrši poslove zaštite će ga zadržati u skladu sa Zakonom, i o tome, bez odlaganja, obavijestiti organ uprave nadležan za policijske poslove (u daljem tekstu: policija).
