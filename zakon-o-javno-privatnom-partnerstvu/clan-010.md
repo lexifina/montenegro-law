@@ -1,0 +1,10 @@
+# Član 10
+## Koncesija za javne radove ili koncesija za javne usluge
+Ugovor iz člana 9 stav 1 tačka 1 ovog zakona može se realizovati kao koncesija za javne radove ili koncesija za javne usluge.
+Ugovor o koncesiji za javne radove zaključuje se, radi ostvarivanja javnog i finansijskog interesa, a kojim javni partner ili više njih povjerava izvođenje radova uz naknadu koja se sastoji isključivo od prava na korišćenje radova koji su predmet ugovora ili od tog prava i plaćanja.
+Ugovor o koncesiji za javne usluge zaključuje se, radi ostvarivanja javnog i finansijskog interesa, a kojim javni partner ili više njih povjerava pružanje i upravljanje uslugama koje nijesu izvođenje radova iz stava 2 ovoga člana privatnom partneru uz naknadu koja se sastoji isključivo od prava na korišćenje usluga koje su predmet ugovora ili od tog prava i plaćanja.
+Davanje koncesije za javne radove ili koncesije za javne usluge uključuje i prenos na privatnog partnera operativnog rizika u korišćenje tih radova ili usluga, koji obuhvata rizik potražnje i/ili rizik ponude.
+Prenos dijela operativnog rizika podrazumijeva stvarno izlaganje promjenama na tržištu, tako da procijenjeni gubitak koji je pretrpio privatni partner nije simboličan i zanemariv.
+Operativnim rizikom iz stava 4 ovog člana smatra se rizik izloženosti privatnog partnera tržišnim uslovima na način da privatnom partneru od strane javnog partnera nije zagarantovano da će, u uobičajenim uslovima rada, posredno ili neposredno, ostvariti povrat uloženih sredstava ili troškova nastalih u izvođenju radova ili pružanju usluga koje su predmet koncesije.
+Rizik potražnje iz stava 4 ovog člana, obuhvata promjenljivost potražnje na tržištu za radovima i uslugama koji su predmet ugovora o javno-privatnom partnerstvu (viši ili niži od očekivanog koji je predviđen ugovorom).
+Rizik ponude iz stava 4 ovog člana, obuhvata rizik povezan sa izvođenjem radova ili pružanjem usluga koji su predmet ugovora, posebno kada izvođenje tih radova, odnosno pružanje usluga ne odgovara potražnji.

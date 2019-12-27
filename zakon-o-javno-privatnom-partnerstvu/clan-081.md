@@ -1,0 +1,7 @@
+# Član 81
+## Pravo svojine i upravljanje imovinom
+Objekti, uređaji i postrojenja izgrađeni u skladu sa ugovorom o javno-privatnom partnerstvu, uključujući i uvećanu vrijednost objekta u državnoj su svojini, ako ugovorom o javno-privatnom partnerstvu u skladu sa zakonom nije drugačije utvrđeno.
+Privatni partner dužan je da objekat, uređaje i postrojenja iz stava 1 ovog člana kao i sve druge predmete javno-privatnog partnerstva koji su u državnoj svojini prestankom ugovora preda bez tereta i ograničenja u stanju koje obezbjeđuje njihovo nesmetano korišćenje i funkcionisanje.
+Ako je država vlasnik nepokretne imovine koja je potrebna za izvršenje ugovora o javno-privatnom partnerstvu, javni partner je dužan da obezbijedi korišćenje te imovine, u skladu sa zakonom i ugovorom o javnom-privatnom partnerstvu.
+Ako je za realizaciju predmeta javno-privatnog partnerstva potrebno steći pravo na korišćenje prirodnih bogatstava, dobara u opštoj upotrebi ili drugih dobara od opšteg interesa u državnoj svojini, u skladu sa posebnim zakonom, međusobna prava i obaveze javnog i privatnog partnera uređuju se ugovorom o javno-privatnom partnerstvu u skladu sa ovim zakonom.
+Ako ugovorom o javno-privatnom partnerstvu nije drugačije određeno, svako ulaganje privatnog partnera u javnu infrastrukturu i objekte, odnosno uređaje i postrojenja u državnoj svojini, koji su nastali sprovođenjem ugovora o javno-privatnom partnerstvu je u državnoj imovini.
