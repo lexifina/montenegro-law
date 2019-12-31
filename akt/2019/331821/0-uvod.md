@@ -1,0 +1,2 @@
+Na osnovu člana 150 stav 2 tačka 3 Zakona o radu ("Službeni list CG", br. 49/08, 59/11, 66/12, 31/14 i 4/18) i člana 24 stav 1 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18 i 34/19) Reprezentativni sindikat đačkih i studentskih domova Crne Gore i Vlada Crne Gore zaključuju
+GRANSKI KOLEKTIVNI UGOVOR O IZMJENI GRANSKOG KOLEKTIVNOG UGOVORA ZA USTANOVE UČENIČKOG I STUDENTSKOG STANDARDA
