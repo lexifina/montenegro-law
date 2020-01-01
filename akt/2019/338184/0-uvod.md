@@ -1,0 +1,2 @@
+Na osnovu člana 150 stav 2 tačka 3 Zakona o radu ("Službeni list CG", br. 49/08, 26/09, 59/11, 66/12, 31/14 i 4/18) i člana 24 st. 1 i 5 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18 i 34/19), Sindikat Univerziteta Crne Gore, Rektor Univerziteta Crne Gore i Vlada Crne Gore, donose
+KOLEKTIVNI UGOVOR O IZMJENAMA I DOPUNAMA KOLEKTIVNOG UGOVORA ZA UNIVERZITET CRNE GORE
