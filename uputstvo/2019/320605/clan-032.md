@@ -1,0 +1,8 @@
+# Član 32
+U slučaju da se isti predmet evidentira pod dva ili više rednih brojeva treba izvršiti povezivanje tih rednih brojeva, na način što se u donjem dijelu rubrike 2 djelovodnika, odnosno upisnika ispod prvog upisanog rednog broja upisuju svi kasnije upisani redni brojevi, odnosno ispod kasnije upisanih rednih brojeva upisuju svi ranije upisani redni brojevi.
+Poslije izvršenog povezivanja podnesci, odnosno akti čine cjelinu i dalje se vode pod posljednjim upisanim rednim brojem.
+Prilikom evidentiranja prvog podneska, odnosno akta kojim se osniva predmet iz člana 27 ovog uputstva, podnesak, odnosno akt se stavlja u omot spisa (Obrazac 6) u koji se kasnije ulažu i ostali podnesci, odnosno akti istog predmeta.
+Prilikom evidentiranja prvog podneska, odnosno akta kojim se osniva upravni predmet iz člana 28 ovog uputstva, podnesak, odnosno akt se stavlja u omot spisa (Obrazac 7) u koji se kasnije ulažu i ostali podnesci, odnosno akti istog predmeta.
+U omotu spisa podnesci, odnosno akti evidentiraju se i slažu prema datumu njihovog prijema, tako da se odozgo nalazi podnesak, odnosno akt koji je primljen pod novijim datumom i evidentira u spisku podnesaka, odnosno akata u predmetu koji se nalazi na drugoj strani - poleđini omota spisa (Obrazac 8).
+Vraćene dostavnice i povratnice po kojima je dostava izvršena, ulažu se odmah u omot spisa predmeta na koji se odnose i pričvršćuju se uz akt na koji se odnose na način da se ne mogu odvojiti (heft mašina i sl.).
+Ako se kancelarijsko poslovanje vrši u elektronskom obliku vraćene dostavnice i povratnice po kojima je dostava izvršena u papirnom obliku, skeniraju se i unose u odgovarajući informacioni sistem.

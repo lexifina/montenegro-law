@@ -1,0 +1,5 @@
+# Član 31
+Podnesak, odnosno akt istog predmeta koji je kasnije primljen dobija broj tog predmeta i novi podbroj prema redosljedu kojim je evidentiran u djelovodniku, odnosno upisniku.
+Kad je kod nekog rednog broja popunjeno svih pet mjesta predviđenih za podbrojeve ili kad su popunjena mjesta za označavanje kretanja predmeta, dalje evidentiranje podneska, odnosno akta vrši se putem prenosa rednog broja, osim u slučaju ako se kancelarijsko poslovanje vrši u elektronskom obliku.
+Prenos iz stava 2 ovog člana vrši se na način što se jedinstveni klasifikacioni znak i redni broj predmeta ponovo evidentiraju u djelovodniku, odnosno upisniku, i to ispod posljednjeg rednog broja djelovodnika odnosno upisnika u vrijeme kad se prenos vrši.
+U donjem dijelu rubrike 2 djelovodnika, odnosno upisnika evidentira se redni broj kod kojeg se nastavlja evidentiranje podbrojeva i kretanje predmeta, a pored rednog broja kod kojeg je nastavljeno evidentiranje stavlja se redni broj pod kojim je predmet prvi put zaveden u djelovodniku, odnosno upisniku.

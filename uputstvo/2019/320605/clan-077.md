@@ -1,0 +1,4 @@
+# Član 77
+O svakom saopštenju primljenom ili predatom putem telefona umjesto službene prepiske između organa, u vezi sa rješavanjem predmeta, sastavlja se službena zabilješka na samom predmetu, koja sadrži: datum i vrijeme razgovora, podatke o sagovorniku, sadržinu saopštenja i potpis službenika koji je saopštenje primio, odnosno predao.
+Razmjena podataka između organizacionih jedinica istog organa vrši se, po pravilu, usmeno ili telefonom, o čemu se sastavlja službena zabilješka na samom predmetu, koja sadrži naznaku od koga i kad su pribavljeni podaci i potpise službenika koji je podatke saopštio i službenika koji je te podatke prikupio.
+O svakom saopštenju od stranke primljenom putem telefona, u vezi sa rješavanjem predmeta, sastavlja se službena zabilješka na samom predmetu, koja sadrži: datum i vrijeme razgovora, podatke o sagovorniku, sadržinu saopštenja i potpis službenika koji je saopštenje primio.

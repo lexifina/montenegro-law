@@ -1,0 +1,41 @@
+# Član 41
+Evidentiranje postupka inspekcijskog nadzora vrši se u upisnik inspekcijskog nadzora i označava oznakom "UP IN" (Obrazac 15), tako što se u odgovarajuće rubrike unose sljedeći podaci:
+1) u rubriku 1 - jedinstveni klasifikacioni znak;
+2) u rubriku 2 - u gornjem dijelu redni broj podneska, odnosno akta, a u donjem dijelu prenos (ako ga ima);
+3) u rubriku 3 - podbroj podneska, odnosno akta od 1 do 5, a ako se kancelarijsko poslovanje vrši u elektronskom obliku određivanje podbroja nije ograničeno za istu kalendarsku godinu;
+4) u rubriku 4 - datum prijema inicijative, odnosno datum nastanka predmeta;
+5) u rubriku 5 - kratka sadržina inicijative, odnosno kratka sadržina predmeta;
+6) u rubriku 6 - lično ime inspektora;
+7) u rubriku 7 - podatak o subjektu nadzora (lično ime, odnosno naziv i adresa, odnosno sjedište);
+8) u rubriku 8 - "da" ako se vrši redovni inspekcijski nadzor;
+9) u rubriku 9 - "da" ako se vrši vandredni inspekcijski nadzor;
+10) u rubriku 10 - broj i datum obavještenja o pokretanju postupka inspekcijskog nadzora;
+11) u rubriku 11 - datum uzimanja uzorka i rezultat;
+12) u rubriku 12 - datum i kratak opis privremenog i obaveznog oduzimanja predmeta;
+13) u rubriku 13 - broj i datum podnijetog prekršajnog naloga;
+14) u rubriku 14 - iznos i datum uplate po prekšajnom nalogu;
+15) u rubriku 15 - "da" ako je pokrenut sudski postupak;
+16) u rubriku 16 - broj i datum zahtjeva za pokretanje prekšajnog postupka;
+17) u rubriku 17 - kratka sadržina odluke suda po zahtjevu za pokretanje prekršajnog postupka;
+18) u rubriku 18 - broj i datum podnijete krivične prijave;
+19) u rubriku 19 - kratka sadržina odluke nadležnog organa po podnijetoj krivičnoj prijavi; 20) u rubriku 20 - broj i datum zapisnika, odnosno službene zabilješke o inspekcijskom nadzoru;
+21) u rubriku 21 - "da" ako je bilo ukazivanja;
+22) u rubriku 22 - broj i datum rješenja;
+23) u rubriku 23 - broj i datum obavještenja podnosiocu inicijative o toku i ishodu postupka;
+24) u rubriku 24 - broj i datum zapisnika o kontrolnom inspekcijskom nadzoru;
+25) u rubriku 25 - broj i datum rješenja nakon izvršenog kontrolnog inspekcijskog nadzora;
+26) u rubriku 26 - "da" ako je postupak obustavljan i broj i datum odluke;
+27) u rubriku 27 - "da" ako se žalba usvaja i broj i datum odluke po žalbi (rad prvostepenog organa po žalbi);
+28) u rubriku 28 - "da" ako se žalba odbija i broj i datum odluke po žalbi (rad prvostepenog organa po žalbi);
+29) u rubriku 29 - datum dostavljanja žalbe drugostepenom organu;
+30) u rubriku 30 - "da" ako se žalba usvaja i broj i datum odluke po žalbi (rad drugostepenog organa po žalbi);
+31) u rubriku 31 - "da" ako se žalba odbija i broj i datum odluke po žalbi (rad drugostepenog organa po žalbi);
+32) u rubriku 32 - "da" ako se postupak po žalbi obustavlja i broj i datum odluke o obustavi postupka po žalbi;
+33) u rubriku 33 - "da" ako je odluka izvršna i datum izvršnosti;
+34) u rubriku 34 - "da" ako je rješenje o izvršenju donijeto na osnovu poravnanja i broj i datum rješenja;
+35) u rubriku 35 - "da" ako se rješenje izvršava preko drugih lica i broj i datum rješenja;
+36) u rubriku 36 - "da" ako se rješenje izvršava novčanom kaznom i broj i datum rješenja; 37) u rubriku 37 - "da" ako se rješenje izvršava neposrednom prinudom i broj i datum rješenja;
+38) u rubriku 38 - "da" ako je izvršenje sprovedeno;
+39) u rubriku 39 - "da" ako izvršenje nije sprovedeno;
+40) u rubriku 40 - "da" ako je postupak izvršenja obustavljen i broj i datum odluke;
+41) u rubriku 41 - napomena.

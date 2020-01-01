@@ -1,0 +1,4 @@
+# Član 10
+Službenik pisarnice će, prilikom prijema podneska, odnosno akta neposredno od stranke, odbiti prijem podneska, odnosno akta ako uz podnesak, odnosno akt nije dostavljen dokaz o uplati takse ili taksa nije uplaćena u skladu sa zakonom kojim se uređuju administrativne takse, a podnesak, odnosno akt podliježe plaćanju takse.
+Službenik pisarnice će postupiti na način iz stava 1 ovog člana i u slučaju kad stranka zahtijeva izdavanje uvjerenja, rješenja, dozvole ili druge isprave koja podliježe plaćanju takse, a nije dostavljen dokaz o uplati takse ili taksa nije uplaćena u skladu sa zakonom kojim se uređuju administrativne takse.
+Ako podnesak, odnosno akt stigne poštom bez dokaza o uplati takse ili taksa nije uplaćena u skladu sa zakonom kojim se uređuju administrativne takse, službenik pisarnice dužan je da postupiti u skladu sa zakonom kojim se uređuju administrativne takse.
