@@ -1,0 +1,6 @@
+# Član 4
+Skupština plaća iznos računa za korišćenje mobilnog telefona u službene svrhe za tekući mjesec predsjedniku, potpredsjedniku i generalnom sekretaru Skupštine, kod mobilnog operatera za koga se oni opredijele.
+Skupština plaća iznos računa za korišćenje mobilnog telefona u službene svrhe za tekući mjesec poslaniku i zamjeniku generalnog sekeratara Skupštine do 100 eura mjesečno, kod mobilnog operatera za koga se oni opredijele.
+Skupština plaća iznos računa za korišćenje mobilnog telefona u službene svrhe za tekući mjesec šefu kabineta predsjednika, savjetniku predsjednika, savjetniku potpredsjednika i pomoćniku generalnog sekeratara Skupštine do 70 eura mjesečno, kod mobilnog operatera za koga se oni opredijele.
+Ukoliko iznos računa iz stava 2 ovog člana iznosi preko 100 eura za tekući mjesec, mobilni operater će dostaviti račun poslaniku odnosno zamjeniku generalnog sekretara za iznos preko 100 eura na ugovorenu adresu.
+Ukoliko iznos računa iz stava 3 ovog člana iznosi preko 70 eura za tekući mjesec, mobilni operater će dostaviti račun šefu kabineta predsjednika, savjetniku predsjednika, savjetniku potpredsjednika odnosno pomoćniku generalnog sekeratara Skupštine za iznos preko 70 eura na ugovorenu adresu.
