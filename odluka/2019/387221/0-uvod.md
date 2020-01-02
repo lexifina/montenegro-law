@@ -1,0 +1,2 @@
+Na osnovu člana 75 stav 1 tačka 3 Zakona o elektronskim medijima ("Službeni list Crne Gore", br. 46/10, 40/11, 53/11, 6/13, 55/16, 92/17 ), člana 64 Zakona o privrednim društvima ("Sl.list RCG", br. 06/02, i "Sl. list CG", br. 17/07, 80/08, 40/1, 36/11, 40/11), člana 27 stav 1 tačka 17 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19) i člana 36 Statuta Opštine Kotor ("Službeni list Crne Gore - opštinski propisi", br. 37/19), Skupština Opštine Kotor, na sjednici održanoj16.12.2019. godine. godine, donjela je
+ODLUKU
