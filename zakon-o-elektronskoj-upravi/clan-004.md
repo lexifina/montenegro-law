@@ -1,0 +1,3 @@
+# Član 4
+## Izuzeće od primjene
+Ovaj zakon ne odnosi se na prijem, razmjenu, obradu i objavljivanje podataka i dokumenata oznac enih stepenom tajnosti u skladu sa zakonom kojim se uređuje tajnost podataka, na informacione sisteme za potrebe izdavanja javnih isprava na osnovu kojih se može utvrditi identitet lica, prikupljanja i obrade podataka u postupku međunarodne i privremene zaštite stranaca, zaštite od prirodnih nepogoda i drugih nesreća, vršenja policijskih, obavještajno-bezbjednosnih i vanjskih poslova, poslova odbrane, prevencije i otkrivanja pranja novca i finansiranja terorizma i predmete međunarodne pravne pomoći.
