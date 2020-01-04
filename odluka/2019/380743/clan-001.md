@@ -1,0 +1,4 @@
+# Član 1
+## obuhvatu Detaljnog urbanističkog plana Rastoci 1
+Opština Nikšić, prodaje neposrednom pogodbom Drašković Savu, zemljište površine 170 m2, označeno kao katastarska parcela broj 4551/2, površine 15 m2 upisana listu nepokretnosti broj 764 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja opštine Nikšić i katastarska parcela, broj 389/15, površine 155 m2 upisana listu nepokretnosti, broj 787 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja opštine Nikšić.
+Zemljište iz stava 1 ovog člana prodaje se za potrebe dokompletiranja urbanističke parcele broj 4 (urbanistički blok 52), u skladu sa Odlukom o Detaljnom urbanističkom planu Rastoci 1 ("Službeni list Crne Gore-Opštinski propisi", broj 24/10), na kojoj je planirana izgradnja stambenog objekta, spratnosti Po+P+3+Pk.
