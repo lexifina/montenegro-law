@@ -1,0 +1,2 @@
+Na osnovu člana 39 st. 2 i 3 Zakona o turističkim organizacijama ("Službeni list RCG", br. 11/04 i 46/07 i "Službeni list CG", br. 73/10, 40/11 45/14, 42/17 i 27/19), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18 i 34/19), člana 35 stav 1 tačka 8 i člana 38 stav 1 Statuta Opštine Nikšić ("Službeni list CG - Opštinski propisi", broj 31/18), Skupština opstine Nikšić, na sjednici održanoj 24.12.2019. godine, donijela je
+ODLUKU
