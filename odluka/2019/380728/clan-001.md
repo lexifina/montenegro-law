@@ -1,0 +1,3 @@
+# Član 1
+Ovom odlukom utvrđuje se visina, način obračunavanja i plaćanja članskog doprinosa koji plaćaju pravna lica, fizička lica i preduzetnici koji na teritoriji Prijestonice Cetinje imaju svoje sjedište ili organizacionu jedinicu, odnosno društvo koje obavlja turističku, ugostiteljsku i/ili sa turizmom neposredno povezanu djelatnost.
+Subjekti iz stava 1 ovog člana dužni su organu lokalne uprave Prijestonice Cetinje nadležnom za lokalne javne prihode, iskazati i prijaviti ostvarene poslovne prihode umanjene za iznos poslovnih rashoda pojedinačno za svaku organizacionu jedinicu u kojoj se obavlja turistička, ugostiteljska i/ili sa turizmom neposredno povezana djelatnost.
