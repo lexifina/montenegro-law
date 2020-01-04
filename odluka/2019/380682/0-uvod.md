@@ -1,0 +1,2 @@
+Na osnovu člana 39 Zakona o socijalnoj i dječijoj zaštiti (Sl.ListCGbroj 27/13 ,01/15, 32/15,4 7/15, 56/16, 66/16, 01/17, 31/17, 42/17 i 50/17) i Zakona o lokalnoj samoupravi i (Sl.list Cg br.02/18) i Odluke o pravima i uslugama iz socijalne i dječje zaštite, ("Sl. list CG - opštinski propisi", br. 3/17 i 48/17 ) Skupština Opštine Tivat na sjednici održanoj dana 20.12.2019.godine, donjela je
+ODLUKU
