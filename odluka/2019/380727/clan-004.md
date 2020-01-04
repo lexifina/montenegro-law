@@ -1,0 +1,3 @@
+# Član 4
+Za iznose naknada iz člana 1 i 3 ove odluke, koji predstavljaju učešće Opštine Nikšić u finansiranju izgradnje stambenog objekta za potrebe pripadnika Ministarstva odbrane i Vojske Crne Gore, ima se umanjiti cijena koštanja m2 stambenog prostora u objektu koji se planira graditi na lokaciji iz člana 1 ove odluke.
+Ministarstvo odbrane i Stambena zadruga "Odbrana" preuzimaju obavezu da će određeni broj stanova u novoizgrađenom objektu opredijeliti za rješavanje stambenih potreba službenika Opštine Nikšić, po istim uslovima kao za pripadnike Ministarstva odbrane i Vojske Crne Gore, o čemu će se sačiniti poseban sporazum.

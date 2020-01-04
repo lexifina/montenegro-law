@@ -1,0 +1,3 @@
+# Član 3
+Investitor objekta iz člana 2 ove odluke se oslobađa obaveze plaćanja naknade za komunalno opremanje građevinskog zemljišta i dužno je da o svom trošku izvrši kompletno komunalno opremanje građevinskog zemljišta što podrazumijeva obezbjeđenje napajanja s električnom energijom ( trafostanica i prateći kabal), uključujući i izgradnju pristupnih saobraćajnica i parking mjesta, u skladu sa važećim planskim dokumentom.
+Iznos naknade za komunalno opremanje građevinskog zemljišta utvrdiće se nakon izrade revidovanog idejnog, odnosno glavnog projekta saglasno članu 3 Odluke o naknadi za komunalno opremanje građevinskog zemljišta ("Službeni list Crne Gore- Opštinski propisi", broj 12/15 i 25/18).

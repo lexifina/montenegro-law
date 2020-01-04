@@ -1,0 +1,4 @@
+# Član 1
+## o prenosu prava raspolaganja Vladi Crne Gore- Ministarstvu odbrane Crne Gore na građevinsko zemljište iz lista nepokretnosti broj 3491 KO Nikšić
+Vladi Crne Gore - Ministarstvu odbrane prenosi se, bez naknade, pravo raspolaganja na građevinsko zemljište ukupne površine 3.865,00 m2, koju čini građevinska parcela, površine 3.836,00 m2 i zemljište ispod objekta - pomoćne zgrade, površine 29,00 m2, označeno kao katastarska parcela broj 4740, upisana u listu nepokretnosti broj 3491 KO Nikšić, koja je u okviru urbanističke parcele "M", u zahvatu Detaljnog urbanističkog plana Podtrebjesa-izmjene i dopune.
+Vrijednost zemljišta iz stava 1 ovog člana procijenjena je po 50,00 € za m2, odnosno u ukupnom iznosu od 193.250,00 €, u skladu sa procjenom Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore - PJ Nikšić, broj 403-103- 1356/19 od 05.12.2019.godine.
