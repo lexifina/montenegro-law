@@ -1,0 +1,4 @@
+# Član 1
+Etičkim kodeksom javnih izvršitelja (u daljem tekstu: Kodeks) uređuju se opšta načela profesionalnog i etičkog postupanja, kojima se u radu rukovode javni izvršitelji, zamjenici javnih izvršitelja i njihovi saradnici i utvrđuju načela i pravila kojima se reguliše ponašanje javnih izvršitelja u okviru i izvan izvršiteljske djelatnosti, sa ciljem očuvanja i unapređenja dostojanstva i ugleda izvršiteljske djelatnosti kao javne službe.
+Kodeksom se uređuje i postupak podnošenja prijave protiv javnog izvršitelja u slučaju sumnje da je došlo do povrede Kodeksa, kao i nadležno tijelo Komore javnih izvršitelja (u daljem tekstu Komora) za postupanje po prijavama za sprovođenje postupka.
+Sve odredbe koje se odnose na javne izvršitelje primjenjivaće se i na zamjenike javnih izvršitelja i druge saradnike zaposlene u kancelariji javnog izvršitelja.

@@ -1,0 +1,8 @@
+# Član 22
+Javni izvršitelj je dužan potpuno i na vrijeme ispunjavati sve obaveze prema Komori, poštovati, čuvati i podizati ugled Komore i drugih javnih izvršitelja, te doprinositi što uspješnijem zajedničkom radu i ugledu profesije.
+Javni izvršitelj je dužan obavijestiti Komoru o problemima od opšte važnosti za službu, naročito o odnosima sa javnim tijelima, bez preduzimanja ličnih inicijativa, do odluke tijela Komore.
+Javni izvršitelj je dužan da bez odlaganja Komori dostavi sve sudske odluke kojima su pravosnažno usvojena pravna sredstva izjavljena protiv odluka tog javnog izvršitelja.
+Javni izvršitelj je dužan redovno prisustvovati sastancima tijela Komore, naročito sjednicama Skupštine i usavršavanjima koje organizuje Komora i svojim aktivnim učešćem doprinositi njihovom što uspješnijem radu.
+Izbor u bilo koje tijelo Komore je za svakog javnog izvršitelja čast, pa javni izvršitelj ne može odbiti predlog da bude izabran, osim u slučaju ako mu zdravstveno stanje ne dopušta rad u tim tijelima ili ako je izabran ili imenovan na više funkcije u tijelu Komore, pa sam ocijeni da ih ne može kvalitetno izvršavati.
+Nije dozvoljeno vršiti uticaj na odnos javnog izvršitelja sa njegovom strankom ili vršiti uticaj na stranku da svoj predmet prenese drugom javnom izvršitelju.
+Javni izvršitelj je dužan da se prema drugim javnim izvršiteljima odnosi kolegijalno, sa poštovanjem i da ne komentariše o njihovoj stručnosti, savjesnosti, efikasnosti ili dostojnosti. Ukoliko ima saznanja o nezakonitom, nepravilnom ili neetičkom postupanju drugog javnog izvršitelja, dužan je o tome odmah obavijestiti Komoru koja će svojim blagovremenim djelovanjem otkloniti takvo postupanje u cilju zaštite ugleda profesije.

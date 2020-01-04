@@ -1,0 +1,2 @@
+# Član 26
+Na osnovu utvrđenih činjenica, Komisija je dužna da sačini službenu zabilješku koju će u najkraćem roku dostaviti Predsjedniku Komore sa preporukom za izricanje pismenog upozorenja ili pokretanje disciplinskog postupka. U slučaju izricanja pismenog upozorenja, upozorenje se unosi u personalni dosije javnog izvršitelja kojem je mjera upozorenja izrečena. Ukoliko su javnom izvršitelju izrečena dva ili više pisana upozorenja, Komisija je dužna podnijeti zahtjev za pokretanje disciplinskog postupka pred disciplinskom komisijom, u skladu sa Zakonom.
