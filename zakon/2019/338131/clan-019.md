@@ -1,0 +1,5 @@
+# Član 19
+## Regionalna saradnja
+(1) Zaštita morske sredine ostvaruje se odgovarajućom saradnjom sa državama članicama Evropske unije, odnosno državama potpisnicama Barselonske konvencije, preko regionalnih tijela koja su obrazovana za sprovođenje Barselonske konvencije i međunarodnog sporazuma o saradnji za zaštitu Jadranskog mora i obalnih područja od zagađivanja, a naročito prilikom izrade i primjene strategija zaštite morske sredine, uzimajući u obzir prekogranične uticaje na kvalitet morske sredine drugih država u morskom podregionu, odnosno morskom regionu.
+(2) Prilikom izrade Strategije, Ministarstvo je dužno da ostvaruje saradnju sa državama morskog podregiona, odnosno morskog regiona, radi obezbjeđivanja usklađenosti mjera potrebnih za ostvarivanje ciljeva zaštite morske sredine.
+(3) Saradnja iz stava 1 ovog člana, ostvaruje se i sa drugim državama koje nijesu članice Evropske unije i koje pripadaju slivu morskog podregiona, odnosno morskog regiona, uključujući države koje nemaju izlaz na more.

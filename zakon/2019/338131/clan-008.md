@@ -1,0 +1,10 @@
+# Član 8
+## Karakteristike dobrog ekološkog stanja morske sredine
+(1) Dobro ekološko stanje morske sredine je stanje u kojem su morska sredina i obalno područje očuvani, ekološki raznovrsni i dinamični, čisti, zdravi i produktivni u svojim prirodnim uslovima, dok je njihovo korišćenje na održivom nivou, čime se čuva potencijal za korišćenje i aktivnosti za sadašnje i buduće generacije, odnosno:
+- struktura, funkcije i procesi ekosistema, zajedno sa povezanim fiziografskim, geografskim, geološkim i klimatskim faktorima, omogućavaju potpuno funkcionisanje ekoloških sistema i njihovu otpornost na promjene u životnoj sredini uzrokovane ljudskim aktivnostima, s tim da su vrste i staništa očuvani, da je spriječeno smanjivanje biodiverziteta prouzrokovano tim aktivnostima i da različite biološke komponente djeluju uravnoteženo;
+- hidromorfološka, fizička i hemijska svojstva ekosistema, uključujući i svojstva nastala zbog ljudskih aktivnosti na tom području, doprinose funkcionisanju ekosistema, a antropogeni unosi supstanci i energije, uključujući buku, u životnu sredinu mora, ne uzrokuju uticaje zagađenja.
+(2) Dobro ekološko stanje morske sredine utvrđuje se na osnovu karakteristika dobrog ekološkog stanja morske sredine.
+(3) Karakteristike dobrog ekološkog stanja morske sredine utvrđuju se na osnovu početne procjene stanja morske sredine i kvalitativnih pokazatelja dobrog ekološkog stanja morske sredine, odnosno odgovarajućih kriterijuma i metodoloških standarda za određivanje dobrog ekološkog stanja morske sredine.
+(4) Prilikom utvrđivanja dobrog ekološkog stanja morske sredine uzimaju se u obzir ekosistemi, fizička i hemijska svojstva, stanišni tipovi, biološka svojstva i hidromorfologija, kao i opterećenja i uticaji ljudskih aktivnosti na morsku sredinu.
+(5) Za utvrđivanje dobrog ekološkog stanja morske sredine primjenjuje se ekosistemski pristup u upravljanju ljudskim aktivnostima i integralno upravljanje obalnim područjem.
+(6) Kvalitativne pokazatelje, kriterijume i metodološke standarde iz stava 3 ovog člana propisuje Ministarstvo.
