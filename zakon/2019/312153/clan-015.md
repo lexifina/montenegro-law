@@ -1,0 +1,4 @@
+# Član 15
+## Posebne mjere
+(1) Ne smatra se diskriminacijom pravljenje razlike, isključenje ili davanje prvenstva u odnosu na određeni posao kada je priroda posla takva ili se posao obavlja u takvim uslovima da karakteristike povezane sa nekim od osnova iz čl. 7 i 8 ovog zakona predstavljaju stvarni i odlučujući uslov obavljanja posla i da je svrha koja se time želi postići opravdana.
+(2) Odredbe zakona, kolektivnog ugovora i ugovora o radu koje se odnose na posebnu zaštitu i pomoć određenim kategorijama zaposlenih, a posebno one o zaštiti prava lica sa invaliditetom, žena za vrijeme trudnoće i porodiljskog, roditeljskog i odsustva sa rada radi njege djeteta, odnosno posebne njege djeteta, kao i odredbe koje se odnose na posebna prava roditelja, usvojitelja, staratelja i hranitelja, ne smatraju se diskriminacijom.

@@ -1,0 +1,5 @@
+# Član 200
+## Privremeni i povremeni poslovi
+(1) Poslodavac može, za obavljanje određenih poslova koji nijesu predviđeni aktom o unutrašnjoj organizaciji i sistematizaciji radnih mjesta i koji ne zahtijevaju posebno znanje i stručnost, a po svojoj prirodi su takvi da ne traju duže od 120 radnih dana u kalendarskoj godini (privremeni i povremeni poslovi), sa određenim licem koje se nalazi na evidenciji nezaposlenih lica Zavoda za zapošljavanje, da zaključi ugovor o obavljanju privremenih i povremenih poslova.
+(2) Ugovor o obavljanju privremenih i povremenih poslova zaključuje se u pisanoj formi i sadrži: naziv i sjedište poslodavca, lične podatke izvršioca poslova (ime, prezime i JMB),vrstu i opis poslova koji su predmet ugovora, period na koji se ugovor zaključuje, mjesto i način izvršenja posla i visinu naknade za obavljeni rad.
+(3) Ugovorom iz stava 2 ovog člana mogu da budu predviđeni uslovi i razlozi zbog kojih ugovorne strane mogu da otkažu ugovor prije isteka roka na koji je zaključen.

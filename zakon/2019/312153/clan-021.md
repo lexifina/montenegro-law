@@ -1,0 +1,11 @@
+# Član 21
+## Smetnje za zasnivanje radnog odnosa
+(1) Ugovor o radu se ne može zaključiti sa licem koje ima zaključen ugovor o radu sa punim, odnosno skraćenim radnim vremenom.
+(2) Sa licem kojem je pravnosnažnom sudskom odlukom zabranjen rad na određenim poslovima ne može da se zaključi ugovor o radu na radnom mjestu koje podrazumijeva obavljanje tih poslova.
+(3) Ugovor o radu za obavljanje poslova koji podrazumijevaju rad sa djecom ne može da se zaključi sa licem koje je pravnosnažno osuđivano za krivična djela protiv polne slobode.
+(4) Ugovor o radu za obavljanje poslova u domaćinstvu ne može da se zaključi sa članovima uže porodice.
+(5) Članom uže porodice u smislu stava 4 ovog člana smatraju se: supružnik, djeca (bračna, vanbračna, usvojena i pastorčad), roditelji i usvojioci.
+(6) Zaposleni kome je isplaćena otpremnina po osnovu sporazumnog prestanka radnog odnosa u privrednom društvu, javnoj ustanovi i drugoj javnoj službi, čiji je većinski vlasnik država, odnosno jedinica lokalne samouprave ili država, odnosno jedinica lokalne samouprave ima učešće u kapitalu, ne može da zasnuje radni odnos u privrednom društvu, u javnoj ustanovi i drugoj javnoj službi, državnom organu i organu državne uprave i organu i službi jedinice lokalne samouprave, u periodu od pet godina od dana isplate otpremnine.
+(7) Zaposleni kome je isplaćena otpremnina po osnovu prestanka potrebe za njegovim radom u privrednom društvu, javnoj ustanovi i drugoj javnoj službi, čiji je većinski vlasnik država, odnosno jedinica lokalne samouprave ili država, odnosno jedinica lokalne samouprave ima učešće u kapitalu, osim zaposlenog koji je lice sa invaliditetom, ne može da zasnuje radni odnos u privrednom društvu, u javnoj ustanovi i drugoj javnoj službi, državnom organu i organu državne uprave i organu i službi jedinice lokalne samouprave u periodu od godine dana od dana isplate otpremnine.
+(8) Poslodavac iz st. 6 i 7 ovog člana dužan je da Zavodu za zapošljavanje Crne Gore (u daljem tekstu: Zavod za zapošljavanje) i organu uprave nadležnom za upravljanje kadrovima dostavi podatke o zaposlenima kojima je isplaćena otpremnina.
+(9) Ograničenje iz st. 6 i 7 ovog člana ne odnosi se na zaposlenog koji vrati cjelokupni iznos isplaćene otpremnine.

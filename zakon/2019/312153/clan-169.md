@@ -1,0 +1,10 @@
+# Član 169
+## Otpremnina
+(1) Zaposlenom za čijim je radom prestala potreba, a nije mu obezbijeđeno nijedno od prava iz člana 167 stav 2 tačka 6 ovog zakona, poslodavac je dužan da isplati otpremninu u visini od najmanje 1/3 njegove mjesečne prosječne zarade bez poreza i doprinosa u prethodnom polugodištu za svaku godinu rada kod tog poslodavaca, odnosno 1/3 mjesečne prosječne zarade bez poreza i doprinosa u Crnoj Gori, ako je to povoljnije za zaposlenog.
+(2) Lice za čijim radom je prestala potreba ima pravo na isplatu otpremnine pod uslovom da je kod tog poslodavca proveo u radnom odnosu najmanje 18 mjeseci.
+(3) Ograničenje iz stava 2 ovog člana ne odnosi se na slučaj iz člana 30 stav 4 ovog zakona. (4) U vrijeme provedeno na radu kod poslodavca, iz stava 2 ovog člana računa se i vrijeme provedeno u radnom odnosu kod poslodavca prethodnika u slučaju statusne promjene ili promjene poslodavca.
+(5) Otpremnina iz stava 1 ovog člana ne može biti niža od tri prosječne mjesečne zarade bez poreza i doprinosa kod poslodavca u prethodnom polugodištu, odnosno prosječne mjesečne zarade bez poreza i doprinosa u Crnoj Gori u prethodnom polugodištu, ako je to povoljnije za zaposlenog.
+(6) Zaposlenom licu sa najmanje 50% invaliditeta za čijim radom je prestala potreba, a kod kojeg je invaliditet nastao u periodu rada kod tog poslodavca, a nije mu obezbijeđeno ni jedno od prava iz člana 167 stav 2 tačka 6 ovog zakona, poslodavac je dužan da isplati otpremninu: 1) najmanje u visini 12 prosječnih zarada bez poreza i doprinosa zaposlenog, ako je invaliditet prouzrokovan povredom van rada ili bolešću;
+2) najmanje u visini 36 prosječnih zarada bez poreza i doprinosa zaposlenog, ako je invaliditet prouzrokovan povredom na radu ili profesionalnom bolešću.
+(7) Visina otpremnine iz stava 6 ovog člana, za zaposleno lice sa invaliditetom utvrđuje se na osnovu prosječne zarade poslodavca, ako je to za njega povoljnije.
+(8) Lice sa invaliditetom, u smislu stava 6 ovog člana, je lice čiji je status utvrđen u skladu sa posebnim zakonom.

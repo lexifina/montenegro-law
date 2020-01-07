@@ -1,0 +1,4 @@
+# Član 14
+## Zlostavljanje na radnom mjestu (mobing)
+(1) Zabranjen je svaki oblik zlostavljanja na radnom mjestu (mobing), odnosno svako ponašanje prema zaposlenom ili grupi zaposlenih kod poslodavca koje se ponavlja, a ima za cilj ili predstavlja povredu dostojanstva, ugleda, ličnog i profesionalnog integriteta, položaja zaposlenog koje izaziva strah ili stvara neprijateljsko, ponižavajuće ili uvredljivo okruženje, pogoršava uslove rada ili dovodi do toga da se zaposleni izoluje ili navede da na sopstvenu inicijativu otkaže ugovor o radu.
+(2) Zabrana zlostavljanja na radnom mjestu (mobing), mjere za sprječavanje zlostavljanja, postupak zaštite lica izloženih zlostavljanju, kao i druga pitanja od značaja za sprječavanje i zaštitu od zlostavljanja na radu i u vezi sa radom bliže se uređuje posebnim zakonom.

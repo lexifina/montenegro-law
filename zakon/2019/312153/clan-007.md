@@ -1,0 +1,3 @@
+# Član 7
+## Zabrana diskriminacije
+Zabranjena je neposredna i posredna diskriminacija lica koja traže zaposlenje, kao i zaposlenih, s obzirom na rasu, boju kože, nacionalnu pripadnost, društveno ili etničko porijeklo, vezu sa nekim manjinskim narodom ili manjinskom nacionalnom zajednicom, jezik, vjeru ili uvjerenje, političko ili drugo mišljenje, pol, promjenu pola, rodni identitet, seksualnu orijentaciju, zdravstveno stanje, invaliditet, starosnu dob, imovno stanje, bračno ili porodično stanje, trudnoću, pripadnost grupi ili pretpostavci o pripadnosti grupi, političkoj partiji, sindikalnoj ili drugoj organizaciji, ili neko drugo lično svojstvo.

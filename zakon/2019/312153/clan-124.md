@@ -1,0 +1,5 @@
+# Član 124
+## Privremeni raspored
+(1) Na osnovu nalaza i preporuke nadležnog doktora medicine, trudnoj zaposlenoj i dok doji dijete, a koja radi na poslovima koji mogu da ugroze njen život i zdravlje, odnosno koji mogu da ugroze život i zdravlje djeteta i nerođenog djeteta, poslodavac je dužan da ponudi privremeno raspoređivanje na druge odgovarajuće poslove.
+(2) Zaposlena žena iz stava 1 ovog člana za vrijeme privremenog rasporeda na druge poslove ima sva prava iz radnog odnosa koja je imala prije privremenog raspoređivanja.
+(3)Ako poslodavac nije u mogućnosti da zaposlenoj ženi iz stava 1 ovog člana obezbijedi raspored na drugi odgovarajući posao, u smislu stava 1 ovog člana, a po nalazu doktora obavljanje poslova njenog radnog mjesta može da ugrozi njeno ili zdravlje djeteta ili nerođenog djeteta, zaposlena žena ima pravo na odsustvo sa rada, uz naknadu zarade u skladu sa kolektivnim ugovorom, koja ne može da bude manja od naknade koju bi zaposlena ostvarila da je na svom radnom mjestu.
