@@ -1,0 +1,4 @@
+# Član 145
+## Uvid u dokumentaciju postupka javne nabavke
+Naručilac je dužan da, nakon dostavljanja odluke iz člana 142 odnosno objavljivanja odluka iz čl.143 i 144 ovog zakona u ESJN, do dana isteka roka za žalbu, na pisani zahtjev podnosioca prijave za kvalifikaciju odnosno ponuđača, najkasnije u roku od dva dana od dana prijema zahtjeva, omogući podnosiocu zahtjeva, uvid u dokumentaciju postupka javne nabavke, osim u dokumenta koja su označena određenim stepenom tajnosti i dokumenta koja su objavljena u ESJN.
+O izvršenom uvidu iz stava 1 ovog člana sačinjava se službena zabilješka koja sadrži podatke o: vremenu vršenja uvida, licu koje vrši uvid, licu u čijem je prisustvu vršen uvid, djelovima dokumentacije u koje je izvršen uvid, razloge zbog kojih lice koje vrši uvid odbilo da potpiše službenu zabilješku, kao i druge činjenice od značaja za vjerodostojnost ove radnje.

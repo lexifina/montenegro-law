@@ -1,0 +1,11 @@
+# Član 151
+## Izmjene ugovora o javnoj nabavci
+Ugovor o javnoj nabavci tokom njegovog trajanja može da se izmijeni bez sprovođenja novog postupka javne nabavke:
+1) ako su izmjene, bez obzira na njihovu vrijednost izraženu u novcu, predviđene tenderskom dokumentacijom i ugovorom o javnoj nabavci i uključuju izmjenu cijene ili varijante, sa utvrđenim obimom i prirodom mogućih izmjena ili varijanti, kao i uslovima u kojima se izmjene mogu vršiti, pod uslovom da se ugovorom ne predviđaju izmjene kojima se mijenja ukupna priroda ugovora o javnoj nabavci, a povećanje vrijednosti ugovora nije veće od 20% vrijednosti prvobitnog ugovora,
+2) radi nabavke dodatnih roba, usluga ili radova, koji su postali neophodni, a koji nijesu bili uključeni u prvobitni ugovor o javnoj nabavci, ako promjena privrednog subjekta sa kojim je zaključen ugovor nije moguća iz ekonomskih ili tehničkih razloga, kao što su zahtjevi kompatibilnosti sa postojećom opremom, uslugama ili radovima nabavljenim u okviru prvobitne nabavke i može da prouzrokuje značajne poteškoće ili znatno povećavanje troškova za naručioca a povećanje vrijednosti ugovora nije veće od 20% vrijednosti prvobitnog ugovora,
+3) kada je potreba za izmjenom ugovora nastala zbog okolnosti koje naručilac u vrijeme zaključivanja ugovora nije mogao da predvidi, a izmjenom se ne mijenja priroda ugovora a povećanje vrijednosti ugovora nije veće od 20% vrijednosti prvobitnog ugovora,
+4) ako privrednog subjekta nakon restrukturiranja, uključujući preuzimanje, spajanje, kupovinu ili stečaj, zamjenjuje u potpunosti ili djelimično novi pravni sljedbenik, odnosno privredni subjekat, koji ispunjava prvobitno određene uslove zaključenog ugovora o javnoj nabavci, a izmjene su predviđene tenderskom dokumentacijom, pod uslovom da se ne vrše druge bitne izmjene ugovora iz člana 150 stav 2 ovog zakona.
+Ako je neophodno u ugovoru o javnoj nabavci vršiti bitne izmjene iz člana 150 stav 2 ovog zakona naručilac će pokrenuti novi postupak dodjele ugovora.
+Ako se vrši više izmjena, vrijednost ugovora o javnoj nabavci se procjenjuje na osnovu neto kumulativne vrijednosti svih izmjena.
+Naručilac je dužan da izmjenu ugovora objavi na ESJN u roku od tri dana od dana zaključivanja izmjene ugovora.
+Odredbe st. 1 do 4 ovog člana primjenjuju se i na izmjene okvirnog sporazuma tokom njegova trajanja.

@@ -1,0 +1,11 @@
+# Član 68
+## Okvirni sporazum
+Okvirni sporazum je sporazum između jednog ili više naručilaca sa jednim ili više ponuđača kojim se utvrđuju uslovi za zaključivanje ugovora o javnoj nabavci za određeni period, određenu cijenu i količinu prema potrebi.
+Okvirni sporazum može da se zaključi sprovođenjem postupaka iz člana 51 ovog zakona, osim pregovaračkog postupka bez prethodnog objavljivanja poziva za nadmetanje.
+Okvirni sporazum može da se zaključi najduže na četiri godine, osim za nabavku koja je neophodna za obavljanje sektorske djelatnosti i u posebno opravdanim slučajevima koji su u vezi sa predmetom javne nabavke, koje naručilac mora da obrazloži.
+Ugovori o javnoj nabavci koji se zaključuju na osnovu okvirnog sporazuma moraju se zaključiti prije isteka roka na koji je zaključen okvirni sporazum, s tim da se trajanje pojedinih ugovora zaključenih na osnovu tog sporazuma ne mora podudarati sa trajanjem okvirnog sporazuma, već po potrebi može trajati duže ili kraće, ali ne duže od 12 mjeseci od isteka roka na koji je okvirni sporazum zaključen.
+Naručilac je dužan da tenderskom dokumentacijom utvrdi da će da zaključi okvirni sporazum i broj ponuđača sa kojima namjerava da zaključi okvirni sporazum.
+Naručilac je dužan da u tenderskoj dokumentaciji odredi da li su potpisnici okvirnog sporazuma dužni da ga izvršavaju i da odredi postupak zaključivanja ugovora na osnovu okvirnog sporazuma, a u slučaju centralizovane ili zajedničke nabavke da navede nazive naručilaca koji su obuhvaćeni okvirnim sporazumom.
+Ugovore o javnoj nabavci na osnovu okvirnog sporazuma mogu da zaključe naručioci koji su zaključili okvirni sporazum, naručioci u čije ime je okvirni sporazum zaključen i naručioci za koje se iz tenderske dokumentacije jasno može utvrditi da im je okvirni sporazum namijenjen.
+Naručilac koji namjerava da zaključi okvirni sporazum sa više ponuđača može da zaključi okvirni sporazum i sa manjim brojem ponuđača, odnosno sa jednim ponuđačem, ako ne dobije unaprijed određeni broj ponuda koje ispunjavaju uslove za dodjelu okvirnog sporazuma i ako je tu mogućnost predvidio tenderskom dokumentacijom.
+Odredbe čl. 150 i 151 ovog zakona primjenjuju se i na raskid i izmjene okvirnog sporazuma.

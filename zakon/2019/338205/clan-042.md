@@ -1,0 +1,6 @@
+# Član 42
+## Sukob interesa zbog prethodnih aktivnosti privrednog subjekta kod naručioca
+Privredni subjekat, odnosno lice koje je izradilo ili učestvovalo u izradi tehničke dokumentacije ili vršilo reviziju tehničke dokumentacije i privredni subjekat čije je ovlašćeno lice ili stručno lice učestvovalo u izradi ili reviziji tehničke dokumentacije, koja se koristi za izradu tehničke specifikacije u tenderskoj dokumentaciji ili dokumentacije po kojoj se realizuje ugovor o javnoj nabavci za izvođenje radova i/ili vršenje stručnog nadzora nad izvođenjem radova i lice koje je učestvovalo u tehničkim konsultacijama ili davanju tehničkih savjeta naručiocu, ne smije da učestvuje u postupku javne nabavke za izvođenje radova i/ili vršenje stručnog nadzora nad izvođenjem radova kao ponuđač, član zajedničke ponude ili podugovarač i ne smije da sarađuje sa ponuđačem, podnosiocem zajedničke ponude, ili podugovaračem na pripremanju ponude, osim ako je:
+1) predmet nabavke izrada tehničke dokumentacije i izvođenje radova po toj tehničkoj dokumentaciji;
+2) predmet nabavke izrada glavnog projekta, na osnovu prethodno izrađenog idejnog rješenja, odnosno idejnog projekta ili pojedinih dokumenata koji se odnose na tehničku dokumentaciju u skladu sa zakonom;
+3) potpuna sadržina tehničkih konsultacija i tehničkih savjeta sastavni dio tenderske dokumentacije.
