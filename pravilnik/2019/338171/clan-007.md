@@ -1,0 +1,4 @@
+# Član 7
+## Stupanje na snagu
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+--------------------- *U ovaj pravilnik preneseni su čl. 1, 2 i 6 i Prilog 1 Delegirane Regulative Komisije (EU) br. 2018/772 o dopuni Regulative (EZ) br. 576/2013 Evropskog Parlamenta i Savjeta u pogledu preventivnih zdravstvenih mjera za kontrolu infekcije Echinococcus multilocularis kod pasa i stavljanju vam snage Delegirane Regulative (EU) br. 1152/2011 (Article 1, 2 i 6 and Annex 1 Commission Delegated Regulation (EU) 2018/772 of 21 November 2017 supplementing Regulation (EU) No 576/2013 of the European Parliament and of the Council with regard to preventive health measures for the control of Echinococcus multilocularis infection in dogs, and repealing Delegated Regulation (EU) No 1152/2011)
