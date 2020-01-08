@@ -1,0 +1,3 @@
+# Član 7
+Carinsko skladište je prostor za smještaj i čuvanje sjemenskog materijala (skladište) zatvorenog tipa čiji je kapacitet prilagođen potrebama prometa i koji u zavisnosti od vrste sjemenskog materijala može da bude sa sistemom za regulisanje temperaturnog režima i ventilaciju radi očuvanja kvaliteta.
+Carinsko skladište se sastoji od jedne ili više povezanih prostorija koje su ograđene, vidljivo označene i odvojene na odgovarajući način od ostalih prostorija i površina na način koji sprječava potencijalno širenje štetnih organizama u skladu sa zakonom kojim se uređuje zdravstvena zaštita bilja.

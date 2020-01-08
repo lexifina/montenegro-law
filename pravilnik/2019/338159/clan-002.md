@@ -1,0 +1,6 @@
+# Član 2
+Promet sjemenskog materijala poljoprivrednog bilja može da se obavlja u prodajnom objektu koji obezbjeđuje očuvanje kvaliteta sjemenskog materijala poljoprivrednog bilja (u daljem tekstu: sjemenski materijal) u pogledu čistoće, vlage, klijavosti, porijekla, autentičnosti sorte (vrsta, sorta i kategorija), zdravstvenog stanja i ostalih zahtjeva kvaliteta, na način kojim se obezbjeđuje zaštita od oštećenja od izvora toplote, zračenja, vlage i izdvojenost od drugih roba koje na bilo koji način mogu umanjiti kvalitet.
+Objekat iz stava 1 ovog člana, treba da bude snabdjeven rafovima, tezgama, prodajnim stolovima - gondolama i opremom koja omogućava fizičko razdvajanje različitih vrsta u zavisnosti od organizacije poslovanja i vrste sjemenskog materijala u prometu.
+Oprema iz stava 2 ovog člana, treba da bude od odgovarajućeg materijala koji se lako čisti i održava i postavljena na način da ostane slobodan prostor koji omogućava nesmetan pristup.
+Prodajni objekat za sjemenski materijal koji zahtijeva čuvanje pod određenim temperaturnim režimom, treba da ima odgovarajuće uređaje kao i odgovarajuću opremu za smještaj i za druge manipulacije.
+Sjemenski materijal pakovan u vrećama, sanducima i drugoj ambalaži, treba da bude podignut od poda i udaljen od zidova najmanje 10 cm.
