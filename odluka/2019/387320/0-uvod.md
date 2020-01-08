@@ -1,0 +1,2 @@
+Na osnovu člana 46 st. 1 tač. 44 Statuta opštine u okviru Glavnog grada-Golubovci ("Službeni list Crne Gore- opštinski propisi", br. 012/19) i člana 9 st. 1 Odluke o uslovima, načinu i postupku za dodjelu nagrade Opštine u okviru Glavnog grada Golubovci ("Službeni list Crne Gore-opštinski propisi" br. 032/12, 010/15, 020/19), Skupština opštine u okviru Glavnog grada-Golubovci, je na XI sjednici održanoj dana 27.12.2019. godine, donijela-
+ODLUKU
