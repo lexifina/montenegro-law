@@ -1,0 +1,2 @@
+Na osnovu člana 21 stav 4 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list Crne Gore", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18 i 34/19), člana 46 stav 1 tačka 2 Statuta Opštine u okviru Glavnog grada- Golubovci ("Službeni list Crne Gore - opštinski propisi", broj 12/19), Skupština Opštine u okviru Glavnog grada - Golubovci, na XI sjednici održanoj dana 27.12.2019. godine, donijela je-
+ODLUKU
