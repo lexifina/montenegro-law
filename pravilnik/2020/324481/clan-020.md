@@ -1,0 +1,2 @@
+# Član 20
+Naknade iz čl. 2 do 19 ovog pravilnika uplaćuje podnosilac zahtjeva, odnosno korisnik usluge na račun Agencije, a dokaz o izvršenoj uplati dostavlja se prilikom podnošenja zahtjeva za pružanje usluge, a godišnja naknada za sprovođenje kontinuiranog nadzora plaća se u prvom kvartalu godine u kojoj se vrši kontinuirani nadzor, tokom perioda važenja certifikata, dozvola, odobrenja, uvjerenja i drugih isprava.

@@ -1,0 +1,7 @@
+# Član 19
+Visina naknade za utvrđivanje ispunjenosti primjenjivih zajedničkih zahtjeva za izdavanje, odnosno priznavanje certifikata za pružanje sve četiri usluge (ATS, CNS, MET i AIS) u vazdušnoj plovidbi i za izdavanje certifikata za izradu, odnosno projektovanje navigacionih postupaka iznosi 5.000,00 eura.
+Visina naknade za utvrđivanje ispunjenosti primjenjivih zajedničkih zahtjeva za izdavanje, odnosno priznavanje certifikata za pružanje jedne od usluga u vazdušnoj plovidbi ili certifikata za izradu, odnosno projektovanje navigacionih postupaka iznosi 2.000,00 eura.
+Visina naknade za izmjenu, odnosno priznavanje izmjene certifikata iz stava 1 ovog člana iznosi 2.000,00 eura.
+Visina naknade za izmjenu, odnosno priznavanje izmjene certifikata iz stava 2 ovog člana iznosi 1.000,00 eura.
+Godišnja naknada za sprovođenje kontinuiranog nadzora, odnosno provjere ispunjenosti zahtjeva za pružanje usluga u vazdušnoj plovidbi i izradu i projektovanje navigacionih postupaka, za usluge ATS, CNS, MET i AIS u vazdušnoj plovidbi i za izradu i projektovanje navigacionih postupaka iznosi 4.000,00 eura, a za sprovodjenje kontinuiranog nadzora jedne od usluga u vazdušnoj plovidbi naknada iznosi 1.000,00 eura.
+Visina naknade za odobravanje promjene u funkcionalnom sistemu pružaoca usluga u vazdušnoj plovidbi koja može da utiče na ispunjavanje primjenjivih zajedničkih zahtjeva prilikom pružanja usluga u vazdušnoj plovidbi tokom važenja izdatog/priznatog certifikata iznosi 1.000,00 eura.

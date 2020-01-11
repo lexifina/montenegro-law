@@ -1,0 +1,3 @@
+Na osnovu člana 24 stav 5, člana 29 stav 8, člana 32 stav 6, člana 40 stav 7, člana 41 stav 5, člana 42 stav 7, člana 44 stav 7, člana 54 stav 11, člana 61 stav 9, člana 68 stav 4, člana 74 stav 6, člana 75 stav 9, člana 77 stav 6, člana 78 stav 6, člana 79 stav 5, člana 80 stav 6, člana 81 stav 12, člana 82 stav 4, člana 89 stav 7, člana 90 stav 8, člana 93 stav 5, člana 94 stav i člana 114 stav 9 Zakona o vazdušnom saobraćaju ("Službeni list CG", br. 30/12 i 30/17), Ministarstvo saobraćaja i pomorstva donijelo je
+P R A V I L N I K O VISINI NAKNADA ZA IZDAVANJE OPERATIVNE LICENCE, CERTIFIKATA,
+ODOBRENJA I DOZVOLA U VAZDUŠNOM SAOBRAĆAJU
