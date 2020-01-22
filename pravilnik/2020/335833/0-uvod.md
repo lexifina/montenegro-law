@@ -1,0 +1,3 @@
+Na osnovu člana 44 stav 4 Zakona o efikasnom korišćenju energije ("Službeni list CG", broj
+57/14 i 25/19), Ministarstvo ekonomije donijelo je
+PRAVILNIK O ZAHTJEVIMA ZA OZNAČAVANJE ENERGETSKE EFIKASNOSTI UREĐAJA ZA GRIJANJE VODE, REZERVOARA ZA SKLADIŠTENJE TOPLE VODE I KOMPLETA UREĐAJA ZA GRIJANJE VODE I SOLARNOG UREĐAJA
