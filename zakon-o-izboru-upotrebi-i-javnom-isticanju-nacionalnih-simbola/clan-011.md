@@ -1,0 +1,4 @@
+# Član 11
+U jedinicama lokalne samouprave u kojima pripadnici manjinskog naroda ili druge manjinske nacionalne zajednice čine većinsko stanovništvo, prema rezultatima posljednjeg popisa, na zgradama organa lokalne samouprave i javnih ustanova čiji je osnivač opština, odnosno država, stalno se vije i zastava tog manjinskog naroda ili druge manjinske nacionalne zajednice.
+U službenim prostorijama organa lokalne samouprave i javnih ustanova iz stava 1 ovog člana, kao i u prostorijama namijenjenim za vjenčanja ističe se i zastava tog manjinskog naroda ili druge manjinske nacionalne zajednice.
+Pravo iz st. 1 i 2 ovog člana ne može se koristiti ako prema rezultatima dva posljednja uzastopna popisa pripadnici manjinskog naroda ili druge manjinske nacionalne zajednice ne čine većinsko stanovništvo.
