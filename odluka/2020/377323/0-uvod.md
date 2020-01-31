@@ -1,0 +1,2 @@
+Na osnovu člana 8 Zakona o regionalnom razvoju ("Službeni list Crne Gore" br. 20/11,26/11 , 20/15 I 47/19) člana 26 stav 1 tačka 1 i člana 38 stav 1 tačka 3 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" br. 2/18, 34/19) člana 38 stav 1 tačka 3 Statuta Opštine Gusinje ("Službeni list Crne Gore-Opštinski propisi" broj 3/19) i saglasnosti Ministarstva ekonomije - Direktorat za razvoj br.002-16/2019-6 od 19.12. 2019. godine, Skupština Opštine Guisnje na sjednici održanoj 27.12.2019 godine, donijela je
+ODLUKU
