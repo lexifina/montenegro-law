@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 2, člana 35 stav 1,člana 29 stav 2, člana 34 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18 i 34/19), člana 27 stav 1 tačka 1, člana 36 i člana 58 stav 1 tačka 9 Statuta Opštine Ulcinj (Službeni list CG-opštinski propisi br. 48/19), Skupština Opštine Ulcinj, na sjednici održanoj dana 30.12.2019. godine, donijela je
+ODLUKA
