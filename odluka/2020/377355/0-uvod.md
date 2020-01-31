@@ -1,0 +1,2 @@
+Na osnovu člana 7 stav 1 tačka 2 i člana 8 stav 1 Zakona o finansiranju lokalne samouprave ("Službeni list CG", broj 3/19), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18 i 34/19) i člana 38 stav 1 tačka 8 Statuta Opštine Gusinje ("Službeni list CG - Opštinski propisi", broj 3/19) Skupština opštine Gusinje, na sjednici održanoj 27.12.2019.godine, donijela je
+ODLUKU
