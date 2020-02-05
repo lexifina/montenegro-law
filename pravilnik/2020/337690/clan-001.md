@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom utvrđuje se način postupanja sa planovima leta u pretpoletnoj fazi u cilju obezbjeđivanja ujednačenog postupanja sa planovima leta, trajnim planovima leta i porukama za njihovo ažuriranje, između operatora vazduhoplova, pilota i jedinica za pružanje usluga u vazdušnom saobraćaju, putem Integrisanog sistema obrade početnog plana leta, u periodu prije izdavanja prvog odobrenja kontrole letenja za letove u Jedinstvenom evropskom nebu ili u periodu prije ulaska u vazdušni prostor Jedinstvenog evropskog neba.
