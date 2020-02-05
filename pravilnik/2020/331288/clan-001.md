@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuju se bliža ovlašćenja glavnog diplomatskog inspektora i drugih državnih službenika zaposlenih u Ministarstvu vanjskih poslova koji vrše poslove nadzora u konzularnoj oblasti, oblasti finansija, bezbjednosti i drugim oblastima rada diplomatskih i konzularnih predstavništava Crne Gore u inostranstvu, a koje za to ovlasti ministar vanjskih poslova (u daljem tekstu: diplomatski inspektori), kao i način sprovođenja nadzora nad radom diplomatskih i konzularnih predstavništava Crne Gore u inostranstvu (u daljem tekstu: diplomatsko-konzularno predstavništvo).
