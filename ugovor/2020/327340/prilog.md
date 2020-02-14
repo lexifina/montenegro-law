@@ -1,0 +1,1 @@
+ministar vanjskih poslova
