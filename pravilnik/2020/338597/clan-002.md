@@ -1,0 +1,2 @@
+# Član 2
+Upozorenje je radnja kojom ovlašćeni carinski službenik u postupku sprovođenja nadzora ukazuje licu da svojim ponašanjem, djelovanjem ili propuštanjem određene radnje može dovesti u opasnost svoju bezbjednost ili bezbjednost drugog lica, ili bi moglo da počini ili izazove drugo lice da počini kažnjivu radnju, kao i radnja koja se primjenjuje u slučajevima kada se ugrožava roba koja se nalazi na mjestu nadzora.
