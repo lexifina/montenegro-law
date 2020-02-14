@@ -1,0 +1,3 @@
+# Član 3
+Obrazac detektivske legitimacije na prednjoj strani sadrži Grb Crne Gore, naziv "Crna Gora", naziv "DETEKTIVSKA LEGITIMACIJA", mjesta za fotografiju dimenzija 24 x 33 mm, prezime i ime, pol, državljanstvo, datum rođenja i jedinstveni matični broj imaoca legitimacije, kao i registarski broj i datum izdavanja detektivske legitimacije.
+Obrazac detektivske legitimacije na poleđini sadrži mjesta za naziv organa koji izdaje detektivsku legitimaciju i datum do kojeg važi i, uz naznaku "OVLAŠĆENJE", tekst koji glasi: "Imalac ove legitimacije vrši detektivske poslove u skladu sa ovlašćenjima iz Zakona o detektivskoj djelatnosti".
