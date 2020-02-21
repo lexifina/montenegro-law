@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09 i 40/11) a vezi sa čanom 11 stav 1 tačka 1 Zakona o socijalnom stanovanju ("Službeni list Crne Gore", br. 35/13), člana 38 stav 1 tačka 30 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/2018 i 34/2019), člana 34 stav 1 tačka 30 Statuta Opštine HercegNovi ("Službeni list CG - Opšinski propisi" br 1/19 i 37/19) Skupština Opštine Herceg Novi, na sjednici održanoj 29.01.2020.godine, donjela je
+ODLUKU
