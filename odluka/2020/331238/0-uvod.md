@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ( "Sl.list CG" br.02/18, 34/19) člana 29 Zakona o državnoj imovini ("Sl.list CG" br.21/09, 40/11), u vezi sa članom 201, 208 i 216 Zakona o svojinsko - pravnim odnosima (" Sl.list CG" br.19/09) i člana 34 stav 1 tačka 9 Statuta Opštine Herceg Novi (Sl.list CG opš.propisi br.1/19), Skupština Opštine Herceg Novi na sjednici održanoj dana 29.01.2020.godine , donijela je
+ODLUKU
