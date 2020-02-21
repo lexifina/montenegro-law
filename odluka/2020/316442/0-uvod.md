@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 Zakona o socijalnom stanovanju ("Sl. list CG", br. 35/13), člana 38 stav 1 tačka 2 i 4 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18 i 34/19), člana 34 stav 1 tačka 2 i 4 Statuta Opštine Herceg Novi ("Službeni list CG - opšinski propisi", br. 1/19 i 37/19), uz predhodno dobijenu saglasnost Ministarstva rada i socijalnog staranja, broj 56-951/19 od 10. decembra 2019. godine, Skupština opštine Herceg Novi, na sjednici održanoj 29.01.2020.godine, donijela je
+ODLUKU
