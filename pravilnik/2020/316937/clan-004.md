@@ -1,0 +1,2 @@
+# Član 4
+Oznaka koja se postavlja na graničnom prelazu otvorenom za međunarodni saobraćaj i graničnom prelazu otvorenom za pogranični saobraćaj, na ulasku, odnosno izlasku iz Crne Gore je pravougaonog oblika, dimenzija 2000x1500 mm, crvene boje, na kojoj su u gornjem dijelu natpisi: "Crna Gora" i "Montenegro", u središnjem dijelu Grb Crne Gore, a u donjem dijelu natpisi: "Dobrodošli" i "Welcome", odnosno "Doviđenja" i "Goodbye".
