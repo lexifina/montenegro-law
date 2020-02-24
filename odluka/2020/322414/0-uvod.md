@@ -1,0 +1,2 @@
+Na osnovu čl. 58 st. 1 tačka 7 i čl. 70 st. 2 Zakona o lokalnoj samoupravi ("Sl.list CG" br. 2/18 i 34/19) i čl. 83 st. 1 tačka 7 Statuta Opštine Kolašin ("Sl.list CG" - opštinski propisi br. 24/19) Predsjednik Opštine Kolašin, po pribavljenom mišljenju Glavnog administratora br. 736/2 od 07.02.2020. godine, dana 07.02.2020. godine donio je:
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O ORGANIZACIJI I NAČINU RADA LOKALNE UPRAVE OPŠTINE KOLAŠIN
