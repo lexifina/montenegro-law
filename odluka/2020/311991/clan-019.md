@@ -1,0 +1,7 @@
+# Član 19
+U Odluci o organizaciji i načinu rada lokalne uprave Opštine Tivat ("Službeni list Crne Gore - opštinski propisi", br. 43/18, 15/19), član 86 mijenja se i glasi:
+Vršilac dužnosti Sekretara Sekretarijata opštu upravu, Sekretara Sekretarijata za investicije, uređenje prostora i održivi razvoj u skladu sa ovom odlukom uskladiće akt o unutrašnjoj organizaciji i sistematizaciji organa uprave, posebne i stručne službe sa ovom odlukom u roku od 15 dana od dana njenog stupanja na snagu i dostaviti ga glavnom administratoru na mišljenje.
+Raspoređivanje službenika i namještenika u organima uprave iz stava 1 ovog člana izvršiće se nakon davanja saglasnosti predsjednika opštine na akt o unutrašnjoj organizaciji i sistematizaciji i proteka roka od osam dana od dana objavljivanja tog akta na oglasnoj tabli organa, odnosno službe.
+Lokalni službenici i namještenici raspoređeni u organima uprave i službama na poslovima koji su ukinuti u skladu sa ovom odlukom, nastavljaju da obavljaju te poslove do donošenja rješenja o njihovom raspoređivanju u organe uprave ili službe koje su preuzele ukinute poslove.
+Akti u započetim postupcima koji se sprovode u zakonom propisanom roku kod organa uprave ili službe čiji su poslovi ukinuti, ovjeravaju se pečatom tog organa ili službe, do izrade pečata organa ili službe koja preuzima ukinute poslove.
+Lokalni službenici i namještenici koji ne budu raspoređeni u skladu sa ovim članom, ostvaruju prava propisana zakonom kojim se uređuje sistem lokalne samouprave.
