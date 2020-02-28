@@ -1,0 +1,13 @@
+Na osnovu člana 32 stav 1 tačka 2 al. 2 i 3 Zakona o bezbjednosti hrane ("Službeni list CG", broj 57/15), Ministarstvo poljoprivrede i ruralnog razvoja donijelo je
+N A R E D B U O MJERAMA ZA UTVRĐIVANJE PRISUTNOSTI GENETIČKI MODIFIKOVANOG PIRINČA I PROIZVODA OD PIRINČA PORIJEKLOM IZ KINE PRILIKOM UVOZA
+(1) Pošiljke pirinča i proizvoda od pirinča porijeklom iz Kine mogu se uvoziti i stavljati na tržište nakon utvrđivanja prisutnosti genetički modifikovanog pirinča i proizvoda od pirinča.
+(2) Ova naredba primjenjuje se na pirinač i proizvode od pirinča date u Prilogu 1.
+(3) Pošiljke pirinča i proizvoda od pirinča mogu se uvoziti ako ih prati laboratorijski izvještaj za svaki lot ili seriju i zdravstveni sertifikat koji izdaje nadležni organ Republike Kine (Entry Exit Inspection and Quarantine Bureu of the People´s Republic of China) (AQSIQ) izdat na obrascu 1, pod uslovom da je izvršena provjera prisutnosti genetički modifikovanih organizama laboratorijskim ispitivanjem u skladu sa Prilogom 2.
+(4) Laboratorijski izvještaj i zdravstveni sertifikat iz tačke 3 ove naredbe moraju biti prevedeni na crnogorski jezik.
+(5) Ako pošiljku pirinča i proizvoda od pirinča porijeklom iz Kine ne prati laboratorijski izvještaj i zdravstveni sertifikat iz tačke 3 ove naredbe pošiljka se vraća u zemlju porijekla ili uništava na neškodljiv način.
+(6) Ako se pošiljka pirinča i proizvoda od pirinča sastoji od više serija/lotova uzorci radi utvrđivanja prisutnosti genetički modifikovanog pirinča i proizvoda od pirinča uzimaju se uzorci iz svake serije/lota na mjestu pregleda.
+(7) Pirinač i proizvodi od pirinča mogu se uvoziti i stavljati u promet ako se laboratorijskim ispitivanjem utvrdi da pošiljka pirinča i proizvoda od pirinča ne sadrži genetički modifikovane organizme.
+(8) Ova naredba ne primjenjuje se na proizvode iz Priloga 1 koji ne sadrže pirinač, ne sastoje se od pirinča ili nijesu proizvedeni od pirinča i ako su namijenjeni fizičkim licima isključivo za ličnu potrošnju i upotrebu u propisanim količinama.
+(9) Prilozi 1 i 2 i obrazac 1 čine sastavni dio ove naredbe.
+(10) Ova naredba stupa na snagu danom objavljivanja u "Službenom listu Crne Gore".
+* U ovu naredbu prenijete su odredbe Imlementirajućije Odluke Evropske Komisije broj 2008/884/EU od 22. decembra 2011. o preduzimanju hitnih mjera u vezi neodobrenog genetički modifikovanog pirinča i proizvoda od pirinča porijeklom iz Kine i o stavljanju van snage Odluke 2008/289/EZ i Odluke Evropske Komisije broj 2013/287/EU o izmjenama Odluke broj 2008/884/EU o preduzimanju hitnih mjera u vezi neodobrenog genetički modifikovanog pirinča i proizvoda od pirinča porijeklom iz Kine
