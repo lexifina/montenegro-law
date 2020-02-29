@@ -1,0 +1,3 @@
+Na osnovu člana 26 stav 3 Zakona o mladima ("Službeni list CG",broj 25/19) Ministarstvo sporta i mladih donijelo je
+PRAVILNIK
+O NAČINU FUNKCIONISANjA OMLADINSKIH SERVISA I OBAVLjANjU ADMINISTRATIVNO-TEHNIČKIH POSLOVA POTREBNIH ZA NjIHOVO FUNKCIONISANjE
