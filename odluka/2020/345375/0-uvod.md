@@ -1,0 +1,2 @@
+Na osnovu člana 39 stav 1 i člana 59 stav 2, a u vezi sa članom 154 stav 2 i 4 Zakona o socijalnoj i dječjoj zaštiti ("Sl. list CG" broj 27/13, 17/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17 i 50/17), člana 32 stav 1 tačka 16 Zakona o lokalnoj samoupravi ("Sl. list CG" broj 2/18, 34/19) i člana 100 Statuta Opštine Budva ("Sl. list CG - Opštinski propisi" broj 2/19) Predsjednik Opštine Budva, donio je
+ODLUKU
