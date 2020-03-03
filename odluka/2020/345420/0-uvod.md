@@ -1,0 +1,2 @@
+Na osnovu člana 22 stav 5 Zakona o putevima ("Sl. list RCG", broj 42/04 i "Sl. list CG", br. 54/09, 36/11 i 92/17), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18 i 34/19) i člana 35 stav 1 tačka 8 Statuta opštine Danilovgrad ("Sl. list CG- opštinski propisi",broj 43/18) uz prethodnu saglasnost Vlade Crne Gore broj 07-7977 od 26.12.2019. godine, Skupština opštine Danilovgrad, na sjednici održanoj 26.12.2019. i 07.02.2020. godine, donijela je
+ODLUKU O VISINI NAKNADA ZA KORIŠĆENJE OPŠTINSKIH PUTEVA NA TERITORIJI OPŠTINE DANILOVGRAD
