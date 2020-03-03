@@ -1,0 +1,3 @@
+Na osnovu člana 116 Zakona o planiranju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 64/17, 44/18, 63/18 i 11/19) i člana 43 Statuta Opštine Bar ("Službeni list Crne Gore-Opštinski propisi", br. 37/18) i Pravilnika o bližim uslovima za postavljanje odnosno građenje privremenih objekata, uređaja i opreme ("Sl. list Crne Gore" br. 043/18, 076/18 i 76/19) , po pribavljenoj saglasnosti Ministarstva održivog razvoja i turizma broj 04-42/7-1 od 31.01.2020 godine i Uprave za zaštitu kulturnih dobara broj 03-386/2018-10 od 24.12.2019 godine , Skupština Opštine Bar, na sjednici održanoj dana 07.02.2020 godine, donijela je:
+ODLUKU
+O DONOŠENJU IZMJENA I DOPUNAPROGRAMA GRAĐENJA, POSTAVLJANJA
