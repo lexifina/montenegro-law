@@ -1,0 +1,2 @@
+Na osnovu člana 37 i 39, stav 2 i 3 Zakona o turističkim organizacijama ("Službeni list RCG", br. 11/04 i 46/07 i "Službeni list CG", br. 73/10, 40/11 45/ 14, 42/17 i 27/ 19), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18 i 34/19) i člana 35 stav 1 tačka 2 Statuta Opštine Danilovgrad ("Službeni list CG - Opštinski propisi", broj 43/18), Skupština opštine Danilovgrad, na sjednici održanoj 26.12.2019. i 07.02.2020. godine, donijela je
+ODLUKU
