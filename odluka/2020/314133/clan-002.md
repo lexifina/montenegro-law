@@ -1,0 +1,2 @@
+# Član 2
+Daje se saglasnost za prenos hartija od vrijednosi ( akcija ) iz vlasništva Glavnog grada Podgorice u vlasništvo AD "Novi duvanski kombinat" Podgorica, u ukupnoj vrijednosti od 433.622,54 Eura, koji iznos odgovara broju od 433.622,54 akcije, na način što će se zaključiti ugovor o vansudskom poravnanju, čime će se u potpunosti regulisati prava i obaveze između Glavnog grada Podgorice i AD"Novi duvanski kombinat"Podgorica.
