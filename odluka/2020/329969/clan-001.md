@@ -1,0 +1,3 @@
+# Član 1
+## za izgradnju trafostanice, na zemljištu u imovini Glavnog grada - Podgorica
+Glavni grad - Podgorica, kao nosilac prava raspolaganja, daje saglasnost privrednim društvima "Crnogorski elektrodistributivni sistem" d.o.o. i "Hard Discount Laković" d.o.o., za izgradnju trafostanice - DTS 10/0,4 kV 1x630 kVA "Zlatica Laković", na zemljištu u imovini Glavnog grada - dijelu katastarske parcele broj 1204/1 KO Podgorica II, u skladu sa Odlukom Gradonačelnika Glavnog grada-Podgorica, o određivanju lokacije sa elementima urbanističko tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa, broj 01-018/20-796 od 06. februara 2020. godine.
