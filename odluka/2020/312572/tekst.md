@@ -1,0 +1,14 @@
+Na osnovu člana 9 Zakona o strateškoj procjeni uticaja na životnu sredinu ("Službeni list RCG", broj 80/05 i "Službeni list CG", br. 59/11 i 52/16), Ministarstvo održivog razvoja i turizma donijelo je
+ODLUKU O IZRADI STRATEŠKE PROCJENE UTICAJA NA ŽIVOTNU SREDINU ZA IZMJENE I DOPUNE DRŽAVNE STUDIJE LOKACIJE "DIO SEKTORA 27 I SEKTOR 28"
+1. Pristupa se izradi Strateške procjene uticaja na životnu sredinu (u daljem tekstu: Strateška procjena) za Izmjene i dopune Državne studije lokacije "Dio Sektora 27 i Sektor 28" (u daljem tekstu: Izmjene i dopune DSL-a).
+2. Planski osnov za razvoj Izmjena i dopuna DSL-a predstavlja Prostorno urbanistički plan Opštine Tivat, Prostorni plan posebne namjene za obalno područje Crne Gore i druga dokumentacija sa državnog i lokalnog nivoa (razvojna dokumenta, studije, strategije).
+3. Izmjene i dopune DSL-a obuhvataju turistički kompleks na lokaciji stare ciglane, naseljsku strukturu, izgrađenu obalu sa pristaništima i turistički kompleks Kričkovina, u površini kopnenog dijela od 53.74 ha i površini zahvata u moru 76.12 ha.
+4. Realizacija planiranih aktivnosti može da dovede do povećanog pritiska na morski ekosistem, povećanja zazuzetosti prostora i zauzimanja obale, te zauzimanja dijela morskog akvatorijuma, do promjene morfologije terena, a samim tim i do uticaja kako na kvalitet morske vode, tako i do privremenog ili trajnog gubljenja staništa biljnog i životinjskog svijeta.
+5. O izvršenoj Strateškoj procjeni izradiće se Izvještaj o strateškoj procjeni uticaja na životnu sredinu (u daljem tekstu: Izvještaj) u skladu sa članom 15 Zakona o strateškoj procjeni uticaja na životnu sredinu.
+6. Izvještajem treba dati poseban osvrt na identifikaciju negativinih uticaja, propisivanje mjera zaštite i preporuka za razmatranje i izbor najboljeg varijantnog rješenja, a poseban akcenat treba da bude stavljen na propisivanje mjera zaštite mora i morskog ekosistema, očuvanje biodiverziteta, prirodnih i kulturnih dobara, te zaštitu zemljišta i očuvanje prirodnog pejzaža.
+7. Ministarstvo održivog razvoja i turizma, kao organ nadležan za pripremu predmetnog planskog dokumenta odlučuje o izboru nosioca izrade Izvještaja u postupku javnih nabavki.
+8. Izvještaj će se izraditi u roku predviđenom za izradu Izmjena i dopuna DSL-a.
+9. U postupku izrade Strateške procjene obezbijediće se učešće zainteresovane javnosti, zainteresovanih organa i organizacija, kao i organizovati javna rasprava, shodno zakonu.
+10. Finansijska sredstva potrebna za izradu Izvještaja obezbijediće se iz Budžeta Crne Gore u iznosu od 5.000,00 eura.
+11. Danom stupanja na snagu ove odluke prestaje da važi Rješenje o nepristupanju izradi Strateške procjene uticaja na životnu sredinu Izmjena i dopuna Državne studije lokacije "Dio Sektora 27 i Sektor 28" ("Službeni list CG", broj 50/18).
+12. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
