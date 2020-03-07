@@ -1,0 +1,4 @@
+Na osnovu člana 22 st. 2 i 9 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", br. 64/17, 44/18 i 63/19), Vlada Crne Gore, na sjednici od 6. februara 2020. godine, donijela je
+ODLUKU O IZMJENI ODLUKE O ODREĐIVANJU RUKOVODIOCA IZRADE IZMJENA I DOPUNA DETALJNOG URBANISTIČKOG PLANA "DONJA GORICA ZA ZAHVAT KORIDORA CETINJSKOG PUTA I JUŽNE OBILAZNICE" U PODGORICI I VISINI NAKNADE ZA RUKOVODIOCA I STRUČNI TIM ZA IZRADU IZMJENA I DOPUNA DETALJNOG URBANISTIČKOG PLANA
+1. U Odluci o određivanju rukovodioca izrade Izmjena i dopuna Detaljnog urbanističkog plana "Donja Gorica za zahvat koridora Cetinjskog puta i južne obilaznice" u Podgorici i visini naknade za rukovodioca i stručni tim za izradu Izmjena i dopuna Detaljnog urbanističkog plana ("Službeni list CG", broj 71/18) u tački 3 riječi: "5.000€" zamjenjuju se riječima: "23.000,00 eura".
+2. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
