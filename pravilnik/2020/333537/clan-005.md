@@ -1,0 +1,3 @@
+# Član 5
+Neposredno pretpostavljeni licu u službi u Vojsci koje se ocjenjuje (u daljem tekstu: lice koje predlaže ocjenu) i prvi podoficir jedinice Vojske u kojoj je to lice postavljeno vode evidencije o rezultatima rada postignutim na provjerama i zapažanjima o karakteristikama lica u službi u Vojsci bitnim za karijerni razvoj.
+Lice koje predlaže ocjenu, putem službenih razgovora, ukazuje licu u službi u Vojsci na propuste u radu koji za posljedicu mogu imati ocjenu "ne zadovoljava" i daje instrukcije za otklanjanje uočenih propusta, koje evidentira u službenoj zabilješci ili na drugi način u pisanoj formi.
