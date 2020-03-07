@@ -1,0 +1,2 @@
+Na osnovu člana 22 stav 3 i člana 49 stav 1 tačka 1 i stav 4 Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16 i 66/19) i člana 12 stav 2 tačka 1 Statuta Regulatorne agencije za energetiku ("Službeni list CG", broj 36/17) Odbor Agencije, na sjednici od 20. februara 2020. godine donio je
+P R A V I L A O IZMJENAMA I DOPUNAMA PRAVILA O LICENCAMA ZA OBAVLJANJE REGULISANIH KOMUNALNIH DJELATNOSTI
