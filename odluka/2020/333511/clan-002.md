@@ -1,0 +1,4 @@
+# Član 2
+Predsjednicima, članovima i sekretarima komisija iz člana 1 ove odluke koji su zaposleni u organu državne uprave nadležnom za vanjske poslove (u daljem tekstu: Ministarstvo) pripada naknada za rad u visini od 60% prosječne bruto zarade u Crnoj Gori u prethodnoj godini, za svaki sprovedeni ispit za pripravnike, diplomatsko-konzularni ispit, odnosno viši diplomatsko-konzularni ispit.
+Predsjednicima, članovima i sekretarima komisija iz člana 1 ove odluke koji nijesu zaposleni u Ministarstvu pripada naknada za rad u visini od 60% prosječne bruto zarade u Crnoj Gori u prethodnoj godini, umanjena za pripadajući iznos doprinosa koji se plaćaju na teret zaposlenog, za svaki sprovedeni ispit za pripravnike, diplomatsko-konzularni ispit, odnosno viši diplomatsko-konzularni ispit.
+Prosječna bruto zarada u Crnoj Gori za prethodnu godinu utvrđuje se prema podacima organa uprave nadležnog za poslove statistike.
