@@ -1,0 +1,3 @@
+# Član 1
+## o osnivanju Biznis zone "Zeleni"
+Ovom Odlukom osniva se Biznis zona "Zeleni", ukupne površine 230.584 m2, koju obuhvata dio kat.Parcele, br. 2694/1 KO Rožaje, kat.parcelu br. 1387 KO Rožaje i dio kat. Parcele, br. 1386/1 KO Rožaje,upisana u List nepokretnosti br. 344 na SO Rožaje, a nalazi se u okviru Detaljnog urbanističkog plana "Industrijska zona Zeleni", I propisuje načinu pravljanja, finansiranja infrastrukturnih opremanja, djelatnosti koje se mogu obavljati I olakšice koje se mogu odobriti potencijalnim investitorima Biznis Zone u cilju podsticaja investicija I otvaranje novih radnih mjesta.
