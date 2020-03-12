@@ -1,0 +1,50 @@
+# Član 2
+Zahvat DUP-a je površine cca 12 ha, koje se nalazi u okviru katastarske opštine Podgorica III. Zapadnu granicu planskog dokumenta predstavlja ul. Ilije Plamenca, a jugozapadnu ul 27. marta. Na sjeveru granica zahvata planskog dokumenta se poklapa sa granicom Detaljnog urbanističkog plana "Čepurci", dok se na sjeveroistoku poklapa sa granicom Detaljnog urbanističkog plana "Zabjelo Ljubović". Na istoku granica plana se poklapa sa granicom plana iz 2016. godine DUP "Stambena zajednica VI - Stara Varoš" (Zabjelo 6).
+Grafički prikaz zahvata plana je prilog Programskog zadatka.
+Koordinate prelomnih tačaka granice zahvata Plana su sljedeće:
+X
+Y
+X
+Y
+6603035.2637
+6603000.9185
+6602951.0885
+6602907.1514
+6602763.5264
+6602793.4077
+6602817.6228
+6602853.4808
+6602883.3400
+6602929.9358
+4698995.4199
+4699053.0510
+4699162.5018
+4699264.5214
+4699227.7513
+4699084.0756
+4698947.2177
+4698869.2773
+4698841.3645
+4698803.4242
+6602929.9358
+6603001.2993
+6603001.2993
+6603084.1963
+6603128.9901
+6603189.9200
+6603189.9200
+6603266.4820
+6603252.6270
+6603174.9424
+6603094.8553
+4698803.4242
+4698767.5500
+4698767.5500
+4698735.8321
+4698723.3218
+4698711.7100
+4698711.7100
+4698868.8720
+4698867.8673
+4698873.2752
+4698916.6459

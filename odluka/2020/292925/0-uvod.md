@@ -1,0 +1,2 @@
+Na osnovu članova 47, 49 i 162c Zakona o uređenju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13 i 33/14), a u vezi sa članom 219 Zakona o planiranju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 64/17, 44/18, 63/18 i 11/19) i člana 54 Statuta Glavnog grada ("Službeni list CG - opštinski propisi" broj 8/19), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 24. februara 2020. godine, donijela je
+ODLUKU
