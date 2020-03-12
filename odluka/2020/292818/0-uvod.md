@@ -1,0 +1,3 @@
+Na osnovu člana 75 stav 1 tačka 3 Zakona o elektronskim medijima ("Službeni list CG", br. 46/10, 53/11, 6/13, 55/16 i 92/17), člana 64 Zakona o privrednim društvima ("Službeni list RCG", broj 6/02 i "Službeni list CG", br. 17/07, 80/08 i 36/11), člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18 i 34/19) i člana 54 stav 1 tačka 17 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19), Skupština Glavnog grada - Podgorice, na sjednici održanoj 24. februara 2020. godine, donijela je -
+ODLUKU
+o osnivanju Društva sa ograničenom odgovornošću Lokalni javni emiter "Radio televizija Podgorica"

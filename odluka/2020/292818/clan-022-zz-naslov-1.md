@@ -1,0 +1,1 @@
+# VI Upravljanje i rukovođenje

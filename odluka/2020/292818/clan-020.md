@@ -1,0 +1,7 @@
+# Član 20
+Javne usluge, visina sredstava i izvori za njihovo finansiranje, utvrđuju se ugovorom o pružanju javnih usluga između Glavnog grada i Društva, na period od tri godine, u skladu sa budžetskim planovima i ostvarenjem budžeta Glavnog grada i programskim projekcijama Društva.
+Prije zaključivanja ugovora o pružanju javnih usluga, Društvo je dužno da pripremi predlog programskih obaveza za ugovorni period i o njemu sprovede javnu raspravu u trajanju od 45 dana, kako bi se javnost izjasnila o tome ispunjavaju li predložene programske obaveze kriterijume propisane zakonom.
+Ugovorom o pružanju javnih usluga definišu se i programski sadržaji iz člana 19 ove odluke.
+Predlog ugovora o pružanju javnih usluga Društvo je dužno da dostavi Glavnom gradu najmanje šest mjeseci prije isteka važenja ugovora o pružanju javnih usluga.
+Društvo je dužno da na osnovu ugovora o pružanju javnih usluga izradi i donese svake godine, a najkasnije do 31. decembra tekuće za sljedeću godinu, program rada i finansijski plan, kojima će se utvrditi aktivnosti i programske obaveze, kao i potrebna finansijska sredstva za njihovu realizaciju. Saglasnost na program rada i finansijski plan daje Skupština Glavnog grada. Ako se o ugovor pružanju javnih usluga mijenja u pogledu programskih obaveza Društva, potrebno je sprovesti postupak u skladu sa zakonom.
+Društvo je dužno da ugovor o pružanju javnih usluga ili njegove izmjene objavi na web sajtu Društva i dostavi Agenciji za elektronske medije najkasnije 15 dana od dana zaključenja.
