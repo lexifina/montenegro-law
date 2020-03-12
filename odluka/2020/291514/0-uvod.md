@@ -1,0 +1,3 @@
+U skladu sa članom 37 Zakona o manjinskim pravima i slobodama ("Sl. list RCG", broj 31/06,51/06 i "Sl. list CG" br.2/11,8/11,31/17), na osnovu člana 35 Statuta Opštine Tivat ("Sl. list CG-opštinski propisi", broj 24/18), Lokalnim planom za socijalnu inkluziju Roma i Egipćana za period 2017-2021 u opštini Tivat ("Sl. list CG -opštinski propisi" br. 48/17), i člana 10 Odluke o načinu i postupku učešća lokalnog stanovništa u vršenju javnih poslova ("Sl. list RCG-opštinski propisi" broj 08/05 i "Sl. list CG-opštinski propisi" broj 20/13), Skupština opštine Tivat na sjednici održanoj 20.02.2020 godine, donijela je
+ODLUKU
+O OSNIVANJU KANCELARIJE ZA INTEGRACIJU ROMSKE I EGIPĆANSKE POPULACIJE SA TERITORIJE OPŠTINE TIVAT I SUFINANSIRANJU PLANA I PROGRAMA RADA
