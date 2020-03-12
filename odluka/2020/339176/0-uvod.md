@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 1 tačka Zakona o lokalnoj samoupravi (,,Službeni list CG", broj 2/18 i 34/19) i člana 100 stav 1 tačka 9 Statuta Glavnog grada (,,Službeni list CG - Opštinski propisi", broj 08/19), a u vezi sa članom 18 stav 1 Zakona o Glavnom gradu (,,Službeni list RCG", broj 65/05, i ,,Službeni list CG", broj 72/10, 2/16 i 31/17), po pribavljenom mišljenju glavnog administratora broj 03-019/20-148 od 20.februara 2020. godine, gradonačelnik Glavnog grada, dana 02. marta 2020. godine, donio je
+ODLUKU
