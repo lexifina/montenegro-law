@@ -1,0 +1,3 @@
+# Član 7
+Čišćenje javnih površina vrši se prema programu koji donosi Privredno društvo za održavanje čistoće, na koji saglasnost daje Skupština Glavnog grada Podgorice.
+Program iz stava 1 ovog člana donosi se godišnje, a najkasnije do 31. decembra za narednu godinu i sadrži naročito: vrijeme i način čišćenja javnih površina, kao i vrijednost programiranih radova na održavanju čistoće na javnim površinama; površine predviđene za održavanje (čišćenje i pranje); tehničko - tehnološke uslove za realizaciju programa; broj i vrstu potrebnih posuda za sakupljanje komunalnog otpada i korpi za otpad na javnim površinama i dinamiku prevoza.

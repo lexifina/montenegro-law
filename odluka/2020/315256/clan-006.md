@@ -1,0 +1,4 @@
+# Član 6
+Poslove održavanja čistoće na javnim površinama odnosno na prostorima utvrđenim planskim dokumentom čije je korišćenje, odnosno izgradnja od opšteg interesa na teritoriji Glavnog grada, vrši Privredno društvo kome su posebnom odlukom Skupštine Glavnog grada povjereni ovi poslovi (u daljem tekstu: Privredno društvo za održavanje čistoće).
+Poslove održavanja čistoće na drugim površinama (ispred objekata privrednih subjekata, drugih pravnih lica, preduzetnika, fizičkih lica i dr.) vrše pravna lica, preduzetnici i fizička lica koja su imaoci prava raspolaganja na tim površinama, odnosno koriste te površine.
+Poslove korišćenja i održavanja deponije, reciklažu metalnog i nemetalnog otpada, vrši Privredno društvo kome su posebnom odlukom Skupštine Glavnog grada povjereni ovi poslovi (u daljem tekstu: Privredno društvo za deponovanje komunalnog otpada).
