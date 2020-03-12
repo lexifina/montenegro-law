@@ -1,0 +1,3 @@
+# Član 7
+Prevoz lica iz člana 5 ovog pravilnika od mjesta gdje mu je određeno stavljanje u karantin do objekta namijenjenog za karantin obezbjeđuje zdravstvena ustanova iz člana 6 stav 2 ovog pravilnika sanitetskim vozilom ili drugim odgovarajućim prevoznim sredstvom, uz primjenu mjera lične zaštite kojima se sprječava širenje zarazne bolesti.
+Zdravstvena ustanova iz stava 1 ovog člana obezbjeđuje prevoz i lica kod kojh se pojave simptomi bolesti, do nadležne zdravstvene ustanove, radi medicinskog tretmana i nazad do karantina, ako to lice ne bude smješteno u zdravstvenu ustanovu na liječenje.
