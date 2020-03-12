@@ -1,0 +1,2 @@
+# Član 8
+U cilju kompletne realizacije i načina finansiranja usluge, Opština Kotor i ustanova licencirana za realizaciju usluge pomoći i njege starijih lica u kući - geronto programa, zaključiće Ugovor kojim će se ovaj partnerski odnos definisati u pogledu cilja, njegovog trajanja, prava i obaveza partnera, načina prenošenja sredstava za isplatu kao i načina njegovog praćenja i provođenja u djelo i to u roku od osam dana od dana donošenja Odluke.
