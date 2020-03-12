@@ -1,0 +1,1 @@
+Na osnovu člana 10a stav 1 Zakona o teritorijalnoj organizaciji Crne Gore ("Sl. list Crne Gore".br. 54/11,26/12, 27/13 ,62/13,12/14,3/16,86/18 i 03/20), člana 58 Zakona o lokalnoj samoupravi ("Sl. list Crne Gore",br. 02/18 i 34/19) i člana 85 Statuta opštine Gusinje ("Sl. list Crne Gore-opštinski propisi", br. 03/19), Predsjednica opštine Gusinje donosi:
