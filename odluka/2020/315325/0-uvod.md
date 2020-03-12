@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta Opštine Tivat ( "Sl. list CG - opštinski propisi", broj 24/18) i čl. 154 i 156 Zakona o socijalnoj i dječjoj zaštiti ("Sl. list CG", br. 27/13, 01/15, 42/15, 47/15, 56/16, 66/16, 01/17, 31/17, 42/17 i 50/17), a u skladu sa članom 25 Odluke o pravima i uslugama iz socijalne i dječje zaštite ( "Sl. list CG -opštinski propisi" br. 03/17, 48/17 i 53/19), Skupština opštine Tivat na sjednici održanoj dana 20.02.2020.godine, donijela je
+O D L U K U O FINANSIRANJU USLUGE POMOĆ I NJEGA U KUĆI ZA 2020.GODINU
