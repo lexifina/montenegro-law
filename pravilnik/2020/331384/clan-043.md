@@ -1,0 +1,8 @@
+# Član 43
+Na računima grupe 56 - Finansijski rashodi iskazuju se rashodi po osnovu kamata, kursnih razlika, negativni efekti po osnovu valutne klauzule i ostali finansijski rashodi.
+Na računu 560 - Finansijski rashodi iz odnosa sa matičnim i zavisnim pravnim licima iskazuju se rashodi po osnovu kamata i kursnih razlika i ostali finansijski rashodi iz odnosa pravnih lica koja, u skladu sa MSFI 10 i članovima 7 i 8. Zakona o računovodstvu, ulaze u grupu za konsolidovanje.
+Na računu 561 - Finansijski rashodi iz odnosa sa ostalim povezanim pravnim licima iskazuju se rashodi po osnovu kamata i kursnih razlika i ostali finansijski rashodi iz odnosa sa ostalim povezanim pravnim licima. Na ovom računu evidentiraju se i rashodi od učešća u gubitku zajedničkih ulaganja.
+Na računu 562 - Rashodi kamata iskazuju se rashodi kamata po kreditima, po obavezama iz dužničko-povjerilačkih odnosa, zatezne i druge kamate, osim kamata po osnovu obaveza prema matičnom, zavisnim i ostalim povezanim pravnim licima. Na ovom računu iskazuju se kod primaoca finansijskog lizinga rashodi kamata po finansijskom lizingu.
+Na računu 563 - Negativne kursne razlike iskazuju se negativne kursne razlike nastale u izvještajnom periodu, osim kursnih razlika iz odnosa prema matičnom, zavisnim i ostalim povezanim pravnim licima.
+Na računu 564 - Rashodi po osnovu efekata valutne klauzule iskazuju se negativni efekti proistekli iz zaštite potraživanja, plasmana i obaveza valutnom klauzulom, osim efekata valutne klauzule iz odnosa prema matičnom, zavisnim i ostalim povezanim pravnim licima.
+Na računu 569 - Ostali finansijski rashodi iskazuju se finansijski rashodi za koje nije propisan poseban račun u okviru računa grupe 56.

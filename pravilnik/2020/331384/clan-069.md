@@ -1,0 +1,2 @@
+# Član 69
+Na računima grupe 94 - Računi mjesta troškova uprave, prodaje i sličnih aktivnosti, odnosno na posebnim osnovnim računima koje pravno lice otvori u okviru računa ove grupe, poslije knjiženja u finansijskom knjigovodstvu iskazuju se odgovarajući troškovi u korist računa 902 - Računi za preuzimanje troškova, odnosno u korist računa 910 - Materijal (kada se zalihe materijala vode na ovom računu).

@@ -1,0 +1,5 @@
+# Član 58
+Na računima grupe 71 - Zaključak računa uspjeha na dan godišnjeg bilansa iskazuje se zaključak računa rashoda i prihoda.
+Na računu 710 - Rashodi i prihodi iskazuje se zaključak računa rashoda i prihoda, osim dobitaka i gubitaka poslovanja koje se obustavlja, zaduženjem ovog računa u korist računa 599 - Prenos rashoda, odnosno odobrenjem ovog računa na teret računa 699 - Prenos prihoda. Saldo računa 710 posle prenosa rashoda i prihoda prenosi se na račun 712 - Prenos ukupnog rezultata.
+Na računu 711 - Račun dobitka i gubitka poslovanja koje se obustavlja iskazuje se zaključak računa, zaduženjem ovog računa u korist računa 599 - Prenos rashoda, odnosno odobrenjem ovog računa na teret računa 699 - Prenos prihoda. Saldo računa 711 posle prenosa dobitka i gubitka poslovanja koje se obustavlja prenosi se na račun 712 - Prenos ukupnog rezultata.
+Na računu 712 - Prenos ukupnog rezultata iskazuje se prenos dobitka na kraju izvještajnog perioda, zaduženjem ovog računa u korist računa 720 - Dobitak ili gubitak, odnosno zaduženjem računa 720 u korist ovog računa, ako je ostvaren gubitak.

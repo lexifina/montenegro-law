@@ -1,0 +1,6 @@
+# Član 59
+Na računima grupe 72 - Račun dobitka i gubitka iskazuje se ostvareni dobitak ili gubitak na kraju izvještajnog perioda, porez na dobit, lična primanja poslodavca i prenos dobitka ili gubitka.
+Na računu 720 - Dobitak ili gubitak iskazuje se ostvareni dobitak ili gubitak na kraju izvještajnog perioda odobrenjem ili zaduženjem ovog računa na teret ili u korist računa 724 - Prenos dobitka ili gubitka.
+Na računu 721 - Poreski rashod perioda iskazuje se poreski rashod tekućeg perioda obračunat u skladu sa poreskim propisima zaduženjem ovog računa u korist računa 481 - Obaveze za porez iz rezultata.
+Na računu 722 - Odloženi poreski rashodi i prihodi perioda iskazuju se odloženi poreski rashodi i prihodi obračunati u skladu sa MRS 12.
+Na računu 724 - Prenos dobitka ili gubitka iskazuje se ostvareni dobitak ili gubitak na kraju izvještajnog perioda zaduženjem ili odobrenjem ovog računa u korist ili na teret računa 720, 721, 722 i 723. Ostvareni dobitak koji nije raspoređen, na kraju izvještajnog perioda prenosi se zaduženjem računa 724 u korist računa 341 - Neraspoređeni dobitak tekuće godine. Ostvareni gubitak na kraju izvještajnog perioda prenosi se na teret računa 351 - Gubitak tekuće godine, u korist računa 724.

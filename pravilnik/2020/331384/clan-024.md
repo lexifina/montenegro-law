@@ -1,0 +1,11 @@
+# Član 24
+Na računima grupe 33 - Revalorizacione rezerve i nerealizovani dobici i gubici iskazuju se efekti promjena poštene (fer) vrijednosti nekretnina, postrojenja, opreme, nematerijalnih ulaganja, učešća u kapitalu u stranoj valuti i drugih finansijskih instrumenata čiji se efekti promjena poštene (fer) vrijednosti u skladu sa MSFI iskazuju u okviru nerealizovanih dobitaka i gubitaka, kao i drugih nerealizovanih dobitaka i gubitaka koji se iskazuju u okviru Iskaza o ostaloj sveobuhvatnoj dobiti.
+U okviru računa 330 - Revalorizacione rezerve pravno lice obezbjeđuje analitiku revalorizacionih rezervi po konkretnim sredstvima za koja je revalorizaciona rezerva formirana.
+Na računu 331 - Nerealizovani dobici i gubici po osnovu preračuna finansijskih izvještaja prikazanih u drugoj valuti prikazivanja iskazuju se nerealizovani dobici i gubici po osnovu efekata preračuna u drugu valutu prikazivanja i koji se uključuju u finansijske izvještaje izvještajnog pravnog lica.
+Na računu 332 - Nerealizovani dobici i gubici po osnovu vrednovanja finansijskih sredstava po fer vrijednosti iskazuju se pozitivni i negativni efekti promjene fer vrijednosti finansijskih sredstava u skladu sa MSFI 9.
+U okviru računa 332 pravno lice obezbjeđuje analitiku nerealizovanih dobitaka i gubitaka po konkretnim finansijskim sredstvima.
+Na računu 333 - Aktuarski dobici ili gubici po osnovu planova definisanih primanja iskazuju se aktuarski dobici i gubici u skladu sa MRS 19.
+Na računu 334 - Dobici ili gubici po osnovu udjela u ostaloj sveobuhvatnoj dobiti ili gubitku pridruženih društava iskazuje se udio ulagača u promjenama u ostaloj sveobuhvatnoj dobiti ili gubitku pridruženog društva u skladu sa MRS 28.
+Na računu 335 - Dobici ili gubici od instrumenata zaštite neto ulaganja u inostrano poslovanje iskazuju se u skladu sa MSFI 9 dobici i gubici od instrumenata zaštite neto ulaganja u inostrano poslovanje, uključujući i zaštitu monetarne imovine koja se smatra dijelom neto ulaganja.
+Na računu 336 - Dobici ili gubici po osnovu instrumenata zaštite rizika (hedžinga) novčanog toka iskazuje u skladu sa MSFI 9 dio dobitka ili gubitka od instrumenata zaštite novčanog toka.
+Na računu 337 - Ostale promjene nerealizovanih dobitaka i gubitaka iskazuju se promjene fer vrijednosti finansijske imovine raspoložive za prodaju u skladu sa paragrafom MRS 39.

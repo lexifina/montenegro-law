@@ -1,0 +1,2 @@
+# Član 67
+Na računima grupe 92 - Računi mjesta troškova nabavke, tehničke uprave i pomoćnih djelatnosti, odnosno na posebnim osnovnim računima koje pravno lice otvori u okviru računa ove grupe, poslije knjiženja u finansijskom knjigovodstvu iskazuju se odgovarajući troškovi u korist računa 902 - Računi za preuzimanje troškova, odnosno u korist računa 910 - Materijal (kada se zalihe materijala vode na ovom računu).

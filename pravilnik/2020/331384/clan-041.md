@@ -1,0 +1,4 @@
+# Član 41
+Na računima grupe 54 - Troškovi amortizacije i rezervisanja iskazuju se troškovi amortizacije nematerijalnih ulaganja i osnovnih sredstava i troškovi rezervisanja u skladu sa računovodstvenom politikom pravnog lica
+Na računu 540 - Troškovi amortizacije iskazuju se troškovi amortizacije nematerijalnih ulaganja i osnovnih sredstava obračunati prema računovodstvenoj politici pravnog lica, u korist odgovarajućih računa ispravke vrijednosti nematerijalnih ulaganja i osnovnih sredstava otvorenih u okviru računa grupe 01 i 02.
+Na računima 541, 542, 543, 544, 545 i 549 - troškovi rezervisanja prema nazivima računa, iskazuju se rezervisanja za troškove u garantnom roku, za zadržane kaucije i depozite i za obnavljanje prirodnih bogatstava, za restrukturiranje pravnog lica, isplatu naknada i drugih beneficija zaposlenima i ostala rezervisanja u korist odgovarajućih računa grupe 40 - Rezervisanja.

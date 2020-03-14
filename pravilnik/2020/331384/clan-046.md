@@ -1,0 +1,6 @@
+# Član 46
+Na računima grupe 59 - Gubitak poslovanja koje je obustavljeno, rashodi iz prethodnih izvještajnih perioda i prenos rashoda iskazuje se gubitak poslovanja koje je obustavljeno, rashodi iz ranijih izvještajnih perioda, rashodi (efekti) po osnovu promjene računovodstvenih politika i ispravke grešaka iz prethodnih izvještajnih perioda i prenos rashoda.
+Na računu 590 - Gubitak poslovanja koje je obustavljeno iskazuju se gubici organizacionih djelova za koje je, u skladu sa MSFI 5, donijeta odluka o obustavljanju poslovanja.
+Na računu 591 - Rashodi (efekti) promjene računovodstvenih politika i ispravke grešaka iz prethodnih izvještajnih perioda iskazuju se efekti promjene računovodstvene politike i ispravke grešaka iz prethodnih izvještajnih perioda za koje se pravno lice u skladu sa relevantnom regulativom opredijelio da računovodstveno ne obuhvata retroaktivno.
+Na računu 592 - Rashodi iz prethodnih izvještajnih perioda iskazuju se naknadno utvrđeni rashodi iz prethodnih izvještajnih perioda, sem u slučaju kada je u pitanju računovodstvena greška.
+Na računu 599 - Prenos rashoda iskazuje se prenos rashoda odobrenjem ovog računa na teret odgovarajućih računa grupe 71. Na kraju poslovne godine vrši se zaključivanje ovog računa njihovim zaduženjem u korist računa grupe 50, zaključno sa računima grupe 59, sem ovog računa.

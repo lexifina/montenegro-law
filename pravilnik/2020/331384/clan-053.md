@@ -1,0 +1,9 @@
+# Član 53
+Na računima grupe 66 - Finansijski prihodi iskazuju se prihodi od kamata, kursnih razlika, prihodi po osnovu efekata valutne klauzule, dividendi i ostali finansijski prihodi.
+Ovi prihodi se vrednuju prema MSFI 15, MRS 21 i drugim relevantnim MSFI.
+Na računu 660 - Finansijski prihodi od matičnog i zavisnih pravnih lica iskazuju se prihodi od kamata, pozitivnih kursnih razlika, dividendi i ostali finansijski prihodi lica koja u skladu sa MRS 27 ulaze u grupu za konsolidovanje.
+Na računu 661 - Finansijski prihodi od ostalih povezanih pravnih lica iskazuju se prihodi od kamata, pozitivnih kursnih razlika, dividendi i ostali finansijski prihodi od ostalih povezanih pravnih lica. U okviru ovog računa iskazuju se i prihodi od učešća u dobitku zajedničkih ulaganja koji se obračunavaju korišćenjem metode udjela.
+Na računu 662 - Prihodi od kamata iskazuju se prihodi od kamata po datim kreditima, po potraživanjima iz dužničko- povjerilačkih odnosa, zateznim i drugim kamatama, osim kamata po osnovu obaveza prema matičnom, zavisnim i ostalim povezanim pravnim licima. Na ovom računu se kod davaoca finansijskog lizinga iskazuju prihodi od kamata po finansijskom lizingu.
+Na računu 663 - Pozitivne kursne razlike iskazuju se pozitivne kursne razlike po osnovu potraživanja i obaveza u izvještajnom periodu, osim kursnih razlika iz odnosa prema matičnom, zavisnim i ostalim povezanim pravnim licima.
+Na računu 664 - Prihodi po osnovu efekata valutne klauzule iskazuju se pozitivni efekti proistekli iz zaštite potraživanja, plasmana i obaveza valutnom klauzulom, osim efekata valutne klauzule iz odnosa prema matičnom, zavisnim i ostalim povezanim pravnim licima.
+Na računu 669 - Ostali finansijski prihodi iskazuju se finansijski prihodi za koje nije propisan poseban račun u okviru računa grupe 66.

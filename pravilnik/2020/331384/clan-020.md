@@ -1,0 +1,8 @@
+# Član 20
+Na računima grupe 28 - Aktivna vremenska razgraničenja iskazuju se razgraničeni troškovi i prihodi, kao i odložena poreska sredstva i razgraničeni porez na dodatu vrijednost.
+Na računu 280 - Unaprijed plaćeni troškovi iskazuju se troškovi koji su unaprijed plaćeni. U korist ovog računa iskazuje se obračunati otpis unaprijed plaćenih troškova za odnosni izvještajni period.
+Na računu 281 - Potraživanja za nefakturisani prihod iskazuju se prihodi tekućeg izvještajnog perioda koji nijesu mogli biti fakturisani, a za koje su nastali troškovi u tekućem izvještajnom periodu.
+Na računu 282 - Razgraničeni troškovi po osnovu obaveza iskazuju se plaćeni transakcioni troškovi po osnovu primljenih kredita i emitovanih dužničkih instrumenata koji se, u skladu sa MRS 39, vode po amortizovanoj vrijednosti, primjenom metode efektivne kamatne stope. Ovi troškovi terete rashode u periodu otplate kredita ili drugih dužničkih instrumenata.
+Na računu 287 - Razgraničeni porez na dodatu vrijednost iskazuje se u skladu sa zakonom kojim se uređuje porez na dodatu vrijednost, porez na dodatu vrijednost u primljenim fakturama koje se evidentiraju u tekućem izvještajnom periodu, a pravo na odbitak prethodnog poreza nastaje u narednom izvještajnom periodu.
+Na računu 288 - Odložena poreska sredstva iskazuju se u skladu sa MRS 12 i drugim relevantnim standardima iznosi poreza iz dobiti koji mogu da se povrate u narednim periodima po osnovu odbitnih privremenih razlika, neiskorišćenih poreskih gubitaka i kredita.
+Na računu 289 - Ostala aktivna vremenska razgraničenja iskazuju se ostala aktivna vremenska razgraničenja koja nisu iskazana na drugim računima grupe 28.

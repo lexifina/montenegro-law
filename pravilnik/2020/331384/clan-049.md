@@ -1,0 +1,4 @@
+# Član 49
+Na računima grupe 62 - Prihodi od aktiviranja učinaka i robe iskazuju se prihodi po osnovu upotrebe robe, proizvoda i usluga za nematerijalna ulaganja, za osnovna sredstva, za materijal, za prirast osnovnog stada i za sopstveni transport nabavke materijala i robe, kao i za reprezentaciju. Ovi prihodi se priznaju i vrednuju u skladu sa MSFI 15 i drugim relevantnim MSFI.
+Na računu 620 - Prihodi od aktiviranja ili potrošnje robe za sopstvene potrebe iskazuju se prihodi po osnovu upotrebe robe za nematerijalna ulaganja, osnovna sredstva, materijal i rezervne djelove, kao i za reprezentaciju.
+Na računu 621 - Prihodi od aktiviranja ili potrošnje proizvoda i usluga za sopstvene potrebe iskazuju se prihodi po osnovu upotrebe proizvoda i usluga za nematerijalna ulaganja, osnovna sredstva, materijal i rezervne djelove, prirast osnovnog stada i sopstveni transport nabavke materijala i robe, kao i za reprezentaciju.

@@ -1,0 +1,11 @@
+# Član 27
+## Klasa 4: Rezervisanja i obaveze
+Na računima grupe 40 - Rezervisanja iskazuju se dugoročna i kratkoročna rezervisanja za troškove i rizike koji se priznaju i vrednuju u skladu sa MRS 37 i drugim relevantnim MSFI i računovodstvenom politikom.
+Kada nastane obaveza za koju je prethodno izvršeno rezervisanje, stvarni troškovi se ne iskazuju ponovo kao rashod, već se knjiženje sprovodi zaduženjem računa rezervisanja, a u korist odgovarajućeg računa obaveza (prema vrstama) ili odgovarajućeg računa sredstava (zalihe, novčana sredstva) u zavisnosti od karaktera rezervisanja, vrste nastale obaveze i načina na koji je ona izmirena. Neiskorišćeni iznos rezervisanja ukida se u korist računa 678 - Prihodi od ukidanja rezervisanja.
+Pravno lice u okviru računa grupe 40 otvaraju posebne račune za evidentiranje dugoročnih i kratkoročnih rezervisanja, što je u skladu i sa MRS 1.
+Na računu 400 - Rezervisanja za troškove u garantnom roku iskazuju se, u skladu sa MSFI i računovodstvenom politikom, rezervisanja za rizike po osnovu troškova garantnog roka.
+Na računu 401 - Rezervisanja za troškove obnavljanja prirodnih bogatstava iskazuju se, u skladu sa MSFI i računovodstvenom politikom, rezervisanja za obnavljanje zemljišta i za obnavljanje (reprodukciju) šuma.
+Na računu 402 - Rezervisanja za zadržane kaucije i depozite iskazuju se rezervisanja za troškove koji će se po osnovu zadržanih kaucija i depozita za posao izvršen kvalitetno i o roku i sl., s velikom izvjesnošću javiti u narednim izvještajnim periodima.
+Na računu 403 - Rezervisanja za troškove restrukturiranja iskazuju se, u skladu sa MRS 37 i računovodstvenom politikom, rezervisanja za troškove po osnovu restrukturiranja.
+Na računu 404 - Rezervisanja za naknade i druge beneficije zaposlenih iskazuju se rezervisanja po osnovu beneficija, kao što su otpremnine prilikom odlaska u penziju, jubilarne nagrade i druge obaveze prema zaposlenima, koje se isplaćuju u skladu sa stečenim pravima u toku trajanja i nakon prestanka zaposlenja.
+Na računu 409 - Ostala rezervisanja iskazuju se, u skladu sa MRS 37 i računovodstvenom politikom, rezervisanja za sudske sporove u toku, rezervisanja za izdate garancije i druga jemstva i ostala rezervisanja.

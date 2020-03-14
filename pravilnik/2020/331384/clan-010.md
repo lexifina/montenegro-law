@@ -1,0 +1,7 @@
+# Član 10
+Na računima grupe 11 - Nedovršena proizvodnja iskazuje se početno stanje i povećanje ili smanjenje vrijednosti zaliha nedovršene proizvodnje, poluproizvoda i djelova, kao i nedovršenih usluga po njihovoj bilansnoj vrijednosti.
+Priznavanje i vrednovanje zaliha nedovršene proizvodnje vrši se u skladu sa MRS 2, MRS 41 i drugim relevantnim MSFI.
+Na računima 110 - Nedovršena proizvodnja i 111 - Nedovršene usluge iskazuje se početno stanje, a na kraju izvještajnog perioda - povećanje ili smanjenje zaliha proizvodnje, nedovršenih proizvoda, poluproizvoda i djelova, kao i nedovršenih usluga po njihovoj bilansnoj vrijednosti.
+Ukoliko obveznik primjene ovog Pravilnika odluči da ne koristi račune klase 9, već da u okviru klase 5 izvrši sva neophodna rasčlanjivanja (u smislu otvaranja računa mjesta troškova i nosioca troškova), obveznik bi i u toku izvještajnog perioda koristio račune 110 i 111.
+Priznavanje i vrednovanje zaliha nedovršene proizvodnje i nedovršenih usluga vrši se u skladu sa MRS 2, MRS 41 i drugim relevantnim MSFI.
+Povećanje vrijednosti zaliha na računima 110 i 111 knjiži se zaduženjem tih računa u korist računa 630 - Povećanje vrijednosti zaliha nedovršene proizvodnje, gotovih proizvoda i nedovršenih usluga, a smanjenje vrijednosti zaliha na računima 110 i 111 knjiži se odobrenjem tih računa, a zaduženjem računa 631 - Smanjenje vrijednosti zaliha nedovršene proizvodnje, gotovih proizvoda i nedovršenih usluga.

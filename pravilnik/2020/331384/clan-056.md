@@ -1,0 +1,6 @@
+# Član 56
+Na računima grupe 69 - Dobitak poslovanja koje je obustavljeno, rashodi iz prethodnih izvještajnih perioda i prenos prihoda iskazuje se dobitak poslovanja koje je obustavljeno, prihodi iz prethodnih izvještajnih perioda, prihodi (efekti) po osnovu promjene računovodstvenih politika, ispravke grešaka iz prethodnih izvještajnih perioda i prenos prihoda.
+Na računu 690 - Dobitak poslovanja koje je obustavljeno iskazuju se dobici organizacionih djelova za koje je, u skladu sa MSFI 5, donijeta odluka o obustavljanju poslovanja.
+Na računu 691 - Prihodi (efekti) promjene računovodstvenih politika i ispravke grešaka iz prethodnih izvještajnih perioda iskazuju se pozitivni efekti promjene računovodstvene politike i ispravke grešaka iz prethodnih izvještajnih perioda za koje se pravno lice u skladu sa relevantnom regulativom opredijelio da računovodstveno ne obuhvata retroaktivno.
+Na računu 692 - Prihodi iz prethodnih izvještajnih perioda iskazuju se naknadno utvrđeni prihodi iz prethodnih izvještajnih perioda, sem u slučaju kada je u pitanju računovodstvena greška.
+Na računu 699 - Prenos prihoda iskazuje se prenos prihoda zaduženjem ovog računa u korist odgovarajućih računa grupe 71. Na kraju godine vrši se zaključivanje ovog računa njegovim odobrenjem, a na teret pojedinih računa grupe 60, zaključno sa računima grupe 69, sem ovog računa.
