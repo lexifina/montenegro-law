@@ -1,0 +1,2 @@
+# Član 3
+Pravno lice u pogledu stručnog kadra treba da ima najmanje jedno lice zaposleno ili angažovano sa završenim VII1 nivo kvalifikacije obrazovanja, fakultet iz oblasti poljoprivrednih nauka - poljoprivredne mehanizacije, ratarstvo, povrtarstvo, vinogradarstvo, voćarstvo, hortikultura, rasadničarstvo, zaštita bilja, biljna proizvodnja ili druge oblasti povezane sa mašinama uz završen specijalistički kurs za sredstva za zaštitu bilja sa najmanje tri godine radnog iskustva na poslovima poljoprivredne mehanizacije ili druge oblasti povezane sa mašinama.
