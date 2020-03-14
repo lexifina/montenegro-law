@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se način testiranja prijavljenih kandidata na javni oglas koji Uprava za izvršenje krivičnih sankcija (u daljem tekstu: Uprava) raspisuje za prijem u radni odnos pripravnika radi obavljanja pripravničkog staža i osposobljavanja za samostalno vršenje poslova obezbjeđenja pritvorenih i osuđenih lica, tretmana i reintegracije zatvorenika, stručne obuke i rada zatvorenika i zdravstvene zaštite pritvorenih i osuđenih lica (u daljem tekstu: pripravnik) i program i način sprovođenja stručnog osposobljavanja pripravnika.
