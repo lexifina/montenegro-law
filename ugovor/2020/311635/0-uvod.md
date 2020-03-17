@@ -1,0 +1,3 @@
+Na osnovu člana 21 stav 2 Zakona o zaključivanju i izvršavanju međunarodnih ugovora ("Službeni list CG", broj 77/08), Vlada Crne Gore na sjednici od 23. januara 2020. godine, donijela je
+ODLUKU O OBJAVLJIVANJU MEMORANDUMA O RAZUMIJEVANJU IZMEĐU VLADE CRNE GORE - MINISTARSTVA SAOBRAĆAJA I POMORSTVA I DANSKE POMORSKE UPRAVE U IME KRALJEVINE DANSKE
+O UZAJAMNOM PRIZNAVANJU SERTIFIKATA U SKLADU SA KONVENCIJOM STCW
