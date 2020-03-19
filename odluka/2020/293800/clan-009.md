@@ -1,0 +1,2 @@
+# Član 9
+Označavanje naziva ulica i trgova i označavanje zgrada izvršit će organ lokalne uprave nadležan za označavanje stambenih i poslovnih zgrada u skladu sa Zakonom o teritorijalnoj organizaciji Crne Gore ( "Sl. list CG" br. 54/11, 26/12, 27/13, 62/13, 12/14, 3/16, 31/17, 86/18 i 3/20) i Uredbom o načinu označavanja naziva naselja, ulica, trgova i zgrada i sadržaju i načinu vođenja evidencije ( "Sl. list CG" br. 6/12 i 65/16).
