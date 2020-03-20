@@ -1,0 +1,2 @@
+Na osnovu člana 4 Zakona o administrativnim taksama ("Službeni list CG", broj 18/19), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list CG" br 2/18 i 34/19) i člana 36 stav 1 tačka 9 Statuta Opštine Kotor ("Službeni list CG-Opštinski propisi" broj 37/19), nakon dobijanja saglasnosti Vlade Crne Gore Broj:07-569 od 27. februara 2020 godine, Skupština opstine Kotor, na XXXVIII sjednici održanoj 05. 03. 2020. godine, donijela je
+ODLUKU
