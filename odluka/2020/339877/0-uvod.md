@@ -1,0 +1,2 @@
+Na osnovu člana 39 stav 1 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore" broj 3/19), člana 6 Odluke o bližim kriterijumima za korišćenje sredstava tekuće budžetske rezerve i stalne budžetske rezerve ("Službeni list Crne Gore-Opštinski propisi" broj 2/16) i člana 59 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi" broj 37/19), predsjednik Opštine Kotor donosi
+ODLUKU
