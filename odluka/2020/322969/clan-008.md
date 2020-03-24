@@ -1,0 +1,2 @@
+# Član 8
+Obveznici plaćanja članskog doprinosa iz člana 1 ove odluke, dužni su da organu uprave nadležnom za poslove lokalnih prihoda, dostave dokaz o visini ostvarenih poslovnih prihoda umanjenih za iznos poslovnih rashoda (pojedinačno za svaku organizacionu jedinicu u kojoj se obavlja turistička, ugostiteljskai/ili sa turizmom neposredno povezana djelatnost) do 31. marta tekuće godine za prethodnu godinu, kao i akt nadležnog organa kojim se utvrđuje djelatnost obveznika.
