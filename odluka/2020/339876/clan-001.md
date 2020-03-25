@@ -1,0 +1,3 @@
+# Član 1
+## o upotrebi sredstava stalne budžetske rezerve radi otklanjanja posljedica štete od zemljotresa koji je zadesio Grad Zagreb - Hrvatska
+Radi otklanjanja posljedica vanrednih okolnosti - štete od zemljotresa koji je zadesio grad Zagreb - Hrvatska u martu mjesecu opredjeljuju se sredstva iz stalne budžetske rezerve Budžeta Opštine Kotor za 2020. godinu u ukupnom iznosu od 5.000,00 € (budžetska pozicija 4721- Stalna budžetska rezerva , organizaciona jedinica 011 Stručna služba Predsjednika Opštine ) i to u u korist žiro računa Grada Zagreba - Hrvatska,Trg Stjepana Radića 1, Zagreb, IBAN HR5723600001502749340, SWIFT ZABAHR2X kod Zagrebačke banke d.d., Trg bana Josipa Jelačića 10, Zagreb sa naznakom "donacija Gradu Zagrebu - Hrvatska".
