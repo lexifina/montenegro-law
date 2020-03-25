@@ -1,0 +1,6 @@
+Na osnovu člana 12 stav 3 Uredbe o Vladi Crne Gore ("Službeni list CG", br. 80/08, 14/17 i 28/18), Vlada Crne Gore, na sjednici od 6. februara 2020. godine, donijela je
+ODLUKU
+O IZMJENAMA ODLUKE O OBRAZOVANjU DIJELA MJEŠOVITE KOMISIJE ZA
+SPROVOĐENjE UGOVORA O UREĐENjU ODNOSA OD ZAJEDNIČKOG
+INTERESA IZMEĐU VLADE CRNE GORE I JEVREJSKE ZAJEDNICE U CRNOJ
+GORI
