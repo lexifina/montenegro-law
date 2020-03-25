@@ -1,0 +1,7 @@
+# Član 3
+Osnovica za utvrđivanje poreza na nepokretnosti je tržišna vrijednost nepokretnosti na dan 1. januara godine za koju se porez utvrđuje, utvrđena primjenom osnovnih kriterijuma propisanih Zakonom o porezu na nepokretnosti i propisom kojom se bliže uređuju kriterijumi i metodologija za određivanje tržišne vrijednosti nepokretnosti.
+Tržišna vrijednost nepokretnosti koja služi kao osnovica za utvrđivanje poreza na nepokretnosti utvrđuje se kao proizvod veličine nepokretnosti i prosječne tržišne cijene nepokretnosti određene u skladu sa Uredbom o bližim kriterijumima i metodologiji za određivanje tržišne vrijednosti nepokretnosti i ovom Odlukom koja se koriguje koeficijentima za utvrđivanje tržišne vrijednosti nepokretnosti.
+Ukoliko nadležni organ za poslove statistike ne objavi prosječnu cijenu m² novoizgrađenog stambenog objekta za Opštinu Mojkovac, prosječna tržišna cijena m² stambenog objekta utvrđuje se na osnovu podataka o prosječnoj tržišnoj cijeni m² stambenog objekta u Crnoj Gori za godinu koja prethodi godini za koju se porez utvrđuje korigovana opštinskim koeficijentom nepokretnosti za Opštinu Mojkovac koji se utvrđuje u iznosu od 0,51.
+Korektivni koeficijent za određivanje prosječne tržišne cijene m² poslovnog objekta i poslovnih prostorija iznosi 1,20.
+Korektivni koeficijent za određivanje prosječne tržišne cijene m² pomoćnog objekta nestambenog prostora garaže, odnosno garažna mjesta i drugo iznosi 0,30.
+Korektivni koeficijent za određivanje prosjećne tržišne cijene m² nepokretnog privremenog objekta iznosi 0,30.
