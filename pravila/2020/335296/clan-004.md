@@ -1,0 +1,3 @@
+# Član 4
+O prilozima ostvarenim u smislu člana 2 ovih pravila, politički subjekti izvještavaju Agenciju za sprječavanje korupcije podnošenjem izvještaja o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora za izbornu kampanju i petnaestodnevnih izvještaja o prilozima pravnih i fizičkih lica u toku izborne kampanje koji se podnose u skladu sa članom 50 stav 2 i članom 53 stav 2 Zakona o finansiranju političkih subjekata i izbornih kampanja, a iskazuju ih i kroz izvještaj o godišnjim prihodima, imovini i rashodima.
+Svi nenovčani prilozi prijavljeni u izvještajima iz stava 1 ovog člana u obrascima PPL, PFL, KZR ili KZT moraju imati svoje ekvivalente i u datim kategorijama troškova.
