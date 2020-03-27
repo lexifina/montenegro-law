@@ -1,0 +1,2 @@
+# Član 12
+Izvršno rješenje o izrečenoj disciplinskoj mjeri iz člana 9 ovog pravilnika, u roku od tri dana, dostavlja se okrivljenom, komandi, odnosno jedinici Vojske ili Ministarstvu odbrane, državnom organu, privrednom društvu ili pravnom licu i međunarodnoj organizaciji u kojoj je postavljen, odnosno raspoređen, Generalštabu Vojske i organizacionoj jedinici Ministarstva odbrane nadležnoj za ljudske resurse.

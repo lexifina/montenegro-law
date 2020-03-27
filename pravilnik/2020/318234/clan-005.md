@@ -1,0 +1,2 @@
+# Član 5
+Prilikom raspravljanja o odgovornosti okrivljenog za disciplinsku grešku, ovlašćeno lice za pokretanje i vođenje disciplinskog postupka zbog disciplinske greške dužno je da sasluša okrivljenog i da radi utvrđivanja pravilnog i potpunog činjeničnog stanja pribavi sve potrebne dokaze koji su od značaja za pokretanje i vođenje disciplinskog postupka i utvrđivanje disciplinske odgovornosti okrivljenog.
