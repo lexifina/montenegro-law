@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o načinu ocjenjivanja usaglašenosti kvalifikovanih sredstava za izradu elektronskih potpisa i elektronskih pečata i sadržaju liste certifikovanih kvalifikovanih sredstava za izradu elektronskih potpisa i elektronskih pečata ("Službeni list CG", broj 53/18) u članu 3 stav 1 mijenja se i glasi:
+"Dokumentaciju iz člana 2 ovog pravilnika organu državne uprave nadležnom za poslove elektronske uprave i elektronskog poslovanja dostavlja pravno, odnosno fizičko lice, koje je upisano u registar kvalifikovanih davalaca elektronskih usluga povjerenja u skladu sa Zakonom (u daljem tekstu: davalac elektronskih usluga povjerenja), odnosno organ vlasti iz člana 4 stav 4 Zakona, uz zahtjev za ocjenjivanje usaglašenosti iz člana 1 ovog pravilnika.".
