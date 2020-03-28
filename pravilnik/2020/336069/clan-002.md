@@ -1,0 +1,2 @@
+# Član 2
+U vršenju elektronskih usluga povjerenja i kvalifikovanih elektronskih usluga povjerenja organ državne uprave nadležan za poslove elektronske uprave i elektronskog poslovanja (u daljem tekstu: Ministarstvo) postupa u skladu sa standardom ETSI EN 319 401 i drugim standardima na koje upućuje taj standard, kao i sa Zakonom o elektronskoj identifikaciji i elektronskom potpisu (u daljem tekstu: Zakon).
