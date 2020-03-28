@@ -1,0 +1,4 @@
+# Član 6
+Provjera identiteta potpisnika u postupcima izdavanja, suspenzije, obnove i opoziva kvalifikovanih certifikata za kvalifikovani elektronski potpis ili kvalifikovani elektronski pečat sprovodi se u skladu sa minimalnim tehničkim standardima i pratećim procedurama iz člana 60 Zakona koji se odnose na stepen sigurnosti značajan ili visok, internim aktima i standardom ETSI EN 319 411-1.
+Provjera obilježja za pravna lica iz člana 34 stav 1 tačka 3 Zakona sprovodi se u skladu sa minimalnim tehničkim standardima i pratećim procedurama iz člana 60 Zakona koji se odnose na stepen sigurnosti značajan ili visok.
+Provjera identiteta potpisnika i, po potrebi, drugog obilježja fizičkog i pravnog lica može se vršiti i na osnovu važećeg kvalifikovanog certifikata za elektronski potpis ili elektronski pečat.

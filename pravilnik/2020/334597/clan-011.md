@@ -1,0 +1,4 @@
+# Član 11
+Sistem čuvanja relevantnih podataka iz člana 34 stav 1 tačka 8 Zakona koji posjeduje kvalifikovani davalac elektronskih usluga povjerenja mora da ispunjava standarde: ETSI EN 319 411-1 i ETSI EN 319 411-2.
+Podatke iz stava 1 ovog člana kvalifikovani davalac elektronskih usluga povjerenja čuva u vremenskom periodu od deset godina od dana isteka certifikata, odnosno izvršene usluge, a naročito u cilju obezbjeđenja dokaza o izvršenoj elektronskoj usluzi povjerenja za potrebe dokazivanja i verifikacije u sudskim, upravnim i drugim postupcima i dužan je da radi njihovog čuvanja preduzima mjere u skladu sa članom 52 stav 2 Zakona.
+Podaci u smislu stava 1 ovog člana, obuhvataju podatke o registraciji korisnika i informacije o značajnim događajima vezanim za operativni rad kvalifikovanog davaoca elektronskih usluga povjerenja, podatke o upravljanju ključevima i certifikatima, odnosno uslugama koje kvalifikovani davalac elektronskih usluga povjerenja pruža.

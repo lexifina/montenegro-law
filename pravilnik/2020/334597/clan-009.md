@@ -1,0 +1,2 @@
+# Član 9
+Radi sprječavanja falsifikovanja certifikata i garantovanja tajnosti procesa kreiranja podataka za izradu elektronskog potpisa i dostavljanja potpisnicima certifikata na bezbjedan način u smislu člana 34 stav 1 tačka 6 Zakona, kvalifikovani davalac elektronskih usluga povjerenja prilikom pružanja usluga, koristi opremu za kreiranje naprednog elektronskog potpisa ili naprednog elektronskog pečata i preduzima mjere u skladu sa članom 52 stav 2 Zakona i standardima ETSI EN 319 401 ETSI EN 319 411-1, ETSI EN 319 411-2 i ETSI EN 319 421.

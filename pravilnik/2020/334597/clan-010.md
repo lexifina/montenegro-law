@@ -1,0 +1,3 @@
+# Član 10
+Finansijska sredstva za osiguranje od rizika i odgovornosti za moguću štetu nastalu izdavanjem kvalifikovanih certifikata ili iznos sredstava u ugovoru o osiguranju, kvalifikovani davalac elektronskih usluga povjerenja utvrđuje praktičnim pravilima sadržanim u internim aktima, pri čemu iznos tih sredstava ne može biti manji od iznosa osiguranja rizika od odgovornosti utvrđenog u skladu sa članom 55 Zakona.
+Ograničenja i garancije iz stava 1 ovog člana utvrđuju se praktičnim pravilima sadržanim u internim aktima kvalifikovanog davaoca elektronskih usluga povjerenja, u skladu sa Zakonom i standardima: ETSI EN 319 401 i ETSI EN 319 421.
