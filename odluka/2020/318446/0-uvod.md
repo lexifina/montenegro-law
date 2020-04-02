@@ -1,0 +1,2 @@
+Na osnovu člana 5 Zakona o putevima ("Službeni list RCG", br. 42/04 i "Službeni list CG" br. 21/09, 54/09, 40/10, 73/10, 36/11, 40/11 i 92/17), članova 6, 7 i 8 Odluke o opštinskim i nekategorisanim putevima na teritoriji opštine Bar ("Službeni list Crne Gore - Opštinski propisi", br. 46/16), člana 100 st. 1 tč. 16 Statuta Opštine Bar ("Službeni list Crne Gore - opštinski propisi", broj 37/18), predsjednik Opštine Bar donosi
+ODLUKU

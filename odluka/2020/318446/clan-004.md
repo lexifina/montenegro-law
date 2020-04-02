@@ -1,0 +1,2 @@
+# Član 4
+Zbog neadekvatnih katastarskih podloga Komisija iz člana 3 ove odluke nije mogla ucrtati puteve u MZ "Ostros", već je evidentirala njihove dužine shodno zastoru od kojeg su napravljeni. Kategorija svih puteva u MZ "Ostros", zbog samog značaja i povezivanja u prostoru spadaju u nekategorisane puteve. Ukupno je evidentirano 28 puteva ukupne dužine 30.340metara, i to: asfaltiranih puteva 12.370m, betonskih puteva - 5.360m i makadamskih puteva - 12.610m.
