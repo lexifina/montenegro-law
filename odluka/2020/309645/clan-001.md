@@ -1,0 +1,5 @@
+# Član 1
+## o dopuni Odluke o bližim kriterijumima za korišćenje sredstava tekuće i stalne budžetske rezerve
+U Odluci o bližim kriterijumima za korišćenje sredstava tekuće i stalne budžetske rezerve ("Službeni list Crne Gore - opštinski propisi", br. 002/20 od 20.01.2020) poslije člana 10 dodaje se novi član koji glasi:
+"Član 10a
+Izuzetno, za vrijeme trajanja mjera Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa ("Službeni list Crne Gore", br. 022/20 od 24.03.2020, 024/20 od 26.03.2020) i Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa ("Službeni list Crne Gore", br. 023/20 od 25.03.2020) i drugih naredbi koje je donijelo Ministarstvo zdravlja, sredstva tekuće i stalne budžetske rezerve će se koristiti za hitne nabavke radi snabdijevanja stanovništva opštine Tuzi osnovnim namirnicama i nesmetanog funkcionisanja zbog uvođenja karantina na teritoriji opštine Tuzi."
