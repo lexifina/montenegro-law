@@ -1,0 +1,4 @@
+# Član 1
+U Školskom kalendaru za 2019/2020. godinu ("Službeni list CG", broj 46/19) u prilogu koji čini njegov sastavni dio, tekstualni dio rasporeda organizovanja obrazovno-vaspitnog rada mijenja se i glasi:
+"Zbog epidemije zarazne bolesti Covid-19 odlaže se testiranje postignuća učenika na kraju drugog ciklusa osnovne škole; eksterna provjera znanja učenika na kraju trećeg ciklusa osnovne škole; organizovanje maturskog i stručnog ispita; izdavanje diploma o maturskom i stručnom ispitu i PISA i PIRLS probna testiranja do donošenja akta organa državne uprave nadležnog za poslove zdravlja o prestanku propisanih mjera preduzetih za sprječavanje unošenja odnosno širenja zarazne bolesti Covid-19.
+Raspored provjere znanja, organizovanje ispita i izdavanja diploma iz stava 1 ovog člana utvrdiće organ državne uprave nadležan za poslove obrazovanja u saradnji sa Ispitnim centrom, najmanje 20 dana prije provjere znanja odnosno održavanja ispita."
