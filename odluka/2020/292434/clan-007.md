@@ -1,0 +1,4 @@
+# Član 7
+Opština ima menadžera.
+Menadžer predlaže i učestvuje u pripremi i realizaciji planova i programa razvoja opštine kojima se podstiče ekonomski razvoj, preduzetnička inicijativa, i javno privatno partnerstvo, obezbjeđuje zaštita životne sredine i održivi razvoj, priprema i upravlja projektima koji se finansiraju iz međunarodnih fondova i drugih izvora, prati njihovu realizaciju, priprema informacije i izvještaje o realizaciji projekta, uspostavlja i vodi bazu podataka o planovima, programima i projektima, inicira izmjene i dopune propisa, u cilju stvaranja podsticajnog ambijenta za razvoj Opštine i vrši druge poslove koje mu povjeri Predsjednik opštine.
+Menadžera postavlja Predsjednik opštine na osnovu javnog konkursa na vrijeme od 5 godina. Menadžer za svoj rad odgovara Predsjedniku opštine.

@@ -1,0 +1,43 @@
+# Član 19
+## Direkcija za investicije, izgradnju i saobraćaj
+Direkcija za investicije, izgradnju i saobraćaj vrši poslove uprave koji se odnose na:
+- pripremu srednjoročnog i jednogodišnjeg programa izgradnje, uređivanja, korišćenja i zaštite građevinskog zemljišta;
+- pripremu građevinskog zemljišta za izgradnju i rekonstrukciju svih vrsta objekata i komunalno opremanje gradskog građevinskog zemljišta(puteve-ulice u naselju, uključujući pješačke prolaze, trgove i javna parkirališta;
+- objekte javne rasvjete;
+- zelene površine u naselju;
+- parkove-pješačke staze, travnjake, terene dječih igrališta, javnih gradskih objekata;
+- komunalne objekte i instalacije do priključka na urbanističku parcelu i dr.);
+- vršenje pravnih, finansijskih, tehnički, administrativnih stručnih poslova za realizaciju programa i praćenje njihove realizacije;
+- vršenje poslova na usklađivanju programa uređivanja građevinskog zemljišta sa planovima razvoja pojedinih djelatnosti;
+- preduzimanje mjera zaštite spomenika i kulture i zaštite objekata prirode koji bi mogli biti ugroženi radovima na pripremi zemljišta, vršenje poslova u vezi sa rušenjem postojećih objekata i uređaja i uklanjanje materijala, kao i premještanje postojećih podzemnih i nadzemnih instalacija;
+- poslove izgradnje, rekonstrukcije, održavanje, zaštite i korišćenja i upravljanje putevima u zahvatu područja posebne namjene, uz prethodnu saglasnost nadležnog organa državne uprave;
+- pripremu poziva za javno nadmetanje i sprovođenje postupaka ustupanja radova za izradu planova i tehničke dokumentacije izvođenje radova na izgradnji, rekonstrukciji, redovnom i investicionom održavanju objekata koja finansira Opština, organizovanje stručne kontrole i kvaliteta izvedenih radova;
+- pribavljanje odobrenja za građenje, prijem i predaju na upotrebu izgrađenih objekata, pripremu finansijske dokumentacije i praćenje utroška finansijskih sredstava;
+- utvrdjivanje ispunjenosti uslova za obavljanje auto taksi prevoza i linijskog prevoza i obavljanje javnog prevoza teretnim motornim vozilima kao i obavljanje prevoza za sopstvene potrebe;
+- donošenje plana linija, raspisivanje i sprovodjenje konkursa za izbor prevoznika za obavljanje javnog prevoza putnika u gradskom i prigradskom linijskom saobraćaju;
+- utvrdjivanje, registrovanje i ovjeravanje reda vožnje po pojedinim linijama, praćenje cijena usluga prevoza u linijskom i vanlinijskom prevozu putnika;
+- upravni nadzor kod subjekata kojima je povjerena funkcija obavljanja javnog prevoza putnika u gradskom i prigradskom linijskom saobraćaju i auto taksi prevozu putnika;
+- davanje mišljenja i pripremu predloga akta o davanju saglasnosti na odredbe Statuta i drugih akata kojima se uredjuje način ostvarivanja javnog interesa u oblasti saobraćajne infrastrukture čiji je osnivač Opština;
+- održavanje i obnavljanje saobraćajne signalizacije, održavanja uličnih oznaka;
+- vrši poslove pripreme, organizovanja i praćenja zimskog održavanja opštinskih puteva (čišćenja snijega);
+- pripremu propisa i drugih akata koji se odnose na razvoj, izgradnju, rekonstrukciju, održavanje, zaštitu, korišćenje i upravljanje opštinskim putevima (lokalni putevi i ulice u naseljima);
+- određivanje nekategorisanih puteva i uređivanje načina njihovog fiansiranja;
+- izdaje saglasnost za priključak prilaznog puta na opštinski put;
+- izdavanje saobraćajne saglasnosti;
+- utvrđivanje visine naknade za korišćenje opštinskih puteva, mjerila za kategorizaciju opštinskih puteva;
+- učestvovanje u pripremi Projekta regulacije saobraćaja i izmjena u režimu saobraćaja;
+- izdavanje odobrenja za potpunu ili djelimičnu zabranu saobraćaja i izmjene režima saobraćaja za vrijeme izvođenja radova na saobraćajnicama;
+- izdavanje odobrenja za kretanje motornih vozila u zabranjenim zonama.
+- određivanje autobuskih i taksi stajališta;
+- izdavanje privremenog odobrenja drugom prevozniku za obavljanje javnog prevoza putnika u gradskom i prigradskom linijskom saobraćaju za grupu linija od koje je prevoznik sam odustao ili koja mu je oduzeta;
+- izdavanje odobrenja za lokaciju i saobraćajne uslove za privremena taksi stajališta;
+- uredjivanje javnog prevoza putnika u gradskom i prigradskom linijskom i vanlinijskom saobraćaju;
+- praćenje stanja izgradnje, održavanja, korišćenja i zaštite opštinskih puteva i predlaganje i preduzimanje odgovarajućih mjera;
+- učestvovanje u pripremi i izradi godišnjih programa izgradnje i održavanja saobraćajne infrastrukture;
+- davanje mišljenja u vezi sa informativnim i drugim materijalima javnih preduzeća iz ovih oblasti koji se dostavljaju Skupštini i Predsjedniku opštine;
+- praćenje realizacije investicionih programa koje finansira Opština u ovim oblastima;
+- saradnja sa odgovarajućim nevladinim organizacijama;
+- vodi upravni postupak za slobodan pristup informacijama iz svog djelokruga;
+- pripremu izvještaja o postupanju u upravnim stvarima iz svoje nadležnosti;
+- priprema informativnih i drugih stručnih materijala za Skupštinu i Predsjednika opštine;
+- vrši i druge poslove iz svog djelokruga, u skladu sa zakonom i drugim propisima po nalogu Predsjednika opštine i Glavnog administratora.

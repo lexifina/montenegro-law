@@ -1,0 +1,4 @@
+# Član 55
+Glavni administrator, stara se o ostvarivanju odnosa i saradnje organa i službi i usklađenosti njihovog rada, obezbjeđuje izvršenje akata Predsjednika opštine koje donosi u vršenju poslova nadzora, koordinira radom organa i službi lokalne uprave, predlaže, preduzima mjere i upozorava starješinu organa-službe za slučaj da organ- služba lokalne uprave ne vrši poslove iz svoga djelokruga na zakonit i efikasan način.
+Glavni administrator dužan je da postupi po aktu Predsjednika opštine koji donosi u vršenju funkcije usmjeravanja i usklađivanja rada organa i službi lokalne uprave, u roku koji je aktom određen.
+Ako Glavni administrator ne postupi po aktu iz stava 2 ovog člana, odnosno ako ne obavlja poslove u skladu sa zakonom, Predsjednik opštine može pokrenuti postupak razrješenja Glavnog administratora, u skladu sa Statutom.

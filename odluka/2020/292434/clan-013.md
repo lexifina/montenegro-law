@@ -1,0 +1,38 @@
+# Član 13
+## Sekretarijat za društvene djelatnosti
+Sekretarijat za društvene djelatnosti vrši poslove uprave koji se odnose na:
+- obezbjeđivanje uslova za razvoj i unapređenje kulture i stvaralaštva, kulturno umjetničkog amaterizma;
+- ostvarivanje svih vidova saradnje u oblasti kulture;
+- donošenje propisa, programa i drugih akata za razvoj kulture u opštini u pozorišnoj, bibliotečkoj, muzejskoj, kinematografskoj, arheološkoj i drugim oblastima razvoja kulture i umjetničkog stvaralaštva, i organizovanje kulturnih manifestacija, praćenje rada i podsticanje razvoja nevladinih organizacija u ovoj oblasti;
+- praćenje stanja u oblasti javnog informisanja i obrazovanja;
+- staranje o dostavljanju podataka o djeci dorasloj za upis u osnovnu školu iz naselja koja pripadaju području škole;
+- podnošenje zahtjeva za usmjeravanje i vršenje usmjeravanja djece sa posebnim potrebama i u vezi sa tim imenovanje komisije za usmjeravanje djece sa posebnim potrebama;
+- iniciranje i podrška mjerama u oblasti socijalne i zdravstvene zaštite, praćenje i učestvovanje u obezbjeđivanju uslova za unapređenje primarne zdravstvene zaštite koji su od neposrednog interesa za lokalno stanovništvo, posebno staranje o zaštiti zdravlja omladine podsticanjem rada NVO iz te oblasti, kao i drugih oblika prevencije narkomanije i bolesti zavisnosti;
+- praćenje razvoja i unapređenje sporta i fizičke kulture;
+- organizovanje rada ustanova u oblasti sporta i fizičke kulture;
+- organizovanje sportskih manifestacija, razvoj i unapređenje dječjeg i omladinskog sporta;
+- dodjelu nagrada i priznanja u oblasti sporta i fizičke kulture, izradu programa finansiranja aktivnosti u sportu; - vođenje postupka i obavljanje stručnih i administrativnih poslova za potrebe opštinske komisije za sport;
+- praćenje rada i podsticanje razvoja nevladinih organizacija u ovoj oblasti;
+- inicira pripremu projekata za mlade sa ciljem unapređenja položaja mladih, podstiče saradnju između opštine i omladinskih organizacija kao i druge poslove od značaja za aktivno učešće mladih u životu lokalne zajednice;
+- utvrđenje i sprovođenje omladinske politike;
+- staranje o unapređenju života mladih, učestvovanje u izradi lokalnih akcionih planova i opštinskih propisa za mlade koji se odnose na: obrazovanje, zapošljavanje, učešće mladih u životu društva, zdravlje, informisanost i mobilnost, slobodno vrijeme, kulturu, porodicu;
+- vršenje upravnog nadzora i poslova u vezi sa ostvarivanjem prava osnivača prema javnim ustanovama iz oblasti kulture, sporta i informisanja;
+- davanje saglasnosti vaspitno-obrazovnim ustanovama na vrijeme organizovanja rada u istim,
+- uređivanje odnosa i obezbjeđivanje primjene propisa i drugih akata radi ostvarivanja prava iz oblasti socijalne i dječje zaštite, kućne njege i pomoći starim i invalidnim licima;
+- ostvarivanje rodne ravnopravnosti i zaštita ljudskih i manjinskih prava;
+- obavljanje određenih poslova u obimu utvrđenom Zakonom o zaštiti spomenika kulture i spomen obilježja, vođenje registra i izradu programa podizanja spomen obilježja;
+- podsticanje obrazovnog rada i razvoja mladih talenata, predlaganje kriterijuma i vođenje postupka za ostvarivanje prava na stipendiranje talentovanih studenata;
+- koordiniranje rada na zaštiti djece svih institucija koje rade sa djecom i za djecu, i staranje o održivosti Lokalnog plana akcije za djecu;
+- izradu nacrta i prijedloga akata u vezi sa utvrđivanjem kriterijuma za raspodjelu sredstava namijenjenih finansiranju nevladinih organizacija, sačinjavanje konkursa, vođenje postupka po konkursu i obavljanje stručno-administrativnih poslova vezanih za rad i odluke nadležne komisije i izrada ugovora o međusobnim odnosima opštine i NVO u realizaciji prihvaćenih projekata i praćenje njihove realizacije;
+- vođenje evidencije nevladinih organizacija za teritoriju Opštine;
+- vršenje stručnih i drugih poslova, koji su shodno propisima povjereni opštini u dijelu zbrinjavanja izbjeglih i raseljenih lica;
+- izradu projekata iz djelokruga Sekretarijata i saradnja sa međunarodnim organizacijama i institucijama, NVO i fondacijama, javnim službama čiji je osnivač država, nadležnim ministarstvima itd. sa ciljem unapređenja stanja u svim oblastima društvenih djelatnosti i vršenje drugih poslova iz djelokruga Sekretarijata;
+- izradu nacrta i prijedloga odluka o radu mjesnih zajednica;
+- poslove u vezi sa osnivanjem i organizacijom mjesnih zajednica;
+- usklađivanje i usmjeravanje rada mjesnih zajednica u skladu sa zakonom, Statutom opštine i drugim propisima, obavljanje stručnih i administrativno-tehničkih poslova za mjesne zajednice;
+- upis mjesnih zajednica u registar i vođenje registra mjesnih zajednica u skladu sa zakonom, organizovanje i obavljanje poslova mjesnih kancelarija;
+- pružanje stručne i tehničke pomoći organima mjesnih zajednica u organizovanju i sprovođenju neposrednih oblika izjašnjavanja i odlučivanja građana (inicijativa, građanska inicijativa, zbor građana i referendum);
+- vođenje upravnog postupka za slobodan pristup informacijama iz svog djelokruga;
+- pripremu izvještaja o postupanju u upravnim stvarima iz svoje nadležnosti;
+- pripremu izveštaja o stanju u oblasti kao i pripremu informativnih i drugih stručnih materijala za Skupštinu, predjsenika opštine i organe uprave iz svog djelokruga;
+- vrši i druge poslove iz svog djelokruga, u skladu sa zakonom i drugim propisima po nalogu Predsjednika opštine i Glavnog administratora.

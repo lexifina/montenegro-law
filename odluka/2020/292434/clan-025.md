@@ -1,0 +1,57 @@
+# Član 25
+Služba Predsjednika opštine
+Obavlja stručne i druge poslove koji se odnose na vršenje izvršne funkcije Predsjednika opštine, radnih tijela Predsjednika, a naročito:
+- vrši poslove javnih nabavki za organe i službe lokalne uprave, u skladu sa zakonom;
+- prati ostvarivanje sistema javnih nabavki;
+- prati usaglašenost propisa kojima se uređuju javne nabavke, priprema stručne osnove, inicira i učestvuje u pripremi propisa o javnim nabavkama;
+- daje saglasnost naručiocima o ispunjenosti uslova za sprovođenje odgovarajućeg postupka javne nabavke, u skladu sa zakonom;
+- pruža savjetodavnu pomoć na zahtjev naručioca;
+- organizuje i sprovodi stručno osposobljavanje i usavršavanje zaposlenih i drugih lica za vršenje poslova javnih nabavki;
+- objavljuje planove javnih nabavki, pozive za javno nadmetanje, odluke o kvalifikaciji kandidata, odluke o izboru najpovoljnije ponude, odluke o obustavi postupka javne nabavke, odluke o poništavanju postupka javne nabavke, ugovore o javnim nabavkama, izmjene, odnosno dopune plana javnih nabavki, poziva za javno nadmetanje, odluka i ugovora, i druge akte u skladu sa zakonom;
+- priprema i organizuje sjednice za rad Predsjednika odnosno njegovih tijela;
+- radi na izradi propisa i drugih akata koje donosi Predsjednik opštine;
+- u saradnji sa nadležnim organima radi na izradi propisa i drugih akata iz njihove nadležnosti;
+- vrši poslove pripreme i izrade registra rizika i knjige procedura za Opštinu;
+- vrši poslove koji se odnose na izradu kadrovskog plana i plana integriteta;
+- priprema godišnji izvještaj o radu Predsjednika opštine i organa lokalne uprave;
+- vrši poslove prevođenja dopisa, dokumenata i drugih akata proslijeđenih Predsjedniku opštine;
+- prati realizaciju akata i zaključaka Predsjednika opštine i njegovih radnih tijela i radi na izradi stručno- informativnog materijala iz nadležnosti Predsjednika opštine;
+- učestvuje u izradi razvojnih programa, predlaže projekte i stara se o njihovoj relalizaciji, daje stručna mišljenja radnim tijelima Predsjednika opštine;
+- priprema sastanke Predsjednika i potpredsjednika opštine koji se organizuju u Opštini i stara se o realizaciji utvrđenih obaveza sa tih sastanaka, obezbjeđuje materijale i preko biroa za odnose sa javnošću organizuje saradnju sa novinarima u vezi sa obavještavanjem javnosti o radu Predsjednika i organa lokalne uprave i javnih službi;
+- obavlja poslove u vezi sa ostvarivanjem saradnje sa drugim opštinama, skupštinom i Vladom Crne Gore,
+- postupa po prestavkama i pritužbama građana i priprema odgovore po istima;
+- postupa po prestavkama koje državni organi upućuju Predsjedniku opštine radi utvrđivanja činjenica, odnosno rješavanja pitanja koja su predmet tih predstavki i pritužbi:
+- zakazuje prijeme stranaka kod Predsjednika opštine i po potrebi vrši prijem stranaka;
+- obavljanje poslova protokola za organe lokalne samuprave i organe i službe lokalne uprave;
+- vrši protokolarne poslove za potrebe Predsjednika opštine i Skupštine, potpredsjednike opštine, Glavnog administratora, a u saradnji sa Službom Skupštine organizuje proslavu praznika Opštine " 30. Septembar ";
+- obavlja poslove u vezi sa ostvarivanjem saradnje sa Skupštinom i Vladom CG i sa opštinama i gradovima u zemlji i inostranstvu;
+- organizacione i stručno-tehničke poslove koji se odnose na: službeni boravak predstavnika iz drugih opština i drugih gostiju u Rožajama, službeni boravak predstavnika opštine Rožaje u drugim opštinama, svečanosti, proslave, uručenja odlikovanja i priznanja i organizovanja svečanih sjednica;
+- organizaciju potpisivanja međunarodnih i drugih službenih dokumenata;
+- komemorativne skupove i polaganje vijenaca na spomen obilježja;
+- organizovanje posjeta stranih i domaćih delegacija;
+- evidenciju značajnih protokolarnih posjeta;
+- protokolarne poslove u vezi sa službenim posjetama Predsjednika i boravkom raznih delegacija i drugih posjeta Opštini Rožaje;
+- kompletiranje materijala;
+- vršenje poslova korespondencije, vođenja evidencije poruka i termina dolazaka stranaka;
+- organizovanje, planiranje i realizaciju informacionog sistema Opštine, organizovanje funkcionisanja službe informatike za organe i službe lokalne uprave, javna preduzeća i ustanove čiji je osnivač Opština, sa ciljem uspostavljanja jedinstvenog informacionog sistema u Opštini;
+- predlaganje i organizovanje uvođenja novih programskih sistema i staranje o usavršavanju postojećih u skladu sa zahtjevima neprekidnog funkcionisanja informacionog sistema;
+- kontrolu funkcionisanja automatizovane obrade podataka i preduzimanje mjera na poboljšanju i povećanju efikasnosti informacionog sistema;
+- predlaganje automatizacije poslova u javnim preduzećima i ustanovama i u tom smislu izradu projektnih zadataka i učestvovanje u izradi projekata i realizaciji informacionog sistema;
+- izradu i realizaciju planova obuke i usavršavanja za korišćenje informacione tehnologije i sistema;
+- izradu planova za opremanje, nabavku opreme i preduzimanje mjera za održavanje računarskih sredstava;
+- staranje o funkcionisanju računarskih mreža i razmjeni podataka u njima;
+- primjenu jedinstvenih standarda: OS, eDMS i alata za aplikativni softver radi uvođenja i korišćenja savremene informacione i komunikacione tehnologije i organizovanje i sprovođenje mjera radi zaštite podataka;
+- obavljanje poslova kojima se obezbjeđuje javnost i transparentnost rada organa Opštine i učešća lokalnog stanovništva u vršenju javnih poslova (vodi i ažurira web sajt Opštine, objavljuje nacrte akata koje donosi Skupština i Predsjednik opštine, objavljuje plan i program učešća lokalnog stanovništva u donošenju odluka i drugih akata, obavještava o organizovanju tribina, okruglih stolova, objavljuje izvještaje o rezultatima javne rasprave, izvještaje sa sjednica Skupštine opštine i donijetim odlukama i drugim aktima, aktivnostima koje preduzimaju organi Opštine i dr.);
+- ostvarivanje neposredne saradnje sa nevladinim organizacijama;
+- vođenje postupka za ostvarivanje prava na jednokratne novčane pomoći;
+- pripremu odluka i drugih dokumenata iz svoje nadležnosti koji se usvajaju u Skupštini opštine i koje donosi Predsjednik opštine;
+- pripremu stručnih mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa i autentičnih tumačenja opštinskih propisa iz ovih oblasti, uz konsultovanje Glavnog administratora;
+- vršenje i drugih poslova u skladu sa zakonom;
+- ostvarivanje saradnje sa opštinama iz drugih zemalja;
+- vodi upravni postupak za slobodan pristup informacijama iz svog djelokruga;
+- vrši poslove iz oblasti međunarodne, prekogranične i drugih vidova saradnje;
+- organizuje okrugle stolove za dijasporu;
+- pruža potrebne podatke i logistiku za strane ulagače;
+- vodi evidenciju i registar naših građana koji se na-la-ze u dijaspori;
+- organizuje dane dijaspore koji će se održavati od 03-06 avgusta;
+- vrši i druge poslove po nalogu Predsjednika opštine.

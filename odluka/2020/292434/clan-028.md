@@ -1,0 +1,4 @@
+# Član 28
+Rad organa lokalne uprave organizuje se na način kojim se obezbjeđuje zakonito i efikasno ostvarivanje prava i izvršavanje obaveza fizičkih, pravnih lica i drugih subjekata.
+Predsjednik opštine, u ostvarivanju funkcije usmjeravanja i usklađivanja rada organa lokalne uprave i službi i vršenja nadzora nad njenim radom, donosi odluke, uputstva, pravilnike, naredbe, rješenja i zaključke.
+Predsjednik opštine obrazuje Kolegijum koji čine potpredsjednik opštine, savjetnici predsjednika opštine, Glavni administrator i starješine lokalnih organa uprave. Kolegijum saziva i njime rukovodi Predsjednik opštine ili lice koje on ovlasti. Kolegijum se bavi najsloženijim pitanjima koja se tiču funkcionisanja Opštine, javnih službi. Kolegijumu mogu prisustvovati i druga lica koja dobiju poziv za učešće.

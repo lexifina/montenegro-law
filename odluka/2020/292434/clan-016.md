@@ -1,0 +1,32 @@
+# Član 16
+## Sekretarijat za poljoprivredu, turizam i vodoprivredu
+Sekretarijat za poljoprivredu, turizam i vodoprivredu vrši poslove uprave koji se odnose na:
+- učestvovanje u realizaciji mjera za stimulaciju razvoja strateških privrednih grana (poljoprivreda, turizam, vodoprivreda i dr.) i prikuplja i obrađuje podatke sa ciljem sagledavanja potencijala u ovim oblastima i njihove valorizacije;
+- priprema programe aktivnosti i načina stimulisanja preduzetničkih inicijativa na lokalnom nivou;
+- učestvuje u promovisanju i realizovanju aktivnosti za razvoj turizma u Opštini;
+- predlaže najbolje preduzetnike i privredna društva za dodjelu odgovarajućih nagrada u oblasti turizma i poljoprivrede;
+- učestvuje u stvaranju uslova i organizovanju sajmova i drugih sličnih manifestacija;
+- u saradnji sa Turističkom organizacijom Opštine i drugim privrednim subjektima iz oblasti turizma i ugostiteljstva i srodnim djelatnostima donosi programe mjera i aktivnosti za pripremu turističke sezone i prati realizaciju istih sa ciljem što boljeg iskorišćavanja turističkih potencijala Opštine;
+- predlaganje i učešće u realizaciji mjera za podsticaj i razvoj poljoprivredne proizvodnje, zemljoradnje i stočarstva putem kreditnih aranžmana i drugih stimulativnih mjera;
+- davanje saglasnosti za promjenu namjene poljoprivrednog zemljišta;
+- izdavanje uvjerenja poljoprivrednim proizvođačima o sopstvenoj proizvodnji poljoprivrednih proizvoda;
+- predlaganje i praćenje realizacije agro budžeta u saradnji sa drugim subjektima; predlaganje mjera za suzbijanje poljskih šteta i za zaštitu poljoprivrednika od elementarnih nepogoda;
+- prati stanje i predlaže mjere za podsticanje razvoja poljoprivrede, stočarstva, lova i zaštite bilja i priprema propise iz ove oblasti;
+- rješava po zahtjevima za privremeno korišćenje poljoprivrednog zemljišta u nepoljoprivredne svrhe;
+- rješavanja o upisu i vođenje registra poljoprivrednih proizvođača;
+- vodi evidenciju o staračkim nadoknadama, odnosno socijalnom obezbjeđenju staračkih domaćinstava koja se isključivo bave poljoprivredom;
+- prikuplja i evidentira podatke o poljoprivrednom potencijalu opštine u privatnom vlasništvu;
+- saradnja sa nevladinim organizacijama radi realizacije programa u oblastima za koje je i osnovan;
+- pripremanje informativnih i drugih stručnih materijala za Skupštinu i Predsjednika opštine;
+- sprovodi upravni postupak po zahtjevu za izdavanje vodnih uslova, vodne saglasnosti, vodne dozvole, potvrde o ispunjenosti uslova utvrđenih vodnom saglasnošću i vodnog naloga iz svoje nadležnosti;
+- u zakonom predviđenim slučajevima privremeno ograničava ili obustavlja vodno pravo;
+- određuje granice vodnog dobra od lokalnog značaja i daje predlog za upis u katastar nepokretnosti;
+- određuje status odnosno prestanak statusa javnog vodnog dobra od lokalnog značaja i predlaže njegov upis odnosno brisanje u katastru nepokretnosti;
+- određuje područja na kojima je opšta upotreba javnog vodnog dobra od lokalnog značaja zabranjena ili uslove ograničenja, kao i način njegovog korišćenja na tom području;
+- određuje obim i vrstu istražnih radova za izvorišta površinskih i podzemnih voda iz svoje nadležnosti;
+- utvrđuje poplavna područja za vode od lokalnog značaja i priprema program sanacije od posljedica štetnog dejstva i isti izvršava;
+- vodi registar voda i vodnu knjigu;
+- stara se o izgradnji i rekonstrukciji, održavanju i zaštiti vodnih objekata i objekata za upotrebu i korišćenje voda koje finansira jedinica lokalne samouprave u skladu sa zakonom i drugim propisima;
+- vodi upravni postupak za slobodan pristup informacijama iz svog djelokruga;
+- pripremu izvještaja o postupanju u upravnim stvarima iz svoje nadležnosti;
+- vrši i druge poslove iz svog djelokruga, u skladu sa zakonom i drugim propisima po nalogu Predsjednika opštine i Glavnog administratora.

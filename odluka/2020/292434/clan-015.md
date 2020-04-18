@@ -1,0 +1,73 @@
+# Član 15
+## Sekretarijat za uređenje prostora i zaštitu životne sredine
+Sekretarijat za uređenje prostora i zaštitu životne sredine vrši poslove uprave koji se odnose na:
+- izradu propisa koji se odnose na uređivanje fiinansiranja građevinskog zemljišta i pripremne poslove na izradi i donošenju urbanističkih projekata, odnosno donošenju lokalnih planskih dokumenata po skraćenom postupku u skladu sa zakonom;
+- primjenu i praćenje realizacije planske dokumentacije i predlaganje mjera i aktivnosti za unapređenje stanja i o istom priprema izvještaj za Skupštinu;
+- učešće u pipremnim poslovima kod pristupanja izrade, prati izradu i realizaciju planske dokumentacije;
+- čuvanje projektne dokumentacije i pripremanje baze podataka svih faza i vrsta projektne dokumentacije za komunalne i javne objekte, praćenje realizacije pojedinih projekata, procjene mogućnosti realizacije postojećih i potrebu izrade novih;
+- formira jedinstvenu bazu podataka vođenjem elektronskih evidencija, evidencija prostorno planske, urbanističko- tehničke gradilišne i druge dokumentacije, njihovu predaju opštinskom arhivu;
+- vodi analogni i elektronski registar planske dokumentacije;
+- primjenjuje propise i izdaje urbanističko tehničke uslove za izgradnju, rekonstrukciju objekata i izvođenje drugih radova kojima se izazivaju promjene u prostoru;
+- izdavanje odobrenja za građenje objekata od lokalnog značaja;
+- pripremanje programa privremenih objekata;
+- utvrđivanje tehničko-estetskih uslova, tehnički pregled, izdavanje odobrenja za izgradnju-postavljanje privremenih objekata montažnog karaktera;
+- izdavanje odobrenja za izgradnju;
+- postavljanje pomoćnih objekata;
+- utvrđivanje uslova i izdavanje odobrenja za izgradnju pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom
+- izdavanje upotrebne dozvole za objekte za koje je već izdata građevinska dozvola;
+- vrši pripremne poslove na izradi projektnih zadataka za izradu planske dokumentacije;
+- vrši obračun naknade za komunalno opremanje građevinskog zemljišta za izgradnju i rekonstrukciju objekata, visinu gradske rente, odnosno naknade za korišćenje prostora;
+- sprovođenje postupka legalizacije bespravno izgrađenih objekata u skladu sa zakonom,vođenje evidencije bespravno izgrađenih objekata na osnovu podataka katastra, odnosno geoportala;
+- sistematizacija i utvrđivanje liste bespravnih objekata za koje nije podnijet zahtjev za legalizaciju;
+- vrši obračun naknade za komunalno opremanje građevinskog zemljišta za bespravno izgrađene objekte;
+- obavlja poslove koji se odnose na formiranje informacione osnove, odnosno praćenje, obradu i analiziranje podataka i elemenata koji su neophodni za realizaciju prostornih i urbanističkih planova;
+- predlaže i priprema kriterijume za raspodjelu sredstava za uređivanje građevinskog zemljišta;
+- priprema nacrte odluka iz oblasti urbanizma i građevinarstva;
+- priprema nacrte Programa i Odluka kojima se omogućava korišćenje, unapređivanje, održavanje i zaštita građevinskog zemljišta, njegovo opremanje neophodnim objektima i predlaže mjere za održavanje javnih dobara od značaja za Opštinu Rožaje;
+- priprema nacrte podzakonskih akata u skladu sa važećim zakonima i prati njihovu usklađenost;
+- priprema predloge razvojnih programa kojima se utvrđuju osnovni ciljevi, pravci i prioriteti razvoja komunalnih djelatnosti;
+- priprema nacrte odluka kojima se propisuju uslovi i način obavljanja komunalne djelatnosti (snabdijevanje lokalnog stanovništva vodom i toplotnom energijom, regulacije upravljanja komunalnim otpadom, odvođenja atmosferskih i otpadnih voda, postavljanje, održavanje čistoće grada, uređivanja održavanja parkova, javnih zelenih i rekreacionih površina, održavanja ulica i drugih javnih površina, javna rasvjeta, izgradnja, održavanje i korišćenje javnih objekata od značaja za opštinu, regulacija i održavanje rječnih korita, održavanje groblja i sahranjivanje, dimnjačarske usluge, održavanje pijaca, parkirališta dr.);
+- vodi evidenciju naselja, ulica, trgova i brojevima zgrada;
+- vodi evidenciju komunalnih otpadnih voda;
+- izradu i sprovođenje lokalnog plana upravljanja otpadom;
+- rješava u upravnim stvarima iz svoje nadležnosti i vrši nadzor nad radom preduzeća koja obavljaju poslove iz nadležnosti Sekretarijata;
+- priprema prijedloge srednjoročnih i godišnjeg programa izvođenja radova na održavanju, zaštiti životne sredine, izrađuje i prati implementaciju lokalnog programa zaštite životne sredine;
+- sprovodi postupak proglašenja zaštićenih prirodnih dobara;
+- utvrđuje područja posebne zaštite zemljišta, prirodnih vodotokova, zaštita površinskih i podzemnih voda vazduha, biodiverziteta kao i zaštita od jonizirajućeg zračenja;
+- vrši akustičko zoniranje radi određivanja akustičkih zona u cilju zaštite ljudi od buke i dostavlja podatke o odredjenim akustičkim zonama;
+- sprovodi postupak procjene uticaja na životnu sredinu za projekte za koje izdaje saglasnosti, odobrenja i dozvole;
+- vođenje registra lokalnih zagađivača životne sredine;
+- priprema izvještaje i informacije o stanju životne sredine i sprovedenim aktivnostima, podizanje svijesti o značaju zaštite životne sredine u saradnji sa ekološkim udruženjima, inicira aktivnosti za zaštitu prirode i zaštićenih prirodnih dobara;
+- izrađuje izvještaj o stanju prirode;
+- izrađuje program monitoringa segmenata životne sredine i njegovog sprovođenja;
+- praćenje realizacije mjera iz lokalnog ekološkog akcionog plana;
+- predlaganje mjera zaštite i izrada procjene pojedinih privrednih i drugih aktivnosti na životnu sredinu;
+- vrši nadzor nad sprovođenjem propisa iz oblasti životne sredine;
+- upravni nadzor, poslove ostvarivanja prava osnivača u javnim službama koje obavljaju komunalne djelatnosti;
+- nadzor nad sprovođenjem planova zaštite i spašavanja;
+- obezbjedjenje sprovodjenja mjera preventivne dezinfekcije, dezinsekcije i deratizacije u naseljenim mjestima, na javnim površinama, u stambenim objektima, sredstvima javnog prevoza i dr.;
+- predlaganje mjera za organizovanje zaštite od elementarnih nepogoda i drugih vanrednih okolnosti i stvaranje uslova za njihovo otklanjanje, kao i predlaganje mjera i stvaranje uslova za otklanjanje posledica i drugih elementarnih nepogoda kao i drugih vanrednih i nepredvidivih okolnosti u opštini, vrši i druge poslove iz ove oblasti u skladu sa posebnim propisima;
+- izradu i sprovođenje planova, programa i drugih dokumenata iz oblasti energetske efikasnosti, vođenje jedinstvenog informacionog sistema potrošnje energije i energenata u objektima kojima raspolaže opština, izrada i sprovođenje programa poboljšanja energetske efikasnosti i plana poboljšanja energetske efikasnosti za potrebe opštine;
+- izdaje saglasnost za postavljanje telegrafskih, telefonskih, vazdušnih i kablovskih linija i vodova niskog napona za osvetljavanje i saglasnost za druge slične objekte i postrojenja u zaštitnom pojasu opštinskog i nekategorisanog puta;
+- odredjivanje vrsta parkirališta, izdavanje odobrenja i uslova za parkirališta na kojima se vrši naplata naknade za parkiranje vozila ili naknade za parkiranje i čuvanje vozila;
+- izdavanje odobrenja za lokaciju i uslova za izgradnju privremenih parkirališta;
+- izdavanje odobrenja i uslova za privremeno rezervisanje mjesta na parkiralištu i drugim javnim površinama pravnim licima;
+- utvrdjivanje uslova i izdavanje odobrenja za privremeno postavljanje zaštitnih ograda i drugih komunalnih objekata duž saobraćajnih površina;
+- davanje saglasnosti za postavljanje oglasno-reklamnih panoa duž saobraćajnih površina;
+- izdavanje odobrenja i uslova za prekopavanje javnih površina namijenjenih za saobraćaj vozila i pješaka;
+- izdavanje odobrenja za postavljanje autobuskih nadstrešnica na stajalištima;
+- priprema propisa i drugih akata iz stambene oblasti, postupanje po zahtjevima za ostvarivanje prava na nadogradnju stambene zgrade, odnosno pretvaranje zajedničkih djelova stambene zgrade u stan ili poslovni prostor;
+- praćenje stanja održavanja stambenih zgrada i poštovanje pravila kućnog reda;
+- rešavanje u slučaju useljenja u zajedničke ili posebne djelove stambene zgrade bez zaključenja ugovora o zakupu;
+- obezbedjenje izvodjenja hitnih radova u skladu sa zakonom;
+- praćenje organizovanja organa u stambenim zgradama i preduzimanje mjera za organizovanje,
+- vođenje registra upravnika i predlaganje imenovanja privremenog upravnika stambene zgrade,
+- vođenje registra vlasnika stambenih zgrada i njihovih posebnih djelova;
+- priprema informativnih i drugih stručnih materijala za Skupštinu i Predsjednika opštine;
+- davanje mišljenja u vezi sa informativnim i drugim materijalima javnih preduzeća iz ovih oblasti koji se dostavljaju Skupštini i Predsjedniku opštine;
+- praćenje realizacije investicionih programa koje finansira opština u ovim oblastima;
+- pripremu stručnih mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa i za autentična tumačenja propisa u ovim oblastima;
+- obezbeđenje obavljanja poslova koji se odnose na formiranje informacione osnove;
+- saradnja sa odgovarajućim nevladinim organizacijama;
+- vodi upravni postupak za slobodan pristup informacijama iz svog djelokruga;
+- vrši i druge poslove iz svog djelokruga, u skladu sa zakonom i drugim propisima po nalogu Predsjednika opštine i Glavnog administratora.
