@@ -1,0 +1,2 @@
+Na osnovu člana 39 Zakona o turističkim organizacijama ("Sl. list RCG", broj 11/04, 46/07 i "Sl. list CG", br. 45/14, 42/17 i 27/19), člana 59 stav 1 Zakona o lokalnoj samoupravi ("Sl. list Crne Gore", broj 2/18 i 34/19) i člana 83 stav 1 tačke 22 Statuta opštine Mojkovac ("Službeni list Crne Gore - Opštinski propisi", br. 29/18), predsjednik opštine Mojkovac, privremeno je donio 1. aprila 2020. godine
+ODLUKU
