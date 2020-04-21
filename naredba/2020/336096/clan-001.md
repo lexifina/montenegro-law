@@ -1,0 +1,3 @@
+# Član 1
+## O IZMJENI NAREDBE ZA PREDUZIMANjE PRIVREMENIH MJERA ZA SPRJEČAVANjE UNOŠENjA U ZEMLjU, SUZBIJANjE I SPRJEČAVANjE PRENOŠENjA NOVOG KORONAVIRUSA
+U Naredbi za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa ("Službeni list CG", br. 30/20 i 31/20), u članu 1 stav 1 tački 1 riječi: "ponedjeljkom do petka u vremenu od 19 časova do 5 časova narednog dana, subotom od 13 do 5 časova narednog dana, a nedjeljom od 11 do 5 časova narednog dana" zamjenjuju se riječima: "svakog dana u vremenu od 23 časa do 5 časova narednog dana".
