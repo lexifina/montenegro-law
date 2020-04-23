@@ -1,0 +1,4 @@
+# Član 1
+U Naredbi za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa ("Službeni list CG", br. 15/20, 27/20 i 33/20), u članu 1 stav 1 tačka 1 mijenja se i glasi:
+"1) zabrana ulaska strancima, osim strancima sa stalnim ili privremenim boravkom u Crnoj Gori, stranim pomorcima u tranzitu koji se ukrcavaju ili iskrcavaju u lukama Bar, Budva, Kotor, Luka Kumbor-Portonovi i Tivat (Gat I i Gat II), kao i strancima koji upravljaju motornim vozilima kojima se obavlja promet robe, uz posebne mjere zdravstveno-sanitarnog nadzora, a na osnovu rješenja zdravstveno sanitarne inspekcije.
+Promet robe za potrebe Crne Gore kao i za tranzit ostaje nesmetan, uz posebne mjere zdravstveno-sanitarnog nadzora, a tranzit stranih pomoraca vrši se uz preduzimanje posebnih mjera zdravstveno-sanitarnog nadzora, u skladu sa preporukama Instituta za javno zdravlje Crne Gore;".
