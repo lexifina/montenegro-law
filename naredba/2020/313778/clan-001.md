@@ -1,0 +1,6 @@
+# Član 1
+U Naredbi za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa ("Službeni list CG", br. 14/20, 15/20, 17/20, 28/20 i 34/20), u članu 1 stav 1 tačka 1 mijenja se i glasi:
+"1) zabrana uplovljavanja svih kruzera i jahti u luke nautičkog turizma - marine i trgovačke luke otvorene za međunarodni saobraćaj: Bar, Budva, Kotor i Luka Kumbor- Portonovi i Tivat (Gat I i Gat II), osim organizovanog prihvata i upravljanja stranim plovnim objektima i njihovim posadama, uz poštovanje mjera samoizolacije.
+Samoizolacija stranog plovnog objekta, sa posadom podrazumijeva vez u luci u trajanju 28 dana, uz preduzimanje mjera zdravstveno-sanitarnog nadzora od strane nadležne zdravstvene ustanove, u skladu sa preporukama Instituta za javno zdravlje Crne Gore, a na osnovu rješenja zdravstveno sanitarne inspekcije."
+Poslije tačke 1 dodaje se nova tačka koja glasi:
+"1a) obaveza zakupca, odnosno koncesionara luke nautičkog turizma - marine i trgovačke luke otvorene za međunarodni saobraćaj iz tačke 1 ovog stava, kojoj je odobren prihvat stranih plovnih objekata u samoizolaciju da preduzimaju mjere za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa, na osnovu preporuka Instituta za javno zdravlje Crne Gore;".
