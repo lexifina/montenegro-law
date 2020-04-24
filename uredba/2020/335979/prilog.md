@@ -1,0 +1,17 @@
+Obrazac 1
+UPRAVA CARINA CRNE GORE
+PRIJAVA
+za odloženu naplatu carinskog duga
+Odlaganje naplate carinskog duga (carine i poreza na dodatu vrijednost) dospjelog u mjesecu_________2020. godine
+PODACI O DUŽNIKU
+1. Naziv dužnika
+______________________________________
+2. Poreski identifikacioni broj (PIB)
+______________________________________
+3. Sjedište dužnika
+______________________________________
+4. Šifra djelatnosti
+______________________________________
+5. Evidencioni broj garancije
+______________________________________
+Podnosilac:________________________________ Adresa:___________________________________________ E-mail adresa:_____________________________________ Telefon:__________________________________________
