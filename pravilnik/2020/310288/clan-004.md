@@ -1,0 +1,2 @@
+# Član 4
+Lista vojnih vazduhoplova u upotrebi data je na obrascu koji sadrži nazive: "CRNA GORA", "MINISTARSTVO ODBRANE", "GENERALŠTAB VOJSKE CRNE GORE", "VOJNI VAZDUHOPLOVNI AUTORITET" i "LISTA VOJNIH VAZDUHOPLOVA U UPOTREBI" i mjesta za upis: rednog broja, datuma upisa vojnog vazduhoplova u Registar, rednog broja u Registru, registarske oznake, tipa, vrste i namjene vojnog vazduhoplova, jedinice Vojske i napomene (Obrazac 2).
