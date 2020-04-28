@@ -1,0 +1,3 @@
+# Član 1
+## O DOPUNI NAREDBE ZA PREDUZIMANjE PRIVREMENIH MJERA ZA SPRJEČAVANjE UNOŠENjA U ZEMLjU, SUZBIJANjE I SPRJEČAVANjE PRENOŠENjA NOVOG KORONAVIRUSA
+U Naredbi za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa ("Službeni list CG", br. 14/20, 15/20, 17/20, 28/20, 34/20 i 36/20), u članu 1 stav 1 tački 6 poslije riječi: "Upravi carina," dodaju se riječi: "Poreskoj upravi, Upravi za nekretnine, Direktoratu za državni trezor u Ministarstvu finansija koji rade na poslovima realizacije Programa pružanja podrške privredi i zaposlenima, u cilju ublažavanja negativnih efekata epidemije novog koronavirusa, koji je donijela Vlada Crne Gore,".
