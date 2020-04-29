@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom bliže se propisuje sadržaj, način i rok dostavljanja statističkih podataka o obavljanju poslova ustupanja zaposlenih za privremeno obavljanje poslova kod drugog poslodavca, uslovi, način i postupak izdavanja i oduzimanja dozvole za rad, vođenje evidencije izdatih i oduzetih dozvola za rad agenciji za privremeno ustupanje zaposlenih (u daljem tekstu: agencija), kao i način rada Komisije za izdavanje i oduzimanje dozvola za rad.
