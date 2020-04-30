@@ -1,0 +1,2 @@
+# Član 2
+Naselje predstavlja dio teritorije jedinice lokalne samouprave koje ima izgrađene objekte za stanovanje ili privređivanje, osnovnu komunalnu infrastrukturu i druge objekte za zadovoljavanje potreba lokalnog stanovništva, odnosno privrede. Ulica predstavlja javnu saobraćajnu ili drugu površinu namijenjenu za kretanje unutar građevinskog područja grada ili naselja. Trg predstavlja otvoren iprostor okružen objektima koji se obično nalazi u središtu grada ili drugim važnijim djelovima grada.
