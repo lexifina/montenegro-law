@@ -1,0 +1,2 @@
+Na osnovu člana 35. stav 2. tačka 1. Zakona o privrednim društvima ("Sl.list RCG" br. 6/02, «Sl.list CG» br. 17/07,80/08 i 40/10, 73/10,36/11 i 40/11), člana 15. stav 1. tačka 1. i člana 39. Statuta Centralnog klirinško depozitarnog društva AD (u daljem tekstu: Statut), Skupština akcionara Centralnog klirinško depozitarnog društva AD, sa sjedištem u Podgorici, ulica Svetlane Kane Radević, bb (u daljem tekstu: CKDD), na redovnom zasijedanju, održanom dana 30.04.2020. godine, donijela je
+O D L U K U O IZMJENAMA I DOPUNAMA STATUTA CENTRALNOG KLIRINŠKO DEPOZITARNOG DRUŠTVA AD
