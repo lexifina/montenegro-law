@@ -1,0 +1,2 @@
+Na osnovu Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa ("Sl.list CG" br.15/2020), mjera koje je Vlada Crne Gore usvojila dana 19.03.2020.godine, radi umanjnja negativih efekata od epidemije korna virusa, člana 59 Zakona o lokalnoj samoupravi (Sl.list CG br. 2/18 i 34/19) i člana 77, 78 i 81 Statuta Opštine Rožaje ("Sl.list CG-Opštinski propisi", br. 38/18), Predsjednik Opštine Rožaje, donosi:
+ODLUKU
