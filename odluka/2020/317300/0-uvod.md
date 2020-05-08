@@ -1,0 +1,2 @@
+Na osnovu člana 10a stav 1 i 2 Zakona o teritorijalnoj organizaciji Crne Gore ("Službeni list Crne Gore", br.54/11,26/12, 27/13, 62/13, 12/14, 03/16, 31/17, 86/18, 03/20) a u vei sa Odlukom o naseljima i granicama naselja na teritoriji opštine u okviru Glavnog grada - Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 09/16), i člana 59 stav 1 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18 i 34/19) predsjednik Opštine Tuzi je donio
+ODLUKU O PRIVREMENOM ODREĐIVANJU NAZIVA NASELJA, ULICA I TRGOVA NA TERITORIJI OPŠTINE TUZI
