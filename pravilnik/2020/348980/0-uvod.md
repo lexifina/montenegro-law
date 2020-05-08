@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 tačka 9, a u vezi sa članom 123 stav 3 Zakona o vazdušnom saobraćaju ("Službeni list CG", br. 30/12 i 30/17), uz prethodnu saglasnost Ministarstva saobraćaja i pomorstva, Agencija za civilno vazduhoplovstvo donijela je
+PRAVILNIK O DOPUNAMA PRAVILNIKA O INTEROPERABILNOSTI EVROPSKE MREŽE ZA UPRAVLJANJE VAZDUŠNIM SAOBRAĆAJEM I POBOLJŠANJU EFIKASNOSTI I ODRŽIVOSTI EVROPSKOG VAZDUHOPLOVNOG SISTEMA
