@@ -1,0 +1,3 @@
+# Član 1
+## br. 35, 36, 37, 39, 40 i UP bazen sve skladu sa LSL "Mljekavica"
+Opština Budva prenosi prava na nepokretnostima označenim kao katastarske parcele 764/2 KO Reževići I u površini od 22 m² , 757/8 KO Reževići I u površini od 15 m² , 764/1 KO Reževići I u površini od 75 m², 2977/12 KO Reževići I u površini od 89 m², 2977/2 KO Reževići I u površini od 353 m² , 757/7 KO Reževići I u površini od 38 m² , 757/5 KO Reževići I u površini od 54m², i 2977/3 KO Reževići I u površini od 173m², neposrednom pogodbom radi formiranja urbanističkih parcela broj 35, 36, 37, 39, 40 i UP bazen sve skladu sa LSL "Mljekavica , pravnom licu " Arkon Estate Mont " doo Budva.
