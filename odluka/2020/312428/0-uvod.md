@@ -1,0 +1,2 @@
+Na osnovu člana 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" br. 34/19, 38/2020), člana 101 Statuta Opštine Budva ("Službeni list Crne Gore - opštinski propisi" br. 2/2019), člana 10 i 11 Odluke o osnivanju d.o.o. "Otpadne vode"- Budva i člana 41 Statuta d.o.o. " Otpadne vode" br: 10-441/1 oba od dana 04.09.2018.god. predsjednik opštine donosi sledeću
+ODLUKA O IMENOVANJU ČLANOVA ODBORA DIREKTORA "OTPADNE VODE" D.O.O. BUDVA
