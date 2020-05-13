@@ -1,0 +1,5 @@
+Na osnovu člana 50 Opšteg zakona o obrazovanju i vaspitanju ("Službeni list RCG", br. 64/02, 31/05 i 49/07 i ’’Službeni list CG’’, br. 45/10, 45/11, 36/13, 39/13 i 47/17) i člana 18 stav 1 Zakona o upravnom postupku (’’Službeni list CG’’, br. 56/14, 20/15, 40/16 i 37/17), Ministarstvo prosvjete donijelo je
+R J E Š E Nj E O IZDAVANjU LICENCE JAVNOJ USTANOVI SREDNjA EKONOMSKA ŠKOLA "MIRKO VEŠOVIĆ",
+IZ PODGORICE
+1. Izdaje se licenca za rad Javnoj ustanovi Srednja ekonomska škola "Mirko Vešović", iz Podgorice, za izvođenje programa obrazovanja za sticanje stručne kvalifikacije računovodstveni/a tehničar/ka, poslovno-tehnički/a sekretar/ka, sportski/a administrator/ka, omladinski/a aktivista/kinja, programa obrazovanja odraslih za osposobljavanje za zanimanje saradnik/ca u socijalnoj inkluziji Roma i Egipćana u oblasti obrazovanja, administrator/ka, programa obrazovanja za sticanje znanja i vještina rada na računaru, preduzetničkih znanja i vještina "Kreni u biznis" i programa obrazovanja za učenje crnogorskog jezika za strane državljane.
+2. Ovo rješenje stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore’’.
