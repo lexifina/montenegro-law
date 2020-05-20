@@ -1,0 +1,2 @@
+Na osnovu čl. 23 i 29 Zakona o elektronskim medijima ("Sl.list Crne Gore" br. br.046/10, 040/11, 053/11, 006/13, 055/16, 092/17), čl. 19 st.1 i 2 i čl. 20 Odluke o osnivanju društva sa ograničenom odgovornošću Lokalni javni emiter "Radio I televizija Kolašin" ("Sl.list Crne Gore-Opštinski propisi" br. 012/14, 054/19) Skupština opštine Kolašin je na sjednici održanoj dana 12.05.2020.godine donijela
+ODLUKU
