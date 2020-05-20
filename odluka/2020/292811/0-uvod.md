@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Sl. list Crne Gore", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list Crne Gore", br. 2/18, 34/19 i 38/20), člana 54 stav 1 tačka 12 Statuta Glavnog grada ("Sl. list Crne Gore- Opštinski propisi", broj 8/19), Skupština Glavnog grada - Podgorice, na sjednici održanoj 15. maja 2020. godine, donijela je
+O D L U K U
+o stavljanju van snage Odluke o učešću Glavnog grada - Podgorice u zajedničkoj izgradnji objekta centralne djelatnosti - tržnice u zahvatu Detaljnog urbanističkog plana "Prvoborac" - Izmjene i dopune u Podgorici
