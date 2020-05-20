@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 02/18, 34/19, 38/20), člana 1 stav 2 Zakona o porezu na nepokretnosti ("Službeni list Crne Gore", broj 25/19) člana 18 stav 1 tačka 2 i člana 37 stav 1 tačka 2 Statuta Opštine Kolašin ("Službeni list Crne Gore - opštinski propisi", broj 24/19), Skupština opštine Kolašin na sjednici održanoj dana 12.05.2020. godine, donijela je
+ODLUKU
