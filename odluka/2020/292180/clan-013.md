@@ -1,0 +1,3 @@
+# Član 13
+Oslobađaju se plaćanja zakupnine zakupci poslovnih prostora i zemljišta u vlasništvu opštine Tivat, u djelatnostima čiji je rad zabranjen naredbom Ministarstva zdravlja Crne Gore, za period od 90 (devedeset) dana, počev od važenja naredbi Ministarstva zdravlja Crne Gore zbog kojih subjekti plaćanja nijesu obavljali djelatnost, a na zahtjev istih.
+Preporučuje se privrednim društvima i javnim ustanovama, čiji je osnivač opština Tivat, da oslobode od plaćanja zakupnine zakupce u djelatnostima čiji je rad zabranjen naredbom Ministarstva zdravlja Crne Gore, za period od 90 (devedest) dana, počev od važenja naredbi Ministrastva zdravlja Crne Gore zbog kojih subjekti plaćanja nijesu obavljali djelatnost, a na zahtjev istih.

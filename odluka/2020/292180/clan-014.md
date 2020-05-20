@@ -1,0 +1,2 @@
+# Član 14
+Obavezuju se upravni odbori i odbori direktora u privrednim društvima DOO "Komunalno" Tivat, DOO "Vodovod i kanalizacija" Tivat, DOO "Parking servis" Tivat, Turistička organizacija opštine Tivat, DOO PPOV Kotor-Tivat, DOO "Autobuska stanica" Tivat, kao i savjeti JU "Muzej i galerija Tivat", JU Centar za kulturu Tivat, JU Sportska dvorana Tivat i JU Dnevni centar za djecu i mlade sa smetnjama i teškoćama u razvoju Tivat, da donesu svoje programe mjera do dana 01.06.2020. godine, i iste dostave Skupštini Opštine Tivat.

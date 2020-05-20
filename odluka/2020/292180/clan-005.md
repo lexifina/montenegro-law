@@ -1,0 +1,2 @@
+# Član 5
+Odlaganje plaćanja poreza na nepokretnosti svim fizičkim licima za 2020. godinu na način da se plaćanje prve rate odlaže do 31.08.2020. godine, a druge rate do 30.11.2020. godine, na zahtjev poreskog obveznika, pod uslovom da je izmirio poreske obaveze na dan 31.12.2019. godine Odlaganje izvršenja rješenja za prinudnu naplatu za lokalne javne prihode fizičkim licima, na rok od 60 (šezdeset) dana, na lični zahtjev poreskog obveznika za postupke prinudne naplate pokrenute u 2020. godini.
