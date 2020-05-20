@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 29 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19 i 38/20), člana 23 stav 1 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list Crne Gore", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18 - odluka US, 42/18 i 34/19) i člana 37 stav 1 tačka 31 Statuta opštine Kolašin ("Službeni list Crne Gore - Opštinski propisi", broj 24/19), Skupština opštine Kolašin, na sjednici održanoj 12.05.2020. godine, uz prethodnu saglasnost Ministarstva finansija, broj 02-2334/2 od 05.05.2020. godine, donijela je
+ODLUKU
