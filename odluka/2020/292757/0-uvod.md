@@ -1,0 +1,3 @@
+Na osnovu člana 3 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore" broj 55/16, 74/16, 2/18 i 66/19), člana 16 i 29 Zakona o državnoj imovini ("Službeni list Crne Gore" broj 21/09 i 40/11), člana 34 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" broj 2/18 i 34/19) i člana 36 stav 1 tačka 10 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi" broj 37/19), Skupština Opštine Kotor na 39 sjednici, održanoj 30. 04. 2020. godine, donijela je
+ODLUKU
+o povjeravanju na upravljanje DOO "Komunalno Kotor" Kotor nepokretnosti označene kao kat. parc. 325/3 u KO Stoliv I,
