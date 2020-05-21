@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti na zaključenje poravnanja u parničnom postupku posl.br.P.961/19
+Daje se saglasnost za zaključenje sudskog poravnanja u predmetu posl.br.P.961/19 koji se vodi pred Osnovnim sudom u Kotoru , na način što će tužena Opština Kotor priznati da su tužioci Branko Stanojević i "VELESTOVO INN" D.O.O. - Kotor vlasnici dijela kat.parc.586/2 KO Dobrota I, prema koordinatama prelomnih tačaka, utvrđenih Nalazom i mišljenjem vještaka geodetske struke Mladena Đuranovića, od dana 28.03.2018.god., koji Nalaz čini sastavni dio Presude Osnovnog Suda u Kotoru posl.br.P.1614/15-15 od 18.01.2019.god.
