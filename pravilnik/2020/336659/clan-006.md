@@ -1,0 +1,6 @@
+# Član 6
+(1) Operator aerodroma za nekomercijalne operacije ili letilišta dužan je da organizuje VZ na način koji omogućava spašavanje života ljudi, spašavanje materijalnih dobara i sprovođenje mjera za zaštitu od požara.
+(2) Operator aerodroma iz stava 1 ovog člana dužan je da pripremi plan za vanredne situacije (Emergency Plan), u skladu sa zakonom kojim se uređuje zaštita i spašavanje i koji je sastavni dio aerodromskog priručnika.
+(3) Operator aerodroma iz stava 1 ovog člana, dužan je da obezbijedi: odgovarajući sastav i opremljenost VZ; smještaj vatrogasne opreme; mjesta za snabdijevanje vodom za gašenje požara; sistem veza za obavještavanje i uzbunjivanje između VZ i drugih službi na aerodromu i izvan aerodroma koje su uključene u plan za vanredne situacije.
+(4) VZ je dužna da sarađuje sa pružaocem usluga u vazdušnoj plovidbi, službom za pružanje medicinske pomoći, sa vatrogasnim jedinicama opština i jedinicama Vojske Crne Gore.
+(5) Ako je vatrogasna kategorija aerodroma za nekomercijalne operacije veća od 5. vatrogasne kategorije, operator aerodroma je dužan da obezbijedi vatrogasnu zaštitu u skladu sa zahtjevima za vatrogasnu zaštitu aerodroma za pružanje usluga vazdušnog prevoza.

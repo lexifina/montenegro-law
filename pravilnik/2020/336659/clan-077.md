@@ -1,0 +1,6 @@
+# Član 77
+(1) Kad SVS ili VZ primi obavještenje o prinudnom slijetanju, nesreći ili ozbiljnoj nezgodi vazduhoplova, vatrogasno osoblje u smjeni dužno je da, bez odlaganja, izađe na mjesto prinudnog slijetanja, nesreće ili ozbiljne nezgode vazduhoplova sa opremom za spašavanje iz člana 26 ovog pravilnika i sredstvima za gašenje požara lociranim na vatrogasnim vozilima.
+(2) SVS ili VZ dužna je da u roku od najduže tri minuta od znaka za uzbunu, stigne na bilo koji dio poletno-sletne staze ili manevarske površine aerodroma, a vatrogasno vozilo koje je prvo stiglo dužno je da postigne 50% brzine izbacivanja pjene, u skladu sa Tabelom iz člana 17 ovog pravilnika za vatrogasnu kategoriju aerodroma.
+(3) Na helidromu koji je lociran na objektu, SVS ili VZ dužna je da bude u pripravnosti u neposrednoj blizini operativnih površina helidroma prilikom svakog polijetanja ili slijetanja.
+(4) Vatrogasna vozila, koja nijesu glavna vatrogasna vozila, koja isporučuju vodu potrebnu za ispunjenje propisane količine vode, moraju doći na lice mjesta za manje od četiri minuta od znaka za uzbunu.
+(5) Provjera postupaka i vremena odziva spasilačko-vatrogasne službe vrši se najmanje jednom mjesečno, a vježba kompletne spasilačko-vatrogasne službe, prema planu za vanredne situacije, najmanje jednom u dvije godine.

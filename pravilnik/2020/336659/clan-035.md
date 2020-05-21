@@ -1,0 +1,5 @@
+# Član 35
+Na aerodromu koji je otvoren za saobraćaj treba da se nalazi odgovarajući broj vatrogasnog osoblja, koji zavisi od vatrogasne kategorije aerodroma i to najmanje:
+1) dva pomoćna spasioca na aerodromima 1. vatrogasne kategorije;
+2) tri pomoćna spasioca na aerodromima 2. vatrogasne kategorije;
+3) jedan profesionalni vatrogasac i tri pomoćna spasioca na aerodromima 3. vatrogasne kategorije; 4) dva profesionalna vatrogasca i tri pomoćna spasioca na aerodromima 4. vatrogasne kategorije; 5) pet profesionalnih vatrogasaca i četiri pomoćna spasioca na aerodromima 5. vatrogasne kategorije; 6) sedam profesionalnih vatrogasaca i četiri pomoćna spasioca na aerodromima 6. vatrogasne kategorije; 7) devet profesionalnih vatrogasaca i osam pomoćnih spasilaca na aerodromima 7. vatrogasne kategorije; 8) 12 profesionalnih vatrogasaca i osam pomoćnih spasilaca na aerodromima 8. vatrogasne kategorije; 9) 14 profesionalnih vatrogasaca i 12 pomoćnih spasilaca na aerodromima 9. vatrogasne kategorije; 10) 16 profesionalnih vatrogasaca i 14 pomoćnih spasilaca na aerodromima 10. vatrogasne kategorije.

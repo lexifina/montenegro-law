@@ -1,0 +1,7 @@
+# Član 37
+(1) Profesionalni vatrogasci moraju da ispunjavaju uslove propisane zakonom kojim su uređeni zaštita i spašavanje, propisom kojim se uređuje stručno osposobljavanje osoblja spasilačko-vatrogasne zaštite na aerodromu i ovim pravilnikom.
+(2) Rukovodilac SVS mora da ima najmanje VII stepen stručne spreme tehničke struke, položen stručni ispit za vršenje poslova rukovođenja službom zaštite i spašavanja i pet godina radnog iskustva na poslovima zaštite i spašavanja. (3) Komandir jedinice mora da ima najmanje IV stepen stručne spreme tehničke struke, položen stručni ispit za vršenje poslova rukovođenja službom zaštite i spašavanja i deset godina radnog iskustva na poslovima zaštite i spašavanja na aerodromu.
+(4) Profesionalni vatrogasci u SVS moraju da imaju najmanje IV stepen stručne spreme.
+(5) Profesionalni vatrogasac mora da ima uvjerenje o zdravstvenoj sposobnosti, koje izdaje ovlašćena zdravstvena ustanova u skladu sa zakonom, položen stručni ispit, potvrdu o ispunjenosti norme fizičke spremnosti, kao i potvrdu o stručnoj osposobljenosti, koju izdaje ovlašćena organizacija za stručno osposobljavanje.
+(6) Vatrogasno osoblje ispunjava normu fizičke spremnosti ako, nakon pretrčanih 90 m sa opterećenjem od 75 kg, pretrči 510 m bez opterećenja za manje od 3 min.
+(7) Uvjerenje o zdravstvenoj sposobnosti i potvrda o ispunjenosti norme fizičke spremnosti obnavljaju se svake godine. (8) Operator aerodroma u operativnom priručniku definiše način provjere fizičke spremnosti i izdavanje potvrde o ispunjenosti norme fizičke spremnosti.

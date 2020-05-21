@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom utvrđuju se uslovi i način pružanja usluga spasilačko-vatrogasne zaštite na aerodromima za pružanje usluga vazdušnog prevoza, aerodromima za nekomercijalne operacije i letilištima i uslovi u pogledu stručne spreme, stručne osposobljenosti i zdravstvene sposobnosti koje mora da ispunjava osoblje koje obavlja poslove spasilačko- vatrogasne zaštite (u daljem tekstu: vatrogasno osoblje).

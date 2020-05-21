@@ -1,0 +1,7 @@
+# Član 70
+(1) Aerodrom za pružanje usluga vazdušnog prevoza treba da ima ažuriranu kodiranu topografsku kartu aerodroma, koja obuhvata zonu oko aerodroma u poluprečniku od najmanje 8 km od referentne tačke aerodroma, kao i kodiranu kartu zone aerodroma koja obuhvata prostor na rastojanju od najmanje 1000 m od operativnih površina i pripadajućih sigurnosnih površina (osnovne staze).
+(2) Na kodiranoj karti zone aerodroma treba da su naznačeni objekti, instalacije, prilazni putevi, prepreke na tlu i drugi podaci od značaja za spasilačko-vatrogasnu intervenciju, sa pisanim uputstvom o načinu korišćenja karte.
+(3) Kodirana topografska karta aerodroma i kodirana karta zone aerodroma, sa uputstvom o načinu njihovog korišćenja, treba da se nalaze u vatrogasnoj stanici, kontroli letenja, ambulanti za hitnu pomoć i svim vatrogasnim i sanitetskim vozilima.
+(4) Kodirana topografska karta aerodroma, kodirana karta zone aerodroma i uputstvo o načinu njihovog korišćenja dostavljaju se u skladu sa planom za vanredne situacije.
+(5) Kodirana topografska karta aerodroma, kodirana karta zone aerodroma i uputstva o načinu njihovog korišćenja ažuriraju se jednom godišnje.
+(6) Format i razmjera kodiranih karti iz st. 1 do 5 ovog člana određuje se na način da se upotreba, smještaj i distribucija tih karata olakša, s tim da veličina karte ne smije da ugrozi tačnost podataka i da izazove obmanu zbog loše čitljivosti.
