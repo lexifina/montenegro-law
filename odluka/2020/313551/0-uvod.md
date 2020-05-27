@@ -1,0 +1,2 @@
+Na osnovu člana 41 Zakona o turističkim organizacijama ("Sl.list RCG", br. 11/04, 46/07, i "Sl.list CG", br. 73/10, 40/11, 45/14, 42/17 i 27/19 ), člаnа 38 stav 1 tač. 2 i 8 Zаkоnа о lоkаlnој sаmоuprаvi ("Sl. list CG", br. 2/18 i 34/19) i člаnа 32 stav 1 tačka 8 Stаtutа Opštine Žabljak ("Sl. list CG-Opštinski propisi", br. 27/18), Skupština Opštine Žabljak, na sjednici održanoj 14.05.2020. godine, donijela je
+ODLUKA

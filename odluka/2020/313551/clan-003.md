@@ -1,0 +1,2 @@
+# Član 3
+Subjekti iz člana 1 stava 2 ove odluke, dužni su da nadležnom poreskom organu opštine na čijoj teritoriji posluju ,iskazati i prijaviti ostvarene poslovne prihode umanjenih za iznos poslovnih rashoda za pretežnu i za sve ostale djelatnosti koje obavljaju pojedinačno za svaku organizacionu jedinicu u kojoj se obavlja turistička,ugostiteljska i/ili sa turizmom neposredno povezana djelatnost.
