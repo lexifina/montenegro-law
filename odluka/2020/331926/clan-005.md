@@ -1,0 +1,3 @@
+# Član 5
+Izmjene i dopune LSL sadrže: izvod iz prostorno-urbanističkog plana; granice područja
+za koje se donosi; detaljnu namjenu površina; ekonomsko-finansijsku analizu; plan parcelacije; urbanističko-tehničke uslove za izgradnju objekata; graĎevinske i regulacione linije; trase infrastrukturnih mreža i saobraćajnica i smjernice za izgradnju infrastrukturnih i komunalnih objekata; nivelaciona i regulaciona rješenja; tačke i uslove priključenja na saobraćajnice, infrastrukturne mreže i komunalne objekte; smjernice za sprovoĎenje planskog dokumenta sa smjernicama za zaštitu životne sredine i zaštitu kulturne baštine, ekonomsko-tržišnu projekciju; način, faze i dinamiku realizacije plana.
