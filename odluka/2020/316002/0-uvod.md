@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 30 Zakona o lokalnoj sa--moupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20), čla-na 7 Ure-dbe o biznis zonama ("Službeni list CG", br. 77/16 i 38/17) i čla-na 54 stav 1 tačka 66 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19), a u vezi sa članom 3 Odluke o osnivanju biznis zona Glavnog grada Podgorica ("Službeni list CG - Opštinski propisi", broj 49/19), Skupština Glavnog grada - Po-dgo-rice, na sjednici održanoj dana 15. maja 2020. godine, donijela je
+ODLUKU

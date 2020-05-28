@@ -1,0 +1,3 @@
+# Član 1
+## o proglašenju biznis zona Glavnog grada Podgorica
+Proglašavaju se biznis zone: Podgorica 1 u zahvatu DUP-a "Industrijska zona A", Podgorica 2 u zahvatu DUP-a "Industrijska zona A", Podgorica 3 u zahvatu DUP-a "Industrijska zona A", Podgorica 4 u zahvatu DUP-a "Industrijska zona A", Podgorica 5 u zahvatu DUP-a "Industrijska zona A", Podgorica 6 u zahvatu DUP-a" Industrijska zona KAP-a", Podgorica 7 u zahvatu DUP-a "Servisno-skladišna zona sa ranžirnom stanicom" i DUP-a "Servisno-skladišna zona", Podgorica 8 u zahvatu DUP-a "Agroindustrijska zona", Podgorica 9 u zahvatu DUP-a "Konik-Stari Aerodrom III" i Podgorica 10 u zahvatu DUP-a "Konik- Stari Aerodrom III", koje se nalaze na području Glavnog grada Podgorica, otvorenim za ulaganja.
