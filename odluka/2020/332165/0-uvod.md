@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 30 Zakona o lokalnoj sa-mo-upravi ("Službeni list CG", br. 2/18, 34/19 i 38/20), člana 54 stav 1 ta-čka 66 Statuta Glavnog grada ("Službeni list CG - Opštinski pro-pisi", broj 8/19) i člana 6 stav 2 Odluke o javno-privatnom partnerstvu za uređenje Park šume ‘’Tološi’’ (‘’Službeni list CG - Opštinski propisi", broj 31/19), Skupština Glavnog grada - Podgorice, na sjednici održanoj 15. maja 2020. godine, donijela je
+ODLUKA
