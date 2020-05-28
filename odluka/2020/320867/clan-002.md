@@ -1,0 +1,393 @@
+# Član 2
+U članu 3 stav 1, u tabeli "Biznis zona Podgorica 8" poslije broja "17" dodaju se novi brojevi sa nazivom parcela, koji glase:
+Redni broj
+Broj parcele
+Ukupna površina lokacije m2
+List nepokretnosti
+Katastarska opština
+Urbanistička parcela
+DUP "AGROINDUSTRIJSKA ZONA"
+18
+7908/9
+115,00
+3217
+kO Podgorica III
+UP8a1
+19
+7912/7
+3485,00
+3217
+KO Podgorica III
+UP8a1
+20
+7908/10
+65,00
+3217
+KO Podgorica III
+UP8a1
+21
+7913/1
+2727
+3217
+KO Podgorica III
+UP8a1
+22
+7914/2
+633
+3217
+KO Podgorica III
+UP8a1
+23
+7916/8
+8
+3217
+KO Podgorica III
+UP8a1
+24
+7936/5
+20
+3217
+KO Podgorica III
+UP8a1
+25
+7904/41
+1
+3217
+KO Podgorica III
+UP8a1
+26
+7908/11
+136
+3217
+kO Podgorica III
+UP8a2
+27
+7912/8
+1429
+3217
+KO Podgorica III
+UP8a2
+28
+7908/12
+1527
+3217
+KO Podgorica III
+UP8a2
+29
+7916/6
+687
+3217
+KO Podgorica III
+UP8a2
+30
+7935/16
+1693
+3217
+KO Podgorica III
+UP8a2
+31
+7914/1
+1562
+3217
+KO Podgorica III
+UP8a2
+32
+7913/4
+10
+3217
+KO Podgorica III
+UP8a2
+33
+7904/36
+4276
+3217
+KO Podgorica III
+UP8b1
+34
+7936/6
+371
+3217
+KO Podgorica III
+UP8b1
+35
+7913/3
+1629
+3217
+KO Podgorica III
+UP8b1
+36
+7916/9
+416
+3217
+KO Podgorica III
+UP8b1
+37
+7935/20
+365
+3217
+KO Podgorica III
+UP8b1
+38
+7916/7
+8
+3217
+KO Podgorica III
+UP8b2
+39
+7935/17
+2979
+3217
+KO Podgorica III
+UP8b2
+40
+7935/5
+148
+3217
+KO Podgorica III
+UP8b2
+41
+7917/1
+3111
+3217
+KO Podgorica III
+UP8b2
+42
+7918/2
+102
+3217
+KO Podgorica III
+UP8b2
+43
+7916/10
+453
+3217
+KO Podgorica III
+UP8b2
+44
+7913/5
+2
+3217
+KO Podgorica III
+UP8b2
+45
+7936/7
+115
+3217
+KO Podgorica III
+UP8b2
+46
+7904/37
+131
+3217
+KO Podgorica III
+UP8b2
+47
+7944/2
+6850
+3217
+KO Podgorica III
+UP3.1
+48
+7904/34
+7574
+3217
+KO Podgorica III
+UP3.2
+49
+7904/42
+61
+3217
+KO Podgorica III
+UP3.2
+50
+7944/4
+4548
+3217
+KO Podgorica III
+UP3.3
+51
+7951/3
+2330
+3217
+KO Podgorica III
+UP3.3
+52
+7904/35
+7607
+3217
+KO Podgorica III
+UP3.4
+53
+7935/8
+1134
+3217
+KO Podgorica III
+UP9a1
+54
+7935/3
+109
+3217
+KO Podgorica III
+UP9a1
+55
+7935/9
+4708
+3217
+KO Podgorica III
+UP9a1
+56
+7935/2
+45
+3217
+KO Podgorica III
+UP9a1
+57
+7935/12
+7192
+3217
+KO Podgorica III
+UP9b1
+58
+7920/2
+414
+3217
+KO Podgorica III
+UP9a2
+59
+7935/10
+6778
+3217
+KO Podgorica III
+UP9a2
+60
+7935/11
+7193
+3217
+KO Podgorica III
+UP9b2
+61
+7912/4
+703
+3217
+KO Podgorica III
+UP6b2
+62
+7908/6
+524
+3217
+KO Podgorica III
+UP6b2
+63
+7915/3
+188
+3217
+KO Podgorica III
+UP6b2
+64
+7904/7
+28
+3217
+KO Podgorica III
+UP6b2
+65
+7904/6
+109
+3217
+KO Podgorica III
+UP6b3
+66
+7905/3
+49
+3217
+KO Podgorica III
+UP6b3
+67
+7906/5
+230
+3217
+KO Podgorica III
+UP6b3
+68
+7915/4
+278
+3217
+KO Podgorica III
+UP6b3
+69
+7908/7
+722
+3217
+KO Podgorica III
+UP6b3
+70
+7920/1
+1194
+3217
+KO Podgorica III
+UP9a1
+71
+7906/6
+843
+3217
+KO Podgorica III
+UP6b4
+72
+7915/5
+173
+3217
+KO Podgorica III
+UP6b4
+73
+7908/8
+429
+3217
+KO Podgorica III
+UP6b4
+74
+7908/2
+817
+3217
+KO Podgorica III
+UP7b1
+75
+7906/3
+727
+3217
+KO Podgorica III
+UP7b1
+76
+7907/3
+921
+3217
+KO Podgorica III
+UP7b1
+77
+7916/2
+139
+3217
+KO Podgorica III
+UP7b1
+78
+7935/13
+46
+3217
+KO Podgorica III
+UP7b1
+79
+7935/14
+1374
+3217
+KO Podgorica III
+UP7b2
+80
+7916/3
+3742
+3217
+KO Podgorica III
+UP7b2
+81
+7907/4
+935
+3217
+KO Podgorica III
+UP7b2
