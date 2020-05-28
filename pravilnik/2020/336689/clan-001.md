@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuju se obrazac vozačke dozvole, bliži sadržaj i način vođenja evidencije o izdatim vozačkim dozvolama, podacima unijetim u obrazac vozačke dozvole, podnijetim zahtjevima za izdavanje vozačke dozvole, podacima iz tog zahtjeva i dokumentaciji koja je priložena uz taj zahtjev, prestanku važenja vozačke dozvole, razlozima i datumu prestanka važenja, oduzimanju vozačke dozvole, mjerama privremenog ograničenja prava na upravljanje motornim vozilom, kao i izrađenim obrascima vozačke dozvole (u daljem tekstu: evidencija) i visina naknade koju osiguravajuća društva, pravna lica i preduzetnici koji vrše tehnički pregled vozila i druge organizacije u izvršavanju svojih ovlašćenja plaćaju za korišćenje podataka iz evidencije.
