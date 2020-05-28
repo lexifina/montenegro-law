@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom bliže se propisuju poslovi i zadaci podoficirskog lanca podrške u Vojsci Crne Gore (u daljem tekstu: Vojska) kojeg čine podoficiri od nivoa voda do nivoa Generalštaba Vojske, postavljeni na formacijska mjesta za podršku komandovanju, obuci i usavršavanju podoficira i vojnika po ugovoru od nivoa voda do nivoa Generalštaba Vojske (u daljem tekstu: podoficirski lanac podrške).
