@@ -1,0 +1,2 @@
+Na osnovu člana 7 stav 1 tačka 2 i člana 8 Zakona o fi-na--nsiranju lokalne samouprave ("Sl.list CG", broj 3/19) čla-na 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 2/18, 34/19 i 38/20) i člana 54 stav 1 ta-čka 11 Statuta Glavnog grada ("Sl.list CG-Opštinski pro-pi-si", broj 8/19) Skupština Glavnog grada - Podgorice na sje-dnici održanoj 15. maja 2020. godine, donijela je
+ODLUKU
