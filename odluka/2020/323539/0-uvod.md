@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2, člana 39 stav 3, Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), člana 27 stav 1 tačka 14, člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20), člana 54 stav 1 tačka 12 Statuta Glavnog grada ("Sl. list CG - Opštinski propisi", broj 8/19) Skupština Glavnog grada - Podgorice, na sjednici održanoj 15. maja 2020. godine, donijela je
+ODLUKU
