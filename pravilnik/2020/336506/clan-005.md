@@ -1,0 +1,2 @@
+# Član 5
+Odluka o redovnom unapređivanju oficira i podoficira sadrži: prezime, ime jednog roditelja i ime oficira, odnosno podoficira koji se unapređuje, dan, mjesec, godinu, mjesto i opštinu rođenja, čin koji ima, rod, odnosno službu kojoj pripada, naziv jedinice Vojske u kojoj je na dužnosti, naziv organa državne uprave, državnog organa, privrednog društva, pravnog lica ili međunarodne organizacije u kojem je postavljen, čin u koji se unapređuje i datum redovnog unapređivanja.

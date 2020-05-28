@@ -1,0 +1,5 @@
+# Član 3
+Izbor oficira i podoficira za redovno unapređivanje vrši komisija za izbor oficira i podoficira za redovno unapređivanje, obrazovana u skladu sa Zakonom o Vojsci Crne Gore (u daljem tekstu: komisija za redovno unapređivanje), na osnovu:
+- spiska oficira i podoficira koji su postavljeni na formacijska mjesta u Vojsci, a koji do kraja tekuće godine ispunjavaju uslove za redovno unapređivanje, koji sačinjava i dostavlja Generalštab Vojske,
+- spiska oficira i podoficira koji su postavljeni na formacijska mjesta u organu državne uprave nadležnom za poslove odbrane (u daljem tekstu: Ministarstvo), drugom organu državne uprave, državnom organu, privrednom društvu ili pravnom licu, kao i podoficira vojno-diplomatskih predstavnika, a koji do kraja tekuće godine ispunjavaju uslove za redovno unapređivanje, koji sačinjava i dostavlja organizaciona jedinica Ministarstva nadležna za ljudske resurse.
+Spiskovi iz stava 1 ovog člana dostavljaju se komisiji za redovno unapređivanje do 1. novembra tekuće godine.
