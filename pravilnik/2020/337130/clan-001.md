@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se bliža sadržina godišnjeg izvještaja o rezultatima izvršenih analiza uzoraka vode uzetih u postupku praćenja i obezbjeđivanja zdravstvene ispravnosti vode koju vrše pravna lica koja obavljaju poslove javnog vodosnabdijevanja (u daljem tekstu: samokontrola) i druga pravna lica (laboratorije) i zdravstvene ustanove, kao i godišnjeg izvještaja koji sačinjava Institut za javno zdravlje Crne Gore.
