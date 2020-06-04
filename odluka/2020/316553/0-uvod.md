@@ -1,0 +1,2 @@
+Na osnovu člana 4 stav 1 Zakona o administrativnim taksama ("Službeni list CG", broj 18/19), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18 i 34/19), člana 43 stav 1 tačka 8 i člana 45 Statuta opštine Bar ("Službeni list CG - Opštinski propisi", broj 37/18), nakon dobijanja saglasnosti Vlade Crne Gore, Skupština Opštine Bar, na sjednici od 18.05.2020. godine, donijela je
+ODLUKU O LOKALNIM ADMINISTRATIVNIM TAKSAMA OPŠTINE BAR
