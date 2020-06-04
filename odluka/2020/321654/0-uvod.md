@@ -1,0 +1,2 @@
+Na osnovu člana 22 stav 5 Zakona o putevima ("Službeni list RCG", broj 42/04 i "Službeni list CG", br. 21/09, 54/09, 40/10, 73/10, 36/11 i 92/17), člana 38 stav 1 tač. 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20) i člana 32 tač. 2 i 8 Statuta opštine Žabljak ("Službeni list CG-Opštinski propisi", broj 27/18), postupajući po Odluci Ustavnog suda Crne Gore U.II br. 40/18 od 22. janaura 2020. godine, Skupština opštine Žabljak, na sjednici od 14.05.2020. godine, donijela je
+ODLUKU O IZMJENAMA ODLUKE O NAKNADAMA ZA KORIŠĆENJE OPŠTINSKIH PUTEVA
