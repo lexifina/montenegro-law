@@ -1,0 +1,3 @@
+# Član 1
+## o prodaji nepokretnosti - gradjevinskog zemljišta
+Opština Žabljak prodaje uz prethodnu saglasnost Vlade Crne Gore broj 07-993 od 15.marta 2018.godine nepokretnost - gradjevinsko zemljište i to: katastarsku parcelu broj 1603/22 površine 545 m2 upisanu u listu nepokretnosti broj 194 KO Žabljak I kao svojina Države Crna Gora sa pravom raspolaganja Opštine Žabljak, u zahvatu Detaljnog urbanističkog plana "Kovačka dolina II" ("Sl.list CG - Opštinski propissi", br. 67/15) označena kao urbanistička parcela broj UP 172, po početnoj cijeni od 25,00 €/m2, planirane namjene izgradnja objekta, spratnosti objekta P+1+Pk.
