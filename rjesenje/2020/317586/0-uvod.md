@@ -1,0 +1,2 @@
+Na osnovu člana 43 Zakona o lokalnoj samoupravi ("Službeni list CG" br.2/18, 34/19 i 38/20), člana 73 stav 1 tačka 24 i člana 74 Statuta Prijestonice ("Službeni list CG-Opštinski propisi" br. 49/18 i 9/19), člana 33 Poslovnika o radu Skupštine Prijestonice Cetinje ("Službeni list CG-Opštinski propisi" br. 17/19) i člana 3 Odluke o obrazovanju radnih tijela Skupštine ("Službeni list CG- Opštinski propisi br.53/19),Skupština Prijestonice Cetinje na sjednici održanoj dana , 04.06.2020 godine, donijela je
+RJEŠENJE
