@@ -1,0 +1,2 @@
+Na osnovu člana 117 i člana 119 Zakona o sportu ("Službeni list Crne Gore", br. 44/18) a u vezi sa članom 27 stav 1 tačka 13 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19 i 38/20) i članom 13 stav 13 Statuta opštine Žabljak ("Službeni list Crne Gore- opštinski propisi", br. 27/18), Skupština opštine Žabljak, na sjednici održanoj dana 14.05. 2020.godine, donijela je
+ODLUKU O FINANSIRANJU SPORTA U OPŠTINI ŽABLJAK
