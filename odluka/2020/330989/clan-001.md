@@ -1,0 +1,3 @@
+# Član 1
+## o davanju nepokretnosti na upravljanje i korišćenje
+DAJE SE na upravljanje i korišćenje DOO "Sportski centar Žabljak" - Žabljak, "nordijska staza" koja prema Detaljnom urbanističkom planu Žabljak ("Sl.list CG-opštinski propisi", broj 47/18) zahvata katastarsku parcelu broj 3669/1 upisana u listu nepokretnosti broj 193 KO Žabljak I, svojina Države Crna Gora sa pravom raspolaganja opštine Žabljak, katastarske parcele broj 2798, 2799/1, 3672, 3674, 3675/1, 3677, 3678/1, 3685, 3687, 3688/1, 3688/2 i 3690/1, sa "teretanom na otvorenom" na katastarskoj parceli broj 2799/1 upisane u listu nepokretnosti broj 194 KO Žabljak I svojina Države Crna Gora sa pravom raspolaganja opštine Žabljak, bez naknade.
