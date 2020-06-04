@@ -1,0 +1,2 @@
+Na osnovu člana 2 Zakona o lokalnim komunalnim taksama ("Službeni list CG", broj 18/19), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18 i 34/19) i člana 32 stav 1 tačka 8 Statuta opštine Žabljak ("Službeni list CG - Opštinski propisi", broj 27/18), nakon dobijanja saglasnosti Vlade Crne Gore, Skupština opštine Žabljak, na sjednici od 14.05.2020. godine, donijela je
+ODLUKU O LOKALNIM KOMUNALNIM TAKSAMA OPŠTINE ŽABLJAK
