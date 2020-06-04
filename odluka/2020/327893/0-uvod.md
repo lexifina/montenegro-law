@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" br. 02/18 i 34/19), članova 18, 19 i 38 Statuta opštine Danilovgrad ("Službeni list Crne Gore - opštinski propisi" br. 43/18), i članova 3, 4 i 5 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list Crne Gore" br. 44/10), Skupština opštine Danilovgrad na sjednici održanoj 15. i 19. 05. 2020. godine, donosi
+ODLUKU
