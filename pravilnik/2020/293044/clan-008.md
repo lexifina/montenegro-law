@@ -1,0 +1,6 @@
+# Član 8
+U članu 24 stav 1 al.1 i 2 mijenjaju se i glase:
+"-završenu srednju stručnu školu, obrazovni program brodomašinski tehničar ili brodomašinski oficir na random nivou ili diplomirani inženjer brodomašinstva ili primijenjene osnovne studije brodomašinstva ili akademske osnovne studije pomorskih nauka ili akademske osnovne studije brodomašinstva ili brodomašinski odsjek i
+-najmanje 12 mjeseci plovidbenog staža u svojstvu pripravnika za sticanje zvanja oficira plovidbene straže u mašinskom odjeljenju na brodu sa mašinskim kompleksom pogonske snage od 750 kw ili jačim, od čega najmanje devet mjeseci na brodu sa mašinskim kompleksom pogonske snage od 3000 kw ili jačim;ili".
+Poslije alineje 2 dodaje se nova alineja koja glasi:
+"- ima najmanje šest mjeseci plovidbenog staža u svojstvu pripravnika za sticanje zvanja oficira plovidbene straže u mašinskom odjeljenju na brodu sa mašinskim kompleksom pogonske snage od 750 kW ili jačim, ostvarenih na brodovima sa mašinskim kompleksom pogonske snage od 3000 kW ili jačim i najmanje šest mjeseci plovidbenog staža u svojstvu pripravnika na jahti u plovidbi sa mašinskim kompleksom pogonske snage od 750 kW ili jačim, dužine najmanje 24 metra i namijenjenoj za obavljanje privredne djelatnosti; ".

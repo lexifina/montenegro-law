@@ -1,0 +1,3 @@
+# Član 17
+U članu 38 stav 2 mijenja se i glasi:
+"Pomorcu u službi palube, kojem su izdata ovlašćenja na upravljačkom nivou odgovornosti, izdaje se ovlašćenje iz stava 1 ovog člana, a pomorcu u službi palube kojem je izdato ovlašćenje na radnom nivou odgovornosti izdaje se ovlašćenje iz stava 1 ovog člana ako završi obuku po programu datom u Prilogu A (dio A10 tačka 3) i položi ispit po programu datom u prilogu B (dio B10) koji se odnosi na službu mašine, dok se pomorcu u službi mašine kojem su izdata ovlašćenja na radnom ili upravljačkom nivou odgovornosti izdaje ovlašćenje iz stava 1 ovog člana ako završi obuku po programu datom u Prilogu A (dio A10 osim tačke 3), i položi ispit po programu datom u Prilogu B (dio B10), koji se odnosi na službu palube."
