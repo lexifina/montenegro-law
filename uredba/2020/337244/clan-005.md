@@ -1,0 +1,2 @@
+# Član 5
+Pokretne stvari za potrebe odbrane koriste se pod uslovima i na način propisanim zakonom kojim se uređuje korišćenje, upravljanje i raspolaganje stvarima i drugim dobrima koje pripadaju Crnoj Gori, zakonom kojim se uređuje organizacija i funkcionisanje jedinstvenog sistema odbrane Crne Gore i zakonom kojim se uređuje organizacija Vojske i druga pitanja od značaja za Vojsku, kao i u skladu sa namjenom, tehničkim karakteristikama i uputstvima proizvođača tih stvari.

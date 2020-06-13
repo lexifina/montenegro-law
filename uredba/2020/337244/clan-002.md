@@ -1,0 +1,2 @@
+# Član 2
+Nepokretne stvari za potrebe odbrane, u smislu ove uredbe, su: zemljišta, kasarne, vojni aerodromi, vojna pristaništa, stacionarna čvorišta veze, radarski položaji, zgrade, vojni objekti, građevinski, podzemni i nadzemni objekti sa pratećom infrastrukturom i druge nepokretnosti koje koriste organ državne uprave nadležan za poslove odbrane (u daljem tekstu: Ministarstvo) i Vojska Crne Gore (u daljem tekstu: Vojska).
