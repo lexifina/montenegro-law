@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2, člana 32 i člana 35 stav 1 Zakona o državnoj imovini ("Sl. list Crne Gore", broj 21/09 i 40/11), člana 38 stav 1 tačka 9, člana 58 stav 1 tačka 1 i tačka 2 Zаkоnа о lоkаlnој sаmоuprаvi ("Sl. list CG", br. 2/18, 34/19 i 38/20), člana 36 stav 1 tačka 9, člana 39 i člana 40 Statuta Opštine Mojkovac ("Sl. list CG - Opštinski propisi", broj 29/18), i zahtjeva Ministarstva ekonomije - Vlade Crne Gore broj 0050303-302/20-112/3 od 12. februara 2020. godine, Skupština opštine Mojkovac, na śednici održanoj 19. maja 2020. godine, donijela je
+ODLUKU
