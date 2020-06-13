@@ -1,0 +1,3 @@
+Na osnovu člana 18 stav 6 Zakona o upotrebi jedinica Vojske Crne Gore u međunarodnim snagama i učešću pripadnika operativne jedinice za zaštitu i spašavanje, policije i zaposlenih u organima državne uprave u mirovnim misijama i drugim aktivnostima u inostranstvu ("Službeni list CG", br. 61/08, 31/17 i 46/19), Vlada Crne Gore je 30. aprila 2020. godine, bez održavanja sjednice, na osnovu pribavljenih saglasnosti većine članova Vlade, donijela
+ODLUKU O VISINI NOVČANE NAKNADE ZA OŠTEĆENJE ORGANIZMA I ZA SLUČAJ SMRTI PRIPADNIKA VOJSKE CRNE GORE,
+OPERATIVNE JEDINICE ZA ZAŠTITU I SPAŠAVANJE I POLICIJE I ZAPOSLENOG U ORGANU DRŽAVNE UPRAVE ZA VRIJEME UČEŠĆA U MEĐUNARODNIM SNAGAMA, MIROVNIM MISIJAMA I DRUGIM AKTIVNOSTIMA U INOSTRANSTVU
