@@ -1,0 +1,3 @@
+Na osnovu člana 39 st. 1 i 2 i člana 40 stav 1 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20), člana 5 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list CG", broj 44/10), člana 35 stav 1 tačka 9 i člana 38 stav 1 Statuta Opštine Nikšić ("Službeni list CG - Opštinski propisi", broj 31/18), Skupština opštine Nikšić, na sjednici održanoj 27.05.2020.godine, donijela je
+ODLUKU
+o davanju u zakup javnim nadmetanjem kancelarijskog poslovnog prostora u Ulici Ivana Milutinovića - zgrada Turističke

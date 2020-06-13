@@ -1,0 +1,3 @@
+# Član 2
+Nakon stupanja na snagu ove odluke, Direkcija za imovinu opštine Nikšić oglasiće Javnim pozivom javno nadmetanje za davanje u zakup poslovnog prostora iz člana 1 ove odluke, po početnoj cijeni zakupa od 10,00 eura po m2, odnosno za površinu od 22 m2 ukupno 220,00 eura zakupa mjesečno bez uračunatog PDV-a, u skladu sa procjenom Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore - PJ Nikšić, broj 443-103-306/20 od 28.04.2020. godine.
+Javnim pozivom definisaće se opšti i posebni uslovi učešća, način i uslovi plaćanja, kao i sprovođenje postupka javnog nadmetanja.
