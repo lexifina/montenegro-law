@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Sl. list Crne Gore", broj 21/09 i 40/11), člana 9 stav 6 Zakona o finansiranju političkih subjekata i izbornih kampanja ("Sl. list Crne Gore", br. 3/20), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list Crne Gore", br. 2/18, 34/19 i 38/20), člana 36 stav 1 tačka 2 Statuta opštine Mojkovac ("Sl. list Crne Gore - Opštinski propisi", br. 29/18) i Zaključka Vlade Crne Gore br. 07-3579 od 19. jula 2018. godine, Skupština opštine Mojkovac, na sjednici održanoj 19. maja 2020. godine, donijela je
+ODLUKU
