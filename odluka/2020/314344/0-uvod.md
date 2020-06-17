@@ -1,0 +1,2 @@
+Na osnovu člana 17 stav 1 i 2 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", br. 16/16, 83/16,21/17,42/17, 12/18, 39/18, 42/18 i 34/19) i člana 26 Statuta Javne ustanove "Dnevni centar za djecu i mlade sa smetnjama i teškoćama u razvoju-Tivat" ("Službeni list Crne Gore" -Opštinski propisi br. 45/19) Upravni odbor uz prethodnu saglasnost Ministarstva finansija br. 03-9987/1 od 05.06.2020. godine, e, donio je
+ODLUKU
