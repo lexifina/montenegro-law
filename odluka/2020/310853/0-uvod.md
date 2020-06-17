@@ -1,0 +1,3 @@
+. Na osnovu čl. 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list CG" broj 2/18), čl. 29 stav 2 Zakona o državnoj imovini ("Sl. list CG" broj 21/09 i 40/11), čl. 40 stav 1 tačka 9 Statuta opštine Pljevlja ("Sl. list CG - Opštinski propisi" br.46/18) i Odluke Vlade Crne Gore o davanju prethodne saglasnosti Opštini Pljevlja za otuđenje nepokretnosti broj 07-968 od 05.03.2020.godine,Skupština opštine Pljevlja, na sjednici održanoj dana: 04. ,05. i 15. juna 2020.godine, donijela je:
+ODLUKU
+o prodaji nepokretnosti (urbanističkih parcela br.47 u okviru DUP-a "Potrlica"- Izmjene i dopune, br. 151, 152, 154, 294,

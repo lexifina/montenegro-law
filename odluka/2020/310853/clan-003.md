@@ -1,0 +1,2 @@
+# Član 3
+Ovlašćuje se Predsjednik opštine Pljevlja da u ime Opštine Pljevlja sa najpovoljnijim ponuđačima zaključi Ugovor o kupoprodaji predmetnih nepokretnosti.

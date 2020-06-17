@@ -1,0 +1,11 @@
+# Član 1
+## 297, 298 i 299 u okviru DUP-a "Dolovi III"- Izmjene i dopune)
+Opština Pljevlja prodaje nepokretnosti u državnoj svojini, sa pravom raspolaganja Opštine Pljevlja i to:
+1.urbanističku parcelu br. 47, površine 470,00m2, prirodno neplodno zemljište, koju čini katastarska parcela br.5904/32, upisana u listu nepokretnosti 3170 KO Pljevlja, u okviru DUP-a "Potrlica" - Izmjene i dopune, po minimalnoj cijeni od 14.100,00€ (470,00m2 x 30,00€);
+2.urbanističku parcelu br. 151, površine 441,00m2, pašnjak IV klase, koju čini katastarska parcela br.6903/15, upisana u listu nepokretnosti 3173 KO Pljevlja, u okviru DUP-a "Dolovi III" - Izmjene i dopune, po minimalnoj cijeni od 8.158,50€ (441,00m2 x 18,50€);
+3.urbanističku parcelu br. 152, površine 473,00m2, pašnjak IV klase, koju čini katastarska parcela br.6903/16, upisana u listu nepokretnosti 3173 KO Pljevlja, u okviru DUP-a "Dolovi III" - Izmjene i dopune, po minimalnoj cijeni od 8.750,50€ (473,00m2 x 18,50€);
+4.urbanističku parcelu br. 154, površine 374,00m2, pašnjak IV klase, koju čini katastarska parcela br.6903/17, upisana u listu nepokretnosti 3173 KO Pljevlja, u okviru DUP-a "Dolovi III" - Izmjene i dopune, po minimalnoj cijeni od 6.919,00€ (374,00m2 x 18,50€);
+5.urbanističku parcelu br. 294, površine 310,00m2, pašnjak IV klase, koju čini katastarska parcela br.5176/50, upisana u listu nepokretnosti 3173 KO Pljevlja, u okviru DUP-a "Dolovi III" - Izmjene i dopune, po minimalnoj cijeni od 5.735,00€ (310,00m2 x 18,50€);
+6.urbanističku parcelu br. 297, površine 385,00m2, pašnjak IV klase, koju čini katastarska parcela br.5176/49, upisana u listu nepokretnosti 3173 KO Pljevlja, u okviru DUP-a "Dolovi III" - Izmjene i dopune, po minimalnoj cijeni od 7.122,50€ (385,00m2 x 18,50€);
+7.urbanističku parcelu br. 298, površine 310,00m2, pašnjak IV klase, koju čini katastarska parcela br.6903/18, upisana u listu nepokretnosti 3173 KO Pljevlja, u okviru DUP-a "Dolovi III" - Izmjene i dopune, po minimalnoj cijeni od 5.735,00€ (310,00m2 x 18,50€);
+8.urbanističku parcelu br. 299, površine 394,00m2, pašnjak IV klase, koju čini katastarska parcela br.6903/19, upisana u listu nepokretnosti 3173 KO Pljevlja, u okviru DUP-a "Dolovi III" - Izmjene i dopune, po minimalnoj cijeni od 7.289,00€ (394,00m2 x 18,50€);
