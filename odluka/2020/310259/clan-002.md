@@ -1,0 +1,2 @@
+# Član 2
+Minimalna cijena nepokretnosti iz člana 1 alineja 1 ove Odluke (Motel "Vodice" sa pripadajućim zemljištem) iznosi 400.600,33eura, a minimalna cijena nepokretnosti iz čl.1 alineja 2 ove Odluke (zgrada stare vodenice sa zemljištem ispod vodenice) iznosi 23.931,58eura, što ukupno iznosi 424.531,91eura, a shodno procjeni Komisije Uprave za nekretnine Podgorica - Područna jedinica Pljevlja od 20.05.2019.godine.
