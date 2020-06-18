@@ -1,0 +1,5 @@
+Na osnovu člana 50 Opšteg zakona o obrazovanju i vaspitanju ("Službeni list RCG", br. 64/02, 31/05 i 49/07 i "Službeni list CG", br. 45/10, 45/11, 36/13, 39/13 i 47/17) i člana 18 stav 1 Zakona o upravnom postupku ("Službeni list CG", br. 56/14, 20/15, 40/16 i 37/17), Ministarstvo prosvjete donijelo je
+R J E Š E Nj E O IZDAVANjU LICENCE JAVNOJ USTANOVI SREDNjA MJEŠOVITA ŠKOLA "GOLUBOVCI",
+IZ PODGORICE
+1. Izdaje se licenca za rad Javnoj ustanovi Srednja mjeovita škola "Golubovci", iz Podgorice, za izvođenje programa za osposobljavanje za zanimanja muški i ženski frizer/ka, automehaničar/ka, voćar/ka, vinogradar/ka, turistički vodič/kinja; programa obrazovanja za sticanje stručne kvalifikacije pripremač pica/pripremačica pica, roštiljdžija/roštiljdžijka, pomoćnik/pomoćnica u kuhinji, mesar/mesarka; programa obrazovanja za učenje engleskog, njemačkog i crnogorskog jezika i programa obrazovanja za učenje rada na računaru.
+2. Ovo rješenje stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore".
