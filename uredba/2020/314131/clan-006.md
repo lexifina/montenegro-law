@@ -1,0 +1,5 @@
+# Član 6
+## objekta korisnika usluge
+(1) Cijena za upravljanje komunalnim otpadom na osnovu površine objekta određuje se kao količnik procijenjenih godišnjih troškova upravljanja komunalnim otpadom, koji se obračunavaju u skladu sa članom 4 ove uredbe i ukupne površine prostora koji koriste korisnici usluge na području jedinice lokalne samouprave, odnosno prostora za koji se vrši obračun po površini objekta, pomnožene sa 12 mjeseci.
+(2) Cijena usluge upravljanja komunalnim otpadom iz proizvodnih i/ili uslužnih djelatnosti, odnosno djelatnosti državnih i lokalnih organa i ustanova, koja se određuje na osnovu površine objekta, utvrđuje se u skladu sa stavom 1 ovog člana i koriguje faktorom koji se kreće u rasponu k = 1,00 - 10,00 u zavisnosti od sastava i količine komunalnog otpada karakteristične za odgovarajuću djelatnost.
+(3) Izuzetno od stava 2 ovog člana za nepokrivene i natkrivene otvorene površine, u zavisnosti od djelatnosti korisnika usluge, korekcioni faktor ne može biti veći od 0,15.
