@@ -1,0 +1,2 @@
+# Član 11
+Danom stupanja na snagu ove uredbe prestaje da važi Uredba o kriterijumima za popunu, pripremanje, obuku i opremanje jedinica Vojske Crne Gore za upotrebu u međunarodnim snagama i za izbor, pripremanje, obuku i opremanje pripadnika civilne zaštite, policije i zaposlenih u organima državne uprave za učešće u mirovnim misijama i drugim aktivnostima u inostranstvu ("Službeni list CG", broj 22/09).

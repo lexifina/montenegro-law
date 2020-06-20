@@ -1,0 +1,3 @@
+# Član 10
+Propisi iz člana 9 stav 1 ove uredbe donijeće se u roku od šest mjeseci od dana stupanja na snagu ove uredbe.
+Do donošenja propisa iz stava 1 ovog člana primjenjivaće se Pravilnik o bližim uslovima, načinu i postupku izbora, pripreme, obuke i upućivanja pripadnika policije u mirovne misije i druge aktivnosti u inostranstvu ("Službeni list CG", broj 28/12) i Pravilnik o bližim uslovima, načinu i postupku izbora, pripreme, obuke upućivanja pripadnika Vojske Crne Gore i zaposlenih u Ministarstvu odbrane u međunarodne snage, mirovne misije i druge aktivnosti u inostranstvu ("Službeni list CG", broj 78/09), u dijelu koji se odnosi na zaposlene u Ministarstvu odbrane.

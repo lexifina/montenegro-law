@@ -1,0 +1,3 @@
+# Član 9
+Bliže kriterijume i način izbora pripadnika operativne jedinice za zaštitu i spašavanje i policije za učešće u mirovnim misijama i drugim aktivnostima u inostranstvu i njihove obaveze propisuje organ državne uprave nadležan za unutrašnje poslove, a bliže kriterijume i način izbora zaposlenih u organu državne uprave nadležnom za poslove odbrane za učešće u mirovnim misijama i drugim aktivnostima u inostranstvu i njihove obaveze propisuje organ državne uprave nadležan za poslove odbrane.
+U slučaju potrebe upućivanja zaposlenih u drugim organima državne uprave u mirovne misije i druge aktivnosti u inostranstvu, bliže kriterijume i način njihovog izbora za učešće u mirovnim misijama i drugim aktivnostima u inostranstvu i njihove obaveze propisuju ti organi.
