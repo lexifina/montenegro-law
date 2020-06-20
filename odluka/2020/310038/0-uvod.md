@@ -1,0 +1,2 @@
+Na osnovu člana 135 stav 1 tačka 1 i 7 Opšteg zakona o obrazovanju i vaspitanju (Sl. list Crne Gore", br. 64/2 31/5, 49/7, "Sl. list Crne Gore", br. 4/8, 21/9, 45/10, 73/10, 40/11, 45/11, 36/13, 39/13, 44/13, 47/17), člana 27 stav 1 tačka 15 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list Crne Gore", br. 2/18, 34/19, 38/20), člana 73 stav 1 tačka 2 i člana 76 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi" br. 49/18, 9/19) Skupština Prijestonice Cetinje, na sjednici održanoj dan, 04.06.2020. godine, donijela je
+ODLUKU
