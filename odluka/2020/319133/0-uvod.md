@@ -1,0 +1,2 @@
+Na osnovu člana 4 Zakona o administrativnim taksama ("Službeni list CG", broj 18/19), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18 i 34/19), člana 38 stav 1 tačka 2 Statuta opštine Gusinje ("Službeni list CG - Opštinski propisi", broj 3/19), saglasnost Vlade Crne Gore br.07-1917 od 19.03.2020 godine, Skupština opštine Gusinje, na sjednici održanoj 04.06.2020. godine, donijela je
+ODLUKU O LOKALNIM ADMINISTRATIVNIM TAKSAMA OPŠTINE GUSINJE
