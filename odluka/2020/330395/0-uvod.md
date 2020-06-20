@@ -1,0 +1,2 @@
+Na osnovu člana 28 Zakona o turističkim organizacijama ( "Službeni list RCG", br. 11/4, 46/7, "Službeni list CG", br. 73/10, 40/11,45/14, 42/17,27/19), člana 19 Odluke o osnivanju lokalne Turističke organizacije Opštine Gusinje ("Službeni list Crne Gore - Opštinski propisi", br. 16/17) i člana 38 stav 1 tačka 24 Statuta opštine Gusinje ("Službeni list Crne Gore-Opštinski propisi", br.03/19), Skupština opštine Gusinje na sjednici održanoj 04.06.2020.godine donijela je:
+ODLUKA
