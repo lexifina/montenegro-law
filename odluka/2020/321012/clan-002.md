@@ -1,0 +1,2 @@
+# Član 2
+Sastavni dio ove Odluke čine predlog Sporazuma o međusobnom regulisanju prava i obaveza između Opštine Kotor, Vaterpolo kluba "Primorac" Kotor i "Primorje" AD Tivat Hotels & restaurants, Ugovor o usaglašavanju dužničko povjerilačkih odnosa između Vaterpolo kluba "Primorac" Kotor i "Primorje" AD Tivat Hotel & Restaurants od 24.09.2019. godine, Anex istog Ugovora od 31.10.2019. godine, Presuda Osnovnog suda u Kotoru P. 652/19-16 od 21.10.2019. godine i Rješenje o izvršenju javnog izvršitelja Vladana Vujovića I.br. 897/20.
