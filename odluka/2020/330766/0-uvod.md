@@ -1,0 +1,3 @@
+Na osnovu člana 74 st. 2 i 3 Zakona o komunalnim djelatnostima ("Sl.list CG" br. 55/16, 74/16, 02/18 i 66/19), člana 38 stav 1 tačka 30 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 02/18, 34/19 i 38/20) i člana 53, stav 1, tačka 30 Statuta Opštine Tuzi ("Sl.list Crne Gore - Opštinski propisi", broj 24/19, 05/20) Skupština Opštine Tuzi, na sjednici održanoj dana 09.06.2020. godine, donijela je
+ODLUKU
+o davanju saglasnosti za zaključenje Ugovora o povjeravanju obavljanja komunalnih djelatnosti i korišćenju komunalne infrastrukture i drugih sredstava u svojini Opštine Tuzi, sa d.o.o. "Komunalno/Komunale" Tuzi
