@@ -1,0 +1,2 @@
+Na osnovu člana 2 stav 1 Zakona o lokalnim komunalnim taksama ("Službeni list Crne Gore", broj 18/19), člana 38 stav 1 tač. 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 02/18) i člana 33 stav 1 tačka 8 i člana 37 Statuta opštine Plav("Službeni list Crne Gore - Opštinski propisi", broj 44/18), nakondobijanja saglasnosti Vlade Crne Gore broj: 031-198 od 13.04.2020, Skupština opstine Plav, na sjednici održanoj 29.05.2020. godine, donijela je
+ODLUKU O LOKALNIM KOMUNALNIM TAKSAMA OPŠTINE PLAV
