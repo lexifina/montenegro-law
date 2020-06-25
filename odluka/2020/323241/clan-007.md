@@ -1,0 +1,3 @@
+# Član 7
+Nevladina organizacija dostavlja potrebnu dokumentaciju kojom dokazuje ispunjenost uslova iz člana 5 ove Odluke i predlog kandidata za predstavnika u radnojgrupi,potpisanodstranelicaovlašćenogzazastupanjeiovjerenpečatom nevladineorganizacije.
+Predlogsepodnosinaobrascukojisadrži:nazivorganakojemsedostavlja predlog; naziv nevladine organizacije koja predlaže kandidata za predstavnika u radnu grupu; naziv akta koji priprema radna grupa; ime i prezime kandidata za predstavnika nevladine organizacije u radnoj grupi; podatke o dokumentaciji kojom se dokazuje ispunjenost uslova za nevladinu organizaciju koja predlaže kandidata i uslova koje predloženi kandidat treba da ispunjava, kao i mjesto za potpis lica ovlašćenog za zastupanje nevladine organizacije (Obrazac2).

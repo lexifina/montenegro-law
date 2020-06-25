@@ -1,0 +1,6 @@
+# Član 6
+Za člana radne grupe nevladina organizacija može da predloži jednog predstavnika.
+Predstavnik nevladine organizacije može biti lice koje:
+- ima prebivalište na teritorijiopštine;
+- je u prethodne tri godine, u oblasti u kojoj radna grupa priprema akt, učestvovao u realizaciji projekta, izradi dokumenta ili sproveo istraživanje usmjereno na unapređenje stanja u tojoblasti;
+- nije Članorgana političke partije, javni funkcioner, državni i lokalni službenik, odnosno namještenik.

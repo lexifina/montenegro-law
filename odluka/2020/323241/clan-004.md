@@ -1,0 +1,2 @@
+# Član 4
+Javni poziv sadrži: naziv organa koji obrazuje radnu grupu; naziv akta koji se priprema; broj predstavnika nevladinih organizacija u radnoj grupi; uslove koje mora da ispuni nevladina organizacija da bi predložila kandidata, uslove koje mora da ispuni kandidat koji se predlaže; dokumentacija koja se dostavlja uz predlog za kandidata za predstavnika nevladine organizacije u radnoj grupi;rok i način dostavljanja predloga; kao i mjesto za potpis starješine organa (Obrazac 1).
