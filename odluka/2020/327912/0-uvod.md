@@ -1,0 +1,2 @@
+Na osnovu člana 116 stav 3 Zakona o planiranju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 64/17, 44/18, 63/18 i 11/19) i člana 53 stav 1 tačka 4 Statuta Opštine Tuzi ("Službeni list Crne Gore - opštinski propisi", br. 24/19 i 05/20), uz predhodnu saglasnost Ministarstva održivog razvoja i turizma i Uprave za zaštitu kulturnih dobara, Skupština Opština Tuzi, na sjednici održanoj dana 09.06.2020. godine, donijela je
+ODLUKU
