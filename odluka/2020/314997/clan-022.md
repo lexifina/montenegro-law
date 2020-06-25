@@ -1,0 +1,4 @@
+# Član 22
+Odobrenje za postavljanje i građenje privremenih objekata izdaje se sa rokom važenja do jedne godine, odnosno do privođenja zemljišta planiranoj namjeni, utvrđenoj planskim dokumentom, ako taj rok bude utvrđen u kraćem trajanju.
+Izuzetno od stava 1 ovog člana, odobrenje za postavljanje i građenje privremenih objekata iz člana 5 tačka 1, 2, 3 i 5 ove odluke, izdaje se sa rokom važenja do tri godine, odnosno do privođenja zemljišta planiranoj namjeni, utvrđenoj planskim dokumentom, ako taj rok bude utvrđen u kraćem trajanju.
+Odobrenje za postavljanje privremenog objekta može se produžiti, nakon isteka roka iz stava 1 i 2 ovog člana, ako vlasnik objekta najkasnije u roku od 10 dana prije isteka roka važenja odobrenja podnese zahtjev za izdavanje odobrenja nadležnom organu, na način i u skladu sa uslovima propisanim ovom Odlukom i Programom.

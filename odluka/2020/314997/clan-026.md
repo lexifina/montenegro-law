@@ -1,0 +1,2 @@
+# Član 26
+Organ uprave nadležan za planiranje i uređenje prostora i komunalne poslove, može odobriti u pojedinim danima ili vremenskim intervalima u pješačkim zonama i drugim lokacijama na zemljištu u državnoj ili opštinskoj svojini, organizovanje prigodnih prezentacija, manifestacija i prodaju roba na privremenim objektima tipa - štand ili izložbenim pultovima i slično, shodno uslovima predviđenim ovom Odlukom i Programom.

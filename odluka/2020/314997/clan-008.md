@@ -1,0 +1,3 @@
+# Član 8
+Manji sportski objekat je objekat sa odgovarajućim sadržajima i ugrađenom opremom, zatvorenog tipa (balon hala) koji je izrađen od montažnih elemenata sa zidovima i krovnim pokrivačem od impregniranog ili plastificiranog platna ili drugog sličnog materijala koji se postavlja kao samostalni objekat u funkciji sportskih aktivnosti ili otvorenog tipa, koji se postavlja na lokaciji predviđenoj Programom u funkciji sportsko - rekreativnih aktivnosti (fudbal, košarka, odbojka, rukomet, tenis, klizanje, plivanje, mini golf i sl.).
+Uz manji sportski objekat iz stava 1 ovog člana, mogu se postaviti prateći sadržaji (kafe bar, svlačionice, tuš kabine i dr.).

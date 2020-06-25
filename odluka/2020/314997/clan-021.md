@@ -1,0 +1,6 @@
+# Član 21
+Na parcelama koje nisu privedene namjeni u skladu sa važećim urbanističkim planovima, a u svojini su fizičkih ili pravnih lica, mogu se postavljati objekti iz člana 5 stav 1 ove Odluke.
+Na parcelama koje su privedene namjeni u skladu sa važećim urbanističkim planovima, a u vlasništvu su fizičkih ili pravnih lica, mogu se postavljti objekti iz člana 5, stav 1 tačka 1, 4, 6, 8, 9 i 10 ove Odluke.
+U postupku izdavanja odobrenja za postavljanje privremenih objekata iz stava 1 i 2 ovog člana, organ uprave nadležan za planiranje i uređenje prostora i komunalne poslove, određuje uslove koje se odnose na položaj, površinu i broj privremenih objekata.
+Odobrenje iz stava 1 i 2 ovog člana ne može se izdati za postavljanje privremenih objekata iz člana 5 stav 1, tačka 1 i 5 na parcelama koje su u svojini fizičkih ili pravnih lica u I i II zoni građevinskog zemljišta, koje su utvrđene posebnim propisom Opštine Tuzi.
+Izuzetno od odredbe stava 4 ovog člana, odobrenje za postavljanje privremenih objekata za potrebe komunalne infrastrukture može se izdati na parcelama u svojini pravnih i fizičkih lica u I i II zoni građevinskog zemljišta, koje su utvrđene posebnom odlukom Opštine Tuzi kojom se uređuje naknada za komunalno opremanje građevinskog zemljišta.
