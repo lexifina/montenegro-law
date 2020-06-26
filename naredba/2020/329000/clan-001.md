@@ -1,0 +1,5 @@
+# Član 1
+## SUZBIJANjE I SPRJEČAVANjE PRENOŠENjA NOVOG KORONAVIRUSA
+U Naredbi za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa ("Službeni list CG", broj 59/20), u članu 1 stav 1 poslije tačke 9 dodaju se dvije nove tačke koje glase:
+"10) zabrana izlaska iz objekta stanovanja u vremenu od 18 do 5 časova narednog dana. Izuzetno, ova zabrana za poljoprivredne proizvođače sa teritorije Opštine Rožaje radi obavljanja poljoprivrednih radova na sopstvenom gazdinstvu, primjenjuje se u vremenu od 20 do 5 časova narednog dana, uz obavezno korišćenje lične zaštitne opreme i obezbjeđivanje njihove fizičke distance, prilikom obavljanja poslova;
+11) obaveza privrednih društava, drugih pravnih lica i preduzetnika koji obavljaju privrednu djelatnost i pružaju usluge građanima (ugostiteljske usluge, trgovina, igre na sreću, zanatska djelatnost, frizerske i kozmetičke usluge i dr.) da rad objekata organizuju u periodu od 6 do 17 časova."
