@@ -1,0 +1,3 @@
+# Član 84
+Za ostvarivanje pogodnosti: korišćenje vikenda u krugu uže porodice, odsustvo u trajanju do sedam dana u toku jedne godine i korišćenje cijelog ili dijela godišnjeg odmora u krugu porodice, zatvorenik je dužan da dostavi pisani zahtjev realizatoru tretmana, najkasnije do petnaestog u tekućem mjesecu, za naredni mjesec.
+Za ostvarivanje pogodnosti: prisustvo rođenju, vjenčanju i drugom važnom događaju u užoj porodici, odlazak u sud ili drugi organ radi ostvarivanja svojih prava i izlazak radi obavljanja neodložnog i drugog važnog posla, zatvorenik je dužan da dostavi pisani zahtjev realizatoru tretmana, najkasnije sedam dana prije korišćenja pogodnosti.

@@ -1,0 +1,4 @@
+# Član 107
+Maloljetniku koji izdržava kaznu maloljetničkog zatvora mogu se odobriti odsustvo i pogodnosti, u skladu sa zakonom kojim se uređuje postupanje prema maloljetnicima u krivičnom postupku.
+Maloljetniku koji je smješten u prostorije poluotvorenog tipa može se odobriti odsustvo radi posjećivanja zakonskog zastupnika, bračnog druga, vanbračnog druga, djece, usvojenika, braće i sestara, kao i drugih srodnika u pravoj liniji, i dodijeliti pogodnosti: prošireno pravo na prijem posjeta, posjete sportskim, rekreativnim, kulturnim ili drugim prikladnim aktivnostima izvan odjeljenja za maloljetnike i posjete porodici, srodnicima ili drugim bliskim licima za vrijeme vikenda i praznika.
+Maloljetniku koji je smješten u prostorije zatvorenog tipa mogu se dodijeliti pogodnosti: prošireno pravo na prijem posjeta i posjete sportskim, rekreativnim, kulturnim ili drugim prikladnim aktivnostima izvan odjeljenja za maloljetnike, sa nadzorom ili bez nadzora.

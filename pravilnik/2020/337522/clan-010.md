@@ -1,0 +1,3 @@
+# Član 10
+Nakon ispitivanja ličnosti i vršenja procjene rizika iz člana 9 ovog pravilnika, u organizacionoj jedinici zatvora koja vrši poslove ispitivanja ličnosti i utvrđivanje programa tretmana i reintegracije zatvorenika zatvorenik potpisuje izjavu da je upoznat sa pravima i obavezama za vrijeme izdržavanja kazne.
+Ako je zatvorenik nepismen, izjavu iz stava 1 ovog člana saopštava usmeno u prisustvu rukovodioca organizacione jedinice zatvora koja vrši poslove ispitivanja ličnosti i utvrđivanja programa tretmana i reintegracije zatvorenika, a ako je gluv, nijem ili gluvonijem izjavu daje preko tumača.

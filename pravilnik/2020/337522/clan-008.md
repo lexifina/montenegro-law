@@ -1,0 +1,4 @@
+# Član 8
+Neposredno nakon pretresa, zatvorenik se upućuje na higijensku obradu (šišanje, brijanje, kupanje i presvlačenje) i vrši se njegovo fotografisanje, uzimanje otisaka prstiju i dlana, utvrđuju mu se spoljne fizičke karakteristike i uzimaju mjere tjelesne težine i visine.
+Po završetku radnji iz stava 1 ovog člana, zatvorenik se smješta u organizacionu jedinicu zatvora koja vrši poslove ispitivanja ličnosti i utvrđivanje programa tretmana i reintegracije zatvorenika, od njega se uzimaju podaci o članovima uže porodice sa tačnim i preciznim adresama i brojevima telefona ako ih zna, kao i punomoćniku, odnosno advokatu; zatvorenik se upisuje u matičnu knjigu zatvorenika, za njega se obrazuje lični dosije i upoznaje se sa pravima i obavezama za vrijeme izdržavanja kazne.
+Ako zatvorenik ne zna tačne adrese i brojeve telefona članova uže porodice, dužan je da ih pribavi prilikom njihove prve posjete.
