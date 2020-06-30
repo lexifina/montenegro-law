@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 i člana 34 stav 1 Zakona o državnoj imovini ("Službeni list Crne Gore" broj 21/09 i 40/11), člana 33 i 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" broj 2/18), člana 19 i člana 36 Statuta Opštine Kotor ("Službeni list opštine Kotor" broj 3/04 i "Službeni list Crne Gore - Opštinski propisi" broj 17/08, 31/09, 40/10 ,4/11 i 37/19) i prethodne saglasnosti Vlade Crne Gore, Skupština Opštine Kotor na 42. sjednici održanoj 30. 06. 2020. godine, donijela je
+O D L U K U

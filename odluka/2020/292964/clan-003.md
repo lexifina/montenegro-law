@@ -1,0 +1,3 @@
+# Član 3
+Opština Kotor i Crnogorski Elektrodistributivni sistem doo Podgorica su saglasni da izvrše razmjenu nepokretnosti na način što bi Opština Kotor postala vlasnik nepokretnosti evidentiranih u LN 22 KO Kotor I, dok bi se u zamjenu za iste Crnogorski Elektrodistributivni sistem doo Podgorica upisao kao vlasnik nepokretnosti evidentiranih u LN 11 KO Privredna zona.
+Razliku između procjenjenih vrijednosti nepokretnosti iz LN 11 KO Privredna zona i iz LN br.22 KO Kotor I u ukupnom iznosu od 446.555,00 eura isplatiće Crnogorski elektrodistributivni sistem doo Podgorica na žiro račun Opštine Kotor nakon potpisivanja Ugovor o razmjeni nepokretnosti.
