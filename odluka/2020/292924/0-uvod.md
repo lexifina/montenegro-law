@@ -1,0 +1,3 @@
+Na osnovu članova 9.,39 i 40 .Zakona o državnoj imovini ("Službeni list Crne Gore" br.21/09 od 20.03.2009.,40/11 od 8.08.2011.) člana 38. stav 1 tačke 2 i 9 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore",br.2/18 od 10.01.2018.,34/19 od 21.06.2019. ) člana 4. Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl. List CG" br.44/10), a u vezi sa članom 115.,116. I 117 .Zakona o planiranju prostora i izgradnji objekata ("Službeni list Crne Gore" br.64/17 od 6.10.2017,44/18 od 6.07.2018.,6318 od 28.09.2018.,11/19 od 19.02.2019.) ,Skupština opštine Kotor je na 42. sjednici održanoj 30. 06. 2020. godine donijela
+ODLUKU
+o izmjenama i dopunama Odluke o utvrđivanju kriterijuma ,uslova i postupaka za davanje u zakup zemljišta čiji subjekt
