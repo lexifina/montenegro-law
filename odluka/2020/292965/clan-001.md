@@ -1,0 +1,43 @@
+# Član 1
+## o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi izgradnje kanalizacione mreže i postrojenja za prečišćavanje otpadnih voda u Opštini Rožaje
+Utvrđuje se javni interes radi izgradnje kanalizacione mreže i postrojenja za prečišćavanje otpadnih voda u opštini Rožaje, koji obuhvata sledeće kat. parcele :
+-Dio kat. parcele br. 1077 KO Rožaje, u površini od 17 m2,upisane u LN br. 657 na ime Kardović Hakija Munir;
+- Dio kat. parcele broj 1078 KO Rožaje, u površini od 2 m2, upisana u LN br. 656 na ime Kardović Mahmut Hakija:
+- Dio kat. parcele broj 1076 KO Rožaje, u površini od 146 m2, upisane u LN broj 14 na ime Ademović Adem Adem;
+- Dio kat. parcele broj 466 KO Ibarac I, u površini od 7 m2, upisane u LN broj 288 na ime Jugopetrol AD Podgorica;
+- Dio kat.parcele broj 474/7 KO Ibarac I, u površini od 1 m2, upisane u LN broj 801 na ime Pepić Almira, Pepić Eldin, Pepić Ersal, Pepić Begija, Pepić Almera, Pepić Safija, Pepić Šabo i Pepić Šemso.
+- Dio kat.parcele broj 1121 KO Rožaje, u površini od 7 m2, upisane u LN broj 2670 na ime Pepić Fahrudin;
+- Dio kat. parcele broj 1124 KO Rožaje, u površini od 13 m2, upisane u LN broj 805 na ime Kardović Izet;
+- Dio kat. parcele broj 1123 KO Rožaje, u površini od 3 m2, upisane u LN broj 805 na ime Kardović Izet;
+- Dio kat. parcele broj 1125 KO Rožaje, u površini od 19 m2, upisane u LN broj 808 na ime Kardović Šefket;
+- Dio kat. parcele broj 1126 KO Rožaje, u površini od 18 m2, upisane u LN broj 808 na ime Kardović Šefket;
+- Dio kat. parcele broj 1130 KO Rožaje, u površini od 38 m2, upisane u LN broj 423 na ime Ganić Mevljuda;
+- Dio kat.parcele broj 1131 KO Rožaje, u površini od 13 m2, upisane u LN broj 1052 na ime Lukač Murat.
+- Dio kat. parcele broj 1334 KO Rožaje, u površini od 13 m2, upisane u LN broj 962 na ime Kuč Ćamil;
+- Dio kat. parcele broj 1335/1 KO Rožaje, u površini od 2 m2, upisane u LN broj 425 na ime Ganić Arabel;
+- Dio kat. parcele broj 127 KO Rožaje, u površini od 8 m2, upisane u LN broj 432 na ime Zejnelagić Merima;
+- Dio kat. parcele broj 126 KO Rožaje, u površini od 5 m2, upisane u LN broj 1088 na ime Mirović Adem i Mirović Avdija;
+- Dio kat.parcele broj 1370 KO Rožaje, u površini od 128 m2, upisane u LN broj 216 na ime AD Kristal.
+- Dio kat. parcele broj 1373 KO Rožaje, u površini od 214 m2, upisane u LN broj 2665 na ime Kooperativa Interfood Rožaje;
+- Dio kat.parcele broj 2646/1 KO Rožaje, u površini od 48 m2, upisane u LN broj 1728 na ime Fetahović Ešref, Fetahović Faruk, Fetahović Jusuf, Fetahović Ramiz, Fetahović Ifeta i Ćorović Mumirka;
+- Dio kat. parcele broj 2650/1 KO Rožaje, u površini od 196 m2, upisane u LN broj 1728 na ime Fetahović Ešref, Fetahović Faruk, Fetahović Jusuf, Fetahović Ramiz, Fetahović Ifeta i Ćorović Mumirka;
+- Dio kat. parcele broj 2648/1 KO Rožaje, u površini od 104 m2, upisane u LN broj 1728 na ime Fetahović Ešref, Fetahović Faruk, Fetahović Jusuf, Fetahović Ramiz, Fetahović Ifeta i Ćorović Mumirka;
+- Dio kat. parcele broj 882 KO Rožaje, u površini od 1 m2, upisane u LN broj 1599 na ime Zejnelagić Fadil;
+- Dio kat. parcele broj 155 KO Rožaje, u površini od 1 m2, upisane u LN broj 820 na ime Kardović Bedrija;
+- Dio kat. parcele broj 149 KO Rožaje, u površini od 7 m2, upisane u LN broj 1318 na ime Nurković Mersada;
+- Dio kat. parcele broj 148 KO Rožaje, u površini od 4 m2, upisane u LN broj 64 naime Agović Suljo;
+- dio kat. parcele broj 145/3 KO Rožaje, u površini od 1 m2, upisane u LN broj 2832 na ime Hadžić Emir;
+- Dio kat. parcele broj 145/1 KO Rožaje, u površini od 2 m2, upisane u LN broj 2833 na ime Hadžić Nazenda;
+- Dio kat. parcele broj 142 KO Rožaje, u površini od 6 m2, upisane u LN broj 473 na ime Hadzić Šefko;
+- Dio kat. parcele broj 141 KO Rožaje, u površini od 1 m2, upisane u LN broj 385 na ime Fetahović Ramiza;
+- Dio kat. parcele broj 140 KO Rožaje, u površini od 2 m2, upisane u LN broj 385 na ime Fetahović Ramiza;
+- Dio kat.parcele broj 134 KO Rožaje, u površini od 17 m2, upisane u LN broj 201 na ime Cikotić Meka i Ćatović Ema;
+- Dio kat.parcele broj 132 KO Rožaje, u površini od 4 m2, upisane u LN broj 800 na ime Kardović Rešad;
+- Dio kat. parcele broj 1120 KO Rožaje, u površini od 1 m2, upisane u LN broj 1760 na ime Pepić Juso.
+- Dio kat. parcele broj 1117 KO Rožaje, u površini od 10 m2, upisane u LN broj 698 na ime Kalač Feho.
+- Dio kat. parcele broj 1116 KO Rožaje, u površini od 21 m2, upisane u LN broj 700 na ime Kalač Sabahudin;
+- Dio kat. parcele broj 1115 KO Rožaje, u površini od 18 m2, upisane u LN broj 1230 na ime Murić Umer;
+- Dio kat. parcele broj 1114 KO Rožaje, u površini od 35 m2, upisane u LN broj 373 na ime Fejzić Hasan.
+- dio kat. parcele broj 1113 KO Rožaje, u površini od 3 m2, upisane u LN broj 973 na ime Kuč Atifa.
+- dio kat. parcele broj 1112 KO Rožaje, u površini od 14 m2, upisane u LN broj 881 na ime Redžepović Rifat.
+- dio kat. parcele broj 1055 KO Rožaje, u površini od 23 m2, upisane u LN broj 636 na ime Murić Umer.
