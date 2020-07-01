@@ -1,0 +1,3 @@
+# Član 1
+## O prodaji zemljišta-katastarskih parcela br: 403/2 i 426/3 KO Kolašin, a radi dokompletiranja urbanističke parcele br. 23 u zahvatu DUP-a‘’Centar’’
+Opština Kolašin prodaje DOO’’Stef & Kris Mont Company’’ iz Podgorice , neposrednom pogodbom , zemljište upisano u listu nepokretnosti br.252 KO Kolašin, na kojem opština Kolašin ima pravo raspolaganja i to:kat.parcelu br.403/2 površine 4 m2 i kat.parcelu br.426/3 površine 4 m2 ,koje ulaze u sastav urbanističke parcele br.23 zona G , podzona G2 u zahvatu DUP-a ‘’Centar’’ , a sve radi dokompletiranja urbanističke parcele br.23 zona G , podzona G2 u zahvatu DUP-a ‘’Centar’’.
