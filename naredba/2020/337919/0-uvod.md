@@ -1,0 +1,4 @@
+Na osnovu člana 55 stav 1 tač. 3 i 9 Zakona o zaštiti stanovništva od zaraznih bolesti ("Službeni list CG", broj 12/18), na predlog Instituta za javno zdravlje Crne Gore, Ministarstvo zdravlja donijelo je
+NAREDBU
+O PRESTANKU VAŽENjA NAREDBE ZA PREDUZIMANjE PRIVREMENIH MJERA ZA SPRJEČAVANjE UNOŠENjA U ZEMLJU, SUZBIJANjE I SPRJEČAVANjE PRENOŠENjA NOVOG
+KORONAVIRUSA
