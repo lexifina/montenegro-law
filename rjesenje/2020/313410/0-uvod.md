@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 tačka 21 Statuta opštine Herceg Novi (,,Službeni list Crne Gore - opštinski propisi’’, br.01/19,37/19,06/20) i člana 24 stav 2 Odluke o obrazovanju Savjeta za razvoj i zaštitu lokalne samouprave (,,Službeni list RCG - opštinski prpisi’’, br.06/05, Službeni list CG - opštinski propisi’’,br. 44/17) Skupština opštine Herceg Novi na sjednici održanoj 02.07.2020. godine donijela je
+R J E Š E NJ E
