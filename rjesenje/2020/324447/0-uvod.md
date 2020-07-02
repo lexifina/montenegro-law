@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 tačka 21 Statuta Opštine Herceg Novi (,,Sl.list CG - opštinski propisi’’, br.1/19,37/19,6/20) i člana 14 Odluke ododjeli Nagrada Opštine Herceg Novi (,,Službeni list RCG - Opštinski propisi’’, br.09/02,32/04, Službeni list CG - opštinski propisi’’, br. 44/17) Skupština opštine Herceg Novi na sjednici održanoj 02.07.2020. godine, donijela je
+R J E Š E NJ E O IMENOVANJU ŽIRIJA ZA DODJELU NAGRADA I POVELJE OPŠTINE HERCEG NOVI
