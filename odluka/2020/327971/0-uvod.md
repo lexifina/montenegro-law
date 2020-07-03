@@ -1,0 +1,2 @@
+Na osnovu člana 13. i člana 16. Zakona o sportu ("Sl. List CG" br: 44/18), člana 16. tačka 5. Odluke o organizaciji i načinu rada lokalne uprave ("Sl. List CG" - Opštinski propsi br. 46/19) i člana 14. stav 3. tačka 5. Statuta Opštine Kotor ("Sl. List CG" - Opštinski propisi br. 37/19), a na osnovu prethodne saglasnosti Ministarstva sporrta i mladih , br: 01-006-907/2019 od 27. 12. 2019. godine, Skupština Opštine Kotor na 42. sjednici održanoj 22. 06. 2020. godine, donijela je
+ODLUKU
