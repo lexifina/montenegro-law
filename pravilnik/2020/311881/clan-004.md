@@ -1,0 +1,4 @@
+# Član 4
+O izvršenoj registraciji kolektivnog ugovora iz člana 1 ovog pravilnika, Ministarstvo donosi rješenje, u roku od sedam dana od dana podnošenja zahtjeva iz člana 2 ovog pravilnika.
+Jedan primjerak opšteg i granskog kolektivnog ugovora u kome je jedna od ugovornih strana Vlada Crne Gore odnosno izmjene i dopune ovih ugovora i rješenje o upisu u Registar kolektivnih ugovora (u daljem tekstu: Registar), Ministarsvo zadržava u arhivi, jedan primjerak u dosijeu, po jedan primjerak dostavlja učesnicima u zaključivanju, a po dva primjerka dostavlja Sekretarijatu za zakonodavstvo radi objavljivanja u "Službenom listu Crne Gore".
+Jedan primjerak granskog kolektivnog ugovora i kolektivnog ugovora kod poslodavaca, odnosno izmjene i dopune ovih ugovora i rješenje o upisu u Registar, Ministarsvo zadržava u arhivi, jedan primjerak u dosijeu i po jedan primjerak dostavlja učesnicima u zaključivanju.
