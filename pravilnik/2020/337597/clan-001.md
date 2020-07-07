@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se obrasci evidencije postupaka javnih nabavki, evidencije o jednostavnim nabavkama, evidencije o izuzećima od primjene u postupcima javnih nabavki, evidencije nabavki za diplomatsko-konzularna predstavništva i vojno- diplomatske predstavnike, evidencije nabavki povezanih sa potvrđenim međunarodnim ugovorima i evidencije nabavki za društvene i druge posebne usluge.
