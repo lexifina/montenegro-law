@@ -1,0 +1,5 @@
+# Član 47
+## Pravo neobezbijeđenog partnera
+Neobezbijeđeni partner ima pravo da zahtijeva da mu se presudom kojom se partnerstvo raskida dosudi izdržavanje na teret drugog partnera, srazmjerno njegovim materijalnim mogućnostima.
+Izuzetno, partner koji u partnerstvu nije tražio da mu se dosudi izdržavanje na teret drugog partnera može, iz opravdanih razloga, takav zahtjev postaviti u odvojenoj parnici, u roku od jedne godine od raskida partnerstva, samo ako su pretpostavke za izdržavanje nastale prije raskida partnerstva i trajale neprekidno do zaključenja glavne rasprave u parnici za izdržavanje, ili ako je u ovom roku nastupila nesposobnost za rad kao posljedica tjelesne povrede ili narušenog zdravlja iz vremena prije raskida partnerstva.
+Ako su se u slučaju raskida partnerstva partneri sporazumjeli o izdržavanju, ili je jedan partner bez izričitog sporazuma učestvovao u izdržavanju drugog partnera plaćanjem određenih novčanih iznosa, ostavljajući mu na korišćenje svoju imovinu ili na drugi način, rok iz stava 2 ovog člana teče od dana kad je učinjeno posljednje davanje na ime izdržavanja, odnosno od dana kad je partneru vraćena njegova imovina.
