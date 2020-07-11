@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG" br. 02/18), člana 36 stav 1 tačka 10 Statuta Opštine Kotor ("Sl. list CG- Opštinski propisi" 37/19), Zaključka Komisije za poslovni prostor br. 02-419/20-1918/3 od 15.04.2020.godine, a u vezi člana 39 stav 1 i stav 2 Zakona o dražavnoj imovini ("Službeni list CG" broj 21/09 i 40/11), Skupština opštine Kotor je na 42 sjednici održanoj 22. 06. 2020 .godine, donijela
+O D L U K U O IZDAVANJU U DUGOROČNI ZAKUP POSLOVNIH PROSTORIJA
