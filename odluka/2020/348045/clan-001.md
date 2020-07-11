@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o privremenom određivanju naziva ulica na teritoriji Glavnog grada ("Službeni list CG - Opštinski propisi", broj 11/20) u članu 2 stav 1 poslije naziva ulice dodaje se naziv naselja u kojem se nalazi ulica: Dajbabe, Dajbabe (Dahna), Doljani, Doljani (DUP "Murtovina"), Donja Gorica, Gornja Gorica, Gornji Vranići, Masline (Kakaricka gora), Momišići (DUP "Momišići A"), Momišići (DUP "Momišići B"), Murtovina, Park šuma Zagorič, Račice, Vranići, Vranićke Njive, Vrela Ribnička, Zabjelo (DUP "Titex") i Zelenika (Dajbabska gora).
