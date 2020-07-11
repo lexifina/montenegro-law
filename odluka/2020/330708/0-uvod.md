@@ -1,0 +1,2 @@
+Na osnovu člana 116 stav 3 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", broj 64/17, 44/18, 63/18 i 11/19) i člana 35 Statuta Opštine Šavnik ("Službeni list CG - Opštinski propisi", broj 31/18), uz prethodnu saglasnost Ministarstva održivog razvoja i turizma broj 04-42/18 od od 10.03.2020. godine i Uprave za zaštitu kulturnih dobara broj 03-346/2019- 8 od 04.03.2020. godine, Skupština Opštine Šavnik, na sjednici održanoj dana 15.06.2020. godine, donijela je
+ODLUKU
