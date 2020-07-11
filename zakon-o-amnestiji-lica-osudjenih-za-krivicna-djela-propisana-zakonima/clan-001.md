@@ -1,0 +1,4 @@
+# Član 1
+Oslobađaju se od izvršenja 15% izrečene kazne zatvora lica koja su na dan stupanja na snagu ovog zakona pravosnažno osuđena za krivična djela propisana zakonima Crne Gore, a koja se na dan stupanja na snagu ovog zakona nalaze na izdržavanju kazne zatvora u Crnoj Gori, kao i lica osuđena stranom krivičnom presudom koja se izvršava u Crnoj Gori ili čiji je premještaj radi izvršenja kazne zatvora izvršen u drugu državu.
+Izuzetno od stava 1 ovog člana, oslobađaju se 10% izrečene kazne zatvora lica koja su na dan stupanja na snagu ovog zakona pravosnažno osuđena za krivična djela propisana zakonima Crne Gore, a nijesu započela izvršenje kazne zatvora.
+Izuzetno od st. 1 i 2 ovog člana, oslobađaju se od izvršenja 5% izrečene kazne zatvora lica koja su dva i više puta pravosnažno osuđena na bezuslovnu kaznu zatvora zbog izvršenja krivičnog djela.
