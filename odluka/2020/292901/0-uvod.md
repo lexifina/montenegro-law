@@ -1,0 +1,2 @@
+Na osnovu člana 26. stav 1. tačka 1. i člana 38. stav 1. tačka 3. Zakona o lokalnoj samoupravi ("Sl. List CG" br. 02/18, 34/19 i 38/20), člana 36. stav 1. tačka 3. Statuta Opštine Kotor ("Sl. List CG" - Opštinski propisi br. 37/19), i saglasnosti Ministarstva ekonomije, Direktorata za razvoj br: 011-063/20-2598/2, Skupština Opštine Kotor na 42. sjednici održanoj 22. 06. 2020. godine, donijela je
+ODLUKU
