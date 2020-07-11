@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2, člana 34 stav 3 i člana 40 stav 1 Zakona o državnoj imovini ("Sl. list CG", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi (»Sl. list Crne Gore«, br. 2/18, 34/19 i 38/20), člana 43 stav 1 tačka 9 Statuta Opštine Bar ("Sl. list CG - Оpštinski propisi", br. 37/18), i Zaključka Vlade Crne Gore o davanju prethodne saglasnosti Opštini Bar za otuđenje nepokretnosti, broj 07-3006 od 04.06.2020. godine, Skupština opštine Bar, na sjednici održanoj dana 25.06.2020. godine, donijela je
+O D L U K U
