@@ -1,0 +1,3 @@
+# Član 7
+## Prestanak važenja
+Danom stupanja na snagu ove odluke prestaje da važi Odluka o lokalnim administrativnim taksama ("Službeni list C G - Opštinski propisi", broj 21/12).
