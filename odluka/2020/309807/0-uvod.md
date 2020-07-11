@@ -1,0 +1,2 @@
+Na osnovu člana 2 stav 1 Zakona o lokalnim komunalnim taksama ("Službeni list CG", broj 18/19), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20) i člana 35 stav 1 tačka 8 Statuta opštine Šavnik ("Službeni list CG"- Opštinski propisi, br. 31/18), nakon dobijanja saglasnosti Vlade Crne Gore, Skupština Opštine Šavnik, na sjednici održanoj dana 15.06.2020. godine, donijela je
+O D L U K U O LOKALNIM KOMUNALNIM TAKSAMA OPŠTINE ŠAVNIK
