@@ -1,0 +1,2 @@
+Na osnovu člana 4 Zakona o administrativnim taksama ("Službeni list CG", broj 18/19), člana 38 stav 1 tač. 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20) i člana 44 stav 1 tač. 2 i 8, a uvezi sa članom 49 st. 1 i 3 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", broj 2/19) Skupština Opštine Budva, na sjednici održanoj 11. jula 2020. godine, donijela je:
+ODLUKU O DOPUNI ODLUKE O LOKALNIM ADMINISTRATIVNIM TAKSAMA
