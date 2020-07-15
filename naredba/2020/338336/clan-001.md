@@ -1,0 +1,2 @@
+# Član 1
+U Naredbi za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa ("Službeni list CG", br. 59/20, 62/20, 63/20 i 66/20), u stavu 2 riječi: "mjera iz stava 1 tačka 13 ovog člana primjenjivaće se do 15. jula 2020. godine" zamjenjuju se riječima: "mjera iz stava 1 tačka 13 ovog člana primjenjivaće se do 22. jula 2020. godine".
