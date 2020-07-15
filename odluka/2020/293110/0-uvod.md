@@ -1,0 +1,2 @@
+Na osnovu člana 22 st. 1,4,5 i 6 Zakona o putevima ("Sl, list RCG" br. 42/04 i "Službeni list Crne Gore" broj 21/09, 54/09, 40/10, 73/10, 36/11 i 40/11), člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi (sl. list CG" broj 2/18, 34/19 i 38/20) i člana 44 stav 1 tačka 2 i 8, a uvezi sa članom 49 stav 1 i 3 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 02/19) Skupština Opštine Budva, na sjednici održanoj 11.jula 2020. godine donijela je:
+ODLUKU
