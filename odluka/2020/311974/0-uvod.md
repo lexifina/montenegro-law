@@ -1,0 +1,2 @@
+Na osnovu člana 2 stav 1 Zakona o lokalnim komunalnim taksama ("Službeni list CG", broj 18/19), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18 i 34/19) i člana 44 stav 1 tačka 2 Statuta opštine Budva ("Službeni list CG - Opštinski propisi", broj 2/19), nakon dobijene saglasnosti Vlade Crne, Skupština opštine Budva, na sjednici održanoj 11.jula 2020. godine, donijela je :
+ODLUKU O POTVRĐIVANJU ODLUKE O LOKALNIM KOMUNALNIM TAKSAMA OPŠTINE BUDVA
