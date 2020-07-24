@@ -1,0 +1,5 @@
+# Član 13
+## Procedure upoznavanja klijenta
+Odgovorno lice kod obveznika, odnosno drugog subjekta iz člana 1 ovog pravilnika prilikom osposobljavanja zaposlenih kod obveznika, odnosno drugog subjekta iz člana 1 ovog pravilnika, za primjenu liste indikatora za prepoznavanje sumnjivih klijenata i transakcija upozorava te zaposlene da naročito obrate pažnju na ekonomske i pravne nelogičnosti u transakcijama, neobičan način poslovanja ili ponašanje klijenta.
+Obveznik, odnosno drugi subjekat iz člana 1 ovog pravilnika koji prilikom obavljanja djelatnosti uspostavlja sa klijentom trajniju poslovnu saradnju, utvrđuje procedure "kako upoznati klijenta i njegovo poslovanje" kojima se uređuju mjere utvrđivanja i provjere identiteta klijenta i praćenja njegovog poslovanja.
+Nakon utvrđenih procedura iz stava 2 ovog člana, odgovorno lice kod obveznika, odnosno drugog subjekta iz člana 1 ovog pravilnika, stara se da zaposleni kod obveznika, odnosno drugog subjekta iz člana 1 ovog pravilnika, razumiju važnost i potrebu uspješnog sprovođenja politike "upoznaj svog klijenta".
