@@ -1,0 +1,5 @@
+# Član 4
+## Postupanje Agencije po zahtjevu
+Po prijemu urednog zahtjeva i izjava iz člana 2 ovog pravilnika Agencija sprovodi provjeru dostupnosti usluge pristupa internetu zahtijevanog kvaliteta na lokaciji na kojoj poreski obveznik obavlja djelatnost na osnovu dostavljenih izjava operatora.
+U slučaju kada operator iz člana 3 stav 2 ovog pravilnika izjavi da je usluga pristupa internetu zahtijevanog kvaliteta na lokaciji na kojoj poreski obveznik obavlja djelatnost dostupna, a poreski obveznik pravilnim priključenjem ispravnog terminala čiji interfejs odgovara interfejsu mreže operatora ne uspije da ostvari stabilan pristup internetu zahtijevanog kvaliteta, Agencija će na zahtjev poreskog obveznika izvršiti provjeru dostupnosti usluge putem mjerenja na lokaciji.
+U slučaju kada se na osnovu dostavljenih izjava operatora ne može pouzdano utvrditi da li je usluga pristupa internetu zahtijevanog kvaliteta na lokaciji na kojoj poreski obveznik obavlja djelatnost dostupna, Agencija će od operatora tražiti dodatne informacije i, u slučaju potrebe, izvršiti provjeru dostupnosti usluge putem mjerenja na lokaciji.
