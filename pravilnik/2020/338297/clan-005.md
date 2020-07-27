@@ -1,0 +1,5 @@
+# Član 5
+Proizvođenje oficira po ugovoru u oficira, podoficira po ugovoru u podoficira, podoficira u oficira, podoficira po ugovoru u oficira, odnosno oficira po ugovoru, vojnika po ugovoru u oficira ili podoficira, odnosno u oficira po ugovoru ili podoficira po ugovoru, kao i civilnog lica u službi u Vojsci (u daljem tekstu: civilno lice) u profesionalno vojno lice vrši se putem internog oglasa unutar Ministarstva (u daljem tekstu: interni oglas).
+Odluku o pokretanju internog oglasa donosi ministar odbrane, na predlog načelnika Generalštaba Vojske.
+Interni oglas sadrži: naziv formacijskog mjesta za koje se predlaže popuna proizvođenjem, naziv i mjesto jedinice Vojske, broj lica za koje se traži proizvođenje, rod, odnosno službu, specijalnosti, kao i druge podatke od značaja za proizvođenje, adresu na koju se podnosi prijava, rok u kojem se podnosi prijava, kao i dokaze koje kandidat treba da priloži uz prijavu.
+Interni oglas se objavljuje na oglasnoj tabli Ministarstva i jedinica Vojske i internet stranici Ministarstva i Vojske.
