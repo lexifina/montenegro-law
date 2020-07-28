@@ -1,0 +1,3 @@
+# Član 3
+Naručilac je dužan da prilikom sprovođenja nabavke iz člana 1 ove uredbe obezbijedi ekonomičnu upotrebu javnih sredstava, u skladu sa namjenom, vrstom i procijenjenom vrijednošću predmeta nabavke, radi postizanja najbolje vrijednosti za ugovorenu cijenu, a koja nije veća od tržišne cijene za uporediv obim, sadržaj i kvalitet predmeta nabavke, ako je taj predmet bezbjednosne nabavke dostupan na tržištu i adekvatan potrebama naručioca.
+Procijenjena vrijednost nabavke iz stava 1 ovog člana, cijena ponude i druge vrijednosti, utvrđene ovom uredbom iskazuju se bez poreza na dodatu vrijednost, ako naručilac pozivom za nadmetanje nije drugačije odredio.
