@@ -1,0 +1,2 @@
+# Član 2
+Sastavni dio ove Odluke čine predlog Ugovora o davanju u dugoročni zakup nepokretnosti označenih kao objekat 1 na kat.parc.600 i kat.parc.605/2, LN 114 KO Risan i , dio UP 153(Dom kulture Risan) sa "Briv Construction" doo Kotor, Odluke o davanju u dugoročni zakup nepokretnosti označenih kao objekat 1 na kat.parc.600 i kat.parc.605/2, LN 114 KO Risan I, dio UP 153 (Dom kulture u Risnu) br.11-016/20-1031 od 28.01.2020.godine (Službeni list Crne Gore- Opštinski propisi br.6/2020) i Odluke o izboru najpovoljnijeg ponuđača br. 06-019/20-9620/5 od 17.07. .2020.godine.
