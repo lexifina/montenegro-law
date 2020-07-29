@@ -1,0 +1,2 @@
+# Član 5
+Kreditna institucija u kojoj je nastupio zaštićeni slučaj, dužna je da bez odlaganja, a najkasnije u roku od tri radna dana, od dana nastanka zaštićenog slučaja, u elektronskom i pisanom obliku dostavi Fondu podatke o deponentima, depozitima i dospjelim obavezama, kao i potrebnu dokumentaciju za obračun i isplatu garantovanih depozita, u obimu, obliku i sadržaju utvrđenom u Prilogu 3 - Uputstvo za dostavu podataka o deponentima, depozitima i dospjelim obavezama, koji je sastavni dio ovog pravilnika.
