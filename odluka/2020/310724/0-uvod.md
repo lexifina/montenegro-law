@@ -1,0 +1,2 @@
+Na osnovu člana 116 stav 3 Zakona o planiranju prostora i izgradnji objekata ("SI. list CG", br. 64/17, 44/18 i 63/18 i 11/19), i člana 73 stav 1 tačka 2 Statuta Prijestonice ("Službeni list CG - Opštinski propisi", broj 49/18 i 9/19), po prethodno pribavljenoj saglasnosti Ministarstva održivog razvoja i turizma br.04-42/11 od 10.03.2020. godine i Uprave za zaštitu kulturnih dobara br.03- 267/2018-15 od 28.04.2020. godine, Skupština Prijestonice Cetinje na sjednici održanoj dana, 09.07.2020. godine, donijela je
+ODLUKU

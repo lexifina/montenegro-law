@@ -1,0 +1,2 @@
+# Član 5
+Stupanjem na snagu ove odluke prestaje da važi Odluka o donošenju Elaborata o postavljanju i izgradnji montažnih objekata privremenog karaktera na teritoriji Prijestonice Cetinje ("Službeni list CG - Opštinski propisi", br. 46/17) i Odluka o postavljanju, građenju i uklanjanju montažnih objekata privremenog karaktera na teritoriji Prijestonice Cetinje ("Službeni list CG - Opštinski propisi", br. 12/14, 41/17 i 42/17).

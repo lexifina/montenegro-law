@@ -1,0 +1,3 @@
+# Član 6
+Postupci započeti do dana stupanja na snagu ove odluke, okončaće se shodno odredbama odluke koja je važila u vrijeme podnošenja zahtjeva za izdavanje odobrenja.
+Nosioci prava na privremene objekte za koje je odobrenje izdato na osnovu ranije važećih propisa (sa neodređenim rokom važenja odobrenja, sa rokom važenja odobrenja do privođenja lokacije namjeni utvrđenoj planskim dokumentom ili sa unaprijed određenim rokom važenja odobrenja sa mogućnošću produženja i sl.) dužni su da u roku 60 dana od dana stupanja na snagu ove odluke, podnesu prijavu za postavljanje odnosno građenje privremenih objekata u skladu sa ovim Programom i posebnim propisima.
