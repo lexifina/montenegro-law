@@ -1,0 +1,2 @@
+Na osnovu člana 68. i 69. Zakona o budžetu i fiskalnoj odgovornosti ("Sl.list CG" br.20/14, 056/14, 070/17, 004/18, 055/18), člana 40 i 41 Zakona o finansiranju lokalne samouprave ("Sl.list CG" br.003/19 ) i člana 36. Statuta opštine Kotor ("Sl.list RCG" Opštinski propisi br.037/19), Skupština Opštine Kotor, na 42. sjednici održanoj dana 22.06.2020. godine donijela je:
+ODLUKU O ZAVRŠNOM RAČUNU BUDŽETA OPŠTINE KOTOR ZA 2019. GODINU
