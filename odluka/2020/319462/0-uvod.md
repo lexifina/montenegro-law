@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 i člana 40 stav 2 tačka 3 Zakona o državnoj imovini (,,Sl. list CG" broj 21/09, 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi (,,Sl. list CG" br. 02/18, 34/19, 38/20), člana 19 stav 3 i 4 i član 36 stav 1 tačka 10 Statuta Opštine Kotor (,,Sl.list CG - Opštinski propisi 37/19), Skupština Opštine Kotor, na 42.sjednici održanoj dana 30.06.2020.godine, donijela je sledeću
+ODLUKU
