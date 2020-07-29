@@ -1,0 +1,3 @@
+# Član 4
+Na osnovu podataka i dokumentacije koju dostavlja kreditna institucija u kojoj je nastupio zaštićeni slučaj, Fond obračunava visinu garantovanog depozita za svakog deponenta pojedinačno.
+Na osnovu obračuna garantovanog depozita za svakog deponenta generiše se nalog za isplatu koji sadrži podatke o: deponentu, iznosu svih depozita (po partijama) u eurima, ukjučujući i dospjelu kamatu, iznos svih depozita (po partijama) u valuti koja nije euro preračunatih u euro po kursu Centralne banke Crne Gore važećem na dan nastanka zaštićenog slučaja, uključujući i dospjelu kamatu, iznosu dospjelih obaveza deponenta prema kreditnoj instituciji u kojoj je nastupio zaštćeni slučaj na dan nastanka zaštićenog slučaja i iznosu garantovanog depozita.
