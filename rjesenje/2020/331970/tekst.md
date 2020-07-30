@@ -1,0 +1,5 @@
+Na osnovu člana 32 i 36 Porodičnog zakona ("Službeni list Crne Gore" broj 53/16) i čana 54 Statuta Glavnog grada ("Službeni list Crne Gore-Opštinski propisi", broj 08/19) i člana 15 Odluke o obrazovanju radnih tijela Skupštine Glavnog grada - Podgorice ("Službeni list Crne Gore - Opštinski propisi", broj 31/19), Skupština Glavnog grada - Podgorice, na sjednici održanoj 30. 07. 2020. godine, donijela je
+R J E Š E NJ E O IZMJENI RJEŠENJA O ODREĐIVANJU ODBORNIKA KOJI ĆE PRISUSTVOVATI SKLAPANJU BRAKA
+I - U Rješenju o određivanju odbornika koji će prisustvovati sklapanju braka,broj: 02-030/18-509, od 31. jula 2018. godine , broj 02-030/18-697 od 12.septembra 2018.godine ,02-030/18-868 od 27.novembra 2018.godine i broj 02-030/19-2790 od 28.novembra 2019.godine , vrši se sljedeća i z m j e n a:
+- Odbornik BOGDAN BOŽOVIĆ se određuje da prisustvuje sklapanju braka pred nadležnim organom, umjesto ZORANA LAKUŠIĆA, zbog podnošenja ostavke.
+II - Ovo rješenje stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore- Opštinski propisi".
