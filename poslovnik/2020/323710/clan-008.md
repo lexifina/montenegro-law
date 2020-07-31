@@ -1,0 +1,2 @@
+# Član 8
+Sekretar Komisije pomaže predsjedniku Komisije u organizaciji rada Komisije i stara se o pripremi sjednica i materijala, organizuje vođenje zapisnika na sjednici i zajedno sa predsjednikom stara se o sprovođenju odluka i zaključaka Komisije, stara se o pravilnoj primjeni zakona kojima se uređuje zaštita podataka o ličnosti i zakona kojima se uređuje tajnost podataka, obavlja i druge poslove po nalogu Komisije i predsjednika Komisije.

@@ -1,0 +1,2 @@
+# Član 9
+Član Komisije ima pravo i dužnost da učestvuje u radu i odlučivanju Komisije, inicira razmatranje pitanja koja su u nadležnosti Komisije, čuva povjerljive podatke u skladu sa zakonom i aktima Komisije, čuva ugled i dostojanstvo Komisije, bude pravovremeno i redovno obavještavan o pitanjima o kojima odlučuje Komisija, ostvari uvid u svu dokumentaciju kojom raspolaže Komisija, u slučaju spriječenosti da prisustvuje zakazanoj sjednici blagovremeno obavještava predsjednika, odnosno sekretara Komisije, obavlja i druge poslove u skladu sa zakonom i ovim poslovnikom.
