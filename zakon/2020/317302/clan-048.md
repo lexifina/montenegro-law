@@ -1,0 +1,4 @@
+# Član 48
+Crna Gora je obavezna da ovlašćenom službenom licu i članovima njegove porodice, kao i zaposlenom u Ministarstvu, licu u službi u Vojsci i sa njima povezanim licima koja u skladu sa članom 14 stav 3 tačka 1 ovog zakona sarađuju sa ovlašćenim službenim licem, pruži pravnu i materijalnu pomoć, ako je u vršenju poslova, odnosno u vezi sa saradnjom zadržan, lišen slobode ili osuđen van teritorije Crne Gore.
+Ministarstvo je obavezno da pomoć iz stava 1 ovog člana i druge oblike zaštite pruži ovlašćenom službenom licu, bivšem ovlašćenom službenom licu i članovima njihovih porodica, kao i zaposlenom u Ministarstvu, licu u službi u Vojsci i sa njima povezanim licima koja u skladu sa članom 14 stav 3 tačka 1 ovog zakona sarađuju sa ovlašćenim službenim licem, u slučaju da zbog vršenja poslova, odnosno saradnje budu dovedeni u opasnost.
+Ovlašćeno službeno lice ne ostvaruje prava iz st. 1 i 2 ovog člana u slučaju prekoračenja ili zloupotrebe ovlašćenja.
