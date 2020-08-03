@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o načinu vođenja računovodstva i obračuna neto troška univerzalnog poštanskog operatora ("Službeni list CG", br.37/17 i 8/19 ) član 34, stav 3 tačka d) mijenja se tako da glasi:
+"d) Model tj. obračun u excel formatu povezan formulama koji omogućava praćenje obračuna neto troška od ulaznih podataka do krajnjeg rezultata, izuzev u slučajevima kada je Opisom implementacije Pravilnika naznačeno da se isti obračunava posebnim softverom za obračun neto troška u koji se omogućava uvid od strane revizora kojeg imenuje Agencija radi omogućavanja praćenja toka obračuna neto troška".
