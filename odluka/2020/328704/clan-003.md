@@ -1,0 +1,37 @@
+# Član 3
+Na spomen ploči će biti ispisan tekst na albanskom, crnogorskom i engleskom jeziku, sljedeće sadržine:
+"Më 15 prill 1979 termeti goditi Ulqinin dhe qytetarët tanë humbën këto familjarë e miq të dashur:
+15. Aprila 1979. godine, zemljotres je pogodio Ulcinj i naši građani su tada izgubili sljedeće voljene članove porodica i prijatelje:
+On April 15th, 1979 an earthquake struck the Municipality of Ulqin and our citizens lost these beloved friends and family members:
+Rabie Ardoliq (1919)
+Nazmi Ardoliq (1977)
+Prena Dugagjin (1916)
+Jusuf Elezaga (1912)
+Agron Goga (1966)
+Nurije Ibroçi (1929)
+Xhemal Idrizaga (1929)
+Danica Jovović (1931)
+Ramazan Kasneci (1967)
+Milica Kovačević (1937)
+Xhevahire Kraja (1919)
+Rabie (Nebije) Kurti (1948)
+Sadete Kurti (1977)
+Adem Kurti (1974)
+Rexhep Kurti (1974)
+Naser Kurti (1976)
+Lula Llukiq (1921)
+Marko Llukiq (1912)
+Anđa Nilović (1905)
+Feriha Nimanbegu (1935)
+Pal Nrekić (1966)
+Gjon Pepgjonoviq (1897)
+Slobodanka Radovanović (1975)
+Leka Rudoviq (1909)
+Veliša Sekulić (1904)
+Haxhi Seloviq (1885)
+Huso Slaković (____)
+Fatime Shurdha (1892)
+June Uruçi (1905)
+Zorka Vučević (1922)
+Refije Zagoviq (1964)
+Komuna e Ulqinit - Opština Ulcinj - Municipality of Ulqin (2020)"
