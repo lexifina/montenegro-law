@@ -1,0 +1,2 @@
+# Član 16
+Predsjednik Opštine daje saglasnost za zajedničko apliciranje i/ili zajedničku realizaciju projekta iz člana 15 ove odluke, na osnovu prethodnog mišljenja organa lokalne uprave nadležnog za odgovarajuću upravnu oblast, o usklađenosti tog projekta sa odgovarajućim razvojnim planom ili politikom Opštine u određenoj upravnoj oblasti u pogledu cilja projekta i ciljne grupe, odnosno o postojanju uslova predviđenih projektom za učešće Opštine u njegovoj realizaciji.
