@@ -1,0 +1,4 @@
+Na osnovu člana 1,3,5 i 6a. Zakona o zaštiti od buke u životnoj sredini ("Sl.list.CG",br.28/l 1, 28/12, 01/14 i 2/18), člana 22. st.32. Odluke o organizaciji i načinu rada organa lokalne uprave ("Sl.list.CG"- Opštinski propisi, br.16/12, 33/13, 13/14, 11/15, 6/17, 21/17, 41/17, 51/17, 30/18 i 21/19), člana 44. Zakona o lokalnoj samoupravi ("Sl.list.CG",br.2/18, 34/19 i 38/20) i člana 121. tačka 11,12,13,14,15 i 16 Zakona o turizmu i ugostiteljstvu ("Sl.list.CG",br.2/18, 4/18, 13/18 i 25/19 ) Skupština opštine Ulcinj, na sjednici održanoj dana 29.06.2020 godine, donijela je
+ODLUKU
+o izmjenama i dopunama Odluke o uslovima i načinu izvođenja i emitovanja muzike u ugostiteljskim objektima i
+određivanje ulica, djelova ulica naselja i drugih lokacija za održavanje javnih skupova na otvorenom prostoru, kao i vrijeme
