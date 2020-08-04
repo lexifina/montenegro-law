@@ -1,0 +1,2 @@
+Na osnovu člana 2. Zakona o lokalnim komunalnim taksama ("Službeni list CG", broj 18/19) člana 38. stav 1. tačka 8. Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20) i člana 58. Statuta opštine Ulcinj ("Službeni list CG - Opštinski propisi", br. 48/19), nakon dobijanja saglasnosti Vlade Crne Gore, Skupština opštine Ulcinj, na sjednici održanoj dana 29.06.2020 god., donijela je
+ODLUKU O LOKALNIM KOMUNALNIM TAKSAMA OPŠTINE ULCINJ
