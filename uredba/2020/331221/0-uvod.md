@@ -1,0 +1,2 @@
+Na osnovu člana 40 Zakona o hemikalijama ("Službeni list CG", broj 51/17), Vlada Crne Gore je, 9. jula 2020. godine, bez održavanja sjednice, na osnovu pribavljenih saglasnosti većine članova Vlade, donijela
+UREDBU O IZMJENI UREDBE O ZABRANJENIM ODNOSNO DOZVOLJENIM NAČINIMA UPOTREBE, PROIZVODNJE I STAVLJANJA NA TRŽIŠTE HEMIKALIJA KOJE PREDSTAVLJAJU NEPRIHVATLJIV RIZIK PO ZDRAVLJE LJUDI I ŽIVOTNU SREDINU
