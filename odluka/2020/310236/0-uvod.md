@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi (,,Službeni list Crne Gore" , br. 02/18, 34/19 i 38/20), i članova 3 i 11 Zakona o rodnoj ravnopravnosti (,,Službeni list Republike Crne Gore" , br. 46/07, ,,Službeni list Crne Gore", br. 73/10, 40/11, 35/15) i člana 16 stav 1 tačke 16 i 20 Odluke o organizaciji i načinu rada lokalne uprave (,,Službeni list Crne Gore - Opštinski propisi" , br. 46/19), Skupština Opštine Kotor, na 44. sjednici održanoj 28. 07. 2020. godine, donosi:
+ODLUKU
