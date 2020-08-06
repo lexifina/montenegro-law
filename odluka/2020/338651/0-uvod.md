@@ -1,0 +1,2 @@
+Na osnovu čl. 57 i 79 Zakona o privrednim društvima ("Službeni list RCG", broj 6/02 i "Službeni list CG", br. 17/07, 80/08 i 36/11) i člana 8 Odluke o osnivanju Društva sa ograničenom odgovornošću "Centar za ekotoksikološka ispitivanja" - Podgorica ("Službeni list CG", br. 39/12 i 36/13), Vlada Crne Gore je, 9. jula 2020. godine bez održavanja sjednice, na osnovu pribavljenih saglasnosti većine članova Vlade, donijela
+ODLUKU
