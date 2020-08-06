@@ -1,0 +1,4 @@
+# Član 23
+## Obaveznost poravnanja
+Poravnanje zaključeno pred medijatorom obavezuje stranke koje su ga zaključile.
+Obaveze iz poravnanja iz stava 1 ovog člana stranke su dužne da izvrše u roku određenom poravnanjem.

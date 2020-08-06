@@ -1,0 +1,1 @@
+---------- * Ovaj zakon usklađen je sa direktivom Evropskog parlamenta i Savjeta o određenim aspektima medijacije u građanskim i trgovačkim stvarima broj 52/2008 od 21.05.2008. godine.
