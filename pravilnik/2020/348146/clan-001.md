@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o bližim uslovima u pogledu standarda, normativa i načina ostvarivanja primarne zdravstvene zaštite preko izabranog tima doktora ili izabranog doktora ("Službeni list CG", br. 10/08, 1/12 i 64/17) u članu 6 poslije stava 1 dodaje se novi stav koji glasi:
+"U obavljanju primarne zdravstvene zaštite iz stava 1 ovog člana, izabrani doktor za odrasle, izabrani pedijatar i izabrani doktor ginekolog, može kurativnu uslugu iz člana 27 ovog pravilnika pod nazivom "Kratka posjeta doktoru (posjeta bez pregleda doktora)", da pruži i bez neposredne posjete osiguranika, ukoliko na osnovu uvida u zdravstvenu dokumentaciju (pisanu ili elektronsku) i zdravstvenog stanja osiguranika, procijeni njenu opravdanost."
