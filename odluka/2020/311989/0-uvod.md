@@ -1,0 +1,2 @@
+Na osnovu člana 38. stav 1. tačka 30. Zakona o lokalnoj samoupravi ("Sl.list CG", br. 2/18, 34/19 i 38/20), člana 54. stav 1. Zakona o komunalnim djelatnostima ("Sl.list CG", br. 55/16, 74/16, 2/18 i 66719), člana 11. stav 1. alineja 6. Odluke o osnivanju društva sa ograničenom odgovornošću "Parking servis Budva" Budva ("Sl.list CG-Opštinski propisi", 33/13 i 21/14) i člana 55. stav 1. tačka 58. Statuta Opštine Budva ("Sl.list CG-Opštinski propisi", br. 2/19), Skupština Opštine Budva, na sjednici održanoj dana 8. avgust 2020. godine, donijela je
+ODLUKU
