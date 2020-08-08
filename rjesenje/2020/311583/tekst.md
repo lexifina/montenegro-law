@@ -1,0 +1,9 @@
+Na osnovu člana 38. stav 1. tačka 22. Zakona o lokalnoj samoupravi ("Sl. list CG", broj: 2/18, 34/19 i 38/20), člana 44. stav 1. tačka 22. i 48. Statuta Opštine Budva ("Sl. list CG - Opštinski propisi", br. 2/19), člana 11. stav 1. alineja 3. Odluke o osnivanju DOO "Mediteranski sportski centar" Budva ("Službeni list CG - Opštinski propisi", broj: 5/14 i 54/17) i člana 19. stav 1. alineja 3. Statuta DOO "Mediteranski sportski centar" Budva ("Službeni list CG - Opštinski propisi", broj: 15/14 i 26/18), Skupština Opštine Budva, na sjednici održanoj dana 8. avgust 2020. godine donijela je
+RJEŠENJE O RAZRJEŠENJU ČLANOVA ODBORA DIREKTORA DOO "MEDITERANSKI SPORTSKI CENTAR" BUDVA
+1. Razrješavaju se članovi Odbora direktora DOO "Mediteranski sportski centar" Budva, prije isteka mandata, zbog postupanja suprotno članu 58. stav .1 tačka 14. Zakona o lokalnoj samoupravi, i to:
+1.1. Ivan Sekulović, predsjednik;
+1.2. Nikola Đurašković, član;
+1.3. Milorad Malovrazić, član;
+1.4. Ljubomir Stanišić, član
+1.5. Dejan Dapčević, član.
+2. Rješenje stupa na snagu danom donošenja, a objaviće se u "Službenom listu CG - Opštinski propisi".
