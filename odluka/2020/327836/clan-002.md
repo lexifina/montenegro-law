@@ -1,0 +1,2 @@
+# Član 2
+Razlika od 34 m2 između površine zemljišta iz člana 1 stav 1 ove odluke i Ugovora iz člana 1 stav 2 ove odluke kojim se "Elektorprivredi Crne Gore" A.D Nikšić, prenosi 3.018 m2, reguliše se na način što je "Elektroprivreda Crne Gore" A.D. Nikšić zemljište u površini od 32m2 označeno kao dio katastarske parcele broj 2485/1 KO Nikšić zauzela izgradnjom objekta broj 3 i upisala kao svoje vlasništvo, dok će dio zemljišta u površini od 2m2 regulisati u postupku kompletiranja urbanističke parcele UP 1, u obuhvatu Detaljnog urbanističkog plana "Centar".

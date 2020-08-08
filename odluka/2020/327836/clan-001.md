@@ -1,0 +1,4 @@
+# Član 1
+## o davanju saglasnosti za upis prava svojine na katastarskoj parceli broj 2463/1 KO Nikšić u obuhvatu Detaljnog urbanističkog plana "Centar" na "Elektroprivredu Crne Gore" A.D. Nikšić
+Ovom odlukom daje se saglasnost za upis prava svojine na katastarskoj parceli broj 2463/1 KO Nikšić, površine 2.984m2 u obuhvatu Detaljnog urbanističkog plana "Centar" na "Elektroprivredu Crne Gore" A.D. Nikšić, sada upisana u listu nepokretnosti, broj 2858 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja opštine Nikšić.
+Zemljište iz stava 1 ovog člana prenosi se u vlasništvo "Elektorprivrede Crne Gore" A.D. Nikšić, u skladu sa Ugovorom o načinu izmirenja duga Javnog komunalnog preduzeća Nikšić po osnovu utrošene električne energije za javnu rasvjetu, broj 01-8684 od 28.10.1999. godine.

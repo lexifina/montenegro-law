@@ -1,0 +1,2 @@
+Na osnovu člana 34 st. 1 i 3 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19 i 38/20), člana 35 stav 1 tačka 9 i člana 38 Statuta Opštine Nikšić ("Službeni list CG - Opštinski propisi", broj 31/18), uz prethodnu saglasnost Vlade Crne Gore koja je data Zaključkom, broj 07-3719 od 23.07.2020. godine, Skupština opštine Nikšić, na sjednici održanoj 28.07.2020.godine, donijela je
+O D L U K U
