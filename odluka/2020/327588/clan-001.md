@@ -1,0 +1,3 @@
+# Član 1
+## o oslobađanju Turističke organizacije Mojkovac plaćanja naknade za postavljene reklamne panoe na zemljištu pored magistralnog puta u zoni zahvata DUP-a za 2020. i 2021. godinu
+Oslobađa se Turistička organizacija Mojkovac plaćanja naknade za postavljene reklamne panoe na zemljištu pored magistralnog puta u zoni zahvata DUP-a iz člana 15 Odluke o korišćenju i naknadi za korišćenje puta i putnog zemljišta pored opštinskih i nekategorisanih puteva ("Sl.list CG"-opštinski propisi, broj 32/11, 26/13, 33/14, 4/15, 10/15, 37/16, 50/16, 19/17 i 29/19) za period od dvije godine i to: 2020. i 2021.godinu.
