@@ -1,0 +1,4 @@
+# Član 2
+U članu 2 stav 1 alineja 2 riječi: "za zemljište i objekte iz člana 1 stav 1 alineja 2 ukupan iznos od 3.351,00 €, od čega za zemljište iznos od 42,40 € po m2, što za površinu od 65 m2 ukupno iznosi 2.756,00 €," zamjenjuju se riječima: "za zemljište i objekte iz člana 1 stav 1 alineja 2 ukupan iznos od 3.393,40 €, od čega za zemljište iznos od 42,40 € po m2, što za površinu od 66 m2 ukupno iznosi 2.798,40 €,".
+Poslije alineje 3 dodaje se nova alineja koja glasi:
+" - za zemljište i objekte iz člana 1 stav 1 alineja 4 ukupan iznos od 2.866,80 €, od čega za zemljište iznos od 42,40 € po m2, što za površinu od 57 m2 ukupno iznosi 2.416,80 €, za ogradu urađenu od čeličnih stubova-šina, sa ispinom od mrežastog pletiva, dužine 17,50 m, iznos od 10,00 € po dužnom metru, ukupno 175,00 €, za kapiju dužine 5,50 m iznos od 50,00 € po m2, ukupno 275,00 €."

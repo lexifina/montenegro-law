@@ -1,0 +1,5 @@
+# Član 1
+## o izmjenama i dopunama Odluke o davanju saglasnosti za kupovinu nepokretnosti za potrebe rekonstrukcije ulice Krsta Kostića
+U Odluci o davanju saglasnosti za kupovinu nepokretnosti za potrebe rekonstrukcije ulice Krsta Kostića ("Službeni list CG- Opštinski propisi", broj 45/19) u članu 1 stav 1 alineja 2 riječi: "dijela katastarske parcele broj 611 u površini od 65 m2 ( u spisku prijava novog stanja označena kao katastarska parcela broj 611/2), "zamjenjuju se riječima: "katastarske parcele broj 611/2, površine 29 m2 i katastarske parcele broj 876/10, povrine 37 m2".
+Poslije alineje 3 dodaje se nova alineja koja glasi:
+" - katastarske parcele broj 372/2, površine 25 m2 i katastarske parcele broj 374/2, površine 32 m2, upisane u listu nepokretnosti broj 2233 KO Nikšić, kao sukorišćenje Naumović Branke, Savićević Branka i Savićević Miodraga, sa obimom prava po 1/3, kao i objekata koji se nalaze na istoj i to: ograde urađene od čeličnih stubova-šine, sa ispunom od mrežastog pletiva dužine 17,50 m i kapije dužine 5,50 m".
