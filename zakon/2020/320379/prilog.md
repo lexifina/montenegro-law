@@ -1,0 +1,1 @@
+--------------------- * U ovaj Zakon prenesena je Direktiva 2008/94/EZ Evropskog parlamenta i vijeća od 22. oktobra 2008.godine o zaštiti zaposlenih u slučaju insolventnosti njihovog poslodavca - 32008L0094
