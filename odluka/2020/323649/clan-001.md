@@ -1,0 +1,2 @@
+# Član 1
+U odlukama i drugim aktima Centralne banke Crne Gore koji su donijeti prije stupanja na snagu Zakona o privrednim društvima ("Službeni list CG", broj 65/20), propisana, odnosno određena obavezna upotreba pečata od strane privrednih društava zamjenjuje se mogućnošću upotrebe pečata od strane tih lica, osim kada posluju elektronskim putem u kom slučaju su ta lica dužna da koriste elektronski pečat.
