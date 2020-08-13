@@ -1,0 +1,2 @@
+Na osnovu člana 7 stav 1 Odluke o proglašenju Parka prirode "Rijeka Zeta" ("Službeni list CG", broj 69/19), člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20) i člana 54 stav 1 tačka 17 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19), Skupština Glavnog grada - Podgorice, na sjednici održanoj 30. jula 2020. godine, donosi
+ODLUKU
