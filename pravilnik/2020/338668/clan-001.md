@@ -1,0 +1,3 @@
+# Član 1
+## ZA ZAŠTITU I SPAŠAVANjE
+Ovim pravilnikom propisuju se program osposobljavanja za rukovođenje i koordiniranje u zaštiti i spašavanju (u daljem tekstu: osposobljavanje) i način sprovođenja programa, provjere operativne spremnosti članova koordinacionog tima za zaštitu i spašavanje za teritoriju Crne Gore (u daljem tekstu: Koordinacioni tim) i članova opštinskog tima za zaštitu i spašavanje za teritoriju opštine (u daljem tekstu: Opštinski tim), kao i sadržaj i način vođenja evidencije o sprovedenom osposobljavanju i provjeri operativne spremnosti članova Koordinacionog tima i članova Opštinskog tima.
