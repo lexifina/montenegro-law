@@ -1,0 +1,2 @@
+# Član 8
+Održavanje javnih groblja i objekata koji se nalaze u okviru groblja u smislu ove odluke je izgradnja i održavanje grobnih parcela, održavanje grobnica, krematorijuma, rozarijuma, kolumbarijuma, osarijuma, izgradnja i održavanje saobraćajnih površina, izgradnja instalacija, objekata i uređaja, podizanje i održavanje zelenila, održavanje čistoće i drugi poslovi koji su u vezi sa održavanjem groblja i obavljanjem pogrebne djelatnosti.

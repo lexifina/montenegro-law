@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom propisuje se održavanje javnih groblja i objekata koji se nalaze u okviru groblja ( kapele, mrtvačnice i krematorijum), upravljanje grobljem, održavanje reda i čistoće na groblju, davanje grobnih mjesta u zakup, sahranjivanje, prenos i prevoz posmrtnih ostataka, čuvanje posmrtnih ostataka, upotreba kapele, rashladne komore, stavljanje groblja van upotrebe i druga pitanja od značaja za groblja i sahranjivanje na teritoriji Glavnog grada Podgorice (u daljem tekstu Glavni grad).
