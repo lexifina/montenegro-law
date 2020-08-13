@@ -1,0 +1,3 @@
+# Član 13
+Pripadnik jedinice iz člana 1 ovog pravilnika koji je na provjeri znanja i vještina iz teorijskog i praktičnog dijela osposobljavanja ocijenjen ocjenom "ne zadovoljava" iz jedne ili više oblasti upućuje se na ponovnu provjeru znanja i vještina iz tih oblasti, u roku koji ne može biti kraći od 15 dana, niti duži od 30 dana od dana provjere znanja i vještina.
+Pripadnik jedinice iz člana 1 ovog pravilnika koji je na provjeri znanja i vještina iz teorijskog ili praktičnog dijela usavršavanja ocijenjen ocjenom "ne zadovoljava" upućuje se na ponovnu provjeru znanja i vještina iz tog dijela usavršavanja, u roku iz stava 1 ovog člana.

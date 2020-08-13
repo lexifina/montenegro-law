@@ -1,0 +1,3 @@
+# Član 1
+## DOBROVOLjNIH JEDINICA I OBRASCU UVJERENjA O NjIHOVOM OSPOSOBLjAVANjU I USAVRŠAVANjU U OBLASTI ZAŠTITE I SPAŠAVANjA
+Ovim pravilnikom propisuju se bliži način organizovanja i sprovođenja provjere znanja i vještina u oblasti zaštite i spašavanja pripadnika jedinica civilne zaštite, specijalističkih jedinica za zaštitu i spašavanje (u daljem tekstu: specijalističke jedinice) i dobrovoljnih jedinica za zaštitu i spašavanje (u daljem tekstu: dobrovoljne jedinice) i obrasci uvjerenja o njihovom osposobljavanju i usavršavanju u oblasti zaštite i spašavanja, kao i sadržaj i način vođenja evidencije izdatih uvjerenja.

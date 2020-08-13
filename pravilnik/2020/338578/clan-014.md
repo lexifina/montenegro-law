@@ -1,0 +1,2 @@
+# Član 14
+Pripadnik jedinice iz člana 1 ovog pravilnika koji prije početka izrade testa znanja izjavi da odustaje od provjere znanja i vještina, ne preda test znanja, ne pristupi provjeri znanja i vještina iz praktičnog dijela osposobljavanja, odnosno usavršavanja, ili ne pristupi ponovnoj provjeri znanja i vještina iz člana 13 ovog pravilnika smatra se da je njegov konačan uspjeh na provjeri znanja i vještina iz člana 4 ovog pravilnika ocijenjen sa ocjenom "ne zadovoljava".
