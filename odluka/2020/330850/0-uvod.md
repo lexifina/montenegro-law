@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG" br. 2/18, 34/19 i 38/20), u vezi sa članom 18 st. 1 i 5 Zakona o mladima ("Službeni list CG", br. 25/19 i 27/19) i člana 54 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19), Skupština Glavnog grada - Podgorica na sjednici održanoj 30. jula 2020. godine, donijela je
+ODLUKU O OBRAZOVANJU SAVJETA ZA MLADE GLAVNOG GRADA
