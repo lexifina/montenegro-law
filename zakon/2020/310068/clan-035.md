@@ -1,0 +1,7 @@
+# Član 35
+## Obavještavanje o radovima na javnom putu
+Investitor izgradnje javnog puta ili putnog objekta, dužan je da najmanje tri dana prije početka radova na izgradnji javnog puta ili putnog objekta obavijesti javnost putem elektronskih medija.
+Privredna društva, odnosno druga pravna lica koja su vlasnici ili koja upravljaju infrastrukturnim objektima ugrađenim, odnosno postavljenim u javni put (kanalizacija, vodovod, električni vodovi, elektronsko komunikacioni vodovi, gasovod, naftovod), kao i pravna lica koja namjeravaju da te objekte izgrade, moraju uskladiti radove na tim objektima sa radovima na izgradnji javnog puta.
+Investitor izgradnje javnog puta ili putnog objekta dužan je da najmanje 60 dana prije početka radova iz stava 1 ovog člana, pisanim putem obavijesti lica iz stava 2 ovog člana o početku radova.
+Lica iz stava 2 ovog člana, dužna su da kod rekonstrukcije ili izvođenja drugih radova na javnom putu o svom trošku, a prilikom izgradnje javnog puta o trošku investitora izgradnje javnog puta, izmjeste objekte, postrojenja, uređaje, instalacije i vodove ili ih prilagode nastalim promjenama.
+U slučaju da lica iz stava 2 ovog člana ne izmjeste, odnosno ne prilagode objekte, postrojenja, uređaje, instalacije i vodove do početka izvođenja radova na izgradnji, odnosno rekonstrukciji puta ili izvođenja radova na javnom putu, odgovaraju za štetu koja nastane zbog neblagovremenog početka izmještanja.

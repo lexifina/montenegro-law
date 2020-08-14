@@ -1,0 +1,15 @@
+# Član 73
+## Vanredni prevoz
+Prevoz vozilima čija ukupna masa, osovinski pritisak i dimenzije ne odgovaraju propisima, odnosno tehničkom stanju puta, smatra se vanrednim prevozom.
+Vanredni prevoz vrši se na osnovu dozvole za vanredni prevoz na javnom putu, koju izdaje organ uprave, odnosno organ lokalne uprave za svaki pojedinačni prevoz.
+Izuzetno od stava 2 ovog člana, može se izdati mjesečna dozvola za vanredni prevoz i za vozilo ili skup vozila, koji zbog svojih karakteristika ima obilježja vanrednog prevoza.
+O izdatim dozvolama iz st. 2 i 3 ovog člana i vremenu za koje su izdate organ uprave, odnosno organ lokalne uprave u pisanoj formi, obavještava organ uprave nadležan za policijske poslove, Ministarstvo, odnosno inspekcijski organ lokalne uprave i komunalnu policiju, kao i izvođača radova iz člana 40 stav 4 ovog zakona i druge učesnike u saobraćaju putem elektronskih medija.
+Izuzetno od stava 4 ovog člana, kada se vanredni prevoz obavlja na putu ili njegovom dijelu, organ uprave, odnosno organ lokalne uprave u pisanoj formi obavještava upravljača tog puta ili dijela puta.
+Dozvola za vanredni prevoz na javnom putu nije potrebna za vanredni prevoz koji se mora obaviti bez odlaganja, zbog prirodnih i drugih nepogoda, kao i za potrebe odbrane zemlje.
+Dozvola za vanredni prevoz nije potrebna za vanredni prevoz koji obavljaju vozila ili skup vozila, koja su u vlasništvu ili u zakupu vojske, policije, službe civilne zaštite i vatrogasne službe kada se vanredni prevoz obavlja u svrhu izvršavanja zadataka tih službi i pod njihovim nadzorom.
+Dozvola za vanredni prevoz nije potrebna za prevoz iz stava 1 ovog člana, kod kojeg propisane vrijednosti mogu biti prekoračene najviše do 3%, ako zbog karakteristika tereta na mjestu utovara nije bilo moguće utvrditi tačnu težinu tereta ili je tokom transporta došlo do promjene težine tereta, usljed hidroskopnosti materijala koji se prevozi.
+Organ uprave, odnosno organ lokalne uprave dužan je da za izdavanje dozvole iz st. 2 i 3 ovog člana, zatraži prethodnu saglasnost organa uprave nadležnog za policijske poslove, u slučajevima prekoračenja ukupne mase vozila ili skupa vozila preko 60 tona, ukupne dužine vozila ili skupa vozila preko 25 metara, ukupne širine vozila ili skupa vozila preko 3 metra, kao i za visinu vozila ili skupa vozila preko 4,5 metara.
+Organ uprave i organ uprave nadležan za policijske poslove u zavisnosti od karakteristika vanrednog prevoza, utvrđenog prevoznog puta i stepena prekoračenja propisanih vrijednosti odrediće pratnju za vanredni prevoz.
+Evidenciju o izdatim dozvolama za vanredni prevoz vodi organ uprave, odnosno organ lokalne uprave.
+Evidencija iz stava 11 ovog člana sadrži podatke o prevozniku kojem je izdata dozvola (naziv i sjedište prevoznika), podatke o vrsti izdate dozvole, broju pod kojim je dozvola izdata, datumu izdavanja i roku važenja dozvole, kao i podatke o javnom putu na kom se obavlja vanredni prevoz.
+Način i postupak izdavanja dozvole za vanredni prevoz, obrazac zahtjeva za izdavanje dozvole za vanredni prevoz i način obilježavanja vozila kojima se obavlja vanredni prevoz propisuje Ministarstvo.
