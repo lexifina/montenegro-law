@@ -1,0 +1,3 @@
+# Član 3
+## Nacionalni inovacioni sistem
+Nacionalni inovacioni sistem čine međusobno povezani subjekti, Vlada Crne Gore (u daljem tekstu: Vlada), organi državne uprave, jedinice lokalne samouprave, Savjet za inovacije i pametnu specijalizaciju i Fond za inovacije Crne Gore, koji upravljaju inovacionom djelatnošću, podstiču njen razvoj i finansiraju je, kao i subjekti koji obavljaju inovacionu djelatnost, subjekti koji obezbjeđuju inovacionu infrastrukturu, investitori u inovacionu djelatnost i drugi subjekti iz oblasti nauke, obrazovanja i privrede, koji doprinose razvoju inovacionih kapaciteta, stvaranju ideja i primjeni inovacija.
