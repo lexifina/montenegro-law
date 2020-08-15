@@ -1,0 +1,2 @@
+# Član 1
+U Naredbi za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa ("Službeni list CG", br. 66/20, 67/20, 68/20, 73/20 i 75/20) u članu 1 stav 1 tačka 1 riječi: "zabrana obavljanja ugostiteljske djelatnosti u ugostiteljskim objektima od 24 časa do 6 časova narednog dana" zamjenjuju se riječima: "zabrana obavljanja ugostiteljske djelatnosti u ugostiteljskim objektima od 1 do 6 časova".
