@@ -1,0 +1,2 @@
+Na osnovu člana 74 stav 3 Zakona o javnim nabavkama ("Službeni list CG", broj 74/19), člana 58 stav 1 tačka 3 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20), člana 100 stav 1 tačka 3 i člana 102 st. 1 i 3 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19), gradonačelnik Glavnog grada, donosi
+UPUTSTVO O PLANIRANJU I SPROVOĐENJU CENTRALIZOVANIH JAVNIH NABAVKI
