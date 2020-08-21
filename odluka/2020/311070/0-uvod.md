@@ -1,0 +1,2 @@
+Na osnovu člana 4 Zakona o administrativnim taksama ("Službeni list CG", broj 18/19), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br.2/18 i 34/19) i člana 32 stav 1 tačka 8 Statuta opštine Petnjica ("Službeni list CG - Opštinski propisi", broj 29/18), nakon dobijanja saglasnosti Vlade Crne Gore Skupština opštine Petnjica, na sjednici od 24.07.2020. godine, donijela je:
+ODLUKU O LOKALNIM ADMINISTRATIVNIM TAKSAMA OPŠTINE PETNJICA
