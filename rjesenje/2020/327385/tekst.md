@@ -1,0 +1,5 @@
+Na osnovu člana 24. i 25. Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 04/98, 05/98, 17/98, 14/00, 18/00, 09/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Službeni list CG", br. 46/11, 14/14, 47/14, 12/16, 60/17 i 10/18) i člana 44. Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 2/19) Skupština opštine Budva, na sjednici održanoj dana 22. avgusta 2020 godine, donijela je
+RJEŠENJE O IZMJENI I DOPUNI RJEŠENJA O IMENOVANJU OPŠTINSKE IZBORNE KOMISIJE
+("Službeni list CG-Opštinski propisi", br. 07/17, 29/18, 2/19 )
+1.Stav 1. Rješenja o imenovanju Opštinske izborne komisije broj (" Sl.list CG-Opštinski propisi" 7/17, 29/18, 2/19) mijenja se i dopunjava tako što se u tački 1.umjesto Iva Gvozdenovića, za zamjenicu predsjednika Opštinske izborne komisije, imenuje Jasmina Krstajić, u tački 2. umjesto Saša Samardžić, za zamjenicu člana Opštinske izborne komisije imenuje Rajka Lješković, i u tački 5. umjesto Milica Đukić, za zamjenicu člana Opštinske izborne komisije imenuje Ljiljana Mrdak.
+2.Ovo Rješenje stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore - Opštinski propisi".
