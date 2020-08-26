@@ -1,0 +1,33 @@
+# Član 1
+## PETNjICA
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti u Opštini Petnjica KO Azane i to:
+- katastarske parcele broj 1178/3, pašnjak 5. klase , površine 349 m2, upisane u list nepokretnosti broj 4 KO Azane Petnjica,svojina 1/1 Ajdarpašić Šato,
+- katastarske parcele broj 1178/2, pašnjak 5. klase , površine 26 m, upisane u list nepokretnosti broj 26 KO Azane Petnjica,svojina 1/1 Ajdarpašić Ernad,
+- katastarske parcele broj 1613, njiva 7. klase, površine 16 m2 , upisane u list nepokretnosti broj 42 KO Azane Petnjica, susvojina po 1/2 Ajdarpašić Murat i 1/2 Ajdarpašić Rešad,
+- katastarske parcele broj 1612, livada 6. klase, površine 103 m2, upisane u list nepokretnosti broj 42 KO Azane Petnjica, susvojina po 1/2 Ajdarpašić Murat i 1/2 Ajdarpašić Rešad,
+- katastarske parcele broj 1674, livada 6. klase, površine 159 m2, upisane u list nepokretnosti broj 50, svojina 1/1 Ajdarpašić Umer,
+- katastarske parcele broj 1676, livada 7 klase , površine 403 m2, upisane u list nepokretnosti broj 69 KO Azane Petnjica, svojina 1/1 Ajdarpašić Šućo,
+- katastarske parcele broj 1173, livada 7 klase , površine 566 m2 , upisane u list nepokretnosti broj 78 KO Azane Petnjica, svojina 1/1 Ajdarpašić Pajazit,
+- katastarske parcele broj 1678, livada 7. klase ,površine 151 m2 , upisane u list nepokretnosti broj 83 KO Azane Petnjica, svojina 1/1 Ajdarpašić Šeho,
+- katastarske parcele broj 1609, livada 7. klase, površine 112 m2 , upisane u list nepokretnosti broj 91 KO Azane Petnjica, svojina 1/1 Trubljanin Sanija.
+- katastarske parcele broj 1681, livada 7. klase , površine 300 m2 , upisane u list nepokretnosti broj 93 KO Azane Petnjica, susvojina po 1/4 Hajdarpašić Adem, Hajdarpašć Husein, Hajdarpašić Senad i Ajdarpašić Šećo,
+- katastarske parcele broj 1098, livada 7. klase, površine 136 m2 , upisane u list nepokretnosti broj 244 KO Azane Petnjica, svojina 1/1 Nelja Admir,
+- katastarske parcele broj 1192, livada 7. klase, površine 232 m2 , upisane u list nepokretnosti broj 299 KO Azane Petnjica, svojina 1/1 Ajdarpašić Rešid,
+- katastarske parcele broj 1617, voćnjak 6 klase , površine 83 m2 , upisane u list nepokretnosti broj 300 KO Azane Petnjica, svojina 1/1 Ajdarpašić Izet,
+- katastarske parcele broj 1621, livada 7. klase ,površine 182 m2 , upisane u list nepokretnosti broj 301 KO Azane Petnjica, svojina 1/1 Ajdarpašić Muharem,
+- katastarske parcele broj 1622 ,voćnjak 6. klase ,površine 66 m2 , upisane u list nepokretnosti broj 301 KO Azane Petnjica, svojina 1/1 Ajdarpašić Muharem,
+- katastarske parcele broj 1614, livada 6. klase , površine 87 m2 , upisane u list nepokretnosti broj 305 KO Azane Petnjica, svojina 1/1 Ajdarpašić Vehbija,
+- katastarske parcele broj 1692, livada 7. klase ,površine 297 m2 , upisane u list nepokretnosti broj 319 KO Azane Petnjica, svojina 1/1 Ajdarpašić Zito,
+- katastarske parcele broj 1117 , livada 7. klase ,površine 462 m2 , upisane u list nepokretnosti broj 342 KO Azane Petnjica, svojina 1/1 Šabotić Bajram,
+- katastarske parcele broj 1099 livada 7. klase , površine 360 m2 , upisane u list nepokretnosti broj 343 KO Azane Petnjica, svojina 1/1 Šabotić Remzo,
+- katastarske parcele broj 1114, livada 7. klase ,površine 456 m2 , upisane u list nepokretnosti broj 359 KO Azane Petnjica, susvojina po 1/3 Šabotić Damir,Šabotić Esad i Šabotić Senad,
+- katastarske parcele broj 1178/1 ,pašnjak 5. klase,površine 593 m2, upisane u list nepokretnosti broj 382 KO Azane Petnjica, susvojina po 1/2 Ajdarpašić Sadat i Ajdarpašić Samir,
+- katastarske parcele broj 1677 , livada 7. klase, površine 267 m2, upisane u list nepokretnosti broj 386 KO Azane Petnjica, susvojina po 1/2 Hajdarpašić Saduk i Ajdarpašić Safet,
+- katastarske parcele broj 1675, livada 7. klase, površine 100 m2, upisane u list nepokretnosti broj 403 KO Azane Petnjica, svojina 1/1 Ajdarpašić Meho,
+- katastarske parcele broj 1625, livada 7. klase, površine 138 m2, upisane u list nepokretnosti broj 420 KO Azane Petnjica, susvojina po 1/3 Ajdarpašić Albin, Ajdarpašić Alen i Ajdarpašić Eldin,
+- katastarske parcele broj 1624 ,livada 6. klase ,površine 30 m2, upisane u list nepokretnosti broj 420 KO Azane Petnjica, susvojina po 1/3 Ajdarpašić Albin, Ajdarpašić Alen i Ajdarpašić Eldin,
+- katastarske parcele broj 1626 , livada 6. klase ,površine 136 m2, upisane u list nepokretnosti broj 421 KO Azane Petnjica, svojina 1/1 Ajdarpašić Adnan,
+- katastarske parcele broj 1116 livada 7. klase , površine 93 m2, upisane u list nepokretnosti broj 433 KO Azane Petnjica, susvojina po 1/2 Šabotić Esmir i Šabotić Murat,
+- katastarske parcele broj 1683/1, livada 7. klase ,površine 299 m2 upisane u list nepokretnosti broj 474 KO Azane Petnjica, svojina 1/1 Ajdarpašić Bajram,
+- katastarske parcele broj 1683/2 , livada 7. klase, površine 87 m2, upisane u list nepokretnosti broj 479 KO Azane Petnjica, svojina 1/1 Ajdarpašić Avdija i
+- katastarske parcele broj 1662/4 , livada 6. klase,površine 365 m2, upisane u list nepokretnosti broj 479 KO Azane Petnjica, svojina 1/1 Ajdarpašić Avdija .
