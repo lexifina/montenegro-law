@@ -1,0 +1,3 @@
+# Član 18
+Po okončanoj javnoj raspravi, organ uprave opštine dostavlja predsjedniku opštine nacrt propisa, odnosno plana sa prihvaćenim predlozima i sugestijama sa javne rasprave, mišljenjem Sekretarijata, odnosno organa koji vrši nadzor nad radom javne službe kada je u pitanju propis, kao i izvještaj o usklađenosti propisa sa tim mišljenjem i izvještaj sa javne rasprave o nacrtu propisa ili plana.
+U slučaju da se propisom, odnosno planom ili drugim aktom stvaraju obaveze za budžet opštine, građane ili privredu, obrađivač je dužan da uz materijal iz stava 1 ovog člana dostavi i analizu procjene uticaja propisa (RIA).

@@ -1,0 +1,2 @@
+# Član 11
+Komisija za privredu i razvoj razmatra tekstove propisa, planova, programa, izvještaja, informacija i drugih materijala iz nadležnosti Skupštine Opštine Budva i akata iz nadležnosti predsjednika opštine koje dostavljaju organi uprave i službe opštine u oblastima: finansija, lokalnih javnih prihoda, imovine, planiranja prostora, održivog razvoja, privrede, investicija i u drugim oblastima u vezi sa poslovima komisije.

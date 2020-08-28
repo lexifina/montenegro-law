@@ -1,0 +1,2 @@
+# Član 10
+Komisija za društvene djelatnosti razmatra tekstove propisa, planova, programa izvještaja, informacija i drugih materijala iz nadležnosti skupštine i akata iz nadležnosti predsjednika opštine koje dostavljaju organi uprave i službe opštine u oblastima: sistema lokalne samouprave, socijalnog staranja, kulture, sporta, javnog informisanja, obrazovanja, upravljanja kadrovima, komunalnih i stambenih poslova, javnih nabavki, zaštite od požara, elementarnih nepogoda i drugih vanrednih okolnosti kao i u drugim oblastima u vezi sa poslovima komisije.

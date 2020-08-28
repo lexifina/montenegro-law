@@ -1,0 +1,2 @@
+# Član 7
+Kolegijum potpredsjednika opštine razmatra: kvartalne informacije o realizaciji programa rada predsjednika opštine i Skupštine opštine, programa rada organa uprave, službi i javnih službi čiji je osnivač opština, tekuće poslove većeg značaja i njihovu realizaciju, sporna pitanja iz određene oblasti i druga pitanja za koja potpredsjednik opštine ili članovi kolegijuma ocijene da ih je potrebno razmotriti na Kolegijumu.
