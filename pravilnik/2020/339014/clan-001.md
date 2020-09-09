@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se bliži uslovi koje treba da ispunjavaju prostorije privrednog društva, drugog pravnog lica i preduzetnika koji obavljaju djelatnost zaštite lica i imovine koju ne obezbjeđuje država, kao i specijalna vozila i oprema za bezbjedno vršenje poslova zaštite stvari u transportu (pratnja novca, hartija od vrijednosti, dragocjenosti i dr.) i način vršenja poslova zaštite stvari u transportu.

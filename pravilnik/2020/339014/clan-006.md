@@ -1,0 +1,3 @@
+# Član 6
+Specijalno vozilo koje se koristi za vršenje poslova zaštite stvari u transport, u zavisnosti od procjene i iznosa gotovog novca i drugih vrijednosti koje se prevoze, treba da bude blindirano ili prilagođeno.
+Blindirano vozilo, odnosno prilagođeno vozilo, treba da ima stepen balističke zaštite u skladu sa domaćim ili međunarodnim standardima iz ove oblasti, da je izrađeno i opremljeno na način koji sprječava neovlašćen pristup stvarima koje se prevoze, njihovo otvaranje, oštećenje ili otuđenje i da posjeduje poseban sertifikat izdat u skladu sa propisima kojima se uređuju tehnički zahtjevi za proizvode i ocjenjivanje usaglašenosti.

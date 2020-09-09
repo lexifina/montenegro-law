@@ -1,0 +1,7 @@
+# Član 5
+Prostorije privrednog društva, drugog pravnog lica i preduzetnika koji obavljaju djelatnost zaštite u kojima se čuva vatreno oružje i municija treba da ispunjavaju sljedeće uslove, i to:
+1) prozori, ako postoje, treba da su zaštićeni metalnom mrežom sa spoljašnje strane prozora, metalnim kutijama dimenzija 10 x 10 mm ili šipkama debljine najmanje 10 mm i maksimalnom veličinom otvora 80 x 80 mm, pri čemu najveći razmak između metalnih kutija ili šipki može biti do 80 mm, a između horizontalnog metalnog ukrućenja većeg profila od dimenzija metalnih kutija ili šipki do 100 mm;
+2) vrata prema spoljašnjem prostoru treba da budu zaštićena metalnom mrežom sa spoljašnje strane, metalnim kutijama dimenzija 10 x 10 mm ili šipkama debljine najmanje 10 mm i maksimalnom veličinom otvora 80 x 80 mm, pri čemu najveći razmak između metalnih kutija ili šipki može biti do 80 mm, a između horizontalnog metalnog ukrućenja većeg profila od dimenzija metalnih kutija ili šipki do 100 mm, pri čemu metalna mreža, odnosno okvir sa rešetkama mora jednim krajem biti učvršćen za spoljašnji nosivi zid, a drugi kraj zaključan sa dvije brave;
+3) spoljašnji zidovi i plafon treba da budu sagrađeni od tvrdog materijala (opeka, beton, kamen i dr.).
+Izuzetno od stava 1 tač. 1 i 2 ovog člana, prozori i vrata treba da budu zaštićeni sa spoljašnje strane otvora mehaničkom zaštitom izrađenom po principu blind sistema mehaničkog obezbjeđenja.
+Ulazi u prostorije za čuvanje vatrenog oružja i municije moraju biti stalno osvijetljeni.
