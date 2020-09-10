@@ -1,0 +1,4 @@
+# Član 1
+## o načinu privremenog skladištenja komunalnog otpada i uslovima zaštite životne sredine i zdravlja ljudi
+(1) Ovom odlukom propisuje se način organizovanja prostora, čuvarske službe, prijem vozila i vođenje evidencije o količinama komunalnog otpada i definišu potrebni infrastrukturni sadržaji i mjere zaštite životne sredine i zdravlja ljudi za privremeno skladištenje čvrstog komunalnog otpada na lokaciji koju čine kat. parc. broj 661, 660, dio 659 i dio 665/2 sve KO Žlijebi, kao i kat. parc. broj 1465, 1472, 1470, 1469, dio 1473, dio 1474 i dio 1466/2 sve KO Ubli.
+(2) Poslove sakupljanja i transporta komunalnog otpada do Reciklažnog centra Meljine, transporta preostalog miješanog komunalnog otpada do privremenog skladišta iz stava 1 ovog člana i njegovo privremeno skladištenje obavlja DOO "Čistoća" Herceg Novi (u daljem tekstu: Društvo) u skladu sa Zakonom i Odlukom Skupštine opštine Herceg Novi.
