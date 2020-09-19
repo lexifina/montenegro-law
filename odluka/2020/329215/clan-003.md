@@ -1,0 +1,27 @@
+# Član 3
+Za polaganje ispita za sticanje ovlašćenja o posebnoj osposobljenosti člana posade plaća se naknada u iznosu i to za:
+- ovlašćenje osnovne sigurnosti na brodu - 71,00 €;
+- ovlašćenje za pružanje prve medicinske pomoći na brodu - 27,00 €;
+- ovlašćenje za oficira odgovornog za bezbjednost broda - 119,00 €;
+- ovlašćenje za oficira odgovornog za bezbjednost u društvu - 119,00 €;
+- ovlašćenje za oficira odgovornog za bezbjednost u luci - 119,00 €;
+- ovlašćenje za postupke u slučaju opasnosti za bezbjednost i podizanje svijesti o bezjednosti na brodu - 35,00 €;
+- ovlašćenje za pomorce kojima su dodijeljene bezbjednosne dužnosti - 68,00 €;
+- ovlašćenje za bezbjednosnu obuku za lica zaposlena u luci kojima su dodijeljene bezbjednosne dužnosti - 68,00 €;
+- ovlašćenje za bezbjednosnu obuku za lica zaposlena u luci - 35,00 €;
+- ovlašćenje za upravljanje gašenjem požara - 38,00 €;
+- ovlašćenje za vođenje medicinske brige na brodu - 38,00 €;
+- ovlašćenje za rukovanje brzim spasilačkim čamcem - 38,00 €;
+- ovlašćenje za rad sa opasnim teretima - 44,00 €;
+- ovlašćenje o mjerama sigurnosti na putničkom brodu - 96,00 €;
+- ovlašćenje za rukovanje čamcem za spašavanje i spasilačkim čamcem, osim brzog spasilačkog čamca - 27,00 €;
+- ovlašćenje o osnovnoj osposobljenosti za rad na tankerima za prevoz nafte i hemikalija - 68,00 €;
+- ovlašćenje o osnovnoj osposobljenosti za rad na tankerima za prevoz tečnog gasa - 68,00 €;
+- ovlašćenje o naprednoj osposobljenosti za rad na tankerima za prevoz nafte - 84,00 €;
+- ovlašćenje o naprednoj osposobljenosti za rad na tankerima za prevoz hemikalija - 84,00 €;
+- ovlašćenje o naprednoj osposobljenosti za rad na tankerima za prevoz tečnog gasa - 84,00 €;
+- ovlašćenje o osnovnoj osposobljenosti za rad na brodovima koji koriste tečni gas i goriva sa niskom tačkom zapaljivosti - 84,00 €
+- ovlašćenje o naprednoj osposobljenosti za rad na brodovima koji koriste tečni gas i goriva sa niskom tačkom zapaljivosti - 96,00 €
+- ovlašćenje o o osnovnoj osposobljenosti za rad na brodovima koji plove u polarnim vodama - 84,00 €
+- ovlašćenje o naprednoj osposobljenosti za rad na brodovima koji plove u polarnim vodama - 96,00 €
+- voditelj čamca - 46,00 €.
