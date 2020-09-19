@@ -1,0 +1,4 @@
+# Član 1
+U Pravilniku o broju mjesta i službenim sjedištima notara ("Službeni list RCG", broj 23/06 i "Službeni list CG", broj 11/12) u članu 3 stav 1 alineja 2 riječi: "četiri notarska mjesta sa službenim sjedištem za tri notarska mjesta u Beranama i jednim u Andrijevici" zamjenjuju se riječima: "pet notarskih mjesta sa službenim sjedištem za tri notarska mjesta u Beranama, jednim u Andrijevici i jednim u Petnjici".
+U alineji 9 riječi: "jedno notarsko mjesto sa službenim sjedištem u Plavu" zamjenjuju se riječima: "dva notarska mjesta sa službenim sjedištem za jedno notarsko mjesto u Plavu i jednim u Gusinju".
+U alineji 11 riječi: "petnaest notarskih mjesta sa službenim sjedištem u Podgorici" zamjenjuju se riječima: "šesnaest notarskih mjesta sa službenim sjedištem za petnaest notarskih mjesta u Podgorici i jednim u Tuzima".
