@@ -1,0 +1,2 @@
+# Član 1
+U Sudskom poslovniku ("Službeni list CG", br. 65/16 i 58/19) u članu 28 stav 2, članu 71 stav 4, članu 88a, članu 148 stav 4, članu 253 stav 1 alineja 3 tačka 3, članu 254 stav 1 tačka 13, članu 288a i članu 306 stav 1 alineja 17, kao i u obrascima br. 4 i 37, koji su sastavni dio ovog poslovnika riječ "posredovanje" u različitom padežu zamjenjuje se riječju "medijacija" u odgovarajućem padežu.
