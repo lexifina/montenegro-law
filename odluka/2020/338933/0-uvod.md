@@ -1,0 +1,2 @@
+Na osnovu člana 133. stav 1. tačka 2. Zakona o privrednim društvima ("Sl.list Crne Gore", broj 65/20) i člana 15. stav. 1. tačka 1. i člana 39. Statuta Centralnog klirinško depozitarnog društva a.d. Podgorica ("Sl.list Crne Gore" 51/18 i 66/20) (u daljem tekstu: Statut), Skupština akcionara Centralnog klirinško depozitarnog društva a.d. Podgorica, ulica Svetlane Kane Radević bb (u daljem tekstu: CKDD), na vanrednom zasijedanju, održanom dana 14.08.2020. godine, donijela je
+ODLUKU O IZMJENAMA STATUTA CENTRALNOG KLIRINŠKO DEPOZITARNOG DRUŠTVA AD
