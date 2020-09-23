@@ -1,0 +1,4 @@
+# Član 3
+Nepokretnost iz člana 1 ove odluke i to katastarska parcela broj 1075/2 livada 4.klase površine 41m2 prodaje se po cijeni od 4.100,00€ shodno nalazu i mišljenju o procjeni tržišne vrijednosti urbanizovanog zemljišta, sačinjenog od strane ovlašćenog sudskog vještaka Idriza Hota, protokolisanog kod Opštine Plav pod brojem brojem 031-482 od 10.09.2020.2020. godine.
+Nepokretnosti odnosno objekat koji je upisan na katastarskoj parceli broj 1076/6 iz člana 1 ove odluke prodaje se po cijeni 45.794,00€, shodno nalazu i mišljenju o procjeni tržišne vrijednosti sačinjenog od strane ovlašćenog sudskog vještaka Radenović Dragomira, protokolisanog kod Opštine Plav pod brojem brojem 031-483 od 10.09.2020. godine.
+Ukupna naknada iznosi 49.894,00€, s tim da kupac shodno članu 23 stav 1 tačka 1 Odluke o građevinskom zemljištu ("Službeni list Crne Gore - opštinski propisi", br. 015/08 od 23.05.2008) u slučaju plaćanja cjelokupnog iznosa podrazumijeva umanjenje od 10%.
