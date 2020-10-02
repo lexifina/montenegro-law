@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 19 Zakona o lokalnoj samoupravi ("Sl.list CG", broj 2/18, 34/19, 38/20), člana 34 stav 1 tačka 19 i člana 89 Statuta Opštine Herceg Novi ("Sl.list CG-opštinski propisi" broj: 1/19, 37/19 i 06/20), Skupština opštine Herceg Novi na sjednici održanoj 02.10.2020.godine, donijela je
+R J E Š E NJ E O DAVANJU SAGLASNOSTI NA RJEŠENJE PREDSJEDNIKA OPŠTINE O IMENOVANJU POTPREDSJEDNICE OPŠTINE HERCEG NOVI
