@@ -1,0 +1,4 @@
+# Član 1
+U Pravilniku o kriterijumima, načinu, uslovima i visini naknade za ostvarivanje prava na smještaj i ishranu u domu, studentski kredit, stipendiju i participaciju prevoza ("Službeni list RCG", broj 12/07 i "Službeni list CG", br. 25/11, 54/11, 39/15, 64/15, 42/16 i 44/18) u članu 2 st. 1 i 2 mijenjaju se i glase:
+"Pravo na smještaj u domu mogu ostvariti studenti osnovnih, specijalističkih i dvogodišnjih master studija, koji se školuju van mjesta stanovanja, koji su prvi put upisali semestar odgovarajuće godine studija i nijesu mijenjali studijski program.
+Ako nakon raspodjele mjesta studentima iz stava 1 ovog člana u domu ostane slobodnih mjesta, pravo na smještaj po ekonomskoj cijeni mogu ostvariti i studenti jednogodišnjih master i doktorskih studija, koji nijesu u radnom odnosu, školuju se van mjesta stanovanja, a koji su po prvi put upisali semestar odgovarajuće godine studija i nijesu mijenjali studijski program."
