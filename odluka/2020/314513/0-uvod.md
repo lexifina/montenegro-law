@@ -1,0 +1,2 @@
+Na osnovu člana 33 Statuta Opštine Plužine ("Službeni list Crne Gore" broj 2/18) a u vezi sa članom 16 stav 1 Zakona o spomen-obilježjima ("Službeni list Crne Gore" broj 40/08, 40/11), člana i 37, u skladu sa Programom podizanja spomen- obilježja u opštini Plužine za 2020. god. Broj 03 - 142/1 od 17.09.2020. godinu, uz prethodnu saglasnost Ministarstva kulture Crne Gore, UPI 01 - 041/20-203/2 od 13.08.2020.godine i Zaključak Vlade Crne Gore broj 07 - 3569 od 23.07.2020. godine, Skupština opštine Plužine, na sjednici održanoj dana 17.09.2020. godine, donijela je
+O D L U K U
