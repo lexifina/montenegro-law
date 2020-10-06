@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 1 tačka 7 Statuta Opštine Plužine ("Sl.list CG-Opštinski propisi", br. 39/18) a u vezi sa članom 69 Zakona o budžetu i fiskalnoj odgovornosti ("Sl.list CG" br. 20/14, 56/14, 70/17, 4/18, 55/18 i 66/19) i članom 41 stav 1 Zakona o finansiranju lokalne samouprave ("Sl.list CG" br. 3/19), Skupština opštine Plužine, na sjednici održanoj 17.09.2020. godine donijela je
+ODLUKU O USVAJANJU ZAVRŠNOG RAČUNA BUDŽETA OPŠTINE PLUŽINE ZA 2019. GODINU
