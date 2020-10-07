@@ -1,0 +1,2 @@
+Na osnovu člana 14 Zakona o eksproprijaciji ("Službeni list RCG" br. 55/00, 12/02 i 28/06 i "Službeni list CG" br. 21/08, 30/17 i 75/18) Vlada Crne Gore 13. avgusta 2020. godine, bez održavanja sjednice, na osnovu pribavljenih saglasnosti većine članova, donijela je
+ODLUKU O UTVRĐIVANJU JAVNOG INTERESA ZA EKSPROPRIJACIJU NEPOKRETNOSTI RADI REALIZACIJE PROJEKTA "REKONSTRUKCIJA MALIH HIDROELEKTRANA - MHE PODGOR - BAR"
