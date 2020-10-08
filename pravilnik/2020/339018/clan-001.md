@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se postupak davanja, sadržina i obrazac pisane saglasnosti za uzimanje organa sa umrlog davaoca, izjave o njenoj izmjeni ili opozivu, sadržina pisane izjave o protivljenju uzimanja organa i izjave o njenom opozivu i načinu njihovog dostavljanja organu državne uprave nadležnom za poslove zdravlja (u daljem tekstu: Ministarstvo), kao i sadržina i način vođenja registara pisanih saglasnosti, izjava o izmjeni i opozivu pisanih saglasnosti, izjava o protivljenju uzimanja organa, izjava o njihovom opozivu i davalaca organa.

@@ -1,0 +1,2 @@
+# Član 14
+Pisanu saglasnost, izjavu o izmjeni ili opozivu pisane saglasnosti, izjavu o protivljenju uzimanja organa, izjavu o opozivu izjave o protivljenju uzimanja organa i zabilješke o njihovom davanju izabrani doktor odmah dostavlja Ministarstvu elektronskim i/ili pisanim putem, putem pošte u zatvorenoj koverti, sa naznakom stepena tajnosti: "POVJERLjIVO" i tekstom: "Sadrži lične podatke koji se čuvaju u skladu sa zakonom".

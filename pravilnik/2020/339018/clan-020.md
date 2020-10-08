@@ -1,0 +1,2 @@
+# Član 20
+Danom stupanja na snagu ovog pravilnika prestaju da važe Pravilnik o postupku davanja i sadržini pisane izjave protiv uzimanja organa, kao i sadržini i načinu vođenja registra umrlih davalaca ("Službeni list CG", broj 40/17) i odredbe Pravilnika o postupku davanja i sadržini saglasnosti za uzimanje djelova ljudskog tijela sa umrlog davaoca i načinu identifikacije davaoca saglasnosti ("Službeni list CG", broj 24/12), koje se odnose na postupke davanja i sadržinu saglasnosti za uzimanje organa sa umrlog davaoca.
