@@ -1,0 +1,3 @@
+# Član 2
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+* U ovaj pravilnik prenešena je Implementaciona Uredba Komisije (EU) 2019/530 оd 27. marta 2019. o imenovanju referentnih laboratorija Evropske unije za štetne organizme bilja za insekte i grinje, nematode, bakterije, gljive i oomicete, viruse, viroide i fitoplazme /Commission Implementing Regulation (EU) 2019/530 of 27 March 2019 designating European Union reference laboratories for pests of plants on insects and mites, nematodes, bacteria, fungi and oomycetes, viruses, viroids, and phytoplasmas.
