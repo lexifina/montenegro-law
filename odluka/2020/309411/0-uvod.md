@@ -1,0 +1,3 @@
+Na osnovu člana 44 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore" broj 02/18, 034/19, 038/20), člana 24 I 25 Zakona o izboru odbornika I poslanika ("Sl.list RCG" broj 004/98, 005/98, 017/98, 014/00, 018/00, 073/00, 009/01, 041/02, 046/02, 045/04, 048/06, 056/06, I "Sl.list Crne Gore" broj 046/11, 014/14, 047/14, 012/16, 060/17, 010/18), te člana 37 Statuta opštine Kolašin ("Sl.list Crne Gore-opštinski propisi" broj 024/19) Skupština opštine Kolašin, na sjednici održanoj dana 24.,25. i 26.09.2020.godine, donijela je
+ODLUKU
+o izmjenama I dopunama Odluke o imenovanju Opštinske izborne komisije u stalnom
