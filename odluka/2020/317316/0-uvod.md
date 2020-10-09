@@ -1,0 +1,3 @@
+Na osnovu člana 28 stav 1 tačka 1 i člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 02/18, 34/19 i 38/20), člana 39 stav 1 Zakona o državnoj imovini ("Službeni list Crne Gore", broj 21/09 i 40/11), člana 3 stav 4, člana 5 stav 1 i člana 32 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list Crne Gore", broj 44/10) i člana 37 stav 1 tačka 9 Statuta Opštine Kolašin ("Službeni list Crne Gore - opštinski propisi", broj 24/19), Skupština opštine Kolašin na sjednici održanoj dana 24.,25. i 26.09.2020. godine donijela je
+O D L U K U
+o načinu davanja u zakup i utvrdjivanju početne cijene zakupa nepokretnosti na kojima

@@ -1,0 +1,2 @@
+# Član 7
+Zakupci koji su vlasnici postojećih privremenih objekata, na površinama zemljišta i lokacijama koje su utvrđene Programom privremenih objekata na teritoriji Opštine Kolašin, ukoliko budu učesnici u postupku po javnom pozivu, a koji ponude ili prihvate najveću ponuđenu cijenu za lokaciju na kojoj se nalazi njihov privremeni objekat, imaju prednost za zaključenje ugovora o zakupu u odnosu na ponuđača koji je ponudio najveću cijenu za tu lokaciju.
