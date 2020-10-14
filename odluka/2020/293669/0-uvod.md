@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19 i 38/20), člana 76 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", broj 49/18, 9/19) Skupština Prijestonice Cetinje, na sjednici održanoj dana 02. i 05.10.2020. godine, donosi
+O D L U K U O DOPUNI ODLUKE O DONOŠENJU SETA MJERA ZA PODRŠKU PRIVREDNICIMA I GRAĐANIMA PRIJESTONICE CETINJE
