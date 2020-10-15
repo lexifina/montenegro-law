@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 02/18, 34/19 i 38/20) , člana 35 stav 1 tačka 22 Statuta Opštine Danilovgrad ("Sl.list CG - Opštinski propisi", broj 43/18) i člana 11 stav 1 alineja 4 i član 15 stav 1 Odluke o osnivanju društva sa ograničenom odgovornošću "Komunalno" Danilovgrad ("Sl.list CG - Opštinski propisi", br.02/14 i 16/19) Skupština opštine Danilovgrad na sjednici održanoj dana 15.10.2020. godine, donosi
+ODLUKU
