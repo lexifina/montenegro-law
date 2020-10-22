@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Sl. list Crne Gore", br. 55/16, 74/16, 02/18 i 66/19), člana 10 stav 1 alineja 1 Odluke o osnivanju društva sa ograničenom odgovornošću "Vodovod i kanalizacija-Cetinje" ("Sl. list Crne Gore - Opštinski propisi", br. 30/13, 22/14 i 39/19) i člana 73 stav 1 tačka 2 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", br. 49/18 i 09/19), Skupština Prijestonice Cetinje, na sjednici održanoj dana 02. i 05.10. 2020. godine, donijela je
+O D L U K U
