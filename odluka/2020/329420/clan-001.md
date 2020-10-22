@@ -1,0 +1,3 @@
+# Član 1
+## о ustupanju prava i obaveza iz Ugovora broj 01-1-018-264/20 od 17.02.2020.godine i Ugovora broj 01-1-018-804/20 od 28.05.2020. godine
+Opština Herceg Novi ovom Odlukom ustupa prava i obaveze iz Ugovora o izgradnji mješovitog centra i javne garaže na Trgu Maršala Tita sa "Briv construction" DOO Kotor broj 01-1-018-264/20 od 17.02.2020.godine i Ugovora o izvođenju radova na zaštiti temeljne jame za objekat mješovitog centra i javne garaže na trgu Maršala Tita u Herceg Novom na kat.parc. br.1425/2 KO Topla broj 01-1-018-804/20 od 28.05.2020.godine, na "Parking servis Herceg Novi" DOO Herceg Novi.
