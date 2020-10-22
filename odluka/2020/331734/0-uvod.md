@@ -1,0 +1,2 @@
+Na osnovu člana 73 stav 1 tačka 22 Statuta Prijestonice ( "Službeni list Crne Gore - opštinski propisi" , br.049/18 , 009/19 ), te člana 10 stav 1 alineja 3 Odluke o organizovanju Javne ustanove Narodna biblioteka i čitaonica"Njegoš" Cetinje ("Službeni list Crne Gore-Opštinski propisi" , br. 018/12), Skupština Prijestonice Cetinje, na sjednici održanoj dana 02. i 05.10.2020. godine, donijela je
+ODLUKU
