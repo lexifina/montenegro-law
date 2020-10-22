@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti na Odluku Odbora direktora "Društva za izgradnju vodovodne i kanalizacione infrastrukture u Opštini Herceg Novi" DOO broj 05-117/20 od 18.08.2020. godine
+Daje se saglasnost na Odluku Odbora direktora "Društva za izgradnju vodovodne i kanalizacione infrastrukture u Opštini Herceg Novi" DOO broj 05-117/20 od 18.08.2020. godine, o prodaji infrastrukture za prenos i distribuciju električne energije - trafo stanicе DTS 10/0.4 kV 1 x 250 kVA "Kumbor 3" sa priključnim 10 kV vodom za PS "Kumbor - Sjever" na kat. parc. 678 KO Kumbor upisane u LN 441, procjenjene vrijednosti 39.447,36 € (sa obračunatim PDV-om) "Crnogorskom elektrodistributivnom sistemu" DOO Podgorica.
