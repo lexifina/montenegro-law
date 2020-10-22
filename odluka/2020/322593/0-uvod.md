@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tač. 2 i 16 Zakona o lokalnoj samoupravi ("Službeni list CG" br. 2/18, 34/19 i 38/20), čl. 68 i 73 stav 1 tač. 2 i 47 Statuta Prijestonice ("Službeni list CG-Opštinski propisi" br. 49/18 i 9/19), i člana 47 Poslovnika o radu Skupštine Prijestonice Cetinje ("Službeni list CG-Opštinski propisi" br. 17/19), Skupština Prijestonice Cetinje na sjednici održanoj , 02.i 05.10. 2020. godine, donijela je
+ODLUKU
