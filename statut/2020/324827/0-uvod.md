@@ -1,0 +1,2 @@
+Na osnovu člana 73 stav 1 tačka 2 Statuta Prijestonice Cetinje ( "Sl.list Crne Gore - Opštinski propisi", br. 49/18 i 9/19) i člana 10 Odluke o organizovanju JU Centra za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u Prijestonici ("Sl.list Crne Gore - Opštinski propisi", br. 48/15, 27/19 i 51/19), Skupština Prijestonice Cetinje na sjednici održanoj dana 02. i 05.10.2020. godine, donijela je
+ODLUKU
