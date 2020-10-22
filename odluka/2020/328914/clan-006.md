@@ -1,0 +1,4 @@
+# Član 6
+Informisanje lokalnog stanovništva o pokretanju postupka izrade akta od zajedničkog interesa, organ Prijestonice obezbjeđuje putem: veb stranice, lokalnog javnog emitera, dostupnih tabli za obavještenja, dežurnih telefona i na drugi pogodan način.
+Organ Prijestonice, u skladu sa medija planom, može primjeniti i druge mehanizme informisanja i to: informator, odnosno priručnik, bilten, brošura, vodič, audio vizuelni ili elektronski mediji, organizovanje sastanaka, tribina i edukativnih radionica u mjesnim zajednicama i na drugim odgovarajućim mjestima, organizovanje seminara, objavljivanje određenih informacija na bilbordima i sl.
+Medija plan sadrži: načine i postupke učešća lokalnog stanovništva u vršenju javnih poslova, oblike, subjekte, postupke, rokove, strukturu izvještaja o uspješnosti postupka.

@@ -1,0 +1,3 @@
+# Član 17
+Prilikom sprovođenja javne rasprave, organ za sprovođenje javne rasprave će da vodi računa da prostorije u kojima se organizuje javna rasprava budu pristupačne licima sa invaliditetom.
+Ako se tekst nacrta akta od zajedničkog interesa, koji je predmet javne rasprave, neposredno odnosi na prava, obaveze i pravne interese lica sa poremećajima sluha i govora, odnosno lica sa oštećenim vidom, organ za sprovođenje javne rasprave će omogućiti da se javna rasprava sprovede uz upotrebu gestovnog govora, odnosno da tekst nacrta akta od zajedničkog interesa bude dostupan u audio- tonskom zapisu ili na Brajevom pismu.

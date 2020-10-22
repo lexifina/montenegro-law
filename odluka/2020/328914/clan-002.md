@@ -1,0 +1,3 @@
+# Član 2
+Pod javnim poslovima u smislu ove odluke smatra se donošenje planova i programa razvoja Prijestonice, i drugih infrastukturnih projekata, budžeta i opštih akata kojima se uređuju prava i obaveze građana (u daljem tekstu: akti od zajedničkog interesa), kao i javni poslovi u kojima građani ostvaruju prava ili izvršavaju obaveze utvrđene zakonom.
+Organi lokalne samouprave i organi lokalne uprave (u daljem teksu: Prijestonica), dužni su da obezbijede da građani, pravna lica, nevladine organizacije i druge organizacije i zainteresovane grupe budu blagovremeno informisani o svim pitanjima od značaja za njihov život i rad.
