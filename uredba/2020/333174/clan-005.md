@@ -1,0 +1,3 @@
+# Član 5
+Medijator, odnosno evaluator spora koji je imao troškove prevoza radi vođenja postupka medijacije, odnosno rane neutralne ocjene spora van mjesta svog prebivališta ili boravišta ima pravo na naknadu tih troškova u visini putne karte sredstvom javnog prevoza.
+Ako sredstvo javnog prevoza ne postoji, ne saobraća u pogodno vrijeme ili iz drugih razloga nije moguće koristiti javni prevoz, medijator, odnosno evaluator spora ima pravo na naknadu troškova prevoza sopstvenim ili drugim vozilom, koja se određuje prema broju pređenih kilometara najkraćim putem u visini 10% cijene litra benzina po pređenom ili započetom kilometru.
