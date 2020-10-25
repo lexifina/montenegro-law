@@ -1,0 +1,1 @@
+15Nije primjenjivo od uspostavljanja ESJN 16Nije primjenjivo od uspostavljanja ESJN 17Nije primjenjivo od uspostavljanja ESJN 18Nije primjenjivo od uspostavljanja ESJN 19Nije primjenjivo od uspostavljanja ESJN
