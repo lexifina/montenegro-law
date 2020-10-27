@@ -1,0 +1,2 @@
+Na osnovu člana 35 tačka 2 Statuta opštine Šavnik (,,Sl. list CG-Opštinski propisi", br. 31/18) i člana 17 stav 2 Odluke o osnivanju Društva ograničene odgovornosti ,,Komunalne djelatnosti" Šavnik (,,Sl. list CG-Opštinski propisi", br. 30/13 i 18/15), predloga Predsjednika opštine br. 02-018/20-3244/2 od 19.10.2020. godine Skupština opštine Šavnik na sjednici održanoj dana 27.10.2020. godine, donijela je
+ODLUKU
