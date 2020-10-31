@@ -1,0 +1,3 @@
+# Član 8
+Objekat, odnosno prostor iz člana 1 ovog pravilnika treba da bude organizovan na način da obezbijedi dovoljno prostora prilikom postavljanja opreme u cilju adekvatnog održavanja temperature.
+Pod organizacijom objekta, odnosno prostora iz člana 1 ovog pravilnika podrazumijeva se postavljanje kućišta koja se koriste za smještanje servera i drugih uređaja i mrežno- komunikacione infrastrukture (rack ormara) na način da se omogući jednostavan fizički pristup sa prednje i zadnje strane i izbjegne opterećenost objekta, odnosno prostora i pregrijavanje opreme, kao i funkcionalno grupisanje, smještanje i klasifikovanje po odgovarajućim zonama.

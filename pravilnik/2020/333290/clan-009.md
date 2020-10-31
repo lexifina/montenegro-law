@@ -1,0 +1,2 @@
+# Član 9
+U cilju obezbjeđenja kontinuiteta rada jedinstvenog informacionog sistema objekat, odnosno prostor za smještaj i funkcionisanje računarske i komunikacione opreme (data centar) mora ispunjavati uslove za uspostavljane mehanizama za sinhronizaciju informacionih sistema i podataka iz objekta, odnosno prostora u kojem se postavljaju rezervni računarski sistemi i prateća oprema (disaster recovery centar).

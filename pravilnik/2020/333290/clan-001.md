@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se uslovi koje mora da ispunjava objekat, odnosno prostor za smještaj i funkcionisanje računarske i komunikacione opreme (data centar), kao i objekat, odnosno prostor u kojem se postavljaju rezervni računarski sistemi i prateća oprema u cilju obezbjeđenja kontinuiteta rada jedinstvenog informacionog sistema i eliminisanja mogućnosti gubitka podataka u slučaju incidentnih situacija (disaster recovery centar).
