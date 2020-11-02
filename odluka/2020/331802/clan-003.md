@@ -1,0 +1,3 @@
+# Član 3
+Obavezuju se rukovodioci sekretarijata i službi Opštine Budva da u dijelu svojih nadležnosti: - preispitaju akte donijete u periodu od 11. juna do 24. septembra 2020. godine od strane neovlašćenih lica iz člana 2 stav 1 tačka 2 ove Odluke, revidiraju ih i prema njima se odrede (poništavanje, potvrđivanje i dr.) i preduzmu odgovarajuće radnje radi otklanjanja i/ili umanjivanja posljedica nastalih postupanjem po predmetnim aktima, kao i da predlože predsjedniku Opštine preduzimanja odgovarajućih radnji i pokretanja postupaka;
+- samostalno pokrenu odgovarajuće postupke prema zaposlenima kojima su nadređeni.

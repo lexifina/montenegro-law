@@ -1,0 +1,3 @@
+Na osnovu članova 38 i 44 Zakona o lokalnoj samoupravi ("Službeni list CG", br 02/18, 34/19 i 38/20), člana 44 Statuta opštine Budva ("Službeni list CG - Opštinski propisi ", br. 02/19), tačke 3 Rješenja o imenovanju Komisije za provjeru usklađenosti dokumentacije nastale u radu organa lokalne samouprave u periodu od 08. juna do 24. septembra 2020. godine ("Službeni list CG-Opštinski propisi", br. 34/20) i Zaključka o usvajanju Izvještaja Komisije br. 10-040/20-853/1 od 02. 10.2020. godine, Skupština opštine Budva, na sjednici održanoj 02. novembra 2020. godine, donijela je
+ODLUKU
+o poništavanju akata i preduzimanju odgovarajućih radnji organa lokalne samouprave
