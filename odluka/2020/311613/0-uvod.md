@@ -1,0 +1,3 @@
+Na osnovu člana 54 stav 1 tačka 57 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19) i člana 9 Odluke o osnivanju Javne ustanove za smještaj, rehabilitaciju i resocijalizaciju korisnika psihoaktivnih supstanci Podgorica ("Službeni list CG - Opštinski propisi", broj 27/15), Skupština Glavnog grada - Podgorice, na sjednici održanoj 29. oktobra i 3. novembra 2020. godine, donijela je
+O D L U K U O DAVANJU SAGLASNOSTI NA ODLUKU UPRAVNOG ODBORA JAVNE USTANOVE ZA SMJEŠTAJ,
+REHABILITACIJU I RESOCIJALIZACIJU KORISNIKA PSIHOAKTIVNIH SUPSTANCI - PODGORICA, O IMENOVANJU DIREKTORICE USTANOVE
