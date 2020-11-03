@@ -1,0 +1,6 @@
+Na osnovu člana 54 Statuta Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", broj 8/19) i člana 3 i 10 Odluke o obrazovanju radnih tijela Skupštine Glavnog grada - Podgorice ("Službeni list Crne Gore - Opštinski propisi", broj 31/19), Skupština Glavnog grada - Podgorice, na sjednici održanoj 29. oktobra i 3. novembra 2020. godine, donijela je -
+R J E Š E NJ E O IZMJENI RJEŠENJA O IMENOVANJU ODBORA ZA STATUT I PROPISE SKUPŠTINE GLAVNOG GRADA - PODGORICE
+I - U Rješenju o imenovanju Odbora za Statut i propise Skupštine Glavnog grada - Podgorice, broj: 02- 030/18-505 od 31. jula 2018. godine, broj: 02-030/18-984 od 30. oktobra 2018. godine, broj: 02- 030/19-400 od 11. aprila 2019. godine, broj: 02-030/19-261 od 13. juna 2019. godine i broj: 02- 016/20-489 od 15. maja 2020. godine, vrši se sljedeća i z m j e n a:
+- JADRANKA MILOŠEVIĆ se r a z r j e š a v a dužnosti članice Odbora za Odbor za Statut i propise Skupštine Glavnog grada - Podgorice, zbog podnošenja ostavke.
+- Za članicu Odbora za Statut i propise Skupštine Glavnog grada - Podgorice, i m e n u j e s e - ANA KRIVOKAPIĆ.
+II - Ovo rješenje stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore - Opštinski propisi".
