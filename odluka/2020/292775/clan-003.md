@@ -1,0 +1,4 @@
+# Član 3
+Sekretarijat za lokalnu samoupravu i društvene djelatnosti se ovlašćuje da po stupanju na snagu ove Odluke raspiše Javni poziv za prikupljanje ponuda, definiše uslove učešća na Javnom pozivu, vrijeme i mjesto obilaska predmeta prodaje, te rokove za sprovođenje postupka. Postupak otvaranja i vrednovanja ponuda i izbor najpovoljnijeg ponuđača će vršiti Komisija koju će posebnim rješenjem imenovati Predsjednik opštine.
+Komisija će u rokovima i pod uslovima utvrđenim Javnim pozivom izvršiti otvaranje ponuda, utvrditi rang listu ponuđača, donijeti odluku o najpovoljnijem ponuđaču ili proglasiti Javni poziv neuspjelim, ukoliko se na isti ne prijavi nijedan ponuđač ili iz drugih razloga predviđenih propisima.
+U slučaju iz prethodnog stava, Javni poziv će se ponoviti, a početna cijena će biti umanjena najviše za 5% od početne cijene iz člana 1 ove Odluke, odnosno najviše 10% od početne cijene iz člana 1 ove Odluke, ukoliko se isti raspiše treći put.
