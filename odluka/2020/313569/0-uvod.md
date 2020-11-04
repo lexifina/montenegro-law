@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG" br. 02/18, 34/19 i 38/20), člana 18 stav 1 i 5 Zakona o mladima ("Službeni list CG" br.25/19 i 27/19) i člana 38 Statuta opštine Danilovgrad ("Službeni list CG - Opštinski propisi", br. 43/18), Skupština opštine Danilovgrad, na sjednici održanoj 15.10.2020.godine, donijela je
+ODLUKU O OBRAZOVANJU SAVJETA ZA MLADE OPŠTINE DANILOVGRAD
