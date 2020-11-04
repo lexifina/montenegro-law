@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2 i 29 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19 i 38/20), člana 23 stav 1 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18 i 34/19), člana 35 stav 1 tačka 2 i 29 Statuta Opštine Danilovgrad ("Sl. list CG - Opštinski propisi", br. 43/18), uz prethodnu saglasnost Ministarstva finansija broj 03-15131/1 od 08.09.2020. godine, Skupština opštine Danilovgrad na sjednici održanoj 15.10.2020. godine, donosi
+ODLUKU
+o dopuni Odluke o zaradama i drugim primanjima lokalnih službenika i namještenika u
