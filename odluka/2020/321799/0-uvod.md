@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Sl.list Crne Gore", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore", br. 2/18, 34/19 i 38/20), člana 52 Zakona o planiranju prostora i izgradnji objekata ("Sl.list Crne Gore", br. 64/17, 44/18, 63/18, 11/19 i 82/20) i člana 54 stav 1 tačka 12 Statuta Glavnog grada ("Sl.lst Crne Gore - Opštinski propisi", broj 8/19), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 29. oktobra i 3. novembra 2020. godine, donijela je
+ODLUKU
+o otkupu građevinskog zemljišta radi kompletiranja urbanističke parcele broj 7 u zahvatu DUP-a "Naselje 1.maj - dio" -
