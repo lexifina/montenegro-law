@@ -1,0 +1,4 @@
+# Član 4
+Glavni grad - Podgorica prihvata troškove koje su Vera Štajner Šutić, Vladimir Štajner, Zdravka Štajner Teodorović i "Gradnja -promet" d.o.o. imali povodom započete izgradnje objekta iz člana 2 ove odluke iznosu od 208.020,65 eura, koji iznos se umanjuje od razlike u vrijednosti građevinskog zemljišta koje je predmet razmjene.
+Preostali iznos od 60.199,65 eura, koliko iznosi razlika u vrijednosti zemljišta koje se razmjenuje sa priznatim ulaganjima, Glavni grad će nadoknaditi-priznati investitorima kod plaćanja naknade za komunalno opremanje građevinskog zemljišta na lokacijama iz člana 3 ove odluke.
+Sredstva u iznosu od 127.136,11 eura koja su uplaćena u korist Budžeta Glavnog grada, po Ugovoru o naknadi za komunalno opremanje građevinskog zemljišta, br.01-018/20-2304 dana 10.04.2020.godine, prenijeće se na ime naknade za komunalno opremanje lokacija iz člana 3 ove odluke.
