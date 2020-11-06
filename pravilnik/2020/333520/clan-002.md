@@ -1,0 +1,2 @@
+# Član 2
+Obrazac licence za rad medijatora/ke sadrži: Grb Crne Gore, nazive: "CRNA GORA" i "MINISTARSTVO PRAVDE", pravni osnov za izdavanje licence, naziv: "LICENCA ZA RAD MEDIJATORA/MEDIJATORKE", mjesta za ime i prezime, prebivalište i adresu medijatora/ke, broj i datum uvjerenja o završenoj obuci za medijatora/ku, period važenja licence, broj, datum i mjesto izdavanja licence, pečat organa koji izdaje licencu i potpis ovlašćenog lica.
