@@ -1,0 +1,2 @@
+Na osnovu člana 223 stav 1 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", br. 64/17, 44/18, 63/18, 11/19 i 82/20), člana 38 tačka 2 Zakona o lokalnoj samoupravi (,,Službeni list CG", br. 02/18, 34/19 i 38/20) i člana 43 Statuta Opštine Bar ("Službeni list CG - Opštinski propisi", broj 37/18) Skupština Opštine Bar, na sjednici održanoj dana 29.10. 2020. godine, donijela je
+ODLUKU
