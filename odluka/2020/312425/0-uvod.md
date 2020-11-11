@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 i tačka 21, a u vezi sa članom 43 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore", br. 02/18, 38/20 ), člana 46 stav 1 tačka 2 i tačka 21 Statuta opštine Bijelo Polje ("Sl.listi CG -opštinski propisi br. 19/18) i člana 6 Odluke o rješavanju stambenih pitanja lica u stanju socijalne potrebe ("Sl. list CG - Opštinski propisi" br. 20/08 i 32/13), Skupština opštine Bijelo Polje, na sjednici održanoj 19. i 22. 10. 2020. godine, donjela je
+ODLUKU
