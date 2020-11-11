@@ -1,0 +1,2 @@
+Na osnovu članova 38 i 44 Zakona o lokalnoj samoupravi ("Službeni list CG", br 02/18, 34/19 i 38/20), člana 44 Statuta opštine Budva ("Službeni list CG - Opštinski propisi ", br. 02/19), Odluke o poništavanju akata i preduzimanju odgovarajućih radnji organa lokalne samouprave i lokalne uprave ("Službeni list CG-Opštinski propisi", br.39/20) Skupština opštine Budva, na sjednici održanoj 11. novembra 2020. godine, donijela je
+ODLUKU
