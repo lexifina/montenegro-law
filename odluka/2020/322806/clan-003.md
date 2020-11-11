@@ -1,0 +1,2 @@
+# Član 3
+Nepokretnost iz člana 1 ove odluke prodaje se po cijeni od 243,17€/m2, što ukupno iznosi 111.858,20€, shodno Izvještaju o procjeni tržišne vrijednosti urbanizovanog zemljišta upisanog u l.n.br. 4217 KO Novi Bar, sačinjenog od strane MRICS, REV i akreditovanog NUPCG procjenjivača i ovlašćenog sudskog vještaka Mr Zorana Senića, protokolisanog kod Opštine Bar pod brojem: 04-427/20-651 od 20.03.2020. godine.
