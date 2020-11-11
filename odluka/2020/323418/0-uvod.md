@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 30 Zakona o lokalnoj samoupravi (,,Službeni list CG" br. 02/18, 34/19 i 38/20), člana 54 stav 1 Zakona o komunalnim djelatnostima (,, Službeni list CG" br. 55/16 i 74/16), člana 11 stav 1 alineja 6 Odluke o osnivanju društva sa ograničenom odgovornošću ,,Komunalno" Budva (,,Službeni list CG-Opštinski propisi", br. 33/13) i člana 55 stav 1 tačka 58 Statuta Opštine Budva (,,Službeni list CG-Opštinski propisi", br. 02/19) Skupština opštine Budva, na sjednici održanoj 11. novembra 2020. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Odluku o privremenom umanjenju naknada za usluge odvoza i
