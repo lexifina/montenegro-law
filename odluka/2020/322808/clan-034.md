@@ -1,0 +1,3 @@
+# Član 34
+Korisnik usluge sakupljanja, odvoza i deponovanja komunalnog otpada ( u daljem tekstu "Korisnik") u smislu člana 33 stav 1 tačka 1 ove odluke je: vlasnik, zakupac ili korisnik stambenog prostora kao i članovi njegovog porodičnog domaćinstva, kao i vlasnik, zakupac ili korisnik poslovne zgrade ili prostorije, sa pripadajućim otvorenim prostorom koji se koristi u svrhu obavljanja poslovne i/ili proizvodne djelatnosti.
+Pod otvorenim prostorom podrazumijevaju se natkriveni i otvoreni prostori na kojima se obavlja poslovna i/ili proizvodna djelatnost ili neposredno služe za obavljanje poslovne i/ili proizvodne djelatnosti (natkrivena skladišta, stovarišta, otvorena parkirališta, auto placevi, auto perionice, ljetnje bašte i sl.), te pijace otvorenog tipa.

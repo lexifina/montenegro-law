@@ -1,0 +1,3 @@
+# Član 111
+Izvor buke je svaki emiter nepoželjnog ili štetnog zvuka (mašina, uređaj, instalacija, postrojenje, sredstvo za rad i transport, tehnološki postupak, elektroakustički i akustički uređaj za glasno emitovanje muzike i govora i sl.).
+Narušavanje komunalnog reda bukom je stvaranje buke upotrebom akustičkih, elektroakustičkih ili mehaničkih uređaja i uređaja i opreme za hlađenje - grijanje odnosno ventilaciju iz ugostiteljskih objekata i objekata stambene i stambeno - poslovne namjene. Zabranjeno je narušavanje komunalnog reda bukom, upotrebom uređaja i opreme navedenih u stavu 1 ovog člana , čijom se upotrebom vrši stvaranje buke iznad zakonom dozvoljenog nivoa.

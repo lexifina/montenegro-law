@@ -1,0 +1,7 @@
+# Član 26
+Plakati, oglasi i druge slične objave mogu se bez posebnog odobrenja postavljati samo na oglasnim stubovima, oglasnim panoima, oglasnim ormarićima i drugim oglasnim prostorima koje je na javnu površinu postavila nadležna javna služba, a služe isključivo za navedenu namjenu.
+Zabranjeno je lijepljenje i postavljanje plakata na drveću, fasadi zgrada, ogradama, trafo stanicama, energetskim ormarićima i drugim mjestima koja nisu za to namijenjena.
+Prekršajnu odgovornost, troškove uklanjanja plakata i čišćenje površina na kojima nisu smjele biti istaknute, snosi organizator priredbe ili manifestacije, odnosno pravna ili fizička lica čija se priredba, proizvod ili manifestacija oglašava.
+Uredno postavljene plakate zabranjeno je prljati, oštećivati ili uništavati.
+Pravno odnosno fizičko lice koje je postavilo plakate, oglase i druge slične objave, dužno ih je ukloniti po isteku roka na koji je izdato odobrenje, a korišćene površine očistiti i urediti. Ukoliko lice iz stava 5 ovog člana ne ukloni, odnosno ne uredi i ne očisti navedene površine, to će učiniti treće lice, a za nastale troškove teretiće se organizator priredbe ili manifestacije, odnosno pravno ili fizičko lice čija se priredba, proizvod ili manifestacija oglašava.
+Odredbe stava 1 do 7 ovog člana odnose se i na oglašavanje za potrebe izborne propagande. Zvučno oglašavanje je dopušteno obavljati propisno opremljenim vozilom, koje se kreće i ne zaustavlja, pod uslovom da ne proizvodi buku veću od zakonom dopuštene.

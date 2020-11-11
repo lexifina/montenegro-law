@@ -1,0 +1,3 @@
+# Član 35
+Poslove održavanja čistoće na javnim površinama na teritoriji opštine Bijelo Polje, vrši vršilac komunalne djelatnosti kome su ti poslovi povjereni odlukom Skupštine Opštine Bijelo Polje. Poslove održavanja čistoće na drugim površinama (koje pripadaju zdravstvenim, obrazovnim, naučnim, kulturnim, sportskim i drugim ustanovama, privrednim subjektima i drugim pravnim i fizičkim licima), vrše imaoci prava svojine, raspolaganja ili upravljanja na tim površinama, odnosno korisnici tih površina.
+Lica iz stava 2 ovog člana, poslove održavanja čistoće posebnim ugovorom mogu da povjere Privrednom društvu ili drugom pravnom licu registrovanom za obavljanje ove djelatnosti.

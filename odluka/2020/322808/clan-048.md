@@ -1,0 +1,3 @@
+# Član 48
+Novi korisnici usluga u sistemu sakupljanja otpada su dužni da, u roku od 7 dana od početka korišćenja stambenog ili poslovnog prostora, obavijeste vršioca komunalnih usluga o istom, radi evidentiranja korisnika, pružanja usluge i utvrđivanja naknade za sakupljanje prevoz i deponovanje komunalnog otpada.
+Korisnici usluga sakupljanja, odvoza i deponovanja komunalnog otpada, koji su prestali sa korišćenjem poslovnog ili stambenog objekta, dužni su da o tome obavijeste vršioca komunalnih usluga u roku od 7 dana od dana prestanka korišćenja, uz pružanje odgovarajućih dokaza. U suprotnom korisnik će biti u obavezi plaćanja naknade za navedenu uslugu do momenta prijave prestanka korišćenja objekta.
