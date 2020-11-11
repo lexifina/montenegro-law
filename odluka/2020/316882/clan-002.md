@@ -1,0 +1,6 @@
+# Član 2
+U članu 4 poslije stava 1 dodaju se tri nova stava koji glase:
+"Lokacije za izgradnju lokalnih objekata od opšteg interesa mogu se određivati samo u zonama koje nisu obuhvaćene lokalnim planskim dokumentima detaljne razrade, ukoliko isti ne predstavljaju smetnju pretežnoj namjeni utvrđenoj planovima višeg reda.
+Izuzetno iz stava 2 ovog člana za objekte komunalne infrastrukture (vodovodna, telekomunikaciona i kanalizaciona infrastruktura, toplovodi, Opštinski putevi -lokalni i nekategorisani i prateći objekti; ulice u naseljima i trgovi; parking prostori; pijace, gradska groblja, podzemne i nadzemne prolaze, javne garaže, objekte distributivne mreže naponskog nivoa do 35 kV trafostanice i vodovi od 110 kV ili manje, rasklopna postrojenja, javna rasvjeta; solarne elektrane od 5 MW i manje; javne i zelene površine i gradski parkovi, komunalno servisni objekti) lokacije za izgradnju mogu se odrećivati i u zonama zahvata planskog dokumenta detaljne razrade, ukoliko se izgradnjom navedenih objekata bitno ne mijenjaju osnovne postavke planskog dokumenta detaljne razrade i ne mjenjaju granice urbanističke parcele, osim u slučaju kada vlasnik katastarske parcele za to da pisanu saglasnost.
+O ispunjenosti uslova u smislu stava 2 ovog člana odlučuje Seretarijat nadležan za poslove uređenja prostora.
+Dosadašnji stav 2 postaje stav 5.
