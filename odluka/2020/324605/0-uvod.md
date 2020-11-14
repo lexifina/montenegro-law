@@ -1,0 +1,2 @@
+Na osnovu člana 33 u vezi sa članom 28 stav 1 tačka 1 i člana 58 tačka 6 Zakona o lokalnoj samoupravi ( " Sl.list CG" br. 2/18, 34/19 i 38/20), člana 34 stav 1 i člana 40 stav 2 tačka 1 Zakona o državnoj imovini ( " Sl.list CG" b. 21/09 i 40/11) i člana 77 tačka Statuta opštine Žabljak ( " Sl.list CG - opštinski propisi" br. 27/18), Predsjednik opštine Žabljak dana 15. oktobra 2020 godine, donosi
+O D L U K U
