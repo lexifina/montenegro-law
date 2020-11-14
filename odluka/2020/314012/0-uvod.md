@@ -1,0 +1,2 @@
+Na osnovu člana 43 Zakona o lokalnoj samoupravi ("Sl.list CG" br 02/18,34/19 i 39/20), člana 40 Statuta opštine Gusinje, ( "Sl list CG -Opštinski propisi",br. 03/19 )i Člana 13 Odluke o obrazovanju radnih tijela Skupštine("Službeni list Crne Gore - opštinski propisi", br. 035/14) , Skupština opštine Gusinje, na sjednici održanoj 29.10.2020. godine, donijela je
+O D L U K U O IZBORU ČLANOVA SAVJETA ZA IZBOR I IMENOVANJA
