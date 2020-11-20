@@ -1,0 +1,2 @@
+Na osnovu člana 34. Zakona o budžetu i fiskalnoj odgovornosti ("Sl. list CG", br. 20/14, 56/14, 70/17, 4/18 i 55/18), člana 28. i člana 31. Zakona o finansiranju lokalne samouprave ("Sl. list CG", br. 3/19) i člana 32, stav 1, tačka 7 Statuta Opštine Petnjica ("Sl. list CG - opštinski propisi", br. 29/18), Skupština opštine Petnjica na sjednici održanoj 05.11.2020.godine, donosi:
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O BUDŽETU OPŠTINE PETNJICA ZA 2020. GODINU
