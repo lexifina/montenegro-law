@@ -1,0 +1,3 @@
+Na osnovu člana 22 stav 1, 4, 5 i 6 Zakona o putevima ("Službeni list RCG", br. 42/04 i "Službeni list CG", br. 21/09, 54/09, 40/10, 73/10, 36/11 i 40/11), člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19 i 38/20) i člana 44 stav 1 tačka 2 i 8, a uvezi sa članom 49 stav 1 i 3 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 02/19), nakon dobijene saglasnosti Vlade br. 07-3526 od 09. jula 2020 godine Skupština opštine Budva, na sjednici održanoj 11. novembra 2020. godine, donijela je
+ODLUKU
+o dopunama Odluke o naknadama za korišćenje opštinskih puteva("Službeni list Crne
