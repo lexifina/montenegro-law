@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuje se izgled i sadržaj obrazaca za dostavljanje podataka o evidencijama i registrima koje u vršenju poslova iz svoje nadležnosti organi, odnosno drugi subjekti vode u elektronskoj formi (u daljem tekstu: elektronski registri) i informacionim sistemima organa, odnosno drugih subjekata, kao i obrazaca za dostavljanje podataka o izvršenim promjenama, koje ti organi, odnosno drugi subjekti dostavljaju organu državne uprave nadležnom za poslove informacionog društva i elektronske uprave (u daljem tekstu: Ministarstvo), kao i sadržaj i način vođenja evidencije o elektronskim registrima i informacionim sistemima organa i drugih subjekata (u daljem tekstu: metaregistar).
