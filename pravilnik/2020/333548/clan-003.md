@@ -1,0 +1,3 @@
+# Član 3
+Proizvodi se dobijaju posebnim tehnološkim postupkom od vode za piće ili prirodne mineralne vode ili prirodne izvorske vode, kojoj se mogu dodavati sastojci: arome, šećeri, hidrolizati skroba, bilјni ekstrakti, voćni sok, koncentrovani voćni sok, sok od povrća, žita i proizvodi od žita, soja i proizvodi od soje, hmelј i proizvodi od hmelјa, surutka, vitamini, mineralne soli, kao i drugi sastojci u skladu sa zakonom i podzakonskim aktima kojima se uređuje bezbjednost hrane i upotreba sastojaka, sa ili bez dodatka uglјen-dioksida.
+U proizvodnji proizvoda mogu se koristiti aditivi u skladu sa propisom kojim se uređuju prehrambeni aditivi.

@@ -1,0 +1,3 @@
+# Član 2
+Subjekt u poslovanju hranom prije početka proizvodnje osvježavajućih bezalkoholnih pića (u daljem tekstu: proizvod) donosi proizvođačku specifikaciju, u skladu sa propisima kojima se uređuje bezbjednost hrane.
+Proizvođačka specifikacija iz stava 1 ovog člana sadrži: evidencijski broj; datum donošenja; naziv proizvoda i trgovački naziv (ako ga proizvod ima); kratak opis tehnološkog postupka proizvodnje; podatke o sirovini i dodatim sastojcima; podatke o učešću osnovnih sastojaka; izveštaj o izvršenom ispitivanju kvaliteta (fizička, hemijska i organoleptička svojstva); datum početka proizvodnje, kao i podatke iz deklaracije.
