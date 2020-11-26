@@ -1,0 +1,15 @@
+# Član 1
+Utvrđuje se javni interes za eksproprijaciju nepokretnosti u Opštini Pljevlja, i to:
+KO Ilino brdo I:
+1. parcela br. 415/13, njiva II klase, površine 6504 m2, LN 424 KO Ilino brdo I, vlasništvo: Đozović Ćamila - 2/70, Dulić Husnija - 2/70, Suljević Jasmina - 2/70, Ćatović Kadrija - 1/20, Gerina Mirsad - 1/20, Gerina Nedžad - 1/20, Dulić Osman - 1/5, Halvadžija Suada - 3/70, Pašić Subhija -1/5, Čorbo Zemka - 2/70, Dulić Bakija Zijada - 3/70, Dulić Zikrija - 1/5 i Dulić Zuhdija - 2/70;
+2. parcela br. 415/15, njiva II klase, površine 4846 m2, LN br. 154 KO Ilino brdo I, vlasništvo: Glamočak Fatima;
+3. parcela br. 415/16, livada II klase, površine 9665 m2 i parcela br.415/17 livada II klase, površine 11242 m2 , LN br.7 KO Ilino brdo I, vlasništvo: Bajrović Šefkija - 2/24, Jabučar Šemsa - 3/24, Bajrović Adisa - 2/24, Čičić Džemila - 3/24, Bajrović Hanefija - 3/24, Sukić Hedija - 2/24, Bajrović Mukadesa - 2/24, Bajrović Remzija -3/24, Veljović Sadija - 2/24 i Branković Samka - 2/24;
+4. parcela br. 415/37, , njiva II klase, površine 170 m2 i parcela br. 415/41 njiva II klase, površine 2945 m2, LN br. 120 KO Ilino brdo I, vlasništvo: Agrokooperativa Doganje - Pljevlja - 1/1;
+5. parcela br. 415/22, livada II klase, površine 4413 m2, LN 369 KO Ilino brdo I, vlasništvo: Džogaz Đole - 1/1;
+6. parcela br. 415/36, njiva II klase, površine 9824 m2, LN 296 KO Ilino brdo I vlasništvo: Musabegović Adnan - 2/48, Selmanović Ahmet - 4/48, Ćulahović Alen - 1/48, Brbović Amela - 2/48, Selmanović Atija - 4/48, Ćulahović Denis - 1/48, Selmanović Hasan - 4/48, Mijanović Milovan -3/48, Čengić Nedžiba - 12/48, Musabegović Nijazija - 4/48, Mijanović Sanja - 3/48, Selmanović Zaim - 6/48, i Musabegović Zlatan - 2/48.
+KO Pljevlja:
+1. parcela br. 5005, pašnjak II klase, površine 1962 m2, dvorište 500 m2, pomoćni objekat 13 m2 LN 2858 KO Pljevlja vlasništvo: Selmanović Adnan - 1/14, Selmanović Dženan - 1/14, Hadžihasanović Dževahira - 1/7, Selmanović Emir - 1/14, Selmanović Erdin - 1/28, Selmanović Ibrahim - 1/7, Selmanović Rabija - 1/7, Hadžiredžepović Jasminka -1/28, Selmanović Kenan - 1/28, Selmanović Mehmed - 1/14, Selmanović Nerdžad - 1/28 i Selmanović Zilha - 1/7;
+2. parcela br. 5003/8, LN br.856 KO Pljevlja, livada II klase, površine 3934 m2, vlasništvo: Bošković Uzeir - 1/1;
+3. parcela br.5003/12 livada II klase, površine 6531 m2, LN br. 4820 KO Pljevlja vlasništvo: Selmanović Adnan - 1/14, Selmanović Dženan - 1/14, Hadžihasanović Dževahira - 1/7; Selmanović Emir - 1/14, Selmanović Erdin - 1/28, Selmanović Rabija - 1/7, Hadžiredžepović Jasminka -1/28, Selmanović Kenan - 1/28, Selmanović Mehmed - 1/14, Selmanović Nerdžad - 1/28 i Selmanović Zilha - 1/7;
+4. dio parcele br. 5003/13 , livada II klase, površine 3680 m2 i parcele br.5003/16 livada II klase, površine 4251 m2, LN 2186 KO Pljevlja vlasništvo: Bralić Dario - ¼;
+5. parcela br. 5003/14, LN br.717 KO Pljevlja, livada II klase, površine 5540 m2, vlasništvo: Crnovršanin Hatidža - ¼, Vlahovljak Mujo - ¼ I Vlahovljak Mustafa- ½.
