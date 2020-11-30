@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom propisuje se minimala suma osiguranja od profesionalne odgovornosti članova Komisije za reviziju idejnog projekta obilaznice oko Budve i glavnog projekta središnje dionice obilaznice oko Budve na trasi Brze saobraćajnice duž crnogorskog primorja za štetu koja može da nastane investitorima ili trećim licima od vršenja njihove djelatnosti, kao i visina naknade za rad te Komisije.
