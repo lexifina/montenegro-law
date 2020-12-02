@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 1 tačka 16 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20), člana 101 stav 2 Statuta opštine Tuzi ("Službeni list CG - Opštinski propisi", broj 24/19, 05/20), a u vezi sa članom 26 stav 5 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 12/18, 39/18, 42/18, 34/19), predsjednik Opštine Tuzi, donio je
+ODLUKU
