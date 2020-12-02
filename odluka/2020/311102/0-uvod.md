@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 19 i člana 58 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" broj 2/18, 34/19 i 38/20), člana 36 stav 1 tačka 21, a saglasno članu 101 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi" broj 37/19) i Odluke o određivanju broja potpredsjednika Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi" broj 37/12 i 36/19), Skupština Opštine Kotor na III sjednici održanoj 24.11. 2020. godine, donijela je
+ODLUKU
