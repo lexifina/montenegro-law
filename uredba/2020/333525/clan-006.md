@@ -1,0 +1,13 @@
+# Član 6
+## Značenje izraza
+Izrazi upotrijebljeni u ovoj uredbi imaju sljedeća značenja:
+1) organ je državni organ, organ državne uprave, državna agencija, državni fond i drugi nosilac javnih ovlašćenja koji registre i evidencije iz okvira svoje nadležnosti vodi u elektronskoj formi i upravlja svojim informacionim sistemom;
+2) drugi subjekat je organ lokalne samouprave, organ lokalne uprave, posebna ili javna služba u smislu zakona kojim se uređuje lokalna samouprava, nezavisno ili regulatorno tijelo koje ne spada u organe, a koji registre i evidencije iz okvira svoje nadležnosti vodi u elektronskoj formi i upravlja svojim informacionim sistemom;
+3) sopstveni podatak je podatak koji je organ unio u elektronski registar koji vodi, odnosno u informacioni sistem kojim upravlja, u skladu sa zakonom propisanim nadležnostima;
+4) web servis je softverska komponenta koja omogućava programsko povezivanje softvera i prenos podataka koji je realizovan na različitim platformama putem interneta ili lokalne mreže;
+5) obrađivač je zaposleni u organu, odnosno drugom subjektu koga starješina, odnosno odgovorno lice u organu, odnosno drugom subjektu ovlasti da organu državne uprave nadležnom za razvoj informacionog društva i elektronske uprave, dostavlja podatke o elektronskim registrima i informacionim sistemima tog organa, odnosno drugog subjekta, podnosi prijave web servisa i prijave za preuzimanje podataka;
+6) kontrolor je zaposleni u organu, odnosno drugom subjektu koga starješina, odnosno odgovorno lice u organu, odnosno drugom subjektu ovlasti da utvrđuje da li postoji pravni osnov za korišćenje podataka i na osnovu toga odobrava ili odbija prijavu za preuzimanje tih podataka iz elektronskih registara, odnosno informacionih sistema;
+7) autentifikacija i autorizacija su mehanizmi utvrđivanja identiteta lica i računara sa kojih se pristupa elektronskim registrima, odnosno informacionim sistemima organa i drugih subjekata;
+8) administrator metaregistra je zaposleni u organu državne uprave nadležnom za razvoj informacionog društva i elektronske uprave koga ministar odredi da evidentira podatke i promjene podataka o elektronskim registrima, odnosno informacionim sistemima organa, odnosno drugih subjekata;
+9) jedinstvena web adresa produkcione krajnje tačke je adresa preko koje organi, odnosno drugi subjekti razmjenjuju podatke preko jedinstvenog informacionog sistema za elektronsku razmjenu podataka;
+10) jedinstvena web adresa testne krajnje tačke je adresa preko koje organi, odnosno drugi subjekti testiraju razmjenu podataka preko jedinstvenog informacionog sistema za elektronsku razmjenu podataka.
