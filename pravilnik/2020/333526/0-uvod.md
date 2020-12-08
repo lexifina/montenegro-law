@@ -1,0 +1,5 @@
+Na osnovu člana 11 stav 17 Zakona o stranim i invazivnim stranim vrstama biljaka, životinja i gljiva ("Službeni list CG", broj 18/19), Ministarstvo održivog razvoja i turizma donijelo je
+PRAVILNIK
+O BLIŽIM USLOVIMA KOJE TREBA DA ISPUNjAVA PRAVNO LICE KOJE PODNOSI
+ZAHTJEV ZA IZDAVANjE DOZVOLE, OBRASCU ZAHTJEVA ZA IZDAVANjE DOZVOLE I OBRASCU DOZVOLE ZA KORIŠĆENjE INVAZIVNE STRANE VRSTE
+KOJA IZAZIVA ZABRINUTOST U CRNOJ GORI I/ILI EVROPSKOJ UNIJI

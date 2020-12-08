@@ -1,0 +1,2 @@
+# Član 6
+Obrazac dozvole za korišćenje invazivne strane vrste koja izaziva zabrinutost u Crnoj Gori i/ili Evropskoj uniji (Obrazac 2) sadrži mjesta za unos podataka o: nosiocu dozvole, broju, datumu izdavanja i periodu važenja dozvole; lokaciji na kojoj će se držati primjerci invazivne strane vrste; primaocu odnosno uvozniku i pošiljaocu odnosno izvozniku invazivne strane vrste; pošiljci invazivne strane vrste; razlogu za prijavu odstupanja i svrsi za koju se izdaje odstupanje i uslovima za dopuštene aktivnosti, kao i ime i potpis lica koje ovjerava dozvolu.
