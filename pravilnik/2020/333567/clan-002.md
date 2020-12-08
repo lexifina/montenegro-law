@@ -1,0 +1,4 @@
+# Član 2
+Pravno lice iz člana 1 ovog pravilnika treba da ima:
+- najmanje jedno zaposleno lice za završenim VII-1 podnivoom Nacionalnog okvira kvalifikacija iz oblasti bioloških nauka, biotehničkog, veterinarskog, poljoprivrednog, biomedicinskog i/ili drugih srodnih područja, sa najmanje tri godine radnog iskustva na poslovima nadzora, sigurnosti i sprovođenja hitnih mjera i mjera iskorjenjavanja invazivnih stranih vrsta koje izazivaju zabrinutost u Crnoj Gori i/ili Evropskoj Uniji;
+- najmanje jedno zaposleno lice za završenim sa IV-1 podnivoom Nacionalnog okvira kvalifikacija (veterinarska, medicinska, poljoprivredna srednja škola-smjer laboratorijski tehničar), koje je obučeno za postupanje sa invazivnim stranim vrstama i primjenu mjera iskorjenjavanja i/ili imaju prethodno iskustvo u primjeni metode uklanjanja i iskorjenjavanja invazivnih stranih vrsta.
