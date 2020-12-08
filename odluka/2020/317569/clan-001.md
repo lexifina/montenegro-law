@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom se utvrđuju uslovi, način i dinamika raspodjele sredstava budžeta Opštine Tuzi za 2020. godinu namijenjenih za poljoprivredu, kroz podršku razvoju tržišne proizvodnje mlijeka, podršku poljoprivrednim proizvođačima za plasman povrtarskih proizvoda, subvenciju za podršku poljoprivrednim proizvođačima (intervencija na tržištu, podrška žetvi strnih žita i podrška poljoprivrednim proizvođačima za plasman ratarskih proizvoda).
