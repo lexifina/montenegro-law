@@ -1,0 +1,5 @@
+# Član 2
+Poslije člana 20a dodaje se novi član 20b "Izvještaj o kvalitetu obavljanja univerzalne poštanske usluge" koji glasi:
+" Univerzalni poštanski operator dužan je da dostavi Agenciji godišnji izvještaj o mjerenju kvaliteta obavljanja univerzalne poštanske usluge, koji je sproveden u skladu sa standardima iz člana 20a ovog Pravilnika, najkasnije do 31. marta tekuće za prethodnu godinu, kao i da ga objavi na svojoj internet stranici.
+Agencija može, u cilju provjere rezultata mjerenja navedenih u izvještaju iz stava 1, obaviti reviziju sprovedenog mjerenja i rezultata iz izvještaja. Za reviziju sprovedenih mjerenja i rezultata iz izvještaja Agencija može angažovati nezavisnu instituciju.
+Ukoliko Agencija utvrdi da izvještaj nije sačinjen u skladu sa standardima iz člana 21 ili se revizijom od strane nezavisne institucije utvrdi da rezultati mjerenja nijesu dobijeni na propisani način, Agencija će zatražiti od univerzalnog poštanskog operatora da u roku od trideset dana dostavi izmijenjeni Izvještaj."

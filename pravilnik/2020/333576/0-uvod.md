@@ -1,0 +1,2 @@
+Agencija za elektronske komunikacije i poštansku djelatnost, na osnovu člana 72 stav 6, a u vezi člana 61 Zakona o poštanskim uslugama ("Službeni list CG", br. 57/11, 55/16 i 55/18), člana 14 Zakona o elektronskim komunikacijama ("Službeni list CG" br. 40/13, 56/13, 02/17 i 49/19) i čl. 9 i 16 Statuta Agencije za elektronske komunikacije i poštansku djelatnost, na sjednici Savjeta Agencije održanoj 19.11.2020. godine, donosi
+PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O BLIŽIM USLOVIMA ZA
