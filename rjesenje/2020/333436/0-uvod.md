@@ -1,0 +1,5 @@
+Na osnovu člana 49 Uredbe o organizaciji i načinu rada državne uprave ("Službeni list CG", broj 118/20), ministarka zdravlja donijela je
+R J E Š E Nj E
+O OBRAZOVANjU NEZAVISNOG STRUČNOG TIJELA ZA SPROVOĐENjE AKTIVNOSTI NA ODSTRANjIVANjU I
+ISKORJENjIVANjU ZARAZNE BOLESTI IZAZVANE NOVIM KORONAVIRUSOM COVID-19 NA TERITORIJI
+CRNE GORE
