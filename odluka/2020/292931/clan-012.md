@@ -1,0 +1,14 @@
+# Član 12
+Sekretarijat za inspekcijske poslove vrši poslove koji se odnose:
+1) praćenje i sprovođenje zakona i propisa donesenih na osnovu zakona i opštinskih odluka u oblastima u kojima vrši inspekcijski i komunalni nadzor; iniciranje njihovih izmjena i dopuna i izjašnjavanje na nacrte i predloge zakona i drugih propisa u oblastima u kojima vrši inspekcijski i komunalni nadzor i obezbjeđuje komunalni red, i u drugim oblastima u vezi sa radom sekretarijata; 2) vršenje inspekcijskog nadzora u oblasti komunalnih djelatnosti i pružanja komunalnih usluga, vodoprivede, turizma, postavljanja ili građenja privremenih objekata, pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom; stanovanja u stambenim zgradama; držanja kućnih ljubimaca; zaštite od buke u životnoj sredini; upotrebe simbola opštine, kao i u drugim oblastima u kojima opština vrši sopstvene poslove ili prenesene, odnosno povjerene poslove iz nadležnosti državne uprave, u skladu sa zakonom;
+3) vrši inspekcijski nadzor nad privremenim korišćenjem javnih površina i gradskog građevinskog zemljišta, radom ugostiteljskih objekata, ljetnjih bašti i zaštiti od buke u skladu sa zakonom i odlukama nadležnih organa lokalne uprave;
+4) vrši poslove inspekcijskog nadzora iz nadležnosti lokalne uprave koji se odnose na prevoz lica i stvari u drumskom saobraćaju;
+5) vrši inspekcijski nadzor nad izgradnjom, rekonstrukcijom, korišćenjem, održavanjem, zaštitom i upravljanjem vodnim objektima i sistemima u skladu sa zakonom i odlukama skupštine opštine; 6) vrši inspekcijski nadzor nad izgradnjom, rekonstrukcijom, korišćenjem, održavanjem, zaštitom i upravljanjem opštinskim putevima u skladu sa zakonom i drugim propisima;
+7) izdavanje prekršajnih naloga, odnosno podnošenje zahtjeva za pokretanje prekršajnog postupka iz oblasti iz svoje nadležnosti, kao i podnošenje krivičnih prijava;
+8) vrši monitoring u oblasti građenja i uređenja prostora i ostvaruje saradnju sa organima državne uprave nadležnim za ovu oblast u skladu sa zakonom;
+9) priprema informativnih i drugih stručnih materijala iz svoje nadležnosti za skupštinu, predsjednika opštine i organe lokalne uprave;
+10) pripremu informacija o planiranim i realizovanim aktivnostima organa i njihovo dostavljanje nadležnoj službi radi objavljivanja u medijima;
+11) objavljivanje opštih i drugih akata u skladu sa zakonom kojim se uređuje lokalna samouprava; 12) pripremu izvještaja o postupanju u upravnim stvarima iz svoje nadležnosti;
+13) pripremu izvještaja o stanju u oblastima u kojima vrši inspekcijski nadzor, kao i pripremu informativnih i drugih stručnih materijala za Skupštinu, predsjednika opštine i organe uprave iz svog djelokruga;
+14) upravni postupak za slobodan pristup informacijama iz svog djelokruga;
+15) drugi poslovi iz svog djelokruga, u skladu sa zakonom, odlukama skupštine i predsjednika opštine.
