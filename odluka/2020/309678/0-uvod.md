@@ -1,0 +1,2 @@
+Na osnovu člana 38 st. 1 tač. 2 Zakona o lokalnoj samoupravi Crne Gore ("Službeni list Crne Gore", br. 002/18 i 034/19) i člana 46 st. 1 tač. 2 Statuta Opštine u okviru Glavnog grada-Golubovci ("Službeni list Crne Gore-Opštinski propisi", br. 012/19 i 034/19), Skupština Opštine u okviru Glavnog grada- Golubovci, na XV sjednici održanoj dana 04.12.2020. godine, donijela je
+ODLUKU O DOPUNAMA POSLOVNIKA SKUPŠTINE OPŠTINE U OKVIRU GLAVNOG GRADA-GOLUBOVCI
