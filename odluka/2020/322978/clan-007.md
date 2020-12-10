@@ -1,0 +1,2 @@
+# Član 7
+Osnovne obaveze izabranog ponudjača, koje moraju biti utvrdjene ugovorom iz člana 6 su: -Isplata stredstava za kupovinu parcele u ugovorenom roku, -Izgradnja objekta na parceli koja je predmet prodaje u svemu prema Detaljnom urbanističkom planu Žabljak ("Sl.list CG - Opštinski propisi", br. 47/18), -Izgradnja objekta u svemu prema dostavljenoj ponudi u obimu investicije i rokovima iz ponude -Obaveza držanja dijela objekta namijenjenog za autobusku stanicu u funkciji, u svemu prema propisima koji regulišu oblast drumskog saobraćaja.
