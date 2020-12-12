@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_minim_popisu_usluga_za_drustvo_primaoca_116-20.pdf",
+  "title": "Odluka o minimalnom popisu usluga, prostora i opreme potrebnih za efikasno obavljanje poslova prenesenih sa kreditne institucije u sanaciji na društvo primaoca",
+  "source_sha256": "e56c62bf4acb4f2d5a9600cc777149eec1168e2a6740cce3b0f8049e06d8f2b6",
+  "source_bytes": 378522,
+  "pages": 3,
+  "source_images": 0,
+  "gazette_issue": "116/2020",
+  "publication_date": "2020-12-04",
+  "publication_evidence": {
+    "issue": "116/2020",
+    "date": "2020-12-04",
+    "quote": "116/20 od 04.12.2020",
+    "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_metod_i_kriter_za%20utvrdj_iznosa_obaveza_iz_derivata_prec_tekst_10-26.pdf",
+    "source_sha256": "e436c3783cf0e294826a79f40604ef9c79a5b4af21585d54994bd0be3ae7ff0a"
+  },
+  "commencement_quote": "Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“, a primjenjivaće se od dana početka primjene Zakona o sanaciji kreditnih institucija („Službeni list CG“, broj 72/19).",
+  "date": "2020-12-12",
+  "basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“, a primjenjivaće se od dana početka primjene Zakona o sanaciji kreditnih institucija („Službeni list CG“, broj 72/19).\"; Gazette 116/2020 publication on 2020-12-04 stated as \"116/20 od 04.12.2020\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_metod_i_kriter_za%20utvrdj_iznosa_obaveza_iz_derivata_prec_tekst_10-26.pdf.",
+  "comparison_mode": "exact body and annex character sequences; signature character inventory equal",
+  "text_sha256": "351fe8ebef7386c16f031d65b7ee755e6f06b3ce1588f99fecfa1281c0625dbb",
+  "word_count": 633,
+  "official_numbers": [
+    "0101-7151-4/2020"
+  ],
+  "path": "odluka/2020/0101-7151-4-2020",
+  "kind": "as-enacted",
+  "issuer": "Centralna banka Crne Gore",
+  "text_status": "as-enacted",
+  "in_force": "2020-12-12",
+  "in_force_basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“, a primjenjivaće se od dana početka primjene Zakona o sanaciji kreditnih institucija („Službeni list CG“, broj 72/19).\"; Gazette 116/2020 publication on 2020-12-04 stated as \"116/20 od 04.12.2020\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_metod_i_kriter_za%20utvrdj_iznosa_obaveza_iz_derivata_prec_tekst_10-26.pdf.",
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "complete": true,
+  "first_law": null,
+  "source_listing": "https://www.cbcg.me/me/o-nama/regulativa/podzakonski-akti",
+  "related_pis_candidates": [
+    390685
+  ],
+  "official_number": "0101-7151-4/2020",
+  "official_number_quote": "O.br. 0101-7151-4/2020",
+  "line_endings": "LF",
+  "current_text_asserted": false,
+  "related_official_versions": [],
+  "version_note": "Text as enacted; linked amendments and consolidated copies are separate records and are not applied to this text."
+}
