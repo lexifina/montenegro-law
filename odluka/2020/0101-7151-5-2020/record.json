@@ -1,0 +1,57 @@
+{
+  "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_bliza_sadrzina_plana_reorg_posl_kred_inst_u_sanaciji_116-20.pdf",
+  "title": "Odluka o bližoj sadržini plana reorganizacije poslovanja kreditne institucije u sanaciji i načinu izvještavanja o sprovođenju tog plana",
+  "source_sha256": "6e20a714b1016584fd66bd3c424de296d9e873665952536b6feeb8bfb6319a42",
+  "source_bytes": 406163,
+  "pages": 5,
+  "source_images": 0,
+  "gazette_issue": "116/2020",
+  "publication_date": "2020-12-04",
+  "publication_evidence": {
+    "issue": "116/2020",
+    "date": "2020-12-04",
+    "quote": "116/20 od 04.12.2020",
+    "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_metod_i_kriter_za%20utvrdj_iznosa_obaveza_iz_derivata_prec_tekst_10-26.pdf",
+    "source_sha256": "e436c3783cf0e294826a79f40604ef9c79a5b4af21585d54994bd0be3ae7ff0a"
+  },
+  "commencement_quote": "Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“, a primjenjivaće se od dana početka primjene Zakona o sanaciji kreditnih institucija („Službeni list CG“, broj 72/19).",
+  "date": "2020-12-12",
+  "basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“, a primjenjivaće se od dana početka primjene Zakona o sanaciji kreditnih institucija („Službeni list CG“, broj 72/19).\"; Gazette 116/2020 publication on 2020-12-04 stated as \"116/20 od 04.12.2020\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_metod_i_kriter_za%20utvrdj_iznosa_obaveza_iz_derivata_prec_tekst_10-26.pdf.",
+  "comparison_mode": "exact body and annex character sequences; signature character inventory equal",
+  "text_sha256": "772e0419c927c84e2d781db700191add327f923d47bffeaac938e906b662769f",
+  "word_count": 1746,
+  "official_numbers": [
+    "0101-7151-5/2020"
+  ],
+  "path": "odluka/2020/0101-7151-5-2020",
+  "kind": "as-enacted",
+  "issuer": "Centralna banka Crne Gore",
+  "text_status": "as-enacted",
+  "in_force": "2020-12-12",
+  "in_force_basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“, a primjenjivaće se od dana početka primjene Zakona o sanaciji kreditnih institucija („Službeni list CG“, broj 72/19).\"; Gazette 116/2020 publication on 2020-12-04 stated as \"116/20 od 04.12.2020\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_metod_i_kriter_za%20utvrdj_iznosa_obaveza_iz_derivata_prec_tekst_10-26.pdf.",
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "complete": true,
+  "first_law": null,
+  "source_listing": "https://www.cbcg.me/me/o-nama/regulativa/podzakonski-akti",
+  "related_pis_candidates": [
+    390671
+  ],
+  "official_number": "0101-7151-5/2020",
+  "official_number_quote": "O.br. 0101-7151-5/2020",
+  "line_endings": "LF",
+  "current_text_asserted": false,
+  "related_official_versions": [
+    {
+      "title": "Odluka o bližoj sadržini plana reorganizacije poslovanja kreditne institucije u sanaciji i načinu izvještavanja o sprovođenju tog plana",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_blizoj_sadrzini_plana_reorg_posl_ki_u_sanaciji_i_nacinu_izvjest_o_sprov_tog_plana_prec_tekst_10-26.pdf",
+      "source_context": "- Odluka o bližoj sadržini plana reorganizacije poslovanja kreditne institucije u sanaciji i načinu izvještavanja o sprovođenju tog plana („Sl. list Crne Gore“ br. 116/20, 10/26) - Neslužbeni prečišćeni tekst"
+    },
+    {
+      "title": "Odluka o izmjeni Odluke o bližoj sadržini plana reorganizacije poslovanja kreditne institucije u sanaciji i načinu izvještavanja o sprovođenju tog plana",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/izmjena_odluke_o_blizoj_sadrzini_plana_reorg_posl_ki_u_sanaciji_i_nacinu_izvjest_o_sprov_tog_plana_10-26.pdf",
+      "source_context": "Odluka o izmjeni Odluke o bližoj sadržini plana reorganizacije poslovanja kreditne institucije u sanaciji i načinu izvještavanja o sprovođenju tog plana („Sl. list Crne Gore“ br. 10/26)"
+    }
+  ],
+  "version_note": "Text as enacted; linked amendments and consolidated copies are separate records and are not applied to this text."
+}
