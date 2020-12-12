@@ -1,0 +1,57 @@
+{
+  "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_blizoj_sadrzini_planova_sanacije_ki_i_planova_sanacije_za_grupu_116-20.pdf",
+  "title": "Odluka o bližoj sadržini planova sanacije kreditnih institucija i planova sanacije za grupu",
+  "source_sha256": "47a0d03662a0cdb2056bb8043e2349a8032b0a268ff94d6f3e8638311a28a1c8",
+  "source_bytes": 386485,
+  "pages": 4,
+  "source_images": 0,
+  "gazette_issue": "116/2020",
+  "publication_date": "2020-12-04",
+  "publication_evidence": {
+    "issue": "116/2020",
+    "date": "2020-12-04",
+    "quote": "116/20 od 04.12.2020",
+    "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_metod_i_kriter_za%20utvrdj_iznosa_obaveza_iz_derivata_prec_tekst_10-26.pdf",
+    "source_sha256": "e436c3783cf0e294826a79f40604ef9c79a5b4af21585d54994bd0be3ae7ff0a"
+  },
+  "commencement_quote": "Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“, a primjenjivaće se od dana početka primjene Zakona o sanaciji kreditnih institucija („Službeni list CG“, broj 72/19).",
+  "date": "2020-12-12",
+  "basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“, a primjenjivaće se od dana početka primjene Zakona o sanaciji kreditnih institucija („Službeni list CG“, broj 72/19).\"; Gazette 116/2020 publication on 2020-12-04 stated as \"116/20 od 04.12.2020\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_metod_i_kriter_za%20utvrdj_iznosa_obaveza_iz_derivata_prec_tekst_10-26.pdf.",
+  "comparison_mode": "exact body and annex character sequences; signature character inventory equal",
+  "text_sha256": "e36d4ce6ad47f70b18dc458965e5fc7f8942ad4cef7aa118cd2349dafce10004",
+  "word_count": 1022,
+  "official_numbers": [
+    "0101-7151-7/2020"
+  ],
+  "path": "odluka/2020/0101-7151-7-2020",
+  "kind": "as-enacted",
+  "issuer": "Centralna banka Crne Gore",
+  "text_status": "as-enacted",
+  "in_force": "2020-12-12",
+  "in_force_basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“, a primjenjivaće se od dana početka primjene Zakona o sanaciji kreditnih institucija („Službeni list CG“, broj 72/19).\"; Gazette 116/2020 publication on 2020-12-04 stated as \"116/20 od 04.12.2020\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_metod_i_kriter_za%20utvrdj_iznosa_obaveza_iz_derivata_prec_tekst_10-26.pdf.",
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "complete": true,
+  "first_law": null,
+  "source_listing": "https://www.cbcg.me/me/o-nama/regulativa/podzakonski-akti",
+  "related_pis_candidates": [
+    390686
+  ],
+  "official_number": "0101-7151-7/2020",
+  "official_number_quote": "O.br. 0101-7151-7/2020",
+  "line_endings": "LF",
+  "current_text_asserted": false,
+  "related_official_versions": [
+    {
+      "title": "Odluka o bližoj sadržini planova sanacije kreditnih institucija i planova sanacije za grupu",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_blizoj_sadrzini_planova_sanacije_ki_i_planova_sanacije_za_grupu_prec_tekst_132-25.pdf",
+      "source_context": "- Odluka o bližoj sadržini planova sanacije kreditnih institucija i planova sanacije za grupu („Sl. list Crne Gore“ br. 116/20 i 132/25) - Neslužbeni prečišćeni tekst"
+    },
+    {
+      "title": "Odluka o izmjeni i dopuni Odluke o bližoj sadržini planova sanacije kreditnih institucija i planova sanacije za grupu",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/izmjene_dopune_odluke_o_blizoj_sadrzini_planova_sanacije_ki_i_planova_sanacije_za_grupu_132-25.pdf",
+      "source_context": "Odluka o izmjeni i dopuni Odluke o bližoj sadržini planova sanacije kreditnih institucija i planova sanacije za grupu („Sl. list Crne Gore“ br. 132/25)"
+    }
+  ],
+  "version_note": "Text as enacted; linked amendments and consolidated copies are separate records and are not applied to this text."
+}
