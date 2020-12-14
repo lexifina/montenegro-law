@@ -1,0 +1,2 @@
+Na osnovu člana 58 Statuta Opštine Ulcinj ( "Službeni list CG"- Opštinski propisi broj 48/19) i člana 9 Odluke o obrazovanju radnih tijela Skupštine Opštine ("Službeni list CG"- Opštinski propisi broj 17/08 i 37/14), Skupština Opštine na sjednici održanoj dana 14.12.2020 godine, donijela je
+RJEŠENJE O IZMJENAMA I DOPUNAMA RJEŠENJE O OBRAZOVANJU ODBORA ZA STATUT I PROPISE SKUPŠTINE OPŠTINE ULCINJ
