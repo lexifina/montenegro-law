@@ -1,0 +1,9 @@
+Na osnovu člana 28 stav 1 tačka 1, člana 38 stav 1 tačka 9 i člana 44 stav 1 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19 i 38/20), člana 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", br.21/09 i 40/11) a u vezi sa članom 194, 199, 201, 206 i 216 Zakona o svojinsko pavnim odnosima Crne Gore ("Službeni list CG", br. 19/09 ) i člana 44 stav 9 Statuta Opštine Budva ("Službeni list CG-Opštinski propisi", br. 02/19) Skupština opštine Budva, na sjednici održanoj 15. decembra 2020.godine, donijela je
+RJEŠENJE
+o davanju saglasnosti za zasnivanje stvarne službenosti na neodređeno vrijeme na dijelu kat.parcela broj 570/2 i 1467 KO Bečići
+1. Opština Budva, kao nosilac prava raspolaganja, daje saglasnost za zasnivanje stvarne službenosti na dijelu katastarskih parcela 570/2 i 1467 obje KO Bečići, radi postavljanja energetskog kabla za objekat investitora Olge Marković izgrađen na kat.parceli 577/5 KO Bečići.
+Na ovaj način bi se obezbjedio trajno priključenje na elektrodistributivnu mrežu.
+2. Službenost prolaza uz člana 1 ovog rješenja, ustanovljava se bez naknade.
+3. Sekretarijat za komunalno stambene poslove Opštine Budva donio je Rješenje br.07-U-159/3 od 11.03.2019.godine kojim je dozvoljeno prekopavanje javne površine za vrijeme izvođenja radova na postavljanju elektro kabla u trupu ulice Velja maslina i ulice Druga maslina, u naselju Bečići u dužini od ukupno 150 m.
+4. Ovlašćuje se predsjednik Opštine Budva da u ime Opštine Budva pred izabranim notarom, po uslovima iz ovog rješenja, zaključi ugovor o zasnivanju stvarne službenosti na neodređeno vrijeme sa Olgom Marković, koja ostvareno pravo može prenijeti u korist "CEDIS" doo Podgorica bez posebne saglasnosti Opštine Budva .
+5. Rješenje o davanju saglasnosti stupa na snagu danom donošenja, a biće objavljeno u " Službenom listu Crne Gore-Opštinski propisi".
