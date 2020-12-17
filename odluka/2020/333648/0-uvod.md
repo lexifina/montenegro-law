@@ -1,0 +1,2 @@
+Na osnovu člana 82 tačka 3 Ustava Crne Gore i čl. 35 i 36 Poslovnika Skupštine Crne Gore ("Službeni list RCG", br. 51/06 i 66/06 i "Službeni list CG", br. 88/09, 80/10, 39/11, 25/12, 49/13, 32/14, 42/15, 52/17, 17/18, 47/19 i 112/20), Skupština Crne Gore 27. saziva na Trećoj sjednici Drugog redovnog (jesenjeg) zasijedanja u 2020. godini, dana 17. decembra 2020. godine, donijela je
+O D L U K U O IZBORU PREDSJEDNIKA I ČLANOVA STALNIH ODBORA SKUPŠTINE CRNE GORE 27. SAZIVA
