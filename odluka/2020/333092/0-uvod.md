@@ -1,0 +1,2 @@
+Na osnovu čl. 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list CG" broj 2/18), čl. 29 stav 2 Zakona o državnoj imovini ("Sl. list CG" broj 21/09 i 40/11), čl. 40 stav 1 tačka 9 Statuta opštine Pljevlja ("Sl. list CG - Opštinski propisi" br.46/18) i Odluke Vlade Crne Gore o davanju prethodne saglasnosti Opštini Pljevlja za otuđenje nepokretnosti broj 07-3156 od 18.06.2020.godine ("Sl.list CG" broj 67/20), Skupština opštine Pljevlja, na sjednici održanoj dana: 08. i 09. 12.2020. god.godine, donijela je:
+O D L U K U

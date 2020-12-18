@@ -1,0 +1,2 @@
+# Član 2
+Prodaja nepokretnosti iz člana 1 ove Odluke izvšiće se na osnovu prikupljenih ponuda, po javnom pozivu koji će objaviti Direkcija za imovinu opštine Pljevlja u jednom dnevnom listu i na internet stranici Opštine Pljevlja.
