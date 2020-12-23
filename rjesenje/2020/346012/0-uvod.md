@@ -1,0 +1,2 @@
+Na osnovu člana 34 tačka 22 Statuta Opštine Herceg Novi ( ''Sl.list CG-Opštinski propisi'' broj: 01/19, 37/19, 06/20) a u vezi člana 5 stav 2 Odluke o osnivanju Turističke organizacije Opštine Herceg Novi ("Sl.list RCG-Opštinski propisi" broj: 02/05, ,,Službeni list Crne Gore - Opštinski propisi'', br.14/18,06/20), Skupština opštine Herceg Novi, na sjednici održanoj 23.12.2020.godine, donijela je
+R J E Š E NJ E
