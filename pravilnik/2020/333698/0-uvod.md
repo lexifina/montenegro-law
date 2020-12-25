@@ -1,0 +1,4 @@
+Na osnovu člana 49a Carinskog zakona ("Službeni list RCG", br. 7/02, 38/02, 72/02, 21/03, 31/03, 29/05, 66/06 i "Službeni list CG", br. 21/08 i 62/13), Ministarstvo finansija i socijalnog staranja donijelo je
+PRAVILNIK O IZMJENI PRAVILNIKA O POSEBNIM MJERAMA CARINSKOG NADZORA I
+CARINSKOM POSTUPKU ZA ROBE KOJE SE KORISTE ZA SNABDIJEVANjE
+PREVOZNIH SREDSTAVA U MEĐUNARODNOM SAOBRAĆAJU
