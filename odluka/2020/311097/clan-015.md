@@ -1,0 +1,2 @@
+# Član 15
+Neprihvatljivi troškovi su: kupovina nepokretnosti, zakup poslovnog prostora, zarade zaposlenih, kazne i parnični troškovi, carine i uvozni troškovi, dugovi i pokriće gubitaka, kamate, režijski troškovi (električna energija, voda, PTT i komunalne usluge), kupovina telefonskih i mobilnih uređaja, najam/leasing vozila i opreme, studije, istraživanja, edukacije, dnevnice osoblja i službena putovanja, razne takse i naknade.
