@@ -1,0 +1,2 @@
+Na osnovu člana 4 stav 2 tačka 3 i 4 Zakona o državnoj imovini ("Sl. list CG", br. 21/09 i 40/11), člana 27 stav 1 tačka 16 i člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19 i 38/20), člana 46 stav 1 tačka 9 Statuta Opštine Rožaje ("Sl. list CG-opštinski propisi", br. 38/18) i člana 2 Odluke o Budžetu opštine Rožaje za 2020. godinu ("Sl. list CG-opštinski propisi", br. 054/19 ), Skupština opštine Rožaje, na sjednici održanoj dana 03.12.2020.godine, donijela je
+O D L U K U
