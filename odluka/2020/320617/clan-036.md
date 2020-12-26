@@ -1,0 +1,2 @@
+# Član 36
+Predsjednik vrši nadzor nad radom organa i službi lokalne uprave, usmjerava i usklađuje djelovanje organa i službi lokalne uprave u obavljanju poslova iz njihovog djelokruga radi efikasnijeg ostvarivanja njihovih funkcija.
