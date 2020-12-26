@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 i člana 32 Zakona o državnoj imovini ("Službeni list Crne Gore", broj 21/09 i 40/11), u vezi sa članovima 194, 201, 202, 208 i 216 Zakona o svojinsko-pravnim odnosima ("Službeni list Crne Gore", broj 19/09), člana 38 stav 1 tačka 9 Zаkоnа о lоkаlnој sаmоuprаvi ("Službeni list Crne Gore", broj 2/18, 34/19 i 38/20), člana 36 stav 1 tačka 9 i člana 39 Statuta Opštine Mojkovac ("Službeni list Crne Gore - Opštinski propisi", broj 29/18), Skupština opštine Mojkovac, na śednici održanoj 7. decembra 2020. godine, donijela je
+ODLUKU
+o uspostavljanja službenosti za potrebe DOO "Crnogorski elektrodistributivni sistem" - Podgorica, radi postavljanja podzemnih kablovskih vodova u Mojkovcu i polaganja uzemljenja trafostanice TS 10/04 kV "Vatrogasni dom"

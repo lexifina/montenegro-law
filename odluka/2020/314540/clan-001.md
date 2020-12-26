@@ -1,0 +1,11 @@
+# Član 1
+Daje se saglasnost za uspostavljanje službenosti radi postavljanja dijela 10 Kv podzemnog kablovskog voda od RP Mojkovac do UZ stuba u trasi DV Slatina Mojkovac prema geodetskom Elaboratu nepotpune eksproprijacije broj 201/2018 od 26. septembra 2018. godine, koji je urađen od strane "Geo max group" D.O.O. iz Podgorice i ovjeren od strane Uprave za nekretnine Crne Gore i to na sljedećim katastarskim parcelama:
+- katastarska parcela broj 361/2, LN br. 102, KO Mojkovac u dužini od 0,95 m, širina rova 0,6 m, ukupna površina 4 m2; - katastarska parcela broj 361/4, LN br. 102, KO Mojkovac u dužini od 27,82 m, širina rova 0, 6 m, ukupna površina 14 m2;
+- katastarska parcela broj 361/5, LN broj 102, KO Mojkovac u dužini od 23,04 m, širina rova 0,60 m, ukupna površina 11 m2;
+- katastarska parcela broj 361/6, LN broj 102, KO Mojkovac u dužini od 3,25 m, širina rova 0, 60 m, ukupna površina 5 m2; - katastarska parcela broj 349/1, LN broj 101, KO Mojkovac u dužini od 3,09 m, širina rova 0, 60 m, ukupna površina 2 m2; - katastarska parcela broj 351/5, LN broj 101, KO Mojkovac u dužini od 12,13 m, širina rova 0, 60m, ukupna površina 7 m2;
+- katastarska parcela broj 351/11, LN broj 101, KO Mojkovac u dužini od 16,80 m, širina rova 0, 60 m, ukupna površina 10 m2;
+- katastarska parcela broj 783 KO, LN broj 101, Mojkovac u dužini od 101,76 m, širina rova 0, 60 m, ukupna površina 60 m2;
+- katastarska parcela broj 351/10, LN broj 101, KO Mojkovac u dužini od 5,45 m, širina rova 0,60 m, ukupna površina 4 m2;
+- katastarska parcela broj 1462, LN broj 101, KO Mojkovac u dužini od 32,06 m, širina rova 0, 60 m, ukupna površina 19 m2.
+Nepokretnosti iz stava 1 ovog člana su upisane kao svojina države Crne Gore u obimu prava 1/1, subjekt raspolaganja Opština Mojkovac u obimu prava 1/1.
+Službenost iz stava 1 ovog člana će se zasnovati uz naknadu po procjeni iz Nalaza i mišljenja komisije broj 01-1675 od 25. septembra 2019. godine, a kada se postavljanje kablovskih vodova i uzemljenja vrši u putu i putnom pojasu, naknada za postavljanje će se vršiti u skladu sa Odlukom o korišćenju i naknadi za korišćenje puta i putnog zemljišta pored opštinskih i nekategorisanih puteva ("Službeni list Crne Gore - opštinski propisi", broj 32/11, 26/13, 33/14, 4/15, 10/15, 37/16, 50/16 i 19/17).

@@ -1,0 +1,6 @@
+# Član 4
+Daje se saglasnost za uspostavljanje službenosti radi polaganja uzemljenja trafostanice TS 10/04 kV "Vatrogasni dom", shodno Urbanističko tehničkim uslovima broj 09/2/352/17/39/1405 od 18. avgusta 2017. godine, izdatih od Sekretarijata za uređenje prostora i održivi razvoj Opštine Mojkovac, prema geodetskom Elaboratu nepotpune eksproprijacije broj 11/19 od 28. januara 2019. godine, koji je urađen od strane "Geo max group" D.O.O. iz Podgorice i ovjeren od strane Uprave za nekretnine Crne Gore i to na sljedećim katastarskim parcelama:
+- na dijelu katastarske parcele broj 351/4 KO Mojkovac u površini od 3 m2;
+- na dijelu katastarske parcele broj 353/1 KO Mojkovac u površini od 15 m2.
+Nepokretnosti iz stava 1 ovog člana su upisane kao svojina države Crne Gore u obimu prava 1/1 a subjekt raspolaganja Opština Mojkovac u obimu prava 1/1.
+Službenost iz stava 1 ovog člana će se zasnovati uz naknadu po procjeni iz Nalaza i mišljenja komisije broj 01-1675 od 25. septembra 2019. godine, a kada se postavljanje kablovskih vodova i uzemljenja vrši u putu i putnom pojasu, naknada za postavljanje će se vršiti u skladu sa Odlukom o korišćenju i naknadi za korišćenje puta i putnog zemljišta pored opštinskih i nekategorisanih puteva ("Službeni list Crne Gore - opštinski propisi", broj 32/11, 26/13, 33/14, 4/15, 10/15, 37/16, 50/16 i 19/17).

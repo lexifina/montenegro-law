@@ -1,0 +1,7 @@
+# Član 2
+Daje se saglasnost za uspostavljanje službenosti radi izgradnje - polaganja 10 kV kablovskog voda Mojkovac do RP 10 kV "KID - C. Polje" prema geodetskom Elaboratu nepotpune eksproprijacije broj 200/18 od 25. septembra 2018. godine, koji je urađen od strane "Geo max group" D.O.O. iz Podgorice i ovjeren od strane Uprave za nekretnine Crne Gore i to na sljedećim katastarskim parcelama:
+- dio katastarske parcele broj 465/3, LN br. 102, KO Mojkovac u dužini od 19,58 m, širina rova 0,60m, ukupna površina 14 m2;
+- dio katastarske parcele broj 465/4, LN br. 102, KO Mojkovac u dužini od 4,19 m, širina rova 0,60m, ukupna površina 3 m2;
+- dio katastarske parcele broj 369/2, LN br. 104, KO Mojkovac u dužini od 39,55m, širina rova 0,60m, ukupna površina 28 m2.
+Nepokretnosti iz stava 1 ovog člana su upisane kao svojina države Crne Gore u obimu prava 1/1 a subjekt raspolaganja Opština Mojkovac u obimu prava 1/1.
+Službenost iz stava 1 ovog člana će se zasnovati uz naknadu po procjeni iz Nalaza i mišljenja komisije broj 01-1675 od 25. septembra 2019. godine, a kada se postavljanje kablovskih vodova i uzemljenja vrši u putu i putnom pojasu, naknada za postavljanje će se vršiti u skladu sa Odlukom o korišćenju i naknadi za korišćenje puta i putnog zemljišta pored opštinskih i nekategorisanih puteva ("Službeni list Crne Gore - opštinski propisi", broj 32/11, 26/13, 33/14, 4/15, 10/15, 37/16, 50/16 i 19/17).
