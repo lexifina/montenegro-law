@@ -1,0 +1,2 @@
+Na osnovu člana 171 stav 5 Zakona o planiranju prostora i izgradnji objekata ("Sl. list CG", broj 64/17, 44/18, 63/18, 11/19 i 82/20), člana 38 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/18 I 38/20) i člаnа 46 Statuta Opštine Rožaje ("Službeni list CG - opštinski propisi", br. 38/18), Skupština opštine Rožaje, uz prethodnu saglasnost Ministarstva održivog razvoja i turizma, broj 01-35/169 od 05.11.2020.godine, nа sјеdnici оdržаnој dana 03.12.2020. gоdinе, donijela je
+ODLUKU O OBEZBJEĐIVANJU ALTERNATIVNOG SMJEŠTAJA I OSNOVNE ODREDBE
