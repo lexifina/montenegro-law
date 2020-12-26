@@ -1,0 +1,2 @@
+Na osnovu člana 39 Zakona o turističkim organizacijama ("Sl. list RCG", broj 11/04,46/07 i "Sl. list CG", br. 45/14,42/17 i 27/19), člana 38 stav 1 tačke 2 i 8 Zakona o lokalnoj samoupravi ("Sl. list Crne Gore", broj 2/18, 34/19 i 38/20) i člana 36 stav 1 tačke 2 i 8 Statuta opštine Mojkovac ("Službeni list Crne Gore - Opštinski propisi", br. 29/18), Skupština opštine Mojkovac na sjednici održanoj dana 7. decembra 2020. godine, donijela je
+ODLUKU
