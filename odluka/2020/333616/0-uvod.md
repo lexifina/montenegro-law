@@ -1,0 +1,2 @@
+Na osnovu člana 50 stav 3 Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16, 40/19 i 66/19) i člana 12 stav 2 tačka 4 Statuta Regulatorne agencije za energetiku i regulisane komunalne djelatnosti ("Službeni list CG", br. 36/17 i 91/20), uz prethodnu saglasnost Vlade Crne Gore date Zaključkom broj 07-5226 od 27. novembra 2020. godine, Odbor Regulatorne agencije za energetiku i regulisane komunalne djelatnosti na sjednici održanoj 11.12.2020. godine donio je
+ODLUKU O IZNOSU NAKNADE KOJU PLAĆAJU VRŠIOCI REGULISANIH KOMUNALNIH DJELATNOSTI U 2021. GODINI
