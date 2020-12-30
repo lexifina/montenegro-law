@@ -1,0 +1,8 @@
+# Član 1
+Odluka o Budžetu opštine Nikšić za 2021. godinu (u daljem tekstu Budžet) sadrži primitke i izdatke, u iznosu od: 23.500.000,00 €.
+Primici se rasporedjuju na:
+• Rashode Budžeta, u iznosu od .............................. 19.808.000,00 €
+• Otplatu dugova, u iznosu od....................................... 725.820,00 €
+• Tekuća budžetska rezerva.......................................... 450.000,00 €
+• Stalna budžetska rezerva.............................................. 10.000,00 €
+• Otplata obaveza iz ranijih godina............................. 2.506.180,00 €
