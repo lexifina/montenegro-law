@@ -1,0 +1,3 @@
+# Član 2
+Procijenjena vrijednost građevinskog zemljišta iz člana 1 ove odluke iznosi 506,00 eura po 1 m2, shodno procjeni tržišne vrijednosti nepokretnosti Komisije Direkcije za imovinu, broj 13- 460/19-1927 od 20.10.2020.godine, i ista će se u postupku prodaje koristiti kao minimalna cijena.
+Pored naknade za zemljište iz prethodnog stava, obaveza kupca je da Glavnom gradu nadoknadi troškove izvedenih radova na iskopu podrumskog dijela planiranog objekta u iznosu od 1.057.014,00 eura, shodno Nalazu sudskog vještaka i ovlašćenog procjenitelja Marka Radunovića dipl.ing.građ., od 24.12.2020. godine.
