@@ -1,0 +1,2 @@
+Na osnovu člana 30. stav 2,3 i 4. Zakona o finasiranju lokalne samouprave ("Službeni list Crne Gore", br. 03/19), člana 38 Zakona o lokalnoj samoupravi ("Sl. list.CG" br. 02/18, 34/19 i 38/20), člana 37 Zakona o budžetu i fiskalnoj odgovornosti ("Sl. list CG", broj 20/14,56/14,70/17, 04/18,55/18 i 66/19), i člana 33. tačka 7. Statuta opštine Plav ("Službeni list Crne Gore- Opštinski propisi", br. 044/18), Skupština Opštine Plav, na sjednici održanoj 31.12.2020. godine, donosi:
+ODLUKU
