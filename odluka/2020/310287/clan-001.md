@@ -1,0 +1,3 @@
+# Član 1
+## na njenoj teritoriji radi postavljanja privremenih objekata
+Daje se saglasnost opštini Tuzi za sprovođenje postupka davanja u zakup zemljišta na njenoj teritoriji radi postavljanja privremenih objekata za teritoriju opštine Tuzi, u skladu sa Progamom privremenih objekata za teritoriju opštine Tuzi i Odlukom o postavljanju, građenju i uklanjanju privremenih objekata montažnog karaktera na teritoriji opštine Tuzi ("Sl.list Crne Gore - Opštinski propisi", broj 20/20), kao i zaključivanje ugovora o zakupu. Saglasnost se odnosi na lokacije na teritoriji opštine Tuzi koje su na zemljištu koje je u katastarskoj evidenciji upisano na Glavni grad - Podgorica.
