@@ -1,0 +1,50 @@
+# Član 1
+Budžet Opštine Kolašin za 2021. godinu (u daljem tekstu Budžet) sadrži primitke i izdatke u iznosu od:
+4.677.000,00 €.
+IZVORNI PRIHODI
+4.247.000,00
+POREZI
+1.515.000,00
+TAKSE
+47.000,00
+NAKNADE
+864.000,00
+OSTALI PRIHODI
+161.000,00
+DONACIJE I TRANSFERI
+1.660.000,00
+IZDACI
+3.923.000,00
+TEKUĆI IZDACI
+2.703.000,00
+KAPITALNI IZDACI
+1.220.000,00
+SUFICIT/DEFICIT
+324.000,00
+PRIMARNI SUFICIT
+131.445,46
+OTPLATA DUGA
+754.000,00
+NEDOSTAJUĆA SREDSTVA
+-430.000,00
+FINANSIRANJE
+430.000,00
+PRIHODI OD PRODAJE IMOVINE
+20.000,00
+POZAJMICE I KREDITI
+10.000,00
+DEPOZITI
+400.000,00
+Prihodi se raspoređuju na:
+
+Tekuće izdatke u iznosu od:
+3.387.000,00 €
+
+Kapitalne izdatke u iznosu od:
+1.220.000,00 €
+
+Stalnu budžetsku rezervu u iznosu od:
+30.000,00 €
+
+Tekuću budžetsku rezervu u iznosu od:
+40.000,00 €
