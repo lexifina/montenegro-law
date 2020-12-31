@@ -1,0 +1,2 @@
+Na osnovu člana 55 Zakona o komunalnim djelatnostima ("Sl. list CG", br. 55/16,74/16,2/18), člana 38 stav 1 tačka 2 Zаkоnа о lоkаlnој sаmоuprаvi ("Sl. list CG", br. 2/18, 34/19 i 28/20), člana 36 stav 1 tačka 2 Statuta Opštine Mojkovac ( "Sl. list CG-opštinski propisi’’, br. 29/18) i člana 18 i 31 Statuta DOO"Komunalne usluge-Gradac"Mojkovac, i uz prethodnu saglasnost Regulatorne agencije za energetiku i regulisane komunalne djelatnosti, br. 20/3013-19 od 23.11.2020. godine, Skupština opštine Mojkovac, na sjednici održanoj 28. decembra 2020. godine, donijela je
+ODLUKU
