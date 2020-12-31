@@ -1,0 +1,4 @@
+# Član 20
+Novi redovi vožnje u međugradskom prevozu, koji su usklađeni, ovjereni i registrovani za registracioni period u tekućoj godini, dobijaju status "starog reda vožnje" za sljedeći registracioni period, ukoliko su isti održavani u skladu sa propisima kojima se uređuje prevoz putnika u drumskom saobraćaju.
+Novi redovi vožnje u međunarodnom prevozu, koji su usklađeni, ovjereni, registrovani i za koje je izdata dozvola za linijski prevoz putnika u međunarodnom drumskom saobraćaju, dobijaju status "starog reda vožnje" za sljedeći registracioni period, ukoliko su isti održavani u skladu sa propisima kojima se uređuje prevoz putnika u drumskom saobraćaju.
+Za postupak vanrednog usklađivanja redova vožnje u međugradskom linijskom prevozu primjenjuju se odredbe ovih Pravila kojima se uređuje usklađivanje redova vožnje u međugradskom linijskom prevozu putnika.
