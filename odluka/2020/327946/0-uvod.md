@@ -1,0 +1,2 @@
+Na osnovu člana 15 stav 1 Zakona o komunalnim djelatnostima ("Službeni list CG",broj 55/16,74/16, 2/18, 66/19 i 40/19), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18 i 34/19 i 38/20) i člana 58 stav 1 tačka 2 Statuta opštine Ulcinj ("Službeni list CG - Opštinski propisi", broj 48/19), Skupština opštine Ulcinj, na sjednici održanoj 14.12.2020. godine, donijela je
+O D L U K U O JAVNIM PARKIRALIŠTIMA NA TERITORIJI OPŠTINE ULCINJ
