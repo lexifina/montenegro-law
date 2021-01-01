@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se bliži uslovi i način podnošenja zahtjeva za izdavanje dozvole za privremeni boravak i rad radi sezonskog zapošljavanja koji stranac podnosi organu državne uprave nadležnom za unutrašnje poslove, preko diplomatskog, odnosno konzularnog predstavništva Crne Gore u inostranstvu (u daljem tekstu: diplomatsko-konzularno predstavništvo) u državi porijekla stranca, kao i način uručenja te dozvole.

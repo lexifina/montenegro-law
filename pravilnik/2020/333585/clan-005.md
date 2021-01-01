@@ -1,0 +1,2 @@
+# Član 5
+Dokazom o obezbijeđenom smještaju za izdavanje dozvole za privremeni boravak i rad radi sezonskog zapošljavanja smatra se kopija pisane ponude poslodavca da stranac ima obezbijeđen smještaj kod tog poslodavca, odnosno potvrda poslodavca o obezbijeđenom kolektivnom smještaju ili potvrda o smještaju kod privrednog društva ili preduzetnika ili fizičkog lica registrovanog za pružanje usluga smještaja.
