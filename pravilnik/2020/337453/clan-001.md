@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se sadržaj prijave oznake operatora fiskalnog servisa, način uvida u podatke dostavljene organu uprave nadležnom za poslove naplate javnih prihoda (u daljem tekstu: Uprava) i način testiranja korišćenja fiskalnog servisa, način generisanja, dužina i tip zapisa za identifikacioni kod obveznika fiskalizacije, način dostavljanja podataka i način generisanja oznake o poslovnim prostorima u kojima obveznik fiskalizacije obavlja djelatnost i sadržaj jedinstvene identifikacione oznake proizvođača i održavalaca programskog rješenja.

@@ -1,0 +1,6 @@
+Na osnovu člana 8 stav 3, člana 11 stav 5, člana 13 stav 2, člana 14 stav 9 i člana 15 stav 6 Zakona o fiskalizaciji u prometu proizvoda i usluga ("Službeni list CG", br. 46/19 i 73/19), Ministarstvo finansija donijelo je
+PRAVILNIK
+O SADRŽAJU PRIJAVE OZNAKE OPERATERA FISKALNOG SERVISA,
+NAČINU GENERISANJA IDENTIFIKACIONOG KODA OBVEZNIKA
+FISKALIZACIJE I NAČINU DOSTAVLJANJA PODATAKA I GENERISANJA
+OZNAKE O POSLOVNIM PROSTORIMA OBVEZNIKA FISKALIZACIJE
