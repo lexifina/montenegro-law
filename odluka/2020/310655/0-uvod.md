@@ -1,0 +1,3 @@
+Na osnovu člana 39 Statuta Opštine Tivat ("Sl.list Crne Gore" br.24/18, 9/20) Skupština opštine Tivat na sjednici održanoj dana 16.12.2020.godine, donijela je
+O D L U K U
+o stavljanju van snage Odluke br.03-040/20-159 od 11.08.2020.god.
