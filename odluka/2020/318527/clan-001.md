@@ -1,0 +1,3 @@
+# Član 1
+## o rješavanju imovinsko pravnih odnosa između Opštine Tivat i Pravoslavne Mitropolije Crnogorsko primorske putem razmjene zemljišta
+Skupština Opštine Tivat usvojila je 19.03.2012.god. Odluku broj 0304-68 kojom je data saglasnost Opštini Tivat da pristupi realizaciji razmjene zemljišta sa Pravoslavnom Mitropolijom Crnogorsko-primorskom na način što će Opština ustupiti Mitropoliji zemljište oko crkve Sv.spasa radi proširenja groblja i brisanja upisanog tereta viška površine a Mitropolija će ustupiti Opštini zemljište adekvatne površine i kvaliteta na kom je upisana kao vlasnik bez tereta i ograničenja.
