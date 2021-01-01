@@ -1,0 +1,2 @@
+# Član 3
+Nakon izrade projektne dokumentacije i pripadajućeg elaborata o eksproprijaciji i utvrđivanju službenosti, odnosno nakon utvrđivanja javnog interesa za izgradnju komunalne infrastrukture u naselju Kruče, Opština Ulcinj će nepokretnosti kojima raspolaže, a na kojima je planirana izgradnja navedene infrastrukture, u skladu sa Zakonom o državnoj imovini, ustupiti Vladi, o čemu će se donijeti posebna odluka.
