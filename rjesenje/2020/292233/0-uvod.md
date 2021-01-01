@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Sl. List CG" br. 02/18), člana 40 tačka 22 Statuta Opštine Pljevlja ("Sl. List CG - Opštinski propisi" br. 46/18) i Odluke o organizovanju JU Narodna biblioteka "Stevan Samardžić" Pljevlja ("Sl.List CG - opštinski propisi" br.11/11), Skupština Opštine Pljevlja, na sjednici održanoj dana 11.12.2020.godine, donijela je:
+R JEŠENJE O IZMJENAMA I DOPUNAMA RJEŠENJA O IMENOVANJU SAVJETA JU NARODNA BIBLIOTEKA "STEVAN SAMARDŽIĆ" PLJEVLJA
