@@ -1,0 +1,3 @@
+Na osnovu člana 33 stav 1 tačka 8 Statuta Opštine Plužine ("Službeni list Crne Gore - opštinski propisi", broj 39/18), a u vezi sa članom 2 Zakona o lokalnim komunalnim taksama ("Službeni list Crne Gore", broj 18/19), članom 7 stav 1 tačka 4 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", broj 03/19)i članom 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 02/18) i Saglasnost Vlade Crne Gore broj: 07-4944, od 06.11.2020. godine, Skupština opštine Plužine, na sjednici održanoj 16.12.2020. godine donijela je
+ODLUKU
+o lokalnim komunalnim taksama Opštine Plužine
