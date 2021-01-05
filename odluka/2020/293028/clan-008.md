@@ -1,0 +1,2 @@
+# Član 8
+Dinamiku i učestalost sakupljanja komunalnog otpada iz člana 7 stav 1 i članova 9 i 10 ove odluke utvrđuje Sakupljač Planom sakupljanja i odvoza otpada (u daljem tekstu: "Plan"). Plan koji Sakupljač donosi, zavisi od broja i strukture korisnika usluga, ljetnjeg i zimskog perioda, sezone ili drugih faktora koji mogu uticati na količinu proizvedenog komunalnog otpada, o čemu Sakupljač obavještava javnost putem sredstava javnog informisanja, postavljanjem info tabli, obavještenja i slično.
