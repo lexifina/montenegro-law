@@ -1,0 +1,4 @@
+# Član 1
+## o ustupanju bez naknade nepokretnosti u KO Danilovgrad
+Udruženju penzionera Danilovgrad ustupa se kat. parcela br. 421/2 dvorište, površine 312 m2 upisana u listu nepokretnosti br. 104 KO Danilovgrad, svojina Crne Gore - raspolaganje Opštine Danilovgrad i kat. parcela br. 423 površine 151 m² na kojoj se nalazi društvena stambena zgrada br. 1 sa pripadajućim objektima označenim kao nestambeni prostori, PD 1 površine 8 m² i PD 2 površine 8 m² i objektima označenim kao stambeni prostori, PD 3 površine 55 m2 i PD 4 površine 55 m2 upisanih u listu nepokretnosti br. 535 KO Danilovgrad, svojina Crne Gore - raspolaganje Opštine Danilovgrad.
+Kat. parcela br. 421/2 upisana u listu nepokretnosti br. 104 KO Danilovgrad i kat. parcela br. 423 upisana u listu nepokretnosti br. 535 KO Danilovgrad nalaze se u zahvatu DUP-a ,,Danilovgrad Centar" i čine urbanističku parcelu UP 8-02.
