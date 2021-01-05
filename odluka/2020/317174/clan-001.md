@@ -1,0 +1,3 @@
+# Član 1
+## o načinu izmirenja naknade za komunalno opremanje građevinskog zemljišta
+Ovom Odlukom utvrđuje se da investitor, Sindikat bezbjedonosnih institucija Crne Gore za izgradnju objekta na urbanističkim parcelama UP br. 34 i UP br. 35 u zoni "B", blok 1, po DUP-u "Topolica - Bjeliši" izmjene i dopune, naknadu za komunalno opremanje građevinskog zemljišta, umjesto u novcu izmiri ustupanjem u svojinu Opštini Bar poslovnog prostora u istom i ustupanjem zemljišta čiji je vlasnik Sindikat bezbjedonosnih institucija Crne Gore, a koje je prema DUP-u planirano kao javna površina - saobraćajnica koja nosi oznaku u planu TB-1.

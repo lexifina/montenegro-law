@@ -1,0 +1,2 @@
+Na osnovu člana 239 stav 1 Zakona o planiranju prostora i izgradnji objekata (»Sl. list CG«, br. 51/08, 40/10, 34/11, 40/11, 47/11, 35/13, 39/13, 34/14 i 82/20), člana 2 stav 2 Odluke o naknadi za komunalno opremanje građevinskog zemljišta (»Sl. list CG - Opštinski propisi«, br. 38/20) i člana 43 stav 1 tačka 30 Statuta Opštine Bar (»Sl. list CG - Opštinski propisi«, br. 37/18), Skupština opštine Bar, na sjednici održanoj dana 22.12.2020. godine, donijela je
+ODLUKU
