@@ -1,0 +1,2 @@
+Na osnovu člana 54 stav 1 Zakona o komunalnim djelnostima (,,Sl. List CG br 55/16. 74/16, 2/18, 66/19, člana16 stav 1 alineja 8 Odluke o osnivanju Društva sa ograničenom odgovornošću ,,Vodovod i kanalizacija" Danilovgrad ( Sl. List C br. 2/14) člana 33 stav 1 alineja 8 Statuta D.O.O. ,,Vodovod i kanalizacija" Danilovgrad, Odbor direktora na XXVII sjednici održanoj dana 07.12.2020. godine donio je
+O D L U K U
