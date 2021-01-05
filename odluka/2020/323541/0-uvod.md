@@ -1,0 +1,2 @@
+Na osnovu člana 38 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20), člana 6 stav 1 Zakona o socijalnom stanovanju ("Službeni list CG", broj 35/13), člana 35 stav 1 tačka 4 i člana 38 stav 1 Statuta Opštine Nikšić ("Službeni list CG - Opštinski propisi", broj 31/18), uz prethodnu saglasnost Ministarstva održivog razvoja i turizma Crne Gore, broj: 11-652/27 od 5.11.2020. godine i broj 11-652/29 od 2.12.2020.godine, Skupština opštine Nikšić, na sjednici održanoj 17.12.2020. godine, donijela je
+O D L U K U
