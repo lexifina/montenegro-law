@@ -1,0 +1,2 @@
+# Član 8
+Nadležni organi Republike Grčke izjavljuju da, postupajući u skladu sa pravilom I/10 stav 6 Konvencije, neće koristiti ovjere kojima se potvrđuju uvjerenja izdata od strane drugih strana ugovornica Konvencije u svrhu izdavanja ovjera uvjerenja u skladu sa ovim Sporazumom. Nadležni organi Republike Grčke takođe izjavljuju da neće priznavati ovjere izdate od strane Nadležnog organa Crne Gore u pogledu uvjerenja koja su izdata od strane trećih zemalja.

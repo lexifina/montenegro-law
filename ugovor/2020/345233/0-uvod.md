@@ -1,0 +1,6 @@
+33. Na osnovu člana 21 stav 2 Zakona o zaključivanju i izvršavanju međunarodnih ugovora ("Službeni list CG", broj 77/08), Vlada Crne Gore na sjednici od 22. oktobra 2020. godine, bez održavanja sjednice, na osnovu pribavljenih saglasnosti većine članova Vlade, donijela je
+ODLUKU O OBJAVLJIVANJU
+SPORAZUMA O PRIZNAVANJU OBUKE I IZDAVANJU UVJERENJA POMORCIMA ZA
+VRŠENJE SLUŽBE NA PLOVNIM OBJEKTIMA REGISTROVANIM U REPUBLICI GRČKOJ IZMEĐU VLADE CRNE GORE I VLADE REPUBLIKE GRČKE U SKLADU SA MEĐUNARODNOM KONVENCIJOM O STANDARDIMA OBUKE, IZDAVANJU
+UVJERENJA I VRŠENJU BRODARSKE STRAŽE POMORACA IZ 1978, SA IZMJENAMA I
+DOPUNAMA,

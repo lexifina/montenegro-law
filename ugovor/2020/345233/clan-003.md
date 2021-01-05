@@ -1,0 +1,2 @@
+# Član 3
+Nadležni organ Crne Gore, postupajući u okvirima domaćeg zakonodavstva, obezbjeđuje da se obrazovanje, obuka i procjena osposobljenosti pomoraca sprovodi i nadgleda u skladu sa odredbama odjeljka A-/6 STCW Pravilnika, kao i da lica koja su odgovorna za vršenje ovih zadataka posjeduje odgovarajuće kvalifikacije s obzirom na vrstu i nivo obuke odnosno procjene koja se sprovodi, sve u skladu sa navedenim odjeljkom STCW Pravilnika.

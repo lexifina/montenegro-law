@@ -1,0 +1,2 @@
+# Član 1
+Objavljuje se Sporazum o priznavanju obuke i izdavanju uvjerenja pomorcima za vršenje službe na plovnim objektima registrovanim u Republici Grčkoj između Vlade Crne Gore i Vlade Republike Grčke u skladu sa Međunarodnom konvencijom o standardima obuke, izdavanju uvjerenja i vršenju brodarske straže pomoraca iz 1978, sa izmjenama i dopunama, zaključen razmjenom potpisa 17. jula 2020. godine i 7. avgusta 2020. godine, u originalu na engleskom jeziku.

@@ -1,0 +1,2 @@
+# Član 10
+Nadležni organi Republike Grčke izjavljuju da, u cilju ovjeravanja uvjerenja na osnovu kojeg je imalac ovlašćen da ispunjava svoje obaveze na nivou upravljanja na brodu koji plovi pod zastavom Republike Grčke, on mora, kao preduslov za ovjeru, posjedovati uvjerenje o položenom testu čime se potvrđuje da ima odgovarajući nivo znanja iz oblasti odnosne legislative Republike Grčke, koja se primjenjuje prilikom obavljanja predmetnih dužnosti, uzevši da je ova legislativa određena od strane Nadležnih organa Republike Grčke.

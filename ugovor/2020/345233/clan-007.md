@@ -1,0 +1,5 @@
+# Član 7
+A) Nadležni organ Crne Gore, postupajući u skladu sa pravilom I/10 Konvencije, izjavljuje da će u roku koji ne može biti duži od 60 dana, obavijetiti Nadležne organe Republike Grčke o bilo kojoj važnoj promjeni u sistemu pomorskog obrazovanja, obuke, provjere i sertifikovanja. Važnom promjenom će se smatrati svaka promjena koja predstavlja značajne izmjene u pogledu obrazovanja, obuke i administrativnih procedura, i koja uvodi značajnu izmjenu u nivou znanja, profesionalnih vještina, obuke i kompetencija sertifikovanih pomoraca.
+B) U svakom slučaju, važnom promjenom će se smatrati:
+1. Zamjena osoblja u nadležnim tijelima koja su odgovorna za primjenu Sporazuma ili promjena načina komunikacije sa tim licima.
+2. Bilo koja promjena koja se odnosi na izmjenu procedure predviđene ovim Sporazumom. 3. Izmjene u sistemu pomorskog obrazovanja, obuke, provjere i sertifikovanja pomoraca koje podrazumijevaju značajne razlike ili odstupanja u poređenju sa početnim izvještajem kojeg je Nadležni organ Crne Gore podnio Generalnom sekretarijatu IMO-a, u skladu sa odjeljkom A- 17 STCW Pravilnika.
