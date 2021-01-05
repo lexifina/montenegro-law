@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ( "Službeni list CG", broj 25/19), člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list CG" broj 2/18, 34/19 i 38/20) i člana 73 stav 1 tačka 9 Statuta Prijestonice ("Službeni list CG - Opštinski propisi", broj 49/18 i 9/19), Skupština Prijestonice Cetinje, na sjednici održanoj 15.12.2020. godine, donijela je
+O D L U K U O DOPUNI ODLUKE O POREZU NA NEPOKRETNOSTI
