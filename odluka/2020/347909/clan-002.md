@@ -1,0 +1,2 @@
+# Član 2
+Kat.parc. 545/8 k.o.Topla je se nalazi u zahvatu Prostorno-urbanističkog plana Opštine Herceg Novi za period do 2030.godine - GUR Igalo ("Sl.list CG-Opštinski propisi" br.52/18), a prema Urbanističko- tehničkim uslovima izdatim od strane Sekretarijata za prostorno planiranje i izgradnju broj: 02-3-350- UPI-800/2019 od 05.09.2019.godine namijenjena za izgradnju objekta u zoni mješovite namjene.
