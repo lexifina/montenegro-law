@@ -1,0 +1,3 @@
+Na osnovu člana 10 stav 1 Zakona o teritorijalnoj organizaciji Crne Gore ("Službeni list Crne Gore", br. 54/11, 26/12, 27/13, 62/13, 12/14, 3/16, 31/17, 86/18 i 3/20), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19 i 38/20) i člana 34 stav 1 tačka 2 Statuta Opštine Herceg Novi ("Službeni list Crne Gore - Opštinski propisi", br. 1/19, 37/19 i 6/20) Skupština opštine Herceg Novi, na sjednici održanoj 23.12.2020. godine, donijela je
+ODLUKU
+o izmjenama i dopunama Odluke o određivanju naziva naselja, ulica i trgova na teritoriji Opštine Herceg Novi ("Sl. list CG -
