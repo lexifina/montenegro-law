@@ -1,0 +1,2 @@
+Na osnovu člana 5 stav 1 Zakona o zabrani diskriminacije lica sa invaliditetom ("Sl. list CG", br. 35 i 44/15), člana 38 stav 1 tačka 2 i 4 a u vezi sa članom 27 stav 1 tačka 16 člana Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19 i 38/20), člana 34 stav 1 tačka 2 i 4 Statuta Opštine Herceg Novi ("Službeni list CG - opšinski propisi", br. 1/19, 37/19 i 6/20), Skupština opštine Herceg Novi, na sjednici održanoj 23.12.2020. godine, donijela je
+ODLUKU
