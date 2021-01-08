@@ -1,0 +1,2 @@
+Na osnovu člana 37 i 39 Zakona o turističkim organizacijama ("Službeni list RCG", broj 11/04 i 46/07 i "Službeni list CG", broj 45/14, 42/17 i 27/19), člana 59 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18 i 34/19) i člana 46 Statuta opštine Rožaje ("Službeni list CG - Opštinski propisi", broj 38/18), Skupština opštine Rožaje, na sjednici održanoj dana 29.12.2020. godine, donijela je
+ODLUKU
