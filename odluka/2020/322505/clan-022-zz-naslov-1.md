@@ -1,0 +1,1 @@
+# IV. ZAKUP STANA
