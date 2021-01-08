@@ -1,0 +1,4 @@
+# Član 23
+Etička komisija vodi evidenciju o zaposlenima (u daljem tekstu: evidencija).
+Evidencija sadrži sledeće podatke: naziv organa, organa uprave, službe ili javne službe u kojoj je zaposleni zasnovao radni odnos sa datumom zasnivanja; lične podatke zaposlenog; službeno zvanje, odnosno radno mjesto; radno mjesto i kretanje u službi; stručno usavršavanje; ocjenu rada; izjavu o prihvatanju i rukovođenju odredbama Etičkog kodeksa; podatke o podnijetim zahtjevima za mišljenje u skladu sa članom 8 ove odluke; podatke o pritužbama protiv zaposlenog i postupcima pokrenutim po inicijativi Etičke komisije, sprovedenom postupku i odlukama Etičke komisije, izrečenim disciplinskim mjerama; podatke o presudama, rješenjima i odlukama donijetim u posebnom postupku koje su u vezi sa Etičkim kodeksom; način prikupljanja i čuvanja podataka; rok čuvanja i korišćenja podataka i sl.
+Obrazac i način vođenja evidencije utvrđuje Etička komisija.
