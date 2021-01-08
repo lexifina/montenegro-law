@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ( "Sl.list CG" br 02/18,34/19 i 38/20) ,člana 38 stav 1 tačka 22 Statuta opštine Gusinje,("Službeni List CG-opštinki propisi" br.03/19) i člana 19 i 20 Odluke o osnivanju društva sa ograničenom odgovornočću Komunalne Djelatnosti Gusinje,("Službeni List CG-opštinki propisi" br.16/17),Skupština opštine Gusinje na sjednici održanoj 29.12.2020. godine donijela je:
+O D L U K U
