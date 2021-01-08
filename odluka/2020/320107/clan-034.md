@@ -1,0 +1,3 @@
+# Član 34
+Za člana Etičke komisije ne mogu biti birani:
+-izabrani predstavnici i funkcioneri lokalne samouprave u smislu odredaba Etičkog kodeksa, -izabrana, imenovana ili postavljena lica u državnim organima i organima uprave, odnosno javnim preduzećima i službama čiji je osnivač Vlada Crne Gore, -funkcioneri političkih stranaka (predsjednici stranaka, članovi predsjedništva, njihovi zamjenici, članovi izvršnih i glavnih odbora i drugi stranački funkcioneri), -lica protiv kojih se vodi krivični postupak ili koja se nalaze u kaznenoj evidenciji, -lica koja su bračni drugovi lica iz alineje 1 do 5 ovog člana ili se sa njima nalaze u srodstvu u pravoj liniji, bez obzira na stepen srodstva.
