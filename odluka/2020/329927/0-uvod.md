@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19 i 38/20 ), član 23 Zakona o zaradama zaposlenih u javnom sektoru ( "Sl. list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18 i 34/19), člana 46 Statuta opštine Rožaje ("Sl. list CG - opštinski propisi", br. 38/18), Skupština opštine Rožaje, uz prethodno pribavljenu saglasnost Ministarstva finansija Crne Gore, broj 03-18787/1 od 17.11.2020.godine, na sjednici održanoj dana 29.12.2020.godine, donijela je
+O D L U K U
