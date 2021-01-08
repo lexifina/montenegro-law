@@ -1,0 +1,2 @@
+Na osnovu člana 174 stav 2 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20), člana 54 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list CG-Opštinski propisi", broj 8/19), Skupština Glavnog grada - Podgorica, na sjednici održanoj 28. i 29. decembra 2020. godine, donijela je
+O D L U K U O USLOVIMA I POSTUPKU FINANSIRANJA PROJEKATA I PROGRAMA NEVLADINIH ORGANIZACIJA
