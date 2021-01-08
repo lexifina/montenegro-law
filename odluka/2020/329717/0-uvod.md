@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20), člana 31 st. 1 i 2 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19) i člana 1 stav 2 Odluke o osnivanju Javne ustanove Kulturno-informativni centar Zeta ("Službeni list RCG - Opštinski propisi", broj 24/04 i "Službeni list CG - Opštinski propisi", broj 28/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 28. i 29. decembra 2020. godine, donijela je
+ODLUKU
