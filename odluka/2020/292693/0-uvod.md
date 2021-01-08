@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tacka 2 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore", br.02/18, 34/19 ,38/20) i člana 38 stav 1 tačka 2 Statuta opštine Gusinje ("Sl.list Crne Gore -opštinski propisi", br: 03/19") a u vezi sa članom 5 Odluke o lokalnim komunalnim taksama opštine Gusinje ("Sl. list Crne Gore - opštinski propisi", br. 19/20) ,Skupština opštine Gusinje na sjednicu održane 29.12.2020.godine,donosi:
+O D L U K U
