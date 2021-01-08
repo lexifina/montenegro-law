@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20), člana 6 Uredbe o biznis zonama ("Službeni list CG", br. 77/16 i 38/17), člana 54 stav 1 tač. 2 i 12 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19) uz prethodno mišljenje Agencije za zaštitu konkurencije, broj: 01-699/5 od 04.11.2020. godine i prethodnu saglasnost Ministarstva ekonomije, broj: 004-305/2-4723/2 od 17.11.2020. godine, Skupština Glavnog grada - Podgorice, na sjednici održanoj 28. i 29. decembra 2020. godine, donijela je
+ODLUKU
