@@ -1,0 +1,2 @@
+Na osnovu člana 187 stav 1 Zakona o osiguranju ("Službeni list Republike Crne Gore", br. 078/06 i 019/07, "Službeni list Crne Gore", br. 053/09, 073/10, 040/11, 045/12, 006/13 i 055/16) i čl. 16 stav 1 tačka 7 i čl. 17 i 18 Statuta Agencije za nadzor osiguranja ("Sl.list" CG br. 30/13) Savjet Agencije za nadzor osiguranja na 322. sjednici od 14.01.2021. godine donio je
+ODLUKU O IMENOVANJU DIREKTORA AGENCIJE ZA NADZOR OSIGURANJA
