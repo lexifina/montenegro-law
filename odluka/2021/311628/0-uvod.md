@@ -1,0 +1,2 @@
+Na osnovu članova 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18 , 34/19 i 38/20), članova 23, 44 stav 1 i 45 stav 1 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", br. 16/2016, 83/16, 21/17, 42/17, 12/18, 39/18 - odluka US, 42/18 i 34/19) i člana 32 Statuta Opštine Petnjica ("Sl. list CG - Opštinski propisi", br. 29/18) Skupština Opštine Petnjica na sjednici održanoj 28.12.2020. donijela je:
+ODLUKU
