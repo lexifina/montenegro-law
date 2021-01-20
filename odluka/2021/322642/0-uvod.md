@@ -1,0 +1,2 @@
+Na osnovu člana 28 i 29 Zakona o finansiranju lokalne samouprave ("Službeni list CG" br.03/19), člana 33 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG" br. 20/14, 56/14, 70/17, 4/18, 55/18 i 66/19 i člana 35 Statuta Opštine Tivat ("Službeni list CG - opštinski propisi" br. 24/18 i 09/20), Skupština opštine Tivat, na sjednici održanoj 29.12.2020. godine, donosi
+ODLUKU O BUDŽETU OPŠTINE TIVAT ZA 2021. GODINU
