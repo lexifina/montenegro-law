@@ -1,0 +1,6 @@
+# Član 1
+U Naredbi za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa ("Službeni list CG", broj 3/21) poslije člana 2 dodaje se novi član koji glasi:
+"Član 2a
+Izuzetno od člana 2 stav 1 ove naredbe, crnogorskim državljanima i strancima ulazak u Crnu Goru iz Ujedinjenog Kraljevstva Velike Britanije i Sjeverne Irske dozvoljen je uz negativan rezultat PCR testa na novi koronavirus (SARS-CoV-2), koji je izdat od registrovane laboratorije i nije stariji od 72 časa.
+Crnogorski državljani i stranci sa stalnim ili privremenim boravkom u Crnoj Gori, koji ne posjeduju PCR test na novi koronavirus (SARS-CoV-2), mogu da uđu u Crnu Goru, uz određivanje mjere karantina ili samoizolacije u trajanju od 14 dana, a samoizolacija podrazumijeva boravak u porodičnom smještaju ili drugom objektu, uz praćenje zdravstvenog stanja tog lica, kao i svih članova njegovog zajedničkog porodičnog domaćinstva od strane nadležne epidemiološke službe, u skladu sa rješenjem sanitarne inspekcije.
+Licu iz stava 2 ovog člana samoizolacija može da se prekine nakon isteka šest dana trajanja karantina, odnosno samoizolacije, uz negativan rezultat PCR testa na novi koronavirus (SARS-CoV-2), koji je izdat od registrovane laboratorije."
