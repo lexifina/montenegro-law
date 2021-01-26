@@ -1,0 +1,3 @@
+# Član 15
+## Obrazac tehničkog rješenja za ekskluzivno korišćenje radio-frekvencija
+Tehničko rješenje za ekskluzivno korišćenje radio-frekvencija na dijelu (npr. teritorija jedne ili više opština, radio-difuzna alotment zona i sl.) ili čitavoj teritoriji Crne Gore, koje se dodjeljuju na osnovu postupka javnog nadmetanja za realizaciju javne elektronske komunikacione mreže (npr. fiksne, mobilne, radio-difuzne i sl.) dostavlja se u formi propisanoj za odgovarajući elemenat mreže (npr. radio bazna/repetitorska stanica, zemaljski radio-difuzni predajnik i sl.) u postupku utvrđivanja tehničkih i operativnih uslova za korišćenje odobrenih radio-frekvencija na pojedinačnim lokacijama ili oblastima pokrivanja.
