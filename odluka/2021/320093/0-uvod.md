@@ -1,0 +1,3 @@
+Na osnovu člana 6, člana 18 i člana 54 Zakona o državnoj imovini ("Sl.list Crne Gore" br. 21/09 i 40/11) i člana 18 stav 1 i 2 i člana 39 Statuta Opštine Tivat ("Sl.list Crne Gore-opštinski propisi" br.24/18,09/20) na sjednici Skupštine opštine Tivat održanoj dana 29.12.2020.godine donijeta je
+O D L U K A
+o davanju saglasnosti za odustajanje od žalbe izjavljene na presudu Osnovnog suda u Kotoru posl.br.P.681/15/15 od 16.11.2019.g.

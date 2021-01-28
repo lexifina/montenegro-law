@@ -1,0 +1,2 @@
+# Član 1
+Daje se saglasnost za odustajanje od žalbe, izjavljene na presudu Osnovnog suda u Kotoru posl.br.P.681/15/15 od 16.11.2019.godine, u pravnoj stvari koja se vodi po tužbi tužilaca Duletić Stanke i Mihailović Olge, radi isplate naknade za ranije čestice zemlje 893, 892, 897 i 896 sve KO Đuraševići koje u ukupnoj površini od 1053 m2 ulaze u sastav kat.parcele 1750/9 KO Đuraševići, a koja u naravi predstavlja lokaciju na kojoj je izgrađeno postrojenje za prečišćavanje otpadnih voda.
