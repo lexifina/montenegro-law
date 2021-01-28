@@ -1,0 +1,1 @@
+Nа оsnоvu čl.5 Odluke o prirezu porezu na dohodak fizičkih lica ("Sl.list RCG"-opštinski propisi br. 38/03) Sekretarijat za finansije, privredu i razvoj, opštine Bijelo Polje propisao je oblik i sadržinu Mjesečne prijave za obračun prireza porezu na dohodak fizičkih lica. Skupština Opštine Bijelo Polje, na sjednici održanoj 25.12.2020.godine, donijela je
