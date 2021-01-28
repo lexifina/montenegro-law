@@ -1,0 +1,2 @@
+Na osnovu člana 45 i 48 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", br. 3/19), člana 57 stav 1 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore" br. 20/14, 56/14, 70/17, 4/18, 55/18 i 66/19) člana 35 Statuta Opštine Tivat ("Službeni list Crne Gore - opštinski propisi", br. 024/18 i 09/20) Skupština Opštine Tivat na sjednici održanoj 29.12.2020. godine donosi
+ODLUKU O DUGOROČNOM ZADUŽIVANJU OPŠTINE TIVAT
