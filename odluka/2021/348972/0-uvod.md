@@ -1,0 +1,3 @@
+Na osnovu čl. 22. st. 1. tač. 9. i 10. Zakona o putevima ("Sl. list RCG", br. 42/04 i "Sl. list CG", br. 21/09, 54/09, 40/10, 73/10, 36/11, 40/11 i 92/17), čl. 27. st. 1. tač. 2., čl. 28. st. 1. tač. 2., čl. 38. st. 1. tač. 2. i čl. 58. st. 1. tač. 2. Zakona o lokalnoj samoupravi ("Sl. list CG", br. 02/18 i 34/19) i čl. 14. st. 1. tač. 2., čl. 15. st. 1. tač. 2. i čl. 33. st. 1. tač. 2. Statuta Opštine Plav ("Sl. list CG- Opštinski propisi", br. 44/18),Skupština Opštine Plav, na sjednici održanoj dana 31.12.2020. godine donijela je:
+O D L U K U
+o dopunama Odluke o korišćenju i naknadi za korišćenje puta i putnog zemljišta pored
