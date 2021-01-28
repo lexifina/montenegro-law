@@ -1,0 +1,2 @@
+Na osnovu člana 43, stav 1 i člana 44, stav 2 Zakona o kulturi ("Sl. list CG", br. 49/08, 16/11, 40/11 i 38/12), člana 10, stav 3 Odluke o osnivanju Javne ustanove "Centar za kulturu- Petnjica" ("Sl.list CG-Opštinski propisi", br. 30/15) i člana 32, stav 1, tačka 22 Statuta Opštine Petnjica ("Sl.list CG-Opštinski propisi", br. 29/18), Skupština opštine Petnjica, na sjednici održanoj dana 28.12.2020. godijne, donijela je:
+ODLUKU
