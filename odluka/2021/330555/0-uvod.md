@@ -1,0 +1,2 @@
+Na osnovu člana 55 Zakona o komunalnim djelatnostima ("Sl. list Crne Gore" br.55/16, 74/16, 02/18 ,66/19) i člana 18 stav 1 tačka 9 Statuta DOO "Vodovod i kanalizacija" Tivat ("Sl.list Crne Gore-opštinski propisi" br 32/13,15/15, 55/17 i 45/19) i člana 35 Statuta opštine Tivat ("Sl. list Crne Gore - opštinski propisi" br. 24/18,09/20), Skupština opštine Tivat, na sjednici održanoj dana 29.12.2020. godine, donijela je
+ODLUKU
