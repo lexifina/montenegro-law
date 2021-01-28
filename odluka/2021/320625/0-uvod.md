@@ -1,0 +1,3 @@
+Na osnovu člana 35 stav 7, člana 43 stav 4 i člana 92 Zakona o prevozu u drumskom saobraćaju ("Službeni list CG", broj 71/17 i 67/19 ), člana 15 stav 1 Zakona o komunalnim djelatnostima ("Službeni list CG", broj 55/16, 74/16, 02/18 i 66/19 ),člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ( Sl.list CG", br. 02/18, 34/19 i 38/20) i člana 46 stav 1 tačka 2 Statuta Skupštine Opštine Bijelo Polje ("Službeni list CG - opštinski propisi", broj 19/18 ), Skupština opštine Bijelo Polje na sjednici održanoj 24.12.2020. godine, donijeta je:
+ODLUKU
+o javnom linijskom gradskom i prigradskom prevozu putnika na teritoriji Opštine Bijelo Polje
