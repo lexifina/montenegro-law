@@ -1,0 +1,4 @@
+# Član 11
+## 1.3 Odbor za finansije, privredu i razvoj
+Odbor za finansije, privredu i razvoj ima Predsjednika i 6 članova.
+Odbor za finansije, privredu i razvoj razmatra nacrte i predloge odluka o budžetu i završnom računu budžeta opštine,taksama, porezima naknadama, zajmovima, zaduženjima, garancijama, akte o realizaciji budžeta; razmatra planove i programe razvoja opštine i pitanja od značaja za razvoj privrede i poljoprivrede i razvoj preduzetništva i saobraćaja; eksproprijacija za potrebe lokalne samouprave; izvještaj o radu Predsjednika opštine i ostvarivanju funkcije lokalne samouprave; razmatra plan kapitalnih poboljšanja i višegodišnji investicioni plan akte kojima se predlaže utvrđivanje investicione politike, plan zaštite od požara; inicira donošenje ili izmjene propisa i drugih akata, i vrši i druge poslove iz ove oblasti. 1.4 Odbor za planiranje prostora, zaštitu životne sredine i komunalno stambenu djelatnost

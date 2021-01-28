@@ -1,0 +1,4 @@
+# Član 24
+## 2.10. Savjet za lokalni saobraćaj
+Savjet za lokalni saobraćaj ima Predsjednika i 4 člana od kojih 2 člana se imenuju iz reda odbornika u Skupštini a 2 člana iz reda naučnih i stručnih radnika iz oblasti saobraćaja.
+Savjet razmatra pitanja koja se odnose na: usklađivanje aktivnosti organa, organizacija i preduzeća koja učestvuju u ostvarivanju bezbijednosti saobraćaja na putevima, prati i analizira stanje, pojave i probleme u oblasti bezbijednosti saobraćaja na putevima; inicira, pokreće i organizuje prventivne i druge akcije i aktivnosti kojima se doprinosi unaprijeđivanje bezbijednosti saobraćaja; razmatra predloge propisa i drugih akata iz ove oblasti; predlaže Skupštini i drugim nadležnim organima preduzimanje odgovarajućih mjera radi rješavanja pojedinih pitanja iz ove oblasti i vrši druge poslove od značaja za bezbijednost saobraćaja na putevima.

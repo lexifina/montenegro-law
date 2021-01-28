@@ -1,0 +1,4 @@
+# Član 23
+## 2.9. Savjet za rodnu ravnopravnost i prava manjina
+Savjet za rodnu ravnopravnost ima predsjednika i 4 člana od kojih 2 člana se imenuju iz reda odbornika u Skupštini, 1 član iz reda naučnih i stručnih radnika i 1 član je predstavnik nevladinih organizacija iz te oblasti.
+Savjet za rodnu ravnopravnost razmatra, predlaže i utvrđuje stavove o predlozima odluka i opštih akata iz nadležnosti lokalne samouprave sa stanovišta usklađenosti sa načelima rodne ravnopravnosti; razmatra pitanja obezbjeđivanja i ostvarivanja ravnopravnog učešća žena i muškaraca u svim oblastima javnog, privatnog sektora i političkog životu, jednak položaj i jednake mogućnosti za ostvarivanje svih prava i sloboda i korišćenje ličnih znanja i sposobnosti za razvoj društva, kao i ostvarivanje jednake koristi od rezultata rada.
