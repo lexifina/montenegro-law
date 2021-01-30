@@ -1,0 +1,4 @@
+# Član 3
+Svaki notar će u svom radu uvažavajući osnovni duh i pravila ovog Kodeksa, potpuno samostalno i nezavisno cijeniti situaciju i po svojoj savjesti odlučivati u svakom konkretnom slučaju.
+Primjenom zakona i podzakonskih akata svi notari kao dio notarske službe u Crnoj Gori su dužni da u obavljanju notarskih poslova obezbijede istovjetno i ujednačeno postupanje u istovjetnim ili sličnim situacijama. Ujednačenim i usklađenim načinom i postupkom preduzimanja notarskih radnji obezbjeđuje se pravna sigurnost, objektivnost i povjerenje u rad notara i izbjegava svaki vid nelojalne konkurencije, što doprinosti očuvanju ugleda notarijata kao javne službe.
+U složenijim slučajevima, kada je notar u nedoumici oko načina postupanja, zatražiće mišljenje kolega notara ili će se obratiti Komisiji za stručnu edukaciju notara Notarske komore za dostavljanje mišljenja o preporučljivom načinu postupanja.

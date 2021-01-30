@@ -1,0 +1,13 @@
+# Član 33
+Obaveza notara je poštovanja odredaba Kodeksa Notarske Etike.
+Svako ima pravo podnijeti zahtijev za davanje mišljenja o tome da li je ponašanjem, radnjom ili propustom notara povrijeđen Kodeks.
+Zahtjev protiv notara podnosi se u roku od 30 dana od dana saznanja za ponašanje, radnju ili propust iz stava 2, a najkasnije u roku od 6 (šest) mjeseci od dana učinjene povrede ovog Kodeksa.
+Postupak povodom zahtjeva može se voditi bez obzira na protok navedenih rokova ukoliko se sa pokretanjem postupka saglasi notar.
+Zahtjev se podnosi Predsjedniku Komisije za etička pitanja dostavljanjem Notarskoj Komori Crne Gore.
+Zahtjev sadrži ime i prezime notara protiv kojeg se podnosi zahtjev, opis ponašanja, radnje ili propusta notara koje predstavlja kršenje Kodeksa, vrijeme i mjesto ispoljavanja takvog ponašanja.
+Predsjednik Komisije za etička pitanja dužan je dostavljeni zahtjev izložiti članovima Komisije.
+Komisija za etička pitanja će pozvati notara na koga se Zahtjev odnosi da se pismeno izjasni u roku od 15 dana od dana poziva za izjašnjenje. U pozivu za izjašnjenje notar će biti upućen da može tražiti usmeno ili pismeno izlaganje pred Komisijom kao i mogućnost da zahtijeva da se suoči sa podnosiocem Zahtjeva pred Komisijom. U koliko izjašnjenje ne bude dostavljeno u roku, Komisija će donijeti Mišljenje, prema podacima sa kojima raspolaže u trenutku donošenja mišljenja. Ukoliko se podnosilac Zahtjeva neopravdano neodazove na traženo suočenje, Zahtjev se smatra povučenim o čemu će podnosilac Zahtjeva u pozivu za suočenje biti izričito upozoren.
+Komisija za etička pitanja u svom Mišljenju utvrđuje da li u konkretnom slučaju postoji ili ne postoji povreda Kodeksa.
+Komisija je dužna Mišljenje donijeti najkasnije u roku od 30 dana od dana prijema Zahtjeva. Na Mišljenje Komisije nezadovoljna strana može podnijeti prigovor Upravnom odboru u roku od 8 dana od dana prijema pisanog otpravka Mišljenja.
+Upravni odbor, o prigovoru odlučuje običnom većinom glasova. Upravni odbor je dužan odlučiti u roku od 15 dana računajući od dana prijema prigovora. U slučaju nastupanja zastare vođenja postupka protiv notara Upravni odbor će donijeti Odluku da je nastupila zastara vođenja postupka protiv notara i obustaviće postupak.
+Ako je tokom postupka utvrđivanja povrede Kodeksa Komisija za etička pitanja utvrdila da postoje elementi disciplinske povrede, Komisija će dostaviti Predlog disciplinskom tužiocu radi pokretanja disciplinskog postupka zbog moguće povrede službene dužnosti za radnje koje su kao disciplinske povrede utvrđene Statutom Notarske Komore i Zakonom o notarima.
