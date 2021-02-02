@@ -1,0 +1,2 @@
+Na osnovu člana 35 stav 1 tačka 2 i člana 38 stav 1 Statuta Opštine Nikšić ("Službeni list CG- Opštinski propisi", broj 31/18) i člana 30 Odluke o osnivanju društva sa ograničenom odgovornošću Lokalni javni emiter "Radio i televizija" Nikšić ("Službeni list CG-Opštinski propisi", br. 21/11 i 26/12), a u vezi sa članom 32 stav 1 tačka 1 Zakona o elektronskim medijima ("Službeni list CG", br. 46/10, 40/11, 53/11, 6/13, 55/16, 92/17 i 82/20), Skupština opštine Nikšić, na sjednici održanoj 2.02.2021.godine, donijela je
+ODLUKU
