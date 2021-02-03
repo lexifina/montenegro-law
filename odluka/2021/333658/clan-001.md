@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o načinu ostvarivanja prava na oslobađanje od plaćanja poreza na dodatu vrijednost i carine za medicinska sredstva i zaštitnu opremu koja se uvoze kao donacija, radi suzbijanja posljedica nastalih usljed epidemije zarazne bolesti COVID 19 ("Službeni list CG" broj 32/20) u članu 2 riječi: "Nacionalno koordinaciono tijelo za zarazne bolesti" zamjenjuju se riječima: "Ministarstvo zdravlja".
