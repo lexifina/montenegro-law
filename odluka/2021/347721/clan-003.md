@@ -1,0 +1,2 @@
+# Član 3
+Stupanjem na snagu ove Odluke prestaje da važi Odluka o imenovanju Savjeta JU Sportska dvorana Tivat br. 0304-030-170 od 28.06.2016.godine ("Sl.list CG- Opštinski propisi" br. 31/16), Odluka o imenovanju dva člana Savjeta JU Sportska dvorana Tivat br. 0304-030-374 od 22.12.2016. ("Sl.list CG- Opštinski propisi" br. 52/16), i Odluka o razrješenju i imenovanju jednog člana Savjeta JU Sportska dvorana br. 0304-030-453 ("Sl.list CG- Opštinski propisi" br. 55/17).
