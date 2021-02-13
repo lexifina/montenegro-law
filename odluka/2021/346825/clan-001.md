@@ -1,0 +1,3 @@
+# Član 1
+## objekta
+Dozvoljava se otkup zemljišta UDRUŽENJE PENZIONERA ULCINJ,iz Ulcinja prenosi se pravo svojine na građevinsko zemljište za potrebe formiranja urbanističke parcele UP 5 u skladu sa Detaljnom urbanističkom planu "Ulcinj-grad" za lokalitet Meraja 2 i to katastarska parcela broj 1446/14 koju čine: dvorište površine 28 m2,zemljište ispod poslovne zgrade u vanprivredi površine 52 m2,što ukupno čini 80 m2, upisana u listu nepokretnosti broj 607 KO Ulcinj kao svojina Države Crne Gore sa pravom raspolaganja Opštine Ulcinj, po utvrđenoj cijeni od 400,00 € po m2 zemljišta, u skladu sa procjenom Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore -PJ Ulcinj, broj 917-180/320 od 31.12.2020.god.
