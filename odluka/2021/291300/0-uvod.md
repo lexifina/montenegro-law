@@ -1,0 +1,2 @@
+Na osnovu člana 59 i 154 Zakona o socijalnoj i dječijoj zaštiti ("Sl. list Crne Gore" broj 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17), člana38 stav 1 tačka2, a u vezi sa članom 27stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Sl list CG", broj 2/18, 34/19 i 38/20) i člana 35 stav 1 tačka 2, a u vezi sa članom 19 stav 1 tačka 15 Statuta Opštine Šavnik ("Sl. list CG- Opštinski propisi", br.31/18), Skupština opštine Šavnik, na sjednici održanoj 02.02.2021. godine, donijela je
+ODLUKU
