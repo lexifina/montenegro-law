@@ -1,0 +1,2 @@
+# Član 9
+Vodosnabdijevanje od lokalnog značaja može se vršiti sa manjih vodotoka i izvora do 30 l/sec u hidrološkom minimumu, ako njihovo korišćenje nije namijenjeno za organizovanje regionalnog ili javnog vodovoda ili ako za njihovo korišćenje vodne akte ne izdaje nadležni organ državne uprave, a koji izviru, ulivaju se ili uviru na području Opštine, kao i druge vode koje nijesu utvrđene od značaja za državu.
