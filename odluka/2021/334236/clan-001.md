@@ -1,0 +1,2 @@
+# Član 1
+Banke su dužne da, do početka primjene Zakona o kreditnim institucijama ("Službeni list CG", br. 72/19 i 8/21) ili donošenja i stupanja na snagu drugog zakona kojim se privremeno uređuje primjena propisa koji se odnose na osnivanje, poslovanje i kontrolu banaka, posluju primjenom pravnih određenja koja su bila utvrđena Zakonom o bankama ("Službeni list CG", br. 17/08, 44/10, 40/11 i 73/17) i podzakonskim propisima donijetim na osnovu tog zakona.
