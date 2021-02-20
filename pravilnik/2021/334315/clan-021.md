@@ -1,0 +1,4 @@
+# Član 21
+Prva stranica preuzetog stranog standarda odbrane sadrži podatke iz člana 20 ovog pravilnika, na jeziku na kojem je taj standard donijet, kao i prevod naziva standarda, a sljedeća stranica sadrži popis izmjena, objašnjenja i podataka o primjeni standarda.
+Prva i druga stranica preuzetog stranog standarda odbrane nijesu numerisane, a svaka sljedeća stranica tog standarda sadrži u gornjem desnom uglu broj stranice i oznaku standarda.
+Ako je preuzeti strani standard odbrane označen određenim stepenom tajnosti, taj standard zadržava oznaku stepena tajnosti u skladu sa propisima kojima je uređena tajnost podataka.
