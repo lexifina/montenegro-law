@@ -1,0 +1,2 @@
+# Član 10
+Javnim službama čiji se osnivač Opština ili država Crna Gora, nevladinim organizacijama, pravnim licima koja se bave zaštitom prava i interesa osoba sa invaliditetom, samostalnim umjetnicima, kao i drugim fizičkim i pavnim licima koja su od posebnog interesa za Opštinu, Skupština Opštine Šavnik na predlog Predsjednika Opštine, može donijeti odluku o davanju na korišćenje poslovnog prostora sa umanjenjem cijene zakupa za 50%, ili bez nadoknade.
