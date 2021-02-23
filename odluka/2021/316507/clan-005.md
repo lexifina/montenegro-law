@@ -1,0 +1,6 @@
+# Član 5
+Visina članskog doprinosa, za djelatnosti koje su razvrstane Pravilnikom o razvrstavanju djelatnosti za koje se plaća članski doprinos turističkim organizacijama, utvrdjuje se zavisno od grupe djelatnosti i iznosa poslovnih prihoda koje obveznik ostvari u godini koja prethodi godini za koju se obaveza utvrdjuje, umanjenog za iznos poslovnih rashoda, u slijedećim iznosima:
+Iznos poslovnih prihoda Godišnji iznos članskog doprinosa umanjen za iznos poslovnih (u eurima) rashoda (u eurima) I grupa II grupa III grupa IV grupa V grupa 0-1.000 170 150 130 120 100 1.000,01-3.000 180 170 150 130 120 3.000,01-5.000 200 180 170 150 130 5.000,01-10.000 220 200 180 170 150 10.000,01-25.000 230 220 200 180 170 25.000,01-50.000 250 230 220 200 180 Preko 50.000 500 470 400 330 270
+Visina obračunatog godišnjeg članskog doprinosa iz člana 5, stav 1 ove Odluke se umanjuje za 70% shodno članu 39 Zakona o turističkim organizacijama:
+Iznos poslovnih prihoda Godišnji iznos članskog doprinosa umanjen za iznos poslovnih (u eurima) rashoda(u eurima)
+I grupa II grupa III grupa IV grupa V grupa 0-1.000 51 45 39 36 30 1.000,01-3.000 54 51 45 39 36 3000,01-5.000 60 54 51 45 39 5.000,01-10.000 66 60 54 51 45 10.000,01-25.000 69 66 60 54 51 25.000,01-50.000 75 69 66 60 54 Preko 50.000 150 141 120 99 81

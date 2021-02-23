@@ -1,0 +1,2 @@
+Na osnovu člana 39 Zakona o turističkim organizacijama (,,Službeni list RCG" broj 11/04 i 46/07 i ,,Službeni list Crne Gore" broj 73/10,40/11,45/14,42/17 i 27/19), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi (,,Službeni list Crne Gore"broj 02/18,34/19 i 38/20), člana 35 stav 1 tačka 2 Statuta opštine Šavnik (,,Službeni list Crne Gore-opštinski propisi", broj 31/18), Skupština opštine Šavnik, na sjednici održanoj 02.02.2021.godine,donijela je
+O D L U K U
