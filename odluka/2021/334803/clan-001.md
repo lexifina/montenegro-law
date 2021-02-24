@@ -1,0 +1,11 @@
+# Član 1
+## O IZMJENI STATUTA AGENCIJE ZA SPRJEČAVANjE KORUPCIJE
+U Statutu Agencije za sprječavanje korupcije ("Službeni list CG", broj 66/15), član 22, stav 2 mijenja se i glasi:
+"Rad Agencije je organizovan kroz sektore i službe i to:
+1. SEKTOR ZA SPRJEČAVANjE SUKOBA INTERESA I PROVJERU PRIHODA I IMOVINE;
+2. SEKTOR ZA KONTROLU FINANSIRANjA POLITIČKIH SUBJEKATA I IZBORNIH KAMPANjA; PREVENCIJU KORUPCIJE, INTEGRITET, LOBIRANjE I POSTUPANjE PO PRIJAVAMA ZVIŽDAČA;
+3. SEKTOR ZA MEĐUNARODNU SARADNjU I STANDARDE, EDUKACIJU, ISTRAŽIVANjA, KAMPANjE I ANALITIKU;
+4. SLUŽBA ZA PRAVNE, OPŠTE POSLOVE I UPRAVLjANjE LjUDSKIM RESURSIMA; i
+5. SLUŽBA ZA FINANSIJSKE POSLOVE".
+U istom članu, stav 3 mijenja se i glasi:
+"Izvan organizacionih jedinica obavljaju se poslovi Sekretar/ka Savjeta"
