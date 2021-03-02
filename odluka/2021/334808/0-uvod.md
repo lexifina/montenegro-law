@@ -1,0 +1,5 @@
+Na osnovu člana 12 stav 3 Uredbe o Vladi Crne Gore ("Službeni list CG", br. 80/08, 14/17 i 28/18), Vlada Crne Gore, na sjednici od 21. januara 2021. godine, donijela je
+ODLUKU
+O IZMJENI ODLUKE O OBRAZOVANjU KOMISIJE ZA PRAĆENjE POSTUPANjA
+NADLEŽNIH ORGANA U ISTRAGAMA SLUČAJEVA PRIJETNjI I NASILjA NAD
+NOVINARIMA, UBISTAVA NOVINARA I NAPADA NA IMOVINU MEDIJA
