@@ -1,0 +1,2 @@
+Na osnovu člana 76 stav 1 tačka 4 Zakona o posredovanju pri zapošljavanju i pravima za vrijeme nezaposlenosti (»Službeni list CG«, broj 24/19) i člana 14 stav 1 alineja 9 Statuta Zavoda za zapošljavanje Crne Gore (»Službeni list CG«, broj 39/19), Upravni odbor Zavoda za zapošljavanje Crne Gore, na sjednici od 26.02.2021. godine, donio je
+O D L U K U O PRESTANKU VAŽENJA ODLUKE O OSNOVICI I STOPI DOPRINOSA ZA OSIGURANJE OD NEZAPOSLENOSTI ZA LICA NA PRIVREMENOM RADU U INOSTRANSTVU KOJA NIJESU OSIGURANA PO OSNOVU MEĐUDRŽAVNOG SPORAZUMA
