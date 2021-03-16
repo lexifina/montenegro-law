@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 tačka 9, člana 45 stav 4 i člana 51 stav 2 Zakona o vazdušnom saobraćaju ("Službeni list CG", br. 30/12, 30/17 i 82/20), uz prethodnu saglasnost Ministarstva kapitalnih investicija, Agencija za civilno vazduhoplovstvo donijela je
+PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O STANDARDIMA I KRITERIJUMIMA ZA NESMETANU UPOTREBU OPERATIVNIH POVRŠINA, OBJEKATA, UREĐAJA I OPREME NA AERODROMU
