@@ -1,0 +1,4 @@
+# Član 5
+## Službene kontrole prilikom unošenja određenog bilja, drveta i izolovane kore porijeklom iz država koje nijesu sa evropskog kontinenta
+Sve pošiljke određenog bilja, drveta od određenog bilja osim drvenog materijala za pakovanje, kao i drveta četinara (Pinales) u obliku iverja, čestica, piljevine, strugotina, drvnog otpada i ostataka drveta dobijenog u cjelosti ili djelimično od tih četinara, porijeklom iz država koje nijesu sa evropskog kontinenta za koje je poznato da je u njima prisutan štetni organizam, podliježu detaljnim službenim kontrolama na mjestu unošenja u Crnu Goru ili na mjestu odredišta.
+Službene kontrole iz stava 1 ovog člana uključuju vizuelni pregled i gdje je odgovarajuće, uzorkovanje i testiranje lota bilja, biljnih proizvoda i objekata pod nadzorom radi potvrde odsustva štetnog organizma.
