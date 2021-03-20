@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o uslovima i načinu dodjele i upotrebe kodova Mod S interogatora za Jedinstveno evropsko nebo ("Službeni list CG", broj 27/14) u članu 2, na kraju stava 1 briše se tačka i dodaju se riječi "i Sprovedbena Regulativa Komisije (EU) br. 2016/2345 оd 14. decembra 2016. godine o izmjenama Regulative (EZ) br. 262/2009 i Sprovedbene Regulative (EU) br. 1079/2012 u odnosu na pozivanja na ICAO odredbe, koja je data u Prilogu 2 ovog pravilnika."
