@@ -1,0 +1,4 @@
+Na osnovu člana 18 stav 1 tačka 4 Zakona o komunalnim djelatnostima ("Službeni list CG" br. 55/16, 74/16-ispr. 02/18 - dr.zakon i 66/19), člana 17 Zakona o privrednim društvima ("Službeni list CG", br. 65/20), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19 i 38/20), člana 115 stav 3 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", br. 64/17, 44/18, 63/18 i 11/19, isprv. 82/20), člana 2 stav 1 tačka 2 alineja 4 Pravilnika o bližim uslovima za postavljanje, odnosno građenje privremenih objekata, uređaja i opreme ("Službeni list CG", br. 43/18) i člana 44 stav 1 tačka 2 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", broj 02/19), Skupština opštine Budva, na sjednici održanoj 11. marta 2021. godine, donijela je
+ODLUKU
+o izmjenama i dopunama Odluke o oglašavanju na teritoriji Opštine Budva ("Službeni
+list CG - Opštinski propisi",
