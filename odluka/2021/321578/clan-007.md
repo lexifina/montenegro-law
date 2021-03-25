@@ -1,0 +1,2 @@
+# Član 7
+Subjekti iz člana 6 stav 2 ove odluke podnose zahtjev, najkasnije 7 dana prije dana održavanja aktivnosti, Sekretarijatu za društvene djelatnosti na propisanom obrascu koji je sastavni dio ove odluke. Zahtjev se podnosi u pisanoj formi na adresu: Opština Budva, Sekretarijat za društvene djelatnosti, Trg sunca br. 3 ili na e-mail adresu: mladibudva@budva.me ili neposredno, predajom zahtjeva na šalter pisarnice - Građanskog biroa Opštine.
