@@ -1,0 +1,2 @@
+# Član 11
+Ukoliko nije formiran Savjet za saradnju nevladinih organizacija sa lokalnom samoupravom, izbor predstavnika iz redova nevladinih organizacija za člana Komisije za raspodjelu prostora u vlasništvu opštine bez nadoknade, vršiće se prema javnom pozivu i proceduri predviđenoj za izbor predstavnika NVO za člana Komisije za raspodjelu sredstava NVO, a shodno važećoj Odluci o načinu, postupku i kriterijumima za raspodjelu sredstava nevladinim organizacijama.
