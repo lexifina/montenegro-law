@@ -1,0 +1,4 @@
+# Član 2
+Za zemljište iz člana 1 ove odluke utvrđena je naknada u iznosu od 172.042,87 € (172,50 eura/m2), u skladu sa procjenom Komisije Uprave za nekretninine Crne Gore P.br.02-3093/3- 17 od 14.12.2020.godine.
+Dio naknade iz prethodnog stava u iznosu od 48.754,14€ upotrijebiti će se za izmirenje duga "Four Pillars" doo (na dan 01.03.2021. godine) za komunalno opremanje građevinskog zemljišta na ime izgradnje objekta na urbanističkoj parceli br.5, Blok 20 u zahvatu DUP-a "Stambena zajednica VI Kruševac" Izmjene i dopune u Podgorici, po Ugovoru br.01-031/18- 3253 od 25.04.2018.godine.
+Preostali dio naknade za zemljište u iznosu od 123.288,73 € upotrijebiti će se za izmirenje buduće naknade za komunalno opremanje građevinskog zemljišta za objekte investitora "Four Pillars" doo Podgorica u zahvatu DUP-a "Zabjelo 8".
