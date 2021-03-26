@@ -1,0 +1,3 @@
+# Član 1
+## Podgorica
+Glavni grad - Podgorica, kao nosilac prava raspolaganja, daje saglasnost Upravi carina Crne Gore za postavljanje privremenog objekta (specijalizovanog kontejnera-DATA CENTAR), na zemljištu u imovini Glavnog grada Podgorica - dijelu katastarske parcele broj 4373/8 KO Podgorica III, u skladu sa Programom privremenih objekata na teritoriji Glavnog grada Podgorice ("Sl. list CG- Opštinski propisi", br.39/20) i Urbanističko-tehničkim uslovima za izradu tehničke dokumentacije za postavljanje privremenog objekta-objekat kontejnerskog tipa na dijelu katastarske parcele broj 4373/8 KO Podgorica III-Zona I, broj UPI 04-335/20-2270 od 29. decembra 2020. godine, izdatim od strane Sekretarijata za komunalne poslove.
