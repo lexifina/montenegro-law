@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19 i 38/20), člana 33 Statuta Opštine Plav ("Službeni list CG-Opštinski propisi" broj 44/18), a u vezi sa članom 55 stav 1i 5 Zakona o komunalnim djelatnostima ("Sl. list CG" broj 55/16 i 66/19) na zahtjev DOO "Komunalne djelatnosti" Plav, za davanje saglasnosti na visinu cijena komunalnih usluga Skupština opštine Plav, na sjednici održanoj 29.03.2021. godine, donijela je
+O D L U K U
