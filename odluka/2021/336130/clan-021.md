@@ -1,0 +1,3 @@
+# Član 21
+U Obrascu - Korekcije iz Priloga 3 u tabelama "A) Elementi regulatornog prihoda koji se koriguju za javno vodosnabdijevanje", "B) Elementi regulatornog prihoda koji se koriguju za upravljanje komunalnim otpadnim vodama (prihvatanje i odvođenje komunalnih otpadnih voda)" i "C) Elementi regulatornog prihoda koji se koriguju za upravljanje komunalnim otpadnim vodama (prečišćavanje komunalnih otpadnih voda)" u redu 7 riječi: "Drugi troškovi poslovanja nastali obavljanjem djelatnosti (detaljno specificirati strukturu i iznos)" zamjenjuju se riječima: "Rashodi kamata po osnovu kredita i zajmova i kamata po osnovu finansijskog lizinga".
+U redu "b) umanjeni za 50%" riječi: "za 50%" zamjenjuju se riječima: "za 70%".
