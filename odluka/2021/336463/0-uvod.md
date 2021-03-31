@@ -1,0 +1,2 @@
+Na osnovu člana 82 tačka 3 Ustava Crne Gore i člana 5 stav 5 Odluke o obrazovanju Odbora za sveobuhvatnu izbornu reformu ("Službeni list CG″, broj 129/20), Skupština Crne Gore 27. saziva na Drugoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2021. godini, dana 31. marta 2021. godine, donijela je
+ODLUKU O IZBORU PREDSJEDNIKA, ZAMJENIKA PREDSJEDNIKA I ČLANOVA ODBORA ZA SVEOBUHVATNU IZBORNU REFORMU
