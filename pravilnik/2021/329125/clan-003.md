@@ -1,0 +1,2 @@
+# Član 3
+U članu 6 na kraju stava 1 tačka se zamjenjuje zarezom i dodaju riječi: "odnosno eksplozivnih materija."

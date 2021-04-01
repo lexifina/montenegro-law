@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o oduzimanju, čuvanju i postupanju sa predmetima koje policijski službenik privremeno oduzima ("Službeni list CG", broj 66/15) u članu 4 na kraju stava 1 tačka se zamjenjuje zarezom i dodaju riječi: "osim eksplozivnih materija koje se predaju organizacionoj jedinici organa državne uprave nadležnog za unutrašnje poslove (u daljem tekstu: Ministarstvo) koja vrši poslove zaštite i spašavanja."
