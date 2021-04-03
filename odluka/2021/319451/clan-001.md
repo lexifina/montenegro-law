@@ -1,0 +1,36 @@
+# Član 1
+## o ustupanju poslovnih prostora Sekretarijatu za kulturu i sport Glavnog grada Podgorice
+Ovom odlukom ustupaju se Sekretarijatu za kulturu i sport Glavnog grada Podgorice na dalje upravljanje, korišćenje, raspolaganje i održavanje, sljedeći poslovni prostori:
+1. Poslovni prostor u Ulici S.Markovića 36, upisan u LN br.186, KO Podgorica I, na kat.parceli br.415/12, kao PD 71, površine 44 m2, spratnosti P, svojina Glavni grad Podgorica,
+2. Poslovni prostor u Ulici S.Markovića 36, upisan u LN br.186, KO Podgorica I, na kat.parceli 415/12 kao PD69, površine 49 m2, spratnosti P, svojina Glavni grad Podgorica,
+3. Dio poslovnog prostora (76,88 m2) na Trgu B.Vučinić bb, upisan u LN 737, KO Podgorica III, na kat.parcelibr.2837, kao PD74, površine 237,00 m2, spratnosti 1P, svojina Glavni grad Podgorica,
+4. Dio poslovnog prosotra (67,79 m2) na Trgu B.Vučinić bb, upisan u LN 737, KO Podgorica III, na kat.parceli br.2837, kao PD74, površine 237,00 m2, spratnosti 1P, svojina Glavni grad Podgorica,
+5. Poslovni prostor u Ulici M.Radunovića bb, upisan u LN 1015, KO Podgorica I, na kat.parceli br. 456, kao PD18, površine 36 m2, spratnosti P, svojina Agencija za izgradnju i razvoj Podgorice d.o.o.,
+6. Poslovni prostor u Ulici M.Radunovića bb, upisan u LN 1015, KO Podgorica I, na kat.parceli br.456, kao PD15, površine 33 m2, spratnosti P,svojina Glavni grad Podgorica,
+7. Poslovni prostor u Ulici M.Radunovića S3, upisan u LN br.1014, KO Podgorica I, na kat.parceli br.447, kao PD2, površine 41 m2, spratnosti 1P, svojina Agencija za izgradnju i razvoj Podgorice d.o.o.,
+8. Poslovni prostor u Ulici M.Radunovića S3, upisan u LN 1014, KO Podgorica I, na kat.parceli br.447, kao PD4, površine 41 m2, spratnosti 1P, svojina Agencija za izgradnju i razvoj Podgorice d.o.o.,
+9. Dio poslovnog prostora (63,81 m2) na Trgu N.Kovačevića 5, upisan u LN br.683, KO Podgorica I, na kat.parceli br.1146/18, kao PD67, površine 125 m2, spartnosti P, svojina Glavni grad Podgorica,
+10. Poslovni prostor na Trgu N.Kovačevića 7, upisan u LN 740, KO Podgorica I, na kat.parceli br.1162, kao PD5, površine 26 m2, spratnosti P, svojina Agencija za izgradnju i razvoj Podgorice d.o.o.,
+11. Poslovni prostor u Ulici Danila Kiša br.5, upisan u LN 1062, KOPodgorica I, na kat.parceli br.1146/14, kao PD2, površine 36 m2, spratnosti P, svojina Glavni grad Podgorica,
+12. Poslovni prostor u Ulici V.Kosov.Junaka br.8, upisan u LN1031, KO PG I, na kat.parceli
+br.1169/1, kao PD124, površine 45 m2, spratnosti P, svojina Glavni grad Podgorica,
+13. Poslovni prostor u Ulici Gavrila Dožića 2, upisan u LN 683, KO Podgorica I, na kat.parceli br.1146/12, kao PD147, površine 50 m2, spratnosti P i PD 145, površine 50 m2, spratnosti 1P, svojina Agencija za izgradnju i razvoj Podgorice d.o.o.,
+14. Poslovni prostor u Ulici 4. Jula S12, upisan u LN 5747, KO Podgorica I, na kat.parceli br.9002, kao PD1, površine 47 m2, spratnosti P, svojina Glavni grad Podgorica,
+15. Poslovni prostor u Ulici 4. Jula TS2, upisan u LN 5745, KO Podgorica I, na kat.parceli br.9003, kao PD 2, površine 58 m2, spratnosti P, svojina Agencija za izgradnju i razvoj Podgorice d.o.o.,
+16. Poslovni prostor u Ulici 4. Jula TD2, upisan u LN 5745, KO Podgorica III, na kat.parceli br.9003, kao PD 1, površine 45 m2, spratnosti P, svojina Glavni grad Podgorica,
+17. Poslovni prostor u Ulici Gavra Vukovića L1, upisan u LN 775, KO Podgorica I, na kat.parceli br.1678, kao PD1, površine 109 m2, spratnosti 1P, svojina Glavni grad Podgorica,
+18. Poslovni prostor u Ulici Gavra Vukovića L2, upisan u LN 775, KO Podgorica I, na kat.parceli br.1678, kao PD12, površine 109 m2, spratnosti 1P, svojina Glavni grad Podgorica,
+19. Poslovni prostor na Malo Brdo L4, upisan u LN 775, KO Podgorica I, na kat.parceli br.1677, kao PD 2, površine 41 m2, spratnosti P, svojina Agencija za izgradnju i razvoj Podgorice d.o.o.,
+20. Poslovni prostor u Ulici M.Radunovića bb, upisan u LN 1014, KO Podgorica I, na kat.parceli br.447, kao PD 13, površine 44 m2, spratnosti 1P, svojina Glavni grad Podgorica,
+21. Poslovni prostor u Ulici Jerevanska 42, upisan u LN4289, KO Podgorica III, na kat.parceli br.4774, kao PD128, površine 72 m2, spratnosti P, svojina Glavni grad Podgorica,
+22. Poslovni prostor u Ulici Jerevanska 36, upisan u LN4289, KO Podgorica III, na kat.parceli br.4774, kao PD197, površine 16 m2, spratnosti P, svojina Glavni grad Podgorica,
+23. Poslovni prostor u Ulici Vojislavljevića br.26, 41m2,
+24. Poslovni prostor u Ulici 27.marta G-7 Zabjelo, upisan u LN 1318, KO Podgorica III,na
+kat.parceli br.4882, kao PD 143, površine 39 m2, spratnosti1P, svojina Agencija za izgradnju i razvoj Podgorice d.o.o.,
+25. Poslovni prostor u Ulici Đoka Miraševića br.57, upisan u LN 683, KOPodgorica I,na kat.parceli br.1146/13, kao PD 111 i PD 105, površine 77 m2 i 6 m2, spratnosti P i 1P, svojina Agencija za izgradnju i razvoj Podgorice d.o.o.,
+26. Poslovni prostor u Ulici Đoka Miraševića br.59, upisan u LN 683, KO Podgorica I,na kat.parcelibr.1146/13, kao PD 110 i PD 108, površine 61 m2 i 61 m2, spratnosti P i 1P, svojinaAgencija za izgradnju i razvoj Podgorice d.o.o.,
+27. Poslovni prostor u Ulici S.Boljevića L9, upisan u LN5780, KO Podgorica I, na kat.parceli br.7737, kao PD52, površine 56 m2, spratnosti 1P, svojina Glavni grad Podgorica,
+28. Poslovni prostor u Ulici Vlada Ćetkovića L3, upisan u LN 2564, KO Tološi, na kat.parceli br.1818, kao PD 118, površine 66 m2, spratnosti P, svojina Glavni grad Podgorica,
+29. Poslovni prostor u Ulici Vlada Ćetkovića L13, upisan u LN 2564, KO Tološi, na kat.parceli br.1818, kao PD 161, površine 33 m2, spratnosti P, svojina Glavni grad Podgorica,
+30. Poslovni prostor u Ulici Vlada Ćetkovića L14, upisan u LN 2564, KO Tološi, na kat.parceli br.1818, kao PD 162, površine 125 m2, spratnosti P i 1P, svojina Glavni grad Podgorica,
+31. Poslovni prostor u Ulici Velimira Terzića 10, upisan u LN 683, KO Podgorica I, na kat.parceli br.1146, kao PD31, površine 10 m2, spratnosti P, svojina Agencija za izgradnju i razvoj Podgorice d.o.o.
