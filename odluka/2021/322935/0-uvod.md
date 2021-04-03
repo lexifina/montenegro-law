@@ -1,0 +1,2 @@
+Na osnovu člana 7 Zakona o pozorišnoj djelatnosti ("Službeni list Republike Crne Gore" broj 60/01 i "Službeni list Crne Gore" br. 75/10 i 40/11), člana 42 Zakona o kulturi ("Službeni list Crne Gore" br. 49/08, 16/11, 40/11 i 38/12) člana 38 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18 , 34/19 i 38/20) i člana 54 stav 1 tačka 17 Statuta Glavnog grada Podgorice ("Službeni list Crne Gore - Opštinski propisi" broj 8/19), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 12. marta 2021. godine, donijela je
+O D L U K U
