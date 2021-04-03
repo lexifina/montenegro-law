@@ -1,0 +1,1 @@
+# IX. Obaveze zakupca

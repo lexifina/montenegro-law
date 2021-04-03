@@ -1,0 +1,3 @@
+# Član 1
+Ovom odlukom utvrđuju se postupak, način i uslovi davanja u zakup poslovnog prostora u svojini Glavnog grada Podgorice (u daljem tekstu: Glavni grad), kriterijumi i način utvrđivanja zakupnine, način korišćenja poslovnog prostora i druga pitanja u vezi sa davanjem u zakup poslovnog prostora.
+Pod poslovnim prostorom podrazumijeva se prostor koji koristi i održava Agencija za izgradnju i razvoj Podgorice d.o.o. (u daljem tekstu: Agencija), koji se nalazi u stambenim, poslovnim ili montažnim objektima, poslovni prostori koje u ime i za račun Glavnog grada pribavi Agencija u sudskim sporovima, i garažni prostor u kome se može obavljati poslovna djelatnost.
