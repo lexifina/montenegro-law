@@ -1,0 +1,3 @@
+# Član 1
+## o regulisanju imovinsko pravnih odnosa na kat.parceli 1626 KO Tivat
+Radi regulisanja imovinsko pravnih odnosa na dijelu kat.parcele 1626 KO Tivat , na kojem je evidentiran teret zabrane otuđenja i opterećenja zbog "viška" površine od 83m2 ( i predstavlja zemljište koje je,nakon uređenja potoka njegovim obziđivanjem,ostalo između potoka i čestice zemlje 3099/3 koja je vlasništvo podnositeljke) , obavezuje se uknjiženi vlasnik-Ivanović Nada da Opštini Tivat isplati naknadu u ukupnom iznosu od 11.434,91€ ( jedanaesthiljadačetristotridesetčetiri eura i devedesetjedan cent) u skladu sa procjenom Uprave za nekretnine Podgorica.
