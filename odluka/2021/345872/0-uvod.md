@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore ", br. 2/18, 34/19 i 38 /20) , člana 54 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", broj 8/19) i člana 44 Odluke o osnivanju Društva sa ograničenom odgovornošću Lokalni javni emiter "Radio televizija Podgorica" ( "Službeni list Crne Gore - Opštinski propisi", broj 9/20), Skupština Glavnog grada - Podgorice, na sjednici održanoj 12. marta 2021. godine, donijela je
+ODLUKU
