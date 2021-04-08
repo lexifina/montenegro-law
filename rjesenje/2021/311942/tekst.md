@@ -1,0 +1,5 @@
+Na osnovu člana 50 Opšteg zakona o obrazovanju i vaspitanju ("Službeni list RCG", br. 64/02, 31/05 i 49/07 i "Službeni list CG", br. 45/10, 45/11, 36/13, 39/13 i 47/17) i člana 18 stav 1 Zakona o upravnom postupku ("Službeni list CG", br. 56/14, 20/15, 40/16 i 37/17), Ministarstvo prosvjete, nauke, kulture i sporta donijelo je
+R J E Š E Nj E
+O IZDAVANJU LICENCE PRIVATNOJ USTANOVI "OYKOS DIGITAL HUB" IZ PODGORICE
+1. Izdaje se licenca Privatnoj ustanovi "Oykos digital hub", iz Podgorice, za izvođenje: Programa obrazovanja za sticanje ključnih vještina kreiranje aplikacija primjenom jezika java, kreiranje veb aplikacija primjenom jezika typescript, vođenje profila poslovnih korisnika na društvenim mrežama, Programa obrazovanja za sticanje: preduzetničkih znanja i vještina, znanja i vještina rada na računaru Zavoda za zapošljavanje i Programa obrazovanja za sticanje stručne kvalifikacije: elektrotehničar/ka za razvoj veb aplikacija i elektrotehničar/ka za razvoj mobilnih aplikacija.
+2. Ovo rješenje stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore".
