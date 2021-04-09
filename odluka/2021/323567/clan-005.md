@@ -1,0 +1,2 @@
+# Član 5
+Ovlašćuje se predsjednik Opštine Plav, da u ime Opštine Plav, sa Ministarstvom finansija i bankom zaključi ugovor o cesiji i potpiše akta kojima će omogućiti Ministarstvu finansija raspolaganje sredstvima koja Opština Plav dobija iz Egalizacijonog fonda i Zakonom ustupljenih prihoda za period trajanja Ugovora o cesiji i Ugovora o zaduživanju, do visine obaveza utvrđenih pomenutim Ugovorima.

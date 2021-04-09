@@ -1,0 +1,2 @@
+Na osnovu člana 45 stav 4 i člana 48 stav 1 Zakona o finansiranju lokalne samouprave ("Službeni list CG", br. 003/19), člana 57 stav 1 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14, 56/14,70/17, 04/18 i 55/18), člana 33 stav 1 tačka 15 i člana 41 stav 2 Statuta Opštine Plav ("Službeni list CG - opštinski propisi", br. 12/18) Skupština opštine Plav, na sjednici održanoj 29.03.2021. godine, donijela je
+ODLUKU
