@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Sl. list RCG", broj 25/2019), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/2018, 34/2019 i 38/2020), člana 7 stav 1 tačka 1 Zakona o finansiranju lokalne samouprave ("Sl. list CG", broj 3/19) i člana 36 stav 1 tačka 8 Statuta opštine Mojkovac ("Sl. list CG - Opštinski propisi", broj 29/18), Skupština opštine Mojkovac na sjednici održanoj 26. marta 2021. godine, donijela je
+O D L U K U
