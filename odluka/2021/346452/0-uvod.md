@@ -1,0 +1,4 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18 , 34/19, 38/20) i člana 46 stav 1 tačka 2 Statuta Opštine Rožaje ("Službeni list CG - Opštinski propisi", broj 38/18), Skupština Opštine Rožaje, na sjednici odžanoj dana 23.03.2021. godine, donijela je
+ODLUKU
+o prestanku važenja Odluke o pokretanju inicijative za smanjenje republičkih poreza i
+doprinosa iz ličnih dohodaka od poljoprivrede i katastarskog prihoda na teritoriji Opštine
