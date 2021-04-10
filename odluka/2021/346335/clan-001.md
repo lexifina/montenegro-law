@@ -1,0 +1,7 @@
+# Član 1
+## okviru DUP-a "Podbišće 2 "- prva faza realizacije "Grotulja"
+Opština Mojkovac prodaje nepokretnosti u državnoj svojini, sa pravom raspolaganja Opštine Mojkovac i to:
+1. urbanističku parcelu br. 17, površine 413 m2, koju čini katastarska parcela broj 208/12, po kulturi pašnjak 7. klase, površine 407 m2, koja je upisana u PL br. 118 u KO Podbišće i katastarska parcela broj 975/4, po kulturi neplodno zemljište, površine 6 m2, koja je upisana u PL br. 134 u KO Podbišće u okviru DUP-a "Podbišće 2 "- prva faza realizacije "Grotulja" po minimalnoj cijeni od 7.425,74€ (Eura), (413m2 x 17,98€);
+2. urbanističku parcelu br. 18, površine 466 m2, koju čini katastarska parcela broj 208/8, po kulturi pašnjak 7. klase, površine 466 m2, koja je upisana u PL br. 118 u KO Podbišće u okviru DUP-a "Podbišće 2 "- prva faza realizacije "Grotulja" po minimalnoj cijeni od 8.378,68€ (Eura), (466m2 x 17,98€);
+3. urbanističku parcelu br. 19, površine 455 m2, koju čini katastarska parcela broj 208/9, po kulturi pašnjak 7. klase, površine 466 m2, koja je upisana u PL br. 118 u KO Podbišće u okviru DUP-a "Podbišće 2 "- prva faza realizacije "Grotulja" po minimalnoj cijeni od 8.180,90€ (Eura), (455m2 x 17,98€);
+4. urbanističku parcelu br. 21, površine 441 m2, koju čini katastarska parcela broj 208/10, po kulturi pašnjak 7. klase, površine 441 m2, koja je upisana u PL br. 118 u KO Podbišće u okviru DUP-a "Podbišće 2 "- prva faza realizacije "Grotulja", po minimalnoj cijeni od 7.929,18€ (Eura), (441m2 x 17,98€).
