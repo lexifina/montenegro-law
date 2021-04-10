@@ -1,0 +1,3 @@
+Na osnovu člana 115 i 116 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG, br.64/17, 44/18, 63/18, 11/19 i 82/20), člana 38 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br.2/18, 34/19 i 38/20), člana 46 Statuta opštine Rožaje ("Službeni list CG - Opštinski propisi" broj 38/18), i odredbi Pravilnika o bližim uslovima za postavljanje, odnosno građenje privremenih objekata, uređeja i oprem ("Službeni list CG - Opštinski propisi", broj 43/18, 76/18 i 76/19), Skupština opštine Rožaje, na sjednici održanoj dana 23.03.2021.godine, donijela je
+O D L U K U
+o donošenju Programa privremenih objekata na teritoriji Opštine Rožaje za period od
