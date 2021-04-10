@@ -1,0 +1,4 @@
+# Član 4
+Pomoćni objekat se postavlja odnosno gradi u granicama urbanističke parcele, u skladu sa Detaljnim urbanističkim planom (u daljem tekstu: DUP-om), odnosno u granicama katastarske parcele ukoliko nije donešen ili nije potrebno donijeti plan detaljne razrade, a prema smjernicama Prostorno urbanističkog plana.
+Van zone DUP-ova mogu se graditi pomoćni objekti iako na katastarskoj parceli do tada nije izgrađen glavni objekat.
+Do donošenje plana generalne regulacije Crne Gore pomoćni objekti iz člana 2 stav 1 tačka 2 ove odluke postavljaju se i grade u skladu sa Odlukom o postavljanju odnosno građenju i uklanjanju pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom na teritoriji opštine Mojkovac (Sl. List Crne Gore- Opštinski propisi", br. 13/14).

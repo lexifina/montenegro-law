@@ -1,0 +1,7 @@
+# Član 2
+Pomoćnim objektima smatraju se:
+1) pomoćni objekti koji služe korišćenju stambenog odnosno poslovnog objekta, a svrstavaju se u tri tipa:
+- tip 1 pomoćni objekti koji čine funkcionalnu i ekonomsku cjelinu sa objektom čijem korišćenju služi pomoćni objekat: podzemne i nadzemne garaže, ostave, drvarnice, ljetnje kuhinje, portirnice, objekti za radnike obezbjeđenja, objekti za naplatu i slični objekti, - tip 2 pomoćni objekti infrastrukture: septičke jame, bazeni, bunari, cistijerne za vodu, bistijerne, šahte, kotlarnice, uređaji za grijanje i hlađenje, plinski sistemi i slični objekti, - tip 3 pomoćni objekti uređenja terena: ograde, međe, podzide, potporni zidovi, otvoreni bazeni, fontane, nadstrešnice, pergole i drugi slični objekti);
+2) pristupne rampe, liftovi i slični objekti za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom;
+3) ekonomski objekti na poljoprivrednom gazdinstvu (objekti za gajenje životinja, prateći objekti za gajenje životinja, objekti za skladištenje stočne hrane, objekti za smještaj poljoprivredne mehanizacije, alata i oruđa, objekti za skladištenje poljoprivrednih proizvoda i drugi pomoćni objekti koji su u funkciji poljoprivredne proizvodnje);
+4) pomoćni objekti u funkciji zaštite i valorizacije nepokretnih kulturnih dobara (zaštitne konstrukcije, centri za posjetioce, info-pultovi, prostori za prezentacije); i 5) foto-naponski paneli za proizvodnju električne energije iz obnovljivih izvora, snage do 10 kW, na krovu osnovnog odnosno drugog pomoćnog objekta.
