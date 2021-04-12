@@ -1,0 +1,2 @@
+Na osnovu člana 59 stav 1 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20), člana 125 stav 1 i 2 Statuta Prijestonice ("Sl. list CG - Opštinski propisi", br. 49/18, 9/19), člana 10 stav 1 alineja 1 Odluke o osnivanju Društva sa ograničenom odgovornošću "Agencija za razvoj i podršku poslovanju" Cetinje ("Sl .list CG - Opštinski propisi", br. 45/20), gradonačelnik Prijestonice Cetinje, donosi
+O D L U K A
