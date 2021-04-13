@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se način analize svojstava i karakteristika trenutnog stanja morske sredine, lista karakteristika trenutnog stanja i uticaja na morsku sredinu, uključujući i ljudske aktivnosti, kvalitativni pokazatelji, kriterijumi i metodološki standardi za određivanje dobrog ekološkog stanja morske sredine i način određivanja ciljeva i indikatora za ostvarivanje, odnosno održavanje dobrog stanja morske sredine.
