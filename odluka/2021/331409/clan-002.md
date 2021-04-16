@@ -1,0 +1,2 @@
+# Član 2
+Za svaki neradni dan (vikend), praznični dan u toku državnih i vjerskih praznika ili u drugim slučajevima propisanim Zakonom o radu, Zakonom o državnim službenicima i namještenicima i Zakonom o lokalnoj samoupravi, kada se od strane stranaka (građana Crne Gore ili Opštine Plav), shodno mogućnostima i željama istih zakaže vjenčanje, odnosno zaključenje braka, prilikom prisustvovanja i vršenja poslova ovlašćenih službenika Opštine Plav, isti službenici imaju pravo na naknadu u visini dnevnice (20,00€).
