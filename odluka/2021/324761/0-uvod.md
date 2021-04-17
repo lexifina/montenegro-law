@@ -1,0 +1,3 @@
+Na osnovu člana 16, 36 i 42 Zakona o kulturi ("Službeni list Crne Gore", br. 49/08, 16/11, 40/11, 38/12), člana 8 stav 2, Zakona o bibliotečkoj djelatnosti ("Službeni list Crne Gore", br. 49/10, 40/11), člana 27 stav 1 tačka 18, člana 29 stav 1 tačka 2 i člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20), člana 14 stav 1 alineja 18 i člana 35 stav 1 alineja 14 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18, 09/20), na sjednici Skupštine opštine Tivat, održanoj dana 31.03.2021. godine, donijeta je
+O D L U K A
+o osnivanju Javne ustanove Gradska biblioteka Tivat
