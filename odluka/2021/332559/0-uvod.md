@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18, 034/19, 038/20), člana 33 stav 1 tačka 2 Statuta Opštine Plav ("Službeni list Crne Gore - Opštinski propisi", br. 044/18) , i člana 81 stav 4 Poslovnika o radu Skupštine opštine Plav ("Sl. list CG - Opštinski propisi", broj 044/18), Skupština Opštine Plav je na sjednici održanoj 29.03.2021. godine, donijela je
+O D L U K U
