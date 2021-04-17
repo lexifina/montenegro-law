@@ -1,0 +1,2 @@
+Na osnovu člana 223 stav 1 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", br. 64/17, 44/18, 63/18 i 82/20) člаnа 38 stav 1 tač. 2 Zаkоnа о lоkаlnој sаmоuprаvi ( "Službeni list CG", br. 002/18, 34/19 i 38/20) i člаnа 33 stav 1 tačka 2 Stаtutа opštine Plav ("Službeni list CG - Opštinski propisi", br.044/18), Skupština opštine Plav, na sjednici održanoj 29.03.2021. godine, donijela je
+O D L U K U
