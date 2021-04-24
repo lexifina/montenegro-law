@@ -1,0 +1,3 @@
+Na osnovu člana 55 Zakona o komunalnim djelatnostima ("Sl.list CG", br. 55/16,74/16,02/18 i 66/19), člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl.list Crne Gore - Opštinski propisi", br. 19/18), člana 10 stav 1 alineja 6 Odluke o osnivanju društva sa ograničenom odgovornošću Vodovod "Bistrica" ("Sl.list CG-Opštinski propisi", br. 32/13), čl. 17 Statuta Društva sa sa ograničenom odgovornošću Vodovod "Bistrica" Bijelo Polje, Skupština opštine Bijelo Polje, na sjednici održanoj 30. i 31. 03.2021. godine, donijela je:
+O D L U K U
+o davanju saglasnosti na Odluku o utvrđivanju cijena usluga Društva sa ograničenom
