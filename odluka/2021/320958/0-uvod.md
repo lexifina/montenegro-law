@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 02/18, 34/19, 38/20), a u vezi sa čl. 3 i 11 Zakona o rodnoj ravnopravnosti ("Sl. list RCG", broj 46/07 i"Sl. list CG", br. 73/10, 40/11 i 35/15) i člana člana 53 stav 1 tačka 2 Statuta Opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi broj 024/19, 05/20), na sjednici Skupštine opštine održanoj dana 01.04.2021. godine, donijeta je
+O D L U K A
