@@ -1,0 +1,4 @@
+Na osnovu člana 34, stav 3, Zakona o zaštiti prirode ("Službeni list CG", broj 54/16) i člana 36 Statuta Opštine Kotor (Sl. list Crne Gore - Opštinski propisi br. 37/19), po prethodno pribavljenoj saglasnosti Ministarstva ekologije, prostornog planiranja i urbanizma br. 12-912/22, od 18.12.2020. godine, mišljenja Ministarstva poljoprivrede i ruralnog razvoja br. 08-311/20-12521/2 od 18.11.2020.godine, mišljenja Ministarstva prosvjete, nauke, kulture i sporta br. 01-082/21- 552/2 od 10.03.2021. godine i mišljenja Uprave za zaštitu kulturnih dobara br. UP/I-05-703/2020-3 od 21.12.2020. godine, Skupština Opštine Kotor je na VI sjednici održanoj 31 .03 . 2021. godine donijela
+O D L U K U
+o proglašenju zaštićenog prirodnog dobra:
+Spomenik prirode "STABLO CRNE TOPOLE (POPULUS NIGRA LINNAEUS, 1758) u Starom gradu Kotoru"
