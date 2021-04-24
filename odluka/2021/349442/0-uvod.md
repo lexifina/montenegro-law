@@ -1,0 +1,2 @@
+Na osnovu člana 168 stav 4 Zakona o planiranju prostora i izgradnji objekata ("Sl. list CG", br. 64/17, 44/18, 63/18, 11/19 i 82/20), člana 38 stav 1 tač. 2 i 8 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 02/18, 34/19 i 38/20) i člana 35 stav 1 tač. 2 i 8 Statuta Opštine Danilovgrad ("Sl. list CG - Opštinski propisi", broj 43/18), Skupština opštine Danilovgrad, na sjednici održanoj 02.04.2021. godine, donijela je
+O D L U K U
