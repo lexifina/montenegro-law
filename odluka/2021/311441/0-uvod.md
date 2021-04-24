@@ -1,0 +1,2 @@
+Na osnovu člana 154 stav 4 Zakona o socijalnoj i dječjoj zaštiti ("Sl. list CG", br. 27/13, 01/15, 42/15, 47/15, 56/16, 66/16, 01/17, 31/17, 42/17 i 50/17), člana 27 stav 1 tačka 15 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 02/18, 34/19 i 38/20) i člana 35 stav 1 tačka 2 Statuta Opštine Danilovgrad ("Sl. list CG - Opštinski propisi", broj 43/18) Skupština opštine Danilovgrad na sjednici održanoj 02.04. 2021. godine donosi
+O D L U K U
