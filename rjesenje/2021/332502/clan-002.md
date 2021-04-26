@@ -1,0 +1,43 @@
+# Član 2
+Član 7. mijenja se i glasi: Visina naknade za ustupanje građevinskog zemljišta na privremeno korišćenje po m² zemljišta preme zonama, kategorijama i namjeni utvrđuje se u € prema sljedećoj tabeli:
+a) Poslovni prostor za 2018. godinu
+I ZONA II ZONA III ZONA IV ZONA V ZONA
+I KATEGORIJA 5,99 4,85 3,55 2,43 1,30 II KATEGORIJA 5,34 4,20 3,24 2,10 1,12 III KATEGORIJA 4,85 3,55 2,75 1,77 0,98 IV KATEGORIJA 4,20 2,91 2,27 1,63 0,81 V KATEGORIJA 3,55 2,58 1,93 1,12 0,65 VI KATEGORIJA 2,43 1,77 1,45 0,98 0,47
+b) Poslovni prostor za 2019. godinu
+I ZONA IIZONA III ZONA IV ZONA V ZONA I KATEGORIJA 6,01
+4,87 3,57
+2,44
+1,30 II KATEGORIJA 5,36 4,22
+3,25
+2,11
+1,13 III KATEGORIJA 4,87 3,57 2,76
+1,78
+0,98 IV KATEGORIJA 4,22 2,92 2,28 1,63 0,81 V KATEGORIJA 3,57 2,59 1,94 1,13 0,65 VI KATEGORIJA 2,44
+1,78 1,46 0,98
+0,48 c)
+Poslovni prostor za 2020. godinu
+I ZONA II ZONA III ZONA IV ZONA V ZONA I KATEGORIJA
+5,99
+4,85
+3,56 2,43
+1,30 II KATEGORIJA
+5,34
+4,21
+3,24 2,10
+1,12 III KATEGORIJA
+4,85
+3,56
+2,75 1,77
+0,98 IV KATEGORIJA
+4,21
+2,91
+2,28 1,63
+0,81 V KATEGORIJA
+3,56
+2,58
+1,93 1,12
+0,65 VI KATEGORIJA
+2,43
+1,77
+1,45 0,98
+0,48

@@ -1,0 +1,2 @@
+Na osnovu člana 58 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 002/18, 034/19, 038/20) i člana 12 Odluke o visini naknade za ustupanje građevinskog zemljišta na privremeno korišćenje ("Sl. list RCG - Opštinski propisi", broj 05/02 i 06/05, ‘’Sl.list CG - Opštinski propisi’’, br.09/17 ), Sekretarijat za finansije, uz saglasnost predsjednika Opštine Bijelo Polje, donosi
+R J E Š E Nj E o usklađivanju naknade za korišćenje građevinskog zemljišta za 2018, 2019 i 2020.
