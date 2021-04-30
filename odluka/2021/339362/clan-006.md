@@ -1,0 +1,3 @@
+# Član 6
+Svi obveznici plaćanja članskog doprinosa iz člana 1 ove odluke dužni su da do 30. aprila tekuće godine nadležnom poreskom organu lokalne uprave dostave bilans uspjeha, odnosno drugi akt kojim se utvrđuje visina prihoda ostvarenog u prethodnoj godini, obavljanjem turističke, ugostiteljske i s turizmom neposredno povezane djelatnosti, kao i obavještenje o razvrstavanju djelatnosti Republičkog zavoda za statistiku Crne Gore, odnosno drugi akt kojim se utvrđuje djelatnost.
+- Obračun, naplatu i kontrolu članckog doprinosa vrši organ Lokalne uprave nadležan za poslove lokalnih javnih prihoda.

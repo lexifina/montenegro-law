@@ -1,0 +1,2 @@
+Na osnovu člana 39 Zakona o Turističkim organizacija ("Službeni list RCG" br . 11/04 i 46/07 i "Službeni list Crne Gore" br.73/10, 40/11, 45/14, 42/17 i 27/19), člana 38 , stav 1 tačka 2 Zakona o lokalnoj samoupravi ( " Službeni list Crne Gore " br. 02/18, 34/19 i 38/20), člana 32, stav 8, Statuta opštine Petnjica ( "Sl . list CG - Opštinski propisi", br. 29/2018), Skupština opštine Petnjica na sjednici održanoj 31.03.2021.godine donijela je:
+O D L U K U
