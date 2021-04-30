@@ -1,0 +1,6 @@
+# Član 2
+Poslije člana 66 dodaje se novi član 66a koji glasi:
+"Za vrijeme trajanja epidemije zarazne bolesti Covid - 19 sjednice Skupštine opštine Pljevlja i radnih tijela mogu se organizovati na daljinu.
+Sjednica na daljinu je sjednica na kojoj odbornik i drugo lice koje je član radnog tijela učestvuje u radu van mjesta održavanja sjednica Skupštine i radnih tijela uz pomoć informaciono - komunikacione tehnologije.
+Odbornik i drugo lice koje je član radnog tijela, može učestvovati u radu sjednice Skupštine i radnih tijela na daljinu putem informaciono - komunikacione tehnologije ukoliko je zaražen virusom Covid - 19, ako se nalazi na bolničkom liječenju zbog istog ili ako mu je Rješenjem nadležnog organa određena obaveza samoizolacije, o čemu treba pribaviti dokaz.
+Odbornik i drugo lice koje je član radnog tijela je dužan najkasnije do početka sjednice Skupštine ili radnih tijela u pisanoj ili elektronskoj formi obavijestiti predsjednika Skupštine, odnosno predsjednika radnog tijela o razlozima da učestvuje u radu sjednice na daljinu. Ukoliko odbornik i drugo lice koje je član radnog tijela učestvuje u radu sjednice na daljinu, obavezan je da obezbijedi uređaj i aplikaciju koja omogućava prenos i snimanje slike i zvuka u realnom vremenu takvog kvaliteta da se bez sumnje može utvrditi njegov identitet. "
