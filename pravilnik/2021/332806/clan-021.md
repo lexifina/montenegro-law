@@ -1,0 +1,5 @@
+# Član 21
+Provjeru usaglašenosti prometa ljekova na veliko sa smjernicama Dobre prakse u distribuciji farmaceutski inspektor vrši u skladu sa Kompilacijom procedura Zajednice o inspekcijama i razmjeni informacija Evropske unije (Compilation of Community Procedures on Inspections and Exchange of Information) i sačinjava Izvještaj o usaglašenosti distribucije ljekova sa smjernicama Dobre prakse u distribuciji, na koji veledrogerija može da dostavi primjedbe i predloge za otklanjanje neusaglašenosti u određenom roku.
+Nakon procjene primjedbi i predloga iz stava 1 ovog člana, farmaceutski inspektor sačinjava Izvještaj o primjeni smjernica Dobre prakse u distribuciji (u daljem tekstu: Izvještaj GDP inspekcije) na osnovu kojeg, Institut izdaje sertifikat o primjeni smjernica dobre prakse u distibuciji (u daljem tekstu: GDP sertifikat).
+Period na koji se izdaje GDP sertifikat, saglasno zakonu, određuje se na osnovu procjene rizika koju vrši Institut.
+Ako promet ljekova nije usaglašen sa smjernicama Dobre prakse u distribuciji, Institut izdaje odgovarajuću Izjavu neusaglašenosti.
