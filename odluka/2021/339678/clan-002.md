@@ -1,0 +1,2 @@
+# Član 2
+Poslovni prostor se daje u zakup u viđenom stanju, na period od 10 godina, sa mogućnošću produženja ugovora o zakupu, ukoliko se ugovorne strane saglase oko bitnih elemenata ugovora, koji se odnose na cijenu koja će tada biti procijenjena. Opremanje prostora je obaveza zakupca za koju on nema pravo na povrat uloženih sredstava. Što se tiče unijete opreme koja se može ukloniti bez oštećenja prostora, ista ostaje u vlasništvu zakupca.
