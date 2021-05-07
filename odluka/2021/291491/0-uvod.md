@@ -1,0 +1,3 @@
+Na osnovu člana 239 stav 19 i člana 240 a stav 2 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", broj 64/17, 44/18, 63/18 i 82/20), člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18,34/19 i 38/20) i i člana 34 stav 1 tačka 2 i 8 Statuta Opštine Herceg Novi ("Službeni list CG - Opštinski propisi ", broj 1/19, 37/19 i 6/20), uz prethodnu saglasnost Vlade Crne Gore br.04-1570/2 od 08.04.2021. godine, Skupština opštine Herceg Novi, na sjednici održanoj dana 26.04.2021.godine, donijela je
+O D L U K U
+o naknadi za komunalno opremanje građevinskog zemljišta
