@@ -1,0 +1,3 @@
+Na osnovu člana. 20 i člana. 25 tačka 2 Zakona o poljoprivredi i ruralnom razvoju ("Službeni list CG", br. 56/09, 18/11, 40/11, 34/14, 01/15, 30/17 i 51/17), član. 27 stav 1 tačka 22 Zakona o Lokalnoj samoupravi ("Službeni list CG", br. 002/18, 34/19, 038/20) i člana. 25 stav 3,4 i 5 Statuta Opštine Gusinje ("Službeni list CG-Opštinski propisi", br.003/19), uz prethodnu saglasnost Ministarstva poljoprivrede,šumarstva i vodoprivrede br. 10-307/20- 13162/5 od. 24.03.2021.godine, Skupština opštine Gusinje, na sjednici održanoj 19.04.2021 godine, donijela je:
+O D L U K U
+o podsticajnim mjerama za razvoj poljoprivrede
