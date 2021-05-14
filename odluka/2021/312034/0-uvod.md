@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Sl.list CG", br.55/16, 74/16, 2/18i 66/19), člana 46 stav 1 Statuta opštine Šavnik ("Sl.list CG- Opštinski propisi, broj 31/19) i člana 11 stav 1 alineja 1 Odluke o osnivanju Društva sa ograničenom odgovornošću ,,Komunalne djelatnosti" Šavnik ("Sl.list CG- Opštinski propisi", broj 30/13 i 18/15), Skupština opštine Šavnik, na sjednici održanoj dana 29.04.2021. godine, donijela je
+O D L U K U
