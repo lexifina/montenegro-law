@@ -1,0 +1,8 @@
+# Član 3
+Lokalnim objektima od opšteg interesa, u smislu ove odluke, smatraju se:
+1. Tip 1 - lokalni objekti od opšteg interesa infrastrukture (u daljem tekstu ''objekti tipa 1''): vodovodna, telekomunikaciona i kanalizaciona infrastruktura; toplovodi; opštinski putevi (lokalni i nekategorisani) i prateći objekti; ulice u naseljima i trgovi; parking prostori; pijace; gradska groblja; podzemni i nadzemni prolazi; javne garaže; objekti distributivne mreže naponskog nivoa do 35 kV trafostanice i vodove od 110 kV ili manje, rasklopna postrojenja; solarne elektrane od 5 MW i manje; sportski objekti i skijaške staze sa pratećom infrastrukturom za pripremu i uređenje istih; javna rasvjeta; javne i zelene površine i gradski parkovi; ski-liftovi i žičare koje se grade na teritoriji jedne lokalne samouprave.
+2. Tip 2 - lokalni objekti od opšteg interesa ruralnog razvoja (u daljem tekstu: ''objekti tipa 2''): objekti poljoprivrede, stočarstva, vinogradarstva, voćarstva i ribarstva.
+3. Tip 3 - lokalni objekti od opšteg interesa privrednog razvoja (u daljem tekstu: ''objekti tipa 3''): privredni objekti; objekti proizvodnog zanatstva; skladišta; stovarišta; robno - distributivni centri; komunalno servisni objekti i pumpne stanice.
+Za objekte tipa 3 iz stava 1 ovog člana i sportske objekte, prije donošenja akta o lokaciji podnosi se zahtjev Glavnom gradskom arhitekti za procjenu potrebe raspisivanja konkursa za izradu idejnog arhitektonskog rješenja.
+Javni konkurs raspisuje i žiri za odabir najboljeg rješenja imenuje služba Glavnog gradskog arhitekte, dok troškove sprovođenja snosi Investitor.
+U žiriju za odabir najboljeg rješenja obavezno je prisustvo jednog člana predstavnika Investitora i najmanje jednog člana predstavnika Glavnog grada.
