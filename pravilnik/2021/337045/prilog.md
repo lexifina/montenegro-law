@@ -1,0 +1,10 @@
+PRILOG
+IZGLED OZNAKE ZA SLOBODAN PREVOZ
+1.
+Izgled oznake za slobodan prevoz - izletnička tura:
+SLOBODAN PREVOZ - IZLETNIČKA TURA
+FREELINE TRANSPORT - EXCURSION TOUR
+2.
+Izgled oznake za slobodan prevoz - taksi prevoz:
+SLOBODAN PREVOZ - TAKSI PREVOZ
+FREELINE TRANSPORT - TAXI TRANSPORT
