@@ -1,0 +1,1 @@
+Na osnovu člana 35 Statuta opštine Tivat ("Sl.list Crne Gore - Opštinski propisi" br. 24/18, 09/20), Skupština opštine Tivat, nakon razmatranja Informacije o ostvarenim prihodima i rashodima Opštine Tivat za period od 01.01. do 31.03.2021.godine., na sjednici održanoj dana 19.05.2021.godine, donijela je
