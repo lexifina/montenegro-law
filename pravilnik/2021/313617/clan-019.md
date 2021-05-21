@@ -1,0 +1,11 @@
+# Član 19
+## Vidljivost svijetala
+Svijetla treba da imaju jačinu svijetla odre enu tehničkim pravilima o gradnji pomorskih brodova, sa najmanjim dometom vidljivosti:
+1) na brodovima dužine 50 m ili više:
+- jarbolno svijetlo ................................................................................................. 6 milja - bočno svijetlo .................................................................................................... 3 milje - krmeno svijetlo .................................................................................................. 3 milje - svijetlo za tegljenje ........................................................................................... 3 milje
+2) na brodovima dužine 12 m ili više, ali ne preko 50 m dužine:
+- jarbolno svijetlo ................................................................................................. 5 milja - jarbolno svijetlo za brodove dužine manje od 20 m .......................................... 3 milje - bočno svijetlo .................................................................................................... 2 milje - krmeno svijetlo .................................................................................................. 2 milje - svijetlo za tegljenje ............................................................................................ 2 milje - bijelo, crveno, zeleno ili žuto kružno svijetlo ................................................... 2 milje
+3) na brodovima dužine manje od 12 m:
+- jarbolno svijetlo ................................................................................................. 2 milje - bočno svijetlo .................................................................................................... 1 milja - krmeno svijetlo .................................................................................................. 2 milje - svijetlo za tegljenje ............................................................................................ 2 milje - bijelo, crveno, zeleno ili žuto kružno svijetlo ................................................... 2 milje
+4) na neuočljivim, djelimično uronjenim brodovima ili plovnim objektima koji se tegle:
+- bijelo kružno svijetlo ........................................................................................ 3 milje.
