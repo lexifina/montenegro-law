@@ -1,0 +1,5 @@
+# Član 1
+## Vrsta lokalnog objekta od opšteg interesa
+Ovom Odlukom određuje se lokacija za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa - objekat javne rasvjete, po zahtjevu DOO »LA REGGIA« iz Bara, na katastarskim parcelama br: 915, 918 i 5825 KO Gluhi do. Konačna trasa, odnosno katastarske parcele preko kojih prolazi kompletna infrastruktura će se odrediti u fazi izrade Glavnog projekta, a nakon izrade Elaborata parcelacije od strane ovlašćene geodetske organizacije koja posjeduje licencu.
+Uvidom u priložene listove nepokretnosti utvrđeno je:
+- da je shodno listu nepokretnosti broj 154 - izvod, KO Gluhi do, katastarska parcela broj 915 KO Gluhi Do svojina DOO »LA REGGIA« iz Podgorice, obim prava 1/1, - da je shodno listu nepokretnosti broj 751 - izvod, KO Gluhi do, katastarska parcela broj 918 KO Gluhi Do svojina DOO »LA REGGIA« iz Podgorice, obim prava 1/1, - da je shodno listu nepokretnosti broj 485 - izvod, KO Gluhi do, katastarska parcela broj 2825 KO Gluhi do, svojina Crne Gore, obim prava 1/1, raspolaganje Opština Bar, obim prava 1/1.
