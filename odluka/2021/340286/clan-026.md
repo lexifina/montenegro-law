@@ -1,0 +1,2 @@
+# Član 26
+Učesnik kome su dodijeljena sredstva po osnovu konkursa koji su raspisani u prvom i drugom kvartalu tekuće godine podnosi Komisiji izvještaj o realizaciji biznis plana sa finansijskim izvještajima, najkasnije do 31.marta naredne godine, dok učesnik kome su dodijeljena sredstva po osnovu konkursa koji su raspisani u trećem i četvrtom kvartalu tekuće godine podnosi Komisiji izvještaj o realizaciji biznis plana sa finansijskim izvještajima, najkasnije do 30. septembra naredne godine.
