@@ -1,0 +1,2 @@
+# Član 6
+Uvod studije sadrži podatke o nazivu i sjedištu područja na koje se odnosi teritorijalna promjena, osnovne geografske i istorijske podatke, razloge o opravdanosti teritorijalne promjene, kao i podatke o teritoriji koju nova opština treba da obuhvati (naziv i sjedište, podaci iz planske dokumentacije za prostor na koji se teritorijalna promjena odnosi, granice, površina naselja, mjesne zajednice i drugo).

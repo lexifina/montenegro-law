@@ -1,0 +1,2 @@
+# Član 5
+Studija teritorijalne promjene mora sadržati sve elemente propisane Pravilnikom o sadržaju i metodologiji izrade studije opravdanosti teritorijalne promjene (u daljem tekstu : Pravilnik): - uvod, - analizu postojećeg stanja, - analizu fiskalnog kapaciteta, - ocjenu prednosti i nedostataka predložene teritorijalne promjene (swot anliza), - parametre mogućeg razvoja, - grafički prikaz, - korišćene izvore informacija.

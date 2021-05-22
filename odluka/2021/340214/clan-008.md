@@ -1,0 +1,2 @@
+# Član 8
+Analiza fiskalnog kapaciteta treba da prikaže podatke o izvorima prihoda iz kojih će se finansirati područje na koje se teritorijalna promjena odnosi, kao i procijenjeni fiskalni kapacitet po stanovniku, izračunat na osnovu ostvarenih fiskalnih prihoda i rashoda na ime obračunatih bruto zarada, većih ili jednakih fiskalnom kapacitetu po stanovniku područja na koje se teritorijalna promjena odnosi i procijenjenom fiskalnom kapacitetu po stanovniku područja koje ostaje nakon teritorijalne promjene.
