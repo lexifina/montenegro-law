@@ -1,0 +1,2 @@
+Na osnovu člana 35 tačka 2 Statuta opštine Šavnik ("Sl. List CG- Opštinski propisi" br. 31/18), člana 10 Stav 1 alineja 2 Odluke o osnivanju Društva ograničene odgovornosti Park prirode "Dragišnjica i Komarnica" ("Sl. List CG - Opštinski propisi, br. 50/17), Predloga predsjednika opštine br. 02-018/21-1172 od 22.04.2021. godine Skupština opštine Šavnik na sjednici održanoj dana 29.04.2021. godine donijela je
+O D L U K U
