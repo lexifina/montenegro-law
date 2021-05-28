@@ -1,0 +1,2 @@
+# Član 2
+Stupanjem na snagu ove Odluke prestaje da važi Odluka o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Autobuska stanica" Tivat 0304-030-176 od 25.04.2017.godine ("Službeni list Crne Gore- Opštinski propisi", broj 020/17) i Odluka o razrješenju i imenovanju jednog člana Odbora direktora Društva sa ograničenom odgovornošću "Autobuska stanica" Tivat 0304-030-327 od 02.10.2017.godine ("Službeni list Crne Gore- Opštinski propisi",broj 043/17).
