@@ -1,0 +1,4 @@
+# Član 7
+Komisija na osnovu prijava na oglas iz člana 5 ovog pravilnika i podataka iz evidencije ljudskih resursa Ministarstva, sačinjava spisak kandidata koji ispunjavaju kriterijume za učešće u mirovnoj misiji i drugoj aktivnosti u inostranstvu, koji u roku od sedam dana od dana isteka roka za podnošenje prijava, dostavlja organizacionoj jedinici Ministarstva koja vrši poslove ljudskih resursa (u daljem tekstu: organizaciona jedinica).
+Organizaciona jedinica organizuje provjeru zdravstvene sposobnosti i psihološko testiranje lica iz stava 1 ovog člana, a po potrebi i provjeru znanja stranog jezika.
+Provjera zdravstvene sposobnosti i psihološko testiranje lica iz stava 1 ovog člana vrši vojno-ljekarska komisija, a provjeru znanja stranog jezika vrši jedinica Vojske Crne Gore koja vrši poslove obuke.
