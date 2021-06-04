@@ -1,0 +1,3 @@
+# Član 1
+U Odluci o sadržini Centralnog registra transakcionih računa ("Službeni list CG", br. 48/14 i 32/15), član 3 mijenja se i glasi:
+"Transakcionim računima čiji se podaci unose u Centralni registar transakcionih računa smatraju se, u smislu ove odluke, transakcioni računi rezidenata: privrednih društava i drugih pravnih lica (u daljem tekstu: pravna lica), preduzetnika i drugih lica koja obavljaju djelatnost u skladu sa propisima (u daljem tekstu: preduzetnici) i fizičkih lica i nerezidenata: pravnih i fizičkih lica, koji mogu biti izvršni dužnici u skladu sa zakonom kojim se uređuje izvršenje i obezbjeđenje."
