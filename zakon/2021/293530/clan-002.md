@@ -1,0 +1,3 @@
+# Član 2
+Član 24 mijenja se i glasi:
+"(1) Izdaci za zdravstvene, socijalne, obrazovne, naučne, vjerske, kulturne, sportske i humanitarne svrhe, smanjenje siromaštva, zaštitu životne sredine, zaštitu lica sa invaliditetom, društvenu brigu o djeci i mladima, pomoć starijim licima, zaštitu i promovisanje ljudskih i manjinskih prava, vladavinu prava, razvoj civilnog društva i volonterizma, evroatlantske i evropske integracije Crne Gore, umjetnost, tehničku kulturu, unapređenje poljoprivrede i ruralnog razvoja, održivi razvoj, zaštitu potrošača, rodnu ravnopravnost, borbu protiv korupcije i organizovanog kriminala i borbu protiv bolesti zavisnosti - priznaju se kao rashod najviše do 3% ukupnog prihoda.
