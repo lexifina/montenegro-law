@@ -1,0 +1,2 @@
+# Član 2
+Stupanjem na snagu ove Odluke prestaju da važe: Odluka o određivanju predstavnika opštine Tivat u Skupštini Turističke organizacije Tivat broj: 0304-030-314 od 11.10.2018.godine ("Službeni list Crne Gore- Opštinski propisi" broj 37/18 od 19.10.2018.g) i Odluka o imenovanju tri predstavnika opštine Tivat u Skupštini Turističke organizacije Tivat broj: 0304-030-105 od 28.02.2019.godine ("Službeni list Crne Gore- Opštinski propisi" broj 11/19 od 20.03.2019.g).
