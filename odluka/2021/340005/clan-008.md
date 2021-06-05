@@ -1,0 +1,2 @@
+# Član 8
+Stupanjem na snagu ove Odluke prestaje da važi Odluka o ustupanju na upravljanje i korišćenje objekta autobuske stanice Društvu sa ograničenom odgovornošću "Autobuska stanica" Tivat, broj: 0304-030-244 ("Sl.list Crne Gore- Opštinski propisi" br. 28/17 od 30.06.2017.) i Odluka o izmjeni i dopuni Odluke o ustupanju na upravljanje i korišćenje objekta autobuske stanice Društvu sa ograničenom odgovornošću "Autobuska stanica Tivat" broj: 0304-030-309 ("Sl. list Crne Gore - Opštinski propisi" br. 043/17 od 13.10.2017.)

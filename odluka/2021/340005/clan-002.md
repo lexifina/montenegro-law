@@ -1,0 +1,5 @@
+# Član 2
+Opština Tivat ustupa na upravljanje i korišćenje nepokretnosti iz člana 1 ove Odluke Društvu sa ograničenom odgovornošću "Parking servis" Tivat (u daljem tekstu: "Privredno društvo"), bez naknade, u svrhu obavljanja djelatnosti privrednog društva.
+Privredno društvo može upravljati ustupljenim nepokretnostima i koristiti ih isključivo za obavljanje djelatnosti za koje je registrovano.
+Privredno društvo je u obavezi da dio objekta (poslovni prostor - kancelarije) ustupi bez naknade na upravljanje i korišćenje privrednom društvu "Autobuska stanica" d.o.o. Tivat, radi obavljanja svoje djelatnosti do završetka postupka dobrovoljne likvidacije, a sve u skladu sa Odlukom o usvajanju Elaborata racionalizacije poslovanja "Parking servis" d.o.o. Tivat i "Autobuska stanica" d.o.o. Tivat sa prijedlozima za spajanje dva preduzeća ("Službeni list CG - Opštinski propisi" br. 009/21)
+Prilikom davanja ustupljenih nepokretnosti u zakup ili na poslugu trećim licima, Privredno društvo je dužno da sprovede postupak u skladu sa Zakonom o državnoj imovini i podzakonskim aktima koji uređuju ovu oblast, uz uslov da jedan član nadležne komisije bude iz Opštine.
