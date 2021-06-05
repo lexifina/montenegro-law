@@ -1,0 +1,2 @@
+Na osnovu člana 271 Zakona o privrednim društvima ("Sl.list CG", br.65/2020), člana 13 i člana 23 Statuta "Parka prirode Piva" Doo, a u vezi člana 3 Odluke o osnivanju društva sa ograničenom odgovornošću "Park prirode Piva" ("Sl.list CG - Opštinski propisi", br.36/2015, 3/2017 i 2/2018), uz dobijenu saglasnost Skupštine opštine Plužine br. 016/041-03-47/1, Izvršni direktor Parka prirode "Piva" d.o.o, donosi
+STATUT "PARKA PRIRODE PIVA" DOO
