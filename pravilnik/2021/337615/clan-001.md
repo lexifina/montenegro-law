@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o obliku, sadržini, načinu popunjavanja i dostavljanja jedinstvenog obrasca izvještaja o obračunatom i plaćenom porezu na dohodak fizičkih lica i doprinosima za obavezno socijalno osiguranje ("Službeni list CG", br. 76/10, 63/11, 28/12, 8/13, 4/14, 49/14, 1/15, 2/15, 10/16, 8/17, 50/17, 15/19 i 9/20), u Šifrarniku osnova za obračun, na kraju šifre 094 tačka se zamjenjuje tačkom zarezom i dodaje nova šifra koja glasi:
+"095 - zarade novozaposlenih lica koji ostvaruju pravo na oslobođenje od plaćanja dijela poreza na dohodak fizičkih lica i doprinosa za penzijsko i invalidsko osiguranje u 2021. - 90%, 2022. - 60% i 2023. godini - 30%."
