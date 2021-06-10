@@ -1,0 +1,2 @@
+Na osnovu člana 43. Statuta opštine Bar ("Sl.list CG-Opštinski propisi", broj 37/18), člana 10 Odluke o osnivanju Društva sa ograničenom odgovornošću "Lovstvo" Bar ("Sl.list CG- Opštinski propisi", broj 10/16) i Odluke Odbora direktora DOO "Lovstvo" Bar broj 189/21 od 29.03.2021.godine o izboru izvršnog direktora, Skupština opštine Bar, na sjednici održanoj 10.06.2021.godine, donijela je
+O D L U K U
