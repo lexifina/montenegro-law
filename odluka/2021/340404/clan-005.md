@@ -1,0 +1,2 @@
+# Član 5
+Stepen opremljenosti građevinskog zemljišta iskazuje se koeficijentom opremljenosti po zonama, na osnovu pripadajućih vrijednosti izgrađenih objekata i uređaja komunalne infrastrukture i na osnovu tržišnog kriterijuma vrijednosti lokacije, gdje je vrijednost lokacije srazmjerna njenom položaju i udaljenosti od gradskog centra, pristupačnosti, obimu i raznolikosti ponude i posebnim pogodnostima za određenu namjenu, i to:

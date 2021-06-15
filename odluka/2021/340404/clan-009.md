@@ -1,0 +1,4 @@
+# Član 9
+Naknadu, na zahtjev, utvrđuje rješenjem organ lokalne uprave nadležan za poslove planiranja prostora i izgradnje objekata(u daljem tekstu: nadležni organ)na osnovu obračuna, u skladu sa zakonom kojim se uređuje planiranje prostora i zgradnja objekata (u daljem tekst Zakon) i ovom odlukom u roku od 15 dana od dana podnošenja zahtjeva.
+Postupak se pokreće podnošenjem zahtjeva za utvrđivanje naknade nadležnom organu. Uz zahtjev iz stava 1 ovog člana, dostavlja se revidovani idejni, odnosno glavni projekat i izjava revidenta sa potrebnim podacima za obračun naknade za komunalno opremanje, odnosno oslobađanje ili umanjenje naknade, u skladu sa ovom odlukom i zakonom.
+Prije upisa objekta u katastar nepokretnosti, investitor je dužan da se obrati nadležnom organu zahtjevom za izradu konačnog obračuna naknade, kojim će se utvrditi stvarno izvedena površina objekta

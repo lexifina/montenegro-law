@@ -1,0 +1,3 @@
+Na osnovu člana 239 stav 19 i člana 240a stav 2 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", br. 64/17, 44/18, 63/18, 11/19 i 82/20), člаnа 27 tačka 5, člana 28 tačka 2 i člana 38 stav 1 tač. 2 i 8 Zаkоnа о lоkаlnој sаmоuprаvi ("Službeni list CG", br. 2/18, 34/19 i 38/20) i člana 46 Statuta opštine Rožaje ("Službeni list CG - Оpštinski propisi", broj 38/18), uz prethodnu saglasnost Vlade Crne Gore br. 04-1283/2 od 26.03.2021. godine, Skupština opštine Rožaje, na sjednici održanoj dana 24.05.2021.godine, donijela je
+O D L U K U
+o naknadi za komunalno opremanje građevinskog zemljišta
