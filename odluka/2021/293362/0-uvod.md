@@ -1,0 +1,2 @@
+Na osnovu člana 24 i 25 Zakona o izboru odbornika i poslanika ( "Sl. list RCG" broj 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 48/06 i "Sl. list CG" broj 46/11, 14/14, 47/14, 12/16, 60/17 i 10/18) i člana 46 stav 1 tačka 2 Statuta opštine Rožaje ("Sl. list CG - Opštinski propisi", broj 38/18), Skupština opštine Rožaje, na predlog Odbora za izbor i imenovanje, na sjednici održanoj dana 27.05.2021.godine, donijela je
+O D L U K U
