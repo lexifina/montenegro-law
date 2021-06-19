@@ -1,0 +1,2 @@
+Na osnovu člana 73 stav 1 tačka 22 Statuta Prijestonice Cetinje ("Službeni list Crne Gore - Opštinski propisi", br. 49/18 i 9/19) i člana 12 alineja 2 Odluke o osnivanju Turističke organizacije Prijestonice Cetinje ("Službeni list RCG - Opštinski propisi, br. 35/04, 40/06 i 36/20), Skupština Prijestonice Cetinje na sjednici održanoj dana 29.05.,01.06.,04.06. i 07.06. 2021. godine, donijela je
+O D L U K U
