@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 1 tačka 1, člana 38 stav 1 tačka 9 i člana 44 stav 1 Zakona o lokalnoj samoupravi ("Sl.list CG", br.02/18,34/19 i 38/20), člana 29 stav 2 Zakona o državnoj imovini (Sl.list CG", br.21/09 i 40/11), a u vezi sa članom 194,199,201 i 216 Zakona o svojinsko pravnim odnosima Crne Gore ("Sl.list CG", br.19/09), čllana 3 i 4 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 055/16, 074/16, 002/18 i 066/19), Skupština Prijestonice Cetinje, na sjednici održanoj dana, 29.05.,01.06.,04.06. i 07.06. 2021. godine, donijela je
+O D L U K U
