@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 1 i člana 201 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 002/18, 034/19, 038/20) i člana 73 stav 1 tačka 1 Statuta Prijestonice ("Sl.list CG - Opštinski propisi" br. 049/18, 009/19), a u vezi člana 123 stav 1 Poslovnika o radu Skupštine Prijestonice Cetinje ("Sl.list CG - Opštinski propisi", br. 17/19), i člana 1 Odluke o pristupanju izmjenama i dopunama Statuta Prijestonice ("Sl.list CG - Opštinski propisi", br. 45/20) Skupština Prijestonice Cetinje na sjednici održanoj dana, 29.05.,01.06.,04.06. i 07.06. 2021. godine, donijela je
+O D L U K U
+o izmjenama i dopunama Statuta Prijestonice ("Sl. list CG - Opštinski propisi", br.
