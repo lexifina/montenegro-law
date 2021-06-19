@@ -1,0 +1,2 @@
+Na osnovu člana 73 stav 1 tačka 22 Statuta Prijestonice ( "Sl. list CG - Opštinski propisi", br. 49/18 i 9/19), i člana 10, stav 1, alineja 4 Odluke o osnivanju Društva sa ograničenom odgovornošću "Sportski centar Cetinje" (Sl. list CG - Opštinski propisi", br. 30/13, 22/14, 39/19), Skupština Prijestonice Cetinje, na sjednici održanoj dana 29.05.,01.06. ,04.06. i 07.06. 2021. godine, donijela je
+O D L U K U
