@@ -1,0 +1,5 @@
+# Član 2
+"Crnogorski elektrodistributivni sistem" d.o.o. Podgorica je obavezan da Prijestonici Cetinje plati naknadu za zasnivanje stvarne službenosti na zemljištu iz člana 1 ove odluke u ukupnom iznosu od 363,00€ u roku od 8 (osam) dana od dana zaključenja ugovora.
+Utvrđena naknada iz stava 1 ovog člana odgovara 15% procjene tržišne vrijednosti zemljišta u skladu sa Izvještajem Komisije za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore br. 02-2443 od 10.04.2019.godine.
+Crnogorski elektrodistributivni sistem doo Podgorica ima obavezu da zemljište iz člana 1 ove odluke, nakon polaganja kablova vrati u prvobitno stanje sve u skladu sa Urbanističko- tehničkim uslovima Sekretarijata za uređenje prostora i zaštitu životne sredine Prijestonice Cetinje br. 05-351/18-733/1 od 14.09.2018.godine.
+"Crnogorski elektrodistributivni sistem" d.o.o. Podgorica može izvršiti polaganje NN voda kroz trup saobraćajnice, poštujući tehničke propise za tu vrstu radova a sve u koordinaciji sa izvođačem radova i nadzornim organom, shodno aktu broj 08-427/21-89 od 04.3.2021.godine, Sekretarijata za investicije i održivi razvoj Prijestonice Cetinje.
