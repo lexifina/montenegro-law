@@ -1,0 +1,3 @@
+Na osnovu člana 74 stav 2 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 055/16, 074/16, 002/18 i 066/19), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18, 034/19 i 038/20 )člana 73 stav 1 tačka 2ičlana 76 Statuta Prijestonice("Službeni list Crne Gore - Opštinski propisi", br. 49/18i09/19), Skupština Prijestonice Cetinje, na sjednici održanoj dana 29.05.,01.06.,04.06. i 07.06. 2021. godine, donijela je
+O D L U K U
+o davanju saglasnosti za zaključenje Ugovora o povjeravanju obavljanja komunalnih djelatnosti i korišćenju komunalne infrastrukture i drugih sredstava u svojini Prijestonice Cetinje, sa d.o.o. "Vodovod i kanalizacija- Cetinje "
