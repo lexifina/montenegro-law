@@ -1,0 +1,7 @@
+# Član 1
+## o izmjenama Odluke o izgradnji lokalnih objekata od opšteg interesa
+U Odluci o izgradnji lokalnih objekata od opšteg interesa ("Sl.list Crne Gore" - opštinski propis, br. 21/14), člana 3 mijenja se i glasi: "Lokalnim objektima od opšteg interesa, u smislu ove Odluke, smatraju se: vodovodna, telekomunikaciona i kanalizaciona infrastruktura, toplovodi; opštinski putevi (lokalni i nekategorisani) i prateći objekti; ulice u naseljima i trgove; parking prostori, pijace; gradska groblja; podzemni i nadzemni prolazi; javne garaže; objekti distributivne mreže naponskog nivoa do 35 kV trafostanice i vodovi od 110 kV ili manje, rasklopna postrojenja, javna rasvjeta; solarne elektrane od 5MW i manje, sportski objekti i skijaške staze sa pratećom infrastrukturom za pripremu i uredjenje istih; javne i zelene površine i gradski parkovi, ski-liftovi, žičare koje se grade na teritoriji jedne lokalne samouprave; objekti privrednog razvoja (privredni objekti, objekti proizvodnog zanatstva, skladišta, stovarišta, robno-distributivni centri, servisne zone, slobodne zone, komunalno- servisni objekti, pumpe stanice) i objekti ruralnog razvoja (poljoprivrede, stočarstva, vinogra- dstva, voćarstva i ribarstva).
+Član 2
+U članu 6 stav 2 riječi: "Zakona o uredjenju prostora i izgradnji objekata", zamjenjuje se riječima "Zakona o planiranju prostora i izgradnji objekata".
+Član 3
+Ova Odluka stupa na snagu osmog dana od dana objavljivanja u "Sl.listu Crne Gore- Opštinski propsi").
