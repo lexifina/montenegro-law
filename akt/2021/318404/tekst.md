@@ -1,0 +1,5 @@
+Na osnovu člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19 i 38/20) i člana 43 stav 1 tačka 8 Statuta opštine Bar ("Službeni list Crne Gore - Opštinski propisi", br. 37/18), Skupština opštine Bar, na sjednici održanoj dana 10.06.2021. godine, donijela je
+Z A K Lj U Č A K
+1. Oslobađaju se obaveze plaćanja lokalnih javnih prihoda za 2021. godinu, i to: poreza na nepokretnosti, godišnje naknade za korišćenje komercijalnih objekata kojima je omogućen pristup sa opštinskog i nekategorisanog puta i članskog doprinosa, obveznici Femić Co DOO i Cerovo DOO, uslijed nastanka velike materijalne štete, nastale kao posljedica požara koji je zadesio ova dva preduzeća, dana 05.04.2021. godine.
+2. Zadužuje se Sekretarijat za finansije da obveznicima Femić Co DOO i Cerovo DOO ne vrši utvrđivanje obaveza po osnovu lokalnih javnih prihoda iz tačke 1 ovog Zaključka.
+3. Ovaj Zaključak stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore - Opštinski propisi".
