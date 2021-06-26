@@ -1,0 +1,2 @@
+Na osnovu člana 22 stav 1 i člana 17 stav 1 Zakona o zaradama zaposlenih u javnom sektom ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18 - odluka US, 42/18, 34/19 ), člana 38 stav 1 tačka 29 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 I 38/20) i člana 58. Statuta opštine Ulcinj ("Sl.list CG - Opštinski propisi", br. 48/19), Skupština opštine Ulcinj, na sjednici održanoj dana 03.06.2021. godine, donijela je
+O D L U K A
