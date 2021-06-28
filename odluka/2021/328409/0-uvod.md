@@ -1,0 +1,4 @@
+Na osnovu člana 28 stav 1 tačka 5 člana 38 i 59. Zakona o lokalnoj samoupravi ("Sl. list CG", br. 002/2018) i člana 33. Stav 1. tačka 2. Statuta opštine Plav ("Sl. list CG - Opštinski propisi" broj 44/18), Skupština opštine Plav na sjednici održanoj dana 28.06.2021. godine donijela je:
+O D L U K A
+o potvrđivanju Odluke predsjednika Opštine o izmjenama i dopunama Odluke o
+utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju puta
