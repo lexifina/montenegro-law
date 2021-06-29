@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Službeni list CG" br. 2/18, 34/19 i 38/20), člana 19 Zakona o Prijestonici ("Službeni list CG" br. 51/17), člana 73 stav 1 tačka 19 Statuta Prijestonice ("Službeni list CG- Opštinski propisi" br. 49/18, 9/19 i 17/21) i člana 17 Poslovnika o radu Skupštine Prijestonice Cetinje ( "Službeni list CG- Opštinski propisi" br. 17/19) Skupština na sjednici održanoj dana, 29.06. 2021. godine donijela je
+O D L U K U
