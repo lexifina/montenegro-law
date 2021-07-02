@@ -1,0 +1,1 @@
+Na osnovu člana 14 Statuta opštine Tuzi ("Službeni list Crne Gore ‐ Opštinski propisi" 24/19, 05/20) kao i člana 9 Odluke o ustanovljavanju i dodjeljivanju javnih priznanja i nagrada i zvanju počasnog građanina ("Službeni list Crne Gore ‐ Opštinski propisi", br. 32/19), Skupština opštine Tuzi na sjednici održanoj 17.06.2021.godine, donosi
