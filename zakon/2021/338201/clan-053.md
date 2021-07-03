@@ -1,0 +1,9 @@
+# Član 53
+## Primjena policijskih ovlašćenja prema ranjivim kategorijama lica
+Policijski službenici su dužni da u svim, a naročito u zakonom propisanim slučajevima, posebno obazrivo primjenjuju policijska ovlašćenja prema licima mlađim od 14 godina, očigledno bolesnim, starim i iznemoglim licima, licima sa invaliditetom, licima čije je kretanje znatno otežano, kao i prema ženama čija je trudnoća vidljiva, uz primjenu zakonom propisanih ograničenja.
+Policijski službenici primjenjuju policijska ovlašćenja prema licima iz stava 1 ovog člana naročito vodeći računa o duševnoj razvijenosti, osjetljivosti, ličnim svojstvima i privatnosti tih lica.
+Policijski službenici će prilikom primjene policijskih ovlašćenja prema licima sa invaliditetom, kad to ocijene potrebnim, zatražiti pomoć lica koje raspolaže znanjima o ispravnom načinu komunikacije i ophođenja prema licu sa invaliditetom.
+Poslove, u skladu sa zakonom kojim se uređuje postupanje prema maloljetnicima u krivičnom postupku, vrše policijski službenici koji su posebno obučeni za postupanje sa maloljetnim učioniocima krivičnih djela i maloljetnicima kao učesnicima u krivičnom postupku.
+Prema maloljetniku policijska ovlašćenja se, po pravilu, primjenjuju u prisustvu roditelja ili zakonskog zastupnika i branioca.
+Izuzetno od stava 5 ovog člana, policijska ovlašćenja prema maloljetniku primjenjuju se bez prisustva roditelja ili zakonskog zastupnika, u prisustvu predstavnika organa nadležnog za socijalnu i dječju zaštitu ili trećeg lica od povjerenja, u slučaju kad postoji osnov sumnje da je roditelj ili zakonski zastupnik učinio krivično djelo ili prekršaj na štetu maloljetnika.
+U cilju sprječavanja neposrednog izvršenja krivičnog djela ili prekršaja, policijski službenik može primijeniti policijska ovlašćenja prema maloljetniku bez prisustva roditelja, zakonskog zastupnika, branioca, trećeg lica od povjerenja ili predstavnika organa nadležnog za socijalnu i dječju zaštitu.

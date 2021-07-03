@@ -1,0 +1,3 @@
+# Član 195
+## Poslovi unutrašnje kontrole Policije
+Poslovi unutrašnje kontrole rada policije su: preduzimanje preventivnih i operativnih mjera i radnji u skladu sa zakonom na otkrivanju i suzbijanju krivičnih djela sa elementima korupcije i drugih oblika koruptivnog ponašanja, kao i drugih krivičnih djela policijskih službenika, izvršenih na radu ili u vezi sa radom, kontrola zakonitosti vršenja policijskih poslova, a naročito u pogledu poštovanja i zaštite ljudskih prava prilikom izvršavanja policijskih zadataka i primjeni policijskih ovlašćenja i druge kontrole od značaja za efikasan i zakonit rad Policije.

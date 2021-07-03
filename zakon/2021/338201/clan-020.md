@@ -1,0 +1,4 @@
+# Član 20
+## Standardi policijskog postupanja
+Policijski službenici postupaju u skladu sa Ustavom, potvrđenim međunarodnim ugovorima, zakonom i drugim propisima.
+Policijski službenici dužni su da se pridržavaju standarda policijskog postupanja, a naročito standarda koji proizilaze iz obaveza utvrđenih međunarodnim aktima, a odnose se na dužnost služenja ljudima, poštovanje zakonitosti i suzbijanje nezakonitosti, ostvarivanje ljudskih prava, nediskriminaciju prilikom izvršavanja policijskih zadataka, ograničenost i uzdržanost u upotrebi sredstava prinude, zabranu mučenja i primjene nečovječnih i ponižavajućih postupaka, pružanje pomoći ugroženim i drugim licima kojima je pomoć potrebna, obavezu zaštite tajnih i ličnih podataka, obavezu odbijanja nezakonitih naređenja i suprotstavljanje svakom obliku korupcije i diskriminacije.

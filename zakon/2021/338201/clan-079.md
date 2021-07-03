@@ -1,0 +1,7 @@
+# Član 79
+## Prava lica koje se dovodi
+Policijski službenik dužan je da lice koje dovodi, prije dovođenja, na njegovom jeziku ili na jeziku koji razumije, upozna sa razlozima dovođenja i pravima: da o dovođenju obavijesti člana porodice ili treće lice od povjerenja, a ako je to lice stranac i diplomatsko konzularnog predstavnika države čiji je državljanin, odnosno predstavnika odgovarajuće međunarodne organizacije ako se radi o licu bez državljanstva ili migrantu; na advokata po sopstvenom izboru od momenta dovođenja i na zdravstveni pregled od strane doktora medicine po njegovom izboru.
+Ako postoji vjerovatnoća da će lice koje treba dovesti pružiti otpor, dovođenje se može izvršiti i bez prethodnog saopštavanja razloga.
+Ako postoji sumnja da lice koje treba dovesti posjeduje oružje ili oruđe za napad ili da će to lice odbaciti, sakriti ili uništiti predmete koje treba od njega oduzeti kao dokaz u krivičnom ili prekršajnom postupku, policijski službenik izvršiće pregled u skladu sa članom 91 ovog zakona.
+Policijski službenik će, prije dovođenja, obavijestiti organ nadležan za socijalnu i dječju zaštitu kad treba izvršiti dovođenje lica koje njeguje ili se stara o maloljetnim ili drugim licima, ako neko od srodnika ili susjeda nije u mogućnosti da preuzme staranje.
+O dovođenju maloljetnika policijski službenik će odmah obavijestiti roditelja, staratelja, lice kojem je maloljetnik povjeren na čuvanje, treće lice od povjerenja ili organ nadležan za socijalnu i dječju zaštitu.

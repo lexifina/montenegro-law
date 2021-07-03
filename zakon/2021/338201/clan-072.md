@@ -1,0 +1,5 @@
+# Član 72
+## Utvrđivanje identiteta lica
+Ako se identitet lica ne može provjeriti u skladu sa članom 71 ovog zakona, ili se sumnja u vjerodostojnost lične karte ili druge javne isprave sa fotografijom ili je potrebno utvrditi identitet lica za koje postoje podaci da planira, odnosno priprema izvršenje krivičnog djela ili prekršaja, identitet lica može se utvrditi korišćenjem podataka iz evidencija koje vode Ministarstvo, odnosno Policija, primjenom metoda i upotrebom sredstava kriminalističke taktike i tehnike, forenzičkim, medicinskim ili drugim odgovarajućim vještačenjem, kao i kroz međunarodnu policijsku saradnju, ako posebnim zakonom nije drukčije propisano.
+Ako se identitet lica ne može utvrditi na način iz stava 1 ovog člana, Policija je ovlašćena da, u cilju utvrđivanja njegovog identiteta, objavi fotografiju, fotorobot, crtež, snimak ili opis tog lica, ako posebnim zakonom nije drukčije propisano.
+Policija je ovlašćena da radi utvrđivanja identiteta lica, kad okolnosti to nalažu, javno objavi fotografiju nestalog lica, lica koje o sebi ne može ili ne želi da da istinite podatke ili fotografiju leša nepoznatog lica.

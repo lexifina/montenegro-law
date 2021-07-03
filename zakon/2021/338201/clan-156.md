@@ -1,0 +1,3 @@
+# Član 156
+## Dodatni rad
+Policijski službenik može van radnog vremena, uz saglasnost ministra ili lica koje on ovlasti, da obavlja rad ili da bude član organa upravljanja ili nadzornog organa obrazovnih, naučnih, humanitarnih i sportskih udruženja, vrši poslove predavača na obukama, stručnim osposobljavanjima i stručnim savjetovanjima, kao i da vrši poslove ili pruža usluge fizičkom ili pravnom licu, ako nad tim licima Ministarstvo ne vrši nadzor ili ako takav rad nije zabranjen posebnim zakonom ili ne predstavlja sukob interesa ili smetnju za vršenje dužnosti, odnosno ne šteti ugledu Ministarstva.

@@ -1,0 +1,13 @@
+# Član 34
+## Pomoć u izvršenjima
+Policijski službenici, u skladu sa zakonom, pružaju pomoć državnim organima, organima državne uprave, organima lokalne samouprave i organima lokalne uprave u postupku izvršenja njihovih odluka, na njihov zahtjev, kao i u drugim slučajevima propisanim zakonom, ako je u tom postupku pokušano izvršenje, koje je onemogućeno pružanjem fizičkog otpora ili ozbiljnom prijetnjom od strane lica prema kome se sprovodi postupak izvršenja, odnosno ako se u postupku sprovođenja izvršenja opravdano očekuje pružanje fizičkog otpora.
+Izuzetno od stava 1 ovog člana, policijski službenici neće pružiti pomoć u postupku izvršenja odluka organima čiji službenici imaju ovlašćenje upotrebe sredstava prinude, kad primjena tih ovlašćenja omogućava nesmetano izvršenje odluke.
+Zahtjev iz stava 1 ovog člana, podnosi se najkasnije pet dana prije dana određenog za izvršenje odluke, organizacionoj jedinici Policije na čijem području se zahtijeva pružanje pomoći.
+Izuzetno od stava 3 ovog člana, ako to nalažu razlozi hitnosti, policijski službenici pružiće pomoć na usmeni zahtjev organa iz stava 1 ovog člana, bez odlaganja, uz obavezu tog organa da u roku od 24 časa dostavi pisani zahtjev.
+Uz zahtjev za pružanje pomoći, organi iz stava 1 ovog člana dostavljaju i dokaz da su pokušali izvršenje, koje je onemogućeno pružanjem fizičkog otpora ili ozbiljnom prijetnjom od strane lica prema kome se sprovodi postupak izvršenja, odnosno dokaz da se u postupku sprovođenja izvršenja opravdano očekuje pružanje fizičkog otpora.
+O zahtjevu za pružanje pomoći odlučuje rukovodilac organizacione jedinice Policije, iz stava 3 ovog člana, po ovlašćenju direktora, bez odlaganja, a najkasnije u roku od 48 časova od dana dostavljanja zahtjeva.
+Organ iz stava 1 ovog člana, ako nije zadovoljan odgovorom ili ne dobije odgovor u roku iz stava 6 ovog člana, može podnijeti prigovor Ministarstvu, u roku od tri dana od dana dostavljanja odgovora, odnosno isteka roka za dostavljanje odgovora.
+O pruženoj pomoći policijski službenik podnosi izvještaj nadležnoj organizacionoj jedinici Policije i Ministarstvu.
+Prije otpočinjanja pružanja pomoći, policijski službenik ima pravo da izvrši provjeru okolnosti događaja, odnosno provjeru lica na koje se izvršenje odnosi kroz bazu podataka i evidencije kojima Policija ima pristup.
+Policijski službenik dužan je da privremeno oduzme oružje i druge predmete pogodne za ugrožavanje bezbjednosti prije izvršenja, u skladu sa ovim zakonom, ako utvrdi da lice na koje se izvršenje odnosi ili drugo lice koje je član njegovog domaćinstva posjeduje oružje u legalnom posjedu.
+Sadržinu zahtjeva za pružanje pomoći, način pružanja i izvještavanje o pruženoj pomoći propisuje Ministarstvo.

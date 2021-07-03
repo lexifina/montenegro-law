@@ -1,0 +1,4 @@
+# Član 67
+## Dostavljanje podataka
+Podatke iz evidencija iz člana 64 stav 1 ovog zakona Ministarstvo može da daje na korišćenje državnim organima, organima državne uprave, organima lokalne samouprave, organima lokalne uprave i drugim pravnim licima koja vrše javna ovlašćenja u skladu sa zakonom kojim se uređuje zaštita ličnih podataka, ako je to neophodno za izvršenje njihovih zakonom utvrđenih ovlašćenja, a do tih podataka nije moguće doći na drugi način ili bi njihovo pribavljanje zahtijevalo nesrazmjerno visoke troškove.
+Podatke iz evidencija iz člana 64 stav 1 ovog zakona, za koje ne postoji ograničenje propisano zakonom, Ministarstvo daje na korišćenje i na osnovu zahtjeva subjekata koji vrše nadzor i kontrolu rada Policije, radi obavljanja poslova iz njihove nadležnosti, u skladu sa ovim zakonom.
