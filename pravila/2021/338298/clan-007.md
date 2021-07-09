@@ -1,0 +1,2 @@
+# Član 7
+Komisija će prilikom odlučivanja o zahtjevu za izdavanje odobrenja na izbor, odnosno imenovanje člana odbora direktora/izvršnog direktora Društva uzeti u obzir sve elemente koji mogu uticati na ocjenu ispunjava li lice predloženo za člana odbora direktora/izvršnog direktora date uslove, a naročito cijeneći intervju, koji može biti presudan za davanje odobrenja odnosno odbijanje odobrenja na izbor, odnosno imenovanje izvršnog direktora i članova odbora direktora Društva, a u cilju osiguranja kontinuiranog poslovanja investicionog društva.

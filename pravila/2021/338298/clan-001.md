@@ -1,0 +1,3 @@
+# Član 1
+Ovim pravilima propisuje se sadržaj zahtjeva za izdavanje odobrenja na izbor, odnosno imenovanje izvršnog direktora i članova odbora direktora organizatora tržišta, investicionog društva i Centralnog klirinškog depozitarnog društva (zajednički u daljem tekstu gdje je primjenjivo: Društvo) i dokumentacija koja se prilaže uz zahtjev.
+Odredbe ovih pravila koje se odnose na sadržaj zahtjeva za izdavanje odobrenja na izbor, odnosno imenovanje izvršnog direktora i članova odbora direktora investicionog društva i dokumentacija koja se prilaže uz zahtjev shodno se odnose se i na rukovodioca ovlašćene kreditne institucije.
