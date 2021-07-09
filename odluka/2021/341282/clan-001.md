@@ -1,0 +1,3 @@
+# Član 1
+## o ustupanju na korišćenje Društvu sa ograničenom odgovornošću "Pogrebne usluge" - Podgorica zemljišta za izgradnju novog gradskog groblja na Ćemovskom polju
+Glavni grad - Podgorica, kao nosilac prava raspolaganja ustupa na korišćenje Društvu sa ograničenom odgovornošću "Pogrebne usluge" - Podgorica, zemljište koje je dio katastarskih parcela broj 1348/1, 1348/48, 1348/58, 1348/59 i 1348/60 KO Dajbabe i dio katastarske parcele broj 7938/1 KO Podgorica III, radi izgradnje novog gradskog groblja za koje je lokacija određena Odlukom gradonačelnika o određivanju lokacije sa elementima urbanističko - tehničkih uslova za lokalni objekat od opšteg interesa- izgradnja gradskog groblja u Podgorici, broj 01-018/20-626 od 03.02.2020.godine.
