@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 29 Zakona o lokalnoj samoupravi (»Službeni list CG«, br. 2/18, 34/19 i 38/20), člana 17 stav 2 Zakona o zaradama zaposlenih u javnom sektoru (»Službeni list CG«, br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18 i 34/19) i člana 54 stav 1 tačka 35 Statuta Glavnog grada (»Službeni list CG - Opštinski propisi«, broj 8/19), Skupština Glavnog grada - Podgorice, uz saglasnost Ministarstva finansija i socijalnog staranja broj 03-7018/1 od 17.05.2021. godine, na sjednici održanoj dana 30. juna 2021. godine, donijela je
+O D L U K U
