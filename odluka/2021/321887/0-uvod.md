@@ -1,0 +1,2 @@
+Na osnovu člana 61. Zakona o komunalnim djelatnostima ( "Službeni list Crne Gore" broj : 55/16,74/16 i 2/18 ,66/19), člana 19 a u vezi sa čl.31. Statuta d.o.o. "Komunalne djelatnosti" Šavnik, čl. 35.. stav 1. tačka 2. Statuta opštine Šavnik ("Službeni list Crne Gore" br. 31/18), na zahtjev Predsjednika opštine, Skupština opštine Šavnik, na sjednici održanoj dana, 12.07.2021.godine, donijela je
+O D L U K U
