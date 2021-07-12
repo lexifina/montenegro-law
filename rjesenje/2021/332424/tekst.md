@@ -1,0 +1,7 @@
+Na osnovu člana 44 stav 1 tačka 49 Statuta opštine Budva (,,Službeni list CG - Opštinski propisi", br. 02/19) i člana 11 stav 1 alineja 4 Odluke o osnivanju Društva sa ograničenom odgovornošću " Komunalno" Budva (,,Službeni list CG - Opštinski propisi", br. 33/13 ) a u vezi sa članom 26 stav 1 Zakona o komunalnim djelatnostima (,,Službeni list CG", br. 55/16, 74/16, 2/18 i 66/19) Skupština opštine Budva, na sjednici održanoj 12. jula 2021.godine, donijela je
+R J E Š E Nj E
+o davanju saglasnosti na Programe rada d.o.o. ,,Komunalno "- Budva za 2021. godinu Program održavanja čistoće javnih površina br. 01-2175 od 28.04.2021. godine, Program
+održavanja i rekonstrukcije javnih zelenih površina br. 01-2176 od 28.04.2021. godine,
+Program održavanja javne rasvjete na teritoriji opštine Budva br. 01-2177 od 28.04.2021. godine, Planirane troškove skloništa za napuštene životinje i troškovi dezinsekcije za 2021. godinu br. 01-2178 od 28.04.2021. godine
+1 .Daje se saglasnost na Programe rada ,,d.o.o. Komunalno" - Budva za 2021.godinu i to: Program održavanja čistoće javnih površina, br. 01-2175 od 28.04.2021. godine, Program održavanja i rekonstrukcije javnih zelenih površina, br. 01-2176 od 28.04.2021. godine, Program održavanja javne rasvjete na teritoriji opštine Budva, br. 01-2177 od 28.04.2021. godine, Planirani troškovi skloništa za napuštene životinje i troškovi dezinsekcije za 2021. godinu ,br. 01-2178 od 28.04.2021. godine.
+2. Ovo Rješenje stupa na snagu danom donošenja, a biće objavljeno u ,,Službenom listu Crne Gore - Opštinski propisi".
