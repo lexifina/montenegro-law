@@ -1,0 +1,4 @@
+Na osnovu člana 101 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list CG", br. 27/13, 01/15, 42/15, 47/15, 56/16, 66/16, 1/17, 42/17 i 50/17), člana 44 stav 1 tačka 49 Statuta opštine Budva ("Službeni list CG - Opštinski propisi", br. 02/19) i člana 10 Odluke o osnivanju Javne ustanove "Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Biseri" Budva" ("Službeni list CG - Opštinski propisi", br. 05/14, 54/17, 50/19 i 05/20), Skupština opštine Budva, na sjednici održanoj 12. jula 2021.godine, donijela je
+R J E Š E Nj E
+l. Daje se saglasnost na Program rada i Finansijski plan JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Biseri" za 2021. godinu, br. 205 od 23.04.2021. godine i 206 od 23.04.2021. godine.
+2. Ovo Rješenje stupa na snagu danom donošenja, a biće objavljeno u "Službenom listu Crne Gore - Opštinski propisi".
