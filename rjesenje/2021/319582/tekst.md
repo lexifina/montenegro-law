@@ -1,0 +1,4 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19 i 38/20) člana 44 stav 1 tačka 22 Statuta opštine Budva ("Službeni list CG- Opštinski propisi", br. 02/19) i člana 26 Statuta Društva za konsalting i inženjering "BSP" d.o.o.Budva (" Službeni list CG", br. 01/02, 02/08, 10/08 ,03/09 i ( "Službeni list CG - Opštinski propisi", br. 19/10 ) Skupština opštine Budva, na sjednici održanoj 12. jula 2021. godine , donijela je
+R J E Š E Nj E o razrješenju članova Odbora direktora društva za konsalting i inženjering "BSP" d.o.o. Budva
+1. Razrješavaju se Srđan Zekić i Aleksandar Mitrović sa mjesta članova Odbora direktora društva za konsalting i inžinjering "BSP" d.o.o Budva.
+2. Ovo Rješenje o razrješenju stupa na snagu danom donošenja, a biće objavljeno u "Službenom listu Crne Gore-Opštinski propisi" .
