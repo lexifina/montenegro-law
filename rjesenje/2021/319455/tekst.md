@@ -1,0 +1,4 @@
+Na osnovu člana 51 stav 4 Zakona o lokalnoj samoupravi Crne Gore ("Službeni list CG", br. 02/18, 34/19 i 38/20), člana 40 stav 1 tačka 41 Statuta opštine Budva ("Službeni list CG - Opštinski propisi", br. 02/19), člana 9 stav 2 Statuta društva sa ograničenom odgovornošću "Akademija znanja" ("Službeni list opštine Budva",br. 14/08 i 05/09) Skupština opštine Budva na sjednici održanoj 12. jula 2021.godine, donijela je
+R J E Š E Nj E o davanju saglasnosti na Odluku o imenovanju Izvršnog direktora d.o.o. " Akademija znanja" Budva
+1. Daje se saglasnost na Odluku o imenovanju Valentine Bellenger kao Izvršnog direktora Društva sa ograničenom odgovornošću "Akademija znanja " Budva, broj 539/1 i Rješenje o ispravci greške u Odluci o imenovanju izvršnog direktora koju je donio Odbor direktora pod brojem 556/1 od 11.06.2021. godine.
+2. Ovo Rješenje stupa na snagu danom donošenja,a biće objavljeno u "Službenom listu Crne Gore - Opštinski propisi".
