@@ -1,0 +1,4 @@
+Na osnovu člana 44 stav 1 tačka 48 Statuta opštine Budva ("Službeni list Crne Gore - Opštinski propisi" br. 02/19), člana 11 stav 1 alineja 3 Odluke o osnivanju d.o.o. "Sportsko rekreativni centar" Budva ("Službeni list Crne Gore - Opštinski propisi", br. 05/14, 29/15 i 54/17) i člana 19 stav 1 alineja 3 Statuta d.o.o. " Sportsko rekreativni centar" Budva ("službeni list CG - Opštinski propisi", br. 15/14, 37/15 i 26/18) Skupština opštine Budva na sjednici održanoj 12. jula 2021. godine , donijela je
+R J E Š E Nj E o razrješenju člana Odbora direkora doo "Sportsko rekreativni centar" Budva
+1. Razrješava se Aleksandar Mitrović , dužnosti člana Odbora direktora d.o.o. "Sportsko rekreativni centar" Budva, na lični zahtjev.
+2. Ovo Rješenje stupa na snagu danom donošenja, a biće objavljeno u "Službenom listu Crne Gore - Opštinski propisi".
