@@ -1,0 +1,4 @@
+Na osnovu člana 44 stav 1 tačka 48 Statuta opštine Budva (,,Službeni list CG - Opštinski propisi", br. 02/19) i člana 19 stav 2 Odluke o osnivanju Javne Ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Biseri" Budva (,,Službeni list CG - Opštinski propisi", br. 05/14, 54/17, 50/19 i 05/20) Skupština opštine Budva na sjednici održanoj 12. jula 2021. godine, donijela je
+R J E Š E Nj E o davanju saglasnosti na Odluku o izboru direktora Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Biseri" Budva
+1. Daje se saglasnost na Odluku Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Biseri" Budva, br.126 od 24.03. 2021. godine, o izboru Miljane Mrđenović, dipl. specijalni pedagog, za direktora Javne ustanove.
+2. Ovo Rješenje stupa na snagu danom donošenja, a biće objavljeno u ,,Službenom listu Crne Gore - Opštinski propisi".
