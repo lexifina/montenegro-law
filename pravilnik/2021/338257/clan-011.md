@@ -1,0 +1,4 @@
+# Član 11
+Sve promjene koje se odnose na činjenicu zaključenja partnerstva koje su postale poznate nakon izvršenog osnovnog upisa, upisuju se u
+rubriku "Dopuna, izmjena ili brisanje", sa naznakom broja i datuma odluke organa nadležnog za odlučivanje o promjeni ličnog stanja, na
+osnovu koje se upis unosi u registar partnerstava, osim ako matičar unos vrši po službenoj dužnosti.
