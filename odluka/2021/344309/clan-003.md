@@ -1,0 +1,2 @@
+# Član 3
+Podsticaji obuhvataju finansijsku podršku aktivnostima koji se odnose na investicije u poljoprivredi u svrhu: povećanja poljoprivrednih površina, povećanja kvaliteta i konkurentnosti poljoprivrednih proizvoda, usmjeravanja proizvođača tržišnim uslovima i standardima, unapređenje ruralnog okruženja opštine, povećanja broja zaposlenih u poljoprivredi, kao i iskorišćenost poljoprivrednih resursa.

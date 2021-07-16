@@ -1,0 +1,3 @@
+# Član 7
+A) Pravo na podsticaje u poljoprivredi korisnici ostvaruju kroz sljedeće vidove podsticaja: 1- Promocija poljoprivrede i poljoprivrednih proizvoda, 2- Podrška razvoju ruralnog turizma, 3- Podrška razvoju proizvodnje voćnih zasada, 4- Podrška proizvodnji i razvoju maslinarstva, 5- Podrška proizvodnji i razvoju vinogradarstva i vinarstva, 6- Podrška povrtarskoj i cvjećarskoj proizvodnji, 7- Podrška razvoju pčelarstva, 8- Podrška razvoju organske proizvodnje, 9- Podrška podizanju zasada ljekovitog bilja, 10- Podrška stočarskoj proizvodnji, 11- Podrška aktivnostima za vodosnabdijevanje, 12- Podrška razvoju ribarstva i marikulture.
+B) Podrška posebnoj namjeni - unapređenje lovstva.
