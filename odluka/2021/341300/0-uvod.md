@@ -1,0 +1,3 @@
+Na osnovu člana 239 stav 19 i člana 240a stav 2 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", br. 64/17, 44/18, 63/18 i 82/20), člana 27 tačka 5, člana 28 tačka 2 i člana 38 stav 1 tač. 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20) i člana 37 stav 1 tač. 2 i 8 Statuta Opštine Kolašin ("Službeni list CG - Opštinski propisi", broj 24/19), uz prethodnu saglasnost Vlade Crne Gore br.05-6056/5 od 28.04.2021. godine, Skupština opštine Kolašin, na sjednici održanoj dana 28. i 29.06.2021. godine, donijela je
+O D L U K U
+o naknadi za komunalno opremanje građevinskog zemlјišta
