@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 1 tačka 2 i člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 2/18, 34/19 i 38/20), člana 26 stav 1 tačka 2 i člana 56 stav 1 tačka 17 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19) a u vezi sa članom 268, stav 2 Zakona o privrednim društvima ("Službeni list Crne Gore", broj 65/20), Skupština Glavnog grada - Podgorice, na sjednici održanoj 30. juna 2021. godine, d o n i j e l a je -
+O D L U K U
