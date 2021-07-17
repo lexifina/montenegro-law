@@ -1,0 +1,4 @@
+# Član 7
+## Jednakost građana
+Službenik je dužan da u vršenju svake službene radnje poštuje načelo jednakosti građana pred zakonom, a posebno u postupku riješavanja o pravima, obavezama ili pravnim interesima građana, pravnih lica i drugih subjekata.
+U vršenju poslova službenik ne smije dovoditi u povlašćeni, odnosno neravnopravan položaj građanina u ostvarivanju njegovih prava i obaveza, po osnovu rase, boje kože, nacionalne pripadnosti, društvenog ili etničkog porijekla, veze sa nekim manjinskim narodom ili manjinskom nacionalnom zajednicom, jezika, vjere ili uvjerenja, političkog ili drugog mišljenja, pola, promjene pola, rodnog identiteta, seksualne orijentacije i/ili interseksualnih karakteristika, zdravstvenog stanja, invaliditeta, starosne dobi, imovnog stanja, bračnog ili porodičnog stanja, pripadnosti grupi ili pretpostavke o pripadnosti grupi, političkoj partiji, sindikalnoj ili drugoj organizaciji, kao i po osnovu drugih ličnih svojstava.
