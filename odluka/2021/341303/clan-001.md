@@ -1,0 +1,3 @@
+# Član 1
+## djelatnosti" Ulcinj
+Daje se saglasnost na Program obavljanja komunalnih djelatnosti sa finansijskim planom za 2021 godinu koji je donijet od strane Odbora direktora DOO "Komunalne djelatnosti" Ulcinj pod brojem 3884 na sjednici od 10.12.2020 godine i Odluku o izmjenama i dopunama Programa obavljanja komunalnih djelatnosti za 2021.godinu donijet od strane Odbora direktora broj 4039 od 18.12.2020.godine.
