@@ -1,0 +1,2 @@
+Na osnovu člana 18 stav 2 Zakona o kulturi (,,Sl. list CG,, br. 49/08, 16/11, 40/11 i 38/12), člana 10 stav 1 alineja 2 Odluke o organizovanju Javne ustanove Centar za kulturu Danilovgrad (,,Sl. list CG - Оpštinski propisi ,, br. 17/20 ) i člana 35 Statuta Opštine Danilovgrad (,, Sl. list CG- Оpštinski propisi,, br. 43/18) Skupština opštine Danilovgrad, na sjednici održanoj 02.07.2021. godine, donosi
+O D L U K U
