@@ -1,0 +1,2 @@
+Na osnovu člana 46 i člana 50 stav 1 i 2 Zakona o finansiranju lokalne samouprave ("Službeni list CG", broj 03/19), člana 54 stav 1 tač. 18 i 19 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19), a u vezi člana 17 Odluke o budžetu Glavnog grada Podgorica za 2021. godinu ("Službeni list CG - Opštinski propisi", broj 46/20), Skupština Glavnog grada - Podgorice, na sjednici održanoj 4. maja 2021. godine, donijela je
+O D L U K U
