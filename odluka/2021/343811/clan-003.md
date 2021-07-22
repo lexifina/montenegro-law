@@ -1,0 +1,3 @@
+# Član 3
+## Pravo na rješavanja stambenih potreba
+Pravo na rješavanje stambenih potreba davanjem stanova u zakup (u daljem tekstu: pravo na rješavanje stambenih potreba) imaju crnogorski državljani koji u smislu Zakona o socijalnoj i dječjoj zaštiti (u daljem tekstu: Zakon) ostvaruju pravo na materijalno obezbjeđenje porodice, pravo na ličnu invalidninu, pravo na naknadu roditelju ili staratelju korisnika prava na ličnu invalidninu, pravo na dodatak za njegu i pomoć i pravo na naknadu roditelju ili staratelju korisnika prava na dodatak za njegu i pomoć, koji imaju prebivalište na teritoriji opštine Danilovgrad (u daljem tekstu: Opština).
