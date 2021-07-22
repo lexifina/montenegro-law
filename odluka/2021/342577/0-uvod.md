@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 29 Zakona o lokalnoj samoupravi ("Sl .list CG", br.2/18 , 34/19 i 38/20 ) u vezi člana 17 stav 2 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG’’, br. 16/16,83/16 ,21/17 42/17, 2/18, 39/18 ,42/18 i 34/19) i člana 46 stav 1 tačka 29 Statuta opštine Bijelo Polje ( "Sl, list CG - Opštinski propisi", br. 19/18), uz saglasnost Ministarstva finansija i socijalnog staranja br. 03-8050/1, od 26.05.2021. godine, Skupština opštine Bijelo Polje na sjednici održanoj dana 30.06.2021. godine, donijela je
+O D L U K U
