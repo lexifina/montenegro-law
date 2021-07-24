@@ -1,0 +1,27 @@
+PRILOG 1
+VAZDUHOPLOVNE AKTIVNOSTI ZA KOJE SE NE IZRAĐUJE PLAN PRAĆENJA
+EMISIJA GASOVA SA EFEKTOM STAKLENE BAŠTE
+Vazduhoplovne aktivnosti za koje se ne izrađuje plan praćenja emisija gasova sa efektom staklene bašte su:
+1) Letovi koji se obavljaju isključivo radi prevoza državnika: vladajućeg monarha i njegove/njene uže porodice, šefova država, predsjednika vlade i ministara stranih država prilikom zvanične posjete Crnoj Gori, koji su u planu leta obilježeni odgovarajućim statusnim indikatorom;
+2) Vojni letovi koji se obavljaju vojnim vazduhoplovima, kao i letovi koje samostalno obavlja carinska uprava i uprava policije;
+3) Letovi koji se obavljaju u svrhu traganja i spašavanja, gašenja požara, humanitarni letovi i letovi u svrhu hitne medicinske pomoći;
+4) Letovi koji se sprovode isključivo u skladu sa pravilima vizuelnog letenja, u skladu sa Aneksom 2 Čikaške konvencije o civilnom vazduhoplovstvu;
+5) Letovi koji se završavaju na aerodromu sa kojeg je vazduhoplov poletio, ukoliko tokom leta nije bilo nijednog slijetanja;
+6) Probni letovi koji se obavljaju isključivo u svrhu dobijanja dozvole ili ovlašćenja u slučaju leta posade, što je u planu leta obilježeno odgovarajućom oznakom, pod uslovom da ti letovi ne služe za prevoz putnika ili robe i ne predstavljaju prazne ili tehničke letove;
+7) Letovi koji se obavljaju isključivo u svrhu naučnih istraživanja ili radi provjere, testiranja ili sertifikovanja vazduhoplova ili opreme bilo da je to oprema vazduhoplova ili zemaljska oprema;
+8) Letovi koji se obavljaju vazduhoplovom koji ima maksimalnu sertifikovanu masu pri polijetanju manju od 5 700 kg;
+9) Letovi koji se obavljaju u okviru javnog servisa utvrđenog na linijama koje povezuju najudaljenija područja Evropske unije, ili na redovnim linijama gdje kapacitet ne prelazi 30 000 putnika godišnje;
+10) Letovi koje obavlja komercijalni vazdušni prevoznik koji ima manje od 243 leta u periodu od tri uzastopna kvartala ili ukupne godišnje emisije gasova sa efektom staklene bašte manje od 10 000 tona.
+Napomena:
+- Letovi koji su od strane komercijalnog vazdušnog prevoznika obavljeni u skladu sa tačkom 1 ovog priloga uračunavaju se u ukupan broj letova u tri uzastopna kvartala, odnosno u ukupne godišnje emisije utvrđene u tački 10 ovog priloga.
+- Letovi koje je Centralna kancelarija Eurokontrol-a za naplatu ruta identifikovala kao kvalifikovane za izuzeće od naplate naknada (CRCO kod za izuzeće) pod oznakom "S" smatraju se letovima koji se vrše isključivo radi prevoza državnika: vladajućeg monarha i njegove uže porodice, predsjednika države, predsjednika vlade i ministara u vladi, na zvaničnoj misiji i označeni su odgovarajućim indikatorom statusa u planu letenja.
+- Vojni letovi su letovi direktno vezani za sprovođenje vojnih aktivnosti.
+- Vojni letovi koje obavljaju civilni vazduhoplovi i civilni letovi koji se vrše vojnim vazduhoplovima nijesu pokriveni izuzetkom iz tačke 2 i letovi sa CRCO kodom za izuzeće "M" ili "X" smatraju se izuzetim vojnim letovima;
+- Letovi sa CRCO kodom za izuzeće "P" smatraju se izuzetim letovima carine i policije;
+- Letovi sa CRCO kodom za izuzeće "R" i letovi sa oznakom STS/SAR u polju 18 plana letenja smatraju se izuzetim letovima potrage i spašavanja;
+- Vatrogasni letovi su letovi obavljeni isključivo u svrhu pružanja vatrogasnih usluga iz vazduha, što predstavlja korišćenje vazduhoplova i drugih vazduhoplovnih sredstava u borbi protiv šumskih požara, a letovi označeni oznakom STS/FFR u polju 18 plana letenja smatraju se izuzetim vatrogasnim letovima;
+- Humanitarni letovi su letovi koji se obavljaju isključivo u humanitarne svrhe i kojima se prevozi osoblje i roba namjenjena pomoći kao što je hrana, odjeća, oprema za sklonište, medicinski i drugi predmeti, tokom ili nakon neke vanredne situacije i/ili prirodne nepogode i/ili koji se koriste za evakuaciju ljudi s područja gdje je njihov život ili zdravlje ugroženo tom vanrednom situacijom i/ili prirodnom nepogodom na sigurno mjesto u istoj državi ili na teritoriji druge države koja je voljna da primi te osobe. Letovi sa CRCO kodom izuzeća "H" i letovi pod oznakom STS/HUM u polju 18 plana letenja smatraju se izuzetim humanitarnim letovima;
+- Letovi hitnih medicinskih usluga su letovi koji se obavljaju isključivo radi ubrzavanja pružanja hitne medicinske pomoći gdje je ključno pružiti neposredan i brz prevoz medicinskog osoblja, medicinskih sredstava, uključujući opremu, krv, organe, lijekove ili bolesnike ili povređene osobe i druge osobe koje su direktno uključene, a letovi sa naznakom STS/MEDEVAC ili STS/HOSP u polju 18 plana letenja smatraju se izuzetim letovima hitnih medicinskih usluga;
+- Letovi sa CRCO kodom izuzeća "T" i letovi s oznakom RMK/"let obuke" u polju 18 plana letenja smatraju se izuzetim u skladu sa tačkom 4 ovog priloga;
+- Letovi koji se obavljaju isključivo u svrhu naučnih istraživanja odnose se na naučna istraživanja koja se potpuno ili djelimično vrše tokom leta, a letovi sa CRCO kodom izuzeća "N" i letovi sa oznakom STS/FLTCK u polju 18 plana letenja smatraju se izuzetim u skladu s podstavom;
+- Letovi komercijalnog operatera vazduhoplova koji obavlja manje od 243 leta tokom tri uzastopna četvoromjesečna perioda su izuzeti. Četvoromjesečni periodi su od januara do aprila, od maja do avgusta i od septembra do decembra. Po lokalnom vremenu polijetanja određuje se u kojem četvoromjesečnom periodu se određeni let uzima u obzir radi odlučivanja da li je operater vazduhoplova ispod ili iznad praga izuzeća.
