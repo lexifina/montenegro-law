@@ -1,0 +1,2 @@
+Na osnovu člana 40 i 41 Zakona o finansiranju lokalne samouprave ("Sl. list Crne Gore", 03/19) člana 69 Zakona o Budžetu i fiskalnoj odgovornosti ("Sl. list Crne Gore", br. 20/14, 56/14, 70/17, 4/18, 55/18 i 66/19), člana 38 stav 1 tačka 7 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19 i 38/20) i člana 36 stav 1 tačka 7 Statuta opštine Berane ("Sl. list Crne Gore - Opštinski propisi", 42/18) Skupština opštine Berane, na sjednici održanoj 29. juna 2021. godine, donijela je
+Z A V R Š N I R A Č U N
