@@ -1,0 +1,2 @@
+Na osnovu člana 23 i 28 Odluke o osnivanju d.o.o. Lokalni javni emiter "Radio Tivat"(Sl.list CG - Opštinski propisi" br. 10/12 i 07/18), člana 32 Zakona o elektronskim medijima ( Sl.list Crne Gore br. 46/10, 40/11, 53/11, 06/13, 55/16, 92/17 i 82/20) i člana 35 Statuta opštine Tivat ("Sl.list CG - Opštinski propisi", br.24/18 i 09/20), Skupština opštine Tivat na sjednici održanoj dana 30.06.2021. godine, donijela je
+O D L U K U
