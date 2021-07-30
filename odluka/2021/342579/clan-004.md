@@ -1,0 +1,2 @@
+# Član 4
+Prioritet u ostvarivanju prava na socijalno stanovanje na teritoriji opštine Bijelo Polje u skladu sa Lokalnim programom naročito imaju: samohrani roditelji, odnosno staratelji, lica sa invaliditetom, pripadnici Roma i Egipćana (RE populacija), lica preko 67 godina života, mladi koji su bili djeca bez roditeljskog staranja, porodice sa djecom sa smetnjama u razvoju, žrtve nasilja u porodici i raseljena lica.
