@@ -1,0 +1,2 @@
+# Član 18
+Zabranjeno je u zajedničkim prostorijama i u stanovima demontirati zajedničke uređaje i instalacije ili vršiti druge prepravke bez pismene saglasnosti skupštine i pravnog ili drugog lica kojem se povjere poslovi održavanja zgrade, ili vlasnika posebnog dijela zgrade, ako ti radovi zadiru u taj posebni dio. Popravak kvarova na električnim instalacijama, otvaranje kutija i ormarića i rukovanje sa električnim i telekomunikacionim instalacijama mogu obavljati samo stručna lica koja su ovlašćena za te poslove.
