@@ -1,0 +1,4 @@
+# Član 4
+Pomoćni objekat se postavlja, odnosno gradi u granicama urbanističke parcele u skladu sa planskim dokumentom detaljne razrade, odnosno u granicama katastarske parcele ukoliko nije donijet ili nije potrebno donošenje plana detaljne razrade, a u skladu sa smjernicama iz prostorno-urbanističkog plana opštine Žabljak.
+Van zone DUP-a mogu se graditi potporni zidovi i ograde iako na katastarskoj parceli do tada nije izgrađen glavni objekat.
+Do donošenja plana generalne regulacije Crne Gore pomoćni objekti iz člana 2 stav 1 tačka 2 ove odluke postavljaju se i grade u skladu sa Odlukom o postavljanju, odnosno građenju i uklanjanju pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom (’’Sl. list CG - Opštinski propisi’’, br. 7/14 ).
