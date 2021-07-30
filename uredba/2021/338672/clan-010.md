@@ -1,0 +1,9 @@
+# Član 10
+## Izvještaj o uvozu/izvozu
+Pravno lice, odnosno preduzetnik koji vrši uvoz, izvoz i stavljanje u promet kontrolisanih i/ili alternativnih supstanci, dostavlja Agenciji carinsku deklaraciju za svaku izdatu dozvolu, najkasnije u roku od tri dana od dana izvršenog uvoza, odnosno izvoza tih supstanci.
+Pravno lice, odnosno preduzetnik iz stava 1 ovog člana sačinjava izvještaj na osnovu evidencije o:
+1) uvozu kontrolisanih i alternativnih supstanci; krajnjim korisnicima tih supstanci; uvezenim količinama za svaku supstancu posebno, količinama stavljenim u promet na domaće tržište po supstanci i njenoj krajnjoj namjeni (glavna kategorija primjene), postojećim zalihama i drugim podacima od značaja za utvrđivanje potrošnje supstanci;
+2) izvozu kontrolisanih i alternativnih supstanci i to: o izvezenim količinama za svaku supstancu posebno, utvrđujući količine izvezene u svaku državu pojedinačno, količinama rekuperovanih kontrolisanih i alternativnih supstanci izvezenih radi regeneracije, kao i o postojećim zalihama tih supstanci.
+Na osnovu evidencija iz stava 2 ovog člana, pravno lice, odnosno preduzetnik sačinjava izvještaj i dostavlja ga Agenciji najkasnije do 31. januara tekuće za prethodnu godinu.
+Pravno lice, odnosno preduzetnik sačinjava izvještaj o uvozu i/ili izvozu proizvoda iz Priloga 3 (Grupa I) koje sadrže alternativne supstance (prethodno napunjena oprema) na osnovu evidencija o uvozu i izvozu proizvoda/opreme koji sadrže alternativne supstance, kategorijama proizvoda, količinama uvezenih/izvezenih proizvoda (broju jedinica uvezenih/izvezenih proizvoda), količinama supstanci sadržanih u proizvodu/opremi i količini odnosno broju proizvoda stavljenih na tržište i dostavlja ga Agenciji najkasnije do 31. januara tekuće za prethodnu godinu.
+Izvještaj iz stava 3 ovog člana sačinjava se na obrascu 2, a izvještaj iz stava 4 ovog člana na obrascu 3.

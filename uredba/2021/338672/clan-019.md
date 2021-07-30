@@ -1,0 +1,12 @@
+# Član 19
+## Označavanje proizvoda koji sadrže kontrolisane i/ili alternativne supstance
+Proizvodi i cilindri koji sadrže kontrolisane i alternativne supstance i njihove smješe mogu se stavljati u promet samo ako su označeni u skladu sa ovom uredbom.
+Označavanje proizvoda i cilindara koji sadrže alternativne supstance vrši se oznakom koja sadrži natpis: "sadrži fluorovani gas sa efektom staklene bašte", industrijsku oznaku i/ili hemijski naziv supstance, količinu alternativne supstance izraženu u kilogramima i CO2 equivalentu, i GWP potencijal za te supstance.
+Ako se alternativne supstance dodaju u proizvode van mjesta proizvodnje, a čiju ukupnu količinu proizvođač ne može utvrditi, oznaka mora da sadrži podatke o punjenju koje je izvršio proizvođač ili količinu za koju je proizvod dizajniran, mjesto za unos podataka o količini supstanci koja će biti dodata van mjesta proizvodnje i mjesto za unos podataka o ukupnoj količini supstanci.
+Oznaka iz stava 2 ovog člana mora da bude lako uočljiva, čitljiva i trajna.
+Ako se oznaka iz stava 3 ovog člana dodaje uz postojeću oznaku proizvoda, podaci se unose istom veličinom slova, a oznaka se stavlja na dio proizvoda ili opreme koji sadrži alternativne supstance ili na dio proizvoda ili opreme na kojem se vrši njihovo punjenje ili prikupljanje.
+Rashladni i klima uređaji i oprema čija je izolacija izvedena pjenom, a ispjenjavanje je izvršeno alternativnim supstancama, mogu se stavljati u promet ako su označeni oznakom "ispjenjavanje izvršeno florovanim gasovima sa efektom staklene bašte".
+Hermetički zatvoreni sistemi označavaju se oznakom iz stava 2 ovog člana, s tim da sadrže i oznaku "hermetički zatvoreno".
+Označavanje cilindara koji sadrži kontrolisane supstance vrši se u skladu sa zakonom kojim se uređuje označavanje hemikalija.
+Kada se prilikom popravke i/ili održavanja proizvoda iz Priloga 3 (grupa I), upotrebljavaju reciklirane ili regenerisane kontrolisane supstance, popravljeni proizvod se obilježava oznakom koja sadrži podatke o nazivu i količini reciklirane ili regenerisane supstance u skladu sa zakonom kojim se uređuje označavanje hemikalija.
+Cilindri koji sadrže regenerisane kontrolisane ili alternativne supstance prije stavljanja u promet moraju biti obilježeni oznakom koja sadrži podatke da je supstanca regenerisana, o inventarskom kodu supstance, nazivu i adresi postrojenja koje je izvršilo regeneraciju.
