@@ -1,0 +1,2 @@
+Na osnovu člana 2 i člana 3 Odluke o izgradnji lokalnih objekata od opšteg interesa o izgradnji lokalnih objekata od opšteg interesa na teritoriji Opštine Danilovgrad ("Sl. list CG - Opštinski propisi", br. 010/21), člana 38 Zakona o lokalnoj samoupravi ("Sl. list CG" br. 02/18, 34/19 i 38/20) i člana 35 Statuta opštine Danilovgrad ("Sl. list CG" - Opštinski propisi, br. 43/18), Skupština opštine Danilovgrad, na sjednici održanoj 02.07.2021. godine, donijela je
+O D L U K A
