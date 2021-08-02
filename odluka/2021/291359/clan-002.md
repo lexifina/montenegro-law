@@ -1,0 +1,3 @@
+# Član 2
+Zdravstvenom mrežom se za područja opština, Glavnog grada Podgorica i Prijestonice Cetinje (u daljem tekstu: opštine) određuju zdravstvene ustanove za pružanje zdravstvenih usluga primarnog nivoa zdravstvene zaštite i zdravstvene ustanove za pružanje zdravstvenih usluga sekundarnog i tercijarnog nivoa zdravstvene zaštite za više opština (u daljem tekstu: davaoci usluga).
+Zdravstvenom mrežom određuju se i davaoci usluga: hemodijalize, stomatološke zdravstvene zaštite, hitne i urgentne medicinske pomoći, djelatnosti transfuzije krvi, za ostvarivanje prava na ljekove, medicinska sredstva, materijale i medicinsko-tehnička pomagala, kao i za specijalizovanu medicinsku rehabilitaciju.
