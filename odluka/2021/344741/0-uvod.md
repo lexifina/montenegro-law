@@ -1,0 +1,2 @@
+Na osnovu člana 40 stav 2 tačka 3 i 4 Zakona o državnoj imovini ("Sl. list CG", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ( "Sl. list CG" br. 2/18, 34/19, 38/20), člana 46 stav 1 tačka 9 Statuta opštine Rožaje ("Sl. list CG-Opštinski propisi", br. 38/18 i 16/21), Odluke o građevinskom zemljištu ("Sl. list CG-Opštinski propisi", br. 16/21) , Skupština opštine Rožaje, na sjednici održanoj dana 15.07.2021 godine , donijela je
+O D L U K U
