@@ -1,0 +1,3 @@
+# Član 1
+## dokompletiranja urbanističkih parcela: UP 272, UP 273 i UP 274 , u zahvatu DUP-a ‘’Breza’’
+Opština Kolašin prodaje DOO ’’Montenegro Luxury Hotels & Resorts’’ iz Kotora , neposrednom pogodbom , zemljište upisano u listu nepokretnosti br.1362 KO Kolašin, na kojem opština Kolašin ima pravo raspolaganja i to: kat.parcelu broj 1090/2, po kulturi pašnjak 2 klase, površine 8 m2 , koja ulazi u sastav UP 272, kat.parcelu broj 1090/3, po kulturi pašnjak 2 klase, površine 23 m2 , koja ulazi u sastav UP 273 i kat.parcelu broj 1090/4, po kulturi pašnjak 2 klase, površine 16 m2 , koja ulazi u sastav UP 274 , a sve radi dokompletiranja UP 272, UP 273 i UP 274 , u zahvatu DUP-a ‘’Breza’’ .
