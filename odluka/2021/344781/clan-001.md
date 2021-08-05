@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti na Odluku Odbora direktora d.o.o. "Komunalne djelatnosti" Ulcinj broj 2216 od 24.07.2020. godine
+Daje se saglasnost na Odluku Odbora direktora DOO "Komunalne djelatnosti" Ulcinj broj 2216 donijetoj na sjednici od 24.07.2020.godine, kojom je odlučeno da se za korisnike usluga društva iz kategorije privrednih subjekata i za privremene objekte sezonskog karaktera, za mjesec Jun i Jul neće se primjenjivati povećana ljetnja tarifa fakturisanja kako je predviđeno članom 4, 5 i 6 Odluke o cijenama usluga odvoza komunalnog otpada na teritoriji opštine Ulcinj br.344 od 24.02.2020,godine.
