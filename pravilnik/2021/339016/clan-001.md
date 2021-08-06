@@ -1,0 +1,2 @@
+# Član 1
+Ovim Pravilnikom se usvajaju Antidoping pravila Komisije za antidoping (u daljem tekstu: Komisija), utvrđena u saradnji sa Svjetskom antidoping agencijom u postupku usaglašavanja pravila antidoping organizacija sa Svjetskim antidoping kodeksom i međunarodnim standardima odobrenim od strane Svjetske antidoping agencije, koji stupaju na snagu danom donošenja na sjednici od 6. avgusta 2021. godine.
