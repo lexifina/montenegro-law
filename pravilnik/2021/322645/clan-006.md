@@ -1,0 +1,5 @@
+# Član 6
+Revizijom idejnog projekta, ako se radi idejni projekat, obuhvata se i provjera da li je postupljeno po zahtjevima revidenta koji je izvršio reviziju idejnog rješenja.
+Ako je revident ukazao na određene nedostatke u idejnom rješenju i utvrdio zahtjeve po kojima je privredno društvo koje je izradilo projekat (u daljem tekstu: projektant) obavezan da postupi u idejnom projektu, revident idejnog projekta konstatuje da li je postupljeno po zahtjevima revidenta koji je izvršio reviziju idejnog rješenja.
+Revizijom glavnog projekta obuhvata se i provjera da li je postupljeno po zahtjevima revidenta koji je izvršio reviziju idejnog projekta ako je taj projekat izrađen, odnosno idejnog rješenja.
+Ako je revident ukazao na određene nedostatke u idejnom projektu ili idejnom rješenju i utvrdio zahtjeve po kojima je projektant obavezan da postupi u glavnom projektu, revident glavnog projekta konstatuje da li je postupljeno po zahtjevima revidenta koji je izvršio reviziju idejnog projekta, odnosno idejnog rješenja.

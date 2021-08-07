@@ -1,0 +1,3 @@
+# Član 5
+Revident je dužan da izvrši provjeru tačnosti opšte, tekstualne, numeričke i grafičke dokumentacije pojedinih djelova glavnog projekta i/ili kompletnog glavnog projekta.
+Ako revident utvrdi da opšta, tekstualna, numerička i grafička dokumentacija sadrže nedostatke, kao i da nedostaju traženi dokazi koji su od uticaja za provjeru ispunjenosti uslova, obavijestiće investitora da je potrebno da privredno društvo koje izrađuje tehničku dokumentaciju preko ovlašćenog inženjera koji rukovodi izradom glavnog projekta, obezbijedi dokaze o ispravnosti i tačnosti pojedinih djelova i/ili kompletnog glavnog projekta.
