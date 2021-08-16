@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 2 Zakona o lokalnoj samoupravi ("Službeni list CG" broj 2/18,34/19 i 38/20), člana 29 Zakona o komunalnim djelatnostima ("Službeni list CG" broj 55/16, 74/16, 2/18 i 66/19), člana 36 stav 1 tačka 2 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi" broj 37/19), člana 10 Odluke o osnivanju Društva sa ograničenom odgovornošču "Komunalno Kotor" Kotor ("Službeni list Crne Gore - Opštinski propisi" broj 3/14), člana 49 stav 3 Statuta DOO "Komunalno Kotor", Skupština Opštine Kotor, na VII sjednici održanoj 16. 08. 2021. godine, donijela je
+O D L U K U
+o davanju saglasnosti na Odluku Odbora direktora Društva sa ograničenom odgovornošću "Komunalno Kotor"
