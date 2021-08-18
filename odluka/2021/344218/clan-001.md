@@ -1,0 +1,3 @@
+# Član 1
+## o utvrđivanju lokacije za izgradnju 10kV kablovskog voda i optičkog kabla od TS 10/0,4kV "1-Tunel" do TS 10/0,4kV "Kavač 7"- K.O. Kavač, Kotor (Region 5)
+Ovom Odlukom utvrđuje se lokacija i urbanističko-tehnički uslovi za izgradnju 10kV kablovskog voda i optičkog kabla od TS 10/0,4kV "1-Tunel" do TS 10/0,4kV "Kavač 7"- K.O. Kavač, Kotor (Region 5), na kat.parc.1131, 485, 487/1, 1132/1, 513, 717/1, 716/1, 716/2, 1132/1, 882/9, 711/1, 882/8, 882/10, 882/11, 882/7, 884/2, 884/13, 883/3, 884/22, 884/12, 884/6, 880/3, 880/1, 1026/1, 1026/4, 1030/7, 1024/1, 1023/2, 1030/7, 1030/6, 1033/1, 1043/2, 1043/4, 1043/3, sve K.O.Kavač. Inicijativu za donošenje ove Odluke podnio je "Crnogorski elektrodistributivni sistem" d.o.o. Podgorica.
