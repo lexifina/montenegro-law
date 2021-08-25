@@ -1,0 +1,5 @@
+Na osnovu člana 50 Opšteg zakona o obrazovanju i vaspitanju ("Službeni list RCG’’, br. 64/02, 31/05 i 49/07 i "Službeni list CG’’, br. 45/10, 40/11, 45/11, 36/13, 39/13, 44/13, 47/17 i 59/21) i člana 18 stav 1 Zakona o upravnom postupku ("Službeni list CG’’, br. 56/14, 20/15, 40/16 i 37/17), Ministarstvo prosvjete, nauke, kulture i sporta donijelo je
+R J E Š E Nj E O IZDAVANjU LICENCE PRIVATNOJ USTANOVI EDUKATIVNI CENTAR
+"TIMER & CO", IZ NIKŠIĆA
+1. Izdaje se licenca za rad Privatnoj ustanovi Edukativni centar "Timer & Co", iz Nikšića sa poslovnim jedinicama u Podgorici i Beranama, kao organizatoru obrazovanja odraslih, za izvođenje: Programa za sticanje ključne kompetencije učenje njemačkog jezika za medicinsku struku, Programa obrazovanja za učenje engleskog jezika Centra za obrazovanje i odgoj "Don Bosko" iz Podgorice, Programa obrazovanja za sticanje ključnih vještina za obavljanje poslova GIS analitike i Programa obrazovanja za sticanje znanja i vještina rada na računaru Zavoda za zapošljavanje Crne Gore.
+2. Ovo rješenje stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore".
