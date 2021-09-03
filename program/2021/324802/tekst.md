@@ -1,0 +1,24 @@
+Na osnovu člana 8 stav 2, a u vezi sa članovima 12 i 13 Zakona o spomen-obilježjima ("Službeni list Crne Gore", br. 40/08, 40/11, 02/17), i člana 16 stav 1 tačka 9 Odluke o organizaciji i načinu rada lokalne uprave ("Službeni list Crne Gore - Opštinski propisi " , br. 46/19) uz saglasnost Ministartstva prosvete, nauke, kulture i sporta Rješenje br. UPI-01-041/21-46/3 od 26.04.2021. godine, Skupština opštine Kotor je na VII Sjednici održanoj 18.08.2021. godine donjela
+PROGRAM PODIZANJA SPOMEN-OBILJEŽJA U OPŠTINI KOTOR ZA 2021. GODINU
+Uvod
+Ovim programom, u skladu sa Zakonom o spomen-obilježjima ("Službeni list Crne Gore", broj 40/08, 40/11 i 2/17) utvrđuju se spomen-obilježja koja će se podići na teritoriji Opštine Kotor, vrsta i način podizanja spomen-obilježja, opis simboličkog značenja kao i drugi elementi neophodni za sprovođenje Programa.
+Spomen-obilježjima se shodno članu 1 navedenog zakona, trajno obilježavaju značajni događaji, čuvaju uspomene na istaknutu ličnost, njeguju ljudski ideali i kulturno-istorijske tradicije i odaje počast borcima za slobodu, civilnim žrtvama rata i masovnim stradanjima ljudi.
+Spomen-obilježje je spomen-objekat koji izgledom, sadržajem, oznakama ili natpisom doprinosi trajnom očuvanju vrijednosti iz stava 2 ovog Programa.
+Spomen-obilježjem smatra se i naziv javne ustanove, javnog preduzeća, naselja i javnog objekta (ulica, trg, put, park, česma i dr.), ako simbolizuje vrijednosti iz člana 1 ovog zakona.
+I
+Podizanje spomen-obilježja davanjem naziva javnom objektu zimskom bazenu u Kotoru Zoran Džimi Gopčević 1.
+Zoran Džimi Gopčević je rođen u Kotoru 29. januara 1955. godine, kao sedmo od devetoro djece Boža i Radmile Gopčević. Svoje djetinjstvo i mladost proveo je u Orahovcu. Kao vaterpolista, potekao je u VK "Borac" iz Orahovca, sa kojim je uspio da se plasira u II saveznu vaterpolo ligu 1971. godine. Od 1972. godine je član VK "Primorac" u kome je kao dugogodišnji kapiten i najbolji igrač uspio da osvoji: Prvenstvo i Kup SFRJ u takmičarskoj sezoni 1985/86. godine zatim, II mjesto u LEN (Evropska asocijacija vodenih sportova) Kupu pobjednika kupova 1977. godine, i polufinale LEN Kupa evropskih šampiona 1986. godine. U reprezentativnim selekcijama SFRJ, koje je kao selektor predvodio Trifun Miro Ćirković, postigao je izvanredne rezultate i uz odličja u mlađim kategorijama sa seniorskom reprezentacijom (,,A") osvojio je: II mjesto na Evropskom prvenstvu 1977. godine u Jenčepingu, III mjesto na Svjetskom prvenstvu 1978. godine u Zapadnom Berlinu, I mjesto na Mediteranskim igrama 1979. godine u Splitu, II mjesto na Olimpijskim igrama 1980. godine u Moskvi, kada je proglašen za najboljeg igrača turnira; prva mjesta na CANAMMEX turnejama 1979. godine i 1981. godine, Tungsram kupu 1979. godine i Hungari Kupu 1980. godine u Budimpešti, na Balkanijadama 1977-1981 godine. Kao trener osvojio je Prvenstvo SRJ sa VK "Budvanska rivijera" 1994. godine. Bio je oženjen i otac dvoje djece. Iznenada je preminuo 30. septembra 2000. godine. Neposredno nakon njegove smrti, na bazenu u Sidneju, na kome je vaterpolo reprezentacija Srbije i Crne Gore upravo osvojila treće mjesto, sa razglasa se čulo: ,,Danas je Srbija i Crna Gora osvojila olimpijsku bronzu, ali je izgubila svoje vaterpolo zlato - preminuo je Zoran Džimi Gopčević’’. Uostalom, dijelić onoga što su Kotorani mislili i misle o Zoranu, može se saznati iz novinarskih anketa nakon Zoranove prerane smrti: ,,Zoran je bio vanserijski igrač izvanrednih fizičkih sposobnosti i izvanrednog osjećaja za igru i divno, dobrodušno čeljade’’. ,,Veliko poštenje, veliki čovjek’’. ,,Sjajan igrač, sjajan čovjek’’. ,,Prvo napiši da je bio ČOVJEK, ali sve velikim slovima, i opet će da bude malo. "Ne može Džimijeva duša u riječi da stane’’. Podršku inicijativi dali su Vaterpolo plivački savez Crne Gore, VPK "Primorac" Kotor, VA Cattaro" i Vaterpolo savez Srbije.
+Zoran Džimi Gopčević je ostavio dubok trag u svjetskom vaterpolu, kao reprezentativac i kapiten ekipe koja je Kotoru donijela prvu titulu Prvenstva i Kupa države. Cijelu svoju igračku karijeru posvetio VK ,,Primorac", sportsmen koji je pronosio ime Kotora, Kluba, pa i samog velelepnog bazena širom svijeta, kojeg je i otvorio 1984. godine.
+2.
+Vrsta spomen-obilježja će se podići davanjem naziva javnom objektu zimskom bazenu u Kotoru, čiji je vlasnik Opština Kotor.
+3.
+Spomen-obilježje davanjem naziva javnom objektu podići će Opština Kotor.
+4.
+Sredstva za podizanje spomenen-obilježja davanjem naziva javnom objektu obezbjeđuje Opština Kotor.
+5.
+Rok za podizanje spomenen-obilježja davanjem naziva javnom objektu je decembar 2021. godine.
+6.
+U realizaciji podizanja ovog spomen-obilježja, u skladu sa Zakonom, donijeće se posebna odluka.
+II
+Završne odredbe
+Ovaj Program stupa na snagu danom objavljivanja u "Službenom listu Crne Gore - Opštinski propisi".
