@@ -1,0 +1,2 @@
+Na osnovu člana 74 stav 2 tačka 7 i člana 76 stav 1 tačka 5 Zakona o obaveznom zdravstvenom osiguranju ("Sl. list CG" br. 06/16, 02/17, 22/17, 13/18 i 67/19) i člana 9 stav 2 tačka 7 Statuta Fonda za zdravstveno osiguranje Crne Gore ("Sl. list CG", br. 21/20), Upravni odbor Fonda za zdravstveno osiguranje Crne Gore, na sjednici od 03.09.2021. godine donio je
+PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O KRITERIJUMIMA ZA
