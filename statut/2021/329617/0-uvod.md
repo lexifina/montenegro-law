@@ -1,0 +1,2 @@
+Na osnovu člana 114 Zakona o privrednim društvima ("Službeni list CG", broj 65/20) i člana 7 stav 2 Odluke o osnivanju jednočlanog Akcionarskog društva za uslužne djelatnosti u vazdušnom saobraćaju "Aerodromi Crne Gore" ("Službeni list CG", br. 38/13 i 67/21), Vlada Crne Gore, na sjednici od 30. jula 2021. godine, donijela je
+S T A T U T AKCIONARSKOG DRUŠTVA ZA USLUŽNE DJELATNOSTI U VAZDUŠNOM SAOBRAĆAJU "AERODROMI CRNE GORE"

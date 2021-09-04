@@ -1,0 +1,34 @@
+# Član 7
+Pretežna djelatnost Društva je 52.23 Uslužna djelatnost u vazdušnom saobraćaju i obuhvata:
+- aktivnosti u vezi sa prevozom putnika, životinja ili robe vazdušnim putem;
+- kontrolu aerodroma i vazdušnog saobraćaja;
+- rad zemaljske službe na aerodromu i drugo;
+- protivpožarnu zaštitu i odbranu na aerodromu.
+Ostale djelatnosti Društva su:
+- 46.16 Posredovanje u prodaji tekstila, odjeće, krzna, obuće i predmeta od kože;
+- 46.17 Posredovanje u prodaji hrane, pića i duvana;
+- 46.18 Specijalizovano posredovanje u prodaji posebnih proizvoda;
+- 46.19 Posredovanje u prodaji raznovrsnih proizvoda;
+- 46.34 Trgovina na veliko pićem;
+- 46.35 Trgovina na veliko duvanskim proizvodima;
+- 46.90 Nespecijalizovana trgovina na veliko;
+- 47.11 Trgovina na malo u nespecijalizovanim prodavnicama;
+- 47.19 Ostala trgovina na malo u nespecijalizovanim prodavnicama;
+- 47.25 Trgovina na malo pićima u specijalizovanim prodavnicama;
+- 47.26 Trgovina na malo proizvodima od duvana u specijalizovanim prodavnicama;
+- 47.75 Trgovina na malo kozmetičkim i toaletnim proizvodima u specijalizovanim prodavnicama;
+- 47.78 Ostala trgovina na malo novim proizvodima u specijalizovanim prodavnicama;
+- 49.31 Gradski i prigradski kopneni prevoz putnika;
+- 52.10 Skladištenje;
+- 52.24 Manipulacija teretom: utovar i istovar tereta ili prtljaga putnika bez obzira na vrstu saobraćajnog sredstva kojim je prevoz izvršen;
+- 52.21 Uslužne djelatnosti u kopnenom saobraćaju;
+- 52.29 Ostale prateće djelatnosti u saobraćaju;
+- 56.10 Djelatnost restorana i pokretnih ugostiteljskih objekata;
+- 56.21 Ketering (dostava pripremljene hrane);
+- 56.29 Ostale usluge pripremanja i posluživanja hrane;
+- 56.30 Usluge pripremanja i posluživanja pića;
+- 68.20 Iznajmljivanje vlastitih ili iznajmljenih nekretnina i upravljanje njima;
+- 85.59 Ostalo obrazovanje;
+- 79.11 Djelatnost putničkih agencija;
+- 79.90 Ostale usluge rezervacije i djelatnosti povezane s njima;
+- 86.90 Ostala zdravstvena zaštita.
