@@ -1,0 +1,4 @@
+# Član 5
+Pomoćni objekat postavlja se odnosno gradi u granicama urbanističke parcele u skladu sa planskim dokumentom, odnosno u granicama lokacije za gradnju ukoliko nije potrebno donijeti plan detaljne razrade, a prema smjernicama Prostorno urbanističkog plana.(u daljem tekstu PUP-a).
+Planski parametri u smislu zauzetosti i izgrađenosti urbanističke parcele odnosno lokacije za izgradnju se primjenjuju samo za pomoćne objekte koji su u funkciji objekata za stanovanje kao što su garaže, ostave, ljetne kuhinje i sl.
+Ukoliko se pomoćni objekat postavlja odnosno gradi na prostoru za koji ne postoji plan detaljne razrade, dozvoljena je izgradnja shodno smjernicama PUP-a, ili ako planom detaljne razrade za isti nijesu utvrđeni uslovi postavljanja odnosno građenja, uslovi se određuju odredbama ove odluke.

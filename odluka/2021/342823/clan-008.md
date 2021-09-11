@@ -1,0 +1,4 @@
+# Član 8
+Ograda prema ulici može da bude zidana (kamena), maksimalne visine 0,6m od kote trotoara, ili transparentna, maksimalne visine 1,4m. Vrata i kapije na uličnoj ogradi ne mogu se otvarati van regulacione linije.
+Susjedne građevinske parcele mogu se ograđivati živom zelenom ogradom, koja se sadi u osovini granice parcele, ili transparentnom ogradom maksimalne visine 1,4m, a sve to uz saglasnost susjeda. Zidane i druge vrste ograda postavljaju se na regulacionu liniju, tako da ograda, stubovi ograde i kapije budu na zemljištu vlasnika parcele. Parcela čija je kota nivelete viša za 0,9m od susjedne može se ograđivati transparentnom ogradom do 1,4m visine, koja se može postaviti na podzid, čiju visinu definiše važeći Planski dokument.
+Otvoreni (nenatkriveni) bazeni sa pripadajućom plažnom površinom, kao i tehničke prostorije bazena ne ulaze u ukupni BRGP komplaksa, a maksimalni indeks zauzetosti vodenu površinu bazena iznosi 0,1 od površine lokacije za gradnju.
