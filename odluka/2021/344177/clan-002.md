@@ -1,0 +1,2 @@
+# Član 2
+Odlukom Skupštine Opštine Kotor o utvrđivanju lokacije za izgradnju DTS 10/0, 4 kV "Zagora 2" sa priključnim podzemnim 10 kV vodom i uklapanjem u N.N. mrežu ("Sl. list CG - Opštinski propisi" br. 52/19 od 25.12.2019. godine), utvrđena je lokacija i urbanističko - tehnički uslovi za izgradnju DTS 10/0, 4 kV "Zagora 2" sa priključnim podzemnim 10 kV vodom i uklapanjem u N.N. mrežu na kat.parc. 672/2 K.O. Zagora i predviđeno da se planirani podzemni vod 10 kV polaže preko sledećih parcela 672/2, 1304, 508, 507, 536 i 71 K.O. Zagora.

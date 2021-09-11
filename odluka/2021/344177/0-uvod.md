@@ -1,0 +1,3 @@
+Na osnovu člana 6, člana 29 i člana 32 Zakona o državnoj imovini CG (,,Sl. list CG", broj 21/09, 40/11), člana 34 i člana 38 Zakona o lokalnoj samoupravi (,,Sl. List CG, broj 2/18, 34/19 i 38/20), člana 201 u vezi sa članom 208 Zakona o svojinsko- pravnim odnosima (,,Službeni list CG" broj 19/09), Odluke o utvrđivanju lokacije za izgradnju DTS 10/0,4 kV "Zagora 2" sa priključnim podzemnim 10kV vodom i uklapanjem u NN mrežu (,,Sl. list CG - Opštinski propisi br. 52/19"), člana 19 i člana 36 Statuta Opštine Kotor ("Službeni list CG-Opštinski propisi" br. 37/19) Skupština Opštine Kotor, na VIIsjednici održanoj 18. 08. 2021.godine donijela je,
+ODLUKU
+o davanju saglasnosti na ustanovljavanje prava službenosti za polaganje priključnog podzemnog 10kV voda preko
