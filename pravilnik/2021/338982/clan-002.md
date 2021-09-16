@@ -1,0 +1,3 @@
+# Član 2
+Na osnovu revidovanog glavnog projekta privredno društvo, pravno lice ili preduzetnik koji vrši stručni nadzor, odnosno komisija iz člana 192 Zakona o planiranju prostora i izgradnji objekata utvrđuje faze građenja za koje je neophodno sačiniti izvještaj i priprema plan prijema radova koji dostavlja investitoru, nadležnom inspekcijskom organu i privrednom društvu koje gradi objekat (u daljem tekstu: izvođač radova).
+Obaveznim fazama iz stava 1 ovog člana smatraju se radovi koji se nakon završetka izvođenja ne mogu kontrolisati, a to su: zemljani radovi, armirano-betonski radovi i/ili radovi na čeličnoj konstrukciji, radovi na protivpožarnoj zaštiti objekta i zanatsko-završni radovi.
