@@ -1,0 +1,2 @@
+# Član 5
+Drugi subjekti javnog sektora koji nijesu obuhvaćeni čl. 2 i 3 ove uredbe, odnosno jedinice lokalne samouprave koje ne ispunjavaju kriterijum iz člana 4 ove uredbe, uspostavljaju unutrašnju reviziju organizovanjem posebne organizacione jedinice za unutrašnju reviziju ili obavljanjem unutrašnje revizije od strane jedinice za unutrašnju reviziju drugog subjekta na osnovu sporazuma, uz prethodnu saglasnost Ministarstva finansija i socijalnog staranja.
