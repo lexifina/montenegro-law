@@ -1,0 +1,2 @@
+Na osnovu člana 53 stav 1 tačka 22 Statuta opštine Tuzi ("Službeni list CG - Opštinski propisi" br. 24/19, 05/20), čl. 11 i 14 Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalno / Komunale" ("Službeni list Crne Gore - Opštinski propisi" br. 33/19), člana 39 Poslovnika o radu Skupštine opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 29/19), Skupština opštine Tuzi, na sjednici održanoj dana 28.09.2021. godine, donijela je
+ODLUKU
