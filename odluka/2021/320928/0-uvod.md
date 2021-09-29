@@ -1,0 +1,2 @@
+Na osnovu člana 58 i 59 Zakona o lokalnoj samoupravi ("Službeni list CG", br.2/18, 34/18 i 38/20) čl. 18 i 81 Statuta opštine Rožaje ("Sl.list CG-Opštinski propisi" br. 38/18 i 16/21) i čl. 3 Odluke o javnim priznanjima i nagradama opštine Rožaje ("Sl.list CG-Opštinski propisi "br. 34/19), na prijedlog Komisije za dodjelu zvanja "Počasni građanin Rožaja", br.01-018/21-1940/2 od 28.09.2021.godine, Predsjednik opštine donosi:
+O D L U K U
