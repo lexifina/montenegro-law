@@ -1,0 +1,3 @@
+# Član 4
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+--------------------------- * U ovaj pravilnik prenijeta je Implementirajuća Regulativa Komisije 2020/885 оd 26. juna 2020. godine o mjerama za sprječavanje unošenja u Unije organizma Pseudomonas syringae pv. actinidiae Takikawa, Serizawa, Ichikawa, Tsuyumu & Goto i njegovog širenja unutar Unije (Commission Implementing Regulation (EU) 2020/885 of 26 June 2020 as regards measures to prevent the introduction into and the spread within the Union of Pseudomonas syringae pv. actinidiae Takikawa, Serizawa, Ichikawa, Tsuyumu & Goto)
