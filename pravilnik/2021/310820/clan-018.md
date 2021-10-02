@@ -1,0 +1,28 @@
+# Član 18
+## Stupanje na snagu
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+01 Broj: 040/21-13994/3 Podgorica, 24. septembra 2021. godine
+Ministar,
+mr Sergej Sekulović, s.r.
+PRILOG 1
+PROGRAM STRUČNOG ISPITA ZA VRŠENJE DETEKTIVSKIH POSLOVA
+1. Detektivska djelatnost: Uslovi za obavljanje detektivske djelatnosti; Uslovi za obavljanje detektivskih poslova; Prava i dužnosti detektiva; Detektivska legitimacija; Zaštita tajnosti podataka; Stepen tajnosti podataka; Pristup tajnim podacima; Dužnost čuvanja tajnih podataka.
+Literatura: Zakon o detektivskoj djelatnosti.
+2. Pravni aspekti u obavljanju detektivskih poslova: Krivično djelo; Krivica; Oblici saučesništva; Osnovi koji isključuju postojanje krivičnog djela; Krivične sankcije; Krivična djela protiv imovine; Krivična djela protiv života i tijela; Krivična djela protiv čovječnosti i drugih dobara zaštićenih međunarodnim pravom; Krivična djela protiv službene dužnosti; Krivična djela protiv sloboda i prava čovjeka i građanina; Krivična djela protiv zdravlja ljudi; Krivična djela protiv časti i ugleda; Krivična djela protiv polne slobode; Krivična djela protiv braka i porodice; Načela krivičnog postupka; Nadležnosti sudova; Subjekti u krivičnom postupku; Lišenje slobode i zadržavanje lica zatečenog u vršenju krivičnog djela; Dokazne radnje; Krivična prijava; Izviđaj; Mjere tajnog nadzora; Imovinsko-pravni zahtjev; Krivična odgovornost pravnih lica za krivično djelo; Osnovna pravila određivanja prekršaja; Razlika između prekršajnog postupka i materijalnog prava, Prekršajni organi i sudovi; Primarno načelo odlučivanja o prekršajnom postupku; Brzi i redovni postupak o prekršaju.
+Literatura: Krivični zakonik Crne Gore; Zakonik o krivičnom postupku; Zakon o prekršajima.
+3. Kriminalistika sa praktičnim osposobljavanjem: Osnovi kriminalistike (tehnika, taktika i metodika); Identifikovanje osoba; Načini identifikacije; Identifikacija putem sopstvenih podataka; Fotografija kao sredstvo identifikacije lica; Tragovi; Osnovni pojmovi i načela kriminalističke taktike; Traganje za osobama i predmetima; Kriminalistička vještačenja; Krvni delikti; Imovinski delikti; Falsifikati.
+Literatura: Krivokapić, V., Todorić, U., Stupar, Lj., Bošković, M., Ivanović, V., "Kriminalistika", Beograd 1991; Maksimović, R., "Kriminalistika-tehnika", Policijska akademija, Beograd, 2000; Krivokapić, V., Žarković, M., "Kriminalistika taktika", Beograd 1996; Marinković, D., Lajić, O., "Kriminalistička metodika, drugo, izmenjeno i dopunjeno izdanje", Kriminalističko-policijska akademija, Beograd, 2014; Đurđević, Z., Radović, N., "Kriminalistička operativa, drugo, izmenjeno i dopunjeno izdanje", Kriminalističko-policijska akademija, Beograd, 2015.
+4. Osnove pravosudnog sistema, javne uprave i upravnog postupka: Predmet ustavnog prava; Odnos ustavnog prava sa ostalim granama pravnog sistema; Razvoj crnogorske ustavnosti i Ustav Crne Gore; Pojam, oblici i sistemi kontrole ustavnosti; Podjela vlasti; Izbori, izborni sistemi i biračko pravo; Temeljne slobode i prava čovjeka; Organizacija državne uprave; Poslovi državne uprave; Ministarstva; Vrste sudova; Ustavna načela o sudovima; Nadležnosti sudova; Načela upravnog postupka; Pojam upravnog postupka, upravne stvari, upravnog akta i upravne radnje; Stranke u upravnom postupku; Rokovi; Kancelarijsko poslovanje; Osnovni akti; Čuvanje akata.
+Literatura: Ustav Crne Gore; Zakon o državnoj upravi; Zakon o sudovima; Zakon o upravnom postupku; Uredba o kancelarijskom poslovanju organa državne uprave.
+5. Osnovi komunikacije, ljudskih prava i etike: Pojam i značaj komunikacije; Tok komunikacije - način prenošenja poruka; Verbalna i neverbalna komunikacija; Vještine komuniciranja; Efektivna komunikacija (prepreke i podsticaji efektivnoj komunikaciji); Poslovni bonton i komunikacija sa različitim kategorijama stranaka; Konstruktivne strategije u rješavanju konflikata i predupređenje eskalacije konflikata; Taktički proces posredovanja i dobrovoljnog povinovanja; Ljudska prava kao skup moralnih i pravnih načela; Podjela dokumenata za zaštitu ljudskih prava; Karakteristike ljudskih prava; Kategorije ljudskih prava; Dozvoljena ograničenja ljudskih prava; Osnovne odredbe o ljudskim pravima u Ustavu Crne Gore; Ranjive kategorije lica (žene, djeca, lica sa invaliditetom, starija lica, manjine, Romi, lica drugačijih rodnih identiteta); Rad sa ranjivim kategorijama lica; Zaštita od diskriminacije i prevencija diskriminacije; Korijeni etike; Moralna kultura ličnosti; Profesionalna etika; Čuvanje ugleda poslodavca.
+Literatura: Neill, S., "Neverbalna komunikacija", Zagreb: Educa, 1994; Mandić, T., "Komunikologija - Psihologija komunikacija", CLIO, Beograd, 2003; Rot, N., "Psihologija ličnosti, Zavod za izdavanje udžbenika", Beograd, 1969; Crawshow, R,. "Ljudska prava i etika, priručnik za praktičnu nastavu", Savjet Evrope, Kancelarija u Beogradu, 2003; Vučinić, N., Spajić-Vrkaš, V., Bjeković, S., "Ljudska prava za nepravnike", Centar za ljudska prava UCG, 2003.
+PRILOG 2
+CRNA GORA MINISTARSTVO UNUTRAŠNJIH POSLOVA
+Na osnovu člana 16 Pravilnika o programu i načinu polaganja stručnog ispita za vršenje detektivskih poslova ("Službeni list CG", broj _____ ), Ministarstvo unutrašnjih poslova izdaje
+U V J E R E N J E
+o položenom stručnom ispitu za vršenje detektivskih poslova
+__________________________________________iz________________________________
+(ime i prezime lica) (opština)
+rođen/a__________godine
+položio/la je
+pred komisijom za polaganje stručnog ispita za vršenje detektivskih poslova dana __________ godine stručni ispit za vršenje detektivskih poslova.
