@@ -1,0 +1,3 @@
+Na osnovu člana 17 stav 2 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list Crne Gore", br. 16/16 83/16, 21/17, 42/17, 12/18, 39/18, 42/18 i 34/19), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19 i 38/20), člana 34 stav 1 tačka 2 Statuta opštine Herceg Novi ("Službeni list CG - Opštinski propisi", br. 1/19, 37/19 i 6/20), uz prethodnu saglasnost Ministarstva finansija i socijalnog staranja, broj: 03-8878/21 od 15.06.2021. godine, Skupština opštine Herceg Novi, na sjednici održanoj 22.09.2021.godine, donijela je
+O D L U K U
+o utvrđivanju dodatka na osnovnu zaradu zaposlenih u Javnoj ustanovi "Dnevni centar za djecu sa smetnjama i
