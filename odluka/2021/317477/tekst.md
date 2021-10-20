@@ -1,0 +1,8 @@
+Na osnovu člana 22 Zakona o Privrednoj komori Crne Gore ("Službeni list Crne Gore", broj 1/18) i člana 28 Statuta Privredne komore Crne Gore ("Službeni list Crne Gore", br. 20/18, 81/18 i 58/19, 11/20, 13/20 i 90/21), Skupština Privredne komore Crne Gore na sjednici održanoj elektronskim putem 12. oktobra 2021. godine, donijela je
+ODLUKU O DOPUNI STATUTA PRIVREDNE KOMORE CRNE GORE
+I. U Statutu Privredne komore Crne Gore ("Službeni list Crne Gore", br. 20/18, 81/18 i 58/19, 11/20, 13/20 i 90/21), u članu 40 u stavu 1 poslije riječi: "privrednika" dodaje se zarez i riječi: "odnosno iz reda prijavljenih kandidata koji, pored ispunjavanja ostalih uslova predviđenih Odlukom o pokretanju postupka za izbor Predsjednika Komore, uživaju i profesionalni ugled stečen radom na rukovodećim poslovima u poslovnim asocijacijama."
+II. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+O b r a z l o ž e nj e
+Odredbama člana 34 stav 2 tačka 1 Statuta Privredne komore, propisano je da Upravni odbor utvrđuje predloge Statuta Komore i opštih akata koje donosi Skupština. S tim u vezi, Upravni odbor je na sjednici održanoj 8. oktobra 2021. godine, utvrdio Predlog Odluke o dopuni Statuta Privredne komore.
+Navedenom dopunom stvaraju se uslovi za proširenje kruga lica koja se mogu kandidovati za Predsjednika Privredne komore, uzimajući u obzir podatak da je Komisija za mandatna pitanja tokom poslednje izborne procedure prihvatila pravilo da se rad na rukovodećim poslovima u poslovnim asocijacijama smatra adekvatnim radnim iskustvom u privredi. Predloženom dopunom stvaraju se uslovi za formalizaciju stava Komisije za mandatna pitanja.
+Imajući u vidu navedeno, Skupština je donijela Odluku o dopuni Statuta Privredne komore.
