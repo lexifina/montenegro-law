@@ -1,0 +1,2 @@
+Na osnovu člana 1, stav 2. Zakona o porezu na nepokretnost ("Službeni list CG", br.25/2019 ), člana 7. Zakona o finansiranju lokalne samouprave ("Službeni list CG", br.3/19), člana 28, stav 1, tačka 2 i člana 38. stav 1, tačke 2. i 8. Zakona o lokalnoj samoupravi ("Službeni list CG", br.2/18, 34/19 i 38/2020) i člana 40, stav 1. tačke 2. i 8. Statuta Opštine Pljevlja ("Službeni list CG - Opštinski propisi", br.46/18), Skupština opštine Pljevlja na sjednici održanoj 29.09.2021. godine, donijela je
+O D L U K U
