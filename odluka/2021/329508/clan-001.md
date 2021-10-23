@@ -1,0 +1,3 @@
+# Član 1
+## o otkupu zemljišta radi dokompletiranja urbanističkih parcela br.133 i 278 zona B ID DUP ,,Ulcinj - Grad"za lokalitet ,,Totoši" Opština Ulcinj
+Dozvoljava se Far Aleksandar , Darinka Miranović , Milorad Miranović , Predrag Vujačić I Zoran Miranović otkup katastarskih parcela br.5582/2 u površini od 51 m2 KO Ulcinj , 5582/3 u površini od 9 m2 sa Lista nepokretnosti br.608 KO Ulcinj I kat.parc.br. 7502/2 u površini od 15 m2 I 5598/2 u površini od 19 m2 sa Lista nepokretnosti br.604 KO Ulcinj kao svojina Crne Gore prava raspolaganja Opština Ulcinj , radi dokompletiranja urbanističke parcele br.133 I 278 ID DUP Ulcinj grad za lokalitet Totoši Opština Ulcinj.
