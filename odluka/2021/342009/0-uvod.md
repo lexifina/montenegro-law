@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 1 Zakona o državnoj imovini ("Sl.listCG", br. 21/19,40/11), člana 38 stav 1 tacka 2 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore", br. 02/18,34/19 ,38/20/) i člana 38 stav 1 tačka 2 Statuta opštine Gusinje ("Sl.list Crne Gore - Opštinski propisi", br: 03/19/024/21) a na osnovu Odluke Agro-Kooperative ,,Aljo Hot" broj:70 od 10.09.2021.godine Skupština opštine Gusinje na sjednicu održane 04.10.2021.godine, donosi :
+O D L U K U
