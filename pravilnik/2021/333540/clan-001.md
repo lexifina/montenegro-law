@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o naknadama za rad Komisije za tržište kapitala - cjenovnik ("Službeni list Crne Gore", br. 083/18 od 25.12.2018, 032/19 od 07.06.2019, 036/19 od 28.06.2019, 029/21 od 17.03.2021) u članu 26 stav 1 mjenja se tačka 5 i glasi:
+"5) podnošenja zahtjeva za priznavanje zvanja brokera, investicionog savjetnika, investicionog menadžera investicionog fonda i investicionog menadžera penzionog fonda - u iznosu od 500 EUR po diplomi za brokera i u iznosu od 600 EUR po diplomi za investicionog savjetnika, investicionog menadžera investicionog fonda i investicionog menadžera penzionog fonda."
