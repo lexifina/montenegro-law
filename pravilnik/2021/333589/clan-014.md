@@ -1,0 +1,2 @@
+# Član 14
+Pregled stomatologa obuhvata utvrđivanje rasprostranjenosti zubnog karijesa, oboljenja zubne pulpe i periapikalnih procesa, broja izvađenih zuba, broja zuba za vađenje, prisutnosti parodontopatije, pregled oralne sluzokože, utvrđivanje simetričnosti lica, postojanja fistula, deformacije lica i vilica, urođenih anomalija, stanja pljuvačnih žlijezda, zagrižaja i funkcije temporomandibularnog zgloba.

@@ -1,0 +1,6 @@
+# Član 17
+Psihološkim ispitivanjem iz člana 4 ovog pravilnika utvrđuje se emocionalna zrelost i nivo intelektualne sposobnosti lica.
+Psihološko ispitivanje vrši se grupno, a po potrebi, i individualno, kategorizacionom baterijom testova (KBT) koju sačinjavaju testovi za psihološko ispitivanje:
+1) perceptivne sposobnosti - KBT - P, 2) verbalne sposobnosti - KBT - V, 3) spacijalne sposobnosti - KBT - S, i 4) nerotske tendencije - KBT - N.
+Po procjeni psihologa, pored testova iz stava 2 ovog člana, mogu se koristiti psihološki testovi, i to:
+1) Test D-48-domino, za utvrđivanje opšte intelektualne sposobnosti (najniži broj sirovih rezultata je SS 22), 2) Subtest DAT-B baterije testova diferencijalnih sposobnosti, DAT - za utvrđivanje sposobnosti razumijevanja pojmova izrađenih riječima, uviđanja veza i odnosa, apstrahovanja i generalizacije (najniži broj sirovih rezultata je SS 16), 3) Subtest DAT-UN "brzina i tačnost" baterije testova diferencijalnih sposobnosti - DAT - za ispitivanje sposobnosti obavljanja poslova rutinske prirode koji se nalaze kod vještina u rukovanju i upotrebi oružja, uređaja i borbene tehnike (najniži broj sirovih rezultata je SS 61), i 4) Test EPQ, PIE, MMPI, crtež ljudske figure i Rorschahov test za ocjenu stepena emocionalne stabilnosti (najniži nivo je prosječna emocionalna stabilnost).
