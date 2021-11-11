@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2, 34 stav 3 i 40 stav 1 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09, 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ( "Službeni list Crne Gore", br.2/18, 34/19, 38/20), člana 54 stav 1 tačka 12 Statuta Glavnog grada ( "Službeni list Crne Gore - Opštinski propisi", br.08/19, 20/21 ) i Odluke Vlade Crne Gore o davanju prethodne saglasnosti, broj 04-3749 od 22.07.2021. godine, Skupština Glavnog grada - Podgorice, na sjednici održanoj 29. oktobra 2021. godine, donijela je -
+O D L U K U
+o prodaji građevinskog zemljišta označenog kao UP3, u zahvatu DUP-a "Čepurci - dio", u
