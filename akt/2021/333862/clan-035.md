@@ -1,0 +1,5 @@
+# Član 35
+Na zahtjev Sindikata u kompanijama koje zapošljavaju više od 300, poslodavac može obezbijediti profesionalno obavljanje funkcije sindikalnog povjerenika, s tim što zarade, naknade i ostala primanja padaju na teret poslodavca.
+Poslodavac je dužan da Sindikatu obezbijedi uslove za efikasno obavljanje sindikalnih aktivnosti kojima se štite prava i interesi zaposlenih.
+Poslodavac Sindikatu uručuje pozive sa materijalima radi prisustvovanja predstavnika Sindikata sjednicama Odbora direktora na kojima se razmatraju njegova mišljenja, predlozi, inicijative i zahtjevi.
+Član Predsjedništva sindikata i predstavnik zaposlenih za vrijeme obavljanja sindikalnih aktivnosti i 6 mjeseci nakon prestanka sindikalnih aktivnosti ne može biti pozvan na odgovornost, proglašen kao zaposleni za čijim je radom prestala potreba, raspoređen na drugo radno mjesto kod istog ili drugog poslodavca, ili na drugi način doveden u nepovoljniji položaj i ukoliko postupa u skladu sa zakonom i Kolektivnim ugovorom.
