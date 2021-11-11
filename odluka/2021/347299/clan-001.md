@@ -1,0 +1,3 @@
+# Član 1
+## o izmjeni Odluke o pečatima Glavnog grada
+U Odluci o pečatima Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", broj 16/19), u članu 15 stav 1 alineja 5 riječi: "predsjednik savjeta mjesne zajednice, predsjednik savjeta mjesnog centra ili sekretar mjesne zajednice kada ga predsjednik za to ovlasti - za pečat mjesne zajednice i pečat mjesnog centra", zamjenjuju se riječima: "predsjednik savjeta mjesne zajednice, sekretar mjesne zajednice, odnosno ovlašćeni službenik nadležnog organa za poslove mjesnih zajednica kad ga za to ovlaste predsjednik savjeta ili sekretar mjesne zajednice - za pečat mjesne zajednice".
