@@ -1,0 +1,4 @@
+# Član 1
+## o dopuni Odluke o ustupanju na korišćenje Društvu sa ograničenom odgovornošću "Pogrebne usluge"- Podgorica građevinskog zemljišta koje je dio UP1e u zahvatu DUP-a "Čepurci-dio" u Podgorici
+U Odluci o ustupanju na korišćenje Društvu sa ograničenom odgovornošću "Pogrebne usluge"- Podgorica građevinskog zemljišta koje je dio UP1e u zahvatu DUP-a "Čepurci-dio" u Podgorici ( "Sl.list Crne Gore - Opštinski propisi", br.20/21), u članu 1 dodaje se stav 2, koji glasi:
+"Glavni grad - Podgorica, kao nosilac prava raspolaganja ustupa i suvlasnički dio u obimu prava 6515/6600 dijela na zemljištu označenom katastarskom parcelom broj 3459/3 pov.66m2, te suvlasnički dio u obimu prava 89/90 dijela na zemljištu označenom katastarskom parcelom broj 3460/4 površine 159m2, KO Podgorica III, koje takođe čine dio UP1e."
