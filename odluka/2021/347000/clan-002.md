@@ -1,0 +1,2 @@
+# Član 2
+Predmet prodaje je dio imovine stečajnog dužnika DOO "LIPA - u stečaju" - Cetinje i to: nepokretnosti označne kao katastarska pacela 4594, 4595, 4600/1, 4600/3, ukupne površine P=11.333m2, obim prava na zemljištu - korišćenje 1/1, Poslovne zgrade u vanprivredi površine P=2.450m2 sa pripadajućim PD-om br. 1, nestambeni prostor P=2.083,00m2, spratnost P, obim prava na poslovnim zgradama - svojina 1/1, upisane u Listu nepokrenosti br. 437 KO Cetinje I.

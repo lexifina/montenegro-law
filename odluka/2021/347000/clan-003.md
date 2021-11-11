@@ -1,0 +1,3 @@
+# Član 3
+Ovlašćuje se gradonačelnik Prijestonice Cetinje da učestvuje u postupku prodaje dijela imovine iz člana 2 ove odluke, dostavljanjem Ponude Privrednom sudu Crne Gore za postupak prikupljanja ponuda, u stečajnom postupku, koji se vodi pod poslovnim brojem St. 228/13.
+Obavezuje se gradonačelnik Prijestonice da prije podnošenja ponude za kupovinu nepokretnosti iz člana 2 ove odluke, angažuje ovlašćenu procjeniteljsku kuću koja će izraditi elaborate procjene fer vrijednosti nepokretnosti, i shodno uvrđenoj vrijednosti dostavi ponudu za kupovinu nepokretnosti, na način i pod uslovima kako je to definisano javnim oglasom.
