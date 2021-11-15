@@ -1,0 +1,2 @@
+Na osnovu člana 24 stav 1 i člana 25 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02 i 48/06 i "Sl. list CG", br. 46/11, 14/14, 47/14 i 10/18), člana 36 stav 1 tačka 44 i člana 39 Statuta opštine Mojkovac ("Sl. list CG - Opštinski propisi", br. 29/18), na predlog Odbora za izbor i imenovanja, Skupština opštine Mojkovac, na sjednici održanoj 15. novembra 2021. godine, donijela je
+O D L U K U
