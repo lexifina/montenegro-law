@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 tačka 5 Zakona o komunalnim djelatnostima ("Sl.list CG", br. 55/16, 74/16, 2/18 i 66/19), člana 32 tačka 48 Statuta opštine Žabljak ("Sl.list CG-Opštinski propisi", broj 27/18) i člana 16 alineja 7 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Žabljak ("Sl.list CG - Opštinski propisi", br. 21/13), Skupština opštine Žabljak, na sjednici održanoj 28.10.2021. godine, donijela je
+O D L U K U
