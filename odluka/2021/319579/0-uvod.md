@@ -1,0 +1,2 @@
+Na osnovu člana 43. Statuta Opštine Bar ("Sl.list CG - Opštinski propisi", broj 37/18), člana 10 Odluke o osnivanju Društva sa ograničenom odgovornošću "Sportsko rekreativni centar"Bar ("Sl.list CG - Opštinski propisi", broj 10/16) i Odluke Odbora direktora d.o.o. "Sportsko rekreativni centar" Bar broj 02-10/21 od 11.10.2021. godine o izboru izvršnog direktora, Skupština opštine Bar, na sjednici održanoj 18.11.2021. godine, donijela je
+O D L U K U
