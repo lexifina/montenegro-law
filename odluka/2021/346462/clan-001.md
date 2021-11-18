@@ -1,0 +1,3 @@
+# Član 1
+## o oslobađanju plaćanja zakupnine za korišćenje privremene lokacije za postavljanje informacionih punktova "Turistička organizacija Ulcinj " za 2021. godinu
+Turistička organizacija Ulcinj oslobađa se plaćanja zakupnine za korišćenje privremene lokacije za postavljanje informacionih punktova za 2021. godinu predviđenih u Programu privremenih objekata za teritoriju Opštine Ulcinj za period 2020-2023.godinu br.III-3.89 kat.parc.br.5558 KO Ulcinj;br.III-3.58 kat.parc.br.6946 KO Ulcinj ;br.1.9 kat.parc.br.3053 KO Ulcinj ;br.516 kat.parc.br.2458/1 KO Donji Štoj ;br. E-83 kat.parc.br.3538 KO Donji Štoj.
