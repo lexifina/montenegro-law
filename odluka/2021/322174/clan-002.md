@@ -1,0 +1,6 @@
+# Član 2
+Član 3 mijenja se i glasi:
+"Lokalni objekti od opšteg interesa, u smislu ove odluke, svrstavaju se u tri tipa:
+- tip 1: lokalni objekti od opšteg interesa infrastrukture (u daljem tekstu "objekti tipa 1"): vodovodna, telekomunikaciona i kanalizaciona infrastruktura; toplovodi; Opštinski putevi (lokalni i nekategorisani) i prateći objekti; ulice u naseljima i trgovi; parking prostori; pijace; gradska groblja; podzemni i nadzemni prolazi; javne garaže; objekti distributivne mreže naponskog nivoa do 35 kV trafostanice i vodove od 110 kV ili manje, rasklopna postrojenja; solarne elektrane od 5 MW i manje; sportski objekti i skijaške staze sa pratećom infrastrukturom za pripremu i uređenje istih; javna rasvjeta; javne i zelene površine i gradski parkovi; ski-liftovi i žičare koje se grade na teritoriji jedne lokalne samouprave.
+- tip 2: lokalni objekti od opšteg interesa ruralnog razvoja (u daljem tekstu: "objekti tipa 2"): objekti poljoprivrede, stočarstva, vinogradarstva, voćarstva i ribarstva.
+- tip 3: lokalni objekti od opšteg interesa privrednog razvoja (u daljem tekstu: "objekti tipa 3"): privredni objekti; objekti proizvodnog zanatstva; skladišta; stovarišta; robno-distributivni centri; komunalno servisni objekti i pumpne stanice."
