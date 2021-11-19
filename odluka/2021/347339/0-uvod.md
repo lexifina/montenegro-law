@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 i 2a Zakona o eksproprijaciji ( "Službeni list Republike Crne Gore", br. 55/00, 12/02, 28/06, "Službeni list Crne Gore", br. 21/08, 30/17, 75/18 ), člana 28 stav 1, tačka 5 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore", br. 2/18, 34/19, 38/20 ), člana 25 stav 1, tačka 5 i člana 54 stav 1, tačka 2 Statuta Glavnog grada ( "Službeni list Crne Gore - Opštinski propisi", br. 08/19, 20/21 ), Skupština Glavnog grada- Podgorice, na sjednici održanoj 29. oktobra 2021. godine, donijela je
+O D L U K U
