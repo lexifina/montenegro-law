@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 1 tačka 3 Zakona o elektronskim medijima ("Službeni list CG" br. 46/10, 40/11, 53/11, 6/13, 55/16, 92/17 i 82/20), člana 44 stav 1 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20), člana 76 Statuta Prijestonice ("Službeni list CG- Opštinski propisi", br. 49/18, 9/19 i 17/21), i člana 19 stav 1 tačka 1 Odluke o Savjetu za saradnju lokalne samouprave i nevladinih organizacija ("Službeni list CG-Opštinski propisi", br. 19/15), Skupština Prijestonice Cetinje na sjednici održanoj dana 01.11. 2021. godine donijela je
+O D L U K U
