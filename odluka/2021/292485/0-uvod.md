@@ -1,0 +1,2 @@
+Na osnovu člana 64 Zakona o sportu ("Službeni list CG", broj 44/18), člana 4 stav 2 Odluke o preuzimanju osnivačkih prava i obaveza nad "KK Dečić" Tuzi ("Službeni list CG - Opštinski propisi", broj 32/21) i člana 24 stav 1 tačka 13 Statuta opštine Tuzi ("Službeni list CG - Opštinski propisi", broj 24/19, 05/20), Skupština opštine Tuzi, na sjednici održanoj 24.11.2021.godine, donijela je
+O D L U K U
