@@ -1,0 +1,2 @@
+# Član 1
+Skupština opštine Tuzi, matični broj 02628988 sa sjedištem u Tuzima, Tuzi bb, osniva Društvo sa ograničenom odgovornošću "Vodovod i kanalizacija /Ujësjellësi dhe kanalizimi" Tuzi kao javnu službu radi obavljanja poslova komunalne djelatnosti snadbijevanje pitkom vodom opštine Tuzi (u daljem tekstu: Opština), odvođenja i prečišćavanja otpadnih voda sa teritorije Opštine u skladu sa ovom odlukom i statutom Društva.
