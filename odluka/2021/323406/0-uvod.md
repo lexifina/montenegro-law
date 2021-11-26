@@ -1,0 +1,4 @@
+Na osnovu člana 12 stav 3 Uredbe o Vladi Crne Gore ("Službeni list CG", br. 80/08,14/17 i 28/18), Vlada Crne Gore, na sjednici od 4. novembra 2021. godine, donijela je
+ODLUKU
+O OBRAZOVANjU RADNE GRUPE RADI RAZMATRANjA MOGUĆNOSTI ZA
+ODGOVOR NA HUMANITARNU KRIZU I EVENTUALNIH KAPACITETA ZA PRIJEM OGRANIČENOG BROJA IZBJEGLICA IZ AVGANISTANA
