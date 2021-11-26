@@ -1,0 +1,1 @@
+Na osnovu člana 34 stav 1 tačka 22 Statuta Opštine Herceg Novi ( "Sl.list CG-Opštinski propisi", broj: 1/19, 37/19, 06/20) i člana 16 Odluke o organizovanju Javne ustanove kulture " Herceg fest" Herceg Novi (" Sl.list CG-Opštinski propisi" broj: 36/13, 24/15), Skupština opštine Herceg Novi na sjednici održanoj 26.11.2021. godine, donijela je
