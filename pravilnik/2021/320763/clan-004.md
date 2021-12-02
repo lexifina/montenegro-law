@@ -1,0 +1,10 @@
+# Član 4
+Tehnološka linija za tehnički pregled vozila treba da omogući da vozila ulaze sa jedne strane u stanicu za tehnički pregled vozila, nastavljaju pravolinijsko kretanje za vrijeme tehničkog pregleda i izlaze u smjeru kretanja sa druge strane tehnološke linije.
+Tehnološka linija za tehnički pregled vozila, zavisno od kategorije vozila čiji se tehnički pregled vrši, mora da bude, i to za:
+- sve kategorije vozila - dužine najmanje 20 m, širine za prolaz vozila najmanje 5,5 m, visine najmanje 4,3 m, dužine kanala za pregled donjeg postroja vozila najmanje 8 m i otvorom za ulaz i izlaz vozila širine najmanje 4 m i visine najmanje 4,2 m;
+- putnička vozila, autobuse i teretna vozila - dužine najmanje 16 m, širine za prolaz vozila najmanje 5 m, visine najmanje 4,3 m, dužine kanala za pregled donjeg postroja vozila najmanje 8 m i otvorom za ulaz i izlaz vozila širine najmanje 4 m i visine najmanje 4,2 m;
+- putnička vozila i teretna vozila najveće dozvoljene mase do 3500 kg - dužine najmanje 13 m, širine prolaza najmanje 4,5 m i visine najmanje 3,20 m, dužine kanala za pregled donjeg postroja vozila najmanje 6 m i otvorom za ulaz i izlaz vozila širine najmanje 3 m i visine najmanje 3 m.
+Ako stanica za tehnički pregled vozila ima tehnološku liniju za tehnički pregled vozila iz stava 2 ovog člana, ne mora imati izgrađen kanal za pregled donjeg postroja vozila, ako:
+- ima dizalicu za podizanje vozila iz stava 2 alineja 1 ovog člana, koja omogućava podizanje kompletnog vozila, najmanje dužine 18,75 m i mase najmanje 40 000 kg i ima na sebi dodatnu dizalicu nosivosti najmanje 12 000 kg, a visina stanice za tehnički pregled vozila je najmanje 6,2 m;
+- ima dizalicu za podizanje vozila iz stava 2 alineja 2 ovog člana, koja omogućava podizanje kompletnog vozila, najmanje dužine 15 m i mase najmanje 40 000 kg i ima na sebi dodatnu dizalicu nosivosti najmanje 12 000 kg, a visina stanice za tehnički pregled vozila je najmanje 6,2 m;
+- ima dizalicu za podizanje vozila iz stava 2 alineja 3 ovog člana, koja omogućava podizanje kompletnog vozila mase do 3500 kg, a visina stanice za tehnički pregled vozila je najmanje 4,5 m.

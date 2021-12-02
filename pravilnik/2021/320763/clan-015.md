@@ -1,0 +1,3 @@
+# Član 15
+Stanica za tehnički pregled vozila mora da ima internet konekciju sa najmanje 5Mbps protoka, komunikacioni uređaj za ostvarivanje VPN (Virtual Private Network) tunela, personalni računar i elektronski certifikat.
+Stanica za tehnički pregled vozila mora da obezbijedi stalan pristup elektronskoj evidenciji o tehničkom pregledu vozila i utvrđenim nepravilnostima na vozilima kao i stalnu komunikacionu povezanost sistema video nadzora sa elektronskom platformom organa državne uprave nadležnog za unutrašnje poslove i organizacione jedinice organa državne uprave nadležnog za unutrašnje poslove koja vrši policijske poslove.
