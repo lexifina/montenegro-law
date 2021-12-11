@@ -1,0 +1,2 @@
+# Član 3
+Nepokretnost iz člana 1 ove odluke prodaje se po cijeni od 159,83 €/m2, što ukupno iznosi 8.151,40€, shodno Izvještaju o procjeni, sačinjenog od strane akreditovanog procjenitelja Mr Zorana Senića MRICS RV, REV Royal Institute of Chartered Surveyors MRICS numer: 6817364 Recognised European Valuer, Certificate Reg. N0:REV-ME/NAVM/2023/11 Licensed Court Witness, license n0 1475, protokolisanog kod Opštine Bar pod brojem: 04-427/21-683 od 19.11.2021. godine.
