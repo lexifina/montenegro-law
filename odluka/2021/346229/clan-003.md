@@ -1,0 +1,2 @@
+# Član 3
+Nepokretnost iz člana 1 ove odluke prodaje se po cijeni od 125,10 €/m2, što ukupno iznosi 87.700,00 €, shodno Izvještaju o procjeni tržišne vrijednosti urbanizovanog zemljišta u zahvatu DUP-a "Brca", sačinjenom od strane sudskog vještaka i ovlašćenog procjenjivača nekretnina, dipl. inž. građevinarstva Sonje Ivanović iz Podgorice, protokolisanog kod Opštine Bar pod brojem br. 04-427/21-1678 od 22.09.2021. godine.
