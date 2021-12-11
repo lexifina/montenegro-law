@@ -1,0 +1,2 @@
+# Član 1
+Opština Bar, kao nosilac prava raspolaganja, daje Crnogorskom elektrodistributivnom sistemu DOO Podgorica saglasnost za uspostavljanje stvarne službenosti, na neodređeno vrijeme, na dijelu katastarskih parcela: broj 6439/1 u površini od 32m2, broj 6439/24 u površini od 7m2 (obje iz lista nepokretnosti broj 289 KO Novi Bar), broj 4813/3 u površini od 10m2, broj 4814/1 u površini od 19m2 (obje iz lista nepokretnosti broj 1154 KO Novi Bar), radi polaganja priključnog kablovskog voda za uklapanje u VN mrežu NDTS 10/0.4 kV, 1x630 kVA "BR.5- NOVA" po DUP-u "Ilino" u Baru
