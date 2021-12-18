@@ -1,0 +1,5 @@
+# Član 7
+Izuzetno od člana 3 st. 2 i 5 ove odluke, Komisija će društvima za upravljanje i investicionim fondovima koji su na dan 1. 12. 2021. godine aktivni tj. koji imaju relevantne dozvole izdate u skladu sa Zakonom o investicionim fondovima ("Sl. list Crne Gore", br. 54/11, 13/18), posebnim rješenjima dodijeliti nove registarske brojeve u Registru društava odnosno Registru fondova.
+Dodjela novih registarskih brojeva iz stava 1 ovog člana izvršiće se po hronološkom redu kojim su društvima za upravljanje odnosno investicionim fondovima izdavane relevantne dozvole u skladu sa Zakonom o investicionim fondovima ("Sl. list Crne Gore", br. 54/11, 13/18).
+O dodjeli novih registarskih brojeva iz stava 1 ovog člana Komisija će obavijestiti društva za upravljanje i investicione fondove, a obavještenja o upisu u Registar društava odnosno Registar fondova, objaviće se i u "Službenom listu Crne Gore".
+Dodjelom novih registarskih brojeva društvima za upravljanje i investicionim fondovima koji su na dan 1. 12. 2021. godine aktivni, prestaju da važe stari registarski brojevi kod Komisije.
