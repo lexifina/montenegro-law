@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20), člana 38 stav 1 tačka 2 Statuta opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 24/19, 05/20) i člana 11 stav 1 tačka 1 Odluke o osnivanju DOO "Komunalno / Komunale" Tuzi ("Službeni list CG - Opštinski propisi", broj 33/19 i 40/21) na sjednici Skupštine opštine Tuzi održanoj 23.12.2021. godine, donijeta je
+O D L U K A
