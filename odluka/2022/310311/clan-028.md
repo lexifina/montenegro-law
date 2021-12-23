@@ -1,0 +1,2 @@
+# Član 28
+Društvo vrši priključenje objekta na javni vodovod na osnovu pisanog zahtjeva investitora, odnosno vlasnika objekta. Uz zahtjev iz stava 1 ovog člana investitor dostavlja: građevinsku dozvolu, izvod iz projekta vodovodnih instalacija objekta i dokaz o uplati naknade na ime troškova priključivanja. Društvo vrši priključenje objekta na javni vodovod najkasnije u roku od 15 dana od dana prijema zahtjeva.

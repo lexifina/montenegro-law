@@ -1,0 +1,3 @@
+# Član 56
+Količina isporučene vode se utvrđuje mjesečnim očitavanjem na vodomjeru. Isporučenu količinu vode utvrđuju ovlašćeno lice Društva na osnovu razlike stanja na brojilu vodomjera na početku i na kraju vremenskog perioda za očitavanje. Prilikom utvrđivanja količine isporučene vode očitavaju se samo cijele jedinice mjere za koje je utvrđena cijena.
+Korisnik je dužan da službenom licu Društva omogući očitavanje vodomjera. Korisnik ima pravo da prisustvuje očitavanju vodomjera. Očitavanje se obavlja po rasporedu koji utvrđuje Društvo. Radi kontrole instalacija kada je to potrebno, očitavanje se može obaviti i u drugom vremenskom periodu, uz prethodno obavještavanje korisnika ili njegovog ovlašćenog predstavnika.
