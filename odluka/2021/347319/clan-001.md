@@ -1,0 +1,3 @@
+# Član 1
+## o predaji u posjed 16 životinja-goveda-stoke Upravi za izvršenje krivičnih sankcija
+Opština Budva predaje u posjed Upravi za izvršenje krivičnih sankcija 16 (šesnaest) zdravih životinja rasno bliže određenih kao stoka - goveda - krave, telad, bikovi, koje nemaju držaoca u skladu sa Zakonom o zaštiti dobrobiti životinja i koje se duži vremenski period nalaze na otvorenom prostoru bez adekvatne njege ugrožavajući saobraćaj na lokalnim i magistralnim putevima, pravo na život čovjeka i pravo na kretanje, na dalje postupanje za koje se po javnim oglasima objavljenim u skladu sa odredbama o svojinsko-pravnim odnosima nije identifikovao vlasnik.

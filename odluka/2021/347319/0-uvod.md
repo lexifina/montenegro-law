@@ -1,0 +1,2 @@
+Na osnovu člana 3 stav 1 tačka 5, člana 8 tačka 1 stav 1, člana 8 tačka 25 Zakona o zaštiti dobrobiti životinja ("Službeni list Crne Gore", br. 014/08 od 29.02.2008, 040/11 od 08.08.2011, 047/15 od 18.08.2015), člana 59 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19, 38/20), i člana 100 Statuta opštine Budva ("Službeni list CG- Opštinski propisi", br 2/19), predsjednik Opštine donosi:
+O D L U K U
