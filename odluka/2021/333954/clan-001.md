@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovom odlukom određuje se stopa kontracikličnog bafera kapitala za teritoriju Crne Gore, za prvi kvartal 2022. godine.
