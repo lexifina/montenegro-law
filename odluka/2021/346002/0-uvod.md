@@ -1,0 +1,3 @@
+Nа оsnоvu člаnа 20 stav 7 Zakona o putevima (,,Službeni list CG", broj 82/2020) , člаnа 28 stav 1 tačka 2, člana 38 stav 1 tačka 2 i 8 Zаkоnа о lоkаlnој sаmоuprаvi ( "Službeni list CG", broj 2/2018, 34/2019 i 38/2020) i člana 40 stav 1 tačka 2 i 8 Statuta Opštine Pljevlja (,,Službeni list CG - Opštinski propisi", broj 46/2018 ), uz prethodnu saglasnost Vlade Crne Gore br. 04-5150 od 04.11.2021. godine, Skupštinа opštine Pljevlja, nа sјеdnici оdržаnој 03.12. 2021. gоdinе, dоniјеlа je:
+O D L U K U
+o naknadama za korišćenje opštinskih puteva i djelova državnih puteva koji prolaze kroz naselje na teritoriji Opštine Pljevlja
