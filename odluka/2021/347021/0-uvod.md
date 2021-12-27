@@ -1,0 +1,3 @@
+Na osnovu Člana 29 Zakona o komunalnim djelatnostima ("Sl.list Crne Gore", br. 55/16, 74/16, 02/18, 66/19), Člana 38 Stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list CrneGore", br. 02/18, 34/19 i 38/20) ,člana 46 Stav 1 tačka 2 Statuta opštine Bijelo Polje ("Sl.list CG - Opštinski propisi", br.19/18 ) i Člana 124 Poslovnka Skupštine opštine Bijelo Polje ("Službeni list Crne Gore - Opštinski propisi", br.19/18, 42/20, 23/21), Skupština opštine Bijelo Polje na sjednici održanoj dana 23.12.2021 godine, donijela je
+O D L U K U
+o davanju saglasnosti na Aneks Ugovora o povjeravanju obavljanja komunalnih djelatnosti
