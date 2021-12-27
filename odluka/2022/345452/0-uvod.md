@@ -1,0 +1,2 @@
+Na osnovu člana 50 stav 3 i člana 80 stav 1 alineja 2 Zakona o lokalnoj samoupravi ("Sl. list CG" br. 02/18, 034/19 i 038/20), na osnovu člana 80 stav 1 alineja 2 Statuta opštine Plav ("Sl. list CG" br. 44/18 ), na osnovu člana 33 stav 1 alineja 2 Poslovnika o radu Skupštine opštine Plav ("Sl. list CG" br. 44/18,025/21), Skupština opštine Plav, na sjednici održanoj dana 27.12.2021.godine, donijela je
+O D L U K U
