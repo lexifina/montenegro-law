@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19 i 38/20), člana 35 stav 1 tačka 22 Statuta opštine Danilovgrad (,,Sl. list CG - Opštinski propisi", broj 43/18) i člana 22 i 30 Statuta Društva sa ograničenom odgovornošću ,,Vodovod i kanalizacija" Danilovgrad broj 01-1200 od 10.5.2019. godine, Skupština opštine Danilovgrad, na sjednici održanoj 20.12.2021. godine, donosi
+O D L U K U
