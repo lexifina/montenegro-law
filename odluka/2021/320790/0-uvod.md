@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19 i 38/20), a u vezi sa članom 38 stav 4 Zakona o teritorijalnoj organizaciji Crne Gore ("Službeni list CG", br. 54/11, 26/12, 27/13, 62/13, 12/14, 3/16, 31/17, 86/18 i 3/20) na predlog Organizacionog odbora za stvaranje uslova za početak rada novoosnovane Opštine Tuzi, Skupština opštine Tuzi na sjednici održanoj dana 23.12.2021.godine, donijela je
+O D L U K U
