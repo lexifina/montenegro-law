@@ -1,0 +1,2 @@
+# Član 9
+Osnovni kapital Društva čini osnovni kapital Javnog preduzeća "Vodovod i kanalizacija″ Bar, koje je registrovano u Centralnom registru privrednih subjekata u Podgorici. U skladu sa tim, osnovni kapital Društva čine pokretne i nepokretne stvari, novčana sredstva i druga imovinska prava preuzeta od Javnog preduzeća "Vodovod i kanalizacija″ Bar čiji će iznos procijeniti ovlašćeni nezavisni procjenjivač, u skladu sa zakonom.
