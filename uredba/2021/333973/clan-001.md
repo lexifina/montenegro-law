@@ -1,0 +1,2 @@
+# Član 1
+U Uredbi o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za nacionalne parkove Crne Gore ("Službeni list CG", br. 87/18, 75/19 i 116/20) u nazivu uredbe i članu 1 riječi: "Ministarstva održivog razvoja i turizma" zamjenjuju se riječima: "Ministarstva ekologije, prostornog planiranja i urbanizma."
