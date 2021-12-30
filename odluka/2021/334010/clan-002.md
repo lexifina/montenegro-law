@@ -1,0 +1,2 @@
+# Član 2
+Osnovica za obračun godišnjih naknada koje plaćaju imaoci licenci za obavljanje energetskih djelatnosti i imaoci statusa zatvorenog distributivnog sistema električne energije u 2022. godini, iznosi 1.131.634,12 €, a dobijena je kao razlika prihoda od naknada za korišćenje licenci, utvrđenog Finansijskim planom za 2022. godinu u iznosu od 1.496.908,44 €, i sredstava koja po isteku 2021. godine preostaju na računu Agencije, nakon izmirenja obaveza, u iznosu od 365.274,32 €.
