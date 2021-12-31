@@ -1,0 +1,2 @@
+Na osnovu člana 11 stav 1 alineja 1 Odluke o osnivanju društva sa ograničenom odgovornošću "Sportski objekti"- Podgorica ("Službeni list Crne Gore - Opštinski propisi", broj 22/13) i člana 54 stav 1 tačka 48 Statuta Glavnog grada ("Službeni list Crne Gore- Opštinski propisi", br. 08/19 i 20/21), Skupština Glavnog grada - Podgorice, na sjednici održanoj 27. i 28. decembra 2021. godine, donijela je
+O D L U K U
