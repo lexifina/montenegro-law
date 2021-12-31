@@ -1,0 +1,2 @@
+Na osnovu člana 15 stav 1 i člana 16 Odluke o osnivanju Društva sa ograničenom odgovornošću ‘’Park prirode Rijeka Zeta’’ (‘’Sl.list CG - Opštinski propisi’’, br. 06/20 i 23/21), člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20) i člana 54 stav 1 tačka 27 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19 i 020/21), Skupština Glavnog grada - Podgorice, na sjednici održanoj 27. i 28. decembra 2021. godine, donijela je -
+O D L U K U
