@@ -1,0 +1,2 @@
+# Član 1
+Ovom uredbom propisuju se tehnički i drugi uslovi koje trebaju da ispunjavaju drugi subjekti za korišćenje informaciono-komunikacione mreže organa (u daljem tekstu: informaciono-komunikaciona mreža), način upravljanja informaciono-komunikacionom mrežom, izgled i sadržaj obrasca zahtjeva za korišćenje informaciono-komunikacione mreže od strane organa i obrasca zahtjeva za davanje saglasnosti drugim subjektima za korišćenje informaciono-komunikacione mreže, kao i druga pitanja od značaja za funkcionisanje informaciono-komunikacione mreže.
