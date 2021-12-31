@@ -1,0 +1,2 @@
+Na osnovu člana 98. Statuta opštine Budva ( ,,Sl. list Crne Gore - Opštinski propisi", br. 2/19) i članom 26 Odluke o pravima iz socijalne i dječje zaštite ( Sl.list Crne Gore - Opštinski propisi br. 11/2018, 7/2019,8/2020), a u skladu sa članom 154 Zakona o socijalnoj i dječjoj zaštiti (,,Sl.list Crne Gore", br.27/2013, 1/2015,42/2015, 47/2015, 56/2016, 66/2016, 1/2017, 31/2017, 42/2017, 50/2017,059/21) u cilju nastavka projekta "Njega starih lica u Crnoj Gori", donosim
+O D L U K U
