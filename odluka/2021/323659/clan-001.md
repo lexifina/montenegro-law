@@ -1,0 +1,44 @@
+# Član 1
+Budžet Opštine Kolašin za 2022. godinu (u daljem tekstu Budžet) sadrži primitke i izdatke u iznosu od: 5.247.000,00 €.
+IZVORNI PRIHODI
+4.617.000,00
+POREZI
+1.720.000,00
+TAKSE
+47.000,00
+NAKNADE
+745.000,00
+OSTALI PRIHODI
+115.000,00
+DONACIJE I TRANSFERI
+1.990.000,00
+IZDACI
+4.474.000,00
+TEKUĆI IZDACI
+2.977.000,00
+KAPITALNI IZDACI
+1.497.000,00
+SUFICIT/DEFICIT
+143.000,00
+PRIMARNI SUFICIT/DEFICIT
+-31.308,24
+OTPLATA DUGA
+773.000,00
+NEDOSTAJUĆA SREDSTVA
+-630.000,00
+FINANSIRANJE
+630.000,00
+PRIHODI OD PRODAJE IMOVINE
+20.000,00
+POZAJMICE I KREDITI
+10.000,00
+DEPOZITI
+600.000,00 Prihodi se raspoređuju na:
+
+Tekuće izdatke u iznosu od: 3.680.000,00 €
+
+Kapitalne izdatke u iznosu od: 1.497.000,00 €
+
+Stalnu budžetsku rezervu u iznosu od: 30.000,00 €
+
+Tekuću budžetsku rezervu u iznosu od: 40.000,00 €
