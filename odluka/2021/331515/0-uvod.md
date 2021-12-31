@@ -1,0 +1,2 @@
+Na osnovu člana 8, člana 25 stav 3 i člana 29 stav 2 Zakona o državnoj imovini ("Službeni list Crne Gore", broj 21/09 i 40/11 ), člana 38 stav 1 tačka 9 i 14 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 02/18, 34/19, 38/20), člana 54 stav 1 tačka 12 i 17 Statuta Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", br. 08/19 i 20/21), Skupština Glavnog grada - Podgorice, na sjednici održanoj 27. i 28. decembra 2021.godine, donijela je
+O D L U K U
