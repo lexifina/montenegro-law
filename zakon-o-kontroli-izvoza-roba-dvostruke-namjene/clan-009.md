@@ -1,0 +1,5 @@
+# Član 9
+## Tranzit robe dvostruke namjene
+Tranzit robe dvostruke namjene koja je utvrđena u Kontrolnoj listi, kopnenim i vodenim putem, vrši se na osnovu odobrenja organa državne uprave nadležnog za unutrašnje poslove, uz prethodnu saglasnost Ministarstva i organa državne uprave nadležnih za poslove odbrane, vanjske poslove i Agencije za nacionalnu bezbjednost.
+Tranzit robe dvostruke namjene koja je utvrđena u Kontrolnoj listi, pomorskim i vazdušnim putem, vrši se na osnovu odobrenja organa državne uprave nadležnog za saobraćaj i pomorstvo, uz prethodnu saglasnost Ministarstva i organa državne uprave nadležnih za poslove odbrane, vanjske poslove i Agencije za nacionalnu bezbjednost.
+Organi državne uprave nadležni za unutrašnje poslove i za saobraćaj i pomorstvo, dužni su da o odobrenju odluče u roku od pet dana, od dana dobijanja posljednje saglasnosti organa iz st. 1 i 2 ovog člana, odnosno u roku od 20 dana, ako je u postupku odlučivanja o davanju saglasnosti potrebno izvršiti dodatne provjere podnosioca zahtjeva.
