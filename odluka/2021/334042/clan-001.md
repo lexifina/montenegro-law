@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o kriterijumima, načinu i postupku izbora lica koje može steći crnogorsko državljanstvo prijemom radi realizacije posebnog programa ulaganja od posebnog značaja za privredni i ekonomski interes Crne Gore ("Službeni list CG", br. 79/18 i 12/20) u članu 3 stav 1 poslije riječi: "razvoju i" dodaju se riječi: "za razvoj inovacione djelatnosti u smislu Zakona o inovacionoj djelatnosti, kao i".
