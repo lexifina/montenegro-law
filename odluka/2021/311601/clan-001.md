@@ -1,0 +1,3 @@
+# Član 1
+## o produženju primjene Odluke o umanjenju iznosa zakupnine poslovnog prostora u vlasništvu Glavnog grada-Podgorica ("Službeni list Crne Gore- Opštinski propisi", br.47/20 od 31.12.2020)
+Produžava se primjena Odluke o umanjenju iznosa zakupnine poslovnog prostora u vlasništvu Glavnog grada-Podgorica, utvrdjen ugovorom o zakupu poslovnog prostora, zaključenim sa Agencijom za izgradnju i razvoj Podgorice d.o.o. u skladu sa Odlukom o cijeni zakupa poslovnog prostora u vlasništvu Glavnog grada-Podgorica ("Sl.list RCG- Opštinski propisi", br.25/07 i "Sl.list Crne Gore", br.34/09) tako da će se umanjenje od 40% predvidjeno ovom Odlukom, primjenjivati od 01.01.2022.godine do 31.12.2022.godine.
