@@ -1,0 +1,2 @@
+# Član 2
+Član 10 stav 2 se mijenja i glasi: "Ugostiteljski objekat za pružanje usluge pripremanja i usluživanja hrane i pića (klasični, specijalizovani i nacionalni restoran, konoba, caffebar, kafana, kafić, kafeterija, bistro pivnica, krčma, catering objekat, objekat brze hrane i objekat jednostavnih usluga - poslastičarnica, pečenjara, kantina i sl.), radi u intervalu 06.00-01.00 čas, tokom cijele godine.

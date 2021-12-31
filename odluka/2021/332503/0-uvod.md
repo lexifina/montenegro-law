@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 1 tačka 25 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19 i 38/20), a u vezi sa članom 67 stav 5 Zakona o radu ("Službeni list CG", br.74/19, 08/21, 59/21 i 68/21) i člana 37 stav 1 tačka 2 Statuta Opštine Kolašin ("Službeni list CG - opštinski propisi", br. 24/19) Skupština Opštine Kolašin, na sjednici održanoj dana 09.12.12.2021. godine, donijela je
+O D L U K U
