@@ -1,0 +1,3 @@
+Na osnovu člana 38 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19 i 38/20), a u vezi sa članom 38 stav 4 Zakona o teritorijalnoj organizaciji Crne Gore ("Službeni list CG", br. 54/11, 26/12, 27/13, 62/13, 12/14, 3/16, 31/17, 86/18 I 3/20), na prijedlog Organizacionog Odbora za stvaranje uslova za početak rada novoosnovane Opštine Tuzi, Skupština Glavnog grada - Podgorice, na sjednici održanoj 27. i 28. decembra 2021. godine, donijela je -
+O D L U K U
+o privremenom uređenju odnosa između Glavnog grada i Opštine Tuzi do konačne raspodjele imovine za stvaranje uslova za rad
