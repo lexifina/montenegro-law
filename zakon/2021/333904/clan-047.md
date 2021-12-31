@@ -1,0 +1,7 @@
+# Član 47
+## 5. Pravo na naknadu troškova prevoza
+Naknada troškova prevoza u vezi sa korišćenjem zdravstvene zaštite obezbjeđuje se osiguranom licu, kao i pratiocu, u skladu sa ovim zakonom.
+Pratilac se odobrava osiguranom licu koje je mlađe od 18 godina života, osiguranom licu koje je teže tjelesno ili psihički ometeno u razvoju ili kod kojeg je u toku života došlo do gubitka pojedinih tjelesnih ili psihičkih funkcija usljed kojih nije u mogućnosti da samostalno obavlja osnovne životne aktivnosti, osiguranom licu koje je slijepo, slabovido, gluvo, gluvonijemo, osiguranom licu sa autizmom, osiguranom licu koje je oboljelo od malignih bolesti i osiguranom licu koje ima oštećenje mišića, neuromišićne bolesti ili plegični sindrom.
+Naknada troškova prevoza pripada osiguranom licu kada je od izabranog doktora ili izabranog tima, odnosno nadležne ljekarske komisije upućen u drugo mjesto van opštine prebivališta u vezi sa ostvarivanjem zdravstvene zaštite ili radi ocjene privremene spriječenosti za rad.
+Naknada troškova prevoza ne pripada osiguranom licu kada zdravstvenu zaštitu nije ostvarilo u najbližoj zdravstvenoj ustanovi ili kod drugog davaoca zdravstvenih usluga, u kojima je moglo da ostvari zdravstvenu zaštitu, kao ni osiguraniku koji je zdravstvenu zaštitu ostvario u zdravstvenoj ustanovi u mjestu zaposlenja, ukoliko za vrijeme korišćenja zdravstvene zaštite nije bio privremeno spriječen za rad.
+Bliži način ostvarivanja prava iz stava 1 ovog člana, uređuje se aktom Fonda, uz saglasnost Ministarstva.

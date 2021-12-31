@@ -1,0 +1,11 @@
+# Član 37
+U slučaju postojanja sumnje da izabrani tim ili izabrani doktor privremenu spriječenost za rad nije utvrdio u skladu sa članom 36 st. 2, 3, 4 i 6 ovog zakona, Fond može, na zahtjev poslodavca ili po službenoj dužnosti, pokrenuti postupak za provjeru privremene spriječenosti za rad.
+U slučaju postojanja sumnje da nadležna ljekarska komisija privremenu spriječenost za rad nije utvrdila u skladu sa članom 36 st. 2, 3, 4 i 6 ovog zakona, Fond odnosno poslodavac može Ministarstvu podnijeti zahtjev za pokretanje postupka za provjeru privremene spriječenosti za rad.
+Provjera privremene spriječenosti za rad ne može se tražiti ako se osiguranik nalazi na bolničkom liječenju, osim u slučaju liječenja u dnevnoj bolnici.
+Provjeru privremene spriječenosti za rad koju je utvrdio izabrani tim ili izabrani doktor vrši komisija koju obrazuje Fond, a provjeru privremene spriječenosti za rad koju je utvrdila nadležna ljekarska komisija vrši komisija koju obrazuje Ministarstvo.
+Komisije iz stava 4 ovog člana čine doktori specijalisti medicine rada i doktori specijalisti odgovarajućih grana medicine, u zavisnosti od vrste bolesti ili povrede.
+Provjeru privremene spriječenosti za rad komisije iz stava 4 ovog člana vrše u prisustvu osiguranika, na osnovu medicinske dokumentacije, informacija pribavljenih od zdravstvene ustanove koja je izdala medicinsku dokumentaciju, ponovnog pregleda osiguranika od strane doktora odgovarajuće specijalnosti ili konzilijuma doktora i drugih činjenica i okolnosti bitnih za provjeru privremene spriječenosti za rad.
+Osiguranik je dužan da se javi na poziv komisije za provjeru privremene spriječenosti za rad, u roku koji komisija odredi.
+Ako se osiguranik bez opravdanog razloga ne odazove pozivu radi provjere privremene spriječenosti za rad, obustavlja mu se isplaćivanje naknade zarade i ne pripada mu naknada sve dok se ne odazove pozivu.
+Kada je postupak za provjeru privremene spriječenosti za rad pokrenut na zahtjev poslodavca, troškove za rad komisija iz stava 4 ovog člana snosi taj poslodavac.
+Aktom o obrazovanju komisija iz stava 4 ovog člana određuje se bliži sastav, način rada, visina naknade za rad članova i sekretara, kao i druga pitanja od značaja za rad ovih komisija.

@@ -1,0 +1,2 @@
+# Član 79
+Ugovorima koji se zaključuju između Fonda i davalaca zdravstvenih usluga, uređuju se: vrsta, obim, mjere za obezbjeđivanje i praćenje kvaliteta zdravstvene zaštite, kadar za pružanje zdravstvenih usluga, cijene koje Fond plaća za pružene zdravstvene usluge, način obračuna i plaćanja, kontrola i odgovornost za izvršavanje obaveza iz ugovora, rok za sprovođenje preuzetih obaveza, način rješavanja spornih pitanja, raskid ugovora, kao i druga međusobna prava i obaveze ugovornih strana.

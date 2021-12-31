@@ -1,0 +1,5 @@
+# Član 25
+## 2. Zdravstvena zaštita osiguranih lica u inostranstvu
+Osiguranik iz člana 6 ovog zakona koji je upućen na rad, stručno usavršavanje ili školovanje u državu sa kojom je zaključen međunarodni ugovor o socijalnom osiguranju, ima pravo na korišćenje zdravstvene zaštite na teret sredstava obaveznog zdravstvenog osiguranja, u skladu sa ovim zakonom i zaključenim međunarodnim ugovorom o socijalnom osiguranju.
+Članovi uže porodice osiguranika iz stava 1 ovog člana, za vrijeme dok sa osiguranikom borave u inostranstvu, imaju pravo na zdravstvenu zaštitu u inostranstvu, ako je osiguranik upućen na rad u inostranstvo duže od šest mjeseci, a ako je osiguranik upućen na rad u inostranstvo do šest mjeseci imaju pravo na hitnu medicinsku pomoć.
+Osiguranik koji je upućen na rad, stručno usavršavanje ili školovanje u zemlju sa kojom nije zaključen međunarodni ugovor o socijalnom osiguranju i članovi uže porodice dok sa osiguranikom borave u inostranstvu imaju pravo na hitnu medicinsku pomoć.
