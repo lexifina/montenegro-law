@@ -1,0 +1,6 @@
+# Član 1
+Radi sprječavanja mogućeg rizika po bezbjednost države zabranjuje se smještanje radi skladištenja duvanskih proizvoda na teritoriji Slobodne zone "Luka Bar".
+Smještanjem radi skladištenja smatra se svako zadržavanje duvanskih proizvoda na teritoriji Slobodne zone "Luke Bar", osim pretovara u skladu sa članom 176 stav 6 Carinskog zakona.
+Organ uprave nadležan za poslove carine (u daljem tekstu: carinski organ) dužan je da u roku od 15 dana od dana stupanja na snagu ove odluke donese rješenje u skladu sa članom 172 stav 3 Carinskog zakona, kojim se zabranjuje obavljanje djelatnosti iz stava 1 ove odluke i ukine ili izmijeni odobrenja koja su izdata za vođenje evidencije za skladištenje duvanskih proizvoda u Slobodnoj zoni "Luka Bar".
+Lice kojem je ukinuto ili izmijenjeno odobrenje iz stava 3 ovog člana dužno je da preduzme radnje radi odobravanja carinski dozvoljenog postupanja ili upotrebe za postojeće zalihe duvanskih proizvoda koje se nalaze na teritoriji Slobodne zone "Luka Bar", u roku koji odredi carinski organ u skladu sa zakonom.
+Ako lice kojem je ukinuto ili izmijenjeno odobrenje nije preduzelo radnje u roku iz stava 4 ovog člana, carinski organ će, bez odlaganja, preduzeti mjere za regulisanje statusa robe, uključujući i njenu prodaju, u skladu sa članom 63 Carinskog zakona.
