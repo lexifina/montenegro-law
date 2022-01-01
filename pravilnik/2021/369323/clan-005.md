@@ -1,0 +1,6 @@
+# Član 5
+Radi ovlašćivanja za vršenje poslova pripreme manometra za ovjeravanje pravno lice treba da podnese zahtjev organu državne uprave nadležnom za poslove metrologije.
+Uz zahtjev iz stava 1 ovog člana dostavljaju se dokazi o ispunjenosti uslova iz čl. 2, 3 i 4 ovog pravnilnika.
+Zahtjev iz stava 1 ovog člana sadrži sljedeće podatke:
+1) naziv, sjedište, poreski identifikacioni broj i kontakt podatke pravnog lica,
+2) vrstu manometara i vrijednost pritiska tih manometrara.
