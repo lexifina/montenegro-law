@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 2/18, 34/19, 38/20), člana 35 stav 1 tačka 22 Statuta opštine Danilovgrad ("Sl.list CG - Opštinski propisi", br. 43/18) i člana 10 stav 3 Odluke o osnivanju Javne ustanove "Umjetnička kolonija" Danilovgrad ("Sl.list CG - Opštinski propisi", br. 23/13, 16/19), Skupština opštine Danilovgrad, na sjednici održanoj 20.12.2021. godine, donosi
+O D L U K U
