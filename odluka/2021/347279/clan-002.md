@@ -1,0 +1,4 @@
+# Član 2
+Zbog dokompletiranja urbanističke parcele UP 7-16, KO Danilovgrad i rješavanja imovinsko pravnih odnosa, Opština Danilovgrad i ,,Taraš Company" d.o.o Danilovgrad vrše razmjenu zemljišta na način da :
+- Opština Danilovgrad ustupa ,,Taraš Company" d.o.o Danilovgrad kat. parcelu br.510/5 trg, površine 4m², kat.parcelu br. 510/6 trg, površine 8m² i kat. parcelu br. 510/7 trg, površine 5 m², po listu nepokretnosti br. 112 KO Danilovgrad, svojina Država Crna Gora - raspolaganje Opština Danilovgrad
+-,,Taraš Company" d.o.o Danilovgrad ustupa Opštini Danilovgrad kat. parcelu br.510/8 građevinska parcela, površine 11m², kat.parcelu br.510/9 građevinska parcela, površine 1 m² i kat. parcelu br. 510/10 građevinska parcela, površine 5 m², po listu nepokretnosti 488 KO Danilovgrad, svojina ,,Taraš Company"d.o.o Danilovgrad.

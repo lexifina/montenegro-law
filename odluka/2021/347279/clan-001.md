@@ -1,0 +1,3 @@
+# Član 1
+## o razmjeni nepokretnosti radi dokompletiranja urbanističke parcele UP 7-16, KO Danilovgrad
+Detaljnim urbanističkim planom ,,Danilovgrad Centar" formirana je urbanistička parcela UP 7-16, površine 240m², KO Danilovgrad koju čine kat.parcela br.510/2 građevinska parcela, površine 193m² i kat. parcela br.510/4 građevinska parcela, površine 30 m², po listu nepokretnosti 488 KO Danilovgrad, svojina ,,Taraš Company" d.o.o Danilovgrad i kat.parcela br.510/5 trg, površine 4 m², kat.parcela br.510/6 trg, površine 8m² i kat. parcela br. 510/7 trg , površine 5 m², po listu nepokretnosti 112 KO Danilovgrad, svojina Država Crna Gora - raspolaganje Opština Danilovgrad.
