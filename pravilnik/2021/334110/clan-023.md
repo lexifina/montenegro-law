@@ -1,0 +1,6 @@
+# Član 23
+## Uslovi u pogledu izrade
+Za izradu sterilnih galenskih ljekova, pored opštih uslova propisanih u članu 5 ovog pravilnika, osim za galenske ljekove kod kojih se sterilizacija vrši poslije primarnog pakovanja, potrebno je da su prostorije odgovarajućeg stepena čistoće radne sredine, kako bi se smanjio rizik od kontaminacije česticama, mikroorganizmima i pirogenima, u skladu sa smjernicama Dobre prakse u izradi galenskih ljekova.
+Ako je u postupku validacije procesa izrade sterilnog galenskog lijeka utvrđeno da je potrebno, prije početka i u toku izrade u prostorijama u kojima se vrši izrada sterilnih galenskih ljekova vrši se i rutinska kontrola mikrobiološke čistoće vazduha, površina, uređaja i opreme u skladu sa procedurama, pri čemu se dobijeni rezultati upoređuju sa utvrđenim standardima.
+Oprema za prečišćavanje vode validira se i kontroliše uz uspostavljanje graničnih vrijednosti za preduzimanje odgovarajućih mjera.
+Pomoćni sistemi u izradi galenskih ljekova, koji mogu da utiču na kvalitet sterilnog galenskog lijeka (sterilna para, gasovi, komprimovani vazduh) treba da su kvalifikovani i na odgovarajući način kontrolisani, a u slučaju prekoračenja uspostavljenih graničnih vrijednosti preduzimaju se odgovarajuće korektivne mjere.
