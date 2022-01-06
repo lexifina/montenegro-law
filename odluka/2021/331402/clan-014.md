@@ -1,0 +1,4 @@
+# Član 14
+Naknada iz člana 13 stav 1 primjenjivat će se za zakup zemljišta na kojem već postoje objekti i za zemljište koje će se davati u zakup. Naknada iz stava 1 ovog člana se neće utvrđivati i naplaćivati zakupcima lokacija na kojima su već postavljeni privremeni objekti a koji su sa Opštinom Nikšić zaključili ugovor o zakupu predmetnog zemljišta u skladu sa drugim propisom Opštine Nikšić.
+Putno zemljište i drugo zemljište koje pripada putu može se davati u zakup neposrednom pogodbom u slučajevima kada zainteresovano lice posjeduje zemljište na kojem je postavljen objekat, koje se graniči sa putnim zemljištem i drugim zemljištem koje pripada upravljaču puta, a to zemljište ne može koristiti drugo lice kao samostalnu cjelinu a da pri tom ne ugrožava prava zainteresovanog lica.
+3. Naknadu za postavljanje cjevovoda, vodovoda, kanalizacije, električnih vodova, elektronskih komunikacionih vodovoda,

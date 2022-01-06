@@ -1,0 +1,3 @@
+Na osnovu člana 20 stav 7 Zakona o putevima ("Službeni list CG", broj 82/20), člana 7 stav 1 tačka 8 Zakona o finansiranju lokalne samouprave ("Službeni list CG", broj 3/19), člаnа 28 stav 1 tačka 2 i člana 38 stav 1 tač. 2 i 8 Zаkоnа о lоkаlnој sаmоuprаvi ("Službeni list CG", br. 2/18, 34/19 i 38/20) i člana 35 stav 1 tač. 2 i 8 i člana 38 stav 1 Statuta opštine Nikšić ("Službeni list CG - Opštinski propisi ", broj 31/18), uz prethodnu Saglasnost Vlade Crne Gore, broj 04-5500/2 od 26.11.2021. godine, Skupština opštine Nikšić, na sjednici održanoj 23.12.2021. godine, donijela je
+O D L U K U
+o naknadama za korišćenje opštinskih puteva Opštine Nikšić
