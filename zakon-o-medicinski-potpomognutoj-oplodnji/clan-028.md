@@ -1,0 +1,10 @@
+# Član 28
+Skladištenje neupotrijebljenih polnih ćelija, polnih tkiva i embriona može da se vrši u zdravstvenoj ustanovi ili dijelu zdravstvene ustanove ili drugom pravnom licu, koje je ovlašćeno za postupke obrade, očuvanja, skladištenja i distribucije polnih ćelija, polnih tkiva i embriona (u daljem tekstu: banka tkiva i ćelija) na period do pet godina, na osnovu pisane saglasnosti davaoca, odnosno bračnih ili vanbračnih supružnika.
+Skladištenje neupotrijebljenih polnih ćelija, polnih tkiva i embriona može da se vrši u banci tkiva i ćelija i van Crne Gore, u skladu sa ovim zakonom i zakonom kojim se uređuje uzimanje i presađivanje ljudskih tkiva i ćelija u svrhu liječenja.
+Izuzetno od stava 1 ovog člana, skladištenje polnih ćelija i polnih tkiva uzetih od lica kod kojih postoji rizik od nastupanja kasnije neplodnosti zbog upotrebe medikamentne i radio terapije kod malignih bolesti, može da se vrši na neodređeno vrijeme za sopstvenu reprodukciju, na osnovu pisane saglasnosti punoljetnog lica, odnosno zakonskog zastupnika ili staraoca, ako je to lice maloljetno.
+Upotreba polnih ćelija, polnih tkiva i embriona iz st. 2 i 3 ovog člana za postupak MPO može da se vrši u ovlašćenoj zdravstvenoj ustanovi u Crnoj Gori ili van Crne Gore, na osnovu pisane saglasnosti, u skladu sa ovim zakonom.
+Pisana saglasnost iz st. 1, 3 i 4 ovog člana može da se opozove u svakom momentu.
+O isteku roka skladištenja neupotrijebljenih polnih ćelija, polnih tkiva i embriona iz stava 1 ovog člana, banka tkiva i ćelija obavještava njihove davaoce i upoznaje ih o mogućnosti i uslovima za produženje roka skladištenja, na osnovu njihove saglasnosti.
+Ako u roku od 30 dana od dana dostavljanja obavještenja, lica iz stava 6 ovog člana ne daju saglasnost za produženje roka za skadištenje iz stava 1 ovog člana, polne ćelije, polna tkiva i embrioni se uništavaju.
+O radnjama iz st. 6 i 7 ovog člana sačinjava se zabilješka, koja se čuva zajedno sa pisanom saglasnošću, a jedan primjerak se uručuje davaocu polnih ćelija i embriona.
+Sadržinu i obrazac pisane saglasnosti i opoziva saglasnosti iz st. 1, 3, 4 i 5 ovog člana propisuje Ministarstvo.

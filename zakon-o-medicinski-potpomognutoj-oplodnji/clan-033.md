@@ -1,0 +1,7 @@
+# Član 33
+Prije uzimanja polnih ćelija i polnih tkiva, odnosno davanja embriona vrši se procjena podobnosti i odabir davalaca, radi obezbjeđivanja kvaliteta i bezbjednosti vršenja postupka MPO.
+Procjenu iz stava 1 ovog člana vrši doktor medicine na osnovu ljekarskog pregleda, odgovarajućih medicinskih pregleda i rezultata laboratorijskih testiranja, koja se evidentiraju i čuvaju u medicinskoj dokumentaciji.
+Testiranje davalaca na krvlju prenosive bolesti i ostala testiranja koja su potrebna za utvrđivanje podobnosti i odabir, kao i imunološka i genetička ispitivanja, u skladu sa ličnom i porodičnom anamnezom, vrše ovlašćene zdravstvene ustanove (laboratorije), po nalogu ovlašćenog doktora.
+Rezultate do kojih se dođe tokom pregleda i laboratorijskih testiranja iz st. 2 i 3 ovog člana, koji su od značaja za zdravlje davaoca, saopštavaju se davaocu.
+Donirane polne ćelije, polna tkiva i embrioni mogu da se upotrijebe samo ako se, u skladu sa biomedicinskim dostignućima i iskustvima, može očekivati da su podobni za primjenu postupka MPO, da zadovoljavaju propisane standarde bezbjednosti i kvaliteta i da njihova upotreba neće da prouzrokuje opasnost po zdravlje žene ili djeteta.
+Način i uslove za procjenu podobnosti i odabir davaoca polnih ćelija, polnih tkiva i embriona, vrstu laboratorijskih testiranja, kao i druga pitanja koja su od značaja za procjenu podobnosti i odabir davaoca, propisuje Ministarstvo.

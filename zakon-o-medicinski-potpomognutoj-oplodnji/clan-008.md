@@ -1,0 +1,7 @@
+# Član 8
+Postupke MPO mogu da obavljaju zdravstvene ustanove i djelovi zdravstvenih ustanova koje ispunjavaju propisane uslove i imaju rješenje organa državne uprave nadležnog za poslove zdravlja za obavljanje ovih postupaka (u daljem tekstu: ovlašćene zdravstvene ustanove).
+Ovlašćene zdravstvene ustanove mogu da obavljaju i postupke dobijanja, uzimanja, testiranja, obrade, očuvanja, skladištenja i distribucije polnih ćelija, polnih tkiva i embriona, ako ispunjavaju propisane uslove i imaju rješenje organa državne uprave nadležnog za poslove zdravlja (u daljem tekstu: Ministarstvo) za obavljanje ovih postupaka.
+Rješenje iz st. 1 i 2 ovog člana donosi se za svaku vrstu postupka.
+Ovlašćene zdravstvene ustanove dužne su da u slučaju promjene djelatnosti iz st. 1 i 2 ovog člana, imaju rješenje Ministarstva kojim se odobrava promjena djelatnosti.
+Ovlašćene zdravstvene ustanove dužne su da uspostave i održavaju sistem kvaliteta koji se zasniva na standardima, specifikacijama i principima Dobre proizvođačke prakse i Dobre laboratorijske prakse i pisanim uputstvima koja opisuju procedure tokom svih faza u određenom postupku, uključujući materijale i metode koje se koriste, kao i očekivani krajnji ishod (standardne operativne procedure).
+Bliže uslove u pogledu prostora, kadra i opreme koje moraju da ispunjavaju ovlašćene zdravstvene ustanove za obavljanje postupaka iz st. 1 i 2 ovog člana, propisuje Ministarstvo.

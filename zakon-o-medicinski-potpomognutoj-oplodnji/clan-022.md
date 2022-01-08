@@ -1,0 +1,6 @@
+# Član 22
+Ovlašćena zdravstvena ustanova dužna je da obezbijedi pravno, psihološko i genetičko savjetovanje bračnim, odnosno vanbračnim supružnicima i ženi iz člana 17 ovog zakona, za primjenu heterologne oplodnje i da ih upozna o:
+1) pravnim posljedicama primjene postupka MPO u odnosu na prava i obaveze roditelja djeteta rođenog primjenom ovog postupka i davaoca polnih ćelija ili embriona i drugim pravima, u skladu sa zakonom; i
+2) mogućim psihičkim posljedicama postupka MPO po supružnika, ženu i dijete začeto primjenom ovog postupka.
+Doktor specijalista kliničke/medicinske genetike dužan je da, za lica iz stava 1 ovog člana, uradi rodoslov kroz četiri generacije i da izvrši procjenu rizika od konsangvinosti između davaoca polnih ćelija i bračnih, odnosno vanbračnih supružnika kojima se donira polna ćelija i procjenu rizika od nasljednih oboljenja, kao i da ih upozna o isključenim ili prepoznatim rizicima i mogućnostima prevencije, u postupku genetičkog savjetovanja koje je uređeno posebnim zakonom.
+O radnjama iz st. 1 i 2 ovog člana mora da se sačini pisani izvještaj, a o radnjama iz stava 2 ovog člana i pisana genetička informacija sa rodoslovom, koji se čuvaju u medicinskoj dokumentaciji.
