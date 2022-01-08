@@ -1,0 +1,2 @@
+Na osnovu člana 35 stav 7 i člana 43 stav 4 Zakona o prevozu u drumskom saobraćaju ("Službeni list CG", br. 71/17 i 67/19), člana 15 stav 1 Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16, 74/16, 02/18 i 66/19) i člana 54 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 08/19 i 20/21), Skupština Glavnog grada - Podgorice, na sjednici održanoj 27. i 28. decembra 2021. godine, donijela je
+O D L U K U
