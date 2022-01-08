@@ -1,0 +1,2 @@
+# Član 5
+U članu 12, u nazivu članova i u čl. 13, 15, 16 i 17, nazivu poglavlja IV, u nazivu članova i u čl. 19, 20, 23 i 24, nazivu poglavlja V, u nazivu članova i u čl. 25, 26 i 27, nazivu poglavlja VI, u nazivu članova i u čl. 28, 29 i 30, nazivu poglavlja VIII, u članu 42, u nazivu člana i u članu 43 riječ ,,logotip" u različitom padežu zamjenjuje se riječima: ,,vizuelni identitet" u odgovarajućem padežu.
