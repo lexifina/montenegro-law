@@ -1,0 +1,11 @@
+# Član 27
+## Otvaranje računa za plaćanje sa osnovnim uslugama
+Kreditna institucija je dužna da, na zahtjev potrošača, otvori račun za plaćanje sa osnovnim uslugama ili odbije taj zahtjev, bez odlaganja, a najkasnije u roku od deset radnih dana, od dana prijema urednog zahtjeva.
+Kreditna institucija je dužna da odbije zahtjev potrošača iz stava 1 ovog člana ako bi otvaranje računa za plaćanje sa osnovnim uslugama bilo u suprotnosti sa propisima kojima se uređuje sprječavanje pranja novca i finansiranja terorizma.
+U slučaju odbijanja zahtjeva iz razloga datih u stavu 2 ovog člana, kreditna institucija je dužna da o tome obavijesti organ nadležan za sprječavanje pranja novca i finansiranja terorizma i sprovede druge postupke u skladu sa propisima kojima se uređuje sprječavanje pranja novca i finansiranja terorizma.
+Kreditna institucija može da odbije zahtjev potrošača za otvaranje tog računa ako potrošač na teritoriji Crne Gore već ima otvoren račun za plaćanje koji mu omogućava korišćenje usluga iz člana 28 stav 1 ovog zakona.
+Prije otvaranja računa za plaćanje sa osnovnim uslugama, kreditna institucija može provjeriti da li potrošač ima otvoren račun za plaćanje kod druge kreditne institucije koji mu omogućava korišćenje usluga iz člana 28 stav 1 ovog zakona, a može i prihvatiti pisanu izjavu potrošača o tome da nema otvoren račun za plaćanje u Crnoj Gori ili da će račun za plaćanje biti ukinut.
+Kreditne institucije su dužne da međusobno sarađuju u postupku provjere iz stava 5 ovog člana.
+Kreditna institucija je dužna da, u slučaju odbijanja zahtjeva potrošača za otvaranje računa za plaćanje sa osnovnim uslugama, bez odlaganja dostavi potrošaču, u pisanoj formi i bez naknade, obavještenje o odbijanju i razlozima odbijanja, osim ako bi otkrivanje razloga bilo suprotno ciljevima nacionalne bezbjednosti, javnom interesu ili propisima kojima je uređeno sprječavanje pranja novca i finansiranja terorizma.
+Kreditna institucija je dužna da, u slučaju odbijanja zahtjeva potrošača za otvaranje računa za plaćanje sa osnovnim uslugama, dostavi potrošaču informacije o pravu na vansudsko rješavanje sporova, u skladu sa zakonom.
+Kreditna institucija ne smije otvaranje računa za plaćanje sa osnovnim uslugama uslovljavati ugovaranjem dodatnih usluga.

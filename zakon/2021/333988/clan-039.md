@@ -1,0 +1,6 @@
+# Član 39
+## Pravo na račun za plaćanje sa osnovnim uslugama
+Potrošač koji ima zakonit boravak na teritoriji Evropske unije, uključujući potrošača bez stalne adrese i tražioca azila, kao i potrošača kojem nije odobren boravak ali čije protjerivanje nije moguće iz pravnih ili činjeničnih razloga, ima pravo da otvori i koristi račun za plaćanje sa osnovnim uslugama kod kreditne institucije sa sjedištem u Crnoj Gori, bez obzira na mjesto njegovog boravka na teritoriji Evropske unije.
+Zakonit boravak u Evropskoj uniji, u smislu stava 1 ovog člana, predstavlja pravo fizičkog lica da boravi u državi članici Evropske unije na osnovu propisa Evropske unije ili nacionalnog zakonodavstva, uključujući i fizičko lice koje nema stalnu adresu i tražioca azila na osnovu Ženevske konvencije od 28. jula 1951. godine o statusu izbjeglica i njenog Protokola od 31. januara 1967. godine i ostalim relevantnim međunarodnim ugovorima.
+Odredba člana 3 ovog zakona primjenjuje se kod otvaranja i vođenja računa iz stava 1 ovog člana.
+Na raskid okvirnog ugovora o otvaranju i vođenju računa iz stava 1 ovog člana shodno se primjenjuju odredbe člana 30 ovog zakona, s tim što je dovoljan uslov za raskid ugovora i to što potrošač iz stava 1 ovog člana više nema zakonit boravak na teritoriji Evropske unije.
