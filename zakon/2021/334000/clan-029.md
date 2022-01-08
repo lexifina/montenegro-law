@@ -1,0 +1,11 @@
+# Član 29
+Član 42 mijenja se i glasi:
+"Vlasnik, odnosno korisnik vazduhoplova dužan je da zaključi ugovor o osiguranju od odgovornosti za štetu koju upotrebom vazduhoplova u letu pričini trećim licima i putnicima.
+Treće lice iz stava 1 ovog člana je svako lice, osim putnika i članova letačke i kabinske posade vazduhoplova koji su na dužnosti u toku leta.
+Putnik iz stava 1 ovog člana je svako lice koje se prevozi vazduhoplovom, uz saglasnost vlasnika, odnosno korisnika vazduhoplova, osim članova letačke i kabinske posade vazduhoplova koji su na dužnosti u toku leta.
+Ugovor o osiguranju iz stava 1 ovog člana pokriva i štete pričinjene teretu i prtljagu, osim za vazduhoplove koji se ne koriste u komercijalne svrhe.
+Ugovorom o osiguranju iz stava 1 ovog člana pokrivene su i štete zbog rizika rata i terorizma, osim za vazduhoplove kojima MTOM iznosi do 500 kg.
+Vlasnik, odnosno korisnik stranog vazduhoplova koji ulazi u vazdušni prostor Crne Gore mora biti osiguran od odgovornosti za štetu iz stava 1 ovog člana, ako nema drugo obezbjeđenje za naknadu štete ili ako potvrđenim međunarodnim ugovorom nije drugačije uređeno.
+Izuzetno od stava 6 ovog člana, vlasnik, odnosno korisnik vazduhoplova koji nije registrovan u Crnoj Gori i čije operacije ne uključuju slijetanje na teritoriju ili polijetanje sa teritorije Crne Gore nego samo let u vazdušnom prostoru Crne Gore, nije dužan da ugovorom o osiguranju iz stava 1 ovog člana ima pokrivene štete pričinjene putnicima, teretu i prtljagu.
+Vlasnik, odnosno korisnik vazduhoplova, upisanog u Registar civilnih vazduhoplova Crne Gore, dužan je da prilikom izdavanja i produženja važenja potvrde o provjeri plovidbenosti vazduhoplova dostavi ugovor o osiguranju iz stava 1 ovog člana nezavisnom pravnom licu koje vrši javna ovlašćenja u oblasti vazdušnog saobraćaja.
+Operator sistema bespilotnog vazduhoplova ili vazduhoplovnog modela dužan je da, prilikom izvođenja letačkih operacija bespilotnim vazduhoplovom ili vazduhoplovnim modelom operativne mase 250 grama i više, ili prilikom izvođenja letačkih operacija za koje nezavisno pravno lice koje vrši javna ovlašćenja u oblasti vazdušnog saobraćaja izdaje dozvolu, odobrenje ili drugi ekvivalentni dokument posjeduje ugovor o osiguranju od odgovornosti za štetu koju upotrebom bespilotnog vazduhoplova ili vazduhoplovnog modela u letu pričini trećim licima."
