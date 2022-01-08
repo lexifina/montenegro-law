@@ -1,0 +1,14 @@
+# Član 17
+## Prekršaji
+Novčanom kaznom od 5.000 do 20.000 eura kazniće se pružalac platnih usluga – pravno lice ako:
+1) nudi ili zahtijeva međubankarsku naknadu suprotno članu 7 st. 1 i 2 ovog zakona;
+2) na zahtjev potrošača odbije da izda dva ili više platnih brendova na platnom instrumentu zasnovanom na platnoj kartici, a pri zaključivanju ugovora potrošaču je nudio takvu uslugu (član 9 stav 3)
+3) prije zaključenja ugovora o pružanju platne usluge, potrošaču ne dostavi jasne i objektivne informacije o platnim brendovima sa kojima je ta usluga povezana, kao i o njihovim karakteristikama, uključujući njihovu funkcionalnost, troškove i sigurnost (član 9 stav 4);
+4) na platnom instrumentu zasnovanom na platnoj kartici ili na opremi koja se primenjuje na prodajnom mjestu uspostavi automatske mehanizme, softver ili druge uređaje kojima bi se platiocu ili primaocu plaćanja ograničio izbor platnog brenda i/ili aplikacije za plaćanje, prilikom upotrebe platnog instrumenta sa povezanim platnim brendovima (član 9 stav 8);
+5) ne nudi i ne obračunava pojedinačno trgovačke naknade za različite vrste platnih kartica i različite platne brendove za čiju se upotrebu plaćaju različite međubankarske naknade, osim u slučaju kada primalac plaćanja prihvatiocu dostavi pisani zahtjev za drugačiji obračun ovih naknada (član 10 stav 1);
+6) u ugovoru o platnoj usluzi koji zaključuje sa primaocem plaćanja ne prikaže pojedinačno informacije o iznosu trgovačke naknade, međubankarske naknade i naknade kartične platne šeme koje se primjenjuju za svaku vrstu platnih kartica i platnih brendova, osim u slučaju kada primalac plaćanja dostavi pisani zahtjev za dostavljanje informacija u drugačijem obliku (član 10 stav 2);
+7) primaoca plaćanja koji prihvata platni instrument na osnovu platne kartice jednog izdavaoca obaveže da prihvati i druge platne instrumente na osnovu platnih kartica koji su izdati u okviru iste kartične platne šeme (član 11 stav 1);
+8) ne obezbijedi elektronsku prepoznatljivost svojih platnih instrumenata, a u slučaju novoizdatih platnih instrumenata na osnovu platnih kartica i njihovu vizuelnu prepoznatljivost, na način koji omogućava primaocu plaćanja i platiocu da nedvosmisleno identifikuju platni brend i vrstu kartice (član 11 stav 7);
+9) primaoca plaćanja spriječi da usmjeri potrošača na upotrebu bilo kog platnog instrumenta, da daje prednost platnim instrumentima na osnovu platnih kartica određene kartične platne šeme ili da obavijesti platioca o međubankarskim naknadama i trgovačkim naknadama koje plaća (član 12 stav 1);
+10) nakon izvršenja pojedinačne platne transakcije na osnovu platne kartice, primaocu plaćanja ne dostavi informacije iz člana 13 stav 1 ovog zakona.
+Za prekršaj iz stava 1 ovog člana kazniće se i odgovorno lice u pravnom licu pružaoca platnih usluga iz stava 1 ovog člana novčanom kaznom od 1.000 do 2.000 eura.

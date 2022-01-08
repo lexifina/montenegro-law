@@ -1,0 +1,38 @@
+# Član 5
+## Značenje izraza
+Izrazi upotrijebljeni u ovom zakonu imaju sljedeće značenje:
+1) prihvatilac je pružalac platnih usluga sa sjedištem u Crnoj Gori koji sa primaocem plaćanja ugovara prihvatanje i obradu platnih transakcija na osnovu platnih kartica radi prenosa novčanih sredstva primaocu plaćanja;
+2) izdavalac je pružalac platnih usluga sa sjedištem u Crnoj Gori koji se ugovorom obavezuje da platiocu pruža platne usluge izdavanja platnog instrumenta za iniciranje platnih transakcija na osnovu platnih kartica i izvršavanje tih platnih transakcija;
+3) potrošač je fizičko lice koje zaključuje ugovor o platnim uslugama u svrhe koje nijesu namijenjene obavljanju njegove djelatnosti;
+4) transakcija debitnom karticom je platna transakcija na osnovu platnih kartica, uključujući transakcije platnom karticom sa unaprijed uplaćenim sredstvima, koja nije transakcija kreditnom karticom;
+5) transakcija kreditnom karticom je platna transakcija na osnovu platnih kartica za koju se platilac zadužuje u cjelosti ili djelimično na prethodno dogovoreni kalendarski dan, u skladu sa uslovima utvrđenim ugovorom o izdavanju kreditne kartice, bez obzira na to da li se obračunava i plaća kamata;
+6) poslovna kartica je platna kartica izdata privrednim društvima, preduzetnicima i subjektima iz javnog sektora, koja je ograničena za upotrebu samo u poslovne svrhe, a plaćanja izvršena njenom upotrebom naplaćuju se sa računa za plaćanje tih subjekata;
+7) platna transakcija na osnovu platnih kartica je usluga koja se zasniva na infrastrukturi i pravilima poslovanja kartične platne šeme za izvršavanje platne transakcije bilo kojom karticom, telekomunikacionim, digitalnim ili informaciono-tehnološkim uređajem ili softverom, ako je njen rezultat izvršenje transakcije debitnom ili kreditnom karticom, osim transakcije na osnovu drugih platnih usluga;
+8) neto nadoknada je ukupan neto iznos plaćanja, popusta (olakšica) ili podsticaja koje izdavalac prima od kartičnih platnih šema, prihvatioca ili drugog posrednika u vezi sa platnim transakcijama na osnovu platnih kartica ili povezanim aktivnostima;
+9) trgovačka naknada je naknada koju primalac plaćanja plaća prihvatiocu u vezi sa platnom transakcijom na osnovu platne kartice;
+10) primalac plaćanja je fizičko ili pravno lice koje je određeno kao primalac novčanih sredstava koja su predmet platne transakcije na osnovu platne kartice (trgovac i drugi);
+11) platilac je fizičko ili pravno lice koje ima račun za plaćanje i koje daje saglasnost za izvršavanje naloga za plaćanje sa tog računa, odnosno za izvršavanje platne transakcije na osnovu platne kartice, a ako račun za plaćanje ne postoji platilac je fizičko ili pravno lice koje daje nalog za plaćanje;
+12) platna kartica je vrsta platnog instrumenta koja platiocu omogućava iniciranje transakcije debitnom ili kreditnom karticom;
+13) kartična platna šema je jedinstven skup pravila, praksi, standarda i/ili smjernica za izvršavanje platnih transakcija na osnovu platnih kartica, koja je odvojena od infrastrukture ili platnog sistema koji podržava njeno funkcionisanje i uključuje posebno tijelo koje donosi odluke, organizaciju ili subjekte koji su odgovorni za funkcionisanje te šeme;
+14) četvorostrana kartična platna šema je kartična platna šema u kojoj se platne transakcije na osnovu platnih kartica izvršavaju sa računa za plaćanje platioca na račun za plaćanje primaoca plaćanja uz posredovanje šeme, izdavaoca (na strani platioca) i prihvatioca (na strani primaoca plaćanja);
+15) trostrana kartična platna šema je kartična platna šema u kojoj sama šema pruža usluge prihvatanja i izdavanja platne kartice, a platne transakcije na osnovu platnih kartica izvršavaju se sa računa za plaćanje platioca u korist računa za plaćanje primaoca plaćanja unutar te šeme, pri čemu se trostrana kartična platna šema, koja ovlasti druge pružaoce platnih usluga za izdavanje platnih instrumenata na osnovu platnih kartica ili prihvatanje platnih transakcija na osnovu kartica, ili oboje, ili izdaje platne instrumente na osnovu kartica sa kobrendingom (co-branding) partnerom ili preko zastupnika, smatra četvorostranom kartičnom platnom šemom;
+16) platni instrument je personalizovani uređaj i/ili skup postupaka dogovorenih između korisnika platnih usluga i pružaoca platnih usluga koji se koriste za iniciranje naloga za plaćanje;
+17) platni instrument na osnovu platne kartice je platni instrument, uključujući karticu, mobilni telefon, računar ili bilo koji drugi tehnološki uređaj sa odgovarajućom aplikacijom za plaćanje, koji platiocu omogućava iniciranje platne transakcije na osnovu platne kartice, a koja nije kreditni transfer ili direktno zaduženje u smislu zakona kojim se uređuje platni promet;
+18) aplikacija za plaćanje je računarski softver ili drugi odgovarajući instrument učitan na uređaju kojim se omogućava iniciranje platne transakcije na osnovu platne kartice i koji platiocu omogućava izdavanje naloga za plaćanje;
+19) račun za plaćanje je račun koji se vodi u ime jednog ili više korisnika platnih usluga i koristi za izvršavanje platnih transakcija, uključujući račun za plaćanje na kojem se vodi elektronski novac;
+20) nalog za plaćanje je instrukcija koju platilac podnosi svom pružaocu platnih usluga kojom se traži izvršavanje platne transakcije;
+21) pružalac platnih usluga je lice koje pruža platne usluge ili izdaje elektronski novac na osnovu odobrenja izdatog u skladu sa zakonom kojim se uređuje platni promet;
+22) korisnik platnih usluga je fizičko ili pravno lice koje koristi platnu uslugu u svojstvu platioca i/ili primaoca plaćanja;
+23) platna transakcija je prenos novčanih sredstava koje je inicirao platilac, odnosno drugo lice u njegovo ime ili primalac plaćanja, bez obzira na obaveze između platioca i primaoca plaćanja;
+24) obrada je usluga tehničke obrade platnih transakcija u smislu aktivnosti potrebnih za postupanje sa nalogom za plaćanje između prihvatioca i izdavaoca;
+25) izvršilac obrade je fizičko ili pravno lice koje pruža usluge obrade platnih transakcija;
+26) prodajno mjesto je poslovni prostor trgovca u kojem je inicirana platna transakcija, pri čemu je prodajno mjesto:
+a) stalna poslovna jedinica u kojoj trgovac posluje nezavisno od mjesta na kojem je smještena internetska stranica ili server preko kojih je platna transakcija inicirana ako se prodaja obavlja na daljinu ili preko ugovora na daljinu (tj. e-trgovine);
+b) mjesto na kojem trgovac posluje i preko kojeg je platna transakcija inicirana, ako trgovac nema stalnu poslovnu jedinicu;
+c) adresa za korespondenciju kojom se koristi za plaćanje poreza koji se odnose na njegovu poslovnu aktivnost i sa koje je platna transakcija inicirana, ako trgovac nema stalnu poslovnu jedinicu niti mjesto na kojem posluje;
+27) platni brend je materijalni ili digitalni naziv, termin, znak, simbol ili njihova kombinacija, kojima se označava kartična platna šema u okviru koje se izvršavaju platne transakcije na osnovu platne kartice;
+28) kobedžing (co-badging) je uključivanje dva ili više platnih brendova ili aplikacija za plaćanje istog brenda na isti platni instrument na osnovu platne kartice;
+29) kobrending (co-branding) je uključivanje najmanje jednog platnog brenda i najmanje jednog neplatnog brenda ili aplikacije za plaćanje na isti platni instrument na osnovu platne kartice;
+30) debitna kartica je vrsta platnog instrumenta koja platiocu omogućava iniciranje platne transakcije debitnom karticom koja nije transakcija karticama sa unaprijed uplaćenim sredstvima;
+31) kreditna kartica je vrsta platnog instrumenta koja platiocu omogućava iniciranje platne transakcije kreditnom karticom;
+32) kartica sa unaprijed uplaćenim sredstvima je vrsta platnog instrumenta na kojem je pohranjen elektronski novac.
