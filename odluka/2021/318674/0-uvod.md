@@ -1,0 +1,2 @@
+Na osnovu člana 275 stav 2 Zakona o privrednim društvima ("Sl. list Crne Gore", broj 65/20), čl. 3 i 4 Odluke o osnivanju Društva sa ograničenom odgovornošću Lokalni javni emiter "Radio televizija Podgorica" ( "Službeni list Crne Gore - Opštinski propisi", broj 9/20) i na osnovu člana 54 stav 1 tačka 58 Statuta Glavnog grada ("Sl. list Crne Gore - Opštinski propisi", br. 8/19 i 20/21), Skupština Glavnog grada - Podgorice, na sjednici održanoj 27. i 28. decembra 2021. godine, donijela je
+O D L U K U
