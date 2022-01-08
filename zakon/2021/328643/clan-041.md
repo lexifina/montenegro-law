@@ -1,0 +1,6 @@
+# Član 41
+Član 168 mijenja se i glasi:
+"Korisnik je dužan da organizaciji za kolektivno ostvarivanje prava u okviru dogovorenog ili prethodno određenog roka i u dogovorenom ili prethodno određenom obliku, dostavi informacije kojima raspolaže o korišćenju prava koja zastupa organizacija za kolektivno ostvarivanje prava, a koje su potrebne za naplatu prihoda od prava i raspodjelu iznosa koji pripadaju nosiocima prava.
+Prilikom odlučivanja o obliku u kom informacije treba da budu dostavljene, organizacija za kolektivno ostvarivanje prava i korisnik uzimaju u obzir, koliko je to moguće, dobrovoljne industrijske standarde.
+Korisnik je dužan da ovlašćenom licu organizacije za kolektivno ostvarivanje prava omogući uvid u dokumentaciju i podatke od značaja za obračun naknade koja se plaća prema tarifi.
+Pravno ili fizičko lice koje omogući korišćenje prostora nad kojim ima pravo svojine, državine ili korišćenja drugom pravnom ili fizičkom licu, a zna ili mora znati da će se u tom prostoru koristiti predmeti zaštite, dužno je da utvrdi da li to drugo pravno ili fizičko lice ima pribavljeno ovlašćenje iz člana 165 ovog zakona i, ako utvrdi da nema, zabrani mu korišćenje prostora u svrhu korišćenja predmeta zaštite.".

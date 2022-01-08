@@ -1,0 +1,4 @@
+# Član 52
+U glavi VI odjeljak E mijenja se i glasi:
+"ODJELjAK E KONTROLA RADA ORGANIZACIJE ZA KOLEKTIVNO OSTVARIVANjE
+PRAVA".

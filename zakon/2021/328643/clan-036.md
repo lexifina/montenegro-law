@@ -1,0 +1,4 @@
+# Član 36
+U glavi VI odjeljak C mijenja se i glasi:
+"ODJELjAK C
+ODNOS PREMA KORISNICIMA,TRANSPARENTNOST I IZVJEŠTAVANjE".
