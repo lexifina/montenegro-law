@@ -1,0 +1,2 @@
+Na osnovu člana 30 stav 2 i 3 Zakona o finansiranju lokalne samouprave ("Sl.list CG" br. 3/19), člana 37 Zakona o budžetu i fiskalnoj odgovornosti ( "Sl.list CG", br.20/14, 56/14, 70/17, 4/18,55/18), člana 59 stav 1 Zakona o lokalnoj samoupravi ("Sl.list CG" br. 02/18, 34/19 i 38/20) i člana 73 stav 1 Statuta opštine Tivat ("Sl.list CG - Opštinski propisi" br.24/18, 09/20), predsjednik Opštine Tivat donosi
+O D L U K U
