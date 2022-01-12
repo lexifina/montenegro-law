@@ -1,0 +1,2 @@
+Na osnovu člana 30 stav 2,3 i 4 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", broj 3/19), člana 37 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list Cme Gore", broj 20/14, 56/14 , 70/17, 4/18, 55/18, 66/19 i 70/21. člana 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" broj 2/18., 34/19, 38/20) i člana. 32 stav 1 tačka 2 Statuta opštine Petnjica ("Službeni list Crne Gore - Opštinski propisi", broj 49/18, 9/19, 17/21) predsjednik Opštine Petnjica, dana 28.12.2021. godine, donosi
+O D L U K A
