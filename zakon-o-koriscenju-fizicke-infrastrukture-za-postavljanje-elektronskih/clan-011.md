@@ -1,0 +1,8 @@
+# Član 11
+## Odlučivanje Agencije o zahtjevu za rješavanje spora u vezi pristupa i zajedničkog korišćenja fizičke infrastrukture
+(1) Ako mrežni operator, u roku iz člana 10 stav 3 ovog zakona, ne zaključi ugovor o pristupu i zajedničkom korišćenju fizičke infrastrukture, ili ako u roku iz člana 10 stav 5 ovog zakona odbije zahtjev operatora javne elektronske komunikacione mreže ili ne odgovori na taj zahtjev u roku iz člana 9 stav 2 ovog zakona, operator javne elektronske komunikacione mreže može u roku od 30 dana od isteka tog roka, da podnese zahtjev za rješavanje spora Agenciji.
+(2) Agencija odlučuje o zahtjevu iz stava 1 ovog člana, u skladu sa načelima nediskriminatornosti, transparentnosti i proporcionalnosti, kojim se ne ugrožava korišćenje te infrastrukture od mrežnog operatora, a prema potrebi može da odredi i cijenu za pristup i zajedničko korišćenje fizičke infrastrukture.
+(3) Prilikom određivanja cijene iz stava 2 ovog člana, Agencija je dužna da mrežnom operatoru utvrdi pravičnu naknadu troškova u vezi omogućavanja pristupa i zajedničkog korišćenja fizičke infrastrukture, i vodeći računa o uticaju zahtijevanog pristupa na poslovni plan mrežnog operatora, kao i na ulaganja u fizičku infrastrukturu za koju se zahtijeva pristup i zajedničko korišćenje.
+(4) Cijenu iz stava 2 ovog člana, Agencija određuje vodeći računa o ujednačenosti cijena pristupa i zajedničkog korišćenja za istu vrstu infrastrukture mrežnih operatora.
+(5) Agencija odlučuje o zahtjevu iz stava 1 ovog člana, najkasnije u roku od četiri mjeseca od dana prijema zahtjeva.
+(6) Protiv odluke Agencije iz stava 5 ovog člana može da se pokrene upravni spor.
