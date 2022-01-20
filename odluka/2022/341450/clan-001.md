@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti o ustanovljenju prava stvarne službenosti u korist DOO "Crnogorski-elektrodistributivni sistem" Podgorica
+DAJE SE SAGLASNOST DOO ,,CEDIS" PODGORICA, na ustanovljenje prava službenosti radi postavljanja elektrovodova za izgradnju TS 10/04 Kv Ćatovske livade sa priključnim 10Kv kablovskim vodom i uklapanje u NN mrežu, u skladu sa ovjerenim geodetskim elaboratom izrađenim od strane ,,GEO MAX GROUP" Podgorica broj 44/21 od 09.03.2021.godine i to preko dijela katastarskih parcela broj 1496/1 u površini od 96 m2, i dijela kat.parcele 2339/17 u površini od 5m2, obje upisane u listu nepokretnosti br. 344 KO Rožaje, Svojina Država Crna Gora sa pravom raspolaganja Opština Rožaje
