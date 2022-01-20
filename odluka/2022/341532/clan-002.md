@@ -1,0 +1,3 @@
+# Član 2
+NVO "Lovno-ribolovno društvo Komarnica" Šavnik obavezuje se na poštovanje odredbi Zakona o planiranju i izgradnji objekata, odnosno na izradu idejnog projekta za potrebe dobijanja saglasnosti na isti od nadležnog gradskog arhitekte, kao i na izradu i reviziju glavnog projekta za planirani objekat, obavezu plaćanja naknade za komunalno opremanje građevinskog zemljišta, obavezu pribavljanja svih propisanih odobrenja, kao i finansiranje izgradnje cjelokupnog objekta.
+Rok za izgradnju planiranog objekta je 3 godine od dana prijave građenja nadležnom inspekcijskom organu, u protivnom pokrenuće se postupak za prestanak vazenja Odluke.
