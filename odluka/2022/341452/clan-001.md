@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom utvrđuju se akustičke zone na teritoriji opštine Rožaje i lokacije koje su namijenjene za održavanje javnih skupova, zabavnih i sportskih priredbi i drugih aktivnosti na otvorenom prostoru koji mogu dovesti do prekoračenja graničnih vrijednosti buke u skladu sa postojećom i planiranom namjenom prostora, granične vrijednosti nivoa buke procijenjene u skladu sa izvorima buke koji se nalaze ili mogu nalaziti u određenoj zoni i njenoj neposrednoj blizini i o sprovođenju mjera zaštite i primjene graničnih vrijednosti buke.
