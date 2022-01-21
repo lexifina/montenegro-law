@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o utvrđivanju proizvoda i usluga koji se oporezuju po sniženoj stopi PDV ("Službeni list RCG", br. 81/05, 2/06 i 10/06 i "Službeni list CG", br. 6/08, 46/08, 11/09, 62/15, 69/15, 21/16, 32/16, 37/16, 58/16, 65/16, 1/17, 43/19, 51/19, 71/21, 93/21 i 143/21) u članu 2 stav 7 mijenja se i glasi:
+"Jogurt iz stava 6 ovog člana može biti koncentrisan ili aromatizovan i može sadržati dodati šećer ili druge materije za zaslađivanje, voće, orašaste plodove, kakao, čokoladu, začine, kafu ili ekstrakte kafe, biljke, dijelove biljaka, žitarice ili pekarske proizvode, pod uslovom da se svaka dodata materija ne koristi kao zamjena, za bilo koji mliječni sastojak, pri čemu proizvod zadržava bitnu osobinu jogurta."
