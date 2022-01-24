@@ -1,0 +1,2 @@
+Na osnovu člana 59 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 02/18, 34/19, 38/20), člana 42 Zakona o kulturi ("Službeni list CG", br. 49/08, 16/11 i 38/12), člana 24 stav 1 tačka 11 i člana 53 stav 1 tačka 14 Statuta opštine Tuzi ("Službeni list CG - Opštinski propisi", broj 24/19, 05/20), a u vezi sa članom 3 Odluke o privremenom uređenju odnosa između Glavnog grada i Opštine Tuzi do konačne raspodjele imovine za stvaranje uslova za rad opštineTuzi ("Službeni list CG - Opštinski propisa", broj 44/21), predsjednik Opštine Tuzi, donosi
+O D L U K U
