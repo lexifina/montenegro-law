@@ -1,0 +1,3 @@
+# Član 1
+## o prenosu prava svojine na gradjevinskom zemljištu
+PRENOSI SE bez naknade pravo svojine na gradjevinskom zemljištu Pravoslavnoj Eparhiji budimljansko - nikšićkoj, Crkvena opština Žabljak, i to urbanistička parcela broj 534a, na kojoj je pl-a-ni-rana izgradnja objekta - namjene vjerski objekat, spratnosti P, BGP 266 m2 u skladu sa Odlukom o izmjenama Detaljnog urbanističkog plana Žabljak ("Sl.ist CG-Opštinski propisi", broj 47/18) u katastru nepokretnosti označena kao katastarska parcela broj 3640/3, upisana u listu nepokretnosti broj 194 KO Žabljak 1, kao svojina Države Crne Gore sa pravom raspolaganja Opštine Žabljak.

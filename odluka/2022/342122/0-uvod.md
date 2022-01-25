@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 1 tačka 1 u vezi sa članom 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 2/18, 34/19 i 38/20), člana 32 stav 1 tačka 9 Statuta opštine Žabljak ("Sl.list CG-Opštinski propisi", br. 27/18) i člana 29 stav 2 i člana 34 stav 1 i 3 Zakona o državnoj imovini ("Sl.list CG", br. 21/09 i 40/11), Skupština opštine Žabljak, uz prethodnu saglasnost Vlade Crne Gore broj 04-3315 od 08.jula 2021.godine, na sjednici održanoj dana 29.12.2021. godine, donijela je
+O D L U K U
