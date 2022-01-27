@@ -1,0 +1,10 @@
+# Član 2
+U Prilogu 1 član 5 mijenja se i glasi:
+"Obaveza vođenja istrage
+Član 5
+1. Svaka nesreća ili ozbiljna nezgoda u kojoj je učestvovao vazduhoplov na koji se primjenjuju odredbe Regulative (EU) 2018/1139 Evropskog parlamenta i Savjeta od 04. jula 2018. godine je predmet sigurnosne istrage u državi članici u kojoj se nesreća ili ozbiljna nezgoda dogodila.
+2. Ako vazduhoplov iz stava 1 ovog člana, a koji je registrovan u državi članici doživi nesreću ili ozbiljnu nezgodu na mjestu za koje ne može sa sigurnošću da se odredi da li se nalazi na teritoriji neke države, sigurnosnu istragu sprovodi organ nadležan za sigurnosne istrage države članice u kojoj je vazduhoplov registrovan.
+3. Obim sigurnosnih istraga iz st. 1, 2 i 4 ovog člana i proceduru za sprovođenje istrage određuje organ nadležan za sigurnosne istrage, zavisno od posljedice nesreće ili ozbiljne nezgode i procjene o potrebi preduzimanja sigurnosnih mjera na osnovu sprovedene istrage, a u cilju unapređenja sigurnosti vazduhoplovstva.
+4. Organi nadležni za sigurnosne istrage mogu da odluče da sprovedu istragu i nezgode koja nije propisana u st. 1 i 2 ovog člana, kao i nesreće ili ozbiljne nezgode u kojima su učestvovali drugi tipovi vazduhoplova, u skladu sa nacionalnim zakonodavstvom država članica, kada procijene da će takvim istragama unaprijediti sigurnost.
+5. Izuzetno od st. 1 i 2 ovog člana organ nadležan za sigurnosne istrage može, u slučaju očekivanih saznanja u vezi sa unaprjeđenjem sigurnosti vazduhoplovstva, da odluči da ne pokrene istragu koja se odnosi na sigurnost kada se nesreća ili ozbiljna nezgoda odnosi na bespilotni vazduhoplov za koji se ne zahtijeva sertifikat ili izjava iz člana 56 st. 1 i 5 Regulative (EU) 2018/1139 Evropskog parlamenta i Savjeta od 04. jula 2018. godine, ili se odnosi na vazduhoplov sa posadom maksimalne mase na polijetanju od najviše 2.250kg u kojoj nema smrtno stradalih i ozbiljno povrijeđenih lica.
+6. Cilj sigurnosnih istraga iz st. 1, 2 i 4 ovog člana nije utvrđivanje krivice ili odgovornosti i ove istrage su nezavisne i odvojene od sudskih ili upravnih postupaka za utvrđivanje krivice ili odgovornosti i nemaju uticaja na iste.".
