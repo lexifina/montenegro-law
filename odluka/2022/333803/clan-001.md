@@ -1,0 +1,3 @@
+# Član 1
+U Odluci o preduzimanju privremenih mjera usljed pojave epidemije zarazne bolesti COVID-19 od većeg epidemiološkog značaja ("Službeni list CG", br. 141/21, 3/22 i 6/22) u članu 4 stav 1 tačka 3 alineja 6 mijenja se i glasi:
+"- dozvole izvođenje muzičkog programa do 23 sata uz učešće pjevača i muzičara, uz obavezu da pjevači i muzičari posjeduju jedan od dokaza iz člana 2 stav 1 ove odluke, kao i emitovanje muzike korišćenjem elektroakustične opreme (instrumenata, pojačala, DJ žurke i sl.) i akustičnih i elektroakustičnih uređaja unutar i na terasi/bašti ugostiteljskog objekta, uz poštovanje propisanih mjera,".
