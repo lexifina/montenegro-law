@@ -1,0 +1,2 @@
+# Član 3
+Za usluge podrške za život u zajednici usluge dnevnog boravka iz člana 1. ove odluke, shodno kriterijumima i mjerilima iz čl. 3 i 4. Pravilnika o kriterijumima i mjerilima za utvrđivanje cijene usluge podrške za život u Zajedniciusluge dnevnog boravka koja se pruža u JU Dnevni centar za djecu i omladinu sa smetnjama u razvoju "Lipa" Plav ("Sl. list CGOpštinski propisi", br. /21), utvrđuje se cijena u iznosu od 1.280,00€ po korisniku JU Dnevni centar za djecu i omladinu sa smetanjama u razvoju "Lipa" Plav, na mjesečnom nivou.
