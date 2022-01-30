@@ -1,0 +1,2 @@
+Na osnovu člana 53 Statuta opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 24/19 i 05/20), člana 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19 i 38/20), člana 5 stav 1 alineja 7 Odluke o osnivanju Društva sa ograničenom odgovornošću "Pijace/Tregu" Tuzi("Službeni list Crne Gore - Opštinski propisi", br.040/21), Skupština opštine Tuzi na sjednici održanoj dana 23.12.2021. godine donijela je
+O D L U K U
