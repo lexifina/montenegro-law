@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 i 22 Zakona o lokalnoj samoupravi (’’Sl.list Crne Gore’’ br 02/18, 34/19 i 38/20), člana 46 stav 1 tačka 2 i 22 Statuta opštine Bijelo Polje (’’Sl.list Crne Gore - Opštinski propisi’’, br. 19/18), člana 13 stav 1 alineja 3 Odluke o osnivanju JU Muzej Bijelo Polje ("Sl.list CG-Opštinski propisi" br. 19/16), Skupština opštine Bijelo Polje na sjednici održanoj 23.12.2021.godine donijela je
+O D L U K U
