@@ -1,0 +1,3 @@
+Na osnovu člana 26, stav 1 i 2 i člana 29 stav 2, tačka 7. Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16, 74/16, 2/18, 66/19 i 40/19), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18,34/19 i 38/20), člana 58 stav 1 tačka 2 Statuta opštine Ulcinj ("Sl. list Crne Gore - Opštinski propisi", broj 48/19), člana 11.stav 1. alineja 5.Odluke o osnivanju d.o.o Vodovod i kanalizacija (Sl.list CG br 31/16 i 48/18) opštine Ulcinj, na sjednici održanoj dana 30.12.2021.godine, donijela je
+O D L U K U
+o davanju saglasnosti na Program rada DOO "Vodovod i kanalizacija" Ulcinj za 2022.
