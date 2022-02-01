@@ -1,0 +1,2 @@
+# Član 3
+Nepokretnosti iz člana 1 ove Odluke prodaju se po cijeni od 181,12 €/m2, što ukupno iznosi 15.757,44 €, shodno Izvještaju o procjeni tržišne vrijednosti urbanizovanog zemljišta u zahvatu DUP-a "Topolica - Bjeliši", izmjene i dopune, sačinjenom od strane sudskog vještaka i MRICS, REV procjenjivača nekretnina, mr Zorana Senića iz Podgorice, protokolisanog kod Opštine Bar pod brojem br. 04-427/21-1478 od 23.12.2021. godine.
