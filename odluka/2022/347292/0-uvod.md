@@ -1,0 +1,2 @@
+Na osnovu člana 59 Zakona o loklanoj samoupravi sl.CG. br. 2/18, člana 8 , a u vezi sa članom 38 Zakona o Spomen-obilježima ("Službeni list CG", br. 40/08, 40/11 i 02/17), i člana 42 Statuta opštine Ulcinj ("Službeni list CG - Opštinski propisi", br. 5/07, 9/09, 16/11), na osnovu prethodne saglasnosti Ministarstva kulture broj UP I 01-28/4 od 07.03.2019. godine, Skupštine Opštine Ulcinj, dana 30.12.2021 godine , donosi
+O D L U K U
