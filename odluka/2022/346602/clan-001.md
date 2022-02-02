@@ -1,0 +1,8 @@
+# Član 1
+## o izboru Odbora direktora d.o.o. "Vodovod i kanalizacija" Bar
+Bira se Odbor direktora d.o.o. "Vodovod i kanalizacija" Bar, u sastavu:
+1.Jakup Đeljošević, član
+2. Antoneta Janković, član
+3. dr Radovan Orlandić, član,
+4. Afrim Berjašević, član
+5. Milica Bulatović, član.
