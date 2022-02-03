@@ -1,0 +1,5 @@
+# Član 5
+Starješina, rukovodilac, odnosno vršilac dužnosti starješine ili rukovodioca organa uprave i stručne službe Glavnog grada uskladiće akt o unutrašnjoj organizaciji i sistematizaciji organa uprave i stručne službe sa ovom odlukom u roku od 15 dana od dana stupanja na snagu ove odluke.
+Raspoređivanje službenika i namještenika u organu uprave i službi iz stava 1 ovog člana izvršiće se nakon davanja saglasnosti gradonačelnika na akt iz stava 1 ovog člana i isteka roka od osam dana od njegovog objavljivanja na oglasnoj tabli organa uprave i stručne službe Glavnog grada.
+Lokalni službenici i namještenici koji su raspoređeni u organu uprave na poslovima koji su ukinuti u skladu sa ovom odlukom, nastavljaju da obavljaju te poslove do donošenja rješenja o njihovom raspoređivanju u stručnu službu, koja je preuzela ukinute poslove.
+Lokalni službenici i namještenici koji ne budu raspoređeni u skladu sa stavom 2 ovog člana, ostvaruju prava propisana zakonom kojim je uređen sistem lokalne samouprave.
