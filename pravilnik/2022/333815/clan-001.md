@@ -1,0 +1,3 @@
+# Član 1
+## ORGANIZACIJA I OSOBLjA KOJI OBAVLjAJU OVE POSLOVE
+U Pravilniku o kontinuiranoj plovidbenosti vazduhoplova i vazduhoplovnih proizvoda, djelova i uređaja i o odobravanju organizacija i osoblja koji obavljaju ove poslove ("Službeni list CG", br. 57/15, 69/15, 32/19, 108/20, 33/21 i 116/21), u Prilogu 5 član 4 st. 2, 4 i 5 rok važenja odobrenja organizacija uključenih u kontinuiranu plovidbenost koja se izdaju u skladu sa zahtjevima Odjeljka F i Odjeljka G Aneksa I (Dio-M) i rok usaglašavanja sa Aneksom Vd (Dio-CAO) i Aneksom Vc (Dio-CAMO), koji je utvrđen do 1. februara 2022. godine, utvrđuje se do 24. marta 2023. godine.
