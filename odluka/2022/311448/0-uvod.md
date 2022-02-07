@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 i člana 34 stav 1 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), člana 33 stav 2, člana 34 stav 1, člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 034/19), člana 30 stav 2, člana 31 stav 1 i člana 53 stav 1 tačka 2 Statuta opštine Tuzi ("Službeni list CG- Opštinski propisi", br. 24/19 i 05/20), na sjednici Skupštine opštine Tuzi održanoj dana 23.12.2021. godine donijeta je
+O D L U K A
