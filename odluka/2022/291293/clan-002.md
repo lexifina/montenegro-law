@@ -1,0 +1,3 @@
+# Član 2
+Pravo na naknadu troškova jednog postupka medicinski potpomognute oplodnje mogu ostvariti muškarac i žena koji žive u bračnoj ili vanbračnoj zajednici i koji, s obzirom na iskustva medicinske struke i preduzete načine liječenja, ne mogu očekivati da će doći do trudnoće prirodnim putem, koji su iskoristili pravo na obavezno finansiranje postupaka medicinski potpomognute oplodnje u skladu sa zakonom kojim se propisuje obavezno zdravstveno osiguranje .
+Pravo na naknadu troškova mogu ostvariti bračni odnosno vanbračni drugovi iz stava 1 ovog člana koji imaju mjesto prebivališta na teritoriji opštine Bijelo Polje u tajanju od najmanje 12 mjeseci.
