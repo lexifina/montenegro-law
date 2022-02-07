@@ -1,0 +1,2 @@
+Na osnovu člana 24 i 25 Zakona o izboru odbrornika i poslanika ("Sl.list RCG" br. 4/98, 5/98,17/98,14/00, 18/00, 73/00, 9/01, 41/02, 46/02, 45/04, 48/06,56/06 i "Sl.list CG" br.46/11, 14/14, 47/14, 12/16, 10/18 i 109/20) i člana 46 stav 1 tačka 2 Statuta opštine Bijelo Polje ("Sl.list CG- Opštinski propisi" br. 19/18), Skupština opštine Bijelo Polje, na sjednici održanoj 23.12.2021. godine donijela je
+O D L U K U
