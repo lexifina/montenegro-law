@@ -1,0 +1,2 @@
+Na osnovu člana 26 stav 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br.55/16, 74/16, 02/18 i 6/19),člana 46 stav 1 tačka 2 Statuta opštine Bijelo Polje ("Službeni List Crne Gore Opštinski propisi br. 19/18) i člana 10 stav 1 alineja 3 Odluke o osnivanju D.O.O. Vodovod "Bistrica" Bijelo Polje ("Sl.list CG-Opštinski propisi" br.32/13), Skupština opštine Bijelo Polje na sjednici održanoj dana 23.12. 2021. godine, donijela je
+O D L U KU
