@@ -1,0 +1,304 @@
+# Član 10
+Za prekoračenje ukupne mase vozila ili skupa vozila iznad 40 t, odnosno iznad 44 t za troosovinsko motorno vozilo sa dvoosovinskom ili troosovinskom poluprikolicom kada se prevozi 40-stopni ISO kontejner kao kombinovana prevozna operacija, plaća se naknada u iznosu datom u Tabeli 1.
+Za prekoračenja veća od 160 t obračunava se 110,00€/km + 1,00€ za svaku sledeću tonu.
+Za prekoračenja ukupne mase vozila ili skupa vozila iz stava 1 ovog člana, čije se vrijednosti završavaju do ≤ 0,5 t, obračunavaju se na manju cijelu vrijednost, a prekoračenja ukupne mase čije se vrijednosti završavaju iznad 0,5 t, obračunavaju se na veću cijelu vrijednost.
+Tabela 1. Naknada za prekoračenje ukupne mase vozila i skupa vozila iznad 40 t, odnosno iznad 44 t.
+Prekoračenje >40 t (44 t)
+Naknada
+€/km
+Prekoračenje
+>40 t (44 t)
+Naknada
+€/km
+Prekoračenje
+>40 t (44 t)
+Naknada
+€/km
+Prekoračenje>
+40 t (44 t)
+Naknada
+€/km
+1
+0,06
+21
+1,95
+41
+7,26
+61
+16,01 2
+0,07
+22
+2,13
+42
+7,62
+62
+16,53 3
+0,09
+23
+2,32
+43
+7,98
+63
+17,07 4
+0,12
+24
+2,52
+44
+8,36
+64
+17,62 5
+0,16
+25
+2,74
+45
+8,74
+65
+18,17 6
+0,21
+26
+2,95
+46
+9,13
+66
+18,73 7
+0,25
+27
+3,18
+47
+9,53
+67
+19,30 8
+0,33
+28
+3,42
+48
+9,93
+68
+19,88 9
+0,40
+29
+3,66
+49
+10,35
+69
+20,47 10
+0,48
+30
+3,91
+50
+10,77
+70
+21,06 11
+0,57
+31
+4,17
+51
+11,21
+71
+21,67 12
+0,67
+32
+4,45
+52
+11,66
+72
+22,28 13
+0,78
+33
+4,72
+53
+12,10
+73
+22,90 14
+0,90
+34
+5,01
+54
+12,56
+74
+23,53 15
+1,02
+35
+5,31
+55
+13,02
+75
+24,17 16
+1,15
+36
+5,61
+56
+13,50
+76
+24,82 17
+1,29
+37
+5,93
+57
+13,98
+77
+25,47 18
+1,44
+38
+6,25
+58
+14,48
+78
+26,14 19
+1,60
+39
+6,58
+59
+14,98
+79
+26,81 20
+1,77
+40
+6,92
+60
+15,49
+80
+27,49
+Prekoračenje >40 t (44 t)
+Naknada
+€/km
+Prekoračenje
+>40 t (44 t)
+Naknada
+€/km
+Prekoračenje
+>40 t (44 t)
+Naknada
+€/km
+Prekoračenje>
+40 t (44 t)
+Naknada
+€/km 81
+28,18
+101
+43,79
+121
+62,82
+141
+85,29 82
+28,88
+102
+44,66
+122
+63,86
+142
+86,50 83
+29,59
+103
+45,54
+123
+64,92
+143
+87,72 84
+30,31
+104
+46,43
+124
+65,97
+144
+88,95 85
+31,03
+105
+47,32
+125
+67,04
+145
+90,19 86
+31,76
+106
+48,23
+126
+68,12
+146
+91,44 87
+32,50
+107
+49,14
+127
+69,20
+147
+92,67 88
+33,25
+108
+50,06
+128
+70,30
+148
+93,96 89
+34,01
+109
+50,99
+129
+71,40
+149
+96,52 90
+34,78
+110
+51,93
+130
+72,51
+150
+97,81 91
+35,56
+111
+52,88
+131
+73,63
+151
+99,10 92
+36,34
+112
+53,83
+132
+74,75
+152
+99,10 93
+37,14
+113
+54,80
+133
+75,89
+153
+100,41 94
+37,94
+114
+55,77
+134
+77,04
+154
+101,73
+38,75
+56,75
+78,19
+103,05
+39,57
+57,74
+79,35
+104,39
+40,39
+58,74
+80,52
+105,73
+41,23
+59,75
+81,70
+107,08 99
+42,07
+119
+60,76
+139
+82,89
+159
+108,44 100
+42,93
+120
+61,79
+140
+84,08
+160
+110,00
