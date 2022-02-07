@@ -1,0 +1,2 @@
+# Član 29
+Pravo na podsticaje ostvaruju fizička i pravna lica registrovana za obavljanje poljoprivredne djelatnosti kao i odgovarajuće NVO čiji su ciljevi i djelatnost poljoprivreda i koja imaju prebivalište, odnosno sjedište na području opštine Tuzi (u daljem tekstu: korisnici), koji poljoprivrednu djelatnost obavljaju na teritoriji Opštine Tuzi osim pčelara koji mogu da imaju seleće pčelinjake u drugim opštinama.
