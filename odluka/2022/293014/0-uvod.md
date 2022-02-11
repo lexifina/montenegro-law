@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 i 22 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore’’, br 02/18, 34/19 i 38/20), člana 46 stav 1 tačka 2 i 22 Statuta opštine Bijelo Polje (’’Sl.list Crne Gore - Opštinski propisi’’, br. 19/18), člana 11 stav 1 alineja 3 Odluke o osnivanju JU "Ratkovićeve večeri poezije" ("Sl.list CG-Opštinski propisi" br. 14/12 i 38/20), Skupština opštine Bijelo Polje na sjednici održanoj 31.01.2022.godine donijela je
+O D L U K U
