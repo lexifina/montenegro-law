@@ -1,0 +1,2 @@
+# Član 5
+U članu 82 Odluke poslije stava 1 dodaje se stav 2 koji glasi: "Predsjednik opštine utvrdiće prestanak mandata srarešini organa koji je prestao da postoji danom stupanja na snagu Odluke o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave Opštine Herceg Novi i imenovaće vršioca dužnosti novoformiranog organa Sekretarijata za turizam, ekonomski razvoj i investicije, koji je dužan da u roku od 90 dana donese akt o unutrašnjoj organizaciji i sistematizaciji radnih mjestai dostavi predsjedniku opštine na saglasnost".
