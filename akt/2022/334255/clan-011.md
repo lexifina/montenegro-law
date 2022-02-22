@@ -1,0 +1,3 @@
+# Član 11
+## Ostali prihodi
+Ostali prihodi su prihodi od obavljanja neenergetske djelatnosti, prihodi od premija, subvencija, donacija, prihodi od naknada za pružanje usluga evidentiranja bilateralnih ugovora i drugi prihodi koji nijesu posebno specificirani, a mogu se pojaviti u poslovanju operatora tržišta.
