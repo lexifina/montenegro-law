@@ -1,0 +1,3 @@
+Na osnovu člana 223 stav 2 Zakona o planiranju prostora i izgradnji objekata ("Sl.list CG", br. 64/17,44/18,63/18 i 82/20) člana 58 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18), člana 57 i 60 Statuta opštine Berane ("Sl. list RCG- Opštinski propisi", br.21/04 i 34/06 i "Sl.list CG-opštinski propisi br. 6/11) i člana 2 i 3 Odluke o lokalnim objekata od opšteg interesa ("Sl. list CG - Opštinski propisi", br. 41/21), Predsjednik opštine Berane, donosi:
+O D L U K U
+o određivanju lokacije sa elementima urbanističko - tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa -TS 10/0,4kV, 2x1000kVA, sa priključim kablovskim vodom i uklapanjem u 10kV mrežu na stubu DV 10kV "Kaludra"
