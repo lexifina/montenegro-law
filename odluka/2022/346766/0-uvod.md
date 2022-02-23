@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 i 33 stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), člana 24 stav 2 Zakona o mladima ("Službeni list CG", br. 25/19), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20), člana 32, stav 1, tačla 9 Statuta opštine Petnjica ("Službeni list CG - Opštinski propisi", br. 29/18) Skupština opštine Petnjica, na sjednici održanoj 02.02.2022. godine, donosi
+O D L U K U
