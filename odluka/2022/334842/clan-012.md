@@ -1,0 +1,3 @@
+# Član 12
+Kada Centralna banka utvrdi da je kreditna institucija nepravilno obračunala i/ili izdvojila obaveznu rezervu ili je nije izdvojila u roku iz člana 7 ove odluke, odnosno da ne održava obaveznu rezervu u propisanom iznosu, kreditna institucija je dužna da za utvrđeni iznos nepravilno obračunate ili neblagovremeno izdvojene obavezne rezerve mjesečno plaća naknadu, po stopi utvrđenoj posebnim propisom Centralne banke.
+Kreditna institucija je dužna da na iznos sredstava obavezne rezerve koji koristi u skladu sa članom 9 stav 1 ove odluke a koji ne vrati istog dana, plaća mjesečno naknadu po stopi iz stava 1 ovog člana.
