@@ -1,0 +1,5 @@
+Na osnovu člana 66a stav 7 Zakona o koncesijama ("Službeni list CG", br. 8/09 i 73/19), Vlada Crne Gore na sjednici od 2. februara 2022. godine, donijela je
+U R E D B U
+O NAČINU UTVRĐIVANjA KONCESIONE NAKNADE ZA PRIVREDNO DRUŠTVO ILI
+PRAVNO LICE KOJE KORISTI VODNU AKUMULACIJU I/ILI VODOTOK ZA
+PROIZVODNjU ELEKTRIČNE ENERGIJE U HIDROELEKTRANAMA
