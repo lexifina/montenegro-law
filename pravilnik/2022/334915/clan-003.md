@@ -1,0 +1,3 @@
+# Član 3
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+*U ovaj Pravilnik prenijete su odredbe priloga IV, dio ll, poglavlje 1 DELEGIRANE REGULATIVE KOMISIJE (EU) 2020/689 оd 17. decembra 2019. o dopuni Regulative (EU) 2016/429 Evropskog parlamenta i Vijeća u pogledu pravila o nadzoru, programima iskorjenjivanja i statusu "slobodno od bolesti" za određene bolesti sa liste i emergentne bolesti/ COMMISSION DELEGATED REGULATION (EU) 2020/689 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for surveillance, eradication programmes, and disease-free status for certain listed and emerging diseases
