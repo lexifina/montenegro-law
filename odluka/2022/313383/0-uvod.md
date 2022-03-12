@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 02/18, 34/19, 38/20) i člana 32 stav 1 tačka 1, a shodno članu 130 Statuta opštine Petnjica ("Službeni list Crne Gore - opštinski propisi", br. 029/18) i članu 121 Poslovnika Skupštine opštine Petnjica ("Sl. list CG - Opštinski propisi", br. 3/2019) Skupština opštine Petnjica, na sjednici održanoj dana 18.02.2022. godine, donijela je
+O D L U K A
