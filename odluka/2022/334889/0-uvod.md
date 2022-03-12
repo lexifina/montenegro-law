@@ -1,0 +1,6 @@
+Na osnovu člana 14 Zakona o eksproprijaciji ("Službeni list RCG", br. 55/00, 12/02 i 28/06 i "Službeni list CG", br. 21/08, 30/17 i 75/18), Vlada Crne Gore, na sjednici od 1. decembra 2021. godine, donijela je
+ODLUKU
+O UTVRĐIVANjU JAVNOG INTERESA ZA POTPUNU EKSPROPRIJACIJU
+NEPOKRETNOSTI, RADI REALIZACIJE PROJEKTA IZGRADNJE NDTS 10/0,4
+KV, 2 X 630 KVA "TRGOMEN-NOVA" SA UKLAPANjEM U 10 KV MREŽU, KO
+BANDIĆI, OPŠTINA DANILOVGRAD
