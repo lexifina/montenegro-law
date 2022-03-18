@@ -1,0 +1,2 @@
+# Član 28
+Glavni administrator, u koordiniranju rada organa lokalne uprave i službi, stara se o ostvarivanju međusobnih odnosa i saradnje organa i usklađenosti njihovog rada, obezbjeđuje izvršenje akata gradonačelnika koje donosi u ostvarivanju funkcija usmjeravanja i usklađivanja rađa i vršenja nadzora nad radom organa uprave, predlaže, preduzima mjere i upozorava starješinu organa kada organ uprave ne vrši poslove iz svog djelokruga na zakonit, efikasan i ekonomičan način.

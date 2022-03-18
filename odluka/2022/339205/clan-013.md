@@ -1,0 +1,26 @@
+# Član 13
+Sekretarijat za obrazovanje, sport i mlade vrši poslove uprave koji se odnose na:
+- davanje mišljenja i sugestija na predlog Nacionalnog programa razvoja sporta;
+- pripremu Strategije razvoja sporta Prijestonice u skladu sa zakonom;
+- pripremu godišnjeg plana ostvarivanja Programa razvoja sporta Prijestonice;
+- stvaranje uslova za razvoj i unapređenje sporta djece, omladine i građana, školskih, studentskih i masovnih sportova, obezbjeđivanje podrške u skladu sa zakonom, podsticanje aktivnosti lica sa invaliditetom;
+- pripremu prijedloga odluke o osnivanju Savjeta za sport;
+- davanje mišljenja na Elaborat o transformaciji amaterskog sportskog kluba u profesionalni klub u skladu sa zakonom;
+- podršku u radu ustanova iz oblasti sporta kojima je Prijestonica osnivač; podršku u organizaciji sportskih manifestacija od lokalnog, međuopštinskog i međunarodnog značaja; dodjeljivanje nagrada i priznanja u oblasti sporta; sufinansiranje sportskih programa rada sportskih subjekata putem javnog konkursa;
+- preduzimanje i realizovanje svih aktivnosti u vezi sa primjenom propisa Prijestonice o dodjeli stipendija studentima i učestvovanje u podsticanju i vrednovanju daljeg školovanja talentovane i nadarene omladine;
+- učestvovanje u pripremi i realizaciji manifestacija u oblasti obrazovanja;
+- ostvarivanje saradnje sa osnovnim i srednjim školama u Prijestonici, kao i sa državnim organima u cilju nagrađivanja uspješnih i darovitih učenika koji su postigli vrhunske rezultate na takmičenjima u zemlji i inostranstvu u oblasti tehnike, nauke, umjetnosti i sporta;
+- ostvarivanje saradnje sa nevladinim organizacijama čiji programski sadržaji zadovoljavaju potrebe i interese mladih;
+- vršenje stručnih poslova u cilju unapređenja položaja mladih, odnosno priprema predloga odluka, kao i predlaganje podsticajnih mjera za unapređenje položaja mladih, davanje mišljenja na akta kojima se utiče na poboljšanje položaja mladih;
+- praćenje i unapređenje rada dječijih i omladinskih organizacija;
+- pripremu lokalne strategije za mlade u Prijestonici u skladu sa zakonom;
+- pružanje podrške kvalitetnim i kreativnim projektima koji su u vezi sa vannastavnim i vanistitucionalnim aktivnostina učenika i mladih (kampovi, likovne kolonije, takmičenja), koji su u vezi sa unapređenjem uslova rada za afirmaciju darovitih mladih talenata Prijestonice;
+- vršenje upravnog nadzora i poslova u vezi sa ostvarivanjem prava osnivača prema javnim službama čiji je osnivač Prijestonica, u oblastima iz svoje nadležnosti; davanje mišljenja i priprema akta o davanju saglasnosti na statut, program rada i akt o unutrašnjoj organizaciji i sistematizaciji, davanje mišljenja i predlaganje mjera u vezi sa informativnim i drugim materijalima tih javnih službi;
+- ostvarivanje neposredne saradnje sa nevladinim organizacijama iz ove oblasti;
+- pripremu, za oblasti za koje je osnovan, informativnih i drugih stručnih materijala za Skupštinu i gradonačelnika; organe državne uprave, medije i sl. iz djelokruga organa; pripremu mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa i tumačenja propisa Prijestonice u ovim oblastima;
+- praćenje realizacije investicionih programa koje finansira Prijestonica u oblastima iz nadležnosti ovog organa;
+- rješavanje po inicijativama građana iz djelokruga organa;
+- vođenje propisanih evidencija iz ovih oblasti kao i drugih evidencija u skladu sa zakonom;
+- pripremu godišnjeg i drugih izvještaja za glavnog administratora o rješavanju upravnih stvari iz svoje nadležnosti;
+- slobodan pristup informacijama iz djelokruga organa;
+- druge poslove iz svog djelokruga, u skladu sa zakonom i drugim propisima.

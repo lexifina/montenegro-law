@@ -1,0 +1,3 @@
+# Član 26
+Rad organa i službi lokalne uprave organizuje se u skladu sa zakonom, propisima i drugim aktima Prijestonice, na način kojim se obezbjeđuje zakonito, efikasno i ekonomično vršenje poslova, javnost i transparentnost u radu, podsticanje i uključivanje građana u proces odlučivanja, jačanje profesionalnosti u radu i odgovornosti za vršenje poslova.
+Gradonačelnik, u ostvarivanju funkcije usmjeravanja i usklađivanja rada organa lokalne uprave i vršenja nadzora nad njihovim radom, donosi odluke, upustva, pravilnike, naredbe, rješenja, zaključke i slično, kojim se propisuje način vršenja poslova, usmjeravanja i koordiniranja rada lokalne uprave, obrazovanja stručnih savjeta, komisija, način izrade programa rada, podnošenje izvještaja o radu i drugo.

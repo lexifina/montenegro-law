@@ -1,0 +1,30 @@
+# Član 23
+Služba gradonačelnika vrši stručne i druge poslove za gradonačelnika, zamjenike gradonačelnika, stručna radna tijela gradonačelnika i drugih poslova iz nadležnosti gradonačelnika, i to:
+- izrađuje Program rada; priprema Poslovnik o radu; učestvuje u izradi propisa kojima se utvrđuje organizacija i način rada organa uprave Prijestonice; priprema odluke, zaključke i druga akta koja donosi gradonačelnik; prati realizaciju zaključaka gradonačelnika i Savjeta gradonačelnika i izrađuje izvještaj o realizaciji tih zaključaka;
+- priprema sastanke gradonačelnika i zamjenika gradonačelnika i stara se o realizaciji zaključaka sa tih sastanaka;
+- učestvuje u izradi smjernica za ostvarivanje planova i programa razvoja Prijestonice i učestvuje u izradi Programa rada Skupštine Prijestonice;
+- priprema izvještaj gradonačelnika o njegovom radu i ostvarivanju funkcija lokalne samouprave na osnovu izvještaja organa lokalne uprave i javnih službi;
+- učestvuje u izradi ugovora o realizaciji sporazuma koje zaključuje Prijestonica i Vlada Crne Gore;
+- po pribavljenom izjašnjenju nadležnog organa uprave, priprema mišljenje o predlogu odluka i drugih akata koje Skupštini podnesu drugi predlagači;
+- obezbjeđuje materijale i preko biroa za odnose sa javnošću organizuje saradnju sa novinarima u vezi sa obavještavanjem javnosti o radu organa Prijestonice;
+- obavlja poslove u vezi sa ostvarivanjem saradnje sa državnim organima, Glavnim gradom, drugim opštinama i ostvarivanje međunardne saradnje;
+- protokolarne poslove za potrebe gradonačelnika, zamjenika gradonačelnika i organizuje proslavu praznika;
+- postupa po predstavkama i pritužbama građana upućenih gradonačelniku; utvrđuje činjenice o osnovanosti predstavki i pritužbi i priprema odgovore; postupa po predstavkama koje državni organi upućuju gradonačelniku radi utvrđivanja činjenica, odnosno rješavanja pitanja koja su predmet tih predstavki;
+- obavlja stručne i administrativno-tehničke poslove za Savjet gradonačelnika i druga radna tijela koja obrazuje gradonačelnik za poslove iz svog djelokruga rada;
+- čuva izvornike svih akata koje donosi gradonačelnik;
+- pripremu i implementaciju projekata finansiranih od strane međunarodnih organizacija;
+- Predlaganje i učestvovanje u pripremi i realizaciji planova i programa razvoja opštine kojima se podstiče ekonomski razvoj;
+- preduzetnička inicijativa i javno-privatno partnerstvo;
+- obezbjeđivanje zaštite životne sredine i održivi razvoj;
+- priprema i upravlja projektima koji se finansiraju iz međunarodnih fondova i drugih izvora, prati njihovu realizaciju;
+- priprema informacije i izvještaje o realizaciji projekata;
+- uspostavlja i vodi bazu podataka o planovima, programima i projektima;
+- inicira izmjene i dopune propisa koji otežavaju poslovnu inicijativu;
+- poslovi glavnog gradskog arhitekte, i to:davanje saglasnosti na tehničku dokumentaciu- idejno rješenje zgrade,trga,skvera,šetališta ili gradskog parka u pogledu usaglašenosti sa smjernicama za oblikovanje I materijalizaciju I osnovnim urbanističkim parametrima,davanje saglasnosti na idejno rješenje arhitektonskog projekta privremenog objekta za koji se izrađuje glavni projekat u odnosu na Program privremenih objekata koji je usklađen sa državnim smjernicama razvoja arhitekture,izrada projektnog zadatkaza urbanistički projekat,učestvovanje u procedure donošenja urbanističkih projekata,davanje saglasnosti na Program privremenih objekatau dijelu oblikovanja I materijalizacije,utvrđivanje smjernica za usklađivanje spoljnog izgleda bespravnih objekata,izdavanje potvrde o usklađenosti izgleda bespravnog objektasa smjernicama za usklađivanje spoljnog izgleda iz planskog dokumenta,odnosno smjernicama glavnog gradskog arhitekte,za potrebe izrade izvještaja o stanju uređenja prostora dostvljanje izvještaja nadležnom ministarstvu sa potrebnim podacima iz djelokruga svoga rada,učestvovanje u u odlučivanju po zahtjevima za Slobodan pristup informacijama, objavljivanje odlu-ka iz djelokruga svoga rada;
+- U skladu sa Zakonom o javnim nabavkama: planiranje javne nabavke, sprovođenje postupka javne nabavke, izrada tenderske dokumentacije i drugih dokumenata, izrada ugovora o javnoj nabavci i praćenje realizacije ugovora o javnoj nabavci, kao i drugi poslovi povezani sa postupkom javne nabavke.;
+- pripremu informativnih i drugih stručnih materijala za Skupštinu i gradonačelnika; pripremu stručnih mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti propisa Prijestonice i tumačenja propisa Prijestonice u ovim oblastima;
+- saradnju sa nevladinim organizacijama iz djelokruga svoga rada;
+- rješavanje po inicijativama građana iz djelokruga organa;
+- vođenje propisanih evidencija iz ovih oblasti kao i drugih evidencija u skladu sa zakonom;
+- slobodan pristup informacijama iz djelokruga organa;
+- druge poslove koje odredi gradonačelnik.

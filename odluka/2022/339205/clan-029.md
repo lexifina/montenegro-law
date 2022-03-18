@@ -1,0 +1,3 @@
+# Član 29
+Starješina organa je dužan da obezbijedi zakonit, efikasan i ekonomičan rad organa, da postupa po aktima glavnog administratora na način i u rokovima koje utvrdi, stara se o ostvarivanju utvrđenih oblika saradnje sa građanima, nevladinim organizacijama i različitim interesnim grupama, naročito kada je u pitanju prikupljanje potreba građana i u postupku javne rasprave povodom propisa i razvojnih dokumenata u oblastima koje su u djelokrugu organa.
+Starješina organa je dužan da se u radu i postupanju pridržava Etičkog kodeksa izabranih predstavnika i funkcionera u lokalnoj samoupravi Prijestonice; da zaposlene upozna sa Etičkim kodeksom službenika i namještenika Prijestonice i od njih pribavi propisane izjave o prihvatanju pravila Etičkog kodeksa.

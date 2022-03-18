@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom utvrđuje se organizacija i način rada lokalne uprave Prijestonice, obrazuju organi lokalne uprave, posebne službe i službe koje vrše zajedničke i stručne poslove za potrebe Prijestonice (u daljem tekstu: stručne službe), uređuje njihov djelokrug, način rada, kriterijumi za unutrašnju organizaciju i sistematizaciju organa lokalne uprave i službi i druga pitanja od značaja za rad lokalne uprave.

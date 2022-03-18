@@ -1,0 +1,4 @@
+# Član 27
+Organi uprave dužni su da na vidnom mjestu istaknu standarde postupanja koji su od značaja za ostvarivanje prava i izvršavanje obaveza građana, Etički kodeks lokalnih službenika i namještenika, radno vrijeme i vrijeme prijema građana, uslove i način ostvarivanja prava i izvršavanja obaveza, lična imena i službena svojstva službenika ovlašćena za preduzimanje radnji.
+Radi učešća građana u procesu odlučivanja, organi uprave dužni su da postupaju u skladu sa propisom Skupštine Prijestonice kojim je regulisano ovo pitanje.
+Za dostavu akata propisanih zakonom radi objavljivanja, uključujući i procjenu analize uticaja odluka i drugih propisa (RIA) koje donosi skupština i gradonačelnik na način i po postupku propisanom Statutom Prijestonice, neposredno je odgovoran starješina organa uprave i službe.

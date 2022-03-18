@@ -1,0 +1,27 @@
+# Član 10
+Sekretarijat za uređenje prostora i zaštitu životne sredine vrši poslove uprave koji se odnose na:
+- Priprema i sprovođenje opštinskih propisa u oblastima za koje je organ obrazovan (izgradnja pomoćnih objekata, postavljanje, građenje i uklanjanje lokalnih objekata od opšteg interesa, postavljanje, građenje i uklanjanje pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom do donošenja plana generalne regulacije Crne Gore, u skladu sa zakonom;
+- pripremu i praćenje izrade lokalne planske dokumentacije do donošenja plana generalne regulacije Crne Gore, predlaganje smjernica za programski zadatak i pripremnih poslova na izradi lokalne planske dokumentacije u skladu sa zakonom, praćenje i sprovođenje državnih planskih dokumenata u okviru nadležnosti organa,izrada i donošenjeplanskih okumenata po posebnom postupku u skladu sa zakonom;
+- izdavanje izvoda iz pklanskog dokumenta za protor u granicama lokalnog planskog dokumenta, u skladu sa zakonom;
+- izrada i sprovođenje Programa privremenih objekata i programa o stanju uređenja prostora do donošenja plana generalne regulacije Crne Gore;
+- sprovođenje upravnih postupaka za: izdavanje građevinske dozvole, odnosno odobrenja za izgradnju, rekonstrukciju, postavljanje ili uklanjanje objekata za koje je nadležan do okončanja započetih postupaka i izdavanje upotrebne dozvole za te objekte; legalizaciju bespravnih objekata; pretvaranje posebnog i zajedničkog dijela stambene zgrade u poslovnu prostoriju, odnosno poslovne prostorije u posebni ili zajednički dio stambene zgrade; plaćanje naknade za uređenje građevinskog zemljišta; naknade za urbanu sanaciju;
+- sistematizovanje i utvrđivanje liste bespravnih objekata za koje nije podnijet zahtjev ili nijesu ispunili uslov za legalizaciju i dostavljanje iste nadležnom inspekcijskom organu i organu lokalne uprave nadležnom za donošenje rješenja o alternativnom smještaju, u skladu sa zakonom;
+- izdavanje urbanističko-tehničkih i urbanističkih uslova u skladu sa zakonom;
+- vođenje dokumentacione osnove o prostoru, čuvanje dokumentacije, uspostavljanje elektronske komunikacije;
+- izradu nacrta i prijedloga odluka i drugih opštih akata iz nadležnosti Sekretarijata;
+- izrada i praćenje lokalnog plana zaštite životne sredine i dostavljanje podataka o stanju životne sredine;
+- izrada i praćenje lokalnog plana biodiverziteta sa akcionim planom, dostavljanje izvještaja o stanju prirode;
+- praćenje zakona o strateškoj procjeni uticaja na životnu sredinu i sprovođenje upravnog postupka za izdavanje saglasnosti na izvještaj o strateškoj procjeni uticaja na životnu sredinu;
+- izrada lokalnog akcionog plana zaštite od radona u skladu sa zakonom o zaštiti od jonizujućeg zračenja i radijacionoj i nuklearnoj sigurnosti i bezbjednosti;
+- sprovođenje upravnog postupka procjene uticaja na životnu sredinu; odlučivanje po zahtjevima o potrebi izrade elaborata procjene uticaja na životnu sredinu, odlučivanje po zahtjevima za određivanje obima i sadržaja elaborata procjene uticaja na životnu sredinu; odlučivanje po zahtjevima o davanju saglasnosti na elaborat procjene uticaja na životnu sredinu; obavještavanje javnosti i zainteresovane javnosti; organizovanje i vođenje javne rasprave i održavanje javne tribine; donošenje odluka o obrazovanju komisije za utvrđivanje obima i sadržaja elaborata i ocjenu elaborata; vođenje evidencije o postupcima potrebe izrade elaborata procjene uticaja, obima i sadržaja elaborata i o davanju saglasnosti i odbijanju zahtjeva za davanje saglasnosti u obliku glavne i javne knjige;
+- određivanje akustičkih zona, izrada karata buke i dostavljanje podataka akustičkih zona; utvrđivanje ispunjenosti uslova i mjera zaštite od buke u tehničkoj dokumentaciji za objekte za koje se izrađuje procjena uticaja na životnu sredinu;
+- poslove zaštite i poboljšanja kvaliteta vazduha na teritoriji Prijestonice;
+- vođenje postupka izrade Studija zaštite-revizije za proglašenje zaštićenih prirodnih dobara na teritoriji opštine, obavještavanje zainteresovane javnosti o početku pripreme akata o proglašenju zaštićenog prirodnog dobra;
+- izdavanje uslova i mjera za zaštitu životne sredine;
+- pripremu godišnjeg i drugih izvještaja za glavnog administratora o rješavanju upravnih stvari iz svoje nadležnosti, postupku obezbjeđivanja učešća građana u vršenju javnih poslova, ostvarivanju principa transparentnosti objavljivanjem propisanih akata, saradnji sa nevladinim organizacijama i drugih izvještaja;
+- rješavanje po inicijativama građana iz djelokruga organa;
+- vođenje propisanih evidencija iz ovih oblasti kao i drugih evidencija u skladu sa zakonom;
+- pripremu izvještaja o radu i drugih informativnih i stručnih materijala za Skupštinu, gradonačelnika, organe državne uprave, medije i sl. iz djelokruga organa;
+- pripremu godišnjeg i drugih izvještaja za glavnog administratora o rješavanju upravnih stvari iz svoje nadležnosti;
+- slobodan pristup informacijama iz djelokruga organa; nnmn
+- vrši i druge poslove iz svog djelokruga, u skladu sa zakonom i drugim propisima.
