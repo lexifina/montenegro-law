@@ -1,0 +1,5 @@
+# Član 9
+## Izbjegavanje primjene zahtjeva i ažuriranje softvera
+Proizvođač ili dobavljač ne smije stavljati na tržište proizvode koji su projektovani tako da mogu detektovati (npr. prepoznavanjem ispitnih uslova ili ciklusa) da su podvrgnuti ispitivanju i reagovati automatskim mijenjanjem svojeg rada tokom ispitivanja kako bi postigli povoljnije vrijednosti za bilo koji od parametara u tehničkoj dokumentaciji ili bilo kojoj dokumentaciji priloženoj uz proizvod.
+Potrošnja energije proizvoda, kao ni drugi deklarisani parametri ne smiju se, pri mjerenju istom ispitnom normom koja je upotrijebljena i za izjavu o usaglašenosti, pogoršati nakon ažuriranja softvera, osim uz izričitu saglasnost krajnjeg korisnika prije ažuriranja, a u slučaju odbijanja ažuriranja karakteristike proizvoda ne smiju se promijeniti.
+U slučaju ažuriranja softvera, karakteristike proizvoda se ne smiju promijeniti u mjeri da proizvod prestane ispunjavati zahtjeve eko dizajna koji se primjenjuju za izjavu o usaglašenosti.
