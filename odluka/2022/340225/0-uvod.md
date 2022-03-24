@@ -1,0 +1,2 @@
+Na osnovu člana 298. Zakona o privrednim društvima ("Sl. list Crne Gore" br: 55/16, 74/16, 2/18), člana 10. Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalno Kotor" Kotor ("Sl. list Crne Gore - Opštinski propisi", br: 3/14), člana 19. Statuta DOO "Komunalno Kotor" Kotor ("Sl. list CG - Opštinski propisi", br: 12/14) i člana 38. Statuta opštine Kotor ("Sl. list Crne Gore - Opštinski propisi", br: 37/19), Skupština opštine Kotor, na IX sjednici, održanoj 24. 03. 2022. godine, donijela je
+O D L U K U
