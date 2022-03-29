@@ -1,0 +1,1 @@
+Na osnovu člana 185 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 02/18,34/19 i 38/20) i člana 35 Statuta opštine Tivat Odbor povjerenika Opštine Tivat na sjednici održanoj dana 29.03.2022. godine, donio je
