@@ -1,0 +1,2 @@
+Na osnovu člana 46 stav 1 tačka 26 Statuta opštine u okviru Glavnog grada-Golubovci ("Službeni list Crne Gore-Opštinski propisi", br. 12/19) i člana 14 Odluke o osnivanju Javne ustanove Kulturno-infromativni centar "Zeta" ("Službeni list RCG-Opštinski propisi", br. 024/04, "Službeni list Crne Gore-Opštinski propisi", br. 028/11 i 014/21), Skupština opštine u okviru Glavnog grada-Golubovci, na XXII sjednici održanoj dana 29.03.2022. godine, donijela je
+O D L U K U
