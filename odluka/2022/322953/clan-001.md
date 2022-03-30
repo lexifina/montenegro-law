@@ -1,0 +1,3 @@
+# Član 1
+## o dopuni Odluke o organizaciji i načinu rada organa lokalne uprave
+U članu 11. stav 1. Odluke o organizaciji i načinu rada organa lokalne uprave ("Službeni list CG - Opštinski propisi", br. 16/2012, 33/2013, 13/2014, 23/2014, 11/2015, 6/2017, 21/2017, 41/2017,51/2017, 30/2018 i 21/2019) iza alineje 8 dodaje se nova alineja koja glasi: " vrši poslove unosa podataka u Registar kućnih brojeva, ulica i trgova - Adresni registar koji vodi Sekretarijat za komunalne djelatnosti i zaštitu ambijenta i o tome priprema mjesečni izvještaj za Predsjednika Opštine, koji će obavijestiti nadležni državni organ.
