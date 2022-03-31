@@ -1,0 +1,3 @@
+# Član 25
+Prije nego što se pritvorenom, odnosno osuđenom licu koje se sprovodi omogući korišćenje sanitarnih ili drugih prostorija, službenik obezbjeđenja će izvršiti pregled tih prostorija u cilju uklanjanja predmeta koji se mogu upotrijebiti za napad ili bjekstvo, odnosno predmeta čije držanje i upotreba nijesu dozvoljeni u zatvoru.
+Nakon što izvrše pregled prostorija iz stava 1 ovog člana, sprovodnici, odnosno vođa sprovodničke grupe će omogućiti pritvorenom, odnosno osuđenom licu korišćenje sanitarnih ili drugih prostorija uz kontinuirani vizuelni nadzor, pri čemu će se voditi računa o poštovanju dostojanstva i privatnosti tog lica.

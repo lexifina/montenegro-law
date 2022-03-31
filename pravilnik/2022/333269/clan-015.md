@@ -1,0 +1,3 @@
+# Član 15
+Ako, prilikom pretresa iz člana 14 ovog pravilnika, službenik obezbjeđenja pronađe predmete čije držanje i upotreba nijesu dozvoljeni u zatvoru, te predmete će privremeno oduzeti i prilikom napuštanja Uprave oduzete predmete će vratiti licu od koga su oduzeti.
+Ako, prilikom pretresa iz člana 14 ovog pravilnika, službenik obezbjeđenja pronađe predmet koji je upotrijebljen ili namijenjen za izvršenje krivičnog djela, zaposlenog odnosno lice kod koga je predmet pronađen će zadržati i o tome odmah obavjestiti neposrednog rukovodioca i organizacionu jedinicu organa državne uprave nadležnog za unutrašnje poslove koja vrši policijske poslove (u daljem tekstu: policija).

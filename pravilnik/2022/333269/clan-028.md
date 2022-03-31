@@ -1,0 +1,3 @@
+# Član 28
+Nakon dolaska u organ, odnosno ustanovu u koju se vrši sprovođenje, pritvoreno odnosno osuđeno lice koje se sprovodi i njegove stvari predaju se tom organu, a sprovodnici odnosno vođa sprovodničke grupe će zatražiti od ovlašćenog službenika u tom organu odnosno ustanovi potvrdu, odnosno drugi odgovarajući dokaz o predaji tog lica i stvari.
+Prilikom predaje iz stava 1 ovog člana, sprovodnici odnosno vođa sprovodničke grupe obavještavaju ovlašćenog službenika o stepenu opasnosti pritvorenog, odnosno osuđenog lica koje se sprovodi, njegovim sklonostima za bjekstvo, kao i o drugim bitnim okolnostima i zapažanjima o tom licu.

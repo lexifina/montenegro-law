@@ -1,0 +1,4 @@
+# Član 23
+Za vrijeme sprovođenja, sprovodnici odnosno vođa sprovodničke grupe ne smiju nijednog trenutka napustiti pritvoreno, odnosno osuđeno lice koje se sprovodi, osim ako to naredi rukovodilac Odsjeka sprovodničkog obezbjeđenja.
+Sprovodnici, odnosno vođa sprovodničke grupe su odgovorni za ličnu bezbjednost pritvorenog odnosno osuđenog lica koje sprovode i dužni su da u toku sprovođenja spriječe svaki napad na to lice, njegovo oslobađanje od trećih lica, samopovrjeđivanje i bjekstvo, na način i pod uslovima propisanim Zakonom.
+U slučaju bjekstva pritvorenog, odnosno osuđenog lica koje se sprovodi, sprovodnici, odnosno vođa sprovodničke grupe dužni su da preduzmu radnje hvatanja tog lica, da o bjekstvu obavijeste rukovodioca Odsjeka sprovodničkog obezbjeđenja i policiju i pruže potrebne podatke o odbjeglom licu.
