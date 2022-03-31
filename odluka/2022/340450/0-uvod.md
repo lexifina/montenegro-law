@@ -1,0 +1,2 @@
+Na osnovu člana 49 stav 1 tačka 5 Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16 i 66/19) i člana 16 tačka 2 Statuta Regulatorne agencije za energetiku i regulisane komunalne djelatnosti ("Službeni list CG", broj 135/21), postupajući po Zahtjevu DOO "Komunalne djelatnosti" Plav, broj 279 od 14.02.2022. godine, za davanje saglasnosti na predlog cijena usluga javnog vodosnabdijevanja i prihvatanja i odvođenja komunalnih otpadnih voda za 2022. godinu, Skupštine opštine Plav, na sjednici održanoj dana 31.03.2022. godine, donijela je
+O D L U K U
