@@ -1,0 +1,3 @@
+Na osnovu člana 59. Stav 1 i 2. Zakona o lokalnoj samoupravi ("Sl. list CG", br. 002/2018, 034/19, 038/20) člana 85a stav 1 i 2. Statuta opštine Gusinje ("SI. list CG -Opštinski propisi", broj 003/19, 024/21), Skupština opštine Gusinje na sjednici održanoj dana 31.03.2022. godine donosi:
+O D L U K A
+o potvrđivanju Odluke predsjednice Opštine Gusinje o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za regulaciju rijeke Grnčar od Ade do granice sa Republikom Albanijom u KO Grnčar i KO Gusinje,broj:01-959 od 09.03.2022.godine( "Službeni list Crne Gore - Opštinski propisi", br. 10/22 od 18.03.2022)
