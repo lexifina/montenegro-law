@@ -1,0 +1,2 @@
+Na osnovu člana 18 stav 2 Zakona o kulturi ("Službeni list Crne Gore", broj 49/08, 16/11, 40/11 i 38/12), člana 9 stav 1 alineja 2 i člana 10 stav 3 Odluke o organizovanju Opštinske javne ustanove "Muzeji" ("Službeni list RCG-Opštinski propisi" , broj 3/92, "Službeni list Opštine Kotor", broj 1/94, 1/96 i 3/99, "Službeni list CG-Opštinski propisi" broj 4/10, 9/12, 24/14 i 52/19) i člana 36 Statuta opštine Kotor ("Službeni list CG-Opštinski propisi" broj 37/19) Skupština opštine Kotor na VIII sjednici održanoj 24. 03. 2022.godine, donijela je
+O D L U K U
