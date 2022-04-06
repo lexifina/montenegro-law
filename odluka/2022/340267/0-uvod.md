@@ -1,0 +1,2 @@
+Na osnovu člana 39 i 59, a u vezi sa članom 154 stav 2 i 4 Zakona o socijalnoj i dječjoj zaštiti ("Sl. list CG", br. 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/21), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20) i člana 36 Statuta opštine Kotor ("Sl. list CG - Opštinski propisi", br. 37/19), Skupština opštine Kotor, na VIII sjednici održanoj 24. 03. 2022.godine, donijela je
+O D L U K U
