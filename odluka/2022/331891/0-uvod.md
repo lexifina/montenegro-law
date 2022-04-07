@@ -1,0 +1,5 @@
+Na osnovu člana 14 Zakona o eksproprijaciji («Službeni list RCG», br. 55/00 i 28/06 i «Službeni list CG», broj 21/28, 30/17 i 75/18) Vlada Crne Gore, na sjednici od 3. marta 2022. godine, donijela je
+ODLUKU
+O UTVRĐIVANjU JAVNOG INTERESA ZA EKSPROPRIJACIJU
+NEPOKRETNOSTI ZA REKONSTRUKCIJU MAGISTRALNOG PUTA M-2, DIONICA LEPENAC -
+RIBAREVINE, POTEZI KM 1075+200-KM 1081+800 I KM 1083+600- KM 1089+872
