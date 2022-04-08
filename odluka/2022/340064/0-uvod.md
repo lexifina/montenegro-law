@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2, a u vezi sa članom 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20), člana 53 stav 1 tačka 2 Statuta opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 24/19, 05/20), člana 29 stav 2 Zakona o državnoj imovini ("Službeni list CG" br. 21/09 i 40/11), a u vezi sa Ugovorom o donaciji broj 01-031/21-13548 od 01.11.2021. godine zaključenog između Ambasade narodne republike Kine u Crnoj Gori i opštine Tuzi, na sjednici Skupštine opštine Tuzi održanoj 23.03.2022. godine, donijeta je
+O D L U K A
