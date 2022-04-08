@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16, 74/16 i 2/18), člana 53 stav 1 tačka 2 Statuta Opštine Tuzi ("Službeni list CG - Opštinski propisi", broj 24/19, 05/20) i člana 11 stav 1 alineja 1 Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalno/Komunale" Tuzi ("Službeni list CG - Opštinski propisi", broj 33/19 i 40/21), Skupština Opštine Tuzi, na sjednici održanoj 23.03.2022. godine, donijela je
+O D L U K A

@@ -1,0 +1,2 @@
+# Član 2
+Stupanjem na snagu ove Odluke prestaju da važe Odluka o davanju saglasnosti na Statut Društva sa ograničenom odgovornošću "Komunalno/Komunale" Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 39/19) i Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću "Komunalno/Komunale" Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 46/21) .
