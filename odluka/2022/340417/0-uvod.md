@@ -1,0 +1,2 @@
+Na osnovu člana 1 i 7 Zakona o ekspropijaciji (,,Sl.list RCG" br.55/00,012/02,028/06 I ,,Sl.list CG" br.021/08,030/17 i 075/18) člana 28 stav 1 tačka 5 Zakona o lokalnoj samoupravi ( "Službeni list Crne Gore", br. 002/18 od 10.01.2018, 034/19 od 21.06.2019, 038/20 od 25.04.2020) i člana 20č stav 1 tačka 5 Statuta opštine Gusinje ("Sl. list CG-Opštinski propisi br. 03/19 i 24/21") Skupština Opštine Gusinje , dana 31.03.2022. godine donosi:
+O D L U K U
