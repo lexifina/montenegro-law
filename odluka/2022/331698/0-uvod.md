@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi (,,Sl. list CG", br. 2/18, 34/19 i 38/20), člana 3 Zakona o izboru odbornika i poslanika (,,Sl. list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06 i 56/06 i ,,Sl. list CG", br. 46/11, 14/14, 47/14, 12/16, 60/1 ,10/18 i 109/20) i člana 44 stav 1 Statuta opštine Rožaje (,,Sl. list CG - Opštinski propisi", br. 38/18 i 16/21), Skupština opštine Rožaje, na sjednici održanoj 30.03.2022. godine, donijela je
+O D L U K U
