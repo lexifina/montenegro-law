@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list CG" br. 2/18, 34/19 i 38/20), člana 171 Zakona o privrednim duštvima ("Službeni list CG"br.65/20 i 146/21), člana 73 stav 1 tačka 25 Statuta Prijestonice ("Službeni list CG-Opštinski propisi" br. 49/18, 9/19 i 17/21), Skupština Prijestonice Cetinje na sjednici održanoj dana, 21.03.2022.godine donijela je
+O D L U K U
