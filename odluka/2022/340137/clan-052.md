@@ -1,0 +1,4 @@
+# Član 52
+Zabranjeno je u periodu od 15.06. do 1.09. svako otpočinjanje i izvođenje građevinskih radova na objektima i javnim površinama na području Starog grada, Dobrote, Orahovca, Dražin Vrta, Perasta, Risna i Vitoglava, Strpa, Lipaca, Morinja, Kostanjice, Stoliva, Prčanja, Mua i Škaljara, Lastva Grbaljska, Bigova, Krimovica, Radanovići, Zagora, Glavatičići i Kavač.
+Izuzetno, moguće je izvoditi građevinske radove na pojedinim objektima ukoliko za to izda odobrenje organ lokalne uprave nadležan za poslove urbanizma i građenja po prethodno pribavljanoj saglasnosti predsjednika Opštine, pod uslovom da je za predmetni objekat izdato potrebno odobrenje za građenje od strane nadležnog organa lokalne uprave u skladu sa posebnim propisima.
+Zabrana stava 1. ovog člana se ne odnosi na obavljanje hitnih i interventnih radova na javnim površinama, infrastrukturnim objektima i drugim objektima.

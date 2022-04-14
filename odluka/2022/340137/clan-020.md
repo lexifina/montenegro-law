@@ -1,0 +1,2 @@
+# Član 20
+Odobrenje za izvođenje radova-raskopavanje javnih površina nadležni organ lokalne uprave izdaje po prethodno pribavljenoj saglasnosti nadležnog društva ili organa kome su povjereni poslovi održavanja javnih površina i drugih komunalnih objekata (vodovodne, elektro i PTT instalacije), a za površine na kojima se odvija saobraćaj vozila i pješaka i po pribavljenom mišljenju organa uprave nadležnog za poslove saobraćaja.

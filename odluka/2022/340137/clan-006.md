@@ -1,0 +1,2 @@
+# Član 6
+Upravljanje, korišćenje i održavanje pijaca, objekata za snabdijevanje vodom, objekata za odvođenje komunalnih otpadnih i atmosferskih voda, javnih groblja, javnih parkirališta i garaža, objekata za upravljanje komunalnim otpadom, postavljanje privremenih objekata, održavanje čistoće, zaštita i čuvanje javnih površina, uklanjanje snijega i leda, održavanje mostova i otvorenih plaža, obala rijeka, otvorenih odvodnih kanala i sl. i održavanje javnih toaleta vrši se u skladu sa posebnim propisima kojim su uređena ova pitanja.

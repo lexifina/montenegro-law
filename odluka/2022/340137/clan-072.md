@@ -1,0 +1,5 @@
+# Član 72
+Upotreba elektroakustičkih i akustičkih uređaja na otvorenom i u ugostiteljskim objektima dozvoljena je u periodu od 9:00 do 01:00 časa, pod uslovom da ne prelazi zakonom propisane granične vrijednosti nivoa buke.
+Akustički uređaji bez upotrebe električnih uređaja za pojačavanje zvuka, mogu se koristiti do 03:00 časa, uz saglasnost nadležnog organa lokalne uprave.
+Izuzetno od st. 1 i 2 ovog člana nadležni organ lokalne uprave može odobriti upotrebu elektroakustičkih i akustičkih uređaja na otvorenom prostoru, u i van ugostiteljskog objekta bez vremenskog ograničenja, ukoliko procijeni da određeni ugostiteljski objekat prema svojim karakteristikama i lokaciji ne može ugroziti propisane granične vrijednosti nivoa buke.
+Za održavanje javnih skupova, zabavnih i sportskih priredbi i drugih aktivnosti na otvorenom prostoru, koji mogu dovesti do prekoračenja graničnih vrijednosti buke( elektro akustičnim uređajima i dr), jedinica lokalne samouprave odlukom određuje ulice, djelove ulica i naselja i druge lokacije namijenjene za te svrhe, kao i vrijeme održavanja.

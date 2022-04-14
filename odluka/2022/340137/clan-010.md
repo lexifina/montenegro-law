@@ -1,0 +1,4 @@
+# Član 10
+Teritoriju opštine Kotor čine grad Kotor, naselja gradskog karaktera i ostala naselja.
+Teritoriju opštine Kotor čine Stari grad Kotor, Dobrota, Muo, Škaljari, Risan, Perast, Prčanj, Kostanjica, Donji Morinj, Bunovići, Lipci, Strp, Ledenice, Knežlaz, Unijerina, Zvečava, Malov Do, Dragalj, Han, Pištet, Gornji Orahovac, Donji Orahovac, Dražin Vrt, Veliki Zalazi, Mali Zalazi, Špiljari, Donji Stoliv, Gornji Stoliv, Kavač, Mirac, Čavori, Koložunj, Dub, Sutvara, Nalježići, Pelinovo, Šišići, Prijeradi, Bratešići, Gorovići, Lastva Grbaljska,Višnjeva, Krimovica, Ukropci, Trešnjica, Kubasi, Glavati, Kovači, Zagora, Glavatičići, Lješevići, Bigova, Vranovići, Pobrđe i Radanovići.
+Pod uređenjem naselja u smislu ove Odluke, smatra se uređenost javnih površina kao i drugih površina uz javne površine, objekata i opreme koje služe opštoj upotrebi i svojim izgledom i postavljanjem mogu uticati na izgled i uređenost prostora ili opštu uređenost naselja.

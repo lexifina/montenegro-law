@@ -1,0 +1,2 @@
+# Član 8
+U slučaju vanrednih okolnosti, vremenskih nepogoda izazvanim poplavama, vjetrom, vatrom, gradom ili snijegom, vršilac komunalne djelatnosti uz asistenciju i saradnju drugih službi (Službe zaštite i spašavanja, Komunalne policije i dr.) javne površine čisti u skladu sa uslovima i na način da se u što moguće kraćem roku uspostavi prohodnost na putevima i obebzbijedi dostupnost osnovnim institucijama u gradu (zdravstva, obrazovanja, javnim službama, službi bezbjednosti, opštini i drugim objektima).

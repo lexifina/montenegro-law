@@ -1,0 +1,6 @@
+# Član 11
+Održavanje javnih površina vrši privredno društvo za obavljanje komunalnih djelatnosti, preduzetnik, ustanova ili organ kome su ovi poslovi povjereni Ugovorom o povjeravanju ili posebnom odlukom, odnosno pravno lice koje ovim površinama upravlja ili ih koristi i time ostvaruje prihod u skladu sa Programom redovnog održavanja javnih površina koje donosi Skupština Opštine.
+Javne otvorene površine, kao i površine za pejzažno uređenje javne namjene u obuhvatu morskog dobra, uređuje i održava Javno preduzeće za upravljanje morskim dobrom u saradnji sa lokalnom samoupravom, odnosno korisnik morskog dobra u skladu sa odredbama ove Odluke i obavezama utvrđenim ugovorom o korišćenju morskog dobra.
+Površine za pejzažno uređenje ograničene i specijalne namjene uređuju i održavaju preduzeća, ustanove i druga pravna lica odnosno preduzetnici koji te površine koriste ili su im povjerene na upravljanje i održavanje zajedno sa objektima koji se na njima nalaze.
+Zelene površine oko individualnih i drugih objekata u privatnoj svojini uređuju i održavaju vlasnici, odnosno korisnici tih objekata.
+Privredna društva, ustanove i druga pravna lica, odnosno preduzetnici koji koriste površine za pejzažno uređenje ograničene i specijalne namjene mogu održavanje ovih površina povjeriti Društvu iz stava 1 ovog člana uz odgovarajuću nadoknadu.

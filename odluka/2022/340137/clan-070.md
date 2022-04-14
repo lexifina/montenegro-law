@@ -1,0 +1,2 @@
+# Član 70
+Zabranjeno je narušavanje komunalnog reda bukom, stvaranjem buke upotrebom mehaničkih uređaja i uređaja i opreme za hlađenje/grijanje odnosno ventilaciju iz ugostiteljskih objekata i objekata stambene i stambeno-poslovne namjene, iznad 50 dB ( A) Laeq,izmjerene kalibrisanim uređajem za mjerenje buke na udaljenosti 2m od objekta ili aktivnosti od koje potiče buka, pri čemu se izmjerena vrijednost koriguje za +/- 3dB (A) zbog odbijanja zvuka.

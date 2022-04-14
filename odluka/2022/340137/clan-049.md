@@ -1,0 +1,5 @@
+# Član 49
+Vlasnici, odnosno korisnici porodičnih stambenih zgrada, poslovnih zgrada i prostorija i posebnih djelova stambenih zgrada, dužni su održavati u urednom i ispravnom stanju fasade objekata, krovove, balkone, prozore, ulazna vrata i druge spoljašnje djelove zgrada, te dvorišta, ograde, u skladu sa važećom Odlukom.
+Vlasnici odnosno korisnici urbanističkih odnosno katastarskih parcela koje nijesu privedene namjeni , dužni su da ih održavaju u urednom stanju.
+Ako je vlasnik odnosno korisnik stambeno poslovne zgrade ili urbanističke-katastarske parcele nepoznat ili se ne može utvrditi, odnosno ako nije poznata njegova adresa stanovanja, komunalni inspektor će naložiti vršiocu komunalne djelatnosti kojem je opština povjerila poslove održavanja javnih zelenih površina, da uredi dvorište, urbanističku odnosno katastarsku parcelu o trošku Opštine.
+Opština ima pravo na regresnu naplatu troškova iz stave 3 i 4.ovog člana kada se utvrdi vlasnik odnosno korisnik odnosno njegova adresa stanovanja.
