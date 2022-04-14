@@ -1,0 +1,2 @@
+# Član 2
+Kat.parc.2/30 KO Škaljari I, površine 45 m2 zajedno sa dijelovima kat.parc.535/1 i 535/4 KO Škaljari I, koje su svojina Perović Dušana, u površini od 351 m2, čini jednu urbanističku parcelu, odnosno formira lokaciju za gradnju, a shodno odredbama Prostorno urbanističkog plana Opštine Kotor i Urbanističko tehničkim uslovima, br.03-333/20-16511 od 20.10.2021. godine, izdatim od strane Sekretarijata za urbanizam, građevinarstvo i prostorno planiranje Opštine Kotor.

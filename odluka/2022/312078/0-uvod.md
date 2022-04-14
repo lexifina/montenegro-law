@@ -1,0 +1,2 @@
+Na osnovu čl.34 i čl.40 st.2 tač.3 Zakona o državnoj imovini ("Sl.list CG" br.21/09, 40/11), čl.4 st.1, čl.7 st.1 i čl.8 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl.list CG", br.44/10), čl.34 st.1 Zakona o lokalnoj samoupravi ("Sl.list CG" br.2/18) i čl.36 Statuta opštine Kotor ("Sl.list -Opštinski propisi, br.37/19), Skupština opštine Kotor na IX sjednici održanoj 24. 03. 2022. godine, donosi sledeću
+O D L U K U
