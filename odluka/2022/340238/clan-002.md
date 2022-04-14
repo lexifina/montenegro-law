@@ -1,0 +1,2 @@
+# Član 2
+Urbanističko - tehničkim uslovima izdatim od strane Sekretarijata za urbanizam, građevinarstvo i porostorno planiranje Opštine Kotor, br.03-333/21-3192 od 12.07.2021. godine predviđena je izgradnja NDTS 10/0,4 kV, 1x630 kVA "MIRAC-NOVA" na dijelu kat.parc.531 K.O. Mirac sa uzemljenjem na dijelu kat.parc.531 i 617 K.O. Mirac i 10kV kablovskim vodom na dijelu kat.parc.531, kat.parc.499, kat.parc.616, kat.parc.617 i kat.parc.502 K.O. Mirac.
