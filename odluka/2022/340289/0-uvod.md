@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi (,,Službeni list Crne Gore,, broj 2/18, 34/19, 38/20 ), člana 73 stav 1 tačka 25 Statuta Prijestonice ("Službeni list CG- Opštinski propisi", br. 49/18, 9/19 i 17/21) i člana 13, a u vezi sa članom 14 Odluke o osnivanju Društva sa ograničenom odgovornošću "Agencija za razvoj i podršku poslovanju" Cetinje ("Službeni list CG-Opštinski propisi", br. 45/20), Skupština Prijestonice Cetinje na sjednici održanoj dana, 21.03.2022.godine donijela je
+O D L U K U
