@@ -1,0 +1,3 @@
+# Član 1
+## zemljišta - kat.parc.2050/2 K.O. Dobrota I radi dokompletiranja urbanističke parcele
+Stavlja se van snage Odluka o prodaji zemljišta - kat.parc.2050/2 K.O. Dobrota I radi dokompletiranja urbanističke parcele, br.11-016/20-3074 i donijeta od strane Skupštine opštine Kotor na sjednici održanoj dana 25.02.2020. godine i objavljena u "Sl.list CG - Opštinski propisi" br.10/20 od 12.03.2020. godine i Odluka o izmjenama i dopunama Odluke o prodaji zemljišta - kat.parc.2050/2 K.O. Dobrota I radi dokompletiranja urbanističke parcele, br.11- 016/20-9361 donijeta od strane Skupštine opštine Kotor na sjednici održanoj dana 30.06.2020. godine i objavljena u "Sl.list CG - Opštinski propisi" br.026/20 od 21.07.2020. godine.
