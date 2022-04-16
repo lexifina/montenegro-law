@@ -1,0 +1,2 @@
+Na osnovu člana 59 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 2/18, 34/19 I 38/20), člana 98 stav 1 tačka 27 Statuta Opštine Budva ("Službeni list Crne Gore - Opštinski propisi", br.2/19 ), a u vezi sa članom 329 stav 2 Zakona o privrednim društvima ("Službeni list Crne Gore", broj 65/20) i članom 29 stav 2 tačka 1 Zakona o komunalnim djelatnostima (,, Službeni list Crne Gore’’ br. 55/16, 74/16, 2/18, 66/19), predsjednik Opštine Budva donio je
+O D L U K U
