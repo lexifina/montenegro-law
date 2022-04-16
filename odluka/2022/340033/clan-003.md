@@ -1,0 +1,2 @@
+# Član 3
+Nepokretnost iz člana 1 ove odluke prodaje se po cijeni od 247,15 €/m2, što ukupno iznosi 30.400,00 €, shodno Izvještaju o procjeni vrijednosti nepokretnosti u zahvatu DUP-a "Žukotrlica", sačinjenom od strane sudskog vještaka i ovlašćenog procjenjivača nekretnina, dipl. inž. građevinarstva Sonje Ivanović iz Podgorice, protokolisanog kod Opštine Bar pod brojem br. 04-427/22-76 od 28.02.2022. godine.

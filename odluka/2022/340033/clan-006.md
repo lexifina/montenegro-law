@@ -1,0 +1,2 @@
+# Član 6
+Obavezuje se Aleksić Dražen da u roku od 30 ( trideset) dana od dana zaključenja notarskog zapisa ugovora o prodaji zemljišta, sa Opštinom Bar zaključi poseban ugovor kojim će se regulisati međusobna prava i obaveze u vezi sa naknadom za komunalno opremanje građevinskog zemljišta, a u skladu sa Odlukom o naknadi za komunalno opremanje građevinskog zemljišta ("Službeni list CG - Opštinski propisi", br. 38/20).
