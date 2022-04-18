@@ -1,0 +1,3 @@
+Na osnovu člana 1 Zakona o eksproprijaciji ( ,,Sl. list RCG", br. 55/00, 12/02 i 28/06 i ,,Sl. list CG", br. 21/08, 30/17 i 75/18 ), člana 28 stav 1 tačka 5, člana 38 stav 1 tačka 2 i člana 44 stav 1 Zakona o lokalnoj samoupravi ( ,,Sl. list CG", br. 2/18, 34/19 i 38/20), člana 17 stav 1 tačka 5, člana 35 stav 1 tačka 2 i člana 38 Statuta opštine Danilovgrad ( ,,Sl. list CG - Opštinski propisi", br. 43/18 ), Skupština opštine Danilovgrad na sjednici održanoj 08.04. 2022. godine, donijela je
+O D L U K U
+o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za izgradnju kružne raskrsnice u ul. "Vlajka Đuranovića",
