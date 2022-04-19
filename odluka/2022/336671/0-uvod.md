@@ -1,0 +1,2 @@
+Na osnovu člana 271 Zakona o privrednim društvima ("Službeni list CG", br. 65/20 i 146/21) i člana 13 Odluke o osnivanju društva sa ograničenom odgovornošću "Monte put" Podgorica ("Službeni list RCG", broj 76/05 i "Službeni list CG", br. 68/09, 33/14, 101/20 i 91/21) Vlada Crne Gore, na sjednici od 14. aprila 2022. godine, donijela je
+ODLUKU O IZMJENI STATUTA DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "MONTE PUT" PODGORICA
