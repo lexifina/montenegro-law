@@ -1,0 +1,2 @@
+# Član 5
+Pri korišćenju poslovnih prostora iz člana 1 ove odluke, budući zakupac je obavezan postupati sa dužnom pažnjom dobrog domaćina, čuvati ih od oštećenja i uništenja, držati ih u urednom i ispravnom stanju i snositi troškove štete koja bi nastala njegovom nepažnjom za vrijeme korišćenja. Zakupac je dužan da nakon isteka ugovora preda poslovni prostor u stanju u kom ga je i primio, uključujući i radove na investicinom održavanju koje je izveo.
