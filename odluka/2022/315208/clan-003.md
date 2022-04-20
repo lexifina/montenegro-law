@@ -1,0 +1,2 @@
+# Član 3
+Daje se na privremeno upravljanje i korišćenje Upravi za katastar i državnu imovinu, a za potrebe Uprave prihoda i carina Crne Gore- Područna jedinica Petnjica, poslovni prostor br. 17, kancelarija, površine 15,19m2, u skladu sa Geodetskim elaboratom originalnih terenskih podataka ucrtavanja i etažne razrade posl.zgrade u vanprivredi izrađenog od "Geo friends" br. 62 od 23.03.2017.godine, a koji je zaveden kod Uprave za nekretnine PJ Berane dana 06.12.2017.godine.
