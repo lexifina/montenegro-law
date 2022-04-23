@@ -1,0 +1,8 @@
+# Član 13
+PAM CG će sa korisnicima voditi pregovore u vezi sa izdavanjem ovlašćenja za korišćenje autorskih muzičkih djela sa repertoara PAM-a CG u dobroj vjeri.
+PAM CG i korisnici su dužni da u postupku vođenja pregovora iz stava 1 ovog člana pruže sve informacije potrebne za izdavanje ovlašćenja za korišćenje autorskih muzičkih djela sa reperotara PAM-a CG.
+Korisnik je dužan da PAM-u CG, prije početka korišćenja autorskih muzičkih djela sa njegovog repertoara, podnese zahtjev za izdavanje ovlašćenja za korišćenje tih djela.
+PAM CG će na zahtjev iz stava 3 ovog člana, koji je podnesen od strane bilo kojeg korisnika ili udruženja korisnika, a uz koji su dostavljeni podaci o korisniku ili udruženju korisnika (naziv pravnog lica/preduzetnika, odnosno udruženja, adresa, PIB itd.), kao i podaci neophodni za obračun naknade za korišćenje autorskih muzičkih djela u skladu sa Tarifom naknada, pod jednakim uslovima izdati ovlašćenje za korišćenje autorskih muzičkih djela sa svog repertoara zaključivanjem ugovora o neisključivom ustupanju prava korišćenja repertoara PAM-a CG.
+PAM CG može odbiti zahtjev iz stava 3 ovog člana samo korisniku koji je više puta izvršio povredu prava njegovih članova.
+Prilikom izdavanja ovlašćenja PAM CG nije obavezan da za druge vrste online usluga koristi uslove za izdavanje ovlašćenja ugovorene sa korisnikom ako korisnik pruža novu vrstu online usluge, koja je javnosti u Crnoj Gori dostupna manje od tri godine.
+Ako ovlašćenje iz stava 4 ovog člana nije izdato, traženo pravo se smatra ustupljenim ako korisnik uplati PAM-u CG ili deponuje kod notara ili suda iznos u visini naknade za korišćenje predmeta zaštite utvrđen tarifom.
