@@ -1,0 +1,2 @@
+Na osnovu člana 3. Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 5/48, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 48/06 i "Sl. list CG", br. 46/11, 14/14, 47/14, 12/16, 60/17, 10/18 i 109/20), i člana 33. stav 1. tačka 30. Statuta opštine Plav, ("Sl. list CG- Opštinski propisi", br. 44/18), Skupština opštine Plav, na sjednici održanoj dana 31.03.2022. godine, donijela je:
+O D L U K U
