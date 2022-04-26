@@ -1,0 +1,3 @@
+# Član 1
+## o izmjeni Odluke o kriterijumima, načinu i postupku raspodjele sredstava nevladinim organizacijama
+U Odluci o kriterijumima, načinu i postupku raspodjele sredstava nevladinim organizacijama ("Sl. list CG- Opštinski propisi", br. 19/19), u članu 34. stavu 1.mijenja se tekst pomenutog stava u cjelini, te glasi: "Komisija donosi Odluku o raspodjeli sredstava za projekte nevladinim organizacijama, na osnovu bodovanja projekata koje su odredili nezavisni procjenjivači, a ukoliko ne bude prijavljenih nezavisnih procjenjivača na javnom pozivu, onda će bodovanje projekata odrediti sama Komisija".
