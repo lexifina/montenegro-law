@@ -1,0 +1,9 @@
+# Član 20
+Ukoliko nije drukčije propisano ovim Pravilnikom, u toku izborne kampanje, postupak po prigovoru fizičkog ili pravnog lica na rad emitera zbog kršenja Zakona o elektronskim
+medijima,
+Zakona
+o
+medijima,
+Pravilnika
+o
+komercijalnim audiovizuelnim komunikacijama ili Pravilnika o programskim standardima u elektronskim medijima, sprovodiće se u rokovima i pod uslovima propisanim članom 144 Zakona o elektronskim medijima.
