@@ -1,0 +1,4 @@
+# Član 10
+U zoni Starog grada, Zapadnog i Istočnog podgrađa, kao i u zonama zaštićenim kao kulturno dobro ( u daljem tekstu: zaštićene zone) natpis se postavlja na tabli izrađenoj od kvalitetnih neutralnih materijala, kao što su metal (gvožđe obojeno u crno, plasticifirano, bronza, aluminijum, prohrom) ili stakla, pri čemu veličina table na kojoj se postavlja slovni natpis mora biti dimenzija 0,2 m x 0,4 m, a ukoliko se uz slovni natpis nalazi i logo (natpis i logo mogu biti i odvojeni elementi), dozvoljeno je da njihov združeni gabarit bude 0,4 m x 0,4 m.
+Natpis u zoni iz stava 1 ovog člana mora biti postavljen na distancere, odvojen od fasade i ankerovan u fugu, pri čemu je zabranjeno ankerovanje u kamen, ukoliko se postavljaju na kamenoj fasadi,.
+Za poslovne prostore koji se nalaze u bočnim ulicama u odnosu na Njegoševu ulicu, dozvoljeno je postavljanje natpisa pod uglom od 90° u odnosu na glavnu fasadu, uz obavezno poštovanje gore navedenih dimenzija.

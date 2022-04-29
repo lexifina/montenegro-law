@@ -1,0 +1,2 @@
+# Član 43
+Prilikom izgradnje, rekonstrukcije, adaptacije odnosno rušenja objekta, izvođač radova dužan je da čuva postojeću vegetaciju i zemljište na javnim zelenim površinama i površinama u javnom korišćenju na način što postojeća vegetacija (travnjak, šiblje, drveće i sl.) mora biti zaštićena za vrijeme trajanja radova, a plodni sloj zemlje sačuvan na gradilištu ili sklonjen na posebno odlagalište.

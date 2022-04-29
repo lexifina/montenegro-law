@@ -1,0 +1,3 @@
+# Član 63
+Ukoliko vršilac komunalne djelatnosti, privredno društvo, preduzetnik, drugo pravno odnosno fizičko lice iz čl. 60 do 64 ove odluke, ne izvrše svoje obaveze, pa zbog toga nastupi povreda ili šteta na imovini trećih lica, za nju će odgovarati po principu objektivne odgovornosti.
+Opština odnosno vršilac komunalne djelatnosti ima pravo od subjekata iz stava 1 ovog člana, na regresnu naknadu troškova nastalih po osnovu štete pričinjene trećim licima usled povreda od pada na odnosnim javnim površinama.

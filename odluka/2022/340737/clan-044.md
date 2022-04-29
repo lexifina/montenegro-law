@@ -1,0 +1,3 @@
+# Član 44
+Bolesna stabla, stabla sklona padu i druga stabla na javnim zelenim površinama koja mogu ugroziti bezbjednost ljudi ili imovinu, vršilac komunalne djelatnosti dužan je da ukloni, uz saglasnost organa za komunalne poslove.
+Prilikom orezivanja drveća, uređivanja travnjaka i obavljanja drugih radova na javnim površinama odnosno površinama u javnom korišćenju vršilac komunalne djelatnosti odnosno vlasnik odnosno korisnik površine u javnom korišćenju dužan je da osigura bezbjednost prolaznika, kao i da materijal i otpad nastao tim aktivnostima ukloni odmah po obavljenom poslu, a površinu očisti i dovede u prvobitno stanje.

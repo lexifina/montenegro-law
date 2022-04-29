@@ -1,0 +1,8 @@
+# Član 17
+## Uređenje i održavanje površina oko zgrade i ograde
+Površina oko zgrade moraju se držati u estetski urednom i funkcionalnom stanju stanju, te sa nje ne smije dolaziti nikakva štetna imisije (neprijatni mirisi i sl.) na javne površine i površine u javnom korišćenju , susjedne zgrade i druge objekte.
+Vlasnici zgrade, etažni vlasnici, odnosno organ upravljanja zgradom dužni su da obezbijede radove redovnog održavanja površine oko zgrade i to: radove na održavanju spoljne rasvjete koja pripada zgradi, uređenju zelenih površina, uređenju i popravci mobilijara, održavanju parking mjesta, održavanju higijene na tim prostorima i druge radove redovnog održavanja.
+Na površini oko zgrade ne smije se odlagati otpad, neregistrovani automobili, barke, mašine, električni i drugi aparati i predmeti domaćinstva, građevinski šut, daske, dotrajali predmeti i drugo što narušava izgled okoline.
+Vlasnici odnosno korisnici urbanističke odnosno katastarske parcele koja nije izgrađena, a kontaktna je ili vidljiva sa javne površine ili površine u javnom korišćenju, dužni su da iste održavaju u estetski urednom stanju. 21. април 2022. СЛУЖБЕНИ ЛИСТ ЦРНЕ ГОРЕ - Oпштински прописи Страна 47 - Број 18
+Ako je vlasnik odnosno korisnik iz stava 2 i 4 ovog člana nepoznat ili se ne može utvrditi, odnosno ako nije poznata njegova adresa stanovanja, komunalni inspektor će naložiti vršiocu komunalne djelatnosti kojem je Opština povjerila poslove održavanja javnih površina da uredi površinu oko zgrade, odnosno urbanističku ili katastarsku parcelu, o trošku Opštine.
+Opština ima pravo na regresnu naplatu troškova iz stava 5 ovog člana, kada se utvrdi vlasnik odnosno korisnik odnosno njegova adresa stanovanja.
