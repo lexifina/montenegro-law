@@ -1,0 +1,2 @@
+# Član 2
+Danom stupanja na snagu ove Odluke prestaje da važi Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću ,,Agencija za izgradnju i razvoj Herceg Novog’’ Herceg Novi (,,Službeni list Crne Gore - Opštinski propisi’’, br.40/21 od 03.12.2021. godine) i Odluka o davanju saglasnosti na Statut Društva sa ograničenom odgovornošću ,,Agencija za izgradnju i razvoj Herceg Novog’’ Herceg Novi (,,Sl.list Crne Gore - Opštinski propisi’’, br. 46/21 od 30.12.2021.godine).
