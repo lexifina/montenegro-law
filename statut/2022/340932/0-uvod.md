@@ -1,0 +1,3 @@
+Na osnovu člana 267, a u vezi sa članom 271 i člana 329 stav 2 Zakona o privrednim društvima ("Službeni list Crne Gore", br. 65/20 i 146/21), člana 11 stav 1 alineja 1 Odluke o osnivanju društva sa ograničenom odgovornošću "Vodovod i kanalizacija Tivat" ("Službeni list Crne Gore - Opštinski propisi", br. 24/13, 4/15 i 45/19), člana185 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19 i 38/20) i člana 35 Statuta Opštine Tivat ("Službeni list CG - Opštinski propisi", broj 24/18 i 009/20), Odbor povjerenika Opštine Tivat na sjednici održanoj dana 19.04.2022. godine, donosi:
+S T A T U T
+Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Tivat
