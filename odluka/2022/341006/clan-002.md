@@ -1,0 +1,2 @@
+# Član 2
+Sastavni dio ove odluke čini programski zadatak sa elementima urbanističko-tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa - ulice sa pratećim objektima u naselju Zeleni u okviru Biznis zone. Projektovati ulice sa pratećim objektima na djelovima katastarskih parcelabr.1386/1 KO Rožaje i br. 2694/1 KO Rožaje upisanih u Listu nepokretnosti broj 344 - prepis na ime Crna Gora - svojina u obimu prava 1/1 i Opština Rožaje - raspolaganje u obimu prava 1/1.
