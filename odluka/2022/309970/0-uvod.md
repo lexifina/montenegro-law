@@ -1,0 +1,3 @@
+Na osnovu člana 17 stav 2 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18, 34/19), člana 38 stav 1 tačka 2 , člana 44 stav 1 i člana 185 Zakona o lokalnoj samoupravi ("Službeni list CG" br. 02/18, 34/19, 38/20) i člana 35 stav 1 alineja 2 Statuta opštine Tivat ("Službeni list CG-Opštinski propisi", br. 24/18, 09/20), uz saglasnost Ministarstva finansija i socijalnog staranja br. 03-13200/1 od 24.09.2021. godine, Odbor povjerenika Opštine Tivat, na sjednici održanoj dana 19.04.2022. godine donio je
+O D L U K U
+o dodatku na osnovnu zaradu zaposlenih u Javnoj ustanovi "Dnevni centar za djecu i mlade sa smetnjama i teškoćama u razvoju
