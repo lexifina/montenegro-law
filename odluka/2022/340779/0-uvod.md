@@ -1,0 +1,2 @@
+Na osnovu članova 38 i 185 Zakona o lokalnoj samoupravi (" Službeni list Crne Gore", br. 02/18, 34/19 i 38/20) i člana 35 Statuta opštine Tivat ( "Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 09/20), a u vezi sa članom 64 stav 3 Zakona o sportu ( "Službeni list Crne Gore", br. 44/18) i članom 7 Statuta Fudbalskog kluba "Arsenal" od 17.10.2018. godine, Odbor povjerenika Opštine Tivat, na sjednici održanoj dana 19.04.2022. godine, donio je
+O D L U K U
