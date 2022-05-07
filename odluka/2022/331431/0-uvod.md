@@ -1,0 +1,2 @@
+Na osnovu člana 185 Zakona o lokalnoj samoupravi ( "Službeni list Crne Gore", broj 02/18, 34/19 i 38/20), člana 35 Statuta opštine Tivat ( "Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 09/20), a u skladu sa članom 7 Odluke o organizovanju Javne ustanove Sportska dvorana u Tivtu ( "Službeni list SRCG - Opštinski propisi", br. 11/91) Odbor povjerenika Opštine Tivat na sjednici održanoj dana 19.04.2022.godine donio je
+O D L U K U
