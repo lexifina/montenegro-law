@@ -1,0 +1,3 @@
+Na osnovu člana 267, a u vezi sa članom 271 i člana 329 stav 2 Zakona o privrednim društvima ("Službeni list Crne Gore", br. 65/20 i 146/21), člana 14 Odluke o osnivanju društva sa ograničenom odgovornošću "Autobuska stanica" Tivat ("Službeni list CG - Opštinski propisi", br. 12/17), člana 185 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" br. 02/18, 34/19 i 38/20) i člana 35 Statuta opštine Tivat ("Službeni list CG - Opštinski propisi" br. 024/18 i 009/20), Odbor povjerenika opštine Tivat na sjednici održanoj dana 19.04. 2022. godine, donosi:
+S T A T U T
+Društva sa ograničenom odgovornošću "Autobuska Stanica" Tivat
