@@ -1,0 +1,2 @@
+Na osnovu člana 185 Zakona o lokalnoj samoupravi ( "Sl.list CG br 02/18, 34/19, 38/20), člana 35 Statuta opštine Tivat ("Sl.list CG-Opštinski propisi", br.24/18 i 09/20) i članova 18 i 29 Statuta Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Tivat ( "Sl.list CG- Opštinski propisi", br. 32/13, 15/15, 55/17 i 45/19) , Odbor povjerenika Opštine Tivat na sjednici održanoj dana 19.04.2022. godine donio je
+O D L U K U
