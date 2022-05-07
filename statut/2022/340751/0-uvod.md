@@ -1,0 +1,3 @@
+Na osnovu člana 329 stav 2, člana 267, a u vezi sa članom 271 Zakona o privrednim društvima ("Službeni list CG", br. 065/20 i 146/21), člana 14 Odluke o osnivanja Društva sa ograničenom odgovornošću "Parking servis" Tivat ("Službeni list CG - Opštinki propisi" br. 012/17, 020/17, 022/17 i 045/19), člana 185 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18,34/19 i 38/20) i člana 35 Statuta opštine Tivat ("Službeni list CG - Opštinski propisi", br. 024/18, 009/20) Odbor povjerenika Opštine Tivat na sjednici održanoj dana 19.04.2022. godine donosi:
+S T A T UT
+DOO "PARKING SERVIS" Tivat
