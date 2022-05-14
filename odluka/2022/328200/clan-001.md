@@ -1,0 +1,3 @@
+# Član 1
+## o davanju na upravljanje i korišćenje poslovnog prostora u zgradi "Nivel" JU Dnevnom centru za djecu i omladinu sa smetnjama i teškoćama u razvoju "Biseri" Budva
+Opština Budva, kao imalac prava svojine u obimu 1/1, ustupa na upravljanje i korišćenje Javnoj Ustanovi Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Biseri" Budva, nepokretnosti upisane u LN broj 3328 KO Budva, označene kao poslovni prostori PD 147,148,149,150, koji se nalaze u objektu broj 1, koji je izgrađen na katastarskoj parceli 507/11, bez naknade, ukupne površine 695 m2 u zgradi Nivel, radi obavljanja registrovane djelatnosti.
