@@ -1,0 +1,3 @@
+Na osnovu člana 267, a u vezi sa članom 271 i člana 329 stav 2 Zakona o privrednim društvima ("Službeni list Crne Gore", br. 65/20 i 146/21), člana 16 stav 1 alineja 2 Odluke o osnivanju društva sa ograničenom odgovornošću "KOMUNALNO" Tivat ("Službeni list CG-Opštinski propisi", br. 024/13, 004/15, 045/19), člana 185 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19 i 38/20) i člana 35 Statuta Opštine Tivat ("Službeni list CG - Opštinski propisi", broj 24/18 i 009/20), Odbor povjerenika Opštine Tivat na sjednici održanoj dana 19.04. 2022. godine, donosi:
+S T A T U T
+DOO "Komunalno"Tivat
