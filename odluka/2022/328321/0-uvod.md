@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika I poslanika ("Sl.list RCG", broj 04/98, 05/98,17/98, 14/00, 18/00, "Sl.list SRJ", br.73/00, 09/01, 41/02, 46/02, 45/04, 48/06 i "Sl.list CG" broj 46/11. 14/14, 47/14, 12/16, 60/17,10/18, 109/20), člana 38 st.1 tač.2 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore", broj 02/18, 34/19, 38/20) i člana 30 st.1 I 37 st.1 tač.35 Statuta opštine Kolašin ("Sl.list Crne Gore-Opštinski propisi", broj 24/19), Skupština opštine Kolašin, na sjednici održanoj dana 09.05.2022. godine, donijela je
+O D L U K U
