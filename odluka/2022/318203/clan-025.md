@@ -1,0 +1,2 @@
+# Član 25
+Praćenje realizacije biznis planova vrši Opština Rožaje preko odgovarajućih organa, službi i/ili projektnih timova ukoliko je Konkurs realizovan kao aktivnost projekta koji je finansiran od domaćeg ili stranog donatora. Praćenje realizacije biznis planova vrši se na slučajnom uzorku, međutim Opština zadržava pravo da u svakom trenutku traži informacije, dokumentaciju i izvještaje od svakog fizičkog/pravnog lica korisnika sredstava.
