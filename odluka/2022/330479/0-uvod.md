@@ -1,0 +1,2 @@
+Na osnovu člana 24 i 25 Zakona o izboru odbornika i poslanika ("Sl.list RCG" br. 04/98, 05/98, 17/98, 14/00,18/00, Sl.list Savezne Republike Jugoslavije br 73/00,09/01,41/02, 46/02, 45/04, 48/06, 56/06 i "Sl.list CG" br. 46/11, 14/14 i 47/14,12/16,60/17 i 10/18, 109/20), člana 185 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18,34/19,38/20 i 50/22), i člana 35 Statuta opštine Tivat ("Službeni list CG- Opštinski propisi", br. 24/18 i 09/20), Odbor povjerenika, na sjednici održanoj dana 18.05.2022. godine, donio je
+O D L U K U
