@@ -1,0 +1,2 @@
+Na osnovu člana 2. Zakona o lokalnim komunalnim taksama ( "Službeni list CG", br. 18/2019 ), člana 7. stav 1. tačka 4. Zakona o finansiranju lokalne samouprave (,,Službeni. list CG", broj 3/19), člana 28, stav 1, tačka 2 i člana 38. stav 1, tačka 2. i 8. Zakona o lokalnoj samoupravi (,,Službeni list CG", br.2/18, 34/19 i 38/2020) i člana 40. stav 1. tačka 2. i 8. Statuta opštine Pljevlja (,,Službeni list CG - Opštinski propisi ", br. 46/18 ), Skupština opštine Pljevlja na sjednici održanoj 29.04.2022. godine, donijela je:
+O D L U K U
