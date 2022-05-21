@@ -1,0 +1,2 @@
+# Član 2
+Prodaja nepokretnosti iz člana 1 ove Odluke vrši se po tržišnoj cijeni u ukupnom iznosu od 134.231,84eura, koja je utvrđena u skladu sa procjenom ovlašćenog procjenitelja HLB MONT AUDIT d.o.o. broj 56-099/2021 od 11.08.2021.godine, a koji iznos će Crnogorski elektrodistributivni sistem d.o.o. Podgorica platiti, u korist budžeta opštine Pljevlja na žiro račun br.535-50723936-28, prije potpisivanja Ugovora.
