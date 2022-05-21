@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20), člana 29 stav 2 tačka 3 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore" br.55/16, 74/16, 02/18 i 6/19), člana 12 stav 1 alineja 9 Odluke o osnivanju DOO "Parking servis" Bijelo Polje ("Službeni list Crne Gore-Opštinski propisi", br.20/13 i 10/21) i člana 46 stav 1 tačka 2 Statuta opštine Bijelo Polje ("Službeni list Crne Gore-Opštinski propisi" br.19/18), Skupština opštine Bijelo Polje, na sjednici održanoj 26.04.2022. godine, donijela je
+O D L U K U
+o davanju saglasnosti na Odluku Odbora direktora DOO "Parking servis" Bijelo Polje o
