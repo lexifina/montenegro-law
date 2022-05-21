@@ -1,0 +1,6 @@
+# Član 3
+Korisnik vodnih usluga u smislu ove odluke je fizičko i pravno lice, odnosno vlasnik , zakupac nepokretnosti (stambenog, poslovnog i/ili proizvodnog prostora) ili neko drugo lice, koje koristi komunalne usluge, odnosno komunalne proizvode na teritoriji Opštine Pljevlja.
+Komunalne djelatnosti iz člana 1 može obavljati privredno društvo,sa svojstvom pravnog lica koje osniva Opština Pljevlja u skladu sa Zakonom o privrednim društvima.
+Opština Pljevlja obavljanje djelatnosti iz člana 2 od opšteg ekonomskog interesa povjerava privrednom društvu ugovorom o povjeravanju obavljanja komunalnih djelatnosti u skladu sa zakonom.
+Uslov za potpisivanje ugovora iz prethodnog stava je posjedovanje licenci za obavljanje djelatnosti koje se povjeravaju ugovorom.
+Upravljanje i gazdovanje objektima za zahvatanje i tretman voda za piće sa njihovim zaštitnim zonama i pružanje usluga javnog vodosnabdijevanja pomoću sistema za javno vodosnabdijevanje, upravljanja komunalnim otpadnim vodama pomoću sistema za prihvatanje, odvođenje i prečićavanje otpadnih voda i upravljanje atmosferskim vodama pomoću sistema za prihvatanje, odvođenje i ispuštanje atmosferskih voda vrši privredno društvo koje je osnovala Opština Pljevlja (u daljem tekstu: Vršioc usluga).

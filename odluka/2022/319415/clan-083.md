@@ -1,0 +1,5 @@
+# Član 83
+Troškove tekućeg održavanja javne kanalizacije za otpadne vode snosi Vršioc usluga.
+Troškove i opravku sabirnog i revizionog okna snosi korisnik, koji je dužan da na pismenu opomenu Vršioca usluga izvrši sve potrebne popravke, ukoliko postojeće stanje ugrožava rad u oknu i otežava pravino funkcionisanje unutrašnjih kanalizacionih instalacija.
+Ako je kvar na kanalizacionom priključku do sabirnog ili revizionog okna nastao krivicom korisnika, troškove popravke snosi korisnik.
+O uzrocima kvara koji izaziva poremećaj u odvođnju otpadnih voda Vršioc usluga je obavezan, da u toku same popravke upozna korisnika sa činjeničnim stanjem.

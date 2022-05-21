@@ -1,0 +1,3 @@
+# Član 29
+Vršioc usluga je dužan da u najmanje jednom štampanom ili elektronskom mediju, koji je dostupan građanima na području Opštine Pljevlja, obavijesti korisnike o planiranim ili očekivanim smetnjama i prekidima koji mogu nastati u pružanju usluge javnog vodosnabdijevanja najkasnije 24 sata prije očekivanog prekida usluge ili isporuke vode za piće.
+U slučaju smanjenja dotoka ili nestašice vode na izvorištima u sušnim periodima godine Vršioc usluga je dužan da odmah, a najkasnije u roku od 24 časa, donese plan restrikcije isporuke vode na području Opštine Pljevlja, uz saglasnost organa lokalne uprave nadležnog za komunalne poslove, i o tome putem sredstava javnog informisanja obavijesti korisnike.

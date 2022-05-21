@@ -1,0 +1,9 @@
+# Član 2
+Javno vodosnabdijevanje je zahvatanje podzemnih i površinskih voda za ljudsku upotrebu i druge potrebe iz izvorišta ili drugog vodozahvata i njihov tretman i isporuka korisnicima preko sistema javnog vodosnabdijevanja, kao i mobilna isporuka vode.
+Komunalna djelatnost upravljanja komunalnim otpadnim vodama obuhvata javno odvođenje i prečišćavanje komunalnih otpadnih voda.
+Javno odvođenje komunalnih otpadnih voda obuhvata sakupljanje komunalnih otpadnih voda i njihovo dovođenje do uređaja za prečišćavanje komunalnih otpadnih voda ili recipijenta, preko sistema javnog odvođenja komunalnih otpadnih voda, kao i mobilno odvođenje komunalnih otpadnih voda.
+Prečišćavanje komunalnih otpadnih voda je proces obrade komunalne otpadne vode u skladu sa propisom kojim se uređuje upravljanje komunalnim otpadnim vodama i njihovo ispuštanje u recipijent.
+Upravljanje atmosferskim vodama je prihvatanje, odvođenje i ispuštanje atmosferskih otpadnih voda sa javnih i drugih uređenih površina koje su povezane na javnu atmosfersku kanalizaciju i održavanje izgrađenih objekata i prirodnih vodotoka za prihvatanje i odvođenje bujičnih voda.
+Mobilna isporuka vode iz stava 1 ovog člana je isporuka vode za ljudsku upotrebu i druge potrebe auto-cisternama i drugim sredstvima za mobilnu isporuku vode koja se obavlja u slučaju prekida pružanja usluge u trajanju dužem od 24 sata, odnosno za vrijeme ograničenja pružanja usluge korisniku zbog neplaćanja ili drugih razloga propisanih ovom odlukom.
+Mobilno odvođenje komunalnih otpadnih voda iz stava 3 ovog člana je crpljenje, odvoz i zbrinjavanje otpadnih voda iz septičkih jama korisnicima koji nisu priključeni na kanalizacioni sistem već imaju septičke jame, ali su priključeni na vodovodni sistem.
+Usluge javnog vodosnabdijevanja, javnog odvođenja komunalnih otpadnih voda, upravljanje atmosferskim vodama i prečišćavanje komunalnih otpadnih voda u smislu ove odluke predstavljaju vodne usluge.
