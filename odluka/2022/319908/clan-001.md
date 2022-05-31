@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za ustupanje nepokretnosti na korišćenje Zavodu za hitnu medicinsku pomoć Crne Gore, bez naknade
+Glavni grad - Podgorica, kao nosilac prava raspolaganja daje saglasnost za ustupanje dijela nepokretnosti na korišćenje Zavodu za hitnu medicinsku pomoć Crne Gore, bez naknade, na period od 5 (pet) godina uz mogućnost produženja, koje predstavljaju prostorije ukupne površine 116m2 u poslovnoj zgradi Službe zaštite i spašavanja u ulici Josipa Broza Tita br.2 u Podgorici - u objektu br. 5 na katastarskoj parceli br. 2089/7 iz Lista nepokretnosti br. 3217 KO Podgorica III.
