@@ -1,0 +1,1 @@
+Na osnovu člana 38 stav 1 tačka 21 Zakona o lokalnoj sanoupravi ("Službeni list CG" br. 2/18, 34/19 i 38/20) i člana 73 stav 1 tačka 24 Statuta Prijestonicce ( "Službeni list CG- opštinski propoisi" br.49/19, 9/19, 17/21), Skupština Prijestonice Cetinje na sjednici održanoj dana 01.06.2022. godine donijela je
