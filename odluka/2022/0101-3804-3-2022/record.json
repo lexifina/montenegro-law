@@ -1,0 +1,45 @@
+{
+  "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/izmjene_odluke_o_reprodukciji_novcanica_54-22.pdf",
+  "title": "Odluka o izmjenama Odluke o reprodukciji novčanica",
+  "source_sha256": "d231c0e71fdc70fe94d108587c39d036af180061cf54d57dff29b937a024913a",
+  "source_bytes": 198061,
+  "pages": 2,
+  "source_images": 0,
+  "gazette_issue": "54/2022",
+  "publication_date": "2022-05-24",
+  "publication_evidence": {
+    "issue": "54/2022",
+    "date": "2022-05-24",
+    "quote": "54/22 od 24.05.2022",
+    "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/odluka_o_reprodukciji_novcanica_prec_tekst_54-22.pdf",
+    "source_sha256": "254022bf3f3a58b7de58301921e94d96e2862abf251e23943759b54c0f703f4d"
+  },
+  "commencement_quote": "Ova odluka stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu Crne Gore\".",
+  "date": "2022-06-01",
+  "basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu Crne Gore\".\"; Gazette 54/2022 publication on 2022-05-24 stated as \"54/22 od 24.05.2022\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/odluka_o_reprodukciji_novcanica_prec_tekst_54-22.pdf.",
+  "text_sha256": "3ece063e72e475abcd77ab0918f894944fd27088ac42281f545a5521bc569089",
+  "word_count": 329,
+  "official_numbers": [
+    "0101-3804-3/2022"
+  ],
+  "path": "odluka/2022/0101-3804-3-2022",
+  "kind": "as-enacted",
+  "issuer": "Centralna banka Crne Gore",
+  "text_status": "as-enacted",
+  "in_force": "2022-06-01",
+  "in_force_basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu Crne Gore\".\"; Gazette 54/2022 publication on 2022-05-24 stated as \"54/22 od 24.05.2022\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/odluka_o_reprodukciji_novcanica_prec_tekst_54-22.pdf.",
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "complete": true,
+  "first_law": null,
+  "source_listing": "https://www.cbcg.me/me/o-nama/regulativa/podzakonski-akti",
+  "related_pis_candidates": [
+    337470
+  ],
+  "official_number": "0101-3804-3/2022",
+  "official_number_quote": "O.br. 0101-3804-3/2022",
+  "line_endings": "LF",
+  "current_text_asserted": false,
+  "related_official_versions": [],
+  "version_note": "Text as enacted; linked amendments and consolidated copies are separate records and are not applied to this text."
+}
