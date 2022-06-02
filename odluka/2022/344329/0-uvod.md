@@ -1,0 +1,2 @@
+Na osnovu čl.6, čl.29 i čl.32 Zakona o državnoj imovini CG ("Sl.list CG", br.21/09, 40/11), čl.34 i čl.38 Zakona o lokalnoj samoupravi ("Sl.list CG", br.2/18, 34/19 i 38/20), čl.201, čl.208, čl.213 i čl.215 Zakona o svojinsko-pravnim odnosima ("Sl.list CG", br. 19/09), čl.19 i čl.36 Statuta opštine Kotor ("Sl.list CG- Opštinski propisi", br. 37/19) Skupština opštine Kotor, na X sjednici održanoj 04. 05. 2022.godine, donijela je
+O D L U K U
