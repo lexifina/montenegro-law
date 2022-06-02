@@ -1,0 +1,2 @@
+Na osnovu člana 59 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 02/18, 34/19, 38/20, 50/22), člana 5 stav 1 alineja 8 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija - Ujësjellësi dhe kanalizimi" Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 40/21) i člana 41 Statuta DOO "Vodovod i kanalizacija/Ujësjellësi dhe kanalizimi" Tuzi broj 08-032/21-14771 od 01.12.2021. godine, predsjednik opštine Tuzi, donio je:
+ODLUKU
