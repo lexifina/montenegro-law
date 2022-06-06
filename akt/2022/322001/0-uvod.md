@@ -1,0 +1,2 @@
+Na osnovu čl. 68 i 69 Zakona o Budžetu i fiskalnoj odgovornosti ("Sl.list Crne Gore", br.2 0/14, 56/14, 70/17, 04/18, 55/18, 66/19) i čl. 40 i 41 Zakona o finansiranju lokalne samouprave ("Sl.list CG", br.03/19), i čl. 37 i 38 stav 3 Statuta opštine Bijelo Polje ("Sl.list CG-Opštinski propisi", br. 19/18) Skupština opštine Bijelo Polje na sjednici održanoj 20.05.2022. godine, donijela je:
+Z A V R Š N I R A Č U N Budžeta Opštine Bijelo Polje za 2021. godinu
