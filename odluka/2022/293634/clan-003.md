@@ -1,0 +1,2 @@
+# Član 3
+Nepokretnost iz člana 1 ove odluke prodaje se po cijeni od 315,87 €/m2, što ukupno iznosi 89.195,94 €, shodno Izvještaju o procjeni vrijednosti nepokretnosti u zahvatu DUP-a "Topolica - Bjeliši", izmjene i dopune sačinjenom od strane sudskog vještaka i ovlašćenog procjenjivača nekretnina, dipl. inž. građevinarstva Sonje Ivanović iz Podgorice, protokolisanog kod Opštine Bar pod brojem br. 04-427/21-2114 od 24.01.2022. godine.
