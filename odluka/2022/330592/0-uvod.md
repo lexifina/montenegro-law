@@ -1,0 +1,2 @@
+Na osnovu člana 59 stav 2 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list CG", br. 27/13, 01/15, 42/15, 47/15, 56/16, 66/16, 01/17, 31/17, 42/17, 50/17, 59/21), člana 27 stav 1 tačka 15 i člana 185 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19, 38/20 i 50/22) i člana 35 stav 1 alineja 2 Statuta opštine Tivat ("Službeni list CG - Opštinski propisi", br. 24/18, 09/20), Odbor povjerenika Opštine Tivat, na sjednici održanoj dana 18.05.2022. godine, donio je
+O D L U K U
