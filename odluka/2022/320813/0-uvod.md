@@ -1,0 +1,2 @@
+Na osnovu člana 73 stav 1 tačka 25 Statuta Prijestonice ("Službeni list CG-Opštinski propisi" br. 49/18, 9/19 i 17/21) i člana 19 stav 1, a u vezi sa članom 18 stav 2 Odluke o osnivanju Društva sa ograničenom odgovornošću Lokalni javni emiter "Radio i televizija Cetinje" ("Službeni list CG-Opštinski propisi br. 27/11), na predlog Odbora za izbor i imenovanja, Skupština Prijestonice Cetinje na sjednici održanoj dana 01.06.2022.godine donijela je
+ODLUKU
