@@ -1,0 +1,2 @@
+# Član 3
+Stupanjem na snagu ove Odluke prestaje da važi Odluka o imenovanju Savjeta Javne ustanove "Muzej i galerije" Tivat broj 0304-030-452 od 21.12.2017.godine ( "Službeni list Crne Gore - Opštinski propisi", br. 055/17) i Odluka o izmjeni Odluke o imenovanju Savjeta Javne ustanove "Muzej i galerije" Tivat broj 0304-030-346 od 20.12.2019. godine ( "Službeni list Crne Gore - Opštinski propisi", br. 053/19).
