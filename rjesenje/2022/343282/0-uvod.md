@@ -1,0 +1,2 @@
+Na osnovu člana 21 stav 1 i člana 22 stav 1 tačka 2 Zakona o kulturi ("Službeni list CG" br. 49/08, 16/11, 40/11 i 38/12), člana 73 stav 1 tačka 25 Statuta Prijestonice ("Službeni list CG-Opštinski propisi" br. 49/18, 9/19 i 17/21), člana 7 stav 4 Odluke o organizovanju JU Narodna biblioteka i čitaonica "Njegoš" Cetinje ("Službeni list CG-Opštinski propisi br. 18/12) i člana 11 i člana 14 stav 1 tačka 2 Statuta JU Narodna biblioteka i čitaonica "Njegoš" Cetinje, Skupština Prijjestonice Cetinje na sjednici održanoj dana 01.06.2022. godine donijela je
+R J E Š E Nj E
