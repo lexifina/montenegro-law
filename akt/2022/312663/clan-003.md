@@ -1,0 +1,2 @@
+# Član 3
+U smislu ovog kodeksa, izabrani predstavnik i funkcioner lokalne samouprave je odbornik, predsjednik i sekretar Skupštine, predsjednik opštine, potpredsjednik opštine, glavni administrator i svako izabrano, imenovano ili postavljeno lice u organima lokalne uprave, posebnim i stručnim službama, organima javnih službi I drugih organizacija čiji je osnivač Opštine Budva (u daljem tekstu: izabrani predstavnik i funkcioner).

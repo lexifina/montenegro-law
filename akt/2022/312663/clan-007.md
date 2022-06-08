@@ -1,0 +1,7 @@
+# Član 7
+## Odnos prema drugim izabranim predstavnicima, funkcionerima, zaposlenima i građanima
+U obavljanju funkcije, izabrani predstavnik i funkcioner poštuje prava drugih izabranih predstavnika, funkcionera, zaposlenih i građana.
+Izabrani predstavnik i funkcioner je dužan da u vršenju svake službene radnje poštuje načelo jednakosti građana pred zakonom, a posebno u postupku riješavanja o pravima, obavezama ili pravnim interesima građana, pravnih lica i drugih subjekata.
+U vršenju poslova izabrani predstavnik i funkcioner ne smije dovoditi u povlašćeni, odnosno neravnopravan položaj građanina u ostvarivanju njegovih prava i obaveza, po osnovu rase, boje kože, nacionalne pripadnosti, društvenog ili etničkog porijekla, veze sa nekim manjinskim narodom ili manjinskom nacionalnom zajednicom, jezika, vjere ili uvjerenja, političkog ili drugog mišljenja, pola, promjene pola, rodnog identiteta, seksualne orijentacije i/ili interseksualnih karakteristika, zdravstvenog stanja, invaliditeta, starosne dobi, imovnog stanja, bračnog ili porodičnog stanja, pripadnosti grupi ili pretpostavke o pripadnosti grupi, političkoj partiji, sindikalnoj ili drugoj organizaciji, kao i po osnovu drugih ličnih svojstava.
+Izabrani predstavnik i funkcioner ne smije da podstiče niti pomaže druge izabrane predstavnike, funkcionere i zaposlene da prilikom vršenja svojih dužnosti, krše pravila ponašanja uspostavljena ovim kodeksom.
+Izabrani predstavnik i funkcioner javno ukazuje na sve slučajeve nezakonitog ponašanja ili ponašanja suprotnog pravilima i principima ovog kodeksa.
