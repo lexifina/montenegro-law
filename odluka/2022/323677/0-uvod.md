@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19, 38/20 i 50/22), člana 46 stav 1 tačka 2 Statuta opštine Bijelo Polje ("Sl. list CG- opštinski propisi" br. 19/18) i člana 4 i 6 Uredbe o biznis zonama ("Službeni list CG", br.77/16 i 38/17), te mišljenja Savjeta Agencije za zaštitu konkurencije br.01-430/22-384/7 od 13.05.2022.godine i Saglasnosti Ministarstva ekonomskog razvoja i turizma br.002-305/22-8096/2 od 16.05.2022.godine, Skupština opštine Bijelo Polje, na sjednici održanoj dana 20.05.2022 godine, donijela je:
+O D L U K U
+o izmjenama i dopunama Odluke o osnivanju biznis zona "Nedakusi", "Cerovo", "Vraneška dolina",
