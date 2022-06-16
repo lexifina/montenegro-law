@@ -1,0 +1,2 @@
+Na osnovu člana 17 Zakona o socijalnoj i dječjoj zaštiti ("Sl.list Crne Gore", br. 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17 i 59/21), člana 27 stav 1 tačka 15 Zakona o lokalnoj samoupravi (,,Službeni list Crne Gore" br.2/18, 34/19 ,38/20 i 50/22) i člana 73 stav 1 tačka 2 Statuta Prijestonice (,,Službeni list Crne Gore - opštinski propisi " br. 49/18, 9/19 i 17/21), Skupština Prijestonice Cetinje, na sjednici održanoj dana 01.06.2022. godine, donijela je
+ODLUKU
