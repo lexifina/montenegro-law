@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 Zakona o socijalnom stanovanju ("Službeni list CG", br. 35/13), člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 02/18, 34/19, 38/20 i 50/22) i člana 73 stav 1 tačka 4 Statuta Prijestonice ("Službeni list CG - opštinski propisi", br.49/18 , 09/19 i 17/ 21) uz saglasnost Ministarstva ekologije,prostornog planiranja i urbanizma broj 11-35/83 od 30.12.2021.godine, Skupština Prijestonice na sjednici održanoj dana, 01.06. 2022.godine, donijela je
+ODLUKU
