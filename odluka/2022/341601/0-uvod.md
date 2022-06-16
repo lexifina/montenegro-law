@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 74/16, 02/18 i 66/19), člana 73 stav 1 tačka 2 Statuta Prijestonice ("Službeni list Crne Gore-opštinski propisi″, br.49/18, 09/19 i 17/21) i člana 10 stav 1 alineja 1 Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalno" Cetinje ("Službeni list Crne Gore - opštinski propisi", br. 030/13, 022/14 i 016/17), Skupština Prijestonice Cetinje, na sjednici održanoj dana 01.06.2022. godine, donijela je:
+ODLUKU
