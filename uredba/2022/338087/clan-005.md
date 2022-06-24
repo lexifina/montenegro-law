@@ -1,0 +1,2 @@
+# Član 5
+Poslovi radnih mjesta policijskih službenika u organizacionim jedinicama Ministarstva koje vrše poslove unutrašnje kontrole rada organizacione jedinice Ministarstva koja vrši policijske poslove (u daljem tekstu: Policija), poslove kontrole rada u Ministarstvu i bezbjednosno-nadzorne poslove, kao i poslovi radnih mjesta policijskih službenika u okviru kategorije izvršni kadar mogu se obavljati u najviše tri policijska zvanja, a poslovi ostalih radnih mjesta u najviše dva policijska zvanja.
