@@ -1,0 +1,2 @@
+# Član 5
+Ovlašćuje se predsjednica Opštine Danilovgrad, da u ime Opštine Danilovgrad, sa Ministarstvom finansija i Bankom zaključi Ugovor o cesiji i potpiše akta kojima će omogućiti Ministarstvu finansija raspolaganje sredstvima koja Opština Danilovgrad dobija iz Egalizacionog fonda i Zakonom ustupljenih prihoda za period trajanja Ugovora o cesiji i Ugovora o zaduživanju, do visine obaveza utvrđenih pomenutim Ugovorima
