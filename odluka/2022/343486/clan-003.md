@@ -1,0 +1,2 @@
+# Član 3
+Nepokretnost iz člana 1 stav 1 ove odluke prodaje se po cijeni od 277,77€/m2, što ukupno iznosi 119.996,64€, shodno Izvještaju o procjeni vrijednosti nepokretnosti -neizgrađeno građevinsko zemljište površine 1.961m2 u sklopu urbanističkih parcela broj UP 45 i 46, zona "C", blok 8, DUP "Topolica III"-izmjene i dopune, Opština Bar sačinjenog od strane ovlašćenog procjenjivača i sudskog vještaka Sonje Ivanović, dipl.ing. građevine, protokolisanog kod Opštine Bar pod brojem: 04-427/20-906 od 24.12.2021. godine.
