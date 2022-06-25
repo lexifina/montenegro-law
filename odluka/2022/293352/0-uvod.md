@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 1 tačka 1, člana 38 stav 1 tačka 9 i člana 185 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore" br. 02/18, 34/19, 38/20, 50/22) i člana 35 Statuta opštine Tivat ("Sl.list Crne Gore-opštinski propisi" br. 24/18, 09/20), u vezi sa članom 35 stav 1 Zakona o državnoj imovini ("Sl.list Crne Gore" br.21/09, 40/11) Odbor povjerenika opštine Tivat, na sjednici održanoj dana 09.06.2022. godine, donio je
+O D L U K U
