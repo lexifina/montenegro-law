@@ -1,0 +1,2 @@
+Na osnovu člana 185 stav 3 I člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19, 38/20 i 50/22), člana 44 stav 1 tačka 14 Statuta opštine Budva ("Službeni list CG - Opštinski propisi", br.02/19 ), a u vezi sa članom 329 stav 2 Zakona o privrednim društvima ("Službeni list CG", br. 65/20), Odbor povjerenika Opštine Budva, na sjednici održanoj 10. juna 2022. godine, donio je
+O D L U K U
