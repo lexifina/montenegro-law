@@ -1,0 +1,2 @@
+# Član 2
+Urbanističku parcelu broj UP 46 u zoni "C", blok 8, u skladu sa DUP-om "Topolica III"-izmjene i dopune, pored zemljišta opisanog u članu 1 stav 1 odluke, čini: katastarska parcela broj 4699/2 površine 980m2 iz l.n.br. 828 KO Novi Bar svojina u obimu 1/1 Lavrović Sulejmana Ćazima i katastarska parcela broj 4698/10 površine 187m2 i iz l.n.br.4624 KO Novi Bar svojina u obimu 1/1 Pajković Gorana.
