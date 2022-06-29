@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 28 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20 i 50/22), člana 23 stav 1, 2 i 3 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 42/18, 34/19, 130/21 i 146/21) i člana 36 stav 1 tačka 28 Statuta opštine Mojkovac ("Sl. list CG-Opštinski propisi", br. 29/18), Skupština opštine Mojkovac, uz prethodnu saglasnost Ministarstva finansija, broj 13-110/22-14404/2 od 30.05.2022.godine, na sjednici održanoj dana 10. juna 2022. godine, donijela je
+O D L U K U
+o zaradama lokalnih funkcionera i lica koja imenuje Skupština opštine Mojkovac
