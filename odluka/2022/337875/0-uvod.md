@@ -1,0 +1,2 @@
+Na osnovu člana 67 Zakona o elektronskim medijima ("Sl. list Crne Gore", br. 46/10, 40/11, 53/11, 06/13, 55/16, 92/17 i 82/20), člana 37 st. 1 tačka 10 Statuta Agencije za elektronske medije ("Službeni list Crne Gore", br. 46/22) i člana 9bis Zakona o potvrđivanju Evropske konvencije o prekograničnoj televiziji ("Sl. list Crne Gore", broj 01/08), Savjet Agencije za elektronske medije na sjednici od 16.06.2022. godine usvojio je
+ODLUKU O IZMJENI ODLUKE O LISTI DOGAĐAJA OD POSEBNOG ZNAČAJA ZA JAVNOST U CRNOJ GORI
