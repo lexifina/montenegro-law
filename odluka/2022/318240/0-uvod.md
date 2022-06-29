@@ -1,0 +1,3 @@
+Na osnovu člana 24 stav Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list Crne Gore" br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18, 34/19, 130/21, 146/21) i člana 12 stav 1 al. 3 Statuta JU Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u Opštini Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", br. 29/17, 49/18, 16/19), Upravni odbor JU Centar za dnevni boravak djece sa smetnja-ma u razvoju i odraslih lica sa invaliditetom u Opštini Danilovgrad, na sjednici održanoj 15. marta 2022. godine, donio je
+O D L U K U
+o utvrđivanju koeficijenata za zarade zaposlenih u JU Centar za dnevni boravak djece sa
