@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 002/18, 034/19, 38/20, 50/22) i člana 78a stav 1, 2 i 3 Zakona o upravljanju otpadom ("Sl. list CG", br. 064/11, 039/16), člana 76 Statuta Prijestonice Cetinje ("Sl. list CG - Opštinski propisi", br. 049/18, 009/19 i 17/21), Skupština Prijestonice Cetinje, na sjednici održanoj dana, 16.06.2022. godine, donijela je
+O D L U K U
