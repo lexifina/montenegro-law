@@ -1,0 +1,3 @@
+Na osnovu člana 74 st. 2 i 3 Zakona o komunalnim djelatnostima ("Sl.list CG", br. 55/16, 74/16, 02/18 i 66/19), člana 38 stav 1 tačka 30 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 02/18, 34/19 i 38/20) i člana 36 stav 1 tačka 52 Statuta opštine Mojkovac ("Sl.list Crne Gore - Opštinski propisi", broj 29/18), Skupština opštine Mojkovac, na sjednici održanoj dana 10. juna 2022. godine, donijela je
+O D L U K U
+o davanju saglasnosti za zaključenje Ugovora o povjeravanju obavljanja komunalnih djelatnosti i korišćenju komunalne infrastrukture i drugih sredstava u svojini Opštine Mojkovac, sa D.O.O. "Komunalne usluge - Gradac" Mojkovac
