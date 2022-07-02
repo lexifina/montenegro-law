@@ -1,0 +1,2 @@
+# Član 11
+Osnovica poreza na nepokretnosti za obveznika poreza na nepokretnosti koji vodi poslovne knjige utvrđuje se na način da se kao tržišna vrijednost te nepokretnosti uzima vrijednost nepokretnosti koja je prikazana u njegovim poslovnim knjigama , u skladu sa propisima kojima se uređuje računovodstvo (fer vrijednost), sa stanjem na dan 31.decembra godine koja prethodi godini za koju se utvrđuje porez na nepokretnosti.
