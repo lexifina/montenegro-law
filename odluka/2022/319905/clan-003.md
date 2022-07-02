@@ -1,0 +1,4 @@
+# Član 3
+Društvo iz člana 1 ove odluke osniva se kao jednočlano društvo.
+Osnivač Društva je Skupština opštine Nikšić (u daljem tekstu: Osnivač)
+Društvo se osniva na neodređeno vrijeme.
