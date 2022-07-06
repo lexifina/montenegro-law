@@ -1,0 +1,3 @@
+Na osnovu člana 34 stav 3 Zakona o zaštiti prirode ("Službeni list CG", br. 54/16 i 18/19) i člana 54 stav 1 tačka 10 Statuta Glavnog grada Podgorica ("Službeni list CG - opštinski propisi", br. 08/19 i 20/21), po prethodno pribavljenoj saglasnosti Ministarstva ekologije, prostornog planiranja i urbanizma broj 01-322/22-1066/8 od 24. maja 2022. godine i prethodno pribavljenom mišljenju Ministarstva poljoprivrede, šumarstva i vodoprivrede broj 08-331/21-5880/3 od 08. oktobra 2021. godine i Ministarstva prosvjete, nauke, kulture i sporta broj 13/1-01-082/21-6950/5 od 01. decembra 2021. godine, Skupština Glavnog grada - Podgorice na sjednici održanoj dana 22. juna 2022. godine, donijela je
+O D L U K U
+o proglašenju Spomenika prirode "Park šuma Gorica"
