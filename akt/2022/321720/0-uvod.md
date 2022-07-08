@@ -1,0 +1,2 @@
+Na osnovu člana 68 i 69 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14, 56/14, 70/17, 4/18, 55/18, 66/19, 70/21 i 145/21), člana 40 i 41 Zakona o finansiranju lokalne samouprave ("Službeni list CG", br. 3/19) i člana 43 stav 1 tačka 7 Statuta Opštine Bar ("Sl.list CG - Opštinski propisi", br. 37/18), Skupština оpštine Bar, na sjednici održanoj 27.06.2022. godine, donijela je
+Z A V R Š N I R A Č U N
