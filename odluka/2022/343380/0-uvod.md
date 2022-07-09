@@ -1,0 +1,2 @@
+Na osnovu člana 19 i 24 stav 1 i člana 25 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02 i 48/06 i "Sl. list CG", br. 46/11 i 14/14, 047/14, 012/16, 060/17 i 010/18) i člana 58 tačka 21 Statuta Opštine Ulcinj ("Sl. list CG - Opštinski propisi", br. 48/19), Skupština opštine Ulcinj, na sjednici održanoj dana 27.06.2022. godine, donijela je
+O D L U K U
