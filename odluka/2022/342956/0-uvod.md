@@ -1,0 +1,2 @@
+Na osnovu člana 154 stav 4 a u vezi sa članom 160 Zakona o socijalnoj i dječjoj zaštiti ( "Službeni list CG", br. 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/21, 145/21 i 145/21), člana 27 stav 1 tačka 15 , člana 38 stav 1 tačka 2 i člana 185 Zakona o lokalnoj samoupravi ( "Službeni list CG", br. 2/18, 34/19, 38/20 i 50/22), člana 35 stav 1 alineja 2 i člana 39 Statuta opštine Tivat ( "Službeni list CG - Opštinski propisi", broj 24/18 i 9/20), Odbor povjerenika opštine Tivat, na sjednici održanoj dana 23.06. 2022. godine, donio je
+O D L U K U
