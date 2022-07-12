@@ -1,0 +1,2 @@
+# Član 4
+Skupština Glavnog grada saglasna je da se kod Uprave za katastar i državnu imovinu Područna jedinica Podgorica izvrši upis prava svojine na "Parking servis Podgorica" d.o.o. Podgorica, matični broj: 02653753, na poslovnom prostoru u privredi oznake PD 35, spratnosti P1, površine 270m², koji se nalazi u zgradi broj 5, sagrađenoj na katastarskoj parceli broj 2253, upisan u "V" listu nepokretnosti broj 2324 KO Podgorica II.

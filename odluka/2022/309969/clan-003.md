@@ -1,0 +1,2 @@
+# Član 3
+Ukupna vrijednost osnovnog kapitala "Parking servis Podgorica" d.o.o. Podgorica nakon povećanja iz člana 2 ove odluke iznosi 367.751,00 EUR (slovima: tri stotine šezdeset sedam hiljada sedam stotina pedeset jedan euro), od čega iznos od 10.001,00 EUR (slovima: deset hiljada jedan euro) čini novčani osnivački ulog, dok iznos od 357.750,00 EUR (slovima: tri stotine pedeset sedam hiljada sedam stotina pedeset eura) čini nenovčani osnivački ulog.
