@@ -1,0 +1,2 @@
+Na osnovu čl. 41 i 42 Zakona o zaštiti i spašavanju ("Službeni list CG", br. 13/07, 5/08, 86/09, 32/11, 54/16 i 146/21), člana 27 stav 1 tačka 20 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20 i 50/22) i člana 24 stav 1 tačka 20 i člana 54 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19 i 20/21), Skupština Glavnog grada - Podgorice, na sjednici održanoj 5. jula 2022. godine, donijela je
+O D L U K U
