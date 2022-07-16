@@ -1,0 +1,2 @@
+Na osnovu člana 28 Zakona o turističkim organizacijama ("Sl. List RCG", br. 11/04, 46/07 Sl. list Crne Gore", br. 73/10, 40/11, 45/14, 42/17 i 27/19), člana 46 stav 1 tačka 2 Statuta Opštine Rožaje ("Sl. list Crne Gore - Opštinski propisi", br.38/18 i 16/21), člana 7a Odluke o osnivanju Turističke organizacije Rožaje. ("Sl. list RCG- Opštinski propisi", br. 32/04, "Službeni list Crne Gore - Opštinski propisi", broj 16/22 ), Skupština opštine Rožaje, na sjednici održanoj dana 29.06.2022.godine, donijela je
+O D L U K U
