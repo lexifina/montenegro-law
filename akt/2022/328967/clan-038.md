@@ -1,0 +1,9 @@
+# Član 38
+## Razmatranje zahtjeva
+(1) Agencija na internet stranici objavljuje zahtjev operatora za utvrđivanje cijena za pomoćne usluge i usluge balansiranja,
+sa podnesenom dokumentacijom.
+(2) Mišljenja i primjedbe na zahtjev iz stava 1 ovog člana, zainteresovana lica mogu dostaviti Agenciji u roku od osam dana
+od dana njegovog objavljivanja.
+(3) Ako zahtjev sadrži formalni nedostatak, ako je nerazumljiv ili nepotpun, Agencija će najkasnije u roku do 14 dana od
+dana prijema zahtjeva zatražiti od operatora da nedostatke otkloni i obavještenje o tome objaviti na internet stranici.
+(4) Operator je dužan je da nedostatke u zahtjevu otkloni u roku od 10 dana od dana prijema zahtjeva iz stava 3 ovog člana.
