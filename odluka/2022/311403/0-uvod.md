@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 i 3 Zakona o socijalnom stanovanju ("Sl. list CG", br. 35/13), člana 27 stav 1 tačka 16 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19 i 38/20), člana 38 stav 1 tačka 4 Statuta Opštine Gusinje ("Sl. list CG- Opštinski propisi", br. 3/19 i 24/21) i Saglasnosti Ministarstva ekologije, prostornog planiranja i urbanizma Crne Gore, br. 11- 37/22- 12/13 od 22.02.2022. godine, Skupština opštine Gusinje na sjednici održanoj 30.06.2022. godine, donijela je:
+O D L U K U
