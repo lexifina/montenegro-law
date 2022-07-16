@@ -1,0 +1,2 @@
+Na osnovu člana 18 stav 1 alineja 2, člana 29 stav 2 i člana 34 stav 1 Zakona o državnoj imovini ("Sl. list CG", broj 12/09 i 40/11), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG", broj 2/18, 34/19 i 38/20) i člana 35 stav 1 tačka 2 Statuta Opštine Šavnik ("Sl. list CG - Opštinski propisi", broj 31/18), Skupština opštine Šavnik, na sjedinici održanoj, 24.06.2022. godine, donijela je
+O D L U K U
