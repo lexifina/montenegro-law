@@ -1,0 +1,2 @@
+Na osnovu člana 3 i 11 Zakona o rodnoj ravnopravnosti ("Sl. list CG", br. 046/07, 073/10, 040/11, 035/15), člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 02/18, 34/19, 38/20) i člana 35 stav 1 tačka 4 Statuta Opštine Šavnik ("Službeni list CG - Opštinski propisi", broj 31/18), na sjednici Skupštine opštine Šavnik, održanoj dana 24.06.2022. godine, donijela je
+O D L U K U
