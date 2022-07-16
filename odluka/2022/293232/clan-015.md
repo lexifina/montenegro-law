@@ -1,0 +1,2 @@
+# Član 15
+Korisnik stipendije ima obavezu da po završetku studija, svoje profesionalne usluge ponudi prvenstveno Opštini Šavnik i da u zavisnosti od procjene organa opštine Šavnik za potrebom zapošljavanja tog obrazovnog profila zasnuje radni odnos i provede na radu onoliko koliko je bio obavezan Ugovorom o stipendiranju, u protivnom biće dužan da za vrijeme koje nije proveo na radu, vrati revalorizovani iznos stipendije.
