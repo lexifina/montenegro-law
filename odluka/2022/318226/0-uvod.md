@@ -1,0 +1,3 @@
+Na osnovu člana 6 stav 1 i 2 Zakona o zaštiti od buke u životnoj sredini ("Sl. list CG", br. 28/11,001/14,002/18),člana 11 Odluke o organizaciji i načinu rada lokalne uprave opštine Gusinje ("Sl.list CG - Opštinski propisi", br. 042/20) u skladu sa odredbama člana 7 Pravilnika o graničnim vrijednostima buke u životnoj sredini, načinu utvrđivanja indikatora buke i akustičkih zona i metodama ocjenjivanja štetnih efekata buke ("Sl. list CG", br. 60/11), i člana 38 stav 1 tačka 2 Statuta Opštine Gusinje (,,Sl.list Crne Gore-Opštinski propisi", br. 03/19 i 24/21), Skupština opštine Gusinje, na sjednici održanoj ,dana 30.06. 2022. godine donosi:
+O D L U K U
+o utvrđivanju akustičnih zona u Opštini Gusinje
