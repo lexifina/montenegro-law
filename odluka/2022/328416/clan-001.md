@@ -1,0 +1,3 @@
+# Član 1
+## o dopuni Odluke o prenosu prava korišćenja na nepokretnostima na kojima pravo raspolaganja ima opština Pljevlja Društvu sa ograničenom odgovornošću "Grijanje" Pljevlja
+U Odluci o prenosu prava korišćenja na nepokretnostima na kojima pravo raspolaganja ima opština Pljevlja Društvu sa ograničenom odgovornošću "Grijanje" Pljevlja ("Sl. list CG - Opštinski propisi" broj 31/17 i 22/22) u čl. 1 u tabeli, poslije rednog broja 3 dodaje se redni broj 4 - poslovni prostor u privredi, broj lista nepokretnosti 3170, broj katastarske parcele 2268/1, broj zgrade 1, PD-1 površine 34,00m2 i PD-2 površine 125,00m2 i redni broj 5 poslovni prostor u privredi, broj lista nepokretnosti 3174, broj katastarske parcele 2267, broj zgrade 1, PD-1 površine 46,00m2.
