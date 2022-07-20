@@ -1,0 +1,2 @@
+Na osnovu Zakona o socijalnom stanovanju ("Sl.list CG br 35/13"), člana 27 stav 1 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/2018, 34/2019, 38/2020 i 50/2022) i člana19 stav 1 tačke 10, 15, 16 i 20, te člana 40 stav 1 tačka 2 i tačka 4 Statuta Оpštine Pljevlja("Službeni list CG - Opštinski propisi", br. 46/18) Skupština opštine Pljevlja na sjednici održanoj dana 01.07.2022. godine, donijela je:
+O D L U K U
