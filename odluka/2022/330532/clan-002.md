@@ -1,0 +1,4 @@
+# Član 2
+-Urbanistička parcela 40a sastoji se od kat. Parc. br. 30/50 u pov od 929 m2 sa LN. br. 604 KO Ulcinjsko Polje svojina 1/1 "Kallaba company "d.o.o. I kat. Parc. br. 390/2 u površinu od 12 m2 sa LN. br. 3 KO Ulcinjsko Polje, kao Svojina Crne Gore-nosilac prava raspolaganja Opština Ulcinj u zahvatu Ulcinjsko Polje.
+- Urbanistička parcela 41 sastoji se od kat. Parc. br. 30/522 u pov od 754 m2 I kat. Parc. br.30/523 u pov. 68 m2 sa LN. br. 604 KO Ulcinjsko Polje svojina 1/1 "Kallaba company "d.o.o. I br.390/3 u površinu od 36 m2 , I kat. Parc. br.30/800 u površinu od 64m2, katastarske parcele br.30/801 u površinu od 53 m2, sa LN. br. 3 KO Ulcinjsko Polje, kao Svojina Crne Gore-nosilac prava raspolaganja Opština Ulcinj u zahvatu Ulcinjsko Polje.
+-Urbanistička parcela br. 40 sastoji se od 30/348 sa LN. br. 604 KO Ulcinjsko Polje svojina 1/1 "Kallaba company "d.o.o u zahvatu Ulcinjsko Polje.
