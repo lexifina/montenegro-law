@@ -1,0 +1,2 @@
+Na osnovu člana 56 st. 1, a u vezi člana 38 st. 1 tač. 18 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore-Opštinski propisi", br. 002/18, 034/19, 038/20 i 50/22) i člana 46 st 1 tač. 19 Statuta Opštine u okviru Glavnog grada-Golubovci ("Službeni list Crne Gore-Opštinski propisi", br. 012/19), Skupština opštine u okviru Glavnog grada Golubovci, je na sjednici održanoj dana 22.07.2022. godine, donijela je
+O D L U K U
