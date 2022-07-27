@@ -1,0 +1,2 @@
+# Član 2
+Neutrošena novčana sredstva prikupljena donacijama radi ublažavanja i suzbijanja posljedica nastalih usljed epidemije zarazne bolesti COVID 19, koja su donatori uplaćivali na žiro račun "Nacionalno koordinaciono tijelo za zarazne bolesti", broj: 510-117161-85 i prateći devizni račun, u iznosu od 5.160.000,00 eura, Generalni sekretarijat Vlade Crne Gore preusmjeriće na Glavni račun državnog trezora.
