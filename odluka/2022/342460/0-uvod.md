@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi (,,Službeni list Crne Gore,, broj 2/18, 34/19, 38/20, 50/22 ), člana 34 stav 1 tačka 22 Statuta Opštine Petnjica (,,Službeni list CG - Opštinski propisi,, broj 16/22) i članova 10, 13, i 14 Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalna djelatnost" Petnjica ("Sl. list CG - Opštinski propisi", br 30/15) Skupština Opštine Petnjica, na sjednici održanoj dana, 30.06.2022. godine, donijela je
+O D L U K U
