@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tacka 3 Ustava Crne Gore, člana 36b stav 1 tačka 5 Zakona o manjinskim pravima i slobodama i člana 3 Odluke o osnivanju Fonda za zaštitu i ostvarivanje manjinskih prava ("SIužbeni list CG", br. 13/08, 64/11 i 68/17), Skupština Crne Gore 27. saziva, na Osmoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2022. godini, dana 30. jula 2022. godine, donijela je
+ODLUKU O IZBORU JEDNE ČLANICE UPRAVNOG ODBORA FONDA ZA ZAŠTITU I
