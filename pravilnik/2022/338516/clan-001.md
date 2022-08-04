@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o postupku oslobađanja od plaćanja porezu na dodatu vrijednost investitora i isporuku određenih proizvoda i usluga ("Službeni list CG" br. 17/15 i 68/15) u članu 13a stav 3 riječi: "Ministarstvo održivog razvoja i turizma-Direkcija javnih radova i Ministarstvo vanjskih poslova i evropskih integracija)" zamjenjuju se riječima: "Uprava javnih radova, Ministarstvo evropskih poslova i Ministarstvo poljoprivrede, šumarstva i vodoprivrede - Direktorat za plaćanja)".
