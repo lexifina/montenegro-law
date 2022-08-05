@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 tačka 1 Zakona o komunalnim djelatnostima ( "Službeni list CG", br. 55/16, 74/16, 02/18 i 66/19), člana 54 stav 1 tačka 58 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi, br. 08/19 i 20/21) i člana 13 stav 1 alineja 1 Odluke o osnivanju "Parking servis Podgorica" d.o.o. Podgorica ("Službeni list RCG - Opštinski propisi", broj 50/06 i "Službeni list CG - Opštinski propisi", br. 40/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 28. jula 2022. godine, donijela je
+O D L U K U
