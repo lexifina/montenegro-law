@@ -1,0 +1,4 @@
+# Član 3
+U članu 1. dodaje se 2 nova stava koja glase:
+Zakupcu nepokretnosti u vlasništvu Opštine Budva, čiji je rad bio ugrožen zbog mjera za sprječavanje epidemije Covid 19 virusa, kao i zbog poslijedica same epidemije koja se odrazila na turističku sezonu, obaveza plaćanja zakupa nepokretnosti za mjesece mart, april, maj, jun, septembar, oktobar, novembar i decembar 2020.godine umanjuje se za 50%.
+Zakupcu nepokretnosti u vlasništvu Opštine Budva, čiji je rad bio ugrožen odnosno zabranjen zbog mjera za sprječavanje epidemije Covid 19 virusa, kao i zbog poslijedica same epidemije koja se odrazila na turističku sezonu, a kojima je visina zakupnine utvrđena u posebnom postupku (Aqua park, Top Hill), obaveza plaćanja zakupa nepokretnosti i lokalne komunalne takse za 2020.godinu umanjuje se za 50%.
