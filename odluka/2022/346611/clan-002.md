@@ -1,0 +1,2 @@
+# Član 2
+Procijenjena vrijednost građevinskog zemljišta iz člana 1 ove odluke iznosi 187,00 eura po 1m2, shodno procjeni Komisije Direkcije za imovinu, za procjenu vrijednosti građevinskog zemljišta i objekata u imovini Glavnog grada -Podgorice, broj 13-421/21-58 od jula 2021.godine (koja je potvrđena i aktom Komisije Direkcije za imovinu, za procjenu vrijednosti građevinskog zemljišta i objekata u imovini Glavnog grada -Podgorice br.13-430/20-680 od 20. jula 2022. godine) i ista će se u postupku prodaje koristiti kao minimalna cijena.
