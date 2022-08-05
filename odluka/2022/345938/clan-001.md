@@ -1,0 +1,3 @@
+# Član 1
+## o izmjeni Odluke o obrazovanju Organizacionog odbora za stvaranje uslova za početak rada novoosnovane Opštine Tuzi
+U Odluci o obrazovanju Organizacionog odbora za stvaranje uslova za početak rada novoosnovane Opštine Tuzi, ( "Službeni list CG - Opštinski propisi", br. 35/18, 31/19 i 47/21 i 9/22), vrši se izmjena, tako što se u članu 1, tačka 7, riječi:" Milijana Vukotić-Jelušić, vršiteljka dužnosti generalne direktorice Direktorata za efikasnu implementaciju dobre javne uprave, predstavnica Ministarstva javne uprave, digitalnog društva i medija" zamjenjuju riječima: " 7. Argon Camaj, državni sekretar ".
