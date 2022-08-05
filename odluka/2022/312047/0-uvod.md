@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o finansiranju lokalne samouprave ("Službeni list CG", broj 3/19), člana 38 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20 i 50/22), člana 54 stav 1 tačka 19 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19 i 20/21) i člana 17 stav 1 Odluke o budžetu Glavnog grada Podgorice za 2022. godinu ("Službeni list CG - Opštinski propisi", broj 47/21), Skupština Glavnog grada - Podgorice, na sjednici održanoj 5. jula 2022. godine, donijela je
+O D L U K U
