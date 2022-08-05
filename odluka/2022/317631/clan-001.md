@@ -1,0 +1,13 @@
+# Član 1
+## o prodaji građevinskog zemljišta označenog kao UP34, UP35, UP36, UP39, UP40a, UP41, UP42, UP43, UP44 i UP45 u zahvatu DUP-a "Konik-Stari aerodrom faza III", u Podgorici
+Prodaje se građevinsko zemljište u zahvatu DUP-a "Konik-Stari aerodrom faza III" ( "Sl.list Crne Gore - opštinski proprisi", br. 06/12), označeno kao:
+- Urbanistička parcela broj 34 površine 11.667m2, koju čini kat.parcela broj 7893/38 iz lista nepokretnosti broj 5781 KO Podgorica III, na kojoj je planirana izgradnja poslovnog objekta, sa max.etaža 11.
+- Urbanistička parcela broj 35 površine 4209m2, koju čini kat.parcela broj 7893/35 iz lista nepokretnosti broj 5781 KO Podgorica III, na kojoj je planirana izgradnja poslovnog objekta, sa max.etaža 7.
+- Urbanistička parcela broj 36 površine 4223m2, koju čini kat.parcela broj 7893/37 iz lista nepokretnosti broj 5781 KO Podgorica III, na kojoj je planirana izgradnja poslovnog objekta, sa max.etaža 7.
+- Urbanistička parcela broj 39 površine 3506m2, koju čini kat.parcela broj 7893/39 iz lista nepokretnosti broj 5781 KO Podgorica III, na kojoj je planirana izgradnja poslovnog objekta, sa max.etaža 5.
+- Urbanistička parcela broj 40a površine 7189m2, koju čini kat.parcela broj 7893/57 iz lista nepokretnosti broj 5781 KO Podgorica III, na kojoj je planirana izgradnja stambeno poslovnog objekta, sa max.etaža 5.
+- Urbanistička parcela broj 41 površine 5779m2, koju čini kat.parcela broj 7893/58, kat.parcela broj 7894/2 i kat.parcela broj 7894/3 iz listova nepokretnosti broj 5781 i broj 3217 KO Podgorica III, na kojoj je planirana izgradnja stambeno poslovnog objekta, sa max.etaža 5.
+- Urbanistička parcela broj 42 površine 5706m2, koju čini kat.parcela broj 7893/60 iz lista nepokretnosti broj 5781 KO Podgorica III, na kojoj je planirana izgradnja stambeno poslovnog objekta, sa max.etaža 5.
+- Urbanistička parcela broj 43 površine 8776m2, koju čini kat.parcela broj 7893/61, kat.parcela broj 7894/5 i kat.parcela broj 7894/6 iz listova nepokretnosti broj 5781 i broj 3217 KO Podgorica III, na kojoj je planirana izgradnja stambeno poslovnog objekta, sa max.etaža 5.
+- Urbanistička parcela broj 44 površine 7001m2, koju čini kat.parcela broj 7893/63 i kat.parcela broj 7894/7 iz listova nepokretnosti broj 5781 i broj 3217 KO Podgorica III, na kojoj je planirana izgradnja stambeno poslovnog objekta, sa max.etaža 5.
+- Urbanistička parcela broj 45 površine 8818m2, koju čini kat.parcela broj 7893/62, kat.parcela broj 7893/64 i kat.parcela broj 7894/1 iz listova nepokretnosti broj 5781 i broj 3217 KO Podgorica III, na kojoj je planirana izgradnja stambeno poslovnog objekta, sa max.etaža 5.
