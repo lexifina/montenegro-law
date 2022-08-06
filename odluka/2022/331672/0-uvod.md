@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19 38/20 i 50/22), člana 7 stav 4 Zakona o turističkim organizacijama (''Sl. list RCG'', br. 11/04, 46/07, ''Sl. list CG'', br. 73/10, 40/11, 45/14 i 27/19) i člana 36 stav 1 tačka 14 Statuta Opštine Mojkovac ("Sl. list CG-Opštinski propisi", br. 29/18), Skupština opštine Mojkovac, na sjednici održanoj dana 25. jula 2022. godine, donijela je
+O D L U K U
