@@ -1,0 +1,18 @@
+# Član 1
+## o utvrđivanju javnog interesa za nepotpunu eksproprijaciju nepokretnosti za potrebe rekonstrukcije i sanacije fekalne kanalizacione mreže u KO Mojkovac
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti za potrebe rekonstrukcije i sanacije fekalne kanalizacione mreže u KO Mojkovac u opštini Mojkovac.
+Javni interes za nepotpunu eksproprijaciju nepokretnosti se utvrđuje na osnovu zakona prema Elaboratu nepotpune eksproprijacije za potrebe fekalne kanalizacije u centru Mojkovca u opštini Mojkovac, koji je urađen od strane "GeoProjekt Perišić" d.o.o. iz Podgorice broj 281/19 od 13. 11. 2019. godine (elaborat ovjeren od strane Uprave za nekretnine - Područna jedinica Mojkovac 28. 11. 2019. godine), u granicama zahvata Glavnog projekta razdvajanja fekalne i atmosferske kanalizacije u centru Mojkovca, koji je urađen od strane "HydroGIS System" d.o.o. iz Podgorice (projekat revidovan od strane JU Institut za razvoj i istraživanja u oblasti zaštite na radu - Zavod za istraživanja, razvoj i inženjering iz Podgorice broj 03-465/1 iz aprila 2019 godine).
+Nepokretnosti za koje se utvrđuje javni interes za nepotpunu eksproprijaciju su upisane u u KO Mojkovac u Mojkovcu i čine ih dijelovi katastarskih parcela prema Elaboratu eksproprijacije iz stava 2 ovog člana i to:
+KO MOJKOVAC:
+1.katastarska parcela br. 269, u površini od 4 m2, koja je upisana u LN br. 619 u KO Mojkovac (korišćenje UTP "SINJAVINA" A.D.MOJKOVAC" u obimu prava 1/1);
+2.katastarska parcela br. 301, u površini od 1 m2, koja je upisana u LN br. 473 u KO Mojkovac (korišćenje Tomović Mališa Dragan u obimu prava 1/1);
+3.katastarska parcela br. 1549, u površini od 4 m2, koja je upisana u LN br. 439 u KO Mojkovac (korišćenje Smolović Neđeljko Svetislav u obimu prava 1/1);
+4.katastarska parcela br. 1153/1, u površini od 3 m2, koja je upisana u LN br. 171 u KO Mojkovac (korišćenje Vuković Zlatana u obimu prava 1/1);
+5.katastarska parcela br. 1420/2, u površini od 3 m2, koja je upisana u LN br. 516 u KO Mojkovac (svojina Jovanović Milutin Radenko u obimu prava 1/1);
+6.katastarska parcela br. 1421, u površini od 3 m2, koja je upisana u LN br. 517 u KO Mojkovac (korišćenje Vlaović Lazar Petar u obimu prava 1/1);
+7.katastarska parcela br. 1430, u površini od 14 m2, koja je upisana u LN br. 475 u KO Mojkovac (sukorišćenje Ristić Radisav Slavica, Tomović Radisav Sonja, Tomović Toško Tonko i Tomović Toško Vlado svi u obimu prava od po 1/4);
+8.katastarska parcela br. 1624, u površini od 6 m2, koja je upisana u LN br. 228 u KO Mojkovac (svojina Savez penziopnera i ivalida rada u obimu prava 1/1);
+9.katastarska parcela br. 254, u površini od 6 m2, koja je upisana u LN br. 430 u KO Mojkovac (sukorišćenje Slomović Milorad Dragoslav, Kruščić Milorad Nevenka rođ.Slomović i Slomović Milorad Vojislav u obimu prava od po 1/3);
+10.katastarska parcela br. 250/2, u površini od 2 m2, koja je upisana u LN br. 179 u KO Mojkovac (Ilić Nikola Dragan sukorišćenje u obimu prava od 1/9, Ilić Nebojša Miodrag sukorišćenje u obimu prava od 1/6, Ilić Luka Vanja sukorišćenje u obimu prava od 1/3, Ilić Nebojiše Veselin sukorišćenje u obimu prava od 1/6, Ilić Nikola Zoran sukorišćenje u obimu prava od 1/9, Ilić Nikola Zvonko sukorišćenje u obimu prava od 1/9);
+11.katastarska parcela br. 247/4, u površini od 2 m2, koja je upisana u LN br. 324 u KO Mojkovac (Mrdović Đorđije Borko sukorišćenje u obimu prava od 3/16, Mrdović Stanimirka sukorišćenje u obimu prava od 5/16, Mrdović Radivoje Vukalica sukorišćenje u obimu prava od 1/2).
+Navedene nepokretnosti se nalaze u zoni detaljnog urbanističkog plana "Centar sa Gornjim Mojkovcem" ("Sl. list Crne Gore - Opštinski propisi" br. 19/13) u Opštini Mojkovac.
