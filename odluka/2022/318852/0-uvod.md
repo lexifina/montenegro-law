@@ -1,0 +1,2 @@
+Na osnovu člana 1, člana 2, člana 2a, člana 4a i člana 7 Zakona o eksproprijaciji ("Službeni list Republike Crne Gore", br. 55/00, 12/02 i 28/06, "Službeni list Crne Gore", br. 21/08, 30/17 i 75/18), člana 38 stav 1 tačka 2 i člana 28 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/2018, 34/19, 38/20 i 50/22) i člana 18 stav 1 tačka 5 i člana 36 stav 1 tačka 47 Statuta Opštine Mojkovac ("Sl. list Crne Gore - Opštinski propisi", broj 29/18), Skupština opštine Mojkovac, na śednici održanoj dana 25. jula 2022. godine, donijela je
+O D L U K U
