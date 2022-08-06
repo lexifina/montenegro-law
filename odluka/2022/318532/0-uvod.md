@@ -1,0 +1,2 @@
+Na osnovu člana 21 stav 4 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18, 34/19, 130/21 i 146/21), člana 38 stav 1 tačka 29 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20 i 50/22), i člana 36 stav 1 tačka 29 Statuta Opštine Mojkovac ("Službeni list CG - Opštinski propisi", broj 29/18), Skupština opštine Mojkovac, nakon dobijanja saglasnosti Vlade Crne Gore br. 04-3867/2 od 08.07.2022. godine na sjednici održanoj dana 25. jula 2022. godine, donijela je
+O D L U K U
