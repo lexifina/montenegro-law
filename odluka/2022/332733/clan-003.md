@@ -1,0 +1,3 @@
+# Član 3
+Rekonstrukcja i izgradnja fekalne kanalizacije za prostor Podbišća, Juškovića Potoka i Ambarina u opštini Mojkovac je predviđena u skladu sa Prostorno urbanističkim planom opštine Mojkovac ("Sl. list Crne Gore - Opštinski propisi" br. 19/11, 9/14 i 36/19), u skladu sa Detaljnim urbanističkim planom "Podbišće 1" ("Sl. list Crne Gore - Opštinski propisi", br. 19/11 i 9/14) i u skladu sa Urbanističko-tehničkim uslovima broj 09/2-352/16-14-626 od 12. 5. 2016. godine, za izradu tehničke dokumentacije za rekonstrukciju postojeće i izgradnju nove hidrotehničke infrastrukture - fekalne kanalizacije u naseljima: Ravni, Lazine, Juškovića Potok, Ambarine, kao i u dijelu naselja Podbišće u opštini Mojkovac.
+Opština Mojkovac je korisnik nepotpune eksproprijacije.
