@@ -1,0 +1,4 @@
+# Član 2
+Opština Mojkovac vrši kupovinu nepokretnosti iz člana 1 ove odluke u skladu sa Izvještajem o procjeni vrijednosti nepokretne imovine: Neplodno zemljište površine 209 m2 na katastarskoj parceli br. 1409/2 upisane u LN br. 338 u KO Mojkovac, čiji su suvlasnici Vlado Tomović i Dejan Ostojić, broj 01-018/21-1656 od 12. 10. 2021. godine, prema kojem je opredijeljena vrijednost nepokretnosti i njena cijena.
+Izvještaj o procjeni vrijednosti nepokretnosti iz stava 1 ovog člana je sačinio ovlašćeni procjenjivač građevinske struke dipl. ing. građ. Milan Adžić iz Mojkovca i ona je sastavni dio ove odluke.
+Kupovina nepokretnosti iz člana 1 ove odluke vrši se u cilju ostvarenja javnog interesa, u skladu sa zakonom, jer je planirana namjena predmetne katastarske parcele kolsko-pješačka površina, kao i zbog činjenice da se na predmenoj katastarskoj parceli nalaze tri stuba javne rasvjete, koji su prethodno postavljeni zbog potreba građana u tom dijelu Mojkovca.
