@@ -1,0 +1,3 @@
+Na osnovu člana 17 stav 4 Zakona o održavanju stambenih zgrada ("Sl. list CG", br. 41/16 i 84/18), člana 27 tačka 10 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19 i 38/20), člana 46, 47 i 48 Zakona o finansiranju lokalne samouprave ("Sl. list CG ", br. 3/2019) i člana 36 Statuta Opštine Mojkovac ("Sl. list CG - Opštinski propisi", br. 29/18 i 34/19), Skupština opštine Mojkovac, na sjednici održanoj dana 25. jula 2022. godine, donijela je
+O D L U K U
+o sufinansiranju i obezbjeđenju otplate kreditnih sredstava za adaptaciju zajedničkih djelova stambenih zgrada za kolektivno stanovanje na teritoriji opštine Mojkovac

@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom propisuju se uslovi, način, postupak i kriterijumi sufinansiranja za adaptaciju zajedničkih djelova stambenih zgrada za kolektivno stanovanje (u daljem tekstu: "Stambena zgrada") na teritoriji opštine Mojkovac, kao i uslovi za obezbjeđenje otplate kredita organa upravljanja stambenim zgradama koji su namijenjeni adaptaciji zajedničkih djelova stambenih zgrada (u daljem tekstu: "Adaptacija").
