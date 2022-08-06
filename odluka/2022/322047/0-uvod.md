@@ -1,0 +1,2 @@
+Na osnovu čl. 33 stav 1 tačka 7 Statuta Opštine Plužine ("Sl.list CG - Opštinski propisi", br. 39/18), a u vezi sa članom 69 Zakona o budžetu i fiskalnoj odgovornosti ("Sl.list CG", br. 20/14, 56/14, 70/17, 4/18, 55/18, 66/19 i 70/21), i čl. 40 i 41 Zakona o finansiranju lokalne samouprave ("Sl.list CG", br. 3/19) Skupština opštine Plužine, na sjednici održanoj 21.07.2022. godine, donijela je:
+O D L U K U
