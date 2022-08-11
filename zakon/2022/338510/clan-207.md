@@ -1,0 +1,2 @@
+# Član 207
+Pravno lice, odgovorno lice u pravnom licu, preduzetnik ili fizičko lice kod kojeg se zatekne u posjedu roba, odnosno koje kupi, proda, preda drugom, primi na poklon, prikrije, primi na čuvanje ili na prevoz, ili primi po bilo kojem drugom osnovu robu za koju zna ili je prema okolnosti slučaja moglo znati da je riječ o robi koja je predmet prekršaja iz čl. 203, 204 i 205 ovog zakona, kazniće se, kao da je samo učinilo prekršaj, istom kaznom koja je propisana za učinioca prekršaja.

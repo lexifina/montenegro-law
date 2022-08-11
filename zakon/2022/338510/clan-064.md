@@ -1,0 +1,12 @@
+# Član 64
+## Posebna pravila za obračun iznosa uvoznih dažbina
+(1) Ako su za robu stavljenu u carinski postupak ili u privremeni smještaj troškovi smještaja ili uobičajenih oblika postupanja nastali na carinskom području Crne Gore, takvi troškovi ili povećanje vrijednosti se ne uzimaju u obzir prilikom obračuna iznosa uvoznih dažbina ako deklarant pruži dokaz o tim troškovima.
+(2) Carinska vrijednost, količina, priroda i porijeklo strane robe, stavljene u carinski postupak ili privremeni smještaj, uzimaju se u obzir za obračun iznosa uvoznih dažbina.
+(3) Ako se promijeni tarifno svrstavanje robe stavljene u carinski postupak zbog uobičajenih oblika postupanja iz člana 153 ovog zakona unutar carinskog područja Crne Gore, na zahtjev deklaranta, primjenjuje se prvobitno tarifno svrstavanje robe stavljene u postupak.
+(4) Ako je carinski dug nastao za dobijene proizvode koji su rezultat postupka aktivnog oplemenjivanja, iznos uvoznih dažbina koji odgovara takvom dugu se, na zahtjev deklaranta, određuje na osnovu tarifnog svrstavanja, carinske vrijednosti, količine, prirode i porijekla robe stavljene u postupak aktivnog oplemenjivanja u vrijeme prihvatanja deklaracije za tu robu.
+(5) Radi primjene tarifnih mjera iz člana 36 stav 3 tačka 8 ovog zakona, carinski organ primjenjuje prvobitno tarifno svrstvanje robe iz st. 3 i 4 ovog člana, bez zahtjeva deklaranta, kad su ispunjeni uslovi:
+a) proizvode koji su nastali kao rezultat aktivnog oplemenjivanja direktno ili indirektno uvozi korisnik odobrenja tokom perioda od jedne godine nakon njihovog ponovnog izvoza;
+b) roba bi u trenutku prihvatanja carinske deklaracije za stavljanje robe u postupak aktivnog oplemenjivanja podlijegala mjerama poljoprivredne ili trgovinske politike ili mjerama zaštite na uvoz ili izvoz robe, da je u tom trenutku bila puštena u slobodan promet.
+(6) Ako carinski dug nastaje za dobijene proizvode koji su rezultat postupka pasivnog oplemenjivanja ili proizvoda za zamjenu iz člana 183 stav 1 ovog zakona, iznos uvoznih dažbina se obračunava na osnovu troška proizvodne radnje koja je preduzeta van carinskog područja Crne Gore.
+(7) Kad carinski dug nastaje u skladu sa odredbama čl. 57 ili 60 ovog zakona, pod uslovom da propust koji je doveo do nastanka carinskog duga ne predstavlja pokušaj prevare, carinski dužnik ima pravo na povoljniji tarifni tretman robe, oslobođenje ili potpuno ili djelimičnio izuzimanje od plaćanja uvoznih ili izvoznih dažbina.
+(8) Bliže uslove iz st. 4 i 5 ovog člana propisuje Vlada.

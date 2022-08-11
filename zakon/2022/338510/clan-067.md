@@ -1,0 +1,5 @@
+# Član 67
+## Obavezno obezbjeđenje
+(1) Ako je polaganje obezbjeđenja obavezno, carinski organ utvrđuje iznos tog obezbeđenja na nivou jednakom tačnom iznosu uvoznih ili izvoznih dažbina koji odgovara carinskom dugu i drugim dažbinama koje se naplaćuju pri uvozu ili izvozu, ako taj iznos može sa sigurnošću da se utvrdi u vrijeme kada se obezbjeđenje zahtijeva.
+(2) Ako nije moguće utvrditi tačan iznos, obezbjeđenje se utvrđuje u najvišem iznosu uvoznih ili izvoznih dažbina, koji procijeni carinski organ, a koji odgovara carinskom dugu i drugim dažbinama koje se naplaćuju pri uvozu ili izvozu, koji su nastali ili bi mogli nastati.
+(3) Ako se podnosi zajedničko obezbjeđenje za iznos uvoznih ili izvoznih dažbina koji odgovara carinskom dugu i drugim dažbinama koje se naplaćuju pri uvozu ili izvozu, čiji se iznos mijenja tokom vremena, iznos tog obezbjeđenja se utvrđuje na nivou koji omogućava da iznos uvoznih ili izvoznih dažbina koji odgovara carinskom dugu i drugim dažbinama koje se naplaćuju pri uvozu ili izvozu bude pokriven u svakom trenutku.

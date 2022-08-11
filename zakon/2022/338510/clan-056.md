@@ -1,0 +1,4 @@
+# Član 56
+## Carinski dug za robu bez porijekla
+(1) Ako se zabrana povraćaja ili izuzeća od plaćanja uvoznih dažbina primjenjuje na robu bez porijekla upotrijebljenu u proizvodnji proizvoda za koje je dokaz o porijeklu izdat ili sačinjen u okviru preferencijalnog postupanja između Crne Gore i drugih država ili teritorija, carinski dug pri uvozu za tu robu bez porijekla nastaje prilikom prihvatanja deklaracije za ponovni izvoz konkretnih proizvoda.
+(2) Ako carinski dug nastaje u skladu sa stavom 1 ovog člana, visina uvoznih dažbina koja odgovara tom dugu utvrđuje se pod istim uslovima kao u slučaju carinskog duga koji bi nastao da je tog dana prihvaćena deklaracija za stavljanje u slobodan promet robe bez porijekla upotrijebljene u proizvodnji konkretnih proizvoda za svrhe okončanja postupka aktivnog oplemenjivanja.
