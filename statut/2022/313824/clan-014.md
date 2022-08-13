@@ -1,0 +1,24 @@
+# Član 14
+Odbor direktora:
+- donosi akte Društva;
+- upravlja Društvom i daje smjernice izvršnom direktoru u pogledu vođenja poslova Društva;
+- donosi akt o unutrašnjoj organizaciji i sistematizaciji radnih mjesta uz saglasnost nadležnog organa Osnivača;
+- imenuje i razrješava izvršnog direktora;
+- sprovodi postupak javnog oglašavanja za izbor izvršnog direktora;
+- zaključuje ugovor o radu sa izvršnim direktorom;
+- utvrđuje poslovnu strategiju u skladu sa smjernicama Osnivača;
+- vrši nadzor nad poslovanjem Društva;
+- utvrđuje računovodstvene politike Društva i politike upravljanja rizicima;
+- izvršava odluke Osnivača;
+- donosi Poslovnik o svom radu;
+- obrazuje komisije za imenovanje i druge komisije za obavljanje pojedinih stručnih poslova iz svoje nadležnosti;
+- utvrđuje cjenovnik usluga;
+- usvaja godišnji plan rada i finansijski plan Društva;
+- usvaja izvještaj o radu i izvještaj o finansijskom poslovanju Društva za proteklu godinu;
+- predlaže Osnivaču promjenu osnovnog kapitala;
+- predlaže Osnivaču raspodjelu dobiti i način pokrića gubitaka;
+- odlučuje o kreditnom zaduženju uz saglasnost Osnivača;
+- odlučuje o javnoj nabavci robe, radova ili usluga u skladu sa Zakonom o javnim nabavkama;
+- na predlog izvršnog direktora odlučuje o zajedničkim ulaganjima sa drugim privrednim domaćim i stranim subjektima, uz saglasnost Osnivača;
+- na zahtjev izvršnog direktora razmatra pitanja iz njegove nadležnosti, koja se tiču poslovanja Društva;
+- vrši i druge poslove u skladu sa zakonom kojima se uređuju privredna društva i Statutom Društva.
