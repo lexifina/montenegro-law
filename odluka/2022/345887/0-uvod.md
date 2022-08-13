@@ -1,0 +1,3 @@
+Na osnovu člana 28 stav 1 i člana 58 stav 1 tačka 6 i člana 185 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20 i 50/22 ), a u vezi sa članom 40 stav 2 tačka 3 Zakona o državnoj imovini ( "Službeni list Crne Gore", broj 21/09 i 40/11 ), člana 52 Zakona o planiranju prostora i izgradnji objekata ( "Službeni list Crne Gore", broj 64/17, 44/18, 63/18, 11/19 i 82/20) i člana 44 stav 1 tačka 9 i člana 44 Statuta Opštine Budva ("Službeni list Crne Gore", broj 2/19), Odbor povjerenika Opštine Budva na sjednici održanoj 27. jula 2022.godine, donio je
+O D L U K U
+o prenosu prava na nepokretnostima radi formiranja urbanističkih parcela broj 8 i 10 u
