@@ -1,0 +1,3 @@
+Na osnovu člana185 stav 3 i 38 stav 1tačka 30 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 02/18, 34/1, 38/20 i 50¬/22), člana 44 stav 1 tačka 49 Statuta Opštine Budva ("Službeni list Crne Gore - Opštinski propisi", broj 02/19 ) i člana 29 stav 2 tačka 1 Zakona o komunalnim djelatnostima (,,Službeni list Crne Gore’’, broj 55/16, 74/16, 2/18 i 66/19),a u vezi sa članom 329 stav 2 Zakona o privrednim društvima ("Službeni list Crne Gore", broj 65/20), Odluke o osnivanju DOO ,, Pogrebne usluge’’ Budva ( ,,Službeni list Crne Gore-Opštinski propisi", broj33/13 i 28/22),Odbor povjerenikaOpštine Budva, na sjednici održanoj 1. avgusta 2022. godine, donio je
+O D L U K U
+o davanju saglasnosti na Statut Društva sa ograničenom odgovornošću "Pogrebne usluge"
