@@ -1,0 +1,2 @@
+Na osnovu čl. 116 i 222 Zakona o planiranju prostora i izgradnji objekata ("Sl. list CG", br. 64/17, 44/18, 63/18, 11/19 i 82/20), člana 38. stav 1 tačka 4. Zakona o lokalnoj samoupravi ( "Sl. list CG", br. 2/18, 34/19, 38/20 i 50/22), i člana 37 stav 1 tačka 4 Statuta Opštine Kolašin ("Službeni list CG - Opštinski propisi", broj 24/19), uz saglasnost Ministarstva ekologije, prostornog planiranja i urbanizma br. 082-332/22-5766/2 od 01.08.2022.godine, Skupština opštine Kolašin na sjednici održanoj dana 02.08.2022. godine, donijela je
+O D L U K U
