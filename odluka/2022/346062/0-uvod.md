@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 73/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Službeni list Crne Gore", br. 46/11, 14/14, 47/14, 12/16, 60/17, 10/18 i 109/20) i člana 46 st. 1 tač. 18 Statuta Opštine u okviru Glavnog grada - Golubovci ("Službeni list Crne Gore - Opštinski propisi", br. 012/19), Skupština Opštine u okviru Glavnog grada - Golubovci, na XXV sjednici, održanoj dana 23.08.2022. godine, donijela je
+O D L U K U
