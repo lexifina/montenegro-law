@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 73/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Službeni list Crne Gore", br. 46/11, 14/14, 47/14, 12/16, 60/17, 10/18 i 109/20) i člana 54 Stav 1 tačka 54 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19 i 20/21), Skupština Glavnog grada Podgorica, na sjednici održanoj 23. avgusta 2022. godine, donijela je:
+O D L U K U
