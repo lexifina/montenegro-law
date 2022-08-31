@@ -1,0 +1,2 @@
+# Član 2
+Lokacija za izgradnju - Javne pješačke površine određuje se na djelu katastarskih parcela br. 337 i 338 KO Gusinje upisane u List nepokretnosti prepis 351 na ime Mešihat islamske zajednice u Crnoj Gori - Odbor Islamske zajednice u Crnoj Gori Plav i dijelu katastarske parcele br. 784 KO Gusinje upisane u List nepokretnosti-prepis 370 upisane na ime Opština Gusinje kao svojina 1/1 , a u svemu prema kopiji plana katastarske parcele koja je sastavni dio ove odluke.
