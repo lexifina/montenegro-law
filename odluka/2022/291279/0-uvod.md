@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 1 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14, 56/14,70/17 i 04/18,55/18,66/19,70/21 i 145/21), člana 43 i 48 Zakona o finansiranju lokalne samouprave ("Službeni list CG", br. 03/19 ), člana 73 stav 1 tačka 16 Statuta Prijestonice ("Službeni list CG - Opštinski propisi", br. 49/18, 09/19 i 17/21) Skupština Prijestonice Cetinje, na sjednici održanoj, 25.08.2022. godine, donijela
+O D L U K U
