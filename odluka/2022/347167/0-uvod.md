@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 i član 39 stav 1 i 3 Zakona o državnoj imovini ( "Sl. list CG", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG" br. 02/18, 34/19, 38/20, 50/22), člana 52 stav 2 i člana 73 stav 1 tačka 2 i 10 Statuta Prijestonice ("Službeni list CG - Opštinski propisi", br. 49/18, 09/19 i 17/21), član 29, član 35 i član 40 Uredbe o prodaji i davanju u zakup državne imovine ( "Sl. list Crne Gore" br. 44/10), Skupština Prijestonice Cetinje na sjednici održanoj dana, 25.08.2022. godine, donijela je
+O D L U K U
