@@ -1,0 +1,6 @@
+# Član 1
+## Crne Gore - Opštinski propisi", br. 39/19, 5/21, 17/21)
+U Odluci o načinu i postupku davanja u zakup poslovnog prostora ("Službeni list CG - Opštinski propisi", broj 39/19, 5/21, 17/21) poslije člana 6 dodaje se član 6a koji glasi:
+"Izuzetno, u cilju realizacije projekata ili obavljanja djelatnosti od značaja za razvoj Prijestonice, nepokretnosti, naročito poslovni prostori ili njegov dio, koji ne ispunjavaju tehničke standarde, koje sadrže takve nedostatke da je njihovo korišćenje onemogućeno ili otežano, ili je iz drugog razloga potrebno značajno ulaganje za stavljanje istih u upotrebu, mogu se dati u zakup po minimalnoj cijeni od 0,01 EUR po m2.
+U slučaju iz stava 1 ovog člana, ugovorom o zakupu će biti predviđena dinamika ulaganja i plan zapošljavanja, koji će podrazumijevati obavezu zakupca da u nepokretnost koja je predmet zakupa investira minimalni iznos od 500.000,00 EUR u roku od 2 godine od dana zaključivanja ugovora o zakupu, kao i obavezu da za potrebe realizacije projekta, odnosno obavljanja djelatnosti, zaposli minimum 20 lica, u roku od 2 godine od dana zaključivanja ugovora o zakupu.
+Za izvršenje obaveze iz stava 2 ovog člana zakupac je obavezan dostaviti bankarsku garanciju, kao garanciju investiranja, na način i pod uslovima koji će biti precizirani javnim pozivom i ugovorom o zakupu.".
