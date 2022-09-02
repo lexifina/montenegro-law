@@ -1,0 +1,2 @@
+# Član 2
+U članu 1. stav 1 Pravilnika o pravima i obavezama emitera tokom kampanja za izbore za odbornike u Skupštini Glavnog grada Podgorica, skupštinama opština Bar, Bijelo Polje, Danilovgrad, Golubovci (opštine u okviru Glavnog grada), Kolašin, Plav, Plužine, Pljevlja, Rožaje, Šavnik i Žabljak, koji će biti održani 23. oktobra 2022. godine i za prijevremene izbore za odbornike u skupštinama opština Budva i Tivat, koji će biti održani 23. oktobra 2022. godine, riječi "Golubovci (opštine u okviru Glavnog grada)" zamjenjuju se riječju "Zeta".
