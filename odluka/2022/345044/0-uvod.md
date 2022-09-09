@@ -1,0 +1,3 @@
+Na osnovu člana 157 stav 2 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list Crne Gore", br. 027/13, 001/15, 042/15, 047/15, 056/16, 066/16, 001/17, 031/17, 042/17, 050/17, 059/21,145/21) čl. 27 stav 1 tačka 15 i 38. stav 1 tačka 2 Zakona o lokalnoj samoupravi ( "Službeni list Crne Gore", br. 002/18, 034/19, 038/20 i 050/22 ), čl. 73 i 76. Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", br. 049/18, 009/19, 017/21 ), Skupština Prijestonice Cetinje, na sjednici održanoj, 25.08.2022. godine, donijela je
+O D L U K U
+o utvrđivanju cijene usluge podrške za život u zajednici - usluge dnevnog boravka, koja se

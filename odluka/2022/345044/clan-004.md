@@ -1,0 +1,2 @@
+# Član 4
+Poslovi pružanja usluge podrške za život u zajednici - usluge dnevnog boravka su povjereni JU Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u Prijestonici (u daljem tekstu "Dnevni Centar"), shodno Odluci o organizovanju Javne ustanove Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u Prijestonici ("Službeni list Crne Gore - Opštinski propisi", br. 048/15, 027/19 i 051/19).
