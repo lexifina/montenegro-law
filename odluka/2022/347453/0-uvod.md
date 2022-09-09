@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 1 i člana 58 stav 1 tačka 6. Zakona o lokalnoj samoupravi( "Sl.list CG", broj 2/18 i 34/19 člana), člana 40 stav 2 tačka 4 a u vezi sa članom 34 Zakona o državnoj imovini ( "Sl. list CG", broj 21/09 i 40/11 ), članovima 154 i 163 Zakona o planiranju prostora i izgradnji objekata ( "Sl.list Crne Gore", broj 64/17, 44/2018, 63/2018 i 11/2019,82/20) i člana 44 stav 1 tačka 9. Statuta Opštine Budva( "Sl.list Crne Gore", broj 02/19) , predsjednik Opštine Budva donosi:
+O D L U K U
