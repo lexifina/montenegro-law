@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 73/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06, "Sl .list CG", 46/11, 14/14, 47/14, 12/16, 60/17, 10/18, 109/20), člana 38 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 02/18, 34/19) i člana 40 a u vezi sa članom 32 Statuta Opštine Pljevlja ("Sl.list CG - Opštinski propisi", 46/18), Skupština opštine Pljevlja, dana 13.09.2022. godine donijela je
+ODLUKU
