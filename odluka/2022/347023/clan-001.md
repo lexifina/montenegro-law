@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom utvrđuje se izgradnja lokalnog objekta od opšteg interesa i to kablovskog voda koji će napajati trafostanicu NDTS 10/0.4 kV 2x1000kVA "Butiko" i NDTS 10/0.4kV 2 x 1000 kVA "Voli" sa trafostanice 35/10kV "Račica", a prelazi preko dijelova kat.parc.br. 824, 1986/1, 1986/2 i 1990 sve KO Đuraševići u obuhvatu PUP-a (Prostorno - urbanističkog plana) Tivta do 2020.godine ("Sl.list CG - Opštinski propisi", br. 24/2022. godine,0).
