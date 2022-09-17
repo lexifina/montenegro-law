@@ -1,0 +1,2 @@
+Na osnovu člana 185 stav 3 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 02/18, 34/19, 38/20, 50/22, 84/22), člana 23 Odluke o osnivanju DOO Lokalni javni emiter "Radio Tivat" ("Sl. list CG - Opštinski propisi br. 10/12, 07/18) i člana 35 Statuta Opštine Tivat ("Sl. list CG" - Opštinski propisi br. 24/18 i 09/20), Odbor povjerenika Opštine Tivat na sjednici održanoj dana 31.08.2022. godine, donio je
+O D L U K U
