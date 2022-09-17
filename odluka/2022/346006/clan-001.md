@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za odustajanje od izjavljivanja žalbe na presudu Osnovnog suda u Kotoru posl.br.P.1606/19 od 22.07.2022. godine
+Daje se saglasnost za odustajanje od izjavljivanja žalbe na presudu Osnovnog suda u Kotoru Posl.br.P.1606/19 od 22.07.2022.godine kojom je utvrđena obaveza tužene Opštine Tivat da na ime naknade za oduzeto zemljište označeno kao kat.parcela 48 KO Mrčevac u površini od 257 m2 i kat.parcela 49/1 KO Mrčevac u površini od 160 m2 tužilji Medved Jeli isplati ukupan iznos od 33.360,00 eura, sa zakonskom zateznom kamatom od presuđenja pa do konačne isplate kao i troškove postupka u iznosu od 2.390,00€.
