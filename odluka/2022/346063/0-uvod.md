@@ -1,0 +1,2 @@
+Na osnovu člana 9 Zakona o bezbjednosti saobraćaja na putevima ("Službeni list CG", br. 33/12, 58/14, 14/17, 66/19), člana 7 Odluke o regulisanju saobraćaja na teritoriji Opštine Tivat ("Službeni list CG - Opštinski propisi", br. 45/16 i 44/18), člana 185 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19, 38/20, 50/22 i 84/22) i člana 35 Statuta Opštine Tivat ("Službeni list CG - Opštinski propisi", br. 24/18 i 09/20), Odbor povjerenika Opštine Tivat, na sjednici održanoj dana 31.08.2022. godine, donosi
+O D L U K U
