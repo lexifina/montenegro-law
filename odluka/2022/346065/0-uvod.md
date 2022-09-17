@@ -1,0 +1,2 @@
+Na osnovu člana 185 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 14, 15, 18 i 19 Statuta DOO "Komunalno" Tivat ("Sl. list CG-Opštinski propisi", br. 21/22) i člana 35 Statuta Opštine Tivat ("Sl.list CG - Opštinski propisi", br. 24/18 i 09/20), Odbor povjerenika Opštine Tivat na sjednici održanoj dana 01.09.2022. godine donio je
+O D L U K U
