@@ -1,0 +1,5 @@
+# Član 1
+U Odluci o privremenom ograničenju izvoza određenih drvnih sortimenata ("Službeni list CG", broj 43/21) član 1 mijenja se i glasi:
+"Radi sprečavanja nestašice drvnih sortimenata i ublažavanja posljedica nestašice drvnih sortimenata, izvoz drvnih sortimenta iz tarifnih oznaka 44011100, 440112 00, 4401 21 00, 4401 40 10, 4401 40 90, 4401 31 00 i tarifnog broja 4403, vršiće se na osnovu dozvole za izvoz.
+Izvoz drvnih sortimenata iz stava 1 ovog člana koji potiču iz šume u državnoj svojini nije dozvoljen.
+Izuzetno od stava 2 ovog člana izvoz cijepanog ogrijevnog drveta dužine do 40 cm iz tarifnih oznaka 4401 11 00 i 4401 12 00, iverja od četinara iz tarifne oznake 4401 21 00, iverja od nečetinara (lišćara) iz tarifne oznake 4401 22 90, piljevine iz tarifne oznake 4401 40 10, drvnih otpadaka i ostataka i okoraka iz tarifne oznake 4401 40 90, pelet iz tarifne oznake 4401 31 00 i telegrafskih, telefonskih i električnih stubova obrađenih do glatke površine iz tarifnog broja 4403 može se vršiti na osnovu dozvole za izvoz."
