@@ -1,0 +1,3 @@
+# Član 1
+## o otkupu zemljišta radi dokompletiranja urbanističke parcele br.54 I 55 sa ID DUP-a "Ulcinj-Grad" za lokalitet "Pristan" Opština Ulcinj
+Dozvoljava se KROMA HUSEINU, otkup katastarske parcele br.3148/5 po kulturi građevinska parcela, u površini od 3 l,00m2 sa L.N. 605 KO Ulcinj, kat.parc.br 3148/6 u ukupnoj površini od 5 m2 sa L.N.br 605 KO Ulcinj I kat.parc.br. 3617/2 u povrsini od 1 m2 sa L.N. br. 604 KO ULCINJ, kao Svojina Crne Gore-nosilac prava raspolaganja Opština Ulcinj, radi dokompletiranja urbanističke parcele br.54 i 55 formirane Izmjenama i dopunama DUP-a "Ulcinj- Grad" za lokalitet "PRISTAN".
