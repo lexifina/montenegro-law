@@ -1,0 +1,7 @@
+# Član 2
+Zadaci Radne grupe su:
+- planiranje i pripremanje kalendara predsjedavanja Crne Gore Procesu saradnje u jugoistočnoj Evropi (SEECP) u periodu jul 2022 - jun 2023. godine, u koordinaciji sa Ministarstvom vanjskih poslova, koje koordinira radom Radne grupe i pruža podršku u organizovanju aktivnosti tokom trajanja predsjedavanja,
+- pripremanje aktivnosti koje su usklađene sa utvrđenim prioritetima predsjedavanja, sa predlogom nivoa učešća i okvirnim terminima održavanja,
+- učešće u sprovođenju aktivnosti u okviru predsjedavanja Crne Gore Procesu saradnje u jugoistočnoj Evropi (SEECP) u periodu jul 2022 -jun. 2023. godine, koje se odnose na jačanje ekonomske i bezbjednosne saradnje i infrastrukturnu povezanost, zaštitu ljudskih prava, vladavinu prava i osnaživanje demokratskih institucija, ublažavanje i prevazilaženje zdravstvenih, ekonomskih i drugih posljedica pandemije Covid-19, zaštitu životne sredine (zelena tranzicija) i evropsku integraciju država iz regiona jugoistočne Evrope,
+- koordinacija između nadležnih organa, priprema i organizacija aktivnosti koje su usklađene sa kalendarom predsjedavanja Crne Gore Procesu saradnje u jugoistočnoj Evropi (SEECP) u periodu jul 2022 -jun 2023. godine,
+- izvještavanje Vlade Crne Gore i Ministarstva vanjskih poslova po završetku aktivnosti koje su predviđene kalendarom predsjedavanja Crne Gore Procesu saradnje u jugoistočnoj Evropi (SEECP) u periodu jul 2022 - jun. 2023. godine.
