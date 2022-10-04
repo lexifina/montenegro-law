@@ -1,0 +1,4 @@
+# Član 11
+Sjednicu Komisije saziva i predlaže dnevni red predsjednik Komisije, kada za to postoji potreba za radom Komisije, po sopstvenoj inicijativi ili na zahtjev najmanje tri člana stalnog sastava Komisije.
+Komisija se saziva i materijal za sjednicu dostavlja svim članovima Komisije najkasnije 24 sata prije vremena održavanja sjednice, izuzetno a po potrebi Komisija se može sazvati telefonskim putem ili na drugi odgovarajući način, a saziv i materijal se dostavlja na samoj sjednici.
+Izuzetno, kada odlučuje o zahtjevu za popunu upražnjenog odborničkog mjesta, Komisija može na predlog predsjedenika Komisije i bez održavanja sjednice odlučiti na osnovu pribavljene saglasnosti većine članova Komisije, izjašnjavanjem elektronskim putem, s tim što se na prvoj narednoj sjednici Komisije zapisnički to konstatuje. Saglasnost članova Komisije pribavlja predsjednik, a u slučaju njegove spriječenosti sekretar Komisije.
