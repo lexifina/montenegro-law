@@ -1,0 +1,2 @@
+# Član 73
+Javnost i transparentnost rada Organizacije obezbeđuje se u skladu sa pozitivnim propisima i internim aktima kojima se uređuje ova oblast, kroz slobodan pristup informacijama i podacima, zainteresovanim građanima i privrednim subjektima, putem sredstava javnog informisanja kao i obezbeđenje uslova za dostavu sugestija, predloga i primjedbi na rad Organizacije putem web sajta, kutije sugestija, neposredno, telefonom i sl.
