@@ -1,0 +1,2 @@
+Na osnovu člana 34 st. 1, a u vezi sa čl. 54 Zakona o državnoj imovini ( "Sl. list Crne Gore", br. 21/09, 40/11), člana 38 st. 1 tač. 30 Zakona o lokalnoj samoupravi ( "Sl. list Crne Gore", br. 2/18, 34/19, 38/20) i člana 34 stav 1 tač. 30 Statuta Opštine Herceg Novi ("Sl. list Crne Gore - Opštinski propisi", br. 1/19, 37/19, 6/20) Skupština opštine Herceg Novi na sjednici održanoj 13.09.2022. donosi
+О D L U K U
