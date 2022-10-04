@@ -1,0 +1,2 @@
+# Član 33
+U pješačkim zonama, kao i zonama sa posebnim režimom saobraćaja koji važi u preriodu od 01.juna do 31.avgusta, mogu se samo kretati vozila koja posjeduju odobrenje organa lokalne uprave nadležnog za poslove saobraćaja, a bez posebnog odobrenja, vozila za vršenje hitnih intervencija, sa uključenim rotacionim svijetlom, vozila pod pratnjom, vozila sa pravom prvenstva prolaza, kao i vidno obilježena vozila vršilaca komunalnih djelatnosti za potrebe obavljanja svojih poslova.

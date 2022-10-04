@@ -1,0 +1,39 @@
+# Član 10
+Zabranjuje se saobraćaj za sva teretna vozila čija ukupna masa prelazi 5t na lokalnim putevima i ulicama na prostoru između Jadranske magistrale i mora, na potezu Granični prelaz "Kobila"- Njivice-Igalo-Kamenari.
+Zabrana iz stava 1. ovog člana, odnosi se i na:
+- Debeli brijeg - Malta;
+- Put Sutorina - Prijevor;
+- Njivice od skretanja sa Njivičkog puta (puta za granični prelaz Kobila do hotela "Ibero Star";
+- Ulica Hercegovačka;
+-Ulica Vinogradska;
+-Ulica Njivice;
+-Ulicu Bratstva i jedinstva u Igalu;
+- Ulicu Braće Grbića na Toploj (slijepa ulica);
+- Ulicu Orjenskog bataljona;
+- Ulicu Srbina;
+-Ulicu Ustanička;
+- Ulica Spasića i Mašere;
+- put Podi - Sasovići i Lastva - Repaji;
+- UIica Rusmanska - Podi
+- Ulica Topovi - Podi
+- djelovi Ulice Narodnog fronta u Meljinama, iznad Jadranske magistrale
+-put za zaseok Terzići na Mokrinama;
+- put za zaseok Bijelići- Vučkovići na Mokrinama;
+- put za zaseok Stanovčići- Radovčići na Kamenom;
+- put za zaseok Kujačići- Obradovići na Kamenom;
+- put Porobići - Donji Kosići
+- Ulicu Đačku, u Zelenici;
+- Ulicu Poštanska, u Zelenici;
+- Ulicu Velika voda, u Zelenici
+-Ulica Pantova u Kumboru;
+- Ulicu Put Marića u Đenovićima
+- Ulicu Put Tomanovića u Đenovićima;
+- Ulicu Brijege u Đenovićima;
+-Ulicu Banićevina u Đenovićima;
+- Ulicu Druga Baošićka;
+- Ulicu Palih boraca u Baošićima;
+- Ulicu Bokejska u Baošićima;
+- put za zaseok "Grabi" u Bijeloj (ulica Mediteranska)
+- Ulica Četvrta Bijeljanska (naselje Žager) u Bijeloj
+- Ulica Svetosavski put u Bijeloj;
+- Ulica Jošički put u Kamenarima.

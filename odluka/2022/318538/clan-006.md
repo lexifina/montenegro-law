@@ -1,0 +1,2 @@
+# Član 6
+Saobraćajnu signalizaciju kojom se upozoravaju vozači da nailaze na put sa pravom prvenstva prolaza postavlja vršilac komunalnih djelatnosti kome su povjereni poslovi održavanja opštinskih puteva, po nalogu organa lokalne uprave nadeležnog za poslove saobraćaja, pri čemu troškove postavljanja istih na putevima koji nisu u valsništvu opštine, obavezni su da plate vlasnici ili korisnici nekategorisanog puta.

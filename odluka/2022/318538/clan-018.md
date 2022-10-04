@@ -1,0 +1,2 @@
+# Član 18
+Na saobraćajnim površinama koje nisu u vlasništvu Opštine Herceg Novi, a u javnoj su upotrebi (benzinske pumpe, servisi, hoteli, parking prostori i sl.) saobraćajnu signalizaciju i opremu dužan je da postavi i održava vlasnik ili zakupac te saobraćajne površine, uz predhodno odobrenje organa lokalne uprave nadležnog za poslove saobraćaja, a prema važećem Pravilniku o saobraćajnoj signalizaciji.
