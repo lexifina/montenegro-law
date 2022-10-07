@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom utvrđuje se lokacija sa elementima urbanističko-tehničkih uslova za izradu glavnog projekta i reviziju istog, za izgradnju lokalnih objekata od opšteg interesa: vodovodne, telekomunikacione i kanalizacione infrastrukture kao i objekata distributivne mreže naponskog nivoa do 35 kV trafostanica i vodova od 110 kV ili manje,rasklopnih postrojenja, u skladu sa idejnim rješenjem i smjernicama DUP-a"Breza" u Kolašinu na katastarskim parcelama 173/3; 173/9; 173/1; 105; 104; 82/1; 1189; 59; 29/2; 118/1 i 1150 KO Kolašin.

@@ -1,0 +1,2 @@
+# Član 2
+Sastavni dio ove odluke čini Programski zadatak sa elementima urbanističko-tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa: vodovodne, telekomunikacione i kanalizacione infrastrukture kao i objekata distributivne mreže naponskog nivoa do 35 kV trafostanica i vodova od 110 kV ili manje,rasklopnih postrojenja, u skladu sa idejnim rješenjem i smjernicama DUP-a"Breza" u Kolašinu, sa osnovnim podacima o objektu i grafičkim prikazom planiranih objekata.

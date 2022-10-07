@@ -1,0 +1,4 @@
+Na osnovu člana 223.stav 2 Zakona o planiranju prostora i izgradnji objekata( ,,Sl.list CG",br. 64/17, 44/18, 63/18, 11/19 i 82/20) i čl. 3 stav 1 tačke 11 i 17, čl. 4.stav 2.Odluke o izmjenama i dopunama odluke o izgradnji lokalnih objekata od opšteg interesa na teritoriji Opštine Kolašin (,,Sl. list CG-o.p."br. 015/15, 024/17 i 5/21) i člana 83 stav 1 tač. 14 Statuta Opštine Kolašin ("Sl. list CG - Opštinski propisi", broj 24/19), predsjednik Opštine Kolašin, donosi
+O D L U K U
+o određivanju lokacije za izgradnju lokalnih objekta od opšteg interesa: vodovodne,
+telekomunikacione i kanalizacione infrastrukture kao i objekata distributivne mreže naponskog nivoa do 35 kV trafostanica i vodova od 110 kV ili manje,rasklopnih postrojenja, u skladu sa idejnim rješenjem i smjernicama DUP-a"Breza" u Kolašinu na kat.parc. 173/3; 173/9; 173/1; 105; 104; 82/1; 1189; 59; 29/2; 118/1 i 1150 KO Kolašin
