@@ -1,0 +1,7 @@
+# Član 27
+## Prava putnika
+Prilikom obrade podataka o ličnosti u skladu sa ovim zakonom, svakom putniku mora se obezbijediti jednako pravo na zaštitu njegovih podataka o ličnosti, pravo pristupa, ispravljanja, brisanja i ograničavanja pristupa tim podacima, kao i pravo na naknadu i na pravno sredstvo, u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti.
+Pravo pristupa podacima iz stava 1 ovog člana ne odnosi se na podatke koji su depersonalizovani.
+Prilikom obrade podataka iz evidencije podataka o putnicima primjenjuju se odgovarajuće tehničke mjere za zaštitu podataka o ličnosti od slučajnog ili nezakonitog uništenja ili slučajnog gubitka, mijenjanja ili neovlašćenog otkrivanja ili pristupanja tim podacima.
+U slučajevima kad postoji vjerovatnoća da može doći do povrede prava na zaštitu podataka o ličnosti, odnosno ugrožavanja zaštite tih podataka ili se može ugroziti privatnost lica čiji se podaci obrađuju, jedinica za obradu podataka o putnicima će o tome obavijestiti to lice i nezavisno tijelo koje vrši nadzor nad sprovođenjem zaštite podataka o ličnosti u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti, bez odlaganja.
+Prevoznik u vazdušnom saobraćaju i putni agent registrovani u Crnoj Gori dužni su da, u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti, obavijeste putnike o obradi njihovih ličnih podataka koja se vrši u skladu sa ovim zakonom.

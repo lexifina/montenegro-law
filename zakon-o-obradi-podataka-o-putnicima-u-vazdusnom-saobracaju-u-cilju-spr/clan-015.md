@@ -1,0 +1,3 @@
+# Član 15
+## Dostavljanje podataka po sopstvenoj inicijativi
+Podatke i rezultate obrade podataka u vezi sa licima čiji se podaci obrađuju u skladu sa članom 10 ovog zakona, a za koje procijeni da mogu biti potrebni organu iz člana 12 stav 1 ovog zakona, stranoj jedinici za obradu podataka o putnicima, odnosno Europolu, radi sprečavanja ili otkrivanja krivičnih djela iz člana 2 ovog zakona ili vođenja krivičnog postupka za ta krivična djela, odnosno pronalaženja lica za kojima se traga zbog tih krivičnih djela, jedinica za obradu podataka o putnicima dostavlja tim organima po sopstvenoj inicijativi.
