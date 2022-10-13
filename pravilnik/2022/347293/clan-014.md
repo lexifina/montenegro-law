@@ -1,0 +1,3 @@
+# Član 14
+## Provjera dokumentacije
+Ukoliko za to postoje opravdani razlozi, organ nadležan za stambene poslove vrši provjeru autentičnosti dostavljene fotodokumentacije sa stanjem na licu mjesta, provjeru procjene stepena oštećenja putem konsultacija sa stručnim licima, upoređivanjem iznosa predračuna troškova sa cijenama koje se u Bijelom Polju uobičajeno plaćaju za određenu vrstu radova, a u slučaju sumnje o stanju na zajedničkom računu, od poslovne banke kod koje je otvoren zajednički račun stambene zgrade, zatražiće provjeru transakcija izvršenih u poslednjih 30 dana od dana podnošenja zahtjeva za odobravanje finansijskih sredstava.
