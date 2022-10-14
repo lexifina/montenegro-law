@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 46 stav 1 tačka 2 i 30 Statuta Opštine Bijelo Polje ("Sl. list CG- Opštinski propisi" br. 19/18) i člana 20 stav 2 alineja 1 Odluke o Etičkoj komisiji za izabrane predstavnike i funkcionere ("Službeni list Crne Gore - Opštinski propisi", br. 36/10, 34/11) Skupština Opštine Bijelo Polje, na sjednici održanoj dana 14.10. 2022. godine, donijela je:
+O D L U K U
