@@ -1,0 +1,2 @@
+# Član 2
+Iznos iz člana 1 ove odluke odnosi se na naknadu za komunalno opremanje građevinskog zemljišta za izgradnju objekta na katastarskim parcelama broj 2997/21 i 2997/22, KO Tuzi, u zahvatu Izmjena i dopuna PPO za koridor puta Podgorica - Božaj u Podgorici iz Ugovora o naknadi za komunalno opremanje građevinskog zemljišta broj 6241 od 06.07.2011. godine i pripadajućeg aneksa broj 7084 od 03.08.2011. godine.
