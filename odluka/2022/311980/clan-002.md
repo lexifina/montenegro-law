@@ -1,0 +1,2 @@
+# Član 2
+Naknada za nepokretnosti iz člana 1 ove odluke utvrđena je u ukupnom iznosu od 1.431.000,00 eura (500,00 eura/m2) u skladu sa Izvještajem o procjeni vrijednosti nepokretnosti Komisije Uprave za katastar i državnu imovinu br.01-012/21-34039/2 od januara 2022. godine, koju naknadu će Glavni grad-Podgorica izmiriti isplatom u jedanaest rata na način da se prava rata u iznosu od 10% od ukupnog iznosa naknade ima isplatiti do 01. januara 2023. godine a preostalih deset rata nakon 01. marta 2023. godine.
