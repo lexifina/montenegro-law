@@ -1,0 +1,2 @@
+# Član 2
+Naknada za nepokretnosti iz člana 1 ove odluke utvrđena je u ukupnom iznosu od 591.500,00 eura (364,00 eura/m2) u skladu sa Izvještajem ovlašćenog procjenitelja Eldina Mucevića- dipl.inž.arh o procjeni vrijednosti nepokretne imovine-zemljišta sa katastarskih parcela broj: 3902/2, 3903/2, 3904/2, 3905/2, 3906/53, 3906/57 iz Lista nepokretnosti broj 3242 KO Podgorica III, od 27. jula 2022. godine, koju naknadu će Glavni grad-Podgorica izmiriti isplatom u tri jednake rate.
