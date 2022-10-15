@@ -1,0 +1,2 @@
+Na osnovu člana 73 stav 1 tačka 22 Statuta Prijestonice Cetinje ("Službeni list Crne Gore - Opštinski propisi", br. 49/18, 9/19 i 17/21) i člana 10 alineja 6 Odluke o osnivanju Društva sa ograničenom odgovornošću "Agencija za razvoj i podršku poslovanju" Cetinje ("Službeni list CG - Opštinski propisi, br. 45/20), Skupština Prijestonice Cetinje na sjednici održanoj dana , 29.09.2022. godine, donijela je
+O D L U K U
