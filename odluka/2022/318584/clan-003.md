@@ -1,0 +1,2 @@
+# Član 3
+Ovlašćuje se Gradonačelnik Prijestonice Cetinje da sa "Crnogorskim elektrodistributivnim sistemom" d.o.o. Podgorica zaključi ugovor o zasnivanju stvarne službenosti radi izgradnje priključnog dalekovoda 10kV od lokacije posljednjeg stuba ispred TS10/0,4kV "Trešnjevo" (Kula) i uklapanje na lokaciji neposredno uz prvi stub postojećeg DV 10kV STS "Kobilji DO 1"- STS "Kobilji DO2" na kat. parcelama iz člana 1 ove odluke.
