@@ -1,0 +1,3 @@
+# Član 1
+## o prodaji zemljišta-katastarskih parcela broj: 946/13, 946/14 i 946/15 KO Kolašin , radi dokompletiranja urbanističke parcele broj 54, u zahvatu Detaljnog Urbanističkog Plana "Centar’’
+Opština Kolašin prodaje Ljubiši Kuburoviću iz Kolašina, Dulovine b.b. neposrednom pogodbom , zemljište upisano u listu nepokretnosti br.252 KO Kolašin, na kojem Opština Kolašin ima pravo raspolaganja i to:kat.parcelu broj 946/13,po kulturi gradjevinsko zemljište,površine 2 m2, kat.parcelu broj 946/14,po kulturi gradjevinsko zemljište, površine 10 m2 i kat.parcelu broj 946/15, po kulturi gradjevinsko zemljište, površine 62 m2,koje ulaze u sastav UP 54, a sve radi dokompletiranja UP 54, Zona I,Podzona I 4,u zahvatu DUP-a ‘’Centar’’.
