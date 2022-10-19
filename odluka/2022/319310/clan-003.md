@@ -1,0 +1,3 @@
+# Član 3
+Postupak davanja u zakup vršiće se prikupljanjem ponuda - tenderom, na osnovu Javnog poziva koji će bliže precizirati i objaviti organ lokalne uprave nadležan za imovinu, u jednom dnevnom listu i na internet stranici opštine Kolašin, a nakon usklađivanja podataka i lokacija koje su već date u zakup prije donošenja izmjena i dopuna Programa iz čl. 1 ove odluke, a kojim će se utvrditi prednost dosadašnjih korisnika-zakupaca sa urednim izmirenjem ugovorenih obaveza prema opštini Kolašin.
+Procjenu vrijednosti zemljišta iz stava 1 ovog člana vrši Komisija za procjenu vrijednosti građevinskog zemljišta i objekata u imovini opštine Kolašin, u skladu sa zakonom.
