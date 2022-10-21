@@ -1,0 +1,3 @@
+# Član 1
+## o oslobađanju plaćanja naknade za komunalno opremanje građevinskog zemljišta u LN 635 KO Podgorica II, u zahvatu DUP-a "Zagorič 3 i 4-zona 2" u Podgorici
+Stambena zadruga zdrastvenih radnika Crne Gore "ZDRASTVO" Podgorica, oslobađa se obaveze plaćanja naknade za komunalno opremanje građevinskog zemljišta površine cca 20.888m2 koje je označeno kao katastarska parcela broj 281/2 KO iz lista nepokretnosti 635 KO Podgorica II a koja čini veći dio urbanističke parcele broj 1-15 u zahvatu DUP-a "Zagorič 3 i 4- zona 2" u Podgorici, za potrebe izgradnje stambenog objekta za zaposlene u javnim zdrastvenim ustanovama na teritoriji Glavnog grada.
