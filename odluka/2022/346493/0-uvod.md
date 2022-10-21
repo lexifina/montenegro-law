@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 04/98, 05/98, 17/98, 14/00, 18/00, 09/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Službeni list CG", br. 46/11, 14/14, 47/14,12/16, 60/17, 10/18 i 109/20), člana 185 Zakona o lokalnoj samoupravi ( "Službeni list Crne Gore" br. 02/18, 34/19, 38/20, 50/22 - Odluka US CG i 85/22 - ispravka Odluke US CG) i člana 44 Statuta opštine Budva ("Službeni list CG - Opštinski propisi", br. 02/19), Odbor povjerenika Opštine Budva na sjednici održanoj 12. oktobra 2022. godine, donio je
+O D L U K U
