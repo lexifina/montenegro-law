@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ( "Službeni list CG", br. 25/19 i 49/22), člana 38 stav 1 tač. 2 i 8 Zakona o lokalnoj samoupravi ( "Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 54 stav 1 tačka 11 Statuta Glavnog grada ( "Službeni list CG - Opštinski propisi", br. 8/19 i 20/21), Skupština Glavnog grada - Podgorice, na sjednici održanoj 6. oktobra 2022. godine, donijela je
+O D L U K U
