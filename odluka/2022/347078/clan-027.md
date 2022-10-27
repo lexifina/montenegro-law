@@ -1,0 +1,4 @@
+# Član 27
+Sakupljanje biootpada iz vrtova i parkova i kabastog otpada vrši se na način propisan posebnom odlukom kojom su uređena pitanja odvojenog sakupljanja komunalnog otpada.
+Ako fizička i pravna lica ne postupe na način propisan u prethodnom stavu, transport biootpada iz vrtova odnosno parkova ili kabastog otpada izvršiće vršilac komunalne djelatnosti kojem je Prijestonica povjerila te poslove ( član 21 odluke ), po nalogu komunalnog policajca odnosno komunalnog inspektora o trošku ovih lica, a ako je isto nepoznato, za transport otpada sredstva će se obezbijediti iz budžeta Prijestonice.
+Ako se naknadno utvrdi fizičko odnosno pravno lice koje je nepropisno odložilo biootpad iz vrtova odnosno parkova ili kabasti otpad, Prijestonica ima pravo na regresnu naplatu troškova iz stava 2 ovog člana.

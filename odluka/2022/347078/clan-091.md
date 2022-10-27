@@ -1,0 +1,57 @@
+# Član 91
+Novčanom kaznom u iznosu od 150 eura do 10.000 eura kazniće se za prekršaj pravno lice ako:
+1) postupa suprotno zabranama iz člana 4 ove odluke;
+2) postavljene ili izgrađene objekte iz člana 4 stav 3 ove odluke ne održava u estetski urednom i funkcionalno ispravnom stanju, u skladu sa podzakonskim aktom kojim se propisuje minimum kvaliteta i obim poslova za obavljanje komunalne djelatnosti i godišnjim programom obavljanja komunalnih djelatnosti;
+3) postavljene ili izgrađene objekte iz člana 4 st. 4 ove odluke, koje je izgradio ili postavio on odnosno Opština, ne održava u estetki urednom i funkcionalno ispravnom stanju (član 4 stav 4);
+4) prilikom uklanjanja objekta iz člana 3 stav 1 ove odluke, koje je izgradio ili postavio on odnosno Prijestonica, ne vrati javnu površinu u prvobitno stanje (član 4 stav 5);
+5) postupa suprotno zabranama iz člana 6 stav 3 ove odluke;
+6) tablu sa nazivom naselja ulice odnosno trga ne održava u estetski urednom i funkcionalno ispravnom stanju (član 17 stav 2);
+7) ne obavlja poslove uređivanja, održavanja čuvanja i zaštite javnih ovršina i pripadajućeg urbanog mobilijara, u skladu sa Pravilnikom i godišnjim programom obavljanja komunalnih djelatnosti (član 19 stav 2);
+8) ne vodi evidenciju o broju, vrsti i stanju urbanog mobilijara na javnim površinama, kao i o promjenama koje nastaju (član 30 stav 4);
+9) ne postavi tablu sa obavještenjem o uslovima korišćenja urbanog mobilijara, ako su za određeni urbani mobilijar predviđeni posebni uslovi korišćenja u pogledu načina i vremena korišćenja (član 31 stav 2);
+10) postavi tablu sa obavještenjem o uslovima korišćenja urbanog mobilijara bez odobrenja organa za komunalne poslove (član 31 stav 3);
+11) ne održava redovno zelenu površinu posebne namjene u skladu sa Pravilnikom i opštim uslovima propisanim ovom odlukom (član 36 stav 3);
+12) ne održava redovno javnu zelenu površinu, tako da svojim izgledom uljepšava naselje i služi svrsi za koju je namijenjena (član 36 stav 4);
+13) ne postavi tablu sa obavještenjem o režimu korišćenja javne zelene površine, ako se za određenu javnu zelenu površinu uspostavlja posebni režim korišćenja (član 36 stav 10);
+14) postavi tablu sa režimom korišćenja javne zelene površine bez odobrenja organa za komunalne poslove (član 36 stav 11);
+15) na mjestima na kojima se zbog javnog zelenila ometa vidljivost saobraćaja, javno zelenilo ima visinu preko 0,5 m računajući od nivoa puta (član 37 stav 4);
+16) na uglovima raskrsnica posadi vegetaciju, čiji je biloški uzrast veći od 0,5 m (član 37 stav 5);
+17) ne ukloni bolesno stablo, stablo sklono padu ili drugo stablo na javnoj zelenoj površini koje može ugroziti bezbjednost ljudi i/ili imovinu odnosno ukloni stablo bez saglasnosti organa za komunalne poslove (član 39 stav 1);
+18) prilikom orezivanja drveća, uređivanja travnjaka i/ili obavljanja drugih radova na javnoj površini odnosno površini u javnom korišćenju, ne osigura bezbjednost prolaznika, odnosno da materijal i/ili otpad nastao tim aktivnostima ne ukloni odmah po obavljanom poslu, odnosno površinu ne očisti i/ili ne dovede u prvobitno stanje (član 39 stav 3);
+19) na javnoj zelenoj površini predviđenoj za drvored i/ili živu ogradu postavi podzemnu infrastrutkuru (član 40 stav 3);
+20) iznad postojeće podzemne infrastrutkure, odnosno na udaljenosti manjoj od one utvrđenih tehničkim propisima, zasadi drvo (član 40 stav 4);
+21) vrši presađivanje, uklanjanje ili sadnju novog stabla bez odobrenja organa za komunalne poslove (član 41 stav 2);
+22) postupa suprotno zabranama iz člana 42 ove odluke;
+23) poklopac na otvoru šahta ili rešetku na otvoru slivnika na javnoj površini postavi suprotno članu 44 st. 1ove odluke;
+24) poklopac odnosno rešetku ne održava u estetski urednom i funkcionalno ispravnom stanju (član 44 stav 3 alineja 1);
+25) dotrajali, oštećeni odnosno uklonjeni poklopac odnosno rešetku ne zamijeni bez odlaganja (član 44 stav 3 alineja 2);
+26) otvor šahta odnosno slivnika ne ogradi i/ili jasno ne označi u slučaju iz člana 44 stav 4 ove odluke;
+27) za vrijeme izvođenja radova u šahtu odnosno slivniku, ne postavi oko otvora šahta odnosno slivnika odgovarajuće prepreke i/ili ih ne obilježi vidljivim znacima, odnosno po završetku radova otvor propisno ne zatvori i/ili površinu oko otvora ne dovede u prvobitno stanje (član 44 stav 5);
+28) javnu česmu, fontanu ili protivpožarni hidrant ne održava u estetski urednom i funkionalno ispravnom stanju (član 45 stav 4);
+29) postupa suprotno zabranama iz člana 46 ove odluke;
+30) stari bunar ne zaštiti zatvaranjem i/ili ne održava u estetski urednom stanju (član 47 stav 1);
+31) teren, koji je izgrađen odnosno postavljen na javnoj površini ne održava u estetski urednom i funkcionalno ispravnom stanju (član 48 stav 1);
+32) ne postavi na vidnom mjestu tablu sa uputstvima o korišćenju i radnom vremenu terena (član 48 stav 4);
+33) tablu iz člana 48 stav 4 ove odluke postavi bez odobrenja organa za komunalne poslove;
+34) ne izvede radove na dovođenju u ispravno stanje raskopane javne površine odmah po završetku radova zbog kojih je raskopana javna površina, a najkasnije u roku određenom u dozvoli za raskopavanje (član 52 stav 4-);
+35) prilikom izvođenja radova raskopavanja odnosno rekonstrukcije saobraćajne površine, ne obezbijedi pješačku komunikaciju prema objektima koji se nalaze uz tu saobraćajnu površinu (član 55 stav 2);
+36) ne postupi u skladu sa članom 41 ove odluke, u slučaju kada je raskopavanjem javne površine došlo do vađenja stabla ili drugog rastinja (član 57);
+37) časovnik, uređaj za mjerenje spoljne temperature, uređaj za informativno mjerenje brzine kretanja vozila ili slični uređaj postavljen na javnoj površini ne održava u estetski urednom i funkcionalno ispravnom stanju (član 62 stav 2);
+38) postavi jarbol na zastavu na javnoj površini bez odobrenja organa za komunalne poslove (član 63 stav 1);
+39) jarbol za zastavu postavljen na javnoj površini ne održava u esteski urednom i funkcionano ispravnom stanju (član 63 stav 3);
+40) postavi turističku ili drugu obavještajnu signalizaciju na javnoj površini ili na stubu javne rasvjete bez odobrenja nadležnog organa (član 64);
+41) postavljenu signalizaciju iz člana 65 stav 1 ove odluke ne održava u esteski urednom i funkcionalno ispravnom stanju (član 64 stav 3);
+42) ne ukloni snijeg i led sa površina utvrđenih članom 65 stav 2 ove odluke;
+43) javne saobraćajne površine u zimskim uslovima ne posipa odgovarajućim materijalom radi sprečavanja nastanka leda i snijega odnosno površine uz drvorede posipa sredstvima koja nemaju deklaraciju o neškodljivosti za stabla (član 68 stav 1);
+44) nakon prestanka zimskih uslova, ne ukloni posuti materijal sa javnih saobraćajnih površina (član 68 stav 2);
+45) postupa suprotno zabranama iz člana 69 ove odluke;
+46) ne odveze sakupljeni snijeg na lokaciju koja je određena za tu namjenu, u slučaju kada količina sakupljenog snijega ometa prolaz pješaka trotoarom i/ili odvijanje saobraćaja na kolovozu (član 70 stav 4);
+47) objekat, uređaj ili instalacije javne rasvjete ne održava u estetski urednom i funkcionalno ispravnom stanju (član 75 stav 1);
+48) ne obavlja održavanje objekata, uređaja i instalacija javne rasvjete, u skladu sa Pravilnikom i godišnjim programom obavljanja komunalnih djelatnosti (član 75 stav 2);
+49) uređeno ili izgrađeno kupalište sa pripadajućim sadržajem na otvorenoj plaži, obali rijeke ili jezera ne održava u urednom stanju (član 78 stav 1);
+50) privremeni objekat na uređenom ili izgrađenom kupalištu ne održava u estestki urednom i funkcionalno ispravnom stanju (član 78 stav 4);
+51) ne održava otvoreni odvodni kanal na način da se omogući neometan protok atmosferskih voda, naročito u periodu hidrološkog maksimuma (član 79 stav 2);
+52) ne održava javni toalet u estetski urednom i funkcionalno ispravnom stanju, u skladu sa sanitarnim propisima (član 81 stav 1);
+53) ne uspostavi evidenciju iz člana 30 ove odluke u roku od šest mjeseci od dana stupanja na snagu ove odluke;
+Za prekršaj iz stava 1 ovog člana kazniće se odgovorno lice u pravnom licu i fizičko lice kaznom u iznosu od 50 eura do 1000 eura.
+Za prekršaj iz stava 1 ovog člana kazniće se preduzetnik novčanom kaznom u iznosu od 150 do 3000 eura.

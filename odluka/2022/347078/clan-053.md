@@ -1,0 +1,3 @@
+# Član 53
+Prekopavanje javnih površina može se vršiti bez prethodno pribavljene dozvole kada je neophodno otkloniti posljedice nastale dejstvom više sile ili kvar zbog kojeg, u koliko se hitno ne otkloni, može biti ugroženo zdravlje, imovina građana, pružanje komunalnih i telekomunikacionih usluga, kao i usluga snabdijevanja potrošača električnom energijom.
+O izvođenju radova u slučajevima iz stava 1 ovog člana, izvođač radova je dužan da obavijesti organ lokalne uprave za vršenje inspekcijskog i/ili komunalnog nadzora i da najkasnije u roku od 24 časa od nastanka više sile ili kvara, podnese pisani zahtjev za izdavanje dozvole za prekopavanje javne površine, sa potrebnom dokumentacijom.

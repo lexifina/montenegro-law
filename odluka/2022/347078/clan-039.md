@@ -1,0 +1,4 @@
+# Član 39
+Bolesna stabla, stabla sklona padu i druga stabla na javnim zelenim površinama koja mogu ugroziti bezbjednost ljudi i/ili imovinu, vršilac komunalne djelatnosti dužan je da ukloni, po nalogu organa za komunalne poslove.
+Stabla koja su oštećena elementarnim nepogodama, saobraćajnim udesima i sl. vršilac komunalne djelatnosti dužan je da ukloni, bez posebnog odobrenja organa za komunalne poslove.
+Prilikom orezivanja drveća, uređivanja travnjaka i obavljanja drugih radova na javnim površinama odnosno površinama u javnom korišćenju vršilac komunalne djelatnosti odnosno vlasnik odnosno korisnik površine u javnom korišćenju dužan je da osigura bezbjednost prolaznika, kao i da materijal i otpad nastao tim aktivnostima ukloni odmah po obavljenom poslu, a površinu očisti i dovede u prvobitno stanje.

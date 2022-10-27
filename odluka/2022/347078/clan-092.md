@@ -1,0 +1,74 @@
+# Član 92
+Novčanom kaznom u iznosu od 150 eura do 10.000 eura kazniće se pravno lice ako:
+1) prilikom uklanjanja objekta iz člana 4 stav 2 ove odluke, koje je izgradio ili postavio, ne vrati javnu odnosno kontaktnu površinu u prvobitno stanje (član 4 stav 5);
+2) ukloni, uništi i/ili ošteti objekat iz člana 4 stav 2 ove odluke za čije održavanje je odgovoran subjekat kome je Prijestonica povjerila poslove održavanja (član 4 stav 6);
+3) spoljne djelove stambene zgrade, poslovne zgrade, pomoćnog objekta odnosno privremenog objekta redovno ne održava u estetski urednom i funkcionalno ispravnom stanju (član 6 stav 1 i 2);
+4) na spoljnim djelovima zgrade odnosno drugog objekta iz člana 6 ove odluke, ispiše, nacrta ili oboji grafit, izlijepi plakat, oglas, transparent ili drugi natpis ili na drugi način naruši izgled fasade (član 6 stav 3);
+5) dvorište odnosno površinu u javnom korišćenju stambene odnosno poslove zgrade ne održava u urednom stanju (član 8 stav 1);
+6) urbanističku odnosno katastarsku parcelu koja nije privedena namjeni a kontaktna je ili vidljiva sa javne površine ili površine u javnom korišćenju ne održava u urednom stanju (član 8 stav 3);
+7) ne istakne natpis sa svojim nazivom pod koijim posluje na fasadi zgrade u kojoj obavlja svoju djelatnost (član 11 stav 1);
+8) postavi tablu sa natpisom u suprotnosti sa odredbama člana 11 stav 5 i 6 ove odluke.
+9) ne održava natpis iz člana 11 stav 1 ove odluke u estestki urednom tehnički i funkcionalno ispravnom stanju (član 12 stav 4);
+10) postavi reklamu objekta bez odobrenja nadležnog organa za komunalne poslove (član 13 stav 1);
+11) na reklamnom panou istakne uvredljiv i/ili diskriminušići sadržaj (član 13 stav 9);
+12) postavi reklamni natpis na staklu bez odobrenja organa nadležnog za komunalne poslove (član 14 st 2);
+13) mural nekomercijalne sadržine ne održava u estetski urednom stanju te nakon njegovog uklanjanja površinu na kojoj je bio postvljen vrati u prvobitno stanje, odnoso uredi (član 15 stav 5);
+14) na muralu istakne uvredljiv i/ili diskriminušići sadržaj (član 15 stav 7);
+15) izlog, odnosno drugu zastakljenu površinu poslovnog prostora, koja je vidljiva sa javne površine, ne održava estetski urednom I funkcionalonom stanju (član16 stav 1);
+16) u izlogu poslovnog prostora, koji je vidljiv sa javne površine, drži ambalažu ili skladištiti robu (član 16 stav 4);
+17) izvan izloga, odnosno poslovnog prostora (na ulaznim vratima, prozorima, okvirima izloga ili slično) izloži robu (član 16 stav 5);
+18) tablu sa brojem stambene odnosno poslovne zgrade, ne održava u estetski urednom i funkcionalno ispravnom stanju (član 17 stav 2);
+19) samoinicijativno postavi ili mijenja tablu sa nazivom naselja, ulice, trga odnosno sa brojem stambene odnosno poslovne zgrade (član 17 stav 4);
+20) koristi urbani mobilijar suprotno negovoj namjeni (član 31 stav 1);
+21) neovlašćeno postavi tablu sa obavještenjem o uslovima korišćenja urbanog mobilijara (član 31 stav 2);
+22) zauzme javnu površinu deponovanjem građevinskog i/ili drugog materijala, postavljanjem konstrukcija drvenih I metalnih ili postavljanjem vozila u svrhu izvođenja građevisnkih radova bez odobrenja organa za komunalne poslove (član 34 stav 1);
+23) ne ogradi privremeno zauzetu javnu površinu, prilikom izvođenja radova iz člana 34 stava 1 ove odluke (član 34 stav 3);
+24) ne održava u urednom stanju (neoštećena, bez plakata, itd.) ogradu iz člana 34 stava 3 ove odluke, postavljenu na javnoj površini ili kontaktnoj površini, odnosno tokom noći i za vrijeme magle propisno je ne obilježi i/ili ne osvjetli (član 34 stav 4);
+25) ne omogući prohodnost trotoara i/ili kolovoza i/ili ne osigura bezbjednost prolaznika odnosno učesnika u saobraćaju, ako se postavljanjem skele zauzme trotoar ili kolovoz (član 34 stav 5);
+26) u toku izvođenja građevinskih radova, u cilju obezbjedjivanja čistoće i funkcionalnosti javnih površina postupa suprtono članu 35 ove odluke.
+27) ne postavi odnosno neovlašćeno postavi tablu sa obavještenjem o režimu korišćenja javne zelene površine (član 36 stav 10);
+28) prilikom izgradnje, rekonstrukcije, adaptacije odnosno rušenja objekta, ne čuva postojeću vegetaciju i/ili zemljište na javnoj zelenoj površini i/ili površini u javnom korišćenju na način što postojeću vegetaciju (travnjak, šiblje, drveće i sl.) ne zaštiti za vrijeme trajanja radova, odnosno plodni sloj zemlje ne sačuva na gradilištu ili skloni na posebno odlagalište (član 38);
+29) prilikom orezivanja drveća, uređivanja travnjaka i/ili obavljanja drugih radova na površini u javnom korišćenju, ne osigura bezbjednost prolaznika, odnosno materijal i/ili otpad nastao tim aktivnostima ne ukloni odmah po obavljenom poslu, odnosno površinu ne očisti i/ili ne dovede u prvobitno stanje (član 39 st 3);
+30) na javnoj zelenoj površini predviđenoj za drvored i/ili živu ogradu postavi podzemnu infrastrutkuru (član 40 stav 3);
+31) ne obezbijedi presađivanje zdravih stabala ili sadnju tri nova stable, kada je to tehnički izodljivo, za svako stablo posječeno prilikom izgradnje stambenog odnosno poslovnog objekata, saobraćajne odnosno komunalne infrastrukture (član 41 stav 1);
+32) vrši presađivanje, uklanjanje ili sadnju novog stabla bez odobrenja organa za komunalne poslove (član 41 stav 2);
+33) obori ili ukloni drvo sa javne površine odnosno površine u javnom korišćenju bez odobrenja nadležnog organa (član 41 stav 6);
+34) postupa suprotno zabranama iz člana 42 ove odluke;
+35) poklopac na otvoru šahta ili rešetke na otvoru slivnika na javnoj površini postavi suprotno članu 44 stav 1 i 2 ove odluke;
+36) poklopac odnosno rešetku ne održava u estetski urednom i funkcionalno ispravnom stanju (član 44 stav 3 alineja 1);
+37) dotrajali, oštećeni odnosno uklonjeni poklopac odnosno rešetku ne zamijeni bez odlaganja (član 44 stav 3 alineja 2);
+38) otvor šahta odnosno slivnika ne ogradi i/ili jasno ne označi u slučaju iz člana 44 stav 4 ove odluke;
+39) za vrijeme izvođenja radova u šahtu ili slivniku, ne postavi oko otvora šahta odnosno slivnika odgovarajuće prepreke i/ili ih ne obilježi vidljivim znacima, odnosno po završetku radova otvor propisno ne zatvori i/ili površinu oko otvora ne dovede u prvobitno stanje (član 44 stav 5);
+40) fontanu postavljenu na površini u javnom korišćenju stambene ili poslovne zgrade ne održava u estetski urednom i funkcionalno ispravnom stanju (član 45 stav 6);
+41) postupa suprotno zabranama iz člana 46 ove Odluke;
+42) teren, koji je izgrađen odnosno postavljen na javnoj površini ili kontaktnoj površini, ne održava u estetski urednom i funkcionalno ispravnom stanju (član 48 stav 1);
+43) ne postavi na vidnom mjestu tablu sa uputstvima o korišćenju i radnom vremenu terena (član 48 stav 4);
+44) tablu iz člana 48 stav 5 ove odluke postavi bez odobrenja organa za komunalne poslove;
+45) ne pridržava se uputstava o korišćenju i radnom vremenu terena, odnosno odredbi ove odluke kojima se uređuje održavanje čistoće i zaštita javnih površina (član 48 stav 6);
+46) ostavi životinjski leš i/ili nus proizvod životinjskog porijekla na javnoj površini ili prostoru vidljivom sa javne površine (član 49 stav 1);
+47) na javnoj površini ili površini u javnom korišćenju ostavi dotrajalo, oštećeno i/ili napušteno vozilo (član 50 stav 1);
+48) istovari ogrijevni materijal na javnoj saobraćajnoj površini ili površini javnim zelenim I drugim javnim površinama, osim u slučaju iz člana 51 stav 2 ove odluke (član 51 stav 1);
+49) koristi drugu javnu površinu za istovar ogrijevnog materijala suprotno članu 51 stav 2 ove odluke;
+50) u slučaju iz člana 53 stav 1 ove odluke, ne obavijesti organ lokalne uprave za vršenje inspeklcijskog i/ili komunalnog nadzora najkasnije u roku od 24 časa od nastanka više sile ili kvara i ne podnese pisani zahtjev za izdavanje dozvole za raskopavanje javne površine, sa potrebnom dokumentacijom (član 52 stav 2);
+51) prilikom izvođenja radova prekovapavanja odnosno rekonstrukcije saobraćajne površine, ne obezbijedi pješačku komunikaciju prema objektima koji se nalaze uz tu saobraćajnu površinu (član 55 stav 2);
+52) ne postupi u skladu sa članom 41 ove odluke, u slučaju kada je prekopavanjem javne površine došlo do vađenja stabla ili drugog rastinja (član 57);
+53) koristiti javnu površinu za održavanje sportskih kulturnih I drugih manifestacija bez odobrenja nadležnog organa za komunalne poslove (član 60 stav 1);
+54) postavljene privremene objekte za potrebe manifestacije ne drži u estetski urednom i funkcionalno ispravnom stanju, i mjesto održavanja manifestacije po završetku manifestacije ne dovede u prvobitno stanje bez odlaganja, a najkasnije u roku utvrđenim odobrenjem (član 60 stav 5);
+55) za vrijeme trajanja manifestacije na kojoj se očekuje više od 250 učesnika, ne obezbijedi postavljanje kanti za odlaganje otpada, u skladu sa Pravilnikom, te iste ukloni odmah nakon završene manifestacije (član 60 stav 6);
+56) za vrijeme trajanja manifestacije, ne obezbijedi sanitarnu, tehničku i higijensku ispravnost odnosno urednost, čistoću i funkcionalnost pokretnog toaleta (član 60 stav 8);
+57) postavi turističku ili drugu obavještajnu signalizaciju na javnoj ili kontaktnoj površini ili na stubu javne rasvjete bez odobrenja organa za komunalne poslove (član 64 st.1);
+58) postavljenu signalizaciju iz člana 65 stava 1 ove odluke ne održava u esteski urednom i funkcionalno ispravnom stanju (član 64 stav 3);
+59) ne ukloni snijeg i led sa površina utvrđenih članom 65 stav 2 ove odluke (član 65 stav 1);
+60) ne ukloni ledenice sa krova ili drugih spoljnih djelova zgrade koja se graniči sa javnom površinom ili površinom u javnom korišćenju (član 71 stav 1);
+61) u slučaju da nije moguće uklanjanje ledenica sa zgrade blagovremeno ne postavi oznake upozorenja na opasnost od pada ledenica odnosno odgovarajuću barijeru radi obilaženja ugroženih djelova površine člana 66 stav 1 ove odluke (član 71 stav 4);
+62) ne postupi po rješenju o ograničavanju parkiranja na parking mjestima uz kolovoz za vrijeme trajanja sniježnih padavina (član 73 stav 1);
+63) bespravno se priključi na objekat i/ili instalaciju javne rasvjete (član 76);
+64) uređeno ili izgrađeno kupalište sa pripadajućim sadržajem na otvorenoj plaži, obali rijeke ili jezera ne održava u urednom stanju u skladu sa propisima o turizmu I ugostiteljstvu (član 78 stav 1);
+65) privremeni objekat na uređenom ili izgrađenom kupalištu ne održava u estestki urednom i funkcionalno ispravnom stanju (član 78 stav 4);
+66) pregradi i/ili zatrpa otvoreni odvodni kanal (član 80);
+67) naruši komunalni red stvaranjem buke upotrebom mehaničkog uređaja ili uređaja odnosno opreme za hlađenje/grijanje odnosno ventilacije iz ugostiteljskog objekta i objekta stambene i stambeno-poslovne namjene, suprotno odredbama Zakona (član 83 stav 1);
+68) izvodi građevinske radove u neposrednoj blizini objekata namijenjenih stanovanju, u periodu od 22.00h do 06.00h narednog dana (član 84 stav 1);
+69) drži odnosno uzgaja stoku i perad suprotno odredbama člana 85 odluke;
+70) na ulicama stazama i šetalištima pijacama ( osim na stočnoj pijaci) parkinzima i drugim javnim površinama pušti stoku I perad (član 88);
+Za prekršaj iz stava 1 ovog člana kazniće se i odgovorno lice u pravnom licu i fizičko lice novčanom kaznom u iznosu od 50 eura do 1000 eura.
+Za prekršaj iz stava 1 ovog člana kazniće se preduzetnik novčanom kaznom u iznosu od 100 eura do 3000 eura.
