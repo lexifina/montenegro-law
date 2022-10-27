@@ -1,0 +1,2 @@
+Na osnovu člana 39 Zakona o turističkim organizacijama ("Službeni list RCG" broj 11/04, i 46/07 i "Službeni list Crne Gore" broj 73/10,40/11,45/14,42/17 i 27/19 ), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 02/18,34/19 i 39/20) člana 37 stav 8 Statuta Opštine Kolašin ("Službeni list Crne Gore - Opštinski propisi", broj 24/19), Skupština opštine Kolašin, na sjednici održanoj 10.10.2022. godine, donijela je
+O D L U K U
