@@ -1,0 +1,3 @@
+# Član 25
+## Završne odredbe
+U skladu sa Zakonom o slobodnom pristupu informacijama ("Službeni list Crne Gore", br. 044/12 od 09.08.2012, 030/17 od 09.05.2017) Opština Pljevlja u obavezi je radi upoznavanja javnosti da omogući pristup informacijama o svom radu pravovremenom objavom na internet stranici i zvaničnom sajtu Opštine Pljevlja. Stoga, smatraće se da je osoba podnošenjem zahtjeva, za dodjelu bespovratnih sredstava, saglasna s prikupljanjem, obradom i korišćenjem svojih ličnih podataka kao i javnom objavom na internet stranici, sajtu opštine i službenom listu CG, a u svrhu za koju su prikupljeni.
