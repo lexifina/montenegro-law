@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 Zakona o državnoj imovini ("Službeni list Crne Gore" broj 21/09, 40/11), člana 38 stav 1 tačka 2 Zakona o lokalnioj samoupravi ("Službeni list RCG", br. 2/18, 34/19, 38/20, 50/22, 84/22) i člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl. list CG - Opštinski propisi", br. 19/18) Skupština Opštine Bijelo Polje, na sjednici održanoj dana 14.10..2022. godine, donijela je
+O D L U K U
