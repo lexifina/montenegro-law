@@ -1,0 +1,3 @@
+# Član 1
+## Vodovod "Bistrica" Bijelo Polje br. 759/22 od 17.06.2022.godine
+Daje se saglasnost na Odluku Odbora direktora društva sa ograničenom odgovornošću Vodovod "Bistrica" br. 759/22 od 17.06.2022.godine, kojom se utvrđuju cijene za regulisanje komunalne djelatnosti (javno vodosnabdijevanje i prihvatanje i odvođenje otpadnih voda, komunalnih otpadnih voda fekalnog porijekla i cijene usluge crpljenja i zbrinjavanja i odvoza otpadnih voda iz septićkih jama) vršioca usluge D.O.O. Vodovod "Bistrica" Bijelo Polje za 2022.godinu u skladu sa Metodologijom za utvrđivanje cijena za obavljanje regulisane komunalne djelatnosti.
