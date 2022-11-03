@@ -1,0 +1,4 @@
+# Član 12
+## Stupanje na snagu
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore", a primjenjivaće se nakon tri mjeseca od dana stupanja na snagu.
+* U ovaj pravilnik prenešena je Implementirajuća Regulativa Komisije (EU) 2022/632 оd 13. aprila 2022. o utvrđivanju privremenih mjera za navedene plodove porijeklom iz Argentine, Brazila, Južne Afrike, Urugvaja i Zimbabvea radi sprečavanja unošenja u Uniju i širenja unutar Unije štetnog organizma Phyllosticta citricarpa (McAlpine) Van der Aa (Commission Implementing Regulation (EU) 2022/632 of 13 April 2022 setting out temporary measures in respect of specified fruits originating in Argentina, Brazil, South Africa, Uruguay and Zimbabwe to prevent the introduction into, and the spread within, the Union territory of the pest Phyllosticta citricarpa (McAlpine) Van der Aa).
