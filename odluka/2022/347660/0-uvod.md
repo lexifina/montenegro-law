@@ -1,0 +1,3 @@
+Na osnovu člana člana 27 stav 1 tacka 2 ,člana 28 stav1 tačka 5 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18, 034/19, 038/20) člana 1,2a,4a i člana 7 Zakona o ekspropijaciji (,,Sl.list RCG" br.55/00,012/02,028/06 I ,,Sl.list CG", br. 021/08, 030/17 i 075/18) i člana 38 stav 1 tačka 2 Statuta Opštine Gusinje ("Sl. list CG- Opštinski propisi", br. 003/19 i 024/21) Skupština opštine Gusinje, dana 13.10.2022. godine donosi:
+O D L U K U
+o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi izgradnje- rekonstrukcije lokalnog puta Gusinje-Vusanje u KO Vusanje;
