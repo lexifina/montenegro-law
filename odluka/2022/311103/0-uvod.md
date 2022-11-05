@@ -1,0 +1,3 @@
+Na osnovu člana 329 Zakona o privrednim društvima ("Sl.list CG", br. 65/20), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20 50/22 i 84/22), člana 58 stav 1 tačka 2 Statuta Opštine Ulcinj ("Sl. list Crne Gore - Opštinski propisi", broj 48/19), člana 12. stav 1. alineja 1. Odluke o osnivanju društva sa ograničenom odgovornošću "Parking servis Ulcinj" ("Službeni list CG - Opštinski propisi", br. 18/17, 15/19, 4/22 i 39/22) Skupština opštine Ulcinj, na sjednici održanoj dana 13.10.2022.godine, donijela je
+O D L U K U
+o davanju saglasnosti na Statut DOO "Parking Servis" Ulcinj broj 704/22 od 04.10.2022.
