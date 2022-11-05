@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ( "Službeni list CG", br. 2/18,34/19 i 38/20), člana 58. stav 1. tačka 2.Statuta Opštine Ulcinj ("Sl. list Crne Gore - Opštinski propisi", broj 48/19), člana 16. stav 1. alineja 8. Odluke o osnivanju d.o.o Komunalne dijelatnosti ("Sl.list CG", br 18/17, 48/18 i 04/22) Skupština opštine Ulcinj, na sjednici održanoj dana 13.10.2022. godine, donijela je
+O D L U K U
+o davanju saglasnosti na Odluku o imenovanju vršioca dužnosti izvršnog direktora DOO
