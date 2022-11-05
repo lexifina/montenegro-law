@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o teritorijalnoj organizaciji Crne Gore ("Službeni list Crne Gore", br. 054/11, 026/12, 027/13, 062/13, 012/14, 003/16, 031/17, 086/17, 086/18, 003/20, 092/22) i člana 46 stav 1 tačka 2 Statuta Opštine u okviru Glavnog grada-Golubovci ("Službeni list CG - Opštinski propisi", br. 015/19), Skupština Opštine u okviru Glavnog grada-Golubovci, na XXVI sjednici održanoj 14.10.2022. godine, donijela je
+O D L U K U
