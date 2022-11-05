@@ -1,0 +1,3 @@
+Na osnovu člana 40. stav 1. tačka 29. Statuta Opštine Pljevlja ("Službeni list CG - Opštinski propisi", br. 46/18), u vezi sa članom 38. stav 1. tačka 29. Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i članom 17. stav 1. i 2. Zakona o zaradama zaposlenih u javnom sektoru ("SL.list CG" br. 16/16, 83/16, 21/17, 42/17, 12/18, 42/18, 34/19, 130/21 i 146/21), uz prethodnu Saglasnost Ministarstva finansija Crne Gore broj: 04-110/22-55/2 od 22.09.2022.godine. Skupština opštine Pljevlja, na sjednici održanoj dana 14.10.2022. godine, donijela je:
+O D L U K U
+o izmjenama i dopunama Odluke o zaradama lokalnih službenika i namještenika u Opštini
