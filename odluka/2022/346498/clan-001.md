@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom propisuju se način i uslovi organizovanja i obavljanja komunalnih djelatnosti: javnog vodosnabdijevanja, upravljanja komunalnim otpadnim i atmosferskim vodama na području opštine Mojkovac i uslove za pružanje komunalnih usluga, odnosno isporuku komunalnog proizvoda, prava i obaveze vršioca komunalne djelatnosti i korisnika usluga, način plaćanja izvršenih usluga i druga pitanja od značaja za vršenje naprijed pomenutih djelatnosti.
