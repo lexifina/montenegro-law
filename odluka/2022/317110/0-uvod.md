@@ -1,0 +1,3 @@
+Na osnovu člana 40 i 41 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", br. 03/19 ), člana 185 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19, 38/20,50/22 i 84/22- Odluka US CG i 85/22 - ispravka Odluke US CG), Odluka o raspuštanju Skupštine opštine Budva ("Službeni list CG", br. 34/22 i 68/22 ) , Odluke o izmjeni odluke o raspuštanju Skupštine opštine Budva ("Službeni list CG", br. 68/22 ), i člana 44 stav 1 tačka 7 Statuta opštine Budva ("Službeni list CG -Opštinski propisi", br. 02/19), Odbor povjerenika na sjednici održanoj dana 31. oktobra 2022. godine, donio je
+O D L U K U
+o završnom računu Budžeta Opštine Budva za 2021 godinu
