@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom uređuju se uslovi, visina subvencije u troškovima prevoza u prigradskom i međugradskom saobraćaju, kao i smještaja učenika u JU Dom učenika i studenata u Beranama, način i postupak za ostvarivanje prava na subvenciju prevoza i smještaja, za određene kategorije učenika srednjih škola, sa područja Opštine Petnjica, i druga pitanja od značaja, za ostvarivanje prava propisanih ovom odlukom.
