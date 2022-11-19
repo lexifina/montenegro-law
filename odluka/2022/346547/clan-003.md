@@ -1,0 +1,2 @@
+# Član 3
+Za usluge podrške za život u zajednici usluge dnevnog boravka iz člana 1 ove odluke, shodno kriterijumima i mjerilima iz čl. 3 i 4 Pravilnika o kroterijumima i mjerilima za utvrđivanje cijena usluga podrške za život u zajednici usluge dnevnog boravka koja se pruža u JU "Dnevni centar za djecu i mlade sa smetnjama u razvoju - Mojkovac", utvrđuje se cijena u iznosu od 1425.00 € po korisniku na mjesečnom nivou.
