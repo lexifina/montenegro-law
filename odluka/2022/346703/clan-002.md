@@ -1,0 +1,2 @@
+# Član 2
+U cilju zaštite lokalnih dobara od opšteg interesa, provjere saznanja da li su svojinska ovlašćenja na nepokretnostima protivno zakonu uknjižena na treća lica, nužno je formirati stručni tim sa licima koja se bave pitanjima zaštite lokalnih dobara od opšteg interesa i licima koja se profesionalno bave svojinsko pravnim odnosima i ovlašćenjima, te da se pribavi sva dokumentacija o osnovanosti upisa, izvrši analiza i pokrenu upravni i sudski postupci i postupci pred drugim nadležnim organima radi povraćaja svojinskih prava.
