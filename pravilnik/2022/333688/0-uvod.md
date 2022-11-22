@@ -1,0 +1,5 @@
+Na osnovu člana 14 stav 4 Zakona o elektronskoj upravi ("Službeni list CG", broj 72/19), Ministarstvo javne uprave donijelo je
+P R A V I L N I K
+O IZGLEDU I SADRŽAJU OBRASCA ZAHTJEVA ZA DAVANjE SAGLASNOSTI ZA
+PRUŽANjE USLUGA ELEKTRONSKE UPRAVE PREKO INFORMACIONOG SISTEMA
+KOJI ORGAN SAM USPOSTAVLjA I UNAPREĐUJE
