@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore", br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 35 i 45 Statuta Opštine Tivat ("Sl. list Crne Gore - Opštinski propisi" br. 24/18 i 09/20) i člana 10 Poslovnika o radu Skupštine opštine Tivat ("Sl. list Crne Gore - Opštinski propisi", br. 37/18 i 07/21) Skupština opštine Tivat, na sjednici održanoj dana 02.12.2022. godine donijela je
+O D L U K U
