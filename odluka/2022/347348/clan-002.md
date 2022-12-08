@@ -1,0 +1,2 @@
+# Član 2
+Sastavni dio ove odluke čini Programski zadatak sa elementima urbanističko-tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa: objekata distributivne mreže naponskog nivoa do stubne transformatorske trafostanice-STS 10/0.4 kV snage 250 kVA i priključnog dalekovoda 10kV, u skladu sa idejnim rješenjem u Kolašinu, i grafičkim prikazom planiranih vodova.
