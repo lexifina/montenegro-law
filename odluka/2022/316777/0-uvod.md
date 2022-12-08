@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 7 Zakona o lokalnoj samoupravi ("Sl.list CG", br.2/18, 34/19, 38/20 i 50/22) i člana 84 Statuta Opštine Mojkovac("Sl.list CG-Opštinski propis", br. 29/18 i 37/22), a u vezi sa članom 28 i 31 Zakona o finansiranju lokalne samouprave ("Sl.list CG", br. 3/19 i 86/22), članom 3 i 34 Zakona o Budžetu i fiskalnoj odgovornosti ("Sl.list CG", br. 20/14, 56/14, 70/17, 4/18, 55/18, 66/19, 70/21, 145/21), uz prethodno pribavljeno Mišljenje Ministarstva finansija, Skupština opštine Mojkovac na sjednici održanoj dana 25. novembra 2022. godine, donijela je
+O D L U K U
+o izmjenama i dopunama Odluke o Budžetu Opštine Mojkovac za 2022. godinu
