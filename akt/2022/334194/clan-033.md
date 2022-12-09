@@ -1,0 +1,3 @@
+# Član 33
+Poslodavac je dužan da zatraži i razmotri mišljenje i prijedloge sindikata prije donošenja odluke od bitnog značaja za profesionalne i ekonomske interese zaposlenih, otpuštanja zaposlenih usljed tehnolosko-ekonomskih, restrukturalnih i drugih promjena, sistematizacije radnih mjesta i dr.
+U slučajevima iz stava 1 ovog člana poslodavac je dužan da blagovremeno, a najkasnije pet dana prije održavanja sastanka, obavijesti predstavnika sindikata kod poslodavca radi prisustvovanja sastancima organa poslodavca na kojima se razmatraju dostavljena misljenja i prijedlozi, i donose odluke od bitnog značaja za profesionalne i ekonomske interese zaposlenih.

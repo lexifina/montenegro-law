@@ -1,0 +1,3 @@
+Na osnovu člana 183 stav 3 Zakona o radu ("Službeni list Crne Gore", br. 74/19, 08/21, 59/21, 68/21 i 145/21), člana 24 stav 1 i stav 6 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16,21/17, 42/17,12/18, 39/18 i 42/18, 34/19, 130/21 i 146/21) i člana 28 stav 1 tačka 5 Statuta Inzenjerske komore Crne Gore ("Sluzbeni list CG", br. 22/18 od 11.04.2018. godine), Reprezentativna Sindikalna organizacija Sekretarijata Inženjerske komore Crne Gore (u daljem tekstu: Sindikalna organizacija) i Upravni odbor Inženjerske komore Crne Gore, kojeg zastupa Predsjednik, zaključuju
+K O L E K T I V N I
+UGOVOR SEKRETARIJATA INŽENjERSKE KOMORE CRNE GORE

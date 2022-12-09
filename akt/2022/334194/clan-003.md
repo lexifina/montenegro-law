@@ -1,0 +1,2 @@
+# Član 3
+Pravilnik o unutrasnjoj organizaciji i sistematizaciji radnih mjesta u Sekretarijatu Inzenjerske komore Crne Gore (u daljem tekstu: Pravilnik) je akt kojim se utvrđuje unutrasnja organizacija; radna mjesta; opis poslova radnog mjesta; broj izvrsilaca; posebni uslovi za zasnivanje radnog odnosa (kompetencije, znanje, vjestine i radno iskustvo, kvalifikacija nivoa obrazovanja, odnosno stručna kvalifikacija u rasponu od najvise dva nivoa obrazovanja, odnosno stručne kvalifikacije).

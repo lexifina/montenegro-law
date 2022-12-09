@@ -1,0 +1,3 @@
+# Član 1
+Ovim Kolektivnim ugovorom (u daljem tekstu: Ugovor) utvrđuju se elementi za utvrđivanje zarade, naknada zarade i drugih primanja zaposlenih i uređuju se prava, obaveze i odgovornosti iz rada i po osnovu rada zaposlenih u Sekretarijatu Inženjerske komore Crne Gore, međusobni odnosi potpisnika Ugovora i druga pitanja od značaja za zaposlenog i poslodavca, u skladu sa Zakonom o radu, Zakonom o zaradama zaposlenih u javnom sektoru i Opštim kolektivnim ugovorom.
+Sve pravnorelevantne norme Zakona o radu, Opšteg kolektivnog ugovora, propisa o zaštiti i zdravlju na radu i zaštitu od mobinga primjenjuju se neposredno.
