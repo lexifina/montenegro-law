@@ -1,0 +1,4 @@
+# Član 4
+## Stupanje na snagu
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+* U ovaj pravilnik prenešen je član 1 i 3 i Prilog Delegirane Regulative Komisije (EU) 2021/1353 оd 17. maja 2021. o dopuni Regulative (EU) 2017/625 Evropskog parlamenta i Savjeta u pogledu slučajeva i uslova u kojima nadležna tijela mogu odrediti službene laboratorije koje ne ispunjavaju uslove u vezi sa svim metodama koje upotrebljavaju za službene kontrole ili druge službene aktivnosti i Prilog 3 Regulative (EU) 2017/625 Evropskog Parlamenta i Savjeta od 15. marta 2017. o službenim kontrolama i drugim službenim aktivnostima kojima se obezbjeđuje primjena propisa o hrani i hrani za životinje, pravila o zdravlju i dobrobiti životinja, zdravlju bilja i sredstvima za zaštitu bilja.
