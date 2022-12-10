@@ -1,0 +1,2 @@
+# Član 9
+Prilikom prijema zahtjeva utvrđuje se identitet digitalnog nomada, odnosno člana uže porodice digitalnog nomada, da li je strana putna isprava, odnosno lična karta koju je izdao nadležni organ druge države kojom se dokazuje identitet važeća, da li digitalni nomad zakonito boravi u Crnoj Gori (da li ima izdatu vizu za duži boravak (viza D) ili je ušao u skladu sa propisom kojim se uređuje vizni režim) i da li su uz zahtjev podneseni dokazi o ispunjenosti uslova za izdavanje dozvole.
