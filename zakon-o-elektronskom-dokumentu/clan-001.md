@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim zakonom uređuju se način upotrebe elektronskog dokumenta u pravnom prometu, upravnim, sudskim i drugim postupcima, kao i prava, obaveze i odgovornosti privrednih društava, preduzetnika, nezavisnih i regulatornih tijela i drugih pravnih i fizičkih lica (u daljem tekstu: pravna i fizička lica), državnih organa, organa državne uprave, državnih agencija, državnih fondova i drugih nosilaca javnih ovlašćenja, organa lokalne samouprave, organa lokalne uprave, posebnih i javnih službi u smislu zakona kojim se uređuje lokalna samouprava (u daljem tekstu: nadležni organi), ako zakonom nije drukčije određeno.

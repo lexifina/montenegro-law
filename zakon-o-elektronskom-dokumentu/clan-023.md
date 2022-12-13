@@ -1,0 +1,5 @@
+# Član 23
+## Dostavljanje elektronskih dokumenata između nadležnih organa i stranaka
+Elektronski dokument pravna i fizička lica u svojstvu stranke dostavljaju nadležnim organima putem elektronske pošte na jedinstvenu službenu adresu za elektronsku komunikaciju koju je nadležni organ odredio za prijem elektronskih podnesaka, putem usluge elektronske preporučene dostave na adresu za elektronsku preporučenu dostavu koju je nadležni organ odredio za prijem elektronskih dokumenata ili drugim elektronskim putem, ako je zakonom kojim se uređuje taj postupak predviđena ta mogućnost.
+Elektronski dokument nadležni organ dostavlja stranci na elektronsku adresu, odnosno adresu za elektronsku preporučenu dostavu, koju stranka odredi za prijem elektronskih dokumenata ili drugim elektronskim putem, u skladu sa posebnim propisima.
+Dostavljanje elektronskih dokumenata između nadležnih organa vrši se putem elektronske pošte, usluge elektronske preporučene dostave ili drugim elektronskim putem, u skladu sa posebnim propisima.
