@@ -1,0 +1,2 @@
+Na osnovu člana 59 i člana 154 stav 2 i 4 Zakona o socijalnoj i dječjoj zaštiti ( "Službeni list Crne Gore", broj 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/21, 145/21 i 145/21), člana 38 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 36 Statuta Opštine Kotor ( "Službeni list Crne Gore- Opštinski propisi", broj 37/19), Skupština opštine Kotor je, na XV sjednici održanoj dana 29.11.2022. godine, donijela:
+O D L U K A
