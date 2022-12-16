@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 1 tačka 6 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22; člana 29 stav 2 i člana 40 stav 2 tačka 4 Zakona o državnoj imovini ("Sl. list Crne Gore", br. 21/09, 40/11) člana 78 stav 1 tačka 6 Statuta Opštine Bijelo Polje ("Službeni list CG - Opštinski propisi", br. 19/18) i Saglasnosti Skupštine opštine Bijelo Polje 02-016/22-7471, od 14.10.2022. godine, predsjednik Opštine Bijelo Polje donosi:
+O D L U K U
