@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 21 Zakona o lokalnoj samoupravi ("Službeni list CG- Opštinski propisi" br. 02/18, 34/19, 38/20, 50/52 i 84/22), člana 46 stav 1 tačka 21 Statuta Opštine Bijelo Polje ("Sl.list CG-Opštinski propisi" br. 19/18) i člana 6 i 10 Odluke o obrazovanju radnih tijela Skupštine ("Službeni list RCG-Opštinski propisi" br. 44/06 i Službeni list CG-Opštinski propisi" br. 26/10 i 42/20), Skupština opštine Bijelo Polje na sjednici održanoj 20.12. 2022.godine, donijela je
+O D L U K U
