@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o utvrđivanju proizvoda i usluga koji se oporezuju po sniženoj stopi PDV ("Službeni list RCG", br. 81/05, 2/06 i 10/06 i "Službeni list CG", br. 6/08, 46/08, 11/09, 62/15, 69/15, 21/16, 32/16, 37/16, 58/16, 65/16, 43/19, 51/19, 71/21, 93/21, 143/21, 7/22, 17/22, 31/22 i 103/22) u članu 2 u uvodnoj rečenici stava 1 riječi: "stav 1 tačka 1 Zakona," zamjenjuju se riječima: "stav 1 tačka 1a Zakona,".
