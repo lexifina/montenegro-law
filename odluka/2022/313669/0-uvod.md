@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 21 i člana 43 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 36 i 37 Statuta Opštine Tivat ("Sl.list Crne Gore - Opštinski propisi", br. 24/18, 09/20), člana 44, 45, i 46 Poslovnika o radu Skupštine opštine Tivat ("Sl.list Crne Gore -Opštinski propisi", br. 37/18, 07/21) i člana 4, 5 i 14 Odluke o obrazovanju radnih tijela Skupštine (" Sl.list RCG - Opštinski propisi", br. 08/05), Skupština opštine Tivat, na sjednici održanoj dana 20.12.2022.godine, donijela je
+O D L U K U
