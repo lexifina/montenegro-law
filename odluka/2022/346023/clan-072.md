@@ -1,0 +1,2 @@
+# Član 72
+Danom početka primjene ove Odluke prestaje da važi Odluka o organizaciji i načinu rada lokalne uprave Opštine Kotor ("Službeni list Crne Gore - opštinski propisi" broj 46/19 i 06/21) odredbe člana 10a, 17d, 17i i 17ž izmijenjenih Odlukom o izmjenama i dopunama Odluke o lokalnoj upravi ("Službeni list Opštine Kotor" broj 9/07) i člana 17g, 17e, 17z i 29 Odluke o izmjeni Odluke o organizaciji i načinu rada lokalne uprave ("Službeni list Crne Gore - Opštinski propisi" broj 1/12).

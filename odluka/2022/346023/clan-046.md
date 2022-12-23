@@ -1,0 +1,7 @@
+# Član 46
+## Poslovi iz osnovne djelatnosti
+Poslovi iz osnovne djelatnosti obuhvataju:
+1. strateško-analitičke poslove koji se odnose, naročito, na: izradu strategija i programa na osnovu praćenja izvršavanja zakona i drugih propisa i sagledavanja i analiziranja stanja u određenoj oblasti;
+2. normativno-pravne poslove koji se odnose, naročito, na: izradu teksta nacrta i predloga zakona, izradu i predlaganje propisa koje donosi Vlada Crne Gore i izradu podzakonskih propisa, staranje o usklađenosti zakona, drugih propisa i opštih akata u postupku pripreme sa Ustavom i pravnim sistemom i praćenje i proučavanje izvršavanja zakona i drugih propisa;
+3. poslove nadzora koji se odnose, naročito, na: kontrolu zakonitosti upravnih akata i drugih upravnih aktivnosti i u vezi sa tim preduzimanje zakonom propisanih mjera; kontrolu zakonitosti, efikasnosti i ekonomičnosti rada i organizacije poslova organa uprave; utvrđivanje da li se subjekti nadzora pridržavaju zakona, drugih propisa i opštih akata i preduzimanje upravnih i drugih mjera i radnji u skladu sa zakonom;
+4. poslove izvršavanja zakona i drugih propisa koji se odnose, naročito, na: vođenje upravnog postupka, donošenje i izvršenje rješenja i drugih pojedinačnih akata, preduzimanje upravnih aktivnosti, mjera i upravnih radnji, praćenje njihovog izvršavanja, davanje objašnjenja, izdavanje stručnih uputstava i instrukcija za rad i ukazivanje stručne pomoći.

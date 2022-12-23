@@ -1,0 +1,2 @@
+# Član 63
+Danom početka primjene ove Odluke, prestaje da postoji organ lokalne uprave Direkcija za uređenje i izradnju Kotora i poslove ovog organa u djelokrugu utvrđenom Odlukom, zaposlene na tim poslovima, predmete i opremu preuzimaju Sekretarijat za imovinsko pravne poslove, Sekretarijat za urbanizam, stanovanje i uređenje prostora, Sekretarijat za investicije, Sekretarijat za lokalne prihode, budžet i finansije, Sekretarijat za zajedničke poslove i Služba za javne nabavke.
