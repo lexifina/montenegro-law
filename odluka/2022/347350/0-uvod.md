@@ -1,0 +1,2 @@
+Na osnovu čl.4 6 i 18 Zakona o državnoj imovini ("Sl.list CG", br.21/09 i 40/11), čl.34 st.1 Zakona o lokalnoj samoupravi ("Sl.list CG" br.2/18, 34/19, 38/20, 50/22 i 84/22), čl.19 i 36 Statuta Opštine Kotor ("Sl.list CG -Opštinski propisi", br.37/19), člana 62 Odluke o organizaciji i načinu rada lokalne uprave ("Sl.list CG" br.-Opštinski propisi", br. 46/19 i 06/21) i Statuta Direkcije za uređenje i izgradnju Kotora br 02-203/1 od 30.01.2012. godine,Skupština opštine Kotor na XV sjednici održanoj dana 29.11.2022. godine, donosi sledeću
+O D L U K U
