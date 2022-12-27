@@ -1,0 +1,2 @@
+Na osnovu člana 38. stav 1 tačka 21 Zakona o lokalnoj samoupravi ("Sl.list CG", broj 2/2018, 34/2019, 38/2020, 50/2022,84/2022 i 85/2022), člana 43. stav 1 tačka 21 Statuta Opštine Bar ("Sl.list CG - Opštinski propisi", broj 37/18) i člana 8. Odluke o obrazovanju radnih tijela ("Sl.list RCG - Opštinski propisi", br. 41/06), Skupština opštine Bar na sjednici održanoj 27.12.2022. godine, donijela je
+O D L U K U
