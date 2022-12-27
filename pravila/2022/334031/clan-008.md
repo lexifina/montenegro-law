@@ -1,0 +1,3 @@
+# Član 8
+Nakon podnošenja uredne dokumentacije iz člana 7 ovih pravila, CKDD donosi odluku o prijemu u članstvo OTC člana i pristupa se zaključivanju ugovora o OTC članstvu.
+Zaključivanjem ugovora OTC član bezuslovno prihvata obaveze iz OTC članstva u dijelu: finansijskih obaveza prema CKDD-u u skladu sa cjenovnikom CKDD-a, poštovanja i čuvanja integriteta Informacionog sistema CKDD-a, ispunjenja obaveza prema CKDD-u i drugoj ugovornoj strani iz zaključenih OTC transakcija, u skladu sa uslovima određenim u tim transakcijama kao i svih ostalih relevantnih zakonskih obaveza za aktivnosti na tržištu kapitala u Crnoj Gori.
