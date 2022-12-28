@@ -1,0 +1,8 @@
+# Član 1
+## o razrješenju Odbora direktora d.o.o. "Vodovod i kanalizacija" Bar
+Razrješavaju se članstva u Odboru direktora d.o.o. "Vodovod i kanalizacija" Bar, zbog prestanka mandata:
+1. Jakup Đelošević, član
+2. Antoneta Janković, član
+3. mr Miloš Lalević, član
+4. Afrim Berjašević, član
+5. Milica Bulatović, član.
