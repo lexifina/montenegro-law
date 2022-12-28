@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Službeni list CG" br. 46/11 i 14/14), člana 53 stav 1 tačka 2 Statuta Opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 24/19, 05/20, 51/22 i 55/22), Skupština opštine Tuzi je na sjednici održanoj 21.12.2022. godine donjela
+O D L U K U
