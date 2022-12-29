@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o otvaranju parlamentarne istrage i obrazovanju Anketnog odbora za prikupljanje informacija i činjenica o postupanju nadležnih državnih organa i drugih subjekata u vezi sa projektom vjetroelektrane Možura ("Službeni list CG", broj 84/22), u članu 6 stav 1 riječi: "početka primjene ove odluke", zamjenjuje se riječima: "donošenja odluke o imenovanju predsjednika, zamjenika predsjednika i deset članova Anketnog odbora, na predlog odbora nadležnog za izbor i imenovanje".
