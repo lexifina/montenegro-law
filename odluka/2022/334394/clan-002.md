@@ -1,0 +1,2 @@
+# Član 2
+Osnovica za obračun godišnjih naknada koje plaćaju imaoci licenci za obavljanje energetskih djelatnosti i imaoci statusa zatvorenog distributivnog sistema električne energije u 2023. godini, iznosi 1.069.250,46 €, a dobijena je kao razlika prihoda od naknada za korišćenje licenci, utvrđenog Finansijskim planom za 2023. godinu u iznosu od 1.547.060,37 €, i sredstava koja po isteku 2022. godine preostaju na računu Agencije, nakon izmirenja obaveza, u iznosu od 477.809,91 €.
