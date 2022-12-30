@@ -1,0 +1,45 @@
+# Član 1
+Budžet Opštine Kolašin za 2023. godinu (u daljem tekstu Budžet) sadrži primitke i izdatke u iznosu od: 7.580.000,00 €.
+IZVORNI PRIHODI
+6.550.000,00
+POREZI
+2.480.000,00
+TAKSE
+50.000,00
+NAKNADE
+2.215.000,00
+OSTALI PRIHODI
+215.000,00
+DONACIJE I TRANSFERI
+1.590.000,00
+IZDACI
+6.754.000,00
+TEKUĆI IZDACI
+3.614.000,00
+KAPITALNI IZDACI
+3.140.000,00
+SUFICIT/DEFICIT
+-204.000,00
+PRIMARNI SUFICIT/DEFICIT
+-360.100,00
+OTPLATA DUGA
+826.000,00
+NEDOSTAJUĆA SREDSTVA
+-1.030.000,00
+FINANSIRANJE
+1.030.000,00
+PRIHODI OD PRODAJE IMOVINE
+20.000,00
+POZAJMICE I KREDITI
+10.000,00
+DEPOZITI
+1.000.000,00
+Prihodi se raspoređuju na:
+
+Tekuće izdatke u iznosu od: 4.350.000,00 €;
+
+Kapitalne izdatke u iznosu od: 3.140.000,00 €;
+
+Stalnu budžetsku rezervu u iznosu od: 40.000,00 €;
+
+Tekuću budžetsku rezervu u iznosu od: 50.000,00 €;

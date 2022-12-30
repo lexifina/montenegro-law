@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 7 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 02/18 i 34/19, 38/20, 50/22 i 84/22), člana 33 i 34 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore broj 20/14, 56/14, 70/17, 04/18, 55/18, 66/19, 70/21 i 145/21), člana 26 i 28 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", broj 03/19 i 86/22), i člana 37 tačka 7, Statuta Opštine Kolašin ("Službeni list Crne Gore - Opštinski propisi", broj 24/19), uz prethodno pribavljeno Mišljenje Ministarstva finansija, Skupština opštine Kolašin, na sjednici održanoj 28.12.2022.godine, donijela je
+O D L U K U
+o Budžetu Opštine Kolašin za 2023. godinu
