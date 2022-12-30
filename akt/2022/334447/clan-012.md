@@ -1,0 +1,3 @@
+# Član 12
+Granskim kolektivnim ugovorom ili kolektivnim ugovorom kod poslodavca obračunska vrijednost koeficijenta i koeficijent složenosti poslova mogu biti utvrđeni u drugom iznosu od iznosa utvrđenih ovim kolektivnim ugovorom, s tim što osnovna zarada zaposlenog po grupi poslova utvđena na taj način ne može biti niža od zarade dobijene kao proizvod obračunske vrijednosti koeficijenta i koeficijenta složenosti poslova utvđenih ovim kolektivnim ugovorom.
+U slučaju iz stava 1 ovog člana, obračunska vrijednost koeficijenta ne može biti manja od obračunske vrijednosti koeficijenta utvrđene u skladu sa ovim kolektivnim ugovorom.
