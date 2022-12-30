@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 19, a u vezi sa članom 58 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22, 84/22) i člana 46 stav 1 tačka 19, a u vezi članom 78 stav 1 tačka 8 Statuta Opštine Bijelo Polje ("Službeni list Crne Gore - Opštinski propisi", br.19/18), Skupština opštine Bijelo Polje, na sjednici održanoj dana, 29.12.2022. godine, donijela je
+O D L U K U
