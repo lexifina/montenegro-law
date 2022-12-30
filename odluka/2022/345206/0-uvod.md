@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti (,,Službeni list Crne Gore", br. 25/19, 049/22), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 02/18, 34/19, 38/20, 50/22, 84/22) i člana 36 stav 1 tačka 9 Statuta Opštine Kotor ("Službeni list Crne Gore-opštinski propisi" broj 37/19) Skupština Opštine Kotor, na XVI sjednici održanoj 28.12.2022. godine, donijela je
+O D L U K U
