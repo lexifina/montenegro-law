@@ -1,0 +1,6 @@
+# Član 5
+U članu 10 stav 1 dodaje se alineja 24 koja glasi : " učestvovanje u pripremi propisa za utvrđivanje visine, način i rokove naplate naknade za komunalno opremanje građevinskog zemljišta za legalne i naknade za urbanu sanaciju za bespravne objekte; planiranje prostora i izgradnja objekata u dijelu obezbjedjenja alternativnog smještaja vlasnicima bespravnih objekata;"
+U članu 10 u alineji 25 riječi: " pripremu jednogodišnjeg programa izgradnje, uređenja, korišćenja i zaštite prostora" zamjenjuju se riječima: " priprema jednogodišnjeg programa uređenja prostora i programa urbane snacije".
+U članu 10 stav 1 mijenja se alineja 36 i glasi: "obračun i utvrđivanje naknade za komunalno opremanje građevinskog zemljišta donošenjem rješenja, po zahtjevima investitora koji podnose prijavu građenja nadležnom inspekcijskom organu na osnovu tehničke dokumentacije"
+U članu 10 stav 1 mijenja se alineja 40 i glasi: "obračun i utvrđivanje naknade za urbanu sanaciju donošenjem rješenja za bespravne objekte; izradu izvještaja o konačnom obračunu naknade za komunalno opremanje građevinskog zemljišta;".
+Dosadašnje alineje 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47 i 48, postaju alineje 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48 i 49.
