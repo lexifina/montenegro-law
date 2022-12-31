@@ -1,0 +1,2 @@
+# Član 16
+Gradonačelnik odlučuje o korišćenju sredstava tekuće i stalne budžetske rezerve, koja su planirana za hitne i nepredviđene potrebe tokom fiskalne godine, u skladu sa odlukom kojom seuređuju bliži kriterijumi za korišćenje sredstava tekuće i stalne budžetske rezerve. Gradonačelnik može ovlastiti sekretara Sekretarijata za finansije da odlučuje o korišćenju sredstava tekuće budžetske rezerve u skladu sa Odlukom o bližim kriterijumima za korišćenje sredstava tekuće i stalne budžetske rezerve.
