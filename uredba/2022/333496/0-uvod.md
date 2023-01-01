@@ -1,0 +1,2 @@
+Na osnovu člana 24 stav 5 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18, 34/19, 130/21, 146/21 i 92/22), Vlada Crne Gore je 29. decembra 2022. godine, bez održavanja sjednice, na osnovu pribavljene saglasnosti većine članova Vlade, donijela
+U R E D B U O IZMJENI UREDBE O GRUPAMA POSLOVA I KOEFICIJENTIMA ZA ZARADE POLICIJSKIH SLUŽBENIKA
