@@ -1,0 +1,3 @@
+# Član 1
+## »Seljanovo« ("Sl.list CG-Opštinski propisi", broj 37/13)
+Ovom Odlukom utvrđuje se izgradnja lokalnog objekta od opšteg interesa i to NDTS 10/0.4 kV 1X1000 kVA "Centurion" na kat.parc.br.566/3 KO Tivat sa priključnim 10 kV vodom koji prolazi preko kat.parc.br.1034, 4881/1, 1009/1, 4893, 956, 959/1, 4892/1, 551/49, 551/1,551/52, 183/1, 183/2, 565/1, 566/4, 566/2 i 566/3 sve KO Tivat u zahvatu Izmjena i dopuna DSL-a "ARSENAL" ("Sl.list CG", br. 57/19), Detaljnog urbanističkog plana "Mažina" ("Sl.list CG- Opštinski propisi" br. 15/ 15) i Detaljnog urbanističkog plana »Seljanovo« ("Sl.list CG-Opštinski propisi", broj 37/13).
