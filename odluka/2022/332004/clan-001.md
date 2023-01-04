@@ -1,0 +1,3 @@
+# Član 1
+## Tivat, i na dijelu kat.par.br. 737, 728/1, 606/1 i 606/2 sve KO Donja Lastva, u zahvatu Državne studije lokacije "Dio Sektora 22" (»Sl.list CG« br. 30/17)
+Ovom Odlukom utvrđuje se izgradnja lokalnog objekta od opšteg interesa i to trafostanice NDTS 10/0,4 kV 1x630 kVA, u okviru urbanističke parcele UP 22, formirane od dijela kat.par.br. 171 i dijela kat.par.br. 182 KO Tivat, i priključnih 10kV kablovskih vodova, čija trasa se polaže na dijelu kat.par.br. 171, 183/1, 184/2, 109 sve u KO Tivat, i na dijelu kat.par.br. 737, 728/1, 606/1 i 606/2 sve KO Donja Lastva, u zahvatu Državne studije lokacije "Dio Sektora 22" (»Sl.list CG« br. 30/17).
