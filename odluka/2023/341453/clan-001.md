@@ -1,0 +1,2 @@
+# Član 1
+Daje se saglasnost za odustajanje od revizije izjavljene na presudu Višeg suda u Podgorici Gž.br. 1702/2022-16 od 14.09.2022. god. kojom je potvrđena presuda Osnovnog suda u Kotoru Posl.br.P. 613/20 od 04.01.2020. godine, u pravnoj stvari tužioca Kostić Sava radi isplate naknade za faktički izuzeto zemljište za ranije čestice zemlje 891,899,922 ( vlasništvo 5/6 ) i česticu zemlje 915 ( vlasništvo 1/1 ) sve KO Đuraševići koje ulaze u obuhvat kat.parcele 1750/9 KO Đuraševići, odnosno u obuhvat zemljišta na kojem je izgrađeno postrojenje za prečišćavanje otpadnih voda.
