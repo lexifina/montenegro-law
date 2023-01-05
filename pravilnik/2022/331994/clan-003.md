@@ -1,0 +1,7 @@
+# Član 3
+## Interna akta
+Lica iz člana 1 ovog pravilnika dužna su da aktima poslovne politike urede najmanje sljedeće oblasti:
+a) način obavljanja poslova posredovanja, odnosno zastupanja u osiguranju, a naročito: način vođenja i sadržinu evidencija ponuda, odnosno polisa osiguranja zaključenih uz učešće tog lica, obim i način pružanja informacija ugovornicima, odnosno osiguranicima u skladu sa Zakonom o osiguranju (u daljem tekstu: Zakon);
+b) način zaštite dokumenata i informacija koje se odnose na ugovornike, odnosno osiguranike;
+c) za društva za zastupanje u osiguranju, preduzetnike - zastupnike u osiguranju i banke: postupanje sa obrascima stroge evidencije (po vrstama osiguranja), obavezu da novčana sredstva i ostale instrumente plaćanja i osiguranja plaćanja koje su naplatili, odnosno preuzeli od osiguranika, odnosno ugovarača osiguranja, u ime i za račun društva za osiguranje, uplate u korist tog društva u roku utvrđenom ugovorom o zastupanju, odnosno da u istom roku predaju ostale instrumente plaćanja i obezbjeđenja plaćanja i ostalu prateću dokumentaciju i da ih čuvaju na sigurnom mjestu do isplate, odnosno predaje društvu za osiguranje;
+d) ukoliko je primjenljivo, da aktom o sistematizaciji predvide radna mjesta za obavljanje posredovanja, odnosno zastupanja u osiguranju, za koja je kao uslov predviđeno posjedovanje ovlašćenja za obavljanje poslova posredovanja, odnosno zastupanja u osiguranju.
