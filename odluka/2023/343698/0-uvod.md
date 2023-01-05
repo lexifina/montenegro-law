@@ -1,0 +1,2 @@
+Na osnovu člana 42 Zakona o teritorijalnoj organizaciji Crne Gore ("Službeni list Crne Gore", br. 054/11, 026/12, 027/13, 062/13, 012/14, 003/16, 031/17, 086/18, 003/20 i 092/22), člana 30 stav 3 i 4 Zakona o finansiranju lokalne samouprave ("Sl. list Crne Gore", broj 003/19, 086/22), člana 37 Zakona o budžetu i fiskalnoj odgovornosti ("Sl.list Crne Gore", br. 20/14, 56/14, 70/17, 04/18, 55/18, 66/19, 70/21 i 145/21), Skupština Opštine Zeta, na III sjednici održanoj dana 30.12.2022. godine, donosi
+O D L U K U
