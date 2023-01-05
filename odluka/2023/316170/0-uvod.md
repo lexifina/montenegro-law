@@ -1,0 +1,2 @@
+Na osnovu člana 28 Zakona o turističkim organizacijama (,,Sl.list RCG’’, broj 11/04,46/07 i ,,Sl.list CG’’ br. 73/10,40/11,45/14,42/17,27/19), člana 34 stav 1 tačka 30 Statuta Opštine Herceg Novi (,,Sl.list CG - opštinski propisi’’, br.01/19,37/19,06/20,18/22) i člana 19 stav 1 alineja 2 i 4 Odluke o osnivanju Turističke organizacije Opštine Herceg Novi (,,Sl.list RCG - Opštinski propisi’’, br.2/05 i Sl.list CG - opštinski propisi’’, broj 14/18,06/20) Skupština opštine Herceg Novi na sjednici održanoj 27.12.2022. godine, donijela je
+O D L U K U
