@@ -1,0 +1,2 @@
+Na osnovu člana 9 stav 6 Zakona o finansiranju političkih subjekata i izbornih kampanja ( "Službeni list CG" br. 3/20, 38/20), člana 32 Poslovnika o radu Skupštine Prijestonice Cetinje ( "Službeni list Crne Gore-Opštinski propisi", br. 17/19), člana 52 stav 2 i člana 76 Statuta Prijestonice ( "Službeni list CG-Opštinski propisi", broj 49/18, 09/19 i 17/21), Skupština Prijestonice Cetinje na sjednici održanoj dana, 22.12. 2022. godine, donijela je
+O D L U K U
