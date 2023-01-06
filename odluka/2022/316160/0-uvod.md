@@ -1,0 +1,2 @@
+Na osnovu čl. 24 i 25 st. 1 i 13 Zakona o izboru odbornika i poslanika ("Sl. list RCG" br. 16/2000-prečišćeni tekst, 9/01, 41/02, 46/02, 45/04-odluka US, 48/06, 56/06-odluka US, i "Sl. list CG" br. 46/11, 14/14, 47/14 -odluka US, 12/16-odluka US, 60/17-odluka US, 10/18-odluka US i 109/20-odluka US) i člana 76 Statuta Prijestonice ( "Službeni list CG-Opštinski propisi" br.49/18, 9/19 i 17/21), Skupština Prijestonice Cetinje, na sjednici održanoj dana, 22.12.2022. godine, donijela je
+O D L U K U
