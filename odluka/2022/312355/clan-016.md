@@ -1,0 +1,3 @@
+# Član 16
+Organ nadležan za poslove saobraćaja dužan je da na javnom parkiralištu odredi najmanje 5% parking mjesta za vozila lica sa 80% ili više procenata tjelesnog oštećenja ili tjelesnog invaliditeta, odnosno za vozila lica kod kojih je usljed tjelesnih oštećenja ili tjelesnog invaliditeta utvrđena nesposobnost donjih ekstremiteta od 60% ili više procenata, vozila koja koriste djeca sa tjelesnom, mentalnom ili senzornom ometenošću i za vozila lica koja ostvaruju pravo na ličnu invalidninu ili pravo na dodatak za njegu i pomoć, kao i za vozila udruženja ovih lica.
+Vozilo iz stava 1 ovog člana označava se znakom pristupačnosti koji izdaje organ nadležan za poslove saobraćaja u skladu sa propisom o bezbjednosti saobraćaja na putevima.
