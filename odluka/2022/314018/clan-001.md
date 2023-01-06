@@ -1,0 +1,3 @@
+# Član 1
+## o davanju na korišćenje nepokretnosti bez naknade Ministarstvu sporta i mladih Crne Gore za potrebe Omladinskog servisa u Prijestonici Cetinje
+Prijestonica Cetinje daje na korišćenje nepokretnost bez naknade, Ministarstvu sporta i mladih Crne Gore za potrebe Omladinskog servisa u Prijestonici Cetinje shodno zahtjevu Ministarsta sporta i mladih Crne Gore broj 02-615/22-80 od 13.05.2022.godine i to nepokretnost koja se nalazi na kat.parceli broj 1346/2, broj zgrade 1, površine 44m2 iz lista nepokretnosti broj 3450 KO Cetinje I, svojina Prijestonice Cetinje, na period od 2 (dvije) godine.
