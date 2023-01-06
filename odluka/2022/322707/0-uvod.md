@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 1 Zakona o lokalnoj samoupravi (Sl. list Crne Gore br. 02/18, 34/19, 38/20, 50/22, 84/22), člana 73 stav 1 tačka 1 Statuta Prijestonice (Sl. list Crne Gore - Opštinski propisi br. ( "Službeni list Crne Gore - Opštinski propisi", br. 049/18, 009/19, 017/21) i člana 119 Poslovnika Skupštine Prijestonice Cetinje (Sl. list Crne Gore - Opštinski propisi br. 17/19), Skupština Prijestonice Cetinje, na sjednici održanoj dana 22.12.2022. godine, donijela je
+O D L U K U
