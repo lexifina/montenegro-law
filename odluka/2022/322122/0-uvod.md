@@ -1,0 +1,2 @@
+Na osnovu člana 43 stav 1 i 3 i člana 44 Zakona o Lokalnoj samopravi ( "Službeni list CG" br. 2/18, 34/19, 38/20, 50/22 i 84/22), 73 stav 1 tačka 24 Statuta Prijestonice ( "Službeni list CG- Opštinski propisi" br. 49/18, 9/19 i 17/21) i čl.4 i 23 Odluke o obrazovanju radnih tijela Skupštine ( "Službeni list CG-Opštinski propisi" br. 53/19), Skupština Prijestonice Cetinje na sjednici održanoj dana, 22.12. 2022. godine, donijela je
+O D L U K U
