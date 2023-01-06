@@ -1,0 +1,3 @@
+# Član 21
+Investitor, odnosno vlasnik objekta na području koje je građevinski opremljeno, u smislu građevinskog zemljišta sa izgrađenim sistemom za vodosnabdijevanje i kanalizacijom, dužan je tu nekretninu priključiti na vodovodnu mrežu i izvesti spoj na kanalizaciju, u skladu sa odredbama Zakona o planiranju prostora i izgradnji objekata (u daljem tekstu: Zakon o izgradnji objekata).
+Investitoru, odnosno vlasniku objekta iz stava 1 ovog člana, na području gdje nije izgrađena kanalizaciona mreža može se dozvoliti priključenje na vodovodnu mrežu samo za objekte uz koje je izgrađena propisana septička jama, u skladu sa odredbama Zakona o izgradnji objekata i Odluke o postavljanju odnosno građenju i uklanjanju pomoćnih objekata na teritoriji Prijestonice Cetinje.

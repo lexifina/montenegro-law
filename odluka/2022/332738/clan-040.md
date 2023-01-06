@@ -1,0 +1,2 @@
+# Član 40
+Za vršenje popravki na vodovodnoj mreži i priključku, odnosno djelovima javnog vodovodnog sistema nije potrebna saglasnost-dozvola vlasnika ili korisnika nekretnine, ali je vršilac dužan da ga o planiranim radovima prethodno obavijesti, a ako se radi o izuzetno hitnim slučajevima vršilac ima pravo da odmah otpočne sa radovima, a vlasnika ili korisnika nepokretnosti o tome obavijesti u toku ili nakon izvedenih radova.

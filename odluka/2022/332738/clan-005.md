@@ -1,0 +1,3 @@
+# Član 5
+Korisnik usluge vodosnabdijevanja, u smislu ove odluke, je fizičko lice, pravno lice i preduzetnik koje ima prebivalište ili boravi na području Prijestonice, odnosno vlasnik nepokretnosti (stambenog, poslovnog i/ili proizvodnog prostora), koji koristi uslugu vodosnabdijevanja i čiji su objekti priključeni na tehničke sisteme za vodosnadbijevanje (u daljem tekstu: korisnik).
+Izuzetno od odredbe stava 1 ovog člana, korisnikom se smatra i drugo lice na koje je vlasnik nepokretnosti prenio obavezu plaćanja usluge vodosnabdijevanja, posebnim pravnim poslom, i koji je dostavio vršiocu djelatnosti vodosnabdijevanja.

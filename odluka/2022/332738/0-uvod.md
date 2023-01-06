@@ -1,0 +1,3 @@
+Na osnovu člana 14 stav 1, člana 15 stav 1 i člana 33 Zakona o komunalnim djelatnostima ( "Službeni list Crne Gore", br. 055/16, 074/16, 002/18, 066/19), člana 155 stav 1 Zakona o vodama ( "Službeni list Republike Crne Gore" br. 027/07, "Službeni list Crne Gore", br. 073/10, 032/11, 047/11, 048/15, 052/16, 055/16, 002/17, 080/17 i 084/18) i člana 73 stav 1 tačka 2 i tačka 33 Statuta Prijestonice (″Sl.list Crne Gore-Opštinski propisi″, br.049/18, 009/19, 017/21), Skupština Prijestonice Cetinje, na sjednici održanoj dana, 22.12.2022. godine, donijela je
+O D L U K U
+o javnom vodosnabdijevanju na području Prijestonice Cetinje

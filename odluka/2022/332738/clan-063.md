@@ -1,0 +1,4 @@
+# Član 63
+Investitori objekata u etažnoj svojini i investitori poslovnih zgrada su dužni da plaćaju isporučenu vodu za stambenu ili poslovnu zgradu do dobijanja upotrebne dozvole za te objekte, a nakon dobijanja dozvole isporučenu vodu plaćaju vlasnici posebnih djelova stambenih zgrada ili poslovnih prostorija.
+Korisnici-investitori novih stambenih i poslovnih zgrada su obavezni da nakon dobijanja upotrebne dozvole za objekat dostave vršiocu primjerak svakog zaključenog ugovora o kupoprodaji posebnog dijela stambene zgrade ili poslovnog prostora, u cilju unošenja vlasnika u evidenciju korisnika.
+Ukoliko korisnik-investitor kojeg vršilac vodi u evidenciji korisnika blagovremeno ne dostavi važeću ispravu kojom dokazuje promjenu iz stava 2 ovog člana obavezan je da izmiri cijenu za pruženu uslugu do momenta njenog dostavljanja.

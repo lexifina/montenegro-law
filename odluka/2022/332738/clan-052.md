@@ -1,0 +1,23 @@
+# Član 52
+Vršilac će privremeno uskratiti korisniku isporuku vode ako:
+- vodu koristi nenamjenski, preko dozvoljenog obima, u slučaju poremećaja u obavljanju djelatnosti javnog vodosnabdijevanja;
+- neosnovano ometa druge korisnike;
+- postupa suprotno propisanim uslovima;
+- ne plaća isporuku vode po ispostavljenom računu;
+- kada otkaže trošenje vode;
+- kada se bespravno priključi na vodovodnu mrežu;
+- neovlašćeno priključi na vodovodnu mrežu vodu sa drugog izvorišta;
+- kada nastane veći kvar ili kada nastanu smetnje na kućnoj instalaciji;
+- po upozorenju vršioca ne dovede unutrašnje instalacije u ispravno stanje u ostavljenom roku;
+- kad se na vodovodnom priključku pojavi električni napon;
+- ugradi crpni uređaj ili hidrofor na unutrašnjim vodovodnim instalacijama suprotno uslovima i saglasnosti koju je propisao vršilac;
+- neovlašćeno izmjesti registrovani vodomjer iz postojećeg skloništa;
+- vodomjer okrene suprotno od smjera za mjerenje protoka vode;
+- kada se ne pridržava dobijenih uputstava vršioca o štednji vode;
+- ne postupi po upozorenjima vršioca o otklanjanju nepravilnosti u odnosu na ime korisnika, namjenu objekta, kontrolu i sl.;
+- ne obavijesti vršioca o prenamjeni stambenog u poslovni prostor;
+- bez saglasnosti vršioca na svoju unutrašnju instalaciju priključi objekat drugog fizičkog i pravnog lica ili preduzetnika;
+- kad korisnik onemogući iz bilo kojih razloga očitavanje vodomjera duže od dva mjeseca;
+- kada korisnik preduzima bilo kakve štetne radnje na vodovodnom priključku;
+- prestankom potrebe za korišćenje privremenog priključka za potrebe gradilišta, ili istekom roka za koji je podnešena prijava za postavljanje privremenog objekta, kao i u slučaju kada stvaranjem uslova za trajno priključenje objekta na javni vodovodni sistem, ne odjavi privremeni vodovodni priključak; i
+- po nalogu inspekcijskih službi.
