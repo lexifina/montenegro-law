@@ -1,0 +1,2 @@
+# Član 32
+U zonama usporenog saobraćaja i pješačkim zonama iz člana 23 I 26 ove odluke, organ lokalne uprave nadležan za poslove saobraćaja može odobriti kretanje teretnih vozila za snadbijevanje trgovinskih i ugostiteljskih objekata, kao i za potrebe izgradnje, rekonstrukcije, adaptacije i opremanja objekata, najveće dozvoljena masa do 3,5t u vremenu od 06-08h i od 17-19h, izuzev u Njegoševoj ulici i Dvorskom trgu gdje se snabdijevanje poslovnih prostora može vršiti svakog dana od 06-08h, brzinom kretanja pješaka, a najviše 10km/h.

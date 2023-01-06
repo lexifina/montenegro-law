@@ -1,0 +1,5 @@
+# Član 15
+Zabranjeno je zauzimanje i korišćenje trotoara i drugih saobraćajnih površina namijenjenih kretanju pješaka za zaustavljanje i parkiranje vozila i u druge svrhe.
+Izuzetno, površine iz stava 1 ovog člana mogu se zauzeti i privremeno koristiti za vrijeme održavanja manifestacija, festivalskih povorki, izložbi, za privremeno postavljanje izložbenih polica za prodaju, čestitki, cvijeća, slika, časopisa, i drugih štampanih publikacija, osvježavajućih napitaka, sladoleda, kestenja, kokica i sl, po prethodno pribavljenom odobrenju organa lokalne uprave pod uslovom da se time ne smanjuje preglednost puta i da je za nesmetan prolaz pješaka ostavljena površina širine 1,60 metara.
+U zahtjevu za izdavanje odobrenja podnosilac je obavezan da dostavi dimenzije površine koju zauzima, vremenski period, namjenu i potvrdu od organa uprave nadležnog za poslove uređenja prostora, da je tražena lokacija u skladu sa Elaboratom privremenih objekata.
+Potvrda o saglasnosti lokacije sa Elaboratom privremenih objekata ne odnosi se na održavanje manifestacija, festivalskih povorki i izložbi.
