@@ -1,0 +1,2 @@
+# Član 15
+Gradonačelnik Prijestonice može, u izuzetnim i hitnim slučajevima, donijeti odluku o sufinansiranju sportskih događaja i obezbjeđivanju podrške sportistima i sportskim organizacijama iz dijela rezerve za sport bez predloga organa lokalne samouprave nadležnog za oblast sporta, kada procijeni da je to od posebnog značaja za Prijestonicu Cetinje ili državu Crnu Goru, kao i u slučaju drugih neplaniranih i nepredviđenih događaja i okolnosti.
