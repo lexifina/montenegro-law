@@ -1,0 +1,3 @@
+# Član 1
+## O prodaji zemljišta-katastarskih parcela broj: 672/9 i 672/10 KO Kolašin radi dokompletiranja urbanističke parcele broj 15 u zahvatu Detaljnog Urbanističkog Plana ‘’Centar’’
+Opština Kolašin prodaje ‘’Erlang’’ d.o.o. iz Podgorice,neposrednom pogodbom, zemljište označeno kao katastarska parcela broj 672/9,površine 257 m2,po kulturi neplodno zemljište ,upisana u listu nepokretnosti broj 1362 KO Kolašin i katastarska parcela broj 672/10,površine 2 m2,po kulturi neplodno zemljište ,upisana u listu nepokretnosti broj 1362 KO Kolašin, na kojima Opština Kolašin ima pravo raspolaganja,a sve radi dokompletiranja urbanističke parcele broj 15, zona C, podzona C2,u zahvatu Detaljnog Urbanističkog Plana ‘’Centar’’.
