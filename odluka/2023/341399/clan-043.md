@@ -1,0 +1,6 @@
+# Član 43
+Zaštita korisnika usluga javnog vodosnabdijevanja, obezbjeđuje se u skladu sa Zakonom kojim se uređuje zaštita potrošača.
+Prigovor na obračun za usluge iz predhodnog mjeseca može se izjaviti Društvu pisanim putem najkasnije u roku od 15 dana od dana dostavljanja računa.
+Društvo je dužno, da po prigovoru odluči najkasnije u roku od 8 dana od dana prijema prigovora i o tome pismeno obavjesi podnosioca zahtjeva.
+Pored ostalog, prigovor Društvu na račun može se podnijeti u odnosu na to da li račun sadrži sve podatke koji omogućavaju provjeru obračuna pruženih usluga, odnosno da li je pružena usluga obračunata u skladu sa navedenim podacima.
+U slučaju kada korisnik usluga javnog vodosnabdijevanja nije zadovoljan ishodom po prigovoru koji je podnio Društvu u skladu sa zakonom kojim se uređuje zaštita prava potrošača, odnosno u slučaju kada se Društvo ne izjasni po prigovoru u roku od osam dana od dana podnošenja prigovora, korisnik može organu lokalne uprave nadležnom za vršenje upravnog nadzora nad radom Društva podnijeti prigovor u skladu sa zakonom kojim se uređuje upravni postupak, u roku od 15 dana od dana dostavljanja akta kojim je Društvo odlučilo o prigovoru korisnika, odnosno 15 dana od isteka roka za postupanje Društva po prigovoru.

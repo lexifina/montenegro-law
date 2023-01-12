@@ -1,0 +1,2 @@
+# Član 41
+Ukoliko se krivicom korisnika usluga, ne može izvršiti očitavanje stanja na vodomjeru, korisniku usluga će se ostaviti pisana obavjest sa kontaktom ovlaćšenog lica Društva sa ciljem dogovora naknadnog očitavanja. Ako nakon toge ne bude omogućeno očitavanje stanja vodomjera, potrošnja vode će se privremeno obračunavati paušalno u skladu odredbom iz člana 40 stav 2, do sticanja uslova za očitavanje stanja vodomjera.

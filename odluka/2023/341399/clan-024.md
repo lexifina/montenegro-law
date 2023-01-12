@@ -1,0 +1,3 @@
+# Član 24
+Društvo je dužno da u najmanje jednom štampanom ili elektronskom mediju, koji je dostupan građanima na području Opštine Kotor, a obavezno na internet stranici Društva, obavijesti korisnike o planiranim ili očekivanim smetnjama i prekidima koji mogu nastati u pružanju usluge javnog vodosnabdijevanja najkasnije 24 sata prije očekivanog prekida isporuke vode za piće.
+U slučaju smanjenja dotoka ili nestašice vode na izvorištima u sušnim periodima godine Društvo je dužno da odmah, a najkasnije u roku od 24 časa, donese Plan restrikcije isporuke vode za predmetna područja, uz saglasnost organa lokalne uprave nadležnog za komunalne poslove i o tome putem sredstava javnog informisanja, štampanim obavještenjima i na internet stranici Društva obavijesti korisnike.

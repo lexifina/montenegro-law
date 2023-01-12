@@ -1,0 +1,5 @@
+# Član 3
+Korisnik usluga komunalne djelatnosti javnog vodosnabdijevanja i upravljanja komunalnim otpadnim vodama u smislu ove odluke je fizičko i pravno lice koje koristi komunalne usluge, odnosno komunalne proizvode na teritoriji opštine Kotor.
+Komunalne djelatnosti usluge javnog vodosnabdijevanja,javnog odvođenja komunalnih otpadnih voda, upravljanje atmosferskim vodama na teritoriji opštine Kotor vrši DOO »Vodovod i kanalizacija Kotor« Kotor (u daljem tekstu: Društvo).
+Komunalne djelatnosti prečišćavanje komunalnih otpadnih voda, tretman i zbrinjavanje kanalizacionog mulja sa teritorije opštine Kotor i opštine Tivat, kao i održavanje zajedničkog dijela kanalizacionog sistema Kotor - Trašte, vrši Društvo sa ograničenom odgovornošću za odvodjenje i prečišćavanje otpadnih voda za opštine Kotor i Tivat (u daljem tekstu: PPOV).
+Međusobna prava i obaveze sa Društvom iz stava 2 i 3 ovog člana, uređuju se Ugovorom o povjeravanju obavljanja komunalnih djelatnosti, korišćenja i upravljanja komunalnom infrastrukturom u svojini Opštine.

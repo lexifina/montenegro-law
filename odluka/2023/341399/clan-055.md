@@ -1,0 +1,6 @@
+# Član 55
+Društvo je dužno da obezbijedi stalno odvođenje otpadnih voda iz svih objekata koji su priključeni na javni kanalizacioni sistem.
+Društvo ne odgovara za smetanje, štetu ili nemogućnost odvođenja otpadnih voda u slučaju više sile i drugih razloga koje Društvo nije moglo da predvidi ili spriječi.
+Neovlašćenim licima je zabranjeno izvoditi bilo kakve intervencije na javnom kanalizacionom sistemu bez pisane saglasnosti Društva, odnosno potpisanog ugovora o održavanju sistema, kao što je otvaranje poklopaca šahtova, silazak u šahtove, oštećivanje šahta, pražnjenje sadržaja septičkih jama u šaht i sl.
+U javni kanalizacioni sistem zabranjeno je ubacivati bilo kakav materijal, kao što je smeće, šut ili drugi građevinski materijal, ostatke hrane, ulja i masti, otpad iz klanica i sl. Naročito je zabranjeno sipanje bilo kakvih hemijski agresivnih materija (kaustična soda, kisjeline i slično) u cilju otklanjanja začepljenja bilo javnog kanalizacionog sistema ili unutrašnjih instalacija u objektu.
+Društvo ne odgovara za smetnje ili štetu u slučaju kad treća lica ugroze, oštete ili zatrpaju objekte javne kanalizacije tako da se u tom slučaju ne može blagovremeno intervenisati na otklanjanju nastalih kvarova.

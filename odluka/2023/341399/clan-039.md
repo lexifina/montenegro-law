@@ -1,0 +1,5 @@
+# Član 39
+Kod objekata u etažnoj svojini, ukoliko postoji glavni vodomjer, kao i interni (posebni) vodomjeri za sve posebne djelove stambene zgrade, obračun količine isporučene vode vrši se očitavanjem glavnog i internih (posebnih) vodomjera.
+Ukoliko postoji razlika između očitane količine potrošene vode sa glavnog vodomjera i zbira količina potrošene vode sa internih (posebnih) vodomjera tj.zajednička potrošnja se raspoređuje ravnomjerno na posebne dijelove zgrade.
+Kod objekata u etažnoj svojini, za koje postoji glavni vodomjer, a posebni djelovi stambene zgrade nemaju vodomjere, količina isporučene vode obračunava se na osnovu očitavanja stanja glavnog vodomjera a očitana količina se raspoređuje prema broju članova domaćinstva korisnika posebnog dijela zgrade, prema evidenciji Skupštine stanara etažnih vlasnika.
+Ukoliko u objektu postoji hidrantska mreža, a na kojoj se očita eventualna potrošnja na vodomjeru za protivpožarnu vodu, a nije korišćena za gašenje požara, ista će predstavljati zajedničku potrošnju.

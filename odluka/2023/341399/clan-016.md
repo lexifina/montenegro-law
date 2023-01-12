@@ -1,0 +1,4 @@
+# Član 16
+Svi izvedeni priključni vodovi prije vodomjera, gledano u smjeru tečenja vode i vodomjeri na tim priključcima, postaju dio sistema za javno vodosnabdijevanje i prenose se na upravljanje i redovno održavanje Društva, osim u slučajevima kada se vodomjeri nalaze unutar objekta.
+Ukoliko se vodomjeri nalaze unutar objekta, a ne postoji glavni vodomjer, obaveza Društva je održavanje priključnog voda do ventila ispred objekta, a za slučaj da navedeni ventil nije ugrađen onda do zida objekta, kao i redovno održavanje vodomjera i ventila ispred, iza i unutar objekta.
+Kod objekata sa više stambenih, odnosno poslovnih jedinica, kod kojih je na granici parcele ugrađen glavni vodomjer, a unutar objekta interni vodomjeri, obaveza Društva je održavanje priključnog voda, kao i redovno održavanje glavnog i internih vodomjera sa pripadajućim ventilima.
