@@ -1,0 +1,4 @@
+# Član 4
+Poslove upravljanja i održavanja pijacama obavlja DOO"Komunalno Kotor"Kotor (u daljem tekstu: Društvo), koje je registrovano za obavljanje komunalne djelatnosti.
+Upravljanje i održavanje, na mješovitoj gradskoj pijaci ispod zidina Starog grada, mješovitoj pijaci u Risnu povjereni su Društvu, Ugovorom o povjeravanju o obavljanju komunalnih djelatnosti, korišćenja i upravljanja komunalnom infrastrukturom i drugim sredstvima u svojini Opštine Kotor.
+Međusobna prava i obaveze sa Društvom iz stava 2 ovog člana, uređuju se Ugovorom o povjeravanju o obavljanju komunalnih djelatnosti, korišćenja i upravljanja komunalnom infrastrukturom i drugim sredstvima u svojini Opštine Kotor koji u ime Opštine Kotor zaključuje Predsjednik Opštine Kotor, na koji saglasnost daje Skupština Opštine Kotor.
