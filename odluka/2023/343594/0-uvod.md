@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 42b Zakona o turističkim organizacijama ("Službeni list Republike Crne Gore", br. 11/04 i 46/07 i "Službeni list Crne Gore", br. 73/10, 40/11, 45/14, 42/17 i 27/19) i člana 34 stav 1 tač. 2 i 8 Statuta opštine Herceg Novi ("Službeni list Crne Gore - Opštinski propisi", br. 1/19, 37/19, 6/20 i 18/22), uz prethodnu saglasnost Vlade Crne Gore broj 04-3397/3 od 15. jula 2021.godine, Skupština opštine Herceg Novi, na sjednici održanoj 27.12.2022. godine, donijela je
+O D L U K U
+o uvođenju izletničke takse na teritoriji Opštine Herceg Novi za turistički lokalitet
