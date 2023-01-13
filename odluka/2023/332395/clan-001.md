@@ -1,0 +1,5 @@
+# Član 1
+## o izmjenama i dopunama Odluke o kriterijumima, načinu i postupku raspodjele sredstava za podršku ženskom preduzetništvu u Opštini Nikšić
+U Odluci o kriterijumima, načinu i postupku raspodjele sredstava za podršku ženskom preduzetništvu u opštini Nikšić ("Službeni list CG - Opštinski propisi", broj 46/20), u članu 3 stav 2 mijenja se i glasi: "Sredstva za podsticanje osnivanja i razvoj poslovanja dodjeljuju se društvima/preduzetnicama sa prebivalištem, odnosno sjedištem na teritoriji Opštine Nikšić, za djelatnosti koje se osnivaju i registruju u skladu sa zakonom koji uređuje poslovanje privrednih subjekata".
+U istom članu poslije stava 2 dodaje se novi stav koji glasi: "Pravo na dodjelu sredstva iz stava 1 ovog člana mogu ostvariti nezaposlene žene5 i žene koje posluju najduže dvije godine prije objavljivanja javnog konkursa, koje žele da pokrenu ili unaprijede sopstveni biznis, a koje nijesu ostvarile pravo na neki vid finansijske podrške iz budžeta Opštine ili budžeta Države, u godini u kojoj se vrši raspodjela i godini koja joj prethodi".
+Dosadašnji stav 3 postaje stav 4.
