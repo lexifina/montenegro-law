@@ -1,0 +1,10 @@
+# Član 6
+## Ocjenjivanje usaglašenosti
+Ocjenjivanje usaglašenosti mašina za pranje posuđa sa tehničkim zahtjevima eko dizajna vrši se u skladu sa propisom kojim se uređuje način utvrđivanja usaglašenosti proizvoda sa tehničkim zahtjevima za eko dizajn proizvoda koji utiču na potrošnju energije.
+Radi ocjenjivanja usaglašenosti iz stava 1 ovog člana, tehnička dokumentacija treba da sadrži deklarisane vrijednosti parametara navedene u Prilogu 1 tač. 3 do 6 i rezultate proračuna u skladu sa Prilogom 2.
+Ako su podaci koji se nalaze u tehničkoj dokumentaciji mašina za pranje posuđa u domaćinstvu, uzeti od modela koji ima iste tehničke karakteristike (relevantne za tehničke informacije koje treba obezbijediti), ali ga je proizveo drugi proizvođač, ili su dobijeni proračunom na osnovu dizajna ili ekstrapolacijom podataka drugih ekvivalentnih uređaja ili su dobijeni proračunom na osnovu dizajna i/ili ekstrapolacijom podataka, tehnička dokumentacija treba da sadrži detalje o takvim proračunima ili i o ispitivanjima, koja su proizvođači sproveli radi provjere tačnosti sprovedenih proračuna i, prema potrebi, izjavu o identičnosti modela različitih proizvođača.
+U slučaju iz stava 3 ovog člana, tehnička dokumentacija treba da sadrži i popis svih drugih ekvivalentnih modela za koje su podaci koji se nalaze u tehničkoj dokumentaciji dobijeni na isti način.
+Tehnička dokumentacija iz stava 2 ovog člana, treba da sadrži informacije prema redosljedu utvrđenim propisom kojim se uređuje označavanje energetske efikasnosti mašina za pranje posuđa.
+Страна 26 - Број 2
+СЛУЖБЕНИ ЛИСТ ЦРНЕ ГОРЕ
+5. јануар 2023.
