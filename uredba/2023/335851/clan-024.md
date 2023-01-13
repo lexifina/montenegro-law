@@ -1,0 +1,10 @@
+# Član 24
+## Usklađivanje cijena ljekova
+Cijena prvog generičkog lijeka za koji je podnijet zahtjev iz člana 11 stav 1 ove uredbe, u okviru istog INN, istog ili srodnog farmaceutskog oblika i iste jačine kao originalni lijek, može da iznosi najviše do 70% cijene originalnog lijeka koji se nalazi na Listi ljekova.
+Cijena biološki sličnog lijeka ne može prelaziti vrijednost od 80% cijene originalnog biološkog lijeka.
+Cijena drugog, trećeg i četvrtog narednog generičkog lijeka, uključujući i naredni biološki sličan lijek, za koji je podnijet zahtjev iz člana 11 stav 1 ove uredbe za stavljanje na osnovnu listu ljekova u okviru istog INN, istog ili srodnog farmaceutskog oblika i iste jačine kao lijek koji se već nalazi na osnovnoj listi ljekova, može da iznosi najviše do 90% cijene lijeka istog INN-a sa Liste ljekova.
+Cijena svakog sljedećeg generičkog, odnosno svakog sljedećeg biološki sličnog lijeka u okviru istog INN, istog ili srodnog farmaceutskog oblika i iste jačine ostaje na nivou četvrtog narednog generičkog, odnosno četvrtog narednog biološki sličnog lijeka sa Liste ljekova.
+U slučaju stavljanja narednog generičkog, odnosno biološki sličnog lijeka na Listu ljekova pod uslovima iz st. 1, 2 i 3 ovog člana, cijene postojećih generičkih, originalnih i biološki sličnih ljekova usklađuju se sa najnižom cijenom generičkog ili biološki sličnog lijeka.
+Redosljed stavljanja lijeka na Listu ljekova iz st. 1, 2, 3 i 4 ovog člana određuje se prema datumu podnošenja zahtjeva.
+Cijena lijeka koji se nalazi na doplatnoj listi ljekova može da bude veća do 48% u odnosu na cijenu lijeka koji se nalazi na osnovnoj listi ljekova u okviru istog INN-a, istog ili srodnog farmaceutskog oblika i iste jačine.
+Izuzetno od stava 7 ovog člana, cijena lijeka koji se nalazi na doplatnoj listi ljekova može da bude veća do 5 eura u odnosu na cijenu lijeka koji se nalazi na osnovnoj listi ljekova u okviru istog INN-a, istog ili srodnog farmaceutskog oblika i iste jačine, a čija cijena nije veća od 10 eura.
