@@ -1,0 +1,7 @@
+# Član 43
+Član 55b mijenja se i glasi:
+"Nosilac žiga može od lica koje mu je neovlašćenim vršenjem neke od radnji iz čl. 10 i 11 ovog zakona prouzrokovalo štetu, tužbom da zahtijeva naknadu štete u skladu sa zakonom kojim se uređuju obligacioni odnosi.
+Protiv lica koje je bez osnova u pravnom poslu ili u zakonu preduzimanjem neke od radnji iz čl. 10 i 11 ovog zakona povrijedilo žig i time steklo neku korist, nosilac žiga može, bez obzira na krivicu tuženog, tužbom da zahtijeva vraćanje ili naknadu vrijednosti ostvarenih koristi prema opštim pravilima o sticanju bez osnova u skladu sa zakonom kojim se uređuju obligacioni odnosi.
+Tužbeni zahtjevi iz st. 1 i 2 ovog člana međusobno se ne isključuju i mogu se podnijeti u rokovima koji su određeni zakonom kojim se uređuju obligacioni odnosi.
+Prilikom određivanja visine naknade štete sud će uzeti u obzir sve okolnosti, kao što su negativne ekonomske posljedice, i to: izmakla korist i stečena korist koju je ostvarilo lice koje je izvršilo povredu kao i nematerijalnu štetu koja je nosiocu žiga nanesena neovlašćenim preduzimanjem radnji iz čl. 10 i 11 ovog zakona kojima se povređuje žig.
+Umjesto određivanja visine naknade štete u skladu sa stavom 4 ovog člana sud može, kada to smatra primjerenim, odrediti naknadu štete protiv lica koje je izvršilo povredu u visini iznosa naknade koja bi se u tim okolnostima mogla zahtijevati da je lice koje je izvršilo povredu zatražio odobrenje za korišćenje žiga."
