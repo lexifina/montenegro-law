@@ -1,0 +1,2 @@
+# Član 4
+U članu 88 stav 1 riječi: "odnosno sredstva za zaštitu bilja, kao i za bilo koju primjenu tog proizvoda kao lijeka za ljude ili životinje, odnosno kao sredstva za zaštitu bilja, za koji" zamjenjuju se riječima: "odnosno sredstva za zaštitu bilja (u daljem tekstu: dozvola), kao i za bilo koju primjenu tog proizvoda kao lijeka za ljude ili životinje, odnosno kao sredstva za zaštitu bilja, za koju".
