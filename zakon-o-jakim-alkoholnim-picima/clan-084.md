@@ -1,0 +1,3 @@
+# Član 84
+## Označavanje proizvoda jakih alkoholnih pića registrovanim geografskim oznakama
+Jako alkoholno piće koje je proizvedeno ili prerađeno u skladu sa odgovarajućom proizvođačkom specifikacijom označava se oznakom „ZAŠTIĆENA GEOGRAFSKA OZNAKA" („ZGO"), sa grafičkim prikazom. Proizvođači jakih alkoholnih pića koji proizvode ili prerađuju jaka alkoholna pića u skladu sa proizvođačkom specifikacijom i koji su upisani u evidenciju nosilaca rješenja mogu na deklaraciji ili na reklamnoj ili drugoj dokumentaciji koristiti zaštićenu geografsku oznaku. Oznaka iz stava 1 ovog člana je grafički prikaz registrovane geografske oznake jakog alkoholnog pića. Izgled, dimenzije, sadržaj i grafički prikaz geografske oznake iz stava 1 ovog člana propisuje Ministarstvo.

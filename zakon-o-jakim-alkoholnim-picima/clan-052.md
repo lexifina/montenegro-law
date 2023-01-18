@@ -1,0 +1,3 @@
+# Član 52
+## Zaslađivanje
+Prilikom proizvodnje jakih alkoholnih pića mogu se koristiti zaslađivači: polubijeli šećer, bijeli šećer, ekstra bijeli šećer, dekstroza, fruktoza, glukozni sirup, šećerni rastvor, invertni šećerni rastvor, invertni šećerni sirup, rektifikovana koncentrovana šira, koncentrovana i svježa šira od grožđa, karamelizovani šećer koji je isključivo dobijen kontrolisanim zagrijavanjem saharoze bez dodatka baza, mineralne kiseline ili drugi hemijski dodaci, med, sirup rogača, druge prirodne ugljenohidratne materije koje imaju isto dejstvo kao proizvodi za zaslađivanje u proizvodnji jakih alkoholnih pića.
