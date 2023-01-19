@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za ustanovljanje prava službenosti radi postavljanja dva 10 Kv kablovskih voda od TS 10/0,4 Kv 2x1000 kVA "Pinješ 2" do TS 10/0,4 Kv 1x630 Kva "Pinješ 4" KO Ulcinj
+Daje se saglasnost za ustanovljenje službenosti sa naknadom na kat.parc.br. 3461/1 u površini od 1 m2, odnosno dužini kabla od 1,32 m sa L.N.br.607 KO Ulcinj, svojina CG pravo raspolaganje Opština Ulcinj, po kulturi šuma 1 klase, kat.parc.br.7246/6 u površini 7 m2, šuma 4 klase, odnosno dužini kabla od 10,66 m sa L.N.br.607 KO Ulcinj, svojina CG pravo raspolaganje Opština Ulcinj, po kulturi šuma 1 klase
