@@ -1,0 +1,2 @@
+Na osnovu člana 38 st. 1 tač. 2 Zakona o lokalnoj samoupravi ("Službeni list - opštinski propisi", br.012/18, 034/19, 038/20, 050/22 i 084/22), člana 32 Porodičnog zakona ("Sl. list RCG", broj 01/07 i Služeni list Crne Gore, br. 53/16 i 76/20), a u vezi člana 16 Zakona o životnom partnerstvu lica istog pola ("Službeni list Crne Gore", br. 67/20) Skupština Opštine Zeta, na III sjednici održanoj dana 30.12. 2022. godine, donijela je-
+ODLUKU
