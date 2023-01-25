@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 1 tačka 18 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 30 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", br. 3/19 i 86/22), člana 37 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore", br. 20/14, 56/14, 70/17, 4/18, 55/18, 66/19, 70/21 i 145/21) i člana 72 stav 1 alineja 18 Statuta Opštine Andrijevica ("Službeni list Crne Gore - opštinski propisi", br. 32/18) predsjednik Opštine Andrijevica donosi
+ODLUKU
