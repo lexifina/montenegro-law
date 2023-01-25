@@ -1,0 +1,2 @@
+Na osnovu člana 30 Zakona o finansiranju lokalne samouprave ("Sl. list CG" br. 3/2019 i 86/2022), člana 37 Zakona o budžetu i fiskalnoj odgovornosti ("Sl. list CG" br. 20/2014, 56/2014, 70/2017, 4/2018 - Odluka Ustavnog suda CG, 55/2018 i 66/2019 i 70/2021), člana 59 stav 1 Zakona o lokalnoj samoupravi ("Sl. list CG" br. 2/2018, 34/2019, 38/2020, 50/2022, 84/2022 Odluka US 85/2022) i člana 91 stav 1 Statuta Opštine Pljevlja ("Sl. list CG - opštinski propisi" br. 46/2018), predsjednik Opštine Pljevlja donosi
+ODLUKU
