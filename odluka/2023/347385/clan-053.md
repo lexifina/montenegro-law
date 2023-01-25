@@ -1,0 +1,5 @@
+# Član 53
+Raspoređivanje lokalnih službenika, namještenika i zaposlenih koji imaju status neraspoređenih u organima i službama lokalne uprave izvršiće se u roku od 30 dana od dana davanja saglasnosti na akt o unutrašnjoj organizaciji i sistematizaciji iz člana 47. ove Odluke.
+Lokalni službenici i namještenici raspoređeni u organima uprave i službama na poslovima koji su ukinuti u skladu sa ovom odlukom, nastavljaju da obavljaju iste poslove do regulisanja njihovog statusa u organu ili službi, shodno odredbama ove odluke u odnosu na nadležnosti i organizaciju.
+Starješine organa ili službi čiji su organi ili službe ukinuti ovom odlukom, imaju status neraspoređenih shodno odredbama zakona kojim se uređuje sistem lokalne samouprave.
+Lokalni službenici, namještenici i zaposleni koji imaju status neraspoređenih u organima i službama lokalne uprave ili službi koji ne budu raspoređeni u skladu sa stavom 1. ovog člana, ostvaruju prava propisana zakonom kojim je uređen sistem lokalne samouprave.

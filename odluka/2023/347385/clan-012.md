@@ -1,0 +1,47 @@
+# Član 12
+Direkcija za investicije i imovinsko pravne poslove vrši poslove koji se odnose na:
+1. obezbjeđivanje uslova za uređivanje, korišćenje, unaprjeđivanje i zaštitu građevinskog zemljišta i praćenje i sprovođenje zakona i propisa donesenih na osnovu zakona u oblasti državne imovine, premjera i katastra, obligacionih, svojinsko-pravnih odnosa, stambenoj oblasti, i drugih propisa koji su u vezi sa ostvarivanjem funkcije organa; iniciranje njihovih izmjena i dopuna i izjašnjavanje na nacrte i predloge zakona i drugih propisa u oblastima iz djelokruga organa;
+2. učešće u pripremanju srednjeročnog i jednogodisnjeg programa izgradnje, uređivanja, korišćenja i zaštite prostora, kao i pripremu i sprovođenje propisa opštine u oblastima za koje je organ obrazovan (utvrđivanje građevinskog zemljišta koje će biti predmet raspolaganja u narednoj godini; raspolaganje državnom imovinom nad kojom svojinska ovlašćenja vrši opština; davanje u zakup poslovnog prostora opštine, davanje na korišćenje objekata u svojini opštine koji nisu povjereni na upravljanje i korišćenje organima uprave i službama lokalne uprave ili javnim službama; korišćenje službenih zgrada i prostorija, reprezentativnih objekata, stanova za službene potrebe i drugi propisi iz djelokruga organa);
+3. izjašnjavanje o inicijativama za ocjenu zakonitosti propisa opštine iz djelokruga organa;
+4. izradu i realizaciju programa rada direkcije i drugih programskih i planskih akata iz djelokruga organa;
+5. davanje pravnih mišljenja o imovinsko-pravnim pitanjima i rješavanje po inicijativama građana iz djelokruga organa;
+6. pripremu predloga akata za predsjednika opštine kojima odlučuje o raspolaganju imovinom neposrednom pogodbom, rasporedu i korišćenju službenih prostorija organa i službi opštine u skladu sa zakonom i statutom opštine;
+7. pokretanje postupka upisa imovine opštine u katastar nepokretnosti, sprovođenje postupka eksproprijacije, parcelacije, razgraničenja i dr., postupka prodaje i davanja u zakup nepokretnih stvari i drugih dobara kojima raspolaže opština;
+8. pripremu predloga ugovora o prodaji, razmjeni, zakupu zemljišta i objekata (stanova, poslovnih prostora i sl.), i zaključivanje tih ugovora kada je posebno ovlašćena;
+9. pribavljanje procjene vrijednosti nepokretnih stvari u imovini opštine;
+10. zaštitu imovine opštine pred sudovima i drugim organima u skladu sa zakonom;
+11. popis i vođenje jedinstvene evidencije nepokretne i pokretne imovine Opštine, u skladu sa zakonom;
+12. pripremu građevinskog zemljišta za izgradnju i rekonstrukciju svih vrsta objekata i komunalno opremanje građevinskog zemljista (putevi-ulice u naselju, uključujući pješačke prolaze, trgove i javna parkirališta, objekte javne rasvjete; zelene površine u naselju; parkove - pješačke staze, travnjake, terene dječijih igrališta, javnih gradskih objekata; komunalne objekte i instalacije do priključka na urbanističku parcelu i dr.);
+13. vršenje pravnih, finansijskih, tehničko-administrativnih i drugih stručnih poslova za realizaciju programa i praćenje njihove realizacije;
+14. usklađivanje programa uređivanja građevinskog zemljišta sa planovima razvoja pojedinih djelatnosti;
+15. poslove tekućeg i investicionog održavanja objekata u kojima su smješteni organi uprave, mjesne kancelarije i mjesne zajednice;
+16. preduzimanje mjera zaštite spomenika kulture i zaštite objekata prirode koji bi mogli biti ugroženi radovima na pripremi zemljišta;
+17. rušenje postojećih objekata i uređaja i uklanjanje materijala, kao i premještanje postojećih podzemnih i nadzemnih instalacija;
+18. izgradnju, rekonstrukciju, održavanje, zaštitu, korišćenje i upravljanje putevima u zahvatu područja posebne namjene;
+19. praćenje radova na izgradnji, rekonstrukciji, redovnom i investicionom održavanju puteva od lokalnog značaja; pripremanje finansijske dokumentacije i praćenje utroška finansijskih sredstava; organizovanje stručne kontrole kvaliteta izvedenih radova; pokretanje postupka za rješavanje imovinsko pravnih poslova, dostavljanje prijave za građenje, prijem i predaju na upotrebu izgrađenih puteva;
+20. praćenje i kontrola realizacije kapitalnih investicija; izrada periodičnih i konačnih izvještaja o realizaciji investicija uz praćenje utroška finansijskih sredstava i dostava istih Službi predsjednika opštine; vođenje evidencija o investicijama;
+21. investiciono održavanje upravnih zgrada opštine i službenih prostorija organa uprave, službi i mjesnih zajednica;
+22. vođenje poslova na realizaciji investicija opštine kada one nijesu posebnim aktom prenijete nekom drugom pravnom subjektu u nadležnost;
+23. objedinjavanje i uspostavljanje baze podataka o investicijama od opštinskog značaja (bez obzira ko ih realizuje) i sačinjavanje informativnih materijala u ovoj oblasti;
+24. saradnju sa menadžerom u pripremi predloga projekata iz nadležnosti organa koji se finansiraju iz međunarodnih fondova, i praćenje njihove realizacije;
+25. pripremanje stručnih mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa u ovoj oblasti;
+26. izradu i reviziju tehničke dokumentacije, organizaciju, koordinaciju, građenje, odnosno stručni nadzor nad izgradnjom objekata od interesa za opštinu i tehnički prijem, rekonstrukciju i održavanje tih objekata;
+27. praćenje i primjenu propisa iz oblasti javnih nabavki i drugih oblasti koje su u vezi sa ostvarivanjem funkcija organa;
+28. izjašnjavanje na nacrte i predloge zakona i planskih akata u okviru djelokruga organa;
+29. izradu i sprovođenje programa rada organa javnih nabavki i drugih programskih i planskih akata iz svog djelokruga;
+30. sprovođenje lokalnog strateškog plana, plana integriteta i drugih planova i programa opštine u okviru svog djelokruga;
+31. praćenje i sprovođenje državnih planskih akata u okviru nadležnosti direkcije;
+32. pripremu plana javnih nabavki i drugih programskih i planskih akata iz djelokruga direkcije;
+33. pripremu dokumentacije, sprovođenje postupka javnih nabavki u skladu sa zakonom i podzakonskim aktima i izradu nacrta akata iz ove oblasti i objavljivanje akata na portalu javnih nabavki u skladu sa zakonom;
+34. praćenje realizacije ugovora o javnim nabavkama;
+35. saradnju sa nadležnim organima i službama za koje se vrši nabavka do okončanja postupka i saradnju sa organima državne uprave u oblasti sistema javnih nabavki;
+36. zastupanje pred sudovima u parničnom, vanparničnom i izvršnom postupku iz oblasti radno-pravnih odnosa;
+37. sprovođenje upravnog postupka za slobodan pristup informacijama i drugih upravnih postupaka u skladu sa zakonom;
+38. rješavanje po inicijativama građana iz djelokruga direkcije;
+39. vođenje propisanih evidencija iz oblasti javnih nabavki, kao i drugih evidencija u skladu sa zakonom i propisima opštine;
+40. vođenje evidencije dokaza o riješenim imovinsko-pravnim pitanjima na zemljištu na kome je podignut bespravni objekat i drugih evidencija propisanih zakonom i odlukama opštine u oblastima iz nadležnosti organa;
+41. pripremu i izradu izvještaja o radu i drugih informativnih i stručnih materijala za skupštinu, predsjednika opštine, organe državne uprave, medije i sl. iz svog djelokruga;
+42. pripremu godišnjeg i drugih izvještaja za glavnog administratora o rješavanju upravnih stvari iz svoje nadležnosti, realizaciji plana integriteta i drugih izvještaja;
+43. popis i evidenciju nepokretnih i pokretnih stvari kojima raspolaže opština a koje direkcija koristi za ostvarivanje svoje funkcije (službene zgrade i poslovne prostorije, izuzev onih koje koristi više organa uprave, oprema, prevozna sredstva i sl.), u skladu sa zakonom kojim se uređuje državna imovina;
+44. izradu uputstava i procedura za poslovne procese iz nadležnosti direkcije;
+45. druge poslove iz svog djelokruga, u skladu sa zakonom i drugim propisima.
