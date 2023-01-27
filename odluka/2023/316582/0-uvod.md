@@ -1,0 +1,2 @@
+Na osnovu člana 9 stav 6 Zakona o finansiranju političkih subjekata i izbornih kampanja ("Službeni list CG", br. 03/20, i 38/20), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19, 38/20, 50/22 i 84/22) člana 58 stav 1 tačka 2 Statuta opštine Ulcinj ("Službeni list CG - opštinski propisi", broj 48/19), Skupština opštine Ulcinj, na sjednici održanoj dana 21.12.2022. godine, donijela je
+O D L U K U O ODREĐIVANJU MJESEČNE NAKNADE ZA ZAKUP PROSTORIJA ZA RAD ODBORNIČKIH KLUBOVA
