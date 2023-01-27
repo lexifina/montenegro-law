@@ -1,0 +1,3 @@
+# Član 1
+## o prodaji nepokretnosti neposrednom pogodbom
+Odobrava se prodaja nepokretnosti - dijela katastarske parcele br.6/52/1 iz posjedovnog lista broj 102 KO Grnčar, u dijelu površine koja je predmet prodaje od 260 m2, novi broj kat.parcele 6/52/2, svojina Države Crne Gore, subjekat raspolaganja Opština Gusinje - radi prenosa zemljišta na kojem je izgrađen objekat bez građevinske dozvole, a koji je uklopljen u planski dokument (legalizacija objekta), neposrednom pogodbom Dervišević (Amir) Zaimu iz Gusinja a sve shodno geodetskom elaboratu izvršioca ,,Geo Friends" d.o.o Podgorica broj: 565.
