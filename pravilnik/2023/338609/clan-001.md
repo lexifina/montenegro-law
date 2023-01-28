@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuju se postupak sprovođenja i sadržina internog oglasa na osnovu kojeg se popunjavaju radna mjesta rukovodilaca unutrašnjih organizacionih jedinica (načelnika odsjeka, centara i odjeljenja bezbjednosti, kao i komandanata jedinica) organizacione jedinice organa državne uprave nadležnog za unutrašnje poslove koja vrši policijske poslove (u daljem tekstu: Policija), način ispravke i povlačenja internog oglasa, bliži način sprovođenja provjere znanja, sposobnosti, kompetencija i vještina kandidata koji ispunjavaju uslove internog oglasa, kao i bliži kriterijumi i način ocjenjivanja provjere znanja, sposobnosti, kompetencija i vještina kandidata.
