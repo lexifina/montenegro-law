@@ -1,0 +1,4 @@
+# Član 2
+(1) Pravno ili fizičko lice odnosno preduzetnik koji proizvodi i prerađuje hranu dužan je da na tržište stavlja hranu koja ne prelazi maksimalno dozvoljene količine kokcidiostatika i histomonostatika u hrani date u Prilogu 1 koji čini sastavni dio ove uredbe.
+(2) Za hranu koja je osušena, razrijeđena, prerađena ili se sastoji od različitih sastojka prilikom utvrđivanja maksimalno dozvoljenih količina kokcidiostatika i histomonostatika u hrani iz Priloga 1, uzimaju se u obzir promjene koje nastaju u koncentraciji tih supstanci zbog sušenja, razređivanja ili prerađivanja, kao i proporcije sastojaka u određenom proizvodu.
+(3) Lica iz stava 1 ovog člana hranu koja prelazi maksimalno dozvoljene količine kokcidiostatika i histomonostatika iz Priloga 1 ne smiju da koriste kao sastojak i za mješanje sa drugom hranom.
