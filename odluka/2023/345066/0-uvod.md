@@ -1,0 +1,2 @@
+Na osnovu člana 25 Zakona o turističkim organizacijama ("Sl.list RCG", br. 11/04 i 46/07 i "Sl.list CG", br. 45/14, 42/17 i 27/19), člana 12 Odluke o osnivanju Turističke organizacije Žabljak ("Sl.list RCG-opštinski propisi", br. 16/05 i "Sl.list CG- Оpštinski propisi", br. 33/09, 47/18, 24/20) i člana 32 Statuta opštine Žabljak ("Sl.list CG-opštinski propisi", br. 27/18) Skupština opštine Žabljak, na sjednici održanoj dana 02.02.2023.godine, donijela je
+O D L U K U
