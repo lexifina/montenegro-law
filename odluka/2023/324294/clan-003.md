@@ -1,0 +1,9 @@
+# Član 3
+U "IZVJEŠTAJNOM ZAHTJEVU 1", koji je objavljen uz Odluku o statističkim podacima i informacijama koje kreditne institucije dostavljaju Centralnoj banci Crne Gore ("Službeni list CG", broj 81/22), poslije kolone 1.4. dodaje se nova kolona koja glasi:
+"1.5. Rezultat tekućeg prerioda", sa oznakom "OB" za sve bilansne stavke.
+U dijelu: "AKTIVA", u koloni 2.1, za instrument "A0200 - Gotovina", u kolonama "2.3. Međunarodna institucija" i "2.4. Sektorska pripadnost", oznaka "OB" briše se.
+U "IZVJEŠTAJNOM ZAHTJEVU 2", koji je objavljen uz Odluku o statističkim podacima i informacijama koje kreditne institucije dostavljaju Centralnoj banci Crne Gore ("Službeni list CG", broj 81/22), u koloni 2.1, za instrument "A0200 - Gotovina", popunjavanje iznosa za vrste iznosa 1, 4, 6, 13 i 14 u kolonama "2.3. Međunarodna institucija" i "2.4. Sektorska pripadnost" nije obavezno.
+Za instrument "Krediti", za vrste iznosa 2 i 3, popunjavanje kolone "2.9. Grejs period" je obavezno.
+Za instrument "A0740 - Preuzeta imovina" dodaje se nova vrsta iznosa "4", sa nazivom: "iznos ispravki vrijednosti potraživanja kod bilansnih stavki ili trošak sticanja sopstvenih akcija", čije je popunjavanje obavezno u kolonama 2.2, 2.3, 2.4. i 2.5.
+Za instrument "A0829 - Ograničene stavke" dodaje se nova vrsta iznosa "4", sa nazivom: "iznos ispravki vrijednosti potraživanja kod bilansnih stavki ili trošak sticanja sopstvenih akcija", čije je popunjavanje obavezno u kolonama 2.2 i 2.5.
+Za instrument "P0725 - Obaveze za nabavku nefinansijske imovine" dodaju se vrste iznosa: "2", sa nazivom: "bruto ukupna potraživanja (obaveze) po osnovu obračunatih nedospjelih kamata ili izglasane dividende", i "17", sa nazivom: "vremenska razgraničenja naknada", čije je popunjavanje obavezno u kolonama 2.2, 2.3, 2.4. i 2.5.
