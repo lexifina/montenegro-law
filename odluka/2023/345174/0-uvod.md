@@ -1,0 +1,3 @@
+Na osnovu člana 58 stav 1 tačke 1 i 2, člana 59 stav 2 Zаkоnа о lоkаlnој sаmоuprаvi ("Službeni list Crne Gore", br. 2/18, 38/20, 34/19, 50/22 i 84/22), člana 36 stav 1 tačka 2 Statuta Opštine Mojkovac (,,Službeni list Crne Gore - Opštinski propisi", broj 29/18 i 37/22), člana 33 stav 2 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09 i 40/11), zahtjeva Vlade Crne Gore - Uprava za saobraćaj broj 02-11450/1 od 29. 11. 2022. godine i dopune zahtjeva Vlade Crne Gore - Uprava za saobraćaj broj 02-11450/2 od 16. 12. 2022. godine, Skupština opštine Mojkovac, na sjednici održanoj dana 6. februara 2023. godine, donijela je
+ODLUKU
+o potvrđivanju Odluke predsjednika Opštine o davanju saglasnosti za korišćenje zemljišta radi rekonstrukcije magistralnog
