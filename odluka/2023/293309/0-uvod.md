@@ -1,0 +1,3 @@
+Na osnovu člana 26, stav 1 i 2 i člana 29 stav 2, tačka 7. Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16, 74/16, 2/18, 66/19 i 40/19), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18,34/19,38/20, 50/22 i 84/22), člana 58 stav 1 tačka 2 Statuta Opštine Ulcinj ("Sl. list Crne Gore - Opštinski propisi", broj 48/19), člana 10.stav 1. alineja 6. Odluke o osnivanju d.o.o Komunalne dijelatnosti (Sl.list CG br 18/17, 48/18 I 4/22) Skupština opštine Ulcinj, na sjednici održanoj dana 28.12.2022.godine, donijela je
+O D L U K U
+o davanju saglasnosti na Godišnjeg Programa obavljanja komunalnih djelatnosti DOO
