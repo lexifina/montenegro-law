@@ -1,0 +1,1 @@
+Na osnovu člana 27 Zakona o lokalnoj samoupravi ( "Sl. list CG", br. 2/18, 34/19, 38/20,50/22, 84/22 ), člana 62 Statuta Opštine Ulcinj ("Sl. list opštinski propisi",br.48/19) i člana 25 Odluke o obrazovanju radnih tijela skupštine ("Sl. list - opštinski propisi", br.01/21) Skupština opštine Ulcinj na sjednici održanoj dana 28.12.2022. godine, donijela je:
