@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 a u vezi sa članom 27 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Sl. list CG" broj 2/18, 34/19, 38/20, 50/22 i 84/22), članom 14 Zakona o komunalnim djelatnostima ("Sl. list CG" broj 55/16, 74/16, 02/18 i 66/19) i člana 58, stav 1. tačka 2. Statuta opštine Ulcinj ("Sl. list CG - opštinski propisi", br 48/19), Skupština opštine Ulcinj na sjednici održanoj 28.12.2022. godine, donijela je
+O D L U K U O IZMJENAMA I DOPUNAMA ODLUKE O KOMUNALNOM REDU
