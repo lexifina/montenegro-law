@@ -1,0 +1,2 @@
+Članom 8 Zakona o regionalnom razvoju (''Službeni list CG’’ br. 20/2011, 26/2011, 20/2015 i 47/2019), člana 38 stav 1 tacka 3 Zakona o lokalnoj samoupravi (,,Službeni list CG", br.2/18 34/19 i 38/20 ) člana 58 stav 1 tacka 3 Statuta opštine Ulcinj (,,Službeni list CG - Opstinski propisi". br. 48/19), uz saglasnost Ministarstva ekonomije broj 002-323/21-1148/2 od 29 decembra 2021. godine, Skupština opstine Ulcinj, na sjednici odrzanoj dana 28.12.2022 godine, donijela je
+ODLUKU
