@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 i člana 34 stav 1 i 3 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18, 034/19, 038/20, 050/22 i 084/22) i člana 37 stav 1 tačka 9 Statuta Opštine Kolašin ("Službeni list Crne Gore - Оpštinski propisi", br. 024/19’’), po prethodno dobijenoj saglasnosti Vlade Crne Gore broj 07-8192/2 od dana 12.01.2023.godine, Skupština Opštine Kolašin, na sjednici održanoj dana 30.01.2023. godine, donijela je -
+ODLUKU
