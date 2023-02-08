@@ -1,0 +1,3 @@
+# Član 1
+## za 2023.godinu
+Daje se saglasnost na Program rada i finansijski plan d.o.o."Parking servis" Ulcinj za 2023 godinu, broj 886/12-1 od 25.11.2022.godine.
