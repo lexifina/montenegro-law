@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 1 Zakona o izboru odbornika i poslanika"Sl. list RCG", br. 16/2000 - prečišćeni tekst, 9/2001, 41/2002, 46/2002, 45/2004 - odluka US, 48/2006, 56/2006 - odluka US i "Sl. list CG", br. 46/2011, 14/2014, 47/2014 - odluka US, 12/2016 - odluka US, 60/2017 - odluka US i 10/2018 - odluka US) Opštinska izborna komisija Petnjica, na sjednici održanoj dana 13.02.2023. godine, donosi
+P O S L O V N I K
