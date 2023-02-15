@@ -1,0 +1,2 @@
+# Član 2
+Odredbe ovog ugovora primjenjuju se na zaposlene u ministarstvima, organima uprave, službama Predsjednika Crne Gore, Skupštine Crne Gore, Vlade i Ustavnog suda Crne Gore, sudovima, Državnom tužilaštvu, Sudskom savjetu, Tužilačkom savjetu, organima lokalne samouprave, organima i službama lokalne uprave, fondovima, zavodima, agencijama, komisijama, javnim ustanovama i institucijama čiji je osnivač država ili lokalna samouprava, a na koje se neposredno ne primjenjuju odredbe drugog granskog kolektivnog ugovora.

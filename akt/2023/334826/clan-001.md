@@ -1,0 +1,2 @@
+# Član 1
+Granskim kolektivnim ugovorom za oblast uprave i pravosuđa (u daljem tekstu: Ugovor), Reprezentativni Sindikat uprave i pravosuđa Crne Gore (u daljem tekstu: Sindikat) i Vlada Crne Gore (u daljem tekstu: Vlada) uređuju, u skladu sa zakonom i Opštim kolektivnim ugovorom, prava i obaveze iz radnog odnosa, prava i obaveze poslodavca iz člana 2 ovog ugovora prema zaposlenom, međusobna prava i obaveze ugovornih strana, kao i druga pitanja od značaja za zaposlenog i poslodavca.
