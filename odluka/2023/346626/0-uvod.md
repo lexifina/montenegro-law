@@ -1,0 +1,4 @@
+Na osnovu člana 34 stav 3 Zakona o zaštiti prirode ("Službeni list CG", broj 54/16 i 18/19), člana 38 stav 1 Zakona o lokalnoj samoupravi ("Sl. list CG", br.2/18, 34/19, 38/20, 50/22 i 84/22) i člana 43 Statuta Opštine Bar ("Sl.list CG - Opštinski propisi", broj 37/18), Skupština Opštine Bar po prethodno pribavljenoj saglasnosti Ministarstva ekologije, prostornog planiranja i urbanizma br 05-9281/5-2022 od 27.01.2023 godine, i po prethodno pribavljenom mišljenju Ministarstva poljoprivrede, šumarstva i vodopri-vrede br 04-332/22- 15649/2 od 02.12.2022 godine i Ministarstva kulture i medija br. 01-082/22-780/4 od 09.12.2022 godine, na sjednici od 31.01.2023. godine, donijela je
+ODLUKU
+O PROGLAŠAVANJU KATEGORIJE, GRANICA, STATUSA I REŽIMA ZAŠTITE
+U SPOMENIKU PRIRODE "PARK MUZEJA NA TOPOLICI U BARU"
