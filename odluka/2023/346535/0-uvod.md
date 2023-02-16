@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Službeni list CG", broj 25/19, 26/22), člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 02/18, 34/19, 038/20, 050/22 i 084/22)) i člana 37 stav 1 tačka 2 i 8 Statuta Opštine Kolašin ("Službeni list CG-Opštinskipropisi", broj24/19), Skupština opštine Kolašin, na sjednici održanoj 30.01.2023.godine, donijela je
+O D L U K U
