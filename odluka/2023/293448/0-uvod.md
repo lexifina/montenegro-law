@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Sl.list CG", br. 25/19, 49/22 i 152/22), člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22) a u vezi člana 7 stav 1 tačka 1 Zakona o finansiranju lokalne samouprave ("Sl. list CG", br. 3/19 i 86/22), člana 36 stav 1 tačka 11 Statuta opštine Mojkovac ("Sl. list CG"- Opštinski propisi, br. 29/18 i 37/22), Skupština opštine Mojkovac, na sjednici održanoj dana 6. februara 2023. godine, donijela je
+ODLUKU
