@@ -1,0 +1,2 @@
+Na osnovu člana 61 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 77 Statuta Opštine Tivat (" Službeni list CG - opštinski propisi", br. 24/18, 09/20), i člana 141 Poslovnika o radu Skupštine opštine Tivat ("Službeni list CG-Opštinski propisi", br. 37/18, 07/21) Skupština Opštine Tivat, na sjednici održanoj dana 23.02.2023. godine, konstatovala je ostavku predsjednika OpštineTivat Željka Komnenovića i donijela:
+ODLUKU
