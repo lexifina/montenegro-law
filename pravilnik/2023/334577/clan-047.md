@@ -1,0 +1,5 @@
+# Član 47
+## Potvrđivanje baze podataka
+Ako organ uprave, po izvršenom upravnom i stručnom nadzoru, utvrdi da je katastarski operat izrađen u skladu sa postojećim propisima taj organ treba da donese rješenje o potvrđivanju baze podataka katastra nepokretnosti.
+Rješenje iz stava 1 ovog člana objavljuje se u "Službenom listu Crne Gore" i određuje početak njegove primjene.
+Dokumentacija sa izlaganja, koja sadrži katastarske planove (radni originali), zbirku isprava, prepise zapisnika o granicama katastarskih opština, originalne podatke snimanja detalja i računanje površina, detaljne skice ili foto skice, podatke o zgradama i posebnim djelovima zgrada, prepis koordinata, podatke o referentnoj mreži koja je korištena, predaje se organizacionoj jedinici organa uprave na čijoj teritoriji se vršila izrada katastra nepokretnosti, a kopija baze podataka predaje se organizaconoj jedinici organa uprave koja vrši poslove geodetsko-katastarskog informacionog sistema i organizacionoj jedinici organa uprave koja vrši poslove arhive.
