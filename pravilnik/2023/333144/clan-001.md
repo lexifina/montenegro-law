@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuju se sadržina, način objavljivanja, ispravke i povlačenja javnog poziva za policijske službenike koji ispunjavaju uslove za sticanje neposredno višeg policijskog zvanja iz člana 143 Zakona o unutrašnjim poslovima, koji se objavljuje radi sprovođenja postupka napredovanja u više policijsko zvanje (u daljem tekstu: javni poziv), kriterijumi za ocjenjivanje, izdavanje potvrde kandidatima koji su uspješno prošli provjeru znanja, sposobnosti, kompetencija i vještina i sastav i način rada komisije koja vrši provjeru znanja, sposobnosti, kompetencija i vještina kandidata koji ispunjavaju uslove javnog poziva (u daljem tekstu: Komisija), kao i druga pitanja od značaja za postupak napredovanja u neposredno više policijsko zvanje.
