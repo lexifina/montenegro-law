@@ -1,0 +1,2 @@
+Na osnovu člana 146 stav 1 tačka 8 Zakona o planiranju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 64/17, 44/18, 63/18, 11/19, 82/20, 86/22), člana 28 stav 1 tačka 13 Statuta Inženjerske komore Crne Gore ("Službeni list Crne Gore", br. 022/18 i 076/21), Upravni odbor Inženjerske komore Crne Gore je usvojio
+PRAVILNIK O IZMJENI PRAVILNIKA O VISINI ČLANARINE U INŽENJERSKOJ KOMORI CRNE GORE
