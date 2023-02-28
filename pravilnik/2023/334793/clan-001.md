@@ -1,0 +1,4 @@
+# Član 1
+U Pravilniku o načinu pripreme, obuke i opremanja jedinica, odnosno pripadnika Vojske Crne Gore za upotrebu u međunarodnim snagama ("Službeni list CG", broj 55/20) u članu 4 stav 1 mijenja se i glasi:
+"Zdravstvene pripreme iz člana 3 stav 2 alineja 1 ovog pravilnika koje vrši ovlašćena zdravstvena ustanova obuhvataju sistematske preglede, stomatološku pripremu, imunološku pripremu, izdavanje odgovarajućih zdravstvenih potvrda o spremnosti pripadnika Vojske za učešće u međunarodnim snagama, izdavanje odgovarajućih sanitetskih sredstava, kao i pripremu u vezi sa endemskim oboljenjima i zdravstvenim izazovima geografskih područja u koja se pripadnici Vojske upućuju. "
+U stavu 2 poslije riječi "upućuju" zarez se zamjenjuje tačkom, a riječi: "uz prethodno odobrenje Ministarstva odbrane." brišu se.
