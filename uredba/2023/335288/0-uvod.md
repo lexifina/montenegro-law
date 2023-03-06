@@ -1,0 +1,3 @@
+Na osnovu člana 6 Zakona o poljoprivredi i ruralnom razvoju ("Službeni list CG", br. 56/09, 34/14, 1/15, 30/17 i 59/21), člana 35 Zakona o morskom ribarstvu i marikulturi ("Službeni list CG", br. 56/09 i 47/15) i čl. 12 i 20 Zakona o Budžetu Crne Gore za 2023. godinu ("Službeni list CG", broj 152/22), Vlada Crne Gore, na sjednici od 24. februara 2023. godine, donijela je
+UREDBU O USLOVIMA, NAČINU I DINAMICI SPROVOĐENjA MJERA AGRARNE POLITIKE
+ZA 2023. GODINU - AGROBUDŽET
