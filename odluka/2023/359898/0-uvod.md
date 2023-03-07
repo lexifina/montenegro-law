@@ -1,0 +1,2 @@
+Na osnovu člana 24 i 25 Zakona o izboru odbornika i poslanika ("Službeni list Republike Crne Gore", br. 004/98, 005/98, 017/98, 014/00, 018/00, "Službeni list Savezne Republike Jugoslavije", br. 073/00, 009/01, 041/02, 046/02, 045/04, 048/06, 056/06, "Službeni list Crne Gore", br. 046/11, 014/14, 047/14, 012/16, 060/17, 010/18, i 109/20), Skupština Opštine Zeta, na sjednici IV održanoj dana 07.03.2023. godine, donijela je -
+ODLUKU
