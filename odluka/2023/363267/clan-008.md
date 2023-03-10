@@ -1,0 +1,3 @@
+# Član 8
+Član 61 stav 3 Odluke o organizaciji i načinu rada lokalne uprave Opštine Bijelo Polje, mijenja se i glasi: " Danom stupanja na snagu ove Odluke poslovi Direkcije za izgradnju i investicije Opštine prelaze u nadležnost Sekretarijata za izgradnju".
+Član 61 stav 4 Odluke o organizaciji i načinu rada lokalne uprave Opštine Bijelo Polje, mijenja se i glasi: "Poslove iz stave 3 ovog člana , u djelokrugu propisanom ovom Odlukom, zaposlene na tim poslovima, predmete u radu i opremu preuzima Sekretarijat za izgradnju, u roku od 7 dana od dana imenovanja vršioca dužnosti sekretara Sekretarijata za izgradnju".
