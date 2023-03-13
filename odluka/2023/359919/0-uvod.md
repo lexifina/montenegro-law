@@ -1,0 +1,4 @@
+Na osnovu člana 38 stav 1 tačka 29 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22, 84/22), člana 22 stav 2 i člana 23 stav 1 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list Crne Gore", broj 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18, 34/19, 130/21, 146/21, 92/22, 152/22), člana 73 stav 1 tačka 32 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", br. 49/18, 09/19 i 17/21), uz prethodnu saglasnost Ministarstva finansija, broj 04-110/23-100/8/1 od 23.02.2023. godine, Skupština Prijestonice, na sjednici održanoj dana, 27.02.2023. godine, donijela je:
+ODLUKU
+o izmjenama Odluke o zaradama i drugim primanjima lokalnih službenika i
+namještenika ("Službeni list Crne Gore- Opštinski propisi" br.27/16, 8/17, 41/17, 36/18 I
