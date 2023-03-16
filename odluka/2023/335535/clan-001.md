@@ -1,0 +1,2 @@
+# Član 1
+Radi sprovođenja plana kvaliteta vazduha za Sjevernu zonu kvaliteta vazduha Crne Gore (opštine: Andrijevica, Berane, Bijelo Polje, Gusinje, Kolašin, Mojkovac, Petnjica, Plav, Pljevlja, Plužine, Rožaje, Šavnik i Žabljak) i davanja preporuka za unaprjeđenje mjera koje doprinose smanjenju zagađenja vazduha i negativnh uticaja na zdravlje ljudi i životnu sredinu obrazuje se Operativni tim za sprovođenje mjera za smanjenje zagađenja (u daljem tekstu: Operativni tim).
