@@ -1,0 +1,2 @@
+# Član 11
+Zadnja unutrašnja strana korice putnog lista za stranca sadrži tekst: "Putni list za stranca sadrži 34 strane" i tekst: "Ovaj putni list za stranca važi samo za povratak u Crnu Goru ili odlazak iz Crne Gore". U zadnjem planu unutrašnje strane korice putnog lista za stranca nalazi se ornament sa Grbom Crne Gore i stilizovana teritorija Crne Gore, a u donjem dijelu je zaštitni štampani motiv - dio sa ćemera, ispod kojeg je laserski utisnut serijski broj putnog lista za stranca (Obrazac 7).

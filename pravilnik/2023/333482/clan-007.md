@@ -1,0 +1,2 @@
+# Član 7
+Na prednjoj unutrašnjoj strani korice putnog lista za stranca, u zadnjem planu, nalazi se stilizovana karta Evrope na kojoj je bijelom bojom označena teritorija Crne Gore, a u prednjem planu nalaze se naziv: "Crna Gora", stilizovana površina Crne Gore unutar koje je zastava Crne Gore, oznaka "MNE", zaštitni element u obliku stilizovanog ćemera (ukrasni kaiš ženske crnogorske narodne nošnje), a u lijevom dijelu, na sredini, dijagonalno utisnut broj putnog lista za stranca (Obrazac 2).
