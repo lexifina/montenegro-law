@@ -1,0 +1,3 @@
+Na osnovu člana 34 stav 3, a vezano za član 35 Zakona o zaštiti prirode ("Sl list CG", broj 54/16 i 18/19), člana 35 Statuta Opštine Tivat ("Sl.list CG - Opštinski propisi", broj 24/18 i 09/20), po prethodno pribavljenoj saglasnosti Ministarstva ekologije, prostornog planiranja i urbanizma broj 05-6307/5 od 14.12.2022. godine, i po prethodno pribavljenom mišljenju Ministarstva poljoprivrede, šumarstva i vodoprivrede broj 06-332/21-5065/6 od 28.06.2022. godine i Ministarstva prosvjete, nauke, kulture i sporta broj 01-011/21-11984/4 od 02.02.2022. godine, Skupština Opštine Tivat na sjednici održanoj 03.03.2023. godine donosi
+ODLUKU
+o proglašavanju kategorije, granica, statusa i režima zaštite u spomeniku prirode "Plaža Pržna"
