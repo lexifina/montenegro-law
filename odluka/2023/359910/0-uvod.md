@@ -1,0 +1,2 @@
+Na osnovu člana 55 stav 5 Zakona o komunalnim djelatnostima ("Sl. list CG" broj 55/16, 2/18), člana 38 stav 1 tačka 30 Zakona o lokalnoj samoupravi ("Sl. list CG" broj 2/18) i člana 36 stav 1 tačka 40 Statuta Opštine Herceg Novi ("Sl. list RCG - Opštinski propisi", broj 15/04, 32/05, 31/06, 14/07,"Sl. list CG o.p" broj 16/09 i 16/11 i "Sl. list CG", br. 60/17), Skupština opštine Herceg Novi, na sjednici održanoj dana 01.03.2023. godine, donijela je
+ODLUKU
