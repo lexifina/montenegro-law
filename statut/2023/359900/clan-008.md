@@ -1,0 +1,6 @@
+# Član 8
+Opština, njeni organi i organi lokalne uprave imaju pečat.
+Pečat Opštine je okruglog oblika, prečnika 32 mm i sadrži naziv: Crna Gora, Opština Zeta i Anovi.
+U sredini pečata je grb Opštine, ukoliko je utvrđen.
+Pečat organa Opštine i organa lokalne uprave pored elemenata iz stava 2 ovog člana sadrži i naziv organa.
+Skupština opštine posebnom odlukom uređuje izradu, upotrebu, čuvanje i uništavanje pečata i druga pitanja koja se odnose na upotrebu pečata.
