@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom propisuje se održavanje javnih groblja i objekata koji se nalaze u okviru groblja (kapele i mrtvačnice), upravljanje grobljem, održavanje reda i čistoće na groblju, davanje grobnih mjesta u zakup, sahranjivanje, prenos i prevoz posmrtnih ostataka, čuvanje posmrtnih ostataka, upotreba kapele, stavljanje groblja van upotrebe i druga pitanja u vezi sa grobljima i načinom sahranjivanja na području Prijestonice Cetinje (u daljem tekstu: Prijestonica).

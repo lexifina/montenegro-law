@@ -1,0 +1,3 @@
+# Član 48
+Visinu naknade za održavanje grobnog mjesta, sahranjivanje, ekshumaciju posmrtnih ostataka i visinu naknade za ostale grobne usluge utvrđuje cjenovnikom vršilac komunalne djelatnosti na način i po postupku utvrđenom posebnim zakonom kojim se uređuje obavljanje komunalnih djelatnosti i zaštita potrošača, kao i podzakonskim aktom kojim se uređuju bliži elementi i metodologija za određivanje cijene komunalne usluge.
+Naknada za održavanje grobnog mjesta se utvrđuje na godišnjem nivou, a naplaćuje se u skladu sa ugovorom zaključenim između vršioca komunalne djelatnosti i korisnika usluge, koji se zaključuje prilikom zakupa grobnog mjesta.

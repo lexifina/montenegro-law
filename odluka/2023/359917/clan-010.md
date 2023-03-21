@@ -1,0 +1,4 @@
+# Član 10
+Poslove upravljanja javnim grobljima, njihovog održavanja, i druge poslove pogrebne djelatnosti, u skladu sa Zakonom o komunalnim djelatnostima, obavlja privredno društvo ili preduzetnik koji su registrovani u CRPS za obavljanje te komunalne djelatnosti, a kome su od strane Skupštine Prijestonice ti poslovi povjereni posebnom odlukom (u daljem tekstu: vršilac komunalne djelatnosti) u skladu sa Pravilnikom o minimumu kvaliteta i obima poslova za obavljanje komunalnih djelatnosti (u daljem tekstu: Pravilnik), ovom odlukom i godišnjim programom obavljanja komunalnih djelatnosti.
+Poslove upravljanja seoskim grobljima i njihovog održavanja vrši mjesna zajednica na čijoj se teritoriji groblje nalazi.
+Mjesna zajednica može formirati odbor koji će se starati o održavanju groblja i načinu sahranjivanja umrlih u skladu sa mjesnim običajima.

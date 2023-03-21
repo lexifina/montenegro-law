@@ -1,0 +1,3 @@
+# Član 3
+Grobljem, u smislu ove odluke, smatra se zemljište koje je planskim dokumentom namijenjeno za sahranjivanje, kao i objekti koji su izgrađeni na tom zemljištu i služe za čuvanje posmrtnih ostataka umrlog, do sahranjivanja i ispraćaja posmrtnih ostataka, i drugi objekti neophodni za sahranjivanje umrlih, uređivanje i korišćenje groblja.
+Groblje se gradi u skladu sa planskim dokumentom i projektom koji sadrži definisane uslove za izgradnju groblja i pratećih objekata, komunalne infrastrukture, sa parcelama i grobnim mjestima, koje moraju biti obilježene i posebno označene brojevima i/ili slovima.
