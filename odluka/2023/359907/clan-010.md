@@ -1,0 +1,3 @@
+# Član 10
+Prilikom zamjene krovnog pokrivača za kose krovove dozvoljeno je korišćenje kupa kanalica, mediteran crijep, kamene ploče, a prilikom zamjene oluka horizontalne od betona ili kamene sa uklesanim žlijebom na kamenim konzolama, odnosno limene, a za vertikalne oluke koristiti lim.
+Za zgrade na području zona kulturno-istorijskih cjelina kao i kod pojedinačnih kulturnih dobara dozvoljava se kanalica i falcovani crijep (francuzica), a prilikom zamjene horizontalnih oluka limeni oluci u sistemu kotala ili kameni oluci na kamenim konzolama, dok su vertikalni oluci limeni ili skriveni, odnosno postavljaju se shodno izdatim konzervatorskim uslovima.
