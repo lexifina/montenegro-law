@@ -1,0 +1,46 @@
+# Član 2
+Član 14 Odluke, mijenja se i glasi:
+"Sekretarijat za društvene djelatnosti obavlja poslove lokalne uprave koji se odnose na:
+- obezbjeđenje i stvaranje uslova za razvoj kulture i zaštitu kulturne baštine, umjetničko stvaralaštvo, ostvarivanje svih vidova saradnje u oblasti kulture;
+- zaštitu spomenika kulture, vođenje registra, čuvanje, zaštitu i održavanje spomenika i spomen obilježja;
+- izradu programa podizanja spomen obilježja;
+- praćenje stanja u oblasti obrazovanja, staranje o dostavljanju podataka o djeci dorasloj za upis u osnovnu školu, upravne i druge poslove koji se odnose na usmjeravanje djece sa posebnim obrazovnim potrebama u obrazovne programe u skladu sa zakonskim i podzakonskim propisima, učestvovanje u podsticanju i vrednovanju daljeg školovanja talentovane i nadarene djece;
+- stvaranje uslova za razvoj i unapređenje sporta djece, omladine i građana, podsticanje sportskih aktivnosti lica sa invaliditetom i podsticanje vaspitno-obrazovnog i stručnog rada u sportu;
+- razvoj i unapređenje sporta i fizičke kulture;
+- učestvovanje u obezbjeđivanju uslova za sportsko-rekreativne aktivnosti djece, omladine, odraslih i lica sa invaliditetom, kao i druge aktivnosti koju su u funkciji unapređenja zdravlja i psihofizičkih sposobnosti građana;
+- organizaciju opštinskih, međuopštinskih i međunarodnih sportskih takmičenja i dodjela sportskih nagrada;
+- sportskih organizacija, vrhunskih i perspektivnih sportista, stručnih kadrova u sportu i sportskih objekata;
+- obezbjeđivanje uslova i unapređenje djelatnosti zdravstvene zaštite, socijalne i dječije zaštite, primjenu propisa i drugih akata iz oblasti socijalne i dječije zaštite, staranje o ostvarivanju njihovih prava iz ove oblasti;
+- vođenje postupka za rješavanje stambenih pitanja lica u stanju socijalne potrebe,
+- vođenje postupka za ostvarivanje prava na jednokratne novčane pomoći;
+- praćenje i učestvovanje u obezbjeđivanju uslova za ostvarivanje i unapređenje primarne zdravstvene zaštite iniciranjem, predlaganjem i planiranjem mjera u ovoj oblasti, a koje su od neposrednog interesa za lokalno stanovništvo;
+- rješavanje o priznavanju prava iz oblasti boračko-invalidske zaštite i zaštite civilnih invalida rata, evidenciju o broju korisnika i vrsti tih prava;
+- poslove koji se odnose na prevenciju bolesti zavisnosti i poslove politike za mlade iz nadležnosti Sekretarijata;
+- vođenje postupka za ostvarivanje prava na poklon za novorođenčad;
+- sprovođenje postupka raspodjele sredstava nevladinim i sportskim organizacijama; - poslove u vezi slobodnog pristupa informacijama iz djelokruga rada ovog Sekretarijata;
+- pripremanje i dostavljanje informacija radi objavljivanja u medijima, web sajtu Opštine i na društvenim mrežama;
+- pripremu godišnjeg i drugih izvještaja za glavnog administratora o rješavanju upravnih stvari iz svoje nadležnosti;
+- ostvarivanje saradnje sa NVO povodom pitanja iz svoje nadležnosti;
+- upravni nadzor i poslove ostvarivanja prava u javnim službama koje obavljaju djelatnosti iz djelokruga rada ovog Sekretarijata, čiji je osnivač Opština;
+- davanje mišljenja i saglasnosti na program rada, izvještaj o radu i izvještaj o finansijskom poslovanju javnih službi koje obavljaju djelatnosti iz djelokruga rada ovog Sekretarijata;
+- pripremu nacrta i predloga akata koje donosi Skupština i predsjednik Opštine iz djelokruga rada Sekretarijata;
+- pripremu informativnih i drugih stručnih materijala za Skupštinu i predsjednika Opštine;
+- davanje mišljenja na nacrt i prijedlog izmjene zakona i drugih propisa iz nadležnosti Sekretarijata koji se dostavljaju na izjašnjavanje Opštini;
+- pripremu putnih naloga i izvještaja za službena putovanja službenika Sekretarijata;
+- pripremu predloga Kadrovskog plana koji se odnosi na zaposlene u Sekretarijatu i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- pripremu predloga Plana korišćenja godišnjih odmora za zaposlene u Sekretarijatu i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- izradu predloga Pravilnika o unutrašnjoj organizaciji i sistematizaciji Sekretarijata;
+- odlučivanje o izboru, raspoređivanju i drugim poslovima iz oblasti zasnivanja i prestanka radnog odnosa službenika i namještenika u Sekretarijatu;
+- donošenje rješenja o zaradi službenika i namještenika ovog Sekretarijata;
+- odlučivanje o pokretanju internog i javnog oglasa radi popune radnih mjesta, uz prethodnu saglasnost predsjednika Opštine;
+- ocijenjivanje rada i rezultata rada službenika i namještenika u Sekretarijatu;
+- planiranje i odlučivanje o stručnom osposobljavanju i usavršavanju službenika i namještenika, kao i posebnom stručnom usavršavanju i ugovaranju u vezi sa istim, u toku radnog odnosa zaposlenog;
+- nadzor i kontrolu rada službenika i namještenika u Sekretarijatu, pokretanje disciplinskog postupka, donošenje odluke o disciplinskoj mjeri za lakšu povredu službene dužnosti, kao i vršenje drugih disciplinskih ovlašćenja predviđenih zakonom;
+- nadzor i kontrolu pravilnog korišćenja imovine i sredstava za rad u skladu sa zakonom i posebnim opštinskim propisima;
+- obezbjeđenje učešća javnosti u donošenju akata od zajedničkog interesa i u ostalim aktima i aktivnostima u skladu sa zakonskim i opštinskim propisima;
+- vođenje evidencije podataka o zbirki ličnih podataka i vrši zaštitu istih;
+- poslove na realizaciji usvojenih akcionih planova i strategija razvoja;
+- pripremu i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština i predsjednik Opštine;
+- poslove pribavljanja i obrade podataka po službenoj dužnosti iz službenih evidencija i registara koje vodi Sekretarijat, odnosno drugi nadležni organ u skladu sa zakonom, za potrebe odlučivanja po zahtjevu stranke;
+- saradnju sa državnim organima i drugim pravnim licima u okviru djelokruga svog rada; - sprovođenje upravnih postupaka i vršenje upravnih radnji iz djelokruga rada Sekretarijata;
+- druge poslove iz svog djelokruga u skladu sa zakonom i drugim propisima i odlukama predsjednika Opštine."

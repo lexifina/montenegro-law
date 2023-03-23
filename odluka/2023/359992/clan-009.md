@@ -1,0 +1,42 @@
+# Član 9
+Član 21 Odluke mijenja se i glasi:
+"Uprava lokalnih javnih prihoda obavlja poslove lokalne uprave koji se odnose na:
+- praćenje i sprovođenje zakona i propisa donesenih na osnovu zakona u oblasti: poreza, prireza, taksi, naknada i drugih lokalnih javnih prihoda, poreske administracije, inspekcijskog nadzora i drugih propisa od značaja za ostvarivanje funkcija organa;
+- izjašnjavanje na nacrte i predloge zakona, drugih propisa i planskih dokumenata u ovim oblastima;
+- učešće u pripremi i sprovođenje propisa u oblasti poreza, prireza i drugih lokalnih javnih prihoda;
+- izradu i sprovođenje programa rada Uprave i drugih programa i planova iz djelokruga rada organa;
+- praćenje i sprovođenje državnih planskih akata u okviru djelokruga rada organa;
+- pripremanje oblika i sadržaja poreske prijave i vođenje poreskog knjigovodstva;
+- sprovođenje postuka: utvrđivanja naplate i kontrole poreza na nepokretnosti, poreza na promet nepokretnosti, naknada za korišćenje prostora za bespravne objekte, naknada za puteve, članskog doprinosa turističkim organizacijama;
+- sprovođenje postupka naplate i kontrole prireza porezu na dohodak fizičkih lica, naknade za urbanu sanaciju, naknade za komunalno opremanje građevinskog zemljišta, lokalnih komunalnih taksi, boravišne takse i drugih lokalnih javnih prihoda u skladu sa odlukama Skupštine opštine;
+- rješavanje o pravima poreskih obveznika, pokreće i vodi prvostepeni upravni postupak i postupanje po rješenjima drugostepenog organa;
+- sprovođenje postupka prinudne naplate lokalnih javnih prihoda, shodno propisima iz oblasti poreskog sistema;
+- utvrđivanje obaveza po osnovu lokalnih javih prihoda u cilju definisanja fiskalne politike;
+- nadzor nad prikupljanjem i plaćanjem boravišne takse;
+- vođenje registra poreskih obveznika, evidencije utvrđenih i naplaćenih lokalnih javnih prihoda i drugih evidencija u skladu sa zakonom;
+- redovno usaglašavanje stanja registra sa registrom nepokretnosti koji vodi nadležni državni organ;
+- poslove u vezi slobodnog pristupa informacijama iz djelokruga rada ove Uprave;
+- pripremanje i dostavljanje informacija radi objavljivanja u medijima, web sajtu Opštine i na društvenim mrežama;
+- pripremu godišnjeg i drugih izvještaja za glavnog administratora o rješavanju upravnih stvari iz svoje nadležnosti;
+- ostvarivanje saradnje sa NVO povodom pitanja iz svoje nadležnosti;
+- pripremu nacrta i predloga akata koje donosi Skupština i predsjednik Opštine iz djelokruga rada Uprave;
+- pripremu informativnih i drugih stručnih materijala za Skupštinu i predsjednika Opštine;
+- davanje mišljenja na nacrt i prijedlog izmjene zakona i drugih propisa iz nadležnosti Uprave koji se dostavljaju na izjašnjavanje Opštini;
+- pripremu putnih naloga i izvještaja za službena putovanja službenika ove Uprave;
+- priprema predloga Kadrovskog plana koji se odnosi na zaposlene u Upravi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- priprema predloga Plana korišćenja godišnjih odmora za zaposlene u Upravi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- izradu predloga Pravilnika o unutrašnjoj organizaciji i sistematizaciji za Upravu;
+- odlučivanje o izboru, raspoređivanju i drugim poslovima iz oblasti zasnivanja i prestanka radnog odnosa službenika i namještenika u Upravi;
+- donošenje rješenja o zaradi službenika i namještenika ove Uprave;
+- odlučivanje o pokretanju internog i javnog oglasa radi popune radnih mjesta, uz prethodnu saglasnost predsjednika Opštine;
+- ocijenjivanje rada i rezultata rada službenika i namještenika u Upravi;
+- planiranje i odlučivanje o stručnom osposobljavanju i usavršavanju službenika i namještenika, kao i posebnom stručnom usavršavanju i ugovaranju u vezi sa istim, u toku radnog odnosa zaposlenog;
+- nadzor i kontrola rada službenika i namještenika u Upravi, pokretanje disciplinskog postupka, donošenje odluke o disciplinskoj mjeri za lakšu povredu službene dužnosti, kao i vršenje drugih disciplinskih ovlašćenja predviđenih zakonom;
+- nadzor i kontrola pravilnog korišćenja imovine i sredstava za rad u skladu sa zakonom i posebnim opštinskim propisima;
+- obezbjeđenje učešća javnosti u donošenju akata od zajedničkog interesa i u ostalim aktima i aktivnostima u skladu sa zakonskim i opštinskim propisima;
+- vođenje evidencije podataka o zbirki ličnih podataka i vrši zaštitu istih;
+- poslove na realizaciji usvojenih akcionih planova i strategija razvoja;
+- pripremu i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština i predsjednik Opštine;
+- poslove pribavljanja i obrade podataka po službenoj dužnosti iz službenih evidencija i registara koje vodi Uprava odnosno drugi nadležni organ u skladu sa zakonom, za potrebe odlučivanja po zahtjevu stranke;
+- saradnju sa državnim organima i drugim pravnim licima u okviru djelokruga svog rada; - sprovođenje upravnih postupaka i vršenje upravnih radnji iz djelokruga rada Uprave;
+- druge poslove iz svog djelokruga u skladu sa zakonom i drugim propisima i odlukama predsjednika Opštine."

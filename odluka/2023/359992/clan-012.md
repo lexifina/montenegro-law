@@ -1,0 +1,40 @@
+# Član 12
+Član 24 Odluke mijenja se i glasi:
+"Služba za unutrašnju reviziju obavlja poslove unutrašnje revizije koji se odnose na:
+- organizovanje i obavljanje unutrašnje revizije svih poslovnih funkcija iz nadležnosti Opštine, u skladu sa međunarodnim okvirom profesionalne prakse unutrašnje revizije i propisima Crne Gore;
+- ocjenu efikasnosti procesa upravljanja, upravljanja rizicima i unutrašnjih kontrola;
+- izradu Povelje unutrašnje revizije;
+- izrada plana i programa pojedinačne revizije radi procjene i poboljšanja efektivnosti upravljanja rizikom, kontrola i upravljanja;
+- izradu izvještaja pojedinačne revizije koju dostavlja predsjedniku Opštine i odgovornom licu organizacione jedinice kod koje je obavljena revizija;
+- obavljanje pojedinačne revizije na zahtjev predsjednika Opštine i obavljanje revizije korišćenja sredstava Evropske unije;
+- obavljanje revizija kod pravnih lica čiji je osnovač Skupština Opštine ili u kojima Opština ima većinski vlasnički udio, a koje nemaju sopstvenu jedinicu za unutrašnju reviziju;
+- praćenje sprovođenja preporuka datih u izvještajima iz predhodno obavljenih revizija;
+- izradu periodičnih i godišnjih izvještaja o radu unutrašnje revizije koje dostavlja predsjedniku Opštine;
+- davanja savjeta i stručnih mišljenja kada se uvode novi sistemi i procedure;
+- saradnju sa jedinicom za centralnu harmonizaciju i razvoj unutrašnjih kontrola, što uključuje i obavezu dostavljanja propisanih izvještaja;
+- saradnju sa Državnom revizorskom institucijom, međunarodnim i domaćim strukovnim institucijama i udruženjima;
+- praćenje i predlaganje edukacije unutrašnjih revizora u skladu sa zakonom i međunarodnim standardima unutrašnje revizije, predlaganje godišnjeg plana kontinuiranog profesionalnog usavršavanja unutrašnjih revizora;
+- osiguranje i unapređenje kvaliteta unutrašnje revizije;
+- praćenje sprovođenja preporuka Državne revizorske institucije;
+- poslove u vezi slobodnog pristupa informacijama iz djelokruga rada ove Službe;
+- pripremanje i dostavljanje informacija radi objavljivanja u medijima, web sajtu Opštine i na društvenim mrežama;
+- pripremu godišnjeg i drugih izvještaja za glavnog administratora o rješavanju upravnih stvari iz svoje nadležnosti;
+- pripremu informativnih i drugih stručnih materijala za Skupštinu i predsjednika Opštine;
+- davanje mišljenja na nacrt i prijedlog izmjene zakona i drugih propisa iz nadležnosti Službe koji se dostavljaju na izjašnjavanje Opštini;
+- pripremu putnih naloga i izvještaja za službena putovanja službenika ove Službe;
+- priprema predloga Kadrovskog plana koji se odnosi na zaposlene u Službi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- priprema predloga Plana korišćenja godišnjih odmora za zaposlene u Službi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- izradu predloga Pravilnika o unutrašnjoj organizaciji i sistematizaciji za Službu;
+- odlučivanje o izboru, raspoređivanju i drugim poslovima iz oblasti zasnivanja i prestanka radnog odnosa službenika i namještenika u Službi;
+- donošenje rješenja o zaradi službenika i namještenika ove Službe;
+- odlučivanje o pokretanju internog i javnog oglasa radi popune radnih mjesta, uz prethodnu saglasnost predsjednika Opštine;
+- ocijenjivanje rada i rezultata rada službenika i namještenika u Službi;
+- planiranje i odlučivanje o stručnom osposobljavanju i usavršavanju službenika i namještenika, kao i posebnom stručnom usavršavanju i ugovaranju u vezi sa istim, u toku radnog odnosa zaposlenog;
+- nadzor i kontrola rada službenika i namještenika u Službi, pokretanje disciplinskog postupka, donošenje odluke o disciplinskoj mjeri za lakšu povredu službene dužnosti, kao i vršenje drugih disciplinskih ovlašćenja predviđenih zakonom;
+- nadzor i kontrola pravilnog korišćenja imovine i sredstava za rad u skladu sa zakonom i posebnim opštinskim propisima;
+- vođenje evidencije podataka o zbirki ličnih podataka i vrši zaštitu istih;
+- poslove na realizaciji usvojenih akcionih planova i strategija razvoja;
+- pripremu i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština i predsjednik Opštine;
+- poslove pribavljanja i obrade podataka po službenoj dužnosti iz službenih evidencija i registara koje vodi Služba odnosno drugi nadležni organ u skladu sa zakonom, za potrebe odlučivanja po zahtjevu stranke;
+- saradnju sa državnim organima i drugim pravnim licima u okviru djelokruga svog rada; - sprovođenje upravnih postupaka i vršenje upravnih radnji iz djelokruga rada ove Službe;
+- druge poslove iz svog djelokruga u skladu sa zakonom i drugim propisima i odlukama predsjednika Opštine."

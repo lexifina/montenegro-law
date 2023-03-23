@@ -1,0 +1,53 @@
+# Član 8
+Član 20 Odluke mijenja se i glasi:
+"Sekretarijat za imovinu i investicije obavlja poslove lokalne uprave koji se odnose na:
+- priprema planove i programe razvoja koji se odnose na uređivanje građevinskog zemljišta, planove investicionih aktivnosti i druge planove i programe u skladu sa posebnim propisima;
+- obavlja stručno administrativne poslove vezane za investicione aktivnosti i komunalno opremanje građevinskog zemljišta;
+- učestvuje u pripremi prikupljanju podataka potrebnih za tendersku dokumentaciju iz djelokruga sekretarijata;
+- prikuplja neophodnu dokumentaciju za pokretanje postupka izuzimanja zemljišta i eksproprijacije;
+- pokreće postupak eksproprijacije shodno Programu uređivanja građevinskog zemljišta;
+- pribavlja neophodnu dokumentaciju za izdavanje građevinske i upotrebne dozvole za izgradnju investicionih i komunalnih objekata, gdje je Opština investitor;
+- vrši popis i evidenciju opštinske imovine, u skladu sa zakonom i vrši procjenu vrijednosti imovine u svojini Opštine i procjenu vriednosti državne imovine sa kojom raspolaže opština;
+- prati realizaciju ugovora o građenju investicionih i komunalnih objekata, gdje je Opština investitor;
+- aktivno sarađuje sa nadležnim Sekretarijatom u pripremi izrade planske dokumentacije u cilju planiranja investicionih projekata u planskim dokumentima;
+- vrši kontrolu i ovjeru situacija po zaključenim ugovorima;
+- vrši i druge poslove u vezi pripreme i realizacije investicionih projekata i projekata za komunalno opremanje građevinskog zemljišta;
+- obavlja stručne i administrativne poslove u skladu sa Zakonom o uređenju prostora i izgradnji objekata i drugih pravnih akata vezano za zaključenje ugovora o komunalnom opremanju sa investitorom;
+- opremanje građevinskog zemljišta za legalne i bespravne objekte;
+- vrši evidenciju o uplatama i isplatama sredstava po osnovu Programa uređenja građevinskog zemljišta i programu investicionih aktivnosti;
+- upravlja, izdaje u zakup i održava stambene zgrade i stanove koji su svojina Opštine;
+- pokreće postupak za upis prava svojine na nepokretnostima;
+- pokreće postupak prenosa prava na građevinskom zemljištu i vrši obradu akata o prenosu prava na građevinskom zemljištu; daje podatke organima Opštine na osnovu evidencije koju vodi;
+- priprema akte u vezi sa raspolaganjem državnom imovinom iz okvira ovlašćenja Opštine (odluke, ugovori, rješenja);
+- daje mišljenje na prijedloge akata o raspolaganju državnom imovinom, koje pripremaju javne službe čiji je osnivač Opština;
+- priprema ugovore o zakupu zemljišta sa kojim raspolaže Opština;
+- vodi evidenciju o svojinsko pravnim promjenama nastalim po osnovu tih akata i pokreće postupak za promjenu upisa prava na nepokretnosti;
+- vrši poslove zastupanja u postupcima koji se tiču zaštite imovinskih prava i interesa Opštine pred sudovima i drugim organima i preduzima mjere, i ulaže pravna sredstva radi zaštite u svim predmetima do okončanja postupka;
+- priprema prijedloge odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti koje se eksproprišu u cilju izgradnje objekata koji su od neposrednog značaja za ostvarivanje funkcije lokalne samouprave;
+- upravlja sa sportskim objektima u svojini Opštine;
+- poslove u vezi slobodnog pristupa informacijama iz djelokruga rada ovog Sekretarijata;
+- pripremanje i dostavljanje informacija radi objavljivanja u medijima, web sajtu Opštine i na društvenim mrežama;
+- pripremu godišnjeg i drugih izvještaja za glavnog administratora o rješavanju upravnih stvari iz svoje nadležnosti;
+- ostvarivanje saradnje sa NVO povodom pitanja iz svoje nadležnosti;
+- davanje mišljenja i saglasnosti na program rada, izvještaj o radu i izvještaj o finansijskom poslovanju javnih ustanova i društava čiji je osnivač Opština, a koja obavljaju djelatnosti iz djelokruga rada ovog Sekretarijata;
+- pripremu nacrta i predloga akata koje donosi Skupština i predsjednik Opštine iz djelokruga rada Sekretarijata;
+- pripremu informativnih i drugih stručnih materijala za Skupštinu i predsjednika Opštine;
+- davanje mišljenja na nacrt i prijedlog izmjene zakona i drugih propisa iz nadležnosti Sekretarijata koji se dostavljaju na izjašnjavanje Opštini;
+- pripremu putnih naloga i izvještaja za službena putovanja službenika ovog Sekretarijata;
+- priprema predloga Kadrovskog plana koji se odnosi na zaposlene u Sekretarijatu i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- priprema predloga Plana korišćenja godišnjih odmora za zaposlene u Sekretarijatu i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- izradu predloga Pravilnika o unutrašnjoj organizaciji i sistematizaciji Sekretarijata;
+- odlučivanje o izboru, raspoređivanju i drugim poslovima iz oblasti zasnivanja i prestanka radnog odnosa službenika i namještenika u Sekretarijatu;
+- donošenje rješenja o zaradi službenika i namještenika ovog Sekretarijata;
+- odlučivanje o pokretanju internog i javnog oglasa radi popune radnih mjesta, uz prethodnu saglasnost predsjednika Opštine;
+- ocijenjivanje rada i rezultata rada službenika i namještenika u Sekretarijatu;
+- planiranje i odlučivanje o stručnom osposobljavanju i usavršavanju službenika i namještenika, kao i posebnom stručnom usavršavanju i ugovaranju u vezi sa istim, u toku radnog odnosa zaposlenog;
+- nadzor i kontrolurada službenika i namještenika u Sekretarijatu, pokretanje disciplinskog postupka, donošenje odluke o disciplinskoj mjeri za lakšu povredu službene dužnosti, kao i vršenje drugih disciplinskih ovlašćenja predviđenih zakonom;
+- nadzor i kontrolu pravilnog korišćenja imovine i sredstava za rad u skladu sa zakonom i posebnim opštinskim propisima;
+- obezbjeđenje učešća javnosti u donošenju akata od zajedničkog interesa i u ostalim aktima i aktivnostima u skladu sa zakonskim i opštinskim propisima;
+- vođenje evidencije podataka o zbirki ličnih podataka i vrši zaštitu istih;
+- poslove na realizaciji usvojenih akcionih planova i strategija razvoja;
+- pripremu i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština i predsjednik Opštine;
+- poslove pribavljanja i obrade podataka po službenoj dužnosti iz službenih evidencija i registara koje vodi Sekretarijat odnosno drugi nadležni organ u skladu sa zakonom, za potrebe odlučivanja po zahtjevu stranke;
+- saradnju sa državnim organima i drugim pravnim licima u okviru djelokruga svog rada; - sprovođenje upravnih postupaka i vršenje upravnih radnji iz djelokruga rada Sekretarijata;
+- druge poslove iz svog djelokruga u skladu sa zakonom i drugim propisima i odlukama predsjednika Opštine.

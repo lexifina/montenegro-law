@@ -1,0 +1,41 @@
+# Član 16
+Član 28 Odluke mijenja se i glasi:
+"Služba Glavnog gradskog arhitekte obavlja stručne i druge poslove koji se odnose na:
+- izradu politika, strategija, projekata i programa u cilju unapređenja kvaliteta i kulture prostornog i arhitektonskog oblikovanja i stvaranja visokovrijednog izgrađenog prostora;
+- predlaganje realizacije investicionih projekata u interesu lokalne samouprave;
+- donošenje rješenja o usklađenosti objekta sa smjernicama za usklađivanje spoljnog izgleda objekta iz planskog dokumenta;
+- davanje saglasnosti na idejno rješenje zgrade, trga i ostalih javnih prostora u naseljima;
+- provjeravanje usaglašenosti idejnog rješenja sa urbanističkim projektom;
+- propisivanje smjernica za usklađivanje spoljnog izgleda bespravnih objekata;
+- davanje saglasnosti u pogledu izgleda privremenog objekta;
+- izrađivanje projektnog zadatka za urbanistički projekat;
+- priprema odgovore na odbornička pitanja upućenih Službi i na odbornička pitanja iz nadležnosti Službe upućenih Predsjedniku Opštine;
+- pripremu, izradu i sprovođenje programa rada Službe i drugih programskih i planskih akata iz djelokruga Službe;
+- praćenje i sprovođenje državnih planskih akata u okviru nadležnosti Službe;
+- dostavljanje idejnog rješenja, zahtjeva investitora za davanje saglasnosti i saglasnost glavnom državnom arhitekti u skladu sa zakonom;
+- postupanje po zakonu, planovima i sl.;
+- vođenje propisanih evidencija i čuvanje dokumentacije Službe;
+- poslove u vezi slobodnog pristupa informacijama iz djelokruga rada ove Službe;
+- pripremanje i dostavljanje informacija radi objavljivanja u medijima, web sajtu Opštine i na društvenim mrežama;
+- pripremu godišnjeg i drugih izvještaja za glavnog administratora o rješavanju upravnih stvari iz svoje nadležnosti;
+- ostvarivanje saradnje sa NVO povodom pitanja iz svoje nadležnosti;
+- pripremu nacrta i predloga akata koje donosi Skupština i predsjednik Opštine iz djelokruga rada organa;
+- davanje mišljenja na nacrt i prijedlog izmjene zakona i drugih propisa iz nadležnosti organa koji se dostavljaju na izjašnjavanje Opštini;
+- pripremu putnih naloga i izvještaja za službena putovanja službenika ove Službe;
+- priprema predloga Kadrovskog plana koji se odnosi na zaposlene u Službi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- priprema predloga Plana korišćenja godišnjih odmora za zaposlene u Službi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- izradu predloga Pravilnika o unutrašnjoj organizaciji i sistematizaciji za Službu;
+- odlučivanje o izboru, raspoređivanju i drugim poslovima iz oblasti zasnivanja i prestanka radnog odnosa službenika i namještenika u Službi;
+- donošenje rješenja o zaradi službenika i namještenika ove Službe;
+- odlučivanje o pokretanju internog i javnog oglasa radi popune radnih mjesta, uz prethodnu saglasnost predsjednika Opštine;
+- ocijenjivanje rada i rezultata rada službenika i namještenika u Službi;
+- planiranje i odlučivanje o stručnom osposobljavanju i usavršavanju službenika i namještenika, kao i posebnom stručnom usavršavanju i ugovaranju u vezi sa istim, u toku radnog odnosa zaposlenog;
+- nadzor i kontrola rada službenika i namještenika u Službi, pokretanje disciplinskog postupka, donošenje odluke o disciplinskoj mjeri za lakšu povredu službene dužnosti, kao i vršenje drugih disciplinskih ovlašćenja predviđenih zakonom;
+- nadzor i kontrola pravilnog korišćenja imovine i sredstava za rad u skladu sa zakonom i posebnim opštinskim propisima;
+- obezbjeđenje učešća javnosti u donošenju akata od zajedničkog interesa i u ostalim aktima i aktivnostima u skladu sa zakonskim i opštinskim propisima;
+- vođenje evidencije podataka o zbirki ličnih podataka i vrši zaštitu istih;
+- poslove na realizaciji usvojenih akcionih planova i strategija razvoja;
+- pripremu i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština i predsjednik Opštine;
+- poslove pribavljanja i obrade podataka po službenoj dužnosti iz službenih evidencija i registara koje vodi Služba odnosno drugi nadležni organ u skladu sa zakonom, za potrebe odlučivanja po zahtjevu stranke;
+- saradnju sa državnim organima i drugim pravnim licima u okviru djelokruga svog rada; - sprovođenje upravnih postupaka i vršenje upravnih radnji iz djelokruga rada Službe;
+- druge poslova iz svog djelokruga u skladu sa zakonom i drugim propisima i odlukama predsjednika Opštine. "

@@ -1,0 +1,44 @@
+# Član 14
+Član 26 Odluke mijenja se i glasi:
+"Služba za odnose sa javnošću i protokol obavlja stručne i druge poslove koji se odnose na:
+- izradu komunikacione strategije;
+- informisanje javnosti o radu Opštine i organa lokalne uprave, marketinške poslove u dijelu prezentiranja i promovisanja rada i projekata Opštine i organa lokalne uprave
+- (izdavanje saopštenja, biltena, publikacija i drugih štampanih stvari, video i audio materijala i sl.), praćenje i analiziranje načina informisanja medija o radu Opštine i organa lokalne uprave kao i koordinaciju sa medijima, interno informisanje, foto-video dokumentaciju, ispitivanje javnosti i razvoju komunikacije sa javnošću;
+- elektronsko i analitičko obrađivanje dnevne štampe, pripremanje izvještaja i analiziranje pisanja javnih glasila o Opštini i radu lokalnih organa, koji se stavljaju na raspolaganje predsjedniku i potpredsjednicima Opštine, prikuplja i hronološki sistematizuje sve tekstove koji se odnose na sveukupan rad Opštine;
+- sveobuhvatnu komunikaciju sa javnošću o radu Opštine i organa lokalne uprave, informativno praćenje rada Opštine, obavljanje stručnih poslova u vezi sa saradnjom sa medijima;
+- praćenje rada i izdavanje saopštenja kojima se javnost informiše o aktivnostima pojedinih organa i Opštine u cjelini, usklađuje aktivnosti sekretarijata i drugih organa uprave, kao i Opštine u cjelini sa sredstvima javnog informisanja, priprema i organizuje neformalne i formalne brifinge i konferencije za štampu i prosleđuje odgovarajuća saopštenja za javnost;
+- priprema i vrši istraživanja javnosti o pitanjima od značaja za lokalnu upravu putem anketiranja ciljanih javnosti (telefonske, internet, terenske ankete, fokus grupe);
+- pripremanje i objavljivanje priloga za prezentaciju Opštine na internetu (zvanična prezentacija, nalozi na društvenim mrežama, i sl);
+- koordinacija svim aktivnostima koje se odnose na sajt i upravljanje nalozima Opštine na društvenim mrežama;
+- planira kampanje i aktivnosti od javnog značaja iz djelokruga rada Opštine;
+- predlaže, planira i sprovodi aktivnosti vezane za unapređenje reputacije Opštine;
+- organizuje svečanosti, prijeme, posjete i druge protokolarne događaje i aktivnosti za potrebe predsjednika Opštine, potpredsjednika Opštine i predsjednika Skupštine opštine;
+- priprema predstavnike Opštine, pruža im logističku i drugu stručnu podršku i asistira u njihovom učešću na događajima (sastancima, susretima, konferencijama, okruglim stolovima, i sl) u zemlji i inostranstvu;
+- obavlja poslove prevođenja za potrebe predsjednika i potpredsjednika Opštine;
+- priprema i sprovodi aktivnosti internog informisanja zaposlenih u Opštini i javnim preduzećima čiji je Opština osnivač (interni bilteni, komunikacija sa zaposlenima);
+- daje sugestije i smjernice o pravcu neophodne reakcije na događaje, podatke i informacije koje mogu imati negativan efekat na rad Opštine i dovesti do njene kompromitacije u javnosti;
+- obavlja poslove kojima se obezbjeđuje javnost i tranparentnost rada organa opštine i učešće lokalnog stanovništva u vršenju javnih poslova i daje saglasnost za objavljivanje informacija na web sajtu Opštine;
+- poslove u vezi slobodnog pristupa informacijama iz djelokruga rada ove Službe;
+- pripremanje i dostavljanje informacija radi objavljivanja u medijima, web sajtu Opštine i na društvenim mrežama;
+- pripremu godišnjeg i drugih izvještaja za glavnog administratora o rješavanju upravnih stvari iz svoje nadležnosti;
+- ostvarivanje saradnje sa NVO povodom pitanja iz svoje nadležnosti;
+- pripremu nacrta i predloga akata koje donosi Skupština i predsjednik Opštine iz djelokruga rada organa;
+- davanje mišljenja na nacrt i prijedlog izmjene zakona i drugih propisa iz nadležnosti organa koji se dostavljaju na izjašnjavanje Opštini;
+- pripremu putnih naloga i izvještaja za službena putovanja službenika ove Službe;
+- priprema predloga Kadrovskog plana koji se odnosi na zaposlene u Službi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- priprema predloga Plana korišćenja godišnjih odmora za zaposlene u Službi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- izradu predloga Pravilnika o unutrašnjoj organizaciji i sistematizaciji za Službu;
+- odlučivanje o izboru, raspoređivanju i drugim poslovima iz oblasti zasnivanja i prestanka radnog odnosa službenika i namještenika u Službi;
+- donošenje rješenja o zaradi službenika i namještenika ove Službe;
+- odlučivanje o pokretanju internog i javnog oglasa radi popune radnih mjesta, uz prethodnu saglasnost predsjednika Opštine;
+- ocijenjivanje rada i rezultata rada službenika i namještenika u Službi;
+- planiranje i odlučivanje o stručnom osposobljavanju i usavršavanju službenika i namještenika, kao i posebnom stručnom usavršavanju i ugovaranju u vezi sa istim, u toku radnog odnosa zaposlenog;
+- nadzor i kontrola rada službenika i namještenika u Službi, pokretanje disciplinskog postupka, donošenje odluke o disciplinskoj mjeri za lakšu povredu službene dužnosti, kao i vršenje drugih disciplinskih ovlašćenja predviđenih zakonom;
+- nadzor i kontrola pravilnog korišćenja imovine i sredstava za rad u skladu sa zakonom i posebnim opštinskim propisima;
+- obezbjeđenje učešća javnosti u donošenju akata od zajedničkog interesa i u ostalim aktima i aktivnostima u skladu sa zakonskim i opštinskim propisima;
+- vođenje evidencije podataka o zbirki ličnih podataka i vrši zaštitu istih;
+- poslove na realizaciji usvojenih akcionih planova i strategija razvoja;
+- pripremu i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština i predsjednik Opštine;
+- poslove pribavljanja i obrade podataka po službenoj dužnosti iz službenih evidencija i registara koje vodi Služba odnosno drugi nadležni organ u skladu sa zakonom, za potrebe odlučivanja po zahtjevu stranke;
+- saradnju sa državnim organima i drugim pravnim licima u okviru djelokruga svog rada; - sprovođenje upravnih postupaka i vršenje upravnih radnji iz djelokruga rada Službe;
+- druge poslove iz svog djelokruga u skladu sa zakonom i drugim propisima i odlukama predsjednika Opštine. "

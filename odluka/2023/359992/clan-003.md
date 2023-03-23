@@ -1,0 +1,48 @@
+# Član 3
+Član 15 Odluke mijenja se i glasi:
+"Sekretarijat za finansije i budžet obavlja poslove lokalne uprave koji se odnose na:
+- pripremanje, planiranje i izrada nacrta odluke o budžetu Opštine;
+- pripremanje izvještaja o realizaciji fiskalne politike za tekuću godinu i predlaganje smjernica na osnovu kojih se planiraju prihodi i rashodi za narednu godinu, koje utvrđuje predsjednik Opštine;
+- izradu stručnog uputstva o ciljevima i smjernicama potrošačkih jedinica radi pripremanja budžeta;
+- pripremanje nacrta odluke o privremenom finansiranju;
+- praćenje korišćenja odobrenih sredstava potrošačkih jedinica po dinamici koju odobri predsjednik Opštine;
+- praćenje izvršenja budžeta Opštine, pripremanje planova izvršenja budžeta, završnog računa budžeta i odluke o zaduživanju Opštine;
+- dostavljanje podataka resornom ministarstvu o prihodima, izdacima i budžetskom zaduženju;
+- pripremu izvještaja za Skupštinu opštine o korišćenju sredstava stalne budžetske rezerve;
+- upravljanje konsolidovanim računom trezora, podračunima i drugim računima i vođenje evidencije o postojećem dugu Opštine, odobravanje otvaranja podračuna i bliže određivanje načina korišćenja ovih računa;
+- vođenje glavne knjige trezora i pomoćne knjige, finansijsko planiranje i upravljanje gotovinskim sredstvima;
+- vršenje kontrole izdataka i izvršavanja budžeta;
+- vršenje obračuna zarada i naknada službenika i namještenika organa Opštine;
+- vršenje isplate zarada i naknada zaposlenih u lokalnoj upravi;
+- vođenje evidencije o zaradama lokalnih službenika i namještenika;
+- upravljanje dugom i analiziranje zaduženosti;
+- vođenje evidencije o postojećem potraživanju Opštine;
+- budžetsko računovodstvo i izvještavanje;
+- upravljanje finansijskim informacionim sistemom;
+- vršenje poslova oko zaduživanja Opštine izdavanjem hartija od vrijednosti ili uzimanjem zajmova, potrebama za pozajmicama i mogućnostima za davanje kredita;
+- pripremu propisa iz nadležnosti Sekretarijata;
+- poslove u vezi slobodnog pristupa informacijama iz djelokruga rada ovog Sekretarijata;
+- pripremanje i dostavljanje informacija radi objavljivanja u medijima, web sajtu Opštine i na društvenim mrežama;
+- pripremu godišnjeg i drugih izvještaja za glavnog administratora o rješavanju upravnih stvari iz svoje nadležnosti;
+- ostvarivanje saradnje sa NVO povodom pitanja iz svoje nadležnosti;
+- davanje mišljenja i saglasnosti na program rada, izvještaj o radu i izvještaj o finansijskom poslovanju javnih ustanova i društava čiji je osnivač Opština, na sredstva koja su predviđena Budžetom;
+- pripremu nacrta i predloga akata koje donosi Skupština i predsjednik Opštine iz djelokruga rada Sekretarijata;
+- pripremu informativnih i drugih stručnih materijala za Skupštinu i predsjednika Opštine;
+- davanje mišljenja na nacrt i prijedlog izmjene zakona i drugih propisa iz nadležnosti Sekretarijata koji se dostavljaju na izjašnjavanje Opštini;
+- pripremu putnih naloga i izvještaja za službena putovanja službenika ovog Sekretarijata;
+- priprema predloga Kadrovskog plana koji se odnosi na zaposlene u Sekretarijatu i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- priprema predloga Plana korišćenja godišnjih odmora za zaposlene u Sekretarijatu i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- izradu predloga Pravilnika o unutrašnjoj organizaciji i sistematizaciji Sekretarijata;
+- odlučivanje o izboru, raspoređivanju i drugim poslovima iz oblasti zasnivanja i prestanka radnog odnosa službenika i namještenika u Sekretarijatu i donošenje rješenja o zaradi službenika i namještenika ovog Sekretarijata;
+- odlučivanje o pokretanju internog i javnog oglasa radi popune radnih mjesta, uz prethodnu saglasnost predsjednika Opštine;
+- ocijenjivanje rada i rezultata rada službenika i namještenika u Sekretarijatu;
+- planiranje i odlučivanje o stručnom osposobljavanju i usavršavanju službenika i namještenika, kao i posebnom stručnom usavršavanju i ugovaranju u vezi sa istim, u toku radnog odnosa zaposlenog;
+- nadzor i kontrolu rada službenika i namještenika u Sekretarijatu, pokretanje disciplinskog postupka, donošenje odluke o disciplinskoj mjeri za lakšu povredu službene dužnosti, kao i vršenje drugih disciplinskih ovlašćenja predviđenih zakonom;
+- nadzor i kontrolu pravilnog korišćenja imovine i sredstava za rad u skladu sa zakonom i posebnim opštinskim propisima;
+- obezbjeđenje učešća javnosti u donošenju akata od zajedničkog interesa i u ostalim aktima i aktivnostima u skladu sa zakonskim i opštinskim propisima;
+- vođenje evidencije podataka o zbirki ličnih podataka i vrši zaštitu istih;
+- poslove na realizaciji usvojenih akcionih planova i strategija razvoja;
+- pripremu i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština i predsjednik Opštine;
+- poslove pribavljanja i obrade podataka po službenoj dužnosti iz službenih evidencija i registara koje vodi Sekretarijat odnosno drugi nadležni organ u skladu sa zakonom, za potrebe odlučivanja po zahtjevu stranke;
+- saradnju sa državnim organima i drugim pravnim licima u okviru djelokruga svog rada; - sprovođenje upravnih postupaka i vršenje upravnih radnji iz djelokruga rada Sekretarijata;
+- druge poslove iz svog djelokruga u skladu sa zakonom i drugim propisima i odlukama predsjednika Opštine."

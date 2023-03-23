@@ -1,0 +1,33 @@
+# Član 15
+Član 27 Odluke mijenja se i glasi:
+" Služba Glavnog administratora obavlja stručne i druge poslove koji se odnose na:
+- rješava u drugostepenom upravnom postupku;
+- koordinira rad organa lokalne uprave i službi;
+- stara se o zakonitom, efikasnom i ekonomičnom vršenju poslova organa i službi lokalne uprave;
+- daje stručna uputstva i instrukcije o načinu postupanja u vršenju poslova;
+- daje mišljenje na akt o organizaciji i načinu rada lokalne uprave;
+- izvršava akte Predsjednika opštine koje donosi u ostvarivanju funkcija usmjeravanja i koordiniranja radom organa i službi lokalne uprave;
+- podnosi izvještaj o svom radu;
+- poslove u vezi slobodnog pristupa informacijama iz djelokruga rada ove Službe;
+- pripremanje i dostavljanje informacija radi objavljivanja u medijima, web sajtu Opštine i na društvenim mrežama;
+- pripremu godišnjeg i drugih izvještaja o rješavanju upravnih stvari iz svoje nadležnosti;
+- ostvarivanje saradnje sa NVO povodom pitanja iz svoje nadležnosti;
+- pripremu nacrta i predloga akata koje donosi Skupština i predsjednik Opštine iz djelokruga rada Službe;
+- davanje mišljenja na nacrt i prijedlog izmjene zakona i drugih propisa iz nadležnosti Službe koji se dostavljaju na izjašnjavanje Opštini;
+- pripremu putnih naloga i izvještaja za službena putovanja službenika ove Službe;
+- priprema predloga Kadrovskog plana koji se odnosi na zaposlene u Službi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- priprema predloga Plana korišćenja godišnjih odmora za zaposlene u Službi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- izradu predloga Pravilnika o unutrašnjoj organizaciji i sistematizaciji za Službu;
+- odlučivanje o izboru, raspoređivanju i drugim poslovima iz oblasti zasnivanja i prestanka radnog odnosa službenika i namještenika u Službi;
+- donošenje rješenja o zaradi službenika i namještenika ove Službe;
+- odlučivanje o pokretanju internog i javnog oglasa radi popune radnih mjesta, uz prethodnu saglasnost predsjednika Opštine;
+- ocijenjivanje rada i rezultata rada službenika i namještenika u Službi;
+- planiranje i odlučivanje o stručnom osposobljavanju i usavršavanju službenika i namještenika, kao i posebnom stručnom usavršavanju i ugovaranju u vezi sa istim, u toku radnog odnosa zaposlenog;
+- nadzor i kontrola rada službenika i namještenika u Službi, pokretanje disciplinskog postupka, donošenje odluke o disciplinskoj mjeri za lakšu povredu službene dužnosti, kao i vršenje drugih disciplinskih ovlašćenja predviđenih zakonom;
+- nadzor i kontrola pravilnog korišćenja imovine i sredstava za rad u skladu sa zakonom i posebnim opštinskim propisima;
+- obezbjeđenje učešća javnosti u donošenju akata od zajedničkog interesa i u ostalim aktima i aktivnostima u skladu sa zakonskim i opštinskim propisima;
+- vođenje evidencije podataka o zbirki ličnih podataka i vrši zaštitu istih;
+- poslove na realizaciji usvojenih akcionih planova i strategija razvoja;
+- pripremu i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština i predsjednik Opštine;
+- saradnju sa državnim organima i drugim pravnim licima u okviru djelokruga svog rada;
+- druge poslove iz svog djelokruga u skladu sa zakonom i drugim propisima i odlukama predsjednika Opštine. "

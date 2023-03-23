@@ -1,0 +1,42 @@
+# Član 13
+Član 25 Odluke mijenja se i glasi:
+"Služba predsjednika Opštine obavlja stručne, informativno-analitičke, administrativne i druge poslove za predsjednika, koji se odnose na:
+- izradu nacrta akata iz nadležnosti predsjednika Opštine u skladu sa Statutom Opštine;
+- izradu i sprovođenje programa rada predsjednika, učešće u izradi propisa kojima se utvrđuje organizacija i način rada lokalne uprave Opštine;
+- kontrolu akata koje predsjednik Opštine predlaže Skupštini na usvajanje a čiji su obrađivači organi uprave i javne službe, i sprovođenje procedure predlaganja;
+- pripremu smjernica za izvršavanje prenesenih i povjerenih poslova i njihovu kontrolu;
+- pripremu akata kojima predsjednik vrši usmjeravanje i usklađivanje rada organa uprave i javnih službi;
+- kontrolu usklađenosti programa rada i izvještaja o radu organa uprave i javnih službi sa odgovarajućim uputstvom predsjednika;
+- pripremu i organizovanje sastanaka i službenih putovanja predsjednika i potpredsjednika Opštine, i staranje o realizaciji zaključaka sa tih sastanaka;
+- pripremu putnih naloga i izvještaja za službena putovanja u inostranstvu predsjednika, potpredsjednika, imenovanih, postavljenih lica;
+- pripremu izvještaja o radu predsjednika i radu organa lokalne uprave;
+- ostvarivanje saradnje sa Skupštinom i Vladom Crne Gore, drugim opštinama u Crnoj Gori i inostranstvu, državnim organima i organima drugih jedinica lokalne samouprave u zemlji i inostranstvu;
+- postupanje po predstavkama i pritužbama građana upućenih predsjedniku (utvrđivanje činjenica o njihovoj osnovanosti i priprema predloga odgovora na njih);
+- postupanje po predstavkama koje državni organi upućuju predsjedniku radi utvrđivanja činjenica, odnosno rješavanja pitanja koja su predmet predstavki i pritužbi;
+- prijem zahtjeva građana i drugih subjekata, način ostvarivanja prava i obaveza pred organima lokalne samouprave, lokalne uprave i javnih službi, njihovo prosleđivanje nadležnim organima i službama; vođenje evidencije o primljenim i riješenim zahtjevima; prijem i obrada drugih zahtjeva, predstavki, inicijativa i sl. podnesenih predsjedniku Opštine;
+- predlaže i izrađuje plan uvođenja novih programskih sistema; kontrola funkcionisanja automatizovane obrade podataka i preduzimanje mjera na poboljšanju i povećanju efikasnosti informacionog sistema u cjelini i po djelovima;
+- izrada planove za opremanje i preduzima mjere za održavanje računarske opreme;
+- staranja o funkcionisanju računarske mreže i razmjeni podataka u njoj;
+- vodi i ažurira web sajt opštine, objavljuje nacrte akata koje donosi Skupština i predsjednik opštine, objavljuje plan i program učešća lokalnog stanovništva u donošenju odluka i drugih akata, o organizovanju tribina, okruglih stolova, objavljuje izvještaje o rezultatima javne rasprave, sjednicama skupštine i donijetim aktima, aktivnostima koje preduzimaju organi opštine i dr.uz prethodnu saglasnost Službe za odnose sa javnošću I protokol;
+- pripremanje informativnih i drugih stručnih materijala za Skupštinu i predsjednika Opštine, izjašnjavanje na nacrte i predloge zakona i drugih propisa, pripremanje stručnih mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa, sprovođenje plana integriteta, ostvarivanje neposredne saradnje sa nevladinim organizacijama, iz nadležnosti organa;
+- priprema poslove iz oblasti zaštite i spašavanja koji su u nadležnosti predsjednika Opštine u skladu sa zakonom;
+- pripremu godišnjeg i drugih izvještaja za glavnog administratora o postupanju u upravnim stvarima iz svoje nadležnosti;
+- protokolarne poslove za potrebe predsjednika i potpredsjednika, na osnovu uputstava i koordinacije od strane nadležne Službe, u smislu asistiranja nadležnoj službi u obavljanju tih poslova;
+- pripremu akata za predsjednika radi realizacije obaveza utvrđenih na međunarodnim konferencijama i od strane regionalnih i drugih institucija;
+- koordinaciju i komunikaciju sa stranim partnerima, iseljenicima i njihovim organizacijama;
+- vodi evidenciju podataka o zbirki ličnih podataka i vrši zaštitu istih;
+- poslove u vezi slobodnog pristupa informacijama iz svog djelokruga rada u skladu sa zakonom;
+- priprema predlog Kadrovskog plana koji se odnosi na zaposlene u Službi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- priprema predlog Plana korišćenja godišnjih odmora za zaposlene u Službi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- izradu predloga Pravilnika o unutrašnjoj sistematizaciji i organizaciji;
+- odlučivanje o izboru, raspoređivanju i drugim poslovima iz oblasti zasnivanja i prestanka radnog odnosa službenika i namještenika u Službi;
+- odlučivanje o pokretanju internog i javnog oglasa radi popune radnih mjesta;
+- ocijenjivanje rada i rezultata rada zaposlenih u Službi;
+- planiranje i odlučivanje o stručnom osposobljavanju i usavršavanju službenika i namještenika, kao i posebnom stručnom usavršavanju i ugovaranju u vezi sa istim, u toku radnog odnosa zaposlenog;
+- nadzor i kontrolu rada zaposlenih u Službi, podnošenje inicijative za sprovođenje disciplinskog postupka, kao i vršenje drugih disciplinskih ovlašćenja predviđenih zakonom;
+- nadzor i kontrolu pravilnog korišćenja imovine i sredstava za rad u skladu sa zakonom i posebnim opštinskim propisima;
+- obezbjeđenje učešća javnosti u donošenju akata od zajedničkog interesa i ostalim aktima i aktivnostima u skladu sa zakonskim i opštinskim propisima;
+- pripremu i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština i predsjednik Opštine;
+- poslove pribavljanja i obrade podataka po službenoj dužnosti iz službenih evidencija i registara koje vodi Služba odnosno drugi nadležni organ u skladu sa zakonom, za potrebe odlučivanja po zahtjevu stranke;
+- druge poslova iz svog djelokruga u skladu sa zakonom i drugim propisima;
+- druge poslove koje odredi predsjednik Opštine. "
