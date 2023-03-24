@@ -1,0 +1,3 @@
+# Član 1
+## O IZMJENI NAREDBE ZA PREDUZIMANjE PRIVREMENIH MJERA ZA SPRJEČAVANjE UNOŠENjA U ZEMLjU, SUZBIJANjE I SPRJEČAVANjE PRENOŠENjA NOVOG KORONAVIRUSA
+U Naredbi za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa ("Službeni list CG", br. 80/21, 84/21, 90/21, 91/21, 96/21, 102/21, 107/21, 112/21, 118/21, 120/21, 124/21, 133/21, 141/21, 3/22, 6/22, 12/22, 18/22, 24/22, 26/22, 32/22, 38/22, 45/22, 49/22, 53/22, 58/22, 64/22, 68/22, 73/22, 82/22, 90/22, 95/22, 99/22, 104/22, 111/22, 118/22, 122/22, 126/22, 131/22, 139/22, 151/22, 4/23, 11/23, 16/23, 21/23 i 28/23) u članu 2 riječi: "do 24. marta" zamjenjuju se riječima: "do 7. aprila".
