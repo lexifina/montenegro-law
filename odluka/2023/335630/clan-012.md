@@ -1,0 +1,3 @@
+# Član 12
+U članu 86 stav 4 se nakon riječi: "Sudskom savjetu" dodaju riječi: "iz razloga koji predstavljaju lakše, teže i najteže disciplinske prekršaje iz člana 108 Zakona o sudskom savjetu i sudijama".
+U članu 86 se poslije stava 4 dodaje novi stav koji glasi: "Komisija za pritužbe će zahtjevati od podnosioca pritužbe koja sadrži neki formalni nedostatak zbog kojeg se po njoj ne može postupiti ili je nerazumljiva ili nepotpuna, da u roku od tri dana od dana prijema zahtjeva, otkloni uočene nedostatke, uz upozorenje da ukoliko u ostavljenom roku ne postupi po zahtjevu pritužba neće biti razmatrana".
