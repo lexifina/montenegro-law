@@ -1,0 +1,2 @@
+# Član 2
+Urbanističku parcelu broj UP 3 u zoni "G", u skladu sa DUP-om "Ilino", pored zemljišta opisanog u članu 1 stavu 1 odluke, čini: katastarska parcela broj 4812/3 površine 360m2 iz l.n. broj 1863,svojina u obimu 1/1"SPACE INVEST" DOO BAR, dio katastarske parcele broj 4812/2 u površini od 110m2 iz l.n.br. 4696 KO Novi Bar, svojina u obimu prava 1/1 Šušter Zorana i dio katastarske parcele broj 4811/1 u površini od 215m2 iz l.n.br. 4507 KO Novi Bar, susvojina u obimu od po 1/3 Šušter Dragana, Šušter Nikole i Šušter Zorana.
