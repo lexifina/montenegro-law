@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se sadržina i obrazac službene legitimacije koja se, saglasno članu 31 stav 1 Zakona o vojno-obavještajnim i bezbjednosnim poslovima (u daljem tekstu: Zakon), izdaje zaposlenim i profesionalnim vojnim licima postavljenim u Obavještajno-bezbjednosnom direktoratu (u daljem tekstu: ovlašćena službena lica) i sadržina i obrazac službene legitimacije i izgled značke koje se, saglasno članu 31 stav 2 Zakona, izdaju ovlašćenim službenim licima.

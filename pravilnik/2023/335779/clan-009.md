@@ -1,0 +1,3 @@
+# Član 9
+Značka ovlašćenog službenog lica u obliku je štita dimenzija 70 x 70 mm, sa obodom srebrne boje, širine 3 mm i natpisom "OBAVJEŠTAJNO-BEZBJEDNOSNI DIREKTORAT", ispisanim latiničnim pismom slovima sive boje, ispod kojeg je stilizovani dvoglavi orao sa krunom zlatne boje, uzdignutih krila u poletu sa bakljom u desnoj i globusom u lijevoj kandži. Na prsima orla je štit crvene boje, sa zlatnim obodom, širine 0,5 mm, u čijem središtu je bijeli krst. Ispod orla se ukrštaju sablje čiji se vrhovi naslanjaju na unutrašnju ivicu oboda štita. U donjem dijelu štita je pločica sa serijskim brojem značke.
+Izgled značke iz stava 1 ovog člana dat je na obrascu koji je sastavni dio ovog pravilnika (Obrazac 5).
