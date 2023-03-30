@@ -1,0 +1,2 @@
+Na osnovu člana 115, 116 i 222 Zakona o planiranju prostora i izgradnji objekata ("Sl. list CG" br. 64/17, 44/18 i 63/18, 011/19, 082/20, 086/22, 004/23), Pravilnika o bližim uslovima za postavljanje, odnosno građenje privremenih objekata, uređaja i opreme ("Sl. list CG" br. 43/18, 76/18, 76/19), i člana 34 stav 1 tačka 4 Statuta Opštine Zeta ("Službeni list Crne Gore- Opštinski propisi", br.012/23), Skupština opštine Zeta, na V sjednici održanoj dana 30.03.2023. godine, donijela je-
+ODLUKU
