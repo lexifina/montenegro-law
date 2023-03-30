@@ -1,0 +1,2 @@
+Na osnovu člana 56 stav 1 tačka 1 Zakona o zaštiti podataka o ličnosti Crne Gore ("Službeni list CG", br. 79/08, 70/09, 44/12 i 22/17) i člana 15 stav 1 tačka 1 Statuta Agencije za zaštitu ličnih podataka i slobodan pristup informacijama, Savjet Agencije za zaštitu ličnih podataka i slobodan pristup informacijama, na XXV sjednici održanoj dana 23.12.2022. godine, donio je
+PRAVILA O IZMJENI I DOPUNI PRAVILA O RADU AGENCIJE ZA ZAŠTITU LIČNIH PODATAKA I SLOBODAN PRISTUP INFORMACIJAMA
