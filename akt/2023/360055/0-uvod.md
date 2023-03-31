@@ -1,0 +1,3 @@
+Na osnovu člana 44 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 02/18, 34/19, 38/20, 50/22 i 84/22) i člana 35 Statuta opštine Tivat ("Sl.list CG-Opštinski propisi", br. 24/18 i 09/20), Skupština opštine Tivat na sjednici održanoj dana 31.03.2023.godine, donijela je
+Z A K Lj U Č A K
+o usvajanju Plana i programa rada DOO "Komunalno Kotor" - RJ Azil za zaštitu napuštenih i izgubljenih pasa za 2023. godinu
