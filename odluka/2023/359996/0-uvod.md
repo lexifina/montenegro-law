@@ -1,0 +1,2 @@
+Na osnovu čl. 53 stav 1 alineja 2.Zakona o lokalnoj samoupravi (Sl.list Crne Gore br. 02/18,34/19 38/20), čl. 62.stav 1.alineja 2 Statuta opštine Andrijevica ("Sl.list Crne Gore- Opštinski propisi" br. 32/18) i čl. 23. Poslovnika o radu Skupštine opštine Andrijevica("Sl.list Crne Gore-Opštinski propisi" br. 45/18), Skupštine opštine Andrijevica na svojoj sjednici od 24.3.2023. godine konstatuje prestanak mandata Sekretaru Skupštine Tomislavu Kneževiću i donosi:
+ODLUKU
