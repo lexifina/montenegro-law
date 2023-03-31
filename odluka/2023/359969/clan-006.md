@@ -1,0 +1,2 @@
+# Član 6
+Obavezuju se kupci da u roku od 30 ( trideset) dana od dana zaključenja notarskog zapisa Ugovora o prodaji zemljišta, sa Opštinom Bar zaključe poseban ugovor kojim će se regulisati međusobna prava i obaveze u vezi sa naknadom za komunalno opremanje građevinskog zemljišta saglasno Odluci o naknadi za komunalno opremanje građevinskog zemljišta ("Službeni list CG - Opštinski propisi", br. 38/20).
