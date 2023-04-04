@@ -1,0 +1,3 @@
+# Član 1
+Statutom Agencije za nadzor osiguranja (u daljem tekstu: Agencija) uređuju se sljedeća pitanja: sjedište i djelatnost Agencije, unutrašnja organizacija Agencije, način rada, odlučivanja i nadležnosti organa Agencije, način objavljivanja godišnjeg finansijskog iskaza i druga pitanja od značaja za obavljanje djelatnosti Agencije.
+Agencija je regulatorni organ sa svojstvom pravnog lica osnovana Zakonom o osiguranju (»Službeni list Republike Crne Gore«, br. 78/06, u daljem tekstu: Zakon) radi zaštite interesa osiguranika i drugih korisnika osiguranja, radi obezbjeđenja stabilnosti i razvoja djelatnosti zasnovanog na zdravoj konkurenciji i jednakim uslovima poslovanja.
