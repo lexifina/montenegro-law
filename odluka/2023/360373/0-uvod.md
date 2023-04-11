@@ -1,0 +1,2 @@
+Na osnovu člana 54 Statuta opštine Tuzi ("Službeni list Crne Gore - opštinski propisi", br. 24/19, 05/20, 51/22, 55/22), čl. 4 i 9 Odluke o obrazovanju radnih tijela Skupštine opštine Tuzi ("Službeni list Crne Gore - opštinski propisi", br. 15/19), a u skladu sa listom kandidata koju je podnio Odbor za izbor i imenovanja, Skupština opštine Tuzi, na sjednici održanoj 11.04.2023. godine, je donijela
+ODLUKU O IMENOVANJU PREDSJEDNIKA I ČLANOVA ODBORA ZA STATUT I PROPISE
