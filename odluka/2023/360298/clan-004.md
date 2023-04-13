@@ -1,0 +1,2 @@
+# Član 4
+Za zaposlenečija su zvanja utvrđena u okviru kategorija visoki rukovodni kadar primjenjuje se koeficijenti složenosti poslova utvrđen Zakonom o zaradama zaposlenih u javnom sektoru,a za zaposlene čija su zvanja utvrđena u okviru kategorija ekspertsko-rukovodni kadar,ekspertski kadar,izvršni kadar i namještenici,neposredno se primjenjuju koeficijenti složenosti poslova utvrđeni Granskim kolektivnim ugovorom za oblast uprave i pravosuđa.
