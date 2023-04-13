@@ -1,0 +1,14 @@
+Na osnovu člana 9 Zakona o strateškoj procjeni uticaja na životnu sredinu ("Službeni list RCG", broj 80/05 i "Službeni list CG", br. 59/11 i 52/16), Ministarstvo ekologije, prostornog planiranja i urbanizma donijelo je
+ODLUKU O IZRADI STRATEŠKE PROCJENE UTICAJA IZMJENA I DOPUNA PROSTORNO-URBANISTIČKOG PLANA OPŠTINE BERANE NA ŽIVOTNU SREDINU
+1. Pristupa se izradi Strateške procjene uticaja Izmjena i dopuna Prostorno-urbanističkog plana Opštine Berane na životnu sredinu.
+2. Planski osnov za izradu Izmjena i dopuna Prostornog-urbanističkog plana Opštine Berane je: Prostorni plan Crne Gore do 2020 ("Službeni list CG", br. 24/08 i 44/12), Prostorni plan posebne namjene "Bjelasica i Komovi" ("Službeni list CG", broj 4/11), važeća prostorno planska dokumentacija na državnom i lokalnom nivou, Nacionalne sektorske strategije i master planovi u oblastima održivog razvoja, turizma, saobraćaja, energetike, upravljanja otpadom i drugi, kao i bazne studije rađene za potrebe izrade novog Prostornog plana Crna Gore (21 bazna studija).
+3. Izmjene i dopune Prostorno-urbanističkog plana izrađuju se i donose za cjelokupnu teritoriju Opštine Berane.
+4. S obzirom da djelovi Opštine Berane pripadaju Nacionalnom parku "Biogradska Gora", slivnom području rijeke Lim i da značajni dio zahvata planinu Bjelasica, kontrolisana upotreba prostora je od izuzetnog značaja, kako ne bi došlo do ugrožavanja prirodnih vrijednosti prostora.
+5. Prostor Opštine Berane treba razvijati u skladu sa principima održivog razvoja i neophodno je stvoriti organizovanu plansku upotrebu - korišćenje, uređenje i zaštitu u skladu sa prirodnim i stvorenim potencijalima i ograničenjima.
+6. O izvršenoj Strateškoj procjeni izradiće se Izvještaj o strateškoj procjeni uticaja na životnu sredinu (u daljem tekstu: Izvještaj) u skladu sa članom 15 Zakona o strateškoj procjeni uticaja na životnu sredinu.
+7. Izvještajem treba da se da poseban osvrt na identifikaciju negativinih uticaja, propisivanje mjera zaštite i preporuka za razmatranje i izbor najboljeg varijantnog rješenja, a poseban akcenat treba biti na očuvanju biodiverziteta, prirodnih i kulturnih dobara, kao i zaštiti zemljišta i očuvanju prirodnog pejzaža.
+8. Ministarstvo ekologije, prostornog planiranja i urbanizma, kao organ nadležan za pripremu predmetnog plana odlučuje o izboru nosioca izrade Izvještaja u postupku javnih nabavki.
+9. U postupku izrade Strateške procjene obezbijediće se učešće javnosti, zainteresovanih organa i organizacija i organizovati javna rasprava u skladu sa Zakonom o strateškoj procjeni uticaja na životnu sredinu.
+10. Izvještaj će se izraditi u roku predviđenom za izradu Izmjena i dopuna Prostorno- urbanističkog plana.
+11. Finansijska sredstva potrebna za izradu Izvještaja obezbijediće se iz Budžeta Crne Gore u iznosu od 7.990,00 eura bez PDV.
+12. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
