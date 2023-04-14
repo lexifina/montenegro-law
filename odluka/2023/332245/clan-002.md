@@ -1,0 +1,2 @@
+# Član 2
+Svrha eksproprijacije nepokretnosti iz člana 1 ove odluke je rješavanje imovinsko-pravnih odnosa na nepokretnostima u okviru KO Dobra Voda, KO Pečurice, KO Velje Selo, KO Dabezići i KO Pelinkovići na teritoriji Opštine Bar, kao i KO Leskovac i KO Krute Vladimirske na teritoriji Opštine Ulcinj, a radi rekonstrukcije regionalnog puta R-29 Bar 2 (priključak na M-2.4 ispred tunela Ćafe) - Kamenički most - Krute.
