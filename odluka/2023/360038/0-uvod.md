@@ -1,0 +1,2 @@
+Na osnovu člana 35 st. 2 Statuta Opštine Zeta ("Službeni list Crne Gore-Opštinski propisi", br. 012/23 od 13.03.2023. godine) i člana 20 Odluke o obrazovanju, načinu rada o odlučivanja radnih tijela Skupštine Opštine u okviru Glavnog grada-Golubovci ("Službeni list Crne Gore-Opštinski propisi", br. 043/19), Skupština opštine Zeta, na V sjednici održanoj dana 30.03.2023. godine, donijela je -
+ODLUKU
