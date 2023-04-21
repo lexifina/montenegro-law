@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Sl. list CG", br. 25/19, 49/22 i 152/22), a u vezi sa člana 7 stav 1 tačka 1 Zakona o finansiranju lokalne samouprave ("Sl. list CG", br. 03/19 i 86/22), i člana 85 stav 1 tačka 2 i 8 Statuta opštine Gusinje ("Službeni list Crne Gore - Opštinski propisi", br. 03/19 i 24/21),Skupština opštine Gusinje na sjednici održanoj 13.04.2023.godine,donijela je:
+ODLUKU
