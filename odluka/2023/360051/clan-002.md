@@ -1,0 +1,2 @@
+# Član 2
+Ovlašćuje se Predsjednik opštine da nakon stupanja odluke na snagu raskine Ugovor o učešću Opštine Tivat u izgradnji objekta kolektivnog stanovanja za potrebe penzionera sa teritorije opštine Tivat koji je 26.01.2021.god. zaključen sa NVO "Udruženje penzionera Tivat" pod UZZ br.19/2021 a radi stvaranja uslova za upis Opštine Tivat na kat.parceli 357/1 KO Nikovići i kat.parcelama 523//1 i 538/3 KO Radovići .
