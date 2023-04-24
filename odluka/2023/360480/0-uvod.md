@@ -1,0 +1,2 @@
+Na osnovu člana 38, stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Sl. list CG" broj 02/18, 34/19, 39/20, 50/22 i 84/22) člana 33 tačka 22 Statuta Opštine Plav ("Sl. list CG - Opštinski propisi" broj 44/18 ) člana 68 Zakona o privrednim društvima ("Sl. list RCG", br. 6/02, "Sl. list CG" br. 17/07, 80/08, 40/10, 73/10, 36/11 i 40/11) i člana 21 i člana 22 Statuta DOO "Komunalne djelatnosti" Plav ("Sl. list - Opštinski propisi" br. 12/15) Skupština opštine Plav, na sjednici održanoj dana 24.04.2023. godine, donijela je
+O D L U K U
