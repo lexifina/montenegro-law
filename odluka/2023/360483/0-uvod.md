@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 30 i člana 44 stav 1 i 3 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18 od 10.01.2018, 034/19 od 21.06.2019, 038/20 od 25.04.2020, 050/22 od 09.05.2022, 084/22 od 01.08.2022) i člana 33 stav 1 tačka 30 u vezi sa članom 14 stav 1 tačka 13 Statuta Opštine Plav ("Službeni list Crne Gore - Opštinski propisi", br. 044/18 od 04.12.2018), Skupština opštine Plav, na sjednici održanoj 24.04.2023.godine, donijela je
+O D L U K U
