@@ -1,0 +1,53 @@
+# Član 1
+Opština Kotor prenosi pravo raspolaganja na nepokretnosti Vladi Crne Gore, radi ostvarivanja javnog interesa-rekonstrukcije magistralnog puta M-2 Debeli Brijeg-Tivat-Budva i to na:
+-kat.parc.395/2, po kulturi kanali, površine 38 m2,
+-kat.parc.394/4, po kulturi kanali, površine 330 m2,
+-kat.parc.63/2, po kulturi nekategorisani putevi, površine 46 m2,
+-kat.parc.986/2, po kulturi nekategorisani putevi, površine 266 m2,
+-kat.parc.1046/2, po kulturi nekategorisani putevi, površine 27 m2,
+-kat.parc.1192/2, po kulturi nekategorisani putevi, površine 13 m2,
+-kat.parc.1081/2, po kulturi nekategorisani putevi, površine 52 m2,
+-kat.parc.486/2, po kulturi nekategorisani putevi, površine 8 m2,
+-kat.parc.1057/6, po kulturi livada 2.klase, površine 48 m2,
+-kat.parc.947/2, po kulturi pašnjak 1.klase, površine 46 m2,
+-kat.parc.954/4, po kulturi šume 3.klase, površine 141 m2,
+-kat.parc.954/5, po kulturi šume 3.klase, površine 991 m2,
+-kat.parc.387/12, po kulturi pašnjak 1.klase, površine 60 m2 i
+-kat.parc.386/11, po kulturi livada 2.klase, površine 4 m2, sve KO Lastva;
+-kat.parc.296/2, po kulturi pašnjak 3.klase, površine 478 m2,
+-kat.parc.93/2, po kulturi nekategorisani putevi, površine 8 m2,
+-kat.parc.2460/2, po kulturi nekategorisani putevi, površine 28 m2
+-kat.parc.2460/3, po kulturi nekategorisani putevi, površine 620 m2,
+-kat.parc.86/2, po kulturi nekategorisani putevi, površine 19 m2,
+-kat.parc.1/2, po kulturi nekategorisani putevi, površine 25 m2 i
+-kat.parc.342/2, po kulturi nekategorisani putevi, površine 125 m2, sve KO Kubasi;
+-kat.parc.577/2, po kulturi javni putevi, površine 3 m2 i
+-kat.parc.600/2, po kulturi javni putevi, površine 18 m2, sve upisano u KO Šišići;
+-kat.parc.878/4, po kulturi nekategorisani putevi, površine 274 m2,
+-kat.parc.1120/2, po kulturi nekategorisani putevi, površine 67 m2,
+-kat.parc.878/5, po kulturi nekategorisani putevi, površine 5 m2,
+-kat.parc.878/6, po kulturi nekategorisani putevi, površine 40 m2 i
+-kat.parc.755/2, po kulturi potok, površine 35 m2, sve upisano u KO Glavati;
+-kat.parc.748/2, po kulturi nekategorisani putevi, površine 89 m2 i
+-kat.parc.749/2, po kulturi nekategorisani putevi, površine 313 m2, sve KO Pelinovo;
+-kat.parc.964/5, po kulturi pašnjak 3.klase, površine 14 m2 i
+-kat.parc.963/3, po kulturi nekategorisani putevi, površine 905 m2, sve upisano u KO Kavač;
+-kat.parc.132/2, po kulturi nekategorisani putevi, površine 128 m2, upisano u KO Kovači;
+-kat.parc.31/2, po kulturi nekategorisani putevi, površine 58 m2,
+-kat.parc.393/2, po kulturi nekategorisani putevi, površine 104 m2,
+-kat.parc.461/2, po kulturi nekategorisani putevi, površine 150 m2,
+-kat.parc.485/2, po kulturi nekategorisani putevi, površine 28 m2 i
+-kat.parc.485/3, po kulturi nekategorisani putevi, površine 341 m2, sve upisano u KO Pobrđe i
+-kat.parc.319/8, po kulturi nekategorisani putevi, površine 31 m2,
+-kat.parc.278/8, po kulturi pašnjak 2.klase, površine 62 m2,
+-kat.parc.278/9, po kulturi pašnjak 2.klase, površine 18 m2,
+-kat.parc.268/2, po kulturi prirodno neplodno zemljište, površine 63 m2,
+-kat.parc.1007/4, po kulturi nekategorisani putevi, površine 147 m2,
+-kat.parc.436/2, po kulturi nekategorisani putevi, površine 3 m2,
+-kat.parc.413/2, po kulturi nekategorisani putevi, površine 67 m2,
+-kat.parc.500/2, po kulturi nekategorisani putevi, površine 25 m2,
+-kat.parc.278/5, po kulturi pašnjak 2.klase, površine 167 m2,
+-kat.parc.278/6, po kulturi pašnjak 2.klase, površine 1 m2,
+-kat.parc.278/7, po kulturi pašnjak 2.klase, površine 10 m2,
+-kat.parc.320/5, po kulturi pašnjak 2.klase, površine 68 m2 i
+-kat.parc.320/7, po kulturi pašnjak 2.klase, površine 1 m2, sve KO Sutvara, a koje nepokretnosti su u katastarskom operatu upisane na ime Države Crne Gore u obimu 1/1 svojina i na ime Opštine Kotor u obimu 1/1 raspolaganje.
