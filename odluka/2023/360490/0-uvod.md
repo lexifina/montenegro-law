@@ -1,0 +1,2 @@
+Na osnovu člana 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22, 84/22) a u vezi sa članom 53 stav 1 tačka 22 Statuta Opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 24/19, 05/20, 51/22, 55/22) i članom 6 stav 1 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija/Ujësjellësi dhe kanalizimi" Tuzi ("Službeni list Crne Gore", br. 40/21) Predsjednik Opštine Tuzi, donio je
+O D L U K U
