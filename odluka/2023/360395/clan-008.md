@@ -1,0 +1,2 @@
+# Član 8
+Ova odluka stupa na snagu danom objavljivanja u "Službenom listu Crne Gore - Opštinski propisi", a primjenjivaće se od 01.05.2023. godine.
