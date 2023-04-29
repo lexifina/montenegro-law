@@ -1,0 +1,2 @@
+# Član 2
+Nepokretnosti iz člana 1 stav 1 ove odluke prodaje se uz naknadu od 60 €/m2, što ukupno iznosi (131m2+78m2)*60e/m2=209m2x60e/m2=12,540.00 eura, shodno opštinskoj Odluci o građevinskom zemljištu(,,Službeni list Crne Gore-opštinski propisi",br.014/15) i Izvještaju o procjeni vrijednosti nepokretne imovine i ovlašćenog procjenjivača Dragomira Radenovića iz Plava broj 04-5710 od 22.12.2022.godine.
