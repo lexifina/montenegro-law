@@ -1,0 +1,7 @@
+# Član 5
+## Postupanje nadležnog organa po prijemu rješenja o uklanjanju bespravnog objekta osnovnog stanovanja
+Organ opštine nadležan za poslove obezbjeđivanja alternativnog smještaja (u daljem tekstu: nadležni organ) po službenoj dužnosti pokreće postupak obezbjeđivanja alternativnog smještaja u roku od osam dana od dana prijema rješenja o uklanjanju bespravnog objekta osnovnog stanovanja.
+Nadležni organ dužan je da radi vođenja postupka zatraži podatke od organa nadležnog za vođenje postupka legalizacije, odnosno da zahtijeva dostavljanje rješenja o odbijanju zahtjeva za legalizaciju bespravnog objekta, dokaze da je u pitanju objekat osnovnog stanovanja u skladu sa zakonom kojim se uređuje postupak legalizacije i druge podatke od značaja za vođenje postupka.
+Nakon pribavljanja potrebne dokumentacije, nadležni organ treba da pozove vlasnika bespravnog objekta, saopšti na koji način taj vlasnik može da ostvari pravo na alternativni smještaj i pozove ga da se na zapisniku izjasni o ponuđenom načinu obezbjeđivanja alternativnog smještaja.
+Ako vlasnik bespravnog objekta odbije da se izjasni na zapisnik o ponuđenoj vrsti alternativnog smještaja, nadležni organ je dužan da, bez odlaganja, donese rješenje o određivanju vrste alternativnog smještaja koja je na raspolaganju opštini.
+Nadležni organ dužan je da rješenje iz stava 4 ovog člana, bez odlaganja, dostavi nadležnom inspekcijskom organu radi izvršenja rješenja o uklanjanju bespravnog objekta.
