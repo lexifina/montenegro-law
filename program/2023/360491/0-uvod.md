@@ -1,0 +1,3 @@
+Na osnovu člana 20 stav 1 Zakona o poljoprivredi i ruralnom razvoju ("Službeni list Crne Gore" br. 56/09, 18/11, 40/11, 34/14, 1/15, 30/17 i 51/17), a u vezi sa članom 99 stav 1 tačka 18 Statuta Opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 24/10, 05/20, 51/22 i 55/22), kao i člana 3, 4 i 5 Odluke o podsticajima i investiranju u razvoj poljoprivrede Opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 20/23) Predsjednik Opštine Tuzi donosi
+P R O G R A M M J E R A za realizaciju sredstava za razvoj poljoprivredne proizvodnje u Opštini Tuzi za 2023.
+godinu - Agrobudžet
