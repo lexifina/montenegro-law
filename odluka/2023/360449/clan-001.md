@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom organizuje se lokalna uprava Opštine Tuzi (u daljem tekstu: opština), obrazuju organi lokalne uprave (u daljem tekstu: organi uprave), posebne službe i službe koje vrše zajedničke i stručne poslove za potrebe opštine (u daljem tekstu: stručne službe), uređuje njihov djelokrug i način rada, utvrđuju kriterijumi za unutrašnju organizaciju i sistematizaciju organa uprave i službi i druga pitanja od značaja za rad lokalne uprave opštine.

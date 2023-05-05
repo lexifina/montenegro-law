@@ -1,0 +1,2 @@
+# Član 42
+Danom stupanja na snagu ove Odluke nastavljaju da rade u okviru djelokruga utvrđenom ovom odlukom :Sekretarijat za lokalnu samoupravu, Sekretarija za finansije, Sekretarijat za poljoprivredu i ruralni razvoj, Sekretarijat za urbanizam, Sekretarijat za imovinu, Služba predsjednika opštine, Služba Glavnog administratora, Služba Glavnog gradskog arhitekte, Služba Kominalne policije i Komunalne inspekcije i Služba zaštite i spašavanaja.

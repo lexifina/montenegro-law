@@ -1,0 +1,3 @@
+# Član 46
+Danom stupanja na snagu Odluke o organizaciji i načinu rada lokalne uprave Opštine Tuzi, Predsjednik opštine utvrdiće prestanak mandata straješini organa čiji se organ ukida.
+Predsjednik opštine utvrdiće prestanak mandata starješini organa koji je prestao da postoji danom stupanja na snagu Odluke o organizaciji i načinu rada lokalne uprave Opštine Tuzi i imenovaće vršioca dužnosti novoformiranog organa Sekretarijatra za razvoj i projekte, koji je dužan da u roku od 15 dana donese akt o unutrašnjoj organizaciji i sistematizaciji radnih mjesta i dostavi predsjedniku opštine na saglasnost.
