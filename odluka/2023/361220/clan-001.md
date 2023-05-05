@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o preduzimanju privremenih mjera usljed pojave epidemije zarazne bolesti COVID-19 od većeg epidemiološkog značaja ("Službeni list CG", br. 26/22, 32/22, 38/22, 45/22, 49/22, 53/22, 58/22, 64/22, 68/22, 73/22, 82/22, 90/22, 95/22, 99/22, 104/22, 111/22, 118/22, 122/22, 126/22, 131/22, 139/22, 151/22, 4/23, 11/23, 16/23, 21/23, 28/23, 34/23, 39/23 i 43/23) u članu 3 riječi: "do 5. maja" zamjenjuju se riječima: "do 19. maja".
