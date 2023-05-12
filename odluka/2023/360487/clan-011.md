@@ -1,0 +1,60 @@
+# Član 11
+Sekretarijat za komunalno-stambene poslove, saobraćaj i vode vrši poslove lokalne uprave koji se odnose na:
+1) uređivanje odnosa i obezbjeđenje razvoja obavljanja komunalne djelatnosti;
+2) snabdijevanje vodom za piće, odvođenje otpadnih i atmosferskih voda, snabdijevanje toplotnom energijom, javna čistoća, javna rasvjeta, uređivanje i održavanje parkova i drugih javnih površina, održavanje i uređivanje grobalja;
+3) prati realizaciju investicionih programa u ovoj oblasti koje finansira Opština;
+4) učestvuje u izradi Nacrta plana upravljanja otpadom;
+5) izdaje odobrenje i uslove za prokopavanje javnih zelenih površina;
+6) izdaje odobrenja za eksploataciju mineralnih sirovina u skladu sa zakonom i posebnom odlukom lokalne uprave:
+7) regulaciju i održavanje riječnih korita i riječnih kupališta i drugih javnih objekata;
+8) vodi evidenciju naziva i granica naselja, ulica i trgova i određuje brojeve zgrada;
+9) vodi evidenciju komunalnih i otpadnih voda, korisnika i zagađivača vodoprivrednih objekata i postrojenja;
+10) pripremu Odluka kojima se uređuju poslovi razvoja, izgradnje, rekonstrukcije, održavanja, zaštite, korišćenja i upravljanja opštinskim putevima (lokalni putevi i ulice i naseljima), i utvrđivanje mjera za njihovu kategorizaciju;
+11) pripremu Odluka kojima se određuju nekategorisani putevi, uređuje način njihovog finansiranja, održavanja, izgradnje, rekonstrukcije i korišćenja;
+12) pripremu Odluka kojima se uređuje javni prevoz putnika u gradskom i prigradskom linijskom i vanlinijskom saobraćaju;
+13) predlaže Projekat regulacije saobraćaja i izmjena u režimu saobraćaja;
+14) izdaje odobrenja za privremena parkirališta i uslove za parkirališta na kojima se vrši naplata naknade za parkiranje vozila ili naknade za parkiranje i čuvanje vozila;
+15) izdaje odobrenja i uslove za privremeno rezervisanje mjesta na parkiralištu ili drugim javnim površinama pravnim licima;
+16) izdaje saobraćajne saglasnosti (saglasnost na poseban linijski prevoz, saglasnost na izmjenu reda vožnje i dr.);
+17) vodi evidenciju izdatih saglasnosti;
+18) prati realizaciju radova na održavanju i zaštiti opštinskih puteva;
+19) izdaje odobrenje za potpunu ili djelimičnu zabranu saobraćaja i izmjene režima saobraćaja za vrijeme izvođenja radova na saobraćajnicama;
+20) izdaje odobrenje za kretanje motornih vozila u zabranjenim zonama;
+21) određuje autobuska i taksi stajališta;
+22) izdaje odobrenja za postavljanje autobuskih nadstrešnica na stajalištima;
+23) donosi Plan linija i raspisuje i sprovodi konkurs za izbor prevoznika za obavljanje javnog prevoza putnika u gradskom i prigradskom linijskom saobraćaju;
+24) izdaje privremeno odobrenje drugom prevozniku za obavljanje javnog prevoza putnika u gradskom i prigradskom linijskom saobraćaju za grupu linija od koje je prevoznik sam odustao, ili koja mu je oduzeta;
+25) utvrđuje, registruje i ovjerava red vožnje po pojedinim linijama;
+26) prati cijene usluga prevoza u linijskom i vanlinijskom prevozu putnika;
+27) obavlja pregled auto-taksi vozila u pogledu ispunjavanja estetsko-eksploatacionih uslova;
+28) prati stanje izgradnje, održavanja, korišćenja i zaštite opštinskih puteva i komunalnih objekata iz ove oblasti;
+29) učestvuje u pripremi i izradi godišnjih programa izgradnje i održavanja saobraćajne - infrastrukture;
+30) vrši upravni nadzor nad radom pravnih lica, čiji je osnivač opština, iz stambeno- komunalne oblasti čiji je osnivač Opština, kao i druge poslove od javnog interesa u tim oblastima;
+31) daje mišljenje i priprema predlog akta o davanju saglasnosti na statut pravnih lica koja obavljaju komunalne djelatnosti čiji je osnivač Opština, odnosno na statut drugih pravnih lica kojima je povjereno obavljanje ovih poslova;
+32) prati cijene usluga u ovim oblastima i daje mišljenje i priprema predlog akta o davanju saglasnosti na iste u skladu sa propisima;
+33) daje mišljenje i predlaže mjere u vezi sa informativnim i drugim materijalima pravnih lica iz oblasti komunalnih djelatnosti, a koji se dostavljaju Skupštini i Predsjedniku Opštine:
+34) priprema propis kojim se uređuje kućni red u stambenoj zgradi;
+35) rješava u slučaju bespravnog useljenja u zajedničke ili posebne djelove stambene zgrade;
+36) prati organizovanje organa u stambenim zgradama i preduzima mjere za organizovanje;
+37) vodi registar organa stambenih zgrada i predlaže imenovanje privremenog upravnika stambene zgrade;
+38) vrši nadzor nad izvođenjem hitnih radova kada ove radove obezbijeđuje Opština u skladu sa zakonom, kao i nadzor nad vođenjem registra vlasnika stambene zgrade i njenih posebnih djelova koji vodi javna služba;
+39) priprema stručna mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštih akata Skupštine i za autentična tumačenja propisa Skupštine u ovim oblastima;
+40) sprovodi upravni postupak po zahtjevu za izdavanje vodnih uslova, vodne saglasnosti, vodne dozvole, potvrde o ispunjenosti uslova utvrđenih vodnom saglasnošću i vodnog naloga iz svoje nadležnosti;
+41) u zakonom predviđenim slučajevima privremeno ograničava ili obustavlja vodno pravo;
+42) određuje granice vodnog dobra od lokalnog značaja i daje predloge za upis u katastar nepokretnosti;
+43) određuje status, odnosno prestanak statusa javnog vodnog dobra od lokalnog značaja i predlaže njegov upis, odnosno brisanje u katastru nepokretnosti;
+44) određuje područja na kojima je opšta upotreba javnog vodnog dobra od lokalnog značaja zabranjena ili uslove ograničenja, kao i način njegovog korišćenja na tom području;
+45) određuje obim i vrstu istražnih radova za izvorišta površinskih i podzemnih voda iz svoje nadležnosti;
+46) donosi rješenje o zaštiti izvorišta površinskih i podzemnih voda iz svoje nadležnosti;
+47) utvrđuje poplavna područja za vode od lokalnog značaja;
+48) priprema program sanacije od posledica štetnog dejstva voda i isti izvršava;
+49) vodi registar voda i vodnu knjigu;
+50) stara se o izgradnji, rekonstrukciji, održavanju i zaštiti vodnih objekata i objekata za upotrebu i korišćenje voda koje finansira jedinica lokalne samouprave u skladu sa zakonom i drugim propisima;
+51) obavlja poslove iz svoje nadležnosti u postupku davanja koncesija na vodnom dobru i vodi evidenciju ugovora o koncesijama na vodnom dobru;
+52) izdaje saglasnost privrednom društvu ili preduzetniku, koji na teritoriji opštine vrši skupljanje i transport otpada, ili preko teritorije opštine vrši transport otpada;
+53) priprema predloge odluka i druge propise iz nadležnosti Sekretarijata;
+54) ostvaruje neposrednu saradnju sa nevladinim organizacijama povodom pitanja iz svoje nadležnosti u cilju realizacije programa u navedenim oblastima;
+54) vrši poslove u vezi slobodnog pristupa informacijama iz djelokruga Sekretarijata, koji su utvrđeni Zakonom o slobodnom pristupu informacijama;
+55) pripremanje informacija za Skupštinu opštine i Predsjednika Opštine iz svoje nadležnosti;
+56) Vrši poslove koji se odnose na plan integriteta i plan rizika;
+57) druge poslove iz svog djelokruga, u skladu sa zakonom, odlukama Skupštine i Predsjednika Opštine.
