@@ -1,0 +1,27 @@
+# Član 1
+## O UTVRĐIVANjU JAVNOG INTERESA ZA NEPOTPUNU EKSPROPRIJACIJU NEPOKRETNOSTI RADI IZMJEŠTANjA ELEKTROENERGETSKE INFRASTRUKTURE U ZAHVATU KO ĆEKLIĆI, PRIJESTONICA CETINjE
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti radi izmještanja elektroenergetske infrastrukture u zahvatu KO Ćeklići, Prijestonica Cetinje, i to:
+1) kat. parcela br. 8778/1 KO Ćeklići, susvojina fizičkih lica Draganić (Rajko) Jakov i Draganić (Rajko) Vuk, u obimu za nepotpunu eksproprijaciju od 192m2,
+2) kat. parcela br. 8780/1 KO Ćeklići, susvojina fizičkih lica Draganić (Rajko) Jakov i Draganić (Rajko) Vuk, u obimu za nepotpunu eksproprijaciju od 105m2,
+3) kat. parcela br. 8782/2 KO Ćeklići, susvojina fizičkih lica Draganić (Rajko) Jakov i Draganić (Rajko) Vuk, u obimu za nepotpunu eksproprijaciju od 65m2,
+4) kat. parcela br. 8792/3 KO Ćeklići, svojina fizičkog lica Krivokapić (Boro) Miloš, u obimu za nepotpunu eksproprijaciju od 134m2,
+5) kat. parcela br. 8796/2 KO Ćeklići, svojina fizičkog lica Krivokapić (Boro) Miloš, u obimu za nepotpunu eksproprijaciju od 1m2,
+6) kat. parcela br. 8792/4 KO Ćeklići, svojina fizičkog lica Krivokapić (Boro) Miloš, u obimu za nepotpunu eksproprijaciju od 158m2,
+7) kat. parcela br. 8792/1 KO Ćeklići, svojina fizičkog lica Krivokapić (Boro) Miloš, u obimu za nepotpunu eksproprijaciju od 64m2,
+8) kat. parcela br. 8738/1 KO Ćeklići, susvojina fizičkih lica Mirković (Duško) Danilo, Mirković (Duško) Ivana, Mirković (Duško) Luka i Mirković (Milivoje) Nevenka, u obimu za nepotpunu eksproprijaciju od 187m2,
+9) kat. parcela br. 8739/1 KO Ćeklići, susvojina fizičkih lica Mirković (Duško) Danilo, Mirković (Duško) Ivana, Mirković (Duško) Luka i Mirković (Milivoje) Nevenka, u obimu za nepotpunu eksproprijaciju od 81m2,
+10) kat. parcela br. 8745/1 KO Ćeklići, svojina fizičkog lica Mirković (Božidar) Željko, u obimu za nepotpunu eksproprijaciju od 202m2,
+11) kat. parcela br. 8747 KO Ćeklići, svojina fizičkog lica Mirković (Božidar) Željko, u obimu za nepotpunu eksproprijaciju od 160m2,
+12) kat. parcela br. 8749/1 KO Ćeklići, svojina fizičkog lica Mirković (Božidar) Željko, u obimu za nepotpunu eksproprijaciju od 15m2,
+13) kat. parcela br. 8763/1 KO Ćeklići, svojina fizičkog lica Mirković (Dušan) Ilija, u obimu za nepotpunu eksproprijaciju od 182m2,
+14) kat. parcela br. 8789/1 KO Ćeklići, svojina fizičkog lica Mirković (Đorđije) Ivan, u obimu za nepotpunu eksproprijaciju od 307m2,
+15) kat. parcela br. 8790/1 KO Ćeklići, svojina fizičkog lica Mirković (Đorđije) Ivan, u obimu za nepotpunu eksproprijaciju od 103m2,
+16) kat. parcela br. 8750 KO Ćeklići, svojina fizičkog lica Mirković (Milovan) Radovan, u obimu za nepotpunu eksproprijaciju od 1m2,
+17) kat. parcela br. 8759/2 KO Ćeklići, svojina fizičkog lica Mirković (Nikola) Danilo, u obimu za nepotpunu eksproprijaciju od 67m2,
+18) kat. parcela br. 8759/5 KO Ćeklići, svojina fizičkog lica Mirković (Nikola) Danilo, u obimu za nepotpunu eksproprijaciju od 99m2,
+19) kat. parcela br. 8755/1 KO Ćeklići, svojina fizičkog lica Mirković (Nikola) Danilo, u obimu za nepotpunu eksproprijaciju od 18m2,
+20) kat. parcela br. 8751/1 KO Ćeklići, svojina fizičkog lica Mirković (Petar) Milorad, u obimu za nepotpunu eksproprijaciju od 94m2,
+21) kat. parcela br. 8751/2 KO Ćeklići, svojina fizičkog lica Mirković (Petar) Milorad, u obimu za nepotpunu eksproprijaciju od 35m2,
+22) kat. parcela br. 8766/1 KO Ćeklići, svojina fizičkog lica Mirković (Petar) Milorad, u obimu za nepotpunu eksproprijaciju od 86m2,
+23) kat. parcela br. 8683/1 KO Ćeklići, svojina fizičkog lica Pavlićević (Đuro) Andrija, u obimu za nepotpunu eksproprijaciju od 220m2,
+24) kat. parcela br. 8775/3 KO Ćeklići, svojina fizičkog lica Pavlićević (Mitar) Nikola, u obimu za nepotpunu eksproprijaciju od 492m2.
