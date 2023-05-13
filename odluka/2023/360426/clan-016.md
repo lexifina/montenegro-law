@@ -1,0 +1,3 @@
+# Član 16
+Propisani obrazac prijave za obračun godišnje naknade za korišćenje opštinskih puteva - naknada za korišćenje prilaza komercijalnim objektima kojima je omogućen prilaz sa opštinskog puta ON 1 i propisani obrazac prijave za obračun godišnje naknade za korišćenje opštinskih puteva - godišnja naknada za ugrađene cjevovode, vodovode, kanalizaciju, električne vodove, elektronsko komunikacione vodove, gasovode i naftovode ugrađene na putu i druge sa njima povezane infrastrukture ON 2 sastavni su dio ove Odluke.
+Pravna lica, fizička lica i preduzetnici dužni su da prilikom punjavanja prijave iz stava 1 ovog člana dostave tačne podatke.
