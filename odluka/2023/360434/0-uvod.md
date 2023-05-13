@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Službeni list CG", broj 25/19, 49/22 i 152/22), člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20) i člana 32 stav 1 tačka 2 i 8 Statuta Opštine Žabljak ("Službeni list CG - Opštinski propisi", broj 27/18), Skupština Opštine Žabljak na sjednici održanoj 24.04.2023. godine, donijela je
+O D L U K U
