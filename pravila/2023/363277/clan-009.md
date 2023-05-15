@@ -1,0 +1,2 @@
+# Član 9
+Član 18 mijenja se i glasi: "Kada se ugovor o osnivanju, statut, pravila o upravljanju zajedničkim fondom, ugovor o upravljanju, predlog ugovora sa depozitarom, predlog prospekta i predlog ključnih informacija za investitore, podnose Komisiji uz zahtjev za davanje dozvole za osnivanje zatvorenog odnosno dozvole za formiranje zajedničkog fonda, rješenjem o davanju dozvole za osnivanje zatvorenog odnosno dozvole za formiranje otvorenog fonda daje se i saglasnost na ove akte."
