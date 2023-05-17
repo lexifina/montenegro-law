@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 i 22 Zakona o lokalnoj samoupravi ("Sl. list CG"br. .02/18,34/19,38/20,50/22 i 84/22), člana 17 stav 3 Odluke o osnivanju DOO Vodovod "Bistrica" Bijelo Polje ("Sl. list Crne Gore -Opštinski propisi" br. 32/13) i člana 17 stav 1 alineja 4 Statuta DOO Vodovod "Bistrica" Bijelo Polje ("Sl. list Crne Gore -opštinski propisi" br.47/21) Skupština opštine Bijelo Polje na sjednici održanoj dana 17.05.2023. godine donijela je
+ODLUKU
