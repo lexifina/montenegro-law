@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG" br. 02/18, 34/19,38/20,50/22 i 84/22), člana 29 Zakona o elektronskim medijima ("Sl.list CG" br. 46/10,40/11, 53/11, 06/13, 55/16 i 92/17), člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl. list CG-Opštinski propisi", br. 19/18) i člana 21 Odluke o organizovanju Lokalnog javnog emitera "Radio Bijelo Polje" ("Sl.list CG - Opštinski propisi", br.25/11,11/18), Skupština opštine Bijelo Polje na sjednici održanoj 17.05.2023. godine donijela je
+O D L U K U
