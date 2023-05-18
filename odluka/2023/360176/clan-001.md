@@ -1,0 +1,4 @@
+# Član 1
+Utvrđuje se javni interes za eksproprijaciju nepokretnosti radi izgradnje energetskog objekta TS 10/0,4 kV 1x630 kVA "Dom zdravlja" (Industrijska zona) sa uklapanjem u VN i NN mrežu (zamjena postojeće BTS 10/0,4 kV 1x400 kVA "Medicinski centar") KO Privredna zona, Opština Kotor, i to:
+1) kat.parcela broj 65/2, po kulturi "šuma 3. klase", u obimu za nepotpunu eksproprijaciju od 14m2, upisana u listu nepokretnosti broj 42 KO Privredna zona, svojina pravnog lica DOO "Blue Line" Herceg Novi u obimu 1/1, i
+2) kat. parcela broj 65/2, po kulturi "šuma 3.klase" i zgrada u energetici, u obimu za potpunu eksproprijaciju od 59m2 (51m2 + 8m2), upisana u listu nepokretnosti broj 42 KO Privredna zona, svojina pravnog lica DOO "Blue Line" Herceg Novi obimu 1/1 (koja parcela će nakon parcelacije dobiti oznaku kat.parcela broj 65/10 u KO Privredna zona).
