@@ -1,0 +1,4 @@
+# Član 1
+## o izmjeni Odluke o davanju na upravljanje i korišćenje objekata domova mjesnih zajednica mjesnim zajednicama na području opštine Nikšić
+U Odluci o davanju na upravljanje i korišćenje objekata domova mjesnih zajednica mjesnim zajednicama na području opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 03/11, 36/15, 22/16, 30/16 i 44/18) u članu 1 stav 1 tačka 4 mijenja se i glasi:
+"objekat broj 10-poslovni prostor u vanprivredi - prizemlje, površine 172 m, poseban dio 1 na katastarskoj parceli, broj 2994 upisane u " V " listu lista nepokretnosti, broj 2872 KO Nikšić, kao Države Crne Gore sa pravom raspolaganja opštine Nikšić 13, koji se nalazi u naselju Humci i poslovni prostor površine 35 m, poseban dio 2, u prizemlju objekata broj 1 na katastarskoj parceli, broj 3500/1, upisan u "V " listu lista nepokretnosti, broj 720 KO Nikšić, kao svojina opštine Nikšić koji se nalazi u naselju Rubeža, Mjesnoj zajednici Humci."
