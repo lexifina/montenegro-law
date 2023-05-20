@@ -1,0 +1,2 @@
+# Član 2
+"Green gvozd" d.o.o. Podgorica je obavezan da Opštini Nikšić u skladu sa Ugovorom o regulisanju prava i obaveza u vezi sa rješavanjem imovinsko-pravnih odnosa i izvođenjem radova na izgradnji putne infrastrukture za potrebe izgradnje vjetroelektrane "Gvozd", broj 02- 031-2518 od 07.12.2016. godine, plaća godišnju naknadu u iznosu od 30.000,00 € za zasnivanje stvarne službenosti iz člana ove odluke.
