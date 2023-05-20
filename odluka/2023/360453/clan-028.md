@@ -1,0 +1,5 @@
+# Član 28
+Sportska organizacija je dužna da dodijeljena sredstva troši namjenski, u skladu sa programom i planom trošenja sredstava i da o tome podnosi polugodišnje narativne i finansijske izvještaje nadležnom organu ili izvještaje na zahtjev nadležnog organa.
+Sportska organizacija je dužna da nadležnom organu podnese završni, odnosno godišnji izvještaj o utrošku dodijeljenih sredstava, koji je usvojila Skupština te sportske organizacije. U slučaju da sportska organizacija, u roku preciziranim Ugovorom, ne podnese izvještaj iz stave 1 i 2 ovog člana ili ne dokaže da su sredstva namjenski trošena, obustaviće se dalje sufinansiranje programa rada sportske organizacije.
+U slučaju kada sportska organizacija ne može da dokaže da su sredstva trošena namjenski, dužna je da vrati nenamjenski utrošena sredstva, a ako ne izvrši povraćaj tih sredstava ne može učestvovati na narednom konkursu za sufinansiranje programa rada sportskih organizacija.
+Sportski klubovi čiji je osnivač Opština su dužni da dostave nadležnom organu na uvid akte o finansijskom poslovanju, nakon čega će ih nadležni organ proslijediti Skupštini opštine na dalje razmatranje.
