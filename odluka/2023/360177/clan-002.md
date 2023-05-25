@@ -1,0 +1,2 @@
+# Član 2
+Svrha eksproprijacije je realizacija Projekta izgradnje DV 110 kV "Gvozd - Krnovo" i "Gvozd - Nikšić" radi povezivanja Vjetroelektrane "Gvozd" sa elektroprenosnim sistemom Crne Gore i izgradnje internog DV 35 kV za povezivanje vjetroagregata Vjetroelektrane "Gvozd",dok je svrha nepotpune eksproprijacije ustanovljenje prava stvarne službenosti prolaza radi izgradnje DV 110 kV "Gvozd - Krnovo" i "Gvozd - Nikšić" i povezivanja VE Gvozd sa elektroprenosnim sistemom Crne Gore, sve u KO Ćeranića Gora, KO Gradačka Poljana, KO Rubeža, KO Lukovo i KO Nikšić.
