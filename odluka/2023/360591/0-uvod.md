@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1, člana 29 stav 2 i člana 34 stav 1 Zakona o državnoj imovini ("Službeni list CG, broj 21/09 i 40/11), člana 27 stav 1 tačka 15, člana 28 stav 1 tačka 1 i člana 33 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20, 50/22, 84/22), člana 73 stav 1 tačka 2 i člana 76 Statuta Prijestonice ("Službeni list CG-Opštinski propisi", broj 49/18, 9/19, 17/21), Skupština Prijestonice Cetinje, na sjednici održanoj dana15.05.2023.godine donijela
+ODLUKU
