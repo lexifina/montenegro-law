@@ -1,0 +1,6 @@
+Na osnovu člana 14 Zakona o eksproprijaciji ("Službeni list RCG", br. 55/00, 12/02, 28/06 i "Službeni list CG", br. 21/08, 30/17 i 75/18), Vlada Crne Gore, na sjednici od 11. maja 2023. godine, donijela je
+ODLUKU
+O UTVRĐIVANjU JAVNOG INTERESA ZA EKSPROPRIJACIJU
+NEPOKRETNOSTI U KO SUTOMORE - LOKACIJA MALjEVIK NA TERITORIJI
+OPŠTINE BAR RADI IZGRADNjE SAOBRAĆAJNICE - ULICE SA PRATEĆOM
+INFRASTRUKTUROM
