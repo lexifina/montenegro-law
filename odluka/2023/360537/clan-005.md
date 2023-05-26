@@ -1,0 +1,3 @@
+# Član 5
+Postupak eksproprijacije nepokretnosti iz čl. 1 ove Odluke sprovešće Uprava za katastar i državnu imovinu Crne Gore - Pj Kotor po predlogu Sekretarijata za imovinsko - pravne poslove.
+Ukoliko se korisnik eksproprijacije i raniji vlasnici eksproprisanih nepokretnosti sporazumiju o visini nadoknade , kao i o predaji nepokretnosti koja se ekspropriše, Sporazum po osnovu ove odredbe potpisuju u ime Opštine Kotor - Predsjednik opštine Kotor u svojstvu korisnika eksproprijacije i obveznika plaćanja nadoknade i vlasnici nepokretnosti iz čl.1 st.1 ove Odluke, u svojstvu ranijih vlasnika eksproprisanih nepokretnosti.

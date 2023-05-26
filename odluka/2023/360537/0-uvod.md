@@ -1,0 +1,2 @@
+Na osnovu člana 34 Zakona o državnoj imovini ("Sl. list CG" br. 21/09, 40/11), člana 38 a u vezi sa članom 28 stav 2 alineja 5 Zakona o lokalnoj samoupravi ("Sl. list CG" br 02/18, 034/19, 038/20, 050/22, 084/22), člana 1 Zakona o eksproprijaciji (,,Sl. list CG", br. 55/00, 12/02, 28/06 i "Sl. list CG", br. 21/08, 30/17, 75/18) i članova 19 i 36 Statuta Opštine Kotor ("Sl. list CG - Opštinski propisi" br. 37/19), Skupština opštine Kotor, na XVII sjednici održanoj dana 04.05.2023. godine, donijela je
+ODLUKU
