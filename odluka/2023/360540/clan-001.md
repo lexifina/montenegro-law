@@ -1,0 +1,3 @@
+# Član 1
+## o izmjeni i dopuni Odluke o utvrđivanju lokacije i urbanističko-tehničkih uslova za uklapanje TS 35/10kV "Bigova" u 10kV mrežu
+U članu 1, stav 2 Odluke o utvrđivanju lokacije i urbanističko-tehničkih uslova za uklapanje TS 35/10kV "Bigova" u 10kV mrežu ("Sl.list CG - Opštinski propisi" br. 45/22, 59/22) mijenja se i glasi: "Rov za polaganje 10kV kablovskih vodova biće postavljen na način da se tehnički najpovoljnije uklapa uz infrastrukturu predviđenu rješenjima o građevinskoj dozvoli Sekretarijata za urbanizam, građevinarstvo i prostorno planiranje Opštine Kotor, br. UP/I-0303-2142/17, UP/I-0303-2143/17 i UP/I-0303-2144/17.''
