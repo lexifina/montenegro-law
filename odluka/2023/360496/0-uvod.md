@@ -1,0 +1,3 @@
+Na osnovu člana 20 Zakona o putevima ("Službeni list CG", br. 82/20 i 140/22), člana 38 stav 1 tač. 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 36 stav 1 tač. 2 i 8 Statuta Opštine Berane ("Službeni list CG - Opštinski propisi", broj 42/18), uz prethodnu saglasnost Vlade Crne Gore broj:342/23-2072/2 od 04. 05. 2023. godine, Skupština opštine Berane, na sjednici održanoj dana 10. maja 2023. godine, donijela je
+O D L U K U
+O NAKNADAMA ZA KORIŠĆENjE OPŠTINSKIH PUTEVA I DJELOVA DRŽAVNIH PUTEVA KOJI PROLAZE KROZ NASELjA NA TERITORIJI ОPŠTINE BERANE
