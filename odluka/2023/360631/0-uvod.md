@@ -1,0 +1,3 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18 od 10.01.2018, 034/19 od 21.06.2019, 038/20 od 25.04.2020, 050/22 od 09.05.2022, 084/22 od 01.08.2022), člana 219 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", br. 64/17, 44/18, 63/18, 82/20, 86/22 i 4/23) i člana 54 Statuta Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", br. 008/19 od 21.02.2019, 020/21 od 09.07.2021, 049/22), Skupština Glavnog grada - Podgorice, na sjednici održanoj 11, 15. i 19. maja 2023. godine, donijela je -
+O D L U K U
+o prestanku važenja Odluke o donošenju Detaljnog urbanističkog plana "Gorica C" u Podgorici ("Službeni list CG - Opštinski
