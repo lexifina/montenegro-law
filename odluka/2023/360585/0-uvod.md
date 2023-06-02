@@ -1,0 +1,2 @@
+Na osnovu člana 73 stav 1 tačka 22 Statuta Prijestonice Cetinje ("Službeni list Crne Gore - Opštinski propisi", br. 49/18, 09/19 i 17/21) i člana 12 alineja 2 Odluke o osnivanju Turističke organizacije Prijestonice Cetinje ("Službeni list RCG-Opštinski propisi,broj 35/04,40/06 i "Službeni list Crne Gore - Opštinski propisi", broj 36/20 i 27/22), Skupština Prijestonice Cetinje, na sjednici, održanoj dana 15.05.2023.godine, donijela je
+O D L U K U O DAVANJU SAGLASNOSTI NA PROGRAM RADA I FINANSIJSKI PLAN TURISTIČKE ORGANIZACIJE PRIJESTONICE CETINJE ZA 2023.GODINU
