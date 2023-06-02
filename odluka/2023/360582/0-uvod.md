@@ -1,0 +1,2 @@
+Na osnovu člana 25 Odluke o osnivanju Društva sa ograničenom odgovornošću Lokalni javni emiter "Radio Danilovgrad" ("Službeni list Crne Gore - Opštinski propisi", br. 39/15 i 17/20), a u vezi sa članom 32 stav 1 tačka 3 Zakona o elektronskim medijima ("Službeni list Crne Gore", br. 46/10, 40/11, 53/11, 06/13, 55/16, 92/17 i 82/20) i člana 35 stav 1 tačka 22 Statuta Opštine Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", br. 43/18), Skupština opštine Danilovgrad, na sjednici održanoj 28.04., 09.05., 13.05 i 17.05.2023. godine, donosi
+ODLUKU
