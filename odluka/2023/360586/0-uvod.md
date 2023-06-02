@@ -1,0 +1,2 @@
+Na osnovu člana člana 73 stav 1 tačka 2 Statuta Prijestonice ("Službeni list Crne Gore-opštinski propisi", br. 049/18, 009/19, 017/21), člana 29 stav 2 alineja 3 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 055/16, 074/16, 002/18, 066/19, 140/22), člana 22 stav 1 Odluke o javnim parkiralištima na teritoriji Prijestonice Cetinje ("Službeni list Crne Gore-Opštinski propisi", br. 063/22) Skupština Prijestonice Cetinje, na sjednici održanoj dana 15.05.2023. godine, donijela je
+O D L U K U
