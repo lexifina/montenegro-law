@@ -1,0 +1,3 @@
+# Član 1
+U članu 7 stav 1 mijenja se i glasi:
+"C lanovima PAM-a CG pod jednakim uslovima mogu postati svi muzic ki autori (autori muzike, aranz mana i teksta) i druga fizic ka i pravna lica koja su pravnim putem postali nosioci prava koja se efektivno ostvaruju i koji z ele da ovlaste PAM CG da upravlja njihovim autorskim muzic kim pravima u Crnoj Gori i svijetu pod uslovom: da autori i druga fizička lica imaju državljanstvo Crne Gore i prebivalište u Crnoj Gori najmanje 5 godina u posljednjih 10 godina, a pravna lica da su registrovana kao privredno društvo u Crnoj Gori najmanje godinu dana i imaju sjedište u Crnoj Gori najmanje godinu dana.
