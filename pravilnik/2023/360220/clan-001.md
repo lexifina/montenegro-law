@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se obrazac Izvještaja o uplaćenom porezu po odbitku na isplate izvršene po osnovu zajma, odnosno pozajmice sa ili bez kamate fizičkim licima, kao i u slučaju produženja roka otplate zajma odnosno pozajmice, osim fizičkog lica za pozajmice do 5.000 eura na godišnjem nivou, a koje nema status povezanog lica iz člana 38 Zakona o porezu na dobit pravnih lica (u daljem tekstu: Izvještaj).
