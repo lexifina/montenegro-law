@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Službeni list CG", broj 25/19, 49/22, 152/22), člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20, 50/22, 84/22) i člana 35 stav 1 tačka 8 Statuta Opštine Tivat ("Službeni list Crne Gore - Оpštinski propisi", broj 24/18 i 09/20) Skupština Opštine Tivat na sjednici održanoj 16.05.2023.godine donijela je
+ODLUKU
