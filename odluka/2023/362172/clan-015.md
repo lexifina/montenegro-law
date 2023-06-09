@@ -1,0 +1,4 @@
+# Član 15
+Osnovica poreza na nepokretnosti za obveznika poreza na nepokretnosti koji vodi poslovne knjige utvrđuje se na način da se kao tržišna vrijednost te nepokretnosti uzima vrijednost nepokretnosti koja je prikazana u njegovim poslovnim knigama, u skladu sa propisima kojima se uređuje računovodstvo (fer vrijednosti), sa stanjem na dan 31. decembra godine koja prethodi godini za koju se utvđuje porez na nepokretnosti.
+Ako obveznik poreza na nepokretnosti u poslovnim knjigama vrijednost nepokretnosti ne iskaže u skladu sa satavom 1 ovog člana, ili ne podnese poresku prijavu, porez na nepokretnosti obračunava se u skladu sa čl. 6a i 66 Zakona o porezu na nepokretnosti, odnosno zakonom kojim se uređuje poreska administracija.
+Izuzezno, ako se poreska osnovica ne može odrediti na način iz stave 2 ovoga člana, osnovica poreza na nepokretnosti će se odrediti na osnovu procjene ovlašćenog vještaka za procjenu nepokretnosti.
