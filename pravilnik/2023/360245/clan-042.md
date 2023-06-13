@@ -1,0 +1,3 @@
+# Član 42
+Vođa posade vojnog vazduhoplova, poslije polijetanja ili produžavanja sa dodirom ili bez dodira poletno-sletne staze, kreće u zaokret tek kad dostigne bezbjednu visinu i brzinu utvrđenu uputstvom za upravljanje vojnim vazduhoplovom, osim ako zbog ugrožavanja sigurnosti letenja situacija nalaže drukčije postupanje.
+Visina početka prvog zaokreta poslije polijetanja ili produžavanja iz faze slijetanja prilikom leta prema pravilima vizuelnog letenja (VFR) ne smije da bude manja od 100 m (330 ft) iznad terena (AGL) danju i 150 m (500 ft) iznad terena (AGL) noću, a za lake avione višestruke namjene i helikoptere 100 m (330 ft) iznad terena (AGL) danju i noću.

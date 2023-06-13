@@ -1,0 +1,2 @@
+# Član 155
+Pod ugrožavanjem sigurnosti letenja bespilotnih letilica podrazumijeva se skup okolnosti nastalih kao posljedica nepravilnog rada bespilotne letilice, greške operatera bespilotne letilice ili pilota - operatera bespilotne letilice prilikom upravljanja bespilotnom letilicom ili drugih nepredviđenih okolnosti koje izazivaju povrede, smrtne slučajeve, oštećenje ili uništenje bespilotne letilice ili imovine trećih lica.

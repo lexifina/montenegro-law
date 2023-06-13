@@ -1,0 +1,4 @@
+# Član 33
+Prema uslovima u kojima se let izvršava letovi vojnih vazduhoplova mogu biti letovi prema pravilima vizuelnog letenja (VFR) i letovi prema pravilima instrumentalnog letenja (IFR).
+Let prema pravilima vizuelnog letenja (VFR) je let koji posada vojnog vazduhoplova od polijetanja do slijetanja vrši u uslovima vidljivosti prirodnog horizonta i orijentira na zemlji, koji omogućavaju određivanje prostornog položaja vojnog vazduhoplova i vođenje vizuelne orijentacije.
+Let prema pravilima instrumentalnog letenja (IFR) je let u kojem posada vojnog vazduhoplova položaj vojnog vazduhoplova u prostoru i poziciju, u cjelini ili djelimično, određuje, održava i mijenja na osnovu pokazivanja instrumenata za upravljanje vojnim vazduhoplovom, navigacijskih instrumenata i uređaja na vojnom vazduhoplovu i na zemlji.

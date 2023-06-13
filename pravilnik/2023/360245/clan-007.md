@@ -1,0 +1,6 @@
+# Član 7
+Za potrebe letenja vojnih vazduhoplova van vazdušnih puteva, kao i za druge vojne aktivnosti koje zahtijevaju rezervaciju dijela vazdušnog prostora vrši se alokacija vazdušnog prostora.
+Za publikovano privremeno izdvojeno područje (TSA) i privremeno rezervisano područje (TRA) zahtjev za alokaciju vazdušnog prostora dostavlja se jedinici za upravljanje vazdušnim prostorom (AMC) najkasnije jedan radni dan prije početka aktivnosti.
+Za nepublikovana područja iz člana 6 stav 4 ovog pravilnika zahtjev za alokaciju vazdušnog prostora dostavlja se jedinici za upravljanje vazdušnim prostorom (AMC) najkasnije dva radna dana prije početka aktivnosti.
+Za letenje u međunarodnim vodama, koje se odvija kao operativni vazdušni saobraćaj (OAT), nije moguća alokacija vazdušnog prostora, već se za te potrebe može koristiti opasno područje (D) koje se određuje u skladu sa aktom kojim se propisuju način upravljanja i strukture vazdušnog prostora.
+Podnosilac zahtjeva za alokaciju vazdušnog prostora dužan je da koristi vazdušni prostor na način kako je odredila jedinica za upravljanje vazdušnim prostorom (AMC) i sve informacije vezane za otkazivanje ili skraćenje vremena upotrebe dodijeljene strukture vazdušnog prostora odmah, bez odlaganja, javi nadležnoj jedinici za kontrolu letenja ili jedinici za upravljanje vazdušnim prostorom (AMC).

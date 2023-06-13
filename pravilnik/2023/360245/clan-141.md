@@ -1,0 +1,2 @@
+# Član 141
+Piloti koji lete na vojnim vazduhoplovima sa presurizovanom kabinom koja omogućava održavanje kabinskog pritiska koji odgovara visinama do 3000 m (10000 ft), dužni su da koriste kiseoničku masku za vrijeme upravljanja vojnim vazduhoplovom kad indikacija kabinske visine pokazuje iznad 3000 m (10000 ft), ako zahtjevi utvrđeni uputstvom za upravljanje vojnim vazduhoplovom nijesu restriktivniji.

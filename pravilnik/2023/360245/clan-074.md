@@ -1,0 +1,4 @@
+# Član 74
+U vazdušnom prostoru Crne Gore, vođa posade vojnog vazduhoplova održava brzinu vojnog vazduhoplova u skladu sa aktom o načinu, pravilima i postupcima letenja vazduhoplova i operativnim uslugama u vazdušnom saobraćaju, osim kad leti u područjima za letenje iz člana 6 stav 4 tač. 2 do 9 ovog pravilnika ili kad izvršava letove posebne namjene.
+Ako vođa posade vojnog vazduhoplova ne može obezbijediti održavanje minimalne bezbjedne brzine manevrisanja tokom prilaza za slijetanje, o tome mora obavjestiti nadležnu jedinicu kontrole letenja i tražiti dozvolu za prilaz sa održavanjem brzine utvrđene uputstvom za upravljanje vojnim vazduhoplovom.
+Ubrzavanje vojnog vazduhoplova preko 0,95 Ma dozvoljeno je za potrebe zaštite vazdušnog prostora vojnim vazduhoplovima iz NATO integrisanog sistema protivvazduhoplovne i protivraketne odbrane (NATINAMDS), ako to taktička situacija zahtijeva i to na visinama iznad 3000 m (10000 ft) iznad terena (AGL) u penjanju.

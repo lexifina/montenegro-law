@@ -1,0 +1,10 @@
+# Član 91
+Letenje u simuliranim instrumentalnim meteorološkim uslovima (IMC) izvodi se u drukčijim uslovima od stvarnih uslova za let prema pravilima instrumentalnog letenja (IFR) isključivo u funkciji letačke obuke za let prema pravilima instrumentalnog letenja (IFR).
+Instrumentalni meteorološki uslovi (IMC) simuliraju se putem uređaja za ograničenje vidljivosti, kao što su pokrivači kabine, navlake, folije, naočare i dr.
+Uređaji u pilotskom prostoru vojnog vazduhoplova koji služe da ograniče vidljivost pilota tokom simuliranog leta moraju da budu tako postavljeni da se mogu brzo i lako otvoriti, skinuti ili ukloniti u svakom momentu tokom leta vojnog vazduhoplova.
+Letenje u simuliranim instrumentalnim meteorološkim uslovima (IMC) izvodi se radi osposobljavanja pilota za let prema pravilima instrumentalnog letenja (IFR) i može se vršiti sa instruktorom letenja na vojnom vazduhoplovu višesjedu ili samostalno na vojnom vazduhoplovu jednosjedu.
+Letenje u simuliranim instrumentalnim meteorološkim uslovima (IMC) koje se izvodi na vojnom vazduhoplovu višesjedu mora pratiti pilot koji je u trenaži za letenje osposobljen za let prema pravilima instrumentalnog letenja (IFR) i mora biti u mogućnosti da sve vrijeme leta vidi van vojnog vazduhoplova i obezbijedi kontrolu položaja vojnog vazduhoplova kako u odnosu na teren tako i u odnosu na ostali vazdušni saobraćaj.
+Pilot iz stava 5 ovog člana može da leti kao član posade vojnog vazduhoplova višesjeda ili kao pilot pratećeg vojnog vazduhoplova zadužen za bezbjedno izvršenje simuliranog letenja.
+Ako se prilikom letenja u simuliranim instrumentalnim meteorološkim uslovima (IMC) koristi prateći vojni vazduhoplov, pilot pratećeg vojnog vazduhoplova dužan je održavati stalni vizuelni kontakt sa vojnim vazduhoplovom i dvosmjernu radio-vezu između vojnih vazduhoplova.
+Vojni vazduhoplovi ne mogu letjeti u simuliranim instrumentalnim meteorološkim uslovima (IMC) u oblacima i/ili tokom noći.
+Vojni vazduhoplovi ne mogu izvoditi letenje u simuliranim instrumentalnim meteorološkim uslovima (IMC) sa putnicima u vazduhoplovu.
