@@ -1,0 +1,3 @@
+# Član 1
+## R E Š E Nj E o davanju saglasnosti JU Centar za kulturu Žabljak na davanje u zakup poslovnog prostora
+DAJE SE saglasnost JU Centar za kulturu Žabljak na davanje u zakup Bogavac Marku iz Žabljaka (JMBG 1305968293010) poslovnog prostora u holu bioskopa "Durmitor", površine 120 m2, označen kao katastarska parcela broj 3439/1, po načinu korišćenja poslovne zgrade u privredi, PD 4, upisana u "V" listu Lista nepokretnosti broj 2400, KO Žabljak I - kao svojina Opštine Žabljak koji koristi JU Centar za kulturu, i to na period od dvije godine radi obavljanja ugostiteljske djelatnosti, a u skladu sa javnim pozivom broj 01-81 od 11.aprila 2023.godine, uz mjesečnu zakupninu u iznosu od 500,00 € (pestoeura).
