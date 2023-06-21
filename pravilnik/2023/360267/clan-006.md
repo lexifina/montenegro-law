@@ -1,0 +1,3 @@
+# Član 6
+Godišnji izvještaj o postupanju u upravnim stvarima (u daljem tekstu: godišnji izvještaj) sačinjava se na osnovu evidencije i sadrži brojčani (statistički) prikaz stanja u periodu izvještavanja, tekstualni dio koji sadrži ocjenu stanja i predloge mjera za unapređenje stanja u upravnoj oblasti.
+Pored podataka iz stava 1 ovog člana, godišnji izvještaj sadrži i podatke o zaključenim upravnim ugovorima (broj, datum i mjesto zaključenja upravnog ugovora, ugovorne strane i dr.), kao i podatke o broju poništenih, odnosno ukinutih nezakonitih rješenja i broju ukinutih zakonitih rješenja.
