@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Sl.list CG" br.21/09, 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list CG" br. 2/18, 34/19, 38/20, 50/22, 84/22) člana 34 stav 1 tačka 9 Statuta Opštine Herceg Novi ( "Sl.list CG - Opštinski propisi" br.1/19, 37/19, 6/20, 18/22) te Odluke Vlade Crne Gore o davanju prethodne saglasnosti Opštini Herceg Novi br. 07-421/23-837/2 od 24.02.2023.godine Skupština opštine Herceg Novi, na sjednici održanoj dana 10.05.2023. godine, donijela je
+ODLUKU
