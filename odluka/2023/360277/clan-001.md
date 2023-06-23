@@ -1,0 +1,53 @@
+# Član 1
+Obrazuje se Radni tim za koordinaciju aktivnosti u okviru Berlinskog procesa (u daljem tekstu: Radni tim), u sastavu:
+1) Đorđe Radulović, savjetnik predsjednika Vlade Crne Gore za vanjsku politiku, koordinator;
+2) Radovan Bogojević, v.d. generalnog direktora Generalnog direktorata za multilateralne poslove u Ministarstvu vanjskih poslova, zamjenik koordinatora;
+3) Milica Nikić, II sekretarka u Direkciji za regionalne i druge međunarodne organizacije u Ministarstvu vanjskih poslova, zamjenica koordinatora;
+4) mr Renata Krkotić, savjetnica u Kabinetu predsjednika Vlade Crne Gore, članica;
+5) Maja Đurđić, I sekretarka u Direkciji za regionalne i druge međunarodne organizacije u Ministarstvu vanjskih poslova, članica;
+6) Marija Hajduković, generalna direktorica Direktorata za strateško planiranje u javnoj upravi, međunarodnu saradnju i IPA fondove u Ministarstvu javne uprave, članica;
+7) Ivan Lazarević, načelnik Direkcije za međunarodnu saradnju u Ministarstvu javne uprave, član;
+8) Ružica Mišković, načelnica Direkcije za strateško planiranje u javnoj upravi i praćenje implementacije strateških dokumenata u Ministarstvu javne uprave, članica;
+9) Martin Lulgjuraj, v.d. generalnog direktora Direktorata za mlade u Ministarstvu sporta i mladih, član;
+10) Danijela Vujošević, samostalna savjetnica I u Direktoratu za mlade u Ministarstvu sporta i mladih, članica;
+11) Nikola Vujović, potpredsjednik Privredne komore Crne Gore, član;
+12) Dragoljub Bulatović, savjetnik predsjednice Privredne komore Crne Gore, član;
+13) Miroslav Cimbaljević, generalni direktor Direktorata za poljoprivredu u Ministarstvu poljoprivrede, šumarstva i vodoprivrede, član;
+14) Milan Leković, savjetnik I u Odjeljenju za međunarodnu saradnju i IPA projekte u Ministarstvu poljoprivrede, šumarstva i vodoprivrede, član;
+15) Boris Vukašinović, zamjenik direktorice Agencije za sprječavanje korupcije, član;
+16) Nina Sekulović, samostalna savjetnica I u Odsjeku za međunarodnu saradnju, standarde i odnose sa javnošću u Agenciji za sprječavanje korupcije, članica;
+17) Marija Maraš, sekretarka Odbora za evropske integracije u Skupštini Crne Gore, članica;
+18) Jasmin Bojadžić, sekretar Odbora za međunarodnu saradnju i iseljenike u Skupštini Crne Gore, član;
+19) Kemal Grbović, v.d. generalnog direktora Direktorata za ekologiju i klimatske promjene u Ministarstvu ekologije, prostornog planiranja i urbanizma, član;
+20) Radovan Sekulić, načelnik Direkcije za međunarodnu saradnju u Ministarstvu ekologije, prostornog planiranja i urbanizma, član;
+21) dr Ljudmila Popović, v.d. generalne direktorice Direktorata za interkulturalizam u Ministarstvu ljudskih i manjinskih prava, članica;
+22) mr Sokolj Beganaj, načelnik Odjeljenja za unapređenje i zaštitu prava Roma i Egipćana u Ministarstvu ljudskih i manjinskih prava i nacionalni koordinator za sprovođenje Strategije socijalne inkluzije Roma i Egipćana 2021-2025, član;
+23) Dobrila Vlahović, generalna direktorica Direktorata za kulturnu baštinu u Ministarstvu kulture i medija, članica;
+24) Vladimir Obradović, državni sekretar u Ministarstvu zdravlja, član;
+25) dr Borko Bajić, pomoćnik direktora Instituta za javno zdravlje Crne Gore, član;
+26) mr Radmila Perović, načelnica Direkcije za NATO i EU u Ministarstvu odbrane, članica;
+27) Aleksandra Tmušić, šefica Odsjeka za EU u Ministarstvu odbrane, članica;
+28) Marko Dragaš, načelnik Direkcije za regionalne i infrastrukturne projekte u Ministarstvu evropskih poslova, član;
+29) Andrijana Čanović, šefica Odsjeka za unutrašnje tržište u Ministarstvu evropskih poslova, članica;
+30) Momir Jauković, generalni direktor Direktorata za pravosuđe u Ministarstvu pravde, član;
+31) Zorka Robović, savjetnica III u Direktoratu za pravosuđe u Ministarstvu pravde, članica;
+32) Ana Banović, načelnica Odjeljenja za evropske integracije, međunarodnu saradnju, programiranje i implementaciju EU fondova u Ministarstvu finansija, članica;
+33) Goran Radević, generalni direktor Direktorata za visoko obrazovanje u Ministarstvu posvjete, član;
+34) Slobodan Bošković, samostalni savjetnik I u ENIC/NARIC centru u Ministarstvu posvjete, član;
+35) Edina Dešić, državna sekretarka u Ministarstvu rada i socijalnog staranja, članica;
+36) Mersida Aljićević, generalna direktorica Direktorata za socijalno staranje i dječju zaštitu u Ministarstvu rada i socijalnog staranja, članica;
+37) Darka Džabasan, načelnica Direkcije za penzijsko i invalidsko osiguranje i boračku i invalidsku zaštitu u Ministarstvu rada i socijalnog staranja i sekretarka Komisije za nestala lica Crne Gore, članica;
+38) Sergej Mučalica, v.d. generalnog direktora Direktorata za međunarodnu saradnju, evropske integracije i projekte u Ministarstvu unutrašnjih poslova, član,
+39) Irena Vuković, samostalna savjetnica I u Odjeljenju za borbu protiv trgovine ljudima u Ministarstvu unutrašnjih poslova, članica;
+40) Jovana Krunić, v.d. generalne direktorice Direktorata za međunarodnu trgovinsku i ekonomsku saradnju u Ministarstvu ekonomskog razvoja i turizma, članica;
+41) Marina Marković, načelnica Direkcije za poštansku djelatnost u Ministarstvu ekonomskog razvoja i turizma, članica;
+42) Marinela Lazarević, načelnica Direkcije za elektronske komunikacije i radio-spektar u Ministarstvu ekonomskog razvoja i turizma, članica;
+43) Maja Jokanović, načelnica Direkcije za razvoj industrije u Ministarstvu ekonomskog razvoja i turizma, članica;
+44) Vesna Brajović, v.d. pomoćnice direktora Uprave prihoda i carina, članica;
+45) Milena Milonjić, v.d. generalne direktorice Direktorata za naučnoistraživačku djelatnost u Ministarstvu nauke i tehnološkog razvoja, članica;
+46) mr Smilja Kažić-Vujačić, načelnica Odjeljenja za međunarodnu saradnju u Ministarstvu nauke i tehnološkog razvoja, članica;
+47) Vladimir Đaković, direktor Uprave za bezbjednost hrane, veterinu i fitosanitarne poslove, član;
+48) Zorka Prljević, pomoćnica direktora Uprave za bezbjednost hrane, veterinu i fitosanitarne poslove, članica;
+49) Darko Grgurović, izvršni direktor Agencije za elektronske komunikacije i poštansku djelatnost, član;
+50) Danka Milićević, pomoćnica izvršnog direktora Agencije za elektronske komunikacije i poštansku djelatnost, članica;
+51) Ljubinka Ivanović, v.d. generalne direktorice Direktorata za kapitalne i IPA projekte u Ministarstvu kapitalnih investicija, članica.
