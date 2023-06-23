@@ -1,0 +1,3 @@
+Na osnovu člana 34 st. 1, a u vezi sa čl. 54 Zakona o državnoj imovini ("Sl. list Crne Gore", br. 21/09, 40/11), člana 38 st. 1 tač. 30 Zakona o lokalnoj samoupravi ("Sl. list Crne Gore", br. 2/18, 34/19, 38/20,50/22 i 84/22) i člana 34 stav 1 tač. 30 Statuta Opštine Herceg Novi ("Sl. list Crne Gore - Opštinski propisi" br. 1/19, 37/19, 6/20 i 18/22) Skupština opštine Herceg Novi, na sjednici započetoj dana 10.05.2023.godine, a nastavljenoj dana 15.05.2023.godine, donijela je
+ОDLUKU
+о davanju saglasnosti za sporazumno rješavanje imovinsko-pravnih odnosa između Opštine Herceg Novi i Petrović Vesne i dr.

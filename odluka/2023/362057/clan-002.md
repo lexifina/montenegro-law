@@ -1,0 +1,2 @@
+# Član 2
+Ovlašćuje se Direkcija za imovinu i zastupanje Opštine Herceg Novi da, u skladu sa ovom odlukom zaključi akt o sporazumnom rješavanju imovinsko-pravnih odnosa na zemljištu označenom kao dio kat. parc. 1061 KO Zabrđe u površini od 3080 m², kako je identifikovano u nalazu vještaka geodetske struke Jova Radanovića od 20.10.2022. godine, iz predmeta Osnovnog suda u Herceg Novom Posl. br. P. 120/2021, sa Petrović Vesnom iz Tivta i dr.
