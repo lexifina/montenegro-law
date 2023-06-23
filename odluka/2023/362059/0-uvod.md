@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 tačka 5 Zakona o komunalnim djelatnostima ("Sl. list CG", br. 55/16, 74/16, 2/18, 66/19 i 140/22), člana 36 stav 2 Zakona o državnoj imovini ("Sl.list CG" broj 21/09 i 40/11), člana 4 stav 1 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl.list CG" broj 44/10) i člana 34 stav 1 tačka 30 Statuta Opština Herceg Novi ("Sl. list CG - Opštinski propisi", broj 1/19, 37/19, 6/20 i 18/22) Skupština opštine Herceg Novi, na sjednici započetoj 10.05.2023.godine, a nastavljenoj dana 15.05.2023.godine, donijela je
+ODLUKU
+o davanju prethodne saglasnosti na Odluku Odbora direktora Društva sa ograničenom
