@@ -1,0 +1,2 @@
+# Član 5
+Nakon potpune realizacije radova na izgradnji dijela predmetne saobraćajnice, opština Tivat i "Luštica development" AD Tivat će, kao potpisnici ugovora o regulisanju međusobnih prava i obaveza u pogledu predmetne izgradnje, potpisati zapisnik o završetku radova u skladu sa prijavom i tehničkom dokumentacijom, a datum potpisivanja tog zapisnika smatraće se datumom završetka predmetnih radova.
