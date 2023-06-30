@@ -1,0 +1,2 @@
+Na osnovu člana 187 stav 1 Zakona o osiguranju ("Službeni list Republike Crne Gore", br. 078/06 od 22.12.2006, 019/07 od 02.04.2007, "Službeni list Crne Gore", br. 053/09 od 07.08.2009, 073/10 od 10.12.2010, 040/11 od 08.08.2011, 045/12 od 17.08.2012, 006/13 od 31.01.2013, 055/16 od 17.08.2016, 146/21 od 31.12.2021) i člana 15 stav 1 tačka 12 i člana 16 Statuta Agencije za nadzor osiguranja ("Službeni list Republike Crne Gore", br 35/23) Savjet Agencije za nadzor osiguranja, na 387. sjednici održanoj dana 30.06.2023. godine, donio je
+ODLUKU
