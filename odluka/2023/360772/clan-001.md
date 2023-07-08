@@ -1,0 +1,2 @@
+# Član 1
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti radi izgradnje MBTS 10/0,4 kV 1x630 kVa "1" (Tunel) u zoni I.R. - 3 sa uklapanjem u VN i NN mrežu - KO Kavač, Opština Kotor (na UP 1158 u zahvatu DUP-a "Kavač" - Kotor) i to na dijelu katastarske parcele broj 1043/4 KO Kavač, po kulturi "šume 3. klase", u obimu za nepotpunu ekskproprijaciju od 94 m², upisana u listu nepokretnosti broj 881 KO Kavač, pravo svojine Radonjić (Miodrag) Mirka u obimu 1/1.
