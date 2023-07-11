@@ -1,0 +1,3 @@
+# Član 2
+## Rashladni uređaj sa funkcijom direktne prodaje
+Rashladni uređaj sa funkcijom direktne prodaje je izolovani ormar sa jednim ili više odjeljaka čija se temperatura održava na zadatim vrijednostima, a koji se hlade prirodnom ili prinudnom konvekcijom na jedan ili više načina koji troše energiju, upotrebljava se za izlaganje i prodaju prehrambenih ili drugih proizvoda na određenim temperaturama ispod temperature okoline, sa ili bez pomoći pri posluživanju, direktno dostupnih kroz otvore ili jedna ili više vrata ili ladica ili oboje, uključujući rashladne uređaje sa funkcijom direktne prodaje sa površinama koje se upotrebljavaju za čuvanje prehrambenih ili drugih proizvoda koji nisu dostupni korisnicima, osim minibarova i uređaja za čuvanje vina.
