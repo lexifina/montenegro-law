@@ -1,0 +1,7 @@
+# Član 6
+## Ocjenjivanje usaglašenosti
+Ocjenjivanje usaglašenosti rashladnih uređaja sa funkcijom direktne prodaje sa tehničkim zahtjevima eko dizajna vrši se u skladu sa propisom kojim se uređuje način utvrđivanja usaglašenosti proizvoda sa tehničkim zahtjevima za eko dizajn proizvoda koji utiču na potrošnju energije.
+Radi ocjenjivanja usaglašenosti iz stava 1 ovog člana, tehnička dokumentacija treba da sadrži rezultate proračuna u skladu sa Prilogom 2 ovog pravilnika.
+Ako su podaci koji se nalaze u tehničkoj dokumentaciji za određeni model rashladnog uređaja sa funkcijom direktne prodaje uzeti od modela koji ima iste tehničke karakteristike (relevantne za tehničke informacije koje treba obezbijediti), ali ga je proizveo drugi proizvođač, ili su dobijeni proračunom na osnovu dizajna i/ili ekstrapolacijom podataka od drugih ekvivalentnih uređaja, tehnička dokumentacija treba da sadrži detalje o takvim proračunima ili o ispitivanjima koja je proizvođač sproveo, radi provjere tačnosti sprovedenih proračuna i, prema potrebi, izjavu o identičnosti modela različitih proizvođača.
+U slučaju iz stava 3 ovog člana, tehnička dokumentacija treba da sadrži i popis ekvivalentnih modela, uključujući identifikacione oznake modela.
+Tehnička dokumentacija iz stava 2 ovog člana, treba da sadrži informacije prema redosljedu utvrđenim propisom kojim se uređuje označavanje energetske efikasnosti rashladnih uređaja sa funkcijom direktne prodaje.
