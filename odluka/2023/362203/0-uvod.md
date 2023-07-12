@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 1 tačka 25 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 67 stav 5 Zakona o radu ("Službeni list CG", br. 74/19, 8/21, 59/21, 68/21 i 145/21) i člana 24 stav 1 tačka 25 i člana 54 stav 1 tačka 45 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21 i 49/22), Skupština Glavnog grada, na sjednici održanoj 22., 23. i 26. juna 2023. godine, donije la je
+O D L U K U
