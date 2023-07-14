@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ("Sl.list CG" br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 171 Zakona o privrednim društvima ("Službeni list CG", broj 65/20, 146/21), člana 16, 17, 19, 20 i 21 Statuta DOO "Vodovod i kanalizacija" Tivat ("Sl. list CG - Opštinski propisi", br. 18/22) i člana 35 Statuta opštine Tivat ("Sl. list CG - Opštinski propisi" br. 24/18 i 09/20), Skupština opštine Tivat na sjednici održanoj dana 26.06.2023. godine donijela je
+O D L U K U
