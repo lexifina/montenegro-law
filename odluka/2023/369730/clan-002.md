@@ -1,0 +1,2 @@
+# Član 2
+Stupanjem na snagu ove Odluke prestaje da važi Odluka o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Tivat broj: 03- 040/22-325 od 28.12.2023. godine ("Službeni list Crne Gore - Opštinski propisi", br. 01/23 od 04.01.2023), te Odluka o imenovanju jednog člana Odbora direktora DOO "Vodovod i kanalizacija" Tivat broj: 03-040/23-83 od 03.03.2023. godine ("Službeni list Crne Gore - Opštinski propisi", br. 011/23 od 10.03.2023. godine).
