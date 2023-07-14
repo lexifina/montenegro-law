@@ -1,0 +1,2 @@
+Nа оsnоvu člаnа 116 stav 3 Zakona o planiranju prostora i izgradnji objekata ( "Službeni list CG", brој 64/17, 44/18, 63/18, 82/20, 86/22 i 04/23) i člana 35 Statuta Opštine Tivat ("Službeni list CG - Opštinski propisi", broj 24/18 i 09/20), uz prethodnu saglasnost Ministarstva ekologije, prostornog planiranja i urbanizma broj: 08-332/23-5071/3 od 23.06.2023.godine, Skupština Opštine Tivat, na sjednici održanoj dana 26.06.2023.godine, donijela je
+ODLUKU
