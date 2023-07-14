@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom utvrđuje se izgradnja lokalnog objekta od opšteg interesa i to proširenje sekundarne kanalizacione mreže, odnosno dijela koji je ostao neizveden u prethodnoj fazi, u obuhvatu Detaljnog urbanističkog plana "Gornji Kalimanj", a koje je planirano da se izvodi preko kat.par.br. 3591, 3590, 3589, 3588, 3581, 3580 i 3584 sve u KO Tivat, u skladu sa situacionim planom dostavljenim uz zahtjev od strane investitora.
