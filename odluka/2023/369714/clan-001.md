@@ -1,0 +1,3 @@
+# Član 1
+## o izgradnji lokalnog objekta od opšteg interesa-proširenje sekundarne i tercijarne kanalizacione mreže, u obuhvatu DUP-a »Gornji Kalimanj« ("Sl.list CG - Opštinski propisi" broj 18/15)
+Ovom Odlukom utvrđuje se izgradnja lokalnog objekta od opšteg interesa i to izvođenje radova na proširenju sekundarne i tercijarne kanalizacione mreže, odnosno dio koji je ostao neizveden u prethodnoj fazi, u obuhvatu Detaljnog urbanističkog plana "Gornji Kalimanj", a koje je planirano da se izvodi preko kat.par.br. 2219, 2218, 2217, 2216, 2215, 2214, 2213, 2212, 2211/1, 2210, 2133, 2132/1, 2132/2, 2066, 2065/1, 2065/2, 2067/1, 2067/2, 2061, 2068, 2220 i 2222 sve u KO Tivat, u skladu sa situacionim planom dostavljenim uz zahtjev od strane investitora.
