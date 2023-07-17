@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 i 22 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 46 stav 1 tačka 22 Statuta Opštine Bijelo Polje ("Sl.List CG-Opštinski propisi" br.19/18) i člana 7 stav 3 Odluke organizovanju JU Centar za sport i rekreaciju ("Sl.List CG-Opštinski propisi" br.30/19) Skupština opštine Bijelo Polje na sjednici održanoj 17.07.2023. godine, donijela je
+ODLUKU
