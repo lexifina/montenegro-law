@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 74/16, 02/18, 66/19 i 140/22) i člana 11 stav 1 alineja 1 Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalno" Danilovgrad ("Službeni list Crne Gore - opštinski propisi", br. 002/14 od 20.01.2014, 016/19 od 18.04.2019), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22 i 84/22) i člana 35 stav 1 tačka 2 Statuta Opštine Danilovgrad ("Službeni list Crne Gore - opštinski propisi", br. 43/18) Skupština Opštine Danilovgrad na sjednici održanoj dana 05.07., 06.07.,10.07. i 11.07. 2023. godine, 2023. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta
