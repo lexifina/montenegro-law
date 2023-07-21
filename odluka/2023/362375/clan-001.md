@@ -1,0 +1,4 @@
+# Član 1
+## o izmjenama i dopunama Odluke o osnivanju Društva sa ograničenom odgoornošću"Park prirode rijeka Zeta"
+U Odluci o osnivanju Društva sa ograničenom odgovornošću "Park prirode rijeka Zeta" ("Službeni list Crne Gore - opštinski propisi", br. 006/20 i 023/21) član 1 mijenja se i glasi:
+"Ovom Odlukom osniva se Društvo sa ograničenom odgovornošću "Park prirode rijeka Zeta" (u daljem tekstu: Društvo) i uređuje: naziv i sjedište Društva, osnivač, djelatnost, osnivački ulog, upravljanje i zastupanje, vrsta i obim odgovornosti, ovlašćenja u pravnom prometu sa trećim licima, sticanje, raspodjela dobiti i snošenje rizika, zaštita životne sredine i druga pitanja od značaja za osnivanje Društva i ovlašćuje se predsjednik Opštine da sa gradonačelnicom Glavnog grada Podgorica zaključi Ugovor o osnivanju Društva sa ograničenom odgovornošću "Park prirode rijeka Zeta".
