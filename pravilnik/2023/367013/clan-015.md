@@ -1,0 +1,2 @@
+# Član 15
+Ako fizioterapeut nije iz bilo kojeg razloga tokom sedam godina koliko važi javna isprava kojom se dokazuje stručna osposobljenost za neposredan rad i vršenje fizioterapeutske zdravstvene djelatnosti razdoblja sakupio dovoljan broj bodova, može to da nadoknadi polaganjem ispita, čiji sadržaj propisuje Komora. Komisija za kontinuiranu fizioterapeutsku edukaciju Komore fizioterapeuta Crne Gore svaki slučaj procjenjuje pojedinačno, te sastavlja ispitni program i imenuje ispitnu komisiju.

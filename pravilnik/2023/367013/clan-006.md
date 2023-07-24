@@ -1,0 +1,13 @@
+# Član 6
+U svrhu trajnog usavršavanja Komora je obavezna da organizuje stručno usavršavanje.
+Fizioterapeuti mogu da izaberu način stručnog usavršavanja koji im najviše odgovara, a u skladu sa načinima stručnog usavršavanja iz članova ovog Pravilnika.
+Fizioterapeuti imaju pravo da odaberu sadržaj i oblik svog stručnog usavršavanja organizovanog od strane Komore ili drugih organizatora trajnog usavršavanja, vodeći računa o tome da se bodovi moraju skupljati iz različitih oblika stručnog usavršavanja.
+Predlagači programa stručnog usavršavanja mogu biti: obrazovne ustanove koje u svom sastavu imaju studije fizioterapije, komisije Komore fizioterapeuta, zdravstvene ustanove, stručna društva i organizacije, privredna društva, pojedinci i drugi.
+Pod drugim organizatorima stručnog usavršavanja smatraju se svi organizatori stručnog usavršavanja koji nijesu dio Plana i programa trajnog usavršavanja definisanog članom 7 ovog Pravilnika.
+Prijavljivanje trajnog usavršavanja, administrativni postupak vrednovanja i evidencija učestvovanja na svim oblicima trajnog usavršavanja sprovodi se i evidentira na način koji propiše Komisija za kontinuiranu fizioterapeutsku edukaciju Komore fizioterapeuta Crne Gore posebnim obrascima.
+Komora će organizatoru trajnog usavršavanja bez kotizacije kategorisati isti oblik trajnog usavršavanja bez naknade.
+Komora će organizatoru trajnog usavršavanja sa kotizacijom kategorisati isti oblik trajnog usavršavanja sa naknadom i sa organizatorom trajnog usavršavanja će sklopiti poseban ugovor kojim se regulišu međusobna prava i obaveze u postupku trajne edukacije.
+Organizator stručnog skupa za koji se plaća kotizacija ili bilo koji drugi oblik novčane naknade, dužan je da prije ili nakon održavanja skupa dostavi Komisija za kontinuiranu fizioterapeutsku edukaciju Komore fizioterapeuta Crne Gore popis učesnika stručnog skupa kojima treba evidentirati bodove, u pisanom ili elektronskom obliku.
+Drugi organizatori koji naplaćuju kotizaciju ili bilo koji drugi oblik novčane naknade, a u svrhu određene edukacije dužni su da uplate Komori naknadu na žiro račun u fiksnom iznosu od 250.00 eura.
+Ugovorom iz stava 8 ovog člana, organizator preuzima obavezu plaćanja odgovarajuće naknade Komori za troškove postupka kategorizacije, a Komora se obavezuje da će, po prijemu dokaza o uplati naknade od organizatora, izvršiti dodjelu bodova učesnicima.
+Drugi organizator koji je u prethodnom periodu organizovao najmanje deset kategorizovanih stručnih usavršavanja od strane Komore, dužan je da za svako naredno kategorizovano stručno usavršavanje uplati Komori na žiro račun 50% od iznosa koji je utvrđen stavom 11 ovog člana Pravilnika, odnosno 125.00 eura.

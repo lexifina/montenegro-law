@@ -1,0 +1,10 @@
+# Član 10
+## EVIDENCIJA TRAJNOG USAVRŠAVANjA
+Popis fizioterapeuta i način učestvovanja na stručnim sastancima s predavanjima na nivou organizacione jedinice koji su dio Plana i programa trajnog usavršavanja definisanog članom 7 ovog Pravilnika, dostavljaju se u kancelarije Komore do 15 dana nakon održavanja stručnog sastanka s predavanjem u zdravstvenoj ustanovi.
+Trajno usavršavanje drugih organizatora Komora će vrednovati ako obrađuju neko područje fizioterapije ili ako su multidisciplinarni, a uključuju potrebna znanja od stručne koristi za fizioterapeute.
+Zahtjev za vrednovanje trajnog usavršavanja koje se održava u Crnoj Gori, drugi organizator treba da podnese najkasnije 30 dana prije održavanja oblika trajnog usavršavanja. Uz zahtjev je potrebno da se priloži, zavisno od načina i vrste trajnog usavršavanja, sva potrebna dokumentacija. Pojedinačni zahtjev za vrednovanjem trajnog usavršavanja može da podnese fizioterapeut ili fizioterapeutski tehničar za učešće na stručnim skupovima (kongresima, simpozijima i konferencijama) i kursevima i online kursevima koji su organizirani izvan Crne Gore, kao i za vrednovanje stručnog usavršavanja putem studijskih boravaka s mentorom i publikacija u Crnoj Gori i inostranstvu.
+Pojedinačni zahtjev za vrednovanjem trajnog usavršavanja neće biti vrednovan ako je drugi organizator, za čije učestvovanje na trajnom usavršavanju se traži pojedinačno vrednovanje, pravna ili fizička osoba koja svoju djelatnost obavlja na području Crne Gore.
+Popis učesnika trajnog usavršavanja na propisanom obrascu Komore, način učestvovanja, obrazac provjere znanja i rezultate provjere dostavljaju se do 15 dana nakon održavanja oblika trajnog usavršavanja u kancelarije Komore.
+Sa organizatorom trajnog usavršavanja Komora sklapa ugovor o međusobnim pravima i obavezama za pojedino trajno usavršavanje ili za program trajnog usavršavanja u određenom vremenskom periodu.
+Ugovor potpisuje predsjednik Komore.
+Za istinitost podataka dostavljenih Komori, odgovoran je organizator usavršavanja.

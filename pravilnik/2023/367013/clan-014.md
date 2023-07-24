@@ -1,0 +1,2 @@
+# Član 14
+Fizioterapeuti su dužni da provjere ispunjavaju li uslove za obnavljanje javne isprave kojom se dokazuje stručna osposobljenost za neposredan rad i vršenje fizioterapeutske zdravstvene djelatnosti tri mjeseca prije isteka roka od sedam godina od dobijanja javne isprave kojom se dokazuje stručna osposobljenost za neposredan rad i vršenje fizioterapeutske zdravstvene djelatnosti ili produženja javne isprave kojom se dokazuje stručna osposobljenost za neposredan rad i vršenje fizioterapeutske zdravstvene djelatnosti.
