@@ -1,0 +1,2 @@
+# Član 12
+Isplata sredstava za transfere institucijama, odnosno ostale transfere institucijama, odobravaće se mjesečno, odnosno kvartalno zavisno od potreba i finansijskih mogucnosti zaključkom predsjednika opštine, na osnovu obrazloženog zahtjeva institucije i dostavljenog izvještaja o realizaciji sredstava u prethodnom periodu, na koje je dato pozitivno mišljenje i saglasnost nadležnog organa i predsjednika opštine.
