@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi (Sl.list CG br. 02/18, 040/11 i 038/12) čl. 36 stav 1 tačka 2 Statuta Opštine Berane ( Sl. list 42/18) i član 40, član 41 i član 42 Zakona o kulturi ("Službeni list Crne Gore" br. 4. 049/08, 016/11, 040/11 038/129) i Odluke o organizovanju Javne ustanove Centar za kulturu Berane, br. 02-030-51 od 27. 02. 2009. godine, Skupština Opštine Berane na sjednici održanoj dana 04. jula 2023. godine, donijela je
+O D L U K U
