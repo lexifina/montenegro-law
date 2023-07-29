@@ -1,0 +1,2 @@
+# Član 2
+Pod održavanjem čistoće u smislu ove Odluke smatra se: sakupljanje, odvoz i odlaganje komunalnog otpada, odnosno otpada nastalog u domaćinstvima i poslovnim i poslovnim prostorima i drugog otpada, koji je po svojim svojstvima sličan otpadu nastalom u domaćinstvima, u kontejnere ili na drugi način, sakupljanje, prevoz i odlaganje kabastog otpada, čišćenje i pranje ulica, trgova i drugih javnih površina.
