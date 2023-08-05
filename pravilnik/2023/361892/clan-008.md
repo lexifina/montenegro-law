@@ -1,0 +1,6 @@
+# Član 8
+## Ukidanje fitosanitarnih mjera iskorjenjivanja
+(1) Uprava ukida mjere iz člana 5 ovog pravilnika koje se odnose na obilježeno područje kada to područje više nije zaraženo Synchytrium endobioticum (Schilbersky), u skladu sa Prilogom 4.
+(2) Nakon ukidanja mjera vrše se pregledi prilikom vađenja prvog krompira sorti osjetljivih na relevantni patotip Synchytrium endobioticum (Schilbersky), koji se ne smije premještati iz obilježenog područja dok se taj pregled ne sprovede, osim ako se premještanje izvodi pod nadzorom Uprave odnosno fitosanitarnog inspektora.
+(3) Izuzetno od stava 1 ovog člana i nakon najmanje deset godina od poslednje potvrde prisustva Synchytrium endobioticum (Schilbersky) u određenim djelovima zaraženog područja, Uprava može djelimično ukinuti mjere primjenjive u odgovarajućim djelovima obilježenih područja u skladu sa Prilogom 4 tačka 2 ovog pravilnika.
+(4) Kada su ispunjeni uslovi za djelimično ukidanje mjera iz stava 3 ovog člana, u skladu sa Prilogom 4 tačka 2 ovog pravilnika, određeno bilje koje nije namijenjeno sadnji može se uzgajati u obilježenom području, pod uslovom da je riječ o sorti koja je otporna na patotipove Synchytrium endobioticum (Schilbersky) pronađene u zaraženoj proizvodnoj jedinici ili na sve patotipove za koje je poznato da se pojavljuju u Crnoj Gori.
