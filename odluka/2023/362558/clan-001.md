@@ -1,0 +1,3 @@
+# Član 1
+## "Ulcinj -Grad" za lokalitet "Pinješ 2" Opština Ulcinj
+Dozvoljava se Jauković D.Novak , Jauković D.Branko , Jauković D.Dušan I Jauković- Pavlović Milenka otkup katastarske parcele br.2967/5 u površini od 5 m2 po kulturi građevinska parcela , sa Lista nepokretnosti br.604 KO Ulcinj kao svojina Crne Gore pravo raspolaganja Opština Ulcinj I kat.parc.br.3300/3 u površini od 9 m2 po kulturi građevinska parcelasa Lista nepokretnosti br.605 KO Ulcinj po kulturi građevinska parcela , radi dokompletiranja urbanističke parcele br.122 sa ID DUP Ulcinj-Grad za lokalitet Pinješ 2 Opština Ulcinj.
