@@ -1,0 +1,2 @@
+Na osnovu člana 3 stav 2 Zakona o socijalnoj i dječjoj zaštiti ("Sl.list CG", br. 27/13, 01/15, 42/15, 47/15, 56/16, 66/16, 01/17, 31/17, 42/17, 50/17, 59/21, 145/21, 145/21, 03/23), člana 27 stav 1 tačka 15, kao i člana 58 stav 1 tačka 3 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 02/18, 34/19, 38/20, 50/22, 84/22) i člana 24 Statuta Opštine Tuzi stav 1 tačka 15 ("Sl.list CG"- OP, br. 24/19, 05/20, 51/22, 55/22) Skupština opštine Tuzi, na sjednici održanoj 20.07.2023. godine, donijela je
+ODLUKU
