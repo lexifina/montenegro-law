@@ -1,0 +1,5 @@
+# Član 22
+Lica iz čl. 4, 5 i 6 ove uredbe, za vrijeme rada u državi prijema mogu, na osnovu zahtjeva, ostvariti pravo na naknadu dijela troškova za obrazovanje djece koja sa njima stalno borave u državi prijema u predškolskim, osnovnim i srednjoškolskim javnim obrazovnim ustanovama, u iznosu od 70% od ukupnih troškova upisa i obrazovanja u tim ustanovama, za svako dijete.
+Ako iz objektivnih razloga nije moguće izvršiti upis djece u institucije iz stava 1 ovog člana ili ako je to odluka roditelja, Ministarstvo u svakom konkretnom slučaju odlučuje o opravdanosti zahtjeva, odnosno mogućnosti participacije u troškovima obrazovanja, odnosno naknadi za obrazovanje djece, a najviše u iznosu od 70% od ukupnih troškova obrazovanja i upisa, za svako dijete.
+U slučaju obrazovanja djeteta sa smetnjama u razvoju, naknade iz st. 1 i 2 ovog člana, uz prethodno pribavljenu saglasnost ministra odbrane, mogu se utvrditi u većem iznosu.
+Pravo iz st. 1, 2 i 3 ovog člana ne odnosi se na izdatke za ishranu (kantinu) u osnovnim i srednjoškolskim javnim obrazovnim ustanovama, troškove prevoza, obaveze za vannastavne aktivnosti, kupovinu knjiga i sl.

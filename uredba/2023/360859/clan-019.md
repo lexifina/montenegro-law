@@ -1,0 +1,2 @@
+# Član 19
+Lica iz čl. 4, 5 i 6 ove uredbe mogu ostvariti pravo na naknadu troškova za stanovanje, uz prethodnu pisanu saglasnost ministra odbrane na ugovor o zakupu stambenog prostora, pri čemu se u pogledu veličine, strukture i cijene stambenog prostora uzimaju u obzir kriterijumi iz člana 16 st. 1 i 2 ove uredbe, diplomatski rang, protokolarne i druge potrebe i specifični uslovi rada u državi prijema.

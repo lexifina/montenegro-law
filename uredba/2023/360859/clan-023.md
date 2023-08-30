@@ -1,0 +1,2 @@
+# Član 23
+Lica iz čl. 4, 5 i 6 ove uredbe, u slučaju korišćenja godišnjeg odmora u Crnoj Gori, na osnovu zahtjeva, mogu ostvariti pravo na naknadu putnih troškova jedanput u toku mandata, u visini troškova povratne karte avionskog prevoza, ekonomske klase, za sebe i članove uže porodice ili korišćenja sopstvenog motornog vozila, u visini od 15% maksimalne cijene naftnih derivata u Crnoj Gori na dan puta za svaki pređeni kilometar i troškova putarina.
