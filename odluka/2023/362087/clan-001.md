@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti o ustanovljenju prava stvarne službenosti u korist DOO "Crnogorski elektrodistributivni sistem" Podgorica
+Daje se saglasnost DOO "Crnogorski elektrodistributivni sistem" Podgorica, na ustanovljenje prava službenosti na katastarskoj parceli broj 2949 upisanoj u listu nepokretnosti broj 193 KO Žabljak I u površini od 5 m2, svojina Država Crna Gora sa pravom raspolaganja Opština Žabljak, radi postavljanja elektroenergetskog kabla za izgradnju TS 10/0.4kV, 1x630 KVA "BROJ 1", prema DUP-u "Javorovača", u skladu sa ovjerenim geodetskim elaboratom izrađenim od strane "GEONANA" Podgorica.
