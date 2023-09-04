@@ -1,0 +1,2 @@
+Na osnovu čl. 38 St 1 laf. 21 Zakona o lokalnoj samoupravi (" SI. list Crne Gore" broj 002/18, 034/19, 038/20, 084/22), čl. 37 st.l tač.22 Statuta Opšline Kolašin ("SI, list Crne Gore Opštinski propisi" broj 024/19) čl. 4 i 11 Odluke o obrazovanju radnih tijela Skupštine opštine ("SI. list Crne Gore - opštinski propisi" broj 031/14) Skupština opštine Kola.šin, na sjednici održanoj dana 30.9.2023. godine donijela jc-
+ODLUKU
