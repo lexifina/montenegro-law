@@ -1,0 +1,2 @@
+# Član 23
+Autor ili nosilac autorskog imovinskog prava na fotografskim može da otkaže ovlašćenje za upravljanje pravima, vrstama prava, vrstama djela ili drugim sadržajima koje je povjerio Organizaciji OFA u cjelini ili u pogledu ili bilo kojeg prava, vrste prava, vrste djela ili drugih sadržaja po izboru, za područja država po izboru, nakon otkaznog roka koji ne može biti duži od 6 (šest) mjeseci.

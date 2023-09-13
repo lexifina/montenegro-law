@@ -1,0 +1,2 @@
+# Član 12
+Djelatnosti Organizacije OFA su: kolektivno ostvarivanje imovinskih prava autora fotografskih djela i nosilaca autorskog prava; organizacija stručnih seminara, savjetovanja, manifestacija i izložbi; saradnja sa organizacijama i udruženjima iz zemlje i inostranstva; izdavanje publikacija; izrada internet stranica i aplikacija u cilju promocije autora fotografije i fotografskih djela i ostvarivanja autorskog prava; preduzimanje drugih aktivnosti radi ostvarivanje ciljeva Organizacije OFA.
