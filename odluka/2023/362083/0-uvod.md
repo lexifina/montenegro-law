@@ -1,0 +1,2 @@
+Na osnovu člana 131. I 132 stav 1.2 i 3 . Zakona o svojinsko pravnim odnosima Crne Gore ("Službeni list CG 19/2009") člana 34 stav 1 i 3 , člana 40 stav 2 tačka 3 Zakona o državnoj imovini ("Sl.list CG" br.21/09 i 40/11), člana 28 stav 1 i 2 Zakona o svojinsko pravnim odnosima("Sl.list CG" br.19/09), člana 33 stava 1 tačka 1 i člana 58 stav 1 tačka 6 Zakona o lokalnoj samoupravi ( "Sl. list CG" br.2/18,34/19 i 38/20 ) Predsjednik Opštine Ulcinj , donosi dana 30.08.2023 godine
+ODLUKU
