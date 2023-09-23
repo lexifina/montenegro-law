@@ -1,0 +1,3 @@
+Na osnovu člana 6 stav 1tačka 4 Zakona o poreskoj administraciji ("Službeni list RCG", broj 65/01 i "Službeni list CG", br. 47/17 i 52/19), člana 7 stav 1 tačka 1 Zakona o finansiranju lokalne samouprave ("Službeni list RCG", br. 42/03 i "Službeni list CG", br. 3/19), člana 58, st. 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list RCG", broj 2/18, 34/19 i 38/20), čl. 7 i 15 Zakona o porezu na nepokretnosti ("Službeni list CG", broj 25/19 i 49/22), Odluke o porezu na nepokretnosti (Sl.list CG - opštinski propisi,br.22/16 i 27/19), a na osnovu podataka "Monstata", Predsjednik Opštine Ulcinj, donosi:
+ODLUKU
+o odredjivanju tržišne vrijednosti nepokretnosti za 2023 godinu.
