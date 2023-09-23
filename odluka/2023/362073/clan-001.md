@@ -1,0 +1,3 @@
+# Član 1
+## o dopuni Odluke o prenosu prava korišćenja na nepokretnostima na kojima pravo raspolaganja ima opština Pljevlja Društvu sa ograničenom odgovornošću "Čistoća" Pljevlja
+U Odluci o prenosu prava korišćenja na nepokretnostima na kojima pravo raspolaganja ima opština Pljevlja Društvu sa ograničenom odgovornošću "Čistoća" Pljevlja ("Sl. list CG - Opštinski propisi" broj 31/17, 3/19, 40/19, 43/20 i 39/22) u čl. 1, u tabeli poslije rednog broja 18 dodaje se redni broj 19 - poslovni prostor u privredi, broj lista nepokretnosti-3142, broj katastarske parcele - 1670/1, broj zgrade 1, PD broj 31, spratnost -prizemlje, površine 63m2.
