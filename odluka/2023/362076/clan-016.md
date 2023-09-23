@@ -1,0 +1,2 @@
+# Član 16
+Zabranjeno je zbog zdravstveno-higijenskih i drugih razloga da se uvode psi u objekte u javnoj upotrebi (trgovačke, ugostiteljske i turističke namjene, poštanske ili telekomunikacione namjene, objekte za pružanje finansijskih usluga, objekte zdravstvene, rehabilitacione, socijalne i dječije zaštite, objekte vaspitne i obrazovne namjene i druge slične objekte). Izuzetno, uvoditi psa u objekte iz stava 1 ovog člana dozvoljeno je samo uz saglasnost odgovornog lica ili vlasnika objekta.

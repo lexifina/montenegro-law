@@ -1,0 +1,3 @@
+# Član 25
+Troškove sakupljanja, prevoženja i zbrinjavanja napuštenih i izgubljenih kućnih ljubimaca u sklonište, kojima je držalac poznat, snosi držalac kućnog ljubimca.
+Troškovi sakupljanja, prevoženja i zbrinjavanja napuštenih i izgubljenih kućnih ljubimaca u sklonište, kojima držalac nije poznat, obezbjedjuju se iz sredstava Budžeta opštine.

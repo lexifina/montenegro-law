@@ -1,0 +1,2 @@
+# Član 29
+Danom stupanja na snagu ove Odluke prestaje da važi Odluka o uslovima i načinu držanja kućnih ljubimaca i načinu postupanja sa napuštenim i izgubljenim kućnim ljubimcima ("Službeni list CG - Opštinski propisi" br. 22/2011 o 21.07.2011. godine) i Odluka o izmjenama i dopunama Odluke o uslovima i načinu držanja kućnih ljubimaca i načinu postupanja sa napuštenim i izgubljenim kućnim ljubimcima ("Službeni list CG - Opštinski propisi" br. 3/2016 od 20.01.2016. godine)
