@@ -1,0 +1,6 @@
+# Član 22
+## Bolovanje
+Kada je pomorac iskrcan u bilo kojoj luci zbog bolesti ili povrede, isti ima pravo na proporcijalni dio pune zarade do dana repatrijacije tj. povratka u mjesto svog prebivališta.
+U slučaju da je pomorac iskrcan zbog bolesti, isti ima pravo na naknadu za bolovanje u visini njegove osnovne zarade i to najduže 130 dana nakon repatrijacije.
+U slučaju da je pomorac iskrcan zbog pretrpjene povrede na radu za koju poslodavac ne dokaže da je nastala zbog namjernog samopovrijeđivanja, ili da je povreda pomorca prouzrokovana njegovom opijenošću alkoholom i/ili drogama, poslodavac je dužan isplaćivati pomorcu naknadu za bolovanje u visini njegove osnovne zarade do stepena izliječenja koje pomorcu omogućava ponovni ukrcaj na brod u zvanju u kojem je plovio prije povrede, ili do trenutka kada pomorcu bude utvrđen trajni invaliditet u određenom stepenu u skladu sa odredbama člana 24 stav 4 ovog ugovora.
+Dokaz o trajanju bolovanja temelji se na Izvještaju o privremenoj spriječenosti za rad (doznakama) i medicinskoj dokumentaciji prema potrebi potvrđenoj od strane ljekara kojeg imenuje poslodavac, a ako se ljekar imenovan od strane pomorca ne slaže sa mišljenjem ljekara imenovanog od strane poslodavca, poslodavac i pomorac i/ili Sindikat će imenovati trećeg ljekara čije će mišljenje biti konačno i obavezujuće za obije strane.
