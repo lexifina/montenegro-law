@@ -1,0 +1,3 @@
+# Član 16
+U slučaju pružanja usluga iniciranja plaćanja i usluga informacija o računu od strane istog pružaoca platnih usluga, minimalni novčani iznos za osiguranje od profesionalne odgovornosti, odnosno uporedivu garanciju utvrđuje se u skladu sa odredbama ove odluke za svaku uslugu posebno, pa se tako dobijeni iznosi sabiraju.
+U slučaju iz stava 1 ovog člana, ugovor o osiguranju od profesionalne odgovornosti, odnosno uporediva garancija mora da sadrži odredbe o osiguranju od profesionalne odgovornosti za pružanje usluge iniciranja plaćanja i usluge informacija o računu kojima se pokriva odgovornost iz člana 1 stav 2 ove odluke.

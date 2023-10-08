@@ -1,0 +1,4 @@
+# Član 2
+## Ograničenja i obuhvat
+Radi obezbjeđivanja pokrića obaveza po osnovu odgovornosti iz člana 1 stav 2 ove odluke, osiguranje od profesionalne odgovornosti, odnosno uporediva garancija ne mogu imati bilo koje ograničenje koje bi dovelo do umanjenja naknade na koju ima pravo korisnik platnih usluga ili drugo lice u skladu sa Zakonom.
+Ako platna institucija, pored pružanja usluge iniciranja plaćanja i/ili usluge informacija o računu, pruža i neku drugu platnu uslugu utvrđenu Zakonom, minimalni novčani iznos za osiguranje od profesionalne odgovornosti ili uporedivu garanciju za pokriće odgovornosti za pružanje ovih usluga izračunava se u skladu sa ovom odlukom, ne dovodeći u pitanje zahtjeve u vezi sa osnovnim i/ili regulatornim kapitalom utvrđenim za pružanje drugih platih usluga u skladu sa Zakonom.
