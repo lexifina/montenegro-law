@@ -1,0 +1,2 @@
+Na osnovu člana 268 stav 2 i člana 270 Zakona o privrednim društvima ("Službeni list Crne Gore", br. 65/20 i 146/21), člana 38 stav 1 tačka 2 i 14 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19 i 38/20), člana 8 Zakona o održavanju stambenih zgrada ("Službeni list Crne Gore", br. 41/16, 84/18, 111/22 i 140/22) i člana 35 stav 1 tačka 2 i 14 Statuta Opštine Danilovgrad ("Službeni list Crne Gore - opštinski propisi", br. 43/18), Skupština opštine Danilovgrad, na sjednici održanoj dana 19.09.2023. godine, donijela je
+ODLUKU
