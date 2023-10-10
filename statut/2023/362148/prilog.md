@@ -1,0 +1,1 @@
+Na Odluku o izmjenama Statuta Javne ustanove Kulturno - informativni centar "Zeta" Skupština Opštine Zeta dala je saglasnost Odlukom broj D 32-016/23-157 od 04.08.2023.godine, na osnovu čega je izrađen prečišćeni tekst Statuta.
