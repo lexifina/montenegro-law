@@ -1,0 +1,3 @@
+# Član 1
+U Odluci o davanju saglasnosti Opštini Tuzi za izvođenje radova na nepokretnostima na kojima svojinska ovlašćenja vrši Glavni grad - Podgorica radi rekonstrukcije saobraćajnice Podgorica - Tuzi od Ržaničkog mosta na Cijevni do skretanja za Šipčanik, broj 02- 016/23-821 od 4. avgusta 2023. godine ("Sl.list Crne Gore - opštinski propisi", broj 37/23), u članu 1 mijenja se alineja 1 i glasi:
+"- katastarske parcele broj 1602/1 po načinu korišćenja pašnjak 5 klase, iz posjedovnog lista broj 470 KO Tuzi, sopstvenik- posjednik Crna Gora, subjekat raspolaganja Glavni grad Podgorica, u površini od 14.308m2 ( označeno uslovnim parcelarnim brojevima 1602/3 pov.607m2, br.1602/4 pov.2.117m2 i br.1602/5 pov.11.584m2 )".
