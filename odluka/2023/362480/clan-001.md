@@ -1,0 +1,3 @@
+# Član 1
+## KV "IZBJEGLIČKO NASELјE", KO SLATINA I, OPŠTINA ANDRIJEVICA
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti radi izgradnje DV 10 kV Trešnjevo (priključak za STS 10/0,4 kV "Izbjegličko naselje") i NN kablovski izvod sa STS 10/0,4 kV "Izbjegličko naselje", KO Slatina I, Opština Andrijevica, i to na dijelu katastarske parcele broj 1759/1, po načinu korišćenja "livada 2. klase", u površini od 1 m2, upisane u list nepokretnosti broj 313 KO Slatina I, Opština Andrijevica, u susvojini Zeković Dragana, Zeković Dragutina, Zeković Dušana, Zeković Lazara, Zeković Mileve, Zeković Rajka i Zeković Zorana.
