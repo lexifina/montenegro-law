@@ -1,0 +1,12 @@
+# Član 1
+## KO MAJSTOROVINA, OPŠTINA BIJELO POLjE
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti radi izgradnje STS 10/0,4 kV "Majstorovina" sa uklapanjem u 10 kV i NN mrežu, KO Majstorovina, Opština Bijelo Polje, i to:
+1) dijela katastarske parcele broj 1089, po načinu korišćenja "šuma 5. klase", u površini od 39 m2, upisane u list nepokretnosti broj 138 KO Majstorovina, Opština Bijelo Polje, u susvojini Jeremić (Arsenije) Ljubica, Jeremić (Arsenije) Ljubomir, Jeremić (Arsenije) Milo, Spurnić (Arsenije) Nada, Jeremić (Arsenije) Rade i Rakita (Arsenije) Zorka;
+2) dijela katastarske parcele broj 1090, po načinu korišćenja "livada 4. klase", u površini od 322 m2, upisane u list nepokretnosti broj 138 KO Majstorovina, Opština Bijelo Polje, u susvojini Jeremić (Arsenije) Ljubica, Jeremić (Arsenije) Ljubomir, Jeremić (Arsenije) Milo, Spurnić (Arsenije) Nada, Jeremić (Arsenije) Rade i Rakita (Arsenije) Zorka;
+3) dijela katastarske parcele broj 2795, po načinu korišćenja "šuma 4. klase", u površini od 265 m2, upisane u list nepokretnosti broj 204 KO Majstorovina, Opština Bijelo Polje, u svojini Madžgalj (Miloš) Boško;
+4) dijela katastarske parcele broj 2804, po načinu korišćenja "šuma 4. klase", u površini od 376 m2, upisane u list nepokretnosti broj 204 KO Majstorovina, Opština Bijelo Polje, u svojini Madžgalj (Miloš) Boško;
+5) dijela katastarske parcele broj 2792, po načinu korišćenja "šuma 4. klase", u površini od 1352 m2, upisane u list nepokretnosti broj 205 KO Majstorovina, Opština Bijelo Polje, u susvojini Madžgalj (Dragiša) Kosa i Madžgalj (Velimir) Ljubiša;
+6) dijela katastarske parcele broj 3019, po načinu korišćenja "šuma 4. klase", u površini od 52 m2, upisane u list nepokretnosti broj 409 KO Majstorovina, Opština Bijelo Polje, u svojini Orović (Vukić) Nikola;
+7) dijela katastarske parcele broj 379, po načinu korišćenja "livada 4. klase", u površini od 558 m2, upisane u list nepokretnosti broj 671 KO Majstorovina, Opština Bijelo Polje, u svojini Nišavić (Svetozar) Nikola;
+8) dijela katastarske parcele broj 2632, po načinu korišćenja "šuma 5. klase", u površini od 65 m2, upisane u list nepokretnosti broj 723 KO Majstorovina, Opština Bijelo Polje, u svojini Danilović (Dragiša) Duško;
+9) dijela katastarske parcele broj 2637/2, po načinu korišćenja "šuma 5. klase", u površini od 43 m2, upisane u list nepokretnosti broj 723 KO Majstorovina, Opština Bijelo Polje, u svojini Danilović (Dragiša) Duško.
