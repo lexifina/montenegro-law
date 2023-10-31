@@ -1,0 +1,2 @@
+Na osnovu člana 184 stav 2 tačka 5 Zakona o radu ("Službeni list CG", br.74/19, 8/21, 59/21, 68/21 i 145/21) i člana 24 st.1 i 6 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18, 34/19, 130/21, 146/21, 92/22 i152/22), Samostalni sindikat stambeno- komunalne djelatnosti Crne Gore i Vlada Crne Gore, zaključuju
+G R A N S K I KOLEKTIVNI UGOVOR O IZMJENAMA I DOPUNAMA GRANSKOG KOLEKTIVNOG UGOVORA ZA STAMBENO-KOMUNALNU DJELATNOST
