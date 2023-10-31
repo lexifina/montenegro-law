@@ -1,0 +1,40 @@
+# Član 1
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti radi izgradnje STS 10/0,4 kV - 160 kVA "Bubanje 3" sa priključnim DV 10 kV i uklapanjem u NN mrežu, KO Bubanje, Opština Berane, i to:
+- dijela katastarske parcele broj 1303, po načinu korišćenja "voćnjak 3. klase", u površini od 162 m2, upisane u list nepokretnosti broj 5 KO Bubanje, Opština Berane, u svojini Bubanje (Andrija) Vujadina;
+- dijela katastarske parcele broj 1323, po načinu korišćenja "voćnjak 3. klase", u površini od 67 m2, upisane u list nepokretnosti broj 6 KO Bubanje, Opština Berane, u svojini Bubanje (Andrija) Miladina;
+- dijela katastarske parcele broj 1301, po načinu korišćenja "voćnjak 3. klase", u površini od 66 m2, upisane u list nepokretnosti broj 7 KO Bubanje, Opština Berane, u svojini Bubanje (Andrija) Milojice;
+- dijela katastarske parcele broj 714, po načinu korišćenja "šuma 6. klase", u površin od 28 m2, upisane u list nepokretnosti broj 23 KO Bubanje, Opština Berane, u svojini Bubanje (Božidar) Zdravka;
+- dijela katastarske parcele broj 377/2, po načinu korišćenja "šuma 5. klase", u površini od 81 m2, upisane u list nepokretnosti broj 23 KO Bubanje, Opština Berane, u svojini Bubanje (Božidar) Zdravka;
+- dijela katastarske parcele broj 376, po načinu korišćenja "livada 7. klase", u površini od 25 m2, upisane u list nepokretnosti broj 23 KO Bubanje, Opština Berane, u svojini Bubanje (Božidar) Zdravka;
+- dijela katastarske parcele broj 380, po načinu korišćenja "šuma 5. klase", u površini od 32 m2, upisane u list nepokretnosti broj 23 KO Bubanje, Opština Berane, u svojini Bubanje (Božidar) Zdravka;
+- dijela katastarske parcele broj 1273, po načinu korišćenja "voćnjak 4. klase", u površini od 101 m2, upisane u list nepokretnosti broj 29 KO Bubanje, Opština Berane, u svojini Bubanje (Boško) Pavla;
+- dijela katastarske parcele broj 576/1, po načinu korišćenja "livada 7. klase", u površini od 26 m2, upisane u list nepokretnosti broj 29 KO Bubanje, Opština Berane, u svojini Bubanje (Boško) Pavla;
+- dijela katastarske parcele broj 731, po načinu korišćenja "voćnjak 3. klase", u površini od 4 m2, upisane u list nepokretnosti broj 29 KO Bubanje, Opština Berane, u svojini Bubanje (Boško) Pavla;
+- dijela katastarske parcele broj 764, po načinu korišćenja "pašnjak 4. klase", u površini od 54 m2, upisane u list nepokretnosti broj 29 KO Bubanje, Opština Berane, u svojini Bubanje (Boško) Pavla;
+- dijela katastarske parcele broj 763, po načinu korišćenja "livada 6. klase", u površini od 229 m2, upisane u list nepokretnosti broj 29 KO Bubanje, Opština Berane, u svojini Bubanje (Boško) Pavla;
+- dijela katastarske parcele broj 403, po načinu korišćenja "šuma 5. klase", u površini od 101 m2, upisane u list nepokretnosti broj 58 KO Bubanje, Opština Berane, u svojini Bubanje (Vojislav) Veska;
+- dijela katastarske parcele broj 413, po načinu korišćenja "livada 7. klase", u površini od 33 m2, upisane u list nepokretnosti broj 58 KO Bubanje, Opština Berane, u svojini Bubanje (Vojislav) Veska;
+- dijela katastarske parcele broj 417, po načinu korišćenja "voćnjak 3. klase", u površini od 56 m2, upisane u list nepokretnosti broj 58 KO Bubanje, Opština Berane, u svojini Bubanje (Vojislav) Veska;
+- dijela katastarske parcele broj 409, po načinu korišćenja "šuma 5. klase", u površini od 34 m2, upisane u list nepokretnosti broj 83 KO Bubanje, Opština Berane, u svojini Bubanje (Đoko) Stamenke;
+- dijela katastarske parcele broj 410, po načinu korišćenja "livada 7. klase", u površini od 6 m2, upisane u list nepokretnosti broj 83 KO Bubanje, Opština Berane, u svojini Bubanje (Đoko) Stamenke;
+- dijela katastarske parcele broj 733, po načinu korišćenja "voćnjak 3. klase", u površini od 162 m2, upisane u list nepokretnosti broj 97 KO Bubanje, Opština Berane, u svojini Bubanje (Krsto) Uroša;
+- dijela katastarske parcele broj 734, po načinu korišćenja "livada 6. klase", u površini od 535 m2, upisane u list nepokretnosti broj 97 KO Bubanje, Opština Berane, u svojini Bubanje (Krsto) Uroša;
+- dijela katastarske parcele broj 703, po načinu korišćenja "voćnjak 3. klase", u površini od 5 m2, upisane u list nepokretnosti broj 105 KO Bubanje, Opština Berane, u svojini Bubanje (Radovan) Milana;
+- dijela katastarske parcele broj 704, po načinu korišćenja "voćnjak 3. klase", u površini od 4 m2, upisane u list nepokretnosti broj 105 KO Bubanje, Opština Berane, u svojini Bubanje (Radovan) Milana;
+- dijela katastarske parcele broj 732, po načinu korišćenja "voćnjak 3. klase", u površini od 353 m2, upisane u list nepokretnosti broj 146 KO Bubanje, Opština Berane, u svojini Bubanje (Radovan) Mašana;
+- dijela katastarske parcele broj 371, po načinu korišćenja "livada 7. klase", u površini od 28 m2, upisane u list nepokretnosti broj 154 KO Bubanje, Opština Berane, u svojini Bubanje (Radoš) Leposave ud. Leke;
+- dijela katastarske parcele broj 374, po načinu korišćenja "nekategorisani putevi", u površini od 22 m2, upisane u list nepokretnosti broj 154 KO Bubanje, Opština Berane, u svojini Bubanje (Radoš) Leposave ud. Leke;
+- dijela katastarske parcele broj 375, po načinu korišćenja "livada 8. klase", u površini od 39 m2, upisane u list nepokretnosti broj 154 KO Bubanje, Opština Berane, u svojini Bubanje (Radoš) Leposave ud. Leke;
+- dijela katastarske parcele broj 739, po načinu korišćenja "pašnjak 7. klase", u površini od 540 m2, upisane u list nepokretnosti broj 154 KO Bubanje, Opština Berane, u svojini Bubanje (Radoš) Leposave ud. Leke;
+- dijela katastarske parcele broj 735, po načinu korišćenja "livada 7. klase", u površini od 191 m2, upisane u list nepokretnosti broj 155 KO Bubanje, Opština Berane, u svojini Bubanje (Radoš) Ranka;
+- dijela katastarske parcele broj 575, po načinu korišćenja "voćnjak 3. klase", u površini od 23 m2, upisane u list nepokretnosti broj 157 KO Bubanje, Opština Berane, u susvojini Bubanje (Radule) Željka i Bubanje (Radule) Rista;
+- dijela katastarske parcele broj 1302, po načinu korišćenja "voćnjak 3. klase", u površini od 34 m2, upisane u list nepokretnosti broj 157 KO Bubanje, Opština Berane, u susvojini Bubanje (Radule) Željka i Bubanje (Radule) Rista;
+- dijela katastarske parcele broj 737, po načinu korišćenja "livada 7. klase", površine 132 m2, upisane u list nepokretnosti broj 163 KO Bubanje, Opština Berane, u svojini Bubanje (Savo) Petra;
+- dijela katastarske parcele broj 738, po načinu korišćenja "šuma 6. klase", u površini od 162 m2, upisane u list nepokretnosti broj 163 KO Bubanje, Opština Berane, u svojini Bubanje (Savo) Petra;
+- dijela katastarske parcele broj 736, po načinu korišćenja "livada 7. klase", u površini od 116 m2, upisane u list nepokretnosti broj 164 KO Bubanje, Opština Berane, u svojini Bubanje (Rajko) Sretka;
+- dijela katastarske parcele broj 676, po načinu korišćenja "nekategorisani putevi", u površini od 4 m2, upisane u list nepokretnosti broj 176 KO Bubanje, Opština Berane, u susvojini Bubanje (Tadiša) Željka i Bubanje (Tadiša) Dragana;
+- dijela katastarske parcele broj 673, po načinu korišćenja "šuma 6. klase", u površini od 40 m2, upisane u list nepokretnosti broj 178 KO Bubanje, Opština Berane, u svojini Bubanje (Tadiša) Željka;
+- dijela katastarske parcele broj 675, po načinu korišćenja "livada 7. klase", u površini od 152 m2, upisane u list nepokretnosti broj 178 KO Bubanje, Opština Berane, u svojini Bubanje (Tadiša) Željka;
+- dijela katastarske parcele broj 678, po načinu korišćenja "voćnjak 3. klase", u površini od 109 m2, upisane u list nepokretnosti broj 178 KO Bubanje, Opština Berane, u svojini Bubanje (Tadiša) Željka;
+- dijela katastarske parcele broj 412, po načinu korišćenja "šuma 5. klase", u površini od 117 m2, upisane u list nepokretnosti broj 178 KO Bubanje, Opština Berane, u svojini Bubanje (Tadiša) Željka;
+- dijela katastarske parcele broj 577, po načinu korišćenja "voćnjak 3. klase", u površini od 4 m2, upisane u list nepokretnosti broj 199 KO Bubanje, Opština Berane, u svojini Bubanje (Mileta) Tempa.
