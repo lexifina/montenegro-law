@@ -1,0 +1,31 @@
+# Član 1
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti radi izgradnje elektroenergetske infrastrukture DV 10 STS "Jasen" - STS "Orah" KO Jasen, Opština Plužine, i to:
+- katastarska parcela broj 1985 KO Jasen, u svojini Aprcović (Mihailo) Zoran, u obimu za nepotpunu eksproprijaciju od 948 m2;
+- katastarska parcela broj 2067/3 KO Jasen, u svojini Aprcović (Radivoje) Mile, u obimu za nepotpunu eksproprijaciju od 286 m2;
+- katastarska parcela broj 2067/2 KO Jasen, u svojini Aprcović (Uglješa) Miodrag, u obimu za nepotpunu eksproprijaciju od 801 m2;
+- katastarska parcela broj 1980 KO Jasen, u svojini Aprcović (Uglješa) Miodrag, u obimu za nepotpunu eksproprijaciju od 378 m2;
+- katastarska parcela broj 1990 KO Jasen, u susvojini Aprcović Danica i Aprcović (Spasoje) Ivan, u obimu za nepotpunu eksproprijaciju od 215 m2;
+- katastarska parcela broj 1991 KO Jasen, u susvojini Aprcović Danica i Aprcović (Spasoje) Ivan, u obimu za nepotpunu eksproprijaciju od 91 m2;
+- katastarska parcela broj 2066 KO Jasen, u svojini Binić (Nikola) Borka, u obimu za nepotpunu eksproprijaciju od 91 m2;
+- katastarska parcela broj 1993 KO Jasen, u susvojini Golubović (Radoš) Jovo, Golubović (Radoš) Mileva i Golubović (Radoš) Milija, u obimu za nepotpunu eksproprijaciju od 22 m2;
+- katastarska parcela broj 1992 KO Jasen, u susvojini Golubović (Radoš) Jovo, Golubović (Radoš) Mileva i Golubović (Radoš) Milija, u obimu za nepotpunu eksproprijaciju od 349 m2;
+- katastarska parcela broj 1994 KO Jasen, u susvojini Golubović (Radoš) Jovo, Golubović (Radoš) Mileva i Golubović (Radoš) Milija, u obimu za nepotpunu eksproprijaciju od 523 m2;
+- katastarska parcela broj 1986 KO Jasen, u svojini Golubović (Trifko) Svetozar, u obimu za nepotpunu eksproprijaciju od 298 m2;
+- katastarska parcela broj 1785 KO Jasen, u svojini Kulić Jovan, u obimu za nepotpunu eksproprijaciju od 4 m2;
+- katastarska parcela broj 1816 KO Jasen, u svojini Kulić (Petar) Božidar, u obimu za nepotpunu eksproprijaciju od 84 m2;
+- katastarska parcela broj 1815 KO Jasen, u svojini Kulić (Petar) Božidar, u obimu za nepotpunu eksproprijaciju od 131 m2;
+- katastarska parcela broj 1818 KO Jasen, u svojini Kulić (Šćepan) Stevan, u obimu za nepotpunu eksproprijaciju od 546 m2;
+- katastarska parcela broj 379 KO Jasen, u svojini Suknović (Pero) Mijat, u obimu za nepotpunu eksproprijaciju od 56 m2;
+- katastarska parcela broj 381 KO Jasen, u svojini Suknović (Pero) Mijat, u obimu za nepotpunu eksproprijaciju od 98 m2;
+- katastarska parcela broj 419/1 KO Jasen, u susvojini Suknović (Petrašin) Božidar, Suknović (Petrašin) Milosav i Suknović (Petrašin) Novislav, u obimu za nepotpunu eksproprijaciju od 384 m2;
+- katastarska parcela broj 412 KO Jasen, u svojini Suknović (Petar) Radovan, u obimu za nepotpunu eksproprijaciju od 855 m2;
+- katastarska parcela broj 408 KO Jasen, u svojini Suknović (Petar) Radovan, u obimu za nepotpunu eksproprijaciju od 41 m2;
+- katastarska parcela broj 468 KO Jasen, u svojini Suknović (Petar) Radovan, u obimu za nepotpunu eksproprijaciju od 499 m2;
+- katastarska parcela broj 466 KO Jasen, u svojini Suknović (Gligor) Rajko, u obimu za nepotpunu eksproprijaciju od 107 m2;
+- katastarska parcela broj 1961 KO Jasen, u susvojini Ćuković (Živojin) Dimitrije i Ćuković Milun, u obimu za nepotpunu eksproprijaciju od 153 m2;
+- katastarska parcela broj 1960 KO Jasen, u susvojini Ćuković (Živojin) Dimitrije i Ćuković Milun, u obimu za nepotpunu eksproprijaciju od 210 m2;
+- katastarska parcela broj 1817 KO Jasen, u svojini Kulić Gojka, u obimu za nepotpunu eksproprijaciju od 142 m2;
+- katastarska parcela broj 1808 KO Jasen, u svojini Kulić (Spasoje) Branka, u obimu za nepotpunu eksproprijaciju od 301 m2;
+- katastarska parcela broj 1807 KO Jasen, u svojini Kulić (Spasoje) Branka, u obimu za nepotpunu eksproprijaciju od 7 m2;
+- katastarska parcela broj 1833 KO Jasen, u svojini Kulić (Spasoje) Branka, u obimu za nepotpunu eksproprijaciju od 210 m2;
+- katastarska parcela broj 1989 KO Jasen, u susvojini Dvožak (Čedomir) Darko i Dvožak (Čedomir) Risto, u obimu za nepotpunu eksproprijaciju od 29 m2.
