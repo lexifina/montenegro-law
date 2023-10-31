@@ -1,0 +1,3 @@
+# Član 59
+Danom stupanja na snagu ove uredbe Ministarstvo pravde, Ministarstvo odbrane, Ministarstvo finansija, Ministarstvo unutrašnjih poslova, Ministarstvo javne uprave, Ministarstvo vanjskih poslova, Ministarstvo zdravlja, Ministarstvo rada i socijalnog staranja, Ministarstvo kulture i medija, Ministarstvo poljoprivrede, šumarstva i vodoprivrede, Ministarstvo ljudskih i manjinskih prava, Ministarstvo evropskih poslova i Ministarstvo sporta i mladih nastavljaju sa radom u djelokrugu utvrđenim ovom uredbom.
+Ministarstva iz stava 1 ovog člana, u skladu sa djelokrugom utvrđenim ovom uredbom, donijeće akte o unutrašnjoj organizaciji i sistematizaciji u roku od 30 dana od dana stupanja na snagu ove uredbe.

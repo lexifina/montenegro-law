@@ -1,0 +1,2 @@
+# Član 23
+Uprava za izvršenje krivičnih sankcija vrši poslove koji se odnose na: izvršenje krivičnih sankcija, i to: kazne zatvora, kazne dugotrajnog zatvora i maloljetničkog zatvora, mjera bezbjednosti koje se u skladu sa zakonom izvršavaju u Upravi za izvršenje krivičnih sankcija; vaspitne mjere upućivanje u ustanovu zavodskog tipa, kazne zatvora izrečene u prekršajnom postupku i mjera za obezbjeđenje prisustva okrivljenog u krivičnom postupku - pritvor; kao i druge poslove koji su joj određeni u nadležnost.
