@@ -1,0 +1,2 @@
+Na osnovu člana 29, 31 i 34 Zakona o državoj imovini CG ("Sl.list CG", br. 21/09 i 40/11), člana 38 Zakona o lokalnoj samouopravi ("Sl.list CG", br.2/18, br. 34/19, 38/20, 50/22 i 84/22), člana 19 i 36 Statuta Opštine Kotor ("Sl.list CG-Opštinski propisi", br.37/19) i Odluke Vlade Crne Gore br.07-421/23-2771/2 od 15.06.2023. godine, Skupština opštine Kotor, na XX sjednici održanoj 18.10.2023.godine, donijela je
+O D L U K U

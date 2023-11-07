@@ -1,0 +1,2 @@
+# Član 3
+Opština Kotor i Crnogorski elektrodistributivni sistem doo Podgorica su saglasni da izvrše razmjenu nepokretnosti iz stava 1 ove Odluke, na način što bi Opština Kotor postala vlasnik nepokretnosti evidentiranih u LN br.51 KO Kotor II, dok bi Crnogorski elektrodistributivni sistem doo Podgorica postao vlasnik nepokretnosti evidentirane u LN br.50 KO Kotor II, a bez isplate razlike između procijenjenih vrijednosti nepokretnosti.
