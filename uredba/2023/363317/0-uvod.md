@@ -1,0 +1,21 @@
+Na osnovu člana 8 stav 9, člana 16 stav 14, člana 17 stav 8, člana 19 stav 7, člana
+23 stav 16, člana 24 stav 3, člana 25 stav 8, člana 26 stav 2, člana 30 stav 12, člana 36
+stav 8, člana 39 stav 2, člana 40 stav 2, člana 41 stav 11, člana 43 stav 4, člana 44 stav
+4, člana 45 stav 2, člana 46 stav 3, člana 47 stav 5, člana 64 stav 8, člana 66 stav 10,
+člana 69 stav 4, člana 71 stav 5, člana 72 stav 5, člana 73 stav 4, člana 75 stav 3, člana
+77 stav 7, člana 80 stav 10, člana 81 stav 5, člana 83 stav 3, člana 88 stav 11, člana 92
+stav 3, člana 94 stav 9, člana 95 stav 10, člana 96 stav 2, člana 97 stav 4, člana 99 stav
+5, člana 101 stav 7, člana 104 stav 8, člana 108 stav 13, člana 109 stav 4, člana 110
+stav 5, člana 111 stav 12, člana 114 stav 4, člana 116 stav 3, člana 117 stav 4, člana
+121 stav 3, člana 122 stav 8, člana 124 stav 3, člana 125 stav 3, člana 126 stav 4,
+člana 127 stav 4, člana 128 stav 3, člana 129 stav 7, člana 130 stav 6, člana 131 stav
+3, člana 134 stav 4, člana 138 stav 4, člana 139 stav 3, člana 140 stav 5, člana 141
+stav 10, člana 146 stav 3, člana 148 stav 8, člana 150 stav 4, člana 151 stav 2, člana
+152 stav 2, člana 153 stav 3, člana 154 stav 8, člana 155 stav 3, člana156 stav 3, člana
+157 stav 2, člana 158 stav 6, člana 160 stav 4, člana 172 stav 3, člana 185 stav 5,
+člana 186 stav 3, člana 187 stav 6, člana 190 stav 6, člana 191 stav 4, člana 192 stav
+6, člana 193 stav 4 i člana 196 stav 7 Carinskog zakona ("Službeni list CG", broj 86/22),
+Vlada Crne Gore, na sjednici od 25. oktobra 2023. godine, donijela je
+UREDBU
+O IZMJENAMA I DOPUNAMA UREDBE O BLIŽEM NAČINU SPROVOĐENјA
+CARINSKIH POSTUPAKA I CARINSKIH FORMALNOSTI
