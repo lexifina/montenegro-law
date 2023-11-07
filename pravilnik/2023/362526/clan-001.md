@@ -1,0 +1,4 @@
+# Član 1
+## LINIJI I OZNAČAVA GRANIČNI PRELAZ I NјEGOVO PODRUČJE
+U Pravilniku o obliku, sadržini i izgledu oznaka i signalizacije kojima se upozorava na približavanje graničnoj liniji i označava granični prelaz i njegovo područje ("Službeni list CG", broj 8/20) član 4 mijenja se i glasi:
+"Oznaka koja se postavlja na graničnom prelazu otvorenom za međunarodni saobraćaj i graničnom prelazu otvorenom za pogranični saobraćaj, na ulasku, odnosno izlasku iz Crne Gore je pravougaonog oblika, dimenzija 2200x2800 mm, bijele boje, sa zlatnim rubom širine 45 mm, na kojoj su u gornjem dijelu natpisi: "Crna Gora" i "Montenegro", ispisani slovima zlatne boje, u središnjem dijelu Grb Crne Gore. a u donjem dijelu natpisi: "Dobrodošli" i "Welcome", odnosno: "Doviđenja" i "Goodbye". ispisani slovima zlatne boje."
