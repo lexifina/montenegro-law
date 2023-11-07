@@ -1,0 +1,3 @@
+# Član 2
+## Oprema za zavarivanje
+Oprema za zavarivanje podrazumijeva uređaje koji se upotrebljavaju za ručno, automatizovano ili poluautomatizovano zavarivanje, tvrdo lemljenje, meko lemljenje ili rezanje (ili sve od navedenoga) postupcima elektrolučnog zavarivanja ili sličnim postupcima, koji mogu da budu neprenosivi ili prenosivi i sastoje se od povezanih djelova ili komponenti, od kojih je najmanje jedna prenosiva, a sastavljeni su u cjelinu radi spajanja metala, zagrijavanjem do temperature zavarivanja (sa ili bez pritiska) ili samo pritiskom, korišćenjem dodatnih metala ili bez njih, sa upotrebom zaštitnih gasova ili bez njih, a uz pomoć odgovarajućih alata i tehnika, tako da nastaje proizvod određene geometrije.
