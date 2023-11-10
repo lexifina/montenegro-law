@@ -1,0 +1,5 @@
+# Član 1
+## ("Sl.list CG" br.52/21), odnosno GUR-a Centar Plav, Opština Plav
+Ovom odlukom utvrđuje se lokacija sa elementima urbanističko-tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa, transformatorske stanice NDTSM 10/0,4 kV "Semum lighting" 1 x630 kVA sa priključnim 10 kV kablom, na sledećim lokacijama:
+-Lokacija trafostanice, NDTS slobodnostojeća sa vanjskom manipulacijom i jednim transformatorom snage 630 kVA, na dijelu kat. parc. Br. 2512/5 i sve katastarske parcele koje nastanu parcelacijom navedene parcel, KO Plav, Opština Plav;
+- Uklapanje u VN mrežu planirati sistemom ulaz -izlaz na postojeći kabal TS 35/10 kV "Plav"-MBTS 10/0,4kV "Hotel Novi". 10 kV kabal i uzemljenje predviđa se da trasa prolazi kroz katastarske parcele 2512/5, 2504/2, 2504/7, 2512/2, 2515/5, 2515/3, 2515/7, 2485/9, 2485/8, 2485/6, 2862/14, 2862/10, 2863/2, 2862/13, 2135/3, 2135/10, 2135/12, 2172/7, 2172/6, 2172/8, 2172/5, 2173/2, 2174/4, 2174/3, 2096/2, 2121/5, 2121/6, 2121/4, 2121/7, 2106/6, 2106/7, 2106/4, 2106/2, 2096/1, 395/15 i sve katastarske parcele koje nastanu parcelacijom navedenih parcela, KO Plav, opština Plav.
