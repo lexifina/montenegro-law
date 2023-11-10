@@ -1,0 +1,2 @@
+Na osnovu člana 10 stav 1 Zakona o teritorijalnoj organizaciji Crne Gore ("Sl. list CG", br. 54/11, 26/12, 27/13, 62/13, 12/14, 3/16, 31/17, 86/18 i 3/20, 92/22), član 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 34 stav 1 tačka 2 Statuta Opštine Herceg Novi ("Sl.list RCG-opštinski propisi", br. 1/19, 37/19, 6/20 i 18/22) Skupština opštine Herceg Novi na sjednici održanoj dana 01.11.2023. godine, donijela je
+ODLUKU O ODREĐIVANJU NAZIVA NASELJA, ULICA I TRGOVA U HERCEG NOVOM
