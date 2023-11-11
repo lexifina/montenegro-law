@@ -1,0 +1,6 @@
+# Član 1
+## Osnovne odredbe
+Ovom odlukom uređuje se učešće u kliringu međunarodnih plaćanja Centralne banke Crne Gore (u daljem tekstu: Centralna banka) i banaka sa sjedištem u Crnoj Gori (u daljem tekstu: banke) koje sa Centralnom bankom zaključe ugovor o učešću u kliringu međunarodnih plaćanja u skladu sa Sporazumom o kliringu međunarodnih plaćanja broj 0102-4950/1 zaključenim sa Centralnom bankom Bosne i Hercegovine 11.09.2007. godine i/ili Sporazumom o kliringu međunarodnih plaćanja broj 0102-4951/1 zaključenim sa Narodnom bankom Srbije 13.09.2007. godine (u daljem tekstu: sporazumi o kliringu međunarodnih plaćanja) i Operativnim pravilima za kliring međunarodnih plaćanja koja su sastavni dio sporazuma o kliringu međunarodnih plaćanja (u daljem tekstu: Operativna pravila).
+Kliring međunarodnih plaćanja obavlja Operater kliringa, u skladu sa sporazumima o kliringu međunarodnih plaćanja i Operativnim pravilima.
+Kliring međunarodnih plaćanja obavlja se isključivo u eurima, a sredstva za pokriće u kliringu međunarodnih plaćanja obezbjeđuju banke uplatom sredstava na račun Centralne banke kod Deutsche Bank AG Frankfurt otvorenim isključivo za ove namjene (u daljem tekstu: namjenski račun).
+Sve platne transakcije koje proizilaze iz kliringa međunarodnih plaćanja izvršavaju se isključivo preko namjenskog računa.

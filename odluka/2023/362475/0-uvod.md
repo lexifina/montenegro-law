@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list CG", br. 40/10, 6/13 i 70/17), a vezi sa Sporazumom o kliringu međunarodnih plaćanja broj 0102-4950/1 zaključenim sa Centralnom bankom Bosne i Hercegovine 11.09.2007. godine i Sporazumom o kliringu međunarodnih plaćanja broj 0102-4951/1 zaključenim sa Narodnom bankom Srbije 13.09.2007. godine, Savjet Centralne banke Crne Gore, na sjednici od 27.10. 2023. godine, donio je
+ODLUKU O UČEŠĆU CENTRALNE BANKE CRNE GORE I BANAKA U KLIRINGU MEĐUNARODNIH PLAĆANJA
