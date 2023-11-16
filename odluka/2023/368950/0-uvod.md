@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 1, tačka 1 i člana 44 stav 1, Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19, 38/20, 50/22 i 84/22), a u vezi sa članom 25 stav 2 i članom 29, stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11) i člana 35 Statuta Opštine Tivat ("Službeni list CG - opštinski propisi", br. 24/18 i 09/20), Skupština opštine Tivat na sjednici održanoj dana 07.11.2023 godine donijela je:
+ODLUKU O DAVANJU NA KORIŠĆENJE I UPRAVLJANJE MOBILNIH MONTAŽNIH KUĆICA TURISTIČKOJ ORGANIZACIJI TIVAT
