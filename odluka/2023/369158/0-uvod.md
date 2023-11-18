@@ -1,0 +1,2 @@
+Na osnovu člana 4 stav 1 Zakona o administrativnim taksama ("Sl. list CG", br. 18/19), člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Sl. list CG", broj 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 34 stav 1 tačka 2 i 8 Statuta opštine Herceg Novi ("Sl. list CG - Opštinski propisi" br.1/19, 37/19, 6/20, 18/22), nakon dobijanja saglasnosti Vlade Crne Gore, Skupština opštine Herceg Novi, na sjednici od 01.11.2023. godine, donijela je
+ODLUKU
