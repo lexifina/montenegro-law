@@ -1,0 +1,2 @@
+# Član 1
+Stavlja se van snage Odluka o utvrđivanju lokacije sa elementima urbanističko-tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa, transformatorske stanice NDTSM 10/0,4 kV "Semum lighting" 1 x630kVA sa priključnim 10 kV kablom, u zahvatu PUP-a Plav -("Sl.list CG" br.52/21), odnosno GUR-a Centar Plav, Opština Plav. ("Službeni list Crne Gore - Opštinski propisi", br. 054/23 od 22.11.2023.)
