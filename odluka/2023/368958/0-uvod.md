@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Sl.list CG", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG" broj 2/18, 34/19, 38/20, 50/22 i 84/22), člana 4 stav 1 i 3 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl.list CG", br. 44/10) i člana 35 stav 1 tačka 9 Statuta Opštine Šavnik ("Službeni list CG - opštinski propisi", broj 31/18), Skupština opštine Šavnik, na sjednici održanoj dana , 02.11.2023. godine, d o n o s i
+ODLUKU
