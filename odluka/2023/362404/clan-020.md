@@ -1,0 +1,4 @@
+# Član 20
+Rad organa lokalne uprave, organizuje se na način kojim se obezbjeđuje zakonito i efikasno ostvarivanje prava i izvršavanje obaveza fizičkih, pravnih lica i drugih subjekata.
+Predsjednik opštine, u ostvarivanju funkcije usmjeravanja i usklađivanja rada lokalne uprave i vršenja nadzora nad njenim radom, donosi odgovarajuća uputstva (o radnom vremenu, radu sa građanima, izradi programa rada, izvještaja o radu i dr.).
+Predsjednik opštine obrazuje Kolegijum koji čine potpredsjednik opštine, savjetnici predsjednika opštine, Glavni administrator i starješine lokalnih organa uprave. Kolegijum saziva i njime rukovodi Predsjednik opštine ili lice koje on ovlasti. Kolegijum se bavi najsloženijim pitanjima koja se tiču funkcionisanja Opštine, javnih službi. Kolegijumu mogu prisustvovati i druga lica koja dobiju poziv za učešće.

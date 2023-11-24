@@ -1,0 +1,29 @@
+# Član 12
+Sekretarijat za inspekcijske poslove i komunalni nadzor vrši poslove koji se odnose:
+1)
+praćenje i sprovođenje zakona i propisa donesenih na osnovu zakona i opštinskih odluka u oblastima u kojima se vrši inspekcijski i komunalni nadzor; iniciranje njihovih izmjena i dopuna, kao i izjašnjavanje na nacrte i predloge zakona i drugih propisa u oblastima u kojima se vrši inspekcijski i komunalni nadzor i obezbjeđuje komunalni red, i u drugim oblastima a u vezi sa radom organa;
+2)
+učešće u pripremi lokalnih propisa u oblastima za koje je Sekretarijat obrazovan;
+3)
+izradu i sprovođenje programa rada organa, učestvovanje u izradi i sprovođenju plana zaštite od požara, elementarnih nepogoda i drugih vanrednih situacija, erozija i bujica, štetnog dejstva zagađenja voda, plana integriteta, kao i drugih planova i programa opštine iz djelogruka svojih poslova;
+4)
+praćenje i sprovođenje državnih zakona, uredbi i planskih akata u okviru nadležnosti;
+5)
+inspekcijski i komunalni nadzor u oblastima za koje je organ obrazovan u skladu sa zakonom i posebnim odlukama skupštine i to inspekcijski nadzor u oblastima: javne čistoće, prevoza i deponovanja komunalnog i drugog otpada; izgradnje, održavanja i korišćenja deponija; upravljanja vodama, javnog vodosnabdijevanja, prikupljanja, prečišćavanja i ispuštanja otpadnih voda i prikupljanja i ispuštanja atmosferskih voda; izgradnje, rekonstrukcije i održavanja pijaca, groblja, parkova, zelenih i drugih javnih površina, javne rasvjete, opštinskih i nekategorisanih puteva u opštoj upotrebi, saobraćajne signalizacije; zaštite i korišćenja opštinskih i nekategorisanih puteva u opštoj upotrebi; sahranjivanja; prevoza putnika u gradskom i prigradskom linijskom saobraćaju; auto-taksi prevoza; prevoza tereta u slučaju kad je prevoznik fizičko lice, prevoza za sopstvene potrebe i vanrednog prevoza; postavljanja privremenih, p omoćnih i montažnih objekata privremenog karaktera; stanovanja i održavanja stambenih zgrada i držanja kućnih ljubimaca; zbrinjavanja napuštenih i izgubljenih kućnih ljubimaca; zaštite od buke u životnoj sredini; upotrebe simbola opštine; turizma i ugostiteljstva; zaštite potrošača;
+6)
+inspekcijski nadzor u obavljanju povjerenih poslova državne uprave koji se odnose na premještanje vozila, izdavanje prekršajnih naloga i pokretanje prekršajnog postupka i druge povjerene poslove u skladu sa zakonom;
+7)
+komunalni nadzor i održavanje komunalnog reda u oblastima za koje je organ obrazovan i u drugim oblastima u kojima opština vrši sopstvene poslove u skladu sa zakonom i to vršenje komunalnog nadzora nad obezbjeđenjem komunalnog reda u oblastima: javne čistoće, odvoza i deponovanja komunalnog i drugog otpada; izgradnje, održavanja i korišćenja deponija; upravljanja vodama, javnog vodosnabdijevanja, prikupljanja, prečišćavanja i ispuštanja otpadnih voda i prikupljanja i ispuštanja atmosferskih voda; poslova u vezi sahranjivanja; održavanja pijaca, javnih česmi i fontana, groblja, parkova, zelenih i drugih javnih površina, javne rasvjete, opštinskih i nekategorisanih puteva u opštoj upotrebi, saobraćajne signalizacije; zaštite i korišćenja opštinskih i nekategorisanih puteva u opštoj upotrebi; prevoza putnika u gradskom i prigradskom linijskom saobraćaju; auto-taksi prevoza; prevoza tereta u slučaju kad je prevoznik fizičko lice, prevoza za sopstvene potrebe i vanrednog prevoza; postavljanja privremenih, pomoćnih i montažnih objekata privremenog karaktera; stanovanja i održavanja stambenih zgrada i držanja kućnih ljubimaca; zbrinjavanja napuštenih i izgubljenih kućnih ljubimaca; zaštite od buke u životnoj sredini; upotrebe simbola Opštine; kontrole radnog vremena; parkiranja na javnim parkiralištima i drugim oblastima u skladu sa posebnim propisima;
+8)
+komunalni nadzor i održavanje komunalnog reda u obavljanju povjerenih poslova državne uprave u oblasti eksploatacije i deponovanja rječnih nanosa na vodnom zemljištu i druge povjerene poslove u skladu sa zakonom;
+9)
+mjerenje nivoa buke u i van ugostiteljskih objekata, kao i na otvorenim prostorima i preduzimanje upravnih radnji u upravnim postupcima koje sprovode drugi organi uprave, direkcije i službe u skladu sa zakonom i odlukama skupštine;
+10) učestvovanje u zaštiti i spašavanju u skladu sa zakonom kojim se uređuje sistem zaštite i spašavanja;
+11) pružanje pomoći u izvršenju odluka nadležnih organa lokalne uprave, direkcija ili službi u skladu sa zakonom;
+12) sprovođenje upravnog postupka u okviru poslova iz svog djelokruga, postupka za slobodan pristup informacijama i drugih upravnih postupaka i radnji u skladu sa zakonom;
+13) postupanje po prijavama i inicijativama građana iz djelokruga organa;
+14) popis i evidenciju nepokretnih i pokretnih stvari kojima raspolaže opština a koje Sekretarijat koristi za ostvarivanje svoje funkcije (službene prostorije, oprema, prevozna sredstva i slično) u skladu sa odrebama zakona kojim se uređuje državna imovina;
+15) pripremu izvještaja o postupanju u upravnim stvarima iz svoje nadležnosti za Glavnog administratora;
+16) pripremu izvještaja o stanju u oblasti iz nadležnosti Sekretarijata kao i pripremu informativnih i drugih stručnih materijala za Skupštinu, predsjednika Opštine i organe lokalne uprave iz svog djelokruga;
+17) izradu uputstava i procedura za poslovne procese iz nadležnosti sekretarijata;
+18) druge poslove iz svog djelokruga, u skladu sa zakonom, odlukama Skupštine i drugim propisima.
