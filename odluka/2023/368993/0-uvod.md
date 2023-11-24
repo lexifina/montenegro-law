@@ -1,0 +1,2 @@
+Na osnovu člana 23 i 24 Zakona o elektronskim medijima ("Sl.list Crne Gore", br. 46/10, 40/11, 53/11, 06/13, 55/16, 92/17 i 82/20), člana 23 Odluke o osnivanju DOO Lokalni javni emiter "Radio Tivat" ("Sl. list Crne Gore-Opštinski propisi", br. 10/12,07/18) i člana 35 Statuta opštine Tivat ("Sl. list Crne Gore- Opštinski propisi", br. 24/18 i 09/20), Skupština opštine Tivat na sjednici održanoj dana 07.11.2023. godine, donijela je
+ODLUKU
