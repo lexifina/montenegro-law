@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom utvrđuje se pristupanje izgradnji lokalnog objekta od opšteg interesa i to izvođenje radova na izgradnji trafostanice TS 3 10/0.4kV 1x630kVA, u okviru UP 219, na kat.par.br. 361/2 KO Donja Lastva, sa polaganjem 10kV kablovskih vodova za uklapanje u VN mrežu, na dijelu kat.parc.br.333/1, 334/1, 361/3 i 361/2 sve KO Donja Lastva, u zahvatu DUP- a "Donja Lastva" ("Sl.list CG- opštinski propisi" br. 3/13).
