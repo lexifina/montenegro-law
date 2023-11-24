@@ -1,0 +1,6 @@
+# Član 3
+## Osnovni podaci o objektu
+Objekat se locira na dijelu katastarske parcele 4542 KO Podgorica II. Grafički prilog sadrži koordinate tačaka granice lokacije.
+Namjena objekta je: skladišni objekat - objekat koji služi za potrebe skladištenja visokonaponske opreme, mikroprocesorskih zaštita, upravljačkih jedinica, svičeva, brojila i druge opreme. Objekat će sadržati funkcije koje su neophodne za rad i aktivnosti preduzeća "Crnogorski elektroprenosni sistem" a.d., na čiji zahtjev se donosi ova Odluka. Precizna namjena i funkcije u okviru objekta će biti određene kroz izradu projektne dokumentacije, u skladu sa osnovnom namjenom.
+Uvidom u list nepokretnosti 5023-prepis, utvrđeno je da se katastarska parcela u okviru koje je predviđen objekat nalazi u svojini "Crnogorski elektroprenosni sistem" a.d., Obim prava 1/1. Prije izrade tehničke dokumentacije pribaviti ažurne geodetske podloge nadležnog organa Uprave za katastar i državnu imovinu, u cilju preciznog sagledavanja postojećeg stanja lokacije. Uz zahtjev za odobrenje dostaviti dokaz o riješenim imovinsko pravnim odnosima, saglasno članu 10 stav 1 tačka 3 Odluke.
+Saglasno mišljenju Službe glavnog gradskog arhitekte od oktobra mjeseca 2023. godine a na osnovu člana 3 stav 2 Odluke ne postoji potreba za raspisivanje konkursa za izradu idejnog rješenja objekta privrednog razvoja na označenoj lokaciji.
