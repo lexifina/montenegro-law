@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom utvrđuje se pristupanje izgradnji lokalnog objekta od opšteg interesa i to izvođenje radova na izgradnji trafostanice TS VI 10/0.4kV 1x630kVA, u okviru UP 2004, na dijelu kat.par.br. 718 KO Mrčevac, sa polaganjem 10kV kablovskih vodova za uklapanje u VN mrežu na dijelu kat.parc.br.718, 706, 1293, 831, 880/1 i 1297/1 sve KO Mrčevac, u zahvatu DUP- a "Gradiošnica" ("Sl.list CG- Opštinski propisi" br. 32/11).
