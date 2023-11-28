@@ -1,0 +1,33 @@
+{
+  "id": 362398,
+  "path": "zakon/2023/362398",
+  "source": "https://www.sluzbenilist.me/propisi/362398",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/362398/download",
+  "title": "Zakon o izmjenama i dopunama Zakona o popisu stanovništva, domaćinstava i stanova",
+  "issue": "Službeni list Crne Gore, broj 105/2023",
+  "published": "2023-11-28",
+  "in_force": "2023-11-28",
+  "in_force_basis": "Ovaj zakon stupa na snagu danom objavljivanja u „Službenom listu Crne Gore”",
+  "applies": null,
+  "amended_by": [
+    [
+      362398,
+      "Zakon o izmjenama i dopunama Zakona o popisu stanovništva, domaćinstava i stanova"
+    ]
+  ],
+  "text_status": "as-enacted; amended, not consolidated",
+  "source_sha256": "74cb7033b91d5dd67a32394d9c37e527205dc82b62a8ab50c4e00e32fbafea1f",
+  "articles_in_source": 9,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 3359,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "ca8a7977a0bfabd45c255291ebf4640b274670aa74914d9296fefe3a5e956678",
+  "enacted": "2023-11-27",
+  "enacted_basis": "Podgorica, 27. novembar 2023"
+}
