@@ -1,0 +1,25 @@
+{
+  "id": 362329,
+  "path": "zakon/2023/362329",
+  "source": "https://www.sluzbenilist.me/propisi/362329",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/362329/download",
+  "title": "Zakon o izmjenama Zakona o Budžetu Crne Gore za 2023. godinu",
+  "issue": "Službeni list Crne Gore, broj 106/2023",
+  "published": "2023-11-29",
+  "in_force": "2023-11-29",
+  "in_force_basis": "Ovaj zakon stupa na snagu danom objavljivanja u \"Službenom listu Crne Gore\".",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "0ea5f345985da8590664900c9b802847564ad978fa897eef162d1ff307b5dcaf",
+  "articles_in_source": 1,
+  "note": null,
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 685667,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "text_sha256": "72fc4702bd9a81b4744e3dea1acf5cc219fc609c5249e4f0d0c3eed7c3e013dc"
+}
