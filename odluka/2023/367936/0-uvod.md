@@ -1,0 +1,2 @@
+Na osnovu člana 25 Zakona o turističkim organizacijama ("Sl. list RCG", br. 11/04 i 46/07 i "Sl. list CG", br. 73/10, 40/11, 45/14, 42/17 i 27/19), člana 12 stav 5 Odluke o osnivanju Turističke organizacije opštine Bar ("Sl. list RCG - opštinski propisi", br. 21/04, 6/05 i "Sl. list CG - opštinski propisi", br. 7/15) i člana 43 Statuta opštine Bar ("Sl. list CG - opštinski propisi", br. 37/18), Skupština opštine Bar, na sjednici održanoj 29.11.2023.godine, donosi
+ODLUKU
