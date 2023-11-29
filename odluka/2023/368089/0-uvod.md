@@ -1,0 +1,2 @@
+Na osnovu člana 8 Zakona o regionalnom razvoju ("Službeni list CG", br. 20/11, 26/11, 20/15 i 47/19), člana 38 stav 1 tačka 3 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 35 stav 1 tačka 3 i člana 38 stav 1 Statuta opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 31/18 i 21/23), uz saglasnost Ministarstva ekonomskog razvoja, broj: 008-323/23-6826/2 od 22.11.2023. godine, Skupština opštine Nikšić, na sjednici održanoj 24.11.2023. godine, donijela je
+ODLUKU
