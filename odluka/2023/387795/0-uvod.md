@@ -1,0 +1,2 @@
+Na osnovu člana 34 i 35 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore", br. 20/14, 56/14, 70/17, 4/18, 55/18, 66/19 i 70/21), člana 28 i 29 Zakona o finansiranju lokalne samouprave ( "Službeni list CG", br. 03/19 i 86/22) i člana 44 tačka 7 Statuta opštine Budva ("Službeni list CG-Opštinski propisi", broj 02/19), Skupština pštine Budva na sjednici održanoj 23. novembra 2023. godine donijela je
+ODLUKU O IZMJENI I DOPUNI ODLUKE O BUDŽETU OPŠTINE BUDVA ZA 2023. GODINU
