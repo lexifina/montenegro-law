@@ -1,0 +1,3 @@
+# Član 1
+Skupština opštine Danilovgrad kao vlasnik poslužnog dobra daje saglasnost za ustanovljavanje prava službenosti ,,NEXTAUTO" D.O.O. Podgorica, kao korisniku povlasnog dobra radi polaganja kablovskog voda XPOO-A4x240mm2 za priključenje NN bloka DTS 10/0,4kv 630kVA preko djelova kat. parcele br. 2356, nekategorisani putevi, površine P=19006 m2, svojina Crne Gore - raspolaganje Opštine Danilovgrad, evidentirana u listu nepokretnosti br. 102 KO Novo Selo i kat. parcele br. 178/2, javni putevi, površine P=25915 m2, svojina Fonda za gradsko građevinsko zemljište poslovni prostor i putevi, evidentirana u listu nepokretnosti br. 1073 KO Novo Selo, shodno Elaboratu predloga trase NN kabla, urađenog od strane ,,GEOTIN MNE" d.o.o.
+Podgorica.

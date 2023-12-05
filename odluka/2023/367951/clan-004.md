@@ -1,0 +1,3 @@
+# Član 4
+Ovlašćuje se Predsjednik Opštine Danilovgrad da na osnovu ove Odluke, a nakon njenog stupanja na snagu sa korisnikom povlasnog dobra zaključi Ugovor o ustanovljavanju službenosti polaganja kablovskog voda, kojim će biti regulisana međusobna prava i obaveze ugovornih strana.
+Prilikom zaključenja Ugovora potrebno je precizirati obavezu ,,NEXTAUTO" D.O.O. Podgorica da prilikom izvođenja radova omogući nesmetan prolaz svim licima i prevoznim sredstvima u mjeri u kojoj je to moguće, u skladu sa propisima koji se odnose na ove radove i dozvolama koje su izdate za postavljanje kablova, kako bi se garantovala sigurnost svih lica prilikom vršenja aktivnosti.
