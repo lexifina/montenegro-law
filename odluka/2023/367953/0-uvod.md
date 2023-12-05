@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 1 tačka 13 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 50 stav 1 Zakona o sportu ("Službeni list Crne Gore", br. 44/18 i 123/21), člana 16 stav 1 tačka 13 i člana 35 stav 1 tačka 2 Statuta opštine Danilovgrad ("Službeni list Crne Gore - opštinski propisi", br. 43/18), Skupština opštine Danilovgrad, na sjednici održanoj dana 01.12.2023. godine, donijela je
+ODLUKU
