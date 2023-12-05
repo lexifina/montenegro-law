@@ -1,0 +1,3 @@
+# Član 2
+Odlukom predsjednika Opštine Danilovgrad o određivanju lokacije sa elementima urbanističko - tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa br. 01-332/22-2155/1 od 28.11.2022. godine i Odluke o izmjenama Odluke o određivanju lokacije sa elementima urbanističko - tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa br. 01-332/23- 2275/1 od 03.11.2023. godine, utvrđena je lokacija sa elementima urbanističko - tehničkih uslova za izgradnju objekta trafostanice STS 10/04 kv 250 kVA sa uklapanjem u 10 kv mrežu za KO Bandići, Opština Danilovgrad i
+predviđeno da se planirani podzemni 10kv vod - kabal polaže između ostalih i preko djelova predmetnih kat. parcela.

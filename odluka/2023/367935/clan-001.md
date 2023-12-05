@@ -1,0 +1,2 @@
+# Član 1
+Opština Danilovgrad je subjekt raspolaganja kat. parcele br. 1226, nekategorisani putevi, površine P= 1257 m2, evidentirane u listu nepokretnosti br. 211 KO Bandići, svojina Crne Gore - raspolaganje Opštine Danilovgrad i kat. parcele br. 821/2, nekategorisani putevi, površine P= 1604 m2, evidentirane u listu nepokretnosti br. 211 KO Bandići, svojina Crne Gore - raspolaganje Opštine Danilovgrad.
