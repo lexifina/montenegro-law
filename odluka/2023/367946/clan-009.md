@@ -1,0 +1,3 @@
+# Član 9
+Pored djelatnosti iz člana 8 ove odluke, Društvo će organizovati edukativne i stručne skupove u cilju prenošenja znanja i iskustva u proizvodnji maslinovog ulja, održavanja postojećih i podizanja novih maslinjaka, degustativne skupove za turiste i lokalne posjetioce na kojima će se vršiti degustacija proizvoda od masline i maslinovog ulja, kao i promotivne skupove u cilju promocije maslinarstva kao neizostavnog segmenta turističke ponude Bara.
+U vršenju poslova iz stava 1 ovog člana, Društvo će sarađivati sa nadležnim i stručnim institucijama i organizacijama u zemlji i inostranstvu i nevladinim i drugim organizacijama koje organizuju manifestacije u čast masline i maslinovog ulja.
