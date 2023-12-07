@@ -1,0 +1,5 @@
+# Član 1
+## br.048/20 od 31.12.2020)
+Član 2 stav 1 tačka 1 mijenja se i glasi:
+,, Lokalnim objektima od opšteg interesa, u smislu ove odluke, smatraju se:
+1) lokalni objekti od opšteg interesa tipa 1 (u daljem tekstu: "objekti tipa 1"): vodovodna, telekomunikaciona i kanalizaciona infrastruktura, toplovodi; opštinski putevi (lokalni i nekategorisani) i prateći objekti; ulice u naseljima i trgovi; parking prostori, pijace; gradska groblja; podzemni i nadzemni prolazi; javne garaže; garaže za potrebe organa i službi lokalne samouprave ; objekte distributivne mreže naponskog nivoa do 35 kV trafostanice i vodovi od 110 kV ili manje, rasklopna postrojenja, javna rasvjeta; solarne elektrane od 5 MW i manje; sportski objekti i skijaške staze sa pratećom infrastrukturom za pripremu i uređenje istih;objekti javnih institucija;objekti centralnih djelatnosti;objekti kulture,zdravstva i ostali;javne česme-sebilji,fontane i sl.; sahat kule i sl.; javne i zelene površine i gradski parkovi, ski-liftovi, žičare koje se grade na teritoriji Opštine;"

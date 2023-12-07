@@ -1,0 +1,4 @@
+Na osnovu člana 223 stav 2 i 3 Zakona o planiranju prostora i izgradnji objekata (,,Sl.list CG" br.
+64/17,44/18,63/18,11/19 i 82/20,86/22,004/23) člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br.002/18, 034/19, 038/20 ,050/22 , 084/22 ) i člana 38 stav 1 tačka 2 Statuta Opštine Gusinje (,,Sl.list Crne Gore-opštinski propisi"br.003/19 i 024/21) Skupština opštine Gusinje na sjednici održanoj 22.11.2023.godine donosi:
+ODLUKU
+o Izmjeni i dopuni Odluke o izgradnji lokalnih objekata od opšteg interesa (,,Službeni list Crne Gore-Opštinski propisi",
