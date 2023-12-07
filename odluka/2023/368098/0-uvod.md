@@ -1,0 +1,2 @@
+Na osnovu članova 38 i 39 Zakona o finansiranju lokalne samouprave ("Službeni list CG", br. 03/19), člana 43 stav 1 i 2 Zakona o budžetu i fiskalnoj odgovornosti ("Sl. list CG", br. 20/14, 56/14, 55/18, 66/19, 70/21, 145/21 i 27/23) i člana 46 Statuta opštine Rožaje ("Sl. list CG - opštinski propisi", br. 38/18 i 16/21), Skupština opštine Rožaje, na sjednici održanoj dana 23.11.2023.godine, donijela je
+ODLUKU
