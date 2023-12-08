@@ -1,0 +1,15 @@
+# Član 19
+Djelovi uniforme policijskih službenika organizacione jedinice organa državne uprave nadležnog za unutrašnje poslove (u daljem tekstu: Ministarstvo) Odjeljenje za unutrašnju kontrolu policije koji vrše unutrašnje istrage su sljedećeg izgleda, tehničkih karakteristika i vrste materijala:
+1) taktička jakna je istog izgleda, tehničkih karakteristika i vrste materijala kao jakna iz člana 3 stav 1 tačka 1 ovog pravilnika, osim što je na leđnom dijelu jakne ispisan reflektujući natpis "POLICIJA", ispod kojeg je ispisan reflektujući natpis "UNUTRAŠNJA KONTROLA";
+2) taktičke pantalone su istog izgleda, tehničkih karakteristika i vrste materijala kao pantalone iz člana 3 stav 1 tačka 3 ovog pravilnika;
+3) taktička bluza je crne boje, istog izgleda, tehničkih karakteristika i vrste materijala kao bluza iz člana 4 stav 1 tačka 3 ovog pravilnika, osim što je na leđnom dijelu bluze ispisan reflektujući natpis "POLICIJA", ispod kojeg je ispisan reflektujući natpis "UNUTRAŠNJA KONTROLA";
+4) taktička majica je crne boje, istog izgleda, tehničkih karakteristika i vrste materijala kao majica iz člana 4 stav 1 tačka 5 ovog pravilnika, osim što je na leđnom dijelu majice ispisan reflektujući natpis "POLICIJA", ispod kojeg je ispisan reflektujući natpis "UNUTRAŠNJA KONTROLA";
+5) taktičke patike su istog izgleda, tehničkih karakteristika i vrste materijala kao patike iz člana 17 stav 1 tačka 6 ovog pravilnika;
+6) taktičke rukavice su crne boje, istog izgleda, tehničkih karakteristika i vrste materijala kao rukavice iz člana 4 stav 1 tačka 12 ovog pravilnika;
+7) kapa je crne boje, anatomskog oblika, uobičajenog izgleda, dvoslojna, sa nelomljivim štitnikom i izrađena je od prirodnih i/ili vještačkih materijala. Na potiljku kape nalazi se natpis "POLICIJA"
+8) kapa - fantomka je crne boje, istog izgleda, tehničkih karakteristika i vrste materijala kao kapa iz člana 4 stav 1 tačka 9 ovog pravilnika;
+9) taktički prsluk je istog izgleda, tehničkih karakteristika i vrste materijala kao prsluk iz člana 15 stav 1 tačka 10 ovog pravilnika, osim što je na leđnom dijelu prsluka ispisan reflektujući natpis "POLICIJA", ispod kojeg je ispisan reflektujući natpis "UNUTRAŠNJA KONTROLA";
+10) taktička torbica je istog izgleda, tehničkih karakteristika i vrste materijala kao torbica iz člana 15 stav 1 tačka 9 ovog pravilnika;
+11) polo majice kratkih i dugih rukava su istog izgleda, tehničkih karakteristika i vrste materijala kao majice iz člana 3 stav 1 tač. 5 i 6 ovog pravilnika, osim što je na leđnom dijelu majice ispisan reflektujući natpis "POLICIJA", ispod kojeg je ispisan reflektujući natpis "UNUTRAŠNJA KONTROLA";
+12) majice kratkih i dugih rukava (T-shirt majice) su crne boje, istog izgleda, tehničkih karakteristika i vrste materijala kao majice iz člana 4 stav 1 tačka 6 ovog pravilnika;
+13) futrola za pištolj ispod pazuha ima elastične kaiševe za podešavanje na ramenima, sa sigurnosnim kaišem na samoj futroli. Futrola je izrađena od kvalitetnog vještačkog materijala - kordure.

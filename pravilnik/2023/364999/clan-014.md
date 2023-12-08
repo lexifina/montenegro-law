@@ -1,0 +1,7 @@
+# Član 14
+Djelovi uniforme policijskih službenika koji upravljaju posebnim vozilima (ATV/Quad vozila) i motornim sankama su sljedećeg izgleda, tehničkih karakteristika i vrste materijala:
+1) zaštitna jakna je crne boje, otporna na vjetar, vodonepropusna, ima više slojeva, sa termo postavom "modularni flip", unutrašnjom prozračnom membranom, ima zaštitu u predjelu ramena, laktova i leđa i sistem za pričvršćivanje pantalona iz tačke 2 ovog stava;
+2) zaštitne pantalone su crne boje, otporne na vjetar, vodonepropusne, izrađene od višeslojnog elastičnog materijala, sa termo postavom "modularni flip", podešavanjem struka i imaju sistem za pričvršćivanje jakne iz tačke 1 ovog stava. Pantalone imaju zaštitu u predjelu koljena, elastične su u predjelu prepona i imaju elastični dodatak u predjelu donjeg dijela leđa i na koljenima;
+3) zaštitne rukavice su istog izgleda, tehničkih karakteristika i vrste materijala kao rukavice iz člana 3 stav 1 tačka 10 ovog pravilnika;
+4) zaštitna kaciga je crne boje, izrađena od termoplastične smole visokog kvaliteta, sa sistemom za hitno uklanjanje obraznih jastučića i Double D Retention sistemom zaključavanja kacige. Unutrašnja obloga omogućava udobnost i može se skinuti i prati. Kaciga na sebi ima minimum osam usisnih i šest izduvnih otvora;
+5) zaštitne naočare su anatomskog oblika, sa futrolom i izrađene su od vještačkih materijala koji pružaju zaštitu od spoljašnih mehničkih i atmosferskih uticaja.

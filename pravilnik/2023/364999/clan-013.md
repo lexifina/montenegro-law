@@ -1,0 +1,4 @@
+# Član 13
+Djelovi uniforme policijskih službenika - vodiča službenih pasa su sljedećeg izgleda, tehničkih karakteristika i vrste materijala:
+1) kombinezon je jednodjelni, maslinastozelene boje, sa okovratnikom koji se zatvara čičak trakom i dugim rukavima. Kombinezon je izrađen od kombinacije prirodnog i vještačkog materijala - ripstop tkanine i zakopčava se po sredini patent zatvaračem, sa dva klizača. Na zadnjem dijelu kombinezona, u visini struka, našivena je tkanina širine 5 cm (± 10%), protkana nitima od materijala koji omogućava elastičnost. Rukavi su jednodjelni. Džepovi se nalaze u visini grudi, na bokovima i nogavicama;
+2) gumene čizme su crne boje, mekane i fleksibilne, sa tekstilnom postavom i otporne su na toplotu i abraziju, probijanje i cijepanje. Protivklizni đon ima apsorber energije u dijelu pete.

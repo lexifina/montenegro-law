@@ -1,0 +1,4 @@
+# Član 22
+Policijski službenici nose urednu i neoštećenu uniformu za izvršavanje posebnih zadataka u skladu sa njenom namjenom.
+Način nošenja uniformi za izvršavanje posebnih zadataka određuje direktor organizacione jedinice Ministarstva koja vrši policijske poslove (u daljem tekstu: Policija) na predlog pomoćnika direktora Policije, odnosno rukovodioca organizacione jedinice Policije, za policijske službenike ovlašćene za vršenje unutrašnje kontrole rada Policije rukovodilac organizacione jedinice Ministarstva koja vrši unutrašnju kontrolu rada Policije, a za policijske službenike Ministarstva koji vrše bezbjednosnu zaštitu Centra za prihvat rukovodilac organizacione jedinice Ministarstva nadležne za bezbjednosnu zaštitu.
+Djelovi uniforme policijskih službenika za izvršavanje posebnih zadataka ne mogu se nositi u kombinaciji sa djelovima uniforme druge vrste.

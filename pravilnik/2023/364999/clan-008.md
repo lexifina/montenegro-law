@@ -1,0 +1,2 @@
+# Član 8
+Pored djelova uniforme iz čl. 6 i 7 ovog pravilnika, specijalistička uniforma policijskih službenika užih organizacionih jedinica Protivteroristička jedinica i Posebna jedinica policije koji upotrebljavaju specijalna vozila (vozila za izbacivanje vode pod pritiskom, oklopna vozila sa ili bez ugrađene zaprečne ograde, vozila za uklanjanje prepreka i sl.) sastoji se i od kombinezona koji su istog izgleda, tehničkih karakteristika i vrste materijala kao kombinezoni iz člana 4 stav 1 tačka 25 ovog pravilnika.
