@@ -1,0 +1,4 @@
+Na osnovu člana 21 stav 2 Zakona o zaključivanju i izvršavanju međunarodnih ugovora ("Službeni list CG", broj 77/08), Vlada Crne Gore na sjednici od 16. novembra 2023. godine, donijela je
+ODLUKU
+O OBJAVLjIVANjU SPORAZUMA IZMEĐU MINISTARSTVA ODBRANE CRNE GORE I
+MINISTARSTVA ODBRANE REPUBLIKE SLOVENIJE O IZMJENI I DOPUNI SPORAZUMA IZMEĐU MINISTARSTVA ODBRANE CRNE GORE I MINISTARSTVA ODBRANE REPUBLIKE SLOVENIJE
