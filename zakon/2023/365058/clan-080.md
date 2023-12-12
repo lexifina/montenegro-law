@@ -1,0 +1,7 @@
+# Član 80
+## Unutrašnja kontrola i revizija
+Obveznik je dužan da obezbijedi redovnu unutrašnju kontrolu i reviziju sprovođenja politika, kontrola i procedura za sprečavanje pranja novca i finansiranja terorizma, odnosno vršenje poslova sprečavanja i otkrivanja pranja novca i finansiranja terorizma, u skladu sa utvrđenim rizikom od pranja novca i finansiranja terorizma u analizi rizika.
+Kad zakon kojim se uređuje djelatnost obveznika propisuje obavezu postojanja nezavisne interne revizije, obveznik je dužan da organizuje i nezavisnu internu reviziju u čijem djelokrugu rada je redovna procjena adekvatnosti, pouzdanosti i efikasnosti sistema upravljanja rizikom od pranja novca i finansiranja terorizma.
+Obveznik je dužan da organizuje nezavisnu internu reviziju u čijem djelokrugu rada je redovna procjena adekvatnosti, pouzdanosti i efikasnosti sistema upravljanja rizikom od pranja novca i finansiranja terorizma i kad procijeni da je to potrebno s obzirom na obim i prirodu djelatnosti.
+Unutrašnja kontrola i revizija iz st. 1, 2 i 3 ovog člana sprovodi se na način da se spriječe, otkriju i isprave greške učinjene tokom primjene propisa iz oblasti sprečavanja pranja novca i finansiranja terorizma i da se unaprijede politike, kontrole i procedure kod obveznika za otkrivanje transakcija i lica u vezi sa pranjem novca i finansiranjem terorizma.
+Način sprovođenja unutrašnje kontrole i revizije iz st. 1, 2 i 3 ovog člana uređuje se internim aktom obveznika.

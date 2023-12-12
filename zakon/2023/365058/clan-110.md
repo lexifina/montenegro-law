@@ -1,0 +1,3 @@
+# Član 110
+## privremenu zabranu pristupa sefu
+Finansijsko-obavještajna jedinica može da, u okviru svojih poslova odnosno ovlašćenja, podnese inicijativu za privremeno obustavljanje izvršenja transakcije ili privremenu zabranu pristupa sefu stranoj finansijsko-obavještajnoj jedinici ili drugom organu druge države nadležnom za sprečavanje i otkrivanje pranja novca i finansiranja terorizma, ako ocijeni da postoje razlozi za sumnju ili osnovi sumnje da novčana sredstva ili druga imovina potiču iz kriminalne djelatnosti ili da se radi o pranju novca i sa njim povezanim predikatnim krivičnim djelima ili finansiranju terorizma.

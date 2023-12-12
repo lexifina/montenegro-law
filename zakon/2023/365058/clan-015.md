@@ -1,0 +1,4 @@
+# Član 15
+## Propis o smjernicama za analizu rizika i uspostavljanje sistema upravljanja rizikom
+Bliže kriterijume za izradu smjernica za analizu rizika, u zavisnosti od veličine i načina organizacije obveznika, obima i vrste poslova, vrste klijenta, proizvoda, usluge, odnosno distributivnog kanala koji pruža, kriterijume za utvrđivanje faktora rizika, obavezne elemente koje treba da sadrži analiza rizika i druge elemente od značaja za procjenu rizika od pranja novca i finansiranja terorizma, kao i bliže kriterijume za izradu smjernica za uspostavljanje sistema upravljanja rizikom od pranja novca i finansiranja terorizma propisuje organ državne uprave nadležan za unutrašnje poslove (u daljem tekstu: Ministarstvo).
+Stručne osnove za izradu propisa iz stava 1 ovog člana priprema finansijsko- obavještajna jedinica, uz pribavljeno mišljenje nadležnih nadzornih organa iz člana 131 stav 1 ovog zakona.

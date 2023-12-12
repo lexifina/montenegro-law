@@ -1,0 +1,6 @@
+# Član 127
+## Čuvanje podataka
+Obveznik je dužan da sve podatke, informacije i dokumentaciju pribavljene u skladu sa ovim zakonom, podatke o identifikacionom broju svakog računa klijenta, podatke i dokumentaciju o elektronskom prenosu novca, dokumentaciju o poslovnoj korespodenciji i izvještaje čuva deset godina nakon prestanka poslovnog odnosa klijenta, izvršene povremene transakcije, ulaska klijenta u kazino i prostorije u kojima se priređuju druge igre na sreću ili pristupa sefu, osim ako posebnim zakonom nije propisan duži period čuvanja.
+Fotokopiju lične isprave, drugih isprava i dokumentacije, kao i pisanih ovlašćenja obveznik čuva u skladu sa stavom 1 ovog člana.
+Obveznik je dužan da podatke i prateću dokumentaciju o ovlašćenom licu za sprečavanje pranja novca i finansiranja terorizma, odnosno njegovom zamjeniku, stručnom osposobljavanju i usavršavanju zaposlenih u oblasti sprečavanja i otkrivanja pranja novca i finansiranja terorizma i sprovođenju mjera unutrašnje kontrole i revizije čuva četiri godine od prestanka važenja licence, odnosno izvršenog stručnog osposobljavanja i usavršavanja i izvršene unutrašnje kontrole i revizije.
+Nakon isteka rokova iz st. 1, 2 i 3 ovog člana, obveznik je dužan da izbriše ili uništi lične podatke klijenta.

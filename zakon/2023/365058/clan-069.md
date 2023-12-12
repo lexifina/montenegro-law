@@ -1,0 +1,9 @@
+# Član 69
+## njegovog zamjenika
+Obveznik je dužan da, u roku od 60 dana od dana osnivanja, odnosno početka obavljanja djelatnosti, odredi ovlašćeno lice za sprečavanje pranja novca i finansiranja terorizma i najmanje jednog zamjenika tog lica i, u roku od tri radna dana od dana određivanja, finansijsko-obavještajnoj jedinici dostavi obavještenje koje sadrži podatke o tim licima (ime i prezime; jedinstveni matični broj; broj, datum prestanka važenja i državu izdavanja lične isprave; broj i datum prestanka važenja dozvole za boravak za stranca; naziv radnog mjesta i kontakt telefon), kao i naziv, odnosno ime i prezime, PIB i adresu sjedišta obveznika.
+Obveznik je dužan da o promjeni ovlašćenog lica za sprečavanje pranja novca i finansiranja terorizma, odnosno njegovog zamjenika obavijesti finansijsko-obavještajnu jedinicu u roku od tri dana od dana izvršene promjene.
+Obavještenje iz stava 2 ovog člana mora da sadrži obrazloženje o razlozima izvršene promjene i podatke iz stava 1 ovog člana.
+Izuzetno, obveznik koji ima četiri ili manje zaposlenih nema obavezu određivanja zamjenika ovlašćenog lica za sprečavanje pranja novca i finansiranja terorizma.
+Kod obveznika koji ima četiri ili manje zaposlenih, poslove ovlašćenog lica za sprečavanje pranja novca i finansiranja terorizma može da vrši i direktor, ako ispunjava uslove iz člana 70 ovog zakona.
+Kad poslove ovlašćenog lica za sprečavanje pranja novca i finansiranja terorizma vrši direktor, obveznik je dužan da o tome obavijesti finansijsko-obavještajnu jedinicu i u tom obavještenju dostavi podatke o direktoru u skladu sa stavom 1 ovog člana.
+Obavještenja iz st. 1, 2 i 6 ovog člana dostavljaju se finansijsko-obavještajnoj jedinici elektronskim putem i moraju biti potpisana kvalifikovanim elektronskim potpisom u skladu sa zakonom kojim se uređuju elektronska identifikacija i elektronski potpis.

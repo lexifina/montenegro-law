@@ -1,0 +1,18 @@
+# Član 23
+## Identifikacija elektronskim putem
+Identifikacija klijenta koji je fizičko lice, preduzetnik ili fizičko lice koje obavlja djelatnost, njegovog zakonskog zastupnika i ovlašćenog lica može se izvršiti, bez obaveznog fizičkog prisustva, na osnovu sredstava elektronske identifikacije sa visokim stepenom sigurnosti sistema elektronske identifikacije ili kvalifikovanog certifikata za elektronski potpis koji je izdao kvalifikovani davalac elektronske usluge povjerenja, u skladu sa zakonom kojim se uređuje elektronska identifikacija i elektronski potpis (u daljem tekstu: identifikacija elektronskim putem).
+Prije identifikacije elektronskim putem, klijent iz stava 1 ovog člana je dužan da obvezniku dostavi fotokopiju lične isprave, a u slučaju identifikacije njegovog zakonskog zastupnika, odnosno ovlašćenog lica i fotokopiju ovlašćenja kojim dokazuje svojstvo zakonskog zastupnika, odnosno ovlašćenog lica, u elektronskoj formi.
+Prije identifikacije elektronskim putem, obveznik je dužan da pribavi podatke o klijentu iz stava 1 ovog člana, poslovnom odnosu i transakciji iz člana 117 stav 1 tač. 2, 3, 6 i 7 ovog zakona.
+Obveznik je dužan da podatke iz člana 117 stav 1 tač. 2, 3, 6 i 7 ovog zakona, posredstvom finansijsko-obavještajne jedinice, provjeri uvidom u CRS, evidenciju izdatih ličnih isprava i međunarodnu bazu ukradenih, izgubljenih i nevažećih dokumenata, elektronskim putem, na način propisan aktom iz člana 22 stav 11 ovog zakona.
+Obveznik može da sprovede identifikaciju elektronskim putem samo za uslugu ili proizvod koji pruža u okviru svoje djelatnosti i klijenta za koga nije utvrđen viši rizik od pranja novca i finansiranja terorizma.
+Identifikacija elektronskim putem ne može se izvršiti ako:
+- se prilikom provjere iz stava 4 ovog člana utvrdi da se podaci iz lične isprave lica iz stava 1 ovog člana razlikuju od podataka u CRS;
+- je sredstvo elektronske identifikacije, odnosno kvalifikovani certifikat za elektronski potpis lica iz stava 1 ovog člana izdat pod pseudonimom;
+- postoji sumnja da je sredstvo elektronske identifikacije, odnosno kvalifikovani certifikat za elektronski potpis lica iz stava 1 ovog člana zloupotrijebljen, odnosno ako obveznik utvrdi da su okolnosti koje suštinski utiču na važenje tog sredstva elektronske identifikacije, odnosno kvalifikovanog certifikata za elektronski potpis izmijenjene, a davalac usluge elektronske identifikacije, odnosno kvalifikovani davalac elektronske usluge povjerenja to sredstvo, odnosno certifikat nije opozvao;
+- je elektronska lična isprava lica iz stava 1 ovog člana izdata u visoko-rizičnoj trećoj državi.
+Ako, prilikom identifikacije elektronskim putem, obveznik posumnja u istinitost prikupljenih podataka ili vjerodostojnost isprava iz kojih su podaci pribavljeni, dužan je da obustavi identifikaciju elektronskim putem.
+Radi vršenja identifikacije elektronskim putem obveznik je dužan da obezbijedi:
+- tehničke i druge uslove koji omogućavaju da u svakom trenutku provjeri da li je sredstvo elektronske identifikacije, odnosno kvalifikovani certifikat za elektronski potpis validan;
+- tehničke uslove koji omogućavaju pribavljanje podataka o klijentu iz stava 1 ovog člana, poslovnom odnosu i transakciji iz člana 117 stav 1 tač. 2, 3, 6 i 7 ovog zakona i njihovu provjeru u skladu sa stavom 4 ovog člana;
+- tehničke uslove za vođenje evidencije o sprovođenju identifikacije elektronskim putem.
+Nakon izvršene identifikacije elektronskim putem obveznik je dužan da u evidenciju iz člana 117 stav 1 ovog zakona unese podatak o načinu na koji je izvršena identifikacija lica iz stava 1 ovog člana.

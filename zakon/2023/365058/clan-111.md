@@ -1,0 +1,6 @@
+# Član 111
+## Organ uprave nadležan za poslove carina
+Organ uprave nadležan za poslove carina dužan je da finansijsko-obavještajnoj jedinici omogući neposredan elektronski pristup podacima o:
+- prijavi unošenja ili iznošenja preko državne granice novca, čekova, hartija od vrijednosti na donosioca, dragocjenih metala i dragog kamenja, čiji je iznos, odnosno vrijednost 10.000 eura ili više, najkasnije u roku od tri dana od dana tog unošenja ili iznošenja;
+- unošenju ili iznošenju preko državne granice novca, čekova, hartija od vrijednosti na donosioca, dragocjenih metala i dragog kamenja, čiji je iznos, odnosno vrijednost 10.000 eura ili više, koje nije bilo prijavljeno ili je bilo lažno prijavljeno, odmah, a najkasnije u roku od tri dana od dana tog unošenja ili iznošenja;
+- unošenju ili iznošenju ili pokušaju unošenja ili iznošenja novca, čekova, hartija od vrijednosti, dragocjenih metala i dragog kamenja, čiji je iznos, odnosno vrijednost manja od 10.000 eura, ako u vezi sa tim prenošenjem ili pokušajem prenošenja postoje razlozi za sumnju da se radi o pranju novca ili finansiranju terorizma odmah, a najkasnije u roku od tri dana od dana tog unošenja ili iznošenja ili pokušaja unošenja ili iznošenja.

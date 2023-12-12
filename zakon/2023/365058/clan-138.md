@@ -1,0 +1,5 @@
+# Član 138
+Novčanom kaznom u iznosu od 500 eura do 2.000 eura kazniće se za prekršaj fizičko lice koje obavlja djelatnost, ako:
+1) finansijsko-obavještajnoj jedinici, bez odlaganja, a najkasnije u roku od tri dana od dana zaključenja pravnog posla, ne dostavi tačne i potpune podatke o mjerama poznavanja i praćenja poslovanja klijenta iz člana 117 st. 1 do 6 ovog zakona za svaku transakciju na osnovu predugovora, ugovora u vezi nepokretnosti čija je vrijednost 15.000 eura ili više, kao i ugovora o zajmu čija je vrijednost 10.000 eura ili više (član 66 stav 4);
+2) finansijsko-obavještajnoj jedinici, bez odlaganja, a najkasnije u roku od tri dana od dana zaključenja pravnog posla, ne dostavi fotokopiju ugovora u elektronskoj formi, odnosno fotokopiju izjave fizičkog lica koje je kupac o porijeklu novca za ugovore kod kojih se za realizaciju koristi gotov novac (član 66 stav 5).
+Za prekršaj iz stava 1 ovog člana fizičkom licu koje obavlja djelatnost može se izreći zabrana vršenja poziva, djelatnosti ili dužnosti u trajanju do šest mjeseci.

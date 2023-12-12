@@ -1,0 +1,7 @@
+# Član 68
+## Povratna informacija obvezniku
+Na osnovu podataka, odnosno obavještenja dostavljenih u skladu sa članom 66 st. 6, 10 i 11 ovog zakona, finansijsko-obavještajna jedinica vrši finansijsku analizu u vezi sa licima, transakcijama ili imovinom i dužna je da obavijesti obveznika o rezultatima te analize, kao i da li u odnosu na to lice, transakciju ili imovinu i dalje postoje razlozi za sumnju ili da li postoje osnovi sumnje da se radi o pranju novca ili finansiranju terorizma ili da ta transakcija, odnosno imovina predstavlja imovinsku korist stečenu kriminalnom djelatnošću.
+Izuzetno od stava 1 ovog člana, finansijsko-obavještajna jedinica neće obavijestiti obveznika o rezultatima analize i postojanju razloga za sumnju, odnosno osnova sumnje iz stava 1 ovog člana ako ocijeni da bi to obavještavanje moglo prouzrokovati štetne posljedice na tok i ishod postupka.
+Ako finansijsko-obavještajna jedinica utvrdi da postoje osnovi sumnje da transakcija ili imovina predstavlja imovinsku korist stečenu kriminalnom djelatnošću ili da se radi o pranju novca ili finansiranju terorizma, u obavještenju iz stava 1 ovog člana može obvezniku dati preporuku da raskine poslovni odnos sa klijentom, odnosno odbije izvršenje transakcija.
+10. Ovlašćeno lice za sprečavanje pranja novca i finansiranja terorizma i njegov zamjenik i unutrašnja kontrola i revizija
+Određivanje ovlašćenog lica za sprečavanje pranja novca i finansiranja terorizma i
