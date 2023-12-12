@@ -1,0 +1,2 @@
+# Član 18
+U članu 125 stav 3, članu 132b stav 1, članu 132d stav 1, članu 132e stav 1, članu 132f stav 1, članu 164 stav 3, članu 209 st. 1 i 2, članu 210 st. 2 i 3, nazivu člana i članu 217, nazivu člana i članu 219, članu 220 stav 3, članu 293a stav 4, članu 300 stav 4, članu 301 stav 2, članu 444 st. 2, 3 i 8 i članu 446 stav 3 riječi: "maloljetno lice" u različitom padežu zamjenjuju se riječju "dijete" u odgovarajućem padežu.
