@@ -1,0 +1,2 @@
+Na osnovu člana 1. stav 2. Zakona o porezu na nepokretnosti ("Službeni list CG", br. 25/19, 49/22 i 155/22), člana 7. stav 1. tačka 1. Zakona o finansiranju lokalne samouprave ("Službeni list CG" br. 03/19 i 86/22), člana 38. stav 1. tačke 2. i 8. Zakona o lokalnoj samoupravi ("Službeni list CG" br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 33. stav 1. tačka 2. i 8. Statuta opštine Plav ("Službeni list CG - Opštinski propisi", br. 44/18), Skupština opštine Plav, na sjednici održanoj dana 01.12.2023. godine, donijela je
+ODLUKU
