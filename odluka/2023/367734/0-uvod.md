@@ -1,0 +1,3 @@
+Na osnovu člana 8. Zakona o budžetu i fiskalnoj odgovornosti ("Sl.list Crne Gore", br. 20/14, 56/14, 70/17, 04/18, 55/18, 66/19, 070/21, 145/21 i 027/23) i čl. 31. Zakona o finansiranju lokalne samouprave ("Sl.list CG", br. 03/19 i 86/22), i čl. 38. stav 1. tačka 7. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18, 034/19, 038/20, 050/22, 084/22) i člana 33. Statuta opštine Plav ("Službeni list Crne Gore - opštinski propisi", br. 044/18), Skupština Opštine Plav na sjednici održanoj dana 01.12.2023. godine, donijela je
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O BUDŽETU OPŠTINE PLAV ZA 2023.
+GODINU
