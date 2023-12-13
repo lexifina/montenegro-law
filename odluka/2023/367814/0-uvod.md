@@ -1,0 +1,2 @@
+Na osnovu člana 1. i 7. Zakona o boravišnoj taksi ("Sl. list RCG", br. 11/04 i 13/04 i 48/15), člana 38. stav 1. tačka 8. Zakona o lokalnoj samoupravi ("Službeni list CG" br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 33. stav 1. tačka 2. i 8. Statuta Opštine Plav ("Službeni list CG - Opštinski propisi", br. 44/18), Skupština opštine Plav, na sjednici održanoj dana,01.12.2023. godine, donijela je
+ODLUKU
