@@ -1,0 +1,2 @@
+# Član 2
+Sastavni dio ove odluke čini Programski zadatak sa elementima urbanističko-tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa: pejzažno uređenje zelenih površina specijalne namjene - zatvaranje i rekultivacija privremenog skladišta komunalnog i neopasnog građevinskog otpada u Bakovićima,sa osnovnim podacima o objektu i grafičkim prikazom lokacije planiranog objekta.
