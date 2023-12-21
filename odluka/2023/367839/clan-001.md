@@ -1,0 +1,3 @@
+# Član 1
+## Vrsta lokalnog objekta od opšteg interesa
+Ovom Odlukom određuje se lokacija sa elementima urbanističko-tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa - MBTS 10/0.4kV, 1x630Kva "ZGRADA CENTAR" i uklapanje u VN i NN mrežu koja se planira na katastarskim parcelama br. 263/4 i 263/18 upisanih u LN 102-prepis u svojini Opštine Mojkovac KO Mojkovac u zahvatu urbanističko - planskog rješenja Prostorno urbanističkog plana opštine Mojkovac ("Sl.list CG- Opštinski propisi" br.19/11 i 9/14, "Sl.list CG" br. 36/19) u cilju obezbeđivanja pouzdanog i kvalitetnog napajanja električnom energijom potrošača.
