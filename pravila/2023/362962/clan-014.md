@@ -1,0 +1,10 @@
+# Član 14
+## Imenovanje arbitara
+Stranke mogu da se dogovore za drugačiji način imenovanja arbitara od načina predviđenog ovim pravilima. Ako arbitražni tribunal nije obrazovan u roku koji su odredile stranke ili, ako ga nijesu odredile, u roku koji odredi Sekretarijat, arbitri će biti imenovani u skladu sa čl. 14 i 15 ovih Pravila.
+Ako spor treba da riješi arbitar pojedinac, stranke sporazumno predlažu njegovo imenovanje. Ako ga stranke sporazumno ne predlože, Sekretarijat im određuje rok u kome mogu da ga predlože. Ako ga ne predlože u tom roku, imenovaće ga Predsjedništvo.
+Ako spor rješava više arbitara, svaka stranka predlaže imenovanje jednakog broja arbitara. Tako predloženi arbitri, po njihovom potvrđivanju, u roku od 15 dana od dana kada ih Sekretarijat pozove, predlažu imenovanje arbitra koji će vršiti funkciju predsjednika arbitražnog tribunala. Ako u roku koji su dogovorile stranke ili ga je odredio Sekretarijat neki od arbitara nije predložen, imenovaće ga Predsjedništvo.
+Predloženi arbitri se potvrđuju u skladu sa članom 17 ovih Pravila. Poslije potvrđivanja predloženi arbitar se smatra imenovanim.
+Arbitri su u ugovornom odnosu sa strankama i pružaju usluge strankama.
+Kada Predsjedništvo u skladu sa ovim Pravilima imenuje arbitra, uzima u obzir prirodu spora, materijalno pravo, mjesto arbitraže, jezik postupka, državljanstvo stranaka i druge okolnosti predmeta.
+Ako su se strane dogovorile o drugačijem postupku za imenovanje arbitara nego što je predviđeno ovim Pravilima, a takav postupak ne rezultira imenovanjem arbitražnog suda u roku o kojem su se strane dogovorile ili koji je odredio Sekretarijat, arbitri će biti imenovan u skladu sa članovima 14 i 15 ovih Pravila.
+Bez obzira na bilo kakav dogovor stranaka o načinu imenovanja arbitara, u izuzetnim okolnostima Predsjedništvo može, nakon što je strankama dao priliku da dostave komentare, opozvati već izvršena imenovanja i imenovati svakog člana Arbitražnog suda kako bi se izbjegao značajan rizik od nejednakog tretmana i nepravičnosti koji mogu uticati na izvršnost odluke.

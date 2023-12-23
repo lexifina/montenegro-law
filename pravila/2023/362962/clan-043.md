@@ -1,0 +1,4 @@
+# Član 43
+## Poravnanje i drugi razlozi okončanja postupka
+Ako se stranke poravnaju o predmetu spora prije donošenja arbitražne odluke arbitražni tribunal donosi zaključak o obustavljanju postupka ili će, ako to zahtijevaju stranke i ako se tribunal slaže, zapisati poravnanje u obliku arbitražne odluke na osnovu poravnanja. Za takvu odluku primijenjuju se odredbe članova 38 i 39 ovih Pravila, a arbitražni tribunal nije obavezan da navede razloge takve odluke.
+Ako prije donošenja arbitražne odluke nastavak postupka postane nepotreban ili nemoguć iz bilo kog razloga koji nije naveden u stavu 1 ovog člana, arbitražni tribunal obavještava stranke o namjeri donošenja zaključka o obustavi postupka. Arbitražni tribunal može da donese takav zaključak osim ako jedna od stranaka tome opravdano prigovara.

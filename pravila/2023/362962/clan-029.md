@@ -1,0 +1,3 @@
+# Član 29
+## Preinačenje i dopuna podnesaka
+Ako se stranke nijesu drukčije sporazumjele i ako ne postupaju suprotno sporazumu o arbitraži, mogu u toku postupka da preinače istovjetnost tužbenog zahtjeva, povećaju postojeći ili istaknu drugi zahtjev uz postojeći, dopune tužbu, odgovor na tužbu, protivtužbu ili prigovor prebijanja. Arbitražni tribunal neće dozvoliti preinačenje ili dopunu podnesaka, ako ocjeni da bi to prouzrokovalo nesrazmjerno odugovlačenje postupka, ili bi zbog preinačenja ili dopune podnesaka bili nesrazmjerno povrijeđeni interesi drugih stranaka, ili iz drugih opravdanih razloga.
