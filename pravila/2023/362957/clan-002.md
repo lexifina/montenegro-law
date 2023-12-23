@@ -1,0 +1,6 @@
+# Član 2
+Područje primjene
+Ukoliko su se strane sporazumjele da međusobne sporove rješavaju putem posredovanja u skladu sa Pravilima o posredovanju pred Arbitražnim sudom, tada se primjenjuju ova Pravila. Ova Pravila mogu se primjenjivati bez obzira na osnov, bilo da je ugovornog ili vanugovornog karaktera, za primjenu posredovanja u privrednim sporovima.
+Sprovođenje postupka po ovim Pravilima mogu zatražiti domaća i strana fizička i pravna lica (privredni subjekti). Prije pokretanja arbitraže pred Arbitražnim sudom ili redovnog sudskog postupka, strane mogu podnijeti sporazum za mirno rješavanje privrednog spora putem posredovanja.
+Posredovanje u skladu sa ovim Pravilima je postupak, bez obzira da li se javlja pod terminom mirenje, medijacija ili slično, u okviru kojeg strane traže od trećeg lica ili više lica (,,posrednik’’) pomoć u njihovom nastojanju da postignu sporazumno rješenje privrednog spora. Posrednik nema ovlašćenje da nameće stranama u sporu rješenje spora.
+Strane se mogu dogovoriti da pisanim sporazumom isključe ili izmijene bilo koju odredbu Pravila u bilo kojem trenutku, s tim da taj sporazum nije u suprotnosti sa normama Zakona o alternativnom rješavanju sporova kojim se propisuje postupak medijacije.
