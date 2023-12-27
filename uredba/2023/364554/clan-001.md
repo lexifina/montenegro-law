@@ -1,0 +1,3 @@
+# Član 1
+U Uredbi o zvanjima i zaradi vojno-diplomatskih predstavnika, lica upućenih na rad u međunarodnim organizacijama i administrativno-tehničkog osoblja ("Službeni list CG", broj 82/23) u članu 10 stav 4 mijenja se i glasi:
+"Vojnom predstavniku u Stalnoj misiji Crne Gore pri Sjevernoatlantskom savezu i Evropskoj uniji, zamjeniku vojnog predstavnika u Stalnoj misiji Crne Gore pri Sjevernoatlantskom savezu i Evropskoj uniji, vojnom predstavniku u Stalnoj misiji Crne Gore pri Organizaciji za evropsku bezbjednost i saradnju i zamjeniku vojnog predstavnika u Stalnoj misiji Crne Gore pri Organizaciji za evropsku bezbjednost i saradnju pripada dodatak na osnovnu zaradu u iznosu od 10% od osnovne zarade iz člana 8 ove uredbe."
