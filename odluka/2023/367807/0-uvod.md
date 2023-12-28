@@ -1,0 +1,1 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22 i 85/22) i člana 43. Statuta opštine Pljevlja ("Službeni list CG - Opštinski propisi", br. 46/18), Skupština opštine Pljevlja, na sjednici održanoj dana: 08. 12.2023. godine, donijela je:
