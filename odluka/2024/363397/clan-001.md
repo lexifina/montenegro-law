@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom uređuje se visna nakande i način isplate Komisije usmjeravanja djece sa posebnim obrazovnim potrebama u Opštini Tuzi po postupku propisanom Zakona o vaspitanju i obrazovanju djece sa posebnim obrazovnim potrebama ("Sl.list RCG", br. 80/04, "Sl.list CG", br. 45/10, 47/17, 145/21) i Pravilnikom o načinu, uslovima i postupku za usmjeravanje djece sa posebnim obrazovnim potrebama ("Sl. list CG", br. 57/11 i 60/19).
