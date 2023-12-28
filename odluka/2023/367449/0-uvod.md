@@ -1,0 +1,3 @@
+Na osnovu člana 26 i člana 28 stav 1 Zakona o finansiranju lokalne samouprave ("Sl.list CG", br. 3/19 i 86/22), člana 1 i 3 Zakona o Budžetu i fiskalnoj odgovornosti ( "Sl.list CG", br. 20/14, 56/14, 70/17, 4/18, 55/18, 66/19, 70/21,145/21 i 27/23 ) i člana 35 stav 1 tačka 7 Statuta opštine Danilovgrad ("Sl. list CG - opštinski propisi", br. 43/18), uz prethodnu pribavljenu saglasnost Ministarstva finansija br 02-400/23-5909/2 od 20.12.2023.godine, Skupština opštine Danilovgrad, na sjednici održanoj dana 26.12. i 27.12.2023. godine donijela je
+O D L U K U O BUDŽETU OPŠTINE DANILOVGRAD ZA 2024. GODINU
+OPŠTI DIO
