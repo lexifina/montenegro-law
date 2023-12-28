@@ -1,0 +1,2 @@
+Na osnovu člana 268 stav 2 Zakona o privrednim društvima ("Službeni list CG" br. 65/20, 146/21), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19 i 38/20, 50/22, 84/22), člana 53 stav 1 tačka 2 Statuta Opštine Tuzi ("Službeni list CG - Opštinski propisi", br. 24/19, 05/20, 51/22, 55/22), Skupština opštine Tuzi na sjednici održanoj dana 28.12.2023. godine, donijela je
+ODLUKU
