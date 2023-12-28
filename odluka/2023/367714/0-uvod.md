@@ -1,0 +1,2 @@
+Na člana 18 stav 1 alineja 9 Statuta Društva sa ograničenom odgovornošću "Komunalno" - Danilovgrad, broj 01-989/1 od 28.04.2023. godine, člana 38 stav 1 tačka 30 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22 i 84/22) i člana 35 stav 1 tačka 30 Statuta opštine Danilovgrad ("Sl. list CG - Opštinski propisi", broj 43/18) Skupština Opštine Danilovgrad na sjednici održanoj dana 26.12. i 27.12.2023. godine, donijela je
+ODLUKU
