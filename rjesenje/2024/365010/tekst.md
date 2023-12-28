@@ -1,0 +1,3 @@
+Na osnovu člana 36 a u vezi sa članom 32 Statuta opštine Žabljak ("Sl.list CG-Opštinski propisi", 27/18) Skupština opštine Žabljak, na sjednici održanoj dana 28.12.2023. godine, donijela je
+REŠENjE o davanju saglasnosti na imenovanje vršioca dužnosti direktora DOO "Sportski centar Žabljak" Žabljak
+I. Daje se saglasnost na Odluku Odbora direktora DOO "Sportski centar Žabljak" Žabljak broj 01/92-23 od 14.12.2023.godine o imenovanju Šljivančanin Zagorke za vršioca dužnosti direktora DOO "Sportski centar Žabljak" Žabljak II. Rešenje stupa na snagu danom donošenja a objaviće se u "Službenom listu Crne Gore- Opštinski propisi".
