@@ -1,0 +1,2 @@
+Na osnovu člana 30 stav 2, 3 i 4 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore" broj 3/19 i 86/22) i člana 37 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore" broj 20/14, 56/14, 70/17, 4/18, 55/18, 66/19 i 70/21, 145/21 i 27/23), člana 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" broj 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 82 stav 1 tačka 28 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi" broj 37/19) predsjednik Opštine Kotor dana 29.12.2023. godine, donosi
+ODLUKU
