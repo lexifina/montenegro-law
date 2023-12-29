@@ -1,0 +1,2 @@
+Na osnovu člana 25. Zakona o turističkim organizacijama ("Službeni list Crne Gore" br. 11/04, 46/07, 40/11 45/14, 42/17 i 27/219.), člana 12. Odluke o osnivanju Turističke organizacije Opštine Ulcinj ("Službeni list Crne Gore - Opštinski propisi", broj 5/07 i 4/23) , člana 19 Statuta Turističke organizacije (TO - Ulcinj) broj 01-83/1-11 od 21.03.2011. godine i člana 58. Statuta Opštine Ulcinj ("Službeni list Crne Gore - Opštinski propisi", broj 48/19), Skupština opštine Ulcinj na predlog predsjednika Opštine, na sjednici održanoj dana 29.12.2023. godine, donijela je
+ODLUKU
