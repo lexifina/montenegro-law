@@ -1,0 +1,23 @@
+# Član 23
+Služba predsjednika Opštine vrši stručne i druge poslove koji se odnose na vršenje izvršne funkcije predsjednika Opštine, i to:
+- izrada nacrta odluka, rješenja zaključaka, saglasnosti i drugih akata koje donosi predsjednik Opštine, kao i izvještaja o realizaciji tih akata; čuvanje izvornika akata koje donosi predsjednik Opštine;
+- praćenje izvršavanja zakona i drugih propisa od strane organa i službi lokalne uprave; praćenje realizacije programskih akata i planova, strateških dokumenata i priprema akata za njihovu realizaciju;
+- praćenje i kontrola akata koje predsjednik Opštine predlaže Skupštini na usvajanje, a čiji su obradjivači organi lokalne uprave i službe i javne službe i sprovodi postupak predlaganja tih akata;
+- priprema akata kojim predsjednik Opštine vrši usmjeravanje i uskladjivanje rada organa lokalne uprave, službi i javnih službi;
+- praćenje uskladjenosti rada i izvještaja o radu organa lokalne uprave, službi i javnih službi sa uputstvima predsjednika Opštine;
+- učestvuje u pripremi akata koje predsjednik Opštine donosi u realizaciji funckije predstavljanja i zastupanja Opštine;
+- izrada i sprovodjenje planova i programa iz djelokruga rada Službe; sprovodjenje plana integriteta i drugih planova i programa iz djelokruga rada Službe;
+- priprema izvještaja o radu predsjednika na osnovu izvještaja organa lokalne uprave, službi i posebnih i stručnih službi;
+- sprovođenje postupka za slobodan pristup informacijama i drugih postupaka u skladu sa zakonima i odlukama Opštine;
+- priprema i organizovanje sastanaka predsjednika i potpredsjednika i staranje o realizaciji usvojenih zaključaka sa tih sastanaka;
+- saradnja sa državnim organima i organima drugih jedinica loklane samouprave u zemlji i inostranstvu;
+- protokolarne poslove za potrebe predsjednika, potpredsjednika i organizovanje proslave "24. novembra-Dana oslobodjenja Bara" u saradnji sa Službom za skupštinske poslove;
+- posredovanje u komunikaciji i podsticanje saradnje između domaćih i međunarodnih privrednika, institucija, organa državne uprave i civilnog sektora sa jedne strane i lokalne uprave Opštine Bar s druge, u cilju kreiranja i podsticaja razvojnih projekata i programa od interesa za lokalno stanovništvo (privreda, obrazovanje, sport, omladinska politika, socijalna i dječija zaštita, komunalne djelatnosti, uređenje prostora isl.) - prijem zahtjeva građana i drugih subjekata za informacije o nadležnostima i načinu ostvarivanja prava i obaveza pred organima lokalne samouprave, lokalne uprave i javnih službi, njihovo proslijedjivanje nadležnim organima, posredovanje i dostavljanje povratne informacije podnosiocu zahtjeva; postupanje odnosno dostavljanje odgovora po inicijativama građana i drugih subjekata u saradnji sa nadležnim organima lokalne uprave;
+- priprema i objavljivanje podataka, odgovora, materijala i informacija za javnost o aktivnostima i radu predsjednika Opštine, organa lokalne uprave i službi, njihova obrada, dostavljanje i objavljivanje u medijima, na zvaničnom web sajtu Opštine i društvenim mrežama; obrada i objavljivanje podataka iz djelokruga rada Službe koji podliježu objavljivanju shodno propisima, u cilju povećanja transparentnosti;
+- priprema i organizovanje konferencija za štampu, foruma, skupova isl; priprema publikacija i drugih materijala;
+- priprema podataka i informacija za ažuriranje zvaničnog web sajta iz djelokruga rada Službe; - stvaranje uslova za ostvarivanje funkcije predsjednika da predstavlja Opštinu u odnosu sa gradovima drugih država, diplomatskih predstavništava stranih država u Crnoj Gori,predstavnika Crne Gore u inostranstvu, medjunarodnim organizacijama i medjunarodnim institucijama;
+- praćenje donošenja i primjene medjunarodnih konvencija i drugih akata koji se odnose na jedinice lokalne samouprave i iniciranje donošenja odgovarajućih akata iz nadležnosti predsjednika Opštine i Skupštine opštine u cilju njihovog sprovodjenja;
+- uspostavljanje i unapređenje regionalne i međunarodne saradnje u cilju podsticanja razvoja privrede, kulture, sporta, obrazovanja, zdravstva, zapošljavanja, održivog razvoja, socijalnog staranja, dječije zaštite i sl.i priprema akata radi realizacije utvrdjenih obaveza i zaključaka tim povodom; Saradnja i koordinicija sa iseljenicima i njihovim organizacijama;
+- učešće u organizaciji i realizaciji medjunarodnih posjeta Opštini Bar, kao i priprema za učešće predstavnika Opštine na medjunarodnim skupovima, sastancima i sl.;
+- poslove koje, u skladu sa zakonom obavlja menadžer i druge poslove koje mu povjeri predsjednik Opštine;
+- druge poslove u vršenju funkcije predsjednika, u skladu sa zakonom i drugim propisima.

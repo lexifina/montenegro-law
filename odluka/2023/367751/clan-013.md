@@ -1,0 +1,55 @@
+# Član 13
+Sekretarijat za lokalni ekonomski razvoj vrši poslove koji se odnose na:
+- upravljanje, organizovanje, predlaganje i koordiniranje radom na realizaciji razvojnih projekata Opštine Bar;
+- pripremanje stručne osnove i koordiniranje radom u oblasti planiranja i implementacije razvoja opštine Bar, u saradnji sa Sekretarijatom za imovinu i investicije i drugim državnim organima, lokalnim zajednicama i razvojnim institucijama;
+- koordiniranje i vođenje aktivnosti u procesima povezivanja Opštine Bar sa projektima Evropske unije i drugim međunarodnim institucijama u cilju obezbjeđivanja sredstava za realizaciju razvojnih projekata;
+- prikupljanje i obrađivanje statističkih podataka u vezi razvojnih projekata i pripremanje analize za potrebe opštinskih organa uprave;
+- koordiniranje potreba drugih organa i institucija i upravljanje bazom podataka razvojnih projekata;
+- obavljanje poslova u oblasti opštih promotivnih i informativnih aktivnosti Opštine Bar u oblasti podsticanja investicija i publikovanja promotivnog materijala za tu svrhu;
+- koordiniranje i upravljanje aktivnostima u pripremi projektne dokumentacije za razvojne projekte;
+- koordiniranje i upravljanje aktivnostima na pripremi tendreske dokumentacije za realizaciju razvojnih projekata;
+- sprovođenje tenderskih postupaka u cilju realizacije razvojnih projekata;
+- pružanje pomoći investitorima u svim fazama realizacije razvojnih projekata;
+- učešće u pripremi i vođenju baza podataka investiciono razvojnih projekata;
+- učešće u izradi smjernica za ostvarivanje planova i programa razvoja opštine;
+- učešće u pripremi i postupku donošenja Strateškog plana Opštine, izradu godišnjeg izvještaja o realizaciji Strateškog plana Opštine, kao i razvojnih projekata i dostavljanje istih predsjedniku; - pripremu podataka za razvrstavanje Opštine prema stepenu razvijenosti i stepenu konkurentnosti;
+- predlaganje podsticajnih mjera za ravnomjerni razvoj opštine u skladu sa Zakonom i Strategijom i učešće u sprovođenju podsticajnih mjera, - prikupljanje podataka za potrebe izrade lokalnih razvojnih planova;
+- učešće u realizaciji državnih mjera stimulacije razvoja strateških privrednih grana i prikupljanje i obrađivanje podataka u cilju sagledavanja potencijala u tim privrednim granama i njihovu valorizacije;
+- vršenje poslova koji se odnose na pripremu, izradu i realizaciju razvojnih programa i projekata opštine kojima se podstiče ekonomski razvoj, održivi razvoj, podstiču preduzetničke inicijative, javno-privatna partnerstva i iniciraju izmjene propisa u cilju stvaranja podsticajnog ambijenta za razvoj opštine;
+- definisanje modaliteta valorizacije razvojnih resursa;
+- učestvovanje u izradi višegodišnjeg investicionog plana;
+- praćenje i predlaganje mjera za poboljšanje investicionog ambijenta i, s tim u vezi, promociju investicionih potencijala;
+- vođenje evidencije o realizovanim investicionim programima, kao i planiranim investicijama u skladu sa ugovorenim obavezama;
+- pripremu i ocjenu opravdanosti razvojnih i investicionih programa koji su od interesa za opštinu;
+- predlaganje mjera za otklanjanje biznis barijera u oblasti preduzetništva;
+- praćenje sprovođenja politike zapošljavanja u odnosu na razvojne projekte;
+- posredovanje u komunikaciji i podsticanje saradnje između domaćih i stranih privrednika i lokalne uprave;
+- ostvarivanje saradnje i pružanje informacija zainteresovanim subjektima za razvoj preduzetništva, a posebno malih i srednjih preduzeća, u cilju korišćenja resursa i realizacije planova i programa u ovim oblastima;
+- pružanje tehničke podrške preduzetnicima u svim fazama realizacije njihovih projekata;
+- prikupljanje i ažuriranje informacije o zainteresovanosti preduzeća za ulaganja, projektima podrške donatorskim aktivnostima i kreditnim linijama za preduzeća i preduzetnike;
+- učestvovanje u stvaranju i organizaciji sajmova i drugih sličnih manifestacija;
+- pripremanje i utvrđivanje programa aktivnosti i načina stumulisanja preduzetničkih inicijativa na lokalnom nivou;
+- davanje mišljenja o mogućem uticaju razvoja pojedinih djelatnosti na ukupni razvoj lokalne privrede;
+- realizaciju i kontrolu sprovođenja mjera iz programa stimulisanja preduzetništva i zapošljavanja;
+- obezbjeđivanje primjene propisa u oblastima za koje je osnovan i uređivanje odnosa u skladu sa zakonom;
+- izradu i sprovođenje planova, programa i drugih dokumenata iz oblasti energetske efikasnosti; vođenje jedinstvenog informacionog sistema potrošnje energije i energenata u objektima kojima raspolaže Opština Bar; izradu i implementaciju Lokalnog energetskog plana; izradu i implementaciju programa poboljšanja energetske efikasnosti i plana poboljšanja energetske efikasnosti za potrebe Opštine Bar.
+- kontinuirani rad na unaprjeđenju informacionog sistema Opštine;
+- učešće u realizaciji obuka i usavršavanja za korišćenje informacionih tehnologija i sistema; - koordinacija organa lokalne uprave u cilju objedinjavanja informacionog sistema u Opštini; - planiranja automatizacije poslova, obrade podataka i umrežavanje tokova informacija radi optimizacije procesa rada;
+- implementacija algoritama za smanjenje uticaja ljudske greške i smanjenje vremena obrade predmeta unutar informacionog sistema;
+- održavanju postojeće računarske i mrežne opreme;
+- obezbjeđivanju kontinuiteta procesa rada u domenskom okruženju;
+- održavanju postojećih servisa Opštine i učestvovanje u projektovanju i implementaciji novih (Geoportal, website, mail server, online plaćanje poreza i turističke takse);
+- kontinuiranom radu na sistemu e-uprave kroz održavanje postojećih i razvoj novih servisa. - prepoznavanju povezanih servisa te obezbjeđivanje "komunikacije" među njima.
+- planiranje i projektovanje sistema "pametnog grada"("smart city") kroz stvaranje infrastrukturnih preduslova za razvoj specijalizovanih rješenja koja se oslanjaju na IT a imaju za cilj optimizaciju funkcionisanja lokalne samouprave, uštede u potrošnji resursa i poboljšanje kvaliteta usluge te bolju povezanost sa građanima.
+- sprovodjenje digitalizacije kroz sve aktivnosti (automatizacija i digitalizacija radnih procesa, obrade predmeta i njihovo kretanje između nadležnih organa lokalne uprave i službi);
+- priprema informacija, dokumenata isl.i njihovo objavljivanje na zvaničnom web sajtu po kategorijama;
+- praćenje stanja, pripremanje propisa i predloga aktivnosti za podsticanje ravnomjernog razvoja opštine prilagođavanjem potreba razvoja na opštinskom i regionalnom nivou sa prioritetima razvoja na nivou Crne Gore u skladu sa sredstvima obezbijeđenim na nivou Države, Opštine i sredstvima iz fondova Evropske unije; praćenje i predlaganje mjera za sprovođenje strategije regionalnog razvoja Crne Gore za regiju i opštinu; učešće u izradi programa opštine; prikupljanje i obrada podataka o inicijativama za razvoj pojedinih privrednih djelatnosti i njihovog značaja za razvoj preduzetništva učestvovanje u izradi programa razvoja Opštine Bar i pojedinih djelatnosti; praćenje stanja tržišta i ostvarivanje neposredne saradnje sa subjektima iz ove oblasti;;
+- praćenje državnih, regionalnih i međunarodnih finansijskih donacija, kreditnih linija i donatorskih konferencija i kandidovanje Opštine za studijska putovanja iz ove oblasti, posebno mogućnost dobijanja donacija od EU; predlaganje osnivanja regionalnih udruženja sa susjednim državama i opštinama radi objedinjenog nastupa prema strukturalnim fondovima;
+- vrši pripremu predloga projekata za konkurisanje kod domaćih i inostranih finansijskih izvora (EKO fond, IPA fondovi, drugi fondovi Evropske unije, ostali međunarodni fondovi), i radi na realizaciji odobrenih projekata od interesa za Opštinu, izvještavanju i praćenju uspješnosti (Evaluacija);
+- koordiniranje aktivnostima za koje je osnovan Biznis start-up centar, a koji se odnose naročito na analizu postojećeg stanja malih i srednjih preduzeća, izradu biznis planova, investicionih projekata i studija izvodljivosti, informisanje građana i preduzetnika vezano za energetsku efikasnost, pružanje usluga poslovne korespondencije, prevoda, logističke i drugih vidova podrške; predlaganje razvojnih projekata, učestvovanje u formiranju biznis inkubatora i vršenje drugih usluga za kojima Opština Bar izrazi potrebu, pružanje informacija organima lokalne uprave, građanima i drugim zainteresovanim stranama o kreditnim linijama domaćih i međunarodnih finansijskih organizacija;
+- saradnju sa udruženjima privrednika, asocijacijama, institucijama, ustanovama i drugim sličnim organizacijama iz oblasti privrede na lokalnom i državnom nivou; administrativno-tehničku i stručnu pomoć Savjetu za lokalni ekonomski razvoj i drugim tijelima obrazovanim u Opštini iz ove oblasti; pripremne i druge radnje u vezi postupaka sertifikacije i uspostavljanja i implementacija standarda namijenjenih jedinicama lokalne samouprave (BFC SEE, ISO 9001 i drugi);
+- priprema propisa koji se odnose na osnivanje, uspostavljanje, uređenje, upravljanje i druga pitanja od značaja za rad biznis zona u skladu sa zakonskim i podzakonskim aktima kojima se uredjuje ova oblast.
+- izradu izvještaja o radu Sekretarijata za predsjednika Opštine i glavnog administratora;
+- izradu nacrta i predloga odluka i drugih opštih akata iz nadležnosti Sekretarijata, kao i informativnih i drugih stručnih materijala za Skupštinu, predsjednika Opštine i resorna ministarstva i vršenje drugih poslova u skladu sa zakonom, Statutom Opštine i drugim propisima; staranje o uskladjenosti odluka i drugih opštih akata sa zakonima; praćenje i sprovodjenje zakona i drugih propisa; pripremu stručnih mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa i davanje tumačenja opštinskih propisa iz nadležnosti Sekretarijata;
+- postupak za slobodan pristup informacijama iz svog djelokruga;
+- druge poslove u okviru svoje nadležnosti iz ove oblasti, u skladu sa zakonskim i drugim propisima.
