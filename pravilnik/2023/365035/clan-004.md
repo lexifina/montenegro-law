@@ -1,0 +1,53 @@
+# Član 4
+Tabela u tački c) u stavu (4) člana 10 Pravilnika mijenja se i glasi:
+OPŠTINA
+INDEX/Koeficijent
+C
+Andrijevica
+0,5437
+Bar
+0,9879
+Berane
+0,6286
+Bijelo Polje
+0,7115
+Budva
+1,4268
+Cetinje
+0,9929
+Danilovgrad
+0,9869
+Gusinje
+0,4810
+Herceg Novi
+1,1727
+Kolašin
+0,8047
+Kotor
+1,1633
+Mojkovac
+0,7748
+Nikšić
+0,9614
+Petnjica
+0,2832
+Plav
+0,4427
+Plužine
+0,8327
+Pljevlja
+0,8147
+Podgorica
+1,2285
+Rožaje
+0,4870
+Šavnik
+0,7081
+Tivat
+1,2876
+Ulcinj
+0,7911
+Žabljak
+0,9545
+Tuzi
+0,6345
