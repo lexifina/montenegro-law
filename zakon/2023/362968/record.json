@@ -1,0 +1,34 @@
+{
+  "id": 362968,
+  "path": "zakon/2023/362968",
+  "source": "https://www.sluzbenilist.me/propisi/362968",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/362968/download",
+  "title": "Zakon o izmjenama i dopunama Zakona o igrama na sreću",
+  "issue": "Službeni list Crne Gore, broj 125/2023",
+  "published": "2023-12-31",
+  "in_force": "2023-12-31",
+  "in_force_basis": "Ovaj zakon stupa na snagu danom objavljivanja u \"Službenom listu Crne Gore\", a primjenjivaće se od 1. januara 2024. godine.",
+  "applies": "2024-01-01",
+  "amended_by": [
+    [
+      303903,
+      "Zakon o izmjenama i dopunama Zakona kojima su propisane novčane kazne za prekršaje"
+    ],
+    [
+      395609,
+      "Zakon o izmjenama Zakona o obligacionim odnosima*"
+    ]
+  ],
+  "text_status": "as-enacted; amended, not consolidated",
+  "source_sha256": "e6680577fea44000d85dec6009f83d0f4ff3ed0581cf4aadf59110adcb10dd10",
+  "articles_in_source": 20,
+  "note": "Applies from 2024-01-01 (its own final provision); in force from 2023-12-31.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 17477,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "text_sha256": "63100a88657b5ed7e49d34418a6b855d5d364f19a34152a7abbb5435ab7b3a77"
+}
