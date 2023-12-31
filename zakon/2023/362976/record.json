@@ -1,0 +1,25 @@
+{
+  "id": 362976,
+  "path": "zakon/2023/362976",
+  "source": "https://www.sluzbenilist.me/propisi/362976",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/362976/download",
+  "title": "Zakon o izmjeni Zakona o Nacionalnom javnom emiteru Radio i Televizija Crne Gore",
+  "issue": "Službeni list Crne Gore, broj 125/2023",
+  "published": "2023-12-31",
+  "in_force": "2023-12-31",
+  "in_force_basis": "Овај закон ступа на снагу даном објављивања у \"Службеном листу Црне Горе\".",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "271d21b2f966327e5b0ae943584dab01e1d421769adf68035926186cb37cde19",
+  "articles_in_source": 2,
+  "note": null,
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 1371,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "text_sha256": "57024b43be2b40df10e77f596007e8b28bf3a0a3a910bc3cd7f9243ccf10d265"
+}
