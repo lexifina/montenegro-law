@@ -1,0 +1,30 @@
+{
+  "id": 363201,
+  "path": "zakon/2023/363201",
+  "source": "https://www.sluzbenilist.me/propisi/363201",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/363201/download",
+  "title": "Zakon o Budžetu Crne Gore za 2024. godinu",
+  "issue": "Službeni list Crne Gore, broj 124/2023",
+  "published": "2023-12-31",
+  "in_force": "2023-12-31",
+  "in_force_basis": "Ovaj zakon stupa na snagu danom objavljivanja u \"Službenom listu Crne Gore\", a primjenjivaće",
+  "applies": "2024-01-01",
+  "amended_by": [
+    [
+      387906,
+      "Zakon o izmjenama i dopunama Zakona o Budžetu Crne Gore za 2024. godinu"
+    ]
+  ],
+  "text_status": "as-enacted; amended, not consolidated",
+  "source_sha256": "108857925834654c4855a35f1239654ea81d90ac0a75c8767eac760eee3e004c",
+  "articles_in_source": 10,
+  "note": null,
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 735370,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "text_sha256": "a349cc0ddd3c1e3feba2d8eec87c9c0c306b7ff569ecdea0da309d879298e693"
+}
