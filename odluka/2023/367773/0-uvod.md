@@ -1,0 +1,2 @@
+Na osnovu člana 2 Zakona o lokalnim komunalnim taksama ("Službeni list CG", br. 18/19), člana 7 stav 1 tačka 4 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", br. 3/19 i 86/22), člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18 , 34/19, 38/20, 50/22 i 84/22) i člana 43 stav 1 tačka 8 Statuta Opštine Bar ("Službeni list Crne Gore- Opštinski propisi", br. 37/18), nakon dobijanja saglasnosti Vlade Crne Gore, Skupština opštine Bar na sjednici održanoj 20.12.2023. godine, donijela je
+ODLUKU
