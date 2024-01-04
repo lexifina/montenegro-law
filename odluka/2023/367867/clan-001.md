@@ -1,0 +1,3 @@
+# Član 1
+## o prodaji zemljišta-katastarske parcele broj: 1288/25 i 1288/26 KO Kolašin radi dokompletiranja urbanističke parcele broj 172 u zahvatu Detaljnog urbanističkog plana "Sportska zona"
+Opština Kolašin prodaje Andjelić Marjani iz Podgorice,neposrednom pogodbom, zemljište označeno kao: katastarska parcela broj 1288/25,površine 2 m2, po kulturi gradjevinska parcela ,upisana u listu nepokretnosti broj 1362 KO Kolašin i katastarska parcela broj 1288/26, površine 51 m2,po kulturi gradjevinska parcela, upisana u listu nepokretnosti broj 1362 KO Kolašin, na kojima opština Kolašin ima pravo raspolaganja, a sve radi dokompletiranja urbanističke parcele broj 172, u zahvatu Detaljnog Urbanističkog Plana "Sportska zona".
