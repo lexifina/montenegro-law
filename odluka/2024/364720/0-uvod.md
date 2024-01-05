@@ -1,0 +1,2 @@
+Na osnovu člana 28 i 29 Zakona o finansiranju lokalne samouprave ("Službeni list CG" br.3/19, 86/22), člana 33 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG" br. 20/14, 56/14, 70/17, 4/18, 55/18, 66/19, 70/21, 145/21 i 27/23) i člana 35 Statuta Opštine Tivat ("Službeni list CG-Opštinski propisi" br. 09/20), Skupština opštine Tivat, na sjednici održanoj 30.12. 2023. godine, donosi
+O D L U K U
