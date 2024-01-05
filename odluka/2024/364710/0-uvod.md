@@ -1,0 +1,2 @@
+Na osnovu člana 35 stav 1, alineja 2 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 024/18 i 009/20), člana 7, stav 3, alineja 9 Statuta DOO "Brand New Tivat", a u vezi sa članom 20 stav 2 Ugovora o osnivanju Društva sa ograničenom odgovornošću "Brand New Tivat", broj 0101-050-28/1 od 22.01.2014. godine, Skupština opštine Tivat na sjednici održanoj dana 30. 12. 2023. godine donosi
+ODLUKU
