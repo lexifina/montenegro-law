@@ -1,0 +1,6 @@
+# Član 9
+## Konačni odgovor po prigovoru
+Prije dostavljanja konačnog odgovora, Agencija će podnosioca prigovora obavijestiti pisanim putem o rezultatima postupka razmatranja prigovora i ostaviti rok od pet dana od dana prijema dopisa podnosiocu da se o istom izjasni, ili da ukaže na nove informacije ili druge dokaze kojima se potvrđuju navodi iz prigovora, a koji prethodno nijesu bili u posjedu Agencije ili subjekta nadzora na čiji rad se prigovor odnosi.
+Konačni odgovor u vezi sa podnijetim prigovorom, Agencija će dostaviti podnosiocu prigovora u roku od 30 dana od dana prikupljanja svih relevantnih činjenica potrebnih za razmatranje prigovora.
+Konačni odgovor iz stava 2 ovog člana sadrži opis činjeničnog stanja konstatovanog na osnovu prikupljene dokumentacije i informacija, radnje preduzete u postupku razmatranja prigovora, predlog podnosiocu prigovora za preduzimanje daljih radnji u cilju ostvarenja njegovih prava i interesa, uz pouku da ta prava i interese može ostvariti u postupku pred Centrom za alternativno rješavanje sporova ili nadležnim sudom.
+Ako po prijemu konačnog odgovora podnosilac prigovora dođe u posjed novih informacija ili drugih dokaza koji su od značaja za rješavanje njegovog prigovora, potrebno je da o tome obavijesti subjekt nadzora na čiji rad se prigovor odnosi.
