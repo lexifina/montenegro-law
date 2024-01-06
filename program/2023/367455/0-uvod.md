@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list CG br.
+02/18, 34/19,38/20,50/22 i 84/22), člana 20 stav 1 Zakona o poljoprivredi i ruralnom razvoju ("Sl. list CG" br. 56/09, 18/11,40/11, 34/14,001/15,30/17, 51/17), člana 46 stav 1 tačka 4 Statuta Opštine Bijelo Polje ("Sl. list CG-Opštinski propisi" br.19/18 ),Odluke o budžetu Opštine Bijelo Polje za 2023. godinu (Sl.list CG-opštinski propisi" br.64/22, 15/23/, 50/23),Skupština opštine Bijelo Polje na sjednici održanoj dana 26.12.2023. godine, donijela je
+PROGRAM O IZMJENAMA I DOPUNAMA PROGRAMA MJERA ZA PODSTICAJ RAZVOJA PEDUZETNIŠTVA ZA 2023.GODINU
