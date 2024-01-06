@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 tačka 1 Zakona o komunalnim djelatnostima ("Sl. list Crne Gore" br.55/16, 74/16, 02/18, 66/19,140/22), člana 329 stav 1 Zakona o privrednim društvima ("Sl. list Crne Gore" br. 65/20), člana 12 stav 1 alineja 9 Odluke o osnivanju Društva sa ograničenom odgovornošću "Parking servis -Bijelo Polje" ("Sl. list Crne Gore-Opštinski propisi" br.20/13 I 10/21) i člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl. list Crne Gore-Opštinski propisi" br.19/18), Skupština Opštine Bijelo Polje na sjednici održanoj 26.12. 2023. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Cjenovnik usluga za opšta i posebna parkirališta DOO "Parking
