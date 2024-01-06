@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 tačka 3 Zakona o komunalnim djelatnostima ("Sl. list Crne Gore", br. 55/16, 74/16, 02/18, 66/19 i 140/22),člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Sl. list Crne Gore - Opštinski propisi", br. 19/18), člana 11 stav 1 alineja 5 Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalno-Lim" Bijelo Polje ("Sl.list CG-Opštinski propisi"br.32/13), člana 16 stav 1 tačka 5 Statuta DOO "Komunalno-Lim" Bijelo Polje ("Sl.list CG- Opštinski propisi"br.47/21) Skupština opštine Bijelo Polje, na sjednici održanoj 26.12.2023.godine, donijela je
+ODLUKU
+o davanju saglasnosti na Odluku Odbora direkrora DOO "Komunalno-Lim" Bijelo Polje o
