@@ -1,0 +1,4 @@
+# Član 13
+Društvo/preduzetnika koja je za realizaciju biznis plana koristila budžetska sredstva, po javnom konkursu u prethodnoj godini, prilaže i izvještaj o realizaciji biznis plana, sa detaljnim opisom faza realizacije i detaljnim obrazloženjem eventualnih odstupanja, uključujući i finansijski izvještaj sačinjen u skladu sa posebnim propisom (detaljan finansijski izvještaj o utrošenim sredstvima za prethodnu godinu, sa kopijama računa, ugovora i izvoda banke po kojima su plaćani, kao i narativni izvještaj sa tabelarnim pregledom troškova za utrošena sredstva).
+Ukoliko društvo/preduzetnika u navedenom periodu nije koristila sredstva po osnovu odluka Komisije, dostaviti izjavu o tome.
+Ukoliko društvo/preduzetnika ne dostavi tražene izvještaj o realizovanom biznis planu iz predhodnih godina koji su finansirani iz Budžeta Opštine, ne može učestvovati u raspodjeli sredstava za godinu u kojoj se sredstva raspodjeljuju.
