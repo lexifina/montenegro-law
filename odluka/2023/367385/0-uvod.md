@@ -1,0 +1,2 @@
+Na osnovu člana 7 stav 1 Odluke o proglašenju Parka prirode "Dolina rijeke Zete" ("Službeni list CG", broj 69/19), člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 54 stav 1 tačka 17 Statuta Glavnog grada ("Službeni list CG-Opštinski propisi", br. 8/19, 20/21 i 49/22), Skupština Glavnog grada-Podgorice, na sjednici održanoj 26., 27. i 28. decembra 2023. godine, donosi
+ODLUKU
