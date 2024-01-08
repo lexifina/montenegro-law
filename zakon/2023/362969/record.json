@@ -1,0 +1,34 @@
+{
+  "id": 362969,
+  "path": "zakon/2023/362969",
+  "source": "https://www.sluzbenilist.me/propisi/362969",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/362969/download",
+  "title": "Zakon o izmjeni Zakona o visokom obrazovanju",
+  "issue": "Službeni list Crne Gore, broj 125/2023",
+  "published": "2023-12-31",
+  "in_force": "2024-01-08",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu Crne Gore\".",
+  "applies": null,
+  "amended_by": [
+    [
+      368119,
+      "Zakon o izmjenama Zakona o visokom obrazovanju"
+    ],
+    [
+      373329,
+      "Zakon o izmjeni Zakona o visokom obrazovanju"
+    ]
+  ],
+  "text_status": "as-enacted; amended, not consolidated",
+  "source_sha256": "46238bb26477d374133f16abb3ff5f480bdc3c7765c810811299164eb7588a77",
+  "articles_in_source": 2,
+  "note": null,
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 1049,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "text_sha256": "48fd779daba22d20096fc94905c8087a679614966d727b0e1aabf333c69a7843"
+}
