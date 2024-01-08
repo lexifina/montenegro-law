@@ -1,0 +1,25 @@
+{
+  "id": 363016,
+  "path": "zakon/2023/363016",
+  "source": "https://www.sluzbenilist.me/propisi/363016",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/363016/download",
+  "title": "Zakon o izmjeni i dopuni Zakona o Investiciono-razvojnom fondu Crne Gore",
+  "issue": "Službeni list Crne Gore, broj 125/2023",
+  "published": "2023-12-31",
+  "in_force": "2024-01-08",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu Crne Gore\".",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "18c31e889857afa235ca226358e56d8da71f1c52227d24a92fdff91311830c55",
+  "articles_in_source": 2,
+  "note": null,
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 1238,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "text_sha256": "c2c3d8902a17f63efa5f2736e8e154adcb5e79d995537f4fa023a11f6f304456"
+}
