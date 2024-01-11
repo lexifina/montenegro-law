@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2, a u vezi sa članom 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22), i članom 53 stav 1 tačka 2 Statuta opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 24/19, 05/20, 51/22, 55/22), na sjednici Skupštine opštine Tuzi održanoj 28.12.2023. godine, donijeta je
+ODLUKA
+o potvrdi Odluke o davanju saglasnosti na Predlog Odluke Odbora direktora DOO
