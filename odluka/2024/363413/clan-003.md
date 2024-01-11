@@ -1,0 +1,5 @@
+# Član 3
+Radno tijelo se može obrazovati za poslove čije vršenje nalaže stručnu saradnju lokalnih službenika iz različitih organa, stručnih i posebnih službi (u daljem tekstu: organa), javnih službi čiji je osnivač Opština Tuzi i drugih stručnih lica iz odgovarajućih oblasti, kao i u drugim slučajevima u skladu sa zakonom.
+Članovi Radnog tijela iz stava 1 ovog člana, mogu biti angažovani najviše u dva (2) radna tijela istovremeno.
+Aktom o obrazovanju Radnog tijela može se odrediti tehničko lice koje će obavljati administrativno-tehničke poslove za potrebe Radnog tijela.
+Akt o obrazovanju Radnog tijela obavezno sadrži sljedeće podatke: ime i prezime predsjednika i članova Radnog tijela, naziv organa/službe u kojem je član Radnog tijela zaposlen, ime i prezime tehničkih lica za obavljanje administrativno-tehničkih poslova za potrebe Radnog tijela, poslove i zadatke Radnog tijela, rok za izvršavanje poslova i zadataka, obavezu da Radno tijelo dostavi izvještaj o radu i pravo na naknadu članova i tehničkih lica Radnog tijela.

@@ -1,0 +1,4 @@
+# Član 6
+Visinu naknade za rad u Radnom tijelu određuje predsjednik opštine posebnim rješenjem, uzimajući u obzir obim i složenost poslova i zadataka i iznos budžetom obezbijeđenih sredstava, i ne može biti u iznosu većem 150,00 eura po članu Radnog tijela.
+Izuzetno od stava 1 ovog člana, za Radno tijelo koje poslove i zadatke obavlja kontinuirano tokom godine zbog prirode istih i čiji je obim znatno veći, predsjednik opštine može odrediti isplatu naknade za polugodišnji odnosno tromjesečni period, koja ne može biti u iznosu većem 150,00 eura po članu Radnog tijela za svako polugodište odnosno tromjesečje.
+Pravo na naknadu iz stava 2 ovog člana članovi Radnog tijela mogu ostvariti samo ako je sačinjen i dostavljen polugodišnji odnosno tromjesečni izvještaj o radu Radnog tijela, koji je prihvaćen od strane predsjednika Opštine Tuzi.

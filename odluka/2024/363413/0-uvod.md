@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22), člana 53 stav 1 tačka 2 Statuta opštine Tuzi ("Službeni list CG - Opštinski propisi", broj 24/19, 05/20, 51/22, 55/22), a u vezi sa članom 26 stav 5 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 12/18, 39/18, 42/18, 34/19, 130/21, 146/21, 092/22, 152/22), Skupština Opštine Tuzi na sjednici održanoj 28.12.2023. godine, donijela je
+ODLUKU
