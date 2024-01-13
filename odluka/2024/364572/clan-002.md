@@ -1,0 +1,2 @@
+# Član 2
+Predmet ove Odluke je izgradnja objekta za maslinarstvo, mediteranske kulture i pčelarsvo sa svim elementima neophodnim za njegovo funkcionisanje i promociju navedenih djelatnosti (sektor laboratorije sa ostavom i toaletom, sala za degustaciju proizvoda, prostor za preradu maslina i mediteranskih kultura sa sadržajima proizvodnog procesa, multimedijalna sala za edukaciju i prezentacije...), rasadnika i prostora za pčelinja društva na otvorenom prostoru i pripadajuće infrastrukture neophodne za funkcionisanje objekta.

@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom utvrđuje se izgradnja lokalnog objekta od opšteg interesa i to - Centra za maslinarstvo, mediteranske kulture i pčelarstvo na kat.parc.br. 1919/1 KO Đuraševići sa pripadajućom infrastrukturom- parking prostorom, 10Kv kablom čija se trasa prostire preko kat.parc.br.1973/88 i 1973/84 i 1973/89 sve KO Đuraševići, u obuhvatu "Prostorno- urbanističkog plana"Tivta do 2020.godine ("Sl.list CG-Opštinski propisi" br. 24/10) .
