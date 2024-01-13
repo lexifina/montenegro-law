@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom utvrđuje se izgradnja lokalnog objekta od opšteg interesa i to - pristupnog puta golf zoni sa zapadne strane, na dijelu kat.parc.br.1043/1,1044/1 i 1061 sve KO Radovići i kat.parc.br.1378/1 KO Gošići, u obuhvatu Izmjena i dopuna detaljnog urbanističkog plana Golf i Donji Radovići zapad ("Sl.list CG" br. 92/2020) i "Prostorno-urbanističkog plana"Tivta do 2020.godine ("Sl.list CG-Opštinski propisi" br. 24/10).
