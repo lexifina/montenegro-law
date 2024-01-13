@@ -1,0 +1,2 @@
+# Član 4
+Shodno potpisanom Memorandumu o saradnji na realizaciji prioritetnih infrastrukturnih projekata u oblasti obrazovne infrastrukture u Opštini Tivat obaveza Opštine Tivat je izrada projektne dokumentacije za adaptaciju predmetnog prostora i obezbjeđivanje finansijskih sredstava u iznosu od 100.000,oo€ a obaveza Ministarstva prosvjete, nauke i inovacija je obezbjeđivanje finansijskih sredstava za realizaciju radova u iznosu do 350.000,oo€.
