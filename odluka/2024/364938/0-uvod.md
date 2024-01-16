@@ -1,0 +1,2 @@
+146. Na osnovu člana 35 stav 2 alineja 3 i člana 41 stav 1 alineja 1 Zakona o zaštiti i spašavanju ("Sl.list CG", br.13/07, 5/08, 86/09, 32/11, 54/16, 146/21 i 03/23) i člana 54 stav 1 tačka 58 Statuta Glavnog grada ("Sl.list CG-Opštinski propisi", br. 08/19, 20/21 i 49/22) uz prethodnu saglasnost Ministarstva unutrašnjih poslova - Direktorat za zaštitu i spašavanje br. 30-219/22-54043/3 od 17. januara 2023. godine, Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 26., 27. i 28. decembra 2023. godine, donijela je
+ODLUKU
