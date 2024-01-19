@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 i člana 40 Zakona o državnoj imovini (Sl.list CG br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi (Sl. list CG br. 2/18, 34/19, 38/20, 50/22, 84/22), člana 34 stav 1 tačka 9 Statuta Opština Herceg-Novi (Sl.list CG op.prop.br. 1/19, 37/19, 6/20, 8/22), te Odluke o davanju prethodne saglasnosti Opštini Herceg Novi radi otuđenja nepokretnosti (Sl.list CG br. 86/23), Skupština opštine Herceg-Novi na sjednici održanoj dana 28.12.2023. godine, donijela je
+ODLUKU
