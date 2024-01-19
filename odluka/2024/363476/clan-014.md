@@ -1,0 +1,3 @@
+# Član 14
+Inicijativni odbor, najkasnije u roku od 30 dana od dana prijema mišljenja organa lokalne uprave nadležnog za poslove mjesnih zajednica, saziva Zbor građana. O vremenu i mjestu održavanja Zbora građana, Inicijativni odbor javno obavještava građane isticanjem poziva na oglasnim tablama u mjesnoj zajednici, javnim objektima na tom području, ulaznim vratima stambenih zgrada ili na drugi pogodan način, najkasnije 7 dana prije održavanja Zbora.
+U slučaju da Inicijativni odbor ne sazove Zbor građana u predviđenom roku, organ lokalne uprave nadležan za poslove mjesnih zajednica saziva Zbor građana najksanije u roku od 30 dana od dana isteka roka za sazivanje Zbora od strane Inicijativnog odbora.

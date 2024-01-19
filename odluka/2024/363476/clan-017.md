@@ -1,0 +1,4 @@
+# Član 17
+Predstavnik organa lokalne uprave nadležan za poslove mjesnih zajednica dužan je prisustvovati Zboru građana, voditi zapisnik i vršiti druge administrativne poslove.
+Zapisnik sa Zbora građana mora sadržati podatke o načinu i roku zasivanja i održavanja Zbora, konstataciju da su prisutni građani upoznati sa mišljenjem nadležnog organa u vezi podnesene inicijative, ukupan broj punoljetnih građana sa prebivalištem na području za koje se organizuje Zbor, ukupan broj punoljetnih građana sa prebivalištem na datom području prisutnih na Zboru i njihova imena, prezimena, adrese prebivališta, JMBG i svojeručni potpis.
+Na osnovu zapisnika iz stava 2. ovog člana, organ lokalne uprave nadležan za poslove mjesnih zajednica vrši kontrolu zakonitosti postupka sazivanja, održavanja Zbora i donošenja odluke, o čemu sačinjava Izvještaj.
