@@ -1,0 +1,2 @@
+# Član 1
+Daje se saglasnost na Odluku Odbora direktora DOO »Vodovod i kanalizacija« Herceg Novi o usvajanju cijena za obavljanje regulisanih komunalnih djelatnosti DOO »Vodovod i kanalizacija« Herceg Novi za 2024. godinu, izrađenoj po Metodologiji za utvrđivanje cijena za obavljanje regulisanih komunalnih djelatnosti iz zahtjeva za davanje saglasnosti na cijene usluga Regulatornoj agenciji za energetiku, kao i utvrđivanju predloga cijene usluge za prečišćavanje komunalnih otpadnih voda za 2024, broj: 05-79/23-7 od 28.11.2023.god.
