@@ -1,0 +1,3 @@
+# Član 4
+Predsjednik Savjeta može, po potrebi, pozvati na sjednice Savjeta starješine drugih organa državne uprave koji nijesu članovi Savjeta, predsjednike opština, odnosno gradonačelnike i starješine organa lokalnih uprava, odnosno predstavnike institucija i zatražiti podatke, objašnjenja i izvještaje u vezi sa pitanjima koja se odnose na realizaciju zadataka iz člana 3 ove odluke.
+Sjednicama Savjeta, po potrebi i na poziv predsjednika Savjeta, mogu prisustvovati predstavnici Delegacije Evropske unije u Crnoj Gori i relevantnih međunarodnih finansijskih institucija, kao i druga lica, u svojstvu posmatrača ili izvjestioca, bez prava glasa.
