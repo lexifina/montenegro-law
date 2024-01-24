@@ -1,0 +1,2 @@
+Na osnovu člana 40 stav 1 tačka 2 Statuta Opštine Pljevlja ("Sl.list CG - Opštinski propisi", br. 46/18), a u skladu sa članom 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 85/22 ) Skupština opštine Pljevlja na sjednici održanoj: 28. i 29. 12. 2023. godine donijela je
+ODLUKU O SUFINANSIRANJU TROŠKOVA MEDICINSKI POTPOMOGNUTE OPLODNJE U OPŠTINI PLJEVLJA
