@@ -1,0 +1,2 @@
+205. Na osnovu člana 58 i 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), kao i člana 90, 91 i 94 stav 1 i 2. Statuta Opštine Plav ("Službeni list Crne Gore - Opštinski propisi", br. 44/18), saglasno članu 165 Zakona o radu ("Službeni list Crne Gore", br. 74/19, 8/21, 59/21, 68/21 i 145/21) a u vezi sa članom 125 Zakona o državnim službenicima i namještenicima ("Službeni list Crne Gore", br. 2/18, 34/19, 8/21 i 37/22 od 07.04.2022) predsjednik Opštine Plav, donosi
+ODLUKU
