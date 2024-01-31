@@ -1,0 +1,1 @@
+Na osnovu člana 34 stav 1 tačka 22 Statuta Opštine Herceg Novi ("Sl.list CG - Opštinski propisi", br. 1/19, 37/19, 6/20, 18/22) i člana 14 stav 1 Odluke o osnivanju Društva sa ograničenom odgovornošću"Sportski centar Igalo" - Igalo ("Sl.list CG-Opštinski propisi", br. 29/13, 35/17) Skupština opštine Herceg Novi, na sjednici održanoj 31.01.2024. godine donijela je
