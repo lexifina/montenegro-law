@@ -1,0 +1,2 @@
+Na osnovu člana 27. stav 1. tačka 9., člana 34. a u vezi sa članom 154. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj. 02/2018, 34/19, 38/20, 50/22 i 84/22 ), članom 15. i 34. Zakona o državnoj imovini ("Službeni list Crne Gore", broj. 27/09 i 40/11), članom 9. Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", broj. 55/16, 74/16, 2/18 i 66/19) i člana 37 Statuta Opštine Ulcinj (,, Službeni list CG - Opštinski propisi '', broj 48/19) Skupština opštine Ulcinj na sjednici održanoj dana 29.12.2023. godine, donijela je
+ODLUKU
