@@ -1,0 +1,1 @@
+Na osnovu člana 34 tačka 22 Statuta Opštine Herceg Novi ("Sl.list RCG-Opštinski propisi", broj: 1/19, 37/19, 6/20, 18/22) i člana 10 stav 1 alineja 4 Odluke o osnivanju ,,Parking servis Herceg Novi'' DOO Herceg Novi ("Sl.list CG-Opštinski propisi" broj: 29/13, 4/14, 12/17, 35/17, 25/20, 53/22), Skupština opštine Herceg Novi, na sjednici održanoj 31.01.2024. donijela je
