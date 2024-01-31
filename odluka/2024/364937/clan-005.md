@@ -1,0 +1,63 @@
+# Član 5
+Član 58. mjenja se i glasi:
+Poslovi Skupštine Skupština:
+1) donosi statut Opštine;
+2) donosi propise i druge opšte akte;
+3) donosi strateški plan razvoja Opštine;
+4) donosi planove i programe razvoja za pojedine oblasti;
+5) donosi urbanističke projekte;
+6) donosi program uređenja prostora odnosno plan komunalnog opremanja;
+7) donosi program zaštite i očuvanja prirodnog i kulturno-istorijskog područja za arheloške lokalitetet Stari grad -Kalaja, Stari Ulcinj kod Kruča, Arheološki lokalitet Šasa, lokalitet Ćeret i lokalitet Villa romana rustica Kruč i dr.
+8) donosi budžet i završni račun budžeta;
+9) uvodi i utvrđuje opštinske poreze, takse, naknade i druge sopstvene prihode;
+10) raspolaže nepokretnom imovinom, osim u slučajevima otuđenja imovinskih prava na nepokretnostima neposrednom pogodbom, utvrđenim zakonom kojim se uređuje državna imovina; 11) utvrđuje uslove za osnivanje mjesnih zajednica i daje saglasnost na odluke o osnivanju;
+12) raspisuje referendum za teritoriju opštine ili za dio teritorije;
+13) odlučuje o građanskoj inicijativi;
+14) odlučuje o raspisivanju samodoprinosa za teritoriju opštine;
+15) osniva javne službe;
+16) donosi osnivačka akta (daje saglasnost na statut i druge akte) o osnivanju pravnog lica koji vrši poslove od javnog interesa;
+17) odlučuje o zaduživanju i davanju garancija, u skladu sa zakonom;
+18) daje saglasnot na zaduženje javnih službi;
+19) vrši potvrđivanje mandata odbornika i odlučuje o pravima odbornika;
+20) donosi odluku o skraćenju mandata Skupštine;
+21) bira i razrješava predsjednika Skupštine, Predsjednika Opštine i potpredsjednika Skupštine;
+22) daje saglasnost na odluku o imenovanju i razrješenju potpredsjednika Opštine;
+23) imenuje sekretara Skupštine na predlog predsjednika Skupštine;
+24) imenuje članove radnih tijela Skupštine;
+25) imenuje i razrješava članove organa upravljanja javnih službi;
+26) donosi odluku o osnivanju i ukidanju javnih ustanova;
+27) daje saglasnost na statut, godišnji program rada i programe turističke informativno propagande djelatnosti, financijski plan i financijski iskaz lokalne turističke organizacije;
+28). razmatra i usvaja izvještaj o radu predsjednika Opštine i radu organa lokalne uprave;
+29) razmatra izvještaj o radu javnih službi čiji je osnivač Opština;
+30) razmatra izvještaj o realizaciji preporuka Državne revizorske institucije;
+31) donosi poslovnik o svom radu;
+32) donosi etički kodeks;
+33) donosi odluku o zaradama lokalnih funkcionera i lica koja imenuje Skupština;
+34) donosi odluku o zaradama lokalnih službenika i namještenika;
+35) daje autentično tumačenje propisa koji donosi;
+36) obrazuje stalna i povremena radna tijela za razmatranje pitanja iz svoje nadležnosti;
+37) uređuje i obezbjeđuje obavljanje komunalnih djelatnosti i njihov razvoj, uređuje uslove i način organizovanja poslova u obavljanju komunalnih djelatnosti i odlučuje o povjeravanju obavljanja komunalnih djelatnosti;
+38) utvrđuje opšte uslove za uređivanje naselja na teritoriji opštine, korišćenje javnih i drugih površina i uslove i način korišćenja prostora za parkiranje;
+39) utvrđuje nazive područja, naselja, ulica i trgova kao i njihove granice;
+40) donosi odluku o naseljima sa teritorijalnom podjela opštine;
+41) propisuje uslove i način davanja privremenog korišćenja gradskog građevinskog zemljišta i donosi program privremenog korišćenja gradsko građevinskog zemljišta;
+42) propisuje uslove i način izgradnje i postavljanje privremenih objekata;
+43) donosi godišnji program o pribavljanju nepokretnosti za potrebe Opštine;
+44) propisuje radno vrijeme ugostiteljskih, trgovinskih i zanatskih objekata i određuje područja u kojima se može obavljati određena djelatnost u skladu sa zakonom;
+45) ustanovljava javna priznanja Opštine i uređuje način i postupak dodjeljivanja javnih priznanja;
+46) donosi odluku o emisiji hartija od vrijednosti;
+47) donosi odluku o energetskoj efikasnosti i proizvodnju alternativnih izvora električni energija;
+48) obrazuje stručnu službu za poslove Skupštine;
+49) odlučuje o broju odbornika;
+50) donosi odluku o izradi, upotrebi, čuvanju i uništavanju pečata;
+51) daje, po pravilu, mišljenje o zakonima i drugim propisima kojima se uređuju pitanja od interesa za lokalnu samoupravu;
+52) odlučuje o saradnji i udruživanju sa lokalnim zajednicama i asocijacijama drugih zemalja;
+53) odlučuje o osnivanju međuopštinske zajednice;
+54) odlučuje o osnivanju asocijacije opština za teritoriju Crne Gore;
+55) donosi plan zaštite od požara;
+56) propisuje prekršaje za povrede opštinskih propisa;
+57) odlučuje o naknadi za rad odbornika;
+58) donosi program podizanja spomen obilježja od lokalnog značaja;
+59) donosi etičke kodekse za ostale institucije;
+60) donosi odluku o osnivanju Savjeta za razvoj i zaštitu lokalne samouprave;
+61) vrši i druge poslove utvrđene zakonom i Statutom".

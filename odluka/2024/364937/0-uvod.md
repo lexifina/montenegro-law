@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22), člana 187 Statuta Opštine Ulcinj ("Sl. list CG - Opštinski proipisi" broj 49/19) i člana 1 i 3 Odluke o pristupanju izmjena i dopuna Statuta Opštine Ulcinj ("Sl. list CG - Opštinski propisi" broj 39/22), Skupština opštine Ulcinj na sjednici održanoj dana 29.12.2023. god. donijela je
+ODLUKU O IZMJENAMA I DOPUNAMA STATUTA OPŠTINE ULCINJ
