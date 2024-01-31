@@ -1,0 +1,66 @@
+# Član 1
+## Budva ("Službeni list CG-Opštinski propisi", br. 12/22 od 30.03.2022.godine)
+Član 11 Odluke o organizaciji i načinu rada lokalne uprave Opštine Budva ("Službeni list Crne Gore-Opštinski propisi", br. 12/22, mijenja se i glasi: "Sekretarijat za privredu obavlja poslove lokalne uprave koji se odnose na:
+- Obradu i donošenje rješenja o upisu u Centralni turistički registar (CTR) kategorisanih objekata u privatnom smještaju, kao i rješenja o kategorizaciji ugostiteljskih objekata i objekata za izdavanje smještaja u domaćinstvima iz nadležnosti lokalne uprave i vođenje registara tih objekata;
+- Donošenje rješenja o produženom radnom vremenu (za preduzetnike i pravna lica) u skladu sa propisima;
+- Ovjeru knjige gostiju, knjige prigovora i vođenje registara iz svoje oblasti;
+- Obradu i donošenje odobrenja za rad i rješenja o upisu u Centralni turistički registar (CTR) iz oblasti definisanih Zakonom o turizmu i ugostiteljstvu, kao i upis istih u Centralni turistički registar (CTR).
+- Utvrđivanje ispunjenosti uslova poslovnih prostora u pogledu tehničke opremljenosti i drugih propisanih uslova za obavljanje ugostiteljske i turističke djelatnosti u stalnim i privremenim objektima, u skladu sa posebnim propisima;
+- Utvrđivanje ispunjenost uslova za obavljanje privredne djelatnosti bez korišćenja poslovne prostorije;
+- Obrada i donošenje rješenja o trajnom prestanku obavljanja ugostiteljske i turističke djelatnosti;
+- Obradu i donošenje rješenja o izdavanju licenci i izvoda licenci za obavljanje javnog prevoza putnika u unutrašnjem drumskom saobraćaju - auto taksi prevoz;
+- Izdavanje licenci i izvoda licenci za obavljanje auto taksi prevoza;
+- Obradu i donošenje rješenja o izdavanju taksi legitimacija;
+- Izdavanje legitimacije za vozače koji obavljaju javni prevoz putnika u unutrašnjem drumskom saobraćaju;
+- Vršenje ovjere cjenovnika za auto taksi prevoz;
+- Obradu i donošenje odobrenja za obavljanje prevoza za sopstvene potrebe;
+- Vođenje odgovarajućeg registra za auto taksi prevoz;
+- Obrada i donošenje rješenja o prestanku obavljanja djelatnosti;
+- Postupak prijema, ovjere i evidencije zanastva i vođenje registra iz oblasti zanatstva za preduzetnike i privredna društva;
+- Vođenje evidencije iz oblasti trgovine, shodno važećim zakonskim propisima;
+- Izrada uvjerenja, obavještenja, dostava podataka po zahtjevu stranaka ili službenim putem iz oblasti turizma, ugostiteljstva, saobraćaja, zanastva i trgovine;
+- Rad na pripremi propisa iz oblasti poljoprivrede (odluka, strategija i dr. propisi),
+- Izrada Plana podsticaja odnosno mjera za podsticaj poljoprivrede, za svaku kalendarsku godinu,
+- Poslovi na realizaciji usvojenih Odluka, strategija i planova,
+- Poslovi u vezi sa sprovođenjem postupka Javnog poziva za podsticaj poljoprivrede,
+- Organizacija i vršenje stručnih i administativno-tehničkih poslova za potrebe komisije za podsticaje u poljoprivredi,
+- Vršenje nadzora i kontrole o pravilnom korišćenju sredstava za podsticaj,
+- Vođenje evidencije i praćenje stanja iz ove oblasti,
+- Izrada Rješenja za odobrene podsticaje u poljoprivredi,
+- Izrada Izvještaja o utrošku sredstava za podsticaje,
+- Rješavanje po zahtjevima o kategoriji zemljišta, nepoljoprivredno zemljište,
+- Izdavanje Odobrenja za premještanje stabala maslina,
+- Priprema i izrada operativnog plana zaštite od štetnog dejstva voda za privredna društva za područje Budve,
+- Izdavanje vodoprivrednih uslova, vodoprivrednih saglasnosti i vodoprivrednih dozvola,
+- Saradnja sa organima lokalne samouprave, državnim organima i Ministarstvom za poljoprivredu,
+- Vršenje drugih poslova u skladu sa zakonom.
+- Vršenje poslova inspekcijskog nadzora u oblasti turizma i ugostiteljstva u skladu za Zakonom;
+- Poslove u vezi slobodnog pristupa informacijama iz djelokruga rada ovog Sekretarijata;
+- Izveštavanje prema nadležnom Ministarstvu u skladu sa propisima;
+- Saradnju sa nevladinim organizacijama radi realizacije programa u oblastima za koje je osnovana;
+- Vrši upravni nadzor i poslove u vezi sa ostvarivanjem prava osnivača prema javnim službama u ovim oblastima;
+- Davanje mišljenja, pripremanje prijedloga akata o davanju saglasnosti na statut, program rada, izvještaj o radu i izvještaj o finansijskom poslovanju javnih službi iz ovih oblasti čiji je osnivač Opština;
+- Davanje mišljenja i prijedlog mjera u vezi sa informativnim i drugim materijalima javnih službi iz ovih oblasti koji se dostavljaju Skupštini i predsjedniku Opštine;
+- Pripremu informativnih i drugih stručnih materijala za Skupštinu i predsjednika Opštine;
+- izradu predloga pravilnika o unutrašnjoj sistematizaciji i organizaciji sekretarijata;
+- priprema dijela Kadrovskog plana koji se odnosi na zaposlene u Sekretarijatu i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- odlučivanje o pokretanju internog i javnog oglasa radi popune radnih mjesta;
+- pripremanje Plana korišćenja godišnjig odmora u ovom organu;
+- sprovođenje procesa ocenjivanja rada službenika i namještenika u organu,
+- donošenje rješenja o radnom status i pravima iz radnog odnosa zaposlenih u ovom Sekretarijatu;
+- priprema i donošenje rješenja o zaradama zaposlenih u ovom Sekretarijatu
+- Planiranje i odlučivanje o stručnom osposobljavanju i usavršavanju službenika i namještenika, kao i posebnom stručnom usavršavanju i ugovaranju u vezi sa istim, u toku radnog odnosa zaposlenog;
+- Vršenje nadzora i kontrole rada službenika i namještenika u Sekretarijatu, podnošenje inicijative za sprovođenje disciplinskog postupka i donošenje odluke o disciplinskoj mjeri, kao i vršenje drugih disciplinskih ovlašćenja predviđenih zakonom;
+- Obezbijeđivanje učešća javnosti u donošenju akata od zajedničkog interesa i ostalim aktima i aktivnostima u skladu sa zakonskim i opštinskim propisima;
+- Objavljivanje na zvaničnoj internet prezentaciji Opštine akata u skladu sa zakonom i opštinskim propisima iz svog djelokruga rada;
+- Organizaciju i vršenje stručnih i administrativno-tehničkih poslova za potrebe komisija i radnih tijela imenovanih za obavljanje aktivnosti iz nadležnosti Opštine u ovoj oblasti;
+- Poslove obrade standardnih obrazaca, pripreme plana i izvještavanja u vezi sa sprovođenjem postupka javnih nabavki iz dijelokruga Sekretarijata;
+- Sprovodi budžetsko i trezorsko poslovanje;
+- Priprema predlog za sprovođenje tendera;
+- Priprema i obrađuje sprovođenje javnih poziva i konkursa;
+- Izrada izvještaja o javnim konkursima i prezentovanje istih u Skupštini;
+- Vršenja nadzora i kontrole pravilnog korišćenja imovine i sredstava za rad u skladu sa zakonom i posebnim opštinskim propisima;
+- Vrši poslove na realizaciji usvojenih akcionih planova i strategija razvoja;
+- Vrši poslove pribavljanja dokumentacije po službenoj dužnosti za potrebe efikasnog i efektivnog postupanja po predmetu klijenta u skladu sa propisima;
+- Sprovodi saradnju sa organima lokalne uprave, državnim organima i drugim pravnim licima u okviru djelokruga svog rada;
+- Vršenje drugih poslova u skladu sa zakonom.

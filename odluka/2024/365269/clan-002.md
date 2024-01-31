@@ -1,0 +1,27 @@
+# Član 2
+Član 26 Odluke o organizaciji i načinu rada lokalne uprave Opštine Budva ("Službeni list Crne Gore - Opštinski propisi", br. 12/22, mijenja se i glasi: Uprava lokalnih javnih prihoda vrši poslove uprave koji se odnose na:
+- pripremanje propisa kojima se utvrđuju lokalni javni prihodi (porezi, prirezi, takse i naknade) i analizira efekte primjene tih propisa u cilju predlaganja odgovarajuće fiskalne politike; priprema informativne i druge stručne materijale za predsjednika Opštine i Skupštinu; priprema: stručna mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa u ovoj oblasti i vrši druge poslove iz nadležnosti Opštine u ovoj oblasti;
+- utvrđivanje, naplatu i kontrolu lokalnih javnih prihoda i to: lokalnih administrativnih taksi; poreza na nepokretnosti, poreza na promet nepokretnosti, boravišne takse, turističke takse, izletničke takse, članskog doprinosa, prireza porezu na dohodak fizičkih lica, lokalne komunalne takse; naknade za korišćenje opštinskih puteva, naknade za korišćenje prostora za bespravne objekte.
+- vodi registar poreskih obveznika i redovno usaglašava stanje registra sa registrom nepokretnosti koji vodi Uprava za nekretnine; propisuje oblik i sadržaj poreske prijave; preduzima mjere naplate lokalnih javnih prihoda (hipoteka, zaloga, zabrana prenosa);
+- propisuje oblik i sadržaj poreske prijave;
+- vrši plenidbu i prodaju pokretne i nepokretne imovine, vršenje upisa fiducije i hipoteke;
+- predlaže izdavanje privremene mjere zabrane raspolaganja imovinom;
+- priprema periodične izvještaje i informacije o stepenu realizacije lokalnih javnih prihoda;
+- vrši evidenciju naplaćenih lokalnih javnih prihoda;
+- inspekcijski nadzor u cilju utvrđivanja činjenica bitnih za oporezivanje poreskih obveznika u skladu sa ovlašćenjima iz zakona kojima se uređuju pojedine vrste poreza;
+- poslove u vezi slobodnog pristupa informacijama iz djelokruga rada ove Uprave;
+- pripremu informativnih i drugih stručnih materijale za Skupštinu i predsjednika Opštine;
+- izradu predloga pravilnika o unutrašnjoj sistematizaciji i organizaciji Uprave;
+- priprema dijela Kadrovskog plana koji se odnosi na zaposlene u Službi dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- odlučivanje o pokretanju internog i javnog oglasa radi popune radnih mjesta;
+- pripremanje Plana korišćenja godišnjig odmora u ovom organu;
+- sprovođenje procesa ocenjivanja rada službenika i namještenika u organu,
+- donošenje rješenja o radnom status i pravima iz radnog odnosa zaposlenih u ovom organu;
+- priprema i donošenje rješenja o zaradama zaposlenih u ovom organu;
+- planiranje i odlučivanje o stručnom osposobljavanju i usavršavanju službenika i namještenika, kao i posebnom stručnom usavršavanju i ugovaranju u vezi sa istim, u toku radnog odnosa zaposlenog; vršenje nadzora i kontrole rada službenika i namještenika u Upravi; podnošenje inicijative za sprovođenje disciplinskog postupka i donošenje odluke o disciplinskoj mjeri, kao i vršenje drugih disciplinskih ovlašćenja predviđenih zakonom; vršenje nadzora i kontrole pravilnog korišćenja imovine i sredstava za rad u skladu sa zakonom i posebnim opštinskim propisima;
+- pripreme faktura i izvještavanja prema trezoru na propisanim obrascima zaposlenih u ovoj Službi
+- obezbijeđivanje učešća javnosti u donošenju akata od zajedničkog interesa i ostalim aktima i aktivnostima u skladu sa zakonskim i opštinskim propisima;
+- objavljivanje na zvaničnoj internet prezentaciji Opštine akata u skladu zakonom i opštinskim propisima iz svog djelokruga rada;
+- organizaciju i vršenje stručnih i administrativno-tehničkih poslova za potrebe komisija i radnih tijela imenovanih za obavljanje aktivnosti iz nadležnosti Opštine u ovoj oblasti;
+- poslove obrade standardnih obrazaca, pripreme plana i izvještavanja u vezi sa sprovođenjem postupka javnih nabavki iz dijelokruga Uprave;
+- poslove na realizaciji usvojenih akcionih planova i strategija razvoja; poslove pripreme faktura i izvještavanja prema trezoru na propisanim obrascima; poslove pribavljanja dokumentacije po službenoj dužnosti za potrebe efikasnog i efektivnog postupanja po predmetu klijenta u skladu sa propisima; saradnju sa državnim organima i drugim pravnim licima u okviru djelokruga svog rada; vršenje drugih poslova iz nadležnosti Opštine u ovim oblastima.
