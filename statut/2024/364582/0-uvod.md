@@ -1,0 +1,2 @@
+Na osnovu člana 14 Zakona o Investiciono-razvojnom fondu Crne Gore ("Službeni list CG", br. 88/09, 40/10, 80/17 i 125/23) i člana 11 i 48 Statuta Investiciono-razvojnog fonda Crne Gore A.D. ("Službeni list CG", br. 25/10, 26/11, 3/12, 16/12, 10/14, 80/17, 15/18, 58/18, 55/19, 102/20, 49/22, 19/23 i 91/23), XXVIII Vanredna Skupština Investiciono-razvojnog fonda Crne Gore A.D., održana dana 26. januara 2024. godine, donijela je
+ODLUKU O IZMJENAMA STATUTA INVESTICIONO-RAZVOJNOG FONDA CRNE GORE A.D.
