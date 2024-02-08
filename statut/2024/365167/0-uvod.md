@@ -1,0 +1,2 @@
+Na osnovu člana 271 Zakona o privrednim društvima ("Službeni list CG", br. 65/20 i 146/21) i člana 2 stav 3 alineja 1 Odluke o osnivanju Društva sa ograničenom odgovornošću za promet roba i usluga "Montenegro Bonus" Cetinje, broj 02-6552 od 5. jula 2003. godine i broj 04-6721 od 23. decembra 2021. godine, Vlada Crne Gore je 27. decembra 2023. godine, bez održavanja sjednice, na osnovu pribavljene saglasnosti većine članova Vlade, donijela
+STATUT DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU ZA PROMET ROBA I
