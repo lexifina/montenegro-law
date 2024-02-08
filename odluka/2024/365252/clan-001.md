@@ -1,0 +1,6 @@
+# Član 1
+## Vrsta lokalnog objekta od opšteg interesa
+Ovom Odlukom određuje se lokacija za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa - objekat distributivne mreže TS 10/0,4 kV 1(2)x1000 kVA "Nova 4" sa uklapanjem u VN i NN mrežu, na dijelovima katastarskih parcela broj 3573/95, 3573/82 i 4089/1 KO Pečurice i sve katastarske parcele koje nastanu parcelacijom navedenih parcela, po zahtjevu DOO "CEDIS", iz Podgorice. Konačna pozicija, odnosno katastarske parcele preko kojih prealzi kompletna trasa objekta odrediće se u fazi izrade Glavnog projekta, a nakon izrade Elaborata parcelacije od strane ovlašćene geodetske organizacije koja posjeduje licencu.
+Uvidom u priložene listove nepokretnosti utvrđeno je:
+- shodno listu nepokretnosti broj 2245 - prepis, KO Pečurice, katastarske parcele broj 3573/82 i 3573/95 KO Pečurice, svojina su DOO "Old City", Bar, obim prava 1/1 za koje je priložena Saglasnost za izgradnju energetskog objekta - trafostanice i polaganje priključnog 10kV kablovskog voda OV 9765/2023 od 28.09.2023. godine koja se daje DOO "CEDIS" iz Podgorice za izvođenje radova na izgradnji energetskog objekta;
+- shodno listu nepokretnosti broj 250 - izvod, KO Pečurice, katastarska parcela broj 4089/1 KO Pečurice, svojina je Crne Gore, obim prava 1/1, raspolaganje je Vlada Crne Gore, obim prava 1/1.
