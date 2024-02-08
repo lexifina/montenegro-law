@@ -1,0 +1,2 @@
+# Član 2
+Urbanističku parcelu, UP 5, u urbanističkoj zoni "G", ukupne površine 1062 m2, po DUP- u "Ilino", pored zemljišta iz člana 1 stav 1 Odluke, sačinjava i zemljište označeno katastarskom parcelom broj 4815/1, u površini od 602 m2, kao i katastarskom parcelom broj 4815/2, u površini od 299 m2, obije evidentirane u listu nepokretnosti broj 684 KO Novi Bar, u svojini Jovetić (Nikole) Braca iz Bara. S tim u vezi ukupna površina urbanističke parcele, UP 5, po grafici (katastarskom planu) iznosi 1062 m2, dok po numerici (listovima nepokretnosti) iznosi 1053 m2.

@@ -1,0 +1,2 @@
+# Član 3
+Nepokretnost iz člana 1 ove odluke prodaje se po cijeni od 380,45 €/m2, što ukupno iznosi 57.828,40 €, shodno Izvještaju o procjeni vrijednosti nekretnine u zahvatu DUP-a "Ilino", sačinjenom od strane sudskog vještaka i ovlašćenog (REV) procjenjivača, dipl. inženjer građevinarstva Sonja Ivanović iz Podgorice, protokolisanog kod Opštine Bar pod brojem brojem: 04-427/23-1414 od 16.01.2024. godine.
