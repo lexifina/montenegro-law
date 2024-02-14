@@ -1,0 +1,2 @@
+# Član 3
+Obrazac iz člana 2 ovog pravilnika sadrži mjesta za unos: naziva i sjedišta priređivača, matičnog broja priređivača, mjeseca i godine na koji se mjesečna evidencija odnosi, rednog broja transakcije i podataka o vrsti igara na sreću, iznosu primljenih uplata, iznosu izvršenih isplata, osnovici za obračun naknade i iznosu naknade, kao i mjesta za potpis odgovornog lica koje je sastavilo obračun i odgovornog lica priređivača.
