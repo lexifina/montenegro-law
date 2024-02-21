@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl.list CG" br. 2/18 i 34/19,38/20,50/22), člana 34 stav 1 tačka 2 Statuta Opštine Herceg Novi ("Sl.list CG-Opštinski propisi",br. 1/19 i 37/19, 6/20, 18/22) i člana 21 Odluke o osnivanju Javne ustanove "Dnevni centar za djecu sa smetnjama i teškoćama u razvoju" "Sl.list CG-Opštinski propisi",br. 3/11, 8/14 i 44/17) Skupština opštine Herceg Novi, na sjednici održanoj 31.01.2024. godine , donijela je
+ODLUKU
