@@ -1,0 +1,3 @@
+# Član 3
+Članom 4 Odluke o regulisanju međusobnih odnosa između Opštine Kotor i Vaterpolo kluba "Primorac" Kotor, Opština Kotor se obavezala da u naredne tri budžetske godine počev od dana preuzimanja Kluba, izmiri dugovanja koja spadaju u tekuće poslovanje Kluba u ukupnom iznosu od 190.627,72 eura, shodno finansijskom izvještaju Kluba na dan 15.08.2019. godine kao i dugovanja prema trenerima plivača.
+Utvrđeni iznos iz stava 1 ovog člana nije precizno utvrđen danom donošenja pomenute odluke iz razloga nedostatka evidencije dugovanja prema trenerima plivača tj. isti nisu pokrenuli sudske postupke do dana promjene vlasničke strukture.

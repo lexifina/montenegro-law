@@ -1,0 +1,2 @@
+Na osnovu člana 34 Zakona o državnoj imovini ("Službeni list Crne Gore" broj 21/09 i 40/11), člana 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" broj 2/18, 34/19, 38/20, 50/22 i 84/22) člana 36 Statuta Opštine Kotor ("Službeni list Crne Gore-Opštinski propisi" broj 39/17) i Odluke o proglašenju Vaterpolo kluba "Primorac" Kotor klubom od posebnog interesa za Opštinu Kotor ("Službeni list Opštine Kotor" broj 10/05), Skupština opštine Kotor na XXII sjednici održanoj dana 22.02.2024. godine donosi
+ODLUKU
