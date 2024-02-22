@@ -1,0 +1,3 @@
+# Član 1
+## o izmjeni i dopuni Odluke o utvrđivanju lokacije za rekonstrukciju - zamjenu kompletne sekundarne i tercijalne vodovodne mreže u Novom Naselju (projektna mjera KO9)
+Vrši se izmjena i dopuna Odluke o utvrđivanju lokacije za rekonstrukciju - zamjenu kompletne sekundarne i tercijalne vodovodne mreže u Novom Naselju (projektna mjera KO9) ("Sl.list CG- Opštinski propisi" br. 59/22), na način što se u članu 1, stav 1 navedene Odluke, riječi "na katastarskim parcelama 25/1, 1318, 218/1, 2/1, 174, 216/1, 217, 166/13, 163/1, 1320 sve K.O.Škaljari I", brišu i zamjenjuju riječima "na katastarskim parcelama 25/1, 52, 2/1, 2/28, 1318, 173/2, 174, 216/1, 217, 218/1, 166/13, 163/1 i 1320 sve K.O.Škaljari I".
