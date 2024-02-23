@@ -1,0 +1,2 @@
+Na osnoviu člana 116 stav 1 i 3 Zakona o planiranju prostora i izgradnji objekata ("Službeni list Crne Gore" broj 64/17, 44/18, 63/18, 11/19 i 82/20),člana 38 stav1 tačka 2 i 4 Zakona o lokalnoj samoupravi(,,Sl.list CG",br. 02/18,34/19 i 38/20), člana 87 Statuta opštine Kolašin ("Službeni list-Opštinski propisi" broj 24/19) i Programa uređenja prostora sa programom urbane snacije za 2024. godinu (,,Sl.list CG -o.p", br. 6/24) predsjednik Opštine Kolašin, donosi
+ODLUKU
