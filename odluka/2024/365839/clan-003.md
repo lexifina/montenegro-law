@@ -1,0 +1,2 @@
+# Član 3
+Sredstva tekuće budžetske rezerve za obezbjeđenje nedostajućih sredstava za finansiranje aktivnosti potrošačke jedinice u skladu sa programskim budžetom, mogu se koristiti u visini do 10% sredstava planiranih godišnjim budžetom potrošačke jedinice koja Vladi Crne Gore (u daljem tekstu: Vlada) podnosi predlog za davanje prethodne saglasnosti za korišćenje sredstava tekuće budžetske rezerve, uz pribavljeno mišljenje Ministarstva finansija (u daljem tekstu: Ministarstvo).

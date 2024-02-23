@@ -1,0 +1,2 @@
+# Član 4
+Sredstva tekuće budžetske rezerve za pomoć pravnim licima za finansiranje njihove djelatnosti mogu se koristiti do iznosa koji utvrdi resorno ministarstvo, kao davalac državne pomoći, na osnovu procjene opravdanosti zahtjeva pravnog lica, pri čemu resorno ministarstvo Vladi podnosi predlog za davanje prethodne saglasnosti za korišćenje sredstava tekuće budžetske rezerve, uz pribavljeno mišljenje Ministarstva.
