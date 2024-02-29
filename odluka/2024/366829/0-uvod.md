@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 u vezi sa članom 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Sl.list CG", br. 2/18, 34/19, 38/20 i 50/22) i člana 38 tačka 9 Statuta opštine Žabljak ("Sl.list CG-opštinski propisi", br. 27/18), člana 29 stav 2 u vezi sa članom 39 stav 2 Zakona o državnoj imovini ("Sl.list CG", br. 21/09 i 40/11), člana 29 i 30 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl.list CG", br. 44/10) Skupština opštine Žabljak na sjednici održanoj dana 29.02.2024.godine, donijela je
+ODLUKU
