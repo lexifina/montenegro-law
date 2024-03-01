@@ -1,0 +1,25 @@
+# Član 9
+U Centrali Fonda se:
+- obezbjeđuje jedinstvena primjena propisa iz obaveznog zdravstvenog osiguranja i zdravstvene zaštite;
+- obezbjeđuje unapređenje zdravstvenog osiguranja;
+- proučavaju, prate i analiziraju pokazatelji iz oblasti ekonomike zdravstva; - radi na unapređenju sistema planiranja i finansiranja zdravstvene djelatnosti;
+- planira, obezbjeđuje i vodi finansijska politika Fonda;
+- obavljaju poslovi vezani za ostvarivanje prava, brine o zakonitom ostvarivanju tih prava i pruža neophodna stručna pomoć u ostvarivanju prava i zaštiti interesa osiguranih lica;
+- rješava o određenim pravima osiguranih lica iz obaveznog zdravstvenog osiguranja u prvostepenom postupku;
+- pruža stručna pomoć područnim jedinicama u vezi sa rješavanjem o pravima i primjenom propisa iz zdravstvenog osiguranja;
+- koordinira rad područnih jedinica u vezi sa primjenom propisa iz zdravstvenog osiguranja;
+- pruža međunarodna pravna pomoć u sprovođenju međunarodnih ugovora o socijalnom osiguranju;
+- zaključuju ugovori o pružanju usluga sa davaocima zdravstvenih usluga i prati izvršavanje ugovornih obaveza;
+- obezbjeđuje kontrola ispunjenja ugovornih obaveza davalaca zdravstvenih usluga i ostvarivanja prava osiguranih lica;
+- prati zakonska i druga regulativa, pripremaju opšti i drugi akti i ugovori;
+- obavljaju poslovi pravnog prometa i zastupanja Fonda;
+- obezbjeđuje razvoj (funkcionisanje) integralnog zdravstvenog informacionog sistema i vrši obrada podataka unutar tog sistema;
+- vodi matična evidencija zaposlenih Stručne službe Fonda;
+- odlučuje o pravima, obavezama i odgovornostima zaposlenih u Stručnoj službi Fonda;
+- obavljaju poslovi unutrašnje revizije Fonda;
+- obezbjeđuje zakonito sprovođenje postupaka javnih nabavki;
+- obezbjeđuje informisanje javnosti;
+- ostvaruje saradnja sa drugim institucijama i organizacijama u okviru svoje nadležnosti, u državi i u inostranstvu;
+- prate standardi u sprovođenju politike zdravstvenog osiguranja;
+- obezbjeđuju uslovi za rad organa Fonda;
+- obavljaju drugi poslovi u skladu sa zakonom, ovim statutom, aktom o unutrašnjoj organizaciji i sistematizaciji i drugim aktima Fonda.
