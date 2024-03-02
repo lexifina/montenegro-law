@@ -1,0 +1,3 @@
+# Član 1
+## 11 u skladu sa ID DUP "Ulcinjsko polje" Opština Ulcinj
+Dozvoljava se Simonović Anđi , Simonović Daliboru i Simonović Josipu otkup kat. parcele br.30/922 u površini od 21 m2 po kulturi gradjevinska parcela sa Lista nepokretnosti broj 3 KO Ulcinjsko polje ;kat.parcele br.30/923 u površini od 23 m2 po kulturi gradjevinska parcela sa Lista nepokretnosti br.3 KO Ulcinjsko Polje i kat.parc.br.30/924 u površini od 25 m2 po kulturi gradjevinska parcela sa Lista nepokretnosti br.3 KO Ulcinjsko polje , radi dokompletiranja urbanističke parcele br.1 i 2 zona B podzona 11 u skladu sa ID DUP "Ulcinjsko polje" Opština Ulcinj.
