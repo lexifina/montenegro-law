@@ -1,0 +1,3 @@
+# Član 1
+## O PRUŽANjU POMOĆI DRŽAVNIM I DRUGIM ORGANIMA U POSTUPKU IZVRŠENjA NjIHOVIH ODLUKA
+Ovim pravilnikom propisuju se sadržina zahtjeva za pružanje pomoći koju policijski službenici, u skladu sa zakonom, pružaju državnim organima, organima državne uprave, organima lokalne samouprave i organima lokalne uprave u postupku izvršenja njihovih odluka, na njihov zahtjev, kao i u drugim slučajevima propisanim zakonom, ako je u tom postupku pokušano izvršenje, koje je onemogućeno pružanjem fizičkog otpora ili ozbiljnom prijetnjom od strane lica prema kome se sprovodi postupak izvršenja, odnosno ako se u postupku sprovođenja izvršenja opravdano očekuje pružanje fizičkog otpora (u daljem tekstu: asistencija), način pružanja asistencije i izvještavanje o pruženoj asistenciji.
