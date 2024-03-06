@@ -1,0 +1,8 @@
+# Član 1
+Radi sprečavanja pojave i ranog otkrivanja unosa virusa afričke kuge svinja (u daljem tekstu: AKS) kod domaćih svinja, sprovode se sljedeće mjere:
+1) zabranjeno je držanje domaćih svinja na pašnjaku i ispuštanje svinja na otvoreni prostor, osim ako se svinje drže u prostoru ograđenom dvostrukom ogradom na način da je unutrašnja ograda izgrađena od odgovarajućeg materijala kojeg nije moguće podizati niti savijati od tla, najmanje visine 120 cm, a ukoliko se koristi mreža, otvori mreže moraju biti veličine koja onemogućuje izlazak najmanje kategorije svinja van ograde, a spoljašnja ograda mora biti postavljena na udaljenosti ne manjoj od 30 cm, a ne većoj od 50 cm od unutrašnje ograde, najmanje visine 80 cm; s tim da dvostruka ograda mora biti postavljena prije ispuštanja svinja na otvoreni prostor;
+2) zabrana korišćenja pomija u ishrani životinja;
+3) držalac svinja je dužan da:
+- vrši provjeru zdravstvenog i brojnog stanja svinja na gazdinstvu, najmanje jednom u toku 24 sata i da redovno ažurira registar gazdinstva svinja i podatke o promjenama na gazdinstvu dostavlja nadležnoj veterinarskoj ambulanti, na način i u rokovima propisanim posebnim propisom kojim je uređena identifikacija i registracija svinja;
+- obezbijedi da sve svinje na gazdinstvu budu identifikovane ušnom markicom u skladu sa posebnim propisom o identifikaciji svinja;
+- bez odlaganja, prijavi veterinaru svaku svinju koja pokazuje znake bolesti, svaki pobačaj, svaku uginulu domaću svinju, radi uzorkovanja i dijagnostičkog ispitivanja uzoraka u skladu sa Programom obaveznih mjera zdravstvene zaštite životinja.
