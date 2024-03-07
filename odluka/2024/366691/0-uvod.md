@@ -1,0 +1,2 @@
+Na osnovu člana 29 i 54 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", broj 55/16, 74/16, 2/18, 66/19 i 140/22), člana 11 stav 1 alineja 3 Odluke o osnivanju DOO "Vodovod i kanalizacija" Rožaje ("Službeni list Crne Gore - Opštinski propisi", broj 006/14, 010/17) i člana 46 Statuta Opštine Rožaje ("Službeni list Crne Gore - Opštinski propisi", broj 38/18 i 16/21), Skupština opštine Rožaje, na sjednici održanoj dana 29.02.2024. godine, donijela je
+ODLUKU
