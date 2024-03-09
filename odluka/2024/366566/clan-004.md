@@ -1,0 +1,3 @@
+# Član 4
+Stvarna službenost na nepokretnosti iz člana 1. ove Odluke, radi polaganja 10kV kablovskog voda ustanovljava se uz nadoknadu koja je utvrđena na osnovu Izvještaja o procjeni vrijednosti nepokretnosti iz stava 1. ove Odluke, urađenog od strane sudskog vještaka ekonomsko- finansijske struke i procjenjivača Tanje Radović-Đurčić iz Budve od 09.03.2023. godine, a koja naknada jednokratno iznosi ukupno 3.362,00 €.
+Naknada za korišćenje opštinskih i nekategorisanih puteva obračunata je i isplaćena shodno Odluci o naknadi za korišćenje opštinskih i djelova državnih puteva koji prolaze kroz naselje na teritoriji Opštine Kotor ("Sl.list CG-Opštinski propisi", br.65/22) i to u iznosu od 1.525,05 €.
