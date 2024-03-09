@@ -1,0 +1,4 @@
+# Član 9
+Naknada iz člana 4. tacka 1. alineja 1.1 utvrđuje se godišnje, na osnovu prijave ili evidencije o vrsti djelatnosti koja se u objektu ili van njega obavlja,kao i površini objekta, akata organa državne uprave, organa lokalne uprave (uvjerenje-rješenje o lokaciji, odobrenje za rad, licenca i sl.), poreske prijave ili zapisnika nadležne inspekcije.
+Naknada iz člana 4. tacka 2. korišćenje snimaka Područja Kotora u reklamne i komercijalne svrhe, utvrđuje se po danu snimanja na osnovu prijave, odobrenja nadležnog organa uprave ili zapisnika nadležne inspekcije.
+Naknada iz člana 4. tačka 1 alineja 1.2, utvrđuje se dnevno na osnovu Pravilnika koji definiše načine, postupke i procedure naplate koji donosi nadležni sekretarijat iz člana 6 Odluke, odobrenja nadležnih organa ili zapisnika nadležne inspekcije, a obveznik je turistička agencije ili vlasnik.
