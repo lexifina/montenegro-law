@@ -1,0 +1,3 @@
+# Član 1
+## o ustanovljenju prava stvarne službenosti polaganja elektroenergetskog kablovskog voda u urbanističkoj zoni "A", podzona "A1", blok "1", u zahvatu DUP-a "Veliki Pijesak" u Baru
+Opština Bar, kao nosilac prava raspolaganja, daje pravnom licu, "Crnogorski elekotrodistributivni sistem" d.o.o. Podgorica, saglasnost za ustanovljenje prava stvarne službenosti, na neodređeno vrijeme i to na dijelu katastarske parcele broj 4087, u površini od 8 m2, upisane u LN br. 240 KO Pečurice, a sve radi polaganja elektroenergetskog kablovskog voda za potrebe planirane trafostanice označene kao "NOVA 5" 10/0.4 KV, 2(1)x1000 KVA, sa uklapanjem u VN mrežu (kablovski vod i spojnica), u urbanističkoj zoni "A", podzona "A1", blok "1", po DUP-u "Veliki Pijesak" u Baru.
