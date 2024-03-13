@@ -1,0 +1,39 @@
+# Član 2
+-Spomen-obilježje spomenik poginulim Utržanima-boricma od 1941-1945. godine, podignuto je 1974. godine, a sredstva za podizanje spomen-obilježja obezbjedila je tadašnja Opština Bar, na inicijativu mještana sela Utrg.
+- Spomen-obilježje spomen-dom stradalima iz sela Utrg, podignuto je 1981. godine, a sredstva za podizanje spomen-obilježja obezbjedila je tadašnja Opština Bar, na inicijativu mještana sela Utrg. - Spomen obilježje spomenik žrtvama fašističkog terora iz sela Brijege, podignuto je 13.jula 1975. godine, a sredstva za podizanje spomen-obilježja obezbjedila je tadašnja Opština Bar, na inicijativu mještana sela Brijege.
+- Spomen obilježje spomenik stradalim borcima iz sela Mačuge, podignuto je 13.jula 1976.
+godine, a sredstva za podizanje spomen-obilježja obezbjedila je tadašnja Opština Bar, na inicijativu mještana sela Mačuge.
+- Spomen obilježje Spomenik poginulim borcima iz bratstva Crnčević, podignuto je 13.jula 1975. godine, a sredstva za podizanje spomen-obilježja obezbjedila je tadašnja Opština Bar, na inicijativu mještana bratstva Crnčević.
+- Spomen obilježje spomenik strijeljanim borcima i rodoljubima na Kaluđercu, podignuto je 13.07.2004.godine, a sredstva za podizanje spomen-obilježja obezbjedila je tadašnja Opština Bar, na inicijativu Boraca NOR-a iz Crmnice.
+- Spomen obilježje spomenik palim borcima u NOR-u iz Pečurica, podignuto je 1977. godine, a sredstva za podizanje spomen-obilježja obezbjedila je tadašnja Opština Bar, na inicijativu mještana Mrkojevića i Pečurica.
+- Spomen obilježje spomenik palim borcima u Balkanskim ratovima, Prvom svjetskom ratu i Narodnooslobodilačkom ratu 1941-1945, iz sela Orahovo, podignuto je 2008. godine, a sredstva za podizanje obezbijedili su mještani sela Orahovo.
+- Spomen obilježje spomenik palim Godinjanima u Balkanskim ratovima i Prvog svjetskom ratu, podignuto je između 1970-1971. godine, a sredstva za podizanje spomen-obilježja obezbjedila je tadašnja Opština Bar, na inicijativu mještana sela Godinje.
+- Spomen obilježje spomen-dom Milo Damjanović, podignuto je 03.11.2002. godine, a sredstva za podizanje spomen-obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomenik Knezu Vladimiru, podignuto je 2000. godine, a sredstva za podizanje spomen-obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomenik Josipu Brozu Titu, podginuto je 1977. godine, a sredstva za podizanje spomen-obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-ploča na mjestu donošenja odluke o početku oružane borbe protiv okupatora 13.jula 1941. godine, podignuto je 13.jula 1981. godine, a sredstva za podizanje spomen-obilježja obezbjedila je Opština Bar, na inicijativu SUBNOR-a Bar.
+- Sredstva za podizanje spomen obilježja spomen-ploče na mjestu pogibije Mare Marković, obezbijedila je Opština Bar.
+- Spomen obilježje spomen-ploča poginulim u NOR-u iz sela Utrg, podignuto je 1985. godine, a sredstva za podizanje spomen-obilježja obezbjedila je Opština Bar, na inicijativu mještana sela Utrg.
+- Spomen obilježje spomen-ploča žrtvama fašističkog terora iz sela Utrg, postavljena je 1985. godine, a sredstva za podizanje spomen-obilježja obezbjedila je Opština Bar, na inicijativu mještana sela Utrg.
+- Spomen obilježje spomen-ploča palim borcima NOR-a i socijalističke revolucije iz sela Bukovik, podignuto je 1986. godine, a sredstva za podizanje spomen-obilježja obezbjedila je Opština Bar, na inicijativu Saveza Boraca NOR-a i seljana Bukovika.
+- Sredstva za podizanje spomen obilježja spomen-ploče Antu Boža Đedoviću obezbjedila je Opština Bar, na inicijativu Saveza Boraca Bar.
+- Sredstva za podizanje spomen obilježja spomen-ploče Peru Ćetkoviću, obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Blaža Jokova Orlandića, podignuto je 15.aprila 1981. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Blaža Jošova Orlandića, podignuto je 7.juna 1975. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Branka Đonovića, postavljeno je 29.jula 2004. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Vladimira Popovića Španca, postavljeno je 1981. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Pera Ćetkovića, postavljeno je 1974. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Anta Đedovića, postavljeno je 1983. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Đorđija-Đoka Mašova Lekovića, postavljeno je 13.jula 1988. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Iva Sava Novakovića, postavljeno je 1941. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Vukosave Ivanović Mašanović, postavljeno je 1985. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Zarije Filipa Jovetića, podignuto je 1981. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Blaža Filipa Mijača, podignuto je 1981. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Sava Đikanov Vukmanovića, podignuto je 1981. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Velimira Koste Vukmanovića, podignuto je 1981. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Dušana Vlahovića, podignuto je 1978. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Sredstva za podizanje spomen obilježja spomen-biste Popa Dukljanina-Grgura Barskog, obezbijedila je Opština Bar.
+- Sredstva za podizanje spomen obilježja spomen-biste Kralja Nikole I, obezbijedila je Opština Bar.
+- Spomen obilježje spomen-bista Đerđa Kastriota Skenderbega, podignuto je 2001. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Svetozara Vukmanovića Tempa, postavljeno je 2001. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.
+- Spomen obilježje spomen-bista Andriji Dabanoviću, postavljeno je 2003. godine, a sredstva za podizanje spomen obilježja obezbjedila je Opština Bar.

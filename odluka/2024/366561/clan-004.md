@@ -1,0 +1,38 @@
+# Član 4
+- Spomen-obilježje spomenik poginulim Utržanima-boricma od 1941-1945. godine, nalazi se neporedno uz asfaltni put koji prolazi kroz selo Utrg, na kat.parceli br. 1807 KO Utrg.
+- Spomen-obilježje spomen-dom stradalima iz sela Utrg, nalazi se neposredno uz asfaltni put koji prolazi kroz selo Utrg, na kat.parceli br. 1796 KO Utrg.
+- Spomen-obilježje spomenik žrtvama fašističkog terora iz sela Brijege, nalazi se u blizini asfaltnog puta koji vodi ka selu Brijege, na kat.parceli br. 627 KO Brijege.
+- Spomen-obilježje spomenik stradalim borcima iz sela Mačuge, nalazi se pored puta na sredini sela Mačuge, na kat.parceli br. 452/1 KO Bukovik.
+-Spomen-obilježje spomeniku poginulim borcima iz bratstva Crnčević, nalazi se u selu Dupilo, na kat.parceli br. 743 KO Dupilo.
+- Spomen-obilježje spomenik strijeljanim borcima i rodoljubima na Kaluđercu, nalazi se u mjestu Kaluđerac - Virpazar, na kat.parceli br. 447 KO Virpazar.
+- Spomen-obilježje spomenik palim borcima u NOR-u iz Pečurica, nalazi se na platou ispred Osnovne škole Mrkojevići, na kat.parceli br. 798 KO Pečurice.
+-Spomen-obilježje spomenik palim borcima u Balkanskim ratovima, Prvom svjetskom ratu, Narodnooslobodilačkom ratu 1941-1945. godina iz sela Orahovo, nalazi se u selu Orahovo, na kat.parceli br. 831 KO Orahovo.
+- Spomen-obilježje spomenik palim Godinjanima u Balkanskim ratovima i Prvom svetskom ratu, nalazi se na kat.parceli br. 1342 KO Godinje.
+- Spomen-obilježje spomen-dom Milo Damjanović, nalazi se u selu Sotonići, na kat.parceli br. 1515 KO Sotonići.
+- Spomen-obilježje spomenik Knezu Vladimiru, nalazi se na Trgu Vladimira i Kosare, na kat.parceli br. 5775 KO Novi Bar.
+- Spomen-obilježje spomenik Josipu Brozu Titu, nalazi se u krugu Kasarne Pero Ćetković, na kat.parceli br. 1737 KO Polje.
+- Spomen-obilježje spomen ploča na mjestu donošenja odluke o početku oružane borbe protiv okupatora 13.jula 1941. godine, nalazi se u selu Gornja Seoca, na rodnoj kući braće Orlandić, na kat.parceli br. 2562 KO Seoca.
+- Spomen-obilježje spomen ploča na mjestu pogibije Mare Marković, nalazi se na stijeni u selu Brijege, na kat.parceli br. 226 KO Brijege.
+- Spomen-obilježje spomen ploča poginulim u NOR-u iz sela Utrg, nalazi se na Spomen-domu u selu Utrg, na kat.parceli br. 1796 KO Utrg.
+- Spomen-obilježje spomen ploča žrtvama fašističkog terora iz sela Utrg, nalazi se na kat.parceli br. 1796 KO Utrg.
+- Spomen-obilježje spomen ploča palim borcima NOR-a i socijalističke revolcije iz sela Bukovik, nalazi se na zidu oko groblja i crkve u selu Bukovik, na kat.parceli br. 2810 KO Bukovik.
+- Spomen-obilježje spomen ploča Antu Boža Đedoviću, nalazi se na zidu nekadašnje Osnovne škole "Anto Đedović", na kat.parceli br. 2623/1 KO Šušanj.
+- Spomen-obilježje spomen ploča Peru Ćetkoviću, nalazi se na ulazu u Kasarnu Pero Ćetković na kat.parceli br. 1737 KO Polje.
+- Spomen-obilježje spomen bista Blažu Jokovu Orlandiću, nalazi se u holu škole "Blažo Jokov Orlandić", na kat.parceli br. 5721/1 KO Novi Bar.
+- Spomen-obilježje spomen bista Blažu Jošovu Orlandiću, nalazi se ispred zgrade Opšte bolnice, na kat.parceli br. 1687 KO Stari Bar.
+- Spomen-obilježje spomen bista Branku Đonoviću, nalazi se ispred štamparije "Branko Đonović", na kat.parceli br. 4991/1 KO Novi Bar.
+- Spomen-obilježje spomen bista Vladimiru Popoviću Špancu, nalazi se u parku preko puta Doma kulture, na kat.parceli br. 5730 KO Novi Bar.
+- Spomen-obilježje spomen bista Peru Ćetkoviću, nalazi se u krugu Kasarne Pero Ćetković, na kat.parceli br. 1737 KO Polje.
+- Spomen-obilježje spomen bista Antu Đedoviću, nalazi se u dvorištu istoimene Osnovne škole, na kat.parceli br. 3643 KO Novi Bar.
+- Spomen-obilježje spomen bista Đorđiju-Đoku Mašovom Lekoviću, nalazi se na Trgu u Virpazaru, na kat.parceli br. 232 KO Virpazar.
+- Spomen-obilježje spomen bista Ivu Sava Novakovića, nalazi se na šetalištu u Sutomoru, na kat.parceli br. 2045 KO Sutomore.
+- Spomen-obilježje spomen bista Vukosavi Ivanović Mašanović, nalazi se u dvorištu Javne predškolske ustanove "Vukosava Ivanović Mašanović", na kat.parceli br. 5000 KO Novi Bar. - Spomen-obilježje spomen bista Zarije Filipa Jovetića, nalazi se ispred Spomen-doma u Utrgu, na kat.parceli br. 1796 KO Utrg.
+- Spomen-obilježje spomen bista Blažu Filipa Mijaču, nalazi se ispred Spomen-doma u selu Utrg, na kat.parceli br. 1796 KO Utrg.
+- Spomen-obilježje spomen bista Savu Đikanov Vukmanoviću, nalazi se ispred Spomen-doma u selu Utrg, na kat.parceli br. 1796 KO Utrg.
+- Spomen-obilježje spomen bista Velimiru Koste Vukmanoviću, nalazi se ispred Spomen-doma u selu Utrg, na kat.parceli br. 1796 KO Utrg.
+- Spomen-obilježje spomen bista Dušanu Vlahoviću, nalazi se u dvorištu Srednje stručne škole, na kat.parceli br. 4669 KO Novi Bar.
+- Spomen-obilježje spomen bista Popu Dukljaninu - Grguru Barskom, nalazi se na gradskom šetalištu, na kat.parceli br. 5747 KO Novi Bar.
+- Spomen-obilježje spomen bista Kralju Nikoli I, nalazi se u parku Dvorca kralja Nikole, na kat.parceli br. 5730 KO Novi Bar.
+- Spomen-obilježje spomen bista Đerđ Kastrioti Skenderbegu, nalazi se u dvorištu istoimene Osnovne škole u Ostrosu, na kat. Parceli br. 2506/1 KO Martići.
+- Spomen-obilježje spomen bista Svetozara Vukomanovića Tempa, nalazi se ispred Spomen- doma u selu Utrg, na kat.parceli br. 1796 KO Utrg.
+- Spomen-obilježje spomen bista Andriji Dabanoviću, nalazi se na platou ispred zgrade Prekookeanske plovidbe, na kat.parceli br. 5783/1 KO Novi Bar.

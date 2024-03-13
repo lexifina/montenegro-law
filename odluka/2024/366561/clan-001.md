@@ -1,0 +1,41 @@
+# Član 1
+## o davanju statusa spomen-obilježjima
+Daje se status sljedećim spomen-obilježjima i to:
+-Spomeniku poginulim Utržanima-boricma od 1941-1945. godine;
+-Spomen-domu stradalima iz sela Utrg;
+-Spomeniku žrtvama fašističkog terora iz sela Brijege;
+-Spomeniku stradalim borcima iz sela Mačuge;
+-Spomeniku poginulim borcima iz bratstva Crnčević;
+-Spomeniku strijeljanim borcima i rodoljubima na Kaluđercu;
+-Spomeniku palim borcima u NOR-u iz Pečurica;
+-Spomeniku palim borcima u Balkanskim ratovima, Prvom svjetskom ratu i Narodnooslobodilačkom ratu 1941-1945, iz sela Orahovo;
+-Spomeniku palim Godinjanima u Balkanskim ratovima i Prvog svjetskom ratu;
+-Spomen-domu Milo Damjanović;
+-Spomeniku Knezu Vladimiru;
+-Spomeniku Josipu Brozu Titu;
+-Spomen-ploči na mjestu donošenja odluke o početku oružane borbe protiv okupatora 13.jula 1941. godine;
+-Spomen-ploči na mjestu pogibije Mare Marković;
+-Spomen-ploči poginulim u NOR-u iz sela Utrg;
+-Spomen-ploči žrtvama fašističkog terora iz sela Utrg;
+-Spomen-ploči palim borcima NOR-a i socijalističke revolucije iz sela Bukovik;
+-Spomen-ploči Antu Boža Đedoviću;
+-Spomen-ploči Peru Ćetkoviću;
+-Spomen-objektu spomen-bisti Blaža Jokova Orlandića;
+-Spomen-obilježju spomen-bisti Blaža Jošova Orlandića;
+-Spomen-objektu spomen-bisti Branka Đonovića;
+-Spomen-objektu spomen-bisti Vladimira Popovića Španca;
+-Spomen-objektu spomen-bisti Pera Ćetkovića;
+-Spomen-objektu spomen-bisti Anta Đedovića;
+-Spomen-objektu spomen-bisti Đorđija-Đoka Mašova Lekovića;
+-Spomen-objektu spomen-bisti Iva Sava Novakovića;
+-Spomen-objektu spomen-bisti Vukosave Ivanović Mašanović;
+-Spomen-objektu spomen-bisti Zarije Filipa Jovetića;
+-Spomen-objektu spomen-bisti Blaža Filipa Mijača;
+-Spomen-objektu spomen-bisti Sava Đikanov Vukmanovića;
+-Spomen-objektu spomen-bisti Velimira Koste Vukmanovića;
+-Spomen-objektu spomen-bisti Dušana Vlahovića;
+-Spomen-objektu spomen-bisti Popa Dukljanina-Grgura Barskog;
+-Spomen-objektu spomen-bisti Kralja Nikole I;
+-Spomen-objektu spomen-bisti Đerđa Kastriota Skenderbega;
+-Spomen-objektu spomen-bisti Svetozara Vukmanovića Tempa;
+-Spomen-objektu spomen-bisti Andrije Dabanovića;

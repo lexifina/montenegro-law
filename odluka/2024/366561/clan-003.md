@@ -1,0 +1,40 @@
+# Član 3
+- Spomen-obilježje spomenik poginulim Utržanima-boricma od 1941-1945. godine, posvećeno je svim borcima za socijalističku revoluciju iz sela Utrg koji su svoje časne živote položili za tekovine socijalističke revolucije u narodnooslobodilačkoj borbi 1941-1945.godine.
+- Spomen-obilježje spomen-dom stradalima iz sela Utrg, posvećeno je svim žrtvama fašističkog terora iz sela Utrg, odajući im na taj način vječnu zahvalnost i dužno poštovanje za njihovu hrabru borbu, njihove ideje i položene živote u borbi za oslobođenje od okupatora.
+- Spomen-obilježje spomenik žrtvama fašističkog terora iz sela Brijege, posvećeno je svim palim Briježanima, njih 27, koji su dali živote za slobodu u NOR-u od 1941.do 1945, njima koji su izginuli na braniku domovine.
+- Spomen-obilježje spomenik stradalim borcima iz sela Mačuge, posvećeno svim stradalim u NORF-u iz sela Mačuge, koji su nesebično položili svoje živote, čije ime obilježava jedan život koji je završen na nekom strelištu ili ratištu.
+-Spomen-obilježje spomeniku poginulim borcima iz bratstva Crnčević, posvećeno palim borcima NOR-a od 1941-1945. Godine iz bratstva Crnčević.
+- Spomen-obilježje spomenik strijeljanim borcima i rodoljubima na Kaluđercu, posvećeno borcima i rodoljubima strijeljanim u mjestu Kaluđerac 1942. Godine, njih 14, od strane fašističkog okupatora i njihovih saradnika.
+- Spomen-obilježje spomenik palim borcima u NOR-u iz Pečurica, posvećeno palim borcima NOR-a iz sela Mrkojevići, njih 33, koji su stradali u borbi za ideale narodnooslobodilačke revolucije noseći baklju slobode ovoga kraja u borbi protiv okupatora.
+- Spomen-obilježje spomenik palim borcima u Balkanskim ratovima, Prvom svjetskom ratu, Narodnooslobodilačkom ratu 1941-1945. godina iz sela Orahovo, posvećeno je svim stradalim iz sela Orahovo u u Balkanskim ratovima, Prvom svjetskom ratu 1912-1918. godine, Narodnooslobodilačkom ratu 1941-1945.
+- Spomen-obilježje spomenik palim Godinjanima u Balkanskim ratovima i Prvom svetskom ratu, posvećeno svim stradalim Godinjanima u Balkanskim ratovima 1912-1918. godine.
+- Spomen-obilježje spomen-dom Milo Damjanović, posvećeno Milu Damjanoviću, rodom iz ovog kraja i sjećanja kada je kao komadir Izviđačkog voda sa činom poručnika hrabro poginuo boreći se u Španskom građanskom ratu.
+- Spomen-obilježje spomenik Knezu Vladimiru, posvećeno vladaru Duklje Knezu Vladimiru, koji je bio poznat kao pobožan, pravedan i miroljubiv vladar koji je njome vladao od 1000. do 1016. godine.
+- Spomen-obilježje spomenik Josipu Brozu Titu, posvećeno Josipu Brozu Titu jugoslovenskom i komunističkom revolucionaru i državniku.
+- Spomen-obilježje spomen ploča na mjestu donošenja odluke o početku oružane borbe protiv okupatora 13.jula 1941. godine, posvećeno u znak sjećanja na dan kada je 13.jula 1941. godine u rodnoj kući Orlandića u Gornjim Seocima donijeta odluka da otpočne oružana borba protiv okupatora na području sreza barskog, što je bio događaj od izuzetnog značaja i predstavlja jedan od najvažnijih datuma u oslobodilačkim i antifašističkim težnjama crnogorskog naroda.
+- Spomen-obilježje spomen ploča na mjestu pogibije Mare Marković, posvećeno u znak sjećanja na Maru Marković, rođenu 1878. godine, zvijerski ubijenu od strane okupatora i domaćih izdajnika 18.aprila 1942. godine.
+- Spomen-obilježje spomen ploča poginulim u NOR-u iz sela Utrg, posvećeno prvoborcima ovog kraja koji su poginuli i strijeljani, onima koji su svoje prerano ugašene živote položili za ideale socijalističke revolcije u narodnooslobodilačkom ratu 1941-1945. godine.
+- Spomen-obilježje spomen ploča žrtvama fašističkog terora iz sela Utrg, posvećeno kao znak sjećanja na pet žrtava umrlih i mučenih u logoru iz sela Utrg, kojima se trajno njeguje, čuva uspomena na njihovu podnijetu žrtvu za ideale slobode.
+- Spomen-obilježje spomen ploča palim borcima NOR-a i socijalističke revolcije iz sela Bukovik, posvećeno u znak sjećanja na sve hrabre pale borce iz NOR-a i socijalističke revolucije iz sela Bukovik, koji su položili svoje mlade živote u borbi protiv fašističkog okupatora i dali svoje živote za slobodu i odbranu svog porobljenog naroda.
+- Spomen-obilježje spomen ploča Antu Boža Đedoviću, posvećeno u znak sjećanja na Anta B. Đedovića, dobrovoljca Španske republikanske vojske.
+- Spomen-obilježje spomen ploča Peru Ćetkoviću, posvećeno Peru Ćetkoviću, oficiru Jugoslovenske vojske, učesniku Narodnooslobodilačkog rata i narodnom heroju Jugoslavije čije ime nosi Kasarna u Baru.
+- Spomen-obilježje spomen bista Blažu Jokovu Orlandiću, posvećeno narodnom heroju Blažu Jokovu Orlandiću.
+- Spomen-obilježje spomen bista Blažu Jošovu Orlandiću, posvećeno u čast narodnog heroja blaža Jošova Orlandića rođenog 30.oktobra 1912. godine u selu Gornje Seoce kod Bara.
+- Spomen-obilježje spomen bista Branku Đonoviću, narodnom heroju Branku Đonoviću, rođenom 25.avgusta 1916. godine u selu Tomići.
+- Spomen-obilježje spomen bista Vladimiru Popoviću Špancu, posvećeno narodnom heroju Vladimiru Popoviću Špancu, rođenom 27.januara 1914. godine u crmničkom selu Brčeli.
+- Spomen-obilježje spomen bista Peru Ćetkoviću, posvećeno narodnom heroju Peru Ćetkoviću, rođenom 12.oktobra 1907. godine u selu Mužovići kod Cetinja.
+- Spomen-obilježje spomen bista Antu Đedoviću, posvećeno narodnom heroju Antu Đedoviću koji je u bataljonu "Divizinario" 129. Međunarodne brigade, izuzetnom hrabrošću zaslužio epitet velikog junaka.
+- Spomen-obilježje spomen bista Đorđiju-Đoku Mašovom Lekoviću, posvećeno Đorđiju-Đoku Mašovom Lekoviću, član Godinjskog gerilskog odreda, koji je poginuo 13.jula 1941. godine u borbi za oslobođenje Virpazara.
+- Spomen-obilježje spomen bista Ivu Sava Novakovića, posvećeno komandiru partizanske čete koji je poginuo u borbi protiv okupatora 1941. godine.
+- Spomen-obilježje spomen bista Vukosavi Ivanović Mašanović, posvećeno u čast prve žene u Crnoj Gori strijeljane od strane okupatora 1941. godine, hrabra i odvažna otišla je u smrt, časno izvršavajući dug prema domovini.
+- Spomen-obilježje spomen bista Zarije Filipa Jovetića, posvećeno u čast junačke pogibije komandira čete Lovćenskog partizanskog bataljona Zarije Filipa Jovetića.
+- Spomen-obilježje spomen bista Blažu Filipa Mijaču, posvećeno u čast pogibije Blaža Filipa Mijača, učenika, člana SKOJ-a od 1941. godine, člana KPJ od 1942. godine. Odvažan i hrabar zaslužio je epitet najvećeg junaka.
+- Spomen-obilježje spomen bista Savu Đikanov Vukmanoviću, posvećeno u čast junačke pogibije Sava Đ. Vukmanovića, koji je poginuo u borbi za oslobođenje Pljevalja 1.decembra 1941.
+godine.
+- Spomen-obilježje spomen bista Velimiru Koste Vukmanoviću, posvećeno u čast pogibije i stradanja Velimira K. Vukmanovića koji je strijeljan 1943. godine kod Prokuplja u Srbiji kao prripadnik Narodnooslobodilačkog pokreta.
+- Spomen-obilježje spomen bista Dušanu Vlahoviću, posvećeno Dušanu Vlahoviću koji je 1946. godine zvjerski ubijen od strane odmetnika.
+- Spomen-obilježje spomen bista Popu Dukljaninu - Grguru Barskom, posvećeno u čast crkvenom velikodostojniku, Popu Dukljaninu - Grguru Barskom, autoru istorijskog zapisa poznatog kao Ljetopis Popa Dukljanina.
+- Spomen-obilježje spomen bista Kralju Nikoli I,posvećeno Kraju Nikoli I , Knjazu Crne Gore u periodu od 1860-1910. godine i kralju u periodu od 1910-1918. godine iz Dinastije Petrović- Njegoš.
+- Spomen-obilježje spomen bista Đerđ Kastrioti Skenderbegu, posvećeno Đerđ Kastrioti Skenderbegu, srednjovjekovnom plemiću iz feudalne porodice Kastiota koja je od sredine 14. do sredine 15. vijeka kontrolisala djelove centralne Albanije i istočne Makedonije.
+- Spomen-obilježje spomen bista Svetozara Vukomanovića Tempa, posvećeno narodnom heroju Svetozaru Vukomanoviću Tempu, revolucionaru, učesniku NOR-a, istaknutom društveno- političkom radniku SFRJ i SR Crne Gore, junaku socijalističkog rada i narodnom heroju Jugoslavije.
+- Spomen-obilježje spomen bista Andriji Dabanoviću, osnivaču pomorstva u Baru.
