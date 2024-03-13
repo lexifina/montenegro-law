@@ -1,0 +1,25 @@
+# Član 3
+## Značenje izraza
+Izrazi upotrijebljeni u ovom pravilniku imaju sljedeće značenje:
+1) bezbjednost lijeka je prihvatljiv odnos efikasnosti i štetnosti lijeka;
+2) Centralizovani postupak (Centralised Procedure) je postupak izdavanja dozvole za lijek u Evropskoj agenciji za ljekove;
+3) efikasnost lijeka je svojstvo lijeka dokazano kliničkim ispitivanjima sprovedenim u skladu sa Zakonom o ljekovima* (u daljem tekstu: Zakon);
+4) Evropska Agencija za ljekove je agencija Evropske unije osnovana u skladu sa Regulativom 726/2004/EC;
+5) farmaceutski oblik je oblik lijeka pogodan za primjenu (tableta, kapsula, mast, rastvor za injekcije, premiks itd.);
+6) grupa pacijenata (sinonimi: kohorta, kolektivna upotreba, recept za grupu pacijenata ili poseban program liječenja i sl.) je grupa koju čine dva ili više pacijenata, a kojoj bi koristilo liječenje određenog stanja;
+7) hronična ili ozbiljno iscrpljujuća bolest, odnosno bolest koja se smatra opasnom po život (npr. kancer, HIV/AIDS, neurodegenerativni poremećaji i autoimune bolesti) je bolest čija se ozbiljnost tj. hronična priroda, ozbiljno iscrpljujuća priroda, odnosno opasnost po život cijeni na osnovu objektivnih i mjerljivih medicinskih ili epidemioloških podataka (prilikom procjene koja se stanja smatraju hroničnim i ozbiljno iscrpljujućim, treba uzeti u obzir povezanost stanja sa morbiditetom koji ima značajan uticaj na svakodnevno funkcionisanje pacijenta i koji će napredovati ako se ne liječi. Hronična ili ozbiljna slabost ili fatalan ishod treba da bude preovlađujuća osobina ciljane bolesti);
+8) internacionalni nezaštićeni naziv (generičko ime) lijeka je međunarodni nezaštićeni naziv (INN) koji je preporučila Svjetska zdravstvena organizacija (u daljem tekstu: SZO) ili u nedostatku INN drugo, uobičajeno ime;
+9) jačina lijeka je sadržaj aktivne supstance iskazan kvantitativno po doznoj jedinici, po jedinici volumena ili mase u skladu sa farmaceutskim oblikom;
+10) kvalitet lijeka je osobina lijeka koja se može utvrditi ispitivanjem kvaliteta svih sastojaka lijeka i predstavlja prihvatljivo fizičko, hemijsko, biološko, farmaceutsko- tehnološko i drugo svojstvo lijeka, u skladu sa zahtjevima iz dozvole za lijek;
+11) ljekovi koji sadrže opojne droge ili psihotropne supstance su ljekovi određenog kvalitativnog i kvantitativnog sastava u određenom farmaceutskom obliku koji se koriste u medicinske, veterinarske, nastavne, laboratorijske i naučne svrhe, u skladu sa posebnim zakonima;
+12) naziv lijeka je naziv koji može biti novi, generički ili naučni naziv. Uz generički odnosno naučni naziv dodaje se zaštitni znak ili naziv proizvođača ili nosioca dozvole za lijek, a ako je novi naziv mora se razlikovati od generičkog i ne smije dovoditi u zabludu;
+13) obilježavanje lijeka podrazumijeva podatke koji se nalaze na spoljnjem ili unutrašnjem pakovanju;
+14) pacijent koga nije moguće liječiti lijekom koji ima dozvolu za lijek u Crnoj Gori je pacijent koji je ostavljen bez mogućnosti liječenja ili pacijent čija bolest ne reaguje ili dolazi do relapsa u slučaju dostupnog načina liječenja ili za koje je liječenje kontraindikovano ili neadekvatno;
+15) proizvođač lijeka je pravno lice koje ima dozvolu za proizvodnju lijeka i/ili lijeka koji se klinički ispituje izdatu od nadležnog organa;
+16) protokol kliničkog ispitivanja je dokument u kojem su opisani ciljevi, plan, metodologija, statistički prikaz i organizacija kliničkog ispitivanja. Protokol kliničkog ispitivanja uključuje i sve verzije osnovnog protokola kao i njegove izmjene i dopune;
+17) saosjećajna upotreba (compassionate use) je davanje lijeka sa novom aktivnom supstancom koja spada u značajne terapeutsko-naučno-tehničke inovacije i koji je u postupku dobijanja dozvole za lijek u zemljama Evropske unije ili u postupku kliničkog ispitivanja za potrebe dobijanja dozvole za lijek, a koji je namijenjen bolesnicima sa ozbiljnom bolešću koju nije moguće liječiti na zadovoljavajući način sa ljekovima koji već imaju dozvolu za lijek u Crnoj Gori ili Evropskoj uniji ili zemljama evropskog ekonomskog prostora (u daljem tekstu: EEA) ili u zemljama koje imaju sporazum o međusobnom priznavanju sa zemljama Evropske unije;
+18) sažetak karakteristika lijeka je sažetak stručnih informacija o lijeku odobrenih u postupku izdavanja dozvole za lijek, namijenjen stručnoj javnosti;
+19) sertifikat za potrebe izvoza lijeka (CPP sertifikat) je dokument izdat od nadležnog tijela zemlje proizvođača izdat u skladu sa preporukama SZO;
+20) spoljnje pakovanje je pakovanje u kojem se nalazi unutrašnje pakovanje lijeka; 21) unutrašnje pakovanje je pakovanje sa kojim je lijek u neposrednom kontaktu;
+22) uputstvo za lijek je dokument namijenjen korisniku, koji je priložen uz lijek i sadrži informacije o lijeku;
+23) zemlje koje imaju iste ili slične zahtjeve za izdavanje dozvole za lijek su zemlje koje su svoje propise usaglasile sa standardima Evropske unije i zemlje članice Internacionalne konferencije za harmonizaciju tehničkih zahtjeva za izdavanje dozvole za lijek.

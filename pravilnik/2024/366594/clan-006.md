@@ -1,0 +1,6 @@
+# Član 6
+## Predlaganje uvoza i podnošenje zahtjeva za uvoz lijeka koji nema dozvolu za lijek
+Uvoz lijeka koji nema dozvolu za lijek može da predloži zdravstvena ustanova, naučnoistraživačka ustanova, ustanova socijalne i dječje zaštite u kojoj se obezbjeđuje pružanje zdravstvene zaštite, humanitarna organizacija, organ državne uprave nadležan za poslove odbrane, organ državne uprave nadležan za poslove zdravlja, organ državne uprave nadležan za unutrašnje poslove, organ državne uprave nadležan za poslove veterinarstva, pravno lice koje obavlja veterinarsku djelatnost u skladu sa zakonom kojim se uređuje veterinarstvo i pravno lice koje ima dozvolu za promet veterinarskih ljekova na veliko (u daljem tekstu: predlagač uvoza).
+Zahtjev za uvoz lijeka koji nema dozvolu za lijek (u daljem tekstu: zahtjev), u ime i za račun predlagača uvoza, Institutu podnosi pravno lice koje ima dozvolu za promet ljekova na veliko (u daljem tekstu: veledrogerija).
+Zahtjev se može podnijeti za uvoz jednog lijeka koji nema dozvolu za lijek za potrebe više predlagača uvoza ili za više ljekova koji nemaju dozvolu za lijek za potrebe jednog predlagača uvoza.
+Zahtjev, kao i obrazloženi predlog predlagača uvoza (u daljem tekstu: predlog) podnose se na obrascima koji se objavljuju na internet stranici Instituta.
