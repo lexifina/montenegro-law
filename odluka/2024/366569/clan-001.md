@@ -1,0 +1,3 @@
+# Član 1
+## dijelu urbanističke parcele broj UP 35, u zoni "D" po DUP-u "Ilino" u Baru
+Opština Bar, kao nosilac prava raspolaganja, daje D.O.O. "Dobra gradnja" Podgorica saglasnost za uspostavljanje stvarne službenosti, na neodređeno vrijeme, na dijelu: katastarske parcele: broj 3856/1 u površini od 23m2, iz lista nepokretnosti broj 1154 KO Novi Bar, katastarske parcele broj 4159/3 u površini od 63m2 iz lista nepokretnosti broj 4637 KO Novi Bar i katastarske parcele broj 6454/20 u površini od 218m2 iz lista nepokretnosti broj 4305 KO Novi Bar, radi polaganja 10 kV priključnog kablovskog voda za potrebe izgradnje trafostanice NDTS 10/0,4 kV, br. 12 Nova, na dijelu urbanističke parcele broj UP 35, u zoni "D" po DUP-u "Ilino" u Baru.
