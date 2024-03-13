@@ -1,0 +1,8 @@
+# Član 11
+Dozvoljeno je držati psa u ograđenom dvorištu porodične stambene zgrade ili u drugom ograđenom prostoru, koji mora biti prilagođen veličini psa, uz uslov da ograda visinom i čvrstoćom obezbjeđuje sigurnost građana, tako da pas ne može izaći van ograđenog prostora. Pas se može držati i u neograđenom dvorištu ili drugom neograđenom otvorenom prostoru, vezan lancem, koji klizi na sajli, tako da pas dužine do jednog metra ne smije se vezati na dužinu kraću od 3 metra, a pas dužine veće od 1-og metra ne smije se vezati na dužinu kraću od njegove četvorostruke dužine pod uslovom da nije trajno vezan.
+Psu iz stava 2 ovog člana držalac, mora obezbijediti tokom svakog dana period kada nije vezan lancem i kretanje u skladu sa ovom odlukom.
+Ulazna kapija dvorišta porodične kuće, zajedničkog dvorišta porodične kuće i dvorišta sa većim brojem porodičnih kuća u kome se drži pas, mora biti vidno označena tablom sa crtežom i natpisom koji ukazuje na prisustvo psa.
+Dvorišni ili drugi otvoreni prostor u kome se drži pas mora se higijenski održavati, mora biti uredan i čist i iz njega se ne smiju širiti neprijatni mirisi koji mogu ometati boravak u susjednom dvorištu.
+Ako se pas trajno smješta u ograđeno/neograđeno dvorište ili u drugi ograđeni/neograđeni otvoreni prostor, psu se mora obezbijediti kućica, koja mora biti primjerena njegovoj veličini, tako da pas u njoj može ležati, stajati uspravno, okrenuti se i biti zaštićen od nepovoljnih vremenskih uticaja.
+Držalac psa je dužan da kućicu iz stave 6 ovog člana higijenski održava i drži u čistom i urednom stanju.
+Psi koji se drže kao kućni ljubimci, a koji mogu predstavljati opasnost za okolinu drže se u skladu sa posebnim propisom kojim se uređuje zaštita dobrobiti životinja.

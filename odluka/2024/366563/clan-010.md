@@ -1,0 +1,3 @@
+# Član 10
+U stambenim zgradama nije dozvoljeno držanje kućnog ljubimca na balkonu, terasi i lođi koja pripada stanu, kao i uvođenje kućnog ljubimca u lift u trenutku kada lift koriste drugi stanari. Zabranjeno je držanje kućnih ljubimaca u zajedničkim djelovima stambene zgrade, kao i na zemljištu koje služi za redovnu upotrebu zgrade, bez prethodno pribavljene saglasnosti skupštine stanara stambene zgrade.
+Ukoliko kućni ljubimac, pri izvođenju iz stana uprlja zajedničko stepenište ili druge zajedničke prostorije, držalac je dužan da uprljanu površinu očisti i opere, a po potrebi i dezinfikuje.
