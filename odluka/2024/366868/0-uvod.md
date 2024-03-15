@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 u vezi sa članom 7 stav 1 i 2 Zakona o boravišnoj taksi ("Sl. List RCG", br.11/04 i 13/04 i "Sl. List CG", br. 48/15), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Sl. List CG", br. 2/18, 34/19, 38/20 I 50/22) i člana 32 tačka 8 Statuta opštine Žabljak ("Sl. List CG- opštinski propisi", br. 27/18), Skupština opštine Žabljak na sjednici održanoj 29.02. 2024. godine, donijela je
+ODLUKU
