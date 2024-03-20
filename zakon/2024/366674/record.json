@@ -1,0 +1,28 @@
+{
+  "id": 366674,
+  "path": "zakon/2024/366674",
+  "source": "https://www.sluzbenilist.me/propisi/366674",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/366674/download",
+  "title": "Zakon o potvrđivanju Sporazuma između Vlade Crne Gore i Vijeća ministara Bosne i Hercegovine o izgradnji međudržavnog mosta preko rijeke Tare na spoju magistralnog puta M-3 na lokaciji Šćepan Polje (Crna Gora) i magistralnog puta M-18 na lokaciji Hum (Bosna i Hercegovina) i priključnih graničnih dionica",
+  "issue": "Službeni list Crne Gore - Međunarodni ugovori, broj 2/2024",
+  "published": "2024-03-12",
+  "in_force": "2024-03-20",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore - Međunarodni ugovori”",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "2cdb115722a195557b56449b8c58948cc80ad843cd1cb2594f5a26dd7e6e22b3",
+  "articles_in_source": 13,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 6957,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "0c95e5d9c7b4acff92cbadfbebf3efc2ae988dde8905d72c4e4d68de6499c5cb",
+  "enacted": "2024-03-07",
+  "enacted_basis": "Podgorica, 7. mart 2024"
+}
