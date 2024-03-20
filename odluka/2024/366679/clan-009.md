@@ -1,0 +1,4 @@
+# Član 9
+Predsjedniku, članovima i sekretaru Operativnog tima pripada naknada za rad u Operativnom timu, u visini od 30% prosječne neto zarade u Crnoj Gori za prethodnu godinu, prema podacima organa uprave nadležnog za poslove statistike, a u skladu sa propisom kojim se propisuju kriterijumi za utvrđivanje visine naknade za rad člana radnog tijela ili drugog oblika rada.
+Naknada iz stava 1 ovog člana isplaćuje se za mjesece u kojima je Operativni tim održavao sjednice, i to članovima koji su prisustvovali sjednicama.
+Naknada iz stava 1 ovog člana isplaćuje se iz budžetskih sredstava organa na čiji predlog su predsjednik, članovi i sekretar određeni, osim za članove Operativnog tima koji su predstavnici nevladinih organizacija za koje se naknada isplaćuje iz budžetskih sredstava Ministarstva unutrašnjih poslova.
