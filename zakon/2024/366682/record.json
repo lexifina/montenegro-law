@@ -1,0 +1,28 @@
+{
+  "id": 366682,
+  "path": "zakon/2024/366682",
+  "source": "https://www.sluzbenilist.me/propisi/366682",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/366682/download",
+  "title": "Zakon o potvrđivanju Sporazuma između Vlade Crne Gore i Savjeta ministara Republike Albanije o izgradnji međudržavnog mosta preko rijeke Bojane/Bune",
+  "issue": "Službeni list Crne Gore - Međunarodni ugovori, broj 2/2024",
+  "published": "2024-03-12",
+  "in_force": "2024-03-20",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu Crne Gore – Međunarodni ugovori \"",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "ae086b3fc5833ecd8333d978a8c10f48ea53b29336cbe2f2f75f67addec868a8",
+  "articles_in_source": 15,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 27816,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "2ba65e8ebb5264ce918aadec18524276fa6013a16e02e2594d8d532e3726c84a",
+  "enacted": "2024-03-07",
+  "enacted_basis": "Podgorica, 7. mart 2024"
+}
