@@ -1,0 +1,2 @@
+Na osnovu člana 29 i 54 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", broj 55/16, 74/16, 2/18, 66/19 i 140/22), člana 10 stav 1 alineja 5 Odluke o osnivanju DOO "Komunalno" Rožaje ("Službeni list Crne Gore-Оpštinski propisi", broj 6/14 i 29/21), člana 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22 i 84/22) člana 77 i 78 Statuta Opštine Rozaje ("Službeni list Crne Gore-Opštinski propisi", broj 38/18 i 16/21) predsjednik Opštine Rožaje, dana 18. 03. 2024. godine, donosi
+ODLUKU
