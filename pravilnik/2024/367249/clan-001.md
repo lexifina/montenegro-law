@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuju se bliži kriterijumi za izradu smjernica za analizu rizika, u zavisnosti od veličine i načina organizacije obveznika u smislu člana 4 Zakona o sprečavanju pranja novca i finansiranja terorizma (u daljem tekstu: obveznik), obima i vrste poslova, vrste klijenta, proizvoda, usluge, odnosno distributivnog kanala koji pruža, kriterijumi za utvrđivanje faktora rizika, obavezni elementi koje treba da sadrži analiza rizika i drugi elementi od značaja za procjenu rizika od pranja novca i finansiranja terorizma, kao i bliži kriterijumi za izradu smjernica za uspostavljanje sistema upravljanja rizikom od pranja novca i finansiranja terorizma (u daljem tekstu: sistem za upravljanje rizikom).
