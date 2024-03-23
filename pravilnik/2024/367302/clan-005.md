@@ -1,0 +1,7 @@
+# Član 5
+## Tehnička rješenja
+Video-elektronska identifikacija sprovodi se u realnom vremenu (prenos uživo) i bez prekida.
+Radi sprovođenja video-elektronske identifikacije obveznik je dužan da obezbijedi tehnička rješenja koja omogućavaju visok kvalitet prenosa slike i zvuka (video-audio zapis) u realnom vremenu (prenos uživo) i potpuno šifrovanje video-audio komunikacije između klijenta i obveznika (end-to-end encryption) tokom cjelokupnog trajanja te komunikacije.
+Obveznik je dužan da obezbjedi neprekidno snimanje davanja saglasnosti od strane klijenta iz člana 24 stav 3 Zakona o sprečavanju pranja novca i finansiranja terorizma (u daljem tekstu: Zakon), kao i neprekidno snimanje postupka video-elektronske identifikacije.
+Na video-audio zapisima nastalim u skladu sa stavom 3 ovog člana moraju, sve vrijeme, u potpunosti biti vidljivi lice klijenta i zaposlenog kod obveznika koji sprovodi video-elektronsku identifikaciju (u daljem tekstu: zaposleni), datum i vrijeme snimanja, kao i aktivnosti klijenta koje od njega traži zaposleni tokom identifikacije.
+Obveznik je dužan da obezbijedi da se sve aktivnosti u vezi korišćenja tehničkih rješenja iz stava 2 ovog člana, kao i pribavljanja podataka u postupku video-elektronske identifikacije evidentiraju u sistemskim i operativnim zapisima koji se čuvaju kako bi se obezbijedile ex-post informacije o tim aktivnostima i omogućilo utvrđivanje odgovornosti za njihovo sprovođenje.
