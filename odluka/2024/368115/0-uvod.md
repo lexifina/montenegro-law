@@ -1,0 +1,3 @@
+Na osnovu člana 239, 240, 250 i 251 a u vezi sa članom 305 Zakona o privrednim društvima ("Službeni list CG", br. 65/20 i 146/21), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) , člana 35 tačka 2 Statuta Opštine Nikšić ("Službeni list CG-Opštinski propisi", br. 31/18 i 21/23) i člana 15 Statuta Agencije za projektovanje i planiranje Opštine Nikšić broj 01-3511 od 04.04.2006. godine, broj 02-031-358 od 02.03.2015. godine i broj 02-031-1207 od 19.06.2017. godine, Skupština opštine Nikšić, na sjednici održanoj 29.03.2024. godine, donijela je
+ODLUKU
+o promjeni oblika društva "Agencija za projektovanje i planiranje" u Društvo sa ograničenom odgovornošću
