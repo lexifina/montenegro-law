@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 i 3 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 002/18, 034/19, 038/20, 050/22 i 084/22 ), člana 8 Zakona o regionalnom razvoju ("Sl. list CG", br. 020/11, 026/11, 020/15 i 047/19) i člana 35 stav 1 tačka 2 i 3 Statuta Opštine Šavnik ("Sl. list CG - Opštinski propisi", br. 31/18), Skupština opštine Šavnik, na sjednici održanoj dana, 20.03.2024. godine, donijela je
+ODLUKU
