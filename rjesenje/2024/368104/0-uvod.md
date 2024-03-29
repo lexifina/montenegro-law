@@ -1,0 +1,1 @@
+Na osnovu člana 62. Statuta Opštine Ulcinj (,,Službeni list CG-Opštinski propisi", broj 48/19 i 5/24) i člana 9. Odluke o uslovima, postupku i načinu dodijelivanja Javnih priznanja i nagrada Opštine Ulcinj (,,Službeni list CG-Opštinski propisi '', broj 27/20), Skupština opštine Ulcinj, na sjednici održanoj dana 29.03.2024. godine, donijela je
