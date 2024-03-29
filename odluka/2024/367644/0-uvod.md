@@ -1,0 +1,2 @@
+Na osnovu čl. 8 Zakona o regionalnom razvoju 020/11, 026/11, 020/15 i 047/19 ), člana 45 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", 02/18 od 10.01.2018, 034/19 od 21.06.2019, 038/20 od 25.04.2020, 050/22 od 09.05.2022, 084/22 od 01.08.2022), člana 35 Statuta Opštine Šavnik ("Sl. list CG - Opštinski propisi", broj 31/18), Odluke Vlade Crne Gore o upozorenju Opštini Šavnik (,,Sl.list CG", br. 22/24) Skupština opštine Šavnik, na sjednici održanoj dana, 22.03.2024. godine, donijela je
+ODLUKU
