@@ -1,0 +1,5 @@
+# Član 6
+## Način dostavljanja podataka nadležnih i drugih organa, berzi i klirinško-depozitarnih društava
+Nadležni organi iz člana 96 stav 1 Zakona, drugi državni organi, nadzorni organi iz člana 131 stav 1 Zakona i nosioci javnih ovlašćenja, berze i klirinško-depozitarna društva, nadležna državna tužilaštva, nadležni sudovi i organ državne uprave nadležan za poslove pravosuđa podatke, informacije i dokumentaciju iz člana 1 ovog pravilnika dostavljaju finansijsko-obavještajnoj jedinici putem internet aplikacije ili web servisa koji se nalazi na Portalu IS FOJ.
+Finansijsko-obavještajna jedinica zahtjev za dostavljanje podataka, informacija i dokumentacije iz člana 1 ovog pravilnika može dostaviti subjektima iz stava 1 ovog člana putem Portala IS FOJ ili u pisanoj, odnosno elektronskoj formi.
+Kad podatke, informacije i dokumentaciju dostavljaju po zahtjevu finansijsko-obavještajne jedinice, subjekti iz stava 1 ovog člana te podatke, informacije i dokumentaciju dostavljaju na način na koji to traži finansijsko-obavještajna jedinica tim zahtjevom.
