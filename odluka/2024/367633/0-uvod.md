@@ -1,0 +1,2 @@
+Na osnovu člana 12 Zakona o energetici ("Službeni list Crne Gore", br. 5/16, 51/17, 82/20 i 29/22), člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" br. 2/18, 34/19, 38/20 i 50/22) i člana 73 stav 1 tačka 2 Statuta Prijestonice ("Službeni list Crne Gore- Opštinski propisi " br. 49/18 i 17/21), Skupština Prijestonice Cetinje, na sjednici održanoj dana 22.03.2024. godine, donijela je
+ODLUKU
