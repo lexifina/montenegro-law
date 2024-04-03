@@ -1,0 +1,2 @@
+# Član 3
+Vodosnabdijevanje seoskog područja može se vršiti sa manjih vodotoka i izvora čija izdašnost iznosi do 30 l/sec. u hidrološkom minimumu, ako njihovo korišćenje nije namijenjeno za regionalno ili javno vodosnabdijevanje ili ako za njihovo korišćenje vodne akte ne izdaje nadležni organ uprave, koji izviru, ulivaju se ili uviru na području Prijestonice Cetinje, kao i druge vode koje nijesu od značaja za Crnu Goru.
