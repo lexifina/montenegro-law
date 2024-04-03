@@ -1,0 +1,4 @@
+Na osnovu člana 223. stav 2. Zakona o planiranju prostora i izgradnji objekata ("Sl. list CG", br. 64/17, 44/18, 63/18, 11/19, 82/20, 86/22 i 004/23), člana 58. stav 1. tačka 3. i člana 59. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18, 034/19, 038/20, 050/22 i 084/22), a u vezi sa članom 94. stav 2. Statuta opštine Plav ("Sl. List CG - Opštinski propisi" br. 044/18) i članovima 2, 3, 4 i 5. Odluke o izgradnji lokalnih objekata od opšteg interesa ("Sl. list CG - Opštinski propisi" br. 002/15 i 015/19), shodno inicijativi investitora D.O.O"Crnogorski elektrodistributivni sistem" Podgorica, br. 031-430 od 01.04.2024. godine, Predsjednik opštine Plav, donosi
+ODLUKU
+o utvrđivanju lokacije sa elementima urbanističko-tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa, STS 10/0,4kV-160kVA "Korita 2" sa priključnim DV 10 kV, KO
+Prnjavor, u zahvatu PUP-a Plav -("Sl.list CG" br.52/21), odnosno GUR-a Centar Plav,
