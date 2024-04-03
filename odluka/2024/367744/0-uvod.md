@@ -1,0 +1,2 @@
+Na osnovu člana 329 stav 2 Zakona o privrednim društvima (,,Službeni list Crne Gore", br. 65/20, 146/21 i 4/24) a u vezi člana 54 stav 1 Zakona o komunalnim djelatnostima (,,Službeni list Crne Gore", br. 55/16, 2/18, 66/19 i 140/22), i člana 73 stav 1 tačka 2 Statuta Prijestonice (,,Službeni list Crne Gore-Opštinski propisi″, br. 49/18 i 17/21), Skupština Prijestonice Cetinje, na sjednici održanoj dana, 22.03. 2024. godine, donijela je
+ODLUKU
