@@ -1,0 +1,58 @@
+# Član 1
+U Odluci o obrazovanju Radnog tima za koordinaciju aktivnosti u okviru Berlinskog procesa ("Službeni list CG", broj 60/23) član 1 mijenja se i glasi:
+"Obrazuje se Radni tim za koordinaciju aktivnosti u okviru Berlinskog procesa (u daljem tekstu: Radni tim), u sastavu:
+1) Milica Perišić, savjetnica predsjednika Vlade Crne Gore za vanjsku politiku, koordinatorka;
+2) Bojan Božović, državni sekretar u Ministarstvu evropskih poslova, zamjenik koordinatorke;
+3) Radovan Bogojević, v.d. generalnog direktora Generalnog direktorata za multilateralne poslove u Ministarstvu vanjskih poslova, zamjenik koordinatorke;
+4) Borka Marinović, načelnica Odsjeka za regionalne organizacije u Ministarstvu vanjskih poslova, članica;
+5) mr Milica Nikić, II sekretarka u Direkciji za regionalne i druge međunarodne organizacije u Ministarstvu vanjskih poslova, članica;
+6) Milica Zindović, savjetnica u Kabinetu predsjednika Vlade Crne Gore, članica;
+7) Marija Hajduković, generalna direktorica Direktorata za strateško planiranje u javnoj upravi, međunarodnu saradnju i IPA fondove u Ministarstvu javne uprave, članica;
+8) Ružica Mišković, načelnica Direkcije za strateško planiranje u javnoj upravi i praćenje implementacije strateških dokumenata u Ministarstvu javne uprave, članica;
+9) Danijela Vujošević, samostalna savjetnica I u Direktoratu za mlade u Ministarstvu sporta i mladih, članica;
+10) Miloš Lalević, načelnik Odjeljenja za međunarodnu saradnju u Ministarstvu sporta i mladih, član;
+11) Nikola Vujović, potpredsjednik Privredne komore Crne Gore, član;
+12) Dragoljub Bulatović, savjetnik predsjednice Privredne komore Crne Gore, član;
+13) Miroslav Cimbaljević, generalni direktor Direktorata za poljoprivredu u Ministarstvu poljoprivrede, šumarstva i vodoprivrede, član;
+14) Milan Leković, savjetnik I u Odjeljenju za međunarodnu saradnju i IPA projekte u Ministarstvu poljoprivrede, šumarstva i vodoprivrede, član;
+15) Boris Vukašinović, v.d. pomoćnika direktorice Agencije za sprječavanje korupcije, član;
+16) Aleksandra Vojinović, sekretarka Savjeta Agencije za sprječavanje korupcije, članica;
+17) Boban Stanišić, savjetnik predsjednika Skupštine Crne Gore, član;
+18) Marija Milošević, sekretarka Odbora za evropske integracije u Skupštini Crne Gore, članica;
+19) Dijana Mitrović, samostalna savjetnica I u Sekretarijatu Odbora za međunarodnu saradnju i iseljenike u Skupštini Crne Gore, članica;
+20) Nenad Vitomirović, državni sekretar u Ministarstvu turizma, ekologije, održivog razvoja i razvoja sjevera, član;
+21) Nikola Tomašević, v.d. sekretara Ministarstva turizma, ekologije, održivog razvoja i razvoja sjevera, član;
+22) dr Ljudmila Popović, v.d. generalne direktorice Direktorata za interkulturalizam u Ministarstvu ljudskih i manjinskih prava, članica;
+23) mr Sokolj Beganaj, načelnik Odjeljenja za unapređenje i zaštitu prava Roma i Egipćana u Ministarstvu ljudskih i manjinskih prava i nacionalni koordinator za sprovođenje Strategije socijalne inkluzije Roma i Egipćana 2021-2025, član;
+24) mr Milica Dragićević, samostalna savjetnica I u Odjeljenju za praćenje i predlaganje mjera unapređenja i razvoja kulture u Ministarstvu kulture i medija, članica;
+25) mr Mirjana Vlahović Andrijašević, državna sekretarka u Ministarstvu zdravlja, članica;
+26) dr Aleksandar Obradović, pomoćnik direktora za medicinska i javnozdravstvena pitanja u Institutu za javno zdravlje Crne Gore, član;
+27) Aleksandra Tmušić, šefica Odsjeka za EU u Direkciji za NATO i EU u Ministarstvu odbrane, članica;
+28) Marko Dragaš, načelnik Direkcije za regionalne i infrastrukturne projekte u Ministarstvu evropskih poslova, član;
+29) Isidora Perović, samostalna savjetnica I u Odsjeku za unutrašnje tržište u Ministarstvu evropskih poslova, članica;
+30) Momir Jauković, generalni direktor Direktorata za pravosuđe u Ministarstvu pravde, član;
+31) Zorka Robović, savjetnica III u Direktoratu za pravosuđe u Ministarstvu pravde, članica;
+32) Ana Banović, načelnica Odjeljenja za evropske integracije, međunarodnu saradnju, programiranje i implementaciju EU fondova u Ministarstvu finansija, članica;
+33) mr Smilja Kažić-Vujačić, načelnica Direkcije za međunarodnu saradnju u Ministarstvu prosvjete, nauke i inovacija, članica;
+34) Milica Golubović, samostalna savjetnica I u Odjeljenju za priznavanje inostranih obrazovnih isprava i ENIC/NARIC centar u Ministarstvu prosvjete, nauke i inovacija, članica;
+35) Agron Ibrahimi, državni sekretar u Ministarstvu rada i socijalnog staranja, član;
+36) Darka Džabasan, načelnica Direkcije za penzijsko i invalidsko osiguranje i boračku i invalidsku zaštitu u Ministarstvu rada i socijalnog staranja i sekretarka Komisije za nestala lica Crne Gore, članica;
+37) Vesna Moračanin, samostalna savjetnica I u Direkciji za evropske integracije i projekte u Ministarstvu unutrašnjih poslova, članica;
+38) Danka Tomić, načelnica Direkcije za međunarodnu saradnju u Ministarstvu unutrašnjih poslova, članica;
+39) Ivona Savićević, v.d. generalne direktorice Direktorata za međunarodnu saradnju, evropske integracije i implementaciju EU fondova u Ministarstvu ekonomskog razvoja, članica;
+40) Marko Savković, samostalni savjetnik I u Direkciji za međunarodnu ekonomsku saradnju u Ministarstvu ekonomskog razvoja, član;
+41) mr Marinela Lazarević, načelnica Direkcije za elektronske komunikacije i radio- spektar u Ministarstvu ekonomskog razvoja, članica;
+42) Maja Jokanović, načelnica Direkcije za industrijsku politiku i razvoj u Ministarstvu ekonomskog razvoja, članica;
+43) Srđan Pavlović, načelnik Odsjeka za Registar stvarnih vlasnika u Poreskoj upravi, član;
+44) Zdravko Gutović, samostalni savjetnik I u Odsjeku za Centralni registar privrednih subjekata u Poreskoj upravi, član;
+45) Milanka Strunjaš, načelnica Odsjeka za obavještajni rad i analizu rizika u Upravi carina, članica;
+46) Dejan Marković, načelnik Odsjeka za carinske istrage u Upravi carina, član;
+47) Vladimir Đaković, direktor Uprave za bezbjednost hrane, veterinu i fitosanitarne poslove, član;
+48) Zorka Prljević, pomoćnica direktora Uprave za bezbjednost hrane, veterinu i fitosanitarne poslove, članica;
+49) Darko Grgurović, izvršni direktor Agencije za elektronske komunikacije i poštansku djelatnost, član;
+50) Danka Milićević, pomoćnica izvršnog direktora Agencije za elektronske komunikacije i poštansku djelatnost, članica;
+51) Nikola Veljović, v.d. generalnog direktora Direktorata za kapitalne projekte i međunarodnu saradnju u Ministarstvu saobraćaja i pomorstva, član;
+52) Kristina Mihailović, načelnica Direkcije za međunarodne projekte i EU fondove u Ministarstvu energetike i rudarstva, članica;
+53) Andrija Jovović, direktor Sektora za platni promet u Centralnoj banci Crne Gore, član;
+54) Andrej Nedović, predstavnik Ministarstva prostornog planiranja, urbanizma i državne imovine, član;
+55) Vladimir Radović, predstavnik Ministarstva prostornog planiranja, urbanizma i državne imovine, član."
