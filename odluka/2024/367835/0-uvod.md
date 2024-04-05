@@ -1,0 +1,2 @@
+Na osnovu člana 14 Zakona o mladima ("Službeni list Crne Gore", br. 025/19, 027/19) člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list CG",broj 02/18, 034/19, 038/20, 050/22, 084/22) i člana 34 stav 1 tačka 4 Statuta Opštine Zeta ("Sl.list CG-opštinski propisi br 24/19), uz prethodno pribavljeno mišljenje Ministartsva sporta i mladih, akt broj 01-051-615/23- 2380/5 od 16. januar 2024. godine, Skupština Opštine Zeta na XIII sjednici održanoj dana 21.03.2024.godine, donijela je
+ODLUKU
