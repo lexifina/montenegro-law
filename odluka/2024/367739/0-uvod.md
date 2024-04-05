@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 1 tačka 13 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 47 Zakona o sportu ("Službeni list CG", br. 44/18 i 123/21) i člana 15 stav 1 tačka 13 Statuta Opštine Zeta ("Službeni list CG - Opštinski propisi", br. 12/23), i Odluke Skupštine opštine Zeta, broj D 32-016/23-337 ("Službeni list CG - Opštinski propisi", br. 65/23), Skupština Opštine Zeta, je na XIII sjednici održanoj dana 21.03.2024. godine, donijela-
+ODLUKU
