@@ -1,0 +1,2 @@
+# Član 3
+Nepokretnosti iz člana 1 ove odluke prodaju se po cijeni od 379,21 €/m2, što ukupno iznosi 270.000,00 €, shodno Izvještaju o procjeni vrijednosti nekretnine u zahvatu DUP-a "Topolica IV", sačinjenom od strane ovlašćenih procjenjivača, dipl. ekonomiste Šupić Milana i sudskog vještaka građevinske struke, dipl. ing građevine Šupić Nebojše, obojice iz Podgorice, protokolisanog kod Opštine Bar pod brojem : 04-427/23-650 od 23.02.2024. godine.

@@ -1,0 +1,2 @@
+# Član 6
+Obavezuju se Bošković Zlatko i Bošković Jadranka, da u roku od 6 (slovima: šest) mjeseci od dana zaključenja notarskog zapisa ugovora o prodaji zemljišta, sa Opštinom Bar zaključe poseban ugovor kojim će se regulisati međusobna prava i obaveze u vezi sa naknadom za komunalno opremanje građevinskog zemljišta, a u skladu sa važećom Odlukom o naknadi za komunalno opremanje građevinskog zemljišta ("Službeni list CG - opštinski propisi", br. 38/20).
