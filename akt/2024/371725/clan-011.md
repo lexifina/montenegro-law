@@ -1,0 +1,9 @@
+# Član 11
+Sportski klubovi čiji je Osnivač Glavni grad, uz program aktivnosti za tekuću godinu, dostavljaju i sljedeću dokumentaciju:
+- finansijski plan, sa procjenom iznosa sredstava koji je potreban za sprovođenje programa i detaljnim planom trošenja sredstava.
+- izvještaj o utrošku dodijeljenih sredstava iz prethodne godine uz narativni izvještaj, ne duži od 5 strana, - potvrda iz Uprave za inspekcijske poslove da protiv sportskog organizacije nije pokrenut postupak privremene zabrane obavljanja sportske djelatnosti (ne starija od 30 dana), - potvrda iz Centralne banke Crne Gore da sportskom subjektu nijesu blokirani računi (ne starija od 30 dana), - potvrda od organa uprave nadležnog za poslove utvrđivanja, kontrole i naplate javnih prihoda da sportski subjekt nema neizmirenih poreskih obaveza do 31. decembra prethodne godine, - izjavu ovlašćenog lica u sportskom klubu o istinitosti dostavljenih podataka ovjerena od strane suda, organa lokalne uprave nadležnog za poslove ovjeravanja ili notara.
+Komisija je, nakon uvida u prispjelu dokumentaciju, dužna da u roku od deset dana, sačini predlog za raspodjelu sredstava sportskim klubovima u skladu sa kriterijumima iz ove odluke.
+Predlog Komisije iz stava 2 ovog člana, nadležni organ dostavlja gradonačelniku u roku od tri dana od dana njegovog donošenja.
+Odluku o raspodjeli sredstava sportskim klubovima iz stava 1 ovog člana, na predlog Komisije, donosi gradonačelnik Glavnog grada.
+Sportski klubovi iz stava 1 ovog člana kojima su dodijeljena sredstva u skladu sa odlukom iz stava 4 ovog člana zaključuju sa gradonačelnikom ugovor u roku od 20 dana od dana donošenja odluke.
+Ugovorom iz stava 5 ovog člana utvrdiće se dinamika realizacije programa, uplata, korišćenje i pravdanje odobrenih sredstava i obaveza sportskog kluba za dostavljanje kvartalnih izvještaja o namjenski utrošenim sredstvima.

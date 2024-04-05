@@ -1,0 +1,5 @@
+# Član 4
+Razvoj sporta podstiče se sufinansiranjem programa rada sportskih organizacija koje su od značaja za ostvarivanje javnog interesa u sportu, sredstvima iz Budžeta Glavnog grada predviđenim za sport.
+Sufinansiranje programa rada sportskih organizacija podrazumijeva sufinansiranje troškova takmičenja, nabavke opreme i zakupa terena za treninge i održavanje utakmica, organizacije sportskih događaja, obuke i angažovanja stručnog kadra, troškova održavanja terena i sportskih objekata i slično.
+Ukupna novčana sredstva koja se, shodno ovoj Odluci, izdvajaju iz Budžeta Glavnog grada za finansiranje sporta, procentualno se opredjeljuju na sljedeći način:
+do 65 % sportskim klubovima čiji je Osnivač Glavni grad, do 30 % ostalim sportskim organizacijama, do 5% za razvoj i unapređenje sporta (razvoj dječijeg sporta, školskog i univerzitetskog sporta, razvoj sporta lica sa invaliditetom, razvoj sportske rekreacije građana, sportske priredbe od značaja za grad, programske aktivnosti nadležnog organa) kao i za nagrade za postignute rezultate u sportu.
