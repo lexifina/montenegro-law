@@ -1,0 +1,17 @@
+Na osnovu člana 4 stav 2 Odluke o izgradnji lokalnih objekata od opšteg interesa ("Službeni list CG opštinski propisi" br. 14/22, 59/22, 30/23) i odredbi Zakona o planiranju prostora i izgradnji objekata ("Službeni list Crne Gore", br. 64/17, 44/18, 63/18, 11/19, 82/20, 86/22 i 04/23), Sekretarijat za urbanizam, stanovanje i uređenje prostora predlaže:
+PROGRAMSKI ZADATAK SA ELEMENTIMA URBANISTIČKO-TEHNIČKIH USLOVA
+za izradu projektne dokumentacije za izgradnju javne rasvjete "Trešnjica". Lokacija trase osvjetljenja obuhvata dio kat.parc. 1040 i 2461 KO Kubasi.
+Predmetnu trasu osvjetljenja prethodno navedenog puta čine i djelovi kat.parc.818, 902, 916, 957, 958, 1062, 2461, 1013, 1014, 1015, 1031, 1032, 1033, 1034, 1035, 1036, 1039, 1044, 1045, 1222, 1220 i 1230 sve KO Kubasi.
+Ovim programskim zadatkom sa elementima urbanističko-tehničkih uslova određuje se trasa za izgradnju javne rasvjete "Trešnjica", koji obuhvata dio katastarske opštine Kubasi i ista se smatra lokalnim objektom od opšteg interesa.
+Neophodno je uraditi projekat javne rasvjete "Trešnjica" koji obuhvata postojeći put na djelovima kat.parc. 1040 i 2461 KO Kubasi i sa prethodno navedenim katastarskim parcelama u dužini od cca 850 m i definisati tačku priključenja gdje će biti postavljen mjerno razvodni oramar.
+Na postojećim i novim betonskim stubovima visine 9m (tj 7.4m u nadzemnom dijelu) predvidjeti postavljanje samonosivog kablovskog snopa tipa X00/0 4x16mm2, nosnog, zateznog i spojnog materijala, kao i postavljanje svjetiljki. Nove betonske stubove predvidjeti na rastojanju 30-35m u zavisnosti od uslova i zahtjeva na terenu. Precizna pozicija stubova biće definisana glavnim projektom javne rasvjete. Tip i snagu svjetiljki odrediti fotometrijskim proračunom u zavisnosti od razmaka između postojećih i novih stubova i širine puta kojeg osvjetljavamo.
+Predmet Odluke o izboru lokacije je osvjetljavanje lokalnog puta, označenog na geodetskom snimku kao "asfaltni put" i dijelom "makadamski put".
+Mjerno razvodni ormar je potrebno da sadrži mjerni, upravljački i dio sa zaštitnim komponentama. Brojilo ugrađuje CEDIS. MRO opremiti kontaktorima i astronomskim uklopnim satom.
+Projektna dokumentacija
+Projektnu dokumentaciju izraditi u skladu sa tehničkim propisima, standardima i uzansama iz oblasti projektovanja objekata javne rasvjete.
+Glavni projekat uraditi u skladu sa Zakonom o planiranju prostora i izgradnji objekata ("Sl.list CG" br. 64/17, 44/18, 63/18, 11/19, 82/20, 86/22 i 4/23) i Pravilniku o načinu izrade i sadržini tehničke dokumentacije za građenje objekata ("Sl.list CG" br. 44/18, 43/19). Glavni projekat podliježe reviziji u skladu sa čl. 81 Zakona o planiranju prostora i izgradnji objekata i u skladu sa čl.7 Odluke o izgradnji lokalnih objekata od opšteg interesa. Glavni projekat sa izvještajem o izvršenoj reviziji izraditi u 6 (šest) primjeraka, od kojih su 3 (tri) u zaštićenoj digitalnoj formi, u skladu sa čl. 9 Odluke o izgradnji lokalnih objekata od opšteg interesa.
+Privredno društvo koje vrši izradu glavnog projekta mora posjedovati licencu za projektovanje i izvođenje radova izdatu od nadležnog organa. Privredno društvo koje vrši reviziju tehničke dokumentacije mora imati licencu za reviziju tehničke dokumentacije i vršenje nadzora nad građenjem objekata izdatu od nadležnog organa.
+Sastavni dio Programskog zadatka je Geodetski snimak.
+Br: 03-334/23-10765-1 Kotor, 30.08.2023.godine
+Sekretarijat za urbanizam, stanovanje i uređenje prostora Opština Kotor
+GEODETSKI SNIMAK - JR TREŠNJICA
