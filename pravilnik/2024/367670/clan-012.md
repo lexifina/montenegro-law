@@ -1,0 +1,4 @@
+# Član 12
+## Provjera tehničkih rješenja za sprovođenje video-elektronske identifikacije
+Komisija neposredno provjerava da li je obveznik obezbijedio tehnička rješenja koja omogućavaju visok kvalitet prenosa slike i zvuka (video-audio zapis) u realnom vremenu (prenos uživo) i potpuno šifrovanje video-audio komunikacije između klijenta i obveznika (end-to-end encryption) tokom cjelokupnog trajanja te komunikacije.
+Komisija provjerava da li je obveznik obezbijedio neprekidno snimanje davanja saglasnosti od strane klijenta iz člana 24 stav 3 Zakona i neprekidno snimanje postupka video-elektronske identifikacije, kao i da li se na tim snimcima u potpunosti vide lice klijenta i zaposlenog kod obveznika koji sprovodi video-elektronsku identifikaciju, datum i vrijeme snimanja, kao i aktivnosti klijenta koje od njega traži zaposleni tokom identifikacije.
