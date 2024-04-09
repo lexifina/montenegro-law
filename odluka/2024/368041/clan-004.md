@@ -1,0 +1,2 @@
+# Član 4
+Na ime naknade za ustanovljenu službenost "Menadžer Montenegro" doo Podgorica, kao korisnik povlasnog dobra, dužan je Opštini Danilovgrad uplatiti iznos od 141,32 €, a u skladu sa Izvještajem o procjeni Komisije za procjenu, broj 01-082/24-510/1 od 07.03.2024. godine. Naknada iz stava 1 ovog člana uplaćuje se u korist Budžeta Opštine Danilovgrad na žiro račun broj 510-3296121-51 (prihodi opštinskih organa organizacija i službi) u roku od osam dana od dana na stupanja na snagu ove odluke.

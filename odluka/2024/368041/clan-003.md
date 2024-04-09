@@ -1,0 +1,2 @@
+# Član 3
+Opština Danilovgrad, kao subjekt raspolaganja poslužnog dobra daje saglasnost "MENADŽER MONTENEGRO" doo Podgorica za ustanovljavanje prava službenosti radi polaganja kabla preko djelova katastarskih parcela broj 855/3 i 3472/3, evidentiranih u Listu nepokretnosti 211, KO Bandići, shodno Elaboratu originalnih terenskih podataka o izvršenim radovima na terenu, sačinjenim od strane "Geoengineering" doo Podgorica.
