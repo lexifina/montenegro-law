@@ -1,0 +1,2 @@
+# Član 2
+Odlukom predsjednika Opštine Danilovgrad o određivanju lokacije sa elementima urbanističko - tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa - solarne elektrane sa pratećom infrastrukturom i priključnim 10kw kablom, broj 01-332/23-2950/1 od 26.12.2023. godine, utvrđena je lokacija sa elementima urbanističko - tehničkih uslova za izgradnju objekta trafostanice sa priključnim 10 kw kablom koji će se položiti, između ostalih i preko dijela predmetne katastarske parcele.

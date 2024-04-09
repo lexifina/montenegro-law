@@ -1,0 +1,2 @@
+# Član 3
+Na ime naknade za ustanovljenu službenost Šaranović Boban, kao korisnik povlasnog dobra, dužan je Opštini Danilovgrad uplatiti iznos od 1.084,05€, a shodno Izvještaju o procjeni Komisije za procjenu, broj 01-082/24-511/1 od 07.03.2024. godine Naknada iz stava 1 ovog člana uplaćuje se u korist Budžeta Opštine Danilovgrad na žiro račun broj 510-3296121-51 (prihodi opštinskih organa organizacija i službi) u roku od osam dana od dana stupanja na snagu ove odluke.

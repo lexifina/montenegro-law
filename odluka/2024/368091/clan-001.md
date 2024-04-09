@@ -1,0 +1,3 @@
+# Član 1
+## broj 1889, KO Grbe
+Skupština opštine Danilovgrad kao subjekt raspolaganja poslužnog dobra daje saglasnost za ustanovljavanje prava službenosti Šaranović Bobanu, kao korisniku povlasnog dobra radi izgradnje lokalnog objekta od opšteg interesa - solarne elektrane sa pratećom infrastrukturom i priključnim 10kw kabla, koji će se položiti dijelom katastarske parcele broj 1889, po načinu korišćenja javni putevi, površine 19609 m², evidentirane u Listu nepokretnosti 60, KO Grbe, korišćenje 1/1 Fonda za gradsko građevinsko zemljište, poslovni prostor i putevi, shodno Elaboratu planirane trase podzemnog kabla za napajanje fotonaponske elektrane, urađenog od strane "Geoinvest" doo Podgorica.
