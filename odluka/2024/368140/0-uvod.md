@@ -1,0 +1,2 @@
+Na osnovu člana 239 stav 19 i člana 240a stav 2 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", br. 64/17, 44/18, 63/18, 11/19, 82/20, 86/22 i 4/23), člana 28 stav 1 tačka 2 i člana 38 stav 1 tač. 2 i 8 Zаkоnа о lоkаlnој sаmоuprаvi ("Službeni list CG", br. 2/18, 34/19 i 38/20) i člana 40 stav 1 tačka 2 i 8 Stаtutа ("Sl. list RCG-Opštinski propisi" br. 37/04 i 30/07 i "Sl. list CG-Opštinski propisi" br. 32/09 i 14/11), Skupština opštine Pljevlja, na sjednici održanoj dana 28.03.2024. godine, donijela je
+ODLUKU
