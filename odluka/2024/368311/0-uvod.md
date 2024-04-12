@@ -1,0 +1,2 @@
+Na osnovu člana 223. stav 2. i 5. Zakona o planiranju prostora i izgradnji objekta ("Službeni list Crne Gore", br. 64/17, 44/18, 063/18, 11/19, 82/20, 86/22, 4/23) člana 38. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22) kao i člana 33. Statuta Opštine Plav ("Službeni list Crne Gore-Opštinski propisi", br. 44/18), Skupština opštine Plav, na sjednici održanoj dana 28.03.2024.godine, donijela je
+ODLUKU
