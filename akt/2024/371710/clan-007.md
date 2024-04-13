@@ -1,0 +1,3 @@
+# Član 7
+U članu 12 u stavu 1 broj "30" zamjenjuje se brojem "20".
+U istom članu u stavu 3 tačka 1 mijenja se i glasi: "- prijavu (Obrazac1)". Tačka 2,mijenja se i glasi :"- izrađen biznis plan (Obrazac 2)-štampana i elektronska verzija biznis plana na USB". U istom članu u stavu 4 tačka 1 mijenja se i glasi:"- prijavu (Obrazac1)". Tačka 3, mijenja se i glasi:"- izrađen biznis plan (Obrazac 2)-štampana i elektronska verzija biznis plana na USB". U istom članu u stavu 4 dodaje se tačka 12 i glasi:"- "Potvrda iz Centralne banke Crne Gore da privrednom subjektu nijesu blokirani računi ( ne starija od 30 dana )".

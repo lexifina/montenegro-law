@@ -1,0 +1,2 @@
+# Član 5
+U članu 5 u stavu 1, 2, 3, 4, 5, 7, 8, 9, 10, članu 6 stav 1 tačka 1, članu 7 stav 1 i tačke 1 i 2, članu 8 stav 1, 2, 3, članu 9, stav 1, 2 i 3, članu 12 stav 2, 4 i 5, članu 13 stav 1, članu 14, članu 16 stav 1, 2 i 3, članu 18 stav 1 i 3, članu 19 stav 1, 2, 3 i 4, članu 20 stav 1 i 2, članu 21 stav 2, članu 22 stav 1 tačka 3 i članu 24 stav 2, poslije riječi "Komisija" dodaju se riječi: "za raspodjelu".
