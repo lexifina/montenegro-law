@@ -1,0 +1,2 @@
+Na osnovu čl. 20, čl. 21 i čl. 34 stav 1 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09 i 40/11), čl. 34 stav 1 i čl. 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i čl. 22, 23, 25, 31 i 54 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", br. 8/19, 20/21 i 49/22), Skupština Glavnog grada - Podgorice, na sjednici održanoj 21., 27., 28. i 29. marta 2024. godine, donijela je
+ODLUKU
