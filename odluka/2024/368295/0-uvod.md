@@ -1,0 +1,2 @@
+Na osnovu člana 92 stav 2 Zakona o socijalnoj i dječijoj zaštiti ("Službeni list CG" br. 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/21, 145/21, 145/21, 3/23), člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Službeni list CG-Opštinski propisi" br. 19/18), člana 15 stav 1 alineja 2 Odluke o organizovanju Javne ustanove Centar za podršku djeci i porodici ("Službeni list CG-Opštinski propisi", br. 48/18) Skupština opštine Bijelo Polje na sjednici održanoj dana 25. i 28. 03. 2024. godine, donijela je
+ODLUKU
