@@ -1,0 +1,2 @@
+Na osnovu člana 16 stav 1 Zakona o spomen-obilježjima (Službeni list CG", br. 40/08, 40/11 i 2/17) i člana 54 Statuta Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", br. 8/19, 20/21 i 49/22), u skladu sa Programom podizanja spomen-obilježja za 2022. godinu ("Službeni list Crne Gore - Opštinski propisi", broj 38/22), uz prethodnu saglasnost Ministarstva kulture i medija Crne Gore, Rješenje broj: UPI-13-041/23-133/5 od 18. marta 2024. godine, Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 21., 27., 28. i 29. marta 2024. godine, donijela je
+ODLUKU
