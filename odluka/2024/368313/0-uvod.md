@@ -1,0 +1,4 @@
+Na osnovu člana 34 stav 3 Zakona o zaštiti prirode ("Službeni list CG", broj 54/16 i 18/19), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22), člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Službeni list Crne Gore-Opštinski propisi", br. 19/18), Skupština Opštine Bijelo Polje, po prethodno pribavljenoj saglasnosti Ministarstva ekologije, prostornog planiranja i urbanizma br. 01-322/23-179/2 od 05.12.2023 godine, i po prethodno pribavljenom mišljenju Ministarstva poljoprivrede, šumarstva i vodoprivrede br. 08-311/23-9409/2 od 11.07.2023. godine i Ministarstva kulture i medija br. 03- 298/2023-2 od 02.06.2023 godine na sjednici održanoj dana 25. i 28. 03.2024. godine, donijela je
+ODLUKU
+o proglašavanju kategorije, granica, statusa i režima zaštite u Spomeniku prirode "Đalovića
+klisura"
