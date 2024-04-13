@@ -1,0 +1,3 @@
+Na osnovu člana 92 stav 2 Zakona o socijalnoj i dječjoj zaštiti ("Sl. list CG", br. 27/13, 01/15, 56/16, 66/16, 01/17, 31/17, 42/17, 50/17, 59/21, 145/21 i 03/23) i člana 54 stav 1 alineja 57 Statuta Glavnog grada ("Sl. list CG-Opštinski propisi" br. 08/19, 20/21 i 49/22) i člana 11 Odluke o osnivanju Javne ustanove za smještaj, rehabilitaciju i resocijalizaciju korisnika psihoaktivnih supstanci-Podgorica ("Sl.list CG - Opštinski propisi", broj 27/15), Skupština Glavnog grada - Podgorice, na sjednici održanoj 21., 27., 28. i 29. marta 2024. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javne ustanove za
