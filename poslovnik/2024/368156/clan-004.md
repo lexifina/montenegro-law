@@ -1,0 +1,3 @@
+# Član 4
+Prvu sjednicu novoizabrane Skupštine saziva predsjednik Skupštine prethodnog saziva, najkasnije u roku od 15 dana od dana objavljivanja konačnih rezultata izbora u "Službenom listu Crne Gore-Opštinski propisi".
+Prva sjednica Skupštine opštine, održava se najkasnije u roku od 15 dana od dana sazivanja. Uz saziv za sjednicu, odbornicima se dostavlja Izvještaj Opštinske izborne Komisije o sprovedenim izborima, Statut Opštine Zeta, Poslovnik o radu Skupštine opštine Zeta, Odluka o obrazovanju i načinu rada i odlučivanja radnih tijela Skupštine opštine Zeta i Etički kodeks za izabrane predstavnike i funkcionere.

@@ -1,0 +1,2 @@
+# Član 41
+Odbornik ima pravo i dužnost da učestvuje u radu Skupštine i njenih radnih tijela i izvršava obaveze koje proizilaze po osnovu vršenja funkcije odbornika, predlaže Skupštini razmatranje pitanja iz njene nadležnosti, podnosi predloge za donošenje odluka i drugih akata, podnosi amandmane na predloge propisa, postavlja odbornička pitanja u vezi sa radom organa lokalne uprave i vrši druge poslove u skladu sa zakonom, Statutom i ovim Poslovnikom.
