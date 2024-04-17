@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 36 stav 1 tačka 52 Statuta opštine Mojkovac ("Sl. list CG - Opštinski propisi", br. 29/18 i 37/22) i člana 14 stav 1 Odluke o osnivanju DOO "Komunalne usluge - Gradac" Mojkovac ("Sl. list CG - Opštinski propisi", br. 26/13), Skupština opštine Mojkovac, na sjednici održanoj dana 4. aprila 2024. godine, donijela je
+ODLUKU
