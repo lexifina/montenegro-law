@@ -1,0 +1,2 @@
+Na osnovu člana 54 stav 1 Zakona o komunalnim djelatnostima ("Sl. list CG", br. 55/16, 74/16, 2/18, 66/19), člana 38 stav 1 tačka 2 Zаkоnа о lоkаlnој sаmоuprаvi ("Sl. list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22), člana 36 stav 1 tačka 2 Statuta opštine Mojkovac ("Sl. list CG- Opštinski propisi’’, br. 29/18 i 37/22), člana 10 stav 1 alineja 6 Odluke o osnivanju DOO "Komunalne usluge-Gradac" Mojkovac ("Sl. list CG-Opštinski propisi’’, br. 26/13), Skupština opštine Mojkovac, na sjednici održanoj dana 4. aprila 2024. godine, donijela je
+ODLUKU
