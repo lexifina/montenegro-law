@@ -1,0 +1,2 @@
+Na osnovu člana 78a stav 3 Zakona o upravljanju otpadom (˝Službeni list Crne Gore˝, br. 64/11 i 39/16), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi (˝Službeni list Crne Gore˝, br. 2/18, 34/19, 38/20, 50/22 i 84/22), čl. 35 stav 1 tačka 2 i 38, stav 1 Statuta Opštine Nikšić (˝Službeni list Crne Gore-Opštinski propisi˝, br. 31/18 i 21/23), Skupština opštine Nikšić, na sjednici održanoj dana 29.03.2024. godine, donijela je
+ODLUKU
