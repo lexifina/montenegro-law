@@ -1,0 +1,4 @@
+# Član 8
+Organ lokalne uprave nadležan za saradnju sa nevladinim organizacijama, na osnovu potpune i uredne dokumentacije koja je blagovremeno dostavljena, u roku od 5 dana od isteka roka za dostavljanje predloga, sačiniće Listu kandidata koji su predloženi za člana Komisije, a koji ispunjavaju uslove Javnog poziva, sa nazivima nevladinih organizacija koje su ih predložile, istu dostaviti predsjedniku Opštine i objaviti na internet stranici Opštine.
+Predsjednik Opštine će u roku od 5 dana od dana objavljivanja Liste izabrati kandidata za člana Komisije, ispred nevladinih organizacija, koji je predložen od najvećeg broja nevladinih organizacija.
+Ukoliko se na listi kandidata nađu kandidati koje je predložio isti broj nevladinih organizacija, predsjednik Opštine će imenovati kandidata sa najviše iskustva u pisanju i realizaciji projekata.
