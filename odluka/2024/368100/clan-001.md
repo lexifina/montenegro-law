@@ -1,0 +1,3 @@
+# Član 1
+## o prihvatanju Inicijative za bratimljenje i uspostavljanje trajne saradnje sa gradom Užice, Republika Srbija
+Na principima izražene volje, međusobnog uvažavanja i obostranih interesa građana Opštine Pljevlja i građana grada Užice-Republika Srbija, prihvata se Inicijativa o bratimljenju i uspostavljanju trajne saradnje i svestranom razvijanju prijateljskih veza i partnerstva u oblasti privrede, ekonomskog razumijevanja i razvoja uprave i javnih usluga, kroz neposredne kontakte privrednih organizacija, privrednika vaspitno obrazovnih ustanova, kulturnih institucija i društvenih i sportskih organizacija, turizma kao i u drugim oblastima od obostranog interesa.
