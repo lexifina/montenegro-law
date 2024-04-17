@@ -1,0 +1,7 @@
+# Član 4
+Naziv iznad člana 21 i član 21 mijenjaju se i glase:
+"2.3 Savjet za predstavke pritužbe i prava lica sa invaliditetom
+Član 21
+Savjet za predstavke pritužbe i prava lica sa invaliditetom ima predsjednika i 4 člana.
+Predsjednik i 2 člana se imenuju iz reda odbornika u Skupštini, 1 član je iz reda građana i 1 član iz reda stručnih i naučnih radnika iz oblasti prava lica sa invaliditetom.
+Savjet za predstavke pritužbe i prava lica sa invaliditetom razmatra predstavke i pritužbe građana upućene ili ustupljene Skupštini i predlaže Skupštini i nadležnim organima mjere za rješavanje pitanja sadržanih u njima i o tome obavještava podnosioca predstavke ili pritužbe, razmatra pitanja koja se odnose na stvaranje uslova za organizovano i kvalitetno zalaganje i preduzimanje aktivnosti za pomoć licima sa invaliditetom i podizanje standarda u kvalitetu njihovog života i rada, a naročito: na ostvarivanje prava lica sa invaliditetom utvrđenih zakonom i međunarodno prihvaćenim standardima; da se aktima Skupštine opštine obezbijede, odnosno da se ukupno poprave uslovi života za ova lica, a posebno u oblastima planiranja i uređenja prostora, komunalnim oblastima i društvenim djelatnostima; na iniciranje mjera i aktivnosti za unapređivanje prava lica sa invaliditetom; informisanje javnosti o pravima, mogućnostima i potrebama lica sa invaliditetom; ostvarivanje i drugih prava od značaja za status ovih lica."
