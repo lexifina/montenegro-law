@@ -1,0 +1,2 @@
+Na osnovu člana 39 Zakona o socijalnoj i dječijoj zaštiti ("Sl. list CG", br. 27/13, 1/15, 42/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/17, 145/21, 3/23 ), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG" br. 2/18, 34/19, 38/20, 50/22, 84/22) i člana 40 stav 1 tačka 2 Statuta Opštine Pljevlja ("Sl. list CG-Opštinski propisi" br. 46/18), Skupština opštine Pljevlja na sjednici održanoj 28.03.2024. godine donijela je
+ODLUKU
