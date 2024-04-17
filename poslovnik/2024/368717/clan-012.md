@@ -1,0 +1,4 @@
+# Član 12
+Saziv za sjednicu sa predloženim dnevnim redom i materijalom za sjednicu dostavlja se elektornskim ili pisanim putem, shodno potrebi,predsjedniku Opštine, potpredsjedniku Opštine i glavnom administratoru, starješinama organa lokalne uprave, rukovodiocima i predsjednicima organa upravljanja javnih službi čiji je osnivač Opština i drugim relevantnim subjektima.
+U radu na sjednici Odbora mogu učestvovati građani i predstavnici zainteresovanih građana, na način što će, najmanje 72 sata prije održavanja sjednice, dostaviti Odboru pisane komentare i sugestije shodno tačkama predloženog dnevnog reda, odnosno 24 časa u slučaju sazivanja sjednice po hitnom postupku.
+Obavještenje o održavanju sjednice Odbora dostavlja se lokalnim medijima elektronskim putem. Saziv i materijal za sjednicu, kao i Odluke Odbora objavljuje se na zvaničnoj internet prezentaciji Opštine Andrijevica.
