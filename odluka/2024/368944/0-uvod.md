@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tačka 3 Ustava Crne Gore i čl. 15, 16 i 17 Zakona o elektronskim komunikacijama ("Službeni list Crne Gore", br. 40/13, 56/13, 2/17 i 49/19), Skupština Crne Gore 28. saziva, na Petoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2024. godini, dana 18. aprila 2024. godine, donijela je
+ODLUKU O IMENOVANJU PREDSJEDNIKA I ČETIRI ČLANA SAVJETA AGENCIJE ZA ELEKTRONSKE KOMUNIKACIJE I POŠTANSKU DJELATNOST
