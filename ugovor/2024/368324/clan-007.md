@@ -1,0 +1,3 @@
+# Član 7
+## Tehnička pomoć i izgradnja kapaciteta
+Ciljana tehnička pomoć i pomoć u izgradnji kapaciteta članicama koje su zemlje u razvoju, uključujući NRZ članice, biće obezbijeđena u cilju sprovođenja mjera iz ovog sporazuma. Kao podrška ovoj pomoći, u saradnji s relevantnim međunarodnim organizacijama, kao što su Organizacija Ujedinjenih nacija za hranu i poljoprivredu (FAO) i Međunarodni fond za razvoj poljoprivrede, osniva se dobrovoljni STO mehanizam za finansiranje. Doprinosi STO članica mehanizmu daju se isključivo na dobrovoljnoj osnovi i za njega se ne koriste redovna budžetska sredstva.
