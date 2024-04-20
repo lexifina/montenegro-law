@@ -1,0 +1,7 @@
+# Član 6
+## Značenje izraza
+Izrazi upotrijebljeni u ovom zakonu imaju sljedeća značenja:
+1) partnerska zemlja je država, odnosno teritorija koju je Organizacija za ekonomsku saradnju i razvoj (Organisation for Economic Cooperation and Development - OECD) uvrstila na Listu zemalja primalaca službene razvojne podrške (Official Development Assistance - ODA);
+2) službena razvojna podrška obuhvata doprinose Crne Gore međunarodnim organizacijama, kao i aktivnosti, programe i projekte koje Crna Gora sprovodi u partnerskim zemljama u skladu sa metodologijom i propisima Organizacije za ekonomsku saradnju i razvoj;
+3) partnerstvo za održivi razvoj podrazumijeva zajedničko djelovanje državnih organa, organa državne uprave, organa lokalne samouprave i organa lokalne uprave, javnih ustanova, pravnih lica sa javnim ovlašćenjima, privrednih društava i preduzetnika, nevladinih i drugih domaćih i međunarodnih organizacija, drugih instituta i institucija, građana i ostalih zainteresovanih subjekata kroz udruživanje znanja, tehnologija, finansijskih sredstava, materijalnih i drugih resursa, radi postizanja ciljeva održivog razvoja u partnerskim zemljama;
+4) treća zainteresovana strana je država, međunarodna organizacija, odnosno subjekt međunarodnog prava, kao i drugi subjekt u okviru partnerstva za razvoj koji učestvuju u sprovođenju međunarodne razvojne saradnje i upućivanju međunarodne humanitarne pomoći.
