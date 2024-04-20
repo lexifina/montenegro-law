@@ -1,0 +1,8 @@
+# Član 59
+## Sistem preuzimanja, sakupljanja i obrade otpadnih baterija i akumulatora
+(1) Proizvođač baterija i akumulatora sa sjedištem u Crnoj Gori i ovlašćeni zastupnik proizvođača baterija i akumulatora koji nema sjedište u Crnoj Gori, dužni su se upisati u registar proizvođača baterija i akumulatora, koji vodi Agencija i u kojem se vode podaci o:
+- vrsti baterija i akumulatora koje proizvođač stavlja na tržište i načinu stavljanja na tržište,
+- ispunjavanju svojih obaveza iz čl. 14, 15 i 16 ovog zakona.
+(2) Proizvođači baterija i akumulatora i ovlašćeni zastupnici proizvođača baterija i akumulatora koji nemaju sjedište u Crnoj Gori snose troškove organizovanog sistema preuzimanja, sakupljanja i obrade otpadnih baterija i akumulatora.
+(3) Proizvođač ili ovlašćeni zastupnik proizvođača baterija i akumulatora koji nema sjedište u Crnoj Gori, koji stavlja na tržište baterije i akumulatore dužan je da se uključi u organizovani sistem preuzimanja, sakupljanja i obrade otpadnih baterija i akumulatora, u skladu sa čl. 14, 15 i 16 ovog zakona.
+(4) Način i postupak osnivanja sistema preuzimanja, sakupljanja i obrade otpadnih baterija i akumulatora, detaljniji sadržaj podataka koji se vode u registru proizvođača baterija i akumulatora i način vođenja tog registra, detaljniji sadržaj zahtjeva za upis u registar organizovanih sistema preuzimanja, sakupljanja i obrade otpadnih baterija i akumulatora i rada tog sistema iz stava 1 ovog člana, godišnje količine otpadnih baterija i akumulatora koje se moraju preuzeti radi obrade, prerade i recikliranja i način izračunavanja prosječne mase preuzetih otpadnih baterija i akumulatora iz člana 58 ovog zakona propisuje Vlada.

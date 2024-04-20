@@ -1,0 +1,8 @@
+# Član 114
+(1) Novčanom kaznom od 500 eura do 1.000 eura kazniće se za prekršaj odgovorno lice u jedinici lokalne samouprave, ako:
+1) godišnji izvještaj o sprovođenju lokalnog plana ne dostavi u elektronskoj i pisanoj formi Ministarstvu i Agenciji, najkasnije do 15. aprila tekuće za prethodnu godinu (član 32 stav 5);
+2) izuzetno od člana 52 stav 1 ovog zakona ne vodi evidenciju o komunalnom otpadu koji nastaje na teritoriji jedinice lokalne samouprave na osnovu podataka dobijenih od privrednog društva ili preduzetnika koji imaju dozvolu za preradu i/ili odstranjivanje otpada i/ili od privrednog društva ili preduzetnika upisanog u registar sakupljača otpada i registar prevoznika otpada (član 52 stav 2 alineja 2);
+3) lokacija iz člana 92 stav 2 ovog zakona ne bude ograđena, kako bi se spriječilo prisustvo neovlašćenih lica, domaćih i divljih životinja i nekontrolisano odlaganje otpada i/ili ne bude opremljena vagom za mjerenje količine otpada koji se privremeno skladišti i/ili nema organizovanu čuvarsku službu i službu za prijem otpada i održavanje privremenog skladišta (član 92 stav 4);
+4) ne obezbijedi vođenje evidencije o prijemu otpada na lokaciji za privremeno skladištenje komunalnog otpada u skladu sa članom 52 stav 2 ovog zakona (član 92 stav 7);
+5) lokacija iz člana 93 stav 2 ovog zakona ne bude ograđena, kako bi se spriječilo prisustvo neovlašćenih lica, i nekontrolisano odlaganje otpada i/ili ne bude opremljena vagom za mjerenje količine neopasnog građevinskog otpada koji se privremeno skladišti i/ili nema organizovanu čuvarsku službu i službu za prijem otpada (član 93 stav 5);
+6) ne obezbijedi vođenje evidencije o prijemu neopasnog građevinskog otpada na lokaciji iz člana 93 stav 2 ovog zakona (član 93 stav 11).

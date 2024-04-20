@@ -1,0 +1,11 @@
+# Član 14
+## Proširena odgovornost proizvođača
+(1) Privredno društvo i preduzetnik koji se bavi proizvodnjom, unapređenjem, preradom, obradom, prodajom ili uvozom proizvoda (novih, korišćenih, popravljenih ili prepravljenih), koji nakon upotrebe postaju otpad (u daljem tekstu: proizvođač) obuhvaćeni su režimom proširene odgovornosti proizvođača.
+(2) Proizvođač je dužan da:
+1) vodi i čuva evidencije o količinama proizvedenih ili uvezenih proizvoda, odnosno opreme u kojima su ovi proizvodi ugrađeni;
+2) besplatno vrši prihvat vraćenih proizvoda ili otpada koji preostaje nakon upotrebe tih proizvoda;
+3) naknadno upravlja otpadom iz tačke 2 ovog stava i preuzima finansijsku odgovornost za te aktivnosti;
+4) sprovodi obaveze iz programa proširene odgovornosti proizvođača, naročito u vezi sa plaćanjem finansijskih doprinosa i prikupljanjem podataka za proizvode koje stavlja na tržište, ako je za njih propisano uspostavljanje programa proširene odgovornosti proizvođača u skladu sa članom 15 ovog zakona;
+5) pruža informacije u kojoj mjeri je proizvod pogodan za ponovnu upotrebu ili recikliranje i identifikuje reciklirajuće komponente proizvoda i označava proizvode oznakom o vrsti i načinu upravljanja otpadom koji nastaje od proizvoda;
+6) dizajnira, odnosno projektuje proizvode na način da se smanji negativan uticaj na životnu sredinu, smanji proizvodnja otpada i osigura da se prerada i odstranjivanje proizvoda koji je postao otpad sprovode na način prihvatljiv za životnu sredinu i zdravlje ljudi, sa preporukama za razvoj, proizvodnju i marketing proizvoda koji su pogodni za višekratnu upotrebu, tehnički trajni, odnosno sa dužim vijekom upotrebe, a kad postanu otpad, budu pogodni za pravilnu i sigurnu preradu i odstranjivanje.
+(3) Granične vrijednosti prisustva opasnih materija u pojedinim djelovima proizvoda iz stava 1 ovog člana koji se proizvode u Crnoj Gori ili se uvoze radi stavljanja u promet, odnosno upotrebu, kao i oznake o vrsti i načinu upravljanja otpadom koji nastaje iz tog proizvoda, način vođenja i čuvanja evidencije o količinama proizvedenih ili uvezenih proizvoda, odnosno opreme u kojima su ti proizvodi ugrađeni, način pružanja informacija o recikliranju i označavanje, propisuje Ministarstvo.

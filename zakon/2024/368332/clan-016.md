@@ -1,0 +1,19 @@
+# Član 16
+## Upravljanje organizovanim sistemom preuzimanja, sakupljanja i obrade otpada
+(1) Proizvođač ili privredno društvo koje upravlja organizovanim sistemom iz člana 15 stav 7 ovog zakona upisuje se u registar organizovanih sistema preuzimanja, sakupljanja i obrade otpada koji vodi Agencija.
+(2) Za upis u registar organizovanih sistema preuzimanja, sakupljanja i obrade otpada proizvođač ili privredno društvo iz stava 1 ovog člana podnosi zahtjev Agenciji.
+(3) Uz zahtjev iz stava 2 ovog člana dostavljaju se:
+1) podaci o podnosiocu zahtjeva (ime i adresa, odnosno naziv i sjedište);
+2) specifikacija vrsta otpada za koje se organizuje obavljanje aktivnosti za ispunjavanje obaveza proširene odgovornosti proizvođača i preuzimaju obaveze iz čl. 55 do 59 i čl. 63 do 66 ovog zakona;
+3) informacije o prirodi, svrsi, obimu i trajanju organizovanog sistema preuzimanja, sakupljanja i obrade otpada;
+4) plan preuzimanja, sakupljanja i obrade otpada, kao i ugovore sa privrednim društvima ili preduzetnicima koji imaju dozvole i druge akte za upravljanje otpadom u skladu sa ovim zakonom;
+5) informacije o osnovama za izračunavanje predloženih cijena za naplatu, naročito očekivane troškove preuzimanja, sakupljanja, sortiranja, obrade i upravljanja organizovanim sistemom u slučaju kolektivnog ispunjavanja obaveza proširene odgovornosti proizvođača;
+6) dokaz o mogućnosti finansiranja obaveza koje treba preduzeti, uključujući garanciju za finansiranje preduzetih usluga;
+7) ugovore sa proizvođačima koji učestvuju u organizovanom sistemu i iz kojih proizilazi da se proizvođači slažu sa redovnom provjerom količine stavljanja proizvoda na tržište od strane upravljača organizovanog sistema kolektivnog ispunjenja obaveza proširene odgovornosti proizvođača.
+(4) Upis u registar organizovanih sistema preuzimanja, sakupljanja i obrade otpada vrši se na period do pet godina.
+(5) Zahtjev za produženje važenja upisa u registar organizovanih sistema preuzimanja, sakupljanja i obrade otpada mora se podnijeti šest mjeseci prije isteka roka važenja upisa.
+(6) Produženje važenja upisa u registar organizovanih sistema preuzimanja, sakupljanja i obrade otpada vrši se na način propisan u st.1, 2 i 3 ovog člana.
+(7) Ako dođe do promjena u planu preuzimanja, sakupljanja i obrade otpada iz stava 3 tačka 4 ovog člana, upravljač organizovanog sistema dužan je da obavijesti Agenciju radi dobijanja saglasnosti, u roku od tri mjeseca od nastanka promjene.
+(8) Agencija će izvršiti brisanje iz registra organizovanih sistema preuzimanja, sakupljanja i obrade otpada proizvođača ili privrednog društva iz stava 1 ovog člana ako se ne ispunjavaju uslovi iz ovog člana i drugi uslovi utvrđeni ovim zakonom i u slučaju izricanja mjere zabrane rada.
+(9) Proizvođač koji upravlja organizovanim sistemom dostavlja Agenciji najkasnije do 31. marta tekuće za prethodnu godinu izvještaj o sprovođenju aktivnosti i mjerama za ispunjenje svojih obaveza zajedno sa revidiranim finansijskim izvještajem za prethodnu kalendarsku godinu.
+(10) Bliže uslove sprovođenja programa proširene odgovornosti proizvođača koji obuhvataju bliži sadržaj plana preuzimanja, sakupljanja i obrade otpada iz stava 3 tačka 4 ovog člana, metodologiju izračunavanja garancije za finansiranje preduzetih usluga iz stava 3 tačka 6 ovog člana, sadržaj ugovora sa proizvođačima koji učestvuju u organizovanom sistemu iz stava 3 tačka 7 ovog člana, način vođenja registra organizovanih sistema preuzimanja, sakupljanja i obrade otpada, brisanje iz registra organizovanih sistema preuzimanja, sakupljanja i obrade otpada proizvođača ili privrednog društva i izdavanje garancija koje pokrivaju troškove sprovođenja obaveza proširene odgovornosti proizvođača za proizvođače koji su bili uključeni u organizovani sistem prije brisanja, sadržaj zahtjeva za upis u registar organizovanih sistema preuzimanja, način izvještavanja iz stava 9 ovog člana, propisuje Vlada.

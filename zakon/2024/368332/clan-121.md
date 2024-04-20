@@ -1,0 +1,5 @@
+# Član 121
+## Izdavanje dozvola i saglasnosti
+(1) Privredno duštvo ili preduzetnik kojem je na osnovu Zakona o upravljanju otpadom ( Službeni list CG , br. 64/11 i 39/16) izdata dozvola, saglasnost ili upisan u registar dužan je u roku od šest mjeseci od stupanja na snagu ovog zakona podnijeti zahtjev za izdavanje dozvole, saglasnosti ili upisa u registar, u skladu sa odredbama ovog zakona.
+(2) Izuzetno od stava 1 ovog člana privredno duštvo ili preduzetnik kojem je na osnovu Zakona o upravljanju otpadom ( Službeni list CG , br. 64/11 i 39/16) izdata dozvola za izvoz otpada dužan je u roku od godinu dana od stupanja na snagu ovog zakona podnijeti zahtjev za izdavanje ove dozvole.
+(3) Za dozvole, saglasnosti i upis u registar izdatih na osnovu odredbi Zakona o upravljanju otpadom ( Službeni list CG , br. 64/11 i 39/16), a za koje se u roku iz stava 1 ovog člana ne podnese zahtjev iz stava 1 ovog člana, pokrenuće se postupak ukidanja dozvole i saglasnosti, odnosno brisanja iz registra istekom roka za podnošenje ovog zahtjeva.
