@@ -1,0 +1,2 @@
+Na osnovu stava 1 alineja 1 i 2 i stava 2 člana 6b Zakona o porezu na nepokretnosti ("Službeni list CG", broj 25/19, 49/22 i 152/22), člana 28 tačka 3 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/2018, 34/2019, 38/2020, 50/2022, 84/2022 - Odluka US CG i 85/2022 - ispravka Odluke US CG.), člana 98 tačka 18 Statuta opštine Budva ("Službeni list CG - Opštinski propisi", broj 2/19), potpredsjednica Opštine Budva, donosi
+ODLUKU O PROSJEČNOJ CIJENI GRAĐEVINSKOG, POLJOPRIVREDNOG, ŠUMSKOG I
