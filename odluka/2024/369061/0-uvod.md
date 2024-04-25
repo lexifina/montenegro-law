@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 6 stav 1 alineja 3, člana 9 stav 1 i 2 Odluke o osnivanju Društva sa ograničenom odgovornošću "Agencija za izgradnju i razvoj Danilovgrada" Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", br. 44/23), člana 35 stav 1 tačka 22 i člana 38 Statuta Opštine Danilovgrad ("Službeni list Crne Gore - Opštinski propisi" br. 43/18) Skupština opštine Danilovgrad, na sjednici održanoj 16.4. 2024. godine, donijela je
+ODLUKU
