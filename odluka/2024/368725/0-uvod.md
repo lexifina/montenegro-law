@@ -1,0 +1,3 @@
+Na osnovu člana 223 stav 2 Zakona o planiranju prostora i izgradnji objekata ("Sl.list CG" br.64/17,44/18,63/18, 82/20,86/22 i 04/23"), člana 58 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18), člana 57 i 60 Statuta opštine Berane ("Sl.list RCG"- Opštinski propisi br. 21/04 i 34/06 i "Sl.list CG-Opštinski propisi br. 6/11) i člana 2 i 3 Odluke o lokalnim objekata od opšteg interesa ("Sl. list CG - Opštinski propisi", br. 41/21), Predsjednik opštine Berane, donosi:
+ODLUKU
+o određivanju lokacije sa elementima urbanističko - tehničkih uslova za izgradnju DTS 10/0,4kV "Miolje Polje",250kVA i priključnog kabla

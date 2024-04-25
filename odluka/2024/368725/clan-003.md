@@ -1,0 +1,5 @@
+# Član 3
+## Osnovni podaci o objektu
+Izgradnja lokalnog objekta od opšteg interesa - DTS 10/0,4 kV "Miolje Polje", 1x250 kVA, KO Lužac, Opština Berane i priključnog kabla i uzemljenja koji se planiraju na katastarskoj parceli br. 1165/3 upisanoj u LN 692-prepis KO Lužac, Berane u vlasništvu doo "Benenergo" Opština Berane. Da bi se izvršilo uklapanje u SN mrežu potrebno je postojeći kablovski vod tipa 3x (XHE 49-A 1x50mm2) za mHE "Benenrgo" sistemom "ulaz-izlaz" povezati na planiranu trafostanicu.
+Prilaz lokaciji je sa regionalnog puta Berane-Lubnice-Kolašin a preko kat. parcele 1165/5 koja je u svojini doo Benerga Potrebno je predvidejti uslove i trajanje probnog rada(u skladu sa članom 105 Zakona o paniranju prostora i izgradnji objekata) Situacija objekta urađena je na katastarskoj podlozi koja je sastavni Odluke o utvrđivanju lokacije za izgradnju lokalnog objekta od opšteg interesa. Imovinske odnose je obavezno riješiti prije prijave radova.
+položaj DTS će se odrediti u fazi izrade Glavnog projekta, a nakon izrade Elaborata parcelacije od strane ovlašćene geodetske organizacije koja posjeduje licencu.
