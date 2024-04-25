@@ -1,0 +1,6 @@
+# Član 1
+## o davanju saglasnosti za poravnanje pred Centrom za alternativno rjšavanje sporova u predmetu CMP 922/23/IK
+Daje se saglasnost Predsjedniku Opštine Mojkovac za zaključenje poravnanja u postupku mirnog rješavanja spora pred Centrom za alternativno rjšavanje sporova u predmetu CMP 922/23.
+Poravnanje će se zaključiti sa podnosiocem zahtjeva Vuksanom Mrdovićem na način što će na ime faktički eksproprisanog zemljišta:
+dio katastarske parcele broj: 652/9 po kulturi livada 3. klase i dio katastarske parcele broj:
+652/10 po kulturi livada 3. klase i kuća i zgrada, obje iz PL 361 u KO Podbišće u Mojkovcu sopstvenik-posjednik Vuksan Mrdović u obimu prava 1/1 u ukupnoj površini od 163 m2 prema Nalazu vještaka geodetske struke Zdravka Milosavljevića iz Bijelog Polja od 20. 11. 2023. godine, će postati svojina države Crne Gore, subjekt raspolaganja Opština Mojkovac, pri čemu se na ime naknade za prethodno navedeno zemljište Vuksanu Mrdoviću daje u svojinu katastarska parcela broj: 659/2 po kulturi šuma 6. klase, površine 123 m2 iz PL 134 u KO Podbišće u Mojkovcu, na kojoj je sada upisana kao sopstvenik-posjednik država Crna Gora, subjekt raspolaganja Opština Mojkovac uz obavezu ostvarivanja javnog interesa - privođenja namjeni.
