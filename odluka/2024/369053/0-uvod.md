@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 02/18, 34/19, 38/20, 50/22, 84/22), člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Službeni list Crne Gore - Opštinski propisi", br. 19/18), a u vezi Zaključka kojim se Vladi Crne Gore predlažu mjere i preporuke u cilju poboljšanja kvaliteta vazduha na području opštine Bijelo Polje ("Službeni list Crne Gore - Opštinski propisi", br. 10/23), Skupština opštine Bijelo Polje na sjednici održanoj dana 22.04.2024. godine, donijela je
+ODLUKU
+o izmjenama Odluke o nabavci prečišćivača vazduha u objektima javne namjene na području opštine Bijelo Polje
