@@ -1,0 +1,4 @@
+Na osnovu člana 14 Zakona o eksproprijaciji ("Službeni list RCG", br. 55/00, 12/02, 28/06 i "Službeni list CG", br. 21/08, 30/17 i 75/18), Vlada Crne Gore, na sjednici od 18. aprila 2024. godine, donijela je
+ODLUKU O UTVRĐIVANJU JAVNOG INTERESA ZA NEPOTPUNU EKSPROPRIJACIJU
+NEPOKRETNOSTI RADI POSTAVLJANJA 10 KV KABLOVSKOG VODA OD "TS 35/10 KV KUK" DO "NDTS 10/0,4 KV 2X1000 KVA KUK" RADI NAPAJANJA ŽIČARE KOTOR -
+LOVĆEN
