@@ -1,0 +1,2 @@
+# Član 1
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti u zahvatu KO Smrčje (Opština Kolašin), KO Lubnice (Opština Berane) i KO Zabrđe II (Opština Kolašin), na dijelu katastarske parcele broj 1814 KO Lubnice, u naravi "pašnjak 7. klase", upisana u Listu nepokretnosti 563 KO Lubnice, opština Berane, kao susvojina fizičkih lica Raković (Radoslav) Danilo, Raković (Radoslav) Nikola i Raković (Radonja) Rade, u obimu za nepotpunu eksproprijaciju od 34m2.
