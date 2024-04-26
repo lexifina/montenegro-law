@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se standardni operativni postupci u skladu sa kojima organ državne uprave nadležan za unutrašnje poslove preko jedinstvenog operativno komunikacionog centra 112 (u daljem tekstu: OKC 112) prima pozive u vezi sa neposrednom prijetnjom od rizika i nastanka rizika, hitno obavještava nadležne državne organe, organe državne uprave i organe jedinice lokalne samouprave (u daljem tekstu: opština) i druge učesnike zaštite i spašavanja i koordinira djelovanje po pozivu u toku trajanja vanrednog događaja.

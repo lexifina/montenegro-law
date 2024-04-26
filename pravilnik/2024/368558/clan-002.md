@@ -1,0 +1,2 @@
+# Član 2
+Operativni postupci, u smislu ovog pravilnika, predstavljaju aktivnosti koje sprovodi organizaciona jedinica organa državne uprave nadležnog za unutrašnje poslove koja vrši poslove zaštite i spašavanja (u daljem tekstu: Direktorat za zaštitu i spašavanje) i koje se odnose na komunikaciju, koordinaciju, saradnju i razmjenu podataka/informacija sa jednim ili više subjekata sistema zaštite i spašavanja.
