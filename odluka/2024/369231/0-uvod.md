@@ -1,0 +1,2 @@
+Na osnovu člana 21 stav 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 2/18, 66/19 i 140/22), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19 i 38/20 i 84/22), člana 73 stav 1 tačka 33 Statuta Prijestonice ("Službeni list Crne Gore - Оpštinski propisi", br.49/18 i 17/21), Skupština Prijestonice Cetinje, na sjednici održanoj dana 26.04.2024. godine, donijela je
+ODLUKU
