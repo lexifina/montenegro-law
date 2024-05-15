@@ -1,0 +1,2 @@
+Na osnovu člana 10 Zakona o teritorijalnoj organizaciji Crne Gore ("Službeni list Crne Gore", br: 54/11, 26/12, 27/13, 62/13, 12/14,03/16, 31/17, 86/18, 03/20 i 92/22),člana 9 stav 2 Zakona o spomen obelježjima ("Službeni list Crne Gore" br: 40/08, 40/11 i 2/17) i člana 40 stav 1 tačka 30 Statuta opštine Pljevlja ("Sl. list Crne Gore - Оpštinski propisi", br. 46/18), Skupština opštine Pljevlja na sjednici održanoj dana: 19., 22. i 25.04.2024. godine, donijela je:
+ODLUKU
