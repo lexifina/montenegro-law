@@ -1,0 +1,5 @@
+# Član 9
+Organ lokalne uprave nadležan za oblast socijalne zaštite vrši dva puta godišnje reviziju prava na subvenciju na osnovu evidencije iz člana 7 ove Odluke, kao i na osnovu drugih javnih evidencija i registara, kao i reviziju na osnovu podataka iz člana 5 stav 2 ove odluke koje dostavljaju korisnici subvencije.
+U slučaju da se na osnovu izvršene revizije shodno evidenciji iz člana 7 ove Odluke, kao i na osnovu drugih javnih evidencija i registara, utvrdi da je nastupio prestanak osnova po koje je utvrđeno pravo na subvenciju, organ lokalne uprave nadležan za oblast socijalne zaštite donosi rješenje o prestanku tog prava.
+Ako je korisnik prava na subvenciju ostvarivao to pravo i nakon prestanka osnova, bez obavještavanja nadležnog organa u smislu člana 5 stav 2 ove odluke, dužan je da izvrši povraćaj sredstava u roku od sedam dana od dana donošenja rješenja kojim je utvrđen prestanak prava i obaveza povraćaja sredstava.
+Rješenje iz stava 3 ovog člana predstavlja izvršnu ispravu u izvršnom postupku u skladu sa zakonom kojim se uređuje izvršenje i obezbjeđenje.
