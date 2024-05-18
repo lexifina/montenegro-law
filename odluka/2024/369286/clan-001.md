@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom utvrđuje se izgradnja lokalnog objekta od opšteg interesa i to - izvođenje radova na izgradnji infrastrukture za atmosfersku kanalizaciju, u zahvatu Izmjena i dopuna Detaljnog urbanističkog plana "Radovići" ("Službeni list Crne Gore - Opštinski propisi", br. 32/11), Državne studije lokacije »Dio Sektora 27 i Sektor 28« ("Službeni list Crne Gore", br. 7/2010) i PUP- a Tivta do 2020.godine ("Službeni list Crne Gore - Opštinski propisi", br. 24/10), katastarske opštine Radovići, Nikovići i Milovići.
