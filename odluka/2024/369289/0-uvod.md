@@ -1,0 +1,2 @@
+Na osnovu člana 223 stav 1 Zakona o planiranju postora i izgradnji objekata ("Službeni list Crne Gore", broj 64/17, 44/18, 63/18, 82/20, 86/22 i 04/23), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 35 stav 1 alineja 2 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 09/20), Skupštinа opštine Tivat, nа sјеdnici оdržаnој 28.04.2024. gоdinе, dоniјеlа je:
+ODLUKU

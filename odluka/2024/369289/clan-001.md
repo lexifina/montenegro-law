@@ -1,0 +1,3 @@
+# Član 1
+## o izmjenama i dopunama Odluke o izgradnji pomoćnih objekata na teritoriji opštine Tivat
+U Odluci o izgradnji pomoćnih objekata na teritoriji opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", broj 25/15, 28/16, 25/22 i 32/23) u članu 1 dodaje se stav 2 koji glasi: "Uslovi za postavljanje pomoćnih objekata u skladu sa odredbama ove Odluke primjenjuju se ukoliko se pomoćni objekat postavlja, odnosno gradi na prostoru za koji nije donijet plan detaljne razrade ili ako se pomoćni objekat postavlja odnosno gradi na prostoru za koji planom detaljne razrade nijesu precizno utvrđeni uslovi postavljanja, odnosno građenja."
