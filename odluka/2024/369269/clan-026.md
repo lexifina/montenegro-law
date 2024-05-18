@@ -1,0 +1,2 @@
+# Član 26
+Ukoliko ukupan iznos podnijetih zahtjeva za određena podsticajna sredstva prevazilazi budžetom planirani iznos sredstava, proporcionalno se smanjuje jedinični podsticajni iznos, a ukoliko za određena podsticajna sredstva nema dovoljno zahtjeva preostala planirana sredstva mogu se preusmjeriti za drugu podsticajnu mjeru o čemu odlučuje nadležni organ lokalne uprave na osnovu pristiglih zahtjeva.

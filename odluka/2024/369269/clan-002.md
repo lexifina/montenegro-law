@@ -1,0 +1,2 @@
+# Član 2
+Podsticaji obuhvataju finansijsku podršku aktivnostima koji se odnose na investicije u poljoprivredi u svrhu: poboljšanja konkurentnosti i kvaliteta poljoprivredne proizvodnje u opštini, unapređenja životne sredine i ruralnog okruženja opštine, usmjeravanja proizvođača tržišnim uslovima i standardima, povećanja poljoprivrednih površina, pripreme i promovisanje lokalnih inicijativa u sferi poljoprivrede i prerade poljoprivrednih proizvoda i kvalitetnijeg života u ruralnim oblastima.
