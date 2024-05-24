@@ -1,0 +1,8 @@
+Na osnovu člana 82 stav 1 tač. 3 i 8 Ustava Crne Gore i člana 4 stav 1 Zakona o upotrebi jedinica Vojske Crne Gore u međunarodnim snagama i učešću pripadnika operativne jedinice za zaštitu i spašavanje, policije i zaposlenih u organima državne uprave u mirovnim misijama i drugim aktivnostima u inostranstvu ("Službeni list CG", br. 61/08, 31/17, 34/17 i 46/19), Skupština Crne Gore 28. saziva, na Petoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2024. godini, dana 13. maja 2024. godine donijela je
+ODLUKU
+O UPUĆIVANJU PRIPADNIKA VOJSKE CRNE GORE U MISIJU UJEDINJENIH
+NACIJA NA KIPRU (UNITED NATIONS PEACEKEEPING FORCE IN CYPRUS- UNFICYP)
+1. U misiju Ujedinjenih nacija na Kipru (United Nations Peacekeeping Force in Cyprus - UNFICYP) upućuju se do tri pripadnika Vojske Crne Gore, uz mogućnost rotacije.
+2. Ministarstvo odbrane odrediće pripadnike Vojske Crne Gore iz tačke 1 ove odluke, utvrditi trajanje rotacije - smjene, izvršiti pripremu, obuku i opremanje, pratiti i koordinisati angažovanje u sastavu misije Ujedinjenih nacija na Kipru (United Nations Peacekeeping Force in Cyprus - UNFICYP), u skladu sa zakonom.
+3. Savjet za odbranu i bezbjednost utvrdiće pravila angažovanja i nacionalna ograničenja pripadnika Vojske Crne Gore za vrijeme učešća u sastavu misije Ujedinjenih nacija na Kipru (United Nations Peacekeeping Force in Cyprus - UNFICYP).
+4. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
