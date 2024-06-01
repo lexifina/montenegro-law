@@ -1,0 +1,3 @@
+# Član 1
+## o ustanovljenju prava stvarne službenosti polaganja elektroenergetskog kablovskog voda u KO Novi Bar
+Opština Bar, kao nosilac prava raspolaganja i prava korišćenja, daje pravnom licu, "Crnogorski elekotrodistributivni sistem" d.o.o. Podgorica, saglasnost za ustanovljenje prava stvarne službenosti, na neodređeno vrijeme i to na dijelu katastarske parcele broj 4277, po kulturi - nekategorisani putevi, u površini od 8 m2, upisane u listu nepokretnosti broj 1154 KO Novi Bar, a sve prednje radi ustanovljenja prava stvarne službenosti polaganja elektroenergetskog kablovskog voda u cilju priključenja planiranog objekta distributivne mreže u KO Novi Bar, trafostanice NDTS 10/0,4 kV 1x1000 kVA "Mandarići" sa uklapanjem u VN i NN mrežu.

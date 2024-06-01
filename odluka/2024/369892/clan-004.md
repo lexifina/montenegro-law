@@ -1,0 +1,2 @@
+# Član 4
+Ovlašćuje se predsjednik Opštine ili lice koje isti ovlasti, da nakon stupanja na snagu ove Odluke, sa "Crnogorski elekotrodistributivni sistem" d.o.o. Podgorica zaključi Ugovor o ustanovljenju stvarne službenosti na zemljištu iz člana 1 iste.
