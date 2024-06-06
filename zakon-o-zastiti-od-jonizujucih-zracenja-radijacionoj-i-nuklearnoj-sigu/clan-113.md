@@ -1,0 +1,6 @@
+# Član 113
+## Sredstva i oprema lične zaštite na radu i informacije o opremi za rad
+Prilikom obavljanja djelatnosti i/ili aktivnosti u oblasti jonizujućih zračenja moraju se koristiti sredstva i oprema lične zaštite na radu i sprovoditi mjere zaštite.
+Podnosilac zahtjeva za izdavanje rješenja o registraciji, licenci i dozvola odnosno nosilac rješenja o registraciji, licenci i dozvola dužan je da prilikom nabavke opreme za rad koja sadrži radioaktivne izvore ili generator zračenja pribavi adekvatne informacije o potencijalnim radiološkim opasnostima od opreme i njenoj pravilnoj upotrebi, testiranju i održavanju, kao i dokaze kojima se potvrđuje da dizajn opreme omogućava ograničavanje izlaganja na što je moguće niži nivo.
+Podnosilac zahtjeva iz stava 2 ovog člana, odnosno nosilac rješenja o registraciji, licenci i dozvola dužan je da licima iz člana 114 st. 1, 2 i 4 ovog zakona i ako je primjenjivo stranim vanjskim radnicima obezbijedi potrebna sredstva i opremu lične zaštite na radu.
+Potrebna sredstva i opremu lične zaštite na radu i uslove koje treba da ispunjavaju sredstva i oprema propisuje Ministarstvo, uz saglasnost organa državne uprave nadležnog za ekonomiju. XI. USLOVI ZA STRUČNO OSPOSOBLJAVANJE I INFORMISANJE O ZAŠTITI OD JONIZUJUĆIH ZRAČENJA

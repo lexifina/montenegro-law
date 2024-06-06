@@ -1,0 +1,4 @@
+# Član 121
+## Zaštita izloženih lica tokom trudnoće i dojenja
+Nosioci rješenja o registraciji, licence ili dozvole i poslodavac vanjskih radnika dužni su da upozore profesionalno izloženu radnicu, vanjsku izloženu radnicu i osobu koja se školuje ili obučava za rad sa izvorima jonizujućih zračenja, na obavezu ranog obavještavanja o trudnoći, zbog rizika izlaganja ploda jonizujućem zračenju i u slučaju namjere dojenja zbog rizika izlaganja dojenčeta jonizujućem zračenju usljed unošenja radionuklida ili radioaktivne kontaminacije tijela.
+Nosioci rješenja o registraciji, licence ili dozvole i poslodavac vanjskih radnika, dužni su da nakon obavještenja o trudnoći obezbijede uslove rada da ekvivalentna doza za plod bude toliko niska koliko je to razumno moguće postići sa minimalnom vjerovatnoćom da ekvivalentna doza za plod do kraja trudnoće dostigne najviše 1 mSv.

@@ -1,0 +1,7 @@
+# Član 119
+## Preporučeno dozno ograničenje
+Nosilac rješenja o registraciji, licence ili dozvole dužan je da za profesionalno izložena lica i vanjske radnike u dogovoru sa poslodavcem vanjskih radnika, uspostavi preporučeno dozno ograničenje, koje je predložio i koje je odobreno u postupku izdavanja rješenja o registraciji, licence ili dozvole.
+Nosioci rješenja o registraciji, licence ili dozvole dužni su da djelatnost i/ili aktivnost sa primjenom jonizujućih zračenja obavljaju na način da izlaganje profesionalno izloženih lica i izloženih vanjskih radnika bude ispod preporučenog doznog ograničenja.
+Preporučeno dozno ograničenje za izlaganje stanovništva od određenog izvora jonizujućeg zračenja koji se koristi u planiranim situacijama izlaganja je obavezno, osim u slučajevima kada se mogu izuzeti opravdane djelatnosti i/ili aktivnosti koje koriste medicinsku radiološku opremu pri namjernom izlaganju jonizujućem zračenju u nemedicinske svrhe (nemedicinsko izlaganje).
+Preporučeno dozno ograničenje za medicinsko izlaganje primjenom izvora jonizujućih zračenja uspostavlja se radi zaštite izloženih lica koja dobrovoljno učestvuju u medicinskim izlaganjima koji su dio biomedicinskih istraživanja, kao i njegovatelja i/ili pomagača koji ne očekuju direktnu medicinsku korist.
+Način izrade preporučenih doznih ograničenja za pojedinog stanovnika, lica koja dobrovoljno učestvuju u medicinskim izlaganjima koji su dio biomedicinskih istraživanja i njegovatelja i/ili pomagača propisuje Ministarstvo.

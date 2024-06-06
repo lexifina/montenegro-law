@@ -1,0 +1,8 @@
+# Član 141
+## Sprečavanje prodora radona u zatvoreni novi boravišni prostor, radni prostor i javni prostor
+Prije početka korišćenja novog objekta za boravak, novog objekta sa javnim prostorom i novog objekta sa radnim prostorom investitor je dužan da izvrši kontrolna mjerenja koncentracije aktivnosti radona i sprovede mjere smanjenja koncentracije radona ako nijesu ispunjeni propisani tehnički zahtjevi u pogledu prisustva radona unutar objekta.
+Mjerenja koncentracije aktivnosti radona vrše se u prostorijama objekta iz stava 1 ovog člana koje se nalaze na prizemlju i ispod nivoa tla.
+Troškove sprovođenja mjerenja i mogućih mjera smanjenja koncentracije radona snosi investitor.
+Ako mjerenja iz stava 1 ovog člana pokažu da je koncentracija aktivnosti radona i nakon sprovedenih mjera smanjenja koncentracije radona veća od 150 Bq/m3 u javnim objektima i radnim prostorima, investitor je dužan da buduće vlasnike tih objekata, prije prodaje i početka njihovog korišćenja, obavijesti radi planiranja upotrebe tih objekata u skladu sa čl. 66, 138 i 139 ovog zakona.
+Ako mjerenja iz stava 1 ovog člana u boravišnim prostorima pokažu da je koncentracija aktivnosti radona i nakon sprovedenih preventivnih i mogućih mjera smanjenja koncentracije radona i dalje veća od 150 Bq/m3 investitor je dužan da buduće vlasnike boravišnih prostora, prije prodaje prostora i početka njihovog korišćenja, blagovremeno obavijesti o koncentraciji radona.
+Ako budući vlasnici prostora iz stava 5 ovog člana žele da izdaju ili prodaju boravišni prostor, dužni su da buduće zakupce i/ili vlasnike tih prostora informišu o koncentraciji aktivnosti radona u tom prostoru.

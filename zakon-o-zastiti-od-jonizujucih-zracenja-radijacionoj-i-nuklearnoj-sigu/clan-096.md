@@ -1,0 +1,10 @@
+# Član 96
+## Potvrda o prijemu zahtjeva i zahtjeva za dodatnim informacijama
+Organ uprave provjerava da li je nadležna institucija države odredišta ili države tranzita, provjerila da li je zahtjev iz člana 94 stav 1 ovog zakona popunjen na propisan način, u roku od 20 dana od dana od dana prijema zahtjeva.
+Ako su zahtjevi iz stava 1 ovog člana propisno ispunjeni organ uprave pribavlja od nadležne institucije države odredišta potvrdu o prijemu zahtjeva i obavještenje da je ostalim nadležnim institucijama zemalja koje učestvuju u pošiljci poslata kopija o prijemu zahtjeva, najkasnije deset dana od dana isteka roka iz stava 1 ovog člana.
+Ako je po mišljenju nadležnih institucija država koje učestvuju u pošiljci potrebno dopuniti zahtjev iz stava 1 ovog člana, nadležne institucije o tome obavještavaju organ uprave slanjem zahtjeva za dodatnim informacijama koji se podnosi prije isteka roka iz stava 1 ovog člana, o čemu organ uprave obavještava podnosioca zahtjeva.
+U slučaju iz stava 3 ovog člana, podnosilac zahtjeva bez odlaganja, organu uprave dostavlja dodatne informacije na zahtjevu iz stava 1 ovog člana.
+Organ uprave dostavlja dodatne informacije iz stava 4 ovog člana nadležnim institucijama zemalja koje učestvuju u pošiljci na dopunjenom zahtjevu iz stava 1 ovog člana koji se podnosi prije isteka roka iz stava 1 ovog člana.
+Nakon dostavljanja traženih dodatnih informacija organ uprave pribavlja od nadležne institucije države odredišta potvrdu o prijemu tih informacija i šalje kopiju potvrde ostalim nadležnim institucijama država koje učestvuju u pošiljci, u roku do deset dana od dana isteka roka iz stava 1 ovog člana.
+Rok za izdavanje potvrda, obavještenja i slanja dodatnih informacija može biti kraći na osnovu dogovora organa uprave, nadležne institucije država odredišta i država tranzita.
+Obrazac potvrde o prijemu zahtjeva za izdavanje odobrenja za pošiljku radioaktivnog otpada, potvrde o prijemu zahtjeva za izdavanje odobrenja za pošiljku istrošenog goriva i zahtjeva za dodatnim informacijama propisuje Ministarstvo.
