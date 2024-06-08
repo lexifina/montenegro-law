@@ -1,0 +1,73 @@
+Na osnovu člana 30 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", br. 64/17, 44/18, 63/18, 82/20, 86/22 i 4/23), Vlada Crne Gore, na sjednici od 17. maja 2024. godine, donijela je
+ODLUKU
+O IZMJENI ODLUKE O IMENOVANJU SAVJETA ZA REVIZIJU PLANSKIH
+DOKUMENATA
+1. U Odluci o imenovanju Savjeta za reviziju planskih dokumenata ("Službeni list CG", br. 112/22, 50/23 i 89/23) u tačka 1 mijenja se i glasi:
+"1) prof. dr Svetislav G. Popović, dipl. ing. arh., član;
+2) prof. dr Svetlana Perović, dipl. ing. arh., članica;
+3) prof. dr Veljko Radulović, dipl. ing. arh., član;
+4) dr Sonja Radović Jelovac, dipl. ing. arh., članica;
+5) Aleksandra Tošić Jokić, dipl. ing. arh., članica;
+6) Dragana Aćimović, dipl. ing. arh., članica;
+7) Ksenija Vukmanović, dipl. ing. arh., članica;
+8) Ranko Kovačević, dipl. ing. arh, član;
+9) Jelena Bajić Šestović, dipl. ing. arh., članica;
+10) Dragana Radulović, dipl. ing. arh., članica;
+11) Ana Džudović, dipl. ing. arh., članica;
+12) Nebojša Adžić, dipl. ing. arh., član;
+13) Tamara Vučević, dipl. ing. arh., članica;
+14) Budislava Kuč, dipl. ing. arh., članica;
+15) Jasna Tičić, dipl. ing. arh., članica;
+16) Semir Bučan, dipl.ing. arh., član;
+17) dr Biljana Ivanović, dipl. ing. građ., članica;
+18) Oliver Marković, dipl. ing. građ., član;
+19) Simeun Matović, dipl. ing. građ., član;
+20) Ivan Ševaljević, dipl. ing. građ., član;
+21) Vasilije Gazivoda, dipl.ing.građ.,član;
+22) mr Dragoljub Marković, dipl. prostorni planer, član;
+23) Svetlana Jovanović, dipl. prostorni planer, članica;
+24) Mirjana Nikolić, dipl. prostorni planer, članica;
+25) Ljiljana Đondović, dipl. prostorni planer, članica;
+26) Branka Gogić, dipl. prostorni planer, članica;
+27) Željko Božović, dipl. prostorni planer, član;
+28) Miljan Barović, dipl. prostorni planer, član;
+29) dr Milić Čurović, dipl. ing. šum., član;
+30) mr Slobodan Stijepović, dipl. ing. šum., član;
+31) dr Mirko Knežević, dipl. ing. polj., član;
+32) dr Miroslav Čizmović, dipl. ing. polj., član;
+33) Milutin Baturan, dipl. ing. geod., član;
+34) Jelena Pasinović, dipl. ing. geod., članica;
+35) Ana Vulanović, dipl. ing. geod., članica;
+36) Ranko Radulović, dipl. ing. el., član;
+37) Milanko Džuver, dipl. ing. el., član;
+38) Vlatko Daković, dipl. ing. el., član;
+39) Nikola Spahić, dipl. ing. građ., član;
+40) Milorad Janković, dipl. ing. grad., član;
+41) Zdenka Ivanović, dipl. ing. građ., članica;
+42) Olivera Doklestić, dipl. ing. građ., članica;
+43) Goran Jelić, dipl. ing. građ., član;
+44) Aleksandar Laković, dipl. ing. građ., član;
+45) Vesna Jovović, dipl. ing. pejz. arh., članica;
+46) Snežana Laban, dipl. ing. pejz. arh., članica;
+47) Danica Davidović, dipl. ing. pejz. arh, članica;
+48) Suzana Crnovršanin, dipl. ing. arh., predstavnica opštine Bar, članica;
+49) Sonja Vuković, dipl. ing. arh., predstavnica opština Berane, Mojkovac i Petnjica, članica;
+50) Aleksandra Bošković, dipl. ing. grad, predstavnica opštine Bijelo Polje, članica;
+51) Mihailo Kapisoda, dipl. pravnik, predstavnik opštine Budva, član;
+52) Vasilije R. Otašević, dipl. ing. arh., predstavnik opštine Danilovgrad, član;
+53) Vladislav Velaš, dipl. ing. geod., predstavnik Opštine Herceg Novi, član;
+54) Ljiljana Rakočević, dipl. ing. grad, predstavnica opštine Kolašin, članica;
+55) Dušanka Petrović, dipl. ing. grad, predstavnica opštine Kotor, članica;
+56) Mladen Vujović, dipl. ing. arh., predstavnik opštine Nikšić, član;
+57) Marija Mrvaljević, dipl. ing. arh., predstavnica Prijestonice Cetinje, članica;
+58) Radmila Maljević, dipl. ing. saobraćaja, predstavnica Glavnog grada Podgorice, članica;
+59) Harun Redžić, dipl. ing. građ., predstavnik Opština Gusinje i Plav, član;
+60) Snežana Vujović, dipl. ing. arh., predstavnica opštine Plužine, članica;
+61) Mira Čolović, dipl. ing. grad., predstavnica opštine Pljevlja, članica;
+62) Nezerija Kurtagić, dipl. ing. grad., predstavnica opštine Rožaje, članica;
+63) Jasmina Konjević, dipl. ing. arh., predstavnica opštine Tivat, članica;
+64) Mehmet Tafica, dipl. ing. grad., predstavnik opština Ulcinj i Tuzi, član;
+65) Jagoš Tomić, dipl. ing. geod., predstavnik opštine Šavnik, član;
+66) Sava Zeković, dipl. ing. grad., predstavnik opštine Žabljak, član;
+67) Milanka Baljević, dipl. ing. hemijske tehn.;
+68) Slavko Đukić, dipl. ing. grad., predstavnik opštine Andrijevica, član." 2. Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom listu Crne Gore".
