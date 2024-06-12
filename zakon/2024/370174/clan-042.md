@@ -1,0 +1,4 @@
+# Član 42
+## Dostavljanje odluke
+Odluka iz člana 41 stav 2 ovog zakona dostavlja se javnom funkcioneru, podnosiocu inicijative, kao i organu vlasti u kojem javni funkcioner vrši javnu funkciju i organu nadležnom za izbor, imenovanje, odnosno postavljenje javnog funkcionera kad ti organi nijesu podnosioci inicijative, najkasnije u roku od pet dana od dana donošenja odluke.
+Odluka iz člana 41 stav 2 ovog zakona objavljuje se na internet stranici Agencije, pri čemu se u odluci kojom se utvrđuje da javni funkcioner nije povrijedio odredbe ovog zakona koje se odnose na sprečavanje sukoba interesa u vršenju javnih funkcija, ograničenja u vršenju javnih funkcija, poklone, sponzorstva i donacije i izvještaje o prihodima i imovini javnih funkcionera ne objavljuje njegovo ime i prezime i funkcija bez saglasnosti javnog funkcionera na koga se odluka odnosi.

@@ -1,0 +1,4 @@
+# Član 52
+## Zaštita povjerljivosti
+Lice, odnosno organizaciona jedinica iz člana 55 st. 1 i 2 ovog zakona, Agencija, nadležni organ iz člana 57 stav 6 ovog zakona, zviždačev pomagač, povezano lice sa zviždačem i drugo lice koje učestvuje u postupku po prijavi zviždača dužno je da štiti podatke koje sazna iz prijave i ne smije ih koristiti ili otkrivati u druge svrhe osim one koja je potrebna za dalje postupanje po toj prijavi.
+Ako prijava iz člana 48 ovog zakona sadrži tajne podatke, podatke koji predstavljaju poslovnu tajnu, podatke koji se odnose na tajnost zasijedanja sudskih vijeća, kao i tajne podatke u skladu sa pravilima krivičnog postupka, sa tim podacima postupaće se u skladu sa zakonima kojima se uređuje tajnost podataka, poslovna tajna u odgovarajućoj djelatnosti i krivični postupak.
