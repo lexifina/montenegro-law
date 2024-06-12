@@ -1,0 +1,5 @@
+# Član 2
+## Definicija lobiranja
+Lobiranje je djelatnost kojom se preduzimaju aktivnosti u cilju vršenja uticaja na organe zakonodavne i izvršne vlasti na državnom, odnosno lokalnom nivou, organe državne uprave, nezavisna tijela, regulatorna tijela, javne ustanove i druga pravna lica koja vrše javna ovlašćenja, odnosno djelatnosti od javnog interesa ili su u državnom vlasništvu (u daljem tekstu: organ vlasti) u postupku donošenja zakona, drugih propisa i akata iz nadležnosti tih organa vlasti, radi ostvarivanja interesa naručioca lobiranja, u skladu sa zakonom.
+Akti iz stava 1 ovog člana ne obuhvataju akte koji mogu biti predmet u sudskom i upravnom postupku, postupku koji se sprovodi u skladu sa propisima koji uređuju oblast javnih nabavki ili drugom postupku u kojem se odlučuje o pravima i obavezama pojedinaca.
+Državno vlasništvo, u smislu ovog zakona, je svako učešće u privrednom društvu u kojem država ili Glavni grad, Prijestonica, odnosno opština (u daljem tekstu: jedinica lokalne samouprave) imaju najmanje 33% udjela u vlasničkim pravima.
