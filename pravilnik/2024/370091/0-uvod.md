@@ -1,0 +1,2 @@
+Na osnovu člana 14 stav 1 tačka 9 Zakona o elektronskim medijima ("Sl. list CG", br. 46/10, 40/11, 53/11, 6/13, 55/16, 92/17 i 82/20) i člana 36 tačka 9 Statuta Agencije za elektronske medije ("Sl. list CG", br. 46/22), Savjet Agencije za elektronske medije, na sjednici održanoj 31.05.2024. godine, donio je
+P R A V I L N I K O IZMJENAMA I DOPUNAMA PRAVILNIKA O PROGRAMSKIM STANDARDIMA U ELEKTRONSKIM MEDIJIMA
