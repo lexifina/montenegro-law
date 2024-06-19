@@ -1,0 +1,3 @@
+# Član 29
+Zaposlenom za čijim je radom prestala potreba, a nije mu obezbeđeno nijedno od prava utvrđenih zakonom, poslodavac je dužan da isplati otpremninu u visini od najmanje 65% njegove mjesečne prosječne zarade bez poreza i doprinosa u prethodnom polugodištu za svaku godinu rada kod tog poslodavca, odnosno 65% mjesečne prosječne zarade bez poreza i doprinosa u Crnoj Gori, ako je to povoljnije za zaposlenog.
+Kolektivnim ugovorom kod poslodavca može se utvrditi veća visina otpremnine od visine otpremnine utvrđene u st. 1 ovog člana. Poslodavac u smislu ovog člana je poslodavac kod kojeg zaposleni ostvaruje pravo na otpremninu.
