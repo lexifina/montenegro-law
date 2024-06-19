@@ -1,0 +1,13 @@
+# Član 179
+## Postupanje i odlučivanje u slučaju povrede zakona
+Postupak u kojem se odlučuje da li postoji povreda ovog zakona i izriču mjere u skladu sa ovim zakonom pokreće Agencija po službenoj dužnosti, na osnovu sopstvenih saznanja ili prigovora fizičkog ili pravnog lica.
+Postupak iz stava 1 ovog člana vodi direktor Agencije ili lice koje on ovlasti.
+O pokretanju postupka iz stava 1 ovog člana Agencija obavještava pružaoca usluge protiv koga je pokrenut postupak.
+Agencija je dužna da, po službenoj dužnosti, pribavi podatke i obavještenja o činjenicama koje su neophodne za vođenje postupka i odlučivanje, a nalaze se u posjedu pružaoca usluge protiv koga je pokrenut postupak, odnosno u posjedu organa državne uprave, organa jedinice lokalne samouprave, odnosno pravnih ili fizičkih lica.
+Lica iz stava 4 ovog člana dužna su da, u roku koji ne može biti duži od sedam dana i na način koji odredi Agencija, dostave tražene podatke i obavještenja, odnosno stave na uvid traženu dokumentaciju u skladu sa ovim zakonom.
+Ako lica iz stava 4 ovog člana ne postupe u roku i na način iz stava 5 ovog člana, dužna su da o razlozima, bez odlaganja, obavijeste Agenciju.
+Agencija je dužna da istinito i potpuno utvrdi sve činjenice koje su od važnosti za donošenje zakonite i pravične odluke, kao i da sa pažnjom ispita i utvrdi činjenice koje terete pružaoca usluge protiv koga je pokrenut postupak, kao i činjenice koje mu idu u korist.
+Prilikom izricanja upravno-nadzorne mjere Agencija će uzeti u obzir sve olakšavajuće i otežavajuće okolnosti, a naročito težinu povreda ovog zakona i njegove posljedice, stepen odgovornosti, razloge i okolnosti pod kojima je povreda zakona učinjena, ranije postupanje pružaoca usluge, njegovo postupanje poslije učinjene povrede zakona, kao i druge okolnosti koje su od značaja za izricanje mjere.
+Ako je povreda zakona učinjena u povratu ili u produženom trajanju, naročito će se uzeti u obzir da li je ranija povreda ovog zakona iste vrste kao i nova povreda, da li su obje povrede učinjene iz istih pobuda i koliko je vremena proteklo od ranije izrečene mjere.
+Povredu zakona u produženom trajanju iz stava 9 ovog člana čini više istih ili istovrsnih povreda učinjenih u vremenskoj povezanosti od strane istog pružaoca usluge, a koji predstavljaju cjelinu zbog postojanja najmanje dvije od sljedećih okolnosti: istovrsnosti predmetne povrede, istovjetnosti oštećenog, korišćenja iste situacije ili istog trajnog odnosa ili jedinstvenog umišljaja učinioca.
+Prilikom određivanja mjere Agencija će uzeti u obzir broj i strukturu ranije izrečenih upravno-nadzornih mjera prema pružaocu usluge.

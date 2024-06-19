@@ -1,0 +1,9 @@
+# Član 59
+## Obaveze pružalaca AVM usluge na zahtjev u odnosu na programske sadržaje
+Prije uključivanja određenog programskog sadržaja u katalog programskih sadržaja i početka njegove distribucije, pružalac AVM usluge na zahtjev dužan je da pribavi pisanu saglasnost imaoca autorskog prava.
+Sadržaj u okviru AVM usluge na zahtjev koji može ugroziti fizički, zdravstveni, moralni, mentalni, intelektualni, emotivni i socijalni razvoj maloljetnika, mora biti dostupan isključivo na način za koji je najmanje vjerovatno da će ga maloljetnici u uobičajenim okolnostima čuti i/ili vidjeti i uz primjenu mjera koje, pored ostalog, uključuju kategorizaciju sadržaja, alate za provjeru godine rođenja ili druge tehničke mjere.
+Sadržaj u okviru AVM usluge na zahtjev koji može ozbiljno ugroziti fizički, zdravstveni, moralni, mentalni, intelektualni, emotivni i socijalni razvoj maloljetnika, koji, pored ostalog, uključuje pornografiju ili bezrazložno prikazivanje nasilja, mora biti dostupan isključivo uz mjere najvišeg stepena tehničke zaštite (npr. korišćenje posebne šifre, potvrde identiteta ili druge tehničke mjere).
+Lični podaci maloljetnika, koje je pružalac AVM usluge na zahtjev prikupio ili na drugi način dobio u okviru primjene mjera iz st. 2 i 3 ovog člana, ne smiju se obrađivati u komercijalne svrhe (npr. za direktni marketing, izradu profila, ciljano bihevioralno oglašavanje).
+Programskim sadržajima iz stava 1 ovog člana ne mogu se, bez izričite saglasnosti imaoca prava, prekrivanjem dodavati elementi iz komercijalnih razloga, niti se oni mogu mijenjati.
+Izuzetno od stava 5 ovog člana, prekrivanjem se iz komercijalnih razloga mogu dodavati i mijenjati elementi i bez izričite saglasnosti imaoca prava u slučajevima zaštite legitimnih interesa korisnika, pružalaca AVM usluga i imalaca autorskih prava.
+Bliži način sprovođenja obaveza iz st. 2, 3 i 5 ovog člana, kao i slučajeve iz stava 6 ovog člana propisuje Savjet Agencije.

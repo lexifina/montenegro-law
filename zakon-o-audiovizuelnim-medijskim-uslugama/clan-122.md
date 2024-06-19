@@ -1,0 +1,3 @@
+# Član 122
+## Usluga platforme za razmjenu video sadržaja
+Usluga platforme za razmjenu video sadržaja je usluga čija je osnovna namjena, u cjelini ili njenog odvojivog dijela, da se široj javnosti omogući pristup i razmjena programa i/ili video sadržaja koje su kreirali korisnici, za informisanje, zabavu ili obrazovanje, za koje pružalac usluge platforme za razmjenu video sadržaja nema uredničku odgovornost, a koja se pruža posredstvom elektronskih komunikacionih mreža i čiju organizaciju utvrđuje pružalac usluge platforme za razmjenu video sadržaja, uključujući korišćenje automatskih sredstava ili algoritama, a naročito prikazivanje, označavanje i određivanje redosljeda.

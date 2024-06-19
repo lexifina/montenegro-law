@@ -1,0 +1,23 @@
+# Član 6
+## Značenje izraza
+Izrazi upotrijebljeni u ovom zakonu imaju sljedeće značenje:
+1) bezrazložno prikazivanje nasilja je emitovanje ili objavljivanje poruka, riječi i slika čiji su sadržaj ili prezentacija nasilni u mjeri koja nije opravdana u datom kontekstu;
+2) distribuciona naknada je naknada koju distributer linearnih AVM usluga naplaćuje od emitera za uključivanje njegovog radijskog ili televizijskog programa u ponudu;
+3) katalog programskih sadržaja je dokument koji sadrži pregled programskih sadržaja u okviru usluge pružaoca AVM usluge na zahtjev koji se nude pretplatniku posredstvom elektronskih komunikacionih mreža;
+4) korisnički video sadržaj je niz pokretnih slika, sa ili bez zvuka, koji čini cjelinu bez obzira na njeno trajanje, kreiran od strane korisnika usluge platforme za razmjenu video sadržaja i na istu postavljen od istog ili nekog drugog korisnika ovih platformi;
+5) lista programa je pregled radijskih i/ili televizijskih programa koji su sastavni dio ponude distributera linearnih AVM usluga koja je dostupna korisniku;
+6) maloljetnik je lice do navršenih 18 godina života;
+7) mjere uslovnog pristupa su tehnologija, uređaj ili njihov dio koji su projektovani ili prilagođeni da omoguće ili ograniče pristup zaštićenoj usluzi;
+8) multipleks je standardizovani skup digitalnih signala koji sadrži više radijskih i/ili televizijskih programa i/ili drugih podataka koji se istovremeno prenose u jednom radio frekvencijskom kanalu;
+9) naknada za retransmisiju je naknada koju emiter naplaćuje od distributera linearnih AVM usluga za uključivanje njegovog radijskog ili televizijskog programa u ponudu;
+10) oglašavanje na dijelu ekrana je komercijalna audiovizuelna komunikacija koja podrazumijeva istovremeno ili paralelno prikazivanje uredničkog i oglasnog sadržaja;
+11) operator multipleksa je distributer linearnih AVM usluga koji vrši distribuciju radijskih i/ili televizijskih programa posredstvom elektronskih komunikacionih mreža namijenjenih za digitalnu zemaljsku radio-difuziju;
+12) pretplatnik je lice koje, na osnovu korisničkog ugovora ili drugog oblika prethodne individualne autorizacije, koristi usluge pružaoca AVM usluge na zahtjev ili distributera linearnih AVM usluga i za to plaća posebnu naknadu, odnosno pretplatu;
+13) prikrivena komercijalna audiovizuelna komunikacija je predstavljanje riječima ili slikama robe, usluga, imena, zaštitnog znaka ili aktivnosti proizvođača roba ili pružaoca usluga u radijskim i/ili televizijskim programima kad je cilj takvog predstavljanja oglašavanje i moglo bi dovesti javnost u zabludu u vezi sa njegovom prirodom. Takvo se predstavljanje smatra namjernim ako je izvršeno u zamjenu za plaćanje ili za sličnu naknadu;
+14) programska osnova je dokument koji sadrži programsku strukturu radijskog ili televizijskog programa, odnosno AVM usluge na zahtjev;
+15) radijski programski sadržaj je niz zvučnih ili govornih informacija svih vrsta koji čini cjelinu bez obzira na njeno trajanje, unutar programske šeme ili kataloga ustanovljenog od strane pružaoca AVM usluge u svrhu informisanja, zabave i obrazovanja javnosti;
+16) televizija sa slobodnim pristupom podrazumijeva emitovanje programskih sadržaja, putem javnih, komercijalnih ili neprofitnih televizijskih programa, koji su dostupni javnosti bez obaveze plaćanja dodatne naknade, s tim da se dodatnom naknadom ne smatra naknada koja se plaća distributeru linearnih AVM usluga radi pristupa njegovom osnovnom paketu radijskih i/ili televizijskih programa koje distribuira;
+17) televizijski program je AVM usluga koju pružalac AVM usluge pruža za istovremeno gledanje programa na osnovu liste programa;
+18) televizijski programski sadržaj je niz pokretnih slika, sa ili bez zvuka, koji čini cjelinu bez obzira na njeno trajanje, unutar programske šeme ili kataloga ustanovljenog od strane pružaoca AVM usluge, u svrhu informisanja, zabave i obrazovanja javnosti, a uključujući, pored ostalog, dugometražne filmove, video isječke, sportske sadržaje, dječje i dramske programe;
+19) urednička odgovornost je sprovođenje kontrole nad izborom programskih sadržaja i nad njihovom hronološkom organizacijom u slučaju emitovanja televizijskog ili radijskog programa, odnosno njihovom kataloškom organizacijom u slučaju AVM usluga na zahtjev, pri čemu urednička odgovornost nužno ne podrazumijeva bilo kakvu drugu odgovornost za objavljeni programski sadržaj ili pružene usluge, ako zakonom nije drukčije određeno;
+20) uređivačka odluka je odluka koja se redovno donosi u cilju ostvarivanja uredničke odgovornosti i povezana je sa svakodnevnim pružanjem AVM usluge.

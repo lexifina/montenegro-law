@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim zakonom uređuju se prava, obaveze i odgovornosti fizičkih i pravnih lica u nadležnosti Crne Gore koja obavljaju djelatnost pružanja audiovizuelnih medijskih usluga (u daljem tekstu: AVM usluga), distribucije linearnih AVM usluga i pružanja usluga platformi za razmjenu video sadržaja, osnivanje, obaveze, odgovornost, upravljanje i finansiranje javnih emitera, sprečavanje nedozvoljene medijske koncentracije, zaštita medijskog pluralizma, status i izvori finansiranja nezavisnog regulatornog organa za oblast AVM usluga, kao i druga pitanja od značaja za oblast AVM usluga, u skladu sa potvrđenim međunarodnim ugovorima i međunarodnim standardima.

@@ -1,0 +1,6 @@
+# Član 41
+## Komercijalni emiter
+Komercijalni emiter može da obavlja djelatnost proizvodnje i emitovanja linearnih AVM usluga kao:
+1) nacionalni komercijalni emiter, ako pokriva najmanje 85% stanovništva na teritoriji koja obuhvata više od 14 jedinica lokalne samouprave (posredstvom zemaljskih radio-difuznih frekvencija i/ili elektronskih komunikacionih mreža za distribuciju linearnih AVM usluga) i više od 75% stanovništva Crne Gore sa zonom pokrivanja na cjelokupnoj teritoriji Crne Gore;
+2) regionalni komercijalni emiter, ako pokriva najmanje 85% stanovništva na teritoriji koja obuhvata od četiri do 13 jedinica lokalne samouprave koje pripadaju određenoj geografskoj regiji (posredstvom zemaljskih radio-difuznih frekvencija i/ili elektronskih komunikacionih mreža za distribuciju linearnih AVM usluga) i više od 20% stanovništva Crne Gore, sa zonom pokrivanja u više od jedne jedinice lokalne samouprave; i
+3) lokalni komercijalni emiter, ako pokriva najmanje 85% stanovništva na teritoriji jedne do tri jedinice lokalne samouprave (posredstvom zemaljskih radio-difuznih frekvencija i/ili elektronskih komunikacionih mreža za distribuciju linearnih AVM usluga) i manje od 20% stanovništva Crne Gore sa zonom pokrivanja u više od jedne jedinice lokalne samouprave.

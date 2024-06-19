@@ -1,0 +1,7 @@
+# Član 37
+## Pravo na pristup događajima od velikog interesa za javnost
+Emiter osnovan u državi članici Evropske unije ili državi potpisnici međunarodnog ugovora koji obavezuje Crnu Goru ima, za potrebe kratkih vijesti, pod jednakim uslovima, pravo na pristup događajima od velikog interesa za javnost koje, na osnovu isključivih prava, prenose emiteri koji su u nadležnosti Agencije.
+Ako je emiter osnovan u Crnoj Gori ostvario isključiva prava na prenos događaja od velikog interesa za javnost, drugi emiter osnovan u Crnoj Gori može da traži pristup tom događaju na način da mu se dopusti slobodan izbor kratkih isječaka iz prenosnog signala emitera koji je ostvario isključiva prava na prenos događaja od velikog interesa za javnost, uz označavanje njihovog izvora, osim ako to nije moguće iz praktičnih razloga.
+Emiter može, prije i umjesto pristupa prenosnom signalu u smislu stava 2 ovog člana, ostvariti pristup događajima iz st. 1 i 2 ovog člana i pristupom mjestu tih događaja radi snimanja kratkog isječka ili korišćenjem snimljenog materijala emitera koji ima isključiva prava na prenos događaja od velikog interesa za javnost.
+Kratki isječci se mogu koristiti samo za programe opštih vijesti, a u slučaju AVM usluga na zahtjev mogu se koristiti samo ako se ovaj programski sadržaj emituje odloženo u odnosu na direktan prenos istog programskog sadržaja emitera koji ima isključiva prava na prenos.
+Bliže uslove za ostvarivanje prava na pristup događajima iz st. 1 i 2 ovog člana propisuje Savjet Agencije.

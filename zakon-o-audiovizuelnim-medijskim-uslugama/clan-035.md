@@ -1,0 +1,5 @@
+# Član 35
+## Događaji od posebnog značaja za javnost
+Emiter televizijskog programa koji je u nadležnosti Agencije ne smije da koristi isključiva prava koja je ostvario, na način da znatnom dijelu javnosti u državi članici Evropske unije ili državi potpisnici međunarodnog ugovora koji obavezuje Crnu Goru uskrati mogućnost praćenja događaja koji su od posebnog značaja za javnost i koji su u skladu sa važećim propisima određeni za cjelokupan ili djelimičan direktan prenos ili, gdje je to neophodno ili primjereno iz objektivnih razloga, za cjelokupan ili djelimičan odloženi prenos na televiziji sa slobodnim pristupom.
+Emiter može da ostvari isključivo pravo prenosa događaja od posebnog značaja za javnost u Crnoj Gori ako može da obezbijedi mogućnost praćenja tog događaja putem direktnog prenosa ili odloženog prenosa na televizijskom programu sa slobodnim pristupom za najmanje 75% stanovništva u Crnoj Gori.
+Više emitera može da ostvari isključivo pravo prenosa događaja od posebnog značaja za javnost u Crnoj Gori ako programskim umrežavanjem obezbijede kvalitetan prijem televizijskog programa za najmanje 85% stanovništva u Crnoj Gori.
