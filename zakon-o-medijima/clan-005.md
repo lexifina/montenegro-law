@@ -1,0 +1,4 @@
+# Član 5
+Država garantuje pravo na slobodno osnivanje medija, nesmetan rad novinara i njihovu bezbjednost kako bi se omogućila sloboda izražavanja mišljenja, pluralizam medija, nezavisnost medija, sloboda istraživanja, prikupljanja, objavljivanja, širenja i primanja informacija, kao i zaštita dostojanstva i ličnosti.
+Mediji slobodno objavljuju informacije i mišljenja o pojavama, događajima i ličnostima poštujući Ustav, zakon i kodeks novinara Crne Gore (u daljem tekstu: Kodeks), kao i druge opšte akte kojima je propisana zaštita profesionalnih standarda.
+Sloboda medija može se ograničiti samo kad je to neophodno u interesu zaštite nacionalne bezbjednosti i teritorijalnog integriteta Crne Gore, radi sprečavanja nereda ili vršenja krivičnih djela, zaštite zdravlja i morala, zaštite ugleda ili prava drugih, sprečavanja odavanja povjerljivih informacija ili radi očuvanja autoriteta i nepristrasnosti sudstva.

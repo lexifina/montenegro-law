@@ -1,0 +1,6 @@
+# Član 46
+Osnivač medija, glavni urednik i novinar ili autor koji nije novinar neće odgovarati za štetu iz člana 45 stav 2 ovog zakona ako su postupali u skladu sa dužnom novinarskom pažnjom, odnosno ako je medijski sadržaj kojim je šteta pričinjena:
+1) vjerno prenijet iz rasprave na sjednici tijela zakonodavne, izvršne ili sudske vlasti, organa državne uprave i organa lokalne samouprave, sa javnog skupa ili je prenijet iz akata organa državne uprave, odnosno organa lokalne samouprave, javnih ustanova i drugih pravnih lica kojima su povjerena javna ovlašćenja;
+2) od javnog interesa i prenijet kao citat iz drugog medija ili objavljen unutar intervjua, osim ako pojedini djelovi citata ili intervjua sadrže očigledne uvrede ili klevete; i
+3) zasnovan na informacijama za koje su novinar i glavni urednik imali osnovani razlog da vjeruju da su potpune ili istinite, a postojao je opravdani interes javnosti da bude upoznata.
+Prilikom utvrđivanja odgovornosti lica iz stava 1 ovog člana, sud će uzeti u obzir sve okolnosti slučaja, a naročito način, oblik i vrijeme iznošenja medijskog sadržaja, razloge za hitnost objavljivanja, kao i da li bi šteta nastala i u slučaju da medijski sadržaj nije objavljen.

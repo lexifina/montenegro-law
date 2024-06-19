@@ -1,0 +1,5 @@
+# Član 3
+Mediji podrazumijevaju pružaoce usluga proizvodnje i širenja medijskog sadržaja namijenjenog neodređenom broju ljudi, koji imaju uređivačku kontrolu ili nadzor nad tim sadržajem i prate profesionalne i etičke standarde.
+Širenje medijskog sadržaja iz stava 1 ovog člana predstavlja svaki oblik njegovog emitovanja, objavljivanja ili distribucije, bez obzira na tehnološku platformu.
+Medijskim sadržajem iz stava 1 ovog člana smatra se sadržaj koji je objavljen u mediju u obliku informacije, analize, komentara, mišljenja, kao i autorskog rada u tekstualnom, audio, audiovizuelnom ili drugom obliku, sa ciljem informisanja i zadovoljavanja kulturnih, obrazovnih i drugih potreba javnosti.
+Novinarem se smatra fizičko lice koje se bavi prikupljanjem, obradom, oblikovanjem, razvrstavanjem, uređivanjem ili drugom vrstom intervencije na informacijama koje se objavljuju u medijima, a koje novinarsku djelatnost obavlja kao zaposleni ili na drugi način angažovani u mediju ili kod osnivača medija u Crnoj Gori ili inostranstvu ili koje tu djelatnost obavlja kao slobodno zanimanje.

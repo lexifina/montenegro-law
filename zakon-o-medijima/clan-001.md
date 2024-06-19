@@ -1,0 +1,2 @@
+# Član 1
+Ovim zakonom uređuju se osnovni principi slobode medija, slobode izražavanja, slobodnog osnivanja medija, transparentnosti vlasničke strukture medija, transparentnosti oglašavanja u medijima, zaštite medijskog pluralizma, prava, obaveze i odgovornosti u informisanju, posebna zaštita prava, pravo na odgovor i ispravku, čuvanje i pravo uvida u medijski zapis i druga pitanja od značaja za rad medija.

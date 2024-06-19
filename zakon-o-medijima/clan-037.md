@@ -1,0 +1,5 @@
+# Član 37
+Novinar nije dužan da otkrije izvor informacije ako se, u toku prikupljanja, uredničke obrade ili objavljivanja medijskog sadržaja, upozna sa informacijama koje bi mogle da ukažu na identitet izvora informacije.
+Izuzetno od stava 1 ovog člana, novinar je dužan da, na osnovu odluke nadležnog suda, a na zahtjev državnog tužioca, otkrije izvor informacije kad je to neophodno radi zaštite interesa nacionalne bezbjednosti, teritorijalnog integriteta i zaštite javnog zdravlja.
+Prilikom donošenja odluke iz stava 2 ovog člana, sud će posebno voditi računa o tome da li je utvrđena informacija u neposrednoj vezi sa konkretnim slučajem, da li se informacija može pribaviti iz drugih izvora i da li na zakonu zasnovan legitiman interes za otkrivanje podataka o izvoru informacije iz stava 1 ovog člana preteže u odnosu na zaštitu identiteta izvora informacije.
+Sud može, cijeneći okolnosti slučaja, isključiti javnost u toku iznošenja podataka o identitetu izvora informacije, u skladu sa zakonom.
