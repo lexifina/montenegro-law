@@ -1,0 +1,2 @@
+# Član 31
+Postupak za utvrđivanje povrede radnih obaveza zaposlenih i direktora, odnosno izvršnog direktora sprovodi se u skladu sa zakonom.
