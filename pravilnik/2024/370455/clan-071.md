@@ -1,0 +1,7 @@
+# Član 71
+## Unutrašnja kontrola i revizija
+Redovna unutrašnja kontrola i revizija: Obveznik je dužan da osigura redovnu unutrašnju kontrolu i reviziju kako bi se provjeravalo sprovođenje politika, kontrola i procedura za sprečavanje pranja novca i finansiranje terorizma. Ovo treba da bude u skladu s analizom rizika od pranja novca i finansiranja terorizma.
+Nezavisna interna revizija: Ako zakon koji reguliše djelatnost obveznika zahtijeva nezavisnu internu reviziju, obveznik je dužan da organizuje nezavisnu internu reviziju koja će ocjenjivati adekvatnost, pouzdanost i efikasnost sistema upravljanja rizikom od pranja novca i finansiranja terorizma.
+Redovna procjena: Nezavisna interna revizija obuhvata redovnu procjenu adekvatnosti, pouzdanosti i efikasnosti sistema upravljanja rizikom od pranja novca i finansiranja terorizma. Ovo je neophodno i kad obveznik procijeni da je to potrebno s obzirom na obim i prirodu njegove djelatnosti.
+Ciljevi unutrašnje kontrole i revizije: Unutrašnja kontrola i revizija se sprovode s ciljem sprječavanja, otkrivanja i ispravljanja grešaka u primjeni propisa za sprečavanje pranja novca i finansiranje terorizma. Takođe, treba da unaprijedi politike, kontrole i procedure za otkrivanje transakcija i lica u vezi s pranjem novca i finansiranjem terorizma.
+Regulacija internim aktima: Način sprovođenja unutrašnje kontrole i revizije uređuje se internim aktima obveznika, koji trebaju da budu usklađeni s relevantnim zakonodavstvom i standardima.

@@ -1,0 +1,10 @@
+# Član 54
+## vlasništvu obveznika u drugoj državi
+Obveznik je dužan da osigura da se mjere za sprečavanje i otkrivanje pranja novca i finansiranja terorizma propisane Zakonom, sprovode u istom obimu i u poslovnim jedinicama ili društvima u većinskom vlasništvu obveznika koji imaju sjedište u drugoj državi.
+Mjere treba da se primjenjuju i u drugoj državi koja je članica Evropske unije ili ima standarde ekvivalentne onim propisanim Zakonom ili pravom EU.
+Ukoliko su standardi propisani zakonodavstvom druge države isti ili viši od standarda utvrđenih Zakonom, obveznik je dužan da osigura da se u njegovim poslovnim jedinicama ili društvima sprovode odgovarajuće mjere u skladu s propisima te države.
+U slučaju da su standardi za sprovođenje mjera u drugoj državi niži od standarda utvrđenih Zakonom ili se mjere sprovode u manjem obimu, obveznik je dužan da osigura da se mjere sprovode u skladu Zakonom, u mjeri u kojoj to dopuštaju propisi te države.
+Ukoliko je propisima druge države zabranjena primjena mjera za sprečavanje i otkrivanje pranja novca i finansiranja terorizma iz Zakona, obveznik je dužan da odmah obavijesti finansijsko-obavještajnu jedinicu i Komisiju i da preduzme i druge odgovarajuće mjere radi ublažavanja rizika, u mjeri u kojoj to dopuštaju propisi te države.
+Ako Komisija ocijeni da su mjere nedovoljne, obvezniku će naložiti da preduzme određene mjere kao što su zabrana uspostavljanja poslovnih odnosa, prekid poslovnih odnosa, zabrana transakcija ili prekid poslovanja u poslovnim jedinicama ili društvima u većinskom vlasništvu obveznika u drugoj državi.
+Obveznik koji je član finansijske grupe može da razmjenjuje podatke o klijentu i transakcijama s drugim članovima grupe u Crnoj Gori, državama članicama EU ili državama sa standardima ekvivalentnim propisima, osiguravajući zaštitu podataka u skladu sa zakonima o tajnosti i zaštiti podataka.
+Razmjena podataka i informacija može da se vrši i ako postoji sumnja ili osnov sumnje da novac ili imovina potiču iz kriminalnih aktivnosti ili su predmet pranja novca ili finansiranja terorizma, osim ako finansijsko-obavještajna jedinica ograniči ili zabrani razmjenu podataka.

@@ -1,0 +1,6 @@
+# Član 50
+## Produbljene mjere poznavanja i praćenja poslovanja klijenta kod složenih i neuobičajenih transakcija
+Prikupljanje dodatnih podataka: U slučaju složenih ili neuobičajenih transakcija, obveznik mora da prikupi i provjeri dodatne podatke o djelatnosti klijenta, identifikacione podatke, prirodu poslovnog odnosa, motiv i svrhu transakcije, imovinsko stanje i porijeklo sredstava.
+Analiza podataka: Obveznik je dužan da sprovede detaljnu analizu prikupljenih podataka o složenim ili neuobičajenim transakcijama kako bi se utvrdila njihova priroda, svrha i mogući rizici. Rezultati analize moraju da budu dokumentovani u pisanom obliku, uz jasne zaključke koji ukazuju na prirodu transakcije i identifikuju eventualne rizike.
+Dostupnost rezultata analize: Obveznik je dužan da osigura dostupnost rezultata analize na zahtjev finansijsko-obavještajne jedinice ili Komisije. Rezultati analize moraju biti dostupni u odgovarajućem roku i u obliku koji omogućava njihovo lako i efikasno korišćenje od strane nadležnih tijela.
+Utvrđivanje kriterijuma: Obveznik je dužan internim aktom da utvrdi kriterijume za prepoznavanje transakcija koje zahtijevaju produbljene mjere poznavanja i praćenja poslovanja klijenta. Kriterijumi trebaju biti jasni, precizno definisani i usklađeni s važećim zakonodavstvom i standardima.
