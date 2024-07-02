@@ -1,0 +1,6 @@
+# Član 3
+## Osnovna djelatnost
+Javni medijski servis obavlja djelatnost u skladu sa zakonom, međunarodnim standardima i pravilima.
+Osnovna djelatnost Javnog medijskog servisa je proizvodnja i emitovanje, odnosno pružanje linearnih audiovizuelnih medijskih usluga (u daljem tekstu: AVM usluge), pružanje AVM usluga na zahtjev i objavljivanje medijskih sadržaja putem internetske publikacije, kojima se zadovoljavaju: demokratske, socijalne, kulturne, obrazovne i druge potrebe od javnog interesa svih segmenata crnogorskog društva, obezbjeđuje ostvarivanje prava i interesa građana i drugih subjekata u oblasti informisanja, bez obzira na njihovu političku, vjersku, kulturnu, rasnu, nacionalnu i etničku pripadnost, jezik, boju kože, pol, rod, rodni identitet, seksualnu orijentaciju i/ili interseksualne karakteristike, imovno stanje, invaliditet ili drugo lično svojstvo (u daljem tekstu: javne usluge).
+Javni medijski servis emituje televizijski i radijski program putem zemaljske mreže radio-difuznih predajnika, elektronskih komunikacionih mreža sa slobodnim pristupom, AVM usluga na zahtjev, internetske publikacije i OTT usluga.
+Promjena osnovne djelatnosti ili privatizacija Javnog medijskog servisa nije dozvoljena.
