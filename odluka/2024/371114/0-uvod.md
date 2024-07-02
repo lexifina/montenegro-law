@@ -1,0 +1,2 @@
+Na osnovu člana 41 i 42 Zakona o zaštiti i spašavanju ("Službeni list Crne Gore", br. 13/07, 5/008, 086/09, 32/11, 54/16 i 146/21), člana 27 stav 1 tačka 20 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 003/18, 34/19, 38/20, 50/22 i 84/22), članova 15 stav 1 tačka 20 i 34 stav 1 tačka 2 Statuta Opštine Zeta ("Službeni list Crne Gore - Opštinski propisi", br. 12/23), Skupština Opštine Zeta, na sjednici održanoj 20.06.2024.godine, donijela je
+ODLUKU O OBRAZOVANJU KOMISIJE ZA PROCJENU ŠTETE OD ELEMENTARNIH NEPOGODA
