@@ -1,0 +1,3 @@
+Na osnovu član 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 10 stav 1 alineja 4 i člana 14 Odluke o osnivanju Javne ustanove Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u opštini Danilovgrad ("Službeni list Crne Gore - Opštinski propisi " br. 8/17 i 43/18), člana 35 stav 1 tačka 22 Statuta Opštine Danilovgrad ("Sl. list CG - Opštinski propisi", br. 43/18), Skupština opštine Danilovgrad, na sjednici održanoj 2.7.2024. godine, donijela je
+ODLUKU
+o prestanku mandata članice i imenovanju članice Upravnog odbora Javne ustanove Centar
