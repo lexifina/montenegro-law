@@ -1,0 +1,13 @@
+# Član 3
+U članu 6 stav 1 tač. 9, 10, 24, 32 i 41 mijenjaju se i glase:
+"9) kreditna institucija je privredno društvo koje se osniva i posluje u skladu sa zakonom kojim se uređuju kreditne institucije;
+10) finansijska institucija je obveznik iz člana 4 stav 2 tač. 2 do 9 i tačka 13 al. 1 i 7 ovog zakona, uključujući njene filijale, bez obzira da li je njihovo sjedište u Crnoj Gori, državi Evropske unije ili drugoj državi;
+24) kvazi (fiktivna) banka je kreditna institucija ili finansijska institucija, odnosno druga slična institucija koja obavlja poslove ekvivalentne poslovima koje obavlja kreditna institucija ili finansijska institucija, a koja je registrovana u državi u kojoj nije poslovno prisutna, ne obavlja djelatnost, nema poslovne prostorije, zaposlene, organe upravljanja, menadžment i nije povezana sa finansijskom grupom koja podliježe nadzoru radi sprečavanja i otkrivanja pranja novca i finansiranja terorizma;
+32) posrednik u prenosu novčanih sredstava je pružalac platnih usluga koji nije pružalac platnih usluga ni platioca ni primaoca plaćanja, a koji prima i prenosi novčana sredstva u ime pružaoca platnih usluga platioca ili primaoca plaćanja ili u ime drugog posrednika u prenosu novčanih sredstava;
+41) trust, drugo lice ili sa njim izjednačeni subjekat stranog prava (treuhand, fideicomiso, fiducie i sl.) je lice koje obavlja djelatnost pružanja usluga za treća lica, a naročito:
+- osnivanje privrednih društava ili drugih pravnih lica,
+- obavljanje funkcija ili imenovanje drugog lica da obavlja funkciju povjerenika trusta osnovanog izričitom izjavom ili sličnog subjekta stranog prava, funkciju direktora ili sekretara privrednog društva, partnera u društvu ili sličnog položaja u strukturi privrednih društava, drugih pravnih lica ili aranžmana,
+- pružanje usluga sjedišta, poslovne adrese, korespondentne ili druge adrese i drugih povezanih usluga privrednom društvu ili drugom pravnom licu ili aranžmanu,
+- obavljanje funkcije ili omogućavanje drugom licu da obavlja funkciju povjerenika fonda ili sličnog subjekta stranog prava koji prima, upravlja ili dijeli imovinska sredstva za određenu namjenu, osim društva za upravljanje investicionim, odnosno penzionim fondovima,
+- obavljanje funkcije ili postavljanje drugog lica da obavlja funkciju nominalnog akcionara u ime drugog lica, osim privrednog društva čije se akcije kotiraju na regulisanom tržištu koje podliježe objavljivanju podataka u skladu sa pravom Evropske unije ili ekvivalentnim međunarodnim standardima;
+- obavljanje funkcije ili imenovanje drugog lica da upravlja trustom koji je osnovan izričitom izjavom (express trust), privrednim društvom, drugim pravnim licem ili aranžmanom;".
