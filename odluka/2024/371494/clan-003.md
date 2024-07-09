@@ -1,0 +1,2 @@
+# Član 3
+Opština Danilovgrad, kao subjekt raspolaganja poslužnog dobra daje saglasnost "TOC GRADNjA" doo Podgorica za ustanovljavanje prava službenosti radi polaganja priključnog elektro - kabla preko dijela katastarske parcele broj 751/2, evidentirane po "A" dijelu Lista nepokretnosti 283, KO Grlić, shodno Elaboratu predložene trase elektro - kabla, urađenom od strane "Geo Friends" doo Podgorica.
