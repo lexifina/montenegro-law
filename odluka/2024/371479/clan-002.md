@@ -1,0 +1,2 @@
+# Član 2
+Sastavni dio ove odluke čini Programski zadatak sa elementima urbanističko-tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa: Trafostanica NDTS 10/0,4kV 1x 1000kVA ,,Tara Retreat" sa dva priključna kablovska voda od novih 10kV stubova do nove Trafostanice u naselju Sjerogošte u Kolašinu,sa osnovnim podacima o objektu i grafičkim prikazom lokacije planiranog objekta.

@@ -1,0 +1,3 @@
+# Član 1
+## NDTS 10/0,4kV 1x 1000kVA ,,Tara Retreat" sa dva priključna kablovska voda od novih 10kV stubova do nove Trafostanice u naselju Sjerogošte u Kolašinu
+Ovom odlukom utvrđuje se lokacija sa elementima urbanističko-tehničkih uslova za izradu glavnog projekta i reviziju istog, za izgradnju lokalnog objekta od opšteg interesa: Trafostanica NDTS 10/0,4kV 1x 1000kVA ,,Tara Retreat" (kat.parcela br.33/3 KO Moračko Trebaljevo), sa dva priključna kablovska voda od novih 10kV stubova do nove Trafostanice (kat.parcele br. 33/3, 33/4, 33/5, 41/1, 41/2, 41/3, 41/4, 42/1, 42/2, 42/3 i 42/4 KO Moračko Trebaljevo) u naselju Sjerogošte u Kolašinu.
