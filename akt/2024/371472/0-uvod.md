@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18, 09/20), Skupština opštine Tivat, nakon razmatranja Informacije o realizaciji sredstava opredijeljenih za projekte nevladinih organizacija za 2023. godinu, na sjednici održanoj dana 29.06.2024. godine, donijela je
+ZAKLjUČAK o prihvatanju Informacije o realizaciji sredstava opredijeljenih za projekte nevladinih organizacija za 2023. godinu.
