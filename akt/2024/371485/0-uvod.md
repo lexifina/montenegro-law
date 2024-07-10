@@ -1,0 +1,1 @@
+Na osnovu člana 35 Statuta opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18, 09/20), Skupština opštine Tivat, nakon razmatranja Studije javnog gradskog i prigradskog prevoza putnika, na sjednici održanoj dana 29.06.2024. godine, donijela je
