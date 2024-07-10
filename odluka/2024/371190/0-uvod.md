@@ -1,0 +1,4 @@
+Na osnovu člana 38 stav 1 tačka 2, u vezi sa članom 115 stav 4 i članom 121 stav 3 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18, 034/19, 038/20, 050/22,084/22), člana 34 stav 1 tačka 2 Statuta Opštine Zeta ("Službeni list Crne Gore- Opštinski propisi" br. 012/23), u vezi sa članom 26 stav 3 i 5 Zakona o zaradama zaposlenih u javnom sektoru ("Sl. list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18, 34/19, 130/21, 146/21, 096/22, 152/22 i 113/23) i članom 27 stav 4 Uredbe o kriterijumima i bližem načinu sprovođenja provjere znanja, sposobnosti, kompetencija i vještina za rad u državnim organima ("Sl. list CG", br.50/18) Skupština Opštine Zeta, na sjednici održanoj dana 20.06.2024. godine, donijela je
+ODLUKU
+o izmjenama Odluke o visini naknade za rad istaknutih stručnjaka i stručnih lica u komisiji
+za provjeru kompetencija, znanja i sposobnosti i komisiji za provjeru znanja, sposobnosti,
