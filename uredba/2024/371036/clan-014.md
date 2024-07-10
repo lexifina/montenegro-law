@@ -1,0 +1,3 @@
+# Član 14
+U slučaju reorganizacije Generalnog sekretarijata u skladu sa Pravilnikom o unutrašnjoj organizaciji i sistematizaciji, postavljena i imenovana lica u Generalnom sekretarijatu, nakon prestanka mandata, ostvaruju prava u skladu sa Zakonom o državnim službenicima i namještenicima, kao rukovodeća lica kojima je prestao mandat.
+U slučaju iz stava 1 ovog člana, državni službenici i namještenici raspoređuju se u organizacione jedinice u skladu sa Pravilnikom o unutrašnjoj organizaciji i sistematizaciji, a državni službenici i namještenici koji ne budu raspoređeni u skladu sa tim pravilnikom, ostvaruju prava iz rada u skladu sa Zakonom o državnim službenicima i namještenicima.
