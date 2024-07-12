@@ -1,0 +1,3 @@
+# Član 3
+Naknada iz člana 1 odluke uplaćuje se u ratama na način što se :
+-prva rata u iznosu od 6.988,20€ ( što predstavlja 30% ukupnog iznosa) uplaćuje u roku od 10 (deset) dana od dana prijema odluke i to: iznos od 4.658,80€ u korist budžeta Opštine Tivat na žiro račun broj 510-7814-72 a iznos od 2.329,40€ Fondu za obeštećenje Crne Gore na žiro račun broj 832000000000021440 koji se vodi kod Centralne banke Crne Gore, što predstavlja 10% ukupnog iznosa, uz obavezu dostavljanja dokaza o izvršenoj uplati, -preostali dio naknade u ukupnom iznosu od 18.635,20€ u 36 jednakih mjesečnih rata na osnovu ugovora u korist budžeta Opštine Tivat na žiro račun broj 510-7814-72.
