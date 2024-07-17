@@ -1,0 +1,1 @@
+Na osnovu člana 35 Statuta opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18, 09/20), Skupština opštine Tivat, nakon razmatranja Informacije o radu JPU "Bambi" Tivat za 2023.godinu, na sjednici održanoj dana 17.07.2024. godine, donijela je
