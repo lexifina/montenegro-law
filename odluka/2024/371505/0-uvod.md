@@ -1,0 +1,2 @@
+Na osnovu člana 20 Zakona o poljoprivredi i ruralnom razvoju ( »Službeni list CG«, broj 56/09, 18/11, 40/11, 34/14 i 1/15) i člana 31 Statuta Opštine Tivat ( »Službeni list RCG-Opštinski propisi« br.40/04 i 26/06 i »Službeni list CG-Opštinski propisi« br. 12/11, 21/11 i 3/13) uz saglasnost Ministarstva poljoprivrede, šumarstva i vodoprivrede, broj 10-307/24-28/10 od 03.06.2024.godine, Skupština opštine Tivat na sjednici održanoj dana 29.06.2024.godine, donijela je
+ODLUKU
