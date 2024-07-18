@@ -1,0 +1,2 @@
+Na osnovnu člana 26. stav 1. i 2. i člana 29. stav 2. tačka 7. Zakona o komunalnim djelatnostima ("Službeni list CG",br.55/16,74/16,2/18,66/19,40/19 i 140/22), člana 38. stav 1. tačka 2. Zakona o lokalnoj samoupravi("Službeni list CG",BR.2/18,34/19, i 38/20), člana 58. stav 1. tačka 2. i 24. Statuta Opštine Ulcinj ("Sl.list Crne Gore-Opštinski propisi" broj 48/19), Skupština opštine Ulcinj na sjednici održanoj 13.06.2024. godine donijela je,
+ZAKLJUČAK O USVAJANJU IZVJEŠTAJA O RADU SA FINANSIJSKIM IZVJEŠTAJEM "MOŽURA" ZA 2023.GODINU.
