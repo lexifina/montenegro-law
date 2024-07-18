@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 09/20) i člana 11 Odluke o osnivanju Društva sa ograničenom odgovornošću "Biznis info centar" Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 32/23) Skupština opštine Tivat, na sjednici održanoj dana 29.06.2024. godine, donijela je
+ODLUKU
