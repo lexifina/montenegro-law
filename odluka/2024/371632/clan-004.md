@@ -1,0 +1,2 @@
+# Član 4
+Kopredsjednik Mješovitog odbora može, po potrebi, od predstavnika akademske zajednice, organa državne uprave, lokalne uprave i lokalne samouprave i predstavnika domaćih i međunarodnih organizacija i institucija koje se bave zaštitom prava manjinskih naroda i drugih manjinskih nacionalnih zajednica, tražiti podatke, objašnjenja i izvještaje u vezi sa pitanjima koja se odnose na sprovođenje Sporazuma između Crne Gore i Republike Hrvatske o zaštiti prava crnogorske manjine u Republici Hrvatskoj i hrvatske manjine u Crnoj Gori.
