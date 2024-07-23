@@ -1,0 +1,2 @@
+Na osnovu čl. 17 i 19 Uredbe o Vladi Crne Gore ("Službeni list CG", br. 80/08, 14/17, 28/18 i 63/22), a u vezi sa članom 4 st. 1 i 2 i članom 86 st. 1 i 5 Zakona o energetici ("Službeni list CG", br. 5/16, 51/17, 82/20, 29/22 i 152/22), Vlada Crne Gore, na sjednici od 4. jula 2024. godine, donijela je
+ODLUKU O UTVRĐIVANJU JAVNOG INTERESA ZA REALIZACIJU GLAVNOG PROJEKTA HITNIH INTERVENCIJA IZMJEŠTANJA RIJEKE ĆEHOTINE PREKO UNUTRAŠNJEG ODLAGALIŠTA PK POTRLICA RUDNIKA UGLJA AD PLJEVLJA
