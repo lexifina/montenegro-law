@@ -1,0 +1,4 @@
+# Član 12
+Poslije člana 18 dodaje se novi član koji glasi:
+"Član 18a
+Ministarstvo rudarstva, nafte i gasa vrši poslove uprave koji se odnose na: pripremu propisa iz oblasti rudarstva, geologije, ugljovodonika; industrijsku proizvodnju po sljedećim sektorima i podsektorima: proizvodnju gasa, eksploataciju ruda i kamena; sprovođenje politike i koordinaciju implementacije projekata u oblastima: proizvodnje, prenosa, distribucije i upravljive potrošnje ruda, vršenje stručnih i upravnih poslova iz oblasti nadležnosti ministarstva; promet naftnih derivata; dodjelu koncesija iz nadležnosti ovog ministarstva; eksploataciju mineralnih i drugih sirovina; geološka istraživanja; istraživanje i proizvodnju ugljovodonika; upravni nadzor u oblastima za koje je ministarstvo osnovano; kao i druge poslove koji su mu određeni u nadležnost."

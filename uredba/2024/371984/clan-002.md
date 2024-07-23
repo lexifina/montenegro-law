@@ -1,0 +1,2 @@
+# Član 2
+U članu 7 riječi: "pripremu predloga propisa koji se odnose na osnivanje i djelovanje nevladinih organizacija i političkih partija i vođenje propisanih evidencija u skladu sa zakonom; razvijanje saradnje organa državne uprave i nevladinih organizacija;" brišu se, a poslije riječi: "nadležnosti javne uprave" zarez se zamjenjuje tačka-zarezom, a riječi: "kao i poslove u vezi sa programiranjem i upravljanjem fondovima Evropske unije namijenjenim nevladinim organizacijama čije je sjedište u Crnoj Gori;" brišu se.
