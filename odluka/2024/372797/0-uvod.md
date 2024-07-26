@@ -1,0 +1,2 @@
+Na osnovu člana 38. stav 1. tačka 21. Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22 i 85/22 ), člana 58. stav 1. tačka 24. Statuta opštine Ulcinj ("Službeni list CG - Opštinski propisi", br.48/19 i 5/24) i člana 4 Odluke o obrazovanju radnih tijela Skupštine ("Službeni list CG - Opštinski propisi", br. 1/21 i 20/24 ) na predlog Odbora za izbor i imenovanje, Skupština opštine Ulcinj, na sjednici održanoj dana 26.07.2024. godine, donijela je
+ODLUKU
