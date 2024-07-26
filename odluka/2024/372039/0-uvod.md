@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 21 i člana 43 stav 2 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 36 stav 1 tačka 26 i člana 38 stav 3 Statuta opštine Mojkovac ("Sl. list CG - Opštinski propisi", br. 29/18 i 37/22) i člana 7 stav 1 Odluke o obrazovanju radnih tijela Skupštine opštine Mojkovac ("Sl. list CG - Opštinski propisi", br. 9/14), na predlog Odbora za izbor i imenovanja br. 05-016/24-160 od 3. jula 2024. godine, Skupština opštine Mojkovac na sjednici održanoj dana 17. jula 2024. godine, donijela je
+ODLUKU
