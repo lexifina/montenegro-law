@@ -1,0 +1,107 @@
+# Član 1
+U Pravilniku o obliku, sadržini, načinu popunjavanja i dostavljanja jedinstvenog obrasca izvještaja o obračunatom i plaćenom porezu na dohodak fizičkih lica i doprinosima za obavezno socijalno osiguranje ("Službeni list CG", br. 76/10, 63/11, 28/12, 8/13, 4/14, 49/14, 1/15, 2/15, 10/16, 8/17, 50/17, 15/19, 9/20, 61/21, 110/21, 8/22, 20/22, 32/22 i 15/23) u Obrascu IOPPD Šifrarnik osnova za obračun mijenja se i glasi:
+"ŠIFRARNIK OSNOVA ZA OBRAČUN
+001 - Zarada;
+002 - Zarada za dopunski rad;
+003 - Zarada invalidnih lica;
+004 - Zarada zaposlenih koji su i korisnici penzije (starosne, porodične…)
+005 - Zarada zaposlenih koji su i korisnici djelimične invalidske penzije;
+006 - Naknada zarade za vrijeme privremene spriječenosti za rad (bolovanje) do 60 dana; 007 - Naknada zarade za vrijeme privremene spriječenosti za rad (bolovanje) preko 60 dana;
+008 - Naknada zarade po osnovu porodiljskog, roditeljskog, usvojiteljskog i hraniteljskog odsustva;
+009 - Naknada zarade za vrijeme rada sa polovinom radnog vremena, u skladu sa zakonom kojim se uređuje socijalna i dječja zaštita;
+010 - Odsustvovanje sa rada do navršene treće godine života djeteta;
+011 - Prevoz u javnom saobraćaju (za dolazak na posao i povratak sa posla);
+012 - Prevoz sopstvenim vozilom u službene svrhe iznad iznosa utvrđenog zakonom kojim se uređuje porez na dohodak fizičkih lica;
+013 - Dnevnica za službena putovanja iznad iznosa utvrđenog zakonom kojim se uređuje porez na dohodak fizičkih lica;
+014 - Zimnica;
+015 - Terenski dodatak iznad iznosa utvrđenog Zakonom o porezu na dohodak fizičkih lica;
+016 - Naknada za odvojeni život iznad iznosa utvrđenog Zakonom o porezu na dohodak fizičkih lica;
+017 - Solidarne i socijalne pomoći iznad iznosa utvrđenog Zakonom o porezu na dohodak fizičkih lica;
+018 - Otpremnina kod odlaska u penziju iznad iznosa utvrđenog Zakonom o porezu na dohodak fizičkih lica;
+019 - Otpremnina usled tehnološkog viška iznad iznosa utvrđenog Zakonom o porezu na dohodak fizičkih lica;
+020 - Otpremnina usled sporazumnog raskida radnog odnosa;
+021 - Stipendija i kredit učenika i studenata iznad iznosa utvrđenog Zakonom o porezu na dohodak fizičkih lica;
+022 - Hranarina sportista amatera iznad iznosa utvrđenog Zakonom o porezu na dohodak fizičkih lica;
+023 - Poklon djeci zaposlenog iznad iznosa utvrđenog Zakonom o porezu na dohodak fizičkih lica,
+024 - Jubilarna nagrada iznad iznosa utvrđenog Zakonom o porezu na dohodak fizičkih lica;
+025 - Naknada poslanicima (skupštinski dodatak) i odbornicima;
+026 - Akademski dodatak;
+027 - Dodatak u avijaciji (letački dodatak);
+028 - Naknada za rad članova radnih tijela i timova koju isplaćuje organ državne uprave u skladu sa propisom Vlade;
+029 - Naknada imenovanih lica i članova radnih tijela i komisija koja su zaposlena kod drugog poslodavca;
+030 - Ostale naknade na koje se plaća porez na dohodak fizičkih lica i doprinosi za obavezno socijalno osiguranje;
+031 - Lična primanja u nenovčanom obliku;
+032 - Lična primanja rezidenata Crne Gore ostvarena u inostranstvu;
+033 - Naknada za rad u odboru direktora, odnosno u upravnom odboru, za lica koja su prijavljena na obavezno socijalno osiguranje
+034 - Naknada za rad u odboru direktora, odnosno u upravnom odboru, za lica koja nijesu prijavljena na obavezno socijalno osiguranje
+035 - Naknada za rad u odboru direktora, odnosno u upravnom odboru, nerezidentnom fizičkom licu koje nije zaposleno u Crnoj Gori;
+036 - Naknada stečajnog upravnika;
+037 - Nagrada od jedinica lokalne samouprave i nagrade ostvarene na festivalskim, sportskim i dr. takmičenjima i druge naknade isplaćene fizičkim licima koja nijesu zaposlena kod isplatioca prihoda;
+038 - Nagrada za volonterski rad u skladu sa zakonom kojim se uređuje volonterski rad;
+039 - Zaposlenje u inostranstvu državljana Crne Gore;
+040 - Zaposlenje u inostranstvu državljana Crne Gore u domaćinstvima državljana Crne Gore;
+041 - Strani državljani i lica bez državljanstva koja su na teritoriji Crne Gore zaposlena kod poslodavca u Crnoj Gori, ako su osigurana na obavezno socijalno osiguranje po propisima druge države;
+042 - Određene kategorije novozaposlenih lica za koje poslodavac ostvaruje subvencije u skladu sa propisom Vlade Crne Gore;
+043 - Produženo osiguranje u skladu sa zakonom kojim je uređeno penzijsko i invalidsko osiguranje;
+044 - Novčana naknada koju primaju nezaposlena lica u skladu sa zakonima kojima se uređuje rad i zapošljavanje;
+045 - Uvećana novčana naknada koju primaju nezaposlena lica u skladu sa zakonom kojim je uređeno zapošljavanje;
+046 - Ostvarivanje prava na zdravstveno osiguranje po osnovu nezaposlenosti (za lica koja se nalaze na evidenciji Zavoda za zapošljavanje);
+047 - Ugovorena naknada (ugovor o djelu, autorski ugovor i dr.), za lica koja su prijavljena na obavezno socijalno osiguranje po drugom osnovu;
+048 - Ugovorena naknada (ugovor o djelu, autorski ugovor i dr.), za lica koja nijesu prijavljena na obavezno socijalno osiguranje po drugom osnovu;
+049 - Obavljanje poljoprivredne djelatnosti;
+050 - Vlasništvo poljoprivrednog zemljišta;
+051 - Staž osiguranja koji se računa sa uvećanim trajanjem 12/14;
+052 - Staž osiguranja koji se računa sa uvećanim trajanjem 12/15;
+053 - Staž osiguranja koji se računa sa uvećanim trajanjem 12/16;
+054 - Staž osiguranja koji se računa sa uvećanim trajanjem 12/18;
+055 - Penzija od domaćeg nosioca osiguranja;
+056 - Penzija od inostranog nosioca osiguranja;
+057 - Penzija državnog funkcionera ostvarena u skladu sa zakonom kojim se uređuju zarade državnih i javnih funkcionera;
+058 - Naknada za borce, porodice palih boraca, vojne invalide, civilne invalide rata i korisnike prava na novčanu naknadu materijalnog obezbjeđenja boraca;
+059 - Naknada za korisnike socijalno-zaštitnih prava;
+060 - Izdržavanje kazne zatvora;
+061 - Obavezno čuvanje i liječenje alkoholičara i narkomana;
+062 - Lično osiguranje, u skladu sa zakonom kojim se uređuje zdravstveno osiguranje;
+063 - Prihod od samostalne djelatnosti (stvarni dohodak);
+064 - Prihod od samostalne djelatnosti (paušal);
+065 - Prihod od imovine;
+066 - Prihod od kapitala;
+067 - Kapitalni dobici;
+068 - Obavljanje djelatnosti sveštenika i vjerskih službenika, monaha i monahinja;
+069 - Stručno osposobljavanje, dokvalifikacija i prekvalifikacija lica upućenih od strane Zavoda za zapošljavanje, shodno zakonu kojim se uređuje penzijsko i invalidsko osiguranje;
+070 - Neplaćeno odsustvo u skladu sa zakonom kojim se uređuju doprinosi za obavezno socijalno osiguranje;
+071 - Ovlašćeni službenici shodno propisima o vršenju unutrašnjih i policijskih poslova, ovlašćeni službenici Agencije za nacionalnu bezbjednost i ovlašćena službena lica shodno propisima o izvršenju krivičnih sankcija (u daljem tekstu: ovlašćeni policijski službenici) sa stažom osiguranja koji se računa sa uvećanim trajanjem 12/14);
+072 - Ovlašćeni policijski službenici sa stažom osiguranja koji se računa sa uvećanim trajanjem 12/16;
+073 - Ovlašćeni policijski službenici sa stažom osiguranja koji se računa sa uvećanim trajanjem 12/18;
+074 - Profesionalna vojna lica na službi u Vojsci Crne Gore i zaposleni u organima i organizacijama koji, shodno propisima o odbrani, rade na poslovima na kojima se staž osiguranja računa sa uvećanim trajanjem (u daljem tekstu: vojna lica) sa stažom osiguranja koji se računa sa uvećanim trajanjem 12/14;
+075 - Vojna lica sa stažom osiguranja koji se računa sa uvećanim trajanjem 12/15;
+076 - Vojna lica sa stažom osiguranja koji se računa sa uvećanim trajanjem 12/16;
+077 - Vojna lica sa stažom osiguranja koji se računa sa uvećanim trajanjem 12/18;
+078 - Vojna lica sa stažom osiguranja koji se računa sa uvećanim trajanjem 12/24;
+079 - Ugovorena naknada (ugovor o djelu, autorski ugovor i dr.), za lica koja su prijavljena na zdravstveno osiguranje, a nijesu prijavljena na penzijsko i invalidsko osiguranje po drugom osnovu;
+080 - Prihodi od kamata nerezidentnih fizičkih lica;
+081 - Ostale naknade na koje se plaća samo porez na dohodak fizičkih lica;
+082 - Lična primanja čiji ukupan bruto iznos je iznad iznosa prosječne mjesečne bruto zarade ostvarene u prethodnoj godini u Crnoj Gori;
+083 - Razlika u naknadi za topli obrok i regres (budžetski korisnici);
+084 - Zarade novozaposlenih lica u nedovoljno razvijenim opštinama;
+085 - Naknada zarade za određene kategorije novozaposlenih lica za koje poslodavac ostvaruje subvencije, u skladu sa propisom Vlade Crne Gore;
+086 - Lična primanja stranih državljana koja su izuzeta od plaćanja poreza, a koji plaćaju doprinose za obavezno socijalno osiguranje;
+087 - Lica čiji je radni odnos prestao usljed stečaja, za koja Fond rada uplaćuje doprinose za penzijsko i invalidsko osiguranje za godine radnog staža koje mu nedostaju za sticanje uslova za penziju;
+088 - Dobici od igara na sreću;
+089 - Obračun i uplata doprinosa za penzijsko i invalidsko osiguranje na osnovu odgovarajućeg akta nadležnog organa državne uprave;
+090 - Lična primanja stranih državljana koji su zaposleni kod izvođača radova na izgradnji Autoputa Bar - Boljare;
+091 - Lica zaposlena u biznis zonama za koje poslodavac ostvaruje olakšice u skladu sa propisom Vlade Crne Gore;
+092 - Naknada korisnicama prava na naknadu po osnovu ranije korišćenog prava na naknadu po osnovu rođenja troje ili više djece kojima je radi korišćenja tog prava njihovom voljom prestao radni odnos na neodređeno vrijeme;
+093 - Prihod od sportske djelatnosti;
+094 - Prihod od autorskih i srodnih prava, patenta, žiga i prihod samostalnog stručnjaka u kulturi;
+095 - Zarade novozaposlenih lica koji ostvaruju pravo na oslobođenje od plaćanja dijela poreza na dohodak fizičkih lica i doprinosa za penzijsko i invalidsko osiguranje u 2021. godine - 90%, 2022. - 60% i 2023. godini - 30%;
+096 - Ostvarivanje prava na oslobođenje od plaćanja poreza na dohodak fizičkih lica i doprinosa za obavezno socijalno osiguranje po osnovu podsticajnih mjera za razvoj istraživanja i inovacija;
+097 - Lična primanja čiji ukupni bruto iznos je iznad iznosa od 700€, prema stopama iz člana 10, stav 1 Zakona o porezu na dohodak fizičkih lica;
+098 - Naknada po osnovu privremenih i povremenih poslova;
+099 - Zarada pripravnika u skladu sa Zakonom o radu;
+100 - Naknada zarade zbog povrede radnih obaveza;
+101 - Lica koja ostvaruju prava iz socijalnog osiguranja (doprinosi), u skladu sa članom 27 Zakona o štrajku;
+102 - Dio zimnice na koji se obračunavaju i plaćaju doprinosi, na iznos veći od 450€ u neto iznosu;
+103 - Naknada štete po sudskoj odluci kod prestanka radnog odnosa (kada je lice prijavljeno kao osiguranik kod drugog poslodavca) sa obračunom doprinosa za PIO;
+104 - Naknada štete po sudskoj odluci kod prestanka radnog odnosa bez obračuna doprinosa za PIO.
+*Napomena: Šifre za lična primanja koja se oporezuju prema stopama iz člana 10 stav 1 Zakona o porezu na dohodak fizičkih lica su: 001 do 009, 011, 014, 025 do 036, 038, 041, 081, 095, 098 do 100 i 103.".
