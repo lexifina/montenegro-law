@@ -1,0 +1,2 @@
+Na osnovu člana 54 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21 i 49/22) i člana 10 stav 1 Odluke o osnivanju Agencije za upravljanje zaštićenim područjima d.o.o. ("Službeni list Crne Gore - Opštinski propisi", br. 24/16, 54/19 i 47/21) , Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 24, 29. jula i 1. avgusta 2024. godine, donijela je
+ODLUKU
