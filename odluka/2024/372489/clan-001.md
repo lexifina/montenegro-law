@@ -1,0 +1,4 @@
+# Član 1
+## izmještanja elektroenergetske infrastrukture
+Ovom Odlukom Prijestonica Cetinje daje saglasnost za nepotpunu eksproprijaciju nepokretnosti u KO Ćeklići za potrebe izmještanja elektroenergetske infrastrukture duž rekonstruisanog magistralnog puta Cetinje-Čevo na dionici u zahvatu KO Ćeklići faza I-V i to za:
+- kat. parcelu broj 8618, upisane u listu nepokretnosti 355 KO Ćeklići, po kulturi nekategorisani putevi, svojina Država Crna Gora, raspolaganje Prijestonica Cetinje u obimu od 31m2 po podnijetom prijedlogu DOO "Crnogorskog elektrodistributivnog sistema" Podgorica br.70-00- 20424 od 05.06.2023.godine uz naknadu od 100,75€, shodno Izvještaju Komisije za procjenu vrijednosti nepokretnosti za centralni i južni dio Uprave za katastar i državnu imovinu br. 01- 012/21-13612/1 od 18.07.2022.godine.
