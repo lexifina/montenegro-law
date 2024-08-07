@@ -1,0 +1,5 @@
+# Član 15
+Član 29, stav 1, tačka 6 mijenja se i glasi:
+,,Lica koja su vlasnici udjela, akcionari, članovi organa upravljanja, članovi nadzornih organa, zaposleni ili na drugi način angažovani, kao i lica koja imaju pravni interes u pravnim licima koja se bave djelatnošću pružanja AVM usluga i usluga platforme za razmjenu video sadržaja, distribucije linearnih AVM usluga, kao i proizvodnjom audiovizuelnih sadržaja, oglašavanjem ili elektronskim komunikacijama." Član 29, stav 2 mijenja se i glasi:
+,,Ograničenje iz stava 1 tačka 9 ovog člana ne odnosi se na lica povezana sa:
+1) zaposlenima koji nemaju posebna ovlašćenja (rukovođenje, zastupanje, predstavljanje) u pravnim licima koja se bave djelatnošću pružanja AVM usluga, usluga platforme za razmjenu video sadržaja, distribucije linearnih AVM usluga, kao i proizvodnjom audiovizuelnih sadržaja, oglašavanjem ili elektronskim komunikacijama; i 2) licima koja bira, imenuje ili postavlja Predsjednik, Skupština ili Vlada, pod uslovom da nemaju posebna ovlašćenja ili da u njihovoj nadležnosti nije odlučivanje o pravima i obavezama Društva."

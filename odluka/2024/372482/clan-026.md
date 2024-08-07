@@ -1,0 +1,3 @@
+# Član 26
+Član 48v, stav 1, mijenja se i glasi:
+,,Ombudsman može biti afirmisani medijski stručnjak sa najmanje deset godina radnog iskustva u VII1 nivou kvalifikacije obrazovanja u novinarstvu i nauci o medijima ili pravnik sa najmanje osam godina radnog iskustva u VII1 nivou kvalifikacije obrazovanja, od čega najmanje tri godine u oblasti medijskog prava, koji je državljanin Crne Gore i ima prebivalište u Crnoj Gori." U članu 48v, stav 4, riječi: ,,izjava kojom kandidat pod krivičnom i materijalnom odgovornošću potvrđuje da ispunjava uslove iz člana 29 ove odluke" zamjenjuju se riječima: ,,izjava da nije u sukobu interesa u smislu člana 29 ove odluke"

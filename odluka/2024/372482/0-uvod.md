@@ -1,0 +1,2 @@
+Na osnovu člana 47 Zakona o audiovizuelnim medijskim uslugama ("Službeni list Crne Gore", broj 54/24), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 268 stav 2 Zakona o privrednim društvima ("Službeni list Crne Gore", br. 65/20, 146/21 i 4/24) i člana 54 stav 1 tačka 17 Statuta Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", br. 8/19, 20/21 i 49/22), Skupština Glavnog grada - Podgorice, na sjednici održanoj 24, 29. jula i 1. avgusta 2024. godine, donijela je
+ODLUKU
