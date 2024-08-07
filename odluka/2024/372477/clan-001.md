@@ -1,0 +1,4 @@
+# Član 1
+## izmještanja elektroenergetske infrastrukture
+Ovom Odlukom Prijestonica Cetinje daje saglasnost za nepotpunu eksproprijaciju nepokretnosti u KO Prediš za potrebe izmještanja elektroenergetske infrastrukture i to za:
+- kat. parcelu broj 1102, upisane u listu nepokretnosti 121 KO Prediš, po kulturi nekategorisani putevi, svojina Država Crna Gora, raspolaganje Prijestonica Cetinje u obimu od 26m2 uz naknadu od 19,50€, -kat. parcelu broj 3738, upisanu u listu nepokretnosti 121 KO Prediš, po kulturi nekategorisani putevi, svojina Država Crna Gora, raspolaganje Prijestonica Cetinje u obimu od 156m2, uz naknadu od 117,00€, po podnijetom prijedlogu DOO "Crnogorskog elektrodistributivnog sistema" Podgorica br.70-00- 33670 od 22.10.2021. godine, shodno Izvještaju Komisije za procjenu vrijednosti nepokretnosti Uprave za katastar i državnu imovinu br. 01-012/21-6909/2 od 20.09.2021. godine.
