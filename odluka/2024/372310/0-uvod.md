@@ -1,0 +1,2 @@
+Na osnovu člana 4 Uredbe o zaradama i drugim novčanim primanjima pripadnika Vojske Crne Gore, operativne jedinice za zaštitu i spašavanje i policije i zaposlenih u organima državne uprave za vrijeme učešća u međunarodnim snagama, mirovnim misijama i drugim aktivnostima u inostranstvu ("Službeni list CG", br. 22/09 i 82/21), Vlada Crne Gore, na sjednici od 26. jula 2024. godine, donijela je
+ODLUKU O UTVRĐIVANJU VISINE NOVČANE NAKNADE PRIPADNIKU/CI VOJSKE CRNE GORE ZA VRIJEME UČEŠĆA U NATO POMORSKOJ OPERACIJI "SEA GUARDIAN"
