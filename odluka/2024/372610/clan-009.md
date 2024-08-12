@@ -1,0 +1,4 @@
+# Član 9
+Glavnim projektom potrebno je predvidjeti propisane mjere zaštite na radu, shodno odredbama Zakona o zaštiti i zdravlju na radu ("Službeni list Crne Gore" br. 34/14 i 44/18).
+U cilju zaštite, otkrivanja i sprječavanja opasnosti od prirodnih nepogoda, požara, hemijskih, tehničko- tehnoloških nesreća, bioloških, nuklearnih, radioloških kontaminacija i drugih nesreća, kao i spašavanja građana i materijalnih dobara ugroženih njihovim djelovanjem, postupati u skladu sa odredbama Zakona o zaštiti i spašavanju ("Službeni list Crne Gore" br. 13/07, 05/08, 86/09, 32/11, 54/16), Zakona o zapaljivim tečnostima i gasovima ("Službeni list Crne Gore" br. 26/10, 48/15) i odgovarajućim podzakonskim aktima.
+Tehničkom dokumentacijom treba predvidjeti uslove i mjere za zaštitu životne sredine, u skladu sa odredbama Zakona o procjeni uticaja na životnu sredinu ("Službeni list Crne Gore" br. 75/18).

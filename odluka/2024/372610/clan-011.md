@@ -1,0 +1,3 @@
+# Član 11
+Nacrt odluke sa Programom održavanja javne rasprave bio je objavljen na web sajtu Opštine Budva, kao i putem lokalnog javnog emitera, u cilju upoznavanja javnosti i mogućnosti učešća u istoj. Nakon sprovedene javne rasprave o Nacrtu odluke, Sekretarijat za urbanizam i održivi razvoj sačinio je Izvještaj o javnoj raspravi br. 06-332/24-174/8 od 19.06.2024. godine i uputio zahtjeve za izdavanje vodnih i tehničkih uslova za projektovanje organu i preduzeću nadležnom za izdavanje istih.
+Sastavni dio ove Odluke čine vodni uslovi izdati od Sekretarijata za privredu Opštine Budva, rješenje br. UPI 13-319/24-432/1 od 24.06.2024. godine i tehnički uslovi za projektovanje izdati od "Vodovod i kanalizacija" doo Budva, akt br. d-4410/2 od 27.06.2024. godine.

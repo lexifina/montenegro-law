@@ -1,0 +1,5 @@
+# Član 13
+Investitor je dužan da nakon izdavanja odobrenja za građenje ovog lokalnog objekta od opšteg interesa, obezbijedi stručni nadzor nad izvođenjem radova.
+Nakon završetka radova na izgradnji ovog lokalnog objekta od opšteg interesa, investitor je dužan da pristupi probnom radu i funkcionalnom ispitivanju, u skladu sa odredbama člana 119 Zakona o uređenju prostora i izgradnji objekata ("Službeni list Crne Gore" br. 51/08, 34/11, 35/13, 33/14), a u vezi sa članom 227a, stav 2 Zakona o planiranju prostora i izgradnji objekata ("Službeni list Crne Gore" br. 64/17, 44/18, 63/18, 11/19, 82/20, 86/22, 4/23).
+Nakon toga, obaveza investitora je da podnese zahtjev za vršenje tehničkog pregleda i za izdavanje odobrenja za upotrebu izgrađenog lokalnog objekta od opšteg interesa.
+Uz zahtjev za izdavanje odobrenja za upotrebu objekta, investitor mora priložiti: izjavu Izvođača radova, izjavu Nadzornog organa da je objekat izgrađen u skladu sa revidovanim glavnim projektom i Elaborat originalnih terenskih podataka o izvršenim radovima na terenu, na osnovu koga će se izvrši uknjižba novoizgrađenog objekta trafostanice sa priključnim kablovskim vodovima.

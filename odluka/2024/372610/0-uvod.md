@@ -1,0 +1,3 @@
+Na osnovu člana 223, stav 2 i člana 244 Zakona o planiranju prostora i izgradnji objekata ("Službeni list Crne Gore" br.64/17, 44/18, 63/18, 11/19,82/20,96/22, 4/23), a u vezi sa članom 7, stav 3 Zakona o uređenju prostora i izgradnji objekata ("Službeni list Crne Gore" br.51/8, 40/10, 34/11, 47/11, 35/13, 39/13, 33/14), člana 98 stav 1 tačka 27 i člana 109 stav 2 Statuta Opštine Budva ("Službeni list Crne Gore-Opštinski propisi", broj 2/19), shodno članu 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br .2/18, 34/19, 38/20, 50/22, 84/22, 85/22), donosim
+ODLUKU
+za izgradnju lokalnog objekta od opšteg interesa - trafostanice DTS 10/0,4kV 1 x 1000 kVA "Budva mall" sa uklapanjem u VN mrežu, KO Budva

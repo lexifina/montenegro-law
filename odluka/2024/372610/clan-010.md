@@ -1,0 +1,2 @@
+# Član 10
+U skladu sa odredbama ove odluke, a nakon izrade glavnog projekta i njegove revizije, Sekretarijat za urbanizam i održivi razvoj Opštine Budva će u skladu sa odredbama Zakona o planiranju prostora i izgradnji objekata, važećih odredbi Zakona o uređenju prostora i izgradnji objekata i Odluke o izgradnji lokalnih objekata od opšteg interesa na teritoriji opštine Budva, sprovesti neophodne aktivnosti u cilju izdavanja odobrenja za izgradnju lokalnog objekata od opšteg interesa- trafostanice DTS 10/0,4kV 1x1000 kVA "Budva Mall" sa uklapanjem u VN mrežu KO Budva.
