@@ -1,0 +1,2 @@
+# Član 2
+Urbanistička parcela navedena u članu 1. ove Odluke sastoji se od katastarskih parcela koja su predmet otkupa I katastarskih parcela br.30/948 u pov. Od 1097 m2,kat. Parc. br. 30/949 u pov. od 1157 m2, kat. Parc. br. 30/952 u pov. od. 1157 m2, kat. Parc. br. 30/953 u pov. od 1157 m2, kat. Parc. br. 30/959 u pov od 839 m2, Kat. Parc. br. 30/950 u pov od 1036 m2, kat. Parc. br 30/951 u pov od 1036 m2 I kat. Parc. br 30/954 u pov od 1036 m2 sa L.N.br. 580 KO Ulcinjsko Polje susvojina 1/2 Kostić Stevan Branimir I Cvijović rodj. Kostić Stevan Branka susvojina ½.
