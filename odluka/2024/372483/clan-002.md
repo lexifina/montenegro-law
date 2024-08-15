@@ -1,0 +1,3 @@
+# Član 2
+Đurović Marko, Đurović Ilija, Đurović Nikola i Đurović Vjera su obavezani da Prijestonici Cetinje plate naknadu za zasnivanje stvarne službenostina radi postavljanja 0,4kV kablovskog voda XPOO 4 x 50mm2 na katastarskoj parceli iz člana 1 ove odluke u u skladu sa Izvještajem koji će dostaviti Komisija za procjenu vrijednosti nepokretnosti Uprave za nekretnine Crne Gore. Đurović Marko, Đurović Ilija, Đurović Nikola i Đurović Vjera imaju obavezu da zemljište iz člana 1 ove odluke, nakon završetka radova vrate u prvobitno stanje.
+Saglasnost iz člana 1 ove odluke daje se na neodređeno vrijeme.
