@@ -1,0 +1,43 @@
+{
+  "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/ostalo/odluka_stat_pod_info_invest_fond_osiguranje_78-24.pdf",
+  "title": "Odluka o statističkim podacima i informacijama koje investicioni fondovi, društva za upravljanje investicionim fondovima i društva za osiguranje dostavljaju Centralnoj banci Crne Gore",
+  "source_sha256": "8a601866265d7c528fed1f0c5db9269fb9c376a48174dba7bca24533d107b827",
+  "source_bytes": 478046,
+  "pages": 3,
+  "source_images": 0,
+  "gazette_issue": "78/2024",
+  "publication_date": "2024-08-07",
+  "publication_evidence": {
+    "issue": "78/2024",
+    "date": "2024-08-07",
+    "quote": "78/24 od 07.08.2024",
+    "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/odluka_o_obaveznoj_rezervi_ki_kod_cbcg_78-24.pdf",
+    "source_sha256": "1230223e2db2bc8ec843f49ef5b7bcf5b87c96f4c69f76297eb79111297f593a"
+  },
+  "commencement_quote": "Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“.",
+  "date": "2024-08-15",
+  "basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“.\"; Gazette 78/2024 publication on 2024-08-07 stated as \"78/24 od 07.08.2024\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/odluka_o_obaveznoj_rezervi_ki_kod_cbcg_78-24.pdf.",
+  "text_sha256": "46b90e3aa17ef327daee208ffa2f044be722e63f6dfd1f0dc4dd87861162bf3d",
+  "word_count": 827,
+  "official_numbers": [
+    "0101-5825-6/2024"
+  ],
+  "path": "odluka/2024/0101-5825-6-2024",
+  "kind": "as-enacted",
+  "issuer": "Centralna banka Crne Gore",
+  "text_status": "as-enacted",
+  "in_force": "2024-08-15",
+  "in_force_basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“.\"; Gazette 78/2024 publication on 2024-08-07 stated as \"78/24 od 07.08.2024\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/odluka_o_obaveznoj_rezervi_ki_kod_cbcg_78-24.pdf.",
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "complete": true,
+  "first_law": null,
+  "source_listing": "https://www.cbcg.me/me/o-nama/regulativa/podzakonski-akti",
+  "related_pis_candidates": [],
+  "official_number": "0101-5825-6/2024",
+  "official_number_quote": "O.br. 0101-5825- 6/2024",
+  "line_endings": "LF",
+  "current_text_asserted": false,
+  "related_official_versions": [],
+  "version_note": "Text as enacted; linked amendments and consolidated copies are separate records and are not applied to this text."
+}
