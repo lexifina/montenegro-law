@@ -1,0 +1,3 @@
+# Član 59
+Danom stupanja na snagu ovog statuta licima iz člana 25 stav 1 tač. 1, 5, 6, 7 i 8 Statuta Centralne banke Crne Gore ("Službeni list Crne Gore", br. 83/17, 3/20 i 129/22) prestaje status lica sa posebnim ovlašćenjima i odgovornostima. Lica iz stava 1 ovog člana zadržavaju koeficijente složenosti poslova i obavljaju poslove iz opisa poslova radnog mjesta koji su utvrđeni ugovorom o radu.
+Ugovor o radu izvršnog direktora uskladiće se sa odredbama ovog statuta u roku od osam dana od dana usklađivanja akata kojim se uređuje unutrašnja organizacija poslovanja Centralne banke Crne Gore, odnosno sistematizacija radnih mjesta u Centralnoj banci Crne Gore sa ovim statutom.
