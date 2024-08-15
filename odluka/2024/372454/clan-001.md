@@ -1,0 +1,3 @@
+# Član 1
+## Osnovna odredba
+Ovom odlukom propisuje se sadržina Centralnog registra transakcionih računa i depozita i sefova (u daljem tekstu: Centralni registar), kao jedinstvene informacione baze podataka o transakcionim računima za izvršavanje nacionalnih i međunarodnih platnih transakcija, depozitima po viđenju i oročenim depozitima i zakupljenim sefovima kod kreditnih institucija i filijala stranih kreditnih institucija (u daljem tekstu: kreditne institucije), podaci koji se dostavljaju za potrebe tog registra, način dostavljanja podataka i način ostvarivanja uvida u podatke iz tog registra.

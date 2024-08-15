@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list CG", br. 40/10, 6/13, 70/17 i 125/23), člana 65a stav 2 Zakona o platnom prometu ("Službeni list CG" 62/13, 6/14 i 112/22 ) i člana 112 stav 7 Zakona o sprečavanju pranja novca i finansiranja terorizma ("Službeni list CG", broj 110/23), Savjet Centralne banke Crne Gore, na sjednici održanoj 31.07.2024. godine, donio je
+O D L U K U O CENTRALNOM REGISTRU TRANSAKCIONIH RAČUNA I DEPOZITA I SEFOVA
