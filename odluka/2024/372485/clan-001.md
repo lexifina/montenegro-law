@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom osniva se Centar za održivi razvoj Glavnog grada Podgorice (u daljem tekstu: Centar za razvoj Podgorice) sa ciljem unapređenja urbanog prostora, održivog razvoja, zaštite životne sredine, ekonomskog razvoja, korišćenja prirodnog potencijala i podsticaja inovacija za razvoj i prosperitet Glavnog grada Podgorica kroz ostvarivanje partnerskog odnosa sa nevladinim organizacijama.
