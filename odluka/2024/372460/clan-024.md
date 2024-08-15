@@ -1,0 +1,6 @@
+# Član 24
+Nakon sprovedenog postupka testiranja, Centralna banka izdaje potvrdu o izvršenom testiranju mašine za rukovanje euro novčanicama ili mašine za obradu euro kovanog novca, koju potpisuju lica koja su izvršila testiranje.
+Potvrdu o uspješno izvršenom testiranju mašine za rukovanje euro novčanicama ili mašine za obradu euro kovanog novca Centralna banka izdaje na period od godinu dana.
+Najkasnije u u roku od mjesec dana prije isteka roka iz stava 2 ovog člana, rukovaoci gotovinom su dužni da Centralnoj banci dostave zahtjev za ponovno testiranje mašine za rukovanje euro novčanicama ili mašine za obradu euro kovanog novca, o čemu Centralna banka nakon uspješnog testiranja izdaje novu potvrdu.
+U slučaju kada se, tokom perioda na koji je izdata potvrda iz stava 2 ovog člana, utvrdi da mašine za rukovanje euro novčanicama ili mašine za obradu euro kovanog novca ne mogu otkriti sve poznate falsifikate euro novčanica ili euro kovanog novca, rukovaoci gotovinom su dužni da Centralnoj banci dostave zahtjev za ponovno testiranje ovih mašina i prije isteka perioda iz izdate potvrde.
+Mašina za rukovanje euro novčanicama ili mašina za obradu euro kovanog novca koja uspješno ne prođe ponovno testiranje, ne može se dalje upotrebljavati.

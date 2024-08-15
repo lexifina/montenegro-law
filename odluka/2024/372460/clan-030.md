@@ -1,0 +1,5 @@
+# Član 30
+Zaposlenom kod rukovaoca gotovinom koji je pohađao obuku Centralna banka izdaje uvjerenje o uspješno završenoj obuci za ručnu provjeru podobnosti i autentičnosti euro novčanica i/ili euro kovanog novca.
+Uvjerenje iz stava 1 ovog člana Centralna banka izdaje na period od četiri godine.
+Najkasnije u roku od mjesec dana prije isteka roka iz stava 2 ovog člana, rukovaoci gotovinom dužni su da Centralnoj banci dostave zahtjev za ponovnu obuku zaposlenih za ručnu provjeru podobnosti i autentičnosti euro novčanica i/ili euro kovanog novca.
+Zaposleni kod rukovaoca gotovinom kojima je Centralna banka izdala uvjerenje iz stava 1 ovog člana dužni su da pohađaju obuku i prije isteka roka iz stava 2 ovog člana, kada Centralna banka organizuje novu obuku zbog izdavanja novih euro novčanica i euro kovanog novca, zbog pojave novih falsifikata ili u drugim slučajevima kada organizovanje ove obuke smatra cjelishodnim u cilju obezbjeđivanja sveobuhvatne i efikasne provjere podobnosti i autentičnosti euro novčanica i euro kovanog novca, o čemu obavještava rukovaoce gotovinom najkasnije 15 dana prije sprovođenja obuke.
