@@ -1,0 +1,2 @@
+Na osnovu člana 3 Zakona o izboru odbornika i poslanika ("Sl. list RCG", br. 04/98, 05/98, 17/98, 14/00, 18/00, 73/00, 09/01, 41/02, 46/02, 45/04, 48/06, 56/06 i "Sl. list CG" br. 46/11, 14/14, 47/14, 12/16, 60/17, 10/18 i 109/20) i člana 33 stav 1 tačka 2 Statuta opštine Gusinje ("Sl. list CG - Opštinski propisi", br. 03/19,24/21), Skupština opštine Gusinje na sjednici održanoj dana 15.08.2024. godine, donijela je
+ODLUKU
