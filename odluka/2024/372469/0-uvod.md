@@ -1,0 +1,2 @@
+Na osnovu člana člana 73 stav 1 tačka 2 i 21 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", br. 49/18 i 17/21), i člana 10 stav 1 alineja 10 Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalno" Cetinje ("Službeni list Crne Gore - Opštinski propisi", br. 30/13, 22/14, 39/19 i 16/24), Skupština Prijestonice Cetinje, na sjednici održanoj dana, 26.07.2024. godine, donijela je
+ODLUKU
