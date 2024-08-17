@@ -1,0 +1,2 @@
+# Član 4
+Izuzetno od čl. 1 i 2 ove naredbe, u slučaju vanrednih okolnosti na određenom gazdinstvu (npr. pojava bolesti kod ljudi, izuzetno visoka prevalenca oboljelih životinja na gazdinstvu), na zahtjev nadležnog veterinarskog inspektora, organ uprave za poslove veterinarstva u saradnji sa Specijalističkom veterinarskom laboratorijom i nadleženom veterinarskom ambulantom, a na osnovu sprovodene analize epizootiloški značajnih podataka na gazdinstvu i procjene rizika može donijeti posebno stručno uputstvo za postupanje na konkretnom gazdinstvu.
