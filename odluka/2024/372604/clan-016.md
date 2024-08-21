@@ -1,0 +1,63 @@
+# Član 16
+## Sekreterijat za komunalno stambene poslove i saobracaj
+Sekretarijat za komunalno stambene poslove i saobraćaj vrši poslove uprave koji se odnose na:
+- priprema predloge razvojnih programa kojima se utvrđuju osnovni ciljevi, pravci i prioriteti razvoja komunalnih djelatnosti;
+- priprema nacrte odluka kojima se propisuju uslovi i način obavljanja komunalne djelatnosti (snabdijevanje lokalnog stanovništva vodom i toplotnom energijom, regulacije upravljanja komunalnim otpadom, odvođenja atmosferskih i otpadnih voda, postavljanje, održavanje čistoće grada, uređivanja održavanja parkova, javnih zelenih i rekreacionih površina, održavanja ulica i drugih javnih površina, javna rasvjeta, izgradnja, održavanje i korišćenje javnih objekata od značaja za opštinu, regulacija i održavanje rječnih korita, održavanje groblja i sahranjivanje, dimnjačarske usluge, održavanje pijaca, parkirališta dr.);
+- vodi evidenciju naselja, ulica, trgova i brojevima zgrada;
+- vodi evidenciju komunalnih otpadnih voda;
+- izradu i sprovođenje lokalnog plana upravljanja otpadom;
+- rješava u upravnim stvarima iz svoje nadležnosti i vrši nadzor nad radom preduzeća koja obavljaju poslove iz nadležnosti Sekretarijata;
+- izdaje saglasnost za postavljanje telegrafskih, telefonskih, vazdušnih i kablovskih linija i vodova niskog napona za osvetljavanje i saglasnost za druge slične objekte i postrojenja u zaštitnom pojasu opštinskog i nekategorisanog puta;
+- odredjivanje vrsta parkirališta, izdavanje odobrenja i uslova za parkirališta na kojima se vrši naplata naknade za parkiranje vozila ili naknade za parkiranje i čuvanje vozila;
+- izdavanje odobrenja za lokaciju i uslova za izgradnju privremenih parkirališta;
+- izdavanje odobrenja i uslova za privremeno rezervisanje mjesta na parkiralištu i drugim javnim površinama pravnim licima;
+- utvrdjivanje uslova i izdavanje odobrenja za privremeno postavljanje zaštitnih ograda i drugih komunalnih objekata duž saobraćajnih površina;
+- davanje saglasnosti za postavljanje oglasno-reklamnih panoa duž saobraćajnih površina;
+- izdavanje odobrenja i uslova za prekopavanje javnih površina namijenjenih za saobraćaj vozila i pješaka;
+- izdavanje odobrenja za postavljanje autobuskih nadstrešnica na stajalištima;
+- priprema propisa i drugih akata iz stambene oblasti, postupanje po zahtjevima za ostvarivanje prava na nadogradnju stambene zgrade, odnosno pretvaranje zajedničkih djelova stambene zgrade u stan ili poslovni prostor;
+- praćenje stanja održavanja stambenih zgrada i poštovanje pravila kućnog reda;
+- rešavanje u slučaju useljenja u zajedničke ili posebne djelove stambene zgrade bez zaključenja ugovora o zakupu;
+- obezbedjenje izvodjenja hitnih radova u skladu sa zakonom;
+- praćenje organizovanja organa u stambenim zgradama i preduzimanje mjera za organizovanje, - vođenje registra upravnika i predlaganje imenovanja privremenog upravnika stambene zgrade, - vođenje registra vlasnika stambenih zgrada i njihovih posebnih djelova;
+- upravni nadzor, poslove ostvarivanja prava osnivača u javnim službama koje obavljaju komunalne djelatnosti;
+- nadzor nad sprovođenjem planova zaštite i spašavanja;
+- obezbjedjenje sprovodjenja mjera preventivne dezinfekcije, dezinsekcije i deratizacije u naseljenim mjestima, na javnim površinama, u stambenim objektima, sredstvima javnog prevoza i dr.;
+- predlaganje mjera za organizovanje zaštite od elementarnih nepogoda i drugih vanrednih okolnosti i stvaranje uslova za njihovo otklanjanje, kao i predlaganje mjera i stvaranje uslova za otklanjanje posledica i drugih elementarnih nepogoda kao i drugih vanrednih i nepredvidivih okolnosti u opštini, vrši i druge poslove iz ove oblasti u skladu sa posebnim propisima;
+- izradu i sprovođenje planova, programa i drugih dokumenata iz oblasti energetske efikasnosti, vođenje jedinstvenog informacionog sistema potrošnje energije i energenata u objektima kojima raspolaže opština, izrada i sprovođenje programa poboljšanja energetske efikasnosti i plana poboljšanja energetske efikasnosti za potrebe opštine;
+- priprema informativnih i drugih stručnih materijala za Skupštinu i Predsjednika opštine;
+utvrdjivanje ispunjenosti uslova za obavljanje auto taksi prevoza i linijskog prevoza i obavljanje javnog prevoza teretnim motornim vozilima kao i obavljanje prevoza za sopstvene potrebe; - donošenje plana linija, raspisivanje i sprovodjenje konkursa za izbor prevoznika za obavljanje javnog prevoza putnika u gradskom i prigradskom linijskom saobraćaju;
+- utvrdjivanje, registrovanje i ovjeravanje reda vožnje po pojedinim linijama, praćenje cijena usluga prevoza u linijskom i vanlinijskom prevozu putnika;
+- upravni nadzor kod subjekata kojima je povjerena funkcija obavljanja javnog prevoza putnika u gradskom i prigradskom linijskom saobraćaju i auto taksi prevozu putnika;
+- davanje mišljenja i saglasnosti na program rada i izvještaj o radu ustanova i društava(javnih službi) koje obavljaju djelatnosti i djelokruga rada ovog Sekretarijata;
+- davanje mišljenja i pripremu predloga akta o davanju saglasnosti na odredbe Statuta i drugih akata kojima se uredjuje način ostvarivanja javnog interesa u oblasti saobraćajne infrastrukture čiji je osnivač Opština;
+- održavanje i obnavljanje saobraćajne signalizacije, održavanja uličnih oznaka;
+- vrši poslove pripreme, organizovanja i praćenja zimskog održavanja opštinskih puteva (čišćenja snijega);
+- pripremu propisa i drugih akata koji se odnose na razvoj, izgradnju, rekonstrukciju, održavanje, zaštitu, korišćenje i upravljanje opštinskim putevima (lokalni putevi i ulice u naseljima);
+- određivanje nekategorisanih puteva i uređivanje načina njihovog fiansiranja;
+- izdaje saglasnost za priključak prilaznog puta na opštinski put;
+- izdavanje saobraćajne saglasnosti;
+- utvrđivanje visine naknade za korišćenje opštinskih puteva, mjerila za kategorizaciju opštinskih puteva;
+- učestvovanje u pripremi Projekta regulacije saobraćaja i izmjena u režimu saobraćaja;
+- izdavanje odobrenja za potpunu ili djelimičnu zabranu saobraćaja i izmjene režima saobraćaja za vrijeme izvođenja radova na saobraćajnicama;
+- izdavanje odobrenja za kretanje motornih vozila u zabranjenim zonama.
+- određivanje autobuskih i taksi stajališta;
+- izdavanje privremenog odobrenja drugom prevozniku za obavljanje javnog prevoza putnika u gradskom i prigradskom linijskom saobraćaju za grupu linija od koje je prevoznik sam odustao ili koja mu je oduzeta;
+- izdavanje odobrenja za lokaciju i saobraćajne uslove za privremena taksi stajališta;
+- uredjivanje javnog prevoza putnika u gradskom i prigradskom linijskom i vanlinijskom saobraćaju;
+- praćenje stanja izgradnje, održavanja, korišćenja i zaštite opštinskih puteva i predlaganje i preduzimanje odgovarajućih mjera;
+- učestvovanje u pripremi i izradi godišnjih programa izgradnje i održavanja saobraćajne infrastrukture;
+- davanje mišljenja u vezi sa informativnim i drugim materijalima javnih preduzeća iz ovih oblasti koji se dostavljaju Skupštini i Predsjedniku opštine;
+- praćenje realizacije investicionih programa koje finansira Opština u ovim oblastima;
+- saradnja sa odgovarajućim nevladinim organizacijama;
+- vodi upravni postupak za slobodan pristup informacijama iz svog djelokruga;
+- pripremu izvještaja o postupanju u upravnim stvarima iz svoje nadležnosti;
+- priprema informativnih i drugih stručnih materijala za Skupštinu i Predsjednika opštine;
+- vrši i druge poslove iz svog djelokruga, u skladu sa zakonom i drugim propisima po nalogu Predsjednika opštine i Glavnog administratora.
+- davanje mišljenja u vezi sa informativnim i drugim materijalima javnih preduzeća iz ovih oblasti koji se dostavljaju Skupštini i Predsjedniku opštine;
+- praćenje realizacije investicionih programa koje finansira opština u ovim oblastima;
+- pripremu stručnih mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa i za autentična tumačenja propisa u ovim oblastima;
+- obezbeđenje obavljanja poslova koji se odnose na formiranje informacione osnove;
+- saradnja sa odgovarajućim nevladinim organizacijama;
+- vodi upravni postupak za slobodan pristup informacijama iz svog djelokruga;
+- vrši i druge poslove iz svog djelokruga, u skladu sa zakonom i drugim propisima po nalogu Predsjednika opštine i Glavnog administratora.

@@ -1,0 +1,42 @@
+# Član 15
+## Sekretarijat za planiranje i uređenje prostora
+Sekretarijat za planiranje i uređenje prostora vrši poslove uprave koji se odnose na:
+- izradu propisa koji se odnose na uređivanje fiinansiranja građevinskog zemljišta i pripremne poslove na izradi i donošenju urbanističkih projekata, odnosno donošenju lokalnih planskih dokumenata po skraćenom postupku u skladu sa zakonom;
+- primjenu i praćenje realizacije planske dokumentacije i predlaganje mjera i aktivnosti za unapređenje stanja i o istom priprema izvještaj za Skupštinu;
+- učešće u pipremnim poslovima kod pristupanja izrade, prati izradu i realizaciju planske dokumentacije;
+- čuvanje projektne dokumentacije i pripremanje baze podataka svih faza i vrsta projektne dokumentacije za komunalne i javne objekte, praćenje realizacije pojedinih projekata, procjene mogućnosti realizacije postojećih i potrebu izrade novih;
+- formira jedinstvenu bazu podataka vođenjem elektronskih evidencija, evidencija prostorno planske, urbanističko-tehničke gradilišne i druge dokumentacije, njihovu predaju opštinskom arhivu;
+- poslove saradnje sa resornim ministarstvom pri donošenju planskih i razvojnih dokumenata (strategije, planovi, programi i sl.) koji se donose na osnovu posebnih propisa, a kojima se utiče na planiranje prostora ili prostorni razvoj, sve u cilju ostvarivanja i zaštite javnog interesa;
+- vodi analogni i elektronski registar planske dokumentacije;
+- primjenjuje propise i izdaje urbanističko tehničke uslove za izgradnju, rekonstrukciju objekata i izvođenje drugih radova kojima se izazivaju promjene u prostoru;
+- izdavanje odobrenja za građenje objekata od lokalnog značaja;
+- pripremanje programa privremenih objekata;
+- utvrđivanje tehničko-estetskih uslova, tehnički pregled, izdavanje odobrenja za izgradnju- postavljanje privremenih objekata montažnog karaktera;
+- izdavanje odobrenja za izgradnju;
+- postavljanje pomoćnih objekata;
+- utvrđivanje uslova i izdavanje odobrenja za izgradnju pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom - izdavanje upotrebne dozvole za objekte za koje je već izdata građevinska dozvola;
+- vrši pripremne poslove na izradi projektnih zadataka za izradu planske dokumentacije;
+- vrši obračun naknade za komunalno opremanje građevinskog zemljišta za izgradnju i rekonstrukciju objekata, visinu gradske rente, odnosno naknade za korišćenje prostora;
+- sprovođenje postupka legalizacije bespravno izgrađenih objekata u skladu sa zakonom,vođenje evidencije bespravno izgrađenih objekata na osnovu podataka katastra, odnosno geoportala; - sistematizacija i utvrđivanje liste bespravnih objekata za koje nije podnijet zahtjev za legalizaciju;
+- vrši obračun naknade za komunalno opremanje građevinskog zemljišta za bespravno izgrađene objekte;
+- obavlja poslove koji se odnose na formiranje informacione osnove, odnosno praćenje, obradu i analiziranje podataka i elemenata koji su neophodni za realizaciju prostornih i urbanističkih planova;
+- predlaže i priprema kriterijume za raspodjelu sredstava za uređivanje građevinskog zemljišta; - priprema nacrte odluka iz oblasti urbanizma i građevinarstva;
+- priprema nacrte Programa i Odluka kojima se omogućava korišćenje, unapređivanje, održavanje i zaštita građevinskog zemljišta, njegovo opremanje neophodnim objektima i predlaže mjere za održavanje javnih dobara od značaja za Opštinu Rožaje;
+- priprema nacrte podzakonskih akata u skladu sa važećim zakonima i prati njihovu usklađenost; praćenje realizacije investicionih programa koje finansira opština u ovim oblastima;
+- obezbeđenje obavljanja poslova koji se odnose na formiranje informacione osnove ;
+- davanje mišljenja i saglasnosti na program rada i izvještaj o radu ustanova i društava (javnih službi) koje obavljaju djelatnosti i djelokruga rada ovog Sekretarijata;
+- priprema prijedloge srednjoročnih i godišnjeg programa izvođenja radova na održavanju, zaštiti životne sredine, izrađuje i prati implementaciju lokalnog programa zaštite životne sredine;
+- sprovodi postupak proglašenja zaštićenih prirodnih dobara;
+- utvrđuje područja posebne zaštite zemljišta, prirodnih vodotokova, zaštita površinskih i podzemnih voda vazduha, biodiverziteta kao i zaštita od jonizirajućeg zračenja;
+- vrši akustičko zoniranje radi određivanja akustičkih zona u cilju zaštite ljudi od buke i dostavlja podatke o odredjenim akustičkim zonama;
+- sprovodi postupak procjene uticaja na životnu sredinu za projekte za koje izdaje saglasnosti, odobrenja i dozvole;
+- vođenje registra lokalnih zagađivača životne sredine;
+- priprema izvještaje i informacije o stanju životne sredine i sprovedenim aktivnostima, podizanje svijesti o značaju zaštite životne sredine u saradnji sa ekološkim udruženjima, inicira aktivnosti za zaštitu prirode i zaštićenih prirodnih dobara;
+- izrađuje izvještaj o stanju prirode;
+- izrađuje program monitoringa segmenata životne sredine i njegovog sprovođenja;
+- praćenje realizacije mjera iz lokalnog ekološkog akcionog plana;
+- predlaganje mjera zaštite i izrada procjene pojedinih privrednih i drugih aktivnosti na životnu sredinu;
+- vrši nadzor nad sprovođenjem propisa iz oblasti životne sredine;
+- saradnja sa odgovarajućim nevladinim organizacijama;
+- vodi upravni postupak za slobodan pristup informacijama iz svog djelokruga;
+- vrši i druge poslove iz svog djelokruga, u skladu sa zakonom i drugim propisima po nalogu Predsjednika opštine i Glavnog administratora.

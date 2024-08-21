@@ -1,0 +1,47 @@
+# Član 14
+## Sekretarijat za finansije i ekonomski razvoj
+Sekretarijat za finansije vrši poslove uprave koji se odnose na:
+- pripremanje, planiranje i izradu nacrta budžeta opštine;
+- priprema propise kojima se utvrđuju lokalni i javni prihodi i privremeno finansiranje potreba za koje se sredstva obezbjeđuju u budžetu opštine;
+- pripremu izvještaja o realizaciji fiskalne politike za tekuću godinu i predlaganje smjernica na osnovu kojih se planiraju prihodi i izdaci za narednu godinu, koje utvrđuje Predsjednik opštine; - izradu stručnog uputstva o ciljevima i smjernicama potrošačkih jedinica radi pripremanja budžeta;
+- propisuje bliži sadržaj i formu zahtjeva za dodjelu budžetskih sredstava;
+- izrađuje nacrt odluke o privremenom finansiranju; prati korišćenje odobrenih sredstava potrošačkih jedinica po dinamici koju odobri Predsjednik opštine, dostavlja podatke resornom ministarstvu o prihodima i izdacima i budžetskom zaduženju;
+- pripremu izvještaja za Skupštinu opštine o korišćenju sredstava stalne budžetske rezerve;
+- davanje prijedloga za donošenje odluke o ulaganjima u skladu sa utvrđenom investicionom politikom;
+- vršenje poslova u vezi sa zaduživanjem Opštine izdavanjem hartija od vrijednosti ili uzimanjem zajmova;
+- pripremu odluke o uvođenju samodoprinosa (opštinskog i mjesnog); učestvovanje u identifikaciji i procjeni opštinske imovine u poslovima privatizacije društava koje osniva opština; - upravlja konsolidovanim računom trezora, kao i podračunima i drugim računima i vođenjem evidencije o postojećem dugu Opštine;
+- pripremu završnog računa budžeta opštine;
+- odobravanje otvaranja podračuna i bliže određivanje načina korišćenja ovih računa;
+- vođenje glavne knjige trezora i pomoćne knjige;
+- obavljanje finansijskog planiranja i upravljanje gotovinskim sredstvima;
+- vršenje kontrole izdataka;
+- izvršavanje budžeta;
+- vršenje obračuna i isplaćivanje zarada;
+- naknada lokalnih službenika i namještenika, organa i javnih službi, kao potrošačkih jedinica; - upravljanje dugom i analiza zaduženosti; budžetsko računovodstvo i izjašnjavanje;
+- upravljanje finansijskim informacionim sistemom;
+- poslove koji se odnose na korišćenje, održavanje i evidenciju službenih vozila u svojini opštine; - pripremu propisa i drugih akata kojima se stimuliše razvoj malih i srednjih preduzeća i preduzetnika (poreska politika: poreske stope, olakšice, formiranje baze podataka i dr.);
+- učestvovanje u realizaciji državnih mjera, stimulacija razvoja strateških privrednih grana i prikupljanje i obrađivanje podataka u cilju sagledavanja potencijala u ovim oblastima i njihove valorizacije;
+- pripremanje programa aktivnosti i načina stimulisanja preduzetničkih inicijativa na lokalnom nivou;
+- učestvovanje u izradi programa razvoja Opštine i pojedinih djelatnosti i višegodišnjeg investicionog plana;
+- prikupljanje i ažuriranje informacija o zainteresovanosti preduzeća za ulaganja, projektima podrške, donatorskim aktivnostima i kreditnim linijama za preduzeća i preduzetnike;
+- izbor korisnika biznis zona;
+- praćenje stanja, prikupljanje i određivanje podataka o inicijativama za razvoj pojedinih privrednih djelatnosti i njihovog značaja za razvoj preduzetništva;
+- učestvovanje u procesu privatizacije javnih službi, analiziranje i predlaganje aranžmana uključivanja privatnog sektora i uslova za dodjeljivanje koncesija;
+- ostvarivanje saradnje i pružanje informacija zainteresovanim subjektima za razvoj preduzetništva, a posebno malih i srednjih preduzeća, sa ciljem korišćenja resursa i realizacije planova i programa u ovim oblastima,davanje sugestija i podrške za realizaciju pojedinih inicijativa;
+- učestvovanje u stvaranju uslova i organizovanju sajmova i drugih sličnih manifestacija;
+- utvrđivanje ispunjenosti uslova poslovnih prostora u pogledu tehničke opremljenosti i drugih propisanih uslova za obavljanje privrednih djelatnosti (ugostiteljstvo, promet robe na malo i vršenje usluga u prometu i dr.), privrednih društava i preduzetnika u skladu sa posebnim propisima;
+- donošenje rješenja o prestanku obavljanja djelatnosti;
+- dobijanje odobrenja za usluge smještaja u objektima - sobe, apartmani, zemljište za kampovanje i kategorizaciju restorana;
+- vršenje nabavke i distribucije tabli sa oznakom kategorizacije ugostiteljskog objekta;
+- donošenje rješenja o prestanku obavljanja djelatnosti;
+- odredjivanje posebnog standarda ugostiteljskog objekta;
+- izdavanje odobrenja za pružanje ugostiteljskih i turističkih usluga u posebnim objektima;
+- izdavanje odobrenja za obavljanje djelatnostiu produženom radnom vremenu u ugostiteljskim, trgovinskim i zanatskim objektima, - poslove prijave za obavljanje djelatnosti (trgovinske, zanatske i dr.), te poslove odjave, kontrole, promjene proširenja djelatnosti i utvrđivanja uslova za obavljanje privredne djelatnosti bez korišćenja poslovnih prostorija;
+- vođenje registra izdatih odobrenja u elektronskom obliku i drugom obliku;
+- ovjera knjige gostiju i knjige prigovora u ugostiteljskim objektima;
+- dostavu podataka o privrednim subjektima nadležnom organu radi upisa u Centralni turistički registar;
+- saradnja sa nevladnim organizacijama radi realizacije programa u oblastima za koje je i osnovan;
+- pripremanje informativnih i drugih stručnih materijala za Skupštinu i Predsjednika Opštine; - upravni postupak za slobodan pristup informacijama iz svog djelokruga;
+- pripremu izvještaja o postupanju u upravnim stvarima iz svoje nadležnosti;
+- pripremu izveštaja o stanju u oblasti kao i pripremu informativnih i drugih stručnih materijala za Skupštinu, Predsjednika opštine i organe uprave iz svog djelokruga;
+- vršenje i drugih poslova iz nadležnosti Opštine po nalogu Predsjednika opštine i Glavnog administratora.
