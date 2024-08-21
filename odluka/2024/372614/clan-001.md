@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti o ustanovljenju prava stvarne službenosti u korist DOO "Crnogorski elektrodistributivni sistem" Podgorica
+DAJE SE SAGLASNOST na ustanovljenje prava službenosti u korist DOO "Crnogorski elektrodistributivni sistem" Podgorica, radi izgradnje objekta od opšteg interesa-energetskoi objekt trafostanica NDTS 10/0.4kV, ¨Hurije¨ 1X630 kVA sa priključkom KV 10 kV u Rožajama u skladu sa geodetskim elaboratom izrađenim od strane ,,GEONANA" Podgorica broj. 1801/2024-2 od 18.01.2024.godine i to na dijelu katastarske parcele broj 554/1 KO Rožaje u površini od 10m2 - po kulturi pašnjak 3 klase upisana u listu nepokretnsti br. 344 na ime Crna Gora svojina 1/1, Opština Rožaje-raspolaganje 1/1.
