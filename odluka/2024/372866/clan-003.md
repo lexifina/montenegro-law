@@ -1,0 +1,3 @@
+# Član 3
+Ciljevi i zadaci radi kojih se osniva RK "KOTOR" - Kotor su obavljanje sportske rukometne djelatnosti koja obuhvata: obučavanje, treninge, rekreativne aktivnosti, rukometna takmičenja i rukometne manifestacije, kao i promovisanje rukometa kod djece i omladine u cilju unapređivanja i razvoja njihovih psihofizičkih sposobnosti, sportskih znanja i postizanja sportskih rezultata na svim nivoima.
+Rad RK "KOTOR"-Kotor se zasniva na principima dobrovoljnosti, partnerstva, sklonosti, sposobnosti, stručnom radu i naučnim saznanjima te da će bavljenje sportom u ovom klubu biti humano, slobodno, dobrovoljno, zdravo, bezbjedno, fer, tolerantno i etički prihvatljivo.
