@@ -1,0 +1,3 @@
+# Član 1
+## o ustanovljenju prava stvarne službenosti polaganja elektroenergetskog kablovskog voda u zahvatu DUP-a "Marelica" u Baru
+Opština Bar, kao nosilac prava raspolaganja, daje pravnom licu "Kalamper" d.o.o. sa sjedištem u Baru, saglasnost za ustanovljenje prava stvarne službenosti, na neodređeno vrijeme i to na dijelu katastarske parcele broj 2789, po kulturi - nekategorisani putevi, u površini od 3 m2, evidentirane u listu nepokretnosti broj 104 KO Dobra Voda, a prednje radi polaganja elektroenergetskog kablovskog voda u zahvatu DUP-a "Marelica" u Baru ("Službeni list CG - Opštinski propisi", broj 32/09).
