@@ -1,0 +1,4 @@
+# Član 1
+## Novi Bar u korist katastarske parcele broj 3559 KO Novi Bar
+Opština Bar, kao nosilac prava raspolaganja, daje saglasnost za uspostavljanje stvarne službenosti, na neodređeno vrijeme, na dijelu: katastarske parcele broj 3410 u površini od 7m2 i katastarske parcele broj 3557 u površini od 3m2, obje iz lista nepokretnosti broj 1154 KO Novi Bar, svojina Crne Gore u obimu prava 1/1, raspolaganje Opštine Bar, u obimu prava 1/1, u korist katastarske parcele broj 3559 iz lista nepokretnosti broj 949 KO Novi Bar, svojina Kojić Alije Safeta, u obimu prava 1/1.
+Saglasnost se daje, radi polaganja NN priključnog kablovskog voda, za potrebe priključenja na distributivni sistem električne energije objekta turističkog stanovanja na katastarskoj parceli broj 3559 KO Novi Bar (na većem dijelu urbanističke parcele UP3 i na manjem dijelu urbanističke parcele UP2, u zoni "A", blok 5, u zahvatu DUP-a "Žukotrlica".

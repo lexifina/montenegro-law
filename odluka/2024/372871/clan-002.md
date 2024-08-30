@@ -1,0 +1,3 @@
+# Član 2
+Vlasnik katastarske parcele broj 3559 KO Novi Bar, Kojić Safet iz Bara, dužan je da Opštini Bar plati naknadu za zasnivanje stvarne službenosti na zemljišta iz člana 1 ove odluke u ukupnom iznosu od 634,50€ u roku od 8 (osam) dana od dana zaključenja ugovora.
+Utvrđena naknada iz stava 1 ovog člana odgovara 15% procjene tržišne vrijednosti zemljišta u skladu sa Izvještajem o procjeni vrijednosti nepokretnosti, sačinjenog od strane Sonje Ivanović, dipl.ing.građ. REV i ovlašćenog procjenjivača i sudskog vještaka, iz Podgorice, protokolisanog kod Opštine Bar pod brojem: 04-427/24-867 od 28.03.2024. godine.
