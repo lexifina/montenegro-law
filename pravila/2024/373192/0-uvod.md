@@ -1,0 +1,2 @@
+Komisija za tržište kapitala Crne Gore (u daljem tekstu: Komisija), na osnovu člana 93 stav 5 Zakona o investicionim fondovima ("Službeni list Crne Gore", br. 54/11, 13/18) - (u daljem tekstu: Zakon o investicionim fondovima) na 86. sjednici od 22. 8. 2024. godine, donosi
+PRAVILA O IZMJENAMA I DOPUNAMA PRAVILA O IZDAVANJU DOZVOLE ZA RAD I DAVANJE SAGLASNOSTI DRUŠTVIMA ZA UPRAVLJANJE INVESTICIONIM FONDOVIMA
