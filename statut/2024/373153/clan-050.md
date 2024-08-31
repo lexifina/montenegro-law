@@ -1,0 +1,3 @@
+# Član 50
+Predsjednik i članovi Savjeta Agencije, direktor Agencije i zaposleni Agencije, kao i druga pravna i fizička lica kojima je Agencija povjerila obavljanje određenih poslova, dužni su da čuvaju tajnost podatka koji je aktom Agencije kao takav određen ili poslovnu tajnu bez obzira na način na koji su saznali te podatke za vrijeme i nakon prestanka obavljanja funkcije ili radnog odnosa sve dok je taj podatak pod režimom tajnosti ili dok se odlukom Agencije ili imaoca podatka ne oslobode te obaveze.
+Za određivanje poslovne tajne neposredno je odgovoran starješina organa odnosno direktor Agencije ili drugo ovlašćeno lice na osnovu opšeg akta ili ovlašćenja direktora.
