@@ -1,0 +1,3 @@
+# Član 91
+## Bliži kriterijumi održivosti i uštede emisija gasova sa efektom staklene bašte
+Bliže kriterijume održivosti i uštede emisija gasova sa efektom staklene bašte, način verifikacije i subjekte verifikacije, uslove koje treba da ispunjava akreditovano pravno lice za verifikaciju kriterijuma održivosti, postupke provjere ispunjavanja kriterijuma održivosti za priznavanje biogoriva, biotečnosti i goriva iz biomase u ostvarivanju udjela, izvještavanje o ispunjenosti kriterijuma održivosti i uštede emisija gasova sa efektom staklene bašte, nezavisnu reviziju informacija dostavljenih u procesu izvještavanja i druge elemente koji se odnose na kriterijume održivosti i uštede emisija gasova sa efektom staklene bašte propisuje Vlada.

@@ -1,0 +1,31 @@
+# Član 107
+## Novčane kazne
+Novčanom kaznom u iznosu od 3.000€ do 20.000€ kazniće se za prekršaj pravno lice, ako:
+1) ne plaća tržišnu premiju, odnosno fid-in tarifu, i ne ispunjava obaveze u vezi sa garantovanim otkupom električne energije i preuzimanjem balansne odgovornosti u skladu sa ovim zakonom (član 19 stav 1);
+2) ne prodaje električnu energiju kupljenu od povlašćenog proizvođača po osnovu ugovora o tržišnoj premiji na organizovanom tržištu električne energije u Crnoj Gori, snabdjevaču ili kupcu- samosnabdjevaču (član 19 stav 3);
+3) ovlašćenoj ugovornoj strani ne plati razliku između referentne tržišne cijene i ostvarene cijene, u skladu sa ugovorom o tržišnoj premiji, ukoliko je u obračunskom periodu referentna tržišna cijena veća od ostvarene cijene (član 24 stav 2);
+4) ne zaključi ugovor o tržišnoj premiji u roku od 30 dana od dana prijema zahtjeva privremenog povlašćenog proizvođača za zaključenje ugovora o tržišnoj premiji, koji je dostavio bankarsku garanciju za završetak projekta (član 42 stav 1);
+5) ne koristi obnovljive izvore u procesu proizvodnje električne energije u elektrani u odnosu na koju je stekao takav status (član 43 stav 2);
+6) ne obezbijedi unaprijed sredstva neophodna za pokriće troškova za uklanjanje elektrane za koju je stekao status povlašćenog proizvođača, po isteku njenog vijeka trajanja, i troškova sanacije zemljišta na kojem se nalazila elektrana u skladu sa ugovorom o tržišnoj premiji (član 43 stav 6);
+7) tokom prelaznog perioda iz člana 13 ovog zakona, ne dostavi i ne prenese ovlašćenoj ugovornoj strani garancije porijekla koje su izdate za dio snage elektrane u odnosu na koji je stečen status povlašćenog proizvođača (član 52 stav 3);
+8) ne izda potvrdu da je obezbijedio mjerenje količine električne energije u skladu sa članom 52 stav 9 ovog zakona, na zahtjev proizvođača električne energije (član 52 stav 12);
+9) ne dostavi operatoru tržišta električne energije podatke o količini električne energije iz člana 52 stav 9 ovog zakona (član 52 stav 13);
+10) ne vodi evidenciju elektrana koje proizvode energiju iz obnovljivih izvora (član 57 stav 1);
+11) ne vodi vodi evidenciju o izdatim, prenesenim, upotrijebljenim i povučenim garancijama porijekla (član 58 stav 1).
+12) ne utvrdi pojednostavljeni postupak priključenja za elektranu krajnjeg kupca koji proizvodi električnu energiju za sopstvene potrebe i za elektranu koja je dio demonstracionog projekta, instalisane snage 16 kW ili manje, ili ekvivalentne snage priključka koji nije trofazni (član 62 stav 4);
+13) ne donese i ne objavi na svojoj internet stranici opšti akt o pojednostavljenom postupku priključenja, kojim se bliže uređuje način podnošenja zahtjeva za pojednostavljeni postupak priključenja, uslovi za usvajanje zahtjeva, dokumentacija koja se podnosi, rokovi za postupanje koji ne mogu biti duži od 30 dana od podnošenja zahtjeva, rokovi za priključenje na sistem i druga pitanja od značaja za ovaj postupak (član 62 stav 5);
+14) ne otkupljuje višak proizvedene električne energije po cijeni energije iz ugovora o kupoprodaji (član 63 stav 2);
+15) prioritetno ne preuzima električnu energiju od strane kupca-proizvođača, osim u slučaju kada je ugrožena sigurnost rada sistema (član 64 stav 1);
+16) na mjestu primopredaje električne energije kupca-proizvođača ne postavi obračunsko brojilo, koje omogućava odvojeno mjerenje isporučene i preuzete električne energije (član 64 stav 2 tačka 1);
+17) na mjestu konekcije instalacija za proizvodnju električne energije i instalacija za potrošnju električne energije kupca-proizvođača ne postavi kontrolno brojilo koje registruje ukupno proizvedenu količinu električne energije kupca-proizvođača (član 64 stav 2 tačka 2);
+18) do desetog u mjesecu za prethodni mjesec ne dostavi snabdjevaču, a ako to zahtijeva i Ministarstvu, podatke o količini preuzete, predate i proizvedene električne energije u elektrani kupca-proizvođača (član 64 stav 3);
+19) ne uspostavi evidenciju kupaca-proizvođača priključenih na distributivni, odnosno zatvoreni distributivni sistem ili prenosni sistem (član 65 stav 1);
+20) po isteku tekuće godine ne izvrši mjerenje ili procjenu proizvedene električne energije u objektu kupca-proizvođača u skladu sa propisanom metodologijom i podatke ne dostavlja Ministarstvu do 1. marta naredne godine (član 65 stav 2);
+21) ne izvrši konačni obračun količine isporučene i preuzete električne energije od strane kupca- proizvođača 1. aprila svake godine za prethodnih 12 mjeseci, a višak isporučene električne energije od strane kupca-proizvođača ne obračuna kupcu-proizvođaču po cijeni energije iz ugovora o kupoprodaji električne energije, bez obračuna mrežnih i drugih naknada, u okviru tarife po kojoj je energija proizvedena (član 68 stav 5);
+22) sa obračunatim viškom energije iz člana 68 stav 3 ovog zakona, ne izmiruje neizmirene obaveze kupca-proizvođača, a potencijalni preostali iznos ne isplati kupcu-proizvođaču u roku od 30 dana od dana obračuna (član 68 stav 6);
+23) ne stavi na raspolaganje informacije o udjelu energije iz obnovljivih izvora, najmanje jednom godišnje, na svojim internet stranicama, ili na zahtjev krajnjeg kupca, ne stavi na raspolaganje, uz fakturu ili na drugi pogodan način (član 82 stav 1);
+24) ne pripremi i ne donese plan mjera za povećanje efikasnosti i ispunjavanje udjela obnovljive energije u svojim sistemima daljinskog grijanja i hlađenja u skladu sa Nacionalnim energetskim i klimatskim planom (član 82 stav 2);
+25) bez odlaganja ne dostavi razloge za odbijanje priključenja nezavisnom snabdjevaču i nadležnom organu jedinice lokalne samouprave, kao i uslove koje snabdjevač treće strane treba da ispuni i mjere koje treba preduzeti u sistemu da bi se omogućilo priključenje (član 82 stav 5);
+26) ne obezbijedi da toplotna energija koju isporučuje ispunjava uslove kvaliteta, pouzdanosti snabdijevanja i zaštite životne sredine utvrđene tehničkim propisima i potreban stepen energetske efikasnosti proizvodnog kapaciteta (član 84 stav 1).
+Za prekršaj iz stava 1 ovog člana kazniće se i odgovorno lice u pravnom licu i fizičko lice novčanom kaznom u iznosu od 300€ do 2.000€.
+Za prekršaj iz stava 1 ovog člana kazniće se preduzetnik novčanom kaznom u iznosu od 1.500€ do 6.000€.

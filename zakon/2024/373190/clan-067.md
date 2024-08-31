@@ -1,0 +1,4 @@
+# Član 67
+## Mjerenje električne energije od strane operatora sistema
+Operator sistema na koji je priključen objekat kupca-proizvođača vrši mjerenje količine isporučene i preuzete električne energije kod kupca-proizvođača na mjestu priključenja objekta kupca-proizvođača na prenosni ili distributivni sistem i vrši mjerenje ili procjenu proizvedene električne energije na mjestu priključenja postrojenja za proizvodnju električne energije i instalacije za potrošnju električne energije kupca-proizvođača.
+Operator sistema iz stava 1 ovog člana dostavlja snabdjevaču i operatoru tržišta električne energije podatke o mjerenju na mjestu priključenja objekta kupca-proizvođača na distributivni sistem na mjesečnom nivou, a na zahtjev Ministarstva, Agencije ili operatora tržišta električne energije, dostavlja i podatke o mjerenju ili procjeni ukupne proizvedene električne energije.

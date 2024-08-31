@@ -1,0 +1,14 @@
+# Član 41
+## Trajanje i produženje statusa privremenog povlašćenog proizvođača električne energije
+U roku od dvije godine od sticanja statusa privremenog povlašćenog proizvođača, privremeni povlašćeni proizvođač je dužan da, u skladu sa zakonom kojim se uređuje izgradnja objekata, pribavi građevinsku dozvolu za izgradnju elektrane za koju je stekao status privremenog povlašćenog proizvođača.
+Ako privremeni povlašćeni proizvođač ne pribavi građevinsku dozvolu u roku iz stava 1 ovog člana i ne podnese zahtjev iz stava 4 ovog člana, Ministarstvo će rješenjem u cjelosti ukinuti rješenje o davanju prava na tržišnu premiju i sticanju statusa privremenog povlašćenog proizvođača.
+Ako privremeni povlašćeni proizvođač dobije građevinsku dozvolu, status privremenog povlašćenog proizvođača može se na njegov zahtjev rješenjem produžiti za još tri godine podnošenjem zahtjeva Ministarstvu.
+Trajanje statusa privremenog povlašćenog proizvođača može se produžiti na zahtjev privremenog povlašćenog proizvođača za još jednu godinu u slučaju više sile i radi sprečavanja ili otklanjanja posljedica bilo kog nepredviđenog ili neizbježnog događaja koji je van kontrole privremenog povlašćenog proizvođača, i to:
+1) prirodnih katastrofa, kao što su požar, poplava, zemljotres, vulkanske erupcije i drugi oblici katastrofalnih vremenskih uslova;
+2) ratnog ili vanrednog stanja, terorizma, revolucije, javnih demonstracija, sabotaže, vandalizma, štrajka (isključujući štrajkove radnika privremenog povlašćenog proizvođača, ali uključujući štrajkove radnika kod operatora sistema);
+3) nečinjenja državnih organa, nosilaca javnih ovlašćenja, odnosno nadležnog organa jedinice lokalne samouprave, usljed čega je došlo do prestanka licence, dozvole, odobrenja neophodnog za ispunjavanje obaveza ili ostvarivanje prava koja prestaju da važe ili su poništeni, ili nijesu izdati, izmijenjeni ili produženi u propisanim rokovima prema podnijetom zahtjevu, iz razloga koji se ne mogu pripisati nezakonitom ili nenamjernom ponašanju privremenog povlašćenog proizvođača;
+4) eksproprijacije u vezi sa elektranom privremenog povlašćenog proizvođača ili u vezi sa dijelom te elektrane;
+5) međunarodnih sankcija ili stupanja na snagu propisa međunarodne organizacije koji su obavezni za Crnu Goru, ako zbog njihove primjene privremeni povlašćeni proizvođač nije u mogućnosti da izvršava svoje obaveze iz ugovora o tržisnoj premiji odnosno fid-in tarifi;
+6) djelimičnog ili potpunog prekida rada sistema ili dijela sistema za vrijeme važenja odluke o uvođenju vanrednog stanja za teritoriju ili dio teritorije Crne Gore, odnosno jedinice lokalne samouprave na kojoj je planirana izgradnja elektrane koja koristi obnovljive izvore energije.
+Protiv rješenja iz st. 2 i 3 ovog člana može se pokrenuti upravni spor.
+Sadržaj zahtjeva iz st. 3 i 4 ovog člana propisuje Ministarstvo.

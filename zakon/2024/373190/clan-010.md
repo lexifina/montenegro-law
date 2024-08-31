@@ -1,0 +1,12 @@
+# Član 10
+## Procedura izdavanja dozvola za realizaciju projekata
+Privremeni povlašćeni proizvođač, povlašćeni proizvođač, investitor elektrane za proizvodnju električne energije iz obnovljivih izvora mogu zahtjev za izdavanje dozvole za izgradnju elektrane za proizvodnju električne energije i druge zahtjeve za izdavanje dokumentacije potrebne za izdavanje te dozvole predati Ministarstvu kao kontakt tački, a Ministarstvo je dužno da po službenoj dužnosti, bez odlaganja, te zahtjeve dostavi organima državne uprave i organima lokalne uprave nadležnim za odlučivanje o tim zahtjevima.
+Ministarstvo podnosiocima zahtjeva daje obavještenja, informacije, savjete i propisane obrasce u vezi sa ostvarivanjem njihovih pravnih interesa po zahtjevima iz stava 1 ovog člana.
+Operator tržišta električne energije, u saradnji sa Ministarstvom, Regulatornom agencijom za energetiku i regulisane komunalne djelatnosti (u daljem tekstu: Agencija) i operatorom prenosnog i distributivnog sistema i organom državne uprave nadležnim za poslove uređenja prostora i izgradnje objekata, priprema vodič koji pruža potpune informacije o procedurama za izdavanje dozvola za izgradnju elektrana koje koriste obnovljive izvore, kao i za mala postrojenja i instalacije kupaca-proizvođača, koji se objavljuje na internet stranicama tih organa i operatora.
+Nadležni organi i nosioci javnih ovlašćenja obezbjeđuju da procedura izdavanja dozvola koju pokreće podnosilac zahtjeva ne traje duže od:
+1) dvije godine, za proceduru dobijanja dozvole za elektrane iz stava 1 ovog člana;
+2) godinu dana, za proceduru dobijanja dozvole za elektrane instalisane snage manje od 150 kW; i
+3) godinu dana, za obnovu kapaciteta postojećih elektrana.
+Procedure izdavanja dozvole iz stava 4 tač. 1 i 2 ovog člana mogu se, na zahtjev, produžiti za najviše godinu dana iz opravdanih razloga, ako su nastupile vanredne okolnosti na koje podnosilac zahtjeva nije mogao da utiče.
+Procedura izdavanja dozvole iz stava 4 tačka 3 ovog člana može se, na zahtjev, produžiti za najviše godinu dana, u slučaju vanrednih okolnosti, kao što su iz važnih bezbjednosnih razloga kada projekat povećanja snage elektrane ima značajan uticaj na elektroenergetsku mrežu ili prvobitni kapacitet, veličinu ili performanse elektrane.
+Osnove za primjenu pojednostavljene procedure za izdavanje dozvole za elektrane instalisane snage manje od 150 kW i za obnovu kapaciteta elektrana propisuje Ministarstvo.

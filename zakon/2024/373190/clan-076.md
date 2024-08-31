@@ -1,0 +1,13 @@
+# Član 76
+## Udio energije iz obnovljivih izvora u finalnoj potrošnji energije u saobraćaju
+Udio energije iz obnovljivih izvora u finalnoj potrošnji energije u sektoru saobraćaja i mjere za postizanje tog udjela utvrđuju se Nacionalnim energetskim i klimatskim planom.
+Pravila za obračun udjela iz stava 1 ovog člana utvrđuju se propisom iz člana 8 stav 4 ovog zakona.
+Obnovljivi izvori energije u finalnoj potrošnji energije u saobraćaju iz stava 1 ovog člana obuhvataju tečna i gasovita goriva nebiološkog porijekla namijenjena za upotrebu u saobraćaju i kada se koriste kao međuproizvod za proizvodnju konvencionalnih tečnih i gasovitih goriva, goriva dobijenih iz biomase namijenjenih za upotrebu u saobraćaju, napredna biogoriva, goriva iz recikliranog ugljenika i goriva u vidu električne energije.
+Dobavljači goriva koja se koriste u saobraćaju imaju obavezu u vezi sa ostvarivanjem udjela obnovljivih izvora energije utvrđenog Nacionalnim energetskim i klimatskim planom.
+Obaveze dobavljača goriva iz stava 4 ovog člana mogu se utvrditi na način da se:
+1) oslobode pod određenim uslovima ili da se za različite dobavljače utvrde različite obaveze ili da se obaveze utvrde u zavisnosti od vrste goriva, uzimajući u obzir stepen razvoja i troškove različitih tehnologija proizvodnje goriva;
+2) utvrde posebne obaveze za dobavljače goriva koji stavljaju na tržište napredna biogoriva;
+3) dobavljači goriva koji snabdijevaju tržište gorivom u vidu električne energije, odnosno obnovljivim tečnim i gasovitim gorivom nebiološkog porijekla namijenjenih upotrebi u saobraćaju oslobađaju od obaveze stavljanja na tržište udjela naprednih biogoriva iz tačke 2 ovog stava u odnosu na ta goriva.
+Ministarstvo vodi evidenciju o dobavljačima goriva iz stava 3 ovog člana, koja posebno sadrži podatke o obaveznom udjelu energije iz obnovljivih izvora u saobraćaju za tekuću i prethodnu kalendarsku godinu.
+Sirovine za proizvodnju biogasa za saobraćaj i naprednih biogoriva iz stava 3 ovog člana, čiji se doprinos udjelu iz stava 1 ovog člana može smatrati dvostruko većim od njihovog energetskog sadržaja, propisuje Ministarstvo.
+Obaveze dobavljača goriva koji se koriste u saobraćaju u vezi sa ostvarivanjem udjela obnovljivih izvora energije u saobraćaju, način ispunjavanja te obaveze, mjere za postizanje udjela obnovljivih izvora energije u saobraćaju iz stava 1 ovog člana, način stavljanja u promet goriva iz stava 3 ovog člana i električne energije iz obnovljivih izvora za pogon motornih vozila, način izvještavanja u vezi sa ostvarivanjem udjela obnovljivih izvora energije u sektoru saobraćaja propisuje Vlada.

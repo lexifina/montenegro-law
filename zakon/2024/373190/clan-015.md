@@ -1,0 +1,10 @@
+# Član 15
+## Kvota za dodjelu podsticaja
+Vlada Crne Gore (u daljem tekstu: Vlada) donosi trogodišnji plan sistema podsticaja na osnovu opštih smjernica energetske politike, Nacionalnog energetskog i klimatskog plana i obaveza preuzetih potvrđenim međunarodnim ugovorima, u okviru kojeg se utvrđuju kvote za projekte obnovljivih izvora energije, tehnologije kvalifikovane za podsticaje u skladu sa ovim zakonom i raspored aukcija za tržišnu premiju, kao i posebne kvote za fid-in tarifu za mala postrojenja i demonstracione projekte, prihvatljive tehnologije i raspored za dodjelu kvota za fid-in tarifu.
+U okviru trogodišnjeg plana iz stava 1 ovog člana utvrđuju se kvote za projekte obnovljivih izvora energije koje će realizovati zajednice obnovljivih izvora energije, a posebno kvote za tržišnu premiju i kvote za fid in tarifu.
+U skladu sa trogodišnjim planom iz stava 1 ovog člana, Vlada odlukom utvrđuje godišnje kvote za jednu ili više aukcija odnosno jedan ili više postupaka za dodjelu fid-in tarife, vrste korišćene tehnologije i ukupnu snagu elektrana.
+Kvota za prvu aukciju za dodjelu prava na tržišnu premiju može se utvrditi odlukom Vlade prije donošenja trogodišnjeg plana.
+Ako se aukcija sprovodi za unaprijed određene lokacije koje se nalaze u državnoj imovini, pored podataka iz stava 3 ovog člana, odlukom se utvrđuje zemljište u državnoj imovini, odnosno prirodno bogatstvo koje je za tu namjenu predviđeno planskim dokumentima u skladu sa zakonom kojim se uređuje planiranje prostora.
+Kvota koja nije dodijeljena na jednoj aukciji za tržišnu premiju, odnosno u jednom postupku za dodjelu fid-in tarife, može se dodati kvoti koja će se dodijeliti u narednim aukcijama, odnosno postupcima dodjele fid-in tarife.
+Nacrt trogodišnjeg plana sistema podsticaja Ministarstvo dostavlja nezavisnom organu nadležnom za poslove zaštite konkurencije, na mišljenje.
+Trogodišnji plan sistema podsticaja iz stava 1 ovog člana donosi se najkasnije do 31. decembra tekuće godine koja prethodi trogodišnjem periodu za koji se plan donosi.

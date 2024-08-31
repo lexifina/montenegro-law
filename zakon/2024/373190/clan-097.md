@@ -1,0 +1,5 @@
+# Član 97
+## Izbor strateškog partnera
+Način i postupak izbora strateškog partnera putem objavljivanja i sprovođenja javnog poziva, direktnog poziva kvalifikovanim učesnicima ili prihvatanjem pisma o namjerama dostavijenog Vladi od strane zainteresovanog lica, sadržinu i opis projektnog zahtjeva i potreba, određivanje lica koje će biti vlasnik i investitor, osnovne karakteristike strateškog projekta, vrstu obnovljivog izvora energije i/ili vrstu skladišta energije, način proizvodnje i/ili skladištenja i uslove preuzimanja električne energije i druge elemente od značaja za sprovođenje postupka izbora strateškog partnera, za svaki strateški projekat propisuje Vlada.
+Prilikom izbora strateškog partnera i zaključivanja ugovora o realizaciji projekta sa strateškim partnerom ne primjenjuju se propisi kojima se uređuje postupak javnih nabavki, javno-privatno partnerstvo i koncesije.
+Po sprovedenom postupku za izbor strateškog partnera po jednom od postupaka iz stava 1 ovog člana, Vlada donosi odluku o izboru strateškog partnera.

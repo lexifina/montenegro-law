@@ -1,0 +1,9 @@
+# Član 68
+## Šema neto mjerenja
+Neto mjerenje je metoda po kojoj se višak električne energije koju je kupac-proizvođač isporučio mreži tokom obračunskog perioda prenosi u obliku energetskog depozita u naredne obračunske periode kada je potrošnja električne energije kupca-proizvođača veća od sopstvene proizvodnje.
+Osnovicu za mjesečni obračun preuzete i isporučene električne energije prilikom primjene šeme neto mjerenja čini neto razlika između zbira isporučene električne energije kupca-proizvođača na mjestu priključka i energetskog depozita iz stava 1 ovog člana i preuzete električne energije.
+Ako je kupac-proizvođač u mrežu isporučio više električne energije nego što je preuzeo u obračunskom periodu, razlika u količini isporučene i preuzete električne energije se utvrđuje i prenosi u naredni obračunski period kao energetski depozit, a snabdjevač vrši obračun kao da nema potrošnje u obračunskom periodu.
+Ako je rezultat obračuna iz stava 1 ovog člana negativan, snabdjevač koristi taj iznos kao osnovicu za obračun energije na računu izdatom u skladu sa ugovorom o kupoprodaji električne energije.
+Snabdjevač je dužan da izvrši konačni obračun količine isporučene i preuzete električne energije od strane kupca-proizvođača 1. aprila svake godine za prethodnih 12 mjeseci, a višak isporučene električne energije od strane kupca proizvođača snabdjevač je dužan da obračuna kupcu- proizvođaču po cijeni energije iz ugovora o kupoprodaji električne energije, bez obračuna mrežnih i drugih naknada, u okviru tarife po kojoj je energija proizvedena.
+Sa obračunatim viškom energije iz stava 3 ovog člana, snabdjevač izmiruje neizmirene obaveze kupca-proizvođača, a potencijalni preostali iznos isplati kupcu-proizvođaču u roku od 30 dana od dana obračuna.
+Obračun naknade za podsticanje proizvodnje električne energije iz obnovljivih izvora, koju plaća kupac-proizvođač u slučaju primjene neto šeme mjerenja, vrši se primjenom na osnovicu iz stava 4 ovog člana.

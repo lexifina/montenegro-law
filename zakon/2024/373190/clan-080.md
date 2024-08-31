@@ -1,0 +1,7 @@
+# Član 80
+## Transparentnost i verifikacija podataka
+Ministarstvo obezbjeđuje saradnju i razmjenu podataka između sistema Crne Gore i sistema drugih država članica Energetske zajednice i dobrovoljnih šema i verifikatora uspostavljenih u skladu sa članom 90 ovog zakona, kako bi se smanjio rizik da jedinstvena pošiljka bude više puta deklarisana na teritoriji ugovorne strane Energetske zajednice.
+Za potrebe iz stava 1 ovog člana i praćenje tečnih i gasovitih goriva koja su podobna za izračunavanje udjela energije iz obnovljivih izvora u sektoru saobraćaja i za druge svrhe u skladu sa ovim zakonom, Ministarstvo će uspostaviti posebnu bazu podataka o izvršenim transakcijama i održivosti i karakteristikama tih goriva, uključujući njihove emisije gasova sa efektom staklene bašte tokom životnog ciklusa, počev od mjesta njihove proizvodnje do dobavljača goriva koji to gorivo stavlja na tržište.
+Dobavljači goriva dužni su da u bazu podataka iz stava 2 ovog člana unesu sve podatke i informacije koje su neophodne za provjeru ispunjenosti uslova za postizanje udjela energije iz obnovljivih izvora u sektoru saobraćaja u skladu sa ovim zakonom.
+U slučaju da Ministarstvo posumnja ili otkrije zloupotrebu, obavještava, po potrebi, nadležni organ Energetske zajednice.
+Sadržaj baze podataka, njeno održavanje i dostupnost, subjekte koji su obavezni da dostavljaju podatke potrebne za bazu podataka iz stava 2 ovog člana, način i rokove za njihovo dostavljanje propisuje Ministarstvo.

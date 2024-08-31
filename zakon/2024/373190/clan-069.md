@@ -1,0 +1,9 @@
+# Član 69
+## Šema neto obračuna
+Neto obračun je metoda po kojoj se novčana vrijednost viška električne energije koju isporuči kupac-proizvođač u obračunskom periodu koristi u obliku finansijskog depozita za smanjenje računa za energiju kupca-proizvođača u narednim obračunskim periodima.
+Osnovicu za mjesečno obračunavanje preuzete i isporučene električne energije prilikom primjene šeme neto obračuna čini neto razlika između obračuna isporučene električne energije kupca-proizvođača na mjestu priključenja i obračuna preuzete električne energije iz mreže.
+Ako je kupac-proizvođač u obračunskom periodu preuzeo više električne energije nego što je isporučio mreži, razliku između preuzete i isporučene električne energije, kupac-proizvođač plaća u skladu sa ugovorenom cijenom iz ugovora o kupoprodaji električne energije.
+Ako je kupac-proizvođač isporučio više električne energije u mrežu nego što je preuzeo u obračunskom periodu, razlika između isporučene i preuzete električne energije prenosi se u naredni obračunski period u korist kupca-proizvođača u vidu novčanog depozita koji odgovara vrijednosti viška isporučene električne energije u odnosu na preuzetu u obračunskom periodu.
+Finansijski depozit se obračunava kao proizvod razlike između isporučene i preuzete energije iz stava 3 ovog člana i jedinične cijene energije iz ugovora o kupoprodaji umanjene za 5%.
+Finansijski depozit se koristi u obračunskim periodima kada je količina električne energije preuzete iz mreže veća od količine električne energije koju proizvede kupac-proizvođač i isporuči u mrežu.
+Obračun naknade za podsticanje proizvodnje električne energije iz obnovljivih izvora, koju plaća kupac-proizvođač u slučaju primjene šeme neto obračuna, vrši se za neto razliku između preuzete i isporučene električne energije u obračunskom periodu.

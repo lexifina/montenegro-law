@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+U cilju promovisanja, proizvodnje i korišćenja energije iz obnovljivih izvora, ovim zakonom se uređuje određivanje udjela energije iz obnovljivih izvora, podsticaji za proizvodnju energije iz obnovljivih izvora, uslovi i postupak sticanja statusa privremenog povlašćenog proizvođača i povlašćenog proizvođača, izdavanje garancija porijekla za energiju proizvedenu iz obnovljivih izvora, status kupaca-proizvođača i zajednica obnovljivih izvora energije, korišćenje obnovljivih izvora energije u sektoru grijanja i hlađenja i u sektoru saobraćaja, kriterijumi održivosti i uštede emisija gasova sa efektom staklene bašte, regionalna saradnja, kao i druga pitanja od značaja za korišćenje energije iz obnovljivih izvora.

@@ -1,0 +1,6 @@
+# Član 8
+## Planiranje udjela energije iz obnovljivih izvora
+Ciljevi korišćenja energije iz obnovljivih izvora u ukupnoj finalnoj potrošnji utvrđeni Nacionalnim energetskim i klimatskim planom, u dijelu koji se odnosi na korišćenje energije iz obnovljivih izvora, ostvaruju se između ostalog i ispunjavanjem obaveznih i indikativnih udjela energije iz obnovljivih izvora u ukupnoj finalnoj potrošnji energije u sektorima električne energije, grijanja i hlađenja i saobraćaja, utvrđenih ovim zakonom.
+Obračun udjela iz stava 1 ovog člana vrši se na osnovu količine proizvedene električne energije u solarnim elektranama, hidroelektranama i vjetroelektranama, energetskog sadržaja goriva u saobraćaju, uticaja biogoriva, biotečnosti i sa njima uporedivih fosilnih goriva na emisiju gasova sa efektom staklene bašte, kao i količine energije iz toplotnih pumpi.
+Prilikom obračuna količine proizvedene električne energije u hidroelektranama iz stava 2 ovog člana ne uzima se u obzir električna energija proizvedena u reverzibilnim hidroelektranama iz vode koja se crpi na veću visinu.
+Udio, pravila obračuna i način obračuna udjela iz stava 1 ovog člana propisuje organ državne uprave nadležan za poslove energetike (u daljem tekstu: Ministarstvo).
