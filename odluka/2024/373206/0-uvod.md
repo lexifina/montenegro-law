@@ -1,0 +1,2 @@
+Na osnovu člana 21 stav 3 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18, 34/19, 130/21, 146/21, 92/22, 152/22, 152/22, 113/23, 48/24) generalni sekretar Skupštine Crne Gore, uz saglasnost Kolegijuma predsjednika Skupštine, dana 3. septembra 2024. godine, donosi
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O VARIJABILNOM DIJELU ZARADE ZA ZAPOSLENE U SLUŽBI SKUPŠTINE CRNE GORE
