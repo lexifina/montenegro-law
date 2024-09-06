@@ -1,0 +1,34 @@
+{
+  "id": 373182,
+  "path": "zakon/2024/373182",
+  "source": "https://www.sluzbenilist.me/propisi/373182",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/373182/download",
+  "title": "Zakon o izmjenama i dopunama Opšteg zakona o obrazovanju i vaspitanju",
+  "issue": "Službeni list Crne Gore, broj 84/2024",
+  "published": "2024-09-06",
+  "in_force": "2024-09-06",
+  "in_force_basis": "Ovaj zakon stupa na snagu danom objavljivanja u \"Službenom listu Crne Gore\".",
+  "applies": null,
+  "amended_by": [
+    [
+      384093,
+      "Zakon o izmjenama i dopunama Opšteg zakona o obrazovanju i vaspitanju"
+    ],
+    [
+      390419,
+      "Zakon o izmjenama Opšteg zakona o obrazovanju i vaspitanju"
+    ]
+  ],
+  "text_status": "as-enacted; amended, not consolidated",
+  "source_sha256": "ae985b07129e1acdbf68e5e46a6518613166bf658d9b338e484e476b4e28815e",
+  "articles_in_source": 15,
+  "note": null,
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 6498,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "text_sha256": "56032348dc699fe17af2f8cb9ab50da9b0d20cbc18418e551fbdf8ddaa5159d6"
+}
