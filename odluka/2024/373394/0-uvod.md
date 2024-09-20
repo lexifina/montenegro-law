@@ -1,0 +1,2 @@
+Na osnovu člana 8 stav 2 člana 10 stav 2 i člana 13 stav 4 Zakona o socijalnom stanovanju ("Službeni list CG", broj 35/13) člana 38 stav 1 tačka 2 a u vezi sa članom 27 stav 1 tačka 16 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20, 50/22, 84/22) člana 34 stav 1 tačka 2 Statuta Opštine Herceg Novi ("Službeni list Crne Gore - Opštinski propisi", broj 1/19, 37,19, 6/20 i 18/22), Skupština opštine Herceg Novi, na sjednici održanoj dana 6.09.2024. godine, donijela je
+ODLUKU
