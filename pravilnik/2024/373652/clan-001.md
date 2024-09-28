@@ -1,0 +1,4 @@
+# Član 1
+U Pravilniku o normativima i standardima za sticanje sredstava iz javnih prihoda za ustanove koje realizuju javno važeće obrazovne programe ("Službeni list CG", br. 66/10, 41/13, 67/17, 54/18 i 67/23) u članu 42a stav 1 poslije riječi "školi" dodaju se zarez i riječi: "odnosno predškolskoj ustanovi" i riječi: "70 učenika" zamjenjuju se riječima: " 35 učenika, odnosno djece".
+Stav 2 mijenja se i glasi:
+"Ako se u dvije ili više škola, odnosno predškolskih ustanova obrazuje više od 35 učenika, odnosno djece pripadnika romske i egipćanske populacije, tim školama, odnosno predškolskim ustanovama se može odobriti jedan izvršilac na poslovima medijatora za socijalnu inkluziju, a na svakih daljih 35 učenika, odnosno djece te populacije može se odobriti još po jedan izvršilac na tim poslovima."
