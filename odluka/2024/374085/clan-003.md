@@ -1,0 +1,2 @@
+# Član 3
+U Odluci o stipendiranju studenata, studentskoj i učeničkoj nagradi, član 15. stav 1. mijenja se i glasi: "Pravo na nagradu imaju studenti sa prosječnom ocjenom ne manjom od 9,5 i studenti koji su ostvarili izuzetan uspjeh u toku studijske godine (objavljen naučni rad, izuzetno postignuće u oblasti u kojoj se student obrazuje, osvojeno I, II ili III mjesto na Državnom ili međunarodnom takmičenju".

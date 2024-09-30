@@ -1,0 +1,2 @@
+# Član 6
+U Odluci o stipendiranju studenata, studentskoj i učeničkoj nagradi, mijenja se član 20. na način što se dodaje stav 5. koji glasi: "Za studente koji su ostvarili izuzetan uspjeh u toku studijske godine (objavljen naučni rad, izuzetno postignuće u oblasti u kojoj se student obrazuje, osvojeno I, II ili III mjesto na Državnom ili međunarodnom takmičenju), dodjeljuje se nagrada u vidi priznanja za postignuti uspjeh, te novčana nagrada u iznosu od 150€ za uspjeh postignut u zemlji i 300€ za uspjeh postignut na međunarodnoj sceni".
