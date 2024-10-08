@@ -1,0 +1,2 @@
+Na osnovu čl. 143 st. 1 tač. 29, 13, 25, 85, 127, 132 i 133 Zakona o audiovizuelnim medijskim uslugama ("Sl. list Crne Gore", br. 54/24), čl. 13 i 14 Zakona o medijima ("Službeni list Crne Gore", br. 54/24) i člana 27 tač. 32 i 33 Statuta Agencije za audiovizuelne medijske usluge Crne Gore ("Sl. list Crne Gore", br. 82/24), Savjet Agencije za audiovizelne medijske usluge, na sjednici održanoj 26.09. 2024. godine, je donio
+P R A V I L N I K O USLOVIMA I NAČINU REALIZACIJE OBAVEZA IDENTIFIKACIJE I OBJAVLJIVANJA PODATAKA O TRANSPARENTNOSTI VLASNIŠTVA
