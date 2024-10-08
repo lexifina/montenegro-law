@@ -1,0 +1,35 @@
+# Član 1
+Utvrđuje se javni interes za eksproprijaciju nepokretnosti u opštinama Nikšić i Plužine i to:
+I. Opština Nikšić
+KO Šipačno II
+1. kat. parcela br. 1413/3, pašnjak 5. klase, pov. 35m2, kat. parcela br. 1410/2, šume 5. klase, površine 24m2 i kat. parcela br. 1406/2, šume 5. klase, površine 12m2, upisane u Listu nepokretnosti broj 48 kao susvojina 1/6 Wolff Durutović Barbara, 1/6 Durutović Jelena, 1/6 Durutović Mirjana i 2/4 Durutović Vera
+2. kat. parcela br. 1463/2, krš, kamenjar, pov. 22m2, kat. parcela br. 1463/2, šume 5. klase, pov. 67m2, kat. parcela br. 1463/3, krš, kamenjar, pov. 12m2, kat. parcela br. 1463/3, šume 5. klase, pov. 35m2 i kat. parcela br. 1373/2, šume 6. klase, pov. 53m2, upisane u Listu nepokretnosti br. 42 kao susvojina na po 1/3 Durutović Neđeljko Vasilije, Durutović Neđeljko Velimir i Durutović Neđeljko Veselin
+3. kat. parcela br. 1372/2, šume 5. klase, pov. 159m2 i kat. parcela br. 1372/3, šume 5. klase, pov. 41m2, upisane u Listu nepokretnosti br. 193 kao svojina 1/1 Todorović Miladin
+4. kat. parcela br. 706/2, šume 5. klase, pov. 891m2, kat. parcela br. 707/2, livada 7. klase, pov. 425m2 i kat. parcela br. 710/2, krš, kamenjar, pov. 43m2, upisane u Listu nepokretnosti br. 295 kao svojina 1/1 Durutović Nikola Milorad
+5. kat. parcela br. 744/2, pašnjak 5. klase, pov. 312m2, kat. parcela br. 744/3, pašnjak 5. klase, pov. 07m2, kat. parcela br. 741/2, livada 7. klase, pov. 05m2, kat. parcela br. 722/2, livada 7. klase, pov. 351m2, kat. parcela br. 719/2, šume 5. klase, pov. 193m2, kat. parcela br. 723/2, livada 7. klase, pov. 20m2, kat. parcela br. 725/2, livada 7. klase, pov. 265m2, kat. parcela br. 725/3, livada 7. klase, pov. 123m2, kat. parcela br. 725/4, livada 7. klase, pov. 11m2 i kat. parcela br. 726/2, njiva 6. klase, pov. 128m2, upisano u Listu nepokretnosti br. 67 kao svojina 1/1 Marić Radoje Stanko
+6. kat. parcela br. 740/3, livada 7. klase, pov. 923m2 i kat. parcela br. 727/2, pašnjak 5. klase, pov. 181m2, upisane u Listu nepokretnosti br. 35 kao svojina 1/1 Durutović Željko
+7. kat. parcela br. 728/2, livada 7. klase, pov. 04m2, upisana u Listu nepokretnosti br. 63 kao susvojina na po 1/2 Bošković Lazar Darinka i Kustudić Lazar Jovanka
+8. kat. parcela br. 656/3, šume 5. klase, pov. 38m2, kat. parcela br. 656/4, šume 5. klase, pov. 40m2 i kat. parcela br. 656/5, šume 5. klase, pov. 30m2, upisane u Listu nepokretnosti br. 275 kao svojina 1/1 Todorović Vladimir Bećko
+9. kat. parcela br. 589/4, šume 5. klase, pov. 98m2, kat. parcela br. 589/5, šume 5. klase, pov. 114m2, kat. parcela br. 589/6, šume 5. klase, pov. 43m2 i kat. parcela br. 589/7, šume 5. klase, pov. 08m2, upisane u Listu nepokretnosti br. 203 kao susvojina 1/15 Todorović Vukoman Željko, 1/6 Todorović Ranko Ana, 1/18 Todorović Marina, 1/18 Todorović Milica, 1/15 Todorović Vukoman Milovan, 1/18 Todorović Miloš, 1/15 Todorović Vukoman Miodrag, 1/15 Todorović Vukoman Ratko, 1/18 Ćetković Sanja, 1/18 Todorović Slađana, 1/6 Todorović Ranko Sonja, 1/18 Todorović Tamara i 1/15 Todorović Vukoman Vojkan
+10. kat. parcela br. 609/3, šume 5. klase, pov. 29m2, upisana u Listu nepokretnosti br. 201 kao susvojina na po 1/2 Todorović Obren Darko i Todorović Obren Predrag
+11. kat. parcela br. 541/3, šume 5. klase, pov. 03m2, upisana u Listu nepokretnosti br. 194 kao susvojina na po 1/4 Todorović Antonije, Todorović Nada, Todorović Slavica i Dožić Veselinka
+12. kat. parcela br. 558/2, pašnjak 5. klase, pov. 12m2 i kat. parcela br. 557/2, šume 5. klase, pov. 06m2, upisane u Listu nepokretnosti br. 100 kao svojina 1/1 Mijatović Dragomir Ilija
+13. kat. parcela br. 566/2, šume 5. klase, pov. 55m2, kat. parcela br. 566/3, šume 5. klase, pov. 25m2, kat. parcela br. 551/2, šume 5. klase, pov. 144m2, kat. parcela br. 446/2, šume 5. klase, pov. 76m2, kat. parcela br. 446/3, šume 5. klase, pov. 33m2 i kat. parcela br. 446/4, šume 5. klase, pov. 05m2, upisane u Listu nepokretnosti br. 197 kao svojina 1/1 Nišavić Sava Rajka
+14. kat. parcela br. 442/2, šume 5. klase, pov. 244m2, upisana u Listu nepokretnosti br. 190 kao svojina 1/1 Todorović Pajo Pero
+15. kat. parcela br. 281/2, šume 5. klase, pov. 1324m2 i kat. parcela br. 281/3, šume 5. klase, pov. 07m2, upisane u Listu nepokretnosti br. 186 kao svojina 1/1 Todorović Maksim Božidar
+16. kat. parcela br. 412/2, šume 5. klase, pov. 1029m2 i kat. parcela br. 295/2, krš, kamenjar, pov. 10m2, upisane u Listu nepokretnosti br. 84 kao susvojina 11/24 Mijatović Ljubomir Vuk, 5/36 Mijatović Ilija Janko, 1/8 Mijatović Miomir Marko, 5/36 Mijatović Miloš Milica i 5/36 Mijatović Ilija Rajko
+17. kat. parcela br. 407/5, pašnjak 6. klase, pov. 233m2, kat. parcela br. 407/6, pašnjak 6. klase, pov. 555m2, kat. parcela br. 410/5, livada 7. klase, pov. 566m2, 410/6, livada 7. klase, pov. 24m2, i kat. parcela br. 408/2, krš, kamenjar, pov. 348m2, upisane u Listu nepokretnosti br. 90 kao susvojina na po 1/3 Mijatović Ilija Janko, Mijatović Miloš Milica i Mijatović Ilija Rajko
+18. kat. parcela br. 304/2, livada 6. klase, pov. 29m2 i kat. parcela br. 307/2, pašnjak 6. klase, pov. 60m2, upisane u Listu nepokretnosti br. 138 kao svojina 1/1 Minić Jovo Željko
+19. kat. parcela br. 296/3, pašnjak 6. klase, pov. 237m2, upisana u Listu nepokretnosti br. 283 kao svojina 1/1 Minić Vladimir Spasoje
+20. kat. parcela br. 296/4, pašnjak 6. klase, pov. 65m2, upisana u Listu nepokretnosti br. 271 kao svojina 1/1 Jovanović Milivoje Goran
+II. Opština Plužine
+KO Bajovo Polje
+1. kat. parcela br. 1052/2, livada 6. klase, pov. 01m2, upisana u Listu nepokretnosti br. 33 kao svojina 1/1 Jovović Radovan Vesna
+2. kat. parcela br. 1051/2, pašnjak 5. klase, pov. 38m2, upisana u Listu nepokretnosti br. 37 kao svojina 1/1 Jovović Đorđije Radojica
+3. kat. parcela br. 1044/2, livada 6. klase, pov. 36m2 i kat. parcela br. 1045/2, pašnjak 6. klase, pov. 89m2, upisane u Listu nepokretnosti br. 19 kao svojina 1/1 Jovović Živko Milun
+KO Miljkovac
+1. kat. parcela br. 2053/2, pašnjak 5. klase, pov. 93m2, kat. parcela br. 2053/3, pašnjak 5. klase, pov. 03m2, kat. parcela br. 1921/2, šume 5. klase, pov. 268m2, kat. parcela br. 1925/2, pašnjak 6. klase, pov. 287m2, kat. parcela br. 1930/2, pašnjak 6. klase, pov. 29m2, kat. parcela br. 1927/2, livada 6. klase, pov. 335m2 i kat. parcela br. 1931/2, njiva 5. klase, pov. 88m2, upisane u Listu nepokretnosti br. 7 kao susvojina na po ½ Blagojević Milinko Jovan i Blagojević Milinko Veselin
+2. kat. parcela br. 1933/2, livada 5. klase, pov. 281m2, upisana u Listu nepokretnosti br. 23 kao svojina 1/1 Mitrić Milorad Željko
+3. kat. parcela br. 2122/2, pašnjak 5. klase, pov. 28m2 i kat. parcela br. 2123/2, njiva 5. klase, pov. 27m2, upisane u Listu nepokretnosti br. 203 kao svojina 1/1 Blagojević Dragutin Slavko
+4. kat. parcela br. 2125/2, njiva 5. klase, pov. 26m2 i kat. parcela br. 2124/2, pašnjak 5. klase, pov. 49m2, upisane u Listu nepokretnosti br. 17 kao svojina 1/1 Blagojević Milun Jevto
+5. kat. parcela br. 2051/4, livada 5. klase, pov. 58m2, upisana u Listu nepokretnosti br. 164 kao svojina 1/1 Blagojević Petar Radojica
