@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se prava i obaveze organizacije priznate od Evropske komisije (u daljem tekstu: priznata organizacija) koja u ime organa uprave nadležnog za sigurnost plovidbe (u daljem tekstu: Organ uprave) vrši pregled, nadzor i sertifikaciju brodova crnogorske državne pripadnosti i sprovodi druge mjere kojima se obezbjeđuje sigurnost pomorske plovidbe, kao i način vršenja nadzora nad priznatom organizacijom.

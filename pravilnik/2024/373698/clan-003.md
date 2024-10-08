@@ -1,0 +1,8 @@
+# Član 3
+Prava i obaveze priznate organizacije, kao i način vršenja nadzora nad priznatom organizacijom utvrđuju se ugovorom koji naročito sadrži:
+1) puno ovlašćenje za obavljanje revizije plana, odobrenja i pregleda materijala za izgradnju broda, opremanje broda i obavljanje pregleda, odnosno revizija i izdavanje i/ili opoziv privremenih i dugotrajnih statutarnih svjedočanstava; ili
+2) djelimično ovlašćenje za obavljanje revizije plana, odobrenja i pregleda materijala za izgradnju broda, opremanje broda i obavljanje pregleda, odnosno revizija radi izdavanja privremenih statutarnih svjedočanstava; i
+3) pregled primjene međunarodnog ISO 9001:2015 standarda u organizaciji rada pomorskih školskih ustanova i centara za obuku pomoraca koji se bave obrazovanjem i obukom pomoraca i izdavanje svjedočanstava za sistem upravljanja kvalitetom, kao i primjene odgovarajućih IMO Modela kurseva tokom obrazovanja i obuke pomoraca.
+Priznata organizacija može koristiti usluge podugovarača i drugih pružaoca usluga podrške u skladu sa Kodeksom za priznate organizacije (RO Kodeks).
+Priznata organizacija treba da ispunjava minimalne kriterijume o zajedničkim pravilima i standardima priznatih organizacija za vršenje inspekcijskog pregleda broda i revizije sistema kvaliteta na brodu i kompaniji iz Priloga 1.
+Radi dobijanja ovlašćenja iz stava 1 ovog člana, priznata organizacija podnosi zahtjev organu državne uprave nadležnom za poslove pomorstva (u daljem tekstu: Ministarstvo), koji sadrži podatke o priznatoj organizaciji i predlog obima ovlašćenja koja se ugovorom prenose na priznatu organizaciju.
