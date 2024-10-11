@@ -1,0 +1,2 @@
+Na osnovu člana 177 stav 1 tačka 4 Zakona o osiguranju ("Sl. list RCG" br. 78/06, 19/07, "Sl. list CG", br. 53/09, 73/10, 40/11, 45/12, 6/13, 55/16 ,146/21 i 034/24) i člana 15 stav 1 tačka 2 Statuta Agencije za nadzor osiguranja ("Sl. list CG" br. 35/23) na 416. sjednici održanoj 08.10.2024. godine, Savjet Agencije za nadzor osiguranja donio je
+PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O SADRŽAJU IZVJEŠTAJA I DRUGIH OBAVJEŠTENJA I PODATAKA KOJI SE DOSTAVLJAJU AGENCIJI ZA NADZOR OSIGURANJA I O NAČINU I ROKOVIMA NJIHOVOG DOSTAVLJANJA
