@@ -1,0 +1,4 @@
+# Član 1
+## o dopuni Odluke o utvrđivanju javnog interesa za potpunu eksproprijaciju nepokretnosti zbog rekonstrukcije saobraćajnice Podgorica - Tuzi od Ržaničkog mosta na Cijevni do skretanja za Šipčanik
+U Odluci o utvrđivanju javnog interesa za potpunu eksproprijaciju nepokretnosti zbog rekonstrukcije saobraćajnice Podgorica - Tuzi od Ržaničkog mosta na Cijevni do skretanja za Šipčanik ("Službeni list CG - Оpštinski propisi", br. 62/22 i 02/23), u članu 1 stav 1 poslije alineje 57 dodaje se nova alineja, koja glasi:
+" dio katastarske parcele broj 1600/14 KO Tuzi (uslovni parcelacioni broj kat. parc. 1600/154) pašnjak 5 klase, površine 37a 44m², susvojina Djoković Bajram Ibrahim u obimu 1/5, Djoković Rizo Ismet u obimu 1/5, Đoković Jusuf u obimu 1/10, Djoković Rustem Ramo u obimu 1/5, Đoković Ruždija u obimu 1/10 i Djoković Mesudija ud. Džemalja u obimu 1/5."
