@@ -1,0 +1,3 @@
+Na osnovu člana 53 Statuta opštine Tuzi ("Službeni list Crne Gore - Оpštinski propisi", br. 24/19, 05/20, 51/22, 55/22), člana 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22, 84/22), člana 5 stav 1 alineja 7 Odluke o osnivanju Društva sa ograničenom odgovornošću d.o.o "Vodovod i kanalizacija - Ujësjellësi dhe kanalizimi" Tuzi ("Službeni list Crne Gore - Оpštinski propisi", br. 40/21), Skupština opštine Tuzi na sjednici održanoj dana 26.09.2024. godine donijela je
+ODLUKU
+o davanju saglasnosti na Odluku o utvrđivanju cijena regulisane komunalne djelatnosti javnog vodosnadbijevanja vršioca usluga DOO "Vodovod i kanalizacija - Ujësjellësi dhe kanalizimi" Tuzi za 2025. godinu
