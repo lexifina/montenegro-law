@@ -1,0 +1,2 @@
+Na osnovu člana 39. stav 2. i člana 59. stav 2. u vezi člana 157. stav 2. Zakona o socijalnoj i dječijoj zaštiti ("Sl.list Crne Gore", br. 027/13, 001/15, 042/15,047/15, 056/16, 066/16, 001/17, 031/17, 042/17, 050/17, 059/21, 145/21.), člana 59. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18, 034/19, 038/20, 050/22 i 084/22.), i člana 113 stav 1. Statuta opštine Ulcinja (,,Sl. list Crne Gore" - Оpštinski propisi" r. 48/19 i 05/24.), Predsjednik Opštine Ulcinj dana 27.09.2024. donosi sledeću:
+ODLUKU
