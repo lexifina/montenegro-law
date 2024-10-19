@@ -1,0 +1,2 @@
+Na osnovu člana 118 stav 3 i člana 175 stav 3 Zakona o osiguranju ("Službeni list Republike Crne Gore" br. 78/06, 19/07, "Službeni list Crne Gore" br. 53/09, 73/10, 40/11, 45/12, 6/13, 55/16, 146/21, 034/24) i člana 15 stav 1 tačka 2 Statuta Agencije za nadzor osiguranja ("Službeni list Crne Gore", br. 035/23 od 27.03.2023), Savjet Agencije za nadzor osiguranja na 416. sjednici od 08.10.2024. godine donio je
+PRAVILNIK O BLIŽEM NAČINU VRŠENJA NADZORA
