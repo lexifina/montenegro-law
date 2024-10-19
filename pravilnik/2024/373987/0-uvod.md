@@ -1,0 +1,2 @@
+Na osnovu člana 5 stav 6 Zakona o stranim i invazivnim stranim vrstama biljaka, životinja i gljiva ("Službeni list Crne Gore", broj 18/19), Ministarstvo ekologije, održivog razvoja i razvoja sjevera, uz saglasnost Ministarstva poljoprivrede, šumarstva i vodoprivrede i Ministarstva ekonomskog razvoja donijelo je
+P R A V IL N IK O UTVRĐIVANJU LISTE DOZVOLJENIH VRSTA BILJAKA, ŽIVOTINJA I GLJIVA I NAČINU AŽURIRANJA LISTE
