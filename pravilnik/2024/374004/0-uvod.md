@@ -1,0 +1,2 @@
+Na osnovu čl. 51 stav 2 i 65 stav 3 Zakona o osiguranju ("Sl. list RCG", br. 78/06, 19/07, "Sl. list CG", br. 53/09, 73/10, 40/11, 45/12, 06/13, 55/16, 146/21, 34/24), na 416. sjednici od 08.10. 2024. godine, Savjet Agencije za nadzor osiguranja donio je
+PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O INTELEKTUALNIM I TEHNIČKIM USLUGAMA KOJE SE MOGU OBAVLJATI PORED POSLOVA POSREDOVANJA ODNOSNO ZASTUPANJA U OSIGURANJU
