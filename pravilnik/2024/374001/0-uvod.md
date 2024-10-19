@@ -1,0 +1,2 @@
+Na osnovu člana 30 stav 5 i člana 42 stav 6 Zakona o osiguranju ("Službeni list RCG", broj 78/06 i "Službeni list CG", broj 45/12, 55/16 i 146/21), člana 15 stav 1 tačka 2 Statuta Agencije za nadzor osiguranja Crne Gore ("Sl. list CG" br. 35/23), Savjet Agencije za nadzor osiguranja na 416. sjednici od 08. 10. 2024. godine, donio je
+PRAVILNIK O IZMJENI PRAVILNIKA O BLIŽIM USLOVIMA ZA IZDAVANJE DOZVOLE ZA OBAVLJANJE POSLOVA OSIGURANJA I KRITERIJUMIMA ZA OCJENU PODOBNOSTI BUDUĆIH KVALIFIKOVANIH IMALACA I ČLANOVA ORGANA UPRAVLJANJA
