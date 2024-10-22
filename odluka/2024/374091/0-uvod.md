@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2, člana 34 stav 1 i člana 40 stav 1 Zakona o državnoj imovini ("Službeni list CG, broj 21/09 i 40/11), člana 33 stav 1 i 2 i člana 34 stav 1 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18), člana 5 stav 1 i stav 2 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list CG", broj 44/10) člana 73 stav 1 tačka 4 i člana 18 stav 4,5 i 6 Statuta Opštine Plav ("Službeni list CG - Opštinski propisi", broj 044/18 od 04.12.2018.), Skupština Opštine Plav, na sjednici održanoj dana 30.09.2024. godine, donijela je
+O D L U K U
