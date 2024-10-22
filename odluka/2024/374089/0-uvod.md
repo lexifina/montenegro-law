@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Sl.list CG"‚ br.2/18, 34/19, 38/20,50/22 i 84/22) , člana 45 stav 1 Zakona o finansiranju lokalne samouprave ("Sl.list CG", br. 03/19, 86/22, 005/24 i 007/24) i člana 37 stav 1 tačka 15 Statuta Opštine Kolašin ("Sl. list CG - Opštinski propisi", br. 24/19) Skupština opštine Kolašin na sjednici održanoj dana 10.10.2024. godine donijela je
+O D L U K U
