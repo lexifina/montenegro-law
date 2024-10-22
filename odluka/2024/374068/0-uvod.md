@@ -1,0 +1,3 @@
+Na osnovu članova 38. i 44. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br.
+002/18, 034/19, 038/20, 050/22 i 084/22), a u vezi sa članovima 33. i 37. Statuta Opštine Plav ("Sl. List CG - Opštinski propisi", br. 044/18), shodno članu 134. Poslovnika o radu Skupštine opštine Plav ("Sl. List CG - Opštinski propisi", br. 044/18 i 025/21), saglasno članovima 3. i 59. Zakona o socijalnoj i dječijoj zaštiti ("Službeni list Crne Gore", br. 027/13, 001/15, 042/15, 047/15, 056/16, 066/16, 001/17, 031/17, 042/17, 050/17, 059/21, 145/21, 145/21, 003/23 i 048/24) Skupština opštine Plav, na sjednici održanoj dana 30.09.2024. godine, donijela je
+O D L U K U
