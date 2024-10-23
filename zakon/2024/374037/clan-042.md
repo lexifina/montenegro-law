@@ -1,0 +1,5 @@
+# Član 42
+## Zaštita klijenata pri prodaji dugovanja klijenata
+Razvojna banka je dužna da obezbijedi da klijenti prema kojima je imala potraživanja po osnovu kredita ili po drugom osnovu, a koja je prodajom ili na drugi način prenijela drugom licu, ne dođu u nepovoljniji položaj u odnosu na položaj koji su kao dužnici imali prema Razvojnoj banci.
+Razvojna banka, lice na koje je potraživanje iz stava 1 ovog člana prenijeto, i treće lice na koje je potraživanje dalje prenijeto, solidarno su odgovorni za štetu nastalu zbog dovođenja dužnika u pravno ili stvarno nepovoljniji položaj u odnosu na položaj koji je imao kao dužnik prema Razvojnoj banci.
+Kada izvrši prenos dugova klijenta drugom licu, Razvojna banke je dužna da, pored obaveze obavještavanja klijenta o prenosu u skladu sa zakonom, klijentu dostavi i izvještaj o ukupnom stanju potraživanja sa stanjem na dan prenosa potraživanja i strukturu potraživanja prema stavkama u kojima su jasno naznačene glavnica, kamata, naknade i drugi troškovi.

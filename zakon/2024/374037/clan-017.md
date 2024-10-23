@@ -1,0 +1,4 @@
+# Član 17
+## Rizik koncentracije
+Rizik koncentracije, u smislu ovog zakona, je rizik nastanka negativnih posljedica za Razvojnu banku zbog postojanja pojedinačne, direktne i indirektne, izloženosti prema jednom licu, odnosno grupi povezanih lica ili postojanja skupa izloženosti povezanih zajedničkim faktorima rizika.
+Razvojna banka je dužna da usvoji i sprovodi adekvatne politike i procedure za upravljanje rizikom koncentracije koji proizilazi iz izloženosti prema svakoj drugoj ugovornoj strani, grupi povezanih drugih ugovornih strana i druge ugovorne strane iz istog ekonomskog sektora, istog geografskog regiona, iste djelatnosti, ili povezane sa istom robom, kao i iz primjene tehnika ublažavanja kreditnog rizika, uključujući naročito rizike povezane sa velikim indirektnim kreditnim izloženostima kao što je indirektna izloženost prema jednom davaocu kolaterala.

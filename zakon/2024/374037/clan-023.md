@@ -1,0 +1,8 @@
+# Član 23
+## Upravljanje rizikom prekomjernog finansijskog leveridža
+Rizik prekomjernog finansijskog leveridža, u smislu ovog zakona, je rizik koji proizilazi iz ranjivosti Razvojne banke zbog postojećeg ili potencijalnog finansijskog leveridža koji može da dovede do neželjenih izmjena poslovnog plana Razvojne banke, uključujući i prinudnu prodaju imovine koja može da dovede do gubitaka ili do prilagođavanja vrijednosti preostale imovine Razvojne banke.
+Finansijski leveridž iz stava 1 ovog člana predstavlja, u odnosu na regulatorni kapital Razvojne banke, relativnu veličinu aktive, vanbilansnih obaveza i potencijalnih obaveza Razvojne banke za plaćanje ili isporuku ili pružanje kolaterala, uključujući obaveze po osnovu primljenih izvora finansiranja, preuzete obaveze, derivate ili repo ugovore.
+Razvojna banka je dužna da uspostavi politike i procedure za identifikovanje i praćenje rizika prekomjernog finansijskog leveridža i upravljanje tim rizikom.
+Kao pokazatelje rizika prekomjernog finansijskog leveridža Razvojna banka koristi koeficijent finansijskog leveridža i neusklađenosti aktive i pasive.
+Razvojna banka je dužna da sa posebnom pažnjom tretira rizik prekomjernog finansijskog leveridža, vodeći računa o potencijalnim povećanjima rizika zbog smanjenja regulatornog kapitala Razvojne banke usljed očekivanih ili realizovanih gubitaka, u skladu sa važećim računovodstvenim pravilima.
+Razvojna banka, u cilju ispunjavanja obaveza iz stava 3 ovog člana mora biti u mogućnosti da podnese veći broj različitih stresnih događaja u vezi sa rizikom prekomjernog finansijskog leveridža.

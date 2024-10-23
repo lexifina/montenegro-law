@@ -1,0 +1,5 @@
+# Član 39
+## Promjenljiva kamatna stopa
+U slučaju kada je ugovorena promjenljiva kamatna stopa, Razvojna banka je dužna da, najmanje 15 dana prije primjene nove kamate, obavijesti klijenta o promjeni kamatne stope, sa objašnjenjem parametara zbog kojih je došlo do promjene kamatne stope, a kod ugovora o kreditu dužna je da klijentu dostavi i izmijenjeni plan otplate.
+Ako Razvojna banka ne obavijesti klijenta o promjeni kamatne stope na odobreni kredit najmanje 15 dana prije njene primjene, dužna je da odloži primjenu nove kamatne stope do narednog obračunskog perioda, osim u slučaju kada je došlo do smanjenja kamatne stope.
+Ako korisnik kredita, nakon prijema obavještenja o povećanju kamatne stope nije saglasan sa navedenom promjenom, ima pravo da u roku od tri mjeseca od dana prijema obavještenja izvrši prijevremenu otplatu kredita bez obaveze plaćanja bilo kakve naknade Razvojnoj banci, uključujući i ugovorenu naknadu za prijevremenu otplatu kredita, a Razvojna banka nema pravo na naknadu štete zbog prijevremene otplate.

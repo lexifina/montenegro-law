@@ -1,0 +1,6 @@
+# Član 45
+## Računovodstvo
+Razvojna banka je dužna da vodi poslovne knjige, sastavlja knjigovodstvene isprave, vrednuje imovinu i obaveze i sastavlja i objavljuje finansijske iskaze u skladu sa ovim zakonom, zakonom kojim se uređuje računovodstvo i drugim propisima koji su od značaja za obavljanje ovih poslova.
+Razvojna banka nije dužna da sastavlja, dostavlja i objavljuje konsolidovane finansijske izvještaje i konsolidovani izvještaj menadžmenta, u smislu zakona kojima se uređuje računovodstvo, za privredna društva u kojima je Investiciono - razvojni fond Crne Gore A.D. stekao vlasništvo po osnovu svojinske i upravljačke transformacije, kao pravni sljedbenik Fonda za razvoj Republike Crne Gore.
+Ako se u postupku procjene fer vrijednosti akcija i vlasničkih udjela Razvojne banke, naslijeđenih od Investiciono - razvojnog fonda Crne Gore A.D., utvrdi umanjenje fer vrijednosti akcija i vlasničkih udjela, Razvojna banka nastalo umanjenje evidentira kroz poziciju kapitala u okviru revalorizacionih rezervi.
+Razvojna banka je dužna da poslovne knjige i ostalu poslovnu dokumentaciju i evidencije vodi na način koji omogućava, u bilo koje vrijeme, provjeru da li Razvojna banka posluje u skladu sa važećim propisima i standardima struke.
