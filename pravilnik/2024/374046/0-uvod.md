@@ -1,0 +1,2 @@
+Na osnovu člana 23 i člana 69 stav 1 tačka 2 Zakona o obaveznom zdravstvenom osiguranju ("Službeni list CG" br. 145/21 i 48/24) i člana 13 stav 2 alineja 1 Statuta Fonda za zdravstveno osiguranje Crne Gore ("Službeni list CG" broj 15/24), Upravni odbor Fonda, uz saglasnost Ministarstva zdravlja, na sjednici od 14.10.2024. godine, donio je
+P R A V I L N I K O IZMJENAMA I DOPUNAMA PRAVILNIKA O OSTVARIVANJU PRAVA NA MEDICINSKO-TEHNIČKA POMAGALA
