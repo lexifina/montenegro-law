@@ -1,0 +1,13 @@
+# Član 2
+U članu 3 stav 1 na kraju tačke 4 tačka se zamjenjuje tačka-zarezom i dodaje šest novih tačaka koje glase:
+"5) ustanova kulturnog nasljeđa je javno dostupna biblioteka, muzej, arhiv i ustanova filmskog ili audio nasljeđa;
+6) pružalac usluga dijeljenja internetskog sadržaja je pružalac usluge informacionog društva čija je glavna ili jedna od glavnih svrha da čuva i omogućava javnosti pristup velikoj količini djela zaštićenih autorskim pravom koja su postavili korisnici i koji organizuje i promoviše ta djela u svrhu ostvarivanja dobiti;
+7) usluga informacionog društva je svaka usluga informacionog društva koja se uobičajeno pruža uz naknadu, na daljinu, elektronskim putem i na lični zahtjev primaoca usluge;
+8) istraživačke organizacije su univerziteti, uključujući njihove biblioteke, istraživački institut ili bilo koji drugi subjekat, čiji je primarni cilj sprovođenje naučnih istraživanja ili sprovođenje obrazovnih aktivnosti koje uključuju i sprovođenje naučnih istraživanja na neprofitnoj osnovi ili reinvestiranjem cijele dobiti u naučno istraživanje ili u skladu sa misijom od javnog interesa koja je propisana zakonom, na način da pristup rezultatima dobijenim tim naučnim istraživanjem ne može na preferencijalnoj osnovi da ima preduzeće koje vrši odlučujući uticaj na tu organizaciju;
+9) rudarenje teksta i podataka je svaka automatizovana analitička tehnika koja ima za cilj analizu teksta i podataka u digitalnom obliku radi generisanja informacija koje uključuju, ali se ne ograničavaju na obrasce, trendove i korelacije;
+10) štampana publikacija je zbirka koja se sastoji uglavnom od književnih djela novinarske prirode, uključujući i druga djela ili druge predmete zaštite pod uslovom da:
+- predstavlja pojedinačnu stavku u okviru periodične ili redovno ažurirane publikacije pod jednim nazivom, kao što su novine ili časopis od opšteg ili posebnog interesa, isključujući periodične publikacije objavljene u naučne ili akademske svrhe;
+- ima za cilj da široj javnosti pruži informacije u vezi sa vjestima ili drugim temama, i
+- je objavljena u bilo kom mediju pod inicijativom, uređivačkom odgovornošću i kontrolom pružaoca usluga."
+Stav 2 mijenja se i glasi:
+"Pružaoci usluga, kao što su neprofitne internetske enciklopedije, neprofitni obrazovni i naučni repozitorijumi, platforme za razvoj i dijeljenje računarskih programa otvorenog koda, pružaoci elektronskih komunikacionih usluga u smislu zakona kojim se uređuju elektronske komunikacije, internetske trgovine, usluge u oblaku za preduzeća i usluge u oblaku koje korisnicima omogućavaju postavljanje sadržaja za sopstvene potrebe, ne smatraju se pružaocima usluga dijeljenja internetskog sadržaja."
