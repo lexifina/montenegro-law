@@ -1,0 +1,2 @@
+Na osnovu člana 37 stav 1 tačka 13 Zakona o Državnom tužilaštvu ("Službeni list Crne Gore", br. 11/15, 42/15, 80/17, 10/18, 76/20, 59/21 i 54/24), a u vezi sa članom 21 stav 7 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list Crne Gore", br. 16/2016, 83/2016, 21/2017, 42/2017, 12/2018, 42/2018, 34/2019, 146/2021, 92/2022, 152/2022 i 48/2024) Tužilački savjet je na XX sjednici održanoj dana 24. oktobra 2024. godine, donio
+PRAVILNIK O VARIJABILNOM DIJELU ZARADE ZA ZAPOSLENE U DRŽAVNOM TUŽILAŠTVU
