@@ -1,0 +1,10 @@
+# Član 156
+## Zlonamjerni ili uznemiravajući pozivi
+(1) Operator javno dostupne elektronske komunikacione usluge kome krajnji korisnik u pisanom ili elektronskom obliku prijavi i opiše način, odnosno sadržinu, okvirni datum i vrijeme zlonamjernog ili uznemiravajućeg poziva, dužan je da zabilježi i sačuva podatke o identifikaciji tog dolaznog poziva ili kratke poruke, datumu i vremenu poziva ili kratke poruke
+Službeni list Crne Gore - Registar prečišćenih tekstova
+Službeni list Crne Gore - Registar prečišćenih tekstova
+ili pokušaju pozivanja.
+(2) Operator javno dostupne elektronske komunikacione usluge dužan je da krajnjem korisniku iz stava 1 ovog člana izda odgovarajuću potvrdu u pisanom ili elektronskom obliku o prijavi zlonamjernih ili uznemiravajućih poziva ili kratkih poruka.
+(3) Ako operator javno dostupne elektronske komunikacione usluge utvrdi da je, na osnovu prijave iz stava 1 ovog člana, zlonamjerni ili uznemiravajući poziv ili kratka poruka upućen sa broja njegovog krajnjeg korisnika, dužan je da tom krajnjem korisniku uputi upozorenje, odnosno, u slučaju ponovnog uznemiravanja, preduzme druge odgovarajuće mjere radi sprečavanja daljeg uznemiravanja.
+(4) Ako operator javno dostupne elektronske komunikacione usluge utvrdi da je, na osnovu prijave iz stava 1 ovog člana, zlonamjerni ili uznemiravajući poziv ili kratka poruka upućen sa korisničkog broja u mreži drugog operatora javne elektronske komunikacione usluge, prosleđuje tom pružaocu usluge prijavu o uznemiravanju iz stava 1 ovog člana, kako bi taj pružalac usluge svom krajnjem korisniku uputio upozorenje, odnosno, u slučaju ponovnog uznemiravanja, preduzeo druge odgovarajuće mjere radi sprečavanja daljeg uznemiravanja, uključujući mjeru privremenog ili trajnog isključenja krajnjeg korisnika.
+(5) Operatori javno dostupne elektronske komunikacione usluge dužni su da sarađuju radi praćenja i otkrivanja zlonamjernih ili uznemiravajućih poziva ili kratkih poruka, a naročito radi razmjene podataka o broju sa kojeg je i na koji je upućen zlonamjerni ili uznemiravajući poziv ili kratka poruka i postupanja po proslijeđenim prijavama iz stava 4 ovog člana.

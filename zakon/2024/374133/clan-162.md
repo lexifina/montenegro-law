@@ -1,0 +1,5 @@
+# Član 162
+## Obaveza prenosa jednog ili više radio i/ili televizijskih programa
+(1)Agencija može, na osnovu odluke regulatornog organa za audiovizuelne medijske usluge i kad je to neophodno i svrsishodno, odrediti operatoru obavezu prenosa jednog ili više radio i/ili televizijskih programa u Crnoj Gori na državnom, regionalnom ili lokalnom nivou i dopunskih usluga, kao što su usluge pristupačnosti koje omogućavaju odgovarajući pristup krajnjim korisnicima sa invaliditetom, podaci kojima se podržavaju usluge programskog umrežavanja i elektronski programski vodiči, vodeći računa o načelima srazmjernosti i transparentnosti i javnom interesu.
+(2) Obaveza prenosa iz stava 1 ovog člana određuje se operatorima kad značajan broj krajnjih korisnika koristi elektronsku komunikacionu mrežu tih operatora kao osnovni način prijema radio i televizijskih programa i ako je to neophodno radi ostvarivanja jasno određenih ciljeva od javnog interesa u oblasti javnog informisanja, koje utvrđuje regulatorni organ za audiovizuelne medijske usluge u skladu sa posebnim zakonom.
+(3) Agencija svakih pet godina provjerava osnovanost određivanja obaveze iz stava 1 ovog člana.

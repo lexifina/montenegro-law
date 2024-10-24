@@ -1,0 +1,5 @@
+# Član 105
+## Sistem upozoravanja javnosti
+(1) Operatori interpersonalnih komunikacionih usluga zasnovanih na korišćenju brojeva u mobilnoj elektronskoj komunikacionoj mreži dužni su da, na zahtjev organa nadležnog za jedinstveni evropski broj za pozive u hitnim slučajevima 112, bez naknade, dostavljaju javna upozorenja krajnjim korisnicima o neposrednim ili nadolazećim opasnostima putem sistema upozoravanja javnosti.
+(2) Organ nadležan za jedinstveni evropski broj za pozive u hitnim slučajevima 112, u saradnji sa Agencijom, može narediti dostavljanje upozorenja iz stava 1 ovog člana putem javno dostupnih elektronskih komunikacionih usluga koje nijesu usluge iz stava 1 ovog člana ni usluge radio-difuzije, ili putem aplikacija za mobilne terminalne uređaje, koje se zasnivaju na usluzi pristupa internetu.
+(3) Sistem upozoravanja javnosti iz stava 2 ovoga člana mora biti jednako efikasan u smislu pokrivenosti i kapaciteta za kontaktiranje krajnjih korisnika, uključujući i krajnje korisnike koji se samo privremeno nalaze na određenom području, pri čemu se u najvećoj mogućoj mjeri moraju uzeti u obzir mjerodavne smjernice BEREC-a.

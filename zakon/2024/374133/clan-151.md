@@ -1,0 +1,14 @@
+# Član 151
+## Račun za pružene usluge
+(1) Operator javno dostupnih elektronskih komunikacionih usluga dužan je da izda mjesečni račun za pružene usluge elektronskih komunikacija u elektronskom obliku, o čemu blagovremeno i na pogodan način obavještava krajnjeg korisnika.
+(2) Račun iz stava 1 ovog člana dostavlja se bez naknade u papirnom obliku na zahtjev krajnjeg korisnika ili ako ne postoje tehničke mogućnosti za prijem računa u elektronskom obliku.
+Službeni list Crne Gore - Registar prečišćenih tekstova
+Službeni list Crne Gore - Registar prečišćenih tekstova
+(3) Sadržaj računa mora biti jasan, lako razumljiv i čitljiv krajnjem korisniku i sadržati jasnu naznaku dospijeća računa, kao i jasno navedene uslove i rokove za podnošenje prigovora i podatke o službi za korisnike.
+(4) Račun iz stava 1 ovog člana za javno dostupne usluge govorne komunikacije na fiksnoj lokaciji obavezno sadrži sljedeće podatke: obračunski period, priključnu taksu, pretplatu, vrstu i iznos drugih jednokratnih plaćanja u obračunskom periodu koja se odnose na pružanje usluge za koju se izdaje račun, vrstu i iznos drugih mjesečnih jednokratnih ili višekratnih neperiodičnih plaćanja, broj i trajanje poziva, jediničnu cijenu obračunske jedinice, iznos, i to odvojeno za pozive u nacionalnom saobraćaju, za svaku mrežu posebno, za pozive u međunarodnom saobraćaju za svaku zonu posebno, pozive prema mobilnim javnim mrežama za svaku mrežu posebno, pozive prema brojevima usluga sa dodatom vrijednošću i pozive za prenos podataka, vrstu i iznos druge pružene usluge i ukupni iznos računa.
+(5) Odredba stava 4 ovog člana primjenjuje se i na račun za druge javno dostupne elektronske komunikacione usluge u mjeri u kojoj je to primjenljivo.
+(6) Na računu iz stava 1 ovog člana ne iskazuju se pozivi na besplatne telefonske brojeve, uključujući i brojeve za pozive hitnim službama.
+(7) Operator je dužan da podatke iz stava 6 ovog člana dostavi nadležnim sudovima, Agenciji ili drugim nadležnim organima, na njihov zahtjev.
+(8) Operator je dužan da, na zahtjev, krajnjem korisniku izda detaljnije raščlanjen račun (u daljem tekstu: listing), najmanje jednom mjesečno, bez naknade, kako bi mu se omogućilo da provjeri i kontroliše naknade za korišćenje usluga pristupa internetu i usluga govornih komunikacija, kao i da na odgovarajući način prati svoju potrošnju i izdatke, čime mu se omogućava kontrola nad svojim računima, i to unazad jednu godinu.
+(9) Listing naročito sadrži, odvojeno za svaku vrstu usluge i odredišta: datum i vrijeme uspostavljanja komunikacije, izvor i odredište komunikacije (pozvani i pozivajući broj), trajanje komunikacije i količinu prenesenih podataka.
+(10) Operator je dužan da sa podacima iz računa iz st. 1 i 5 ovog člana postupa u skladu sa zakonima kojima se uređuje tajnost podataka, zaštita podataka o ličnosti i zaštita podataka koji predstavljaju poslovnu tajnu.

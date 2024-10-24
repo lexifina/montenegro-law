@@ -1,0 +1,10 @@
+# Član 159
+## Interoperabilnost automobilskih i potrošačkih radio-prijemnika i potrošačke digitalne televizijske opreme
+(1) Automobilski radio-prijemnici i potrošačka digitalna televizijska oprema koja se stavlja na raspolaganje na tržište Crne Gore mora da bude usklađena sa zahtjevima za interoperabilnost propisanim ovim zakonom, pri čemu se ti zahtjevi ne odnose na proizvode u kojima radio-prijemnik ima samo pomoćnu funkciju (npr. mobilni telefoni), niti na radio- amatersku opremu.
+(2) Operator koji pruža digitalne televizijske usluge dužan je da, ako je to primjereno, obezbijedi interoperabilnost digitalne televizijske opreme koju stavlja na raspolaganje krajnjim korisnicima, kako bi se, ako je to tehnički moguće, digitalna televizijska oprema mogla ponovo upotrijebiti za pružanje digitalnih televizijskih usluga drugih operatora.
+Službeni list Crne Gore - Registar prečišćenih tekstova
+Službeni list Crne Gore - Registar prečišćenih tekstova
+(3) Operator iz stava 2 ovog člana dužan je da krajnjem korisniku, nakon raskida ugovora, bez naknade, omogući jednostavan postupak za vraćanje digitalne televizijske opreme, osim ako operator dokaže da je ta oprema u potpunosti interoperabilna sa uslugama drugih operatora koji pružaju digitalne televizijske usluge, uključujući i novog operatora koji pruža digitalne televizijske usluge krajnjem korisniku.
+(4) Svi automobilski prijemnici, koji su ugrađeni u nova vozila kategorije M (vozila za prevoz putnika), koja se u svrhu prodaje ili iznajmljivanja stavljaju na tržište Crne Gore, treba da imaju i radio-prijemnik sa mogućnostima prijema i reprodukcije najmanje onih radijskih usluga koje se pružaju putem digitalne zemaljske radio-difuzije.
+(5) Ispunjenost zahtjeva iz stava 4 ovog člana kontroliše tržišna inspekcija.
+(6) Bliže tehničke zahtjeve za interoperabilnost automobilskih i potrošačkih radio- prijemnika i potrošačke digitalne televizijske opreme, zajednički algoritam za kodiranje i nekodirano primanje i uslove za prelazak na nove standarde u oblasti radio-difuzije, propisuje Agencija.

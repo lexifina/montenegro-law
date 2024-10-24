@@ -1,0 +1,6 @@
+# Član 138
+## Ponude u paketu
+(1) Ako operator nudi potrošaču paket usluga ili paket usluga i terminalne opreme, koji sadrži najmanje uslugu pristupa internetu ili javno dostupne interpersonalne komunikacione usluge zasnovane na broju, odredbe čl. 130, 131, 134, 135, 136 i 140 i člana 160 st.1, 2 i 3 ovog zakona primjenjuju se na sve elemente paketa.
+(2) Ako potrošač ima pravo na raskid ugovora za bilo koji elemenat paketa iz stava 1 ovog člana prije isteka obaveznog trajanja ugovora, zbog neusklađenosti sa ugovorom ili nepružanja usluge, smatra se da potrošač ima pravo na raskid ugovora za sve elemente paketa.
+(3) Ugovaranjem dodatne usluge ili terminalne opreme, koju pruža ili distribuira isti pružalac usluga pristupa internetu ili javno dostupnih interpersonalnih komunikacionih usluga zasnovanih na broju sa kojim potrošač već ima zaključen ugovor, ne produžava se početno trajanje ugovora kojem se te usluge ili terminalna oprema dodaju, osim ako potrošač izričito pristane na to prilikom ugovaranja dodatne usluge ili terminalne opreme.
+(4) Odredbe st. 1 i 3 ovog člana primjenjuju se i na potrošače koji su mikro i mala privredna društva ili neprofitne organizacije, osim ako su izričito ugovorili drugačije.
