@@ -1,0 +1,7 @@
+# Član 3
+Izrazi koji se koriste u ovim Pravilima imaju sljedeće značenje:
+Prijava je bilo koji način, vrsta i sadržaj komunikacije, kojom se zviždač obraća Agenciji sa opravdanim razlozima u sumnju o ugrožavanju javnog interesa koje upućuje na postojanje korupcije, uključujući i anonimne prijave.
+Zviždač je fizičko lice, zaposleno u privatnom ili javnom sektoru, koje je steklo informacije o nepravilnostima u svom radnom okruženju i koje podnosi prijavu o nepravilnostima. Zviždač je i zaposleno lice u smislu člana 4 stav 2 Zakona o sprečavanju korupcije.
+Ovlašćeni službenik je zaposleni Agencije u odsjeku koji je nadležan za postupanje po prijavama i zahtjevima zvizdača, kao i drugo lice koje direktor Agencije, u skladu sa Zakonom, ovlasti da po službenoj dužnosti pribavlja, obrađuje i čuva podatke i obavještenja, po potrebi sprovodi ispitni postupak ili raspravu o okolnostima, činjenicama i dokazima, neophodnim za postupanje po prijavama o ugrožavanju javnog interesa koja upućuje na postojanje korupcije.
+Prethodno ispitivanje je postupak kojim ovlašćeni službenik obavlja neposredan uvid u podnesak radi procjene da li sadrži podatke, sa kojima je potrebno postupati po odredbama Zakona i drugih propisa koji se odnose na prijave o ugrožavanju javnog interesa koje upućuje na postojanje korupcije.
+Ostali izrazi koji se koriste u ovim Pravilima imaju isto značenje kao i u Zakonu, drugim zakonima i propisima koji se odnose na postupanje po prijavama o ugrožavanju javnog interesa koje upućje na postojanje korupcije.

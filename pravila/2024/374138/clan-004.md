@@ -1,0 +1,4 @@
+# Član 4
+Lice koje ima opravdane razloge da sumnja u ugrožavanje javnog interesa koje upućuje na postojanje korupcije (u daljem tekstu: zviždač) može podnijeti prijavu o ugrožavanju javnog interesa koje upućuje na postojanje korupcije (u daljem tekstu: prijava) Agenciji.
+Prijava, po pravilu, sadrži lične podatke i potpis podnosioca prijave (ime i prezime, adresa i mjesto stanovanja, broj telefona, email, naziv institucije u kojoj je zaposlen i radno mjesto ili drugi dokaz kojim potvrđuje da je zviždač zaposleni u smislu člana 5 stav 2 Zakona o sprečavanju korupcije), ukoliko ne želi da bude anoniman, opis ugrožavanja javnog interesa, a po potrebi i druge činjenice i okolnosti.
+Ukoliko je zviždač prijavu prethodno uputio poslodavcu, prijava može sadržati i podatke o tom subjektu, kao i obavještenje o preduzetim mjerama ukoliko je dostavljeno zviždaču.
