@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18, 09/20), i člana 145 i 146 Poslovnika o radu Skupštine opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 36/24) a nakon razmatranja Izvještaja o reviziji godišnjeg finansijskog izvještaja DOO "Vodovod i kanalizacija" Tivat za 2023. godinu, Skupština opštine Tivat na sjednici održanoj dana 24.10.2024. godine, donijela je
+ZAKLJUČAK
