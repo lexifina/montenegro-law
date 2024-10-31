@@ -1,0 +1,2 @@
+# Član 21
+Danom stupanja na snagu ove odluke prestaje da važi Odluka o dodjeljivanju stipendije dobitnicima diplome "Luča" ("Službeni list RCG - Opštinski propisi", broj 10/2000, "Službeni list Crne Gore - Opštinski propisi", broj 31/2013) i Odluka o potvrđivanju Odluke o izmjenama Odluke o dodjeljivanju stipendije dobitnicima diplome "Luča" ("Službeni list Crne Gore - Opštinski propisi", broj 2/23).
