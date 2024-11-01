@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 02/18, 34/19,38/20, 50/22, 84/22), člana 38 stav 1 tačka 22 Statuta opštine Gusinje, ("Sl. list CG- opštinki propisi" br. 03/19,24/21) i člana 11 stav 1 alineja 4 Odluke o osnivanju društva sa ograničenom odgovornošću Komunalne Djelatnosti Gusinje, ("Sl.list CG - Opštinski propisi" br. 16/17), Skupština opštine Gusinje na sjednici održanoj 01.11.2024. godine donijela je
+ODLUKU
