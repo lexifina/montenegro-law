@@ -1,0 +1,3 @@
+Na osnovu člana 1. stav 1, člana 2, člana 2a. i člana 4a. Zakona o eksproprijaciji ("Službeni list RCG, broj 55/00, 12/02, 28/06, i Sl. list CG, br. 21/08, 30/17, 75/18 i 33/24), člana 28. stav 1. tačka 5. i člana 38 stav 1 tačka 2. Zakona o lokalnoj samoupravi ("Sl. list CG", br. 02/2018, 34/19, 38/20, 50/22 i 84/22) u vezi sa članom 15. stav 1. tačka 5., kao i člana 33 stav 1. tačka 2, Statuta Opštine Plav ("Sl. list CG - Opštinski propisi br. 044/18") Skupština opštine Plav, na sjednici održanoj dana 01.11.2024. godine, donijela je
+ODLUKU
+o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju ulice
