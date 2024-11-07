@@ -1,0 +1,2 @@
+Na osnovu člana 175 stav 6 Zakona o osiguranju ("Službeni list RCG", br. 78/06 i 19/07 i "Službeni list CG" br. 53/09, 73/10, 40/11, 45/12, 6/13, 55/16, 146/21 i 34/24) i člana 15 stav 1 tačka 2 Statuta Agencije za nadzor osiguranja ("Službeni list CG", broj 35/23), po prethodno pribavljenoj saglasnosti Vlade Crne Gore, Savjet Agencije za nadzor osiguranja, na 417. sjednici od 25. oktobra 2024. godine, donio je
+ODLUKU O IZMJENAMA I DOPUNI ODLUKE O NAKNADAMA AGENCIJE ZA NADZOR OSIGURANJA
