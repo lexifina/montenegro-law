@@ -1,0 +1,3 @@
+Na osnovu člana 157 stav 2 a u vezi sa članom 154 stav 4 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list Crne Gore", br. 27/13, 01/15, 42/15, 47/15, 56/16, 66/16, 01/17, 31/17, 42/17, 50/17, 59/21, 145/21, 145/21, 03/23, 48/24 i 84/24), člana 27 stav 1 tačka 15 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20 i 50/22), člana 35 stav 1 alineja 2 i člana 39 Statuta opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 09/20), Skupština opštine Tivat, na sjednici održanoj dana 24.10.2024. godine, donijela je
+PRAVILNIK
+o kriterijumima i mjerilima za utvrđivanje cijene usluge dnevnog boravka u JU "Dnevni centar za djecu i mlade sa smetnjama i teškoćama u razvoju - Tivat"

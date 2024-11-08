@@ -1,0 +1,3 @@
+# Član 4
+## Odgovarajući prostor u kome se pruža usluga dnevnog boravka
+Dnevni centar pored uslova utvrđenih članom 7 Pravilnika o bližim uslovima za pružanje i korišćenje, normativima i minimalnim standardima usluga podrške za život u zajednici obezbjeđuje i: prostoriju za individualni rad, kabinet za kineziterapiju, senzornu sobu, kuhinju i trpezariju, dva dnevna boravka (za mlađe i starije korisnike),dvije kancelarije (administrativnih radnika/ca i kancelarija direktora), šest kupatila (tri za korisnike i tri za zaposlene), prostoriju u podrumu koja služi za ostavu, hodnik - garderober za korisnike, čajna kuhinja.
