@@ -1,0 +1,2 @@
+Na osnovu člana 20 stav 1 alineja 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 74/16, 2/18, 66/19 i 140/22), člana 35 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", 24/18 i 9/20) i člana 2 Odluke o javnim parkiralištima na području opštine Tivat ("Službeni list Crne Gore" br. 26/14, 15/15, 28/16, 25/19 i 25/20), Skupština opštine Tivat, na sjednici održanoj dana 24.10.2024. godine, donosi
+ODLUKU
