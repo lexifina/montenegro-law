@@ -1,0 +1,2 @@
+# Član 2
+Predmet ove Odluke je izgradnja - pijace i neophodne infrastrukture na dijelu kat.parc.br. 2286/1, 2286/4, 2282 KO Tivat i kat.parcelama 2286/3,2292, 2285/1,2295/2, 2293/1, 2293/2, 2293/3, 2293/4, 2293/5, 2293/6, 2293/7, 2293/8, 2293/9, 2293/10, 2293/11, 2293/12, 2293/13, 2293/14, 2293/15, 2293/16, 2293/17, 2293/18, 2293/19, 2293/20, 2293/21 i 2293/22 u obuhvatu DUP-a "Tivat-Centar" ("Sl.list CG - Opštinski propisi" br. 21/18).
