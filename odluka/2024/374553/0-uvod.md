@@ -1,0 +1,2 @@
+Na osnovu čl. 116 i 222 Zakona o planiranju prostora i izgradnji objekata ("Sl. list CG", br. 64/17, 44/18, 63/18, 11/19, 82/20, 86/22 i 4/23), člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 36 i 39 Statuta Opštine Mojkovac ("Sl. list CG - Opštinski propisi", br. 29/18 i 37/22), Skupština opštine Mojkovac na sjednici održanoj dana 18. oktobra 2024. godine, donijela je
+ODLUKU
