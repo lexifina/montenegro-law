@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 alineja 9 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 29 Zakona o državnoj imovini ("Službeni list Crne Gore" br.21/09, 40/11) i člana 35 stav 1 alineja 9 i člana 39 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18, 09/20) a u vezi sa članom 24 stav 2 Zakona o mladima ("Službeni list Crne Gore", br. 25/19, 27/19) na sjednici Skupštine opštine Tivat održanoj dana 24.10.2024. godine donijeta je
+ODLUKA
+o davanju na privremeno upravljanje i korišćenje prostora Ministarstvu sporta i mladih za
