@@ -1,0 +1,3 @@
+Na osnovu člana 92 stav 2 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list Crne Gore", br. 27/13, 01/15, 42/15, 47/15, 56/16, 66/16, 01/17, 31/17, 42/17, 50/17, 59/21, 145/21, 145/21, 03/23, 48/24 i 84/24), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 35 stav 1 tačka 2 i člana 38 Statuta Opštine Danilovgrad ( "Službeni list Crne Gore - Opštinski propisi", br. 43/18), Skupština opštine Danilovgrad, na sjednici održanoj 14.10., 17.10., 22.10. i 28.10. 2024. godine, donijela je
+O D L U K U
+o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta JU Centar za dnevni
