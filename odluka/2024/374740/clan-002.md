@@ -1,0 +1,2 @@
+# Član 2
+Odlukom o izmjenama i dopunama Odluke o određivanju lokacije sa elementima urbanističko - tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa - solarne elektrane, broj 01- 332/23-931/1 od 15.06.2023. godine, predsjednika Opštine Danilovgrad zavedena pod brojem 01- 332/24-1036/1 dana 24.04.2024. godine, utvrđena je lokacija sa elementima urbanističko - tehničkih uslova za izgradnju objekta trafostanice sa priključnim 35kv kablom koji će se položiti, između ostalih i preko dijelova predmetnih katastarskih parcela.
