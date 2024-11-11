@@ -1,0 +1,2 @@
+# Član 2
+Odlukom predsjednika Opštine Danilovgrad o određivanju lokacije sa elementima urbanističko - tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa, broj 01-333/22-2065/1 od 11.11.2022. godine, utvrđena je lokacija sa elementima urbanističko - tehničkih uslova za izgradnju objekta trafostanice STS 10/04 kV 160 kVA sa uklapanjem u 10 kV mrežu "SKY SAT" za KO Ćurilac - Opština Danilovgrad.

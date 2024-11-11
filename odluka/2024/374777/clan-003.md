@@ -1,0 +1,2 @@
+# Član 3
+Opština Danilovgrad, kao subjekt raspolaganja poslužnog dobra daje saglasnost ,,SKY SAT" d.o.o. Herceg Novi za ustanovljavanje prava službenosti radi polaganja priključnog 10kv kabla preko dijela katastarske parcele broj 2322/1, evidentirane u listu nepokretnosti 136, KO Ćurilac, shodno Elaboratu originalnih terenskih podataka o izvršenim radovima na terenu - geodetska situacija kabla I, urađenom od strane ,,GEOERC" doo Podgorica.
