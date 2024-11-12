@@ -1,0 +1,6 @@
+Na osnovu člana 35 Statuta Opštine Zeta ("Službeni list Crne Gore - Opštinski propisi", br. 012/23 od 13.03.2023.), i člana 38 Poslovnika o radu Skupštine Opštine Zeta ("Službeni list Crne Gore - Opštinski propisi", br. 020/24 od 09.04.2024.) i članova 7 i 10 Odluke obrazovanju, načinu rada i odlučivanja radnih tijela Skupštine Opštine u okviru Glavnog grada- Golubovci ("Službeni list Crne Gore - Opštinski propisi", br. 043/19 od 11.11.2019.), Odbor za izbor i imenovanja je dana 06.11.2024.godine na XXIII sjednici usvojio Predlog Rješenja O izmjeni Rješenja o imenovanju predsjednika i članova Odbora za Statut i propise Skupštine Opštine Zeta, a Skupštine opštine Zeta, na XVI sjednici održanoj dana 12.11.2024 godine konstatovala
+RJEŠENJE
+o izmjeni Rješenja o imenovanju predsjednika i članova Odbora za Statut i propise Skupštine Opštine Zeta
+U izmjeni Rješenja o imenovanju predsjednika i članova Odbora za Statut i propise Skupštine Opštine Zeta br. D 32-016/23-257 od 30.10.2023.godine, vrši se sledeća izmjena.
+Nakon ostavke odbornika Milana Drakića, člana Odbora za Statut i propise Skupštine Opštine Zeta, vrši se izmjena i imenuje se odbornik Luka Krstović.
+II Ovo rješenje stupa na snagu danom donošenja, a objaviće se u Službenom listu Crne Gore- Opštinski propisi".
