@@ -1,0 +1,2 @@
+# Član 2
+»Crnogorski elektrodistributivni sistem« D.O.O. Podgorica je obavezan da opštini Nikšić plati naknadu za zasnivanje stvarne službenosti na nepokretnostima iz člana 1 ove odluke u iznosu od 3,50 € po m2 zemljišta, odnosno u ukupnom iznosu od 403,00 €, koje odgovara 15 % procijenjene tržišne vrijednosti zemljišta, u skladu sa procjenom Sjeverne Komisije za procjenu vrijednosti nepokretnosti formirane rješenjem Uprave za nekretnine Crne Gore broj 01-012/24- 480 od 30.01.2024. godine.
