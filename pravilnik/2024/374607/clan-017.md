@@ -1,0 +1,11 @@
+# Član 17
+Za potrebe obračuna godišnje naknade iz stava 5 člana 15 i stava 2 člana 16 ovog pravilnika, pružalac usluge je dužan da do 5. aprila tekuće godine, za prethodnu kalendarsku godinu, Agenciji dostavi neophodne informacije i dokumentaciju, koja pored ostalog uključuje:
+1) finansijske iskaze dostavljene organu državne uprave nadležnom za poslove
+javnih prihoda;
+2) bruto bilans i
+3) analitičke kartice prihoda ostvarenih po osnovu obavljanja određene usluge.
+Ako pružalac AVM usluge na zahtjev, odnosno distributer linearnih AVM usluga ne postupi u skladu sa čl. 58 i 64 Zakona i stavom 1 ovog člana ili se na osnovu dostavljene dokumentacije iz stava 1 ovog člana ne može utvrditi visina prihoda ostvarenih po osnovu obavljanja određene usluge, godišnja naknada za tu uslugu će se utvrditi kao procenat iz stava 5 člana 15, odnosno stava 2 člana 16 ovog pravilnika na ukupan prihod ostvaren u prethodnoj godini, a na osnovu podataka pružaoca usluge dostavljenih organu uprave nadležnom za poslove javnih prihoda.
+Ako pružalac usluga platformi za razmjenu video sadržaja ne postupi u skladu sa stavom 1 ovog člana ili se na osnovu dostavljene dokumentacije iz stavA 1 ovog člana ne može utvrditi visina prihoda ostvarenih po osnovu pružanja usluge, godišnja naknada za pružanje usluga platformi za razmjenu video sadržaja će se utvrditi kao procenat iz stava 2 člana 16 ovog pravilnika na ukupan prihod ostvaren u prethodnoj godini, a na osnovu podataka pružaoca usluge dostavljenih organu uprave nadležnom za poslove javnih prihoda.
+Ako Agencija sumnja u tačnost podataka iz st. 1 i 2 ovog člana, može ovlastiti revizora da izvrši provjeru tih podataka.
+Pružalac AVM usluge na zahtjev odnosno distributer linearnih AVM usluga je dužan da revizoru iz stava 4 ovog člana omogući uvid ili dostavi sve podatke, informacije i dokumenta koja su neophodna za obavljanje provjere podataka o prihodu ostvarenom u godini za koju se vrši obračun godišnje naknade.
+Ako se revizijom iz stava 4 ovog člana utvrdi da prihod pružaoca usluge odstupa za više od 3% od prijavljenog prihoda, Agencija kao osnovicu za obračun naknada uzima visinu prihoda iz izvještaja revizora, a troškove revizije plaća pružalac usluge.

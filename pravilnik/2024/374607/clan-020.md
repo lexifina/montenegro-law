@@ -1,0 +1,5 @@
+# Član 20
+U slučaju da nosilac odobrenja za emitovanje i odobrenja za distribuciju nije pismeno obavijestio Agenciju da više ne namjerava da pruža usluge, preuzete finansijske obaveze iz odobrenja važiće do momenta prijema pisanog obavještenja po tom osnovu.
+Ako nosilac odobrenja za emitovanje i odobrenja za distribuciju prestane sa pružanjem usluga prije isteka vremena za koje je naknada plaćena, dio naknade, koji se odnosi na preostalo vrijeme, ne vraća se.
+U slučaju da pružalac AVM usluge na zahtjev i pružalac usluge platformi za razmjenu video sadržaja nije pismeno obavijestio Agenciju da više ne namjerava da pruža usluge, preuzete finansijske obaveze iz rješenja o upisu u registar pružalaca AVM usluga na zahtjev i registar pružalaca usluga platformi za razmjenu video sadržaja važiće do momenta prijema pisanog obavještenja po tom osnovu.
+Ako pružalac AVM usluge na zahtjev i pružalac usluge platformi za razmjenu video sadržaja prestane sa pružanjem usluga prije isteka vremena za koje je naknada plaćena, dio naknade, koji se odnosi na preostalo vrijeme, ne vraća se.

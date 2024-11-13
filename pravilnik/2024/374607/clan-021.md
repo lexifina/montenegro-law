@@ -1,0 +1,3 @@
+# Član 21
+Izuzetno od stava 5 člana 15 i stava 2 člana 16 ovog Pravilnika, ukoliko distributer lineranih AVM usluga, pružalac AVM usluga na zahtjev i/ili pružalac usluga platformi za razmjenu video sadržaja nema razdvojene prihode ostvarene po osnovu obavljanja određene usluge, prilikom obračuna godišnje naknade za pružanje tih usluga za 2025. godinu, primijeniće se procenat od 3% na ukupan prihod ostvaren od ovih usluga u 2024. godini.
+Distributer lineranih AVM usluga, pružalac AVM usluga na zahtjev i pružalac usluga platformi za razmjenu video sadržaja dužni su da dostave izjavu o strukturi prihoda ostvarenih po osnovu pružanja navedenih usluga u 2024. godini, koja će biti osnov za obračun godišnje naknade iz stava 1 ovog člana.

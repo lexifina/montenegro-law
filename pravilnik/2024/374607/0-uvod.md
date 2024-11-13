@@ -1,0 +1,2 @@
+Na osnovu člana 143 stav 1 tačka 11, a u vezi sa članom 173 stav 11 Zakona o audiovizuelnim medijskim uslugama ("Sl. list CG", br. 54/24) i člana 27 stav 1 tačka 14 Statuta Agencije za audiovizuelne medijske usluge ("Sl. list CG", br. 82/24), Savjet Agencije za audiovizuelne medijske usluge, na sjednici održanoj 21. oktobra 2024. godine, je donio
+P R A V I L N I K O VISINI, NAČINU UTVRĐIVANJA I PLAĆANJA NAKNADA ZA PRUŽANJE USLUGA IZ NADLEŽNOSTI AGENCIJE ZA AUDIOVIZUELNE MEDIJSKE USLUGE
