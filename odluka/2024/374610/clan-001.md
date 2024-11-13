@@ -1,0 +1,16 @@
+# Član 1
+## o prodaji građevinskog zemljišta "Grading" DOO radi dokompletiranja urbanističke parcele broj 15 u obuhvatu Detaljnog urbanističkog plana Centar
+Opština Nikšić prodaje neposrednom pogodbom, "Grading-u "DOO Nikšić, zemljište ukupne površine 159 m2, označeno katastarskom parcelom broj 4557/2, neplodno zemljište, površine 11 m2, upisanom u listu nepokretnosti broj 764 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja opštine Nikšić, katastarskom parcelom broj 1357, neplodno zemljište, površine 77 m2, upisana u listu nepokretnosti broj 787 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja opštine Nikšić i katastarskom parcelom broj 1355/2, dvorište, površine 71 m2, upisana u listu nepokretnosti broj 751 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja opštine Nikšić, po cijeni od 205,00 € po m2 zemljišta.
+Zemljište iz stava 1 ovog člana prodaje se za potrebe dokompletiranja urbanističke parcele UP 15 (urbanistički blok 3 B), u skladu sa Odlukom o Detaljnom urbanističkom planu " Centar " ("Službeni list Crne Gore-Opštinski propisi", broj 50/18), na kojoj je planirana izgradnja stambenog objekta, spratnosti P+2.
+Član 2
+Urbanističku parcelu broj 15 (urbanistički blok 3 B), ukupne površine 1429 m2, pored zemljišta iz člana 1 stav 1 ove odluke, čine katastarska parcela broj 1358, dvorište površine 286 m2, katastarska parcela broj 1359/1, njiva 1.klase površine 446 m2 i zemljište ispod porodično- stambene zgrade površine 163 m2, upisana u listu nepokretnosti broj 2771 KO Nikšić kao svojina "Grading" DOO, katastarska parcela broj 1360/3, dvorište površine 102 m2, katastarska parcela broj 1360/4, dvorište površine 21 m2 i katastarska parcela broj 1360/5, dvorište površine 12 m2, upisane u listu nepokretnosti broj 773 KO Nikšić kao svojina države Crne Gore, raspolaganje Vlade Crne Gore sa pravom upravljanja JU Osnovne škole "Olga Golović" i katastarska parcela broj 1356, ukupne površine površine 240 m2, koju čini dvorište površine 172 m2 i zemljište ispod porodično-stambene zgrade površine 68 m2, upisane u listu nepokretnosti broj 855 KO Nikšić kao sukorišćenje Đikanović Dragana u dijelu od po 1/4 , Đikanović Jelene u dijelu od po 1/2 i Đikanović Milije u dijelu od po 1/4.
+Obavezuje se "Grading"DOO Nikšić, kao većinski vlasnik urbanističke parcele broj 15, da riješi imovinsko-pravne odnose sa vlasnicima ostalih katastarskih parcela koje u ulaze u sastav predmetne urbanističke parcele.
+Član 3
+Prodaja zemljišta iz člana 1 stav 1 ove odluke, vrši se po utvrđenoj cijeni od 205,00 € po m2 zemljišta, što za površinu od 159 m2 ukupno iznosi 32.595,00 €, u skladu sa procjenom Centralne komisije za procjenu vrijednosti nepokretnosti pri Upravi za nekretnine Crne Gore od juna 2024. godine.
+Iznos cijene iz stava 1 ovog člana "Grading " DOO Nikšić je dužno uplatiti u roku od 60 dana od stupanja na snagu ove odluke, u protivnom pokrenuće se postupak za prestanak važenja iste.
+Član 4
+Međusobna prava i obaveze između Opštine Nikšić i "Grading" DOO Nikšić regulisaće se posebnim ugovorom, u skladu sa ovom odlukom.
+Član 5
+Ovlašćuje se predsjednik Opštine Nikšić da zaključi ugovor iz člana 4 ove odluke.
+Član 6
+Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore - Opštinski propisi".
