@@ -1,0 +1,4 @@
+# Član 4
+Prva unutrašnja strana legitimacije lobiste sadrži: broj pod kojim je izdata, mjesto za fotografiju imaoca legitimacije, dimenzija 25 x 30 mm, prezime i ime imaoca legitimacije, jedinstveni matični broj, broj lične karte, a za stranca broj važeće strane putne isprave, mjesto za potpis imaoca legitimacije, mjesto i datum izdavanja legitimacije.
+Druga unutrašnja strana legitimacije lobiste sadrži: naziv "ODOBRENJE"; tekst koji glasi: "Imalac ove legitimacije u obavljanju poslova lobiranja ima prava i obaveze utvrđene Zakonom o lobiranju i drugim propisima"; podatke o odobrenju za obavljanje djelatnosti lobiranja (broj i datum); broj i datum produžavanja odobrenja; potpis direktora Agencije za sprečavanje korupcije i mjesto za pečat.
+Unutrašnje strane legitimacije lobiste date su na obrascu koji je sastavni dio ovog pravilnika (Obrazac 2).
