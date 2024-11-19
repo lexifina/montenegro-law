@@ -1,0 +1,2 @@
+# Član 4
+Ciljevi i zadaci radi kojih se osniva Šahovski klub "Danilovgrad Talj" su popularizacija šaha među svim uzrastima i društvenim grupama, organizacija šahovskih turnira i održavanje šahovskih manifestacija, pružanje mentorstva i podrške mladim i talentovanim šahistima, učešće na lokalnim, regionalnim i međunarodnim takmičenjima, organizacija klupskih turnira i liga, razvijanje šahovske kulture.
