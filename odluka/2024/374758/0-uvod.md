@@ -1,0 +1,3 @@
+Na osnovu člana 10 stav 1 tačka 12, člana 29 stav 2 i člana 38 stav 2 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09 i 40/11), člana 201 stav 1 i člana 216 Zakona o svojinsko pravnim odnosima ("Službeni list Crne Gore", br.19/09), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 46 stav 1 tačka 9 Statuta Opštine Bijelo Polje ("Službeni list Crne Gore - Opštinski propisi", br.19/18), Skupština opštine Bijelo Polje na sjednici održanoj 30.10.2024. godine, donijela je
+O D L U K U
+o ustanovljavanju stvarne službenosti u korist Vlade Crne Gore - Ministarstva turizma,
