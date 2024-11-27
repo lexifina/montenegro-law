@@ -1,0 +1,3 @@
+Na osnovu člana 16 stav 1 Zakona o spomen-obilježima ("Sluzbeni list CG", br. 40/08, 40/11 i 2/17) i člana 2 Statuta Opštine Ulcinj ("Službeni list Crne Gore - Opštinski propisi", br.48/2019 i 5/2024), u skladu sa Programom podizanja spomen obilježja u Opštini Ulcinj za 2023. godinu ("Službeni list Crne Gore - Opštinski propisi", broj 017/23 i 005/24), uz prethodnu saglasnost Ministarstva kulture i medija Crne Gore, Rješenje broj: UPI- 13-041/24-108/2 od 11.06.2024. godine, Skupština opštine Ulcinj, na sjednici održanoj dana 28.10.2024. godine, donijela je
+ODLUKU
+o podizanju spomen-obilježja izgradnjom spomenika "Đerđ Kastrioti Skenderbeg-Gjergj
