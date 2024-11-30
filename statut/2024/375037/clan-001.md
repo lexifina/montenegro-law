@@ -1,0 +1,2 @@
+# Član 1
+Ljekarska komora Crne Gore (u daljem tekstu: Komora) je nezavisna, strukovna, profesionalna organizacija zdravstvenih radnika koji su završili Medicinski fakultet, zdravstvenih radnika koji imaju specijalizaciju ili užu specijalizaciju na tom fakultetu (u daljem tekstu: ljekar) i organizovana je radi unapređenja uslova za obavljanje profesije, zaštite profesionalnih interesa, unapređenja profesionalne ljekarske etike i učešća u unapređenju zdravstvene zaštite.
