@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se obrazac izjave privrednog subjekta kojom podnosilac prijave za kvalifikaciju, odnosno ponuđač garantuje da će u toku trajanja postupka javne nabavke i realizacije ugovora o javnoj nabavci ispunjavati sve uslove za učešće u postupku javne nabavke i da ne postoji osnov za isključenje iz postupka javne nabavke, predviđen tenderskom dokumentacijom (u daljem tekstu: izjava).
