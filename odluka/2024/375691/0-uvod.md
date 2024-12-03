@@ -1,0 +1,2 @@
+Na osnovu člana 24 i 25 Zakona o izboru odbornika i poslanika ("Sl. list RCG" br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 48/06, 56/06 i "Sl. list CG", br. 46/11, 14/14 47/14, 12/16, 10/18 i 109/20) i člana 35 stav 1 tačka 2 Statuta opštine Danilovgrad ("Sl. list RCG - Opštinski propisi", br. 43/18) Skupština opštine Danilovgrad, na sjednici održanoj 29.11. i 3.12.2024. godine, donijela je
+ODLUKU
