@@ -1,0 +1,2 @@
+# Član 1
+U odluci o određivanju lokacije za izgradnju lokalnih objekata od opšteg interesa-objekata distributivne mreže MBTS 10/0,4kV 2x630kVA "H6.1" sa uklapanjem u VN mrežu,u skladu sa Idejnim rješenjem i smjernicama DUP-a ,,Centar Kolašin" u Kolašinu na dijelu kat.parc.755/3,753/3,751/3,754/2 i 789/1 KO Kolašin i svih katastarskih parcela koje nastanu parcelacijom navedenih parcela, Opština Kolašin u nazivu odluke i članu 1. iza broja katastarske parcele ,,789/1" dodaje se: ,,i 830".
