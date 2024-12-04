@@ -1,0 +1,2 @@
+Na osnovu člana 15 Zakona o Crvenom krstu Crne Gore ("Službeni list Republike Crne Gore", br. 28/06 i "Službeni list Crne Gore", br. 73/10 i 40/11), člana 27 stav 1 tačka 16 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20 i 84/22) i člana 73 stav 1 tačka 2 Statuta Prijestonice Cetinje ("Službeni list Crne Gore - Opštinski propisi", br. 49/18 i 17/21), Skupština Prijestonice Cetinje, na sjednici održanoj dana 07.11. 2024. godine, donijela je
+ODLUKU
