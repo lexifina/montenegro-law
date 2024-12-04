@@ -1,0 +1,2 @@
+Na osnovu člana 87 stav 18 Zakona o prevozu u drumskom saobraćaju ("Službeni list Crne Gore" br. 71/17 i 67/19), člana 27 stav 1 tačka 3 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore" br. 2/18, 34/19, 38/20 i 84/22) i člana 73 stav 1 tačka 2 Statuta Prijestonice Cetinje ("Službeni list Crne Gore - Opštinski propisi", br. 49/18 i 17/21) Skupština Prijestonice Cetinje, na sjednici održanoj dana, 07.11.2024. godine, donijela je
+ODLUKU
