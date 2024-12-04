@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samouravi ("Službeni list Crne Gore", br.002/18, 034/19, 038/20, 050/22, 084/22), člana 64 Zakona o sportu ("Službeni list Crne Gore", br.44/18 i 123/21), člana 34 stav 1 tačka 2 Statuta Opštine Zeta ("Službeni list Crne Gore - Opštinski propisi", br.012/23) i člana 2 stav 1 alineja 3 Odluke o preuzimanju osnivačkih prava nad Fudbalskim klubom "Zeta" ("Službeni list Crne Gore - Opštinski propisi", br.046/24) Skupština opštine Zeta, na XVI sjednici, održanoj dana 12. 11.2024 godine, donijela je
+ODLUKU
