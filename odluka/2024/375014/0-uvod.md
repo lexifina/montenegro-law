@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 1 tačka 1 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20 i 84/22), člana 19 stav 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 2/18, 66/19 i 140/22) i člana 73 stav 1 tačka 2 i tačka 33 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi" br. 49/18 i 17/21), Skupština Prijestonice, na sjednici održanoj dana, 07.11. 2024. godine, donijela je
+ODLUKU
