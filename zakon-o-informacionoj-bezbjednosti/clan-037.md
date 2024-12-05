@@ -1,0 +1,3 @@
+# Član 37
+## Tajnost obavještenja, izvještaja i smjernica
+Izvještaj iz člana 29 stav 1 ovog zakona, početno obavještenje iz člana 30 stav 1 ovog zakona, smjernice iz člana 32 i člana 33 stav 1 ovog zakona, izvještaji iz člana 33 st. 2 do 5 ovog zakona, obavještenje iz člana 34 stav 1 ovog zakona, smjernice iz člana 34 stav 2 ovog zakona, izvještaji iz člana 34 st. 3 do 6 ovog zakona, predlog i mišljenje iz člana 35 stav 1 ovog zakona, odluka iz člana 35 stav 3 ovog zakona, izvještaj iz člana 35 stav 4 ovog zakona, kao i izvještaj i predlog iz člana 35 stav 6 ovog zakona označavaju se odgovarajućim stepenom tajnosti u skladu sa zakonom kojim se uređuje tajnost podataka.

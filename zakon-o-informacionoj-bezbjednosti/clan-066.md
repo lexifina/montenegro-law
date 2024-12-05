@@ -1,0 +1,5 @@
+# Član 66
+## Posebna ovlašćenja inspektora
+U postupku inspekcijskog nadzora inspektor, pored ovlašćenja utvrđenih zakonom kojim se uređuje oblast inspekcijskog nadzora, ima ovlašćenje da kod organa državne uprave vrši kontrolu primjene mjera informacione bezbjednosti iz čl. 11 do 15 ovog zakona.
+Pored ovlašćenja iz stava 1 ovog člana, u postupku inspekcijskog nadzora, inspektor ima ovlašćenje da kod organa državne uprave koji su u skladu sa ovim zakonom određeni kao ključni i važni subjekti vrši kontrolu primjene mjera informacione bezbjednosti iz člana 16 ovog zakona.
+Pored ovlašćenja iz st. 1 i 2 ovog člana, u postupku inspekcijskog nadzora, inspektor ima ovlašćenje da kod organa državne uprave koji su u skladu sa ovim zakonom određeni kao ključni subjekti vrši kontrolu da li ti organi posjeduju certifikat o ispunjenost uslova u skladu sa važećim crnogorskim standardom za upravljanje informacionom bezbjednošću MEST ISO/IEC 27001 i da li su zahtijevali periodičnu provjeru ispunjenosti uslova u skladu sa tim standardom.

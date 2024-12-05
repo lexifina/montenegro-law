@@ -1,0 +1,3 @@
+# Član 27
+## Tajnost podataka, registara i listi ključnih i važnih subjekata
+Podaci iz člana 20 stav 2 ovog zakona i obavještenje iz člana 20 stav 4 ovog zakona, predlog sektorske liste iz člana 21 ovog zakona, predlog liste i Lista ključnih i važnih subjekata iz člana 22 ovog zakona, obavještenje iz člana 23 ovog zakona, Sektorski registar iz člana 24 ovog zakona, Zbirni registar iz člana 25 ovog zakona, obavještenja iz člana 26 st. 1 i 2 ovog zakona, kao i predlog izmjena, odnosno dopuna Liste ključnih i važnih subjekata iz člana 26 stav 4 ovog zakona označavaju se odgovarajućim stepenom tajnosti, u skladu sa zakonom kojim se uređuje tajnost podataka.
