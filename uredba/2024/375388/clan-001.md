@@ -1,0 +1,2 @@
+# Član 1
+U Uredbi o organizaciji i načinu rada državne uprave ("Službeni list CG", br. 98/23, 102/23, 113/23, 71/24, 72/24, 90/24, 93/24 i 104/24) u članu 7 poslije riječi: "pružanje elektronskih usluga povjerenja organima državne uprave;" dodaju se riječi: "reviziju informacionih sistema kojima upravljaju organi državne uprave; izradu i praćenje sprovođenja strateških dokumenata iz oblasti vještačke inteligencije u Crnoj Gori, vođenje politike i upravljanje vještačkom inteligencijom u skladu sa međunarodnim standardima i praksom Evropske unije;".
