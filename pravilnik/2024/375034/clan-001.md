@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o bližim uslovima u pogledu prostora, kadra i opreme koje moraju da ispunjavaju ovlašćene zdravstvene ustanove i pravna lica koja obavljaju pojedine poslove u vezi uzimanja i presađivanja tkiva i ćelija, kao i mjerama i aktivnostima za uspostavljanje i održavanje sistema kvaliteta* ("Službeni list CG", br. 64/15 i 4/22) u članu 4 stav 1 riječ "bolničke" zamjenjuje se riječju "zdravstvene".
