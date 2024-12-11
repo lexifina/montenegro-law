@@ -1,0 +1,8 @@
+# Član 11
+Radi ostvarivanja cilja i obazbjeđivanja poštovanja načela upravljanja međunarodnim rezervama, ukupna sredstva međunarodnih rezervi su, zavisno od potreba za likvidnošću i investicionog horizonta, raspodijeljena između različitih vrsta tranši, i to: likvidne, investicione i posebne tranše.
+Struktura i veličina svake tranše zasniva se na procjeni potreba za likvidnošću tokom različitih vremenskih horizonata, uzimajući u obzir odgovarajući nivo međunarodnih rezervi.
+Likvidna tranša služi za obezbjeđivanje dnevne likvidnosti (disponibilna sredstva) i likvidnosti do godinu dana, odnosno potreba za kratkoročnom likvidnošću, s tim da se nivo međunarodnih rezervi koji je iznad planiranih otplata državnog duga i potencijalnih potreba za likvidnošću može investirati na duži rok.
+Investiciona tranša služi za obezbjeđivanje srednjoročnih i dugoročnih ciljeva a, u krajnjem, i likvidnosti ukoliko nema sredstava u likvidnoj tranši i radi pokrivanja dugoročnih potencijalnih obaveza u skladu sa makroekonomskom i finansijskom stabilnošću zemlje.
+Podjela tranši na portfolije i ograničenja kojima se definiše veličina pojedinačnih portfolija u tranšama utvrđuju se Smjernicama.
+Veličina pojedinih tranši se periodično revidira, u zavisnosti od stanja ukupnih međunarodnih rezervi, najavljenim prilivima i odlivima sredstava, promjenama stanja međunarodnih rezervi u proteklih godinu dana i strukturi izvora sredstava.
+Sredstva kod Međunarodnog monetarnog fonda (u daljem tekstu: MMF), sredstva koja Centralna banka drži na svojim računima u inostranstvu u ime klijenata, u skladu sa posebnim ugovorima, kojima se aktivno ne upravlja osim ukoliko ugovorom nije drugačije predviđeno, kao i druga sredstva kojima se aktivno ne upravlja, vode se u okviru posebne tranše.
