@@ -1,0 +1,3 @@
+# Član 1
+## o prodaji katastarskih parcela broj 4813/1 i 4814/6 KO Novi Bar
+Opština Bar prodaje Pavović (Petar) Antoniju i Pavović (Petar) Vladimiru, obojici iz Bara, nepokretnosti evidentirane u katastarskom operatu kao katastarska parcela broj 4813/1, po kulturi - neplodno zemljište, u površini od 66m2, kao i katastarska parcela broj 4814/6, po kulturi - voćnjak 1. klase, u površini od 115m2, obije iz lista nepokretnosti broj 1154 KO Novi Bar, u svojini Države Crne Gore, sa pravom raspolaganja u korist Opštine Bar, u obimu prava 1/1. Zemljište iz prethodnog stava, prodaje se neposrednom pogodbom, radi kompletiranja urbanističke parcele broj 1 (UP 1), u urbanističkoj zoni "Aa", u zahvatu DUP-a "Ilino" ("Sl. list CG - Opštinski propisi", br. 32/09).
