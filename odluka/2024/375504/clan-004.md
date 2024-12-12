@@ -1,0 +1,3 @@
+# Član 4
+U članu 15 stav 2 mijenja se i glasi:
+"Mjesečna naknada iz stava 1 ovog člana isplaćuje se iz budžetskih sredstava organa čiji su predstavnici predsjednik, zamjenik predsjednika, članovi i sekretar Savjeta, osim za članove Savjeta koji su predstavnici nevladinog sektora za koje se naknada isplaćuje iz budžetskih sredstava Generalnog sekretarijata Vlade, člana Savjeta koji je predstavnik Zajednice opština Crne Gore za koga se naknada isplaćuje iz budžetskih sredstava jedinice lokalne samouprave iz koje dolazi i člana Savjeta koji je predstavnik Crnogorske akademije nauka i umjetnosti za koga se naknada isplaćuje iz budžetskih sredstava ove institucije."
