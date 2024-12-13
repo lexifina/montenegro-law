@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 35 stav 1 tačka 2 i člana 38 Statuta Opštine Danilovgrad ("Sl. list CG - Opštinski propisi", br. 43/18), člana 5 stav 1, člana 6 stav 1 i člana 10 stav 1 Odluke o izmjenama i dopunama Statuta Javne ustanove "Umjetnička kolonija" Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", br. 34/19), Skupština Opštine Danilovgrad na sjednici održanoj dana 29.11. i 3.12.2024. godine, donijela je
+ODLUKU
