@@ -1,0 +1,2 @@
+# Član 21
+Solarnim panelima (pločama), u smislu člana 24a stav 2 tačka 9 Zakona, smatraju se fotonaponske ćelije sastavljene u modele ili ploče koji se sastoje od okvira šupljih profila izgrađenih od aluminijuma sa zaštitnim kaljenim staklom sa prednje strane, a koje sadrži raspoređene fotosnopske ćelije, i taj panel treba da je opremljen termalnim priključkom i razvodnom kutijom fotosnopskih modula.
