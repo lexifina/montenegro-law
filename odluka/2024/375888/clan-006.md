@@ -1,0 +1,3 @@
+# Član 6
+U Odluci o organizaciji i načinu rada lokalne uprave opštine Pljevlja ("Sl.list CG - opštinsko propisi" br.23/23), u poglavlju VII - Prelazne i završne odredbe, nakon člana 68. dodaje se novi član 68a. koji glasi:
+"Službenici i Namještenici Građanskog biroa, u Sekretarijatu za zajedničke poslove, od preuzimanja će obavljati poslove koje su vršili u Građanskom birou, do raspoređivanja na poslove po novom Pravilniku o unutrašnjoj organizaciji i sistematizaciji radnih mjesta Sekretarijata za zajedničke poslove, koji će biti usvojen u roku od 15 dana od dana stupanja na snagu ove odluke, dok će Službenici i Namještenici biti raspoređeni na sistematizovane poslove u roku od 15 dana od početka primjene ove Odluke".
