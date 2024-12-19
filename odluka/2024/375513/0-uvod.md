@@ -1,0 +1,2 @@
+Na osnovu člana 24 stav 1 tačka 1, a u vezi sa članom 18 Zakona o mirnom rješavanju radnih sporova ("Službeni list CG", broj 145/21) i člana 20 Statuta Agencije za mirno rješavanje radnih sporova ("Službeni list CG", broj 81/22), Savjet Agencije za mirno rješavanje radnih sporova, na sjednici od 21. novembra 2024. godine, donio je
+ODLUKU O IZMJENI STATUTA AGENCIJE ZA MIRNO RJEŠAVANJE RADNIH SPOROVA
