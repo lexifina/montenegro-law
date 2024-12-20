@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tačka 3 Ustava Crne Gore i čl. 29 i 30 Zakona o izboru odbornika i poslanika ("Službeni list RCG", br. 4/98, 5/98, 17/98, 14/00, 18/00, 9/01, 41/02, 46/02, 45/04, 48/06 i 56/06 i "Službeni list CG", br. 46/11, 14/14, 47/14, 12/16, 60/17, 10/18 i 109/20), Skupština Crne Gore 28. saziva, na Trećoj sjednici Drugog redovnog (jesenjeg) zasijedanja u 2024. godini, dana 17. decembra 2024. godine, donijela je
+ODLUKU O IMENOVANJU DEVET ČLANOVA/ICA DRŽAVNE IZBORNE KOMISIJE
