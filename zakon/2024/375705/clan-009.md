@@ -1,0 +1,15 @@
+# Član 9
+(1) Radi formiranja obaveznih rezervi naftnih derivata organ državne uprave nadležan za poslove nafte i naftnih derivata (u daljem tekstu: Ministarstvo) dužan je da do 1. marta tekuće godine, utvrdi minimalnu količinu obaveznih rezervi naftnih derivata za period od 1. jula tekuće godine do 30. juna naredne godine.
+(2) Minimalna količina obaveznih rezervi naftnih derivata odgovara količini od 90 dana prosječnog dnevnog neto uvoza naftnih derivata u godini, koja prethodi kalendarskoj godini u kojoj se vrši obračun, ili 61 dan prosječne dnevne potrošnje naftnih derivata u godini, koja prethodi kalendarskoj godini u kojoj se vrši obračun, u zavisnosti od toga koja je količina veća.
+(3) Obračun količine obaveznih rezervi naftnih derivata iz stava 2 ovog člana Ministarstvo vrši na osnovu ekvivalenta sirove nafte u uvozu ili domaćoj potrošnji tokom prethodne kalendarske godine, uzimajući u obzir:
+- uvoz, izvoz i potrošnju naftnih derivata, i
+- količinu obaveznih i komercijalnih rezervi naftnih derivata.
+(4) Podatke iz stava 3 ovog člana dužni su da Ministarstvu dostave uvoznici i privredna društva koja trguju na veliko i malo naftnim derivatima, Uprava i organ uprave nadležan za poslove carina do 10. u tekućem za prethodna dva mjeseca, na propisanom obrascu.
+(5) Na osnovu podataka iz stava 3 ovog člana Ministarstvo vrši obračun:
+1) količine obaveznih rezervi naftnih derivata u tonama ekvivalentne sirove nafte, ekvivalentnim danima i metričkim tonama na osnovu metodologije obračuna neto uvoza, dnevne potrošnje i količine obaveznih rezervi naftnih derivata;
+2) strukture obaveznih rezervi naftnih derivata, odnosno udjela bezolovnog motornog benzina i gasnih ulja u obaveznim rezervama, pri čemu obavezne rezerve bezolovnog motornog benzina zamjenjuju obavezne rezerve tečnog naftnog gasa, a rezerve gasnog ulja zamjenjuju rezerve kerozina (Jet A-1), ulja za loženje, mazuta i ostalih naftnih derivata;
+3) udjela Uprave i svakog pojedinog uvoznika naftnih derivata u formiranju obaveznih rezervi na osnovu količine naftnih derivata koju je uvoznik stavio na tržište u godini koja prethodi kalendarskoj godini u kojoj se vrši obračun, pri čemu će Uprava i uvoznici naftnih derivata formirati po jednu polovinu minimalne količine obaveznih rezervi.
+(6) Ministarstvo je dužno da podatke iz stava 3 ovog člana dostavi organu uprave nadležnom za poslove statistike, do 20. tekućeg za prethodni mjesec, radi proizvodnje i diseminacije podataka zvanične statistike o tržištu naftnih derivata.
+(7) Statistički izvještaji o obaveznim rezervama naftnih derivata ne smiju uključivati količine naftnih derivata koji su predmet zaplijene ili izvršnog postupka.
+(8) Nakon proizvodnje i diseminacije podataka zvanične statistike o tržištu naftnih derivata iz stava 6 ovog člana, organ uprave nadležan za poslove statistike te podatke dostavlja Evropskoj komisiji u roku od 55 dana od dana završetka mjeseca na koji se ti podaci odnose i Ministarstvu do kraja februara tekuće, za prethodnu kalendarsku godinu.
+(9) Obrazac iz stava 4 ovog člana i metodologiju iz stava 5 tačka 1 ovog člana propisuje Ministarstvo.

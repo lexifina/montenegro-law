@@ -1,0 +1,3 @@
+# Član 48
+(1) Količinu i strukturu obaveznih rezervi naftnih derivata koje treba da formiraju uvoznici, odnosno Uprava za period nakon stupanja na snagu ovog zakona do 30. juna 2025. godine, Ministarstvo će utvrditi u roku od 90 dana od dana stupanja na snagu ovog zakona obračunom na osnovu podataka o uvozu, izvozu i potrošnji naftnih derivata i količini komercijalnih rezervi naftnih derivata.
+(2) Za potrebe obračuna iz stava 1 ovog člana, uvoznici naftnih derivata, privredna društva koja trguju na veliko i malo naftnim derivatima i organ uprave nadležan za poslove carina dostaviće Ministarstvu podatke o uvozu, izvozu i potrošnji naftnih derivata i količini komercijalnih rezervi naftnih derivata u 2023. godini, u roku od 60 dana od dana stupanja na snagu ovog zakona.

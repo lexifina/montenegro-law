@@ -1,0 +1,4 @@
+# Član 41
+(1) Sredstva za formiranje i održavanje obaveznih rezervi naftnih derivata Uprave obezbjeđuju se u budžetu Crne Gore iz prihoda od naknade za obavezne rezerve iz člana 40 ovog zakona i to minimalno u visini koja se za svaku godinu procijeni da će biti prikupljena po osnovu naknade za obavezne rezerve iz člana 40 ovog zakona i iz drugih izvora u skladu sa zakonom i odlukama Vlade.
+(2) Sredstva prikupljena od naknade su namjenski prihodi Uprave i uplaćuju se na prihodni račun.
+(3) Sredstva iz st. 1 i 2 ovog člana, mogu da se koriste isključivo za potrebe formiranja i održavanja obaveznih rezervi, adaptacije i/ili rekonstrukcije skladišta za skladištenje obaveznih rezervi koje su Upravi data na korišćenje i upravljanje i za troškove u vezi sa obaveznim rezervama, u skladu sa ovim zakonom i internim aktima Uprave.
