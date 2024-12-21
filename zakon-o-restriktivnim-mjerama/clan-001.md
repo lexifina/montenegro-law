@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim zakonom uređuje se način uvođenja međunarodnih restriktivnih mjera, utvrđivanja nacionalnih restriktivnih mjera, primjene i ukidanja nacionalnih i međunarodnih restriktivnih mjera (u daljem tekstu: restriktivne mjere), u cilju uspostavljanja i očuvanja međunarodnog mira i bezbjednosti, poštovanja međunarodnog prava, a naročito Povelje Ujedinjenih nacija i njenih načela, poštovanja međunarodnog humanitarnog prava i uspostavljanja odgovornosti za njegovo kršenje, poštovanja ljudskih prava i osnovnih sloboda, jačanja demokratije i vladavine prava, kao i borbe protiv terorizma i finansiranja terorizma, borbe protiv proliferacije oružja za masovno uništenje i finansiranja proliferacije oružja za masovno uništenje.

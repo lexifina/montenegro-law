@@ -1,0 +1,8 @@
+# Član 16
+## uvođenju i utvrđivanju restriktivnih mjera u evidencije Obavještavanje o uvođenju i utvrđivanju restriktivnih mjera preko Informacionog sistema za restriktivne mjere
+(1) Organ državne uprave nadležan za unutrašnje poslove, preko informacionog sistema za restriktivne mjere iz člana 48 stav 1 ovog zakona (u daljem tekstu: Informacioni sistem za restriktivne mjere), obavještava nadležne organe i druge subjekte iz člana 18 stav 1 ovog zakona, kao i stalno koordinaciono tijelo za restriktivne mjere iz člana 44 ovog zakona (u daljem tekstu: Stalno koordinaciono tijelo za restriktivne mjere) o:
+- usvajanju rezolucije Savjeta bezbjednosti, odnosno utvrđivanju i izmjeni liste restriktivnih mjera Ujedinjenih nacija, kao i usvajanju drugog akta Savjeta bezbjednosti i njegovih tijela iz člana 8 stav 3 ovog zakona, bez odlaganja, a najkasnije u roku od 24 časa od njihovog usvajanja, odnosno utvrđivanja i izmjene;
+- donošenju odluke Vlade o uvođenju međunarodnih restriktivnih mjera iz člana 9 stav 1 i člana 10 stav 1 ovog zakona, bez odlaganja, a najkasnije u roku od 24 časa od njihovog donošenja;
+- donošenju odluke Vlade o utvrđivanju nacionalnih restriktivnih mjera iz člana 11 stav 1 i člana 12 stav 1 ovog zakona, bez odlaganja, a najkasnije u roku od 24 časa od njihovog donošenja.
+(2) Ako postoje tehnički problemi u funkcionisanju Informacionog sistema za restriktivne mjere, obavještenje iz stava 1 ovog člana dostavlja se u pisanoj formi organu državne uprave nadležnom za unutrašnje poslove, u rokovima iz stava 1 ovog člana i unosi u taj informacioni sistem kad se za to steknu uslovi.
+(3) Način dostavljanja obavještenja iz st. 1 i 2 ovog člana propisuje organ državne uprave nadležan za unutrašnje poslove.

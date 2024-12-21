@@ -1,0 +1,5 @@
+# Član 28
+## Izvještavanje u slučaju odobravanja pojedinačnog izuzetka od primjene restriktivne mjere
+(1) Ako je rješenjem iz člana 27 stav 4 ovog zakona odobren pojedinačni izuzetak od primjene restriktivne mjere, označeno lice je dužno da organu iz člana 27 stav 2 ovog zakona dostavi izvještaj o postupanju u skladu sa tim rješenjem.
+(2) Ako označeno lice iz neopravdanih razloga ne dostavi izvještaj iz stava 1 ovog člana ili ne postupi po rješenju iz člana 27 stav 4 ovog zakona, organ iz člana 27 stav 2 ovog zakona može donijeti rješenje o ukidanju rješenja kojim je odobren pojedinačni izuzetak od primjene restriktivne mjere.
+(3) Ako je rješenjem iz člana 27 stav 4 ovog zakona odobren pojedinačni izuzetak od primjene restriktivne mjere u odnosu na označeno lice sa liste restriktivnih mjera Ujedinjenih nacija, organ iz člana 27 stav 2 ovog zakona sačinjava izvještaj o korišćenju oslobođenog dijela sredstava i/ili druge imovine, odnosno postupanju u skladu sa tim rješenjem, koji se, preko Ministarstva, dostavlja nadležnom komitetu, odnosno tijelu Savjeta bezbjednosti.
