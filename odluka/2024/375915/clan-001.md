@@ -1,0 +1,11 @@
+# Član 1
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti u Opštini Kotor, na sledećim katastarskim parcelama:
+- dijela kat.parc.br.759/3, KO Risan I, iz Lista nepokretnosti 906, po naravi "prirodno neplodno zemljište", pravo svojine Krivokapić Sava, u obimu prava 1/1, u površini od 140m2, KO Risan I, Kotor;
+- dijela kat.parc.br.9, KO Orahovac II, iz Lista nepokretnosti 2, po naravi "šume 4.klase", pravo svojine Avramović Jovana, u obimu prava 1/1, u površini od 187 m2 (dužina kabla 31,11m), KO Orahovac II, Kotor;
+- dijela kat.parc.br.10, KO Orahovac II, iz Lista nepokretnosti 2, po naravi "pašnjak 4.klase", pravo svojine Avramović Jovana, u obimu prava 1/1, u površini od 296 m2 (dužina kabla 49,49m), KO Orahovac II, Kotor;
+- dijela kat.parc.br.13, KO Orahovac II, iz Lista nepokretnosti 56, po naravi "livada 4.klase", pravo susvojine Dabižinović Mlađana, u obimu prava 1/2 i Dabižinović Radislava, u obimu prava 1/2, u površini od 214 m2 (dužina kabla 35,19m), KO Orahovac II, Kotor;
+- dijela kat.parc.br.15, KO Orahovac II, iz Lista nepokretnosti 100, po naravi "šume 4.klase", pravo susvojine Lazarević Milorada, u obimu prava 1/2 i Lazarević Vasilija, u obimu prava 1/2, u površini od 894 m2 (dužina kabla 149,52m), KO Orahovac II, Kotor;
+- dijela kat.parc.br.18, KO Orahovac II, iz Lista nepokretnosti 54, po naravi "livada 4.klase", pravo susvojine Dabižinović Zdravka, u obimu prava 1/2 i Dabižinović Zorana, u obimu prava 1/2, u površini od 145 m2 (dužina kabla 24,18m), KO Orahovac II, Kotor;
+- dijela kat.parc.br.638, KO Orahovac II, iz Lista nepokretnosti 54, po naravi "šume 4.klase", pravo susvojine Abižinović Zdravka, u obimu prava 1/2 i Dabižinović Zorana, u obimu prava 1/2, u površini od 1092 m2 (dužina kabla 225,34m), KO Orahovac II, Kotor;
+- dijela kat.parc.br.654, KO Orahovac II, iz Lista nepokretnosti 54, po naravi "pašnjak 3.klase", pravo susvojine Abižinović Zdravka, u obimu prava 1/2 i Dabižinović Zorana, u obimu prava 1/2, u površini od 132 m2 (dužina kabla 27,01m), KO Orahovac II, Kotor;
+- dijela kat.parc.br.644, KO Orahovac II, iz Lista nepokretnosti 54, po naravi "livada 4.klase", pravo susvojine Abižinović Zdravka, u obimu prava 1/2 i Dabižinović Zorana, u obimu prava 1/2, u površini od 11 m2 (dužina kabla 56m), KO Orahovac II, Kotor.
