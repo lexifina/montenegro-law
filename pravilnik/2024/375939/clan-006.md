@@ -1,0 +1,2 @@
+# Član 6
+Zvanje tehničara stiče podoficir, podoficir po ugovoru ili civilno lice u službi u Vojsci koji je završio srednju vojnu školu (vazduhoplovno tehnički ili tehnički smjer) ili ima IV-1 nivo kvalifikacije obrazovanja (tehnički smjer) i stručno-specijalističko osposobljavanje ili IV-1 nivo kvalifikacije obrazovanja i stručno-specijalističko osposobljavanje i koji je obavljao poslove najmanje tri godine u vazduhoplovno-tehničkoj službi.

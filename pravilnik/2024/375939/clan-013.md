@@ -1,0 +1,2 @@
+# Član 13
+Zvanje tehničara stiče podoficir ili podoficir po ugovoru koji je završio srednju vojnu školu - smjer vazdušno osmatranje ili protivvazduhoplovna odbrana ili ima IV-1 nivo kvalifikacije obrazovanja (tehnički smjer) i stručno-specijalističko osposobljavanje ili ima IV-1 nivo kvalifikacije obrazovanja, stručno-specijalističko osposobljavanje i najmanje tri godine radnog iskustva na poslovima u zvanju poslužioca.

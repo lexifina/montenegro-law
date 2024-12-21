@@ -1,0 +1,2 @@
+# Član 4
+Zvanje pilota stiče oficir ili oficir po ugovoru koji je završio vazduhoplovnu vojnu akademiju - pilotski smjer ili vojnu akademiju drugog smjera i stručno usavršavanje i osposobljavanje u ovlašćenoj školi ili centru za obuku pilota ili ima VII-1 nivo kvalifikacije obrazovanja (tehnički smjer ili smjer vazdušnog saobraćaja) i stručno usavršavanje i osposobljavanje u ovlašćenoj školi ili centru za obuku pilota.
