@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18, 09/20), člana 49 Poslovnika o radu Skupštine opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", broj 036/24) i člana 4 i 5 Odluke o obrazovanju radnih tijela Skupštine ("Službeni list RCG - Opštinski propisi", broj 08/05), Skupština opštine Tivat na sjednici održanoj dana 23.12.2024.godine, donijela je
+ODLUKU
