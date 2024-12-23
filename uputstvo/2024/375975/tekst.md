@@ -1,0 +1,10 @@
+Na osnovu člana 22 stav 8 ("Službeni list RCG", br. 55/00, 12/02 i 28/06 i "Službeni list CG", br. 21/08, 30/17, 75/18 i 33/24), Ministarstvo prostornog planiranja, urbanizma i državne imovine donijelo je
+UPUTSTVO O NAČINU I POSTUPKU ISPLATE SREDSTAVA ZA EKSPROPRISANE NEPOKRETNOSTI SA DEPOZITNIH RAČUNA ZA EKSPROPRIJACIJU
+1. Ovim uputstvom propisuje se način i postupak isplate sredstava za eksproprisane nepokretnosti sa računa Ministarstva prostornog planiranja, urbanizma i drzavne imovine - Depoziti za eksproprijaciju, otvorenih kod poslovnih banaka.
+2. Isplata sredstava sa računa iz tačke 1 ovog uputstva, vlasniku eksproprisane nepokretnosti vrši se na osnovu rješenja o eksproprijaciji.
+3. Uz rješenje tačke 2 ovog uputstva organ uprave nadležan za upis prava na nepokretnostima dostavlja Ministarstvu prostornog planiranja, urbanizma i državne imovine zahtjev za isplatu potpisan od strane bivšeg vlasnika sa njegovim ličnim podacima: (ime i prezime sa imenom roditelja, matični broj, adresa stanovanja, broj računa na koji treba da se izvrši uplata i banka kod koje se vrši uplata, odnosno naziv, sjedište i broj računa pravnog lica) i zapisnik na kojem je određena naknada za eksproprisanu nepokretnost.
+4. Ako rješenje o eksproprijaciji glasi na više bivših vlasnika organ uprave iz tačke 3 ovog uputstva, uz rješenje o eksproprijaciji Ministarstvu prostornog planiranja, urbanizma i državne imovine dostavlja zahtjev i zapisnik na kojem je određena naknada za ekspropisane nepokretnosti za svakog od njih pojedinačno.
+5. Nakon prijema dokumentacije iz tač. 3 i 4 ovog uputstva, Ministarstvo prostornog planiranja, urbanizma i državne imovine će u roku od dvadeset dana izvršiti uplatu utvrđenog iznosa sredstava.
+6. Ako vlasnik eksproprisane nepokretnosti odbije da primi isplatu naknade, sredstva po rješenju o eksproprijaciji se neće koristiti za druge namjene.
+7. Danom stupanja na snagu ovog uputstva prestaje da važi Uputstvo o načinu i postupku isplate sredstava sa računa depozita za eksproprijaciju ("Službeni list RCG", broj 78/06).
+8. Ovo uputstvo stupa na snagu danom objavljivanja u "Službenom listu Crne Gore".
