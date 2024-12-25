@@ -1,0 +1,3 @@
+Na osnovu čl. 28 i 29 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", br. 3/19, 86/22, 05/24 i 07/24), čl. 33 i 34 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore", br. 20/14, 56/14, 70/17, 4/18, 55/18, 66/19, 70/21, 145/21, 27/23, 123/23 i 125/23) čl. 38 stav 1 tačka 7 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore"; br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 43 stav 1 tačka 7 Statuta Opštine Bar ("Službeni list Crne Gore - Opštinski propisi", br. 37/18), Skupština Opštine Bar, na sjednici održanoj 12.12.2024. godine, donijela je
+ODLUKU
+o Budžetu Opštine Bar za 2025. godinu
