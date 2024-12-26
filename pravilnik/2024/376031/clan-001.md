@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom bliže se utvrđuju proizvodi i način ostvarivanja prava na oslobođenje od plaćanja PDV pri uvozu iz člana 28 stav 1 tač. 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33 i 34 Zakona o porezu na dodatu vrijednost ("Službeni list RCG", br. 65/01, 72/02, 21/03 i 76/05 i "Službeni list CG", br. 16/07, 29/13, 9/15, 53/16, 1/17, 50/17, 80/20, 59/21, 146/21, 49/22, 65/22, 140/22, 3/23 i 94/24) (u daljem tekstu: Zakon).
