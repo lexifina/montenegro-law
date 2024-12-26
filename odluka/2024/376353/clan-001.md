@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom propisuju se bliži kriterijumi na osnovu kojih se određuju ranjivi korisnici komunalnih usluga za komunalne djelatnosti javno vodosnabdijevanje i upravljanje komunalnim otpadnim vodama, koje se pružaju na teritoriji opštine Danilovgrad (u daljem tekstu: korisnik subvencije), visina subvencije, rok ostvarivanja prava na subvenciju, postupak revizije prava na subvenciju i druga pitanja od značaja za ostvarivanje, odnosno prestanak ovog prava.
