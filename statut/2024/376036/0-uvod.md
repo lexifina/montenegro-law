@@ -1,0 +1,2 @@
+Na osnovu člana 53 stav 1 tačka 1 Zakona o Razvojnoj banci Crne Gore ("Službeni list CG", broj 99/24), člana 114 Zakona o privrednim društvima ("Službeni list CG", br. 65/20, 146/21 i 4/24) i člana 17 stav 1 tačka 1 Odluke o osnivanju Razvojne banke Crne Gore A.D. Podgorica ("Službeni list CG", broj 122/24), Vlada Crne Gore je 25. decembra 2024. godine, bez održavanja sjednice, na osnovu pribavljenih saglasnosti većine članova, donijela
+STATUT RAZVOJNE BANKE CRNE GORE A.D. PODGORICA

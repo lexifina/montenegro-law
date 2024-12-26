@@ -1,0 +1,2 @@
+# Član 29
+Odbor za upravljanje aktivom i pasivom Razvojne banke prati rizike (rizik likvidnosti, kreditni rizik, tržišni i drugi rizici) kojima Razvojna banka može biti izložena u svom poslovanju, analizira i upravlja strukturom bilansnih stanja, analizira i predlaže mjere i aktivnosti za usklađivanje ročne strukture, održavanje likvidnosti, upravljanje rizicima, povećanje profitabilnosti i daje preporuke i mišljenja Upravnom odboru.
