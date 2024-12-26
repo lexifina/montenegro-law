@@ -1,0 +1,27 @@
+# Član 2
+## Programski zadatak za izradu glavnog projekta
+Uraditi projekat za izgradnju lokalnog objekta od opšteg interesa - rekonstrukcija postojeće pijace dogradnjom objekta pijace za ribu, riblje prerađevine na jednoj etaži, a mlijeko i mlječne proizvode i druge kompatibilne proizvode na drugoj, sa pratećom infrastrukturom koja obuhvata: prilaz do objekta, elektroenergetsku infrastrukturu, hidrotehničku infrastrukturu, telekomunikacionu infrastrukturu kao i hortikulturno i pejzažno uređenje lokacije, na katastarskoj parceli broj 5816 KO Novi Bar površine 318,12m², koja odgovara urbanističkoj parceli A1-UP 7 u bloku 1 Zona A u zahvatu DUP-a "Topolica IV " ("Sl. List CG - Opštinski propisi" broj 39/13), kao i svim katastarskim parcelama koje mogu nastati dijeljenjem predmetne katastarske parcele.
+Mikrolokaciju objekta u okviru lokacije utvrditi kroz izradu glavnog projekta u okviru građevinskih linija i to:
+Građevinska linija se poklapa sa granicom urbanističke parcele. U nivou parternog uređenja, obezbjediti prolaz oko objekta, povlačenjem zidova prizemlja u odnosu na građevinsku liniju. Zidovi objekta nemaju ograničenja u pogledu veličine i orijentacije otvora za dnevno osvjetljenje prostora unutar objekta, osim u odnosu na otvore za higijenske prostorije, gdje se otvori planiraju u skladu sa njihovom namjenom i otvore na zidovima sa južne strane (orijentisane prema A1- UP8), gdje treba planirati otvore sa visokim parapetom.
+Objekat projektovati po projektnom zadatku i potrebama investitora maksimalne spratnosti dvije nadzemne etaže sa mogućnošću gradnje i podzemnih etaža. Maksimalni indeks izgrađenosti 1,80. U sklopu objekta prostor organizovati shodno potrebama koje proizilaze iz namjene objekta i voditi računa o svim propisima koji definišu način čuvanja i prodaje hrane životinjskog i biljnog porijekla. Pristup objektu projektovati prema tehničkim propisima i programskom zadatku sa ciljem stvaranja uslova za nesmetano odvijanje kolskog i pješačkog saobraćaja, sa priključkom na postojeću saobraćajnicu, a parkiranje korisnika objekta, predvidjeti odgovarajući parking predvidjeti na dijelu susjedne urbanističke parcele UP S15, na dijelu koji je predviđen za izgradnju javnog parkinga.
+Projektom predvidjeti snabdijevanje objekta električnom energijom prema uslovima koje propiše CEDIS. U cilju poboljšanja energetske efikasnosti objekta predvidjeti i mogućnost korišćenja obnovljivih izvora energije.
+Projektom predvidjeti snabdijevanje objekta vodom i odvođenje otpadnih voda prema uslovima koje propiše DOO "Vodovod i kanalizacija Bar" i nadležni organ za poslove vodoprivrede.
+Projektom obuhvatiti i rješavanje pitanja odvođenja atmosferske vode kao i hortikulturno uređenje lokacije, prema tehničkim propisima i projektnom zadatku investitora.
+Realizacija projekta se može odvijati fazno prema potrebama investitora.
+Tehnička dokumentacija treba da sadrži dokumentaciju predviđenu Pravilnikom o načinu izrade i sadržini tehničke dokumentacije za građenje objekata, kao i važećim tehničkim normativima, standardima i normama kvaliteta.
+Predloženo rješenje usaglasiti sa propisima koji definišu higijenske zahtjeve prilikom prodaje hrane životinjskog ili biljnog porijekla.
+Visine prostorija dimenzionisati u skladu sa važećim propisima i standardima, vodeći računa o minimalnim potrebnim dimenzijama za ovu vrstu objekta.
+Predvidjeti konstruktivni sistem koji će omogućiti fleksibilnu namjenu prostora i materijale trajne vrijednosti koji odgovaraju standardima o fizičkoj zaštiti i higijenskim uslovima i racionalnom održavanju.
+Konstrukciju objekta, materijale, nagib krova kao i tip krovnog pokrivača potrebno je uskladiti sa namjenom objekta i tradicionalnom arhitekturom ovog podneblja, kao i klimatskim uslovima lokacije.
+Izgradnjom navedenog objekata ne smije se ugroziti život i rad u susjednim objektima, odvijanje kolskog i pješačkog saobraćaja, odvođenje atmosferske vode, kao i postojeće instalacije na lokaciji.
+Glavni projekat predmetnog objekta uraditi u skladu sa odredbama Zakona o planiranju prostora i izgradnji objekata i drugih propisa, kao i važećim tehničkim propisima, standardima i normama za projektovanje ove vrste objekata. Prilikom izrade tehničke dokumentacije poštovati naročito: - Pravilnik o bližim uslovima i načinu prilagođavanja objekata za pristup i kretanje lica smanjene pokretljivosti ("Sl.list CG" br.48/13 i 44/15);
+- Zakon o zaštiti i spašavanju ("Sl.list CG" br. 13/07, 5/08, 86/09, 32/11 i 54/16);
+- Pravilnik o mjerama zaštite od elementarnih nepogoda ("Sl.list RCG" broj 6/93);
+- Zakon o zaštiti i zdravlju na radu ("Sl.list CG" br.34/14 i 34/18);
+kao i druge propise relevantne za projektovanje i građenje ove vrste objekata.
+Prije izrade Glavnog projekta investitor je dužan da:
+- Izradi Projektni zadatak za izradu tehničke dokumentacije;
+- Pribavi potrebne tehničke uslove za priključenje na elektroenergetsku infrastrukturu;
+- Pribavi potrebne tehničke uslove za priključenje na hidrotehničku infrastrukturu;
+- Pribaviti potrebne saobraćajno tehničke uslove od organa zauženog za poslove saobraćaja; - Od imalaca prava nad postojećom infrastrukturom pribavi potvrdu o neugožavanju postojećih instalacija i uslove iz domena njihove nadležnosti za izgradnju objekta;
+- Obezbijedi riješene imovinsko pravne odnose na predmetoj parceli odnosno pravo svojine ili drugo pravo na zemljištu kao uslov za građenje.

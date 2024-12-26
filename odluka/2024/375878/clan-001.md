@@ -1,0 +1,4 @@
+# Član 1
+## Vrsta lokalnog objekta od opšteg interesa
+Ovom Odlukom određuje se lokacija za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa - rekonstrukcija kompleksa postojeće pijace dogradnjom objekta pijace za ribu, riblje prerađevine na jednoj etaži, a mlijeko i mlječne proizvode i druge kompatibilne proizvode na drugoj, po zahtjevu Sekretarijata za imovinu i investicije Opštine Bar, na dijelu katastarske parcele broj 5816 KO Novi Bar, površine 318,12m², koja odgovara urbanističkoj parceli A1-UP 7 u bloku 1 Zona A u zahvatu DUP-a "Topolica IV " ("Sl. list CG - Opštinski propisi" broj 39/13).
+Prema Listu nepokretnosti broj 1640 -izvod KO Novi Bar, katastarska parcela broj 5816 KO Novi Bar, svojina je Crne Gore, obim prava 1/1, raspolaganje Opštine Bar, obim prava 1/1.
