@@ -1,0 +1,11 @@
+# Član 1
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti u zahvatu KO Vusanje, opština Gusinje, na dijelu sljedećih katastarskih parcela:
+- kat. parcela br. 489/1 KO Vusanje, po kulturi "livada 6. klase", upisana u Listu nepokretnosti br. 389 KO Vusanje kao susvojina fizičkih lica Gjonbalaj (Adem) Naser, Gjonbalaj (Mehmet) Xhuxha rođ. Preljvukaj i Gjonbalaj (Adem) Redžep, u obimu za nepotpunu eksproprijaciju od 3m2,
+- kat. parcela br. 490 KO Vusanje, po kulturi "livada 5. klase", upisana u Listu nepokretnosti br. 111 KO Vusanje kao susvojina fizičkih lica Gjonbalaj (Jakup) Salih, Gjonbalaj (Jakup) Selim i Gjonbalaj (Jakup) Sulejman, u obimu za nepotpunu eksproprijaciju od 61m²,
+- kat. parcela br. 491 KO Vusanje, po kulturi "livada 5. klase", upisana u Listu nepokretnosti br. 224 KO Vusanje kao svojina fizičkog lica Gjonbalaj (Alija) Uka, u obimu za nepotpunu eksproprijaciju od 39m2,
+- kat. parcela br. 518 KO Vusanje, po kulturi "njiva 3. klase", upisana u Listu nepokretnosti br. 147 KO Vusanje kao svojina fizičkog lica Gjonbalaj (Ćerim) Isat, u obimu za nepotpunu eksproprijaciju od 1m2,
+- kat. parcela br. 435 KO Vusanje, po kulturi "livada 5. klase", upisana u Listu nepokretnosti br. 138 KO Vusanje kao svojina fizičkog lica Djonbaljaj (Redžep) Ujk, u obimu za nepotpunu eksproprijaciju od 6m2,
+- kat. parcela br. 433 KO Vusanje, po kulturi "livada 5. klase", upisana u Listu nepokretnosti br. 151 KO Vusanje kao svojina fizičkog lica Djonbaljaj (Redžep) Ujk , u obimu za nepotpunu eksproprijaciju od 58m2,
+- kat. parcela br. 432 KO Vusanje, po kulturi "livada 5. klase", upisana u Listu nepokretnosti br. 96 KO Vusanje kao susvojina fizičkih lica Gjonbalaj (Ramadan) Fadil, Đonbaljaj (Ramadan) Fljamur, Gjonbalaj (Ramadan) Shaban i Gjonbalaj (Ramadan) Sherif, u obimu za nepotpunu eksproprijaciju od 43m2,
+- kat. parcela br. 430 KO Vusanje, po kulturi "livada 5. klase", upisana u Listu nepokretnosti br. 138 KO Vusanje kao svojina fizičkog lica Djonbaljaj (Redžep) Ujk, u obimu za nepotpunu eksproprijaciju od 15m2,
+- kat. parcela br. 318 KO Vusanje, po kulturi "pašnjak 6. klase", upisana u Listu nepokretnosti br. 135 KO Vusanje kao susvojina fizičkih lica Gjonbalaj (Redžep) Esad i Gjonbalaj (Redžep) Zumer, u obimu za nepotpunu eksproprijaciju od 179m².
