@@ -1,0 +1,2 @@
+Na osnovu člana 39 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", br. 3/19, 86/22, 5/24, 7/24), i člana 32 Statuta Opštine Andrijevica, člana 76 stav 7 Statuta Opštine Andrijevica ("Službeni list CG - Opštinski propisi", broj 32/18), člana 10 Odluke o bližim kriterijumima za korišćenje sredstava tekuće budžetske rezerve i stalne budžetske reserve ("Službeni list Crne Gore - Opštinski propisi", broj 26/19), Skupština opštine Andrijevica, na sjednici održanoj 28.12.2024. godine, donijela je
+ODLUKU
