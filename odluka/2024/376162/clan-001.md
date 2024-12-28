@@ -1,0 +1,2 @@
+# Član 1
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti u Opštini Kotor, na dijelu kat.parc.br.1139, KO Orahovac II, iz Lista nepokretnosti 201, po naravi "pašnjak 3.klase", pravo susvojine Bošković Aleksandra, u obimu prava 3/64; Perović Bojana u obimu prava 3/64; "Hišmont"doo, Podgorica u obimu prava 15/64; Drakić Luke, u obimu prava 24/64, Perović Milana, u obimu prava 3/64 i Lukashov Sergeya u obimu prava 1/4, u površini od 2m2 (dužina kabla 3,56m), KO Orahovac 2.
