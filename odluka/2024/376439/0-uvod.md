@@ -1,0 +1,2 @@
+Na osnovu člana 45 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 13 Zakona o Glavnom gradu (″Službeni list Republike Crne Gore″, broj: 65/05 i ″Službeni list Crne Gore″, br. 88/09, 72/10, 02/16, 31/17 i 92/22), člana 54 stav 1 tačka 23 Statuta Glavnog grada (″Službeni list Crne Gore - Opštinski propisi″, br. 08/19, 20/21 i 49/22) Skupština Glavnog grada - Podgorice, na sjednici održanoj 28. decembra 2024. godine, donijela je
+O D L U K U
