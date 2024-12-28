@@ -1,0 +1,2 @@
+# Član 1
+Utvrđuje se javni interes za potpunu eksproprijaciju nepokretnosti u opštini Tivat, KO Tivat, na dijelu katastarske parcele broj 4157 KO Tivat, u obimu za potpunu ekskproprijaciju od 14m², koja parcela nakon parcelacije će dobiti oznaku 4157/2, KO Tivat, upisane u Listu nepokretnosti broj 118 KO Tivat, pravo svojine Opštine Tivat u obimu 1/1, pravo korišćenja Đurđenović (Ivo) Branko, u obimu 1/1.
