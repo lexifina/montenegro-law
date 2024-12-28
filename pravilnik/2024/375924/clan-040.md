@@ -1,0 +1,2 @@
+# Član 40
+Ukoliko je sponzor pravno ili fizičko lice koje se u skladu sa posebnim propisima bavi proizvodnjom ili prodajom medicinskih proizvoda i primjenom postupaka i metoda liječenja, sponzorstvom se može promovisati njegovo ime ili ugled, ali se ne mogu promovisati posebni medicinski proizvodi koji su dostupni samo na ljekarski recept ili postupci i metodi liječenja koji nijesu u skladu sa posebnim zakonom kojim se uređuje zdravstvena zaštita.
