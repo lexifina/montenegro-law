@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 02/18, 34/19,38/20, 50/22, 84/22), člana 38 stav Statuta Opštine Gusinje, ("Sl list CG - Opštinski propisi", br. 03/19 i 24/21) člana 20 Odluke o osnivanju Savjeta za razvoj i zaštitu lokalne samouprave ("Službeni list Crne Gore - Opštinski propisi", br. 029/17 od 06.07.2017), Skupština opštine Gusinje, na sjednici održanoj 30.12.2024. godine, donijela je:
+ODLUKU
