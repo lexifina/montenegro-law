@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom utvrđuje se lokacija sa elementima urbanističko-tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa STS 10/0,4kV-160kVA "Novšiće" sa uklapanjem u 10kV i 0,4 kV mrežu, KO Novšiće - Plav, na katarskoj parceli 32 blok 7 za STS, na kat. parceli 32 blok 7, 31/3 blok 7, 27 blok 5 za uzemljenje STS, na kat. parceli broj 32 blok 7 za 10 kV dalekovod i na kat. parceli 32 blok 7 i 31/1 blok 7 za 0,4 kV NN mrežu, u zahvatu Prostorno-urbanističkog plana Opštine Plav ("Službeni list Crne Gore", broj: 52/2021).
