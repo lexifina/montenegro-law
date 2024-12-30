@@ -1,0 +1,3 @@
+Na osnovu člana 59, a u vezi sa članom 154 stav 4 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list Crne Gore", br. 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/21, 145/21, 3/23, 48/24 i 84/24), člana 27 stav 1 tačka 15 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 35 stav 1 tačka 2 i člana 38 stav 1 Statuta opštine Nikšić ("Službeni list Crne Gore - Opštinski propisi", br. 31/18 i 21/23), Skupština opštine Nikšić, na sjednici održanoj 27.12.2024. godine, donijela je
+ODLUKU
+o utvrđivanju novčane naknade za porodice sa troje i više maloljetne djece na području opštine Nikšić
