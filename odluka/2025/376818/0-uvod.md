@@ -1,0 +1,2 @@
+Na osnovu člana 1. stav 1. člana 2. člana 2a, i člana 4a. Zakona o eksproprijaciji ("Službeni list Crne Gore", broj 55/00, 12/02, 28/06, 21/08, 30/17, 75/18 i 33/24), člana 28. stav 1. tačka 5. i člana 38 stav 1 tačka 2. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/2018, 34/19, 38/20, 50/22 i 84/22) u vezi sa članom 15. stav 1. tačka 5., kao i člana, 33 stav 1. tačka 2, Statuta Opštine Plav ("Službeni list Crne Gore - Opštinski propisi", br. 44/18) Skupština opštine Plav, na sjednici održanoj dana 30.12.2024. godine, donijela je
+ODLUKU
