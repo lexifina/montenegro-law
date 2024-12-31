@@ -1,0 +1,2 @@
+# Član 6
+Pravo na podnošenje zahtjeva i ostvarivanje prava iz člana 5 ove Odluke, u slučaju da se radi o roditeljima odnosno starateljima koji su razvedeni, ili su u postupku razvoda ima roditelj, odnosno staratelj kome je dijete povjereno na čuvanje i vaspitavanje pravosnažnom odlukom nadležnog suda ili na osnovu donesene privremene mjere suda u slučajevima kada se o ovom pitanju riješava prije pravosnažnog okončanja postupka.

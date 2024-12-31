@@ -1,0 +1,3 @@
+Na osnovu člana 27 stav 1 tačka 15 Zakona o lokalnoj samoupravi Crne Gore ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 59 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list Crne Gore", br. 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/21, 145/21, 3/23, 48/24, 084/24) i člana 34 stav 1 tačka 2 Statuta Opštine Zeta ("Službeni list Crne Gore - Оpštinski propisi", br. 012/23), Skupština opštine Zeta na XVII sjednici, održanoj 27.12. 2024. godine donijela je
+ODLUKU
+o subvenciji troškova boravka djece u vrtiću JPU "Đina Vrbica" - VJ "Zvjezdani vrt" - Golubovci u Zeti
