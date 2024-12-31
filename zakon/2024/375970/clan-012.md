@@ -1,0 +1,4 @@
+# Član 12
+## Ograničenje budžetskog inspektora u obavljanju drugih poslova
+Budžetski inspektor ne može da obavlja privrednu ili drugu djelatnost i poslove za sebe ili drugog poslodavca, pruža konsultantske usluge u vezi sa poslovanjem kod subjekata inspekcijskog nadzora, učestvuje u radu stručnih radnih grupa, komisija ili tijela subjekata inspekcijskog nadzora iz člana 2 ovog zakona, kao ni da obavlja druge poslove koji štete samostalnosti u radu ili su u suprotnosti sa položajem i ulogom budžetskog inspektora ili su nespojive sa poslovima inspekcijskog nadzora.
+Izuzetno od stava 1 ovog člana, ministar finansija može da odobri učešće budžetskog inspektora u radu stručnih radnih grupa, komisija ili tijela na pisani i obrazloženi zahtjev budžetskog inspektora ili subjekta iz člana 2 ovog zakona.
