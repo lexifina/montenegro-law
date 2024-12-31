@@ -1,0 +1,4 @@
+# Član 22
+## Izdavanje licence pomorskog agenta ili pomorskog agenta posrednika
+Fizičkom licu koje je do stupanja na snagu ovog zakona, neposredno obavljalo poslove pomorskog agenta ili pomorskog agenta posrednika u trajanju od najmanje deset godina, izdaće se licenca pomorskog agenta ili pomorskog agenta posrednika bez polaganja stručnog ispita iz člana 8 ovog zakona.
+Dokaz o obavljanju poslova iz stava 1 ovog člana je potvrda ili uvjerenje koje je izdalo pravno lice kod kojeg je to lice u svojstvu pomorskog agenta, odnosno pomorskog agenta posrednika bilo u radnom odnosu ili punomoćja nalogodavaca u čije je ime obavljalo poslove pomorskog agenta, odnosno pomorskog agenta posrednika ili korespondencija sa lučkom kapetanijom ili drugim nadležnim organima, kojom se potvrđuje da je nastupalo u svojstvu pomorskog agenta, odnosno pomorskog agenta posrednika.
