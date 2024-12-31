@@ -1,0 +1,47 @@
+# Član 1
+Budžet Opštine Kolašin za 2025. godinu (u daljem tekstu Budžet) sadrži primitke i izdatke u iznosu od: 10.100.000,00 €.
+IZVORNI PRIHODI
+7.694.900,00
+POREZI
+2.730.000,00
+TAKSE
+40.000,00
+NAKNADE
+1.974.900,00
+OSTALI PRIHODI
+65.000,00
+DONACIJE I TRANSFERI
+2.885.000,00
+IZDACI
+9.645.162,89
+TEKUĆI IZDACI
+5.245.662,89
+KAPITALNI IZDACI
+4.100.000,00
+OTPLATA OBAVEZA IZ PRETH.PERIODA
+308.500,00
+SUFICIT/DEFICIT
+-1.959.262,89
+PRIMARNI SUFICIT/DEFICIT
+-1.762.290,00
+OTPLATA DUGA
+445.837,11
+NEDOSTAJUĆA SREDSTVA
+-2.405.100,00
+FINANSIRANJE
+2.405.100,00
+PRIHODI OD PRODAJE IMOVINE
+95.000,00
+POZAJMICE I KREDITI
+10.100,00
+DEPOZITI
+2.300.000,00
+Prihodi se raspoređuju na:
+
+Tekuće izdatke u iznosu od: 5.910.000,00 €;
+
+Kapitalne izdatke u iznosu od: 4.100.000,00 €;
+
+Stalnu budžetsku rezervu u iznosu od: 40.000,00 €;
+
+Tekuću budžetsku rezervu u iznosu od: 50.000,00 €;

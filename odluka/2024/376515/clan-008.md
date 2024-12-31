@@ -1,0 +1,2 @@
+# Član 8
+Za potrebe finansiranja projekta "Izgradnja postrojenja za prečišćavanje otpadnih voda, kanalizacione mreže i vodosnadbijevanje u opštini Kolašin"; Opština Kolašin je predvidjela stavke prihoda broj 75112 - pozajmice i krediti od drugih nivoa vlasti i broj 7426 - Kapitalne donacije, koje će se realizovati do nivoa ostvarenja; te stavke rashoda broj 44121 - "Izgradnja postrojenja za prečišćavanje otpadnih voda, kanalizacione mreže i vodosnadbijevanje" i broj 41613 - kamata po osnovu kredita od drugih nivoa vlasti, koje će se realizovati do nivoa izvršenja.
