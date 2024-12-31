@@ -1,0 +1,11 @@
+# Član 28
+## Prikupljanje podataka o dostupnosti na tržištu organskog biljnog reproduktivnog materijala i biljnog reproduktivnog materijala u toku prelaznog perioda, životinja iz organskog uzgoja i juvenilnih životinja iz organske akvakulture
+(1) Uprava vodi ažurirane baze podataka o dostupnosti organskog biljnog reproduktivnog materijala i biljnog reproduktivnog materijala proizvedenog u toku prelaznog perioda i sjemenskog krompira, životinja iz organskog uzgoja i juvenilnih životinja iz organske akvakulture.
+(2) U bazu iz stava 1 ovog člana unose se podaci o:
+1) dostupnom organskom biljnom reproduktivnom materijalu i biljnom reproduktivnom materijalu proizvedenog u toku prelaznog perioda, kao što je biljni reproduktivni materijal od organskog heterogenog materijala ili sorti pogodnih za organsku proizvodnju, uključujući sjemenski krompir, osim sadnica, koji se odnose na količinu iskazanu u masi tog materijala i periodu godine kada je materijal dostupan, pod uslovom da je materijal uvršten na listu, najmanje sa latinskim naučnim nazivom;
+2) životinjama iz organskog uzgoja za koje se može izuzetno odobriti uvođenje onih koje nijesu iz organske proizvodnje u organsku proizvodnju, broju raspoloživih životinja koje su kategorizovane prema polu, informacije u vezi sa različitim vrstama životinja u pogledu dostupnih rasa i sojeva, rasama i starosti životinja i druge relevantne informacije;
+3) јuvеnilnim živоtinjаmа iz оrgаnskе аkvаkulturе kоје su dоstupnе nа gаzdinstvu i njihоvоm zdrаvstvеnоm stаtusu u skladu sa propisom kojim se uređuju mjere za sprečavanje pojave, otkrivanje, suzbijanje i iskorjenjivanje egzotičnih i neegzotičnih bolesti vodenih životinja i zdravstvenim uslovima za njihovo stavljanje u promet, kао i о prоizvоdnоm kаpаcitеtu zа svаku vrstu iz аkvаkulturе; i
+4) organskim pilićima.
+(3) Subjekti su dužni da Upravi dostavljaju podatke o dostupnosti organskog biljnog reproduktivnog materijala i biljnog reproduktivnog materijala iz prelaznog perioda, životinja iz organskog uzgoja, juvenilnih životinja iz organske akvakulture i organskih pilića.
+(4) Baza iz stava 1 ovog člana vodi se u elektronskoj formi.
+(5) Bliži sadržaj baze iz stava 1 ovog člana i način dostavljanja podataka propisuje Ministarstvo.

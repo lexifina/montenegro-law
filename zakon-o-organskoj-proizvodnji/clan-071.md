@@ -1,0 +1,7 @@
+# Član 71
+(1) Nadzor nad sprovođenjem ovog zakona i propisa donijetih na osnovu ovog zakona vrši Ministarstvo.
+(2) Inspekcijski nadzor nad sprovođenjem ovog zakona i propisa donijetih na osnovu ovog zakona vrši Ministarstvo preko poljoprivrednog inspektora i Uprava preko inspektora za hranu, graničnih službenih veterinara i graničnih fitosanitarnih inspektora.
+(3) Poljoprivredni inspektor vrši inspekcijski nadzor u skladu sa nadležnostima i ovlašćenjima propisanim ovim zakonom i zakonima kojima se uređuje poljoprivreda i ruralni razvoj, slatkovodno ribarstvo i akvakultura, vino, jaka alkoholna pića, poljoprivredno zemljište, maslinarstvo, šeme kvaliteta poljoprivrednih proizvoda, duvan i stočarstvo.
+(4) Inspektor za hranu vrši inspekcijski nadzor u skladu sa nadležnostima i ovlašćenjima propisanim ovim zakonom i zakonom kojim se uređuje bezbjednost hrane.
+(5) Granični službeni veterinar vrši inspekcijski nadzor u skladu sa nadležnostima i ovlašćenjima propisanim ovim zakonom i zakonima kojima se uređuju bezbjednost hrane, genetički modifikovani organizmi, veterinarstvo i zaštita dobrobiti životinja.
+(6) Granični fitosanitarni inspektor vrši inspekcijski nadzor u skladu sa nadležnostima i ovlašćenjima propisanim ovim zakonom i zakonom kojim se uređuje bezbjednost hrane, zdravstvena zaštita bilja, sjemenski materijal poljoprivrednog bilja, sadni materijal, genetički modifikovani organizmi, zaštita biljnih sorti, sredstva za ishranu bilja i sredstva za zaštitu bilja.

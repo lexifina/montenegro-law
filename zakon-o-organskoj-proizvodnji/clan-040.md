@@ -1,0 +1,8 @@
+# Član 40
+## Sistem sertifikacije u organskoj proizvodnji
+(1) Kontrolno tijelo vrši stručnu kontrolu radi sertifikacije u organskoj proizvodnji na osnovu prijave subjekta, odnosno grupe subjekata koji proizvode, pripremaju, distribuiraju ili skladište organske proizvode ili proizvode iz prelaznog perioda i koji uvoze ili izvoze ili stavljaju u promet organske proizvode.
+(2) Na osnovu prijave iz stava 1 ovog člana subjekat i kontrolno tijelo zaključuju ugovor o vršenju kontrole i sertifikacije u organskoj proizvodnji.
+(3) U slučaju da subjekt, odnosno grupa subjekata imaju zaključen ugovor iz stava 2 ovog člana sa više kontrolnih tijela dužni su da u prijavi za vršenje stručne kontrole radi sertifikacije u organskoj proizvodnji navedu kontrolna tijela sa kojima su zaključili taj ugovor.
+(4) Izuzetno od st. 1, 2 i 3 ovog člana, subjekti koji vrše promet upakovanih organskih proizvoda direktno krajnjem potrošaču ili korisniku nijesu obavezni da podnose prijavu za stručnu kontrolu, niti da posjeduju sertifikat iz člana 41 ovog zakona pod uslovom da organske proizvode ne proizvode, ne pripremaju i ne skladište (osim u slučaju kada su radnje povezane sa mjestom prodaje), ne vrše uvoz, niti podugovaraju ove aktivnosti sa drugim subjektom.
+(5) Ako subjekat, odnosno grupa subjekata dio svojih aktivnosti povjere trećoj strani kao podugovaraču, treća strana mora da ispunjava uslove propisane ovim zakonom, osim ako subjekat, odnosno grupa subjekata u prijavi navede da je i dalje odgovorna za organsku proizvodnju i da odgovornost nije prenijela na podugovarača.
+(6) U slučajevima iz stava 5 ovog člana kontrolno tijelo vrši verifikaciju usaglašenosti povjerenih aktivnosti podugovaračima u skladu sa ovim zakonom.
