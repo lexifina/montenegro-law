@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom osniva se društvo sa ograničenom odgovornošću "Agencija za upravljanje prirodnim dobrima opštine Bijelo Polje", Bijelo Polje (u daljem tekstu Društvo), i uređuje: naziv i sjedište Društva, osnivač, djelatnost, osnivački ulog, upravljanje i zastupanje, vrsta i obim odgovornosti, ovlašćenja u pravnom prometu sa trećim licima, sticanje, raspodjela dobiti i snošenje rizika, zaštita životne sredine i druga pitanja od značaja za osnivanje Društva.

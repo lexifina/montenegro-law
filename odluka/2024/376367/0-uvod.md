@@ -1,0 +1,3 @@
+Na osnovu člana 268 stav 2 Zakona o privrednim društvima ("Sl. list CG", br. 65/20, 146/21 i 04/24), člana 38 stav 1 tačka 2 i 14 Zakona o lokalnoj samoupravi ("Sl. list CG") br. 02/18, 34/19, 38/20, 50/12 i 84/22), člana 7 stav 1 Odluke o proglašavanju kategorije, granica, statusa i režima zaštite u Spomeniku prirode "Đalovića klisura" ("Sl. list CG - Opštinski propisi") br. 19/24 i 25/24), člana 46 stav 1 tačka 2 i 14 Statuta Opštine Bijelo Polje (Sl. list CG - Opštinski propisi, br.19/18), Skupština opštine Bijelo Polje, na sjednici održanoj dana 27.12.2024. godine, donijela je
+ODLUKU
+o osnivanju Društva sa ograničenom odgovornošću "Agencija za upravljanje prirodnim dobrima opštine Bijelo Polje"
