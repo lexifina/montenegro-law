@@ -1,0 +1,3 @@
+# Član 13
+Nakon okončanog postupka provjere podataka iz Izvještaja o prihodima i imovini direktora Agencije, predsjednik/ca Savjeta Agencije na osnovu utvrđenog činjeničnog stanja i ocjene izvedenih dokaza, utvrđuje ishod postupka provjere u formi predloga obrazložene odluke Savjeta Agencije, uz stručnu i administrativno-tehničku podršku sekretara Savjeta.
+Poslije završenog glasanja, predsjednik/ca Savjeta Agencije utvrđuje rezultat glasanja i objavljuje da li je predlog odluke Savjeta Agencije usvojen ili nije usvojen. Odluka Savjeta Agencije objavljuje se nakon upućivanja direktoru Agencije, na koga se odnosi, a najkasnije u roku od 8 dana od dana donošenja akta.

@@ -1,0 +1,2 @@
+# Član 3
+Cilj sprovođenja postupka provjere je utvrđivanje tačnosti cjelokupne prijavljene imovine i prihoda direktora Agencije, kao i imovine i prihoda bračnog i vanbračnog supružnika i djece ukoliko žive u zajedničkom domaćinstvu, istinitosti i potpunosti prijavljenih podataka o imovini, i sprovođenje postupka provjere načina sticanja imovine, kao i izvorima sredstava kojima je pribavljena pokretna i nepokretna imovina, stečena nakon stupanja na javnu funkciju, a koju je direktor Agencije prijavio u Izvještaju.

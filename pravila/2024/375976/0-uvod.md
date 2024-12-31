@@ -1,0 +1,2 @@
+Na osnovu člana 93 stav 1 tačka 5, a u vezi sa članom 33 Zakona o sprečavanju korupcije ("Službeni list CG", broj 54/24) i člana 9 Poslovnika o radu Savjeta Agencije za sprečavanje korupcije ("Službeni list CG", broj 80/24), na sjednici održanoj 16. decembra 2024. godine, Savjet Agencije za sprečavanje korupcije donio je
+PRAVILA O PROVJERI PODATAKA IZ IZVJEŠTAJA O PRIHODIMA I IMOVINI DIREKTORA AGENCIJE ZA SPREČAVANJE KORUPCIJE
