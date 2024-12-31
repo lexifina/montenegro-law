@@ -1,0 +1,2 @@
+# Član 17
+Rad organa lokalne uprave, organizuje se na način kojim se obezbjeđuje zakonito i efikasno ostvarivanje prava I izvršavanje obaveza fizičkih,pravnih lica i drugih subjekata. Predsjednik Opštine, u ostvarivanju funkcije usmjeravanja i usklađivanja rada lokalne uprave i vršenja nadzora nad njenim radom, donosi odgovarajuća uputstva (o rasporedu radnog vremena, radu organa i službi sa strankama, izradi programa rada, izvještaja o radu i dr.).
