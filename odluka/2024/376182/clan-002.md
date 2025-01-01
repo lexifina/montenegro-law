@@ -1,0 +1,22 @@
+# Član 2
+Prioritetne oblasti iz člana 1 ove odluke su:
+- socijalna i zdravstvena zaštita (Ministarstvo socijalnog staranja, brige o porodici i demografije);
+- zaštita lica sa invaliditetom (Ministarstvo ljudskih i manjinskih prava, Ministarstvo socijalnog staranja, brige o porodici i demografije, Ministarstvo saobraćaja, Ministarstvo zdravlja, Ministarstvo prostornog planiranja, urbanizma i državne imovine);
+- borba protiv bolesti zavisnosti (Ministarstvo zdravlja);
+- društvena briga o djeci i mladima (Ministarstvo socijalnog staranja, brige o porodici i demografije, Ministarstvo sporta i mladih);
+- razvoj civilnog društva i volonterizma (Ministarstvo rada, zapošljavanja i socijalnog dijaloga);
+- pomoć starijim licima (Ministarstvo socijalnog staranja, brige o porodici i demografije);
+- zaštita i promovisanje ljudskih i manjinskih prava (Ministarstvo ljudskih i manjinskih prava i Ministarstvo unutrašnjih poslova);
+- rodna ravnopravnost (Ministarstvo ljudskih i manjinskih prava);
+- zaštita životne sredine (Ministarstvo saobraćaja i Ministarstvo ekologije, održivog razvoja i razvoja sjevera);
+- nauka (Ministarstvo prosvjete, nauke i inovacija);
+- institucionalno i vaninstitucionalno obrazovanje (Ministarstvo prosvjete, nauke i inovacija);
+- kultura (Ministarstvo kulture i medija);
+- umjetnost (Ministarstvo kulture i medija);
+- evroatlantske i evropske integracije Crne Gore (Ministarstvo evropskih poslova);
+- inovacije, u skladu sa Zakonom o inovacionoj djelatnosti (Ministarstvo prosvjete, nauke i inovacija);
+- sport, u skladu sa Zakonom o sportu (Ministarstvo sporta i mladih);
+- energetika i energetska efikasnost, u skladu sa Zakonom o energetici i Zakonom o efikasnom korišćenju energije (Ministarstvo energetike);
+- bezbjednost u saobraćaju, u skladu sa Zakonom o bezbjednosti saobraćaja na putevima, Zakonom o putevima, Zakonom o prevozu u drumskom saobraćaju, Zakonom o željeznici, Zakonom o vazdušnom saobraćaju, Zakonom o bezbjednosti, organizaciji i efikasnosti željezničkog prevoza i Zakonom o sigurnosti pomorske plovidbe (Ministarstvo saobraćaja);
+- regionalni razvoj i investicioni ambijent, u skladu sa Zakonom o regionalnom razvoju, Zakonom o unaprjeđenju poslovnog ambijenta i Zakonom o privrednim društvima (Ministarstvo regionalno-investicionog razvoja i saradnje sa nevladinim organizacijama); i
+- saradnja sa dijasporom, u skladu sa Zakonom o saradnji Crne Gore sa dijasporom - iseljenicima (Ministarstvo dijaspore).
