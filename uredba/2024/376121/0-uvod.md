@@ -1,0 +1,2 @@
+Na osnovu člana 100 stav 4 i člana 102 stav 5 Zakona o vanjskim poslovima ("Službeni list CG", broj 70/17), Vlada Crne Gore je, 24. decembra 2024. godine, bez održavanja sjednice, na osnovu pribavljenih saglasnosti većine članova Vlade, donijela
+UREDBU O IZMJENAMA I DOPUNAMA UREDBE O POSEBNOM DODATKU NA OSNOVNU ZARADU, POSEBNIM NAKNADAMA TROŠKOVA I DRUGIM PRIMANJIMA ZA VRIJEME RADA U DIPLOMATSKO-KONZULARNOM PREDSTAVNIŠTVU
