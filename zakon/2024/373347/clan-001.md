@@ -1,0 +1,7 @@
+# Član 1
+U Zakonu o porezu na dobit pravnih lica ("Službeni list RCG", br. 65/01 i 80/04 i "Službeni list CG", br. 40/08, 86/09, 14/12, 61/13, 55/16, 146/21, 152/22, 28/23 i 125/23) član 14 mijenja se i glasi:
+"(1) Izdaci za zdravstvene, socijalne, obrazovne, naučne, vjerske, kulturne, sportske i humanitarne svrhe, zaštitu životne sredine, razvoj civilnog društva i volonterizma, kao i izdaci dati ustanovama, odnosno pružaocima usluga socijalne i dječije zaštite osnovanim u skladu sa zakonom kojim se uređuje socijalna i dječija zaštita, priznaju se kao rashod najviše do 3.5% ukupnog prihoda u skladu sa stavom 4 ovog člana.
+(2) Izuzetno od stava 1 ovog člana izdaci za nacionalne sportske saveze priznaju se kao rashod najviše do 5% ukupnog prihoda u skladu sa stavom 4 ovog člana.
+(3) Izdaci iz stava 1 ovog člana priznaju se u novcu, stvarima, pravima i uslugama.
+(4) Izdaci iz stava 1 ovog člana priznaju se kao rashod samo ako su izvršeni pravnim licima (državnim organima, javnim ustanovama, nevladinim organizacijama, sportskim, obrazovnim, naučnim, vjerskim, kulturnim i drugim humanitarnim organizacijama) koja obavljaju poslove, odnosno djelatnosti u svrhe iz stava 1 ovog člana u skladu sa posebnim propisima i ako se koriste isključivo u te svrhe.
+(5) Izuzetno od st. 1 do 4 ovog člana, izdaci po osnovu donacija u naučnoistraživačke projekte ili inovacionu infrastrukturu zbog kojih je poreski obveznik stekao status korisnika podsticajnih mjera, ne priznaju se kao rashod u poreske svrhe."
