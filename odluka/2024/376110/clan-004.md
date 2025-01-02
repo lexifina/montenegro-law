@@ -1,0 +1,3 @@
+# Član 4
+Otkup zemljišta iz člana 1 ove odluke vrši se po jediničnoj cijeni od 250 €/m2 ili u ukupnom iznosu od 57.750,00 €, a shodno Izvještaju o procjeni vrijednosti nekretnine broj: 04-427/23-1098 od 11.11.2024. godine, ovlašćenog (REV) procjenjivača i sudskog vještaka građevinske struke, dipl. ing građ. Ivanović Sonje iz Podgorice, pri čemu će se Pejović (Vasilija) Radmili i Pantović (Radeta) Valentini isplatiti iznos od po 19.250,00 €, dok će se Stanišić Jeleni i Dautović Ireni isplatiti iznos od 9.625,00 €.
+Kupoprodajna cijena iz stava 1 ovog člana biće isplaćena iz razdjela Kapitalnog budžeta za tekuću godinu.
