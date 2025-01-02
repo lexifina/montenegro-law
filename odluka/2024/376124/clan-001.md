@@ -1,0 +1,3 @@
+# Član 1
+## o otkupu građevinskog zemljišta radi rekonstrukcije Borske ulice sa pratećom infrastrukturom po DUP-u "Topolica - Bjeliši", izmjene i dopune
+Opština Bar, radi ostvarivanja javnog interesa, vrši otkup neizgrađenog građevinskog zemljišta evidentiranog u listu nepokretnosti broj 645 KO Novi Bar, katastarskom parcelom broj 5691/2, po kulturi - livada 1. klase, u površini od 93 m2, u svojini Ivović (Božo) Andrije iz Bara, u obimu prava 1/1, kao i neizgrađenog građevinskog zemljišta evidentiranog u listu nepokretnosti broj 431 KO Novi Bar, katastarskom parcelom broj 5690/4, po kulturi - voćnjak 1. klase, u površini od 47 m2, u svojini Vulević (Dragan) Vuka iz Bara, u obimu prava 1/1.
