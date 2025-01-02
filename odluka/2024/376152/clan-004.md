@@ -1,0 +1,3 @@
+# Član 4
+Izuzima se kat.parcela -kat.parcela br.30/116 u površini od 218 m2 sa Lista nepokretnosti br.399 vlasništvo ½ Milovanović rodjena Bevenja Marija i Bevenja Petar -kat. parc.br 30/182 u pov. od 157 m2 sa Lista nepokretnosti br.579 KO Ulcinjsko Polje, vlasništvo 1/1 Bevenja Pero Boro kao i -kat.parc.br.30/181 u površini 138 m2 sa Lista nepokretnosti 581 KO Ulcinjsko Polje vlasništvo 1/1 Tabut Bevenja Marko Sylvie izuzimaju radi izgradnje plamirane saobraćajnice NOVA 28. Gore navedene nepokretnosti procjenjuje se u iznosu od 205,00 eura po m2 što ukupno iznosi 105.165,00 €.
+Naknada u navedenom iznosu određena je od strane strane Južne Komisije za procijenu vrijednosti nepokretnosti Uprave za nekretnine CG, procjenom br. 01-012/24-5155/3 od 29.08.2024. godine.
