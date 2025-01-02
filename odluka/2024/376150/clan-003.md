@@ -1,0 +1,3 @@
+# Član 3
+Otkup zemljišta iz člana 1 ove odluke vrši se po jediničnoj cijeni od 62,00 €/m2 ili u ukupnom iznosu od 192.262,00 €, shodno Izvještaju o procjeni vrijednosti nepokretnosti broj: 04-427/22- 1299 od 23.07.2024. godine, ovlašćenog (REV) procjenjivača i sudskog vještaka građevinske struke, dipl. ing građ. Ivanović Sonje iz Podgorice, pri čemu će se Vojvodić (Ljubomir) Zoranu i Lakić (Svetislav) Nikoleti isplatiti iznos od po 81.251,00 € (2621 m2 x 62,00 €/m2 / 2), dok će se Đečević Đelizari isplatiti iznos od 29.760,00 € (480 m2 x 62,00 €/m2).
+Kupoprodajna cijena iz stava 1 ovog člana biće isplaćena iz razdjela Kapitalnog budžeta za tekuću godinu.
