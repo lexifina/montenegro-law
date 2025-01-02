@@ -1,0 +1,7 @@
+# Član 24
+Ukoliko prilikom vršenja kontrole na način propisan članom 23 ove odluke, kontrolor utvrdi da korisnik nije platio uslugu parkiranja unaprijed elektronskim putem, izdaje elektronski nalog za plaćanje eDPK.
+Obavještenje o izdatom elektronskom nalogu za plaćanje eDPK po registarskim tablicama vozila, dostupno je korisniku parkirališta počev od momenta izdavanja elektronskog naloga, preko zvaničnog sajta i korisničkog servisa vršioca komunalne djelatnosti, a istovremeno će obavještenje biti dostupno korisniku i slanjem SMS poruke kada za to postoje tehničke mogućnosti.
+Obavještenje o izdatom elektronskom nalogu za plaćanje eDPK iz stava 2 ovog člana, sadrži: broj eDPK, registarske tablice vozila, datum, vrijeme i mjesto izdavanja, cijenu, rok za plaćanje, vrijeme važenja, pravni osnov izdavanja, oznaku da li je izdata u zoni, instrukciju za plaćanje eDPK naknadno, način i mjesto prijema reklamacije.
+Korisnik koji koristi uslugu parkiranja u dnevnom trajanju, obavezan je da se počev od momenta činjenja dostupnim obavještenja, na jedan od načina iz stava 2 ovog člana, informiše o izdatom elektronskom nalogu za plaćanje eDPK.
+Smatra se da je korisnik parkirališta postupio po elektronskom nalogu za plaćanje eDPK ako je izvršio plaćanje u roku od osam dana od dana isteka važenja eDPK.
+Ako korisnik parkirališta ne izvrši plaćanje u roku iz stava 5 ovog člana, preduzeće će pokrenuti postupak prinudne naplate potraživanja.

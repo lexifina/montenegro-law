@@ -1,0 +1,7 @@
+# Član 17
+## Obaveze korisnika
+Korisnik plaća uslugu korišćenja opšteg parkirališta unaprijed, kupovinom elektronske parking karte kao satne.
+Izuzetno od stava 1 ovog člana, korisnik može platiti uslugu parkiranja naknadno, po izdatom elektronskom nalogu za plaćanje eDPK, na način i pod uslovima propisanim članom 24 ove odluke.
+Pod elektronskom parking kartom iz stava 1 ovog člana, podrazumijeva se elektronski zapis u sistemu kontrole i naplate parkiranja vršioca komunalne djelatnosti, koji sadrži informacije u vezi sa plaćanjem usluge parkiranja unaprijed: broj elektronske parking karte, registarsku oznaku vozila, datum, vrijeme i mjesto plaćanja, cjenu, datum i vrjeme važenja, oznaku da li važi za zonu, informaciju da se plaćanjem operateru izmiruje dugovanje za elektronsku parking kartu prema vršiocu komunalne djelatnosti.
+Pod eDPK iz stava 2 ovog člana, podrazumijeva se elektronski zapis u sistemu kontrole i naplate parkiranja vršiocu komunalne djelatnosti, koji sadrži: broj eDPK, registarsku oznaku vozila, datum, vrjeme i mjesto izdavanja, cijenu, rok za plaćanje, vrijeme važenja, pravni osnov izdavanja i oznaku da li je izdata u zoni.
+Pod elektronskim nalogom za plaćanje eDPK iz stava 2. ovog člana, podrazumijeva se elektronski zapis u sistemu kontrole i naplate parkiranja vršioca komunalne djelatnosti, koji sadrži: eDPK iz stava 4 ovog člana, instrukciju za plaćanje eDPK naknadno i način i mjesto prijema reklamacije.
