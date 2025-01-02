@@ -1,0 +1,2 @@
+# Član 6
+Obavezuju se kupci da u roku od 6 (slovima: šest) mjeseci od dana zaključenja ugovora o prodaji zemljišta, sa Opštinom Bar zaključe poseban ugovor kojim će se regulisati međusobna prava i obaveze u vezi naknade za komunalno opremanje građevinskog zemljišta, a u skladu sa Odlukom o naknadi za komunalno opremanje građevinskog zemljišta ("Službeni list Crne Gore - Opštinski propisi", br. 38/20).
