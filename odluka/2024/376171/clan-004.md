@@ -1,0 +1,2 @@
+# Član 4
+Otkup zemljišta iz člana 1 ove odluke vrši se po jediničnoj cijeni od 274 €/m2 ili u ukupnom iznosu od 95.626,00 €, a shodno Izvještaju o procjeni vrijednosti nekretnine broj: 04-427/24-2236 od 25.10.2024. godine, ovlašćenog procjenjivača nekretnina, dipl. ecc Šupić Milana iz Podgorice. Kupoprodajna cijena iz stava 1 ovog člana biće isplaćena iz razdjela Kapitalnog budžeta za tekuću godinu.
