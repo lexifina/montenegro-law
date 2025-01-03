@@ -1,0 +1,7 @@
+# Član 6
+Upis podataka u registre vrši se na osnovu dokumentacije kojom raspolaže Agencija i druge dokumentacije potrebne za upis podataka, koju Agenciji dostavljaju emiteri, pružaoci audiovizuelnih medijskih usluga na zahtjev, pružaoci usluga distribucije linearnih audiovizuelnih medijskih usluga, pružaoci usluga platformi za razmjenu video sadržaja (u daljem tekstu: "pružaoci usluga").
+Upis podataka u Listu pružalaca usluga Internet vebkastinga vrši se na osnovu dokumentacije kojom raspolaže Agencija i druge dokumentacije potrebne za upis podataka, koju Agenciji dostavljaju pružaoci usluga Internet vebkastinga.
+Pružaoci usluga iz st. 1 i 2 ovog člana, dužni su da pisanim putem obavijeste Agenciju o nastalim promjenama podataka koji se unose registre/listu, najkasnije u roku od 15 dana od dana nastale promjene.
+Agencija upisuje promjenu podataka najkasnije u roku od 7 radnih dana od dana prijema obavještenja o nastaloj promjeni odnosno konačnosti odluke o promjeni.
+Pružalac usluge čije je odobrenje prestalo, briše se iz registra u roku od 7 dana od dana konačnosti odluke o prestanku.
+Pružaoci AVM usluga na zahtjev, pružaoci usluga platformi za razmjenu video sadržaja i pružaoci usluga internet vebkastinga, brišu se iz odgovarajućeg registra/liste na lični zahtjev ili u slučaju prestanka pružanja usluge, kao i u drugim slučajevima predviđenim Zakonom, u roku od 3 dana od dostavljanja zahtjeva za brisanje odnosno konačnosti odluke o prestanku.
