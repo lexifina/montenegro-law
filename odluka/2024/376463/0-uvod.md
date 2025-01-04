@@ -1,0 +1,2 @@
+Na osnovu člana 8 Zakona o regionalnom razvoju ("Službeni list Crne Gore", br. 20/11, 26/11, 20/15 i 47/19), člana 26 stav 1 tačka 1 i člana 38 stav 1 tačka 3 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20 i 84/22) i člana 73 stav 1 tačka 3 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", broj 49/18 i 17/21), Skupština Prijestonice Cetinje, na sjednici održanoj dana, 20.12.2024. godine, donijela je
+ODLUKU
