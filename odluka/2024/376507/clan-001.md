@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti o ustanovljenju prava službenosti u korist DOO "Crnogorski elektrodistributivni sistem" Podgorica
+DAJE SE SAGLASNOST na ustanovljenje prava službenosti u korist DOO "Crnogorski elektrodistributivni sistem" Podgorica, radi izgradnje lokalnog objekta od opšteg interesa-energetski objekat trafostanica NDTS 10/0.4kV 1x630 kVa "31 u skladu sa DUP Centar II Rožaje", Rožaje, sa uklapanjem u VN i NN mrežu KO Rožaje, Opština Rožaje, na djelu katastarskih parcela 971/1 KO Rožaje u površini od 62 m2 i k.p 1135/1 KO Rožaje u površini od 528 m2, upisane u listu nepokretnosti br. 636 KO Rožaje, na ime Opština Rožaje raspolaganje 1/1, u skladu sa geodetskim elaboratom izrađenim od strane ,,GEONANA" DOO Podgorica broj: 0805/2024-1 od 08.05.2024.godine.
