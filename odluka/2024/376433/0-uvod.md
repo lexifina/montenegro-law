@@ -1,0 +1,2 @@
+Na osnovu člana 20 Zakona o putevima ("Službeni list Crne Gore", br. 82/20 i 140/22), člana 28 stav 1 tačka 2 i člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20 i 50/22 i 84/22) i člana 35 stav 1 tačka 2 i 8 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", broj 24/18 i 9/20), Skupština opštine Tivat, na sjednici održanoj dana 23.12.2024. godine, donijela je
+ODLUKU
