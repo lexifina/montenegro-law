@@ -1,0 +1,9 @@
+# Član 14
+Strana i domaća roba namijenjena snabdijevanju vazduhoplova na međunarodnim linijama može se uputiti iz carinskih skladišta iz člana 13 stav 1 ovog pravilnika, na vazduhoplov preko pravnog lica registrovanog za snabdijevanje vazduhoplova na osnovu Obračunskog lista koji čini sastavni dio ovog pravilnika.
+Domaća roba namijenjena za snabdijevanje vazduhoplova na međunarodnim linijama može biti upućena i direktno sa carinskog područja.
+Roba se na vazduhoplov upućuje u specijalno izrađenim kontejnerima na koja su stavljena carinska obilježja.
+Obračunski list popunjava se u najmanje pet primjeraka numerisanih istim rednim brojem, koje ovjerava carinski organ na aerodromu, od kojih po jedan primjerak zadržava carinsko skladište, pravno lice iz stava 1 ovog člana i carinski organ, a ostali primjerci prate robu i predaju se zapovjedniku vazduhoplova, odnosno ovlašćenom članu posade, koji pečatom i potpisom na Obračunskom listu potvrđuje prijem robe.
+Ako je robom snabdijeven vazduhoplov koji prije napuštanja carinskog područja slijeće na drugi aerodrom na carinskom području, carinska obilježja sa robe, odnosno prostora u kome je roba smještena, mogu se skinuti tek poslije polijetanja vazduhoplova sa aerodroma sa koga vazduhoplov polijeće u inostranstvo.
+Po završenom letu na međunarodnoj liniji, zapovjednik vazduhoplova, odnosno ovlašćeni član posade, dužan je sravniti stanje prodate robe u vazduhoplovu za vrijeme međunarodnog leta i zaključiti Obračunski list, koji ovjerava carinski organ i zadržava jedan primjerak, a jedan dostavlja pravnom licu.
+Pravno lice iz stava 1 ovog člana je dužno da podnese deklaraciju za izvoz i deklaraciju za ponovni izvoz robe iz stava 1 ovog člana, najkasnije do 10-og u mjesecu za robu prodatu u prethodnom mjesecu.
+Uz carinsku deklaraciju za izvoz i deklaraciju za ponovni izvoz prilaže se zaključeni Obračunski list iz stava 6 ovog člana.

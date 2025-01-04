@@ -1,0 +1,7 @@
+# Član 4
+Strana roba za snabdijevanje brodova, jahti i čamaca namijenjenih sportu ili rekreaciji upućuje se preko pravnog lica registrovanog za snabdijevanje plovnih objekata iz carinskih skladišta iz člana 2 stav 1 ovog pravilnika (u daljem tekstu: pravno lice), koje se nalazi na pristaništu, odnosno luci otvorenoj za međunarodni saobraćaj, na osnovu fakture i otpremnice.
+Faktura i otpremnica popunjavaju se u najmanje pet primjeraka numerisanih rednim brojem.
+Carinski organ na pristaništu, odnosno luci ovjerava sve primjerke faktura i otpremnica, od kojih po jedan primjerak zadržavaju carinsko skladište, pravno lice i carinski organ, a ostali primjerci prate robu i predaju se zapovjedniku plovnog objekta, odnosno ovlašćenom članu posade, koji jedan primjerak fakture i otpremnice ovjerava brodskim pečatom ili svojim potpisom u prisustvu carinskog službenika čime potvrđuje prijem robe.
+Pravno lice, dužno je da carinskom organu podnese deklaraciju za ponovni izvoz strane robe najkasnije do 10-og u mjesecu, za robu prodatu u prethodnom mjesecu.
+Uz carinsku deklaraciju za ponovni izvoz iz stava 4 ovog člana prilaže se specifikacija prodate robe koja je sastavljena na osnovu ovjerenih faktura, odnosno otpremnica, kao i kopije ovjerenih faktura pravnog lica.
+Roba koja nije prodata na međunarodnim linijama vraća se, uz podnošenje deklaracije za carinsko skladištenje, u carinsko skladište u roku od 24 časa ili se zadržava na brodu, ako je brod pod carinskim nadzorom ili ako nastavlja plovidbu na međunarodnoj liniji.

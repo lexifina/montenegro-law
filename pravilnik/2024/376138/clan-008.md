@@ -1,0 +1,4 @@
+# Član 8
+Brodovi iz člana 7 ovog pravilnika, mogu se snabdijevati cigaretama ili drugim duvanskim prerađevinama i alkoholnim pićima samo u količinama u zavisnosti od broja članova posade, putnika i dužine putovanja, a najviše do 40 komada cigareta ili drugih duvanskih prerađevina u odgovarajućoj količini i do jednog litra alkoholnog pića po članu posade, za svaki dan zadržavanja u carinskom području, a u pristaništu, odnosno luci iz koje napuštaju carinsko područje i cigaretama ili drugim duvanskim prerađevinama i alkoholnim pićem u količinama potrebnim za popunjavanje brodskih zaliha.
+Podaci o cigaretama ili drugim duvanskim prerađevinama i alkoholnim pićima kojima je brod snabdjeven upisuju se u brodsku evidenciju.
+Alkoholna pića, u smislu ovog pravilnika, su proizvodi koji se svrstavaju u tarifni broj 2203 do 2206 ili u tarifni broj 2208 Carinske tarife.

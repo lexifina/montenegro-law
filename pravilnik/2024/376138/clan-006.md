@@ -1,0 +1,9 @@
+# Član 6
+Plovni objekti iz člana 2 stav 1 ovog pravilnika, snabdijevaju se pod carinskim nadzorom gorivom i mazivom prije napuštanja teritorijalnih voda, nakon čega podnose odobrenje za slobodan saobraćaj, manifest, vinjetu ili spisak posade.
+Snabdijevanje plovnog objekta iz stava 1 ovog člana odobrava carinski organ na osnovu zahtjeva i priloženog dokaza o vremenu i datumu ulaska u Crnu Goru.
+Carinski nadzor se sprovodi na osnovu fakture, odnosno otpremnice pravnog lica, koje se popunjavaju i ovjeravaju u skladu sa članom 4 st. 2 i 3 ovog pravilnika.
+Plovni objekti za privatne svrhe mogu se snabdijevati pod carinskim nadzorom gorivom i mazivom na način iz stava 1 ovog člana, samo u slučaju prethodnog zadržavanja u teritorijalnim vodama Crne Gore od najmanje 72h, od sljedećeg dana od dana ulaska u Crnu Goru.
+Plovni objekti za privatne svrhe iz stava 4 ovog člana su plovni objekti koji se koriste od strane njihovih vlasnika ili po osnovu zakupa, za rekreaciju, odnosno prevoz putnika i robe bez naknade.
+Izuzetno od člana 2 stav 1 ovog pravilnika, brodovi koji su na remontu, opravci i raspremi ili se nalaze u luci ili pristaništu na carinskom području usljed epidemije, elementarne nepogode ili druge više sile snabdijevaju se gorivom potrebnim za neometano funkcionisanje tog broda tokom vremena provedenog u luci ili pristaništu, na način koji im odobri carinski organ.
+Pravno lice je dužno da gorivo i mazivo izvozno ocarini, u roku i na način propisan članom 4 stav 4 ovog pravilnika.
+U opravdanim slučajevima (viša sila, nestanak goriva, odnosno maziva za vrijeme plovidbe, bavljenje u brodogradilištu i dr.), carinski organ može odobriti da se na brod, jahtu, čamac ili drugi plovni objekat koji je ostao bez goriva, odnosno maziva prenesu sa drugog broda, jahte, čamca ili drugog plovnog objekta manje količine goriva ili maziva potrebnog za plovidbu do prvog pristaništa, odnosno luke u kojima se može izvršiti redovno snabdijevanje.
