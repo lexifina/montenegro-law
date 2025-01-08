@@ -1,0 +1,2 @@
+Na osnovu člana 47, 48 i 50 Zakona o sportu ("Sl. list CG", br. 44/18 i 123/21) a u vezi člana 27 stav 1 tačka 13 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 13 stav 1 tačka 13 i člana 32 stav 1 tačka 2 Statuta Opštine Žabljak ("Sl. list CG-Opštinski propisi", br. 27/18), Skupština opštine Žabljak, na sjednici održanoj dana 26.12.2024. godine, d o n i j e l a je
+O D L U K U
