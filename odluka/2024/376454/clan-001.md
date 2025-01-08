@@ -1,0 +1,4 @@
+# Član 1
+## broj 1 (lokacija 29) u skladu sa Izmjenama i dopunama Prostorno-urbanističkog plana Opštine Nikšić
+Opština Nikšić prodaje neposrednom pogodbom, Vojinu Maloviću zemljište ukupne površine 230 m2, označeno katastarskom parcelom broj 2742/2, građevinska parcela, površine 183 m2 i katastarskom parcelom broj 2736/2, građevinska parcela, površine 47 m2, upisanom u listu nepokretnosti broj 787 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja opštine Nikšić, po cijeni od 102,00 € po m2 zemljišta.
+Zemljište iz stava 1 ovog člana prodaje se za potrebe dokompletiranja urbanističke parcele broj 1 (lokacija 29), u skladu sa Odlukom o donošenju izmjena i dopuna Prostorno-urbanističkog plana Opštine Nikšić " ("Službeni list Crne Gore", broj 72/24), na kojoj je planirana izgradnja stambenog objekta, spratnosti P+3.

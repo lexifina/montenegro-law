@@ -1,0 +1,3 @@
+# Član 2
+Urbanističku parcelu broj 1 (lokacija 29), ukupne površine 2033 m2, pored zemljišta iz člana 1 stav 1 ove odluke, čine katastarska parcela broj 2744/1, površine 1656 m2 upisana u listu nepokretnosti broj 3045 KO Nikšić kao svojina Vojina Malovića, katastarska parcela broj 2743/1 površine 125 m2 upisana u listu nepokretnosti broj 1597 KO Nikšić kao svojina Vojina Malovića i katastarska parcela broj 2746/3 površine 22 m2 upisana u listu nepokretnosti broj 3188 KO Nikšić kao svojina Jocović Milana.
+Obavezuje se Vojin Malović iz Nikšića, kao većinski vlasnik urbanističke parcele broj 1 (lokacija 29), da riješi imovinsko-pravne odnose sa vlasnikom katastarske parcele broj 2764/3, koja ulazi u sastav predmetne urbanističke parcele.
