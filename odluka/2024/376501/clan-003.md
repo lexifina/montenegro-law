@@ -1,0 +1,2 @@
+# Član 3
+Početna cijena građevinskog zemljišta iz člana 1 ove odluke ne može biti manja od 35,00 € (slovima:tridesetpeteura) po m2 zemljišta, a utvrđena je u skladu sa Izvještajem o procjeni tržišne vrijednosti nepokretnosti od 09.12.2024. godine, urađenim od strane Komisije za procjenu nepokretnih stvari u imovini opštine Nikšić formirane Rješenjem predsjednika opštine Nikšić broj 02-031-2538 od 16.06.2024. godine.

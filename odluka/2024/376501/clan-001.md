@@ -1,0 +1,4 @@
+# Član 1
+## Nikšić
+Ovom odlukom se raspisuje oglas za prikupljanje ponuda radi prodaje građevinskog zemljišta, radi privođenja prostora planiranoj namjeni na urbanističkoj parceli UP 1 (Lokacija 27), ukupne površine 42.141,00 m2 koju čine katastarska parcela broj 3173/1, građevinska parcela površine 241 m2 i katastarska parcela broj 3177/2, građevinska parcela površine 64 m2,upisane u listu nepokretnosti broj 145 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja opštine Nikšić i katastarska parcela broj 3176/1, građevinska parcela površine 41.896,00 m2 upisana u listu nepokretnosti broj 3624 KO Nikšić, kao svojina Države Crne Gore sa pravom raspolaganja opštine Nikšić.
+Na urbanističkoj parceli iz stava 1 ovog člana je predviđena izgradnja poslovnog objekta spratnosti P+1, u osnovi površine 12.642,00 m2 u skladu sa Odlukom o izmjena i dopuna Prostorno-urbanističkog plana Opštine Nikšić ("Službeni list CG ", broj 72/24).
