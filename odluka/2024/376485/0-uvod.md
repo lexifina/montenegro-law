@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 30 Zakona o lokalnoj samoupravi ("Sl. list CG") br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 46 stav 1 tačka 30 Statuta Opštine Bijelo Polje ("Sl, list CG- Opštinski propisi") br.19/18), člana 11 stav 1 alineja 6 Odluke o osnivanju DOO "Komunalno - Lim" Bijelo Polje ("Sl, list CG-Opštinski propis br. 32/13), Skupština opštine Bijelo Polje na sjednici održanoj dana 27.12. 2024. godine donijela je
+ODLUKU
