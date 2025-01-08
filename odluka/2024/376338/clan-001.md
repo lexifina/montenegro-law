@@ -1,0 +1,3 @@
+# Član 1
+## o davanju na korišćenje poslovnih prostora koji se nalaze u objektu "Sportskog centra" u Nikšiću Košarkaškom klubu" Sutjeska Elektroprivreda" Nikšić
+Opština Nikšić kao nosilac prava raspolaganja na poslovnom prostoru, površine 12 m2, poseban dio 30 i na poslovnom prostoru, površine 11 m2, poseban dio 31, oba na prvom spratu objekta broj 1 - Sportskog centra u Nikšiću, na katastarskoj parceli broj 920, upisanoj u listu nepokretnosti broj 810 KO Nikšić, daje bez naknade, na korišćenje, Košarkaškom klubu " Sutjeska Elektroprivreda " Nikšić, za potrebe obavljanja administrativnih poslova.
