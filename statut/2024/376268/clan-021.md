@@ -1,0 +1,4 @@
+# Član 21
+## Imovina Agencije
+Imovinu Agencije čini: pravo svojine na pokretnim i nepokretnim stvarima, novčana sredstva, hartije od vrijednosti i druga imovinska prava.
+Agencija odgovara za obaveze u pravnom prometu cjelokupnom svojom imovinom.

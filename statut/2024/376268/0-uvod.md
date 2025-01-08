@@ -1,0 +1,2 @@
+Na osnovu člana 181 a u vezi sa članom 195 Zakona o elektronskim komunikacijama ("Službeni list Crne Gore", broj 100/24) i člana 120 Zakona o poštanskim uslugama ("Službeni list Crne Gore", broj 57/11, 55/16, 55/18 i 84/24) Savjet Agencije za elektronske komunikacije i poštansku djelatnost, na sjednici održanoj 26.12.2024. godine, donio je
+STATUT AGENCIJE ZA ELEKTRONSKE KOMUNIKACIJE I POŠTANSKU DJELATNOST
