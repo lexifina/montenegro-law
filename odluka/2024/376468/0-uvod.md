@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2, a u vezi sa članom 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22), članom 53 stav 1 tačka 2 Statuta opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 24/19, 05/20, 51/22, 55/22) a u vezi sa čl. 8, 12 i 13 Zakona o spomen-obilježjima ("Službeni list CG"br. 40/08, 40/11, 02/17), na sjednici Skupštine opštine Tuzi održanoj 23.12.2024. godine, donijeta je
+ODLUKA
