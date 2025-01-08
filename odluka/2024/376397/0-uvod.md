@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 14 stav 1 Zakona o mladima ("Službeni list Crne Gore", br. 25/19 i 27/19), člana 35 stav 1 tačka 4 i člana 38 stav 1 Statuta opštine Nikšić ("Službeni list Crne Gore - Opštinski propisi", br. 31/18 i 21/23), uz prethodnu saglasnost Ministarstva sporta i mladih Crne Gore, broj: 01-0511-615/24-2734/4 od 29.11.2024. godine, Skupština opštine Nikšić, na sjednici održanoj 27.12.2024. godine, donijela je
+O D L U K U
