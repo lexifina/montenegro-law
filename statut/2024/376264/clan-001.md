@@ -1,0 +1,2 @@
+# Član 1
+Stomatološka komora Crne Gore (u daljem tekstu: Komora) je nezavisna, strukovna, profesionalna organizacija zdravstvenih radnika koji su završili stomatološki fakultet, zdravstvenih radnika koji imaju specijalizaciju ili užu specijalizaciju na tom fakultetu (u daljem tekstu: članovi Komore) i organizovana je radi unapređenja uslova za obavljanje profesije, zaštite profesionalnih interesa, unapređenja profesionalne etike i učešća na unapređenju zdravstvene zaštite.

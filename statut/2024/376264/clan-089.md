@@ -1,0 +1,3 @@
+# Član 89
+Organi Komore nastavljaju sa radom do isteka mandata članova.
+Postupci pred organima Komore koji su u toku na dan stupanja na snagu ovog Statuta dovršiće se shodno aktima na osnovu kojih su i započeti.

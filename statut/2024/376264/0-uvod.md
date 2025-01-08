@@ -1,0 +1,2 @@
+Na osnovu člana 121 stav 2 i 3 Zakona o zdravstvenoj zaštiti ("Sl. list CG", br. 3/2016, 39/2016, 2/2017, 44/2018, 24/2019 - dr. zakoni, 82/2020, 8/2021, 3/2023, 48/2024, 77/2024 I 84/2024) i člana 17 stav 1 alineja 1 Statuta Stomatološke komore Crne Gore ("Službeni list Crne Gore", broj 29/2017 i 22/2018), na XXII sjednici od 05.12.2024. godine Skupština Stomatološke komore Crne Gore donijela je
+STATUT STOMATOLOŠKE KOMORE CRNE GORE
