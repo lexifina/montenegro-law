@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2, a u vezi sa članom 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22), člana 26 stav 1 Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16, 74/16, 2/18, 66/19, 140/22) i člana 9 stav 1 alineja 7 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija/Ujësjellësi dhe kanalizimi" Tuzi ("Službeni list CG - Opštinski propisi", broj 40/21), na sjednici Skupštine opštine Tuzi održanoj 23.12.2024. godine, donijeta je
+ODLUKA
+o potvrdi Odluke o davanju saglasnosti na Izmijenjeni Program rada sa finansijskim planom
