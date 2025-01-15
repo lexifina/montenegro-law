@@ -1,0 +1,2 @@
+Na osnovu člana 60 Zakona o zdravstvenoj zaštiti ("Službeni list CG", br. 3/16, 39/16, 2/17, 44/18, 82/20, 8/21, 3/23, 48/24 i 77/24), člana 5 stav 1 i člana 6 stav 1 tačka 17 Zakona o obezbjeđivanju krvi ("Službeni list CG", broj 1/14), a u vezi sa članom 14 stav 1 Zakona o uzimanju i presađivanju ljudskih tkiva i ćelija u svrhu liječenja ("Službeni list CG", br. 57/15 i 86/22), Vlada Crne Gore je, 14. januara 2025. godine, bez održavanja sjednice, na osnovu pribavljene saglasnosti većine članova Vlade, donijela
+ODLUKU O ORGANIZOVANJU ZAVODA ZA TRANSFUZIJU KRVI CRNE GORE

@@ -1,0 +1,3 @@
+# Član 3
+Djelatnost Zavoda je prikupljanje i testiranje krvi i komponenti krvi, bez obzira na njihovu namjenu, kao i prerada, skladištenje i distribucija krvi i komponenti krvi koje su namijenjene za alogenu ili autolognu transfuziju, u skladu sa zakonom kojim se uređuje obezbjeđivanje krvi.
+Pored djelatnosti iz stava 1 ovog člana, Zavod može da obavlja i postupke uzimanja, testiranja, obrade, očuvanja, skladištenja i distribucije matičnih ćelija hematopoeze, ako ispunjava uslove propisane zakonom kojim se uređuje uzimanje i presađivanje ljudskih tkiva i ćelija u svrhu liječenja i ako posjeduje rješenje organa državne uprave nadležnog za poslove zdravlja za obavljanje ovih postupaka.
