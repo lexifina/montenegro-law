@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuje se sadržina, način ispravke i povlačenja javnog poziva za sprovođenje posebnog postupka zapošljavanja policijskih službenika (u daljem tekstu: javni poziv), bliži način sprovođenja provjere znanja, sposobnosti, kompetencija i vještina kandidata, kriterijumi za ocjenjivanje kandidata, sastav i način rada komisija koje vrši provjeru znanja, sposobnosti, kompetencija i vještina kandidata koji ispunjavaju uslove javnog poziva, odnosno za koje je utvrđeno da ne postoje bezbjednosne smetnje i da posjeduju posebnu psihičku i fizičku sposobnost, kao i druga pitanja od značaja za sprovođenje posebnog postupka zapošljavanja.

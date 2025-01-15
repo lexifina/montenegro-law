@@ -1,0 +1,5 @@
+# Član 3
+## Pokretanje posebnog postupka zapošljavanja
+Predlog za pokretanje posebnog postupka zapošljavanja policijskih službenika, koji ministru unutrašnjih poslova (u daljem tekstu: ministar) dostavlja direktor organizacione jedinice organa državne uprave nadležnog za unutrašnje poslove koja vrši policijske poslove (u daljem tekstu: Policija), odnosno rukovodilac druge organizacione jedinice organa državne uprave nadležnog za unutrašnje poslove (u daljem tekstu: Ministarstvo) sadrži razloge za zapošljavanje, broj potrebnih izvršilaca i procjenu fiskalnog uticaja na budžet.
+Na osnovu predloga iz stava 1 ovog člana, a nakon pribavljenog mišljenja organa državne uprave nadležnog za poslove finansija, sa aspekta fiskalnog uticaja na budžet države i saglasnosti Vlade Crne Gore, ministar, u skladu sa Zakonom o unutrašnjim poslovima (u daljem tekstu: Zakon), donosi odluku o pokretanju posebnog postupka zapošljavanja.
+Na osnovu odluke iz stava 2 ovog člana objavljuje se javni poziv na oglasnoj tabli i internet stranici Ministarstva, u roku od tri dana od dana donošenja odluke.
