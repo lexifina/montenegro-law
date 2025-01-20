@@ -1,0 +1,2 @@
+Na osnovu člana 45. Zakona o finansiranju lokalne samouprave ("Službeni list CG", br. 3/19, 86/22, 5/24 i 7/24), člana 38. stav 1. tačka 15. Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 58. stav 1. tačka 15. Statuta Opštine Ulcinj ("Službeni list CG - Оpštinski propisi", br. 48/19), Skupština opštine Ulcinj, na sjednici održanoj dana 13.06.2024. godine, donijela je
+ODLUKU
