@@ -1,0 +1,2 @@
+# Član 2
+Sastavni dio ove odluke čini Programski zadatak sa elementima urbanističko- tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa: sportsko-rekreativne namjenepješačko-biciklistička staza na kat. parcelama br. 1076, 1075, 1913, 1074, 1150, 1073, 1913, 1072, 1/1, 52/5, 52/6, 52/1, 1070/5, 1070/1, 223, 157/1, 231/1, 1072, 279/5, 279/1 KO Kolašin i kat.parceli br. 320 KO Babljak,Opština Kolašin,sa osnovnim podacima o objektu i grafičkim prikazom lokacije planiranog objekta.
