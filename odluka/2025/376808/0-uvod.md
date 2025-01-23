@@ -1,0 +1,2 @@
+Na osnovu člana 2 stav 1 Zakona o lokalnim komunalnim taksama ("Sl. list CG", br. 18/19), člana 28 stav 1 tačka 2 i člana 38 stav 1 tačка 2 i 8 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 34 stav 1 tačka 2 i 8 Statuta Оpštine Herceg Novi ("Sl. list CG - Оpštinski propisi", br. 1/19, 37/19, 6/20 i 18/22), uz prethodnu pribavljenu saglasnost Vlade Crne Gore, br. 10-430/24-6791/2, Skupština оpštine Herceg Novi, na sjednici održanoj dana 27.12.2024. godine, donijela je
+ODLUKU
