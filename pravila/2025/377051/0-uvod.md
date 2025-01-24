@@ -1,0 +1,2 @@
+Na osnovu člana 101 Zakona o sprečavanju korupcije ("Službeni list CG", broj 54/24) i člana 10 stav 1 alineja 12 Statuta Agencije za sprečavanje korupcije ("Službeni list CG", br. 81/24 i 82/24), na predlog v.d. direktora, Savjet Agencije, na sjednici održanoj 21. januara 2025. godine, donio je
+PRAVILA O NAČINU SPROVOĐENJA ZAPOŠLJAVANJA I POPUNE RADNOG MJESTA U AGENCIJI ZA SPREČAVANJE KORUPCIJE NA OSNOVU JAVNOG OGLASA
