@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 1 Zakona o lokalnoj samoupravi ("Službeni list CG - Opštinski propisi", br. 02/18, 034/19, 038/20, 050/22 i 084/22), člana 37 Statuta Opštine Plav ("Službeni list CG - Opštinski propisi", br. 44/18) i člana 159 Poslovnika Skupštine opštine Plav ("Sl. list CG - Opštinski propisi", br. 44/18 i 25/21), Skupština opština Plav, na sjednici održanoj dana 30.12.2024. godine, donijela je
+Z A K LJ U Č A K
