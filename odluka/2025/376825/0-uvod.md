@@ -1,0 +1,3 @@
+Na osnovu člana 14. Zakona o mladima ("Službeni list Crne Gore", br. 25/19 i 27/19), člana 26. stav 1. tačka 3. kao i člana 38. stav 1. tačke 2 i 4. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18, 034/19, 038/20, 050/22 i 084/22), u vezi sa članom 13. stav 2 tačka 3. i članom 33. stav 1. tačke 2 i 4. Statuta Opštine Plav ("Službeni list Crne Gore - Opštinski propisi") br. 044/18), uz prethodno pribavljeno mišljenje Ministarstva sporta i mladih, akt broj: 01-0511- 615/24-3132/2 od 23.12.2024. godine, Skupština opštine Plav, na sjednici održanoj dana 30.12.2024. godine, donijela je
+ODLUKU
+o usvajanju Lokalnog akcionog plana za mlade za Opštinu Plav za period od 2025-2026.
