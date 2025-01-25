@@ -1,0 +1,2 @@
+Na osnovu člana 17. stav 4. Zakona o održavanju stambenih zgrada ("Sl. list Crne Gore", br. 41/16, 84/18, 111/22, 140/22 i 84/24) saglasno članu 38. stav 1. tačka 2, u vezi sa članom 27. tačkom 10. Zakona o lokalnoj samoupravi ("Sl. list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), shodno članu 14. stav 1. tačka 10. a u vezi sa članom 33. stav 1. tačka 2. Statuta Opštine Plav ("Sl. list Crne Gore - Opštinski propisi", br. 44/18), Skupština opštine Plav, na sjednici održanoj 30.12.2024. godine, donijela je
+ODLUKU
