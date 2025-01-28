@@ -1,0 +1,2 @@
+Na osnovu člana 87. stav 18. Zakona o prevozu u drumskom saobraćaju ("Službeni list CG", br. 71/2017 i 67/2019), člana 38. stav 1. tačka 2. Zakona o lokalnoj samoupravi ("Službeni list CG", 2/18, br. 34/2019, 38/2020, 50/2022 i 84/2022) i člana 58. stav 1. tačka 2. Statuta Opštine Ulcinj ("Službeni list CG - Opštinski propisi", br. 48/2019), Skupština opštine Ulcinj, na sjednici održanoj dana 24.12.2024. godine, donijela je
+O D L U K U
