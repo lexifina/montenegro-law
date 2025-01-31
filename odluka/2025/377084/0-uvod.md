@@ -1,0 +1,2 @@
+Na osnovu člana 28. stav 1. Zakona o turističkim organizacijama ("Službeni list Republike CG", br. 11/2004, 46/2007, Službeni list CG", br. 73/2010, 40/2011, 45/2014, 42/2017, 27/2019), člana 58. stav 1. tačka 27. Statuta Opštine Ulcinj ("Službeni list CG - Opštinski propisi", br. 48/2019 i 5/2024), i člana 23. stav 1. tačka 2. Odluke o osnivanju Turističke organizacije Opštine Ulcinj ("Službeni list CG - Opštinski propisi", br. 5/2007 i 4/2023), Skupština Opštine Ulcinj, na sjednici održanoj dana 24.12. 2024. godine, donijela je
+ODLUKU
