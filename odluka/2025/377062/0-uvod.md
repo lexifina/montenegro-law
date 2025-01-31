@@ -1,0 +1,2 @@
+Na osnovu člana 9. Zakona o bezbjednosti saobraćaja na putevima ("Službeni list CG", br. 33/12, 58/14, 14/17 i 66/19), člana 38. stav 1. tačka 2. Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19, 38/20, 50/22 i 84/22), i člana 58. stav 1. tačka 2. Statuta Opštine Ulcinj ("Službeni list CG - Оpštinski propisi", br 48/19 i 05/24), Skupština opštine Ulcinj, na sjednici održanoj 24.12.2024. godine, donijela je
+ODLUKU
