@@ -1,0 +1,2 @@
+Na osnovu člana 59 i 154 Zakona o socijalnoj i dječijoj zaštiti ("Službeni list CG", broj 27/13, l/15, 42/15, 47/15, 56/l6, 66/16, 1/17, 31/17, 42/17, 50/17, 59/2, 145/21, 145/21, 3/23 i 48/24), člana 27 stav 1 tačka 15 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", broj: 2/18, 34/19, 38/20, 50/22 I 84/22), člana 14 stav l alineja 15 i člana 38 stav 1 alineja 2 Statuta Opštine Andrijevica ("Službeni list CG - Opstinski propisi", broj 32/18), Skupština opštine Andrijevica, na sjednici održanoj dana 28.12.2024. godine, donijela je
+ODLUKA
