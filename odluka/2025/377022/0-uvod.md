@@ -1,0 +1,3 @@
+Na osnovu člana 38. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22, 84/22. i 85/22.), člana 58. stav 2. Statuta Opštine Ulcinj ("Službeni list Crne Gore - Opštinski propisi", br. 48/19),člana 139 Poslovnika o radu Skupštine opštine Ulcinj ("Službeni list CG - Оpštinski propisi", br. 27/20 i 5/24) a u vezi sa članom 25. i 49. Statuta Javne ustanove ,,Centar za kulturu-Ulcinj", Skupština opštine Ulcinj, na sjednici održanoj dana 24.12.2024. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Program rada i Finansijski plan JU ,,Centar za Kulturu -Ulcinj" za
