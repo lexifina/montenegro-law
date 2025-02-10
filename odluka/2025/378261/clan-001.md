@@ -1,0 +1,38 @@
+# Član 1
+Crna Gora (u daljem tekstu: Država) može u 2025. godini, zaključiti kreditni aranžman sa Evropskom unijom koju predstavlja Evropska komisija, u iznosu do 275.000.000,00 eura, za potrebe implementacije Instrumenta Evropske unije za reformu i rast ("Reform and Growth Facility for the Western Balkans").
+Država može zaključivati i pojedinačne kreditne aranžmane sa međunarodnim finansijskim institucijama koji proizilaze iz Instrumenta Evropske unije za reformu i rast iz stava 1 ovog člana.
+Pored kreditnih zaduženja iz st. 1 i 2 ovog člana, u 2025. godini, Država se može zadužiti kod:
+1) Banke za razvoj Savjeta Evrope (CEB), za potrebe finansiranja V faze Projekta rješavanja stambenih potreba građana po povoljnim uslovima - "Projekat 1000+", u iznosu do 10.000.000,00 eura;
+2) Banke za razvoj Savjeta Evrope (CEB), za potrebe Ministarstva pravde, za finansiranje "Projekta izgradnje zatvora u Mojkovcu", u iznosu do 30.000.000,00 eura;
+3) Banke za razvoj Savjeta Evrope (CEB), za potrebe dodatnog finansiranja "Projekta izgradnje i rekonstrukcije predškolskih ustanova u Crnoj Gori", u iznosu do 13.000.000,00 eura;
+4) Evropske banke za obnovu i razvoj (EBRD) za potrebe finansiranja nastavka izgradnje autoputa Bar-Boljare, dionica Mateševo-Andrijevica i Smokovac-Farmaci (obilaznica oko Podgorice), u iznosu do 200.000.000,00 eura;
+5) Evropske banke za obnovu i razvoj (EBRD), za potrebe finansiranja "Projekta unapređenja energetske efikasnosti i zelenih/prirodnih rješenja u postojećim predškolskim objektima u Crnoj Gori", u iznosu do 20.000.000,00 eura;
+6) Evropske banke za obnovu i razvoj (EBRD), za potrebe izgradnje 2,5 km pogranične putne dionice prema Bosni i Hercegovini sa mostom preko rijeke Tare (prethodno SEETO 2b putni pravac), u iznosu do 5.000.000,00 eura;
+7) Evropske banke za obnovu i razvoj (EBRD), za potrebe implementacije ITS sistema na putnoj mreži, u iznosu do 5.000.000,00 eura;
+8) Evropske banke za obnovu i razvoj (EBRD) i Evropske investicione banke (EIB) za potrebe Željezničke infrastrukture Crne Gore (ŽICG), a za potrebe finansiranja "Projekta modernizacije elektrificirane jednokolosječne pruge na dionici Bar-Golubovci, uključujući klizište Ratac i tunel Sozina", u iznosu do 113.000.000,00 eura;
+9) Evropske investicione banke (EIB), za potrebe dodatnog finansiranja projekta "Program unapređenja crnogorskog obrazovanja", u iznosu do 18.000.000,00 eura;
+10) Evropske investicione banke (EIB), za potrebe finansiranja izgradnje obrazovnih objekata po prioritetima definisanim kroz "Projekat mapiranja školske infrastrukture", u iznosu do 20.000.000,00 eura;
+11) Evropske investicione banke (EIB), za potrebe finansiranja "Projekta unapređenja sistema vodosnabdijevanja i odvođenja otpadnih voda u crnogorskim opštinama", u iznosu do 20.000.000,00 eura;
+12) Svjetske banke, za potrebe finansiranja "Projekta dekarbonizacije energetskog sektora", u iznosu do 33.000.000,00 eura;
+13) Svjetske banke, za potrebe finansiranja "Projekta reforme u oblasti upravljanja otpadom", u iznosu do 48.500.000,00 eura;
+14) Svjetske banke za potrebe finansiranja projekta za razvoj sektora poljoprivrede i ribarstva, kao i oblasti bezbjednost hrane, veterina i fitosanitarni poslovi, u iznosu do 33.000.000,00 eura;
+15) Svjetske banke za potrebe finansiranja projekta za razvoj sektora šumarstva u Crnoj Gori, u iznosu do 18.000.000,00 eura;
+16) Svjetske banke za Projekat modernizacije finansijske infrastrukture Crne Gore i njeno usklađivanje sa SEPA standardima (TARGET Instant Payment Settlement Clone Project-Projekat TIPS Clone), u iznosu do 8.000.000,00 eura.
+Država se može u 2025. godini, zadužiti za:
+1) potrebe finansiranja "Projekta izgradnje i opremanja zdravstvenih ustanova u Crnoj Gori", za koje će se kreditor utvrditi tokom godine, u iznosu do 110.000.000,00 eura;
+2) potrebe finansiranja "Projekta izgradnje i opremanja Univerzitetskog kliničkog centra", za koje će se kreditor utvrditi tokom godine, u iznosu do 200.000.000,00 eura;
+3) potrebe finansiranja "Projekta izgradnje objekta Muzeja savremene umjetnosti, Prirodnjačkog muzeja, Kuće arhitekture i Parka kulture i umjetnosti sa pratećim sadržajima", i izgradnju i rekonstrukciju drugih objekata kulture, za koje će se kreditor utvrditi tokom godine, u iznosu do 42.500.000,00 eura;
+4) potrebe finansiranja izgradnje Državnog Data centra, za koji će se kreditor utvrditi tokom godine, u iznosu do 10.000.000,00 eura;
+5) potrebe finansiranje nabavke opreme i sredstava za potrebe Vojske Crne Gore, za koje će se kreditor utvrditi tokom godine, u iznosu do 75.000.000,00 eura;
+6) potrebe finansiranja nabavke dva helikoptera za potrebe Vojske Crne Gore, za koji će se kreditor utvrditi tokom godine, u iznosu do 50.000.000,00 eura;
+7) potrebe finansiranja "Projekta razvoja infrastrukture za širokopojasni pristup internetu", za koje će se kreditor utvrditi tokom godine, u iznosu do 30.000.000,00 eura;
+8) potrebe finansiranja nabavke aviona za potrebe Generalnog sekretarijata Vlade Crne Gore, za koje će se kreditor utvrditi tokom godine, u iznosu do 25.000.000,00 eura.
+Nedostajuća sredstva za finansiranje budžeta, u 2025. godini, iznose 1.140.000.000,00 eura.
+Za finansiranje nedostajućih sredstava iz stava 5 ovog člana, Država će, u 2025. godini, koristiti depozite i sredstva iz postojećih kreditnih aranžmana zaključenih u ranijem periodu, kao i sredstva iz novog zaduženja.
+Država se u 2025. godini može zadužiti u iznosu do 900.000.000,00 eura za potrebe obezbjeđenja nedostajućih sredstava u 2025. godini, putem zaključenja kreditnih aranžmana sa međunarodnim finansijskim institucijama, sa domaćim i/ili inostranim bankama sa ili bez garancije Svjetske banke (Policy Based Guarantee), kroz emisiju državnih zapisa i/ili dužničkih hartija od vrijednosti na domaćem i/ili međunarodnom tržištu, kao i/ili zaključenjem bilateralnih ili drugih kreditnih aranžmana.
+Izuzetno od stava 7 ovog člana, Država se može u 2025. godini zadužiti u iznosu do 500.000.000,00 eura za potrebe refinansiranja duga i stvaranja fiskalne rezerve za 2026. i 2027. godinu, putem zaključenja kreditnih aranžmana sa međunarodnim finansijskim institucijama, sa domaćim i/ili inostranim bankama, kroz emisiju državnih zapisa i/ili dužničkih hartija od vrijednosti na domaćem i/ili međunarodnom tržištu, kao i/ili zaključenjem bilateralnih ili drugih kreditnih aranžmana.
+Vlada Crne Gore (u daljem tekstu: Vlada), u 2025. godini može zaključiti svop ugovore i ugovore o kupovini derivata u skladu sa standardizovanim okvirnim ugovorom o finansijskim derivatima koji je uobičajen u poslovnoj praksi, odnosno na način uobičajen u poslovnoj praksi, radi zaštite od rizika kamatnih i/ili valutnih promjena u vezi sa kreditnim ugovorom sa kineskom Exim bankom zaključenim 2014. godine za potrebe izgradnje auto-puta Bar-Boljare, prioritetna dionica Smokovac-Uvač Mateševo, kao i u vezi sa drugim postojećim i budućim zaključenim kreditnim ugovorima, emitovanim dužničkim hartijama od vrijednosti i/ili izdatim garancijama u skladu sa ovim zakonom i/ili prethodnim godišnjim zakonima o budžetu Crne Gore.
+Vlada može zaključiti aranžmane radi regulisanja prava i obaveza po osnovu neriješenih dužničko-povjerilačkih pitanja nastalih sukcesijom duga SFRJ, kao i aranžmane u cilju prijevremene otplate duga u vezi sa kreditnim aranžmanima i/ili emitovanim dužničkim hartijama od vrijednosti u skladu sa zakonom.
+Transakcije finansiranja izvršavaće se do nivoa njihovog ostvarenja.
+Postupak zaduživanja iz st. 1 do 10 ovog člana, sprovodi Vlada na predlog Ministarstva finansija.
+Način i uslovi zaduživanja iz st. 1 do 10 ovog člana, urediće se ugovorima, sporazumima ili drugim aktima sa kreditorima iz st. 1 do 10 ovog člana.
