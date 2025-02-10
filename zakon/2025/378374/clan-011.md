@@ -1,0 +1,3 @@
+# Član 11
+Izdaci potrošačkih jedinica koji se finansiraju iz donacija izvršavaće se u
+visini njihovog ostvarenja.
