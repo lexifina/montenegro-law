@@ -1,0 +1,2 @@
+# Član 2
+Urbanističku parcelu broj 129, u bloku "7", podzona "B2", zona "B", čine nepokretnosti označene: katastarskom parcelom broj 3207/1, zemljište, po načinu korišćenja, šume 4. klase, površine 479m2, svojina Curi Bekima, u obimu prava 1/1, shodno listu nepokretnosti broj 1783 KO Dobra Voda u Baru i katastarskom parcelom broj 3207/2, po načinu korišćenja neplodna zemljišta, površine 43m2, svojina Crna Gora, subjekat raspolaganja Opština Bar u obimu prava 1/1, shodno listu nepokretnosti broj 1323 KO Dobra Voda u Baru.
