@@ -1,0 +1,4 @@
+# Član 1
+## podzona "B2" (B2-UP4 i B2-UP5), u zahvatu DUP-a "Topolica IV" u Baru
+Opština Bar, kao subjekat prava raspolaganja, prenosi Pelević Božidaru iz Bara, uz naknadu, pravo svojine na zemljištu označenom katastarskom parcelom broj 5858/2, po načinu korišćenja - građevinska parcela, površine 68m2, iz lista nepokretnosti broj 1154 KO Novi Bar, bez tereta i ograničenja, radi kompletiranja urbanističke parcele broj "4", zona "B", podzona "B2", u zahvatu DUP-a "Topolica IV" u Baru.
+Opština Bar, kao subjekat prava raspolaganja, prenosi Savić Mladenu iz Bara, uz naknadu, pravo svojine na zemljištu označenom katastarskom parcelom broj 5858/3, po načinu korišćenja - građevinska parcela, površine 11m2, iz lista nepokretnosti broj 1154 KO Novi Bar, bez tereta i ograničenja, radi kompletiranja urbanističke parcele broj "5", zona "B", podzona "B2", u zahvatu DUP-a "Topolica IV" u Baru.

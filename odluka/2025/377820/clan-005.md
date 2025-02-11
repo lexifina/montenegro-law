@@ -1,0 +1,3 @@
+# Član 5
+Dio naknade iz člana 3 ove odluke, za površinu od 68m2 u iznosu od 26.180,00 €, Pelević Božidar je dužan uplatiti na žiro račun budžeta Opštine Bar broj 510-0000080962330-80 kod Crnogorske komercijalne banke AD Podgorica, u roku od 8 dana od dana zaključenja ugovora o prenosu prava svojine na zemljištu opisanom u članu 1 ove odluke.
+Dio naknade iz člana 3 ove odluke, za površinu od 11m2 u iznosu od 4.235,00 €, Savić Mladen je dužan uplatiti na žiro račun budžeta Opštine Bar broj 510-0000080962330-80 kod Crnogorske komercijalne banke AD Podgorica, u roku od 8 dana od dana zaključenja ugovora o prenosu prava svojine na zemljištu opisanom u članu 1 ove odluke.
