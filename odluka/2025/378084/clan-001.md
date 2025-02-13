@@ -1,0 +1,42 @@
+# Član 1
+Obrazuje se Radna grupa za pripremu i sprovođenje aktivnosti u okviru predsjedavanja Crne Gore Komitetu ministara Savjeta Evrope u periodu novembar 2026 - maj 2027. godine (u daljem tekstu: Radna grupa), u sastavu:
+- Nizaheta Kurpejović - Cikotić, v.d. generalne direktorice Generalnog direktorata za multilateralne poslove u Ministarstvu vanjskih poslova, predsjedavajuća;
+- Bosiljka Vuković-Simonović, načelnica Odjeljenja za Savjet Evrope u Generalnom direktoratu za multilateralne poslove u Ministarstvu vanjskih poslova - zamjenica predsjedavajuće;
+- Dragana Konjević, druga sekretarka u Direkciji za OEBS i Savjet Evrope u Generalnom direktoratu za multilateralne poslove u Ministarstvu vanjskih poslova, sekretarka;
+- Jelena Cvijović, ataše u Direkciji za OEBS i Savjet Evrope u Generalnom direktoratu za multilateralne poslove u Ministarstvu vanjskih poslova, članica;
+- Jovana Kovačević, sekretarka Delegacije Skupštine Crne Gore u Parlamentarnoj skupštini Savjeta Evrope, članica;
+- Vera Damjanović, zamjenica sekretarke Delegacije Skupštine Crne Gore u Parlamentarnoj skupštini Savjeta Evrope, članica;
+- Gordana Despotović Đekić, generalna direktorica Direktorata za informisanje javnosti o EU i procesu pristupanja Crne Gore Evropskoj uniji u Ministarstvu evropskih poslova, članica;
+- Svetlana Rajković, samostalna savjetnica u Direkciji za politička pitanja EU u Ministarstvu evropskih poslova, članica;
+- Milica Adžić, državna sekretarka u Ministarstvu finansija, članica;
+- Ana Milačić, načelnica Odjeljenja za međunarodnu saradnju u Ministarstvu sporta i mladih, članica;
+- Sanja Jokić, šefica Kabineta ministra sporta i mladih, članica;
+- Marko Vukašinović, generalni direktor Direktorata za međunarodnu saradnju, evropske integracije i EU fondove u Ministarstvu prosvjete, nauke i inovacija, član;
+- Smilja Kažić Vujačić, načelnica Direkcije za međunarodnu saradnju i EU fondove u oblasti nauke i inovacija u Ministarstvu prosvjete, nauke i inovacija, članica;
+- Blagoje Gledović, v.d. generalnog direktora Direktorata za međunarodnu saradnju i međunarodnu pravnu pomoć u Ministarstvu pravde, član;
+- Nataša Ćuković, samostalna savjetnica u Direktoratu za međunarodnu saradnju i međunarodnu pravnu pomoć u Ministarstvu pravde, članica;
+- Valentina Bodven, samostalna savjetnica u Direktoratu za međunarodnu saradnju i međunarodnu pravnu pomoć u Ministarstvu pravde, članica;
+- Irena Joksimović, v.d. generalne direktorice Direktorata za rad u Ministarstvu rada, zapošljavanja i socijalnog dijaloga, članica;
+- Larisa Zoronjić, načelnica Direkcije za praćenje primjene standarda MOR i instrumenata SE u Direktoratu za rad u Ministarstvu rada, zapošljavanja i socijalnog dijaloga, članica;
+- mr Mirjana Đuranović, načelnica Odjeljenja za međunarodnu saradnju u Ministarstvu zdravlja, članica;
+- mr Jasna Sekulić, samostalna savjetnica u Odjeljenju za međunarodnu saradnju u Ministarstvu zdravlja, članica;
+- Tijana Šuković, v.d. generalne direktorice Direktorata za međunarodnu saradnju, evropske integracije i projekte u Ministarstvu unutrašnjih poslova, članica;
+- Snežana Vujović, šefica Kabineta ministra unutrašnjih poslova, članica;
+- Željka Vulanović, šefica Kabineta ministra turizma, članica;
+- Dušan Polović, generalni direktor Direktorata za infrastrukturu, informacionu bezbjednost, digitalizaciju i e-servise u Ministarstvu javne uprave, član;
+- Andrej Orlandić, v.d. generalnog direktora Direktorata za strateške odnose i komunikacije u Ministarstvu prostornog planiranja, urbanizma i državne imovine, član;
+- Sonja Ražnatović, načelnica Direkcije za međunarodnu saradnju i odnose s javnošću u Ministarstvu prostornog planiranja, urbanizma i državne imovine, članica;
+- Mersida Aljićević, državna sekretarka u Ministarstvu socijalnog staranja, brige o porodici i demografije, članica;
+- Anita Bilafer, načelnica Odjeljenja za evropske integracije i međunarodnu saradnju u Ministarstvu socijalnog staranja, brige o porodici i demografije, članica;
+- Zoran Dabetić, državni sekretar u Ministarstvu ekologije, održivog razvoja i razvoja sjevera, član;
+- Brankica Cmiljanović, načelnica Direkcije za unapređenje životne sredine u Direktoratu za ekologiju u Ministarstvu ekologije, održivog razvoja i razvoja sjevera, članica;
+- Neđeljko Rudović, generalni direktor Direktorata za medije u Ministarstvu kulture i medija, član;
+- Milena Ražnatović, samostalna savjetnica za međunarodnu saradnju i evropske integracije u Ministarstvu kulture i medija, članica;
+- Vukašin Pudar, samostalni savjetnik u Direktoratu za medije u Ministarstvu kulture i medija, član;
+- Ljudmila Popović, v.d. generalne direktorice Direktorata za interkulturalizam u Ministarstvu ljudskih i manjinskih prava, članica;
+- Mirjana Pajković, generalna direktorica Direktorata za unapređenje i zaštitu ljudskih prava i sloboda u Ministarstvu ljudskih i manjinskih prava, članica;
+- Fikret Lulanaj, samostalni savjetnik u Direktoratu za unapređenje i zaštitu prava manjinskih naroda i drugih manjinskih nacionalnih zajednica u Ministarstvu ljudskih i manjinskih prava, član;
+- Mirsada Bošnjak, državna sekretarka u Ministarstvu regionalno-investicionog razvoja i saradnje sa nevladinim organizacijama, članica;
+- Milica Radojičić, pomoćnica generalne sekretarke Zajednice Opština Crne Gore za međunarodnu saradnju i evropske integracije, članica;
+- Ljiljana Lakić, predsjednica Upravnog odbora Centra za obuku u sudstvu i državnom tužilaštvu, članica;
+- Katarina Peković, zastupnica Crne Gore pred Evropskim sudom za ljudska prava u Strazburu, Generalni sekretarijat Vlade, članica.
