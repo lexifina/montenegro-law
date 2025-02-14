@@ -1,0 +1,2 @@
+# Član 1
+Državljani Arapske Republike Egipat mogu, od 1. marta do 1. novembra 2025. godine, ulaziti i boraviti u Crnoj Gori do 30 dana, sa važećom putnom ispravom, bez vize, kao organizovana turistička grupa koja zajedno ulazi, boravi i napušta teritoriju Crne Gore direktnim čarter letom, ako posjeduju potvrdu o uplaćenom turističkom aranžmanu, pozivno pismo turističke agencije iz Crne Gore koja je organizator putovanja (tour-operator) (u daljem tekstu: turistička agencija) i dokaz o obezbijeđenom povratku u državu porijekla.
