@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 3 i člana 58 stav 3 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list CG", br. 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/21, 145/21, 3/23 i 48/24), Ministarstvo socijalnog staranja, brige o porodici i demografije, donijelo je
+ODLUKU O USKLAĐIVANJU VISINE OSNOVA ZA OSTVARIVANJE PRAVA NA MATERIJALNO OBEZBJEĐENJE I VISINE MATERIJALNIH DAVANJA IZ SOCIJALNE I DJEČJE ZAŠTITE
