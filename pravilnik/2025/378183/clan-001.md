@@ -1,0 +1,4 @@
+# Član 1
+U Pravilniku o dozvolama i organizacijama za osposobljavanje kontrolora letenja ("Službeni list CG", br. 29/16, 88/17 i 107/21), u nazivu pravilnika i u drugim odredbama pravilnika riječ "osposobljavanje" u različitom padežu zamjenjuje se riječju "obuka" u odgovarajućem padežu. U članu 2 stav 3 i članu 3 stav 1 tačka 1 riječi: "Evropska agencija za sigurnost vazdušnog saobraćaja" u različitom padežu zamjenjuju se riječima "Agencija Evropske unije za sigurnost vazduhoplovstva" u odgovarajućem padežu.
+U članu 2 i Prilogu 1 riječ "uredba" u različitom padežu zamjenjuje se riječju "regulativa" u odgovarajućem padežu.
+U članu 10 i Prilogu 1 riječ "Aneks" u različitom padežu zamjenjuje se riječju "Prilog" u odgovarajućem padežu, osim kada se odnosi na anekse Konvencije o međunarodnom civilnom vazduhoplovstvu (Čikaška konvencija).
