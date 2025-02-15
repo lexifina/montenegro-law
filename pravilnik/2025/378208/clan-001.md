@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom utvrđuju se bolesti, dugotrajne promjene zdravstvenog stanja, dugotrajne invalidnosti i posledice povreda za korišćenje medicinske rehabilitacije u zdravstvenim ustanovama koje obavljaju specijalizovanu medicinsku rehabilitaciju (u daljem tekstu: medicinska rehabilitacija), postupak ostvarivanja prava na medicinsku rehabilitaciju osiguranih lica Fonda za zdravstveno osiguranje Crne Gore (u daljem tekstu: Fond), kao i druga pitanja od značaja za ostvarivanje prava na medicinsku rehabilitaciju.

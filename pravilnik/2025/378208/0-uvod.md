@@ -1,0 +1,2 @@
+Na osnovu člana 23 stav 1 tačka 3 Zakona o obaveznom zdravstvenom osiguranju ("Službeni list CG", br. 145/21 i 48/24) i člana 13 stav 2 alineja 1 Statuta Fonda za zdravstveno osiguranje Crne Gore ("Službeni list CG", broj 15/24) Upravni odbor, uz saglasnost Ministarstva zdravlja, na sjednici od 31.01.2025. godine, donio je
+PRAVILNIK O INDIKACIJAMA I NAČINU KORIŠĆENJA MEDICINSKE REHABILITACIJE U ZDRAVSTVENIM USTANOVAMA KOJE OBAVLJAJU SPECIJALIZOVANU MEDICINSKU REHABILITACIJU
