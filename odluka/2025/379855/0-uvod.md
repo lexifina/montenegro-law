@@ -1,0 +1,2 @@
+Na osnovu člana 46 stav 1 Statuta Opštine Šavnik ("Sl. list CG - Opštinski propisi", br. 31/18), člana 11 stav 2 Odluke o osnivanju Društva sa ograničenom odgovornošću Park prirode "Dragišnica i Komarnica" Šavnik ("Sl. list CG - Opštinski propisi", br. 50/17), predloga predsjednika opštine broj 02-01-113/25-UPI-5 od 19.02.2025. godine Skupština opštine Šavnik, na sjednici održanoj dana 19.2.2025. godine, donijela je
+ODLUKU
