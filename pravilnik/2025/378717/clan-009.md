@@ -1,0 +1,4 @@
+# Član 9
+## Stupanje na snagu
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+*U ovaj Pravilnik prenijeta je Delegirana regulativa komisije (EU) 2019/2125 оd 10. oktobra 2019. godine o dopuni Regulative (EU) 2017/625 Evropskog parlamenta i Vijeća u pogledu pravila o sprovođenju posebnih službenih kontrola drvenog materijala za pakovanje, obavještavanju o određenim pošiljkama i mjerama koje treba preduzeti u slučajevima neusklađenosti (Commission Delegated Regulation (EU) 2019/2125 of 10 October 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules concerning the performance of specific official controls of wood packaging material, notification of certain consignments and measures to be taken in cases of non-compliance) I član 43 Regulative 2016/2031
