@@ -1,0 +1,5 @@
+# Član 1
+U Uredbi o posebnim zahtjevima higijene za proizvode životinjskog porijekla* ("Službeni list CG", br. 32/16, 80/16 i 57/17, 49/18 i 13/23), u članu 2 stav 1 poslije tačke 10 dodaje se nova tačka koja glasi:
+"10a) suvo dozrijevanje je skladištenje svježeg mesa u aerobnim uslovima tako što se trupovi ili komadi, nezapakovani ili zapakovani u vrećice koje propuštaju vodenu paru, vješaju u rashlađenu prostoriju ili opremu i ostavljaju nekoliko nedjelja da dozrijevaju u kontroliranim uslovima temperature, relativne vlažnosti i protoka vazduha;".
+Poslije tačke 32 dodaje se nova tačka koja glasi:
+"32a) pothlađivanje je postupak kojim se temperatura svježeg proizvoda ribarstva snižava na nivo između početne tačke zamrzavanja ribe i nivoa od približno 1 do 2 °C niže, pri čemu se ovaj postupak primjenjuje se na odmrznute, neprerađene proizvode ribarstva i svježe proizvode ribarstva u koje su dodati prehrambeni aditivi u skladu sa propisom o aditivama koji se mogu dodavati u hranu, a ne primjenjuje se na žive školjke, bodljokošce, plaštaše i morske puževe, ako se živi stavljaju na tržište;".

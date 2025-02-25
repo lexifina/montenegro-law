@@ -1,0 +1,3 @@
+# Član 3
+Ova uredba stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+*U ovu Uredbu prenijete su odredbe: Uredbe Komisije (EU) broj 2022/2258 оd 9. septembra 2022. o izmjeni i ispravci Priloga III Uredbe (EZ) br. 853/2004 Evropskog parlamenta i Vijeća o utvrđivanju određenih higijenskih pravila za hranu životinjskog porijekla u pogledu proizvoda ribarstva, jaja i određenih visoko rafinisanih proizvoda i o izmjeni Delegirane uredbe Komisije (EU) 2019/624 u pogledu određenih živih školjki; I odredbe Uredbe Komisije (EU) 2024/1141 оd 14 decembra 2023. izmjeni priloga II. i III. Uredbi (EZ) br. 853/2004 Evropskog parlamenta i Vijeća u pogledu posebnih higijenskih zahtjeva za određeno meso, proizvode ribarstva, proizvode mlijeka i jaja.
