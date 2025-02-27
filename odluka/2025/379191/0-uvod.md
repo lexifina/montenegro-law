@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 45 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", br. 03/19, 86/22, 05/24 i 07/24) i člana 35 stav 1 tačka 15 Statuta Opštine Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", br. 43/18), Skupština opštine Danilovgrad, na sjednici održanoj 18.2., 21.2. i 24.2. 2025. godine, donijela je
+ODLUKU
