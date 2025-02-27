@@ -1,0 +1,2 @@
+# Član 3
+Danom stupanja na snagu ovog zakona prestaje da važi Zakon o izmjenama i dopunama Zakona o ratifikaciji Multilateralnog Sporazuma između Evropske zajednice i njenih država članica, Republike Albanije, Bosne i Hercegovine, Republike Bugarske, Republike Hrvatske, Bivše Jugoslovenske Republike Makedonije, Republike Island, Crne Gore, Kraljevine Norveške, Republike Srbije i Misije privremene uprave Ujedinjenih Nacija na Kosovu o uspostavljanju zajedničkog evropskog vazduhoplovnog područja (ECAA Sporazuma) ("Službeni list CG-Međunarodni ugovori", broj 1/11).
