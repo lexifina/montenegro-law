@@ -1,0 +1,2 @@
+# Član 3
+Prodajna cijena nepokretnosti iz člana 1 ove odluke na osnovu Izvještaja Komisije za procjenu tržišne vrijednosti urađenog dana 23.01.2025. godine, zavedenog u Pisarnici Opštini Danilovgrad pod brojem 01-082/25-191/1 dana 27.01.2025. godine, iznosi 26,00 €/m², odnosno za ukupnu površinu od 214m² Opština Danilovgrad je dužna da isplati vlasniku iznos od 5.564,00 (pet hiljada pet stotina šezdeset četiri i 00/100) eura.
