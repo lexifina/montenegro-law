@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2, člana 34 stav 1 i 3 i člana 40 stav 2 tačka 3 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09 i 40/11), člana 38 stav 1 tačka 2, člana 44 stav 1 i člana 58 stav 1 tačka 6 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 35 stav 1 tačka 2 i člana 38 Statuta opštine Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", br. 43/18), Skupština opštine Danilovgrad, na sjednici održanoj 18.2., 21.2. i 24.2. 2025. godine, donijela je
+ODLUKU
+o prenosu prava svojine na katastarskoj parceli broj 3986/3, KO Vrela, radi dokompletiranja
