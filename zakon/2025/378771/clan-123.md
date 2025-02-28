@@ -1,0 +1,18 @@
+# Član 123
+## Pravila ulaganja imovine zatvorenog penzionog fonda
+(1) Društvo za upravljanje je dužno imovinu zatvorenog penzionog fonda da ulaže sa načelom razboritosti i sa pažnjom dobrog stručnjaka u skladu sa odredbama ovog zakona.
+(2) Imovina fonda mora biti uložena u najboljem dugoročnom interesu članova fondova i korisnika penzione štednje.
+(3) U slučaju potencijalnog sukoba interesa društvo za upravljanje mora obezbijediti da se imovina fonda ulaže isključivo u interesu članova fonda i korisnika penzione štednje.
+(4) U skladu sa pažnjom dobrog stručnjaka i sa načelom razboritosti, društvo za upravljanje može uzeti u obzir mogući dugoročan uticaj odluka o ulaganju na ekološke, socijalne i upravljačke faktore.
+(5) Društvo za upravljanje je dužno da ulaže imovinu fonda na način koji garantuje sigurnost, kvalitet, likvidnost i profitabilnost cjelokupnog portfelja fonda.
+(6) Društvo za upravljanje je dužno da imovinu fonda primarno ulaže u finansijske instrumente koji su uvršteni na uređena tržišta, a najviše 10% imovine zatvorenog fonda može biti uloženo u instrumente sa dugoročnom perspektivom ulaganja, kojima se ne trguje na uređenim tržištima, multilateralnim trgovinskim platformama (MTP) ili organizovanim trgovinskim platformama (OTP).
+(7) Društvo za upravljanje može koristiti finansijske izvedenice u svoje ime i za račun fonda jedino u svrhu:
+1) zaštite imovine fonda, odnosno smanjenja rizika ulaganja;
+2) efikasnog upravljanja imovinom i obavezama fonda.
+(8) Društvo za upravljanje dužno je da finansijske izvedenice vrednuje razumno, uzimajući u obzir osnovnu imovinu, kao i da izbjegava prekomjernu izloženost riziku druge ugovorne strane kod transakcija sa finansijskim izvedenicama.
+(9) Ulaganja imovine fonda moraju biti primjereno diversifikovana na način da se izbjegne pretjerano ulaganje u pojedinu vrstu imovine, pojedinog izdavaoca ili izdavaoce koji čine grupu povezanih lica, a kako bi se izbjegla prekomjerna izloženost koncentracijskom riziku, a ulaganja se ne odnose na ulaganja u obveznice Crne Gore i države OECD-a.
+(10) Ulaganja zatvorenog fonda u prenosive hartije od vrijednosti ili instrumente tržišta novca čiji je izdavalac pokrovitelj zatvorenog fonda mogu iznositi najviše 5% neto imovine fonda, a ako pokrovitelj zatvorenog fonda pripada grupi, najviše 10% neto imovine zatvorenog fonda može biti uloženo u preduzeća koja pripadaju toj istoj grupi, a ako zatvoreni fond ima više pokrovitelja, ulaganja u pokroviteljska preduzeća moraju biti razborita i primjereno diverzifikovana, osim ulaganja koja se ne odnose na ulaganja u obveznice Crne Gore i države OECD-a.
+(11) Srazmjerno veličini, vrsti, obimu i složenosti poslovanja društva za upravljanje, Komisija nadzire primjerenost procesa procjene kreditne sposobnosti koje je uspostavilo društvo za upravljanje u skladu sa članom 50 stav 6 ovog zakona, procjenjuje korišćenje upućivanja na kreditne rejtinge, koje su dodijelile agencije za kreditni rejting u politikama upravljanja rizicima koja se odnose na ulaganja društva za upravljanje i fondova i, prema potrebi, podstiče ublažavanje učinka takvih upućivanja radi smanjenja isključivog i automatskog oslanjanja na takve kreditne rejtinge.
+(12) Društvo za upravljanje ne smije davati zajam ili jemstvo iz imovine zatvorenog fonda bilo kom pravnom ili fizičkom licu.
+(13) Izuzetno od stava 12 ovog člana zatvoreni fond može pozajmiti novčana sredstva od trećih lica u ukupnom iznosu do 5% neto vrijednosti imovine fonda, ali samo u cilju obezbjeđenja likvidnosti, i to na rok ne duži od tri mjeseca.
+(14) Dopuštena ulaganja i ograničenja ulaganja imovine zatvorenih penzionih fondova iz Crne Gore propisuje Komisija.

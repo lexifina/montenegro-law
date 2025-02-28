@@ -1,0 +1,9 @@
+# Član 113
+## Procjena Komisije o prekograničnom prenosu
+(1) Kada u prenos iz člana 108 ovog zakona društvo za upravljanje iz Crne Gore učestvuje kao društvo prenosilac, Komisija procjenjuje sljedeće:
+1) da li su, u slučaju djelimičnog prenosa obaveza penzionog programa, tehničkih rezervi kao i drugih obaveza i prava, kao i pripadajuće imovine ili njene novčane protivvrijednosti, dugoročni interesi preostalih članova i korisnika penzione štednje zaštićeni na odgovarajući način;
+2) da li su pojedinačna prava članova i korisnika barem jednaka nakon prenosa i
+3) da li je imovina penzionog programa koji treba prenijeti dovoljna i primjerena za pokriće obaveza, tehničkih rezervi i drugih obaveza i prava koje treba prenijeti, u skladu sa važećim pravilima u Crnoj Gori.
+(2) Komisija će u roku od osam nedjelja od prijema zahtjeva koji odgovara zahtjevu iz člana 110 stav 3 ovog zakona od nadležnog tijela matične države članice društva primaoca, o rezultatima procjene iz stava 1 ovog člana obavijestiti nadležno tijelo matične države članice društva primaoca, a kako bi ono bilo u mogućnosti donijeti odluku o odobravanju ili odbijanju prenosa.
+(3) Kada je rezultat prenosa iz člana 109 stav 1 ovog zakona prekogranično obavljanje djelatnosti, Komisija će u roku od četiri nedjelje od prijema odluke nadležnog tijela države članice društva primaoca obavijestiti nadležno tijelo matične države članice društva primaoca o odredbama radnog i socijalnog prava države članice domaćina koje se odnose na taj penzioni program kao i o zahtjevima države članice domaćina u pogledu obaveze informisanja članova penzionog programa.
+(4) U slučaju neslaganja oko postupka prekograničnog prenosa, Komisija može zatražiti od EIOPA-e sprovođenje neobvezujućeg posredovanja u skladu sa članom 31 stav 2 tačka c) Regulative (EU) br. 1094/2010.

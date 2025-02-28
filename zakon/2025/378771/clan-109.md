@@ -1,0 +1,7 @@
+# Član 109
+## Podnošenje zahtjeva za izdavanje dozvole za rad društva primaoca
+(1) Društvo primalac iz Crne Gore dužno je da Komisiji podnese zahtjev za izdavanje dozvole prenosa iz člana 108 ovog zakona.
+(2) Komisija će odlučiti o prenosu iz člana 108 ovog zakona u roku od tri mjeseca od dana prijema urednog zahtjeva za izdavanje dozvole za prenos i tokom istog roka o svojoj odluci obavijestiti društvo primaoca, a nakon dobijanja prethodne saglasnosti nadležnog tijela matične države članice društva prenosioca.
+(3) Prije nego li Komisiji podnese zahtjev za dozvolu prenosa, društvo primalac je dužno da za namjeravani prenos obezbijedi prethodni pristanak proste većine članova zatvorenog fonda i korisnika penzione štednje čiji je penzioni program ili imovina predmet prenosa i pokrovitelja, kada je to primjenjivo.
+(4) Društvo prenosilac je dužno da blagovremeno, prije nego što društvo primalac podnese zahtjev za izdavanje dozvole iz stava 1 ovog člana, obavijesti članove zatvorenog fonda i korisnike penzione štednje čiji su penzioni programi i/ili imovina predmet prenosa, o uslovima, radnjama i okolnostima prenosa, kako bi članovi mogli procijeniti posljedice koje će prenos imati na njihovu imovinu.
+(5) Troškove prenosa iz člana 108 ovog zakona ne snose preostali članovi i korisnici penzije zatvorenog fonda čiji penzioni programi i/ili imovina nijesu predmet prenosa niti članovi i korisnici penzionog programa društva primaoca.

@@ -1,0 +1,5 @@
+# Član 32
+## Sticanje ili povećanje kvalifikovanog učešća bez saglasnosti
+(1) Ako posumnja da u društvu za upravljanje kvalifikovano učešće ima lice koje za to nije pribavilo saglasnost, Komisija je dužna da od tog lica, drugih akcionara društva za upravljanje i društva za upravljanje zahtijeva dostavljanje podataka i dokumentacije od značaja za utvrđivanje postojanja kvalifikovanog učešća tog lica u društvu za upravljanje bez saglasnosti.
+(2) Lica iz stava 1 ovog člana, dužna su da tražene podatke i informacije dostave Komisiji najkasnije u roku od osam dana od dana prijema zahtjeva.
+(3) Ako na osnovu podataka i informacija iz stava 1 ovog člana, ili na osnovu drugih raspoloživih podataka i informacija utvrdi da je lice steklo, odnosno povećalo kvalifikovano učešće u društvu za upravljanje bez saglasnosti, Komisija će u pisanom obliku obavijestiti to lice da u roku od osam dana od dana prijema obavještenja može da podnese zahtjev Komisiji za izdavanje saglasnosti i upozoriti na posljedice iz člana 33 stav 2 ovog zakona.

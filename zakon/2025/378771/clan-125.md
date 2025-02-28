@@ -1,0 +1,11 @@
+# Član 125
+## Osnovni principi postupka likvidacije dobrovoljnog penzionog fonda
+(1) Nakon donošenja odluke o likvidaciji dobrovoljnog penzionog fonda ne mogu se vršiti uplate i isplate iz dobrovoljnog penzionog fonda.
+(2) U postupku likvidacije dobrovoljnog penzionog fonda, transakcije sa njegovom imovinom mogu se obavljati isključivo za potrebe likvidacije fonda.
+(3) Iz imovine dobrovoljnog penzionog fonda ne mogu se plaćati naknade niti drugi troškovi u vezi sa postupkom likvidacije od dana donošenja odluke o likvidaciji, izuzev naknade likvidatoru, kastodiju ili drugoj kreditnoj instituciji kod koje se drže i vode sredstva fonda do okončanja postupka likvidacije, ukoliko dobrovoljni penzioni fond ostane bez kastodija.
+(4) Lice koje sprovodi postupak likvidacije dobrovoljnog penzionog fonda je dužno da u postupku sprovođenja likvidacije fonda postupa u najboljem interesu članova i da vodi računa da se likvidacija sprovede u razumnom roku, pri čemu se prvo izmiruju obaveze dobrovoljnog penzionog fonda dospjele do dana donošenja odluke o likvidaciji, nakon čega se podmiruju sve druge obaveze dobrovoljnog penzionog fonda koje nisu dospjele do dana donošenja odluke o likvidaciji, a proizilaze iz transakcija povezanih sa upravljanjem imovinom dobrovoljnog penzionog fonda.
+(5) Preostala neto vrijednost imovine dobrovoljnog penzionog fonda, nakon izmirenja obaveza iz stava 4 ovog člana raspodjeljuje se članovima dobrovoljnog penzionog fonda, srazmjerno učešću njihovih obračunskih jedinica u ukupnoj imovini dobrovoljnog penzionog fonda.
+(6) Prilikom isplate preostale neto vrijednosti imovine fonda, članovima dobrovoljnog penzionog fonda moraju biti dostupni finansijski izvještaji o sprovedenom postupku likvidacije.
+(7) Lice koje sprovodi postupak likvidacije dobrovoljnog penzionog fonda dužno je da nadležnom sudu i Komisiji dostavi konačni izvještaj i izvještaj o sprovedenoj likvidaciji dobrovoljnog penzionog fonda i odgovorno je za izradu tih izvještaja.
+(8) Nakon završetka postupka likvidacije, u registar fondova Komisije upisuje se završetak postupka likvidacije dobrovoljnog penzionog fonda, a likvidator je dužan sve poslovne knjige likvidiranog fonda predati Komisiji.
+(9) Na izradu početnih i završnih finansijskih izvještaja shodno se primjenjuju odredbe ovog zakona i podzakonskih akata o izradi godišnjih finansijskih izvještaja.

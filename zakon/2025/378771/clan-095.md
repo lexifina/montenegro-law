@@ -1,0 +1,4 @@
+# Član 95
+## Čuvanje poslovne tajne
+(1) Sva lica koja obavljaju funkciju ili su zaposlena u društvu za upravljanje, dobrovoljnom penzionom fondu, Centralnom Klirinškom Depozitarnom Društvu, kastodiju, depozitaru, investicionim društvima, revizori, moraju da čuvaju, kao poslovnu tajnu, sve informacije o namjerama i aktivnostima društva za upravljanje ili dobrovoljnog penzionog fonda, osim onih koje su javne po ovom zakonu.
+(2) Zaposleni Komisije, revizori i druga stručna lica koja rade ili su radili po ovlašćenju Komisije dužni su sve informacije u vezi sa subjektima nadzora koje su saznali tokom rada za Komisiju čuvati kao povjerljive i ne smiju ih otkriti ni jednom licu ili tijelu, osim u sažetom ili skupnom obliku obezbjeđujući pritom da nije moguće identifikovati pojedinačno društvo za upravljanje ili fond.

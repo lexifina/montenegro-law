@@ -1,0 +1,5 @@
+# Član 43
+## Postupanje u najboljem interesu
+(1) Društvo za upravljanje je dužno da postupa u najboljem interesu članova fonda kojim upravlja i da stručno i sa posebnom pažnjom postupa prilikom donošenja investicionih odluka, delegiranja poslova na treća lica, korišćenja eksternih usluga i drugih poslova koji su od značaja za društvo za upravljanje i dobrovoljne penzione fondove kojima upravlja.
+(2) Društvo za upravljanje je dužno da utvrdi i implementira interne politike i procedure kako bi obezbijedilo postupanje u skladu sa stavom 1 ovog člana, a koje su u skladu sa odredbama ovog zakona i propisima donesenim na osnovu ovog zakona, statutom fonda, ciljevima fonda, investicionom strategijom i strategijom i politikom upravljanja rizicima, uključujući i ograničenja rizika.
+(3) Interne politike i procedure vezane za delegiranje poslova odobravaju članovi uprave društva za upravljanje, a društvo za upravljanje dužno je da ih revidira prilikom svake značajne promjene, a najmanje jednom godišnje.
