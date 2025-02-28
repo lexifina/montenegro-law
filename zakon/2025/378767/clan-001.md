@@ -1,0 +1,3 @@
+# Član 1
+U Zakonu o poreskoj administraciji ("Službeni list RCG", br. 65/01 i 80/04 i "Službeni list CG", br. 20/11, 28/12, 8/15, 47/17, 52/19 i 145/21), u članu 4 stav 1 tačka 12 mijenja se i glasi:
+"12) Izvještajna finansijska institucija je finansijska institucija u Crnoj Gori koja je obveznik izvještavanja, na osnovu Standarda zajedničkog izvještavanja u skladu sa zakonom, odnosno potvrđenim međunarodnim sporazumom, koja je rezident Crne Gore, osim poslovne jedinice te finansijske institucije koja se nalazi van Crne Gore, kao i poslovna jedinica finansijske institucije koja nije rezident Crne Gore, a koja u skladu sa zakonom posluje u Crnoj Gori, isključujući finansijsku instituciju koja, na osnovu potvrđenog međunarodnog sporazuma nije obveznik izvještavanja;".
