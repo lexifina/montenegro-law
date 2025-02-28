@@ -1,0 +1,11 @@
+# Član 12
+## Pravila poslovnog ponašanja
+(1) Kreditor i kreditni posrednik dužni su da prilikom kreiranja kreditnih proizvoda, odobravanja, posredovanja ili pružanja savjetodavnih usluga povezanih sa ugovorom o kreditu i, prema potrebi, dodatnih usluga potrošačima, kao i prilikom ispunjavanja obaveza iz ugovora o kreditu, postupaju pošteno, pravedno, transparentno i profesionalno, uzimajući u obzir prava i interese potrošača.
+(2) Kreditor i kreditni posrednik dužni su da odobravanje, posredovanje ili pružanje savjetodavnih usluga povezanih sa ugovorom o kreditu sprovode na osnovu informacija o okolnostima vezanim za potrošača i svim posebnim zahtjevima saopštenim od strane potrošača, kao i razumnim pretpostavkama o rizicima u odnosu na položaj potrošača tokom trajanja ugovora o kreditu.
+(3) Prilikom pružanja savjetodavnih usluga, kreditor ili kreditni posrednik dužni su da pribave i uzmu u obzir informacije iz člana 29 stav 4 ovog zakona.
+(4) Prilikom ugovaranja potrošačkog kredita, kreditor ne može da ugovara provizije za svoje osoblje ili kreditnog posrednika, a kreditni posrednik za svoje osoblje, na način koji je u suprotnosti sa pravilima poslovnog ponašanja iz stava 1 ovog člana.
+(5) Kod pružanja savjetodavnih usluga struktura provizije za osoblje kreditora i kreditnog posrednika uključene u proces odobravanja kredita ne smije da dovodi u pitanje njihovo postupanje u najboljem interesu potrošača, niti da zavisi od ostvarenja ciljanih prihoda od prodaje.
+(6) Kreditor je dužan da, u skladu sa svojom veličinom, unutrašnjom organizacijom i prirodom, obimom i složenošću poslova koje obavlja, prilikom izrade i primjene politike provizija za osoblje odgovorno za procjenu kreditne sposobnosti potrošača, obezbijedi da politika provizija bude:
+1) dosljedna i da promoviše odgovarajuće i efikasno upravljanje rizicima, bez kreiranja rizika koji prelazi nivo rizika prihvatljivog za tog kreditora, i
+2) usklađena sa poslovnom strategijom, ciljevima i dugoročnim interesima kreditora i da uključuje mjere za sprječavanje sukoba interesa, naročito vodeći računa da provizija ne zavisi od broja ili udjela odobrenih kreditnih zahtjeva.
+(7) Bliži sadržaj zahtjeva u vezi provizija osoblja iz st. 4 do 6 ovog člana propisuje Centralna banka.

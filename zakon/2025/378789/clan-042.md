@@ -1,0 +1,7 @@
+# Član 42
+## Informacije o promjeni kamatne stope
+(1) Ako je ugovorena promjenljiva kamatna stopa, kreditor je dužan da obavijesti potrošača lično o svim promjenama ugovorene kamatne stope iz člana 41 ovog zakona, na papiru ili drugom trajnom mediju koji su ugovorili, najmanje 15 dana prije početka njene primjene.
+(2) Obavještenje iz stava 1 ovog člana sadrži objašnjenje kretanja parametra zbog kojeg je došlo do promjene kamatne stope, plan otplate, uključujući broj i iznos obroka, odnosno anuiteta koje treba uplaćivati nakon početka primjene nove kamatne stope i, ako se promijeni broj ili učestalost obroka odnosno anuiteta, pojedinosti o obrocima, odnosno anuitetima.
+(3) Ako kreditor na ugovoreni način ne obavijesti potrošača u skladu sa st. 1 i 2 ovog člana, dužan je da odloži primjenu nove kamatne stope do narednog obračunskog perioda, osim u slučaju kada je došlo do smanjenja kamatne stope.
+(4) Ako je promjena kamatne stope vezana za promjenu referentne stope koja je objavljena i dostupna u poslovnim prostorijama kreditora, ugovorom o kreditu može se ugovoriti obaveza periodičnog obavještavanja potrošača o informacijama iz stava 2 ovog člana.
+(5) Ako se promjena kamatne stope određuje aukcijom na tržištu kapitala, zbog čega kreditor ne može da obavijesti potrošača o bilo kakvoj promjeni prije početka njene primjene, kreditor je dužan da pravovremeno prije aukcije, na papiru ili drugom trajnom mediju, obavjesti potrošača o predstojećem postupku i da mu na raspolaganje stavi jasnu i preciznu naznaku o uticaju na kamatnu stopu.

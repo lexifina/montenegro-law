@@ -1,0 +1,10 @@
+# Član 64
+## Pravo potrošača na prigovor
+(1) Potrošač ima pravo da podnese prigovor kreditoru, odnosno kreditnom posredniku, kada smatra da mu je povrijeđeno pravo propisano ovim zakonom.
+(2) Kreditor, odnosno kreditni posrednik iz stava 1 ovog člana, dužan je da odluči o prigovoru potrošača odmah, a u složenijim slučajevima u roku od osam dana od dana dostavljanja prigovora.
+(3) Ako kreditor, odnosno kreditni posrednik iz stava 1 ovog člana ne odluči o prigovoru potrošača u skladu sa stavom 2 ovog člana ili odbije prigovor, potrošač može da podnese zahtjev za zaštitu prava iz ovog zakona Centralnoj banci radi sprovođenja postupka nadzora kod kreditora i kreditnih posrednika iz člana 66 st. 2 i 3 ovog zakona.
+(4) Ako kreditor, odnosno kreditni posrednik iz stava 1 ovog člana ne odluči o prigovoru potrošača odmah, a u složenijim slučajevima u roku od osam dana od dana dostavljanja prigovora, ili odbije prigovor, potrošač može tržišnoj inspekciji podnijeti zahtjev za zaštitu prava iz ovog zakona kod kreditora i kreditnog posrednika iz člana 66 stav 6 ovog zakona.
+(5) Na postupak po prigovoru potrošača u pogledu načina podnošenja prigovora, isticanja obavještenja o načinu i mjestu podnošenja prigovora, tereta dokazivanja o isticanju obavještenja, vođenja evidencije prigovora potrošača, obaveza lica ovlašćenog za prijem prigovora, obaveze izdavanja potvrde o prijemu prigovora, ako se o prigovoru ne rješava odmah, kao i njene sadržine, shodno se primjenjuju odredbe zakona kojim se uređuje zaštita potrošača, ako ovim zakonom nije drugačije uređeno.
+(6) U slučaju iz st. 2, 3 i 4 ovog člana, potrošač može zahtijevati vansudsku zaštitu ili zaštitu pred nadležnim sudom.
+(7) Odredbe st. 1 do 6 ovog člana shodno se primjenjuju i na postupak po prigovoru drugog učesnika ugovora o kreditu.
+(8) Kreditori i kreditni posrednici kojima Centralna banka izdaje dozvolu, odnosno odobrenje za rad, dužni su da podatke o prigovorima klijenata dostavljaju Centralnoj banci na način i u rokovima koje propisuje Centralna banka.

@@ -1,0 +1,18 @@
+# Član 8
+## Izuzeća od primjene
+(1) Ovaj zakon ne primjenjuje se na ugovore o:
+1) zakupu ili lizingu, ako u glavnom ili posebnom ugovoru nije utvrđena obaveza kupovine predmeta ugovora, osim ako o otkupu predmeta ugovora jednostrano odlučuje kreditor, kao ni na ugovore u kojima nije ugovoreno sticanje prava otkupa predmeta ugovora, po ugovorenoj cijeni, u toku ili na kraju ugovorenog perioda;
+2) kreditu u formi prekoračenja po računu kada se kredit mora otplatiti u roku od mjesec dana;
+3) kreditu bez kamata i bez drugih naknada, kao i ugovore o kreditu koje je potrošač dužan da otplati u roku do tri mjeseca, a plaćaju samo troškove u iznosu do pet eura;
+4) kreditu kojima poslodavac, kao sporednu djelatnost odnosno sindikalna organizacija odobrava kredit zaposlenima bez kamata ili po efektivnoj kamatnoj stopi nižoj od tržišnih;
+5) kreditu koji se zaključuju sa investicionim društvima u skladu sa zakonom koji uređuje tržište kapitala ili sa kreditnim institucijama u skladu sa zakonom koji uređuje poslovanje tih institucija, a čija je svrha da se investitoru omogući da sprovede transakciju koja se odnosi na jedan ili više finansijskih instrumenata u skladu sa zakonom kojim se uređuje tržište kapitala, ako je investiciono društvo ili kreditna instuticija koja odobrava kredit jedna od ugovornih strana uključenih u transakciju;
+6) kreditu koji se odnose na odlaganje plaćanja postojećeg duga, bez troškova, osim ako se radi o ugovorima koji su obezbijeđeni hipotekom ili drugim sličnim sredstvom obezbjeđenja na nepokretnosti ili obezbijeđen pravom u vezi sa nepokretnosti, i
+7) kreditu obezbijeđene zalogom na pokretnim stvarima, ako je odgovornost potrošača ograničena na vrijednost založene pokretne stvari.
+(2) Na ugovore o kreditu u formi dozvoljenog prekoračenja ako se kredit otplaćuje na zahtjev ili u roku do tri mjeseca ne primjenjuju se odredbe čl. 5, 12, 13, 14, člana 17 stav 1 tač. 4, 5 i 6 i stav 2, čl. 18 i 19, čl. 23 do 29, člana 32, člana 35 st. 3 i 7, čl. 37, 38, 39, 41, 42, 44, 45, 47 i 50 ovog zakona.
+(3) Na ugovore o kreditu u formi prećutno prihvaćenog prekoračenja ne primjenjuju se odredbe čl. 5, 12, 13, 14, čl. 17 do 26, čl. 28 do 39 i čl. 41 do 49 ovog zakona.
+(4) Na ugovore o kreditu koji uređuju mjere između kreditora i potrošača u pogledu odloženog plaćanja ili metoda otplate kada potrošač ne ispunjava obavezu plaćanja inicijalnog ugovora o kreditu ako je vjerovatno da bi te mjere mogle spriječiti mogućnost sudskog postupka zbog neplaćanja i ako potrošač time ne bi bio doveden u nepovoljnije uslove od uslova uređenih inicijalnim ugovorom o kreditu ne primjenjuju se odredbe čl. 12, 13, 14, 18, 19, 24, 26, 27, 28, 29, 30 i 32, člana 35 st. 1 i 2 i stav 3 tač. 11 i 12, tač. 14 do 25 i stav 5 i čl. 36, 39, 43, 45, 46 i 49 ovog zakona.
+(5) Na ugovor o kreditu iz stava 4 ovog člana, koji se otplaćuje na zahtjev ili u roku do tri mjeseca, primjenjuje se samo odredba stava 2 ovog člana.
+(6) Odredbe ovog zakona koje se odnose isključivo na ugovore o stambenom kreditu ne primjenjuju se na sljedeće ugovore o stambenom kreditu:
+1) ugovore o kreditu uz otplatu kredita iz vrijednosti založene nepokretnosti prema kojima kreditor isplaćuje kredit uplatom paušalnog iznosa, obročnim plaćanjem ili na drugi način u zamjenu za iznos koji proizlazi iz buduće prodaje nepokretnosti ili prava koje se odnosi na nepokretnost, i neće tražiti otplatu kredita dok se ne dogodi jedan ili više određenih događaja u životu potrošača, osim ako potrošač ne ispunjava ugovorne obaveze što povjeriocu omogućava da raskine ugovor o kreditu;
+2) ugovore o kreditu koji su rezultat sporazuma postignutog na sudu ili pred drugim tijelom određenim zakonom;
+3) ugovore o kreditu za privremeno finansiranje (premošćavanje).

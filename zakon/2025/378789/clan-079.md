@@ -1,0 +1,6 @@
+# Član 79
+## Dozvole za rad i odobrenja
+(1) Kreditni posrednici koji su na dan početka primjene ovog zakona upisani u evidenciju koja se vodi kod Centralne banke, odnosno Ministarstva nastavljaju da posluju kao kreditni posrednici, u skladu sa ovim zakonom na osnovu postojećeg upisa u evidenciju.
+(2) Kreditni posrednici iz stava 1 ovog člana koji pružaju usluge posredovanja pri stambenom kreditiranju dužni su da u roku od 30 dana od dana stupanja na snagu podzakonskog akta iz člana 56 stav 6 ovog zakona, podnesu Centralnoj banci zahtjev za izdavanje odobrenja za pružanje usluga posredovanja pri stambenom kreditiranju.
+(3) Kreditni posrednici koji u roku iz stava 2 ovog člana ne podnesu zahtjev za izdavanje odobrenja za pružanje usluga posredovanja pri stambenom kreditiranju ili zahtjev za izdavanje tog odobrenja bude odbijen, dužni su da odmah po isteku roka za podnošenje zahtjeva za izdavanje odobrenja za pružanje usluga posredovanja pri stambenom kreditiranju, odnosno odmah po prijemu rješenja kojim je odbijen zahtjev za izdavanje odobrenja, prestanu sa pružanjem usluga posredovanja pri stambenom kreditiranju.
+(4) Prema kreditnim posrednicima koji ne postupe u skladu sa stavom 3 ovog člana Centralna banka će preduzeti mjere u skladu sa ovim zakonom.
