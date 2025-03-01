@@ -1,0 +1,2 @@
+# Član 7
+Obavezuje se Đokić Osman, da u roku od 30 dana od dana od dana donošenja rješenja o davanju saglasnosti na idejno rješenje arhitektonskog projekta od strane glavnog državnog/gradskog arhitekte, sa Opštinom Bar zaključi poseban ugovor kojim će se regulisati međusobna prava i obaveze u vezi sa naknadom za komunalno opremanje građevinskog zemljišta, a u skladu sa važećom Odlukom o naknadi za komunalno opremanje građevinskog zemljišta.

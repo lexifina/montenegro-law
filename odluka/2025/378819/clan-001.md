@@ -1,0 +1,4 @@
+# Član 1
+## broj "9", zona "A", Blok "6" (A6-UP9), u zahvatu DUP-a "Topolica IV" u Baru
+Opština Bar, kao subjekat prava raspolaganja, prenosi fizičkom licu Đokić Osmanu iz Bara, uz naknadu, pravo svojine na zemljištu označenom katastarskim parcelama broj: 6124/1, po kulturi - neplodno zemljište, u površini od 145m2; 6124/7, po kulturi - neplodno zemljište, u površini od 6m2; 6292/5, po kulturi - voćnjak 1. klase, u površini od 13m2; 6293/10 po kulturi - livada 1. klase, u površini od 1m2 i 6293/11, po kulturi - livada 1. klase, u površini od 11m2, sve upisane u listu nepokretnosti broj 2293 KO Novi Bar.
+Pravo svojine na zemljištu iz prethodnog stava, prenosi se radi kompletiranja urbanističke parcele broj "9", u urbanističkoj zoni "A", urbanistički blok "6" (A6-UP9), u zahvatu DUP-a "Topolica IV" ("Sl. list CG - Opštinski propisi", br. 39/13).

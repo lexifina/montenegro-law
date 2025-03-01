@@ -1,0 +1,2 @@
+# Član 3
+Pravo svojine na zemljištu iz člana 1. ove odluke prenosi se uz naknadu od 344,15 €/m2, a što za površinu od 176m2, iznosi ukupno 61.000,00 €, shodno Izvještaju o procjeni vrijednosti nekretnine u zahvatu DUP-a "Topolica IV", sačinjenom od strane ovlašćenog procjenjivača Šupić Milana, dipl. ecc. iz Podgorice, protokolisanog kod Opštine Bar pod brojem: 04-427/24-1908 od 17.09.2024. godine.
