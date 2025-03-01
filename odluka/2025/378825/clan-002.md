@@ -1,0 +1,2 @@
+# Član 2
+Urbanističku parcelu broj 18, zona "B", u zahvatu DUP-a "Ilino", pored nepokretnosti iz člana 1 ove odluke, čine nepokretnosti označene katastarskom parcelom broj 4151/1, po kulturi - livada 1. klase, u površini od 465m2 i katastarskom parcelom broj 4152, po načinu korišćenja - zgrada u trgovini, ugostiteljstvu i turizmu, broj zgrade 1, u površini od 35m2, obije svojina "BI-SI BUILDINGS" d.o.o. Bar, u obimu prava 1/1, shodno listu nepokretnosti broj 4892 KO Novi Bar.
