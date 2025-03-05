@@ -1,0 +1,5 @@
+# Član 150
+## Pribavljanje upotrebne dozvole za objekte od opšteg interesa
+Za objekat iz člana 7 stav 2 Zakona o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 34/11, 35/13 i 33/14), za koji je građevinska dozvola izdata u skladu sa tim zakonom i za objekat za koji je građevinska dozvola izdata u skladu sa Zakonom o planiranja prostora i izgradnji objekata ("Službeni list CG", br. 64/17, 44/18, 63/18, 82/20, 86/22 i 4/23), koji se ne mogu samostalno koristiti, a zajedno čine funkcionalnu cjelinu, izdaje se jedna upotrebna dozvola.
+U slučaju iz stava 1 ovog člana upotrebna dozvola i tehnički pregled objekata, vrši se u skladu sa Zakonom o uređenju prostora i izgradnji objekata ("Službeni list CG", br. 51/08, 34/11, 35/13 i 33/14).
+Uz zahtjev za izdavanje dozvole iz stava 1 ovog člana, podnose se izvještaji komisije za tehnički pregled, propisane izjave za objekte u skladu sa izdatim građevinskim dozvolama, kao i zajednički izvještaj vršilaca tehničkog pregleda, da su objekti podobni za upotrebu.

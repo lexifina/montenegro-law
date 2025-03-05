@@ -1,0 +1,1 @@
+# 1. Statusne odredbe

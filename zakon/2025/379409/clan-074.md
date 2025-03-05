@@ -1,0 +1,9 @@
+# Član 74
+## Vrste pomoćnih objekata
+Pomoćnim objektima smatraju se:
+1) pomoćni objekti koji služe korišćenju stambenog odnosno poslovnog objekta (garaže, portirnice, objekti za radnike obezbjeđenja, bazeni, potporni zidovi, objekti za naplatu, pergole, info-pultovi, ostave i slični objekti koji nijesu u sklopu osnovnog objekta, spratnosti jedne nadzemne etaže i bruto površine do 30m2, bunari, ograde, plinski sistemi, gasne stanice i podstanice za atmosferske gasove i ugljen-dioksid namijenjene za industriju, medicinu i upotrebu u prehrani ukupne zapremine punih i praznih prenosnih posuda pod pritiskom do 2m3 za kriogene tečne gasove, odnosno do 0,6m3 za komprimovane ili tečne gasove pod pritiskom, objekti u funkciji grijanja odnosno hlađenja, elektronske bežične pristupne tačke kratkog dometa i slični objekti);
+2) pristupne rampe, liftovi i slični objekti za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom;
+3) ekonomski objekti na poljoprivrednom gazdinstvu (objekti za gajenje životinja, prateći objekti za gajenje životinja, objekti za skladištenje stočne hrane, objekti za smještaj poljoprivredne mehanizacije, alata i oruđa, objekti za skladištenje poljoprivrednih proizvoda, objekti za preradu poljoprivrednih proizvoda na gazdinstvu, plastenici i drugi slični objekti);
+4) pomoćni objekti u funkciji zaštite i valorizacije nepokretnih kulturnih dobara (zaštitne konstrukcije, centri za posjetioce, info-pultovi, prostori za prezentacije) spratnosti jedne nadzemne etaže i bruto površine do 50m2;
+5) pomoćni objekti uređenja javnih zelenih površina odnosno terena (ograde, bunari, fontane, česme, urbani mobilijar, pergole, objekti osvjetljenja, urbane bašte, bazeni, nadstrešnice, potporni zidovi i slični objekti).
+Bliže uslove, način postavljanja i uklanjanja pomoćnih objekata iz stava 1 ovog člana propisuje skupština jedinice lokalne samouprave, uz prethodnu saglasnost Ministarstva.

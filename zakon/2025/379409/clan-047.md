@@ -1,0 +1,13 @@
+# Član 47
+## Izmjena revidovanog glavnog projekta usljed nedostataka i nepredviđenih okolnosti
+Ako izvođač radova primijeti nedostatke u revidovanom glavnom projektu, koji ne utiču na promjenu koridora infrastrukture, promjenu horizontalnih i vertikalnih gabarita objekta, kao ni promjenu fasade zgrade, ako je objekat koji se gradi zgrada, dužan je da pisanim putem, u roku od jednog dana od dana kada je primijetio nedostatke, upozori stručni nadzor.
+Ako stručni nadzor primijeti nedostatke u revidovanom glavnom projektu, odnosno ocijeni da su primjedbe izvođača radova iz stava 1 ovog člana opravdane, naložiće investitoru da bez odlaganja izvrši izmjenu glavnog projekta i njegovu reviziju i o tome će obavijestiti građevinskog inspektora.
+Investitor odnosno projektant koji je izradio glavni projekat, dužan je da bez odlaganja otkloni nedostatke iz st. 1 i 2 ovog člana, na koje je bio upozoren.
+U slučaju da investitor odnosno projektant koji je izradio glavni projekat ne postupi u skladu sa stavom 3 ovog člana, stručni nadzor je dužan da, u roku od sedam dana od dana prijema upozorenja, o tome obavijesti građevinskog inspektora.
+Nedostacima iz stava 1 ovog člana smatra se i neispunjavanje uslova iz člana 30 ovog zakona.
+Ako nedostaci iz stava 1 ovog člana, ugrožavaju život i zdravlje ljudi, sigurnost objekta, okolinu, saobraćaj i/ili susjedne objekte, izvođač radova dužan je da, po nalogu stručnog nadzora, obustavi izvođenje radova.
+U slučaju iz stava 6 ovog člana, stručni nadzor dužan je da obavijesti investitora i građevinskog inspektora i izda nalog izvođaču radova da preduzme radove u skladu sa članom 68 ovog zakona.
+Ako izvođač radova zbog nedostataka prouzrokovanih nepredviđenim okolnostima (nedovoljna nosivost tla, visoki nivo podzemnih voda, promjene djelova elemenata i opreme koja je fabrički proizvedena i instalacije i sl.), ne može da izvodi radove po revidovanom glavnom projektu, dužan je da bez odlaganja o tome obavijesti stručni nadzor, a koji o tome obavještava građevinskog inspektora, u roku od tri dana od dana prijema obavještenja izvođača radova.
+U slučaju iz stava 8 ovog člana, investitor odnosno projektant koji je izradio glavni projekat vrši izmjenu glavnog projekta, nakon prijema zapisnika građevinskog inspektora kojim se potvrđuje postojanje nepredviđenih okolnosti.
+Revizija projekta iz stava 9 ovog člana je obavezna.
+Izvođač radova dužan je da obavijesti građevinskog inspektora u slučaju nailaska na arheološka nalazišta, fosile, aktivna klizišta, podzemne vode i slične nepredviđene okolnosti, u roku od tri dana od dana nailaska i obustavi radove koji ih mogu ugroziti.

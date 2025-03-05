@@ -1,0 +1,5 @@
+# Član 106
+## Zabrana konflikta interesa
+Zabranjeno je da reviziju tehničke dokumentacije vrši investitor, privredno društvo, pravno lice odnosno preduzetnik koje je izradilo tehničku dokumentaciju, odnosno učestvovalo u izradi tehničke dokumentacije ili dijela tehničke dokumentacije, fizičko lice zaposleno u privrednom društvu, pravno lice odnosno preduzetnik koje je izradilo tehničku dokumentaciju ili dio tehničke dokumentacije ili je učestvovao u njenoj izradi, kao i fizičko lice zaposleno kod investitora.
+Zaabranjeno je da stručni nadzor nad građenjem objekta vrši investitor, fizičko lice zaposleno kod investitora, privredno društvo, pravno lice odnosno preduzetnik koje je izvođač radova na tom objektu i lice zaposleno u privrednom društvu, pravnom licu odnosno preduzetniku koje je izvođač radova na tom objektu.
+Zabranjeno je da tehnički pregled objekta vrši investitor, fizičko lice zaposleno kod investitora, privredno društvo, pravno lice odnosno preduzetnik koje vrši stručni nadzor na tom objektu i lice zaposleno u privrednom društvu, pravnom licu odnosno preduzetniku koje vrši stručni nadzor na tom objektu.

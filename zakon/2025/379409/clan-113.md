@@ -1,0 +1,3 @@
+# Član 113
+## Obrasci
+Obrasce zahtjeva iz: člana 24 stav 1, člana 33 stav 1, člana 39 stav 2, člana 44 stav 1, člana 48 stav 6, člana 54 stav 1, člana 68 stav 2, člana 107 stav 2, člana 109 stav 1, člana 122 stav 1, člana 124 stav 1 alineja 1 i člana 125 stav 1; prijave iz:, člana 39 stav 4, člana 40 stav 1, člana 42 stav 1, člana 48 stav 5, člana 51 stav 3, člana 69 stav 1; obavještenja iz: člana 37 stav 3, člana 47 st. 2, 7 i 8, člana 62 stav 1, člana 76 stav 5, člana 81 stav 9, člana 84 stav 5, člana 107 stav 8 i člana 108 stav 8 i izjava iz: člana 34 stav 2 tačka 3, člana 52 stav 8, člana 54 stav 4 tačka 1, člana 57 stav 4, člana 95 stav 1 i člana 96 stav 1 ovog zakona propisuje Ministarstvo.

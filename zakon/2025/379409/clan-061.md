@@ -1,0 +1,6 @@
+# Član 61
+## Probni rad i funkcionalno ispitivanje
+Kod objekata koji imaju ugrađene instalacije, opremu i postrojenja koja služe tehnološkom procesu djelatnosti investitora, a ne samom objektu, kao i kod objekata kupaca-proizvođača koji imaju ugrađene unutrašnje instalacije za proizvodnju električne energije u skladu sa zakonom kojim se uređuje korišćenje energije iz obnovljivih izvora, investitor odnosno kupac-proizvođač će po završetku montaže, funkcionalnih ispitivanja (kratkotrajna ispitivanja opreme i instalacija sa uključenim napajanjem u cilju provjere njihovog povezivanja, ispravnog funkcionisanja i podešavanja parametara), a prije konačnog tehničkog pregleda pristupiti probnom radu, uz prethodno pribavljenu saglasnost nadležnih inspekcija, a na osnovu predloga stručnog nadzora da su se stekli uslovi za puštanje objekta u probni rad.
+Nakon pribavljene saglasnosti i predloga stručnog nadzora iz stava 1 ovog člana, građevinski inspektor u roku od 15 dana izdaje rješenje o probnom radu.
+Probnim radom utvrđuje se kvalitet ugrađenog materijala, izvedenih radova, ispituje funkcionisanje ugrađenih instalacija, opreme i postrojenja i ispunjavanje projektom predviđenih parametara tehničkog procesa.
+Uslovi i trajanje probnog rada utvrđuju se glavnim projektom.

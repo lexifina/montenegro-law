@@ -1,0 +1,7 @@
+# Član 93
+## Djelatnost stranog lica koje posjeduje ovlašćenje za obavljanje djelatnosti
+Strano privredno društvo odnosno strano fizičko lice koje posjeduje odobrenje, licencu ili drugo ovlašćenje za djelatnost izgradnje objekata izdato od strane nadležnog organa države prebivališta stranog lica, odnosno koje je upisano u odgovarajući registar nadležnog organa druge države prebivališta stranog lica (u daljem tekstu: ovlašćenje), ima pravo da u Crnoj Gori, pod uslovima reciprociteta, obavlja djelatnost ako ispunjava uslove utvrđene ovim zakonom i ako je upisan u registar iz člana 99 ovog zakona, a strano fizičko lice ako ispunjava i uslove utvrđene zakonom kojim se uređuje priznavanje profesionalnih kvalifikacija za obavljanje regulisanih profesija, ako ima položen stručni ispit i ako ispunjava uslove utvrđene zakonom kojim se uređuje zapošljavanje i rad stranaca.
+Uslovi reciprociteta iz stava 1 ovog člana ne odnose se na državljane države potpisnice Ugovora o evropskom ekonomskom prostoru (u daljem tekstu: EEP).
+Strano privredno društvo iz države EEP koje posjeduje ovlašćenje, može da obavlja djelatnost utvrđenu ovim zakonom pod uslovom da se ovlašćenje odnosi na djelatnost uređenu ovim zakonom.
+Strano fizičko lice, državljanin države EEP koje posjeduje ovlašćenje, može da obavlja djelatnost utvrđenu ovim zakonom, pod uslovom da se ovlašćenje odnosi na djelatnost uređenu ovim zakonom.
+Privredno društvo odnosno fizičko lice iz st. 3 i 4 ovog člana, dužno je da, prije početka prvog posla, odobrenje dostavi Ministarstvu.
