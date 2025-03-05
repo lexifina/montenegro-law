@@ -1,0 +1,6 @@
+# Član 91
+## Djelatnost stranca koji posjeduje ovlašćenje za obavljanje djelatnosti
+Stranac koji posjeduje odobrenje, licencu ili drugo ovlašćenje za djelatnost izrade planskih dokumenata izdato od strane nadležnog organa države prebivališta stranca odnosno koje je upisano u odgovarajući registar nadležnog organa države prebivališta stranca (u daljem tekstu: ovlašćenje) ima pravo da u Crnoj Gori, pod uslovima reciprociteta, obavlja tu djelatnost ako ispunjava uslove utvrđene ovim zakonom, zakonom kojim se uređuje priznavanje profesionalnih kvalifikacija za obavljanje regulisanih profesija, ako je upisan u registar iz člana 98 ovog zakona i ako ispunjava uslove utvrđene zakonom kojim se uređuje zapošljavanje i rad stranaca.
+Uslovi reciprociteta iz stava 1 ovog člana ne odnose se na državljane države potpisnice Ugovora o evropskom ekonomskom prostoru i Švajcarske konfederacije (u daljem tekstu: EEP).
+Stranac koji je državljanin države EEP koji posjeduje ovlašćenje može da obavlja djelatnost izrade planskih dokumenata, pod uslovom da se ovlašćenje odnosi na djelatnost uređenu ovim zakonom.
+Stranac je dužan da, prije početka prvog posla, ovlašćenje dostavi Ministarstvu, odnosno urbanističkom inspektoru.

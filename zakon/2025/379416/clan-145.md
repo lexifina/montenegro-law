@@ -1,0 +1,6 @@
+# Član 145
+## Izdavanje urbanističko-tehničkih uslova po posebnom postupku
+Do donošenja planskih dokumenata koji, u skladu sa ovim zakonom, sadrže urbanističko- tehničke uslove, urbanističko-tehnički uslovi za izradu tehničke dokumentacije za izgradnju objekata od opšteg interesa iz člana 15 ovog zakona, mogu se, na zahtjev vlasnika odnosno nosioca drugog prava na zemljištu, izdati aktom Vlade odnosno izvršnog organa jedinice lokalne samouprave samo za područje za koje nije donijet planski dokument sa detaljnom razradom i u skladu sa planskim dokumentom šire teritorijalne cjeline u pogledu namjene prostora.
+Izuzetno od stava 1 ovog člana, za izgradnju objekata infrastrukture urbanističko-tehnički uslovi se mogu izdati i za područje za koje je donijet planski dokument sa detaljnom razradom.
+Urbanističko-tehnički uslovi iz st. 1 i 2 ovog člana izdaju se po prethodno pribavljenom mišljenju organa državne uprave nadležnih za zaštitu životne sredine, poljoprivredu, šumarstvo, organa uprave nadležnog za zaštitu kulturnih dobara, jedinice lokalne samouprave na kojoj se zemljište nalazi, kao i pravnih lica nadležnih za uslove priključenja na infrastrukturu.
+Urbanističko-tehnički uslovi iz st. 1 do 3 ovog člana izdaju se na period od dvije godine.

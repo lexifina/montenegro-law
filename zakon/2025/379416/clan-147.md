@@ -1,0 +1,4 @@
+# Član 147
+## infrastrukturu
+Do donošenja planskih dokumenata koji, u skladu sa ovim zakonom, sadrže urbanističko- tehničke uslove, urbanističko-tehnički uslovi za izradu tehničke dokumentacije za izgradnju elektro- energetske odnosno elektronske komunikacione infrastrukture i povezane opreme i/ili elektronsko komunikacione mreže, za područje za koje nije donijet planski dokument sa detaljnom razradom odnosno za područje za koje nije predviđena takva vrsta objekta, izdaju se u skladu sa uslovima organa za posebne uslove nadležnog za poslove energetike i regulatornog organa nadležnog za poslove telekomunikacija.
+U slučaju iz stava 1 ovog člana elektro-energetska odnosno elektronska komunikaciona infrastruktura i povezana oprema i/ili elektronsko komunikaciona mreža smatra se državnim objektom od opšteg interesa.

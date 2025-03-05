@@ -1,0 +1,6 @@
+# Član 36
+## Dostavljanje podataka i dokumenata
+Organ za posebne uslove dužan je da, na zahtjev obrađivača, dostavi sve podatke, dokumente i bazne studije (u daljem tekstu: podloge) potrebne za izradu planskog dokumenta (ažurne i ovjerene kopije topografskog i katastarskog plana sa podacima o vlasništvu, digitalne zapise, katastar podzemnih instalacija, geodetske podloge, geološke podloge, uključujući podloge za davanje koncesija za istraživanje i eksploataciju mineralnih sirovina, ortofoto snimke, planove razvoja, morske, fizičke, ekološke, društveno-ekonomske podatke i dr.), u roku od deset dana od dana podnošenje zahtjeva.
+Organ uprave nadležan za poslove katastra (u daljem tekstu: Katastar) dužan je da, na zahtjev nosioca pripremnih poslova, dostavi raspoložive podatke o nadzemnim i podzemnim vodovima sa pripadajućim uređajima i postrojenjima (vodovod, kanalizacija, toplovod, naftovod, elektro- energetski vodovi, elektronski komunikacioni objekti, drenaža, industrijski i drugi vodovi) u roku od deset dana od dana podnošenja zahtjeva.
+Pripadajućim uređajima i postrojenjima iz stava 2 ovog člana smatraju se uređaji koji su izgrađeni na vodovima i koji omogućavaju funkcionisanje i cjelishodno korišćenje vodova (okna, stubovi, armature i dr.).
+Podloge i podaci iz st. 1 i 2 ovog člana dostavljaju se obrađivaču bez naknade.
