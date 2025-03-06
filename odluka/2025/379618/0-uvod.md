@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 i 15 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 43 stav 1, člana 45 i člana 48 stav 1 i 3 Zakona o finansiranju lokalne samouprave ("Sl. list CG", br. 03/19 i 86/22) i člana 73 stav 1, tačka 16 i Statuta Prijestonice ("Službeni list CG - Opštinski propisi", br. 48/18 i 17/21), Skupština Prijestonice Cetinje, na sjednici održanoj dana 25.02.2025. godine, donijela je
+ODLUKU

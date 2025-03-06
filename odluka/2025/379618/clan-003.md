@@ -1,0 +1,2 @@
+# Član 3
+Uslovi kredita (rok vraćanja, kamatna stopa, sredstva za obezbjeđivanje kredita i dr.) biće utvrđeni ugovorom o prenosu kreditnih sredstava koja su obezbijeđena iz aranžmana zaključenog između Vlade Crne Gore i EIB za potrebe finansiranja projekta, koji će biti sklopljen između Prijestonice Cetinje, Ministarstva finansija Crne Gore, Ministarstva ekologije, održivog razvoja i razvoja sjevera i DOO "Project-Consulting" - Podgorica (PROCON).
