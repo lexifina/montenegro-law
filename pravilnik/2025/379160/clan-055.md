@@ -1,0 +1,4 @@
+# Član 55
+U slučaju prestanka mandata, Predsjednik Skupštine imenuje prvog neizabranog člana Regionalnog odbora sa prethodno utvrđene liste kandidata za člana Regionalnog odbora, a shodno poslednjem glasanju održanom za izbor članova Regionalnog odbora i u skladu s raspodjelom mandata uređenom ovim Statutom.
+Ukoliko nema neizabranih članova, odnosno, ako član Komore odbije da bude član Regionalnih odbora, predsjednik Skupštine zakazaće izbore za nedostajućeg člana Regionalnog odbora. Izbori se moraju održati u najkraćem mogućem periodu, a svakako ne dužem od 60 dana od dana prestanka mandata.
+Predsjednik Skupštine obavezan je raspisati izbore i raspustiti Skupštinu u slučaju da broj članova Skupštine bude ispod 2/3 od ukupnog broja članova Skupštine u neprekidnom trajanju od 60 (šestdeset) dana.

@@ -1,0 +1,2 @@
+# Član 48
+Izuzetno, ako ni nakon sprovođenja principa iz prethodnog člana nije moguće imenovati sve članove Regionalnog odbora, mjesto u Regionalnom odboru popuniće se sa izborne liste Jedinice lokalne samouprave s najvećim brojem članova Komore na teritoriji Crne Gore, odnosno, ako to nije moguće, onda s izborne liste sledeće jedinice lokalne samouprave s najvećim brojem članova na teritoriji Crne Gore. Navedeni princip se dosledno sprovodi dok se ne formira Regionalni odbor s predviđenim brojem članova.

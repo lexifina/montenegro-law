@@ -1,0 +1,2 @@
+# Član 47
+U slučaju da se iz jedinica lokalnih samouprava ne može imenovati potreban broj članova, član Regionalnog odbora imenovaće se s izborne liste Jedinice lokalne samouprave s najvećim brojem članova Komore iz istog Regionalnog odbora, odnosno, ako to nije moguće, onda s izborne liste sledeće jedinice lokalne samouprave s najvećim brojem članova Komore istog Regionalnog odbora. Navedeni princip se dosledno sprovodi dok se ne formira Regionalni odbor s predviđenim brojem članova.
