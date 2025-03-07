@@ -1,0 +1,2 @@
+Na osnovu član 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 53 stav 9 i člana 160 stav 1 tačka 3 Zakona o audiovizuelnim medijskim uslugama ("Službeni list Crne Gore", br. 54/24) i člana 35 stav 1 tačka 22 Statuta Opštine Danilovgrad ("Sl. list CG - Opštinski propisi", br. 43/18), Skupština opštine Danilovgrad, na sjednici održanoj 18.2., 21.2. i 24.2. 2025. godine, donijela je
+ODLUKU
