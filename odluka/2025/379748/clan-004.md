@@ -1,0 +1,3 @@
+# Član 4
+Cilj parlamentarne istrage je da Skupština Crne Gore, na osnovu Izvještaja ovog Odbora, sačinjenog na osnovu prikupljenih informacija, datih izjava pred Odborom, izvršenog uvida u relevantnu dokumentaciju i na drugi način utvrđenog činjeničnog stanja, ocijeni da li je (ne) postupanje nadležnih državnih organa i drugih subjekata bio rezultat namjernog skrivanja činjenica od strane nadležnih državnih organa i drugih subjekata.
+Nakon toga, potrebno je utvrditi eventualno postojanje političke odgovornosti konkretnih lica, te u krajnjem pokrenuti kod nadležnih organa postupke eventualne krivično-pravne i druge odgovornosti.
