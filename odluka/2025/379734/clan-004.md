@@ -1,0 +1,3 @@
+# Član 4
+Koordinaciono tijelo može tražiti podatke, objašnjenja i izvještaje u vezi sa pitanjima koja se odnose na realizaciju zadataka iz člana 2 ove odluke od državnih organa, organa državne uprave, organa lokalne samouprave, organa lokalne uprave, drugih nadležnih institucija, komora i drugih udruženja učesnika na tržištu, u vezi sa pitanjima o proizvodima od posebnog značaja za život i zdravlje ljudi.
+Koordinaciono tijelo može da traži podatke i izvještaje od privrednih društava koja se bave trgovinom na veliko i malo, radi praćenja kretanja cijena i snabdjevenosti tržišta proizvoda od posebnog značaja za život i zdravlje ljudi.
