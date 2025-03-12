@@ -1,0 +1,4 @@
+# Član 2
+U članu 6 st. 1 i 2 mijenjaju se i glase:
+"Određeno bilje koje je označeno kao zaraženo štetnim organizmom u skladu sa članom 5 stav 1 tačka d alineja 1 ne smije se saditi, a držaoci bilja, pod službenim nadzorom fitosanitarnog inspektora, odnosno Uprave, treba da obezbijede da se zaraženo određeno bilje uništi ili zbrine na drugi način, u skladu sa Prilogom 5 tačka 1 ovog pravilnika, pod uslovom da se utvrdi da nema rizika od širenja štetnog organizma.
+Ako je određeno bilje posađeno prije nego što je označeno kao zaraženo, posađeni materijal odmah se uništava ili na drugi način zbrinjava u skladu sa Prilogom 4 tačka 1 ovog pravilnika, a proizvodne jedinice u kojima je posađeno zaraženo određeno bilje označavaju se kao zaražene i uspostavlja se obilježeno područje u skladu sa članom 5 stav 1 tačka b."
