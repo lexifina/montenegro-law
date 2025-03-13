@@ -1,0 +1,2 @@
+# Član 12
+Agencija dostavlja informacije iz dozvole drugoj državi u isto vrijeme kada se te informacije stavljaju na uvid državljanima Crne Gore ako ocijeni da rad objekta i/ili postrojenja za otpad iz rudarstva kategorije A može imati značajne nepovoljne efekte na životnu sredinu u drugoj državi i opasnost po ljudsko zdravlje u toj državi ili ako druga država koja može imati značajne nepovoljne efekte na životnu sredinu i opasnost po ljudsko zdravlje to zahtijeva.
