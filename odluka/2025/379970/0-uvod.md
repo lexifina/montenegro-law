@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tačka 3 Ustava Crne Gore i člana 52 Zakona o zaštiti podataka o ličnosti ("Službeni list CGˮ, br. 79/08, 70/09, 44/12, 22/17 i 77/24), Skupština Crne Gore 28. saziva, na Prvoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2025. godini, dana 13. marta 2025. godine, donijela je
+ODLUKU O IMENOVANJU JEDNE ČLANICE SAVJETA AGENCIJE ZA ZAŠTITU LIČNIH PODATAKA I SLOBODAN PRISTUP INFORMACIJAMA
