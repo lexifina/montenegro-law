@@ -1,0 +1,6 @@
+Na osnovu člana 82 stav 1 tačka 3 Ustava Crne Gore i člana 5 Odluke o otvaranju Parlamentarne istrage i formiranju Anketnog odbora radi prikupljanja informacija i činjenica o postupanjima državnih organa i drugih subjekata u slučajevima politički motivisanih ubistava koja su se dogodila od uvođenja višestranačja do danas kao i okolnosti fizičkih napada i prebijanja novinara i drugih slobodnih intelektualaca od strane policijskih službenika poznatih kao "Crne trojke", a za koje su se u javnosti pojavljivale informacije da su bile zadužene za prebijanje političkih neistomišljenika tadašnje vlasti, Skupština Crne Gore 28. saziva, na Prvoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2025. godini, dana 12. marta 2025. godine, donijela je
+ODLUKU
+O IZBORU PREDSJEDNIKA, ZAMJENIKA PREDSJEDNIKA I ČLANOVA ANKETNOG
+ODBORA ZA PRIKUPLJANJE INFORMACIJA I ČINJENICA O POSTUPANJIMA DRŽAVNIH ORGANA I DRUGIH SUBJEKATA U SLUČAJEVIMA POLITIČKI MOTIVISANIH UBISTAVA KOJA SU SE DOGODILA OD UVOĐENJA VIŠESTRANAČJA DO DANAS KAO I OKOLNOSTI FIZIČKIH NAPADA I
+PREBIJANJA NOVINARA I DRUGIH SLOBODNIH INTELEKTUALACA OD STRANE POLICIJSKIH SLUŽBENIKA POZNATIH KAO "CRNE TROJKE", A ZA KOJE SU SE U JAVNOSTI POJAVLJIVALE INFORMACIJE DA SU BILE ZADUŽENE ZA PREBIJANJE
+POLITIČKIH NEISTOMIŠLJENIKA TADAŠNJE VLASTI
