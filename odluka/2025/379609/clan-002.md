@@ -1,0 +1,2 @@
+# Član 2
+Urbanističku parcelu broj 5, zona "B", Blok "5", u zahvatu DUP-a "Žukotrlica", pored nepokretnosti iz člana 1 ove odluke čini i nepokretnost označena kao katastarska parcela broj 3298/1, po kulturi porodična stambena zgrada br. 1, povšine 183m2, garaža površine 45m2, pašnjak 3. klase površine 147m2, dvorište površine 500m2, upisane u list nepokretnosti 1484 KO Novi Bar, kao svojina Radulović Dragana, u obimu prava 1/1.
