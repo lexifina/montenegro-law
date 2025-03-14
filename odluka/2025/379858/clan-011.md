@@ -1,0 +1,43 @@
+# Član 11
+## Kriterijumi za utvrđivanje Rang liste sufinansiranja Adaptacije zgrada
+Kriterijumi za utvrđivanje Rang liste sufinansiranja Adaptacije zgrada određeni su po grupama, a svaka grupa je podijeljena na podgrupe koje se vrednuju dodjeljivanjem bodova na način kako slijedi:
+1. Lokacija zgrade u skladu sa važećim zoningom prostora Prijestonice Cetinje:
+a) Zona Ia - zahvat zaštićenog Istorijskog jezgra 50 bodova;
+b) Zona II - zahvat DUP-a Aerodrom i dio zahvata DUP-a Bogdanov kraj
+40 bodova;
+c) Zona III - dio zahvata DUP-a Gruda-Donje polje, zahvat DUP-a Donji kraj, dio zahvata DUP-a Bogdanov kraj i Zona VI - zahvati GUR-a Njeguši i GUR-a Rijeka Crnojevića
+30 bodova;
+d) Zona IV - zahvat DUP-a Bajice, dio zahvata DUP-a Gruda-Donje polje, zahvat DUP-a Crna Greda .............................................................
+20 bodova;
+e) preostali prostor koji nije obuhvaćen navedenim zonama
+10 bodova;
+2. Građevinsko stanje spoljašnjih djelova zgrade:
+a) u cjelosti oštećeni .................................
+50 bodova
+b) oštećeni više od 50% površine ..............
+40 bodova
+c) mjestimično oštećeni, oštećeno je manje od 50% površine
+30 bodova
+d) zadovoljavajuće stanje ..........................
+10 bodova
+3. Godina izgradnje zgrade/starost zgrade ako je poznata ili prema građevinskim karakteristikama:
+a) starija od 50 godina...............................
+50 bodova
+b) od 41 do 50 godina ...............................
+45 bodova
+c) od 31 do 40 godina ...............................
+40 bodova
+d) od 21 do 30 godina ...............................
+30 bodova
+e) od 11 do 20 godina ...............................
+10 bodova
+4. Ukupna procjena hitnosti izvođenja radova na Adaptaciji zgrade, u odnosu na stanje:
+a) vrlo hitna obnova ..................................
+50 bodova
+b) hitna obnova .........................................
+40 bodova
+c) manje hitna obnova ...............................
+30 bodova
+d) potrebna obnova, ali nije hitna ..............
+20 bodova
+Komisija može utvrditi i druge kriterijume za utvrđivanje Rang liste iz stave 1 ovog člana ukoliko je to opravdano, (veći broj posebnih djelova, veći broj posebnih djelova namijenjenih primarnom stanovanju po podacima nadležnog organa Prijestonice Cetinje).

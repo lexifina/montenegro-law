@@ -1,0 +1,3 @@
+# Član 5
+Izuzetno od člana 2 ove odluke zgrade starije od 50 godina, na prijedlog Komisije iz člana 9 ove odluke, zbog estetskog unapređenja i poboljšanja uslova stanovanja, kao i javnog interesa u odnosu na bezbjednost stanara i drugih korisnika stambenih i stambeno-poslovnih zgrada, mogu se finansirati u procentu do 80% iznosa prihvaćene predračunske vrijednosti radova iskazane u najpovoljnijoj ponudi izvođača radova, a najviše do 40.000 € sa uračunatim PDV-om.
+Za zgrade iz stava 1 ovog člana, kao i člana 2 stav 2 ove odluke Komisija će u saradnji sa Upravnikom zgrade odrediti boje fasade, izuzev za zgrade iz zaštićenih zahvata prostora, za koje je nadležna Uprava za zaštitu kulturnih dobara Crne Gore.
