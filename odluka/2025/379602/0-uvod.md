@@ -1,0 +1,3 @@
+Na osnovu člana 14 stav 1 i člana 15 stav 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 2/18, 66/19, 140/22 i 84/24), člana 155 stav 1 Zakona o vodama ("Službeni list Republike Crne Gore", br. 27/07, Službeni list Crne Gore", br. 73/10, 32/11, 47/11, 48/15, 52/16, 55/16, 2/17, 80/17 i 84/18") i člana 73 stav 1 tačka 2 i tačka 33 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", br. 49/18 i 17/21), Skupština Prijestonice Cetinje, na sjednici održanoj dana 25.02.2025. godine, donijela je
+ODLUKU
+o upravljanju komunalnim otpadnim vodama i atmosferskim vodama na teritoriji Prijestonice Cetinje

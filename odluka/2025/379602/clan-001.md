@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom propisuju se način i uslovi organizovanja i obavljanja komunalnih djelatnosti upravljanja komunalnim otpadnim vodama i upravljanja atmosferskim vodama na području Prijestonice Cetinje (u daljem tekstu: Prijestonica), uslovi za pružanje komunalnih usluga, uslovi priključenja i održavanja objekata javnog kanalizacionog sistema na području Prijestonice, prava i obaveze vršioca komunalne djelatnosti i korisnika usluga kao i druga pitanja od značaja za vršenje djelatnosti upravljanja komunalnim otpadnim vodama i upravljanja atmosferskim vodama.

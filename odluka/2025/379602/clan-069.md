@@ -1,0 +1,2 @@
+# Član 69
+Danom stupanja na snagu ove odluke prestaje da važi Odluka o odvođenju i prečišćavanju fekalnih voda sa područja grada ("Službeni list RCG - Opštinski propisi", br. 24/04, "Službeni list Crne Gore - Opštinski propisi", br. 20/10 i 53/16) kao i Odluka o sakupljanju i odvođenju atmosferskih voda sa područja grada ("Službeni list RCG - Opštinski propisi", br. 24/04, "Službeni list Crne Gore - Opštinski propisi", br. 20/10 i 53/16).
