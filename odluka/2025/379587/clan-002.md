@@ -1,0 +1,4 @@
+# Član 2
+Pravo učešća po Javnom pozivu imaju žene preduzetnice i privredna društva u kojima je žena nosilac biznisa - osnivač ili jedan od osnivača ili izvršni direktor, sa prebivalištem, odnosno sjedištem na teritoriji Prijestonice Cetinje, koje žele da pokrenu ili unaprijede sopstveni biznis. Ukoliko žena podnosilac prijave nema registrovanu djelatnost, a sredstva budu odobrena, mora svoju djelatnost registrovati shodno Zakonu o privrednim društvima ili na način definisan pravilima djelatnosti kojom namjerava da se bavi (zanatstvo, turizam i sportske djelatmosti), najkasnije do dana potpisivanja ugovora.
+Društvo/preduzetnica može konkurisati sa najviše dva biznis plana, a podršku može dobiti samo jedan biznis plan.
+Pravo učešća nemaju preduzetnice koje su po ranijim javnim pozivima koristile sredstva za podršku ženskom preduzetništvu.
