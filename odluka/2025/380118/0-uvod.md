@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 26 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 54 stav 1 tačka 31 i 36 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21 i 49/22) i člana 18 Odluke o obrazovanju radnih tijela Skupštine Glavnog grada - Podgorice ("Službeni list Crne Gore - Opštinski propisi", br. 31/19 i 50/23), Skupština Glavnog grada - Podgorice, na sjednici održanoj 18. marta 2025. godine, donijela je
+ODLUKU
