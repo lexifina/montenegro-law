@@ -1,0 +1,3 @@
+# Član 9
+Predsjedniku, zamjeniku predsjednika, sekretaru, starješini organa uprave nadležnom za poslove ugljovodonika, predstavniku organa državne uprave nadležnom za poslove finansija, predstavniku regulatornog tijela za energetiku, predstavniku organa uprave nadležnom za poslove carina, pripada naknada za rad u Savjetu u skladu sa članom 2 Odluke o kriterijumima za utvrđivanje visine naknade za rad člana radnog tijela ili drugog oblika rada ("Službeni list CG", br. 26/12, 27/13, 44/22 i 78/22).
+Naknada iz stava 1 ovog člana isplaćuje se iz budžetskih sredstava organa na čiji predlog su određeni predsjednik, zamjenik predsjednika, sekretar i članovi Savjeta iz stava 1 ovog člana.
