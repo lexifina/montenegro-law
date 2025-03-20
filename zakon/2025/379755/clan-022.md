@@ -1,0 +1,6 @@
+# Član 22
+## Koncentracija rizika
+(1) Vodeći član grupe dužan je da redovno, a najmanje jednom godišnje, izvještava koordinatora o značajnoj koncentraciji rizika na nivou finansijskog konglomerata.
+(2) Koordinator može, radi postizanja ciljeva dodatne supervizije, odnosno nadzora, u saradnji sa drugim nadležnim organima, a uzimajući u obzir specifičnost svakog pojedinačnog finansijskog konglomerata, za svaki pojedinačni finansijski konglomerat odrediti ograničenje izloženosti rizicima ili naložiti supervizorske mjere, kojima će se ostvariti ciljevi dodatne supervizije, odnosno nadzora, a u vezi sa bilo kojom koncentracijom rizika na nivou finansijskog konglomerata.
+(3) Nadležni organi će, u okviru dodatne supervizije, odnosno nadzora nad koncentracijom rizika na nivou finansijskog konglomerata, naročito pratiti opasnost širenja rizika na druge članove finansijskog konglomerata, rizik sukoba interesa, rizik izbjegavanja sektorskih propisa, kao i iznos ili nivo tih rizika.
+(4) Ako postoje sektorski propisi o koncentraciji rizika najznačajnijeg finansijskog sektora, a matično društvo u finansijskom konglomeratu je mješoviti finansijski holding, ti propisi se primjenjuju na nivou cijelog finansijskog konglomerata, uključujući i mješoviti finansijski holding.
