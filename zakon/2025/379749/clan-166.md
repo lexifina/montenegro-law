@@ -1,0 +1,6 @@
+# Član 166
+## Nadležnost Komisije u sprovođenju nadzora nad depozitarom
+(1) Komisija je nadležna za sprovođenje nadzora nad depozitarom kada depozitar obavlja poslove propisane ovim zakonom.
+(2) Komisija u okviru nadzora provjerava i procjenjuje rizike kojima je depozitar izložen ili bi mogao biti izložen u dijelu poslova koje obavlja u skladu sa ovim zakonom, uzimajući u obzir mišljenja Centralne banke Crne Gore, odnosno drugih nadzornih i regulatornih organa koji su nadležni za nadzor poslovanja stranih depozitara.
+(3) Komisija je ovlašćena da, u slučaju da je depozitar delegirao obavljanje određenih djelatnosti na treća lica, od trećeg lica, odnosno depozitara zahtijeva da Komisiji dostavi izvještaje i informacije u vezi sa obavljanjem delegiranih poslova od strane trećeg lica, kao i da Komisiji omogući da sprovede pregled poslovanja, kontrolu poslovnih knjiga, poslovne dokumentacije i ostalih dokumenata u onom dijelu koji se odnosi na obavljanje djelatnosti koje su delegirane, kao i da privremeno ili trajno povuče prethodnu saglasnost Komisije za delegiranje poslova na treće lice.
+(4) Komisija uvijek, u slučaju da je depozitar delegirao obavljanje određenih djelatnosti na treća lica, sprovodi postupak nadzora na zahtjev Centralne banke Crne Gore.

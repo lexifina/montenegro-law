@@ -1,0 +1,8 @@
+# Član 122
+## Marketing u Evropskoj uniji udjela AIF-ova kojima upravlja DZUAIF iz treće države sa evropskim pasošem
+(1) Ako DZUAIF iz treće države ima dozvolu za rad koju je izdala Komisija ili nadležni organ druge države članice, smatra se da ima evropski pasoš i da može profesionalnim investitorima u EU da nudi udjele AIF-ova iz Crne Gore, iz druge države članice ili iz treće države, kojima upravlja.
+(2) Uz uslove iz stava 1 ovog člana, da bi DZUAIF iz treće države kojem je Crna Gora referentna država članica, mogao profesionalnim investitorima u EU nuditi udjele AIF-ova iz treće države kojima upravlja, moraju biti ispunjeni i sljedeći uslovi:
+1) da postoje primjereni postupci saradnje između Komisije i nadležnih organa treće države u kojoj je osnovan AIF kojim upravlja, kako bi se obezbijedila efikasna razmjena informacija na osnovu kojih Komisija može vršiti poslove iz svoje nadležnosti;
+2) treća država u kojoj je osnovan AIF se ne nalazi na spisku rizičnih zemalja FATF-e;
+3) treća država, u kojoj je osnovan AIF potpisala je sporazum sa Crnom Gorom i svakom drugom državom članicom u kojoj DZUAIF namjerava da stavi na tržište udjele AIF-a iz treće države, koji u potpunosti ispunjava standarde iz člana 26. OECD-ovog modela poreske konvencije o prihodima i kapitalu i obezbijedi efikasnu razmjenu informacija i podataka u oblasti poreza uključujući sve multilateralne poreske sporazume.
+(3) DZUAIF iz treće države koji u Crnoj Gori upravlja AIF-om, direktno ili putem filijale, dužan je da primjenjuje i druge relevantne propise koji radi zaštite javnog interesa uređuju prava potrošača i sprječavanje pranja novca i finansiranje terorizma.

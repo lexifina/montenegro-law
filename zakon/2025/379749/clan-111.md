@@ -1,0 +1,9 @@
+# Član 111
+## Obaveze DZUAIF-a iz treće države
+(1) DZUAIF iz treće države koji namjerava da upravlja AIF-om iz Crne Gore i/ili iz druge države članice ili koji na području Crne Gore i/ili druge države članice namjerava da stavlja na tržište udjele AIF-a kojim upravlja, mora da dobije dozvolu za rad od Komisije, ako je Crna Gora referentna država članica DZUAIF-a iz treće države.
+(2) DZUAIF iz treće države koji namjerava da traži dozvolu iz stava 1 ovog člana, dužan je da se pridržava ovog zakona.
+(3) Ako je obaveza iz stava 2 ovog člana nespojiva sa pravom treće države u kojoj je osnovan DZUAIF i/ili AIF čije udjele AIF-a DZUAIF namjerava da stavlja na tržište, DZUAIF nije dužan da se pridržava pojedinačnih odredbi ovog zakona ako dokaže:
+1) da nije moguće istovremeno da se pridržava odredbi ovog zakona i propisa treće države u kojoj je osnovan DZUAIF i/ili AIF iz treće države čije udjele AIF-a namjerava da stavlja na tržište;
+2) propisi treće države u kojoj je osnovan DZUAIF i/ili AIF predviđaju ekvivalentne odredbe koje imaju istu regulatornu svrhu i nude jednak nivo zaštite investitorima relevantnog AIF-a;
+3) DZUAIF i/ili AIF iz treće države je usklađen sa ekvivalentnom odredbom iz tačke 2 ovog stava.
+(4) DZUAIF iz treće države koji namjerava da podnese zahtjev za izdavanje dozvole iz stava 1 ovog člana, dužan je da imenuje pravnog zastupnika iz Crne Gore, koji će biti lice ovlašćeno za službenu korespondenciju tog DZUAIF-a u državama članicama i zadužen za svaku službenu korespondenciju DZUAIF-a sa Komisijom, odnosno nadležnim organima drugih država članica, investitorima iz Crne Gore i drugih država članica, a pravni zastupnik zajedno sa DZUAIF-om obavlja funkciju usklađenosti sa relevantnim propisima u vezi sa upravljanjem i stavljanjem na tržište udjela relevantnog AIF-a.

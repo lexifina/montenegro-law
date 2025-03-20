@@ -1,0 +1,8 @@
+# Član 136
+## Dozvoljena ulaganja i opšta ograničenja u poslovanju
+(1) DZUAIF je dužan da sredstva AIF-a ulaže u finansijske instrumente uređene zakonom kojim se uređuje tržište kapitala i u nekretnine, pri čemu se u pravilima poslovanja i osnivačkim aktima fonda moraju konkretno navesti oblici i kategorije imovine u koje fond namjerava da ulaže svoja sredstva.
+(2) DZUAIF je dužan da sredstva AIF-a ulaže u skladu sa investicionom politikom definisanom u pravilima poslovanja i osnivačkim aktima fonda, a usklađenost ulaganja fonda sa pravilima poslovanja i osnivačkim aktima kontroliše depozitar fonda.
+(3) AIF ne može izdavati obveznice i odobravati kredite i zajmove iz svoje imovine niti garantovati za obaveze trećih lica.
+(4) Pravilima poslovanja i osnivačkim aktima otvorenog AIF-a precizira se iznos ulazne naknade prilikom kupovine investicionih jedinica/udjela i iznos izlazne naknade prilikom otkupa investicionih jedinica/udjela, pri čemu iznos izlazne naknade ne može biti veći od 5% od neto vrijednosti imovine po investicionoj jedinici/udjelu.
+(5) DZUAIF koji upravlja otvorenim AIF-om ne smije donijeti odluku o povećanju ulazne i izlazne naknade za upravljanje bez pisane saglasnosti većine vlasnika investicionih jedinica/udjela.
+(6) U slučaju povećanja ulazne i izlazne naknade, DZUAIF koji upravlja otvorenim AIF-om dužan je da upozna vlasnike investicionih jedinica/udjela sa tom odlukom i da im omogući da u roku, koji ne može biti kraći od 90 dana od dana javnog objavljivanja odluke o povećanju naknade, zatraže otkup investicionih jedinica pod uslovima koji su važili prije povećanja naknade.

@@ -1,0 +1,8 @@
+# Član 105
+## DZUAIF-a iz Crne Gore
+(1) DZUAIF iz Crne Gore može da stavlja na tržište druge države članice udjele AIF-a iz treće države kojim upravlja i AIF-a ulagača kapitala iz Crne Gore ili druge države članice koji ne ispunjava uslove iz člana 86 stav 2 ovog zakona, ako te udjele nudi profesionalnim investitorima u drugoj državi članici i ako ispunjava uslove.
+(2) DZUAIF iz stava 1 ovog člana, koji namjerava da nudi profesionalnim investitorima u drugoj državi članici udjele AIF-a iz treće države kojim upravlja i AIF-a ulagača kapitala iz Crne Gore ili druge države članice koji ne ispunjava uslove iz člana 86 stav 2 ovog zakona, dužan je da se pridržava svih odredbi ovog zakona osim poglavlja VIII ovog zakona, a dodatno je potrebno da ispunjava sljedeće uslove:
+1) da postoje primjereni postupci saradnje između Komisije i nadležnih organa treće države u kojoj je osnovan AIF, tako da se obezbijedi efikasna razmjena informacija na osnovu kojih Komisija može izvršavati sopstvene nadležnosti;
+2) treća država u kojoj je osnovan AIF nije uključena na spisak FATF-a kao država ili teritorija koja ne sarađuje;
+3) treća država u kojoj je osnovan AIF potpisala je sporazum sa Crnom Gorom i sa drugom državom članicom u kojoj se udjeli AIF-a iz treće države namjeravaju staviti na tržište, a koji u potpunosti ispunjava standarde iz člana 26 OECD-ovog modela poreske konvencije o prihodima i kapitalu i obezbjeđuje efikasnu razmjenu informacija u oblasti poreza, uključujući sve multilateralne poreske sporazume.
+(3) Kada se nadležni organ druge države članice ne slaže sa procjenom Komisije o ispunjenosti uslova iz stava 2 tač. 1 i 2 ovog člana, Komisija može da proslijedi predmet ESMA-i na postupanje.

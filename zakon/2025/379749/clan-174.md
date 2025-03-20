@@ -1,0 +1,6 @@
+# Član 174
+Novčanom kaznom u iznosu od 500 eura do 4.000 eura kazniće se za prekršaj fizičko lice, ako:
+1) kao član uprave DZUAIF-a i/ili prokurista i/ili lice koje je zaposleno u DZUAIF-u i/ili povezano lice DZUAIF-a ne čuva kao poslovnu tajnu i otkriva trećim licima informacije o AIF-u ili DZUAIF-u koje bi mogle da stvore pogrešnu predstavu o poslovanju AIF-a ili DZUAIF-a (član 33 stav 1 tačka 1);
+2) kao član uprave DZUAIF-a i/ili prokurista i/ili lice koje je zaposleno u DZUAIF-u i/ili povezano lice DZUAIF-a ne čuva kao poslovnu tajnu i otkriva trećim licima informacije o budućim aktivnostima i poslovnim planovima DZUAIF-a, osim u slučajevima predviđenim zakonom (član 33 stav 1 tačka 2);
+3) kao član uprave DZUAIF-a i/ili prokurista i/ili lice koje je zaposleno u DZUAIF-u i/ili povezano lice DZUAIF-a ne čuva kao poslovnu tajnu i otkriva trećim licima informacije o stanju i prometu na računima AIF-a i članova, odnosno akcionara AIF-a (član 33 stav 1 tačka 3);
+4) kao član uprave DZUAIF-a i/ili prokurista i/ili lice koje je zaposleno u DZUAIF-u i/ili povezano lice DZUAIF-a ne čuva kao poslovnu tajnu i otkriva trećim licima informacije o drugim podacima koji su od značaja za poslovanje AIF-a, a koje je saznalo u obavljanju poslova za DZUAIF (član 33 stav 1 tačka 4).

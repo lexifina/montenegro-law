@@ -1,0 +1,5 @@
+# Član 150
+## Obavještavanje nadležnog organa o sumnji na kršenje propisa
+(1) Ako Komisija ima jasne i opravdane razloge za sumnju da DZUAIF koji ne podliježe nadzoru Komisije čini ili je izvršio radnje koje predstavljaju kršenje odredbi zakona i podzakonskih akata kojima se odredbe propisa EU koji, u vezi sa alternativnim investicionim fondovima, bliže uređuju izuzetke, opšte uslove poslovanja, depozitare, finansijsku polugu, transparentnost i nadzor prenose u pravni poredak Crne Gore ili druge države članice, o tome će, sa što više informacija, obavijestiti ESMA-u i nadležni organ matične države članice i države članice domaćina tog DZUAIF-a.
+(2) Komisija, ako primi obavještenje iz stava 1 ovog člana od nadležnog organa druge države članice, preduzima odgovarajuće mjere i obavještava ESMA-u i taj nadležni organ druge države članice o ishodu tih mjera, kao i o bitnim događajima koji su se u međuvremenu dogodili, u mjeri u kojoj je to moguće.
+(3) St. 1 i 2 ovog člana ne isključuju ostala ovlašćenja nadzora koja Komisija ima u skladu sa ovim zakonom.

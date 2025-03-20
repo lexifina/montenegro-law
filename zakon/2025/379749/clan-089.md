@@ -1,0 +1,5 @@
+# Član 89
+## nudi na tržištu u Crnoj Gori
+(1) U slučaju bitne promjene podataka dostavljenih u skladu sa članom 87 ovog zakona, DZUAIF je dužan da Komisiji dostavi pisano obavještenje o namjeravanoj promjeni najmanje mjesec dana prije njenog sprovođenja, odnosno bez odlaganja nakon što se neplanirana promjena dogodila.
+(2) Ako bi namjeravana promjena dovela do toga da upravljanje AIF-om od strane DZUAIF-a ili sam DZUAIF ne bi više bio usklađen sa odredbama ovog zakona, Komisija će, bez odlaganja, zabraniti sprovođenje namjeravane promjene.
+(3) Ako suprotno st. 1 i 2 ovog člana namjeravana promjena je sprovedena, odnosno ako se dogodila neplanirana promjena zbog koje upravljanje AIF-om od strane DZUAIF-a ili sam DZUAIF više nije usklađen sa odredbama ovog zakona, Komisija će preduzeti primjerene mjere u skladu sa ovim zakonom, uključujući, kada je to potrebno, i zabranu marketinga udjela AIF-a.

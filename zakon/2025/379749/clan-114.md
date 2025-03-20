@@ -1,0 +1,10 @@
+# Član 114
+## Upravljanje AIF-ovima iz Crne Gore i/ili druge države članice
+(1) DZUAIF iz treće države koji namjerava da upravlja AIF-ovima iz Crne Gore i/ili druge države članice bez marketinga njihovih udjela u AIF-u i/ili koji na području EU namjerava da stavi na tržište udjele AIF-ova kojima upravlja, u skladu sa odredbama čl.122 do 129 ovog zakona, mora Komisiji da podnese zahtjev za dobijanje dozvole za rad, ako je Crna Gora referentna država članica DZUAIF-a iz treće države.
+(2) Nakon što Komisija primi zahtjev iz stava 1 ovog člana, utvrdiće da li je izbor Crne Gore kao referentne države članice u skladu sa kriterijumima iz člana 112 ovog zakona.
+(3) Ako Komisija ocijeni da odabir Crne Gore kao referentne države članice nije u skladu sa kriterijumima iz člana 112 ovog zakona, odbiće zahtjev iz stava 1 ovog člana uz navođenje razloga za odbijanje, i o istome može obavijestiti ESMA-u.
+(4) Ako Komisija ocijeni da je Crna Gora izabrana kao referentna država članica u skladu sa kriterijumima iz člana 112 ovog zakona, o tome će obavijestiti ESMA-u i zatražiti savjet o ocjeni Komisije.
+(5) U obavještenju iz stava 4 ovog člana, Komisija će ESMA-i dostaviti obrazloženje DZUAIF- a o izboru Crne Gore kao referentne države članice i podatke o strategiji ponude udjela AIF-a.
+(6) Rok za odlučivanje o zahtjevu za izdavanje dozvole za rad se prekida za period dok Komisija ne primi savjet ESMA-e iz stava 4 ovog člana.
+(7) Ako Komisija namjerava da izda dozvolu za rad protivno savjetu ESMA-e iz stava 4 ovog člana, dužna je da o tome obavijestiti ESMA-u, uz navođenje razloga.
+(8) Ako Komisija namjerava da izda dozvolu za rad protivno savjetu ESMA-e iz stava 4 ovog člana, a DZUAIF iz treće države namjerava da stavlja na tržište udjele AIF-ova kojima upravlja i u drugim državama članicama, Komisija će o razlozima izdavanja dozvole za rad obavijestiti nadležne organe tih država članica i kada je to primjenjivo i nadležne organe matičnih država članica AIF-ova kojima upravlja DZUAIF iz treće države.

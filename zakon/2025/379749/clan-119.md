@@ -1,0 +1,10 @@
+# Član 119
+## Promjena strategije marketinga
+(1) Na utvrđivanje referentne države članice neće uticati budući poslovni razvoj DZUAIF-a, na području Evropske unije.
+(2) Ako DZUAIF promijeni strategiju marketinga udjela AIF-a u roku od dvije godine od dana dobijanja dozvole za rad od Komisije, a ta promjena bi uticala na utvrđivanje referentne države članice, dužan je da prije sprovođenja planirane promjene o istoj obavijesti Komisiju uz navođenje nove referentne države članice, utvrđene u skladu sa kriterijumima iz člana 112 ovog zakona, i na osnovu nove strategije.
+(3) Uz obavještenje iz stava 2 ovog člana DZUAIF iz treće države je dužan da Komisiji dostavi novu strategiju marketinga udjela AIF-a i podatke iz člana 116 stav 2 tačka 4 ovog zakona o pravnom zastupniku iz nove referentne države članice.
+(4) Komisija kada primi obavještenje iz stava 2 ovog člana, procjenjuje da li je odluka DZUAIF- a iz stava 1 ovog člana opravdana i o tome obavještava ESMA-u, i prosljeđuje joj obrazloženje DZUAIF-a o izboru nove referentne države članice i podatke o novoj strategiji marketinga udjela AIF-a.
+(5) Komisija kada primi savjet ESMA-e po osnovu obavještenja iz stava 4 ovog člana, obavještava DZUAIF iz treće države, pravnog zastupnika DZUAIF-a i ESMA-u o svojoj odluci.
+(6) U slučaju pozitivne odluke iz stava 5 ovog člana, Komisija o promjenama obavještava nadležni organ nove referentne države članice, i dostavlja mu bez odlaganja kopiju dozvole za rad i nadzornu dokumentaciju za DZUAIF iz treće države.
+(7) Od dana dostavljanja podataka iz stava 6 ovog člana, nadležni organ nove referentne države članice DZUAIF-a postaje nadležan za izdavanje, promjene ili oduzimanje dozvole za rad i nadzor nad DZUAIF-om iz treće države.
+(8) Ako je odluka Komisije iz stava 7 ovog člana protivna savjetu ESMA-e, Komisija će o istom, uz navođenje razloga, obavijestiti ESMA-u i nadležne organe drugih država članica u kojima DZUAIF iz treće države stavlja na tržište udjele AIF-ova kojima upravlja i ako je primjenjivo i nadležne organe matičnih država članica AIF-ova kojima DZUAIF iz treće države upravlja.

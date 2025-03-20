@@ -1,0 +1,5 @@
+# Član 152
+## Otkrivanje informacija trećim državama
+(1) Komisija može da dostavi nadležnom organu treće države informacije i podatke u vezi sa obradom informacija o činjenicama i uslovima koje su važne za izvršavanje obaveza i ovlašćenja te treće države, samo onda kada ocijeni da je takav prenos informacija potreban radi ispunjenja zahtjeva iz propisa EU koji, u vezi sa AIF-ima, bliže uređuju izuzetke, opšte uslove poslovanja, depozitare, finansijsku polugu, transparentnost i nadzor, i da treća država obezbjeđuje odgovarajući nivo zaštite podataka o ličnosti i ispunjava druge zahtjeve u skladu sa propisima kojima se reguliše zaštita podataka o ličnosti.
+(2) Prilikom dostavljanja podataka u skladu sa stavom 1 ovog člana, Komisija treba da preduzme odgovarajuće mjere kako bi osigurala da treća država ne dostavi takve informacije drugoj državi bez izričite saglasnosti Komisije.
+(3) Komisija nadležnom organu treće države dostavlja informacije koje je primila od nadležnog organa druge države članice, samo ako se nadležni organ druge države članice sa tim izričito saglasi i za svrhu za koju je saglasnost data.

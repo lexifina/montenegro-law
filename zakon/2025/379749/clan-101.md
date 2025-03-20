@@ -1,0 +1,7 @@
+# Član 101
+## Uslovi za marketing DZUAIF-a iz Crne Gore udjela AIF-a sa pasošem iz treće države na tržištu Crne Gore
+(1) DZUAIF iz Crne Gore može da stavlja na tržište u Crnoj Gori udjele AIF-a iz treće države kojim upravlja i AIF-a ulagača kapitala iz Crne Gore ili druge države članice koji ne ispunjava uslove iz člana 86 stav 2 ovog zakona, ako te udjele nudi profesionalnim investitorima u Crnoj Gori i ako ispunjava uslove.
+(2) DZUAIF iz stava 1 ovog člana, koji namjerava da nudi profesionalnim investitorima u Crnoj Gori udjele AIF-a iz treće države kojim upravlja i AIF-a ulagača kapitala iz Crne Gore ili druge države članice koji ne ispunjava uslove iz člana 86 stav 2 ovog zakona, dužan je da se pridržava ovog zakona, a dodatno je potrebno da ispunjava sljedeće uslove:
+1) da postoje primjereni postupci saradnje između Komisije i nadležnih organa treće države u kojoj je osnovan AIF, tako da se obezbijedi efikasna razmjena informacija na osnovu kojih Komisija može izvršavati sopstvene nadležnosti;
+2) da treća država u kojoj je osnovan AIF nije uključena na spisak FATF-a kao država ili teritorija koja ne sarađuje;
+3) da je treća država u kojoj je osnovan AIF potpisala sporazum sa Crnom Gorom koji u potpunosti ispunjava standarde iz člana 26 OECD-ovog modela poreske konvencije o prihodima i kapitalu i obezbjeđuje efikasnu razmjenu informacija u oblasti poreza, uključujući sve multilateralne poreske sporazume.

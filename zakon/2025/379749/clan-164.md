@@ -1,0 +1,3 @@
+# Član 164
+## Mjere nadzora nad podružnicom DZUAIF-a u državi članici domaćinu
+Ako DZUAIF iz Crne Gore koji neposredno ili preko podružnice obavlja djelatnosti u drugoj državi članici, suprotno upozorenju nadležnog organa države članice domaćina, istom ne dostavi traženu dokumentaciju ili informacije ili ne postupi po upozorenju nadležnog organa države članice domaćina ili ne prestane sa kršenjem propisa te države članice, Komisija će naložiti mjere nadzora u skladu sa odredbama ovog zakona i o preduzetim mjerama obavijestiti nadležni organ države članice domaćina DZUAIF-a, odnosno, po potrebi, zahtijevati potrebne informacije od relevantnih nadzornih organa trećih država.

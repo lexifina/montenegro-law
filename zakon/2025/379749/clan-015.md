@@ -1,0 +1,8 @@
+# Član 15
+## Promjena kategorije DZUAIF-a
+(1) Kada ukupna vrijednost imovine AIF-ova kojima upravlja mali DZUAIF pređe prag iz člana 12 ovog zakona, a mali DZUAIF procijeni da prelazak praga nije privremen, mali DZUAIF je dužan da u roku od 30 dana od dana prelaska praga Komisiji podnese zahtjev za izdavanje dozvole za rad velikog DZUAIF-a.
+(2) Nezavisno od pragova propisanih odredbama ovog zakona, mali DZUAIF može da podnese Komisiji zahtjev za izdavanje dozvole za rad velikog DZUAIF-a.
+(3) DZUAIF koji je dobio dozvolu za rad velikog DZUAIF-a nastavlja da posluje kao veliki DZUAIF i u slučaju da ukupna imovina AIF-ova kojima upravlja padne ispod praga iz člana 12 ovog zakona.
+(4) Ako veliki DZUAIF iz stava 3 ovog člana više nema namjeru da posluje kao veliki DZUAIF, dužan je da o tome bez odlaganja obavijesti Komisiju i akcionare odnosno članove AIF-ova kojima upravlja, a Komisija će na zahtjev takvog DZUAIF-a rješenjem utvrditi prestanak važenja njegove dozvole za rad i izdati dozvolu za rad malog DZUAIF-a.
+(5) DZUAIF je dužan da u roku od pet radnih dana od dana prijema rješenja iz stava 4 ovog člana, obavijesti sve članove, odnosno akcionare AIF-ova kojima upravlja o promjeni kategorije DZUAIF-a, uz napomenu da se na njega više ne primjenjuju sve odredbe ovog zakona i da ukaže na rizike koji iz toga mogu nastati za članove, odnosno akcionare AIF-ova kojima upravlja.
+(6) Kada DZUAIF upravlja evropskim fondom preduzetničkog kapitala ili evropskim fondom socijalnog preduzetništva pod oznakom EuVECA ili EuSEF, udjele takvih fondova može nuditi isključivo investitorima u skladu sa propisima EU koji uređuju ove vrste fondova.
