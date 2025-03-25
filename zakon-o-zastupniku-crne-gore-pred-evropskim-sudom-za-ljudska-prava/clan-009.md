@@ -1,0 +1,2 @@
+# Član 9
+U vršenju svoje funkcije zastupnik, odnosno zamjenik zastupnika je ovlašćen da vrši neposredan uvid u spise upravnih i sudskih predmeta bez obzira na povjerljivost spisa i da na drugi način prikuplja potrebna obavještenja, kao i da utvrđuje činjenice u vezi sa postupcima pred domaćim organima koji su od značaja za zastupanje Crne Gore u svakom postupku pred Evropskim sudom za ljudska prava.
