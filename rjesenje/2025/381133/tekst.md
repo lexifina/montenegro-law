@@ -1,0 +1,5 @@
+Na osnovu člana 22 stav 1 Opšteg zakona o obrazovanju i vaspitanju ("Službeni list RCG", br. 64/02, 31/05 i 49/07 i "Službeni list CG", br. 45/10, 45/11, 36/13, 39/13, 47/17, 59/21, 146/21, 3/23 i 84/24), na predlog Nacionalnog savjeta za obrazovanje, Ministarstvo prosvjete, nauke i inovacija donijelo je
+RJEŠENJE O JAVNO VAŽEĆEM OBRAZOVNOM PROGRAMU POMOĆNIK KUVARA
+1. Javno važeći obrazovni program Pomoćnik kuvara, koji je sastavni dio ovog rješenja, donosi se u skladu sa rješenjem Ministarstva prosvjete, nauke i inovacija, broj UPI - 07/1-03-604/25-1923/1 od 11. marta 2025. godine, kojim je utvrđen opšti dio javno važećeg obrazovnog programa Pomoćnik kuvara i odlukom Nacionalnog savjeta za obrazovanje, broj 05/3-01-119-/24-7939/28 od 28. oktobra 2024. godine, kojom je utvrđen posebni dio javno važećeg obrazovnog programa Pomoćnik kuvara.
+2. Obrazovni program iz tačke 1 ovog rješenja objaviće se samo u elektronskom izdanju "Službenog lista Crne Gore".
+3. Ovo rješenje stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore".
