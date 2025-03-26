@@ -1,0 +1,4 @@
+# Član 14
+Etički kodeks sadrži standarde profesionalizma i načela stomatološke zdravstvene etike, čovječnosti, savjesnosti, jednakosti, poštovanja autonomije i prava pacijenata, staranja o ugledu i dostojanstvu profesije.
+Etički kodeks posebno naglašava koncept ljudskih prava u sistemu zdravstvene zaštite, koji obuhvata i prava pacijenata i prava zdravstvenih radnika.
+Etički kodeks promoviše fundamentalna etička načela osnovnih ljudskih prava proklamovanih u UN Univerzalnoj deklaraciji o ljudskim pravima i drugim široko prihvaćenim i zvanično ratifikovanim međunarodnim i regionalnim dokumentima, kao što su, Međunarodni pakt o građanskim i političkim pravima, Međunarodni pakt o ekonomskim, socijalnim i kulturnim pravima, Evropska konvencija o zaštiti ljudskih prava i osnovnih sloboda i Evropska socijalna povelja.
