@@ -1,0 +1,3 @@
+# Član 16
+Zaposleni koji u toku mjeseca ostvari rezultate rada u obimu i kvalitetu iznad prosječnih, odnosno planiranih, može ostvariti pravo na dio zarade za radni učinak uvećane do 15%, proporcionalno ostvarenom rezultatu, uz saglasnost organa državne uprave nadležnog za poslove socijalnog staranja i organa državne uprave nadležnog za poslove finansija.
+Zaposlenom koji je angažovan na realizaciji posebnih aktivnosti, ako realizacija tih aktivnosti zahtijeva znatno povećanje obima posla i njegovog angažovanja, poslodavac može obezbijediti dodatak na zaradu u visini do 40% njegove osnovne zarade, pod uslovom da ta sredstva nijesu obezbijeđena u budžetu Crne Gore.

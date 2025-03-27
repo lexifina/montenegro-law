@@ -1,0 +1,2 @@
+# Član 1
+Granskim kolektivnim ugovorom za socijalnu djelatnost (u daljem tekstu: Ugovor), Sindikat zaposlenih u socijalnoj djelatnosti Crne Gore (u daljem tekstu: Sindikat) i Vlada Crne Gore (u daljem tekstu: Vlada) uređuju, u skladu sa Zakonom o radu (u daljem tekstu: Zakon) i Opštim kolektivnim ugovorom, pojedina prava i obaveze zaposlenih iz radnog odnosa, prava i obaveze poslodavca prema zaposlenom, kao i međusobna prava i obaveze ugovornih strana.
