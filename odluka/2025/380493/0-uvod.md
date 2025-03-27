@@ -1,0 +1,2 @@
+Na osnovu člana 12 stav 1 Odluke o uspostavljanju strukture za pregovore o pristupanju Crne Gore Evropskoj uniji ("Službeni list CG", broj 112/23), Vlada Crne Gore, na sjednici od 6. marta 2025. godine, donijela je
+ODLUKU O IZMJENI ODLUKE O OBRAZOVANJU PREGOVARAČKE RADNE GRUPE ZA PRIPREMU I VOĐENJE PREGOVORA O PRISTUPANJU CRNE GORE EVROPSKOJ UNIJI ZA OBLAST PRAVNE TEKOVINE EVROPSKE UNIJE KOJA SE ODNOSI NA PREGOVARAČKO POGLAVLJE 21 - TRANS-EVROPSKE MREŽE
