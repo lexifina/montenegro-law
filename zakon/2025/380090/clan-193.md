@@ -1,0 +1,6 @@
+# Član 193
+## Prava kupca u slučaju smetnji u isporuci energije
+(1) Krajnji kupac ima pravo na otklanjanje tehničkih i drugih smetnji u isporuci energije od strane nadležnog energetskog subjekta, čiji uzrok nije na unutrašnjoj instalaciji kupca.
+(2) Energetski subjekat je dužan da smetnje iz stava 1 ovog člana na zahtjev krajnjeg kupca otkloni, bez odlaganja, u skladu sa tehničkim propisom o izvođenju odgovarajućih radova, a najduže u roku od 24 sata od prijema zahtjeva, osim u slučajevima kada to objektivno nije moguće.
+(3) Smetnjama u isporuci energije iz stava 1 ovog člana ne smatraju se prekidi u isporuci energije nastali zbog primjene mjera ograničenja trgovine pojedinim vrstama energije koje se uređuju zakonom o prekograničnoj razmjeni električne energije i prirodnog gasa.
+(4) Krajnji kupac, odnosno korisnik objekta krajnjeg kupca dužan je da dozvoli i da omogući ovlašćenim licima energetskih subjekata pristup mjernim uređajima i instalacijama, kao i mjestu priključka radi očitavanja, provjere ispravnosti, otklanjanja kvarova, zamjene i održavanja uređaja i izmještanja mjernih mjesta ili obustave isporuke energije u slučajevima neovlašćenog korišćenja energije ili neplaćanja računa za isporučenu energiju u skladu sa utvrđenim rokovima i uslovima.

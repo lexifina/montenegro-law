@@ -1,0 +1,5 @@
+# Član 84
+## Zaštita poslovne tajne i drugih komercijalno povjerljivih informacija
+(1) Agencija, proizvođač električne energije, operator prenosnog, odnosno distributivnog sistema električne energije i gasa, zatvorenog distributivnog sistema električne energije, subjekat nadležan za organizaciju i upravljanje tržištem električne energije ili gasa, berza električne energije, operator sistema za skladištenje gasa i operator postrojenja za TPG i operator kombinovanog sistema dužni su da obezbijede čuvanje poslovne tajne i drugih komercijalno povjerljivih informacija i podataka, čijim objavljivanjem ili saopštavanjem bi se mogla stvoriti neopravdana komercijalna prednost na tržištu ili nanijeti šteta energetskim subjektima, korisnicima i potrošačima, pravnim ili fizičkim licima, u skladu sa zakonom.
+(2) Agencija je dužna da podatke i informacije iz stava 1 ovog člana, dostavi državnom organu kome su ti podaci potrebni za vršenje poslova iz njegove nadležnosti, na pisani zahtjev tog organa.
+(3) Državni organ iz stava 2 ovog člana je dužan da sa dostavljenim podacima i informacijama postupa na način iz stava 1 ovog člana.

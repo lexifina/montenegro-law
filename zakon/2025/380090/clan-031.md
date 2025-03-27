@@ -1,0 +1,13 @@
+# Član 31
+## Ciljevi Agencije
+Agencija u vršenju poslova utvrđenih ovim zakonom doprinosi:
+1) promovisanju, u saradnji sa nadležnim organima i regulatornim organizacijama drugih članica Zajednice i Evropske unije, konkurentnog, efikasnog, bezbjednog i, uz zaštitu životne sredine, održivog tržišta električne energije i gasa u Crnoj Gori i u okviru Zajednice, kao i osiguranju adekvatnih uslova za efikasno i pouzdano funkcionisanje elektroenergetskih sistema i sistema gasa;
+2) razvoju konkurentnih regionalnih tržišta koja adekvatno funkcionišu u okviru Zajednice i Evropske unije, radi postizanja ciljeva iz tačke 1 ovog člana, uzimajući u obzir i dugoročne ciljeve;
+3) eliminisanju ograničenja kod trgovine električnom energijom i gasom između članica Zajednice i Evropske unije, uključujući razvijanje adekvatnih prekograničnih prenosnih kapaciteta, kako bi se podmirila potražnja i podsticanje integracije nacionalnih elektroenergetskih sistema i sistema gasa radi olakšanja tokova električne energije i gasa u Zajednici i Evropskoj uniji;
+4) ostvarivanju, na najefikasniji način, razvoja sigurnih, pouzdanih i nediskriminatornih sistema orijentisanih na kupca i promovisanje adekvatnosti sistema, promovisanje energetske efikasnosti i integracije proizvodnje električne energije iz obnovljivih izvora i distribuirane proizvodnje u prenosni i distributivni sistem, kao i olakšavanju njihovog funkcionisanja u vezi sa drugim energetskim sistemima gasa, u skladu sa ciljevima energetske politike;
+5) olakšavanju pristupa novih proizvodnih i skladišnih kapaciteta prenosnim i distributivnim sistemima, a naročito otklanjanju barijera koje mogu spriječiti pristup novih učesnika na tržištu i električnoj energiji iz obnovljivih izvora;
+6) osiguravanju adekvatnih podsticaja za operatore prenosnih i distributivnih sistema i korisnike sistema, kako bi se povećala efikasnost sistema i podstakla integracija tržišta;
+7) obezbjeđenju koristi za krajnje kupce preko efikasnog funkcionisanja tržišta, promovisanju konkurencije i zaštiti krajnjih kupaca;
+8) pružanju pomoći za postizanje visokog nivoa kvaliteta pružanja javnih usluga kod snabdijevanja električnom energijom i gasom, doprinoseći i zaštiti ranjivih kupaca i kompatibilnosti procesa razmjene podataka za promjenu snabdjevača;
+9) podsticanju kupaca da kroz odgovarajući način potrošnje, osim u nabavci, učestvuju i u ostalim tržišnim aktivnostima, u okviru svojih tehničkih mogućnosti;
+10) obezbjeđenju od strane operatora prenosnog i distributivnog sistema nediskriminatornog pristupa kupcima kao pružaocima usluga, prilikom obezbjeđenja pomoćnih usluga i balansiranja.

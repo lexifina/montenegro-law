@@ -1,0 +1,9 @@
+# Član 174
+## Infrastruktura koju koristi više korisnika sistema
+(1) Operator prenosnog ili distributivnog sistema električne energije i vlasnik infrastrukture koja služi za prenos ili distribuciju električne energije radi obezbjeđenja tehničko-tehnološkog jedinstva i sigurnosti funkcionisanja sistema, obezbjeđenja sigurnosti snabdijevanja, funkcionisanja tržišta i očuvanja prostora u skladu sa prostorno-planskim dokumentima, dužni su da međusobna prava i obaveze urede ugovorom o otkupu.
+(2) Smatra se da infrastruktura iz stava 1 ovog člana služi za prenos, odnosno distribuciju električne energije ako infrastrukturu, osim vlasnika koriste druga pravna ili fizička lica odnosno, novi korisnici na osnovu ugovora iz člana 164 ovog zakona, ili ako bi bez te infrastrukture bilo narušeno funkcionisanje sistema.
+(3) Operator sistema dužan je da utvrđuje programe otkupa infrastrukture iz člana 164 ovog zakona i stava 2 ovog člana, po vrstama sredstava i lokacijama, za period koji odgovara dužini regulatornog perioda i dostavi ih Agenciji kao sastavni dio investicionog plana.
+(4) Operator sistema dužan je da plati vlasniku naknadu koja se sastoji od iznosa korigovane vrijednosti infrastrukture, utvrđene u izvještaju nezavisnog procjenitelja koji nije stariji od šest mjeseci od dana zaključivanja ugovora i kamate iz člana 173 ovog zakona.
+(5) Procjenitelj iz stava 4 ovog člana koga angažuje operator sistema dužan je da u postupku utvrđivanja korigovane vrijednosti infrastrukture primijeni stope amortizacije koje koristi operator prenosnog ili distributivnog sistema električne energije za svoja sredstva.
+(6) Naknadu iz stava 4 ovog člana operator sistema otplaćuje po programu iz stava 3 ovog člana u najviše 20 jednakih godišnjih anuiteta.
+(7) Ako se zaključuje ugovor o otkupu u slučaju iz st. 1 i 2 ovog člana, operator sistema će odrediti novo mjesto priključenja korisnika.

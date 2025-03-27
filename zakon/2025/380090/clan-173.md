@@ -1,0 +1,7 @@
+# Član 173
+## Ugovor o otkupu
+(1) Operator prenosnog ili distributivnog sistema električne energije vrši otkup izgrađene infrastrukture iz člana 172 ovog zakona na osnovu ugovora o otkupu koji se zaključuje najkasnije u roku od šest mjeseci, od dana dobijanja upotrebne dozvole odnosno drugog akta nadležnog organa, u skladu sa zakonom.
+(2) Ugovorom iz stava 1 ovog člana uređuju se međusobna prava i obaveze operatora i investitora i utvrđuje iznos naknade za otkup infrastrukture, koja se sastoji od vrijednosti utvrđene u skladu sa članom 172 ovog zakona i kamate, obračunate za period otplate koja je jednaka stopi povrata na pozajmljeni kapital, utvrđenoj kao trogodišnji ponderisani prosjek kamatnih stopa ugovorenih na aktivna dugoročna kreditna zaduženja mrežnih operatora u Crnoj Gori, koja važi za regulatornu godinu u kojoj se zaključuje ugovor o otkupu.
+(3) Operator je dužan da ponudi investitoru isplatu naknade iz stava 2 ovog člana u najviše 20 jednakih godišnjih anuiteta.
+(4) Danom zaključivanja ugovora iz stava 1 ovog člana izgrađena infrastruktura postaje dio prenosnog ili distributivnog sistema električne energije i evidentira se kao osnovno sredstvo u poslovnim knjigama operatora sistema, a otplata anuiteta vrši se u skladu sa dinamikom utvrđenom ugovorom iz člana 164 stav 2 ovog zakona.
+(5) Vrijednost osnovnog sredstva iz stava 4 ovog člana, uračunava se u osnovicu za utvrđivanje povrata na sredstva iz člana 51 stav 1 ovog zakona u skladu sa metodologijama iz člana 54 stav 1 ovog zakona.

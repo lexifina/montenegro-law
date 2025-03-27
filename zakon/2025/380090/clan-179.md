@@ -1,0 +1,8 @@
+# Član 179
+## Obustava ili ograničenje snabdijevanja
+(1) Ako krajnji kupac ne izvršava obaveze utvrđene ugovorom, odnosno računom za isporučenu energiju, snabdjevač je dužan da kupca prethodno upozori da, u roku koji ne može biti kraći od osam dana od dana dostavljanja upozorenja, izvrši dospjele obaveze, odnosno postigne sporazum o izvršavanju obaveza.
+(2) Ako krajnji kupac ne izvrši obaveze iz stava 1 ovog člana u ostavljenom roku, snabdjevač podnosi zahtjev operatoru prenosnog ili distributivnog sistema električne energije ili gasa za ograničenje, ako to tehničke mogućnosti sistema dozvoljavaju, ili obustavu isporuke električne energije ili gasa.
+(3) Operator prenosnog ili distributivnog sistema električne energije ili gasa dužan je da u roku određenom zahtjevom iz stava 2 ovog člana izvrši ograničenje ili obustavu isporuke koja ne može početi u petak, subotu ili nedjelju, na državni praznik ili dan prije praznika.
+(4) Obustavom snabdijevanja iz stava 3 ovog člana ne raskida se ugovor o snabdijevanju, a za vrijeme obustave kupac je dužan da plaća fiksne naknade u skladu sa zakonom.
+(5) Snabdjevač nema pravo da zahtijeva obustavu ili ograničenje snabdijevanja ako je kupac platio nesporni dio računa koji je predmet prigovora i blagovremeno podnio prigovor na sporni dio, u skladu sa opštim uslovima iz člana 33 stav 11 tačka 1 ovog zakona.
+(6) Operator prenosnog ili distributivnog sistema električne energije ili gasa dužan je da krajnjem kupcu omogući ponovnu isporuku električne energije ili gasa, odmah a najkasnije u roku od 24 sata od sata kada krajnji kupac izmiri dospjele obaveze za isporučenu električnu energiju.

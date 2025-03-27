@@ -1,0 +1,12 @@
+# Član 200
+## Upravljanje potrošnjom putem agregacije
+(1) Krajnji kupac može samostalno ili putem agregacije, na ravnopravnoj osnovi, učestvovati na svim tržištima električne energije u skladu sa pravilima kojima se uređuju pojedinačna tržišta električne energije, bez prethodnog dobijanja saglasnosti drugih učesnika na tržištu.
+(2) Agregator može učestvovati na svim tržištima električne energije u skladu sa članom 112 ovog zakona.
+(3) Prilikom nabavke pomoćnih usluga, operator sistema dužan je da jednako tretira pružaoce pomoćnih usluga, bez obzira da li je riječ o agregatoru, krajnjem kupcu uključenom u upravljanje potrošnjom, operatoru skladištenja energije ili proizvođaču.
+(4) Agregator je balansno odgovorna strana ili vrši prenos svoje odgovornosti za odstupanja u formi ugovora, u skladu sa tržišnim pravilima iz člana 120 ovog zakona i zakona kojim se uređuje prekogranična razmjena električne energije i prirodnog gasa.
+(5) Snabdjevač ne može naplaćivati neopravdane troškove ili ugovorne kazne ili nametati druge neopravdane ugovorne restrikcije krajnjem kupcu koji je zaključio ugovor sa nezavisnim agregatorom.
+(6) Krajnji kupac koji u upravljanju potrošnjom učestvuje sam ili preko nezavisnog agregatora plaća naknadu svom snabdjevaču koji je direktno pogođen aktiviranjem usluge upravljanja potrošnjom.
+(7) Naknada iz stava 6 ovog člana ne predstavlja prepreku za ulazak na tržište nezavisnog agregatora ili prepreku za pružanje usluga fleksibilnosti.
+(8) Naknada iz stava 6 ovog člana je ograničena na pokriće troškova snabdjevača kupca koji učestvuje u upravljanju potrošnjom putem agregacije, troškova snabdjevača kupca koji nezavisno učestvuje u upravljanju potrošnjom ili troškova balansno odgovorne strane snabdjevača, koji su nastali po osnovu upravljanja potrošnjom.
+(9) Način utvrđivanja naknade iz stava 6 ovog člana utvrđuje se tržišnim pravilima iz člana 120 ovog zakona, pri čemu se mogu uzeti u obzir koristi koje ostvaruju drugi učesnici na tržištu zahvaljujući nezavisnom agregatoru i u tom slučaju se od agregatora ili kupca koji učestvuje u upravljanju potrošnjom može zahtijevati da doprinesu takvoj naknadi samo ako i u mjeri kojoj koristi za sve snabdjevače, krajnje kupce i lica koja su odgovorna za odstupanje ne prevazilaze iznos direktnih troškova koji su zbog njih nastali.
+(10) Odredbe st. 1 do 9 ovog člana primjenjuju se na korisnika mreže koji proizvodi električnu energiju ili vrši skladištenje energije.

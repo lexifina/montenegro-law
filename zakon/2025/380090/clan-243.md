@@ -1,0 +1,4 @@
+# Član 243
+## Rok za zaključenje ugovora
+(1) Operator prenosnog sistema električne energije i operator distributivnog sistema električne energije zaključiće ugovor kojim se regulišu međusobna prava i obaveze na mjestu razgraničenja odgovornosti, u skladu sa ovim zakonom, do 31. decembra 2025. godine.
+(2) Na korisnike čiji su objekti priključeni na prenosni ili distributivni sistem električne energije na dan stupanja na snagu ovog zakona primjenjuju se odredbe ugovora o priključenju na prenosni ili distributivni sistem električne energije koji su zaključeni na osnovu Zakona o energetici ("Službeni list CG", br. 5/16, 51/17, 82/20, 152/22 i 84/24) ili prethodno važećih zakona kojima se uređuju energetske djelatnosti, dok će se u slučaju većih izmjena tehničkih i eksploatacionih karakteristika objekata ovih korisnika primjenjivati odredbe ovog zakona kojima se uređuje postupak priključenja na prenosni ili distributivni sistem električne energije.

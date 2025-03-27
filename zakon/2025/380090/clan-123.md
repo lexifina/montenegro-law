@@ -1,0 +1,8 @@
+# Član 123
+## Nezavisnost operatora sistema
+(1) Vertikalno integrisani subjekat dužan je da obezbijedi da se djelatnost operatora prenosnog, odnosno distributivnog sistema električne energije obavlja samo u nezavisnom pravnom licu koje ne obavlja druge energetske djelatnosti, ako ovim zakonom nije drugačije uređeno.
+(2) Zabranjeno je operatoru prenosnog, odnosno distributivnog sistema električne energije da obavlja i druge energetske djelatnosti, osim u slučajevima iz člana 86 st. 3 i 4, člana 92 st. 5 i 7, člana 89 stav 2 i člana 97 stav 2 ovog zakona.
+(3) Operator prenosnog, odnosno distributivnog sistema električne energije može da obavlja neenergetsku djelatnost pod uslovom da obezbijedi razdvojenost računa iz člana 126 ovog zakona.
+(4) Članove organa upravljanja operatora prenosnog sistema neposredno i samostalno predlaže organ državne uprave nadležan za poslove finansija, bez traženja mišljenja i uputstava od strane Vlade i određuje punomoćnika za skupštinu akcionara operatora prenosnog sistema.
+(5) Lica iz stava 4 ovog člana ne smiju tražiti ni prihvatati instrukcije ili smjernice Vlade u postupku donošenja odluka operatora prenosnog sistema i ne smiju biti članovi organa upravljanja energetskih subjekata koji obavljaju djelatnost proizvodnje ili snabdijevanja električnom energijom ili imati mogućnost uticaja na odlučivanje tih energetskih subjekata.
+(6) Organ državne uprave iz stava 4 ovog člana ne smije predlagati članove organa upravljanja energetskih subjekata koji obavljaju djelatnost proizvodnje odnosno snabdijevanja električnom energijom i izuzima se prilikom glasanja kada Vlada donosi odluku o imenovanju organa upravljanja energetskim subjektima koji obavljaju djelatnost proizvodnje odnosno snabdijevanja električnom energijom.

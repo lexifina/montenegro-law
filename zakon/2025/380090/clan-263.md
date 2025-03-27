@@ -1,0 +1,5 @@
+# Član 263
+## Stručni ispit
+(1) Stručni ispit iz člana 64 stav 1 ovog zakona nije dužno da polaže lice koje ima licencu za poslove projektovanja, građenja i nadzora nad građenjem objekata u skladu sa propisima o izgradnji objekata, lice kojem je priznat stručni ispit, odnosno koje je položilo stručni ispit za tehnički nadzor i rukovođenje energetskim objektima, u skladu sa propisima koji su važili do dana stupanja na snagu ovog zakona.
+(2) Stručni ispit iz člana 64 st. 2, 3 i 4 ovog zakona nije dužno da polaže lice koje ima položen stručni ispit za rukovođenje poslovima održavanja i eksploatacije energetskih vodova i postrojenja, kao i lice koje ima položen stručni ispit radne osposobljenosti za poslove eksploatacije i rukovanja energetskim postrojenjima, u skladu sa propisima koji su važili do dana stupanja na snagu ovog zakona.
+(3) Lica koja na dan stupanja na snagu ovog zakona imaju najmanje 10 godina radnog iskustva u struci na poslovima tehničkog nadzora i rukovođenja nijesu dužna da polažu stručni ispit za poslove iz člana 64 stav 1 ovog zakona.

@@ -1,0 +1,6 @@
+# Član 181
+## Čuvanje podataka o snabdijevanju
+(1) Snabdjevači električnom energijom i gasom dužni su da najmanje deset godina čuvaju podatke koji se odnose na sve transakcije iz ugovora o snabdijevanju električnom energijom ili gasom i derivatima električne energije ili gasa sa kupcima na veliko, operatorima prenosnih sistema, operatorima sistema za skladištenje i operatorima postrojenja za TPG i dostave Ministarstvu, Agenciji, nadležnom organu za praćenje i nadzor konkurencije na njihov zahtjev, i nadležnom organu Zajednice u skladu sa obavezama koje proizilaze iz potvrđenih međunarodnih ugovora.
+(2) Derivati električne energije ili gasa iz stava 1 ovog člana su finansijski instrumenti kojima se učesnici na tržištu osiguravaju od naglih promjena cijena električne energije ili gasa na tržištu, kada se takav instrument odnosi na električnu energiju ili gas.
+(3) Podaci iz stava 1 ovog člana obuhvataju informacije o transakcijama, kao što su trajanje, uslovi isporuke i poravnanja, količina, datum i vrijeme isporuke, cijene transakcija, način identifikacije kupaca na veliko, kao i informacije o svim nerealizovanim ugovorima o snabdijevanju električnom energijom ili gasom i derivatima električne energije ili gasa.
+(4) Agencija stavlja na raspolaganje učesnicima na tržištu podatke iz stava 3 ovog člana, osim podataka o derivatima, u skladu sa zakonom.

@@ -1,0 +1,9 @@
+# Član 26
+## Uslovi za obavljanje poslova organa Agencije
+(1) Za predsjednika ili člana Odbora Agencije može biti imenovano lice koje je crnogorski državljanin sa prebivalištem u Crnoj Gori, ima najmanje VII1 nivo kvalifikacije obrazovanja iz oblasti tehničkih nauka, prava ili ekonomije, sedam godina radnog iskustva u struci i koje nije u sukobu interesa iz člana 27 ovog zakona.
+(2) Za izvršnog direktora i zamjenika izvršnog direktora Agencije može biti izabrano lice koje je crnogorski državljanin, sa prebivalištem u Crnoj Gori, ima najmanje VII1 nivo kvalifikacije obrazovanja iz oblasti tehničkih nauka, prava ili ekonomije, pet godina radnog iskustva na rukovodećim poslovima ili drugim poslovima koji zahtijevaju samostalnost u radu i koje nije u sukobu interesa iz člana 27 ovog zakona.
+(3) Predsjednik, članovi Odbora Agencije, izvršni direktor i zamjenik izvršnog direktora Agencije ne mogu biti istovremeno poslanici i odbornici, članovi Vlade, odnosno lica koja bira, postavlja i imenuje Vlada.
+(4) Za predsjednika, člana Odbora Agencije, izvršnog direktora ili zamjenika izvršnog direktora Agencije ne može biti imenovano, odnosno izabrano lice koje:
+1) je pravosnažno osuđeno za krivično djelo zbog zloupotrebe službene dužnosti, korupcije, prevare ili drugo krivično djelo koje ga čini nepodobnim za obavljanje funkcije na koju se bira;
+2) ima lični interes, interes preko bračnog, odnosno vanbračnog supružnika ili neposredan porodični interes u energetskom subjektu kome Agencija izdaje licencu za obavljanje energetske djelatnosti, odnosno subjektu kome Agencija izdaje licencu za obavljanje regulisanih komunalnih djelatnosti kao i u subjektu koji se bavi trgovinom energijom.
+(5) Predsjednik i članovi Odbora Agencije, izvršni direktor, zamjenik izvršnog direktora i zaposleni u Agenciji prava i obaveze iz radnog odnosa ostvaruju u skladu sa opštim propisima o radu, ovim zakonom i opštim aktima Agencije.

@@ -1,0 +1,11 @@
+# Član 240
+(1) Novčanom kaznom u iznosu od 2.000 € do 10.000 € kazniće se za prekršaj pravno lice, ako:
+1) kao energetski subjekat na zahtjev Agencije ne dostavi podatke, informacije i dokumentaciju u roku koji odredi Agencija, odnosno ne obezbijedi pristup poslovnoj dokumentaciji koja joj je potrebna za obavljanje poslova utvrđenih zakonom (član 40);
+2) kao krajnji kupac, odnosno korisnik objekta krajnjeg kupca, ne dozvoli ili ne omogući ovlašćenim licima energetskog subjekta pristup mjernim uređajima i instalacijama, kao i mjestu priključka radi očitavanja, provjere ispravnosti, otklanjanja kvarova, zamjene i održavanja uređaja i izmještanje mjernih mjesta ili obustave isporuke energije, u slučajevima neovlašćenog korišćenja energije ili neplaćanja računa za isporučenu energiju, u skladu sa utvrđenim rokovima i uslovima (član 193 stav 4);
+3) kao krajnji kupac ne zaključi u pisanoj formi ugovor o snabdijevanju (član 196 stav 1);
+4) kao energetski subjekat, trguje naftnim derivatima odnosno biogorivima po cijeni koja je viša od maksimalne maloprodajne cijene utvrđene u skladu sa propisom Vlade iz člana 207 stav 7 ovog zakona (član 207 stav 4);
+5) kao vlasnik, odnosno držalac nepokretnosti ne omogući energetskim subjektima nesmetan pristup do nepokretnosti i na nepokretnosti na kojima se nalaze ili grade energetski objekti, radi izvođenja radova na izgradnji, održavanju, kontroli ispravnosti objekata, uređaja, postrojenja ili opreme i izvođenja drugih neophodnih radova (član 223 stav 1);
+6) sadi drveće i drugo rastinje na zemljištu iznad, ispod ili na udaljenosti sa koje se može ugroziti sigurnost energetskog objekta (član 225 stav 2);
+7) kao vlasnik ili nosilac drugih prava nad nepokretnostima vrši radove ili druge radnje, na nepokretnostima koje se nalaze ispod, iznad ili pored energetskog objekta, kojima se onemogućava ili ugrožava rad i funkcionisanje energetskog objekta, bez prethodnog odobrenja energetskog subjekta koji je vlasnik, odnosno korisnik energetskog objekta (član 225 stav 4).
+(2) Za prekršaj iz stava 1 ovog člana kazniće se i odgovorno lice u pravnom licu i fizičko lice novčanom kaznom u iznosu od 200 € do 1.500 €.
+(3) Za prekršaj iz stava 1 ovog člana kazniće se preduzetnik novčanom kaznom u iznosu od 1.000 € do 5.000 €.

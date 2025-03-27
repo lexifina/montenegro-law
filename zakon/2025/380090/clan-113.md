@@ -1,0 +1,10 @@
+# Član 113
+## Balansna odgovornost
+(1) Na tržištu električne energije uspostavlja se balansna odgovornost učesnika radi nesmetanog funkcionisanja tržišta, izvršenja transakcija i obračuna količinskog odstupanja učesnika na tržištu.
+(2) Balansno odgovorni subjekat je svaki učesnik na tržištu koji, kao nosilac sopstvene balansne odgovornosti, preuzima finansijsku odgovornost za balansno odstupanje.
+(3) Učesnici na tržištu iz člana 112 st. 5, 6 i 7 ovog zakona dužni su da nakon zaključivanja ugovora o finansijskom poravnanju balansnog obračuna dostave bankarsku garanciju naplativu na prvi poziv, bez prava prigovora, ili drugo sredstvo obezbjeđenja plaćanja u korist subjekta odgovornog za organizaciju i upravljanje tržištem električne energije u skladu sa pravilima iz člana 120 ovog zakona, i da u roku od 15 dana od dana dostavljanja ugovora od strane subjekta odgovornog za organizaciju i upravljanje tržištem električne energije zaključe:
+1) ugovor o balansnoj odgovornosti sa subjektom odgovornim za organizaciju i upravljanje tržištem električne energije i operatorom prenosnog sistema, i
+2) ugovor o učestvovanju na tržištu električne energije sa subjektom odgovornim za organizaciju i upravljanje tržištem električne energije.
+(4) Balansni obračun je skup pravila i procedura u kojima učestvuju subjekat odgovoran za organizaciju i upravljanje tržištem električne energije, operatori sistema i nosioci balansne odgovornosti balansnih grupa, odnosno balansno odgovorni subjekti, a koji ima za cilj obračun količinskog odstupanja, finansijski obračun i poravnanje, koje na osnovu utvrđenih količinskih odstupanja iz stava 1 ovog člana vrši subjekat odgovoran za organizaciju i upravljanje tržištem električne energije, u skladu sa tržišnim pravilima.
+(5) Balansno odgovorni subjekti dužni su da učestvuju u sistemu količinskog obračuna odstupanja predaje i prijema električne energije od voznih redova, koji sprovodi subjekat odgovoran za organizaciju i upravljanje tržištem električne energije.
+(6) Operatori sistema ne mogu svoju balansnu odgovornost prenijeti na druge balansno odgovorne subjekte.
