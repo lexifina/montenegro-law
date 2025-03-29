@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovom odlukom propisuje se bliži način utvrđivanja minimalnog zahtjeva za regulatornim kapitalom i kvalifikovanim obavezama kreditnih institucija (u daljem tekstu: MREL), način utvrđivanja dodatnog zahtjeva za regulatornim kapitalom i kvalifikovanim obavezama za kreditnu instituciju koja je subjekat sanacije i koja je GSV kreditna institucija ili dio GSV kreditne institucije, bliži uslovi koje moraju da ispunjavaju kvalifikovane obaveze koje se koriste u svrhu određivanja MREL-a, način izvještavanja Centralne banke Crne Gore (u daljem tekstu: Centralna banka), objavljivanja iznosa MREL-a, periode za dostizanje MREL-a, kao i kriterijume za određivanje podređenih kvalifikovanih obaveza za prodaju malim investitorima.
