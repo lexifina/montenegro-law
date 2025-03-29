@@ -1,0 +1,2 @@
+Na osnovu člana 82 tačka 3 Ustava Crne Gore i člana 33 Zakona o Državnoj revizorskoj instituciji ("Službeni list RCG", br. 28/04, 27/06 i 78/06 i "Službeni list CG", br. 17/07, 73/10, 40/11 i 31/14), Skupština Crne Gore 28. saziva, na Prvoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2025. godini, dana 28. marta 2025. godine, donijela je
+ODLUKU O IMENOVANJU ČLANA SENATA DRŽAVNE REVIZORSKE INSTITUCIJE
