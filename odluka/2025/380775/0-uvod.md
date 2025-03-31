@@ -1,0 +1,2 @@
+Na osnovu člana 72 stav 1, 2 i 3 i člana 146 stav 3 Zakona o izgradnji objekata ("Službeni list CG", broj 19/25), Pravilnika o bližim uslovima za postavljanje, odnosno građenje privremenih objekata, uređaja i opreme ("Službeni list CG", broj 43/18, 76/18, 76/19, 9/24, 28/24), i člana 34 stav 1 tačka 4 Statuta Opštine Zeta ("Službeni list Crne Gore - Opštinski propisi", broj 12/23), na XVIII sjednici Skupštine opštine Zeta održanoj dana 26.3.2025. godine, donijela je
+ODLUKU
