@@ -1,0 +1,2 @@
+# Član 2
+Sastavni dio ove odluke čini Programski zadatak sa elementima urbanističko-tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa: Trafo stanice 10/04 kV kapaciteta 1x1000 kVA u naselju Radigojno i kablovskog voda 10 kV od predmetne TS do do TS Breza 35/10 kV, Opština Kolašin u Kolašinu, sa osnovnim podacima o objektu i grafičkim prikazom planiranih objekata.
