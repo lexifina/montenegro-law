@@ -1,0 +1,2 @@
+Na osnovu člana 44 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", 02/18, 34/19, 38/20, 50/22, 84/22) i člana 34 stav 1 tačka 24 Statuta Opštine Zeta ("Službeni list Crne Gore - Opštinski propisi", br.012/23), a nakon razmatranja Izvještaja o radu sa finansijskim izvještajem JU "Centra za pružanje usluga iz oblasti socijalne i dječije zaštite za Opštinu Zeta", za 2024. godinu, Skupština opštine Zeta na XVIII sjednici, održanoj 26.3.2025. godine, donijela je
+Z A K LJ U Č A K
