@@ -1,0 +1,4 @@
+# Član 61
+Ustanove i organizacije iz člana 58 stav 2 i člana 59 ove uredbe, koje prestanu da ispunjavaju uslove za oslobođenje od plaćanja carine ili robu oslobođenu od plaćanja carine namjeravaju da koriste u druge svrhe, dužne su da o tome obavijeste nadležni carinski organ.
+Za predmete koji ostaju u svojini ustanove ili organizacije, koja prestane da ispunjava uslove za oslobođenje od plaćanja carine, plaća se carina po stopi važećoj na dan prestanka ispunjavanja uslova, prema vrsti robe i carinskoj vrijednosti koju je na taj dan utvrdio carinski organ.
+Za robu, koju ustanova ili organizacija, koja ima pravo na oslobođenje od plaćanja carine, koristi u svrhe koje nisu predviđene članom 58 stav 2 i članom 58 ove uredbe, plaća se carina po stopi važećoj na dan početka njenog korišćenja u druge svrhe, na osnovu vrste robe i carinske vrijednosti koju je na taj dan utvrdio carinski organ.

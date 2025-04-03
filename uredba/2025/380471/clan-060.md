@@ -1,0 +1,3 @@
+# Član 60
+Ako se roba iz člana 58 stav 2 i člana 59 ove uredbe da na upotrebu, zajam ili zalogu licu, ustanovi ili organizaciji, koja ispunjava uslove za oslobođenje, oslobođenje će se odobriti uz prethodno obavještenje carinskog organa i ako to lice, ustanova ili organizacija koristi robu u svrhe koje joj daju pravo na to oslobođenje.
+Predmeti koje uvoze ustanove ili organizacije koje imaju pravo na oslobođenje od plaćanja carine u skladu sa članom 58 stav 2 i članom 59 ove uredbe, mogu se dati na upotrebu, zajam ili zalogu, sa ili bez naknade, licima sa invaliditetom koja su korisnici pomoći kod tih ustanova i organizacija, bez plaćanja carine.

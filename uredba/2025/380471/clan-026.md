@@ -1,0 +1,4 @@
+# Član 26
+## 8. Proizvodna sredstva i druga oprema koju radi obavljanja djelatnosti uvoze lica koja su u državi u kojoj su prethodno boravila obavljala tu djelatnost najmanje 12 mjeseci
+Oslobođenje od plaćanja carine, u skladu sa Zakonom, primjenjuje se na proizvodna sredstva i drugu opremu koju radi obavljanja djelatnosti u Crnoj Gori uvoze lica koja su u državi u kojoj su boravila prethodno obavljala tu djelatnost najmanje 12 mjeseci i koja registruju privredno društvo, odnosno drugi oblik obavljanja djelatnosti, za obavljanje proizvodne ili uslužne djelatnosti u Crnoj Gori.
+Privredno društvo, odnosno drugi oblik obavljanja privredne djelatnosti iz inostranstva koje uvozi životinje koje služe za obavljanje te djelatnosti, oslobađa se carine pod uslovom da uvozi proizvodna sredstva i drugu opremu radi obavljanja te djelatnosti u Crnoj Gori.

@@ -1,0 +1,3 @@
+# Član 66
+Organizacije iz člana 63 ove uredbe koje prestanu da ispunjavaju uslove za oslobođenje od plaćanja carine ili robu oslobođenu od plaćanja carine namjeravaju da koriste za namjene za koje nije propisano oslobođenje, dužne su da o tome obavijeste nadležni carinski organ.
+Za robu koju organizacija koja ima pravo na oslobođenje od plaćanja carine, koristi za svrhu koja nije predviđena članom 63 ove uredbe, plaća se carina po stopi važećoj na dan početka korišćenja robe za namjene za koje nije propisano oslobođenje, prema vrsti robe i carinskoj vrijednosti koju je na taj dan utvrdio carinski organ.

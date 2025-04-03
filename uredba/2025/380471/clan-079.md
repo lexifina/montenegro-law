@@ -1,0 +1,8 @@
+# Član 79
+## 27. Dokumenti namijenjeni informisanju turista
+Oslobođenje od plaćanja carine, u skladu sa Zakonom, primjenjuje se na:
+1) dokumente (letke, brošure, knjige, časopise, vodiče, uokvirene ili neuokvirene plakati, neuokvirene fotografije, ilustrovane ili neilustrovane karte, dijapozitivi i ilustrovane kalendare) namijenjene za besplatnu raspodjelu, čija je svrha podsticanje javnosti da posjeti strane države, posebno radi prisustvovanja kulturnim, turističkim, sportskim, vjerskim, trgovačkim i stručnim sastancima ili događajima, ako ti dokumenti ne sadrže više od 25 % privatnih komercijalnih reklamnih materijala, isključujući privatno komercijalno oglašavanje za preduzeća iz Crne Gore;
+2) materijale u kojima su sadržani spiskovi stranih hotela i godišnjaci koje objavljuju ovlašćene turističke agencije, redovi vožnje stranih prevoznih službi, kada je takva literatura namijenjena za besplatnu podjelu i ne sadrži više od 25 % privatnog komercijalnog oglašavanja, isključujući privatno komercijalno oglašavanje za preduzeća iz Crne Gore;
+3) materijale koji se dostavljaju akreditovanim predstavnicima ili dopisnicima, koje su imenovale nacionalne turističke organizacije i, koji nijesu namijenjeni za distribuciju, (godišnjaci, spisak brojeva telefona ili teleksa, spisak hotela, katalozi sajmova, primjerci zanatske robe male vrijednosti i literatura o muzejima, univerzitetima, banjama, liječilištima ili sličnim ustanovama).
+Korisnik prava podnosi ovjerenu izjavu koja sadrži podatke o vrsti, količini i vrijednosti robe i namjeni korišćenja robe.
+Po zahtjevu za oslobođenje od plaćanja carine iz stava 1 ovog člana, odlučuje se zabilješkom na izjavi iz stave 2 ovog člana.
