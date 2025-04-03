@@ -1,0 +1,3 @@
+Na osnovu člana 268 stav 2 i člana 270 Zakona o privrednim društvima ("Službeni list CG", br. 65/20, 146/21 i 4/24), člana 38 stav 1 tač. 2 i 14 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 55 st. 1 i 2 Zakona o zaštiti prirode ("Službeni list CG", br. 54/16, 18/19 i 84/24) i člana 53 stav 1 tač. 2 i 14 Statuta Opštine Tuzi ("Službeni list CG - Opštinski propisi", br. 24/19, 5/20, 51/22 i 55/22), a u vezi sa članom 15 Odluke o proglašenju Spomenika prirode "Kanjon Cijevne" ("Službeni list CG - Opštinski propisi", broj 31/22) Skupština opštine Tuzi na sjednici održanoj dana 3. 4. 2025. godine donijela je
+ODLUKU
+o osnivanju Društva sa ograničenom odgovornošću "Spomenik prirode Kanjon Cijevne’’ Tuzi
