@@ -1,0 +1,3 @@
+# Član 7
+## Ostvarivanje prekogranične zdravstvene zaštite
+Prekograničnu zdravstvenu zaštitu kod pružaoca zdravstvebne zaštite u državi članici, uključujići i zdravstvenu zaštitu koja se pruža putem telemedicine, osigurano lice može da ostvari u obimu prava iz obaveznog zdravstvenog osiguranja, kao da tu zdravstvenu zaštitu ostvaruje u Crnoj Gori, ako je neophodna i srazmjerna cilju koji se postiže njenim ostvarivanjem, u skladu sa načelom jednakosti, bez diskriminacije ili neopravdanih ograničenja slobode kretanja pacijenata, u skladu Zakonom, na način i pod uslovima propisanim ovim pravilnikom.

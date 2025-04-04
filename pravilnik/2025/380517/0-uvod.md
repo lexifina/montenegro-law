@@ -1,0 +1,2 @@
+Na osnovu člana 31 stav 2 Zakona o obaveznom zdravstvenom osiguranju ("Službenom listu CG", br. 145/21 i 48/24 ) i člana 13 Statuta Fonda za zdravstveno osiguranje Crne Gore ("Službeni list CG", broj 15/24), uz saglasnost Ministarstva zdravlja, Upravni odbor Fonda za zdravstveno osiguranje Crne Gore, na sjednici od 26. marta 2025. godine, donio je
+P R A V IL N IK O NAČINU I USLOVIMA OSTVARIVANJA PREKOGRANIČNE ZDRAVSTVENE ZAŠTITE, KAO I VRSTI ZDRAVSTVENIH USLUGA ZA KOJE FOND NE IZDAJE PRETHODNO ODOBRENJE*
