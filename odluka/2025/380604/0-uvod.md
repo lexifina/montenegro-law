@@ -1,0 +1,2 @@
+Na osnovu čl. 267 i 271 Zakona o privrednim društvima ("Službeni list CG", br. 65/20, 146/21 i 4/24) i člana 8 Odluke o osnivanju Društva sa ograničenom odgovornošću "Skijališta Crne Gore" ("Službeni list CG", br. 77/17, 19/18, 72/18, 70/19 i 77/20), Vlada Crne Gore, na sjednici od 13. marta 2025. godine, donijela je
+ODLUKU O IZMJENAMA STATUTA DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "SKIJALIŠTA CRNE GORE"
