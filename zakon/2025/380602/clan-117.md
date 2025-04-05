@@ -1,0 +1,5 @@
+# Član 117
+## Nosilac aktuarske funkcije
+(1) Nosilac aktuarske funkcije u društvu za osiguranje može biti samo lice koje, pored uslova iz člana 99 ovog zakona, posjeduje odgovarajuća znanja o aktuarskoj i finansijskoj matematici, koja su primjerena prirodi, obimu i složenosti poslova društva za osiguranje u kojem će to lice biti imenovano za nosioca aktuarske funkcije, kao i odgovarajuće iskustvo u skladu sa aktuarskim i drugim standardima.
+(2) Dodatni uslovi iz stava 1 ovog člana ispunjeni su ako lice posjeduje odgovarajuću dokumentaciju, kojom potvrđuje da ima odgovarajuće znanje o aktuarskoj i finansijskoj matematici, stečeno u skladu sa programom obrazovanja međunarodnih, odnosno evropskih aktuarskih udruženja i ako može da dokaže da posjeduje najmanje tri godine odgovarajućeg radnog iskustva na aktuarskim poslovima.
+(3) Izuzetno od stava 1 ovog člana, smatraće se da lice koje posjeduje ovlašćenje za obavljanje aktuarskih poslova izdato od strane Agencije ispunjava uslove iz stava 1 ovog člana.

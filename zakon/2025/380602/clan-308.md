@@ -1,0 +1,10 @@
+# Član 308
+## Ocjena rezultata privremene uprave
+(1) Ako Agencija procijeni da se za vrijeme trajanja privremene uprave finansijsko stanje društva za osiguranje poboljšalo i da društvo za osiguranje dostiže nivo zahtijevanog solventnog kapitala, odnosno da društvo može da izvršava dospjele obaveze, rješenjem će naložiti privremenoj upravi da, u roku od osam dana od prijema rješenja, sazove skupštinu akcionara društva za osiguranje, radi imenovanja članova nadzornog odbora odnosno odbora direktora, koja se mora održati najkasnije u roku od dva mjeseca od dana prijema tog rješenja.
+(2) U slučaju iz stava 1 ovog člana, imenovanjem članova novog nadzornog odbora odnosno odbora direktora prestaju ovlašćenja Agencije iz člana 303 stav 3 ovog zakona.
+(3) Nadzorni odbor odnosno odbor direktora će u skladu sa ovim zakonom sprovesti postupak imenovanja članova upravnog odbora odnosno izvršnih direktora.
+(4) Danom imenovanja članova upravnog odbora odnosno izvršnih direktora prestaje mandat privremenoj upravi.
+(5) Kada procijeni da se za vrijeme trajanja privremene uprave finansijsko stanje društva za osiguranje nije poboljšalo i da društvo za osiguranje nije dostiglo nivo zahtijevanog solventnog kapitala, odnosno da ne može izvršavati dospjele obaveze, Agencija može donijeti rješenje o produženju rada privremene uprave na još najduže šest mjeseci ako ne postoje uslovi za podnošenje predloga za otvaranje stečaja nad društvom za osiguranje a Agencija procijeni da će društvo za osiguranje u sljedećih šest mjeseci dostići nivo zahtijevanog solventnog kapitala.
+(6) Kada Agencija ocijeni da se za vrijeme trajanja mandata privremene uprave stanje u društvu za osiguranje nije izmijenilo odnosno da društvo za osiguranje nije dostiglo nivo zahtijevanog solventnog kapitala odnosno da društvo ne može da ispunjava svoje dospjele obaveze, donijeće:
+- rješenje o ispunjenosti uslova za otvaranje postupka prinudne likvidacije, ili
+- rješenje o ispunjenosti uslova za otvaranje postupka stečaja, ako su za to ispunjeni uslovi propisani posebnim zakonom.

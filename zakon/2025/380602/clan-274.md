@@ -1,0 +1,4 @@
+# Član 274
+## Zabrana odbijanja ugovora o reosiguranju i retrocesiji u postupku nadzora
+(1) Agencija u postupku nadzora neće procjenjivati ugovor o reosiguranju zaključen sa društvom za reosiguranje odnosno sa društvom za osiguranje, kome je Agencija ili nadležni nadzorni organ izdao dozvolu za rad za obavljanje poslova reosiguranja, iz razloga koji su direktno povezani sa finansijskom stabilnošću tog društva za reosiguranje odnosno društva za osiguranje.
+(2) Agencija u postupku nadzora neće procjenjivati ugovor o retrocesiji zaključen sa društvom za reosiguranje odnosno sa društvom za osiguranje, kome je Agencija ili nadležni nadzorni organ izdao dozvolu za rad za obavljanje poslova reosiguranja, iz razloga koji su direktno povezani sa finansijskom stabilnošću tog društva za reosiguranje odnosno društva za osiguranje.

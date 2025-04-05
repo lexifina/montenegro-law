@@ -1,0 +1,14 @@
+# Član 55
+## jedne države članice
+(1) Društvo za osiguranje iz treće države koje ima dozvolu za obavljanje poslova osiguranja u Crnoj Gori i drugim državama članicama preko podružnice, može podnijeti zahtjev Agenciji i nadležnom nadzornom organu u tim državama članicama za zajedničko odobravanje sljedećih prednosti:
+1) obračun zahtijevanog solventnog kapitala iz člana 149 ovog zakona računa se u odnosu na sve djelatnosti kojima se društvo za osiguranje bavi u državama članicama, a prilikom obračuna uzimaju se u obzir poslovi koje su obavile sve podružnice društva za osiguranje u državama članicama;
+2) depozit iz člana 52 stav 2 tačka 4 ovog zakona polaže se samo u jednoj od tih država članica;
+3) imovina koja predstavlja minimalni zahtijevani kapital nalazi se u bilo kojoj od država članica u kojoj društvo za osiguranje obavlja djelatnost.
+(2) Zahtjev za ostvarivanje prednosti iz stava 1 ovog člana društvo za osiguranje iz treće države, upućuje nadležnom nadzornom organu država članica u kojima su osnovane podružnice, a u zahtjevu navodi nadležni nadzorni organ države članice, koji će u budućnosti nadzirati solventnost svih poslova podružnica osnovanih u državama članicama, sa obrazloženjem za izbor tog nadležnog nadzornog organa.
+(3) Društvo za osiguranje iz treće države dužno je da položi depozit iz člana 52 stav 2 tačka 4 ovog zakona u državi članici čiji će nadležni nadzorni organ u budućnosti nadzirati solventnost svih poslova podružnica društva za osiguranje u skladu sa stavom 2 ovog člana.
+(4) Prednosti predviđene u stavu 1 ovog člana mogu se odobriti samo ako su sa njima saglasni nadležni nadzorni organi svih država članica kojima je zahtjev podnijet.
+(5) Prednosti iz stava 1 ovog člana počinju proizvoditi pravne posljedice od dana kad odabrani nadležni nadzorni organ pisano obavijesti druge nadležne nadzorne organe da će taj organ nadzirati stanje solventnosti svih poslova podružnica u državama članicama.
+(6) Agencija je dužna da informacije potrebne za nadzor ukupne solventnosti podružnice u Crnoj Gori dostavlja nadležnom nadzornom organu iz stava 5 ovog člana.
+(7) Na zahtjev jedne ili više država članica u kojima posluje društvo za osiguranje iz stava 1 ovog člana, prednosti iz stava 1 ovog člana istovremeno se ukidaju u svim državama članicama za koje su odobrene.
+(8) Ako nadležni nadzorni organ iz stava 2 ovog člana oduzme dozvolu za obavljanje poslova osiguranja podružnici društva za osiguranje, dužan je da o tome obavijesti nadležne nadzorne organe država članica u kojima to društvo za osiguranje posluje preko podružnice, kako bi ti organi preduzeli odgovarajuće mjere.
+(9) Ako je u skladu sa stavom 8 ovog člana dozvola oduzeta zbog neadekvatnosti ukupnog stanja solventnosti utvrđenog u državama članicama u kojima društvo za osiguranje iz treće države posluje preko podružnice, Agencija će podružnici u Crnoj Gori oduzeti dozvolu za obavljanje poslova osiguranja.

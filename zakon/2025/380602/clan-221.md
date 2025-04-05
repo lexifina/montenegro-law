@@ -1,0 +1,5 @@
+# Član 221
+## Sukob interesa
+(1) Lice iz člana 220 stav 2 ovog zakona dužno je da preduzima odgovarajuće mjere kako bi utvrdilo da li tokom distribucije investicionih proizvoda osiguranja postoji sukob interesa između stranke i tog lica, uključujući tu i rukovodstvo i zaposlene tog lica ili bilo koje drugo lice koje je direktno ili indirektno povezano sa njima kroz kontrolu, kao i postojanja sukoba interesa između stranaka.
+(2) Ako organizacione ili administrativne mjere iz člana 220 stav 2 ovog zakona nijesu dovoljne da u razumnoj mjeri obezbijede sprječavanje štete po interese potencijalnih stranaka, lice iz člana 220 stav 2 ovog zakona dužno je da jasno i blagovremeno prije zaključenja ugovora o osiguranju obavijesti potencijalnog ugovarača o opštim osobinama ili izvorima sukoba interesa.
+(3) Izuzetno od člana 217 ovog zakona, lice iz stava 1 ovog člana dužno je da informacije iz stava 2 ovog člana dostavi na trajnom mediju i sačini imajući u vidu karakteristike stranke, tako da stranka može donijeti informisanu odluku u pogledu distribucije investicionog proizvoda osiguranja, u vezi sa kojom se pojavio sukob interesa.

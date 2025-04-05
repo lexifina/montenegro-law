@@ -1,0 +1,5 @@
+# Član 127
+## Ekstrapolacija relevantne vremenske strukture bezrizičnih kamatnih stopa
+(1) Prilikom određivanja relevantne vremenske strukture bezrizičnih kamatnih stopa iz člana 125 stav 1 ovog zakona društvo za osiguranje koristi informacije koje proizilaze iz odgovarajućih finansijskih instrumenata i uzima u obzir relevantne finansijske instrumente sa dospjećima, kada su tržišta za te finansijske instrumente, uključujući obveznice, duboka, likvidna i transparenta.
+(2) Za dospjeća, kada tržišta za relevantne finansijske instrumente, uključujući obveznice, više nijesu duboka, likvidna i transparentna, relevantna struktura bezrizičnih kamatnih stopa se ekstrapolira.
+(3) Ekstrapolirani dio relevantne vremenske strukture bezrizičnih kamatnih stopa zasniva se na terminskim kamatnim stopama koje glatko konvergiraju od jedne ili više terminskih kamatnih stopa, vezanih za najduža dospjeća relevatnih finansijskih instrumenata, uključujući obveznice, na dubokom, likvidnom i transparentnom tržištu, do konačne terminske kamatne stope.

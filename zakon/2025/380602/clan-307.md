@@ -1,0 +1,6 @@
+# Član 307
+## Povećanje osnovnog kapitala radi obezbjeđenja finansijske stabilnosti društva za osiguranje
+(1) Ako Agencija na osnovu izvještaja privremene uprave procijeni da je, radi obezbjeđenja usklađenosti sa zahtijevanim solventnim kapitalom društva za osiguranje ili otklanjanja uzroka te neusklađenosti, potrebno povećati osnovni kapital društva za osiguranje, naložiće privremenoj upravi da sazove skupštinu akcionara društva za osiguranje i predloži usvajanje odluke o povećanju osnovnog kapitala.
+(2) Privremena uprava dužna je da objavi saziv skupštine akcionara radi odlučivanja o povećanju osnovnog kapitala iz stava 1 ovog člana najkasnije u roku od osam dana nakon prijema naloga Agencije iz stava 1 ovog člana.
+(3) U pozivu iz stava 1 ovog člana akcionari moraju biti upozoreni na pravne posljedice nedonošenja odluke o povećanju osnovnog kapitala.
+(4) Ako na skupštini akcionara sazvanoj u skladu sa ovim članom ne bude usvojena odluka o povećanju osnovnog kapitala iz stava 1 ovog člana, privremena uprava će sazvati novu skupštinu akcionara, koja će se održati u roku od 10 dana od dana objavljivanja saziva, radi usvajanja odluke o dokapitalizaciji putem javnog poziva za uplaćivanje akcija.

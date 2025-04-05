@@ -1,0 +1,9 @@
+# Član 408
+## Primjerenost
+(1) Fizička lica, koja su zaposlena kod distributera osiguranja odnosno reosiguranja i direktno su uključena u distribuciju osiguranja ili reosiguranja, uključujući i članove organa upravljanja i rukovođenja tih društava iz stava 5 ovog člana, kao i lica koje obavljanju poslove distribucije osiguranja za društvo na osnovu drugog pravnog odnosa moraju ispunjavati uslov primjerenosti odnosno moraju imati ugled.
+(2) Smatra se da ugled ima fizičko lice koje:
+1) u posljednje tri godine nije bilo član organa upravljanja ili nosilac posebnih ovlašćenja u pravnom licu nad kojim je otvoren ili sproveden postupak prinudne likvidacije, odnosno stečaja;
+2) u posljednjih pet godina nije bilo pravosnažno osuđeno za krivična djela protiv imovine, poslovanja i pravnog prometa.
+(3) Distributer osiguranja, odnosno reosiguranja dužan je da provjerava ugled svojih zaposlenih koji su direktno uključeni u distribuciju osiguranja ili reosiguranja i članova organa upravljanja i rukovođenja odgovornih za distribuciju osiguranja ili reosiguranja, kao i posrednika koji za njih rade, a u slučaju prestanka njihove primjerenosti, da o tome bez odlaganja pisanim putem obavijeste Agenciju.
+(4) Provjera uslova primjerenosti iz ovog člana primjenjuje se na sva fizička lica koje su zaposlena u društvu za osiguranje odnosno reosiguranje ili kod posrednika, a koja su direktno uključena u poslove distribucije osiguranja ili reosiguranja.
+(5) Društvo za osiguranje odnosno reosiguranje dužno je da na zahtjev Agencije pruži dokaze da članovi organa upravljanja i rukovođenja tog društva koji su odgovorni za izvršavanje politika i procedura povezanih sa poslovima distribucije proizvoda osiguranja i reosiguranja, funkcija za praćenje i kontrolu distribucije osiguranja i reosiguranja i sva ostala lica direktno uključena u distribuciju osiguranja ili reosiguranja tog društva ispunjavaju uslov primjerenosti odnosno imaju ugled.

@@ -1,0 +1,8 @@
+# Član 4
+## Poslovanje malog društva za osiguranje
+(1) Mala društva za osiguranje moraju uvijek imati kapital najmanje u visini margine solventnosti izračunate u skladu sa stavom 6 ovog člana.
+(2) Garantni kapital malog društva za osiguranje ne smije biti manji od jedne trećine margine solventnosti iz stava 1 ovog člana kao ni od iznosa apsolutnog ograničenja minimalnog zahtijevanog kapitala iz člana 179 ovog zakona.
+(3) Odredbe ovog člana primjenjuju se i na društva za osiguranje koja podnesu zahtjev za izdavanje dozvole za obavljanje poslova osiguranja za koje se očekuje da njihova godišnja fakturisana bruto premija ili iznos njihovih bruto tehničkih rezervi, sa uključenim iznosima koji se mogu naplatiti na osnovu ugovora o reosiguranju ili od subjekata posebne namjene, neće prelaziti bilo koji od iznosa iz stava 1 ovog člana tokom sljedećih pet godina.
+(4) Agencija za nadzor osiguranja (u daljem tekstu: Agencija) će rješenjem utvrditi ispunjenost uslova za primjenu odredaba st. 1 do 3 ovog člana na društvo za osiguranje koje se u skladu sa članom 3 ovog zakona smatra malim društvom.
+(5) Društvo za osiguranje koje ispunjava uslove iz člana 3 stav 1 ovog zakona može podnijeti Agenciji zahtjev za promjenu statusa malog društva za osiguranje.
+(6) Agencija će u svrhu upravljanja rizicima za mala društva za osiguranje propisati obračun kapitala koji uključuje osnovni kapital, dopunski kapital, odbitne stavke pri obračunu kapitala, garantni kapital i adekvatnost kapitala, obračun margine solventnosti, upravljanje likvidnošću, kvalitativne i kvantitativne kriterijume ulaganja imovine, sadržaj poslovnog plana i izvještavanje Agencije.

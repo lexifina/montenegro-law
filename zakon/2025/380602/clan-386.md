@@ -1,0 +1,9 @@
+# Član 386
+## Izvještaj o solventnosti i finansijskom stanju grupe
+(1) Društvo za osiguranje koje ima učešće i društvo za reosiguranje, osiguravajući holding i mješoviti finansijski holding javno objavljuje jednom godišnje izvještaj o solventnosti i finansijskom stanju na nivou grupe, u skladu sa Regulativom (EU) br. 2015/35 i drugim propisima Evropske Komisije kojima se uređuje objavljivanje informacija koje se odnose na izvještaj o solventnosti i finansijskom stanju.
+(2) Na objavljivanje izvještaja o solventnosti i finansijskom stanju na nivou grupe na odgovarajući način primjenjuju se čl. 240 do 243 ovog zakona.
+(3) Društvo za osiguranje koje ima učešće, osiguravajući holding ili mješoviti finansijski holding mogu, zavisno o odobrenju Agencije kao nadzornog organa grupe, dostaviti jedinstven izvještaj o solventnosti i finansijskom stanju, u skladu sa Regulativom (EU) br. 2015/35 i drugim propisima Evropske Komisije kojima se uređuje objavljivanje informacija koje se odnose na izvještaj o solventnosti i finansijskom stanju, a koji će obuhvatiti sljedeće:
+1) informacije na nivou grupe, koje se objavljuju u skladu sa stavom 1 ovog člana,
+2) informacije o zavisnim društvima u grupi, koje moraju biti pojedinačno prepoznatljive i moraju biti objavljene u skladu sa čl. 240 do 243 ovog zakona.
+(4) Prije izdavanja saglasnosti iz stava 3 ovog člana, Agencija kao nadzorni organ grupe savjetuje se sa članovima kolegijuma nadzornih organa i uzima u obzir njihove stavove i ograničavajuće uslove.
+(5) Kada izvještaj iz stava 3 ovog člana ne sadrži informacije koje Agencija, kao nadležni nadzorni organ zavisnog društva, zahtijeva od društava uporedivih sa zavisnim društvom, i ako je propust značajan, Agencija može zahtijevati od tog zavisnog društva da objavi potrebne dodatne informacije.

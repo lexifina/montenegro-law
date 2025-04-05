@@ -1,0 +1,4 @@
+# Član 162
+## Značajna odstupanja od pretpostavki na kojima se zasniva obračun prema standardnoj formuli
+(1) Ukoliko profil rizičnosti društva za osiguranja značajno odstupa od pretpostavki na kojima se zasniva obračun prema standardnoj formuli, zbog čega nije primjereno obračunati zahtijevani solventni kapital u skladu sa standardnom formulom, Agencija može zahtijevati od društva za osiguranje da podskup parametara koji se upotrebljavaju u obračunu prema standardnoj formuli zamijeni parametrima koji su specifični za to društvo za osiguranje prilikom obračuna modula rizika životnog, neživotnog i zdravstvenog osiguranja.
+(2) Specifični parametri društva za osiguranje iz stava 1 ovog člana obračunavaju se na način koji osigurava da je predmetno društvo usklađeno sa članom 149 st. 2 i 3 ovog zakona.

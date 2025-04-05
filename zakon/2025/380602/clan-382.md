@@ -1,0 +1,13 @@
+# Član 382
+## Savjetovanje Agencije i nadzornih organa iz drugih država članica
+(1) Agencija i nadležni nadzorni organi država članica, kada je odluka važna za nadzorne zadatke drugih nadzornih organa, prije nego što donesu tu odluku međusobno se savjetuju na kolegijumu nadzornih organa u vezi sa:
+1) promjenom u strukturi akcionara, organizacionoj ili upravljačkoj strukturi društava za osiguranje, odnosno društava za reosiguranje u grupi, za koju je potrebna saglasnost ili odobrenje nadzornih organa,
+2) odluku o produženju perioda oporavka u skladu sa članom 187 ovog zakona,
+3) glavne sankcije ili izuzetne mjere koje preduzimaju nadzorni organi, uključujući određivanje kapitalnog dodatka na zahtijevani solventni kapital u skladu sa članom 292 ovog zakona i uvođenje bilo kojih ograničenja za upotrebu unutrašnjeg modela za obračun zahtijevanog solventnog kapitala u skladu sa ovim zakonom.
+(2) U slučaju iz stava 1 tač. 2 i 3 ovog člana, Agencija je dužna da se posavjetuje sa nadzornim organom grupe.
+(3) Kada se odluka zasniva na informacijama koje su primljene od drugih nadzornih organa, Agencija i nadležni nadzorni organi država članica međusobno se savjetuju prije donošenja te odluke.
+(4) U hitnim slučajevima ili kada bi takvo savjetovanje moglo ugroziti efikasnost odluke, Agencija može odlučiti da se ne savjetuje sa drugim nadzornim organima, i o tome bez odlaganja obavještava druge nadležne nadzorne organe država članica.
+(5) Agencija, kao nadzorni organ grupe, može pozvati nadležni nadzorni organ države članice u kojoj matično društvo ima svoje sjedište i koje ne obavlja nadzor grupe na isti način kako je propisano u članu 379 ovog zakona, da pribavi od matičnog društva informacije potrebne za izvršavanje prava i obaveza iz člana 380 ovog zakona i dostavi te informacije Agenciji.
+(6) Kada su Agenciji, kao nadzornom organu grupe, potrebne informacije iz člana 384 st. 2 do 6 ovog zakona koje su već date drugom nadzornom organu, Agencija kontaktira sa tim organom uvijek kada je to moguće kako bi se spriječilo dvostruko izvještavanje organa koji su uključeni u nadzor.
+(7) Kad su društvo za osiguranje i kreditna institucija u skladu sa zakonom kojim se uređuje poslovanje kreditnih institucija ili investiciono društvo u skladu sa zakonom kojim se uređuje tržište kapitala, neposredno ili posredno povezani ili imaju zajedničko društvo koje ima učešće, Agencija i nadležni nadzorni organi država članica i organi odgovorni za nadzor tih drugih društava blisko sarađuju.
+(8) Agencija i organi iz prethodnog stava ovog člana razmjenjuju informacije koje vjerovatno pojednostavljuju njihove zadatke, posebno u skladu sa čl. 347 do 394 ovog zakona.

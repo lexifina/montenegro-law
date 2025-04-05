@@ -1,0 +1,7 @@
+# Član 51
+## Poslovanje društva za reosiguranje
+(1) Društvo za reosiguranje koje neposredno obavlja poslove reosiguranja na teritoriji Crne Gore dužno je da, prije početka pružanja usluga reosiguranja na teritoriji Crne Gore, pisano obavijesti Agenciju o adresi u Crnoj Gori na koju će se dostavljati pismena Agencije upućena tom društvu.
+(2) Ako Agencija utvrdi da društvo za reosiguranje koje ima podružnicu ili koje neposredno obavlja djelatnost na teritoriji Crne Gore nije usklađeno sa zakonskom i podzakonskom regulativom koja se na njega primjenjuje u Crnoj Gori, zahtijevaće od tog društva da otkloni takvu nepravilnost i istovremeno će o tome obavijestiti nadležni nadzorni organ matične države članice tog društva.
+(3) Ako društvo za reosiguranje iz stava 2 ovog člana i pored mjera koje je preduzeo nadležni nadzorni organ matične države članice nastavi sa kršenjem propisa koji se na njega primjenjuju u Crnoj Gori, ili su te mjere bile neadekvatne ili nedovoljne u toj državi članici, Agencija može da, nakon što prethodno obavijesti nadležni nadzorni organ matične države članice, preduzme primjerene mjere kako bi spriječila ili kaznila dalje nepravilnosti.
+(4) Pored mjera iz stava 3 ovog člana, Agencija može, u mjeri u kojoj je neophodno, zabraniti društvu za reosiguranje da nastavi sa zaključivanjem novih ugovora o reosiguranju na teritoriji Crne Gore.
+(5) Agencija može predmet da uputi EIOPA-i i da zahtijeva pomoć u sprovođenju primjerenih mjera u skladu sa Regulativom (EU) br. 1094/2010.

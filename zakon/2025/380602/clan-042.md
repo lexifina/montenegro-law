@@ -1,0 +1,14 @@
+# Član 42
+## Obavljanje poslova osiguranja preko podružnice u Crnoj Gori
+(1) Svaka trajna prisutnost društva za osiguranje na teritoriji Crne Gore tretira se na isti način kao podružnica, čak i kad ta prisutnost nema oblik podružnice i sastoji se samo od kancelarije kojim upravlja lice zaposleno u društvu za osiguranje ili lice koje je nezavisno a ima trajno ovlašćenje da zastupa društvo za osiguranje.
+(2) Društvo za osiguranje sa sjedištem u drugoj državi članici koje ima namjeru da preko podružnice prvi put obavlja djelatnost u Crnoj Gori, obavještava nadležni nadzorni organ matične države članice o prirodi rizika ili obaveza koje ima namjeru da pokriva, sa podacima o:
+1) poslovnom planu sa vrstama predviđenih poslova i organizacionom strukturom podružnice;
+2) ovlašćenom predstavniku iz člana 36 stav 2 tačka 2 ovog zakona; i
+3) zvaničnoj adresi u Crnoj Gori, preko koje će se odvijati sva pisana korespondencija sa društvom za osiguranje i ovlašćenim predstavnikom.
+(3) Obavještenje i podatke iz stava 2 ovog člana Agenciji dostavlja nadležni nadzorni organ matične države članice u skladu sa propisima te države članice, sa potvrdom da to društvo za osiguranje pokriva zahtijevani solventni kapital i minimalni zahtijevani kapital.
+(4) U roku od dva mjeseca od dana prijema kompletne dokumentacije iz stava 3 ovog člana, Agencija će dostaviti nadzornom organu druge države članice obavještenje o uslovima pod kojima, u javnom interesu, društvo za osiguranje iz stava 2 ovog člana može obavljati poslove osiguranja preko podružnice u Crnoj Gori.
+(5) Kad društvo za osiguranje ima namjeru da preko svoje podružnice pruža usluge osiguranja propisane zakonom kojim se uređuje obavezno osiguranje u saobraćaju, dužno je da, prije početka pružanja tih usluga osiguranja, Agenciji dostavi izjavu da je postalo član nacionalnog udruženja osiguravača i nacionalnog garantnog fonda.
+(6) Društvo za osiguranje koje ima namjeru da izmijeni sadržaj podataka iz stava 2 ovog člana, dužno je da o tome pisano obavijesti Agenciju i nadležni nadzorni organ matične države članice, najkasnije mjesec dana prije planiranih izmjena.
+(7) Izmjenu koja se odnosi na proširenje poslovanja moguće je sprovesti nakon isteka mjesec dana od dana kada je obavještenje dostavljeno Agenciji.
+(8) Društvo za osiguranje iz druge države članice koje pokriva rizik iz vrste osiguranja iz člana 18 stav 1 tačka 2 ovog zakona na teritoriji Crne Gore, dužno je da prije početka obavljanja tih poslova dostavi Agenciji uslove osiguranja za ta osiguranja.
+(9) Društvo za osiguranje iz druge države članice može da osnuje podružnicu na teritoriji Crne Gore i da počne sa radom od dana kada nadležni nadzorni organ države članice primi informaciju iz stava 3 ovog člana ili, ako ih ne primi, nakon isteka dva mjeseca od dana kada je nadležni nadzorni organ dostavio Agenciji dokumentaciju iz stava 2 ovog člana.

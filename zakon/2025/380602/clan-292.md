@@ -1,0 +1,16 @@
+# Član 292
+## Kapitalni dodatak
+(1) Agencija može, u izuzetnim okolnostima, u skladu sa Regulativom (EU) br. 2015/35, rješenjem naložiti društvu za osiguranje uvođenje kapitalnog dodatka, kada:
+1) profil rizičnosti društva za osiguranje značajno odstupa od pretpostavki iz ovog zakona, na osnovu kojih je izvršen obračun zahtijevanog solventnog kapitala standardnom formulom i kada je:
+- zahtjev za upotrebu internog modela iz člana 170 ovog zakona neprimjeren ili je bio neefektivan, ili
+- djelimični ili potpuni interni model u razvoju u skladu sa članom 170 ovog zakona;
+2) profil rizičnosti društva za osiguranje značajno odstupa od pretpostavki iz ovog zakona na osnovu kojih je obračunat zahtijevani solventni kapital upotrebom potpunog ili djelimičnog internog modela, iz razloga što neki mjerljivi rizici nijesu dovoljno obuhvaćeni modelom, a prilagođavanje modela u cilju boljeg odražavanja datog profila rizičnosti nije izvršeno u odgovarajućem vremenskom periodu;
+3) sistem upravljanja društva za osiguranje značajno odstupa od standarda iz ovog zakona i ta odstupanja sprječavaju da se rizici kojima je društvo za osiguranje izloženo ili kojima bi moglo biti izloženo primjereno utvrde, mjere, prate, da se njima upravlja i o njima izvještava i nije vjerovatno da bi primjena drugih mjera mogla sama po sebi dovoljno da poboljša nedostatke u odgovarajućem vremenskom periodu;
+4) društvo za osiguranje primjenjuje prilagođavanje za uravnoteženje iz člana 128 ovog zakona, prilagođavanje za volatilnost iz člana 130 ovog zakona ili prelazne mjere iz čl. 468 i 469 ovog zakona, pri čemu profil rizičnosti tog društva za osiguranje značajno odstupa od pretpostavki na kojima se zasnivaju navedena prilagođavanja i prelazne mjere.
+(2) U slučajevima iz stava 1 tač. 1 i 2 ovog člana kapitalni dodatak obračunava se u skladu sa Regulativom (EU) br. 2015/35 na način da se obezbijedi usklađenost društva za osiguranje sa članom 149 st. 3 i 4 ovog zakona.
+(3) U slučaju iz stava 1 tačka 3 ovog člana, iznos kapitalnog dodatka će biti srazmjeran značajnim rizicima koji proizlaze iz nedostataka koji su doveli do odluke Agencije da odredi taj dodatak.
+(4) U slučaju iz stava 1 tačka 4 ovog člana, iznos kapitalnog dodatka će biti srazmjeran značajnim rizicima koji proizlaze iz odstupanja i koji su doveli do odluke Agencije da odredi taj dodatak.
+(5) Agencija će preduzeti odgovarajuće mjere kako bi društvo za osiguranje otklonilo nedostatke koji su doveli do uvođenja kapitalnog dodatka.
+(6) Agencija preispituje kapitalni dodatak iz stava 1 ovog člana najmanje jedanput godišnje, i donosi rješenje o njegovom ukidanju kad utvrdi da je društvo za osiguranje otklonilo nedostatke koji su doveli do njegovog uvođenja.
+(7) Zbir iznosa kapitalnog dodatka iz stava 1 ovog člana i zahtijevanog solventnog kapitala obračunatog standardnom formulom ili upotrebom internog modela od strane društva za osiguranje predstavlja adekvatni iznos zahtijevanog solventnog kapitala društva za osiguranje.
+(8) Izuzetno od stava 7 ovog člana, zahtijevani solventni kapital ne uključuje kapitalni dodatak uveden u skladu sa stavom 1 tačka 3 ovog člana za potrebe obračuna margine rizika iz člana 126 st. 2 i 3 ovog zakona.

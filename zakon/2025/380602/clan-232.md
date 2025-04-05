@@ -1,0 +1,15 @@
+# Član 232
+## Prikupljanje, obrada, vođenje i upotreba ličnih podataka
+(1) Društva za osiguranje i Udruženje - Nacionalni biro osiguravača prikupljaju, obrađuju, čuvaju,dostavljaju i upotrebljavaju lične podatke potrebne za zaključenje ugovora o osiguranju i likvidaciju šteta koje proizlaze iz osiguranja u skladu sa ovim zakonom i zakonom kojim se reguliše zaštita ličnih podataka i ostalim propisima o zaštiti podataka.
+(2) Nacionalno udruženje osiguravača može obrađivati lične i druge podatke iz baza podataka društava za osiguranje i nacionalnog udruženja osiguravača koji se čuvaju u skladu sa članom 401 ovog zakona, u svrhu utvrđivanja spornih okolnosti u vezi sa štetnim događajem.
+(3) Ako iz podataka o štetnim događajima nacionalno udruženje osiguravača utvrdi da postoje određene sporne okolnosti, dužno je društvima za osiguranje koja se bave zahtjevima za naknadu štete u vezi sa tim događajima omogućiti pristup tim podacima.
+(4) Nacionalno udruženje osiguravača vodi evidenciju utvrđenih spornih okolnosti sa podacima iz stava 2 ovog člana pet godina od datuma podnošenja prijave društvima za osiguranje.
+(5) Nakon isteka perioda iz stava 4 ovog člana podaci se brišu iz registara, a dokumenti se uništavaju tako da se njihov sadržaj ne može utvrditi i ne može se ponovno koristiti.
+(6) Prilikom rješavanja štetnih događaja ili ispitivanja sumnjivih slučajeva nepravilno plaćenih naknada ili koristi društva za osiguranje koja se bave zahtjevima za naknadu štete u spornim štetnim događajima mogu, kako bi se utvrdile stvarne okolnosti i u mjeri u kojoj je to potrebno, razmjenjivati lične i druge podatke iz baze društava za osiguranje i nacionalnog udruženja osiguravača koji se čuvaju u skladu sa članom 401 ovog zakona sa drugim društvima za osiguranje i nacionalnim udruženjem osiguravača.
+(7) Ako sporne okolnosti štetnog događaja ukazuju na postojanje krivičnog djela prevare u oblasti poslova osiguranja ili kada društvo za osiguranje otkrije prevaru ili drugo krivično djelo prilikom obavljanja djelatnosti osiguranja, društvo za osiguranje će podnijeti prijavu nadležnom organu zajedno sa već prikupljenim dokazima, u skladu sa zakonom kojim se uređuje krivični postupak.
+(8) Ako društvo za osiguranje prilikom rješavanja štetnog događaja utvrdi da sporne okolnosti ne utiču na obaveze društva za osiguranje na osnovu ugovora o osiguranju, podaci dobijeni od nacionalnog udruženja osiguravača ili drugog društva za osiguranje brišu se u roku od 30 dana od dana isplate naknade ili koristi, a dokumenti će biti uništeni tako da se njihov sadržaj ne može utvrditi i ne može se ponovno koristiti.
+(9) St. 6 do 8 ovog člana primjenjuju se i u slučajevima potrebe razmjene ličnih podataka sa društvima za osiguranje i organima druge države članice i treće države, u svrhu sprječavanja prevara u osiguranju, u skladu sa propisima kojima se uređuje zaštita ličnih podataka.
+(10) Društva za osiguranje i nacionalno udruženje osiguravača mogu osnovati, održavati i voditi sljedeće baze podataka:
+1) bazu podataka o osiguranicima;
+2) bazu podataka o štetnim događajima;
+3) bazu podataka za procjenu pokrića osiguranja i visine naknade štete.

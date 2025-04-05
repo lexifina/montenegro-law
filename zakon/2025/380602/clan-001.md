@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim zakonom uređuju se uslovi za osnivanje, poslovanje i prestanak društava za osiguranje i društava za reosiguranje, uslovi pod kojima društva za osiguranje i društva za reosiguranje iz drugih država članica i trećih država mogu obavljati poslove osiguranja, odnosno poslove reosiguranja u Crnoj Gori, zaštita potrošača, izvještavanje Evropskog nadzornog tijela za osiguranje i strukovno penziono osiguranje (EIOPA) i Evropske komisije, nadzor djelatnosti osiguranja, povjerenik, privremena uprava, likvidacija i stečaj društava za osiguranje i društava za reosiguranje, nadzor društava za osiguranje i društava za reosiguranje u grupi, distribucija osiguranja i druga pitanja od značaja za obavljanje djelatnosti osiguranja.

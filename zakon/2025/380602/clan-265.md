@@ -1,0 +1,5 @@
+# Član 265
+## Nadzor nad poslovanjem podružnice društva za osiguranje u drugoj državi članici
+(1) Neposredni nadzor nad finansijskim poslovanjem podružnice društva za osiguranje u drugoj državi članici na području te države članice sprovodi Agencija samostalno ili preko imenovanog lica, nakon što o namjeri obavljanja nadzora prethodno obavijesti nadležni nadzorni organ te države članice.
+(2) U slučaju iz stava 1 ovog člana, nadležni nadzorni organ države članice može učestvovati u predmetnom nadzoru.
+(3) Kada Agencija obavijesti nadležni nadzorni organ države članice u kojoj se nalazi podružnica društva za osiguranje o namjeri da sprovede neposredni nadzor u skladu sa stavom 1 ovog člana, pri čemu bi Agenciji bilo zabranjeno ostvarivanje prava na sprovođenje neposrednog nadzora, ili ako nadležni nadzorni organ države članice nije bio u mogućnosti da učestvuje u predmetnom neposrednom nadzoru, Agencija i nadležni nadzorni organ države članice mogu predmet uputiti EIOPA-i i zatražiti njenu pomoć u skladu sa Regulativom (EU) br. 1094/2010.

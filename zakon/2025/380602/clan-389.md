@@ -1,0 +1,8 @@
+# Član 389
+## Mjere za sprovođenje
+(1) Kad društvo za osiguranje ili društvo za reosiguranje u grupi ne ispunjava zahtjeve predviđene čl. 353 do 378 ovog zakona ili u slučaju kad su zahtjevi ispunjeni ali solventnost može biti ugrožena ili u slučaju kad unutargrupne transakcije ili koncentracije rizika ugrožavaju finansijski položaj društava za osiguranje, Agencija je dužna da donese mjere koje su nužne kako bi se stanje što prije popravilo:
+1) ako je nadzorni organ grupe u slučaju osiguravajućih holdinga ili mješovitih finansijskih holdinga, ili
+2) ako je nadležni nadzorni organ u slučaju društava za osiguranje i društava za reosiguranje.
+(2) Kad u slučaju iz stava 1 ovog člana Agencija kao nadzorni organ grupe nije jedno od nadzornih organa države članice u kojoj je sjedište osiguravajućeg holdinga, mješovitog finansijskog holdinga ili društva za osiguranje, odnosno društva za reosiguranje, Agencija kao nadzorni organ grupe obavještava te nadzorne organe o svojim nalazima kako bi im omogućila da donesu potrebne mjere, u skladu sa propisima Evropske Komisije kojima se uređuju mjere za sprovođenje čl. 347 do 394 ovog zakona.
+(3) Agencija i nadzorni organi sarađuju kako bi osigurali efikasnost sankcija ili mjera u odnosu na osiguravajuće holdinge, mješovite finansijske holdinge ili lica koja stvarno upravljaju tim društvima, u slučaju kršenja zakona i drugih propisa, posebno ako centralna uprava ili glavne jedinice osiguravajućeg holdinga ili mješovitog finansijskog holdinga nijesu u istoj državi članici kao njihovo sjedište.
+(4) Agencija usklađuje svoje mjere sa nadzornim organima kojih se tiče, uključujući nadzorni organ grupe, tamo gdje je prikladno.

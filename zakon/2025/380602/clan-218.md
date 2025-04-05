@@ -1,0 +1,10 @@
+# Član 218
+## Unakrsna prodaja
+(1) Kada nudi proizvod osiguranja zajedno sa proizvodom ili uslugom koji nije osiguranje, kao dio paketa ili istog ugovora, distributer osiguranja dužan je da obavijesti stranku o tome da li je te proizvode moguće odvojeno kupiti i, kada jeste, da dostavi odgovarajući opis različitih elemenata ugovora ili paketa, kao i odvojeni dokaz o troškovima i naknadama za svaki pojedini proizvod.
+(2) U slučaju iz stava 1 ovog člana i kada se rizik ili osiguravajuće pokriće koje proizilazi iz takvih ugovora ili paketa razlikuju od onih koje bi proizilazilo iz odvojenih elemenata, distributer osiguranja dužan je da dostavi adekvatan opis svih proizvoda u okviru ugovora ili paketa i načina na koji njihova kombinacija mijenja rizik ili osiguravajuće pokriće.
+(3) Kada je proizvod osiguranja dodatan u odnosu na robu ili uslugu koji nijesu osiguranje kao dio paketa ili istog ugovora, distributer osiguranja dužan je da stranki omogući odvojenu kupovinu te robe ili usluge.
+(4) Stav 3 ovog člana ne primjenjuje se na proizvode osiguranja koji su dodatni u odnosu na investicionu uslugu ili aktivnost u smislu zakona kojim se uređuje tržište kapitala, u odnosu na ugovor o kreditu u smislu zakona kojim se uređuju potrošački krediti ili u odnosu na račun za plaćanje u smislu zakona kojim se uređuje uporedivost naknada povezanih sa računom za plaćanje potrošača.
+(5) Ovaj član ne sprječava distribuciju proizvoda osiguranja koji pružaju pokriće od različitih vrsta rizika (polisa osiguranja sa više pokrivenih rizika).
+(6) U slučaju iz st. 1 i 3 ovog člana distributer osiguranja dužan je da utvrdi zahtjeve i potrebe stranaka u odnosu na proizvode osiguranja koji su dio paketa ili istog ugovora.
+(7) Kada je investicioni proizvod dio paketa ili istog ugovora, distributer osiguranja ne smije ponuditi paket ili ugovor za koji prethodno nije utvrdio da u cjelosti odgovara interesima stranke, u skladu sa članom 223 ovog zakona.
+(8) Agencija može zabraniti prodaju osiguranja zajedno sa dodatnom uslugom ili proizvodom koji nije osiguranje, kao dio paketa ili istog ugovora, kada utvrdi da je takva prodaja štetna za interes potrošača.

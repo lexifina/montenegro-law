@@ -1,0 +1,6 @@
+# Član 257
+## Zaštita nezavisnosti revizora
+(1) U slučaju raskida ugovora o obavljanju zakonske revizije društvo za osiguranje, odnosno revizorsko društvo dužni su da, u primjerenom roku, Agenciji pisano obrazlože razloge za raskid.
+(2) Ovlašćeni revizor ili revizorsko društvo koji obavljaju zakonsku reviziju društva za osiguranje i svi članovi mreže kojoj ovlašćeni revizor ili revizorsko društvo pripadaju, ne smiju pružati, posredno ili neposredno, društvu za osiguranje koje je predmet revizije, njegovom matičnom društvu ili društvima koja su pod njegovom kontrolom u državama članicama bilo koje zabranjene nerevizorske usluge iz člana 5 stav 1 Regulative (EU) br. 537/2014 Evropskog parlamenta i Savjeta od 16. aprila 2014. o posebnim zahtjevima u vezi zakonske revizije subjekata od javnog interesa i stavljanju van snage Odluke Evropske Komisije 2005/909/EZ, tokom:
+1) perioda između početka perioda koje je predmet revizije i izdavanja revizorskog izvještaja, i
+2) finansijske godine koja prethodi periodu iz tačke 1 ovog stava u vezi sa uslugom osmišljavanja i sprovođenja postupaka interne kontrole ili upravljanja rizikom povezanih sa pripremom ili nadzorom finansijskih informacija ili osmišljavanje i sprovođenje tehnoloških sistema za finansijske informacije.

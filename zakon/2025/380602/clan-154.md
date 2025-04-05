@@ -1,0 +1,11 @@
+# Član 154
+## Modul rizika životnih osiguranja
+(1) Modul rizika životnih osiguranja odražava rizik koji proizilazi iz obaveza po osnovu ugovora o osiguranju sa obilježjima životnih osiguranja, a u vezi sa pokrivenim opasnostima i procesima koji se upotrebljavaju u obavljanju poslova.
+(2) Modul rizika životnih osiguranja obračunava se kao kombinacija kapitalnih zahtjeva za najmanje sljedeće podmodule rizika:
+1) rizik smrtnosti, koji se odnosi na rizik gubitka ili nepovoljne promjene vrijednosti obaveza iz ugovora o osiguranju koji proizilazi iz promjena u nivou, trendu ili volatilnosti stopa smrtnosti, pri čemu povećanje stopa smrtnosti dovodi do povećanja vrijednosti obaveza iz ugovora o osiguranju;
+2) rizik dugovječnosti, koji se odnosi na rizik gubitka ili nepovoljne promjene vrijednosti obaveza iz ugovora o osiguranju koji proizilazi iz promjena u nivou, trendu ili volatilnosti stopa smrtnosti, pri čemu smanjenje stopa smrtnosti dovodi do povećanja vrijednosti obaveza iz ugovora o osiguranju;
+3) rizik invaliditeta - pobolijevanja, koji se odnosi na rizik gubitka ili nepovoljne promjene vrijednosti obaveza iz ugovora o osiguranju koji proizilazi iz promjena u nivou, trendu ili volatilnosti stopa invaliditeta i pobolijevanja;
+4) rizik troškova životnih osiguranja, koji se odnosi na rizik gubitka ili nepovoljne promjene vrijednosti obaveza iz ugovora o osiguranju koji proizilazi iz promjena u nivou, trendu ili volatilnosti troškova nastalih održavanjem ugovora o osiguranju;
+5) rizik usklađivanja, koji se odnosi na rizik gubitka ili nepovoljne promjene vrijednosti obaveza iz ugovora o osiguranju koji proizilazi iz promjena u nivou, trendu ili volatilnosti stopa usklađivanja koje se primjenjuju na rente zbog promjena u pravnom okruženju ili zdravstvenom stanju osiguranika;
+6) rizik odustanka, koji se odnosi na rizik gubitka ili nepovoljne promjene vrijednosti obaveza iz ugovora o osiguranju koji proizilazi iz promjena u nivou ili volatilnosti stopa odustanka, raskida, obnove i otkupa polisa osiguranja;
+7) rizik katastrofe životnih osiguranja, koji se odnosi na rizik gubitka ili nepovoljne promjene vrijednosti obaveza iz ugovora o osiguranju koji proizilazi iz postojanja značajnih neizvjesnosti u pretpostavkama u vezi sa formiranjem premija i tehničkih rezervacija povezanih sa ekstremnim i vanrednim događajima.

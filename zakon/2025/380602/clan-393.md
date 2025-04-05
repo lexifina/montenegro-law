@@ -1,0 +1,5 @@
+# Član 393
+## Nivoi provjere ekvivalentnosti
+(1) Ako je matično društvo grupe iz člana 390 ovog zakona zavisno društvo osiguravajućeg holdinga ili mješovitog finansijskog holdinga sa sjedištem u trećoj državi, ili društva za osiguranje, odnosno društva za reosiguranje iz treće države, Agencija primjenjuje provjeru iz člana 390 ovog zakona samo na nivou krajnjeg matičnog društva koje je osiguravajući holding treće države, mješoviti finansijski holding iz treće države, društvo za osiguranje iz treće države, odnosno društvo za reosiguranje iz treće države.
+(2) Ako nije utvrđena ekvivalentnost nadzora iz člana 390 ovog zakona, Agencija može sprovesti novu provjeru na nižem nivou, ako postoji matično društvo društava za osiguranje, na nivou osiguravajućeg holdinga treće države, mješovitog finansijskog holdinga iz treće države, društva za osiguranje iz treće države, odnosno društva za reosiguranje iz treće države.
+(3) Na slučajeve iz stava 2 ovog člana shodno se primjenjuje član 392 ovog zakona, a Agencija objašnjava svoju odluku grupi.

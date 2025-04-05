@@ -1,0 +1,8 @@
+# Član 377
+## Nadzor unutargrupnih transakcija
+(1) Društvo za osiguranje, osiguravajući holding i mješoviti finansijski holding redovno, a najmanje jednom godišnje podnosi izvještaj Agenciji kao nadzornom organu grupe o svim značajnijim unutargrupnim transakcijama, definisanim u skladu sa Regulativom (EU) br. 2015/35, društva za osiguranje i društva za reosiguranje unutar grupe, uključujući one sprovedene sa fizičkim licima koja su blisko povezana sa društvom u grupi, osim u slučaju iz člana 350 stav 2 ovog zakona.
+(2) Potrebne podatke Agenciji kao nadzornom organu grupe dostavlja društvo za osiguranje koje se nalazi na čelu grupe ili, ako se na čelu grupe ne nalazi društvo za osiguranje, osiguravajući holding, mješoviti finansijski holding ili društvo za osiguranje u grupi koje je odredila Agencija kao nadzorni organ grupe nakon savjetovanja sa drugim nadležnim nadzornim organima država članica i grupom.
+(3) Društvo iz stava 2 ovog člana dužno je da Agenciji, kao nadzornom organu grupe, čim to bude moguće podnese izvještaj o veoma značajnim unutargrupnim transkacijama, u skladu sa propisima Evropske Komisije kojima se uređuje izvještavanje o unutargrupnim transakcijama.
+(4) Agencija kao nadzorni organ grupe, nakon savjetovanja sa drugim nadležnim nadzornim organima država članica i grupom, utvrđuje tipove transakcija, u skladu sa Regulativom (EU) br. 2015/35, unutar grupe o kojima društva za osiguranje i društva za reosiguranje u određenoj grupi moraju izvještavati u svim okolnostima.
+(5) Na nadzor unutargrupnih transakcija shodno se primjenjuju odredbe člana 376 st. 3, 4 i 5 ovog zakona.
+(6) Nadzor unutargrupnih transakcija sprovodi se i uz odgovarajuću primjenu odredbi člana 378 i čl. 379 do 389 ovog zakona.

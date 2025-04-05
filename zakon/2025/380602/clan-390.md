@@ -1,0 +1,9 @@
+# Član 390
+## Provjera ekvivalentnosti
+(1) U slučaju iz člana 347 stav 2 tačka 3 ovog zakona Agencija provjerava podliježu li društva za osiguranje odnosno društva za reosiguranje, čije matično društvo ima sjedište u trećoj državi, nadzoru nadzornih organa iz trećih država koji je ekvivalentan sa čl. 347 do 394 ovog zakona o nadzoru na nivou grupe društava za osiguranje i društava za reosiguranje.
+(2) Kada je Agencija nadzorni organ grupe po kriterijumima iz člana 379 stav 4 ovog zakona, a Evropska Komisija nije donijela propis kojim se uređuje istovjetnost trećih država, provjeru iz stava 1 ovog člana obavlja Agencija (vršilac dužnosti nadzornog organa grupe), po službenoj dužnosti ili na zahtjev matičnog društva ili bilo kojeg društva za osiguranje koje ima dozvolu za obavljanje poslova osiguranja u Evropskoj uniji.
+(3) Pri provjeri iz stava 2 ovog člana, Agencija se kao vršilac dužnosti nadzornog organa grupe uz pomoć EIOPA-e savjetuje sa drugim nadležnim nadzornim organima prije donošenja odluke o istovjetnosti.
+(4) Odluka iz prethodnog stava donosi se u skladu sa Regulativom (EU) br. 2015/35.
+(5) Agencija kao vršilac dužnosti nadzornog organa grupe ne donosi odluku koja se odnosi na treću državu, koja je suprotna bilo kojoj prethodnoj odluci za tu treću državu, osim ako se nadzorni sistem propisan čl. 261 do 346 ovog zakona i nadzorni sistem treće države značajno promijenio.
+(6) Ako se Agencija ne slaže sa odlukom koju je donio nadležni nadzorni organ postupajući u svojstvu vršioca dužnosti nadzornog organa grupe, može u skladu sa Regulativom (EU) br. 1094/2010 uputiti predmet EIOPA-i i tražiti njenu pomoć u roku od tri mjeseca od dana prijema obavještenja vršioca dužnosti nadzornog organa grupe.
+(7) Ako Evropska Komisija ne donese propise na osnovu propisa Evropske Komisije kojima se uređuje istovjetnost trećih država, primjenjuje se član 392 ovog zakona.

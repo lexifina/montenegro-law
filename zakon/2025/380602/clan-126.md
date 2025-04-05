@@ -1,0 +1,5 @@
+# Član 126
+## Margina rizika
+(1) Margina rizika mora biti takva da obezbijedi da vrijednost tehničkih rezervi bude jednaka iznosu koji bi drugo društvo za osiguranje zahtijevalo za preuzimanje i ispunjavanje obaveza iz zaključenih ugovora o osiguranju.
+(2) Margina rizika obračunava se određivanjem tako što se odredi trošak raspolaganja prihvatljivim sopstvenim sredstvima koja su jednaka zahtijevanom solventnom kapitalu koji je potreban za ispunjenje obaveza iz ugovora o osiguranju tokom trajanja tih obaveza u skladu sa Regulativom (EU) br. 2015/35.
+(3) Stopa koja se koristi za utvrđivanje troška raspolaganja prihvatljivim sopstvenim sredstavima (stopa troška kapitala) je ista za sva društva za osiguranje i redovno se revidira, pri čemu je korišćena stopa troška kapitala jednaka dodatnoj stopi iznad odgovarajuće bezrizične kamatne stope koju bi snosilo društvo za osiguranje kako bi raspolagalo prihvatljivim sopstvenim sredstvima iz čl. 139 do 147 ovog zakona koja su jednaka zahtijevanom solventnom kapitalu neophodnom za izvršavanje obaveza osiguranja tokom trajanja tih obaveza.
