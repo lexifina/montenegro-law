@@ -1,0 +1,2 @@
+Na osnovu člana 223. stav 2 Zakona o planiranju prostora i izgradnji objekata ("Službeni list Crne Gore", broj 64/17, 44/18, 63/18, 11/19 i 82/20), a u vezi sa članom 151.Zakona o planiranju prostora ("Službeni list Crne Gore", broj 19/25), član 3 stav 1 tačka 2 i član 4.stav 2.Odluke o izgradnji lokalnih objekata od opšteg interesa na teritoriji Opštine Kolašin ("Službeni list CG - Opštinski propisi", broj 15/15, 24/17 i 5/21) i člana 83 stav 1 tač. 14 Statuta Opštine Kolašin ("Službeni list CG - Opštinski propisi", broj 24/19), predsjednik Opštine Kolašin, donosi
+ODLUKU
