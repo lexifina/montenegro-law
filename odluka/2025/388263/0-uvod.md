@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 i člana 34 stav 1 Zakona o državnoj imovini ("Službeni list CG", broj 21/09 i 40/11), člana 33 stav 2, člana 34 stav 1, člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19 i 38/20), člana 37 stav 1 tačka 9 Statuta Opštine Kolašin ("Službeni list Crne Gore - Opštinski propisi", broj 24/19 od 26.6.2019), Skupština Opštine Kolašin na sjednici održanoj dana, 29.3.2025. godine donijela je
+ODLUKU
