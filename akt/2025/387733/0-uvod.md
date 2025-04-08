@@ -1,0 +1,2 @@
+Na osnovu člana 28 Zakona o turističkim organizacijama ("Službeni list Crne Gore", 73/10, 40/11, 45/14, 42/17 i 27/19), člana 34 stav 1 tačka 24 Statuta Opštine Zeta ("Službeni list CG - Opštinski propisi", broj 12/23) i člana 21 Odluke o osnivanju Turističke organizacije Opštine Zeta ("Službeni list Crne Gore - Opštinski propisi", broj 44/23), nakon razmatranja Izvještaja o radu i finasijskog izvještaja Turističke organizacije Opštine Zeta za 2024. godinu, Skupština opštine Zeta, na XVIII sjednici održanoj dana 26. 3. 2025. godine, donijela je
+Z A K LJ U Č A K
