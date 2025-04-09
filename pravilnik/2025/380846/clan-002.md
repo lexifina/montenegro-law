@@ -1,0 +1,5 @@
+# Član 2
+## Učestalost uzorkovanja i testiranja
+Prilikom unošenja bilja za sadnju vrste Solanum lycopersicum L. i njenih hibrida i vrste Capsicum annuum L. na teritoriju Crne Gore, fitosanitarni inspektor u okviru službene kontrole vrši fizičku provjeru, odnosno zdravstveni pregled, a u skladu sa rizikom vrši uzorkovanje i testiranje na virus smeđe naboranosti ploda paradjza - Tomato Brown Rugose Fruit Virus (ToBRFV).
+Uzorkovanje i testiranje u okviru fizičkih provjera na prisustvo virusa smeđe naboranosti ploda paradjza - Tomato Brown Rugose Fruit Virus (ToBRFV) iz stava 1 ovog člana, vrši se na najmanje 20 % pošiljaka bilja za sadnju vrste Solanum lycopersicum L. i njenih hibrida i vrste Capsicum annuum L., koje se unose u Crnu Goru iz drugih država.
+Izuzetno od stava 2 ovog člana, uzorkovanje i testiranje na prisustvo virusa smeđe naboranosti ploda paradjza - Tomato Brown Rugose Fruit Virus (ToBRFV) vrši se na 50 % pošiljaka bilja za sadnju vrste Solanum lycopersicum L. i njenih hibrida i Capsicum annuum L. porijeklom iz Izraela, a na 100 % pošiljaka tog bilja porijeklom iz Kine.
