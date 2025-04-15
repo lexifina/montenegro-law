@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o Listi zaraznih bolesti nad kojima se sprovodi epidemiološki nadzor i protiv kojih se primjenjuju mjere sprječavanja i suzbijanja zaraznih bolesti i definicijama slučajeva zaraznih bolesti* ("Službeni list CG", br. 20/19, 23/20 i 41/20) u Prilogu 1 LISTA ZARAZNIH BOLESTI poslije grupe: "B 03 velike boginje - Variola vera" dodaje se nova grupa koja glasi: "B 04 Variola simiaca".
