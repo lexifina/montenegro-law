@@ -1,0 +1,2 @@
+Na osnovu člana 39 i 59 Zakona o socijalnoj i dječijoj zaštiti (" Službeni list Crne Gore", broj 27/13, 1/15, 42/15, 47/15, 56/16, 1/17, 31/17, 42/17, 50/17, 59/21 i 145/21 i 3/23), člana 27 stav 1 tačka 15 Zakona o lokalnoj samoupravi Crne Gore ( "Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22 i 84/22) i član 37 stav 1 tačka 2 Statuta opštine Kolašin ( "Službeni list Crne Gore- opštinski propisi" broj 24/19), Skupština opštine Kolašin, na sjednici održanoj dana 29.3.2025. donijela je-
+ODLUKU
