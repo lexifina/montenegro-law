@@ -1,0 +1,2 @@
+Na osnovu člana 16. stav 2 Zakona o sportu ("Službeni list CG", br. 44/18, 123/21) , člana 27. stav 1, tačka 13 i člana 38. stav 1, tačka 4 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 34.stav 1, tačka 4 Statuta Opštine Petnjica ("Službeni list CG - Opštinski propisi", broj 16/22) Skupština opštine Petnjica, na sjednici održanoj 24. 3. 2025. godine donijela je
+ODLUKU
