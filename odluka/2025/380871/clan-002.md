@@ -1,0 +1,3 @@
+# Član 2
+Procijenjena vrijednost zemljišta-katastarske pacele 1070/4 KO Kolašin utvrdjena je na osnovu Izvještaja o procjeni ovlašćenog procjenitelja Dragana Šubarića iz Pljevalja i iznosi 130,00 eura po 1m2, što za površinu katastarske parcele 1070/4 KO Kolašin od 123m2 iznosi ukupno 15.990,00 eura (petnaesthiljadadevetstodevedeseteura).
+Procijenjena vrijednosti zemljišta- katastarske pacele 193 KO Kolašin, utvrdjena je na osnovu Izvještaja o procjeni ovlašćenog procjenitelja Dragana Šubarića iz Pljevalja i iznosi 155,00 eura po 1m2,što za površinu katastarske parcele 180/3 KO Kolašin od 55m2 iznosi ukupno 8.525,00 eura (osamhiljadapetstotinadvadesetpeteura).
