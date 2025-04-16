@@ -1,0 +1,3 @@
+# Član 2
+Procijenjena vrijednost zemljišta-katastarske pacele 789/3 KO Kolašin utvrdjena je na osnovu Izvještaja o procjeni ovlašćenog procjenitelja Milene Makočević iz Podgorice i iznosi 251,12 eura po 1m2, što za površinu katastarske parcele 789/3 KO Kolašin od 10 m2 iznosi ukupno 2.511,24 eura (dvijehiljadepetstotinajedanaesteura i 24/100).
+Procijenjena vrijednosti zemljišta- katastarske pacele 820/2 KO Kolašin ,utvrdjena je na osnovu Izvještaja o procjeni ovlašćenog procjenitelja Milene Makočević iz Podgorice i iznosi 247,66 eura po 1m2 ,što za površinu katastarske parcele 820/2 KO Kolašin od 7m2 iznosi ukupno 1.757,86 eura (hiljadusedamstotinapedesetsedameura i 86/100).

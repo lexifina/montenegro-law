@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi (,,Službeni list Crne Gore", broj 2/18,38/20,50/22 i 84/22 ), člana 9 stav 3,člana 29 stav 2 i člana 34 stav 3 Zakona o državnoj imovini (,,Službeni list Crne Gore", broj 21/09 i 40/11) člana 21 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini (,,Službeni list Crne Gore", broj 44/10 ) i člana 37 stav 1 tačka 9 Statuta opštine Kolašin ("Službeni list Crne Gore - Opštinski propisi" broj 24/19) ,Skupština opštine Kolašin, na sjednici održanoj dana 29.3.2025. godine donijela je
+ODLUKU
+o razmjeni zemljišta izmedju Države Crne Gore-Opštine Kolašin i Bojana Đinovića, Ljiljane
