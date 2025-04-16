@@ -1,0 +1,2 @@
+# Član 34
+Ukoliko privredno društvo iz člana 33 ove Odluke u okviru svojih tehničkih mogućnosti, ne može kvalitetno i trajno da obavlja poslove redovnog održavanja u obimu i na način predviđen Programom i Planom, jedinica lokalne samouprave na osnovu poziva za nadmetanje u skladu sa Zakonom zaključiće ugovor sa odabranim izvođačem za pojedine radove održavanja opštinskih puteva u obimu predviđenom Programom i Planom.
