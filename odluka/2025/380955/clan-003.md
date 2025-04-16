@@ -1,0 +1,3 @@
+# Član 3
+Pri korišćenju prostora iz člana 1 ove odluke, Nevladina organizacija Književna zajednica "Vladimir Mijušković" je obavezna postupati sa dužnom pažnjom dobrog domaćina, čuvati prostore od oštećenja i uništenja, držati ih u urednom i ispravnom stanju, snositi troškove štete koja bi nastala njenom nepažnjom za vrijeme korišćenja istih.
+Troškove redovnog i tekućeg održavanja za vrijeme korišćenja prostora iz člana 1 ove odluke dužna je da snosi Nevladina organizacija Književna zajednica "Vladimir Mijušković" i ista je dužna da ispunjava sve obaveze po osnovu komunalnih i drugih usluga (voda, struja i sl.).
