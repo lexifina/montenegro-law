@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19, 38/20, 50/22 i 84/22), člana 35 stav 1 tačka 2 i člana 38 stav 1 Statuta opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 31/18 i 21/23), člana 30 Statuta Društva sa ograničenom odgovornošću "Agencija za projektovanje i planiranje" ("Službeni list CG - Opštinski propisi", broj 20/24), Skupština opštine Nikšić, na sjednici održanoj 27. 3. 2025. godine, donijela je
+ODLUKU
