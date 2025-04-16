@@ -1,0 +1,2 @@
+Na osnovu člana 39 st. 1 i 2 i člana 40 stav 1 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 4 stav 1 i člana 29 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list CG", broj 44/10), člana 35 stav 1 tačka 9 i člana 38 stav 1 Statuta Opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 31/18 i 21/23), Skupština opštine Nikšić, na sjednici održanoj 27. 3. 2025. godine, donijela je
+ODLUKU

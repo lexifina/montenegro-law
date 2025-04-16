@@ -1,0 +1,2 @@
+# Član 6
+Vlasnici ili zakupci najbližeg ugostiteljskog objekta za koji posjeduju uredno odobrenje za rad nadležnog organa lokalne uprave, ukoliko budu učesnici u postupku po Javnom pozivu, a koji ponude ili prihvate najveću ponuđenu cijenu za lokaciju ispred tog ugostiteljskog objekta, imaju prednost za zaključenje ugovora o zakupu u odnosu na ponuđača koji je ponudio najveću cijenu za tu lokaciju.
