@@ -1,0 +1,3 @@
+# Član 3
+Prodaja zemljišta iz člana 1 stav 1 ove odluke, vrši se po utvrđenoj cijeni od 283,28 € po m2 zemljišta, što za površinu od 425 m2 iznosi 120.394,00 €, dok za stambeni prostor, poseban dio 2, površine 28 m2 u objektu, broj 15 iznosi 13.076,00 €, što ukupno iznosi 133.470,00 €, u skladu sa procjenom Komisije za procjenu nepokretnih stvari u imovini Opštine Nikšić formirane Rješenjem predsjednika Opštine Nikšić, broj 02-031-2538 od 16. 6. 2024. godine.
+Iznos cijene iz stava 1 ovog člana Desanki Dubljević i Dušanu Dubljeviću su dužni uplatiti u roku od 60 dana od stupanja na snagu ove odluke, u protivnom pokrenuće se postupak za prestanak važenja iste.

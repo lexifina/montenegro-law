@@ -1,0 +1,3 @@
+# Član 2
+Urbanističku parcelu broj 8, ukupne površine 910m2, pored zemljišta iz člana 1 stav 1 ove odluke, čini katastarska parcela, broj 1028, površine 485m2 koja se sastoji od zemljišta ispod objekta broj 1-porodične stambene zgrade površine 103m2, zemljišta ispod objekta broj 2-garaže površine 17 m2 i dvorišta površine 365m2, upisana u listu nepokretnosti, broj 675 KO Nikšić, kao susvojina Desanke Dubljević i Dušana Dubljevića, u obimu prava 1/2.
+Obavezuju se Desanka Dubljević i Dušan Dubljević iz Nikšića, da riješe imovinsko-pravne odnose sa vlasnicima stambenih prostora koji se nalaze u objektu, broj 15 na katastarskoj parceli, broj 5003 koja ulazi u sastav predmetne urbanističke parcele.
