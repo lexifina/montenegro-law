@@ -1,0 +1,2 @@
+# Član 17
+Vlasnici (pravna lica, preduzetnici i fizička lica) koji posjeduju teretna vozila, skup vozila, radne mašine, radna vozila, motokultivatore, priključna vozila, poluprikolice i autobuse ne smiju parkirati ta vozila na parkinzima određenim za putnička motorna vozila, osim na lokacijama koje su za to namijenjene i kao takve označene odgovarajućom saobraćajnom signalizacijom (vertikalnom signalizacijom i horizontalnom na kolovozu).
