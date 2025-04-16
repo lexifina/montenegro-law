@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 i člana 40 stav 2 tačka 3 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11 i 23/25), člana 58 stav 1 tačka 6 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 81 stav 1 tačka 6 Statuta Opštine Herceg Novi ("Službeni list CG - Opštinski propisi", broj 1/19, 37/19, 6/20 i 18/22), predsjednik Opštine Herceg Novi donio je
+O D L U K U
