@@ -1,0 +1,2 @@
+Na osnovu člana 271 Zakona o privrednim društvima ("Službeni list CG", br. 65/20, 146/21 i 04/24), člana 38 stav 1 Statuta Opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 31/18 i 21/23) i člana 14 stav 1 alineja 1 Odluke o osnivanju Društva sa ograničenom odgovornošću "Autobuska stanica" Nikšić ("Službeni list CG - Opštinski propisi", broj 30/22), Skupština opštine Nikšić, na sjednici održanoj 27. 3. 2025. godine, donijela je
+ODLUKU
