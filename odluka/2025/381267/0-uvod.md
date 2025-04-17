@@ -1,0 +1,3 @@
+Na osnovu člana 3 Odluke o izgradnji lokalnih objekata od opšteg interesa na teritoriji Opštine Rožaje (,,Službeni list CG - Opštinski propisi", broj 48/20), člana 77 i 81 Statuta Opštine Rožaje (,,Službeni list CG - Opštinski propisi", br. 38/18 i 16/21), a u vezi sa članom 155 Zakona o izgradnji objekata (,,Službeni list CG", broj 19/25), predsjednik Opštine Rožaje donosi
+ODLUKU
+o izmjeni i dopuni Odluke o određivanju lokacije sa elementima urbanističko-tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa - vodovodna mreža Vukoseri - Dedeići ("Službeni list CG - Opštinski propisi", br. 46/23 od 13. 10. 2023. godine)
