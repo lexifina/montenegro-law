@@ -1,0 +1,10 @@
+# Član 1
+## o prenosu stvarnih prava za potrebe rekonstrukcije magistralnog puta M-2 Debeli brijeg Tivat-Budva
+Opština Budva prenosi stvarna prava na nepokretnostima označenim kao:
+- dio katastarske parcele 517/2 KO Prijevor II površine 9m² u Elaboratu parcelacije urađenom od strane ovlašćene geodetske organizacije Geomax DOO koji je ovjeren pred Upravom za nekretnine 10.12.2019. godine u predmetu poslovne oznake 953-104-2872/19-1 kao 517/48 KO Prijevor II;
+- dio katastarske parcele 517/2 KO Prijevor II površine 22m² u Elaboratu parcelacije urađenom od strane ovlašćene geodetske organizacije Geomax DOO koji je ovjeren pred Upravom za nekretnine 10.12.2019. godine u predmetu poslovne oznake 953-104-2872/19-1 kao 517/49 KO Prijevor II;
+- dio katastarske parcele 517/2 KO Prijevor II površine 99m² u Elaboratu parcelacije urađenom od stzrane ovlašćene geodetske organizacije Geomax DOO koji je ovjeren pred Upravom za nekretnine 10.12.2019. godine u predmetu poslovne oznake 953-104-2872/19-1 kao 517/50 KO Prijevor II;
+- dio katastarske parcele 517/6 KO Prijevor II površine 321m² u Elaboratu parcelacije urađenom od strane ovlašćene geodetske organizacije Geomax DOO koji je ovjeren pred Upravom za nekretnine 10.12.2019. godine u predmetu poslovne oznake 953-104-2872/19-1 kao 517/53 KO Prijevor II;
+- dio katastarske parcele 7/2 KO Prijevor I površine 354m² u Elaboratu parcelacije urađenom od strane ovlašćene geodetske organizacije Geomax DOO koji je ovjeren pred Upravom za nekretnine 10.12.2019. godine u predmetu poslovne oznake 953-104-2872/19-1 kao 7/3 KO Prijevor I;
+- dio katastarske parcele 10/2 KO Prijevor I površine 63m² u Elaboratu parcelacije urađenom od strane ovlašćene geodetske organizacije Geomax DOO koji je ovjeren pred Upravom za nekretnine 10.12.2019. godine u predmetu poslovne oznake 953-104-2872/19-1 kao 10/3 KO Prijevor I;
+- dio katastarske parcele 124/2 KO Prijevor I površine 102m² u Elaboratu parcelacije urađenom od strane ovlašćene geodetske organizacije Geomax DOO koji je ovjeren pred Upravom za nekretnine 10.12.2019. godine u predmetu poslovne oznake 953-104-2872/19-1 kao 124/3 KO Prijevor I.
