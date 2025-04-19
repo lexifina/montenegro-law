@@ -1,0 +1,5 @@
+# Član 4
+Pravo na refundaciju troškova boravka i ishrane djeteta može ostvariti roditelj, usvojitelj, staratelj ili hranitelj djeteta (u daljem tekstu: korisnik ustanove), koje je upisano i redovno pohađa Javnu predškolsku ustanovu "Ljubica V. Jovanović - Maše", kao i privatne predškolske ustanove na teritoriji opštine Budva, licencirane od strane nadležnog Ministarstva (u daljem tekstu: predškolska ustanova).
+Korisnik ustanove ima pravo na refundaciju troškova do visine cijene boravka i ishrane djeteta koja je utvrđena aktom nadležnog organa JPU "Ljubica V. Jovanović - Maše", a na koji je nadležno Ministarstvo dalo saglasnost.
+Korisnik ustanove koji ostvaruje pravo na umanjenje cijene boravka i ishrane u predškolskoj ustanovi shodno zakonskim propisima (broj djece u porodici upisane u predškolsku ustanovu, samohrani roditelji, visina prihoda), ima pravo na refundaciju troškova do utvrđenog umanjenog iznosa.
+Korisnik ustanove koji je oslobođen plaćanja troškova boravka i ishrane u predškolskoj ustanovi po nekom drugom osnovu, ne može ostvariti to pravo po osnovu ove Odluke.
