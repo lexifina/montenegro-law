@@ -1,0 +1,2 @@
+Na osnovu člana 35 stav 2 Zakona o zaštiti i spašavanju ("Služeni list CG", br. 13/07, 05/08, 32/11, 54/16, 146 /21 i 03/23), člana 38 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 ,38/20, 50/22, 84/22 i 85/22) i člana 44 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 2/19), Skupština opštine Budva na sjednici održanoj 2 .aprila 2025. godine, donijela je
+ODLUKU
