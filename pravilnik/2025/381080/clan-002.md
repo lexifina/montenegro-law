@@ -1,0 +1,8 @@
+# Član 2
+U članu 7 poslije stava 2 dodaje se 6 novih stavova koji glase:
+"Dijete i mlado lice sa smetnjama i teškoćama u razvoju, odraslo i staro lice sa invaliditetom, dijete sa problemima u ponašanju i dijete čiji roditelj nije u stanju da se o njemu stara, ne učestvuje u plaćanju usluge dnevni boravak.
+Dijete koje se zatekne van mjesta prebivališta bez nadzora roditelja, usvojioca ili staratelja i odraslo i staro lice koje je beskućnik, ne učestvuju u plaćanju troškova usluge svratišta.
+Dijete koje se zatekne van mjesta prebivališta bez nadzora roditelja, usvojioca ili staratelja, dijete i mlado lice sa problemima u ponašanju, odraslo i staro lice koje je beskućnik i dijete, odnosno odraslo i staro lice kojem je usljed posebnih okolnosti i socijalnog rizika potreban odgovarajući oblik socijalne zaštite, ne učestvuje u plaćanju troškova usluge smještaja u prihvatilištu-skloništu.
+Dijete, odnosno mlado lice bez roditeljskog staranja i dijete, odnosno mlado lice čiji je razvoj ometen porodičnim prilikama, učestvuje u plaćanju troškova usluge porodični smještaj-hraniteljstvo u iznosu od 40% od visine primanja i prihoda ostvarenih u mjesecu koji prethodi mjesecu ostvarivanja prava na uslugu.
+Dijete bez roditeljskog staranja, dijete čiji je razvoj ometen porodičnim prilikama, dijete sa smetnjama u razvoju i dijete sa problemima u ponašanju, učestvuje u plaćanju troškova usluge smještaja u ustanovu u iznosu od 40% od visine primanja i prihoda ostvarenih u mjesecu koji prethodi mjesecu ostvarivanja prava na uslugu.
+Roditelj, odnosno srodnik koji je dužan da izdržava dijete ne učestvuje u plaćanju troškova usluga iz st. 3, 4 i 5 ovog člana."
