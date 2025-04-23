@@ -1,0 +1,2 @@
+Na osnovu člana 118 stav 1 Zakona o zdravstvenoj zaštiti ("Su\beni list CG", br. 3/2016, 39/2016, 2/2017, 44/2018, 24/2019 - dr. zakoni, 82/2020, 8/2021, 3/2023, 48/2024, 77/2024 i 84/2024) i člana 17 stav Statuta Stomatološke komore Crne Gore ("Službeni list Crne Gore", br. 29/17, 22/18), na XVIII (elektronskoj) sjednici od 05.09.2024. godine, Skupština Stomatološke komore Crne Gore donijela je
+ODLUKU O IZMJENI I DOPUNI PRAVILNIKA O POSTUPKU IZDAVANJA, OBNAVLJANJA, ODNOSNO ODUZIMANJA LICENCE ZA RAD DOKTORA STOMATOLOGIJE
