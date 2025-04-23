@@ -1,0 +1,4 @@
+Na osnovu člana 14 Zakona o eksproprijaciji ("Službeni list RCG", br. 55/00, 12/02 i 28/06 i "Službeni list CG", br. 21/08, 30/17, 75/18 i 33/24), Vlada Crne Gore, na sjednici od 27. marta 2025. godine, donijela je
+ODLUKU
+O IZMJENI ODLUKE O UTVRĐIVANJU JAVNOG INTERESA ZA EKSPROPRIJACIJU
+NEPOKRETNOSTI ZA POTREBE IZGRADNJE SAOBRAĆAJNICE OD KRUŽNOG TOKA DO TRAFOSTANICE TS 35/10 KOLAŠIN 1450-1600, OPŠTINA KOLAŠIN
