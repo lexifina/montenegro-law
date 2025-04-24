@@ -1,0 +1,2 @@
+Na osnovu člana 11 stav 1 alineja 1 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", br. 2/14 i 16/19), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 35 stav 1 tačka 2 i člana 38 Statuta Opštine Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", br. 43/18), Skupština opštine Danilovgrad, na sjednici održanoj 27. 3, 2. 4, 3. 4. i 11. 4. 2025. godine, donijela je
+ODLUKU
