@@ -1,0 +1,2 @@
+Na osnovu člana 14 Zakona o mladima ("Službeni list Crne Gore", br. 25/19 i 27/19), člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 53 stav 1 tačka 4 Statuta Opštine Tuzi ("Službeni list CG - Opštinski propisi", br. 24/19, 05/20, 51/22 i 55/22), uz prethodno pribavljeno mišljenje Ministartsva sporta i mladih, akt broj dana 04-615/25-1062/2 od 3. 3. 2025. godine Skupština opštine Tuzi, na sjednici održanoj 3. 4. 2025. godine, donijela je
+ODLUKU
