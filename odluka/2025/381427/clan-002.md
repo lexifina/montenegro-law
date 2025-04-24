@@ -1,0 +1,2 @@
+# Član 2
+Sastavni dio ove odluke čini Programski zadatak sa elementima urbanističko-tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa: cjevovoda kojim se povezuje gradski vodovodni sistem Kolašina (izvorište Mušovića vrelo) sa novom prekidnom komorom čija je izgradnja predviđena u sklopu sistema za vodosnabdijevanje planinskih centara Kolašin 1450 i Kolašin 1600, Opština Kolašin, sa osnovnim podacima o objektu.
