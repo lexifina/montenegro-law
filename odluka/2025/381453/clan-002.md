@@ -1,0 +1,2 @@
+# Član 2
+Opština Danilovgrad, kao subjekt raspolaganja poslužnog dobra, daje saglasnost "ĐURIŠIĆ TRADE" DOO Danilovgrad za ustanovljavanje prava službenosti radi postavljanja napojnog kabla PP00 4x35mm2, shodno Elaboratu originalnih terenskih podataka, izrađenom od strane "ETALON GEO OFFICE" doo Danilovgrad, a preko katastarske parcele 556, u dužini od 21,14 metara i preko katastarske parcele 557, u dužini 23,27 metara.
