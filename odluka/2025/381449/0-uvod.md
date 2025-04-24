@@ -1,0 +1,2 @@
+Na osnovu člana 9 stav 1 i stav 2 Zakona o bezbjednosti saobraćaja na putevima ("Službeni list Crne Gore", broj 33/12, 58/14, 14/17 i 66/19), člana 27 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 16 stav 1 tačka 4 Statuta Opštine Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", broj 43/18) Skupština opštine Danilovgrad, na sjednici održanoj 27. 3, 2. 4, 3. 4. i 11. 4. 2025. godine, donijela je
+O D L U K U
