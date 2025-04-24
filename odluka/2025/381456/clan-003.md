@@ -1,0 +1,2 @@
+# Član 3
+Opština Danilovgrad, kao subjekt raspolaganja poslužnog dobra, daje saglasnost DOO "CEDIS" Podgorica za ustanovljavanje prava službenosti radi polaganja priključnog 10kv kablovskog voda preko dijela katastarske parcele broj 213, evidentirane po "A" dijelu lista nepokretnosti 136, KO Ćurilac, shodno Elaboratu nepotpune eksproprijacije za izgradnju podzemnog 10kv kabla od TS Bjeluši, na katastarskim parcelama broj 29, 213 i 36 KO Ćurilac, izrađenom od strane "GEONANA" doo Podgorica.
