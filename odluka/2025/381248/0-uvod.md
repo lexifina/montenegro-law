@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), čl. 68 i 70. Zakona o kulturi ("Službeni list Crne Gore", br. 49/08, 16/11, 40/11 i 38/12), člana 24 stav 1 tačka 11 Statuta Opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 24/19, 5/20, 51/22 i 55/22) Skupština opštine Tuzi, na sjednici održanoj 3. 4. 2025. godine, donijela je
+ODLUKU
