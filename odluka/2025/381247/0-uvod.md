@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09 od 20. 3. 2009, 40/11 od 8. 8. 2011, 23/25 od 11. 3. 2025), u vezi sa članom 5 i članom 5a Zakona o održavanju stambenih zgrada ("Službeni list Crne Gore", br. 41/16, 84/18, 111/22, 140/22 i 84/24), saglasno članu 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18 od 10. 1. 2018, 34/19 od 21. 6. 2019, 38/20 od 25. 4. 2020, 50/22 od 9. 5. 2022, 84/22 od 1. 8. 2022) kao i članom 33 stav 1. tačka 9 Statuta Opštine Plav ("Službeni list CG - Opštinski propisi", br. 44/18), Skupština opštine Plav na sjednici održanoj dana 28. 3. 2025. godine, donijela je
+ODLUKU
+o davanju saglasnosti Skupštini stanara - stambene zgrade izgrađenoj na katastarskoj parceli
