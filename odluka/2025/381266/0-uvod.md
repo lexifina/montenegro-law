@@ -1,0 +1,2 @@
+Na osnovu člana 38, stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/2018, 34/19, 38/20, 50/22 i 84/22), člana 33 tačka 22 Statuta Opštine Plav ("Službeni list CG - Opštinski propisi", br. 44/18) i člana 44 stav 2 Zakona o kulturi ("Službeni list Crne Gore", br. 49/08, 16/11, 40/11 i 38/12), u vezi sa Odlukom o imenovanju i razrješenju članova Savjeta Javne ustanove Centar za kulturu Plav ("Službeni list CG - Opštinski propisi", br. 23/23 od 12. 5. 2023), Skupština opštine Plav, na sjednici održanoj dana 28. 3. 2025. godine, donijela je
+ODLUKU
