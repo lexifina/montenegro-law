@@ -1,0 +1,2 @@
+Na osnovu člana 2 stav 1 Zakona o lokalnim komunalnim taksama ("Službeni list CG", broj 18/19), člana 28 stav 1 tačka 2 i člana 38 stav 1 tač. 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 53 stav 1 tač. 2 i 8 Statuta Opštine Tuzi ("Službeni list CG - Opštinski propisi", br. 24/19, 5/20, 51/22 i 55/22), nakon dobijanja saglasnosti Vlade Crne Gore, Skupština opštine Tuzi, na sjednici od 3. 4. 2025. godine, donijela je
+ODLUKU
