@@ -1,0 +1,2 @@
+Na osnovu člana 25 Zakona o turističkim organizacijama ("Službeni list Crne Gore", br. 11/04 i 46/07, "Službeni list Crne Gore", br. 73/10, 40/11, 45/14, 42/17 i 27/19), člana 19 Statuta Turističke organizacije Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 38/19 i 48/22) i člana 35 Statuta Оpštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 9/20), Skupština opštine Tivat na sjednici održanoj dana 16. 4. 2025. godine, donijela je
+ODLUKU
