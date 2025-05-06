@@ -1,0 +1,3 @@
+# Član 1
+## o usvajanju Lokalnog akcionog plana za mlade za 2025-2026. godinu
+Usvaja se Lokalni akcioni plan za mlade za period 2025-2026. godinu.
