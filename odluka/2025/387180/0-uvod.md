@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 alineja 9 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 29 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09 i 40/11) u vezi sa članom 194, 201, 208 i 216 Zakona o svojinsko-pravnim odnosima ("Službeni list Crne Gore", broj 19/09) i člana 35 stav 1 alineja 9 i člana 39 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 9/20) na sjednici Skupštine opštine Tivat održanoj dana 16. 4. 2025. godine donijela je
+ODLUKU
+o ustanovljavanju službenosti na kat. parcelama 706, 1293, 831, 880/1 i 1297/1 KO Mrčevac
