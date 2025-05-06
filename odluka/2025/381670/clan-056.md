@@ -1,0 +1,4 @@
+# Član 56
+Ukoliko usljed raskopavanja ili radova vezanih za raskopavanje nastanu oštećenja na stambenim, komunalnim i drugim objektima, uređajima i instalacijama, izvođač radova snosi troškove prouzrokovane oštečenjem pri izvođenju radova na raskopavanju.
+Radove na dovođenju u ispravno stanje javne površine na kojima su izvođeni radovi, a koja je namijenjena za saobraćaj vozila i pješaka, kao i radove na uređenju javnih i zelenih površina izvodi preduzeće kojem je održavanje tih površina povjereno u skladu sa tehničkim uslovima za raskopavanje i dovođenje raskopanih javnih površina u prvobitno stanje (u daljem tekstu: tehnički uslovi) o trošku podnosioca zahtjeva za raskopavanje.
+Radove na dovođenju u ispravno stanje neizgrađenog gradsko-građevinskog zemljišta može da izvrši podnosilac zahtjeva sam i putem izvođača kome te poslove povjeri u skladu sa tehničkim uslovima.

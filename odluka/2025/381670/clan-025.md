@@ -1,0 +1,2 @@
+# Član 25
+Pri iznošenju smeća preduzeće, kojem su poslovi održavanja čistoće povjereni, je dužno da vodi računa da se otpaci ne rasipaju, ne podižu i ne stvara buka, da se posude za smeće ne oštećuju, da se ne oštećuju površine na kojima se nalaze posude za smeće kao i prostor iz kojeg se smeće iznosi, da se posude za smeće poslije pražnjenja vrate na svoje mjesto, a rasuto smeće odmah pokupi i ukloni.
