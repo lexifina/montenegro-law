@@ -1,0 +1,2 @@
+# Član 16
+Društvo je dužno da usvoji i poštuje profesionalne standarde i programska pravila.

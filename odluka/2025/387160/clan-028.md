@@ -1,0 +1,22 @@
+# Član 28
+Savjet:
+- donosi Statut;
+- bira i razrješava predsjednika Savjeta iz reda članova Savjeta;
+- imenuje i razrješava direktora;
+- donosi opšte akte kojima se uređuju pitanja programskih i profesionalnih standarda;
+- usvaja programska dokumenta;
+- donosi akt o unutrašnjoj organizaciji i sistematizaciji radnih mjesta;
+- usvaja izvještaj o radu za prethodnu godinu, sa posebnim osvrtom na primjenu programskih sadržaja i ostvarivanje obaveza utvrđenih zakonom;
+- usvaja izvještaj o finansijskom poslovanju za prethodnu godinu, koji posebno sadrži podatke o korišćenju budžetskih sredstava;
+- usvaja investicione i finansijske planove;
+- bira ovlašćenog revizora periodičnih i godišnjih obračuna;
+- usvaja izvještaj revizora;
+- donosi opšti akt o minimumu procesa rada koji mora biti zadovoljen tokom štrajka zaposlenih;
+- uredjuje pitanje samoregulacije u emiteru;
+- donosi akte kojima se propisuju nadležnosti i način rada organa koji rješava po prigovorima građana;
+- donosi pravila o predstavljanju političkih partija, kandidata i koalicija tokom političkih izbornih kampanja;
+- donosi odluke o raspolaganju imovinom i zaduženju, u skladu sa zakonom, ovom odlukom i opštima aktima Društva;
+- daje saglasnost na odluke i ugovore kojima se Društvo obavezuje da izvrši plaćanje u iznosu većem od iznosa utvrđenog Statutom;
+- daje saglasnost na promjenu budžetskih alokacija;
+- donosi poslovnik o svom radu;
+- obavlja i druge poslove u skladu sa zakonom, ovom odlukom i Statutom.
