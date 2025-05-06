@@ -1,0 +1,2 @@
+Na osnovu člana 14. Zakona o mladima ("Službeni list Crne Gore", br. 25/19 i 27/19), člana 26. stav 1. tačka 3. kao i člana 38. stav 1. tačke 2 i 4. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22, člana 38 Statuta Opštine Gusinje ("Službeni list CG - Opštinski propisi", br. 3/19 i 24/21) a uz prethodno pribavljeno mišljenje Ministarstva sporta i mladih, akt broj: 01-0511-615/24-2686/4 od 6. 11. 2024. godine, Skupština opštine Gusinje, na sjednici održanoj dana 4. 4. 2025. godine, donijela je
+ODLUKU
