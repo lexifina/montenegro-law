@@ -1,0 +1,2 @@
+Na osnovu člana 26 tačka 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 74/16, 2/18, 66/19 i 140/22), člana 36 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", br. 37/19) i člana 16 Statuta Društva sa ograničenom odgovornošču "Vodovod i kanalizacija Kotor" Kotor ("Službeni list Crne Gore - Opštinski propisi", br. 14/22) Skupština opštine Kotor, na XXVI sjednici održanoj dana 13. 5. 2025. godine, donijela je
+ODLUKU
