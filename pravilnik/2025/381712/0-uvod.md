@@ -1,0 +1,2 @@
+Agencija za elektronske komunikacije i poštansku djelatnost, na osnovu člana 97 stav 3 Zakona o poštanskim uslugama ("Službeni list CG", br. 57/11, 55/16, 55/18 i 84/24), člana 9 i 10 Statuta Agencije za elektronske komunikacije i poštansku djelatnost ("Službeni list CG", broj 128/24), na sjednici Savjeta održanoj dana 25.04.2025. godine, donosi
+PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O NAČINU VOĐENJA RAČUNOVODSTVA I OBRAČUNA NETO TROŠKA UNIVERZALNOG POŠTANSKOG OPERATORA
