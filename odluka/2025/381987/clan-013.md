@@ -1,0 +1,2 @@
+# Član 13
+Sredstva kapitalnog budžeta namijenjena za finansiranje po Sporazumu o plaćanju naknade za komunalno opremanje građevinskog zemljišta izgradnjom komunalne infrastrukture, izgradnje komunalne infrastrukture u zahvatu DSL Sektor 38- Bigova i LSL Trašte i izmirenju dodatnih troškova koje snosi Bigova bay od 17.12. 2019. godine, Aneksa I od 8. 10. 2021. godine i Aneksa II od 15. 4. 2022. godine, izvršavaće se u visini njihovog ostvarenja i učešća opštine na Escrow računu shodno Sporazumu.
