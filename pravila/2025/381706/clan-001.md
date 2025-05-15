@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilima se uređuju bliži sadržaj zahtjeva i dokumentacija koja se prilaže uz zahtjev za sticanje odnosno povećanje kvalifikovanog učešća u društvu za upravljanje otvorenim investicionim fondom sa javnom ponudom (u daljem tekstu: društvo za upravljanje) radi utvrđivanja ispunjenosti uslova za sticanje odnosno povećanje kvalifikovanog učešća i bliži kriterijumi za ocjenu kvalifikovanog učešća u društvo za upravljanje za upravljanje.
