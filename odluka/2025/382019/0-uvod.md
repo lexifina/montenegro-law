@@ -1,0 +1,2 @@
+Na osnovu člana 298 Zakona o privrednim društvima ("Službeni list Crne Gore", br. 65/20, 146/21 i 4/24), člana 13 Statuta Društva sa ograničenom odgovornošću za odvođenje i prečišćavanje otpadnih voda za opštine Kotor i Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 37/19), i člana 36 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", broj. 37/19) Skupština opštine Kotor, na XXVI sjednici održanoj dana 13. 5. 2025. godine
+ODLUKU
