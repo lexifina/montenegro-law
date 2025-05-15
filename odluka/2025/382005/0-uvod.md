@@ -1,0 +1,2 @@
+Na osnovu člana 6 Zakona o socijalnom stanovanju ("Službeni list CG", br. 35/2013) i člana 36 stav 1 tačka 2 i 4 Statuta Opštine Kotor ("Službeni list CG - Opšinski propisi", br 37/19), uz predhodno dobijenu saglasnost Ministarstva prostornog planiranja, urbanizma i državne imovine, broj 07-128/24-12837 od 10.6.2024. godine, Skupština opštine Kotor, na XXVI sjednici održanoj 13.5.2025. godine, donijela je
+ODLUKA
