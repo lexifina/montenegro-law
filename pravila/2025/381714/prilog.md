@@ -1,0 +1,107 @@
+IZVJEŠTAJ SUDIJE VRHOVNOG SUDA CRNE GORE
+(Član 94 Zakona o Sudskom savjetu i sudijama )
+Ime i prezime sudije ________________________________
+Sud u kojem radi ___________________________________
+Odjeljenje u kojem radi _____________________________
+Period za koji se vrši ocjenjivanje _____________________
+Kriterijum 1. Efikasnost rada sudije (član 101c st.1 tač.1 Zakona o Sudskom savjetu i sudijama)
+Godina
+Ukupan broj
+predmeta u radu
+Broj završenih
+predmeta
+Odsustvovanje sa posla
+Procenat završenih
+predmeta prema
+prosječnom broju
+završenih
+predmeta po
+određenoj vrsti
+Ocjena
+Primjedbe:
+(Razlozi koji su po ocjeni sudije uslovili da je završeno manje predmeta od prosječnog broju završenih predmeta po određenoj vrsti).
+Kriterijum 2. Integritet (član 101c st.1 tač.2 Zakona o Sudskom savjetu i sudijama)
+Kontrolni zahtjevi
+Povrede Etičkog kodeksa
+sudija
+Disciplinski prekršaji
+Ocjena
+UKUPNA OCJENA ___________________
+OBRAZLOŽENJE:______________________________________________________________________________________________ ______________________________________________________________________
+Sudija Vrhovnog suda Crne Gore,
+______________
+IZVJEŠTAJ ČLANA VIJEĆA SUDIJA ZA OCJENJIVANJE SUDIJA VRHOVNOG SUDA CRNE GORE
+(101č Zakona o Sudskom savjetu i sudijama)
+Član Vijeća sudija za ocjenjivanje _____________________________________
+Ime i prezime sudije koji se ocjenjuje___________________________________
+Sud i odjeljenje u kojem sudija radi ____________________________________
+Period za koji se vrši ocjenjivanje _____________________________________
+Kriterijum 1. Efikasnost rada sudije (član 101c st.1 tač.1 Zakona o Sudskom savjetu i sudijama)
+Godina
+Ukupan broj
+predmeta u radu
+Broj završenih
+predmeta
+Odsustvovanje sa posla
+Procenat završenih
+predmeta prema
+prosječnom broju
+završenih
+predmeta po
+određenoj vrsti
+Ocjena
+Obrazloženje Ocjena razloga koje je sudija naveo kao opravdane za manji broj završenih predmeta _________________________________________________________________________________________________
+_________________________________________________________________________________________________
+Kriterijum 2. Integritet (član 101c st.1 tač.2 Zakona o Sudskom savjetu i sudijama)
+Kontrolni zahtjevi
+Povrede Etičkog kodeksa
+sudija
+Disciplinski prekršaji
+Ocjena
+Obrazloženje
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
+UKUPNA OCJENA ___________________
+OBRAZLOŽENJE:______________________________________________________________________________________________ ______________________________________________________________________
+Član Vijeća,
+______________
+IZVJEŠTAJ VIJEĆA SUDIJA ZA OCJENJIVANJE
+(101č Zakona o Sudskom savjetu i sudijama)
+Ime i prezime sudije koji se ocjenjuje___________________________________
+Sud i odjeljenje u kojem sudija radi ____________________________________
+Period za koji se vrši ocjenjivanje _____________________________________
+Kriterijum 1. Efikasnost rada sudije (član 101c st.1 tač.1 Zakona o Sudskom savjetu i sudijama)
+Godina
+Ukupan broj
+predmeta u radu
+Broj završenih
+predmeta
+Odsustvovanje sa posla
+Procenat završenih
+predmeta prema
+prosječnom broju
+završenih
+predmeta po
+određenoj vrsti
+Ocjena
+Obrazloženje Ocjena razloga koje je sudija naveo kao opravdane za manji broj završenih predmeta _________________________________________________________________________________________________
+_________________________________________________________________________________________________
+Kriterijum 2. Integritet (član 101c st.1 tač.2 Zakona o Sudskom savjetu i sudijama)
+Kontrolni zahtjevi
+Povrede Etičkog kodeksa
+sudija
+Disciplinski prekršaji
+Ocjena
+Obrazloženje
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
+PREDLOG OCJENE ___________________
+OBRAZLOŽENJE:______________________________________________________________________________________________
+______________________________________________________________________
+PREDSJEDNIK VIJEĆE SUDIJA ZA OCJENJIVANJE
+__________________________________________
+ČLANOVI VIJEĆA
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
