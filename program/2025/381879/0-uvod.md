@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 73 stav 1 tačka 4 Statuta Prijestonice ("Službeni list CG - Opštinski propisi", br. 49/18 i 17/21), Odluke o budžetu Prijestonice Cetinje za 2025. godinu ("Službeni list CG - Opštinski propisi", br. 62 /24) Skupština Prijestonice Cetinje, na sjednici od 25. 4. 2025. godine, donijela je
+P R O G R A M
