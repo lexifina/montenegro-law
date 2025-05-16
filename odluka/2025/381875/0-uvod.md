@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 tačka 7 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 2/18, 66/19, 140/22 i 84/24), člana 73 stav 1 tačka 22 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", br. 49/18, i 17/21) i člana 10 stav 1 alineja 6 Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija - Cetinje" ("Službeni list Crne Gore - Opštinski propisi", br. 30/13, 22/14, 39/19 i 41/24), Skupština Prijestonice Cetinje, na sjednici održanoj dana 25. 4. 2025. godine, donijela je
+ODLUKU
