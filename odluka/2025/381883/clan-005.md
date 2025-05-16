@@ -1,0 +1,2 @@
+# Član 5
+Poslove održavanja pijaca, u skladu sa Zakonom o komunalnim djelatnostima (u daljem tekstu: Zakon) obavlja privredno društvo ili preduzetnik koji su registrovani u CRPS za obavljanje te komunalne djelatnosti, a kome su od strane Prijestonice ti poslovi povjereni posebnim Ugovorom (u daljem tekstu: vršilac komunalne djelatnosti) u skladu sa Pravilnikom o minimumu kvaliteta i obima poslova za obavljanje komunalne djelatnosti (u daljem tekstu: Pravilnik), ovom odlukom i godišnjim programom obavljanja komunalnih djelatnosti.
