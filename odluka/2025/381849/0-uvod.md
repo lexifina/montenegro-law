@@ -1,0 +1,2 @@
+Na osnovu čl: 10 i 23 Odluke o osnivanju Društva sa ograničenom odgovornošću "Stadion i sportski objekti Cetinje" ("Službeni list Crne Gore - Opštinski propisi", broj: 62/24 i 7/25) i člana 73 stav 1 tačka 2 Statuta Prijestonice Cetinje ("Službeni list Crne Gore - Opštinski propisi", broj: 49/18 i 17/21) Skupština Prijestonice Cetinje, na sjednici održanoj dana 25. 4. 2025. godine, donijela je
+ODLUKU
