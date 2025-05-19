@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tačka 3 Ustava Crne Gore i člana 30 Zakona o energetici ("Službeni list CG", br. 5/16, 51/17, 82/20, 29/22, 152/22 i 84/24), Skupština Crne Gore 28. saziva, na Trećoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2025. godini, dana 19. maja 2025. godine, donijela je
+ODLUKU O IMENOVANJU PREDSJEDNIKA I DVA ČLANA ODBORA REGULATORNE AGENCIJE ZA ENERGETIKU I REGULISANE KOMUNALNE DJELATNOSTI
