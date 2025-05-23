@@ -1,0 +1,2 @@
+# Član 3
+Vlasnik povlasnog dobra, Unrein Antonovič Josef, dužan je da prije početka radova, pribavi od nadležnog organa lokalne uprave, potrebno odobrenje za izvođenje radova na javnim površinama i površinama namijenjenim za saobraćaj, kao i da nakon okončanja radova na polaganju elektroenergetskog kablovskog voda, radi kojeg se službenost i ustanovljava, zemljište vrati u prvobitno stanje, bez odlaganja.

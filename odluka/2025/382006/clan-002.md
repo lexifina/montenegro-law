@@ -1,0 +1,3 @@
+# Član 2
+Obavezuje se Unrein Antonovič Josef da prema Opštini izmiri naknadu za ustanovljenje prava stvarne službenosti u odnosu na zemljište iz člana 1 ove odluke, u ukupnom iznosu od 685,80€, a prednje u roku od 8 (slovima: osam) dana od dana zaključenja ugovora pred nadležnim notarom kojeg će u skladu sa Zakonom o notarima odrediti Notarska komora Crne Gore.
+Naknada iz prethodnog stava odgovara visini od 15% procijenjene tržišne vrijednosti nepokretnosti u skladu sa Izvještajem o procjeni vrijednosti nepokretnosti, sačinjenim od strane ovlašćenog (REV) procjenjivača nekretnina i sudskog vještaka građevinske struke, dipl. ing. građ. Ivanović Sonje iz Podgorice, protokolisanog kod Opštine Bar pod brojem: 04-427/24-2433 od 11. 2. 2025. godine.
