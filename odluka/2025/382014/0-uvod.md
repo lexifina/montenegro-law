@@ -1,0 +1,2 @@
+Na osnovu člana 16 i 42 Zakona o kulturi ("Službeni list Crne Gore", br. 49/08, 16/11, 40/11 i 38/12), člana 29, stav 1, tačka 2 i člana 38, stav 1, tačka 2 i 14 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19 i 38/20) i člana 17, stav 1, tačka 2 i 36, stav 1, tačka 2 i 15 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", br. 37/19), na XXVI sjednici Skupštine opštine Kotor održanoj 13. 5. 2025. godine, donijela je
+ODLUKU
