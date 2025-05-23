@@ -1,0 +1,2 @@
+Na osnovu člana 38. stav 1. tačka 2. Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 58. stav 1. tačka 2. Statuta Opstine Ulcinj ("Službeni list CG - Opštinski propisi", broj 48/19), člana 10. Odluke o osnivanju Agencije za izgradnju i razvoj Ulcinja ("Službeni list CG - Opštinski propisi", br. 3/12, 4/22 i 36/24), Skupština opštine Ulcinj, na sjednici održanoj dana 25. 4. 2025. godine, donijela je
+ODLUKU
