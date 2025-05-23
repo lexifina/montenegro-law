@@ -1,0 +1,3 @@
+# Član 2
+Obavezuje se "Harmony Construction" d.o.o. sa sjedištem u Budvi da prema Opštini izmiri naknadu za ustanovljenje prava stvarne službenosti u odnosu na zemljište iz člana 1. ove odluke, u ukupnom iznosu od 5.494,10 €, a prednje u roku od 8 (slovima: osam) dana od dana zaključenja ugovora pred nadležnim notarom kojeg će u skladu sa Zakonom o notarima odrediti Notarska komora Crne Gore.
+Naknada iz prethodnog stava određena je u visini od 15% procijenjene tržišne vrijednosti nepokretnosti, shodno Izvještaju o procjeni vrijednosti nepokretnosti, urađenim od strane ovlašćenog (REV) procjenjivača nekretnina i sudskog vještaka građevinske struke, dipl. ing. građ. Ivanović Sonje iz Podgorice, protokolisanog kod Opštine pod brojem: 04-427/24-2583 od 9. 1. 2025. godine.
