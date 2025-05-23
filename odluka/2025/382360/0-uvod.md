@@ -1,0 +1,3 @@
+Na osnovu člana 271. Zakona o privrednim društvima ("Službeni list Crne Gore", br. 65/20, 146/21 i 4/24) i člana 12. alineja 3. a u vezi sa članom 20. Odluke o osnivanju Društva sa ograničenom odgovornošću za očuvanje i zaštitu biodiverziteta, uzgoja i lova divljači i ribolov "Ulcinj" ("Službeni list Crne Gore - Opštinski propisi", br. 4/19 i 52/22), člana 58. stav 1. tačka 2. Statuta Opštine Ulcinj ("Službeni list Crne Gore - Opštinski propisi", broj 48/19 i 5/24), Skupština opštine Ulcinj, na sjednici održanoj dana 25. 4. 2025. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Odluku o Izmjenama i dopunama Statuta Društva sa ograničenom
