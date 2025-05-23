@@ -1,0 +1,50 @@
+# Član 1
+## o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave
+U Odluci o organizaciji i načinu rada lokalne uprave ("Službeni list Crne Gore - Opštinski propisi", br. 60/23), član 8 mijenja se i glasi:
+"Sekretarijat za imovinu i investicije vrši poslove koji se odnose na:
+- imovinska prava i ovlašćenja na nepokretnim stvarima na kojima Opština Bar i njeni organi imaju pravo svojine, susvojine, zajedničke svojine, pravo raspolaganja, korišćenja i drugo;
+- sprovođenje postupaka, pripremu predloga ugovora, sporazuma i drugih akata za Skupštinu opštine i predsjednika Opštine u vezi sa raspolaganjem nepokretnom imovinom u skladu sa zakonom kojim se uređuje državna imovina, zakonom kojim se uređuje sistem lokalne samouprave, Statutom Opštine Bar i drugim zakonskim i podzakonskim aktima;
+- pripremu ugovora, rješenja i drugih odgovarajućih akata koji se tiču realizacije odluka o raspolaganju nepokretnom imovinom Opštine Bar donijetih od strane nadležnih organa jedinice lokalne samouprave;
+- pripremu predloga ugovora o raspolaganju nepokretnostima (kupoprodaja, razmjena, zakup, davanje na upravljanje, davanje na korišćenje, davanje u zakup, pravo službenosti, zalaganje nepokretnih stvari - hipoteka, fiducija i dr.), zaključivanje tih ugovora kada za to postoji posebno ovlašćenje nadležnog organa i praćenje njihove realizacije;
+- davanje mišljenja na predloge akata o raspolaganju nepokretnostima, koje pripremaju javne službe čiji je osnivač Opština;
+- praćenje, analizu i davanje mišljenja na način korišćenja, upravljanja i raspolaganja nepokretnostima iz imovine Opštine od strane javnih službi čiji je osnivač Opština;
+- izdavanje akata o izmirenim obavezama po osnovu prenosa imovinskih prava na nepokretnostima koje pripadaju Opštini;
+- pokretanje postupka upisa prava na nepokretnostima Opštine kao i upisa promjene tih prava i upisa tereta (hipoteka, fiducija);
+- pokretanje postupka eksproprijacije saglasno godišnjem programu uređenja građevinskog zemljišta; pripremanje predloga odluka o utvrđivanju opšteg interesa za eksproprijaciju nepokretnosti van prostornog plana, radi izgradnje objekata koji su od neposrednog značaja za ostvarivanje funkcije lokalne samouprave;
+- ostvarivanje saradnje sa državnim organima i organima lokalne uprave, na preduzimanju svih preventivnih i represivnih mjera zaštite imovinskih prava i interesa Opštine;
+- ostvarivanje saradnje sa organima lokalne uprave i organima državne uprave u pitanjima od značaja za vođenje Registra nepokretnosti Opštine;
+- davanje podataka organima Opštine iz službene evidencije Sekretarijata;
+- obavljanje geodetskih poslova za organe lokalne uprave;
+- terenski uviđaj u vezi sa prikupljanjem podataka o nepokretnostima;
+- procjene nepokretnosti za potrebe Opštine i njenih organa;
+- učestvovanje u identifikaciji i zaštiti kapitala Opštine u postupcima transformacije privrednih subjekata;
+- učestvovanje u postupcima eksproprijacije;
+- staranje o namjenskom korišćenju imovine Opštine;
+- davanje pravnih mišljenja o imovinsko-pravnim pitanjima;
+- stručne i administrativno-tehničke poslove u vezi sa sprovođenjem odluka komisija nadležnih za rješavanje stambenih pitanja lokalnih funkcionera i lokalnih službenika i namještenika (otkup stanova, obrada ugovora o zakupu, kupovini stanova pod povoljnijim uslovima, ovjere ugovora i dr.) i druge poslove u vezi sa tim;
+- pripremanje propisa za utvrđivanje uslova, visine, načina i rokova plaćanja i umanjenja naknade za građenje/komunalno opremanje građevinskog zemljišta, gradske rente i propisa za utvrđivanje uslova, visine i načina i rokova plaćanja naknade za urbanu sanaciju;
+- popis i evidenciju opštinske imovine, u skladu sa zakonom kojim se uređuje državna imovina;
+- obezbjeđivanje uslova za uređivanje, korišćenje, unapređivanje i zaštitu građevinskog zemljišta; priprema jednogodišnjeg programa uređenja prostora/plan komunalnog opremanja i programa urbane sanacije; pripremu građevinskog zemljišta za izgradnju i rekonstrukciju svih vrsta objekata i komunalno opremanje građevinskog zemljišta (putevi, ulice u naselju, uključujući pješačke prolaze, trgove i javna parkirališta, objekte javne rasvjete, zelene površine u naselju, parkove - pješačke staze, travnjake, terene dječjih igrališta, javnih objekata, komunalne objekte i instalacije do priključka na urbanističku parcelu i dr.); priprema propisa koji se odnose na odredjivanje i organizaciju prostornih zona zavisno od vrste i stepena komunalne i infrastrukturne opremljenosti gradjevinskog zemljišta;
+- vršenje pravnih, finansijskih, tehničkih, administrativnih i drugih stručnih poslova za praćenje i realizaciju programa; usklađivanje programa uređivanja građevinskog zemljišta sa planovima razvoja pojedinih djelatnosti; mjere zaštite spomenika kulture i zaštite objekata prirode, koji bi mogli biti ugroženi radovima na pripremi zemljišta;
+- poslove u vezi sa rušenjem postojećih objekata i uređaja i uklanjanje materijala, kao i premještanje postojećih podzemnih i nadzemnih instalacija; poslove izgradnje, rekonstrukcije, održavanja, zaštite i korišćenja i upravljanje putevima u zahvatu područja posebne namjene;
+- pribavljanje urbanističko-tehničkih uslova, pripremu tehničke dokumentacije u zavisnosti od vrste objekta i nivoa razrade, pripremu revizije tehničke dokumentacije, obezbjeđivanje izvođenja radova koji se finansijraju iz budžeta Opštine Bar, radi građenja novog objekta, rekonstrukcije, dogradnje ili nadogradnje, adaptacije odnosno sanacije postojećeg objekta, redovnog ili investicionog održavanja objekata, uvođenje izvođača radova u posao, obezbjeđivanje vršenja stručnog nadzora nad izvođenjem radova koji se finansiraju iz budžeta Opštine Bar, saradnju i komunikaciju sa izvođačima, projektantima, revidentima, stručnim nadzorom, javnim službama i drugim fizičkim i pravnim licima od značaja za realizaciju izgradnje objekata, pribavljanja upotrebne dozvole i vršenje primopredaje izgrađenog objekta;
+- pribavljanje saglasnosti od imaoca imovinskih prava na zemljištu u vezi sa građenjem novog objekta, rekonstrukcijom, dogradnjom, adaptacijom odnosno sanacijom postojećeg infrastrukturnog objekta i zaključivanje odgovarajućih sporazuma u vezi sa tim,
+- praćenje realizacije godišnjih programa uređenja prostora, odnosno plana komunalnog opremanja;
+- izradu predloga operativnog plana za sprovođenje godišnjih programa uređenja građevinskog zemljišta;
+- praćenje i sprovođenje važećih propisa iz oblasti finansijskog poslovanja i organizovanje urednog i ažurnog protoka finansijske dokumentacije;
+- vođenje baze podataka o investicijama koje se odnose na infrastrukturne projekte;
+- praćenje i obezbjeđivanje redovnog priliva sredstava; praćenje rokova dospjelosti potraživanja i obaveza i staranje o njihovoj blagovremenoj naplati; izradu finansijskih planova i kontrolu plaćanja i naplate po ugovorima;
+- obračun i utvrđivanje naknade za građenje/komunalno opremanje građevinskog zemljišta i gradske rente donošenjem rješenja, obračun i utvrđivanje naknade za komunalno opremanje građevinskog zemljišta donošenjem rješenja, po zahtjevima investitora koji podnose prijavu građenja nadležnom inspekcijskom organu na osnovu tehničke dokumentacije;- pripremanje ugovora o utvrđivanju obaveza investitora po osnovu naknade za komunalno opremanje;
+- učestvuje u pripremi Izvještaja o stanju uređenja prostora;
+- učestvuje u pripremi Programa uređenja prostora;
+- pripremanje ugovora obezbjeđenja plaćanja (hipoteke, zaloge...);
+- sačinjavanje konačnog obračuna naknade za komunalno opremanje;
+- obračun i utvrđivanje naknade za urbanu sanaciju donošenjem rješenja za bespravne objekte; izradu izvještaja o konačnom obračunu naknade za komunalno opremanje građevinskog zemljišta;
+- analizu stepena i efekata ostvarenja prihoda po osnovu kapitalnih primitaka;
+- izdavanje akata o regulisanju plaćanja obaveza po osnovu komunalnog opremanja građevinskog zemljišta;
+- sprovođenje postupka javne nabavke, roba i usluga i izvođenja radova kada je naručilac Opština Bar; pripremu plana javnih nabavki i planiranje odgovarajućih sredstava za javne nabavke u budžetu Opštine; pripremu studije opravdanosti za kapitalna ulaganja; pripremu odluke o pokretanju i sprovođenju postupka javne nabavke; davanje ponuđačima tenderske dokumentacije; stručno- administrativne poslove u realizaciji postupka javne nabavke; sprovođenje i odgovornost u postupku javne nabavke male vrijednosti; evidenciju javnih nabavki; pripremanje i dostavljanje izvještaja o sprovedenim javnim nabavkama i čuvanje dokumentacije;
+- preduzimanje mjera i radnji propisanih Zakonom radi privođenja namjeni građevinskog zemljišta;
+- izradu izvještaja o radu Sekretarijata za predsjednika Opštine i glavnog administratora;
+- izradu nacrta i predloga odluka i drugih opštih akata iz nadležnosti Sekretarijata, kao i informativnih i drugih stručnih materijala za Skupštinu, predsjednika Opštine i resorna ministarstva i vršenje drugih poslova u skladu sa zakonom, Statutom Opštine i drugim propisima; staranje o usklađenosti odluka i drugih opštih akata sa zakonima; praćenje i sprovođenje zakona i drugih propisa; pripremu stručnih mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa i davanje tumačenja opštinskih propisa iz nadležnosti Sekretarijata;
+- postupak za slobodan pristup informacijama iz svog djelokruga;
+- druge poslove u okviru svoje nadležnosti iz ove oblasti, u skladu sa zakonskim i drugim propisima".
