@@ -1,0 +1,3 @@
+# Član 27
+Savjet je organ upravljanja "Radio Kotor" d.o.o. i zastupa interese građana Crne Gore, odnosno jedinice lokalne samouprave na čijoj teritoriji emituje linearne AVM usluge.
+Savjet je funkcionalno nezavisan od bilo kojeg državnog organa, odnosno organa lokalne samouprave, organa lokalne uprave, javne ustanove, nezavisnog regulatornog tijela, privrednog društva i pravnog lica u većinskom vlasništvu države ili jedinice lokalne samouprave, kao i od svih pravnih i fizičkih lica koja se bave djelatnošću proizvodnje, prenosa i emitovanja radijskog i/ili televizijskog programa ili sa njom povezanim djelatnostima.
