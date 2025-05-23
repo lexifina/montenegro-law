@@ -1,0 +1,2 @@
+# Član 3
+Vlasnici povlasnog dobra, Mićunović Milan i Mićunović Dragan dužni su da prije početka radova, pribave od nadležnog organa lokalne uprave, potrebno odobrenje za izvođenje radova na površinama namijenjenim za saobraćaj, kao i da nakon okončanja radova na polaganju elektroenergetskog kablovskog voda, radi kojeg se službenost i ustanovljava, zemljište vrate u prvobitno stanje, bez odlaganja.
