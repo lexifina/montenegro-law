@@ -1,0 +1,2 @@
+# Član 6
+Ako investitor, nadzorni inženjer, odnosno izvođač radova ne sprovede mjere iz člana 5 ovog pravilnika, projektant koji vrši projektantski nadzor obavještava građevinskog inspektora da se radovi ne izvode u skladu sa revidovanim glavnim projektom na osnovu kojeg je dobijena građevinska dozvola ili da se promjene revidovanog glavnog projekta obavljaju bez prethodne saglasnosti projektanta.

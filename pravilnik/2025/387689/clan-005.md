@@ -1,0 +1,2 @@
+# Član 5
+Projektant koji vrši projektantski nadzor bez odlaganja obavještava investitora, nadzornog inženjera i izvođača radova ako se radovi ne izvode u skladu sa revidovanim glavnim projektom na osnovu kojeg je dobijena građevinska dozvola ili se obavljaju promjene revidovanog glavnog projekta bez prethodne saglasnosti autora, vodećeg projektanta, odnosno odgovornog projektanta i da predloži mjere koje je potrebno da se sprovedu.
