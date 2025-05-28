@@ -1,0 +1,3 @@
+Na osnovu člana 1 stav 1, člana 2, člana 2a, člana 4a i člana 7 stav 1 Zakona o eksproprijaciji ("Službeni list RCG", br. 55/00, 12/02 i 28/06 i "Službeni list CG", br. 21/08, 30/17, 75/18 i 33/24), člana 28 stav 1 tačka 5, člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/28, 34/19, 38/20, 50/22 i 84/22), člana 18 stav 1 tačka 5 i člana 37 stav 1 tačka 2 Statuta Opštine Kolašin ("Službeni list CG - Opštinski propisi", br. 24/19) Skupština opštine Kolašin, na sjednici odžanoj dana 20. 5. 2025. godine, donijela je
+ODLUKU
+o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za potrebe rekonstrukcije regionalnog puta - Ulica broj 1 u dužini L=1098 m (od mosta na Pažanjskom potoku do mosta na Tari) u okviru DUP-a "Sportska zona"
