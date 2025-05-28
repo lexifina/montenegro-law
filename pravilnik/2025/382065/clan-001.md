@@ -1,0 +1,5 @@
+# Član 1
+U Pravilniku o bližim uslovima za izdavanje, obnavljanje, suspenziju i oduzimanje licence za obavljanje djelatnosti socijalne i dječje zaštite ("Službeni list CG", br. 38/18, 76/19, 16/21, 84/21, 59/22 i 84/24) u članu 3 stav 2 tačka 8 mijenja se i glasi:
+"8) program pružanja usluge koji sadrži: cilj usluge, lica koja mogu biti korisnici usluge, podatke o broju korisnika i broju stručnih radnika i saradnika, teritoriju na kojoj se pruža usluga, način rada, planiranje, aktivnosti za pružanje konkretne usluge i radno vrijeme;".
+Poslije tačke 8 dodaje se nova tačka koja glasi:
+"8a) dokaz da pružalac usluge, odnosno lice ovlašćeno za zastupanje pružaoca usluge, stručni radnici, stručni saradnici i saradnici angažovani za pružanje usluge nijesu osuđivani za krivična djela protiv života i tijela, polne slobode i braka i porodice, kao i za krivično djelo neovlašćena proizvodnja i stavljanje u promet opojnih droga, neovlašćeno držanje opojnih droga i omogućavanje uživanja opojnih droga i da protiv njih nije pokrenut krivični postupak za krivično djelo za koje se goni po službenoj dužnosti;".
