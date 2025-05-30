@@ -1,0 +1,3 @@
+Na osnovu člana 47 i člana 190 Zakona o audiovizuelnim medijskim uslugama ("Službeni list Crne Gore", br. 54/24), člana 38, stav 1, tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22),člana 268, stav 2 Zakona o privrednim društvima ("Službeni list Crne Gore", br. 65/20, 146/21 i 4/24) i člana 46 Statuta Opštine Rožaje ("Službeni list Crne Gore - Opštinski propisi", br. 38/18 i 16/21), Skupština opštine Rožaje, na sjednici održanoj 13. 5. 2025. godine, donijela je
+ODLUKU
+o izmjenama i dopunama Odluke o osnivanju Društva sa ograničenom odgovornošću Lokalni
