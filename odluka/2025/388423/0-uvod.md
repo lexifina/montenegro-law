@@ -1,0 +1,2 @@
+Na osnovu člana 54 stav 1 tačka 56 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21 i 49/22), čl. 9 i 10 Odluke o osnivanju Javne ustanove Muzeji i galerije Podgorica ("Službeni list Crne Gore - Opštinski propisi", br. 28/11 i 7/21) i člana 28 stav 1 alineja 7 Statuta Javne ustanove Muzeji i galerije Podgorica broj: 30 od 17.02.2012. godine, Skupština Glavnog grada - Podgorice, na sjednici održanoj 29. maja 2025. godine, donijela je
+ODLUKU
