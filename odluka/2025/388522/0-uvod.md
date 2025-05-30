@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19, 38/20 i 50/22), člana 46 stav 1 tačka 22 Statuta Opštine Rožaje ("Službeni list CG - Opštinski propisi", broj 38/18 i 16/21), člana 21 i 22 Statuta DOO "Komunalno" Rožaje, broj 857/1 od 25. 7. 2014. godine, Skupština opštine Rožaje, na sjednici održanoj dana 15. 5. 2025. godine, donijela je
+ODLUKU
