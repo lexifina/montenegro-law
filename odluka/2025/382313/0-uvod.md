@@ -1,0 +1,3 @@
+Na osnovu člana 47. Zakona o audiovizuelnim medijskim uslugama ("Službeni list CG", 54/24), i člana 38. stav 1. tačka 2. Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20, 50/22, 84/22 i 85/22), člana 268. stav 2. Zakona o privrednim društvima ("Službeni list CG", br. 65/20, 146/21 i 4/24) i člana 58. stav 1. tačka 14. Statuta Opštine Ulcinj ("Službeni list - Opštinski propisi", br. 48/19 i 5/24), Skupština opštine Ulcinj, na sjednici održanoj dana 25. 4. 2025. godine, donijela je
+ODLUKU
+o izmjenama i dopunama Odluke o osnivanju Društva sa ograničenom odgovornošću lokalni i
