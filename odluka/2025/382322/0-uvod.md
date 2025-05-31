@@ -1,0 +1,2 @@
+Na osnovu člana 116 stav 3 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", broj 64/17, 44/18, 63/18, 11/19, 82/20, 86/22 i 4/23), člana 35 Statuta Opštine Šavnik ("Službeni list CG - Opštinski propisi", broj 31/18), uz prethodnu saglasnost Ministarstva prostornog planiranja, urbanizma državne imovine, broj 04-332/25-671/2 od 14. 2. 2025. godine, Skupština opštine Šavnik, na sjednici održanoj dana 5. 5. 2025. godine, donijela je
+ODLUKU
