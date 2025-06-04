@@ -1,0 +1,9 @@
+# Član 2
+Poslije člana 17 dodaje se novi član koji glasi:
+"Član 17a
+Savjet za omladinsku i obrazovnu politiku
+Savjet za omladinsku i obrazovnu politiku ima predsjednika i osam članova.
+Predsjednik i četiri člana se imenuju iz reda odbornika u Skupštini, jedan član je starješina organa lokalne uprave nadležnog za poslove za praćenje i sprovođenje zakona i propisa u oblasti omladinske politike, dva člana su predstavnici nevladinih organizacija, od čega jedan koji u osnivačkom aktu i statutu ima utvrđene djelatnosti i ciljeve bavljenja omladinskom politikom i jedan koji u osnivačkom aktu i statutu ima utvrđene djelatnosti i ciljeve bavljenja obrazovnom politikom i jedan član iz reda naučnih i stručnih radnika.
+Savjet za omladinsku i obrazovnu politiku razmatra predloge odluka i drugih opštih akata koja se odnose na planiranje, kreiranje, sprovođenje i unapređenje društvenog položaja mladih; učestvuje u pripremi i sprovođenju lokalnih strateških dokumenata koji su od značaja za unapređenje položaja mladih u Glavnom gradu; razmatra pitanja koja se odnose na poboljšanje položaja mladih, njihovog ličnog i društvenog razvoja i uključivanja u društvene tokove i predlaže mjere za njihovo unapređenje; daje mišljenje u postupku pripreme propisa iz oblasti kojima se uređuju pitanja od značaja za mlade; razmatra pitanja koja se odnose na opšte obrazovnu politiku; sarađuje sa nadležnim organima i institucijama u cilju zajedničkog djelovanja usmjerenog na poboljšanje položaja mladih; razmatra godišnje i druge izvještaje o sprovođenju lokalnih akcionih planova iz oblasti omladinske politike; razmatra i druga pitanja koja su od značaja za potrebe i položaj mladih u Glavnom gradu.
+Član 3
+Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore - Opštinski propisi".
