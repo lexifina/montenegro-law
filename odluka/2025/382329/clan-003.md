@@ -1,0 +1,2 @@
+# Član 3
+Osnovni cilj donošenja ove odluke predstavlja jačanje podrške ženskom preduzetništvu, a samim tim i unapređenje poslovnog ambijenta i pospješivanje ekonomskog razvoja opštine Kolašin. Specifični ciljevi su otvaranje novih radnih mjesta, podsticanje konkurentnosti privrede, ohrabrivanje inovativnosti i kreativnosti, unapređenje turističkog proizvoda, diverzifikacija turističke ponude i drugi ciljevi koji su definisani strateškim dokumentima Opštine Kolašin.
