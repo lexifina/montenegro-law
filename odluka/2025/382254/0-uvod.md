@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 54 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", br. 8/19, 20/21 i 49/22), a u skladu sa članom 16 Odluke o budžetu Glavnog grada Podgorice za 2025. godinu ("Službeni list Crne Gore -Opštinski propisi", broj 9/25), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 15. i 16. maja 2025. godine, donijela je
+ODLUKU
