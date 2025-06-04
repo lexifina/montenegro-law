@@ -1,0 +1,3 @@
+# Član 1
+## ovlašćenja vrši Glavni grad - Podgorica radi izgradnje administrativnog objekta na urbanističkoj parceli UP 4 u zahvatu Urbanističkog projekta "Srednja škola Golubovci"
+Daje se saglasnost Opštini Zeta za izvođenje radova na nepokretnosti na kojoj svojinska ovlašćenja vrši Glavni grad - Podgorica, označena kao katastarska parcela broj 12919/19, po načinu korišćenja njiva 1. klase površine 55m2, iz lista nepokretnosti broj 4605 KO Golubovci, sa osnovom prava svojine Glavnog grada Podgorice, u skladu sa Elaboratom geodetskih radova eksproprijacije ovjerenim kod Uprave za nekretnine - PJ Podgorica pod brojem 4870/23 dana 5. 4. 2024. godine.
