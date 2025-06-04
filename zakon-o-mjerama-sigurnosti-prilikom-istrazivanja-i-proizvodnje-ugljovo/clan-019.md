@@ -1,0 +1,6 @@
+# Član 19
+## Izmjene internog plana reagovanja na vanredni događaj
+(1) Operator, odnosno vlasnik neproizvodnog postrojenja je dužan da na zahtjev Uprave dostavi na mišljenje izmijenjeni interni plan reagovanja na vanredni događaj ili opis tog plana najkasnije 45 dana prije planiranog početka upstream operacija, ako priroda upstream operacija ili lokacija ušenja to zahtijeva.
+(2) Ako dođe do promjene ela orata o velikim opasnostima, itne promjene programa, planova i o avještenja za upstream operacije koji se dostavljaju u skladu sa zakonom, kao i u slučaju itne promjene plana za hitne intervencije, operator je dužan da izmijeni interni plan reagovanja na vanredni događaj.
+(3) Operator, odnosno vlasnik neproizvodnog postrojenja dužan je da izmjene internog plana reagovanja na vanredni događaj iz stava 2 ovog člana, dostavi Upravi na mišljenje u roku od tri dana od dana izmjene internog plana.
+(4) Ako operator, odnosno vlasnik neproizvodnog postrojenja namjerava da neproizvodno postrojenje koristi za izvođenje koordinisanih upstream operacija, dužan je da te operacije uključi u interni plan reagovanja na vanredni događaj i da izmjene plana dostavi Upravi, na mišljenje najkasnije 60 dana prije planiranog početka koordinisanih upstream operacija.

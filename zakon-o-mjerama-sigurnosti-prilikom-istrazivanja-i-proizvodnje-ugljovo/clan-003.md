@@ -1,0 +1,3 @@
+# Član 3
+## Primjena drugih propisa
+Na pitanja koja nijesu uređena ovim zakonom primjenjuju se odred e zakona kojim se uređuje istraživanje i proizvodnja ugljovodonika, zaštita mora od zagađivanja sa plovnih o jekata, sigurnost pomorske plovid e, traganje i spašavanje na moru, način upisa rodova, plutajućih o jekata i instalacija za proizvodnju ugljovodonika u upisnike i stvarnim pravima na brodovima i instalacijama za proizvodnju ugljovodonika, ez jednosna zaštita rodova i luka, morski i podmorski pojas Crne Gore, zaštita i zdravlje na radu, zaštita životne i morske sredine, zaštita od jonizujućih zračenja i radijaciona sigurnost, odgovornost za štetu u životnoj sredini i zaštita i spašavanje.

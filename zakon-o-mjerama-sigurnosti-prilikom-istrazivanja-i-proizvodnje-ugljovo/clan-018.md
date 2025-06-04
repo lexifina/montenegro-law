@@ -1,0 +1,11 @@
+# Član 18
+## Interni plan reagovanja na vanredni događaj
+(1) Operator, odnosno vlasnik neproizvodnog postrojenja dužan je da izradi i dostavi Upravi na mišljenje interni plan reagovanja na vanredni događaj, najkasnije 45 dana prije planiranog početka upstream operacija.
+(2) Uprava je dužna da interni plan reagovanja na vanredni događaj iz stava 1 ovog člana dostavi, u roku od pet dana od dana prijema, na davanje prethodnog mišljenja organu uprave nadležnom za poslove pomorske sigurnosti i zaštitu i spašavanje i organu uprave nadležnom za zaštitu životne sredine, koji su dužni dati mišljenje u roku od 20 dana od dana prijema.
+(3) Operator, odnosno vlasnik neproizvodnog postrojenja dužan je da interni plan reagovanja na vanredni događaj uskladi sa planom iz člana 31 ovog zakona.
+(4) Prilikom izrade plana iz stava 1 ovog člana, operator, odnosno vlasnik neproizvodnog postrojenja je dužan da implementira preporuke iz poslednje procjene rizika od velike nesreće.
+(5) Operator je dužan da u interni plan reagovanja na vanredni događaj, uključi analizu efikasnosti sistema za reakciju prilikom izlivanja, odnosno ispuštanja ugljovodonika, koja se temelji na analizi učestalosti, trajanja i trenutka pojave uslova u životnoj sredini koji i spriječili reakciju na vanredni događaj (u daljem tekstu: e ikasnost odgovora na izlivanje ugljovodonika).
+(6) Procjena e ikasnosti odgovora na izlivanje ugljovodonika izražava se kao količina vremena u kojem uslovi u životnoj sredini iz stava 5 ovog člana, nijesu prisutni i mora da uključuje opis operativnih ograničenja koja se z og te procjene postavljaju na postrojenjima.
+(7) Operator ne smije da izvodi upstream operacije ez pozitivnog mišljenja Uprave na interni plan reagovanja na vanredni događaj, odnosno na izmjene tog plana.
+(8) U slučaju iznenadnih događaja, velike nesreće ili velike opasnosti, operator, odnosno vlasnik neproizvodnog postrojenja dužan je da interni plan reagovanja na vanredni događaj sprovede ez odlaganja.
+(9) Bliži sadržaj, način izrade i dostavljanja plana iz stava 1 ovog člana propisuje Ministarstvo, uz prethodnu saglasnost organa državne uprave nadležnog za poslove životne sredine i organa državne uprave nadležnog za poslove zaštite i spašavanja.
