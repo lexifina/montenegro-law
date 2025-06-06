@@ -1,0 +1,2 @@
+Na osnovu člana 4 stav 2, člana 5 stav 5, člana 9 stav 3, člana 10 stav 3, člana 14 stav 6, član 15 stav 4, član 16 stav 2, član 19 stav 3, član 21 stav 4, član 22 stav 6 Zakona o sadnom materijalu ("Službeni list RCG", broj 28/06 i "Službeni list CG", br. 61/11 i 48/15), Ministarstvo poljoprivrede, šumarstva i vodoprivrede donijelo je
+P R A V IL N IK O IZMJENI PRAVILNIKA O USLOVIMA ZA PROIZVODNJU I PROMET SADNOG MATERIJALA UKRASNOG BILJA*

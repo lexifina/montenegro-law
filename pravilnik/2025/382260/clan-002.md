@@ -1,0 +1,3 @@
+# Član 2
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+*U ovaj pravilnik prenešene su: Direktiva Komisije (EU) 2020/177 оd 11. februara 2020. o izmjeni direktiva Vijeća 66/401/EEZ, 66/402/EEZ, 68/193/EEZ, 2002/55/EZ, 2002/56/EZ i 2002/57/EZ, direktiva Komisije 93/49/EEZ i 93/61/EEZ i direktiva 2014/21/EU i 2014/98/EU u pogledu štetnih organizama štetnih za bilje, na sjemenu i drugom sadnom materijalu bilja i Direktiva Komisije (EU) 2022/2438 оd 12. decembra 2022. o izmjeni Direktive 93/49/EEZ i Direktive 2014/98/EU u pogledu regulisanih nekarantinskih štetnih organizama Unije na sadnom materijalu ukrasnog bilja, voćnom sadnom materijalu i sadnicama namijenjenima proizvodnji voća.
