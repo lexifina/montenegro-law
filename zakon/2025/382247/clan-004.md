@@ -1,0 +1,3 @@
+# Član 4
+U članu 15 stav 2 mijenja se i glasi:
+"Ako je javnopravni organ odbio predlog za odlaganje izvršenja do donošenja pravosnažne odluke u upravnoj stvari ili po predlogu nije odlučio u roku od pet dana od dana prijema predloga, sud može po zahtjevu stranke odložiti izvršenje upravnog akta ili pravno dejstvo druge upravne aktivnosti do donošenja sudske odluke, ako bi se izvršenjem upravnog akta ili pravnim dejstvom druge upravne aktivnosti tužiocu nanijela nenadoknadiva šteta, a odlaganje nije protivno javnom interesu, niti bi se odlaganjem nanijela šteta koja bi se teško mogla nadoknaditi protivnoj stranci, odnosno zainteresovanom licu."
