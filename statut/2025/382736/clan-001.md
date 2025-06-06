@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim statutom bliže se uređuju: naziv i sjedište Regulatorne agencije za energetiku i regulisane komunalne djelatnosti (u daljem tekstu: Agencija), pravni status, znak i memorandum, pečat i štambilj, način i rokovi za raspisivanje konkursa za izbor izvršnog direktora i zamjenika izvršnog direktora Agencije, prava i dužnosti Odbora Agencije i prava i dužnosti izvršnog direktora i zamjenika izvršnog direktora Agencije, odnosno poslovi koje obavljaju, smjernice za utvrđivanje unutrašnje organizacije Agencije, postupak izbora i razrješenja izvršnog direktora i zamjenika izvršnog direktora Agencije, javnost rada Agencije, predstavljanje i zastupanje Agencije, način finansiranja i druga pitanja od značaja za rad Agencije.
