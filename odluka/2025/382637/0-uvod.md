@@ -1,0 +1,2 @@
+Na osnovu člana 298 Zakona o privrednim društvima ("Službeni list Crne Gore", br. 65/20, 146/21 i 4/24), člana 190 Zakona o audiovizuelnim medijskim uslugama ("Službeni list Crne Gore", br. 54/24), člana 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 38 Statuta Opštine Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", br. 43/18), Skupština opštine Danilovgrad na sjednici održanoj 16. 5, 20. 5. i 30. 5. 2025. godine, donijela je
+ODLUKU
