@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 46 stav 1 tačka 2 Statuta Opštine Bijelo Polje ("Službeni list Crne Gore - Opštinski propisi", br.19/18) i člana 5 i 6 Odluke o Savjetu za saradnju lokalne samouprave i nevladinih organizacija ("Službeni list Crne Gore - Opštinski propisi", br. 34/11), Skupština opštine Bijelo Polje, na sjednici održanoj dana 13. i 14. 5. i 2. 6. 2025. godine, donijela je
+ODLUKU
