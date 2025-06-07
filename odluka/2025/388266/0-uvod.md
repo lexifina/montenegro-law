@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/2009 i 40/2011), člana 46 Statuta Opštine Rožaje stav 1 tačka 9 ("Službeni list Crne Gore - Opštinski propisi", br. 38/18 i 16/21), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/2018, 34/2019, 38/2020, 50/22 i 84/22), Skupština opštine Rožaje, na sjednici održanoj dana 15. 5. 2025. donijela je
+ODLUKU
