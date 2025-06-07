@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22 i 84/22), člana 66, 67 i 68 Zakona o uređenju prostora ("Službeni list Crne Gore", broj 19/25 i 28/25) i člana 46 Statuta Opštine Rožaje ("Službeni list Crne Gore - Opštinski propisi", broj 38/18 i 16/21), Skupština opštine Rožaje, na sjednici održanoj dana 15. 5. 2025. godine , donijela je
+O D L U K U
