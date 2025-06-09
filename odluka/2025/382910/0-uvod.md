@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2, člana 2a i člana 4a Zakona o eksproprijaciji ("Službeni list CG", br. 55/00, 12/02, 28/06, 21/08, 30/17, 75/18 i 33/24), člana 28 tačka 5 u vezi sa članom 59 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), i članom 13 tačka 2 u vezi sa članom 77 stav 1 tačka 25 Statuta Opštine Žabljak ("Službeni list CG - Opštinski propisi", br. 27/18), predsjednik Opštine Žabljak donosi
+ODLUKU
