@@ -1,0 +1,2 @@
+Na osnovu člana 20 stav 1 tačka 1 i 2 Zakona o zaštiti prirodnog i kulturno-istorijskog područja Kotora ("Službeni list Crne Gore", broj 56/13, 13/18 i 67/19), člana 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 84 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", broj 37/19), predsjednik Opštine Kotor donio je
+ODLUKU
