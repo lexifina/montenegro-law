@@ -1,0 +1,2 @@
+# Član 2
+Sredstva za realizaciju projekata iz člana 1 ove odluke obezbijediće se iz budžeta Opštine Bijelo Polje u iznosu od 10.000, eura, sa budžetske pozicije 0481-431-818, Pomoć razvoja lovstva.
