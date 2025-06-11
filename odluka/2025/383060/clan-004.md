@@ -1,0 +1,3 @@
+# Član 4
+Poslove premještanja (utovara, istovara, prevoza vozila na drugo mjesto ili mjesto određeno za čuvanje premještenog vozila i čuvanje vozila) vrši DOO "Komunalno Kotor", sa sjedištem u Kotoru - Škaljari bb u skladu sa odredbama Pravilnika o bližim uslovima koje mora da ispunjava privredno društvo ili preduzetnik za obavljanje poslova premještanja vozila i načinu premještanja i čuvanja vozila "Službeni list Crne Gore", broj 22/13 i 82/20 (u daljem tekstu: Pravilnik).
+Ukoliko DOO "Komunalno Kotor" nije u mogućnosti da u okviru svojih tehničkih mogućnosti kvalitetno i trajno obavlja poslove iz stava 1 ovog člana, može u skladu sa Zakonom zaključiti ugovor sa drugim privrednim društvom ili preduzetnikom koji ispunjavaju uslove iz stava 1 ovog člana.
