@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 tačka 9, a u vezi sa članom 76 stav 2, članom 77 stav 7, članom 80 stav 1, članom 81 stav 11, članom 87 stav 2, članom 89 stav 6 i članom 90 stav 6 Zakona o vazdušnom saobraćaju (,,Službeni list CG", br. 30/12, 30/17 i 82/20), uz prethodnu saglasnost Ministarstva saobraćaja, Agencija za civilno vazduhoplovstvo donijela je
+P R A V I L N I K O IZMJENAMA PRAVILNIKA O KONTINUIRANOJ PLOVIDBENOSTI VAZDUHOPLOVA I VAZDUHOPLOVNIH PROIZVODA, DJELOVA I UREĐAJA I ODOBRAVANJU ORGANIZACIJA I OSOBLJA KOJI OBAVLJAJU OVE POSLOVE
