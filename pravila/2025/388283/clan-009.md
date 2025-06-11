@@ -1,0 +1,5 @@
+# Član 9
+## prava preče kupovine
+Uplata akcija po osnovu prospekta za javnu ponudu akcija evidentira se kao novčano potraživanje do prijema odgovarajućeg dokumenta emitenta kojim se potvrđuje uspješnost emisije i da će UCITS fondu biti dodijeljen određen broj akcija.
+Danom prijema dokumenta iz stava 1 ovog člana, odgovarajući dio novčanog potraživanja postaje potraživanje u akcijama, do upisa tih akcija u odgovarajući registar i vrednuje se po fer vrednosti., a istovremeno iznos novčanog potraživanja se umanjuje za iznos potreban za plaćanje evidentiranog potraživanja u akcijama, a preostali iznos se vodi kao novčano potraživanje dok emitent ne izvrši povraćaj više uplaćenih sredstava na tekući račun UCITS fonda.
+Uplata akcija po osnovu prava preče kupovine evidentira se kao novčano potraživanje do prijema odgovarajućeg dokumenta emitenta kojim se potvrđuje uspješnost emisije i do upisa akcija stečenih u postupku prava preče kupovine UCITS fondu u odgovarajući registra i vrednuje se po fer vrijednosti.
