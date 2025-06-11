@@ -1,0 +1,2 @@
+# Član 5
+Izuzetno, za članove Izvršnog odbora izabrane ispred Kliničkog Centra Crne Gore, Instituta "Dr Simo Milošević" Igalo i privatnih zdrastvenih ustanova za fizikalnu terapiju primarnog nivoa (u daljem tekstu, svi zajedno: Predstavnici), mandat prestaje i u slučaju prestanka radnog odnosa ili promjene radnog mjesta na način da isti nema legitimitet da predstavlja zaposlene u instituciji ili skupu koji predstavlja.

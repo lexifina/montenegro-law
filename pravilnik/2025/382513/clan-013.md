@@ -1,0 +1,5 @@
+# Član 13
+Pravo učestvovanja na izborima za predstavnika Kliničkog centra Crne Gore (u daljem tekstu: KCCG) imaju svi zaposleni u KCCG, a koji posjeduju licencu Komore fizioterapeuta i u radnom odnosu su najmanje dvanaest mjeseci, bez prestanka, u skladu sa Zakonom o radu, a prije dana raspisivanja izbora.
+Pravo učestvovanja na izborima za predstavnika Instituta "Dr Simo Milošević" Igalo (u daljem tekstu: Institut) imaju svi zaposleni u Institutu, a koji posjeduju licencu Komore fizioterapeuta i u radnom odnosu su najmanje dvanaest mjeseci, bez prestanka, u skladu sa Zakonom o radu, a prije dana raspisivanja izbora.
+Pravo učestvovanja na izborima za predstavnika privatnih zdrastvenih ustanova za fizikalnu terapiju primarnog nivoa (u daljem tekstu: Privatne prakse) imaju svi vlasnici i zaposleni u privatnoj praksi, a koji posjeduju licencu Komore fizioterapeuta i u radnom odnosu su najmanje dvanaest mjeseci, bez prestanka, u skladu sa Zakonom o radu, a prije dana raspisivanja izbora.
+Izuzetno od prethodnih stavova, lice koje nije navršilo 25 godina života može da bira predstavnika, ne i da bude birano, iako nema dvanaest mjeseci radnog staža u institucijama.
