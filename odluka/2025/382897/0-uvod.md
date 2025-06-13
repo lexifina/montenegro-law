@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 1 tačka 7 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/2018, 34/2019, 38/2020, 50/2022, 84/2022 i 85/2022) i člana 110 stav 1 tačka 7 Statuta Opštine Ulcinj ("Službeni list Crne Gore - Opštinski propisi", br. 48/19 od 26. 11. 2019, 5/24 od 23. 1. 2024), i mišljenja glavnog administratora br. 14-082/25-33/3 od 30. 5. 2025. godine, predsjednik Opštine Ulcinj, donosi
+ODLUKU
