@@ -1,0 +1,2 @@
+Na osnovu člana 114 Zakona o penzijskom i invalidskom osiguranju ("Službeni list CG", br. 54/03, 39/04, 61/04, 79/04, 14/07 i 47/07 i "Službeni list CG", br. 79/08, 14/10, 78/10, 34/11, 66/12, 38/13, 61/13, 60/14, 10/15, 44/15, 42/16, 55/16, 80/20, 145/21, 86/22, 99/23, 125/23, 77/24 i 11/25), Upravni odbor Fonda penzijskog i invalidskog osiguranja Crne Gore, na sjednici od 31. marta 2025. godine, donio je
+ODLUKU O IZMJENAMA I DOPUNI STATUTA FONDA PENZIJSKOG I INVALIDSKOG OSIGURANJA CRNE GORE
