@@ -1,0 +1,2 @@
+Na osnovu člana 112 stav 6 Opšteg zakona o obrazovanju i vaspitanju ("Službeni list RCG", br. 64/02, 31/05 i 49/07 i "Službeni list CG", br. 45/10, 45/11, 36/13, 39/13, 47/17, 59/21, 146/21, 3/23 i 84/24), Ministarstvo prosvjete, nauke i inovacija donijelo je
+PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O ORGANIZACIJI STRUČNOG USAVRŠAVANJA NASTAVNIKA I NAČINU IZBORA AUTORA PROGRAMA STRUČNOG USAVRŠAVANJA
