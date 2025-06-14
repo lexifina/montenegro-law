@@ -1,0 +1,2 @@
+# Član 7
+Obavezuje se Stijepović (Stojan) Zoran, da u roku od 30 (slovima: trideset) dana od dana od dana donošenja rješenja o davanju saglasnosti na idejno rješenje arhitektonskog projekta objekta od strane Službe glavnog gradskog arhitekte, sa Opštinom Bar zaključi poseban ugovor kojim će se regulisati međusobna prava i obaveze u vezi sa naknadom za građenje za osnovno komunalno opremanje građevinskog zemljišta, a u skladu sa važećom Odlukom o naknadi za komunalno opremanje građevinskog zemljišta.
