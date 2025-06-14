@@ -1,0 +1,2 @@
+Nа оsnоvu člana 27 stav 1 tačka 5 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 155 Zakona o izgradnji objekata ("Službeni list Crne Gore", br. 19/25) i člana 35 stav 1 alineja 2 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", broj 24/18 i 9/20), Skupština opštine Tivat, na sjednici održanoj dana 28. 5. 2025. godine, donijela je
+ODLUKU
