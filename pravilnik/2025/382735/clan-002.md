@@ -1,0 +1,3 @@
+# Član 2
+Zapisnik o inspekcijskom nadzoru građevinskog inspektora sadrži: naziv organa koji vrši nadzor, dan i vrijeme vršenja nadzora, ime inspektora koji vrši nadzor, naziv subjekta kod kojeg se vrši nadzor i mjesto u kome se vrši nadzor, predmet nadzora, ime revidenta, ime izvođača radova, ime stručnog nadzora radova, imena lica prisutnih nadzoru i njihovih zastupnika, punomoćnika ili predstavnika, utvrđeno činjenično stanje i mjere koje će se preduzeti, kao i konstataciju da je zapisnik pročitan sa ili bez primjedbi i sačinjen u tri primjerka, od kojih se jedan primjerak dostavlja stranci.
+Zapisnik iz stava 1 ovog člana sačinjava se na Obrascu koji čini sastavni dio ovog pravilnika.
