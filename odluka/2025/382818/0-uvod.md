@@ -1,0 +1,2 @@
+Na osnovu člana 10 stav 1 tačka 12, člana 29 stav 2 i člana 34 stav 1 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11 i 23/25), člana 201 stav 1 i člana 216 Zakona o svojinsko- pravnim odnosima ("Službeni list CG", br.19/09 i 29/25), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 46 stav 1 tačka 9 Statuta Opštine Bijelo Polje ("Službeni list CG - Opštinski propisi", br. 19/18) Skupština opštine Bijelo Polje, na sjednici održanoj dana 13. i 14. 5. i 2. 6. 2025. godine, donijela je
+ODLUKU
