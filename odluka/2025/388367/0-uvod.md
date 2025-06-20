@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 21 i člana 43 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 38 stav 1 tačka 21, člana 39 Statuta Opštine Gusinje ("Službeni list CG - Opštinski propisi", br. 3/19 i 24/21) i člana 11 Odluke o obrazovanju radnih tijela Skupštine ("Službeni list CG - Opštinski propisi", br. 35/14), Skupština opštine Gusinje, na sjednici održanoj 20. 6. 2025. godine, donijela je
+ODLUKU
