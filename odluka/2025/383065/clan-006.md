@@ -1,0 +1,31 @@
+# Član 6
+Član 14 mijenja se i glasi:
+"Sekretarijat za investicije i održivi razvoj vrši poslove uprave koji se odnose na:
+- na vršenje administrativnih poslova i koordinaciji pripreme građevinskog zemljišta za komunalno opremanje u skladu sa zakonom (rješavanje imovinsko-pravnih odnosa, izradu tehničke i druge dokumentacije; preduzimanje mjera zaštite kulturnog dobra i zaštite spomenika prirode koji bi mogli biti ugroženi radovima na pripremi zemljišta i rušenje postojećih objekata i uređaja i uklanjanje materijala, premiještanje postojećih nadzemnih i podzemnih instalacija, kao i preduzimanje mjera za zaštitu postojeće infrastrukture koja bi mogla biti ugrožena radovima na pripremi zemljišta),
+- na vršenje administrativnih poslova za potrebe pripremnih radova komunalnog opremanja koji prethode građenju ili rekonstrukciji objekta, a koji se odnose na izradu tehničke dokumentacije (Idejno rješenje, Idejni projekat, Glavni projekat i projekat Izvedenog objekta),
+- vršenje administrativnih poslova za potrebe komunalnog opremanja građevinskog zemljišta koje obuhvata građenje objekata i uređaja komunalne infrastrukture u skladu sa zakonom;
+- vršenje administrativnih poslova za potrebe izvođenja hitnih radova u skladu sa propisima koji prate ovu oblast;
+- pribavljanje urbanističko-tehničkih uslova, građevinske dozvole i upotrebne dozvole za objekte čiji je investitor Prijestonica Cetinje;
+- pripremu dokumentacije neophodne za sprovođenje postupka javne nabavke za izradu i reviziju tehničke dokumentacije, izvođenje radova, vršenje stručnog nadzora i tehničkog pregleda,
+- praćenje realizacije ugovora o izvođenju radova (tehničke dokumentacije, pravne, finansijske garancije investicija),
+- priprema izvještaja o radu kao i informativnih i drugih stručnih materijala za Skupštinu, gradonačelnika, resorna ministarstva, organe državne uprave, medije i sl. i vršenje drugih poslova u skladu sa zakonom, Statutom i drugim propisima;
+- staranje o usklađenosti odluka i drugih opštih akata sa zakonima; praćenje i sprovođenje zakona i drugih propisa; davanje tumačenja opštinskih propisa iz nadležnosti Sekretarijata;
+- koordinacija i upravljanje aktivnostima na pripremi tehničke dokumentacije za razvojne projekte Prijestonice;
+- koordinacija i upravljanje aktivnostima na pripremi Strateškog plana, Programa razvoja Prijestonice;
+- praćenje i kontrola realizacije kapitalnih investicija; izrada periodičnih i konačnih izvještaja o realizaciji investicija uz praćenje i evidentiranje utroška finansijskih sredstava odobrenih Kapitalnim budžetom Prijestonice i podnošenje mjesečnih izvještaja o stanju raspoloživih sredstava; vođenje evidencija o planiranim investicijama;
+- priprema i vođenje baze podataka investiciono-razvojnih projekata,
+- učestovanje u izradi smjernica za ostvarivanje planova i programa razvoja Prijestonice,
+- vršenje poslova koji se odnose na pripremu, izradu i realizaciju razvojnih programa i projekata kojima se podstiče ekonomski razvoj, održivi razvoj, podstiču preduzetničke inicijative, javno-privatna partnerstva i iniciraju izmjene propisa u cilju stvaranja podsticajnog ambijenta za razvoj Prijestonice;
+- praćenje i predlaganje mjera za poboljšanje investicionog ambijenta kao i promociju investicionih potencijala;
+- promocija strateških ciljeva i razvojnih projekata u svim oblastima radi privlačenja direktnih stranih investicija,
+- istraživanje razvojnih potencijala Prijestonice, posredovanje u komunikaciji i podsticanje saradnje između domaćih i stranih privrednika i lokalne uprave,
+- pružanje podrške investitorima pri odabiru lokacije za investiranje kao i tokom procesa investiranja, uz mogućnost pružanja podrške (u zavisnosti od potrebe investitora) i tokom poslovanja;
+- predlaganje mjera za pojednostavljenje procesa izdavanja dokumentacije i uspostavljanja sistema za brzo i lako ostvarivanje njihovog izdavanja;
+- saradnja sa organima državne uprave, pravnim licima i drugim subjektima radi obezbjeđivanja uslova za razvojne projekte od interesa za Prijestonicu;
+- pripremanje zahtjeva za sprovođenje postupaka javnih nabavki iz djelokruga rada sekretarijata;
+- rješavanje po inicijativama građana iz djelokruga rada sekretarijata;
+- investiciono održavanje postojeće infrastrukture;
+- vođenje interne arhive i službenih evidencija u okviru Sekretarijata i informatička podrška za čuvanje tehničke dokumentacije;
+- saradnju sa nevladinim organizacijama u oblasti iz svoje nadležnosti;
+- slobodan pristup informacijama iz djelokruga organa;
+- druge poslove iz svog djelokruga, u skladu sa zakonom i drugim propisima."

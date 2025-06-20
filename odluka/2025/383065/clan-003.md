@@ -1,0 +1,40 @@
+# Član 3
+Član 10 mijenja se i glasi:
+"Sekretarijat za uređenje prostora i zaštitu životne sredine vrši poslove uprave koji se odnose na:
+- pripremu i sprovođenje propisa u oblastima za koje je organ obrazovan;
+- pripremu izvještaja o stanju uređenja prostora;
+- pripremu jednogodišnjeg programa uređenja prostora;
+- pripremu na izradi i donošenju lokalnog planskog dokumenta;
+- davanje mišljenja za planska dokumenta za čije donošenje je nadležan organ državne uprave, učešće u javnoj raspravi u vezi planskih dokumenata za čije je donošenje nadležan organ državne uprave;
+- učestvovanje u izradi plana komunalnog opremanja građevinskog zemljišta;
+- utvrđivanje naknade za građenje;
+- davanje saglasnosti na plan komasacije;
+- izdavanje građevinske dozvole za objekte iz svoje nadležnosti, u skladu sa zakonom;
+- imenovanje vršioca tehničkog pregleda i izdavanje upotrebne dozvole za objekte iz svoje nadležnosti, u skladu sa zakonom;
+- izradu i primjenu propisa za privremene objekte, pomoćne objekte i objekte od opšteg interesa;
+- poslove na izradi i donošenju Programa privremenih objekata;
+- do uspostavljanja Geoportala, kao povjerene poslove, rješavanje po zahtjevima za izdavanje urbanističko-tehničkih uslova za izradu tehničke dokumentacije za objekte za koje građevinsku dozvolu izdaje lokalna uprava;
+- do uspostavljanja Geoportala, izdavanja izvoda iz planskog dokumenta za prostor u granicama lokalnog planskog dokumenta;
+- rješavanje po zahtjevima za izdavanje urbanističko-tehničkih uslova za postavljanje i izgradnju pomoćnih objekata;
+- vođenje postupka iz oblasti legalizacije bespravno izgrađenih objekata u skladu sa zakonom;
+- utvrđivanje naknade za urbanu sanaciju za bespravne objekte;
+- sistematizovanje i utvrđivanje liste bespravnih objekata za koje nije podnijet zahtjev ili nijesu ispunili uslovi za legalizaciju;
+- vođenje upravnog postupka za pretvaranje posebnih i zajedničkih djelova stambene zgrade u poslovni prostor odnosno poslovne prostorije u posebni ili zajednički dio stambene zgrade;
+- pripremu i praćenje lokalnog plana zaštite životne sredine i dostavljanje podataka o stanju životne sredine;
+- pripremu i praćenje lokalnog plana biodiverziteta sa akcionim planom, dostavljanje izvještaja o stanju prirode;
+- sprovođenje postupka strateške procjene uticaja na životnu sredinu za planove i programe koje usvaja organ na lokalnom nivou i davanje saglasnosti na Izvještaj o strateškoj procjeni;
+- davanje mišljenja na stratešku procjenu uticaja na životnu sredinu i Izvještaj o strateškoj procjeni za planska dokumenta na državnom nivou;
+- pripremu i praćenje lokalnog akcionog plana zaštite od radova u skladu sa zakonom o zaštiti od jonizujućeg zračenja i radijacionoj i nuklearnoj sigurnosti i bezbjednosti;
+- sprovođenje upravnog postupka procjene uticaja na životnu sredinu za projekte na lokalnom nivou;
+- davanje mišljenja o procjeni uticaja na životnu sredinu za projekte koje sprovode organi državne uprave, a koji se realizuju na teritoriji Prijestonice;
+- učestvovanje u izradi akustičkog zoniranja radi određivanja akustičkih zona u cilju zaštite ljudi od buke, dostavljanje podataka o određenim akustičkim zonama, utvrđivanje ispunjenosti uslova i mjera zaštite od buke u tehničkoj dokumentaciji za objekte za koje se izrađuje procjena uticaja na životnu sredinu;
+- sprovođenje mjera zaštite i poboljšanja kvaliteta vazduha;
+- pokretanje i vođenje postupka izrade Studija zaštite-revizije za proglašenje zaštićenih prirodnih dobara na teritoriji Prijestonice, obavještavanje zainteresovane javnosti o početku pripreme akata o proglašenju zaštićenog prirodnog dobra;
+- vršenje poslova u vezi slobodnog pristupa informacijama iz djelokruga sekretarijata;
+- pripremu izvještaja i informacija iz svoje nadležnosti;
+- pripremu izvještaja o radu, informativnih i drugih stručnih materijala iz djelokruga organa za skupštinu, gradonačelnika, organe državne uprave, medije i sl.;
+- pripremu godišnjeg i drugih izvještaja za glavnog administratora o postupanju u upravnim stvarima iz svoje nadležnosti; postupku obezbjeđivanja učešća građana u vršenju javnih poslova, ostvarivanju principa transparentnosti objavljivanjem propisanih akata, saradnji sa nevladinim organizacijama i drugih izvještaja;
+- pripremu akata iz nadležnosti organa za objavljivanje na sajtu;
+- rješavanje po inicijativama građana iz djelokruga organa;
+- vođenje propisanih evidencija iz ovih oblasti kao i drugih evidencija u skladu sa zakonom;
+- vrši i druge poslove iz svog djelokruga u skladu sa zakonom i drugim propisima."
