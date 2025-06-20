@@ -1,0 +1,3 @@
+Na osnovu člana 155 stav 2 Zakona o izgradnji objekata ("Službeni list CG", br. 19/25), člana 3 stav 1 tačka 17 i člana 5 stav 1 Odluke o izgradnji lokalnih objekata od opšteg interesa na teritoriji Opštine Kolašin ("Službeni list CG - Opštinski propisi", br. 15/15, 24/17 i 5/21) i člana 83 stav 1 tačka 14 Statuta Opštine Kolašin ("Službeni list CG - Opštinski propisi", broj 24/19), predsjednik Opštine Kolašin, donosi
+ODLUKU
+o određivanju lokacije za izgradnju lokalnog objekta od opšteg interesa: skijaške staze sa pratećom infrastrukturom za pripremu i uređenje istih - Sistem za vještačko osnježavanje na

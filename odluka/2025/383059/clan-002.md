@@ -1,0 +1,2 @@
+# Član 2
+Sastavni dio ove odluke čini Programski zadatak sa elementima urbanističko-tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa: skijaške staze sa pratećom infrastrukturom za pripremu i uređenje istih - Sistem za vještačko osnježavanje na ski centru "Kolašin 1600" u Kolašinu, sa osnovnim podacima o objektu i grafičkim prikazom lokacije planiranog objekta.
