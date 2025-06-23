@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 tačka 21 Statuta Opštine Herceg Novi (,,Službeni list CG - Opštinski propisi’’, br. 1/19, 37/19, 6/20 i 18/22) i člana 14 Odluke o dodjeli Nagrada Opštine Herceg Novi (,,Službeni list RCG - Opštinski propisi’’, br. 9/02, 32/04, Službeni list CG - Opštinski propisi’’, br. 44/17) Skupština opštine Herceg Novi, na sjednici održanoj dana 23. 6. 2025. godine, donijela je
+RJEŠENJE
