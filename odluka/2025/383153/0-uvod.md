@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2 i 22 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 46 stav 1 tačka 22 Statuta Opštine Bijelo Polje ("Službeni list CG - Opštinski propisi", br. 19/18), člana 16 stav 1 alineja 7 Odluke o organizovanju JU Centar za djecu i mlade sa smetnjama u razvoju "Tisa" ("Službeni list CG - Opštinski propisi", br. 17/15 i 19/18) a u vezi člana 29 stav 1 alineja 3 Statuta JU Centar za djecu i mlade sa smetnjama u razvoju "Tisa", Skupština opštine Bijelo Polje na sjednici održanoj 20. 6. 2025. godine donijela je
+ODLUKU
+o razrješenju dva člana Upravnog odbora JU Centar za djecu i mlade sa smetnjama u razvoju
