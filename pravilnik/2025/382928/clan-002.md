@@ -1,0 +1,9 @@
+# Član 2
+Radi osiguranja pravovremene uplate redovnog doprinosa Garantnom fondu, te omogućavanja urednog izvršavanja obaveza propisanih članom 57 Zakona o obaveznom osiguranju u saobraćaju, obveznici uplate redovnog doprinosa Garantnom fondu dužni su Udruženju da obezbijede depozite i garancije u ukupnoj visini tromjesečnog redovnog doprinosa za Garantni fond pojedinačno za svakog obveznika, na osnovu podataka o visini utvrđenih obaveza za redovni doprinos Garantnom fondu za tekuću godinu.
+Iznos depozita iznosi 2/3 ukupne obaveze redovnog doprinosa Garantnom fonda iz stava 1 ovog člana.
+Iznos bankarske garancije mora biti jednak iznosu 1/3 ukupne obaveze redovnog doprinosa Garantnom fondu iz stava 1 ovog člana.
+Obveznici uplate redovnog doprinosa Garantnom fondu dužni su svake godine, najkasnije do 01. februara, obnoviti visinu depozita i garancija, shodno utvrđenoj obavezi uplate redovnog doprinosa, srazmjerno premiji ostvarenoj u prethodnoj godini.
+Udruženje će garancije i depozite iz stava 1 ovog člana koristiti u slučaju nepodmirenja ili zakašnjenja u podmirivanju obaveze uplate redovnog doprinosa za Garantni fond od strane pojedinog obveznika.
+O aktiviranju garancije ili depozita Udruženje je dužno obavijestiti Agenciju za nadzor osiguranja.
+U slučaju zakašnjenja uplate dužnog redovnog doprinosa Garantnom fondu, društvo za osiguranje je dužno platiti zakonsku zateznu kamatu i to od dana dospijeća.
+Ako društvo za osiguranje ne izmiri obaveze na način utvrđen Pravilnikom o kriterijumima, Skupština Udruženja će preispitati opravdanost daljeg članstva tog društva u Udruženju i predložiti Agenciji za nadzor da protiv imenovanog društva pokrene prekršajni postupak, kao i druge zakonske mjere uključujući i odobrenje za obavljanje poslova obaveznih osiguranja u saobraćaju.
