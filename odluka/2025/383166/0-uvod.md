@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 46 stav 1 tačka 22 Statuta Opštine Bijelo Polje ("Službeni list CG - Opštinski propisi", br. 19/18), člana 13 stav 1 alineja 4 Odluke o osnivanju DOO "Agencija za prostorno planiranje - Bijelo Polje" ("Službeni list CG - Opštinski propisi", br. 26/25), Skupština opštine Bijelo Polje na sjednici održanoj 20. 6. 2025. godine, donijela je
+ODLUKU
