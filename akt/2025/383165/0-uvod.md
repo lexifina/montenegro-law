@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 i 22 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 46 stav 1 tačka 22 Statuta Opštine Bijelo Polje ("Službeni list CG - Opštinski propisi", br. 19/18) i člana 15 stav 1 alineja 7 Odluke o organizovanju Javne ustanove Centar za podršku djeci i porodici ("Službeni list CG - Opštinski propisi", br. 48/18) Skupština opštine Bijelo Polje na sjednici održanoj 20. 6. 2025. godine, donijela je
+ZAKLJUČAK
