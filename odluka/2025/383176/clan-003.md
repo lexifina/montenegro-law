@@ -1,0 +1,2 @@
+# Član 3
+Uslovi kredita (rok vraćanja, kamatna stopa, sredstva za obezbjeđivanje kredita i dr.) biće utvrđeni ugovorom o prenosu kreditnih sredstava koja su obezbijeđena iz aranžmana zaključenog između Vlade Crne Gore i Evropske investicione banke za potrebe finansiranja projekta, koji će biti zaključen između Opštine Bijelo Polje, Ministarstva finansija Crne Gore, Ministarstva ekologije, održivog razvoja i razvoja sjevera i DOO "Project-Consulting" - Podgorica (PROCON).
