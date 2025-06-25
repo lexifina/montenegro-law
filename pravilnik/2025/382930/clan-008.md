@@ -1,0 +1,4 @@
+# Član 8
+## Ograničenje pristupa i interkonekcije
+Pristup ili interkonekcija se mogu ograničiti samo u slučaju da nijesu izvodljivi iz tehničkih razloga. U tom slučaju je operator, kome je upućen zahtjev, dužan da detaljno obrazloži razloge svog odbijanja zahtjeva i dostavi ih podnosiocu zahtjeva, u roku od 15 dana od dana podnošenja zahtjeva.
+Ukoliko se na zahtjev za pristup i/ili interkonekciju ne odgovori u skladu sa članom 7 ovog pravilnika, ili ukoliko se odbije zahtjev za pristup ili interkonekciju, zainteresovani operator se može zahtjevom obratiti Agenciji. Agencija će donijeti odluku o opravdanosti odbijanja zahtjeva za pristupom i/ili interkonekcijom u roku od 30 dana od dana podnošenja zahtjeva. U slučaju da je razlog odbijanja zahtjeva neopravdan, Agencija će naložiti uspostavljanje pristupa i/ili interkonekcije, u skladu sa rokovima iz ovog pravilnika i Zakona.
