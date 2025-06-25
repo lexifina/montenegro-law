@@ -1,0 +1,4 @@
+# Član 1
+U Zakonu o Fondu rada ("Službeni list CG", broj 80/20) član 1 mijenja se i glasi:
+"Ovim zakonom uređuje se postupak za ostvarivanje prava zaposlenog na isplatu neisplaćenih potraživanja po osnovu prestanka radnog odnosa kod poslodavca nad kojim je pokrenut stečajni postupak, prava na uplatu neuplaćenih doprinosa za penzijsko i invalidsko osiguranje za period radnog staža koji nedostaje zaposlenima kao uslov za ostvarivanje prava na penziju u slučajevima kada je njihov poslodavac prestao da postoji ili je insolventan, način i djelokrug rada Fonda rada (u daljem tekstu: Fond), finansiranje Fonda, kao i druga pitanja od značaja za rad Fonda.
+Pod insolventnošću, u smislu stava 1 ovog člana, podrazumijeva se poslodavac koji je u blokadi od strane Centralne banke Crne Gore, najmanje 90 dana neprekidno, do dana podnošenja zahtjeva.".
