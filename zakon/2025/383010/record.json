@@ -1,0 +1,28 @@
+{
+  "id": 383010,
+  "path": "zakon/2025/383010",
+  "source": "https://www.sluzbenilist.me/propisi/383010",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/383010/download",
+  "title": "Zakon o potvrđivanju akata Svjetskog poštanskog saveza",
+  "issue": "Službeni list Crne Gore - Međunarodni ugovori, broj 7/2025",
+  "published": "2025-06-19",
+  "in_force": "2025-06-27",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore – Međunarodni ugovori”",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "11dfb057399bf0bcc6ea5281b95f006faa1b7f4237a9cb52ba9e5f37eeb211c0",
+  "articles_in_source": 79,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 293818,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "c1fd5333262c77d5eb62e75ebce3c2d27ddec377687a3b7887b9e9db39e30e5d",
+  "enacted": "2025-06-12",
+  "enacted_basis": "Podgorica, 12. jun 2025"
+}
