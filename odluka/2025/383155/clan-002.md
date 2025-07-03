@@ -1,0 +1,3 @@
+# Član 2
+Nagrada "Tomo Buzov" ustanovljena je u čast Toma Buzova, koji je stradao u otmici u Štrpcima 27. februara 1993. godine prilikom pokušaja da zaštiti nedužne ljude - da se suprotstavi nepravdi i da po cijenu vlastitog života sačuva osnovne vrijednosti ljudske solidarnosti. Njegovo stradanje nas obavezuje da pamtimo, učimo i djelujemo.
+Ustanovljenjem nagrade koja nosi ime Toma Buzova, lokalna zajednica bi na dostojanstven način iskazala počast čovjeku koji je pokazao da i u vremenu razaranja postoje pojedinci koji svijetle kao moralni stubovi društva. Time bi se njegovo ime institucionalizovalo kao trajni podsjetnik da ljudska prava ne smiju biti apstraktan ideal, već svakodnevna praksa koju baštinimo, podržavamo i nagrađujemo.
