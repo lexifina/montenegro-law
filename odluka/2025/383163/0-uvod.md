@@ -1,0 +1,2 @@
+Na osnovu člana 52 Zakona o planiranju prostora i izgradnji objekta ("Službeni list CG", br. 64/17, 44/18, 63/18, 11/19 i - isp. 82/20), člana 34 stav 1 i 3, člana 40 stav 2 tačka 3 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), čl. 28 stav 1 i 2 Zakona o svojinsko-pravnim odnosima ("Službeni list CG", br. 19/09), člana 33 stava 1 tačka 1 i člana 58 stav 1 tačka 6 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/2018, 34/2019 i 38/20) predsjednik Opštine Ulcinj 16. 6. 2025. godine donosi
+ODLUKU
