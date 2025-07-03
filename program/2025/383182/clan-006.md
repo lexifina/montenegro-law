@@ -1,0 +1,2 @@
+# Član 6
+Za izvršenje programa odgovoran je Sekretarijat za poljoprivredu i ruralni razvoj razvoj i Sekretarijat za finansije. Obaveze prema korisnicima programa izvršavaće se po dinamici utvrđenoj budžetskim planom potrošnje za 2025. godinu, koji odobrava Sekretarijat za finansije Opštine Tuzi, a najkasnije do kraja kalendarske godine po rješenjma koja su donešena za prvo polugodište, odnosno do kraja februara naredne godine za rješenja koja su donešena do kraja tekuće godine.
