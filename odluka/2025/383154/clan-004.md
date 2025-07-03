@@ -1,0 +1,2 @@
+# Član 4
+Odbornik u toku čina zaključenja braka, odnosno zaključenja životnog partnerstva lica istog pola, preduzima radnje predviđene članom 36 Porodičnog zakona, i člana 16 Zakona o životnom partnerstvu lica istog pola. Za prisustvo zaključenju braka, odnosno zaključenju životnog partnerstva lica istog pola odbornik ima pravo na naknadu u skladu sa Odlukom o određivanju naknada za rad odbornika i drugih lica koje bira ili imenuje Skupština opštine Herceg Novi.

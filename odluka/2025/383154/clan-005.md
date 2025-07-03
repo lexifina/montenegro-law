@@ -1,0 +1,2 @@
+# Član 5
+Nadležni organ lokalne uprave će o svakom zakazanom vjenčanju, vremenu i mjestu vjenčanja, blagovremeno obavijestiti odbornika koji prisustvuje zaključenju braka. Na isti način će postupiti i u slučaju zaključenja životnog partnersta lica istog pola. Ukoliko je odbornik iz prethodnog stava iz bilo kojeg razloga spriječen da prisustvuje zaključenju braka, odnosno životnog partnerstva lica istog pola, nadležni organ će o tome obavijestiti narednog odbornika po redosljedu.

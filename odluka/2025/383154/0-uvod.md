@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 tačka 21 Statuta Opštine Herceg Novi ("Službeni list CG - Opštinski propisi", broj 1/19, 37/19, 6/20 i 18/22), a u vezi sa članom 32 Porodičnog zakona ("Službeni list RCG", broj 1/07, "Službeni list CG", broj 53/16 i 76/20), i sa članom 16 Zakona o životnom partnerstvu lica istog pola ("Službeni list CG", broj 67/20), Skupština opštine Herceg Novi, na sjednici održanoj dana 23. 6. 2025. godine, donijela je
+ODLUKU
