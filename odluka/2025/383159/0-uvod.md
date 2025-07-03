@@ -1,0 +1,3 @@
+Na osnovu člana 52 Zakona o planiranju prostora i izgradnji objekta ("Službeni list CG", br. 64/17, 44/18, 63/18 11/2019 isp. 82/20, 86/22 i 4/23), člana 34 stav 1 i 3, člana 40 stav 2 tačka 3 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11), člana 28 stav 1 i 2 Zakona o svojinsko- pravnim odnosima ("Službeni list CG", br. 19/09), člana 33 stava 1 tačka 1 i člana 58 stav 1 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/2018, 34/2019, 38/20, 50/22 i 84/22) predsjednik Opštine Ulcinj, 28. 1. 2025. godine, donosi
+ODLUKU
+o otkupu zemljišta radi dokompletiranja urbanističke parcele br. 182 sa ID DUP-a "Ulcinj
