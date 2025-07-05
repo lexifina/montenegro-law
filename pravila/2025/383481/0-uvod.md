@@ -1,0 +1,2 @@
+Na osnovu člana 60 Zakona o korišćenju energije iz obnovljivih izvora ("Službeni list Crne Gore", br. 082/24) i člana 23 stav 2 alineja 11 Statuta društva sa ograničenom odgovornošću "Crnogorski operator tržišta električne energije" - Podgorica ("Službeni list Crne Gore", br. 13/11, 60/11, 39/15 i 40/19), Odbor direktora Društva na sjednici održanoj 10.06.2025. godine, donio je
+P R A V IL A O GARANCIJAMA PORIJEKLA
