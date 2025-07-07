@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 1 tačka 7 Zakona o lokalnom samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22 i 84/22), člana 81 stav 1 tačka 7 Statuta Opštine Herceg Novi ("Službeni list Crne Gore - Opštinski propisi", broj 1/19, 37/19, 6/20 i 18/22), predsjednik Opštine Herceg Novi, po pribavljenom mišljenju glavnog administratora br. 01-2-082-446/25 od 25. 6. 2025. godine, donio je
+ODLUKU
