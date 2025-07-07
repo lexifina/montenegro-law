@@ -1,0 +1,3 @@
+Na osnovu člana 20 Zakona o poljoprivredi i ruralnom razvoju ("Službeni list CG", br. 56/09, 18/11, 40/11, 34/14, 1/15, 30/17, 51/17 i 59/1) i člana 42 tačka 1 stav 2, vezi sa članom 27 stav 1 tačka 22 i člana 59 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20) i člana 58 stav 1 tačka 2 Statuta Opštine Ulcinj ("Službeni list CG - Opštinski propisi", br. 48/19,05/24), saglasnosti Ministarstva poljoprivrede, šumarstva i vodoprivrede br. 04-307/25- 2415/2 od datuma 22. 4. 2025. godine, predsjednik Opštine Ulcinj donosi
+ODLUKU
+o podsticajnim mjerama za poljoprivredni i ruralni razvoj
