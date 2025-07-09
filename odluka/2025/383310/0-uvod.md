@@ -1,0 +1,2 @@
+Na osnovu člana 102 stav 2 Statuta Opštine Bar ("Službeni list Crne Gore - Opštinski propisi", broj 37/18) i člana 6 stav 1 Zakona o socijalnom stanovanju ("Službeni list Crne Gore", broj 35/13 i 84/24), a u vezi sa Odlukom o donošenju Lokalnog plana socijalne i dječje zaštite i unapređenja socijalne inkluzije u Opštini Bar 2022-2025. ("Službeni list Crne Gore - Opštinski propisi", broj 32/22), predsjednik Opštine Bar donosi
+ODLUKU
