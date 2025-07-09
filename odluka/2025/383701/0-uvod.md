@@ -1,0 +1,2 @@
+Na osnovu člana 38 tačka 1 stav 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 11 i člana 12 stav 1 Statuta Opštine Tuzi ("Službeni list CG - Opštinski propisi", br. 24/19, 5/20, 51/22 i 55/22), člana 5 i člana 7 stav 3 Odluke o ustanovljavanju i dodjeljivanju javnih priznanja i nagrada i zvanju počasnog građanina ("Službeni list Crne Gore - Opštinski propisi", br. 32/19 ), Skupština opštine Tuzi, na sjednici odžanoj 9. 7. 2025. Godine, donjela je
+ODLUKU
