@@ -1,0 +1,2 @@
+# Član 4
+Za vrijeme korišćenja nepokretnosti iz člana 1 ove odluke, budući korisnik je obavezan postupati sa dužnom pažnjom, čuvati ih od oštećenja i uništenja, držati ih u urednom i ispravnom stanju, snositi sve troškove koji nastaju redovnim korišćenjem predmetnih nepokretnosti, kao i otkloniti svu eventualnu štetu koja bi nastala korišćenjem nepokretnosti, kao i onu koja eventualno nastane njegovom nepažnjom.
