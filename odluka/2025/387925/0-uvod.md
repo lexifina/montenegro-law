@@ -1,0 +1,2 @@
+Na osnovu članova 29 stav 2 i 34 stav 1 Zakona o državnoj imovini ("Službeni list CG", broj 21/09 i 40/11), člana 27 i člana 38 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19, 38/20, 50/22 i 84/22), kao i članova 14, 15, 18, 33, 37 i 38 Statuta Opštine Plav ("Službeni list CG - Opštinski propisi", broj 44/18), Skupština opštine Plav, na sjednici održanoj dana 10. 7. 2025. godine, donijela je
+ODLUKU
