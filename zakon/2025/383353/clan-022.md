@@ -1,0 +1,16 @@
+# Član 22
+U članu 55 stav 1 tačka 1 mijenja se i glasi:
+"1) hartije od vrijednosti zamjenjive za hartije od vrijednosti koje su već uključene u trgovanje na istom regulisanom tržištu, ako u periodu od 12 mjeseci predstavljaju manje od 20% hartija od vrijednosti koje su već uključene u trgovanje na tom regulisanom tržištu;".
+Poslije tačke 4 dodaje se nova tačka koja glasi:
+"4a) hartije od vrijednosti nastale konverzijom ili zamjenom drugih hartija od vrijednosti sopstvenih sredstava ili kvalifikovanih obaveza od strane nadležnog organa za sanaciju ili drugog organa za restrukturiranje nadležnog u skladu sa zakonom kojim se uređuje restrukturiranje kreditnih institucija, odnosno zakonom kojim se uređuje restrukturiranje investicionih društava;".
+U tački 5 poslije riječi "ponuđene" dodaju se zarez i riječ "dodijeljene", a poslije riječi "dodijeliti" dodaju se riječi: "bez naknade,".
+U tački 6 poslije riječi "ponuđene" dodaje se zarez i riječ "dodijeljene", a poslije riječi "dodijeliti" dodaju se riječi: "sadašnjim ili bivšim".
+Na kraju tačke 7 poslije riječi "tržištu" tačka-zarez se zamjenjuje zarezom i dodaju riječi: "i ako u periodu od 12 mjeseci predstavljaju manje od 20% akcija iste klase koje su već uključene u trgovanje na istom regulisanom tržištu;".
+U tački 8 riječ "akcije" zamjenjuje se riječima: "hartije od vrijednosti", a u podtački f riječi: "st. 2 i 3 ovog zakona" zamjenjuju se riječima: "st. 2 i 4 ovog zakona".
+Poslije stava 1 dodaju se tri nova stava koja glase:
+"Odredba stava 1 tačka 7 ovog člana u dijelu koji se odnosi na akcije nastale tokom perioda od 12 mjeseci predstavljaju manje od 20% akcija iste klase koje su već uključene u trgovanje na istom regulisanom tržištu, ne primjenjuje se u sljedećim slučajevima:
+1) kada je prospekt za javnu ponudu i/ili uključenje u trgovanje na regulisanom tržištu hartija od vrijednosti koje daju pravo na sticanje akcija, sačinjen u skladu sa zakonom;
+2) ako akcije ispunjavanju uslove za stavke redovnog osnovnog kapitala u skladu sa propisom kojim se uređuju kreditne institucije i ako su nastale konverzijom instrumenata dodatnog osnovnog kapitala koje je ta institucija emitovala u slučaju kada stopa redovnog osnovnog kapitala padne ispod 5,125% ili na nivo viši od 5,125%, koji kreditna institucija bliže odredi u skladu sa odredbama zakona kojim se uređuju kreditne institucije; i
+3) ako akcije u skladu sa propisom kojim se uređuju prudencijalni zahtjevi za društva za osiguranje i reosiguranje mogu da se koriste za ispunjavanje zahtjeva u pogledu adekvatnosti kapitala, odnosno solventnosti društva za osiguranje i reosiguranje ili grupe društava za osiguranje i reosiguranje i ako su nastale konverzijom drugih hartija od vrijednosti sa ciljem ispunjenja tih zahtjeva.
+Izuzeci od obaveze objavljivanja prospekta utvrđeni u članu 52 stav 1 ovog zakona i stavu 1 ovog člana mogu se kombinovati.
+Izuzeci iz stava 1 tač. 1 i 8 ovog člana ne mogu se kombinovati ako bi takva kombinacija mogla dovesti do trenutnog ili odloženog uključenja u trgovanje na regulisanom tržištu tokom perioda od 12 mjeseci više od 20% akcija iste klase koje su već uključene u trgovanje na regulisanom tržištu, bez objavljivanja prospekta."

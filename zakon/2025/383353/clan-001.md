@@ -1,0 +1,4 @@
+# Član 1
+U Zakonu o tržištu kapitala ("Službeni list CG", broj 1/18) u članu 2 stav 1 mijenja se i glasi:
+"Regulisano tržište kapitala je multilateralni sistem kojim upravlja organizator tržišta, koji obezbjeđuje uslove za spajanje višestrukih interesa trećih lica za kupovinu i prodaju finansijskih instrumenata u okviru sistema i u skladu sa njegovim obavezujućim pravilima, na način koji dovodi do zaključenja ugovora u vezi sa finansijskim instrumentima koji su uključeni u trgovanje prema pravilima tog sistema, a koji posjeduje dozvolu za rad i koje posluje kontinuirano u skladu sa ovim zakonom.".
+U stavu 2 riječi: "u skladu sa pravilima tog sistema." zamjenjuju se riječima: "u okviru sistema i u skladu sa obavezujućim pravilima, na način koji dovodi do zaključenja ugovora u skladu sa ovim zakonom."
