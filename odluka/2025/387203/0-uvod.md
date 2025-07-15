@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11 i 23/25), člana 54 stav 1 tačka 2, a u vezi sa tačkom 12 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21 i 49/22), uz prethodnu saglasnost Vlade Crne Gore za razmjenu nepokretnosti, broj 11-011/25-933/3 od 3. aprila 2025. godine ("Službeni list CG", br. 39/25, 40/25 i 51/25), Skupština Glavnog grada - Podgorice, na sjednici održanoj 3. jula 2025. godine, donijela je
+ODLUKU
