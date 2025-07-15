@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19, 38/20 i 50/22), člana 17, 19 i 46 stav 1 tačka 2 Statuta Opštine Rožaje ("Službeni list CG - Opštinski propisi", broj 38/18 i 16/21) i člana 25 Odluke o javnim priznanjima i nagradama Opštine Rožaje ("Službeni list CG - Opštinski propisi", broj 34/19), Skupština opštine Rožaje, na predlog Odbora za izbor i imenovanja, na sjednici održanoj dana 24. 6. 2025. godine, donijela je
+ODLUKU
