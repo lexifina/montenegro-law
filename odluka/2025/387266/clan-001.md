@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom uređuju se uslovi i, način i postupak za ostvarivanje prava na besplatan prevoz u gradskom i prigradskom linijskom saobraćaju za penzionere, lica preko 67 godina starosti, lica sa invaliditetom i lica u stanju socijalne potrebe utvrđene od strane organa državne uprave nadležnog za poslove socijalnog staranja, sa područja Glavnog grada Podgorice (u daljem tekstu: linijski prevoz putnika), i druga pitanja od značaja za ostvarivanje prava propisanih ovom odlukom.

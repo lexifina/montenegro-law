@@ -1,0 +1,3 @@
+Na osnovu člana 35 stav 1 Zakona o prevozu u drumskom saobraćaju ("Službeni list CG", br. 71/17 i 67/19), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 54 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21 i 49/22), a u vezi sa članom 54a stav 6 Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16, 74/16, 02/18, 66/19 i 140/22), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 3. jula 2025. godine, donijela je
+O D L U K U
+o besplatnom prevozu u prigradskom i gradskom linijskom saobraćaju ranjivih kategorija stanovništva na teritoriji Glavnog grada Podgorice
