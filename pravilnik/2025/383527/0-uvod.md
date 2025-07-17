@@ -1,0 +1,4 @@
+Na osnovu člana 219 stav 4 i člana 228 stav 6 Zakona o bezbjednosti saobraćaja na putevima ("Službeni list CG", br. 33/12, 58/14, 14/17 i 66/19), Ministarstvo prosvjete, nauke i inovacija donijelo je
+P R A V IL N IK O IZMJENAMA I DOPUNAMA PRAVILNIKA O BLIŽIM USLOVIMA KOJE TREBA DA ISPUNJAVA AUTO-ŠKOLA U POGLEDU PROSTORA, NASTAVNIH SREDSTAVA,
+VOZILA I KADRA I MINIMALNIM USLOVIMA KOJE TREBA DA ISPUNJAVA VOZILO
+ZA OBUKU KANDIDATA ZA VOZAČA*
