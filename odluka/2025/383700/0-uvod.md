@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2, a u vezi sa članom 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 53 stav 1 tačka 2 a u vezi sa članom 24 stav 1 tačka 22 Statuta Opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 24/19, 5/20, 51/22 i 55/22) kao i člana 3 stav 2, 3, i 4 Odluke o podsticajima i investiranju u razvoj poljoprivrede Opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 20/23), na sjednici Skupštine opštine Tuzi, održanoj 9. 7. 2025. godine, donijela je
+ODLUKU
