@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se učestalost kontrole i normativi mikrobiološke čistoće površine objekata, opreme, uređaja, pribora, prevoznih sredstava, kao i kontrola mikrobiološke čistoće ruku zaposlenih u objektima pod sanitarnim nadzorom i objektima u kojima se obavlja djelatnost rukovanja hranom u svim fazama proizvodnje, prerade i distribucije hrane, kao i u objektima u kojima se obavljalju druge djelatnosti ako postoje epidemiološke indikacije.
