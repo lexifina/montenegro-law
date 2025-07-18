@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 1 tačka 3 Zakona o energetici ("Službeni list Crne Gore", br. 28/25) i člana 17 stav 1 tačka 6 Statuta Regulatorne agencije za energetiku ("Službeni list Crne Gore", br. 56/25), Odbor Agencije, na sjednici održanoj 4. jula 2025. godine, donio je
+METODOLOGIJU ZA UTVRĐIVANJE CIJENA ZA KORIŠĆENJE PRENOSNOG ILI DISTRIBUTIVNOG SISTEMA KOJE PLAĆAJU KORISNICI DIREKTNOG VODA KADA JE VOD PRIKLJUČEN NA PRENOSNI ILI DISTRIBUTIVNI SISTEM
