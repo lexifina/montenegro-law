@@ -1,0 +1,3 @@
+Na osnovu člana 264 Zakona o privrednim društvima ("Službeni list CG", br. 65/20,146/21 i 4/24), člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list RCG", br. 2/18, 34/19, 38/20, 50/22, 84/22 i 85/22), člana 34 Zakona o uređenju prostora ("Službeni list CG", br. 19/25, 28/25 i 49/25) i člana 40 stav 1, tačka 14 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", br. 2/19) Skupština opštine Budva, na sjednici održanoj 11. jula 2025. godine, donijela je
+ODLUKU
+o osnivanju Društva sa ograničenom odgovornošću "Agencija za planiranje, projektovanje i razvoj Opštine Budva"

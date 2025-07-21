@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom osniva se Društvo sa ograničenom odgovornošću "Agencija za planiranje, projektovanje i razvoj opštine Budva" (u daljem tekstu: Agencija) shodno članu 34 Zakona o uređenju prostora ("Službeni list CG", br. 19/25, 28/25 i 49/25) radi obavljanja stručnih poslova iz oblasti planiranja i projektovanja za potrebe Opštine Budva i trećih lica u skladu sa ovom odlukom i Statutom Društva.
