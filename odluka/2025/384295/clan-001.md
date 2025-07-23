@@ -1,0 +1,3 @@
+# Član 1
+## o bratimljenju Opštine Petnjica sa Lingčeng okrugom, Dezhou grad, Šandong provincija Narodne Republike Kine
+Izražavajući obostranu želju Opštine Petnjica (Crna Gora) i Lingčeng okruga, Dezhou grada, Šandong provincija (Narodna Republika Kina) za razvijanje svestrane saradnje i prijeteljskih veza, Opština Petnjica donošenjem ove Odluke bratimi se sa Lingčeng okrugom, Dezhou gradom, Šandong provincija Narodne Republike Kine Saradnja će se realizovati u oblastima: ekonomije, privrede, nauke, kulture, tehnologije, obrazovanja i drugim djelatnostima koje budu od interesa za gradove koji se bratime.
