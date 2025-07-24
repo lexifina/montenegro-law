@@ -1,0 +1,4 @@
+# Član 2
+Član 8 mijenja se i glasi:
+"Predsjedniku Koordinacionog tijela pripada mjesečna naknada za rad u visini do 50% minimalne zarade u Crnoj Gori u prethodnoj godini, a zamjeniku predsjednika, članovima i sekretaru pripada mjesečna naknada za rad u visini do 40% minimalne zarade u Crnoj Gori u prethodnoj godini.
+Naknada iz stava 1 ovog člana za članove i sekretara Koordinacionog tijela iz člana 3 stav 1 tačka 1, tač. 3 do 10 i tačka 11 ove odluke isplaćuje se iz budžetskih sredstava organa državne uprave na čiji predlog su određeni, za člana Koordinacionog tijela iz člana 3 stav 1 tačka 2 ove odluke isplaćuje se iz budžetskih sredstava Zaštitnika ljudskih prava i sloboda Crne Gore, a za člana Koordinacionog tijela iz člana 3 stav 1 tačka 10a ove odluke isplaćuje se iz budžetskih sredstava Zavoda za zapošljavanje Crne Gore."
