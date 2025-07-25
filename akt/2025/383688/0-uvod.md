@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 15 stav 1 alineja 3 Odluke o osnivanju Javne ustanove Kulturno-informativni Centar Malesija ("Službeni list RCG - Opštinski propisi", broj 24/04, od 28. 7. 2004, "Službeni list Crne Gore - Opštinski propisi", 28/11 od 13. 9. 2011 i 5/22 od 3. 2. 2022) nakon razmatranja Izvještaja o radu i Finansijskog izvještaja JU KIC "Malesija" za 2024. godinu, Skupština opštine Tuzi, na sjednici održanoj 9. 7. 2025. godine, donijela je
+ZAKLJUČAK
