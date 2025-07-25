@@ -1,0 +1,2 @@
+# Član 8
+Zadužuju se predsjednici Odbora direktora društava PARKING SERVIS i AUTOBUSKA STANICA da, pred notarom u Crnoj Gori, zaključe i potpišu Ugovor o spajanju uz pripajanje u formi notarskog zapisa, shodno članu 242 stav 16 Zakona o privrednim društvima, sa svim promjenama na imovini i obavezama nastalim od dana izrade nacrta ugovora o spajanju do dana donošenja ove odluke i sa svim eventualnim tehničkim korekcijama istog.
