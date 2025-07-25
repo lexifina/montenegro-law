@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 24 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 26 stav 4 Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16, 74/16, 2/18,66/19 i 140/22) i člana 5 stav 1 tačka 3 Odluke o osnivanju Društva sa ograničenom odgovornošću "Pijace / Tregu" Tuzi ("Službeni list CG - Opštinski propisi", broj 40/21), nakon razmatranja Izvještaja o realizaciji Programa obavljanja komunalnih djelatnosti Društva sa ograničenom odgovornošću "Pijace / Tregu" Tuzi za 2024. godinu, Skupština opštine Tuzi, na sjednici održanoj 9. 7. 2025. godine, donijela je
+ZAKLJUČAK
+o usvajanju Izvještaja o realizaciji Programa obavljanja komunalnih djelatnosti Društva sa
