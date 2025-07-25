@@ -1,0 +1,2 @@
+Na osnovu člana 21, 43 i 44 Zakona o kulturi ("Službeni list Crne Gore", br. 49/08, 16/11, 40/11 i 38/12), člana 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 13 Statuta JU Gradska biblioteka ("Službeni list Crne Gore - Opštinski propisi", br. 28/21), Skupština opštine Tivat, na sjednici održanoj dana 7. 7. 2025. Godine, donijela je
+ODLUKU
