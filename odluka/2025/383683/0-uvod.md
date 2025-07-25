@@ -1,0 +1,5 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19 i 38/20, 50/22 i 84/22), člana 155 Zakona o izgradnji objekata ("Službeni list Crne Gore", broj 19/25), člana 8 stav 6 Odluke o izgradnji lokalnih objekata od opšteg interesa ("Službeni list Crne Gore - Opštinski propisi", broj 18/14, 42/15, 28/16, 7/21, 32/23, 1/24, 26/24 i 25/25) i člana 35 stav 1 alineja 2 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 9/20), Skupštinа opštine Tivat, nа sјеdnici оdržаnој 7. 7. 2025. gоdinе, dоniјеlа je
+ODLUKU
+o izgradnji lokalnog objekta od opšteg interesa - izvođenje radova na polaganju 10kV
+kablovskog voda - dionica od TS 10/0,4kV "Krašići II/2" do kraja granice Opštine Tivat, na dijelu kat. par. br. 1054, 1062 i 92/2 sve KO Krašići, u obuhvatu DUP-a "Krašići" ("Službeni
+list Crne Gore - Opštinski propisi", br. 12/17), DSL "Sektor 29" ("Službeni list Crne Gore", br. 86/2009) i PUP-a Tivta do 2020. godine ("Službeni list Crne Gore - Opštinski propisi", br.
