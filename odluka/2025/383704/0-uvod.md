@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2, a u vezi sa članom 59 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11) i člana 25 stav 1 tačka 1 Statuta Opštine Tuzi ("Službeni list CG - Opštinski propisi", br. 24/19, 5/20, 51/22 i 55/22), na sjednici Skupštine opštine Tuzi, održanoj dana 9. 7. 2025. godine, donijela je
+ODLUKU
