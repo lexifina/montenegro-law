@@ -1,0 +1,3 @@
+Na osnovu člana 242 stav 10 Zakona o privrednim društvima ("Službeni list Crne Gore", br. 65/20, 146/21 i 4/24), člana 13 Statuta DOO "Parking servis" Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 19/22), člana 15 Statuta DOO "Autobuska stanica" Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 19/22) i člana 35 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 9/20), Skupština opštine Tivat, na sjednici održanoj dana 7. 7. 2025. godine, donosi
+ODLUKU
+o davanju saglasnosti na odluke o neangažovanju nezavisnog eksperta radi ispitivanja nacrta ugovora o spajanju kod statusne promjene spajanja uz pripajanje društava "Parking servis"
