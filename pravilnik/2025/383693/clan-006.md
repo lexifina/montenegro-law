@@ -1,0 +1,3 @@
+# Član 6
+## Obavještenje u vezi sa polaganjem stručnog ispita
+Obavještenje o polaganju stručnog ispita, načinu i roku za podnošenje prijave za polaganje stručnog ispita, literaturi za polaganje stručnog ispita, troškovima polaganja stručnog ispita i podacima za uplatu, kao i drugim podacima u vezi sa polaganjem stručnog ispita objavljuje se na internet stranici organizacione jedinice koja vrši poslove koji se odnose na sprečavanje pranja novca i finansiranja terorizma u okviru organizacione jedinice organa državne uprave nadležnog za unutrašnje poslove koja vrši policijske poslove (u daljem tekstu: finansijsko-obavještajna jedinica).
