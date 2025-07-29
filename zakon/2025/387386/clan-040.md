@@ -1,0 +1,10 @@
+# Član 40
+## Transparentnost socijalnih davanja
+Državnim i lokalnim budžetskim potrošačkim jedinicama zabranjena je isplata, odnosno davanje jednokratne novčane pomoći u skladu sa zakonom kojim se uređuje socijalna i dječja zaštita, kao i drugih jednokratnih novčanih naknada, osim u slučaju smrti člana porodice, invaliditeta u procentu većem od 50% ili štete na stambenom objektu ili imovini usljed požara ili prirodne nepogode.
+Lokalnim budžetskim potrošačkim jedinicama zabranjena je mjesečna potrošnja koja se odnosi na materijalna davanja iz socijalne zaštite u nadležnosti opštine, u skladu sa zakonom kojim se uređuje socijalna i dječja zaštita, veća od 20% prosječne mjesečne potrošnje za ova davanja u trećem kvartalu prethodne budžetske godine.
+Zabranjena je iz tekuće budžetske rezerve sa državnog i sa lokalnog nivoa dodjela socijalnih davanja u godini u kojoj se održavaju lokalni, parlamentarni ili izbori za Predsjednika Crne Gore, osim u slučaju ratnog stanja, vanrednog stanja, epidemije ili pandemije zaraznih bolesti.
+U slučaju održavanja vanrednih izbora, zabrana iz stava 3 ovog člana odnosi se na period od šest mjeseci od dana raspisivanja izbora.
+Organ državne uprave nadležan za poslove socijalnog staranja prikuplja analitičke kartice koje sadrže podatke o iznosu i broju korisnika svih oblika materijalnih davanja iz socijalne zaštite u toku izborne kampanje, kao i podatke o vrsti i primaocima tih davanja.
+Opštine prikupljaju podatke o raspodjeli svih oblika materijalnih davanja iz socijalnu zaštite na lokalnom nivou u toku izborne kampanje, uključujući i podatke o vrsti, iznosima i primaocima tih davanja.
+Podaci iz st. 5 i 6 ovog člana objavljuju se na internet stranici organa državne uprave nadležnog za poslova socijalnog staranja, odnosno opštine i dostavljaju se na svakih sedam dana Odboru i Agenciji.
+Članovi Odbora i ovlašćena i odgovorna lica u Agenciji dužni su da sa podacima iz st. 5 i 6 ovog člana koji predstavljaju podatke o ličnosti postupaju u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti.

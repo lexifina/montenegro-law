@@ -1,0 +1,5 @@
+# Član 42
+## Zabrana otpisa dugova
+Zabranjeno je pravnim licima čiji je osnivač i/ili djelimični ili većinski vlasnik država ili opština da, u periodu od dana raspisivanja do dana održavanja izbora, kao i mjesec dana nakon izbora, vrše otpis dugova građanima, uključujući račune za utrošenu električnu energiju, vodu, kao i račune za sve vrste javnih usluga.
+U godini u kojoj se održavaju redovni izbori, kao i u slučaju prijevremenih izbora u periodu od dana njihovog raspisivanja do isteka dva mjeseca od utvrđivanja konačnih rezultata izbora, zabranjeno je uvođenje novih ili jednokratnih subvencija za potrošnju električne energije i subvencija u plaćanju komunalnih usluga koje pružaju privredna društva čiji je osnivač i/ili djelimični ili većinski vlasnik država ili opština.
+U periodu od raspisivanja izbora do isteka dva mjeseca nakon utvrđivanja konačnih rezultata izbora, nadležnim organima na državnom i lokalnom nivou zabranjen je otpis obaveza po osnovu oprosta poreza na dodatu vrijednost i ostalih poreza, kao i otpis obaveza po osnovu oprosta duga za potrošnju električne energije i komunalne usluge.

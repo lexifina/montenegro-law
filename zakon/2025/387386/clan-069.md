@@ -1,0 +1,57 @@
+# Član 69
+Novčanom kaznom u iznosu od 10.000 eura do 20.000 eura kazniće se za prekršaj politički subjekt, ako:
+1) ako postupi suprotno članu 6 stav 14;
+2) stiče udio ili akcije u privrednom društvu (član 7 stav 1);
+3) stiče prihod od promotivne ili komercijalne djelatnosti (član 7 stav 2);
+4) prima priloge u zamjenu za promociju davaoca priloga na način koji doprinosi prepoznatljivosti i ugledu tog davaoca (član 7 stav 3);
+5) koristi budžetska sredstava za lične potrebe kandidata političkog subjekta (član 8 stav 7);
+6) prikupi sredstva iz privatnih izvora u iznosu većem od 10% ukupnih sredstava iz člana 13 stav 1 ovog zakona ako nema pravo na budžetska sredstva (član 15 stav 2);
+7) odluku o visini članarine za tekuću godinu ne dostavi Agenciji najkasnije do kraja januara tekuće godine (član 15 stav 3);
+8) troškovi izborne kampanje pređu iznos sredstava iz člana 20 stav 1 ovog zakona (član 16 stav 4);
+9) sredstva sa redovnog računa prikupljena za redovan rad koristi za izbornu kampanju suprotno članu 17 stav 1 ovog zakona;
+10) sredstva iz člana 17 stav 1 ovog zakona ne uplati na poseban račun iz člana 24 stav 1 ovog zakona (član 17 stav 2);
+11) sopstvena sredstva uplati na poseban račun iz člana 24 stav 1 ovog zakona nakon dana zatvaranja posebnog računa (član 17 stav 3);
+12) uplaćena sredstva na posebnom računu iz člana 24 stav 1 ovog zakona koristi suprotno članu 17 stav 4 ovog zakona;
+13) sredstva sa posebnog računa iz člana 24 stav 1 ovog zakona, koristi suprotno članu 18 stav 1 ovog zakona;
+14) utroši sredstva sa posebnog računa iz člana 24 stav 1 ovog zakona, u iznosu koji premašuje najviši dozvoljeni iznos koji je utvrđen ovim zakonom, nakon odluke nadležne izborne komisije o potvrđivanju izborne liste političkog subjekta (član 18 stav 2);
+15) sredstva sa posebnog računa iz člana 24 stav 1 ovog zakona koristi suprotno članu 19 stav 1 ovog zakona;
+16) prikuplja sredstva za finansiranje troškova izborne kampanje iz privatnih izvora suprotno članu 23 stav 1 ovog zakona;
+17) za finansiranje troškova izborne kampanje za izbor poslanika i odbornika uplati veći iznos od tridesetostrukog iznosa sredstava koja mu pripadaju u smislu člana 20 stav 2 ovog zakona (član 23 stav 2);
+18) u svrhu prikupljanja sredstava za finansiranje troškova izborne kampanje ne otvori poseban žiro račun kod institucije ovlašćene za poslove platnog prometa, najranije danom početka izborne kampanje, a najkasnije narednog dana od dana potvrđivanja izborne liste (član 24 stav 1);
+19) poseban račun koristi u druge svrhe (član 24 stav 1);
+20) u roku od tri dana od dana otvaranja posebnog računa o tome ne obavijesti Agenciju (član 24 stav 2);
+21) sva sredstva namijenjena za finansiranje izborne kampanje ne uplati na račun iz člana 24 stav 1 ovog zakona i sva plaćanja troškova izborne kampanje ne vrši sa tog računa, do zatvaranja računa (član 24 stav 3);
+22) poseban račun iz člana 24 stav 1 ovog zakona ne zatvori u roku od 90 dana od dana objavljivanja konačnih rezultata izbora (član 25 stav 1);
+23) u roku od tri dana od dana zatvaranja posebnog računa iz člana 24 stav 1 ovog zakona ne obavijesti Agenciju (član 25 stav 1);
+24) u roku od tri dana od dana zatvaranja posebnog računa iz člana 24 stav 1 ovog zakona ne dostavi Agenciji dokaz o zatvaranju računa (član 25 stav 1);
+25) prikupi sredstva iz privatnih izvora za finansiranje troškova izborne kampanje u iznosu većem od ukupnog iznosa sredstava iz člana 28 stav 1 ovog zakona (član 29 stav 2);
+26) u svrhu prikupljanja sredstava za finansiranje troškova izborne kampanje kandidat ne otvori poseban račun kod institucije ovlašćene za poslove platnog prometa, najkasnije narednog dana od dana potvrđivanja kandidature (član 30 stav 1);
+27) poseban žiro račun iz člana 30 stav 1 ovog zakona koristi u druge svrhe (član 30 stav 1);
+28) u roku od tri dana od dana otvaranja posebnog računa iz člana 30 stav 1 ovog zakona ne obavijesti Agenciju (član 30 stav 2);
+29) započne izbornu kampanju prije potvrđivanja kandidature, odnosno utvrđivanja liste kandidata, a ne otvori račun iz člana 30 stav 1 ovog zakona prije početka izborne kampanje (član 30 stav 3);
+30) sva sredstva namijenjena za finansiranje izborne kampanje ne uplati na račun iz člana 30 stav 1 ovog zakona (član 30 stav 4);
+31) sva plaćanja troškova izborne kampanje ne vrši sa računa iz člana 30 stav 1 ovog zakona (član 30 stav 4);
+32) troškovi izborne kampanje političkog subjekta pređu iznos sredstava iz člana 29 stav 2 ovog zakona (član 30 stav 5);
+33) poseban račun iz člana 30 ovog zakona ne zatvori u roku od 90 dana od dana objavljivanja konačnih rezultata izbora (član 31 stav 1);
+34) u roku od tri dana od dana zatvaranja posebnog računa iz člana 30 ovog zakona ne obavijesti Agenciju (član 31 stav 1);
+35) u roku od tri dana od dana zatvaranja posebnog računa iz člana 30 ovog zakona ne dostavi Agenciji dokaz o zatvaranju računa (član 31 stav 1);
+36) primi materijalnu i finansijsku pomoć i nenovčane priloge od: drugih država, privrednih društava, preduzetnika i pravnih lica čije je sjedište van Crne Gore, fizičkih lica koja nemaju biračko pravo u Crnoj Gori, anonimnih darodavaca, javnih ustanova, pravnih lica i privrednih društava čiji je osnivač i/ili većinski ili djelimični vlasnik država ili opština, sindikalnih organizacija, vjerskih zajednica i organizacija, nevladinih organizacija, kazina, kladionica i drugih priređivača igara na sreću i lica koja se bave proizvodnjom, obradom i prometom duvana i proizvodnjom i prometom duvanskih proizvoda (član 33 stav 1);
+37) se zadužuje kod fizičkih lica (član 33 stav 4);
+38) obeća ili stavi u izgled političku ili bilo kakvu drugu protivuslugu, privilegiju ili ličnu korist fizičkom ili pravnom licu radi pribavljanja materijalne i finansijske pomoćiili nenovčanih priloga (član 34 stav 1);
+39) primi prilog u novcu ili obliku proizvoda ili usluga preko trećih lica (posrednika) (član 34 stav 2);
+40) prikriva privatne izvore finansiranja i iznose prikupljene iz privatnih izvora finansiranja (član 34 stav 3);
+41) ne vodi računovodstvenu evidenciju o prihodima, imovini i rashodima po porijeklu (posebno za sredstva iz javnih i privatnih izvora), visini i strukturi prihoda, imovine i rashoda (član 52 stav 1);
+42) ne podnese završni račun i godišnji konsolidovani finansijski izvještaj organu uprave nadležnom za vođenje jedinstvenog registra poreskih obveznika, Državnoj revizorskoj instituciji i Agenciji, najkasnije do 31. marta tekuće za prethodnu godinu (član 52 stav 2);
+43) u izvještaju ne navede tačne i potpune podatke (član 52 stav 4);
+44) svojim aktima ne uredi način vršenja unutrašnje kontrole finansijskog poslovanja (član 53 stav 1);
+45) ne odredi lice odgovorno za finansijsko poslovanje, ne propiše način ostvarivanja uvida člana subjekta u prihode i rashode subjekta i ne donese finansijski plan i program rada do kraja tekuće za narednu godinu (član 53 stav 2);
+46) u roku od 30 dana od dana održavanja izbora ne podnese Agenciji izvještaj o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora za izbornu kampanju, sa pratećom dokumentacijom (član 54 stav 1);
+47) izvještaj iz člana 54 stav 1 ovog zakona ne dostavi u štampanom i elektronskom obliku na obrascu koji utvrdi Agencija (član 54 stav 5);
+48) ako ne navede tačne i potpune podatke u izvještaju iz člana 54 stav 1 ovog zakona (član 54 stav 4);
+49) ne dostavi objedinjen izvještaj o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava Agenciji, u roku od 30 dana od dana održavanja izbora, u slučaju ako se za više izbora koji se održavaju u istom danu vodi zajednička izborna kampanja (član 54 stav 6);
+50) uz izvještaje iz člana 54 st. 1 i 6 ovog zakona ne dostavi izvode iz banke koji prikazuju sve prihode i rashode sa tih računa u periodu od njihovog otvaranja do dana podnošenja izvještaja sa dokumentacijom (član 54 stav 8);
+51) petnaestodnevno u toku izborne kampanje ne dostavlja Agenciji izvještaj o prilozima pravnih i fizičkih lica (član 57 stav 1);
+52) pet dana prije dana održavanja izbora ne dostavi Agenciji privremeni izvještaj o troškovima izborne kampanje (član 58 stav 1);
+53) u toku trajanja izborne kampanje ne vode i redovno ne ažuriraju evidencije o sredstvima prikupljenim iz privatnih izvora i troškovima izborne kampanje (član 62 stav 1);
+54) na zahtjev i u roku koji odredi Agencija ne dostavi podatke koji su Agenciji potrebni za obavljanje poslova iz njene nadležnosti (član 62 stav 3).
+Za prekršaj iz stava 1 ovog člana kazniće se i odgovorno lice u političkom subjektu novčanom kaznom u iznosu od 500 eura do 2.000 eura.

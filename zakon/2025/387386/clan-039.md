@@ -1,0 +1,4 @@
+# Član 39
+## Zabrana upotrebe državne mehanizacije i opreme
+U periodu od šest mjeseci prije roka predviđenog za održavanje izbora, računajući kao rok predviđen za održavanje izbora datum na koji su izbori bili održani u tekućem mandatu, zabranjuje se privrednim društvima čiji je osnivač i/ili većinski vlasnik država ili opština, da svoju mehanizaciju i opremu ustupaju trećim licima na upotrebu bez posebne odluke i bez ugovora sa naknadom, osim u slučajevima sanacije štete nastale usljed elementarnih nepogoda, požara ili sprečavanja širenja epidemije zaraznih bolesti.
+Sve odluke, ugovore i naloge za upotrebu mehanizacije i opreme van osnovne djelatnosti, privredna društva iz stava 1 ovog člana dužna su da objave na svojoj internet stranici i dostave Agenciji u roku od tri dana od dana donošenja.

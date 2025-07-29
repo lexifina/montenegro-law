@@ -1,0 +1,4 @@
+# Član 36
+## potpisa podrške za predaju izborne liste i kandidature
+Zabranjeno je korišćenje prostorija državnih organa, organa državne uprave, organa lokalne samouprave i organa lokalne uprave, javnih ustanova, državnih fondova i privrednih društava čiji je osnivač i/ili većinski ili djelimični vlasnik država ili opština za pripremu i realizaciju aktivnosti izborne kampanje, ako se isti uslovi ne obezbijede svim učesnicima u izbornom procesu.
+Zabranjena je distribucija propagandnog materijala i prikupljanje potpisa podrške za predaju izborne liste političkog subjekta i predaju kandidature kandidata za izbor Predsjednika Crne Gore u državnim organima, organima državne uprave, organima lokalne samouprave i organima lokalne uprave, javnim ustanovama, državnim fondovima i privrednim društvima čiji je osnivač i/ili većinski ili djelimični vlasnik država ili opština.

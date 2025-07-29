@@ -1,0 +1,5 @@
+# Član 26
+## Obaveze u slučaju odustanka od podnošenja, povlačenja, odbacivanja ili odbijanja izborne liste
+Politički subjekt koji započne izbornu kampanju i otvori poseban račun iz člana 24 stav 1 ovog zakona prije potvrđivanja izborne liste, dužan je da vrati neutrošena sredstva uplatiocima srazmjerno uplaćenom iznosu ili da ih uplati u Budžet Crne Gore ako odustane od podnošenja izborne liste, povuče izbornu listu, nadležna izborna komisija donese rješenje o odbacivanju izborne liste koju je podnio ili ako nadležna izborna komisija donese rješenje kojim se odbija proglašenje izborne liste koju je podnio.
+Politički subjekt iz stava 1 ovog člana dužan je da zatvori poseban račun iz člana 24 stav 1 ovog zakona u roku od 15 dana od dana kad je nadležna izborna komisija objavila zbirnu izbornu listu i da Agenciji dostavi potvrdu o zatvaranju ovog računa u roku od pet dana od dana njegovog zatvaranja.
+Politički subjekt iz stava 1 ovog člana dužan je da sačini izvještaj o finansiranju izborne kampanje zaključno sa danom zatvaranja posebnog računa i da ga dostavi Agenciji u roku od 20 dana od dana kad je nadležna izborna komisija objavila zbirnu izbornu listu.

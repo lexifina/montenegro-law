@@ -1,0 +1,9 @@
+# Član 33
+## Zabrana finansiranja
+Zabranjeno je političkim subjektima primanje materijalne i finansijske pomoći i nenovčanih priloga od: drugih država, privrednih društava, preduzetnika i pravnih lica čije je sjedište van Crne Gore, fizičkih lica koja nemaju biračko pravo u Crnoj Gori, anonimnih darodavaca, javnih ustanova, pravnih lica i privrednih društava čiji je osnivač i/ili većinski ili djelimični vlasnik država ili opština, sindikalnih organizacija, vjerskih zajednica i organizacija, nevladinih organizacija, kazina, kladionica i drugih priređivača igara na sreću i lica koja se bave proizvodnjom, obradom i prometom duvana i proizvodnjom i prometom duvanskih proizvoda.
+Zabranjeno je licu koje je pravosnažno osuđeno za krivično djelo sa elementima korupcije i organizovanog kriminala da finansira političkog subjekta.
+Zabranjeno je fizičkom i pravnom licu iz st. 1 i 2 ovog člana sprovođenje izborne kampanje političkog subjekta.
+Politički subjekti ne mogu se zaduživati kod fizičkih lica.
+Pravna lica, privredna društva i preduzetnici i sa njima povezana pravna i fizička lica, koji su, na osnovu ugovora sa nadležnim organima, u skladu sa zakonom, vršili poslove od javnog interesa ili su zaključili ugovor u postupku javnih nabavki, u periodu od dvije godine prije zaključivanja ugovora, za vrijeme trajanja poslovnog odnosa na osnovu tog ugovora, kao i dvije godine nakon prestanka tog poslovnog odnosa, ne mogu davati priloge političkim subjektima.
+Fizičko i pravno lice u odnosu na koje je organ uprave nadležan za poslova poreza pokrenuo postupak prinudne naplate donošenjem zaključka o prinudnoj naplati poreske obaveze ne može davati priloge političkim subjektima.
+Pravno lice koje u trajanju od tri mjeseca nije izmirilo dospjele obaveze prema zaposlenima ne može davati priloge političkim subjektima.
