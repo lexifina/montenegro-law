@@ -1,0 +1,3 @@
+Na osnovu člana 38. stav 1. tačka 22. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/2018, 34/19, 38/20, 50/22 i 84/22), člana 33. tačka 21. Statuta Opštine Plav ("Službeni list Crne Gore - Opštinski propisi", br. 44/18) i člana 45. stav 1. Poslovnika o radu Skupštine opštine Plav ("Službeni list Crne Gore - Opštinski propisi", br. 44/18 i 25/21), a sve u vezi sa članom 3. Odluke o obrazovanju radnih tijela Skupštine ("Službeni list Crne Gore - Opštinski propisi", br. 2/19), Skupština opštine Plav, na sjednici održanoj dana 10. 7. 2025. godine, donijela je
+ODLUKU
+o imenovanju Komisije za raspisivanje javnog poziva za prikupljanje ponuda za kupovinu
