@@ -1,0 +1,2 @@
+# Član 1
+Za člana Anketnog odbora za prikupljanje informacija i činjenica o postupanjima državnih organa i drugih subjekata u slučajevima politički motivisanih ubistava koja su se dogodila od uvođenja višestranačja do danas kao i okolnostima fizičkih napada i prebijanja novinara i drugih slobodnih intelektualaca od strane policijskih službenika poznatih kao "Crne trojke", a za koje su se u javnosti pojavljivale informacije da su bile zadužene za prebijanje političkih neistomišljenika tadašnje vlasti bira se Zoran Mikić.
