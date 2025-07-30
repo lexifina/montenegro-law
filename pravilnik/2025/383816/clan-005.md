@@ -1,0 +1,4 @@
+# Član 5
+## Interoperabilnost automobilskih radio-prijemnika
+Svi automobilski radio-prijemnici koji su ugrađeni u nova vozila kategorije M, a koja se u svrhu prodaje ili iznajmljivanja stavljaju na tržište Crne Gore, moraju da posjeduju prijemnik sa mogućnošću prijema i reprodukcije najmanje onih radijskih usluga koje se pružaju putem digitalnih zemaljskih sistema za emitovanje radijskog signala kako bi se obezbijedili uslovi za prelazak na nove standarde u skladu sa zakonom kojim se uređuje oblast digitalne radio-difuzije.
+Ako su automobilski radio-prijemnici iz prethodnog stava u skladu sa crnogorskim standardima, kojima su preuzeti odgovarajući harmonizovani standardi ili djelovi tih standarda, smatra se da ispunjavaju zahtjev za interoperabilnost, koji je sadržan u tim standardima ili dijelovima tih standarda.
