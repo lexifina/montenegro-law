@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09, 40/11 i 23/25),člana 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br .2/18, 34/19,38/20, 50/22 i 84/22), člana 78 Statuta Opštine Rožaje ("Službeni list Crne Gore - Opštinski propisi", br. 38/18 i 16/21) člana 2, člana 3 i člana 4 Odluke o izgradnji objekata od opšteg interesa ("Službeni list Crne Gore - Opštinski propisi", br. 48/20) Predsjednik opštine Rožaje, donosi
+ODLUKU
