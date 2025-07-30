@@ -1,0 +1,4 @@
+# Član 19
+## Odlučivanje o zahtjevu za izdavanje dozvole za pružanje brokerskih usluga, odnosno tehničke pomoći
+Prilikom odlučivanja o zahtjevu za izdavanje dozvole za pružanje brokerskih usluga u vezi sa robom iz člana 11 stav 1 ovog zakona, shodno se primjenjuju odredbe čl. 17 i 18 ovog zakona.
+Prilikom odlučivanja o zahtjevu za izdavanje dozvole za pružanje tehničke pomoći u vezi sa robom iz člana 11 stav 1 ovog zakona, vrši se provjera u smislu člana 17 ovog zakona, kako bi se procijenilo da li će tehnička pomoć biti upotrijebljena za popravku, razvoj, proizvodnju, ispitivanje, održavanje ili sastavljanje robe iz člana 11 stav 1 ovog zakona ili će tehnička pomoć biti pružena licu koje bi moglo da koristi robu na koju se tehnička pomoć odnosi za izvršenje smrtne kazne, odnosno za mučenje ili drugo okrutno, neljudsko ili ponižavajuće postupanje ili kažnjavanje.
