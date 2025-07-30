@@ -1,0 +1,2 @@
+Na osnovu člana 156 stav 3 i člana 168 stav 3 Zakona o zaštiti potrošača ("Službeni list CG", br. 2/14, 43/15, 70/17, 67/19 i 146/21), Vlada Crne Gore, na sjednici od 3. jula 2025. godine, donijela je
+UREDBU O IZMJENI UREDBE O USLOVIMA ZA USTUPANJE I OBAVLJANJE POSLOVA UTVRĐENIH NACIONALNIM PROGRAMOM ZAŠTITE POTROŠAČA I BLIŽIM KRITERIJUMIMA, NAČINU I POSTUPKU FINANSIRANJA ORGANIZACIJA POTROŠAČA
