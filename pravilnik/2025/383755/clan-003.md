@@ -1,0 +1,4 @@
+# Član 3
+Učinilac krivičnog djela iz člana 1 ovog pravilnika dužan je da se, u skladu sa Krivičnim zakonikom Crne Gore, lično javlja nadležnoj organizacionoj jedinici jednom mjesečno, i to svakog prvog ponedjeljka, u vremenu od 7 do 19 časova.
+Prilikom prvog javljanja nadležnoj organizacionoj jedinici, učinilac krivičnog djela iz člana 1 ovog pravilnika upoznaje se sa načinom javljanja, drugim mjerama posebnog nadzora koje se prema njemu sprovode, obavezama u slučaju kad nije u mogućnosti da se javi zbog bolesti ili drugih opravdanih razloga i kontakt podacima policijskog službenika kojeg je dužan da o tome obavijesti, kao i sa posljedicama kršenja mjera posebnog nadzora.
+O svakom javljanju učinioca krivičnog djela iz člana 1 ovog pravilnika nadležnoj organizacionoj jedinici sačinjava se zapisnik.

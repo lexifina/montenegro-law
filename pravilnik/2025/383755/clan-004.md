@@ -1,0 +1,3 @@
+# Član 4
+U slučaju da učinilac krivičnog djela iz člana 1 ovog pravilnika nije u mogućnosti da se javi nadležnoj organizacionoj jedinici u skladu sa članom 3 stav 1 ovog pravilnika zbog bolesti ili drugih opravdanih razloga, dužan je da o tome, bez odlaganja, a najkasnije do isteka vremena za javljanje obavijesti policijskog službenika iz člana 3 stav 2 ovog pravilnika i da sa njim dogovori naredni termin za javljanje.
+Prilikom narednog javljanja nadležnoj organizacionoj jedinici, učinilac krivičnog djela iz člana 1 ovog pravilnika dužan je da dostavi vjerodostojan dokaz o razlozima zbog kojih se nije javio u skladu sa članom 3 stav 1 ovog pravilnika.
