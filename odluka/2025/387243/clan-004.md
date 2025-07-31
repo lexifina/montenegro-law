@@ -1,0 +1,2 @@
+# Član 4
+Djelatnost Centra predstavlja sveobuhvatan servis zaštite djece sa smetnjama u razvoju i osoba sa invaliditetom, utemeljen na holističkom pristupu, u kome se pruža kompleksan servis (socijalizacija, obrazovanje, njega, rehabilitacija, radnookupaciona terapija, inkluzija kroz sport, slobodne aktivnosti, podrška, savjetovanje roditelja, itd.) i njeguje socijalni model nasuprot medicinskom modelu rehabilitacije i osposobljavanja djece sa smetnjama u razvoju i osoba sa invaliditetom.
