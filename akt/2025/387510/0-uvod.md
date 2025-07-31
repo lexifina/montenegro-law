@@ -1,0 +1,3 @@
+Na osnovu člana 40 stav 1 Zakona o finansiranju lokalne samouprave ("Službeni list CG", br. 3/19, br. 86/22, br. 5/24 i br. 7/24), člana 38 stav 1 tačka 7 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, br. 34/19, br. 38/20, br. 50/22 i br. 84/22), člana 68 i 69 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14, br. 56/14, br. 70/17, br. 4/18, br. 55/18, br. 66/19, br. 70/21, br. 145/21, br. 27/23, br. 125/23 i br. 11/25) i člana 34 stav 1 tačka 7 Statuta Opštine Herceg Novi ("Službeni list CG", br. 1/19, 37/19, 6/20 i 18/22) Skupština opštine Herceg Novi, na sjednici održanoj dana 8. 7. 2025. godine, donijela je
+ZAVRŠNI
+račun Budžeta Opštine Herceg Novi za 2024. godinu
