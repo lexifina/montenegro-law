@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 tačka 9 Zakona o vazdušnom saobraćaju ("Službeni list CG", br. 30/12, 30/17, 82/20 i 53/25), uz saglasnost Ministarstva saobraćaja, Agencija za civilno vazduhoplovstvo donijela je
+P R A V I L N I K O IZMJENAMA I DOPUNI PRAVILNIKA O ZAJEDNIČKIM ZAHTJEVIMA ZA PRUŽAOCE USLUGA UPRAVLJANJA VAZDUŠNIM SAOBRAĆAJEM I USLUGA U VAZDUŠNOJ PLOVIDBI I DRUGIH MREŽNIH FUNKCIJA UPRAVLJANJA VAZDUŠNIM SAOBRAĆAJEM I NADZORU NAD NJIMA
