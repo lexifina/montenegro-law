@@ -1,0 +1,3 @@
+# Član 1
+## o davanju na korišćenje lokacije za postavljanje privremenog objekta - kioska na katastarskoj parceli broj 396/2 KO Danilovgrad, Društvu sa ograničenom odgovornošću "Komunalno" Danilovgrad
+Društvu sa ograničenom odgovornošću "Komunalno" Danilovgrad, daje se na privremeno korišćenje, u trajanju od 5 (pet) godina, lokacija za postavljanje privremenog objekta - kioska na katastarskoj parceli broj 396/2, KO Danilovgrad, a koja je predviđena Programom privremenih objekata na teritoriji Opštine Danilovgrad, broj 06-322/25-200/1 od februara 2025. godine i Odlukom o donošenju programa privremenih objekata na teritoriji Opštine Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", br. 9/25).
