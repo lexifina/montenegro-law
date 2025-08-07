@@ -1,0 +1,11 @@
+# Član 56
+## Prekršaji upravnika skupa za pokriće
+Novčanom kaznom u iznosu do 15.000 eura kaznit će se za prekršaj upravnik skupa za pokriće, ako:
+1) ne odbije da izda prethodno odobrenje za upis u registar skupa za pokriće ili brisanje iz registra skupa za pokriće kada bi takav upis ili brisanje dovelo do toga da skup za pokriće ne ispunjava uslove propisane ovim zakonom, podzakonskim propisima donijetim na osnovu ovog zakona, odnosno odobrenjem za izdavanje pokrivenih obveznica ili prospektom izdavanja, a naročito odbija da izda prethodno odobrenje ako imovina koja je predložena kao imovina za pokriće ne zadovoljava uslove propisane za imovinu za pokriće (član 13 stav 7);
+2) ne uzme u obzir zaključke analize iz člana 16 stav 9 ovog zakona prilikom procjene da li izdavalac i skup za pokriće mogu da nastave da ispunjavaju uslove propisane ovim zakonom, podzakonskim propisima donijetim na osnovu ovog zakona, kao i ugovornim uslovima pokrivenih obveznica o čemu obavještava Komisiju (član 14 stav 7);
+3) kontinuirano ne prati da li izdavalac i skup za pokriće ispunjavaju uslove propisane članom 14 stav 8 ovog zakona;
+4) ne nadzire registar skupa za pokriće sve dok pokrivene obveznice ne budu u cjelosti otplaćene, kako bi obezbijedio da izdavalac održava vrijednost skupa za pokriće u skladu sa ovim zakonom, podzakonskim propisima donijetim na osnovu ovog zakona i ugovornim uslovima pokrivenih obveznica (član 14 stav 10);
+5) odobri brisanje, zamjenu i dodavanje imovine u registar skupa za pokriće, a skup za pokriće ne ispunjava zahtjeve koji su propisani ovim zakonom, podzakonskim aktima donijetim na osnovu ovog zakona i ugovornim uslovima pokrivenih obveznica nakon predloženih promjena (član 14 stav 12);
+6) svakih šest mjeseci ne podnese izvještaj Komisiji, u kojem potvrđuje da je skup za pokriće usklađen sa ovim zakonom, a ako se izvod skupa za pokriće razlikuje od posljednjeg izvještaja dostavljenog Komisiji, uz izvještaj ne priloži izvod iz registra skupa za pokriće (član 14 stav 14);
+7) ne odgovari na zahtjeve za dostavljanje informacija u roku koji odredi Komisija (član 14 stav 16).
+Prekršaji stečajnog upravnika, odnosno likvidacionog upravnika izdavaoca kao i specijalnog

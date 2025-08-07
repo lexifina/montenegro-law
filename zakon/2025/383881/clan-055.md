@@ -1,0 +1,7 @@
+# Član 55
+Novčanom kaznom u iznosu od 20.000 eura do 40.000 eura kazniće se za prekršaj pravno lice, ako:
+1) nakon prijema obavještenja o nadzoru ne omogući ovlašćenim licima Komisije sprovođenje neposrednog nadzora u sjedištu izdavaoca i na drugim mjestima gdje on ili drugo lice po njegovom ovlašćenju obavlja djelatnosti i poslove vezane za nadzor koji vrši Komisija (član 32 stav 1);
+2) ovlašćenim licima Komisije, na njihov zahtjev, ne omogući pregled poslovnih knjiga, poslovne dokumentacije, administrativnih ili poslovnih evidencija, kao i nadzor nad informacionim sistemom i tehnologijama koje omogućavaju rad informacionog sistema, u obimu potrebnom za sprovođenje nadzora u skladu sa ovim zakonom (član 32 stav 2);
+3) ovlašćenim licima Komisije, na njihov zahtjev, ne dostavi svu traženu poslovnu dokumentaciju, izvode, kopije poslovnih knjiga, druge evidencije o prometu podataka, administrativne ili poslovne evidencije u papirnom obliku ili u elektronskom zapisu na mediju i u obliku koji zahtijevaju ovlašćena lica Komisije, a u vezi sa skupom za pokriće (član 32 stav 3);
+4) ako ne obezbjedi ovlašćenim licima Komisije standardni pristup sistemu za upravljanje bazama podataka, radi sprovođenja nadzora pomognutog računarskim programima (član 32 stav 4).
+Za prekršaj iz stava 1 ovog člana kazniće se i odgovorno lice u pravnom licu novčanom kaznom u iznosu od 2.000 eura do 4.000 eura.

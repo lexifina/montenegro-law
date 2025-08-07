@@ -1,0 +1,5 @@
+# Član 26
+## Nadzor pokrivenih obveznica u slučaju stečaja, likvidacije ili sanacije izdavaoca
+Komisija sarađuje sa Centralnom bankom u slučaju sanacije izdavaoca kako bi se obezbijedila zaštita prava i interesa investitora, pored ostalog tako što se tokom postupka sanacije provjerava da li se kontinuirano i dobro upravlja programom pokrivenih obveznica.
+Komisija sarađuje sa specijalnim upravnikom u slučaju stečaja ili likvidacije izdavaoca koji međusobno razmjenjuju informacije kako bi se obezbijedila zaštita prava i interesa investitora, pored ostalog tako što se tokom postupka stečaja ili likvidacije provjerava da li se kontinuirano i dobro upravlja programom pokrivenih obveznica.
+Nadležni organi u postupku stečaja ili likvidacije, u skladu sa zakonom kojim se uređuje stečaj i likvidacija banaka, dužni su da prilikom korišćenja svojih ovlašćenja u slučaju stečaja ili likvidacije izdavaoca obezbijede da svoja ovlašćenja ne izvršavaju na način koji će ugroziti ostvarivanje prava iz pokrivenih obveznica i skupa za pokriće, a koja investitori imaju u skladu sa ovim zakonom.

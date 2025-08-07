@@ -1,0 +1,22 @@
+# Član 45
+## Preuzimanje pokrivenih obveznica od treće strane
+Specijalni upravnik dužan je da pokuša da prenese obaveze iz pokrivenih obveznica i skup za pokriće drugoj kreditnoj instituciji sa sjedištem u Crnoj Gori (u daljem tekstu: sticalac), i u tu svrhu, specijalni upravnik sačinjava bazu podataka dostupnu putem interneta sa šifrovanim pristupom, koja se mora postaviti najkasnije u roku od 60 dana od dana otvaranja postupka stečaja ili likvidacije izdavaoca.
+Baza podataka mora sadržati sve relevantne informacije koje se odnose na skup za pokriće i obaveze izdavaoca iz pokrivenih obveznica, kako bi potencijalni sticalac mogao izvršiti pravnu i ekonomsku procjenu vrijednosti skupa za pokriće i obaveza iz pokrivenih obveznica.
+Prenos iz stava 1 ovog člana vrši se na osnovu ugovora o kupoprodaji između izdavaoca kojeg zastupa specijalni upravnik i sticaoca.
+Ugovor o kupoprodaji sadrži:
+1) jasnu identifikaciju izdavaoca, sticaoca, skup za pokriće i pokrivene obveznice;
+2) izričitu odredbu da sticalac preuzima sve obaveze iz pokrivenih obveznica;
+3) odredbu o kupoprodajnoj cijeni koja se plaća u stečajnu odnosno likvidacionu masu izdavaoca.
+Prilikom utvrđivanja kupoprodajne cijene iz stava 4 tačka 3 ovog člana uzimaju se u obzir i obaveze izdavaoca iz pokrivenih obveznica i derivata i u slučaju da je procjena vrijednosti skupa za pokriće jednaka ili manja od zbira preostale glavnice i kamata iz pokrivenih obveznica i obaveza izdavaoca prema drugim ugovornim stranama ugovora o derivatima koji ispunjavaju uslove iz člana 11 ovog zakona.
+Ugovor o kupoprodaji proizvodi pravno dejstvo nakon odobrenja, odnosno prethodne saglasnosti Komisije.
+Na davanje odobrenja, odnosno prethodne saglasnosti na ugovor o kupoprodaji shodno se primjenjuju odredbe ovog zakona koje se odnose na davanje prethodnog mišljenja i odobrenja programa pokrivenih obveznica, pri čemu se neće ponovno ispitivati uslovi koji se po prirodi stvari ne mijenjaju prenosom skupa za pokriće na novu kreditnu instituciju.
+U slučaju prenosa na osnovu ugovora o kupoprodaji, investitori i druge ugovorne strane iz ugovora o derivatima koji ispunjavaju uslove iz člana 11 ovog zakona, nemaju potraživanja prema stečajnoj ili likvidacionoj masi kreditne institucije koja je prenijela pokrivene obveznice, a eventualna preostala vrijednost iz skupa za pokriće ne dijeli se povjeriocima te kreditne institucije, već postaje imovina sticaoca.
+Izuzetno od stava 8 ovog člana, u slučaju da dođe do prenosa skupa za pokriće na osnovu ugovora o kupoprodaji, izdavalac, odnosno stečajna ili likvidaciona masa izdavaoca odgovorni su sticaocu za postojanje potraživanja koja čine skup za pokriće na dan kada ugovor o kupoprodaji proizvodi pravno dejstvo.
+Prenosom skupa za pokriće na sticaoca, sticalac preuzima ugovornu poziciju izdavaoca u odnosu na pokrivene obveznice, kao i prava i obaveze izdavaoca prema investitorima i drugim ugovornim stranama ugovora o derivatima koji ispunjavaju uslove iz člana 11 ovog zakona, i obavezan je da se pridržava ugovornih uslova pokrivenih obveznica.
+Prenos iz stava 10 ovog člana ne predstavlja prenos privrednih subjekata, dijela privrednih subjekata ili privredne djelatnosti koja zadržava privrednu cjelovitost.
+Ako do preuzimanja pokrivenih obveznica u skladu sa odredbama ovog zakona ne dođe, Centralna banka rješenjem odlučuje da se odredi prodaja skupa za pokriće drugoj kreditnoj instituciji sa sjedištem u Crnoj Gori.
+Centralna banka u svojoj odluci poziva kreditne institucije sa sjedištem u Crnoj Gori da u roku od 14 dana od objavljivanja odluke iskažu interes za preuzimanje skupa za pokriće Komisiji i specijalnom upravniku.
+Specijalni upravnik dužan je da omogući kreditnim institucijama, koje su iskazale interes za preuzimanje skupa za pokriće, pristup podacima koji se odnose na skup za pokriće i obaveze kreditne institucije iz pokrivenih obveznica.
+Kreditne institucije koje su iskazale interes mogu u roku od tri mjeseca, računajući od isteka roka za iskazivanje interesa, podnijeti ponudu za preuzimanje skupa za pokriće.
+Komisija nalaže specijalnom upravniku da zaključi ugovor o kupoprodaji sa kreditnom institucijom koja je ponudila najvišu cijenu za otkup.
+U slučaju da dvije ili više kreditnih institucija ponude jednaku najvišu cijenu, Komisija nalaže specijalnom upravniku da zaključi ugovor o prodaji sa kreditnom institucijom čija je ponuda primljena prva.

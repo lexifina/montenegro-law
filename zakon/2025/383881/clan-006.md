@@ -1,0 +1,5 @@
+# Član 6
+## Dvostruka zaštita
+Investitor ima potraživanje prema izdavaocu u iznosu glavnice izdate pokrivene obveznice kao i pripadajućih kamata, a druga ugovorna strana iz ugovora o derivatima koji ispunjavaju uslove iz člana 11 ovog zakona ima potraživanje prema izdavaocu pokrivenih obveznica u skladu sa ugovorom o derivatima.
+U slučaju stečaja ili likvidacije ili sanacije izdavaoca, investitori i druge ugovorne strane iz ugovora o derivatima koji ispunjavaju uslove iz člana 11 ovog zakona imaju prema glavnici i svim dospjelim odnosno obračunatim i budućim kamatama iz imovine za pokriće potraživanje sa prednošću u redoslijedu naplate.
+U slučaju stečaja ili likvidacije izdavaoca, ako se utvrdi da je skup za pokriće nedovoljan za potpuno namirenje potraživanja sa prednošću u redoslijedu naplate iz stava 2 ovog člana, investitori i druge ugovorne strane iz ugovora o derivatima koji ispunjavaju uslove iz člana 11 ovog zakona imaju potraživanje prema likvidacionoj masi, odnosno stečajnoj masi izdavaoca istog isplatnog reda kao i potraživanja drugih povjerilaca izdavaoca u skladu sa zakonom kojim se uređuje stečaj ili likvidacija banaka.
