@@ -1,0 +1,2 @@
+# Član 2
+Opština Danilovgrad, kao subjekt raspolaganja poslužnog dobra, daje saglasnost DOO "Vito wine house", Jelenak, bez broja, Danilovgrad, za ustanovljavanje prava službenosti radi polaganja energetskog kabla preko dijela katastarske parcele broj 1533, evidentirane u Listu nepokretnosti 398 i dijela katastarske parcele broj 1536/2, evidentirane u Listu nepokretnosti 99, KO Jelenak, shodno geodetskom elaboratu originalnih terenskih podataka - predloženom trasom NN kablovskog voda, izrađenim od strane "Etalon Geo Office" DOO Danilovgrad.
