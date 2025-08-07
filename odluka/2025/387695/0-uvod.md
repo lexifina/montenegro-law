@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 i člana 34 stav 1 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09 i 40/11), a u vezi sa članom 194, 201, 202 i 206 Zakona o svojinsko pravnim odnosima ("Službeni list Crne Gore", br. 19/09 ), članom 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20,50/22 i 84/22) i članom 35 stav 1 tačka 2 Statuta Opštine Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", br. 43/18), Skupština opštine Danilovgrad, na sjednici održanoj 26.6., 30.6., 8.7. i 23. 7. 2025. godine, donijela je
+ODLUKU
+o ustanovljavanju prava službenosti prolaza na dijelu katastarske parcele broj 748/2, KO

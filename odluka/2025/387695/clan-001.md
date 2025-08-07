@@ -1,0 +1,3 @@
+# Član 1
+## Grlić
+Opština Danilovgrad, kao vlasnik poslužnog dobra u obimu prava 1/1, katastarske parcele broj 748/2, po načinu korišćenja potok, površine 1454 kvm, evidentirane u Listu nepokretnosti broj 284, KO Grlić, dozvoljava ustanovljavanje prava službenosti prolaza na dijelu navedene katastarske parcele u površini od 10kvm, u korist katastarske parcele broj 512/1, po načinu korišćenja: voćnjak 1. klase, površine 340kvm, dvorište, površine 500kvm i porodične stambene zgrade, površine 24 kvm, evidentirane u Listu nepokretnosti broj 638, KO Grlić, svojina Pavlović Mlađena u obimu prava 1/1, a na način kako je to prikazano skicom službenosti prolaza izrađenom od strane "Georašo" DOO Danilovgrad, koja čini sastavni dio ove Odluke.
