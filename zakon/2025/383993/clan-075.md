@@ -1,0 +1,10 @@
+# Član 75
+## Obaveze kupaca
+U slučaju prodaje imovine, prava ili obaveza investicionog društva u sanaciji kupac mora u trenutku prodaje imati sva potrebna odobrenja za pružanje usluga koje su predmet prodaje.
+U slučaju prodaje postojećih akcija, kao i u slučaju upisa novoemitovanih akcija ili drugih vlasničkih instrumenata investicionog društva u sanaciji, kupac koji tom kupovinom stiče kvalifikovano učešće u investicionom društvu u sanaciji dužan je da, u trenutku kupovine, ima odobrenje za sticanje kvalifikovanog učešća u skladu sa zakonom kojim se uređuje tržište kapitala.
+Komisija je dužna da o zahtjevu za sticanje kvalifikovanog učešća iz stava 2 ovog člana odluči u roku od 15 dana, od dana podnošenja urednog zahtjeva.
+Izuzetno od stava 3 ovog člana, ako bi se odlaganjem prodaje onemogućilo ostvarivanje ciljeva sanacije, može se izvršiti prodaja prije isteka roka za odlučivanje o zahtjevu iz stava 3 ovog člana, a Komisija o zahtjevu za sticanje kvalifikovanog učešća odlučuje naknadno.
+U slučaju da kupac nije ispunio uslov iz stava 2 ovog člana, protiv tog lica se neće preduzimati mjere koje se u skladu sa zakonom kojim se uređuje poslovanje investicionog društva, preduzimaju u slučaju sticanja kvalifikovanog učešća u investicionom društvu bez prethodnog odobrenja Komisije.
+Rješenje po zahtjevu za izdavanje odobrenja za sticanje kvalifikovanog učešća Komisija u skladu sa zakonom, bez odlaganja dostavlja podnosiocu zahtjeva.
+Ako je kupac stekao kvalifikovano učešće u skladu sa stavom 4 ovog člana, ugovor o prodaji proizvodi pravno dejstvo i prenos vlasništva se može izvršiti, a kupac stiče imovinska prava iz tih vlasničkih instrumenata, a glasačka i druga upravljačka prava po osnovu tih vlasničkih instrumenata stiče Komisija, s tim što nema pravo glasa.
+U slučaju iz stava 7 ovog člana, nakon dobijanja odobrenja za sticanje kvalifikovanog učešća, odnosno po donošenju odluke o prodaji - ako odobrenje nije potrebno, pravo glasa po osnovu tih vlasničkih instrumenata prelaze sa Komisije na sticaoca.

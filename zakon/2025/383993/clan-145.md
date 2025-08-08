@@ -1,0 +1,10 @@
+# Član 145
+## Redovni doprinosi
+Investiciona društva su dužna da, radi dostizanja ciljnog iznosa sredstava Sanacionog fonda iz člana 144 stav 1 ovog zakona, jednom godišnje uplaćuju redovni doprinos, i to do 30. juna za tekuću godinu.
+Doprinos iz stava 1 ovog člana za pojedinačno investiciono društvo utvrđuje se u iznosu koji je srazmjeran učešću njenih obaveza (isključujući regulatorni kapital) umanjenom za iznos zaštićenih potraživanja u ukupnom iznosu obaveza svih investicionih društava (isključujući regulatorni kapital) umanjenom za iznos zaštićenih potraživanja svih investicionih društava.
+Iznos pojedinačnog doprinosa iz stava 2 ovog člana se prilagođava srazmjerno rizičnom profilu pojedinačnih investicionih društava u skladu sa kriterijumima za utvrđivanje rizičnosti investicionih društava, koje propisuje Komisija.
+Komisija, u ostvarivanju funkcije upravljanja Sanacionim fondom, cijeneći iznos ukupnih obaveza umanjenih za stavke regulatornog kapitala i ulazne parametre za izračun rizičnog profila, obračunava iznos doprinosa iz stava 1 ovog člana za svako investiciono društvo.
+Na zahtjev investicionog društva, Komisija može da odobri da se obaveza plaćanja doprinosa iz stava 1 ovog člana izvrši neopozivim obavezama plaćanja doprinosa koje su u potpunosti obezbijeđene sredstvima obezbjeđenja niskog rizika koja nijesu opterećena pravima trećih lica, stoje na raspolaganju i izdvojena su isključivo za potrebe iz člana 143 st. 1 i 2 ovog zakona, s tim da ukupno učešće tih neopozivih obaveza plaćanja ne smije preći 30% ukupnog iznosa doprinosa prikupljenih u skladu sa st. 1 do 4 i st. 6 i 7 ovog člana.
+Sredstva prikupljena iz redovnih doprinosa koriste se isključivo za namjene utvrđene članom 143 ovog zakona.
+Iznosi primljeni od investicionog društva u sanaciji ili prelaznog investicionog društva, kamate i drugi prihodi od ulaganja, kao i drugi prihodi, primjenom instrumenta sanacije u skladu sa ovim zakonom, predstavljaju prihod Sanacionog fonda.
+Bliži način ispunjavanja obaveza uplate doprinosa, izvještavanje i ispunjavanje drugih obaveza u odnosu na uplatu redovnih doprinosa propisuje Komisija.

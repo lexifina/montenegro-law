@@ -1,0 +1,5 @@
+# Član 46
+## Privremena procjena
+Izuzetno, ako okolnosti pojedinog slučaja zahtijevaju hitno postupanje zbog kojih nije moguće izvršiti nezavisnu procjenu vrijednosti na način utvrđen članom 45 ovog zakona, Komisija je dužna da obezbijedi da nezavisni procjenjivač izvrši privremenu procjenu vrijednosti imovine i obaveza investicionog društva, odnosno pravnog lica iz člana 3 tač. 2, 3 i 4 ovog zakona.
+Izuzetno od stava 1 ovog člana, u slučaju da zbog hitnosti postupka nije moguće obezbijediti nezavisnu procjenu vrijednosti, organ za sanaciju može samostalno da izvrši privremenu procjenu vrijednosti imovine i obaveza investicionog društva ili drugog pravnog lica iz člana 3 ovog zakona.
+Privremena procjena vrijednosti iz st. 1 i 2 ovog člana vrši se u skladu sa članom 45 st. 2, 3 i 4 ovog zakona i u mjeri u kojoj je to moguće i izvodljivo u skladu sa članom 45 st. 1, 5 i 7 ovog zakona i uključuje i procjenu dodatnog kapitala za dodatne gubitke i ta procjena mora biti adekvatno obrazložena.

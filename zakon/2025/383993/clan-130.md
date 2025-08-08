@@ -1,0 +1,8 @@
+# Član 130
+## Sanacija filijale koja pripada prekograničnoj grupi u Evropskoj uniji
+Komisija je ovlašćena za postupanje prema filijalama u Evropskoj uniji bez obzira da li podliježu ili ne podliježu postupku sanacije koji sprovodi treća zemlja u slučaju postojanja okolnosti utvrđenih članom 128 ovog zakona.
+Komisija može da izvršava ovlašćenja iz stava 1 ovog člana ako smatra mjeru potrebnom u cilju zaštite javnog interesa i ako je ispunjen jedan od sljedećih uslova:
+1) filijala iz Evropske unije više ne ispunjava ili vjerovatno neće ispunjavati uslove pod kojima je izdato odobrenje za njen rad u Crnoj Gori i nije vjerovatno da bilo koja mjera privatnog sektora, organa nadzora ili treće zemlje može ponovo uspostaviti usklađenost filijale sa tim uslovima ili spriječiti njeno propadanje u razumnom vremenskom roku;
+2) investiciono društvo treće zemlje, prema mišljenju Komisije, nije u mogućnosti, ne želi ili vjerovatno neće biti u mogućnosti da izmiri svoje obaveze povjeriocima ili obaveze koje su nastale ili su knjižene u filijali, kako dospijevaju, a Komisija je uvjerena da u odnosu na to investiciono društvo treće zemlje nije pokrenut ili da neće biti pokrenut postupak sanacije ili stečajni postupak u razumnom vremenskom roku;
+3) relevantni organ treće zemlje je pokrenuo, ili je obavijestio Komisiju o namjeri pokretanja postupka sanacije u odnosu na investiciono društvo treće zemlje.
+Komisija kada preduzme nezavisnu mjeru u odnosu na filijalu u Evropskoj uniji, uzima u obzir ciljeve sanacije i preduzima mjeru u skladu sa primjenljivim principima iz člana 13 ovog zakona i zahtjevima koji se odnose na primjenu instrumenata sanacije iz ovog zakona.

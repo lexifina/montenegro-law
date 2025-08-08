@@ -1,0 +1,5 @@
+# Član 69
+## Primjena dodatnih instrumenata i sanacionih ovlašćenja
+Ako je pokrenut postupak sanacije nad investicionim društvom ili drugim pravnim licem iz člana 3 ovog zakona, Komisija može da primijeni dodatne instrumente i ovlašćenja koji su usklađeni sa čl. 12 i 13 ovog zakona, na način da primjena tih ovlašćenja ne predstavlja prepreku za efikasnu sanaciju prekogranične grupe.
+Komisija može da traži finansiranje iz alternativnih izvora finansiranja korišćenjem državnih instrumenata finansijske stabilizacije u skladu sa ovim zakonom, samo u slučaju sistemske krize, ako su akcionari, imaoci udjela i imaoci odgovarajućih instrumenata kapitala i kvalifikovanih obaveza doprinijeli pokriću gubitaka i dokapitalizaciji smanjenjem, konverzijom ili na drugi način i to u iznosu od najmanje 8% ukupnih obaveza, uključujući regulatorni kapital investicionog društva u sanaciji prema izračunu u trenutku preduzimanja mjere sanacije u skladu sa procjenom vrijednosti iz člana 44 ovog zakona.
+Sistemska kriza iz stava 2 ovog člana je poremećaj u finansijskom sistemu koji može da ima ozbiljne negativne posljedice na unutrašnje tržište i realnu ekonomiju.

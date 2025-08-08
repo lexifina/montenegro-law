@@ -1,0 +1,7 @@
+# Član 114
+## Sanaciona ovlašćenja u odnosu na imovinu, prava, obaveze i vlasničke instrumente koji se nalaze u trećim zemljama
+Ako mjera sanacije obuhvata mjeru preduzetu u vezi imovine koja se nalazi u trećoj zemlji, kao i vlasničkim instrumentima, pravima ili obavezama na koje se primjenjuju propisi druge zemlje, Komisija je ovlašćena da zahtijeva da:
+1) sanaciona uprava i društvo primalac preduzmu sve potrebne radnje kako bi se obezbijedilo da prenos, smanjenje vrijednosti, konvertovanje ili preduzete radnje postanu pravno valjani;
+2) sanaciona uprava raspolaže akcijama ili drugim vlasničkim instrumentima, imovinom, pravima, obavezama ili ispunjava obaveze u ime društva primaoca, dok prenos, smanjenje vrijednosti ili konverzija relevantnih instrumenata kapitala ili preduzete radnje ne postanu pravno valjani;
+3) se opravdani troškovi koji su nastali pri obavljanju radnji iz tač. 1 i 2 ovog stava, od strane društva primaoca nadoknade na način utvrđen članom 72 ovog zakona.
+Ako Komisija procijeni da radnje koje su preduzeli sanaciona uprava i društvo primalac, neće imati zadovoljavajući efekat, neće nastaviti sa daljim prenosom, smanjenjem, konverzijom ili drugim preduzetim radnjama u vezi sa imovinom koja se nalazi u trećoj zemlji, odnosno akcijama ili drugim vlasničkim instrumentima, pravima ili obavezama na koje se primjenjuje zakonodavstvo treće zemlje, a ako je već zahtijevala da se izvrši prenos, smanjenje, konverzija ili preduzimanje druge mjere, povući će zahtjev u dijelu koji se odnosi na imovinu koja se nalazi u toj trećoj zemlji.

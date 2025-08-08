@@ -1,0 +1,9 @@
+# Član 23
+## Postupak donošenja plana sanacije za grupu u Evropskoj uniji ako je Komisija organ za sanaciju grupe
+Prije izrade plana sanacije za grupu, organi za sanaciju savjetuju se sa organima za sanaciju u državama u kojima posluju značajne filijale investicionih društava članova te grupe, u mjeri u kojoj je to važno za tu filijalu.
+Komisija i organi nadležni za sanaciju zavisnih društava, u roku od četiri mjeseca od dana dostavljanja informacija iz člana 22 stav 3 ovog zakona, donose zajedničku odluku o usvajanju plana sanacije za grupu, kojom mogu biti obuhvaćeni svi ili pojedini članovi grupe i koja mora biti detaljno obrazložena.
+Ako zajednička odluka nije donijeta u roku iz stava 2 ovog člana, Komisija samostalno donosi plan sanacije za grupu, vodeći računa o stavovima i izdvojenim mišljenjima drugih organa za sanaciju i rezime ključnih elemenata donesenog plana za grupu dostavlja matičnom investicionom društvu.
+Izuzetno od stava 3 ovog člana, ako je u roku iz stava 2 ovog člana, a prije donošenja zajedničke odluke, Komisija ili organ za sanaciju iz druge države članice u kojoj je sjedište člana grupe, Komisija odlaže donošenje plana sanacije za grupu.
+U slučaju iz st. 3 i 4 ovog člana, Komisija donosi plan sanacije grupe u skladu sa tom odlukom, a ako nije, Komisija samostalno donosi plan sanacije za grupu.
+U slučaju donošenja zajedničke odluke iz stava 2 ovog člana i u slučaju iz stava 5 ovog člana, kada pojedini organ za sanaciju smatra da je razlog njihovog neslaganja sa planom sanacije za grupu negativan uticaj na fiskalnu odgovornost te države članice, Komisija ponovo procjenjuje plan sanacije grupe, uključujući minimalne zahtjeve za regulatornim kapitalom i kvalifikovanim obavezama.
+Postupak donošenja plana sanacije za grupu u Evropskoj uniji kada Komisija nije organ za

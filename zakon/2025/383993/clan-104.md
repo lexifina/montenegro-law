@@ -1,0 +1,5 @@
+# Član 104
+## Plan reorganizacije poslovanja za grupu
+Ako se instrument interne sanacije iz člana 93 stav 1 tačka 1 ovog zakona primjenjuje na grupu u Crnoj Gori, plan reorganizacije poslovanja, priprema matično investiciono društvo u grupi, po pravilima koja se primjenjuju prilikom pripreme planova oporavka u skladu sa zakonom kojim se uređuje tržište kapitala i dostavlja ga Komisiji.
+Ako se instrument interne sanacije iz člana 93 stav 1 tačka 1 ovog zakona primjenjuje na dva ili više članova grupe, matično investiciono društvo u grupi u Evropskoj uniji za koje je Komisija nadležan organ za sanaciju, izradiće plan reorganizacije poslovanja koji uključuje sve članove grupe, po pravilima koja se primjenjuju pri pripremi planova oporavka grupe u skladu sa zakonom kojim se uređuje tržište kapitala i dostaviće ga Komisiji.
+Plan reorganizacije iz stava 2 ovog člana, Komisija dostavlja organima nadležnim za sanaciju investicionih društava u državama članicama u kojima članovi grupe imaju sjedište.

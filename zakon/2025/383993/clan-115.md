@@ -1,0 +1,15 @@
+# Član 115
+## Isključenje određenih ugovornih uslova pri sanaciji
+U odnosu na ugovorne obaveze pravnog lica na koje se primjenjuje ovaj zakon i nad kojim je primijenjena mjera za sprečavanje krize ili mjera za upravljanje krizom u skladu sa ovim zakonom, primjena tih mjera, uključujući i nastupanje događaja direktno povezanog sa primjenom tih mjera, ne smatra se pretpostavkom za realizaciju instrumenta finansijskog obezbjeđenja u skladu sa zakonom kojim se uređuje finansijsko obezbjeđenje ili stečajnim razlogom u skladu sa zakonom kojim se uređuje stečajni postupak, ako se te ugovorne obaveze i dalje u značajnoj mjeri izvršavaju, uključujući plaćanja odnosno isporuku, sticanje, korišćenje i raspolaganje instrumentom finansijskog obezbjeđenja.
+Odredba stava 1 ovog člana primjenjuje se i na ugovore koje je zaključilo:
+1) zavisno lice pravnog lica iz stava 1 ovog člana, ako pravno lice ili drugi član grupe jemči ili na drugi način obezbjeđuje ugovorne obaveze tog zavisnog lica;
+2) član grupe kojoj pripada pravno lice iz stava 1 ovog člana, ako ugovor uključuje odredbe o unakrsnom statusu neispunjenja obaveza (cross-default provisions).
+Ako se postupci sanacije u drugim zemljama priznaju u skladu sa članom 128 ovog zakona, odnosno kada Komisija donese odluku o sanaciji, taj postupak će se smatrati mjerom za upravljanje krizom u skladu sa ovim zakonom.
+Ako se i dalje u značajnoj mjeri izvršavaju ugovorne obaveze, odnosno isporuka, sticanje, korišćenje i raspolaganje instrumentom finansijskog obezbjeđenja, primjena mjere za sprečavanje krize ili mjere za upravljanje krizom, uključujući nastupanje događaja direktno povezanog sa primjenom tih mjera, onemogućava:
+1) raskid ugovora, odlaganje, izmjenu, netiranje ili poravnanje, uključujući:
+a) ugovorne obaveze zavisnog lica pravnog lica iz stava 1 ovog člana, ako pravno lice ili drugi član grupe jemči ili na drugi način obezbjeđuje ugovorne obaveze tog zavisnog lica;
+b) ugovorne obaveze člana grupe kojoj pripada pravno lice iz stava 1 ovog člana, ako ugovor sadrži odredbe o unakrsnom statusu neispunjenja obaveza (cross-default provisions);
+2) sticanje svojine, kontrolu ili prinudnu realizaciju prava zaloge imovinom pravnog lica iz stava 1 ovog člana, uključujući i ugovorne obaveze člana grupe kojoj pravno lice iz stava 1 ovog člana pripada, ako ugovor sadrži odredbe o unakrsnom statusu neispunjenja obaveza;
+3) uticaj na prava iz ugovora pravnog lica iz stava 1 ovog člana, uključujući ugovorne obaveze bilo kojeg člana grupe kojoj pripada pravno lice iz stava 1 ovog člana, ako ugovor sadrži odredbe o unakrsnom statusu neispunjenja obaveza.
+Odredbe st. 1, 2 i 3 ovog člana ne utiču na pravo fizičkog ili pravnog lica da preduzme radnje iz stava 4 ovog člana, ako to pravo nastaje na osnovu događaja koji nije posljedica primjene mjere za sprečavanje krize ili mjere za upravljanje krizom uključujući nastupanje događaja direktno povezanog sa primjenom tih mjera.
+Odlaganje ili ograničenje iz čl. 116, 117 i 118 ovog zakona ne smatra se neizvršenjem ugovorne obaveze iz st. 1, 2 i 3 ovog člana.

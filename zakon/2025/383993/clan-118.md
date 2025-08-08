@@ -1,0 +1,18 @@
+# Član 118
+## Privremeno odlaganje prava na otkaz ugovora
+Komisija može da donese rješenje o privremenom odlaganju prava druge ugovorne strane na otkazivanje ugovornog odnosa sa investicionim društvom u sanaciji, pod uslovom da se i dalje izvršavaju ugovorne obaveze, osim ako je u vezi sa tim obavezama sprovedeno ovlašćenje odlaganja plaćanja ili ispunjenja obaveza iz člana 116 ovog zakona, uključujući plaćanja i izdavanje instrumenata obezbjeđenja.
+Rješenje o odlaganju iz stava 1 ovog člana može biti sastavni dio rješenja o pokretanju postupka sanacije iz člana 36 ovog zakona.
+Komisija je dužna da obavještenje o donošenju rješenja iz stava 1 ovog člana odmah objavi na način propisan članom 41 ovog zakona i da u tom obavještenju navede dan, sat i minut nastupanja odlaganja iz stava 1 ovog člana.
+Odlaganje iz stava 1 ovog člana primjenjuje se od trenutka navedenog u dispozitivu rješenja o odlaganju i traje do ponoći sljedećeg radnog dana računajući od dana navedenog u dispozitivu rješenja o odlaganju.
+Ovlašćenje iz stava 1 ovog člana može da se odnosi i na ugovorne odnose koje je druga ugovorna strana zaključila sa zavisnim licem investicionog društva u sanaciji ako:
+1) za te ugovorne obaveze jemči ili ih na drugi način obezbjeđuje investiciono društvo u sanaciji;
+2) je pravo otkaza ugovora zasnovano isključivo na insolventnosti, odnosno finansijskom stanju investicionog društva u sanaciji; i
+3) se na investiciono društvo u sanaciji primjenjuje ili se može primijeniti ovlašćenje za prenos i to ako su sva imovina ili obaveze zavisnog lica povezane sa tim ugovorom prenesene ili se mogu prenijeti primaocu koji ih je preuzeo ili će preuzeti, ili ako organ nadležan za sanaciju na drugi način jemči za te obaveze.
+Ovlašćenje za prenos iz stava 5 tačka 3 ovog člana je ovlašćenje iz člana 109 stav 1 tač. 4 i 5 ovog zakona za prenos akcija, ostalih vlasničkih instrumenata, dužničkih instrumenata, imovine, prava ili obaveza ili druge kombinacije prenosa tih instrumenata sa investicionog društva u sanaciji na primaoca.
+Odlaganje iz stava 1 ovog člana primjenjuje se od trenutka navedenog u dispozitivu rješenja o odlaganju i traje do ponoći sljedećeg radnog dana računajući od dana navedenog u dispozitivu rješenja o odlaganju.
+Izuzetno od st. 1 i 5 ovog člana rješenje o odlaganju se ne primjenjuje na sisteme ili operatere sistema iz zakona kojim se uređuje konačnost poravnanja u platnim sistemima i konačnost saldiranja u sistemu finansijskih instrumenata.
+Izuzetno od st. 1 do 8 ovog člana ugovorna strana može da otkaže ugovor prije isteka perioda odlaganja ako primi obavještenje Komisije da se prava i obaveze obuhvaćeni ugovorom ne prenose na primaoca ili neće biti smanjene ili konvertovane pri primjeni instrumenta interne sanacije u skladu sa članom 93 stav 1 tačka 1 ovog zakona.
+Pravo otkaza ugovora iz st. 1 i 5 ovog člana može da se izvrši po isteku roka odlaganja na sljedeći način:
+1) ako su prava ili obaveze obuhvaćene ugovorom prenesene na primaoca, druga ugovorna strana može otkazati ugovor samo ako nakon trenutka prenosa nastupe uslovi za otkaz ugovora u odnosu na primaoca;
+2) kada prava ili obaveze obuhvaćene ugovorom ostaju u investicionom društvu u sanaciji i ako organ za sanaciju nije primijenio instrument interne sanacije u skladu sa članom 93 stav 1 tačka 1 ovog zakona na taj ugovor, druga ugovorna strana može otkazati ugovor ako nakon isteka roka odlaganja nastupe uslovi za otkaz ugovora.
+Komisija prilikom donošenja rješenja iz st. 1 i 5 ovog člana cijeni uticaj koji bi izvršavanje tog ovlašćenja moglo da ima na uredno funkcionisanje finansijskih tržišta.

@@ -1,0 +1,4 @@
+# Član 140
+## Zaštita sistema trgovanja, kliringa i saldiranja
+Komisija, primjenom instrumenata sanacije ne smije da utiče na rad i pravila sistema koji su uređeni propisima kojima se uređuje konačnost poravnanja u platnim sistemima i sistemima za saldiranje finansijskih instrumenata, ako izvršava djelimični prenos imovine, prava i obaveza sa investicionog društva u sanaciji na drugi subjekat, ili ako primjenom dodatnih sanacionih ovlašćenja mijenja ili otkazuje uslove iz ugovora u kojima je investiciono društvo u sanaciji ugovorna strana, odnosno obezbjeđuje da društvo primalac stupi na njeno mjesto kao stranka.
+Prenosom, izmjenom ili otkazom uslova iz stava 1 ovog člana ne opoziva se, ne mijenja ili uskraćuje izvršenje naloga za prenos i poravnanje u platnim sistemima i sistemima za saldiranje finansijskih instrumenata, kao i korišćenje fondova, hartija od vrijednosti ili zajmova na propisani način.

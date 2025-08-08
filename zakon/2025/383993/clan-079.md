@@ -1,0 +1,12 @@
+# Član 79
+## Instrument prelaznog investicionog društva
+Prenos akcija ili drugih vlasničkih instrumenata koje je emitovalo jedno ili više investicionih društava u sanaciji i/ili imovine, prava ili obaveza jednog ili više investicionih društava u sanaciji, u cjelosti ili djelimično na prelazno investiciono društvo, vrši se odlukom Komisije, radi ostvarivanja ciljeva sanacije iz člana 12 ovog zakona.
+Ako je rješenjem o pokretanju postupka sanacije određeno da se sanacija sprovodi prenosom akcija ili drugih vlasničkih instrumenata emitovanih od strane jednog ili više investicionih društava u sanaciji na prelazno investiciono društvo, Komisija donosi odluku o osnivanju prelaznog investicionog društva prenosom vlasničkih instrumenata investicionog društva u sanaciji.
+Ako je rješenjem o pokretanju postupka sanacije određeno da se sanacija sprovodi prenosom imovine, prava ili obaveza investicionog društva u sanaciji u cjelosti ili djelimično na prelazno investiciono društvo, Komisija donosi odluku o odvajanju investicionog društva u sanaciji osnivanjem prelaznog investicionog društva sa imovinom, pravima i obavezama investicionog društva u sanaciji i ovlašćuje sanacionu upravu da sprovede taj prenos na prelazno investiciono društvo.
+Prelazno investiciono društvo iz stava 2 ovog člana osniva se kao akcionarsko društvo koje obavlja djelatnost holdinga, čije akcije ili druge vlasničke instrumente u cjelosti ili djelimično upisuje Komisija.
+Prelazno investiciono društvo je pravno lice i ima status investicionog društva u sanaciji.
+Odluku iz st. 2 i 3 ovog člana Komisija bez odlaganja dostavlja investicionom društvu u sanaciji i Centralnom klirinško depozitarnom društvu.
+O odluci iz st. 2 i 3 ovog člana prelazno investiciono društvo dužno je da bez odlaganja obavijesti lica na koja se odluka odnosi u dijelu u kojem se odluka odnosi na ta lica.
+Ovlašćenja skupštine prelaznog investicionog društva izvršava Komisija, a sanaciona uprava ima ovlašćenja nadzornog i upravnog odbora prelaznog investicionog društva.
+Za prenos iz stava 1 ovog člana nije potrebna saglasnost akcionara ili imaoca udjela investicionog društva u sanaciji, kao ni usklađenost i postupanje u skladu sa zahtjevima postupka iz zakona kojim se uređuje poslovanje privrednih društava ili tržište kapitala koji su suprotni ovom članu u dijelu kojim se reguliše restrukturiranje akcionarskih društava.
+Odluka iz stava 1 ovog člana osporava se na način utvrđen članom 42 ovog zakona.

@@ -1,0 +1,7 @@
+# Član 155
+## Prelazni period za dostizanje ciljnog nivoa sredstava Sanacionog fonda
+Prvu uplatu redovnog godišnjeg doprinosa za Sanacioni fond investiciona društva su dužna da izvrše u roku od 36 mjeseci od dana početka primjene ovog zakona.
+Sredstva Sanacionog fonda u skladu sa članom 144 stav 1 ovog zakona moraju u roku od deset godina od početka primjene ovog zakona dostići nivo od najmanje 1% iznosa zaštićenih potraživanja svih investicionih društava kojima je Komisija izdala dozvolu za rad, a prema revidiranim finansijskim izvještajima za prethodnu godinu.
+Tokom perioda iz stava 1 ovog člana doprinosi Sanacionom fondu koji se prikupljaju u skladu sa članom 142 ovog zakona, u mjeri u kojoj je to moguće, vremenski se ravnomjerno raspodjeljuju do dostizanja propisanog nivoa.
+Izuzetno od stava 3 ovog člana Komisija može da odluči, uzimajući u obzir fazu poslovnog ciklusa i uticaj koji prociklični doprinosi mogu imati na finansijski položaj investicionih društava koja uplaćuju doprinose i utvrdi drugačiju raspodjelu doprinosa Sanacionom fondu u periodu iz stava 1 ovog člana.
+Izuzetno od stava 1 ovog člana Komisija može produžiti rok iz stava 1 ovog člana za najviše četiri godine ako je iz Sanacionog fonda tokom perioda iz stava 1 ovog člana isplaćen ukupan iznos sredstava veći od 0,5% zaštićenih potraživanja svih investicionih društava kojima je Komisija izdala dozvolu za rad, a prema revidiranim finansijskim izvještajima za prethodnu godinu.

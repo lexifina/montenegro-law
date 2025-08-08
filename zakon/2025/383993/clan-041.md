@@ -1,0 +1,10 @@
+# Član 41
+## Javno objavljivanje i dostavljanje rješenja i odluka u postupku sanacije
+Komisija je dužna da na svojoj internet stranici objavi rješenje o pokretanju postupka sanacije i druga rješenja i odluke kojima se sprovodi rješenje o pokretanju postupka sanacije ili obavještenje sa kratkim pregledom dejstva mjera sanacije, a naročito uticaja tih mjera na fizička lica, mikro, mala i srednja privredna društva.
+Investiciono društvo je dužno da, istog dana po prijemu, na svojoj internet stranici objavi rješenje o pokretanju postupka sanacije i rješenja i odluke kojima se sprovodi rješenje o pokretanju postupka sanacije.
+Ako se akcije ili drugi vlasnički instrumenti ili dužnički instrumenti investicionog društva u sanaciji kotiraju na berzi, investiciono društvo je dužno da o pokretanju postupka sanacije obavijesti tu berzu, koja je dužna da tu informaciju objavi u skladu sa pravilima berze.
+Komisija je dužna da vlasnike akcija ili drugih vlasničkih ili dužničkih instrumenata investicionog društva u sanaciji koji se ne kotiraju na berzi o pokretanju postupka sanacije obavijesti na način propisan zakonom kojim se uređuje upravni postupak.
+Ako rješenje o pokretanju postupka sanacije odnosno rješenja kojima se sprovodi rješenje o pokretanju postupka sanacije predviđaju odlaganje, odnosno ograničenja iz čl. 116, 117 i 118 ovog zakona, obavještenja o uslovima i periodu tog odlaganja ili ograničenja objavljuju se na način iz stava 1 ovog člana.
+Rješenja iz čl. 116, 117 i 118 ovog zakona Komisija dostavlja Regulisanom tržištu i Centralnom klirinško depozitarnom društvu.
+Komisija je dužna da investicionom društvu u sanaciji dostavi sva rješenja koja donosi radi sprovođenja rješenja o pokretanju postupka sanacije, a investiciono društvo u sanaciji dužno je da o tome odmah obavijesti lica na koja se rješenje odnosi, u dijelu u kojem se rješenje odnosi na ta lica.
+Pravno dejstvo rješenja iz stava 6 ovog člana nastupa danom izvršnosti u skladu sa zakonom kojim se uređuje upravni postupak i od tog trenutka se može koristiti pravo na pravni lijek iz člana 42 stav 1 ovog zakona.
