@@ -1,0 +1,8 @@
+# Član 16
+## Povjeravanje vođenja poslovnih knjiga i sastavljanja finansijskih iskaza drugom pravnom licu, odnosno preduzetniku
+Vođenje poslovnih knjiga i sastavljanje finansijskih iskaza pravno lice može da povjeri ugovorom u skladu sa zakonom, pravnom licu ili preduzetniku, koji je upisan u Registar pružalaca računovodstvenih usluga.
+Pravno lice iz stava 1 ovog člana dužno je da kod Poreske uprave registruje ugovor o povjeravanju poslova računovodstva pružaocu usluga, odnosno da evidentira odgovorno lice za vođenje poslovnih knjiga i sastavljanje finansijskih iskaza.
+Izuzetno od stava 1 ovog člana, povezana pravna lica mogu da povjere vođenje poslovnih knjiga i sastavljanje finansijskih iskaza svom povezanom pravnom licu.
+Odredbe st. 1 i 2 ovog člana ne odnose se na Centralnu banku Crne Gore, kreditne i druge finansijske institucije, Razvojnu banku Crne Gore, osiguravajuća društva, investiciona društva, investicione fondove, društva za upravljanje investicionim fondovima, dobrovoljne penzione fondove, društva za upravljanje dobrovoljnim penzionim fondovima.
+Pravno lice, odnosno preduzetnik, koje ima registrovanu pretežnu djelatnost za pružanje računovodstvenih usluga internim aktom određuje lice koje je odgovorno za vođenje poslovnih knjiga i sastavljanje finansijskih iskaza za klijente kojima se pružaju usluge vođenja poslovnih knjiga i sastavljanja finansijskih iskaza u skladu sa ovim zakonom.
+Za zakonitost poslovanja pružaoca računovodstvenih usluga i obavljanje djelatnosti u skladu sa ovim zakonom odgovoran je izvršni direktor, odnosno odgovorno lice u tom pravnom licu, odnosno preduzetnik.

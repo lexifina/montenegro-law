@@ -1,0 +1,5 @@
+# Član 2
+## Primjena
+Ovaj zakon primjenjuje se na pravna lica koja su osnovana u Crnoj Gori u skladu sa zakonom kojim se uređuju privredna društva i drugim posebnim propisima, Centralnu banku Crne Gore, kreditne i druge finansijske institucije, Razvojnu banku Crne Gore, društva za osiguranje i reosiguranje (u daljem tekstu: osiguravajuća društva), investiciona društva, investicione fondove, društva za upravljanje investicionim fondovima, dobrovoljne penzione fondove, društva za upravljanje dobrovoljnim penzionim fondovima, druge kolektivne investicione šeme, zadruge i ustanove koje obavljaju djelatnost radi sticanja dobiti.
+Ovaj zakon primjenjuje se i na pravna lica i druge oblike organizovanja koje je pravno lice osnovalo u inostranstvu, ako za njih propisima tih država nije utvrđena obaveza vođenja poslovnih knjiga i sastavljanja finansijskih izvještaja.
+Ovaj zakon primjenjuje se i na ogranke i druge organizacione djelove pravnih lica sa sjedištem u inostranstvu, koji obavljaju privrednu djelatnost u Crnoj Gori, ako posebnim propisima nije drugačije uređeno.

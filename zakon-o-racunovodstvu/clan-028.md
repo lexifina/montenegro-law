@@ -1,0 +1,15 @@
+# Član 28
+## Konsolidovani iskazi
+Konsolidovani godišnji finansijski izvještaji su finansijski izvještaji grupe pravnih lica u kojoj jedno pravno lice (u daljem tekstu: matično pravno lice) ima kontrolu (dominantan uticaj) nad jednim ili više zavisnih pravnih lica prilikom utvrđivanja finansijskih i poslovnih politika, a prikazuje grupu kao cjelinu.
+Pravno lice koje ima sjedište u Crnoj Gori i koje u grupi pravnih lica predstavlja matično društvo dužno je da sastavi godišnje konsolidovane finansijske izvještaje, odnosno konsolidovani izvještaj menadžmenta.
+Matično pravno lice dužno je da sastavlja, dostavlja i objavljuje konsolidovane finansijske izvještaje u skladu sa ovim zakonom, MRS i MSFI.
+Matičnim pravnim licem, u smislu ovog zakona, smatra se pravno lice koje:
+1) ima direktnu ili indirektnu većinu glasačkih prava u drugom pravnom licu;
+2) ima pravo da imenuje ili razriješi većinu članova upravnog ili nadzornog odbora, ili izvršnog direktora drugog pravnog lica, kao član odnosno akcionar tog pravnog lica;
+3) ima pravo da vrši odlučujuću kontrolu (dominantan uticaj) nad drugim pravnim licem čiji je akcionar ili član na osnovu ugovora zaključenog sa tim pravnim licem, na osnovu osnivačkog akta, ili statuta tog pravnog lica;
+4) je ostvarivanjem prava glasa kao člana ili akcionara zavisnih pravnih lica imenovalo većinu članova uprave ili nadzornog odbora, upravnog odbora ili izvršnih direktora, odnosno drugog upravljačkog ili nadzornog tijela tih pravnih lica, koji su tu funkciju obavljali u prethodnoj poslovnoj godini i obavljaju je u tekućoj poslovnoj godini do sastavljanja godišnjih finansijskih izvještaja;
+5) ima kontrolu nad većinom glasačkih prava akcionara ili članova u zavisnom pravnom licu na osnovu sporazuma s drugim akcionarima ili članovima u tom pravnom licu i istovremeno je akcionar ili član;
+6) na jedinstvenoj osnovi na osnovu ugovora, osnivačkog akta ili statuta upravlja matičnim ili zavisnim pravnim licem, ili
+7) je dužno da primjenjuje MSFI pojedinačno ili kao grupa i da u skladu sa tim standardima sastavlja konsolidovane finansijske izvještaje.
+U slučajevima iz stava 4 tač. 1, 2, 4 i 5 ovog člana glasačkim pravima, pravima imenovanja, odnosno pravima razrješenja koje ima matično pravno lice dodaju se ekvivalentna prava njegovih zavisnih pravnih lica i prava koja imaju druga lica u svoje ime, a za račun pravnih lica ili njegovih zavisnih pravnih lica, a oduzimaju se ekvivalentna prava koja se vrše u ime lica koje nije matično pravno lice ili njegovo zavisno pravno lice ili ih pravno lice vrši u okviru ugovorenog obezbjeđenja plaćanja pod uslovom da pravno lice glasa u skladu sa nalogom, odnosno u interesu lica koje je dalo sredstvo obezbjeđenja plaćanja.
+Radi utvrđivanja kontrole (dominantnog uticaja) matičnog pravnog lica iz stava 4 tač. 1, 4 i 5 ovog člana od ukupnih glasačkih prava u zavisnom pravnom licu oduzimaju se glasačka prava koja ima to zavisno pravno lice, njegovo zavisno pravno lice ili lice koje djeluje u svoje ime, a za račun tih pravnih lica.

@@ -1,0 +1,8 @@
+# Član 19
+## Profesionalno usavršavanje i obaveze pružaoca računovodstvenih usluga
+Radi održavanja teorijskog znanja i stručnih vještina, lice iz člana 18 stav 2 tačka 3 i člana 18 stav 3 ovog zakona je dužno da se kontinuirano profesionalno usavršava u skladu sa Crnogorskim obrazovnim računovodstvenim standardom CORS-1.
+Pravno lice, odnosno preduzetnik, kome je izdata dozvola za pružanje računovodstvenih usluga je dužno jednom godišnje do 15. februara tekuće za prethodnu godinu da izvještava Ministarstvo o kontinuiranom profesionalnom usavršavanju iz stava 1 ovog člana.
+Pravno lice, odnosno preduzetnik, koje ima izdatu dozvolu za pružanje računovodstvenih usluga dužno je da obavijesti Ministarstvo o promjenama svih činjenica i okolnosti na osnovu kojih je upisano u Registar u roku od osam dana od dana nastanka promjene.
+Pružalac računovodstvenih usluga koji vodi poslovne knjige velikih pravnih lica mora da ima lice iz člana 18 stav 2 tačka 3 ovog zakona, sa zvanjem sertifikovanog računovođe u skladu sa čl. 23 i 24 ovog zakona.
+Pružalac računovodstvenih usluga koji vodi poslovne knjige mikro pravnih lica i preduzetnika može da bude i sa stečenim srednjim obrazovanjem (IV nivo nacionalnog okvira kvalifikacija) i odgovarajućim profesionalnim zvanjem, odnosno uz uslov da to lice posjeduje profesionalno zvanje u oblasti računovodstva, koje je stečeno kod profesionalne organizacije u Crnoj Gori, članice Međunarodne federacije računovođa, u skladu sa Crnogorskim obrazovnim računovodstvenim standardom CORS-1.
+Program i način profesionalnog usavršavanja iz stava 1 ovog člana propisuje Ministarstvo.

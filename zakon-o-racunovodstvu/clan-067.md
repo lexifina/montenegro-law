@@ -1,0 +1,4 @@
+# Član 67
+## Važenje sertifikata
+Sertifikat sertifikovanog računovođe izdat u skladu sa odredbama Zakona o računovodstvu i reviziji („Službeni list RCG“, broj 69/05 i „Službeni list CG“, br. 80/08 i 32/11), Zakona o računovodstvu („Službeni list CG", broj 52/16) i Zakona o računovodstvu („Službeni list CG“, br. 145/21 i 152/22) ostaje na snazi.
+Lica koja su stekla profesionalna zvanja u skladu sa Zakonom o računovodstvu („Službeni list SRJ“, br. 46/96, 74/99, 22/01 i 71/01) i Zakonom o računovodstvu i reviziji („Službeni list SRJ“, broj 71/02) i u skladu sa odredbama Zakona o računovodstvu i reviziji („Službeni list RCG“, broj 69/05 i „Službeni list CG“, br. 80/08 i 32/11), Zakona o računovodstvu („Službeni list CG“, broj 52/16), mogu ta zvanja shodno koristiti za ispunjavanje zahtjeva iz člana 18 stav 4 alineja 1 ovog zakona.

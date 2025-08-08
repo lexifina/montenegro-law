@@ -1,0 +1,15 @@
+# Član 42
+## Dostavljanje finansijskih izvještaja
+Pravno lice dužno je da dostavlja finansijske iskaze, izvještaj menadžmenta i druge izvještaje, osim izvještaja o informacijama o porezu na dobit, u skladu sa ovim zakonom u pisanom i elektronskom obliku Poreskoj upravi najkasnije do 31. marta tekuće, za prethodnu godinu.
+Pravno lice dužno je da konsolidovane finansijske izvještaje, konsolidovani izvještaj menadžmenta i druge konsolidovane izvještaje u skladu sa ovim zakonom u pisanom i elektronskom obliku dostavi Poreskoj upravi najkasnije do 31. maja tekuće, za prethodnu godinu.
+Pravno lice dužno je da u slučaju statusne promjene, stečaja ili dobrovoljne likvidacije dostavi finansijske iskaze Poreskoj upravi u roku od 90 dana od dana koji prethodi statusnoj promjeni, otvaranju stečajnog postupka ili pokretanju postupka likvidacije.
+Pravno lice dužno je da dostavlja izvještaj o informacijama o porezu na dobit u pisanom i elektronskom obliku Poreskoj upravi najkasnije do 31. maja tekuće, za prethodnu godinu.
+Uz iskaze iz st. 1, 2 i 3 ovog člana dostavlja se i statistički aneks.
+Poreska uprava je dužna da izvještaje pravnih lica iz st. 1 do 4 ovog člana objavljuje na svojoj internet stranici.
+Mikro i mala pravna lica dužna su da Poreskoj upravi dostave bilans stanja, bilans uspjeha, pojednostavljene napomene i statistički aneks.
+Pravno lice koje emituje hartije od vrijednosti i druge finansijske instrumente kojima se trguje na organizovanom tržištu, kao i matično pravno lice koje je dužno da sastavlja konsolidovane finansijske iskaze, dužno je da u pisanom i elektronskom obliku sačinjava i dostavlja Komisiji za tržište kapitala Crne Gore (u daljem tekstu: Komisija) godišnje i kvartalne finansijske izvještaje.
+Finansijske izvještaje iz stava 8 ovog člana, Komisija objavljuje na svojoj internet stranici.
+Kreditne i druge finansijske institucije su dužne da, u pisanom i elektronskom obliku, sačinjavaju i dostavljaju godišnje i kvartalne finansijske izvještaje Centralnoj banci Crne Gore (u daljem tekstu: Centralna banka), a osiguravajuća društva, u pisanom i elektronskom obliku, sačinjavaju i dostavljaju godišnje i kvartalne finansijske izvještaje Agenciji za nadzor osiguranja (u daljem tekstu: Agencija).
+Finansijske izvještaje iz stava 10 ovog člana Centralna banka i Agencija objavljuju na svojim internet stranicama.
+Na postupke koji se vode elektronskim putem primjenjuju se zakoni kojima se uređuje elektronska uprava, elektronska identifikacija i elektronski potpis, elektronski dokument, elektronska trgovina, informaciona bezbjednost, slobodan pristup informacijama i zaštita podataka o ličnosti.
+Sadržaj, rokove i način sačinjavanja i dostavljanja iskaza iz stava 8 ovog člana utvrđuje Komisija, sadržaj, rokove i način sačinjavanja i dostavljanja izvještaja kreditnih i drugih finansijskih institucija iz stava 10 ovog člana propisuje Centralna banka, a sadržaj, rokove i način sačinjavanja i dostavljanja izvještaja osiguravajućih društava utvrđuje Agencija.
