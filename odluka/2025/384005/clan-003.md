@@ -1,0 +1,2 @@
+# Član 3
+Pravo na dodjelu sredstava u iznosu do 3.000 EUR imaju bračni, odnosno vanbračni supružnici, odnosno žena koja ne živi u bračnoj ili vanbračnoj zajednici sa prebivalištem na teritoriji Opštine Ulcinj, a koja je saglasno sa članom 14 stav 1 tačka 19 Zakona o obaveznom zdravstvenom osiguranju, a koji iskoristili pravo na lečenje neplodnosti postupcima MPO na teret troškova obaveznog zdravstvenog osiguranja.
