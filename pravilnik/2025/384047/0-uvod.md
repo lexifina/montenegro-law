@@ -1,0 +1,2 @@
+Na osnovu člana 163 stav 4 Zakona o socijalnoj i dječjoj zaštiti (,,Službeni list CG", br. 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/21, 145/21, 3/23, 48/24 i 33/25), Ministarstvo socijalnog staranja, brige o porodici i demografije donijelo je
+P R A V I L N I K O VRŠENJU NADZORA NAD STRUČNIM RADOM USTANOVA, DRUGIH OBLIKA ORGANIZOVANJA I FIZIČKIH LICA KOJI OBAVLJAJU DJELATNOST SOCIJALNE I DJEČJE ZAŠTITE
