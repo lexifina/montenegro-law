@@ -1,0 +1,2 @@
+Na osnovu člana 16. stav 1. Zakona o spomen-obilježjima ("Službeni list Crne Gore", br. 40/08, 40/11 i 2/17), člana 38. stav 1. Statuta opštine Ulcinj ("Službeni list CG - Opštinski propisi", br. 48/2019 i 5/2024), u skladu sa Programom podizanja spomen-obilježja u opštini Ulcinj za 2023. godinu ("Službeni list Crne Gore - Opštinski propisi", broj 17/23) i uz prethodnu saglasnost Ministarstva kulture i medija Crne Gore, Rješenje broj: UPI-13-041/25-190/3 od 16. 6. 2025. godine, Skupština opštine Ulcinj, na sjednici održanoj 22. 7. 2025. godine, donijela je
+ODLUKU
