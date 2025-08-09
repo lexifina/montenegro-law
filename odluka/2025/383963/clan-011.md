@@ -1,0 +1,3 @@
+# Član 11
+Predsjednik, zamjenik predsjednika, članovi i sekretar Nacionalnog savjeta imaju pravo na naknadu za rad za mjesece u kojima se održavaju sjednice Nacionalnog savjeta, u skladu sa članom 2 Odluke o kriterijumima za utvrđivanje visine naknade za rad člana radnog tijela ili drugog oblika rada ("Službeni list CG", br. 26/12, 34/12, 27/13, 44/22 i 78/22).
+Naknada iz stava 1 ovog člana isplaćuje se, jednom godišnje, iz budžetskih sredstava organa, organizacija i institucija na čiji predlog su određeni predsjednik, zamjenik predsjednika, članovi i sekretar Nacionalnog savjeta, a naknada za članove iz člana 2 stav 4 tač. 36 i 39 ove odluke isplaćuje se iz budžetskih sredstava Generalnog sekretarijata Vlade.
