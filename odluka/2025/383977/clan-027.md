@@ -1,0 +1,4 @@
+# Član 27
+Izuzetno nadležni organ može odobriti produženo radno vrijeme najduže od 1 sat propisanog i to: Izuzetno nadležni organ može odobriti radno vrijeme duže od propisanog u trajanju do 1 sat (najduže do 03:00 časa) za objekte u kojima se pružaju ugostiteljske usluge ishrane i pića, u kojima se ne emituje muzika sa električnim ozvučenjem i koji se ne nalaze u sklopu stambenog objekta. Objekti iz prethodnog stava mogu ostvariti pravo iz stava 2 ovog člana samo za period od 15.juna do 15. Septembra od dana stupanja na snagu ove odluke.
+Trgovinskim objektima koji se bave prometom životnih namirnica i duže od 1 sat, koji mogu raditi od 00,00 do 24,00 časova, pod uslovima sa obavezom isticanja na objektu radnog vremena "NON- STOP".
+Ugostiteljskim objektima tipa brze hrane (za usluge proizvodima za ponijeti ili koji se konzumiraju u hodu bez usluživanja) i pekarama koje mogu raditi do 02,00 časova u ljetnjem periodu.

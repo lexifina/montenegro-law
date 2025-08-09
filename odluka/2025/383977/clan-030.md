@@ -1,0 +1,3 @@
+# Član 30
+Novčanom kaznom od 500 eura do 10.000 eura kazniće se za prekršaj pravno lice ako:
+- ne donese odluku o rasporedu radnog vremena (član 3), - ne istakne ovjerenu odluku o rasporedu radnog vremena na ulazu u poslovnu prostoriju (član 6 i 7), - ne obavlja djelatnost u vremenu koje je predviđeno ovom Odlukom ili Odlukom poslovodnog organa čl. (7, 8, 9, 10, 11, 13, 14, 16, 17, 18, 19, 20 i 21), - ne istakne obavještenje o nazivu i adresi dežurne prodavnice u dane praznika i nedjeljom (član 6 i 7), - ne dostavi Odluku o rasporedu radnog vremena nadležnom organu (član 3 i 31), Za prekršaj iz stava 1 ovog člana kazniće se preduzetnik novčanom kaznom u iznosu od 150 eura do 3.000 eura, i za odgovorno lice u pravnom licu.
