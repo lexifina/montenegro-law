@@ -1,0 +1,4 @@
+# Član 5
+Ukupna finalna potrošnja električne energije iz obnovljivih izvora izračunava se kao količina električne energije proizvedene iz obnovljivih izvora uključujući i proizvodnju električne energije kupaca-proizvođača sopstvene obnovljive energije i kupaca - proizvođača koji zajednički proizvode električnu energiju, pri čemu nije uključena proizvodnja električne energije u reverzibilnim hidroelektranama iz vode koja je pumpnim postrojenjem prethodno bila premještena iz donje akumulacije u gornju akumulaciju.
+Za proizvodne objekte koji koriste obnovljive i konvencionalne izvore energije, u postupku izračunavanja ukupne finalne potrošnje električne energije iz obnovljivih izvora, uzima se u obzir samo dio električne energije proizvedene iz obnovljivih izvora.
+Proizvedena električna energija iz svakog izvora iz stava 2 ovog člana izračunava se na osnovu njegovog energetskog sadržaja.

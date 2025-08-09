@@ -1,0 +1,2 @@
+# Član 17
+Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o načinu izračunavanja udjela energije iz obnovljivih izvora u ukupnoj finalnoj potrošnji energije, energetskom sadržaju goriva i načinu obračuna ukupne potrošnje energije koja se koristi u saobraćaju, načinu izračunavanja količine električne energije koja se proizvodi u hidroelektranama i vjetroelektranama i načinu izračunavanja količine energije iz toplotnih pumpi ("Službeni list CG", br. 34/17 i 42/21).
