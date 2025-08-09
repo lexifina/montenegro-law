@@ -1,0 +1,3 @@
+Na osnovu člana 29. stav 2. Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09 i 40/11), u vezi sa članom 194, 201, 208. i 215. Zakona o svojinsko pravnim odnosima ("Službeni list Crne Gore", br.19/09), člana 33. stav 1. tačka 1. i člana 38. stav 1. tačka 2. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19 ,38/20,50/22 ,84/22 i 85/22 ) i člana 36, člana 38. tačka 2. i člana 58. stav 1. tačka 10. Statuta Opštine Ulcinj ("Službeni list Crne Gore - Opštinski propisi" , br. 48/19, 5/24), Skupština opštine Ulcinj, na sjednici održanoj 22. 7. 2025. godine, donijela je
+ODLUKU
+o davanju saglasnosti za ustanovljenje prava službenosti to jest stalne službenosti na kat.parc.

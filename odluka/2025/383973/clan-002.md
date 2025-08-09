@@ -1,0 +1,2 @@
+# Član 2
+Nikolaidis Jovan je obavezan da Opštini Ulcinj plati naknadu za zasnivanje stvarne službenosti na zemljištu iz člana 1 ove odluke u ukupnom iznosu od 1095,01 eura Utvrđena naknada iz stava 1 ovog člana odgovara 15% procjene tržišne vrijednosti zemljišta u skladu sa Izvještajem o procjeni vrijednosti nepokretnosti, sačinjenog od strane Komisije za procjenu nepokretnosti br. 01-012/25-499/1 od 19. 2. 2025. godine.
