@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 7 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 36 stav 1 tačka 7 Statuta Opštine Mojkovac ("Službeni list Crne Gore  Opštinski propisi", br. 29/18 i 37/22), a u vezi sa članom 28 i 31 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", br. 3/19 i 86/22), članom 3 i 34 Zakona o Budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore", br. 20/14, 56/14, 70/17, 4/18, 55/18, 66/19, 70/21 i 145/21),uz prethodno pribavljeno mišljenje Ministarstva finansija, Skupština Opštine Mojkovac na sjednici od 4. 8. 2025. godine, donijela je
+O D L U K U
+o izmjenama i dopunama Odluke o Budžetu Opštine Mojkovac za 2025. godinu
