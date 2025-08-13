@@ -1,0 +1,3 @@
+# Član 1
+## interesa
+U Odluci o određivanju lokacije sa elementima urbanističko tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa broj: 01-018/20-3369/1 od 11. 12. 2020. godine (("Službeni list Crne Gore - Opštinski propisi", broj 2/21) u članu 1, stav 1, riječi "na dijelu katastarske parcele br: 799/1 KO Pečurice" zamjenjuju se riječima "na dijelu katastarskih parcela broj 799/1 i 798/1 KO Pečurice." U istom članu, u stavu 2 riječi "katastarska parcela broj 799/1 KO Pečurice" zamjenjuju se riječima "katastarske parcele broj 799/1 i 798/1 KO Pečurice."
