@@ -1,0 +1,3 @@
+Na osnovu člana 128 stav 1 Zakona o vazdušnom saobraćaju ("Službeni list CG", br. 30/12, 30/17 i 82/20), člana 115 stav 1 Zakona o bezbjednosti, organizaciji i efikasnosti željezničkog prevoza ("Službeni list CG", broj 1/14) i člana 179 stav 1 Zakona o sigurnosti pomorske plovidbe ("Službeni list CG", br. 62/13, 52/15, 71/17 i 77/20), Vlada Crne Gore, na sjednici od 15. maja 2025. godine, donijela je
+ODLUKU O IZMJENI ODLUKE O OSNIVANJU NACIONALNE KOMISIJE ZA ISTRAŽIVANJE NESREĆA I OZBILJNIH NEZGODA VAZDUHOPLOVA,
+VANREDNIH DOGAĐAJA KOJI UGROŽAVAJU BEZBJEDNOST ŽELJEZNIČKOG SAOBRAĆAJA I POMORSKIH NEZGODA I NESREĆA
