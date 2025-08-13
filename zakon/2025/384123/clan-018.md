@@ -1,0 +1,3 @@
+# Član 18
+Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+*U ovaj zakon prenijeta je Direktiva 2001/24/EZ Evropskog parlamenta i Savjeta od 4. aprila 2001. o restrukturiranju i likvidaciji kreditnih institucija, a uključuje i izmjene koje su donijete usvajanjem Direktive 2014/59/EU Evropskog parlamenta i Savjeta od 15. maja 2014. o uspostavljanju okvira za oporavak i sanaciju kreditnih institucija i investicionih društava i o izmjeni Direktive Savjeta 82/891/EEZ i direktiva 2001/24/EZ, 2002/47/EZ, 2004/25/EZ, 2005/56/EZ, 2007/36/EZ, 2011/35/EU, 2012/30/EU i 2013/36/EU kao i regulativa (EU) br. 1093/2010 i (EU) br. 648/2012 Evropskog parlamenta i Savjeta.
