@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi("Službeni list Crne Gore", br.2/18,34/19, 38/20, 50/22 i 84/22),člana 73 stav 1 tačka 2 Statuta Prijestonice Cetinje ("Službeni list Crne Gore - Opštinski propisi", br. 49/18 i 17/21) i člana 31 stav 4 Statuta društva sa ograničenom odgovornošću "Agencija za razvoj i podršku poslovanju" Cetinje ("Službeni list Crne Gore - Opštinski propisi", br.10/21 i 17/21) , Skupština Prijestonice Cetinje na sjednici od 24. 7. 2025. godine, donijela je
+ODLUKU
