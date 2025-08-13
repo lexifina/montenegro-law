@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19 i 38/20), člana 171 Zakona o privrednim društvima ("Službeni list Crne Gore", br. 65/20, 146/21 i 4/24) i člana 73 stav 1 tačka 2 i 25 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", br. 49/18 i 17/21) Skupština Prijestonice Cetinje, na sjednici održanoj dana 24. 7. 2025. godine, donosi
+ODLUKU
