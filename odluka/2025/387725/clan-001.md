@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti Martinović Branislavu za zasnivanje stvarne službenosti
+Prijestonica Cetinje, daje saglasnost Martinović Branislavu za zasnivanje stvarne službenosti, radi polaganja kabla dužine 315m na kat. parceli broj 4687/1 iz lista nepokretnosti broj 403 KO Cetinje I svojina Država Crna Gora, raspolaganje Prijestonica Cetinje, koja je na trasi strujnog kabla za napajanje od NN bloka MBTS "Bajice" do novoizgrađenog NKRO-a i od novoizgrađenog NKRO-a do PMC-a za potrebe priključenja objekata izgrađenog na UP 168/a, blok A1 u zahvatu DUP-a "Bajice", radi priključenja objekta na kat. parcelama broj 168/2 i 169/2 KO Cetinje I, svojina Martinović Branislav.
