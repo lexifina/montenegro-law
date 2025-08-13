@@ -1,0 +1,2 @@
+Na osnovu člana 15 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", broj 55/16, 74/16, 2/18, 66/19 i 140/22), člana 16 Statuta DOO "Komunalno Kotor" Kotor ("Službeni list Crne Gore - Opštinski propisi", br. 14/22) i člana 38 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", br. 37/19), na XXVII sjednici održanoj 31. 7. 2025. godine, Skupština opštine Kotor, donijela je
+ODLUKU
