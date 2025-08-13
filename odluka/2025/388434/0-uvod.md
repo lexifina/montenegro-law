@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 i član 34 stav 1 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09, 40/11 i 23/25), a u vezi sa članom 194, 201 stav 1, 202 i 206 Zakona o svojinsko-pravnim odnosima ("Službeni list Crne Gore", br. 19/09 i 29/25), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i članom 52 stav 2 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", broj 49/18 i 17/21), Skupština Prijestonice Cetinje na sjednici održanoj dana, 24. 7. 2025. godine, donijela je
+ODLUKU
+o ustanovljavanju prava službenosti prolaza na katastarskim parcelama broj 2173/2 i 2173/3
