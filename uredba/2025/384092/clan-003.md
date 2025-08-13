@@ -1,0 +1,3 @@
+# Član 3
+Rukovodilac organizacione jedinice organa državne uprave nadležnog za unutrašnje poslove koja vrši policijske poslove (u daljem tekstu: policija) na čijem području okrivljeni ima prebivalište, odnosno boravište, nakon prijema rješenja suda kojim je izrečena mjera nadzora, određuje policijskog službenika koji će koordinirati kontrolom elektronskim nadzorom sprovođenja mjera nadzora (u daljem tekstu: ovlašćeni policijski službenik).
+Ovlašćeni policijski službenik, bez odlaganja, dostavlja kopiju rješenja iz stava 1 ovog člana organizacionoj jedinici policije koja vrši poslove u vezi sa elektronskim sistemima policije.

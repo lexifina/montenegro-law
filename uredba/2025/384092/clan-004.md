@@ -1,0 +1,4 @@
+# Član 4
+Organizaciona jedinica iz člana 3 stav 2 ove uredbe, u prisustvu ovlašćenog policijskog službenika, najkasnije u roku od 24 časa od prijema kopije rješenja iz člana 3 stav 1 ove uredbe, provjerava ispunjenost uslova za instaliranje uređaja za elektronski nadzor (u daljem tekstu: uređaj) i opreme, instalira uređaj i opremu, upoznaje okrivljenog i članove njegovog domaćinstva sa načinom rada uređaja i opreme i pravima i obavezama i daje detaljna uputstva o radu uređaja i opreme, o čemu se sačinjava zapisnik.
+Ako se uređaj i oprema uspješno instaliraju, okrivljeni potpisuje potvrdu o prijemu uređaja i opreme.
+Ako ne postoje uslovi za instaliranje uređaja i opreme ili iz bilo kojih razloga uređaj i oprema nijesu instalirani, ovlašćeni policijski službenik o tome obavještava sud koji je izrekao mjeru nadzora i rukovodioca organizacione jedinice iz člana 3 stav 1 ove uredbe.

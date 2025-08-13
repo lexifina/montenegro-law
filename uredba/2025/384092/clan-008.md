@@ -1,0 +1,4 @@
+# Član 8
+Ako okrivljeni na bilo koji način prekrši izrečenu mjeru nadzora ili ako to zahtijeva sud koji je izrekao tu mjeru, ovlašćeni policijski službenik, bez odlaganja, podnosi izvještaj tom sudu.
+Izvještaj iz stava 1 ovog člana sadrži podatke o okrivljenom, naziv suda koji je izrekao mjeru nadzora, broj i datum rješenja kojim je izrečena mjera nadzora, podatke o vrsti mjere nadzora, danu i času instaliranja uređaja i opreme, kao i druge podatke od značaja za izvršenje mjere nadzora, a u slučaju kršenja mjere nadzora i podatke o terminima u kojima je okrivljeni prekršio mjeru nadzora.
+Nakon isteka, odnosno ukidanja mjere nadzora ovlašćeni policijski službenik podnosi sudu koji je izrekao tu mjeru izvještaj koji, pored podataka iz stava 2 ovog člana, sadrži i podatke o datumu i času isključenja i uklanjanja uređaja i opreme.
