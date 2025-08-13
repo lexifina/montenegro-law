@@ -1,0 +1,5 @@
+# Član 8
+## Ugovor o osiguranju od odgovornosti za štetu
+Posrednik je dužan da zaključi ugovor o osiguranju od odgovornosti za štetu koju bi nalogodavcu ili drugim licima mogao da prouzrokuje obavljanjem djelatnosti posredovanja u prometu i zakupu nepokretnosti, sa društvom za osiguranje koje ima sjedište u Crnoj Gori.
+Za štetu koju bi posrednik mogao da prouzrokuje obavljanjem djelatnosti posredovanja u prometu i zakupu nepokretnosti, najniža osigurana suma ne može biti manja od 20.000 eura po jednom osiguranom slučaju, odnosno 60.000 eura za sve odštetne zahtjeve u jednoj kalendarskoj godini osiguranja.
+Posrednik može da zaključi ugovor o osiguranju od odgovornosti za štetu koju bi nalogodavcu ili drugim licima mogao da prouzrokuje obavljanjem djelatnosti posredovanja u prometu i zakupu nepokretnosti, sa društvom za osiguranje koje ima sjedište u državi članici Evropske unije ili državi članici Evropskog ekonomskog prostora, ako taj ugovor o osiguranju obezbjeđuje pokriće za usluge pružene u Crnoj Gori.
