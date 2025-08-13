@@ -1,0 +1,6 @@
+# Član 41
+## Otvaranje i ukidanje putnih prelaza
+O otvaranju novih i ukidanju postojećih putnih prelaza na infrastrukturi odlučuje Ministarstvo, na zahtjev upravljača putne infrastrukture ili zainteresovanog privrednog društva ili drugog pravnog lica ili preduzetnika, uz prethodno pribavljeno mišljenje upravljača infrastrukture.
+Na zahtjev upravljača putne infrastrukture ili zainteresovanog privrednog društva ili drugog pravnog lica ili preduzetnika može da se otvori privremeni putni prelaz u slučajevima potrebe prelaza preko pruge u sklopu radova izgradnje, sanacije i modernizacije objekata željezničke infrastrukture ili drugih objekata ako ne postoji alternativni prelaz ili prilaz objektima koji su predmet izgradnje, sanacije i modernizacije i ako se ne narušava bezbjednost i odvijanje željezničkog saobraćaja, uz prethodno pribavljeno mišljenje upravljača infrastrukture.
+Zahtjev iz st. 1 i 2 ovog člana treba da sadrži detaljno obrazloženje sa saobraćajno- tehničkom analizom potrebe, načina, mjesta i mjera za osiguranje bezbjednog saobraćaja, za svako otvaranje novog i ukidanje postojećeg putnog prelaza.
+Upravljač putne infrastrukture dužan je da učini dostupnim sve raspoložive podatke potrebne za donošenje odluke iz stava 1 ovog člana.

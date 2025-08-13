@@ -1,0 +1,5 @@
+# Član 62
+## Korišćenje trasa vozova
+Upravljač infrastrukture će u Izjavi o mreži precizirati uslove pod kojima će uzeti u obzir prethodne nivoe iskorišćenja trasa vozova prilikom određivanja prioriteta za postupak dodjele.
+Naročito kada se radi o zagušenoj infrastrukturi, upravljač infrastrukture zahtijeva predaju trase voza koja je, tokom perioda od najmanje 30 dana, bila korišćena manje nego što je dozvoljeno graničnom kvotom koja se utvrđuje u Izjavi o mreži, osim ako se to desilo usljed ne-ekonomskih razloga koji su izvan kontrole podnosioca zahtjeva za dodjelu kapaciteta infrastrukture.
+Ako korisnik trase voza svojim aktivnostima i željezničkim voznim sredstvima ograniči ili ugrozi kapacitet željezničke infrastrukture, dužan je da postupi po zahtjevu upravljača infrastrukture i u razumno kratkom roku otkloni poremećaj izazvan željezničkim vozilima koja ograničavaju ili ugrožavaju kapacitet infrastrukture, a u suprotnom upravljač infrastrukture će, o trošku korisnika trase voza preduzeti potrebne radnje.
