@@ -1,0 +1,4 @@
+# Član 29
+## Priznavanje sertifikata stečenog na osnovu međunarodnog ili drugog programa
+Sertifikat za unutrašnjeg revizora u javnom sektoru može se izdati licu koje ima sertifikat za unutrašnjeg revizora koji je izdat od nadležnog organa druge države ili nadležne organizacije u skladu sa međunarodnim ili drugim programom koji je ekvivalentan programu iz člana 27 ovog zakona, kao i licu koje je steklo sertifikat za unutrašnjeg revizora izdat od strane ovlašćenog predstavništva Instituta internih revizora (IIA), pod uslovom da položi teorijsku provjeru znanja za predmet koji se odnosi na poznavanje nacionalnog zakonodavstva, završi praktičnu obuku i položi usmeni ispit iz člana 27 ovog zakona.
+Dokumentaciju potrebnu za priznavanje sertifikata, postupak izdavanja sertifikata i visinu naknade propisuje Ministarstvo.

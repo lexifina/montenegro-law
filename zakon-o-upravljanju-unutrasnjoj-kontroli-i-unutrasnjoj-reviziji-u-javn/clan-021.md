@@ -1,0 +1,11 @@
+# Član 21
+## Uspostavljanje unutrašnje revizije u privrednim društvima u kojima država ili jedinica lokalne samouprave, direktno ili indirektno, ima većinski vlasnički udio
+Privredna društva u kojima država ili jedinice lokalne samouprave imaju, direktno ili indirektno, većinski vlasnički udio, a koja su u skladu sa zakonom kojim se uređuje računovodstvo, razvrstana kao velika i srednja pravna lica, dužna su da uspostave organizacionu jedinicu za unutrašnju reviziju u okviru privrednog društva, koja je neposredno odgovorna organu upravljanja.
+Jedinica za unutrašnju reviziju u velikom pravnom licu mora da ima najmanje tri unutrašnja revizora uključujući rukovodioca jedinice za unutrašnju reviziju dok jedinica za unutrašnju reviziju u srednjim pravnim licima može da ima najmanje dva unutrašnja revizora uključujući rukovodioca jedinice za unutrašnju reviziju.
+Privredna društva u kojima država ili jedinice lokalne samouprave, direktno ili indirektno, imaju većinski vlasnički udio, a koja su u skladu sa zakonom kojim se uređuje računovodstvo, razvrstana kao mikro i mala pravna lica dužna su da uspostave unutrašnju reviziju:
+1) organizovanjem organizacione jedinice za unutrašnju reviziju, od najmanje dva unutrašnja revizora uključujući rukovodioca jedinice za unutrašnju reviziju, u okviru privrednog društva koja je neposredno odgovorna organu upravljanja; ili
+2) obavljanjem unutrašnje revizije od strane jedinice za unutrašnju reviziju drugog pravnog lica, na osnovu sporazuma o povjeravanju poslova unutrašnje revizije uz prethodnu saglasnost Ministarstva; ili
+3) obavljanjem unutrašnje revizije od strane jedinice za unutrašnju reviziju iz člana 20 stav 2 ovog zakona; ili
+4) osnivanjem zajedničke jedinice za unutrašnju reviziju, uz prethodnu saglasnost Ministarstva.
+Odluku o načinu uspostavljanja unutrašnje revizije iz stava 3 ovog člana donosi organ upravljanja prema procjeni opravdanosti uzimajući u obzir: visinu prihoda i rashoda, broj zaposlenih, vrijednost finansijskih transakcija, strateški i razvojni značaj subjekta.
+Bliži način organizovanja, finansiranja, izvještavanja i druga pitanja od značaja za funkcionisanje unutrašnje revizije iz stava 3 tač. 2 i 4 ovog člana uređuje se sporazumom odnosno ugovorom između subjekata koji uspostavljaju unutrašnju reviziju na jedan od ovih načina.

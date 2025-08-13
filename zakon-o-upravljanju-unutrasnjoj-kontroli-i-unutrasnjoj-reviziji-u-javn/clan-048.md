@@ -1,0 +1,7 @@
+# Član 48
+## Usklađivanje poslovanja
+Subjekti su dužni da usklade svoje poslovanje sa ovim zakonom u roku od 12 mjeseci od dana stupanja na snagu ovog zakona.
+Subjekti koji su zaključili sporazum o povjeravanju poslova unutrašnje revizije u skladu sa Zakonom o sistemu unutrašnjih finansijskih kontrola u javnom sektoru („Službeni list CG”, br. 73/08, 20/11, 30/12 i 34/14) i Zakonom o upravljanju i unutrašnjim kontrolama u javnom sektoru („Službeni list CG”, broj 75/18), dužni su da u roku od šest mjeseci od dana stupanja na snagu ovog zakona zaključe nove sporazume, uz prethodnu saglasnost Ministarstva ili uspostave funkciju unutrašnje revizije na način propisan ovim zakonom.
+Jedinice za unutrašnju reviziju, koje su u trenutku stupanja na snagu ovog zakona, u postupku obavljanja revizorskih angažmana, po osnovu sporazuma o povjeravanju poslova unutrašnje revizije, dužne su da započete revizorske angažmane i završe u skladu sa važećim sporazumom.
+Jedinice za unutrašnju reviziju, koje imaju zaključene sporazume o povjeravanju poslova unutrašnje revizije, u trenutku stupanja na snagu ovog zakona, dužne su da registre sa datim preporukama ustupe subjektima koji su im povjerili poslove unutrašnje revizije po osnovu sporazuma o povjeravanju poslova unutrašnje revizije.
+Rukovodilac subjekta je u obavezi da registar iz stava 4 ovog člana prenese u dalju nadležnost rukovodiocu jedinice za unutrašnju reviziju subjekta sa kojim zaključuje novi sporazum o povjeravanju poslova unutrašnje revizije.
