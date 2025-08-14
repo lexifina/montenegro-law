@@ -1,0 +1,34 @@
+{
+  "id": 384523,
+  "path": "zakon/2025/384523",
+  "source": "https://www.sluzbenilist.me/propisi/384523",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/384523/download",
+  "title": "Zakon o zdravstvenoj zaštiti",
+  "issue": "Službeni list Crne Gore, broj 91/2025",
+  "published": "2025-08-06",
+  "in_force": "2025-08-14",
+  "in_force_basis": "## Stupanje na snagu",
+  "applies": null,
+  "amended_by": [
+    [
+      386008,
+      "Zakon o izmjenama Zakona o zdravstvenoj zaštiti*"
+    ],
+    [
+      391418,
+      "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti*"
+    ]
+  ],
+  "text_status": "as-enacted; amended, not consolidated",
+  "source_sha256": "33d2daf6696b2e4883e8fbad8e75ff80105fcbad57cb7d3e3efbcda689ca98b2",
+  "articles_in_source": 259,
+  "note": null,
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 212863,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "text_sha256": "04a3c7466ad6452efa718f2d26cd158d44ef61991cf04b1a2b6638a4634f6348"
+}
