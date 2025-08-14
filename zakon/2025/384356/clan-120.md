@@ -1,0 +1,6 @@
+# Član 120
+## Posljedice istupanja i isključenja ortaka iz društva
+(1) Udio ortaka koji je istupio ili je isključen iz ortačkog društva dijeli se između preostalih ortaka srazmjerno visini njihovih udjela u društvu, ako ugovorom o osnivanju ortačkog društva nije drukčije određeno.
+(2) Ortačko društvo dužno je da u roku od šest mjeseci od dana istupanja, odnosno isključenja ortaka, ako ugovorom o osnivanju ortačkog društva nije drukčije određeno, ortaku koji je istupio ili je isključen iz društva isplati iznos sredstava koja bi u slučaju likvidacije društva primio na dan istupanja, odnosno isključenja, pri čemu se ne uzimaju u obzir tekući i nezavršeni poslovi.
+(3) Ako je vrijednost imovine ortačkog društva na dan istupanja, odnosno isključenja ortaka nedovoljna za pokriće obaveza društva, ortak koji je istupio ili je isključen iz društva dužan je da isplati društvu dio nepokrivenog iznosa, srazmjerno svom udjelu u društvu, u roku od šest mjeseci od dana istupanja, odnosno isključenja, ako ugovorom o osnivanju ortačkog društva ili sporazumom ortaka prilikom istupanja nije određen drugi rok.
+(4) Solidarna odgovornost ortaka koji je istupio ili je isključen iz društva prestaje po isteku perioda od pet godina od dana istupanja, odnosno isključenja, ako ugovorom o osnivanju ortačkog društva nije određen duži period.

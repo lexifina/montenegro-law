@@ -1,0 +1,10 @@
+# Član 357
+## Objavljivanje podataka
+(1) Podaci iz člana 356 ovog zakona objavljuju se na internet stranici CRPS, u roku od sedam dana od dana donošenja rješenja o registraciji.
+(2) Podaci iz stava 1 ovog člana objavljeni na internet stranici CRPS i podaci dostavljeni tom organu radi registracije moraju biti istovjetni.
+(3) Podaci iz stava 1 ovog člana mogu se objaviti i u "Službenom listu Crne Gore" pri čemu će se u slučaju razlike između podataka i dokumentacije registrovanih u CRPS i objavljenih u "Službenom listu Crne Gore", smatrati da su tačni podaci i dokumentacija koji su registrovani u CRPS.
+(4) Akcionarsko društvo se u odnosima sa trećim licima može pozivati na podatke iz stava 1 ovog člana nakon njihove registracije i objavljivanja na internet stranici CRPS.
+(5) Treća lica se u odnosima sa akcionarskim društvom mogu pozivati na sve akte društva i druge podatke za koje nijesu okončani postupci objavljivanja u skladu sa ovim zakonom, osim kad je objavljivanje uslov za pravno dejstvo.
+(6) Pored podataka iz stava 1 ovog člana, na internet stranici CRPS objavljuju se i podaci o poslovnom imenu, sjedištu i pretežnoj djelatnosti akcionarskog društva, imenima članova organa upravljanja i članovima drugih organa društva, revizora i sekretara društva, ako ga ima, datum donošenja osnivačkog akta, usvajanja statuta i registracije akcionarskog društva.
+(7) Podaci iz st. 1 i 6 ovog člana objavljuju se na crnogorskom jeziku, a na zahtjev akcionarskog društva mogu se objaviti i u prevodu na neki od jezika koji su u službenoj upotrebi u Evropskoj uniji.
+(8) Ako postoji nedosljednost između podataka iz st. 1 i 6 ovog člana objavljenih na crnogorskom jeziku i njihovog prevoda na neki od jezika koji su u službenoj upotrebi u Evropskoj uniji, akcionarsko društvo se prema trećim licima ne može pozivati na objavljeni prevod, dok se treća lica mogu pozivati na taj prevod, osim ako društvo dokaže da su ta lica bila upoznata sa sadržajem verzije koja je objavljena na crnogorskom jeziku.

@@ -1,0 +1,7 @@
+# Član 17
+## Zloupotreba svojstva pravnog lica
+(1) Komanditor, član društva sa ograničenom odgovornošću i akcionar koji zloupotrijebi pravilo o ograničenoj odgovornosti iz člana 16 stav 3 ovog zakona, solidarno i neograničeno odgovara za obaveze privrednog društva.
+(2) Zloupotrebom iz stava 1 ovog člana smatra se svaki vid izigravanja, odnosno nepoštovanje svojstva pravnog lica privrednog društva od strane lica iz stava 1 ovog člana ili sa njim povezanog lica u smislu člana 45 ovog zakona, na osnovu kojeg se kroz miješanje imovine, njeno umanjenje, nepravilnosti u upravljanju, poslovanje protivno ciljevima privrednog društva, zanemarivanje identiteta, oštećenje povjerilaca i/ili druge radnje, stvara opšti utisak poistovjećivanja tih lica sa privrednim društvom.
+(3) Protiv lica iz stava 1 ovog člana povjerilac privrednog društva može podnijeti tužbu nadležnom sudu u roku od šest mjeseci od dana saznanja za zloupotrebu iz stava 1 ovog člana, a najkasnije u roku od tri godine od dana zloupotrebe.
+(4) Podnošenje tužbe iz stava 3 ovog člana ne utiče na pravo povjerioca da naplatu potraživanja prema privrednom društvu izvrši na drugi način, u skladu sa zakonom.
+(5) U slučaju da potraživanje povjerioca iz stava 3 ovog člana nije dospjelo u trenutku saznanja za učinjenu zloupotrebu iz stava 1 ovog člana, rok od šest mjeseci za podizanje tužbe počinje da teče od dana dospijeća potraživanja.

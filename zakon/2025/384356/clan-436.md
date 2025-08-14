@@ -1,0 +1,7 @@
+# Član 436
+## Uslovi za sprovođenje statusne promjene
+(1) Statusne promjene mogu se vršiti samo ako je imovina privrednog društva veća od njegovih obaveza.
+(2) Ako se statusnom promjenom osniva novo privredno društvo, na osnivanje tog društva primjenjuju se odredbe ovog zakona koje se odnose na osnivanje odgovarajućeg pravnog oblika privrednog društva, ako ovim zakonom nije drukčije propisano.
+(3) Ako se u svojstvu društva prenosioca nalazi javno akcionarsko društvo koje svoju cjelokupnu imovinu i obaveze prenosi na društvo sticaoca koje nije javno akcionarsko društvo, potrebno je da se ispune svi uslovi za prestanak svojstva javnog društva u skladu sa zakonom kojim se uređuje tržište kapitala.
+(4) Svi članovi društva prenosioca stiču udjele, odnosno akcije u društvu sticaocu srazmjerno svojim udjelima, odnosno akcijama u društvu prenosiocu, osim ako se svaki član društva prenosioca saglasi da se statusnom promjenom izvrši zamjena udjela, odnosno akcija u drugačijoj srazmjeri ili ako, kao nesaglasni član, odnosno akcionar, koristi svoje pravo na isplatu umjesto sticanja udjela, odnosno akcija u društvu sticaocu, u skladu sa čl. 182 i 183 ovog zakona.
+(5) Članu društva prenosioca se po osnovu statusne promjene može izvršiti i novčano plaćanje, s tim da ukupan iznos tih plaćanja svim članovima društva prenosioca ne može preći 10% ukupne nominalne, odnosno računovodstvene vrijednosti udjela, odnosno akcija koje stiču članovi društva prenosioca.

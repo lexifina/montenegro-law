@@ -1,0 +1,6 @@
+# Član 339
+## vrijednosti
+(1) Ako skupština akcionarskog društva nije odobrila sticanje, odnosno raspolaganje imovinom velike vrijednosti, akcionarsko društvo i akcionar koji posjeduje ili predstavlja najmanje 5% osnovnog kapitala društva može podnijeti tužbu za poništaj pravnog posla, odnosno pravne radnje sticanja, odnosno raspolaganja imovinom velike vrijednosti i za naknadu štete.
+(2) Tužba iz stava 1 ovog člana podnosi se u roku od šest mjeseci od dana održavanja sjednice skupštine akcionarskog društva, na kojoj je razmatran izvještaj o poslovanju za poslovnu godinu u kojoj je izvršeno sticanje, odnosno raspolaganje imovinom velike vrijednosti, a najkasnije u roku od tri godine od dana sticanja, odnosno raspolaganja imovinom velike vrijednosti.
+(3) Pravni posao, odnosno pravna radnja iz stava 1 ovog člana neće biti poništena ako lice koje je druga strana u pravnom poslu, odnosno prema kome je pravna radnja izvršena nije znalo, niti je moralo znati da je pravni posao zaključen, odnosno pravna radnja izvršena bez odobrenja skupštine akcionarskog društva.
+(4) Članovi odbora direktora, odnosno upravnog odbora solidarno su odgovorni akcionarskom društvu za štetu koju to društvo pretrpi usljed sticanja, odnosno raspolaganja imovinom velike vrijednosti, ako to sticanje, odnosno raspolaganje nije odobrila skupština akcionarskog društva.

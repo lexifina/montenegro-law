@@ -1,0 +1,5 @@
+# Član 82
+## Pobijanje vrijednosti nenovčanog uloga utvrđene pisanim sporazumom
+(1) Ako je vrijednost nenovčanog uloga utvrđena pisanim sporazumom članova privrednog društva, a privredno društvo nije u mogućnosti da izmiruje svoje dospjele obaveze, povjerilac privrednog društva ima pravo da, u roku od pet godina od dana unosa nenovčanog uloga u privredno društvo, podnese predlog nadležnom sudu da, u vanparničnom postupku, utvrdi vrijednost nenovčanog uloga u vrijeme unošenja tog uloga u privredno društvo.
+(2) Ako sud iz stava 1 ovog člana utvrdi da je vrijednost nenovčanog uloga bila manja od vrijednosti utvrđene pisanim sporazumom članova privrednog društva, naložiće članu privrednog društva koji je unio taj nenovčani ulog da razliku do sporazumno utvrđene vrijednosti tog uloga isplati privrednom društvu i da solidarno sa privrednim društvom snosi troškove sudskog postupka.
+(3) Član privrednog društva koji je unio nenovčani ulog čija je vrijednost utvrđena pisanim sporazumom članova privrednog društva, snosi teret dokazivanja vrijednosti tog nenovčanog uloga.

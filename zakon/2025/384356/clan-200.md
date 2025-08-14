@@ -1,0 +1,6 @@
+# Član 200
+## Ograničenja raspodjele imovine
+(1) Akcionarsko društvo ne može vršiti raspodjelu imovine akcionarima ako je prema posljednjem godišnjem finansijskom izvještaju odobrenom od strane skupštine akcionarskog društva neto imovina društva manja ili bi usljed takve raspodjele postala manja od iznosa osnovnog kapitala društva uvećanog za rezerve koje je društvo dužno da održava u skladu sa zakonom ili statutom akcionarskog društva, ako takve rezerve postoje, osim u slučaju smanjenja osnovnog kapitala.
+(2) Ukupna vrijednost imovine koja se raspodjeljuje akcionarima za poslovnu godinu ne može biti veća od dobiti na kraju te poslovne godine, uvećane za neraspoređenu dobit iz prethodnih perioda i iznose rezervi koje se mogu koristiti u te namjene, a umanjene za nepokrivene gubitke iz prethodnih perioda i iznose rezervi koje je društvo dužno da održava u skladu sa zakonom ili statutom akcionarskog društva, ako takve rezerve postoje, osim u slučaju smanjenja osnovnog kapitala.
+(3) Zabranjena je raspodjela imovine ako akcionarsko društvo nakon raspodjele u toku redovnog obavljanja djelatnosti ne bi moglo do isplaćuje svoje dospjele obaveze povjeriocima.
+(4) Raspodjelom imovine u smislu ovog člana ne smatraju se plaćanja koja akcionarsko društvo vrši akcionaru koji je fizičko lice, po osnovu ugovora o radu.

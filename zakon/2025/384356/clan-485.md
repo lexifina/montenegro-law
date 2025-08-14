@@ -1,0 +1,4 @@
+# Član 485
+## Neraspoređena imovina i obaveze
+(1) Imovina društva prenosioca koje podjelom prestaje da postoji, a koja planom podjele nije prenesena nijednom društvu sticaocu niti se tumačenjem tog plana može odrediti kojem društvu sticaocu ta imovina treba da se prenese, prenosi se svakom od društava sticalaca srazmjerno učešću imovine koja je na njih prenesena u ukupnoj neto imovini društva prenosioca, umanjenoj za preuzete obaveze.
+(2) Za obaveze društva prenosioca koje podjelom prestaje da postoji, a koje planom podjele nijesu raspoređene nijednom društvu sticaocu niti se tumačenjem tog plana može odrediti kojem društvu sticaocu treba da se raspodijele, solidarno odgovara svako društvo sticalac do iznosa razlike između vrijednosti imovine koja je na to društvo prenesena i obaveza koje je to društvo preuzelo.

@@ -1,0 +1,5 @@
+# Član 473
+## Upis podataka u CRPS
+(1) Ako je društvo sticalac registrovano u CRPS, u CRPS se obavezno upisuje da je to društvo nastalo kao pravna posljedica sprovođenja prekograničnog pripajanja, kao i datum kad je to društvo upisano u CRPS, a organ nadležan za registraciju u CRPS bez odlaganja putem sistema intekonekcije registara obavještava nadležne registre država članica u kojima su registrovana društva prenosioci da je prekogranično pripajanje proizvelo pravno dejstvo.
+(2) Ako je društvo prenosilac registrovano u CRPS, u CRPS se obavezno upisuje da je to društvo izbrisano iz CRPS kao pravna posljedica prekograničnog pripajanja, kao i datum kad je to društvo izbrisano iz CRPS.
+(3) Ako je neko od privrednih društava koje je učestvovalo u postupku prekograničnog pripajanja registrovano u CRPS, u CRPS se obavezno upisuju registracioni broj, poslovno ime i pravni oblik svakog od tih društava, bez obzira na to da li je društvo sticalac ili društvo prenosilac, odnosno da li je društvo registrovano u CRPS ili u državi članici.

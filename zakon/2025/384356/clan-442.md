@@ -1,0 +1,12 @@
+# Član 442
+## Pravo uvida u dokumentaciju
+(1) Privredna društva koja učestvuju u postupku pripajanja dužna su da svojim članovima, u sjedištu društva, najmanje mjesec dana prije dana održavanja sjednice skupštine privrednog društva na kojoj se donosi odluka o odobravanju nacrta ugovora o pripajanju, kao i za vrijeme trajanja sjednice skupštine, omogući, bez naknade, kopiranje i uvid u sljedeću dokumentaciju:
+1) nacrt ugovora o pripajanju;
+2) izvještaj odbora direktora, odnosno upravnog odbora iz člana 439 ovog zakona;
+3) izvještaj o ispitivanju nacrta ugovora o pripajanju iz člana 440 ovog zakona;
+4) godišnje finansijske iskaze sa mišljenjem revizora za posljednje tri godine svakog privrednog društva koje učestvuje u postupku pripajanja; i
+5) poseban finansijski iskaz kojim se iskazuje stanje u privrednom društvu na dan koji nije raniji od tri mjeseca od dana sačinjavanja nacrta ugovora o pripajanju, ako je nacrt sačinjen nakon šest mjeseci od dana završetka posljednje poslovne godine.
+(2) Posebnim finansijskim iskazom iz stava 1 tačka 5 ovog člana iskazuju se podaci na način na koji su iskazani u godišnjem finansijskom iskazu, s tim što se izmjene vrednovanja iz posljednjeg godišnjeg finansijskog iskaza vrše samo na osnovu promjena u knjigovodstvu u odnosu na stanje izraženo u posljednjem godišnjem finansijskom iskazu, bez sprovođenja popisa imovine, ali uz obavezu uzimanja u obzir srednjoročne amortizacije, rezervacije troškova i gubitaka, kao i materijalnih promjena u stvarnoj vrijednosti koje nijesu prikazane u knjigama.
+(3) Poseban finansijski iskaz iz stava 1 tačka 5 ovog člana ne mora se stavljati na uvid kad privredno društvo objavi polugodišnji finansijski izvještaj i stavi ga na uvid članovima na način iz stava 1 ovog člana.
+(4) Ako je dokumentacija iz stava 1 ovog člana objavljena na internet stranici privrednog društva koje učestvuje u postupku pripajanja najmanje mjesec dana prije dana održavanja sjednice skupštine društva na kojoj se donosi odluka o odobravanju nacrta ugovora o pripajanju i ako je omogućeno neograničeno i besplatno preuzimanje te dokumentacije u elektronskom obliku, društvo nije dužno da, bez naknade, kopira i da na uvid dokumentaciju članovima.
+(5) Ako je član društva dao pisani pristanak na upotrebu elektronskih sredstava komunikacije sa društvom, društvo može dokumentaciju iz stava 1 ovog člana dostaviti putem tih sredstava komunikacije.

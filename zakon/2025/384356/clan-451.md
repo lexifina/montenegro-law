@@ -1,0 +1,6 @@
+# Član 451
+## Pravo članova društva prenosioca na doplatu
+(1) Član društva prenosioca koji smatra da je oštećen utvrđenom srazmjerom zamjene udjela, odnosno akcija u društvu prenosiocu za udjele, odnosno akcije u društvu sticaocu može protiv društva sticaoca nadležnom sudu podnijeti tužbu za isplatu novčane naknade u skladu sa ovim članom, u roku od 30 dana od dana nastupanja pravnih posljedica pripajanja.
+(2) Ako u slučaju iz stava 1 ovog člana nadležni sud utvrdi da je vrijednost udjela, odnosno akcija koje je član društva prenosioca stekao u društvu sticaocu manja od vrijednosti udjela, odnosno akcija u društvu prenosiocu koje su bile predmet zamjene, obavezaće društvo sticaoca da članu društva prenosioca isplati novčanu naknadu, koja ne može biti veća od 10% nominalne vrijednosti njegovih zamijenjenih udjela, odnosno akcija u društvu prenosiocu.
+(3) Prilikom utvrđivanja vrijednosti udjela, odnosno akcija, shodno se primjenjuju odredbe člana 182 ovog zakona.
+(4) Ako nadležni sud obaveže društvo sticaoca na isplatu novčane naknade iz stava 2 ovog člana, društvo sticalac je dužno da svim članovima društva prenosioca čiji su udjeli, odnosno akcije iste vrste i klase zamijenjeni za udjele, odnosno akcije društva sticaoca, isplati srazmjeran iznos na ime doplate.

@@ -1,0 +1,5 @@
+# Član 561
+## Pojednostavljeni postupak osnivanja evropskog društva pripajanjem
+(1) Kad u osnivanju evropskog društva pripajanjem učestvuje društvo sticalac koje je registrovano u Crnoj Gori i jedini je član društva prenosioca, skupština društva sticaoca ne donosi odluku o odobravanju nacrta zajedničkog ugovora o pripajanju, a nacrt zajedničkog ugovora o pripajanju ne sadrži podatke iz člana 553 stav 1 tač. 2 i 3 ovog zakona.
+(2) U slučaju iz stava 1 ovog člana, ne sačinjava se izvještaj nezavisnog eksperta iz člana 556 ovog zakona.
+(3) Kad u osnivanju evropskog društva pripajanjem učestvuje društvo sticalac koje je registrovano u Crnoj Gori, a koje ima najmanje 90% akcija u društvu prenosiocu, ali ne i sve akcije i druge hartije od vrijednosti koje daju pravo glasa, skupština društva sticaoca ne donosi odluku o odobravanju nacrta zajedničkog ugovora o pripajanju, osim u slučaju iz člana 445 stav 1 tačka 3 ovog zakona, a društvo prenosilac nije u obavezi da sačini izvještaj nadležnog organa društva iz člana 555 ovog zakona, kao ni izvještaj nezavisnog eksperta iz člana 556 ovog zakona.

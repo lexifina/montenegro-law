@@ -1,0 +1,6 @@
+# Član 460
+## Pojam prekograničnog pripajanja i spajanja
+(1) Prekogranično pripajanje i spajanje su postupci u kojima učestvuju dva ili više društava kapitala od kojih je najmanje jedno osnovano po propisima Crne Gore, a najmanje jedno po propisima druge države, članice Evropske unije ili države potpisnice Ugovora o evropskom ekonomskom prostoru (u daljem tekstu: države članice).
+(2) Pored pripajanja i spajanja u smislu ovog zakona, prekogranična pripajanja i spajanja obuhvataju i postupke u kojima:
+1) jedno društvo kapitala (društvo prenosilac), koje prestaje da postoji bez sprovođenja postupka likvidacije, prenosi cjelokupnu imovinu i obaveze na drugo društvo kapitala (društvo sticaoca), pri čemu društvo sticalac posjeduje sve akcije, odnosno udjele u društvu prenosiocu;
+2) jedno ili više društava kapitala (društva prenosioci), koja prestaju da postoje bez sprovođenja postupka likvidacije, prenose cjelokupnu imovinu i obaveze na drugo postojeće društvo kapitala (društvo sticaoca), bez emisije novih akcija, odnosno udjela društva sticaoca, pod uslovom da jedno lice, direktno ili indirektno, posjeduje sve akcije, odnosno udjele u društvima prenosiocima ili članovi društava prenosilaca posjeduju akcije, odnosno udjele u istom procentu u svim privrednim društvima koja učestvuju u ovom postupku.
