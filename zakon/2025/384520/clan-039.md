@@ -1,0 +1,44 @@
+# Član 39
+## Objavljivanje podataka i dokumenata na internet stranici CRPS-a
+CRPS na svojoj internet stranici objavljuje:
+- poslovno ime privrednog odnosno drugog subjekta;
+- skraćeno poslovno ime privrednog odnosno drugog subjekta;
+- oblik obavljanja djelatnosti;
+- šifre djelatnosti;
+- naziv djelatnosti;
+- registracioni broj;
+- PIB;
+- EUID broj;
+- datum osnivanja;
+- datum promjene;
+- broj promjene;
+- adresu sjedišta;
+- mjesto sjedišta;
+- izdvojeno mjesto poslovanja;
+- adresu prijema službene pošte;
+- mjesto prijema službene pošte;
+- internet stranicu;
+- adresu za prijem elektronske pošte;
+- broj telefona;
+- status;
+- iznos upisanog osnovnog kapitala;
+- podatke o licima u društvu: ime i prezime, ulogu, da li je ovlašćenje za zastupanje pojedinačno ili kolektivno, da li je ovlašćenje za zastupanje ograničeno ili neograničeno i udio;
+- podatke o djelovima privrednog odnosno drugog subjekta;
+- podatke o diskvalifikovanim direktorima;
+- podatke iz registracione prijave sa obrascima osnivačkog akta i statuta;
+- registracionu prijavu (na crnogorskom i engleskom jeziku);
+- pravila o osnivanju privrednih društava;
+- pravilnik kojim se uređuje bliži sadržaj registracione prijave i dokumentacija potrebna za registraciju privrednih i drugih subjekata i stečajne mase u CRPS;
+- odluka kojom se uređuje visina naknade za registraciju privrednih subjekata odnosno drugih subjekata i stečajne mase u CRPS;
+- pravilnik kojim se uređuje bliži sadržaj i način dodjeljivanja registracionog broja za privredne i druge subjekte i stečajnu masu i sadržaj način dodjeljivanja EUID broja;
+- pravilnik kojim se uređuje bliži sadržaj i način vođenja registara u CRPS;
+- odluku o osnivanju i statut;
+- odluku o izmjeni statuta;
+- podatak o imenovanju, prestanku obavljanja funkcije i promjeni podataka o licima u privrednom odnosno drugom subjektu;
+- podatak o državljanstvu osnivača (preduzetnika, ortaka u ortačkom društvu, komplementara i komanditora u komanditnom društvu, članova u društvu sa ograničenom odgovornošću i akcionara u akcionarskom društvu);
+- finansijski izvještaj za svaku finansijsku godinu;
+- podatak o započinjanju odnosno otvaranju i okončanju postupka likvidacije ili stečaja privrednog odnosno drugog subjekta;
+- sudsku odluku kojom je utvrđena ništavost osnivačkog akta privrednog odnosno drugog subjekta;
+- imenovanja likvidatora odnosno stečajnog upravnika, podatke o njima i njihovim ovlašćenjima, osim ako ta ovlašćenja izričito i isključivo proizlaze iz zakona ili statuta privrednog odnosno drugog subjekta;
+- uslove za člana upravnog odbora, nadzornog odbora, odbora direktora;
+- svaku promjenu podataka iz ovog člana.
