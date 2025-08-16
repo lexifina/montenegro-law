@@ -1,0 +1,3 @@
+# Član 10
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+*U ovaj pravilnik prenijet je Implementirajuća Regulativa komisije (EU) 2020/1158 оd 5. avgusta 2020. o uslovima koji uređuju uvoz hrane i hrane za životinje porijeklom iz trećih zemalja nakon nesreće u nuklearnoj elektrani u Černobilu i Implementirajuća Regulativa Komisije (EU) 2024/256 оd 17. januara 2024. o izmjeni Implementirajuće Regulative (EU) broj 2020/1158 o uslovima koji uređuju uvoz hrane i hrane za životinje porijeklom iz trećih zemalja nakon nesreće u nuklearnoj elektrani u Černobilu
