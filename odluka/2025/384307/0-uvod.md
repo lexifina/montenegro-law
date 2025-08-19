@@ -1,0 +1,3 @@
+Na osnovu člana 68 i 69 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore", br. 20/14, 56/14 i 70/17, 4/18 i 55/18, 66/19, 70/21, 145/21 i 27/23), člana 40 i 41 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", broj 3/19 i 86/22), člana 38 stav 1 tačka 7 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20 i 50/22), člana 34 stav 1 tačka 7 i člana 37 stav 1 Statuta opštine Petnjica ("Službeni list Crne Gore  Opštinski propisi", broj 16/22), Skupština opštine Petnjica, na sjednici održanoj 23. 7. 2025. godine, donijela je
+ODLUKU
+o usvajanju Završnog računa Budžeta Opštine Petnjica za 2024. godinu
