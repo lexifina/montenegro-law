@@ -1,0 +1,2 @@
+# Član 2
+Obavezuje se "Đukica tours" d.o.o. Bar da prema Opštini izmiri naknadu za ustanovljenje prava stvarne službenosti u odnosu na zemljište iz člana 1 ove odluke, u ukupnom iznosu od 10.000,00 €, a prednje u roku od 8 (slovima:osam) dana od dana zaključenja ugovora, u skladu sa Izvještajem o procjeni vrijednosti prava službenosti postavljanja elektroenergetskog kabla, sačinjenim od strane Komore procjenitelja i sudskih vještaka Crne Gore, protokolisanog kod Opštine Bar pod brojem: 04-427/25-378 od 18. 7. 2025. godine.
