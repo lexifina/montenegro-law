@@ -1,0 +1,2 @@
+# Član 2
+Pravo na finansijsku podršku imaju preduzetnici, mikro, mala i srednja privredna društva iz oblasti turizma i ugostiteljstva koja su u Centralnom registru privrednih subjekata na dan 1. 5. 2025. godine registrovana pod šifrom djelatnosti: 5510, 5520, 5610 i koja obavljaju registrovanu djelatnost u poslovnim objektima koji su saobraćajno direktno povezani isključivo regionalnim putem Mojkovac Đurđevića Tara, a čiji obim aktivnosti trpi negativan uticaj usled potpunog zatvaranja puta Mojkovac - Đurđevića Tara.
