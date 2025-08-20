@@ -1,0 +1,56 @@
+{
+  "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/odluka_o_javnom_objavljivanju_podataka_o_ki_94-25.pdf",
+  "title": "Odluka o javnom objavljivanju podataka o kreditnoj instituciji",
+  "source_sha256": "4f329fd92e57d470e13e317ba222bf63f774bec6bb8b59c3cadab98367c5e6d2",
+  "source_bytes": 320259,
+  "pages": 28,
+  "source_images": 0,
+  "gazette_issue": "94/2025",
+  "publication_date": "2025-08-12",
+  "publication_evidence": {
+    "issue": "94/2025",
+    "date": "2025-08-12",
+    "quote": "94/25 od 12.08.2025",
+    "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontr_fin_usluga/odluka_o_izvjestajima_koje_rbcg_dostavlja_cbcg_prec_tekst_28-26.pdf",
+    "source_sha256": "4dcf241114ba3a8823028de23abdde6dd7a5ab789a5256d1d3104ed297577f70"
+  },
+  "commencement_quote": "Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore\", a primjenjivaće se od 1.",
+  "date": "2025-08-20",
+  "basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore\", a primjenjivaće se od 1.\"; Gazette 94/2025 publication on 2025-08-12 stated as \"94/25 od 12.08.2025\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontr_fin_usluga/odluka_o_izvjestajima_koje_rbcg_dostavlja_cbcg_prec_tekst_28-26.pdf.",
+  "text_sha256": "487dca4dcf5e5ef069b4f990530b976c12af287a5ce547934eae5de02bf4c91a",
+  "word_count": 10834,
+  "official_numbers": [
+    "0101-5891-18/2025"
+  ],
+  "path": "odluka/2025/0101-5891-18-2025",
+  "kind": "as-enacted",
+  "issuer": "Centralna banka Crne Gore",
+  "text_status": "as-enacted",
+  "in_force": "2025-08-20",
+  "in_force_basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore\", a primjenjivaće se od 1.\"; Gazette 94/2025 publication on 2025-08-12 stated as \"94/25 od 12.08.2025\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontr_fin_usluga/odluka_o_izvjestajima_koje_rbcg_dostavlja_cbcg_prec_tekst_28-26.pdf.",
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "complete": true,
+  "first_law": null,
+  "source_listing": "https://www.cbcg.me/me/o-nama/regulativa/podzakonski-akti",
+  "related_pis_candidates": [
+    384514
+  ],
+  "official_number": "0101-5891-18/2025",
+  "official_number_quote": "O.br. 0101-5891-18/2025",
+  "line_endings": "LF",
+  "current_text_asserted": false,
+  "related_official_versions": [
+    {
+      "title": "Odluka o javnom objavljivanju podataka o kreditnoj instituciji",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/odluka_o_javnom_objavljivanju_podataka_o_ki_prec_tekst_138-26.pdf",
+      "source_context": "- Odluka o javnom objavljivanju podataka o kreditnoj instituciji („Sl. list Crne Gore“ br. 94/25, 138/26) - Neslužbeni prečišćeni tekst"
+    },
+    {
+      "title": "Odluka o dopuni Odluke o javnom objavljivanju podataka o kreditnoj instituciji",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/dopuna_odluke_o_javnom_objavljivanju_podataka_o_ki_138-26.pdf",
+      "source_context": "Odluka o dopuni Odluke o javnom objavljivanju podataka o kreditnoj instituciji („Sl. list Crne Gore“ br. 138/26)"
+    }
+  ],
+  "version_note": "Text as enacted; linked amendments and consolidated copies are separate records and are not applied to this text."
+}
