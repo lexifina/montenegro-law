@@ -1,0 +1,2 @@
+# Član 9
+U članu 26 stav 1 poslije riječi "može" dodaju se riječi: "da klasifikuje", poslije riječi: "ove odluke" zarez i riječ "klasifikovati" brišu se, a tačka na kraju rečenice zamjenjuje se zarezom i dodaju riječi: "odnosno kreditna institucija nije dužna da prilikom utvrđivanja ispunjenosti uslova za status neizmirenja obaveza ispituje kriterijume iz člana 218 stav 1 tačka 2 Odluke o adekvatnosti kapitala.".
