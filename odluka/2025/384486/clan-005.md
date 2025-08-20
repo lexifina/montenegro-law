@@ -1,0 +1,4 @@
+# Član 5
+Izgled lica zlatnika i srebrnjaka (avers) je sljedeći: u centralnom dijelu oznaka nominalne vrijednosti i novčane jedinice - za zlatnik "10 PERPERA", a za srebrnjak "1 PERPER", sa lijeve strane se nalazi grb Crne Gore, dok je u gornjem dijelu duž oboda ispisan latiničnim pismom tekst "CRNA GORA", a u donjem dijelu duž oboda su ispisane godine "2001-2026".
+Izgled naličja zlatnika i srebrnjaka (revers) je sljedeći: u centralnom dijelu vizuelni prikaz zgrade Muzeja novca Centralne banke Crne Gore, ispod čije donje ivice se nalazi latinični natpis "MUZEJ NOVCA, CETINJE", ispod kojeg je logo Centralne banke, u gornjem dijelu obodom je latiničnim pismom ispisan tekst "CENTRALNA BANKA CRNE GORE", a u donjem dijelu latiničnim pismom duž oboda je ispisan tekst "25 GODINA".
+Obod zlatnika i srebrnjaka je gladak.
