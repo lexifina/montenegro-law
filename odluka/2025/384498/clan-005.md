@@ -1,0 +1,3 @@
+# Član 5
+Izgled lica zlatnika i srebrnjaka (avers) je sljedeći: u centralnom dijelu natpis "20 godina obnove nezavisnosti Crne Gore", pri čemu broj 20 dominira u ovom prikazu, dok je u donjem lijevom uglu godina 2026, a duž cijelog ruba se nalazi crnogorski zlatovez.
+Izgled naličja zlatnika i srebrnjaka (revers) je sljedeći: u centralnom dijelu vizuelni prikaz crnogorskog kola - oro - pogled odozdo, pri čemu je unutar ora grb Crne Gore; sa donje strane na obodu je ispisana nominalna vrijednost, "10 PERPERA" za zlatnik, odnosno "1 PERPER" za srebrnjak; sa gornje strane duž oboda je latiničnim pismom ispisan natpis "CRNA GORA". Obod zlatnika i srebrnjaka je gladak.
