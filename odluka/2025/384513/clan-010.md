@@ -1,0 +1,12 @@
+# Član 10
+Član 14 mijenja se i glasi:
+"Praćenje indikatora u planu oporavka
+Član 14
+(1) Kreditna institucija je dužna da uspostavi adekvatan sistem redovnog praćenja izabranih indikatora i donese interni akt k oji sadrži dinamiku i način praćenja, kao i postupak izvještavanja o indikatorima.
+(2) Kreditna institucija je dužna da na zahtjev Centralne banke dostavi vrijednosti indikatora iz plana oporavka najmanje na mjesečnoj osnovi, čak i ako nije došlo do promjene tih vrijednosti.
+(3) U smislu stava 1 ovog člana, kreditna institucija je dužna da razmotri korišćenje progresivnih nivoa ("pristup semafora") sa ciljem informisanja upravnog odbora kreditne institucije o mogućnosti da indikatori dostignu određeni nivo vrijednosti.
+(4) Dostizanje utvrđenog nivoa vrijednosti indikatora ne podrazumijeva automatsko sprovođenje predviđene mjere oporavka, već upućuje na potrebu pokretanja postupaka eskalacije kako bi se donijela odluka o preduzimanju ili uzdržavanju od preduzimanja mjera predviđenih planom oporavka.
+(5) Ako kreditna institucija, redovnim praćenjem, utvrdi da su izabrani indikatori dostigli nivo određen za preduzimanje mjera iz plana oporavka, u roku od jednog radnog dana obavještava o tome upravni odbor kreditne institucije (interna eskalacija), koji je dužan da najkasnije u roku pet radnih dana donese odluku o preduzimanju ili uzdržavanju od preduzimanja mjera iz plana oporavka, kao i da o toj odluci bez odlaganja obavijesti Centralnu banku.
+(6) Ako upravni odbor kreditne institucije donese odluku iz stava 5 ovog člana o uzdržavanju od preduzimanja mjera iz plana oporavka, kreditna institucija je dužna da u obavještenju Centralnoj banci detaljno obrazloži takvu odluku.
+(7) Upravni odbor kreditne institucije može da donese odluku o preduzimanju opcija oporavka predviđenih planom oporavka i ako utvrđeni indikatori nijesu dostigli nivo određen za preduzimanje mjera iz plana oporavka, o čemu kreditna institucija bez odlaganja obavještava Centralnu banku.
+(8) Ako je kreditna institucija donijela odluku o preduzimanju mjere predviđenih planom oporavka i/ili dodatne mjere oporavka koje nisu bile predviđene planom oporavka, dužna je da uz obaviještenje Centranoj banci dostavi i akcioni plan zasnovan na potencijalnim, vjerodostojnim i mjerama oporavka koje se mogu sprovesti u situaciji ozbiljnog finansijskog poremećaja, kao i vremenski plan za dostizanje nivoa indikatora utvrđenih planom oporavka.".
