@@ -1,0 +1,8 @@
+# Član 19
+## Sprovođenje postupka procjene ispunjenosti uslova primjerenosti
+(1) Kreditna institucija je dužna da, prije podnošenja zahtjeva iz člana 13 ove odluke, sprovede postupak procjene ispunjenosti uslova primjerenosti za svakog kandidata za člana nadzornog odbora, odnosno upravnog odbora.
+(2) Kreditna institucija je dužna da sprovede postupak procjene uslova primjerenosti i za svakog kandidata za nosioca ključne funkcije u kreditnoj instituciji prije imenovanja na tu funkciju.
+(3) Izuzetno od stava 2 ovog člana, kreditna institucija može da sprovede postupak procjene uslova primjerenosti nosioca ključne funkcije i nakon njegovog imenovanja, ako okolnosti nijesu dozvolile procjenu uslova primjerenosti prije imenovanja, u roku od 45 dana od dana imenovanja.
+(4) Ako kreditna institucija u toku postupka iz stava 3 ovog člana utvrdi da kandidat za nosioca ključne funkcije ne ispunjava uslove primjerenosti, to lice ne može dalje da obavlja dužnost na koju je imenovan.
+(5) Kreditna institucija je dužna da procjenu postojanja sukoba interesa iz člana 6 stav 4 ove odluke, vrši i u odnosu na postojeće članove nadzornog odbora, odnosno upravnog odbora, kao i da svaki utvrđeni ili potencijalni sukob interesa dokumentuje, prati i njime upravlja i po potrebi preduzme mjere za smanjenje, odnosno otklanjanje sukoba interesa kako bi bila obezbijeđena nezavisnost mišljenja i samostalno obavljanje dužnosti.
+(6) Ako u skladu sa članom 6 stav 4 ove odluke utvrdi postojanje sukoba interesa koji može da utiče na nezavisno mišljenje člana nadzornog odbora, odnosno upravnog odbora, kreditna institucija je dužna da o tome bez odlaganja obavijesti Centralnu banku uključujući mjere koje je preduzela za smanjenje tog uticaja.

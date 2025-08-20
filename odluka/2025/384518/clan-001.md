@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovom odlukom uređuju se bliži uslovi za izbor i imenovanje članova organa upravljanja i nosilaca ključnih funkcija u kreditnoj instituciji (u daljem tekstu: uslovi primjerenosti), dinamika procjene ispunjenosti uslova primjerenosti, kriterijumi za određivanje nazavisnosti članova nadzornog odbora kreditne institucije, sadržaj politika i procedura za izbor i procjenu ispunjenosti uslova primjerenosti, postupak za izdavanje odobrenja i dokumentacija koja se prilaže uz zahtjeve za izdavanje odobrenja za obavljanje funkcije članova organa upravljanja kreditne institucije, kao i kriterijumi za utvrđivanje značajnosti kreditnih institucija.
