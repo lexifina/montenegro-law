@@ -1,0 +1,2 @@
+Na osnovu člana 38 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18 , 34/19, 38/20, 50/22 i 84/22) člana 36 tačka 9 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", br. 37/19) , člana 13 Odluke o utvrđivanju kriterijuma, uslova i postupka za davanje u zakup zemljišta čiji subjekt raspolaganja je Opština Kotor radi postavljanja privremenih objekata, Skupština opštine Kotor, na XXVII sjednici održanoj 31. 7. 2025. godine, donijela je
+ODLUKU
