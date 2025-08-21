@@ -1,0 +1,2 @@
+Na osnovu čl.59 i čl.154 st.2 i st.4 Zakona o socijalnoj i dječijoj zaštiti ("Službeni list Crne Gore", br. 27/13, 1/15, 42/15, 47/15, 55/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/21, 145/21 i 3/23) čl.38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i član 36 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", br. 37/19), Skupština opštine Kotor je na XXVII sjednici održanoj 31. 7. 2025. godine, donijela je
+ODLUKU
