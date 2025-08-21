@@ -1,0 +1,3 @@
+Na osnovu člana 34 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09, 40/11 i 23/25), člana 38 a u vezi sa članom 28 stav 2 alineja 5 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br 2/18, 34/19, 38/20, 50/22 i 84/22), člana 1 Zakona o eksproprijaciji ("Službeni list Crne Gore", br. 55/00, 12/02, 28/06, 21/08, 30/17, 75/18, 33/24 i 53/25) i članova 19 i 36 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", br. 37/19), Skupština opštine Kotor, na XXVII sjednici održanoj dana 31. 7. 2025. godine, donijela je
+ODLUKU
+o izmjenama i dopunama Odluke o utvrđivanju javnog interesa radi pokretanja postupka
