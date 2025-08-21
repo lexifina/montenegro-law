@@ -1,0 +1,2 @@
+Na osnovu člana 34 i člana 40 st.2 tač.4 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09, 40/11 i 23/25), člana 7 st.1, člana 4 st.1 i člana 8 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list Crne Gore", br. 44/10), člana 34 st.1 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br.2/18, 34/19, 38/20, 50/22 i 84/22) i člana 19 i 36 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", br. 37/19), Skupština opštine Kotor, na XXVII sjednici održanoj dana 31. 7. 2025. godine, donosi sljedeću
+ODLUKU
