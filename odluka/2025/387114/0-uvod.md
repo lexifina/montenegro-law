@@ -1,0 +1,2 @@
+Na osnovu člana 4, stav 2 i člana 5 Odluke o izgradnji lokalnih objekata od opšteg interesa ("Službeni list Crne Gore  Opštinski propisi", broj 14/22, 59/22 i 30/23), člana 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 36 Statuta Opštine Kotor ("Službeni list Crne Gore  Opštinski propisi", br. 37/19), Skupština opštine Kotor, na XXVII sjednici održanoj dana 31. 7. 2025. godine, donijela je
+O D L U K U
