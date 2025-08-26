@@ -1,0 +1,2 @@
+Agencija za elektronske komunikacije i poštansku djelatnost (u daljem tekstu: Agencija), na osnovu čl. 41 stav 6, 179 stav 2 tačka 1 i 181 stav 1 tačka 2 Zakona o elektronskim komunikacijama ("Službeni list Crne Gore", br. 100/24), na sjednici Savjeta od 7. 8. 2025. godine donijela je
+PRAVILNIK O NAČINU PRIKAZIVANJA ELEKTRONSKOG PROGRAMSKOG VODIČA I SLIČNIH PISANIH I NAVIGACIONIH MOGUĆNOSTI KOD PRENOSA DIGITALNIH RADIO I TELEVIZIJSKIH PROGRAMA
