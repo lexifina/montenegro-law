@@ -1,0 +1,2 @@
+Komisija za tržište kapitala Crne Gore (u daljem tekstu: Komisija), na osnovu čl. 89 stav 4 i 90 stav 4 Zakona o otvorenim investicionim fondovima sa javnom ponudom ("Službeni list Crne Gore", br. 23/25) - (u daljem tekstu: Zakon) na 136. sjednici od 8. 8. 2025. godine, donosi
+PRAVILA O STRUKTURI I SADRŽAJU FINANSIJSKIH IZVJEŠTAJA I DRUGIH IZVJEŠTAJA DRUŠTVA ZA UPRAVLJANJE OTVORENIM INVESTICIONIM FONDOVIMA SA JAVNOM PONUDOM
