@@ -1,0 +1,9 @@
+# Član 5
+## Fizički i tehnički uslovi
+Bežične pristupne tačke kratkog dometa, u smislu člana 4 stav 1 tačka 2 ovog pravilnika, moraju ispunjavati sljedeće fizičke i tehničke uslove:
+1) ukupni obim javnosti vidljivog dijela bežične pristupne tačke kratkog dometa koju koristi jedan ili više korisnika radio-frekvencijskog spektra ne smije premašiti 30 litara;
+2) ukupni obim javnosti vidljivih djelova više zasebnih bežičnih pristupnih tačaka kratkog dometa koje su smještene na istu infrastrukturnu lokaciju pojedinačne ograničene površine, kao što su stub ulične rasvjete, semafor, reklamni pano ili autobuska stanica, ne smije premašiti 30 litara;
+3) ako se antenski sistem i drugi elementi bežične pristupne tačke kratkog dometa, kao što su radio jedinica, digitalni procesor, jedinica za skladištenje, rashladni sistem, uređaj za napajanje, kablovski priključci, elementi za povezivanje na mrežu ili elementi za uzemljenje i pričvršćivanje, instaliraju odvojeno, nijedan njihov dio koji premašuje 30 litara ne smije biti vidljiv javnosti;
+4) bežične pristupne tačke kratkog dometa moraju biti vizuelno usklađene s nosećom konstrukcijom i imati veličinu koja je srazmjerna ukupnoj veličini noseće konstrukcije, skladan oblik, neutralne boje koje odgovaraju nosećoj konstrukciji ili se stapaju s njom i skrivene kablove, pri čemu ne smiju, zajedno s drugim bežičnim pristupnim tačkama kratkog dometa koje su već instalirane na istoj ili bliskim lokacijama, združeno stvarati vizuelnu pretrpanost;
+5) masa i oblik bežične pristupne tačke kratkog dometa su takvi da ne iziskuju strukturno ojačavanje noseće konstrukcije;
+6) bežična pristupna tačka kratkog dometa instalacione klase E10 postavlja se isključivo na otvorenom prostoru ili u velikom zatvorenom prostoru s visinom plafona od najmanje 4 m.

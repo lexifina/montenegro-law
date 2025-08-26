@@ -1,0 +1,8 @@
+# Član 4
+## Opšti uslovi
+Postavljanje bežičnih pristupnih tačaka kratkog dometa ne podliježe urbanističkim ili drugim pojedinačnim i prethodnim dozvolama od strane za to nadležnog organa, kada se iste postavljaju u skladu sa kriterijumima za instalacione klase E0, E2 i E10 propisanim standardom MEST EN 62232:2022, tačka 6.2.5, Tabela 2 i ako:
+1) su potpuno i sigurno ugrađene u svoju noseću konstrukciju, pa nisu vidljive javnosti, ili
+2) ispunjavaju fizičke i tehničke uslove iz člana 5 ovog pravilnika.
+Izuzetno od stava 1 ovog člana, za postavljanje bežičnih pristupnih tačaka kratkog dometa na zgradama ili lokacijama arhitektonske, istorijske, prirodne ili kulturne vrijednosti koje su zaštićene u skladu sa važećim propisima ili, po potrebi, iz razloga javne bezbjednosti, neophodno je pribaviti dozvolu od strane nadležnog organa u skladu sa zakonom.
+Ako se na istoj lokaciji postavlja više antenskih sistema (ili njihovih djelova) jedne ili više bežičnih pristupnih tačaka kratkog dometa na koje se odnosi ovaj pravilnik, kriterijum za EIRP sadržan u standardu iz stava 1 ovog člana primjenjuje se na zbir EIRP svih antenskih sistema (ili njihovih djelova) na toj lokaciji.
+Odredba stava 1 ovog člana ne sprječava organ državne uprave nadležan za zaštitu životne sredine da odredi granice združenog izlaganja elektromagnetnim poljima u slučaju kolokacije ili agregacije bežičnih pristupnih tačaka kratkog dometa na lokalnom području i da obezbijedi usklađenost s važećim granicama ukupne izloženosti elektromagnetnim poljima na drugi način osim izdavanjem pojedinačnih dozvola u vezi sa postavljanjem bežičnih pristupnih tačaka kratkog dometa.
