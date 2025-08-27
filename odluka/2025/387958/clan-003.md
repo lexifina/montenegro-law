@@ -1,0 +1,4 @@
+# Član 3
+Prodaja zemljišta iz člana 1 stav 1 ove odluke, vrši se po utvrđenoj cijeni od 185,00 € po m2 zemljišta, što za površinu od 41 m2 iznosi 7.585,00 €, u skladu sa procjenom Komisije za procjenu nepokretnih stvari u imovini Opštine Nikšić od 17. 7. 2025. godine koja je formirana Rješenjem predsjednika Opštine Nikšić, broj 02-031-2538 od 16. 6. 2024. godine.
+Perković Veselin je, ukoliko se ukaže potreba za tim dužan da riješi imovinsko-pravne odnose sa Spaić Žarkom čija katastarska parcela ulazi u sastav predmetne urbanističke parcele.
+Opština Nikšić je saglasna da iznos cijene iz stava 1 ovog člana shodno Ugovoru o zajedničkoj gradnji UZZ, broj 1276/2024 od 11. 11. 2024. godine sačinjenog kod notara Ljubiše Markovića uplati "VS Invest NK" DOO Nikšić u roku od 60 dana od stupanja na snagu ove odluke, u protivnom pokrenuće se postupak za prestanak važenja iste.
