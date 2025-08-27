@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 7 Zakona o zaštiti dobrobiti životinja ("Službeni list CG", br. 14/08, 40/11 i 47/15), člana 15 stav 1 Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16, 74/16, 02/18, 66/19, 140/22 i 84/24), člana 27 tačka 24 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22 i 81/25) i člana 38 stav 1 Statuta Opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 31/18, 21/23 i 62/25), Skupština opštine Nikšić, na sjednici održanoj 11. 8. 2025. godine, donijela je
+ODLUKU
