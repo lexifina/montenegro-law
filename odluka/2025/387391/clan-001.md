@@ -1,0 +1,4 @@
+# Član 1
+## o prodaji građevinskog zemljišta "Heladi-Mont" DOO Nikšić radi dokompletiranja urbanističke parcele broj 8 (Urbanistički blok 6C), u obuhvatu Detaljnog urbanističkog plana "Centar"
+Opština Nikšić prodaje neposrednom pogodbom, "Heladi-Mont" DOO Nikšić, zemljište ukupne površine 479 m2, označeno katastarskom parcelom broj 5001, dvorište površine 479 m2 upisana u "A" listu lista nepokretnosti broj 2826 KO Nikšić, kao svojina države Crne Gore sa pravom raspolaganja Opštine Nikšić, po ukupnoj cijeni od 264,00 € po m2.
+Zemljište iz stava 1 ovog člana prodaje se za potrebe dokompletiranja urbanističke parcele broj 8 (Urbanistički blok 6C), u skladu sa Odlukom o Detaljnom urbanističkom planu "Centar" ("Službeni list Crne Gore", broj 50/18), na kojoj je planirana izgradnja poslovno-stambenog objekta, spratnosti P+3.
