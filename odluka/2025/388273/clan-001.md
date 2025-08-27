@@ -1,0 +1,6 @@
+# Član 1
+## komita u Nikšiću
+Ovom odlukom daje se saglasnost Opštini Nikšić za kupovinu nepokretnosti za potrebe rekonstrukcije Ulice crnogorskih komita u Nikšiću i to:
+- dijela katastarske parcele broj 435/16, u površini od 10 m2 (u spisku prijava novog stanja elaboratom parcelacije označena katastarskom parcelom broj 435/18) i dijela katastarske parcele broj 430/3, u površini od 37 m2 (u spisku prijava novog stanja elaboratom parcelacije označena katastarskom parcelom broj 430/4), upisane u listu nepokretnosti broj 4204 KO Nikšić kao zajednička nedjeljiva svojina stanara stambeno-poslovne zgrade;
+- dijela katastarske parcele broj 435/13, u površini od 99 m2 (u spisku prijava novog stanja elaboratom parcelacije označena katastarskom parcelom broj 435/19), upisane u listu nepokretnosti broj 258 KO Nikšić kao korišćenje Burić Vladimira;
+- dijela katastarske parcele broj 553, u površini od 5 m2 (u spisku prijava novog stanja elaboratom parcelacije označena katastarskom parcelom broj 553/2), upisane u listu nepokretnosti broj 641 KO Nikšić kao korišćenje Dakić Draginje i - dijela katastarske parcele broj 555, u površini od 5 m2 (u spisku prijava novog stanja elaboratom parcelacije označena katastarskom parcelom broj 555/2), upisane u listu nepokretnosti broj 1672 KO Nikšić kao svojina Milović Stanka.
