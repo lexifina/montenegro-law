@@ -1,0 +1,2 @@
+# Član 2
+Urbanističku parcelu broj 7 (Urbanistički blok 8 A), ukupne površine 505 m2, pored zemljišta iz člana 1 stav 1 ove odluke, čini katastarska parcela broj 2144/1, dvorište površine 350 m2, zemljište pod objektom broj 1-porodičnom stambenom zgradom površine 111 m2 i zemljište pod objektom broj 2-pomoćnom zgradom površine 16 m2 upisana u listu nepokretnosti, broj 375 KO Nikšić, kao svojina "Amud-a" DOO Nikšić.
