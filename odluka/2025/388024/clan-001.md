@@ -1,0 +1,3 @@
+# Član 1
+## javnog interesa - dječijeg vrtića u Nikšiću
+Vladi Crne Gore vraća se pravo raspolaganja, bez naknade, na zemljištu ukupne površine 2897 m2 označeno kao: katastarska parcela broj 4935/1, građevinska parcela površine 1547 m2, katastarska parcela broj 4976, zemljište uz poslovno-stambenu zgradu površine 615 m2, katastarska parcela broj 4977, zemljište uz poslovno-stambenu zgradu površine 367 m2 koje ulaze u urbanističku parcelu broj 1 (zona A, blok 1) i katastarska parcela broj 4960, građevinska parcela površine 368 m2, koja predstavlja dio urbanističke parcele broj 2 (zona A, blok 1), sve upisane u listu nepokretnosti broj 2866 KO Nikšić kao svojina države Crne Gore sa pravom raspolaganja Opštine Nikšić.
