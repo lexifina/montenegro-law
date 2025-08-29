@@ -1,0 +1,7 @@
+# Član 4
+## Izgradnja elektronske komunikacione mreže, elektronske komunikacione infrastrukture i povezane opreme
+Izgradnja elektronske komunikacione mreže, elektronske komunikacione infrastrukture i povezane opreme se vrši na osnovu glavnog projekta, koji se priprema u skladu sa relevantnim propisima kojima se uređuju prostorno planiranje, izgradnja objekata i elektronske komunikacije, kao i relevantnim propisima iz oblasti zaštite na radu, zaštite od požara, zaštite životne sredine i zaštite života i zdravlja ljudi.
+Izgradnja elektronske komunikacione mreže, elektronske komunikacione infrastrukture i povezane opreme se vrši na način da omogućava postavljanje svih sastavnih elemenata širokopojasnih elektronskih komunikacionih mreža.
+Elementi elektronske komunikacione mreže, elektronske komunikacione infrastrukture i povezane opreme treba da svojom konstrukcijom i načinom instaliranja budu otporni na moguće štetne uticaje okoline u kojoj se instaliraju.
+Prilikom izgradnje elektronske komunikacione mreže, elektronske komunikacione infrastrukture i povezane opreme treba sprovesti mjere za njihovu zaštitu od oštećenja do kojih bi moglo da dođe korišćenjem zemljišta, objekata i sistema u njihovoj okolini, poštovanjem standarda iz ove oblasti.
+Vlasnik elektronske komunikacione mreže, elektronske komunikacione infrastrukture i povezane opreme obavezan je da vodi evidenciju o elementima mreže, infrastrukture i opreme.
