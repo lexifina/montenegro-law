@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 1 tačka 1, u vezi sa članom 34 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 40 stav 1 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11 i 23/25) i člana 17 stav 5 Statuta Opštine Žabljak ("Službeni list CG - Opštinski propisi", br. 27/18), Skupština opštine Žabljak, na sjednici održanoj dana 6. 8. 2025. godine, donijela je
+ODLUKU
