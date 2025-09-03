@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 29 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 17 stav 2 i člana 19 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18, 34/19, 130/21, 146/21, 92/22, 152/22, 113/23 i 48/24) i člana 32 tačka 2 i 30 Statuta Opštine Žabljak ("Službeni list CG - Opštinski propisi", br. 27/18), Skupština opštine Žabljak, na sjednici održanoj 6. 8. 2025. godine, donijela je
+ODLUKU
+o kriterijumima i načinu određivanja dodatka na zaradu za obavljenje poslova na određenim
