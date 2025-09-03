@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti o ustanovljenju prava stvarne službenosti u korist "Crnogorskog elektrodistributivnog sistema" DOO Podgorica
+Daje se saglasnost "Crnogorskom elektrodistributivnom sistemu" DOO Podgorica, na ustanovljenje prava stvarne službenosti na katastarskoj parceli broj 441, nekategorisani put površine 679m2 i katastarskoj parceli broj 442, nekategorisani put površine 60 m2 obje upisane u list nepokretnosti broj 90 KO Pašina Voda II, svojina država Crna Gora sa pravom raspolaganja Opština Žabljak, radi postavljanja elektroenergetskog kabla za izgradnju STS 10/0.4 kV "Pošćenski kraj III" u skladu sa ovjerenim geodetskim elaboratom izrađenim od strane "GEONANA" Podgorica.
