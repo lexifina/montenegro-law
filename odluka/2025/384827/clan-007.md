@@ -1,0 +1,2 @@
+# Član 7
+Prije otpočinjanja radnje premještanja vozila na drugo mjesto, radi obezbjeđenja dokaza neophodnih za vođenje prekršajnog i upravnog postupka, inspektor je dužan da na licu mjesta sačini foto zapis na kojem će se jasno vidjeti položaj vozila kojim je izvršen prekršaj i vizuelno uočena oštećenja na vozilu koja su nastala prije njegovog podizanja, registarska oznaka i bitna obilježja prekršaja.

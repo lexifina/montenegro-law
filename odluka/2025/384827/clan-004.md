@@ -1,0 +1,2 @@
+# Član 4
+Poslove premještanja (utovara, istovara, prevoza vozila na drugo mjesto ili mjesto određeno za čuvanje premještenog vozila i čuvanje vozila) vrši Služba, u skladu sa Zakonom o bezbjednosti saobraćaja na putevima i odredbama Pravilnika o bližim uslovima koje mora da ispunjava privredno društvo ili preduzetnik za obavljanje poslova premještanja vozila i načinu premještanja i čuvanja vozila "Službeni list Crne Gore", broj 22/13 i 82/20 (u daljem tekstu: Pravilnik).
