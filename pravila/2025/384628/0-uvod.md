@@ -1,0 +1,2 @@
+Komisija za tržište kapitala Crne Gore (u daljem tekstu: Komisija), na osnovu čl. 67 stav 4 i 68 stav 3 Zakona o alternativnim investicionim fondovima ("Službeni list Crne Gore", br. 24/25) - (u daljem tekstu: Zakon) na 140. sjednici od 28. 8. 2025. godine, donosi
+P R AV I L A O STRUKTURI I SADRŽAJU FINANSIJSKIH IZVJEŠTAJA I DRUGIH IZVJEŠTAJA DRUŠTVA ZA UPRAVLJANJE ALTERNATIVNIM INVESTICIONIM FONDOVIMA
