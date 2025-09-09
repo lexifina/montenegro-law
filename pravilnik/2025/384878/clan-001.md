@@ -1,0 +1,3 @@
+# Član 1
+## Predmet i pravni osnov
+Ovim Pravilnikom propisuje se metodologija za obračunavanje neto troškova pružanja univerzalne usluge, uključujući način utvrđivanja troškova, uzimanje u obzir materijalnih i nematerijalnih koristi, opšti principi i kriterijumi za ocjenu nepravednog tereta, način podnošenja izvještaja za naknadu neto troškova operatora univerzalne usluge, verifikacija neto troškova i odlučivanje o naknadi, određivanje visine i načina plaćanja doprinosa i vođenje evidencija o finansiranju univerzalne usluge, u skladu sa Zakonom o elektronskim komunikacijama (u daljem tekstu Zakon).
