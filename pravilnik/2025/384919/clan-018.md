@@ -1,0 +1,5 @@
+# Član 18
+## Realizacija opravdanog zahtjeva
+Zahtjev za pružanje univerzalne usluge, korisnik podnosi u pisanoj formi, operatoru univerzalne usluge.
+Opravdani zahtjev za pružanje univerzalne usluge se može realizovati bilo kojom tehnologijom ili kombinacijom tehnologija, koje zadovoljavaju zahtjeve univerzalne usluge. Za potrebe realizacije opravdanog zahtjeva operator univerzalne usluge može iznajmiti infrastrukturu i/ili koristiti usluge drugih operatora, ako na lokaciji na koju se zahtjev odnosi nema izgrađenu elektronsku komunikacionu mrežu ili odgovarajuću pokrivenost signalom. Operator univerzalne usluge je dužan da realizuje pružanje univerzalne usluge u roku od najviše 65 dana od dana podnošenja zahtjeva za realizaciju iste.
+U slučaju zahtjeva za pružanje univerzalne usluge koji se odnose na isto područje i podnose se zajedno operatoru univerzalne usluge, takvi se zahtjevi tretiraju kao jedna cjelina, a trošak priključka, ako ga ima, pada na teret korisnika koji se dijeli u istom iznosu među njima.

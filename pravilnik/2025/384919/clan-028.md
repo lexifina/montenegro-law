@@ -1,0 +1,3 @@
+# Član 28
+## Prestanak važenja
+Danom početka primjene ovog Pravilnika prestaju da važe: Uredba o minimalnom skupu usluga koje obuhvata univerzalni servis ("Sl. list CG", br. 46/14 i 72/20), Pravilnik o kvalitetu usluga univerzalnog servisa ("Sl. list CG", broj 23/14), Pravilnik o utvrđivanju brzine prenosa podataka za funkcionalan pristup internetu putem univerzalnog servisa ("Sl. list CG", br. 46/14, 80/18 i 10/24), Pravilnik o kriterijumima za ocjenu opravdanosti zahtjeva korisnika za pristup javnoj elektronskoj komunikacionoj mreži putem univerzalnog servisa ("Sl. list CG", broj 56/13) i Pravilnik o načinu procjene pristupačnosti cijena usluga i posebnih paketa univerzalnog servisa za socijalno ugrožena lica i lica sa invaliditetom ("Sl. list CG", br. 33/14 i 13/17).
