@@ -1,0 +1,2 @@
+# Član 55
+Danom stupanja na snagu ove odluke nastavljaju sa radom u okviru djelokruga utvrđenog ovom odlukom: Sekretarijat za lokalnu samoupravu i društvene djelatnosti, Sekretarijat za finansije i budžet, Sekretarijat za uređenje prostora, zaštitu životne sredine i saobraćaj, Sekretarijat za preduzetništvo i poljoprivredu, Direkcija za imovinu i zaštitu imovinsko-pravnih interesa, Služba predsjednika opštine, Služba glavnog administratora, Služba komunalne policije i inspekcije.

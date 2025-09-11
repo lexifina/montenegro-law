@@ -1,0 +1,3 @@
+# Član 25
+Organi lokalne uprave i službe dužni su da na vidnom mjestu i na web sajtu Opštine istaknu standarde postupanja koji su od značaja za ostvarivanje prava i izvršavanje obaveza građana, radno vrijeme prema građanima, uslove i način ostvarivanja prava i obaveza, lična imena i službena svojstva službenika ovlašćenih za preduzimanje radnji i sl.
+Podatke, odnosno obavještenja o radu organa lokalne uprave daje starješina organa lokalne uprave ili lice koje on ovlasti. Za objavljivanje akata za koje je po zakonu propisana obaveza objavljivanja na web sajtu opštine neposredno je odgovoran starješina organa lokalne uprave, odnosno rukovodilac službe.

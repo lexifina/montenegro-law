@@ -1,0 +1,31 @@
+# Član 17
+Direkcija za imovinu i zaštitu imovinsko-pravnih interesa opštine vrši poslove koji se odnose na:
+- pripremu propisa iz nadležnosti Direkcije i praćenje sprovođenja;
+- priprema propisa i obrada akata u vezi sa raspolaganjem državnom imovinom iz okvira ovlašćenja Opštine (odluke, ugovori, rješenja);
+- pripremu predloga odluka i drugih akata za predsjednika Opštine i Skupštinu koji se tiču raspolaganja imovinom Opštine;
+- pripremu i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština i predsjednik Opštine iz svog djelokruga rada;
+- pripremu rješenja, ugovora i drugih akata, koji se tiču realizacije skupštinskih odluka o raspolaganju nepokretnom imovinom Opštine;
+- sprovođenje postupka prodaje i davanja u zakup nepokretnih stvari i drugih dobara kojima raspolaže opština, - pripremu predloga ugovora o prodaji, razmjeni, zakupu nepokretnosti, uspostavljanju hipoteke ili fiducije i sl., zaključivanje tih ugovora kada je posebno ovlašćena i praćenje njihove realizacije; - davanje mišljenja na nacrt i prijedlog izmjene zakona i drugih propisa iz nadležnosti Direkcije koji se dostavljaju na izjašnjavanje Opštini;
+- pripremanje pojedinačnih odluka i ugovora po nalogu predsjednika Opštine;
+- racionalno i namjensko korišćenje i upravljanje imovinom opštine;
+- pokretanje postupka za upis prava na nepokretnostima, eksproprijaciju, parcelaciju, razgraničenje i druge upravne poslove u vezi sa imovinskim pravima opštine;
+- zastupanje Opštine pred nadležnim sudovima i organima uprave radi zaštite imovinskih prava i interesa Opštine;
+- preduzimanje mjera i ulaganje pravnih sredstava radi zaštite imovinskih prava i interesa opštine; - sprovođenje postupka i pripremanje predloga akta i ugovora u slučajevima prodaje zemljišta neposrednom pogodbom i praćenje njihove realizacije;
+- vođenje jedinstvene evidencije imovine Opštine, u skladu sa zakonom;
+- predlaganje akata koja se odnose na imovinska prava i ovlašćenja koje Opština vrši u pogledu imovine koja služi za ostvarivanje njenih funkcija i vođenje evidencije te imovine;
+- pokretanje postupka prenosa prava na građevinskom zemljištu i vršenje stručne obrade akata o prenosu prava na građevinskom zemljištu;
+- davanje mišljenja na predloge akata o raspolaganju državnom imovinom koje pripremaju javne službe čiji je osnivač opština;
+- vođenje evidencije o svojinsko-pravnim promjenama nastalim po osnovu tih akata i pokretanje postupka za promjene upisa prava na nepokretnostima;
+- pokretanje postupka eksproprijacije shodno Programu uređivanja građevinskog zemljišta i zastupanje opštine do okončanja postupka;
+- pripremanje predloga odluka o utvđivanju opšteg interesa za eksproprijaciju nepokretnosti koje se eksproprišu u cilju izgradnje objekata koji su od interesa za opštinu;
+- obavljanje geodetskih poslova za organe lokalne uprave;
+- terenski uviđaj u vezi sa prikupljanjem podataka o nepokretnostima;
+- vođenje postupka i rješavanje o predaji neizgrađenog gradskog građevinskog zemljišta ranijih vlasnika radi privođenja namjeni određenoj planom;
+- davanje podataka organima opštine na osnovu evidencije koju vodi;
+- pripremanje izvještaja o stanju imovine kao i pripremu informativnih i drugih sručnih materijala za Skupštinu i predsjednika Opštine, i organe uprave iz svog djelokruga;
+- procjene nepokretnosti za potrebe Opštine i njenih organa;
+- upravni postupak za slobodan pristup informacijama iz svog djelokruga;
+- pripremanje izvještaja za glavnog administratora o postupanju u upravnim stvarima iz svoje nadležnosti;
+- izradu internih procedura i uputstava u okviru svoj djelokruga;
+- druge poslove iz svog djelokruga u skladu sa zakonom, odlukama Skupštine i predsjednika Opštine.
+Direkcija za imovinu ima položaj zakonskog zastupnika opštine u vršenju poslova zaštite imovinsko-pravnih interesa opštine pred sudovima i drugim organima.

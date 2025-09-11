@@ -1,0 +1,2 @@
+# Član 23
+Rad organa lokalne uprave i službi organizuje se u skladu sa zakonom, propisima i drugim aktima Opštine, na način kojim se obezbjeđuje: zakonito, efikasno i ekonomično vršenje poslova; javnost i transparentnost u radu; podsticanje i uključivanje gradjana u proces odlučivanja; odabir metoda rada i aktivnosti kojima se obezbjedjuje vršenje poslova na način koji odgovara ulozi i položaju organa lokalne uprave; jačanju profesionalnosti u radu i odgovornosti za vršenje poslova.

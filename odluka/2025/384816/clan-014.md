@@ -1,0 +1,42 @@
+# Član 14
+Sekretarijat za finansije i budžet vrši poslove uprave koji se odnose na:
+- pripremu, planiranje i izradu nacrta budžeta Opštine i rebalansa budžeta;
+- izradu nacrta odluke o privremenom finansiranju;
+- projekciju ostvarenja budžeta i izradu plana prihoda i rashoda za naredni trogodišnji period;
+- analiziranje zahtjeva za obezbjeđenje sredstava u budžetu koje dostavljaju potrošačke jedinice i ostali korisnici budžetskih sredstava, - sačinjavanje projekcije priliva budžetskih sredstava, uzimajući u obzir sve relevantne faktore - dinamiku priliva iz prethodnih godina, prenesena sredstva iz prethodne godine, izmjenu regulative i ostale faktore;
+- upravljanje raspoloživim novčanim sredstvima na konsolidovanom računu trezora;
+- kvartalnu alokaciju sredstava potrošačkim jedinicama i kontrolu izdataka;
+- izvršavanje plaćanja po zahtjevu potrošačkih jedinica;
+- vođenje glavne knjige trezora;
+- dostavljanje podataka nadležnim organima o prihodima, izdacima, budžetskom zaduženju, neizmirenim obavezama, nepokretnim i pokretnim stvarima sa kojima raspolaže opština, investicijama u osnovna sredstva;
+- praćenje ostvarivanja primitika i izdataka budžeta uz sastavljanje izvještaja (mjesečni, kvartalni, polugodišnji i godišnji) za internu i eksternu upotrebu;
+- vođenje evidencije i upravljanje dugom opštine;
+- pripremu završnog računa budžeta opštine i izvještaja o polugodišnjem ostvarenju budžeta za tekuću godinu;
+- upravljanje gotovinskim sredstvima;
+- priprema lokalne propise koji se odnose na zarade lokalnih funkcionera i lokalnih službenika i namještenika, naknade odbornicima, naknade za rad u radnim tijelima i organima upravljanja, raspodjelu dobiti privrednih društava,a koje razmatra Skupština;
+- pripremu i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština i predsjednik Opštine iz svog djelokruga rada;
+- obračun i isplatu zarada i naknada;
+- vođenje centralne evidencije o zaradama zaposlenih;
+- primjenu računovodstvenih standarda (MRS), Uputstva o bližem načinu rada trezora jedinica lokalne samouprave i pravila propisanih od strane Ministarstva finansija, saglasno Zakonu o budžetu i fiskalnoj odgovornosti i Zakonu o finansiranju lokalne samouprave;
+- utvrđivanje, naplatu i kontrolu lokalnih javnih prihoda;
+- otvaranje podračuna za naplatu lokalnih javnih prihoda;
+- vođenje registra poreskih obveznika;
+- učestvovanje u izradi propisa kojima se uređuje sistem lokalnih javnih prihoda;
+- prijem i obradu svih poreskih prijava poreskih obveznika;
+- vođenje poreskog knjigovodstva;
+- poresku kontrolu;
+- redovnu i prinudnu naplatu poreza;
+- pripremanje periodičnih izvještaja i informacija o stepenu realizacije lokalnih javnih prihoda; - donošenje rješenja o utvrđivanju obaveza po osnovu lokalnih javnih prihoda;
+- obezbjeđenje tačnog i ažurnog vođenja evidencije naplaćenih javnih prihoda;
+-analiza stepena i efekta ostvarenih prihoda u cilju definisanja fiskalne politike;
+- praćenje i sprovođenje zakona i drugih propisa donesenih na osnovu zakona u oblasti: poreza, prireza, administrativnih taksi, komunalnih taksi i drugih lokalnih javnih prihoda, poreske administracije, inspekcijskog nadzora, zaštite podataka o ličnosti i drugih propisa koji su vezani za rad organa;
+- vršenje inspekcijskog nadzora u oblasti lokalnih javnih prihoda koje opština ostvaruje u skladu sa posebnim zakonima i opštinskim odlukama u skladu sa nadležnostima iz zakona o inspekcijskom nadzoru, zakona o poreskoj administraciji i posebnim propisima;
+- vođenje upravnog postupka prilikom utvrđivanja obaveza po osnovu lokalnih javnih prihoda u skladu sa zakonom, podzakonskim aktima i odlukama opštine;
+- pripremanje informativnih i drugih stručnih materijala za Skupštinu, predsjednika opštine i organe uprave iz svog djelokruga, izjašnjavanje na nacrte i predloge zakona i drugih propisa, pripremanje stručnih mišljenja i izjašnjenja po inicijativama za ocjenu ustavnosti i zakonitosti opštinskih propisa;
+- pripremu izvještaja o postupanju u upravnim stvarima iz svoje nadležnosti;
+- vođenje postupka za slobodan pristup informacijama iz svog djelokruga;
+- donosi odluku o visini budžetskih sredstava namijenjenih za finansiranje političkih subjekata i ženskih organizacija u političkim subjektima, vrši obračun i isplatu sredstava po osnovu navedene odluke;
+- prikuplja podatke o finansiranju medija, dostavlja ih nadležnom Ministarstvu i objavljuje ih na svojoj internet stranici;
+- izradu internih procedura i uputstava u okviru svoj djelokruga;
+- pripremu programa rada i izvještaja o radu Sekretarijata;
+- druge poslove iz djelokruga rada, u skladu sa zakonom i odlukama Skupštine i predsjednika opštine.

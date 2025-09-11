@@ -1,0 +1,32 @@
+# Član 18
+Služba predsjednika Opštine obavlja poslove koji se odnose na:
+- stručne, informativno-analitičke, administrativno-tehničke, organizacione i protokolarne poslove za potrebe predsjednika i potpredsjednika, i radna tijela koja formira predsjednik opštine;
+- izradu nacrta akata iz nadležnosti predsjednika Opštine;
+- izradu i sprovođenje programa rada predsjednika, učešće u izradi propisa kojima se utvrđuje organizacija i način rada lokalne uprave Opštine;
+- kontrolu akata koje predsjednik Opštine predlaže Skupštini na usvajanje a čiji su obrađivači organi uprave i javne službe, i sprovođenje procedure predlaganja;
+- pripremu smjernica za izvršavanje prenesenih i povjerenih poslova i njihovu kontrolu;
+- pripremu akata kojima predsjednik vrši usmjeravanje i usklađivanje rada organa uprave i javnih službi;
+- planiranje i uspostavljanje odnosa sa javnošću, koordiniranje poslova odnosa sa javnošću organa i službi lokalne uprave;
+- pripremu i organizovanje sastanaka i službenih putovanja predsjednika Opštine i staranje o realizaciji usvojenih zaključaka;
+- pripremu zaključaka i putnih naloga za službena putovanja u inostranstvo imenovanih i postavljenih lica u upravi;
+- protokolarne poslove za potrebe predsjednika opštine;
+- organizaciju proslave praznika opštine;
+- kontrolu usklađenosti programa rada i izvještaja o radu organa uprave i javnih službi sa odgovarajućim uputstvom predsjednika;
+-pripremu i upravljanje projektima koji se finansiraju iz međunarodnih fondova i drugih izvora i praćenje njihove realizacije;
+- učestvovanje u izradi programa razvoja Opštine i pojedinih djelatnosti i višegodišnjeg investicionog plana; davanje predloga za donošenje Odluke o ulaganjima u skladu sa utvrđenom investicionom politikom; učestvovanje u izradi razvojnih projekata koji su od značaja za opštinu i staranje o realizaciji istih; vršenje poslova koji se odnose na izradu projekata i sprovođenje implementacije istih; obavljanje poslova iz oblasti prekogranične saradnje, izradu projekata i kandidovanje istih za dobijanje sredstava iz pretpristupnih i drugih fondova evropske Unije i vršenje njihove implementacije;
+- sprovođenje upravnog postupka iz nadležnosti predsjednika opštine za imenovanje, postavljenje, zasnivanje radnog odnosa i ostvarivanje prava i obaveza iz ovog osnova;
+- rješavanje sukoba nadležnosti između organa uprave, javnih službi i pravnih lica kojima je odlukom skupštine povjereno vršenje određenih poslova; postupka izuzeća glavnog administratora; slobodnog pristupa informacijama i drugih postupaka u skladu sa zakonom i posebnim odlukama opštine;
+- poslove menadžera i to: predlaganje i učešće u pripremi i realizaciji planova i programa razvoja opštine kojima se podstiče ekonomski razvoj, preduzetnička inicijativa i javno-privatno partnerstvo, obezbjeđuje zaštita životne sredine i održivi razvoj, pripremanje i upravljanje projektima koji se finansiraju iz međunarodnih fondova i drugih izvora, projekata međuopštinske i prekogranične saradnje i praćenje njihove realizacije, priprema informacija i izvještaja o realizaciji projekata, uspostavljanje i vođenje baze podataka o planovima, programima i projektima, iniciranje izmjene i dopune propisa koji otežavaju poslovnu inicijativu i drugi poslovi;
+- poslovi glavnog gradskog arhitekte, i to: davanje saglasnosti na tehničku dokumentaciju-idejno rješenje zgrada, trga, skvera, šetališta ili gradskog parka u pogledu usaglašenosti sa smjernicama za oblikovanje i materijalizaciju i osnovnim urbanističkim parametrima, davanje saglasnosti na idejno rješenje arhitektonskog projekta privremenog objekta za koji se izrađuje glavni projekat u odnosu na Program privremenih objekata koji je usklađen sa državnim smjernicama razvoja arhitekture, izrada projektnog zadatka za urbanistički projekat, učestvovanje u procedurama donošenja urbanističkih projekata, davanje saglasnosti na Program privremenih objekata u dijelu oblikovanja i materijalizacije, utvrđivanje smjernica za usklađivanje spoljnog izgleda bespravnih objekata, izdavanje potvrde o usklađenosti izgleda bespravnog objekta sa smjernicama za usklađivanje spoljnog izgleda iz planskog dokumenta, odnosno smjernicama glavnog gradskog arhitekte, za potrebe izrade izvještaja o stanju uređenja prostora, dostavljanje izvještaja nadležnom ministarstvu sa potrebnim podacima iz djelokruga rada, učestvovanje u odlučivanju po zahtjevima za slobodan pristup informacijama, objavljivanje odluka iz djelokruga rada;
+- pripremu izvještaja o radu predsjednika i radu organa lokalne uprave;
+- ostvarivanje saradnje sa Skupštinom i Vladom Crne Gore, drugim opštinama u Crnoj Gori i inostranstvu, državnim organima i organima drugih jedinica lokalne samouprave u zemlji i inostranstvu;
+- postupanje po predstavkama i pritužbama građana upućenih predsjedniku (utvrđivanje činjenica o njihovoj osnovanosti i priprema predloga odgovora na njih);
+- postupanje po predstavkama koje državni organi upućuju predsjedniku radi utvrđivanja činjenica, odnosno rješavanja pitanja koja su predmet predstavki i pritužbi;
+- prijem zahtjeva građana i drugih subjekata, način ostvarivanja prava i obaveza pred organima lokalne samouprave, lokalne uprave i javnih službi, njihovo prosleđivanje nadležnim organima i službama; vođenje evidencije o primljenim i riješenim zahtjevima; prijem i obrada drugih zahtjeva, predstavki, inicijativa i sl. podnesenih predsjedniku Opštine;
+- obezbjeđivanje saradnje sa medijima, građanima i nevladinim organizacijama;
+- pripremanje informativnih i drugih stručnih materijala za Skupštinu i predsjednika Opštine, izjašnjavanje na nacrte i predloge zakona i drugih propisa, pripremanje stručnih mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa, sprovođenje plana integriteta, ostvarivanje neposredne saradnje sa nevladinim organizacijama, iz nadležnosti organa;
+- izradu internih procedura i uputstava u okviru svoj djelokruga;
+- pripremanje izvještaja za glavnog administratora o postupanju u upravnim stvarima iz svoje nadležnosti;
+- pripremu akata za predsjednika Opštine radi realizacije obaveza utvrđenih na međunarodnim konferencijama i od strane regionalnih i drugih institucija;
+- koordinaciju i komunikaciju sa stranim partnerima, iseljenicima i njihovim organizacijama;
+- pripremu i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština i predsjednik Opštine;
