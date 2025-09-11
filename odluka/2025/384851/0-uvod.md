@@ -1,0 +1,2 @@
+Na osnovu člana 155.Zakona o planiranju prostora ("Službeni list CG", br. 19/25), člana 3 stav 1 tačka 7, člana 4 stav 2 Odluke o izgradnji lokalnih objekata od opšteg interesa na teritoriji Opštine Kolašin ("Službeni list CG - Opštinski propisi", br. 15/15, 24/17 i 5/21) i člana 83 stav 1 tač. 14 Statuta Opštine Kolašin ("Službeni list CG - Opštinski propisi", broj 24/19), predsjednik Opštine Kolašin, donosi
+ODLUKU

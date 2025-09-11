@@ -1,0 +1,3 @@
+# Član 1
+## o određivanju lokacije za izgradnju lokalnog objekta od opšteg interesa: izmještanje dionice postojećeg DV 10 kV ,,Breza - Mušovića Rijeka" u naselju Smailagića Polje u Kolašinu
+Ovom odlukom utvrđuje se lokacija sa elementima urbanističko-tehničkih uslova za izradu glavnog projekta i reviziju istog, za izgradnju lokalnog objekta od opšteg interesa: izmještanje dionice postojećeg 10 kV dalekovoda ,,Breza - Rijeka Mušovića" na UP 301, Zona 7 u zahvatu DUP-a ,,Smailagića Polje" (,,Službeni list CG - Opštinski propisi", br. 11/09), odnosno kat. parcelama: 281, 282 i 283 KO Smailagića Polje, KO Kolašin, Opština Kolašin.
