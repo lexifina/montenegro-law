@@ -1,0 +1,2 @@
+# Član 1
+U Pravilima rada Platnog sistema Centralne banke Crne Gore ("Službeni list CG", br. 48/14, 57/14, 47/25 i 74/25) u članu 28 stav 2 poslije riječi: "do 19,30 časova" dodaju se riječi: "radnim danima, odnosno do 14,30 časova subotom i nedjeljom (u daljem tekstu: vikend) i danima koji su neradni u skladu sa zakonom kojim se uređuju državni i drugi praznici (u daljem tekstu: praznični dani)".
