@@ -1,0 +1,2 @@
+Na osnovu čl. 127, 147 i 177 stav 1 tačka 4 Zakona o osiguranju ("Sl. list RCG" br. 78/06, 019/07, "Sl. list CG", br. 053/09, 073/10, 040/11, 045/12, 006/13, 055/16,146/21 i 034/24), i člana 15 stav 1 tačka 2 Statuta Agencije za nadzor osiguranja ("Službeni list Crne Gore", br. 035/23), na 434. sjednici održanoj 29. 8. 2025. godine, Savjet Agencije za nadzor osiguranja donio je
+PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O SADRŽAJU IZVJEŠTAJA I DRUGIH OBAVJEŠTENJA I PODATAKA KOJI SE DOSTAVLJAJU AGENCIJI ZA NADZOR OSIGURANJA I O NAČINU I ROKOVIMA NJIHOVOG DOSTAVLJANJA
