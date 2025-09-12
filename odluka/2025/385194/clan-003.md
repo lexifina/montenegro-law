@@ -1,0 +1,3 @@
+# Član 3
+Sredstva budžeta koja su opredijeljena za mlade u biznisu iz tekućeg godišnjeg budžeta Opštine Žabljak, dodjeljuju se za biznis/poslovne ideje (u daljem tekstu: biznis plan) preduzetnicima i privrednim društvima (u daljem tekstu: društvo) u kojima su mladi (lica mlađa od 40 godina) nosioci biznisa - osnivač ili jedan od osnivača i izvršni direktor društva.
+Sredstva za podsticanje osnivanja i razvoj poslovanja dodjeljuju se društvima/preduzetnicima sa prebivalištem osnivača ili jedan od osnivača i izvršnog direktora najmanje 1 godinu do dana raspisivanja javog konkursa, odnosno sa sjedištem na teritoriji Opštine Žabljak.
