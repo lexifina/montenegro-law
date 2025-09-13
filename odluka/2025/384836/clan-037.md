@@ -1,0 +1,3 @@
+# Član 37
+U slučaju naglog prodora štetnih i/ili opasnih materija i/ili mikroorganizama u izvorište ili objekte za javno vodosnabdijevanje, u količinama koje mogu da budu štetne ili opasne po zdravlje ljudi, a posljedica su ljudskih aktivnosti (iznenadno/akcidentno zagađenje), vršilac je dužan da o tome odmah obavijesti potrošače i Institut za javno zdravlje objavljivanjem obavještenja na svojoj internet stranici i u drugim sredstvima javne komunikacije.
+U slučaju iz stava 1 ovog člana, vršilac je obavezan da odmah preduzme sve potrebne mjere na otklanjanju uticaja na kvalitet i higijensku ispravnost vode.

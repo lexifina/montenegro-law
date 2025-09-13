@@ -1,0 +1,2 @@
+# Član 3
+Poslove javnog vodosnabdijevanja obavlja vršilac regulisane komunalne djelatnosti kome su posebnom odlukom Skupštine Glavnog grada povjereni ovi poslovi (u daljem tekstu: Vršilac) u skladu sa zakonom kojim se uređuju komunalne djelatnosti (u daljem tekstu: Zakon) Pravilima o minimumu kvaliteta i obima poslova za obavljanje regulisanih komunalnih djelatnosti (u daljem tekstu: Pravila), ovom Odlukom i godišnjim programom obavljanja komunalne djelatnosti Vršioca.
