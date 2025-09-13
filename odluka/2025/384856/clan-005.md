@@ -1,0 +1,2 @@
+# Član 5
+Izgradnja seoskih i lokalnih vodovoda, kao vodnih objekata, vrši se prema programu kojim se obezbjeđuje unaprijeđenje vodosnabdijevanja seoskih i drugih naselja na teritoriji Glavnog grada. Izgradnja vodnih objekata može se odobriti i pravnom licu, preduzetniku, grupi građana ili zainteresovanom pojedincu (u daljem tekstu: investitor), ako isti služi za snabdijevanje vodom jednog ili više korisnika, a njihovo se vodosnabdijevanje ne može riješiti na ekonomičniji i racionalniji način.

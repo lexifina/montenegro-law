@@ -1,0 +1,2 @@
+# Član 9
+Mišljenje iz člana 8 ove odluke, treba da sadrži podatke koji se odnose na sljedeće: da li podnosilac zahtjeva ima mogućnost da na drugi, racionalniji i ekonomičniji način riješi pitanje vodosnabdijevanja, za koje namjene koristi vodno dobro, kao i da li ima drugih zainteresovanih subjekata za utvrđivanje vodnih uslova za izgradnju vodnog objekta za potrebe vodosnabdijevanja sa istog vodnog dobra.
