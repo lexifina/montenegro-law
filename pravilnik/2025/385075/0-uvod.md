@@ -1,0 +1,2 @@
+Na osnovu člana 143 stav 1 tačka 14 Zakona o audiovizuelnim medijskim uslugama ("Sl. list CG", br. 54/24) i člana 27 stav 1 tačka 17 Statuta Agencije za audiovizuelne medijske usluge ("Sl. list CG", br. 82/24), Savjet Agencije za audiovizuelne medijske usluge, na sjednici održanoj dana 15. septembra 2025. godine, donio je
+PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O KOMERCIJALNIM AUDIOVIZUELNIM KOMUNIKACIJAMA U AUDIOVIZUELNIM MEDIJSKIM USLUGAMA
