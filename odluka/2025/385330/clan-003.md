@@ -1,0 +1,3 @@
+# Član 3
+Član 58 mijenja se i glasi:
+"Novčanom kaznom od 500,00 € do 10.000,00 € kazniće se za prekršaj pravno lice ako: postupi suprotno odredbama člana 11 stav 1, člana 12 stav 1, člana 13 stav 1 i 2, člana 14, člana 15 stav 1 člana 20, člana 21, člana 22, člana 32, člana 35 stav 2 tačka 1, 2, 3, 4 i 5, člana 36 stav 2 člana 39, člana 47 stav 1, člana 53, člana 54 stav 1 ove odluke. Za prekršaje iz stava 1 ovog člana kazniće se preduzetnik novčanom kaznom u iznosu od 500,00 € do 3000,00 €. Za prekršaje iz stava 1 ovog člana kazniće se fizičko lice i odgovorno lice u pravnom licu novčanom kaznom od 150,00 € do 1000,00 €".

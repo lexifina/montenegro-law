@@ -1,0 +1,2 @@
+Na osnovu člana 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 9 stav1 Zakona o bezbjednosti saobraćaja na putevima ("Službeni list Crne Gore", broj 33/12, 58/14, 14/17 i 66/19), člana 24 stav 4 Zakona o prekršajima ("Službeni list Crne Gore", broj 1/11, 6/11, 39/11, 32/14, 43/17 i 51/17) i člana 36 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", broj 37/19), predsjednik Opštine Kotor donio je
+ODLUKU
