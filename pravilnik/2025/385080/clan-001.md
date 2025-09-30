@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se bliži uslovi za izjednačavanje u pogledu prava i obaveza doktora medicine specijaliste određene oblasti zdravstvene zaštite, odnosno grane medicine koji nije obavio uže sprecijalistički staž niti položio uže specijalistički ispit zbog nepostojanja odgovarajućeg programa uže specijalizacije (u daljem tekstu: doktor specijalista) sa doktorom medicine koji je stekao zvanje užeg specijaliste u skladu sa zakonom (u daljem tekstu: doktor uži specijalista).
