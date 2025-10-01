@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2, člana 34 stav 1 i 3, člana 40 stav 2 tačka 4 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11 i 23/25), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 46 stav 1 tačka 9 Statuta Opštine Rožaje ("Službeni list CG - Opštinski propisi", br. 38/18 i 16/21), Budžeta Opštine Rožaje za 2025. godinu ("Službeni list CG - Opštinski propisi", br. 6/24), Skupština opštine Rožaje, na sjednici održanoj dana 18. 9. 2025. godine, donosi
+ODLUKU
