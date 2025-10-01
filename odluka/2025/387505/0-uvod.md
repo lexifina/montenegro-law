@@ -1,0 +1,2 @@
+Na osnovu člana 59 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) a u vezi sa članom 53 stav 1 tačka 22 Statuta Opštine Tuzi ("Službeni list CG - Opštinski propisi", br. 24/19, 5/20, 51/22 i 55/22) i članom 12 stav 1 Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalno/Komunale" Tuzi ("Službeni list CG - Opštinski propisi", br. 33/19, 40/21 i 3/24), predsjednik Opštine Tuzi donio je
+ODLUKU
