@@ -1,0 +1,2 @@
+# Član 40
+Društvo prestaje u slučajevima i pod uslovima propisanim Zakonom.

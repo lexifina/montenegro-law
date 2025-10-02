@@ -1,0 +1,3 @@
+# Član 17
+Djelatnosti iz člana 12 ovog Statuta Društvo obavlja na način kojim se obezbjeđuje stabilnost poslovanja, efikasnost upravljanja i odlučivanja i uspostavlja poslovni odnos u okviru tržišnih uslova privređivanja.
+Aktom o unutrašnjoj organizaciji i sistematizaciji radnih mjesta Društva bliže se utvrđuje: nazivi organizacionih oblika-cjelina, radna mjesta i potreban broj izvršilaca, vrste i stepen stručne spreme, radno iskustvo, posebni uslovi u skladu sa Zakonom, poslovi sa posebnim ovlašćenjima i odgovornostima i druga pitanja od značaja za unutrašnju organizaciju i obavljanje poslova iz djelatnosti Društva.
