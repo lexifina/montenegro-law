@@ -1,0 +1,5 @@
+# Član 3
+## Pravo na pristup, kolokaciju i zajedničko korišćenje elektronske komunikacione infrastrukture i povezane opreme
+Infrastrukturni operator je obavezan da omogući operatoru korisniku, uz naknadu i na osnovu zaključenog ugovora, pristup, kolokaciju i zajedničko korišćenje svoje elektronske komunikacione infrastrukture i povezane opreme ili nekretnine.
+Pristup, kolokaciju i zajedničko korišćenje elektronske komunikacione infrastrukture i povezane opreme, infrastrukturni operator je obavezan da omogući u skladu sa načelima nediskriminacije i jednakih uslova pristupa za sve operatore korisnike.
+Ako je pristup, kolokacija i zajedničko korišćenje onemogućeno od strane infrastrukturnog operatora ili ako postoji spor između infrastrukturnog operatora i operatora korisnika u vezi ugovaranja pristupa, kolokacije i zajedničkog korišćenja elektronske komunikacione infrastrukture i povezane opreme ili plaćanja naknade za pristup, kolokaciju i zajedničko korišćenje, operatori mogu pokrenuti spor pred Agencijom.

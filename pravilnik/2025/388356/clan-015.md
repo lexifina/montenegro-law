@@ -1,0 +1,9 @@
+# Član 15
+## Popunjavanje slobodnog prostora u telekomunikacionoj kablovskoj kanalizaciji
+Svaki pojedinačni optički kabl treba da se nalaziti u svojoj cijevi.
+Bakarni kablovi mogu da se uvlače u cijevi velikog prečnika ili cijevi prečnika 50 mm bez zaštitne cijevi, izuzev ako njihove mehaničke karakteristike to ne dozvoljavaju.
+Efikasno popunjavanje prostora u cijevima telekomunikacione kablovske kanalizacije ostvaruje se istovremenim uvlačenjem dodatnih cijevi manjeg prečnika do pune popunjenosti. Slobodni prostor u telekomunikacionoj kablovskoj kanalizaciji popunjava se na način da se prvo popunjava prostor u cijevima manjeg prečnika, a potom se popunjava prostor u cijevima većeg prečnika. U slučaju kada je cijev manjeg prečnika nije funkcionalna, popunjava se prostor u cijevi većeg prečnika u skladu sa usaglašenim tehničkim rješenjem.
+Cijev u koju se postavlja optički kabl treba da bude najmanjeg prečnika koji omogućava postavljanje predmetnog kabla.
+U postojećim pristupnim telekomunikacionim kablovskim kanalizacijama stambenih i/ili poslovnih zgrada koje su izvedene sa jednom ili više cijevi malog prečnika, dozvoljava se da se uz već postojeće kablove uvuče i dodatni kabl, koji će biti u svojoj cijevi, na način koji ne ugrožava postojeće kablove.
+Ako na dijelu trase telekomunikacione kablovske kanalizacije postoji samo jedna cijev prečnika 50 mm ili 40 mm (PE50 ili PE40) i ako se u njoj već nalazi kabl koji se koristi, može se izvršiti popunjavanje slobodnog prostora u cijevi u skladu sa Prilogom 1 ovog pravilnika. Pored toga, dodatni slobodni prostor za polaganje dodatnih kablova na tom dijelu trase se može obezbijediti proširenjem telekomunikacione kablovske kanalizacije.
+Mogući načini efikasnog popunjavanja slobodnog prostora u cijevima telekomunikacione kablovske kanalizacije i maksimalni prečnici cijevi za uvlačenje optičkih kablova navedeni su u Prilogu 1.
