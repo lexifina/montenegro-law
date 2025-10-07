@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 tačka 22 Statuta Opštine Herceg Novi ("Službeni list CG - Opštinski propisi", br. 1/19,37/19, 6/20 i 18/22) i člana 5 Odluke o izmjenama i dopunama Odluke o osnivanju Društva sa ograničenom odgovornošću "Agencija za izgradnju i razvoj Herceg Novi" Herceg Novi ("Službeni list CG - Opštinski propisi", br. 33/06, 25/16 i 36/25) Skupština opštine Herceg Novi, na sjednici održanoj 7. 10. 2025. godine, donijela je
+RJEŠENJE
