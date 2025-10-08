@@ -1,0 +1,2 @@
+Na osnovu člana 57 stav 2 Zakona o finansiranju političkih subjekata i izbornih kampanja ("Službeni list Crne Gore", br. 81/25 i 101/25), Savjet Agencije za sprečavanje korupcije donio je
+U P U T S T V O O SADRŽINI IZVJEŠTAJA O PRILOZIMA PRAVNIH I FIZIČKIH LICA POLITIČKIM SUBJEKTIMA U TOKU IZBORNE KAMPANJE
