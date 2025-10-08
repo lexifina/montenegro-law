@@ -1,0 +1,4 @@
+# Član 7
+Ako je pokrenut postupak iz člana 6 ovog Uputstva, ovlašćeno službeno lice će, od nadležnih državnih organa, organa državne uprave i organa lokalne uprave, organa lokalne samouprave, privrednih društava, ustanova ili drugih pravnih i fizičkih lica, zatražiti potrebne podatke i obavještenja o činjenicama koje su neophodne za vođenje postupka i odlučivanje Agencije, uz određenje roka za dostavljanje tih informacija, čuvajući pri tom identitet podnosioca prigovora.
+Ukoliko nadležni organi, pravna i fizička lica iz stava 1 ovog člana ne dostave potrebne podatke i obavještenja u ostavljenom roku i o razlozima nepostupanja ne obavijestite Agenciju, Agencija će u roku od 15 dana podnijeti zahtjev za pokretanje prekršajnog postupka pred nadležnim sudom.
+U slučaju iz stava 2 ovog člana, Agencija obavještava organ koji vrši nadzor nad njihovim radom, podnosi poseban izvještaj Skupštini Crne Gore i obavještava javnost.

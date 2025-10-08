@@ -1,0 +1,6 @@
+# Član 5
+Po prijemu prigovora, lice koje rješenjem ovlasti Direktor Agencije (u daljem tekstu: ovlašćeno službeno lice) utvrđuje da li je razumljiv i da li sadrži dovoljno činjenica za postupanje.
+Ukoliko je prigovor nerazumljiv ili ne sadrži dovoljno informacija na osnovu kojih bi Agencija mogla da preduzme mjere radi utvrđivanja činjeničnog stanja, u roku od tri dana od prijema prigovora, ovlašćeno lice će, kada je to moguće, pisanim putem tražiti dopunu i poučiti podnosioca kako da razjasni sadržinu prigovora ili ga dopuni i upozoriti ga na posljedice nedostavljanja istog/propuštanja.
+Ako podnosilac prigovora ne dostavi tražena objašnjenja ili podatke u roku koji odredi Agencija, prigovor će biti odbijen Odlukom Agencije.
+Agencija će u roku od osam dana od dana prijema odbiti i prigovor lica koje nije ostavilo kontakt podatke, a prigovor nije razumljiv ili ne sadrži dovoljno informacija na osnovu kojih bi Agencija mogla da preduzme mjere radi utvrđivanja činjeničnog stanja.
+Kada se prigovor odnosi na pitanje o kojem je Agencija već odlučila, ili u kojem već postupa, Agencija će donijeti Odluku kojim se prigovor odbija iz procesnih razloga, i o tome obavijestiti podnosioca u roku od osam dana, a po okončanju postupka, dostaviti podnosiocu i odluku.

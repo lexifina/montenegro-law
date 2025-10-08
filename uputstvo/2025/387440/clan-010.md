@@ -1,0 +1,3 @@
+# Član 10
+Kada nakon sprovedenog postupka, ovlašćeno službeno lice utvrdi da je došlo do povrede Zakona, sačinjava prijedlog odluke, koja sadrži kratak opis prigovora, radnje koje su preduzete od strane Agencije u cilju provjere navoda iz prigovora i činjenice utvrđene u toku postupka. Prijedlog odluke takođe sadrži posebne mjere koje politički subjekt, organ ili lice treba da preduzme u cilju otklanjanja identifikovane povrede Zakona, ukoliko utvrdi nedostatke koji se mogu otkloniti, odnosno mjere koje politički subjekt, organ ili lice može da preduzme kako bi umanjio štetne posljedice nastale povrede.
+Prijedlog odluke iz stav 1 ovog člana dostavlja se Direktoru Agencije, na donošenje.
