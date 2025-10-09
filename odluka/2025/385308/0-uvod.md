@@ -1,0 +1,2 @@
+Na osnovu člana 44 st. 3 a u vezi sa članom 38 stav 1 tač.9 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 35 st. 1 tačka 9 Statuta Opštine Andrijevica ("Službeni list Crne Gore - Opštinski propisi", br. 32/18) i čl. 16 st. 3 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 74/16, 2/18, 66/19, 140/22 i 84/24) Skupština opštine Andrijevica, na sjednici održanoj dana 26. 5. 2025. godine, donijela je
+ODLUKU
