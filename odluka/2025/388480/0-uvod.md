@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 11 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 5 stav 2 Zakona o referendumu ("Službeni list RCG", broj 9/01, "Službeni list Savezne Republike Jugoslavije", br 17/01, "Službeni list CG", 73/10), član 34 stav 1 tačka 11, član 119 i član 123 Statuta Opštine Zeta ("Službeni list CG - Opštinski propisi", br. 12/23), Skupština opštine Zeta, na XXI sjednici održanoj dana 7. 10. 2025. godine, donosi
+ODLUKU
