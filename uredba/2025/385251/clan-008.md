@@ -1,0 +1,4 @@
+# Član 8
+Ako izvršni dužnik namiri potraživanje nakon podnošenja predloga za izvršenje, a prije dostavljanja rješenja o izvršenju, odnosno odmah po dostavljanju rješenja o izvršenju, a prije preduzimanja prve radnje izvršenja ili namiri potraživanje u roku za dobrovoljno ispunjenje iz člana 22 stav 2 i člana 41 stav 3 Zakona o izvršenju i obezbjeđenju, javni izvršitelj naplaćuje samo nagradu za pripremanje predmeta i nagradu za preduzete radnje.
+U slučaju iz stava 1 ovog člana, nagrada za sprovedeno izvršenje ne naplaćuje se.
+Ako izvršni dužnik namiri potraživanje nakon preduzimanja radnje iz stava 1 ovog člana neposredno izvršnom povjeriocu, bez obzira na način izmirenja, javnom izvršitelju pripada iznos od 50% nagrade predviđene za sprovedeno izvršenje u odnosu na iznos potraživanja koje je namireno.
