@@ -1,0 +1,2 @@
+Na osnovu člana 38 tačka 7 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22 i 84/22), člana 40 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", broj 3/19, 86/22, 5/24 i 7/24) i člana 37 stav 1 tačka 7 Statuta Opštine Kolašin ("Službeni list Crne Gore - Opštinski propisi", broj 24/19), Skupština opštine Kolašin, na sjednici održanoj dana 26. 9. 2025. godine, donijela je
+ODLUKU
