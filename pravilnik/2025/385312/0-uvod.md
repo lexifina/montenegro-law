@@ -1,0 +1,2 @@
+Agencija za elektronske komunikacije i poštansku djelatnost Crne Gore (u daljem tekstu: Agencija), na osnovu člana 179 stav 2 tačke 1 i 8 i člana 181 tačka 2, a u vezi sa članom 160 Zakona o elektronskim komunikacijama ("Službeni list Crne Gore" br. 100/24, u daljem tekstu: Zakon), na sjednici Savjeta održanoj 25.9.2025. godine, donijela je
+P R A V I L N I K O PROMJENI OPERATORA I PRENOSIVOSTI BROJEVA
