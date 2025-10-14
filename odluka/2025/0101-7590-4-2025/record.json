@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/izmjene_dopune_odluke_o_upravljanju_rizicima_povezanih_sa_eksternalizacijom_112-25.pdf",
+  "title": "Odluka o izmjenama i dopunama Odluke o upravljanju rizicima koji su povezani sa eksternalizacijom",
+  "source_sha256": "a91590bd4a31a2b73fea4892c9b054fc52ec676968ba71febe7095d42350a722",
+  "source_bytes": 148170,
+  "pages": 3,
+  "source_images": 0,
+  "gazette_issue": "112/2025",
+  "publication_date": "2025-10-06",
+  "publication_evidence": {
+    "issue": "112/2025",
+    "date": "2025-10-06",
+    "quote": "112/25 od 06.10.2025",
+    "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/odluka_o_upravljanju_eksternal_i_rizicima_koji_proizilaze_iz_eksternalizacije_prec_tekst_112-25.pdf",
+    "source_sha256": "b4d17efb97ee453e032dd3588c1cf1c6281e7236f7a8d8d566d2735bf6b1b30c"
+  },
+  "commencement_quote": "Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“.",
+  "date": "2025-10-14",
+  "basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“.\"; Gazette 112/2025 publication on 2025-10-06 stated as \"112/25 od 06.10.2025\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/odluka_o_upravljanju_eksternal_i_rizicima_koji_proizilaze_iz_eksternalizacije_prec_tekst_112-25.pdf.",
+  "comparison_mode": "exact body and annex character sequences; signature character inventory equal",
+  "text_sha256": "8de223ab345bcd256362f6b3e78ebc9d826f776ed2398f646d9a3bc0c1bae9f3",
+  "word_count": 770,
+  "official_numbers": [
+    "0101-7590-4/2025"
+  ],
+  "path": "odluka/2025/0101-7590-4-2025",
+  "kind": "as-enacted",
+  "issuer": "Centralna banka Crne Gore",
+  "text_status": "as-enacted",
+  "in_force": "2025-10-14",
+  "in_force_basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“.\"; Gazette 112/2025 publication on 2025-10-06 stated as \"112/25 od 06.10.2025\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/odluka_o_upravljanju_eksternal_i_rizicima_koji_proizilaze_iz_eksternalizacije_prec_tekst_112-25.pdf.",
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "complete": true,
+  "first_law": null,
+  "source_listing": "https://www.cbcg.me/me/o-nama/regulativa/podzakonski-akti",
+  "related_pis_candidates": [
+    388148
+  ],
+  "official_number": "0101-7590-4/2025",
+  "official_number_quote": "O.br. 0101 - 7590 - 4 /2025",
+  "line_endings": "LF",
+  "current_text_asserted": false,
+  "related_official_versions": [],
+  "version_note": "Text as enacted; linked amendments and consolidated copies are separate records and are not applied to this text."
+}
