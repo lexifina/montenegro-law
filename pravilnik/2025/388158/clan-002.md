@@ -1,0 +1,3 @@
+# Član 2
+(1) Ovim pravilnikom se, uz prilagođavanje pravu Crne Gore, preuzima Regulativa Komisije (EZ) br. 2150/2005 od 23. decembra 2005. godine kojom se utvrđuju zajednička pravila za fleksibilnu upotrebu vazdušnog prostora, a koja je data u Prilogu 1 ovog pravilnika.
+(2) U primjeni regulative iz Priloga 1 ovog pravilnika koriste se rješenja u skladu sa Pravilnikom o interoperabilnosti evropske mreže za upravljanje vazdušnim saobraćajem i pоbоlјšаnju efikasnosti i оdrživоsti еvrоpskоg vаzduhоplоvnоg sistеmа ("Službeni list CG", br. 22/13 i 40/20) i Pravilnikom o detaljnim pravilima za implementaciju mrežnih funkcija u upravljanju vazdušnim saobraćajem ("Službeni list CG", br. 51/21 i 43/22).
