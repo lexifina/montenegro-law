@@ -1,0 +1,2 @@
+Na osnovu člana 14 st. 3 i 4 Zakona o budžetu Crne Gore za 2025. godinu ("Službeni list CG", br. 11/25 i 80/25), člana 1 st. 7 i 8 Odluke o zaduživanju Crne Gore za 2025. godinu ("Službeni list CG", broj 11/25) i člana 3 Uredbe o uslovima i načinu emitovanja i prodaje državnih dužničkih hartija od vrijednosti ("Službeni list CG", broj 110/25), Vlada Crne Gore, na sjednici od 9. oktobra 2025. godine, donijela je
+O D L U K U O EMISIJI DRŽAVNIH OBVEZNICA NA DOMAĆEM TRŽIŠTU
