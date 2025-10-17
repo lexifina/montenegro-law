@@ -1,0 +1,3 @@
+# Član 13
+## Rok za donošenje pravilnika o unutrašnjem redu i službi zaštite
+Upravljač je dužan da donese akt o unutrašnjem redu i službi zaštite u roku od 6 mjeseci od dana stupanja na snagu ove odluke.
