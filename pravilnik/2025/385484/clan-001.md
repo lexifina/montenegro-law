@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o bližim dokazima o ispunjenosti uslova za izdavanje dozvole ili saglasnosti za obavljanje poslova posredovanja, odnosno zastupanja u osiguranju ("Službeni list Crne Gore", br. 089/22, 098/24, 099/25) u članu 14 stav 1 mijenja se i glasi:
+"Zahtjevi za izdavanje dozvola odnosno saglasnosti iz ovog pravilnika i prateći dokumenti, podnose se u originalu ili ovjerenoj kopiji, osim kopije biometrijskih ličnih dokumenata, i ne mogu biti stariji od tri mjeseca od dana podnošenja zahtjeva. Dokumentacija sačinjena na stranom jeziku dostavlja se sa prevodom na crnogorski jezik, sačinjenim od strane ovlašćenog prevodioca."
