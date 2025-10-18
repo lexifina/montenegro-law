@@ -1,0 +1,2 @@
+Na osnovu čl. 52a stav 5, 52b stav 5, 56 stav 3, 69 stav 3, 71 stav 4 i 71a stav 5 Zakona o osiguranju ("Sl. list RCG", br. 78/06, 19/07, "Sl. list CG", br. 53/09, 73/10, 40/11, 45/12, 06/13, 55/16, 146/21, 34/24), na 438. sjednici od 7. 10. 2025. гodine, Savjet Agencije za nadzor osiguranja donio je
+PRAVILNIK O DOPUNI PRAVILNIKA O BLIŽIM USLOVIMA ZA IZDAVANJE DOZVOLE ZA OBAVLJANJE POSLOVA OSIGURANJA I KRITERIJUMIMA ZA OCJENU PODOBNOSTI BUDUĆIH KVALIFIKOVANIH IMALACA I ČLANOVA ORGANA UPRAVLJANJA
