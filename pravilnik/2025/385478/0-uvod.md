@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 6a Zakona o Državnoj revizorskoj instituciji ("Službeni list RCG", br. 28/04, 27/06, 78/06, "Službeni list CG", br. 17/07 i 31/14), člana 8 Poslovnika Državne revizorske institucije ("Službeni list Crne Gore", broj 03/15 i 094/24), Senat Državne revizorske institucije na 547. sjednici održanoj 02. oktobra 2025. godine, donio je
+PRAVILNIK O IZMJENAMA PRAVILNIKA O PROGRAMU I NAČINU POLAGANJA ISPITA ZA DRŽAVNOG REVIZORA
