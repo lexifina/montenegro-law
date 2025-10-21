@@ -1,0 +1,2 @@
+Na osnovu člana 35 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 9/20), člana 11 Odluke o uslovima, načinu i postupku dodjeljivanja Novembarske nagrade, javnih priznanja i nagrada i zvanja "Počasni građanin Opštine Tivat" ("Službeni list Crne Gore - Opštinski propisi", br. 26/09 i 22/14), Skupština opštine Tivat, na sjednici održanoj dana 14. 10. 2025. godine, donijela je
+ODLUKU
