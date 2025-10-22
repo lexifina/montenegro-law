@@ -1,0 +1,4 @@
+Komisija za tržište kapitala Crne Gore (u daljem tekstu: Komisija), na osnovu čl. 23 stav 9, 24 stav 4, 44 stav 7, 47 stav 8 i 52 stav 3 Zakona o otvorenim investicionim fondovima sa javnom ponudom ("Službeni list Crne Gore", br. 23/25) - (u daljem tekstu: Zakon) na 148. sjednici od 8.10.2025. godine, donosi
+PRAVILA
+O DOPUNI PRAVILA O IZDAVANJU DOZVOLE ZA RAD I DAVANJU SAGLASNOSTI
+DRUŠTVU ZA UPRAVLJANJE OTVORENIM INVESTICIONIM FONDOVIMA SA JAVNOM PONUDOM
