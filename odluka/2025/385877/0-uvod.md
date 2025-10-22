@@ -1,0 +1,2 @@
+Na osnovu člana 14, člana 16 stav 1 i člana 20 Zakona o spomen-obilježjima ("Službeni list Crne Gore", br. 40/08, 40/11, 2/17 i 84/24), člana 37 Statuta Opštine Kolašin ("Službeni list Crne Gore - Opštinski propisi", br. 24/19), u skladu sa Programom podizanja spomen-obilježja za 2025. godinu ("Službeni list Crne Gore - Opštinski propisi", br.49/25), uz prethodnu saglasnost Ministarstva kulture i medija br. UPI-13-041/25-285/5 od 17. 10. 2025. godine, Skupština opštine Kolašin na sjednici održanoj dana 22. 10. 2025. godine, donijela je
+ODLUKU
