@@ -1,0 +1,2 @@
+# Član 1
+Utvrđuje se javni interes za eksproprijaciju nepokretnosti u Glavnom gradu Podgorica, u KO Grbi Do i to dio kat. parcele broj 130 (novi broj 130/3), šuma 7 klase u površini od 3030 m2, dio kat. parcele broj 132 (novi broj 132/2), pašnjak 7 klase u površini od 2348 m2 i dio kat. parcele broj 133 (novi broj 133/2), šuma 5 klase u površini od 1401 m2, upisane u listu nepokretnosti broj 35 kao svojina Tomović Milan Radule.
