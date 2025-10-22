@@ -1,0 +1,1 @@
+*U ovaj zakon prenesene su odredbe Direktive (EU) 2017/1371 Evropskog parlamenta i Savjeta od 5. jula 2017. godine o borbi protiv prevara učinjenih na štetu finansijskih interesa Unije krivičnopravnim sredstvima.

@@ -1,0 +1,3 @@
+# Član 1
+U Krivičnom zakoniku Crne Gore ("Službeni list RCG", br. 70/03 i 47/06 i "Službeni list CG", br. 40/08, 25/10, 32/11, 40/13, 14/15, 42/15, 44/17, 49/18, 3/20, 144/21, 145/21, 110/23 i 123/24) u članu 126 poslije stava 2 dodaje se novi stav koji glasi:
+"(3) Izuzetno od stava 1 tačka 5 ovog člana, za krivična djela iz člana 244 st. 5, 6 i 7, člana 245 st. 4 i 5, člana 249 st. 5 i 6, člana 264 st. 4 i 5, člana 272a stav 4, člana 272c stav 6, člana 419 stav 4, člana 420 stav 4, člana 423 stav 4 i člana 424 stav 3 ovog zakonika izrečena kazna ne može se izvršiti kad protekne pet godina od osude na kaznu zatvora preko jedne godine."
