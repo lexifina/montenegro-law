@@ -1,0 +1,7 @@
+# Član 100
+## Upis na postdiplomske studije
+Upis na postdiplomske specijalističke akademske studije vrši se na konkurentskoj osnovi u skladu sa rezultatima postignutim na osnovnim akademskim studijama obima najmanje 180 ECTS u skladu sa ovim zakonom i statutom ustanove.
+Upis na postdiplomske specijalističke primijenjene studije vrši se na konkurentskoj osnovi u skladu sa rezultatima postignutim na osnovnim primijenjenim studijama obima najmanje 180 ECTS u skladu sa ovim zakonom i statutom ustanove.
+Upis na postdiplomske akademske master studije vrši se na konkurentskoj osnovi u skladu sa rezultatima postignutim na osnovnim akademskim studijama obima najmanje 180 ECTS, odnosno 240 ECTS i prijemnom ispitu u skladu sa ovim zakonom i statutom ustanove.
+Izuzetno od stava 3 ovog člana, upis na postdiplomske akademske master studije nakon završenih postdiplomskih specijalističkih akademskih studija obima 60 ECTS, vrši se na konkurentskoj osnovi u skladu sa rezultatima postignutim na osnovnim akademskim i postdiplomskim akademskim specijalističkim studijama u skladu sa ovim zakonom i statutom ustanove.
+Bliže uslove i kriterijume za upis na studije iz st. 1, 2 i 3 ovog člana i način njihovog vrednovanja, sadržaj i način polaganja prijemnog ispita iz stava 3 ovog člana, kao i način utvrđivanja nivoa usaglašenosti studijskih programa osnovnih studija za upis u prvu godinu postdiplomskih studija, uređuju se aktom ustanove.
