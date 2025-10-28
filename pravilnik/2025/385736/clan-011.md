@@ -1,0 +1,2 @@
+# Član 11
+Danom stupanja na snagu ovog pravilnika prestaju da važe Pravilnik o načinu i postupku uspostavljanja i sprovođenja finansijskog upravljanja i kontrola ("Službeni list CG", broj 37/10), Pravilnik o načinu uspostavljanja sistema za otkrivanje i postupanje po obavještenjima o sumnjama na prevare u javnom sektoru ("Službeni list CG", broj 71/19) i Pravilnik o načinu uspostavljanja i unapređenja upravljanja i kontrola u javnom sektoru ("Službeni list CG", broj 71/19).
