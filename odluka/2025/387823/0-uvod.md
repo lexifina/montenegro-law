@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 35 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 9/20) i člana 3 i 30 Statuta JU "Dnevni centar za djecu i mlade sa smetnjama i teškoćama u razvoju - Tivat" ("Službeni list Crne Gore - Opštinski propisi", br. 45/19 i 18/25), Skupština opštine Tivat, na sjednici odžanoj dana 14. 10. 2025. godine, donijela je
+ODLUKU
