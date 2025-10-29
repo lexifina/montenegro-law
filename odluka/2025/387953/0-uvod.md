@@ -1,0 +1,2 @@
+Na osnovu člana 38 i 39 Zakona o finansiranju lokalne samouprave ("Službeni list CG", br. 3/19, 86/22, 5/24, 7/24 i 92/25), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 36 stav 1 tačka 2 Statuta Opštine Mojkovac ("Službeni list CG - Opštinski propisi", br. 29/18 i 37/22), Skupština opštine Mojkovac, na sjednici održanoj dana 7. oktobra 2025. godine, donijela je
+ODLUKU

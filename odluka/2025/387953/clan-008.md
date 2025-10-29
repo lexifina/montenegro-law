@@ -1,0 +1,2 @@
+# Član 8
+Sredstva stalne budžetske rezerve mogu se koristiti za finansiranje rashoda na ime učešća lokalne vlasti u otklanjanju posljedica vanrednih okolnosti (poplava, suša, zemljotresa, požar, ekološka katastrofa, zdravstvenih i infektivnih bolesti ljudi i životinja i drugih elementarnih nepogoda), odnosno drugih vanrednih događaja koji mogu da ugroze život i zdravlje ljudi ili da prouzrokuju štetu većih razmjera.
