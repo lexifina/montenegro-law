@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 alineja 9 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 29 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09, 40/11 i 23/25) u vezi sa članom 194, 201, 208 i 216 Zakona o svojinsko- pravnim odnosima ("Službeni list Crne Gore", br.19/09 i 29/25) i člana 35 stav 1 alineja 9 i člana 39 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 9/20) na sjednici Skupštine opštine Tivat, održanoj dana 14. 10. 2025. godine donijela je
+ODLUKU
+o ustanovljavanju službenosti na kat. parcelama 1581/2 i 1985/1 KO Đuraševići radi izvođenja
