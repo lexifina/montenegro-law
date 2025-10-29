@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o podacima i informacijama koje kreditna institucija dostavlja Fondu za zaštitu depozita ("Službeni list CG", br. 73/20 i 119/23), u Prilogu 1 u Uputstvu za popunjavanje obrasca - Mjesečni izvještaj UD i Prilogu 2 u Uputstvu za popunjavanje obrasca - Mjesečni izvještaj GD koji čine sastavni dio Pravilnika, riječi: "Ul. Miljana Vukova b.b. 81000 Podgorica." zamjenjuju se riječima: "Bulevar Stanka Dragojevića br. 4, 81000 Podgorica."
