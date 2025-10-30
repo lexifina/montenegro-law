@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 tačka 3 Zakona o komunalnim djelatnostima ("Službeni list CG", 55/16, 74/16, 2/18, 66/19 i 140/22), člana 32 tačka 32 Statuta Opštine Žabljak ("Službeni list CG - Opštinski propisi", br. 27/18) i člana 11 stav 1 alineja 5 Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalno i vodovod" Žabljak ("Službeni list CG - Opštinski propisi", br. 55/16, 74/16, 2/18, 66/19 i 140/22) Skupština opštine Žabljak, na sjednici održanoj dana 30. 10. 2025. godine, donijela je
+ODLUKU
