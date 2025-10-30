@@ -1,0 +1,4 @@
+# Član 60
+## Početak jedinstvenog vještačenja invaliditeta
+Zavod će započeti sprovođenje postupaka jedinstvenog vještačenja invaliditeta u skladu sa ovim zakonom 1. jula 2026. godine.
+Do početka sprovođenja postupaka jedinstvenog vještačenja invaliditeta u skladu sa ovim zakonom, vještačenje oštećenja, invalidnosti, tjelesnog oštećenja, uzroka invalidnosti, stepena tjelesnog oštećenja organizma izraženog u procentima, procenta invaliditeta, statusa lica sa invaliditetom, preostale radne sposobnosti, ocjene mogućnosti zaposlenja i posebnih obrazovnih potreba vršiće se u skladu sa zakonima kojima se uređuju oblasti socijalne i dječje zaštite, penzijskog i invalidskog osiguranja, boračke i invalidske zaštite, profesionalne rehabilitacije i zapošljavanja lica sa invaliditetom i vaspitanja i obrazovanja.

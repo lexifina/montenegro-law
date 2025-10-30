@@ -1,0 +1,9 @@
+# Član 13
+## Zahtjev
+Jedinstveno vještačenje invaliditeta vrši Zavod preko komisija za vještačenje, na osnovu zahtjeva za jedinstveno vještačenje invaliditeta (u daljem tekstu: zahtjev) lica na koje se vještačenje odnosi, odnosno njegovog zakonskog zastupnika.
+Izuzetno od stava 1 ovog člana, zahtjev može podnijeti centar za socijalni rad, zdravstvena ustanova primarnog nivoa zdravstvene zaštite, obrazovno-vaspitna ustanova, Zavod za školstvo, Centar za stručno obrazovanje, Zavod za zapošljavanje Crne Gore, Fond za zdravstveno osiguranje Crne Gore, Fond penzijskog i invalidskog osiguranja Crne Gore ili organ lokalne uprave, uz navođenje razloga zbog kojih ta ustanova, organ, odnosno pravno lice zahtijeva jedinstveno vještačenje invaliditeta i uz obavještavanje lica na koje se vještačenje odnosi, odnosno njegovog zakonskog zastupnika.
+U slučaju iz stava 2 ovog člana, lice na koje se vještačenje odnosi, odnosno njegov zakonski zastupnik dužan je da Zavodu dostavi potrebnu dokumentaciju.
+Lice na koje se vještačenje odnosi, njegov zakonski zastupnik, odnosno organ iz stava 2 ovog člana dužan je da u postupku jedinstvenog vještačenja invaliditeta daje istinite podatke.
+Kad zahtjev sadrži neki nedostatak zbog kojeg se po njemu ne može postupiti ili ako je zahtjev nepotpun, lice na koje se vještačenje odnosi, njegov zakonski zastupnik, odnosno organ iz stava 2 ovog člana je dužan da, na zahtjev Zavoda, otkloni nedostatke, odnosno dostavi potrebnu dokumentaciju u roku od 15 dana.
+Ako, nakon podnošenja zahtjeva, nastupe promjene koje mogu uticati na ishod jedinstvenog vještačenja invaliditeta, lice na koje se vještačenje odnosi, njegov zakonski zastupnik, odnosno organ iz stava 2 ovog člana može dopuniti dokumentaciju, do početka postupka pred prvostepenom komisijom za vještačenje.
+Način podnošenja i sadržaj zahtjeva propisuje Ministarstvo.
