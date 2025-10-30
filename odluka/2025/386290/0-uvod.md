@@ -1,0 +1,2 @@
+Na osnovu člana 9 stav 1 tačka 6 Zakona o bezbjednosti saobraćaja na putevima ("Službeni list Crne Gore", br. 33/12, 58/14, 14/17 i 66/19), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 38 stav 1 tačka 2 Statuta Opštine Gusinje (,,Službeni list Crne Gore - Opštinski propisi", br. 3/19 i 24/21) Skupština opštine Gusinje, na sjednici održanoj 30. 10. 2025. godine, donijela je
+ODLUKU
