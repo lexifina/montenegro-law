@@ -1,0 +1,2 @@
+Na osnovu člana 143 stav 1 tačka 16 Zakona o audiovizuelnim medijskim uslugama ("Službeni list Crne Gore", br. 54/24) i člana 27 stav 1 tačka 19 Statuta Agencije za audiovizuelne medijske usluge ("Službeni list Crne Gore", br. 82/24), Savjet Agencije za audiovizuelne medijske usluge, na sjednici održanoj dana 20.10.2025. godine, donio je
+PRAVILNIK O IZMJENI PRAVILNIKA O VOĐENJU POSTUPKA I IZRICANJU UPRAVNO- NADZORNIH MJERA
