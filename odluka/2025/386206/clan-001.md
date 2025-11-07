@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o kriterijumima za utvrđivanje naučnog, privrednog, ekonomskog, kulturnog i sportskog interesa Crne Gore za sticanje crnogorskog državljanstva prijemom ("Službeni list CG", br. 34/10, 40/16, 62/18 i 67/23) u članu 3 st. 2 i 3 riječi: "organ državne uprave nadležan za poslove finansija." zamjenjuju se riječima: "organ državne uprave nadležan za poslove regionalno- investicionog razvoja, odnosno organ državne uprave nadležan za strateške investicije.".
