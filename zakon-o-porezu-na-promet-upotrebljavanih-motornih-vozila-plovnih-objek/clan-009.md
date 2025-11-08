@@ -1,0 +1,3 @@
+# Član 9
+## Obaveza dostavljanja otpravka
+Sudovi, drugi nadležni organi, notari i privredna društva koja se bave tehničkim pregledom i registracijom vozila dužni su da nadležnom poreskom organu prema sjedištu ili prebivalištu poreskog obveznika dostavljaju akte iz svoje nadležnosti, odnosno djelatnosti na osnovu kojih se vrši promjena vlasnika motornog vozila, plovnog objekta, vazduhoplova i letilice, odnosno otpravak odluke suda, odnosno drugog nadležnog organa o pravnom poslu koji je predmet oporezivanja, u roku od 15 dana od isteka mjeseca u kojem je odluka postala pravosnažna, odnosno od dana sačinjavanja akta o pravnom poslu drugog, koji je predmet oporezivanja.
