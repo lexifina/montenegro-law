@@ -1,0 +1,30 @@
+# Član 3
+Izrazi upotrijebljeni u ovom pravilniku imaju sljedeća značenja:
+1)
+kancerogena materija je supstanca ili smješa koja ispunjava uslove za klasifikaciju u kategoriju kancerogena 1.A ili 1.B u skladu sa
+propisom kojim se uređuje klasifikacija, pakovanje i označavanje hemikalija, kao i supstanca, smješa ili postupak koji su dati u Prilogu 1 i supstanca
+ili smješa koja se ispušta pri postupku iz Priloga 1;
+2)
+mutagena materija je supstanca ili smješa koja ispunjava uslove za klasifikaciju u kategoriju 1.A ili 1.B mutagenih reproduktivnih
+ćelija u skladu sa propisom kojim se uređuje klasifikacija, pakovanje i označavanje hemikalija, kao i supstanca, smješa ili postupak koji su dati u
+Prilogu 1 i supstanca ili smješa koja se ispušta pri postupku iz Priloga 1;
+3)
+reproduktivno toksična materija je supstanca ili smješa koja ispunjava uslove za klasifikaciju u kategoriju 1.A ili 1.B reproduktivno
+toksičnih supstanci u skladu sa propisom kojim se uređuje klasifikacija, pakovanje i označavanje hemikalija;
+4)
+reproduktivno toksična materija bez nivoa izloženosti je reproduktivno otrovna supstanca ili smješa za koju ne postoji bezbjedan
+nivo izloženosti zdravlja zaposlenog, koja je data u napomenama u Prilogu 2;
+5)
+reproduktivno toksična materija sa nivoom izloženosti je reproduktivno otrovna supstanca ili smješa za koju postoji bazbjedan nivo
+izloženosti ispod kojeg ne postoji rizik za zdravlje zaposlenog koja je data u napomenama u Prilogu 2;
+6)
+granična vrijednost izloženosti je vremenski prilagođeni presjek koncentracije kancerogene, mutagene ili reproduktivno toksične
+materije u vazduhu u zoni disanja zaposlenog, u odnosu na referentni period koja je data u Prilogu 2;
+7)
+biološka granična vrijednost izloženosti je granica koncentracije relevantne materije u odgovarajućoj sredini međuprodukta i
+produkta metabolizma ili indikatora efekta koja je data u Prilogu 3;
+8)
+rad sa kancerogenim, mutagenim ili reproduktivno toksičnim materijama je svaka aktivnost u kojoj su zaposleni izloženi ili
+mogu biti izloženi kancerogenim, mutagenim ili reproduktivno toksičnim materijama u toku proizvodnje, upotrebe, skladištenja, tretmana, obrade,
+izlivanja, miješanja, odlaganja, uništavanja i sličnih aktivnosti, gdje takav rad uključuje aktivnosti koje oslobađaju ili proizvode kancerogene,
+mutagene ili reproduktivno toksične materije kao rezultat uslova rada.
