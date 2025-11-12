@@ -1,0 +1,5 @@
+# Član 9
+## Podnošenje zahtjeva za obeštećenje
+Zahtjev za obeštećenje podnosi se Organizatoru Fonda i može da se dostavi elektronskim putem, korišćenjem kvalifikovanog elektronskog potpisa ili elektronske identifikacije u skladu sa zakonima koji uređuju elektronski potpis, elektronsku identifikaciju i ovjeravanje i drugim propisima kojima je uređeno elektronsko dostavljanje dokumentacije, ili pismenim putem, poštom ili neposrednom predajom u prostorijama sjedišta Organizatora Fonda, pri čemu zahtjev mora biti lično potpisan, a potpis podnosioca zahtjeva notarski ovjeren u skladu sa zakonom koji uređuje notarsko poslovanje.
+Uz zahtjev iz stava 1 ovog člana prilaže se odgovarajuća dokumentacija kojom podnosilac zahtjeva potkrepljuje navode iz zahtjeva, i to u elektronskom obliku - skenirana ili digitalno ovjerena dokumentacija, odnosno u pisanom obliku - original ili ovjerena kopija dokumentacije.
+U zahtjevu je podnosilac zahtjeva dužan da naznači konačni iznos koji potražuje od člana Fonda, odnosno od Fonda, kao i broj računa za isplatu zaštićenog potraživanja.
