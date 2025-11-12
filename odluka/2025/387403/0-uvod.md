@@ -1,0 +1,2 @@
+Na osnovu člana 49 stav 1 Poslovnika Skupštine Crne Gore ("Službeni list Republike Crne Gore", br. 51/06, 66/06, "Službeni list Crne Gore", br. 88/09, 80/10, 39/11, 25/12, 49/13, 32/14, 42/15, 52/17, 17/18, 47/19, 112/20, 129/20, 65/21, 48/24 i 80/24), Administrativni odbor Skupštine Crne Gore 28. saziva, na 58. sjednici održanoj 31. oktobra 2025. godine, donio je
+ODLUKU O OSTVARIVANJU PRAVA NA NAKNADU TROŠKOVA NA IME SMJEŠTAJA
