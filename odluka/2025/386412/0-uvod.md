@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 1 tačka 13 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 50 stav 1 Zakona o sportu ("Službeni list CG", br. 44/18 i 123/21) i člana 13 stav 1 tačka 13 i člana 32 stav 1 tačka 2 Statuta Opštine Žabljak ("Službeni list CG - Opštinski propisi", br. 27/18), Skupština opštine Žabljak, na sjednici održanoj dana 30. 10. 2025. godine, donijela je
+ODLUKU
