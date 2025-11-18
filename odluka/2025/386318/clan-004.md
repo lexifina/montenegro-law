@@ -1,0 +1,2 @@
+# Član 4
+Spomenik iz člana 1 ove odluke izradiće se u kombinaciji od kamena, betona i čelika, dimenzija: a=220-250cm x b=220-250cm x h=250-300cm i biće postavljen na postamentu od prirodnog kamena, obrađeni ili neobrađeni mermer, obrađeni granit ili slično, dimenzija: a=200-220cm x b=200-220cm x h=50-100cm. Do zone namijenjene za poziciju spomen-obilježja, pristupa se prilaznim stazama od štampanog betona, u ravni terena.
