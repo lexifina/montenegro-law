@@ -1,0 +1,4 @@
+# Član 4
+## Pristup informacijama i sadržaju
+Pružalac usluge pristupa internetu dužan je da svojim krajnjim korisnicima omogući pristup informacijama i sadržaju i njihovu distribuciju, kao i upotrebu aplikacija, usluga i terminalne opreme po svom izboru, nezavisno od: lokacije krajnjeg korisnika ili pružaoca usluge pristupa internetu, porijekla ili odredišta informacije, sadržaja, aplikacije ili usluge, a u skladu sa zakonom i drugim propisima koji se odnose na zakonitost sadržaja, aplikacija ili usluga.
+Ugovor zaključen između pružaoca usluga pristupa internetu i krajnjeg korisnika o komercijalnim i tehničkim uslovima i karakteristikama usluga pristupa internetu kao što su cijene, količine podataka ili brzine i bilo koja poslovna praksa pružaoca usluga pristupa internetu ne ograničavaju ostvarivanje prava krajnjeg korisnika iz stava 1 ovog člana.
