@@ -1,0 +1,4 @@
+# Član 7
+Nagrada se naplaćuje po pravilu nakon izvršene radnje pravne pomoći i to za svaku pojedinačnu radnju, ali se advokat može sa strankom sporazumjeti da mu ona unaprijed isplati dio ili cjelokupan iznos nagrade i troškova.
+Advokat je ovlašćen da od stranke zatraži i unaprijed naplati novčana sredstva na ime obezbjeđenja buduće nagrade i troškova koji će nastati prilikom zastupanja i pružanja pravne pomoći, iz kojih advokat može naplatiti izvršene radnje zastupanja i pravne pomoći i zastupanja u visini određenoj po ovoj Tarifi ili u visini određenoj po osnovu dogovora sa strankom.
+Odmjeravanje troškova od strane nadležnog suda ili državnog organa i naplata istih na teret suprotne stranke ne utiče na obračun troškova izmedju advokata i stranke za izvršeni rad i izdatke u vezi sa izvršenim radom.
