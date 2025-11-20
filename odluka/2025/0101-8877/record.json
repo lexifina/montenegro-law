@@ -1,0 +1,46 @@
+{
+  "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/izmjene_dopune_odluke_o_blizoj_sadrzini_planova_sanacije_ki_i_planova_sanacije_za_grupu_132-25.pdf",
+  "title": "Odluka o izmjeni i dopuni Odluke o bližoj sadržini planova sanacije kreditnih institucija i planova sanacije za grupu",
+  "source_sha256": "af486fd8652c11e689c72332de719c4695cec430da4b28d4743138d9415057ea",
+  "source_bytes": 340729,
+  "pages": 19,
+  "source_images": 0,
+  "gazette_issue": "132/2025",
+  "publication_date": "2025-11-12",
+  "publication_evidence": {
+    "issue": "132/2025",
+    "date": "2025-11-12",
+    "quote": "132/25 od 12.11.2025",
+    "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_blizoj_sadrzini_planova_sanacije_ki_i_planova_sanacije_za_grupu_prec_tekst_132-25.pdf",
+    "source_sha256": "cdd0d30ac43e00c077472c860c6c5c8cca68b21b4c4f553be4edee339058de34"
+  },
+  "commencement_quote": "Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“ SAVJET CENTRALNE BANKE CRNE GORE PREDSJEDAVAJUĆA O.",
+  "date": "2025-11-20",
+  "basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“ SAVJET CENTRALNE BANKE CRNE GORE PREDSJEDAVAJUĆA O.\"; Gazette 132/2025 publication on 2025-11-12 stated as \"132/25 od 12.11.2025\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_blizoj_sadrzini_planova_sanacije_ki_i_planova_sanacije_za_grupu_prec_tekst_132-25.pdf.",
+  "comparison_mode": "exact body and annex character sequences; signature character inventory equal",
+  "text_sha256": "513138d86c66594ca090f2107d0e1a652108e14b00274b929bbcd128b2246116",
+  "word_count": 6396,
+  "official_numbers": [
+    "0101-8877"
+  ],
+  "path": "odluka/2025/0101-8877",
+  "kind": "as-enacted",
+  "issuer": "Centralna banka Crne Gore",
+  "text_status": "as-enacted",
+  "in_force": "2025-11-20",
+  "in_force_basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“ SAVJET CENTRALNE BANKE CRNE GORE PREDSJEDAVAJUĆA O.\"; Gazette 132/2025 publication on 2025-11-12 stated as \"132/25 od 12.11.2025\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/san_kred_institucija/odluka_o_blizoj_sadrzini_planova_sanacije_ki_i_planova_sanacije_za_grupu_prec_tekst_132-25.pdf.",
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "complete": true,
+  "first_law": null,
+  "source_listing": "https://www.cbcg.me/me/o-nama/regulativa/podzakonski-akti",
+  "related_pis_candidates": [
+    386321
+  ],
+  "official_number": "0101-8877",
+  "official_number_quote": "O.br.0101-8877",
+  "line_endings": "LF",
+  "current_text_asserted": false,
+  "related_official_versions": [],
+  "version_note": "Text as enacted; linked amendments and consolidated copies are separate records and are not applied to this text."
+}
