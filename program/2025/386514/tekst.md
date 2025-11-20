@@ -1,0 +1,20 @@
+Na osnovu člana 8 stav 2, člana 13 stav 1 Zakona o spomen-obilježjima ("Službeni list Crne Gore", br. 40/08, 40/11, 2/17 i 84/24), i člana 39 stav 1 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", broj 37/19), uz prethodnu saglasnost Ministarstva kulture i medija, Rješenje br. UPI-13-041/25-288/3 od 3. 10. 2025. godine, Skupština opštine Kotor je na XXVIII sjednici održanoj dana 12. 11. 2025. godine, donijela
+PROGRAM
+podizanja spomen-obilježja u Opštini Kotor
+Uvod
+Polazeći od zakonskog određenja da je podizanje, zaštita i održavanje spomen-obilježja u javnom interesu, ovim programom, a u skladu sa Zakonom o spomen-obilježjima ("Službeni list Crne Gore", br. 40/08, 40/11, 2/17 i 84/24) utvrđuju se spomen-obilježja koja će se podići na teritoriji Opštine Kotor, vrsta i način podizanja spomen-obilježja, opis simboličkog značenja kao i drugi elementi neophodni za sprovođenje programa.
+Spomen-obilježjima se shodno članu 1 Zakona o spomen-obilježjima, trajno obilježavaju značajni događaji, čuvaju uspomene na istaknutu ličnost, njeguju ljudski ideali i kulturno-istorijske tradicije i odaje počast borcima za slobodu, civilnim žrtvama rata i masovnim stradanjima ljudi.
+Spomen-obilježje je spomen-objekat (spomen-groblje, spomen-kosturnica, spomenik, spomen- bista, spomen ploča i dr.), koji izgledom, sadržajem, oznakama ili natpisom doprinosi trajnom očuvanju vrijednosti iz stava 2 ovog programa.
+I
+Podizanje spomen-obilježja postavljanjem spomen-biste istaknutoj ličnosti prim. dr Filipu Đuraškoviću
+1. Filip Đurašković od oca Boža i majke Sonje djev. Petrović rođen je 5. 2. 1930. godine na Cetinju. Sa suprugom kćerkom i dva sina živio je u Kotoru. Završio je Medicinski fakultet u Sarajevu 1959. godine, dok je specijalizaciju iz Ortopedije završio na Klinici za ortopediju u Beogradu 1966. godine. U bolnici Risan je radio od 1960. do 1995. godine, dok je u period od 1969. do 1991. godine bio upravnik iste. Ogromnu zaslugu ima za razvoj i osavremenjavanje ortopedije u Crnoj Gori. Posebno je značajno pomenuti da je kao vodeći u ortopedskom timu, u ovoj bolnici ugradio totalnu bezcementnu protezu kuka 1971. godine, a 1972. godine cementnu protezu, samo godinu dana poslije Skoplja i Zagreba, a godinu dana prije Ljubljane i Beograda.
+Kao upravnik bolnice, posebno je zapamćeno njegovo angažovanje da se, poslije katastrofalnog zemljotresa 1979. godine, kada je bolnica mnogo oštećena, svi pacijenti (280) za svega 2,5 sata bezbrižno evakuišu, i da u narednom periodu, uz svoj autoritet kod državnih organa, obezbjedi opstanak ustanove, a potom 1981. godine i završetak rekonstrukcije bolnice, što je nemjerljiv doprinos za dalji razvoj ove bolnice. Bio je osnovna karika u dugogodišnjoj stručnoj saradnji sa renomiranim klinikama regiona, posebno sa poznatom Ortopedskom klinikom "Banjica" -Beograd. Posebno treba naglasiti njegov doprinos da se, u periodu njegovog upravljanja bolnicom, zaposlenima dodjeli oko 50 stanova, a što je bilo od presudnog značaja za zadržavanje visokostučnog ljekarskog kadra i stvaranje uslova za budući rad i dostizanje sadašnjeg nivoa ustanove. Ostao je upamćen po visoko profesionalnim i iznad svega ljudskim osobinama i empatiji prema svima s kojima se susretao.
+2. Vrsta spomen-obilježja koja će se podići istaknutoj ličnosti prim. dr Filipu Đuraškoviću je postavljanje spomen objekta-spomen-biste.
+3. Mjesto postavljanja spomen-ploče je Kotor, KO Risan I, na katastarskoj parceli broj 657 - krug bolnice - isped Prijemno hitne službe.
+4. Spomen-obilježje postavljanjem spomen-biste podiže JZU Specijalna bolnica za ortopediju, neurohirurgiju i neurologiju "Vaso Ćuković" Risan.
+5. Sredstva za podizanje spomen-obilježja postavljanjem spomen-biste obezbjeđuje JZU Specijalna bolnica za ortopediju, neurohirurgiju i neurologiju "Vaso Ćuković" Risan.
+6. Rok za podizanje spomen-obilježja postavljanjem spomen-biste je decembar 2026. godine.
+7. U realizaciji ovog spomen-obilježja, u skladu sa zakonom i ovim programom, donjeće se posebna odluka.
+II
+Završne odredbe
+Ovaj program stupa na snagu danom objavljivanja u "Službenom listu Crne Gore - Opštinski propisi".
