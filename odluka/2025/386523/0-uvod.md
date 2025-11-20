@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 i člana 40 stav 1 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11 i 23/25), članova 4 i 5 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list CG", br. 44/10) te člana 36 Statuta Opštine Kotor ("Službeni list CG - Opštinski propisi", br. 37/19), Skupština opštine Kotor, na XXVIII sjednici održanoj 12. 11. 2025. godine, donijela je
+ODLUKU
