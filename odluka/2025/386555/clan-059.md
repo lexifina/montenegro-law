@@ -1,0 +1,2 @@
+# Član 59
+Građani, pravna lica, civilni sektor i drugi subjekti organima uprave i etičkim komisijama mogu dostavljati pritužbe, predloge, inicijative i sugestije na njihov rad u pisanoj ili elektronskoj formi, preko kutija za predloge, primjedbe i sugestije i neposrednim prijemom kod starješina organa, odnosno lokalnih funkcionera u skladu sa posebnim uputstvom predsjednika, odnosno propisima kojima se uređuju etički standardi, odnosno postupanje etičkih komisija.

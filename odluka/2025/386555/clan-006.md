@@ -1,0 +1,62 @@
+# Član 6
+Sekretarijat za urbanizam i stambene poslove vrši poslove koji se odnose na:
+- izradu propisa iz oblasti uređenja prostora i izgradnje objekata: priprema propisa kojim se uređuje postavljanje odnosno građenje i uklanjanje privremenih objekata; pripremanje Programa privremenih objekata; priprema propisa kojim se propisuju bliži uslovi, način postavljanja i uklanjanja pomoćnih objekata; davanje mišljenja na planska dokumenta za čije je donošenje nadležan organ državne uprave; učešće u javnoj raspravi u vezi s planskim dokumentima za čije donošenje je nadležan organ državne uprave;
+- pripremu izvještaja o stanju uređenja prostora, izradu i uspostavljanje državnog informacionog sistema o prostoru;
+- pripremu Programa uređenja prostora: organizovanje javne rasprave i sačinjavanje izvještaja o sprovedenoj raspravi;
+- pripremu izrade i donošenja lokalnih planskih dokumenata: priprema odluke o izradi planskog dokumenta, sa programskim zadatkom; pribavljanje smjernica i uslova u skladu sa zakonom kojim se uređuje zaštita prirode, kao i zakonom kojim se uređuje zaštita kulturnih dobara; praćenje izrade planskog dokumenta; priprema odluke o donošenju planskog dokumenta; saradnja sa obrađivačem plana, revidentom i drugim subjektima u postupku izrade planske dokumentacije; učešće u sačinjavanju izvještaja sa javne rasprave; pripremanje odluke o donošenju plana; objavljivanje plana na sajtu Opštine i druge poslove u vezi s izradom i donošenjem planskog dokumenta;
+- pripremu programa urbane sanacije u saradnji sa drugim nadležnim organima uprave;
+- javno objavljivanje planskih dokumenata, akata, izvještaja i sl. saglasno zakonski propisanim obavezama;
+- dostavljanje Ministarstvu planskog dokumenta radi evidentiranja i objavljivanja u Registru, dostavljanje katastru planskog dokumenta radi prenošenja plana parcelacije na katastarske planove;
+- raspisivanje i sprovođenje postupka javnog konkursa za urbanističko, odnosno urbanističko- arhitektonsko idejno rješenje, u skladu sa smjernicama iz planskog dokumenta za izuzetno složene i atraktivne djelove urbanih cjelina ili njihovih djelova, kao i za prostor namijenjen javnim objektima i javnim površinama;
+- dostavljanje Ministarstvu urbanističko-tehničkih uslova iz lokalnog planskog dokumenta, nakon donošenja planskog dokumenta;
+- obavljanje poslova u vezi s urbanom komasacijom, u okviru ovlašćenja definisanih zakonom;
+- učestvovanje u pripremi propisa za utvrđivanje visine i načina naplate naknade za bespravne objekte, a vezano za visinu i način obračuna naknade za urbanu sanaciju;
+- sprovođenje upravnih postupaka za izdavanje građevinske dozvole za izgradnju i rekonstrukciju objekata za koje je nadležan; pribavljanje propisanih saglasnosti i dokaza vezano za građevinsku dozvolu i saradnju sa ovlašćenim subjektima; objavljivanje zahtjeva za izdavanje građevinske dozvole i građevinske dozvole na veb-sajtu Opštine, ovjera tehničke dokumentacije; rješenje o izmjeni građevinske dozvole na novog investitora; dostavljanje građevinske dozvole nadležnoj građevinskoj inspekciji;
+- određivanje vršioca tehničkog pregleda za sve vrste objekata osim porodične stambene zgrade i izdavanje upotrebne dozvole; objavljivanje zahtjeva i upotrebne dozvole na veb-sajtu organa; izdavanje rješenja o otklanjanju utvrđenih nedostataka, odnosno zabrani upotrebe objekta; ponovni tehnički pregled; izdavanje odobrenja za uklanjanje objekata na zahtjev vlasnika; dostavlja dokumentaciju o građenju objekta Ministarstvu za vođenje centralnog registra građenja, vršenje nadzora nad sprovođenjem odluka iz oblasti uređenja i izgradnje objekata;
+- dostavljanje po službenoj dužnosti obavještenja o površinama objekata Upravi lokalnih javnih prihoda, u postupku utvrđivanja i plaćanja naknade za građenje i naknade za urbanu sanaciju;
+- primjenu propisa za privremene objekte, za pomoćne objekte i lokalne objekte od opšteg interesa;
+- izdavanje izvoda iz planske dokumentacije u okviru ovlašćenja definisanih zakonom;
+- učestvovanje u pripremi propisa koji se odnose na određivanje i organizaciju prostornih zona zavisno od vrste i stepena komunalne i infrastrukturne opremljenosti građevinskog zemljišta;
+- vođenje upravnog postupka za pretvaranje posebnih i zajedničkih i djelova stambene zgrade u poslovni prostor;
+- izdavanje odobrenja za postavljanje, odnosno građenje pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjene pokretljivosti i lica sa invaliditetom:
+- izradu izvještaja o radu Sekretarijata za predsjednika Opštine i glavnog administratora;
+- izradu nacrta i predlog odluka i drugih opštih akata iz nadležnosti Sekretarijata, staranje o usklađenosti odluke i drugih opštih akata sa zakonima; davanje tumačenja opštinskih propisa iz nadležnosti Sekretarijata;
+- sprovođenje postupka legalizacije bespravnih objekta neto površine do 500 m2 i bespravnih objekata izgrađenih u zaštićenim zonama, i to: zona park šume, zaštitnih šuma, zone zelenih površina u zahvatu planskog dokumenta, zona vodoizvorišta, zaštitni putni pojas, klizište i plavno područje;
+- donošenje rješenja o legalizaciji za bespravne objekte neto površine do 500 m2 i bespravne objekte izgrađene u zaštićenim zonama, i to: zona park šume, zaštitnih šuma, zone zelenih površina u zahvatu planskog dokumenta, zona vodoizvorišta, zaštitni putni pojas, klizište i plavno područje;
+- donošenje rješenja o prekidu postupka za bespravne objekte neto površine do 500 m2 i bespravne objekte izgrađene u zaštićenim zonama, i to: zona park šume, zaštitnih šuma, zone zelenih površina u zahvatu planskog dokumenta, zona vodoizvorišta, zaštitni putni pojas, klizište i plavno područje za koji podnosilac zahtjeva ne posjeduje dokaz o riješenim imovinsko-pravnim odnosima na objektu/zemljištu;
+- donošenje rješenja o odbijanju zahtjeva za bespravne objekte neto površine do 500 m2 i bespravne objekte izgrađene u zaštićenim zonama, i to: zona park šume, zaštitnih šuma, zone zelenih površina u zahvatu planskog dokumenta, zona vodoizvorišta, zaštitni putni pojas, klizište i plavno područje;
+- dostavljanje rješenje o legalizaciji nadležnim organima;
+- objavljivanje rješenja o legalizaciji na veb-sajtu Opštine;
+- dostavljanje akta o prekidu postupka legalizacije objekta koji je izgrađen na zemljištu na kojem svojinska ovlašćenja vrši država, a kojim raspolaže jedinica lokalne samouprave, organu uprave nadležnom za imovinu, odnosno organu državne uprave nadležnom za imovinu za zemljište kojim raspolaže Vlada;
+- dostavljanje rješenja o odbijanju zahtjeva za legalizaciju objekta nadležnom inspekcijskom organu;
+- dostavljanje podataka o bespravnom objektu Komisiji koja vrši pregled bespravnog objekta na licu mjesta;
+- učešće u postupku vođenja evidencije bespravnih objekata;
+- učešće u postupku vođenja evidencije podataka u postupku legalizacije u elektronskoj formi;
+- učešće u postupku izrade karte zaštićenih zona i opis granica zona;
+- sprovođenje postupka izbora geodetske organizacije za izradu elaborata premjera izvedenog stanja bespravnog objekta;
+- pribavljanje dokaza da je sproveden postupak procjene uticaja na životnu sredinu odnosno elaborat, saglasnost na elaborat ili odluka da nije potrebna izrada elaborata za projekte/objekte za koje se može zahtijevati izrada elaborata u skladu sa zakonom kojim se uređuje način i postupak procjene uticaja za bespravno sagrađene objekte;
+- uređivanje odnosa u oblasti održavanja i upravljanja stambenim zgradama;
+- donošenje administrativnog rješenja po zahtjevima lica koja imaju pravni interes u postupcima iseljenja iz posebnih ili zajedničkih djelova stambenih zgrada, ako se neko lice useli u posebne ili zajedničke djelove stambene zgrade bez pravnog osnova ili ako taj osnov prestane;
+- praćenje organizovanja organa upravljanja u stambenim zgradama i učestvovanje u postupcima po zahtjevima organa upravljanja stambenih zgrada za dobijanje matičnog broja i šifre djelatnosti stambene zgrade;
+- vođenje registra etažnih vlasnika;
+- vođenje registra stambenih zgrada i njihovih posebnih djelova;
+- vođenje registra upravnika stambenih zgrada i donošenje rješenja o njihovom imenovanju;
+- vođenje registara privremenih upravnika;
+- učešće u postupku imenovanja i donošenja odluke o imenovanju privremenog upravnika stambene zgrade,
+- učešće u postupku obezbjeđenja izvođenja hitnih radova na stambenim zgradama, kada ove radove obezbjeđuje Opština u skladu sa zakonom i vršenje nadzora nad izvođenjem hitnih radova;
+- donošenje rješenja, shodno odluci skupštine etažnih vlasnika, u skladu sa zakonom, kojim se obračunava iznos i utvrđuje način plaćanja troškova održavanja stambene zgrade i urbanističke parcele;
+- vođenje evidencije podataka o zakupu posebnih djelova u stambenim zgradama, koje je dužan da dostavlja upravnik stambene zgrade;
+- pripremanje odluke o kućnom redu u stambenim zgradama;
+- praćenje stanja održavanja stambenih zgrada;
+- pružanje podrške i pomoći građanima u vezi sa zahtjevima koji se odnose na sanaciju djelova stambene zgrade;
+- obavještavanje etažnih vlasnika o isteku mandata upravnika stambenih zgrada i pružanje neophodne pomoći i smjernica u vezi sa izborom novog upravnika;
+- savjetovanje etažnih vlasnika u vezi sa pravilnim sazivanjem i održavanjem skupština etažnih vlasnika, kao i pružanje osnovnih pravnih i organizacionih uputstava radi unapređenja funkcionisanja stambene zgrade;
+- ostvarivanje saradnje sa nadležnim državnim institucijama i organima, radi efikasnijeg rješavanja pitanja iz oblasti stanovanja;
+- određivanje evidencionih brojeva stambenih, stambeno-poslovnih, poslovnih i individualnih zgrada;
+- učestvovanje u izradi nacrta i predloga opštinskih propisa iz domena svoje nadležnosti;
+- pripremanje informativnih i drugih stručnih materijala za Skupštinu i predsjednika Opštine, izjašnjavanje na nacrte i predloge zakona i drugih propisa, pripremanje stručnih mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa, sprovođenje plana integriteta i procjena rizika, ostvarivanje neposredne saradnje sa nevladinim organizacijama, iz nadležnosti organa;
+- pripremanje informacija za medije iz svog djelokruga i dostavljanje Službi za saradnju, poslove predsjednika i informisanje na obradu i objavljivanje u medijima, na veb-sajtu i društvenim mrežama;
+- pripremanje izvještaja za glavnog administratora o postupanju u upravnim stvarima iz svoje nadležnosti;
+- upravni postupak za slobodan pristup informacijama iz djelokruga Sekretarijata;
+- procjenu analize uticaja odluka i drugih propisa (RIA) iz svog djelokruga; i
+- druge poslove iz svog djelokruga u skladu za zakonom i drugim propisima.

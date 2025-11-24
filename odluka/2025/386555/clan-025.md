@@ -1,0 +1,2 @@
+# Član 25
+Organi uprave dužni su da na vidnom mjestu u svojim službenim prostorijama i na veb-sajtu Opštine Nikšić istaknu standarde postupanja koji su od značaja za ostvarivanje prava i izvršavanje obaveza građana; radno vrijeme i vrijeme prijema stranaka, uslove i način ostvarivanja prava i izvršavanja obaveza, lična imena i zvanja službenika i namještenika, podatke o pravima, obavezama i procedurama i druge servisne informacije.

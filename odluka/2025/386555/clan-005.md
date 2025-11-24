@@ -1,0 +1,58 @@
+# Član 5
+Sekretarijat za finansije, razvoj i preduzetništvo vrši poslove koji se odnose na:
+- praćenje i sprovođenje zakona i propisa donesenih na osnovu zakona u oblasti: finansiranja, budžeta, zarada u javnom sektoru, zaštite podataka o ličnosti, regionalnog razvoja, poljoprivrede, turizma, zanatstva, trgovine, preduzetništva, rada u dijelu radnog vremena, kontrole državne pomoći, zaštite potrošača, javnih nabavki i drugih propisa koji su u vezi sa ostvarivanjem funkcija organa, izjašnjavanje na nacrte i predloge zakona, planskih dokumenata i drugih propisa i akata iz ove oblasti;
+- pripremu i sprovođenje propisa Opštine u oblastima za koje je organ osnovan (budžet Opštine, završni račun, privremeno finansiranje, zarade lokalnih funkcionera i lokalnih službenika i namještenika, lokalni javni prihodi, u saradnji sa drugim organima uprave, priprema osnivačkih akata javnih službi nad kojima vrši nadzor), izjašnjavanje o inicijativama za ocjenu ustavnosti i zakonitosti propisa Opštine iz djelokruga organa, pripremu propisa za sprovođenje podsticajnih mjera u oblasti preduzetništva i poljoprivrede;
+- učestvovanje u izradi i sprovođenju programskih i planskih akata iz djelokruga organa;
+- učestvovanje u izradi i sprovođenju lokalnog strateškog plana, praćenje i sprovođenje državnih planskih akata u okviru nadležnosti organa;
+- upravljanje konsolidovanim računom trezora, podračunima i drugim računima; vođenje postupka otvaranja podračuna i utvrđivanja načina njihovog korišćenja, vođenje glavne knjige trezora i pomoćne knjige, finansijsko planiranje i upravljanje gotovinskim sredstvima, kontrolu izdataka i izvršavanje budžeta, obračun i isplatu zarada i naknada zaposlenima u Opštini i prenos sredstava za isplatu zarada i naknada zaposlenim u javnim ustanovama čiji je osnivač Opština, budžetsko računovodstvo i izvještavanje, upravljanje finansijskim informacionim sistemom;
+- sprovođenje upravnih postupaka i donošenje rješenja u oblastima za koje je organ osnovan: o utvrđivanju ispunjenosti minimalno tehničkih uslova u poslovnim prostorijama, za obavljanje ugostiteljske djelatnosti i kategorisanje ugostiteljskih objekata, za pružanje ugostiteljskih i turističkih usluga u posebnim objektima, za obavljanje ugostiteljskih usluga u usluga rentakara za upis u Centralni turistički registar, o prestanku obavljanja djelatnosti, izdavanje uvjerenja o činjenicama o kojima organ vodi evidenciju, i druge upravne postupke i donošenje drugih rješenja u skladu sa zakonom i odlukama Opštine, sprovođenje postupaka za podsticajne mjere za razvoj preduzetništva, donošenje rješenja o obavljanju djelatnosti u vremenu dužem od propisanog;
+- utvrđivanje programa aktivnosti i načina stimulisanja preduzetničkih inicijativa na lokalnom nivou, saradnju i pružanje informacija zainteresovanim subjektima za razvoj preduzetništva, a posebno malim i srednjim preduzećima u cilju korišćenja resursa i realizacije planova i programa u ovim oblastima, saradnju sa asocijacijama poslodavaca i sl.;
+- učestvovanje u promovisanju i realizaciji aktivnosti za razvoj turizma i iniciranju i realizaciji promocije atraktivnih turističkih destinacija opštine, saradnju i učestvovanje u radu organa Turističke organizacije i učestvovanje u stvaranju uslova i organizovanju sajmova i drugih sličnih manifestacija iz oblasti turizma;
+- sprovođenje postupka za utvrđivanje ispunjenosti uslova o privremenoj i trajnoj promjeni namjene poljoprivrednog zemljišta u nepoljoprivredne svrhe, izdavanje uvjerenja o bavljenju poljoprivrednom proizvodnjom individualnim poljoprivrednim proizvođačima, pripremu propisa za sprovođenje podsticajnih mjera u oblasti poljoprivrede i ruralnog razvoja, sprovođenje postupaka za podsticajne mjere za razvoj poljoprivrede i ruralnog razvoja, učešće u pripremi i postupku donošenja Strategije razvoja turizma Opštine;
+- učešće u identifikaciji i zaštiti kapitala Opštine u postupku transformacije javnih preduzeća čiji je osnivač Opština i drugih privrednih subjekata, kupovinu i prodaju hartija od vrijednosti ili udjela u privrednim društvima, zaduživanje Opštine, davanje garancija i sl.;
+- vođenje evidencije o dugu Opštine, evidencije zarada zaposlenih u Opštini i drugih evidencija u skladu sa zakonom;
+- dostavljanje podataka nadležnim organima o prihodima, izdacima i budžetskom zaduženju;
+- postupanje po inicijativama građana iz djelokruga organa;
+- pripremu programa i izvještaja o radu organa, realizaciji fiskalne politike za tekuću godinu, korišćenju stalne budžetske rezerve i drugih informativnih i stručnih materijala za Skupštinu, predsjednika Opštine, organe državne uprave i sl.;
+- obezbjeđivanje učešća građana u vršenju javnih poslova iz svoje nadležnosti, ostvarivanje principa transparentnosti objavljivanjem propisanih akata, saradnju sa nevladinim organizacijama i pripremu izvještaja u skladu sa posebnim odlukama Opštine;
+- evidenciju podataka iz godišnjih izvještaja o popisu nepokretnih i pokretnih stvari kojima raspolaže Opština, u skladu sa propisima iz ove oblasti;
+- izradu i sprovođenje programa i planova podsticaja razvoja preduzetništva, poljoprivrede, turizma i sl.;
+- vođenje evidencija i dostavljanje podataka o privrednim subjektima nadležnim organima;
+- zaštitu potrošača i ostvarivanje neposredne saradnje sa subjektima iz ove oblasti;
+- saradnju i koordinaciju sa Sekretarijatom za investicije i projekte u pripremi i sprovođenju razvojnih programa, planova i projekata iz nadležnosti organa;
+- prikupljanje i ažuriranje informacija o zainteresovanosti za ulaganja, projektima podrške za privredna društva i preduzetnike u oblasti poljoprivrede, turizma, preduzetništva i zanatstva, posebno za stare i rijetke zanate;
+- sprovođenje programa Sekretarijata u obezbjeđivanju i raspodjeli sredstava za poljoprivredu, turizam, preduzetništvo, zanatstvo;
+- sprovođenje aktivne politike pomoći u razvoju sektora poljoprivrede, zanatstva, turizma, preduzetništva, kako bi se stvorili uslovi za zapošljavanje u tim sektorima, sa posebnim osvrtom na zapošljavanje mladih, žena, osoba sa invaliditetom, kao i ostalih teže zapošljivih lica;
+- razvoj finansiranja projekata mjesnih zajednica, kontrola finansiranja i pomoć u kofinansiranju projekata bitnih za mjesne zajednice, konkurisanje za sredstva iz EU fondova i drugih raspoloživih fondova i administrativna pomoć svake vrste u ovim postupcima;
+- organizaciju susreta, kao i saradnju sa privrednicima i preduzetnicima, građanima i NVO u cilju afirmacije razvoja, preduzetništva, poljoprivrede, zanatstva i turizma;
+- vršenje upisa u Centralni turistički registar;
+- vršenje prijema od nadležnog organa i evidentiranje prijava o početku obavljanja trgovine i o promjeni podataka u prijavi obavljanja trgovine;
+- vršenje upisa u Centralni turistički registar;
+- vršenje prijema i ovjeravanja prijava o početku obavljanja zanatstva, i o promjeni podataka u prijavi zanatstva i vođenje evidencije istih;
+- praćenje stanja i predlaganje programa aktivnosti za podsticanje razvoja poljoprivrede i ruralnih područja opštine, vođenje evidencije o zemljištu koje je promijenilo namjenu;
+- davanje mišljenja o davanju u zakup poljoprivrednog zemljišta u vlasništvu Opštine, učestvovanje u izradi biznis planova, učestvovanje u realizaciji mjera državne agrarne politike, prikupljanje dokumentacije za ostvarivanje prava na staračke naknade i prosljeđivanje Ministarstvu na rješavanje, učestvovanje u organizaciji sajmova - izložbi iz oblasti poljoprivrede, organizovanje stručnih predavanja vezanih za pojedine oblasti proizvodnje u cilju edukacije poljoprivrednih proizvođača;
+- staranje o sprovođenju mjera za uzgoj, zaštitu i lov divljači;
+- učešće u pripremi i postupku donošenja Strateškog plana razvoja opštine;
+- pripremu plana javnih nabavki;
+- vođenje postupka javnih nabavki u skladu sa zakonom i podzakonskim aktima;
+- objavljivanje na portalu javnih nabavki plana javnih nabavki, tenderske dokumentacije, odluke o kvalifikaciji kandidata, odluke o izboru najpovoljnije ponude, odluke o obustavi postupka javne nabavke, odluke o poništavanju postupka javne nabavke, ugovora o javnoj nabavci, izmjene, odnosno dopune plana, tenderske dokumentacije, odluke i ugovora;
+- koordiniranje i nadzor nad zakonitošću teksta i zahtjeva tenderske dokumentacije sa instrukcijama za postupanje;
+- izdavanje zainteresovanim licima dijela tenderske dokumentacije koji sadrži tajne podatke, a u skladu sa propisima koji uređuju tajnost podataka;
+- izradu nacrta ugovora o javnim nabavkama;
+- realizaciju ugovora o javnim nabavkama;
+- sačinjavanje i objavljivanje u elektronskom sistemu javnih nabavki izvještaja o realizaciji ugovora u roku od 30 dana od dana realizacije ugovora o javnoj nabavci;
+- vođenje evidencije o sprovedenom postupku javne nabavke i jednostavnoj nabavci direktnim unošenjem u elektronski sistem javnih nabavki;
+- pripremu i dostavljanje nadležnom organu izvještaja o sprovedenim postupcima javnih nabavki i zaključenim ugovorima o javnim nabavkama, kao i izvještaja o sprovedenim nabavkama i zaključenim ugovorima/računima za jednostavne nabavke, i to: polugodišnji izvještaj za period od 1. januara do 30. juna tekuće godine, od 1. jula do 31. decembra tekuće godine; godišnji izvještaj za prethodnu godinu do 28. februara tekuće godine;
+- čuvanje potpune dokumentacije nastale u postupcima javnih nabavki sprovedenim u skladu sa zakonom;
+- saradnju sa ostalim organima uprave u cilju postizanja planom definisane dinamike realizacije plana javne nabavke i poslove stručnog savjetovanja istih;
+- obezbjeđenje učešća javnosti u donošenju akata od zajedničkog interesa i ostalih akata i aktivnosti u skladu sa zakonskim i opštinskim propisima;
+- organizaciju i vršenje stručnih i administrativno-tehničkih poslova za potrebe komisija i radnih tijela imenovanih za obavljanje aktivnosti iz nadležnosti Opštine u ovoj oblasti i obradu standardnih obrazaca, pripremu plana i izvještavanja u vezi sa sprovođenjem postupka javnih nabavki iz djelokruga Sekretarijata; pribavljanje dokumentacije po službenoj dužnosti za potrebe efikasnog i efektivnog postupanja po zahtjevu stranke u skladu sa propisima; saradnju sa državnim organima i drugim pravnim licima u okviru djelokruga svog rada;
+- postupanje po zahtjevima za slobodan pristup informacijama;
+- upravni nadzor i poslove u vezi sa ostvarivanjem prava osnivača u javnim službama u oblastima iz svoje nadležnosti;
+- učestvovanje u izradi nacrta i predloga opštinskih propisa iz domena svoje nadležnosti;
+- pripremanje informativnih i drugih stručnih materijala za Skupštinu i predsjednika Opštine, izjašnjavanje na nacrte i predloge zakona i drugih propisa, pripremanje stručnih mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa, sprovođenje plana integriteta i procjena rizika, ostvarivanje neposredne saradnje sa nevladinim organizacijama, iz nadležnosti organa;
+- pripremanje informacija za medije iz svog djelokruga i dostavljanje Službi za saradnju, poslove predsjednika i informisanje na obradu i objavljivanje u medijima, na veb-sajtu i društvenim mrežama;
+- pripremanje izvještaja za glavnog administratora o postupanju u upravnim stvarima iz svoje nadležnosti;
+- upravni postupak za slobodan pristup informacijama iz djelokruga Sekretarijata;
+- procjenu analize uticaja odluka i drugih propisa (RIA) iz svog djelokruga; i
+- druge poslove iz svog djelokruga u skladu za zakonom i drugim propisima.
