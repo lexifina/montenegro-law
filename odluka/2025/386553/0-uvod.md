@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 1 Statuta Opštine Ulcinj ("Službeni list Crne Gore - Opštinski propisi", broj 48/19 i 5/24) i člana 10 stav 1 alineja 3 Odluke o osnivanju Društva sa ograničenom odgovornošću "Za očuvanje i zaštitu biodiverziteta, uzgoja i lova divljači i ribolov" Ulcinj ("Službeni list CG - Opštinski propisi", br. 4/19 i 5/22) Skupština opštine Ulcinj, na sjednici održanoj dana 7.11.2025. godine, donijela je
+ODLUKU
