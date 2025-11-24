@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 21 Zakona o lokalnoj samoupravi (,,Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 34 stav 1 tačka 21 Statuta Opštine Herceg Novi (,,Službeni list Crne Gore - Opštinski propisi", 1/19, 37/19, 6/20 i 18/22) i člana 38 Poslovnika o radu Skupštine opštine Herceg Novi (,,Službeni list Crne Gore - Opštinski propisi", br. 1/19) Skupština opštine Herceg Novi na sjednici održanoj 24. 11. 2025. godine, donijela je
+RJEŠENJE
