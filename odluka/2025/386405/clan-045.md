@@ -1,0 +1,3 @@
+# Član 45
+Vlasnik ili korisnik zemljišta uz opštinski ili nekategorisani put u opštoj upotrebi mora dopustiti slobodan otok vode sa puta i odlaganje snijega na njegovom zemljištu ako se time ne pravi šteta.
+Vlasnici odnosno korisnici zemljišta uz put iz stava 1 ovog člana moraju, u skladu sa zakonom i uz nadoknadu, dopustiti pristup do putnih objekata zbog njihovog održavanja, gradnje odvodnih jarkova, upojnih bunara i drugih objekata za odvod vode sa puta, gradnju privremenih ili stalnih objekata za zaštitu puta i saobraćaja na njemu u slučaju sniježnih nanosa, smetova, buke, zasljepljivanja i ostalih štetnih uticaja, koje nije moguće postaviti na putnom zemljištu.

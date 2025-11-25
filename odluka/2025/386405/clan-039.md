@@ -1,0 +1,21 @@
+# Član 39
+Radi zaštite opštinskih puteva zabranjeno je privremeno ili stalno zauzimanje puta ili njegovog dijela ili izvođenje bilo kakvih radova na putu koji nijesu u vezi sa održavanjem ili rekonstrukcijom puta i to:
+- vući po putu grede, balvane, plugove, drljače, saonice, kamene blokove i druge slične predmete;
+- spuštati na put niz strane usijeka, zasijeka ili sa puta niz strane nasipa: građu, drvo za ogrijev, kamenje i drugi materijal;
+- prevoziti materijale sitnije granulacije - rasuti materijal, bez pokrivanja tovarnog sanduka;
+- puštati stoku na put, kosine nasipa i usijeka puta, kao i graditi pojila za stoku u putnom i zaštitnom pojasu puta;
+- držati đubrište i gnojne jame u putnom i zaštitnom pojasu;
+- deponovati zemlju, otpadni, građevinski i drugi materijal u putnom i zaštitnom pojasu puta;
+- ispuštati vode, otpadne vode i drugu nečistoću na put i putno zemljište ili spriječavati oticanje vode sa puta ili putnog jarka, putnog propusta i dalje usmjeravanje vode ka njihovim recipijentima;
+- nanositi blato sa prilaznog puta na opštinski put;
+- vaditi kamen, pijesak i šljunak u putnom pojasu;
+- koristiti putni jarak za navodnjavanje okolnog zemljišta;
+- zamazivati ili prljati kolovoz puta mazutom, naftom, motornim uljem i drugim masnim materijama;
+- koristiti za pristup opštinski put na mjesto gdje nema dozvoljenog priključka;
+- okretati traktore, plugove i druga poljoprivredna oruđa na opštinskom putu;
+- postavljati i koristiti svjetiljke ili druge svjetleće naprave na putu ili pored puta koje bi mogle ometati ili ugrožavati saobraćaj;
+- namjerno uz put paliti travu i druge otpadne materije;
+- voziti ili parkirati vozila na bankinama, površinama namijenjenim biciklistima i pješacima ili na drugim djelovima puta koji nijesu predviđeni za vožnju vozila, osim u slučajevima ako je parkiranje ili zaustavljanje na njima izričito dozvoljeno;
+- ostavljati na putevima ili bacati bilo kakve predmete, građevinski ili drugi materijal;
+- ukloniti, premjestiti, zakloniti, oštetiti ili uništiti saobraćajni znak;
+- vršiti i druge slične radnje kojima bi se mogao oštetiti put ili putni objekat, ometati ili ugrožavati saobraćaj na putu.

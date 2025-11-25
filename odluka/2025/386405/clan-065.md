@@ -1,0 +1,3 @@
+# Član 65
+Danom stupanja na snagu ove Odluke prestaje da važi Odluka o opštinskim lokalnim i nekategorisanim putevima na teritoriji Opštine Rožaje ("Službeni list Crne Gore - Opštinski propisi", br. 36/14 od 18. 12. 2014, 34/17 od 7. 8. 2017), osim dijela člana 60 koja glasi: "Osim poglavlja II Odluke o određivanju, izgradnji, rekonstrukciji, održavanju, zaštiti i korišćenju lokalnih i nekategorisanih puteva, br. 799 od 7. 5. 2007. godine ("Službeni list Crne Gore - Opštinski propisi", br. 18/07 br. 6/00)", koja će se primjenjivati sve do donošenja nove Odluke o opštinskim i nekategorisanim putevima na teritoriji Opštine Rožaje.
+Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore - Opštinski propisi".

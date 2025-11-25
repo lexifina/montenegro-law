@@ -1,0 +1,3 @@
+# Član 27
+U slučaju da na opštinskom i nekategorisanom putu koji je u opštoj upotrebi dođe do prekida odvijanja saobraćaja uslijed elementarnih nepogoda (sniježnih lavina, odronjavanja terena u većem obimu, zemljotresa i slično), a subjekat kome su povjereni ovi poslovi i odabrani izvođač nijesu u mogućnosti da svojim sredstvima otklone nastale smetnje ili uspostave saobraćaj, Planom za otklanjanje elementarnih nepogoda, koji se donosi po hitnom postupku, utvrđuju se mjere koje je potrebno preduzeti u cilju bezbjednog odvijanja saobraćaja.
+Plan iz prethodnog stava donosi predsjednik Opštine, na predlog organa lokalne uprave i pribavljenog mišljenja Uprave za saobraćaj.
