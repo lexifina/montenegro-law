@@ -1,0 +1,2 @@
+# Član 14
+Ukoliko mjesna zajednica nije u mogućnosti da samostalno riješi imovinsko-pravne odnose za izgradnju puta, na njen zahtjev, sporna pitanja rješiće organ lokalne uprave nadležan za imovinsko- pravne poslove.
