@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 32 tačka 2 Statuta Opštine Žabljak ("Službeni list CG - Opštinski propisi", br. 27/18) i člana 2 Odluke o Budžetu Opštine Žabljak za 2024. godinu ("Službeni list CG - Opštinski", br. 4/24), Skupština opštine Žabljak, na sjednici održanoj 30. 10. 2025. godine, donijela je
+ODLUKU
