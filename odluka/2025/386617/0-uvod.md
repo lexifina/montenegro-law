@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list Crne Gore", br. 40/10, 6/13, 70/17 i 125/23), člana 18 stav 2 i člana 25 stav 9 Zakona o potrošačkim kreditima ("Službeni list CG", broj 15/25), Savjet Centralne banke Crne Gore, na sjednici od 20. novembra 2025. godine, donio je
+O D L U K U O SADRŽAJU OBRAZACA ZA INFORMISANJE POTROŠAČA PRIJE ZAKLJUČIVANJA UGOVORA O POTROŠAČKIM KREDITIMA
