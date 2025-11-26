@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o izradi Izmjena i dopuna Prostorno-urbanističkog plana Opštine Danilovgrad ("Službeni list CG", broj 15/25) u Programskom zadatku u tački III USLOVI I SMJERNICE PLANSKOG DOKUMENTA VIŠEG REDA I RAZVOJNIH STRATEGIJA riječi: "Prostornog plana Crne Gore do 2020 ("Službeni list CG", br. 24/08 i 44/12);" zamjenjuju se riječima: "Prostornog plana Crne Gore ("Službeni list CG", broj 68/25);".
