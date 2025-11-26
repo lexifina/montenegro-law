@@ -1,0 +1,6 @@
+# Član 4
+## Stupanje na snagu
+Ova odluka stupa na snagu narednog dana od dana objavljivanja u "Službenom listu Crne Gore", a primjenjivaće se od 28. novembra 2025. godine.
+O. br. 0101- 9051-12 /2025 Podgorica, 20. novembar 2025. godine
+Savjet Centralne banke Crne Gore
+Predsjedavajuća guvernerka,
