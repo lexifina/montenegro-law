@@ -1,0 +1,2 @@
+Na osnovu člana 250 stav 6 Zakona o bezbjednosti saobraćaja na putevima ("Službeni list CG", br. 33/12, 58/14,14/17 i 66/19) i člana 6 stav 1 Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju usaglašenosti ("Službeni list CG", br. 53/11 i 3/23), Ministarstvo ekonomskog razvoja donijelo je
+PRAVILNIK O DOPUNAMA PRAVILNIKA O TEHNIČKIM ZAHTJEVIMA I DRUGIM USLOVIMA ZA UREĐAJE I OPREMU ZA POGON MOTORNIH VOZILA NA TEČNI NAFTNI ILI PRIRODNI GAS
