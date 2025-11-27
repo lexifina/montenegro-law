@@ -1,0 +1,3 @@
+Na osnovu člana 141 stav 2 Zakona o uređenju prostora ("Službeni list CG", br. 19/25 i 28/25), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 37 stav 1 tač. 2 Statuta Opštine Kolašin ("Službeni list CG - Opštinski propisi", broj 24/19), Skupština opštine Kolašin, na sjednici održanoj dana 26. 11. 2025. godine, donijela je
+ODLUKU
+o izmjenama i dopunama Odluke o stavljanju van snage Detaljnog urbanističkog plana "Centar" Kolašin - Izmjene i dopune ("Službeni list CG - Opštinski propisi", broj 11/09) u dijelu granice Urbanističkog projekta "Centralno gradsko jezgro Kolašina"
