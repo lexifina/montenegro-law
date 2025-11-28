@@ -1,0 +1,3 @@
+# Član 1
+## stanovništva i dodjeli subvencija za troškove đačkih mjesečnih karata prevoza srednjoškolaca na teritoriji Opštine Bijelo Polje za 2025. godinu
+U Odluci o dodjeli subvencija za troškove prevoza putnika lokalnog stanovništva i dodjeli subvencija za troškove đačkih mjesečnih karata prevoza srednjoškolaca na teritoriji Opštine Bijelo Polje za 2025. godinu ("Službeni list Crne Gore - Opštinski propisi", broj 26/25) u članu 7 posle riječi "a koji koriste lokalni javni prevoz" umjesto tačke stavlja se zarez i dodaju riječi "kao i učenici srednjih škola koji sa teritorije Opštine Bijelo Polje putuju za Berane i pohađaju tamošnje srednje škole, za period septembar - decembar 2025. godine".
