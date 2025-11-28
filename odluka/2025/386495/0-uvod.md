@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 i člana 33 stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11 i 23/25), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20, 34/19, 38/20, 50/22 i 84/22) i člana 36 stav 1 tačka 10 Statuta Opštine Kotor ("Službeni list CG - Opštinski propisi", broj 37/19) Skupština opštine Kotor, na XXVIII sjednici održanoj dana 12. 11. 2025. godine, donijela je
+ODLUKU

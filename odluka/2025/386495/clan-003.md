@@ -1,0 +1,3 @@
+# Član 3
+Za vrijeme privremenog upravljanja i korišćenja za zemljište iz člana 1. ove odluke naplaćivaće se naknada u iznosu od 94,80€ sa PDV- mjesečno, odnosno godišnje 1.137,60€ sa uračunatim PDV- om, obračunata prema Odluci o utvrđivanju najnižeg iznosa zakupnine za privremene objekte montažnog karaktera i za zemljište na kojem se postavljaju, odnosno grade ("Službeni list Crne Gore - Opštinski propisi", br. 30/23).
+Naknada iz prethodnog stava će se korigovati u slučaju izmjene Odluke o utvrđivanju najnižeg iznosa zakupnine za privremene objekte montažnog karaktera i za zemljište na kojem se postavljaju, odnosno grade.
