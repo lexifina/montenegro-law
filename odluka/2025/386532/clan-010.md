@@ -1,0 +1,3 @@
+# Član 10
+Nadležni organ lokalne uprave će po sluzbenoj duznosti, za objekte u kojima se pružaju ugostiteljske usluge navedene u članu 9 ove odluke, rjesenjem odrediti raniji završetak radnog vremena za dva sata, u slucaju kada se utvrdi da je protiv ugostiteljskog objekta ili odgovornog lica dva ili više puta u toku tri mjeseca izdat prekrsajni nalog za prekoračenje propisanog radnog vremena.
+Rješenje kojim se odredjuje raniji zavrsetak radnog vremena za dva sata objektu u kome se pružaju ugostiteljske usluge moze trajati najduže jedan mjesec od dana donosenja rješenja ili do pravosnažnosti odluke ovlašćenog sluzbenika za prekrsaje po podnesenoj prijavi zbog prekoračenja radnog vremena.

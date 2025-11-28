@@ -1,0 +1,7 @@
+# Član 17
+Po zahtjevu privrednog subjekta, nadležni organ za preduzetništvo privremeno može odobriti radno vrijeme duže od propisanog (u daljem tekstu: produženo radno vrijeme), u objektima iz člana 9 stav 1 alineja 1 i 2 u trajanju od jednog sata.
+Za vrijeme održavanja kulturnih i drugih manifestacija značajnih za grad predsjednik Opštine ili drugo lice koje on ovlasti može donijeti odluku o produženju radnog vremena izvan vremena određenog prethodnim stavom ovog člana.
+Nadležni organ za preduzetništvo, donosi rješenje o produženom radnom vremenu iz stava 1 i 2 ovog člana, uz prethodnu saglasnost službe lokalne uprave nadležne za poslove održavanja komunalnog reda (u daljem tekstu: Komunalna policija), inspekcijskog nadzora (u daljem tekstu: Služba za inspekcijske poslove i održavanje javnog reda i mira (u daljem tekstu. Uprava policije OB Kotor) za period od mjesec dana.
+Organ iz stava 1 ovog člana daju prethodnu saglasnost za produženje radnog vremena u roku od 2 dana od dana podnošenja zahtjeva od strane privrednog društva ili preduzetnika nadležnom organu za preduzetništvo.
+Saglasnost iz stava 3 ovog člana, daje se pod uslovom da protiv privrednog subjekta koji je podnio zahtjev za produženje radnog vremena, u periodu od šest mjeseci prije podnošenja zahtjeva nijesu preduzimane mjere i radnje iz nadležnosti organa iz stava 1 ovog člana.
+Zahtjev za produženje radnog vremena duže od propisanog, dostavlja se tri dana prije dana za koji se traži produženje radnog vremena.
