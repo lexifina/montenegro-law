@@ -1,0 +1,2 @@
+# Član 2
+Urbanističku parcelu broj "5", zona "B", blok "2" u zahvatu DUP-a "Žukotrlica", pored nepokretnosti iz člana 1 ove odluke, čine nepokretnosti označene kao katastarska parcela broj 3349/1, livada 1. klase, površine 346 m2, iz lista nepokretnosti 2055 KO Novi Bar, upisana kao svojina Đurović (Velimir) Radeta, u obimu prava 1/1 i katastarska parcela br. 3350/2, voćnjak 1. klase, površine 9 m2, iz lista nepokretnosti br. 3261 KO Novi Bar, upisana kao svojina Bjelojević (Ljubomir) Srđana, u obimu prava 1/1.

@@ -1,0 +1,4 @@
+# Član 1
+## o prenosu prava svojine na građevinskom zemljištu radi kompletiranja urbanističke parcele broj "5", zona "B", blok "2" u zahvatu DUP-a "Žukotrlica" u Baru
+Opština Bar, kao subjekat prava raspolaganja, u obimu prava 1/1, prenosi fizičkom licu Đurović (Velimir) Radetu iz Bara, uz naknadu, pravo svojine na zemljištu označenom kao katastarska parcela broj 3357/2, po načinu korišćenja zemljište uz zgrade, površine 11 m2, iz lista nepokretnosti broj 2298 KO Novi Bar i katastarska parcela br. 6437/6, po kulturi neplodno zemljište, površine 18 m2, iz lista nepokretnosti br. 289 KO Novi Bar.
+Pravo svojine na zemljištu iz prethodnog stava prenosi se radi kompletiranja urbanističke parcele broj "5", zona "B", blok "2" u zahvatu DUP-a "Žukotrlica" ("Službeni list CG - Opštinski propisi", br. 27/12).
