@@ -1,0 +1,5 @@
+# Član 2
+Nakon stupanja na snagu ove odluke, oglasiće se javni poziv za prodaju navedenih vozila i čamaca iz člana 1 ove odluke putem javnog nadmetanja - aukcijske prodaje.
+Postupak prodaje putničkih motornih vozila putem javnog nadmetanja - aukcijske prodaje će vršiti komisija koju posebnim rješenjem imenuje predsjednik Opštine Bijelo Polje.
+Komisija će u rokovima i pod uslovima utvrđenim javnim pozivom izvršiti otvaranje ponuda, utvrditi rang listu ponuđača, donijeti odluku o najpovoljnijem ponuđaču ili proglasiti javni poziv neuspjelim ukoliko se na isti nije prijavio nijedan ponuđač ili iz drugih razloga predviđenih propisima.
+U slučaju iz prethodnog stava, proglašenja javnog poziva neuspjelim, javni poziv će se ponoviti a cijena će biti umanjena najviše za 30% od početne cijene iz stava 1 ove odluke. Ukoliko javni poziv tri puta bude proglašen neuspjelim, može se pristupiti prodaji putem neposredne pogodbe po cijenama nižim od gore navedenih, s tim da ukupna cijena ne može biti manja od 50% od početne cijene utvrđene u članu 1 ove odluke.
