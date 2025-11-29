@@ -1,0 +1,4 @@
+Na osnovu člana 19 Uredbe o Vladi Crne Gore ("Službeni list CG", br. 80/08, 14/17, 28/18, 63/22 i 121/23), Vlada Crne Gore, na sjednici od 27. novembra 2025. godine, donijela je
+ODLUKU
+O FORMIRANJU ODBORA ZA OBILJEŽAVANJE I KOORDINACIONOG TIJELA ZA
+ORGANIZACIJU OBILJEŽAVANJA DVADESETOGODIŠNJICE NEZAVISNOSTI CRNE GORE
