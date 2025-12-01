@@ -1,0 +1,2 @@
+# Član 15
+U ustanovi može da se vrši video nadzor do pristupa u službeni ili učenički prostor, radi bezbjednosti lica i imovine, kontrole ulaska ili izlaska iz službenog ili učeničkog prostora ili ako zbog prirode posla, postoji mogući rizik za zaposlene i učenike, u skladu sa zakonom, bez mogućnosti ugradnje video nadzora u službenim i učeničkim prostorijama u kojima se neposredno izvodi nastava.

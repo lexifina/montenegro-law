@@ -1,0 +1,4 @@
+# Član 51
+Poslodavac obezbjeđuje da se sredstava koja zaposleni koji su članovi reprezentativnog sindikata, od zarade odnosno naknade zarade izdvajaju za sindikalnu članarinu, uplaćuju na račune reprezentativnih sindikata na odgovarajućim nivoima, u skladu sa aktima sindikata.
+Poslodavac je dužan da dva puta godišnje, na zahtjev reprezentativnog sindikata, dostavi ažurirani spisak zaposlenih-članova tog sindikata kojim je, shodno aktima iz stava 1 ovog člana izvršio obustavu sindikalne članarine.
+Postupak rješavanja individualnih radnih sporova koji nastaju u ostvarivanju prava zaposlenog iz rada i po osnovu rada, kao i kolektivnih radnih sporova koji nastaju u postupku zaključivanja, primjene, izmjene i dopune ovog Ugovora i ostvarivanja prava na sindikalno organizovanje, mogu se povjeriti miritelju, odnosno arbitru, u skladu sa zakonom kojim se uređuje mirno rješavanje radnih sporova.

@@ -1,0 +1,3 @@
+# Član 5
+Prije početka školske godine, po pravilu do 10. avgusta, direktori ustanova su dužni da, u skladu sa aktom o unutrašnjoj organizaciji i sistematizaciji radnih mjesta ustanove i aktom o normativima i standardima za sticanje sredstava iz javnih prihoda za ustanove koje realizuju javno važeće obrazovne programe, izvrše raspodjelu časova i radnih mjesta i dostave organu državne uprave nadležnom za poslove prosvjete (u daljem tekstu: Ministarstvo) liste zaposlenih kojima nedostaju časovi do pune norme i broj slobodnih neraspoređenih časova.
+U postupku sačinjavanja liste zaposlenih iz stava 1 ovog člana i rasporeda nastavnika, Ministarstvo ostvaruje saradnju sa predstavnicima Sindikata.

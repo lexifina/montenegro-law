@@ -1,0 +1,2 @@
+# Član 20
+U postupku pripreme predloga propisa kojim se, u skladu sa zakonom kojim se uređuju zarade zaposlenih u javnom sektoru, uređuje dodatak na osnovnu zaradu za obavljanje poslova na određenim radnim mjestima u oblasti prosvjete, Ministarstvo nadležno za oblast prosvjete je dužno da obavi konsultacije sa Sindikatom i da, prije upućivanja predloga propisa Vladi, pribavi pisanu saglasnost Sindikata.
