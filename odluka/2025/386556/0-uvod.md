@@ -1,0 +1,2 @@
+Na osnovu člana 13. stav 2. i člana 16. Zakona o sportu ("Službeni list CG", br. 44/18 i 123/21), člana 27. stav 1. tačka 13 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/2018, 34/2019, 38/2020, 50/2022, 84/2022, 81/25 i 98/25), člana 58. stav 1. tačka 4. Statuta Opštine Ulcinj ("Službeni list CG - Opštinski propisi", br. 48/19 i 5/24) i mišljenja o usaglašenosti Ministarstva sporta i mladih br. 01- 07-610/25-1680/2 od 7. 7. 2025. godine, Skupština opštine Ulcinj, na sjednici održanoj dana 7. 11. 2025. godine, donijela je
+ODLUKU
