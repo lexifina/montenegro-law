@@ -1,0 +1,2 @@
+# Član 2
+Opština Danilovgrad, kao subjekat raspolaganja poslužnog dobra, daje saglasnost Milonjić Srđanu, za ustanovljavanje prava službenosti, radi polaganja elektroenergetskog kabla XPOO-A 4X240mm2, preko dijela katastarske parcele broj 1861, evidentirane po "A" dijelu lista nepokretnosti 203, KO Spuž, shodno geodetskom elaboratu originalnih terenskih podataka o izvršenim radovima na terenu - snimanje trase za postavljanje podzemnog elektro voda - kabla KO Spuž - Opština Danilovgrad, izrađenim od strane "Geotačka" d.o.o. Danilovgrad.

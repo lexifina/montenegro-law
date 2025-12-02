@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 i člana 34 stav 1 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09, 40/11 i 23/25), a u vezi sa članom 194, 201, 202 i 206 Zakona o svojinsko- pravnim odnosima ("Službeni list Crne Gore", br. 19/09 i 29/25), članom 38 stav 1 tačka 2 i tačka 9 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), članom 35 stav 1 tačka 2 i tačka 9 Statuta Opštine Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", br. 43/18) Skupština opštine Danilovgrad, na sjednici održanoj dana 29. 10. i 18. 11. 2025. godine, donijela je
+ODLUKU
+o ustanovljavanju prava službenosti polaganja energetskog nn kabla na katastarskoj parceli
