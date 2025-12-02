@@ -1,0 +1,13 @@
+# Član 1
+## o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju Njegoševe ulice i parkinga
+Utvrđuje se javni interes za eksproprijaciju nepokretnosti koje se nalaze u Opštini Danilovgradu, KO Danilovgrad, za potrebe rekonstrukcije Njegoševe ulice i izgradnje parking prostora, i to na sljedećim katastarskim parcelama:
+1. dio katastarske parcele broj 53 (novi broj 53/2), po načinu korišćenja nekategorisani putevi, površine 2 kvm, upisane u Listu nepokretnosti broj 104, kao svojina Crne Gore, raspolaganje Opštine Danilovgrad, u obimu prava 1/1;
+2. dio katastarske parcele broj 212/1 (novi broj 212/12), po načinu korišćenja dvorište, površine 863 kvm, upisane u Listu nepokretnosti broj 104, kao svojina Crne Gore, raspolaganje Opštine Danilovgrad, u obimu prava 1/1;
+3. dio katastarske parcele broj 40/1 (novi broj 40/8), po načinu korišćenja dvorište, površine 525 kvm, upisane u Listu nepokretnosti broj 106, kao svojina Opštine Danilovgrad, u obimu prava 1/1;
+4. dio katastarske parcele broj 211/1 (novi broj 211/ 4), po načinu korišćenja dvorište, površine 221 kvm, upisane u Listu nepokretnosti broj 87, kao svojina Crne Gore, raspolaganje Vlade Crne Gore, u obimu prava 1/1;
+5. dio katastarske parcele broj 213 (novi broj 213/2), po načinu korišćenja njiva 1. klase, površine 4 kvm, upisane u Listu nepokretnosti broj 288, kao susvojina Radonjić Momčila Radoslava u obimu prava ¼ idealnog dijela i Radonjić Pavla Slobodanke u obimu prava ¾ idealnog dijela;
+6. dio katastarske parcele broj 205/1 (novi broj 205/3), po načinu korišćenja njiva 1. klase, površine 1 kvm, upisane u Listu nepokretnosti broj 210, kao svojina Društva za proizvodnju, ugostiteljstvo, trgovinu i promet roba i usluga, export - import "TARAŠ COMPANY" DOO Danilovgrad, u obimu prava 1/1;
+7. dio katastarske parcele broj 205/2 (novi broj 205/4), po načinu korišćenja dvorište, površine 2 kvm, upisane u Listu nepokretnosti broj 540, korišćenje Popović Steva Jelene, u obimu prava 1/1;
+8. dio katastarske parcele broj 204/3 (novi broj 204/4), po načinu korišćenja dvorište, površine 8 kvm, upisane u Listu nepokretnosti broj 301, kao korišćenje Radunović Zlate, u obimu prava 1/1;
+9. dio katastarske parcele broj 557 (novi broj 557/2), po načinu korišćenja ulica, površine 63 kvm, upisane u Listu nepokretnosti broj 112, svojina Crne Gore, raspolaganje Opštine Danilovgrad, u obimu prava 1/1;
+10. dio katastarske parcele broj 198 (novi broj 198/2), po načinu korišćenja dvorište, površine 12 kvm, upisane u Listu nepokretnosti broj 157, svojina Babić Slobodana Aleksandra, u obimu prava 1/1.
