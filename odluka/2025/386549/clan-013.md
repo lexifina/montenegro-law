@@ -1,0 +1,3 @@
+# Član 13
+Predsjednik Opštine i realizator projekta, na osnovu odluke o sufinansiranju projekata, zaključuju ugovor o sufinansiranju projekta, kojim uređuju dinamiku realizacije projekta, uplatu, korišćenje i pravdanje odobrenih sredstava, izvještavanje o stanju projekta i način prezentacije projekta i konačnog izvještaja o realizaciji projekta.
+Ugovor iz stava 1 ovog člana se zaključuje u roku od 30 dana od dana objavljivanja odluke o sufinansiranju projekata. Izuzetno nadležni organ opštine može, na pisani zahtjev realizatora projekta, produžiti ugovoreni rok za realizaciju projekta i po tom osnovu taj projekat sufinansirati sredstvima iz budžeta Opštine za narednu godinu.
