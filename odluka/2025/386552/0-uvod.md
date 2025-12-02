@@ -1,0 +1,2 @@
+Na osnovu člana 37 i 39 Zakona o turističkim organizacijama ("Službeni list Republike Crne Gore", br. 11/04, 46/07, "Službeni list Crne Gore", br. 73/10, 40/11, 45/14, 42/17 i 27/19), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 35 stav 1 tačka 2 Statuta Opštine Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", br. 43/18), Skupština opštine Danilovgrad, na sjednici održanoj dana 29. 10 i 18.11. 2025. godine, donijela je
+ODLUKU
