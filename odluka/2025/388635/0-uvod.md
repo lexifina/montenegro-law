@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22), člana 46 Statuta Opštine Bijelo Polje ("Službeni list CG - Opštinski propisi", broj 19/18) i člana 9 stav 1 Odluke o uslovima, načinu i postupku za dodjelu opštinske Nagrade "3. januar" ("Službeni list RCG - Opštinski propisi", br. 30/07, "Službeni list CG - Opštinski propisi", broj 40/10), Skupština opštine Bijelo Polje, na sjednici održanoj 3. 12. 2025. godine, donijela je
+ODLUKU
