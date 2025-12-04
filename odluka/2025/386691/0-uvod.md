@@ -1,0 +1,2 @@
+Na osnovu člana 48 stav 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18 od 10. 1. 2018, 34/19 od 21. 6. 2019, 38/20 od 25. 4. 2020, 50/22 od 9. 5. 2022, 84/22 od 1. 8. 2022, 81/25 od 29. 7. 2025, 98/25 od 3. 9. 2025), člana 72 stav 2 Statuta Opštine Kolašin ("Službeni list Crne Gore - Opštinski propisi", br. 24/19 od 26. 6. 2019) Skupština opštine Kolašin, na sjednici održanoj dana 26. 11. 2025. godine, donosi
+ODLUKU
