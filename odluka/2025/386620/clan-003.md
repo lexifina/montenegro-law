@@ -1,0 +1,2 @@
+# Član 3
+Vlasnik povlasnog dobra, pravno lice, "A3 Team E-plus Invest" d.o.o. sa sjedištem u Baru, dužno je da prije početka radova, pribavi kod nadležnog organa lokalne uprave, potrebno odobrenje za izvođenje radova na javnim površinama, kao i da nakon okončanja radova na polaganju elektroenergetskog kablovskog voda, radi kojeg se službenost i ustanovljava, zemljište vrati u prvobitno stanje, bez odlaganja.
