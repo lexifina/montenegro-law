@@ -1,0 +1,4 @@
+# Član 42
+## Saradnja sa međunarodnim organizacijama i regulatornim institucijama
+Komisija ostvaruje saradnju sa međunarodnim organizacijama čiji je djelokrug rada vezan za razvoj tržišta kapitala i učestvuje u radu odgovarajućih međunarodnih organizacija čiji je član, posebno sa Međunarodnom organizacijom komisija za hartije od vrijednosti (IOSCO) i Evropskim nadzornim organom za hartije od vrijednosti i tržiste kapitala (ESMA).
+Komisija, u okviru zakonom utvrđenih nadležnosti, ostvaruje posebnu saradnju sa regulatornim institucijama finansijskog tržišta u vezi sa sprovođenjem preventivne i represivne kontrolne funkcije, radi uspješnog funkcionisanja cjelokupnog finansijskog tržišta. Saradnja sa ovim institucijama ostvaruje se na osnovu i u okviru bilateralnih i mulitilateralnih sporazuma o saradnji.
