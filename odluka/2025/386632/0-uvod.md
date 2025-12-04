@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 i člana 2a Zakona o eksproprijaciji ("Službeni list RCG", br. 55/00, 12/02 i 28/06 i "Službeni list CG", br. 21/08, 30/17, 75/18, 33/24 i 53/25), člana 28 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 25 stav 1 tačka 5 i člana 54 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21, 49/22 i 51/25), Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 24. novembra 2025. godine, donijela je
+ODLUKU

@@ -1,0 +1,2 @@
+# Član 2
+Svrha eksproprijacije je izgradnja lokalnog objekta od opšteg interesa - dijela Atinske ulice, za koju je lokacija određena Odlukom gradonačelnice Glavnog grada Podgorice o određivanju lokacije sa elementima urbanističko-tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa - izgradnja dijela Atinske ulice na katastarskim parcelama broj 2605/1, 2605/15 i 2605/36 KO Podgorica II u Podgorici, broj 01-018/23-6241 od 8. 8. 2023. godine.
