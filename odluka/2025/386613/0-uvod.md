@@ -1,0 +1,2 @@
+Na osnovu člana 17 stav 4 Zakona o održavanju stambenih zgrada ("Službeni list CG", br. 41/16, 84/18, 111/22, 140/22 i 84/24), člana 27 tačka 10 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 43 stav 1 tačka 2 Statuta Opštine Bar ("Službeni list CG - Opštinski propisi", br. 37/18), Skupština opštine Bar, na sjednici održanoj 19. 11. 2025. godine, donijela je
+ODLUKU
