@@ -1,0 +1,3 @@
+Na osnovu člana 16 stav 1 Zakona o spomen-obilježjima ("Službeni list CG", br. 40/08, 40/11, 2/17 i 84/24) i člana 54 Statuta Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", br. 8/19, 20/21, 49/22 i 51/25), u skladu sa Programom podizanja spomen-obilježja ("Službeni list Crne Gore - Opštinski propisi", broj 12/25), uz prethodnu saglasnost Ministarstva kulture i medija Crne Gore, Rješenje broj: UPI-13-041/25-239/3 od 26. avgusta 2025. godine, Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 24. novembra 2025. godine, donijela je
+ODLUKU
+o podizanju spomen-obilježja postavljanjem spomen-ploče posvećene bratskoj slozi, suživotu i
