@@ -1,0 +1,4 @@
+# Član 1
+## o izmjenama i dopunama Odluke o besplatnom prevozu u prigradskom i gradskom linijskom saobraćaju ranjivih kategorija stanovništva na teritoriji Glavnog grada Podgorice
+U Odluci o besplatnom prevozu u prigradskom i gradskom linijskom saobraćaju ranjivih kategorija stanovništva na teritoriji Glavnog grada Podgorice ("Službeni list CG - Opštinski propisi", broj 32/25), član 1 mijenja se i glasi:
+"Ovom odlukom uređuju se uslovi, način i postupak za ostvarivanje prava na besplatan prevoz u gradskom i prigradskom linijskom saobraćaju za penzionere, lica preko 67 godina starosti, lica sa invaliditetom, lica u stanju socijalne potrebe, kao i onkološke pacijente sa područja Glavnog grada Podgorice (u daljem tekstu: linijski prevoz putnika), i druga pitanja od značaja za ostvarivanje prava propisanih ovom odlukom."

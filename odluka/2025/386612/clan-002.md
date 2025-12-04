@@ -1,0 +1,3 @@
+# Član 2
+Član 10 stav 1 mijenja se i glasi:
+"Izdavanjem vozne isprave za lica iz člana 1 ove odluke, smatra se da je podnijeti zahtjev usvojen. Ako se u postupku izdavanja utvrdi da lice ne ostvaruje pravo na izdavanje vozne isprave za penzionere, lica preko 67 godina starosti, lica sa invaliditetom, lica koja su u stanju socijalne potrebe ili onkološke pacijente, lice može podnijeti zahtjev za odlučivanje glavnom administratoru. Ukoliko Glavni administrator u naknadno sprovedenom postupku utvrdi da su ispunjeni uslovi, daje saglasnost za izdavanje vozne isprave za lica iz člana 1 ove odluke, odnosno ukoliko utvrdi da nisu ispunjeni uslovi, donosi odgovarajuće rješenje o odbijanju zahtjeva."
