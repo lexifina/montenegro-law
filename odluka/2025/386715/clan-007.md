@@ -1,0 +1,2 @@
+# Član 7
+Obavezuje se Kojić Safet da u roku od 30 dana od dana dobijanja pozitivnog izvještaja o reviziji glavnog projekta objekta koji će se graditi na urbanističkoj parceli iz člana 2 ove odluke, sa Opštinom Bar zaključi poseban ugovor, kojim će se regulisati međusobna prava i obaveze u vezi sa naknadom za građenje za osnovno komunalno opremanje građevinskog zemljišta, a u skladu sa važećom Odlukom o naknadi za komunalno opremanje građevinskog zemljišta.
