@@ -1,0 +1,2 @@
+Na osnovu člana 15 stav 1 Zakona o komunalnim djelatnostima ("Službeni list CG", broj 55/16, 74/16, 2/18, 66/19, 140/22 i 84/24), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18 i 34/19) i člana 37 stav 1 tačka 2 Statuta Opštine Kolašin ("Službeni list CG - Opštinski propisi", broj 24/19), Skupština opštine Kolašin, na sjednici održanoj 26. 11. 2025. godine, donijela je
+ODLUKU
