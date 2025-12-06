@@ -1,0 +1,7 @@
+# Član 6
+## Ocjenjivanje usaglašenosti
+Ocjenjivanje usaglašenosti električne i elektronske kancelarijske opreme i uređaja za domaćinstvo sa tehničkim zahtjevima eko dizajna za potrošnju energije u stanju mirovanja i isključenom stanju i umreženom stanju mirovanja, vrši se u skladu sa propisom kojim se uređuje način utvrđivanja usaglašenosti proizvoda sa tehničkim zahtjevima eko dizajn proizvoda koji utiču na potrošnju energije.
+Za potrebe ocjenjivanja usaglašenosti iz stava 1 ovog člana, tehnička dokumentacija sadrži informacije iz Priloga 2 tačka 3 podtačka b ovog pravilnika kao i rezultate mjerenja i proračuna u skladu sa Prilogom 3 ovog pravilnika.
+Ako su podaci iz tehničke dokumentacije za određeni model dobijeni od modela koji ima iste tehničke karakteristike relevantne za tehničke informacije koje treba pružiti u skladu sa Prilogom 2 ovog pravilnika, ali ga je proizveo drugi proizvođač, ili su dobijeni proračunom na osnovu dizajna, odnosno ekstrapolacijom podataka za drugi model od istog ili drugog proizvođača, ili oboje, tehnička dokumentacija za model uključuje pojedinosti i rezultate proračuna ili ekstrapolacije, procjenu koju je proizvođač sproveo kako bi provjerio tačnost proračuna i, prema potrebi, izjavu o identičnosti modela različitih proizvođača.
+U slučaju iz stava 3 ovog člana tehnička dokumentacija sadrži popis ekvivalentnih modela, uključujući identifikacione oznake modela.
+Tehnička dokumentacija uključuje i informacije iz Priloga 2 tačka 3 podtačka a ovog pravilnika.

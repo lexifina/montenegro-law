@@ -1,0 +1,4 @@
+Na osnovu člana 48 stav 2 Zakona o efikasnom korišćenju energije ("Službeni list CG", broj 57/14, 25/19 i 140/22) Ministarstvo energetike i rudarstva, donijelo je
+PR A V I L N IK
+O TEHNIČKIM ZAHTJEVIMA EKO DIZAJNA ZA POTROŠNJU ENERGIJE U STANJU
+MIROVANJA, ISKLJUČENOM STANJU I UMREŽENOM STANJU MIROVANJA ZA ELEKTRIČNU I ELEKTRONSKU KANCELARIJSKU OPREMU I UREĐAJE ZA DOMAĆINSTVO*
