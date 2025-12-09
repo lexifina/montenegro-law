@@ -1,0 +1,2 @@
+# Član 5
+Ustanova ima svoj pečat i štambilj. Pečat je okruglog oblika prečnika 32 mm, sa grbom Opštine Bijelo Polje u sredini i tekstom: Crna Gora, Opština Bijelo Polje JU "Ratkovićeve večeri poezije". U sredini pečata je grb opštine. Štambilj je pravougaonog oblika veličine 30 x 70 mm, sa tekstom: Crna Gora, Opština Bijelo Polje, JU "Ratkovićeve večeri poezije", oznakom organizacione jedinice sa mjestom za broj i datum. Pečat služi za potvrđivanje autentičnosti akata ustanove, a štambilj za prijem akata.

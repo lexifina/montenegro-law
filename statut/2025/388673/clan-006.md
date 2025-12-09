@@ -1,0 +1,2 @@
+# Član 6
+Djelatnost ustanove je organizacija programa i sadržaja međunarodne književne manifestacije od posebnog značaja za kulturu Crne Gore "Ratkovićeve večeri poezije" kao i pratećih sadržaja koji su u funkciji ostvarivanja osnovne djelatnosti i valorizacije kulturnih i stvaralačkih potencijala opštine Bijelo Polje i Crne Gore, kao i njihova implementacija na crnogorskoj i međunarodnoj stvaralačkoj sceni.

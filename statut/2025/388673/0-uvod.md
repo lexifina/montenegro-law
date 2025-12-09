@@ -1,0 +1,3 @@
+Na osnovu člana 19 stav 2 tačka 1 Zakona o kulturi, ("Službeni list Crne Gore", broj 38/12 od 19. 7. 2012) i člana 8 i 13. Odluke o osnivanju JU "Ratkovićeve večeri poezije" ("Službeni list CG - Opštinski propisi", br. 38/20 od 3. 11. 2020), člana 25 Statuta JU "Ratkovićeve večeri poezije" ("Službeni list Crne Gore - Opštinski propisi", broj 1/21 od 20. 1. 2021), zaključka kojim se prihvata Inicijativa za oduzimanje Nagrade "Risto Ratković" Radovanu Karadžiću ("Službeni list Crne Gore - Opštinski propisi", broj 50/25 od 9. 10. 2025) Savjet JU "Ratkovićeve večeri poezije", na sjednici održanoj dana 6. 11. 2025. godine, donio je
+STATUT
+Javne ustanove "Ratkovićeve večeri poezije"
