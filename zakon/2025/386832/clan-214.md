@@ -1,0 +1,7 @@
+# Član 214
+## Prestanak radnog odnosa na lični zahtjev
+Izuzetno od uslova propisanih zakonom kojim se uređuje penzijsko i invalidsko osiguranje, službenik obezbjeđenja i drugi zaposleni u Upravi kojem na lični zahtjev i uz saglasnost starješine Uprave prestane radni odnos, ima pravo na penziju, ako navrši najmanje 50 godina života i 30 godina staža osiguranja, od kojih najmanje deset godina efektivno provedenih na poslovima na kojima se staž osiguranja računa sa uvećanim trajanjem ili ako navrši 40 godina staža osiguranja.
+Zaposlenom u Upravi iz stava 1 ovog člana penzija se određuje na način propisan zakonom kojim se uređuje penzijsko i invalidsko osiguranje, s tim što se prilikom određivanja ličnog koeficijenta, ako je za njega povoljnije, lični koeficijent utvrđuje na osnovu zarade, odnosno, naknade zarade ostvarene u kalendarskoj godini koja prethodi godini ostvarivanja prava na penziju.
+Iznos penzije određen prema stavu 2 ovog člana uvećava se za 30%, s tim što iznos te penzije ne može biti veći od najvišeg iznosa starosne penzije utvrđene u skladu sa zakonom kojim se uređuje penzijsko i invalidsko osiguranje.
+U pogledu ostvarivanja, korišćenja i usklađivanja penzije koja pripada prema ovom članu primjenjuju se odredbe zakona kojim se uređuje penzijsko i invalidsko osiguranje.
+Zaposleni iz stava 1 ovog člana, pravo na penziju primjenom ovog člana, mogu ostvariti do 31. decembra 2028. godine.

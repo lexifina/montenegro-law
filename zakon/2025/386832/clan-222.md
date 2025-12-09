@@ -1,0 +1,3 @@
+# Član 222
+Novčanom kaznom u iznosu od 800 eura do 15. 000 eura kazniće se za prekršaj zdravstvena ustanova određena za izvršenje mjere bezbjednosti obavezno psihijatrijsko liječenje i čuvanje u zdravstvenoj ustanovi, obavezno psihijatrijsko liječenje na slobodi, odnosno obavezno liječenje lica sa poremećajem upotrebe alkohola ili obavezno liječenje lica sa poremećajem upotrebe psihoaktivnih supstanci, ako bez opravdanog razloga odbije da primi lice koje je upućeno na liječenje (član 143 stav 1, član 148 stav 1 i član 151 stav 1).
+Novčanom kaznom od 50 eura do 800 eura kazniće se i odgovorno lice u pravnom licu za prekršaj iz stava 1 ovog člana.

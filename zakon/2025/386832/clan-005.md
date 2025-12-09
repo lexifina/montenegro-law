@@ -1,0 +1,3 @@
+# Član 5
+## Zabrana diskriminacije
+Zabranjena je diskriminacija osuđenog kome je izrečena sankcija iz člana 1 ovog zakona, po osnovu rase, boje kože, nacionalne pripadnosti, društvenog ili etničkog porijekla, veze sa nekim manjinskim narodom ili manjinskom nacionalnom zajednicom, jezika, vjere ili uvjerenja, političkog ili drugog mišljenja, pola, rodnog identiteta, seksualne orijentacije, zdravstvenog stanja, invaliditeta, starosne dobi, imovnog stanja, bračnog ili porodičnog stanja, pripadnosti grupi ili pretpostavci o pripadnosti grupi, političkoj partiji ili drugoj organizaciji, kao i po osnovu drugih ličnih svojstava.
