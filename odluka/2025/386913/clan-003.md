@@ -1,0 +1,2 @@
+# Član 3
+Južna Komisija za procjenu vrijednosti nepokretnosti izradila je dana 2. 9. 2025. godine Izvještaj o procjeni vrijednosti nepokretne imovine- zemljište za potrebe eksproprijacije i nepotpune eksproprijacije radi izgradnje NDTS "Meljine Nova 1" sa priključnim kablovskim vodom 10 kV na lokaciji KO Podi u nastavku ulice Narodnog fronta, naselje Meljine u Herceg Novom, i to dijela kat. parc. 1992/4 KO Podi površine od 26 m² i utvrdila da visina naknade nepotpune eksproprijacije iznosi ukupno 468,00 evra.
