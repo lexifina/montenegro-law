@@ -1,0 +1,5 @@
+Na osnovu člana 50 stav 1 Opšteg zakona o obrazovanju i vaspitanju ("Službeni list RCG", br. 64/02, 31/05 i 49/07 i "Službeni list CG", br. 45/10, 45/11, 36/13, 39/13, 47/17, 59/21, 146/21, 3/23, 84/24 i 89/25) i člana 18 stav 1 Zakona o upravnom postupku ("Službeni list CG", br. 56/14, 20/15, 40/16 i 37/17), Ministarstvo prosvjete, nauke i inovacija donijelo je
+R J E Š E NJ E O IZDAVANJU LICENCE SREDNJOJ VJERSKOJ ŠKOLI - MEDRESA "MEHMED FATIH", TUZI
+1. Izdaje se licenca za rad Srednjoj vjerskoj školi - Medresa "Mehmed Fatih", sa sjedištem u Tuzima za 358 učenika, od čega za upis u prvi razred najviše 84 učenika u Tuzima i 17 učenika u Područnoj ustanovi u Rožajama za realizovanje Obrazovnog programa Srednje vjerske škole - Medresa, za koji je utvrđena punovažnost i jednaka vrijednost sa obrazovnim programom za opšte srednje obrazovanje, za nastavu na crnogorskom, srpskom, bosanskom, hrvatskom i albanskom jeziku, sa prostorom za smještaj i ishranu učenika.
+2. Ovo rješenje stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore".
+UPI broj: 07-604/25-8278/4
