@@ -1,0 +1,2 @@
+# Član 1
+Objavljuje se Memorandum o razumijevanju o jačanju saradnje u oblasti kurikularnog obrazovanja, obuke i naučnog istraživanja na projektima od zajedničkog interesa u okviru akademskog obrazovanja u policijskoj službi između Ministarstva prosvjete, nauke i inovacija Crne Gore i Savezne kriminalističke kancelarije SR Njemačke (Bundeskriminalamt), potpisan u Podgorici, 6. oktobra 2025. godine, u originalu na crnogorskom, njemačkog i engleskom jeziku.
