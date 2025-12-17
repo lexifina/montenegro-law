@@ -1,0 +1,4 @@
+# Član 29
+## Uplata naknade
+Naknade se uplaćaju na žiro račun Komisije.
+Dokaz o uplati naknade mora biti dostavljen Komisiji.

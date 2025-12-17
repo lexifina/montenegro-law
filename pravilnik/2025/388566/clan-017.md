@@ -1,0 +1,7 @@
+# Član 17
+## Naknada koja se plaća prilikom podnošenja zahtjeva za dobijanje dozvole za rad otvorenog investicionog fonda sa javnom ponudom, alternativnog investicionog fonda i dobrovoljnog penzionog fonda
+Društvo za upravljanje otvorenim investicionim fondom sa javnom ponudom plaća naknadu, prilikom podnošenja zahtjeva za dobijanje dozvole za osnivanje i upravljanje otvorenim investicionim fondom sa javnom ponudom, u iznosu od 2.500,00 EUR.
+Društvo za upravljanje alternativnim investicionim fondom, plaća naknadu, prilikom podnošenja zahtjeva za organizovanje i upravljanje alternativnim investicionim fondom bez svojstva pravnog lica, u iznosu od 2.500,00 EUR.
+Društvo za upravljanje alternativnim investicionim fondom, plaća naknadu, prilikom podnošenja zahtjeva za organizovanje i upravljanje alternativnim investicionim fondom sa svojstvom pravnog lica, u visini od 0,20% od iznosa osnovnog kapitala alternativnog investicionog fonda sa svojstvom pravnog lica i ne može biti manja od 2.500,00 EUR.
+Zatvoreni alternativni investicioni fond koji ima svojstvo pravnog lica sa internim upravljanjem plaća naknadu, prilikom podnošenja zahtjeva za organizovanje i upravljanje ovog fonda, u visini od 0,20% od iznosa osnovnog kapitala zatvorenog alternativnog investicionog fonda koji ima svojstvo pravnog lica sa internim upravljanjem i ne može biti manja od 2.500,00 EUR.
+Društvo za upravljanje dobrovoljnim penzionim fondom plaća naknadu prilikom podnošenja zahtjeva za dobijanje dozvole za formiranje dobrovoljnog penzionog fonda, u iznosu od 2.500,00 EUR.
