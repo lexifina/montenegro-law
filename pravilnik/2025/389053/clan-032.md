@@ -1,0 +1,6 @@
+# Član 32
+## Dokumentacija uz zahtjev za ostvarivanje prava na naknadu za novorođeno dijete
+Uz zahtjev za ostvarivanje prava na naknadu za novorođeno dijete prilaže se: lična karta na uvid, izvod iz knjige rođenih za djecu koja ne posjeduju ličnu kartu, dokaz o mjestu prebivališta, odnosno boravišta za jednog od roditelja, odnosno usvojioca, staraoca ili hranitelja, a za korisnike materijalnog obezbjeđenja rješenje.
+Uz zahtjev iz stava 1 ovog člana, za djecu stranaca prilaže se izvod iz matičnog registra rođenih i dozvola za boravak izdata od strane organa državne uprave nadležnog za unutrašnje poslove i to za djecu kojoj je odobren privremeni ili stalni boravak, azil ili supsidijarna zaštita u skladu sa posebnim zakonom, a za korisnike mjesečne naknade rješenje.
+Uz zahtjev i dokaze iz stava 1 ovog člana koje podnosi usvojilac, staralac ili hranitelj, prilaže se i dokaz da naknadu za novorođeno dijete nije ostvario jedan od roditelja djeteta prije zasnivanja usvojenja, starateljstva ili hraniteljstva.
+Uz zahtjev i dokaze iz stava 1 ovog člana koje podnosi roditelj koji je zasnovao novu bračnu, odnosno vanbračnu zajednicu, za utvrđivanje redosljeda reda rođenja djeteta prilažu se izvodi iz knjige rođenih za djecu roditelja koji podnosi zahtjev, kao i presuda o povjeravanju djece iz prethodne bračne, odnosno vanbračne zajednice.

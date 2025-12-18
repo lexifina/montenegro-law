@@ -1,0 +1,4 @@
+# Član 36
+## Refundacija naknade zarade za porodiljsko, odnosno roditeljsko odsustvo
+Uz zahtjev za ostvarivanje prava na refundaciju naknade zarade za porodiljsko, odnosno roditeljsko odsustvo, poslodavac prilaže: dokaz o radnom odnosu zaposlenog; potvrdu o očekivanom terminu porođaja koju izdaje izabrani ginekolog; potvrdu o obavljenom porođaju koju izdaje zdravstvena ustanova u kojoj je porođaj obavljen; odluku poslodavca o ostvarivanju prava na porodiljsko odsustvo, odnosno roditeljsko odsustvo; izvod iz matične knjige rođenih za dijete; dokaz od poreskog organa o visini izmirene zarade zaposlenom za period propisan članom 51 stav 1 Zakona i potvrdu o prijavi zaposlenog na obavezno socijalno osiguranje.
+Uz zahtjev za mjesečnu isplatu refundacije naknade zarade za porodiljsko, odnosno roditeljsko odsustvo poslodavac dostavlja: dokaz od poreskog organa da je poslodavac za zaposlenog izmirio naknadu zarade i obaveze po osnovu poreza i doprinosa na teret zaposlenog.

@@ -1,0 +1,4 @@
+# Član 38
+## Refundacija naknade zarade za usvojiteljsko ili hraniteljsko odsustvo
+Uz zahtjev za ostvarivanje prava na refundaciju naknade zarade za usvojiteljsko ili hraniteljsko odsustvo, poslodavac prilaže: dokaz o radnom odnosu zaposlenog; dokaz o zasnivanju usvojenja ili hraniteljstva zaposlenog; odluku poslodavca o ostvarivanju prava zaposlenog na usvojiteljsko ili hraniteljsko odsustvo; izvod iz matične knjige rođenih za dijete; dokaz od poreskog organa o visini izmirene zarade zaposlenom za period propisan članom 51 stav 1 Zakona i potvrdu o prijavi zaposlenog na obavezno socijalno osiguranje.
+Uz zahtjev za mjesečnu isplatu refundacije naknade zarade za usvojiteljsko ili hraniteljsko odsustvo, poslodavac dostavlja dokaz od poreskog organa da je poslodavac za zaposlenog izmirio naknadu zarade i obaveze po osnovu poreza i doprinosa na teret zaposlenog.

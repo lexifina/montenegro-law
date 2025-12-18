@@ -1,0 +1,4 @@
+# Član 40
+## Naknada zarade zaposlenog koji se bavi preduzetničkom djelatnošću za porodiljsko, odnosno roditeljsko odsustvo
+Uz zahtjev za ostvarivanje prava na naknadu zarade za porodiljsko, odnosno roditeljsko odsustvo, preduzetnik prilaže: rješenje o registraciji od nadležnog organa; potvrdu o očekivanom terminu porođaja koju izdaje izabrani ginekolog; potvrdu o obavljenom porođaju koju izdaje zdravstvena ustanova u kojoj je porođaj obavljen; izvod iz matične knjige rođenih za dijete; potvrdu o prijavi na obavezno socijalno osiguranje i dokaz od poreskog organa o visini izmirene zarade za period propisan članom 51 stav 1 Zakona.
+Uz zahtjev za mjesečnu isplatu naknade zarade za porodiljsko, odnosno roditeljsko odsustvo, preduzetnik dostavlja: dokaz o privremenoj spriječenosti za rad i dokaz od poreskog organa da je izmirio naknadu zarade i obaveze po osnovu poreza i doprinosa za mjesec koji prethodi mjesecu isplate naknade zarade.

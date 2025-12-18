@@ -1,0 +1,3 @@
+# Član 42
+## Dokumentacija uz zahtjev za ostvarivanje prava na naknadu po osnovu rođenja djeteta
+Uz zahtjev za ostvarivanje prava na naknadu po osnovu rođenja djeteta prilaže se: dokaz o prebivalištu odnosno boravištu jednog od roditelja; izvod iz matične knjige za dijete; dokaz da je roditelj na evidenciji Zavoda, odnosno da je student, odnosno dokaz da drugi roditelj ne koristi naknadu po osnovu rođenja djeteta ili dokaz da poslodavac ne ostvaruje pravo na refundaciju naknade zarade za vrijeme porodiljskog, odnosno roditeljskog odsustva na ime drugog roditelja ili dokaz da drugi roditelj kao preduzetnik ne ostvaruje pravo na naknadu zarade za porodiljsko, odnosno roditeljsko odsustvo, u skladu sa Zakonom.
