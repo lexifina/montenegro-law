@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 1 tačka 5 Zakona o energetici ("Službeni list CG", broj 28/25) i člana 17 stav 1 tačka 6 Statuta Regulatorne agencije za energetiku i regulisane komunalne djelatnosti ("Službeni list CG", broj 56/25), Odbor Agencije, na sjednici održanoj 18. decembra 2025. godine, utvrdio je
+M E T O D O L O G I J U ZA UTVRĐIVANJE NAČINA OBEZBJEĐIVANJA SREDSTAVA ZA RAD REGULATORNE AGENCIJE ZA ENERGETIKU I REGULISANE KOMUNALNE DJELATNOSTI
