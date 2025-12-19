@@ -1,0 +1,15 @@
+# Član 2
+Izmjene i dopune UP-a rade se u granicama važećeg plana, odnosno obuhvataju područje površine cca 6,15 ha.
+Granica zahvata Izmjena i dopuna UP-a je precizno definisana preko koordinata sljedećih tačaka:
+1 6601917.65 4699998.51
+2 6602197.71 4700153.26
+3 6602291.11 4699980.81
+4 6602217.57 4699952.61
+5 6602091.87 4699887.03
+6 6601999.75 4699849.43
+7 6601960.88 4699833.55
+8 6601956.32 4699845.36
+9 6601942.58 4699878.36
+10 6601937.45 4699899.23
+11 6601936.73 4699924.32
+12 6601944.76 4699941.88
