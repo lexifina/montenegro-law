@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 73 stav 1 tačka 25 Statuta Prijestonice ("Službeni list CG - Opštinski propisi", br. 49/18 i 17/21) i člana 26 Odluke o osnivanju Društva sa ograničenom odgovornošću Lokalni javni emiter "Radio Cetinje" ("Službeni list CG - Opštinski propisi", broj 62/24), na prijedlog Odbora za izbor i imenovanja, Skupština Prijestonice Cetinje na sjednici održanoj dana 17. 12. 2025. godine, donijela je
+ODLUKU
