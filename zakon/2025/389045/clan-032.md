@@ -1,0 +1,12 @@
+# Član 32
+## Emisija ugljendioksida iz novih putničkih vozila sa motorom sa unutrašnjim sagorijevanjem
+Pravno lice i preduzetnik koji stavlja u promet ili iznajmljuje nova putnička vozila, dužan je da na mjestu prodaje, odnosno iznajmljivanja na jasno vidljiv način postavi ili u njegovoj blizini učini dostupnim informacije o ekonomičnosti potrošnje goriva i emisijama ugljendioksida za svaki model novog putničkog vozila.
+Informacije o potrošnji goriva i emisijama ugljendioksida iz novih putničkih vozila se čine dostupnim potrošačima preko oznaka (naljepnica) na vozilima, postera ili displeja istaknutih na mjestima prodaje, vodiča o potrošnji goriva i emisijama ugljendioksida i putem druge promotivne literature i materijala.
+Ministarstvo, u saradnji sa pravnim licima i preduzetnicima iz stava 1 ovog člana priprema i objavljuje na svojoj internet stranici Vodič o potrošnji goriva i emisijama ugljendioksida iz stava 2 ovog člana, za sve modele novih putničkih vozila koja se uvoze u Crnu Goru.
+Vodič iz stava 2 ovog člana ažurira se jednom godišnje.
+Pravno lice i preduzetnik iz stava 1 ovog člana obezbjeđuje da se za svaku marku automobila izloži plakat (ili, u zamjenu, prikaz) sa popisom podataka o službenoj potrošnji goriva i službenim specifičnim emisijama ugljendioksida novih modela novih putničkih automobila izloženih ili ponuđenih na prodaju ili leasing na prodajnom mjestu.
+Pravno lice i preduzetnik iz stava 1 ovog člana obezbjeđuje da sva promotivna literatura sadrži podatke o službenoj potrošnji goriva i službenoj specifičnoj emisiji ugljendioksida modela putničkih automobila na koje se odnosi.
+U oznakama (naljepnicama) na vozilima, posterima ili displejima istaknutih na mjestima prodaje, vodiču o potrošnji goriva i emisijama ugljendioksida i drugoj promotivnoj literaturi i materijalima iz stava 2 ovog člana ne mogu se navoditi informacije koje bi mogle dovesti u zabunu potencijalne kupce novih putničkih vozila.
+Pravno lice i preduzetnik iz stava 1 ovog člana, može po potrebi činiti dostupnim i druge vrste promotivnog materijala, kako bi se iskazali podaci o emisiji ugljendioksida i potrošnji goriva pojedinog modela automobila na koji se taj materijal odnosi.
+Pravno lice i preduzetnik iz stava 1 ovog člana, dužno je da primjerak vodiča iz stava 2 ovog člana ustupi licima koja kupuju, odnosno iznajmljuju vozila, bez naknade.
+Bliži sadržaj oznaka, vodiča, postera, displeja i druge promotivne literature i materijala o potrošnji goriva i emisijama ugljendioksida propisuje Ministarstvo.

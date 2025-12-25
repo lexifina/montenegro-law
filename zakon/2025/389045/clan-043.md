@@ -1,0 +1,6 @@
+# Član 43
+## Upravljanje, kontrola i evidencija podataka
+Operater stacionarnog postrojenja, regulisani subjekat, operator vazduhoplova odnosno brodarsko društvo, dužan je da uspostavi evidenciju i procedure za čuvanje dokumentacije o emisijama gasova sa efektom staklene bašte.
+Operater stacionarnog postrojenja, regulisani subjekat, operator vazduhoplova odnosno brodarsko društvo iz stava 1 ovog člana dužni su da dokumentaciju o emisijama gasova sa efektom staklene bašte čuva najmanje deset godina.
+Operater stacionarnog postrojenja, regulisani subjekat, operator vazduhoplova, odnosno brodarsko društvo, dužan je da redovno prikuplja i vrši kontrolu prikupljanja podataka o emisijama gasova sa efektom staklene bašte u skladu sa planom praćenja. Ministarstvo i organ uprave dužni su da sve odluke i izvještaje o dodjelu emisionih kredita, praćenju, izvještavanju i verifikaciji emisija gasova sa efektom staklene bašte učine dostupnim na nediskriminatoran i transparentan način, osim podataka i informacija iz njih koje se smatraju tajnim, odnosno poslovnom tajnom u skladu sa zakonom.
+Bliže uslove koje u pogledu upravljanja, kontrole i evidencije podatka, treba da ispunjava operater stacionarnog postrojenja, regulisani subjekat, operator vazduhoplova i brodarsko društvo propisuje Ministarstvo.

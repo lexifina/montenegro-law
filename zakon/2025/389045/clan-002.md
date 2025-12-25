@@ -1,0 +1,5 @@
+# Član 2
+## Načela zaštite od klimatskih promjena
+Zaštita od negativnih uticaja klimatskih promjena sprovodi se smanjivanjem emisija gasova sa efektom staklene bašte do naučno utvrđenog neophodnog nivoa i preduzimanjem odgovarajućih mjera adaptacije, na isplativ i ekonomski efikasan način, u skladu sa ovim zakonom.
+Zaštita ozonskog omotača sprovodi se preduzimanjem preventivnih mjera radi kontrolisanja emisija supstanci koje ga oštećuju, a sa konačnim ciljem njihovog eliminisanja u skladu sa naučnim saznanjima, tehničko-ekonomskim uslovima i razvojnim potrebama.
+Ublažavanje klimatskih promjena, prilagođavanje na klimatske promjene i zaštita ozonskog omotača, u svrhu održivog razvoja, temelji se na načelima zaštite životne sredine, smanjenju rizika od katastrofa, kao i rješenjima zasnovanim na prirodi, a baziranim na rodno odgovornim procjenama rizika i zahtjevima međunarodnog prava. Mjere koje se preduzimaju radi ublažavanja klimatskih promjena, prilagođavanja na klimatske promjene i zaštite ozonskog omotača ne smiju da ugroze ostale segmente životne sredine.

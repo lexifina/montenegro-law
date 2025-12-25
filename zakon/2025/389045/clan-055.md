@@ -1,0 +1,4 @@
+# Član 55
+## Zahtjev za akreditaciju
+Uz zahtjev za akreditaciju, podnosilac dostavlja dokumentaciju propisanu zakonom kojim se uređuje akreditacija i drugim opštim aktima Akreditacionog tijela, kao i podatke relevantne za: ocjenu kompetentnosti za sprovođenje verifikacije, ocjenu postupka verifikacije kao i utvrđivanje ispunjenosti uslova za verifikatore iz propisa donijetog na osnovu ovog zakona.
+Bliže uslove koje u pogledu kadra i opreme, treba da ispunjava pravno lice iz člana 35 stav 2 ovog zakona, dodatne kriterijume za ocjenu kompetentnosti za sprovođenje verifikacije, djelatnosti za koje akredituju verifikatori, ocjenu postupka verifikacije i utvrđivanje ispunjenosti uslova za verifikatore, kao i kriterijume za ocjenu kompetentnosti nezavisnog revizora iz člana 36 ovog zakona propisuje Ministarstvo.

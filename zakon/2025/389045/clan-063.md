@@ -1,0 +1,12 @@
+# Član 63
+## Inventar emisija gasova sa efektom staklene bašte
+Inventar emisija gasova sa efektom staklene bašte (u daljem tekstu: inventar), uključujući i uklanjanje pomoću ponora, izrađuje organ uprave primjenom metodologija dobre prakse u skladu sa Pariskim sporazumom.
+U cilju izrade inventara, organ uprave izrađuje procijenjeni inventar do 31. jula svake godine za period zaključno sa godinom koja prethodi tekućoj godini i dostavlja Energetskoj zajednici bez odlaganja.
+Konačni izvještaj o inventaru izrađuje se svake godine za period od dvije godine koje prethode tekućoj godini.
+Konačni izvještaj o inventaru Ministarstvo dostavlja Sekretarijatu Energetske zajednice do 15. marta a preliminarne podatke o inventaru do 15. januara svake godine.
+Inventar i izvještaj o inventaru Ministarstvo dostavlja Sekretarijatu Okvirne konvencije Ujedinjenih nacija o klimatskim promjenama (u daljem tekstu: UNFCCC) do 15. aprila svake godine.
+Podaci za izradu inventara emisija prikupljaju se na osnovu godišnjeg plana prikupljanja podataka koji donosi Ministarstvo.
+Vlada utvrđuje listu gasova sa efektom staklene bašte.
+Organi državne uprave i druga pravna lica koji upravljaju informacionim sistemima i bazama podataka nadležnim za poslove životne sredine, šumarstva, otpada, zaštite prirode, statistike, poljoprivrede, energetike, ekonomije, vodoprivrede, saobraćaja i prostornog planiranja kao i privredni subjekti koji sadrže podatke potrebne za izradu inventara dužni su da dostave podatke organu uprave u skladu sa godišnjim planom prikupljanja podataka za izradu inventara.
+Radi unapređenja kvaliteta inventara organ uprave izrađuje plan obezbjeđenja kvaliteta i kontrole kvaliteta podataka i dostavlja ga Ministarstvu na saglasnost do 15. decembra tekuće godine.
+Način izrade i sadržaj inventara i izvještaja o inventaru, kao i preliminarnog inventara, listu gasova sa efektom staklene bašte za izradu inventara, način ocjene izvještaja, vrijednosti potencijala globalnog zagrijavanja za potrebe određivanja podataka iz inventara, sadržaj godišnjeg plana prikupljanja podataka o djelatnostima po pojedinim sektorima i rokove za dostavljanje podataka, uklanjanja gasova sa efektom staklene bašte pomoću ponora, način proračuna emisija gasova sa efektom staklene bašte prema sektorima, način kontrole kvaliteta podataka, način i metodologiju praćenja i izvještavanja, kao i sadržaj registra klimatskih promjena, kao i sadržaj izvještaja o emisijama gasova sa efektom staklene bašte propisuje Vlada.
