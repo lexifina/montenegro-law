@@ -1,0 +1,30 @@
+# Član 2
+Izvršenje Budžeta dato je u sledećoj tabeli:
+TEKUĆI PRIHODI
+2.714.861.913,49 Porezi
+1.968.599.583,26 Doprinosi
+584.706.543,51 Takse
+16.259.315,63 Naknade
+53.128.166,68 Ostali prihodi
+92.168.304,41 DONACIJE
+40.855.353,38 KONSOLIDOVANI IZDACI
+3.003.265.592,95 Tekuća budžetska potrošnja
+2.751.614.245,87 Kapitalni budžet
+251.651.347,08 GOTOVINSKI SUFICIT/DEFICIT
+-247.548.326,08 KORIGOVANI GOTOVINSKI SUFICIT/DEFICIT
+-258.835.753,58
+PRIMARNI KORIGOVANI GOTOVINSKI SUFICIT
+-109.549.353,19
+OTPLATA DUGA
+495.640.543,03 Otplata glavnice rezidentima
+206.764.325,04 Otplata glavnice nerezidentima
+288.876.217,99 IZDACI ZA KUPOVINU HARTIJA OD VRIJEDNOSTI
+3.269.563,45 DATE POZAJMICE I KREDITI
+9.152.704,99 Povećanje depozita države
+209.194.418,65 NEDOSTAJUĆA SREDSTVA
+976.092.983,70 FINANSIRANJE
+976.092.983,70 Pozajmice i krediti iz domaćih i inostranih izvora
+942.124.812,59 Primici od otplate kredita
+20.319.169,15 Primici od prodaje imovine
+2.361.574,46 Promjena (povećanje) obaveza iz prethodnog perioda
+11.287.427,50
