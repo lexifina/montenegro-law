@@ -1,0 +1,37 @@
+# Član 1
+Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti u KO Boljanin, Opština Bijelo Polje za:
+- dio katastarske parcele broj 1416, livada 7. klase, površine 13 m2, upisane u list nepokretnosti broj 216 KO Boljanin, Opština Bijelo Polje, svojina Pućurica Jusuf Medo;
+- dio katastarske parcele broj 855, livada 6. klase, površine 521 m2, upisane u list nepokretnosti broj 248 KO Boljanin, Opština Bijelo Polje, svojina Rebronja Raif Tašo;
+- dio katastarske parcele broj 854, šume 5. klase, površine 25 m2, upisane u list nepokretnosti broj 248 KO Boljanin, Opština Bijelo Polje, svojina Rebronja Raif Tašo;
+- dio katastarske parcele broj 853, šume 5. klase, površine 103 m2, upisane u list nepokretnosti broj 223 KO Boljanin, Opština Bijelo Polje, susvojina Pucurica Abaz Džemal, Pucurica Abaz Mensur, Pucurica Abaz Mifto;
+- dio katastarske parcele broj 852, livada 6. klase, površine 301 m2, upisane u list nepokretnosti broj 223 KO Boljanin, Opština Bijelo Polje, susvojina Pucurica Abaz Džemal, Pucurica Abaz Mensur, Pucurica Abaz Mifto;
+- dio katastarske parcele broj 856, livada 5. klase, površine 94 m2, upisane u list nepokretnosti broj 218 KO Boljanin, Opština Bijelo Polje, susvojina Pucurica Tufo Adnan, Pućurica Tufo Asmir, Pućurica Tufo Damir, Pućurica Jusuf Medo, Pućurica Jusuf Sanija, Pućurica Jusuf Semija, Pućurica Jusuf Ćamil;
+- dio katastarske parcele broj 849, šume 5. klase, površine 130 m2, upisane u list nepokretnosti broj 224 KO Boljanin, Opština Bijelo Polje, svojina Pućurica Ramo Vezira;
+- dio katastarske parcele broj 850, livada 7. klase, površine 186 m2, upisane u list nepokretnosti broj 223 KO Boljanin, Opština Bijelo Polje, susvojina Pucurica Abaz Džemal, Pucurica Abaz Mensur, Pucurica Abaz Mifto;
+- dio katastarske parcele broj 851, livada 7. klase, površine 152 m2, upisane u list nepokretnosti broj 225 KO Boljanin, Opština Bijelo Polje, svojina Kadić Iso Indira;
+- dio katastarske parcele broj 846, livada 7. klase, površine 1100 m2, upisane u list nepokretnosti broj 224 KO Boljanin, Opština Bijelo Polje, svojina Pućurica Ramo Vezira;
+- dio katastarske parcele broj 840, livada 7. klase, površine 159 m2, upisane u list nepokretnosti broj 223 KO Boljanin, Opština Bijelo Polje, susvojina Pucurica Abaz Džemal, Pucurica Abaz Mensur, Pucurica Abaz Mifto;
+- dio katastarske parcele broj 839, voćnjak 5. klase, površine 217 m2, upisane u list nepokretnosti broj 223 KO Boljanin, Opština Bijelo Polje, susvojina Pucurica Abaz Džemal, Pucurica Abaz Mensur, Pucurica Abaz Mifto;
+- dio katastarske parcele broj 842, livada 7. klase, površine 315 m2, upisane u list nepokretnosti broj 218 KO Boljanin, Opština Bijelo Polje, susvojina Pucurica Tufo Adnan, Pućurica Tufo Asmir, Pućurica Tufo Damir, Pućurica Jusuf Medo, Pućurica Jusuf Sanija, Pućurica Jusuf Semija, Pućurica Jusuf Ćamil;
+- dio katastarske parcele broj 841, šume 5. klase, površine 237 m2, upisane u list nepokretnosti broj 218 KO Boljanin, Opština Bijelo Polje, susvojina Pucurica Tufo Adnan, Pućurica Tufo Asmir, Pućurica Tufo Damir, Pućurica Jusuf Medo, Pućurica Jusuf Sanija, Pućurica Jusuf Semija, Pućurica Jusuf Ćamil;
+- dio katastarske parcele broj 891, pašnjak 7. klase, površine 288 m2, upisane u list nepokretnosti broj 50 KO Boljanin, Opština Bijelo Polje, susvojina Balić Bajram Ismet, Balić Bajram Izeta, Balić Bajram Sahret, Balić Bajram Zemira;
+- dio katastarske parcele broj 893, livada 7. klase, površine 1335 m2, upisane u list nepokretnosti broj 50 KO Boljanin, Opština Bijelo Polje, susvojina Balić Bajram Ismet, Balić Bajram Izeta, Balić Bajram Sahret, Balić Bajram Zemira;
+- dio katastarske parcele broj 892, šume 5. klase, površine 221 m2, upisane u list nepokretnosti broj 50 KO Boljanin, Opština Bijelo Polje, susvojina Balić Bajram Ismet, Balić Bajram Izeta, Balić Bajram Sahret, Balić Bajram Zemira;
+- dio katastarske parcele broj 957, pašnjak 7. klase, površine 59 m2, upisane u list nepokretnosti broj 85 KO Boljanin, Opština Bijelo Polje, svojina Balić Šefto Džeko;
+- dio katastarske parcele broj 964, livada 7. klase, površine 148 m2, upisane u list nepokretnosti broj 83 KO Boljanin, Opština Bijelo Polje, svojina Balić Šefto Medo;
+- dio katastarske parcele broj 958, livada 7. klase, površine 378 m2, upisane u list nepokretnosti broj 85 KO Boljanin, Opština Bijelo Polje, svojina Balić Šefto Medo;
+- dio katastarske parcele broj 959, voćnjak 5. klase, površine 186 m2, upisane u list nepokretnosti broj 85 KO Boljanin, Opština Bijelo Polje, svojina Balić Šefto Medo;
+- dio katastarske parcele broj 952, livada 7. klase, površine 136 m2, upisane u list nepokretnosti broj 101 KO Boljanin, Opština Bijelo Polje, svojina Vreva Džaher Medina;
+- dio katastarske parcele broj 951, livada 7. klase, površine 135 m2, upisane u list nepokretnosti broj 101 KO Boljanin, Opština Bijelo Polje, svojina Vreva Džaher Medina;
+- dio katastarske parcele broj 943, livada 7. klase, površine 194 m2, upisane u list nepokretnosti broj 99 KO Boljanin, Opština Bijelo Polje, svojina Vreva Redžo Ferid;
+- dio katastarske parcele broj 942, livada 7. klase, površine 34 m2, upisane u list nepokretnosti broj 100 KO Boljanin, Opština Bijelo Polje, svojina Vreva Redžo Husno;
+- dio katastarske parcele broj 941, nekategorisani putevi, površine 20 m2, upisane u list nepokretnosti broj 100 KO Boljanin, Opština Bijelo Polje, svojina Vreva Redžo Husno;
+- dio katastarske parcele broj 940, livada 7. klase, površine 272 m2, upisane u list nepokretnosti broj 100 KO Boljanin, Opština Bijelo Polje, svojina Vreva Redžo Husno;
+- dio katastarske parcele broj 939, livada 7. klase, površine 402 m2, upisane u list nepokretnosti broj 96 KO Boljanin, Opština Bijelo Polje, svojina Vreva Bećo Zito;
+- dio katastarske parcele broj 933, livada 7. klase, površine 607 m2, upisane u list nepokretnosti broj 94 KO Boljanin, Opština Bijelo Polje, susvojina Vreva Adem Bajro, Vreva Adem Hasib, Vreva Adem Husein;
+- dio katastarske parcele broj 934, nekategorisani putevi, površine 77 m2, upisane u list nepokretnosti broj 94 KO Boljanin, Opština Bijelo Polje, susvojina Vreva Adem Bajro, Vreva Adem Hasib, Vreva Adem Husein;
+- dio katastarske parcele broj 931, šume 5. klase, površine 197 m2, upisane u list nepokretnosti broj 148 KO Boljanin, Opština Bijelo Polje, susvojina Lješnjak Miloš Veselin, Lješnjak Miloš Zoran;
+- dio katastarske parcele broj 930, pašnjak 7. klase, površine 392 m2, upisane u list nepokretnosti broj 148 KO Boljanin, Opština Bijelo Polje, susvojina Lješnjak Miloš Veselin, Lješnjak Miloš Zoran;
+- dio katastarske parcele broj 928, livada 7. klase, površine 414 m2, upisane u list nepokretnosti broj 149 KO Boljanin, Opština Bijelo Polje, svojina Lješnjak Vukoman Koviljka;
+- dio katastarske parcele broj 923, livada 7. klase, površine 357 m2, upisane u list nepokretnosti broj 12 KO Boljanin, Opština Bijelo Polje, svojina Adžibulić Murat Vehbija;
+- dio katastarske parcele broj 921, livada 7. klase, površine 149 m2, upisane u list nepokretnosti broj 144 KO Boljanin, Opština Bijelo Polje, susvojina Lukač Baho Adil, Lukač Baho Fadil, Lukač Baho Ruždija, Lukač Baho Tale.
