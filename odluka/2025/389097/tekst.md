@@ -1,0 +1,4 @@
+Na osnovu člana 140 Zakona o uređenju prostora ("Službeni list CG", broj 19/25), a u vezi sa članom 22 st. 2 i 9 Zakona o planiranju prostora i izgradnji objekata ("Službeni list CG", br. 64/17, 44/18, 63/18, 82/20, 86/22 i 4/23), Vlada Crne Gore, na sjednici od 4. decembra 2025. godine, donijela je
+ODLUKU O PRESTANKU VAŽENJA ODLUKE O ODREĐIVANJU RUKOVODIOCA IZRADE DETALJNOG URBANISTIČKOG PLANA "MOMIŠIĆI A" U GLAVNOM GRADU PODGORICA I VISINI NAKNADE ZA RUKOVODIOCA I STRUČNI TIM ZA IZRADU DETALJNOG URBANISTIČKOG PLANA
+1. Odluka o određivanju rukovodioca izrade Detaljnog urbanističkog plana "Momišići A" u Glavnom gradu Podgorica i visini naknade za rukovodioca i stručni tim za izradu Detaljnog urbanističkog plana ("Službeni list CG", br. 6/20 i 44/23) prestaje da važi.
+2. Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
