@@ -1,0 +1,4 @@
+# Član 1
+Predlog Odluke o budžetu Opštine Plužine za 2026. godinu (u daljem tekstu: Budžet) sadrži primitke i izdatke u iznosu od 9.480.000,00 €.
+Ukupni primici se raspoređuju na:
+OPERATIVNI BUDŽET…………...................................................................................... 5.315.000,00 € - Pojedine namjene u iznosu od ……………………………............................................. 5.055.000,00 € - Tekuću rezervu Budžeta u iznosu od………………………….......................................... 150.000,00 € - Stalnu rezervu Budžeta u iznosu od…………………...…….............................................. 10.000,00 € - Otplatu obaveza iz prethodne godine u iznosu od……………........................................ 100.000,00 € KAPITALNI BUDŽET………………………………………….............................................. 4.165.000,00 €
