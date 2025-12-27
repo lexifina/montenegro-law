@@ -1,0 +1,4 @@
+# Član 1
+## o izmjeni Odluke o raspisivanju javnog poziva za prodaju putničkih motornih vozila putem javnog nadmetanja - aukcijska prodaja
+U Odluci o raspisivanju javnog poziva za prodaju putničkih motornih vozila putem javnog nadmetanja - aukcijska prodaja ("Službeni list CG - Opštinski propisi", broj 36/23), u članu 1 stav 1, tačka 1 mijenja se i glasi:
+"Audi model A 6, registarske oznake CT CG 120, neregistrovan, godina proizvodnje 1998, broj šasije WAUZZZ4BZXN045429, tip: putnički automobil, broj mjesta za sjedenje 5, masa praznog vozila: 1400, boja crna, zapremina i snaga motora: 2393/121, vrsta goriva: benzin - plin, nije u voznom stanju. Početna cijena 900,00 eura, shodno Izvještaju o procjeni vrijednosti vozila, zavedenog kod Građanskog biroa Prijestonice broj 07-426/25-1151/2 od 21. 11. 2025. godine, ovlašćenog procjenitelja Milana Božovića iz Podgorice."
