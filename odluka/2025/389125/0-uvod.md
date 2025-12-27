@@ -1,0 +1,2 @@
+Na osnovu člana 10 stav 9, člana 11 stav 5 i člana 19 stav 7 Zakona o reviziji ("Službeni list CG", broj 84/25) i člana 18 stav 7 Zakona o računovodstvu ("Službeni list CG", broj 84/25), Vlada Crne Gore, na sjednici od 4. decembra 2025. godine, donijela je
+ODLUKU O VISINI NAKNADE ZA IZDAVANJE I PRIZNAVANJE LICENCE ZA OBAVLJANJE REVIZIJE I IZDAVANJE DOZVOLE ZA OBAVLJANJE REVIZIJE I PRUŽANJE RAČUNOVODSTVENIH USLUGA
