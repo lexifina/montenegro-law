@@ -1,0 +1,119 @@
+Obrazac 1
+_________________________________________
+naziv organa kojem se podnosi zahtjev
+ZAHTJEV ZA IZDAVANJE ODOBRENJA ZA PRIREĐIVANJE IGARA NA SREĆU U KAZINU
+Podaci o podnosiocu zahtjeva:
+Naziv, adresa i sjedište privrednog društva ___________________________________ Poreski identifikacioni broj (PIB) ____________________________________________ E- mail adresa _________________________________________________________ Kontakt telefon _________________________________________________________ Podaci o odgovornom licu:
+Ime i prezime _________________________________________________________ Jedinstveni matični broj (JMB), a za stranca broj važeće strane putne isprave _____________________________________________________________________ Datum, mjesto, godina i država rođenja ______________________________________ Prebivalište, adresa stanovanja ____________________________________________
+Naziv funkcije u privrednom društvu podnosioca zahtjeva za izdavanje odobrenja ______________________________________________________________________
+Podaci o lokaciji i nazivu objekta za koji se traži odobrenje za priređivanje igara na sreću u kazinu:
+Adresa i naziv: _______________________________________________________ _______________________________________________________ _______________________________________________________ _______________________________________________________ Podaci o broju stolova za igre na sreću, mjesta na ruletu, automata za igre na sreću, elektronskih ruleta, nazivu proizvođača, godini proizvodnje, serijskom broju stolova za igre na sreću, automata za igre na sreću i elektronskog ruleta:
+_____________________________________________________________________ Stolovi za igre na sreću:
+Broj stolova za igre na sreću: ______________________________________________ Naziv proizvođača: ______________________________________________________ Godina proizvodnje: _____________________________________________________ Serijski broj: ____________________________________________________ Mjesta na ruletu:
+Broj mjesta na ruletu:_____________________________________________________
+Automati za igre na sreću:
+Broj automata za igre na sreću: ____________________________________________ Naziv proizvođača: ______________________________________________________ Godina proizvodnje: _____________________________________________________ Serijski broj: ____________________________________________________
+Elektronski ruleti:
+Broj elektronskih ruleta: __________________________________________________ Naziv proizvođača: ______________________________________________________ Godina proizvodnje: _____________________________________________________ Serijski broj: ____________________________________________________ Broj mjesta: ____________________________________________________
+Mjesto i datum podnošenja zahtjeva
+_______________________________
+potpis odgovornog lica podnosioca zahtjeva
+____________________________
+M.P.
+Obrazac 2
+_________________________________________
+naziv organa kojem se podnosi zahtjev
+ZAHTJEV ZA IZDAVANJE ODOBRENJA ZA PRIREĐIVANJE IGARA KLAĐENJA
+Podaci o podnosiocu zahtjeva:
+Naziv, adresa i sjedište privrednog društva ___________________________________ Poreski identifikacioni broj (PIB) ____________________________________________ E- mail adresa _________________________________________________________ Kontakt telefon _________________________________________________________ Podaci o odgovornom licu:
+Ime i prezime _________________________________________________________ Jedinstveni matični broj (JMB), a za stranca broj važeće strane putne isprave _____________________________________________________________________ Datum, mjesto, godina i država rođenja ______________________________________ Prebivalište, adresa stanovanja ____________________________________________
+Naziv funkcije u privrednom društvu podnosioca zahtjeva za izdavanje odobrenja ______________________________________________________________________
+Podaci o lokaciji i nazivu objekta za koji se traži odobrenje za priređivanje igara klađenja, pojedinačno za svaki objekat za koji se traži odobrenje za priređivanje igara klađenja:
+Adresa i naziv: ______________________________________________________ _______________________________________________________ _______________________________________________________ _______________________________________________________ Podaci o broju samouslužnih terminala, nazivu proizvođača, godini proizvodnje, serijskom broju samouslužnog terminala, pojadinačno za svaki objekat za koji se traži odobrenje za priređivanje igara klađenja;
+Adresa, sjedište objekta za koji se traži odobrenje za priređivanje igara klađenja:
+_____________________________________________________________________ Samouslužni terminali:
+Broj samouslužnog terminala: _____________________________________________ Naziv proizvođača: ______________________________________________________ Godina proizvodnje: _____________________________________________________ Serijski broj: ____________________________________________________
+Mjesto i datum podnošenja zahtjeva
+_______________________________
+potpis odgovornog lica podnosioca zahtjeva
+____________________________
+M.P.
+Obrazac 3
+_________________________________________
+naziv organa kojem se podnosi zahtjev
+ZAHTJEV ZA IZDAVANJE ODOBRENJA ZA PRIREĐIVANJE IGARA NA SREĆU NA
+AUTOMATIMA
+Podaci o podnosiocu zahtjeva:
+Naziv, adresa i sjedište privrednog društva ___________________________________ Poreski identifikacioni broj (PIB) ____________________________________________ E- mail adresa _________________________________________________________ Kontakt telefon _________________________________________________________ Podaci o odgovornom licu:
+Ime i prezime _________________________________________________________ Jedinstveni matični broj (JMB), a za stranca broj važeće strane putne isprave _____________________________________________________________________ Datum, mjesto, godina i država rođenja ______________________________________ Prebivalište, adresa stanovanja ____________________________________________
+Naziv funkcije u privrednom društvu podnosioca zahtjeva za izdavanje odobrenja ______________________________________________________________________
+Podaci o lokaciji i nazivu objekta za koji se traži odobrenje za priređivanje igara na sreću na automatima, pojedinačno za svaki objekat za koji se traži odobrenje za priređivanje igara na sreću na automatima:
+Adresa i naziv: ______________________________________________________ _______________________________________________________ _______________________________________________________ _______________________________________________________ Podaci o broju automata za igre na sreću, elektronskih ruleta, nazivu proizvođača, godini proizvodnje, serijskom broju automata za igre na sreću i elektronskog ruleta, pojadinačno za svaki objekat za koji se traži odobrenje za priređivanje igara na sreću na automatima;
+Adresa, sjedište objekta za koji se traži odobrenje priređivanje igara na sreću na automatima:
+_____________________________________________________________________ Automati za igre na sreću:
+Broj automata za igre na sreću: ____________________________________________ Naziv proizvođača: ______________________________________________________ Godina proizvodnje: _____________________________________________________ Serijski broj: ____________________________________________________
+Elektronski ruleti:
+Broj elektronskih ruleta: __________________________________________________ Naziv proizvođača: ______________________________________________________ Godina proizvodnje: _____________________________________________________ Serijski broj: ____________________________________________________
+Mjesto i datum podnošenja zahtjeva
+_______________________________
+potpis odgovornog lica podnosioca zahtjeva
+____________________________
+M.P.
+Obrazac 4
+_________________________________________
+naziv organa kojem se podnosi zahtjev
+ZAHTJEV ZA IZDAVANJE RJEŠENJA ZA PRIREĐIVANJE IGARA TOMBOLE ZATVORENOG TIPA
+Podaci o podnosiocu zahtjeva:
+Naziv, adresa i sjedište privrednog društva ___________________________________ Poreski identifikacioni broj (PIB) ____________________________________________ E- mail adresa _________________________________________________________ Kontakt telefon _________________________________________________________ Podaci o odgovornom licu:
+Ime i prezime _________________________________________________________ Jedinstveni matični broj (JMB), a za stranca broj važeće strane putne isprave _____________________________________________________________________ Datum, mjesto, godina i država rođenja ______________________________________ Prebivalište, adresa stanovanja ____________________________________________
+Naziv funkcije u privrednom društvu podnosioca zahtjeva za izdavanje odobrenja ______________________________________________________________________
+Podaci o lokaciji objekta u kojem će se priređivati tombola zatvorenog tipa:
+Adresa, sjedište ______________________________________________________ ______________________________________________________
+Podaci o opremi ili uređaju koja će se koristiti za priređivanje tombole zatvorenog tipa:
+Serijski broj opreme ili uređaja __________________________________________
+____________________________________________
+_____________________________________________ Boj i datum deklaracije proizvođača s mjesecom i godinom proizvodnje uređaja ili opreme _______________________________________________________________
+_______________________________________________________________
+Mjesto i datum podnošenja zahtjeva
+_______________________________
+potpis odgovornog lica podnosioca zahtjeva
+____________________________
+M.P.
+Obrazac 5
+ZAHTJEV ZA IZDAVANJE RJEŠENJA ZA PRIREĐIVANJE IGRA NA SREĆU PUTEM
+INTERNETA
+Podaci o podnosiocu zahtjeva:
+Naziv, adresa i sjedište privrednog društva ___________________________________ Poreski identifikacioni broj (PIB) ____________________________________________ E- mail adresa _________________________________________________________ Kontakt telefon _________________________________________________________ Podaci o odgovornom licu:
+Ime i prezime _________________________________________________________ Jedinstveni matični broj (JMB), a za stranca broj važeće strane putne isprave _____________________________________________________________________ Datum, mjesto, godina i država rođenja ______________________________________ Prebivalište, adresa stanovanja ____________________________________________
+Naziv funkcije u privrednom društvu podnosioca zahtjeva za izdavanje odobrenja ______________________________________________________________________
+Broj i datum izdatog odobrenja za priređivanje igara na sreću: _________________
+Naziv
+organa
+koji
+je
+izdao
+odobrenja
+za
+priređivanje
+igara
+na
+sreću: ______________________________________________________________________ Period
+važenja
+izdatog
+odobrenja
+za
+priređivanje
+igara
+na
+sreću: ______________________________________________________________________ Vrsta igre na sreću za koje je izdato odobrenje (navesti):
+_____________________________________________________________________ Podaci o vrsti igre na sreću putem interneta (kladioničke igre na sreću putem interneta, igre na sreću u virtuelnim kazinima i igre na sreću na virtuelnim automatima putem interneta):
+______________________________________________________________________ Podaci o internet stranici (IP adresu, internet stranicu, internet domen), lokaciji softvera, nazivu softverske platforme priređivača igara na sreću na kojoj se namjeravaju priređivati igre na sreću putem interneta:
+_____________________________________________________________________________ Podaci o načinu registracije i zaštite korisnika:
+_____________________________________________________________________________
+Podaci o tehničkoj zaštiti sistema i sigurnost korisničkih podataka;
+_____________________________________________________________________________
+Mjesto i datum podnošenja zahtjeva
+_______________________________
+potpis odgovornog lica podnosioca zahtjeva
+____________________________
+M.P.
