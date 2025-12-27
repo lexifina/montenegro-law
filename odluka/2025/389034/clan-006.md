@@ -1,0 +1,7 @@
+# Član 6
+Zadaci Savjeta su da:
+1) pripremi strategiju za demografiju u cilju upravljanja demografskim izazovima i suzbijanja negativnih demografskih trendova, sa pratećim akcionim planovima (u daljem tekstu: strategija), u saradnji sa Ministarstvom socijalnog staranja, brige o porodici i demografije i prati njeno sprovođenje;
+2) organizuje, prati prioritete, dinamiku i rokove realizacije aktivnosti čiji su nosioci državni organi, organi državne uprave, organi lokalne samouprave, organi lokalne uprave i druge nadležne institucije i ocjenjuje postignute rezultate u ostvarivanju ciljeva strategije;
+3) podnosi Vladi i ministarstvima inicijative, predloge, mišljenja i analize koje se odnose na ukupno kretanje stanovništva, promjene u pojedinim njegovim strukturama i promjene u ekonomskim, socijalnim, kulturnim i ostalim pokazateljima koji djeluju na pojedine komponente demografskog razvoja;
+4) predlaže Vladi preduzimanje drugih mjera i aktivnosti od značaja za demografski razvoj kad je to u određenim oblastima potrebno (npr. mjere i aktivnosti koje se odnose na unapređenje životnog standarda građana u ruralnim sredinama, poboljšanje uslova i mogućnosti za zapošljavanje, dostupnost i kvalitet obrazovanja i sl.);
+5) dostavlja Vladi izvještaje o realizovanim aktivnostima sa ocjenom stanja i analizom koja se odnosi na migraciona kretanja stanovništva i predlogom daljih mjera za uspješniju implementaciju strategije, najmanje jedanput godišnje.
