@@ -1,0 +1,2 @@
+Na osnovu člana 1 i 7 Zakona o boravišnoj taksi ("Službeni list RCG", broj 11/04 i "Službeni list CG", broj 73/10 i 48/15), člana 38 stav 1 tačka 8 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19, 38/20, 50/22, 84/22 i 81/25) i člana 73 stav 1 tačka 9 Statuta Prijestonice ("Službeni list CG - Opštinski propisi", br. 49/18 i 17/21), Skupština Prijestonice Cetinje, na sjednici održanoj dana 17. 12. 2025. godine, donijela je
+ODLUKU
