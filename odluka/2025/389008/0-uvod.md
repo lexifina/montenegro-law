@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Službeni list CG", br. 25/19, 49/22, 152/22, 118/25, 126/25 i 133/25), člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18 ,34/19, 38/20, 50/22, 84/22 i 81/25) i člana 73 stav 1 tačka 9 Statuta Prijestonice ("Službeni list CG - Opštinski propisi", br. 49/18 i 17/21), Skupština Prijestonice Cetinje, na sjednici od 17. 12. 2025. godine, donijela je
+ODLUKU
