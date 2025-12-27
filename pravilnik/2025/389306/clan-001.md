@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se bliža sadržina i način prenošenja informacija o karakterizaciji davaoca i ljudskih organa (u daljem tekstu: organ), praćenju organa od davaoca do primaoca i od primaoca do davaoca u svim fazama postupaka od uzimanja do presađivanja (u daljem tekstu: sljedljivost), kao i informacija i izvještaja o ozbiljnim neželjenim događajima i ozbiljnim neželjenim reakcijama, koji se mogu povezati sa organom koji je dobijen razmjenom.
