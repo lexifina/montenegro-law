@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 20 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 33 stav 1 tačka 20 Statuta Opštine Plav ("Službeni list CG - Opštinski propisi", broj 44/18), a sve u vezi sa članom 37 Poslovnika o radu Skupštine opštine Plav ("Službeni list CG - Opštinski propisi", broj 44/18 i 25/21), Skupština opštine Plav, na sjednici od 29. 12. 2025. godine, donijela je
+ODLUKU
