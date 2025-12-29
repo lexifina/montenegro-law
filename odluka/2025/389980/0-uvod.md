@@ -1,0 +1,2 @@
+Na osnovu člana 8 Zakona o regionalnom razvoju ("Službeni list CG", br. 20/11, 26/11, 20/15 i 47/19) i člana 54 stav 1 tačka 3 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21, 49/22 i 51/25), Skupština Glavnog grada - Podgorice, uz saglasnost Ministarstva regionalno-investicionog razvoja i saradnje sa nevladinim organizacijama, na sjednici održanoj dana 23. i 24. decembra 2025. godine, donijela je
+ODLUKU
