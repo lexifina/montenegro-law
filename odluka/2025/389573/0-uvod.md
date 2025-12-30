@@ -1,0 +1,3 @@
+Na osnovu člana 58 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 36 stav 1 Statuta opštine Mojkovac ("Službeni list CG  Opštinski propisi", broj 29/18 i 37/22), a u vezi sa članom 26 stav 3 i 5 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", broj 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18, 34/19, 130/21, 146/21, 92/22, 152/22, 113/23, 48/24 i 84/24), Skupština opštine Mojkovac, na sjednici održanoj dana 26. decembra 2025. godine, donosi
+ODLUKU
+o određivanju komisija, radnih timova, radnih grupa i tijela Opštine Mojkovac i visini naknade za rad
