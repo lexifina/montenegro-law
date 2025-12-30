@@ -1,0 +1,2 @@
+# Član 1
+Ovim zakonom uređuje se Klasifikacija djelatnosti kao opšti standard prema kojem se vrši razvrstavanje po djelatnostima pravnih lica, fizičkih lica koja obavljaju djelatnost u skladu sa propisima, državnih organa, organa državne uprave, jedinica lokalne samouprave, kao i drugih subjekata koji nemaju svojstvo pravnog lica, a koji obavljaju djelatnost u skladu sa posebnim propisima (u daljem tekstu: jedinice razvrstavanja).
