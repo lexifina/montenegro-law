@@ -1,0 +1,4 @@
+# Član 12
+## Vršenje nadzora
+(1) Nadzor nad sprovođenjem Regulative (EU) 2023/988 vrše tržišna inspekcija, sanitarna inspekcija, inspekcija za usluge informacionog društva, kao i carinski organ.
+(2) Za nadzor proizvoda koji su obuhvaćeni Regulativom (EU) 2023/988 i nadzor nad propisima donesenim za sprovođenje Regulative (EU) 2023/988, upotrebljavaju se ovlašćenja i mjere određeni u propisu za sprovođenje Regulative (EU) 2019/1020 Evropskog parlamenta i Savjeta od dana 20. juna 2019. godine o nadzoru na tržištu i usaglašenosti proizvoda i o izmjenama i dopunama Direktive 2004/42/EZ i Regulativa (EZ) 765/2008 i (EU) 305/2011 (u daljem tekstu: Regulativa (EU) 2019/1020) i propisu za sprovođenje Regulative (EU) 2022/2065 Evropskog parlamenta i Savjeta od dana 19. oktobra 2022. godine o jedinstvenom tržištu digitalnih usluga i promjeni Direktive 2000/31/EZ (u daljem tekstu: Regulativa (EU) 2022/2065).
