@@ -1,0 +1,2 @@
+# Član 2
+Katastarska parcela 416/1 KO Baošići se prodaje DOO "Carine" iz Podgorice, radi dokompletiranja urbanističke parcele namjenjene za izgradnju hotela "Carine", u zahvatu planskog dokumenta Izmjene i dopune Prostorno urbanističkog plana opštine Herceg Novi ("Službeni list CG", br.76/25), u sklopu koje urbanističke parcele ulaze i katastarske parcele 415/1, 417/1, 417/2 i 422/2, sve KO Baošići, u vlasništvu kupca DOO "Carine" Podgorica u cjelini.
