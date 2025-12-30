@@ -1,0 +1,2 @@
+# Član 15
+Opština će se u 2026. godini u skladu sa odlukom Skupštine opštine Mojkovac i Ugovorom broj 05- 325/24-682/26 od 11.12.2024. godine o prenosu kreditnih sredstava, zadužiti za finansiranje projekata, kroz kreditne aranžmane, u iznosu do 1.000.000,00 eura, preko Ministarstva finansija kod Evropske investicione banke (EIB), za potrebe finansiranja projekta unapređenja sistema za upravljanje otpadnim vodama.

@@ -1,0 +1,2 @@
+# Član 7
+Ukoliko u toku budžetske godine zaposleni iz jedne potrošačke jedinice prerasporedi u drugu potrošačku jedinicu, organ nadležan za poslove finansija po automatizmu će izvršiti transfer pripadajućih sredstava za bruto zarade, ostala lična primanja i druga sredstva, shodno dobijenoj specifikaciji i pribavljenoj saglasnosti potrošačke jedinice iz koje se vrši prelazak, bez promjene iznosa planiranih sredstava za navedene izdatke.
