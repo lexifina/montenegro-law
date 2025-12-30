@@ -1,0 +1,14 @@
+# Član 2
+Država može u 2026. godini izdati garancije u ukupnom iznosu do 171.950.000,00 eura, i to za:
+1) kreditni aranžman između Crnogorskog elektroprenosnog sistema AD Podgorica (CGES) i Francuske razvojne agencije (AFD), za potrebe finansiranja "Projekta rekonstrukcije i proširenja TS 220/110 kV Perućica i nabavka autotransformatora 400/220 kV Pljevlja 2", u iznosu do 25.000.000,00 eura;
+2) kreditni aranžman između Crnogorskog elektrodistributivnog sistema AD Podgorica (CEDIS) i Francuske razvojne agencije (AFD), za realizaciju "Projekta rekonstrukcije šest 35kv postrojenja i zamjena opreme u 250 TS 10/04KV", u iznosu do 35.000.000,00 eura;
+3) kreditni aranžman između Regionalnog vodovoda Crnogorsko primorje DOO i Evropske banke za obnovu i razvoj (EBRD), za potrebe druge tranše kreditnog aranžmana, a koji je namijenjen za finansiranje "Projekta unapređenja sistema regionalnog vodosnabdijevanja kroz razvojne projekte", u iznosu do 12.000.000,00 eura;
+4) kreditni aranžman između Regionalnog vodovoda Crnogorsko primorje DOO i Evropske banke za obnovu i razvoj (EBRD), za potrebe finansiranja Projekta "Izgradnja dodatnih rezervoarskih kapaciteta i povećanje energetske efikasnosti regionalnog vodovodnog sistema", u iznosu do 6.000.000,00 eura;
+5) kreditni aranžman između Crnogorskog elektroprenosnog sistema AD Podgorica (CGES) i Evropske banke za obnovu i razvoj (EBRD), za potrebe izgradnje 110 kv dalekovoda Vilusi-Herceg Novi, u iznosu do 18.000.000,00 eura;
+6) kreditni aranžman između Crnogorskog elektroprenosnog sistema AD Podgorica (CGES) i Evropske banke za obnovu i razvoj (EBRD), za potrebe finansiranja "Projekta povećanja propusne moći 220 kV dalekovoda", u iznosu do 15.000.000,00 eura;
+7) kreditni aranžman između Željezničkog prevoza Crne Gore (ŽPCG) i kreditora koji će biti utvrđen tokom godine, za potrebe finansiranja investicione opravke devet putničkih kola tipa "Y", u iznosu do 11.250.000,00 eura;
+8) kreditne aranžmane između Željezničkog prevoza Crne Gore (ŽPCG) i kreditora koji će biti utvrđen tokom godine za potrebe redovne opravke električnih lokomotiva sa modernizacijom, u iznosu do 4.700.000,00 eura;
+9) kreditni aranžman između Željezničkog prevoza Crne Gore (ŽPCG) i kreditora koji će biti utvrđen tokom godine, za potrebe nabavke novih putničkih kola sa ležajevima, u iznosu do 30.000.000,00 eura;
+10) kreditni aranžman između Montecargo AD Podgorica i kreditora koji će biti utvrđen tokom godine, za potrebe nabavke voznih sredstava i modernizaciju voznog parka, u iznosu do 15.000.000,00 eura.
+Postupak izdavanja garancija iz stava 1 ovog člana, sprovodi Vlada, na predlog Ministarstva finansija.
+Način i uslovi izdavanja garancija za kredite iz stava 1 ovog člana, urediće se ugovorima, sporazumima ili drugim aktima sa kreditorima iz stava 1 ovog člana.
