@@ -1,0 +1,2 @@
+# Član 5
+Mijenja se član 12 Odluke o porezu na nepokretnosti i glasi: ,,Za nepokretnosti čiji je vlasnik ili korisnik lice upisano u registar poljoprivrednih proizvođača, pravno lice i preduzetnik koji se bavi proizvodnjom, doradom, pakovanjem ili preradom poljoprivrednih proizvoda proizvedenih u Crnoj Gori, a koje se koriste za obavljanje ove djelatnosti, poreska stopa se umanjuje za 70% u odnosu na poresku stopu utvrđenu u skladu sa članom 11 Odluke o porezu na nepokretnosti."
