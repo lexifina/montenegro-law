@@ -1,0 +1,2 @@
+Na osnovu člana 13 i 16 Zakona o sportu ("Službeni list Crne Gore", br. 44/18 i 123/21), i člana 34 stav 1 tačka 4 Statuta Opštine Zeta ("Službeni list CG - Opštinski propisi", broj 12/23), uz prethodno pribavljeno mišljenje Ministarstva sporta i mladih, akt broj 01-04/1-610/25-24/6 od 31. oktobra 2025. godine, Skupština opštine Zeta, na XXIV sjednici održanoj 25. 12. 2025. godine, donijela je
+ODLUKU
