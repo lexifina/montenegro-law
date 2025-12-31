@@ -1,0 +1,26 @@
+# Član 1
+## o davanju saglasnosti "Vjetro Parku Bijela" d.o.o. Podgorica za zasnivanje stvarne službenosti na katastarskim parcelama u raspolaganju Opštine Šavnik
+Opština Šavnik, kao nosilac prava raspolaganja, daje saglasnost "Vjetro Parku Bijela" d.o.o. Podgorica za zasnivanje stvarne službenosti radi izgradnje elektroenergetske infrastrukture (vjetreoelektrane i dalekovoda) i to na:
+- dijelu katastarske parcele broj 1144 KO Komarnica, nekategorisani putevi, u površini od 403 m2 (naknada 201,50 €)
+- dijelu katastarske parcele broj 1949 KO Malinsko, nekategorisani putevi, u površini od 174 m2 (naknada 87,00 €)
+- katastarskoj parceli broj 1959 KO Malinsko, nekategorisani putevi, u površini od 10.943 m2 (naknada 5.471,50 €)
+- dijelu katastarske parcele broj 1960 KO Malinsko, nekategorisani putevi, površini od 10923 m2 (naknada 5.461,50 €)
+- dijelu katastarske parcele broj 1973 KO Malinsko, nekategorisani putevi, u površini od 142 m2 (naknada 71,00 €)
+- dijelu katastarske parcele broj 1981 KO Malinsko, nekategorisani putevi, u površini od 837 m2 (naknada 418,50 €)
+- dijelu katastarske parcele broj 1982 KO Malinsko, nekategorisani putevi, u površini od 3.335 m2 (naknada 3.335,00 €)
+- dijelu katastarske parcele broj 2655 KO Duži, nekategorisani putevi, u površini od 129 m2 (naknada 64,50 €)
+- dijelu katastarske parcele broj 2683 KO Duži, nekategorisani putevi, u površini od 234m2 (naknada 117,00 €)
+- dijleu katastarske parcele broj 2620 KO Duži, nekategorisani putevi, u površini od 807 m2 (naknada 403,50 €)
+- dijelu katastarske parcele broj 2679 KO Duži, nekategorisani putevi, u površini od 1173 m2 (naknada 586,50 €)
+- dijelu katastarske parcele broj 2680/1 KO Duži, nekategorisani putevi, u površini od 203 m2 (naknada 101,50 €)
+- dijelu katastarske parcele broj 1648 KO Petnjica, nekategorisani putevi, u površini od 175 m2 (naknada 175,00 €)
+- dijelu katastarske parcela broj 1669 KO Petnjica, nekategorisani putevi, u površini od 177 m2 (naknada 177,00 €)
+- dijelu katastarske parcele broj 1683 KO Petnjica, potok, u površini od 230 m2 (naknada 115,00 €)
+- dijelu katastarske parcele broj 1459 KO Pošćenje, nekategorisani putevi, u površini od 766 m2 (naknada 383,00 €)
+- dijelu katastarske parcele broj 1458 KO Pošćenje, nekategorisani putevi, u površini od 555 m2 (naknada 277,50 €)
+- dijelu katastarske parcele broj 2057/1 KO Donja Bijela, lokalni putevi, u površini od 2.895m2 (naknada 1.447,50 €)
+- dijelu katastarske parcele broj 2058 KO Donja Bijela, lokalni putevi, u površini od 1.360m2 (naknada 680,00 €)
+- dijelu katastarske parcela broj 2059 KO Donja Bijela, nekategorisani putevi, u površini od 943m2 (naknada 471,50 €)
+- dijelu katastarske parcele broj 118/1 KO Šavnik, šume 5. klase, u površini od 1.362 m2 (naknada 681,00€)
+- dijelu katastarske parcele broj 195 KO Šavnik, javni putevi, u površini od 72 m2 (naknada 36,00 €) i
+- dijelu katastarske parcele broj 234 KO Šavnik, javni putevi, u površini od 1134m2 (naknada 567,00 €)
