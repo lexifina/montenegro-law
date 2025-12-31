@@ -1,0 +1,2 @@
+Na osnovu člana 53 stav 2. Zakona o audiovizuelnim medijskim uslugama ("Službeni list Crne Gore", br. 54/24), člana 23 Odluke o osnivanju Društva sa ograničenom odgovornošću Lokalni javni emiter "Radio televizija Ulcinj" ("Službeni list CG - Opštinski propisi", br. 38/11 i 22/25), kao i člana 42 stav 1 tačka 25 Statuta Opštine Ulcinj ("Službeni list CG - Opštinski propisi", br. 48/19 i 5/24), Skupština opštine Ulcinj je na sjednici održanoj dana 23. 12. 2025. godine donijela
+RJEŠENJE
