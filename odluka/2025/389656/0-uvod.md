@@ -1,0 +1,2 @@
+Na osnovu člana 31 stav 1 Zakona o divljači i lovstvu ("Službeni list CG" br. 52/08, i 48/15) član 38 stav 1, Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18,34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 58 stav 1 tačka 2 Statuta Opštine Ulcinj ("Službeni list Crne Gore - Opštinski propisi", broj 48/19 i 5/24), Skupština opštine Ulcinj, na sjednici održanoj dana 23. 12. 2025. godine, donijela je
+ODLUKU
