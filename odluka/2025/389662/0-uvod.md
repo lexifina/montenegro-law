@@ -1,0 +1,3 @@
+Na osnovu člana 30 stav 2 i 3 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", broj 3/19, 86/22, 5/24, 7/24, 92/25 i 149/25 ), člana 37 Zakona o Budžetu i fiskalnoj odgovornosti("Službeni list Crne Gore", br. 20/14, 56/14, 70/17, 4/18, 55/18, 66/19, 70/21, 145/21, 27/23, 123/23, 125/23 i 11/25), člana 59 stav 1 i 2 Zakona o lokalnoj samoupravi("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 081/25 i 98/25), člana 79 stav 1 i 2 Statuta Opštine Bijelo Polje ("Službeni list CG - Opštinski propisi", broj 19/18) predsjednik Opštine Bijelo Polje donosi
+ODLUKU
+o privremenom finansiranju Opštine Bijelo Polje u periodu od 1. 1. 2026. godine - 31. 3. 2026.
