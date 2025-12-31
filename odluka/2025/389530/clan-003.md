@@ -1,0 +1,3 @@
+# Član 3
+Odbor će u okviru sprovođenja parlamentarne istrage zahtijevati da mu se dostavi odgovarajuća dokumentacija o pitanjima koja su predmet parlamentarne istrage i za koju Odbor procijeni da je potrebno pribaviti radi neposrednog uvida u istu, a sa ciljem objektivnog sagledavanja i utvrđivanja istine na osnovu stvarnog činjeničnog stanja.
+Odbor će u cilju prikupljanja informacija i utvrđivanja činjenica pozvati da pred Odborom daju izjavu i odgovaraju na pitanja lica iz člana 13 Zakona o parlamentarnoj istrazi, kao i sva druga lica za koja procijeni da su im poznate određene činjenice u vezi sa predmetom parlamentarne istrage.
