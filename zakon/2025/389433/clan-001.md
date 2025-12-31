@@ -1,0 +1,4 @@
+# Član 1
+U Zakonu o državnom premjeru i katastru nepokretnosti ("Službeni list RCG", broj 29/07 i "Službeni list CG", br. 32/11, 43/15, 37/17 i 17/18), u članu 2 na kraju tačke 22 tačka se zamjenjuje tačka-zarezom i dodaju se dvije nove tačke koje glase:
+"23) elektronski šalter je informacioni sistem sastavljen od tehničke opreme (serveri i drugi hardverski uređaji, komunikaciona oprema i drugo), mreža, baza podataka i softverskih programa, kao jedinstveni centralni sistem za povezivanje korisnika, kroz koji se podnose: elektronski zahtjevi za promjenu prava na nepokretnostima, elektronski zahtjevi za izdavanje elektronskih uvjerenja i drugih akata iz nadležnosti organa uprave nadležnog za poslove državnog premjera i katastra i kroz koji se razmjenjuje dokumentacija shodno postupcima;"
+24) satelitski i aerofotogrametrijski snimak je snimak teritorije Crne Gore sačinjen u julu 2025. godine za potrebe postupka legalizacije bespravnih objekata."
