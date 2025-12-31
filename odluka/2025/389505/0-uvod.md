@@ -1,0 +1,4 @@
+Na osnovu člana 3, 4, 33 stav 4, 34 stav 2, 35, 38, 40 stav 4, 48 i 49 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14, 56/14, 70/17, 4/18, 55/18, 66/19, 70/21, 145/21, 27/23, 123/23, 125/23 i 11/25), člana 28, 29, 30 stav 1, 33, 36, 37, 38 stav 2 Zakona o finansiranju lokalne samouprave ("Službeni list CG’’, br. 3/19 , 86/22, 5/24, 7/24 i 92/25), člana 13 stav 2 Zakona o finansiranju političkih partija ("Službeni list CG’’, br. 81/25 i 101/25), člana 38 stav 1 tačka 7 i člana 167 stav 1 Zakona o lokalnoj samoupravi ("Službeni list CG’’, br. 2/18, 34/19 i 38/20, 50/22, 84/22, 81/25 i 98/25), člana 35 stav 1 tačka 7, člana 38 stav 1, člana 39 stav 1, člana 42 stav 2 i člana 129 stav 1 Statuta Opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 31/18, 21/23, 42/25 i "Službeni list CG", broj 62/25), Skupština opštine Nikšić, na sjednici održanoj 29. 12. 2025. godine, donijela je
+ODLUKU
+o Budžetu Opštine Nikšić za 2026. godinu
+OPŠTI DIO
