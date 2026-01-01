@@ -1,0 +1,3 @@
+Na osnovu člana 58 stav 1 tačka 6 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) člana 29 stav 2 i člana 40 stav 2 tačka 4 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09, 40/11 i 23/25) člana 78 stav 1 tačka 6 Statuta Opštine Bijelo Polje ("Službeni list CG - Opštinski propisi", br. 19/18) i Saglasnosti Skupštine opštine Bijelo Polje ("Službeni list CG - Opštinski propisi", br. 63/25 od 9. 12. 2025), predsjednik Opštine Bijelo Polje, dana 16. 12. 2025. godine, donio je
+ODLUKU
+o prenosu prava na nepokretnostima Sijarić Emiri, Crnovršanin Muneveri, Muzurović Emini
