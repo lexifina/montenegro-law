@@ -1,0 +1,1 @@
+* U ovaj zakon prenesena je Direktiva 2004/23/EZ Evropskog parlamenta i Savjeta s obzirom na zahtjeve za praćenje, prijavu ozbiljnih neželjenih reakcija i pojava i određene tehničke zahtjeve vezane za označavanje, obradu, očuvanje, skladištenje i distribuciju tkiva i ćelija ljudskog porijekla.
