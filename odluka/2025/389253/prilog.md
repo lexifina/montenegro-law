@@ -1,0 +1,16 @@
+CRNA GORA OPŠTINA BAR Sekretarijat za finansije
+OBRAZAC OPTT-BR
+PRIJAVA
+za utvrđivanje turističke takse
+I PODACI O OBVEZNIKU
+II PODACI O NEPOKRETNOSTI
+Površina objekta
+Kat.parcela
+KO
+Broj lista nepokretnosti
+Napomena taksenog obveznika:
+________________________________________________________________________________ ________________________________________________________________________________ ________________________________________________________________________________ _______________
+U Baru,________20___.godine M.P.
+Potpis taksenog obveznika
+__________________ ______________________ __________________
+ime i prezime adresa stanovanja adresa nepokretnosti
