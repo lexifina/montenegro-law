@@ -1,0 +1,2 @@
+Na osnovu člana 1, člana 4a i člana 7 Zakona o ekspropijaciji ("Službeni list RCG", br. 55/2000, 12/2002 - Odluka US RCG, 28/2006 i u "Službeni list CG", br. 21/2008, 30/2017,75/2018, 33/2024 i 53/2025), člana 28 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19, 38/20, 50/22 i 84/22), člana 28 stav 1 tačka 5 Statuta Opštine Rožaje ("Službeni list CG - Opštinski propisi", br. 38/18 i 16/21), Skupština opštine Rožaje, na sjednici održanoj dana 24. 12. 2025. godine, donijela je
+ODLUKU
