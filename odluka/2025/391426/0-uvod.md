@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 15 Odluke o osnivanju Javne ustanove Kulturno- informativni centar Malesija ("Službeni list RCG - Opštinski propisi", br. 24/04, "Službeni list Crne Gore - Opštinski propisi", br. 28/11 i 5/22), Skupština opštine Tuzi, dana 22. 12. 2025. godine, donijela je
+ODLUKU
