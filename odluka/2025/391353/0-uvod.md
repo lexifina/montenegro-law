@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav I tačka 13, člana 38 stav I tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22), članom 27 stav I tačka 16 i člana 46 stav I tačka 2 Statuta Opštine Rožaje ("Službeni list Crne Gore - Opštinski propisi", br. 38/18 i 16/21) a u vezi sa članom 47 i 113 Zakona o sportu ("Službeni list Crne Gore", br. 44/18 i 123/21), Skupština opštine Rožaje, na sjednici održanoj dana 24. 12. 2025. godine, donijela je
+ODLUKU
