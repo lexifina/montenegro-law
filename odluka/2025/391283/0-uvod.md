@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 1 Zakona o turističkim organizacijama ("Službeni list CG", br. 11/04, 46/07, 73/10, 40/11, 45/14, 42/17 i 27/19), člana 24 stav 1 tačka 2 i 5 Odluke o osnivanju Turističke organizacije Opštine Tuzi ("Službeni list CG - Opštinski propisi", broj 42/18), i članom 53 stav 1 tačka 2 Statuta Opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 24/19, 5/20, 51/22 i 55/22), Skupština opštine Tuzi, na sjednici održanoj 22. 12. 2025. godine, donosi
+ODLUKU
