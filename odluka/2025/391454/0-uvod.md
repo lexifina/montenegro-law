@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 i člana 2a Zakona o eksproprijaciji ("Službeni list RCG", br. 55/00, 12/02 i 28/06 i "Službeni list CG", br. 21/08, 30/17, 75/18, 3/24 i 53/25), člana 28 stav 1 tačka 5 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22 i 98/25) i člana 28 stav 1 tačka 5 Statuta Opštine Tuzi ("Službeni list CG - Opštinski propisi", br. 24/19, 5/20, 51/22 i 55/22) Skupština opštine Tuzi, na sjednici održanoj dana 22. 12. 2025. godine, donijela je
+ODLUKU
