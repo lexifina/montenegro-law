@@ -1,0 +1,2 @@
+Na osnovu člana 54 stav 1 tačka 57 Statuta Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", br. 8/19, 20/21, 49/22 i 51/25) i člana 17 stav 1 alineja 3 Odluke o osnivanju Javne ustanove Gradsko pozorište Podgorica ("Službeni list RCG - Opštinski propisi", br. 27/02 i 2/03 i "Službeni list Crne Gore - Opštinski propisi", broj 28/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 23. i 24. decembra 2025. godine, donijela je
+ODLUKU
