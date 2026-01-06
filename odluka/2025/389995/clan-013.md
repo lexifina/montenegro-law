@@ -1,0 +1,4 @@
+# Član 13
+Radno vrijeme ugostiteljskog objekta koji posluje u poslovnom objektu, prostoriji i na prostoru gdje se pretežno obavlja druga djelatnost (na aerodromu, zdravstvenoj ustanovi, benzinskoj pumpi, autobuskoj i željezničkoj stanici ili drugim ustanovama koje vrše poslove od javnog značaja) i trgovinskom centru je svakog radnog dana od 07:00 do 24:00 časa.
+Radno vrijeme ugostiteljskog objekta koji posluje u sklopu obrazovne i naučno- istraživačke ustanove određuje se u skladu sa radnim vremenom propisanim ovom odlukom, osim ukoliko je kraće radno vrijeme istog već propisano posebnim aktom navedene ustanove.
+Radno vrijeme ugostiteljskog objekta koji posluje u sklopu zdravstvenih i drugih ustanova koje vrše poslove od javnog značaja, određuje se u skladu sa radnim vremenom propisanim ovom odlukom, osim ukoliko je kraće radno vrijeme istog već propisano posebnim aktom poslovodnog organa, odnosno navedene ustanove.
