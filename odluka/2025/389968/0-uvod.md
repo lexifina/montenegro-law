@@ -1,0 +1,3 @@
+Na osnovu člana 92 stav 2 i člana 94 stav 2 tačka 1 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list CG", br. 27/13, 1/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/21, 145/21, 3/23, 48/24, 84/24, 33/25 i 122/25), člana 54 stav 1 tačka 57 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21, 49/22 i 51/25) i člana 9 i člana 27 Statuta JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju - Podgorica ("Službeni list CG - Opštinski propisi", br. 27/15 i 53/17), Skupština Glavnog grada - Podgorice, na sjednici održanoj 23. i 24. decembra 2025. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta JU Dnevni centar za djecu
