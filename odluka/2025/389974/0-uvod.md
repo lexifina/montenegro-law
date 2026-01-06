@@ -1,0 +1,3 @@
+Na osnovu člana 21 stav 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 74/16, 2/18, 66/19, 140/22 i 84/24), člana 38 stav 1 tačka 30 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 54 stav 1 tačka 37 Statuta Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", br. 8/19, 20/21, 49/22 i 51/25) Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 23. i 24. decembra 2025. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Aneks Ugovora o povjeravanju oba-vljanja komunalnih djelatnosti i
