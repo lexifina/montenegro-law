@@ -1,0 +1,3 @@
+Na osnovu člana 27 stav 1 tačka 24 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 27 stav 7 Zakona o zaštiti dobrobiti životinja ("Službeni list CG", br. 14/08, 40/11 i 47/15), člana 15 stav 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 2/18, 66/19, 140/22 i 84/24) i člana 54 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21, 49/22 i 51/25), Skupština Glavnog grada - Podgorice, na sjednici održanoj 23. i 24. decembra 2025. godine, donijela je
+ODLUKU
+o uslovima i načinu držanja kućnih ljubimaca i načinu postupanja sa napuštenim i izgubljenim kućnim ljubimcima
