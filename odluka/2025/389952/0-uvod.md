@@ -1,0 +1,3 @@
+Na osnovu člana 29 stav 2 i člana 34 stav 3 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11 i 23/25), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 54 stav 1 tačka 12 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21, 49/22 i 51/25) i Odluke Vlade Crne Gore, broj 11-011/25-4394/2 od 10. 12. 2025. godine, Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 23. i 24. decembra 2025. godine, donijela je
+ODLUKU
+o prenosu prava svojine Pravoslavnoj Mitropoliji Crnogorsko-Primorskoj na građevinskom
