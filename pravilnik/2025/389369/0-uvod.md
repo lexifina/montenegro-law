@@ -1,0 +1,2 @@
+Na osnovu člana 22 stav 5 Zakona o igrama na sreću ("Službeni list CG", broj 91/25), Ministarstvo finansija donijelo je
+PRAVILNIK O BLIŽEM NAČINU MJERENJA UDALJENOSTI OBJEKATA U KOJIMA SE PRIREĐUJU LUTRIJSKE IGRE NA SREĆU I POSEBNE IGRE NA SREĆU OD OBRAZOVNO-VASPITNIH USTANOVA
