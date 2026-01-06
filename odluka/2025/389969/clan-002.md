@@ -1,0 +1,2 @@
+# Član 2
+Davanje u zakup zemljišta iz člana 1 ove odluke vršiće se putem prikupljanja ponuda, na osnovu javnog poziva koji će objaviti Direkcija za imovinu u najmanje jednom dnevnom štampanom mediju koji se distribuira na cijeloj teritoriji Crne Gore i na internet stranici Glavnog grada - Podgorica a kojim će se utvrditi prednost dosadašnjih korisnika -zakupaca sa izmirenim ugovorenim obavezama (za period zakupa do 3. novembra 2025. godine) prema Glavnom gradu od 25 bodova (od ukupno 100 bodova).
