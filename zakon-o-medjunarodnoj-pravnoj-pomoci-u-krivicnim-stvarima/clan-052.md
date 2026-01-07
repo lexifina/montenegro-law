@@ -1,0 +1,5 @@
+# Član 52
+## Razmjena informacija bez zamolnice (spontana razmjena)
+(1) Domaći nadležni organi mogu, ne utičući na sopstvene istrage ili postupke, bez prethodno upućene zamolnice, dostaviti stranim nadležnim organima i primiti od stranih nadležnih organa informacije i podatke koje se odnose na krivična djela, a do kojih su došli prilikom svojih istraga, ako smatraju da bi dostavljanje takvih informacija, odnosno podataka moglo biti od koristi za pokretanje istrage ili krivičnog postupka ili ako bi moglo dovesti do podnošenja zamolnice za međunarodnu pravnu pomoć.
+(2) Domaći nadležni organ koji dostavlja informacije i podatke u skladu sa stavom 1 ovog člana može zatražiti od stranog nadležnog organa obavještenje o radnjama preduzetim na osnovu dostavljenih podataka, a može odrediti i uslove pod kojim država može koristiti informacije i podatke kojoj su joj dostavljeni.
+(3) O dostavljenim i primljenim informacijama i podacima iz stava 1 ovog člana domaći nadležni organi su dužni da vode evidenciju.

@@ -1,0 +1,3 @@
+# Član 50
+## Drugi oblici međunarodne pravne pomoći
+Drugi oblici međunarodne pravne pomoći su: dostavljanje akata, pisanih materijala i drugih predmeta u vezi sa krivičnim postupkom u državi molilji; međusobna razmjena informacija, kao i izvršenje pojedinih procesnih radnji; saslušanje okrivljenog, svjedoka i vještaka, uključujući saslušanje putem video i telefonske konferencijske veze, uviđaj, pretresanje lica, prostorija i pokretnih stvari uključujući računare, računarske sisteme i uređaje povezane sa računarskim sistemima, privremeno oduzimanje predmeta, mjere tajnog nadzora, dostavljanje bankarskih podataka, DNK analiza, privremena predaja lica lišenog slobode radi svjedočenja, dostavljanje podataka iz kaznene evidencije, podataka o osudi i druge procesne radnje.

@@ -1,0 +1,4 @@
+# Član 32
+## Upućivanje zahtjeva za određivanje privremenog pritvora stranoj državi
+(1) Kad postoji opasnost da će lice čije se izručenje traži pobjeći, odnosno postoje drugi opravdani razlozi, ministar može, prije podnošenja zahtjeva za izručenje u skladu sa članom 31 ovog zakona, tražiti od strane države da se protiv tog lica odredi privremeni pritvor u cilju izručenja ili preduzmu druge mjere radi sprečavanja njegovog bjekstva.
+(2) U zahtjevu za određivanje privremenog pritvora posebno će se naznačiti podaci o identitetu lica čije se izručenje traži, naziv krivičnog djela zbog kojeg se izručenje traži, optužnica, presuda ili odluka o pritvoru, datum, mjesto i naziv organa koji je odredio pritvor, odnosno podaci o pravosnažnosti presude, kao i izjava da će se izručenje tražiti redovnim putem.

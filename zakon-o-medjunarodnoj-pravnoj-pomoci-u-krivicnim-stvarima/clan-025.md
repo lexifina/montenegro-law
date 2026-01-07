@@ -1,0 +1,7 @@
+# Član 25
+## Primjena načela specijalnosti
+(1) Kad se dozvoli izručenje, lice čije je izručenje dozvoljeno ne može se goniti za drugo, prije izručenja učinjeno krivično djelo, prema tom licu ne može se izvršiti kazna za drugo, prije izručenja učinjeno krivično djelo, niti se to lice može izručiti trećoj državi za krivično djelo učinjeno prije izručenja, bez saglasnosti nadležnog organa Crne Gore.
+(2) Saglasnost iz stava 1 ovog člana nije potrebna ako je lice čije je izručenje dozvoljeno, tokom postupka za izručenje pred sudijom za istragu dalo izjavu da se ne protivi krivičnom gonjenju, izvršenju kazne, primjeni teže kazne ili izručenju trećoj državi za drugo, prije izručenja učinjeno krivično djelo (u daljem tekstu: izjava o odricanju).
+(3) Izjava o odricanju daje se na zapisnik pred nadležnim sudom u skladu sa Zakonikom o krivičnom postupku, na način koji garantuje da je lice čije se izručenje traži tu izjavu dalo dobrovoljno i bilo svjesno njenih posljedica, i ne može se opozvati.
+(4) Ograničenje iz stava 1 ovog člana ili izjava o odricanju navodi se u rješenju kojim se dozvoljava izručenje.
+(5) Ograničenje iz stava 1 ovog člana neće se primijeniti ako izručeno lice, iako je imalo mogućnosti, nije napustilo teritoriju države molilje kojoj je bilo izručeno u roku od 30 dana od dana konačnog puštanja na slobodu ili se, nakon napuštanja, ponovo vratilo na teritoriju države molilje.
