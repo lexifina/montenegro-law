@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 36 stav 1 tačka 2 Statuta Opštine Mojkovac ("Službeni list CG  Opštinski propisi", br. 29/18 i 37/22), člana 19a stav1, člana 21 stav 1 tačka 2 Zakona o regionalnom razvoju ("Službeni list CG", br. 20/11, 26/11, 20/15 i 47/19), Skupština opštine Mojkovac na sjednici održanoj dana 26. decembra 2025. godine, donijela je
+ODLUKU
+o dodjeli finansijske podrške - subvencija privrednim društvima registrovanim za oblast trgovine čije je poslovanje u 2025. godini ugroženo izvođenjem radova na rekonstrukciji gradskog trga
