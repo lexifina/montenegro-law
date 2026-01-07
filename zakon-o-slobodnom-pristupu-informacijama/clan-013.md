@@ -1,0 +1,8 @@
+# Član 13
+## Vodič za pristup informacijama
+Organ vlasti dužan je da sačini, objavi na svojoj internet stranici i redovno ažurira vodič za pristup informacijama u svom posjedu (u daljem tekstu: vodič za pristup informacijama).
+Vodič za pristup informacijama sadrži katalog vrsta dokumenata, javnih registara i javnih evidencija, poštansku adresu i adresu za prijem elektronske pošte za podnošenje zahtjeva, kontakt telefon, podatke o licu zaduženom za obezbjeđivanje primjene ovog zakona u organu vlasti (u daljem tekstu: službenik za pristup informacijama), troškovima pristupa informacijama, informacije o načinu zaštite prava na pristup informacijama, podatke o ponovnoj upotrebi informacija i druge podatke koji su od značaja za ostvarivanje pristupa informacijama koje posjeduje organ vlasti.
+Organ vlasti dužan je da vodič za pristup informacijama ažurira najmanje jednom godišnje, odnosno u roku od 30 dana od dana promjene vrsta informacija u njegovom posjedu i podataka od značaja za pristup informacijama.
+Organ vlasti je dužan da omogući pristup informaciji koju posjeduje, iako vodič za pristup informacijama ne sadrži tu informaciju.
+Organ vlasti dužan je da odredi službenika za pristup informacijama, kao i jedno ili više lica koje će ga zamjenjivati u slučaju njegovog odsustva.
+Službenik za pristup informacijama priprema i objavljuje vodič za pristup informacijama, obezbjeđuje objavljivanje informacija iz člana 14 ovog zakona, postupa i preduzima upravne radnje u postupcima povodom zahtjeva za pristup informacijama i zahtjeva za ponovnu upotrebu informacija, dostavlja podatke u informacioni sistem iz člana 46 ovog zakona, pruža pomoć podnosiocima zahtjeva, sarađuje sa nadležnim organima i obavlja druge poslove u svrhu primjene ovog zakona.

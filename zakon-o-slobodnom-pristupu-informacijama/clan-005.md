@@ -1,0 +1,12 @@
+# Član 5
+## Ponovna upotreba informacija
+Svako domaće i strano fizičko i pravno lice ima pravo na ponovnu upotrebu informacija u skladu sa ovim zakonom.
+Ponovna upotreba informacija, u smislu ovog zakona, je upotreba informacija koje su u posjedu organa vlasti, u komercijalne i nekomercijalne namjene, osim razmjene informacija između organa vlasti za potrebe obavljanja nadležnosti, odnosno djelatnosti od javnog interesa.
+Istraživački podaci koje posjeduju organi vlasti koji sprovode istraživačke aktivnosti biće stavljeni na raspolaganje za ponovnu upotrebu u skladu sa odredbama ovog zakona, kada se finansiraju javnim sredstvima i kada su istraživači, univerziteti ili organizacije koje sprovode istraživačke aktivnosti ili finansiraju istraživanja već učinili te podatke dostupnim javnosti putem institucionalnog ili tematskog repozitorijuma, u skladu sa propisima kojima se uređuje intelektualna svojina.
+Dinamički podaci i skupovi podataka velike vrijednosti biće stavljeni na raspolaganje za ponovnu upotrebu bez naknade, u mašinski čitljivom formatu, putem interfejsa za programiranje aplikacija (API) i, ako je moguće, u obliku koji omogućava masovno preuzimanje.
+Kada bi stavljanje dinamičkih podataka na raspolaganje za ponovnu upotrebu, odmah nakon prikupljanja tih podataka, premašilo finansijske ili tehničke mogućnosti organa vlasti i zahtijevalo nesrazmjeran napor, takvi dinamički podaci će biti stavljeni na raspolaganje za ponovnu upotrebu u vremenskom periodu ili podložni tehničkim vremenskim ograničenjima koja ne nanose neopravdanu štetu ekonomskom i društvenom potencijalu organa vlasti.
+Odredbe ovog zakona koje se odnose na ponovnu upotrebu informacija ne odnose se na sljedeće informacije koje su u posjedu organa vlasti, i to informacije:
+1) za koje postoje zabrane ili ograničenja prava pristupa, u skladu sa odredbama ovog zakona i drugih zakona;
+2) koje su nastale u vršenju poslova iz nadležnosti državnih organa, organa državne uprave, organa lokalne samouprave i organa lokalne uprave u svrhe koje ne spadaju u okvir obavljanja javnih djelatnosti, u skladu sa zakonom;
+3) koje su nastale u vršenju poslova, odnosno djelatnosti drugih pravnih lica čiji je osnivač, suosnivač ili većinski vlasnik država ili lokalna samouprava i koje nastaju van okvira pružanja usluga od javnog interesa i u vezi sa aktivnostima, koje su direktno izložene konkurenciji;
+4) organa koji pružaju usluge javnih medijskih servisa ili obavljaju radio-difuznu djelatnost, kao i njihovih uredništava i dopisništava.

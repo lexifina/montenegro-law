@@ -1,0 +1,6 @@
+# Član 19
+## Test štetnosti i javnog interesa
+Pristup informaciji ili njenom dijelu može se ograničiti ako je to neophodno u demokratskom društvu i ograničiće se u mjeri u kojoj je to proporcionalno cilju koji se štiti, ako se na osnovu brižljive ocjene svih okolnosti u svakom pojedinačnom slučaju utvrdi da bi objelodanjivanje informacije prouzrokovalo ozbiljne i izvjesne štetne posljedice po interese iz člana 17 ovog zakona, a koje su većeg značaja od javnog interesa za objelodanjivanjem informacije, osim ako postoji preovlađujući javni interes iz člana 20 ovog zakona.
+Test štetnosti i javnog interesa sadrži pregled razloga za omogućavanje pristupa informaciji u javnom interesu i razloga za ograničenje pristupa informaciji zbog štetnosti za zaštićene interese, procjenu odnosa tih interesa i zaključak o tome koji je interes prevagnuo i zbog čega.
+Test štetnosti i javnog interesa sprovodi organ vlasti prilikom odlučivanja po zahtjevu za pristup informaciji.
+Prilikom odbijanja zahtjeva za pristup informaciji, organ vlasti mora da obrazloži na koji način bi pristup informaciji mogao ozbiljno i izvjesno štetno uticati na interes iz člana 17 ovog zakona, navede rok trajanja ograničenja pristupa informaciji u skladu sa članom 18 ovog zakona i navede postoje li razlozi za preovlađujući javni interes iz člana 20 ovog zakona.
