@@ -1,0 +1,10 @@
+# Član 3
+U članu 68 stav 1 poslije tačke 38 dodaje se osam novih tačaka koje glase:
+"38a) prodaje pojedinačna pakovanja duvanskih proizvoda koje ne sadrže jedinstvenu identifikaciju (član 52a stav 1);
+38b) jedinstvena identifikacija ne sadrži podatke iz člana 52a stav 3 tač. 1 do 7 (član 52a stav 4);
+38c) kao lice uključeno u promet duvanskih proizvoda od proizvođača do prvog maloprodajnog objekta mijenja ili briše podatke iz člana 52a stav 3 (član 52a stav 6);
+38d) lične podatke do kojih dođu u obavljanju prometa duvanskih proizvoda ne čuvaju u skladu sa zakonom kojim se uređuje zaštita ličnih podataka (član 52a stav 6);
+38e) kao lice uključeno u promet duvanskih proizvoda, od proizvođača do pravnog lica i preduzetnika koji se bavi prometom duvanskih proizvoda na veliko, od koga maloprodajni objekat kupuje duvanski proizvod, ne evidentira na propisan način nabavku svakog pojedinačnog pakovanja, kao i sva kretanja od proizvođača do kupca u maloprodajnom objektu (član 52b st. 1 i 2);
+38f) kao lice uključeno u promet duvanskih proizvoda od proizvođača do pravnog lica koje se bavi prometom duvanskih proizvoda na veliko od koga maloprodajni objekat kupuje duvanski proizvod ne vodi evidenciju o svakom izvršenom prometu duvanskih proizvoda, u skladu sa zakonom (član 52b stav 3);
+38g) kao proizvođač duvanskih proizvoda ne obezbijedi opremu za elektronsko evidentiranje duvanskih proizvoda svim pravnim licima i preduzetnicima uključenim u promet duvanskih proizvoda, od proizvođača do pravnog lica ili preduzetnika koji se bavi prometom duvanskih proizvoda na veliko od koga maloprodajni objekat kupuje duvanski proizvod, uključujući i uvoz, skladištenje i transport duvanskih proizvoda odnosno ne obezbijedi očitavanje i elektronski prenos podataka iz člana 52a ovog zakona pravnom licu sa kojim proizvođač, odnosno uvoznik zaključuje ugovor o čuvanju tih podataka (član 52b st. 4 i 5);
+38h) prodaje pojedinačna pakovanja duvanskih proizvoda koja ne sadrže sigurnosni znak (član 52c stav 1)."
