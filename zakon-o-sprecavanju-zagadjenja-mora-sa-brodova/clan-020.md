@@ -1,0 +1,8 @@
+# Član 20
+Prevoz štetnih materija koje se morem prevoze u upakovanoj formi u vodama Crne Gore, dozvoljen je samo ako su u pogledu pakovanja (ambalaže), etiketiranja (označavanja), obilježavanja i prevoza tih materija ispunjeni uslovi iz Prilog III MARPOL Konvencije, Konvencije o sigurnosti ljudskog života na moru (SOLAS konvencije) i odredbi ovog zakona.
+Štetne materije koje se prevoze morem u upakovanoj formi moraju da budu uskladištene i obezbijeđene tako da se opasnost po morsku sredinu svede na najmanju moguću mjeru bez ugrožavanja sigurnosti broda i lica na brodu.
+Ambalaža u kojoj se prevoze štetne materije treba da bude:
+1) takva da smanji na najmanju moguću mjeru opasnost po morsku životnu sredinu, imajući u vidu njihov specifičan sadržaj;
+2) trajno označena i obilježena tako da je jasno vidljivo da ambalaža sadrži štetnu materiju.
+Prazna ambalaža koja je ranije korišćena za prevoz štetnih materija će se, i nakon pražnjenja tereta tretirati kao štetna materija, osim ako su preduzete odgovarajuće mjere predostrožnosti da ambalaža ne sadrži ostatke, koji su štetni po morsku životnu sredinu.
+Način pakovanja, označavanja, obilježavanja, slaganja i odvajanja tereta, vrstu ambalaže i ograničavanje količine štetnih materija, kao i uslove prevoza štetnih materija u pakovanoj formi u vodama Crne Gore u skladu sa smjernicama i kriterijumima iz Priloga III MARPOL Konvencije i Međunarodnog pomorskog kodeksa za opasni teret (IMDG Code) propisuje Ministarstvo, uz saglasnost organa državne uprave nadležnog za poslove ekologije, organa uprave nadležnog za poslove zaštite i spašavanja i organa uprave nadležnog za poslove zaštite životne sredine.

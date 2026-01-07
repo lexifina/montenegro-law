@@ -1,0 +1,6 @@
+# Član 16
+Zabranjeno je ispuštanje štetnih tečnih materije, balastnih voda, voda od pranja tanka ili drugih mješavina koje sadrže štetne materije u vode Crne Gore, sa brodova bez obzira na državnu pripadnost koji su ovlašćeni prevoziti štetne tečne materije u trupu.
+Ako se tereti prevoze u prostoru za teret tankera za prevoz štetnih materija primijenjuje se odredbe člana 7 ovog zakona.
+Ispuštanja materija iz stava 1 ovog člana, van voda Crne Gore za brodove crnogorske državne pripadnosti dozvoljena su pod uslovima iz pravila 13 Priloga II MARPOL-a, a ispuštaanja u polarnim vodama pod uslovima iz odjeljka 2.1.dijela II-A Polarnog kodeksa.
+Uslove ispuštanja iz stava 3 ovog člana, kao i listu štetnih tečnih materija i materija koje su privremeno ocijenjene kao štetne, kriterijume za njihovu identifikaciju i kategorizaciju u skladu s Prilogom II MARPOL-a propisuje Ministarstvo.
+Ako određena tečna materija u rasutom stanju nije identifikovana i kategorizovana u skladu sa stavom 4 ovog člana, prevoz i ispuštanje takve materije, kao i ispuštanje balastnih voda i voda od ispiranja tankova ili drugih smjesa koje sadrže tu materiju, kao i bilo koje drugo ispuštanje u more takve materije, je zabranjeno.

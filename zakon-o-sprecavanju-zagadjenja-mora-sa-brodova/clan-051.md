@@ -1,0 +1,10 @@
+# Član 51
+Brodovi koji kao metodu upravljanja balastnim vodama koriste izmjenu balastnih voda moraju to da vrše sa najmanje 95 posto volumetričke izmjene balastnih voda.
+Brodovi koji kao metodu upravljanja balastnim vodama koriste izmjenu balastnih voda pumpanjem, smatra se da ispunjavaju uslove iz stava 1 ovog člana, ako je pumpanjem izmijenjen trostruki volumen svakog balastnog tanka.
+Ukoliko je pri izmjeni balastne vode pumpanjem izmijenjeno manje od trostrukog volumena svakog balastnog tanka, ta se izmjena može prihvatiti pod uslovom da brod može dokazati da je izmijenjeno najmanje 95 posto volumena balastnih tankova i ako je to predviđeno Planom upravljanja balastnim vodama.
+Brod koji kao metodu upravljanja balastnim vodama koristi izmjenu balastnih voda, mora uvijek kada je to moguće obavljati izmjenu balastnih voda najmanje 200 nautičkih milja udaljen od najbližeg kopna i u morskim vodama čija dubina iznosi najmanje 200 metara.
+Ukoliko brod ne može da izvrši izmjenu balastnih voda u skladu sa stavom 4 ovog člana, ta se izmjena balastnih voda mora vršiti na najmanje 50 nautičkih milja od najbližeg kopna i u morskim vodama čija je dubina najmanje 200 metara.
+Izuzetno od odredbi st. 4 i 5 ovog člana, brodovi mogu izmjeniti balastne vode i u područjima koja su za to određena u skladu sa odredbama Konvencije i Smjernica za određivanje područja izmjene balastnih voda G14 (IMO rezolucija MEPC.151(55), sa izmijenama i dopunama.
+Organ uprave neće zahtijevati od zapovjednika broda skretanje sa svog planiranog putovanja, odnosno kašnjenje u dolasku broda u luku, kako bi ispunio neki od zahtjeva iz stava 1 ovog člana.
+Organ uprave neće zahtijevati od zapovjednika broda, koji vrši izmjenu balastnih voda da ispuni uslove iz stava 1 ovog člana, ako zapovjednik smatra da bi takva promjena usljed nepovoljnih vremenskih prilika, konstrukcije broda ili pritiska, neispravnosti opreme ili ostalih vanrednih uslova, ugrozila sigurnost ili stabilitet broda, sigurnost njegove posade i/ili putnika.
+Ako zapovjednik broda ne izvrši izmjenu balasnih voda iz razloga navedenih u stavu 3 ovog člana, dužan je da to unese u Knjigu evidencije balasnih voda.

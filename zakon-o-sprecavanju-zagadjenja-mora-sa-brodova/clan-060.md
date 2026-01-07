@@ -1,0 +1,5 @@
+# Član 60
+Pravno lice kojem je luka dodijeljena na korišćenje (u daljem tekstu: Korisnik luke) u kojima se obavlja čišćenje ili popravak balastnih tankova, dužno je osigurati odgovarajuća postrojenja za prihvat taloga uzimajući u obzir Smjernice G1– Smjernice o prihvatnim uređajima za taloge (IMO Rezolucija MEPC.152(55), sa izmijenjenama i dopunjenama.
+Rad postrojenja iz stava 1 ovog člana, ne smije prouzrokovati nepotrebna kašnjenja brodova i mora osigurati uklanjanje tih taloga prilikom kojih se ne narušava niti ugrožava životna sredina, ljudsko zdravlje, imovina ili sredstva, a u skladu zakonom kojim se uređuje zaštita životne sredine.
+Ministarstvo će o svakom nedostatku takvog uređaja obavijestiti Međunarodnu pomorsku organizaciju (IMO).
+Ako postoji opravdana sumnja da zapovjednik ili posada broda ne postupaju ili nijesu upoznati sa procedurama koje se odnose na upravljanje balastnim vodama i talozima, Lučka kapetanija može inicirati sprovođenje inspekcijskog nadzora tog broda dok se brod nalazi u luci ili na sidrištu Crne Gore.

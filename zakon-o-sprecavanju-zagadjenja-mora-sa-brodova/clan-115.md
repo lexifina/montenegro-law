@@ -1,0 +1,5 @@
+# Član 115
+Ako u obavljanju inspekcijskog pregleda inspektor utvrdi da je brod strane državne pripadnosti napravio zagađenje životne sredine ili da su kapacitetni prostori za smještaj brodskog otpada puni, ili uređaji neispravni, zabraniće brodu isplovljenje iz luke dok se ti nedostaci ne otklone.
+Ako u obavljanju inspekcijskog pregleda inspektor utvrdi da brod strane državne pripadnosti nema važeću brodsku ispravu kojom se dokazuje ispravnost brodskih uređaja za ukrcavanje i iskrcavanje tereta, ili ako se utvrdi da stanje tih uređaja nije u skladu sa podacima iz predmetne brodske isprave, zabraniće brodu ukrcavanje i iskrcavanje tereta brodskom opremom.
+Ako u obavljanju inspekcijskog pregleda inspektor utvrdi nedostatke iz stava 1 ili stava 2 ovog člana, o utvrđenom stanju i preduzetim mjerama obavještava putem diplomatskih tijela nadležno tijelo države zastave broda, kao i IMO.
+Pored mjera iz st. 1, 2 i 3 ovog člana mogu se preduzeti druge mjere predviđene Pariškim memorandumom o razumijevanju o kontroli države luke.

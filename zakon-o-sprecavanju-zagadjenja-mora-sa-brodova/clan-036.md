@@ -1,0 +1,2 @@
+# Član 36
+Minstarstvo obavještava IMO o svojoj odluci o zabrani uplovljavanja za tankere za ulje, koji plove u skladu sa Pravilom 20.5 Priloga I Konvencije MARPOL, u luke ili terminale na moru pod njenom nadležnošću na osnovu Pravila 20.8.2 Priloga I Konvencije MARPOL. Ministarstvo obavještava IMO ako dozvoli, suspenduje, opozove ili ukloni iz upotrebe tankere za ulje kategorije 1 ili 2 koji imaju pravo plovidbe pod cnogorskom zastavom u skladu sa članom 34 ovog zakona, na osnovu Pravila 20.8.1 Priloga I Konvencije MARPOL.

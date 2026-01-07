@@ -1,0 +1,2 @@
+# Član 15
+Instalacije za proizvodnju ugljovodonika koje se nalaze u vodama Crne Gore (fiksne plaftorme) uključujući platforme za bušenje, plutajuće jedinice za proizvodnju, skladištenje i istovar ulja na moru i plutajuće skladišne jedinice koje se koriste za skladištenje proizvedenog ulja na moru, kada obavljaju istraživanje, iskorištavanje i sa njima povezane postupke sa minaralnim izvorima sa morskog dna i druge platforme moraju ispunjavati zahtjeve iz Pravila 39 (2) MARPOL Priloga I. IV. SPREČAVANJE ZAGAĐENJA MORA ŠTETNIM TEČNIM MATERIJAMA KOJE SE PREVOZE U RASUTOM STANJU

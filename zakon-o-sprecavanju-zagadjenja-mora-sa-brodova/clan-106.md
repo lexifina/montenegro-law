@@ -1,0 +1,2 @@
+# Član 106
+Ministarstvo može odobriti zbrinjavanje broda u mjestu skloništa zbog više sile ili nezgode na moru koja ugrožava sigurnost broda, ili da bi se umanjila opasnost od zagađenja mora, odnosno ispravili nastali nedostaci, pod uslovom da su zapovjednik broda, kompanija, brodar, odnosno vlasnik broda preduzeli odgovarajuće mjere prema planu zbrinjavanja broda kojeg donosi Organ uprave a kojim se obezbjeđuje sigurno uplovljenje broda.

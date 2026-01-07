@@ -1,0 +1,4 @@
+# Član 118
+Ukoliko se prilikom osnovnog inspekcijskog pregleda broda utvrde nedostaci u primjeni Međunarodne konvencije o nadzoru štetnih sistema protiv obrastanja brodova inspektor usmenim putem obavještava zapovjednika broda o očiglednim razlozima za dalje vršenje detaljnog inspekcijskog pregleda.
+Inspekcijski pregled broda iz stava 1 ovog člana vrši se u skladu sa odredbama zakona o sigurnosti pomorske plovidbe i pripadajućim podzakonskim aktima.
+Ako se prilikom detaljnog inspekcijskog pregleda utvrde nedostaci kojima se krše odredbe Međunarodne konvencije o nadzoru štetnih sistema protiv obrastanja brodova, inspektor može preduzeti korake da upozori, zadrži ili naredi isplovljenje broda iz luke, kao i da odmah obavijesti pomorsku administraciju države zastave broda o utvrđenim nedostacima na brodu i preduzetim mjerama nad tim brodom.

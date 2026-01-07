@@ -1,0 +1,21 @@
+# Član 101
+Inspekcijski poslovi koji se odnose na obavljanje nadzora nad sprovođenjem odredaba ovoga zakona obuhvataju obavljanje inspekcijskog nadzora nad:
+- vrši pregled brodskih isprava i knjiga propisanih ovim zakonom i međunarodnim konvencijama;
+- vrši pregled opreme, sredstava i uređaja na brodu i u luci koji mogu izazvati zagađenje mora i vazduha;
+- vrši pregled broda za koji se sumnja da je ispustio ulje i/ili brodski otpad;
+- vrši pregled broda za kojeg se sumnja da je ispustio štetne tečne materije, materije koje su privremeno ocijenjene kao štetne tečne materije, balastne vode i vode od ispiranja tankova ili drugih smješa koje sadrže štetne tečne materije;
+- vrši pregled broda za kojeg se sumnja da je ispustio štetne materije koje se prevoze morem u upakovanoj formi;
+- vrši pregled broda za kojeg se sumnja da je ispustio otpadne vode;
+- vrši pregled opreme broda za kojeg se sumnja da je emitovao azotne okside (NOx), okside sumpora (SOx), supstance koje oštećuju ozonski omotač i čestice koje doprinose zagađenju vazduha;
+- naloži pravnom licu sakupljanje, kontrolu, analizu i dalju obradu uzoraka, radi utvrđivanja sadržaja sumpora u tečnom gorivu;
+- vrši pregled izjave o usklađenosti u pogledu emisije CO2 na brodovima crnogorske i strane državne pripadnosti;
+- vrši pregled brodskih spaljivača;
+- prima izvještaje sa brodova koji plove ka luci Crne Gore o brodskim kapacitetima i količini: uljnih ostataka-taloga, ostataka ulja i zauljenih mješavina, kaljužnih voda, smeća, otpadnih voda i taloga iz balastnih tankova, kao i datum i mjesto njihovog posljednjeg ispuštanja, odnosno predaje;
+- vrši pregled popisa štetnih materijala na brodu, uključujući svjedočanstvo o popisu štetnih materijala ili svjedočanstvo o spremnosti broda za recikliranje, onamo gdje je to primjenljivo;
+- vrši pregled upravljanja balasnim vodama na brodu i nalaže pravnom licu uzorkovanje, kontrolu, analizu i dalju obradu uzoraka balastnih voda;
+- zabrani iskrcaj balastnih voda u luci do završetka analize balastnih voda;
+- vrši pregled olupine;
+- utvrdi postojanje zagađenja, štetu od zagađenja i/ili propust u primjeni zaštitnih mjera, kao i identifikaciju počinioca koji je svojom aktivnošću prouzrokovao štetu od zagađenja;
+- ograniči ili preusmjeri kretanje broda koji učestvuje u nezgodi radi sprečavanja neposredne opasnosti od zagađenja i sigurnosti drugih brodova, posade i putnika;
+- službeno obavijesti zapovjednika broda da otkloni prijetnju po zagađenje okoline;
+- naredi brodu isporuku brodskog otpada prije isplovljavanja iz luke, a ako ne izvrši isporuku može mu zabraniti isplovljavanje iz luke.

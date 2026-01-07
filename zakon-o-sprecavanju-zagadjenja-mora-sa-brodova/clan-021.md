@@ -1,0 +1,4 @@
+# Član 21
+Zabranjeno je izbacivanje štetnih materija koje se prevoze morem u upakovanoj formi u vode Crne Gore, osim ako je ispuštanje potrebno radi očuvanja sigurnosti broda ili sigurnosti ljudskih života na moru.
+Ispiranje iscurjele tečnosti van broda koji prevozi štetne materije u upakovanoj formi dozvoljeno je u skladu sa odgovarajućim mjerama zasnovanim na fizičkim, hemijskim i biološkim svojstvima štetnih materija, pod uslovom da se sprovođenjem tih mjera ne ugrožava sigurnost broda i lica na brodu.
+Mjere iz stava 2 ovog člana, kao i listu štetnih materija koje se prevoze morem u upakovanoj formi i kriterijume za njihovu identifikaciju i kategorizaciju u skladu sa smjernicama i kriterijumima iz Priloga III MARPOL Konvencije i Međunarodnog pomorskog kodeksa za opasni teret (IMDG Code) propisuje Ministarstvo. VI. SPREČAVANJE ZAGAĐENJA MORA SANITARNIM OTPADNIM VODAMA

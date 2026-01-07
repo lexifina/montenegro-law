@@ -1,0 +1,11 @@
+# Član 7
+Zabranjeno je u vode Crne Gore ispuštanje ulja, zauljenih mješavina i drugih štetnih materija koje sadrže ulje sa svih brodova, bez obzira na državnu pripadnost, koji plove ili se nalaze u vodama i/ili lukama i sidrištima Crne Gore ili koji pristaju uz odobalne objekte koji se nalaze u vodama Crne Gore.
+Zabranjeno je svako ispuštanje u more ulja ili mješavine ulja iz teretnog prostora tankera crnogorske državne pripadnosti od 150 BT ili veće van voda Crne Gore na putovanjima u posebnim područjima.
+Zabrana iz stava 2 ovog člana, ne primjenjuje se na ispuštanje čistog balasta i balasta iz tankova razdvojenih od tankova tereta i ulja.
+Ostaci zauljenih i kaljužnih voda čije je ispuštanje zabranjeno u skladu sa Pravilom 15 Priloga I MARPOL moraju se zadržati na brodu za kasnije ispuštanje u prihvatne lučke uređaje.
+Ispuštanja ulja ili uljnih mješavina iz brodskog mašinskog prostora dozvoljeno je brodovima crnogorske državne pripadnosti od 400 BT i veće na putovanjima u posebnim područjima ako su ispunjeni zahtjevi iz Pravila 15 B MARPOL i za brodove manje od 400 BT na putovanjim u svim područjima u skladu sa Pravilom 15C MARPOL.
+Ispuštanja ulja ili uljnih mješavina sa brodova crnogorske državne pripadnosti od 400 BT i veće iz brodskog mašinskog prostora na putovanjima van posebnih područja dozvoljeno je kada su ispunjeni uslovi iz Pravila 15 A MARPOL.
+Svako ispuštanje u more ulja ili mješavine ulja iz teretnog prostora tankera crnogorske državne pripadnosti od 150 bruto tonaže ili veće van voda Crne Gore na putovanjima van posebnih područja dozvoljeno je pod uslovima iz Pravila 34. A MARPOL.
+Ispuštanja ulja iz teretnog prostora za tankere tonaže manje od 150 BT dozvoljeno je u skladu sa Pravilom 34.C MARPOL-a.
+Za brodove crnogorske državne pripadnosti koji rade u polarnim vodama ispuštanja ulja dozvoljeno je pod uslovima iz odjeljka 1.1.1. dijela II-A Međunarodnog kodeksa za brodove koje plove polarnim vodama (Polarni kodeks).
+Uslove ispuštanju u skladu sa MARPOL pravilima kao i spisak ulja koja mogu dovesti do zagađenja mora sa brodova i njihovu identifikaciju i kategorizaciju u skladu sa smjernicama i kriterijumima iz Priloga I MARPOL konvencije propisuje Ministarstvo.

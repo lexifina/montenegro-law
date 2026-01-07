@@ -1,0 +1,7 @@
+# Član 73
+Svaki brod bez obzira na državnu pripadnost, koji uplovljava u vode Crne Gore, treba da ima Plan za hitno reagovanje u slučaju zagađenja uljem.
+Operator, odnosno vlasnik instalacije za proizvodnju ugljovodonika, treba da ima plan mjera za sprečavanje širenja, odnosno smanjenje posljedica velike nesreće povezane sa istraživanjem i proizvodnjom ugljovodonika (u daljem tekstu: interni plan reagovanja na vanredni događaj).
+Operator, odnosno vlasnik instalacije za proizvodnju ugljovodonika, dužan je da izradi i dostavi Organu uprave na mišljenje interni plan reagovanja na vanredni događaj, najkasnije 45 dana prije planiranog početka operacija bušenja.
+Operator, odnosno vlasnik instalacije za proizvodnju ugljovodonika, dužan je da interni plan reagovanja na vanredni događaj uskladi sa nacionalnim planom za hitne intervencije, koji se primjenjuje u postupku reagovanja u slučaju zagađenja uljem sa plovnih objekata i instalacija za proizvodnju ugljovodonika u vodama Crne Gore (u daljem tekstu: Plan za hitne intervencije).
+Korisnik luke, na čijem lučkom području se vrše usluge ukrcaja, iskrcaja ili snadbijevanja brodova uljem, dužan je da obezbijedi i primjenjuje preventivne mjere zaštite od zagađenja uljem i da reaguje u slučaju zagađenja uljem u skladu sa planom za hitno reagovanje u slučaju zagađenja luke uljem.
+Plan za hitno reagovanje u slučaju zagađenja luke uljem, izrađuje korisnik luke a odobrava Organ uprave.

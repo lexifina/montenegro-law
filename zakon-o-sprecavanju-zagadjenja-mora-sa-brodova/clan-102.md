@@ -1,0 +1,2 @@
+# Član 102
+Način vršenja inspekcijskog pregleda inspektora, utvrđivanje prioriteta inspekcijskog pregleda, postupak i vrste inspekcijskih pregleda, utvrđivanje nedostataka, sačinjavanje zapisnika, zabrana uplovljenja, isplovljenja i/ili obavljanja trgovačkih operacija, kao i uslovno oslobađanje stranih brodova koji ugrožavaju ili mogu ugroziti životnu sredinu, utvrđuje se propisom kojima se uređuje sigurnost pomorske plovidbe.
