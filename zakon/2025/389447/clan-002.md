@@ -1,0 +1,4 @@
+# Član 2
+U članu 17 stav 1 poslije tačke 69 tačka se zamjenjuje tačka-zarezom i dodaju se dvije nove tačke koje glase:
+"69a) Evropsko nadzorno tijelo za hartije od vrijednosti i tržište kapitala (ESMA), osnovano Regulativom (EU) br. 1095/2010 Evropskog parlamenta i Savjeta, je nezavisno tijelo Evropske unije čija je svrha poboljšanje zaštite investitora i promocija stabilnih i uređenih finansijskih tržišta.
+69b) Evropska jedinstvena pristupna tačka (ESAP) je uspostavljena u skladu sa Regulativom (EU) br. 2023/2859 Evropskog parlamenta i Savjeta kako bi se javnosti omogućio jednostavan centralizovan pristup informacijama o subjektima i njihovim proizvodima koje su od važnosti za finansijske usluge, tržišta kapitala i održivost, a koje tijela i subjekti moraju objavljivati u skladu sa zakonodavnim aktima Evropske unije u tim oblastima;".
