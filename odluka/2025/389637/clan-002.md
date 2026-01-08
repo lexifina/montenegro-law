@@ -1,0 +1,3 @@
+# Član 2
+Obavezuje se "Crnogorski elekotrodistributivni sistem" d.o.o. Podgorica da Opštini Bar plati naknadu za zasnivanje stvarne službenosti u odnosu na zemljište iz člana 1 ove Odluke, u ukupnom iznosu od 3.611,00 €, a prednje u roku od 8 (slovima:osam) dana od dana zaključenja ugovora.
+Naknada iz prethodnog stava odgovara iznosu od 15 % procijenjene tržišne vrijednosti zemljišta u skladu sa Izvještajem o procjeni vrijednosti nepokretne imovine, sačinjenim od strane Komisije za procjenu vrijednosti nepokretnosti za južni region Uprave za nekretnine Crne Gore, protokolisanog kod Opštine Bar pod brojem: 04-427/25-2580 od dana, 4. 12. 2025. godine.
