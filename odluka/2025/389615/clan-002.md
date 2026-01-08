@@ -1,0 +1,3 @@
+# Član 2
+Početna cijena građevinskog zemljišta iz člana 1 stav 1 alineja 1 ove odluke, iznosi 64.416,00 eura u skladu sa Izvještajem o procjeni vrijednosti nekretnine ovlašćenog procjenjivača, dipl. ekonomiste Šupić Milana iz Podgorice, protokolisanog kod Opštine Bar pod brojem: 04-427/25- 1453 od 11. 6. 2025. godine.
+Početna cijena građevinskog zemljišta iz člana 1 stav 1 alineja 2 ove odluke, iznosi 49.875,00 eura u skladu sa Izvještajem o procjeni vrijednosti nekretnine ovlašćenog procjenjivača, dipl. ekonomiste Šupić Milana iz Podgorice, protokolisanog kod Opštine Bar pod brojem: 04-427/25- 1454 od 11. 6. 2025. godine.
