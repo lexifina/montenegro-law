@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 7 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18 , 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 28 Zakona o finansiranju lokalne samouprave (,,Sl.list CG", br. 3/19, 05/24, 07/24 i 92/25 ), člana 33 i 34 Zakona o budžetu i fiskalnoj odgovornosti (,,Sl.list CG", br. 20/14, 56/14, 70/17, 4/18 i 55/18, 66/19,70/21,145/21,27/23, 123/23, 125/23 i 11/25) i člana 35 stav 1 tačka 7 Statuta Opštine ,,Sl.list CG-opštinski propisi",br. 31/18, Skupština opštine Šavnik, na sjednici održanoj 26. 12. 2025. godine, donijela je
+ODLUKU
+o Budžetu Opštine Šavnik za 2026. godinu
