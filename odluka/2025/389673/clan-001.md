@@ -1,0 +1,3 @@
+# Član 1
+Opština Šavnik, daje saglasnost kompaniji "Sunrise Europe" d.o.o Kotor, za zasnivanje stvarne službenosti na dijelu:
+- katastarske parcele broj: 2518, lokalni put, u površini od 182 m2, katastarske parcele broj 2519, nekategorisani put, u površini od 3284 m2, katastarske parcele broj 2521, nekategorisani put, u površini od 654 m2 i katastarske parcele broj 2532, nekategorisani put, u površini od 155 m2, koje se upisane u listu nepokretnosti broj 76 KO Dubrovsko, kao svojina Država Crne Gore, sa pravom raspolaganja Opštine Šavnik, radi prelaska priključnog 110kV dalekovoda i polaganja/ukopavanja u trupu saobraćajnice kablovske infrastrukture, u skladu sa ovjerenim geodetskim elaboratom izrađenim od strane "GEOGRID" d.o.o. Tivat.
