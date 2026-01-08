@@ -1,0 +1,2 @@
+Na osnovu člana 35 stav 1 tačka 4 Statuta Opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 31/18, 21/23 i 42/25 i "Službeni list CG", broj 62/25), člana 14 stav 1 alineja 5 Odluke o osnivanju Društva sa ograničenom odgovornošću "Autobuska Stanica" Nikšić ("Službeni list CG - Opštinski propisi", broj 30/22), Skupština opštine Nikšić, na sjednici održanoj 29. 12. 2025. godine, donijela je
+ODLUKU
