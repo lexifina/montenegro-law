@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 1 Zakona o svojinsko pravnim odnosima ("Službeni list CG", br. 19/09 i 29/25), člana 34 stav 1 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11 i 23/25) člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG’’, br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), i člana 34 stav 1 tačka 2 Statuta Opštine Zeta ("Službeni list CG - Opštinski propisi", broj 12/23), Skupština opštine Zeta, na XXIV sjednici održanoj dana 25. 12. 2025. godine, donijela je
+ODLUKU
