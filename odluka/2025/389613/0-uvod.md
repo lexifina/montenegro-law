@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 14 a u vezi člana 27 stav 1 tačka 15 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i098/25), članova 89 i 90 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list CG", br. 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/21, 145/21, 3/23, 48/24, 84/24 i 33/25) i člana 43 stav 1 tačka 14 Statuta opštine Bar ("Službeni list CG - Opštinski propisi", br. 37/18) Skupština opštine Bar, na sjednici održanoj 29. 12. 2025. godine, donijela je
+ODLUKU
+o osnivanju JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Barsko sunce"

@@ -1,0 +1,2 @@
+# Član 5
+Djelatnost JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Barsko sunce" je pružanje usluga dnevnog boravka, socijalizacije, njege, psihosocijalne i medicinske rehabilitacije, osposobljavanje za samostalnost u aktivnostima dnevnog života, slobodnih aktivnosti, podrške roditeljima, kao i strukturisane aktivnosti usmjerene na podsticanje učenja, ponašanja i razvoja ključnih životnih vještina kod djece i mladih sa smetnjama i teškoćama u razvoju.
