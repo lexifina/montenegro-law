@@ -1,0 +1,2 @@
+Na osnovu člana 30 stav 2 i 3 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", br. 3/19, 86/22, 5/24, 7/24 i 92/25), člana 37 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore", br. 20/14, 56/14, 70/17, 4/18, 55/18, 66/19, 70/21, 145/21, 27/23, 123/23, 125/23 i 11/25), člana 59 stav 1 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 73 stav 1 Statuta Opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 9/20), predsjednik Opštine Tivat donosi
+ODLUKU
