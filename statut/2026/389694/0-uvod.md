@@ -1,0 +1,2 @@
+Na osnovu člana 110, 111 i 122 stav 1 i 4 Zakona o uređenju prostora ("Službeni list Crne Gore" br. 019/25, 028/25 i 049/25), i člana 114 stav 2 Zakona o izgradnji objekata ("Službeni list Crne Gore", br. 019/25, 092/25), uz prethodno pribavljenu saglasnost Ministarstva prostornog planiranja, urbanizma i državne imovine, Skupština Komore arhitekata i planera Crne Gore je na sjednici održanoj 22.12.2025. godine donijela
+S TAT U T KOMORE ARHITEKATA I PLANERA CRNE GORE
