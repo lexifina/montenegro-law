@@ -1,0 +1,3 @@
+Na osnovu članova 9, 39 i 40 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11 i 23/25), člana 44 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", broj 2/19), člana 38 stav 1 tačke 2 i 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22 85/22, 81/25 i 98/25) i člana 30 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list CG", broj 44/10) Skupština opštine Budva, na sjednici održanoj 31. decembra 2025. godine, donijela je
+ODLUKU
+o utvrđivanju kriterijuma, uslova i postupka za davanje u zakup privremenih lokacija na teritoriji Opštine Budva
