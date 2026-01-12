@@ -1,0 +1,2 @@
+Na osnovu članom 26 stav 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 74/16, 2/18 i 66/19), člana 43 stav 1 alineja 5 Statuta DOO,,Komunalno" Budva (,,Službeni list Crne Gore - Opštinski propisi", br. 38/13 i 39/23) i člana 44 stav 1 tačka 58 Statuta Opštine Budva ("Službeni list Crne Gore - Opštinski propisi", broj 2/19), Skupština opštine Budva, na sjednici održanoj 31. decembra 2025. godine, donijela je
+ODLUKU
