@@ -1,0 +1,2 @@
+# Član 2
+Osnovica za obračun godišnjih naknada koje plaćaju imaoci licenci za obavljanje energetskih djelatnosti i imaoci statusa zatvorenog distributivnog sistema električne energije u 2026. godini, iznosi 1.318.160,70€, a dobijena je kao razlika prihoda od naknada za korišćenje licenci, utvrđenog Finansijskim planom za 2026. godinu u iznosu od 1.983.049,00€, i sredstava koja po isteku 2025. godine preostaju na računu Agencije, nakon izmirenja obaveza, u iznosu od 664.888,30€.
