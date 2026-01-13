@@ -1,0 +1,2 @@
+Na osnovu člana 4 stav 2, člana 9 stav 3, člana 10 stav 3, člana 14 stav 6, člana 15 stav 4, člana 16 stav 2, člana 19 stav 3, člana 21 stav 4, člana 22 stav 6 i člana 36 stav 2 Zakona o sadnom materijalu ("Službeni list CG", br. 28/06, 61/11 i 48/15), Ministarstvo poljoprivrede šumarstva i vodoprivrede, donijelo je
+PRAVILNIK O IZMJENI PRAVILNIKA O PROIZVODNJI I STAVLJANJU U PROMET SADNOG MATERIJALA VINOVE LOZE*
