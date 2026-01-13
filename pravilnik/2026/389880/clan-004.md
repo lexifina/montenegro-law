@@ -1,0 +1,3 @@
+# Član 4
+Oglašavanje na spoljnim dijelovima objekta za igre na sreću može obuhvatati naziv priređivača igara na sreću, logo - zaštitni znak priređivača igara na sreću i naziv objekta u kojem se obavlja djelatnost priređivanja igara na sreću (kazino, kladionica, automat klub, lutrija).
+Naziv priređivača igara na sreću, logo - zaštitni znak priređivača igara na sreću i naziv objekta u kojem se obavlja djelatnost priređivanja igara na sreću ne treba da bude oblikovan tako da sadrži bilo kakve dodatne promotivne poruke koje pozivaju na igru i igranje igara na sreću, uključujući riječi, simbole ili grafičke elemente koji ukazuju na dobitak, sreću, igru ili druge slične motive.
