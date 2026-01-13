@@ -1,0 +1,4 @@
+# Član 5
+Rješenje o iznosu dodatka na zaradu zaposlenog, na mjesečnom nivou donosi lice određeno Zakonom, uz prethodno pribavljenu saglasnost Nacionalnog službenika za ovjeravanje.
+Nacionalni službenik za ovjeravanje provjerava i vrši analizu opravdanosti Zahtjeva kojim se dostavlja predlog dodatka na zaradu od strane rukovodilaca institucija nadležnih za poslove programiranja i implementacije pretpristupnih fondova kroz indirektno, direktno i podijeljeno upravljanje projektima koji se finansiraju iz fondova instrumenta pretpristupne podrške (IPA).
+Nacionalni službenik za ovjeravanje donosi Instrukcije o primjeni ove odluke, kojima se definiše i metodologija predlaganja visine dodatka, komunikacije nadležnih strana u procesu i ocjene opravdanosti dostavljenih zahtjeva sa predlogom dodataka iz člana 4 stav 2 ove odluke.

@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom utvrđuju se radna mjesta, način ostvarivanja prava i iznos dodatka na osnovnu zaradu za državne službenike koji obavljaju poslove programiranja, implementacije, nadgledanja, kontrole i revizije pretpristupnih fondova kroz indirektno, direktno i podijeljeno upravljanje projektima koji se finansiraju iz fondova instrumenta pretpristupne podrške (IPA) (u daljem tekstu: dodatak na zaradu) u organima državne uprave.

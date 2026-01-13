@@ -1,0 +1,2 @@
+# Član 6
+Podnošenje zahtjeva, analiza zahtjeva i izdavanje saglasnosti ili odbijanje zahtjeva kao i realizacija isplate sredstava po osnovu dodatka o zaradi za poslove programiranja, implementacije, kontrole i revizije pretpristupnih fondova kroz indirektno, direktno i podijeljeno upravljanje projektima koji se finansiraju iz fondova instrumenta pretpristupne podrške (IPA) vrši se na mjesečnom nivou, u svim mjesecima kalendarske godine u skladu sa rokovima propisanim Instrukcijama o primjeni ove odluke.
