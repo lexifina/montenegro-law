@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o bližim uslovima za ostvarivanje osnovnih materijalnih davanja iz socijalne i dječje zaštite i medicinskim indikacijama za ostvarivanje prava na materijalno obezbjeđenje, dodatka za njegu i pomoć, ličnu invalidninu i naknadu zarade za rad sa polovinom punog radnog vremena ("Službeni list CG", broj 150/25) u članu 8 poslije stava 9 dodaje se novi stav koji glasi:
+"Prihodi pojedinca, odnosno člana porodice ostvareni tokom trajanja uključenosti pojedinca, odnosno člana porodice u programe aktivne politike zapošljavanja, uključujući i programe koji podrazumijevaju zasnivanje radnog odnosa, a realizuju se posredstvom Zavoda, u trajanju do 12 mjeseci, ne smatraju se prihodima u postupku ostvarivanja prava na materijalno obezbjeđenje."
