@@ -1,0 +1,8 @@
+# Član 28
+## Uslovi za vaspitno-stručni kadar
+Vaspitač može biti lice koje je završilo dvogodišnji studijski program predškolskog vaspitanja i obrazovanja, odnosno VI nivo okvira kvalifikacija (180 kredita CSPK-a) ili VII nivo okvira kvalifikacija, podnivo jedan (240, odnosno 300 kredita CSPK-a) za predškolsko vaspitanje i obrazovanje.
+Nastavnik engleskog jezika može biti lice koje ima VII nivo okvira kvalifikacija, podnivo jedan (240, odnosno 300 kredita CSPK-a) ili nastavnik engleskog jezika koji je završio dvogodišnji studijski program engleskog jezika.
+Stručni saradnik može biti lice koje ima VI nivo okvira kvalifikacija (180 kredita CSPK-a) odgovarajućeg profila (pedagog, defektolog-logoped, socijalni radnik nutricionista, bibliotekar i dr.) ili VII nivo okvira kvalifikacija, podnivo jedan (240, odnosno 300 kredita CSPK-a) odgovarajućeg profila (psiholog, pedagog, defektolog-logoped, socijalni radnik, nutricionista, bibliotekar i dr.)
+Medicinska sestra na prijemu djece, medicinska sestra, odnosno zdravstveni tehničar može biti lice koje ima najmanje IV nivo okvira kvalifikacija, podnivo jedan (najmanje 240 kredita CSPK-a).
+Asistent za rani razvoj može biti lice koje ima najmanje IV nivo okvira kvalifikacija, podnivo jedan (najmanje 240 kredita CSPK-a) i odgovarajuću nacionalnu stručnu kvalifikaciju.
+Vaspitač, nastavnik, stručni saradnik, medicinska sestra, zdravstveni tehničar, medicinska sestra na prijemu djece i asistent za rani razvoj imaju obavezu kontinuiranog stručnog usavršavanja u oblasti pedagoških, zdravstveno-higijenskih i bezbjednosnih standarda, naročito u oblasti ishrane djece, prevencije zaraznih bolesti, fizičkog i mentalnog razvoja i zaštite djece od nasilja.

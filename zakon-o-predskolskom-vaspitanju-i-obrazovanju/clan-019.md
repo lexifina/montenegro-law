@@ -1,0 +1,4 @@
+# Član 19
+## Godišnji program rada
+Ustanova donosi godišnji program rada, do 30. septembra.
+Godišnjim programom rada ustanove bliže se utvrđuju: organizacija rada i materijalno-tehnički uslovi za rad, oblici, sadržaji i raspored aktivnosti vaspitno-obrazovnog rada, vrste obrazovnih programa, način vršenja samoevaluacije, stručno usavršavanje zaposlenih, druga djelatnost ustanove, obim i način usvajanja higijenskih navika i brige za zdravlje kod djece, projekti koji se realizuju u ustanovi, oblici, sadržaj rada i raspored izvršavanja planiranih zadataka (direktora, upravnog odbora, stručnih organa, savjeta roditelja, stručnih saradnika i ostalih zaposlenih), podaci o timovima, komisijama i drugim radnim tijelima, edukacija roditelja u vezi sa obaveznom vakcinacijom djece u skladu sa preporukama Instituta za javno zdravlje, načini i oblici saradnje sa roditeljima, jedinicom lokalne samouprave, organima, organizacijama i drugo.
