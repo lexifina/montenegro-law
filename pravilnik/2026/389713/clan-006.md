@@ -1,0 +1,2 @@
+# Član 6
+U članu 23 stav 1 riječi: "prilaže potvrdu organa državne uprave nadležnog za oblast za koju se realizuje projekat, da odnosni proizvodi i usluge ispunjavaju uslove za oslobađanje od plaćanja PDV" zamjenjuju se riječima: "podnosi zahtjev za oslobađanje organu državne uprave nadležnog za oblast za koju se realizuje projekat zajedno sa predračunom ili računom za odnosne proizvode i usluge".
