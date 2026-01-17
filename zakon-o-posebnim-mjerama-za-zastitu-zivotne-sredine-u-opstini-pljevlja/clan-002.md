@@ -1,0 +1,3 @@
+# Član 2
+Fond za zaštitu životne sredine (u daljem tekstu: Eko fond) koji po osnovu taksi za isporučene emisije štetnih gasova u vazduh ostvaruje prihode od privrednih subjekata koji djelatnost obavljaju na teritoriji opštine Pljevlja, dužan je da najmanje 60% iznosa sredstava prikupljenih na godišnjem nivou po tom osnovu, realizuje za ekološke projekte na teritoriji opštine Pljevlja u oblastima zaštite i unaprijeđenja životne sredine i podsticaja izgradnje obnovljivih izvora energije.
+Nadležni državni organ koji Eko fondu daje saglasnost na plan realizacije projekata, odnosno vrši nadzor nad poslovanjem dužan je da postupi i prati implementaciju u skladu sa stavom 1 ovog člana.

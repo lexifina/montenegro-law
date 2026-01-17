@@ -1,0 +1,2 @@
+# Član 6
+Ministarstvo nadležno za poslove prosvjete dužno je da u skladu sa Strategijom reforme obrazovanja 2025-2035, strateškim ciljem 4 i mjerom 4.1.7, u projekat uključi i objekat/objekte koji se nalaze na ruralnom području opštine Pljevlja u kojima se ne realizuje vaspitno-obrazovni proces, sa ciljem stavljanja u funkciju za organizaciju škole u prirodi, edukativne, kulturne i turističke svrhe.
