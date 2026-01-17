@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim zakonom uređuju se zaštita i promocija jednakosti radi stvaranja uslova za ostvarivanje jednakih mogućnosti i zaštita od diskriminacije po osnovu rasnog ili etničkog porijekla, boje kože, nacionalne ili društvene pripadnosti, jezika, vjere ili uvjerenja, političkog ili drugog mišljenja, pola ili prilagođavanja pola i/ili polnih karakteristika, roda ili rodnog identiteta, seksualne orijentacije, genetskih svojstava, zdravstvenog stanja, invalidnosti, starosne dobi, imovnog stanja, bračnog ili porodičnog stanja, životnog partnerstva, pripadnosti grupi, političkoj partiji ili drugoj organizaciji, kao i drugih ličnih svojstava.

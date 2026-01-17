@@ -1,0 +1,3 @@
+# Član 15
+## Govor mržnje
+Govor mržnje podrazumijeva upotrebu jednog ili više posebnih oblika izražavanja - zagovaranje, promociju ili podsticanje ocrnjivanja, mržnje ili klevetanja lica ili grupe lica, kao i svako uznemiravanje, uvredu, negativnu stereotipizaciju, stigmatizaciju ili prijetnju licu ili grupi lica po nekom od osnova iz člana 1 ovog zakona i svako opravdavanje svih ovih oblika izražavanja mržnje i netrpeljivosti, ksenofobiju, homofobiju, transfobiju, rasnu mržnju, antisemitizam ili ostale oblike izražavanja mržnje zasnovane na netoleranciji, uključujući i netoleranciju izraženu u formi nacionalizma, diskriminacije i neprijateljstva protiv pripadnika manjinskih naroda i drugih manjinskih nacionalnih zajednica.
