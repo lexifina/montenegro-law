@@ -1,0 +1,3 @@
+# Član 2
+U članu 73 stav 1 poslije tačke 2 dodaje se nova tačka koja glasi:
+"2a) pruža besplatne informacije o propisima koji regulišu zaštitu prava radnika državljana država članica Evropske unije, Evropskog ekonomskog prostora i Švajcarske Konfederacije, kao i članova njihovih porodica u Crnoj Gori, kao i besplatne informacije o pravima crnogorskih državljana koji traže zaposlenje i koji se zapošljavaju u državama članicama Evropske unije, Evropskog ekonomskog prostora i Švajcarskoj Konfederaciji, i redovno razmjenjuje ove informacije sa Zaštitnikom ljudskih prava i sloboda i drugim sličnim tijelima u Evropskoj uniji putem EURES mreže;".

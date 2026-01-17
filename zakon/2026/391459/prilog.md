@@ -1,0 +1,2 @@
+_________________
+*U ovaj zakon prenesene su odredbe Uredbe (EU) br. 492/2011 Evropskog parlamenta i Savjeta o slobodi kretanja radnika u Uniji, Direktive 2004/38/EZ Evropskog parlamenta i Savjeta o pravu građana Unije i članova njihovih porodica na slobodno kretanje i boravište na području države članice i Direktive 2014/54/EU Evropskog parlamenta i Savjeta o mjerama za lakše ostvarivanje prava zajamčenih radnicima u kontekstu slobode kretanja radnika
