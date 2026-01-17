@@ -1,0 +1,6 @@
+# Član 12
+## Komunalni dio luke
+Komunalni dio luke je namijenjen za vez plovnih objekata i dijeli se na:
+- vez plovnih objekata registrovanih za privredne svrhe; i
+- vez čamaca registrovanih za lične potrebe. Na komunalnom dijelu luke namijenjenom za privredne svrhe dozvoljeno je obavljanje djelatnosti ukrcaja i iskrcaja lica i stvari odnosno iznajmljivanje plovnog objekta, u skladu sa namjenom plovnog objekta za koji je ugovor o vezu zaključen. Koncesionar luke može zaključiti ugovor o vezu isključivo sa vlasnikom plovnog objekta za plovni objekat, koji pretežno boravi na tom području i upisan je u upisnik nadležne i područne organizacione jedinice organa Ministarstva (u daljem tekstu: Lučka kapetanija). Prednost za dobijanje jednog veza imaju vlasnici plovnih objekata koji imaju prebivalište, odnosno sjedište na području jedinice lokalne samouprave u kojoj se luka nalazi. Prilikom dodjele pojedinog veza na komunalnom dijelu luke plovni objekti se grupišu prema dužini i namjeni. Koncesionar luke dužan je da javno objavi listu zaključenih ugovora o vezu i listu čekanja koja sadrži podatke o imenu ili oznaci plovnog objekta i njegovom vlasniku.
+Uslove, kriterijume i način postupka za ostvarivanje prava na vez u komunalnom dijelu luke propisuje Ministarstvo.

@@ -1,0 +1,3 @@
+# Član 27
+## Primjena propisa za dodjelu koncesije
+Pravo korišćenja luke ili dijela luke, lučke infrastrukture i suprastrukture, pravo pružanja lučkih usluga – rukovanje teretom i putničke usluge i pravo izgradnje, rekonstrukcije i održavanja luke ili dijela luke, lučke infrastrukture i suprastrukture stiče se dodjelom koncesije u skladu sa zakonom kojim je uređeno javno-privatno partnerstvo. Zabranjeno je korišćenje luke ili dijela luke, lučke infrastrukture i suprastrukture, pružanje lučkih usluga – rukovanje teretom i putničke usluge i izgradnja, rekonstrukcija i održavanje luke ili dijela luke, lučke infrastrukture i suprastrukture ako nije u skladu sa stavom 1 ovog člana.
