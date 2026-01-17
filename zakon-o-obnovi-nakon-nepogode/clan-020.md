@@ -1,0 +1,4 @@
+# Član 20
+## Stručne komisije
+Državna komisija, odnosno opštinska komisija, na osnovu analize konkretne situacije nakon nepogode koja je prouzrokovala znatniji obim posljedica, odnosno posljedice na većem dijelu ili cijeloj teritoriji države, odnosno opštine, kao i na osnovu potrebe da se vršenje poslova procjene šteta, gubitaka i potreba povjeri licima koja imaju odgovarajuća stručna znanja, obrazuju potreban broj stručnih komisija na državnom nivou (u daljem tekstu: državna stručna komisija), odnosno potreban broj stručnih komisija na opštinskom nivou (u daljem tekstu: opštinska stručna komisija), kao privremenih tijela.
+Aktom o obrazovanju državne stručne komisije, odnosno opštinske stručne komisije određuju se sastav, poslovi i rokovi u kojima će se ti poslovi obaviti, način rada i finansiranja, kao i organ državne uprave, odnosno organ lokalne uprave koji je dužan da obezbijedi administrativne i druge uslove za rad tih komisija.
