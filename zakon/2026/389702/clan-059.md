@@ -1,0 +1,5 @@
+# Član 59
+## Sadržaj Registra
+Registar sadrži sljedeće podatke: ime, prezime, jedinstveni matični broj ili drugi odgovarajući lični broj, pol, državu, mjesto i datum rođenja, e-mail, broj telefona, mjesto u Crnoj Gori iz koga potiče, državu u kojoj ima prebivalište, adresu stanovanja, podatak koliko godina živi u državi u kojoj ima prebivalište, nivo kvalifikacije i oblast obrazovanja, podatak da li se bavi naučnoistraživačkim radom i u kojoj oblasti, podatke o zaposlenju i podatke o članstvu u organizacijama dijaspore - iseljenika.
+Registar može da sadrži i druge podatke koji se obrađuju uz prethodnu saglasnost lica na koje se podaci odnose (nacionalnost, vjeroispovijest, bračni status, materijalno stanje, podaci o razlozima iseljavanja iz Crne Gore, kontaktima sa Crnom Gorom i prisustvu na društvenim mrežama, kao i drugi podaci koje pripadnik dijaspore - iseljenik sam dostavi).
+Pripadnici dijaspore - iseljenici dužni su da obavijeste Ministarstvo o svakoj promjeni podataka iz stava 1 ovog člana, u roku od 30 dana od dana nastanka promjene.

@@ -1,0 +1,5 @@
+# Član 6
+## Nosioci saradnje sa dijasporom - iseljenicima
+Saradnja Crne Gore sa dijasporom - iseljenicima ostvaruje se preko organa državne uprave nadležnog za odnose sa dijasporom - iseljenicima (u daljem tekstu: Ministarstvo).
+Saradnja sa dijasporom - iseljenicima ostvaruje se i preko: radnog tijela Skupštine Crne Gore nadležnog za međunarodne odnose i iseljenike (u daljem tekstu: nadležni odbor), organa državne uprave nadležnih za oblasti u kojima dijaspora - iseljenici ostvaruju svoja prava i interese, Glavnog grada, Prijestonice i opštine (u daljem tekstu: opština), Matice crnogorske, Savjeta manjinskih naroda i drugih manjinskih nacionalnih zajednica, nevladinih organizacija i drugih tijela i institucija koje u okviru svojih nadležnosti, odnosno djelatnosti vrše poslove vezane za odnose sa dijasporom - iseljenicima ili bi njihova nadležnost odnosno djelatnost mogla biti od interesa za dijasporu - iseljenike.
+Ministarstvo jednom godišnje organizuje regionalne konsultacije sa opštinama radi usklađivanja planova, razmjene informacija i zajedničkog planiranja projekata i aktivnosti usmjerenih na saradnju sa dijasporom - iseljenicima.
