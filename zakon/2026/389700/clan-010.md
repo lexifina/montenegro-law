@@ -1,0 +1,9 @@
+# Član 10
+## Rano upozorenje i proglašenje elektroenergetske krize
+(1) Ako procjena sezonske adekvatnosti elektroenergetskog sistema ili drugi kvalifikovani izvor daje konkretne, ozbiljne i pouzdane informacije da u Crnoj Gori može doći do elektroenergetske krize, Ministarstvo, bez odlaganja, upućuje rano upozorenje Sekretarijatu, nadležnim organima za spremnost za rizike u istom regionu i, ako nijesu u istom regionu, nadležnim organima direktno povezanih ugovornih strana.
+(2) Ministarstvo pruža informacije o uzrocima moguće elektroenergetske krize, mjerama koje su planirane ili preduzete da bi se spriječila elektroenergetska kriza i mogućoj potrebi za pomoć drugih ugovornih strana.
+(3) Informacije iz stava 2 ovog člana obuhvataju moguće uticaje mjera na susjedna tržišta električne energije.
+(4) U slučaju elektroenergetske krize u Crnoj Gori, nakon konsultacija sa operatorom prenosnog sistema električne energije, Ministarstvo, bez odlaganja, proglašava elektroenergetsku krizu i obavještava nadležne organe za spremnost za rizike u istom regionu, a ako nijesu u istom regionu, nadležne organe direktno povezanih ugovornih strana i Sekretarijat.
+(5) Obavještenje iz stava 4 ovog člana obuhvata uzroke pogoršanja situacije u snabdijevanju električnom energijom, razloge za proglašenje elektroenergetske krize, mjere planirane ili preduzete za njeno ublažavanje i potrebu za pomoć drugih ugovornih strana.
+(6) Na zahtjev, Ministarstvo pruža dodatne informacije Sekretarijatu, Koordinacionoj grupi za sigurnost snabdijevanja električnom energijom ili nadležnim organima ugovornih strana u istom regionu, a ako nijesu u istom regionu, nadležnim organima direktno povezanih ugovornih strana.
+(7) Ako Ministarstvo uputi rano upozorenje ili proglasi elektroenergetsku krizu, relevantni organi, organizacije i subjekti moraju sprovoditi mjere predviđene planom spremnosti za rizike u najvećoj mogućoj mjeri.

@@ -1,0 +1,6 @@
+# Član 246
+## Proračun prekozonskog kapaciteta
+(1) Nakon zatvaranja unutardnevnog prekozonskog tržišta, operator prenosnog sistema dužan je da kontinuirano ažurira raspoloživost prekozonskog kapaciteta za razmjenu balansne energije ili za sprovođenje procesa netovanja odstupanja, pri čemu se prekozonski kapacitet ažurira svaki put kad se iskoristi dio tog kapaciteta ili kad se vrši ponovni proračun prekozonskog kapaciteta.
+(2) Prije primjene metodologije proračuna prekozonskog kapaciteta u skladu sa stavom 3 ovog člana, operator prenosnog sistema dužan je da koristi prekozonski kapacitet koji je preostao nakon vremena zatvaranja unutardnevnog prekozonskog tržišta.
+(3) Operator prenosnog sistema, u saradnji sa operatorima prenosnih sistema u regionu za proračun kapaciteta, dužan je da izradi metodologiju za proračun prekozonskog kapaciteta, unutar vremenskog okvira za balansiranje, za razmjenu balansne energije ili sprovođenje procesa netovanja odstupanja.
+(4) Metodologijom iz stava 3 ovog člana izbjegavaju se poremećaji na tržištu i ona mora biti u skladu sa metodologijom za proračun prekozonskog kapaciteta, koja se primjenjuje za unutardnevni period i koja je u skladu sa članom 94 ovog zakona.

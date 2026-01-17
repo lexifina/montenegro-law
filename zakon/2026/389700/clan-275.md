@@ -1,0 +1,5 @@
+# Član 275
+## Nacrt nacionalnog i regionalnog TCM-a
+(1) Ako ne utvrdi predloge regionalnih TCM-ova iz člana 273 stav 3 ovog zakona u skladu sa članom 274 ovog zakona u propisanim rokovima, operator prenosnog sistema će, u saradnji sa relevantnim operatorima prenosnih sistema, dostaviti Agenciji, Regulatornom odboru i ACER-u nacrte ovih akata, uz obrazloženje zašto nijesu utvrđeni predlozi tih akata.
+(2) Ako ne utvrdi predloge nacionalnih TCM-ova iz člana 273 stav 5 ovog zakona u propisanom roku, operator prenosnog sistema će dostaviti Agenciji, Regulatornom odboru i ACER-u nacrte ovih akata, uz obrazloženje zašto nijesu utvrđeni predlozi tih akata.
+(3) U slučaju iz st. 1 i 2 ovog člana, Regulatorni odbor, odnosno ACER, u saradnji sa Agencijom i relevantnim regulatornim organima iz regiona, istražiće razloge zbog kojih nijesu utvrđeni predlozi regionalnih TCM-ova iz člana 274 stav 3 i nacionalnih TCM-ova iz člana 274 stav 5 ovog zakona i tome obavijestiti Sekretarijat Energetske zajednice i Evropsku komisiju.

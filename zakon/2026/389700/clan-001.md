@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim zakonom uređuju se uslovi za korišćenje prenosnih sistema za prekograničnu razmjenu električne energije i prirodnog gasa, međunarodna saradnja u sprečavanju elektroenergetskih kriza, priprema za elektroenergetsku krizu i upravljanje tom krizom poštujući zahtjeve konkurentnog unutrašnjeg tržišta električne energije, dodjela prekozonskog kapaciteta i upravljanje zagušenjima na dan-unaprijed i unutardnevnom tržištu električne energije, način obezbjeđenja sigurnosti snabdijevanja gasom i transparentnosti tržišta električne energije i gasa i druga pitanja od značaja za prekograničnu razmjenu električne energije i prirodnog gasa.

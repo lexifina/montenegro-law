@@ -1,0 +1,6 @@
+# Član 170
+## Postupak proračuna kapaciteta za dugoročnu dodjelu
+(1) Operator prenosnog sistema, u saradnji sa operatorima prenosnih sistema drugih država, dužan je da izradi operativna pravila za dugoročne vremenske okvire proračuna kapaciteta, kojima se dopunjuju pravila za spajanje pojedinačnih modela mreže u skladu sa članom 92 ovog zakona.
+(2) Subjekat odgovoran za koordinisani proračun kapaciteta, određen u skladu sa propisom kojim se uređuje dodjela kapaciteta i upravljanje zagušenjima, dužan je da proračunava dugoročne prekozonske kapacitete za region za proračun kapaciteta za koji je nadležan.
+(3) Operator prenosnog sistema, u saradnji sa operatorima prenosnih sistema drugih država, dužan je da, u svrhu proračuna kapaciteta iz stava 2 ovog člana, najkasnije šest mjeseci nakon donošenja metodologije za proračun kapaciteta za dugoročne vremenske okvire u skladu sa članom 161 ovog zakona, za region za proračun kapaciteta izradi operativna pravila za dugoročne vremenske okvire kojima se dopunjavaju pravila za rad koordinatora proračuna kapaciteta u skladu sa ovim zakonom.
+(4) Prilikom proračuna kapaciteta za dugoročne vremenske okvire primjenjuju se zahtjevi iz člana 100 ovog zakona.

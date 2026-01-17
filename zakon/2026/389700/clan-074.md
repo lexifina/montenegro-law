@@ -1,0 +1,12 @@
+# Član 74
+## Imenovanje više NEMO-a
+(1) Ministarstvo objavljuje javni poziv za podnošenje zahtjeva za imenovanje više NEMO-a najmanje jednom godišnje na svojoj internet stranici.
+(2) Javni poziv iz stava 1 ovog člana otvoren je za domaće i inostrane operatore tržišta.
+(3) Zahtjev za imenovanje NEMO-a iz stava 1 ovog člana podnosi se Ministarstvu.
+(4) NEMO koji je imenovan na osnovu javnog poziva iz stava 1 ovog člana ima pravo da nudi usluge trgovanja na dan-unaprijed i unutardnevnim tržištima sa isporukom na teritoriji druge ugovorne strane ili države članice.
+(5) U slučaju iz stava 4 ovog člana, NEMO koji je imenovan u skladu sa ovim članom dužan je da primjenjuje pravila trgovanja ugovorne strane ili države članice u kojoj nudi usluge trgovanja na dan-unaprijed i unutardnevnim tržištima, bez obaveze imenovanja u toj ugovornoj strani ili državi članici.
+(6) NEMO koji je imenovan na osnovu javnog poziva iz stava 1 ovog člana, dužan je da najmanje dva mjeseca prije početka sprovođenja aktivnosti jedinstvenog povezivanja dan-unaprijed ili unutardnevnog tržišta na teritoriji druge ugovorne strane ili države članice o tome obavijesti nadležni organ te ugovorne strane ili države članice.
+(7) NEMO koji je imenovan u drugoj ugovornoj strani ili državi članici ima pravo da nudi usluge trgovanja na dan-unaprijed i unutardnevnim tržištima sa isporukom na teritoriji Crne Gore, osim ako je na teritoriji te ugovorne strane ili države članice imenovan kao pravni monopol.
+(8) U slučaju iz stava 7 ovog člana, NEMO koji je imenovan u drugoj ugovornoj strani ili državi članici, a koji nudi usluge trgovanja na dan-unaprijed i unutardnevnim tržištima u Crnoj Gori, dužan je primjenjuje pravila za funkcionisanje berzanskog tržišta donijeta u skladu sa zakonom kojim se uređuje obavljanje energetskih djelatnosti, ne mora da bude imenovan kao NEMO od strane Vlade u skladu sa ovim zakonom.
+(9) Ministarstvo vrši nadzor nad svim NEMO-ima koji sprovode jedinstveno povezivanje dan-unaprijed i/ili unutardnevnih tržišta u Crnoj Gori, i obezbjeđuje da svi NEMO-i koji sprovode jedinstveno povezivanje dan-unaprijed i/ili unutardnevnih tržišta u Crnoj Gori postupaju u skladu sa ovim zakonom, bez obzira na to gdje su imenovani.
+(10) Ministarstvo i Agencija razmjenjuju sve informacije koje su neophodne za efikasan nadzor nad radom NEMO-a sa nadležnim organima drugih ugovornih strana i država članica.

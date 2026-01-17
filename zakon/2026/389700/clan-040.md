@@ -1,0 +1,6 @@
+# Član 40
+## Regionalna saradnja operatora prenosnog sistema električne energije
+(1) Operator prenosnog sistema električne energije dužan je da uspostavlja regionalnu saradnju u okviru regiona kojem pripada u skladu sa ovim zakonom, u mjeri u kojoj je to moguće, u okviru ENTSO za električnu energiju i promoviše operativne dogovore na regionalnom nivou radi obezbjeđenja optimalnog upravljanja sistemom, razvoja razmjene električne energije, integracije mehanizama balansiranja sistema i obezbjeđenja sistemske rezerve, kao i koordinisane dodjele prekozonskih kapaciteta pod jednakim uslovima na tržišnim principima, uzimajući u obzir značaj kratkoročne dodjele prekozonskih kapaciteta u okviru energetskih transakcija.
+(2) Operator prenosnog sistema, u saradnji sa drugim relevantnim operatorima prenosnih sistema, objavljuje regionalni plan investicija svake dvije godine i može da donosi investicione odluke na osnovu tog plana.
+(3) Investicije operatora prenosnog sistema iz stava 2 ovog člana moraju biti sadržane u investicionom planu u skladu sa zakonom kojim se uređuje obavljanje energetskih djelatnosti.
+(4) Operator prenosnog sistema promoviše saradnju i sa operatorima prenosnog sistema i van regiona kojem pripada u skladu sa ovim zakonom.

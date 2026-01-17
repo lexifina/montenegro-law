@@ -1,0 +1,6 @@
+# Član 141
+## Naknada troškova po osnovu dodjele kapaciteta i upravljanja zagušenjima
+(1) Agencija ocjenjuje opravdanost troškova koji nastaju po osnovu obaveza operatora prenosnog sistema iz člana 77 ovog zakona, uključujući troškove iz člana 140 i čl. 142 do 145 ovog zakona, u skladu sa zakonom kojim se uređuje obavljanje energetskih djelatnosti.
+(2) Troškovi iz stava 1 ovog člana koji su ocijenjeni kao opravdani, efikasni i srazmjerni nadoknađuju se operatoru prenosnog sistema kroz cijene za korišćenje prenosnog sistema, u skladu sa zakonom kojim se uređuje obavljanje energetskih djelatnosti, ili druge odgovarajuće mehanizme koje odredi Agencija u skladu sa ovim zakonom.
+(3) Učešće ugovornih strana u zajedničkim troškovima iz člana 146 stav 4 tačka 1 ovog zakona, regionalnim troškovima iz člana 141 stav 4 tačka 2 ovog zakona i nacionalnim troškovima iz člana 141 stav 4 tačka 3 ovog zakona, koji su ocijenjeni kao opravdani, nadoknađuju se kroz naknade NEMO-a, cijene za korišćenje sistema ili druge odgovarajuće mehanizme koje odredi Agencija.
+(4) Operator prenosnog sistema, NEMO i subjekti ovlašćeni u skladu sa članom 146 ovog zakona, dužni su da na zahtjev Agencije dostave informacije potrebne za ocjenu opravdanosti troškova iz st. 2 i 3 ovog člana, i to u roku od tri mjeseca od prijema zahtjeva.

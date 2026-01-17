@@ -1,0 +1,16 @@
+* U ovaj zakon preneseni su sljedeći propisi Evropske unije:
+- Regulativa (EU) 2019/943 Evropskog parlamenta i Savjeta od 5. juna 2019 o unutrašnjem tržištu električne energije (Službeni list L158 od 14.6.2019, str. 54-124, CELEKS 32019R0943),
+- Regulativa (EU) 2019/941 Evropskog parlamenta i Savjeta od 5. juna 2019. o pripravnosti za rizike u sektoru električne energije i stavljanju izvan snage Direktive 2005/89/EZ (Službeni list L158 od 14.6.2019, str. 1-21, CELEKS 32019R0941),
+- Regulativa (EU) 2019/942 Evropskog parlamenta i Savjeta od 5. juna 2019. o osnivanju Agencije Evropske unije za saradnju energetskih regulatora (Službeni list L158 od 14.6.2019, str. 22-53, CELEKS 32019R0942),
+- Regulativa Komisije (EU) 2015/1222 оd 24. jula 2015. o uspostavljanju smjernica za dodjelu kapaciteta i upravljanje zagušenjima (Službeni list L197 od 25.07.2015, str. 24- 72, CELEKS 32015R1222),
+- Regulativa Komisije (EU) 2016/1719 оd 26. septembra 2016. o uspostavljanju smjernica za dugoročnu dodjelu kapaciteta (Službeni list L259 od 27.09.2016, str. 42-68, CELEKS 32016R1719),
+- Regulativa Komisije (EU) 2017/2195 оd 23. novembra 2017. o uspostavljanju smjernica za balansiranje električne energije (Službeni list L312 od 28.11.2017, str. 6-53, CELEKS 32017R2195),
+- Regulativa Komisije (EU) 2017/1485 оd 2. avgusta 2017. o uspostavljanju smjernica za rad prenosnog sistema električne energije (Službeni list L220 od 25.08.2017, str. 1-120, CELEKS 32017R1485),
+- Regulativa Komisije (EU) 2017/2196 оd 24. novembra 2017. o uspostavljanju mrežnih pravila za havarijske situacije i ponovno uspostavljanje rada elektroenergetskog sistema (Službeni list L312 od 28.11.2017, str. 54-85, CELEKS 32017R2196),
+- Regulativa EZ 715/2009 Evropskog parlamenta i Savjeta оd 13. jula 2009. o uslovima za pristup prenosnim sistemima prirodnog gasa (Službeni list L211 od 14.08.2009, str. 36-54, CELEKS 32009R0715),
+- Regulativa EZ 994/2010 Evropskog parlamenta i Savjeta оd 20. oktobra 2010. o mjerama za obezbjeđenje sigurnosti snabdijevanja gasom (Službeni list L2951 od 12.11.2010, str. 1-22, CELEKS 32010R0994),
+- Regulativa Komisije (EU) 2013/543 оd 14. juna 2013. o dostavljanju I objavljivanju podataka na tržištima električne energije (Službeni list L163 od 15.06.2013, str. 1-12, CELEKS 32013R0543),
+- Regulativa Komisije (EU) 2010/838 оd 23. septembra 2010. o uspostavljanju smjernica koje se odnose na mehanizam naknade između operatora prenosnih sistema i zajednički regulatorni pristup naplati prenosa (Službeni list L250 od 24.09.2010, str. 5-11, CELEKS 32010R0838),
+- Regulativa Komisije (EU) 2016/1388 оd 17. avgusta 2016. o uspostavljanju mrežnih pravila za priključenje objekta kupca (Službeni list L223 od 18.08.2016, str. 10- 54, CELEKS 32016R1388),
+- Regulativa Komisije (EU) 2016/631 оd 14. aprila 2016. o uspostavljanju mrežnih pravila o zahtjevima za priključenje proizvodnih objekata električne energije na mrežu (Službeni list L112 od 27.04.2016, str. 1-68, CELEKS 32016R0631),
+- Regulativa Komisije (EU) 2016/1447 оd 26. avgusta 2016. o uspostavljanju mrežnih pravila o zahtjevima za priključenje na mrežu sistema za prenos jednosmjernom strujom visokog napona I jednosmjerno priključenih modula elektroenergetskog parka (Službeni list L241 od 08.09.2016, str. 1-65, CELEKS 32016R1447).

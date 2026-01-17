@@ -1,0 +1,6 @@
+# Član 28
+## Dugoročna tržišta
+(1) Operator prenosnog sistema izdaje dugoročna prava prenosa ili preduzima ekvivalentne mjere koje omogućavaju učesnicima na tržištu, uključujući vlasnike objekata za proizvodnju električne energije koji koriste obnovljive izvore energije, zaštitu od rizika cijena preko granica zona trgovanja, osim ako procjena dugoročnog tržišta na granicama zona trgovanja koju je izvršila Agencija u saradnji sa nacionalnim regulatornim organima tih zona, pokaže da je u predmetnim zonama trgovanja obezbijeđen adekvatan nivo zaštite od rizika.
+(2) Operator tržišta može da razvija buduće proizvode za zaštitu od rizika, uključujući dugoročne buduće proizvode za zaštitu od rizika, kako bi učesnicima na tržištu, uključujući vlasnike objekata za proizvodnju električne energije koji koriste obnovljive izvore energije, obezbijedio odgovarajuće mogućnosti za zaštitu od finansijskih rizika od fluktuacija cijena, u skladu sa zakonom kojim se uređuje zaštita konkurencije.
+(3) Aktivnost zaštite od rizika iz stava 2 ovog člana neće biti ograničena na trgovinu unutar Crne Gore ili zone trgovanja.
+(4) Dugoročna prava prenosa dodjeljuju se na transparentan, tržišno zasnovan i nediskriminatoran način preko regionalne i, gdje je primjenljivo, jedinstvene platforme za dodjelu.

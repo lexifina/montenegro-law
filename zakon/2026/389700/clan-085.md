@@ -1,0 +1,8 @@
+# Član 85
+## Javna rasprava i objavljivanje nacionalnog i regionalnog TCM-a
+(1) Operator prenosnog sistema i/ili NEMO u postupku utvrđivanja ili izmjena predloga regionalnih i nacionalnih TCM-ova iz člana 79 stav 3 tač. 1 do 4 i člana 79 st. 5 i 6 ovog zakona, prije njihovog dostavljanja Agenciji na odobravanje dužan je da sprovede javnu raspravu sa zainteresovanim stranama, uključujući nadležne organe ugovornih strana i država članice, koja traje najmanje jedan mjesec.
+(2) Javna rasprava o predlozima regionalnih TCM-ova iz člana 79 stav 3 tač. 1 do 4 i člana 79 stav 5 ovog zakona organizuje se na nivou regiona na koji se odnose ovi TCM- ovi.
+(3) Operator prenosnog sistema i/ili NEMO dužan je da razmotri primjedbe, predloge i sugestije zainteresovanih strana iznijete tokom javne rasprave iz stava 1 ovog člana i o tome sačini izvještaj sa obrazloženjem za njihovo prihvatanje ili neprihvatanje, koji objavljuje na svojoj internet stranici zajedno sa predlogom TCM-ova iz člana 79 stav 3 tač. 1 do 4 i člana 79 st. 5 i 6 ovog zakona.
+(4) Izvještaj iz stava 3 ovog člana dostavlja se Agenciji zajedno sa predlogom TCM- ova iz člana 79 stav 3 tač. 1 do 4 i člana 79 st. 5 i 6 ovog zakona.
+(5) Operator prenosnog sistema i/ili NEMO dužni su da na svojoj internet stranici objave odobrene regionalne i nacionalne TCM-ove iz člana 79 st. 3, 5 i 6 ovog zakona, osim ako sadrže povjerljive informacije u smislu zakona kojim se uređuje obavljanje energetskih djelatnosti.
+(6) Odluke Agencije o odobravanju regionalnih i nacionalnih TCM-ova iz člana 79 st. 3, 5 i 6 ovog zakona objavljuju se u "Službenom listu Crne Gore" i na internet stranici Agencije, osim ako sadrže povjerljive informacije u smislu zakona kojim se uređuje obavljanje energetskih djelatnosti.

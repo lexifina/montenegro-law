@@ -1,0 +1,6 @@
+# Član 15
+## Evropska procjena adekvatnosti resursa
+(1) Evropska procjena adekvatnosti resursa je procjena koju sprovodi ENTSO za električnu energiju i koja određuje probleme adekvatnosti resursa procjenom ukupne adekvatnosti elektroenergetskog sistema za snabdijevanje trenutnih i projektovanih potreba za električnom energijom na evropskom nivou, na nivou država članica i ugovornih strana, kao i na nivou pojedinačnih zona trgovanja, ako je relevantno, i obuhvata svaku godinu u periodu od deset godina od dana izvršene procjene.
+(2) Operator prenosnog sistema (u daljem tekstu: OPS) dostavlja ENTSO za električnu energiju podatke koji su mu potrebni za sprovođenje evropske procjene adekvatnosti resursa.
+(3) Proizvođači i drugi učesnici na tržištu električne energije dužni su da operatoru prenosnog sistema dostavljaju podatke o očekivanom korišćenju proizvodnih resursa, uzimajući u obzir raspoloživost primarnih resursa i odgovarajuće scenarije projektovane potražnje i ponude.
+(4) Operator prenosnog sistema učestvuje u konsultacijama koje organizuje ENTSO za električnu energiju prije sprovođenja evropske procjene adekvatnosti resursa, kao i u konsultacijama o rezultatima evropske procjene adekvatnosti resursa.

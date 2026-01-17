@@ -1,0 +1,18 @@
+# Član 16
+## Nacionalna procjena adekvatnosti resursa
+(1) Operator prenosnog sistema dužan je da, pored učešća u pripremi evropske procjene adekvatnosti resursa, sprovodi procjenu adekvatnosti resursa na nacionalnom nivou najmanje svakih pet godina.
+(2) Energetski subjekti dužni su da podatke neophodne za izradu nacionalne procjene adekvatnosti resursa dostave operatoru prenosnog sistema.
+(3) Nacionalna procjena adekvatnosti resursa identifikuje probleme adekvatnosti resursa procjenom ukupne adekvatnosti elektroenergetskog sistema za snabdijevanje trenutnih i projektovanih potreba za električnom energijom na nacionalnom nivou.
+(4) Nacionalna procjena adekvatnosti resursa se odnosi na svaku godinu u periodu od deset godina od dana te procjene.
+(5) Nacionalne procjene adekvatnosti resursa imaju regionalni obuhvat i zasnivaju se na metodologiji za evropsku procjenu adekvatnosti resursa koju je odobrila Agencija za saradnju energetskih regulatora Evropske unije (u daljem tekstu: ACER).
+(6) Nacionalne procjene adekvatnosti resursa sadrže referentne centralne scenarije projektovane potražnje i ponude, uključujući ekonomsku procjenu vjerovatnoće zatvaranja, konzervacije, izgradnje novih proizvodnih objekata, kao i mjere za postizanje ciljeva energetske efikasnosti i elektroenergetske povezanosti i odgovarajuće analize osjetljivosti na ekstremne vremenske prilike, hidrološke uslove, veleprodajne cijene i kretanja cijena ugljenika.
+(7) Prilikom izrade nacionalne procjene adekvatnosti resursa, pored analiza iz stava 6 ovog člana, mogu se uzeti u obzir i dodatne analize osjetljivosti.
+(8) U slučaju iz stava 7 ovog člana, nacionalne procjene adekvatnosti resursa mogu da:
+1) sadrže pretpostavke vezane za specifičnosti nacionalne potražnje i ponude električne energije;
+2) koriste alate i podatke komplementarne onima koje koristi ENTSO za električnu energiju za evropsku procjenu adekvatnosti resursa.
+(9) Prilikom procjene doprinosa pružalaca kapaciteta koji se nalaze u drugoj državi članici ili ugovornoj strani sigurnosti snabdijevanja zona trgovanja koje su obuhvaćene nacionalnom procjenom adekvatnosti resursa koristi se metodologija izračunavanja maksimalnog ulaznog kapaciteta za prekogranično učešće u mehanizmu za razvoj kapaciteta iz člana 63 stav 4 tačka 13 ovog zakona, koju je odobrio ACER.
+(10) Operator prenosnog sistema objavljuje na svojoj internet stranici nacionalne procjene adekvatnosti resursa i, ako je primjenljivo, evropsku procjenu adekvatnosti resursa i mišljenje Regulatornog odbora Energetske zajednice (u daljem tekstu: Regulatorni odbor) u skladu sa potvrđenim međunarodnim ugovorom.
+(11) Ako nacionalna procjena adekvatnosti resursa utvrdi problem adekvatnosti u vezi sa zonom trgovanja, a koji nije utvrđen u evropskoj procjeni adekvatnosti resursa, nacionalna procjena adekvatnosti resursa mora obuhvatiti razloge za razlike između dvije procjene adekvatnosti resursa, uključujući podatke o korišćenim analizama osjetljivosti i osnovnim pretpostavkama.
+(12) Ministarstvo na svojoj internet stranici objavljuje procjenu iz stava 3 ovog člana i dostavlja Sekretarijatu.
+(13) Ako Ministarstvo, u roku od četiri mjeseca od dana dostavljanja procjene, dobije obrazloženo mišljenje Sekretarijata da razlike između nacionalne procjene adekvatnosti resursa i evropske procjene adekvatnosti resursa nijesu opravdane, dužno je da uzme u obzir mišljenje Sekretarijata i, po potrebi, naloži operatoru prenosnog sistema da izmijeni svoju procjenu.
+(14) Ako odluči da mišljenje Sekretarijata ne uzme u obzir u potpunosti, operator prenosnog sistema na svojoj internet stranici objavljuje izvještaj sa obrazloženjem razloga zbog kojih mišljenje Sekretarijata nije uzeto u obzir.

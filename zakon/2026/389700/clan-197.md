@@ -1,0 +1,8 @@
+# Član 197
+## Regionalna platforma za dodjelu dugoročnih kapaciteta
+(1) Operator prenosnog sistema, u saradnji sa operatorima prenosnih sistema drugih država, dužan je da obezbijedi da regionalna platforma za dodjelu funkcioniše i ispunjava zahtjeve u pogledu funkcionisanja iz člana 198 ovog zakona, u roku od 12 mjeseci od odobrenja predloga za zajedničke zahtjeve i uspostavljanja regionalne platforme za dodjelu.
+(2) Agencija može, u saradnji sa relevantnim regulatornim organima, na zahtjev operatora prenosnog sistema, produžiti rok iz stava 1 ovog člana za najviše šest mjeseci zbog kašnjenja u postupcima javnih nabavki.
+(3) Dugoročna dodjela kapaciteta na interkonektivnim vodovima jednosmjerne struje sprovodiće se na regionalnoj platformi za dodjelu najkasnije 24 mjeseca nakon odobrenja zahtjeva iz stava 1 ovog člana.
+(4) Operator prenosnog sistema, u saradnji sa operatorima prenosnih sistema država članica i trećih zemalja, može vršiti dugoročnu dodjelu kapaciteta preko regionalne platforme za dodjelu kapaciteta.
+(5) Za interkonekcije između ugovornih strana i država članica, operator prenosnog sistema, u saradnji sa operatorom prenosnog sistema države članice, dužan je da zaključi bilateralni sporazum kojim će se utvrditi da li će dugoročnu dodjelu kapaciteta za određenu interkonekciju vršiti preko jedinstvene platforme za dodjelu ili regionalne platforme za dodjelu uspostavljene u skladu sa ovim članom.
+(6) Regionalna platforma za dodjelu obavlja aktivnosti u saradnji sa jedinstvenom platformom za dodjelu i usklađuje svoja operativna pravila i pravila za dodjelu sa pravilima koja se primjenjuju na jedinstvenoj platformi, u koju svrhu platforme mogu zaključivati sporazume o administrativnoj saradnji.

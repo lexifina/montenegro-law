@@ -1,0 +1,4 @@
+# Član 59
+## Saradnja sa nadležnim organima drugih država u postupku odobravanja izuzeća
+(1) U slučaju da se u postupku konsultacija ne postigne saglasnost sa nadležnim regulatornim organima drugih ugovornih strana ili država članica u roku od šest mjeseci od dana kada posljednji relevantni regulatorni organ primi zahtjev za izuzeće, ili ako se tako dogovori sa tim organima, Agencija će Regulatornom odboru, ili, u mjeri u kojoj se to tiče država članica, ACER-u dostaviti zahtjev za donošenje odluke o izuzeću, u skladu sa članom 64 stav 4 tačka 5, odnosno članom 63 stav 4 tačka 7 ovog zakona.
+(2) U slučaju iz stava 1 ovog člana, Agencija i podnosilac zahtjeva za izuzeće dužni su da na zahtjev Regulatornog odbora i ACER-a u mjeri u kojoj se to tiče država članica, dostave svoje mišljenje, u roku utvrđenom tim zahtjevom.

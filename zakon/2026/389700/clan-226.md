@@ -1,0 +1,12 @@
+# Član 226
+## Uloga pružaoca usluge balansiranja
+(1) Pružalac usluge balansiranja (u daljem tekstu: PUB) mora biti kvalifikovan za podnošenje ponuda za balansnu energiju ili ponuda balansnog kapaciteta koje aktivira ili nabavlja operator prenosnog sistema ili, u modelu OPS-PUB, operator prenosnog sistema ugovarač (OPS ugovarač).
+(2) Uspješan završetak pretkvalifikacionog postupka, za koji je odgovoran operator prenosnog sistema i koji se sprovodi u skladu sa članom 68 stav 1 tačka 1 ovog zakona, preduslov je za uspješni završetak kvalifikacionog procesa za pružaoca usluge balansiranja u skladu sa ovim zakonom.
+(3) Pružalac usluge balansiranja dužan je da dostavlja svoje ponude balansnog kapaciteta koje utiču na jednu ili više balansno odgovornih strana.
+(4) Pružalac usluge balansiranja koji učestvuje u procesu nabavke balansnog kapaciteta podnosi i ima pravo da ažurira ponude prije vremena zatvaranja procesa nabavke.
+(5) Pružalac usluge balansiranja koji ima zaključen ugovor za balansni kapacitet dužan je da dostavlja nadležnom operatoru prenosnog sistema ponude za balansnu energiju koje odgovaraju količini, proizvodima i drugim zahtjevima utvrđenim u ugovoru o balansnom kapacitetu.
+(6) Pružalac usluge balansiranja ima pravo da svom operatoru prenosnog sistema dostavi ponude za balansnu energiju iz standardnih ili specifičnih proizvoda za koje je prošao pretkvalifikacioni postupak u skladu sa propisom kojim se uređuje rad elektroprenosnog sistema.
+(7) Cijena ponuda za balansnu energiju iz standardnih i specifičnih proizvoda u skladu sa stavom 5 ovog člana ne smije biti unaprijed određena u ugovoru o balansnom kapacitetu.
+(8) Operator prenosnog sistema može da predloži izuzeće od primjene stava 7 ovog člana za specifične proizvode iz člana 236 stav 3 tačka 2 ovog zakona u predlogu uslova za pružaoce usluga balansiranja iz člana 228 stav 1 ovog zakona, uz obrazloženje ekonomske opravdanosti tog izuzeća.
+(9) Ne smije biti diskriminacije između ponuda za balansnu energiju dostavljenih u skladu sa stavom 5 ovog člana i ponuda za balansnu energiju dostavljenih u skladu sa stavom 6 ovog člana.
+(10) Jedinica ili grupa koja obezbjeđuje rezervu, objekat kupca ili treća strana i povezani balansno odgovorni subjekti shodno članu 228 stav 4 tačka 4 ovog zakona, za bilo koji proizvod balansne energije ili balansni kapacitet moraju pripadati istom području planiranja razmjene.

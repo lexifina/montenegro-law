@@ -1,0 +1,16 @@
+# Član 83
+## Odobravanje regionalnog TCM-a
+(1) Agencija, u saradnji sa relevantnim regulatornim organima iz regiona, odobrava predloge regionalnih TCM-ova iz člana 79 st. 3 i 5 ovog zakona, u roku od šest mjeseci od dana kada je izvršeno posljednje dostavljanje predloga relevantnom regulatornom organu.
+(2) Prilikom odobravanja predloga iz stava 1 ovog člana, Agencija obavlja konsultacije sa OPS-om ili NEMO-om kako bi se obezbijedila usklađenost tih predloga sa ovim zakonom i doprinijelo integraciji tržišta, nediskriminaciji, efikasnoj konkurenciji i pravilnom funkcionisanju tržišta i blisko sarađuje i usaglašeno djeluje sa relevantnim regulatornim organima drugih država radi postizanja dogovora.
+(3) Agencija, u saradnji sa relevantnim regulatornim organima iz regiona, može da:
+- izmijeni dostavljene predloge regionalnih TCM-ova iz člana 79 st. 3 i 5 ovog zakona, nakon konsultacija sa operatorom prenosnog sistema i/ili NEMO-om, i/ili
+- zahtijeva izmjenu ovih predloga.
+(4) U slučaju iz stava 3 alineja 2 ovog člana, operator prenosnog sistema i/ili NEMO dužni su da Agenciji dostave izmijenjene predloge regionalnih TCM-ova u roku od dva mjeseca od dana dostavljanja zahtjeva.
+(5) O izmijenjenim predlozima iz stava 4 ovog člana, Agencija, u saradnji sa relevantnim regulatornim organima iz regiona, odlučuje u roku od dva mjeseca od dana kada je izvršeno posljednje dostavljanje predloga relevantnom regulatornom organu.
+(6) Ako operator prenosnog sistema i/ili NEMO, u saradnji sa drugim relevantnim operatorima prenosnog sistema i/ili NEMO-ima iz regiona, ne postupe po zahtjevu iz stava 3 alineja 2 ovog člana, shodno se primjenjuju odredbe člana 81 st. 1 i 2 ovog zakona.
+(7) Agencija, u saradnji sa drugim relevantnim regulatornim organima iz regiona, može da zahtijeva od Regulatornog odbora ili ACER-a odobravanje regionalnog TCM-a iz člana 79 st. 3 i 5 ovog zakona.
+(8) Ako Agencija, u saradnji sa relevantnim regulatornim organima iz regiona, ne odobri regionalni TCM iz člana 79 st. 3 i 5 ovog zakona u roku iz stava 1, odnosno iz stava 5 ovog člana, ili u slučaju zahtjeva za njihovo odobravanje od strane Regulatornog odbora ili ACER-a iz stava 7 ovog člana, Regulatorni odbor ili ACER usvajaju ovaj regionalni TCM u roku od šest mjeseci.
+(9) Operator prenosnog sistema i/ili NEMO dužni su da postupe po zahtjevu Regulatornog odbora ili ACER-a za dostavljanje izmijenjenih predloga regionalnih TCM- ova iz člana 79 st. 3 i 5 ovog zakona u roku od dva mjeseca od dana dostavljanja zahtjeva.
+(10) Agencija, u saradnji sa drugim relevantnim regulatornim organima iz regiona, može da zahtijeva od operatora prenosnog sistema i/ili NEMO-a izmjenu odobrenih regionalnih TCM-ova iz člana 79 st. 3 i 5 ovog zakona, i odredi rok za njihovo dostavljanje.
+(11) Operator prenosnog sistema i/ili NEMO, u saradnji sa drugim relevantnim operatorima prenosnog sistema i/ili NEMO-ima, mogu da predlože izmjene odobrenih regionalnih TCM-ova iz člana 79 st. 3 i 5 ovog zakona, a dužni su da ih izmijene na zahtjev Regulatornog odbora ili ACER-a.
+(12) U slučaju iz st. 10 i 11 ovog člana, shodno se primjenjuju odredbe člana 79 st. 10 i 11, člana 80, člana 81 st. 1 i 2, člana 82 st. 1 i 3, člana 85 ovog zakona i st. 1 do 9 ovog člana.

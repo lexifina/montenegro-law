@@ -1,0 +1,5 @@
+# Član 284
+## priključenih modula elektroenergetskog parka
+(1)
+Propisom kojim se uređuje priključenje sistema za prenos jednosmjerne struje visokog napona i jednosmjerno priključenih modula elektroenergetskog parka na sistem iz člana 68 stav 1 tačka 2 alineja 3 ovog zakona propisuju se tehnički uslovi priključenja sistema za prenos jednosmjerne struje visokog napona i jednosmjerno priključenih modula elektroenergetskog parka na elektroenergetski sistem kako bi se obezbijedili fer uslovi konkurencije na unutrašnjem tržištu električne energije, sigurnost sistema i integracija obnovljivih izvora električne energije i olakšala trgovina električnom energijom u Energetskoj zajednici.
+(2) Propisom iz stava 1 ovog člana uređuje se adekvatno transparentno i nediskriminatorno korišćenje sistema jednosmjerne struje visokog napona i jednosmjerno priključenih modula elektroenergetskog parka na elektroenergetski sistem od strane operatora sistema, u cilju obezbjeđivanja jednakih uslova u okviru Zajednice.

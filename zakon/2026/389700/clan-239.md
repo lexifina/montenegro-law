@@ -1,0 +1,6 @@
+# Član 239
+## Određivanje cijene balansne energije i prekozonskog kapaciteta koji se koristi za razmjenu balansne energije ili sprovođenje postupka razmjene odstupanja
+(1) Operator prenosnog sistema dužan je da primjenjuje metodologiju usvojenu u skladu sa članom 212 ovog zakona, za određivanje cijena balansne energije kao rezultat aktivacije ponuda balansne energije, proces ponovnog uspostavljanja nazivne frekvencije, kao i za proces zamjene rezervi u skladu sa propisom kojim se uređuje rad elektroprenosnog sistema.
+(2) Usklađena metodologija određivanja cijena iz stava 1 ovog člana primjenjuje se na balansnu energiju iz svih standardnih i specifičnih proizvoda iz člana 236 stav 3 tačka 1 ovog zakona.
+(3) Za specifične proizvode iz člana 236 stav 3 tačka 2 ovog zakona operator prenosnog sistema može predložiti drugačiju metodu određivanja cijena.
+(4) U slučaju da operator prenosnog sistema u saradnji sa drugim operatorima prenosnih sistema otkrije neefikasnost u primjeni metodologije predložene u skladu sa članom 212 ovog zakona, može da zatraži izmjenu i predloži alternativnu metodu određivanja cijena i u tom slučaju operator prenosnog sistema u saradnji sa operatorima prenosnih sistema iz drugih država sprovodi detaljnu analizu koja pokazuje da je alternativni metod određivanja cijena efikasniji.

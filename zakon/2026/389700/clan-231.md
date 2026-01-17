@@ -1,0 +1,4 @@
+# Član 231
+## Evropska platforma za razmjenu balansne energije iz rezervi za ponovno uspostavljanje frekvencije automatskom aktivacijom
+(1) Operator prenosnog sistema dužan je da preko evropske platforme za razmjenu energije iz rezervi za ponovno uspostavljanje frekvencije automatskom aktivacijom, uspostavljenoj u skladu sa članom 212 ovog zakona, dostavlja sve ponude za balansnu energiju iz svih standardnih proizvoda za rezerve za ponovno uspostavljanje frekvencije automatskom aktivacijom i razmjenjuje sve ponude za balansnu energiju iz svih standardnih proizvoda za rezerve za ponovno uspostavljanje frekvencije automatskom aktivacijom, osim neraspoloživih ponuda iz člana 238 stav 20 ovog zakona.
+(2) Operator prenosnog sistema dužan je da u najvećoj mogućnoj mjeri koristi platformu iz stava 1 ovog člana da zadovolji sve svoje potrebe za balansnom energijom iz rezerve za ponovno uspostavljanje frekvencije automatskom aktivacijom.

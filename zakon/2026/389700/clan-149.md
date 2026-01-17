@@ -1,0 +1,4 @@
+# Član 149
+## Smjernice za dugoročnu dodjelu prekozonskih prenosnih kapaciteta električne energije
+(1) Dugoročna dodjela kapaciteta između zona trgovanja na dugoročnim tržištima, uspostavljanje zajedničke metodologije za utvrđivanje dugoročnih kapaciteta između zona trgovanja, uspostavljanje regionalne platforme za dodjelu na kojoj se nude dugoročna prava prenosa, mogućnost vraćanja dugoročnih prava prenosa za naknadnu dugoročnu dodjelu kapaciteta ili za mogućnost prenosa prava dugoročnog prenosa između učesnika na tržištu i drugi elementi koji se odnose na dodjelu kapaciteta između zona trgovanja na dugoročnim tržištima vrši se u skladu sa odredbama čl. 149 do 210 ovog zakona.
+(2) Odredbe čl. 149 do 210 ovog zakona primjenjuju se na sve prenosne sisteme i interkonekcije u Crnoj Gori, osim na prenosne sisteme koji nijesu povezani sa drugim prenosnim sistemima preko interkonektivnih vodova.

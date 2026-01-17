@@ -1,0 +1,4 @@
+# Član 230
+## Evropska platforma za razmjenu balansne energije iz rezervi za ponovno uspostavljanje frekvencije ručnom aktivacijom
+(1) Operator prenosnog sistema dužan je preko evropske platforme za razmjenu energije iz rezervi za ponovno uspostavljanje frekvencije ručnom aktivacijom, uspostavljene u skladu sa članom 212 ovog zakona, dostavlja sve ponude za balansnu energiju iz svih standardnih proizvoda za rezerve za ponovno uspostavljanje frekvencije ručnom aktivacijom i razmjenjuje sve ponude za balansnu energiju iz svih standardnih proizvoda za rezerve za ponovno uspostavljanje frekvencije ručnom aktivacijom, osim neraspoloživih ponuda iz člana 238 stav 20 ovog zakona.
+(2) Operator prenosnog sistema dužan je da u najvećoj mogućnoj mjeri koristi platformu iz stava 1 ovog člana da zadovolji sve svoje potrebe za balansnom energijom iz rezerve za ponovno uspostavljanje frekvencije ručnom aktivacijom.
