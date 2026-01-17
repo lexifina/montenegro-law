@@ -1,0 +1,2 @@
+# Član 26
+Ako je period na koji je izdata dozvola za promet prekursora istekao, a pravno ili fizičko lice nije podnijelo zahtjev za obnovu dozvole, kao i kada je dozvola ukinuta ili suspendovana pravno ili fizičko lice je dužno da dozvolu vrati Ministarstvu, odnosno Institutu najkasnije u roku od deset dana od dana isteka perioda na koji je izdata, odnosno od dana dostavljanja rješenja o ukidanju ili suspendovanju dozvole.

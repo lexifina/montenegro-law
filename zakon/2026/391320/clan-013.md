@@ -1,0 +1,7 @@
+# Član 13
+Pravno ili fizičko lice kome je izdata dozvola za proizvodnju određenog prekursora, dužno je da najkasnije 60 radnih dana prije isteka perioda na koji je dozvola izdata podnese Ministarstvu, odnosno Institutu zahtjev za obnovu dozvole.
+Ministarstvo, odnosno Institut izdaje novu dozvolu za proizvodnju određenog prekursora najkasnije u roku od 60 radnih dana od dana prijema potpunog zahtjeva.
+Ako zahtjev iz stava 1 ovog člana nije potpun, Ministarstvo, odnosno Institut obavještava podnosioca da zahtjev dopuni najkasnije u roku od 15 radnih dana od dana dostavljanja obavještenja.
+Rok iz stava 2 ovog člana prestaje da teče od dana kada Ministarstvo, odnosno Institut zatraži dopunu zahtjeva i nastavlja da teče od dana dostavljanja traženih podataka.
+Ako podnosilac zahtjeva ne dopuni zahtjev za obnovu dozvole za proizvodnju prekursora u roku iz stava 3 ovog člana, Ministarstvo, odnosno Institut odbija zahtjev.
+Sadržinu zahtjeva za obnovu dozvole za proizvodnju prekursora propisuje Ministarstvo.

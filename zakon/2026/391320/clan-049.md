@@ -1,0 +1,2 @@
+# Član 49
+Novčanom kaznom u iznosu od 1.000 eura do 2.000 eura kazniće se za prekršaj fizičko lice iz člana 17 stav 1, ako bez odlaganja, ne obavijesti u pravnom licu nadležni organ o svim uočenim zloupotrebama u proizvodnji, odnosno prometu prekursora, o neuobičajenim porudžbinama, krađi prekursora ili drugim nedozvoljenim radnjama u vezi sa proizvodnjom, odnosno prometom prekursora, kao i u slučaju opravdane sumnje da postoji rizik od zloupotrebe prekursora u proizvodnji opojnih droga i psihotropnih supstanci.

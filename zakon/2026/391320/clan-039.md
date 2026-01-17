@@ -1,0 +1,5 @@
+# Član 39
+Za dobijanje dozvole za izvoz prekursora prve, druge i četvrte kategorije pravno ili fizičko lice koje vrši izvoz tog prekursora dužno je da dostavi Ministarstvu, odnosno Institutu i odgovarajuću dozvolu za uvoz izdatu od nadležnog organa države u koju se prekursor uvozi.
+Za dobijanje dozvole za izvoz prekursora treće kategorije nosilac dozvole za promet prekursora koji vrši izvoz tog prekursora dostavlja Ministarstvu odgovarajuću dozvolu za uvoz izdatu od nadležnog organa države u kojoj se vrši uvoz, samo kada je to zahtjev te države i koja se nalazi na listi zemalja koju je utvrdila Komisija za opojne droge u skladu sa Konvencijom Ujedinjenih nacija (1988).
+Dozvola za izvoz iz st. 1 i 2 ovog člana izdaje se nakon pribavljanja obavještenja prije izvoza (Pre Export Notification - PEN online).
+Ako nadležni organ države u koju se vrši uvoz prekursora ne odgovori na zahtjev provjere (Pre Export Notification - PEN online) iz stava 3 ovog člana u roku od 15 radnih dana, Ministarstvo, odnosno Institut izdaje dozvolu za izvoz prekursora.

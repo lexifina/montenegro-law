@@ -1,0 +1,5 @@
+# Član 27
+Dozvola za promet prekursora druge kategorije nije potrebna pravnom ili fizičkom licu koje u toku jedne kalendarske godine stavlja na tržište Crne Gore količine koje ne prelaze sljedeće granice: anhidrid sirćetne kiseline - 100 l, kalijum permanganate - 100 kg, antranilna kiselina i njene soli - 1 kg, fenilsirćetna kiselina i njene soli - 1 kg i piperidin i njegove soli - 0,5 kg.
+Dozvola za promet prekursora nije potrebna pravnom ili fizičkom licu koje u toku jedne kalendarske godine vrši izvoz prekursora treće kategorije u količinama koje ne prelaze sljedeće granice: aceton - 50 kg, etil eter - 20 kg, metil eter keton - 50 kg, toluen - 50 kg, sumporna kiselina - 100 kg i hlorovodonična kiselina - 100 kg, kao i soli ovih prekursora kada je njihovo postojanje moguće.
+Dozvola za promet prekursora nije potrebna ako količina prekursora u smješi tokom prethodne kalendarske godine ne prelazi granice iz stava 1 ovog člana.
+Pravno ili fizičko lice koje u toku kalendarske godine izvrši promet prekursora u većoj količini od količina navedih u st. 1, 2 i 3 ovog člana dužno je da prethodno podnese zahtjev za dobijanje dozvole za promet određenog prekursora.

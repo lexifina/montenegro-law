@@ -1,0 +1,5 @@
+# Član 33
+Pravno ili fizičko lice koje ima dozvolu za proizvodnju, odnosno promet prekursora prve kategorije koji se ne koriste za proizvodnju ljekova, druge i treće kategorije, dužno je da dostavlja godišnji izvještaj o proizvodnji i prometu prekursora Ministarstvu do 15. marta tekuće godine za prethodnu godinu, kao i godišnje potrebe za narednu godinu, a na zahtjev i ranije.
+Pravno ili fizičko lice koje ima dozvolu za proizvodnju, odnosno promet prekursora prve kategorije koji se koriste za proizvodnju ljekova i četvrte kategorije, dužno je da dostavlja godišnji izvještaj o proizvodnji i prometu prekursora Institutu, do 15. marta tekuće godine za prethodnu godinu, kao i godišnje potrebe za narednu godinu, a po zahtjevu i ranije.
+Pravno ili fizičko lice iz st. 1 i 2 ovog člana, dužno je da Ministarstvu, odnosno Institutu podnese izvještaj i kada nije bilo proizvodnje, odnosno prometa prekursora u toku prethodne godine.
+Bliži sadržaj izvještaja iz stava 1 ovog člana propisuje Ministarstvo.
