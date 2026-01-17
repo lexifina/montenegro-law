@@ -1,0 +1,3 @@
+# Član 1
+U Zakonu o stručnom obrazovanju ("Službeni list CG", br. 64/02, 49/07, 45/10, 39/13, 47/17, 145/21 i 69/25) u članu 16 stav 1 mijenja se i glasi:
+"Državljanin druge države, stranac koji traži međunarodnu zaštitu, azilant, stranac pod supsidijarnom zaštitom, stranac pod privremenom zaštitom i lice bez državljanstva, državljani država članica Evropske unije, Evropskog ekonomskog prostora i Švajcarske Konfederacije, kao i članovi njihovih porodica koji ostvaruju pravo na slobodno kretanje u Crnoj Gori, mogu se upisati u školu pod istim uslovima kao crnogorski državljanin, u skladu sa ovim zakonom."
