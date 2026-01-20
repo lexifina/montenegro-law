@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 1 tačka 1 i člana 38 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 85/22,81/25 i 98/25), člana 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 i 40/11) i člana 44 stav 1 tačka 9 Statuta opštine Budva ("Službeni list Crne Gore - Opštinski propisi", broj 2/19), Skupština opštine Budva, na sjednici održanoj 31. decembra 2025. godine, donijela je
+ODLUKU
