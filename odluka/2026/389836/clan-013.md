@@ -1,0 +1,3 @@
+# Član 13
+Organ lokalne uprave nadležan za sport vrši nadzor nad izvršavanjem obaveza iz ugovora o sufinansiranju sportskih organizacija.
+U postupku vršenja nadzora, na predlog organa lokalne uprave nadležnog za sport, predsjednik Opštine može jednostrano raskinuti ugovor sa sportskom organizacijom, ukoliko ista ne izvršava ugovorene obaveze i tražiti povraćaj dodijeljenih sredstava, ako odobrena sredstva ne koristi u skladu sa ugovorom ili ukoliko sportska organizacija ne nastupi na zvaničnim takmičenjima odnosno istupi iz takmičenja koje propisuje matični sportski savez, gubi pravo sufinansiranja iz budžeta Opštine Budva za sledeću godinu.

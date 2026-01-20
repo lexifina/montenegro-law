@@ -1,0 +1,6 @@
+# Član 6
+Postupak sufinansiranja tradicionalnih, lokalnih i drugih međunarodnih sportskih manifestacija od javnog interesa za Opštinu Budva
+Sredstva iz budžeta propisana za sufinansiranje sportskih manifestacija od društveno-ekonomskog značaja za opštinu Budva, predstavljaju sportske manifestacije od javnog interesa. Organizovanje profesionalnih, amaterskih i sportsko-rekreativnih sportskih manifestacija tradicionalnog, lokalnog ili međunarodnog klupskog ili reprezentativnog nivoa takmičenja u cilju promocije sporta, sportskog turizma i benefita turističke privrede, predstavljaju sportske manifestacije od javnog interesa za Opštinu Budva.
+Sportske organizacije iz Budve kao organizatori ili suorganizatori sportske manifestacije su dužni podnijeti zahtjev Opštini Budva sa elaboratom realizacije sportske manifestacije sa posebnim akcentom na potraživani iznos finansijske pomoći od Opštine Budva, termin održavanja i broj učesnika na manifestaciji.
+Odluku o predmetnom zahtjevu kao partneru u realizaciji sportske manifestacije donosi predsjednik Opštine nakon konsultacija sa Komisijom i Sekretarijatom nadležnim za razvoj sporta u Oštini Budva.
+Odluka o sufinansiranju sportskih manifestacija od javnog interesa je konačna.
