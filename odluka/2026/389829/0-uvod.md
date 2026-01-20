@@ -1,0 +1,3 @@
+Na osnovu člana 17 stav 2 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list Crne Gore", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18, 34/19, 130/21, 146/21, 92/22, 152/22, 113/23, 48/24 i 84/24), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 85/22, 81/25 i 98/25) i člana 44 stav 1 tačka 2 Statuta Opštine Budva ("Službeni list Crne Gore - Opštinski propisi", broj 2/19), uz saglasnost Ministarstva finansija, br. 07-110/25-30058/1 od 22. 9. 2025. godine, Skupština opštine Budva, na sjednici održanoj 31. decembra 2025. godine, donijela je
+ODLUKU
+o dodatku na osnovnu zaradu zaposlenih u Javnoj ustanovi Dnevni centar za djecu i omladinu
