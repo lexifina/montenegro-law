@@ -1,0 +1,2 @@
+# Član 8
+Nakon izrade projektne dokumentacije na osnovu ove odluke, a sve u skladu sa odredbama Zakona o izgradnji objekata ("Službeni list Crne Gore", br. 19/25 i 91/25) i odredbama Odluke o izgradnji lokalnih objekata od opšteg interesa na teritoriji opštine Budva ("Službeni list Crne Gore - Opštinski propisi", broj 66/23), Sekretarijat za urbanizam i održivi razvoj će sprovesti postupak izdavanja građevinske dozvole za izgradnju planiranog lokalnog objekta od opšteg interesa - višenamjenske sportske hale sa specijalizovanom salom za Akademiju boksa u Budvi.

@@ -1,0 +1,4 @@
+# Član 3
+Planirani lokalni objekat od opšteg interesa je sportski objekat - višenamjenska sportska hala sa specijalizovanom salom za Akademiju boksa u Budvi, na dijelu kat. parcele br. 1617/1 KO Budva, koji je namijenjen sportskim aktivnostima profesionalnog i rekreativnog karaktera i treba da obuhvati dvije osnovne funkcionalne cjeline:
+- višenamjensku sportsku halu sa mogućnošću korišćenja za košarku, rukomet, mali fudbal i odbojku namjenjenu treningu, rekreativnim aktivnostima i manjim takmičenjima uz prisustvo publike i
+- specijalizovanu salu za boks sa pratećim sadržajem za trenažni proces i takmičenja. Objekat treba da bude projektovan kao savremena sportska infrastruktura, dostupna različitim kategorijama korisnika, uključujući sportiste, trenere, sudije, klupsko osoblje i osjetioce.
