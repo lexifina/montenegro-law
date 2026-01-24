@@ -1,0 +1,6 @@
+# Član 22
+## 7. Produženo radno vrijeme
+Po zahtjevu privrednog subjekta koji se bavi djelatnosti iz oblasti trgovine, može se odobriti radno vrijeme duže od vremena propisanog ovom odlukom (u daljem tekstu produženo radon vrijeme), u objektu u kome se obavlja trgovina na malo prehrambenim proizvodima i pekari koja obavlja isključivo zanatsku, odnosno zanatsko-trgovinsku djelatnost, a koji su locirani na prometnim lokacijama(autobuska stanica, magistralni put i dr) kao i u zonama gdje je gustina naseljenosti stanovništva veća, uz prethodno pribavljeno mišljenje službe nadležne za vršenje komunalnog nadzora, u pogledu poštovanja komunalnog reda i radnog vremena, a za objekte locirane u stambenim zgradama uz prethodno pribavljenu saglasnost skupštine etažnih vlasnika.
+Odobrenje za produženo radno vrijeme izdaje se na period do tri mjeseca, s tim što se može produžavati pod uslovima iz prethodnog stava.
+Produženo radno vrijeme može se odobriti ugostiteljskim objektima za dane u kojima se organizuju proslave državnih i vjerskih praznika, kao i organizovanja maturskih večeri, najduže do 03,00 časa narednog dana, rješenjem organa lokalne uprave nadležnog za preduzetništvo.
+Zahtjev se predaje najmanje tri dana prije dana za koji se traži produženje radnog vremena.
