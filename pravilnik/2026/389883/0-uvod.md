@@ -1,0 +1,2 @@
+Na osnovu člana 69 stav 3 Zakona o vanjskim poslovima ("Službeni list CG", broj 70/17), Ministarstvo vanjskih poslova donijelo je
+PRAVILNIK O NAČINU STICANJA DIPLOMATSKOG ZVANJA, USLOVIMA I KRITERIJUMIMA ZA NAPREDOVANJE U VIŠE ZVANJE, KAO I O KRITERIJUMIMA I NAČINU OCJENJIVANJA DIPLOMATA
