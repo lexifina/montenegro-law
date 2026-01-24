@@ -1,0 +1,2 @@
+# Član 2
+Za utvrđivanje plana raspodjele sredstava Fonda za narednu godinu, po osnovu kriterijuma iz člana 17 stav 1 alineja 3 Zakona o finansiranju lokalne samouprave koriste se podaci organa uprave nadležnog za obračunavanje, kontrolu obračuna i naplatu poreza o prihodima od obračunatog poreza na dohodak fizičkih lica za godinu koja prethodi godini u kojoj se vrši raspodjela sredstava Fonda, na dan 30. septembar tekuće godine.
