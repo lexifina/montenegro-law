@@ -1,0 +1,3 @@
+# Član 13
+U slučajevima kada odustane od emisije hartija od vrijednosti uz izdavanje zatvorenog prospekta ili kada ovakva emisija hartija od vrijednosti ne uspije, emitent je obavezan da o tome obavijesti Komisiju u roku od osam dana od dana donošenja odluke o odustajanju od emisije, odnosno u roku od osam dana od dana isteka roka za upis i uplatu hartija od vrijednosti.
+U slučaju kad podnosilac zahtjeva odustane od emisije hartija od vrijednosti Komisija donosi rješenje o obustavljanju postupka, a u slučaju kada emisija hartija od vrijednosti ne uspije Komisija donosi rješenje o poništavanju rješenja o evidentiranju zatvorenog prospekta.
