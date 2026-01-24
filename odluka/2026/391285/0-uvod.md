@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG - Opštinski propisi", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 37 Statuta Opštine Plav ("Službeni list CG - Opštinski propisi", broj 44/18) i člana 19 i 28 Statuta JU Centar za kulturu 65/21 od 3. 3. 2021. godine i člana 7 stav 2 Odluke o organizovanju Javne ustanove Centar za kulturu ("Službeni list CG - Opštinski propisi", br. 25/09 od 29. 7. 2009. godine), Skupština opština Plav, na sjednici održanoj dana 29. 12. 2025. godine, donijela je
+ODLUKU
