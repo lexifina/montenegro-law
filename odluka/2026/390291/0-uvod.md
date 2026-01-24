@@ -1,0 +1,4 @@
+Na osnovu člana 1. stav 1, člana 2, člana 2a. i člana 4a. Zakona o eksproprijaciji ("Službeni list RCG", broj 55/00, 12/02, 28/06 i "Službeni list Crne Gore", br. 21/08, 30/17, 75/18, 33/24 i 53/25), u vezi sa članom 10 Zakona o svojinsko-pravnim odnosima ("Službeni list Crne Gore", br. 19/09 i 29/25), shodno članu 28. stav 1. tačka 5. i članu 38 stav 1 tačka 2. Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/2018, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) a saglasno članu 15. stav 1. tačka 5., kao i članu 33 stav 1. tačka 2, Statuta Opštine Plav ("Službeni list Crne Gore - Opštinski propisi", broj 44/18), Skupština opštine Plav, na sjednici održanoj dana 29. 12. 2025. godine, donijela je
+ODLUKU
+o izmjenama i dopunama Odluke o utvrđivanju javnog interesa za eksproprijaciju
+nepokretnosti za izgradnju Nove ulice ("Službeni list Crne Gore - Opštinski propisi", br. 3/25
