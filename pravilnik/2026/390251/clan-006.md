@@ -1,0 +1,5 @@
+# Član 6
+## Način rada Komisije
+Komisija za raspodjelu sredstava po javnom konkursu (u daljem tekstu: Komisija) vrši bodovanje u skladu sa članom 5 ovog pravilnika, tako što svaki član Komisije popunjava obrazac za vrednovanje programa, odnosno projekta.
+Konačan broj bodova za svaki program, odnosno projekat utvrđuje se tako što se zbir ukupnog broja bodova svih članova Komisije podijeli sa brojem članova Komisije.
+Obrazac iz stava 1 ovog člana sadrži: naziv "Obrazac za vrednovanje programa, odnosno projekta", naziv "Komisija za raspodjelu sredstava za sufinansiranje programa, odnosno projekata u oblastima saradnje sa dijasporom - iseljenicima", naziv i godinu objavljivanja javnog konkursa, naziv programa, odnosno projekta, naziv, odnosno ime i prezime podnosioca prijave, kriterijume za vrednovanje programa, odnosno projekta, mjesta za unos bodova na osnovu svakog pojedinačnog kriterijuma, obrazloženje dodijeljenih bodova, ukupan broj bodova po svim kriterijumima, mjesto za unos komentara, kao i mjesto i datum popunjavanja obrasca i potpis člana Komisije (Obrazac 2).
