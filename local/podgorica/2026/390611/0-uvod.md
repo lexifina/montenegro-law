@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 1 tačka 7 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 02/18, 34/19, 38/20, 50/22, 84/22 i 81/25) i člana 100 stav 1 tačka 9 Statuta Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", br. 08/19, 20/21, 49/22 i 51/25), po pribavljenom mišljenju glavnog administratora broj: 03- 019/26-70/1 od 10. 2. 2026. godine, gradonačelnik Glavnog grada, dana 10. 2. 2026. godine, donosi
+ODLUKU

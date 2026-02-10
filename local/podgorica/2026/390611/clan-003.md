@@ -1,0 +1,5 @@
+# Član 3
+U članu 21 poslije tačke 23 dodaju se tri nove tačke koje glase:
+,,23a) prikupljanje i obradu podataka od starješina organa uprave, posebnih i stručnih službi i direktora javnih službi o pripremi i sprovođenju zakona i drugih propisa, državnih planskih, programskih i drugih akata od uticaja na Glavni grad kao i propisa, planskih, programskih i drugih akata skupštine, gradonačelnika, organa uprave, posebnih, stručnih i javnih službi Glavnog grada;
+23b) saradnju sa civilnim sektorom u okviru djelokruga službe;
+23c) prijem zahtjeva građana i drugih subjekata za informacije o nadležnosti, načinu ostvarivanja prava i obaveza pred organima lokalne samouprave, lokalne uprave i javnih službi, njihovo prosleđivanje nadležnim organima i službama i dostavljanje povratne informacije podnosiocu zahtjeva u roku od 48 sati od časa prijema; vođenje evidencije o primljenim i riješenim zahtjevima sa rokom rješavanja; prijem i obradu drugih zahtjeva, predstavki, inicijativa, pritužbi i sl. podnesenih gradonačelniku;"
