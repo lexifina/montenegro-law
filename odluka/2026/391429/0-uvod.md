@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list CG", br. 40/10, 6/13, 70/17 i 125/23), a u vezi sa članom 35 st. 4, 7 i 9 i člana 41 stav 1 Zakona o sanaciji kreditnih institucija ("Službeni list CG", br. 72/19, 8/21 i 113/24), Savjet Centralne banke Crne Gore, na sjednici održanoj 26.01.2026. godine, donio je
+ODLUKU O DOPUNI ODLUKE O OBAVJEŠTENJIMA U VEZI SA SANACIJOM KREDITNE INSTITUCIJE
