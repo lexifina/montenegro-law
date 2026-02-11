@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list CG", br. 40/10, 6/13, 70/17 i 125/23) i člana 176 stav 2 Zakona o kreditnim institucijama ("Službeni list CG", br. 72/19, 8/21 i 24/25), Savjet Centralne banke Crne Gore, na sjednici održanoj 26. januara 2026. godine, donio je
+ODLUKU O IZMJENI I DOPUNI ODLUKE O MINIMALNIM STANDARDIMA ZA ULAGANJA KREDITNIH INSTITUCIJA U NEPOKRETNOSTI I OSNOVNA SREDSTVA
