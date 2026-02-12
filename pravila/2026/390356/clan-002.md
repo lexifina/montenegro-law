@@ -1,0 +1,3 @@
+# Član 2
+## Obveznici
+Odredbe ovih Pravila primjenjuju se na emitente sa sjedištem u Crnoj Gori čije su akcije sa pravom glasa, na dan 31. decembra godine za koju se dostavljaju informacije i podaci, uključene na regulisano tržište u Crnoj Gori (u daljem tekstu: emitenti), a koji su dužni da Komisiji dostavljaju informacije i podatke koje su obavezni da javno objavljuju u skladu sa Zakonom, propisima kojima se uređuje osnivanje i poslovanje privrednih društava, računovodstvo i primjena standarda finansijskog izvještavanja, revizija finansijskih izvještaja, Kodeksom korporativnog upravljanja koji je usvojila Komisija (u daljem tekstu: Kodeks), kao i drugim propisima kojima se uređuje korporativno upravljanje.
