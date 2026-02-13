@@ -1,0 +1,2 @@
+Na osnovu člana 18 stav 1 tačka 5 Statuta Komore arhitekata i planera Crne Gore ("Službeni list Crne Gore", br. 04/26), uz prethodno pribavljenu saglasnost Ministarstva prostornog planiranja, urbanizma i državne imovine Skupština Komore arhitekata i planera Crne Gore na sjednici održanoj 06.02.2026. godine donosi
+PRAVILNIK O USLOVIMA I NAČINU MIROVANJA ČLANSTVA U KOMORI ARHITEKATA I PLANERA CRNE GORE
