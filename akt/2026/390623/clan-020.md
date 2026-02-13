@@ -1,0 +1,4 @@
+# Član 20
+Članovi Komore su povjerljivi zastupnici klijenata. Oni, u skladu sa pravilima nauke i struke, poštujući načelo savjesnosti, poštenja i javnog interesa, zastupaju prava investitora u odnosu na druge učesnike u izgradnji objekata.
+Prilikom vršenja poslova iz svoje djelatnosti dužni su da čuvaju profesionalnu tajnu investitora, bilo da je riječ o onome što im je povjereno ili da povjerljivost proizilazi iz okolnosti slučaja, ne dopuštajući da sve čime raspolažu bude dostupno trećim licima, osim ako to nije zahtjev nadležnih organa ili Komore, u skladu sa zakonom i internim aktima.
+Članovi Komore, kao i svi učesnici ili preduzeća koji pod nadzorom člana Komore učestvuju na izvršenju posla, dužni su da čuvaju profesionalnu tajnu investitora, koju ne smiju prenositi ili zloupotrebljavati.

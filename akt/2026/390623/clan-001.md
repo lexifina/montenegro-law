@@ -1,0 +1,4 @@
+# Član 1
+Kodeks strukovne etike članova Komore arhitekata i planera Crne Gore (u daljem tekstu: Kodeks) je skup pravila o pravima i dužnostima članova Komore, zasnovanih na posebnoj vrsti i visokom stepenu profesionalne i moralne odgovornosti njihove profesije.
+Kodeksom se utvrđuje skup etičkih načela i pravila ponašanja kojih se članovi Komore arhitekata i planera Crne Gore (u daljem tekstu: Komora) pridržavaju pri obavljanju svoje profesionalne djelatnosti, sa ciljem očuvanja dostojanstva i ugleda struke.
+Članovi Komore obavljaju poslove iz svoje struke u skladu sa zakonima kojima se regulišu oblasti uređenja prostora i izgradnje objekata i u skladu sa drugim zakonima, pravilnicima, standardima, normativima, i ostalim propisima donesenim na osnovu tih zakona, Statutom Komore, ovim Kodeksom i drugim opštim aktima Komore.

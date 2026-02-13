@@ -1,0 +1,2 @@
+Na osnovu člana 122 stav 1 i 4 Zakona o uređenju prostora ("Sl. list CG" br. 19/2025), i člana 18 stav 1, tačka 2, Statuta Komore arhitekata i planera Crne Gore ("Službeni list Crne Gore", br. 04/26) uz prethodno pribavljenu saglasnost Ministarstva prostornog planiranja, urbanizma i državne imovine, Skupština Komore arhitekata i planera Crne Gore je na sjednici Skupštine, održanoj 27.01.2026. godine, donijela
+KODEKS STRUKOVNE ETIKE ČLANOVA KOMORE ARHITEKATA I PLANERA CRNE GORE
