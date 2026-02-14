@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se obim i vrsta podataka i informacija koje su od značaja za obezbjeđivanje kvaliteta i bezbjednosti ljudskih organa (u daljem tekstu: organi), način i uslovi za procjenu podobnosti i odabir živog ili umrlog davaoca, obim i vrsta laboratorijskih testiranja za procjenu podobnosti živog i umrlog davaoca, način praćenja zdravstvenog stanja živog davaoca nakon uzimanja organa, kao i druga pitanja od značaja za ove postupke.
