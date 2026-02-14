@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom utvrđuju se bliži uslovi u pogledu stručne kvalifikacije i stručne osposobljenosti koje treba da ispunjavaju lica koja obavljaju poslove od značaja za sigurnost vazdušnog saobraćaja, bliži uslovi u pogledu kadra i opreme koje mora da ispunjava pravno ili fizičko lice koje obavlja poslove stručnog osposobljavanja lica koja obavljaju poslove od značaja za sigurnost vazdušnog saobraćaja, kao i postupak sticanja, produženja roka važenja i obnavljanja potvrde o stručnoj osposobljenosti za obavljanje poslova od značaja za sigurnost vazdušnog saobraćaja, sadržaj programa obuke i postupak izdavanja ovlašćenja za stručno osposobljavanje.
