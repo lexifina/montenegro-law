@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 7 Zakona o Državnoj revizorskoj instituciji ("Službeni list RCG", br. 28/04, 27/06, 78/06, "Službeni list CG" br. 17/07 i 31/14), člana 8 Poslovnika Državne revizorske institucije ("Službeni list CG", br. 03/15 i 94/24), Senat Državne revizorske institucije na 559. sjednici, donio je
+P R A V I L N I K O IZMJENAMA I DOPUNI PRAVILNIKA O PROGRAMU I NAČINU POLAGANJA ISPITA ZA DRŽAVNOG REVIZORA
