@@ -1,0 +1,5 @@
+# Član 235
+## Prikrivena kupovina
+(1) Radi utvrđivanja nepravilnosti u sprovođenju propisa kojima se štite interesi potrošača, inspektor je ovlašćen da bez prethodnog obavještavanja i legitimisanja subjektu nadzora, izvrši prikrivenu kupovinu u slučaju sumnje da lice obavlja djelatnost bez prethodne registracije, odnosno propisanog pristupa djelatnosti, ili da ne izdaje račun, ili da na drugi način ne poštuje odredbe propisa kojima se štite interesi potrošača, ako se na taj način mogu obezbijediti dokazi, odnosno utvrditi nepravilnosti ili podaci o licu koje ne poštuje odredbe propisa kojima se štite interesi potrošača.
+(2) Ako se tokom postupka nadzora odnosno kupovine iz stava 1 ovog člana utvrdi povreda odredaba propisa kojima se štite interesi potrošača, trgovac je dužan da snosi trošak kupljenog proizvoda.
+(3) Ako je tokom postupka nadzora potrebno sprovesti ispitivanje ili vještačenje proizvoda koji je kupljen prikrivenom kupovinom iz stava 1 ovog člana, troškove ispitivanja ili vještačenja snosi trgovac, ako se utvrdi da uzorci ne ispunjavaju zahtjeve utvrđene zakonom.

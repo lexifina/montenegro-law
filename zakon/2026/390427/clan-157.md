@@ -1,0 +1,15 @@
+# Član 157
+## Poja ob anjujuće poslovne prakse
+(1) Poslovna praksa smatra se obmanjujućom ako sadrži informacije koje je čine neistinitom, ili na bilo koji način, uključujući i cjelokupno predstavljanje, obmanjuje ili je vjerovatno da će obmanuti prosječnog potrošača, čak i ako su te informacije tačne u pogledu neke od okolnosti iz stava 2 ovog člana, i u svakom slučaju ga navodi ili je vjerovatno da će da ga navede da donese odluku o poslu koju inače ne bi donio.
+(2) Postojanje obmanjujuće poslovne prakse može da se odnosi na sljedeće okolnosti:
+1) postojanje ili prirodu proizvoda;
+2) osnovne karakteristike proizvoda koje se odnose na dostupnost, korist, rizike, način izrade, sastav, dodatke koji prate proizvod, pomoć koja se pruža potrošačima poslije prodaje i postupanje po njihovim prigovorima, način i datum proizvodnje ili nabavke, isporuku, podobnost za ostvarivanje cilja, način korišćenja, količina, specifikacija, geografsko ili tržišno porijeklo, rezultati koji se očekuju od njegove upotrebe ili rezultati i bitni pokazatelji ispitivanja ili provjera sprovedenih na proizvodu;
+3) obim obaveza trgovca, razloge za određeno postupanje trgovca, kao i prirodu postupka prodaje, izjavu ili simbol koji se odnosi na direktno ili indirektno sponzorstvo ili preporučivanje trgovca ili proizvoda;
+4) cijenu proizvoda ili način na koji je cijena obračunata ili obećanje prodajne pogodnosti u pogledu cijene;
+5) potrebu servisiranja, rezervnih dijelova, zamjenu ili popravku;
+6) prirodu, obilježja i prava trgovca ili njegovog zastupnika, kao što su identitet, imovina, kvalifikacije, status, odobrenja, članstvo u određenim udruženjima ili povezanost sa drugim subjektima, industrijska, komercijalna ili intelektualna svojina, nagrade i priznanja;
+7) prava potrošača, uključujući pravo zamjene ili povraćaja plaćenog iznosa, u skladu sa odredbama ovog zakona kojima se uređuje saobraznost ugovoru i komercijalna garancija, kao i rizicima kojima potrošač može biti izložen.
+(3) Poslovna praksa smatra se obmanjujućom i ako, u određenom slučaju, uzimajući u obzir sva obilježja i okolnosti slučaja, prosječnog potrošača navede ili je vjerovatno da će da ga navede da donese odluku o poslu koju inače ne bi donio, a obuhvata:
+1) bilo koji oblik stavljanja proizvoda na tržište, uključujući i komparativno oglašavanje koje otežava razlikovanje tog proizvoda od drugih proizvoda, žigova, trgovačkih naziva ili drugih znakova raspoznavanja konkurenata na tržištu;
+2) nepoštovanje obaveza od strane trgovca, koje proizilaze iz kodeksa koji ga obavezuje, pod uslovom da ta obaveza ne predstavlja samo namjeru već utvrđenu obavezu koju je moguće provjeriti, a pod uslovom da je trgovac u okviru poslovne prakse naznačio da je vezan tim kodeksom;
+3) bilo koji oblik stavljanja proizvoda na tržište u Crnoj Gori uz tvrdnju da je identičan robi stavljenoj na tržište u državama članicama Evropske unije i kad se taj proizvod značajno razlikuje po sastavu ili karakteristikama, osim ako je to opravdano legitimnim i objektivnim činjenicama.

@@ -1,0 +1,7 @@
+# Član 44
+## Potrošački servis
+(1) Trgovac koji pruža usluge od javnog interesa dužan je da obezbijedi potrošački servis za pružanje potrebnih informacija potrošačima i prijem prigovora u skladu sa članom 27 ovog zakona.
+(2) Potrošač ima pravo da, pored prigovora iz člana 27 ovog zakona, uloži i prigovor u vezi sa pristupom uslugama od javnog interesa, uključujući i priključak na distributivnu mrežu, kao i prigovor na korišćenje i kvalitet usluge od javnog interesa.
+(3) Trgovac iz stava 1 ovog člana dužan je da u poslovnim prostorijama čitko, jasno, razumljivo i lako uočljivo istakne radno vrijeme potrošačkog servisa, odnosno na drugi odgovarajući način o tome obavijesti potrošača, s tim da radno vrijeme potrošačkog servisa mora biti organizovano radnim danima, uključujući i subotu, u prijepodnevnim i poslijepodnevnim intervalima.
+(4) Teret dokazivanja da je ispunio obavezu iz stava 3 ovog člana je na trgovcu.
+(5) Na način podnošenja prigovora, isticanje obavještenja o načinu i mjestu podnošenja prigovora, teret dokazivanja o isticanju obavještenja, vođenje evidencije prigovora potrošača, obavezu lica ovlašćenog za primanje prigovora, kao i na obavezu izdavanja potvrde o prijemu prigovora, ako se o prigovoru ne rješava bez odlaganja, i sadržinu evidencije i potvrde i rokove rješavanja po prigovoru potrošača iz stava 1 ovog člana shodno se primjenjuje čl. 27, 28 i 29 ovog zakona.

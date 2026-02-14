@@ -1,0 +1,7 @@
+# Član 45
+## Polje primjene
+(1) Odredbe st. 2 do 5 ovog člana i čl. 46 do 65 ovog zakona, primjenjuju se na ugovore o kupoprodaji, uključujući ugovore o isporuci robe koju je potrebno izraditi ili proizvesti.
+(2) Odredbe st. 3, 4 i 5 ovog člana i čl. 46 do 65 ovog zakona ne primjenjuju se na ugovore o isporuci digitalnog sadržaja ili digitalnih usluga, osim ako je digitalni sadržaj ili digitalna usluga ugrađena u robu ili je povezana sa robom na način koji bi onemogućio funkcionisanje robe bez tog digitalnog sadržaja ili te digitalne usluge sa digitalnim elementima i koji se isporučuju zajedno sa robom na osnovu ugovora o kupoprodaji, bez obzira da li isporuku tog digitalnog sadržaja ili digitalne usluge vrši trgovac ili treća strana.
+(3) U slučaju sumnje da li isporuka ugrađenog ili povezanog digitalnog sadržaja ili ugrađene ili povezane digitalne usluge čini dio ugovora o kupoprodaji, pretpostavlja se da su digitalni sadržaj ili digitalna usluga obuhvaćeni ugovorom o kupoprodaji.
+(4) Odredbe čl. 46 do 65 ovog zakona ne primjenjuju se na trajni medij koji služi isključivo kao nosač digitalnog sadržaja, kao ni na robu koja se prodaje u izvršnom ili drugom prinudnom postupku u skladu sa zakonom.
+(5) Na zaključivanje, valjanost i dejstvo ugovora, uključujući posljedice raskida ugovora, kao i na naknadu štete zbog nesaobraznosti robe primjenjuju se odredbe zakona kojim se uređuju obligacioni odnosi, ako odredbama čl. 46 do 65 ovog zakona nije drukčije uređeno.

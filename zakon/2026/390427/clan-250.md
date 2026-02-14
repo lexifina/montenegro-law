@@ -1,0 +1,6 @@
+# Član 250
+## Novčane kazne za raširene povrede potrošačkih prava
+(1) Za prekršaje iz čl. 242 do 244 ovog zakona koji se odnose na kršenje odredaba ovog zakona kojim se uređuju potrošački ugovorni odnosi, ugovori zaključeni na daljinu, nepoštene ugovorne odredbe i nepoštene poslovne prakse, ako prekršaj predstavlja raširenu povredu u smislu člana 3 tačka 3 Regulative (EU) 2017/2394, kazniće se trgovac, preduzetnik i fizičko lice novčanom kaznom od 0,5 % do 4 % ukupnog godišnjeg prihoda u odgovarajućoj državi članici ili državama članicama Evropske unije ostvarenog u godini koja prethodni godini kada je počinjen prekršaj.
+(2) Ako prekršaj iz stava 1 ovog člana predstavlja raširenu povredu sa dimenzijom Evropske unije u smislu člana 3 tačka 4 Regulative (EU) 2017/2394, kazniće se trgovac, preduzetnik i fizičko lice novčanom kaznom od 1,5 % do 5 % ukupnog godišnjeg prihoda u odgovarajućoj državi članici ili državama članicama Evropske unije ostvarenog u godini koja prethodni godini kada je počinjen prekršaj.
+(3) Ako podaci o godišnjem prihodu trgovca, preduzetnika i fizičkog lica nijesu dostupni, za prekršaj iz st. 1 i 2 ovog člana kazniće se trgovac, preduzetnik i fizičko lice novčanom kaznom od 5.000 do 2.000.000 eura.
+(4) Za prekršaj iz st. 1 i 2 ovog člana kazniće se i odgovorno lice u pravnom licu novčanom kaznom od 4.000 do 8.000 eura.

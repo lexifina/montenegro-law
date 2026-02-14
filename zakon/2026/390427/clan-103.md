@@ -1,0 +1,6 @@
+# Član 103
+## Obavještenje
+(1) Trgovac je dužan da obavještenje iz člana 86 stav 1 tač. 1 i 2 i člana 93 stav 3 ovog zakona, prije zaključenja ugovora na daljinu, prilagodi sredstvima komunikacije na daljinu koja koristi i obezbijedi njegovo saopštavanje jednostavnim i razumljivim jezikom, a ako se daje na trajnom mediju, i čitko napisano.
+(2) Ako se ugovor zaključi putem sredstva komunikacije na daljinu koje omogućava ograničen prostor ili ograničeno vrijeme za prikazivanje obavještenja, trgovac je dužan da putem tog sredstva obavijesti potrošača naročito o podacima iz člana 93 stav 3 tač. 1, 2, 5, 8 i 15 i člana 94 st. 1, 2 i 3 ovog zakona, osim o obrascu za jednostrani raskid ugovora iz člana 112 stav 1 ovog zakona.
+(3) Ako za potrebe zaključenja ugovora trgovac kontaktira potrošača putem telefona dužan je da na početku komunikacije navede svoj identitet, odnosno identitet lica u čije ime i/ili za čiji račun nastupa, kao i komercijalnu svrhu poziva i da pruži informacije iz stava 2 ovog člana.
+(4) U slučaju iz stava 2 ovog člana trgovac je dužan da potrošača obavijesti o podacima i ostalim informacijama iz člana 93 stav 3 ovog zakona, uključujući informacije o obrascu za jednostrani raskid ugovora iz člana 112 stav 1 ovog zakona, na primjeren način u skladu sa stavom 1 ovog člana.

@@ -1,0 +1,9 @@
+# Član 75
+## Teret dokazivanja u odnosu na isporuku i saobraznost digitalnog sadržaja ili digitalne usluge
+(1) Teret dokazivanja da li je digitalni sadržaj ili digitalna usluga isporučena u skladu sa članom 68 ovog zakona je na trgovcu.
+(2) U slučaju iz člana 74 stav 2 ovog zakona, teret dokazivanja da li su isporučeni digitalni sadržaj ili digitalna usluga bili saobrazni u trenutku isporuke je na trgovcu i to za nesaobraznost koja postane očigledna u roku od godinu dana od trenutka isporuke digitalnog sadržaja ili digitalne usluge.
+(3) U slučaju iz člana 74 stav 5 ovog zakona, teret dokazivanja da li su isporučeni digitalni sadržaj ili digitalna usluga bili saobrazni tokom perioda u kome je u skladu sa ugovorom predviđena isporuka digitalnog sadržaja ili digitalne usluge je na trgovcu za nesaobraznost koja postane očigledna tokom tog perioda.
+(4) Odredbe st. 2 i 3 ovog člana ne primjenjuju se ako trgovac dokaže da digitalno okruženje potrošača nije kompatibilno sa tehničkim zahtjevima digitalnog sadržaja ili digitalne usluge i da je na jasan i razumljiv način obavijestio potrošača o tim zahtjevima prije zaključenja ugovora.
+(5) Potrošač je dužan da sarađuje sa trgovcem, u mjeri u kojoj je to razumno moguće i potrebno, radi utvrđivanja da li je uzrok nesaobraznosti digitalnog sadržaja ili digitalne usluge u slučaju iz člana 74 st. 2, 3 i 5 ovog zakona u digitalnom okruženju potrošača.
+(6) Obaveza saradnje iz stava 5 ovog člana ograničena je na tehnički dostupna sredstva koja su najmanje opterećujuća za potrošača.
+(7) Ako potrošač ne sarađuje sa trgovcem u skladu sa stavom 5 ovog člana, a trgovac je na jasan i razumljiv način prije zaključenja ugovora obavijestio potrošača o tehničkim zahtjevima za digitalni sadržaj ili digitalnu uslugu, teret dokazivanja da li je nesaobrazost postojala u slučaju iz člana 74 st. 2, 3 i 5 ovog zakona je na potrošaču.
