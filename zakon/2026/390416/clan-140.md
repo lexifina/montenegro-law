@@ -1,0 +1,30 @@
+# Član 140
+Novčanom kaznom u iznosu od 3.000 do 10.000 eura kazniće se za prekršaj pravno lice, ako:
+1) ne objavi tarifu najkasnije 15 dana prije početka njene primjene (član 4 stav 2);
+2) ne stavi na uvid tarifu u svakoj željezničkoj stanici otvorenoj za prevoz putnika (član 4 stav 4);
+3) ne obavještava putnike o mogućnosti i načinu kupovine voznih karata putem telefona, interneta ili u vozu, odnosno o najbližoj željezničkoj stanici ili prodajnom mjestu, odnosno uređaju za prodaju voznih karata (član 14 stav 4);
+4) ako pruža usluge željezničkog prevoza putnika na dugim relacijama ili usluge regionalnog željezničkog prevoza putnika a ne nudi jedinstvenu kartu za te usluge (član 15 stav 1);
+5) međusobno ne sarađuju kako bi putniku nudili jednistvene karte (član 15 stav 2);
+6) na zahtjev putnika ne pruži informacije u vezi sa putovanjem iz člana 16 stav 2 ovog zakona za koje se nudi ugovor o prevozu (član 16 stav 1);
+7) ne istakne na vidnom mjestu u svakoj stanici otvorenoj za prevoz putnika izvod iz reda vožnje (član 16 stav 6);
+8) na odgovarajući način ne objave odluku o privremenom ili trajnom prekidu pružanja usluga, prije njene primjene, u skladu sa opštim pravilima o pristupačnosti proizvoda i usluga na način propisan članom 19 ovog zakona
+9) prilikom prodaje voznih karata za putovanja željeznicom ne informišu putnike o njihovim pravima i obavezama u skladu sa ovim zakonom, kao i o mjestu i načinu na koji se te informacije mogu pribaviti u slučaju otkazivanja putovanja, propuštene veze ili dugog kašnjenja, u štampanom ili elektronskom obliku ili na drugi odgovarajući način, kao i u skladu sa članom 19 ovog zakona (članu 20 stav 1);
+10) na odgovarajući način i u pristupačnim oblicima u skladu sa čl. 18 i 19 ovog zakona ne informišu putnike na stanici, u vozu i na svojoj internet stranici o njihovim pravima i obavezama u skladu sa ovim zakonom i o kontakt podacima Agencije (član 20 stav 2);
+11) ne uspostave i ne primjenjuju nediskriminatorna pravila o pristupačnosti prevoza za lica sa invaliditetom i lica sa smanjenom pokretljivošću, uključujući njihove asistente i psa pomagača u skladu sa propisima kojima se uređuje interoperabilnost (član 21 stav 1);
+12) naplati dodatne troškove za rezervaciju i izdavanje vozne karte licu sa invaliditetom i licu sa smanjenom pokretljivošću (član 21 stav 3);
+13) odbije rezervaciju ili izdavanje vozne karte licu sa invaliditetom ili licu sa smanjenom pokretljivošću ili zahtjeva pratnju tih lica, osim ako je pratnja potrebna radi poštovanja pravila pristupačnosti iz člana 21 stav 1 ovog zakona (član 21 stav 4);
+14) ne pruži na zahtjev lica sa invaliditetom i lica sa smanjenom pokretljivošću informacije o pristupačnosti željezničke stanice, povezanih objekata, željezničkih usluga i o uslovima pristupa željezničkim vozilima u skladu sa pravilima o pristupačnosti iz čl. 16 i 18 i člana 21 stav 1 ovog zakona,kao i informacije o opremi u vozu (član 22 stav 1);
+15) na pisani zahtjev ne obavijesti lice sa invaliditetom ili lice sa smanjenom pokretljivošću o razlozima odbijanja rezervacije, odbijanja izdavanja karte ili određivanja uslova da to lice mora da ima pratnju, u roku od pet radnih dana od odbijanja ili određivanja tih uslova. (član 22 stav 2);
+16) ne obezbijedi licu sa invaliditetom ili licu sa smanjenom pokretljivošću u skladu s pravilima o dostupnosti pomoć prilikom ukrcavanja ili iskrcavanja u slučaju putovanja vozom bez osoblja, u skladu sa pravilima o pristupačnosti iz člana 21 ovog zakona, kada je na stanici prisutno stručno osoblje (član 23 stav 1 tač. 4);
+17) ne obezbijedi licu sa invaliditetom ili licu sa smanjenom pokretljivošću pomoć bez naknade prilikom polaska sa željezničke stanice na kojoj je prisutno osoblje, prolaz kroz željezničku stanicu ili dolazak na željezničku stanicu na kojoj je prisutno osoblje, na način da se lice sa invaliditetom ili lice sa smanjenom pokretljivošću može ukrcati u voz, prebaciti na povezanu željezničku uslugu za koju ima kartu ili se iskrcati iz voza, pod uslovom da je prisutno stručno osoblje (član 23 stav 1 tač. 5);
+18) licima sa invaliditetom i licima sa smanjenom pokretljivošću ne pruže pomoć bez naknade u skladu sa čl. 21 i 23 ovog zakona, i u te svrhe ne uspostave i ne stave na raspolaganje jedinstveni mehanizam obavještavanja (član 24 stav 11 i član 144);
+19) ne ponudi putniku izbor između mogućnosti propisanih članom 27 stav 1 ovog zakona kada je bilo očekivano da će dolazak voza na uputnu stanicu kasniti 60 minuta i više ili je otkazana usluga (član 27 stav 1 tač. 1 do 3);
+20) ne informiše putnike u slučaju kašnjenja voza ili otkazivanja usluge i o procijenjenom vremenu polaska i dolaska voza ili o zamjenskoj usluzi, odmah nakon dostupnosti tih informacija (član 30 stav 1);
+21) ne ponudi putnicima usluge propisane članom 30 ovog zakona bez naknade, ako kašnjenje voza iznosi 60 minuta ili više ili je usluga otkazana (član 30 stav 3);
+22) ne obezbijedi alternativni prevoz, kada se usluga željezničkog prevoza ne može nastaviti u razumnom roku (član 30 stav 4);
+23) ne vodi računa o licima s invaliditetom i licima sa smanjenom pokretljivošću i licima u njihovoj pratnji, kao i pasa pomagača,prilikom pružanja pomoći u slučaju kašnjenja ili otkazivanja usluge (član 30 stav 6);
+24) ne uspostavi standarde kvaliteta usluge i ne sprovodi sistem upravljanja kvalitetom usluge (član 33 stav 1);
+25) ne prati kvalitet svojih usluga i ne objavi izvještaj o kvalitetu svojih usluga na svojoj internet stranici, na svake dvije godine (član 33 st. 2 i 3);
+26) u slučaju smrti ili povrede putnika bez odlaganja, a najkasnije u roku od 15 dana od dana utvrđivanja identiteta imaoca prava ne izvrši avansno plaćanje potrebno za ispunjenje neodložnih ekonomskih potreba, srazmjerno pretrpljenoj šteti (član 38 stav 1);
+27) ne omogući putniku unošenje bicikla u voz nakon plaćanja razumne naknade i, kada je primjenjivo, rezervaciju prevoza bicikla (član 55 st. 1 i 2).
+Za prekršaje iz stava 1 ovog člana kazniće se i odgovorno lice u pravnom licu novčanom kaznom u iznosu od 500 do 1.500 eura.
