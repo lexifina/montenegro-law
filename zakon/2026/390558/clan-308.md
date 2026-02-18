@@ -1,0 +1,3 @@
+# Član 308
+Odredbe člana 300 ovog zakona koji se odnose na upotrebu antimikrobnih ljekova radi podsticanja rasta ili za povećanje prinosa kod životinja i odredbe člana 241 stav 3 ovog zakona koje se odnose na zabranu upotrebe kod životinja antimikrobnih supstanci ili grupa animikrobnih supstanci namijenjenih isključivo za liječenje određenih infekcija kod ljudi primjenjuju se u zavisnosti od slučaja i na životinje koje se uvoze u Crnu Goru.
+Bliže zahtjeve u pogledu upotrebe antimikrobnih ljekova kod životinja koje se uvoze u Crnu Goru donosi organ državne uprave nadležan za poslove veterinarstva.

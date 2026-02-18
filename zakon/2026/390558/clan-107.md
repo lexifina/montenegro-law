@@ -1,0 +1,11 @@
+# Član 107
+Institut vrši kontrolu procjene usaglašenosti proizvodnje lijeka, odnosno aktivne supstance u Crnoj Gori sa GMP smjernicama i izdaje GMP sertifikat za svako mjesto proizvodnje, odnosno kontrole kvaliteta i puštanja serije lijeka.
+Kontrola procjene usaglašenosti iz stava 1 ovog člana vrši se u postupku inspekcijskog nadzora, u skladu sa zakonom i Kompilacijom procedura Evropske unije o inspekcijama i razmjeni informacija (Compilation of Union Procedures on Inspections and Exchange of Information), a na osnovu podnesenih zahtjeva proizvođača i godišnjeg plana kontrole procjene usaglašenosti, koji sačinjava Institut do kraja tekuće za narednu kalendarsku godinu.
+Institut izdaje GMP sertifikat u roku od 90 dana od posljednjeg dana sprovođenja inspekcijskog nadzora, ako su ispunjeni uslovi u skladu sa ovim zakonom.
+U rok iz stava 3 ovog člana ne računa se vrijeme potrebno da podnosilac zahtjeva dostavi Institutu tražene podatke, odnosno vrijeme od dana kad Institut od podnosioca zahtjeva zatraži dodatne podatke do dana dostavljanja tih podataka.
+GMP sertifikat izdaje se, po pravilu, na period od najduže tri godine od posljednjeg dana sprovođenja inspekcijskog nadzora.
+Ako se u postupku kontrole procjene usaglašenosti utvrdi da nijesu ispunjeni uslovi u skladu sa ovim zakonom, Institut može da suspenduje ili ukine GMP sertifikat ili da izda izjavu o neusaglašenosti sa GMP smjernicama.
+Kompilaciju iz stava 2 ovog člana, prevedenu na crnogorski jezik, Institut objavljuje na svojoj internet stranici.
+Proizvođač lijeka, odnosno aktivne supstance će obavijestiti Institut o sprovođenju nadzora mjesta proizvodnje, odnosno kontrole ispunjenosti uslova iz Dobre proizvođačke prakse, koja je najavljena iz druge države.
+Institut može da zahtijeva da proizvođač sa sjedištem u trećoj državi bude podvrgnut kontroli dobre proizvođačke prakse, ne dovodeći u pitanje eventualne sporazume zaključene između Crne Gore i te države.
+Uvoznici veterinarskih ljekova moraju, prije stavljanja tih ljekova na tržište Crne Gore, da obezbijede da proizvođač sa sjedištem u trećoj državi posjeduje sertifikat dobre proizvođačke prakse izdat od strane nadležnog organa ili, u slučaju da je Crna Gora zaključila sporazum sa tom državom, odgovarajuću potvrdu.

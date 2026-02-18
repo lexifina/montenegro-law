@@ -1,0 +1,8 @@
+# Član 88
+Ako Institut, zbog mogućeg ozbiljnog rizika za zdravlje ljudi, ne može da odobri izvještaj o procjeni dokumentacije o lijeku, sažetak karakteristika lijeka, uputstvo za lijek i obilježavanje u roku iz člana 87 stav 10 ovog zakona, dužan je da detaljno obrazloži razloge neslaganja referentnoj državi članici, drugim državama članicama Evropske unije koje učestvuju u postupku izdavanja dozvole za lijek i podnosiocu zahtjeva.
+Razloge neslaganja Institut, bez odlaganja, dostavlja CMDh.
+Mogući ozbiljan rizik iz stava 1 ovog člana Institut određuje u skladu sa smjernicama Evropske komisije.
+Ako je Crna Gora referentna država članica, a u roku od 60 dana od dana dostavljanja razloga neslaganja u smislu stava 1 ovog člana države članice Evropske unije postignu sporazum, Institut evidentira sporazum, izdaje dozvolu za lijek i o tome obavještava podnosioca zahtjeva.
+Ako se u slučaju iz stava 4 ovog člana ne postigne sporazum, Institut je dužan da o tome, bez odlaganja, obavijesti EMA, radi vođenja daljeg postupka u skladu sa relevantnim propisima Evropske unije, da joj dostavi detaljan izvještaj o razlozima nepostizanja sporazuma između država članica Evropske unije, kao i da taj izvještaj dostavi podnosiocu zahtjeva.
+Nakon dostavljanja izvještaja iz stava 5 ovog člana podnosiocu zahtjeva, Institut, bez odlaganja, dostavlja EMA dokumentaciju iz člana 87 st. 1 i 2 ovog zakona.
+U slučaju iz stava 5 ovog člana, ako je Institut priznao i odobrio izvještaj o procjeni dokumentacije o lijeku, nacrt sažetka karakteristika lijeka, uputstva za lijek i obilježavanja, može da, na zahtjev podnosioca zahtjeva, izda dozvolu za lijek bez čekanja na ishod postupka koji se vodi pred EMA i nezavisno od ishoda tog postupka.

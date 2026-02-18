@@ -1,0 +1,2 @@
+# Član 40
+Nakon izdavanja dozvole za lijek, nosilac dozvole za lijek može da dozvoli drugom podnosiocu zahtjeva korišćenje farmaceutske, pretkliničke i kliničke dokumentacije o lijeku, na osnovu koje mu je izdata dozvola za lijek, u svrhu podnošenja novih zahtjeva za izdavanje dozvole za lijek za druge ljekove istog kvalitativnog i kvantitativnog sastava aktivnih supstanci i istog farmaceutskog oblika.

@@ -1,0 +1,14 @@
+# Član 270
+Proizvođač mora da ima zaposleno najmanje jedno kvalifikovano lice odgovorno za puštanje serije veterinarskog lijeka.
+Lice iz stava 1 ovog člana mora da ima odgovarajuće visoko obrazovanje iz oblasti farmacije, medicine, veterine, hemije, farmaceutske hemije i tehnologije ili biologije.
+Lice iz stava 1 ovog člana mora da ima najmanje dvije godine praktičnog iskustva u jednoj ili više odobrenih proizvodnih organizacija, u poslovima obezbjeđenja kvaliteta ljekova, kvalitativne analize ljekova, kvantitativne analize aktivnih supstanci i kontrola neophodnih za obezbjeđenje kvaliteta veterinarskih ljekova.
+Potrebni period praktičnog iskustva iz stava 3 ovog člana može biti skraćen za jednu godinu ako odgovarajuće visoko obrazovanje traje najmanje pet godina, odnosno za jednu i po godinu ako odgovarajuće visoko obrazovanje traje najmanje šest godina.
+Ako je proizvođač fizičko lice koje ispunjava uslove iz stava 2 ovog člana, može samostalno da obavlja poslove kvalifikovanog lica odgovornog za puštanje serije veterinarskog lijeka.
+Institut može uspostaviti odgovarajuće administrativne procedure radi provjere da lice iz stava 1 ovog člana ispunjava uslove iz st. 2 i 3 ovog člana.
+Lice iz stava 1 ovog člana dužno je da obezbijedi:
+1) da svaka serija veterinarskog lijeka proizvedenog u Crnoj Gori mora biti proizvedena i podvrgnuta kontroli kvaliteta u skladu sa ovim zakonom i izdatom dozvolom za veterinarski lijek, o čemu je dužno da sačini izvještaj;
+2) da za veterinarski lijek koji se uvozi iz treće države mora biti obavljena potpuna kvalitativna i kvantitativna analiza najmanje svih aktivnih supstanci, kao i sve druge potrebne provjere kako bi se obezbijedio kvalitet lijeka u skladu sa dozvolom za veterinarski lijek, kao i da je proizvedena serija u skladu sa dobrom proizvođačkom praksom.
+Lice iz stava 1 ovog člana vodi evidenciju o svakoj puštenoj seriji veterinarskog lijeka.
+Evidencija iz stava 8 ovog člana ažurira se tokom obavljanja aktivnosti i mora biti dostupna nadležnom organu jednu godinu nakon isteka roka upotrebe serije ili najmanje pet godina od dana evidentiranja, u zavisnosti od toga koji je rok duži.
+Odredba iz stava 7 ovog člana se primjenjuje i u slučaju kada se veterinarski lijek koji je proizveden u Crnoj Gori izvozi i naknadno ponovo uvozi u Crnu Goru.
+U slučaju lijeka koji se uvozi iz treće države, a sa kojom je Crna Gora zaključila odgovarajuće sporazume koji obezbjeđuju da proizvođač lijeka primjenjuje standarde dobre proizvođačke prakse najmanje ekvivalentne smjernicama iz člana 279 stav 1 tačka 2 ovog zakona, i da se kontrola kvaliteta iz stava 7 tačka 1 ovog člana vrši u državi izvoza, odgovorno lice može da sastavi izvještaj o kontroli kvaliteta iz stava 7 tačka 1 ovog člana bez sprovođenja potrebnih ispitivanja, osim ako Institut odluči drugačije.

@@ -1,0 +1,5 @@
+# Član 345
+Pravna i fizička lica čiji rad podliježe nadzoru dužna su da inspektoru omoguće nesmetan pristup i vršenje nadzora u skladu sa ovim zakonom, bez obzira na to da li se radi o najavljenom ili nenajavljenom nadzoru, kao i da mu bez naknade stave na raspolaganje dovoljan broj uzoraka lijeka za analizu, odnosno da mu pruže sve potrebne podatke kojima raspolažu.
+Inspektor obezbjeđuje kontrolu ispunjenosti zahtjeva za ljekove ponovljenim inspekcijama i ako je potrebno, nenajavljenim inspekcijama, zahtjevom da kontrolna laboratorija izvrši ispitivanje uzoraka, kao i kontrolu poslovnih prostorija nosioca dozvole.
+Kontrolu pogona proizvođača aktivnih supstanci koje se koriste kao polazne supstance za ljekove, inspektor može da vrši nenajavljeno, kad smatra da postoje razlozi za sumnju u poštovanje odredbi ovog zakona.
+Troškove uzimanja uzoraka ljekova snosi nosilac dozvole za lijek, odnosno lice koje je registrovalo lijek, proizvođač, veleprodaja, zdravstvena ustanova i veterinarske organizacije.

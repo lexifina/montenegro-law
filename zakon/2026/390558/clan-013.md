@@ -1,0 +1,2 @@
+# Član 13
+Kombinovani lijek za naprednu terapiju je lijek za naprednu terapiju koji, pored lijeka, kao sastavni dio sadrži jedno ili više medicinskih sredstava ili jedno ili više aktivnih implantabilnih medicinskih sredstava u skladu sa zakonom kojim se uređuju medicinska sredstva, a njegov ćelijski ili tkivni dio sadrži žive ćelije ili tkiva, odnosno nežive ćelije ili tkiva i ima dejstvo na ljudsko tijelo koje se smatra primarnim u odnosu na ta medicinska sredstva.

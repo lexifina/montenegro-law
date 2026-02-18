@@ -1,0 +1,4 @@
+# Član 59
+U izuzetnim okolnostima, samo za lijek od posebnog interesa za zdravlje ljudi, nakon konsultacije sa podnosiocem zahtjeva, Institut može da izda dozvolu za lijek uz određene uslove, a posebno one koji se odnose na bezbjednost lijeka, uz obavezu obavještavanja Instituta o bilo kom incidentu u vezi sa upotrebom lijeka i mjerama koje je potrebno preduzeti (u daljem tekstu: dozvola pod posebnim okolnostima).
+Dozvola pod posebnim okolnostima izdaje se samo kad podnosilac zahtjeva za izdavanje dozvole za lijek ne može da priloži kompletne podatke o efikasnosti i bezbjednosti primjene lijeka u uobičajenim uslovima u skladu sa članom 34 ovog zakona, zbog objektivnih i dobro obrazloženih razloga.
+Produženje dozvole pod posebnim okolnostima zavisi od ponovne godišnje procjene uslova uz koje je dozvola izdata od strane Instituta.

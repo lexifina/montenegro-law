@@ -1,0 +1,2 @@
+# Član 9
+Biološki lijek za humanu upotrebu je lijek čija je aktivna supstanca biološka supstanca koja se proizvodi ili izlučuje iz biološkog izvora, a čija se ukupna svojstva i kvalitet utvrđuju fizičko-hemijsko-biološkim ispitivanjem zajedno sa odgovarajućim podacima o postupku proizvodnje i kontrole postupka proizvodnje (imunološki ljekovi, ljekovi iz humane krvi i plazme, ljekovi za naprednu terapiju i sl.).

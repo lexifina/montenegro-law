@@ -1,0 +1,2 @@
+# Član 104
+Proizvodnja aktivnih supstanci koje se koriste kao polazni materijali u proizvodnji lijeka obuhvata cjelokupan proces proizvodnje ili pojedine djelove tog procesa ili uvoz aktivnih supstanci koje se koriste kao polazni materijali (materijali iz kojih se aktivne supstance proizvode ili izvode u skladu sa ovim zakonom), kao i različite postupke razmjeravanja, pakovanja ili opremanja aktivne supstance, uključujući i prepakivanje i ponovno obilježavanje aktivne supstance prije upotrebe u proizvodnji lijeka.

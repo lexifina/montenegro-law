@@ -1,0 +1,7 @@
+# Član 174
+Institut obezbjeđuje da postoje sistemi naknade štete za svaki vid štete koju pretrpi ispitanik kao rezultat učešća u kliničkom ispitivanju koje se sprovodi na teritoriji Crne Gore, u obliku osiguranja, garancije ili sličnog aranžmana koji je jednak u pogledu svoje svrhe i koji je odgovarajući prirodi i obimu rizika.
+Sponzor i ispitivač dužni su da koriste sistem iz stava 1 ovog člana na način koji je propisan i objavljen na internet stranici Instituta.
+Institut ne smije od sponzora da traži dodatno korišćenje sistema iz stava 1 ovog člana za nisko-intervencijska klinička ispitivanja, ako je eventualna šteta koju bi ispitanik mogao da pretrpi usljed upotrebe ispitivanog lijeka u skladu sa protokolom tog konkretnog kliničkog ispitivanja na teritoriji Crne Gore već pokrivena postojećim sistemom naknade.
+Ispitivač mora da bude doktor medicine ili lice odgovarajuće profesije u odnosu na kliničko ispitivanje koje se sprovodi, koji posjeduje potrebno stručno znanje i ima iskustvo u liječenju i njezi pacijenata koji učestvuju u kliničkom ispitivanju.
+Druga lica koja su uključena u sprovođenje kliničkog ispitivanja moraju da imaju odgovarajuće obrazovanje, obuku i iskustvo za obavljanje svojih zadataka u kliničkom ispitivanju.
+Prostor u kojem se kliničko ispitivanje sprovodi mora da bude primjeren sprovođenju kliničkog ispitivanja, u skladu sa uslovima propisanim ovim zakonom.

@@ -1,0 +1,5 @@
+# Član 299
+Veterinarski lijek primjenjuje se u skladu sa uslovima iz dozvole za veterinarski lijek, a u slučaju veterinarskog lijeka iz člana 219 ovog zakona u skladu sa uputstvom za veterinarski lijek.
+Upotreba veterinarskih ljekova za prevenciju i kontrolu bolesti vrši se u skladu sa propisom kojim se uređujе zaštita zdravlja životinja.
+Inaktivisani imunološki veterinarski lijek iz člana 2 stav 3 tačka 2 ovog zakona primjenjuje se samo u izuzetnim okolnostima, u skladu sa veterinarskim receptom i ako za ciljnu životinjsku vrstu i indikaciju nije odobren neki imunološki veterinarski lijek.
+Bliže uslove za upotrebu veterinarskih ljekova, listu veterinarskih ljekova koje može primjenjivati samo veterinar, kao i bliže mjere za obezbjeđivanje efikasne i bezbjedne primjene veterinarskih ljekova za oralnu primjenu, osim ljekovite hrane za životinje, putem drugih načina, kao što je miješanje vode za piće sa veterinarskim lijekom ili ručno miješanje veterinarskog lijeka u hrani za životinje koje držalac životinje daje životinjama koje se koriste za proizvodnju hrane, propisuje organ državne uprave nadležan za poslove veterinarstva.

@@ -1,0 +1,2 @@
+# Član 357
+Odredbe člana 29; član 33 stav 2; člana 34 stav 5; člana 115 stav 1 tačka 7; člana 124 stav 3; člana 137 stav 4; člana 144 stav 3;, člana 231 stav 4; člana 247 st. 1 i 2 u dijelu prijave varijacije u roku od 12 mjeseci;, člana 248; člana 254; člana 257; člana 263; člana 282 stav 1 tačka 7; i čl. 115 stav 1, 156 stav 3, 203 stav 1, 204 stav 1, člana 219, 245 stav 12, 258 stav 2, 260 stav 2 i 320 stav 1 tačka 9 u dijelu koji se odnosi na ,,saglasnost za uvoz" i član 320 stav 1 tačka 12 ovog zakona primjenjivaće se do dana pristupanja Crne Gore Evropskoj uniji.

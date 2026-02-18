@@ -1,0 +1,3 @@
+# Član 50
+Na registraciju homeopatskog lijeka i registraciju tradicionalne upotrebe lijeka shodno se primjenjuju odredbe člana 3 stav 1 tač. 1 i 2 i stav 3 tačka 4, člana 28 st. 1 i 2, člana 34 stav 1 tačka 9 i st. 2 i 3, člana 39, člana 53 st. 1 do 5, člana 63 st. 1 i 2, člana 67 st. 1 i 3, člana 77 st. 1, 2, 3, 6 i 7, člana 80, člana 85, čl. 90 do 113, člana 131, člana 139 stav 2, čl. 146 do 169 i člana 347 ovog zakona.
+Institut dostavlja državama članicama Evropske unije sve informacije neophodne za obezbjeđivanje kvaliteta i bezbjednosti homeopatskih ljekova koji se proizvode i stavljaju na tržište u Evropskoj uniji, a posebno informacije iz čl. 126 i 127 ovog zakona.

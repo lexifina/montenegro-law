@@ -1,0 +1,10 @@
+# Član 100
+Proizvođač je dužan da, bez odlaganja, obavijesti Institut o svakoj promjeni mjesta proizvodnje, mjesta kontrole kvaliteta i puštanja serije lijeka, kvalifikovanog lica , lica odgovornog za proizvodnju, lica odgovornog za kontrolu kvaliteta, kao i o značajnim izmjenama u pogledu prostora i opreme.
+Proizvođač je dužan da istraži i evidentira, kao i da bez odlaganja obavijesti Institut o svakom odstupanju u proizvodnji lijeka, kao i o drugim slučajevima zbog kojih može da se posumnja u kvalitet, bezbjednost i efikasnost lijeka.
+U slučajevima iz st. 1 i 2 ovog člana Institut može da obustavi i zabrani proizvodnju i promet na veliko lijeka ili naredi povlačenje tog lijeka iz prometa u skladu sa ovim zakonom.
+Proizvođač je dužan da na zahtjev Instituta dostavi izvještaj o proizvodnji lijeka, zalihama, kao i o obimu prodaje za svaki pojedinačni lijek (po pakovanju) u Crnoj Gori.
+Izvještaj iz stava 4 ovog člana predstavlja poslovnu tajnu, a obrađeni podaci o ukupnoj prodaji ljekova dostupni su javnosti.
+Proizvođač lijeka, odnosno nosilac dozvole za proizvodnju dužan je da vrši kontinuirano snabdijevanje tržišta ljekovima, u skladu sa dozvolom za proizvodnju.
+Institut preduzima sve neophodne mjere kako bi obezbijedio da su procesi proizvodnje i prečišćavanja koji se koriste u pripremi ljekova dobijenih iz humane krvi ili humane plazme pravilno validirani, da obezbjeđuju dosljednost između serija i garantuju, koliko to dopušta nivo tehnologije, odsustvo specifične virusne kontaminacije.
+U slučaju iz stava 7 ovog člana, proizvođači su dužni da obavijeste Institut o metodi koja se koristi za smanjenje ili eliminisanje patogenih virusa koji se mogu prenijeti ljekovima dobijenim iz humane krvi ili humane plazme.
+U slučaju iz stava 7 ovog člana, Institut može dostaviti uzorke bulk proizvoda i/ili lijeka na ispitivanje laboratoriji ovlašćenoj u tu svrhu, bilo tokom razmatranja zahtjeva u skladu sa članom 53 st. 2 do 5 ovog zakona ili nakon što je izdata dozvola za lijek.

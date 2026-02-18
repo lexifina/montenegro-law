@@ -1,0 +1,4 @@
+# Član 256
+Institut je dužan da elektronskim putem unosi u bazu podataka Evropske unije za farmakovigilancu sve prijave sumnji na neželjene događaje koji su se ispoljili na teritoriji Crne Gore u roku od 30 dana od dana prijema prijave sumnje.
+Nosilac dozvole za veterinarski lijek dužan je da, bez odlaganja, a najkasnije u roku od 30 dana od dana prijema prijave sumnje, unese u bazu iz stava 1 ovog člana svaku sumnju na neželjeni događaj koji mu je prijavljen ili koji je objavljen u naučnoj literaturi u vezi sa veterinarskim lijekom za koji mu je izdata dozvola za lijek.
+Institut može da od nosioca dozvole za veterinarski lijek zahtijeva da, pored podataka iz člana 255 stav 2 ovog zakona, prikuplja i posebne podatke o farmakovigilanci i da sprovede postmarketinške studije, pri čemu detaljno obrazlaže zahtjev i određuje razuman rok.

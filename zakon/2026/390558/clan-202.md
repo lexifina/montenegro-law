@@ -1,0 +1,2 @@
+# Član 202
+Bliže uslove za sprovođenje kliničkog ispitivanja, sadržaj zahtjeva za izdavanje dozvole za kliničko ispitivanje, prateću dokumentaciju i sadržaj sažetka rezultata kliničkog ispitivanja, bliže uslove za sprovođenje neintervencijske studije, sadržaj prijave neintervencijske studije i prateću dokumentaciju, kao i sadržaj zahtjeva i dokumentaciju za odobravanje suštinskih izmjena i/ili dopuna kliničkog isptivanja propisuje Institut, uz saglasnost Ministarstva.

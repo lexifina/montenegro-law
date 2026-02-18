@@ -1,0 +1,3 @@
+# Član 49
+Pored podataka koji se, u skladu sa ovim zakonom, odnose na obilježavanje i uputstvo za lijek, obilježavanje i uputstvo za tradicionalni biljni lijek moraju da sadrže i: 1) podatak da je taj proizvod tradicionalni biljni lijek za primjenu kod navedenih indikacija koje se isključivo zasnivaju na dugotrajnoj upotrebi; i 2) upozorenje da pacijent treba da se posavjetuje sa ljekarom ili farmaceutom ako se simptomi bolesti nastave tokom primjene lijeka ili ako se pojave neželjena dejstva koja nijesu navedena u uputstvu za lijek.
+Institut može da zahtijeva da se u obilježavanju i uputstvu za tradicionalni biljni lijek navede vrsta tradicionalne upotrebe lijeka.

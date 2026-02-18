@@ -1,0 +1,5 @@
+# Član 234
+U postupku izdavanja dozvole za veterinarski lijek, Institut može da od podnosioca zahtjeva traži da dostavi laboratoriji Instituta ili drugoj ovlašćenoj laboratoriji uzorke koji su potrebni da se:
+1) ispita gotov veterinarski lijek, njegove sirovine, međuproizvodi ili drugi sastojci lijeka, kako bi se utvrdilo da metode kontrole koje koristi proizvođač, a opisane su u dokumentaciji o lijeku, ispunjavaju potrebne uslove;
+2) kod veterinarskih ljekova namijenjenih za životinje koje se koriste za proizvodnju hrane provjeri da li je predložena analitička metoda za ispitivanje rezidua zadovoljavajuća i pogodna za otkrivanje prisustva rezidua, posebno u nivou koji premašuje maksimalno dozvoljeni nivo farmakološki aktivne supstance koji je utvrdila Evropska Komisija u skladu sa Regulativom (EC) 470/2009, kao i za vršenje službenih kontrola životinja i proizvoda životinjskog porijekla u skladu sa Regulativom (EU) 2017/625.
+U slučaju iz stava 1 ovoga člana, rokovi iz člana 231 stav 1 i člana 232 stav 2 ovog zakona ne teku do dana dostavljanja uzoraka na analizu.

@@ -1,0 +1,4 @@
+# Član 213
+Stručnom saradniku za prodaju ljekova (u daljem tekstu: stručni saradnik) obezbjeđuje se odgovarajuća obuka i mora da posjeduje dovoljno naučnog znanja da pruži što tačnije i potpunije informacije o lijeku koji oglašava.
+Stručni saradnik dužan je da prilikom svake posjete licima ovlašćenim za propisivanje i izdavanje ljekova da ili učini dostupnim sažetak karakteristika lijeka za svaki lijek koji oglašava, sa podacima o cijeni lijeka i uslovima za naknadu iz sredstava obaveznog zdravstvenog osiguranja, ako je primjenjivo.
+Stručni saradnik dužan je da naučnu službu zaduženu za pružanje informacija o ljekovima koje nosilac dozvole za lijek stavlja u promet, informiše o upotrebi lijeka koji oglašava, sa posebnim naglaskom na neželjena dejstva koja su mu prijavila lica koja posjećuje.

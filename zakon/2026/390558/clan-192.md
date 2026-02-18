@@ -1,0 +1,7 @@
+# Član 192
+Ispitivač je dužan da:
+1) evidentira neželjene događaje ili odstupanja u laboratorijskim analizama koji su u protokolu kliničkog ispitivanja navedeni kao kritični za procjenu bezbjednosti i prijavi ih sponzoru u skladu sa zahtjevima za izvještavanje i u rokovima određenim protokolom;
+2) evidentira sve neželjene događaje, osim ako je protokolom kliničkog ispitivanja drukčije predviđeno, kao i da prijavi sponzoru, odnosno njegovom predstavniku sve ozbiljne neželjene događaje koji se dogode ispitanicima koje je on liječio tokom kliničkog ispitivanja, osim ako je protokolom kliničkog ispitivanja drukčije predviđeno;
+3) obavijesti sponzora, odnosno njegov predstavnika, bez nepotrebnog odlaganja, a najkasnije u roku od 24 časa od saznanja za ozbiljni neželjeni događaj, osim ako za određene neželjene događaje protokolom kliničkog ispitivanja nije utvrđeno da hitno izvještavanje nije potrebno, a ako je potrebno, ispitivač dostavlja sponzoru, odnosno njegovom predstavniku izvještaj o praćenju, kako bi mu omogućio da utvrdi da li ozbiljni neželjeni događaj ima uticaj na odnos koristi i rizika u kliničkom ispitivanju;
+4) obavijesti sponzora, odnosno njegovog predstavnika, bez nepotrebnog odlaganja, ako sazna za ozbiljan neželjeni događaj koji može biti uzročno povezan sa lijekom koji se koristi u kliničkom ispitivanju, a koji se pojavio nakon završetka kliničkog ispitivanja kod ispitanika kog je ispitivač liječio.
+Sponzor, odnosno njegov predstavnik dužan je da vodi detaljnu evidenciju o svim neželjenim događajima koje je prijavio ispitivač.

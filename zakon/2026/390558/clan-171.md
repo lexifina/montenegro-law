@@ -1,0 +1,2 @@
+# Član 171
+Odredbe ovog zakona koje se odnose na klinička ispitivanja ne primjenjuju se na primjenu zakona kojima se zabranjuje ili ograničava upotreba bilo koje posebne vrste ljudskih ili životinjskih ćelija, ili prodaja, snabdijevanje ili upotreba ljekova koji sadrže, sastoje se od, ili su izvedeni iz takvih ćelija, ili ljekova koji se upotrebljavaju kao abortivna sredstva, ili ljekova koji sadrže droge i psihotropne supstance u smislu relevantnih međunarodnih konvencija koje su na snazi, kao što je Jedinstvena konvencija Ujedinjenih nacija o narkoticima iz 1961. godine.

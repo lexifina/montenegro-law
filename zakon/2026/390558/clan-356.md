@@ -1,0 +1,3 @@
+# Član 356
+Odredba člana 2 stav 3 tačka 2 ovog zakona, u dijelu obaveza u vezi sa sertifikatima dobre proizvođačke prakse za inaktivirane imunološke veterinarske ljekove dobijene od patogena i antigena dobijenih od životinja, odnosno životinja u epidemiološkoj jedinici i korišćenih za liječenje tih životinja ili životinja u istoj epidemiološkoj jedinici ili za liječenje životinja ili životinje u jedinici koja ima potvrđenu epidemiološku povezanost, primjenjivaće se od dana primjene GMP smjernica za veterinarske ljekove iz člana 279 stav 1 tačka 2 ovog zakona.
+Član 252 stav 4 primjenjivaće se u periodu od godinu dana od dana stupanja na snagu ovog zakona.

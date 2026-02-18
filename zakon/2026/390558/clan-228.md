@@ -1,0 +1,4 @@
+# Član 228
+Izuzetno od člana 221 stav 1 tačka 5 ovog zakona, u posebnim okolnostima u vezi sa zdravljem životinja ili javnim zdravljem, podnosilac može da preda zahtjev koji ne ispunjava sve uslove, ako korist od neposredne dostupnosti na tržištu za zdravlje životinja ili javno zdravlje nadmašuje rizik koji proizilazi iz činjenice da nije dostavljena određena dokumentacija o kvalitetu, bezbjednosti i efikasnosti.
+U slučaju iz stava 1 ovog člana, podnosilac zahtjeva mora dokazati da iz objektivnih i provjerljivih razloga ne može da dostavi kompletnu dokumentaciju o kvalitetu, bezbjednosti ili efikasnosti propisanu ovim zakonom.
+Ako je dozvola za veterinarski lijek izdata u smislu stava 1 ovog člana, u sažetku karakteristika lijeka mora da bude jasno navedeno da je bila sprovedena samo ograničena procjena kvaliteta, bezbjednosti ili efikasnosti zbog nedostataka potpunih podataka o kvalitetu, bezbjednosti i efikasnosti.

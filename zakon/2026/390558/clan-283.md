@@ -1,0 +1,5 @@
+# Član 283
+Veleprodaja veterinarskih ljekova dužna je da promet veterinarskih ljekova na veliko obavlja u skladu sa dozvolom za promet veterinarskih ljekova na veliko i dobrom distributivnom praksom veterinarskih ljekova (u daljem tekstu: GDP).
+Veleprodaja može da povjeri pojedine poslove prometa ljekova na veliko drugoj veleprodaji.
+Izuzetno od stava 2 ovog člana, poslove transporta ljekova veleprodaja iz stava 1 ovog člana može da povjeri i pravnom ili fizičkom licu koje nije veleprodaja veterinarskih ljekova, a koje je registrovano za obavljanje prevoza, u skladu sa zakonom i ispunjava uslove GDP.
+Bliži način i uslove za sprovođenje mjera dobre distributivne prakse za veterinarske ljekove koje primjenjuju nosioci dozvole za proizvodnju veterinarskog lijeka, koji obavljaju promet veterinarskih ljekova na veliko, za ljekove iz svog proizvodnog programa i veleprodaje, uključujući i one koji imaju poslovno sjedište ili posluju u okviru posebnih carinskih režima, npr. slobodnim zonama ili carinskim skladištima, donosi organ državne uprave nadležan za poslove veterinarstva.

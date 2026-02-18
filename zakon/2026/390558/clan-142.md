@@ -1,0 +1,7 @@
+# Član 142
+Institut je dužan da u roku od 60 dana od dana uzorkovanja od strane Instituta, odnosno prijema potpunog zahtjeva za vršenje kontrole kvaliteta lijeka, izda sertifikat o izvršenoj kontroli kvaliteta, ako ovim zakonom nije drukčije određeno.
+U slučaju dokumentacione kontrole, Institut je dužan da izda sertifikat o izvršenoj kontroli kvaliteta u roku od 30 dana od dana prijema dokumentacije potrebne za kontrolu kvaliteta serije lijeka.
+U slučaju laboratorijske kontrole iz člana 139 stav 6 ovog zakona, Institut je dužan da izda sertifikat o izvršenoj kontroli kvaliteta u roku od 120 dana od dana dostavljanja uzorka lijeka licu koje angažuje za vršenje laboratorijske kontrole.
+U slučaju kad vrši laboratorijsku kontrolu svake serije lijeka za vakcine, serume, toksine, alergene, ljekove iz humane krvi i plazme, Institut je dužan da izda sertifikat o izvršenoj kontroli kvaliteta u roku od 60 dana od dana prijema uzoraka lijeka.
+Ako je potrebno izvršiti laboratorijsku kontrolu polaznih materijala i intermedijera lijeka u postupku izdavanja dozvole za lijek, kao i laboratorijsku kontrolu u postupku obnavljanja dozvole za lijek, odnosno varijacije, Institut je dužan da izda sertifikat o izvršenoj kontroli kvaliteta u roku od 60 dana od dana prijema potpunog zahtjeva.
+U rok iz st. 1, 2, 4 i 5 ovog člana ne računa se vrijeme potrebno da podnosilac zahtjeva dostavi Institutu tražene podatke, odnosno vrijeme od dana kad Institut od podnosioca zahtjeva zatraži dodatne podatke do dana dostavljanja tih podataka.

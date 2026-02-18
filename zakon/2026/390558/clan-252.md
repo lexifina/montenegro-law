@@ -1,0 +1,12 @@
+# Član 252
+## 6. Prikupljanje podataka i sažetak karakteristika veterinarskog lijeka
+Uprava prikuplja odgovarajuće i uporedive podatke o obimu prodaje i upotrebi antimikrobnih ljekova kod životinja, radi neposredne ili posredne procjene upotrebe ovih ljekova kod životinja koje se koriste za proizvodnju hrane na nivou gazdinstava.
+Uprava izrađuje godišnji plan upravljanja kvalitetom podataka o obimu prodaje i upotrebi antimikrobnih lijekova i imenuje lice odgovorno za upravljanje podacima (u daljem tekstu: nacionalna kontakt tačka).
+Pravna lica koja su u skladu sa zakonom kojim se uređuje veterinarska djelatnost ovlašćena za obavljanje veterinarske djelatnosti i ostala pravna lica iz člana 284 stav 2 ovog zakona dužna su da do 1. marta tekuće godine Upravi dostave podatke o upotrebi antimikrobnih ljekova korišćenih u prethodnoj godini.
+Lica iz stava 3 ovog člana dužna su da podatke o upotrebi antimikrobnih ljekova redovno unose u Veterinarski informacioni sistem (u daljem tekstu: VIS), koji vodi Uprava u skladu sa posebnim zakonom.
+Pravna lica koja u skladu sa zakonom obavljaju promet veterinarskim ljekovima na veliko i na malo dužna su da do 1. marta tekuće godine Upravi dostave podatke o obimu prodaje antimikrobnih ljekova u prethodnoj godini.
+Lica iz stava 5 ovog člana, na zahtjev Uprave, unose podatke o obimu prodaje antimikrobnih ljekova u VIS.
+Uprava prikuplja odgovarajuće i uporedive podatke o obimu prodaje i upotrebi antimikrobnih veterinarskih ljekova kod životinja, radi neposredne ili posredne procjene upotrebe ovih ljekova kod životinja za proizvodnju hrane na nivou gazdinstava.
+Izuzetno od stava 7 ovog člana, vrste antimikrobnih veterinarskih ljekova za koje se prikupljaju podaci o obimu prodaje i upotrebi kod životinja ne uključuju podatke o obimu prodaje antimikrobnih veterinarskih ljekova drugim veleprodajama veterinskih ljekova.
+Vrstu antimikrobnih ljekova za koje se prikupljaju podaci o obimu prodaje i upotrebe kod zivotinja, kvalitet podataka koji se prikupljaju i dostavljaju radi određivanja obima i primjene tih ljekova, metode prikupljanja i dostavljanja podataka o obimu prodaje i upotrebi, kao i način dostavljanja tih podataka, propisuje organ državne uprave nadležan za poslove veterinarstva.
+Podatke o upotrebi i prodaji antimikrobnih ljekova pravna lica iz st. 3 i 5 ovog člana dostavljaju na obrascu koji utvrđuje Uprava i objavljuje na svojoj internet stranici.

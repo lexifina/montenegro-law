@@ -1,0 +1,8 @@
+# Član 20
+Galenski lijek može da se izrađuje i u galenskoj laboratoriji zdravstvene ustanove koja obavlja zdravstvenu djelatnost na sekundarnom, odnosno tercijarnom nivou zdravstvene zaštite (u daljem tekstu: galenska laboratorija bolničke apoteke) u količini koja je potrebna za obezbjeđivanje zdravstvene zaštite pacijenata te zdravstvene ustanove.
+Izuzetno od stava 1 ovog člana, na osnovu ugovora o isporuci određene količine galenskog lijeka, može da se vrši snabdijevanje i drugih zdravstvenih ustanova na sekundarnom, odnosno tercijarnom nivou zdravstvene zaštite za potrebe pacijenata tih ustanova, uz saglasnost organa državne uprave nadležnog za poslove zdravlja (u daljem tekstu: Ministarstvo).
+Ako apoteka iz člana 19 stav 2 ovog zakona vrši snabdijevanje drugih zdravstvenih, odnosno veterinarskih ustanova, na osnovu ugovora u skladu sa ovim zakonom, za potrebe pacijenata, odnosno korisnika te zdravstvene, odnosno veterinarske ustanove, takvo snabdijevanje smatra se prometom na malo u skladu sa zakonom.
+Izrada galenskog lijeka u galenskoj laboratoriji bolničke apoteke ne smatra se proizvodnjom u smislu ovog zakona.
+Galenski lijek iz stava 1 ovog člana ne može da se nađe u prometu na veliko, odnosno u prometu na malo.
+Svaka serija galenskog lijeka iz stava 1 ovog člana mora da ima sertifikat analize koji izdaje laboratorija koja ispunjava uslove za obavljanje kontrole kvaliteta.
+Uslove u pogledu prostora, kadra i opreme, kao i druge potrebne uslove za izradu galenskih ljekova u galenskoj laboratoriji, galenskoj laboratoriji apoteke, odnosno galenskoj laboratoriji bolničke apoteke, propisuje Ministarstvo.

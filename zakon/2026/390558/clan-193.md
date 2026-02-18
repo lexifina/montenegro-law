@@ -1,0 +1,12 @@
+# Član 193
+Sponzor, odnosno njegov predstavnik dužan je da prijavi Institutu sve relevantne informacije o sumnji na neočekivana ozbiljna neželjena dejstva, i to:
+1) sve sumnje na neočekivana ozbiljna neželjena dejstva na ispitivane ljekove koja se dogode tokom kliničkog ispitivanja, nezavisno od toga da li se sumnja na neočekivana ozbiljna neželjena dejstva pojavila na mjestu kliničkog ispitivanja u Crnoj Gori, Evropskoj uniji ili u trećoj državi;
+2) sve sumnje na neočekivana ozbiljna neželjena dejstva koje su povezane sa istom aktivnom supstancom sadržanom u ispitivanom lijeku, bez obzira na farmaceutski oblik i jačinu ili indikaciju koja se istražuje, i koje se pojave u kliničkom ispitivanju koje se sprovodi isključivo van Crne Gore, ako je to kliničko ispitivanje naručio:
+ taj sponzor, ili
+ drugi sponzor koji je dio istog matičnog društva kao i sponzor ili koji sa sponzorom zajednički razvija lijek na osnovu zvaničnog sporazuma, pri čemu se zajedničkim razvojem ne smatra pribavljanje ispitivanog lijeka ili informacija o bezbjednosnim pitanjima budućem potencijalnom nosiocu dozvole;
+3) sve sumnje na neočekivana ozbiljna neželjena dejstva ispitivanog lijeka koja se pojave kod bilo kog ispitanika u kliničkom ispitivanju, a koja se utvrde ili za koja sponzor sazna nakon završetka kliničkog ispitivanja.
+Rok za prijavljivanje sumnji na neočekivana ozbiljna neželjena dejstva Institutu od strane sponzora, odnosno njegovog predstavnika, uzimajući u obzir ozbiljnost neželjenog dejstva, je:
+1) u slučaju smrtonosnih ili po život opasnih sumnji na neočekivano ozbiljno neželjeno dejstvo, što je moguće prije, a najkasnije u roku od sedam dana od dana saznanja za neželjeno dejstvo;
+2) u slučaju neželjenog dejstva koje nema smrtni ishod ili sumnje na ozbiljno neželjeno dejstvo koje nije opasno po život, u roku od 15 dana od dana saznanja za neželjeno dejstvo;
+3) u slučaju sumnji na neočekivano ozbiljno neželjeno dejstvo za koje se prvobitno smatralo da nema smrtni ishod ili da nije opasno po život, a za koje se ispostavi da jeste smrtonosno ili opasno po život, što je moguće prije, a najkasnije sedam dana od dana saznanja da je neželjeno dejstvo imalo smrtni ishod ili bilo opasno po život.
+Ako je potrebno obezbijediti blagovremeno prijavljivanje sumnji na neočekivana ozbiljna neželjena dejstva, sponzor, odnosno njegov predstavnik može da preda početnu nepotpunu prijavu, nakon koje će uslijediti potpuna prijava u skladu sa ovim zakonom.

@@ -1,0 +1,7 @@
+# Član 197
+Sponzor, odnosno njegov predstavnik dužan je da obavijesti Institut o ozbiljnom kršenju odredaba ovog zakona ili protokola kliničkog ispitivanja koji se primjenjuje u trenutku kršenja, bez nepotrebnog odlaganja, a najkasnije sedam dana nakon saznanja o kršenju.
+Ozbiljnim kršenjem iz stava 1 ovog člana smatra se postupanje koje može u značajnoj mjeri uticati na bezbjednost i prava ispitanika ili na pouzdanost i vjerodostojnost podataka dobijenih kliničkim ispitivanjem.
+Sponzor, odnosno njegov predstavnik dužan je da obavijesti Institut o svim neočekivanim događajima koji utiču na odnos koristi i rizika kliničkog ispitivanja, ali koji nijesu sumnja na neočekivana ozbiljna neželjena dejstva iz člana 193 ovog zakona, bez nepotrebnog odlaganja, a najkasnije 15 dana od dana kad je sponzor saznao za događaj.
+Sponzor je dužan da Institutu dostavi sve izvještaje o izvršenim inspekcijama nadležnih organa trećih država koji se odnose na kliničko ispitivanje, a, na zahtjev Instituta, dužan je da dostavi i prevod izvještaja ili njegovog sažetka na crnogorski jezik.
+Ako je vjerovatno da će neočekivani događaj ozbiljno uticati na odnos koristi i rizika, sponzor, odnosno njegov predstavnik i ispitivač dužni su da preduzmu odgovarajuće hitne bezbjednosne mjere kako bi zaštitili ispitanike.
+Sponzor je dužan da o događaju iz stava 5 ovog člana i preduzetim mjerama obavijesti nadležne države članice Evropske unije, bez nepotrebnog odlaganja, a najkasnije u roku od sedam dana od dana preduzimanja mjera.

@@ -1,0 +1,13 @@
+# Član 265
+Kliničko ispitivanje veterinarskog lijeka može da obavlja lice kome je izdata dozvola za sprovođenje kliničkog ispitivanja od strane Instituta.
+Dozvola iz stava 1 ovog člana izdaje se pod uslovom da životinje na kojima se vrši kliničko ispitivanje, a koje se koriste za proizvodnju hrane, odnosno njihovi proizvodi, ne ulaze u prehrambeni lanac, osim ako je Institut odredio odgovarajuću karencu.
+Kliničko ispitivanje veterinarskog lijeka može se sprovoditi samo u slučajevima kad su predvidljivi rizici i patnja životinja procijenjeni kao manji od predviđene koristi za životinje i za životinje na kojima se vrši ispitivanje, o čemu odluku donosi Institut.
+Zahtjev za sprovođenje kliničkog ispitivanja veterinarskog lijeka podnosi sponzor kliničkog ispitivanja ili predstavnik sponzora sa sjedištem u Crnoj Gori.
+Podnosilac zahtjeva iz stava 4 ovog člana može da bude i fizičko ili pravno lice sa sjedištem u Evropskoj uniji.
+O zahtjevu iz stava 4 ovog člana Institut odlučuje u roku od 60 dana od dana prijema potpunog zahtjeva.
+U rok iz stava 6 ovog člana ne računa se vrijeme potrebno da podnosilac zahtjeva dostavi Institutu tražene podatke, odnosno vrijeme od dana kad Institut od podnosioca zahtjeva zatraži dodatne podatke do dana dostavljanja tih podataka.
+Kliničko ispitivanje veterinarskog lijeka sprovodi se u skladu Smjernicama dobre kliničke prakse tijela za međunarodnu saradnju u usklađivanju tehničkih zahtjeva za registraciju veterinarskih ljekova (International Cooperation on Harmonisation of Technical Requirements for Registration of Veterinary Medicinal Products VICH), koje se objavljuju na internet stranici Instituta i organa državne uprave nadležnog za poslove veterinarstva.
+Podaci koji proizilaze iz kliničkih ispitivanja prilažu se uz zahtjev za izdavanje dozvole veterinarski za lijek u okviru tehničke dokumentacije iz člana 221 stav 1 tačka 5 ovog zakona.
+Podaci koji proizilaze iz kliničkih ispitivanja sprovedenih van Crne Gore i Evropske unije mogu se uzeti u obzir pri procjeni zahtjeva za izdavanje dozvole za veterinarski lijek samo ako su ispitivanja bila osmišljena, sprovedena i o njima se izvještavalo u skladu sa smjernicama iz stava 8 ovog člana.
+Institut može da suspenduje ili ukine dozvolu za kliničko ispitivanje veterinarskog lijeka ako prestane ispunjenost uslova pod kojim je dozvola izdata.
+Bliže uslove za sprovođenje kliničkog ispitivanja, sadržaj zahtjeva iz stava 4 ovog člana, prateću dokumentaciju, kao i način sprovođenja kliničkog ispitivanja veterinarskog lijeka propisuje organ državne uprave nadležan za poslove veterinarstva.

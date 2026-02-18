@@ -1,0 +1,3 @@
+# Član 36
+Izuzetno od člana 34 stav 1 tačka 11 ovog zakona, ne dovodeći u pitanje propise kojima se uređuje zaštita prava industrijske i intelektualne svojine, podnosilac zahtjeva nije dužan da dostavi rezultate pretkliničkih ili kliničkih ispitivanja ako može da dokaže da aktivna supstanca lijeka ima provjerenu medicinsku upotrebu u Crnoj Gori ili Evropskoj uniji najmanje deset godina, kao i poznatu efikasnost i prihvatljivu bezbjednost primjene, u skladu sa uslovima iz člana 34 stav 10 ovog zakona.
+U slučaju iz stava 1 ovog člana, umjesto rezultata ispitivanja i studija, podnosilac zahtjeva dostavlja odgovarajuće podatke iz naučne literature.

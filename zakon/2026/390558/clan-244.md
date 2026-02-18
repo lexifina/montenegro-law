@@ -1,0 +1,6 @@
+# Član 244
+Pored obaveza predviđenih propisima kojima se uređuje zaštita životinja koje se upotrebljavaju u naučno-istraživačke svrhe, drugi podnosilac zahtjeva za izdavanje dozvole za veterinarski lijek ili za varijaciju ne smije se pozivati na tehničku dokumentaciju koja je potrebna za dokazivanje kvaliteta, bezbjednosti i efikasnosti veterinarskog lijeka i koja je bila dostavljena radi izdavanja prve dozvole za veterinarski lijek ili varijacije, osim ako je:
+1) period zaštite iz čl. 242 i 243 ovog zakona istekao ili treba da istekne za manje od dvije godine;
+2) podnosilac zahtjeva dobio pisanu saglasnost u vezi sa tom dokumentacijom u obliku pisma pristupa.
+Zaštita tehničke dokumentacije u smislu stava 1 ovog člana primjenjuje se i na veterinarske ljekove za koje je dozvola za lijek istekla.
+Dozvola za veterinarski lijek ili varijacija koja se razlikuje od dozvole za veterinarski lijek koja je prethodno izdata u Crnoj Gori istom nosiocu dozvole za lijek u pogledu ciljne vrste, jačine lijeka, farmaceutskog oblika, puta primjene ili pakovanja smatra se istom dozvolom za veterinarski lijek kao dozvola koja je prethodno izdata istom nosiocu dozvole za lijek, radi primjene odredbi o zaštiti tehničke dokumentacije.

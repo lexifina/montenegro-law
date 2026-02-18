@@ -1,0 +1,2 @@
+# Član 38
+Za ljekove koji sadrže novu kombinaciju aktivnih supstanci koje do sada u toj kombinaciji nijesu korišćene u terapijske svrhe, a koje se pojedinačno koriste u sastavu ljekova za koje je izdata dozvola za lijek u Crnoj Gori ili Evropskoj uniji, prilažu se rezultati novih pretkliničkih ili kliničkih ispitivanja koji se odnose na tu kombinaciju, u skladu sa članom 34 stav 1 tačka 11 ovog zakona, ali nije neophodno dostaviti naučne reference koje se odnose na svaku pojedinačnu aktivnu supstancu.
