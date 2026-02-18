@@ -1,0 +1,8 @@
+Komisija za tržište kapitala Crne Gore (u daljem tekstu: Komisija) na osnovu člana 108 stav 1 tačka 5 Zakona o investicionim fondovima ("Službeni list Crne Gore", br. 054/11, 013/18) - (u daljem tekstu: Zakon o investicionim fondovima) i člana 18 stav 1 Zakona o upravnom postupku ("Službeni list Crne Gore", br. 056/14, 020/15, 040/16, 037/17) - (u daljem tekstu: Zakon o upravnom postupku), na 170. sjednici od 13.2.2026. godine donosi
+R J E Š E N J E
+1. Oduzima se dozvola za rad Društvu za upravljanje investicionim fondom "Moneta" AD Podgorica, (PIB: 02334780) izdata Rješenjem Komisije broj 04/3-1416/9-14 od 12. 9. 2014. godine.
+2. Briše se Društvo za upravljanje investicionim fondom "Moneta" AD Podgorica iz Registra društava za upravljanje investicionim fondovima Komisije, upisano na osnovu Rješenja broj 04/3- 17/1-22 od 17. 1. 2022. godine, pod rednim brojem 1.
+3. Nalaže se pružaocima platnih usluga u Crnoj Gori da obustave izvršenje naloga ovlašćenih lica društva iz tačke 1 dispozitiva ovog rješenja za prenos novčanih sredstava sa računa Društva za upravljanje investicionim fondom "Moneta" AD Podgorica.
+4. Nalaže se "Centralnom Klirinškom Depozitarnom Društvu" AD Podgorica da obustavi izvršenje naloga ovlašćenih lica Društva iz tačke 1 dispozitiva ovog rješenja za prenos hartija od vrijednosti sa računa Društva za upravljanje investicionim fondom "Moneta" AD Podgorica.
+5. Ovo rješenje će se dostaviti Privrednom sudu Crne Gore, Društvu za upravljanje investicionim fondom "Moneta" AD Podgorica i "Centralnom Klirinškom Depozitarnom Društvu" AD Podgorica.
+6. Ovo rješenje stupa na snagu danom donošenja.
