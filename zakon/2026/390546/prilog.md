@@ -1,0 +1,1 @@
+*U ovaj zakon prenesena je Direktiva (EU) 2023/2864 Evropskog parlamenta i Savjeta od 13. decembra 2023. godine, o izmjeni određenih direktiva u pogledu uspostavljanja i funkcionisanja jedinstvene evropske pristupne tačke.
