@@ -1,0 +1,55 @@
+# Član 6
+## Značenje izraza
+Izrazi upotrijebljeni u ovom zakonu imaju sljedeća značenja:
+1) CCP je pravno lice koje obavlja aktivnosti poravnanja između učesnika finansijskog tržišta odnosno označava pravno lice koje posreduje između drugih ugovornih strana u ugovorima kojima se trguje na jednom ili više finansijskih tržišta, i postaje kupac svakom prodavcu i prodavac svakom kupcu;
+2) sanacioni kolegijum je tijelo uspostavljeno u skladu sa ovim zakonom radi koordinacije postupaka sanacije;
+3) sanacioni organ je organ koga imenuje nadležni organ radi sprovođenja mjera sanacije;
+4) sanacioni instrument je instrument sanacije utvrđen ovim zakonom;
+5) sanaciono ovlašćenje je ovlašćenje koje sanacioni organ može primijeniti u postupku sanacije;
+6) događaj neizvršenja obaveza je situacija u kojoj je CCP utvrdila neizvršenje obaveza jednog ili više članova sistema poravnanja ili interoperabilnih CCP-ova;
+7) događaj koji nije događaj neizvršenja je svaka situacija u kojoj CCP pretrpi gubitke iz razloga koji nijesu povezani sa neizvršenjem obaveza, uključujući poslovne, investicione, operativne ili pravne propuste, kao i prevare i kibernetičke napade;
+8) plan sanacije je plan sanacije koji priprema CCP;
+9) sanaciona mjera je odluka o stavljanju CCP u sanaciju, primjena sanacionog instrumenta ili upotreba sanacionih ovlašćenja;
+10) član sistema poravnanja je učesnik koji ostvaruje status člana sistema poravnanja u skladu sa pravilima CCP;
+11) matično društvo je društvo koje vrši kontrolu nad drugim društvom;
+12) CCP iz treće zemlje je CCP sa sjedištem van Crne Gore;
+13) aranžman prebijanja je aranžman kojim se međusobne obaveze CCP i druge strane mogu prebiti;
+14) infrastruktura finansijskog tržišta je CCP, centralni depozitar, registar transakcija, platni sistem ili drugi sistem određen nacionalnim propisima;
+15) tržište trgovanja je regulisano tržište, multilateralna ili organizovana trgovinska platforma;
+16) klijent je lice koje koristi usluge člana sistema poravnanja;
+17) sistemski značajne institucije su institucije određene kao sistemski važne, koje imaju poseban značaj za stabilnost finansijskog sistema jedne države ili šire regije, zbog njihove veličine, međusobnih povezanosti, kompleksnosti poslovanja i uloge u finansijskom sistemu. Propadanje ili ozbiljni problemi u radu takve institucije mogu izazvati široke negativne posljedice po finansijsku stabilnost, ekonomski rast i povjerenje u tržište;
+18) indirektni klijent je lice koje ima indirektni aranžman kliringa preko člana sistema poravnanja ;
+19) interoperabilni CCP je CCP sa kojim je uspostavljen interoperabilni aranžman;
+20) plan sanacije je plan koji priprema CCP radi obezbjeđenja kontinuiteta poslovanja u uslovima poremećaja;
+21) odbor je upravni ili nadzorni odbor CCP;
+22) supervizijski kolegijum je kolegijum nadležan za nadzor nad CCP-om;
+23) kapital je kapital CCP, utvrđen u skladu sa zakonom kojim se uređuje tržište kapitala;
+24) lanac neizvršenja obaveza (default waterfall) je redosljed korišćenja sredstava radi pokrića gubitaka u slučaju neizvršenja obaveza klirinškog člana;
+25) kritične funkcije su usluge i aktivnosti CCP čije bi obustavljanje moglo izazvati poremećaje u finansijskoj stabilnosti ili realnoj ekonomiji;
+26) grupa je grupa povezanih društava;
+27) povezana infrastruktura finansijskog tržišta je infrastruktura sa kojom je CCP uspostavio ugovorni odnos;
+28) vanredna javna finansijska podrška je finansijska podrška države ili nadnacionalnog organa radi očuvanja solventnosti ili likvidnosti CCP;
+29) finansijski ugovori su ugovori i sporazumi koji se smatraju finansijskim ugovorima prema nacionalnim propisima;
+30) redovni stečajni postupak je postupak stečaja ili likvidacije koji se primjenjuje na CCP prema nacionalnom pravu;
+31) vlasnički instrumenti su akcije i drugi instrumenti koji daju prava svojine, uključujući konvertibilne instrumente;
+32) makroprudencioni organ je organ nadležan za makroprudencione politike;
+33) fond za neizvršenje obaveza je fond koji održava CCP radi pokrića gubitaka u slučaju neizvršenja obaveza;
+34) unaprijed obezbijeđena sredstva su sredstva koja su na raspolaganju CCPbez ograničenja;
+35) viši menadžment su lica koja neposredno upravljaju poslovanjem CCP;
+36) registar transakcija je registrovani registar u koji se prijavljuju finansijske transakcije;
+37) okvir državne pomoći je sistem pravila koji uređuje dodjelu državne pomoći;
+38) dužnički instrumenti su obaveznice i drugi prenosivi instrumenti duga;
+39) početna margina je margina koju CCP prikuplja radi pokrivanja potencijalnih budućih izloženosti;
+40) varijaciona margina je margina koja odražava tekuću izloženost po osnovu promjena tržišnih cijena;
+41) sanacioni novčani poziv je zahtjev CCP prema klirinškim članovima za obezbjeđenje novčanih sredstava u postupku sanacije;
+42) oporavak – novčani poziv je zahtjev za dodatna sredstva u postupku oporavka, zasnovan na ugovornim pravilima CCP;
+43) ovlašćenja prenosa su ovlašćenja za prenos instrumenata svojine, duga, imovine, prava ili obaveza sa CCP u sanaciji na drugo lice;
+44) derivat je finansijski instrument čija vrijednost zavisi od vrijednosti druge aktive;
+45) netting aranžman je aranžman kojim se više međusobnih obaveza pretvara u jednu neto obavezu;
+46) mjera za sprječavanje krize je mjera kojom se otklanjaju nedostaci u planu oporavka ili otklanjaju prepreke za sanaciju;
+47) pravo raskida je pravo na raskid ugovora, ubrzanje obaveza, zatvaranje pozicija, prebijanje obaveza ili druga slična prava;
+48) aranžman prenošenja vlasništva nad kolateralom je aranžman kojim se pravo svojine nad kolateralom prenosi na povjerioca;
+49) pokrivena obaveznica je finansijski instrument izdat uz posebna sredstva obezbjeđenja a kako je definisano zakonom kojim se uređuje izdavanje pokrivenih obveznica i nadzor pokrivenih obveznica;
+50) postupak sanacije u trećoj zemlji je postupak rješavanja propusta CCP u trećoj zemlji koji je uporediv sa sanacijom prema ovom zakonu;
+51) relevantni nacionalni organi su organi nadležni za postupanje u vezi sa pravima, obavezama i imovinom CCP iz treće zemlje;
+52) relevantni organ treće zemlje je organ u trećoj zemlji nadležan za funkcije slične funkcijama organa za sanaciju. II. OVLAŠĆENJE ZA SANACIJU

@@ -1,0 +1,3 @@
+# Član 65
+## Načelo prema kojem „nijedan povjerilac ne smije biti doveden u nepovoljniji položaj“
+Kada Komisija primijeni jedan ili više sanacionih instrumenata u odnosu na CCP, dužna je da obezbijedi da akcionari, članovi sistema poravnanja i drugi povjerioci ne trpe veće gubitke od onih koje bi trpjeli da Komisija nije preduzela sanacione mjere u trenutku kada je ocijenila da su ispunjeni uslovi za pokretanje sanacije u skladu sa članom 27 stav 1 ovog zakona, već da je CCP bio upućen u stečajni postupak u skladu sa zakonom kojim se uređuje stečaja, uz punu primjenu svih ugovornih obaveza i drugih raspoloživih mehanizama sadržanih u njegovim operativnim pravilima.

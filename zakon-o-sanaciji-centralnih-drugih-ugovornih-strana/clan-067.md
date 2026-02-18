@@ -1,0 +1,3 @@
+# Član 67
+## Zaštita akcionara, članova sistema poravnanja i drugih povjerilaca
+Ako se, na osnovu procjene vrijednosti sprovedene u skladu sa članom 66 ovog zakona, utvrdi da je bilo koji akcionar, član sistema poravnanja ili drugi povjerilac pretrpio veće gubitke nego što bi pretrpio da Komisija nije preduzela mjere sanacije u odnosu na CCP i da je CCP bila upućena u stečajni postupak u skladu sa pravilima redovnog stečajnog postupka, nakon pune primjene svih ugovornih obaveza i drugih aranžmana utvrđenih njenim operativnim pravilima, taj akcionar, član sistema poravnanja ili drugi povjerilac ima pravo na isplatu razlike.

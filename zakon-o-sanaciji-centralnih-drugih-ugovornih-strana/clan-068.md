@@ -1,0 +1,4 @@
+# Član 68
+## Zaštita klijenata i indirektnih klijenata
+Ugovorni aranžmani kojima se članovima sistema poravnanja omogućava da prenesu na svoje klijente negativne posljedice primjene sanacionih instrumenata, obavezno moraju uključivati, na ekvivalentan i proporcionalan način, i pravo klijenata na bilo kakvu naknadu ili obeštećenje koje članovi sistema poravnanja dobiju u skladu sa članom 32 ovog zakona, ili bilo koji novčani ekvivalent takve naknade ili obeštećenja, kao i na bilo kakve prihode koje ostvare na osnovu zahtjeva podnesenog u skladu sa članom 67 ovog zakona, u mjeri u kojoj se ti prihodi odnose na pozicije klijenata.
+Odredbe iz stava 1 ovog člana se primjenjuje i na ugovorne aranžmane između klijenata i indirektnih klijenata koji pružaju usluge indirektnog poravnanja svojim klijentima.

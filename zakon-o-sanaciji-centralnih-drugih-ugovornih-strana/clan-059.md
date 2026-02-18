@@ -1,0 +1,8 @@
+# Član 59
+## Isključenje određenih ugovornih odredbi u ranoj intervenciji i sanaciji
+Mjera za sprečavanje krize ili sanaciona mjera koju Komisija preduzima u skladu sa ovim zakonom, kao i svaki događaj koji je neposredno povezan sa primjenom te mjere, ne smatra se stečajnim postupkom, postupkom prinudnog izvršenja, niti događajem neizvršenja obaveza, u smislu propisa kojima se uređuje konačnost saldiranja u sistemu finansijskih instrumenata, finansijsko obezbjeđenje i prudencijalni zahtjevi za kreditne institucije i investiciona društva, pod uslovom da se suštinske ugovorne obaveze nastavljaju izvršavati, uključujući obaveze plaćanja i isporuke, kao i obaveze davanja i održavanja kolaterala.
+Za potrebe stava 1 ovog člana, sanacioni postupci treće države, koji su priznati u skladu sa članom 82 ovog zakona, ili u drugim slučajevima kada tako odluči Komisija kao sanaciono tijelo, smatraju se sanacionom mjerom preduzetom u skladu sa ovim zakonom.
+Mjera za sprečavanje krize ili sanaciona mjera iz stava 1 ovog člana ne može se koristiti za:
+1) ostvarivanje prava na raskid, obustavu, izmjenu, prebijanje ili kompenzaciju, uključujući i u odnosu na ugovore koje je zaključilo bilo koje lice iz grupe kojoj pripada CCP, a koji sadrže klauzule o unakrsnom neizvršenju ili obaveze koje su garantovane ili na drugi način podržane od strane bilo kojeg člana grupe;
+2) sticanje posjeda, preuzimanje kontrole ili ostvarivanje prava iz obezbjeđenja nad bilo kojom imovinom CCP ili drugog člana grupe, u vezi sa ugovorom koji sadrži klauzule o unakrsnom neizvršenju;
+3) uticanje na bilo koje ugovorno pravo CCP ili bilo kojeg člana grupe, u odnosu na ugovor koji sadrži klauzule o unakrsnom neizvršenju.
