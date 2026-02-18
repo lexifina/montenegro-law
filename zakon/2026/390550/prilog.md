@@ -1,0 +1,1 @@
+*U ovaj zakon prenijeta je Direktiva (EU) 2024/1174 Evropskog parlamenta i Savjeta od 11. aprila 2024. godine o izmjeni Direktive 2014/59/EU i Uredbe (EU) br. 806/2014 u pogledu određenih aspekata minimalnog zahtjeva za regulatorni kapital i kvalifikovane obaveze.
