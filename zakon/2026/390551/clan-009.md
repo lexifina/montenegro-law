@@ -1,0 +1,6 @@
+# Član 9
+U članu 52 poslije stava 2 dodaju se tri nova stava koja glase:
+"(3) Uprava društva za upravljanje dužna je da prati i periodično ocjenjuje efikasnost upravljanja mrežnim i informacionim sistemima i IKT rizicima, uključujući adekvatnost politika, mjera i procedura u oblasti digitalne operativne otpornosti, kao i da obezbijedi sprovođenje odgovarajućih korektivnih mjera u slučaju utvrđenih nedostataka.
+(4) Ako društvo za upravljanje upravlja ili namjerava da upravlja UCITS fondom na inicijativu trećeg lica, uključujući slučajeve kada taj UCITS fond koristi ime trećeg lica koje je inicijator ili kada društvo za upravljanje prenosi poslove u skladu sa članom 67 ovog zakona na treće lice koje je inicijator, društvo za upravljanje dužno je da, uzimajući u obzir eventualne sukobe interesa, Komisiji bez odlaganja dostavi detaljna objašnjenja i dokaze o usklađenosti sa stavom 1 tačka 5 ovog člana.
+(5) Društvo za upravljanje iz stava 4 ovog člana dužno je da posebno navede razumne korake koje je preduzelo kako bi spriječilo sukobe interesa koji proizlaze iz odnosa sa trećim licem ili, ako se ti sukobi interesa ne mogu spriječiti, kako ih utvrđuje, njima upravlja, prati i, prema potrebi, objavljuje, a kako bi spriječilo da oni negativno utiču na interese UCITS fonda i njegovih investitora.".
+Dosadašnji stav 3 postaje stav 6.
