@@ -1,0 +1,6 @@
+# Član 35
+## Standardi bezbjednosti i revizije treće strane koja pruža IKT usluge
+(1) Finansijski subjekt može da zaključi ugovor sa trećom stranom koja pruža IKT usluge, ukoliko ta treća strana primjenjuje odgovarajuće standarde informacione bezbjednosti.
+(2) U slučaju kada se ugovor iz stava 1 ovog člana odnosi na usluge kojima se podržavaju kritične ili važne funkcije, finansijski subjekt je dužan da, prije zaključenja tog ugovora, utvrdi da treća strana koja pruža IKT usluge primjenjuje najnovije i najviše standarde informacione bezbjednosti.
+(3) Radi ostvarivanja prava pristupa, sprovođenja provjera i revizija nad trećom stranom koja pruža IKT usluge, finansijski subjekt dužan je da, primjenom pristupa zasnovanog na procjeni rizika, unaprijed odredi učestalost provjera i revizija, kao i oblasti u kojima će se sprovesti, u skladu sa opšteprihvaćenim revizorskim standardima i, kada je to primjenljivo, zahtjevima nadležnog organa u pogledu primjene tih standarda.
+(4) U slučaju da ugovor zaključen sa trećom stranom koja pruža IKT usluge iz stava 1 ovog člana obuhvata korišćenje IKT usluga koje podrazumijevaju visok stepen tehničke složenosti, finansijski subjekt je dužan da provjeri da li revizori, bilo da su interni, eksterni ili grupa revizora, posjeduju odgovarajuće vještine i znanja neophodna za efikasno sprovođenje relevantnih revizija i procjena.

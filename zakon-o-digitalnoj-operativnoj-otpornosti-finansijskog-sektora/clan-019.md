@@ -1,0 +1,20 @@
+# Član 19
+## Usavršavanje u cilju jačanja digitalne operativne otpornosti
+(1) Finansijski subjekt je dužan da obezbijedi kapacitete i odredi lica zadužena za prikupljanje informacija o ranjivostima, sajber prijetnjama, IKT incidentima, a naročito o sajber napadima, kao i za analizu njihovog mogućeg uticaja na digitalnu operativnu otpornost finansijskog subjekta.
+(2) Finansijski subjekt je dužan da uspostavi proces naknadne analize IKT incidenata, koji se sprovodi nakon što značajan IKT incident poremeti obavljanje njegovih osnovnih aktivnosti, u cilju analize uzroka poremećaja i utvrđivanja potrebnih poboljšanja u IKT operacijama ili u IKT politici kontinuiteta poslovanja iz člana 17 stav 1 ovog zakona.
+(3) Finansijski subjekt, koji nije klasifikovan kao mikro finansijski subjekt, dužan je da nadležnom organu, na njegov zahtjev, dostavi informacije o izmjenama koje su sprovedene nakon analize IKT incidenta iz stava 2 ovog člana.
+(4) Naknadnom analizom IKT incidenta iz stava 2 ovog člana mora se utvrditi da li su uspostavljene procedure bile ispoštovane i da li su preduzete mjere bile djelotvorne, uključujući:
+1) brzinu reagovanja na bezbjednosna upozorenja i utvrđivanja uticaja IKT incidenta i njegove ozbiljnosti;
+2) kvalitet i brzinu sprovođenja forenzičke analize, u slučajevima kada je to svrsishodno;
+3) efikasnost interne eskalacije incidenta;
+4) efikasnost interne i eksterne komunikacije.
+(5) Finansijski subjekt je dužan da obezbijedi da se iskustva stečena kroz testiranje digitalne operativne otpornosti iz čl. 27 do 32 ovog zakona, kao i iz nastalih IKT incidenata, a naročito sajber napada, saznanja o izazovima koji su se pojavili prilikom pokretanja planova za odgovor i oporavak u IKT oblasti iz člana 17 stav 4 ovog zakona i IKT planova kontinuiteta poslovanja iz člana 17 stav 6 ovog zakona, relevantne informacije dobijene od drugih subjekata, kao i informacije u vezi sa zahtjevima nadležnog organa, blagovremeno, adekvatno i kontinuirano koriste u okviru procesa procjene IKT rizika.
+(6) Finansijski subjekt je dužan da iskustva, saznanja i informacije iz stava 5 ovog člana, na odgovarajući način, uzme u obzir prilikom preispitivanja relevantnih komponenti sistema upravljanja IKT rizicima.
+(7) Finansijski subjekt je dužan da prati efikasnost sprovođenja strategije digitalne operativne otpornosti iz člana 12 stav 1 ovog zakona.
+(8) Finansijski subjekt je dužan da evidentira i prati promjenu ukupnog profila IKT rizika tokom vremena, analizira učestalost, vrste, razmjere i trendove IKT incidenata, a naročito sajber napada i njihovih obrazaca, kako bi razumio nivo svoje izloženosti IKT riziku, posebno u odnosu na kritične ili važne funkcije i unaprijedio stepen svoje zrelosti i spremnosti u oblasti sajber bezbjednosti.
+(9) Finansijski subjekt je dužan da obezbijedi da viši IKT kadar, najmanje jednom godišnje, podnosi izvještaj organu upravljanja o zaključcima izvedenim iz iskustava, saznanja i informacija iz stava 5 ovog člana, sa predlozima za dalje postupanje.
+(10) Finansijski subjekt je dužan da osmisli i sprovodi programe za podizanje svijesti o IKT bezbjednosti i obuke o digitalnoj operativnoj otpornosti, kao obavezne djelove svojih programa obuke zaposlenih.
+(11) Programi i obuke iz stava 10 ovog člana primjenjuju se na sve zaposlene i članove višeg rukovodstva, a nivo njihove složenosti mora biti prilagođen nadležnostima i poslovima koje ta lica obavljaju.
+(12) Finansijski subjekt je dužan da, kada je to primjenljivo, uključi treće strane koje pružaju IKT usluge u odgovarajuće programe obuke, u skladu sa članom 38 stav 3 tačka 11 ovog zakona.
+(13) Finansijski subjekt, koji nije klasifikovan kao mikro finansijski subjekt, dužan je da kontinuirano prati trendove u razvoju tehnologija, kako bi bolje razumio mogući uticaj primjene novih tehnologija na zahtjeve u oblasti IKT bezbjednosti i digitalnu operativnu otpornost.
+(14) Finansijski subjekt, koji nije klasifikovan kao mikro finansijski subjekt, dužan je da bude upoznat sa najnovijim metodama za upravljanje IKT rizicima, kako bi mogao efikasno da odgovori na postojeće i nove oblike sajber napada.

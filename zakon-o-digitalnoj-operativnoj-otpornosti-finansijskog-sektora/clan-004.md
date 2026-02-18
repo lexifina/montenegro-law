@@ -1,0 +1,3 @@
+# Član 4
+## Digitalna operativna otpornost
+Digitalna operativna otpornost, u smislu ovog zakona, je sposobnost finansijskog subjekta da izgradi, obezbijedi i preispituje svoj operativni integritet i pouzdanost, na način da, direktno ili indirektno kroz korišćenje usluga koje pružaju treće strane, odnosno pružaoci usluga informaciono komunikacionih tehnologija (u daljem tekstu: IKT), stvara uslove za primjenu svih IKT kapaciteta neophodnih za bezbjednost mrežnih i informacionih sistema koje koristi i koji podržavaju kontinuirano pružanje finansijskih usluga tog subjekta i očuvanje njihovog kvaliteta, uključujući i u slučaju poremećaja.

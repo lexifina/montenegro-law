@@ -1,0 +1,9 @@
+# Član 43
+## Objavljivanje podataka o izrečenim novčanim kaznama i prekršajima finansijskih subjekata i odgovornim licima u finansijskim subjektima
+(1) Nadležni organ na svojoj internet stranici, bez odlaganja, objavljuje podatke o novčanim kaznama izrečenim pravosnažnim rješenjem iz člana 40 stav 4 tačka 3 ovog zakona i pravosnažnim kaznama finansijskom subjektu i odgovornom licu u finansijskom subjektu izrečenim u prekršajnom postupku zbog kršenja odredbi ovog zakona ili propisa donesenih na osnovu ovog zakona.
+(2) Podaci iz stava 1 ovog člana sadrže informacije o vrsti i prirodi kršenja, naziv finansijskog subjekta i ime i prezime odgovornih lica u finansijskom subjektu kome je izrečena kazna.
+(3) Izuzetno od st. 1 i 2 ovog člana, ako na pojedinačnoj osnovi nadležni organ procijeni da objavljivanje identiteta finansijskog subjekta ili ličnih podataka odgovornih lica u finansijskom subjektu nije srazmjerno utvrđenom kršenju, ili bi objavljivanje ugrozilo stabilnost finansijskog tržišta, istražne radnje u krivičnom postupku koje su u toku, ili bi objavljivanje prouzrokovalo nesrazmjernu štetu za finansijski subjekt ili odgovorna lica, koju je moguće utvrditi, nadležni organ može da:
+1) odloži objavljivanje podataka iz st. 1 i 2 ovog člana do prestanka razloga za neobjavljivanje;
+2) izvrši objavljivanje na način kojim se ne odaju podaci iz st. 1 i 2 ovog člana, s tim što se i to objavljivanje može odložiti;
+3) ne objavi podatke iz st. 1 i 2 ovog člana ako ocijeni da opcije iz tač. 1 i 2 ovog stava ne mogu u dovoljnoj mjeri obezbijediti stabilnost finansijskog tržišta ili da to objavljivanje nije srazmjerno težini izrečene kazne.
+(4) Podaci iz st. 1, 2 i 3 ovog člana ostaju na internet stranici nadležnog organa pet godina od dana objavljivanja. VIII. SARADNJA NADLEŽNIH ORGANA SA DRUGIM ORGANIMA

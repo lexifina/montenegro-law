@@ -1,0 +1,8 @@
+# Član 39
+## Razmjena informacija i saznanja o sajber prijetnjama
+(1) Finansijski subjekti mogu međusobno razmjenjivati informacije i saznanja o sajber prijetnjama, uključujući indikatore ugroženosti, taktike, tehnike i procedure, bezbjednosna upozorenja i alate za konfiguraciju, u mjeri u kojoj ta razmjena:
+1) ima za cilj jačanje digitalne operativne otpornosti finansijskih subjekata, naročito podizanjem svijesti o sajber prijetnjama, ograničavanje ili sprečavanje njihovog širenja, unapređenje odbrambenih kapaciteta, tehnika za otkrivanje prijetnji, strategija za ublažavanje uticaja ili postupaka odgovora i oporavka;
+2) se sprovodi u okviru pouzdane zajednice finansijskih subjekata;
+3) se ostvaruje kroz sporazume za razmjenu informacija kojima se štiti potencijalno osjetljiva priroda tih informacija, koji su uređeni pravilima ponašanja kojima se obezbjeđuje potpuna zaštita povjerljivih poslovnih informacija, podataka o ličnosti u skladu sa propisom kojim se uređuje zaštita podataka o ličnosti i primjena pravila u oblasti zaštite konkurencije.
+(2) Sporazumima za razmjenu informacija iz stava 1 tačka 3 ovog člana moraju se utvrditi uslovi za učešće u razmjeni informacija i, kada je to primjenjivo, učešće i uloga javnih organa koji mogu biti uključeni u tim sporazumima, trećih strana koje pružaju IKT usluge, kao i operativni elementi, uključujući i upotrebu posebnih IT platformi.
+(3) Finansijski subjekt je dužan da obavijesti nadležni organ bez odlaganja ako je učesnik u sporazumu za razmjenu informacija iz stava 1 tačka 3 ovog člana, odnosno kada prestane sa učešćem u tom sporazumu. VII. NADZOR NAD SPROVOĐENJEM ODREDBI OVOG ZAKONA I NADZORNE MJERE

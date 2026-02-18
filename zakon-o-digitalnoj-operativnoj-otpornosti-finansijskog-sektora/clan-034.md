@@ -1,0 +1,7 @@
+# Član 34
+## Registar informacija o ugovorima o korišćenju IKT uslugama i obavještavanje nadležnog organa
+(1) Finansijski subjekt je dužan da, u okviru sistema upravljanja IKT rizicima, na pojedinačnoj, kao i na potkonsolidovanoj i konsolidovanoj osnovi, vodi i ažurira registar informacija o svim ugovorima o korišćenju IKT usluga koje pružaju treće strane.
+(2) Informacije o ugovorima iz stava 1 ovog člana moraju biti evidentirane tako da se ugovori koji se odnose na IKT usluge za podršku kritičnih ili važnih funkcija razlikuju od ugovora koji se ne odnose na te funkcije.
+(3) Finansijski subjekt je dužan da najmanje jednom godišnje dostavi nadležnom organu izvještaj o broju novih ugovora o korišćenju IKT usluga, kategorijama trećih strana koje pružaju IKT usluge, vrsti ugovora i IKT uslugama i funkcijama koje se pružaju.
+(4) Finansijski subjekt je dužan da nadležnom organu, na njegov zahtjev, stavi na raspolaganje pojedine djelove ili cjelokupan registar informacija iz stava 1 ovog člana, uključujući i druge informacije koje su nadležnom organu potrebne za sprovođenje nadzora.
+(5) Finansijski subjekt je dužan da blagovremeno obavijesti nadležni organ o svakom planiranom ugovoru u skladu sa kojim namjerava da koristi IKT usluge za podršku kritičnih ili važnih funkcija, kao i o svakoj funkciji koja je podržana ugovorom o korišćenju IKT usluga, a koja postane kritična ili važna funkcija.
