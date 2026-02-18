@@ -1,0 +1,7 @@
+# Član 35
+## Značajne referentne vrijednosti
+Referentna vrijednost koja ne ispunjava nijedan od uslova iz člana 28 stav 1 ovog zakona smatra se značajnom ako:
+1) se koristi, neposredno ili posredno, unutar kombinacije referentnih vrijednosti kao referenca za finansijske instrumente, finansijske ugovore ili za mjerenje uspješnosti investicionih fondova čija ukupna prosječna vrijednost iznosi najmanje 50 milijardi eura, računato na osnovu čitavog raspona dospijeća ili ročnosti referentne vrijednosti, gdje je primjenljivo, u periodu od šest mjeseci; ili
+2) nema ili ima veoma malo odgovarajućih tržišno zasnovanih zamjena, a u slučaju kada prestane da se obezbjeđuje ili se obezbjeđuje na osnovu ulaznih podataka koji nijesu u potpunosti reprezentativni za osnovno tržište ili ekonomsku stvarnost, ili na osnovu nepouzdanih ulaznih podataka, nastupio bi značajan i negativan uticaj na integritet tržišta, finansijsku stabilnost, potrošače, realnu ekonomiju ili finansiranje domaćinstava ili privrednih subjekata u jednoj ili više država.
+Komisija može da najmanje jednom u dvije godine preispita metod obračuna praga iz stava 1 tačka 1 ovog člana, imajući u vidu tržišna, cjenovna i regulatorna kretanja, kao i svrsishodnost klasifikacije referentnih vrijednosti na koje se odnosi ukupna vrijednost finansijskih instrumenata, finansijskih ugovora ili investicionih fondova koja je blizu tog praga.
+Administrator je dužan da odmah obavijesti Komisiju kada značajna referentna vrijednost padne ispod praga iz stava 1 tačka 1 ovog člana.

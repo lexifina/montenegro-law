@@ -1,0 +1,6 @@
+# Član 37
+## Referentne vrijednosti koje nisu značajne
+Administrator referentnih vrijednosti koje nijesu značajne može da se odluči da iskoristi izuzeće u skladu sa ovim zakonom i da ne primjenjuje određene obaveze, ukoliko ocijeni da njihova primjena nije neophodna s obzirom na prirodu i značaj tih referentnih vrijednosti.
+Administrator je dužan da odmah obavijesti Komisiju ako referentna vrijednost koja nije značajna premaši prag utvrđen članom 35 stav 1 tačka 1 ovog zakona i da u tom slučaju u roku od tri mjeseca počne da primjenjuje sve obaveze koje se odnose na značajne referentne vrijednosti.
+Administrator referentnih vrijednosti koje nijesu značajne, koji se odluči da ne primjenjuje jednu ili više obaveza iz stava 1 ovog člana, dužan je da objavi i dostavi Komisiji izjavu o usklađenosti u kojoj jasno navodi razloge zbog kojih je primjena tih obaveza neprikladna.
+Komisija pregledava izjavu o usklađenosti iz stava 3 ovog člana i može, u okviru svojih nadzornih ovlašćenja, da zahtijeva dodatne informacije od administratora u vezi sa referentnim vrijednostima koje nijesu značajne, kao i da naloži izmjene radi obezbjeđenja usklađenosti sa ovim zakonom. IV. TRANSPARENTNOST I ZAŠTITA KORISNIKA

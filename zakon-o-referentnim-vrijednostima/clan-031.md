@@ -1,0 +1,26 @@
+# Član 31
+## Obavezni doprinos kritičnoj referentnoj vrijednosti
+Odredbe ovog člana se primjenjuje na kritične referentne vrijednosti koje se zasnivaju na doprinosima davaoca podataka, od kojih većina čine nadzirana pravna lica ili drugi subjekti pod nadzorom.
+Administrator jedne ili više kritičnih referentnih vrijednosti dužan je da najmanje svake dvije godine Komisiji dostavi procjenu sposobnosti svake kritične referentne vrijednosti i da mjeri relevantno tržište ili ekonomsku stvarnost.
+Ako nadzirani davalac podataka namjerava da prestane da doprinosi ulaznim podacima, dužan je odmah pismenim putem da obavijesti administratora referentne vrijednosti, a administrator je dužan da bez odlaganja obavijesti Komisiju.
+Ako se nadzirani davalac nalazi u drugoj državi, Komisija obavještava nadležni organ te države, a administrator dostavlja Komisiji procjenu uticaja prestanka doprinosa na sposobnost referentne vrijednosti da mjeri tržište ili ekonomsku stvarnost, najkasnije 14 dana od dana dostavljanja obavještenja.
+Komisija, po prijemu procjene administratora, informiše po potrebi, stručni kolegijum, i vrši sopstvenu procjenu sposobnosti referentne vrijednosti da mjeri tržište i ekonomsku stvarnost, uzimajući u obzir procedure za prestanak referentne vrijednosti utvrđene zakonom.
+Od trenutka kada je Komisija obaviještena o namjeri davaoca podataka da prestane da doprinosi ulaznim podacima, i dok procjena iz stava 4 ovog člana ne bude završena, Komisija može da zahtijeva od davaoca podataka da nastavi da doprinosi ulaznim podacima, najviše četiri sedmice, bez obaveze trgovanja ili preuzimanja trgovačkih obaveza.
+Ako Komisija, nakon isteka perioda iz stava 5 ovog člana i na osnovu sopstvene procjene, ocijeni da je reprezentativnost kritične referentne vrijednosti ugrožena, može da:
+1) zahtijeva od nadziranih subjekata, uključujući i one koji koji do tada nijesu bili davaoci podataka za relevantnu kritičnu referentnu vrijednost, da dostavljaju ulazne podatke administratoru, u skladu sa metodologijom administratora, kodeksom ponašanja iz člana 18 ovog zakona u periodu ne dužem od 12 mjeseci od dana donošenja početne odluke o obaveznoj dostavi podataka iz stava 6 ovog člana, odnosno, za subjekte koji do tada nijesu bili davaoci podataka, od dana donošenja odluke o obaveznoj dostavi podataka u skladu sa ovim stavom;
+2) produži period obaveznog doprinosa do najviše 12 mjeseci, uz reviziju mjera;
+3) odredi oblik i rok doprinosa podataka, bez obaveze trgovanja;
+4) zahtijeva od administratora izmjenu metodologije, kodeksa ponašanja ili drugih pravila.
+Ukupan period obaveznog doprinosa iz stava 7 tač. 1 i 2 ovog člana ne može da bude duži od 5 godina.
+Komisija, uz saradnju nadležnih organa nadziranih subjekata, bira nadzirane subjekte koji će doprinositi na osnovu njihove stvarne i potencijalne tržišne uloge.
+Nadležni organ nadzirnog subjekta koji je obavezan da doprinosi referentnoj vrijednosti, na osnovu mjera iz stava 7 tač. 1, 2 ili 3 ovog člana, dužan je da sarađuje sa Komisijom u sprovođenju tih mjera.
+Do isteka perioda iz stava 7 tačka 1 ovog člana, Komisija preispituje mjere usvojene na osnovu stava 7 ovog člana i ukida te mjere ako utvrdi da:
+1) je vjerovatno da će davaoci podataka nastaviti sa dostavljanjem ulaznih podataka najmanje godinu dana nakon što bi mjera bila ukinuta, što se dokazuje najmanje:
+a) pismenim obavezivanjem davaoca podataka administratoru i Komisiji da će nastaviti dostavljanje ulaznih podataka za kritičnu referentnu vrijednost najmanje godinu dana nakon ukidanja mjere;
+b) pismenim izvještajem administratora upućenim Komisiji, kojim se daje dokaz za ocjenu da se održivost kritične referentne vrijednosti može obezbijediti nakon ukidanja obaveznog doprinosa;
+2) se obezbjeđivanje referentne vrijednosti može nastaviti i nakon što davaoci podataka, koji su bili obavezani na dostavljanje ulaznih podataka, prestanu sa doprinosom;
+3) postoji prihvatljiva zamjenska referentna vrijednost i da korisnici kritične referentne vrijednosti mogu preći na tu zamjensku vrijednost uz minimalne troškove, što se dokazuje najmanje pismenim izvještajem administratora kojim se obrazlaže način prelaska na zamjensku referentnu vrijednost i mogućnost i troškovi prelaska za korisnike; ili
+4) nije moguće identifikovati odgovarajuće alternativne davaoce podataka i da bi prestanak doprinosa relevantnih nadziranih subjekata oslabio referentnu vrijednost do mjere koja zahtijeva njen prestanak.
+U slučaju kada kritična referentna vrijednost prestaje da se obezbjeđuje, svaki nadzirani subjekt koji doprinosi toj vrijednosti dužan je da nastavi sa dostavljanjem ulaznih podataka u periodu koji odredi Komisija, a koji ne može biti duži od maksimalnog perioda od 24 mjeseca, utvrđenog u stavu 7 tačka 2 ovog člana.
+Administrator je dužan da bez odlaganja obavijesti Komisiju u slučaju kada bilo koji davalac podataka prekrši obaveze propisane u stavu 7 ovog člana.
+U slučaju kada je referentna vrijednost prepoznata kao kritična u skladu sa postupkom iz člana 23 st. 2, 3, 4 i 5 ovog zakona, Komisija zahtijeva dostavljanje ulaznih podataka u skladu sa stavom 6 i tač. 1, 2 i 3 stava 7 ovog člana samo od nadziranih subjekata koji imaju sjedište u Crnoj Gori.

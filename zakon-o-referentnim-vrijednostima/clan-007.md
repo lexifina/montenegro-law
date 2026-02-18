@@ -1,0 +1,19 @@
+# Član 7
+## referentne vrijednosti Upravljanje i kontrola od strane administratora i zahtjevi u vezi sa sukobom interesa
+Administrator mora da ima pouzdane upravljačke aranžmane, koji uključuju jasnu organizacionu strukturu sa dobro definisanim, transparentnim i dosljednim ulogama i odgovornostima za sva lica uključena u pružanje referentne vrijednosti.
+Administrator je dužan da preuzme odgovarajuće mjere za identifikovanje, sprječavanje i upravljanje sukobima interesa između sebe, svojih rukovodilaca, zaposlenih ili bilo kojeg lica direktno ili indirektno povezana kontrolom, sa davaocima podataka ili korisnicima, i da osigura da se bilo koja procjena ili diskrecija u procesu utvrđivanja referentne vrijednosti vrši nezavisno i pošteno.
+Pružanje referentne vrijednosti mora da bude operativno odvojeno od bilo kojeg dijela poslovanja administratora koji može da stvori stvarni ili potencijalni sukob interesa.
+Ako sukob interesa proizilazi iz vlasničke strukture, kontrolnih interesa ili drugih aktivnosti subjekta koji posjeduje ili kontroliše administratora, ili subjekta koji je u vlasništvu ili pod kontrolom administratora ili njegovih povezanih lica, a koji se ne može adekvatno ublažiti, Komisija zahtijeva od administratora da uspostavi nezavisnu funkciju nadzora sa uravnoteženom zastupljenošću zainteresovanih strana, uključujući korisnike i davaoce podataka.
+Ako sukobom interesa iz stava 4 ovog člana ne može adekvatno da se upravlja, Komisija zahtijeva od administratora da prekine aktivnosti ili odnose koji stvaraju sukob interesa, ili da obustavi pružanje referentne vrijednosti.
+Administrator je dužan da objavi ili dostavi sve postojeće ili potencijalne sukobe interesa korisnicima referentne vrijednosti, Komisiji i, gdje je primjenjivo, davaocima podataka, uključujući sukobe interesa koji proizilaze iz vlasništva ili kontrole administratora.
+Administrator mora da uspostavi i primjenjuje odgovarajuće politike i procedure, kao i efikasne organizacione aranžmane, za identifikovanje, objavljivanje, sprječavanje, upravljanje i ublažavanje sukoba interesa radi zaštite integriteta i nezavisnosti utvrđivanja referentnih vrijednosti.
+Politike i procedure iz stava 7 ovog člana moraju da se redovno pregledaju i ažuriraju, i uzimaju u obzir:
+1) povjerljivost informacija dostavljenih administratoru ili proizvedenih od strane administratora, uz obaveze objavljivanja i transparentnosti;
+2) specifično ublažavanje sukoba interesa koji proizilaze iz vlasništva ili kontrole administratora, ili interesa u grupi administratora ili uticaja trećih lica u vezi sa utvrđivanjem referentne vrijednosti.
+Administrator mora da osigura da njegovi zaposleni i druga fizička lica čije su usluge stavljene na raspolaganje ili pod kontrolu administratora, a koja su direktno uključena u pružanje referentne vrijednosti:
+1) posjeduju potrebne vještine, znanje i iskustvo za dodijeljene dužnosti i da podliježu efikasnom nadzoru;
+2) nisu podložni neprimjerenom uticaju ili sukobima interesa, i da nagrađivanje i ocjena učinka ne stvaraju sukobe interesa kao ni da narušavaju integritet procesa utvrđivanja referentne vrijednosti;
+3) nemaju interese ili poslovne veze koje ugrožavaju aktivnosti administratora;
+4) ne doprinose utvrđivanju referentne vrijednosti putem ličnih ponuda, kupovina ili prodaja, osim kada je takav način doprinosa izričito predviđen metodologijom i podliježe posebnim pravilima;
+5) predmet su efikasnih procedura kontrole razmjene informacija sa drugim zaposlenima ili trećim licima, gdje razmjena može da utiče na referentnu vrijednost ili da stvori rizik od sukoba interesa.
+Administrator mora da uspostavi specifične interne kontrolne procedure kako bi osigurao integritet i pouzdanost lica koje utvrđuje referentnu vrijednost, uključujući najmanje interno odobrenje rukovodstva prije objavljivanja referentne vrijednosti.
