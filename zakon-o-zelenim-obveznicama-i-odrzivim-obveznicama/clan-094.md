@@ -1,0 +1,2 @@
+# Član 94
+(1) Novčanom kaznom od 5.000 do 20.000 eura kazniće se za prekršaj pravno lice - institucija za profesionalnu penzionu štednju, ako ne objavi ili ne ažurira informacije iz čl. 50 do 54 i člana 57 stav 1 ovog zakona, u skladu sa članom 62 stav 1 ovog zakona i ne stave ih na raspolaganje potencijalnim članovima, članovima i korisnicima besplatno, elektronskim putem ili u papirnom obliku (član 62 stav 1).

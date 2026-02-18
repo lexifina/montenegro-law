@@ -1,0 +1,5 @@
+# Član 68
+## Transparentnost finansijskih proizvoda kojima se promovišu ekološke karakteristike u predugovornim obavještenjima i periodičnim izvještajima
+(1) Kada finansijski proizvod iz člana 55 ovog zakona promoviše ekološka obilježja, a ulaganja na kojima se zasniva predstavljaju održiva ulaganja, izdavalac je dužan da, pored informacija iz člana 55, objavi i informacije propisane članom 67 ovog zakona.
+(2) Informacije iz stava 1 ovog člana objavljuju se u predugovornim obavještenjima i periodičnim izvještajima, u skladu sa članom 53 ovog zakona.
+(3) Informacijama koje se objavljuju u skladu sa članom 53 stav 5 i članom 58 stav 2 ovog zakona prilaže se sljedeća izjava: „Načelo "ne nanosi bitnu štetu" primjenjuje se samo na ona ulaganja na kojima se zasniva finansijski proizvod, a kod kojih se uzimaju u obzir kriterijumi Evropske unije za ekološki održive privredne djelatnosti. Kod ulaganja na kojima se zasniva preostali dio ovog finansijskog proizvoda ne uzimaju se u obzir kriterijumi Evropske unije za ekološki održive privredne djelatnosti.”

@@ -1,0 +1,8 @@
+# Član 21
+## Dodatni zahtjevi za objavljivanje informacija u slučaju sekjuritizacije
+(1) U slučaju sekjuritizacijske obveznice označene kao „evropska zelena obveznica” ili „EuGB”, prospekt objavljen u skladu sa zakonom kojim se uređuje tržište kapitala uključuje izjavu da je obveznica sekjuritizacijska obveznica i da je inicijator odgovoran za ispunjavanje obaveza preuzetih u prospektu u pogledu korišćenja prihoda.
+(2) Kako bi se obezbijedila transparentnost u pogledu ekoloških karakteristika sekjuritizovanih izloženosti, na osnovu dostupnih podataka, u najvećoj mogućoj mjeri i u skladu sa mogućnostima inicijatora, u prospekt se uključuju informacije o sljedećem:
+1) učešću sekjuritizovanih izloženosti u skupu sekjuritizovanih izloženosti kojima se finansiraju privredne djelatnosti koje su taksonomski prihvatljive;
+2) učešću sekjuritizovanih izloženosti koje su usklađene sa taksonomijom, po relevantnoj privrednoj djelatnosti, u skupu taksonomski prihvatljivih izloženosti iz tačke 1 ovog stava, u skladu sa tehničkim kriterijumima propisanim relevantnim propisima Evropske unije;
+3) učešću sekjuritizovanih izloženosti koje ne ispunjavaju kriterijume načela nenanošenja bitne štete, po relevantnoj privrednoj djelatnosti, u skupu taksonomski prihvatljivih izloženosti iz tačke 1 ovog stava.
+(3) Informacije sadržane u prospektu u skladu sa stavom 2 ovog člana uključuju se i u sažetak prospekta o evropskim zelenim obveznicama iz člana 11 ovog zakona, kao i u izvještaj o raspodjeli evropskih zelenih obveznica iz člana 12 ovog zakona na osnovu godišnjih ažuriranja koje sprovodi inicijator. V. NEOBAVEZNE SMJERNICE ZA OBJAVLJIVANJE INFORMACIJA PRIJE IZDAVANJA ZA OBVEZNICE KOJE SE PROMOVIŠU KAO EKOLOŠKI ODRŽIVE I ZA OBVEZNICE POVEZANE SA ODRŽIVOŠĆU

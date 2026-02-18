@@ -1,0 +1,4 @@
+# Član 43
+## Čuvanje poslovne tajne
+(1) Sve informacije koje Komisija razmjenjuje sa nadležnim organima drugih država i sa ESMA-om na osnovu ovog zakona, a koje se odnose na poslovne ili operativne uslove, kao i druga ekonomska ili lična pitanja, smatraju se povjerljivim i podliježu obavezi čuvanja poslovne tajne, osim ako Komisija prilikom razmjene informacije navede da se ona može objaviti ili ako je objavljivanje nužno radi pokretanja postupka pred nadležnim organom.
+(2) Obaveza čuvanja poslovne tajne primjenjuje se na sva službena lica i bivša službena lica Komisije, kao i na lica na koja je Komisija prenijela određene nadležnosti. Povjerljive informacije ne smiju se otkrivati trećim licima, osim u slučajevima utvrđenim pravom Crne Gore ili pravom Evropske unije koje se primjenjuje u skladu sa ovim zakonom, uključujući obaveze koje proističu iz međunarodne saradnje.

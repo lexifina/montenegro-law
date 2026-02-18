@@ -1,0 +1,7 @@
+# Član 64
+## Dostavljanje informacija radi dostupnosti putem jedinstvene evropske pristupne tačke – ESAP
+(1) Učesnici na finansijskom tržištu i finansijski savjetnici dužni su da, istovremeno sa objavljivanjem informacija u skladu sa članom 50, članom 51 st. 1, 3, 4 i 5, članom 52 stav 1 i članom 57 ovog zakona, te informacije dostave nadležnom tijelu za prikupljanje, radi njihove dostupnosti putem jedinstvene evropske pristupne tačke (ESAP), u skladu sa propisima Evropske unije.
+(2) Informacije iz stava 1 ovog člana dostavljaju se u formatu koji omogućava izdvajanje podataka, odnosno u sistemski čitljivom formatu, ako je to propisano, sadrže propisane metapodatke, a učesnici na finansijskom tržištu i finansijski savjetnici koji su pravna lica obavezni su da, u tu svrhu, pribave identifikacioni kod pravnog lica u skladu sa propisima Evropske unije.
+(3) Nadležno tijelo za prikupljanje informacija u smislu ovog zakona je Komisija, koja je nadležna za prijem, provjeru formalne ispravnosti i dostavljanje informacija nadležnim institucijama Evropske unije, u skladu sa relevantnim propisima Evropske unije.
+(4) Komisija obezbjeđuje tehničke i organizacione uslove za nesmetano dostavljanje informacija iz stava 1 ovog člana, kao i njihovu usklađenost sa zahtjevima za format i metapodatke propisane pravom Evropske unije.
+(5) Komisija donosi pravila radi bližeg uređivanja tehničkih aspekata dostavljanja informacija iz ovog člana. XII. TAKSONOMIJA

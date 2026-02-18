@@ -1,0 +1,8 @@
+# Član 88
+## Izvještavanje ESMA-i o administrativnim sankcijama i drugim mjerama
+(1) Komisija jednom godišnje dostavlja ESMA-i zbirne informacije o svim administrativnim sankcijama i drugim administrativnim mjerama izrečenim na osnovu člana 85 ovog zakona, koja ESMA objavljuje u svom godišnjem izvještaju.
+(2) Ako Crna Gora, u skladu sa članom 85 stav 5 ovog zakona i drugim propisima Crne Gore, propiše krivične sankcije za povrede odredaba iz člana 85 ovog zakona, nadležni organi jednom godišnje dostavljaju ESMA-i anonimizirane i zbirne podatke o svim sprovedenim krivičnim istragama i izrečenim krivičnim sankcijama, koje ESMA u godišnjem izvještaju objavljuje informacije o izrečenim krivičnim sankcijama.
+(3) Ako Komisija javno objavi administrativne sankcije, druge administrativne mjere ili krivične sankcije u skladu sa ovim zakonom, istovremeno o tim sankcijama i mjerama obavještava ESMA-u.
+(4) Komisija obavještava ESMA-u o svim administrativnim sankcijama ili drugim administrativnim mjerama koje nijesu javno objavljene u skladu sa članom 87 stav 2 ovog zakona, uključujući informacije o svim pravnim lijekovima izjavljenim protiv tih odluka i njihovom ishodu.
+(5) Nadležni organi obezbjeđuju da Komisija primi informacije i pravosnažne presude o svakoj izrečenoj krivičnoj sankciji u vezi sa povredama ovog zakona i da te informacije dostavi ESMA-i.
+(6) ESMA vodi centralnu bazu podataka o sankcijama i mjerama koje su joj prijavljene u skladu sa ovim članom, isključivo u svrhu razmjene informacija među nadležnim tijelima, a baza podataka je dostupna samo nadležnim tijelima i ažurira se na osnovu informacija koje dostave ta tijela. XIV. KAZNENE ODREDBE

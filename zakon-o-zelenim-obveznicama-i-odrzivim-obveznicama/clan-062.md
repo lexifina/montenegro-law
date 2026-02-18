@@ -1,0 +1,4 @@
+# Član 62
+## Transparentnost institucija za profesionalnu penzionu štednju i posrednika u osiguranju
+(1) Institucije za profesionalnu penzionu štednju objavljuju i ažuriraju informacije iz čl. 50 do 54 i člana 57 stav 1 ovog zakona objavljuju i redovno ažuriraju na jasan, razumljiv i pregledan način, koristeći terminologiju koja ne dovodi u zabludu, i da ih stave na raspolaganje potencijalnim članovima, članovima i korisnicima besplatno, elektronskim putem ili u papirnom obliku.
+(2) Posrednici u osiguranju dužni su da informacije iz člana 8 stav 1, člana 50, člana 51 stav 5 i čl. 52 i 53 ovog zakona saopštavaju potrošačima na jasan, tačan i razumljiv način, besplatno, na papiru ili na drugom trajnom mediju, odnosno putem internet stranice, pod uslovom da je takav način dostave primjeren odnosu sa potrošačem i da je potrošač dao saglasnost za takav vid dostave. Na zahtjev potrošača, informacije se uvijek obezbjeđuju i u papirnom obliku.
