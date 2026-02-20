@@ -1,0 +1,5 @@
+# Član 18
+## Isporuke kupcima
+1. U slučaju nabavki u okviru Evropske unije, lica iz člana 1 stav 2 ovih smjernica aktivne supstance koje se koriste kao polazni materijali za veterinarske ljekove isporučuju samo distributerima, proizvođačima, apotekama ili osobama kojima je nacionalnim zakonodavstvom dozvoljeno isporučivati.
+2. Aktivne supstance koje se koriste kao polazni materijali za veterinarske ljekove se transportuju u skladu sa uslovima određenim od proizvođača i na način kojim se ne utiče nepovoljno na njihov kvalitet. Zapisi se vode tako da se ni u jednom momentu ne izgubi identitet aktivne supstance, serije i kontejnera. Svi izvorni podaci na kontejneru treba da ostanu čitljivi. Preduzimaju se mjere kako bi se spriječio neovlašćeni pristup aktivnim supstancama koje se koriste kao polazni materijali za veterinarske ljekove koji se transportuju.
+3. Uspostavlja se sistem pomoću koga distribucija svake serije aktivne supstance koje se koriste kao polazni materijali za veterinarske ljekove može biti lako identifikovana, radi povlačenja.

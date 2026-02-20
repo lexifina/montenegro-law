@@ -1,0 +1,5 @@
+# Član 19
+## Prenos informacija
+1. Lice iz člana 1 stav 2 ovih smjernica obavještava relevantnog kupca o svim informacijama i događajima za koje sazna i koji bi mogli da dovedu do prekida isporuke.
+2. Lice iz člana 1 stav 2 ovih smjernica prenosi kupcu sve regulatorne informacije i informacije o kvalitetu dobijene od proizvođača aktivne supstance koje se koriste kao polazni materijali za veterinarske ljekove, a informacije dobijene od kupca dostavlja proizvođaču aktivne supstance. 3. Lice iz člana 1 stav 2 ovih smjernica koje isporučuje aktivnu supstancu kupcu i dostavlja naziv i adresu originalnog proizvođača te aktivne supstance i broj isporučene serije. Kupcu se obezbjeđuje kopija originalnog sertifikata analize proizvođača.
+4. Lice iz člana 1 stav 2 ovih smjernica takođe dostavlja naziv i adresu originalnog proizvođača aktivne supstance na zahtjev Instituta. Originalni proizvođač može Institutu da odgovori direktno ili preko svojih ovlašćenih zastupnika (u ovom kontekstu ovlašćen se odnosi na ovlašćenje od proizvođača).
