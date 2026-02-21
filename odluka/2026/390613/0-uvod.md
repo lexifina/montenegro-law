@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list CG", br. 40/10, 06/13, 70/17 i 125/23), i člana 31 stav 8 Zakona o Kreditno-garantnom fondu Crne Gore ("Službeni list CG", broj 89/25), Savjet Centralne banke Crne Gore, na sjednici održanoj 5. februara 2026. godine, donio je
+O D L U K U O MINIMALNIM STANDARDIMA ZA UPRAVLJANJE RIZICIMA U POSLOVANJU KREDITNO-GARANTNOG FONDA CRNE GORE
