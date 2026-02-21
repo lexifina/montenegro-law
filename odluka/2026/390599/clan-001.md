@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o bližem načinu izračunavanja redovnih doprinosa koje kreditne institucije uplaćuju Sanacionom fondu ("Službeni list CG", br. 127/20, 45/21 i 113/24) u članu 2 u tački 7 riječi: "člana 128 stav 5 Odluke o adekvatnosti kapitala kreditnih institucija ("Službeni list CG", br. 128/20, 140/21, 144/22 i 52/24)" zamjenjuju se riječima: "člana 148 stav 8 Odluke o adekvatnosti kapitala kreditnih institucija" ("Službeni list CG", broj 65/25)".
