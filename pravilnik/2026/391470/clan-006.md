@@ -1,0 +1,4 @@
+# Član 6
+Procjenu rizika od povreda ili izloženosti zarazi na radnim mjestima na kojima može doći do povrede oštrim predmetima, poslodavac sprovodi u skladu sa zakonom kojim se uređuje zaštita na radu, zakonom kojim se uređuju bolničke infekcije zbog izloženosti biološkim agensima pri radu i ovim pravilnikom.
+Poslodavac najmanje jednom godišnje sprovodi procjenu rizika radnih mjesta na kojim se koriste igle, skalpeli i drugi ostri predmeti.
+Procjena rizika obuhvata radna mjesta na kojima postoji mogućnost ugrožavanja zaštite i zdravlja zaposlenih, sve situacije u kojima može doći do povrede oštrim predmetima i kontakta sa potencijalno infektivnim materijalom (krv, tečnost, tkivo) koji može da sadrži patogene, do kontakta sa krvlju zaraženog lica ili drugim tjelesnim tečnostima i tkivima, koji mogu da sadrže krv zaraženog lica.

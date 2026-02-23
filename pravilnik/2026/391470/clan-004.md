@@ -1,0 +1,2 @@
+# Član 4
+Mjere zaštite od nastanka povreda oštrim predmetima zasnivaju se na principima utvrđenim Okvirnim sporazumom o sprječavanju povreda oštrim predmetima u bolničkom sektoru i zdravstvu koji je zaključen između HOSPEEM (Evropskog udruženja poslodavaca u bolničkom sektoru i zdravstvu) i EPSU (Evropska federacija sindikata javnih službi), priznatih evropskih socijalnih partnera u bolničkom sektoru i zdravstvu.
