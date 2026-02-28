@@ -1,0 +1,1 @@
+* U ovaj pravilnik prenijete su odredbe Direktive Komisije (EU) broj 2017/1572 od 15. septembra 2017. godine kojima se dopunjava Direktiva 2001/83/EC Evropskog Parlamenta i Savjeta o načelima i smjernicama dobre proizvođačke praske za ljekove za humanu upotrebu
