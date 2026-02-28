@@ -1,0 +1,1 @@
+* U ovaj pravilnik prenijete su odredbe Delegirane Regulative Komisije (EU) broj 1252/2014 od 28 Maja 2014. godine kojima se dopunjava Direktiva 2001/83/EC Evropskog Parlamenta i Savjeta o principima i smjernicama dobre proizvođačke praske za aktivne supstance za ljekove za humanu upotrebu

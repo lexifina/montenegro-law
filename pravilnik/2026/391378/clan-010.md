@@ -1,0 +1,5 @@
+# Član 10
+## Proizvodnja i kontrola tokom procesa
+Proces proizvodnje aktivne supstance mora da bude kontrolisan kako bi se proces proizvodnje nadzirao i prilagođavao ili da bi se provjerila usaglašenost aktivne supstance sa specifikacijama kvaliteta i čistoće iz člana 13 stav 1 ovog pravilnika. Procesi proizvodnje koji su ključni za obezbjeđivanje usaglašenosti aktivne supstance sa specifikacijama kvaliteta iz člana 13 stav 1 ovog pravilnika izvršavaju se pod vizuelnim nadzorom kvalifikovanog osoblja ili podliježu ekvivalentnoj kontroli.
+Vaganje i mjerenje sirovina i polaznih materijala aktivne supstance mora da bude precizno i sprovodi se na način koji ne utiče na njihovu prikladnost za upotrebu.
+Procesi proizvodnje aktivne supstance uključujući svaki postupak nakon prečišćavanja međuproizvoda aktivne supstance ili aktivne supstance, sprovode se na način kojim se sprečava kontaminacija sirovina, polaznih materijala aktivne supstance, međuproizvoda aktivne supstance i aktivnih supstanci drugim materijalima.
