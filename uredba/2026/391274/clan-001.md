@@ -1,0 +1,2 @@
+# Član 1
+U Uredbi o organizaciji i načinu rada državne uprave ("Službeni list CG", br. 98/23, 102/23, 113/23, 71/24, 72/24, 90/24, 93/24, 104/24, 117/24, 39/25, 97/25, 148/25 i 164/25) u članu 14 poslije riječi: "izdavanje licenci za pomorce i upravljanje plovnim objektima;" dodaju se riječi: "utvrđivanje sposobnosti za plovidbu brodova i drugih pomorskih objekata, i to: vršenjem tehničkog nadzora, izdavanjem brodskih isprava, knjiga i svjedočanstava, izračunavanjem tonaže prilikom baždarenja plovnih objekata; vršenje tehničke ekspertize pri nastalim pomorskim nezgodama;".
