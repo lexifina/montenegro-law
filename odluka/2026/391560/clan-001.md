@@ -1,0 +1,2 @@
+# Član 1
+Odobrava se privremena zaštita u trajanju od jedne godine, od 4. marta 2026. godine do 4. marta 2027. godine državljanima Ukrajine, licima bez državljanstva kojima je posljednje boravište bilo u Ukrajini i licima kojima je Ukrajina odobrila međunarodnu zaštitu, a koja se ne mogu vratiti u Ukrajinu koju su bili prisiljeni da napuste zbog oružanih sukoba, odnosno u zemlju porijekla, kao i državljanima Ukrajine koji su zakonito boravili u Crnoj Gori počev od 24. februara 2022. godine pa nadalje, a koji se ne mogu vratiti u Ukrajinu, zbog oružanih sukoba.
