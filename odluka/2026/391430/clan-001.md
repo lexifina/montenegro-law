@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o određivanju ministarstava koja mogu imati državne sekretare ("Službeni list CG", br. 71/24, 39/25 i 104/25) u članu 2 stav 2 riječi: "tač. 1, 2, 5, 10, 11, 12, 13, 14, 16, 17, 20, 21, 22, 24 i 25" zamjenjuju se riječima: "tač. 1, 2, 5, 9, 10, 11, 12, 13, 14, 16, 17, 20, 21, 22, 24 i 25", a riječi: "tač. 3, 4, 7, 8, 9, 15, 18 i 19" zamjenjuju se riječima: "tač. 3, 4, 7, 8, 15, 18 i 19".
