@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se sadržaj i obrazac veterinarskog recepta, način vođenja i čuvanja evidencije o izdatim veterinarskim receptima, kao i sadržaj i način vođenja i čuvanja evidencije o upotrebljenim veterinarskim ljekovima koje veterinar može da upotrijebi bez veterinarskog recepta ako neposredno pruža uslugu zaštite zdravlja životinja, kao i za pripremu medicinirane hrane za životinje.
