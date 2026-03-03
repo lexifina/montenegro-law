@@ -1,0 +1,3 @@
+# Član 7
+Nacionalna kontakt tačka kao primarni izvor podataka o obimu prodaje veterinarskih antimikrobnih ljekova koji imaju dozvolu za lijek koristi, koliko je moguće, podatke o obimu prodaje koje nosioci dozvole za lijek dostavljaju u bazu podataka Evropske unije o veterinarskim ljekovima.
+Nacionalna kontakt tačka koriguje podatke iz stava 1 ovog člana u pogledu kretanja veterinarskih ljekova preko granice Crne Gore u okviru paralelnog prometa i prema potrebi ih dopunjuje podacima veleprodaja veterinarskih ljekova i obezbjeđuju da je format podataka u skladu sa zahtjevima iz protokola i obrazaca od EMA-e.

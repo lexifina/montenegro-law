@@ -1,0 +1,2 @@
+# Član 3
+Sistem klasifikacije koji se upotrebljava prilikom sakupljanja podataka o obimu prodaje i upotrebe veterinarskih antimikrobnih ljekova za identifikaciju supstanci sa antibiotskim, antifungalnim, antiviralnim i antiprotozoalnim efektom je ATCvet (Anatomsko-terapijsko-hemijska klasifikacija veterinarskih lijekova) i ATC (Anatomsko-terapijsko-hemijska klasifikacija lijekova), u zavisnosti od potrebe.
