@@ -1,0 +1,6 @@
+# Član 33
+Lica iz člana 1 ovog pravilnika koja su povjerila aktivnosti odgovorna su za sve povjerene aktivnosti.
+Lica iz člana 1 ovog pravilnika koja povjeravaju aktivnosti odgovorna su za procjenu lica kojima povjerava aktivnosti da uspješno izvrši tražene poslove i za obezbjeđivanje poštovanja načela i smjernica dobre distributivne prakse za veterinarske ljekove putem ugovora i revizija. Lica iz člana 1 ovog pravilnika koja povjeravaju aktivnosti sprovode reviziju lica kojima povjeravaju aktivnosti prije početka rada na povjerenim aktivnosti i prate i preispituju njhov rad.
+Učestalost revizija definiše se na osnovu procjene rizika, u zavisnosti od povjerenih poslova.
+Ako se povjerene aktivnosti promijene, lica iz člana 1 ovog pravilnika koja povjeravaju aktivnosti u okviru kontrole promjena sprovode procjenu rizika radi određivanja je li potrebna ponovna revizija. Lica kojima su povjerene aktivnosti moraju omogućiti vršenje revizije.
+Lica iz člana 1 ovog pravilnika koja povjeravaju aktivnosti licima kojima su povjerene aktivnosti dostavljaju sve podatke potrebne za obavljanje ugovorenih poslova u skladu sa posebnim uslovima za veterinarske ljekove i svim drugim relevantnim uslovima.

@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se uslovi za sprovođenje mjera dobre distributivne prakse za veterinarske ljekove koje primjenjuju nosioci dozvole za proizvodnju veterinarskog lijeka, koji obavljaju promet veterinarskih ljekova na veliko, za ljekove iz svog proizvodnog programa i veleprodaje, uključujući i one koji imaju poslovno sjedište ili posluju u okviru posebnih carinskih režima, npr. slobodnim zonama ili carinskim skladištima.

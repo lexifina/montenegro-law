@@ -1,0 +1,21 @@
+# Član 12
+U cilju sprovođenja dobre distributivne prakse, prostori u kojima se rukuje, odnosno u kojima se skladište veterinarski ljekovi moraju biti prilagođeni tako da se obezbijedi održavanje traženih uslova skladištenja.
+Prostori iz stava 1 ovog člana treba da imaju odgovarajuću zaštitu, da budu strukturno sigurni i dovoljnog kapaciteta da se omogući bezbjedno skladištenje i rukovanje veterinarskim ljekovima. Skladišta su odgovarajuće osvijetljena kako bi se omogućila bezbjednost i preciznost svih operacija. Pri skladištenju veterinarskih ljekova obezbjeđuje se dovoljan razmak radi pristupa u cilju održavanja higijene i vršenja inspekcijskog nadzora. Održava se odgovarajuća čistoća i ispravnost paleta.
+Ako lica iz člana 1 ovog pravilnika ne upravljaju direktno prostorima, moraju imati odgovarajući ugovor sa drugim licem koje ima prostore koji ispunjavaju tražene uslove i imaju dozvolu za promet veterinarskih ljekova na veliko.
+Veterinarski ljekovi se skladište u odvojenim prostorima koji su jasno označeni i kojima pristup imaju samo ovlašćena lica.
+Ako se koristi sistem koji zamjenjuje fizičko razdvajanje, npr. elektronsko razdvajanje koje se zasniva na kompjuterizovanom sistemu, sistem mora biti jednako siguran i biti validiran.
+Veterinarski ljekovi za koje se čeka odluka o odlaganju ili veterinarski ljekovi koji su uklonjeni iz zaliha za prodaju, uključujući vraćene veterinarske ljekove, odvajaju se fizički ili elektronski, ako postoji ekvivalentn elektronski sistem.
+Veterinarski ljekovi koji su primljeni iz druge zemlje, ali nisu namijenjeni tržištu Crne Gore, odvajaju se fizički i elektronski, ako postoji elektronski sistem.
+Svi veterinarski ljekovi kojima je istekao rok trajanja, opozvani veterinarski ljekovi i odbijeni veterinarski ljekovi odmah se fizički odvajaju i skladište u zasebnom prostoru odvojenom od svih drugih veterinarskih ljekova. U tom prostoru primjenjuje se odgovarajući stepen zaštite kako bi proizvodi ostali odvojeni od zaliha za prodaju. Svi prostori se moraju jasno označiti.
+Prostori iz stava 1 ovog člana su projektovani ili prilagođeni na način da se za veterinarske ljekove za koje su potrebne posebne mjere skladištenja i rukovanja, npr. opojne i psihotropne supstance, obezbjedi skladištenje u skladu sa pisanim instrukcijama i odgovarajućim zaštitnim mjerama.
+Obezbjeđuje se jedno ili više posebnih prostora sa odgovarajućim sigurnosnim i zaštitnim mjerama za skladištenje opasnih veterinarskih ljekova i veterinarskih ljekova koji predstavljaju sigurnosne rizike od požara ili eksplozije, npr. medicinskih gasova, zapaljivih materijala i zapaljivih tečnosti.
+Na mjestima prijema i otpreme veterinarskih ljekova postavljene su zaštite od vremenskih uslova. Mjesta prijema i otpreme i mjesta skladištenja moraju biti odvojena na odgovarajući način. Postoje utvrđene procedure za održavanje kontrole nad robom koja se prima i otprema. Prostori za prijem u kojima se pošiljke pregledaju nakon prijema moraju biti određeni za tu namjenu i odgovarajuće opremljeni.
+Neovlašćen pristup svim dijelovima prostora kojima je pristup ograničen sprječava se odgovarajućim uređajima, npr. nadziranim alarmnim sistemom za otkrivanje uljeza i odgovarajućom kontrolom pristupa. Posjetioci uvijek moraju imati pratnju.
+Prostori iz stava 1 ovog člana moraju biti čisti i bez otpadaka i prašine, sa uspostavljenim programima čišćenja, instrukcija i evidencija.
+Sredstva za održavanje higijene ne smiju biti izvor kontaminacije.
+Prostori iz stava 1 ovog člana moraju biti suvi i moraju imati odgovarajuću temperaturu.
+Preventivni program kontrole štetočina mora biti uspostavljen.
+Procedure za čišćenje u slučaju bilo kakvih izlivanja moraju da garantuju potpuno otklanjanje svih rizika od kontaminacije.
+U cilju sprovođenja dobre distributivne prakse sprovodi se i redovno čišćenje vozila.
+Prostori iz stava 1 ovog člana su projektovani i opremljeni na način da pružaju zaštitu od ulaska insekata, glodara i drugih životinja.
+Prostorije za odmor, pranje i osvježenje zaposlenih moraju biti adekvatno odvojeni od skladišnih prostora navedenih u stavu 4 ovog člana. Prisutnost hrane, pića, duvanskih proizvoda ili lijekova za ličnu upotrebu u skladišnim prostorima je zabranjena.
