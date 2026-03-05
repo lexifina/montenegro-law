@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom se propisuju bliže mjere za obezbjeđivanje efikasne i bezbjedne primjene veterinarskih ljekova za oralnu primjenu, osim ljekovite (medicinirane) hrane za životinje, putem drugih načina, kao što je miješanje u vodi za piće sa veterinarskim lijekom ili ručno miješanje veterinarskog lijeka u hrani za životinje koje držalac životinje daje životinjama koje se koriste za proizvodnju hrane.

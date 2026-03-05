@@ -1,0 +1,4 @@
+# Član 12
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+_______________
+* ovaj pravilnik prenijeta je delegirana regulativa omisije ( ) 2024/1159 od 7. februara 2024. godine kojom se dopunjuje egulativa ( ) 2019/6 vropskog parlamenta i Saveta propisivanjem pravila o odgovarajućim mjerama za obezbjeđivanje efikasne i bezbjedne upotrebe veterinarskih ljekova odobrenih i propisanih za oralnu primjenu putem drugih načina, osim ljekovite hrane, a koje držalac životinja daje životinjama koje proizvode hranu/ Commission Delegated Regulation (EU) 2024/1159 of 7 February 2024 supplementing Regulation (EU) 2019/6 of the European Parliament and of the Council by laying down rules on appropriate measures to ensure the effective and safe use of veterinary medicinal products authorised and prescribed for oral administration via routes other than medicated feed and administered by the animal keeper to food- producing animals

@@ -1,0 +1,4 @@
+# Član 10
+U informacijama o antimikrobnom lijeku ili antiparazitiku namijenjenom za primjenu kod kopnenih životinja koje se koriste za proizvodnju hrane miješanjem u čvrstu hranu za životinje ili dodavanjem na površinu čvrste hrane za životinje neposredno prije ishrane jasno se navodi da se proizvod primjenjuje samo za liječenje životinja koje se hrane pojedinačno ili malih grupa životinja kod kojih se unos veterinarskih ljekova u svaku pojedinačnu životinju može efikasno kontrolisati.
+Informacije o veterinarskom lijeku za oralnu primjenu miješanjem u vodu za piće ili tečnoj hrani za životinje sadrže odgovarajuće smjernice o poznatim interakcijama i nekompatibilnostima između tog veterinarskog lijeka i biocida, dodataka hrani za životinje ili drugih supstanci koje se upotrebljavaju u vodi za piće.
+Ako nisu dostupni podaci ili informacije iz stava 2 ovog člana, u informacijama o veterinarskom lijeku navodi se upozorenje da takve informacije nisu dostupne.

@@ -1,0 +1,4 @@
+# Član 5
+Biocidi, dodaci hrani za životinje ili druge supstance koje se upotrebljavaju u vodi za piće ne upotrebljavaju se istovremeno sa veterinarskim lijekom, ako postoje dokazi o negativnim interakcijama ili nekompatibilnostima između tih proizvoda i veterinarskog lijeka kad se dodaju u vodi za piće.
+Veterinarski ljekovi koji kao aktivnu supstancu sadrže kokcidiostatik ili histomonostatik ne upotrebljavaju se u hrani za životinje koja sadrži tu istu supstancu odobrenu kao kokcidiostatik ili histomonostatik kao dodatak hrani za životinje za koji je utvrđena najveća dozvoljena količina.
+Za aktivne supstance koje nisu kokcidiostatici ili histomonostatici, ako je aktivna supstanca u veterinarskom lijeku ista kao i supstanca u dodatku u hrani za životinje, ukupni sadržaj te aktivne supstance u hrani za životinje nakon što se veterinarski lijek umiješa u nju ili doda na površinu te hrane ne premašuje najveću dopuštenu količinu propisanu u veterinarskom receptu.
