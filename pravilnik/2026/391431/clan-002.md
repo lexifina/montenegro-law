@@ -1,0 +1,7 @@
+# Član 2
+## Značenje izraza
+(1) Usluga sa posebnom tarifom (u daljem tekstu: Usluga) je elektronska komunikaciona usluga putem koje krajnji korisnik, korišćenjem govornog poziva ili tekstualne poruke, ostvaruje pristup unaprijed određenom sadržaju i/ili drugoj usluzi koja se isporučuje putem elektronske komunikacione mreže, pri čemu je u cijenu komunikacije uključena i naknada za taj sadržaj i/ili uslugu, osim u slučajevima kada se elektronska komunikacija koristi isključivo radi uspostavljanja kontakta sa pružaocem druge usluge ili kao sredstvo za izvršenje plaćanja roba i/ili usluga koje se ne isporučuju putem elektronske komunikacione mreže, u skladu sa propisima iz oblasti platnih usluga.
+(2) Pružalac Usluge sa posebnom tarifom (u daljem tekstu: Pružalac Usluge) je pravno ili fizičko lice upisano u registar operatora elektronskih komunikacija koje posjeduje tehničke preduslove za pružanje usluga sa posebnom tarifom u skladu sa ovim Pravilnikom
+(3) Pristupni operator je operator putem čije mreže krajnji korisnici ostvaruju pristup Uslugama i koji vrši naplatu Usluga od krajnjih korisnika.
+(4) Operator koji prenosi usluge sa posebnom tarifom (u daljem tekstu: Mrežni operator) je operator sa čijom elektronskom komunikacionom mrežom se Pružalac Usluge povezuje radi obezbjeđivanja dostupnosti Usluga krajnjim korisnicima svih Pristupnih operatora.
+(5) Ostali izrazi upotrijebljeni u ovom pravilniku imaju značenje utvrđeno Zakonom o elektronskim komunikacijama (u daljem tekstu: Zakon).

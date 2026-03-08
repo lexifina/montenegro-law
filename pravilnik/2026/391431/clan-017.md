@@ -1,0 +1,3 @@
+# Član 17
+## Stupanje na snagu i početak primjene
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore", a primjenjivaće se od 1. septembra 2026. godine.
