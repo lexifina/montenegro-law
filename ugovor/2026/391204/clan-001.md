@@ -1,0 +1,2 @@
+# Član 1
+Potvrđuje se Sporazum o izmjenama Sektorskog sporazuma između Vlade Crne Gore i Evropske komisije kojim se utvrđuju pravila za upravljanje i sprovođenje finansijske podrške Unije Crnoj Gori u okviru instrumenta pretpristupne podrške za oblast politike "Poljoprivreda i ruralni razvoj" (IPARD) koji je zaključen razmjenom pisama, u Briselu 6. avgusta 2025. godine i u Podgorici 29. septembra 2025. godine, u originalu na engleskom jeziku.
