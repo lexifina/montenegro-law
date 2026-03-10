@@ -1,0 +1,7 @@
+# Član 4
+(1) Ekonomski operatori elektronskim putem dostavljaju sertifikate o održivosti (identitet sertifikacionog tijela, šemu verifikacije, datum izdavanja sertifikata, period važenja i identifikacioni broj sertifikata).
+(2) Ekonomski operatori u bazu podataka o biogorivima dostavljaju tačne i potpune informacije za svaku proizvedenu pošiljku biogoriva ili pošiljku kojom se trgovalo, uključujući podatke o sirovinama (porijeklo i količine sa prve tačke prikupljanja), karakteristikama održivosti i vrijednostima uštede GHG, dokaz o održivosti (PoS), aktivnosti prerade i konverzije, kao i sve podatke o transakcijama koji se odnose na kupovinu ili prodaju sirovina ili goriva.
+(3) Ekonomski operatori u bazu podataka o biogorivima prenose sve informacije iz Priloga 1 ovog pravilnika.
+(4) Sertifikaciona tijela potvrđuju upis ekonomskih operatora i podatke o sertifikatu održivosti koje su unijeli, kao i tačnost podataka koje su dostavili ekonomski operatori upoređivanjem sa sistemom masenog bilansa i dokumentacijom o dokazu o održivosti.
+(5) Dobrovoljne šeme potvrđuju upis sertifikacionih tijela i sertifikata održivosti koje su sertifikaciona tijela izdala za relevantne ekonomske operatore.
+(6) Ministarstvo provjerava informacije koje su dostavili ekonomski operatori i ako je primjenljivo, izdaje sertifikat o obnovljivom gorivu u transportu dobavljačima gorivom koji odgovara određenoj količini održivih biogoriva, izraženoj u energetskim jedinicama.
