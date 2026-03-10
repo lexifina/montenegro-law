@@ -1,0 +1,5 @@
+# Član 1
+U Pravilima za ocjenjivanje sudija i predsjednika sudova ("Službeni list Crne Gore", br. 043/25 od 7. 5. 2025) u članu 9 poslije stava 1 dodaju se dva nova stava koji glase:
+"Pod opravdanim razlozima u smislu stava 1 ovog člana, za utvrđivanje svih ocjena po ovom potkriterijumu, između ostalog, smatra se i situacija u kojoj sudija nije mogao završiti određeni procenat predmeta predviđenih Okvirnim mjerilima za određivanje potrebnog broja sudija zbog nedovoljnog broja predmeta u radu, u kom slučaju se ocjena po ovom potkriterijumu utvrđuje prema procentima naznačenim u stavu 1 ali u odnosu na broj riješenih predmeta u odnosu na ukupan broj predmeta s kojima je sudija bio zadužen u periodu ocjenjivanja.
+Prilikom ocjenjivanja mogu se uzeti u obzir i drugi opravdani razlozi, kao što su zauzetost sudije dodatnim zaduženjima, opravdana odsutnost sa posla, struktura složenosti i priliv predmeta po sudiji, opterećenost sudija i odjeljenja brojem predmeta, a posebno brojem starih predmeta, da li dijeli kancelariju i zapisničara i slično."
+Dosadašnji stav 2 postaje stav 4.
