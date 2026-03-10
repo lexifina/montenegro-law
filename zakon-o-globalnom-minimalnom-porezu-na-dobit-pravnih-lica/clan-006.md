@@ -1,0 +1,8 @@
+# Član 6
+## Utvrđivanje dobiti ili gubitka
+(1) Do it ili gu itak sastavnog su jekta o računava se usklađivanjem neto računovodstvene do iti ili gu itka za određenu fiskalnu godinu (prije konsolidovanih usklađivanja radi otklanjanja transakcija unutar grupe) pri sastavljanju konsolidovanih finansijski izvještaja krajnjeg matičnog društva.
+(2) Ako se ne može jasno utvrditi neto računovodstvena do it ili gu itak sastavnog subjekta na osnovu prihvatljivog ili odo renog standarda finansijskog računovodstva koji se primjenjuje pri sastavljanju konsolidovani finansijski izvještaja krajnjeg matičnog društva, neto računovodstvena do it se može utvrditi primjenom drugog pri vatljivog ili odobrenog standarda finansijskog računovodstva pod uslovom:
+1) da se računovodstvena dokumentacija sastavnog su jekta priprema na osnovu tog računovodstvenog standarda,
+2) da su informacije iz računovodstvene dokumentacije pouzdane, i
+3) da se trajne razlike veće od 1.000.000,00 eura koje su rezultat primjene određenog principa ili standarda na stavke prihoda ili rashoda ili transakcija, kada se taj princip ili standard razlikuje od finanisjkog standarda koji se primjenjuje pri sastavljaju konsolidovanih finansijskih izvještaja krajnjeg matičnog društva, prilagođavaju radi usklađivanja sa tretmanom koji se za tu stavku za tjeva računovodstvenim standardom koji se primjenjuje pri sastavljanju konoslidovani finansijski izvještaja.
+(3) Ako krajnje matično društvo ne sastavlja svoje konsolidovane finansijske izvještaje u skladu sa pri vatljivim standardom finansijskog računovodstva iz člana 3 stav 1 tačka 6 alineja 3 ovog zakona, konsolidovani finansijski izvještaji krajnjeg matičnog društva prilagođavaju se kako i se spriječilo značajnije narušavanje tržišne konkurencije.

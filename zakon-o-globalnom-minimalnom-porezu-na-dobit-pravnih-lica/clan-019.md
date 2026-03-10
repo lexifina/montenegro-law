@@ -1,0 +1,9 @@
+# Član 19
+## Dodatni dopunski porez
+(1) Ako na osnovu člana 5 stav 4, člana 13 st. 6 i 7 i člana 15 st. 1 i 9 ovog zakona, usklađivanje o u vaćeni poreza ili do iti ili gu itka dovede do ponovljenog o računa efektivne poreske stope i dopunskog poreza grupe međunarodni preduzeća za prethodnu fiskalnu godinu, efektivna poreska stopa i dopunski porez ponovno se o računavaju u skladu sa pravilima utvrđenim u čl. 16, 17 i 18 ovog zakona.
+(2) Svaki iznos dodatnog dopunskog poreza koji proizlazi iz takvog ponovljenog o računa tretira se kao dodatni dopunski porez u smislu člana 17 stav 4 ovoga zakona za fiskalnu godinu tokom koje je izvršen ponovljeni o račun.
+(3) Ako postoji dodatni dopunski porez, a ne postoji neto dobit za Crnu Goru za tu fiskalnu godinu, dobit svakog sastavnog subjekta koji se nalazi u Crnoj Gori je iznos koji je jednak dopunskom porezu dodijeljenom takvim sastavnim subjektima u skladu sa članom 17 st. 6 i 7 ovog zakona podijeljen sa minimalnom poreskom stopom.
+(4) Ako u skladu sa članom 11 st. 5 i 6 ovog zakona postoji o aveza plaćanja dodatnog dopunskog poreza, dobit svakog sastavnog subjekta koji se nalazi u Crnoj Gori jednaka je dopunskom porezu dodijeljenom tom sastavnom subjektu podijeljenom s minimalnom poreskom stopom.
+(5) Dodjela se sprovodi srazmjerno svakom sastavnom subjektu na osnovu sljedeće formule:
+(6) Dodatni dopunski porez dodjeljuje se samo sastavnim subjektima koji utvrđuju iznos usklađenog o u vaćenog poreza koji je manji od nule i manji od do iti ili gu itka takvih sastavnih subjekata pomnožen sa minimalnom poreskom stopom.
+(7) Ako se sastavnom subjektu dodjeljuje dodatni dopunski porez u skladu sa ovim članom i članom 17 st. 6 i 7 ovog zakona, taj sastavni subjekat tretira kao sastavni subjekat koji podliježe nižoj poreskoj stopi u smislu člana 5 ovog zakona.

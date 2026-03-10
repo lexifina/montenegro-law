@@ -1,0 +1,24 @@
+# Član 25
+## Prenos sredstava i obaveza
+(1) Izrazi upotrijebljeni u ovom članu imaju sljedeća značenja:
+1) reorganizacija je pretvaranje ili prenos sredstava i o aveza kao u slučaju spajanja, podjele, likvidacije ili slične transakcije u sljedećim slučajevima:
+a) naknada za prenos se, u potpunostii ili skoro u popunosti, sastoji od vlasnički udjela koje izdaje sastavni su jekat koji je sticalac ili lice povezano sa sastavnim su jektom koji je sticalac ili, u slučaju likvidacije, od vlasnički udjela ciljanog su jekta ili, ako nije predviđena naknada, izdavanje vlasničkog udjela nema ekonomski značaj;
+b) dobit ili gubitak sastavnog subjekta koji prodaje ta sredstva ne podliježe oporezivanju u potpunosti ili djelimično; i
+c) poreskim propisima jurisdikcije u kojoj se nalazi sastavni subjekat koji je sticalac se zahtijeva da taj sastavni subjekat oporezivu dobit nakon prodaje ili sticanja o računa na način da će na sredstva primijeniti oporezivu osnovicu sastavnog subjekta koji je prodavac, a koja je usklađena za svaku do it ili gu itak od prodaje ili sticanja;
+2) nekvalifikovani dobitak ili gubitak je dobitak ili gubitak sastavnog subjekta koji je prodavac, zavisno od toga koji je iznos manji, a koji nastaje u vezi sa reorganizacijom koja podliježe oporezivanju u mjestu poslovanja sastavnog su jekta koji je prodavac, kao i finansijske računovodstvene do itike ili gu itke koji nastaju u vezi sa reorganizacijom.
+(2) Sastavni subjekat koji prodaje sredstva i obaveze svoj dobitak ili gubitak koji proizilazi iz takve prodaje uključuje u o račun svoje do iti ili gu itka.
+(3) Sastavni subjekat koji stiče sredstva i o aveze određuje svoju dobit ili gubitak na osnovu knjigovodstvene vrijednosti stečenih sredstava i preuzeti o aveza utvrđeni u skladu sa standardom finansijskog računovodstva koji se primjenjuje pri sastavljanju konsolidovani finansijski izvještaja krajnjeg matičnog društva.
+(4) Izuzetno od odreda a st. 2 i 3 ovog člana, ako se prodaja ili sticanje sredstava i preuzetih obaveza sprovodi u smislu reorganizacije:
+1) sastavni subjekat koji je prenosilac svaki dobitak ili gubitak koji proizlaze iz takve prodaje isključuje iz o računa svoje do iti ili gu itka; i
+2) sastavni subjekat koji je sticalac utvrđuje svoju do it ili gu itak na osnovu knjigovodstvene vrijednosti stečenih sredstava i preuzetih obaveza sastavnog subjekta koji je prenosilac.
+(5) Izuzetno od odreda a st. 2 i 3 ovog člana ako se prenos sredstava i obaveza sprovodi u smislu reorganizacije koja, za subjekta koji je prenosilac, dovodi do nekvalifikovanih dobitaka ili gubitaka:
+1) sastavni subjekat koji je prenosilac dobitak ili gubitak od prodaje uključuje u o račun svoje do iti ili gu itka do iznosa nekvalifikovanog do itka ili gu itka; i
+2) sastavni subjekat koji je sticalac utvrđuje svoju do it ili gu itak nakon sticanja koristeći knjigovodstvenu vrijednost stečenih sredstava i preuzetih obaveza sastavnog su jekta koji je prenosilac pri prodaji, koja je usklađena sa domaćim poreskim pravilima sastavnog subjekta koji je sticalac, kako i se o računao nekvalifikovani do itak ili gu itak.
+(6) Prema odluci sastavnog subjekta koji podnosi prijavu, ako je sastavni subjekat dužan uskladiti ili mu je dozvoljeno da uskladi osnovicu svoje imovine i iznos svoji obaveza po fer vrijednosti u svrhu oporezivanja u jurisdikciji u kojoj se nalazi, taj sastavni su jekat može:
+1) prilikom o računa svoje do iti ili gu itka, uključiti iznos do itka ili gu itka koji je povezan sa sredstvima i obavezama, a koji:
+a) je jednak razlici između knjigovodstvene vrijednosti sredstva ili obaveze za potre e finansijskog računovodstva neposredno prije dana događaja koji je prouzrokovao poresko usklađivanje (događaj pokretač) i fer vrijednosti imovine ili o aveze neposredno nakon tog događaja; i
+b) smanjen (ili povećan) za nekvalifikovani dobitak ili gubitak, ukoliko postoji, a koji nastaje u vezi sa događajem pokretačem.
+2) fer vrijednost sredstava ili o aveze za potre e finansijskog računovodstva odma nakon događaja pokretača u cilju o računa do iti ili gu itka u fiskalnim godinama koje završavaju nakon tog događaja; i
+3) uključuje neto ukupan iznos utvrđen u tački 1 ovog stava u dobiti ili gubitku sastavnog su jekta na jedan od sljedeći načina:
+a) neto ukupan iznos uključen je u fiskalnoj godini u kojoj dolazi do događaja pokretača; ili
+b) iznos jednak neto ukupnom iznosu podijeljenom sa brojem pet koji je uključen u fiskalnu godinu u kojoj dolazi do događaja pokretača i u svakoj od četiri uzostopne naredne fiskalne godine neposredno, osim ako sastavni su jekat u određenoj fiskalnoj godini unutar tog perioda napusti grupu međunarodni preduzeća ili veliku domaću grupu, onda u tom slučaju preostali iznos će u potpunosti iti uključen u tu fiskalnu godinu. VII. REŽIMI PORESKE NEUTRALNOSTI I RASPODJELE
