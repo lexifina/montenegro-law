@@ -1,0 +1,12 @@
+# Član 154
+## Pretkvalifikacioni postupak za FRR
+(1) OPS utvrđuje pretkvalifikacijski postupak za FRR i objavljuje pojedinosti o njemu posebnim propisom.
+(2) Mogući pružalac FRR-a dokazuje OPS-u priključenja pružaoca rezervi ili OPS-u imenovanom od strane OPS-a priključenja pružaoca rezervi u sporazumu o razmjeni FRR- a svoju usklađenost sa minimalnim tehničkim zahtjevima u pogledu FRR-a iz člana 158 stava 1 ove uredbe, zahtjeve u pogledu raspoloživosti FRR-a iz člana 158 stava 2 ove uredbe, zahtjeve u pogledu gradijenta iz člana 158 stava 1 ove uredbe i zahtjeve u pogledu priključenja iz člana 158 stava 3 ove uredbe kroz pretkvalifikacioni postupak, za moguće jedinice ili grupe za pružanje FRR-a, opisan u stavovima od 3 do 6 ovog člana.
+(3) Mogući pružalac FRR-a podnosi zahtjev OPS-u priključenja pružaoca rezervi ili imenovanom OPS-u zajedno sa potrebnim informacijama o mogućim jedinicama ili grupama za pružanje FRR-a. U roku od
+(4) nedjelja od prijema zahtjeva, OPS priključenja pružaoca rezervi ili imenovani OPS potvrđuje da je zahtjev potpun. Ukoliko OPS priključenja pružaoca rezervi ili imenovani OPS smatra da je zahtjev nepotpun, mogući pružalac FRR-a dostavlja dodatne potrebne informacije u roku od 4 nedjelje od prijema zahtjeva, a ako mogući pružalac FRR-a ne dostavi tražene informacije u tom roku, zahtjev se smatra povučenim.
+(5) U roku od 3 mjeseca nakon što OPS priključenja pružaoca rezervi ili imenovani OPS potvrdi da je zahtjev potpun, OPS priključenja pružaoca rezervi ili imenovani OPS vrednuje dostavljene informacije i odlučuje ispunjavaju li jedinice ili grupe za pružanje FRR-a kriterijume za pretkvalifikaciju za FRR, a OPS priključenja pružaoca rezervi ili imenovani OPS obavještava mogućeg pružaoca FRR-a o svojoj odluci.
+(6) Odluka iz stava 4 ovog člana o jedinici ili grupi za pružanje FRR-a koju donese OPS priključenja pružaoca rezervi ili imenovani OPS važi za cijeli regulacioni blok.
+(7) Ispunjenost uslova od strane jedinica ili grupa za pružanje FRR-a ponovo se procjenjuje:
+1) najmanje jednom svakih pet godina; i
+2) ukoliko se promijene tehnički zahtjevi ili zahtjevi u pogledu raspoloživosti.
+(7) Radi obezbjeđivanja operativne sigurnosti, OPS priključenja pružaoca rezervi ima pravo da isključi grupe za pružanje FRR-a iz pružanja FRR-a na osnovu tehničkih argumenata poput geografskog razmještaja proizvodnih modula ili objekata potrošača koji čine grupu za pružanje FRR-a.

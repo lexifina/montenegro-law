@@ -1,0 +1,10 @@
+# Član 18
+## Priprema, aktivacija i koordinacija remedijalnih mjera
+(1) OPS priprema i aktivira remedijalne mjere u skladu sa kriterijumima utvrđenim u članu 16 stav 2 ove uredbe kako bi spriječio pogoršanje stanja sistema na osnovu sljedećih elemenata:
+1) praćenja i određivanja stanja sistema u skladu sa članom 14 ove uredbe; 2) analize ispada u realnom vremenu u skladu sa članom 29 ove uredbe; i 3) analize ispada u operativnom planiranju u skladu sa članom 67 ove uredbe.
+(2) Prilikom pripremanja i aktivacije remedijalne mjere, uključujući redispečing ili kontratrgovinu, u skladu sa zakonom, ili procedura iz odbrambenog plana sistema, koja utiče i na druge OPS-ove, OPS procjenjuje, u koordinaciji sa tim OPS-ovima, uticaj te remedijalne mjere u okviru i izvan sopstvene regulacione oblasti u skladu sa članom 70 stav 1, članom 2 stav 1 tačka 2 i članom 71 st. 1, 2 i 4 ovog zakona i dostavlja informacije o tom uticaju tim OPS-ovima.
+(3) Prilikom pripreme i aktivacije remedijalnih mjera koje utiču na SGU ili ODS priključen na prenosni sistem, ako je prenosni sistem u normalnom ili predhavarijskom stanju, OPS procjenjuje uticaj tih remedijalnih mjera u koordinaciji sa pogođenim SGU-om ili ODS-om i bira remedijalne mjere koje doprinose održavanju normalnog stanja i sigurnom radu svih uključenih strana.
+(4) Svaki pogođeni SGU i ODS dostavlja OPS-u sve potrebne informacije za tu koordinaciju.
+(5) Prilikom pripreme i aktivacije remedijalnih mjera, ako prenosni sistem nije u normalnom ili predhavarijskom stanju, OPS koordinira te remedijalne mjere u najvećoj mogućoj mjeri sa pogođenim SGU-om i ODS-om, priključenim na prenosni sistem, radi održavanja operativne sigurnosti i integriteta prenosnog sistema.
+(6) Kada OPS aktivira remedijalnu mjeru, svaki pogođeni SGU i ODS priključen na prenosni sistem izvršava naloge koje im uputi OPS.
+(7) Ako ograničenja imaju samo posljedice na lokalno stanje u okviru regulacione oblasti OPS-a, a narušavanje operativne sigurnosti ne zahtijeva koordinisano upravljanje, OPS može da odluči da ne aktivira remedijalne mjere koje podrazumijevaju troškove u cilju ublažavanja ograničenja.

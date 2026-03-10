@@ -1,0 +1,10 @@
+# Član 132
+## Ograničenja promjene izlazne aktivne snage
+(1) OPS u saradnji sa OPS-ovima iz svoje i susjedne sinhrone oblasti ima pravo da odredi u operativnom sporazumu za sinhronu oblast ograničenja izlazne aktivne snage HVDC interkonektora između sinhronih oblasti, kako bi ograničili uticaj na ispunjenje ciljnih parametara kvaliteta frekvencije sinhrone oblasti, tako što određuju kombinovani maksimalni gradijent za sve HVDC interkonektore koji povezuju dvije sinhrone oblasti.
+(2) Ograničenja iz stava 1 ne primjenjuju se na netovanje odstupanja, povezivanje postupaka održavanja frekvencije i prekograničnu aktivaciju FRR-a i RR-a preko HVDC interkonektora.
+(3) OPS-ovi priključeni na određeni HVDC interkonektor imaju pravo da odrede u operativnom sporazumu za regulacioni blok, dogovorom o vremenu promjene snage i/ili maksimalnim gradijentima za taj HVDC interkonektor, zajednička ograničenja izlazne aktivne snage HVDC interkonektora, kako bi ograničili njegov uticaj na ispunjenje ciljnog parametra FRCE-a priključenih regulacionih blokova.
+(4) Zajednička ograničenja ne primjenjuju se na netovanje odstupanja, povezivanje postupaka održavanja frekvencije i prekograničnu aktivaciju FRR-a i RR-a preko HVDC interkonektora. OPS-ovi određene sinhrone oblasti koordinisaju te mjere u okviru sinhrone oblasti.
+(5) OPS-ovi regulacionog bloka imaju pravo da odrede u operativnom sporazumu za regulacioni blok sljedeće mjere podrške ispunjenu ciljnog parametra FRCE-a tog regulacionog bloka i mjere za ublažavanje determinističkih odstupanja frekvencije, uzimajući u obzir tehnička ograničenja proizvodnih modula i objekata potrošača:
+1) obaveze u pogledu vremena promjene snage i/ili maksimalnih gradijenata za proizvodne module i/ili objekte potrošača;
+2) obaveze u pogledu pojedinačnih vremena početka promjene snage za proizvodne module i/ili objekte potrošača u regulacionom bloku; i
+3) koordinaciju promjene snage među proizvodnim modulima, objektima potrošača i potrošnjom aktivne snage u regulacionom bloku.

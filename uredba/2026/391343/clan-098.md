@@ -1,0 +1,10 @@
+# Član 98
+## Sprovođenje planova raspoloživosti u realnom vremenu
+(1) Vlasnik proizvodnog objekta obezbjeđuje da su svi relevantni proizvodni moduli koje posjeduje i koji su proglašeni "raspoloživim" spremni za proizvodnju električne energije u skladu sa svojim tehničkim sposobnostima kad je potrebno održavati operativnu sigurnost, osim u slučajevima neplaniranog isključenja.
+(2) Vlasnik proizvodnog objekta obezbjeđuje da svi relevantni proizvodni moduli koje posjeduje i koji su proglašeni "neraspoloživima" ne proizvode električnu energiju.
+(3) Vlasnik objekta potrošača obezbjeđuje da relevantni objekti potrošača koje posjeduje i koji su proglašeni "neraspoloživima" ne troše električnu energiju.
+(4) Vlasnik relevantnog elementa mreže obezbjeđuje da su relevantni elementi mreže koje posjeduje i koji su proglašeni "raspoloživima" spremni za prenos električne energije u skladu sa svojim tehničkim sposobnostima kada je potrebno održavati operativnu sigurnost, osim u slučajevima neplaniranog isključenja.
+(5) Vlasnik relevantnog elementa mreže obezbjeđuje da svi relevantni elementi mreže koje posjeduje i koji su proglašeni "neraspoloživima" ne prenose električnu energiju.
+(6) Ako za realizaciju statusa "neraspoloživo" ili "probni rad" relevantnog elementa mreže važe posebni uslovi u skladu sa članom 96 stav 6 ove uredbe, predmetni OPS, ODS ili ZDS procjenjuje ispunjenost tih uslova prije realizacije statusa.
+(7) Ako uslovi nisu ispunjeni, operator daje nalog vlasniku relevantnog elementa mreže da ne realizuje planirani status, ili njegov dio.
+(8) Ako OPS utvrdi da će realizacija statusa "neraspoloživo" ili "probni rad" relevantnog elementa prouzrokovati ili da može prouzrokovati izlazak prenosnog sistema iz normalnog stanja, isti daje nalog vlasniku relevantnog elementa, odnosno ODS-u ili ZDS-u, ako je priključen na distributivni ili zatvoreni distributivni sistem, da odloži realizaciju statusa "neraspoloživo" ili "probni rad" tog relevantnog elementa u skladu sa instrukcijama i u mjeri u kojoj je to moguće uz poštovanje tehničkih i sigurnosnih limita.
