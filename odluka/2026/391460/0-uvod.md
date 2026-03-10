@@ -1,0 +1,3 @@
+Na osnovu člana 82 stav 1 tačka 3 Ustava Crne Gore i člana 5 Odluke o otvaranju Parlamentarne istrage i formiranju Anketnog odbora radi prikupljanja informacija i činjenica o postupanjima državnih organa i drugih subjekata u slučaju dodjele koncesije za vjetroelektranu Možura, Skupština Crne Gore 28. saziva na Drugoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2026. godini, dana 6. marta 2026. godine, donijela je
+O D L U K U O IZBORU PREDSJEDNIKA, ZAMJENIKA PREDSJEDNIKA I PET ČLANOVA ANKETNOG ODBORA RADI PRIKUPLJANJA INFORMACIJA I ČINJENICA O POSTUPANJIMA DRŽAVNIH ORGANA I DRUGIH
+SUBJEKATA U SLUČAJU DODJELE KONCESIJE ZA VJETROELEKTRANU MOŽURA
