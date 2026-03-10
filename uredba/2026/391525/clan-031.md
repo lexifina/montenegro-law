@@ -1,0 +1,5 @@
+# Član 31
+## Upravljanje frekvencijom nakon podjele sinhronih oblasti
+(1) Tokom restauracije sistema, kada je lider frekvencije imenovan u skladu sa članom 29 stav 3 ove uredbe, OPS-ovi iz te sinhrone oblasti, koji nijesu lideri frekvencije, najprije obustavljaju aktivaciju mFRR-a i RR-a.
+(2) Lider frekvencije, nakon konsultacija sa ostalim OPS-ovima sinhrone oblasti, uspostavlja režim rada koji se primjenjuje u LFC oblastima kojima upravlja svaki od OPS- ova unutar sinhronizovane regije.
+(3) Lider frekvencije upravlja mFRR-om i RR-om sinhronizovane regije kako bi regulisao frekvenciju sinhronizovane regije na ciljanu vrijednost, koju utvrđuje lider resinhronizacije, ako je imenovan, u skladu sa članom 34 stav 1 tačka a ove uredbe, uzimajući u obzir granice pogonske sigurnosti utvrđene u skladu sa propisom kojim se uređuje pitanje upravljanja sistemom, a ako za sinhronizovanu regiju nije imenovan lider resinhronizacije, operator koji je lider frekvencije reguliše frekvenciju prema nominalnoj vrijednosti, a svaki od OPS-ova sinhronizovane regije na zahtjev pruža podršku lideru frekvencije.

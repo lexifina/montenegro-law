@@ -1,0 +1,6 @@
+# Član 43
+## Opšti principi
+(1) OPS periodično ocjenjuje ispravnost funkcionisanja kompletene opreme i sposobnosti predviđenih odbrambenim planom sistema i planom restauracije sistema, i u tu svrhu svaki OPS periodično provjerava usaglašenost opreme i sposobnosti sa zahtjevima iz propisa kojim se uređuje pitanje priključenja.
+(2) Plan testiranja obuhvata periodičnost i uslove testiranja, u skladu sa minimalnim zahtjevima iz čl. od 44 do 47 ove uredbe, a u planu testiranja primjenjuje se metodologije iz propisa kojim se uređuje pitanje priključenja.
+(3) Tokom testiranja, nijedan OPS, ODS, SGU, pružaljac usluge definisan odbrambenim planom sistema i pružalac usluge definisan planom restauracije sistema ne treba da ugroze operativnu sigurnost prenosnog sistema i prenosnih sistema u interkonekciji, a testiranje se sprovodi na način kojim se uticaj na korisnike sistema svodi na najmanju moguću mjeru.
+(4) Testiranje se smatra uspješno kada ispunjava uslove koje je utvrdio nadležni operator sistema u skladu sa stavom 3 ovog člana, u suprotnom OPS-ovi, ODS-ovi, SGU- ovi, pružalac usluga definisan odbrambenim planom sistema, kao i pružalac usluga definisan planom restauracije sistema ponavljaju testiranje do ispunjenja tih uslova.
