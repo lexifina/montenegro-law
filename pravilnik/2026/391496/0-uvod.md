@@ -1,0 +1,2 @@
+Na osnovu člana 20 stav 6, člana 21 stav 4, člana 29 stav 4 i člana 34 stav 3 Zakona o uzimanju i presađivanju ljudskih organa u svrhu liječenja* ("Službeni list CG", br. 43/16, 67/19, 69/25 i 12/26), Ministarstvo zdravlja donijelo je
+PRAVILNIK O IZMJENI I DOPUNAMA PRAVILNIKA O OBIMU I VRSTI PODATAKA I INFORMACIJA, NAČINU I USLOVIMA ZA PROCJENU PODOBNOSTI I ODABIRU DAVAOCA, OBIMU I VRSTI LABORATORIJSKIH TESTIRANJA, KAO I NAČINU PRAĆENJA ZDRAVSTVENOG STANJA ŽIVOG DAVAOCA ORGANA*
