@@ -1,0 +1,147 @@
+# Član 1
+U Odluci o utvrđivanju javnog interesa za nepotpunu eksproprijaciju radi izgradnje elektro energetske i putne infrastrukture u Opštini Šavnik i Opštini Nikšić ("Službeni list CG", broj 1/26) član 1 mijenja se i glasi:
+"Utvrđuje se javni interes za nepotpunu eksproprijaciju nepokretnosti u Opštini Šavnik i Opštini Nikšić i to:
+OPŠTINA ŠAVNIK
+KO GORNJA BIJELA
+- dio katastarske parcele broj 1301, u površini od 166 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 213 kao svojina Šobić Vuk Božidar; Šobić Vuk Božo, Šobić Vuk Milan, Šobić Ranko Steva, Šobić Vuk Milan i Šobić Mina Zdravko;
+- dio katastarske parcele broj 1312, u površini od 162 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 213 kao susvojina Šobić Vuk Božo, Šobić Vuk Milan, Šobić Ranko Steva, Šobić Vuk Milan i Šobić Mina Zdravko;
+- dio katastarske parcele broj 1373, u površini od 852 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 254 kao su susvojina Zorić Milosav Ratko (42700/106773);
+- dio katastarske parcele 1099, u površini od 355 m2, po kulturi pašnjak 6. klase, upisan u list nepokretnosti broj 46 kao svojina Zorić Leka Ljubiša; Zorić Milica, Zorić Leka Novak, Zorić Ratko Predrag i Zorić Nenad;
+- dio katastarske parcele 1419, u površini od 589 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 46, kao susvojina Zorić Leka Ljubiša, Zorić Milica, Zorić Leka Novak, Zorić Ratko Predrag i Zorić Nenad;
+- dio katastarske parcele 1431, u površini od 684 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 61, kao svojina Zorić Radoman Saša, Zorić Jović Slobodan, Zorić Blagota, Zorić Dragan i Zorić Radoman Veselin;
+- dio katastarske parcele 1096, u površini od 1998 m2, po kulturi pašnjak 6. klase, upisan u list nepokretnosti broj kao svojina Zorić Jovan Dragan; Zorić Radoman Saša, Zorić Jović Slobodan, Zorić Blagota i Zorić Radoman Veselin;
+- dio katastarske parcele 1095, u površini od 402 m2, po kulturi krš, kamenjar, upisan u list nepokretnosti broj 61 kao svojina Zorić Radoman Saša, Zorić Jović Slobodan i Zorić Radoman Veselin; Zorić Radoman Saša, Zorić Jović Slobodan i Zorić Radoman Veselin;
+- dio katastarske parcele 1019, u površini od 121 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 261 kao svojina Jeftić Vladimir Milka ud Mirčete;
+- dio katastarske parcele 1091, u površini od 35 m2, po kulturi krš, kamenjar, upisan u list nepokretnosti broj 8 kao svojina Vuković Milenko Aleksandar, Vuković Milenko Aleksandra, Vuković Miloš Branko; Vuković Branko Miklojka, Vuković Branko Mirko;
+KO KOMARNICA
+- dio katastarske parcele broj 946, u površini od 900 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 167 kao svojina Savović Milorad Milivoje, Savović Milorad Miodrag; Jovanović Milorad Miodrag i Savović Milorad Svetlana, Jovanović Snežana;
+- dio katastarske parcele broj 950, u površini od 292 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 136 kao svojina Mandić - Projkoski Daliborka; Tomić Miloš Darinka, Mandić Dragan Dragan, Bajović Miloš Dunja, Mandić Jovan, Mandić Krsto; Mandić Miloš, Malović Milinko Miomir, Brajović Slavka; Malović Milinko Vidoje, Čapo Marjana, Jandrić Vladimir Slavka, Malović Ljubomir Sreten;
+- dio katastarske parcele broj 951, u površini od 1279 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 136 kao svojina Mandić - Projkoski Daliborka; Tomić Miloš Darinka, Mandić Dragan Dragan, Bajović Miloš Dunja, Mandić Jovan, Mandić Krsto; Mandić Miloš, Malović Milinko Miomir, Brajović Slavka; Malović Milinko Vidoje, Čapo Marjana, Jandrić Vladimir Slavka, Malović Ljubomir Sreten;
+KO MALINSKO
+- dio katastarske parcele 485, u površini od 5361 m2, po kulturi livada 8.klase, upisan u list nepokretnosti broj 3 kao svojina Aleksić Vuksan Balša;
+- dio katastarske parcele 1679, u površini od 5070 m2, po kulturi livada 8.klase, upisan u list nepokretnosti broj kao susvojina Petrušić Ilija Draginja; Petrušić Ilija Mirčeta; Petrušić Ilija Mlađen; Petrušić Ilija Radosav i Petrušić Ilija Slobodan;
+- dio katastarske parcele 1670, u površini od 3867 m2, po kulturi livada 8.klase, upisan u list nepokretnosti broj kao svojina Petrušić Ilija Draginja; Petrušić Ilija Mirčeta; Petrušić Ilija Mlađen; Petrušić Ilija Radosav i Petrušić Ilija Slobodan;
+- dio katastarske parcele 1938, u površini od 163 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 146 kao svojina Lopušina Isailo Milka;
+- dio katastarske parcele 1857, u površini od 154 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti 146 broj kao svojina Lopušina Isailo Milka;
+- dio katastarske parcele 1861, u površini od 644 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 264 kao svojina Trebješanin Radoica Miljan, Trebješanin Momir Suzana i Trebješanin Momir Vesko;
+- dio katastarske parcele 1934, u površini od 307 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 211 kao svojina Petrušić Ilija Draginja; Petrušić Ilija Mirčeta; Petrušić Ilija Mlađen; Petrušić Ilija Radosav i Petrušić Ilija Slobodan;
+- dio katastarske parcele 655, u površini od 3303 m2, po kulturi pašnjak 6. klase, upisan u list nepokretnosti broj 1 kao svojina Mujović ud Đuro Darinka, Aleksić Aleksa Darko i Aleksić Đuro Rajko;
+- dio katastarske parcele 1770, u površini od 1198 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 76 kao svojina Gvozdenović Veselin Miljan;
+- dio katastarske parcele 1798, u površini od 174 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 148 kao svojina Lopušina Julka, Lopušina Radomir Gordana, Bećković Novak; Gajović Radovan;
+- dio katastarske parcele 1865, u površini od 1172 m2, po kulturi livada 8. klase, upisan u list nepokretnosti broj 67 kao svojina Vujačić Petar Danilo; Vujačić Vuk Ljubica; Vujačić Petar Neško; Zlatković Petar Stanica; Vujačić Petar Radovan;
+- dio katastarske parcele 1929/3, u površini od 667 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 190 kao svojina Perošević Radisav Rajko;
+- dio katastarske parcele 1795, u površini od 2286 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 167 kao svojina Aleksić ud Krsta Rosa;
+- dio katastarske parcele 486/1, u površini od 2557 m2, po kulturi šume 6. klase, upisan u list nepokretnosti broj 3 kao svojina Aleksić Vuksan Balša;
+KO DONJA BIJELA
+- dio katastarske parcele 1923, u površini od 103 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj 166 kao svojina Nenezić Anđa; Nenezić Novo Rosanda; Nenezić Milivoje Slobodan; Nenezić Milivoje Stevan; Nenezić Milivoje Svetozar; Nenezić Milivoje Đorđije; Nenezić Mileva ud. Milivoja;
+- dio katastarske parcele 1908/3, u površini od 93 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj kao svojina Nenezić Anđa; Nenezić Novo Rosanda; Nenezić Milivoje Slobodan; Nenezić Milivoje Stevan; Nenezić Milivoje Svetozar; Nenezić Milivoje Đorđije; Nenezić Mileva ud. Milivoja;
+- dio katastarske parcele 1986, u površini od 121 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj kao svojina Nenezić Anđa; Nenezić Novo Rosanda; Nenezić Milivoje Slobodan; Nenezić Milivoje Stevan; Nenezić Milivoje Svetozar; Nenezić Milivoje Đorđije; Nenezić Mileva ud. Milivoja;
+- dio katastarske parcele 1891, u površini od 150 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj 101 kao svojina Knežević Vukosav Branislavka; Knežević Vidoje Ivana, Knežević Milutin Miodrag; Knežević Jovan Olivera i Knežević Jovan Vladimir;
+- dio katastarske parcele 1993, u površini od 146 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj kao svojina Knežević Vukosav Branislavka; Knežević Vidoje Ivana, Knežević Milutin Miodrag; Knežević Jovan Olivera i Knežević Jovan Vladimir;
+- dio katastarske parcele 1874, u površini od 65 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj 66 kao svojina Đikanović Milivoje Jovan; Đikanović Milivoje Mihailo; Đikanović Milivoje Njegovan;
+- dio katastarske parcele 2006, u površini od 55 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj kao svojina Đikanović Milivoje Jovan, Đikanović Milivoje Mihailo, Đikanović Milivoje Njegovan;
+- dio katastarske parcele 1855, u površini od 114 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj 104 kao svojina Mijušković Milovan Dušan; Mijušković Milovan Radovan;
+- dio katastarske parcele 2019, u površini od 115 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj kao svojina Mijušković Milovan Dušan; Mijušković Milovan Radovan;
+- dio katastarske parcele 1836, u površini od 104 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj 283 kao svojina Simović Savo Mikonja;
+- dio katastarske parcele 2035, u površini od 110 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj kao svojina Simović Savo Mikonja;
+- dio katastarske parcele 1832, u površini od 95 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj 338 kao svojina Janjušević Milivoje Željko; Janjušević Milivoje Mirko Janjušević Milivoje Rajko;
+- dio katastarske parcele 2038, u površini od 130 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj kao svojina Janjušević Milivoje Željko; Janjušević Milivoje Mirko Janjušević Milivoje Rajko;
+- dio katastarske parcele 1801, u površini od 173 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 138 kao svojina Nenezić Joka ud. Dragiše;
+- dio katastarske parcele 2053, u površini od 219 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj 138 kao svojina Nenezić Joka ud. Dragiše;
+- dio katastarske parcele 2027, u površini od 90 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 90 kao svojina Janjušević Milivoje Mirko;
+- dio katastarske parcele 1845, u površini od 101 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj 90 kao svojina Janjušević Milivoje Mirko;
+- dio katastarske parcele 47, u površini od 151 m2, po kulturi šume 6. klase, upisan u list nepokretnosti broj 341 kao svojina Đurović Miloš Dragoljub; Djurović Miloš Petar;
+- dio katastarske parcele 51, u površini od 2490 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj kao svojina Đurović Miloš Dragoljub; Djurović Miloš Petar;
+- dio katastarske parcele 52, u površini od 1287 m2, po kulturi šume 6. klase, upisan u list nepokretnosti broj kao svojina Đurović Miloš Dragoljub; Djurović Miloš Petar;
+- dio katastarske parcele 62, u površini od 1072 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj kao svojina Đurović Miloš Dragoljub; Djurović Miloš Petar;
+- dio katastarske parcele 60, u površini od 323 m2, po kulturi šume 6. klase, upisan u list nepokretnosti broj kao svojina Đurović Miloš Dragoljub; Djurović Miloš Petar;
+- dio katastarske parcele 224, u površini od 1068 m2, po kulturi pašnjak 6. klase, upisan u list nepokretnosti broj 21 kao svojina Vulović Momir Marko; Vulović Živko Miodrag;
+- dio katastarske parcele 225, u površini od 2586 m2, po kulturi pašnjak 6. klase, upisan u list nepokretnosti broj kao svojina Vulović Momir Marko Vulović Živko Miodrag; Vulović Momir Vuk; Vulović Živko Predrag;
+- dio katastarske parcele 199, u površini od 647 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 181 kao svojina Nenezić Milun Mihailo;
+- dio katastarske parcele 133, u površini od 30 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 149 kao svojina Nenezić Kostadin Aleksandar; Nenezić Jovo Mileva; Nenezić Borislav Miljan; Nenezić Jovan Tomislav;
+- dio katastarske parcele 129, u površini od 349 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 166 kao svojina Nenezić Anđa; Nenezić Mileva ud. Milivoja; Nenezić Novo Rosanda; Nenezić Milivoje Slobodan; Nenezić Novo Rosanda;
+- dio katastarske parcele 130, u površini od 15 m2, po kulturi livada 8. klase, upisan u list nepokretnosti broj kao svojina Nenezić Mileva ud. Milivoja; Nenezić Milivoje Stevan; Nenezić Milivoje Svetozar; Nenezić Milivoje Đorđije;
+- dio katastarske parcele 131, u površini od 35 m2, po kulturi šume 6. klase, upisan u list nepokretnosti broj kao svojina Nenezić Novo Rosanda; Nenezić Mileva ud. Milivoja; Nenezić Milivoje Stevan; Nenezić Milivoje Svetozar; Nenezić Milivoje Đorđije;
+KO DUŽI
+- dio katastarske parcele 2517, u površini od 345 m2, po kulturi šume 8. klase, upisan u list nepokretnosti broj 261 kao svojina Mašić Radovan Božana;
+- dio katastarske parcele 2516, u površini od 435 m2, po kulturi livada 8. klase, upisan u list nepokretnosti broj kao svojina Mašić Radovan Božana;
+- dio katastarske parcele 2529, u površini od 516 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 180 kao svojina Petković Milivoje Željko; Mandić Milorad Aleksandar;
+- dio katastarske parcele 1590, u površini od 1582 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj kao svojina Petković Milivoje Željko, Mandić Milorad Aleksandar;
+- dio katastarske parcele 1589, u površini od 4551 m2, po kulturi šume 7. klase, upisan u list nepokretnosti broj kao svojina Petković Milivoje Željko i Mandić Milorad Aleksandar;
+- dio katastarske parcele 2522, u površini od 1297 m2, po kulturi šume 8. klase, upisan u list nepokretnosti broj 138 kao svojina Malović Jefto Božo;
+- dio katastarske parcele 2556, u površini od 52 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj kao svojina Malović Jefto Božo;
+- dio katastarske parcele 2519, u površini od 183 m2, po kulturi livada 8. klase, upisan u list nepokretnosti broj kao svojina Malović Jefto Božo;
+- dio katastarske parcele 2501, u površini od 431 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj kao svojina Malović Jefto Božo;
+- dio katastarske parcele 2520/1, u površini od 300 m2, po kulturi pašnjak 8. klase, upisan u list nepokretnosti broj kao svojina Malović Jefto Božo;
+- dio katastarske parcele 2537, u površini od 1183 m2, po kulturi livada 8. klase, upisan u list nepokretnosti broj 6 kao svojina Vilotijević Veljko Ratko;
+- dio katastarske parcele 2538, u površini od 528 m2, po kulturi pašnjak 8. klase, upisan u list nepokretnosti broj 6 kao svojina Vilotijević Veljko Ratko;
+- dio katastarske parcele 2536, u površini od 215 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 6 kao svojina Vilotijević Veljko Ratko;
+- dio katastarske parcele 2540, u površini od 1485 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 165 kao svojina Malović Petrašin Željko;
+- dio katastarske parcele 2542, u površini od 1667 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 189 kao svojina Mašić Vukašin Branko;
+- dio katastarske parcele 2478, u površini od 335 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 225 kao svojina Pavićević Blagoslav Zoran;
+- dio katastarske parcele 2479, u površini od 38 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 225 kao svojina Pavićević Blagoslav Zoran;
+- dio katastarske parcele 2475, u površini od 707 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 167 kao svojina Malović Radisav Ratko;
+- dio katastarske parcele 2134, u površini od 694 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 153 kao svojina Malović Mirčeta Dragomir i Malović Milutin;
+- dio katastarske parcele 2135, u površini od 117 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj kao svojina Malović Mirčeta Dragomir i Malović Danko Milutin;
+- dio katastarske parcele 1808, u površini od 68 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 161 kao svojina Malović Pero Velizar;
+- dio katastarske parcele 1474, u površini od 2105 m2, po kulturi šume 8. klase, upisan u list nepokretnosti broj 350 kao suvojina Mandić Jovan; Čapo Marjana; Mandić Miloš;
+- dio katastarske parcele 1475, u površini od 3170 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 351 kao svojina Mandić Jovan; Čapo Marjana, Mandić Miloš;
+- dio katastarske parcele 2115, u površini od 183 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 154 kao svojina Malović Momir Darka;
+- dio katastarske parcele 2116, u površini od 126 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj kao svojina Malović Momir Darka;
+- dio katastarske parcele 1563, u površini od 601 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 324 kao svojina Mandić Čedomir Vesko;
+- dio katastarske parcele 1562, u površini od 1336 m2, po kulturi šume 7. klase, upisan u list nepokretnosti broj 324 kao svojina Mandić Čedomir Vesko;
+- dio katastarske parcele 1746, u površini od 3464 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 339 kao svojina Vilotijević Uglješa Vojislav;
+- dio katastarske parcele 1750, u površini od 3309 m2 po kulturi šume 8. klase, upisan u list nepokretnosti broj 339 kao svojina Vilotijević Uglješa Vojislav;
+- dio katastarske parcele 1775, u površini od 2690 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 241 kao svojina Pavićević Gledo Krsto;
+KO PETNJICA
+- dio katastarske parcele 1181, u površini od 1233 m2, po kulturi šume 7. klase, upisan u list nepokretnosti broj 81 kao svojina Popović Zoran Aleksandar; Karadžić Đuro Darinka; Popović Zoran Ivana; Popović Marko Slavko;
+- dio katastarske parcele 1209, u površini od 148 m2, po kulturi šume 7. klase, upisan u list nepokretnosti broj 260 kao svojina Tomić Radivoje Žarko;
+- dio katastarske parcele 1208, u površini od 205 m2, po kulturi livada 8.klase, upisan u list nepokretnosti broj 260 kao svojina Tomić Radivoje Žarko;
+- dio katastarske parcele 1189, u površini od 2060 m2, po kulturi šume 7. klase, upisan u list nepokretnosti broj 248 kao svojina Tomić Damjan Grozdana;
+- dio katastarske parcele 1190, u površini od 87 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 248 kao svojina Tomić Damjan Grozdana;
+- dio katastarske parcele 1191, u površini od 3233 m2, po kulturi šume 6. klase, upisan u list nepokretnosti broj 248 kao svojina Tomić Damjan Grozdana;
+- dio katastarske parcele 1193, u površini od 1045 m2, po kulturi livada 8. klase, upisan u list nepokretnosti broj 248 kao svojina Tomić Damjan Grozdana;
+- dio katastarske parcele 1206, u površini od 1210 m2, po kulturi livada 8. klase, upisan u list nepokretnosti broj 55 kao svojina Jegdić Jovan Ljubo;
+- dio katastarske parcele 1196, u površini od 1529 m2, po kulturi livada 8. klase, upisan u list nepokretnosti broj 55 kao svojina Jegdić Jovan Ljubo;
+- dio katastarske parcele 1197, u površini od 119 m2, po kulturi šume 7. klase, upisan u list nepokretnosti broj 55 kao svojina Jegdić Jovan Ljubo;
+- dio katastarske parcele 1198, u površini od 1349 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 55 kao svojina Jegdić Jovan Ljubo;
+- dio katastarske parcele 1194, u površini od 1657 m2, po kulturi šume 6. klase, upisan u list nepokretnosti broj 243 kao svojina Seratlić Branko Darko; Terzić Branko Pavica;
+- dio katastarske parcele 1195, u površini od 1854 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj kao svojina Terzić Branko Pavica; Seratlić Branko Darko;
+- dio katastarske parcele 1509, u površini od 2184 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 248 kao svojina Tomić Vojin Pavle; Tomić Petrašin Zdravko;
+- dio katastarske parcele 1514, u površini od 6742 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj kao svojina Tomić Petrašin Zdravko; Tomić Vojin Pavle;
+- dio katastarske parcele 1517, u površini od 3526 m2, po kulturi pašnjak 7. klase, upisan u list nepokretnosti broj 22 kao svojina Zarubica Tripko Filip; Zarubica Djordjije Jakov; Zarubica Obrad Predrag Zarubica Đorđije Ćirilo;
+KO POŠĆENJE
+- dio katastarske parcele 35, u površini od 1053 m2, po kulturi šume 7. klase, upisan u list nepokretnosti broj 23 kao svojina Vuković Filip Jasminka;
+- dio katastarske parcele 36, u površini od 1646 m2, po kulturi dvorište, upisan u list nepokretnosti broj 23 kao svojina Vuković Filip Jasminka;
+- dio katastarske parcele 27/1, u površini od 2 m2, po kulturi krš, kamenjar, upisan u list nepokretnosti broj 23 kao svojina Golović Vladislav Ikonija; Golović Lazar Mijomir, Golović Vladislav Milica, Golović Lazar Milivoje, Golović Lazar Mian;
+- dio katastarske parcele 25, u površini od 347 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 35 kao svojina Golović Vladislav Ikonija; Golović Lazar Mijomir, Golović Vladislav Milica, Golović Lazar Milivoje, Golović Lazar Mian;
+KO MILOŠEVIĆI
+- dio katastarske parcele 1300, u površini od 1701 m2, po kulturi njiva 8. klase, upisan u list nepokretnosti broj 17 kao svojina Vukićević Đoko Perko;
+- dio katastarske parcele 1319, u površini od 608 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj kao svojina Vukićević Đoko Perko;
+- dio katastarske parcele 1306, u površini od 11 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 274 kao svojina Nenezić Jovanka ud. Dragutina;
+- dio katastarske parcele 1307, u površini od 11 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj kao svojina Nenezić Jovanka ud. Dragutina;
+- dio katastarske parcele 1311, u površini od 33 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 131 kao svojina Žižić Radomir Milivoje;
+OPŠTINA NIKŠIĆ
+KO ĆERANIĆA GORA
+- dio katastarske parcele 50, u površini od 32 m2, po kulturi pašnjak 5. klase, upisan u list nepokretnosti broj 172 kao svojina Djukanović Nedjeljko Mara;
+- dio katastarske parcele 346/1, u površini od 410 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj kao svojina Djukanović Nedjeljko Mara;
+- dio katastarske parcele 346/3, u površini od 128 m2, po kulturi livada 6. klase, upisan u list nepokretnosti broj kao svojina Djukanović Nedjeljko Mara;
+- dio katastarske parcele 347/2, u površini od 6 m2, po kulturi Neplodna zemljišta, upisan u list nepokretnosti broj kao svojina Djukanović Nedjeljko Mara;
+- dio katastarske parcele 345/1, u površini od 14 m2, po kulturi Neplodna zemljišta, upisan u list nepokretnosti broj kao svojina Djukanović Nedjeljko Mara;
+- dio katastarske parcele 89, u površini od 66 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 198 kao svojina Zajović Savelja Milutin;
+- dio katastarske parcele 84, u površini od 304 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj kao svojina Zajović Djordjije Savka;
+- dio katastarske parcele 90, u površini od 89 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 984 kao svojina Lalatović Milan Ilija; Lalatović Milan Vidak;
+- dio katastarske parcele 62, u površini od 1026 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 594 kao svojina Vrcan Obren Danijela; Nenezić Obren Danilo; Nenezić Milun Mihailo; Nenezić Milun Novica; Nenezić Dušan Zorka;
+- dio katastarske parcele 263, u površini od 512 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 594 kao svojina Vrcan Obren Danijela; Nenezić Obren Danilo; Nenezić Milun Mihailo; Nenezić Milun Novica; Nenezić Dušan Zorka;
+- dio katastarske parcele 70, u površini od 451 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 594 kao svojina Vrcan Obren Danijela; Nenezić Obren Danilo; Nenezić Milun Mihailo; Nenezić Milun Novica; Nenezić Dušan Zorka;
+- dio katastarske parcele 261, u površini od 112 m2, po kulturi pašnjak 5. klase, upisan u list nepokretnosti broj 594 kao svojina Vrcan Obren Danijela; Nenezić Obren Danilo; Nenezić Milun Mihailo; Nenezić Milun Novica; Nenezić Dušan Zorka;
+- dio katastarske parcele 97, u površini od 172 m2, po kulturi pašnjak 5. klase, upisan u list nepokretnosti broj 594 kao svojina Vrcan Obren Danijela; Nenezić Obren Danilo; Nenezić Milun Mihailo; Nenezić Milun Novica; Nenezić Dušan Zorka;
+- dio katastarske parcele 96, u površini od 335 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 594kao svojina Vrcan Obren Danijela; Nenezić Obren Danilo; Nenezić Milun Mihailo; Nenezić Milun Novica; Nenezić Dušan Zorka;
+- dio katastarske parcele 87, u površini od 291 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 204 kao svojina Nenezić Milosav Savka;
+- dio katastarske parcele 80, u površini od 260 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 748 kao svojina Mandić Milica; Ćetković Lazar Radoš; Milošević Stevan;
+- dio katastarske parcele 93, u površini od 372 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 748 kao svojina Mandić Milica Ćetković Lazar Radoš; Milošević Stevan;
+- dio katastarske parcele 81, u površini od 87 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 37 kao svojina Varajić Rako Milosav;
+- dio katastarske parcele 92, u površini od 49 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj kao svojina Varajić Rako Milosav;
+- dio katastarske parcele 88, u površini od 98 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj kao svojina Zajović Slavka;
+- dio katastarske parcele 86, u površini od 135 m2, po kulturi livada 7. klase, upisan u list nepokretnosti broj 255 kao svojina Janjušević Rade Nenad; Janjušević Radislav Radmila;
+- dio katastarske parcele 117, u površini od 66 m2, po kulturi pašnjak 5. klase, upisan u list nepokretnosti broj 255 kao svojina Janjušević Rade Nenad i Janjušević Radislav Radmila."
