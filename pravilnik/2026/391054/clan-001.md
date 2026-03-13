@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o obimu i vrsti podataka i informacija, načinu i uslovima za procjenu podobnosti i odabiru davaoca, obimu i vrsti laboratorijskih testiranja, kao i načinu praćenja zdravstvenog stanja živog davaoca organa* ("Službeni list CG", broj 17/26) u članu 5 stav 2 tačka 2 i članu 7 stav 1 tačka 1 riječi: "krvlju prenosivih bolesti;" zamjenjuju se riječima: "krvlju prenosivih i drugih zaraznih bolesti;".
