@@ -1,0 +1,14 @@
+# Član 6
+Ovlašćena zdravstvena ustanova u kojoj se uzima, odnosno dobija organ za razmjenu prije slanja organa u državu odredišta, zdravstvenoj ustanovi prenosi informacije koje sadrže podatke potrebne za karakterizaciju davaoca organa i organa, i to najmanje:
+1) minimalni skup podataka, koji obuhvata: tip davaoca, krvnu grupu, pol, datum i uzrok smrti, datum rođenja ili procijenjenu starost, težinu, visinu, istoriju ranijeg ili sadašnjeg intravenoznog korišćenja droga, istoriju ranije ili sadašnje maligne neoplazme, sadašnje stanje krvlju prenosivih ili drugih zaraznih bolesti, laboratorijske rezultate testova na virus hepatitisa B (HBV), virus hepatitisa C (HCV), humani imunodeficijentni virus (HIV) i druge laboratorijske i imunogenetske testove i osnovne informacije potrebne za procjenu funkcije dobijenog organa, laboratorijske rezultate o karakterizaciji organa, specifikaciju organa;
+2) naziv ovlašćene zdravstvene ustanove u kojoj je organ dobijen, sa kontakt podacima koordinatora zdravstvene ustanove (ime, prezime, adresa, broj telefona, e-mail adresa i broj faksa), identifikacioni broj davaoca (kod) i datum i vrijeme davanja organa;
+3) dopunski skup podataka, koji obuhvata:
+- opšte podatke: kontakt podaci zdravstvene ustanove u kojoj je izvršeno uzimanje, odnosno dobijanje organa neophodni za koordinaciju, dodjelu i sljedljivost organa od davaoca do primaoca i obratno,
+- podatke o davaocu: demografski i antropometrički podaci potrebni kako bi se obezbijedilo odgovarajuće usklađivanje između davaoca, organa i primaoca,
+- anamnezu davaoca, posebno stanja koja bi mogla uticati na podobnost organa za presađivanje i koja predstavljaju rizik od prenosa bolesti,
+- fizičke i kliničke podatke iz kliničkih ispitivanja koji su neophodni da bi se ocijenilo fiziološko održavanje mogućeg davaoca, kao i bilo koji nalaz koji otkriva stanja koja su ostala neotkrivena za vrijeme ispitivanja anamneze davaoca, a koja bi mogla uticati na podobnost organa za presađivanje ili bi mogla predstavljati rizik od prenosa bolesti,
+- laboratorijske podatke potrebne za ispitivanje funkcionalne karakterizacije organa i za otkrivanje potencijalno prenosivih bolesti i mogućih kontraindikacija za davanje organa,
+- snimke (radiološke) i nalaze neophodne za ispitivanje anatomskog statusa organa za presađivanje,
+- terapiju: ljekovi koje prima davalac, koji su od značaja za ispitivanje funkcionalnog statusa organa i podobnosti za davanje organa, posebno korišćenje antibiotika, inotropske podrške ili transfuzijske terapije.
+Ako svi podaci iz stava 1 ovog člana nijesu dostupni, odmah nakon njihove dostupnosti prenose se zdravstvenoj ustanovi.
+Dopunski skup podataka prikuplja se na osnovu odluke medicinskog tima za presađivanje organa od članova porodice i iz drugih izvora podataka, uzimajući u obzir raspoloživost tih podataka i posebne okolnosti slučaja.
