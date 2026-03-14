@@ -1,0 +1,8 @@
+# Član 6
+## Tržišni udio učesnika na tržštu
+Vertikalni sporazumi iz ove uredbe mogu biti izuzeti od zabrane ako tržišni udio dobavljača na tržištu na kojem prodaje ugovorenu robu ili pruža ugovorene usluge ne prelazi 30%, i ako tržišni udio kupca na relevantnom tržištu na kojem kupuje ugovorenu robu ili usluge ne prelazi 30%.
+Ako, na osnovu vertikalnog sporazuma zaključenog od strane više učesnika, određeni učesnik na tržištu kupuje ugovorenu robu ili usluge od učesnika koji je strana sporazuma i prodaje tu robu ili usluge drugom učesniku koji je takođe strana sporazuma, takav vertikalni sporazum može biti izuzet od zabrane ako tržišni udio tog učesnika ispunjava uslove iz stava 1 ovog člana kada djeluje i kao kupac i kao prodavac.
+Tržišni udio dobavljača iz stava 1 ovog člana obračunava se na osnovu prihoda ostvarenog od prodaje na relevantnom tržištu u prethodnoj kalendarskoj godini, a tržišni udio kupca na osnovu prihoda ostvarenog od kupovine na relevantnom tržištu u prethodnoj kalendarskoj godini, ako takvi podaci nijesu dostupni, obračun se zasniva na procjenama iz drugih pouzdanih tržišnih informacija, uključujući obim prodaje ili kupovine na relevantnom tržištu.
+Tržišni udio dobavljača uključuje vrijednost sve robe ili usluga isporučenih vertikalno integrisanim distributerima radi dalje prodaje.
+Ako tržišni udio u početku ne prelazi 30%, ali naknadno poraste iznad tog nivoa, izuzeće od zabrane iz ovog člana nastavlja da se primjenjuje tokom perioda od dvije uzastopne kalendarske godine nakon godine u kojoj je prag od 30% prvi put premašen.
+Tržišni udio koji imaju učesnici na tržištu iz člana 3 stav 1 tačka 5 alineja 2 ove uredbe raspoređuje se podjednako na svakog učesnika koji ima prava ili ovlašćenja iz člana 3 stav 1 tačka 1.
