@@ -1,0 +1,4 @@
+Na osnovu člana 11 stav 1 Zakona o zaštiti konkurencije ("Službeni list CG", br. 44/12, 13/18 i 145/21), Vlada Crne Gore je 20. februara 2026. godine, bez održavanja sjednice, na osnovu pribavljenih saglasnosti većine članova, donijela
+UREDBU
+O USLOVIMA I KRITERIJUMIMA GRUPNOG IZUZEĆA OD ZABRANE SPORAZUMA
+O ISTRAŽIVANJU I RAZVOJU
