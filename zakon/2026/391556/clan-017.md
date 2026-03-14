@@ -1,0 +1,6 @@
+# Član 17
+U članu 31 poslije stava 2 dodaju se četiri nova stava koja glase:
+"Bezbjedno digitalno poštansko sanduče (u daljem tekstu: e-postSanduče) je sistem za bezbjedno i sigurno elektronsko slanje i primanje ER pismena pod propisanim tehničkim i bezbjednosnim uslovima.
+Putem e-postSandučeta šalju se i primaju pismena koja upućuju: služba Predsjednika Crne Gore, Skupštine Crne Gore, Vlade Crne Gore, Ustavnog suda Crne Gore, sudovi, državna tužilaštva, državni organi, organi državne uprave, organi lokalne samouprave, organi lokalne uprave, ustanove, privredna društva čiji je osnivač država, drugi subjekti koji vrše javna ovlašćenja, Fond penzijskog i invalidskog osiguranja Crne Gore, Fond za zdravstveno osiguranje Crne Gore, Zavod za zapošljavanje Crne Gore, Fond rada i drugi organi, regulatorna i nezavisna tijela.
+Putem e-postSandučeta šalju se i primaju pismena koja sadrže lične informacije, kao što su pismena banaka, računi telekomunikacionih operatera, računi za utrošenu električnu energiju, vodu, čistoću i ostali računi, pismena advokata, javnih izvršitelja i notara.
+Pored lica iz st. 4 i 5 ovog člana, koja su prilikom slanja pismena elektronskim putem dužna da koriste e-postSanduče, fizička i druga pravna lica mogu za slanje svojih pismena koristiti e- postSanduče kada se za ovu vrstu slanja pismena elektronskim putem opredijele."
