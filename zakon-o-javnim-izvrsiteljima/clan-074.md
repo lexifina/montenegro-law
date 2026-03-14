@@ -1,0 +1,4 @@
+# Član 74
+## Prestanak mandata disciplinskog tužioca i člana disciplinskih komisija
+Disciplinskom tužiocu i članu prvostepene, odnosno drugostepene disciplinske komisije i njihovim zamjenicima prestaje mandat prije isteka vremena na koje je imenovan za disciplinskog tužioca, odnosno za člana prvostepene, odnosno drugostepene disciplinske komisije ili njegovog zamjenika ako on to sam zatraži ili mu prestane funkcija, odnosno prestane da obavlja djelatnost zbog koje je imenovan za disciplinskog tužioca, odnosno člana disciplinske komisije ili njegovog zamjenika.
+U slučaju prestanka mandata članu prvostepene, odnosno drugostepene disciplinske komisije ili njegovog zamjenika prije isteka vremena na koje je komisija imenovana, novog člana komisije, odnosno njegovog zamjenika imenuje ministar pravde, iz reda onih iz kojih je biran član, odnosno zamjenik kome je prestao mandat, na period do kraja trajanja mandata komisije.
