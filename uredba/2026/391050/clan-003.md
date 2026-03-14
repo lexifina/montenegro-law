@@ -1,0 +1,3 @@
+# Član 3
+## Primjena
+Odredbe ove uredbe primjenjuju se u oblasti željezničkog, drumskog i saobraćaja u unutrašnjim vodama na sve sporazume, odluke i usaglašene prakse koje za cilj ili posljedicu imaju utvrđivanje cijene i uslova prevoza, ograničavanje ili kontrolisanje ponude usluga prevoza, podjelu tržišta prevoza, primjenu tehničkih poboljšanja ili tehničke saradnje, odnosno zajedničko finansiranje ili nabavku prevozne opreme ili sirovina kada su takve aktivnosti direktno povezane sa pružanjem usluga prevoza i neophodne za zajedničko pružanje usluge od strane grupe privrednih subjekata u smislu člana 5 ove uredbe, koji obavljaju djelatnost drumskog i željezničkog prevoza ili prevoza u unutrašnjim vodama i na djelatnosti pružalaca pomoćnih prevoznih usluga.
