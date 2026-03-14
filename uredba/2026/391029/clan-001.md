@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovom uredbom uređuje se saradnja između nacionalnih tijela odgovornih za izvršavanje propisa o zaštiti potrošača, jedinstvena nacionalna kontakt tačka i organi nadležni za sprovođenje Regulative (EU) 2017/2394 Evropskog parlamenta i Savjeta od 12. decembra 2017. godine o saradnji između nacionalnih tijela odgovornih za izvršavanje propisa o zaštiti potrošača i o stavljanju van snage Regulative (EZ) br. 2006/2004 (u daljem tekstu: Regulativa (EU) 2017/2394) i ovlašćenja tih organa, određuje tijela nadležna za izdavanje spoljnih upozorenja nadležnim organima i uređuju prekršajne odredbe za postupanje suprotno Regulativi (EU) 2017/2394.
