@@ -1,0 +1,2 @@
+Na osnovu člana 102 stav 7 i člana 208 stav 4 Zakona o otvorenim investicionim fondovima sa javnom ponudom ("Službeni list Crne Gore", br. 23/25, 117/25 i 14/26) - (u daljem tekstu: Zakon), Komisija za tržište kapitala Crne Gore (u daljem tekstu: Komisija) na 174. sjednici od 5.3.2026. godine, donijela je
+PR AV I L A O DOZVOLJENIM ULAGANJIMA I OGRANIČENJIMA ULAGANJA OTVORENIH INVESTICIONIH FONDOVA SA JAVNOM PONUDOM

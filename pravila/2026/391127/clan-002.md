@@ -1,0 +1,3 @@
+# Član 2
+(1) Dozvoljena ulaganja imovine UCITS fonda u prenosive hartije od vrijednosti i instrumente tržišta novca realizuju se shodno članu 208 Zakona za hartije od vrijednosti uključene u trgovanje na regulisanom tržištu u Crnoj Gori, državama članicama Evropske Unije, OECD-a i trećim državama.
+(2) Društvo za upravljanje dužno je, prilikom upravljanja imovinom UCITS fonda, da se pridržava svih odredbi prospekta predmetnog UCITS fonda koje se odnose na vrste imovine u koje je dozvoljeno ulagati, korištenje tehnika i instrumenata za efikasno upravljanje imovinom UCITS fonda i na ograničenja ulaganja UCITS fonda.
