@@ -1,0 +1,5 @@
+# Član 6
+## Bitne promjene prospekta
+Uz zahtjev za dobijanje saglasnosti za bitne promjene prospekta UCITS fonda iz člana 165 stav 1 Zakona, društvo za upravljanje je dužno Komisiji da priloži i odluku uprave društva o usvajanju promjena prospekta, u kojoj će se naznačiti u kojim dijelovima se prospekt mijenja i na koji način, uz izjavu da u preostalim dijelovima ostaje isti.
+Društvo za upravljanje je dužno u obaviještenju o bitnim promjenama prospekta, koje se objavljuje na internet stranici društva u skladu sa članom 166 stav 2 Zakona , kao i u obaviještenju koja se dostavlja investitorima u skladu sa članom 166 stav 3 Zakona, navesti koje su bitne promjene prospekta, dan kada bitne promjene Prospekta stupaju na snagu u skladu sa članom 166 stav 6 Zakona, te upozoriti na pravo investitora iz člana 166 stav 4 Zakona.
+Društvo za upravljanje dužno je da obavještenje o bitnim promjenama prospekta iz člana 166 stav 3 Zakona dostavi investitorima putem pošte ili na drugom odgovarajućem trajnom mediju ili objavom u najmanje dva štampana medija koji se distribuiraju na teritoriji Crne Gori, kao i na njihovim portalima.

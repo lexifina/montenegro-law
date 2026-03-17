@@ -1,0 +1,2 @@
+Na osnovu člana 159 stav 6, člana 163 stav 3, člana 166 stav 7 i člana 167 stav 3 Zakona o otvorenim investicionim fondovima sa javnom ponudom ("Službeni list Crne Gore", br. 23/25, 117/25 i 14/26) - (u daljem tekstu: Zakon), Komisija za tržište kapitala Crne Gore (u daljem tekstu: Komisija), na 174. sjednici od 5.3.2026. godine, donijela je
+PR A V I L A O DODATNOM SADRŽAJU, NAČINU OBJAVLJIVANJA I POSTUPKU PROMJENE PROSPEKTA OTVORENIH INVESTICIONIH FONDOVA SA JAVNOM PONUDOM
