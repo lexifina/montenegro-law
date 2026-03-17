@@ -1,0 +1,2 @@
+Na osnovu člana 66 stav 8 Zakona o otvorenim investicionim fondovima sa javnom ponudom ("Službeni list Crne Gore", br. 23/25, 117/25 I 14/26) - (u daljem tekstu: Zakon), Komisija za tržište kapitala Crne Gore (u daljem tekstu: Komisija), na 174. sjednici od 5.3.2026. godine, donijela je
+PR AV IL A O PRENOŠENJU POSLOVA DRUŠTVA ZA UPRAVLJANJE OTVORENIM INVESTICIONIM FONDOM SA JAVNOM PONUDOM I SADRŽAJU UGOVORA O PRENOŠENJU POSLOVA
