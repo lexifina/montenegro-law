@@ -1,0 +1,2 @@
+Na osnovu člana 94 stav 6, člana 98 stav 5, člana 108 stav 9, člana 222 stav 6 i člana 227 stav 4 Zakona o otvorenim investicionim fondovima sa javnom ponudom ("Službeni list Crne Gore", br. 23/25 i 117/25) - (u daljem tekstu: Zakon), Komisija za tržište kapitala Crne Gore (u daljem tekstu: Komisija), na 174. sjednici od 5.3.2026. godine, donijela je
+PR A V I L A O UDJELIMA OTVORENIH INVESTICIONIH FONDOVA SA JAVNOM PONUDOM
