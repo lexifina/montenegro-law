@@ -1,0 +1,4 @@
+# Član 9
+U članu 16 stav 3 mijenja se i glasi:
+"Javne intervencije sprovode se za sljedeće poljoprivredne proizvode: običnu pšenicu, tvrdu (durum) pšenicu, ječam, kukuruz i svježe ili rashlađeno goveđe meso sa tarifnim oznakama od 0201 10 00 i 0201 20 20 do 0201 20 50, neoljušteni pirinač, maslac proizveden direktno i isključivo od pasterizovanog mlijeka, dobijenog direktno i isključivo od kravljeg mlijeka, u odobrenom objektu za preradu mlijeka i proizvodnju proizvoda od mlijeka u skladu, s masenim sadržajem masti od najmanje 82% i masenim udjelom vode od najviše 16%, kao i za obrano mlijeko u prahu najvećeg kvaliteta, dobijeno od kravljeg mlijeka u odobrenom objektu za preradu mlijeka i proizvodnju proizvoda od mlijeka, postupkom raspršivanja, koje sadrži najmanje 34,0% masenog udjela bjelančevina u bezmasnom suvom ekstraktu."
+U stavu 6 riječ "osigurava" zamjenjuje se riječju "obezbjeđuje".
