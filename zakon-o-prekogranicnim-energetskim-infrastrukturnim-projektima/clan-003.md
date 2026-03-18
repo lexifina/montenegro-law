@@ -1,0 +1,3 @@
+# Član 3
+## Projekti od posebnog značaja
+Projekti od posebnog značaja za Crnu Goru su projekti koji se nalaze na Listi projekata od interesa za Energetsku zajednicu i/ili na Listi projekata od uzajamnog interesa koji utiču na sveukupni razvoj Crne Gore, regionalno i međunarodno povezivanje i uticaj, energetsku sigurnost, tržišnu i sistemsku integraciju, konkurenciju i efikasno funkcionisanje tržišta električne energije, kao i ostvarenje energetskih i klimatskih ciljeva, uključujući ublažavanje klimatskih promjena i klimatsku neutralnost, radi postizanja energetskih i klimatskih ciljeva, kao i klimatske neutralnosti.

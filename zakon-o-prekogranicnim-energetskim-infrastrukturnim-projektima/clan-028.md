@@ -1,0 +1,12 @@
+# Član 28
+## Učešće javnosti
+Za projekte od interesa za Energetsku zajednicu i projekte od uzajamnog interesa koji se realizuju na teritoriji Crne Gore i jedne ili više ugovornih strana i/ili država članica sprovodi se javna rasprava, uz obezbjeđivanje transparentnosti, informisanja i učešća zainteresovane javnosti u svim fazama njihove pripreme, odobravanja i realizacije.
+Nosilac projekta je dužan da, u roku od tri mjeseca prije početka postupka donošenja odluka i izdavanja dozvola, izradi i dostavi Savjetu obavještenje o načinu sprovođenja javne rasprave.
+Savjet može da da odobrenje ili da zahtijeva izmjene ili dopune obavještenja iz stava 2 ovog člana u roku od tri mjeseca od prijema koncepta, vodeći računa o načinu učestvovanja javnosti prije početka postupka donošenja odluka i izdavanja dozvola.
+Nosilac projekta je dužan, u slučaju da namjerava značajno da izmijeni način sprovođenja javne rasprave obavijestiti Savjet.
+U slučaju iz stava 4 ovog člana Savjet može tražiti izmjene ili dopune obavještenja.
+Savjet sprovodi najmanje jednu javnu raspravu prije nego što nosilac projekta podnese Savjetu zahtjev i dokumentaciju iz člana 19 st. 2 i 4 ovog zakona.
+Javna rasprava iz stava 6 ovog člana ne utiče na bilo koju javnu raspravu koja se sprovodi nakon podnošenja zahtjeva i dokumentacije iz člana 19 st. 2 i 4 ovog zakona Savjetu.
+U toku trajanja javne rasprave zainteresovane strane se informišu o projektu u ranoj fazi, identifikaciji najprikladnije lokacije, trase ili tehnologije, uključujući razmatranje klimatskih rizika i mjera prilagođavanja klimatskim promjenama za projekat, sve uticaje i druga pitanja od značaja za realizaciju projekta.
+Za prekogranične projekte koji uključuju dvije ili više ugovorenih strana i/ili država članica, javne rasprave sprovedene u skladu sa stavom 6 ovog člana biće održane u svakoj od zainteresovanih ugovornih strana i/ili država članica, u trajanju od najviše dva mjeseca od dana početka prve javne rasprave.
+Za projekte koji mogu imati značajan prekogranični uticaj u jednoj ili više ugovornih strana i/ili država članica, a koji će vjerovatno imati značajan uticaj na životnu sredinu u drugoj ugovornoj strani i/ili državi članici, ili kada to zatraži ugovorna strana Ugovora o osnivanju Energetske zajednice i/ili država članica koja će biti značajno pogođena, i ako je primjenljiva Konvencija o procjeni uticaja na životnu sredinu u prekograničnom kontekstu, relevantne informacije biće dostupne nadležnim organima ugovornih strana i/ili državama članicama. V. PODSTICAJI I TROŠKOVI

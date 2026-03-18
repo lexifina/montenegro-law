@@ -1,0 +1,9 @@
+# Član 30
+## Troškovi i koristi
+Metodologija za sektorsku harmonizovanu analizu troškova i koristi energetskog sistema, koju su usvojili ENTSO za električnu energiju (u daljem tekstu: ENTSO-E) i ENTSO za gas (u daljem tekstu: ENTSOG) primjenjivaće se za projekte od interesa za Energetsku zajednicu i projekte od uzajamnog interesa koji spadaju u kategorije iz člana 12 stav 1 tačka 1 podtač. a, b, d i f i tačka 3 ovog zakona.
+Za projekte od interesa za Energetsku zajednicu i projekte od uzajamnog interesa koji spadaju u kategorije energetske infrastrukture iz člana 12 stav 1 tačka 1 podtač. c i e i tač. 2, 4 i 5 ovog zakona primjenjivaće se metodologije Evropske komisije.
+Agencija, u saradnji sa nadležnim nacionalnim regulatornim tijelima, unutar Regulatornog odbora Energetske zajednice, učestvuje u utvrđivanju i objavljivanju niza pokazatelja i odgovarajućih referentnih vrijednosti radi poređenja jediničnih investicionih troškova za uporedive infrastrukturne projekte za svaku od kategorija iz člana 11 ovog zakona.
+Nosilac projekta dužan je da dostavi tražene podatke Agenciji i Regulatornom odboru Energetske zajednice.
+Nosilac projekta može da koristi referentne vrijednosti koje je objavio Regulatorni odbor Energetske zajednice za analize troškova i koristi specifične za projekte.
+Agencija, ako je to moguće u kontekstu regionalne saradnje, u skladu sa zakonom kojim se uređuje način obavljanja energetskih djelatnosti, zajedno sa drugim nadležnim nacionalnim regulatornim tijelima, provjerava dosljednu primjenu kriterijuma i metodologije za analizu troškova i koristi i procjenjuje njihov prekogranični značaj u okviru svojih aktivnosti u grupi za projekte iz člana 8 stav 1 ovog zakona.
+Agencija, u saradnji sa nadležnim nacionalnim regulatornim tijelima, na zahtjev, dostavlja procjene iz stava 6 ovog člana nadležnoj grupi za projekte iz člana 8 stav 1 ovog zakona.

@@ -1,0 +1,20 @@
+# Član 33
+## Odluka Agencije o raspodjeli troškova
+Odlučujuči o zahtjevu iz člana 32 stav 2 ovog zakona, Agencija je nakon konsultacija sa nosiocima projekta dužna da sarađuje sa drugim nadležnim nacionalnim regulatornim tijelom kako bi donijela zajedničku koordinisanu odluku o raspodjeli efikasno nastalih investicionih troškova koje će snositi svaki operator sistema za projekat, kao i njihovom uključivanju u cijene za korišćenje sistema, nakon konsultacija s nosiocima projekta.
+Koordinisana odluka iz stava 1 ovog člana donosi se u roku od šest mjeseci od dana kada posljednji od nadležnih nacionalnih regulatornih tijela primi zahtjev za investiciju.
+Ako se na osnovu zajedničke analize Agencije i drugih nadležnih nacionalnih regulatornih tijela zaključi da projekat ili dio projekta ne pruža značajan neto benefit koristi u bilo kojoj ugovornoj strani i/ili državi članici Evropske unije, donosi se odluka o odbijanju zahtjeva za investiciju, u cjelosti ili djelimično.
+Prilikom donošenja odluke o raspodjeli efikasno nastalih investicionihih troškova, Agencija u saradnji sa drugim nadležnim nacionalnim regulatornim tijelima uzima u obzir stvarne ili procijenjene:
+1) prihode od zagušenja ili druge naknade;
+2) prihode iz kompenzacionog mehanizma između operatora prenosnih sistema, uspostavljenog u skladu sa zakonom kojim se uređuje prekogranična razmjena električne energije i prirodnog gasa.
+Raspodjela troškova sa prekograničnim uticajem uzima u obzir ekonomske, socijalne i ekološke troškove i koristi projekata u ugovornim stranama i/ili državama članicama Evropske unije, kao i potrebu za osiguravanjem stabilnog finansijskog okvira za razvoj projekata od interesa za Energetsku zajednicu i projekata od uzajamnog interesa uz minimalnu potrebu za finansijskom podrškom.
+Prilikom raspodjele troškova sa prekograničnim uticajem, Agencija u saradnji sa drugim nadležnim nacionalnim regulatornim tijelima, nakon konsultacija sa odgovarajućim OPS-ovima, nastoji postići međusobni dogovor zasnovan, ali ne ograničen, na informacijama iz člana 32 stav 3 tač. 1 i 2 ovog zakona.
+Prilikom raspodjele troškova iz stava 6 ovog člana uzimaju se u obzir svi relevantni zajednički scenariji uspostavljeni za planiranje razvoja mreže koje razvijaju ENTSO-E ili ENTSOG, kao i druge scenarije za planiranje razvoja mreže, koji omogućavajući robusnu analizu doprinosa projekata od interesa za Energetsku zajednicu i projekata od uzajamnog interesa u skladu sa energetskom politikom Evropske unije u vezi sa dekarbonizacijom, integracijom tržišta, konkurencijom, održivošću i sigurnošću snabdijevanja.
+Ako se prilikom raspodjele troškova koriste dodatni scenariji, isti moraju biti u skladu sa energetskim i klimatskim ciljevima Energetske zajednice za 2030. godinu i klimatskim ciljem neutralnosti do 2050. godine.
+Prilikom izrade koordinisane odluke iz stava 1 ovog člana, Agencija uzima u obzir smjernice o dobrim praksama za tretman investicionih zahtjeva koji uključuju i zahtjeve za alokaciju troškova sa prekograničnim uticajem koje donosi ACER.
+Agencija u saradnji sa drugim nadležnim nacionalnim regulatornim tijelima bez odlaganja obavještava Regulatorni odbor Energetske zajednice i Sekretarijat Energetske zajednice o odluci o raspodjeli troškova zajedno sa svim relevantnim informacijama u vezi s tom odlukom.
+Odluka o raspodjeli troškova sadrži detaljna obrazloženja za raspodjelu troškova između ugovornih strana, uključujući sljedeće:
+1) procjenu uticaja na svaku od uključenih ugovornih strana i/ili država članica Evropske unije, uključujući uticaj na cijene za korišćenje sistema;
+2) procjenu poslovnog plana iz člana 32 stav 3 tačka 2 ovog zakona;
+3) regionalne ili šire koristi za Energetsku zajednicu i/ili Evropsku uniju, kao što su sigurnost snabdijevanja, fleksibilnost sistema, solidarnost ili inovacije koje bi projekat mogao generisati;
+4) rezultate konsultacija sa relevantnim nosiocima projekta.
+Agencija je dužna da objavi odluku o raspodjeli troškova na svojoj internet stranici i u „Službenom listu Crne Gore”.

@@ -1,0 +1,7 @@
+# Član 35
+## Odluka o raspodjeli troškova od strane Regulatornog odbora Energetske zajednice ili ACER-a
+U slučaju da Agencija i druga nadležna nacionalna regulatorna tijela ne postignu sporazum o zahtjevu za investiciju u roku od šest mjeseci od dana kada je zahtjev primio posljednji od nadležnih nacionalnih regulatornih tijela, Agencija bez odlaganja obavještava Regulatorni odbor Energetske zajednice i Sekretarijat Energetske zajednice ako se radi o projektu od interesa za Energetsku zajednicu, odnosno ACER i Evropsku komisiju ako se radi o projektu od uzajamnog interesa.
+Agencija zajedno sa drugim nadležnim nacionalnim regulatornim tijelima može zajednički da podnese zahtjev za odluku po zahtjevu za investiciju iz stava 1 ovog člana, za projekte od interesa za Energetsku zajednicu Regulatornom odboru Energetske zajednice ili zahtjev za odluku po zahtjevu za investiciju iz stava 1 ovog člana o projektu od uzajamnog interesa ACER-u.
+Agencija i nosioci projekta su obavezni da sarađuju sa Regulatornim odborom Energetske zajednice ili ACER-om na njihov zahtjev kako bi pomogli u donošenju odluke.
+Nosilac projekta i Agencija dužni su da postupaju u skladu sa pojedinačnim odlukama koje su im upućene, kao i sa obavezujućim odlukama koje donose Regulatorni odbor Energetske zajednice ili ACER.
+Agencija je dužna da osigura usklađenost sa pojedinačnim odlukama koje su usvojili Regulatorni odbor Energetske zajednice ili ACER. VI. NADZOR

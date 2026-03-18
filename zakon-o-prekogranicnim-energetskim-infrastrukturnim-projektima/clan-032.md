@@ -1,0 +1,14 @@
+# Član 32
+## Zahtjev za raspodjelu troškova
+Za projekte od interesa za Energetsku zajednicu i projekte od uzajamnog interesa, za koje je donijeta odluka iz člana 33, odnosno člana 35 ovog zakona, nosilac projekta je obavezan da najmanje jednom godišnje do puštanja projekta u rad obavijesti Agenciju i druga nadležna nacionalna regulatorna tijela o napretku projekta, identifikaciji troškova i uticajima povezanim s njim.
+Ako je projekat od interesa za Energetsku zajednicu ili projekat od uzajamnog interesa spreman ili se procijeni da će biti spreman za početak faze izgradnje u narednih 36 mjeseci, nosilac projekta, nakon konsultacija sa operatorima prenosnog sistema iz ugovornih strana i/ili država članica koje ostvaruju značajan neto pozitivan uticaj od njega, podnosi zahtjev za investiciju.
+Zahtjev za investiciju iz stava 2 ovog člana uključuje zahtjev za prekograničnu raspodjelu troškova i podnosi se Agenciji i svim drugim nadležnim nacionalnim regulatornim tijelima, uz sljedeću prateću dokumentaciju:
+1) ažuriranu analizu troškova i koristi koja je specifična za projekat i izrađena u skladu sa metodologijom iz člana 30 st. 1 i 2 ovog zakona.
+2) poslovni plan koji procjenjuje finansijsku održivost projekta, uključujući odabrano rješenje za finansiranje, a za projekte od interesa za Energetsku zajednicu i/ili projekte od uzajamnog interesa iz kategorije energetske infrastrukture iz člana 12 stav 1 tačka 3 ovog zakona, rezultate tržišnog testiranja;
+3) ako se nosioci projekta slože, obrazloženi predlog za prekograničnu raspodjelu troškova.
+Prilikom pripreme zahtjeva iz stava 1 ovog člana, nosilac projekta dužan je da uzme u obzir preporuke za dobre prakse u tretmanu investicionih zahtjeva koje je usvojio Regulatorni odbor Energetske zajednice za projekat od interesa za Energetsku zajednicu, odnosno ACER za projekat od uzajamnog interesa.
+Analiza troškova i koristi iz stava 3 tačka 1 ovog člana mora uzeti u obzir koristi koje projekat donosi izvan granica ugovornih strana i/ili država članica Evropske unije na čijoj se teritoriji projekat nalazi, pri čemu se obavezno koriste najmanje zajednički scenariji koje su razvili ENTSO-E ili ENTSOG za planiranje razvoja mreže.
+Ako se za analizu troškova i koristi iz stava 3 tačka 1 ovog člana koriste dodatni scenariji, oni moraju biti usklađeni sa energetskim i klimatskim ciljevima Energetske zajednice za 2030. godinu, kao i ciljem postizanja klimatske neutralnosti do 2050. godine.
+Ako projekat vodi više nosilaca, ti nosioci su dužni da zajednički podnesu zahtjev za investiciju.
+Agencija je dužna da, po prijemu, bez odlaganja dostavi kopiju svakog zahtjeva za raspodjelu troškova Regulatornom odboru Energetske zajednice i Sekretarijatu Energetske zajednice radi informisanja.
+Agencija je dužna, na zahtjev grupa, da čuva povjerljivost komercijalno osjetljivih informacija.
