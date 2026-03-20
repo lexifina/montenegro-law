@@ -1,0 +1,4 @@
+# Član 3
+## Prenosivost i raspoloživost regulatornog kapitala
+(1) Regulatorni kapital priznat za kreditnu instituciju, a koji prelazi iznos potreban za ispunjavanje zahtjeva solventnosti iz člana 7 ove odluke, ne uključuju se u obračun regulatornog kapitala finansijskog konglomerata, ni u zbir regulatornog kapitala pojedinačnih subjekata u okviru tog finansijskog konglomerata, osim ako ne postoje pravne, regulatorne ili praktične prepreke za njegov prenos između subjekata u finansijskom konglomeratu.
+(2) Kreditna institucija odgovorna za obračunavanje dodatnih kapitalnih zahtjeva dužna je da, prilikom dostavljanja rezultata obračuna i pratećih podataka Centralnoj banci Crne Gore (u daljem tekstu: Centralna banka) kao nadležnom koordinatoru, potvrdi i dokumentuje usklađenost sa stavom 1 ovog člana.

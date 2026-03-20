@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list CG", br. 40/10, 6/13, 70/17 i 125/23) i člana 39 stav 1 Zakona o finansijskim konglomeratima ("Službeni list CG", br. 24/25 i 14/26), Savjet Centralne banke Crne Gore, na sjednici održanoj 27. februara 2026. godine, donio je
+O D L U K U O NAČINU OBRAČUNAVANJA ADEKVATNOSTI KAPITALA NA NIVOU FINANSIJSKOG KONGLOMERATA
