@@ -1,0 +1,10 @@
+# Član 1
+U Pravilniku o monitoringu rezidua u životinjama i proizvodima životinjskog porijekla ("Službeni list CG", broj 125/25) poslije člana 15 dodaje se novi član koji glasi:
+"Referentne vrijednosti za preduzimanje mjera
+Član 15a
+Hrana životinjskog porijekla koja sadrži ostatke farmakološki aktivne supstance u koncentraciji jednakoj ili većoj od referentne vrijednosti za preduzimanje mjera (RPA), u skladu sa propisom kojim se uređuju metode kontrole rezidua u životinjama i proizvodima životinjskog porijekla smatra se neusklađenom i ne može ući u lanac ishrane.
+Hrana životinjskog porijekla koja sadrži ostatke farmakološki aktivne supstance u koncentraciji ispod referentne vrijednosti za preduzimanje mjera (RPA), u skladu sa propisom kojim se uređuju metode kontrole rezidua u životinjama i proizvodima životinjskog porijekla može ući u lanac ishrane.
+Kada rezultati službenih kontrola, uključujući analitička ispitivanja, utvrde prisustvo ostataka zabranjenih ili neodobrenih supstanci na nivoima iznad, jednakim ili ispod referentne vrijednosti za preduzimanje mjera (RPA), u skladu sa propisom kojim se uređuju metode kontrole rezidua u životinjama i proizvodima životinjskog porijekla, službeni veterinar sprovodi istragu i mjere u skladu sa ovim pravilnikom, kako bi se utvrdilo da li je došlo do nezakonitog tretmana zabranjenom ili neodobrenom farmakološki aktivnom supstancom.
+U slučaju utvrđene neusklađenosti, službeni veterinar preduzima jednu ili više mjera utvrđenih ovim pravilnikom i propisima kojima su regulisane službene kontrole.
+Uprava vodi evidenciju o nalazima.
+Kada rezultati službenih kontrola, uključujući analitička ispitivanja hrane životinjskog porijekla od istog subjekta u poslovanju hranom, pokažu ponavljajući obrazac koji ukazuje na sumnju u neusklađenost povezanu sa jednom ili više zabranjenih ili neodobrenih supstanci određenog porijekla, Uprava obavještava Evropsku komisiju i druge države članice u okviru Stalnog komiteta za biljke, životinje, hranu i hranu za životinje."
