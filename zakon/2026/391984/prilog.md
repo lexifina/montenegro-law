@@ -1,0 +1,1 @@
+* U ovaj zakon prenesena je Direktiva 2010/53/EZ Evropskog parlamenta i Savjeta od 7. jula 2010. godine o standardima kvaliteta i bezbjednosti ljudskih organa namijenjenih presađivanju i implementaciona Direktiva Komisije 2012/25/EU od 9. oktobra 2012. godine o utvrđivanju postupaka obavještavanja za razmjenu, između država članica, ljudskih organa namijenjenih presađivanju.
