@@ -1,0 +1,9 @@
+# Član 8
+## raćenje količina i uskla enosti obnovljivih goriva u sektoru saobraćaja
+(1) raćenje količine energije iz obnovljivih izvora koje obveznik stavlja na tržište za potrebe sektora saobraćaja vrši Ministarstvo na osnovu izvještaja i usaglašenosti broja RTF sertifikata koje obveznik posjeduje u evidenciji obveznika, na dan isteka roka za podnošenje izvještaja.
+(2) Finalna potrošnja energije iz obnovljivih izvora u sektoru saobraćaja izračunava se kao zbir svih biogoriva, goriva iz biomase i obnovljivih tečnih i gasovitih goriva nebiološkog porijekla namijenjenih upotrebi u saobraćaju koja su potrošena u sektoru saobraćaja.
+(3) Metodologija za izračunavanje ispunjenosti obaveze obveznika data je u rilogu 2.
+(4) Obveznik je ispunio svoju obavezu stavljanja na tržište energije iz obnovljivih izvora u sektoru saobraćaju ako je energija iz obnovljivih izvora (E"OBV ) utvrđena u skladu sa Prilogom 2 ove uredbe, jednak ili veći od energetske vrijednosti energije iz obnovljivih izvora (EOBV) utvrđene u skladu sa Prilogom 1 ove uredbe.
+(5) Ako obveznik u toku jedne kalendarske godine stekne više RTF sertifikata nego što mu je dovoljno za ispunjenje obaveze iz stava 3 ovog člana, obveznik može prenijeti u narednu kalendarsku godinu svaki RTF sertifikata koji nije iskorišćen i koji nije opzvan, u skladu sa članom 7 stav 15 ove uredbe, i može koristiti te RTF sertifikate za ispunjenje svoje obaveze u narednoj kalendarskoj godini.
+(6) Ako obveznik nije ispunio obavezu stavljanja na tržište energije iz obnovljivih izvora u saobraćaju tokom jedne kalendarske godine, obveznik može obavezu prenijeti u narednu kaledarsku godinu.
+(7) Ako Ministarstvo utvrdi da obveznik nije ispunio obaveze iz stava 4 ovog člana ni u toku naredne kalendarske godine, Ministarstvo će donijeti rješenje kojim se utvrđuje energetska vrijednost goriva iz obnovljivih izvora koju obveznik nije stavio na tržište tokom prethodne godine.
