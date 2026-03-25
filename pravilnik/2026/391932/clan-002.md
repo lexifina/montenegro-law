@@ -1,0 +1,8 @@
+# Član 2
+## Značenje izraza
+Izrazi upotrijebljeni u ovom pravilniku imaju sljedeće značenje:
+1) određeno bilje je bilje za sadnju, čiji prečnik stabla ili korijenovog vrata na najdebljem dijelu iznosi 1 cm ili više, vrsta Acer spp., Aesculus spp., Alnus spp., Betula spp., Carpinus spp., Citrus spp., Cornus spp., Corylus spp., Cotoneaster spp., Crataegus spp., Fagus spp., Lagerstroemia spp., Malus spp., Melia spp., Ostrya spp., Photinia spp., Platanus spp., Populus spp., Prunus laurocerasus, Pyrus spp., Rosa spp., Salix spp., Ulmus spp. i Vaccinium corymbosum;
+2) mjesto proizvodnje je prostor (premises) ili skup polja koji funkcionišu kao jedinstvena proizvodna ili poljoprivredna jedinica, a može uključivati i proizvodna mjesta kojima se upravlja kao zasebnim jedinicama u fitosanitarne svrhe (Međunarodni standard za fitosanitarne mjere ISPM 5);
+3) biljke domaćini su biljke za sadnju, čiji prečnik stabla ili korijenovog vrata na najdebljem dijelu iznosi 1 cm ili više, vrsta Acer spp., Aesculus spp., Alnus spp., Betula spp., Carpinus spp., Chaenomeles spp., Citrus spp., Cornus spp., Corylus spp., Cotoneaster spp., Crataegus spp., Cryptomeria spp., Fagus spp., Ficus spp., Hibiscus spp., Lagerstroemia spp., Malus spp., Melia spp., Morus spp., Ostrya spp., Parrotia spp., Photinia spp., Platanus spp., Populus spp., Prunus laurocerasus, Pyrus spp., Rosa spp., Salix spp., Ulmus spp. i Vaccinium corymbosum;
+4) kontrolno bilje (sentinel plants) je određeno bilje posađeno za potrebe posebnog nadzora radi ranog otkrivanja štetnog organizma;
+5) obilježeno područje (demarcated area for containment) je područje na kojem se štetni organizam ne može iskorijeniti.
