@@ -1,0 +1,4 @@
+Na osnovu člana 8 stav 2 Zakona o metrologiji ("Službeni list CG", broj 79/08), Ministarstvo ekonomskog razvoja donijelo je
+PR A V I L N IK
+O TEHNIČKIM I METROLOŠKIM USLOVIMA I POSTUPKU OVLAŠĆIVANJA LICA ZA PRIPREMU MJERILA ZA ISPITIVANJE TEHNIČKE ISPRAVNOSTI MOTORNIH I
+PRIKLJUČNIH VOZILA ZA OVJERAVANJE
