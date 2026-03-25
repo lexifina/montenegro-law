@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tačka 3, člana 91 stav 1 i člana 109 Ustava Crne Gore i čl. 2 i 3 Zakona o parlamentarnoj istrazi ("Službeni list Crne Gore", broj 38/12) Skupština Crne Gore 28. saziva, na Četvrtoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2026. godini, dana 24. marta 2026. godine, donijela je
+O D L U K U O IZMJENAMA ODLUKE O OTVARANJU PARLAMENTARNE ISTRAGE I FORMIRANJU ANKETNOG ODBORA RADI PRIKUPLJANJA INFORMACIJA I ČINJENICA O POSTUPANJIMA DRŽAVNIH ORGANA I DRUGIH SUBJEKATA U SLUČAJU DODJELE KONCESIJE ZA VJETROELEKTRANU MOŽURA

@@ -1,0 +1,2 @@
+# Član 1
+U Odluci o otvaranju parlamentarne istrage i formiranju Anketnog odbora radi prikupljanja informacija i činjenica o postupanjima državnih organa i drugih subjekata u slučaju dodjele koncesije za vjetrolektranu Možura ("Službeni list Crne Gore", broj 165/25), u nazivu Odluke i u članu 1 stav 1 riječi: "u slučaju dodjele koncesije za vjetrolektranu Možura" zamjenjuju se riječima: "prilikom izgradnje vjetroelektrane na lokalitetu Možura".
