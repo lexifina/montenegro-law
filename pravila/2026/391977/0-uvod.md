@@ -1,0 +1,2 @@
+Na osnovu čl. 158 stav 5, 162 stav 5, 176 stav 5 I 178 stav 2 Zakona o otvorenim investicionim fondovima sa javnom ponudom ("Službeni list Crne Gore", br. 23/25, 117/25 i 14/26) - (u daljem tekstu: Zakon), Komisija za tržište kapitala Crne Gore (u daljem tekstu: Komisija), na 175. sjednici od 16. 3 .2026. godine, donijela je
+PR AV I L A O IZMJENAMA I DOPUNAMA PRAVILA O BLIŽEM SADRŽAJU, ROKOVIMA DOSTAVLJANJA MJESEČNOG, POLUGODIŠNJEG I GODIŠNJEG IZVJEŠTAJA OTVORENIH INVESTICIONIH FONDOVA SA JAVNOM PONUDOM
