@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se bliži kriterijumi, visina i uslovi za dodjelu stipendije talentovanom učeniku osnovne i srednje škole koji iz pojedinih nastavnih predmeta, odnosno oblasti pokazuje naročiti smisao, interes, radoznalost i sposobnost za misaone i stvaralačke procese i postiže izvanredne rezultate, a ima opšti uspjeh najmanje vrlo dobar (u daljem tekstu: talentovani učenik), kao i stipendije za deficitarne kvalifikacije redovnom učeniku stručne škole koji se obrazuje po obrazovnom programu za deficitarne kvalifikacije, a ima opšti uspjeh najmanje dobar.
