@@ -1,0 +1,1 @@
+*Ovaj zakon usaglašen je sa odredbama Direktive (EU) 2019/1151 Evropskog parlamenta i Savjeta od 20. juna 2019. godine o izmjeni Direktive (EU) 2017/1132 u pogledu upotrebe digitalnih alata i postupaka u okviru privrednog prava
