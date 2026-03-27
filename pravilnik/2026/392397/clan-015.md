@@ -1,0 +1,6 @@
+# Član 15
+## Uslovi i kriterijumi za ostvarivanje prava studenta na smještaj i ishranu u domu
+Smještaj i ishrana u domu odobravaju se studentu koji studira van mjesta prebivališta na ustanovi visokog obrazovanja i koji je upisao semestar odgovarajuće godine studija. Ostvarivanje prava iz stava 1 ovog člana, može se koristiti jednom za određenu godinu studija i nivo obrazovanja, i vrši se na osnovu sljedećih kriterijuma:
+1) srednje ocjene posljednja dva razreda srednje škole, diplome "Luča" ili njoj ekvivalentne diplome i položenog maturskog ili stručnog ispita, za studenta koji je upisao prvu godinu studija;
+2) srednje ocjene u prethodnoj godini studija, za studenta druge i narednih godina studija; 3) srednje ocjene sa osnovnih studija obima 180 ili 240 ECTS za studenta koji je upisao prvu godinu postdiplomskih studija obima 60 ili 120 ECTS; i 4) srednje ocjene sa postdiplomskih specijalističkih studija obima 60 ECTS za studenta koji je upisao prvu godinu postdiplomskih master studija obima 60 ili 120 ECTS.
+Dom, u okviru svojih smještajnih kapaciteta, namjenski opredjeljuje do 7% kapaciteta za smještaj studenata sa invaliditetom, studenata RE populacije, studenata bez jednog ili oba roditelja i studenata korisnika materijalnog obezbjeđenja u skladu sa zakonom kojim se uređuje socijalna i dječja zaštita.
