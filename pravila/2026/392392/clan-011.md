@@ -1,0 +1,5 @@
+# Član 11
+## Završne odredbe
+(1) Smatra se da je društvo za upravljanje ispunilo obavezu dostavljanja podataka u skladu sa ovim Pravilima u trenutku kada su podaci i dokumentacija zabilježeni na servisu Komisije za slanje dokumentacije u elektronskom obliku.
+(2) U slučaju tehničke nemogućnosti dostavljanja podataka ili dostavljanje nije pravilno izvršeno (npr. kvar na sistemu, nemogućnost učitavanja primljene dokumentacije i sl.) na način propisan članom 8 i članom 9 stav 3 ovih Pravila, društvo za upravljanje je dužno da podatke i dokumentaciju dostavi u papirnoj formi, u cilju blagovremenog dostavljanja, a čim prestanu razlozi nemogućnosti dostavljanja u skladu sa članom 8 i članom 9 stav 3 ovih Pravila, najkasnije u roku od 8 dana od prestanka okolnosti koje su prozrokovale tehničku nemogućnost takvog dostavljanja, isto izvrši.
+(3) Nezavisno od dostavljanja u elektronskom obliku, društvo za upravljanje dužno je da na zahtjev Komisije dostavi dokumentaciju u izvorniku ili ovjerenoj kopiji.
