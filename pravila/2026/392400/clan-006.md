@@ -1,0 +1,6 @@
+# Član 6
+## Opšti fiksni troškovi
+(1) Opšti fiksni troškovi obuhvataju rashode neophodne za kontinuirano obavljanje djelatnosti DZUAIF-a, uključujući troškove zaposlenih, administrativne troškove, troškove informatičke infrastrukture i druge stalne operativne rashode, umanjene za stavke koje nemaju stalni karakter (bonusi i ostali dodaci za zaposlene, udjeli zaposlenih u neto dobiti druge diskrecione isplate dobiti i varijabilni dodaci, naknade za trgovanje, jednokratni rashodi od neuobičajenih aktivnosti, poreski rashodi i gubici od trgovanja finansijskim instrumentima za sopstveni račun).
+(2) Ako DZUAIF u prethodnoj poslovnoj godini nije poslovalo tokom cijelog obračunskog perioda ili je došlo do značajnih promjena u obimu ili vrsti djelatnosti, zahtjev po osnovu opštih fiksnih troškova izračunava se na osnovu procijenjenih godišnjih opštih fiksnih troškova.
+(5) DZUAIF dužno je da dokumentuje metodologiju utvrđivanja opštih fiksnih troškova i da je, na zahtjev Komisije, učini dostupnom radi provjere.
+(6) Komisija može naložiti DZUAIF-u da prilagodi obračun zahtjeva po osnovu opštih fiksnih troškova ako utvrdi da korišćena metodologija ne odražava stvarni profil rizika ili strukturu troškova DZUAIF-a.
