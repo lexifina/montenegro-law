@@ -1,0 +1,12 @@
+# Član 78
+## Pošiljke za čije je premještanje unutar područja Crne Gore potreban biljni pasoš
+(1) Pošiljka bilja sa Liste bilja, biljnih proizvoda i drugih objekata za čije je premještanje unutar područja Crne Gore potreban biljni pasoš koja je namijenjena premještanju, ambalaža u kojoj je pakovana, a po potrebi i prevozna sredstva u kojima se prevozi, podliježe fitosanitarnom pregledu u cjelini ili na osnovu reprezentativnog uzorka, radi provjere prisustva štetnih organizma sa liste štetnih organizama čije se unošenje i širenje zabranjuje odnosno liste karantinski štetnih organizama, a ako se unose u određene zaštićene zone i štetnih organizama sa liste karantinski štetnih organizama za određene zaštićene zone radi provjere:
+1) da li bilje i biljni proizvodi, sadrže određene štetne organizme navedene u toj listi, a ako
+se unose u određene zaštićene zone i štetne organizme sa Liste štetnih organizama čije se
+unošenje i širenje zabranjuje u određene zaštićene zone odnosno liste zaštićenih zona i
+odgovarajućih karantinski štetnih organizama zaštićenih zona;
+2) da li pošiljka bilja sa Liste bilja, biljnih proizvoda i drugih objekata porijeklom iz Crne
+Gore i odgovarajući posebni zahtjevi za njihovo premještanje, ispunjava posebne zahtjeve
+navedene u toj listi, a ako se unosi u određene zaštićene zone i posebne zahtjeve sa Liste bilja,
+biljnih proizvoda i drugih objekata koji se unose u zaštićene zone ili premještaju unutar njih i
+odgovarajući posebni zahtjevi za zaštićene zone. (2) Fitosanitarnom pregledu iz stava 1 ovog člana podliježe određeno bilje i biljni proizvodi, uključujući i supstrat za uzgoj bilja, koje se uzgaja, proizvodi, koristi ili su na drugi način prisutni na posjedu proizvođača ili u zbirnim skladištima i distributivnim centrima na proizvodnom području. (3) Fitosanitarni pregled iz stava 1 ovog člana mora se obavljati redovno, u odgovarajuće vrijeme, i to najmanje jednom godišnje i najmanje vizuelno. (4) Ako se na osnovu fitosanitarnog pregleda utvrdi da postoji rizik od širenja štetnih organizama pošiljkom bilja ili da nijesu ispunjeni propisani uslovi za njeno premještanje, fitosanitarni inspektor će, u skladu sa članom 19 stav 1 ovog zakona, narediti jednu ili više mjera: odgovarajuće tretiranje; premještanje, pod službenim nadzorom, u područja gdje neće prouzrokovati dodatne rizike i premještanje, pod službenim nadzorom, do pogona za industrijsku preradu, odnosno uništenje. (5) Način obavljanja fitosanitarnog pregleda i uslove za primjenjivanje mjera iz stava 4 ovog člana propisuje Ministarstvo.

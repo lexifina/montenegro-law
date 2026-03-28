@@ -1,0 +1,3 @@
+# Član 116
+## Sprovođenje i planiranje službenih kontrola
+(1) Službene kontrole vrše se: pregledom, monitoringom, provjerom, revizijom i uzorkovanjem radi laboratorijskih ispitivanja i inspekcijskim nadzorom. (2) Službene kontrole i druge aktivnosti nad sprovođenjem ovog zakona koje se odnose na monitoring, provjeru ispunjavanja uslova propisanih ovim zakonom, reviziju i po potrebi uzorkovanje radi laboratorijskog ispitivanja vrši Uprava. (3) Službene kontrole iz st. 1 i 2 ovog člana u skladu sa ovim zakonom vrše se na osnovu višegodišnjih i godišnjih planova kontrole. (4) Višegodišnji plan iz stava 3 ovog člana donosi Ministarstvo. (5) Godišnje planove službenih kontrola donosi Uprava.

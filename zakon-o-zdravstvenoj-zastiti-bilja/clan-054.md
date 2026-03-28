@@ -1,0 +1,3 @@
+# Član 54
+## Premještanje bilja, biljnih proizvoda i drugih objekata unutar i između prostora profesionalnog subjekta
+(1) Profesionalni subjekti koji isporučuju drugima ili kojima drugi isporučuju bilje, biljne proizvode ili druge objekte dužni su da uspostave sisteme ili postupke sljedivosti koji im omogućavaju da identifikuju premještanje tog bilja, biljnih proizvoda i drugih objekata unutar i između svojih prostora. (2) Stav 1 ovog člana ne primjenjuje se na profesionalne subjekte iz člana 53 stav 1 al. 1 i 2 ovog zakona. (3) Informacije o premještanju iz stava 1 ovog člana, bilja, biljnih proizvoda i drugih objekata unutar i između prostora profesionalnih subjekata dostavljaju se na zahtjev Upravi. IV. UVOZ, IZVOZ I TRANZIT POŠILJKI BILJA

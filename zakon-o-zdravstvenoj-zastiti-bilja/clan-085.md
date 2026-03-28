@@ -1,0 +1,3 @@
+# Član 85
+## Bilje, biljni proizvodi i drugi objekti za čije je unošenje u zaštićene zone i premještanje unutar njih potreban biljni pasoš
+(1) Biljni pasoši potrebni su za premještanje određenog bilja, biljnih proizvoda i drugih objekata koji se unose u zaštićene zone ili se premještaju unutar njih. (2) Listu bilja, biljnih proizvoda i drugih objekata iz stava 1 ovog člana propisuje Ministarstvo. (3) Ako postoji rizik da bilje, biljne proizvode ili druge objekte koji nijesu uvršteni na Listu iz stava 2 ovog člana, bude domaćin karantinski štetnog organizma ili ako taj rizik više ne postoji za bilje, biljne proizvoe ili druge objekte uvrštene na listu, Lista iz stava 1 ovog člana se ažurira u skladu sa načelima iz člana 74 stav 4 ovog zakona.

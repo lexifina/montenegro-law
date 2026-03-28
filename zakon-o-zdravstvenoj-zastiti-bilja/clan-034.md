@@ -1,0 +1,3 @@
+# Član 34
+## Nadzori karantinskih štetnih organizama zaštićene zone
+(1) U zaštićenoj zoni, Uprava sprovodi godišnje nadzore u skladu sa članom 7 stav 8 ovog zakona, radi utvrđivanja mogućeg prisustva karantinskih štetnih organizama zaštićene zone zbog kojih je područje proglašeno zaštićenim. (2) Detaljna pravila o načinu sprovođenja i sadržaju nadzora unutar granica zaštićenih zona iz stava 1 ovog člana propisuje Ministarstvo. (3) Uprava obavještava Evropsku komisiju i države članice, najkasnije do 30. aprila tekuće godine za prethodnu godine, o rezultatima pregleda iz stava 1 ovog člana sprovedenih u prethodnoj kalendarskoj godini.

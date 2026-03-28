@@ -1,0 +1,3 @@
+# Član 72
+## Drugo bilje za koje je potreban fitosanitarni sertifikat
+(1) Listu bilja sa odgovarajućim carinskim oznakama, ako su dostupne, osim bilja uvrštenog na Listu iz člana 71 stav 4 ovog zakona, za koje je potreban fitosanitarni sertifikat za unošenje na teritoriju Crne Gore propisuje Ministarstvo. (2) Izuzetno od stava 1 ovog člana fitosanitarni sertifikat nije potreban za to bilje kada procjena zasnovana na dokazima o rizicima od štetnih organizama i iskustvu u vezi sa trgovinom dokazuje da takav sertifikat nije potreban. (3) Procjena iz stava 2 ovog člana može se odnositi samo na bilje određene druge države ili grupe država porijekla ili otpremanja.

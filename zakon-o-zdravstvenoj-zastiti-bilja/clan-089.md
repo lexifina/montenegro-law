@@ -1,0 +1,3 @@
+# Član 89
+## Biljni pasoš koje izdaju ovlašćeni profesionalni subjekti i Uprava
+(1) Biljne pasoše izdaju ovlašćeni profesionalni subjekti pod nadzorom Uprave. (2) Ovlašćeni subjekti iz stava 1 ovog člana izdaju biljne pasoše samo za bilje, biljne proizvode ili druge objekte za koje su odgovorni. (3) Izuzetno od stava 1 ovog člana, biljne pasoše može izdavati i Uprava. (4) Ovlašćeni subjekti izdaju biljne pasoše samo u prostorima, zbirnim skladištima i otpremnim centrima koji su pod njihovom odgovornošću i koje su prijavili na mjestu proizvodnje u skladu sa članom 49 stav 1 tačka 5 ili kada se primjenjuje član 80 stav 1 ovog zakona, na drugoj lokaciji, koje je odobrila Uprava.

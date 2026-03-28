@@ -1,0 +1,7 @@
+# Član 109
+## Vršioci javnih poslova i ovlašćenja
+(1) Javne poslove iz člana 108 tač. 1 do 4 i tač. 6 do 15 ovog zakona vrše ovlašćene ustanove. (2) Javne poslove iz člana 108 tač. 16, 17 i 18 ovog zakona vrše pružaoci usluga. (3) Izuzetno od stava 2 ovog člana javne poslove iz člana 108 tačka 16 ovog zakona, u slučaju naređenih mjera mogu nad sopstvenim biljem pod nadzorom fitosanitarnog inspektora da vrše:
+- lica upisana u Registar;
+- javne komunalne službe registrovane u skladu sa zakonom kojim su uređena sredstva za
+zaštitu bilja i
+- fizička lica. (4) Laboratorijska ispitivanja iz člana 108 tačka 5 ovog zakona mogu vršiti ovlašćene laboratorije, odnosno ovlašćene ustanove koje imaju odgovarajuću laboratoriju. (5) Ovlašćenje za vršenje javnih poslova ovlašćenim ustanovama i pružaocima usluga daje se neposredno, rješenjem Uprave. (6) Međusobna prava i obaveze iz stava 5 ovog člana uređuju se ugovorom. (7) Javni poslovi iz st. 1 i 2 ovog člana, koji se odnose na zaštitu bilja u šumarstvu, ustupaju se na vršenje ovlašćenim ustanovama, pravnim i fizičkim licima iz oblasti šumarstva, u skladu sa ovim zakonom. (8) Ovlašćene ustanove i pružaoci usluga prilikom utvrđivanja rezultata laboratorijskih analiza moraju osigurati nepristrasnost, kvalitet i povjerljivost informacija i ne smiju imati konflikt interesa. (9) Uprava za potvrdu rezultata laboratorijskih analiza (superanaliza) može ovlastiti laboratoriju ili ustanovu iz druge države, pod uslovom da je ovlašćena od strane nadležnog organa za zdravstvenu zaštitu bilja te države.

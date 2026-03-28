@@ -1,0 +1,3 @@
+# Član 130
+## Delegiranje određenih zadataka
+(1) Ovlašćenje za određene zadatke službenih kontrola od strane nadležnog organa u oblasti iz člana 118 ovog zakona. (2) Uprava može za određene zadatke službenih kontrola ovlastiti jedno ili više pravnih ili fizičkih lica u skladu sa uslovima iz čl. 150 i 151 ovog zakona. (3) Uprava osigurava da ovlašćena lica iz stava 1 ovog člana imaju ovlašćenja potrebna za efikasno obavljanje službenih kontrola. (4) Kada Uprava odluči o ovlašćenju za određene zadatke službenih kontrola, svakom delegiranom tijelu dodjeljuje brojčanu oznaku i određuje relevantna tijela odgovorna za odobravanje delegiranih tijela i nadzor nad njima.

@@ -1,0 +1,3 @@
+# Član 84
+## Bilje, biljni proizvodi i drugi objekti za čije je premještanje na teritoriji Crne Gore potreban biljni pasoš
+(1) Biljni pasoš je službena oznaka (etiketa) koja se zahtjeva prilikom premještanje određenog bilja, biljnih proizvoda i drugih objekata na teritoriji Crne Gore. (2) Listu bilja, biljnih proizvoda i drugih objekata iz stava 1 ovog člana i njen sadržaj propisuje Ministarstvo. (3) Ako postoji rizik da bilje, biljne proizvode ili druge objekte koji nijesu uvršteni na Listu iz stava 2 ovog člana, bude domaćin karantinski štetnog organizma ili ako taj rizik više ne postoji za bilje, biljne proizvoe ili druge objeke uvrštene na listu, Lista iz stava 1 ovog člana se ažurira u skladu sa načelima iz člana 74 stav 4 ovog zakona.
