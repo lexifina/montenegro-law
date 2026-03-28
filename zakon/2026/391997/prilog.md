@@ -1,0 +1,1 @@
+*U ovaj zakon je prenešena Regulativa (EU) 2019/515 Evropskog parlamenta i savjeta od 19. marta 2019. o uzajamnom priznavanju robe koja se zakonito stavlja na tržište u drugoj državi članici i stavljanju izvan snage Uredbe (EZ) br. 764/2008.
