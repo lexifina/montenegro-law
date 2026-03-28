@@ -1,0 +1,2 @@
+Na osnovu člana 165 stav 5 Zakona o zaštiti od jonizujućih zračenja, radijacionoj i nuklearnoj sigurnosti i bezbjednosti ("Službeni list Crne Gore", broj 49/24), Ministarstvo ekologije, održivog razvoja i razvoja sjevera, uz saglasnost organa Ministarstva unutrašnjih poslova, donosi
+P R A V IL N IK O SADRŽAJU PLANA BEZBJEDNOSTI ZA UVOZ, IZVOZ, TRANZIT I/ILI PREVOZ RADIOAKTIVNIH I/ILI NUKLEARNIH MATERIJALA
