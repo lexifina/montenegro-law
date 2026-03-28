@@ -1,0 +1,2 @@
+# Član 1
+Ovim zakonom uređuju se pravila postupka na osnovu kojeg fizičko ili pravno lice koje je navodno pretrpjelo štetu prouzrokovanu povredom konkurencije na tržištu od strane učesnika na tržištu ili udruženja učesnika na tržištu ili lice koje djeluje u ime jednog ili više navodno oštećenih lica ili nasljednik, odnosno pravni sljedbenik navodno oštećenog lica može da ostvari pravo na potpunu naknadu štete pred nadležnim sudom (u daljem tekstu: postupak za naknadu štete).

@@ -1,0 +1,5 @@
+# Član 9
+## Ograničenje korišćenja dokaza pribavljenih iz spisa predmeta Agencije
+Do okončanja postupka donošenjem odluke Agencije ili na drugi način, dokazi iz člana 7 stav 2 ovog zakona, koje je fizičko ili pravno lice pribavilo isključivo uvidom u spise predmeta Agencije smatraju se ili nedozvoljenim dokazima u postupku za naknadu štete ili dokazima koji su zaštićeni u skladu sa propisima kojima je uređena tajnost podataka i zaštita podataka o ličnosti.
+Dokazi iz člana 8 st. 1 i 2 ovog zakona koje je fizičko ili pravno lice pribavilo isključivo uvidom u spise predmeta Agencije smatraju se ili nedozvoljenim dokazima u postupku naknade štete ili dokazima koji su na drugi način zaštićeni u skladu sa propisima kojima je uređena tajnost podataka i zaštita podataka o ličnosti.
+Dokaze iz spisa predmeta Agencije koje je fizičko ili pravno lice pribavilo isključivo uvidom, a koji nijesu obuhvaćeni st. 1 ili 2 ovog člana, u postupku za naknadu štete može koristiti samo to lice, odnosno njegov pravni sljedbenik.

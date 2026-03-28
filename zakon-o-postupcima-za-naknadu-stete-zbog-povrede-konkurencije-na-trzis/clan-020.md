@@ -1,0 +1,6 @@
+# Član 20
+## Dejstvo sporazumnog poravnanja na buduće postupke za naknadu štete
+Ako oštećeni zaključi sporazum o poravnanju sa jednim ili više prekršilaca, ukupan iznos zahtjeva za naknadu štete tog oštećenog umanjuje se za dio štete koji su ti prekršioci prouzrokovali povredom konkurencije na tržištu oštećenom, a preostali dio zahtjeva za naknadu štete oštećeni ostvaruje od prekršilaca koji nijesu učestvovali u sporazumnom poravnanju.
+Prekršioci koji ne učestvuju u sporazumnom poravnanju nemaju pravo da od prekršioca koji je zaključio sporazum o poravnanju zahtijevaju regres.
+Izuzetno od stava 2 ovog člana, ako prekršioci koji nijesu učestvovali u sporazumnom poravnanju ne mogu da izmire dio naknade štete koji odgovara njihovom udjelu u prouzrokovanoj šteti, oštećeni može zahtijevati preostali dio zahtjeva za naknadu štete od prekršioca koji je učestvovao u sporazumnom poravnanju, osim ako sporazumom o poravnanju nije drugačije određeno.
+Prilikom određivanja iznosa regresa koji prekršilac može zahtijevati od drugog prekršioca srazmjerno njegovom udjelu u šteti prouzrokovanoj povredom konkurencije, nadležni sud uzeće u obzir sve naknade štete koje je taj prekršilac isplatio na osnovu sporazuma o poravnanju.
