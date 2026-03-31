@@ -1,0 +1,2 @@
+# Član 20
+Ako podatke iz člana 8 ovog zakona nije moguće pribaviti na način iz čl. 12, 13, 14 i člana 15 stav 1 tač. 1, 2, 3 i 5 ovog zakona ili bi prikupljanje podataka na taj način zahtijevalo nesrazmjerni rizik ili ugrožavanje života i zdravlja ljudi, Agencija može, na osnovu prethodne odluke nadležnog suda, primijeniti sredstva i metode iz člana 15 stav 1 tačka 4 podtač. a, b, d i e i tač. 5, 6 i 7 ovog zakona.

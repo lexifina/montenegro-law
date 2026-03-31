@@ -1,0 +1,2 @@
+# Član 14
+Organi, pravna lica i drugi subjekti iz člana 13 stav 1 ovog zakona dužni su da Agenciju obavijeste o podacima iz člana 8 ovog zakona do kojih dođu u vršenju poslova iz svoje nadležnosti, kao i da omoguće pregled kompromitovanih informaciono-komunikacionih sistema, dostave podatke o mogućem neovlašćenom pristupu informaciono-komunikacionim sistemima ili drugim oblicima ugrožavanja informacione bezbjednosti.
