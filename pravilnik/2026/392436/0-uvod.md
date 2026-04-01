@@ -1,0 +1,3 @@
+Na osnovu člana 9 stav 7 Zakona o pomorsko - agencijskoj djelatnosti ("Službeni list CG", broj 123 /24), Ministarstvo pomorstva donijelo je
+PRAVILNIK O USLOVIMA KOJE TREBA DA ISPUNJAVAJU ČLANOVI KOMISIJE I ISPITIVAČI ZA POLAGANJE ISPITA ZA STICANJE LICENCE ZA POMORSKOG AGENTA,
+ODNOSNO POMORSKOG AGENTA POSREDNIKA
