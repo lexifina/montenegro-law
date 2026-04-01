@@ -1,0 +1,3 @@
+# Član 4
+Unutrašnja lijeva strana legitimacije sadrži naziv: "Ministarstvo pravde", broj pod kojim je izdata, mjesto za fotografiju dimenzija 3 x 3,5 cm, ime, prezime i svojeručni potpis ovlašćenog službenog lica kome se izdaje legitimacija, mjesto i datum izdavanja, potpis ministra pravde i pečat (Obrazac 2).
+Unutrašnja desna strana legitimacije, uz naznaku "Ovlašćenja", sadrži tekst koji glasi: "Imalac ove legitimacije je, pod uslovima propisanim Zakonom o izvršenju kazni zatvora, novčane kazne i mjera bezbjednosti, ovlašćen da vrši kontrolu izvršenja kazne zatvora, kazne dugotrajnog zatvora i mjera bezbjednosti koje se izvršavaju u Upravi za izvršenje krivičnih sankcija." (Obrazac 3).

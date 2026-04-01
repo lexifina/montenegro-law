@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se sadržaj, obrazac i način izdavanja službene legitimacije ovlašćenog službenog lica organa državne uprave nadležnog za poslove pravosuđa koje vrši kontrolu izvršenja kazne zatvora, kazne dugotrajnog zatvora i mjera bezbjednosti koje se izvršavaju u organu uprave nadležnom za izvršenje krivičnih sankcija (u daljem tekstu: ovlašćeno službeno lice), kao i sadržaj i način vođenja evidencije o izdatim službenim legitimacijama.
