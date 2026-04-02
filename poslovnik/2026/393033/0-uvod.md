@@ -1,0 +1,2 @@
+Na osnovu člana 21 stav 1 tačka 10 Statuta Inženjerske komore Crne Gore ("Službeni list Crne Gore", br. 5/2026), uz prethodno pribavljenu saglasnost Ministarstva prostornog planiranja, urbanizma i državne imovine, Skupština Inženjerske komore Crne Gore je, na II sjednici, održanoj 26.03.2026. godine, donijela
+PRAVILNIK O DODJELI NAGRADA, ZVANJU POČASNOG ČLANA, VRSTI I IZGLEDU PRIZNANJA KOJE DODJELJUJE INŽENJERSKA KOMORA CRNE GORE
