@@ -1,0 +1,2 @@
+Na osnovu člana 16 stav 1 Zakona o spomen obilježjima ("Službeni list Crne Gore", br. 40/08, 40/11, 2/17 i 84/24), člana 36 stav 1 tačka 2 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", br. 37/19), u skladu sa Programom podizanja spomen obilježja u Opštini Kotor ("Službeni list Crne Gore - Opštinski propisi", broj 58/25), a uz prethodnu saglasnost Ministarstva kulture i medija Crne Gore, Rješenje broj UPI-13-041/25-288/5 od 19. 1. 2026. godine, Skupština opštine Kotor na IV sjednici održanoj dana 30. 3. 2026. godine, donijela je:
+ODLUKU
