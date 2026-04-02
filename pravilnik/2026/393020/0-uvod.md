@@ -1,0 +1,2 @@
+Na osnovu člana 125 stav 3 i člana 129 stav 1 tačka 3 Zakona o izgradnji objekata ("Službeni list CG", br. 19/2025, 92/2025 i 160/2025), člana 21 stav 1 tačka 11, u vezi sa članom 17 stav 4 Statuta Inženjerske komore Crne Gore ("Službeni list Crne Gore", br. 5/2026), uz prethodno pribavljenu saglasnost Ministarstva prostornog planiranja, urbanizma i državne imovine, Skupština Inženjerske komore Crne Gore je, na II sjednici, održanoj 26.03.2026. godine, donijela
+PRAVILNIK O BLIŽIM USLOVIMA I NAČINU MIROVANJA ČLANSTVA U KOMORI
