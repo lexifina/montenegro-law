@@ -1,0 +1,3 @@
+# Član 1
+U Uputstvu o načinu vršenja kancelarijskog poslovanja ("Službeni list CG", br. 59/19 i 129/24) u članu 67 poslije stava 1 dodaje se novi stav koji glasi:
+"Izuzetno od stava 1 alineja 2 ovog člana, za vrijeme obilježavanja 21. maja - Dana nezavisnosti, zaglavlje akta kojim se vrši službena prepiska između organa, odnosno organa i stranaka, u gornjem desnom uglu sadrži: logotip jubileja nezavisnosti Crne Gore, koji se sastoji od rimskog broja XX, grba Crne Gore koji se nalazi između rimskog broja X i rimskog broja X, broja 2006 sa donje lijeve strane rimskog broja X i broja 2026 sa gornje desne strane rimskog broja X i tekst "DA JE VJEČNA CRNA GORA"."
