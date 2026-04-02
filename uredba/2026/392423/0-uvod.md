@@ -1,0 +1,4 @@
+Na osnovu člana 43 stav 6 Zakona o elektronskim komunikacijama ("Službeni list CG", broj 100/24), Vlada Crne Gore, na sjednici od 5. marta 2026. godine, donijela je
+UREDBU
+O MJERAMA KOJE SADRŽI PLAN MJERA KOJIM SE OBEZBJEĐUJE BEZBJEDNOST
+JAVNE ELEKTRONSKE KOMUNIKACIONE MREŽE I KORIŠĆENJE ELEKTRONSKIH KOMUNIKACIONIH USLUGA U VANREDNIM SITUACIJAMA
