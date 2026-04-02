@@ -1,0 +1,8 @@
+# Član 59
+## Prihvatanje ispunjenja obaveza
+Nakon pokretanja ispitnog postupka u smislu ovog zakona, a najkasnije u roku od 30 dana od dana dostavljanja obavještenja o utvrđenim činjenicama, okolnostima i zaključcima u postupku, stranka u postupku može Agenciji predložiti mjere, uslove i rokove kojima će otkloniti negativne efekte njenog postupanja ili propuštanja postupanja.
+Izuzetno od stava 1 ovog člana, Agencija može u izuzetnim okolnostima da prihvati predlog mjera, uslova i rokova i nakon isteka roka iz stava 1 ovog člana, a prije donošenja odluke.
+Agencija će na svojoj internet stranici objaviti obavještenje o podnošenju predloga stranke iz stava 1 ovog člana, koje sadrži sažeti opis predloga i bitne elemente predmeta, uz poziv svim zainteresovanim licima da u roku od 15 dana od dana objavljivanja tog obavještenja dostave pisane komentare i mišljenja.
+Ako Agencija utvrdi da su predložene mjere, uslovi i rokovi iz stava 1 ovog člana dovoljni za ponovno uspostavljanje efikasne konkurencije na tržištu, može rješenjem naložiti sprovođenje predloženih mjera, kao i uslove i rokove za njihovo sprovođenje i obustaviti ispitni postupak.
+Rješenjem iz stava 4 ovog člana Agencija će odrediti i rok u kojem je stranka dužna da dostavi dokaze da su naložene mjere i uslovi sprovedeni u rokovima utvrđenim rješenjem.
+Agencija može da ponovo pokrene postupak utvrđivanja povrede, ako kontrolom utvrdi da se mjere iz st. 4 i 5 ovog člana ne sprovode na način i u roku koji je utvrđen rješenjem iz stava 4 ovog člana ili ako je došlo do znatne izmjene okolnosti na osnovu kojih je donijeto rješenje, odnosno ako je rješenje donijeto na osnovu netačnih, nepotpunih ili neistinitih podataka.

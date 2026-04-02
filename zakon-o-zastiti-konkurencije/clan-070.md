@@ -1,0 +1,8 @@
+# Član 70
+## Mjere ponašanja i strukturne mjere
+Rješenjem o utvrđivanju povrede konkurencije Agencija može da naloži mjere za otklanjanje utvrđene povrede konkurencije, odnosno sprječavanje njenog nastanka ili slične povrede i preduzimanje određene radnje ili zabranu preduzimanja određene radnje (mjere ponašanja).
+Mjere iz stava 1 ovog člana moraju biti srazmjerne težini utvrđene povrede konkurencije, neophodne za njeno efikasno otklanjanje i u neposrednoj vezi sa aktima ili radnjama koje su izazvale povredu.
+Ako se utvrdi postojanje povrede konkurencije i značajne opasnosti od ponavljanja iste ili slične povrede kao neposredne posljedice strukture učesnika na tržištu, Agencija može da odredi mjeru koja ima za cilj promjenu u strukturi učesnika na tržištu radi otklanjanja te opasnosti (strukturne mjere), odnosno vraćanja na strukturu koja je postojala prije nastupanja utvrđene povrede.
+Kada su strukturna mjera i mjera ponašanja jednako efikasne u otklanjanju povrede konkurencije, Agencija određuje mjeru koja je manje opterećujuća za učesnika na tržištu, u skladu sa načelom srazmjernosti.
+Ako su jednako efikasne i jednako opterećujuće, Agencija može odrediti strukturnu mjeru ili mjeru ponašanja.
+Strukturne mjere iz stava 3 ovog člana mogu biti mjere: prodaje (prenosa ili otuđenja) postojećeg privrednog društva, njegovog dijela ili grupe društava drugim licima koja nijesu povezana sa učesnikom na tržištu na koga se ove mjere odnose; raskid ugovora o zajedničkom ulaganju i osnivanju privrednog društva; ukidanje personalne povezanosti (upravni organi i organi odlučivanja u društvu), kao i druge mjere u skladu sa zakonom.
