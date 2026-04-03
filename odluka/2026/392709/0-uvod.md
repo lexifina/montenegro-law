@@ -1,0 +1,2 @@
+Na osnovu člana 7 stav 1 Zakona o regionalnom vodosnabdijevanju Crnogorskog primorja ("Službeni list CG", broj 56/16) i člana 362 Zakona o privrednim društvima ("Službeni list CG", br. 90/25, 121/25 i 44/26), Vlada Crne Gore je, 3. aprila 2026. godine, bez održavanja sjednice, na osnovu pribavljenih saglasnosti većine članova Vlade, donijela
+ODLUKU O IZMJENI I DOPUNI ODLUKE O OSNIVANJU DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "REGIONALNI VODOVOD CRNOGORSKO PRIMORJE"
