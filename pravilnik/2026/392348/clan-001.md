@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se bliži sadržaj i način vođenja posebne evidencije o podnijetim prijavama, pokrenutim postupcima i donijetim odlukama u vezi sa diskriminacijom (u daljem tekstu: posebna evidencija) u sudovima, državnim tužilaštvima, organizacionoj jedinici organa državne uprave nadležnog za unutrašnje poslove koja vrši policijske poslove i organima koji vrše inspekcijski nadzor.
