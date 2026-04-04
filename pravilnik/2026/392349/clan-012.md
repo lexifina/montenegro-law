@@ -1,0 +1,2 @@
+# Član 12
+Kada se akt o osnivanju i statut društva za upravljanje, pravila o upravljanju penzionim fondom, predlog ugovora o članstvu u penzionom fondu, predlog ugovora sa depozitarom i predlog informativnog prospekta podnose Komisiji uz zahtjev za izdavanje dozvole za rad, odnosno dozvole za formiranje dobrovoljnog penzionog fonda, rješenjem o izdavanju dozvole daje se i saglasnost na navedene akte.
