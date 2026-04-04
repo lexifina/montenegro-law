@@ -1,0 +1,4 @@
+# Član 15
+## Stupanje na snagu
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore", a primjenjivaće se od 1. maja 2026. godine.
+_____________________ *U ovaj Pravilnik prenijeta je Implementirajuća Regulativa Evropske Komisije (EU) 2025/1952 оd 29. septembra 2025. o utvrđivanju mjera za sprečavanje odomaćivanja i širenja unutar područja Unije organizma Anoplophora glabripennis (Motschulsky), za iskorjenjivanje i obuzdavanje tog štetnog organizma unutar određenih obilježenih područja i o stavljanju van snage Implementirajuće Odluke (EU) 2015/893 (Commission Implementing Regulation (EU) 2025/1952 of 29 September 2025 on measures to prevent the establishment and the spread within the Union territory of Anoplophora glabripennis (Motschulsky) and for the eradication and containment of that pest within certain demarcated areas and repealing Implementing Decision (EU) 2015/893)
