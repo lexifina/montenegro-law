@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 5 i 29 stav 3 Zakona o dobrovoljnim penzionim fondovima ("Službeni list Crne Gore", br. 015/25, 117/25, 14/26) - (u daljem tekstu: Zakon), Komisija za tržište kapitala (u daljem tekstu: Komisija), na 176. sjedniciod 20. 3. 2026. godine, donijela je
+PR AV IL A O IZDAVANJU SAGLASNOSTI ZA STICANJE I POVEĆANJE KVALIFIKOVANOG UČEŠĆA U DRUŠTVU ZA UPRAVLJANJE DOBROVOLJNIM PENZIONIM FONDOM
