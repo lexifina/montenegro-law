@@ -1,0 +1,5 @@
+# Član 10
+## Ukidanje izuzeća za pojedinačne slučajeve
+Agencija za zaštitu konkurencije može ukinuti primjenu grupnog izuzeća iz ove uredbe na sporazum ili grupu sporazuma nakon sprovođenja ispitnog postupka iz člana 28 Zakona, ako u bilo kom specifičnom slučaju utvrdi da sporazum o prenosu tehnologije na koji se primjenjuje izuzeće iz člana 3 ove uredbe ipak ostvaruje efekte koji nijesu u skladu s članom 9 Zakona, a posebno u slučajevima:
+1) ako je tehnologiji treće strane ograničen pristup tržištu, na primjer zbog kumulativnog efekta paralelnih mreža sličnih restriktivnih sporazuma na osnovu kojih je sticaocima licence zabranjeno da koriste tehnologije trećih lica; ili
+2) ako je potencijalnim sticaocima licence ograničen pristup tržištu, na primjer zbog kumulativnog efekta paralelnih mreža sličnih restriktivnih sporazuma na osnovu kojih je davaocima licence zabranjeno davanje licence drugim sticaocima licence, ili zbog toga što je jedini vlasnik tehnologije koji daje licencu na relevantna prava na tehnologiju zaključio ugovor o isključivoj licenci sa korisnikom licence koji je već aktivan na tržištu proizvoda na osnovu zamjenljivih prava na tehnologiji.

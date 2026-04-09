@@ -1,0 +1,12 @@
+# Član 7
+## Zabranjena ograničenja u sporazumima između konkurenata
+Grupno izuzeće iz člana 3 ove uredbe ne primjenjuje se na sporazume o prenosu tehnologija između konkurenata koji direktno ili indirektno, pojedinačno ili zajedno sa drugim činiocima pod kontrolom ugovornih strana imaju za cilj bilo koje od sljedećih ograničenja, i to:
+1) ograničenja prava jedne ugovorne strane da samostalno utvrđuje prodajnu cijenu u prodaji trećim stranama;
+2) ograničenja proizvodnje ugovornog proizvoda, osim ograničenja proizvodnje ugovornih proizvoda nametnutih korisniku licence iz nerecipročnog sporazuma, ili ograničenja koja su nametnuta samo jednom od korisnika licence u recipročnom sporazumu;
+3) podjelu tržišta ili kupaca, osim:
+- ugovorne obaveze davaoca i/ili primaoca licence, na osnovu nerecipročnog sporazuma, da ne proizvode na osnovu licenciranih prava na tehnologiju unutar teritorije koja je isključivo rezervisana za drugog učesnika u sporazumu, i/ili da ne prodaje, aktivno i/ili pasivno, na teritoriji koja je ekskluzivno dodijeljena, ili grupi kupaca koji su rezervisani, za drugog učesnika u sporazumu;
+- ograničenja, na osnovu nerecipročnog sporazuma, za sticaoca licence da aktivno prodaje na određenoj teritoriji ili određenoj grupi kupaca koji su na ekskluzivnoj osnovi dodijeljeni drugom sticaocu licence od strane davaoca licence, i pod uslovom da drugi sticalac licence nije bio konkurent davaocu licence u vrijeme zaključenja njegovog ugovora o licenci;
+- obaveze nametnute korisniku licence da proizvodi ugovorni proizvod isključivo za sopstvene potrebe, ali bez ograničenja korisnika licence da ugovorni proizvod prodaje aktivno i pasivno kao rezervne djelove za sopstvene proizvode;
+- obaveze nametnute korisniku licence, na osnovu nerecipročnog sporazuma, da proizvodi ugovorni proizvod samo za određenog kupca, kada je pravo na korišćenje licence prenijeto radi obezbjeđivanja alternativnog izvora snabdijevanja za tog kupca.
+4) ograničavanje sticaoca licence u mogućnosti da iskoristi prava na tehnologiju ili ograničavanje bilo koje ugovorne strane u mogućnosti da sprovodi istraživanja i razvoj, osim u slučajevima kada je ograničenje prava na istraživanje i razvoj neophodno kako bi se spriječilo otkrivanje licenciranoga posebnog znanja i iskustva trećim licima.
+U slučaju da sporazum o prenosu tehnologije sadrži bilo koje zabranjeno ograničenje iz ovog člana, grupno izuzeće iz člana 3 ove uredbe neće se primjenjivati na sporazum o prenosu tehnologije koji sadrži navedeno ograničenje.
