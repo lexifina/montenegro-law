@@ -1,0 +1,2 @@
+Na osnovu odredbi člana 107 stav 1 tačka 2 i člana 127 Zakona o notarima ("Sl. list RCG", broj 68/2005 i "Sl. list CG", br. 49/08, 55/16, 84/18 i 141/25), člana 157 Zakona o vanparničnom postupku ("Službeni list RCG", broj 27/06 i "Sl. list CG", br. 20/15, 75/18, 67/19 i 123/24.) i člana 10 stav 1 tačka 2 Statuta Notarske komore Crne Gore, Skupština Notarske komore Crne Gore, uz prethodnu saglasnost Vlade Crne Gore, dana 8. aprila 2026. godine donosi
+T A R I F U O NAKNADAMA ZA RAD NOTARA KAO POVJERENIKA SUDA U OSTAVINSKOM POSTUPKU
