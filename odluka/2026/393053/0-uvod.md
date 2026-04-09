@@ -1,0 +1,2 @@
+Na osnovu člana 155 Zakona o izgradnji objekata ("Službeni list CG", br. 19/25, 92/25 i 160/25), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 37 stav 1 tač. 2 Statuta Opštine Kolašin ("Službeni list CG - Opštinski propisi", broj 24/19), Skupština opštine Kolašin, na sjednici održanoj dana 30. 3. 2026. godine, donijela je
+ODLUKU
