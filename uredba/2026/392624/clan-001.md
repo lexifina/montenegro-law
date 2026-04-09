@@ -1,0 +1,2 @@
+# Član 1
+Ovom uredbom propisuje se minimalna suma osiguranja od profesionalne odgovornosti privrednog društva, pravnog lica, odnosno preduzetnika koje obavlja djelatnost izrade tehničke dokumentacije, revizije tehničke dokumentacije, građenja objekata odnosno izvođenja pojedinih radova na građenju objekta i vršenja stručnog nadzora i tehničkog pregleda za štetu koja može da nastane investitorima ili trećim licima u vezi sa obavljanjem djelatnosti.
