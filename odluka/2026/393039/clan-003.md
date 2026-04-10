@@ -1,0 +1,3 @@
+# Član 3
+Naknadu za stvarnu službenost iz člana 1 ove odluke, u iznosu od 2.902,50 eura, vlasnik povlasnog dobra Kačar Izet iz Bara, dužan je platiti vlasniku poslužnog dobra - Opštini Bar, na način koji će biti regulisan posebnim ugovorom, zaključenim pred stvarno i mjesno nadležnim notarom kojeg će naknadno odrediti Notarska komora Crne Gore.
+Troškove nastale povodom izvršene procjene, po ispostavljenom troškovniku Opština je, shodno rješenju o određivanju procjenjivača br. 04-427/25-38 od 11. 11. 2025. godine, u obavezi da izmiri prema ovlašćenom procjenjivaču, nakon čega je na strani vlasnika povlasnog dobra obaveza da izvrši povraćaj sredstava u navedenom iznosu, na način koji će biti određen zaključenjem ugovora iz člana 4 ove odluke.
