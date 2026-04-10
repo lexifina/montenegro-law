@@ -1,0 +1,5 @@
+# Član 5
+(1) Snabdjevač posljednjeg izbora dužan je da vrši snabdijevanje iz člana 3 tačka 2 ovih pravila ako zahtjev za snabdijevanje električnom energijom, odnosno zahtjev za promjenu snabdjevača podnesu domaćinstva, mala i mikro pravna lica, koja su priključena na distributivni sistem električne energije.
+(2) O zahtjevu za snabdijevanje električnom energijom iz stava 1 ovog člana, snabdjevač posljednjeg izbora odlučuje u skladu sa opštim aktom Agencije kojim se uređuju opšti uslovi za snabdijevanje električnom energijom i agregaciju električne energije.
+(3) O zahtjevu za promjenu snabdjevača iz stava 1 ovog člana, snabdjevač posljednjeg izbora odlučuje u skladu sa opštim aktom Agencije kojim se uređuju uslovi i postupak promjene snabdjevača ili agregatora na tržištu električne električne energije.
+(4) Ako kupci iz stava 1 ovog člana bez svoje krivice ostanu bez snabdjevača ili ugovora o snabdijevanju, u smislu člana 4 ovih pravila, snabdjevač posljednjeg izbora preuzima njihovo snabdijevanje bez posebnog zahtjeva.
