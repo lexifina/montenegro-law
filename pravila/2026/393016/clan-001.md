@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilima se utvrđuju dodatni uslovi za sticanje statusa zatvorenog distributivnog sistema i određivanje operatora zatvorenog distributivnog sistema, dokazi koji se dostavljaju uz zahtjev, sadržaj rješenja o utvrđivanju statusa zatvorenog distributivnog sistema i određivanju operatora zatvorenog distributivnog sistema, način kontrole ispunjavanja uslova propisanih zakonom, način razmjene informacija sa energetskim subjektom, uslovi i postupak za oduzimanje statusa zatvorenog distributivnog sistema, način plaćanja naknada i sadržaj evidencije zatvorenih distributivnih sistema.
