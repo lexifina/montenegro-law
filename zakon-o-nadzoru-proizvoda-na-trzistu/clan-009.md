@@ -1,0 +1,29 @@
+# Član 9
+## Značenje izraza
+Pojedini izrazi upotrijebljeni u ovom zakonu imaju sljedeća značenja:
+1) proizvod je svaka supstanca, preparat ili roba proizvedena u procesu proizvodnje, izuzev prehrambenih proizvoda, hrane za životinje, biljaka i životinja, proizvoda ljudskog porijekla i biljnih ili životinjskih proizvoda koji se neposredno odnose na njihovu buduću reprodukciju;
+2) neusaglašeni proizvod je proizvod koji ne ispunjava zahtjeve propisane u skladu sa članom 2 ovog zakona;
+3) proizvođač je pravno ili fizičko lice, odnosno preduzetnik koji izrađuje proizvod ili lice koje se predstavlja kao proizvođač stavljanjem na proizvod svog poslovnog imena, odnosno naziva ili žiga;
+4) zastupnik je pravno ili fizičko lice, odnosno preduzetnik koji ima sjedište, odnosno prebivalište u Crnoj Gori i koga je proizvođač ovlastio da u njegovo ime obavlja određene poslove u vezi sa stavljanjem proizvoda na tržište;
+5) uvoznik je pravno ili fizičko lice, odnosno preduzetnik koji ima sjedište, odnosno prebivalište u Crnoj Gori i koje uvozi proizvode radi stavljanja na tržište;
+6) distributer je pravno ili fizičko lice, odnosno preduzetnik koji ima sjedište, odnosno prebivalište u Crnoj Gori, a nije proizvođač ili uvoznik i koje je uključeno u lanac isporuke, odnosno isporučuje proizvod na tržište u okviru obavljanja svoje djelatnosti;
+7) pružalac usluga ispunjenja je svako fizičko ili pravno lice koje, u okviru komercijalne djelatnosti, nudi najmanje dvije od sljedećih usluga: skladištenje, pakovanje, adresiranje i otpremu, a da pritom nema vlasništvo nad predmetnim proizvodima, isključujući poštanske usluge, usluge dostave paketa kako su definisane u smislu zakona kojim se uređuju poštanske usluge kao i sve druge poštanske usluge ili usluge prevoza robe;
+8) privredni subjekat je isporučilac, proizvođač, zastupnik, uvoznik, distributer, pružalac usluge sprovođenja narudžbi, odnosno pravno ili fizičko lice ili preduzetnik koji je uključen u proizvodnju, isporuku na tržištu ili puštanje u rad proizvoda u skladu sa zakonom;
+9) elektronski posrednik su kompjuterski programi, uključujući internet stranice ili njihov dio ili aplikaciju, kojima upravlja privredni subjekat ili kojima se upravlja u njegovo ime i koji služe kako bi se krajnjim korisnicima omogućio pristup njegovim proizvodima;
+10) pružalac usluga informatičkog društva označava pružaoca usluga kako je definisan posebnim zakonom kojim se uređuje elektronska trgovina;
+11) isporuka na tržište je isporuka proizvoda za distribuciju, potrošnju ili upotrebu na tržištu u okviru obavljanja privredne djelatnosti sa ili bez naknade;
+12) krajnji korisnik je pravno ili fizičko lice, odnosno preduzetnik koji ima prebivalište, odnosno sjedište u Crnoj Gori i kome se proizvod stavlja na raspolaganje kao potrošaču;
+13) proizvodi koji se nude na prodaju putem interneta ili drugim sredstvima prodaje na daljinu smatraće se dostupnim na tržištu ako je ponuda usmjerena ka krajnjim korisnicima u Crnoj Gori, a ponuda za prodaju će se smatrati usmjerenom ka krajnjim korisnicima u Crnoj Gori ako relevantni privredni subjekat, na bilo koji način, usmjerava svoje aktivnosti ka unutrašnjem tržištu Crne Gore;
+14) stavljanje na tržište je prva isporuka proizvoda na tržište;
+15) korektivna mjera je mjera koju preduzima privredni subjekat radi otklanjanja neusaglašenosti proizvoda;
+16) dobrovoljna mjera je korektivna mjera koju privredni subjekat preduzima bez zahtjeva inspektora;
+17) povlačenje proizvoda je mjera koja ima za cilj da spriječi da se proizvod u lancu isporuke isporuči na tržište;
+18) opoziv proizvoda je mjera koja ima za cilj povraćaj proizvoda koji je već isporučen potrošaču ili drugom krajnjem korisniku;
+19) rizik je vjerovatnoća nastupanja opasnosti koja može da dovede do nastanka štete;
+20) proizvod koji predstavlja rizik je proizvod sa mogućim negativnim efektom na zaštitu zdravlja i bezbjednosti ljudi i imovine, zaštitu potrošača, bezbjednosti na radu, zaštitu imovine, bezbjednost i zaštitu životne sredine u stepenu koji prelazi rizik koji se smatra razumnim i prihvatljivim u odnosu na namjenu tog proizvoda ili u predvidljivim uslovima upotrebe proizvoda, stavljanje tog proizvoda u upotrebu, uključujući trajanje upotrebe, kao i zahtjeve u pogledu njegove instalacije i održavanja;
+21) proizvod koji predstavlja ozbiljan rizik je opasan proizvod koji predstavlja rizik na osnovu procjene rizika uzimajući u obzir predvidljivu upotrebu proizvoda, i za koji se smatra da vjerovatnoća pojave opasnosti može dovesti do štete i nivoa težine te štete i da zahtijeva hitno preduzimanje mjera organa nadzora na tržištu, uključujući slučajeve u kojima efekti rizika nijesu odmah vidljivi;
+22) mreža SOLVIT je uspostavljena mreža centara koje su države članice Evropske unije osnovale u okviru svojih državnih uprava, kao brzo i neformalno sredstvo za rješavanje problema na koje nailaze pojedinci i privredni subjekti prilikom ostvarivanja svojih prava na unutrašnjem tržištu;
+23) stavljanje u slobodan promet je postupak propisan zakonom kojim se uređuje carinski postupak;
+24) proizvodi koji ulaze na tržište Crne Gore označavaju proizvode iz trećih zemalja koji su namijenjeni stavljanju na tržište Crne Gore ili su namijenjeni za ličnu upotrebu ili potrošnju unutar carinskog područja Crne Gore i koji su stavljeni u carinski postupak - stavljanje u slobodan promet propisan zakonom kojim se uređuje carinski postupak;
+25) nadzor proizvoda na tržištu su aktivnosti koje sprovode i mjere koje preduzimaju organi nadzora na tržištu kako bi osigurali da su proizvodi koji podliježu propisima usklađenim sa propisima Evropske unije usaglašeni sa njihovim zahtjevima i kako bi osigurali zaštitu javnih interesa obuhvaćenih tim zakonodavstvom;
+26) organ nadzora na tržištu označava organ koji je u skladu sa članom 3 ovog zakona odgovoran za sprovođenje tržišnog nadzora.

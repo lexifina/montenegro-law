@@ -1,0 +1,3 @@
+# Član 3
+## Organi nadzora na tržištu
+Nadzor proizvoda na tržištu vrše organi državne uprave, odnosno organi uprave nadležni za inspekcijski nadzor u oblastima unutrašnjeg tržišta, metrologije, termoenergetike, zdravstvene, sanitarne, fitosanitarne zaštite, veterinarstva, bezbjednosti hrane, drumskog i željezničkog saobraćaja, pomorske i unutrašnje plovidbe, elektronskih komunikacija i poštanske djelatnosti, kao i u oblasti eksplozivnih materija, zapaljivih materija, tečnosti i gasova (u daljem tekstu: organi nadzora na tržištu) i organ uprave nadležan za poslove carina (u daljem tekstu: carinski organ).

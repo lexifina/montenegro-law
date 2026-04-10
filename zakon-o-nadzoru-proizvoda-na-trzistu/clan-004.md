@@ -1,0 +1,7 @@
+# Član 4
+## Primjena
+(1) Ovaj zakon primjenjuje se na proizvode koji moraju da ispunjavaju zahtjeve utvrđene propisima kojima se uređuju zahtjevi za proizvode i ocjenjivanje usaglašenosti, ako su ti propisi usaglašeni sa propisima Evropske unije, osim ukoliko posebnim zakonom kojim se usklađuje sa zahtjevima tržišnog nadzora ili organizacije kontrole ulaska proizvoda na tržište posebnih propisa Evropske unije nije drugačije uređeno.
+(2) Usklađenost proizvoda sa propisima utvrđuje nadležni organ nadzora na tržištu u postupku u kojem utvrđuje da proizvod koji se nalazi na tržištu ispunjava propisane zahtjeve iz stava 1 ovog člana, koji omogućavaju visok nivo zaštite javnog interesa, a naročito zaštitu zdravlja i bezbjednost korisnika, zaštitu imovine, životne sredine, zdravlja i bezbjednost na radu.
+(3) Primjena ovog zakona ne sprječava nadležne organe nadzora na tržištu da preduzimaju posebne mjere, u skladu sa posebnim zakonom kojim se uređuje opšta bezbjednost proizvoda.
+(4) Primjena ovog zakona ne utiče na primjenu posebnih propisa kojima se uređuje odgovornost pružalaca usluga posrednika na tržištu usluga informatičkog društva u elektronskoj trgovini i digitalnim uslugama.
+(5) Na pitanja postupka nadzora na tržištu koja nijesu uređena ovim zakonom primjenjuju se odredbe zakona kojim se uređuje inspekcijski nadzor i posebnih zakona kojima se uređuju oblasti iz člana 3 ovog zakona.
