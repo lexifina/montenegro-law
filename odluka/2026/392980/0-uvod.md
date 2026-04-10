@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 3 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19,38/20, 50/22 i 84/22), člana 8 Zakona o regionalnom razvoju ("Službeni list Crne Gore", br. 20/11, 26/11, 20/15 i 47/19) i člana 34 stav 1 tačka 3 Statuta Opštine Zeta ("Službeni list Crne Gore - Opštinski propisi", broj 12/23), Skupština Opštine Zeta, na XXVI sjednici održanoj 25. 3. 2026. godine, donijela je
+ODLUKU
