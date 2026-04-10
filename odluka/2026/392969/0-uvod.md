@@ -1,0 +1,4 @@
+Na osnovu člana 4 stav 1 Zakona o graničnoj kontroli ("Službeni list CG", br. 72/09, 39/13, 17/19, 146/21 i 125/23), Vlada Crne Gore, na sjednici od 12. marta 2026. godine, donijela je
+ODLUKU O OBRAZOVANJU KOMISIJE ZA OBAVLJANJE
+POSLOVA RAZGRANIČENJA I UTVRĐIVANJE DRŽAVNE GRANICE I ZA PRIPREMU
+ZA ZAKLJUČIVANJE MEĐUNARODNIH UGOVORA O DRŽAVNOJ GRANICI
