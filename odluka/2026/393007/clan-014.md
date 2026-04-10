@@ -1,0 +1,5 @@
+# Član 14
+Korisnici podrške su u obavezi da u slučaju eventualnih promjena podataka na osnovu kojih su ostvarili pravo na podršku, odnosno nastanka objektivnih okolnosti koje su uticale na nemogućnost realizacije projekta, obavijeste nadležni organ lokalne uprave u roku od 15 dana od dana nastale promjene.
+Rok za realizaciju projekta/investicije je godinu dana od dana dobijanja građevinske dozvole.
+Izuzetno, rok od godinu dana može se produžiti ako je korisnik podrške u toku realizacije projekta/investicije, bio spriječen višom silom ili izvanrednim događajem koji se nije mogao predvidjeti u trenutku zaključenja ugovora.
+Korisnik podrške koji nije realizovao projekat, pribavio građevinsku dozvolu, kao i korisnik koji je na osnovu netačne dokumentacije, odnosno prevarom ili na drugi nedozvoljen način ostvario pravo na podršku ili je sredstva podrške nenamjenski koristio u obavezi je da vrati iznos primljenih sredstava, uvećan za iznos zakonske zatezne kamate, u roku određenom pravosnažnim rješenjem. Korisnik koji je ostvario pravo na podršku po bilo kom osnovu iz ove Odluke ne može aplicirati za istu ili sličnu vrstu podrške u narednih godinu dana.
