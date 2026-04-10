@@ -1,0 +1,3 @@
+# Član 2
+U članu 2 stav 1 Odluke, mijenja se i glasi:
+"Obavezuje se pravno lice, "A3 Team E-plus Invest" d.o.o. sa sjedištem u Baru zajedno sa svojim suinvestitorima, Šabotić (Hadro) Enesom, Bogdanović (Dušan) Rajkom, Škrijelj (Hadro) Seadom i Bogosavljević (Milan) Vlastimirom, da kao vlasnici povlasnog dobra, prema Opštini Bar, kao vlasniku poslužnog dobra, solidarno izmire naknadu za ustanovljenje prava stvarne službenosti u odnosu na zemljište iz člana 1. ove Odluke, u ukupnom iznosu od 4.475,00 €, kao i da refundiraju troškove procjene vrijednosti određivanja predmetne naknade u iznosu od 630,00 €, a prednje u roku od 8 (slovima:osam) dana od dana zaključenja ugovora pred nadležnim notarom kojeg će u skladu sa Zakonom o notarima odrediti Notarska komora Crne Gore."

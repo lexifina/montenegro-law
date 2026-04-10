@@ -1,0 +1,3 @@
+# Član 1
+## IV" u Baru
+U Odluci o ustanovljenju prava stvarne službenosti polaganja priključnog niskonaponskog elektroenergetskog kablovskog voda u zahvatu DUP-a "Topolica IV" u Baru ("Službeni list CG - Opštinski propisi", br. 60/25 od dana, 26. 11. 2025. godine), član 1 dopunjuje se na način što se poslije riječi: "pravnom licu A3 Team E-plus Invest d.o.o. sa sjedištem u Baru", dodaju sljedeće riječi : "i fizičkim licima Šabotić (Hadro) Enesi, Bogdanović (Dušan) Rajku, Škrijelj (Hadro) Seadu i Bogosavljević (Milan) Vlastimiru", dok se u sedmom redu istog člana, umjesto riječi "čiji je investitor", imaju pisati riječi "čiji su suinvestitori".
