@@ -1,0 +1,2 @@
+# Član 49
+Etička komisija je dužna da u roku od 15 dana od dana svog konstituisanja dostavi izabranim predstavnicima i funkcionerima Etički kodeks, ovu odluku i tekst pisane izjave o prihvatanju i primjeni njihovih odredaba.
