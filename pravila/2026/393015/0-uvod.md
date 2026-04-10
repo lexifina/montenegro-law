@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 7 tačka 15 Zakona o energetici ("Službeni list CG", br. 28/25 i 3/26) i člana 17 tačka 6 Statuta Regulatorne agencije za energetiku i regulisane komunalne djelatnosti ("Službeni list CG", broj 56/25), Odbor Regulatorne agencije za energetiku i regulisane komunalne djelatnosti, na sjednici od 27. marta 2026. godine, donio je
+PRAVILA ZA ODOBRAVANJE NAKNADA OPERATORU TRŽIŠTA ELEKTRIČNE ENERGIJE
