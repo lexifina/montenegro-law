@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Službeni list Crne Gore", broj 25/19, 49/22, 152/22, 118/25, 126/25 i 133/25), člana 38 stav 1 tačka 2 i tačka 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22, 84/22 i 81/25) i člana 34 stav 1 tačka 8 Statuta Opštine Zeta ("Službeni list Crne Gore - Opštinski propisi", broj 12/23), na XXVI sjednici održanoj dana 25. 3. 2026. godine, Skupština opštine Zeta donijela je
+ODLUKU
