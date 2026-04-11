@@ -1,0 +1,8 @@
+# Član 1
+U Pravilniku o uslovima za objekte i opremu za držanje i uzgoj životinja za proizvodnju ("Službeni list CG", broj 64/17), član 4 mijenja se i glasi:
+"(1) Materijali koji se koriste za izgradnju objekata za smještaj životinja, a posebno onih za izgradnju objekata i dijelova prostora i opreme s kojima životinje dolaze u dodir, treba da budu bezbjedni za zdravlje životinja i izgrađeni od materijala koji se mogu lako čistiti i dezinfikovati.
+(2) Prostor za smještaj životinja i oprema s kojom životinje dolaze u dodir treba da su izgrađene bez oštrih ivica ili izbočina, sa podovima koji su glatki, ali ne i klizavi, kako bi se spriječilo povrjeđivanje.
+(3) Temperatura, vlažnost vazduha, cirkulacija vazduha, koncentracija gasova i prašine u vazduhu i intenzitet buke u objektu, treba da budu u granicama koje nijesu štetne za zdravlje životinja.
+(4) Životinjama koje se drže u objektima ne mogu se držati u stalnom mraku ni bez odgovarajućeg vremena odmora od vještačkog osvjetljenjata tako da u objektu treba da bude obezbijeđeno dovoljno osvjetljenja korištenjem fiksnog ili prenosivog, prirodnog ili vještačkog osvjetljenja, kako bi se zadovoljile fiziološke i etološke potrebe životinja te omogućio pregled i kontrola životinja u bilo koje doba dana ili noći.
+(5) Ako u objektima nije dostupno prirodno osvjetljenje koje nije dovoljno za zadovoljavanje fizioloških i etoloških potreba životinja, neophodno je u objektima obezbijediti odgovarajuće vejštačko osvjetljenje.
+(6) Vlasnik ili držalac životinja treba da vodi evidenciju o svakom pruženom medicinskom tretmanu i broju utvrđenih uginulih životinja pri svakom pregledu koja se čuva najmanje tri godine i daje se na zahtjev nadležnom organu na uvid."
