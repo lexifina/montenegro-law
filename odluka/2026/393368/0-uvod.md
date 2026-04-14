@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 34 Statuta Opštine Petnjica ("Službeni list CG - Opštinski propisi", broj 16/22) i člana 47 Poslovnika o radu Skupštine Opštine Petnjica ("Službeni list CG - Opštinski propisi", broj 45/22), Skupština opštine Petnjica, na sjednici održanoj 14. 4. 2026. godine, donijela je
+ODLUKU
