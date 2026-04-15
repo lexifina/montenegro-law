@@ -1,0 +1,2 @@
+Na osnovu člana 363 Zakona o privrednim društvima ("Službeni list CG", br. 90/25 i 121/25) i člana 13 stav 1 Odluke o osnivanju društva sa ograničenom odgovornošću "Monte put" Podgorica ("Službeni list RCG", broj 76/05 i "Službeni list CG", br. 68/09, 33/14, 101/20, 91/21 i 37/24), Vlada Crne Gore je, 6. aprila 2026. godine, bez održavanja sjednice, na osnovu pribavljenih saglasnosti većine članova Vlade, donijela
+S T A T U T DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "MONTE PUT" PODGORICA

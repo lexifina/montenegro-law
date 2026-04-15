@@ -1,0 +1,2 @@
+# Član 49
+Izvršnom direktoru i članovima Odbora direktora imenovanim u skladu sa Statutom Društva sa ograničenom odgovornošću "Monte put" Podgorica ("Službeni list CG", br. 95/21, 2/22 i 43/22), kao i direktoru Poslovne jedinice za upravljanje projektima izgradnje autoputeva i brzih saobraćajnica u Crnoj Gori traje mandat do imenovanja članova Odbora direktora, odnosno izbora direktora Poslovne jedinice za upravljanje projektima izgradnje autoputeva i brzih saobraćajnica u Crnoj Gori, u skladu sa ovim statutom.
