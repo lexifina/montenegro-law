@@ -1,0 +1,2 @@
+Na osnovu člana 4, stav 2 i člana 5 Odluke o izgradnji lokalnih objekata od opšteg interesa ("Službeni list Crne Gore - Opštinski propisi", broj 14/22, 59/22, 30/23 i 12/26), člana 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 84 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", broj 37/19), predsjednik Opštine Kotor donio je
+ODLUKU
