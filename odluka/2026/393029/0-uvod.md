@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2, a u vezi sa članom 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 58 Zakona o zaštiti prirode ("Službeni list CG", br. 54/16, 18/19 i 84/24) kao i na osnovu člana 10 stav 1 tačka 7 Odluke o osnivanju DOO "Spomenik prirode Kanjon Cijevne" ("Službeni list CG - Opštinski propisi", broj 16/25) kao i na osnovu člana 15 stav 1 tačka 7 Statuta Društva sa ograničenom odgovornošću "Spomenik prirode Kanjon Cijevne" ("Službeni list CG - Opštinski propisi", broj 53/25), na sjednici Skupština opštine Tuzi, održanoj 31. 3. 2026. godine, donijela je
+ODLUKU
+o potvrdi Odluke o davanju saglasnosti na izmijenjeni Finansijski plan za 2026. godinu DOO
