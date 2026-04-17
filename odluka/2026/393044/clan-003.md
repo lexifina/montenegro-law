@@ -1,0 +1,3 @@
+# Član 3
+Sredstva budžeta koja su opredijeljena za podsticaj zapošljavanju iz tekućeg godišnjeg budžeta Opštine Andrijevica, dodjeljuju se za biznis/poslovne ideje (u daljem tekstu: biznis plan) korisnicima sa teritorije opštine Andrijevica.
+Pravo na dodjelu sredstva iz stava 1 ovog člana mogu ostvariti fizička lica starosti od 18-40 godina, koji planiraju registrovati biznis na teritoriji opštine Andrijevica u roku od 30 dana od dana odobrenja sredstava, podnosioci koji dostave validan i potpun biznis plan i podnosioci koji imaju namjeru da zaposle najmanje jedno lice iz ciljne grupe (žene i/ili nezaposlene).
