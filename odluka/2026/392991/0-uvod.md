@@ -1,0 +1,2 @@
+Na osnovu člana 9 Zakona o uređenju prostora ("Službeni list Crne Gore", broj 19/25), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 53 stav 1 tačka 2 Statuta Opštine Tuzi ("Službeni list CG - Opštinski propisi", br. 24/19, 5/20, 51/22 i 55/22), Skupština opštine Tuzi, na sjednici održanoj 31. 3. 2026. godine, donosi
+ODLUKU
