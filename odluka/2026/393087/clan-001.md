@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom propisuju se smjernice o načinu postupanja Agencije za nadzor osiguranja u sprovođenju dodatne supervizije finansijskih konglomerata u skladu sa članom 18 stav 1 Zakona o finansijskim konglomeratima (u daljem tesktu: Zakon), radi obezbjeđivanja efikasne međusektorske saradnje, razmjene informacija, koordinacije nadzornih aktivnosti i jedinstvene primjene zahtjeva u pogledu adekvatnosti kapitala, koncentracije rizika i transakcija u okviru grupe.

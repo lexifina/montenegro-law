@@ -1,0 +1,4 @@
+Na osnovu člana 185 stav 1 tačka 2 Zakona o osiguranju ("Službeni list Republike Crne Gore", br. 78/06, 19/07, "Službeni list Crne Gore", br. 53/09, 73/10, 40/11, 45/12, 06/13, 55/16, 146/21 i 034/24) i člana 39 stav 3 Zakona o finansijskim konglomeratima ("Službeni list CG", br. 24/25 i 14/26), Savjet Agencije za nadzor osiguranja, na 450. sjednici održanoj 7. 4. 2026. godine, donio je
+O D L U K U
+O SMJERNICAMA O NAČINU POSTUPANJA AGENCIJE ZA NADZOR OSIGURANJA
+U SPROVOĐENJU DODATNE SUPERVIZIJE FINANSIJSKIH KONGLOMERATA
