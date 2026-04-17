@@ -1,0 +1,8 @@
+# Član 3
+Roditelji/staratelji/hranitelji djeteta, koji ostvaruju mjesečna primanja do dvije prosječne neto zarade u Crnoj Gori u prethodnoj godini, prema podacima organa uprave nadležnog za poslove statistike, ostvaruju subvenciju u iznosu od 160,00 eura u neto iznosu po djetetu.
+Samohrani roditelj, roditelj koji je osoba s invaliditetom a samostalno vrši roditeljsko pravo, kao i lice koje je je nesposobno za rad, ostvaruju subvenciju u fiksnom iznosu od 160,00 eura u neto iznosu po djetetu.
+Roditelji/staratelji/hranitelji djeteta, koji ostvaruju mjesečna primanja preko dvije prosječne neto zarade u Crnoj Gori u prethodnoj godini, prema podacima organa uprave nadležnog za poslove statistike, ostvaruju subvenciju u iznosu od 130,00 eura u neto iznosu po djetetu.
+Subvencija se ostvaruje za svaki mjesec školske godine u kojem je dijete koristilo uslugu produženog boravka, uključujući i mjesec jul ukoliko se usluga produženog boravka organizuje u tom periodu.
+U slučaju da dijete zbog nepredviđenih okolnosti ne koristi uslugu produženog boravka više od polovine mjeseca, subvencija se ostvaruje srazmjerno vremenu boravka u produženom boravku, što se dokazuje potvrdom ustanove.
+U slučaju da troje ili više djece jednog roditelja/staratelja/hranitelja istovremeno koristi uslugu produženog boravka, troškovi produženog boravka za treće i svako naredno dijete subvencioniše se u iznosu od 100% bez obzira na visinu primanja roditelja.
+Roditelji/staratelji/hranitelji djeteta sa smetanjama i teškoćama u razvoju ostvaruju pravo na subvenciju u iznosu od 100% troškova usluge produženog boravka.

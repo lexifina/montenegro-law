@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 54 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21, 49/22 i 51/25) i člana 17 stav 4 i 5 Zakona o osnovnom obrazovanju i vaspitanju (""Službeni list RCG", br. 64/02, 49/07 i "Službeni list CG", br. 45/10, 40/11, 39/13, 47/17, 59/21, 3/23 i 51/25), Skupština Glavnog grada Podgorica, na sjednici održanoj dana 16. aprila 2026. godine, donosi
+ODLUKU
+o subvencionisanju dijela troškova usluge produženog boravka za djecu na teritoriji Glavnog grada
