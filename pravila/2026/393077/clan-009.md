@@ -1,0 +1,5 @@
+# Član 9
+## Fiktivni regulatorni kapital i fiktivni zahtjevi solventnosti za neregulisane subjekte finansijskog sektora
+(1) Ako mješoviti finansijski holding ima ulaganje u neregulisani subjekat finansijskog sektora, fiktivni regulatorni kapital i fiktivni zahtjevi solventnosti za taj subjekat obračunavaju se u skladu sa sektorskim propisima koji se primjenjuju na najznačajniji finansijski sektor u finansijskom konglomeratu.
+(2) Za neregulisani subjekat finansijskog sektora koji nije subjekat iz stava 1 ovog člana, fiktivni regulatorni kapital i fiktivni zahtjevi solventnosti obračunavaju se u skladu sa sektorskim propisima finansijskog sektora koji je najbliži djelatnosti tog subjekta.
+(3) Određivanje najbližeg finansijskog sektora iz stava 2 ovog člana zasniva se na opsegu finansijskih djelatnosti konkretnog subjekta i mjeri u kojoj se te djelatnosti sprovode, a u slučaju da nije moguće jasno utvrditi najbliži finansijski sektor, primjenjuju se sektorski propisi najznačajnijeg sektora u finansijskom konglomeratu.
