@@ -1,0 +1,3 @@
+# Član 2
+Procijenjena vrijednost zemljišta - katastarskih parcela 1286/29 i 1285/13 KO Kolašin utvrđena je na osnovu Izvještaja o procjeni ovlašćenog procjenitelja Aleksandra Rakočevića iz Podgorice i iznosi 106,00eura po 1 m2, što za površinu katastarskih parcela 1286/29 i 1285/13 KO Kolašin od 369 m2 iznosi ukupno 39,114.00 eura (tridesetdevethiljadastočetrnaesteura).
+Procijenjena vrijednosti zemljišta - katastarske parcele 1285/11 KO Kolašin, utvrđena je na osnovu Izvještaja o procjeni ovlašćenog procjenitelja Aleksandra Rakočevića iz Podgorice i iznosi 106,00 eura po 1 m2,što za površinu katastarske parcele 1285/11 KO Kolašin od 334 m2 iznosi ukupno 35,404.00 eura (tridesetpethiljadačetiristotinečetirieura).
