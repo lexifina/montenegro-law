@@ -1,0 +1,20 @@
+# Član 2
+## Značenje izraza
+Izrazi upotrijebljeni u ovom pravilniku imaju sljedeća značenja:
+1) uslužni objekat je postrojenje, zemljište, zgrade i oprema koja omogućava pružanje jedne ili više usluga, kao i kolosjeci koji povezuju mrežu sa uslužnim objektima;
+2) vanredni (ad hoc) zahtjev je zahtjev za pristup uslužnom objektu ili željezničkoj usluzi koji je povezan sa ad hoc zahtjevom za trasu za pojedinačnu vožnju voza;
+3) osnovna usluga je usluga koja se pruža u bilo kom od uslužnih objekata iz člana 52 stav 2 Zakona o željeznici;
+4) željeznički prevoznik je privredno društvo ili drugo pravno lice koje je registrovano za pretežnu djelatnost pružanja usluga željezničkog prevoza robe i/ili putnika i kome je izdata licenca, uz obavezu da obezbijedi vuču ili koje obezbjeđuje samo vuču, kao i privredno društvo ili drugo pravno lice koje obavlja željeznički prevoz za sopstvene potrebe i kome je izdata licenca za prevoz za sopstvene potrebe;
+5) kontrolno društvo je organ ili privredno društvo koje ima neposrednu ili posrednu kontrolu nad operatorom uslužnog objekta, a koje je aktivno i ima dominantan položaj na tržištima nacionalnih željezničkih usluga za koja se taj objekat koristi, ili koje ima neposrednu ili posrednu kontrolu nad operatorom uslužnog objekta i željezničkim prevoznikom koji ima takav položaj;
+6) operator uslužnog objekta je pravno lice koje upravlja jednim ili više uslužnih objekata ili pruža jednu ili više usluga željezničkim prevoznicima, kao i upravlja željezničkom infrastrukturom koja čini dio infrastrukture uslužnog objekta;
+7) postupak koordinacije je postupak u kom operator uslužnog objekta i podnosioci zahtjeva nastoje da riješe situacije u kojima više sukobljenih zahtjeva za pristup uslužnom objektu ili željezničkim uslugama obuhvataju isti kapacitet uslužnog objekta;
+8) povezani uslužni objekti su uslužni objekti smješteni jedan pored drugog i pristup jednom uslužnom objektu zahtijeva prolazak kroz drugi uslužni objekat;
+9) željeznička usluga je osnovna, dodatna ili prateća usluga iz člana 52 Zakona o željeznici;
+10) samostalno pružanje usluga je samostalno pružanje željezničke usluge od strane željezničkog prevoznika u prostorijama operatora uslužnog objekta koji nudi takvu mogućnost, ako je pristup i korišćenje tog objekta od strane željezničkog prevoznika pravno i tehnički izvodljivo, i ne ugrožava bezbjednost operacija;
+11) kapacitet uslužnog objekta je mogućnost korišćenja uslužnog objekta i pružanja usluge u datom vremenskom periodu, uzimajući u obzir i vrijeme potrebno za pristup i napuštanje uslužnog objekta;
+12) opis uslužnog objekta je akt kojim se utvrđuju detaljne informacije potrebne za pristup uslužnim objektima i željezničkim uslugama;
+13) Izjava o mreži je dokument kojim se detaljno utvrđuju opšta pravila, rokovi, postupci i kriterijumi koji se tiču načina obračuna cijena i dodjele kapaciteta, kao i druge relevantne informacije koje su neophodne da bi se mogao podnijeti zahtjev za dodjelu kapaciteta infrastrukture;
+14) industrijski kolosjek je željeznički kolosjek koji se priključuje na željezničku infrastrukturu i služi za dopremanje i otpremanje robe za vlasnika, odnosno nosioca prava korišćenja tog kolosjeka;
+15) prevoz za sopstvene potrebe je prevoz željeznicom koji vrši privredno društvo ili drugo pravno lice za sopstvene potrebe, odnosno za potrebe obavljanja djelatnosti, što obuhvata i djelatnosti u vezi sa izgradnjom, ispitivanjem, održavanjem ili obnovom željezničke infrastrukture ili u vezi sa pružanjem usluga;
+16) teretni terminal je objekat duž pruga koji je posebno uređen kako bi se omogućio utovar, odnosno istovar robe na ili sa teretnih vozova, kao i integracija usluga željezničkog transporta sa uslugama drumskog, pomorskog, riječnog ili vazdušnog transporta, odnosno formiranje ili promjena sastava teretnih vozova ili služi za sprovođenje postupaka na granicama sa drugim državama;
+17) upravljač infrastrukture je pravno lice koje upravlja željezničkom infrastrukturom, održava i obnavlja infrastrukturu i koje je odgovorno za učešće u njenom razvoju.

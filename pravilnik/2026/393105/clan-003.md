@@ -1,0 +1,6 @@
+# Član 3
+## Transparentnost i nediskriminacija uslova
+Radi obezbjeđivanja transparentnosti i nediskriminacije uslova pristupa uslužnim objektima iz člana 52 stav 2 tač. 1 do 4 i tač. 7 i 9 Zakona o željeznici, kao i u korišćenju usluga u tim objektima, kada je operator uslužnog objekta pod neposrednom ili posrednom kontrolom kontrolnog društva, operator tog uslužnog objekta mora biti nezavisan od tog kontrolnog društva.
+Operator uslužnog objekta je nezavisan od kontrolnog društva, u smislu stava 1 ovog člana, ako je organizaciono odvojen, bez obzira da li je samostalno pravno lice ili posebna organizaciona jedinica u okviru istog pravnog lica, kao i kada ima nezavisnost u donošenju odluka.
+Za sve uslužne objekte iz člana 52 stav 2 Zakona o željeznici, operator uslužnog objekta i kontrolno društvo iz stava 1 ovog člana, moraju imati odvojene račune, uključujući i odvojene bilanse stanja i bilanse uspjeha.
+Kada je funkcionisanje uslužnog objekta obezbijeđeno od strane upravljača infrastrukture, ili od strane operatora uslužnog objekta koji je pod neposrednom ili posrednom kontrolom upravljača infrastrukture, smatra se da je ispunjenost zahtjeva iz ovog člana dokazana ispunjavanjem zahtjeva iz člana 5 Zakona o željeznici.
