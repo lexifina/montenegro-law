@@ -1,0 +1,9 @@
+# Član 3
+Korišćenje, sakupljanje i promet divljih vrsta životinja, biljaka i gljiva može da vrši pravno ili fizičko lice koje je registrovano u Centralnom registru privrednih subjekata za otkup i promet divljih vrsta životinja, biljaka i gljiva, na osnovu dozvole u skladu sa zakonom (u daljem tekstu: sakupljač), u količini i na način kojim se obezbjeđuje očuvanje njihovih populacija.
+Način i uslovi korišćenja i sakupljanja sa količinama koje se mogu koristiti i stavljati u promet utvrđuju se Stručnom podlogom.
+Imaoci dozvola i fizička lica koja obavljaju djelatnost sakupljanja divlje vrste iz prirode u komercijalne svrhe za imaoce dozvola dužna su da prilikom sakupljanja i korišćenja divljih vrsta iz prirode u komercijalne, pored uslova propisanih ovim članom, poštuju način i uslove za određenu vrstu propisane Stručnom podlogom iz stava 2 ovog člana.
+Fizičko lice koje obavlja djelatnost sakupljanja divlje vrste iz prirode u komercijalne svrhe za imaoca dozvole, treba da prilikom sakupljanja ima dokaz o ugovornom odnosu sa imaocem dozvole, kao i kopiju same dozvole.
+Ako imaoc dozvole namjerava sakupljati na tuđem zemljištu, treba da prije početka sakupljanja pribavi saglasnost vlasnika ili nosioca prava na prirodnim dobrima.
+Ako imalac dozvole namjerava sakupljati u moru i kopnenim vodama, treba da ima prije početka sakupljanja saglasnost u skladu sa propisima kojim je uređena oblast ribarstva.
+Sakupljanje i korišćenje divljih vrsta životinja, biljaka i gljiva u šumama vrši se na način utvrđen zakonom, ovim pravilnikom i programom gazdovanja šumama.
+Sakupljanje i korišćenje nezaštićenih vrsta životinja, biljaka i gljiva na zaštićenim prirodnim dobrima može se vršiti u skladu sa planom upravljanja i godišnjim programom upravljanja na osnovu dozvole, u skladu sa zakonom i ovim pravilnikom.
