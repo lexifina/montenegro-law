@@ -1,0 +1,2 @@
+# Član 1
+Ovom Odlukom utvrđuje se visina naknada za standarde i srodne dokumente i druge publikacije, kao i visina naknada za usluge koje vrši Institut za standardizaciju Crne Gore (u daljem tekstu: Institut) u obavljanju poslova u oblasti standardizacije. Institut za standardizaciju Crne Gore kao nezavisno nacionalno tijelo za standardizaciju vrši distribuciju (prodaju) crnogorskih standarda i srodnih dokumenata i stranih standarda i srodnih dokumenata u skladu sa ovom Odlukom.

@@ -1,0 +1,5 @@
+# Član 21
+## Autorske naknade
+Visina autorske naknade (tantijeme) koja se plaća za svaki prodati primjerak prevoda izvornog crnogorskog standarda i srodnog dokumenta na strani jezik, koji je sačinilo i distribuiralo nacionalno tijelo za standarde druge zemlje na teritoriji svoje zemlje, iznosi 20 % od odgovarajuće naknade utvrđene u članovima 4 i 5 ove Odluke.
+Visina autorske naknade koja se plaća za svaki primjerak nacionalnog standarda i srodnog dokumenta druge zemlje, prodat na teritoriji te zemlje, koji je nastao preuzimanjem odgovarajućeg crnogorskog standarda, odnosno srodnog crnogorskog dokumenta, iznosi 20 % od odgovarajuće naknade utvrđene u članovima 4 i 5 ove Odluke.
+Visina autorske naknade koja se plaća za svaki primjerak nacionalnog standarda i srodnog dokumenta druge zemlje, prodat na teritoriji te zemlje, za čiju izradu je korišćena definitivna jezička verzija odgovarajućeg evropskog standarda, odnosno srodnog evropskog dokumenta na crnogorskom jeziku, iznosi 20 % od odgovarajuće naknade utvrđene u članovima 4 i 5 ove Odluke za korišćeni crnogorski standard, odnosno srodni crnogorski dokument.

@@ -1,0 +1,2 @@
+Na osnovu člana 16 stav 1 tačka 10 Zakona o standardizaciji ("Službeni list CG", br. 145/21 od 31.12.2021) i člana 10 stav 1 tačka 10 Odluke o organizovanju Instituta za standardizaciju ("Službeni list CG", br. 87/22 od 4. 8. 2022), uz saglasnost Vlade Crne Gore, Upravni odbor Instituta za standardizaciju Crne Gore na sjednici održanoj dana 3. 4. 2026. godine, donio je
+ODLUKU O VISINI NAKNADA ZA STANDARDE, SRODNE DOKUMENTE, DRUGE PUBLIKACIJE I USLUGE INSTITUTA ZA STANDARDIZACIJU CRNE GORE
