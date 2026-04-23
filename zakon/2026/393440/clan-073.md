@@ -1,0 +1,7 @@
+# Član 73
+## Novčana kazna za prekršaj zaposlenog
+Novčanom kaznom u iznosu od 30 eura do 1.000 eura kazniće se za prekršaj zaposleni, ako:
+1) odbije da obavi zdravstveni pregled koji odgovara riziku za zaštitu i zdravlje na radnom mjestu, na koji ga upućuje poslodavac (član 40 stav 3);
+2) za vrijeme rada ne primjenjuje propisane mjere zaštite i zdravlja na radu, ne vodi računa o svojoj i zaštiti i zdravlju na radu drugih zaposlenih na koje utiče svojim radom ili postupcima pri obavljanju posla, namjenski ne koristi sredstva za rad, opasne materije, sredstva i opremu lične zaštite na radu i zaštitne uređaje, ne sarađuje i ne konsultuje se sa poslodavcem i stručnim licem kako bi se sprovele propisane mjere zaštite i zdravlja na radu na poslovima na kojima radi u skladu sa osposobljenošću i uputstvima koja je dobio od poslodavca (član 43 stav 1 alineja 1);
+3) u skladu sa svojim saznanjima, odmah ne obavijesti poslodavca, pisano ili usmeno, ili preko predstavnika zaposlenih o nepravilnostima, nedostacima, štetnostima, opasnostima ili drugoj pojavi koja bi na radnom mjestu mogla da ugrozi njegovu ili zaštitu i zdravlje drugih zaposlenih i ne sarađuje i ne konsultuje se sa poslodavcem i stručnim licem dok poslodavac ne obezbijedi uslove za bezbjedan i zdrav rad u skladu sa osposobljenošću i uputstvima koja je dobio od poslodavca (član 43 stav 1 al. 2 i 3);
+4) započne i obavlja rad pod uticajem sredstava zavisnosti (alkohol, droga i sl.) i ne podvrgne se provjeri da li je pod uticajem sredstava zavisnosti (član 44).

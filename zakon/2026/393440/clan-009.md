@@ -1,0 +1,17 @@
+# Član 9
+## Značenje izraza
+Izrazi upotrijebljeni u ovom zakonu imaju sljedeća značenja:
+1) poslodavac je pravno lice, dio stranog privrednog društva ili preduzetnik, državni organ, organ državne uprave, služba Predsjednika Crne Gore, Skupštine Crne Gore, Vlade Crne Gore, sud, tužilaštvo, fond, zavod, agencija, ustanova, regulatorno i nezavisno tijelo, organ lokalne samouprave i lokalne uprave, kao i fizičko lice u svojstvu investitora, koji zapošljava lice po osnovu ugovora o radu ili ga angažuje po drugom osnovu u skladu sa zakonom;
+2) radno mjesto sa povećanim rizikom je radno mjesto utvrđeno aktom o procjeni rizika, na kojem i pored potpuno ili djelimično primijenjenih mjera u skladu sa ovim zakonom, postoje takvi rizici koji mogu da ugroze zaštitu i zdravlje zaposlenog;
+3) radna sredina i radna okolina je prostor u kojem se obavlja rad i uključuje radna mjesta, radne uslove, radne postupke, odnose u procesu rada i druge uticaje spoljašnje sredine;
+4) sredstvo za rad je svaka oprema za rad, postrojenje, mašina, oprema, instalacija, alat, drugo oruđe za rad, konstrukcija za kolektivnu zaštitu i zdravlje zaposlenih, pomoćna konstrukcija koja se privremeno koristi za rad i kretanje zaposlenih i drugo sredstvo koje se koristi u procesu rada ili je na bilo koji način povezano sa procesom rada;
+5) opasnim i štetnim materijama smatraju se eksplozivne, zapaljive, oksidirajuće, otrovne, gadne, zarazne, korozivne, kancerogene ili mutagene i radioaktivne materije utvrđene standardima i drugim propisima, a koje se proizvode, koriste ili skladište u procesu rada, kao i materije koje sadrže te supstance i mogu da budu opasne po život i zdravlje zaposlenih;
+6) mjere zaštite i zdravlja na radu su dio prevencije i preduzimaju se u cilju poboljšanja zaštite i/ili higijene i/ili zdravlja zaposlenog;
+7) rizik je vjerovatnoća da opasnost može prouzrokovati povredu na radu, profesionalnu bolest ili bolest u vezi sa radom;
+8) procjena rizika je sistematsko evidentiranje i procjenjivanje svih faktora u procesu rada, saglasno prirodi djelatnosti poslodavca sa ciljem da se utvrde mogući uzroci nastanka povreda na radu, profesionalnih bolesti ili bolesti u vezi sa radom i utvrđivanje mogućnosti, odnosno načina sprečavanja, otklanjanja ili smanjenja rizika;
+9) zaposleni je lice koje radi kod poslodavca po osnovu ugovora o radu, uključujući lice koje se osposobljava za rad i pripravnika, kao i svako lice koje po bilo kom pravnom osnovu obavlja rad kod poslodavca;
+10) prevencija su svi koraci i/ili mjere zaštite i zdravlja na radu koje se preduzimaju ili planiraju na svim nivoima rada kod poslodavca, radi sprečavanja ili smanjivanja rizika po život i zdravlje zaposlenih;
+11) privremena ili pokretna gradilišta (u daljem tekstu: gradilišta), u smislu ovog zakona, su sva gradilišta na kojima se izvode građevinski radovi, osim radova koji se odnose na bušenje i vađenje minerala u ekstraktivnoj industriji;
+12) investitor je pravno lice, preduzetnik ili fizičko lice za čije potrebe se izvode građevinski i/ili građevinsko-zanatski radovi;
+13) izvođač radova je pravno lice ili preduzetnik koje izvodi građevinske i/ili građevinsko- zanatske radove.
+14) predstavnik zaposlenih za zaštitu i zdravlje na radu (u daljem tekstu: predstavnik zaposlenih) je zaposleni kojeg izaberu, odaberu ili odrede i imenuju zaposleni radi zastupanja njihovih interesa u vezi sa zaštitom i zdravljem na radu i koji ima posebna prava i obaveze utvrđene ovim zakonom.

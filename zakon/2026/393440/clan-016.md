@@ -1,0 +1,9 @@
+# Član 16
+## Tehnološki procesi
+Poslodavac je dužan da izvrši ispitivanje uslova radne sredine i radne okoline, odnosno da projektovanjem, izgradnjom novih i rekonstrukcijom postojećih objekata, korišćenjem i održavanjem tehnoloških procesa rada sa pripadajućim objektima i sredstvima za rad, obezbijedi da se rad zaposlenih obavlja na bezbjedan i zdrav način, a hemijske, fizičke (osim jonizujućih i nejonizujućih zračenja) i biološke materije, eksplozivna atmosfera, azbest, mikroklima i osvjetljenje u radnoj sredini i radnoj okolini usklade sa propisanim mjerama zaštite i zdravlja na radu i normativima za djelatnost koja se obavlja u toj radnoj sredini i radnoj okolini.
+Pri promjeni tehnološkog procesa, poslodavac je dužan da, prije početka rada, investicioni objekat sa pripadajućim sredstvima za rad prilagodi novom tehnološkom procesu.
+Pri izgradnji, rekonstrukciji, adaptaciji, sanaciji ili rušenju objekta, investitor i poslodavac koji izvodi radove dužni su da obezbijede da se izradi plan mjera zaštite i zdravlja na radu.
+Poslodavac koji planira da radovi traju duže od 30 radnih dana i da istovremeno radi više od 20 zaposlenih ili da je planiranim obimom radova obuhvaćeno više od 500 zaposlenih, odnosno da radovi traju duže od 500 dana, dužan je da, najkasnije pet dana prije početka radova, inspekciji zaštite i zdravlja na radu dostavi prijavu o početku radova u skladu sa posebnim zakonom.
+Investitor je dužan da kopiju prijave iz stava 4 ovog člana posjeduje na gradilištu, a u slučaju bilo kakve promjene da ažurira prijavu.
+Investitor je dužan da ažuriranu prijavu iz stava 4 ovog člana dostavi inspekciji zaštite i zdravlja na radu najkasnije u roku od pet dana od dana ažuriranja, a kopiju ažurirane prijave posjeduje na gradilištu.
+Sadržaj i obrazac prijave iz stava 4 ovog člana propisuje Ministarstvo.

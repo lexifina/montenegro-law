@@ -1,0 +1,4 @@
+# Član 10
+## Obaveze projektanta i investitora
+Projektant koji, u skladu sa propisima kojima se uređuje izgradnja objekata, izrađuje tehničku dokumentaciju za izgradnju, rekonstrukciju ili adaptaciju objekata, namijenjenu za radne i pomoćne prostorije i objekte gdje se tehnološki proces obavlja na otvorenom prostoru, dužan je da, u skladu sa ovim zakonom, pri izradi tehničke dokumentacije razradi propisane mjere zaštite i zdravlja na radu u skladu sa tehnološkim projektnim zadatkom.
+Investitor je dužan da od ovlašćenog pravnog lica ili preduzetnika obezbijedi reviziju (ocjenu) da je tehnička dokumentacija izrađena u skladu sa propisima kojima se uređuje zaštita i zdravlje na radu, tehničkim propisima i standardima, da je obezbijeđena zaštita zaposlenih u objektima za koje je izrađena tehnička dokumentacija za proces rada koji će se obavljati u njima, odnosno da su ispunjeni uslovi iz tehnološkog projektnog zadatka.
