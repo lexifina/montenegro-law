@@ -1,0 +1,2 @@
+# Član 3
+Ovlašćuje se predsjednik Opštine Danilovgrad, da u ime Opštine Danilovgrad kao davaoca, sa Javnom ustanovom Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u Opštini Danilovgrad, kao korisnikom, zaključi ugovor o ustupanju na korišćenje putničkog automobila, kojim će se urediti međusobna prava, obaveze i odgovornosti ugovornih strana, uključujući način korišćenja, održavanja, praćenja stanja opreme i rokove izvještavanja.
