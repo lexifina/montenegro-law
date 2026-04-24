@@ -1,0 +1,4 @@
+Na osnovu člana 19 stav 9 Zakona o registraciji privrednih i drugih subjekata ("Službeni list CG", br. 92/25, 121/25 i 44/26), Ministarstvo finansija donijelo je
+PRAVILNIK
+O IZMJENAMA PRAVILNIKA O OBRASCU REGISTRACIONE PRIJAVE, UPUTSTVU
+ZA POPUNJAVANJE REGISTRACIONE PRIJAVE I DOKUMENTACIJI KOJA SE PODNOSI UZ REGISTARCIONU PRIJAVU
