@@ -1,0 +1,2 @@
+Na osnovu člana 16 stav 2 Zakona o porezu na nepokretnosti ("Službeni list CG", br. 25/19, 49/22, 152/22, 118/25, 126/25 i 133/25), člana 14 Odluke o porezu na nepokretnosti ("Službeni list CG - Opštinski propisi", br. 43/19, 25/20, 39/20, 40/20, 25/22 i 64/25), člana 36 Zakona o poreskoj administraciji ("Službeni list CG", br. 20/11, 28/12, 8/15, 47/17, 52/19, 145/21, 15/25 i 160/25) i člаnа 100 stav 1 Stаtutа Opštine Budva ("Službeni list CG - Opštinski propisi", broj 2/19), predsjednik Opštine Budva donosi
+PRAVILNIK

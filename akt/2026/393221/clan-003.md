@@ -1,0 +1,2 @@
+# Član 3
+Uz obrazac PP BD1 obavezno se prilažu: zaključni list ili bruto bilans, bilans stanja, analitička kartica imovine, obračun amortizacije iz prethodne godine, procjena vrijednosti nepokretnosti, Rješenje o uknjižbi ili pravosnažna sudska odluka, za pravna lica koja su stekla nepokretnost u godini koja predhodi godini za koju se vrši utvrđivanje poreza na nepokretnosti, Ugovor o kupoprodaji nepokretnosti, Prijava gradnje (građevinska dozvola), Ugovor o zajediničkoj izgradnji.
