@@ -1,0 +1,2 @@
+# Član 2
+Opština Danilovgrad, kao subjekt raspolaganja poslužnim dobrom, daje saglasnost "Crnogorski elektrodistributivni sistem" d.o.o. Podgorica za ustanovljavanje prava stvarne službenosti radi polaganja 10 kV kablovskih vodova za izgradnju lokalnog objekta od opšteg interesa - STS 10/0,4 kV 160 kVA "Gruda 2", shodno Elaboratu geodetskih radova nepotpune eksproprijacije urađenom od strane "GEONANA" d.o.o. Podgorica, broj 0708/2025-3 od 7. 8. 2025. godine.
