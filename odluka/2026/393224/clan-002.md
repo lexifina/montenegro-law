@@ -1,0 +1,3 @@
+# Član 2
+Opština Danilovgrad, kao subjekt raspolaganja poslužnim dobrom, daje saglasnost privrednom društvu "MONTECCO INC" d.o.o. za ustanovljavanje prava službenosti radi polaganja podzemnog kablovskog voda 3 x XHE 49-A 1x240/25 mm², 20 kV + Fe/Zn 25x4 mm, preko katastarske parcele broj 855/1, evidentirane po "A" dijelu lista nepokretnosti broj 211, KO Bandići.
+Pravo službenosti iz stava 1 ovog člana ustanovljava se u skladu sa Elaboratom geodetskih radova nepotpune eksproprijacije - pravo službenosti podzemnog kablovskog voda 3 x XHE 49-A 1x240/25 mm², 20 kV + Fe/Zn 25x4 mm, izrađenim od strane "Geo-Metar" DOO Podgorica.
