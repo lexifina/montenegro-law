@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 98/25 od 3. 9. 2025. godine), člana 32 Statuta Opštine Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", broj 43/18) a u vezi člana 4 stav 1 Odluke o naknadama odbornicima Skupštine opštine Danilovgrad, ("Službeni list Crne Gore - Opštinski propisi", broj 20/24), Skupština opštine Danilovgrad, na sjednici održanoj 30. 3, 6. 4. i 9. 4. 2026. godine, donijela je
+ODLUKU
