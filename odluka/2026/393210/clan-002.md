@@ -1,0 +1,7 @@
+# Član 2
+Lokacija za izgradnju novog objekta, trafostanice STS 10/0.4kV, 250kVA "Delići" sa priključnim NN i 10kV vodom čini:
+a) STS na kat. parcelama broj 333 KO Stevanovac, Opština Mojkovac i na svim katastarskim parcelama koje nastanu parcelacijom navedene katastarske parcele;
+b) uzemljenje za STS na kat. parcelama broj 333 KO Stevanovac, Opština Mojkovac i na svim katastarskim parcelama koje nastanu parcelacijom navedene katastarske parcele;
+c) 10kV dalekovod na kat. parcelama broj 333, 332, 331 330, 329, 328, 327, 314, 313, 310, 307, 305, 304, 303, 302, 301, 907/1, 908/2, 908/1, 912, 899/3, 905/3, 905/2, 899/2, 899/1, 905/1, 897/1, 898, 1261, 948, 941, 945, 943, 944, 953, 988, 986/1, 981, 954/2, 978/4, 955/1, 961, 956/3, 956/1, 979/1, 978/2, 978/3, 984/2, 985/5, 977, 975, 976, 959, 960 KO Stevanovac, Opština Mojkovac i na svim katastarskim parcelama koje nastanu parcelacijom navedenih katastarskih parcela.
+Početna tačka dalekovoda je postojeća STS "Pobrsijevići", krajnja tačka je buduća STS "Delići", u dužini oko 1835m (sve prema dokumentaciji priloženoj u okviru zahtjeva CEDIS-a, broj 30-30-36602 od 11.12.2025. godine, zavedenog na pisarnici Opštine Mojkovac pod brojem 01- 018/25-2489 od 15.12.2025. godine).
+Sve navedene katastarske parcele nalaze se u zahvatu prostorno-planskog rješenja Prostorno- urbanističkog plana Opštine Mojkovac ("Službeni list CG - Opštinski propisi", br. 19/11 i 9/14, "Službeni list CG", broj 36/19).
