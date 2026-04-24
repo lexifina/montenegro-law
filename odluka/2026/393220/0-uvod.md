@@ -1,0 +1,2 @@
+Na osnovu člana 36 i 37 Statuta Opštine Danilovgrad (,,Službeni list CG - Opštinski propisi", broj 43/18) člana 6 i 11 Odluke o obrazovanju radnih tijela Skupštine (,,Službeni list RCG - Opštinski propisi", broj 46/06) i člana 47 stav 1 Poslovnika Skupštine opštine Danilovgrad (,,Službeni list CG - Opštinski propisi", broj 59/24) Skupština opštine Danilovgrad, na sjednici održanoj 30. 3, 6. 4. i 9. 4. 2026. godine, donosi
+ODLUKU
