@@ -1,0 +1,38 @@
+Obrazac 1
+EVIDENCIJA O RADU MEDICINSKE SESTRE, ODNOSNO ZDRAVSTVENOG TEHNIČARA U USTANOVAMA PREDŠKOLSKOG VASPITANJA I OBRAZOVANJA
+HIGIJENSKO-EPIDEMIOLOŠKA KONTROLA PROSTORA
+PRIJEM I ZDRAVSTVENI NADZOR DJECE Prijem __________________________________ (dolazak prvog djeteta i odlazak posljednjeg djeteta) Evidencija djece u vaspitnoj grupi na dnevnom nivou _________________________________ Postupanje u slučaju pogoršanja zdravstvenog stanja djeteta ___________________________ ____________________________________________________________________________ ____________________________________________________________________________ Preventivni pregled djece na pedikulozu (svaki ponedjeljak, po potrebi i češće) ______________ Evidencije o radu sa djecom u cilju stvaranja higijenskih navika kod djece, kao i zadovoljavanju fizioloških potreba djeteta (potrebe za snom, za njegom i sl.) ____________________________________________________________________________
+Evidencije o sprovođenju kontrole lične higijene kod djece
+Evidencije o higijeni posteljine
+Evidencija realizacije dnevnog jelovnika ☐ Jelovnik za dan realizovan u skladu sa planom Napomena: __________________________________________________________________ Evidencija primjene terapije (u skladu sa važećim protokolom Ustanove) __________________ ___________________________________________________________________________ Evidencija povreda djece (u skladu sa važećim protokolom Ustanove)
+Aktivnost
+Izvršeno
+✔
+Nije
+izvršeno ✖ Korektivna mjera / Napomena
+Provjetravanje radne sobe
+☐
+☐
+__________________________
+Dezinfekcija kvaka i kontaktnih površina
+☐
+☐
+__________________________
+Dezinfekcija radnih površina
+☐
+☐
+__________________________
+Kontrola higijene sanitarnih prostorija
+☐
+☐
+__________________________
+Pranje i dezinfekcija igračaka na nedeljnom
+nivou (češće po potrebi)
+☐
+☐
+__________________________ ___________________________________________________________________________ Evidencija zaraznih oboljenja djece (u skladu sa važećim protokolom Ustanove) ___________________________________________________________________________ Evidencije o savjetodavnom radu sa roditeljima ____________________________________________________________________________
+____________________________________________________________________________
+Dodatne bilješke:
+___________________________________________________________________________ ___________________________________________________________________________
+Medicinska sestra, odnosno zdravstveni tehničar
+______________________
