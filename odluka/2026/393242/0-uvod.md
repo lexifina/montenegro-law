@@ -1,0 +1,3 @@
+Na osnovu čl. 38 st.1. tač. 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), čl. 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", broj 21/09, 40/2011, 23/25 i 160/25), čl. 201, 208 i 216 Zakona o svojinsko- pravnim odnosima ("Službeni list CG", br. 19/09 i 29/25) i čl. 40 stav 1 tačka 9 Statuta Opštine Pljevlja ("Službeni list CG - Opštinski propisi", broj 46/18), Skupština opštine Pljevlja, na sjednici održanoj dana 6. 4. i 7. 4. 2026. godine, donijela je
+ODLUKU
+o ustanovljavanju stvarne službenosti u korist DOO "Crnogorski elektrodistributivni sistem" Podgorica radi izgradnje energetskog objekta od opšteg interesa STS "Dabovina 3" 10/0.4 kV-160 kVA sa priključnim DV 10 kV i uzemljenjem
