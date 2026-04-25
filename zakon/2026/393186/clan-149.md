@@ -1,0 +1,13 @@
+# Član 149
+## Projektovanje, proizvodnja i održavanje sistema vazdušne plovidbe
+(1) Tehničko obezbjeđenje sistema vazdušne plovidbe obuhvata projektovanje, postavljanje, održavanje i tehnički nadzor nad radom i ispravnošću tehničkih sistema, sredstava i objekata koji se koriste za vršenje kontrole letenja, informisanje vazduhoplova u letu, regulisanje protoka saobraćaja i poslova vazduhoplovne meteorologije.
+(2) Tehnički sistemi, sredstva i objekti iz stava 1 ovog člana koji se nalaze na teritoriji Crne Gore su svojina Crne Gore, a koriste ih pružaoci ATM/ANS usluga.
+(3) Pružalac ATM/ANS usluga mora da ima: tehničku dokumentaciju, uputstva za korišćenje i program tehničkog održavanja i kalibraže, rezervno energetsko napajanje i klimatizaciju kada je to neophodno za tehničke sisteme iz stava 2 ovog člana.
+(4) Pružalac ATM/ANS usluga dužan je da podatke o tehničkim sistemima, sredstvima i objektima, podatke o njihovom prestanku rada ili kvaru, kao i o uvođenju novih tehničkih sistema, opreme i uređaja objavljuje na način uobičajen u vazdušnom saobraćaju.
+(5) Pravna lica uključena u projektovanje, proizvodnju i održavanje sistema vazdušne plovidbe moraju da imaju sertifikat ili da daju izjavu o sopstvenoj sposobnosti i raspolaganju sredstvima za ispunjavanje odgovornosti povezanih sa aktivnostima koje se sprovode u skladu sa propisima donesenim na osnovu ovog člana.
+(6) Poslove iz stava 1 ovog člana obavlja pružalac ATM/ANS usluga ili pravna lica iz stava 5 ovog člana na način koji utvrđuje Agencija.
+(7) Sertifikat iz stava 5 ovog člana sadrži ovlašćenja za vršenje pojedinih poslova.
+(8) Uslove za izdavanje, održavanje, izmjenu, ograničenje, suspenziju i ukidanje sertifikata iz stava 5 ovog člana i podnošenje izjave za pravna lica iz stava 5 ovog člana utvrđuje Agencija.
+(9) Slučajeve u kojima su pružaoci ATM/ANS usluga dužni da podnesu Agenciji izjavu da su ATM/ANS sistemi i sastavni djelovi ATM/ANS sistema koje namjeravaju da koriste usklađeni sa specifikacijama koje utvrđuje Agencija, kao i uslove i ovlašćenja pružalaca ATM/ANS usluga koji mogu da daju takve izjave utvrđuje Agencija.
+(10) Slučajeve u kojima ATM/ANS sistemi i sastavni djelovi ATM/ANS sistema moraju da imaju sertifikat, kao i uslove za izdavanje, održavanje, izmjenu, ograničavanje, suspenziju i ukidanje sertifikata i ovlašćenja za vršenje pojedinih poslova te specifikacije za te sisteme i sastavne djelove utvrđuje Agencija.
+(11) Slučajeve u kojima pravna lica iz stava 5 ovog člana mogu da daju izjavu da su ATM/ANS sistemi i sastavni djelovi ATM/ANS sistema usklađeni sa specifikacijama koje utvrđuje Agencija i da su pogodni za upotrebu, kao i uslove i ovlašćenja tih pravnih lica koja mogu da daju takve izjave utvrđuje Agencija.

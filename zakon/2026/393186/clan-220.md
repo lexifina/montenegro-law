@@ -1,0 +1,5 @@
+# Član 220
+## saobraćaja
+(1) Poslovi inspekcijskog nadzora koji se odnose na vazduhoplov, UAS, vazduhoplovne komponente i vazdušni saobraćaj obuhvataju nadzor nad primjenom propisa koji se odnose na: vazduhoplov i UAS, posebno u pogledu ispunjavanja uslova za sigurnu upotrebu vazduhoplova i vazduhoplovne komponente, plovidbenost vazduhoplova, gradnju, prepravku, obnovu i održavanje vazduhoplova i vazduhoplovne komponente, opremu vazduhoplova, isprave, knjige i priručnike vazduhoplova, vazdušni saobraćaj u pogledu ispunjavanja propisanih uslova za sigurno obavljanje vazdušnog prevoza, održavanje linija i reda letenja u prevozu u vazdušnom saobraćaju, ispunjavanje uslova za sigurnu upotrebu vazduhoplova za sopstvene potrebe i ispunjavanje uslova za obavljanje drugih djelatnosti u vazdušnom saobraćaju.
+(2) Inspektor može da zahtijeva vanredni pregled vazduhoplova, ukoliko postoji opravdana sumnja u plovidbenost vazduhoplova.
+(3) Ako se pregled vazduhoplova obavlja na zahtjev inspektora, naknada za obavljeni pregled vazduhoplova radi utvrđivanja plovidbenosti se ne plaća, ako se pregledom utvrdi da je vazduhoplov plovidben.

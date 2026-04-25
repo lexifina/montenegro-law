@@ -1,0 +1,7 @@
+# Član 228
+## Baza evropskih vazduhoplovnih inspektora
+(1) Agencija može, u okviru obavljanja poslova sertifikacije i nadzora, da sarađuje sa grupom evropskih vazduhoplovnih inspektora i drugog osoblja koje ima stručno znanje radi pružanja ili primanja stručne pomoći između nacionalnih nadležnih organa i EASA.
+(2) Evropski vazduhoplovni inspektori i drugo osoblje koji učestvuju u sprovođenju aktivnosti iz stava 1 ovog člana postupaju pod nadzorom, instrukcijama i odgovornošću Agencije.
+(3) Inspektori i drugo osoblje iz stava 2 ovog člana obavljaju stručne, tehničke i faktičke radnje potrebne za sprovođenje nadzora i sertifikacije.
+(4) Izjave, zapisnici i izvještaji koje evropski vazduhoplovni inspektori i drugo osoblje sačine u okviru aktivnosti iz ovog člana smatraju se u svim aspektima jednakim izjavama, zapisnicima i izvještajima nadzornika i inspektora za vazdušni saobraćaj Agencije i predstavljaju prihvatljive dokaze u upravnim i sudskim postupcima.
+(5) Vrste postupaka sertifikacije i nadzora u kojima mogu da učestvuju evropski vazduhoplovni inspektori i drugo osoblje, uslove stručne kvalifikacije i iskustva za nadzornike i inspektore za vazdušni saobraćaj Agencije koji učestvuju u mehanizmu saradnje i za evropske vazduhoplovne inspektore i drugo osoblje koji učestvuju u aktivnostima iz stava 2 ovog člana, postupak podnošenja zahtjeva za angažovanje evropskih vazduhoplovnih inspektora i drugog osoblja, kao i način i postupak nadoknade troškova utvrđuje Agencija.

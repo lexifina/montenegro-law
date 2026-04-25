@@ -1,0 +1,9 @@
+# Član 19
+## Odobravanje letova stranih vazdušnih prevoznika sa aerodroma ili na aerodrome u Crnoj Gori
+(1) Ako međunarodnim ugovorom nijesu uređena saobraćajna prava između Crne Gore i države stranog vazdušnog prevoznika, a strani vazdušni prevoznik podnosi zahtjev za obavljanje pojedinačnog leta ili serije do četiri leta u povremenom vazdušnom prevozu putnika, uz zahtjev prilaže i izjavu o saglasnosti domaćeg vazdušnog prevoznika koji je ovlašćen i osposobljen za obavljanje traženog prevoza.
+(2) Ako domaći vazdušni prevoznik nije saglasan da strani vazdušni prevoznik obavi povremeni let iz stava 1 ovog člana, dužan je da u roku od tri dana od dana prijema zahtjeva o tome obavijesti Agenciju i podnosioca zahtjeva, čime preuzima obavezu da let obavi pod istim ili sličnim uslovima u pogledu kapaciteta vazduhoplova i vremena obavljanja.
+(3) Ako domaći vazdušni prevoznik ne dostavi Agenciji i podnosiocu zahtjeva odgovor u roku od tri dana smatra se da je saglasan.
+(4) Ako međunarodnim ugovorom nijesu uređena saobraćajna prava između Crne Gore i države stranog vazdušnog prevoznika, a strani vazdušni prevoznik traži odobrenje za obavljanje redovnog vazdušnog prevoza ili serije od više od četiri vanredna leta Agencija je dužna da tokom postupka odobravanja pribavi prethodnu saglasnost Ministarstva.
+(5) Ministarstvo izdaje saglasnost iz stava 4 ovog člana ako ocijeni da je obavljanje traženog vazdušnog prevoza u skladu sa politikom Vlade u oblasti vazdušnog saobraćaja, strategijom razvoja i interesima domaćih vazduhoplovnih subjekata.
+(6) Agencija ukida izdato odobrenje ako utvrdi da strani vazdušni prevoznik ne obavlja saobraćaj u skladu sa izdatim odobrenjem, međunarodnim ugovorom ili ako više ne ispunjava uslove iz ovog zakona i propisa iz stava 7 ovog člana.
+(7) Izuzeća, bliže uslove, sadržaj zahtjeva i način izdavanja i ukidanja odobrenja utvrđuje Agencija, uz prethodnu saglasnost Ministarstva.

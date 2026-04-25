@@ -1,0 +1,8 @@
+# Član 192
+## Rok za rješavanje u upravnom postupku
+(1) Ako je u postupku koji se pokreće na zahtjev stranke potrebno da se sprovede ispitni postupak, Agencija je dužna da donese rješenje ili drugi upravni akt i dostavi ga stranci najkasnije u roku od 12 mjeseci od dana podnošenja formalno potpunog zahtjeva.
+(2) Agencija može da produži rok iz stava 1 ovog člana za najviše šest mjeseci, ako je to potrebno zbog obimnih provjera koje su neophodne za donošenje rješenja ili drugog upravnog akta ili zbog drugih okolnosti slučaja za koje Agencija ne snosi odgovornost.
+(3) Agencija je dužna da u roku od 15 dana od dana prijema zahtjeva izvrši formalnu procjenu dokumentacije za rješavanje zahtjeva propisanu ovim zakonom.
+(4) Izuzetno od stava 3 ovog člana, u postupku izdavanja AOC, izdavanja operativne licence, postupku sertifikacije aerodroma, sertifikacije pružaoca ATM/ANS usluga, odobravanja promjena u funkcionalnom sistemu, sertifikacije organizacije za projektovanje vazduhoplova, odobravanja organizacije za proizvodnju vazduhoplova, izdavanje uvjerenja o tipu vazduhoplova, odobravanja organizacije za održavanje vazduhoplova, odobravanja organizacije za obezbjeđenje kontinuirane plovidbenosti, kvalifikaciju uređaja za simuliranje letenja i odobravanje organizacija za obuku, Agencija je dužna da u roku od 60 dana od dana prijema zahtjeva izvrši formalnu procjenu dokumentacije propisanu ovim zakonom.
+(5) Ako zahtjev iz st. 3 i 4 ovog člana nije potpun, Agencija pisanim putem obavještava
+podnosioca zahtjeva da zahtjev dopuni traženim podacima u roku određenom u obavještenju, a koji teče od dana dostavljanja obavještenja.

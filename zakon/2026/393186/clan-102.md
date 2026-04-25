@@ -1,0 +1,5 @@
+# Član 102
+## Projektovanje i proizvodnja UAS
+(1) UAS moraju da budu u skladu sa tehničkim zahtjevima i pravilima i procedurama za plovidbenost, osim ako se radi o privatno izrađenom sistemu ili o UAS koji se koristi samo za operacije u okviru vazduhoplovno-modelarskog kluba ili udruženja.
+(2) Tehničke zahtjeve za projektovanje i proizvodnju UAS koji su namijenjeni za korišćenje u Crnoj Gori, tehničke zahtjeve za projektovanje i proizvodnju dodataka za daljinsku identifikaciju, tipove UAS čije projektovanje, proizvodnja i održavanje podliježu sertifikaciji i pravila za isporuku UAS, kompleta pribora i dodataka za daljinsku identifikaciju na tržištu i njihovo kretanje na tržištu propisuje Ministarstvo, uz saglasnost organa državne uprave nadležan za infrastrukturu kvaliteta.
+(3) Operator UAS je dužan da u slučajevima predviđenim u propisu iz stava 2 ovog člana obezbijedi da UAS prati odgovarajuća izjava o usaglašenosti, uključujući upućivanje na odgovarajuću klasu i da je odgovarajuća identifikaciona oznaka klase pričvršćena za bespilotni vazduhoplov.

@@ -1,0 +1,5 @@
+# Član 158
+## Program kontrole kvaliteta bezbjednosti civilnog vazduhoplovstva
+(1) Program kontrole kvaliteta bezbjednosti civilnog vazduhoplovstva donosi Vlada, na predlog Odbora za bezbjednost.
+(2) Program iz stava 1 ovog člana može da bude označen određenim stepenom tajnosti u skladu sa zakonom kojim se uređuje tajnost podataka.
+(3) Program iz stava 1 ovog člana sadrži najmanje: organizaciju i nadležnosti subjekata uključenih u kontrolu kvaliteta bezbjednosti civilnog vazduhoplovstva, način praćenja kvaliteta sprovođenja mjera bezbjednosti civilnog vazduhoplovstva, kvalifikacije inspektora i nadzornika utvrđene aktom o sistematizaciji, način vršenja nadzornih aktivnosti, način izvještavanja nadzornih aktivnosti utvrđene aktima Agencije, način vršenja internih kontrola operatora aerodroma, operatora vazduhoplova i drugih subjekata, način i aktivnosti na otklanjanju uočenih nedostataka u kontroli kvaliteta i druge aktivnosti od značaja za kontrolu kvaliteta bezbjednosti civilnog vazduhoplovstva.

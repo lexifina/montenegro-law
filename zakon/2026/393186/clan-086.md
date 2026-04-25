@@ -1,0 +1,5 @@
+# Član 86
+## Obaveze vođe vazduhoplova
+(1) Vođa vazduhoplova dužan je da obavlja let vazduhoplova u skladu sa pravilima i procedurama propisanim ovim zakonom, od kojih može da odstupi samo u krajnjoj nuždi zbog sigurnosti vazduhoplova ili lica u vazduhoplovu.
+(2) Vođa vazduhoplova u komercijalnom vazdušnom saobraćaju dužan je da, lično ili preko članova posade, obezbijedi: da se svi putnici prije polijetanja, odnosno nakon polijetanja upoznaju sa postupcima u slučaju opasnosti, postupanjem sa elektronskim uređajima, sa mjestom smještaja i načinom upotrebe sigurnosne opreme za slučaj opasnosti, da svi putnici prije polijetanja i slijetanja, kao i tokom leta u slučaju turbulencije, budu vezani sigurnosnim pojasevima, da se propisane mjere sigurnosti primjenjuju i da u slučaju opasnosti svi članovi posade i putnici izvršavaju njegova uputstva i naredbe.
+(3) Vođa vazduhoplova dužan je da, prije polijetanja, provjeri sposobnost i pripremljenost vazduhoplova i posade vazduhoplova za siguran let i da li se sve propisane isprave i knjige nalaze u vazduhoplovu.
