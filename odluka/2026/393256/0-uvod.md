@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 33 stav 1 tačka 22 Statuta Opštine Plav ("Službeni list Crne Gore - Opštinski propisi", broj 44/18), a sve u vezi sa člana 40 Odluke o osnovanju Društva sa ograničenom odgovornošću Lokalni javni emiter "Radio Plav" ("Službeni list Crne Gore - Opštinski propisi" broj 2/2026), Skupština opštine Plav, na sjednici od 6. 4. 2026. godine, donijela je
+ODLUKU
