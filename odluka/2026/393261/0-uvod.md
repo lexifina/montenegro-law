@@ -1,0 +1,3 @@
+Na osnovu člana 28 stav 1 tačka 5 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 15 stav 1 tačka 5 i člana 33 stav 1 tačka 2 Statuta Opštine Plav ("Službeni list Crne Gore - Opštinski propisi", broj 44/18) i člana 1, člana 2, člana 2a i člana 4a Zakona o eksproprijaciji ("Službeni list Crne Gore", br. 55/00, 12/02, 28/06, 21/08, 30/17, 75/18, 33/24 i 53/25), Skupština opštine Plav, na sjednici održanoj dana 6. 4. 2026. godine, donijela je
+ODLUKU
+o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za sanaciju dijela Jezerske ulice od raskrsnice sa Ulicom Racina
