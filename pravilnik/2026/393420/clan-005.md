@@ -1,0 +1,4 @@
+# Član 5
+## Razmjena podataka između relevantnih učesnika
+Željeznički prevoznici, upravljači infrastrukture i subjekti nadležni za održavanje, uključujući njihove izvođače, obezbjeđuju putem ugovora međusobnu razmjenu svih podataka od značaja za bezbjednost, koji proizlaze iz primjene postupka kontrole iz Priloga, kako bi se omogućilo drugoj strani da preduzme nužne korektivne radnje za obezbjeđivanje trajne bezbjednosti željezničkog sistema.
+Ako se primjenom postupka kontrole utvrde rizici od značaja za bezbjednost, nastali zbog nedostataka, konstrukcionih neusklađenosti ili nepravilnosti tehničke opreme, uključujući nepravilnosti strukturnih podsistema, željeznički prevoznici, upravljači infrastrukture i subjekti nadležni za održavanje dužni su da te rizike prijave drugim relevantnim učesnicima, kako bi im se omogućilo preduzimanje nužnih korektivnih radnji radi obezbjeđenja trajne bezbjednosti željezničkog sistema.

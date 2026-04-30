@@ -1,0 +1,9 @@
+# Član 6
+## Izvještavanje
+Upravljači infrastrukture i željeznički prevoznici dužni su da izvještavaju nacionalni organ nadležan za bezbjednost (Agencija za željeznice, u daljem tekstu Agencija) o primjeni ovog Pravilnika, putem svojih godišnjih izvještaja o bezbjednosti, u skladu sa članom 55 Zakona o bezbjednosti i interoperabilnosti željeznice.
+Agencija za željeznice je dužna da izvještava o primjeni ovog Pravilnika od strane željezničkih prevoznika, upravljača infrastrukture i, u mjeri u kojoj su s tim upoznati, subjekata nadležnih za održavanje, u skladu sa članom 55 Zakona o bezbjednosti i interoperabilnosti željeznice.
+Godišnji izvještaj o održavanju subjekata nadležnih za održavanje teretnih vagona mora da sadrži podatke o iskustvu subjekata nadležnih za održavanje u primjeni ovog Pravilnika. Agencija prikuplja navedene podatke u dogovoru sa nadležnim organima za sertifikaciju.
+Drugi subjekti nadležni za održavanje koji nijesu obuhvaćeni Pravilnikom o uslovima za sertifikaciju lica zaduženih za održavanje teretnih željezničkih kola, dužni su da sa Agencijom dijele svoja iskustva u vezi sa primjenom ovog Pravilnika. Agencija koordinira razmjenu iskustava sa subjektima nadležnim za održavanje.
+Agencija prikuplja informacije o iskustvima u primjeni ovog Pravilnika i, ukoliko je potrebno, daje EU Agenciji za željeznice preporuke za unapređenje metode iz ovog Pravilnika.
+Agencija za željeznice pomaže EU Agenciji za željeznice u prikupljanju informacija od željezničkih prevoznika i upravljača infrastrukture.
+Najkasnije tri godine od stupanja na snagu ovog pravilnika, Agencija podnosi EU Agenciji za željeznice izvještaj u kojem se analizira djelotvornost metode i iskustva koja su imali željeznički prevoznici, upravljači infrastrukture i subjekti nadležni za održavanje, primjenom ovog Pravilnika.
