@@ -1,0 +1,31 @@
+OBRAZAC
+CRNA GORA ______________________________________________
+(organ državne uprave nadaležan za poslove finansija)
+ZAHTJEV
+ZA UPIS PROMJENE PODATAKA U REGISTAR PRUŽALACA RAČUNOVODSTVENIH
+USLUGA
+1. Podaci o pravnom licu/preduzetniku:
+Puno poslovno ime:
+______________________________________________________________________________
+Skraćeni naziv:
+________________________________________________________________________________
+Adresa sjedišta:
+________________________________________________________________________________
+Broj i datum rješenja o izdavanju dozvole za pružanje računovodstvenih usluga:
+________________________________________________________________________________
+PIB:
+________________________________________________________________________________
+2. Vrsta promjene (Označiti i opisati promjenu) ☐ Promjena sjedišta/adrese ☐ Promjena djelatnosti ☐ Promjena vlasničke strukture ☐ Promjena zakonskih zastupnika ☐ Promjena lica odgovornog za vođenje poslovnih knjiga ☐ Drugo:
+________________________________________________________________________________
+3. Podaci nakon promjene Novi podaci:
+________________________________________________________________________________
+4. Osnov za promjenu ________________________________________________________________________________
+5. Priložena dokumentacija ☐ Izvod iz CRPS-a sa evidentiranom promjenom šifre djelatnosti/adrese sjedišta i sl.
+☐ Novi ugovor o zakupu poslovnog prostora ☐ Izmijenjeni statut ili osnivački akt ☐ Relevantna dokumentacija o licu odgovornom za vođenje poslovnih knjiga ☐ Drugo:
+________________________________________________________________________________
+6. Potpis ovlašćenog lica Ime i prezime:
+________________________________________________________________________________
+Potpis:
+________________________________________________________________________________
+Datum:
+________________________________________________________________________________
