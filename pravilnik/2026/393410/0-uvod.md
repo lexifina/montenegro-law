@@ -1,0 +1,2 @@
+Na оsnоvu člаnа 13 stаv 1, tačka 6) Statuta Agencije za željeznice ("Službеni list CGˮ, broj 36/26), i člana 16 stаv 4 Zаkоnа o bezbjednosti i interoperabilnosti željeznice ("Službеni list CGˮ, broj 160/25), Agencija za željeznice dоnijеla је
+PRAVILNIK O MODULIMA ZA POSTUPKE ZA PROCJENU USAGLAŠENOSTI, POGODNOSTI ZA UPOTREBU I EZ VERIFIKACIJU PODSISTEMA KOJI SE KORISTE U TEHNIČKIM SPECIFIKACIJAMA ZA INTEROPERABILNOST
