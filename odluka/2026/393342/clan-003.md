@@ -1,0 +1,77 @@
+# Član 3
+Savjet čine:
+1) predstavnici dijaspore - iseljenika:
+- Stanka Pejanović, Republika Srbija,
+- Vuk Filipović, Republika Srbija,
+- Prof.dr Muamer Kalić, Bosna i Hercegovina,
+- Ammar Miraščija, Bosna i Hercegovina,
+- Alija Šukurica, Republika Hrvatska,
+- Milica Radojičić-Mikulić, Republika Hrvatska,
+- Pedja Ašanin Gole, Republika Slovenija,
+- Vildan Ramusović, Republika Slovenija,
+- Nedžad Nurković, Savezna Republika Njemačka,
+- Fadil Azemović, Savezna Republika Njemačka,
+- Edin Latić, Veliko Vojvodstvo Luksemburg,
+- Enver Korać, Veliko Vojvodstvo Luksemburg,
+- Jasmin Novaj, Sjedinjene Američke Države,
+- Senad Perazić, Sjedinjene Američke Države,
+- Refik Akova, Republika Turska,
+- Hilmi Erdem, Republika Turska,
+- Juan Vladimir Martinovich, Republika Argentina,
+- Stella Maris Arnijas, Republika Argentina,
+- Marinko Cullafiq, Republika Albanija,
+- Šefkija Ćeman, Republika Kosovo,
+- prof.dr Zećir Ramčilović, Republika Sjeverna Makedonija,
+- Dragan Vrbničanin, Republika Italija,
+- Hajran Pepić, Švajcarska Konfederacija,
+- Seadin Dino Kolar, Kanada,
+- Emrah Hot, Kraljevina Nizozemska,
+- Mirela Avdić, Kraljevina Švedska,
+- Alexandre Miloš Marković, Republika Francuska,
+- Jelena Popović, Republika Austrija,
+- Olivera Zorić, Republika Kipar,
+- Mihailo Mandić, Australija,
+- Nicolas Klisich, Urugvaj,
+- Mirza Redžić, Japan;
+2) predstavnici organa državne uprave:
+- Mirsad Azemović, ministar dijaspore,
+- Ervin Ibrahimović, ministar vanjskih poslova,
+- Danilo Šaranović, ministar unutrašnjih poslova,
+- Anđela Jakšić-Stojanović, ministarka prosvjete, nauke i inovacija,
+- dr Tamara Vujović, ministarka kulture i medija,
+- dr Vojislav Šimun, ministar zdravlja,
+- Damir Gutić, ministar socijalnog staranja, brige o porodici i demografije,
+- Nik Gjeloshaj, ministar ekonomskog razvoja,
+- mr Simonida Kordić, ministarka turizma,
+- Fatmir Gjeka, ministar ljudskih i manjinskih prava;
+3) predsjednik nadležnog odbora:
+- Duško Stjepović, predsjednik Odbora za međunarodne odnose i iseljenike Skupštine Crne Gore;
+4) predsjednici opština sa najvećim brojem dijaspore - iseljenika:
+- Rahman Husović, predsjednik Opštine Rožaje,
+- Nihad Canović, predsjednik Opštine Plav,
+- Sanel Balić, predsjednik Opštine Gusinje,
+- Samir Agović, predsjednik Opštine Petnjica,
+- Genci Nimanbegu, predsjednik Opštine Ulcinj,
+- Aleksandar Grgurović, predsjednik Opštine Danilovgrad,
+- Dušan Raičević, predsjednik Opštine Bar,
+- Đole Lutovac, predsjednik Opštine Berane;
+5) predstavnici drugih institucija i udruženja:
+- Jelena Orlandić Medojević, koordinatorka za dijasporu u Matici crnogorskoj,
+- Suljo Mustafić, predsjednik Bošnjačkog vijeća u Crnoj Gori,
+- Faik Nika, predsjednik Nacionalnog savjeta Albanaca u Crnoj Gori,
+- Ramo Barčić, potpredsjednik Romskog savjeta u Crnoj Gori,
+- dr Momčilo Vuksanović, predsjednik Srpskog nacionalnog savjeta Crne Gore,
+- mr Kadrija Kurpejović, generalni sekretar Savjeta muslimana Crne Gore,
+- Zvonimir Deković, predsjednik Hrvatskog nacionalnog vijeća Crne Gore,
+- prof. dr Nedeljko Latinović, direktor instituta za interdisciplinarne i multidisciplinarne studije na Univerzitetu Crne Gore,
+- Damir Ramović, urednik Satelitskog programa na Radio-Televiziji Crne Gore,
+- Pavle Radovanović, potpredsjednik Privredne komore Crne Gore,
+- mr Dragana Otašević, NVO "Centar za politike migracija i multikulturalizam - Center for migration and multiculturalism policies";
+6) istaknute ličnosti koje su se afirmisale u oblastima saradnje sa dijasporom - iseljenicima:
+- Nenad Stevović, Republika Srbija,
+- dr Azra Honsić Bećirovski, Savezna Republika Njemačka,
+- dr Anđela Mićanović, Veliko Vojvodstvo Luksemburg,
+- Edon Alibegu, Sjedinjene Američke Države,
+- Nejra Borišić-Šukalić, Bosna i Hercegovina,
+- dr Aleksandar Videnović, Sjedinjene Američke Države,
+- dr Milenko Kujović, Savezna Republika Njemačka.
