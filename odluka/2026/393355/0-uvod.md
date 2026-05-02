@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 i člana 33 stav 2 u vezi sa članom 39 stav 2 Zakona o državnoj imovini ("Službeni list CG", broj 21/09, 40/11 i 23/25), člana 24 stav 2 Zakona o mladima ("Službeni list CG", br. 25/19 i 27/19), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), kao i člana 43 stav 1 tačka 9 Statuta Opštine Bar ("Službeni list CG - Opštinski propisi", broj 37/18), Skupština opštine Bar, na sjednici održanoj dana 16. 4. 2026. godine, donijela je
+ODLUKU
