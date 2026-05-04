@@ -1,0 +1,5 @@
+# Član 47
+## Usklađena sredstva za ishranu bilja koja predstavljaju rizik
+(1) Ako fitosanitarna inspekcija nakon procedure u skladu sa članom 46 st. 4 i 5 ovog zakona utvrdi da sredstvo za ishranu bilja, i ako je u skladu sa ovim zakonom, predstavlja rizik za zdravlje ljudi, životinja, bilja i životnu sredinu, od relevantnog ekonomskog operatera bez odlaganja zahtijeva da, u određenom razumnom roku i srazmjerno prirodi rizika, preduzme sve odgovarajuće mjere kako bi obezbijedilo da sredstvo za ishranu bilja nakon isporuke na tržište više ne predstavlja rizik, ili da povuče to sredstvo za ishranu bilja sa tržišta ili opozove.
+(2) Ekonomski operater dužan je da obezbijedi odnosno da preduzme sve korektivne mjere za sredstavo za ishranu bilja koje je isporučio na tržište Crne Gore.
+(3) Fitosanitarna inspekcija o tome odmah obavještava Upravu koja notifikuje odnosno obavještava drugu državu, a obavještenje uključuje sve dostupne pojedinosti, a naročito informacije potrebne za identifikaciju sredstva za ishranu bilja, porijeklo i lanac snabdijevanja, vrstu rizika, kao i vrstu i trajanje preduzetih mjera.
