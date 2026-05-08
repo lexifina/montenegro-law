@@ -1,0 +1,4 @@
+# Član 3
+Vlasnik bespravnog objekta plaća naknadu pod uslovom da:
+- je pokrenut postupak legalizacije, - su riješeni imovinsko pravni odnosi na bespravnom objektu i zemljištu na kome je izgrađen, - je bespravni objekat evidentiran na satelitskom i aero foto gametrijskom snimku u skladu sa zakonom kojim se uređuje legalizacija bespravnih objekata, - je bespravni objekat izgrađen na prostoru koji planskim dokumentom nije namjenjen za izgradnju infrastrukturnih i drugih objekata od opšteg interesa, - bespravni objekat ne prelazi regulacionu liniju ili liniju vlasnička parcela ako je izgrađen na prostoru za koji ne postoji važeći planski dokument.
+Organ lokalne uprave nadležan za poslove utvrđivanja naknade (u daljem tekstu: nadležni organ) po službenoj dužnosti pribavlja podatke o ispunjenosti uslova iz stava 1 ovog člana od organa lokalne uprave nadležnog za legalizaciju bespravnih objekata.

@@ -1,0 +1,3 @@
+Na osnovu člana 23 stav 13 Zakona o legalizaciji bespravnih objekata ("Službeni list CG", br. 91/25 i 18/26), člana 38 stav 1 tač. 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18 od 10. 1. 2018, 34/19 od 21. 6. 2019, 38/20 od 25. 4. 2020, 50/22 od 9. 5. 2022, 84/22 od 1. 8. 2022, 81/25 od 29. 7. 2025, 98/25 od 3. 9. 2025) i člana 38 stav 1 tačka 2 i 8 Statuta Opštine Gusinje ("Službeni list CG - Opštinski propisi", br. 3/19 i 24/21), uz prethodnu saglasnost Vlade Crne Gore br. 11-011/26-1015/4 od 2. 4. 2026. godine, Skupština opštine Gusinje, na sjednici održanoj dana 16. 4. 2026. godine, donijela je
+ODLUKU
+o naknadi za urbanu sanaciju Opštine Gusinje
