@@ -1,0 +1,2 @@
+# Član 2
+Svrha nepotpune eksproprijacije je izgradnja četiri 10kV kablovska voda : TS 35/10kV "Herceg Novi" - spojnica na postojeći 10kV kablovski vod TS 35/10kV "Herceg Novi"- TS 10/0,4kV "Srbina 2", tačka A na situacionom planu; TS 35/10kV "Herceg Novi" - TS 10/0,4kV "Španjola"; TS 35/10kV "Herceg Novi" - novi UZ stub u trasi postojećeg DV 10kV "Kameno"(postojeće stubno mjesto br.279) i TS 35/10kV "Herceg Novi" - TS 10/0,4kV "Turion"; KO Topla, KO Podi, opština Herceg Novi.
