@@ -1,0 +1,9 @@
+# Član 1
+Utvrđuje se javni interes za eksproprijaciju nepokretnosti u opštini Andrijevica i to za katastarsku opštinu Gnjili potok:
+1) kat. parcela br. 883/2, pašnjak 7. klase, pov. 09 m2, upisana u Listu nepokretnosti br. 116 kao susvojina na po 1/2 Rajović Bogić Dragomir i Rajović Vukota Ljubica;
+2) kat. parcela br. 888/2, šume 6. klase, pov. 58 m2, kat. parcela br. 888/3, šume 6. klase, pov. 25 m2, kat. parcela br. 887/2, pašnjak 7. klase, pov. 114 m2, upisane u Listu nepokretnosti br. 106 kao susvojina 1/2 Novović Nikola Bogić, 1/4 Novović Dragutin Mišo i 1/4 Novović D. Slobodan;
+3) kat. parcela br. 886/2, pašnjak 7. klase, pov. 204 m2, kat. parcela br. 885/2, šume 7. klase, pov. 443 m2, kat. parcela br. 884/2, pašnjak 7. klase, pov. 274 m2 i kat. parcela br. 975/2, pašnjak 7. klase, pov. 271 m2, upisane u Listu nepokretnosti br. 110 kao svojina 1/1 Novović Panto Vladimir;
+4) kat. parcela br. 1000/2, pašnjak 7. klase, pov. 07 m2 i kat. parcela br. 1000/3, pašnjak 7. klase, pov. 22 m2, upisane u Listu nepokretnosti br. 32 kao susvojina 1/10 Zečević N. Aleksandra, 1/2 Drljević Milan Branka, 1/10 Zonjić Nikola Dijana, 1/10 Obradović N. Hristina, 1/10 Jovančević Nikola Maja i 1/10 Bogavac Nikola Tanja;
+5) kat. parcela br. 985/2, šume 6. klase, pov. 88 m2, kat. parcela br. 985/3, šume 6. klase, pov. 157 m2, kat. parcela br. 983/2, nekategorisani putevi, pov. 131 m2, kat. parcela br. 984/2, pašnjak 6. klase, pov. 57 m2 i kat. parcela br. 984/3, pašnjak 6. klase, pov. 82 m2, upisane u Listu nepokretnosti br. 83 kao svojina 1/1 Novović Božidar Boško
+6) kat. parcela br. 981/2, pašnjak 6. klase, pov. 212 m2, upisana u Listu nepokretnosti br. 84 kao svojina 1/1 Novović Vlado Radomir;
+7) kat. parcela br. 976/2, pašnjak 7. klase, pov. 48 m2, kat. parcela br. 977/2, šume 5. klase, pov. 179 m2 i kat. parcela br. 977/3, šume 5. klase, pov. 11 m2, upisane u Listu nepokretnosti br. 104 kao svojina 1/1 Novović Nikola Bogić.
