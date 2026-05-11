@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom uređuju se način organizovanja, sprovođenja i vrednovanja stručnog usavršavanja članova Inženjerske komore Crne Gore (u daljem tekstu: Komora), sadržina i način vođenja registra sprovedenog stručnog usavršavanja, način vrednovanja stručnog usavršavanja, vođenje evidencije i izdavanje potvrda o ostvarenom broju bodova, načinu finansiranja, kao i druga pitanja od značaja za sprovođenje stručnog usavršavanja.

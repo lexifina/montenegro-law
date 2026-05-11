@@ -1,0 +1,2 @@
+Na osnovu člana 26 stav 1 tačka 6, u vezi člana 45 Statuta Inženjerske komore Crne Gore ("Službeni list CG", br. 5/2026), uz saglasnost Ministarstva prostornog planiranja, urbanizma i državne imovine, br. 1557/1 od 24.04.2026. godine, Savjet Inženjerske komore Crne Gore je na VII sjednici, održanoj dana 02.04.2026. godine, donio
+P R A V I L N I K O NAČINU ORGANIZOVANJA, SPROVOĐENJU I VREDNOVANJU STRUČNOG USAVRŠAVANJA
