@@ -1,0 +1,7 @@
+# Član 27
+## Sljedljivost
+(1) Subjekat u poslovanju hranom ili hranom za životinje dužan je da uspostavi sljedljivost u svim fazama proizvodnje, prerade i distribucije hrane, hrane za životinje, životinja za proizvodnju hrane i/ili supstanci koje se namijenjene da se dodaju u hranu ili hranu za životinje ili se može očekivati da će se dodati u hranu ili hranu za životinje.
+(2) Subjekat u poslovanju hranom ili hranom za životinje dužan je da uspostavi sistem sljedljivosti i postupke na osnovu kojih može identifikovati svako lice od kojeg se snabdijeva hranom, hranom za životinje, životinjama za proizvodnju hrane i svakom drugom supstancom koja je namijenjena, ili se može očekivati da bude ugrađena u hranu ili hranu za životinje i/ili kojima je isporučio svoje proizvode.
+(3) Subjekat u poslovanju hranom ili hranom za životinje iz stava 1 ovog člana dužan je da uspostavi sistem i postupke koji mu omogućavaju da na zahtjev nadležnog organa učini dostupnim sve informacije iz stava 2 ovog člana.
+(4) Subjekat u poslovanju hranom ili hranom za životinje dužan je da hranu ili hranu za životinje koja se stavlja na tržište ili je očekivano da će biti stavljena na tržište označi i identifikuje na odgovarajući način kako bi se omogućila sljedivost putem odgovarajuće dokumentacije ili drugih informacija u skladu sa odgovarajućim zahtjevima utvrđenim posebnim propisima.
+(5) Bliža pravila za sljedivost hrane i hrane za životinje propisuje Ministarstvo.
