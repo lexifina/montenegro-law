@@ -1,0 +1,5 @@
+# Član 47
+## Postupak odobravanja
+(1) Uprava odobrava objekte samo ako se pregledom na licu mjesta prije početka poslovanja dokaže da ispunjavaju odgovarajuće zahtjeve utvrđene u skladu sa članom 32 ovog zakona.
+(2) Uprava može dodijeliti uslovno odobrenje ako je iz pregleda obavljenog na licu mjesta vidljivo da objekat ispunjava sve zahtjeve u pogledu infrastrukture i opreme za bezbjednu primjenu radnih postupaka u skladu sa ovim zakonom; dok se trajno odobrenje dodjeljuje samo ako je iz naknadnog pregleda obavljenog na licu mjesta u roku od tri mjeseca od dodjele uslovnog odobrenja vidljivo da objekat ispunjava i druge zahtjeve iz stava 1 ovog člana, ako je postignut jasan napredak, ali ako objekat i dalje ne ispunjava sve zahtjeve, Uprava može produžiti uslovno odobrenje koje ne smije važiti duže od šest mjeseci.
+(3) Subjekti moraju obezbjediti da objekat prekine poslovanje ako Uprava povuče odobrenje ili, u slučaju uslovnog odobrenja, ako ne produži to odobrenje ili ne izda trajno odobrenje.

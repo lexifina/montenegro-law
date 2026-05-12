@@ -1,0 +1,4 @@
+# Član 37
+## Proizvodnja
+(1) Uvoz, sakupljanje i kretanje nusproizvoda životinjskog porijekla i dobijenih proizvoda koji su namijenjeni za objekte za proizvodnju dobijenih proizvoda iz člana 36 ovog zakona i proizvodnja tih dobijenih proizvoda obavlja se u skladu sa posebnim propisima kojim se uređuju uslovi za taj dobijeni proizvod. (2) Neiskorišćeni materijal iz objekata iz stava 1 ovog člana uklanja se u skladu sa posebnim propisima kojim se uređuje predmetni dobijeni proizvod.
+(3) Ovaj zakon se primjenjuje na uvoz, sakupljanje i kretanje nusproizvoda životinjskog porijekla i dobijenih proizvoda kao i na uklanjanje neiskorišćenog materijala ako posebnim propisima iz člana 36 ovog zakona nijesu propisani uslovi kojima se pod kontrolu stavljaju mogući rizici za javno zdravlje i zdravlje životinja.

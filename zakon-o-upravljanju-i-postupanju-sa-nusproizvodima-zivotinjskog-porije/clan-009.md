@@ -1,0 +1,6 @@
+# Član 9
+## Ograničenja u pogledu zdravlja životinja
+(1) Nusproizvodi životinjskog porijekla i dobijeni proizvodi prijemčivih vrsta životinja ne smiju da budu otpremljeni sa gazdinstva, iz objekata, ili područja na koja se primenjuju ograničenja u skladu sa veterinarskim propisima.
+(2) Izuzetno od stava 1 ovog člana, nusproizvodi životinjskog porijekla i dobijeni proizvodi prijemčivih vrsta životinja mogu da budu otpremljeni sa gazdinstva, iz objekata, ili područja na koja se primjenjuju ograničenja u skladu sa veterinarskim propisima pod uslovima sa ciljem sprečavanja širenja bolesti koje se mogu prenijeti na ljude ili životinje.
+(3) Mjere kojima se sprečava širenje bolesti koje se mogu prenijeti na ljude ili životinje, odnosno uslove pod kojima nusproizvodi životinjskog porijekla i dobijeni proizvodi prijemčivih vrsta životinja mogu da budu otpremljeni sa gazdinstva, iz objekata, ili područja na kojima se primenjuju ograničenja, utvrđuju se propisom Ministarstva.
+(4) Odredbe st. 1 i 2 ovog člana ne primjenjuju se ako se nusproizvodi životinjskog porijekla i dobijeni proizvodi otpremaju u uslovima čiji je cilj sprečavanje širenja bolesti koje se mogu prenijeti na ljude ili životinje.
