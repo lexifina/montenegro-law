@@ -1,0 +1,10 @@
+# Član 8
+Usklađenost subjekata nadležnih za održavanje sa zahtjevima
+Tijelo nadležno za izdavanje ovlašćenja sprovodi aktivnosti nadzora u odnosu na subjekt nadležan za održavanje radi provjere da li se zahtjevi utvrđeni u Prilogu II kontinuirano ispunjavaju. Tijelo sprovodi terenske nadzore najmanje jednomm svakih 12 mjeseci. Cilj izbora vrste nadzorne aktivnosti i lokacije za terenski nadzor je da se obezbijedi da se zahtjevi uopšteno kontinuirano ispunjavaju, pa taj izbor mora biti geografski i funkcionalno uravnotežen. U obzir se uzimaju prethodne nadzorne aktivnosti sprovedene nad subjektom nadležnim za održavanje koji se nadzire.
+Ako tijelo nadležno za izdavanje ovlašćenja utvrdi da subjekt nadležan za održavanje više ne ispunjava zahtjeve na osnovu kojih mu je izdalo ovlašćenje, ono preduzima jednu od sljedećih mjera:
+• dogovara s subjektom nadležnim za održavanje plan za poboljšanje,
+• donosi odluku o ograničavanju područja primjene ovlašćenja subjekta nadležnog za održavanje,
+• privremeno stavlja ovlašćenje van snage ili oduzima ovlašćenje, u zavisnosti od obima neispunjavanja zahtjeva.
+Ako se subjekt nadležan za održavanje ne pridržava plana za poboljšanje ili ako i dalje ne ispunjava zahtjeve utvrđene u Prilogu II, tijelo nadležno za izdavanje ovlašćenja donosi odluku o ograničavanju područja primjene ovlašćenja ili oduzimanju ovlašćenja, u zavisnosti od obima neispunjavanja zahtjeva.
+Ako je ovlašćenje subjekta nadležnog za održavanje oduzeto, subjekt nadležan za nacionalni ili evropski registar vozila dužan je da obezbijedi da se registracije vozila na koja se odnosi to oduzimanje privremeno stave van snage, sve dok se za predmetna vozila ne registruje novi subjekt nadležan za održavanje.
+Svaki subjekt nadležan za održavanje dužan je tijelu nadležnom za izdavanje ovlašćenja podnositi godišnji izvještaj o svom radu te na zahtjev taj izvještaj staviti na raspolaganje nacionalnom tijelu nadležnom za bezbjednost i EU Agenciji. Zahtjevi za taj izvještaj utvrđeni su u Prilogu V.

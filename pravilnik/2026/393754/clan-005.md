@@ -1,0 +1,10 @@
+# Član 5
+Obaveze strana uključenih u postupak održavanja
+Subjekt nadležan za održavanje vozila dužan je željezničkim prevoznicima ili upravljačima infrastrukture, na njihov zahtjev, direktno ili preko posjednika vozila, dostaviti informacije o održavanju vozila i, prema potrebi, o aspektima bitnim za rad vozila.
+Željeznički prevoznik ili upravljač infrastrukture dužan je subjektu nadležnom za održavanje, na njegov zahtjev, direktno ili preko vlasnika vozila, dostaviti informacije o radu vozila.
+Sve strane koje su uključene u postupak održavanja, kao što su željeznički prevoznici, upravljači infrastrukture, vlasnici vozila, subjekti nadležni za održavanje i proizvođači vozila, podsistema ili komponenti, dužne su razmjenjivati relevantne informacije o održavanju u skladu s kriterijumima navedenim u odjeljcima I.7 i I.8 Priloga II.
+Ako bilo koja uključena strana, a posebno željeznički prevoznik ili upravljač infrastrukture, ima dokaze da subjekt nadležan za održavanje ne ispunjava zahtjeve iz člana 14. Direktive (EU) 2016/798 ili iz ovog Pravilnika, ta strana je dužna bez odgađanja o tome obavijestiti tijelo nadležno za izdavanje ovlašćenja i odgovarajuće nacionalno tijelo nadležno za bezbjednost. Tijelo za izdavanje ovlašćenja ili, ako subjekt nadležan za održavanje nema ovlašćenje, relevantno nacionalno tijelo nadležno za bezbjednost preduzima odgovarajuće mjere radi provjere opravdanosti tvrdnje o neispunjavanju zahtjeva.
+Ako dođe do promjene subjekta nadležnog za održavanje, posjednik vozila je, u skladu s članom 47. stav 6. Direktive (EU) 2016/797, dužan bez odlaganja obavijestiti registraciono tijelo iz člana 4. stav 1. Odluke Komisije 2007/756/EZ i zatražiti ažuriranje registra vozila. U toj situaciji:
+- prethodni subjekt nadležan za održavanje dužan je vlasniku vozila bez odlaganja dostaviti dokumentaciju o održavanju;
+- prethodni subjekt nadležan za održavanje razrješava se obaveze u trenutku brisanja iz registra vozila;
+- ako ne postoji novi subjekt nadležan za održavanje, registracija vozila se privremeno stavlja van snage.
