@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se sadržaj zahtjeva za priznavanje važenja strane isprave odnosno znaka usaglašenosti i način priznavanja stranih isprava i znakova usaglašenosti, kao i sadržaj i obrazac izjave o uzajamnom priznavanju proizvoda koji se zakonito stavljaju na tržište države članice ili je stavljen na raspolaganje krajnjim korisnicima u državi članici, sadržaj dokumentacije i druga pitanja u vezi uzajamnog priznavanja proizvoda.
