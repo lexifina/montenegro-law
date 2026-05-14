@@ -1,0 +1,2 @@
+Na osnovu člana 3, 6, 7 i 8 Zakona o zaštiti i spašavanju ("Službeni list CG", br. 13/07, 5/08, 32/11, 54/16, 146/21, 3/23 i 82/25), člana 38 stav 1 tač. 2 i 30 i člana 30 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 58 stav 1 tač. 2 i 30 Statuta Opštine Ulcinj ("Službeni list CG - Opštinski propisi", br. 48/19 i 5/24), Skupština opštine Ulcinj, na sjednici održanoj dana 31.03.2026. godine, donijela je
+ODLUKU
