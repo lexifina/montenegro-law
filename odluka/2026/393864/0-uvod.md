@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 9 Odluke o pristupanju Sporazumu gradonačelnika za klimu i energiju i izradi Akcionog plana za održivu energiju i klimu ("Službeni list CG - Opštinski propisi", broj 53/24) i člana 36 stav 1 tačka 4 Statuta Opštine Mojkovac ("Službeni list CG - Opštinski propisi", br. 29/18 i 37/22), Skupština opštine Mojkovac, na sjednici održanoj dana 27. aprila 2026. godine, donijela je
+ODLUKU
