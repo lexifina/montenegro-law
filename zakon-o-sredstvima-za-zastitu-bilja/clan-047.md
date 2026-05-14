@@ -1,0 +1,8 @@
+# Član 47
+## Prikupljanje podataka o sredstvima za zaštitu bilja
+(1) Radi analize i praćenja prometa i upotrebe sredstava za zaštitu bilja, kao i efikasnijeg nadzora nad prometom i upotrebom sredstava za zaštitu bilja Uprava prikuplja podatke o sredstvima za zaštitu bilja, reziduama sredstava za zaštitu bilja i uređajima za upotrebu i druge podatke potrebne za izradu i održavanje baza podataka i vođenje evidencija, uključujući liste, rješenja o autorizaciji i druge postupke u skladu sa ovim zakonom.
+(2) Uprava prikuplja, koristi i razmjenjuje podatke i informacije iz propisanih baza podataka i evidencija koje vode drugi organi državne uprave, lokalne samouprave, ustanove, laboratorije, ocjenjivači, distributeri, proizvođači sredstava za zaštitu bilja i druge institucije, u skladu sa propisima koji uređuju pravo na pristup informacijama i zaštitu podataka, a naročito podatke koji se odnose na oblast opasnih supstanci i zagađivače životne sredine i ekološki značajne regione.
+(3) Baza podataka iz stava 1 ovog člana mora biti povezana sa Registrom poljoprivrednih gazdinstava, a može se povezivati sa drugim registrima i bazama podataka koje vodi Uprava i/ili Ministarstvo.
+(4) Radi sprovođenja postupaka iz st. 1, 2 i 3 ovog člana Uprava uspostavlja i održava informacioni sistem u oblasti sredstava za zaštitu bilja i obezbjeđuje usklađivanje i povezivanje informacionog sistema sa drugim domaćim i međunarodnim informacionim sistemima u oblasti sredstava za zaštitu bilja.
+(5) Formiranje i održavanje informacionog sistema u oblasti sredstava za zaštitu bilja finansira se iz budžeta Crne Gore.
+(6) Način prikupljanja podataka i informacija, vođenja baze podataka i evidencija iz stava 1 ovog člana i obavezu čuvanja tajnosti propisuje Ministarstvo.

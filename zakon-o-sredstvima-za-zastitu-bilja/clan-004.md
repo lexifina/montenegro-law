@@ -1,0 +1,10 @@
+# Član 4
+## Razvrstavanje sredstava za zaštitu bilja prema namjeni i rok upotrebe
+(1) Sredstva za zaštitu bilja mogu se stavljati u promet na teritoriji Crne Gore samo ako su autorizovana, klasifikovana, razvrstana, pakovana, označena i ako ih prati etiketa i uputstvo za upotrebu, u skladu sa propisima kojima se uređuju opasne supstance, hemikalije i u skladu sa ovim zakonom.
+(2) Sredstva za zaštitu bilja razvrstavaju se prema namjeni.
+(3) Način razvrstavanja sredstava za zaštitu bilja iz stava 2 ovog člana utvrđuje organ državne uprave nadležan za poslove poljoprivrede (u daljem tekstu: Ministarstvo).
+(4) Zabranjeno je stavljati u promet sredstva za zaštitu bilja isteklog roka upotrebe.
+(5) Sredstva za zaštitu bilja kojima je istekao rok upotrebe mogu primjenjivati krajnji korisnici pod uslovom da je na osnovu odgovarajućih laboratorijskih ispitivanja uzorka utvrđeno da su hemijske i fizičke karakteristike uzorka identične onim utvrđenim u rješenju o autorizaciji.
+(6) Sredstva za zaštitu bilja koja se nalaze u prometu a kojima je istekao rok upotrebe distributer i/ili uvoznik povlači iz prometa do dobijanja odgovarajućih laboratorijskih ispitivanja uzorka kojima je utvrđeno da su hemijske i fizičke karakteristike identične onim utvrđenim u rješenju o autorizaciji, a distributer i/ili uvoznik u tom slučaju može produžiti rok upotrebe uz saglasnost nosioca autorizacije.
+(7) U slučaju iz stava 6 ovog člana, na ambalaži (pojedinačnom pakovanju) i zbirnom pakovanju sredstva za zaštitu bilja navodi se novi rok upotrebe naljepnicom koji može da bude najviše dvije godine od dana isteka roka, pod uslovima skladištenja iz autorizacije, a taj rok važi za sve serije tog sredstva za zaštitu bilja proizvedene u toj godini.
+(8) Laboratorijski izvještaji o izvršenim ispitivanjima aktivne supstance iz stava 6 ovog člana moraju da budu dostupni Upravi i fitosanitarnoj inspekciji prilikom vršenja službene kontrole sredstava za zaštitu bilja na mjestu prodaje, kao i na internet stranici naručioca analize.
