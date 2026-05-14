@@ -1,0 +1,8 @@
+# Član 1
+## o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi izgradnje kružnog toka "Pećka petlja" u Rožajama
+Utvrđuje se javni interes za potpunu eksproprijaciju nepokretnosti radi izgradnje kružnog toka "Pećka petlja" u Rožajama, u skladu sa Elaboratom eksporpijacije br. 125 od 2. 2. 2026. godine urađen od ,,Geo Friends" d.o.o Podgorica, a koji obuhvata sljedeće kat. parcele:
+- dio kat. parcele br. 1589/1 KO Rožaje, u površini od 8 m2 način korišćenja dvorište, upisane u LN br. 426 na ime Ganić Ethem Ismet korišćenje 1/1, Opština Rožaje svojina 1/1,
+- dio kat. parcele br. 1590/2 KO Rožaje, u površini od 39 m2 način korišćenja livada 2. klase, upisane u LN br. 426 na ime Ganić Sabahudun Dževdet korišćenje 1/4, Ganić Sabahudin Elvis korišćenje 1/4, Ganić Sabahudin Sadat korišćenje ½, Opština Rožaje svojina 1/1,
+- dio kat. parcele br. 1593/1 KO Rožaje, u površini od 3 m2 način korišćenja nekategorisani putevi ,upisane u LN br. 859 na ime Kujević Omer Hamed sukorišćenje 1/4, na ime Kujević Omer Hana sukorišćenje 1/4, na ime Kujević Omer Samid sukorišćenje 1/4, na ime Kujević Vehbija Rahman rođ. Kačar sukorišćenje 1/4, Opština Rožaje svojina 1/1,
+- dio kat. parcele br. 1594/1 KO Rožaje, u površini od 1 m2 način korišćenja nekategorisani putevi, upisane u LN br. 859 na ime Kujević Omer Hamed sukorišćenje 1/4, na ime Kujević Omer Hana sukorišćenje 1/4, na ime Kujević Omer Samid sukorišćenje 1/4, na ime Kujević Vehbija Rahman rođ. Kačar sukorišćenje 1/4, Opština Rožaje svojina 1/1,
+- dio kat. parcele br. 1595/2 KO Rožaje, u površini od 1 m2 način korišćenja dvorište, upisane u LN br. 2487 na ime Kardović Ramadan Refik korišćenje 1/1, Opština Rožaje svojina 1/1.

@@ -1,0 +1,2 @@
+Na osnovu člana 1, člana 2, člana 4a Zakona o ekspropijaciji ("Službeni list Republike Crne Gore", br. 55/00, 12/02, 28/06, "Službeni list Crne Gore", br. 21/08, 30/17, 75/18, 33/24 i 53/25), člana 28 stav 1 tačka 5 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20, 50/22 i 84/22, 81/25 i 98/25), člana 28 stav 1 tačka 5 Statuta Opštine Rožaje ("Službeni list CG - Opštinski propisi", br. 38/18 i 16/21), Skupština opštine Rožaje, na sjednici održanoj dana 28. 4. 2026. godine, donijela je
+ODLUKU
