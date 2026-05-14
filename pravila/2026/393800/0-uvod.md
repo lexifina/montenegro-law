@@ -1,0 +1,2 @@
+Na osnovu člana 127 stav 1, a u vezi člana 125 Zakona o energetici ("Službeni list CG", br. 28/25 i 3/26) i člana 61 Statuta DOO Crnogorskog elektrodistributivnog sistema Podgorica broj 10-00- 33893 od 19. 11. 2025. godine, Odbor Direktora putem vansjedničnog izjašnjavanja održanog dana 09.04.2026. godine, utvrdio je
+PROGRAM MJERA PRIMJENE NEDISKRIMINATORNIH USLOVA ZA PRISTUP DISTRIBUTIVNOM SISTEMU ELEKTRIČNE ENERGIJE
