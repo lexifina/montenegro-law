@@ -1,0 +1,2 @@
+Komisija za tržište kapitala (u daljem tekstu: Komisija) na osnovu člana 20 st. 6, člana 22 stav 6 i člana 24 stav 3 Zakona o alternativnim investicionim fondovima ("Službeni list Crne Gore", br. 024/25 od 12.03.2025, 117/25 od 15.10.2025, 014/26 od 09.02.2026) - (u daljem tekstu: Zakon), na 182. sjednici od 29. 4. 2026. godine, je donijela
+PRAVILA O IZDAVANJU DOZVOLE ZA RAD DRUŠTVIMA ZA UPRAVLJANJE ALTERNATIVNIM INVESTICIONIM FONDOVIMA

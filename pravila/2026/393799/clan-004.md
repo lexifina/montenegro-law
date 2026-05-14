@@ -1,0 +1,4 @@
+# Član 4
+## Dostavljanje zahtjeva i podataka
+(1) Komisija može u postupku izdavanja dozvole za rada, pored dokumentacije iz člana 20 Zakona i dokumentacije propisane ovim pravilima, od podnosioca zahtjeva zatražiti i drugu dokumentaciju koju ocijeni potrebnom za odlučivanje o izdavanju dozvole za rad, uključujući i informacije koje su propisane zakonom kojim se uređuje sprečavanje pranja novca i finansiranja terorizma, a koju prikupljaju obveznici tog zakona.
+(2) Dokumentacija propisana ovim Pravilima dostavlja se u originalu ili ovjerenoj kopiji, dok se inostrane isprave dostavljaju prevedene na crnogorski jezik od strane ovlašćenog sudskog tumača za odgovarajući jezik i ovjerene u skladu sa zakonom i međunarodnim propisima (Apostille - Haška konvencija o ukidanju potrebe legalizacije stranih javnih isprava, od 5. oktobra 1961. godine).
