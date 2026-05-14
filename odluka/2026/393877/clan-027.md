@@ -1,0 +1,2 @@
+# Član 27
+U postupku javnog nadmetanja (aukcije) i prikupljanja ponuda (tender) za davanje u zakup nepokretnih stvari u državnoj imovini primjenjuju se odredbe Zakona o državnoj imovini, Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list Crne Gore", br. 44/10 od 30. 7. 2010) i ove odluke kojima je uređen postupak javnog nadmetanja, odnosno prikupljanja ponuda za prodaju nepokretnih stvari.

@@ -1,0 +1,2 @@
+# Član 33
+Ukoliko se zakup objekata iz člana 32 ove odluke daje za potrebe održavanja sportskih, kulturnih, sajamskih, naučnih, stručnih i drugih sličnih potreba i manifestacija, a rok zakupa je kraći od 30 dana, organ opštine ili javna služba koja koristi ili gazduje tim objektom, odluku o davanju u zakup donosi samostalno taj organ, odnosno služba, a ugovor o zakupu se može zaključiti neposrednom pogodbom sa zainteresovanim subjektima, uz saglasnost nadležnog ministarstva, odnosno nadležnog organa za poslove imovine.

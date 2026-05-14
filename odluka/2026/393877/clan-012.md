@@ -1,0 +1,3 @@
+# Član 12
+## Postupak prikupljanja ponuda (tenderska prodaja)
+Ako nadležni organ donese odluku o prodaji nepokretnosti putem prikupljanja ponuda (tenderska prodaja), primjenjivaće se odredbe o prodaji imovine putem javnog tendera, u pogledu: bitnih elemenata za prodaju (minimalna cijena, investiciona ulaganja, način plaćanja i dr.), postupka sprovođenja i objavljivanja tendera, subjekata koji imaju pravo učešća na tenderu, podnošenja i prijema ponuda, otvaranja i ocjene ponuda, ukoliko ovom odlukom, uredbom o prodaji i davanju u zakup stvari u državnoj imovini i Zakonom o državnoj imovini nije drugačije propisano.

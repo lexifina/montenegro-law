@@ -1,0 +1,2 @@
+# Član 31
+Davanje u zakup zemljišta u opštinskoj svojini na području prostornog plana posebne namjene, za potrebe postavljanja objekata privremenog karaktera u skladu sa Programom privremenih objekata privremenog karaktera, koji donosi nadležni organ, vrši se na osnovu zakona i Odluke o utvrđivanju kriterijuma, uslova i postupaka za davanje u zakup zemljišta čiji subjekt raspolaganja je opština Rožaje radi postavljanja privremenih objekata br. 02-016/26-39 i ove odluke.
