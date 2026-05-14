@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tačka 3 Ustava Crne Gore i člana 36b Zakona o manjinskim pravima i slobodama ("Službeni list RCGˮ, br. 31/06, 51/06, 38/06 i "Službeni list CGˮ, br. 02/11, 08/11 i 31/17), Skupština Crne Gore 28. saziva, na Osmoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2026. godini, dana 14. maja 2026. godine, donijela je
+O D L U K U O IZBORU JEDNOG ČLANA UPRAVNOG ODBORA FONDA ZA ZAŠTITU I OSTVARIVANJE MANJINSKIH PRAVA
