@@ -1,0 +1,3 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Službeni list Crne Gore", br. 25/19, 49/22, 152/22 118/25, 126/25 i 133/25), člana 7 stav 1 tačka 1 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", br. 3/19 i 86/22), člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22 i 84/22) i člana 46 stav 1 tačka 2 i 8 Statuta Opštine Rožaje ("Službeni list Crne Gore - Opštinski propisi", br. 38/18 i 16/21), Skupština opštine Rožaje, na sjednici održanoj dana 28. 4. 2026. godine, donijela je
+ODLUKU
+o izmjenama i dopunama Odluke o porezu na nepokretnosti,
