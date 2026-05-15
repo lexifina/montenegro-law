@@ -1,0 +1,3 @@
+# Član 5
+Osnovna zarada za puno radno vrijeme i standardni radni učinak utvrđuje se množenjem koeficijenta grupe poslova iz člana 11 ovog Pravilnika sa obračunskom vrijednošću koeficijenta koji utvrđuje Vlada Crne Gore. Zarada iz stava 1. ovog člana isplaćuje se mjesečno, po pravilu, do 15-og u mjesecu za prethodni obračunski mjesec.
+Prilikom isplate zarade zaposlenom se uručuje platna lista, koja sadrži: osnovnu zaradu; bruto zaradu; iznos plaćenog poreza na zaradu; iznos plaćenog prireza; iznos plaćenih doprinosa; neto zaradu; uvećanja zarade i naknadu zarade u skladu sa ovim Pravilnikom; obustave iz neto zarade po vrstama; neto zaradu za isplatu.
