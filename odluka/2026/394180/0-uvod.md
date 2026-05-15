@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list CG", br. 40/10, 6/13, 70/17 i 125/23), člana 65a stav 2 Zakona o platnom prometu ("Službeni list CG" 62/13, 111/22, 15/25 i 140/25) i člana 112 stav 8 Zakona o sprečavanju pranja novca i finansiranja terorizma ("Službeni list CG", br. 110/23, 65/24, 24/25 i 41/26) Savjet Centralne banke Crne Gore, na sjednici održanoj 11. maja 2026. godine, donio je
+ODLUKU O IZMJENAMA ODLUKE O CENTRALNOM REGISTRU TRANSAKCIONIH RAČUNA I DEPOZITA I SEFOVA
