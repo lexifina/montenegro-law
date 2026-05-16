@@ -1,0 +1,2 @@
+Na osnovu člana 26 stav 1 tačka 9, u vezi člana 38 stav 6 i člana 39 stav 9 Statuta Inženjerske komore Crne Gore ("Službeni list Crne Gore", br.5/2026 godine od 16.01.2026.) uz saglasnost Ministarstva prostornog planiranja, urbanizma i državne imovine, broj 01/1-332/26-6189/2 od 11.05.2026. godine, Savjet Inženjerske komore Crne Gore je, na VII sjednici, održanoj 02.04.2026. godine, donio
+POSLOVNIK O RADU DISCIPLINSKOG TUŽIOCA I DISCIPLINSKOG ORGANA INŽENJERSKE KOMORE CRNE GORE
