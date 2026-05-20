@@ -1,0 +1,2 @@
+Na osnovu člana 72 stav 1, 2 i 3 i člana 146 stav 3 Zakona o izgradnji objekata ("Sl.list CG", br. 19/25, 92/25 i 160/25), Pravilnika o vrstama i bližim uslovima za postavljanje odnosno građenje i uklanjanje privremenih objekata ("Sl.list CG", br. 150/25), i člana 32 stav 1 tačka 35 Statuta Opština Žabljak ("Sl.list CG - Opštinski propisi", br. 27/18), Skupština opštine Žabljak na sjednici održanoj dana 14.05.2026. godine, d o n i j e l a j e
+ODLUKU
