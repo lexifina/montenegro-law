@@ -1,0 +1,4 @@
+# Član 11
+## Obavještavanje i konsultovanje sa nadležnim organima prije registracije ili proširenja registracije
+(1) Kada registar sekjuritizacije podnese zahtjev za registraciju ili za proširenje registracije kao registar trgovinskih transakcija, a riječ je o subjektu koji je dobio odobrenje ili je registrovan kod nadležnog organa u državi članici u kojoj je osnovan, ESMA bez nepotrebnog odlaganja obavještava i konsultuje taj nadležni organ prije registracije ili proširenja registracije registra sekjuritizacije.
+(2) ESMA i relevantni nadležni organ razmjenjuju sve informacije koje su potrebne za registraciju ili za proširenje registracije registra sekjuritizacije, kao i za nadzor nad usklađenošću tog subjekta sa uslovima njegove registracije ili odobrenja u državi članici u kojoj je osnovan.
