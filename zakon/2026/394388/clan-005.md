@@ -1,0 +1,3 @@
+# Član 5
+U članu 29 stav 5 riječi: "smije naplatiti" zamjenjuju se riječima "smije utvrditi".
+U stavu 6 poslije riječi: "korisnici minimalne zarade," dodaju se riječi: "korisnici najniže starosne, invalidske ili porodične penzije, korisnici penzija kojima se isplaćuje razlika u visini do najnižeg iznosa penzija i korisnici srazmjernih penzija (starosna, invalidska ili porodična) koji primaju razliku u visini do najnižeg iznosa u skladu sa zakonom kojim se uređuje penzijsko i invalidsko osiguranje, kao i korisnici privremene naknade na evidenciji Zavoda za zapošljavanje Crne Gore koji primaju naknadu koja se isplaćuje od strane Fonda penzijskog i invalidskog osiguranja Crne Gore do visine iznosa najniže penzije, dodatka za djecu,".
