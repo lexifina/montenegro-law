@@ -1,0 +1,3 @@
+# Član 8
+## Prekomjerno oslanjanje na kreditne rejtinge u pravu Unije
+Ne dovodeći u pitanje svoje pravo zakonodavne inicijative, Evropska Komisija nastavlja da preispituje da li upućivanja na kreditne rejtinge u pravu Unije dovode ili mogu dovesti do isključivog ili mehaničkog oslanjanja na kreditne rejtinge od strane nadležnih organa, sektorskih nadležnih organa, subjekata iz člana 4 stav 1 ovih Pravila ili drugih učesnika na finansijskom tržištu, sa ciljem brisanja svih upućivanja na kreditne rejtinge u pravu Unije za regulatorne svrhe do 1. januara 2020. godine, pod uslovom da su identifikovane i sprovedene odgovarajuće alternative za procjenu kreditnog rizika.

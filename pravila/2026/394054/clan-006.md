@@ -1,0 +1,4 @@
+# Član 6
+## Prekomjerno oslanjanje finansijskih institucija na kreditne rejtinge
+(1) Subjekti iz člana 4 stav 1 ovih Pravila dužni su da vrše sopstvenu procjenu kreditnog rizika i ne smiju se isključivo ili mehanički oslanjati na kreditne rejtinge prilikom procjene kreditne sposobnosti subjekta ili finansijskog instrumenta.
+(2) Sektorski nadležni organi koji vrše nadzor nad subjektima iz člana 4 stav 1 ovih Pravila, uzimajući u obzir prirodu, obim i složenost njihovih aktivnosti, prate adekvatnost njihovih postupaka procjene kreditnog rizika, ocjenjuju korišćenje ugovornih upućivanja na kreditne rejtinge i, kada je to primjereno, podstiču ublažavanje uticaja takvih upućivanja, sa ciljem smanjenja isključivog i mehaničkog oslanjanja na kreditne rejtinge, u skladu sa posebnim sektorskim propisima.
