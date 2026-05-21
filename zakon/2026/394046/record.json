@@ -1,0 +1,29 @@
+{
+  "id": 394046,
+  "path": "zakon/2026/394046",
+  "source": "https://www.sluzbenilist.me/propisi/394046",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/394046/download",
+  "title": "Zakon o izmjenama i dopunama Zakona o postupanju prema maloljetnicima u krivičnom postupku*",
+  "issue": "Službeni list Crne Gore, broj 64/2026",
+  "published": "2026-05-13",
+  "in_force": "2026-05-21",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "2259499e2c4165ad71ccd41c71e4c83943af158bf947c20761b8901194455232",
+  "articles_in_source": 92,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 29997,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "recovered_after_interruption": true,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "11e43e33909fd4a13c5f221529ba68162461f4b5743178130853e13412c23269",
+  "enacted": "2026-05-08",
+  "enacted_basis": "Podgorica, 8. maj 2026"
+}
