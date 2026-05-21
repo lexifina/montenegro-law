@@ -1,0 +1,3 @@
+# Član 16
+## Vanredne situacije
+Ne dovodeći u pitanje postupak obavještavanja predviđen članom 6 stav 3 Direktiva 98/26/EC, nadležni organi i relevantni organi odmah obavještavaju ESMA- u, Evropski odbor za sistemski rizik, osnovan prema Regulativa (EU) br. 1092/2010 Evropskog parlamenta i Savjeta, kao i jedni druge, o svakoj vanrednoj situaciji koja se odnosi na CSD, uključujući svaka dešavanja na finansijskim tržištima, koja mogu nepovoljno uticati na likvidnost tržišta, stabilnost valute u kojoj se poravnanje vrši, integritet monetarne politike ili stabilnost finansijskog sistema u bilo kojoj državi članici u kojoj je CSD ili neki od njegovih učesnika osnovan.
