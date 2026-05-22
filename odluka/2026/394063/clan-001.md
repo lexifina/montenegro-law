@@ -1,0 +1,2 @@
+# Član 1
+U tekstu Odluke o određivanju lokacije sa elementima urbanističko-tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa, broj 01-018/26-983/1 od 25. 3. 2026. godine ("Službeni list CG - Opštinski propisi", broj 14/26) član 5 mijenja se i glasi: "Sastavni dio ove odluke je i Situacioni plan, urađen od strane DOO "Geotin" iz Podgorice od aprila 2026. godine."
