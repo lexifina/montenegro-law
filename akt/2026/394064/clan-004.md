@@ -1,0 +1,3 @@
+# Član 4
+Društvo je osnovano kao jednočlano društvo sa ograničenom odgovornošću radi pružanja usluga u javnom interesu, na neodređeno.
+Jedini član Društva je Opština Kolašin sa udjelom od 100% (u daljem tekstu: član Društva).
