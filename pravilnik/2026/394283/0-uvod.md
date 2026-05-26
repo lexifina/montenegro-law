@@ -1,0 +1,8 @@
+Страна 28 - Број 67
+СЛУЖБЕНИ ЛИСТ ЦРНЕ ГОРЕ
+18. мај 2026.
+1277.
+Na osnovu člana 83 stav 8 Zakona o igrama na sreću ("Službeni list CG", broj 91/25), Ministarstvo finansija donijelo je
+P R A V I L N I K O IZMJENI PRAVILNIKA O OBRASCU MJESEČNE EVIDENCIJE SA KONAČNIM OBRAČUNOM REZULTATA POSLOVANJA ZA
+PRIREĐIVAČE IGARA NA SREĆU PUTEM INTERNETA I DOKAZU O UPLATI MJESEČNE NAKNADE ZA PRIREĐIVANJE IGARA NA SREĆU
+PUTEM INTERNETA
