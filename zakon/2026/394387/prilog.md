@@ -1,0 +1,1 @@
+*U ovaj zakon prenesena je Regulativa Evropskog parlamenta i Savjeta (EU) br. 655/2014 od 15. maja 2014. godine o uspostavljanju postupka za evropski nalog za blokadu računa kako bi se pojednostavila prekogranična naplata duga u građanskim i trgovačkim stvarima, koja je izmijenjena Regulativom (EU) br. 2023/2844.
