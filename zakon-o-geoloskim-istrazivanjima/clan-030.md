@@ -1,0 +1,7 @@
+# Član 30
+Privredno društvo koje se bavi eksploatacijom mineralnih sirovina dužno je da u okviru svog eksploatacionog polja izvodi detaljna geološka istraživanja radi sveobuhvatnog izučavanja geoloških svojstava ležišta.
+Ministarstvo najkasnije do 31. januara tekuće godine daje smjernice privrednom društvu koje se bavi eksploatacijom mineralnih sirovina za izradu i sprovođenje godišnjeg plana geoloških istraživanja unutar odobrenog eksploatacionog polja.
+Privredno društvo koje se bavi eksploatacijom mineralnih sirovina je dužno da najkasnije do 31. marta tekuće godine dostavi Ministarstvu godišnji plan geoloških istraživanja unutar odobrenog eksploatacionog polja za narednu godinu.
+Godišnji plan geoloških istraživanja unutar odobrenog eksploatacionog polja za potrebe privrednog društva koje se bavi eksploatacijom mineralnih sirovina izrađuje privredno društvo iz člana 22 ovog zakona koje ima licencu.
+Ministarstvo odobrava godišnji plan geoloških istraživanja unutar odobrenog eksploatacionog polja u roku od 30 dana od dana podnošenja urednog zahtjeva.
+Nakon izvršenih geoloških istraživanja unutar odobrenog eksploatacionog polja od strane privrednog društva iz člana 22 ovog zakona, privredno društvo koje se bavi eksploatacijom mineralnih sirovina dužno je da dostavi Ministarstvu izvještaj o rezultatima izvršenih doistraživanja ležišta, najkasnije do 31. marta tekuće godine za prethodnu godinu.

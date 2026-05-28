@@ -1,0 +1,10 @@
+# Član 32
+Elaborat o izvršenim detaljnim geološkim istraživanjima podliježe tehničkoj kontroli (reviziji).
+Tehničku kontrolu (reviziju) elaborata iz stava 1 ovog člana vrši privredno društvo koje ima licencu iz člana 22 ovog zakona ili komisija od najmanje tri člana koju odredi investitor.
+Ako tehničku kontrolu (reviziju) elaborata iz stava 1 ovog člana vrši privredno društvo iz člana 22 ovog zakona, ono za potrebe tehničke kontrole (revizije) elaborata detaljnih geoloških istraživanja formira komisiju od najmanje tri člana.
+Komisiju iz st. 2 i 3 ovog člana čine članovi sa završenim najmanje VII1 nivoom kvalifikacije visokog obrazovanja iz oblasti geologije odgovarajućeg smjera sa radnim iskustvom od najmanje tri godine u struci i položenim stručnim ispitom iz oblasti geologije.
+Ako su u toku detaljnih geoloških istraživanja izvođeni rudarski radovi kao i probna eksploatacija, jedan član komisije iz st. 2 i 3 ovog člana mora biti lice sa završenim najmanje VII1 nivoom kvalifikacije visokog obrazovanja iz oblasti rudarstva odgovarajućeg smjera, sa radnim iskustvom od najmanje tri godine u struci i položenim stručnim ispitom iz oblasti rudarstva.
+Tehničku kontrolu (reviziju) iz stava 1 ovog člana ne može vršiti privredno društvo koje je izradilo elaborat iz stava 1 ovog člana i lice koje je učestvovalo u izradi elaborata iz stava 1 ovog člana.
+Po izvršenoj tehničkoj kontroli (reviziji) elaborata iz stava 1 ovog člana sačinjava se izvještaj o izvršenoj tehničkoj kontroli elaborata detaljnih geoloških istraživanja i, nakon otklanjanja eventualnih primjedbi, na elaborat iz stava 1 ovog člana se stavlja reviziona klauzula, kojom se potvrđuje da je elaborat iz stava 1 ovog člana urađen u skladu sa zakonom, uz potpis lica koja su izvršila reviziju elaborata iz stava 1 ovog člana.
+Članovi komisije iz st. 2 i 3 ovog člana koji su vršili tehničku kontrolu (reviziju) elaborata iz stava 1 ovog člana odgovorni su za propuste u tehničkoj kontroli (reviziji) elaborata iz stava 1 ovog člana.
+Način izrade i sadržinu elaborata detaljnih geoloških istraživanja, zavisno od vrste detaljnih geoloških istraživanja, propisuje Ministarstvo.

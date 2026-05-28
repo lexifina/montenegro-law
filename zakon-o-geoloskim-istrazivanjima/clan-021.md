@@ -1,0 +1,2 @@
+# Član 21
+Izradu projekta detaljnih geoloških istraživanja, vršenje detaljnih geoloških istraživanja i izradu elaborata o izvršenim detaljnim geološkim istraživanjima, tehničku kontrolu (reviziju) projekata i elaborata o izvršenim detaljnim geološkim istraživanjima i stručni nadzor nad vršenjem detaljnih geoloških istraživanja za predmetnu oblast detaljnih geoloških istraživanja mogu da vrše privredna društva koja imaju licencu.
