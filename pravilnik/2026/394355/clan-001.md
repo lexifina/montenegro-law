@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se oblik, sadržaj i način izdavanja sertifikata o osiguranju ili drugom finansijskom jemstvu od odgovornosti prevoznika za smrt ili tjelesnu povredu putnika, sadržaj isprave o jemstvu koja pokriva ili ne pokriva ratne rizike, a koju izdaje osiguravač (Blue Card), kao i klauzule o isključenju pokrića za radioaktivno zagađenje, hemijsko, biološko i elektromagnetno oružje, isključenju pokrića za kibernetički napad i klauzule o prestanku pokrića osiguravača i izuzeću u slučaju rata.
