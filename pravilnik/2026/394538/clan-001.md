@@ -1,0 +1,2 @@
+# Član 1
+Ovim Pravilnikom uređuje se: Pokretanje disciplinskog postupka protiv člana Komore; način vođenja disciplinskog postupka; prava i obaveze učesnika u disciplinskom postupku; vrste disciplinskih mjera; sukob interesa; evidencija i arhiviranje dokumentacije disciplinskih postupaka; način zaštite prava članova u postupku; završetak postupka i izvršenje odluka Disciplinskog organa Komore (u daljem tekstu: DoK).
