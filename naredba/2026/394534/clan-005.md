@@ -1,0 +1,3 @@
+# Član 5
+(1) Subjekat u poslovanju hranom koji obavlja djelatnost prerade u odobrenom objektu za preradu mlijeka i koji koristi sirovo mlijeko iz člana 3 stav 1 tačka 3 ove naredbe dužan je da, odmah nakon termičke obrade svakih 100.000 litara takvog mlijeka uzima uzorke za testiranje alkalne fosfataze kako bi potvrdio negativnu reakciju na alkalnu fosfatazu, odnosno efikasnost termičke obrade.
+(2) Subjekat iz stava 1 ovog člana dužan je da nadležnom organu pruži potrebne garancije, da uspostavi i vodi relevantnu evidenciju i da u okviru svojih postupaka koji se zasnivaju na načelima analize opasnosti i kritičnih kontrolnih tačaka (HACCP) uključi i test alkalne fosfataze.
