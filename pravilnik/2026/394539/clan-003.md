@@ -1,0 +1,2 @@
+# Član 3
+Pravo da bira i da bude biran imaju svi članovi Inženjerske komore Crne Gore (u daljem tekstu: Komora) koji na dan raspisivanja izbora imaju aktivan status u Registru članova na osnovu zvanične evidencije Komore, koji nije pravosnažno osuđivan na izdržavanje kazne zatvora, koji nije disciplinski kažnjavan i koji nije bio dva i više puta član organa Komore i/ili član organa strukovne komore, odnosno organa strukovnog udruženja.
