@@ -1,0 +1,3 @@
+# Član 6
+Izgled zlatnika i kovanice od nordijskog zlata (avers) je sljedeći: u donjem desnom dijelu duž oboda ispisan italic latiničnim pismom tekst "Petrolamium crnojevicii", u centralnom dijelu grafički prikaz biljke Petrolamium crnojevicii i u gornjem lijevom dijelu duž oboda ispisana godina 2019.
+Izgled naličja zlatnika i kovanice od nordijskog zlata (revers) je sljedeći: u centralnom dijelu grafički prikaz grba dinastije Crnojević - motiv Oktoiha, iznad grba se nalazi ispisana godina 2026, a dužinom gornje ivice latiničnim pismom ispisan tekst "CENTRALNA BANKA CRNE GORE", ispod kojeg se nalazi oznaka nominalne vrijednosti i novčane jedinice 35 perpera, ispisano sa lijeve strane ćiriličnim pismom, a sa desne latiničnim pismom.
