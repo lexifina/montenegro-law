@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tačka 2 Ustava Crne Gore i Amandmana IV stav 1 na Ustav Crne Gore, Skupština Crne Gore 28. saziva, na Osmoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2026. godini, dana 8. maja 2026. godine donijela je, a na Devetoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2026. godini, dana 19. maja 2026. godine, ponovno izglasala
+ZAKON O IZMJENAMA I DOPUNI ZAKONA O USTAVNOM SUDU CRNE GORE
