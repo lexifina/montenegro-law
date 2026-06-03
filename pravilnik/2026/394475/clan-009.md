@@ -1,0 +1,7 @@
+# Član 9
+## Tekstilni proizvodi od više vrsta vlakana
+Tekstilni proizvod koji sadrži više vrsta vlakana se obilježava odnosno označava navođenjem imena i procenta mase svih tekstilnih vlakana sadržanih u tekstilnom proizvodu, u opadajućem nizu.
+Izuzetno od stava 1 ovog člana za tekstilno vlakno koje čini najviše 5% ukupne mase tekstilnog proizvoda od više vrsta vlakana, ili za više tekstilnih vlakana koja zajedno čine najviše 15% ukupne mase tekstilnog proizvoda, može se koristiti izraz "ostala vlakna" ako se procentualno učešće tog (tih) ostalih vlakana ne može jednostavno utvrditi u vrijeme proizvodnje pri čemu se njihov ukupan maseni procenat navodi neposredno ispred ili iza tog izraza.
+Za tekstilne proizvode sa osnovom od čistog pamuka i potkom od čistog lana, u kojima procenat lana iznosi najmanje 40% ukupne mase neskrobljene tkanine, može se koristiti naziv "pamučno-lanena tkanina", uz koji se navodi i specifikacija sirovinskog sastava izrazom "osnova od čistog pamuka - potka od čistog lana".
+Izuzetno od člana 6 stav 1 ovog pravilnika, za tekstilne proizvode čiji sirovinski sastav je teško navesti u vrijeme proizvodnje, može se na etiketi ili oznaci koristiti izraz "pomiješana vlakna" ili "neutvrđen sirovinski sastav".
+Izuzetno od stava 1 ovog člana, za tekstilna vlakna čiji nazivi nijesu navedeni u Prilogu 1 ovog pravilnika može se koristiti izraz "ostala vlakna", pri čemu se ispred ili iza tog izraza navodi ukupan procenat svih takvih vlakana u odnosu na ukupnu masu tekstilnog proizvoda.
