@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se tehnički zahtjevi koje moraju da ispunjavaju aerosolni raspršivači, koji se isporučuju na tržište, odnosno stavljaju u upotrebu i primjenjuje se na aerosolne raspršivače čija je posuda namijenjena za jednokratnu upotrebu, izrađena od metala, stakla ili plastike koja sadrži gas sabijeni, tečan ili pod pritiskom rastvoren, sa ili bez tečnosti, pjene ili praha i ima uređaj za raspršivanje sadržaja u obliku krutih ili tečnih čestica suspedovanih u gasu, kao pjene, paste ili praha ili u tečnom stanju.
