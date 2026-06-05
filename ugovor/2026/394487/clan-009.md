@@ -1,0 +1,5 @@
+# Član 9
+## Sticaj potraživanja
+1. Granice odgovornosti obračunate u skladu sa odredbama člana 6 ove konvencije, primjenjuju se na zbir svih potraživanja koja su nastala iz istog događaja:
+a) prema licu ili licima iz člana 1 stav 2 ove konvencije, i prema svakom licu za čije radnje, propuste ili greške on ili oni odgovaraju; ili b) prema vlasniku broda koji pruža usluge spašavanja sa tog broda i prema spasiocu ili spasiocima koji djeluju sa tog broda i prema svakom licu za čije radnje, propuste ili greške on ili oni odgovaraju; ili c) prema spasiocu ili spasiocima koji djeluju s tog broda ili koji djeluju samo na brodu kome su ili s obzirom na kojeg su pružene usluge spašavanja i prema svakom licu za čije radnje, propuste ili greške on ili oni odgovaraju.
+2. Granice odgovornosti obračunate u skladu sa odredbama člana 7 ove konvencije, primjenjuju se na zbir svih potraživanja koja mogu da nastanu iz istog događaja prema licu ili licima iz člana 1 stav 2 ove konvencije, u odnosu na brod iz člana 7 ove konvencije, i prema svakom licu za čije radnje, propuste ili greške on ili oni odgovaraju.

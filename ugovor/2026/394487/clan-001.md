@@ -1,0 +1,2 @@
+# Član 1
+Potvrđuje se Konvencija o ograničenju odgovornosti za pomorska potraživanja, sačinjena u Londonu, 19. novembra 1976. godine, u jednom originalu na engleskom, francuskom, ruskom i španskom jeziku i Protokol o izmjenama i dopunama Konvencije o ograničenju odgovornosti za pomorska potraživanja, sačinjen u Londonu 2. maja 1996. godine, u jednom originalnom primjerku na arapskom, kineskom, engleskom, francuskom, ruskom i španskom jeziku.

@@ -1,0 +1,6 @@
+# Član 13
+## Sprečavanje drugih zahtjeva
+1. Ako je fond ograničenja osnovan u skladu sa članom 11 ove konvencije, bilo koje lice koje je istaklo potraživanje prema fondu ne može da ostvari prava u odnosu na takvo potraživanje prema ostaloj imovini lica u čije je ime fond osnovan.
+2. Nakon osnivanja fonda ograničenja u skladu sa članom 11 ove konvencije, svaki brod ili druga imovina koja pripada licu u čiju je korist fond osnovan, a koja je zaustavljena ili zaplijenjena na području nadležnosti države ugovornice radi potraživanja koje se može namiriti iz fonda, ili bilo koje pruženo jemstvo, može se osloboditi odlukom suda ili drugog nadležnog organa te države. Međutim, takvo oslobođenje uvijek se određuje ako je fond ograničenja osnovan:
+a) u luci u kojoj je događaj nastao, ili - ako je nastao izvan luke - u sljedećoj usputnoj luci; ili b) u luci iskrcaja za potraživanja zbog smrti ili tjelesnih povreda; ili c) u luci iskrcaja za potraživanja zbog oštećenja; ili d) u državi u kojoj je zaustavljanje izvršeno.
+3. Odredbe st. 1 i 2 ovog člana primjenjuju se samo ako povjerilac može da istakne potraživanje prema fondu ograničenja kod suda koji upravlja tim fondom, a iz toga fonda se stvarno može podmiriti takvo potraživanje.

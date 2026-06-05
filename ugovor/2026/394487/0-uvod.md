@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tačka 17 i člana 91 stav 1 Ustava Crne Gore, Skupština Crne Gore 28. saziva, na Šestoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2026. godini, dana 14. maja 2026. godine, donijela je
+Z A K O N O POTVRĐIVANJU KONVENCIJE O OGRANIČENJU ODGOVORNOSTI ZA POMORSKA POTRAŽIVANJA I PROTOKOLA O IZMJENAMA I DOPUNAMA KONVENCIJE O OGRANIČENJU ODGOVORNOSTI ZA POMORSKA POTRAŽIVANJA

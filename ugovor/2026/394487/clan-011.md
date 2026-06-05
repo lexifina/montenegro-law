@@ -1,0 +1,5 @@
+# Član 11
+## Osnivanje fonda
+1. Svako lice koje bi moglo da bude odgovorno u sporu može osnovati fond kod suda ili nekog drugog nadležnog organa u svakoj državi ugovornici u kojoj je podnijeta tužba u odnosu na potraživanja koja podliježu ograničenju. Fond se osniva u visini iznosa obračunatih prema čl. 6 i 7 ove konvencije, na način koji se primjenjuje na potraživanja za koje lice koje osniva fond može odgovarati, uvećane za kamate koje teku od dana događaja iz kojeg je nastala odgovornost do dana osnivanja fonda. Svaki tako osnovan fond na raspolaganju je samo za isplate potraživanja za koje je dozvoljeno pozivanje na ograničenje odgovornosti.
+2. Fond se može osnovati bilo polaganjem iznosa, ili pružanjem jemstva koje je prihvatljivo prema pravu države ugovornice gdje je fond osnovan i koje se smatra odgovarajućim od suda ili drugog nadležnog organa.
+3. Fond koji osnuje jedno od lica iz člana 9 stav 1 tač. a, b ili c, ili člana 9 stav 2 ove konvencije, ili njihov osiguratelj, smatra se kao da je osnovan od svih lica iz člana 9 stav 1 tač. a, b ili c ili stav 2 ove konvencije.

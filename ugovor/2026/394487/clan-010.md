@@ -1,0 +1,4 @@
+# Član 10
+## Ograničenje odgovornosti bez osnivanja fonda ograničenja
+1. Pozivanje na ograničenje odgovornosti moguće je čak i ako nije osnovan fond ograničene odgovornosti u skladu sa odredbama člana 11 ove konvencije. Međutim, svaka država ugovornica može predvidjeti domaćim pravom da se, u slučaju kada je tužba podnijeta pred njenim sudom da bi se ostvarilo potraživanje koje je podložno ograničenju, lice koje odgovara može ostvariti pravo na ograničenje odgovornosti samo ako je osnovan fond ograničene odgovornosti u skladu sa odredbama ove konvencije ili ako je osnovan u vrijeme kada se poziva na pravo ograničenja odgovornosti. 2. Ako se traži ograničenje odgovornosti, a fond ograničene odgovornosti nije osnovan, primjenjuju se odredbe člana 12 ove konvencije.
+3. Pravila postupka u primjeni ovog člana uređuju se u skladu s domaćim pravom države ugovornice u kojoj je tužba podnijeta.
