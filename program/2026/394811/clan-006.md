@@ -1,0 +1,2 @@
+# Član 6
+Pravna lica i preduzetnici nemaju pravo na subvencije po ovom Programu (osim ako pojedinačnom mjerom nije drugačije precizirano). Pravo na podršku mogu ostvariti poljoprivredna gazdinstva čija se proizvodnja, poljoprivredno zemljište, objekti ili investicija nalaze na teritoriji opštine Bijelo Polje, bez obzira na mjesto prebivališta nosioca gazdinstva (osim ako pojedinačnom mjerom nije drugačije precizirano).

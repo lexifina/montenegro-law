@@ -1,0 +1,2 @@
+# Član 10
+Troškovi iskazani po pojedinim mjerama predstavljaju projektovane vrijednosti. Sekretarijat za poljoprivredu može u toku izvršenja Programa vršiti izmjene namjene korišćenja sredstava i preusmjeravati sredstva sa mjere za koju nije bilo dovoljno interesovanja, na drugu mjeru Programa gdje je interesovanje veće od projektovanog iznosa. Sekretar Sekretarijata za poljoprivredu, u visini do 5% Budžeta Programa može izvršiti izmjenu namjene korišćenja sredstava Programa i ta sredstva utrošiti za neplanirane i novonastale potrebe iz oblasti poljoprivrede.

@@ -1,0 +1,3 @@
+# Član 9
+Za izvršenje Programa odgovoran je Sekretarijat za poljoprivredu i Sekretarijat za finansije Opštine Bijelo Polje. Sekretarijat za poljoprivredu zadržava pravo da, uz obrazloženje, odobri određena odstupanja od propisanih uslova pojedinačnih mjera, ukoliko ocijeni da je isto u interesu razvoja poljoprivrede. Obaveze prema korisnicima Programa izvršavaće se po dinamici utvrđenoj budžetskim planom potrošnje za 2026.godinu, a najkasnije do kraja tekuće kalendarske godine.
+Komisije koje formira Sekretar Sekretarijata za poljoprivredu zadržava pravo da sačini Pravilnik o bližim uslovima i načinu realizacije za pojedinačne mjere, kriterijuma prihvatljivosti i stepena prihvatljivosti investicije, na koji saglasnost daje Sekretar Sekretarijata za poljoprivredu.
