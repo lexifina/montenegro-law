@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim zakonom utvrđuju se pravila za sprovođenje službenih kontrola i drugih službenih aktivnosti, nadležni organi za organizaciju, sprovođenje i koordinaciju službenih kontrola i drugih službenih aktivnosti, finansiranje službenih kontrola, administrativnu pomoć i saradnju sa drugim državama i državama članicama Evropske unije, komunikaciju i izvještavanje, uslove koji treba da budu ispunjeni za unošenje životinja i roba u Crnu Goru, naknade i troškove za službene kontrole, sistem službenih i nacionalnih referentnih laboratorija, upotreba evropskog informacionog sistema za upravljanje informacijama i podacima u vezi sa službenim kontrolama, kao i druga pitanja od značaja za sprovođenje službenih kontrola i drugih službenih aktivnosti.

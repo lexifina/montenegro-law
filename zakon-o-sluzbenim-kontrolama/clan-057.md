@@ -1,0 +1,6 @@
+# Član 57
+## Sertifikati i dokumenti koji prate pošiljke i podijeljene pošiljke
+(1) Subjekat odgovoran za pošiljku dužan je da obezbijedi da original službenog sertifikata ili dokumenta, ili njihov elektronski ekvivalent, koji se zahtjeva u skladu sa zahtjevima iz člana 2 ovog zakona, prati pošiljke životinja i robe iz člana 54 stav 1 ovog zakona, i da ga dostavi Upravi na graničnom kontrolnom mjestu, koji se tu i čuvaju, osim ako nije drugačije propisano zahtjevima iz člana 2 ovog zakona.
+(2) Uprava na graničnom kontrolnom mjestu izdaje subjektu koji je odgovoran za pošiljku ovjereni papirni ili elektronski primjerak službenog sertifikata ili dokumenata iz stava 1 ovog člana ili ako je pošiljka podijeljena pojedinačno ovjerene kopije takvih sertifikata ili dokumenata u papirnom ili elektronskom obliku.
+(3) Pošiljka se ne može dijeliti sve dok se ne izvrši službena kontrola i dok se Zajednički zdravstveni ulazni dokument (u daljem tekstu: ZZUD) iz člana 63 ovog zakona ne finalizira u skladu sa članom 63 stav 5 i članom 64 ovog zakona.
+(4) Ministarstvo propisuje bliže uslove i pravila koja dopunjuju ovaj zakon, određujući slučajeve i uslove pod kojima je ZZUD obavezan da prati pošiljke kategorija životinja i robe iz člana 54 stav 1 ovog zakona do mjesta odredišta.

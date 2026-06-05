@@ -1,0 +1,6 @@
+# Član 71
+## Postupci u slučaju sumnje na neusaglašenost sa propisima i pojačane službene kontrole životinja i roba koje se unose u Crnu Goru
+(1) U slučaju sumnje na neusaglašenost pošiljke životinja i robe iz člana 51 stav 1 i člana 54 stav 1 ovog zakona sa zahtjevima iz člana 2 ovog zakona, Uprava sprovodi službene kontrole sa ciljem potvrđivanja ili otklanjanja te sumnje.
+(2) Pošiljke životinja i robe koje subjekti ne prijave da sadrže kategorije životinja i robe iz člana 54 stav 1 ovog zakona podliježu službenim kontrolama od strane Uprave kada postoji razlog za vjerovanje da se takve kategorije životinja ili robe nalaze u pošiljci.
+(3) Uprava službeno zadržava pošiljke iz st. 1 i 2 ovog člana do završetka službenih kontrola predviđenih tim stavovima, a kada je to potrebno, pošiljke će biti izolovane ili stavljene u karantin, uz osiguravanje da životinjama bude pružena zaštita, hrana, voda i, gdje je neophodno, liječenje sve dok rezultati službenih kontrola ne budu dostupni.
+(4) Kada Uprava posumnja na prevarne ili obmanjujuće radnje od strane subjekta odgovornog za pošiljku ili ako službene kontrole daju osnov za vjerovanje da su zahtjevi iz člana 2 ovog zakona ozbiljno ili ponovo prekršena Uprava će, pored mjera iz člana 72 stav 4 ovog zakona kada je to primjereno, pojačati službene kontrole nad pošiljkama istog porijekla ili namjene.
