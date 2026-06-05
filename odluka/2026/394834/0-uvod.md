@@ -1,0 +1,2 @@
+Na osnovu člana 48 Zakona o lokalnoj samoupravi ("Sl. list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 46 stav 1 tačka 18 Statuta Opštine Bijelo Polje ("Sl. list CG - Opštinski propisi", br.19/18) i člana 32 Poslovnika Skupštine opštine Bijelo Polje (Sl.list CG- Opštinski propisi br.19/18, 42/20, 23/21 i 19/24), Skupština opštine Bijelo Polje na sjednici održanoj 13.,19., 25. i 30.05. 2026. godine, donijela je
+ODLUKU
