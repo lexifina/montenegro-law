@@ -1,0 +1,2 @@
+Na osnovu člana 1 stav 2 Zakona o porezu na nepokretnosti ("Službeni list Crne Gore", br. 025/19, 049/22, 152/22, 118/25, 126/25, 133/25), člana 7 stav 1 tačka 1 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", br. 003/19, 086/22, 005/24, 007/24, 092/25, 149/25), člana 58 i 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 002/18, 034/19, 038/20, 050/22, 084/22, 081/25, 098/25), člana 90 i 91 Statuta Opštine Plav ("Službeni list CG - Opštinski propisi", br. 44/18), predsjednik Opštine Plav, dana 26.05.2026. godine, donio je
+ODLUKU

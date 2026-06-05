@@ -1,0 +1,8 @@
+# Član 1
+## o izmjenama i dopunama Odluke o porezu na nepokretnosti
+U Odluci o porezu na nepokretnosti ("Službeni list Crne Gore - opštinski propisi", br. 020/20 od 17.06.2020, 058/23 od 13.12.2023) član 4 mijenja se i glasi:
+Osnovica za utvrđivanje poreza na nepokretnosti je tržišna vrijednost nepokretnosti na dan 1. januara godine za koju se porez utvrđuje, utvrđena primjenom osnovnih kriterijuma propisanih Zakonom o porezu na nepokretnosti.
+Tržišna vrijednost nepokretnosti koja služi kao osnovica za utvrđivanje poreza na nepokretnosti utvrđuje se kao proizvod veličine nepokretnosti i prosječne tržišne cijene nepokretnosti određene u skladu sa Zakonom o porezu na nepokretnost i ovom Odlukom koja se koriguje koeficijentima za utvrđivanje tržišne vrijednosti nepokretnosti.
+Ukoliko nadležni organ za poslove statistike ne objavi prosječnu cijenu m2 novoizgrađenog stambenog objekta za Opštinu Plav, prosječna tržišna cijena m2 stambenog objekta utvrđuje se na osnovu podataka o prosječnoj tržišnoj cijeni m2 stambenog objekta u Crnoj Gori za godinu koja prethodi godini za koju se porez utvrđuje korigovana opštinskim koeficijentom nepokretnosti za Opštinu Plav koji se utvrđuje u iznosu od 0,45.
+Prosječna tržišna cijena m2 poslovog objekta, stambeno-poslovnog objekta, poslovnih prostorija i inženjerskog objekta utvrđuje se na način što se prosječna tržišna cijena m2 stambenog objekta utvrđena na način propisan stavom 3 ovog člana koriguje koeficijentom 1,00.
+Prosječna tržišna cijena m2 pomoćnog objekta, nestambenog prostora, garaže, garažnog mjesta, podruma i nepokretnih privremenih objekata utvrđuje se na način što se prosječna tržišna cijena m2 stambenog objekta utvrđena na način propisan stavom 3 ovog člana koriguje koeficijentom 0,40.
