@@ -1,0 +1,2 @@
+Na osnovu člana 91 stav 3, člana 92 stav 3, člana 93 stav 7, člana 94 stav 4, člana 95 stav 2, člana 97 stav 4, člana 99 stav 4, člana 100 stav 8, člana 198 stav 1 tačka 70 i člana 208 stav 1 tačka 9 Zakona o vazdušnom saobraćaju ("Službeni list CG", broj 52/26), Agencija za civilno vazduhoplovstvo donijela je
+PRAVILNIK O IZMJENI PRAVILNIKA O USLOVIMA ZA SIGURNU UPOTREBU SISTEMA BESPILOTNIH VAZDUHOPLOVA

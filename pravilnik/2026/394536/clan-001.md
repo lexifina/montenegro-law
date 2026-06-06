@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o uslovima za sigurnu upotrebu sistema bespilotnih vazduhoplova ("Službeni list CG", br. 24/23, 117/23 i 75/25) u Prilogu 1 u članu 22 rok prelaznog perioda do kojeg u "otvorenoj" kategoriji mogu da se koriste UAS koji ne ispunjavaju zahtjeve iz djelova 1 do 5 Priloga Delegirane regulative (EU) 2019/945, a koji je utvrđen do 31. maja 2026. godine, utvrđuje se do 11. januara 2027. godine.
