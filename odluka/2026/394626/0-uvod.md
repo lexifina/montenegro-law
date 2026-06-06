@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ("Sl. list Crne Gore", br. 02/18, 34/19, 38/20, 50/22, 84/22, 81/25, 98/25), člana 35 Statuta Opštine Tivat ("Sl. list Crne Gore - Opštinski propisi", br. 24/18 i 09/20) i člana 13 Statuta Društva sa ograničenom odgovornošću "PPOV" Kotor i Tivat ( "Sl. list Crne Gore - Opštinski propisi", br. 37/19) Skupština opštine Tivat, na sjednici održanoj dana 13.05. 2026.godine, donijela je
+ODLUKU
