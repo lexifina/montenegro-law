@@ -1,0 +1,8 @@
+# Član 17
+17.1. Sjednica Skupštine CKDD-a može biti redovna i vanredna. Sjednice Skupštine CKDD-a održavaju se u sjedištu CKDD-a. Izuzetno, sjednica Skupštine CKDD-a se može održati u drugom mjestu, po odluci Odbora direktora CKDD-a.
+17.2. Redovna sjednica Skupštine CKDD-a održava se jednom godišnje, najkasnije u roku od šest mjeseci od završetka poslovne godine.
+17.3. Vanredna sjednica Skupštine CKDD-a održava se po potrebi, kao i kad je to određeno zakonom ili ovim statutom.
+17.4. Sjednicu Skupštine CKDD-a saziva Odbor direktora. Po nalogu Odbora direktora Sekretar organizuje sjednicu Skupštine CKDD-a.
+17.5. Akcionari koji posjeduju akcije koje čine najmanje 5% osnovnog kapitala CKDD-a i 5% glasačkih prava u okviru svoje klase, kao i revizor CKDD-a imaju pravo da Odboru direktora podnesu zahtjev za sazivanje vanredne sjednice Skupštine CKDD-a. Zahtjev se podnosi u pisanom obliku i obavezno sadrži: predlog dnevnog reda, predlog odluka čije se usvajanje predlaže sa obrazloženjem, podatke o podnosiocima zahtjeva i broju akcija koje posjeduju.
+17.6. Odbor direktora dužan je da sazove vanrednu sjednicu Skupštine CKDD-a u roku od 15 dana od dana prijema zahtjeva iz tačke 17.5. ovog člana, na teret sredstava CKDD-a. Dnevni red vanredne sjednice Skupštine CKDD-a utvrđuje se prema predlogu dnevnog reda iz zahtjeva iz tačke 17.5 ovog člana, ako su predložena pitanja o kojima se odlučuje u nadležnosti Skupštine CKDD-a.
+17.7. Ako su svi akcionari prisutni lično ili preko punomoćnika, Skupština CKDD-a može da donese odluku bez poštovanja odredbi zakona o sazivanju i održavanju sjednica Skupštine CKDD-a, pod uslovom da se nijedan akcionar ne protivi usvajanju odluke na ovaj način.

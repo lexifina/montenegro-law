@@ -1,0 +1,3 @@
+# Član 5
+5.1. U svom poslovanju CKDD je dužno da informacioni sistem i podatke kojima raspolaže zaštiti od neovlašćenog pristupa, izmjena i gubitaka, da primjenjuje postupke kojima obezbjeđuje efikasno i uredno vođenje Registra, obezbijedi povjerljivost svih informacija sadržanih u Registru i onemogući uvid u informacije iz Registra ili vezane za Registar, osim u slučajevima utvrđenim pozitivnim propisima.
+5.2. Odlukom Odbora direktora propisuju se pravila kojima se uređuje zaštita od neovlašćenog pristupa, izmjene i gubitka podataka, kao i pravila koja se odnose na čuvanje povjerljivosti i tajnosti podataka iz tačke 5.1. ovog člana.

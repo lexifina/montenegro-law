@@ -1,0 +1,3 @@
+# Član 14
+14.1. Svako fizičko ili pravno lice ili povezano lice, koje namjerava da stekne, odnosno poveća, direktno ili indirektrno, kvalifikovano učešće u CKDD-u, na način da procenat akcija sa pravom glasa ili učešća u kapitalu dostigne ili pređe 20%, 30% ili 50% učešća u kapitalu CKDD-a, dužno je da prethodno dobije saglasnost Komisije.
+14.2. Svako fizičko ili pravno lice dužno je da prije direktnog ili indirektnog otuđenja kvalifikovanog učešća u CKDD-u ispod 20%, 30% ili 50% učešća u ukupnom kapitalu CKDD-a, o tome obavijesti Komisiju i u obavještenju navede visinu učešća koje planira da otuđi.

@@ -1,0 +1,6 @@
+# Član 25
+25.1. Zapisnik sa sjednice Skupštine CKDD-a potpisuju predsjednik Skupštine i zapisničar, odnosno Sekretar i najmanje jedan akcionar koga ovlasti Skupština.
+25.2. Zapisnik obavezno sadrži: datum, mjesto i vrijeme održavanja sjednice Skupštine, ime i prezime predsjednika Skupštine, ime i prezime lica koje vodi zapisnik, način i rezultate glasanja za svaku tačku dnevnog reda, odluke koje su usvojene sa podacima o broju akcija sa kojima se na sjednici glasalo, procentu osnovnog kapitala koji te akcije predstavljaju, ukupnom broju glasova i broju glasova datih "za" ili "protiv" odluke, kao i broju uzdržanih glasova.
+25.3. Prilikom sačinjavanja zapisnika može se koristiti tonski zapis sa sjednice Skupštine CKDD- a. Način sačinjavanja zapisnika i korišćenje tonskog zapisa bliže se utvrđuju Poslovnikom o radu Skupštine CKDD-a.
+25.4. Zapisnik se sačinjava u roku od sedam dana od dana održavanja sjednice Skupštine CKDD- a. Uz zapisnik se prilažu: spisak lica koja su učestvovala u radu sjednice, dokazi o sazivanju sjednice u skladu sa zakonom, kao i kopije punomoćja i glasački listići.
+25.5. U roku od tri dana od dana isteka roka iz tačke 25.4. ovog člana, Sekretar dužan je da zapisnik dostavi svim akcionarima ili da ga učini dostupnim na internet stranici CKDD-a, u trajanju od najmanje 30 dana.
