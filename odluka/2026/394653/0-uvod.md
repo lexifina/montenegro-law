@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 alineja 9 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore" br.2/18, 34/19, 38/20, 50/22, 84/22, 81/25, 98/25), člana 29 Zakona o državnoj imovini ("Sl.list Crne Gore" br.21/09, 40/11, 23/25, 160/25) u vezi sa članom 194, 201, 208 i 216 Zakona o svojinsko pravnim odnosima ("Sl.list Crne Gore" br.19/09) i člana 35 stav 1 alineja 9 i člana 39 Statuta Opštine Tivat ("Sl.list Crne Gore-Opštinski propisi" br. 24/18, 9/20) na sjednici Skupštine opštine Tivat održanoj dana 13.05.2026. godine donosi se
+O D L U K A
+o ustanovljavanju službenosti na kat.parceli 406/2 k.o. Mrčevac radi polaganja kablovskog voda za potrebe trafostanice DTS 10/0.4 kV 1x630kVA "Dumidran-Nova".
