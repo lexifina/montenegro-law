@@ -1,0 +1,2 @@
+# Član 2
+Predmetni poslovni prostor iz člana 1 ove Odluke daje se na korišćenje Ministarstvu unutrašnjih poslova Direktoratu za zaštitu i spašavanje-Područnoj jedinici Pljevlja bez naknade radi obavljanja djelatnosti. Ministarstvo unutrašnjih poslova Direktorat za zaštitu i spašavanje- Područna jedinici Pljevlja dužno je da sa predmetnim poslovnim prostorom postupa zakonito, ekonomično i sa pažnjom dobrog domaćiina, kaoi da snosi sve troškove koji nastanu iz korišćenja predmetnog poslovnog prostora.
