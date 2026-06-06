@@ -1,0 +1,3 @@
+# Član 2
+Predmet ove Odluke je izvođenje radova na građenju sekundarne hidrotehničke infrastrukture (fekalna kanalizacija i vodovodne instalacije), za dio naselja Radovići, i to na dijelu: kat.par.br. 525, 526/1, 527/1, 22, 31, 39, 1151, 64/4, 77/1, 51/1 sve KO Radovići, kat.par.br. 468, 463, 462, 464 i 466 sve KO Nikovići, kat.par.br. 208 i 207 obje KO Milovići, u zoni A- I faza, i preko kat.par.br. 528, 346/2, 344, 343, 337/1, 533/1, 359/1, 534/1, 532, 531, 530, 371/1, 535, 536, 537, 542, 543 i 546 sve KO Radovići, u zoni B- II faza.
+Dužina trase fekalne kanalizacije i vodovodne instalacije, u zoni A- I faza iznosi cca 1200m', dok u zoni B- II faza iznosi cca 1800m'.
