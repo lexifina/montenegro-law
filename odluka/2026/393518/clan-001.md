@@ -1,0 +1,3 @@
+# Član 1
+## o davanju na privremeno upravljanje i korišćenje poslovnog prostora koji se nalazi u JU ,,Centru za kulturu" u Gusinju Ministarstvu sporta i mladih Crne Gore
+Opština Gusinje kao nosilac prava svojine nepokretnosti upisanih u A i V listu lista nepokretnosti 998 KO Gusinje i to katastarske parcele broj 15/1, broj zgrade 1, dom kulture, prizemlje i prvi sprat (objekat JU ,,Centra za kulturu" Gusinje), daje na privremeno upravljanje i korišćenje, bez naknade, Ministarstvu sporta i mladih Crne Gore, poslovni/kancelarijski prostor koja se nalazi na prizemlju objekta JU ,,Centra za kulturu" Gusinje, ukupne površine oko 18 m2.
