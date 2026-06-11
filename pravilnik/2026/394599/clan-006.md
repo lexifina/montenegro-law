@@ -1,0 +1,4 @@
+# Član 6
+Prilikom prijema u zatvor pritvorenom licu se oduzimaju: novac, dragocjenosti, mobilni telefon i drugi tehnički uređaji, oštri predmeti (noževi, britve, žileti za brijanje, makaze, igle), kaiš, šal i kravata, kao i predmeti za koje postoji opravdana bojazan da bi njima, sebi ili drugom mogao nanijeti povredu ili ugroziti život i bezbjednost u zatvoru.
+Oduzimanje stvari iz stava 1 ovog člana vrši se zapisnički, u prisustvu pritvorenog lica, a kopija zapisnika daje se pritvorenom licu.
+O oduzetom novcu i predmetima za koje postoji sumnja da su korišćeni za izvršenje krivičnog djela ili koji mogu biti od interesa za vođenje krivičnog postupka obavještava se sud koji je odredio pritvor i organizaciona jedinica organa državne uprave nadležnog za unutrašnje poslove koja vrši policijske poslove (u daljem tekstu: Uprava policije).

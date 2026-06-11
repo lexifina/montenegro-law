@@ -1,0 +1,7 @@
+# Član 40
+Sudija za istragu, odnosno predsjednik vijeća može, na zahtjev pritvorenog lica, odobriti dopisivanje i posjete stranog ili domaćeg advokata koji u svojstvu punomoćnika zastupa pritvoreno lice u međunarodnim sudskim ili arbitražnim postupcima koji su prepoznati od strane države, uz poštovanje prava na povjerljivu komunikaciju.
+Posjete iz stava 1 ovog člana se održavaju jednom u sedmici, a po obrazloženom zahtjevu i više puta, u vremenskom trajanju koje je odobreno.
+Ako u zahtjevu iz stava 2 ovog člana nije precizirano trajanje posjete, posjeta traje trideset minuta.
+Starješina Uprave, uz saglasnost sudije za istragu, odnosno predsjednika vijeća, određuje dane u sedmici i vrijeme u tim danima kad će se obavljati posjete advokata pritvorenim licima, uzimajući u obzir odobreno trajanje posjeta.
+Posjete iz stava 1 ovog člana obavljaju se u skladu sa članom 37 stav 3 ovog pravilnika, uz poštovanje prava na povjerljiv razgovor između advokata i pritvorenog lica.
+Uz zahtjev za posjetu, odnosno dopisivanje u skladu sa ovim članom dostavlja se punomoćje za zastupanje pritvorenog lica u međunarodnom sudskom ili arbitražnom postupku, potvrda izdata od strane međunarodnog suda ili arbitraže da zastupa pritvoreno lice u navedenom postupku kao punomoćnik, izjava advokata kojom garantuje da će se posjete, odnosno dopisivanje koristiti isključivo za potrebe postupka pred međunarodnim sudom ili arbitražom, kao i dokaz o aktivnom statusu advokata u advokatskoj komori ili drugom profesionalnom udruženju nadležnom za pravnu struku.
