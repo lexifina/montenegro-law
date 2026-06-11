@@ -1,0 +1,4 @@
+# Član 13
+## Zajedničke obaveze uvoznika i distributera
+Prije stavljanja na tržište neautomatskih vaga namijenjenih za upotrebu u svrhe navedene u članu 3 stav 1, uvoznici i distributeri treba da obezbjede da je proizvođač sproveo odgovarajući postupak ocjenjivanja usaglašenosti iz člana 16 ovog pravilnika, i treba da osiguraju da je proizvođač izradio tehničku dokumentaciju, da neautomatska vaga posjeduje CE znak i dodatnu metrološku oznaku, da je prate propisani dokumenti, te da je proizvođač ispunio zahtjeve iz člana 8 stav 6 tač. 1 i 2 i člana 8 stav 8 ovog pravilnika.
+Prije stavljanja na tržište neautomatske vage koja nije namijenjena za upotrebu u svrhe navedene u članu 3 stav 1 ovog pravilnika, uvoznici i distributeri treba da osiguraju da je proizvođač ispunio zahtjeve iz člana 8 stav 6 tač. 1 i 2 i člana 8 stav 8 ovog pravilnika.
