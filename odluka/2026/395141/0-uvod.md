@@ -1,0 +1,3 @@
+Na osnovu člana 18 stav 2 Zakona o kulturi ("Službeni list Crne Gore" broj 49/08,16/11, 40/11 i 38/12), člana 9 stav 1 alineja 2 i člana 10 stav 3 Odluke o organizovanju Opštinske javne ustanove "Muzeji" ("Službeni list RCG - opštinski propisi" broj 3/92, "Službeni list Opštine Kotor" broj 1/94, 1/96 i 3/99, ("Službeni list CG -opštisnki propisi" broj 1/10, 9/12, 24/14, 52/19 i 58/25) i člana 36 Statuta opštine Kotor ("Službeni list CG -opštinski propisi" broj 37/19) Skupština opština Kotor na V sjednici održanoj 02.06.2026. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Opštinske javne ustanove
