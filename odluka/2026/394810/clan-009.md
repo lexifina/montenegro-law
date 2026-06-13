@@ -1,0 +1,3 @@
+# Član 9
+Iskazi po pojedinačnim mjerama iz ovog Programa predstavljaju projektovane vrijednosti.
+Sekretarijat za ruralni i održivi razvoj može u toku izvršenja Programa vršiti izmjene namjene korišćenja sredstava, maksimalno do 20% ukupnog budžeta Programa, i preusmjeravati sredstva sa mjere za koju nije bilo dovoljno interesovanja, na drugu mjeru Programa gdje je interesovanje veće od projektovanog iznosa. Sekretar Sekretarijata za ruralni i održivi razvoj može, u visini do 5% Budžeta Programa, izvršiti izmjenu namjene korišćenja sredstava Programa i ta sredstva utrošiti za neplanirane i novonastale potrebe iz oblasti ruralnog i/ili održivog razvoja, kao i za dodjelu raznih vidova interventne podrške i pomoći.
