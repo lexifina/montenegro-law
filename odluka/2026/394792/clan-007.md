@@ -1,0 +1,2 @@
+# Član 7
+Pravo na subvenciju troškova prevoza srednjoškolskih učenika sa seoskog i prigradskog područja, koji posjeduju mjesečne đačke karte prevoza i koriste ovlašćeni javni linijski prigradski prevoz putnika, imaju svi srednjoškolski sa teritorije opštine Bijelo Polje, a koji koriste lokalni javni prevoz, kao i učenici srednjih škola koji sa teritorije opštine Bijelo Polje putuju za Berane i pohadjaju tamošnje srednje škole, za period januar-decembar 2026. godine.
