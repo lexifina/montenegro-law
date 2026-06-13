@@ -1,0 +1,2 @@
+Na osnovu člana 28 stav 1 tačka 2 i člana 38 stav 1 tačka 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19 i 38/20, 50/22, 84/22, 98/25 i 30/26), a u vezi sa članom 23 stav 13 i članu 45 Zаkоnа o legalizaciji bespravnih objekata ("Službenom listu Crne Gore", br. 91/25) i člana 58 stav 1 tačka 2 Statuta Opštine Ulcinj ("Službeni list Crne Gore - Opštinski propisi", broj 48/19 i 5/24), uz prethodnu saglasnost Vlade broj 11-011/25-4174 od 04.12.2025.godine, Skupština Opštine Ulcinj, na sjednici održanoj 14.05.2026. godine, donijela je
+ODLUKU
