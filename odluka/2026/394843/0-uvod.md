@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 1 tačke 1 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/22, 50/22, 84/25, 98/25 i 30/26) i člana 19 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 2/18, 66/19, 140/22, 84/24) i člana 58 stav 1 tačka 2 Statuta Opštine Ulcinj ("Službeni list Crne Gore - Opštinski propisi", br. 48/19 i 5/24), Skupština Opštine Ulcinj, na sjednici održanoj dana 14.05.2026. godine, donijela je:
+ODLUKU
