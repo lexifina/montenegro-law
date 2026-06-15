@@ -1,0 +1,2 @@
+Na osnovu člana 29 Statuta JU "Dnevni centar za djecu i mlade sa smetnjama i teškoćama u razvoju-Tivat" ("Službeni list Crne Gore - Opštinski propisi", br. 45/19 i 18/25), člana 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), i člana 164 stav 1 tačka 8 Zakona o radu ("Službeni list Crne Gore", br. 74/19, 8/21, 59/21, 68/21, 145/21, 77/24, 84/24, 86/24, 122/25, 165/25 i 51/26), Skupština opštine Tivat na sjednici održanoj dana 9. 6. 2026. godine donijela je
+ODLUKU
