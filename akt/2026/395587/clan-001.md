@@ -1,0 +1,2 @@
+# Član 1
+Ovim Statutom uređuje se organizacija i način rada organa Društva sa ograničenom odgovornošću "Komunalno/Komunale" Tuzi (u daljem tekstu: Društvo), i to: poslovno ime i sjedište, djelatnost Društva, iznos osnovnog kapitala, nadležnosti organa upravljanja i broj članova, bliži način njihovog imenovanja i razrješenja, način donošenja odluka, postupak za izmjene i dopune statute i druga pitanja u skladu sa zakonom i ovim Statutom.
