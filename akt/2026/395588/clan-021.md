@@ -1,0 +1,2 @@
+# Član 21
+Član Odbora direktora ne može biti lice koje je osuđivano za krivična djela protiv: prava iz rada, intelektualne svojine, platnog prometa i privrednog poslovanja, imovine i službene dužnosti, u roku od tri godine od dana prestanka pravnih posljedica osude; revizor Društva ili lice angažovano u reviziji finansijskih izvještaja Društva, do isteka roka u skladu sa posebnim zakonom; lice kome je izrečena mjera bezbjednosti zabrane obavljanja djelatnosti koja čini pretežnu djelatnost Društva, dok ta mjera traje.
