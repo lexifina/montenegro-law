@@ -1,0 +1,2 @@
+# Član 37
+Zahtjev za prestanak mandata prije isteka vremena na koje je imenovan, član Odbora direktora podnosi Skupštini i o tome obavještava Odbor direktora.
