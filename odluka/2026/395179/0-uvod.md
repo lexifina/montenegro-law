@@ -1,0 +1,2 @@
+Na osnovu člana 59 Zakona o lokalnoj samoupravi (,,Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 53 stav 1 tačka 2 Statuta opštine Tuzi (,,Službeni list CG - Opštinski propisi", broj 24/19, 5/20, 51/22, 55/22 i 15/26), a u vezi sa članom 14 stav 4 Zakona o legalizaciji bespravnih objekata (,,Službeni list CG", broj 19/25 i 18/26) predsjednik Opštine Tuzi donosi
+ODLUKU
