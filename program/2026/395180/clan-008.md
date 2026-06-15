@@ -1,0 +1,2 @@
+# Član 8
+Nakon stupanja na snagu ovog Programa, predsjednik opštine će obrazovati komisiju za administrativnu i terensku provjeru zahtijeva pristiglih po osnovu Programa mjera za realizaciju sredstava za razvoj poljoprivredne proizvodnje u Opštini Tuzi za 2026.godinu-Agrobudžet, koja će nakon dostavljenih zahtjeva aplikanata izvrši njihovu administrativnu i terensku kontrolu, da sačini listu predloga o prihvatanju odbijanju ili dopunu zahtijeva sa obrazloženjima.

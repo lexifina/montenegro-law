@@ -1,0 +1,2 @@
+# Član 6
+Za izvršenje Programa odgovoran je Sekretarijat za poljoprivredu, zaštitu životne sredine i vodoprivredu i Sekretarijat za finansije. Obaveze prema korisnicima Programa izvršavaće se po dinamici utvrđenoj budžetskim planom potrošnje za 2026. godinu, koji odobrava Sekretarijat za finansije Opštine Tuzi, a najkasnije do kraja kalendarske godine po rješenjma koja su donešena za prvo polugodište, odnosno do kraja februara naredne godine za rješenja koja su donešena do kraja tekuće godine.
