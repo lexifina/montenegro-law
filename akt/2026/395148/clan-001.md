@@ -1,0 +1,2 @@
+# Član 1
+Ovim Statutom uređuje se poslovno ime, sjedište i pretežna djelatnost Društva sa ograničenom odgovornošću "Parking servis Bijelo Polje" (u daljem tekstu "Društvo"), iznos osnovnog kapitala, udio člana Društva u ukupnom osnovnom kapitalu izražen u procentima, nadležnosti organa upravljanja i broj članova, bliži način njihovog imenovanja i razrješenja, način donošenja odluka, postupak za izmjene i dopune Statuta i druga pitanja u skladu sa zakonom.
