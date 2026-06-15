@@ -1,0 +1,2 @@
+Na osnovu člana 38 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25, i 98/25), člana 44 stav 2 Zakona o kulturi ("Službeni list Crne Gore", br. 49/08, 16/11, 40/11 i 38/12), člana 35 Statuta opštine Tivat ("Službeni list Crne Gore - Opštinski propisi", br. 24/18 i 9/20) i člana 15 i 18 Statuta Javne ustanove Muzej i galerija Tivat ("Službeni list Crne Gore - Opštinski propisi", broj 14/25) Skupština opštine Tivat je na sjednici održanoj dana 9. 6. 2026. godine donijela
+ODLUKU
