@@ -1,0 +1,2 @@
+Na osnovu člana 105 stav 8, člana 107 stav 3, člana 110 stav 10, člana 111 stav 7, člana 113 stav 3, člana 114 stav 5, člana 115 stav 6, člana 116 stav 4, člana 198 stav 1 tačka 70 i člana 208 stav 1 tačka 9 Zakona o vazdušnom saobraćaju ("Službeni list CG", broj 52/26), Agencija za civilno vazduhoplovstvo donijela je
+P R A V I L N I K O ZAHTJEVIMA I ADMINISTRATIVNIM PROCEDURAMA KOJE SE ODNOSE NA AERODROME
