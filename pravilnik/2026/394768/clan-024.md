@@ -1,0 +1,15 @@
+# Član 24
+## Postupanje sa proizvodima koji predstavljaju rizik na nacionalnom nivou
+(1) Kada organi tržišnog nadzora imaju dovoljno razloga da vjeruju da proizvod predstavlja rizik po zdravlje ili bezbjednost lica ili po domaće životinje ili imovinu, sprovode ocjenjivanje u pogledu dotičnog proizvoda koje pokriva sve relevantne zahtjeve utvrđene ovim pravilnikom, a odgovarajući privredni subjekti sarađuju sa nadležnim organima tržišnog nadzora u tu svrhu, u mjeri u kojoj je to neophodno.
+(2) Kada, u toku ocjenjivanja iz stava 1 ovog člana, organi tržišnog nadzora utvrde da proizvod nije usaglašen sa zahtjevima utvrđenim ovim pravilnikom, bez odlaganja od odgovarajućeg privrednog subjekta zahtijevaju preduzimanje svih odgovarajućih korektivnih mjera radi usaglašavanja proizvoda sa tim zahtjevima, povlačenja ili opoziva proizvoda sa tržišta u razumnom roku, srazmjernom prirodi rizika, koji oni mogu propisati, organi tržišnog nadzora o tome obavještavaju relevantno imenovano tijelo.
+(3) Odredbe zakona kojim se uređuje nadzor nad proizvodima na tržištu primjenjuju se na mjere iz stava 2 ovog člana.
+(4) Kada organi tržišnog nadzora smatraju da neusaglašenost nije ograničena na teritoriju Crne Gore, o rezultatima ocjenjivanja i o mjerama koje su naložili privrednom subjektu obavještavaju Evropsku Komisiju i ostale države članice.
+(5) Privredni subjekt obezbjeđuje preduzimanje svih odgovarajućih korektivnih mjera u pogledu svih proizvoda koje je stavio na raspolaganje na cjelokupnom tržištu Crne Gore.
+(6) Kada relevantni privredni subjekt ne preduzme odgovarajuće korektivne mjere u roku iz stava 2 ovog člana, nadležni organi tržišnog nadzora preduzimaju sve odgovarajuće privremene mjere radi zabrane ili ograničenja isporuke proizvoda na tržište, povlačenja ili opoziva tog proizvoda.
+(7) Organi tržišnog nadzora bez odlaganja obavještavaju Komisiju i ostale države članice o mjerama iz stava 6 ovog člana, a informacije o tim mjerama sadrže sve dostupne pojedinosti, naročito podatke neophodne za identifikaciju neusaglašenog proizvoda, porijeklo proizvoda, prirodu navodne neusaglašenosti i rizika, prirodu i trajanje preduzetih mjera i argumente koje je izložio relevantni privredni subjekt, i nadležni organi tržišnog nadzora naročito navode da li je neusaglašenost posljedica jednog od sljedećeg:
+a) neispunjavanja zahtjeva koji se tiču zdravlja ili bezbjednosti lica ili zaštite domaćih životinja
+ili imovine od strane proizvoda; ili
+b) nedostataka u crnogorskim standardima koji su ekvivalentni harmonizovanim standardima iz
+člana 13 ovog pravilnika, kojima se ostvaruje pretpostavka usaglašenosti.
+(8) Kada u roku od tri mjeseca od prijema informacija iz stava 7 ovog člana, ni jedna država članica ni Komisija ne ulože prigovor na privremenu mjeru nadležnog organa tržišnog nadzora, ta mjera smatra se opravdanom.
+(9) Nadležni organi tržišnog nadzora obezbjeđuju da se u pogledu dotičnog proizvoda, bez odlaganja, preduzimaju odgovarajuće restriktivne mjere, kao što je povlačenje proizvoda sa tržišta, u skladu sa zakonom kojim se uređuje nadzor nad proizvodima na tržištu.

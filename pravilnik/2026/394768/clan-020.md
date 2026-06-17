@@ -1,0 +1,9 @@
+# Član 20
+## Operativne obaveze imenovanih tijela
+(1) Imenovana tijela sprovode ocjenjivanja usaglašenosti u skladu sa postupcima ocjenjivanja usaglašenosti predviđenim u Prilozima 3 do 7 i Prilogu 9.
+(2) Ocjenjivanja usaglašenosti sprovode se na proporcionalan način, izbjegavajući nepotrebno opterećenje za privredne subjekte, a tijela za ocjenjivanje usaglašenosti obavljaju svoju djelatnost uzimajući u obzir veličinu preduzeća, sektor u kojem posluje, njegovu strukturu, stepen složenosti predmetne tehnologije proizvoda i masovnu ili serijsku prirodu procesa proizvodnje, pri čemu se poštuje stepen strogosti i nivo zaštite koji se zahtijeva za usaglašenost proizvoda sa zahtjevima ovog pravilnika.
+(3) Kada imenovano tijelo utvrdi da proizvođač nije ispunio bitne zahtjeve za zdravlje i bezbjednost iz Priloga 2 ovog pravilnika ili odgovarajuće crnogorske standarde ekvivalentne harmonizovanim standardima ili druge tehničke specifikacije, od tog proizvođača zahtijeva preduzimanje odgovarajućih korektivnih mjera i ne izdaje sertifikat o usaglašenosti.
+(4) Kada, u toku praćenja usaglašenosti nakon izdavanja sertifikata, imenovano tijelo utvrdi da proizvod više nije usaglašen, od proizvođača zahtijeva preduzimanje odgovarajućih korektivnih mjera i, po potrebi, suspenduje ili povlači sertifikat.
+(5) Kada korektivne mjere nisu preduzete ili ne daju traženi efekat, imenovano tijelo, prema potrebi, ograničava, suspenduje ili povlači sve sertifikate.
+(6) U slučaju ograničenja, suspenzije ili povlačenja imenovanja, ili u slučaju kada je imenovano tijelo prestalo sa radom, nadležno ministarstvo preduzima odgovarajuće korake kako bi obezbjedilo da spise tog tijela preuzme drugo imenovano tijelo ili da budu dostupni odgovornim organima za imenovanje i organima tržišnog nadzora, na njihov zahtjev.
+(7) Imenovano tijelo obezbjeđuje dostupnost žalbenog postupka protiv njegovih odluka.

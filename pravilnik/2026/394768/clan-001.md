@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuju se: bitni zahtjevi za zdravlje i bezbjednost koji se odnose na projektovanje i izradu opreme i zaštitnih sistema namijenjenih za upotrebu u potencijalno eksplozivnim atmosferama, kao i drugi zahtjevi i uslovi koji moraju da budu ispunjeni za njihovu isporuku na tržištu i stavljanje u upotrebu, grupe i kategorije opreme namijenjene za upotrebu u potencijalno eksplozivnim atmosferama, postupci ocjenjivanja usaglašenosti; deklaracija o usaglašenosti i model deklaracije o usaglašenosti, sadržaj tehničke dokumentacije; znak usaglašenosti i znak protiveksplozivne zaštite, zaštitna klauzula, kao i zahtjevi koje mora da ispuni tijelo za ocjenjivanje usaglašenosti da bi bilo imenovano za ocjenjivanje usaglašenosti.

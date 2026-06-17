@@ -1,0 +1,5 @@
+# Član 26
+## Usaglašeni proizvodi koji predstavljaju rizik
+(1) Kada, nakon sprovedenog ocjenjivanja iz člana 24 stav 1 ovog pravilnika, nadležni organ tržišnog nadzora utvrdi da, iako je proizvod usaglašen sa ovim pravilnikom, predstavlja rizik po zdravlje ili bezbjednost lica ili po domaće životinje ili imovinu, od relevantnog privrednog subjekta zahtijeva, u skladu sa zakonom kojim se uređuje tržišni nadzor nad proizvodima, preduzimanje svih odgovarajućih mjera kako bi se obezbjedilo da dotični proizvod, kada se stavi na tržište, više ne predstavlja taj rizik, odnosno povlačenje ili opoziv proizvoda sa tržišta u razumnom roku, srazmjernom prirodi rizika, koji ovi organi mogu propisati.
+(2) Privredni subjekt obezbjeđuje preduzimanje korektivnih mjera u pogledu svih dotičnih proizvoda koje je stavio na raspolaganje na tržištu Crne Gore.
+(3) Nadležni organ tržišnog nadzora odmah o tome obavještava Komisiju i ostale države članice, a te informacije sadrže sve dostupne pojedinosti, naročito podatke neophodne za identifikaciju dotičnog proizvoda, porijeklo i lanac isporuke proizvoda, prirodu rizika i prirodu i trajanje preduzetih nacionalnih mjera.
