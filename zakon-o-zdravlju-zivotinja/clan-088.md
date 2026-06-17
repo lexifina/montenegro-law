@@ -1,0 +1,7 @@
+# Član 88
+## Pregled i kontrola, suspenzija i ukidanje odobrenja
+(1) Uprava vrši pregled i kontrolu objekata odobrenih u skladu sa čl. 85 i 87 ovog zakona, u odgovarajućim vremenskim intervalima koji se određuju u odnosu na rizik koji taj objekat predstavlja, a u skladu sa planom službenih kontrola.
+(2) Kada se pregledom iz stava 1 ovog člana u objektu utvrde ozbiljni nedostaci u pogledu usaglašenosti sa zahtjevima iz člana 85 stav 1 ovog zakona i propisa donijetim u skladu sa članom 85 stav 2 ovog zakona, a subjekat odgovoran za objekat ne može da garantuje da će otkloniti nedostatke, Uprava pokreće postupak ukidanja rješenja kojim je objekat odobren.
+(3) Kada se pregledom iz stava 1 ovog člana u objektu utvrde ozbiljni nedostaci u pogledu usaglašenosti sa zahtjevima iz člana 85 stav 1 ovog zakona, i propisa donijetim u skladu sa članom 85 stav 2 ovog zakona, a subjekat odgovoran za objekat garantuje da će otkloniti nedostatke u razumnom roku koji odredi službeni veterinar, Uprava suspenduje odobrenje za objekat.
+(4) Za objekat kojem je suspendovano odobrenje u skladu sa stavom 3 ovog člana, može biti izdano novo rješenje o odobrenju objekta samo pod uslovom kada se utvrdi da objekat u potpunosti ispunjava sve zahtjeve utvrđene ovim zakonom za tu vrstu objekta.
+(5) Za objekat kojem je rješenje ukinuto u skladu sa stavom 2 ovog člana, subjekat mora podnijeti novi zahtjev za odobravanje objekta prije ponovnog otpočinjanja djelatnosti.

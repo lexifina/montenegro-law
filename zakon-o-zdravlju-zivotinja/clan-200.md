@@ -1,0 +1,5 @@
+# Član 200
+## Liste trećih država i teritorija trećih država iz kojih je dozvoljen unos životinja, reproduktivnog materijala i proizvoda životinjskog porijekla u Crnu Goru
+(1) Unos pošiljaka životinja, reproduktivnog materijala i proizvoda životinjskog porijekla u Crnu Goru može da se vrši samo iz trećih država i teritorija tih država iz kojih je odobren uvoz u Evropsku uniju i koje se nalaze na važećoj listi trećih zemalja, područja ili njihovih zona iz kojih je dozvoljen ulazak u Evropsku uniju životinja, reproduktivnog materijala i proizvoda životinjskog porijekla.
+(2) Izuzetno od stava 1 ovog člana, ako je zaključen bilateralni ili multilateralni sporazum između Crne Gore i države izvoznice, životinje, reproduktivnog materijala i proizvoda životinjskog porijekla koji ulaze/se unose u Crnu Goru, radi proizvodnje i prometa moraju biti u skladu sa odredbama tog sporazuma.
+(3) Crna Gora prestaje da primjenjuje bilateralne i multilateralne sporazume u roku utvrđenom propisom o službenim kontrolama.

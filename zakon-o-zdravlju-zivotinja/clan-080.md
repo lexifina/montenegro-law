@@ -1,0 +1,5 @@
+# Član 80
+## Odstupanja od obaveze registracije subjekata koji obavljaju postupke okupljanja životinja
+(1) Izuzetno od člana 79 ovog zakona, subjekti koji obavljaju postupke okupljanja životinja, koji predstavlja neznatan rizik, može biti izuzet od obaveze registracije, u skladu sa propisom iz stava 3 ovog člana, uzimajući u obzir vrste, kategorije i broj držanih kopnenih životinja obuhvaćenih njihovom djelatnošću.
+(2) Uprava obavještava Evropsku komisiju o odstupanjima iz stava 1 ovog člana.
+(3) Obrazac zahtjeva za registraciju subjekata koji obavljaju poslove okupljanja životinja i izmjenu podataka, način dostavljanja zahtjeva, podatke i dokumentaciju koja se prilaže uz zahtjev, uključujući rokove za dostavljanje tih podataka, bliže zahtjeve za postupak registracije subjekata iz člana 79 stav 1 ovog zakona i dostavljanje podataka u svrhu registracije i rokove za dostavljanje podataka, vrste objekata koje mogu biti izuzeti od obaveze registracije u skladu sa stavom 1 ovog člana utvrđuju se propisom Vlade.

@@ -1,0 +1,3 @@
+# Član 122
+## Zahtjevi u vezi sa cirkusima, izložbama, sportskim događajima i korišćenjem u rekreativne svrhe, zoološkim vrtovima, prodavnicama kućnih ljubimaca, skloništima za životinje i veleprodajom
+Subjekat koji je odgovoran za premještanje životinja za: potrebe cirkusa, zooloških vrtova, prodavnica kućnih ljubimaca i veleprodaja, izložbi i sportskih, kulturnih i sličnih događaja za životinje i veleprodaju dužan je da premještanje vrši u skladu sa čl. 110 do 118 ovog zakona i dozvoljenim izuzecima od čl. 110 do 118 ovog zakona, osim člana 110 stav 1 tač. 1, 2 i 3 i čl. 111 i 112 ovog zakona, i posebnim zahtjevima koji se utvrđuju propisom Vlade Crne Gore.

@@ -1,0 +1,8 @@
+# Član 159
+## Preispitivanje, suspenzija i oduzimanje rješenja o odobrenju
+(1) Uprava vrši pregled i kontrolu objekata odobrenih u skladu sa članom 156 stav 1 ovog zakona, u odgovarajućim vremenskim intervalima koji se određuju u odnosu na rizik koji taj objekat predstavlja, a u skladu sa planom službenih kontrola.
+(2) Kada se pregledom iz stava 1 ovog člana u objektu utvrde ozbiljni nedostaci u pogledu usaglašenosti sa zahtjevima iz člana 156 stav 1 ovog zakona i propisa donijetim u skladu sa članom 156 stav 2 ovog zakona, a subjekat odgovoran za objekat ne može da garantuje da će otkloniti nedostatke, Uprava na osnovu predloga službenog veterinara pokreće postupak povlačenja odobrenja za objekat.
+(3) Kada se pregledom iz stava 1 ovog člana u objektu utvrde ozbiljni nedostaci u pogledu usaglašenosti sa zahtjevima iz člana 156 stav 1 ovog zakona, i propisa donijetim u skladu sa članom 156 stav 2 ovog zakona, a subjekat odgovoran za objekat garantuje da će otkloniti nedostatke u razumnom roku, Uprava na osnovu predloga službenog veterinara suspenduje odobrenje za objekat.
+(4) Odobrenje se obnavlja nakon suspenzije u skladu sa stavom 2 ovog člana samo kada je Uprava utvrdila da objekat u potpunosti ispunjava sve zahtjeve ovog zakona koji su odgovarajući za tu vrstu objekta.
+(5) Za objekat kojem je povučeno odobrenje u skladu sa stavom 2 ovog člana, subjekat podnosi novi zahtjev za odobravanje objekta prije ponovnog otpočinjanja djelatnosti.
+(6) Za odobrene objekte za koje je utvrđeno da ne ispunjavaju sve zahtjeve utvrđene ovim zakonom, Uprava donosi rješenje o brisanju objekta iz registra iz člana 160 ovog zakona.

@@ -1,0 +1,4 @@
+# Član 63
+## ODJELJAK B MJERE ZA KONTROLU BOLESTI SA LISTE KATEGORIJE B I C Obaveze subjekata i drugih relevantnih fizičkih i pravnih lica u slučaju sumnje na bolest sa liste kategorije B
+(1) U slučaju sumnje na bolest sa liste kategorije B kod držanih životinja, pored obaveze da prijave bolest u skladu sa članom 19 ovog zakona, do donošenja mjera kontrole bolesti u skladu sa članom 65 stav 1 ovog zakona, Uprava će preduzeti mjere kojim obezbjeđuje da subjekat i drugo relevantno fizičko i pravno lice preduzimaju mjere za kontrolu bolesti iz člana 65 stav 1 tačka 1 ovog zakona i propisa iz člana 65 stav 4 ovog zakona, kako bi se sprječilo širenje bolesti sa liste sa zahvaćenih životinja, objekata i drugih lokacija pod njihovom odgovornošću na druge nezahvaćene životinje ili na ljude.
+(2) Detaljna pravila kojima se dopunjuju mjere za kontrolu bolesti iz stava 1 ovog člana propisom utvrđuje Vlada.

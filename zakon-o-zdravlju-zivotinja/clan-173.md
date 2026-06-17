@@ -1,0 +1,3 @@
+# Član 173
+## Mjere koje se odnose na puštanje akvatičnih životinja u prirodu
+Bez obzira na zdravstveni status objekta, zone ili kompartmenta na koje će vodene životinje biti puštene, a ne isključujući primjenu odredbe posebnog propisa kojim je uređena akvakultura i odredbe posebnog propisa o stranim invazivnim vrstama, Uprava može odobriti puštanje vodenih životinja u prirodu na teritoriju Crne Gore samo ako potiču iz objekta, zone ili kompartmenta proglašenim slobodnim u skladu sa članom 34 stav 1 ili članom 35 stav 2 ovog zakona od jedne ili više bolesti sa liste kategorije B ili C, za vrstu vodenih životinja koja se premještaju, a koje pripadaju vrstama sa liste.

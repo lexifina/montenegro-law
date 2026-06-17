@@ -1,0 +1,11 @@
+# Član 87
+## Procedura za dobijanje odobrenja objekta
+(1) Ministarstvo propisuje bliže uslove koje se odnose na proceduru podnošenja zahtjeva i dobijanja odobrenja objekta u skladu sa članom 82 stav 1, članom 83 ili članom 84 stav 1 ovog zakona, a koju subjekti treba da slijede prilikom podnošenja zahtjeva.
+(2) Subjekti odgovorni za objekte koji podliježu odobravanju podnose pisani zahtjev u skladu sa propisom.
+(3) Nakon podnošenja urednog zahtjeva u skladu sa članom 82 stav 1 ili članom 83 stav 1 tačka 1 ovog zakona, starješina Uprave obrazuje komisiju za neposredni pregled objekta (u daljem tekstu: komisija), radi utvrđivanja ispunjenosti zahtjeva utvrđenim ovim zakonom.
+(4) U radu komisije obavezno učestvuju dva člana iz redova službenika Uprave i jedan član službeni veterinar.
+(5) Nakon pregleda objekta i utvrđivanja ispunjenosti propisanih zahtjeva, komisija nakon najmanje jednog obavljenog neposrednog pregleda objekta, sačinjava zapisnik o pregledu i izvještaj o rezultatima pregledanog objekta za koji je podnesen zahtjev za odobrenje iz stava 3 ovoga člana.
+(6) Ako su ispunjeni svi uslovi propisani čl. 85 i 86 ovog zakona, starješina Uprave, na osnovu predloga komisije, rješenjem odobrava objekat i isti se upisuje u registar koji je sastavni dio VIS-a.
+(7) Kada objekat ne ispunjava sve zahtjeve za dobijanje odobrenja iz člana 85 ovog zakona, ali ispunjava sve glavne zahtjeve koji pružaju dovoljne garancije da objekat ne predstavlja značajan rizik, starješina Uprave, na osnovu predloga komisije, izdaje uslovno odobrenje na tri mjeseca i upisuje objekat u registar koji je sastavni dio VIS-a.
+(8) U slučaju kada je izdato uslovno odobrenje u skladu sa stavom 7 ovog člana, konačno odobrenje se izdaje samo kada je na osnovu ponovnog pregleda komisije u vrijeme obavljanja odobrene djelatnosti ili na osnovu dostavljene dokumentacije od strane subjekta prije isteka roka iz stava 7 ovog člana, utvrđeno da objekat ispunjava sve zahtjeve za odobrenje iz člana 85 stav 1 ovog zakona i iz propisa donesenih u skladu sa članom 85 stav 2 ovog zakona.
+(9) U slučaju kada je neposrednim pregledom objekta ili na osnovu dostavljene dokumentacije utvrđen jasan napredak, ali objekat i dalje ne ispunjava sve propisane zahtjeve, Uprave može produžiti uslovno odobrenje na period ne duži od ukupno šest mjeseci.

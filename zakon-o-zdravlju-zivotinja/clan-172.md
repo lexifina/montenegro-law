@@ -1,0 +1,4 @@
+# Član 172
+## Izuzeci u vezi sa obavezom subjekata za premještanje životinja akvakulture između objekata, zona ili kompartmenta koji su predmet programa iskorjenjivanja bolesti
+(1) Izuzetno od člana 171 st. 1 i 2 ovog zakona, Uprava može da odobri subjektima da premještaju životinje akvakulture u objekte, zonu ili kompartment za koje je uspostavljen programom iskorjenjivanja u skladu sa članom 29 st. 1 i 2 ovog zakona u vezi sa bolestima sa liste kategorije B i C, iz drugog objekta, zone ili kompartmenta za koje je takođe uspostavljen takav program za iste bolesti sa liste, pod uslovom da to premještanje neće ugroziti zdravstveni status objekta, zone ili kompartmenta odredišta.
+(2) Ako se premještanje iz stava 1 ovog člana vrši iz Crne Gore u drugu državu članicu, Uprava to premještanje može da odobri samo uz prethodno dobijenu pisanu saglasnost nadležnog organa države odredišta i kada je primjenjivo, nadležnog organa države provoza.
