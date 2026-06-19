@@ -1,0 +1,9 @@
+# Član 10
+## Pravo na otkup udjela
+(1) Vlasnik udjela u AIF-u prenosiocu može da traži:
+1) da otvoreni AIF prenosilac otkupi njegove udjele, pri čemu vlasnik udjela nije dužan da plati izlaznu naknadu; i
+2) da DZUAIF koji upravlja AIF-om prenosiocem zamijeni njegove udjele u AIF-u prenosiocu za udjele drugog istovrsnog AIF-a (udjele u otvorenom AIF-u prenosiocu za udjele u otvorenom AIF-u preuzimaocu, te udjele u zatvorenom AIF-u prenosiocu za udjele u zatvorenom AIF-u preuzimaocu) slične strategije ulaganja kojim upravlja taj DZUAIF ili neki drugi DZUAIF sa kojim je taj DZUAIF povezan zajedničkom upravom ili kontrolom, ili značajnim direktnim ili indirektnim međusobnim vlasničkim udjelom i u tom slučaju ne naplaćuju se izlazna i ulazna naknada.
+(2) Vlasnik udjela u AIF-u preuzimaocu može da traži:
+1) da otvoreni AIF preuzimalac otkupi njegove udjele, pri čemu vlasnik udjela nije dužan da plati izlaznu naknadu;
+2) da DZUAIF koji upravlja AIF-om preuzimaocem zamijeni njegove udjele u AIF-u preuzimaocu za udjele drugog istovrsnog AIF-a (udjele u otvorenom AIF-u preuzimaocu za udjele u otvorenom AIF-u prenosiocu, te udjele u zatvorenom AIF-u preuzimaocu za udjele u zatvorenom AIF-u prenosiocu) slične strategije ulaganja kojim upravlja to društvo za upravljanje ili neko drugo društvo sa kojim je taj DZUAIF ili neki drugi DZUAIF sa kojim je taj DZUAIF povezan zajedničkom upravom ili kontrolom, ili značajnim direktnim ili indirektnim međusobnim vlasničkim udjelom i u tom slučaju ne naplaćuju se izlazna i ulazna naknada.
+(3) Vlasnici udjela imaju pravo na otkup udjela pod uslovima iz st. 1 i 2 ovog člana od dana prijema obavještenja iz člana 7 ovih Pravila, s tim da to pravo prestaje zabranom daljeg izdavanja ili otkupa udjela u skladu sa odredbama člana 11 stav 1 ovih Pravila.
