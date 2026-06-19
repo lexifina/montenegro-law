@@ -1,0 +1,2 @@
+Na osnovu člana 30 stav 1 i članova 135, 136 i 137 Zakona o tržištu kapitala ("Službeni list Crne Gore", br. 01/18, 069/25) Komisija za tržište kapitala (u daljem tekstu: Komisija), na svojoj 185. sjednici održanoj dana 05. juna 2026. godine donosi
+PRAVILA O UTVRĐIVANJU TEHNIČKIH STANDARDA PRIMJENE U VEZI SA TEHNIČKIM SREDSTVIMA ZA ODGOVARAJUĆE JAVNO OBJAVLJIVANJE POVJERLJIVIH INFORMACIJA I ZA ODLAGANJE JAVNOG OBJAVLJIVANJA POVJERLJIVIH INFORMACIJA
