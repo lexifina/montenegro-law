@@ -1,0 +1,13 @@
+# Član 5
+## glavna djelatnost proizvodnja investicionih preporuka ili fizičko lice koje za njih radi na osnovu ugovora o radu ili na drugi način
+(1) Pored informacija navedenih u članu 4 ovog Pravilnika, lica i stručnjaci navedebni u članu 4 ovih Pravila dužni su u preporuci jasno i istaknuto navesti sljedeće informacije:
+1) ako je preporuka objavljena izdavaocu na kojeg se preporuka direktno ili indirektno odnosi i naknadno je izmijenjena, navesti tu činjenicu;
+2) sažetak osnove procjene ili metodologije i osnovnih pretpostavki korišćenih za procjenu finansijskog instrumenta ili izdavaoca, ili za postavljanje ciljne cijene finansijskog instrumenta, kao i pokazivanje i sažetak bilo kakvih promjena u procjeni, metodologiji ili osnovnim pretpostavkama;
+3) pokazivanje mjesta gdje su detaljne informacije o procjeni ili metodologiji i osnovnim pretpostavkama direktno i jednostavno dostupne, ukoliko lice koje proizvodi preporuke nije koristilo vlastite modele;
+4) pokazivanje mjesta gdje su materijalne informacije o korišćenim vlasničkim modelima direktno i jednostavno dostupne, ukoliko lice koje proizvodi preporuke jeste koristilo vlasničke modele;
+5) značenje svake date preporuke, kao što su preporuke za "kupovinu", "prodaju" ili "zadržavanje", i vrijeme trajanja investicije na koju se preporuka odnosi, kao i davanje odgovarajućeg upozorenja o riziku, koje uključuje analizu osjetljivosti pretpostavki;
+6) referencu na planiranu učestalost ažuriranja preporuke;
+7) pokazivanje relevantnog datuma i vremena za bilo koju cijenu finansijskih instrumenata spomenutih u preporuci;
+8) ukoliko se preporuka razlikuje od bilo koje prethodne preporuke istog lica koja se odnosila na isti finansijski instrument ili izdavaoca i koja je distribuirana u prethodnih 12 mjeseci, navesti promjene i datum prethodne preporuke;
+9) spisak svih preporuka o bilo kojem finansijskom instrumentu ili izdavaocu koje su distribuirane u prethodnih 12 mjeseci, sa sljedećim podacima za svaku preporuku: datum distribucije, identitet fizičkih lica iz člana 3 stav 1 tačka 1 ovog Pravilnika, ciljna cijena i relevantna tržišna cijena u trenutku distribucije, smjer preporuke i period važenja ciljne cijene ili preporuke.
+(2) Kada je objavljivanje informacija zahtijevanih u stavu 1 tač. 2, 5 ili 9 ovog člana nesrazmjerno u odnosu na dužinu ili oblik preporuke, uključujući slučaj nepisane preporuke koja se daje korišćenjem modaliteta, kao što su sastanci, road show prezentacije, audio ili video konferencije, kao i radio, televizijski ili web intervjui, lice koje proizvodi preporuke dužno je u preporuci navesti gdje se tražene informacije mogu direktno i jednostavno pristupiti od strane lica koja primaju preporuku, besplatno.
