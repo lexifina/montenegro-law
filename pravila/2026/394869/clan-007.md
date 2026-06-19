@@ -1,0 +1,6 @@
+# Član 7
+## Troškovi likvidacije AIF-a s privatnom ponudom bez svojstva pravnog lica
+(1) Od dana donošenja odluke o likvidaciji, AIF-u s privatnom ponudom se ne mogu naplaćivati nikakve naknade niti troškovi, osim naknada depozitaru i troškova vezanih uz postupak likvidacije.
+(2) Troškovi vezani za postupak likvidacije AIF-a obuhvataju troškove za unovčavanje imovine AIF-a, podmirenje obaveza otvorenog AIF-a i eventualnu raspodjelu imovine investitorima, troškove obavještavanja investitora iz člana 2 i člana 6 stav 7 ovih Pravila, troškove revizije u likvidaciji, naknadu likvidator,u te sve ostale troškove koji se pojave kao neophodni u postupku likvidacije, odnosno za koje likvidator procijeni da su u interesu investitora.
+(3) Naknada likvidatoru određuje se kao naknada za upravljanje propisana pravilima AIF-a, uz izuzetnu mogućnost uvećanja do 100% kada je to opravdano, pri čemu je likvidator dužan da obrazloži razloge za njeno uvećanje i dostavi takvo obrazloženje svakom investitoru.
+(5) Troškovi vezani za postupak likvidacije AIF-a i naknada likvidatoru isplaćuju se iz imovine AIF-a, nakon podmirenja obaveza dospjelih do dana donošenja odluke o likvidaciji, a prije podmirenja ostalih obaveza AIF-a i raspodjele imovine investitorima.
