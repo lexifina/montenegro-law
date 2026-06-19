@@ -1,0 +1,3 @@
+# Član 14
+## Prenos imovine
+Na dan kada je ugovorom o obavljanju poslova depozitara zaključenim sa novim depozitarom predviđeno da će novi depozitar početi sa obavljanjem poslova depozitara, dosadašnji depozitar je dužan da svu imovinu AIF-a prenese na držanje i čuvanje novom depozitaru sa kojim je DZUAIF zaključilo ugovor o obavljanju poslova depozitara i za koje je dobilo saglasnost Komisije, pri čemu mora predati i knjige računa, evidencije i sva druga dokumenta i materijale bitne za poslovanje AIF-a za koji je do tada obavljao poslove depozitara, i to bilo u pisanom bilo u elektronskom obliku, zavisno od načina vođenja predmetnih podataka.

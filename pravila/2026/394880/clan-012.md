@@ -1,0 +1,6 @@
+# Član 12
+## Promjena depozitara
+(1) Depozitar, koji namjerava da prestane da obavlja poslove depozitara AIF-a, dužan je da, najmanje dva mjeseca prije prestanka obavljanja tih poslova, uputi pisano obavještenje o svojoj namjeri Komisiji i DZUAIF za koji obavlja poslove depozitara.
+(2) U slučaju iz stava 1 ovog člana DZUAIF je dužno da zaključi ugovor o obavljanju poslova depozitara sa drugim depozitarom i Komisiji podnese zahtjev za dobijanje saglasnosti za novog depozitara najkasnije 30 dana prije nego sadašnji depozitar prestane sa obavljanjem poslova depozitara.
+(3) Ako DZUAIF ne zaključi ugovor sa novim depozitarom u skladu sa stavom 2 ovog člana, odnosno ako Komisija ne izda saglasnost za novog depozitara prije nego sadašnji depozitar prestane sa obavljanjem poslova depozitara, sadašnji depozitar je dužan, ako je u mogućnosti, da nastavi sa pružanjem usluga depozitara u dodatnom roku od 30 dana počev od predviđenog datuma prestanka obavljanja poslova depozitara.
+(4) U slučaju da ni u dodatnom roku od 30 dana iz stava 3 ovog člana ne bude zaključen ugovor o obavljanju poslova depozitara sa novim depozitarom i dobijena saglasnost Komisije, AIF za koje je depozitar obavljao poslove depozitara moraju biti likvidirani, u skladu sa odredbama vezanim za likvidaciju AIF-a.

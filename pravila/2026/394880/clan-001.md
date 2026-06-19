@@ -1,0 +1,3 @@
+# Član 1
+## Predmet pravila
+Ovim Pravilima bliže se uređuje uslovi za obavljanje poslova depozitara alternativnih investicionih fondova (u daljem tekstu: AIF), način izbora i promjene depozitara AIF-a i dokumentacija koja se prilaže uz zahtjev za izdavanje saglasnosti na izbor depozitara, sadržaj zahtjeva za izdavanje saglasnosti investicinom društvu za obavljanje poslova depozitara AIF-a, sadržaj ugovora o obavljanju poslova depozitara i bitne izmjene ugovora o obavljanju poslova depozitara, način i rokovi u kojima depozitar obavještava Komisiju o utvrđenim nepravilnostima u poslovanju društva za upravljanje alternativnim investicionim fondom (u daljem tekszu:DZUAIF) i obim i sadržaj revizorskog izvještaja o obavljenoj reviziji izvršavanja obveza depozitara.

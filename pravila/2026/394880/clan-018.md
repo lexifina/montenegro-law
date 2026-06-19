@@ -1,0 +1,2 @@
+# Član 18
+Kad nastupi slučaj iz člana 17 ovih Pravila, depozitar je dužan svu imovinu AIF-a prenijeti na čuvanje i administriranje drugom depozitaru sa kojim je DZUAIF zaključio ugovor, odmah po zaključivanju istog, pri čemu mora predati i knjige računa, evidencije i sve druge dokumente i materijale bitne za poslovanje AIF-a za koji je do tada obavljao poslove depozitara, i to u pisanom ili elektronskom obliku, zavisno od načinu vođenja naznačenih podataka.
