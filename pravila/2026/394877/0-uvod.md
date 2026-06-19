@@ -1,0 +1,2 @@
+Na osnovu člana člana 30 stav 1 i člana 133 Zakona o tržištu kapitala ("Službeni list Crne Gore", br. 01/18, 069/25) Komisija za tržište kapitala (u daljem tekstu: Komisija), na svojoj 185. sjednici održanoj dana 05. juna 2026. godine donosi
+PRAVILA O TEHNIČKIM STANDARDIMA ZA ODGOVARAJUĆE ARANŽMANE, SISTEME I PROCEDURE ZA OBJAVLJIVANJE INFORMACIJA UČESNIKA NA TRŽIŠTU KOJI SPROVODE TRŽIŠNA ISPITIVANJA
