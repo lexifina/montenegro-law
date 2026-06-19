@@ -1,0 +1,2 @@
+Na osnovu člana 363 Zakona o privrednim društvima* ("Službeni list CG", br. 90/25, 121/25 i 44/26) i člana 8 stav 1 alineja 1 Odluke o osnivanju Društva sa ograničenom odgovornošću "Fond za inovacije Crne Gore" Podgorica ("Službeni list CG", br. 64/21 i 47/22), Vlada Crne Gore, na sjednici od 11. juna 2026. godine, donijela je
+STATUT DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "FOND ZA INOVACIJE CRNE GORE" PODGORICA
