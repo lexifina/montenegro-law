@@ -1,0 +1,6 @@
+# Član 15
+## Pretpostavka o usaglašenosti mjerila
+Smatra se da mjerila koja su usaglašena sa harmonizovanim standardima ili njihovim djelovima, čije su reference objavljene u Službenom listu Evropske unije, ispunjavaju bitne zahtjeve iz Priloga 1 i odgovarajućih specifičnih priloga za ta mjerila, koji su obuhvaćeni tim standardima ili njihovim djelovima.
+Smatra se da mjerila koja su usaglašena sa djelovima normativnih dokumenata, čiji je spisak objavljen u Službenom listu Evropske unije, ispunjavaju bitne zahtjeve iz Priloga 1 i odgovarajućih specifičnih priloga za ta mjerila, koji su obuhvaćeni tim djelovima normativnih dokumenata.
+Proizvođač može odabrati bilo koje tehničko rješenje koje ispunjava osnovne zahtjeve iz Priloga 1 ovog pravilnika i zahtjeva iz Priloga 3 do 12 ovog pravilnika koji se odnose na pojedinu vrstu mjerila, ali će se mjerilo smatrati usaglašenim sa tim zahtjevima, ako je proizvođač pravilno primijenio rješenja utvrđena u standardima iz stava 1 ovog člana.
+Pretpostavlja se usaglašenost sa odgovarajućim ispitivanjima iz člana 19 stav 4 tačka 9 ovog pravilnika, ako je ispitivanje sprovedeno u skladu sa odgovarajućim standardima i Prilozima iz st. 1 i 2 ovog člana i ako rezultati ispitivanja obezbjeđuju usaglašenost sa zahtjevima utvrđenim ovim pravilnikom.

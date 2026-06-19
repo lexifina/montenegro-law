@@ -1,0 +1,8 @@
+# Član 11
+## Uvoznik
+Uvoznik može da stavi na tržište samo mjerila koja ispunjavaju zahtjeve utvrđene ovim pravilnikom.
+Prije stavljanja mjerila na tržište i/ili u upotrebu, uvoznik garantuje da je proizvođač sproveo postupak ocjenjivanja usaglašenosti iz člana 18 ovog pravilnika, izradio tehničku dokumentaciju, da mjerilo nosi CE znak i dodatnu metrološku oznaku, da ga prati primjerak EU deklaracije o usaglašenosti i drugi potrebni dokumenti, kao i da je proizvođač ispunio zahtjeve iz člana 9 st. 5 i 6 ovog pravilnika.
+Ako uvoznik smatra ili ima razloga da vjeruje da mjerilo nije usaglašeno sa osnovnim zahtjevima iz Priloga 1 ovog pravilnika i odgovarajućih posebnih priloga za mjerila, on ne može da stavi mjerilo na tržište ni u upotrebu sve dok mjerilo ne bude usaglašeno, a ako mjerilo predstavlja rizik, uvoznik o tome obavještava proizvođača i organ državne uprave nadležan za tržišni nadzor.
+Uvoznik na mjerilo, ili ako to nije moguće na ambalaži ili u dokumentaciji koja prati mjerilo stavlja svoje ime, registrovani trgovački naziv ili registrovanu trgovačku oznaku i adresu na kojoj je dostupan, na crnogorskom jeziku.
+Uvoznik može, ako to smatra primjerenim, u skladu sa radnim karakteristikama mjerila, da uzima uzorke mjerila koja su već stavljena na raspolaganje na tržište, sprovodi ispitivanja, i prema potrebi, da vodi knjigu pritužbi i registar neusaglašenih i opozvanih mjerila, o čemu obavještava distributere.
+Uvoznik primjerak EU izjave o usaglašenosti i tehničke dokumentacije mjerila čuva i stavlja na raspolaganje nadležnom organu, u periodu od deset godina od dana stavljanja mjerila na tržište i ispunjava i druge obaveze utvrđene zakonom.

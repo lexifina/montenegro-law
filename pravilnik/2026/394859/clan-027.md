@@ -1,0 +1,6 @@
+# Član 27
+## Tijelo za ocjenjivanje usaglašenosti u sastavu proizvođača
+Akreditovano interno tijelo može se koristiti za sprovođenje aktivnosti ocjenjivanja usaglašenosti za privredni subjekt čiji je sastavni dio, u svrhu sprovođenja postupaka utvrđenih u Prilogu 2 Modul A2 i C2 ovog pravilnika, a to tijelo treba da čini poseban i odvojen dio privrednog subjekta i ne treba da učestvuje u projektovanju, proizvodnji, isporuci, instaliranju, upotrebi ili održavanju mjerila čije ocjenjivanje vrši.
+Tijelo za ocjenjivanje usaglašenosti u sastavu proizvođača treba da ispunjava sljedeće uslove: 1) treba da bude akreditovano u skladu sa zakonom kojim se uređuje način i postupak akreditacije; 2) treba da bude posebna organizaciona jedinica u okviru proizvođača u čijem je sastavu i treba da ima uspostavljene metode izvještavanja tog proizvođača;
+3) tijelo za ocjenjivanje usaglašenosti u sastavu proizvođača i njegovi zaposleni ne treba da budu odgovorni za kreiranje, proizvodnju, isporuku, ugradnju, rad ni održavanje mjerila koje ocjenjuju i ne treba da budu uključeni u aktivnosti koje mogu dovesti u pitanje njihovu nezavisnost i nepristrasnost u postupku ocjenjivanja usaglašenosti;
+4) može da obavlja poslove ocjenjivanja usaglašenosti iz stava 1 ovog člana, samo za potrebe proizvođača u čijem je sastavu.
