@@ -1,0 +1,4 @@
+# Član 1
+## Predmet primjene
+Pravila o indikatorima manipulacije tržištem, dozvoli za trgovanje tokom zatvorenog perioda i vrstama transakcija koje podliježu obavještenju (u daljem tekstu: Pravila), u skladu sa članom 139 Zakona o tržištu kapitala("Službeni list Crne Gore", br. 01/18 i 069/25)(u daljem tekstu: Zakon), definišu listu indikatora koji se odnose na upotrebu fiktivnog sredstva ili bilo kojeg drugog oblika obmane ili vještačkog postupanja, kao i listu indikatora manipulativnog ponašanja koje se odnosi na lažne ili obmanjujuće signale i na obezbjeđivanje cijena.
+Ovim Pravilima bliže se uređuju indikatori manipulacije tržištem, okolnosti pod kojima izdavalac može dozvoliti trgovanje tokom zatvorenog perioda i vrste transakcija koje izazivaju obavezu prijavljivanja transakcija rukovodilaca.
