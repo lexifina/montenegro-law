@@ -1,0 +1,2 @@
+Na osnovu člana 363 Zakona o privrednim društvima* ("Službeni list CG", br. 90/25, 121/25 i 44/26) i člana 7 stav 2 alineja 1 Odluke o osnivanju Društva sa ograničenom odgovornošću Inovaciono preduzetnički centar "Tehnopolis" - Nikšić ("Službeni list CG", br. 30/13, 47/13 i 80/15), Vlada Crne Gore, na sjednici od 11. juna 2026. godine, donijela je
+STATUT DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU INOVACIONO PREDUZETNIČKI CENTAR "TEHNOPOLIS" - NIKŠIĆ
