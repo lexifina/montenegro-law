@@ -1,0 +1,2 @@
+Na osnovu člana 10 stav 5 i člana 135 stav 3 Zakona o alternativnim investicionim fondovima ("Službeni list Crne Gore", br. 024/2025, 117/25 i 14/26) - (u daljem tekstu: Zakon), Komisija za tržište kapitala (u daljem tekstu: Komisija), na 185. sjednici od 5 .6. 2026. godine donijela je
+PRAVILA O SADRŽAJU I NAČINU VOĐENJA REGISTRA DRUŠTAVA ZA UPRAVLJANJE ALTERNATIVNIM INVESTICIONIM FONDOVIMA I ALTERNATIVNIH INVESTICIONIH FONDOVA
