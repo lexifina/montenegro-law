@@ -1,0 +1,5 @@
+# Član 5
+## Obuka zaposlenih
+(1) Lica koja profesionalno organizuju ili izvršavaju transakcije, operatori tržišta i investiciona društva koja upravljaju mjestom trgovanja dužni su da organizuju i obezbijede efikasnu i sveobuhvatnu obuku zaposlenih uključenih u praćenje, otkrivanje i identifikaciju naloga i transakcija koje bi mogle predstavljati trgovanje na osnovu povlašćenih informacija, manipulaciju tržištem ili pokušaj trgovanja na osnovu povlašćenih informacija ili manipulacije tržištem, uključujući i zaposlene uključene u obradu naloga i transakcija.
+(2) Obuka iz stava 1 ovog člana sprovodi se redovno i mora biti primjerena i proporcionalna obimu, veličini i prirodi poslovnih aktivnosti.
+(3) Operatori tržišta i investiciona društva koja upravljaju mjestom trgovanja dužni su, pored obuke iz stava 1 ovog člana, obezbijediti obuku i zaposlenima uključenim u sprečavanje trgovanja na osnovu povlašćenih informacija, manipulacije tržištem ili pokušaja trgovanja na osnovu povlašćenih informacija ili manipulacije tržištem.
