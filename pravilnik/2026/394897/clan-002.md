@@ -1,0 +1,2 @@
+# Član 2
+Obavljanje djelatnosti turističkih agencija vrši se u poslovnim prostorijama koje su isključivo uređene i opremljene za obavljanje djelatnosti turističkih agencija, kao i u poslovnim prostorijama u okviru poslovnih objekata u kojima se obavlja druga djelatnost, kao što su: primarni ugostiteljski objekti za pružanje usluga smještaja i ishrane, tržni centri, robne kuće, aerodromi, luke, autobuske i željezničke stanice, marine i slično.

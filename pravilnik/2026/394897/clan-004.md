@@ -1,0 +1,3 @@
+# Član 4
+Poslovnica turističke agencije (u daljem tekstu: poslovnica) ne može biti manja od 16 m2.
+Izuzetno od stava 1 ovog člana, ako je poslovnica smještena u zgradi od posebne ambijentalne vrijednosti, objektima zaštićene spomeničke vrijednosti ili u okviru poslovnih objekata u kojima se obavljaju druge djelatnosti, kao što su ugostiteljski objekti za pružanje usluga smještaja i usluga pripremanja i usluživanja hrane i pića, poslovnim centrima, autobuskim i željezničkim stanicama, lukama, marinama i sl, poslovnica može biti manja od 16 m2 ali ne manja od 12 m2, odnosno 4 m2 ako je poslovnica smještena u aerodromskoj zgradi ili u okviru aerodromskog kompleksa.
