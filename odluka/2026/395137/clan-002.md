@@ -1,0 +1,4 @@
+# Član 2
+Nepokretnosti iz člana 1 ove Odluke ustupaju se na korišćenje Turističkoj organizaciji opštine Kotor bez naknade, a u svrhu obavljanja djelatnosti od javnog interesa utvrđenih Odlukom o osnivanju Turističke organizacije Opštine Kotor("Službeni list opštine Kotor", br. 9/05,br. 14/15, 29/20) .
+Turistička organizacija je u obavezi da sa poslovnim prostorijama iz člana 1 ove Odluke postupa zakonito, ekonomično i sa pažnjom dobrog domaćina, da ga održava u ispravnom i urednom stanju, da snosi troškove eventualne štete koja bi nastala nepažnjom za vrijeme korišćenja i odgovara za ova postupanja.
+Turistička organizacija Kotor je obavezna da izmiruje račune za utrošenu električnu energiju , vodu i da snosi sve troškove održavanja prostorija iz člana 1. ove Odluke za vrijeme njihovog korišćenja.
