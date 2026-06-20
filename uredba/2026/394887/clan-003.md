@@ -1,0 +1,3 @@
+# Član 3
+U članu 3 stav 1 mijenja se i glasi:
+"Tehnički propis, u smislu ove uredbe, je propis koji sadrži tehničke specifikacije i druge zahtjeve za proizvode ili propise za usluge, uključujući i upravne akte koji se obavezno moraju poštovati, de jure (pravno) ili de facto (faktički), prilikom stavljanja na tržište, pružanja usluga, osnivanja uslužnog operatora ili prilikom upotrebe proizvoda, kao i zakoni, drugi propisi ili drugi upravni akti kojima se zabranjuje proizvodnja, uvoz, stavljanje na tržište ili upotreba proizvoda, ili kojima se zabranjuje pružanje ili korišćenje usluga, ili osnivanje pružaoca usluga, osim propisa iz člana 7 ove uredbe."

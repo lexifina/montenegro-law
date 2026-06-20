@@ -1,0 +1,5 @@
+# Član 2
+U članu 2 stav 1 poslije riječi "propise" zarez i riječ "standarde" brišu se.
+Poslije stava 4 dodaju se dva nova stava koji glase:
+"Odredbe čl. 7 do 17 ove uredbe ne primenjuju se na pravila koja donose regulisana tržišta kapitala ili su donesena za regulisana tržišta kapitala ili koja donesu regulisana tržišta ili su donesena za druga tržišta ili tijela koja obavljaju poslove kliringa i saldiranja transakcija zaključenih na regulisanom tržištu kapitala u skladu sa propisom kojim se uređuje tržište kapitala, osim u pogledu obaveze dostavljanja konačnog teksta tehničkog propisa u skladu sa članom 8 stav 7 ove uredbe.
+Regulisano tržište kapitala u smislu stava 5 ovog člana je multilateralni sistem kojim upravlja organizator tržišta, koji obezbjeđuje uslove za spajanje višestrukih interesa trećih lica za zaključivanje ugovora o kupoprodaji finansijskih instrumenata uključenih u trgovanje po pravilima tog sistema, koje posluje kontinuirano u skladu sa posebnim propisom kojim se uređuje tržište kapitala."
