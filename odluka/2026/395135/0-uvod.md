@@ -1,0 +1,2 @@
+Na osnovu člana 29, 34 i 40 Zakona o državoj imovini CG ("Sl.list CG", br.21/09, 40/11 i 23/25), člana 38 Zakona o lokalnoj samouopravi ("Sl.list CG", br.2/18, br.34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) član 7 i 9 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Sl.list CG", br.44/10) i člana 19 i 36 Statuta Opštine Kotor ("Sl.list CG-Opštinski propisi", br.37/19) i Odluke Vlade Crne Gore br.11-011/26-779/3 od 19.03.2026. godine, Skupština Opštine Kotor je, na V sjednici održanoj 02.06.2026.godine, donijela je
+ODLUKU
