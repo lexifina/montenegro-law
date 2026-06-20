@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 1 tačka 58 Statuta Opštine Budva ("Službeni list Crne Gore - Opštinski propisi", br. 02/19), člana 11 stav 1 alineja 8 Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalno" - Budva ("Službeni list CG - Opštinski propisi", br. 33/13 i 28/22) i člana 43 stav 1 alineia 8 Statuta DOO "Komunalno" Budva ("Službeni list CG - Opštinski propisi",br. 33/13, i 39/23), Skupština opštine Budva, na XIII sjednici održanoj 02. juna 2026. godine, donijela je
+ODLUKU
