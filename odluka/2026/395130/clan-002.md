@@ -1,0 +1,2 @@
+# Član 2
+Kat.parc.1058/2 KO Glavati, po načinu korišćenja predstavlja dvorište, površine 208 m² i zemljište pod objektom 1, površine 118 m² i kat.parc.1059/4 KO Glavati, po načinu korišćenja pašnjak 1.klase, površine 174 m², obje upisane u LN br.334 KO Glavati, shodno PUP-u i Uvjerenju Sekretarijata za urbanizam, stanovanje i uređenje prostora Opštine Kotor, br.03-332/25-28438 od 30.12.2025. godine, po namjeni predstavljaju naselje.
