@@ -1,0 +1,7 @@
+# Član 1
+U Pravilniku o tehničkim zahtjevima za opremu pod pritiskom* ("Službeni list CG", broj 89/17) u članu 3 stav 1 na kraju tačke 3 tačka-zarez se zamjenjuje zarezom i dodaju riječi: "ukjučujući uređaje za direktno ograničenje pritiska, kao što su sigurnosni ventili, sigurnosni uređaji sa rasprskavajućim diskovima, izvijajući štapovi, sistemi za kontrolisano rasterećenje sigurnosnog pritiska (CSPRS) i uređaji za ograničavanje, koji ili aktiviraju sredstva za korekciju ili obezbjeđuju zaustavljanje ili zaustavljanje i zaključavanje, kao što su pritisni prekidači ili temperaturni prekidači ili prekidači nivoa tečnosti i uređaji za mjerenje, kontrolu i regulaciju povezanu sa sigurnošću;".
+Na kraju tačke 5 tačka-zarez briše se i dodaju riječi: "i definisan na lokaciji koju on odredi, a koja je ili priključak zaštitnih i/ili ograničavajućih uređaja, ili vrh opreme ili, ako to nije prikladno, bilo koja određena tačka;".
+Na kraju tačke 8 tačka-zarez briše se i dodaju riječi: "i predstavlja odgovarajući cijeli broj koji označava referentnu veličinu približnu proizvodnim dimenzijama, a oznaka DN za nazivnu veličinu slijedi nakon broja;".
+Na kraju tačke 10 tačka-zarez briše se i dodaju dvije nove tačke koje glase:
+"11) pritisak je pritisak u odnosu na atmosferski pritisak, tj. mjerni pritisak, usljed čega vakuum ima negativnu vrijednost i
+12) stavljanje u upotrebu je prva upotreba opreme pod pritiskom ili sklopa od strane njenog korisnika."
