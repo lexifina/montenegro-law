@@ -1,0 +1,2 @@
+Na osnovu člana 19 stav 1 Zakona o komunalnim djelatnostima ("Službeni list CG", br. 55/16, 74/16, 2/18, 66/19, 140/22 i 84/24), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 02/18, 34/19, 38/20, 50/22, 84/22, 85/22, 81/25 i 98/25) i člana 44 stav 1 tačka 2 Statuta opštine Budva ("Službeni list CG - Opštinski propisi", br. 02/19), Skupština opštine Budva, na XIII sjednici održanoj 02.juna 2026. godine, donijela je
+ODLUKU
