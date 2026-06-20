@@ -1,0 +1,7 @@
+# Član 9
+## Lovište "Tivat"
+Lovište "Tivat" pripada mediteranskom lovnom području. Granice lovišta su ustanovljene administrativnim granicama opštine Tivat. Granica na sjeveru počinje od Rta Verige, ide Kotorskim zalivom do ispred Rta Rogač, zalazi na kopno, prati međuopštinsku granicu Tivta i Kotora na jugoistok, penje se na Pečkovicu (350 mnv), Boljun (487 mnv), Trpezice (681 mnv), Velji vrh (712 mnv), Glavicu (585 mnv), Sv.Iliju preko Vrmca (kotama 616, 561 i 526), kog Bogdašića skreće na zapad u pravcu Gradiošnice, a zatim na jug Tivatskim poljem, kod Treštenika Luštinim grmom ide na sjeverozapad, skreće na jugozapad preko Ogorioča i Štapakom izlazi na more kod Rta Ljutosek. Granica prati obalu Zaliva Trašte, poslije Rta Kočište penje se na kopno i ide međuopštinskom granicom Tivta i Herceg Novog u pravcu sjevera preko brda Mališevac (161 mnv), Kipetanj (241 mnv), Kosmač (186 mnv), Kovačeva gm., skreće na sjeverozapad ispod Desanova gm., a zatim pod oštrim uglom između Lokvice i Pristana izlazi na obalu Tivatskog zaliva, prolazi kroz Verige i dolazi do početne tačke Rta Verige.
+Površina lovišta iznosi 4.742 ha.
+Lovište je tipično brdsko.
+U njemu postoje povoljni stanišni uslovi za: vukove, šakale, medvjede, divlje svinje, srne, zečeve, divlje patke, jarebice kamenjarke, poljske jarebice i druge vrste divljači (sisara i ptica) kojima odgovaraju postojeći stanišni uslovi.
+Osnovne vrste divljači su: zečevi i jarebice kamenjarke.

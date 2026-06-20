@@ -1,0 +1,7 @@
+# Član 7
+## Lovište "Kotor"
+Lovište "Kotor" pripada mediteranskom lovnom području. Obuhvata južni i jugoistočni dio Opštine Kotor. Granica na sjeveru ide od Solinskog Brijega gdje je tromeđa granica lovišta "Risan" i "Kotor" sa opštinom Cetinje. Odavde ide međuopštinskom granicom sa Cetinjem ka jugoistoku preko Boroskih rupa, Jasikovice, Njegoša, Lovćanskim stranama na vrh Kobilji tori (1465 mnv) odakle ide granicom sa Nacionalnim parkom "Lovćen", odnosno ide u pravcu jugoistoka između Branjevine i Kožunskih greda do granice sa opštinom Budva i lovištem "Primorje", obilazi Paškadu, ide preko Dubrave, Trebaljevice, naselja Lastva Grabaljska i spušta na Rt Jaz, prati obalu mora u pravcu sjeverozapada do Crvene grede i Rta Ljutosek, penje na Štapak ka sjeveroistoku, obilazi Lazarevine, preko Vrmca spušta do Rta Rogač. Prelazi Kotorski zaliv u pravcu sjeveroistoka do Rta Pentar i Dražinog vrta, penje na sjever na Vranovo brdo (kota 743), potom u pravcu sjeverozapada na vrh Bršteva gl. (kota 777), ide grebenom Zmijače na Stole, Breznik (kota 1219), Bužinu (kota 1311), Kuk i Presjekom dolazi na Solinski Brijeg.
+Površina lovišta iznosi 16.680 ha.
+Lovište je tipično planinsko.
+U njemu postoje povoljni stanišni uslovi za: vukove, medvjede, divokoze, divlje svinje, srne, zečeve, jarebice kamenjarke i druge vrste divljači (sisara i ptica) kojima odgovaraju postojeći stanišni uslovi.
+Osnovne vrste divljači su : srne, medvjedi, divokoze, zečevi i jarebice kamenjarke.
