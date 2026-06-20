@@ -1,0 +1,3 @@
+Na osnovu člana 4 stav 2 Odluke o izgradnji lokalnih objekata od opšteg interesa na teritoriji opštine Budva ("Službeni list Crne Gore- Opštinski propisi", br. 66/23), a u vezi člana 155 stav 1 Zakona o izgradnji objekata ("Službeni list Crne Gore", br. 19/25, 92/25 i 160/25) i na osnovu člana 44 Statuta opštine Budva ("Službeni list Crne Gore- Opštinski propisi", br. 02/19), Skupština opštine Budva, na XIII sjednici održanoj 2. juna 2026. godine, donijela je
+ODLUKU
+o određivanju lokacije sa elementima urbanističko- tehničkih uslova za izradu projektne dokumentacije za izgradnju lokalnog objekta od opšteg interesa - izgradnja trafostanice TS 10/0,4kV 2x630 kVA "13" sa uklapanjem u VN mrežu, KO Budva Vrsta lokalnog objekta od opšteg interesa

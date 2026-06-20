@@ -1,0 +1,3 @@
+# Član 10
+Nakon završetka radova na izgradnji trafostanice TS 10/0,4kV, 2x630 kVA "13" sa uklapanjem u VN mrežu KO Budva, investitor je dužan da podnese zahtjev za vršenje tehničkog pregleda i izdavanje odobrenja za upotrebu izgrađenog lokalnog objekta od opšteg interesa.
+Uz zahtjev za izdavanje upotrebne dozvole, investitor mora priložiti: izjave projektanta, izvođača radova i nadzornog organa koje potvrđuju da je objekat izgrađen u skladu sa revidovanim glavnim projektom, kao i Elaborat originalnih terenskih podataka o izvršenim radovima na terenu- geodetski snimak novoizgrađene lokalne infrastrukture (objekta trafostanice i kablovskih vodova).

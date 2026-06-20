@@ -1,0 +1,4 @@
+# Član 2
+## Programski zadatak za izradu projektne dokumentacije
+Izradi ove odluke pristupilo se na osnovu zahtjeva "CEDIS" doo Podgorica broj 30-00-4540 od 19.02.2026. godine, kojim su se obratili nadležnim organima lokalne uprave za donošenje Odluke o određivanju lokacije sa elementima UT uslova za izgradnju lokalnog objekta od opšteg interesa za TS 10/0,4 kV, 2x630 kVA "13" sa uklapanjem u VN mrežu KO Budva, a u cilju obezbjeđivanja pouzdanog i kvalitetnog napajanja električnom energijom potrošača na teritoriji KO Budva.
+Projektni zadatak, broj 30-10-3975 od 13.02.2026. godine, urađen od strane "CEDIS" doo Podgorica, sadrži tehničke uslove za izradu glavnog projekta TS 10/0,4kV 2x630 kVA "13" sa uklapanjem u VN mrežu KO Budva i isti predstavlja Programski zadatak za potrebe izrade ove odluke.
