@@ -1,0 +1,6 @@
+# Član 20
+Za direktora Društva može biti imenovano lice koje, pored opštih uslova propisanih zakonom, ima:
+- najmanje VII-1 nivo kvalifikacije obrazovanja (u obimu od 240 kredita), (fakultet iz oblasti prirodnih nauka ili društvenih nauka ili tehničko-tehnoloških nauka ili humanističkih nauka);
+- najmanje tri godine radnog iskustva u nivou kvalifikacije obrazovanja ili osam godina radnog iskustva na poslovima iz djelatnosti Društva
+- Kandidat za direktora Društva dužan je da, uz prijavu na javni konkurs, dostavi program rada Društva za mandatni period.
+- Prijave kandidata za izbor direktora se dostavljaju Odboru za izbor i imenovanja Skupštine opštine Bijelo Polje, koji nakon razmatranja dospjelih prijava, utvrđuje predlog za imenovanje direktora i dostavlja ga Skupštini.
