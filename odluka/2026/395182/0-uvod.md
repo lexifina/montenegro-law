@@ -1,0 +1,2 @@
+Na osnovu člana 630 Zakona o privrednim društvima ("Službeni list Crne Gore", br. 90/25, 121/25 i 44/26), člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 85/22, 81/25, 98/25 i 30/26) i člana 58 stav 1 tačka 14 Statuta Opštine Ulcinj ("Službeni list Crne Gore - Opštinski propisi", br. 48/19), Skupština Opštine Ulcinj, na sjednici održanoj dana 14. 5. 2026. godine, donijela je
+ODLUKU
