@@ -1,0 +1,2 @@
+Na osnovu člana 24 st. 1 i 6 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list Crne Gore", br. 16/16, 83/16, 21/17, 42/17, 12/18, 30/18, 42/16, 34/19, 130/21, 146/21, 92/22, 152/22, 113/23, 48/24 i 26/26), člana 15 stav 1 tačka 20 Statuta DOO "Parking servis - Kolašin" Kolašin ("Službeni list Crne Gore  Opštinski propisi", brој 10/26), po prethodno pribavljenom mišljenju Ministarstva finansija i uz saglasnost Vlade Crne Gore, Skupština Društva sa ograničenom odgovornošću "Parking servis - Kolašin", na sjednici održanoj dana 11. 6. 2026. godine, donosi
+ODLUKU
