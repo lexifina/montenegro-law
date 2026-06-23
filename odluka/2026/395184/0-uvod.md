@@ -1,0 +1,3 @@
+Na osnovu člana 8 i 362 Zakona o privrednim društvima ("Službeni list Crne Gore", br. 90/25, 121/25 i 44/26), člana 3 stav 1 tačka 7 i člana 15 stav 1 Zakona o komunalnim djelatostima ("Službeni list Crne Gore", br. 55/16, 74/16, 2/18, 66/19, 140/22 i 84/24), člana 27 stav 1 tačka 3 člana 29 i člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 98/25 i 30/26) i člana 58 stav 1 tačka 14 Statuta Opštine Ulcinj ("Službeni list Crne Gore - Opštinski propisi", br. 48/19 i 5/24), Skupština Opštine Ulcinj, na sjednici održanoj dana 14. 5. 2026. godine, donijela je
+ODLUKU
+o osnivanju Društva sa ograničenom odgovornošću "Gradski prevoz" Ulcinj
