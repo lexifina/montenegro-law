@@ -1,0 +1,104 @@
+# Član 7
+Osnovna djelatnost Društva je 53.10. Poštanske aktivnosti, poštanskih službi koje rade pod jedinstvenim sistemom u okviru jednog ili više određenih davalaca usluga; upotreba jedinstvene infrastrukture za pružanje usluga, uključujući maloprodajna mjesta, objekte za sortiranje i obrađivanje, kao i utvrđene putanje kojima poštanski prevoznici prikupljaju i isporučuju poštu; isporuke pismonosnih pošiljki (pisma, razglednice, štampa itd.), malih paketa, roba ili dokumenta; prikupljanja pismonosnih pošiljki i paketa iz javnih poštanskih sandučića i pošti; prikupljanja, sortiranja, prevoženja i isporučivanja (domaćih i medjunarodnih) pismonosnih pošiljki i paketa, koje obavljaju jedinice izvan okvira jedinstvenog uslužnog sistema.
+Pored djelatnosti iz stava 1 ovog člana, Društvo obavlja i:
+- 18.12. Ostalo štampanje;
+- 18.13. Usluge pripreme za štampu;
+- 46.16. Posredovanje u trgovini na velikom tekstilom, odjećom, krznom, obućom i predmetim od kože;
+- 46.17 Posredovanje u trgovini na velikom hranom, pićima i duvanom;
+- 46.18 Posredovanje u trgovini na velikom posebnim proizvodima;
+- 46.19 Posredovanje u nespecijalizovanoj trgovini na veliko;
+- 46.34 Trgovina na veliko pićima;
+- 46.35 Trgovina na veliko duvanskim proizvodima;
+- 46.90 Nespecijalizovana trgovina na veliko;
+- 47.11 Nespecijalizovana trgovina na malo pretežno hranom, pićima i duvanskim proizvodima;
+- 47.12 Ostala nespecijalizovana trgovina na malo;
+- 47.25 Trgovina na malo pićima;
+- 47.26 Trgovina na malo duvanskim proizvodima;
+- 47.40 Trgovina na malo informaciono-komunikacionom opremom;
+- 47.52 Trgovina na malo metalnom robom, građevinskim materijalom, bojama i staklom;
+- 47.61 Trgovina na malo knjigama;
+- 47.62 Trgovina na malo novinama i ostalim periodičnim publikacijama i kancelarijskim materijalom;
+- 47.63 Trgovina na malo sportskom opremom;
+- 47.64 Trgovina na malo igrama i igračkama;
+- 47.71 Trgovina na malo odjećom;
+- 47.72 Trgovina na malo obućom i proizvodima od kože;
+- 47.75 Tgovina na malo kozmetičkim i toaletnim proizvodima;
+- 47.76 Trgovina na malo cvijećem, sadnicama, đubrivom, kućnim ljubimcima i hranom za kućne ljubimce
+- 47.77 Trgovina na malo satovima i nakitom;
+- 47.78 Trgovina na malo ostalom novom robom
+- 47.91 Djelatnosti posredovanja u nespecijalizovanoj trgovini na malo;
+- 52.10 Skladištenje;
+- 52.21 Uslužne djelatnosti u kopnenom saobraćaju;
+- 52.22 Uslužne djelatnosti u vodenom saobraćaju;
+- 52.23 Uslužne djelatnosti u vazdušnom saobraćaju;
+- 52.24 Manipulacija teretom;
+- 52.25 Uslužne djelatnosti u logistici;
+-52.26 Ostale prateće djelatnosti u saobraćaju;
+- 53.20 Ostale poštanske i kurirske aktivnosti;
+-53.30 Uslužne djelatnosti posredovanja u pružanju poštanskih i kurirskih usluga
+- 56.10 Djelatnost restorana i pokretnih objekata za posluživanje hrane;
+- 56.21 Djelatnosti keteringa za razne događaje;
+- 56.30 Djelatnosti pripreme i posluživanja pica;
+- 56.40 Uslužne djelatnosti posredovanja u pripremi i posluživanju hrane i pica;
+- 58.11 Izdavanje knjiga;
+- 58.12 Izdavanje novina;
+- 58.13 Izdavanje časopisa i periodičnih publikacija;
+- 58.19 Ostale izdavačke djelatnosti, osim izdavanja softvera;
+- 58.21. Izdavanje video igara;
+- 58.29 Ostalo izdavanje softvera;
+- 59.20 Snimanje i izdavanje zvučnih zapisa i muzike;
+- 61.10 Kablovske, bežične i satelitske telekomunikacione djelatnosti;
+- 61.20 Djelatnosti preprodaje telekomunikacionih usluga i djelatnosti posredovanja u telekomunikacionim djelatnostima;
+- 61.90 Ostale telekomunikacione djelatnosti;
+- 62.10 Računarsko programiranje;
+- 62.20 Računarske konsultantske djelatnosti i upravljanje računarskim sistemima;
+- 62.90 Ostale uslužne djelatnosti u vezi sa informacionom tehnologijom i računarima
+- 63.10 Računarska infrastruktura, obrada podataka, usluge servera i srodne djelatnosti
+- 63.91 Djelatnosti internet portala;
+- 63.92 Ostale informacione uslužne djelatnosti;
+- 64.99 Ostale finansijske uslužne djelatnosti, osim osiguranja i penzijskih fondova, na drugom mjestu nepomenute;
+- 66.19 Ostale pomoćne djelatnosti u pružanju finansijskih usluga, osim osiguranja i penzijskih fondova;
+- 66.22 Djelatnost zastupnika i posrednika u osiguranju;
+- 66.29 Pomoćne djelatnosti u osiguranju i penzijskim fondovima, na drugom mjestu nepomenute;
+- 69.10 Pravni poslovi;
+- 69.20 Računovodstveni, knjigovodstveni i revizorski poslovi i poresko savjetovanje;
+- 70.10 Upravljanje privrednim subjektom;
+- 70.20 Konsultantske aktivnosti u vezi sa poslovanjem i ostalim upravljanjem;
+- 71.12 Inžinjerske djelatnosti i tehničko savjetovanje;
+- 71.20 Tehničko ispitivanje i analize;
+- 74.30 Djelatnosti pismenog i usmenog prevođenja;
+- 74.90 Ostale stručne, naučne i tehničke djelatnosti na drugom mjestu nepomenute;
+- 77.22 Iznajmljivanje i lizing ostalih predmeta za ličnu upotrebu i upotrebu u domaćinstvu;
+- 77.39 Iznajmljivanje i lizing ostalih mašina, opreme i materijalnih dobara, na drugom mjestu nepomenutih;
+- 77.40 Lizing intelektualne svojine i sličnih proizvoda, izuzev autorskih prava;
+- 78.20 Djelatnost agencija za privremeno zapošljavanje i ostalo ustupanje ljudskih resursa;
+- 82.10 Kancelarijsko-administrativne i pomoćne djelatnosti;
+- 82.20 Djelatnost pozivnih centara;
+- 82.30 Organizovanje sastanaka i sajmova;
+- 82.40 Uslužne djelatnosti posredovanja za poslovne pomoćne uslužne djelatnosti, na drugom mjestu nepomenute;
+- 82.92 Djelatnosti pakovanja;
+- 82.99 Ostale poslovne pomoćne uslužne djelatnosti, na drugom mjestu nepomenute.
+Pored djelatnosti iz st. 1 i 2 ovog člana, Društvo obavlja i sljedeće poslove:
+- poslovi hibridne pošte - usluga kojom poštanski operator prima od korisnika podatke za pisma u elektronskoj formi i tako primljene podatke sortira, priprema za štampanje, štampa i kovertira u obliku pošiljke koju dostavlja primaocu;
+- sarađuje sa međunarodnim organizacijama, inostranim upravama i ovlašćenim kompanijama, u oblasti poštanskog saobraćaja i obavlja poslove u vezi sa ostvarivanjem prava, obaveza i odgovornosti u sprovođenju međunarodnih konvencija i drugih sporazuma iz oblasti međunarodnog postanskog saobraćaja;
+- organizuje i vrši obračun usluga u međunarodnom poštanskom saobraćaju sa inostranim upravama i kompanijama;
+- obavlja poslove u vezi sa izdavanjem, prodajom i povlačenjem iz upotrebe poštanskih maraka i poštanskih vrednosnica;
+- poslove platnog prometa;
+- uplate i isplate po žiro i tekućim računima: poštansko-štedna služba;
+- usluge za račun drugih lica: prodaja srećki, novina, časopisa, čestiki, razglednica, taksenih vrijedosti, avio karata, kartica za javne telefonske govornice i dr;
+- naplata svih vrsta komunalnih usluga, električne energije, telekomunikacionih usluga i dr;
+- internet usluge;
+- otkup i zamjena stranih sredstava plaćanja;
+- obavljanje usluga za poštansku štedionicu, banke i druge finansijske organizacije;
+- vršenje telefonskih razgovora;
+- vršenje telegrafskih i telematskih usluga;
+- izdavanje saglasnosti za izradu i upotrebu prigodnih žigova;
+- usluga reklame i ekonomske propagande;
+- usluge ispitivanja tržista, inženjering, konsalting i menadžment poslovi;
+- međunarodne poštansko-finansijske usluge u saglasnosti sa aktima Svjetskog poštanskog saveza;
+- projektovanje, izgradnja, rekonstrukcija i održavanje poštanskih i drugih objekata i opreme i računarsko-komunikacione mreže: usluga automatske obrade i prenosa podataka elektronskim putem i djelatnosti povezane sa razvojem informatičke tehnologije;
+- istraživanje i ekspertski razvoj;
+- posredničke usluge;
+- konsignaciona i kataloška prodaja;
+- obuka kadrova za potrebe poštanskih i drugih službi: poslove prerade i transporta poštanskih pošiljaka;
+- spoljnotrgovinskog prometa u okviru registrovanih djelatnosti kao u unutrašnjem prometu, a posebno obavlja i usluge trgovine i zastupanja stranih firmi i korišćenja lizinga, franšize, predstavljanja stranih firmi i prodaje strane robe na konsignacionim skladištima i reeksporta i drugo.
