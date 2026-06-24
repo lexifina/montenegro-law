@@ -1,0 +1,2 @@
+Na osnovu člana 40 i 41. Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", br. 003/19, 086/22, 005/24, 007/24, 092/25, 149/25), člana 68 i 69 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore", br. 020/14, 056/14, 070/17, 004/18, 055/18, 066/19, 070/2, 145/21, 027/23,125/23 i 11/25) i člana 33. Statuta opštine Plav ("Službeni list Crne Gore - Opštinski propisi", br. 044/18) Skupština Opštine Plav na sjednici održanoj dana 16.06.2026. godine, donijela je
+ODLUKU O ZAVRŠNOM RAČUNU BUDŽETA OPŠTINE PLAV ZA 2025. GODINU
