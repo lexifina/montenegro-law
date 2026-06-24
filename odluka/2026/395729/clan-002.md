@@ -1,0 +1,2 @@
+# Član 2
+Odlukom Skupštine opštine Kotor, br.11-016/24-11733 od 30.05.2024. godine Opština Kotor dala je saglasnost Sindikalnoj organizaciji Uprave prihoda i carina Crne Gore da na kat.parc.97/1, 96/2, 94/3, 95/3, 95/4 i 98/1 K.O. Privredna zona izgradi stambeni objekat, za potrebe radnika zaposlenih na teritoriji Opštine Kotor uz obavezu da Opština Kotor izvrši komunalno opremanje predmetne nepokretnosti.
