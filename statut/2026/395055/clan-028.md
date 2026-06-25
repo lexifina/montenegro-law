@@ -1,0 +1,21 @@
+# Član 28
+Nadležnosti Skupštine Saveza su da:
+- bira i razrješava predsjednika i potpredsjednika Skupštine;
+- jednom godišnje provjerava finansijski doprinos Savezu za prethodnu godinu i u skladu sa utvrđenim stanjem vrši odgovarajuće izmjene u sastavu Skupštine Saveza;
+- izmedju dva kongresa bira, u slučaju ostavke, razrješenja, izglasavanja nepovjerenja, smrti i drugih razloga, generalnog sekretara i članove Statutarne komisije i Nadzornog odbora;
+- utvrđuje strateške pravce djelovanja na realizaciji programa i rezolucija Saveza,
+- pokreće inicijative, zauzima stavove i upućuje zahtjeve nadležnim organima povodom pitanja bitnih za ekonomski i socijalni položaj ukupnog članstva koja se uređuju sistemskim i drugim propisima;
+- bira i razrješava predstavnike u organe pravnih lica čiji je osnivač Savez i najmanje jednom godišnje razmatra njihove izvještaje;
+- odlučuje o akcijama Saveza, protestima, kampanjama, štrajkovima i dr;
+- razmatra godišnje izvještaje o radu: generalnog sekretara, Statutarne komisije i Nadzornog odbora;
+- donosi odluke o udruživanju granskih sindikata u Savez i o isključenju iz Saveza;
+- odlučuje o izmjenama i dopunama Statuta Saveza dvotrećinskom većinom glasova, te izvještava Kongres o razlozima promjene pojedinih odredbi Statuta između dva kongresa;
+- donosi odluku o teritorijalnoj organizovanosti Saveza;
+- odobrava investicionu politiku Saveza, uključujući osnivanje i vođenje privrednih društava, fondova i ostalih oblika privređivanja;
+- donosi plan prihoda i rashoda Saveza i usvaja godišnje izvještaje o materjalno-finansijskom poslovanju Saveza;
+- formira komisije i druga radna tijela i utvrđuje djelokrug njihovog rada,
+- odlučuje o učlanjenju u međunarodne organizacije;
+- na predlog generalnog sekretara Saveza donosi odluku o formiranju Resursnog centra za socijalni dijalog;
+- pokreće proceduru za sazivanje redovnih i vanrednih kongresa i usvaja programska i prateća dokumenta koja se podnose Kongresu;
+- usvaja poslovnik o radu i druga normativna akta neophodna za rad Skupštine i ostvarivanja funkcija Saveza;
+- donosi pravila, odluke, stavove i zaključke koji su od posebnog interesa za ostvarivanje uloge Saveza u skladu sa ovim Statutom.
