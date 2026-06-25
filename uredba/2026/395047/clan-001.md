@@ -1,0 +1,4 @@
+# Član 1
+U Uredbi o projektima za koje se vrši procjena uticaja na životnu sredinu ("Službeni list RCG", broj 20/07 i "Službeni list CG", br. 47/13, 53/14 i 37/18), u Listi II tačka 3 na kraju podtačke a tačka- zarez se zamjenjuje zarezom i dodaju se riječi: "osim instalacija solarne opreme i sa njom povezanih sistema skladištenja energije na postojećim ili planiranim vještačkim strukturama i rekonstrukcije ili modernizacije postojećih solarnih instalacija koja ne zahtijeva korišćenje dodatnog prostora;".
+Na kraju podtačke c tačka se zamjenjuje tačka-zarezom i dodaje se nova podtačka koja glasi:
+,,(d) Projekti za proizvodnju energije iz obnovljivih izvora koji se realizuju u područjima za ubrzani razvoj obnovljivih izvora energije, uključujući postrojenja i pripadajuću infrastrukturu za skladištenje i priključenje na elektroenergetsku mrežu.".
