@@ -1,0 +1,2 @@
+# Član 29
+Zvanje zatvorski načelnik za zdravstvenu zaštitu može steći lice koje ima VII1 nivo kvalifikacije obrazovanja, odgovarajući studijski program iz oblasti medicinskih nauka, najmanje dvije godine radnog iskustva na poslovima rukovođenja ili pet godina radnog iskustva, licencu za rad i položen stručni ispit u skladu sa propisima o zdravstvenoj zaštiti i stručni ispit za rad u državnim organima.

@@ -1,0 +1,2 @@
+# Član 8
+Zvanje stariji nadzornik zatvorske policije I klase može steći lice koje ima najmanje VI nivo kvalifikacije obrazovanja i najmanje jednu godinu radnog iskustva na poslovima obezbjeđenja pritvorenih lica i zatvorenika, ili najmanje tri godine u policijskom zvanju, najmanje pet godina radnog iskustva, od čega najmanje dvije godine na poslovima rukovođenja, položen stručni ispit za rad u državnim organima i stručni ispit za vršenje poslova obezbjeđenja pritvorenih lica i zatvorenika.

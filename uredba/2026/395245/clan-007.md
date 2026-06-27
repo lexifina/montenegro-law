@@ -1,0 +1,2 @@
+# Član 7
+Zvanje savjetnik za bezbjednost može steći lice koje ima najmanje VI nivo kvalifikacije obrazovanja, najmanje tri godine radnog iskustva na poslovima obezbjeđenja pritvorenih lica i zatvorenika ili u policijskom zvanju ili najmanje pet godina radnog iskustva, od čega najmanje tri godine na poslovima rukovođenja, položen stručni ispit za rad u državnim organima i stručni ispit za vršenje poslova obezbjeđenja pritvorenih lica i zatvorenika.

@@ -1,0 +1,2 @@
+# Član 5
+Zvanje glavni zatvorski inspektor može steći lice koje ima najmanje VI nivo kvalifikacije obrazovanja, najmanje pet godina radnog iskustva na poslovima u Upravi ili najmanje sedam godina radnog iskustva u policijskom zvanju ili najmanje deset godina radnog iskustva, od čega najmanje pet godina na poslovima rukovođenja, položen stručni ispit za rad u državnim organima i stručni ispit za vršenje poslova obezbjeđenja pritvorenih lica i zatvorenika.
