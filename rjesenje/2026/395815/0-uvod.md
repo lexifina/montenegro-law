@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 35 stav 1 tačka 22, člana 38 stav 1 Statuta opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 31/18, 21/23 i 42/25 i "Službeni list CG", broj 62/25) i člana 8 Odluke o osnivanju Javne ustanove Narodna biblioteka "Njegoš" Nikšić ("Službeni list CG - Opštinski propisi", broj 36/15), Skupština opštine Nikšić, na sjednici održanoj 30. 6. 2026. godine, donijela je
+RJEŠENJE
