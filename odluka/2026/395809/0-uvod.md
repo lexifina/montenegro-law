@@ -1,0 +1,2 @@
+Na osnovu člana 35 stav 1 tačka 22 Statuta opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 31/18, 21/23 i 42/25 i "Službeni list CG", broj 62/25) i člana 14 stav 1 alineja 3 i članova 15 i 15a Odluke o osnivanju Društva sa ograničenom odgovornošću "Agencija za upravljanje zaštićenim područjima Opštine Nikšić" ("Službeni list CG - Opštinski propisi", broj 18/26), Skupština opštine Nikšić, na sjednici održanoj 30. 6. 2026. godine, donijela je
+ODLUKU
