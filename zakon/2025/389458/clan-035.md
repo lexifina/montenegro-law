@@ -1,0 +1,7 @@
+# Član 35
+## Informisanje šire javnosti od strane nadležnih organa
+(1) Informacije u vezi sa mjerama za proizvode koji predstavljaju rizik po zdravlje i bezbjednost potrošača, kojima raspolažu nadležni organi, po pravilu moraju biti dostupne javnosti, na način utvrđen ovim zakonom, u skladu sa načelom transparentnosti i ne isključuju primjenu odredaba kojima su propisana ograničenja koja zahtijevaju aktivnosti praćenja tržišta i sprovođenja istrage.
+(2) Pravo javnosti na informacije iz stava 1 ovog člana obuhvata naročito pravo na pristup informacijama o identifikaciji proizvoda, prirodi rizika i preduzetim mjerama, pri čemu te informacije moraju biti dostupne i u obliku koji je pristupačan licima sa invaliditetom.
+(3) Nadležni organi dužni su da obezbijede da njihovi zaposleni i ovlašćena lica ne otkrivaju informacije do kojih su došli u radu, a koje predstavljaju poslovnu tajnu u skladu sa posebnim zakonom.
+(4) Poslovnom tajnom u smislu stava 3 ovog člana ne smatraju se informacije vezane za svojstva bezbjednosti proizvoda koje moraju biti dostupne javnosti radi zaštite zdravlja i bezbjednosti potrošača, odnosno koje su bitne za nadzor na tržištu.
+(5) Izuzetno od stava 3 ovog člana, prilikom razmjene informacija između nadležnih organa, između nadležnih organa i država članica Evropske unije, kao i između nadležnih organa i Evropske komisije, nadležni organi dužni su da dostave i informacije koje predstavljaju poslovnu tajnu, pri čemu su dužni da sa tim podacima postupaju u skladu sa zakonom.

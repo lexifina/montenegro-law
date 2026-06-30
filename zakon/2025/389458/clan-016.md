@@ -1,0 +1,10 @@
+# Član 16
+## Obaveze uvoznika u vezi sa proizvodima i tehničkom dokumentacijom
+(1) Prije stavljanja proizvoda na tržište, uvoznik je dužan da obezbijedi da je proizvod usklađen sa opštim zahtjevom bezbjednosti i da je proizvođač ispunio zahtjeve iz člana 12 st. 2, 3 i 4 i člana 13 st. 2 i 3 ovog zakona.
+(2) Kad, na osnovu informacija koje posjeduje, smatra ili ima razloga da vjeruje da prozvod nije usaglašen sa opštim zahtjevom bezbjednosti, članom 12 st. 2, 3 i 4 i članom 13 st. 2 i 3 ovog zakona, uvoznik ne smije da stavi proizvod na tržište prije nego se postigne usaglašenost proizvoda.
+(3) Kad se radi o opasnom proizvodu, uvoznik je dužan da o tome odmah obavijesti proizvođača i nadležnu inspekciju putem Safety Business Gateway.
+(4) Uvoznik je dužan da na proizvodu navede svoje ime i prezime, odnosno naziv, registrovano trgovačko ime ili registrovani žig, adresu za prijem pošte i elektronske pošte i, ako su različite, adresu za prijem pošte ili elektronske pošte svoje jedinstvene kontakt tačke preko koje može biti kontaktiran.
+(5) Kad podatke iz stava 4 ovog člana nije moguće navesti na proizvodu, uvoznik ih navodi na pakovanju ili u dokumentu koji prati proizvod, pri čemu je dužan da obezbijedi da bilo kakva dodatna oznaka ne prekriva bilo koju zakonom propisanu informaciju na oznaci koju je dao proizvođač.
+(6) Uvoznik obezbjeđuje da uvezeni proizvod koji stavi na tržište prate jasna uputstva i informacije o bezbjednosti na crnogorskom jeziku, osim kad se proizvod može koristiti bezbjedno i kako je to namijenio proizvođač bez takvih uputstava i informacija o bezbjednosti.
+(7) Dok je proizvod pod njegovom odgovornošću, uvoznik je dužan da obezbijedi da uslovi skladištenja ili transporta ne ugrožavaju usaglašenost proizvoda sa opštim zahtjevom bezbjednosti i usaglašenost sa zahtjevima iz člana 13 st. 2 i 3 ovog zakona.
+(8) Primjerak tehničke dokumentacije iz člana 12 stav 5 ovog zakona uvoznik je dužan da čuva deset godina nakon što je proizvod stavio na tržište i da je, na zahtjev, stavi na raspolaganje nadležnoj inspekciji.
