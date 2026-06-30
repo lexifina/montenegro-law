@@ -1,0 +1,2 @@
+# Član 3
+Pod neopasnim građevinskim otpadom u smislu ove Odluke podrazumijeva se neopasni građevinski otpad koji nastaje prilikom izgradnje, održavanja ili rušenja objekata i može da sadrži neopasne frakcije, kao što su: betoni, cigle, pločice, keramika, građevinsko drvo, neambalažno staklo, bakar, bronza, mesing, aluminijum, olovo, cink, gvožđe, kalaj, smješe metala i kablovi koji ne sadrže ulje, katran od ulja i dr.

@@ -1,0 +1,3 @@
+Na osnovu člana 93 stav 13 Zakona o upravljanju otpadom ("Službeni list CG", broj 34/24 i 92/24), člana 38 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 34 stav 1 tačka 2 Statuta Opštine Herceg Novi ("Službeni list CG - Opštinski propisi", broj 1/19 i 37/19, 6/20 i 18/22), uz predhodno mišljenje Ministarstva ekologije, održivog razvoja i razvoja sjevera, broj 04211-335/26-1170/2, Skupština opštine Herceg Novi, na sjednici održanoj dana 10. 6. 2026. godine, donijela je
+ODLUKU
+o načinu privremenog skladištenja neopasnog građevinskog otpada i uslovima zaštite životne
