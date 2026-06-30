@@ -1,0 +1,2 @@
+# Član 26
+Upravni nadzor, odnosno nadzor nad zakonitošću akata Društva kojima se rješava o pravima, obavezama i pravnim interesima građana i pravnih lica, nadzor nad zakonitošću i cjelishodnošću rada Društva i inspekcijski nadzor vrši nadležni organ lokalne uprave utvrđen odlukom predsjednika Opštine kojom se uređuje organizacija i način rada lokalne uprave člana Društva, u skladu sa Zakonom kojim se uređuje lokalna samouprava.
