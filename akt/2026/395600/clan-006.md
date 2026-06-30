@@ -1,0 +1,98 @@
+# Član 6
+Pretežna djelatnost Društva je 91.4 Djelatnost botaničkih i zooloških vrtova i nacionalnih parkova.
+Društvo će obavljati i ostale djelatnosti:
+01.13 Gajenje povrća, dinja i lubenica, korjenastih i krtolastih biljaka;
+01.16 Gajenje biljaka za proizvodnju vlakana;
+01.19 Gajenje ostalih jednogodišnjih i dvogodišnjih biljaka;
+01.21 Gajenje grožđa;
+01.22 Gajenje tropskog i suptropskog voća;
+01.23 Gajenje agruma;
+01.24 Gajenje jabučastog i koštičavog voća;
+01.25 Gajenje ostalog drvenastog, žbunastog i jezgrastog voća;
+01.26 Gajenje uljnih plodova;
+01.27 Gajenje biljaka za pripremanje napitaka;
+01.28 Gajenje začinskog, aromatičnog i ljekovitog bilja;
+01.29 Gajenje ostalih višegodišnjih biljaka;
+01.30 Gajenje sadnog materijala;
+01.41 Uzgoj muznih krava;
+01.42 Uzgoj i drugih goveda i bivola;
+01.43 Uzgoj konja i drugih kopitara;
+01.45 Uzgoj ovaca i koza;
+01.46 Uzgoj svinja;
+01.47 Uzgoj živine;
+01.48 Uzgoj ostalih životinja;
+01.50 Mješovita poljoprivredna proizvodnja;
+01.61 Pomoćne djelatnosti za gajenje usjeva i zasada;
+01.62 Pomoćne djelatnosti za uzgoj životinja;
+01.63 Djelatnosti poslije žetve i dorada sjemena za sjemenski materijal;
+01.70 Lov, traperstvo i odgovarajuće uslužne djelatnosti;
+02.10 Gajenje šuma i ostale šumarske djelatnosti;
+02.20 Sječa drveća;
+02.30 Sakupljanje šumskih plodova, osim drveta;
+02.40 Uslužne djelatnosti u vezi sa šumarstvom;
+10.11 Prerada i konzervisanje mesa, osim živinskog mesa;
+10.12 Prerada i konzervisanje živinskog mesa;
+10.13 Proizvodnja mesnih prerađevina;
+10.31 Prerada i konzervisanje krompira;
+10.32 Proizvodnja sokova od voća i povrća;
+10.39 Ostala prerada i konzervisanje voća i povrća;
+10.41 Proizvodnja ulja i masti;
+10.51 Proizvodnja mliječnih proizvoda;
+10.52 Proizvodnja sladoleda i ostalih jestivih ledenih proizvoda;
+10.61 Proizvodnja mlinskih proizvoda;
+10.62 Proizvodnja skroba i proizvoda od skroba;
+10.82 Proizvodnja kakaoa, čokolade i konditorskih proizvoda;
+10.83 Prerada čaja i kafe;
+10.84 Proizvodnja začina i drugih dodataka hrani;
+10.85 Proizvodnja gotovih jela i obroka;
+10.86 Proizvodnja homogenizovanih hranljivih preparata i dijetetske hrane;
+10.89 Proizvodnja ostalih prehrambenih proizvoda na drugom mjestu nepomenutih;
+11.01 Destilacija, prečišćavanje i miješanje pića;
+11.02 Proizvodnja vina od grožđa;
+11.03 Proizvodnja voćnih fermentisanih pića;
+11.04 Proizvodnja ostalih nedestilovanih fermentisanih pića;
+11.05 Proizvodnja piva;
+11.06 Proizvodnja slada;
+11.07 Proizvodnja bezalkoholnih pića i flaširanih voda;
+16.11 Rezanje i blanjanje drveta;
+16.12 Obrada i dorada drveta;
+16.21 Proizvodnja furnira i ploča od drveta;
+16.22 Proizvodnja parketa;
+16.23 Proizvodnja ostale građevinske stolarije i elemenata;
+16.24 Proizvodnja ambalaže od drveta;
+16.28 Proizvodnja ostalih proizvoda od drveta, plute, pruća i slame;
+21.10 Proizvodnja osnovnih farmaceutskih proizvoda;
+47.11 Nespecijalizovana trgovina na malo pretežno hranom, pićima i duvanskim proizvodima;
+47.12 Ostala nespecijalizovana trgovina na malo;
+47.21 Trgovina na malo voćem i povrćem;
+47.22 Trgovina na malo mesom i proizvodima od mesa;
+47.24 Trgovina na malo hljebom, kolačima i konditorskim proizvodima;
+47.25 Trgovina na malo pićima;
+47.27 Trgovina na malo ostalim prehrambenim proizvodima;
+47.51 Trgovina na malo tekstilom;
+47.53 Trgovina na malo tepisima, prostirkama, zidnim i podnim oblogama;
+47.76 Trgovina na malo cvijećem, sadnicama, đubrivom, kućnim ljubimcima i hranom za
+kućne ljubimce;
+47.78 Trgovina na malo ostalom novom robom;
+55.10 Hoteli i sličan smještaj;
+55.20 Odmarališta i slični objekti za kraći boravak;
+55.30 Kampovi, autokamopovi i prostori za kampovanje;
+56.11 Djelatnosti restorana;
+56.12 Djelatnosti pokretnih objekata za posluživanje hrane;
+56.30 Djelatnost pripreme i posluživanja pića;
+77.21 Iznajmljivanje i lizing opreme za rekreaciju i sport;
+79.12 Djelatnost tur-operatora;
+79.90 Ostale usluge rezervacije i djelatnosti povezane sa njima;
+81.30 Uslužne djelatnosti uređenja i održavanja okoline;
+82.30 Organizovanje sastanaka i sajmova;
+84.12 Regulisanje zdravstvenih, obrazovnih, kulturnih i drugih društvenih usluga;
+85.51 Sportsko i rekreativno obrazovanje;
+91.30 Konzervacija, restauracija i ostale prateće djelatnosti kulturnog naslijeđa;
+91.41 Djelatnost botaničkih i zooloških vrtova;
+91.42 Djelatnost nacionalnih parkova;
+93.19 Sportske djelatnosti, na drugom mjestu nepomenute;
+93.21 Djelatnosti zabavnih i tematskih parkova;
+93.29 Zabavne i rekreativne aktivnosti, na drugom mjestu nepomenute.
+Društvo može obavljati i sve druge poslove koji ne spadaju u njegovu djelatnost, ali po prirodi spadaju kao pomoćna djelatnost u realizovanju osnovne djelatnosti za koju je registrovano Društvo, bez ogaraničenja, u inostranstvu ili kada neka od djelatnosti ima inostrani element, za šta u skadu sa zakonskim propisima Crne Gore pribavlja odgovarajuću dokumentaciju.
+Društvo može promjeniti svoju djelatnost na osnovu odluke Osnivača, u skladu sa odredbama Statuta.
+Djelovi privrednog duštva i sektori Društva osnivaju se i prestaju na osnovu odluke Osnivača i u postupku koji je predviđen Zakonom, i isti mogu istupati u pravnom prometu sa trećim licima u okviru djelatnosti i ovlašćenja Društva kao cjeline.
