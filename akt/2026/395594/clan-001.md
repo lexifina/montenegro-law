@@ -1,0 +1,2 @@
+# Član 1
+Ovim statutom uređuje se poslovno ime, sjedište i pretežna djelatnost Društva sa ograničenom odgovornošću "Društvo za izgradnju vodovodne i kanalizacione infrastrukture u Opštini Herceg Novi" Herceg Novi (u daljem tekstu: Društvo), iznos osnovnog kapitala, nadležnosti organa upravljanja i broj članova, bliži način njihovog imenovanja i razrješenja, način donošenja odluka, postupak za izmjene i dopune statuta i druga pitanja u skladu sa zakonom.
