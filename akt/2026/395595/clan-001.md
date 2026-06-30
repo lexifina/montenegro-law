@@ -1,0 +1,2 @@
+# Član 1
+Ovim statutom uređuju se pitanja organizacije i načina rada Društva sa ograničenom odgovornošću "Komunalno stambeno" Herceg Novi (u daljem tekstu: Društvo) i to: poslovno ime, sjedište i djelatnost, iznos osnovnog kapitala, udio člana Društva izražen u procentima, nadležnosti organa upravljanja, bliži način njihovog imenovanja i razrješenja kao i način donošenja odluka, postupak za izmjene i dopune statuta, informisanje i odnosi sa javnošću i druga pitanja u skladu sa zakonom i Odlukom o osnivanju.
