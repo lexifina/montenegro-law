@@ -1,0 +1,2 @@
+Na osnovu člana 36. Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", broj 37/19), člana 29 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 74/16, 2/18, 66/19, 140/22 i 84/24) i člana 13 Statuta Društva sa ograničenom odgovornošću za odvođenje i prečišćavanje otpadnih voda za Opštine Kotor i Tivat ("Službeni list Crne Gore - Opštinski propisi", broj 37/19) Skupština Opštine Kotor na V sjednici održanoj dana 17. 6. 2026. godine, donijela je
+ODLUKU
