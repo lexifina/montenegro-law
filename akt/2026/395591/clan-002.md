@@ -1,0 +1,2 @@
+# Član 2
+Ovim Statutom u skladu sa Odlukom o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Herceg Novi uredjuju se pitanja u vezi sa organizacijom rada i funkcionisanja Društva i to: naziv i sjedište, djelatnost, osnovni kapital, unutrašnja organizacija, odgovornost za obaveze, upravljanje i rukovodjenje, informisanje i odnosi sa javnošću, poslovna tajna, zaštita životne sredine i druga pitanja u skladu sa Odlukom o osnivanju i zakonom.

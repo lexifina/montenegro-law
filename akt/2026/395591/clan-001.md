@@ -1,0 +1,2 @@
+# Član 1
+DOO "Vodovod i kanalizacija" Herceg Novi organizovano je kao jednočlano društvo sa ograničenom odgovornošću (u daljem tekstu Društvo), radi obavljanja poslova snadbijevanja pitkom vodom Opštine Herceg Novi, odvodjenje i prečišćavanje otpadnih voda sa teritorije Opštine Herceg Novi i drugih komunalnih djelatnosti, Odlukom Skupštine opštine Herceg Novi ("Službeni list Crne Gore - Opštinski propisi", br. 29/13) od 2. 10. 2013. godine.
