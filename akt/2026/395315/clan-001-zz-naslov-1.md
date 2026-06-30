@@ -1,0 +1,1 @@
+# IV KRAJNJE STANJE - DEPOZIT na dan 31.12.2024. god
