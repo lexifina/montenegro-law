@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 Statuta Opštine Herceg Novi ("Službeni list CG - Opštinski propisi", br. 1/19, 37/19, 6/20 i 18/22) i člana 26 stav 1 alineja 8 Statuta Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Herceg Novi broj 05-7/21, na koji je Skupština opštine Herceg Novi dala saglasnost Odlukom br. 02-6-040-474/21 ("Službeni list CG - Opštinski propisi", broj 46/21), Skupština opštine Herceg Novi, na sjednici održanoj dana 1. 7. 2026. godine, donijela je
+RJEŠENJE
