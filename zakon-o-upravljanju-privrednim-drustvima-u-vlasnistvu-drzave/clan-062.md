@@ -1,0 +1,5 @@
+# Član 62
+Novčanom kaznom u iznosu od 600 eura do 2.000 eura kazniće se za prekršaj odgovorno lice u nadležnom ministarstvu, RBCG, fondu, odnosno drugom pravnom licu koje osniva ili kontroliše država ako:
+1) ne podnese zahtjev organu nadležnom za kontrolu državne pomoći prije osnivanja, odnosno sticanja većinskog ili kontrolnog učešća u smislu člana 12 stav 1 ovog zakona, kao i da se do dobijanja mišljenja tog organa ne uzdrže od preduzimanja daljih radnji u vezi sa konkretnim pravnim poslom (član 12 stav 7);
+2) ne sačini analizu opravdanosti osnivanja, odnosno sticanja većinskog ili kontrolnog učešća u privrednom društvu i istu dostavi Ministarstvu radi dobijanja saglasnosti, ne dostave Vladi na odlučivanje po dobijanju mišljenja organa nadležnog za kontrolu državne pomoći i saglasnosti Ministarstva (član 12 stav 8);
+3) ne dostavi Vladi na odlučivanje kompletnu dokumentaciju u vezi sa osnivanjem, odnosno sticanjem većinskog ili kontrolnog učešća u privrednom društvu, uz mišljenje organa nadležnog za kontrolu državne pomoći i saglasnost Ministarstva (član 12 stav 9).

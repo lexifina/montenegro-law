@@ -1,0 +1,16 @@
+# Član 25
+## Punomoćnik za zastupanje na skupštini
+Predstavljanje države na sjednicama skupštine privrednih društava u vlasništvu države, odnosno društava sa manjinskim učešćem obezbjeđuje se preko punomoćnika za zastupanje (u daljem tekstu: punomoćnik).
+Ministarstvo nadležno za oblast poslovanja privrednog društva u vlasništvu države, odnosno društva sa manjinskim učešćem, fond, odnosno drugo pravno lice koje osniva ili kontroliše država i RBCG daju ovlašćenje punomoćniku za svaku pojedinačnu sjednicu skupštine tog društva.
+Punomoćje iz stava 2 ovog člana važi i za ponovljenu sjednicu skupštine društva.
+Punomoćje iz stava 2 ovog člana ne može se dati za više sjednica skupštine privrednog društva u vlasništvu države, odnosno društva sa manjinskim učešćem, niti na određeni vremenski period.
+Istom licu može biti ponovo dato ovlašćenje za punomoćnika i za neku od narednih sjednica skupštine istog privrednog društva u vlasništvu države, odnosno društva sa manjinskim učešćem, a može biti ovlašćeno za punomoćnika i na sjednici skupštine drugog privrednog društva u vlasništvu države, odnosno društva sa manjinskim učešćem.
+Punomoćje iz stava 2 ovog člana daje se istovremeno sa detaljnim uputstvima za glasanje po svakoj tački predloženog dnevnog reda za sjednicu skupštine, mora biti na memorandumu subjekta koji daje punomoćje i ne mora biti ovjereno u skladu sa zakonom kojim se uređuje ovjera potpisa, rukopisa i prepisa.
+U slučaju naknadne izmjene ili dopune dnevnog reda sjednice skupštine za koju je punomoćje već dato, nadležni ministar, odnosno starješina drugog subjekta iz stava 2 ovog člana daće punomoćniku, bez odlaganja, izmijenjena, odnosno dopunjena detaljna uputstva za glasanje po svakoj tački izmijenjenog ili dopunjenog dnevnog reda, ako je to primjenjivo.
+Prije davanja uputstva iz st. 6 i 7 ovog člana, nadležno ministarstvo, odnosno drugi subjekat iz stava 2 ovog člana dužan je da se konsultuje sa Ministarstvom po svim tačkama predloženog, odnosno izmijenjenog ili dopunjenog dnevnog reda.
+Ako se pojedine tačke dnevnog reda odnose na ispunjavanje zahtjeva iz pisma o očekivanjima, odnosno ako se predlaže donošenje odluka koje mogu imati uticaja na ispunjavanje tih zahtjeva, nadležni ministar, odnosno starješina drugog subjekta iz stava 2 ovog člana dužan je da uputstvo za glasanje po tim tačkama dnevnog reda prethodno usaglasi sa Ministarstvom.
+Ako se uputstvo za glasanje iz stava 9 ovog člana ne usaglasi, Ministarstvo predlog uputstva za glasanje, bez odlaganja, dostavlja Vladi na odlučivanje.
+Punomoćnik je dužan da glasa na sjednici skupštine privrednog društva u vlasništvu države, odnosno društva sa manjinskim učešćem u skladu sa dobijenim uputstvom za glasanje.
+U slučaju da punomoćniku ne bude dato uputstvo za glasanje za pojedinačnu tačku dnevnog reda skupštine privrednog društva u vlasništvu države, odnosno društva sa manjinskim učešćem, dužan je da glasa povodom te tačke dnevnog reda na način kojim zastupa interese države, stručno i savjesno.
+Glasanje punomoćnika na način suprotan st. 11 ili 12 ovog člana, što je davalac punomoćja dužan da utvrdi, smatra se razlogom za razrješenje, odnosno težom povredom radne obaveze lica kome je dato punomoćje.
+U slučaju iz stava 13 ovog člana, punomoćnik odgovara za štetu koju je državi nanio namjerno ili nepažnjom.

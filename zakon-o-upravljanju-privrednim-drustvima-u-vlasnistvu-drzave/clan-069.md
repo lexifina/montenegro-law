@@ -1,0 +1,4 @@
+# Član 69
+## Dokaz o poznavanju korporativnog upravljanja
+Kandidati koji na konkurisma za imenovanje za članove organa upravljanja u privrednim društvima u vlasništvu države, odnosno lokalne samouprave raspisanim u periodu od 12 mjeseci od dana stupanja na snagu ovog zakona ne podnesu odgovarajuću ispravu kojom se potvrđuje da su pohađali i uspješno položili ispit iz oblasti korporativnog upravljanja, odnosno koji na drugi način ne dokažu da poznaju tu oblast, mogu biti imenovani za članove organa upravljanja pod uslovom da u roku od 12 mjeseci od dana imenovanja dostave odgovarajuću ispravu kojom se potvrđuje da su pohađali i uspješno položili ispit iz oblasti korporativnog upravljanja.
+U slučaju neispunjenja uslova iz stava 1 ovog člana, tim licima mandat prestaje istekom perioda od 12 mjeseci od dana imenovanja.

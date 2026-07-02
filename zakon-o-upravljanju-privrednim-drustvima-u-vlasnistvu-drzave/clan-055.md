@@ -1,0 +1,7 @@
+# Član 55
+## Godišnji izvještaj menadžmenta
+Privredno društvo u vlasništvu države, odnosno lokalne samouprave dužno je da sačinjava godišnji izvještaj menadžmenta i konsolidovani izvještaj menadžmenta.
+Privredno društvo u vlasništvu države, odnosno lokalne samouprave dužno je da u izvještaje iz stava 1 ovog člana uključi finansijske i nefinansijske informacije, kao i izvještaj o primjeni standarda korporativnog upravljanja iz člana 27 ovog zakona i izvještaj o primjeni kodeksa korporativnog upravljanja, ako je primjenjivo.
+Direktor, odbor direktora, odnosno upravni odbor privrednog društva u vlasništvu države, odnosno lokalne samouprave koje je razvrstano kao srednje ili veliko pravno lice u smislu zakona kojim se uređuje računovodstvo, dužan je da godišnji izvještaj menadžmenta, odnosno konsolidovani izvještaj menadžementa objavi na internet stranici društva i da ga dostavi Ministarstvu, najkasnije do 31. marta, odnosno 31. maja tekuće godine za prethodnu godinu.
+Pored elemenata propisanih zakonom kojim se uređuje računovodstvo, Ministarstvo može propisati dodatne elemente koje mora sadržati godišnji izvještaj menadžmenta, odnosno konsolidovani godišnji izvještaj menadžmenta privrednog društva u vlasništvu države, odnosno lokalne samouprave.
+Na izvještaje iz stava 1 ovog člana primjenjuju se odredbe zakona kojim se uređuje računovodstvo, ako ovim zakonom nije drukčije uređeno.
