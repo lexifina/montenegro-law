@@ -1,0 +1,4 @@
+# Član 5
+(1) U svim fazama stavljanja na tržište, uključujući i fazu maloprodaje, keramički proizvod koji još nije došao u kontakt sa hranom treba da prati pisana izjava u skladu sa propisom kojim se uređuju materijali i predmeti koji dolaze u kontakt sa hranom.
+(2) Pisanu izjavu iz stava 1 ovog člana, koja sadrži podatke date u Prilogu 3, dostavlja proizvođač ili uvoznik, odnosno prodavac proizvoda.
+(3) Proizvođač ili uvoznik, odnosno prodavac proizvoda iz stava 1 ovog člana na zahtjev organa uprave nadležnog za bezbjednost hrane stavlja na raspolaganje odgovarajuću dokumentaciju kojom se dokazuje da su keramički proizvodi u skladu sa utvrđenim granicama za migraciju olova i kadmijuma iz člana 2 ovog pravilnika, pri čemu ta dokumentacija treba da sadrži rezultate izvršenog laboratorijskog ispitivanja, način ispitivanja i naziv i adresu laboratorije koja je izvršila laboratorijsko ispitivanje.
