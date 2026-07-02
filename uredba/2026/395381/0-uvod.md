@@ -1,0 +1,2 @@
+Na osnovu člana 24 stav 5 Zakona o zaradama zaposlenih u javnom sektoru ("Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18, 34/19, 130/21, 146/21, 92/22, 152/22, 48/24 i 26/26), Vlada Crne Gore, na sjednici od 4. juna 2026. godine, donijela je
+UREDBU O DOPUNI UREDBE O GRUPAMA POSLOVA I KOEFICIJENTIMA ZA ZARADE POLICIJSKIH SLUŽBENIKA
