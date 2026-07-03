@@ -1,0 +1,3 @@
+# Član 13
+Za proizvode od posječenog drveta koje čine papir; ploče na bazi drveta; rezano drvo, emisije i ponori koji nastaju usljed promjena u rezervoaru ugljenika obračunavaju se u skladu sa Prilogom 2.
+Obračun može uključiti i proizvode napravljene od materijala na bazi drveta, uključujući koru, koji spadaju u postojeće kategorije navedene u stavu 1 ovog člana ili nove kategorije proizvoda koje imaju efekat skladištenja ugljenika, u skladu sa smjernicama IPCC-a koje je usvojila Konferencija strana potpisnica UNFCCC-a ili Konferencija strana potpisnica Pariskog sporazuma, i raspoloživošću podataka.

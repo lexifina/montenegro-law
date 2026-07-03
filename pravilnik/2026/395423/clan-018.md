@@ -1,0 +1,3 @@
+# Član 18
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+____________________________ * U ovaj pravilnik prenijeta je Regulativa (EU) 2018/841 o uključivanju emisija gasova sa efektom staklene bašte i uklanjanja iz upotrebe zemljišta, promjene namjene zemljišta i šumarstva u okvir za klimatsku i energetsku politiku do 2030. godine i Regulativa (EU) 2018/842 o obavezujućem godišnjem smanjenju emisija gasova sa efektom staklene bašte u državama članicama od 2021. do 2030. godine koje doprinosi klimatskim aktivnostima za ispunjavanje obaveza iz Pariskog sporazuma.

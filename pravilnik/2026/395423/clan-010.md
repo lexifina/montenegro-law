@@ -1,0 +1,4 @@
+# Član 10
+Obračun emisija i ponora koji nastaju sa šumskog zemljišta kojim se gazduje, treba da se obračunavaju kao emisije i ponori u periodu od 2021-2025. i od 2026. do 2030. godine umanjene za petostruku vrednost referentnog nivoa za šume.
+Ako je rezultat obračuna iz stava 1. ovog člana negativan u odnosu na referentni nivo za šume, u obračun za šumsko zemljište kojim se gazduje uključuje se petostruka vrednost ukupnog neto ponora, koja ne prelazi ekvivalent od 3,5% emisija u baznoj godini koju je Crna Gora utvrdila u dokumentima u kojima definiše ciljeve smanjenja emisija.
+Neto ponori iz rezervoara ugljenika mrtvog drveta i proizvoda od posječenog drveta, osim kategorije papira u skladu sa članom 13 stav 1 tačka a ovog pravilnika i iz kategorije obračuna "šumsko zemljište kojim se gazduje" nijesu predmet ovog ograničenja.
