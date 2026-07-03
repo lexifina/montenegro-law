@@ -1,0 +1,2 @@
+Na osnovu člana 61 stav 2, člana 62 stav 10, člana 65 stav 1, člana 66 stav 10, člana 72 stav 2, člana 74 stav 9, člana 75 stav 8, člana 198 stav 1 tačka 70 i člana 208 stav 1 tačka 9 Zakona o vazdušnom saobraćaju (,,Službeni list CG", broj 52/26), Agencija za civilno vazduhoplovstvo donijela je
+P R A V I L N I K O IZMJENAMA PRAVILNIKA O KONTINUIRANOJ PLOVIDBENOSTI VAZDUHOPLOVA I VAZDUHOPLOVNIH PROIZVODA, DJELOVA I UREĐAJA I ODOBRAVANJU ORGANIZACIJA I OSOBLJA KOJI OBAVLJAJU OVE POSLOVE
