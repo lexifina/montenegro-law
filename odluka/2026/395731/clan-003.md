@@ -1,0 +1,3 @@
+# Član 3
+DOO ,,Komunalno" Rožaje kao odgovoran subjekt za upravljanje lokacijom se obavezuje da preko Direkcije za investicije i razvojne projekte opštine Rožaje izvrši građevinske radove manjeg obima na pomenutom objektu u smislu adaptacije, kako bi se obezbijedila sigurnost samog objekta, kao i obezbjeđivanje uslova privremenog skladištenja (čvrsta podloga, riješen odvod/skupljanje voda, ograđivanje, tabla sa oznakama), uz redovno održavanje i čišćenje.
+Imalac otpadnih guma dužan je da preda otpadne gume na mjesta koja su predviđena za ovu vrstu otpada u okviru sistema preuzimanja, sakupljanja i obrade otpadnih guma.

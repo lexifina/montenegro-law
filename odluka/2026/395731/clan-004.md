@@ -1,0 +1,3 @@
+# Član 4
+DOO ,,Komunalno" Rožaje kao subjekt upravljanja lokacijom se obavezuje da uspostavi saradnju sa ovlašćenim operaterom ( sa dozvolom ) i/ili organizovanim sistemom upravljanja otpadnim gumama radi redovnog preuzimanja i daljeg tretmana.
+Subjekat iz stava 1 ovog člana je obavezan da vodi evidenciju o prijemu i predaji otpadnih guma (količine, datum, preuzimalac/operater, broj pratećeg dokumenta) i čuvanje dokaza o predaji ovlašćenom operateru, kao i da obavijesti javnost o lokaciji i načinu predaje otpadnih guma (web stranica, oglasne table, mediji), uključujući radno vrijeme i kontakt lice.

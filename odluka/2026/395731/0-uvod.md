@@ -1,0 +1,2 @@
+Na osnovu člana 57 Zakona o upravljanju otpadom ("Sl. list Crne Gore", br. 34/24 i 92/24), člana 38 i 44 Zakona o lokalnoj samoupravi ("Sl. list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 85/22, 81/25 i 98/25) i člana 46 i 56 Statuta Opštine Rožaje ("Sl. list Crne Gore - Opštinski propisi", br. 38/18 i 16/21), Skupština opštine Rožaje, na sjednici održanoj dana 23.06.2026. godine, donijela je
+ODLUKU
