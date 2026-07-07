@@ -1,0 +1,2 @@
+# Član 1
+Ovim Statutom uređuje se poslovno ime, sjedište i pretežna djelatnost Društva sa ograničenom odgovornošću "Komunalno" Rožaje ( u daljem tekstu: Društvo), iznos osnovnog kapitala, udio člana Društva u ukupnom osnovnom kapitalu izražen u procentima, način donošenja odluka, informisanje i odnosi sa javnošću, postupak za izmjene i dopune statute i druga pitanja ( u skladu sa zakonom) od značaja za rad, poslovanje i funkcionisanje Društva.
