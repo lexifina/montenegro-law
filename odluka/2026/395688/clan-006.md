@@ -1,0 +1,3 @@
+# Član 6
+Predsjedniku, članovima iz člana 3 stav 1 tač. 2 do 18 i tačka 21 ove odluke i sekretaru Koordinacionog tijela pripada mjesečna naknada za rad u iznosu od 30% prosječne bruto zarade u Crnoj Gori za prethodnu godinu, prema podacima organa uprave nadležnog za poslove statistike.
+Naknada iz stava 1 ovog člana za članove Koordinacionog tijela iz člana 3 stav 1 tač. 1 do 17 i tačka 22 ove odluke isplaćuje se iz budžetskih sredstava organa državne uprave na čiji predlog su određeni, za člana Koordinacionog tijela iz člana 3 stav 1 tačka 18 ove odluke iz budžetskih sredstava Fonda za zdravstveno osiguranje Crne Gore, za člana Koordinacionog tijela iz člana 3 stav 1 tačka 21 ove odluke isplaćuje se iz budžetskih sredstava Ministarstva unutrašnjih poslova.
