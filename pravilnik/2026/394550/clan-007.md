@@ -1,0 +1,5 @@
+# Član 7
+Zahtjev za otvaranje, suspendovanje i ukidanje korisničkog naloga podnosi se organu državne uprave nadležnom za poslove upravljanja Portalom, na obrascu koji je sastavni dio ovog pravilnika (Prilog 1).
+Zahtjev iz stava 1 ovog člana upućen poštom mora biti potpisan i ovjeren pečatom podnosioca zahtjeva, a zahtjev u elektronskoj formi potpisuje se kvalifikovanim elektronskim potpisom.
+Zahtjev iz stava 1 ovog člana potpisuje starješina, odnosno rukovodilac organa vlasti ili lice koje on ovlasti (u daljem tekstu: ovlašćeno lice).
+Zahtjev iz stava 1 ovog člana sadrži mjesta za unos ličnih podataka administratora organa vlasti, podataka o organu vlasti, izjavu administratora organa vlasti kojom potvrđuje da su podaci navedeni u zahtjevu istiniti i tačni, da je saglasan da njegovi lični podaci mogu biti prikupljeni i korišćeni u svrhu dodjele korisničkih prava za rad na Portalu, da je upoznat sa pravilima upotrebe korisničkog naloga i da će Portal koristiti u skladu sa uslovima korišćenja Portala.
