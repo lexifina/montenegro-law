@@ -1,0 +1,2 @@
+Na osnovu člana 158 stav 1 Zakona o audiovizuelnim medijskim uslugama ("Službeni list CG", broj 54/24), člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19 i 38/20), i člana 46 stav 1 tačka 22 Statuta opštine Rožaje ("Službeni list CG - Opštinski propisi", broj 38/18 i 16/21), Skupština opštine Rožaje na sjednici održanoj dana 23.06.2026. godine,donijela je
+ODLUKU
