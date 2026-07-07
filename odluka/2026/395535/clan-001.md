@@ -1,0 +1,5 @@
+# Član 1
+## vodova na teritoriji Opštine Mojkovac u KO Mojkovac i KO Žari
+Daje se saglasnost za uspostavljanje službenosti radi postavljanje kablova za potrebe energetskog objekta NDTS 10/0,4 Kv 1x630 kVA "Bolnica" sa uklapanjem u VN mrežu, DUP "Centar sa Gornjim Mojkovcem" prema geodetskom Elaboratu nepotpune eksproprijacije broj: 1504/2024-1 od 15. 4. 2024. godine, koji je urađen od strane "GEONANA" D.O.O. iz Podgorice (ovjeren od strane Uprave za nekretnine Crne Gore PJ Mojkovac 24. 5. 2024. godine) na sljedećoj nepokretnosti:
+- na dijelu katastarske parcele broj 166/1, upisane u listu nepokretnosti broj 102 u KO Mojkovac u dužini od 11,05 m ukupne površine 6 m2, koja je upisana kao šuma 3. klase, svojina države Crne Gore u obimu prava 1/1, subjekt raspolaganja Opština Mojkovac u obimu prava 1/1.
+Naknada za uspostavljanje službenost iz stava 1 ovog člana je obračunata na osnovu Izvještaja Komisije o procjeni vrijednosti nepokretnosti za potrebe nepotpune eksproprijacije Uprave za nekretnine Crne Gore broj: 01-012/24-5152 od 15. 1. 2026. godine i iznosi 56,70€.

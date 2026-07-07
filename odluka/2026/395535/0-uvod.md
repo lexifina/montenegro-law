@@ -1,0 +1,4 @@
+Na osnovu člana 29 stav 2 i člana 32 Zakona o državnoj imovini ("Službeni list Crne Gore", broj 21/09 40/11, 23/25 i 160/25), u vezi sa članovima 194, 201, 202, 208 i 216 Zakona o svojinsko- pravnim odnosima ("Službeni list Crne Gore", broj 19/09 i 29/25), člana 38 stav 1 tačka 9 Zаkоnа о lоkаlnој sаmоuprаvi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 36 stav 1 tačka 12 i člana 39 Statuta Opštine Mojkovac ("Službeni list Crne Gore - Оpštinski propisi", broj 29/18 i 37/22), Skupština opštine Mojkovac, na sjednici održanoj dana 19. juna 2026. godine, donijela je
+ODLUKU
+o uspostavljanju službenosti za potrebe "Crnogorski elektrodistributivni sistem" d.o.o.
+Podgorica, radi izgradnje objekata od opšteg interesa - trafostanica i postavljanja kablovskih
