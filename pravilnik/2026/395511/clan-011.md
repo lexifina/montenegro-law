@@ -1,0 +1,2 @@
+# Član 11
+Podaci iz oblasti korišćenja zemljišta, promjene namjene zemljišta i šumarstva potrebni za izradu Inventara su podaci organ državne uprave nadležnog za poslove poljoprivrede i šumarstva, organa uprave nadležnog za poslove statistike, organ uprave nadležan za poslove nekretnina i organe nadležne za donošenje i izmjenu planskih akata kojima se definiše namjena zemljišta, koji se odnose na korišćenje zemljišta, promjenu namjene zemljišta i šumarstvo.

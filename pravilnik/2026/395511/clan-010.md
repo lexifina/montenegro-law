@@ -1,0 +1,4 @@
+# Član 10
+Podaci iz oblasti poljoprivrede potrebni za izradu Inventara su podaci poljoprivrednih aktivnosti koje dovode do emisija gasova sa efektom staklene bašte, a kojima raspolaže organ državne uprave nadležan za poslove poljoprivrede u skladu sa zakonom kojim se uređuje poljoprivreda i ruralni razvoj i podaci koje upotrebljava organ uprave nadležan za poslove statistike za izradu Statističkog godišnjaka Crne Gore, statističkih biltena, saopštenja i statističkih istraživanja.
+Pored podataka iz stava 1 ovog člana organ uprave za izradu Inventara koristi i podatke o proizvodnji, uvozu i izvozu đubriva i aktivnih supstanci za njihovu proizvodnju.
+Podatke o proizvodnji đubriva i aktivnih supstanci za proizvodnju đubriva treba da dostave organu uprave njihovi proizvođači na način i u roku koji odredi organ uprave.
