@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 363 i 407 stav 1 tačka 1 Zakona o privrednim društvima ("Sl.list CG", br. 90/25 i 121/25), član 34 stav 1 tačka 2 Statuta opštine Petnjica ("Sl. list CG" - Opštinski propisi broj 16/22), i člana 15 Odluke o osnovanju DOO ,,Komunalna djelatnost" Petnjica (,,Sl. list CG" - Opštinski propisi broj 30/15), Skupština opštine Petnjica, na sjednici održanoj 18.06.2026. godine, donosi
+STATUT
+društva sa ograničenom odgovornošću "Komunalna djelatnost" Petnjica
