@@ -1,0 +1,2 @@
+# Član 14
+Prilagođavanje i ažuriranje zahtjeva utvrđenih u Prilogu 1 i 2 ove uredbe, sa ciljem usklađivanja sa tehnološkim napretkom, naučnim savjetima i specifičnim potrebama u proizvodnji, preradi i distribuciji hrane, uključujući mogućnost nastavka korišćenja tradicionalnih metoda u proizvodnji, kao i prilagođavanje potrebama regiona sa posebnim geografskim ograničenjima vrši se u skladu sa Prilogom 3 ove uredbe.

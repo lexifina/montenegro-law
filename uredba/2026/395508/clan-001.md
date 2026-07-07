@@ -1,0 +1,2 @@
+# Član 1
+Ovom uredbom propisuju se opšti i posebni zahtjevi o higijeni hrane za subjekte u poslovanju hranom, zahtjevi u pogledu objekata, prostorija, opreme, snabdijevanja vodom i energijom, uklanjanja otpada, termičke obrade, pakovanja i ambalažiranja, lične higijene, obuke zaposlenih i transporta u svim fazama proizvodnje, prerade i distribucije hrane, uključujući i primarnu proizvodnju hrane sa pratećim djelatnostima.

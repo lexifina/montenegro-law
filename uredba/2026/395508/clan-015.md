@@ -1,0 +1,2 @@
+# Član 15
+Organ uprave se konsultuje sa drugim nadležnim organima i organom državne uprave nadležnim za poslove poljoprivrede, vodoprivrede i šumarstva, radi procjene uticaja na javno zdravlje i usklađenosti sa standardima Evropske unije o svim pitanjima koja spadaju u djelokrug ove uredbe, a koja mogu da imaju značajan uticaj na javno zdravlje, posebno prije predlaganja kriterijuma, zahtjeva ili ciljeva u skladu sa članom 6 stav 4 ove uredbe.
