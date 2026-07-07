@@ -1,0 +1,3 @@
+Na osnovu člana 1, člana 2, člana 2a, člana 4a i člana 7 Zakona o eksproprijaciji ("Službeni list Republike Crne Gore", br. 55/00, 12/02 i 28/06, "Službeni list Crne Gore", br. 21/08, 30/17, 75/18, 33/24 i 53/25), člana 28 stav 1 tačka 5 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 18 stav 1 tačka 5 i člana 36 stav 1 tačka 63 Statuta Opštine Mojkovac ("Službeni list Crne Gore - Оpštinski propisi", broj 29/18 i 37/22), Skupština opštine Mojkovac, na sjednici održanoj dana 19. juna 2026. godine, donijela je
+ODLUKU
+o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti u KO Bjelojevići za potrebe
