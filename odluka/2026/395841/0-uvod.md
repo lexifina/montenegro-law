@@ -1,0 +1,2 @@
+Na osnovu člana 17 tačka 6 Statuta Regulatorne agencije za energetiku i regulisane komunalne djelatnosti ("Službeni list CG", broj 56/25), u vezi sa članom 5 stav 1 alineja 10 Zakona o objavljivanju propisa i drugih akata ("Službeni list CG", broj 5/08), Odbor Regulatorne agencije za energetiku i regulisane komunalne djelatnosti, na sjednici održanoj dana 06. jula 2026. godine, donio je
+ODLUKU O STAVLJANJU VAN SNAGE METODOLOGIJE ZA UTVRĐIVANJE CIJENA KOJE PRIMJENJUJE SNABDJEVAČ POSLJEDNJEG IZBORA I RANJIVIH KUPACA
