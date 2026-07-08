@@ -1,0 +1,5 @@
+# Član 47
+## Narušavanje bezbjednosti sistema elektronske identifikacije na prekograničom nivou
+U slučaju povrede ili djelimičnog ugrožavanja sistema elektronske identifikacije davaoca elektronske identifikacije koji je prijavljen na Listu sistema elektronske identifikacije koju objavljuje Evropska komisija, na način koji utiče na pouzdanost prekogranične autentifikacije tog sistema, Crna Gora, bez odlaganja, suspenduje ili opoziva tu prekograničnu autentifikaciju ili ugrožene djelove sistema elektronske identifikacije i obavještava države članice Evropske unije i Evropsku komisiju u skladu sa Regulativom eIDAS.
+Kad je povreda ili ugrožavanje iz stava 1 ovog člana otklonjeno, Crna Gora uspostavlja prekograničnu autentifikaciju i, bez odlaganja, obavještava druge države članice Evropske unije i Evropsku komisiju u skladu sa Regulativom eIDAS.
+Ako povreda ili ugrožavanje iz stava 1 ovog člana nije otklonjena u roku od tri mjeseca od suspenzije ili opoziva, Crna Gora obavještava druge države članice Evropske unije i Evropsku komisiju o povlačenju sistema elektronske identifikacije u skladu sa Regulativom eIDAS.

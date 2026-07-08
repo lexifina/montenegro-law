@@ -1,0 +1,4 @@
+# Član 97
+## Elektronska potvrda o atributima u elektronskim uslugama Evropske unije
+Kad se za korišćenje elektronske usluge koju pruža organ vlasti zahtijeva elektronska identifikacija zasnovana na sredstvima za elektronsku identifikaciju i autentifikaciju u skladu sa zakonom, lični identifikacioni podaci u elektronskoj potvrdi atributa ne zamjenjuju elektronsku identifikaciju koja se zasniva na sredstvima elektronske identifikacije i autentifikacije, osim ako država članica Evropske unije to izričito dozvoljava, u kom slučaju se prihvata i kvalifikovana elektronska potvrda atributa iz drugih država članica.
+Potvrda atributa koju izdaje nadležni organ druge države članice Evropske unije odgovoran za autentični izvor podataka u toj državi članici ili koja se izdaje u njegovo ime, priznaje se kao potvrda o atributima izdata od strane ili u ime organa vlasti odgovornog za autentični izvor podataka u Crnoj Gori.

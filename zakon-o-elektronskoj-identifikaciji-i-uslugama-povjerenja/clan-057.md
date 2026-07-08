@@ -1,0 +1,11 @@
+# Član 57
+## Početak pružanja kvalifikovanih usluga povjerenja
+Davalac usluga povjerenja koji namjerava da pruža kvalifikovane usluge povjerenja, podnosi Ministarstvu zahtjev za upis u Registar kvalifikovanih davalaca usluga povjerenja (u daljem tekstu: Registar).
+Uz zahtjev iz stava 1 ovog člana, davalac usluga povjerenja dužan je da dostavi izvještaj tijela za ocjenjivanje usaglašenosti kojim se potvrđuje ispunjenost uslova propisanih ovim zakonom.
+Ministarstvo, nakon dostavljanja zahtjeva iz stava 1 ovog člana, kao i izvještaja tijela za ocjenjivanje usaglašenosti iz stava 2 ovog člana, provjerava da li davalac usluga povjerenja ispunjava uslove za pružanje kvalifikovanih usluga povjerenja, u skladu sa ovim zakonom.
+Ministarstvo, u cilju dodatne provjere primjene mjera informacione bezbjednosti koje se odnose na upravljanje rizicima u oblasti sajber bezbjednosti, zahtijeva od organa nadležnog za oblast informacione bezbjednosti da u skladu sa zakonom kojim se uređuje informaciona bezbjednost, sprovede stručni nadzor i dostavi izvještaj o izvršenom stručnom nadzoru, bez odlaganja, a najkasnije u roku od dva mjeseca od prijema tog zahtjeva.
+Ako nadzor iz stava 4 ovog člana ne bude sproveden u roku iz stava 4 ovog člana, organ iz stava 4 ovog člana obavještava Ministarstvo, uz obrazloženje razloga za kašnjenje i navodi rok do kojeg će sprovesti nadzor.
+Ako, na osnovu uvida u podnijeti zahtjev iz stava 1 ovog člana, izvještaj iz stava 2 ovog člana i izvještaj iz stava 4 ovog člana, utvrdi da davalac usluga povjerenja koji namjerava da pruža kvalifikovane usluge povjerenja ispunjava uslove u skladu sa ovim zakonom, Ministarstvo donosi rješenje o ispunjenosti uslova za vršenje kvalifikovanih usluga povjerenja propisanih ovim zakonom.
+Rješenje iz stava 6 ovog člana donosi se u roku od tri mjeseca od dana uredno podnijetog zahtjeva.
+Ako u roku iz stava 7 ovog člana ne izvrsi provjeru iz stava 6 ovog člana, Ministarstvo o tome obavještava davaoca usluga povjerenja, uz obrazloženje razloga za kašnjenje i navodi rok u kojem će izvršiti provjeru.
+Bliži sadržaj obrasca zahtjeva iz stava 1 ovog člana, kao i bliži postupak provjere iz stava 3 ovog člana propisuje Ministarstvo.

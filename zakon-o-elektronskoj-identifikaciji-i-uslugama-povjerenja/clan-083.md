@@ -1,0 +1,5 @@
+# Član 83
+## Elektronski pečat za prekogranično korišćenje elektronskih pečata
+Kad se zahtijeva napredni elektronski pečat za korišćenje elektronske usluge koju pruža organ vlasti ili za korišćenje usluge koja se pruža u ime organa vlasti, organ vlasti će priznati napredne elektronske pečate, napredne elektronske pečate koji su zasnovani na kvalifikovanom sertifikatu za elektronski pečat i kvalifikovane elektronske pečate najmanje u formatima ili korišćenjem metoda koje je objavila Evropska komisija.
+Kad se zahtijeva napredni elektronski pečat koji je zasnovan na kvafikovanom sertifikatu za korišćenje elektronske usluge koju pruža organ vlasti ili elektronske usluge koja se pruža u ime organa vlasti, organ vlasti će priznati napredne elektronske pečate koji se zasnivaju na kvalifikovanom sertifikatu i kvalifikovane potpise najmanje u formatima ili korišćenjem metoda koje je objavila Evropska komisija.
+Za prekogranično korišćenje elektronskih usluga koje pruža organ vlasti ne zahtijeva se elektronski pečat višeg nivoa bezbjednosti od kvalifikovanog elektronskog pečata.

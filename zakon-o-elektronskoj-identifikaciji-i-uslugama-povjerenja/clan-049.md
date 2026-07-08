@@ -1,0 +1,3 @@
+# Član 49
+## Pristup hardverskim i softverskim funkcijama
+Kad davaoci evropskih novčanika digitalnog identiteta i davaoci sredstava elektronske identifikacije koji na nivou Evropske unije postupaju u profesionalne i komercijalne svrhe i koriste osnovne usluge platforme, za potrebe pružanja evropskih novčanika digitalnog identiteta i sredstava elektronske identifikacije krajnjih korisnika, predstavljaju poslovne korisnike, pružaoci velikih platformi tim davaocima omogućavaju besplatnu i efikasnu interoperabilnost i u svrhu interoperabilnosti, pristup istom operativnom sistemu, hardveru ili softverskim karakteristikama.

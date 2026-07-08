@@ -1,0 +1,3 @@
+# Član 85
+## Shodna primjena
+Na uslove za kvalifikovana sredstva za izradu elektronskih pečata, sertifikaciju kvalifikovanih sredstava za izradu elektronskih pečata, vođenje i objavljivanje registra kvalifikovanih sredstava za izradu elektronskih pečata, obavještavanje Evropske komisije, kvalifikovanu uslugu za upravljanje kvalifikovanim sredstvima za izradu elektronskog pečata na daljinu, uslove za validaciju kvalifikovanih elektronskih pečata, kvalifikovanu uslugu validacije naprednih elektronskih pečata zasnovanih na kvalifikovanom sertifikatu i kvalifikovanu uslugu čuvanja kvalifikovanih elektronskih pečata, primjenjuju se odredbe čl. 71 do 79 ovog zakona.

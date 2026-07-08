@@ -1,0 +1,5 @@
+# Član 69
+## Elektronski potpis za prekogranično korišćenje elektronskih usluga
+Kad se zahtijeva napredni elektronski potpis za korišćenje elektronske usluge koju pruža organ vlasti ili za korišćenje elektronske usluge koja se pruža u ime organa vlasti, organi vlasti će priznati napredni elektronski potpis, napredni elektronski potpis koji su zasnovani na kvalifikovanom sertifikatu za elektronski potpis i kvalifikovane elektronske potpise, najmanje u formatima ili korišćenjem metoda koje je objavila Evropska komisija.
+Kad se zahtijeva napredni elektronski potpis koji je zasnovan na kvafikovanom sertifikatu za korišćenje elektronske usluge koju pruža organ vlasti ili elektronske usluge koja se pruža u ime organa vlasti, organ vlasti će priznati napredne elektronske potpise koji se zasnivaju na kvalifikovanom sertifikatu i kvalifikovane potpise najmanje u formatima ili korišćenjem metoda koje je objavila Evropska komisija.
+Za prekogranično korišćenje elektronskih usluga koje pruža organ vlasti ne zahtijeva se elektronski potpis višeg nivoa bezbjednosti od kvalifikovanog elektronskog potpisa.
