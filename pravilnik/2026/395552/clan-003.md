@@ -1,0 +1,3 @@
+# Član 3
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore", od a primjenjivaće se od 1. januara 2027. godine.
+* U ovaj pravilnik prenesene su odredbe delegirana Regualatiiva komisije (eu) 2018/1629 od 25. jula 2018. godine o izmjeni liste bolesti utvrđene u aneksu II Regulative (EU) 2016/429 Evropskog parlamenta i savjeta o prenosivim bolestima životinja te o izmjeni i stavljanju van snage određenih akata u oblasti zdravlja životinja i Prilog 2 Regulative (EU) 2016/429 evropskog parlamenta i savjeta od 9. marta 2016. godine o prenosivim bolestima životinja i o izmjeni i stavljanju van snage određenih akata u oblasti zdravlja životinja.
