@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se, metodologija za praćenje emisija gasova sa efektom staklene bašte i praćenje drugih relevantnih podataka, uključujući parametre za određivanje prevezenog tereta za određene kategorije brodova, način upravljanja i kontrole podataka, sadržaj i način pripreme plana praćenja emisije iz brodova, sadržaj i obrazac izvještaja o emisijama gasova sa efektom staklene bašte iz brodova i sadržaj dokumenta o usklađenosti.

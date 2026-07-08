@@ -1,0 +1,2 @@
+Na osnovu člana 30 stav 18 i člana 39 stav 5 Zakona o klimatskim promjenama ("Službeni list CG, br. 149/25 i 70/26), Ministarstvo ekologije, održivog razvoja i razvoja sjevera, uz prethodno pribavljeno mišljenje Ministarstva pomorstva, donijelo je
+P R AV I L N I K O METODOLOGIJI PRAĆENJA EMISIJA GASOVA SA EFEKTOM STAKLENE BAŠTE I DRUGIH RELEVANTNIH PODATAKA IZ BRODOVA, UPRAVLJANJU I KONTROLI PODATAKA, SADRŽAJU I IZRADI PLANOVA PRAĆENJA, IZVJEŠTAJA O EMISIJAMA I DOKUMENTA O USKLAĐENOSTI
