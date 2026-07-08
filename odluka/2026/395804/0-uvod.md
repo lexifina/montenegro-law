@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 Statuta Opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 31/18, 21/23 i 42/25 i "Službeni list CG", broj 62/25), člana 17 stav 1 alineja 10 Statuta Društva sa ograničenom odgovornošću "Autobuska stanica" Nikšić ("Službeni list CG - Opštinski propisi", br. 50/22, 14/25, 42/25 i 69/25), Skupština opštine Nikšić, na sjednici održanoj 30. 6. 2026. godine, donijela je
+ODLUKU
