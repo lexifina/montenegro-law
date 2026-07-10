@@ -1,0 +1,5 @@
+# Član 3
+U članu 64 stav 1 mijenja se i glasi:
+"(1) Postupak za povraćaj kulturnog predmeta koji je protivpravno odnesen sa teritorije države članice može se, ako se ne može sprovesti arbitražni postupak, pokrenuti tužbom države članice protiv samostalnog držaoca ili, ako to nije moguće, protiv nesamostalnog držaoca kulturnog predmeta pred nadležnim sudom u Crnoj Gori."
+Stav 4 mijenja se i glasi:
+"(4) Ako je potraživani kulturni predmet dio javne zbirke, koja je u skladu sa propisima države članice definisana kao javna i koja je u vlasništvu države članice, lokalnog ili regionalnog tijela u državi članici ili institucije koja se nalazi na njenoj teritoriji ili je predmet koji je dio inventara crkvenih ili drugih vjerskih institucija u državama članicama u kojima on podliježe posebnim aranžmanima za zaštitu u okviru nacionalnog prava države članice, zahtjev za povraćaj kulturnog predmeta može se podnijeti u roku od 75 godina od dana kada je odnesen sa teritorije države članice, ako u državi članici ovaj postupak ne zastarijeva."
