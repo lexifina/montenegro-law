@@ -1,0 +1,7 @@
+# Član 13
+Prethodno upakovani proizvodi ispituju se radi utvrđivanja usaglašenosti sa metrološkim zahtjevima propisanim ovim pravilnikom.
+Ispitivanje iz stava 1 ovog člana vrši se statističkim uzorkovanjem u prostorijama pakera ili uvoznika, odnosno njegovog ovlašćenog zastupnika u Crnoj Gori.
+Ispitivanje prethodno upakovanih proizvoda vrši se u skladu sa metodama ispitivanja datim u Prilogu 1 ovog pravilnika.
+Kriterijumi za najmanji dozvoljeni sadržaj, primijenjenom metoda uzorkovanja smatra se uporedivom sa referentnom metodom ispitivanja u skladu sa ovim pravilnikom, ako apscisa tačke ordinate 0,10 karakteristične operativne krive prve metode (vjerovatnoća prihvatanja serije = 0,10) odstupa za manje od 15% od apscise odgovarajuće tačke karakteristične operativne krive metode uzorkovanja u skladu referentnom metodom iz ovog pravilnika.
+Kriterijuma za određivanje srednje vrijednosti, izračunate metodom standardne devijacije, primijenjena metoda uzorkovanja smatra se uporedivom sa referentnom metodom ispitivanja u skladu sa ovim pravilnikom i prihvatljivom, ako uz uzimanje u obzir karakterističnih operativnih krivih obje metode, koje kao apscisnu osu imaju
+, apscisa tačke ordinate 0,10 krive prve metode (vjerovatnoća prihvatanja serije = 0,10) ne odstupa za više od 0,05 od apscise odgovarajuće tačke krive metode uzorkovanja koju u skladu sa referentnom metodom datom u Prilogu 1 ovog pravilnika.

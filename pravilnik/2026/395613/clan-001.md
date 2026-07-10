@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se metrološki zahtjevi koje moraju da ispunjavaju količine prethodno upakovanih proizvoda, način označavanja količina i dozvoljena odstupanja stvarnih od označenih nazivnih količina, spisak nazivnih količina prethodno upakovanih proizvoda, veličina, oblik i način postavljanja znaka usaglašenosti količine prethodno upakovanog proizvoda, kao i način dokumentovanja usaglašenosti količine prethodno upakovanog proizvoda sa metrološkim zahtjevima.
