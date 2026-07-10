@@ -1,0 +1,15 @@
+# Član 55
+## Mjere za usaglašenost proizvodnje
+(1) Tijelo za homologaciju koje je dodijelilo EU homologaciju tipa preduzima mjere, ako je potrebno, u saradnji sa tijelima za homologaciju drugih država članica, radi provjere usaglašenosti proizvodnje, vozila, sistema, sastavnih djelova, posebnih tehničkih jedinica ili motora sa homologovanim tipom u cilju obezbjeđivanja da vozila, sistemi, sastavni djelovi ili posebne tehničke jedinice i motori, koji su u proizvodnji, budu usaglašena sa homologovanim tipom propisanim ovim zakonom.
+(2) Tijelo za homologaciju, koje je dodijelilo homologaciju tipa vozila kao cjeline, provjerava statistički relevantan broj vozila i sertifikata o usaglašenosti radi ocjene njihove usaglašenosti, tačnost podataka u sertifikatima o usaglašenosti, kao i provjere da li je proizvođač preduzeo potrebne mjere radi obezbjeđivanja tačnosti tih podataka u sertifikatima .
+(3) Tijelo za homologaciju koje je dodijelilo EU homologaciju tipa preduzima potrebne mjere u odnosu na tu EU homologaciju tipa radi provjere, ako je potrebno u saradnji sa tijelima za homologaciju drugih država članica, da su mjere iz stava 1 ovog člana i dalje odgovarajuće kako bi motori u proizvodnji i dalje bili usklađeni sa homologovanim tipom, odnosno da su vozila, sistemi, sastavni djelovi ili posebne tehničke jedinice koji su u proizvodnji, i dalje usklađeni sa homologovanim tipom, a izjave o usaglašenosti, kada je to primjenjivo, i dalje u skladu sa čl. 61 i 63 ovog zakona.
+(4) Radi provjere usaglašenosti vozila, sistema, sastavnih djelova ili posebne tehničke jedinice sa homologovanim tipom, tijelo za homologaciju ili tehničke službe:
+1) u slučaju kad su tehničkim zahtjevima iz ovog zakona propisani rasponi
+vrijednosti u postupcima ispitivanja , nasumično određuje vrijednosti u okviru tog
+raspona pri obavljanju provjera ili ispitivanja; i
+2) imaju pristup softveru, algoritmima, dokumentaciji i svim dodatnim informacijama
+u skladu sa članom 46 stav 6 ovog zakona.
+(5) Tijelo za homologaciju koje je dodijelilo EU homologaciju tipa preduzima potrebne mjere radi provjere da li proizvođač ispunjava obaveze utvrđene ovim zakonom, a naročito da li je proizvođač izmijenio ili dopunio informacije povezane sa OBD sistemom u vozilu i informacije o popravci i održavanju vozila.
+(6) Ako tijelo za homologaciju koje je dodijelilo EU homologaciju tipa utvrdi da proizvođač više ne proizvodi vozila, sisteme, sastavne djelove ili posebne tehničke jedinice u skladu sa homologovanim tipom ili sa zahtjevima iz ovog zakona, ili da sertifikati o usaglašenosti više nijesu u skladu sa čl. 61 i 63 ovog zakona iako se proizvodnja nastavila, preduzima potrebne mjere radi obezbjeđivanja usklađenosti proizvodnje ili povlači EU homologaciju tipa.
+(7) Radi provjere usaglašenosti motora sa homologovanim tipom tijelo za homologaciju koje je dodijelilo EU homologaciju tipa može da sprovede potrebne provjere ili ispitivanja EU homologaciju tipa na uzorcima uzetim u prostorijama proizvođača, kao i u njegovim proizvodnim pogonima.
+(8) Postupak provjere usaglašenosti proizvodnje i sprovođenja mjera iz stava 1 ovog člana propisuje Ministarstvo.

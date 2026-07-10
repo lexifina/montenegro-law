@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim zakonom propisuju se uslovi, način i postupak homologacije svih novih vozila, sistema, sastavnih djelova vozila, posebnih tehničkih jedinica i mobilnih vanputnih mašina prilikom uvoza, modifikacije vozila, stavljanja na tržište ili provjere ispunjenosti uslova za vozila za učešće u saobraćaju na putevima; granice gasovitih i čvrstih zagađujućih supstanci za motore sa unutrašnjim sagorijevanjem koji se ugrađuju u vozila i vanputne mobilne mašine; homologacione saobraznosti; nadzor tržišta vozila, sistema, sastavnih djelova vozila i posebnih tehničkih jedinica koja se homologuju, motora i drugih pitanja od značaja za stavljanje vozila na tržište.

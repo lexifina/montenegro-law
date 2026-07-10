@@ -1,0 +1,8 @@
+# Član 69
+## Mjere provjere kod motora
+(1) Tijelo za homologaciju države članice koje je dodijelilo EU homologaciju tipa preduzima mjere potrebne radi provjere, prema potrebi u saradnji sa tijelima za homologaciju drugih država članica, da su identifikacioni brojevi u vezi sa EU homologacijom tipa ispravno dodijeljeni proizvođačima i da ih ispravno upotrebljavaju prije stavljanja na tržište ili stavljanja na raspolaganje na tržište motora sa homologacijom tipa.
+(2) Dodatna provjera identifikacionih brojeva iz stava 1 ovog člana, može se sprovesti prilikom kontrole usaglašenosti proizvodnje iz člana 55 ovog zakona.
+(3) Radi provjere identifikacionih brojeva, proizvođač ili njegov ovlašćeni zastupnik, dužan je da na zahtjev i bez odlaganja, dostavi nadležnom tijelu za homologaciju sve potrebne informacije o kupcima proizvođača, zajedno sa identifikacionim brojevima motora koji su prijavljeni kao proizvedeni u skladu sa članom 68 ovog zakona.
+(4) Ako su motori stavljeni na raspolaganje proizvođaču originalnih djelova (OEM), propizvođač nije dužan da dostavlja dodatne informacije, osim informacija iz stava 3 ovog člana.
+(5) Ako proizvođač, na zahtjev tijela za homologaciju ne može da dokaže usklađenost sa zahtjevima koji se odnose na propisanu oznaku motora, tijelo za homologaciju može povući EU homologaciju tipa dodijeljenu za odgovarajući tip motora ili odgovarajuću porodicu motora.
+(6) U slučaju iz stava 5 ovog člana, tijela za homologaciju međusobno se obavještavaju u roku od mjesec dana o svakom povlačenju EU homologacije tipa i o razlozima za povlačenje, u skladu sa članom 48 stav 5 ovog zakona.

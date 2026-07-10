@@ -1,0 +1,4 @@
+# Član 111
+## Saradnja sa nacionalnim akreditacionim tijelima
+(1) Ako je tehnička služba imenovana na osnovu propisa kojima se uređuje akreditacija i nadzor proizvoda na tržištu, nacionalno akreditaciono tijelo i tijelo za homologaciju tipa sarađuju i razmjenjuju relevantne informacije, uključujući izvještaje o incidentima i druge podatke u vezi pitanja koja su pod kontrolom tehničke službe i od značaja za ocjenjivanje rada te tehničke službe, u skladu sa propisima koji uređuju akreditaciju i nadzor proizvoda na tržištu.
+(2) Ministarstvo osigurava da tijelo za homologaciju tipa u kojoj tehnička služba ima poslovno sjedište ažurno obavještava nacionalno akreditaciono tijelo koje je zaduženo za akreditaciju određene tehničke službe o svim saznanjima koja su relevantna za akreditaciju, a nacionalno akreditaciono tijelo obavještava tijelo za homologaciju tipa države članice u kojoj tehnička služba ima poslovno sjedište o svojim saznanjima.

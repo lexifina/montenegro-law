@@ -1,0 +1,6 @@
+# Član 75
+## Važenje nacionalnih homologacija pojedinačnog vozila
+(1) Nacionalna homologacija pojedinačnog vozila važi samo na području države koja je dodijelila homologaciju pojedinačnog vozila, odnosno na području Crne Gore.
+(2) Na zahtjev podnosioca koji vozilo sa nacionalnom homologacijom pojedinačnog vozila želi da stavi na tržište, registruje ili stavi u upotrebu u drugoj državi članici Evropske unije, država koja je dodijelila nacionalnu homologaciju podnosiocu zahtjeva dostavlja izjavu o tehničkim zahtjevima na osnovu kojih je vozilo homologovano.
+(3) Dozvoljeno je u Crnoj Gori stavljanje na raspolaganje na tržištu, registraciju ili stavljanje u upotrebu vozila za koje je druga država članica EU dodijelila nacionalnu homologaciju pojedinačnog vozila koja je u skladu sa članom 74 ovog zakona ili ekvivalentnim propisima EU u vezi sa nacionalnom homologacijom pojedinačnog vozila, osim ako se osnovano smatra da odgovarajući alternativni zahtjevi na osnovu kojih je vozilo homologovano nisu ekvivalentni zahtjevima propisanim članom 74 ovog zakona ili da vozilo ne ispunjava propisane zahtjeve.
+(4) Odredbe st. 1 do 3 ovog člana primjenjuju se na vozila za koja je dodijeljena homologacije tipa u skladu sa ovim zakonom i koja su modifikovana prije njihove prve registracije ili stavljanja u upotrebu.

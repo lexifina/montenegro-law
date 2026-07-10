@@ -1,0 +1,4 @@
+# Član 95
+## Obaveze u pogledu nosilaca nekoliko homologacija tipa
+(1) Proizvođač koji je odgovoran za određenu homologaciju tipa sistema, sastavnog dijela ili posebne tehničke jedinice i motora ili za određeni stepen dovršenosti vozila (mješovita homologacija tipa, homologacija tipa korak po korak ili višestepena homologacija tipa), odgovoran je za obavještavanje finalnog proizvođača i nezavisnih operatera o informacijama o popravci i održavanju koje se odnose na određeni sistem, sastavni dio ili posebnu tehničku jedinicu i motor ili na pojedini stepen dovršenosti.
+(2) U slučaju višestepene homologacije tipa, krajnji proizvođač odgovoran je za obezbjeđivanje pristupa informacijama o OBD sistemu vozila, informacijama o vozilu, popravci i održavanju vozila, koje se odnose na njegovu fazu ili faze proizvodnje, kao i za obezbjeđivanje veze sa prethodnom fazom ili fazama proizvodnje.

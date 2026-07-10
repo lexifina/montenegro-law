@@ -1,0 +1,11 @@
+# Član 108
+## Nadzor nad radom tehničkih službi
+(1) Tijelo za homologaciju tipa nadležno za imenovanje tehničke službe vrši kontinuiran nadzor nad radom tehničke službe, radi provjere usklađenosti sa zahtjevima utvrđenim ovim zakonom.
+(2) Tehnička služba, na zahtjev tijela za homologaciju za imenovanje ili nacionalnog akreditacionog tijela, dostavlja sve informacije i dokumentaciju potrebnu za provjeru usklađenost sa zahtjevima utvrđenim ovim zakonom.
+(3) Tehnička služba bez odlaganja obavještava tijelo za homologaciju tipa nadležno za imenovanje ili nacionalno akreditaciono tijelo o svim promjenama, posebno u pogledu zaposlenih, prostorija, zavisnih društava ili podugovarača, koje mogu uticati na njenu usklađenost sa zahtjevima utvrđenim ovim zakonom ili na sposobnost izvršavanja zadataka ocjenjivanja usklađenosti vozila, sistema, sastavnih djelova i posebnih tehničkih jedinica za koje su imenovane.
+(4) Tehnička služba bez odlaganja postupa po zahtjevima tijela za homologaciju tipa ili Evropske komisije koji se odnose na ocjenjivanje usklađenosti koja je sprovela.
+(5) Tijelo za homologaciju tipa nadležno za imenovanje obezbjeđuje da tehnička služba izvršava obaveze, osim ako utvrdi postojanje opravdanog razlog zbog kojeg tehnička služba nije u mogućnosti da postupi u skladu sa tim obavezama.
+(6) Ako tijelo za homologaciju tipa utvrdi postojanje opravdanog razloga iz stava 4 ovog člana, o tome obavještava Evropsku komisiju.
+(7) Tehnička služba i tijelo za homologaciju tipa nadležno za imenovanje mogu da zahtijevaju da se podaci dostavljeni tijelu za homologaciju tipa druge države članice ili Evropskoj komisiji smatraju povjerljivim.
+(8) Najmanje jednom u 30 mjeseci, tijelo za homologaciju tipa nadležno za imenovanje ocjenjuje da li tehničke službe i dalje ispunjavaju zahtjeve utvrđene ovim zakonom, uključujući terensko ocjenjivanje u prostorijama svake tehničke službe za koju je nadležno.
+(9) Tijelo za homologaciju, u roku od dva mjeseca od završetka ocjenjivanja tehničke službe iz stava 7 ovog člana, izvještava Evropsku komisiju i tijela za homologaciju drugih država članica o aktivnostima nadzora, koji sadrži sažetak rezultata ocjenjivanja koji su javno dostupni.

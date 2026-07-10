@@ -1,0 +1,6 @@
+# Član 83
+## Neusklađena EU homologacija tipa
+(1) Ako tijelo za homologaciju utvrdi da dodijeljena EU homologacija tipa nije u skladu sa zahtjevima propisanim ovim zakonom, odbiće da prizna tu homologaciju.
+(2) U slučaju iz stava 1 ovog člana, tijelo za homologaciju o odbijanju obavještava tijelo za homologaciju koje je dodijelilo EU homologaciju tipa, tijela za homologaciju drugih država članica i Evropsku komisiju, a ako u roku od mjesec dana od dana prijema tog obavještenja tijelo za homologaciju koje je dodijelilo EU homologaciju tipa potvrdi neusklađenost homologacije tipa, to tijelo za homologaciju povlači homologaciju tipa.
+(3) Ako u roku od mjesec dana od dana prijema obavještenja iz stava 1 ovog člana tijelo za homologaciju koje je dodijelilo EU homologaciju tipa uloži prigovor, Evropska komisija se bez odlaganja savjetuje sa državama članicama, posebno sa tijelom za homologaciju koje je dodijelilo tu homologaciju tipa i odgovarajućim privrednim subjektom.
+(4) Za vozila, sisteme, sastavne djelove, posebne tehničke jedinice i tip motora ili porodicu motora obuhvaćene neusklađenom homologacijom tipa, a koji su stavljeni na raspolaganje na tržištu shodno se primjenjuju odredbe čl. 80, 81 i 82 ovog zakona.

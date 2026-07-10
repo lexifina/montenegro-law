@@ -1,0 +1,6 @@
+# Član 23
+## Uslovi koji se odnose na uticaj na životnu sredinu u pogledu emisija gasova staklene bašte i potrošnje goriva, kao i potrošnje električne energije i dometa sa elektro pogonom za vozila kategorije L
+(1) Emisije ugljen-dioksida (u daljem tekstu: CO2) utvrđuje proizvođač u odgovarajućem ciklusu laboratorijskog ispitivanja emisija i prijavljuje ih nadležnim tijelima za odobravanje.
+(2) Potrošnja goriva i/ili električne energije i domet sa elektro pogonom izračunava se na osnovu rezultata laboratorijskog ispitivanja sadržaja izduvne emisije rađenog za odobrenje tipa ili će biti izmjereni, što potvrđuje tehnička služba i prijavljuje nadležnim tijelima za odobravanje.
+(3) Rezultat mjerenja CO2, izračunata ili izmjerena potrošnja goriva, potrošnja električne energije i domet sa elektro pogonom navode se u opisnu mapu, a relevantne informacije navode se u sertifikatu o usaglašenosti, pri čemu su proizvođači dužni da obezbijede da su podaci o emisiji CO2, potrošnji goriva, potrošnji električne energije i dometu sa elektro pogonom dostupni kupcu u trenutku kupovine novog vozila.
+(4) Zahtjeve za odobravanje, uključujući metode ispitivanja i granične vrijednosti emisije zagađujućih materija, nivoe OBD i granične vrijednosti nivoa buke za odobrenje tipa i usaglašenost proizvodnje propisuje Ministarstvo.

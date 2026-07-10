@@ -1,0 +1,11 @@
+# Član 74
+## Nacionalna homologacija pojedinačnog vozila
+(1) Nacionalna homologacija pojedinačnog vozila je postupak koji se sprovodi za nova pojedinačno proizvedena ili modifikovana vozila i nova nepotpuna vozila koja se dovršavaju u jednoj ili više faza.
+(2) U postupku nacionalne homologacije pojedinačnog vozila Ministarstvo može da se donese odluka o izuzeću određenog vozila, bez obzira da li je vozilo unikatno ili nije, od obaveze usklađenosti sa jednim ili više zahtjeva iz ovog zakona, pod uslovom da su ispunjeni odgovarajući alternativni zahtjevi.
+(3) Zahtjev za nacionalnu homologaciju pojedinačnog vozila tijelu za homologaciju podnosi vlasnik vozila, proizvođač, zastupnik proizvođača ili uvoznik.
+(4) U postupku sprovođenja nacionalne homologacije pojedinačnog vozila ne sprovode se destruktivna ispitivanja radi utvrđivanja da li je vozilo usklađeno sa alternativnim zahtjevima iz stava 2 ovog člana, već se usklađenost utvrđuje na osnovu odgovarajućih informacija koje dostavi podnosilac zahtjeva.
+(5) U postupku sprovođenja nacionalne homologacije pojedinačnog vozila tijelo za homologaciju prihvata sisteme, sastavne djelove i posebne tehničke jedinice koji su homologovani u skladu sa tehničkim zahtjevima utvrdjenim ovim zakonom.
+(6) Nakon sprovedenog postupka nacionalne homologacje pojedinačnog vozila, za vozila koja su u skladu sa opisom priloženim uz zahtjev i koja ispunjavaju propisane alternativne tehničke zahtjeve, tijelo za homologaciju, bez odlaganja, izdaje sertifikat o nacionaloj homologaciji pojedinačnog vozila.
+(7) Sertifikatu o nacionalnoj homologaciji pojedinačnog vozila dodjeljuje se jedinstveni broj u skladu sa usklađenim sistemom numeričkog označavanja, kojim se omogućava najmanje identifikacija države članice koja je dodijelila homologaciju i identifikacija zahtjeva sa kojima je vozilo usaglašeno.
+(8) Sertifikat o nacionalnoj homologaciji pojedinačnog vozila prilaže se prilikom postupka carinjenja i registracije vozila za vozila koja se uvoze u Crnu Goru, odnosno u postupku registracije za vozila koja su proizvedena ili modifikovana u Crnoj Gori.
+(9) Sadržaj i izgled obrasca, sistem označavanja setifikata o nacionalnoj homologaciji pojedinačnog vozila, način sprovođenja postupka nacionalne homologacije pojedinačnog vozila, kao i alternativne tehničke zahtjeve za tu homologaciju propisuje Ministarstvo.

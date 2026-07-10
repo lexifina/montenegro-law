@@ -1,0 +1,7 @@
+# Član 91
+## Informacije i uputstva namijenjena proizvođačima originalne opreme (OEM) i krajnjim korisnicima za motore sa unutrašnjim sagorijevanjem za vanputne mobilne mašine
+(1) Proizvođač može da obezbijedi proizvođačima originalne opreme (OEM) ili krajnjim korisnicima tehničke informacije koje se odnose na podatke utvrđene ovim zakonom samo ako su te informacije usklađene sa podacima koje je odobrilo tijelo za homologaciju.
+(2) Proizvođač stavlja na raspolaganje proizvođačima originalne opreme (OEM) sve relevantne informacije i uputstva potrebna za pravilnu ugradnju motora u vanputnu mobilnu mašinu, uključujući opis posebnih uslova ili ograničenja koja se odnose na ugradnju ili upotrebu motora.
+(3) Proizvođač stavlja na raspolaganje proizvođačima originalne opreme (OEM) sve relevantne informacije i uputstva namijenjena krajnjem korisniku, uključujući opis posebnih uslova ili ograničenja koja se odnose na upotrebu motora.
+(4) Proizvođači stavljaju na raspolaganje proizvođačima originalne opreme (OEM) vrijednost emisije CO2 utvrđenu tokom postupka EU homologacije tipa, zajedno sa pojašnjenjima koja se odnose na uslove ispitivanja, kako bi proizvođači originalne opreme (OEM) te informacije obezbijedili krajnjem korisniku vanputne mobilne mašine u koje se određeni motor ugrađuje.
+(5) Bliži sadržaj, obrazac i način dostavljanja informacija i uputstava iz st. 1 i 2 ovog člana propisuje Ministarstvo.
