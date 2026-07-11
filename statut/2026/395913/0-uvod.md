@@ -1,0 +1,2 @@
+Na osnovu člana 363 Zakona o privrednim društvima ("Službeni list CG", br. 90/25, 121/25 i 44/26) i člana 9 stav 1 tačka 1 Odluke o osnivanju društva sa ograničenom odgovornošću "Agencija za planiranje prostora Crne Gore" ("Službeni list CG", br. 55/25 i 147/25), Vlada Crne Gore na sjednici od 18. juna 2026. godine, donijela je
+STATUT DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "AGENCIJA ZA PLANIRANJE PROSTORA CRNE GORE"
