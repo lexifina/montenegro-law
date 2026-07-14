@@ -1,0 +1,13 @@
+# Član 6
+## Funkcija praćenja usklađenosti s propisima
+(1) DZUAIF je dužan da, uzimajući u obzir vrstu, obim i složenost poslovanja, kao i djelatnosti koje obavlja, uspostavi, sprovodi kao i redovno ažurira, procjenjuje i nadzire primjerene politike, procedure i mjere, čiji je cilj otkrivanje svakog rizika neusklađenosti sa propisima, povezanih rizika, kao i da uspostavi primjerene mjere i postupke radi smanjivanja takvih rizika.
+(2) DZUAIF je dužan da uspostavi, sprovodi, kao i redovno ažurira, procjenjuje i nadzire politike i postupke kako bi osiguralo da ono posluje u skladu sa Zakonom i propisima donesenim na osnovu Zakona, kao i da članovi uprave i druga relevantna lica postupaju u skladu sa Zakonom i propisima donesenim na osnovu Zakona
+(3) DZUAIF je dužan da uspostavi i održava trajnu i efikasnu funkciju praćenja usklađenosti sa propisima koja djeluje nezavisno i zadužena je za obavljanje sljedećih poslova:
+1) praćenje i redovna procjena primjerenosti i efikasnosti mjera, politika i postupaka iz stava 1 ovog člana, kao i preduzetih radnji, kako bi se otklonili eventualni nedostaci kod DZUAIF-a radi usklađivanja sa svojim obavezama; i
+2) savjetovanje relevantnih lica odgovornih za obavljanje djelatnosti DZUAIF-a o načinu primjene propisa, što obuhvata pružanje podrške za osposobljavanje zaposlenih, pružanje svakodnevne pomoći zaposlenima i učestvovanje u uspostavljanju novih politika i postupaka u DZUAIF-u;
+(4) Kako bi se omogućilo da funkcija praćenja usklađenosti pravilno i nezavisno obavlja svoje obaveze, DZUAIF je dužan da obezbijedi ispunjenje sljedećih uslova:
+1) funkcija praćenja usklađenosti ima potrebno ovlašćenje, resurse i stručnost, kao i pristup svim relevantnim informacijama;
+2) imenovano je lice za praćenje usklađenosti koje je odgovorno za funkciju praćenja usklađenosti i redovno podnošenje izvještaja, a najmanje jednom godišnje, višem rukovodstvu u vezi sa pitanjima koja se odnose na usklađenost, posebno navodeći da li su, u slučaju eventualnih nedostataka, preduzete odgovarajuće mjere za njihovo uklanjanje;
+3) lica uključena u funkciju praćenja usklađenosti nijesu uključena u obavljanje usluga ili aktivnosti koje nadziru; i
+4) metoda određivanja nagrađivanja lica zaduženog za obavljanje funkcije praćenja usklađenosti ne smije da ugrozi njegovu objektivnost i ne smije biti takva da bi je vjerojatno mogla ugroziti.
+(5) DZAIF nije dužan da ispunjava uslove iz stava 4 tač. 3 i 4 ovog člana, kada može da dokaže da, s obzirom na vrstu, obim i složenost svog poslovanja, te vrstu i raspon svojih usluga i aktivnosti, taj zahtjev nije srazmjeran i da je njegova funkcija praćenja usklađenosti i dalje efikasna.
