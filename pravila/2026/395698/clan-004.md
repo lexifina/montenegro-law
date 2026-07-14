@@ -1,0 +1,15 @@
+# Član 4
+## Prinudni prenos upravljanja zatvorenim AIF-om sa svojstvom pravnog lica
+(1) Kod prinudnog prenosa upravljanja zatvorenim AIF-om sa svojstvom pravnog lica depozitara obavlja poslove u vezi sa prinudnim prenosom upravljanja.
+(2 Depozitar će u roku od 8 dana od dana nastupanja razloga za prinudni prenos upravljanja AIF- om da objavi javni poziv koji traje 15 dana i da sprovede postupak prikupljanja ponuda i izbor DZUAIF preuzimaoca.
+(3) Prikupljanje ponuda iz stava 2 ovog člana sprovodi se putem objave javnog poziva u najmanje dva štampana medija koji se distribuiraju na cijeloj teritoriji Crne Gori, kao i na njihovim portalima te na internet stranicama depozitara i zatvorenog AIF-a sa svojstvom pravnog lica.
+(4) Javnim pozivom se pozivaju svi zainteresirani DZUAIF koji ispunjavaju uslove za upravljanje AIF-om i zainteresovani su da preuzmu upravljanje AIF-om, da u roku od 15 dana podnesu ponudu za upravljanje AIF-om koji je pod privremenom upravom depozitara zatvorenog AIF-a sa svojstvom pravnog lica.
+(5) Po isteku roka za podnošenje ponuda depozitar zatvorenog AIF-a je dužan da sazove i u roku od 30 dana organizuje skupštinu akcionara zatvorenog AIF-a (ako je AIF osnovan kao akcionarsko društvo) odnosno obavjesti komplementare i komanditore ( ako je AIF oosnovan u formi komanditnog društva) kako bi razmotrili ponude za upravljanje fondom i donijeli odluke o izboru novog DZUAIF, koja odluka mora biti donijeta u roku od 60 dana od isteka roka iz stava 2 ovog člana.
+(6) DZUAIF preuzimalac mora u roku od 3 dana nakon zaključenja ugovora o prenosu upravljanja AIF-om podnijeti Komisiji zahtjev za izdavanje odobrenja za preuzimanje upravljanja AIF-om, a o ovom zahtjevu za izdavanje odobrenja Komisija će odlučiti u roku od 20 dana od dana urednog podnešenog zahtjeva.
+(7) Ako nije drugačije predviđeno pravilima AIF-a i prospektom AIF-a, kada je to primjenjivo, depozitar je dužan, umjesto prinudnog prenosa upravljanja AIF-om, sprovesti likvidaciju AIF-a:
+a) ako se na postupak prikupljanja ponuda u roku iz stava 2 ovog člana ne javi ni jedan DZUAIF koji ispunjava uslove za upravljanje AIF-om;
+b) ako DZUAIF preuzimalac u roku od 3 dana od sklapanja ugovora sa depozitarom AIF-a o prenosu upravljanja AIF-om ne podnese Komisiji zahtjev za izdavanje odobrenja za preuzimanje upravljanja AIF-om;
+c) ako Komisija odbaci ili odbije zahtjev DZUAIF preuzimaoca za izdavanje odobrenja za preuzimanje upravljanja AIF-om;
+d) ako u slučaju iz stava 5 ovog člana depozitar zatvorenog AIF-a ne sazove skupštinu radi donošenja odluke o izboru novog DZUAIF i ta odluka ne bude donesena u roku od 60 dana od isteka roka iz stava 2 ovog člana.
+(8) Rok u kojem će se izvršiti prenos upravljanja AIF-om ne smije biti duži od 15 dana od dana izdavanja odobrenja Komisije, odnosno od isteka roka za izdavanje odobrenja Komisije.
+(9) Investitori zatvorenog AIF-a bez svojstva pravnog lica, čije je upravljanje preneseno imaju pravo na otkup udjela bez plaćanja izlazne naknade do isteka roka od 30 dana od dana prenosa poslova upravljanja.

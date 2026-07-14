@@ -1,0 +1,14 @@
+# Član 3
+## Dobrovoljni prenos upravljanja AIF-om
+(1) U skaldu sa odredbom člana 80 stav 1 Zakona DZUAIF koji dobrovoljno prestaje obavljati djelatnost (DZUAIF prenosilac) dužan je u roku od 60 dana od upućivanja obaviještenja iz člana 80 Zakona sa drugim DZUAIF-om (DZUAIF preuzimalac) da sklopi ugovor o dobrovoljnom prenosu upravljanja AIF-om.
+(2) DZUAIF preuzimalac dužan je u roku iz stava 1 ovog člana Komisiji da podnese zahtjev za izdavanje odobrenja za preuzimanje upravljanja.
+(3) Prenos upravljanja AIF-om može da se izvrši nakon što DZUAIF preuzimalac dobije odobrenje Komisije.
+(4) Kod dobrovoljnog prenosa upravljanja sa malog DZUAIF-a, DZUAIF preuzimalac nije dužan da podnosi zahtjev za prenos upravljanja, već je mali DZUAIF dužan da u roku od 3 dana od izvršenog prenosa upravljanja AIF-om o tome obavijestit Komisiju.
+(5) Odluku o dobovoljnom prenosu upravljanja AIF-om može, osim DZUAIF-a prenosioca donijeti:
+1. skupština zatvorenog AIF-a sa svojstvom pravnog lica (u skladu sa pravilima AIF-a, prospektom kada je to primjenjivo, statutom, odnosno ugovorom o osnivanju) ili
+2. investitori u AIF-u bez svojstva pravnog lica čiji se udjeli nude privatnom ponudom (na način i ako je to predviđeno pravilima AIF-a te prospektom kada je to primjenjivo).
+(6) Ako prenos upravljanja AIF-om dovodi do promjene depozitara ili bitne izmjene ugovora o obavljanju poslova depozitara, DZUAIF-ovi koji učestvuju u prenosu upravljanja dužni su da obezbjede da do prenosa upravljanja AIF-om dođe istovremeno kada i do promjene depozitara za taj AIF te kada je to primjenjivo, ne prije odobrenja promjene depozitara i/ili bitnih izmjena ugovora o obavljanju poslova depozitara.
+(7) U slučaju zatvorenog AIF-a sa svojstvom pravnog lica, kada je to primjenjivo, DZUAIF prenosilac je radi donošenja odluke o prenosu upravljanja i izboru DZUAIF preuzimaoca dužan pravovremeno da obavijesti nadzorni odbor AIF-a o namjeri prenosa upravljanja, a ovaj je dužan sazvati skupštinu AIF-a radi davanja suglasnosti na odluku nadzornog odbora.
+(8) Ugovor o dobrovoljnom prenosu upravljanja zatvorenog AIF-a sa svojstvom pravnog lica sa DZUAIF preuzimaocem sklapa nadzorni odbor AIF-a, a ako zatvoreni AIF osnovan u obliku komanditnog društva nema nadzorni odbora, ugovor sa DZUAIF preuzimaocem sklapa uprava AIF-a.
+(9) DZUAIF prenosilac i DZUAIF preuzimalac dužni su da objave informacije i da obavijeste investitore o prenosu upravljanja AIF-om uz odgovarajuću primjenu odredbi zakona kojim se uređuje osnivanje i poslovanje otvorenih investicionih fondova sa javnom ponudom i njihovih društava za upravljanje i podzakonskih propisa doneseniih na osnovu toga zakona.
+(10) Izuzetno od stava 9 ovog člana, kada se prenosi upravljanje sa malog UDZAIF, rokovi iz zakona koji uređuje osnivanje i poslovanje otvorenih investicionih fondova sa javnom ponudom i njihovih društava za upravljanje računaju se od dana slanja obavještenja Komisiji na osnovu stava 4 ovog člana.
