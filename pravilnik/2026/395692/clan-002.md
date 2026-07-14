@@ -1,0 +1,7 @@
+# Član 2
+Član 5 mijenja se i glasi:
+"Zaštita od povreda oštrim predmetima podrazumijeva planiranje i primjenu zaštitnih mjera, saradnju poslodavca, zaposlenih i predstavnika zaposlenih za zaštitu i zdravlje na radu.
+Predstavnik zaposlenih iz stava 1 ovog člana je zaposleni kojeg izaberu, odaberu ili odrede i imenuju zaposleni radi zastupanja njihovih interesa u vezi sa zaštitom i zdravljem na radu i koji ima posebna prava i obaveze utvrđene zakonom kojim se uređuje zaštita i zdravlje na radu.
+Svi zaposleni, u okviru svojih mogućnosti, u skladu sa obrazovnim sposobnostima i poznavanjem mjera zaštite, u skladu sa aktima poslodavca dužni su da brinu o svojoj zaštiti i zdravlju, kao i o zaštiti i zdravlju drugih zaposlenih i pacijenata.
+Poslodavac preduzima mjere prevencije, radi sprečavanja povreda i/ili prenošenja infekcija povezanih sa pružanjem zdravstvene zaštite i obavljanjem postupaka neposredno povezanih sa bolničkom i drugom zdravstvenom zaštitom, uključujući korišćenje najbezbjednije opreme, na osnovu procjene rizika.
+Radi otklanjanja i smanjenja rizika od povreda oštrim predmetima i pojave infekcija povezanih sa njima, poslodavac zaposlenima obezbjeđuje obuke, odgovarajuću zaštitnu opremu i bezbjedno radno okruženje, odgovarajuće psiho-socijalne uslove i organizaciju rada, preduzimanje preventivnih mjera, kao i potpuno i redovno obavještavanje o mjerama zaštite, uključujući procjenu rizika i promovisanje sistematskog prijavljivanja povreda, kao opšteprihvaćenih procedura, a ne samo kao pojedinačnih grešaka, odnosno slučajeva."
