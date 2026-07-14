@@ -1,0 +1,11 @@
+# Član 8
+## Prihvatljivi obratni repo ugovori
+(1) Novčani fond može da sklopi obratni repo ugovor pod sledećim uslovima:
+1) da novčani fond ima pravo da raskinine ugovor u svakom trenutku, uz otkazni rok od najviše dva radna dana;
+2) da tržišna vrijednost imovine primljene u okviru obratnog repo ugovora je u svakom trenutku barem jednaka vrijednosti isplaćene gotovine.
+(2) Imovina koju novčani fond prima u okviru obratnog repo ugovora mora da budu instrumenti tržišta novca koji ispunjavaju uslove iz člana 4 ovih pravila, a ta imovina ne smije da se prodaje, ponovno ulaže, založe ili prenosi na drugi način.
+(3) Imovina koju novčani fond prima u okviru obratnog repo ugovora mora da bude dovoljno diversifikovano uz maksimalnu izloženost tog emitenta od 15% NAV-a novčanog fonda, osim ako je ta imovina u obliku instrumenata tržišta novca koji ispunjavaju uvjete iz člana 10 stav 8, a osim toga, imovinu koju novčani fond prima u okviru obratnog repo ugovora izdaje organ koji je nezavisan od druge ugovorne strane i za koje se očekuje da neće pokazivati visok stepen korelaciju sa ispunjavanjem obaveza druge ugovorne strane.
+(4) Novčani fond koji zaključuje obratni repo ugovor mora da osigura da u svakom trenutku može opozvati puni iznos gotovine bilo na osnovu obračuna bilo na osnovu vrednovanja po tržišnoj vrijednosti, a u slučaju da se gotovina može u svakom trenutku opozvati na osnovu vrednovanja po tržišnoj vrijednosti, za obračun NAV- a novčanog fonda, upotrebljava se vrijednost obratnog repo ugovora utvrđena vrednovanjem po tržišnoj vrijednosti.
+(5) Odstupajući od stava 2 ovog člana, novčani fond može da u okviru obratnog repo ugovora primi likvidne prenosive hartije od vrijednosti ili instrumente tržišta novca pored onih koji ispunjavaju uslove iz člana 4 pod jednim od sledećih uslova:
+1) da je izdaje ili za nju garantuje Evropska Unija, centralni organ ili centralna banka države članice, Evropska centralna banka, Evropska investiciona banka, Evropski stabilizacioni mehanizam ili Evropski fond za finansijsku stabilnost pod uslovom da im je dodijeljena pozitivna ocjena na osnovu čl. od 12 do 14; i
+2) da je izdala ili za nju garantuje centralni organ ili centralna banka treće zemlje, pod uslovom da im dodijeljena pozitivna ocjena na osnovu čl. od 12 do 14.

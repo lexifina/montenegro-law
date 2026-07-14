@@ -1,0 +1,11 @@
+# Član 12
+## Postupak procjene kreditnog kvaliteta
+(1) Društvo za upravljanje novčanog fonda uvodi, sprovodi i dosljedno primjenjuje jasan unutrašnji postupak procjene kreditnog kvaliteta za određivanje kreditnog kvaliteta instrumenata tržišta novca, uzimajući u obzir emitenta instrumenta i karakteristike samog instrumenta.
+(2) Društvo za upravljanje novčanog fonda osigurava da su informacije koje se upotrebljavaju prilikom primjene unutrašnje postupka procjene kreditnog kvaliteta dovoljno kvalitetne, ažurne i da potiču od pouzdanih izvora.
+(3) Unutrašnji postupak procjene zasniva se na jasnim, sistematičnim i kontinuiranim metodologijama procjene, koje se upotrebljavaju, podliježu validaciji društva za upravljanje novčanog fonda na osnovu ranijeg iskustva i empirijskih dokaza, uključujući retroaktivno testiranje.
+(4) Društvo za upravljanje novčanog fonda osigurava da je unutrašnji postupak procjene kreditnog kvaliteta u skladu sa svim sljedećim opštim načelima:
+1) uveđenje efikasnog postupka dobijanja i ažuriranja relevantnih informacija o emitentu i o obilježjima instrumenta;
+2) donišenje i sprovođenje primjerene mjere u cilju osiguranja da se unutrašnja procjena kreditnog kvaliteta zasniva na detaljnoj analizi svih dostupnih i relevantnih informacija i uključuje sve relevantne ćinioce koji utiču na kreditnu sposobnost emitenta i kreditni kvalitet instrumenta;
+3) kontinuirano nadziranje unutrašnjeg postupka procjene kreditnog kvaliteta, a sve procjene kreditnog kvaliteta preispituju se najmanje jednom godišnje;
+4) društvo za upravljanje novčanog fonda najmanje jednom godišnje preispituje metodologije za procjenu kreditnog kvaliteta kako bi se procijenilo da li su adekvatni za trenutni portfelj i spoljne uslove, i ta se procjena prosljeđuje nadležnom organu društva za upravljanje novčanog fonda, a ako društvo za upravljanje novčanog fonda utvrdi greške u metodologiji procjene kreditnog kvaliteta ili njenoj primjeni, navedene greške odmah ispravlja;
+5) u slučaju promjene metodologije, modela ili ključnih pretpostavki upotrijebljenih u unutrašnjem postupku procjene kreditnog kvaliteta, društvo za upravljanje novčanog fonda treba što je prije moguće da preispita svaku unutrašnju procjenu kreditnog kvaliteta na koju je to imalo uticaj.

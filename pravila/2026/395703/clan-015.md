@@ -1,0 +1,7 @@
+# Član 15
+## Upravljanje procjenom kreditnog kvaliteta
+(1) Uprava i odbor direktora društva za upravljanje novčanog fonda odobravaju unutrašnji postupak procjene kreditnog kvaliteta,
+(2) Lica koja obavljaju funkcije člana uprave odnosno člana odbora direktora društva za upravljanje novčanog fonda moraju dobro da poznaju unutrašnji postupak procjene kreditnog kvaliteta i metodologiju koju primjenjuje društvo za upravljanje novčanog fonda kao i da razumiju pojedinosti povezanih izvještaja.
+(3) Društvo za upravljanje novčanog fonda obavještava lica iz stava 2 ovog člana o profilu kreditnog rizika novčanog fonda na osnovu analize unutrašnjih procjena kreditnog kvaliteta novčanog fonda, a učestalost izvještavanja zavisi od značaja i vrste informacija i sprovodi se najmanje jednom godišnje.
+(4) Uprava društva za upravljanje novčanog fonda dužna je da kontinuirano osigurava pravilno funkcionisanje unutrašnjeg postupka procjene kreditnog kvaliteta i redovno se informiše o efikasnosti unutrašnjih postupaka procjene kreditnog kvaliteta, o područjima u kojima su utvrđeni nedostaci i stanju mjera i postupaka za uklanjanje prethodno utvrđenih nedostataka.
+(5) Unutrašnje procjene kreditnog kvaliteta i njihova periodična preispitivanja za koja je odgovorno društvo za upravljanje novčanog fonda ne smiju sprovoditi lica koje upravljaju portfeljem novčanog fonda ili su za to upravljanje odgovorne.

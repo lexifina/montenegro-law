@@ -1,0 +1,14 @@
+# Član 17
+## Pravila za portfelj standardnih novčanih fondova
+(1) Standardni novčani fond je novčani fond koji ulaže u prihvatljive instrumente tržište novca iz člana 4 st. 1 i 2 ovih pravila i isti mora u kontinuitetu biti usklađen sa sledećim ograničenjima u pogledu portfelja:
+1) ponderisano prosječno dospijeće njegovog portfelja u svakom trenutku treba iznositi najviše šest mjeseci;
+2) ponderisano prosječno trajanje njegovog portfelja u svakom trenutku treba iznositi najviše 12 mjeseci, u skladu sa stavom 2 ovog člana;
+3) najmanje 7,5% njegove imovine treba da se sastoji od imovine koja dospijeva dnevno, obratnih repo ugovora koji se mogu raskinuti uz otkazni rok od jednog radnog dana ili gotovine koja se može povući uz otkazni rok od jednog radnog dana, i ovi fondovi ne smiju steći nikakvu imovinu osim imovine koja dospijeva dnevno, ako bi tim sticanjem uložio manje od 7,5% svog portfelja u imovinu koja dospijeva dnevno;
+4) najmanje 15% njegove imovine treba da se sastoji od imovine koja dospijeva nedeljno, obratnih repo ugovora koji se mogu raskinuti uz otkazni rok od pet radnih dana ili gotovine koja se može povući uz otkazni rok od pet radnih dana, i ovaj fond ne smije steći nikakvu imovinu osim imovine koja dospijeva nedeljno ako bi tim sticanjem uložio manje od 15% svog portfelja u imovinu koja dospijeva nedeljno;
+5) za potrebe obračuna iz tačke 4, u imovinu koja dospijeva nedeljno mogu se uključiti i instrumenti tržišta novca ili udjeli ili akcije drugih novčanih fondova u visini do 7,5 % njegove imovine, pod uslovom da se mogu isplatiti i namiriti u roku od pet radnih dana.
+(2) Za potrebe stava 1 tačka 2 ovog člana pri obračunu ponderisanog prosječnog trajanja njegovog portfelja za prenosive hartije od vrijednosti, uključujući strukturirane finansijske instrumente, standardni novčani fond obračun dospijeća zasniva na preostalom roku do dospijeća do ugovorene isplate instrumenata.
+(3) Ako financijski instrument iz stava 2 ovog člana uključuje opciju prodaje, standardni novčani fond obračun dospijeća može zasnivati na datumu izvršenja opcije prodaje umjesto na preostalom roku do dospijeća, ali samo ukoliko su u svakom trenutku ispunjeni svi sledeći uslovi:
+1) standardni novčani fond slobodno se može koristiti opcijom prodaje na njen datum izvršenja; 2) izvršna cijena opcije prodaje ostaje blizu očekivane vrijednosti instrumenta na datum izvršenja; i
+3) iz strategije ulaganja standardnog novčanog fonda proizlazi da će opcija vrlo vjerovatno biti izvršena na datum izvršenja.
+(4) Ako su ograničenja iz ovog člana prekoračena iz razloga koji su van kontrole novčanog fonda ili usljed ostvarivanja prava upisa ili isplate, tom novčanom fondu glavni cilj mora da bude ispravljanje tog stanja, pri čemu mora voditi računa o interesima vlasnika udjela ili akcionara.
+(5) Standardni novčani fond ne smije imati oblik novčanog fonda javnog duga sa nepromjenjivim NAV-om ili novčanog fonda sa NAV-om niske volatilnosti.

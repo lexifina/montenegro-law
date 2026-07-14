@@ -1,0 +1,4 @@
+# Član 11
+## Koncentracija
+(1) Novčani fond ne smije da drži više od 10% instrumenata tržišta novca koje izdaje jedan organ.
+(2) Ograničenje utvrđeno u stavu 1 ovog člana ne primjenjuje se na instrumente tržišta novca koje izdaje ili za koje garantuje Evropska Unija, nacionalne, regionalne i lokalne uprave država članica ili njihove centralne banke, Evropska centralna banka, Evropska investiciona banka, Evropski investicioni fond, Evropski stabilizaccioni mehanizam, Evropski fond za finansijsku stabilnost, centralni organ ili centralna banka treće zemlje, Međunarodni monetarni fond, Međunarodna banka za obnovu i razvoj, Razvojna banka Savjeta Evrope, Evropska banka za obnovu i razvoj, Banka za međunarodnog sladiranja ili neka druga relevantna međunarodna finansijska institucija ili organizacija kojoj pripada jedna ili više država članica.
