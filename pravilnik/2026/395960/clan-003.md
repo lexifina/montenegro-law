@@ -1,0 +1,3 @@
+# Član 3
+"Mjesto rada", u smislu odredbi ovog pravilnika je prostor namijenjen za smještaj radnih mjesta u objektima poslodavca i/ili organizacione jedinice, kao i svaki drugi prostor u okviru područja poslodavca i/ili organizacione jedinice, kojem zaposleni ima pristup u toku obavljanja rada.
+"Zaposleni", u smislu odredbi ovog pravilnika, jeste svako lice koje u toku rada ili u vezi sa radom koristi sredstva za rad i koje radi kod poslodavca na osnovu ugovora o radu, uključujući lice koje se osposobljava za rad i pripravnika, kao i svako lice koje po bilo kom pravnom osnovu obavlja rad kod poslodavca.
