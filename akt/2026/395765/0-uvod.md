@@ -1,0 +1,3 @@
+Na osnovu člana 20 i člana 25 tačka 2, Zakona o poljoprivredi i ruralnom razvoju ("Službeni list CG", br. 56/09, 18/11, 40/11, 34/14, 1/15, 30/17 i 51/17 i 59/21), člana 27 stav 1 tačka 22, Zakona o lokalnoj samoupravi ("Sl. list CG" br. 2/18, 34/19 i 38/20, 50/22 i 84/22) i člana 46 stav1 tacka 2 Statuta opštine Rožaje ("Službeni list CG - Opštinski propisi" br. 38/18,16/21), Skupština opštine Rožaje, uz saglasnost Ministarstva poljoprivrede, šumarstva i vodoprivrede CG broj 04-307/26- 5956/2 od 29.04.2026.godine, na vanrednoj sjednici održanoj 29.06.2026 godine, donijela je:
+IZMJENE
+i dopune odluke o podsticajima i investiranju u razvoj poljoprivrede na području Оpštine Rožaje
