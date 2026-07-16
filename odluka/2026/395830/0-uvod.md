@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 1, člana 51 stav 1 tačka 2 i stav 2 Zakona o uređenju prostora ("Službeni list CG", broj 19/25), a u vezi sa Sporazumom o donošenju Prostorno- urbanističkog plana Opštine Tivat broj: 01-332/26-5843/3, zaključenim 25. maja 2026. godine, između Vlade Crne Gore i Opštine Tivat, Vlada Crne Gore, na sjednici od 26. juna 2026. godine, donijela je
+O D L U K U O IZRADI PROSTORNO-URBANISTIČKOG PLANA OPŠTINE TIVAT
