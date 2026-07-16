@@ -1,0 +1,5 @@
+# Član 2
+Član 15 mijenja se i glasi:
+"(1) Ne smatra se diskriminacijom pravljenje razlike, isključenje ili davanje prvenstva u odnosu na određeni posao kada, zbog prirode posla ili uslova pod kojima se posao obavlja, karakteristika povezana sa nekim od osnova iz člana 7 ovog zakona predstavlja stvarni i odlučujući uslov za obavljanje posla, pod uslovom da je cilj koji se želi postići zakonit i da su sredstva za postizanje tog cilja primjerena i neophodna.
+(2) Izuzetak iz stava 1 ovog člana ne primjenjuje se na različito postupanje po osnovu rasnog ili etničkog porijekla.
+(3) Odredbe zakona, kolektivnog ugovora i ugovora o radu koje se odnose na posebnu zaštitu i pomoć određenim kategorijama zaposlenih, a naročito one kojima se uređuje zaštita prava lica sa invaliditetom, žena za vrijeme trudnoće, porodiljskog, očinskog, roditeljskog odsustva i odsustva sa rada radi njege djeteta, odnosno posebne njege djeteta, kao i odredbe koje se odnose na posebna prava roditelja, usvojilaca, staratelja i hranitelja, ne smatraju se diskriminacijom."

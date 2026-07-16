@@ -1,0 +1,4 @@
+# Član 1
+U Zakonu o radu ("Službeni list CG", br. 74/19, 08/21, 59/21, 68/21, 145/21, 77/24, 84/24, 86/24, 122/25, 165/25 i 51/26) član 8 mijenja se i glasi:
+"(1) Neposredna diskriminacija, u smislu ovog zakona, postoji kada se prema licu koje traži zaposlenje ili zaposlenom, u istoj ili uporedivoj situaciji u odnosu na drugo lice koje traži zaposlenje ili zaposlenog, nepovoljnije postupa aktom, radnjom ili nečinjenjem, po nekom od osnova iz člana 7 ovog zakona.
+(2) Posredna diskriminacija, u smislu ovog zakona, postoji kada prividno neutralna odredba, kriterijum ili praksa tretira ili bi mogla tretirati lice koje traži zaposlenje ili zaposlenog nepovoljnije u odnosu na drugo lice koje traži zaposlenje ili zaposlenog, po nekom od osnova iz člana 7 ovog zakona, osim ako je ta odredba, kriterijum ili praksa objektivno i razumno opravdana zakonitim ciljem, uz upotrebu sredstava koja su primjerena i neophodna za postizanje tog cilja."
