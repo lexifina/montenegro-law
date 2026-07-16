@@ -1,0 +1,2 @@
+# Član 17
+Postupci u kojima je nadležni organ za sprovođenje postupka legalizacije dostavio sve podatke o uslovima za utvrđivanje naknade za urbanu sanaciju Upravi lokalnih javnih prihoda, a nije donešeno rješenje o visini naknade danom stupanja na snagu ove Odluke okončaće se u skladu sa ovom Odlukom, ukoliko se rješenje o legalizaciji donosi u skladu sa odredbama Zakona o legalizaciji objekata ("Službeni list CG", br. 91/25 i 18/26), uz dostavljanje novog obavještenja.

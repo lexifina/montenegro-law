@@ -1,0 +1,3 @@
+Na osnovu člana 23 stav 13 Zakona o legalizaciji bespravnih objekata ("Službeni list CG", br. 91/25 i 18/26), člana 38 tač. 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 35 stav 1 tačka 2 i člana 38 stav 1 tač. 2 i 8 Statuta Opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 31/18, 21/23 i 42/25 i "Službeni list CG", broj 62/25), uz prethodnu saglasnost Vlade Crne Gore, br. 11-011/26-2126/3 od 11. 6. 2026. godine, Skupština opštine Nikšić, na sjednici održanoj 30. 6. 2026. godine, donijela je
+ODLUKU
+o naknadi za urbanu sanaciju

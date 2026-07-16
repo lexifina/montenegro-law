@@ -1,0 +1,4 @@
+# Član 3
+Naknadu plaća vlasnik bespravnog objekta.
+Naknada se ne plaća za: objekte za obrazovanje, nauku, zdravstvo, sport, socijalnu zaštitu, socijalno stanovanje; objekte nepokretne kulturne baštine; objekte namijenjene za bezbjednosne službe; radio-difuzne objekte; međunarodne i regionalne objekte vodosnabdijevanja; međunarodne i regionalne kanalizacione sisteme; žičare; vodovodne, telekomunikacione i kanalizacione objekte infrastrukture; toplovode; pijace; groblja; podzemne i nadzemne prolaze; javne garaže; javnu rasvjetu; javne i zelene površine i gradske parkove i ski liftove.
+Naknada se obračunava po m2 neto površine objekta na osnovu elaborata premjera izvedenog stanja izgrađenog objekta ili dijela objekta izrađenog od strane licencirane geodetske organizacije i ovjerenog od strane organa uprave nadležnog za poslove katastra.
