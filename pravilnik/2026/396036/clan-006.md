@@ -1,0 +1,4 @@
+# Član 6
+## Primjena posebnih odredaba u odnosu na procjenu rizika
+Ako rezultati procjene rizika iz člana 5 ovog pravilnika pokažu da se izloženost, odnosno moguća izloženost, odnosi na biološke agense grupe 1 i da nije utvrđen rizik po zaštitu i zdravlje na radu zaposlenih, ne primjenjuju se odredbe čl. 7 do 18 ovog pravilnika, već se primjenjuje tačka 1 Priloga 6 ovog pravilnika.
+Ako rezultati procjene rizika iz člana 5 ovog pravilnika pokažu da djelatnost ne uključuje namjeran rad sa biološkim agensima, ali može dovesti do izloženosti zaposlenih biološkim agensima, kao što je slučaj u djelatnostima navedenim u indikativnoj listi iz Priloga 1 ovog pravilnika, primjenjuju se odredbe čl. 7, 9, 10, 12, 13, 14, 15 i 16 ovog pravilnika, osim ako procjena rizika iz člana 5 ovog pravilnika pokaže da njihova primjena nije potrebna.
