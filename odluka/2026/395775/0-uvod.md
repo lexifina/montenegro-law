@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11, 23/25 i 160/25), u vezi sa članom 194, članom 201, članom 208 i članom 216 Zakona o svojinsko-pravnim odnosima ("Službeni list CG", br. 19/09 i 29/25), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi (‚‚Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 43 stav 1 tačka 9 Statuta Opštine Bar ("Službeni list CG - Opštinski propisi", broj 37/18), Skupština opštine Bar, na sjednici održanoj dana 24. 6. 2026. godine, donijela je
+ODLUKU

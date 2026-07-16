@@ -1,0 +1,2 @@
+# Član 3
+Vlasnik povlasnog dobra, pravno lice, "Arch and soul" d.o.o. sa sjedištem u Bijelom Polju, dužno je da prije početka radova, pribavi kod nadležnog organa lokalne uprave, potrebno odobrenje za izvođenje radova na javnim površinama, kao i da nakon okončanja radova na polaganju elektroenergetskog kablovskog voda, radi kojeg se službenost i ustanovljava, zemljište vrati u prvobitno stanje, bez odlaganja, sve u skladu sa Zaključkom, broj: 030-016/26-216 od dana, 24. 3. 2026. godine ("Službeni list CG - Opštinski propisi", broj 14/26 od 2. 4. 2026. godine).
