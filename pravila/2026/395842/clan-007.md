@@ -1,0 +1,4 @@
+# Član 7
+(1) Član ili vlasnik udjela energetske zajednice građana zadržava status krajnjeg kupca, sa pravima i obavezama koji pripadaju ovoj kategoriji kupaca u odnosu na operatora prenosnog ili distributivnog sistema električne energije i snabdjevača, u skladu sa Zakonom.
+(2) Operator prenosnog i distributivnog sistema električne energije i snabdjevači dužni su da postupaju sa članovima ili vlasnicima udjela energetske zajednice građana na nediskriminatoran i transparentan način i da ne nameću neopravdane uslove, procedure ili naknade koje bi spriječile ili otežale njihovo učešće u energetskoj zajednici građana.
+(3) Operator distributivnog sistema dužan je da sarađuje sa energetskom zajednicom građana u cilju omogućavanja sigurnog i efikasnog mjerenja, obračuna i razmjene podataka potrebnih za dijeljenje električne energije unutar zajednice, u skladu sa Zakonom i ovim pravilima.
