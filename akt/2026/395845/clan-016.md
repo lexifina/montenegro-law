@@ -1,0 +1,4 @@
+# Član 16
+## Način utvrđivanja ostalih prihoda
+(1) Ostali prihodi su prihodi od donacija, premija, subvencija i sl, prihodi od naplate štete, prihodi od ukidanja rezervisanja sudskih sporova, koji se odnose na troškove poreza, naknade štete trećim licima i/ili eksproprijacije, prihodi po osnovu naknade za priključnu snagu, prihodi ili dio prihoda od neenergetske djelatnosti ako nije moguće izvršiti razdvajanje troškova koji su zajednički za pružanje tih djelatnosti, prihod od prekomjerno preuzete reaktivne energije, kao i drugi prihodi koji nijesu posebno specificirani, a mogu se pojaviti u poslovanju, čiji su pripadajući troškovi priznati prilikom utvrđivanja regulatorno dozvoljenog prihoda.
+(2) Prihodi iz stava 1 ovog člana utvrđuju se na osnovu dokumentacije iz člana 31 ove metodologije i dokumentacije i podataka kojima raspolaže Agencija.

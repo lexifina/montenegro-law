@@ -1,0 +1,3 @@
+# Član 22
+## Troškovi opravdanih gubitaka električne energije koje plaćaju korisnici za preuzimanje električna energije iz distributivnog sistema
+Troškove nabavke električne energije za pokrivanje gubitaka nastalih preuzimanjem električne energije iz distributivnog sistema i dijela gubitaka u prenosnom sistemu, iz člana 8 stav 7 ove metodologije, koji se alocira na operatora distributivnog sistema, nadoknađuju operatori skladišta za električnu energiju preuzetu iz distributivnog sistema i ostali korisnici iz člana 1 stav 2 tačka 2 ove metodologije priključeni na distributivni sistem, po aktivnoj električnoj energiji za koje se utvrđuje cijena u €/MWh.
