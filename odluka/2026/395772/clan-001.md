@@ -1,0 +1,4 @@
+# Član 1
+## o otkupu građevinskog zemljišta radi izgradnje pristupne saobraćajnice sa pratećom infrastrukturom u Bloku "7", u zahvatu DUP-a "Gornja Čeluga"
+Opština Bar, radi ostvarivanja javnog interesa, vrši otkup neizgrađenog građevinskog zemljišta evidentiranog u listu nepokretnosti broj 2532 KO Polje, katastarskom parcelom broj 2068/1, po kulturi - nekategorisani putevi, u površini od 228 m2, sa pravom svojine u obimu 1/1 u korist pravnog lica "Bar gradnja" d.o.o. iz Bara.
+Pored nepokretnosti iz stava 1 ovog člana, na zahtjev imenovanog pravnog lica, Opština Bar vrši i otkup neizgrađenog građevinskog zemljišta evidentiranog u listu nepokretnosti broj 2532 KO Polje, katastarskom parcelom broj 2068/5, po kulturi - nekategorisani putevi, u površini od 45 m2, sa pravom svojine u obimu 1/1 u korist pravnog lica "Bar gradnja" d.o.o. iz Bara.

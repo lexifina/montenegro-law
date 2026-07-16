@@ -1,0 +1,2 @@
+Na osnovu člana 6 stav 1 i 34 stav 1 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09, 40/11, 23/25 i 160/25), člana 38 stav 1 tačka 30 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22, 81/25 i 98/25) i člana 43 stav 1 tačka 30 u vezi člana 24 stav 1 Statuta Opštine Bar ("Službeni list CG - Opštinski propisi", broj 37/18), Skupština opštine Bar, na sjednici održanoj dana 24. 6. 2026. godine, donijela je
+ODLUKU
