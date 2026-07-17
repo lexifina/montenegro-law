@@ -1,0 +1,4 @@
+# Član 1
+U Zakonu o parničnom postupku ("Službeni list RCG", br. 22/04, 28/05 i 76/06 i "Službeni list CG", br. 48/15, 51/17, 75/17, 62/18, 34/19, 76/20, 108/21 i 12/26) član 46 mijenja se i glasi:
+"Nadležnost u bračnim i partnerskim sporovima
+Za suđenje u sporovima radi utvrđivanja postojanja ili nepostojanja braka, poništenja braka ili razvoda braka (u daljem tekstu: bračni sporovi) i sporovima radi utvrđivanja postojanja ili nepostojanja životnog partnerstva lica istog pola, poništenja životnog partnerstva lica istog pola ili raskida životnog partnerstva lica istog pola (u daljem tekstu: partnerski sporovi) nadležan je, pored suda opšte mjesne nadležnosti, i sud na čijem području su bračni supružnici, odnosno partneri u zajednici života lica istog pola imali posljednje zajedničko prebivalište."
