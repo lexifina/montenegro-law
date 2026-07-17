@@ -1,0 +1,5 @@
+# Član 6
+U članu 27h stav 1 mijenja se i glasi:
+"(1) Ako EPD ili EZ prenosi svoje sjedište iz Crne Gore u drugu državu članicu EU ili, u vezi sa prenosom sjedišta iz Crne Gore u drugu državu članicu EU, EPD ili EZ prestane biti rezident Crne Gore i postane rezident druge države članice EU, takav prenos sjedišta ili prestanak statusa rezidenta ne dovodi do oporezivanja kapitalnih dobitaka u Crnoj Gori iz koje je sjedište preneseno, koji se obračunavaju u skladu sa članom 27b stav 1 ovog zakona i koji proizilaze iz one imovine i obaveza EPD ili EZ, pod uslovom da ta društva ostaju povezana sa stalnom poslovnom jedinicom tog EPD ili EZ društva u Crnoj Gori, iz koje je izvršen prenos sjedišta i učestvuju u ostvarivanju dobiti ili gubitaka koji se uzimaju u obzir u poreske svrhe."
+Stav 3 mijenja se i glasi:
+"(3) Ako se, u skladu sa pravom Crne Gore iz koje se sjedište prenosi, za EPD ili EZ utvrdi nova amortizacija i dobitak ili gubitak u vezi sa imovinom i obavezama koji ostaju u Crnoj Gori na način koji nije u skladu sa stavom 2 ovog člana, na tu imovinu i obaveze ne primjenjuje se stav 1 ovog člana."
