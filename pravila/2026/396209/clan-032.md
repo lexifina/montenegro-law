@@ -1,0 +1,7 @@
+# Član 32
+Centralna banka čuva kao povjerljive informacije vezane za platne transakcije, tehničke ili organizacione informacije koje se odnose na učesnika ili njegove korisnike, osim ako su učesnik ili njegov korisnik dali pisanu saglasnost za dostavljanje informacija ili je takvo otkrivanje dozvoljeno, odnosno propisano zakonom.
+Izuzetno od stava 1 ovog člana, informacije o incidentima i suspenziji učesnika u IPS sistemu, pribavljeni u skladu sa čl. 26 i 27 ovih pravila, dostavljaju se drugim učesnicima u IPS-u u obimu potrebnom za nesmetano izvršavanje instant kreditnih transfera.
+Informacije iz stava 1 ovog člana Centralna banka će dostaviti trećim licima uključenim u rad IPS sistema, ako je to potrebno za efikasno funkcionisanje IPS sistema.
+Izuzetno od stava 1 ovog člana, Centralna banka može koristiti, saopštavati ili objavljivati informacije o platnim transakcijama u statističke, istorijske, naučne ili druge svrhe u vršenju svojih ovlašćenja ili po zahtjevu nadležnog organa, ako takva upotreba, saopštavanje ili objavljivanje ne omogućava direktnu ili indirektnu identifikaciju učesnika ili njegovih korisnika.
+Učesnici su dužni da informacije koje se odnose na rad IPS sistema a kojima su imali pristup, trajno čuvaju kao povjerljive, osim ako Centralna banka da izričitu saglasnost za saopštavanje.
+Obaveza iz stava 5 ovog člana odnosi se na organe upravljanja i zaposlene učesnika u IPS sistemu, kao i na treća lica koja učesnik angažuje u svrhu obavljanja zadataka povezanih sa učešćem u IPS sistemu.
