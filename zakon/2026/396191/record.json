@@ -1,0 +1,29 @@
+{
+  "id": 396191,
+  "path": "zakon/2026/396191",
+  "source": "https://www.sluzbenilist.me/propisi/396191",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/396191/download",
+  "title": "Zakon o izmjenama i dopunama Zakona o sigurnosti pomorske plovidbe",
+  "issue": "Službeni list Crne Gore, broj 104/2026",
+  "published": "2026-07-17",
+  "in_force": "2026-07-17",
+  "in_force_basis": "Ovaj zakon stupa na snagu danom objavljivanja u „Službenom listu Crne Gore”",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "766f4a318b48aa33617c3fcadc8d2b4ee1362e097dcdd5df2723f27635314902",
+  "articles_in_source": 28,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 13681,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "recovered_after_interruption": true,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "14d80b572a006038b06284eb3345633c921cbf904facf81969d56323a6793db3",
+  "enacted": "2026-07-10",
+  "enacted_basis": "Podgorica, 10. jul 2026"
+}
