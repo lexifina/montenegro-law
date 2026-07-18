@@ -1,0 +1,2 @@
+# Član 4
+Vujačić (Krsto) Budimir iz Petrovca, Budva, dužan je sa Opštinom Bar, pred mjesno nadležnim notarom kojeg će odrediti Notarska komora Crne Gore u skladu sa Zakonom o notarima ("Službeni list RCG", br. 68/05, "Službeni list CG", br. 49/08, 55/16, 84/18 i 141/25), zaključiti ugovor o prenosu prava svojine na predmetnom zemljištu, u roku od 30 (slovima: trideset) dana od dana stupanja na snagu ove odluke.

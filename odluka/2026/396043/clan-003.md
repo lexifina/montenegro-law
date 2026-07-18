@@ -1,0 +1,2 @@
+# Član 3
+Pravo svojine na zemljištu iz člana 1. ove odluke, prenosi se uz naknadu od 6,00 €/m2, a što za površinu od 129 m2, iznosi ukupno 774,00 €, shodno Izvještaju o procjeni vrijednosti nepokretnosti, sačinjenom od strane ovlašćenog (REV) procjenjivač i sudskog vještaka građevinske struke, dipl. ing građ., Ivanović Sonje iz Podgorice i protokolisanog kod Opštine Bar pod brojem : 04-427/25-2148 od dana, 29. 4. 2026. godine.
