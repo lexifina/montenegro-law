@@ -1,0 +1,3 @@
+# Član 226
+Prilikom izlaska zaposlenog iz radne komore sa natpritiskom u radnoj komori od 1 bara (105 Pa), vrijeme zadržavanja zaposlenog u pretkomori odnosno vrijeme za izjednačavanje natpritisaka u radnoj komori i pretkomori ne treba da bude kraće od 10 minuta.
+Prilikom izlaska zaposlenog iz radne komore sa natpritiskom u radnoj komori iznad 11 bara (105 Pa), vrijeme zadržavanja zaposlenog u pretkomori odnosno vrijeme za izjednačavanje natpritisaka u radnoj komori i pretkomori produžava se za 2 minuta (poslije isteka 10 minuta) za svaku dalju desetinu (1/10 bara) natpritiska iznad 1 bara (105 Pa).

@@ -1,0 +1,3 @@
+# Član 255
+Električni vodovi u tunelskoj cijevi u kojoj se koristi električna ili druga vuča, postavljaju se duž tunela na visinu određenu projektom o građenju tunela, u zavisnosti od vrste vuče, nivelete, gabarita kola i drugih saobraćajno-manipulativnih elemenata, tako da ne dođe do mehaničkog dodira pri eventualnom iskakanju kompozicije i skretanju vozila.
+U području čela iskopa, na udaljenosti najmanje 15,0 m od čela, ako projektom o građenju tunela nije drukčije predviđeno, kao i u zoni drugih mjesta rada, treba da budu preduzete posebne mjere protiv udara električne struje, kao što su sniženje napona, galvansko razdvajanje i druge mjere u skladu sa propisima kojima se uređuju mjere zaštite od opasnog dejstva struje.

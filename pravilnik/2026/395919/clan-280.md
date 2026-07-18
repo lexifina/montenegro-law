@@ -1,0 +1,2 @@
+# Član 280
+Uređaji i naprave za dizanje i prenošenje slobodno visećeg tereta u građevinarstvu (kabl-dizalica, građevinska stubna dizalica, koturača i drugo), treba da posjeduju prateću dokumentaciju (uputstva za bezbjedan rad, matičnu knjigu, kontrolnu knjigu, atestnu dokumentaciju i dr.), i da u pogledu mjera zaštite ispunjavaju uslove u skladu sa propisima kojima se uređuju mjere zaštite na radu prilikom upotrebe sredstava za rad za dizanje tereta.

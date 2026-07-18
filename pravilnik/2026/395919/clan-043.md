@@ -1,0 +1,3 @@
+# Član 43
+Skladište građevinskih materijala složenih na paletama postavlja se na takvoj udaljenosti od prolaza i saobraćajnica da u slučaju rušenja složaja ne budu ugroženi prolaznici i saobraćaj i da je obezbijeđen od pristupa lica koja ne rade na skladištu.
+Prilikom podizanja, prenosa i prevoza slobodno složenih materijala na paletama, koji nijesu osigurani korpama, ramovima ili na neki drugi način, zaposleni treba da budu udaljeni na rastojanju većem od domašaja najvišeg elementa u slučaju preturanja ili pada sa visine i treba da bude obezbijeđenoda se i ostala lica ne nađu u ovoj opasnoj zoni.

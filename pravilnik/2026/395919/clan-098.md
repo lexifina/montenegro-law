@@ -1,0 +1,2 @@
+# Član 98
+U tehničkoj dokumentaciji prikazuje se broj, dimenzije, oblik i položaj, kao i način ugrađivanja držača ili kuka za pričvršćivanje ili vješanje ljestvi, sa mjerama zaštite i zdravlja na radu pri postavljanju, opisuje se i prikazuje svaka radna operacija procesa montaže ljestvi sa zaštitnim leđobranom, kao i radne operacije pričvršćivanja ljestvi sa mjerama zaštite i zdravlja na radu i postupkom kontrole.

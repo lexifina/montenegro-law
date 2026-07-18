@@ -1,0 +1,3 @@
+# Član 52
+Ako prilikom radova iz člana 51 ovog pravilnika postoji mogućnost da zaposleni padne van objekta, treba da se postave odgovarajuće zaštitne nadstrešnice tako da visina sa koje može da se padne ne prelazi 100 cm i zaposleni treba da bude vezan odgovarajućim zaštitnim opasačem (pojasom) za vezivanje cijelog tijela.
+Ako prilikom rada na otvorenim ivicama spratova, balkona, terasa i dr, zaštitna ograda ne može da se postavi iz opravdanih razloga, ako su radovi koji se vrše na takvim mjestima manjeg obima ili su kratkotrajni, zaposleni koji vrši te poslove za vrijeme trajanja rada treba da budu vezani pomoću zaštitnog opasača (pojasa) za vezivanje cijelog tijela i konopca dužine najviše 150 cm.
