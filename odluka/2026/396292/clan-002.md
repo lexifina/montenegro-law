@@ -1,0 +1,2 @@
+# Član 2
+Javni interes iz člana 1 ove odluke utvrđuje se radi obezbjeđenja obavljanja djelatnosti prenosa električne energije i kako bi se obezbijedilo trajno i sigurno priključenje vjetroelektrane "Gvozd" koja koristi obnovljive izvore energije čime će se doprinijeti povećanju udjela energije iz obnovljivih izvora u bruto finalnoj potrošnji energije i ostvarivanju ciljeva energetske politike Crne Gore.
