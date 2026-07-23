@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti za ustanovljavanje stvarne službenosti na neodređeno vrijeme uz naknadu na dijelu katastarske parcele broj 2997/1 upisane u PL broj 1991 KO Tuzi
+Daje se saglasnost DOO "KOJA COMPANY" Tuzi za ustanovljenje prava stvarne službenosti na neodređeno vrijeme, na dijelu katastarske parcele broj 2997/1, u površini od 85 m², upisane u posjedovni list broj 1991 KO Tuzi, svojina Opštine Tuzi, radi polaganja kablovskog voda XP00 4x240 mm² za potrebe priključenja na MBTS 10/0,4 kV, 1x630 kVA "Nove Tuzi" u Tuzima, u skladu sa ovjerenim geodetskim elaboratom izrađenim od strane "Geo-Tim" d.o.o. Podgorica, broj 189/1/2026 od 10. 2. 2026. godine.
