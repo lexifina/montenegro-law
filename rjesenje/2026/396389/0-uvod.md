@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 1 i člana 209a stav 3, a u vezi sa stavom 2 alineja 6 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20, 50/22, 84/22, 81/25 i 98/25), člana 73 stav 1 tačka 25 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", br. 49/18 i 17/21) i člana 3 i člana 7 stav 4 Odluke o organizovanju Javne ustanove Narodna biblioteka i čitaonica "Njegoš" Cetinje ("Službeni list Crne Gore - Opštinski propisi", broj 18/12), Skupština Prijestonice Cetinje na sjednici održanoj dana 7. 7. i 10. 7. 2026. godine, donijela je
+RJEŠENJE
