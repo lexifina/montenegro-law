@@ -1,0 +1,2 @@
+# Član 1
+Ovim statutom uređuje se organizacija i način rada organa Društvo sa ograničenom odgovornošću "Agencija za razvoj i podršku poslovanju".u daljem tekstu: Društvo), i to: poslovno ime i sjedište, pretežna djelatnost, iznos osnovnog kapitala i finansiranje, odgovornost Društva, organi Društva i njihove nadležnosti, informisanje i odnosi sa javnošću i druga pitanja u skladu sa zakonom i ovim statutom.
