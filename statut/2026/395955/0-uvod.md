@@ -1,0 +1,2 @@
+Na osnovu člana 363 Zakona o privrednim društvima ("Službeni list CG", br. 90/25, 121/25 i 44/26) i člana 9 stav 1 tačka 1 Odluke o osnivanju društva sa ograničenom odgovornošću "Regionalni ronilački centar za podvodno deminiranje i obuku ronilaca" Podgorica ("Službeni list CG", br. 8/15, 62/20 i 6/24), Vlada Crne Gore, na sjednici od 11. juna 2026. godine, donijela je
+S T A T U T DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "REGIONALNI RONILAČKI CENTAR ZA PODVODNO DEMINIRANJE I OBUKU RONILACA" IZ PODGORICE
