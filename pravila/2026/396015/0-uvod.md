@@ -1,0 +1,2 @@
+Komisija za tržište kapitala (u daljem tekstu: Komisija) na osnovu člana 42a stav 6 Zakona o alternativnim investicionim fondovima ("Službeni list Crne Gore", br. 024/25 od 12.03.2025, 117/25 od 15.10.2025, 014/26 od 09.02.2026) - (u daljem tekstu: Zakon), na 190. sjednici od 2. 7. 2026. godine, je donijela
+PRAVILA O DIGITALNOJ OTPORNOSTI DRUŠTAVA ZA UPRAVLJANJE ALTERNATIVNIM INVESTICIONIM FONDOVIMA
