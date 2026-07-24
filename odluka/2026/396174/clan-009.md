@@ -1,0 +1,10 @@
+# Član 9
+Visinu, način i rokove plaćanja naknade utvrđuje rješenjem organ lokalne uprave nadležan za poslove utvrđivanja, naplate i kontrole lokalnih javnih prihoda Opštine (u daljem tekstu: Uprava lokalnih javnih prihoda).
+Postupak za obračun se pokreće podnošenjem zahtjeva za utvrđivanje naknade od strane vlasnika bespravnog objekta Upravi za uređenje prostora, zaštitu životne sredine i saobraćaj sa dokumentacijom na osnovu koje se vrši obračun naknade za urbanu sanaciju ili umanjenje naknade u skladu sa ovom Odlukom i Zakonom o legalizacijii.
+Zahtjev se podnosi na obrascu koji je sastavni dio ove Odluke.
+Zahtjev iz stava 2 ovog člana Uprava za uređenje prostora, zaštitu životne sredine i saobraćaj u roku od 8 dana od dana prijema, prosleđuje zajedno sa ovjerenim Elaboratom premjera izvedenog stanja izgrađenog objekta i dokumentacijom potrebnom za obračun naknade (ukoliko je vlasnik dostavio dokumentaciju na osnovu koje ima pravo na umanjenje iz člana 10 stav 4 Odluke) Upravi lokalnih javnih prihoda, koja će donijeti rješenje iz stava 1 ovog člana u roku od 15 dana od dana prosleđivanja zahtjeva, ukoliko se radi o jednokratnom plaćanju, odnosno 30 dana kada se naknada plaća u ratama, zbog uspostavljanja sredstava obezbjeđenja potraživanja.
+Organ nadležan za poslove utvrđivanja, naplate i kontrole lokalnih javnih prihoda stara se o izvršenju rješenja iz stava 1 ovog člana.
+Na rješenje iz stava 1 ovog člana može se izjaviti žalba glavnom administratoru.
+Naknada se uplaćuje na uplatni račun budžeta Opštine.
+Naplatu i kontrolu naplate vrši Uprava lokalnih javnih prihoda.
+Uprava lokalnih javnih prihoda dužna je da u roku od 15 dana od dana pravosnažnosti rješenja o utvrđivanju naknade za urbanu sanaciju, dostavi organu nadležnom za legalizaciju bespravnih objekata - Uprava za uređenje prostora, zaštitu životne sredine i saobraćaj, dokaz o uređivanju odnosa u pogledu plaćanja naknade za urbanu sanaciju, odnosno obavještenje da se nijesu stekli uslovi za izdavanje uvjerenja o uređenim odnosima u pogledu plaćanja naknade.
