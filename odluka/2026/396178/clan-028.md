@@ -1,0 +1,4 @@
+# Član 28
+Korisniku alternativnog smještaja koji ima više od 50 bodova alternativni smještaj obezbjeđuje se davanjem naknade za zakupninu stana u iznosu od 100 % od cijene zakupnine koja se plaća za zakup stana u IV gradskoj zoni za stan srazmjerne površine.
+Ukoliko opština ima raspoloživih stanova, korisniku iz stava 1 ovog člana alternativni smještaj obezbjeđuje se davanjem u zakup stana iz stambenog fonda opštine, uz obavezu da opštini plaća zakupninu u visini iznosa potrebnog za izmirivanje troškova redovnog održavanja stambenog objekta, u skladu sa zakonom kojim se uređuju prava i obaveze etažnih vlasnika u pogledu održavanja stambene zgrade i zajedničkih djelova stambene zgrade.
+Korisniku alternativnog smještaja iz stava 1 ovog člana koji ispunjava uslove iz člana 16 ove odluke alternativni smještaj može se, uz njegov pristanak, obezbijediti davanjem sredstava za kupovinu građevinskog materijala, bez obaveze vraćanja dodijeljenih sredstva.

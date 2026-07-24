@@ -1,0 +1,3 @@
+Na osnovu člana 32 stav 6 Zakona o legalizaciji bespravnih objekata ("Službeni list Crne Gore", br. 091/25 i 18/26), i člana 38 stav 1 tačka 2 i člana 44 stav 1 i 3 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člаnа Statuta Opštine Rožaje ("Službeni list CG - Opštinski propisi", br. 38/18 i 16/20), Skupština opštine Rožaje, uz prethodnu saglasnost Ministarstva prostornog planiranja, urbanizma i državne imovine, br.07-337/26- 156/198 od 3. 6. 2026. godine, nа sјеdnici оdržаnој 29. 6. 2026. gоdinе, donijela je
+ODLUKU
+o obezbjeđivanju alternativnog smještaja
