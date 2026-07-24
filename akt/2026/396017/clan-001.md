@@ -1,0 +1,2 @@
+# Član 1
+Ovim se pravilima uređuje: obustava i nastavak izdavanja i otkupa udjela alternativnih investicionih fondova (u daljem tekstu: AIF), uslovi i način primanja zahtjeva za izdavanje ili otkup udjela za vrijeme trajanja obustave izdavanja i otkupa udjela AIF-a, uslovi utvrđivanja cijene udjela, rokovi isplate i uslovi nastavka poslovanja nakon prestanka obustave izdavanja i otkupa udjela AIF-a i zamjena udjela u jednom AIF-u za udjele u drugom AIF-u kojim upravlja isto društvo za upravljanje alternativnim investicionim fondovima (u daljem tekstu: DZUAIF).
