@@ -1,0 +1,3 @@
+# Član 3
+Poslodavac je dužan da obezbijedi odgovarajuće organizacione mjere ili da upotrebljava odgovarajuća sredstva za rad, a naročito sredstva na mehanizovani pogon, kako bi se izbjeglo ručno prenošenje tereta.
+U slučajevima kada nije moguće da se izbjegne ručno prenošenje tereta, poslodavac je dužan da preduzme odgovarajuće organizacione mjere, koristi odgovarajuća sredstva za rad ili obezbijedi zaposlenom upotrebu sredstava za rad kojima se smanjuje opasnost za zaposlenog pri ručnom prenošenju tog tereta, u skladu sa faktorima rizika koji su dati u Prilogu 1 koje je sastavni dio ovog pravilnika.
