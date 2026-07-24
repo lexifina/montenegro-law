@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 81/25 i 98/25), i člana 33 stav 1 tačka 2 Statuta Opštine ("Službeni list CG - Opštinski propisi", broj 39/18), a u vezi sa članom 363 i 407 stav 1 tačka 1 Zakona o privrednim društvima ("Službeni list CG", br. 90/25, 121/25 i 44/26) Skupština opštine Plužine, na sjednici održanoj dana 2. 7. 2026. godine, donijela je
+STATUT
+Društva sa ograničenom odgovornošću ,,Komunalno Plužine"
