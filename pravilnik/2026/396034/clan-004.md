@@ -1,0 +1,4 @@
+# Član 4
+Poslodavac je dužan da obezbijedi i postavi znakove zaštite uzimajući u obzir procjenu rizika za zaštitu i zdravlje zaposlenih, tamo gdje se rizik, odnosno opasnosti i štetnosti ne mogu izbjeći ili dovoljno smanjiti tehnikama kolektivne zaštite ili mjerama, metodama ili postupcima koji se koriste u organizaciji rada.
+Pri postavljanju znakova poslodavac uzima u obzir procjenu rizika u skladu sa članom 25 Zakona o zaštiti i zdravlju na radu i osigurava da su znakovi stalno na predviđenom mjestu.
+Ne dovodeći u pitanje zahtjeve iz Priloga 5 ovog pravilnika, znakovi koji se koriste za drumski, željeznički, unutrašnji plovni, pomorski ili vazdušni saobraćaj postavljaju se, gdje god je to odgovarajuće za te vrste prevoza, unutar poslovnih prostorija privrednih društava i/ili pravnih lica.
