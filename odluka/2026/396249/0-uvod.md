@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 tačka 2 Statuta Opštine Zeta ("Službeni list Crne Gore - Opštinski propisi", broj 12/23), a u vezi sa članom 2 stav 2 alineja 5 i stav 5 Odluke o preuzimanju osnivačkih prava nad Javnom ustanovom Kulturno-informativni centar "Zeta" ("Službeni list Crne Gore - Opštinski propisi", br. 9/21 i 70/25), Skupština opštine Zeta, na XXIX sjednici, održanoj 9. 7. 2026. godine, donijela je
+ODLUKU
