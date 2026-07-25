@@ -1,0 +1,3 @@
+# Član 3
+Na ime naknade za ustanovljenu službenost DOO "BLACKWATER" za informatički inženjering, zastupanje i konsalting Podgorica kao korisnik povlasnog dobra, dužan je Opštini Danilovgrad uplatiti iznos od 5.040,07 (pet hiljada četrdeset i 07/100) eura, shodno Izvještaju o procjeni vrijednosti zemljišta u Danilovgradu, urađenom od strane Komisije za procjenu, zavedenom pod brojem 01- 082/26-1733/1 dana 5. 6. 2026. godine.
+Naknada iz stava 1 ovog člana uplaćuje se u korist Budžeta Opštine Danilovgrad na žiro račun broj 510-3296121-51 (prihodi opštinskih organa, organizacija i službi), u roku od osam dana od dana zaključenja ugovora kod nadležnog notara.
