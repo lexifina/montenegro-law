@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 26 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 11 Zakona o rodnoj ravnopravnosti ("Službeni list Republike Crne Gore", broj 46/07 i "Službeni list Crne Gore", br. 73/10, 40/11 i 35/15), člana 35 Statuta Opštine Danilovgrad ("Službeni list Crne Gore - Opštinski propisi", broj 43/18), a na osnovu Saglasnosti na tekst Lokalnog akcionog plana za postizanje rodne ravnopravnosti u Opštini Danilovgrad 2026-2029. godine, broj 08-040/26-629/2, Skupština opštine Danilovgrad, na sjednici održanoj 26. 6, 29. 6. i 10. 7. 2026. godine, donijela je
+ODLUKU
+o usvajanju Lokalnog akcionog plana za rodnu ravnopravnost Opštine Danilovgrad za period
