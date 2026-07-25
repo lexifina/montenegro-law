@@ -1,0 +1,2 @@
+# Član 3
+Prodajna cijena nepokretnosti iz člana 1 ove odluke na osnovu Izvještaja o procjeni vrijednosti zemljišta u Spužu, Danilovgrad odrađenom od strane državne Komisije za procjenu vrijednosti nepokretnosti, dana 14. 4. 2026. godine, pod brojem 01-012/26-1912/2 zavedenog u Pisarnici Opštini Danilovgrad pod brojem 07-012/26-626/1, iznosi 30€/m2 odnosno za ukupnu površinu svih nepokretnosti 308.730,00 (tri stotine osam hiljada sedam stotina trideset i 00/100) eura.
