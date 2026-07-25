@@ -1,0 +1,4 @@
+# Član 16
+## Elektronski interfejsi i status posrednika kao isporučioca
+(1) Kad poreski obveznik, upotrebom elektronskog interfejsa kao što je mjesto trgovanja, platforma, portal ili slično sredstvo, omogućava prodaju na daljinu dobara uvezenih iz trećih teritorija ili trećih zemalja u pošiljkama čija stvarna vrijednost ne prelazi 150,00 eura, smatra se da je taj poreski obveznik sam primio i isporučio ta dobra.
+(2) Kad poreski obveznik, upotrebom elektronskog interfejsa kao što je mjesto trgovanja, platforma, portal ili slično sredstvo, omogućuje isporuku dobara unutar Unije od strane poreskog obveznika koji nema sjedište unutar Unije poreskom obvezniku odnosno pravnom licu koje nije poreski obveznik, a čija sticanja dobara unutar Unije ne podliježu plaćanju PDV na bazi člana 10 stava 1 ovog zakona, ili bilo kojoj drugoj osobi koja nije poreski obveznik, smatra se da je poreski obveznik koji omogućava isporuku sam primio i isporučio ta dobra.

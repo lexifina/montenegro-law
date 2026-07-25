@@ -1,0 +1,9 @@
+# Član 128
+## Vjerodostojnost porijekla i potpunost sadržaja računa
+(1) Vjerodostojnost porijekla i potpunost sadržaja mora biti osigurana od trenutka izdavanja do kraja perioda za čuvanje računa nezavisno od toga da li je račun izdat na papiru ili u elektronskom obliku.
+(2) Poreski obveznik dužan je utvrditi na koji će način osigurati vjerodostojnost porijekla i potpunost sadržaja. Navedeno se može ostvariti pomoću bilo koje metode poslovne kontrole koja omogućava povezivanje računa sa isporukama dobara i usluga.
+(3) Vjerodostojnost porijekla se osigurava na način da se može nesumnjivo utvrditi identitet izdavaoca računa, a potpunost sadržaja podrazumijeva da sadržaj računa nije izmijenjen do kraja perioda za čuvanje računa.
+(4) Osim vrste poslovne kontrole iz stava 2 ovog člana vjerodostojnost porijekla i potpunost sadržaja elektronskog računa odnosno dokumenata ili poruka u elektronskim formatima koji nijesu elektronski računi može se osigurati:
+1) naprednim elektronskim potpisom u smislu člana 2 tačka 2 Direktive 1999/93/EZ Evropskog parlamenta i Vijeća od 13. decembar 1999. o okviru Zajednice za elektronske potpise, na osnovu priznate potvrde i kreiranim sigurnim uređajem za izradu elektronskog potpisa, u smislu člana 2 tačka 6 i 10 Direktive 1999/93/EZ;
+2) elektronskom razmjenom poslovnih dokumenata (Electronic Data Interchange - EDI), kako je utvrđeno članom 2 Dodatka 1 preporuke Komisije 1994/820/EZ od 19. oktobra 1994. godine koja se odnosi na pravne aspekte elektronske razmjene poslovnih dokumenata, pri čemu su dogovorom o razmjeni utvrđene procedure kojima se garantuje vjerodostojnost porijekla i potpunost podataka.
+(5)Ako se istom primaocu pošalju ili stave na raspolaganje skupovi sa više elektronskih računa odnosno dokumenata ili poruka u elektronskim formatima koji nijesu elektronski računi, pojedinosti koje su zajedničke pojedinačnim računima mogu biti navedene smo jedanput ako su, za svaki račun, dostupne sve informacije.

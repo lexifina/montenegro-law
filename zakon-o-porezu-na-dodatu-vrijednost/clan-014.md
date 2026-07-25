@@ -1,0 +1,6 @@
+# Član 14
+## Status državnih organa i javnopravnih tijela kao poreskih obveznika
+(1) Državni organi i organizacije i organi jedinice lokalne samouprave i druga javnopravna tijela u okviru vršenja djelatnosti po osnovu javnih funkcija ne smatraju se poreskim obveznicima, ako se u vezi tih djelatnosti ili transakcija naplaćuju porezi, takse, doprinosi i druge dažbine.
+(2) Državni organi i organizacije i organi jedinice lokalne samouprave i druga javno pravna tijela su poreski obveznici, ukoliko vrše promet dobara, odnosno usluga koji je prema ovom zakonu oporeziv kod drugih poreskih obveznika, odnosno ako bi njihovo tretiranje kao lica koja nijesu poreski obveznici dovelo do bitnog narušavanja tržišne konkurencije.
+(3) Organi i organizacije i druga javnopravna tijela iz stava 2 ovog člana smatraju se poreskim obveznicima ako obavljaju djelatnosti, osim ako ih obavljaju u zanemarivoj mjeri.
+(4) Bliže uslove, postupe i način sprovođenja odredaba st. 1, 2 i 3 u vezi državnih organa i organizacija i organa jedinice lokalne samouprave i drugih javno pravna tijela koja se u okviru vršenja djelatnosti po osnovu javnih funkcija ne smatraju se poreskim obveznicima, kada se u vezi tih djelatnosti ili transakcija naplaćuju porezi, takse, doprinosi i druge dažbine propisuje Ministarstvo. V. OPOREZIVE TRANSAKCIJE

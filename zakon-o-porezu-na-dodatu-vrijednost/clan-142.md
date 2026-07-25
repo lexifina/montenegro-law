@@ -1,0 +1,8 @@
+# Član 142
+## Sadržaj podataka koji se dostavljaju za pojedinačne transakcije
+U skladu s članom 141 ovog zakona prenose se sljedeći podaci:
+1) Za isporuke dobara obavljene u skladu s članom 71 stavom 1 ovog zakona i isporuke dobara i usluga, osim dobara ili usluga koji su oslobođeni PDV-a u državi članici u kojoj je transkcija oporeziva, za koje je kupac obavezan platiti PDV u skladu sa članom 194 do 197 Direktive 2006/112/EZ, informacije iz člana 226 tačka 1 do 4 i tačka 6, 7, 8, 11, 16, 17 i 11a Direktive 2006/112/EZ, ako je primenjivo,
+2) za prenose obavljene u skladu s članom 71 stav 3 tačka 3 ovog zakona, informacije iz člana 124 stav 1 tačka od 1 do 7 i člana 124 stav 2 i 9 ovog zakona,
+3) za sticanje dobara unutar Unije obavljenih u skladu sa članom 22 stav 1 i 2 ovog zakona i transkcije koje se tretiraju kao takve u skladu sa članom 22 stav 3 i 4 ovog zakona, informacije iz člana 124 stav 1 tačka od 1 do 9 i tačka 11 i člana 124 stav 2 i 9 ovog zakona,
+4) za transkcije koje se tretiraju kao sticanje dobara unutra Unije u skladu sa članom 22 stav 5 ovog zakona, informacije iz člana 124 stav 1 tačka od 1 do 9 i člana 124 stav 2 i 9 ovog zakona,
+5) za sticanje dobara i usluga, osim dobara ili usluga koji su oslobođeni PDV u državi članici u kojoj je transkcija oporeziva, za koje je kupac u Crnoj Gori obavezan platiti PDV u skladu sa članom 112 stav 1 tačka 2 i 3, sa članom 112 stav 2, 3 i 4 i sa članom 115 ovog zakona, informacije iz člana 124 stav 1 tačka od 1 do 9 i tačka 11 ovog zakona i člana 124 stav 8 i 9 ovog zakona, ako je primjenjivo. XIV. POSEBNI POSTUPCI OPOREZIVANJA

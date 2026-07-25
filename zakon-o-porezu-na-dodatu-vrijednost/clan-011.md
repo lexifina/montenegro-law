@@ -1,0 +1,6 @@
+# Član 11
+## Dodatni izuzeci od oporezivanja poreza na dodanu vrijednost
+Osim transakcija iz člana 10 ovog zakona, predmet oporezivanja PDV nijesu sljedeće transakcije:
+1) sticanje unutar Unije upotrebljavanih dobara, umjetničkih djela, zbirki ili antikviteta, prema definiciji iz člana 159 stav 2 do 5 ovog zakona, ako je prodavac oporezivi preprodavac koji djeluje kao takav, a PDV na ta dobra obračunat je u državi članici u kojoj je započela njihova otprema; ili prevoz, u skladu s programom oporezivanja profitne marže predviđenim u članu 160 do 162 ovog zakona;
+2) sticanje unutar Unije upotrijrbljenih prevoznih sredstava, ako je prodavac oporezivi preprodavac koji djeluje kao takav, a PDV na ta prevozna sredstva obračunat je u državi članici u kojoj je započela njihova otprema;
+3) sticanje unutar Unije upotrijebljenih dobara, umjetničkih djela, kolekcionarskih predmeta ili antikviteta, prema definiciji iz člana 159 stav 2 do 5 ovog zakona, ako je prodavac organizator prodaje putem javnog nadmetanja, koji djeluje kao takav, a PDV na ta dobra obračunat je u državi članici u kojoj je započela njihova otprema ili prevoz, u skladu s posebnim rješenjima za prodaju putem javnog nadmetanja. IV. PORESKI OBVEZNICI

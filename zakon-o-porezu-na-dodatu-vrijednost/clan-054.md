@@ -1,0 +1,12 @@
+# Član 54
+## Isporuka dobra ili pružanje usluga
+(1) Oporezivi događaj i obaveza obračuna PDV-a nastaju u trenutku isporuke dobra, odnosno u trenutku pružanja usluge.
+(2) Prilikom prometa dobra, osim dobra iz člana 15 stav 2 tačka 2 ovog zakona, odnosno prilikom prometa usluga u slučaju kada se izdaju uzastopni računi i izvršavaju uzastopna plaćanja, smatra se da su dobra isporučena i usluge obavljene po isteku perioda na koje se takvi računi ili plaćanja naknade odnose, ali taj period ne može biti duži od jedne kalendarske godine.
+(3) Kontinuirane isporuke dobra koje se obavljaju u periodu dužem od jednog kalendarskog mjeseca, koja se otpreme ili prevezu u državu članicu u kojoj nije započela otprema ili prevoz tih dobra i koja poreski obveznik radi obavljanja privredne djelatnosti isporučuje ili premješta uz primjenu oslobođenja od PDV-a u drugu državu članicu u skladu s odredbama člana 71 ovog zakona smatrat će se obavljenima istekom svakog kalendarskog mjeseca sve dok ne završi isporučivanje.
+(4) Usluge za koje je primalac usluga obavezan platiti PDV prema članu 112 stav 1 tačka 3 ovog zakona, a koje se kontinuirano obavljaju u periodu dužem od godinu dana i za koje u tom periodu nijesu izdati računi ili nije obavljeno plaćanje smatraju se obavljenima nakon isteka svake kalendarske godine, sve dok se ne obustavi obavljanje tih usluga.
+(5) Ako je plaćanje djelimično ili u cjelini izvršeno prije izdavanja računa ili prije obavljenog prometa dobra ili usluge, PDV se obračunava na primljeni iznos na dan prijema
+(6) Obaveza obračuna PDV-a za isporuke dobra iz člana 16 stav 1 i člana 20 stava 1 tačka 3 ovog zakona te za usluge iz člana 25 ovog zakona nastaje kada je nastao oporezivi događaj.
+(7) Kada se u skladu s odredbama člana 71 ovog zakona dobra otpreme ili prevoze u državu članicu u kojoj nije započela otprema ili prevoz tih dobra ili kada poreski obveznik te dobra premješta u drugu državu članicu radi obavljanja privredne djelatnosti, PDV se obračunava u trenutku izdavanja računa ili po isteku roka iz člana 122 stav 5 i 6 ovog zakona, ako račun do tada nije izdat.
+(8) Odredbe stava 2 i 5 ovog člana ne primjenjuju se na isporuke i premještanje dobra iz stava 8 ovog člana.
+(9) Odredbe stava 1 ovog zakona primjenjuju se i u slučajevima iz člana 124 st. 10 i 11 ovog zakona.
+(10) Prilikom promjene poreske osnovice iz člana 58 ovog zakona, PDV se obračunava na dan kada se izda račun, odnosno drugi dokument o promjeni poreske osnovice.

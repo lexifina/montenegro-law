@@ -1,0 +1,15 @@
+# Član 51
+## Prag za poreske obveznike koji isporučuju određena dobra obuhvaćena članom 32 stav 3 tačka 1 i određene usluge obuhvaćene članom 48 ovog zakona
+(1) Član 32 stav 3 tačka 1 i član 48 ovog zakona ne primjenjuju se ako su ispunjeni sljedeći uslovi:
+1) isporučilac ima sjedište, prebivalište ili uobičajeno boravište u Crnoj Gori;
+2) usluge se pružaju licu koje nije poreski obveznik i koje ima sjedište, prebivalište ili uobičajeno boravište u drugoj državi članici ili se dobra otpremaju iz Crne Gore u drugu državu članicu;
+3) ukupna vrijednost, bez PDV-a, isporuka iz tačke b) ovog stava u tekućoj kalendarskoj godini nije premašila 10.000,00 eura te nije bila veća od navedenog iznosa tokom prethodne kalendarske godine.
+(2) Ako se tokom kalendarske godine premaši prag iz stava 1 tačka 3 ovog člana, od tog se trenutka primjenjuju član 32 stav 3 tačka 1 i član 48 ovog zakona.
+(3) Poreski obveznik koji obavlja isporuke koje ispunjavaju uslove iz stava 1 ovog zakona može odabrati mjesto određivanja isporuke u skladu s članom 32 stav 3 tačka 1 i članom 48 ovog zakona, što ga obvezuje na period od dvije kalendarske godine.
+(4) Smatra se da su poreski obveznici registrovani za korišćenje posebnog postupka iz člana 174 do 181 ovog zakona iskoristili pravo izbora iz stava 3 ovog člana.
+(5) Poreski obveznik mora radi praćenja jesu li ispunjeni uslovi iz st. 1, 2 i 3 ovog člana voditi pregled telekomunikacionih usluga, TV-emitovanja i elektronski obavljenih usluga te isporuka dobra na daljinu licima koje nijesu poreski obveznici u Uniji o ukupnoj vrijednosti:
+1) obavljenih isporuka dobra na daljinu poreskom obvezniku ili pravnom licu koje nije poreski obveznik, a čije sticanje dobra unutar Unije ne podliježe plaćanju PDV-a u skladu s članom 10 stav 1 i članom 11 ovog zakona, ili bilo kojem drugom licu koje nije poreski obveznik;
+2) telekomunikacionih usluga, usluga radijskog i televizijskog emitovanja i elektronski obavljenih usluga koje obavlja licima koja nijesu poreski obveznici i koja imaju sjedište, prebivalište ili uobičajeno boravište u drugoj državi članici.
+(6) Pregled telekomunikacionih usluga, radijskog i tv emitovanja i elektronski obavljenih usluga te isporuka dobra na daljinu licima koja nijesu poreski obveznici u Uniji iz stava 7 ovog člana poreski obveznik podnosi Poreskom organu do kraja januara tekuće kalendarske godine za prethodnu kalendarsku godinu, a u slučaju ako je poreski obveznik tokom tekuće godine obavio isporuke iz stava 2 ovog člana u vrijednosti većoj od 10.000,00 eura obavezan je podnijeti pregled telekomunikacionih usluga, radijskog i tv emitovanja i elektronski obavljenih usluga te isporuka dobra na daljinu licima koja nijesu poreski obveznici u Uniji najkasnije u roku od 8 dana od dana kada je obavio isporuku kojom je prešao prag od 10.000,00 eura.
+(7) Pregled telekomunikacionih usluga, radijskog i tv emitovanja i elektronski obavljenih usluga te isporuka dobra na daljinu licima koja nijesu poreski obveznici u Uniji iz stava 5 ovog člana podnosi se na Obrascu e-trgovina.
+(8) Oblik i sadržinu Obrasca e-trgovina iz stava 7 ovog člana propisuje Ministarstvo.

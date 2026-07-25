@@ -1,0 +1,5 @@
+# Član 172
+## Pravo na odbitak ulaznog PDV
+(1) Poreski obveznik koji primjenjuje posebni postupak oporezivanja, a koji nema sjedište na teritoriji Unije ne može, za usluge obuhvaćene ovim posebnim postupkom, odbiti ulazni PDV nastao u državama članicama potrošnje na osnovu člana 168 Direktive 2006/112/EZ, niti člana 93 ovog zakona.
+(2) Poreski obveznik iz stava 1 ovog člana ima pravo na povraćaj ulaznog PDV prema odredbama člana 94 ovog zakona, odnosno člana 2 stav 1 Trinaeste Direktive Vijeća 86/560/EEZ i u tom slučaju ne primjenjuje se uslov uzajamnosti. Član 2 stav 2 i član 4 stav 2 Direktive 86/560/EEZ ne primjenjuju se na povraćaje koji se odnose na proizvode ili usluge upotrijebljene za pružanje usluga obuhvaćenih ovim posebnim postupkom.
+(3) Ako se poreski obveznik iz stava 1 ovog člana registrovao za PDV u Crnoj Gori po osnovu obavljanja djelatnosti koje nijesu obuhvaćene ovim posebnim postupkom, ima pravo na povraćaj ulaznog PDV u vezi sa oporezivom djelatnošću koja je obuhvaćena ovim posebnim postupkom u prijavi PDV iz člana 136 ovog zakona.

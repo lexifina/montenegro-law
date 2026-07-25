@@ -1,0 +1,5 @@
+# Član 62
+## Preračunavanje vrijednosti strane valute u domaću valutu
+(1) Ako je vrijednost koja predstavlja osnovu za određivanje poreske osnovice prilikom uvoza dobra u drugoj valuti koja nije euro, za obračun te vrijednosti u domaću valutu koristi se kurs određen u skladu s propisima Unije za izračunavanje carinske vrijednosti dobra.
+(2) Ako je vrijednost koja je osnova za određivanje poreske osnovice za transakciju koja nije uvozna transakcija izražena u drugoj valuti koja nije euro, za obračun te vrijednosti u domaću valutu koja je euro, kurs koji se primjenjuje jeste zadnji zabilježeni prodajni kurs u trenutku naplativosti poreza, na najreprezentativnijem deviznom tržištu Crne Gore, ili kurs utvrđen pozivanjem na to tržište, u skladu s postupcima koje propisuje Crna Gora.
+(3) Izuzetno od stava 2 ovog člana, poreski obveznik može primijeniti kurs koji na dan nastanka obveze obračuna PDV-a objavi Evropska centralna banka, a konverzija drugih valuta koje nijesu domaća valuta vršiće će se primjenom kursa svake valute za domaću valutu. IX. PORESKE STOPE

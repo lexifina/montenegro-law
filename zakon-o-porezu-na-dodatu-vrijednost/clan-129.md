@@ -1,0 +1,9 @@
+# Član 129
+## Čuvanje dokumentacije
+(1) Poreski obveznik je dužan čuvati svu primljenu i izdatu dokumentaciju, a naročito: primljene i izdate račune; dokumenta o ispravkama računa; dokumenta o obavljenom uvozu i izvozu; finansijsku dokumentaciju; dokumenta na osnovu kojih je ostvario oslobođenje od PDV; obračune PDV i sve druge knjigovodstvene isprave koje se odnose na promet dobara i usluga, odnosno na uvoz dobara, a značajne su za obračunavanje i plaćanje PDV, najmanje 5 godina po isteku godine na koju se te isprave odnose.
+(2) Izuzetno od stava 1 ovog člana, dokumentacija koja se odnosi na oporezivanje nepokretnosti čuva se najmanje 10 godina po isteku godine na koju se ta dokumentacija odnosi.
+(3) Lica iz člana 144 stava 1 ovog zakona (mali poreski obveznici) dužna su, u periodu iz stava 1 ovog člana, čuvati sva dokumenta koja su im izdata u vezi s prometom dobara, odnosno usluga koji im je obavljen, kao i o uvozu dobara.
+(4) Ako poreski obveznik koji ima sjedište, stalnu poslovnu jedinicu, prebivalište ili uobičajeno boravište na teritoriji Crne Gore odluči kopije računa koje je izdao i račune koje je primio čuvati izvan teritorija Crne Gore, mora o tome obavijestiti nadležni poreski organ i njemu i drugim organima nadležnim za nadzor na njihov zahtjev bez odgađanja omogućiti uvid u iste.
+(5) Računi se mogu čuvati u papirnom obliku ili pomoću elektronskih medija.
+(6) Poreski obveznik koji izdate ili primljene račune čuva pomoću elektronskih medija kojima se garantuje online pristup podacima mora na zahtjev omogućiti organu koje obavlja nadzor pravo pristupa, preuzimanja i korištenja tih računa.
+(7) Čuvanje računa putem elektronskih medija označava čuvanje podataka pomoću elektronske opreme za obradu (uključujući digitalno sumiranje) i čuvanje, uz korišćenje žica, radija, te optičkih i drugih elektromagnetnih medija.

@@ -1,0 +1,6 @@
+# Član 44
+## Mjesto prometa usluga koje se odnose na pristup kulturnim, umjetničkim, sportskim, naučnim, obrazovnim, zabavnim i drugim sličnim događajima
+(1) Mjesto prometa usluga koje se odnose na pristup kulturnim, umjetničkim, naučnim, obrazovnim, sportskim, zabavnim i drugim sličnim događajima (sajmovi, izložbe i slično) uključujući i pomoćne usluge u vezi sa prisustvovanjem na tim događajima pruženih poreskom obvezniku je mjesto u kojem su ove usluge stvarno izvršene.
+(2) U slučaju da se usluge iz stava 1 ovog člana pružaju preko interneta ili na drugi način u virtuelnom obliku poreskom obvezniku, mjesto prometa usluga je mjesto u kojem to lice ima prebivalište odnosno uobičajeno boravište.
+(3) Mjesto prometa usluga i pomoćnih usluga u vezi s kulturnim, naučnim, obrazovnim, sportskim, umjetničkim i drugim sličnim događajima (sajmovi, izložbe i slično) uključujući pružanje usluga organizatora takvih događaja licu koje nije poreski obveznik, smatra se mjesto gdje se ti događaji stvarno održavaju.
+(4) U slučaju da se usluge iz stava 3 ovog člana pružaju preko interneta ili na drugi način u virtuelnom obliku licu koje nije poreski obveznik, mjesto prometa usluga je mjesto u kojem to lice ima prebivalište odnosno uobičajeno boravište.

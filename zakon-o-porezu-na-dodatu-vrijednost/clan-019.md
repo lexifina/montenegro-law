@@ -1,0 +1,13 @@
+# Član 19
+## Prenos dobra
+(1) Isporukom dobra uz naknadu smatra se prenos dobra od strane poreskog obveznika, koja su dio njegove poslovne imovine, u drugu državu članicu.
+(2) Ne smatra se da je došlo do prenosa dobra u drugu državu članicu u skladu sa stavom 1 ovog člana ako poreski obveznik ili drugo lice u njegovo ime otpremi ili preveze dobra u drugu državu članicu za potrebe njegovog poslovanja, u svrhu sljedećih transakcija:
+1) isporuke tih dobara od strane poreskog obveznika na teritoriji države članice u kojoj završava otprema ili prevoz, u skladu s uslovima propisanim u članu 32 stav 3 ovog zakona;
+2) isporuke tih dobara u svrhu njihovog instaliranja ili sastavljanja od strane isporučioca ili u njegovo ime, koju obavi poreski obveznik na teritoriji države članice u kojoj završava otprema ili prevoz tih dobra, u skladu s uslovima propisanima u članu 32 stav 5 ovog zakona;
+3) isporuke tih dobra od strane poreskog obveznika na brodu, u vazduhoplov ili vozu tokom prevoza putnika, u skladu s uslovima propisanima u članu 35 ovog zakona;
+4) isporuka gasa preko sistema za prirodni gas koji se nalazi na teritoriji Unije ili bilo koje mreže priključene na takav sistem, isporuka električne energije ili isporuka energije za grijanje ili hlađenje preko mreža za grijanje ili hlađenje, u skladu sa uslovima propisanima u članu 36 ovog zakona;
+5) isporuke tih dobara od strane poreskog obveznika na teritoriji države članice, u skladu sa uslovima propisanima u članu 71, čl. 77 do 80 i članu 83 ovog zakona;
+6) pružanja usluge koja se obavlja za poreskog obveznika, a sastoji se od određivanja vrijednosti ili radova na navedenim dobrima, stvarno izvršenima na teritoriji države članice u kojoj završava otprema ili prevoz tih dobara, pod uslovom da se ta dobra, nakon određivanja vrijednosti ili što se na njima izvrše radovi, vrate tom poreskom obvezniku u državi članici iz koje su oni prvobitno otpremljeni ili odvezeni;
+7) privremenog korišćenja tih prpizvoda unutar teritorije države članice u kojoj završava otprema ili prevoz dobara u svrhu pružanja usluga od strane poreskog obveznika koji je osnovan na teritoriji države članice u kojoj je započela otprema ili prevoz;
+8) privremenog korišćenja navedenih dobara, u periodu koje ne premašuje dvadeset i četiri mjeseca, unutar teritorije druge države članice u kojoj bi uvoz istih dobara iz treće zemlje, sa ciljem njihovog privremenog korišćenja, bio obuhvaćen postupcima privremenog uvoza sa potpunim oslobođenjem od plaćanja uvozne carine.
+(3) Ako neki od navedenih uslova iz stava 2 ovog člana više nije ispunjen, smatra se da su dobra prenesena u drugu državu članicu,a u tom slučaju smatra se da je prenos izvršen u trenutku kada taj uslov prestane da bude ispunjen.

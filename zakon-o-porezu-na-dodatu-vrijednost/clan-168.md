@@ -1,0 +1,5 @@
+# Član 168
+## Prijava za primjenu posebnog postupka oporezivanja i brisnje iz evidencija
+(1) Poreski obveznik koji nema sjedište na teritoriji Unije, a koji za državu članicu prijave izabere Crnu Goru, dužan je poreskom organu elektronskim putem prijaviti početak i završetak svoje djelatnosti kao poreskog obveznika ili promjenu djelatnosti uslijed kojih više ne ispunjava uslove za primjenu posebnog postupka oporezivanja.
+(2) U prijavi iz stava 1 ovog člana poreski obveznik koji nema sjedište na teritoriji Evropske unije mora navesti sljedeće podatke: ime (naziv), poštansku adresu, elektronsku adresu, uključujući, ako postoje internetske stranice, nacionalni poreski broj ako ga ima i izjavu da na teritoriji Unije nema sjedište, stalnu poslovnu jedinicu, prebivalište ili uobičajeno boravište.
+(3)Poreski obveznik koji nema sjedište na teritoriji Evropske unije obavještava nadležni poreski organ o svim promjenama dostavljenih podataka. (4) Poreskom obvezniku iz stava 1 ovog člana poreski organ dodjeljuje pojedinačni registracioni broj za PDV i o tome ga obavještava elektronskim putem.

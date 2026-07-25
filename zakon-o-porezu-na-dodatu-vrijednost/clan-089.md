@@ -1,0 +1,5 @@
+# Član 89
+## Oslobođenje i postupci za dobra iz posebnih teritorija Unije
+(1) Na uvoz dobra iz člana 27 stav 2 ovog zakona s treće teritorije koje je u skladu s carinskim propisima dio carinske teritorije Unije, primjenjuju se odredbe st. 2 i 3 ovog člana, a na uvoz tih dobra primjenjuju se postupci u skladu s carinskim propisima o uvozu dobra na teritoriji Unije.
+(2) Ako otprema ili prevoz dobara iz stava 1 ovog člana završava na mjestu koje se nalazi izvan države članice u trenutku njihovog unosa u Uniju, ta dobra će biti oslobođena od plaćanja PDV-a i prevoze se unutar Unije u skladu sa tranzitnim postupkom Unije, propisanim carinskim propisima, ako su bila prijavljena za taj postupak prilikom unosa u Uniju.
+(3) Ako je za dobra iz stava 1 ovog člana u trenutku unosa u Uniju započet jedan od postupaka na osnovu kojih bi da su uvezena dobra u smislu člana 27 stav 1 ovog zakona bila obuhvaćena jednim od postupaka iz člana 86 stav 1 ovog zakona ili postupkom privremenog uvoza s potpunim oslobođenjem od plaćanja uvozne carine oslobođenja od PDV-a iz člana 86 stav 1 ovog zakona i oslobođenja u postupku privremenog uvoza primjenjuju se i na ta dobra.

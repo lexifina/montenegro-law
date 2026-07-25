@@ -1,0 +1,5 @@
+# Član 180
+## Pravo na odbitak ulaznog PDV
+(1) Poreski obveznik koji primjenjuje posebni postupak oporezivanja ne može, za isporuke obuhvaćene ovim posebnim postupkom oporezivanja odbiti ulazni PDV nastao u državama članicama potrošnje na osnovu člana 168 ove Direktive niti člana 93 ovog zakona.
+(2) Izuzetno od člana 1 tačka 1 Direktive 86/560/EEZ te člana 2 tačka 1, člana 3 i člana 8 stav 1 tačka (e) Direktive 2008/9/EZ, taj poreski obveznik ima pravo na povrat PDV-a u skladu sa navedenim direktivama i prema čl. 104 i 105 ovog zakona, član 2 stav 2 i član 4 stav 2 Direktive 86/560/EEZ ne primjenjuju se na povraćaje koji se odnose na proizvode ili usluge upotrijebljene za pružanje usluga obuhvaćenih ovim posebnim postupkom.
+(3) Ako se poreski obveznik iz stava 1 ovog člana registrovao za PDV u Crnoj Gori po osnovu obavljanja djelatnosti koje nisu obuhvaćene ovim posebnim postupkom, ima pravo na povraćaj ulaznog PDV u vezi sa oporezivom djelatnošću koja je obuhvaćena ovim posebnim postupkom u prijavi PDV-a iz člana 136 ovog zakona.

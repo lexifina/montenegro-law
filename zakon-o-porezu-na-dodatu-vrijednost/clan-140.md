@@ -1,0 +1,9 @@
+# Član 140
+## Obveze u pogledu digitalnog izvještavanja o prekograničnim isporukama dobara i usluga unutra Unije između poreskih obveznika
+(1) Svaki poreski obveznik koji je registrovan za PDV mora podnijeti podatke iz člana 142 ovog zakona o sljedećem:
+1) isporukama i prenosima dobara obavljenim u skladu sa članom 71 stav 1 i članom 71 stav 3 tačka 3 ovog zakona,
+2) sticanjima dobara unutra Unije obavljenim u skladu sa članom 22 st. 1 i 2 ovog zakona i transkcijama koje se smatraju takvim na osnovu člana 22 stav 3, 4 i 5 ovog zakona,
+3) isporukama dobara i usluga, osim dobara ili usluga koji su oslobođeni PDV u državi članici u kojoj je transkcija oporeziva, za koje je kupac obavezan platiti PDV u skladu sa članom 194 Direktive 2006/112/EZ ako je kupac registrovan za PDV, odnosno u skladu s članom 195, 196 ili člana 197 Direktive 2006/112/EZ i
+4) sticanjem dobara i usluga, osim dobara ili usluga koji su oslobođeni PDV-a u državi članici u kojoj je transkcija oporeziva, za koje je kupac u Crnoj Gori obavezan platiti PDV u skladu sa članom 112 stav 2 i 3 ovog zakona ako je kupac registrovan za PDV, u skladu sa članom 112 stav 1 tač. 2 i 3, člana 115 ili člana 112 st. 4, 5 i 6.
+(2) Podaci iz člana 142 ovog zakona u vezi sa transkcijama iz stava 1 ovog člana podnose se nadležnom poreskom organu Crne Gore koji je poreskom obvezniku izdao identifikacioni broj za PDV, a koji je taj poreski obveznik koristio za transkciju na koju se podaci odnose.
+(3) Odstupajući od stava 1 tač. 1 i 2 ovog člana, poreski obveznici registrovani u skladu sa posebnim odredbama u skladu sa čl. 194 do 201 ovog zakona ne podnose podatke o prenosima sopstvenih dobara ni o transkcijama koje se tretiraju kao sticanja unutra Unije, u skladu sa članom 22 st. 3, 4 i 5 ovog zakona, koje se odnose na iste proizvode.

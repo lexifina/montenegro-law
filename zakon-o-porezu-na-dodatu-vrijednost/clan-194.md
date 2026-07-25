@@ -1,0 +1,8 @@
+# Član 194
+## Posebni postupak za prenos sopstvenih dobara
+(1) U skladu sa čl. 195 do 201 ovog zakona pojedini pojmovi imaju sljedeće značenje:
+1) „prenos sopstvenih dobara“ znači prenos dobara u drugu državu članicu u skladu sa članom 19 stav 1 ovog zakona i ne uključuje prenose dobara za koje u toj državi članici ne postoji puno pravo na odbitak PDV,
+2) „država članica registracije“ označava državu članicu na čijoj teritoriji poreski obveznik ima sjedište ili, ako poreski obveznik nema sjedište u Uniji, država članica u kojoj poreski obveznik ima stalnu poslovnu jedinicu.
+(2) Za potrebe stava 1 tačka 2 ovog člana, ako poreski obveznik nema sjedište u Uniji, ali u njoj ima više od jedne stalne poslovne jedinice, država članica registracije je država članica sa stalnom poslovnom jedinicom u kojoj taj poreski obveznik donese odluku da će se koristiti ovim posebnim postupkom. Ta odluka je obvezujuća za poreskog obveznika u tekućoj kalendarskoj godini i naredne dvije kalendarske godine.
+(3) Ako poreski obveznik nema sjedište ni stalnu poslovnu jedinicu u Uniji, država članica registracije je država članica u kojoj počinje otprema ili prevoz dobara. Ako postoji više od jedne države članice u kojoj počinje otprema ili prevoz dobara, poreski obveznik navodi koja je od tih država članica država članica registracije. Ta odluka obvezujuća je za poreskog obveznika u tekućoj kalendarskoj godini i naredne dvije kalendarske godine.
+(4) Izuzetno od stava 1 tačka 2 i stava 2 ovog člana, država članica registracije za ovaj posebni postupak ista je kao i za posebni postupak iz čl. 174 do 181 ovog zakona ako je poreski obveznik registrovan za taj posebni postupak.

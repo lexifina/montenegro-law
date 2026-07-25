@@ -1,0 +1,7 @@
+# Član 147
+## Tromjesečni izvještaj
+(1) Poreski obveznik, koji primjenjuje oslobođenje iz člana 145 stava 1 ovog zakona u državi članici u kojoj nema sjedište, prebivalište ili uobičajeno boravište u skladu sa postupkom iz člana 145 stav 5 do 8 ovog zakona, za svako kalendarsko tromjesečje državi članici sjedišta, prebivališta ili uobičajenog boravišta podnosi sljedeće informacije, uključujući individualni identifikacioni broj iz člana 145 stava 5 tačka 2 ovog zakona:
+1) ukupnu vrijednost isporuka obavljenih tokom kalendarskog tromjesečja u državi članici sjedišta, prebivališta ili uobičajenog boravišta ili „0” u slučaju da nije bilo isporuka,
+2) ukupnu vrijednost isporuka obavljenih tokom kalendarskog tromjesečja u svakoj državi članici koja nije država članica sjedišta, prebivališta ili uobičajenog boravišta ili „0” u slučaju da nije bilo isporuka.
+(2) Poreski obveznik informacije iz stava 1 ovog člana dostavlja u roku od jednog mjeseca od završetka kalendarskog tromjesečja.
+(3) Ako pređe prag godišnjeg prometa u Uniji iz člana 145 stav 2 tačka 1 ovog zakona, poreski obveznik o tome obavještava državu članicu sjedišta, prebivališta ili uobičajenog boravišta u roku od 15 radnih dana, a istovremeno poreski obveznik mora prijaviti vrijednost isporuka iz stava 1 ovog člana koje su izvršene od početka tekućeg kalendarskog tromjesečja do datuma prelaska praga godišnjeg prometa u Uniji.

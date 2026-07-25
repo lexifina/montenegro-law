@@ -1,0 +1,9 @@
+# Član 117
+## Registracija za PDV i PDV broj
+(1) Svako lice je dužno nadležnom poreskom organu prijaviti početak, promjenu ili prestanak svoje djelatnosti kao poreskog obveznika, odnosno dužno je izvršiti registraciju za PDV ako izvrši promet dobara i usluga veći od 30.000,00 eura.
+(2) Ako se poreski obveznik ne prijavi u registar za PDV, i ako je promet dobara i usluga veći od iznosa iz stava 1 ovog zakona, poreski organ će izvršiti registraciju po službenoj dužnosti.
+(3) Poreski obveznik koji obavlja transakcije unutar Unije obvezan je od nadležnog poreskog organa zatražiti izdavanje PDV broja na propisnom obrascu.
+(4) Prijava za registraciju podnosi se elektronskim putem, a poreski organ donosi rješenje o upisu u registar za PDV.
+(5) Obveza podnošenja zahtjeva za izdavanje PDV broja ne odnosi se na poreske obveznike iz člana 12 stav 5 ovog zakona, male poreske obveznike iz člana 145 ovog zakona te poreske obveznike koji obavljaju isključivo transkcije oslobođene plaćanja PDV bez prava na odbitak ulaznog poreza.
+(6) Izuzetno od stava 1 ovog člana, svaki poreski obveznik ili pravno lice koja nije poreski obveznik, a koji stiče proizvode unutar Unije koja u skladu s članom 10 stav 1 tač. 1 i 2 ovog zakona nijesu predmet oporezivanja PDV obavezan je nadležnom poreskom organu prijaviti obavljanje takvih sticanja kada ona postanu predmet oporezivanja PDV i nadležnoj ispostavi nadležnog poreskog organa podnijeti zahtjev za izdavanje PDV broja.
+(7) Izuzetno od stava 4 ovog člana, svaki poreski obveznik koji ima sjedište, stalnu poslovnu jedinicu, prebivalište ili uobičajeno boravište u Crnoj Gori i koji pruža usluge na teritoriji druge države članice za koje je primalac usluga u drugoj državi članici obvezan platiti PDV prema članu 196 Direktive Vijeća 2006/112/EZ i svaki poreski obaveznik primalac usluga iz člana 112 stav 1 tačka 3 ovog zakona obvezan je nadležnom poreskom organu podnijeti zahtjev za izdavanje PDV broja.
