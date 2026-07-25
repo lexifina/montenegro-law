@@ -1,0 +1,6 @@
+# Član 49
+## Pojednostavljeni postupak
+(1) Izuzetno od člana 48 ovog zakona, kada se kretanje akciznih proizvoda u režimu odloženog plaćanja akcize u cijelosti odvija na teritoriji Crne Gore, i to između akciznih skladišta istog ovlašćenog imaoca akciznog skladišta, može se odobriti pojednostavljenje postupka, uključujući mogućnost odstupanja od potrebe za ektronskim nadzorom tog kretanja
+(2) Pojednostavljenje postupka, uključujući mogućnost odstupanja od potrebe za elektronskim nadzorom kretanja, može se odobriti i u drugim slučajevima kada se kretanje akciznih proizvoda u režimu odloženog plaćanja akcize u cjelosti odvija na teritoriji Crne Gore.
+(3) Na osnovu sporazuma između Crne Gore i druge države članice Evropske unije može se odobriti pojednostavljenje postupka, uključujući mogućnost odstupanja od elektronskog nadzora kretanja, kada isti pošiljalac često i redovno otprema akcizne proizvode u režimu odloženog plaćanja akcize istom primaocu, uključujući kretanje fiksnim cjevovodima.
+(4) Način sprovođenja pojednostavljenog postupka i prateća dokumentacija, odnosno isprave za kretanje akciznih proizvoda u režimu odloženog plaćanja akcize na teritoriji Crne Gore propisuje Ministarstvo.

@@ -1,0 +1,16 @@
+# Član 59
+## Kretanje između država članica akciznih proizvoda stavljenih u promet u komercijalne svrhe
+(1) Kretanje akciznih proizvoda stavljenih u promet na teritoriji jedne države članice Evropske unije i premještenih na teritoriju druge države članice kako bi tamo bili dostavljeni u komercijalne svrhe dozvoljeno je samo uz primjenu e-PPAD-a u informacionom sistemu iz člana 48 ovog zakona i isključivo između ovlašćenog pošiljaoca i ovlašćenog primaoca.
+(2) Kretanje akciznih proizvoda iz stava 1 ovog člana započinje kada akcizni proizvodi napuste lokaciju sjedišta ovlašćenog pošiljaoca ili bilo koju drugu lokaciju o kojoj je obaviješten nadležni carinski organ prije početka kretanja u skladu sa članom 25 st.1 i 2 tačka 4, odnosno članom 25 st. 3 i 4 ovog zakona.
+(3) Ovlašćeni pošiljalac podnosi nacrt e-PPAD-a carinskom organu najranije sedam dana prije datuma navedenog u tom dokumentu kao datum otpreme akciznih proizvoda, koristeći informacioni sistem iz člana 48 stav 1 ovog zakona.
+(4) Informacioni sistem carinskog organa obavlja elektronsku provjeru podataka navedenih u nacrtu e-PPAD-a i ako su podaci ispravni, dokumentu dodjeljuje pojednostavljenu jedinstvenu referentnu oznaku i o tome obavještava ovlašćenog pošiljaoca a ako podaci nisu ispravni, informacioni sistem carinskog organa o tome obavještava ovlašćenog pošiljaoca.
+(5) Informacioni sistem carinskog organa prosljeđuje e-PPAD nadležnom organu države članice odredišta koji ga prosljeđuje ovlašćenom primaocu.
+(6) Ovlašćeni pošiljalac je dužan licu koje prati akcizne proizvode ili, ako takvog lica nema, prevozniku dati podatak o pojednostavljenoj jedinstvenoj referentnoj oznaci e-PPAD-a, a koju su tokom kretanja akciznih proizvoda dužni na zahtjev dostaviti na uvid nadležnim organima.
+(7) Ovlašćeni pošiljalac može tokom kretanja, koristeći informacioni sistem, promijeniti odredište u drugo mjesto dostave istog ovlašćenog primaoca u istoj državi članici ili u mjesto otpreme.
+(8) U slučaju iz stava 7 ovog člana ovlašćeni pošiljalac podnosi nacrt elektronskog dokumenta o promjeni odredišta informacionog sistema carinskog organa.
+(9) Kretanje akciznih proizvoda iz stav 1 ovog člana završava kada ovlašćeni primalac primi akcizne proizvode na lokaciji sjedišta ili bilo kojoj drugoj lokaciji o kojoj je obaviješten nadležni carinski organ prije početka kretanja u skladu sa članom 27 ovog zakona.
+(10) Po prijemu akciznih proizvoda ovlašćeni primalac podnosi informacionom sistemu carinskog organa potvrdu o prijemu odmah, a najkasnije petog radnog dana nakon završetka kretanja, osim u posebno opravdanim slučajevima, o čijoj opravdanosti odlučuje carinski organ.
+(11) Informacioni sistem carinskog organa obavlja elektronsku provjeru podataka navedenih u potvrdi o prijemu a ako su podaci ispravni, ovlašćenom primaocu potvrđuje da je potvrda o prijemu evidentirana. Ako podaci nisu ispravni, informacioni sistem carinskog organa o tome obavještava ovlašćenog primaoca.
+(12) Informacioni sistem carinskog organa prosljeđuje potvrđenu potvrdu o prijemu nadležnom organu države članice otpreme koji je prosljeđuje ovlašćenom pošiljaocu.
+(13) Odredbe st. 1 do 12 ovoga člana primjenjuju se i na povremenog ovlašćenog pošiljaoca i povremenog ovlašćenog primaoca.
+Rezervni postupak u slučaju nedostupnosti informacionog sistema.

@@ -1,0 +1,8 @@
+# Član 50
+## Posebnosti kretanja akciznih proizvoda prema oslobođenom korisniku
+(1) Izuzetno od člana 51 ovog zakona, u slučaju iz člana 44 stav 1 tačka 3 ovog zakona kretanje akciznih proizvoda u režimu odloženog plaćanja akcize za namjene iz člana 87 stav 1 i člana 99 stav 1 tač. 4, 5 i 6 ovog zakona dozvoljeno je uz elektronski prateći akcizni dokument iz sistema iz člana 48 opvog zakona0 (u daljem tekstu: e-PAD). (2) Pošiljalac – ovlašćeni držalac akciznog skladišta podnosi nacrt e-PAD carinskom organu koristeći informacioni sistem iz stava 1 ovoga člana najkasnije na dan otpreme, a informacioni sistem carinskog organa vrši elektronsku provjeru podataka u nacrtu e-PAD.
+(3) Pošiljalac – ovlašćeni imalac akciznog skladišta može otkazati e-PAD koristeći informacioni sistem iz stava 1 ovog člana sve dok akcizni proizvodi nijesu napustili akcizno skladište otpreme.
+(4) Štampana verzija e-PAD-a je isprava koja prati pošiljku akciznih proizvoda kojom se dokazuje da se navedene vrste i količine akciznih proizvoda kreću u režimu odloženog plaćanja akcize.
+(5) Primalac – oslobođeni korisnik šalje informacionom sistemu carinskog organa potvrdu o prijemu odmah, a najkasnije petog radnog dana nakon prijema akciznih proizvoda u režimu odloženog plaćanja akcize, osim u posebno opravdanim slučajevima o čijoj opravdanosti odlučuje nadležni organ.
+(6) U slučaju iz člana 44 stav 4 oovg zakona kretanje akciznih proizvoda dokumentuje se drugim ispravama, uz prethodno odobrenje nadležnog carinskog organa.
+(7) Strukturu i sadržaj e-PAD i potvrde o prijemu, postupanje prilikom informacione razmjene podataka i postupanje u slučaju nedostupnosti sistema propisuje Ministarstvo.

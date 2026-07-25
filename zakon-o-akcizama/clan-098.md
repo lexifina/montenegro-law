@@ -1,0 +1,7 @@
+# Član 98
+## Utvrđivanje akcizne osnovice i obračun akcize u posebnim slučajevima
+(1) Akciza za aditive i ekstendere i biogoriva koji su dodati energentima jednaka je akcizi propisanoj za energent kojem su dodati.
+(2) Na svaki proizvod koji se stavlja u promet kao aditiv ili ekstender za energente plaća se akciza koja se plača za energente, a svaki ugljovodonik koji je proizveden iz sirove nafte i koji se stavlja u promet kao gorivo za grijanje podliježe plaćanju akcize po stopi propisanoj za odgovarajući energent.
+(3) Na ostale energente čija visina akcize nije određena u članu 96 ovog zakona te zamjenske energente iz člana 95 ovog zakona akciza se plaća prema namjeni korišćenja i u iznosu propisanom za jednakovrijedno pogonsko gorivo odnosno gorivo za grijanje.
+(4) Jednakovrijedno pogonsko gorivo ili gorivo za grijanje u iz stave 3 ovog člana je pogonsko gorivo ili gorivo za grijanje iz člana 96 ovog zakona s kojim se ostali energenti čija visina akcize nije određena u članu 96 ovog zakona te zamjenski energenti iz člana 95 stav 6 ovog zakona mogu zamijeniti u okviru njihovog korišćenja ili, ako to nije moguće, ono koje mu je od pogonskih goriva ili goriva za grijanje iz člana 96 ovog zakona prema svojim svojstvima i namjeni najbliže.
+(5) Izuzetno od st.1 do 4 ovoga člana, na energente za koje je utvrđeno da su bili predmet nezakonitog postupanja akciza se plaća prema iznosu propisanom za jednakovrijedno pogonsko gorivo, u zavisnosti od vrste energenta koji je bio predmet nezakonitog postupanja, osim ako zakonom nije drukčije propisano.

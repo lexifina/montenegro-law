@@ -1,0 +1,18 @@
+# Član 34
+## Oslobođenja od plaćanja akcize
+(1) Akciza se ne plaća na akcizne proizvode namijenjene:
+1) za službene potrebe diplomatskih i konzularnih predstavništava, posebnih misija akreditovanih u Crnoj Gori pod uslovom reciprociteta osim konzularnih predstavništava koji vode počasni konzuli;
+2) za službene potrebe međunarodnih organizacija, ako je to određeno međunarodnim ugovorom koji se primjenjuje u Crnoj Gori u granicama i pod uslovima utvrđenim međunarodnim konvencijama kojima se osniva ta organizacija ili sporazumima o sjedištu;
+3) za lične potrebe stranog osoblja diplomatskih i konzularnih predstavništava akreditovanih u Crnoj Gori, uključujući članove porodice diplomatskog osoblja koji sa njima žive u zajedničkom domaćinstvu;
+4) za lične potrebe stranog osoblja međunarodnih organizacija, uključujući njihove članove porodice koji sa njima žive u zajedničkom domaćinstvu, ako je to određeno međunarodnim ugovorom koji se primjenjuje u Crnoj Gori u granicama i pod uslovima utvrđenim međunarodnim konvencijama kojima se osniva ta organizacija ili sporazumima o sjedištu;
+5) za potrebe oružanih snaga bilo koje države članice Sjevernoatlantskog saveza različite od države članice u kojoj je nastala obaveza obračuna akcize, i potrebe njihovog pratećeg civilnog osoblja, kao i za snabdijevanje njihovih menzi ili kantina;
+6) za potrebe oružanih snaga bilo koje države članice različite od države članice u kojoj je nastala obaveza obračuna akcize i potrebe njihovog pratećeg civilnog osoblja i za snabdijevanje njihovih menzi ili kantina, kada te snage učestvuju u odbrambenim naporima koji se preduzimaju radi sprovođenja aktivnosti Evropske unije u okviru zajedničke sigurnosne i odbrambene politike;
+7) za potrošnju u skladu sa međunarodnim ugovorom koji je Crna Gora zaključila sa trećom državom ili međunarodnom organizacijom, kojim je predviđeno oslobađanje od plaćanja poreza na dodatu vrijednost.
+(2) Oslobođenje od plaćanja akcize iz stava 1 tač. 3 i 4 ovog člana ne mogu ostvariti državljani Crne Gore, odnosno strani državljani sa uobičajenim boravištem u Crnoj Gori.
+(3) Oslobađanje iz stava 1 ovog člana ostvaruje se na osnovu potvrde organa državne u nadležnog za inostrane poslove, odnosno organa državne u nadležnog za poslove odbrane.
+(4) Ako je u skladu sa međunarodnim ugovorom moguće oslobađanje ostvariti samo na osnovu uzajamnosti, to potvrđuje ministarstvo nadležno za inostrane poslove.
+(5) Kretanje akciznih proizvoda u režimu odloženog plaćanja akcize iz druge države članice primaocu iz stava 1 ovog člana mora biti praćeno elektronskim akciznim dokumentom iz člana 48 ovog zakona i potvrdom o oslobođenju od plaćanja akcize u skladu sa Implementacionom Regulativom Savjeta 282/2011.
+(6) Ako pošiljalac otprema akcizne proizvode iz Crne Gore u drugu državu članicu Evropske unije licima čiji je status prema zakonodavstvu te države članice istovjetan sa statusom lica iz stava 1 ovog člana, može ih otpremiti u režimu odloženog plaćanja akcize samo uz elektronski akcizni dokument iz člana 48 ovog zakona koji izdaje država članica u koju se akcizni proizvodi otpremaju.
+(7) U potvrdi o oslobođenju od plaćanja akcize iz st. 5 i 6 ovog člana navodi se vrsta i količina akciznih proizvoda koje treba dostaviti, njihova vrijednost, identitet primaoca sa pravom na oslobođenje te država članica domaćin koja je potvrdila oslobođenje.
+(8) Akcizni proizvodi koji su oslobođeni od plaćanja akcize prema u skladu sa ovim članom se ne smiju otuđiti, osim ako je na te proizvode plaćena akciza.
+(9) Bliži način ostvarivanja prava za oslobađanje od plaćanja akcize propisuje Ministarstvo.
