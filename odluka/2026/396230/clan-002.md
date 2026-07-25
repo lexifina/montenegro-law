@@ -1,0 +1,2 @@
+# Član 2
+Opština Danilovgrad, kao subjekt raspolaganja poslužnog dobra, daje saglasnost DOO "Crnogorski elektrodistributivni sistem" Podgorica za ustanovljavanje prava stvarne službenosti radi polaganja 10 kV kablovskog voda između MBTS 10/0,4KV "Lalevići" i SM S14 na DV 10KV Slap, preko katastarske parcele evidentirane po "A" dijelu lista nepokretnosti 61, KO Pažići, kao parcela broj 1576, shodno Elaboratu nepotpune eksproprijacije, urađenom od strane "GEOTIN MNE" doo Podgorica, broj 474/2025 od 2. 12. 2025. godine.

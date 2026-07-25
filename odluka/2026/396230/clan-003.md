@@ -1,0 +1,3 @@
+# Član 3
+Na ime naknade za ustanovljenu službenost DOO "Crnogorski elektrodistributivni sistem" Podgorica, kao korisnik povlasnog dobra, dužan je Opštini Danilovgrad uplatiti iznos od 297,00 (dvije stotine devedeset i 00/100) eura, shodno Izvještaju o procjeni vrijednosti zemljišta u Danilovgradu, urađenom od strane Komisije za procjenu vrijednosti nepokretnosti centralne regije Crne Gore, broj 01-012/26-1914 od 30. 3. 2026. godine.
+Naknada iz stava 1 ovog člana uplaćuje se u korist Budžeta Opštine Danilovgrad na žiro račun broj 510-3296121-51 (prihodi opštinskih organa, organizacija i službi) u roku od osam dana od dana zaključenja ugovora kod nadležnog notara.
