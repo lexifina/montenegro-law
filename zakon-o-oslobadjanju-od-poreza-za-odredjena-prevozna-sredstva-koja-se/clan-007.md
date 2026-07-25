@@ -1,0 +1,8 @@
+# Član 7
+## Posebni slučajevi privremenog uvoza privatnih vozila
+(1) Privatno vozilo koje je registrovano u državi članici u kojoj korisnik ima uobičajeno boravište oslobađa se poreza iz člana 1 ovog zakona bez vremenskog ograničenja, ako se redovno koristi za putovanja iz mjesta uobičajenog boravišta u mjesto rada koje se nalazi na teritoriji Crne Gore i obrnuto.
+(2) Student koji ima uobičajeno boravište u drugoj državi članici, a boravi na teritoriji Crne Gore isključivo radi školovanja ili studiranja, ima pravo na oslobađanje od poreza pri privremenom uvozu privatnog vozila registrovanog u državi njegovog uobičajenog boravišta za vrijeme trajanja školovanja ili studiranja.
+(3) Oslobađanje iz st. 1 i 2 ovog člana primjenjuje se isključivo ako se vozilo koristi za lične potrebe korisnika i ako se poštuju uslovi propisani članom 6 stav 1 ovog zakona.
+(4) Prekogranični radnici i studenti podnose prijavu i odjavu iz člana 11 ovog zakona samo jednom.
+(5) Prijava iz stava 4 ovog člana se podnosi 24 sata prije prvog dolaska na rad, odnosno 24 sata prije prvog dana dolaska na studiranje, a odjava u istom roku nakon prestanka rada odnosno studiranja. Uz prijavu će prekogranični radnik podnijeti kopiju ugovora o radu ili ekvivalentnog dokumenta iz kojeg se vidi datum početka (i eventualno i završetka) ugovora o radu, a student će priložiti potvrdu o upisu iz koje se može provjeriti početak i predviđeni kraj studiranja.
+(6) Motorna vozila stranih šefova država i vlada, vozila EU, UN, diplomatska, konzularna vozila, i vozila međunarodnih organizacija registrovana i akreditovana van Crne Gore izuzeta su od primjene ovog zakona, a time i obaveza prijave i odjave iz člana 11 ovog zakona.

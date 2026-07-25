@@ -1,0 +1,8 @@
+# Član 9
+## Određivanje uobičajenog boravišta
+(1) Uobičajeno boravište u smislu ovog zakona je mjesto u kojem lice obično živi, odnosno boravi najmanje 185 dana u svakoj kalendarskoj godini, zbog ličnih ili poslovnih okolnosti ili u slučaju kada lice nema poslovnih veza, zbog ličnih veza koje ukazuju na blisku i trajnu povezanost između tog lica i mjesta u kojem boravi.
+(2) Uobičajenim boravištem lica čije se poslovne veze nalaze u mjestu različitom od njegovih ličnih veza i koje zbog toga boravi u dvije ili više država članica, smatraće se mjesto njegovih ličnih veza, pod uslovom da se to lice tamo redovno vraća.
+(3) Uslov redovnog vraćanja iz stava 2 ovog člana ne zahtijeva se ako lice boravi u drugoj državi članici radi izvršenja zadatka tačno određenog trajanja. Pohađanje univerziteta, škole ili druge obrazovne ustanove ne uzrokuje promjenu uobičajenog boravišta.
+(4) Lice dokazuje mjesto uobičajenog boravišta na bilo koji prikladan način, naročito predočenjem lične karte, pasoša ili drugog važećeg dokumenta.
+(5) Digitalni dokumenti kao EU Digital Identity Wallet (u skladu eIDAS2 Uredbom 2024/1183), vozačke dozvole koje zadovoljavaju ISO 18013-5 standard i drugi dokumenti izdati sa visokim stepenom sigurnosti u zemljama Evropske unije jednakopravni su papirnim dokumentima, a zvanična pisma državnih organa koja sadrže ime i adresu lica uzeće se u obzir u procesu dokazivanja uobičajenog boravišta.
+(6) Ako nadležni organ države privremenog uvoza posumnja u tačnost izjave o uobičajenom boravištu date u skladu sa stavom 4 ovog člana ili ako je to potrebno radi sprovođenja posebnih kontrola, može zahtijevati dostavljanje dodatnih informacija ili dokaza.
