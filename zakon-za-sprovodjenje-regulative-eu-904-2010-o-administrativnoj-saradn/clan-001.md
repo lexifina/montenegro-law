@@ -1,0 +1,2 @@
+# Član 1
+Ovim zakonom uređuju se nadležni organi, izvještavanje, prikupljanje, čuvanje i razmjena informacija, kazne, kao i druga pitanja od značaja za sprovođenje Regulative Savjeta (EU) br. 904/2010 od 7. oktobra 2010. godine o administrativnoj saradnji i suzbijanju prevare u području poreza na dodatu vrijednost (preoblikovana) (SL L 268, 12. 10. 2010, str. 1) (u daljem tekstu: Regulativa (EU) 904/20).
