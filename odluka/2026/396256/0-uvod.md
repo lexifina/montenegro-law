@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 i 33 stav 2 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09, 40/11, 23/25 i 160/25), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22 i 84/22) , člana 35 stav 1 tačka 9 Statuta Opštine Šavnik ("Službeni list CG - Opštinski propisi", broj 31/18), a u vezi sa članom 10 Odluke o davanju u zakup poslovnih prostora (,,Službeni list CG - Opštinski propisi", broj 4/21), Skupština opštine Šavnik, na sjednici održanoj dana 1. 7. 2026. godine, donijela je
+ODLUKU
