@@ -1,0 +1,2 @@
+Na osnovu člana 82 tačka 3 Ustava Crne Gore i člana 18a Zakona o privatizaciji privrede (,,Službeni list RCG'', br. 23/96, 6/99,59/00 i 42/04) i na osnovu Odluke o obrazovanju Komisije za praćenje i kontrolu postupka privatizacije, Skupština Crne Gore 28. saziva, na Osamnaestoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2026. godini, dana 29. jula 2026. godine, donijela je
+O D L U K U O IZBORU JEDNOG ČLANA KOMISIJE ZA PRAĆENJE I KONTROLU POSTUPKA PRIVATIZACIJE
