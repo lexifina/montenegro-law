@@ -1,0 +1,5 @@
+# Član 4
+(1) Naknada za sprovođenje carinskog postupka van radnog vremena carinskog organa, na zahtjev deklaranta, iznosi 20,00 € po angažovanom carinskom službeniku po satu, pri čemu se svaki započeti sat računa kao cijeli sat.
+(2) Naknada za sprovođenje carinskog postupka u prostorijama koje nijesu carinske prostorije, na zahtjev deklaranta, iznosi 20,00 € po angažovanom carinskom službeniku po satu, pri čemu se svaki započeti sat računa kao cijeli sat.
+(3) Naknada za troškove prevoza pri upotrebi službenog prevoznog sredstva carinskog organa iznosi 0,20 € po pređenom kilometru drumske udaljenosti od službenih prostorija carinskog organa do mjesta sprovođenja postupka i nazad, uvećano za troškove koji se plaćaju u prevozu (putarina, korišćenje mosta, korišćenje tunela, prevoz trajektom i drugo).
+(4) Izuzetno od stava 3 ovog člana, ako carinski službenik koristi sredstvo javnog prevoza, iznos naknade u dijelu koji se odnosi na troškove prevoza određuje se u visini troška korišćenja sredstava javnog prevoza.
