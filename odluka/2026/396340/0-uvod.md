@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2, a u vezi sa članom 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 407 stav 1 tačka 1 Zakona o privrednim društvima ("Službeni list CG", br. 90/25, 121/25 i 44/26) a u vezi sa članom 53 stav 1 tačka 2 Statuta opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 24/19, 5/20, 51/22, 55/22 i 15/26), na sjednici Skupštine opštine Tuzi, održanoj 15. 7. 2026. godine, donijela je
+ODLUKU
