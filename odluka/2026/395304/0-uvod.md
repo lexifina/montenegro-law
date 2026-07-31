@@ -1,0 +1,3 @@
+Na osnovu člana 36 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", broj 37/19), člana 26 tačka 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 4/16, 2/18, 66/19 i 140/22) i člana 13 Statuta Društva sa ograničenom odgovornošću za odvodjenje i prečišćavanje otpadnih voda za Opštine Kotor i Tivat ("Službeni list Crne Gore - Opštinski propisi", broj 37/19), Skupština Opštine Kotor na V sjednici održanoj dana 17. 6. 2026. godine, donijela je
+ODLUKU
+o usvajanju Godišnjeg izvještaja o realizaciji godišnjeg programa obavljanja komunalne djelatnosti za 2024. godinu Društva sa ograničenom odgovornošću za odvođenje i prečišćavanje otpadnih voda za opštine Kotor i Tivat
