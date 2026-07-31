@@ -1,0 +1,2 @@
+Na osnovu čl. 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", broj 2/18, 34/19, 38/20, 50/22 i 81/25), čl. 29 stav 2 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11, 23/25 i 160/25), čl. 40 stav 1 tačka 9 Statuta Opštine Pljevlja ("Službeni list CG - Opštinski propisi", broj 46/18), Skupština opštine Pljevlja, na sjednici održanoj dana 9. 7. 2026. godine, donijela je
+ODLUKU
