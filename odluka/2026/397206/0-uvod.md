@@ -1,0 +1,2 @@
+Na osnovu člana 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 19 stav 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 04/16, 2/18, 66/19, 40/22 i 84/24), člana 50 Zakona o upravljanju otpadom ("Službeni list Crne Gore", br. 34/24 i 92/24) i člana 84 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", broj 37/19), predsjednik Opštine Kotor donio je
+ODLUKU
