@@ -1,0 +1,5 @@
+# Član 1
+## o prodaji nepokretnosti u okviru DUP-a "Potrlica" -izmjene i dopune
+Opština Pljevlja prodaje nepokretnosti u državnoj svojini, sa pravom raspolaganja Opštine Pljevlja u okviru DUP-a "Potrlica"-Izmjene i dopune i to:
+- katastarsku parcelu br. 2806/19, po načinu korišćenja građevinska parcela, površine 387,00m2, upisana u listu nepokretnosti 3170 KO Pljevlja, svojina Crna Gora sa pravom raspolaganja Opštine Pljevlja, koja čini urbanističku parcelu broj 394, planirane namjene - stanovanje male gustine, po početnoj minimalnoj cijeni od 45,00€/m2, odnosno po ukupno početnoj minimalnoj cijeni od 17.415,00 eura,
+- katastarsku parcelu br. 2806/20, po načinu korišćenja građevinska parcela, površine 312,00m2 i katastarsku parcelu broj 4816/36, po načinu korišćenja građevinska parcela, površine 152,00m2, upisane u listu nepokretnosti 3170 KO Pljevlja, svojina Crna Gora sa pravom raspolaganja Opštine Pljevlja, koje čine urbanističku parcelu broj 395, planirane namjene - stanovanje male gustine, po početnoj minimalnoj cijeni od 45,00€/m2, odnosno po ukupno početnoj minimalnoj cijeni od 20.880,00 eura.
