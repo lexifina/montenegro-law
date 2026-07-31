@@ -1,0 +1,16 @@
+# Član 2
+Ova odluka stupa na snagu danom donošenja, a objaviće se u "Službenom listu Crne Gore".
+O b r a z l o ž e nj e
+Na osnovu člana 153 Zakona o audiovizuelnim medijskim uslugama, predsjednik Skupštine Crne Gore, pokrenuo je postupak imenovanja jednog člana Savjeta Agencije za audiovizuelne medijske usluge, upućivanjem Javnog poziva za imenovanje jednog člana Savjeta Agencije za audiovizuelne medijske usluge broj 00-32-2/26-255 od 30. marta 2026. godine, koji je objavljen u "Službenom listu Crne Gore", na sajtu Skupštine Crne Gore i u dnevnim novinama "Dan".
+Rok za podnošenje predloga kandidata po Javnom pozivu za imenovanje jednog člana Savjeta Agencije za audiovizuelne medijske usluge istekao je 14. maja 2026. godine. Po Javnom pozivu Odboru je dostavljen predlog Advokatske komore Crne Gore, koja je predložila Andreja Raspopovića za člana Savjeta.
+Zainteresovani članovi Odbora imali su mogućnost da izvrše uvid u original dokumentaciju kandidata i predlagača.
+Odbor je na 80. sjednici održanoj 19. maja 2026. godine konstatovao da je predlog blagovremeno dostavljen i da je potpun.
+Administrativni odbor se upoznao sa Obavještenjem Agencije za sprječavanje korupcije broj 00- 63-14/26-88/4 od 11. maja 2026. godine, da se u informacionom sistemu Agencije ne nalaze podaci da je kandidat Andrej u posljednje četiri godine bio razrješavan zbog kršenja odredbi Zakona o sprečavanju korupcije. Članovi Odbora su se takođe upoznali sa uvjerenjem Ministarstva pravde od 5. maja 2026. godine, u kojem je navedeno da u kaznenoj evidenciji ne postoje podaci o osuđivanosti predloženog kandidata.
+Odbor je na 80. sjednici održanoj 19. maja 2026. godine, utvrdio Listu blagovremenih i potpunih predloga kandidata za jednog člana Savjeta Agencije za audiovizuelne medijske usluge, i to:
+- Andrej Raspopović - kandidat Advokatske komore Crne Gore.
+Saglasno Zakonu o audiovizuelnim medijskim uslugama, Odbor je listu objavio u "Službenom listu Crne Gore", na web sajtu Skupštine Crne Gore i u dnevnom listu "DAN".
+Na nastavku 82. sjednice, održane 9. juna 2026. godine, Odbor je jednoglasno (glasalo je sedam poslanika-sedam ZA-mr Jelena Nedović, predsjednica Odbora, Vasilije Čarapić, Velimir Đoković, Duško Stjepović, Bogdan Božović, članovi Odbora i Vladimir Dobričanin, zamjena člana Odbora Ilira Çapunija i Artan Çobi, zamjena člana Odbora Nikolle Camaja) utvrdio Predlog liste kandidata za imenovanje jednog člana Savjeta Agencije za audiovizuelne medijske usluge, po ovlašćenom predlagaču, i to Andrej Raspopović, kandidat Advokatske komore Crne Gore.
+Skupština Crne Gore je razmotrila i prihvatila Predlog liste kandidata za imenovanje jednog člana Savjeta Agencije za audiovizuelne medijske usiuge, broj 00-74/26-25 od 10. juna 2026. godine i saglasno svojim ovlašćenjima iz člana 158 Zakona o audiovizuelnim medijskim uslugama jednoglasno donijela Odluku o imenovanju jednog člana Savjeta Agencije za audiovizuelne medijske usluge.
+Na osnovu člana 158 stav 3 Zakona o audiovizuelnim medijskim uslugama ova odluka sa obrazloženjem objavljuje se u "Službenom listu Crne Gore" i na internet stranici Skupštine Crne Gore.
+Na osnovu člana 147 stav 2 Zakona, protiv ove odluke može se pokrenuti postupak pred nadležnim sudom.
+Na osnovu navedenog odlučeno je kao u izreci ove odluke.
