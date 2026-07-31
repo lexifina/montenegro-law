@@ -1,0 +1,2 @@
+Na osnovu člana 68 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore", broj 20/14, 56/14, 70/17, 4/18, 55/18, 70/21, 27/23, 125/23 i 11/25), člana 40 Zakona o finansiranju lokalne samouprave ("Službeni list Crne Gore", broj 3/19, 86/22, 5/24, 92/25 i 149 /25) i člana 73 stav 1 tačka 8 Statuta Prijestonice ("Službeni list Crne Gore - Opštinski propisi", broj 49/18 i 17/21) Skupština Prijestonice Cetinje, na sjednici od 7 . 7 . i 1 0 . 7 . 2026. godine, donijela je
+ODLUKU
