@@ -1,0 +1,2 @@
+Na osnovu člana 8 stav 6, člana 9 stav 5 i člana 12 stav 3 Zakona o putevima ("Službeni list Crne Gore", br. 82/20, 140/22 i 39/26), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22 i 81/25) i člana 73 stav 1 tačka 2 Statuta Prijestonice ("Sližbeni list Crne Gore - Opštinski propisi", br. 49/18 i 17/21), Skupština Prijestonice Cetinje na sjednici održanoj dana, 7. 7. i 10. 7. 2026. godine, donijela je
+ODLUKU
