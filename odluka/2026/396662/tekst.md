@@ -1,0 +1,7 @@
+Na osnovu člana 36 stav 2 Zakona o koncesijama ("Službeni list CG", br. 8/09, 73/19, 125/23, 82/24 i 82/25) Vlada Crne Gore je, 1. avgusta 2026. godine, bez održavanja sjednice, na osnovu pribavljenih saglasnosti većine članova Vlade, donijela
+ODLUKU
+O PONIŠTAVANJU JAVNOG OGLASA ZA DOSTAVLJANJE PONUDA ZA
+DODJELU UGOVORA O KONCESIJI ZA DETALJNA GEOLOŠKA ISTRAŽIVANJA I EKSPLOATACIJU NEMETALIČNE MINERALNE SIROVINE ARHITEKTONSKO-GRAĐEVINSKOG I TEHNIČKO- GRAĐEVINSKOG KAMENA LOKALITETA "SKRBUŠA", OPŠTINA KOLAŠIN
+1. Poništava se Javni oglas za dostavljanje ponuda za dodjelu ugovora o koncesiji za detaljna geološka istraživanja i eksploataciju nemetalicne mineralne sirovine arhitektonsko-građevinskog i tehničko-građevinskog kamena lokaliteta "Skrbuša", opština Kolašin ("Službeni list CG", broj 53/26, oglasni dio od 1. jula 2026. godine) iz razloga utvrđivanja greške u bitnim elementima tenderske dokumentacije - Koncesionom aktu koja je od bitnog uticaja za realizaciju Ugovora o koncesiji za detaljna geološka istraživanja i eksploataciju nemetalicne mineralne sirovine arhitektonsko-građevinskog i tehničko-građevinskog kamena lokaliteta "Skrbuša", opština Kolašin ("Službeni list CG", broj 53/26, oglasni dio od 1. jula 2026. godine), a čija se izmjena ne smije vršiti u toku trajanja roka za podnošenje ponuda.
+2. Licima koja su otkupila tendersku dokumentaciju biće vraćena sredstva uplaćena za otkup tenderske dokumentacije.
+3. Ova odluka stupa na snagu danom objavljivanja u "Službenom listu Crne Gore".
