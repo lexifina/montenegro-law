@@ -1,0 +1,5 @@
+# Član 7
+## Stupanje na snagu
+Ovaj uredba stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+*U ovu uredbu prenijete su Implementirajuća Regulativa (EU) br. 208/2013 od 11. aprila 2013. o zahtjevima za sljedivošću klica i sjemena namijenjenog proizvodnji klica / Commission Implementing Regulation (EU) No 208/2013 of 11 March 2013 on traceability requirements for sprouts and seeds intended for the production of sprouts
+Implementirajuća Regulativa Komisije (EU) 2020/2235 оd 16. decembra 2020.o utvrđivanju pravila za primjenu Regulative (EU) 2016/429 i (EU) 2017/625 Evropskog parlamenta i Vijeća u pogledu obrazaca certifikata o zdravlju životinja, obrazaca službenih certifikata i obrazaca certifikata o zdravlju životinja/službenih sertifikata za ulazak u Uniju i premještanja unutar Unije pošiljaka određenih kategorija životinja i robe i u pogledu službenog certifikovanja u vezi sa takvim sertifikatima i o stavljanju van snage Uredbe (EZ) br. 599/2004, provedbenih uredbi (EU) br. 636/2014 i (EU) 2019/628, Direktive 98/68/EZ i odluka 2000/572/EZ, 2003/779/EZ i 2007/240/EZ
