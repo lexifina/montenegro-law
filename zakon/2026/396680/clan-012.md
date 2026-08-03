@@ -1,0 +1,4 @@
+# Član 12
+U članu 68 poslije stava 3 dodaju se dva nova stava, koja glase:
+"Nadležni organ za sprovođenje izbora dužan je da biračka mjesta odredi i opremi tako da budu pristupačna osobama sa invaliditetom i da obezbijedi da su na biračkom mjestu dostupna pomoćna sredstva za samostalno glasanje, naročito glasačke šablone za slijepe birače, uvećani štampani materijal, informacije u lako razumljivoj verziji i druga pomoćna sredstva propisana aktom Centralne izborne komisije.
+Ako pristupačnost biračkog mjesta nije moguće obezbijediti, nadležna opštinska izborna komisija dužna je da biračima sa invaliditetom obezbijedi alternativne načine glasanja propisane ovim zakonom, uključujući glasanje na drugom pristupačnom biračkom mjestu, glasanje u prisustvu birača po izboru birača i glasanje van biračkog mjesta."
