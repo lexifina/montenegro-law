@@ -1,0 +1,34 @@
+{
+  "id": 396673,
+  "path": "zakon/2026/396673",
+  "source": "https://www.sluzbenilist.me/propisi/396673",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/396673/download",
+  "title": "Zakon o izmjenama i dopunama Zakona o izgradnji objekata",
+  "issue": "Službeni list Crne Gore, broj 114/2026",
+  "published": "2026-08-03",
+  "in_force": "2026-08-03",
+  "in_force_basis": "Ovaj zakon stupa na snagu danom objavljivanja u „Službenom listu Crne Gore”",
+  "applies": null,
+  "amended_by": [
+    [
+      396673,
+      "Zakon o izmjenama i dopunama Zakona o izgradnji objekata"
+    ]
+  ],
+  "text_status": "as-enacted; amended, not consolidated",
+  "source_sha256": "c0e455b2a7b994e3aa11a1b46d65d7ad1b48998a20ee809934c96fa9bc5d8a31",
+  "articles_in_source": 26,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 7719,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "recovered_after_interruption": true,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "88e10899ab95c0e44b7109c0de9ef04f638c0491261d23b7721260677ddc7d20",
+  "enacted": "2026-07-29",
+  "enacted_basis": "Podgorica, 29. jul 2026"
+}
