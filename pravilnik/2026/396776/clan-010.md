@@ -1,0 +1,3 @@
+# Član 10
+Poziv za raspravu dostavlja se Tužiocu Komore, članu Komore protiv kojeg je podnijet Zahtjev i njegovom braniocu, kao i drugim licima čije prisustvo sudija smatra neophodnim, vodeći računa da vrijeme od dana uručenja poziva za raspravu do dana određenog za raspravu ne može biti manje od 8 dana.
+U pozivu za raspravu sudija će upozoriti člana Komore i njegovog branioca da će se rasprava sprovesti i u njihovom odsustvu ako izostanu sa rasprave, a svoj izostanak ne opravdaju ili ako razlozi koji su navedeni za izostanak nijesu potkrijepljeni dokazima na osnovu kojih se može utvrditi opravdanost izostanka.

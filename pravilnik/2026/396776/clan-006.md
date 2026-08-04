@@ -1,0 +1,3 @@
+# Član 6
+Ukoliko Tužilac Komore prikupi dovoljno činjenica i dokaza za postojanje osnova sumnje o izvršenoj povredi obaveza i dužnosti podnosi Sudu Komore Zahtjev za pokretanje disciplinskog postupka (u daljem tekstu: Zahtjev).
+Zahtjev sadrži: ime, ime jednog roditelja i prezime člana Komore, jedinstveni matični broj, mjesto i datum rođenja, adresu, zvanje, naziv pravnog lica, privrednog društva ili organa kod kojeg je zaposlen, činjenični opis radnje izvršenja povrede obaveze ili dužnosti koja se članu Komore stavlja na teret, mjesto i vrijeme izvršenja, pravnu kvalifikaciju povrede, izjavu člana Komore, ako je data, izjave svjedoka i druge činjenice, okolnosti i dokaze od značaja za utvrđivanje postojanja povrede obaveze ili dužnosti i potpis Tužioca Komore.
