@@ -1,0 +1,3 @@
+# Član 9
+Ova uredba stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+*U ovu uredbu prenijeta je Direktiva 2009/32/EZ Evropskog Parlamenta i Vijeća od 23. marta 2009. o usklađivanju zakonodavstva država članica o ekstrakcionim rastvaračima koji se koriste u proizvodnji hrane i sastojaka hrane sa izmjenama: Direktiva Komisije 2010/59/EU od 26. avgusta 2010. o izmjeni Direktive 2009/32/EZ; Direktiva Komisije (EU) 2016/1855 оd 19. listopada 2016. o izmjeni Direktive 2009/32/EZ i Direktiva Komisije (EU) 2023/175 оd 26. siječnja 2023. o izmjeni Direktive 2009/32/EZ Evropskog parlamenta i Vijeća u pogledu 2-metiloksolana.

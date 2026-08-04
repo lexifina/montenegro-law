@@ -1,0 +1,2 @@
+# Član 6
+Ako Uprava utvrdi da bi korišćenje u hrani bilo koje supstance iz Priloga 1 ili količina jedne ili više komponenti iz člana 5 ove uredbe sadržanih u takvim supstancama mogla ugroziti zdravlje ljudi, iako ispunjava uslove propisane ovom uredbom, može propisati privremene mjere kojima se zabranjuje stavljanje na tržište te hrane i o tome odmah obavještava druge države članice i Evropsku komisiju i navodi razloge za svoju odluku.
