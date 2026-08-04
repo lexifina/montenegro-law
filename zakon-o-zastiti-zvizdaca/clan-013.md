@@ -1,0 +1,5 @@
+# Član 13
+## Zaštita podataka
+Lice, odnosno organizaciona jedinica iz člana 16 st. 1 i 2 ovog zakona, Agencija, nadležni organ iz člana 18 stav 16 ovog zakona, zviždačev pomagač, povezano lice sa zviždačem i drugo lice koje učestvuje u postupku po prijavi dužno je da štiti podatke koje sazna iz prijave i ne smije ih koristiti ili otkrivati u druge svrhe osim one koja je potrebna za dalje postupanje po toj prijavi.
+Ako prijava sadrži tajne podatke, podatke koji predstavljaju informacije dobijene prilikom pružanja pravne pomoći, informacije dobijene u okviru pružanja medicinske pomoći, podatke koji se odnose na tajnost zasijedanja sudskih vijeća, kao i tajne podatke u skladu sa pravilima krivičnog postupka, sa tim podacima i informacijama postupaće se u skladu sa zakonima kojima se uređuju tajnost podataka, poslovna tajna u odgovarajućoj djelatnosti i krivični postupak.
+Svaka obrada ličnih podataka u skladu sa ovim zakonom, uključujući razmjenu ili prenos ličnih podataka nadležnim organima iz člana 18 stav 16 ovog zakona, vrši se u skladu sa zakonom kojim se uređuje zaštita podataka o ličnosti i relevantnim zakonodavstvom Evropske unije.
