@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuju se: uslovi koje treba da ispunjavaju čamci i lica koje upravljaju čamcem i uslovi za plovidbu čamaca, način vođenja i sadržaj upisnika čamaca, obrazac upisnika i zahtjeva za upis čamca u upisnik čamaca za upis promjena ili za brisanje čamca iz upisnika, uslovi za upis čamca u upisnik čamaca u pogledu starosti čamca, način utvrđivanja oznake i imena čamaca, područja plovidbe i zakup čamca i obrazac dozvole za plovidbu čamca i obrazac prijave pomorske nezgode.
