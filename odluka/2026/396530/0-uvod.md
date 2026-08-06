@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tačka 3 i člana 91 stav 1 Ustava Crne Gore, Skupština Crne Gore 28. saziva, na Četrnaestoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2026. godini, dana 23. jula 2026. godine, donijela je
+ODLUKU O OTVARANJU PARLAMENTARNE ISTRAGE I OBRAZOVANJU ANKETNOG ODBORA RADI PRIKUPLJANJA INFORMACIJA I ČINJENICA O POSTUPANJU DRŽAVNIH ORGANA U VEZI SA ŽELJEZNIČKOM NESREĆOM NA BIOČU
