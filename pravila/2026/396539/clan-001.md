@@ -1,0 +1,3 @@
+# Član 1
+Pravilima o načinu prijavljivanja postupanja suprotno odredbama Zakona o tržištu kapitala (u daljem tekstu: Pravila) bliže se uređuju postupci iz člana 28 stav 1 Zakona o tržištu kapitala (u daljem tekstu: Zakon) a koji se tiču utvrđivanja i obezbjeđenja sprovođenja postupka za prijem prijava, uspostavljanje sigurnih sredstava komunikacije za prijem prijava, zaštitu od diskriminacije lica koje prijavi postupanje suprotno ovom zakonu i zaštitu identiteta lica koje prijavi postupanje suprotno ovom zakonu
+Ovim Pravilima obezbjeđuje se odgovarajuća zaštita podnosioca prijave u svrhu njegove zaštite od moguće diskiriminacije ili dovođenja u nepovoljan položaj odnosno pozivanja na odgovornost zbog otkrivanja dostavljenih podataka.
