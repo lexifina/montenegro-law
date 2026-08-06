@@ -1,0 +1,2 @@
+Na osnovu člana 57 Zakona o visokom obrazovanju ("Službeni list CG", br.122/25 i 59/26), na predlog Upravnog odbora Fakulteta za crnogorski jezik i književnost, broj 03-02-398/052026 od 29. maja 2026. godine, Vlada Crne Gore, na sjednici od 23. jula 2026. godine, donijela je
+ODLUKU O BROJU STUDENATA ZA UPIS U PRVU GODINU MASTER STUDIJA NA FAKULTETU ZA CRNOGORSKI JEZIK I KNJIŽEVNOST ZA STUDIJSKU 2026/2027. GODINU KOJI SE FINANSIRAJU IZ BUDŽETA CRNE GORE
