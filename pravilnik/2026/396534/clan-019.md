@@ -1,0 +1,5 @@
+# Član 19
+## Kašnjenje tokom prevoza
+(1) Nadležni organ preduzima odgovarajuće mjere kako bi spriječio ili minimizovao svako kašnjenje tokom prevoza ili patnju životinja kada nepredviđene okolnosti onemogućavaju primjenu ovog pravilnika u slučaju prevoza životinja koje su u vlasništvu sopstvenim prevoznim sredstvima koji obavljaju poljoprivrednici na udaljenosti manjoj od 50 km od svog poljoprivrednog gazdinstva.
+(2) Nadležni organ obezbjeđuje da se na mjestu pretovara, izlaznim tačkama i graničnim inspekcijskim punktovima primenjuju posebne mjere kako bi se obezbijedilo da se prevozu životinja daje prednost u odnosu na druge pošiljke u slučaju prevoza životinja koje su u vlasništvu sopstvenim prevoznim sredstvima koji obavljaju poljoprivrednici na udaljenosti manjoj od 50 km od svog poljoprivrednog gazdinstva.
+(3) Obaveze dostavljanja godišnjeg izvještaja Evropskoj Komisiji je do 31. avgusta svake godine za prethodnu godinu o kontrolama koje je sprovelo nadležno tijelo u svrhu provjere usklađenosti sa zahtjevima ovog pravilnika pri čemu je izvještaj praćen analizom najvećih otkrivenih nedostataka i planom za njihovo rješavanje.

@@ -1,0 +1,6 @@
+# Član 14
+## Izdavanje ovlašćenja od strane nadležnog organa
+(1) Nadležni organ može ograničiti obim ovlašćenja predviđenog članom 11 stav 1 ovog pravilnika ili, za duga putovanja, članom 12 stav 1 ovog pravilnika, u skladu sa kriterijumima koji se mogu provjeriti tokom prevoza.
+(2) Nadležni organ izdaje svako ovlašćenje predviđeno članom 11 stav 1 ovog pravilnika ili, za duga putovanja, članom 12 stav 1 sa jedinstvenim brojem u državi članici, a ovlašćenje se izdaje na službenom jeziku/jezicima države članice koja ga izdaje i na engleskom jeziku kada se pretpostavlja da će prevoznik poslovati u drugoj državi članici.
+(3) Nadležni organ obilježava ovlašćenje navedeno u članu 11 stav 1 ovog pravilnika ili članu 12 stav 1 ovog pravilnika na način koji omogućava nadležnom organu da brzo identifikuje prevoznika, posebno u slučaju nepoštovanja odredbi ovog pravilnika.
+(4) Nadležni organ vodi evidenciju o ovlašćenjima izdatim u skladu sa članom 12 stav 1 ovog pravilnika u elektronskoj bazi podataka, a ime prevoznika i broj ovlašćenja su javno dostupni sve dok je ovlašćenje važeće u skladu sa propisima Evropske unije ili propisima o zaštiti ličnih podataka, javni pristup drugim podacima koji se odnose na ovlašćenja za obavljanje transportnih aktivnosti odobravaju države članice.
