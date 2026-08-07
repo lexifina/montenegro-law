@@ -1,0 +1,3 @@
+# Član 14
+## Saradnja sa socijalnim partnerima i civilnim društvom
+U cilju unapređenja rodne ravnopravnosti i sprečavanja i suzbijanja diskriminacije po nekom od osnova iz člana 1 ovog zakona, organi sarađuju sa sindikalnim i drugim organizacijama, udruženjima, nevladinim organizacijama, ustanovama, institucijama i pravnim licima koja se bave promocijom rodne ravnopravnosti, zaštitom ljudskih prava i sloboda, borbom protiv diskriminacije i zaštitom grupa kod kojih postoji rizik od diskriminacije, kao i sa subjektima koji pružaju pravnu, psihološku, socijalnu ili drugu podršku licima izloženim diskriminaciji.

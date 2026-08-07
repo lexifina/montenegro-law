@@ -1,0 +1,11 @@
+# Član 7
+## Pojam diskriminacije
+U javnom i privatnom sektoru obezbjeđuje se jednako postupanje prema ženama i muškarcima.
+Zabranjena je svaka neposredna i posredna diskriminacija po osnovu pola i/ili polnih karakteristika, roda ili rodnog identiteta, rodnog izražavanja i seksualne orijentacije.
+Diskriminacijom se smatra svako nepovoljno postupanje lica ili grupe lica prema licu ili grupi lica u odnosu na druga lica ili grupe lica zbog postojanja, odnosno pretpostavke postojanja bilo kojeg osnova iz člana 1 ovog zakona.
+Diskriminacijom se smatra i stavljanje lica u nepovoljniji položaj po osnovu ličnog svojstva srodnika ili drugog lica sa kojim je u ličnom odnosu ili sa njim povezanog lica, kao i u slučaju povezanosti sa drugim licem kad lični odnos ne postoji, ako je takvo svojstvo osnov diskriminacije iz člana 1 ovog zakona.
+Diskriminacijom se smatra svako postupanje kojim se žena zbog trudnoće, porođaja, majčinstva ili korišćenja prava na porodiljsko odsustvo ili drugo lice zbog korišćenja roditeljskog ili usvojiteljskog odsustva, kao i drugo lice zbog promjene pola, dovode u nepovoljniji položaj u odnosu na druga lica, prilikom zapošljavanja, samozapošljavanja, ostvarivanja prava po osnovu socijalne zaštite i drugih prava.
+Diskriminacijom se smatraju i uznemiravanje, seksualno uznemiravanje, davanje naloga za diskriminaciju, kao i viktimizacija lica koje prijavi diskriminaciju ili učestvuje u postupku zaštite od diskriminacije i zabranjeni su.
+Odbijanje ili prihvatanje uznemiravanja ili seksualnog uznemiravanja ne može predstavljati osnov za donošenje odluke koja utiče na prava, obaveze ili položaj lica prema kojem je takvo ponašanje usmjereno.
+Ne smatra se diskriminacijom različito postupanje zasnovano na polu, polnim karakteristikama, rodu ili rodnom identitetu kada određeno svojstvo predstavlja stvarni i odlučujući profesionalni zahtjev zbog prirode posla ili uslova u kojima se posao obavlja, pod uslovom da je cilj koji se time želi postići legitiman, a zahtjev srazmjeran i neophodan.
+Odredbe opštih i pojedinačnih akata organa i drugih subjekata, uključujući sporazume, pravilnike, odluke i druge akte, kojima se utvrđuje manji obim zaštite ili nepovoljnije postupanje suprotno načelu jednakog postupanja žena i muškaraca u oblastima na koje se primjenjuje ovaj zakon, ne proizvode pravno dejstvo, u skladu sa zakonom.

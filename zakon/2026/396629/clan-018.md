@@ -1,0 +1,3 @@
+# Član 18
+## Obaveza upotrebe rodno osjetljivog jezika
+Organi, drugi subjekti, sredstva javnog informisanja i drugi pružaoci medijskih usluga dužni su da u svom radu koriste rodno osjetljiv jezik i da u aktima o zasnivanju radnog odnosa, odnosno ugovoru o radu, aktima o izboru, imenovanju, odnosno postavljenju, kao i u aktima o izboru u akademska zvanja, aktima o raspoređivanju i drugim aktima kojima se odlučuje o pravima i obavezama zaposlenih i drugim javnim ispravama i evidencijama, sve nazive radnih mjesta, zanimanja, zvanja i funkcija izražavaju u prirodnom rodu (muškom ili ženskom) lica na koje se ovi akti odnose.

@@ -1,0 +1,5 @@
+# Član 8
+## Neposredna i posredna diskriminacija
+Neposredna diskriminacija, u smislu ovog zakona, postoji kad se prema licu ili grupi lica, u istoj ili uporedivoj situaciji, u odnosu na drugo lice ili grupu lica, nepovoljnije postupa, postupalo se ili bi se postupalo nepovoljnije, aktom, radnjom ili nečinjenjem, po nekom od osnova iz člana 1 ovog zakona.
+Posredna diskriminacija, u smislu ovog zakona, postoji kada prividno neutralna odredba zakona, drugog propisa ili drugog akta, kriterijum ili praksa stavlja ili bi mogla staviti lice ili grupu lica u nepovoljniji položaj u odnosu na druga lica ili grupu lica, po nekom od osnova iz člana 1 ovog zakona, osim ako je ta odredba, kriterijum ili praksa objektivno i razumno opravdana zakonitim ciljem, a sredstva za ostvarivanje tog cilja su primjerena i neophodna.
+Postojanje diskriminacije, u smislu ovog zakona, cijeni se naročito u odnosu na pristup zapošljavanju, uslove rada i napredovanja, stručnu obuku i usavršavanje, zaradu i druga primanja, kao i profesionalne sisteme socijalnog osiguranja.

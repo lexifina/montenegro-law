@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim zakonom uređuju se zaštita i unapređenje jednakosti radi stvaranja uslova za ostvarivanje rodne ravnopravnosti i obezbjeđenja jednakog tretmana i jednakih mogućnosti za sva lica, bez obzira na pol i/ili polne karakteristike, rod ili rodni identitet, rodno izražavanje i seksualnu orijentaciju, zdravstveno stanje, invalidnost, starosnu dob, imovno stanje, zaposlenje, zanimanje, rad, bračno ili porodično stanje, životno partnerstvo, jezik, vjeru ili uvjerenje, političko ili drugo mišljenje, kao i zaštita od diskriminacije koja je učinjena prema istom licu ili grupi lica po više osnova koji međusobno djeluju u isto vrijeme i na način da se ne mogu razdvojiti u svim oblastima javnog i privatnog života.
