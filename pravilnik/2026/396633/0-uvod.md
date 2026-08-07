@@ -1,0 +1,6 @@
+Na osnovu člana 154 stav 10 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list CG", br. 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/21, 145/21, 3/23, 48/24, 84/24, 33/25, 122/25, 160/25, 33/26, 52/26 i 104/26), Ministarstvo socijalnog staranja, brige o porodici i demografije donijelo je
+P R A V I L N I K
+O KRITERIJUMIMA ZA FINANSIRANJE USLUGA PODRŠKE ZA ŽIVOT U ZAJEDNICI I
+SAVJETODAVNIH USLUGA, DINAMICI PRENOSA SREDSTAVA I SADRŽINI
+GODIŠNJEG PLANA USLUGA PODRŠKE ZA ŽIVOT U ZAJEDNICI I SAVJETODAVNIH
+USLUGA
