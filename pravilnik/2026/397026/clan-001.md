@@ -1,0 +1,2 @@
+# Član 1
+U Pravilniku o bližim uslovima koje mora da ispunjava privredno društvo ili preduzetnik za obavljanje poslova premještanja vozila i načinu premještanja i čuvanja vozila ("Službeni list CG", br. 22/13 i 82/20) u članu 4 stav 1, čl. 5 i 6 i članu 7 stav 1 al. 8 i 16 riječi: "komunalni inspektor" u različitom padežu zamjenjuju se riječima: "ovlašćeno službeno lice nadležnog organa opštine kojoj je, u skladu sa zakonom, povjereno vršenje poslova premiještanja vozila" u odgovarajućem padežu.

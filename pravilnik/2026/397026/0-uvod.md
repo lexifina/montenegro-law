@@ -1,0 +1,2 @@
+Na osnovu člana 295 stav 6 Zakona o bezbjednosti saobraćaja na putevima ("Službeni list CG", br. 33/12, 58/14, 14/17, 66/19 i 111/26), Ministarstvo unutrašnjih poslova donijelo je
+PRAVILNIK O IZMJENAMA PRAVILNIKA O BLIŽIM USLOVIMA KOJE MORA DA ISPUNJAVA PRIVREDNO DRUŠTVO ILI PREDUZETNIK ZA OBAVLJANJE POSLOVA PREMJEŠTANJA VOZILA I NAČINU PREMJEŠTANJA I ČUVANJA VOZILA
