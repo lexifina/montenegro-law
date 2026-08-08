@@ -1,0 +1,29 @@
+{
+  "id": 396955,
+  "path": "zakon/2026/396955",
+  "source": "https://www.sluzbenilist.me/propisi/396955",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/396955/download",
+  "title": "Zakon o izmjenama i dopunama Zakona o sprečavanju korupcije",
+  "issue": "Službeni list Crne Gore, broj 117/2026",
+  "published": "2026-08-07",
+  "in_force": "2026-08-08",
+  "in_force_basis": "Ovaj zakon stupa na snagu narednog dana od dana objavljivanja u „Službenom listu Crne Gore”",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "e7cde718ec5b3feec6e5c6928039d2b3750831e4e2cda741a2bfe8e0a8ca7304",
+  "articles_in_source": 63,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 30688,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "recovered_after_interruption": true,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "239e13fe1d2e5b06650ed9b218b4e7603dc7c620dc91216b4a8b5df2fe7bef70",
+  "enacted": "2026-07-31",
+  "enacted_basis": "Podgorica, 31. jul 2026"
+}
