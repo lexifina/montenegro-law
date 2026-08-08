@@ -1,0 +1,3 @@
+# Član 19
+## Upotreba prehrambenih aditiva u hrani za odojčad i malu djecu
+Prehrambeni aditivi ne smiju se koristiti u hrani za odojčad i malu djecu, kao ni u hrani za posebne medicinske potrebe i zamjeni za cjelodnevnu ishranu pri redukcijskoj dijeti, uključujući dijetetsku hranu za odojčad i malu djecu za posebne medicinske namjene, utvrđene posebnim propisom o hrani za odojčad i malu djecu, hrani za posebne medicinske potrebe i zamjeni za cjelodnevnu ishranu pri redukcijskoj dijeti, osim kada je takva upotreba predviđena posebnim propisom o genetički modifikovanoj hrani i hrani za životinje.
