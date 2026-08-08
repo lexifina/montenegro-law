@@ -1,0 +1,3 @@
+# Član 16
+(1) Subjekat u poslovanju hranom koji proizvodi ili stavlja na tržište aromatične supstance, ili njegov ovlašćeni zastupnik, dužan je da, na zahtjev organa uprave nadležanog za bezbjednost hrane, hrane za životinje i predmeta i materijala koji su namijenjeni da dolaze u kontakt sa hranom dostavi podatke o količini supstance dodate u hrani (prehrambenim proizvodima).
+(2) Subjekat u poslovanju hranom koji proizvodi ili stavlja na tržište arome i/ili izvorne sirovine odmah informiše nadležni organ o svim novim naučnim i tehničkim informacijama koje su mu poznate i dostupne, a koje bi mogle uticati na procjenu bezbjednosti aromatične supstance.
