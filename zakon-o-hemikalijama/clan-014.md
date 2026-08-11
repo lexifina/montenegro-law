@@ -1,0 +1,9 @@
+# Član 14
+## Označavanje
+Ambalaža u koju je upakovana supstanca ili smješa koja je klasifikovana kao opasna mora biti označena oznakom opasnosti sa pisanim upozorenjima.
+Upozorenje iz stava 1 ovog člana mora biti ispisano jasno i vidljivo na crnogorskom jeziku.
+Dobavljači mogu na etiketi koristiti i druge jezike, kao i dodatne oblike pristupačnog označavanja, uključujući Brajevo pismo, pod uslovom da su ti podaci identični sa upozorenjem iz stava 1 ovog člana i da se njihovim isticanjem ne umanjuje jasnoća, vidljivost i čitljivost obaveznih elemenata označavanja na crnogorskom jeziku.
+Dobavljač opasne hemikalije i smješe koja nije opasna, ali sadrži barem jednu supstancu koja je klasifikovana kao opasna, dužan je da na oznaci unese dopunska obavještenja o opasnim svojstvima i mjerama opreza na način da se njeni korisnici ne dovode u zabludu o opasnim svojstvima hemikalije.
+U slučaju izmjene u pogledu klasifikacije ili označavanja supstance ili smješe kojom se dodaje nova klasa opasnosti, određuje viša klasa opasnosti ili zahtijevaju nove dopunske informacije na etiketi, dobavljač te supstance ili smješe dužan je da obezbijedi ažuriranje etikete bez nepotrebnog odlaganja, a najkasnije u roku od šest mjeseci od dana kada dobije rezultate nove evaluacije ili kada o njima bude obaviješten.
+Ako je potrebna dodatna promjena u pogledu klasifikacije ili označavanja supstance ili smješe u odnosu na promjene iz stava 5 ovog člana, dobavljač te supstance ili smješe dužan je da obezbijedi ažuriranje etikete bez nepotrebnog odlaganja, a najkasnije u roku od 18 mjeseci od dana kada dobije rezultate nove evaluacije ili kada o njima bude obaviješten.
+Odredbe st. 5 i 6 ovog člana ne primenjuju se kada je promjena u pogledu klasifikacije i označavanja supstance ili smješe uzrokovana usklađenim klasifikovanjem i označavanjem supstance, a u tim slučajevima, dobavljač obezbjeđuje ažuriranje etikete do datuma koji je utvrđen od strane Evropske unije.
