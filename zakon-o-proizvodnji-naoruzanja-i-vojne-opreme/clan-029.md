@@ -1,0 +1,10 @@
+# Član 29
+## Industrijska bezbjednost proizvodnje naoružanja i vojne opreme
+Proizvođač je dužan da sprovodi sistem bezbjednosno-zaštitnih mjera i postupaka industrijske bezbjednosti proizvodnje naoružanja i vojne opreme.
+Industrijska bezbjednost proizvodnje naoružanja i vojne opreme je sistem bezbjednosno-zaštitnih mjera i postupaka kojima se obezbjeđuju organizacioni, tehničko-tehnološki uslovi, zaštita i zdravlje na radu, zaštita i spašavanje lica i imovine od požara, tehničko-tehnoloških nesreća, udesa i ostalih rizika, sprečavanje uništenja ili oštećenja kapaciteta za proizvodnju naoružanja i vojne opreme, sprečavanje nestanka, uništenja, oštećenja, neovlašćenog korišćenja ili otuđenja naoružanja i vojne opreme i tehničke dokumentacije, održavanje objekata, obezbjeđenje prevoza naoružanja i vojne opreme u okviru objekata, zaštitu životne sredine, čuvanje tajnih podataka, angažovanje i/ili formiranje službi zaštite i spašavanja, kao i fizičke i tehničke zaštite u okviru svojih kapaciteta.
+Izuzetno od stava 1 ovog člana, proizvođač je u obavezi da izradi:
+1) plan zaštite od udesa i dostavi saglasnost na isti u skladu sa zakonom kojim se uređuje zaštita životne sredine, u zavisnosti od vrste aktivnosti i procijenjenog rizika;
+2) akt o procjeni rizika u skladu sa propisima o zaštiti i zdravlju na radu, ovjeren od strane pravnog lica ili preduzetnika koje ima ovlašćenje za izradu akta o procjeni rizika, a potpisuje ga i odgovorno lice u pravnom licu.
+Proizvođač je dužan da obavlja stručne poslove zaštite i zdravlja na radu u skladu sa zakonom kojim se uređuje zaštita i zdravlje na radu.
+Proizvođač je dužan da angažuje i/ili formira službu koja bi se bavila poslovima zaštite i spašavanja, kao i fizičke i tehničke zaštite u okviru svojih kapaciteta za proizvodnju naoružanja i vojne opreme za sprovođenje mjera iz stava 1 ovog člana, u skladu sa zakonom kojim se uređuje zaštita lica i imovine.
+U slučaju da proizvođač angažuje službu iz stava 5 ovog člana, ista mora biti licencirana u skladu sa propisima koji regulišu zaštitu lica i imovine.
