@@ -1,0 +1,3 @@
+# Član 11
+## Usaglašavanje poslovanja
+Subjekti u poslovanju hranom koji obavljau djelatnost u objektima iz člana 2 ove uredbe, koji su odobreni i upisani u Registar odobrenih objekata na osnovu Zakona o bezbjednosti hrane ("Službeni list CG", broj 57/15) i Uredbe o uslovima za odstupanje u pogledu izgradnje, uređenja i opremanja objekata koji imaju mali obim proizvodnje, prerade i obrade hrane ("Službeni list CG", broj 21/16) dužni su da u roku od godinu dana od dana stupanja na snagu ove uredbe usaglase svoje poslovanje u skladu sa ovom uredbom i podnesu zahtjev za odobravanje u skladu sa zakonom.
