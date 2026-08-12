@@ -1,0 +1,4 @@
+# Član 1
+Ovim Pravilnikom uređuju se: osnivanje, sastav, način izbora, mandat, nadležnosti, način rada, postupci, obaveze i odgovornosti Komisije za elektronske medije Komore fizioterapeuta Crne Gore (u daljem tekstu: Komisija).
+Takođe, Pravilnikom, Statutom i eventualnim drugim aktima, uređen je i način saradnje Komisije sa organima Komore fizioterapeuta Crne Gore (u daljem tekstu: Komora) i trećim licima, postupanje Komisije u vezi sa javnim nastupima i pojavljivanjem fizioterapeuta u elektronskim medijima, te nadzor nad poštovanjem propisa u vezi sa oglašavanjem, elektronskim medijima, digitalnim platformama i drugim nosiocima oglasne poruke.
+Takođe, ovim Pravilnikom vrši se dopuna disciplinske odgovornosti članova Komore, a posebno nosioca funkcija u okviru Komore, kao i druga pitanja od značaja za rad Komisije.

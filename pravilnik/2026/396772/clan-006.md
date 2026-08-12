@@ -1,0 +1,3 @@
+# Član 6
+U tom kontekstu, zaštita ugleda u elektronskim medijima, obuhvata rad Komore na sprječavanju širenja netačnih, obmanjujućih ili štetnih informacija o fizioterapiji, kao i svih vidova tretmana koji mogu naštetiti pacijentima ili se svrstati pod nadriljekarstvo u širem smislu, reaguje na napade, neosnovane kritike ili diskreditaciju članova Komore, omogući pravovremenu i argumentovanu reakciju Komore u javnom prostoru i kroz svoj rad doprinese izgradnji pozitivnog, profesionalnog i stabilnog imidža fizioterapeutske struke.
+Ovo je posebno važno jer fizioterapeuti obavljaju zdravstvenu djelatnost od javnog interesa, te svaki pogrešan prikaz u medijima može izazvati ozbiljne posljedice po pacijente i ugled profesije.
