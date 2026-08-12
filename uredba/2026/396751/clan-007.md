@@ -1,0 +1,5 @@
+# Član 7
+## Podnosilac zahtjeva
+Podnosilac zahtjeva za domaće i međunarodne koprodukcije u kojima učestvuje više domaćih producenata je producent iz Crne Gore kojem je, uz saglasnost svih koproducenata, izdato punomoćje za podnošenje zahtjeva i za učešće u postupku povraćaja sredstava.
+Zahtjev za povraćaj sredstava za proizvodnju stranog kinematografskog djela, inostrani producent ili koproducenti (u daljem tekstu: nosilac projekta) podnose preko domaćeg producenta kojeg na osnovu ugovora angažuju kao produkcijski servis za to kinematografsko djelo i daju mu punomoćje za podnošenje zahtjeva i za učešće u postupku povraćaja sredstava (u daljem tekstu: ovlašćeni producent).
+U slučaju da je ovlašćeni producent novoosnovano pravno lice, kad to zahtijeva inostrani producent, ugovor iz stava 2 ovog člana sadrži precizno navedene podatke o izmirenim obavezama povezanih pravnih lica u kojima je ovlašćeni producent odgovorno lice ili član organa upravljanja, kao i podatke o prethodnom iskustvu.
