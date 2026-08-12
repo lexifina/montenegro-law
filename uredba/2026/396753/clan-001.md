@@ -1,0 +1,2 @@
+# Član 1
+Radi obezbjeđivanja pravovremenosti, transparentnosti, tačnosti, dosljednosti, uporedivosti i potpunosti informacija o politikama, mjerama i projekcijama emisija gasova sa efektom staklene bašte po izvorima i uklanjanju pomoću ponora ovom uredbom propisuje se uspostavljanje, održavanje i kontinuirano unapređenje sistema politika, mjera i projekcija emisija gasova sa efektom staklene bašte.
