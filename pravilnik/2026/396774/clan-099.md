@@ -1,0 +1,2 @@
+# Član 99
+Posebni izvještaj Skupštini podnosi se kada Nadzorni odbor utvrdi ili osnovano posumnja da postoji teža povreda Statuta, neizvršavanje odluka Skupštine, nezakonito ili nenamjensko raspolaganje sredstvima Komore, prikrivanje, uništavanje ili falsifikovanje dokumentacije, ozbiljan sukob interesa, odbijanje saradnje sa Nadzornim odborom, postupanje koje može dovesti do značajne materijalne ili reputacione štete za Komoru, osnov za razrješenje nosioca funkcije ili osnov za obraćanje nadležnom državnom organu.

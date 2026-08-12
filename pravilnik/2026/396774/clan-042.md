@@ -1,0 +1,3 @@
+# Član 42
+Do izbora predsjednika Nadzornog odbora konstitutivnom sjednicom rukovodi Predsjednik Skupštine ili lice koje on ovlasti. Predsjednik Skupštine je dužan da organizuje izbor za Predsjednika Nadzornog odbora i da garantuje tajnost pri glasanju, nakon čega proglašava pobjednika.
+Nakon izbora Predsjednika Nadzornog odbora, predsjednik Skupštine je dužan da prisustvuje potpisivanju izjave kojim se članovi Nadzornog odbora obavezuju da će poštovati načela utvrđena ovim pravilnikom, a posebno se insistira na povjerljivosti, nepristrasnosti, izbjegavanju sukoba interesa i savjesnom vršenju funkcije.

@@ -1,0 +1,2 @@
+Na osnovu Zakona o zdravstvenoj zaštiti, ("Službeni list Crne Gore", br. 91/2025) i Statuta Komore fizioterapeuta Crne Gore (,,Službeni list Crne Gore", br. 2/2025) i ovlašćenja Skupštine Komore fizioterapeuta Crne Gore, Skupština Komore fizioterapeuta Crne Gore, na sjednici održanoj dana 08.07.2026. godine, donosi
+PRAVILNIK O FORMIRANJU, ORGANIZACIJI I RADU NADZORNOG ODBORA KOMORE FIZIOTERAPEUTA CRNE GORE
