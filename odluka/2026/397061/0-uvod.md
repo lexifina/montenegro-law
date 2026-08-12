@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 Opšteg zakona o obrazovanju i vaspitanju ("Službeni list RCG", br. 64/02, 31/05 i 49/07 i "Službeni list CG", br. 45/10, 45/11, 36/13, 39/13, 47/17, 59/21, 146/21, 3/23, 84/24, 89/25 i 12/26), Vlada Crne Gore je, 7. avgusta 2026. godine, bez održavanja sjednice, na osnovu pribavljenih saglasnosti većine članova Vlade, donijela
+ODLUKU O OSNIVANJU JAVNE PREDŠKOLSKE USTANOVE "KULA MAŠTE", OPŠTINA GUSINJE
