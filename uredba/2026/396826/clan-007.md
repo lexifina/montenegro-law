@@ -1,0 +1,9 @@
+# Član 7
+(1) Označavanje hrane podvrgnute jonizujućem zračenju u slučaju proizvoda namijenjenih krajnjem potrošaču i ugostiteljskim objektima vrši se na sljedeći način:
+1) ako se proizvodi prodaju pojedinačno, riječi "ozračeno" ili "podvrgnuto jonizujućem zračenju" moraju biti navedene na oznaci, a u slučaju proizvoda koji se prodaju u rasutom stanju, te riječi moraju biti navedene uz naziv proizvoda na oznaci ili obavještenju iznad ili na kontejneru u kojem se nalaze proizvodi;
+2) ako se ozračeni proizvod koristi kao sastojak, riječi "ozračeno" ili "podvrgnuto jonizujućem zračenju" prate njegovu oznaku na spisku sastojaka, a u slučaju proizvoda koji se prodaju u rasutom stanju, te riječi moraju biti navedene uz naziv proizvoda na oznaci ili obavještenju iznad ili na kontejneru u kojem se nalaze proizvodi;
+3) riječi "ozračeno" ili "podvrgnuto jonizujućem zračenju" se moraju koristiti za označavanje sastojaka podvrgnutih jonizujućem zračenju koji se koriste u mješavinama sastojaka u hrani, ako su zastupljeni sa najmanje 25 % u gotovom proizvodu.
+(2) Označavanje hrane podvrgnute jonizujućem zračenju u slučaju proizvoda koji nisu namijenjeni krajnjem potrošaču i ugostiteljskim objektima vrši se na sljedeći način:
+1) riječi "ozračeno" ili "podvrgnuto jonizujućem zračenju" moraju da se koriste kako bi se označila hrana podvrgnuta jonizujućem zračenju i sastojci hrane podvrgnuti jonizujućem zračenju sadržani u hrani koja nije podvrgnuta jonizujućem zračenju;
+2) mora se navesti naziv i adresa objekta u kojem je obavljeno ozračavanje, odnosno tretiranje hrane jonizujućim zračenjem ili njegov referentni broj iz člana 8 ove uredbe.
+(3) Podaci o podvrgavanju hrane jonizujućem zračenju moraju se navesti u dokumentima koji prate ili koje se odnose na hranu podvrgnutu jonizujućem zračenju.
