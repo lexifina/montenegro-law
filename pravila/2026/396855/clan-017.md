@@ -1,0 +1,3 @@
+# Član 17
+Član učesnik, koji na datum saldiranja nije uplatio iznos neto novčanog dugovanja na namjenski račun CKDD, tj. za koga je CKDD ispunila novčane obaveze iz sredstava Garantnog fonda, obavezan je vratiti u Garantni fond iznos koji je povučen iz Garantnog fonda, uvećan za iznos novčane naknade predviđene ugovorom.
+Član učesnik je obavezan izvršiti uplatu iz prethodnog stava, najkasnije sljedećeg radnog dana od dana korištenja sredstava Garantnog fonda. Novčana sredstva koja Član učesnik uplati u Garantni fond alociraju se tako što se prvo namiruju novčana sredstva koja su korišćena iz Garantnog fonda. Preostali iznos novčane naknade uplaćuje se u Garantni fond i za taj iznos se podjednako uvećava Osnovna uplata svih Članova učesnika.
