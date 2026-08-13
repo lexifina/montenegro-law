@@ -1,0 +1,5 @@
+# Član 2
+## Primjena
+(1) Ovaj pravilnik se primjenjuje:
+1) u skladu sa opštim načelima utvrđenim posebnim propisom koji uređuje bezbjednost hrane, radi obezbjeđivanja visokog nivoa zaštite potrošača; 2) na proizvode biljnog i životinjskog porijekla ili njihove djelove iz Priloga 1 koji je sastavni dio ovog pravilnika, koji se koriste kao svježa, prerađena i/ili složena hrana ili hrane za životinje, u ili na kojima mogu biti prisutne rezidue pesticida, osim ako su namijenjeni za: a) preradu u proizvode, osim hrane i hrane za životinje; ili b) sjetvu ili sadnju; ili c) aktivnosti u skladu sa posebnim propisom za ispitivanja aktivnih supstanci; 3) bez obzira na posebne propise koji uređuju biocide, nepoželjne supstance u hrane za životinje i granične vrijednosti ostataka farmakološki aktivnih supstanci u prehrambenim proizvodima životinjskog porijekla;
+(2) Ovaj pravilnik ne primjenjuje se na proizvode iz Priloga 1 koji su namijenjeni za izvoz u druge države i koji su tretirani prije izvoza, kada je odgovarajućim dokazima utvrđeno da država odredišta zahtijeva ili prihvata takvo tretiranje radi sprječavanja unošenja štetnih organizama na teritoriju te države.

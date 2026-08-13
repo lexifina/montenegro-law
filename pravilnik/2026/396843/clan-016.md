@@ -1,0 +1,3 @@
+# Član 16
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore".
+* U ovaj pravilnik prenijeta je: Regulativa (EZ) br. 396/2005 Evropskoga Parlamenta i Savjeta od 23. februara 2005. o maksimalnim nivoima rezidua pesticida u i na hrani i hrani za životinje biljnog i životinjskog porijekla kojom se mjenja i dopunjuje Direktiva Savjeta 91/414/EEZ sa svim izmjenama i dopunama do 1. juna 2026. godine/Regulation (EC) No 396/2005 of the European Parliament and of the Council of 23 February 2005 on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive 91/414/EEC
