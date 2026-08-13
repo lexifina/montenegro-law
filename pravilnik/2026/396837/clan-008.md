@@ -1,0 +1,4 @@
+# Član 8
+(1) Standardne operativne procedure treba da sadrže pravila za klasifikaciju robe i procjenu rizika, na osnovu podataka o vrsti robe, tarifnoj oznaci, količini, pakovanju, porijeklu, pošiljaocu, primaocu, prevoznom sredstvu, dokumentaciji i drugim okolnostima od značaja za sprovođenje carinskog nadzora.
+(2) Za robu koja po svojoj prirodi, namjeni, porijeklu, režimu prometa ili pratećoj dokumentaciji može predstavljati povećani rizik, standardne operativne procedure treba da predvidei pojačane mjere kontrole, uključujući dodatnu provjeru dokumentacije, kontrolu identiteta robe, provjeru lokacije skladištenja, ograničenje pristupa i obavještavanje carinskog organa.
+(3) Procjena rizika iz st. 1 i 2 ovog člana vrši se na način koji omogućava razlikovanje najmanje niskog, srednjeg i visokog nivoa rizika i određivanje mjera postupanja za svaki nivo rizika.
