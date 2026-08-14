@@ -1,0 +1,2 @@
+Na osnovu čl. 18 stav 2 Zakona o kulturi ("Službeni list CG", br. 49/08, 16/11 i 38/12), člana 10 Odluke o osnivanju JU Centar za kulturu Žabljak (Odluka broj 01-664 od 10. 5. 1993. godine i "Službeni list CG - Opštinski propisi", br. 35/10, 39/24 i 22/26) i čl. 32 tačka 48 Statuta Opštine Žabljak ("Službeni list CG - Opštinski propisi", broj 27/18), Skupština opštine Žabljak, na sjednici održanoj dana 30. 7. 2026. godine, donijela je
+ODLUKU
