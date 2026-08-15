@@ -1,0 +1,11 @@
+# Član 42
+## Odluka o pokretanju postupka za popunu radnog mjesta
+Odluku o pokretanju postupka za popunu radnog mjesta donosi starješina organa lokalne uprave, rukovodilac stručne službe, rukovodilac posebne službe, sekretar skupštine, odnosno rukovodilac službe predsjednika (u daljem tekstu: starješina organa, odnosno službe) ako:
+1) je radno mjesto utvrđeno aktom o unutrašnjoj organizaciji i sistematizaciji;
+2) radno mjesto nije popunjeno, osim u slučaju iz člana 56 stav 2 ovog zakona, člana 123 stav 1 tačka 1 ovog zakona;
+3) je popuna radnog mjesta predviđena kadrovskim planom iz člana 138 ovog zakona;
+4) je jedinica lokalne lokalne samouprave za to obezbijedila finansijska sredstva.
+U slučaju iz člana 123 stav 1 tačka 1 ovog zakona, odluka o pokretanju postupka za popunu radnog mjesta može se donijeti najkasnije tri mjeseca prije donošenja rješenja o prestanku radnog odnosa.
+Izuzetno, lice iz stava 1 ovog člana može donijeti odluku o pokretanju postupka za popunu radnog mjesta čija popuna nije predviđena kadrovskim planom iz člana 138 ovog zakona, ako je to radno mjesto u toku tekuće kalendarske godine ostalo upražnjeno prestankom radnog odnosa lokalnog službenika, odnosno namještenika u organu, odnosno službi ili ako zbog organizacionih izmjena i/ili neophodnosti popune radnog mjesta pribavi mišljenje glavnog administratora i saglasnost predsjednika jedinice lokalne samouprave.
+Odluka o pokretanju postupka iz stava 3 ovog člana može biti donijeta samo na osnovu prethodne analize koja naročito sadrži podatke, činjenice i razloge kojima se potvrđuje hitnost, neophodnost i opravdanost popunjavanja upražnjenog radnog mjesta koje nije predviđeno kadrovskim planom.
+Odluku o pokretanju postupka za popunu radnog mjesta glavnog administratora, starješine organa lokalne uprave, rukovodica stručne službe, rukovodioca posebne službe, rukovodioca stručne službe predsjednika, zaštitnika imovinsko-pravnih interesa jedinice lokalne samouprave, glavnog gradskog arhitekte i menadžera jedinice lokalne samouprave donosi predsjednik jedinice lokalne samouprave, a za popunu radnog mjesta sekretara skupštine donosi nadležno radno tijelo skupštine, shodnom primjenom st. 1 do 4 ovog člana.

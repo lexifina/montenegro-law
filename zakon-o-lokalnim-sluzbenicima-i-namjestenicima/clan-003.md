@@ -1,0 +1,6 @@
+# Član 3
+## Poslodavac lokalnog službenika i namještenika
+Poslodavac lokalnog službenika, odnosno namještenika je jedinica lokalne samouprave.
+Prava i dužnosti poslodavca u odnosu na lokalne službenike i namještenike u stručnoj službi glavnog administratora vrši glavni administrator, u odnosu na lokalne službenike i namještenike u organu lokalne uprave vrši starješina organa lokalne uprave, u odnosu na lokalne službenike i namještenike u stručnoj službi, posebnoj službi i stručnoj službi predsjednika vrši rukovodilac te službe, a u odnosu na lokalne službenike i namještenike u stručnoj službi skupštine vrši sekretar skupštine.
+Prava i dužnosti poslodavca u odnosu na glavnog administratora, starješine organa lokalne uprave, rukovodioca stručne službe, rukovodioca posebne službe, rukovodioca stručne službe predsjednika, glavnog gradskog arhitektu, zaštitnika imovinsko-pravnih interesa jedinice lokalne samouprave i menadžera jedinice lokalne samouprave u ime jedinice lokalne samouprave vrši gradonačelnik Glavnog grada, gradonačelnik Prijestonice, gradonačelnik grada, odnosno predsjednik opštine (u daljem tekstu: predsjednik jedinice lokalne samouprave).
+Prava i dužnosti poslodavca u odnosu na sekretara skupštine vrši nadležno radno tijelo skupštine jedinice lokalne samouprave (u daljem tekstu: skupština).

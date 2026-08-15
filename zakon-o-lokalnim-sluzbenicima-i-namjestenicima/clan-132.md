@@ -1,0 +1,6 @@
+# Član 132
+## Zaštita lokalnog službenika, odnosno namještenika koji je na raspolaganju
+Lokalni službenik, odnosno namještenik, dok se nalazi na raspolaganju na osnovu rješenja iz člana 129 stav 4, člana 130 st. 1 i 2 i člana 131 stav 3 ovog zakona, prima naknadu zarade u visini zarade isplaćene u mjesecu koji je prethodio stavljanju na raspolaganje, do obezbjeđivanja odgovarajućeg raspoređivanja, a najduže šest mjeseci od dana stavljanja na raspolaganje.
+Lokalni službenik, odnosno namještenik koji je prije stavljanja na raspolaganje radio ili imao pravo da radi polovinu punog radnog vremena zbog njege djeteta sa težim smetnjama u razvoju ili je samohrani roditelj sa djetetom do navršenih sedam godina života ili je roditelj djeteta sa teškim invaliditetom, na raspolaganju se nalazi do odgovarajućeg raspoređivanja, a najduže jednu godinu od dana stavljanja na raspolaganje.
+Lokalni službenik, odnosno namještenik koji se nalazi na raspolaganju ima pravo prijave na interni oglas.
+Sredstva za ostvarivanje prava iz st. 1 i 2 ovog člana obezbjeđuju se u budžetu jedinice lokalne samouprave na teret organa, odnosno stručne službe koja je lokalnog službenika, odnosno namještenika stavila na raspolaganje.

@@ -1,0 +1,13 @@
+# Član 26
+## Zvanja i uslovi u okviru kategorije visoki rukovodni kadar
+U okviru kategorije visoki rukovodni kadar, nivoi, zvanja i uslovi su:
+1) nivo 1:
+- rukovodilac stručne službe – najmanje VII1 nivo kvalifikacije obrazovanja i najmanje sedam godina radnog iskustva od čega dvije godine na poslovima rukovođenja ili najmanje VI nivo kvalifikacije obrazovanja i najmanje sedam godina radnog iskustva od čega tri godine na poslovima rukovođenja,
+- rukovodilac posebne službe (načelnik komunalne policije, komandir službe zaštite i spašavanja i rukovodilac službe za evropske integracije i rukovodilac službe za informaciono-komunikacione tehnologije) – najmanje VII1 nivo kvalifikacije obrazovanja i najmanje sedam godina radnog iskustva od čega dvije godine na poslovima rukovođenja ili najmanje VI nivo kvalifikacije obrazovanja i najmanje sedam godina radnog iskustva od čega tri godine na poslovima rukovođenja, ako posebnim zakonom nije drugačije propisano,
+- sekretar skupštine – najmanje VII1 nivo kvalifikacije obrazovanja iz oblasti pravnih nauka i najmanje sedam godina radnog iskustva od čega dvije godine na poslovima rukovođenja ili najmanje VI nivo kvalifikacije obrazovanja iz oblasti pravnih nauka i najmanje sedam godina radnog iskustva od čega tri godine na poslovima rukovođenja,
+- rukovodilac stručne službe predsjednika - najmanje VII1 nivo kvalifikacije obrazovanja iz oblasti pravnih nauka i najmanje sedam godina radnog iskustva od čega dvije godine na poslovima rukovođenja ili najmanje VI nivo kvalifikacije obrazovanja iz oblasti pravnih nauka i najmanje sedam godina radnog iskustva od čega tri godine na poslovima rukovođenja;
+2) nivo 2 - pomoćnik glavnog administratora, pomoćnik starješine organa lokalne uprave, pomoćnik načelnika komunalne policije, zamjenik komandira službe zaštite i spašavanja, odnosno zamjenik rukovodioca posebne službe – najmanje VII1 nivo kvalifikacije obrazovanja i najmanje šest godina radnog iskustva ili najmanje VI nivo kvalifikacije obrazovanja i najmanje šest godina radnog iskustva od čega tri godine na poslovima rukovođenja, ako posebnim zakonom nije drugačije propisano.
+U nivou 1 razvrstava se i zvanje:
+1) glavni gradski arhitekta - VII1 nivo kvalifikacije obrazovanja i najmanje deset godina radnog iskustva u oblasti urbanizma i arhitektonske prakse,
+2) zaštitnik imovinsko-pravnih interesa jedinice lokalne samouprave - VII1 nivo kvalifikacije obrazovanja, položen pravosudni ispit i najmanje osam godina radnog iskustva na istim ili sličnim poslovima,
+3) menadžer jedinice lokalne samouprave – VII1 nivo kvalifikacije obrazovanja, najmanje šest godina radnog iskustva od čega dvije godine na poslovima rukovođenja.

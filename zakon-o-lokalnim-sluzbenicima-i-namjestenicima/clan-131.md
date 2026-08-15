@@ -1,0 +1,7 @@
+# Član 131
+## Reorganizacija
+Kad se zbog izmjene unutrašnje organizacije organa, odnosno službe donosi novi ili vrši izmjena postojećeg akta o unutrašnjoj organizaciji i sistematizaciji, raspoređivanje lokalnih službenika, odnosno namještenika vrši se u skladu sa potrebama organa, odnosno službe i na radna mjesta koja odgovaraju njihovom nivou kvalifikacije obrazovanja i za koja ispunjavaju druge propisane uslove, uzimajući u obzir poslove na kojima su ranije radili.
+U slučaju iz stava 1 ovog člana, starješina organa, odnosno službe dužan je da u aktu o unutrašnjoj organizaciji i sistematizaciji predvidi radna mjesta za koja je postupak popune putem oglasa u toku, a za koja je istekao rok za prijavljivanje kandidata na oglas.
+U slučaju da nema radnog mjesta u smislu stava 1 ovog člana na koje se može rasporediti, lokalni službenik, odnosno namještenik stavlja se, rješenjem starješine tog organa, odnosno službe na raspolaganje jedinici za upravljanje ljudskim resursima za potrebe internog tržišta rada i utvrđivanja mogućnosti njegovog odgovarajućeg raspoređivanja.
+Lokalni službenik, odnosno namještenik ne može se rasporediti za vrijeme privremene spriječenosti za rad, trudnoće porodiljskog ili roditeljskog odsustva.
+Izuzetno od stava 4 ovog člana, lokalni službenik, odnosno namještenik za vrijeme privremene spriječenosti za rad, trudnoće porodiljskog ili roditeljskog odsustva može se rasporediti uz pisanu saglasnost.

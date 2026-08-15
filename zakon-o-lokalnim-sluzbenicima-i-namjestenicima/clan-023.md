@@ -1,0 +1,3 @@
+# Član 23
+## Opis poslova starješine organa lokalne uprave
+Poslovi starješine organa lokalne uprave se odnose na organizaciju rada i rukovođenje, koordiniranje jedne ili više unutrašnjih organizacionih jedinica, organizovanje izvršavanja poslova iz više oblasti rada koje su u nadležnosti organa lokalne uprave, uključujući pripremu propisa i vršenje upravnog nadzora, obezbjeđivanje ostvarivanja odnosa i saradnje sa drugim organima, odnosno službama i javnim službama, državnim organima, organima državne uprave, privrednim subjektima, nevladinim organizacijama i građanima i odlučivanje o najsloženijim pitanjima iz nadležnosti organa lokalne uprave.
