@@ -1,0 +1,2 @@
+# Član 5
+U članu 5 stav 3 tač. 1 i 8, članu 8 stav 1 tačka 6, članu 12 st. 1 i 5, članu 13 stav 3 tač. 4 i 5, članu 22 stav 1, članu 26 stav 2 tačka 6, članu 27 stav 2 tač. 6 i 7, članu 30 stav 1 tačka 4, nazivu i stavu 1 člana 34, članu 37 stav 1, članu 38 stav 2, članu 39 stav 2 alineja 2, članu 41 stav 2 tačka 3, nazivu i st. 1 i 2 člana 45, članu 46, članu 48 stav 1 tač. 4 i 24, članu 49 stav 1 tačka 3 i članu 50 stav 1 tač. 30, 32 i 33 riječi: "profesionalno izložena lica" u različitom padežu zamjenjuju se riječima: "izložena lica" u odgovarajućem padežu.

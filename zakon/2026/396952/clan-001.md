@@ -1,0 +1,2 @@
+# Član 1
+U Zakonu o zaštiti od nejonizujućih zračenja ("Službeni list CG", broj 35/13) u članu 1 riječi: "lica koja rade sa izvorima nejonizujućih zračenja ili se u procesu rada nalaze u poljima nejonizujućih zračenja (u daljem tekstu: profesionalno izložena lica)" zamjenjuju se riječima: "kao i zaposlenih, od rizika po njihovo zdravlje i sigurnost koji nastaju ili mogu nastati usljed izloženosti nejonizujućim zračenjima".
