@@ -1,0 +1,5 @@
+# Član 2
+## Primjena
+Ovaj zakon primjenjuje se na buku u životnoj sredini kojoj su izloženi ljudi, naročito u izgrađenim područjima, javnim parkovima i drugim tihim zonama u aglomeracijama, tihim zonama u prirodi, pored škola, bolnica i drugih objekata i područja osjetljivih na buku.
+Ovaj zakon ne primjenjuje se na buku kojoj su izloženi oni koji je stvaraju, buku na radnom mjestu, u prevoznom sredstvu, od aktivnosti u domaćinstvu ili iz susjednog domaćinstva, buku iz ugostiteljskih objekata, buku koja potiče od vojnih aktivnosti na logorskom prostoru, vojnom aerodromu, vojnom plovnom objektu, odnosno u kasarni, vojnoj zgradi ili drugom vojnom objektu, buku od aktivnosti na zaštiti ili uklanjanju posljedica od elementarnih nepogoda, prirodnih i drugih udesa, kao i na buku koja potiče od zvučnog oglašavanja zvonima ili elektroakustičkim uređajima u vjerskim objektima i buku domaćih ili divljih životinja.
+Ovaj zakon ne primjenjuje se na buku koja nastaje zbog upotrebe uređaja, opreme i vozila tokom sportskih aktivnosti, kao i na buku koja potiče iz objekata u kojima se obavlja neregistrovana djelatnost.
