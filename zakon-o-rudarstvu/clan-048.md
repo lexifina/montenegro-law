@@ -1,0 +1,2 @@
+# Član 48
+Koncesionar koji vrši eksploataciju mineralnih sirovina na osnovu ugovora o koncesiji, odnosno koncesionar ili ponuđač koji vrši sanaciju i rekultivaciju, odnosno investitor koji u polju otkopavanja mineralne sirovine otkopava mineralne sirovine u procesu: uređivanja terena, izvođenja zemljanih radova za građenje svih vrsta objekata, upotrebe eksploziva i eksplozivnih sredstava i na drugi način kojim se otkopava mineralna sirovina, dužan je da jednom mjesečno vrši laboratorijska ispitivanja mineralne sirovine.
