@@ -1,0 +1,14 @@
+# Član 56
+## Komisija za ocjenu studije o ocjeni prihvatljivosti
+Ocjenu studije o ocjeni prihvatljivosti, odnosno uticaja plana, programa i/ili projekta, posebno na ciljeve očuvanja i ekološki integritet područja ekološke mreže vrši komisija za ocjenu studije, koju obrazuje Agencija odnosno organ lokalne uprave nadležan za poslove zaštite životne sredine.
+Komisija iz stava 1 ovog člana, obrazuje se iz reda zaposlenih Agencije, odnosno organa lokalne uprave nadležnog za poslove zaštite životne sredine i drugih stručnih lica koji se bave zaštitom staništa i vrsta uključujući i predstavnike nevladinog sektora sa potrebnim stručnim kvalifikacijama.
+Troškove izrade studije o ocjeni prihvatljivosti i rada komisije iz stava 1 ovog člana snosi organ nadležan za pripremu plana ili programa, odnosno nosilac projekta.
+Članovi komisije iz stava 1 ovog člana ne mogu biti lica koja su učestvovala u izradi studije o ocjeni prihvatljivosti ili su zaposleni kod organa nadležnog za pripremu plana, programa, odnosno nosioca projekta.
+Javnu raspravu za studiju sprovodi Agencija, odnosno organ lokalne uprave nadležan za poslove zaštite životne sredine.
+Agencija, odnosno organ lokalne uprave nadležan za poslove zaštite životne sredine obavještava zainteresovanu javnost o načinu i rokovima uvida u studiju o ocjeni prihvatljivosti, dostavljanju mišljenja, vremenu i mjestu održavanja javne rasprave na internet stranici Agencije i putem štampanih medija.
+Javna rasprava iz stava 5 ovog člana može se održati najranije deset dana od dana obavještavanja organa, organizacija i zainteresovane javnosti.
+Agencija, odnosno organ lokalne uprave nadležan za poslove zaštite životne sredine dužan je da u roku od pet dana od dana održane javne rasprave, dostavi komisiji iz stava 1 ovog člana studiju o ocjeni prihvatljivosti sa primjedbama i mišljenjima dostavljenim tokom javne rasprave.
+Komisija iz stava 1 ovog člana može od organa nadležnog za pripremu plana, programa odnosno nosioca projekta najviše dva puta zahtijevati da izvrši izmjene i dopune studije o ocjeni prihvatljivosti.
+Organ nadležan za pripremu plana i programa, odnosno nosilac projekta je dužan da postupi po zahtjevu iz stava 9 ovog člana i komisiji za ocjenu studije o ocjeni prihvatljivosti dostavi izmijenjenu i dopunjenu studiju o ocjeni prihvatljivosti u roku koji odredi komisija.
+Ako organ nadležan za pripremu plana i programa, odnosno nosilac projekta ne izvrši izmjene i dopune studije o ocjeni prihvatljivosti u propisanom roku iz stava 10 ovog člana, komisija nastavlja rad na osnovu raspoložive dokumentacije.
+Komisija je dužna da izvještaj o ocjeni studije o ocjeni prihvatljivosti dostavi Agenciji odnosno organu lokalne uprave nadležnom za poslove zaštite životne sredine u roku ne dužem od 40 dana od dana održane javne rasprave, odnosno od dana dostavljanja izmijenjenog odnosno dopunjenog teksta studije o ocjeni prihvatljivosti.

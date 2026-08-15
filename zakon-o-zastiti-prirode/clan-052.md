@@ -1,0 +1,6 @@
+# Član 52
+## Postupak prethodne ocjene
+Organ nadležan za pripremu plana i programa za koje se ne sprovodi postupak strateške procjene uticaja, odnosno pravno lice ili preduzetnik koji podnosi zahtjev za davanje saglasnosti na projekat (u daljem tekstu: nosilac projekta) za koji se ne sprovodi postupak procjene uticaja na životnu sredinu, dužan je da podnese zahtjev o potrebi sprovođenja glavne ocjene Agenciji.
+Za planove i programe za koje se sprovodi postupak strateške procjene uticaja na životnu sredinu, zahtjev o potrebi sprovođenja glavne ocjene podnosi se Agenciji, odnosno organu lokalne uprave nadležnom za poslove zaštite životne sredine, prije donošenja odluke o izradi strateške procjene uticaja na životnu sredinu.
+Za projekte za koje se odlučuje o potrebi sprovođenja postupka procjene uticaja na životnu sredinu, zahtjev o potrebi sprovođenja glavne ocjene pravno ili fizičko lice ili preduzetnik podnosi Agenciji, odnosno organu lokalne uprave nadležnom za poslove zaštite životne sredine istovremeno sa zahtjevom za odlučivanje o potrebi sprovođenja procjene uticaja na životnu sredinu.
+Za projekte za koje se obavezno sprovodi postupak procjene uticaja na životnu sredinu, zahtjev o potrebi sprovođenja glavne ocjene, podnosi se prije pokretanja postupka procjene uticaja na životnu sredinu.
