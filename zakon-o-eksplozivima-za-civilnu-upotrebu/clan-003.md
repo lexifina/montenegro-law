@@ -1,0 +1,6 @@
+# Član 3
+## Slobodno kretanje
+Crna Gora ne smije zabraniti, ograničavati niti sprečavati stavljanje na raspolaganje na tržištu eksploziva i pirotehničkih sredstava koji ispunjavaju zahtjeve u skladu sa ovim zakonom.
+Izuzetno od stava 1 ovog člana, na sajmovima, izložbama i prezentacijama u svrhu promocije pirotehničkih sredstava, Crna Gora ne sprječava izlaganje i upotrebu pirotehničkih sredstava koja ne ispunjavaju zahtjeve u skladu sa ovim zakonom, pod uslovom da je vidljivo istaknuto obilježje koje jasno označava naziv i datum predmetnog sajma, izložbe ili prezentacije, kao i da pirotehnička sredstva ne ispunjavaju zahtjeve u skladu sa ovim zakonom i da nijesu dostupna za prodaju dok ne budu usklađena sa tim zahtjevima.
+Tokom sajmova, izložbi i prezentacija iz stava 2 ovog člana preduzimaju se odgovarajuće bezbjednosne mjere, u skladu sa ovim zakonom.
+Crna Gora ne sprečava slobodu kretanja i upotrebe pirotehničkih sredstava koja se proizvode u svrhu istraživanja, razvoja i ispitivanja, a koja ne ispunjavaju zahtjeve u skladu sa ovim zakonom, pod uslovom da je vidljivo istaknuto obilježje koje jasno označava da ta pirotehnička sredstva ne ispunjavaju zahtjeve u skladu sa ovim zakonom i nijesu dostupna za drugu svrhu osim za potrebe istraživanja, razvoja i ispitivanja.

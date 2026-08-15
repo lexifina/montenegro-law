@@ -1,0 +1,3 @@
+# Član 105
+## Odobrenje za vršenje poslova specijalnog miniranja
+Specijalno miniranje može da izvodi lice iz člana 100 stav 1 al. 1 ili 2 ovog zakona, kome je izdato odobrenje za vršenje poslova specijalnog miniranja. Odobrenje iz stava 1 ovog člana izdaje Ministarstvo. Odobrenje iz stava 1 ovog člana može se izdati licu iz stava 1 ovog člana koje ispunjava uslove iz člana 41 stav 1 al. 1 do 5 ovog zakona i ima: - najmanje VII1 nivo kvalifikacije obrazovanja rudarskog fakulteta - smjer eksploatacija ili opšti smjer; - položen stručni ispit za vršenje poslova miniranja, u skladu sa zakonom kojim se uređuje oblast rudarstva; i - četiri godine radnog iskustva na poslovima miniranja.

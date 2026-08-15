@@ -1,0 +1,8 @@
+# Član 27
+## Postupak prijavljivanja
+Tijelo koje sprovodi prijavljivanje može prijaviti samo tijelo za ocjenjivanje usaglašenosti koje ispunjava zahtjeve propisane u članu 23 ovog zakona.
+Tijelo koje sprovodi prijavljivanje obavještava Komisiju i druge države članice putem elektronskog alata za prijavljivanje koji je razvila i kojim upravlja Komisija, o prijavljivanju u skladu sa stavom 1 ovog člana.
+Prijavljivanje sadrži potpune informacije o aktivnostima ocjenjivanja usaglašenosti, modulu ili modulima ocjenjivanja usaglašenosti, kao i o određenom eksplozivu ili eksplozivima, odnosno pirotehničkom sredstvu ili pirotehničkim sredstvima na koje se odnosi, uključujući i odgovarajuću potvrdu o osposobljenosti.
+Kada se prijavljivanje ne zasniva na akreditacionoj potvrdi iz člana 26 stav 2 ovog zakona, tijelo koje sprovodi prijavljivanje dostavlja Komisiji i drugim državama članicama dokumentovane dokaze o osposobljenosti tijela za ocjenjivanje usaglašenosti, kao i o uspostavljenim aranžmanima koji obezbjeđuju da to tijelo bude predmet redovnog nadzora i da kontinuirano ispunjava zahtjeve iz člana 23 ovog zakona.
+Tijelo za ocjenjivanje usaglašenosti može obavljati aktivnosti prijavljenog tijela, ako ni Komisija ni druge države članice ne ulože prigovor u roku od dvije sedmice od notifikacije kada se koristi akreditaciona potvrda iz člana 26 stav 2 ovog zakona, odnosno u roku od dva mjeseca kada se ta potvrda ne koristi. Samo takvo tijelo smatra se prijavljenim tijelom u smislu ovog zakona.
+Tijelo koje sprovodi prijavljivanje obavještava Komisiju i druge države članice o svim naknadnim relevantnim promjenama u vezi sa prijavljivanjem.

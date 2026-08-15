@@ -1,0 +1,6 @@
+# Član 125
+## Registar pirotehničkih sredstava
+Prijavljena tijela koja sprovode postupke ocjenjivanja usaglašenosti u skladu sa članom 9 Direktive 2007/23/EZ Evropskog parlamenta i Vijeća od 23.maja 2007. godine o stavljanju na tržište pirotehničkih sredstava (u daljem tekstu: Direktiva 2007/23/EZ) vode registar pirotehničkih sredstava za koja su izdala sertifikate o EZ ispitivanju tipa u skladu sa postupkom ocjenjivanja usaglašenosti iz člana 9 tačka (a) Direktive 2007/23/EZ (Modul B) ili sertifikate o usaglašenosti u skladu sa postupkom iz člana 9 tačka (b) Direktive 2007/23/EZ (Modul G) ili odobrenja sistema kvaliteta u skladu sa postupkom iz člana 9 tačka (c) Direktive 2007/23/EZ (Modul H), u formatu utvrđenom u Aneksu te direktive.
+Registar iz stava 1 ovog člana mora da sadrži najmanje podatke utvrđene u Aneksu iz stava 1 ovog člana i ti podaci se čuvaju najmanje deset godina od dana kada su prijavljena tijela izdala sertifikate ili odobrenja iz stava 1 ovog člana.
+Prijavljena tijela redovno ažuriraju registar iz stava 1 ovog člana i objavljuju ga na svojoj internet stranici.
+U slučaju povlačenja prijave tijela za ocjenjivanje usaglašenosti, to tijelo predaje registar iz stava 1 ovog člana drugom prijavljenom tijelu ili nadležnom organu države članice na koju se to odnosi.

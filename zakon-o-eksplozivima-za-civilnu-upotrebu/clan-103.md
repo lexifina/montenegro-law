@@ -1,0 +1,5 @@
+# Član 103
+## Plan miniranja i mjere bezbjednosti
+Prilikom vršenja poslova miniranja, privredno društvo, drugo pravno lice, odnosno preduzetnik dužan je da preduzme bezbjednosne mjere i izvede miniranje prema planu miniranja, tako da miniranjem ne ugrozi živote, zdravlje i bezbjednost ljudi, životinja i biljaka, životnu sredinu i imovinu.
+Plan miniranja iz stava 1 ovog člana izrađuje lice koje ima VII1 nivo kvalifikacije obrazovanja rudarske struke i položen stručni ispit, u skladu sa propisima o rudarstvu.
+Privredno društvo, drugo pravno lice, odnosno preduzetnik koji vrši poslove miniranja dužan je da o miniranjima koja se vrše u naseljenom mjestu ili u blizini naseljenog mjesta, najkasnije 24 časa prije vršenja miniranja, obavijesti inspektora, policiju i javnost, putem sredstava javnog informisanja, i da tri dana prije vršenja miniranja u blizini puteva, željeznica, vodovoda, električnih ili telefonskih vodova i sličnih objekata, u pisanoj formi, obavijesti privredna društva i druga pravna lica koja upravljaju tim objektima.
