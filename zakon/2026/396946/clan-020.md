@@ -1,0 +1,5 @@
+# Član 20
+## Doprinosi prirodnih izvora
+U zonama i teritorijalnim jedinicama prosječne izloženosti gdje se prekoračenje granične vrijednosti za datu zagađujuću materiju ili prekoračenje nivoa utvrđenog obavezama smanjenja prosječne izloženosti može dovesti u vezu sa prirodnim izvorima, Agencija može obezbijediti prikupljanje podataka o koncentracijama i izvorima zagađenja, kao i dokaze koji pokazuju da se prekoračenje može pripisati prirodnim izvorima za svaku godinu u kojoj je utvrđeno prekoračenje granične vrijednosti za datu zagađujuću materiju ili prekoračenje nivoa utvrđenog obavezama smanjenja prosječne izloženosti.
+Na osnovu podataka i dokaza iz stava 1 ovog člana, Ministarstvo će sačiniti spisak zona i teritorijalnih jedinica prosječne izloženosti u kojima se prekoračenje granične vrijednosti zagađujuće materije ili prekoračenje nivoa utvrđenog obavezama smanjenja prosječne izloženosti pripisuje prirodnim izvorima.
+Ministarstvo će dostaviti Komisiji spisak iz stava 2 ovog člana zajedno sa informacijama o koncentracijama i izvorima, kao i dokazima koji pokazuju da su prekoračenja pripisana prirodnim izvorima.

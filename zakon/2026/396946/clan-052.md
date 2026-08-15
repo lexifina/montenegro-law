@@ -1,0 +1,8 @@
+# Član 52
+## Pristup pravdi
+Fizičko ili pravno lice koje ima pravni interes u skladu sa članom 53 ovog zakona i smatra da je odlukom, radnjom ili propuštanjem organa državne uprave, organa uprave i/ili jedinice lokalne samouprave povrijeđen ovaj zakon ili propisi donijeti na osnovu njega, naročito odredbe koje se odnose na lokaciju i broj mjesta uzorkovanja iz ovog zakona, planove kvaliteta vazduha i mape puta kvaliteta vazduha iz čl. 25, 26 i 27 ovog zakona, kao i kratkoročne akcione planove iz člana 29 ovog zakona, ima pravo da pred nadležnim sudom, u skladu sa zakonom, osporava materijalnu i procesnu zakonitost te odluke, radnje ili propuštanja.
+Tužba, odnosno drugi odgovarajući podnesak kojim se pokreće postupak sudske zaštite iz stava 1 ovog člana, podnosi se u roku od 30 dana od dana objavljivanja osporene odluke na internet stranici organa koji je donio odluku, odnosno od dana isteka roka za preduzimanje radnje ili donošenje odluke, a ako podnosilac nije mogao znati za propuštanje, od dana kada je za propuštanje saznao ili mogao saznati, u skladu sa zakonom.
+U podnesku iz stava 2 ovog člana navodi se i obrazlaže u čemu se sastoji povreda propisa iz stava 1 ovog člana.
+Uz podnesak iz stava 2 ovog člana prilažu se dokazi kojima podnosilac raspolaže.
+Ovaj član ne utiče na obavezu prethodnog korišćenja pravnih sredstava u upravnom postupku prije pokretanja sudskog postupka, kada je takva obaveza propisana zakonom.
+Postupak sudske zaštite iz ovog člana sprovodi se u skladu sa zakonom kojim se uređuje parnični postupak, na način kojim se obezbjeđuje djelotvorna sudska zaštita i kojim se pristup sudu ne onemogućava niti pretjerano otežava, vodeći računa i o tome da troškovi postupka ne ugroze djelotvornost te zaštite.
