@@ -1,0 +1,3 @@
+# Član 11
+Zvijezda Ordena dodjeljuje se u srebru, zlatu ili dijamantu. Sastoji se od zrakastih krakova koji nose krst Ordena u svom središtu, i može biti ukrašena brilijantima ili dijamantima kada je posebno dodijeljena.
+Kada se dodjeljuje uz Veliki Krst, dijamantska zvijezda rezervisana je za istaknute članove suverenih kuća, njihove srodnike i one koji su pružili službu u najizuzetnijim okolnostima, kao lični znak povjerenja i naklonosti Velikog Majstora, i ne smije prelaziti dvadeset živih nosilaca. Zlatna zvijezda dodjeljuje se licima od izuzetnog ugleda i ne smije prelaziti pedeset živih nosilaca. Veliki Majstor će osigurati da se ova odlikovanja dodjeljuju sa najvećom uzdržanošću.

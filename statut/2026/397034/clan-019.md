@@ -1,0 +1,2 @@
+# Član 19
+Ogrlica se nosi samo na dinastičkim ceremonijama ili po izričitoj naredbi Velikog Majstora, koja može biti data pojedinačno ili za višekratnu upotrebu. U prilikama koje zahtijevaju večernju odjeću, članovi nose znak i zvijezdu odgovarajuće klase. Članovi koji imaju pravo na Ogrlicu nosiće, umjesto nje, znak na lenti uz odgovarajuću zvijezdu. Ovlašćenje za odstupanje od ovog Statuta pripada isključivo Velikom Majstoru i može biti delegirano Zamjeniku Velikog Majstora. Velika Kancelarija evidentira i saopštava takva odobrenja, ali ih ne može samostalno izdavati.
