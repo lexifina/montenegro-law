@@ -1,0 +1,2 @@
+Na osnovu člana 82 stav 1 tačka 3 Ustava Crne Gore i člana 27c stav 7 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list CG", br. 20/14, 56/14, 70/17, 4/18, 55/18, 70/21, 27/23, 125/23 i 11/25), Skupština Crne Gore 28. saziva, na Osamnaestoj sjednici Prvog redovnog (proljećnjeg) zasijedanja u 2026. godini, dana 31. jula 2026. godine, donijela je
+O D L U K U O IMENOVANJU TRI ČLANA FISKALNOG SAVJETA CRNE GORE
