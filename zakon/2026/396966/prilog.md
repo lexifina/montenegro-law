@@ -1,0 +1,1 @@
+*U ovaj zakon prenesena je Direktiva (EU) Evropskog parlamenta i Savjeta broj 2024/2853/EU od 24. oktobra 2024. godine o odgovornosti za neispravne proizvode i stavljanju van snage Direktive Savjeta broj 85/374/EEZ.
