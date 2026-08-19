@@ -1,0 +1,2 @@
+# Član 27
+Pravno lice koje se bavi snimanjem filmova, prikazivanjem pozorišnih predstava ili održavanjem tradicionalnih viteških igara i drugih priredbi koje predstavljaju kulturno nasljeđe može bez odobrenja nabavljati, držati i koristiti hladno oružje, a vatreno oružje kategorije A, B i C koje je trajnom prepravkom prilagođeno tako da može ispaljivati samo manevarsku municiju (ćorke) može nabavljati samo ako ima odobrenje za nabavku, odnosno odobrenje za držanje oružja u skladu sa ovim zakonom.

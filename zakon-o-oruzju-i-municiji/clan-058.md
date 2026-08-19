@@ -1,0 +1,5 @@
+# Član 58
+Ministarstvo će oduzeti oružje, municiju i isprave o oružju izdate u skladu sa ovim zakonom od fizičkog lica koje prestane da ispunjava neki od opštih i posebnih uslova iz člana 14 stav 1 tačka 1 i tač. 3 do 7 i stav 2 tačka 1 ovog zakona.
+Izuzetno od stava 1 ovog člana, u slučaju prestanka ispunjavanja opšteg uslova iz člana 14 stav 1 tačka 1 ovog zakona, fizičkom licu se može oduzeti oružni list za držanje i nošenje lovačkog oružja i oružni list za držanje i nošenje sportskog oružja i izdati oružni list za držanje oružja.
+Ministarstvo će oduzeti oružje i ispravu o oružju koja je izdata za to oružje, za koje se utvrdi da je tehnički neispravno i ne može se osposobiti za bezbjednu upotrebu, ako vlasnik oružja to oružje ne onesposobi u skladu sa članom 109 ovog zakona.
+Ministarstvo će oduzeti oružje kategorije C za koje je izdata potvrda iz člana 33 stav 3 ovog zakona od fizičkog lica kad prestane da ispunjava neki od opštih uslova iz člana 14 stav 1 tač. 4 i 5 ovog zakona, ako to oružje ne onesposobi u skladu sa članom 109 ovog zakona.

@@ -1,0 +1,5 @@
+# Član 17
+Postojanje opšteg uslova iz člana 14 stav 1 tačka 7 ovog zakona potvrđuje se pisanom izjavom podnosioca zahtjeva da ispunjava uslove za bezbjedan smještaj i čuvanje oružja i municije, na obrascu iz člana 24 stav 1 ovog zakona.
+U slučaju postojanja osnovane sumnje da lice ne ispunjava uslove za bezbjedan smještaj i čuvanje oružja i municije, na zahtjev Ministarstva, policijski službenik će provjeriti ispunjenost opšteg uslova iz člana 14 stav 1 tačka 7 ovog zakona neposrednim opažanjem u stambenom prostoru po mjestu prebivališta ili boravišta podnosioca zahtjeva ili drugom prostoru gdje se oružje drži, uz saglasnost podnosioca zahtjeva, o čemu policijski službenik sačinjava zapisnik koji dostavlja Ministarstvu.
+Za svaki novi podnijeti zahtjev lica koje već posjeduje važeću ispravu o oružju može se izvršiti provjera ispunjenosti opšteg uslova iz člana 14 stav 1 tačka 7 ovog zakona, u smislu stava 2 ovog člana, u zavisnosti od količine i kategorije registrovanog oružja koje to lice već ima na svoje ime.
+Nivo provjere iz stava 3 ovog člana treba da odgovara količini i kategoriji vatrenog oružja i municije na koje se odnosi.

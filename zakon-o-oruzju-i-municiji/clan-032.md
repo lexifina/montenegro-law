@@ -1,0 +1,4 @@
+# Član 32
+Oružje koje se drži na osnovu odobrenja za sakupljanje oružja ne smije se nositi, upotrebljavati, niti se za njega smije nabavljati, držati ili praviti municija, a može se prenositi samo u svrhu popravke, prepravke, izlaganja na izložbama ili sličnim manifestacijama i u slučaju promjene prebivališta ili boravišta, odnosno sjedišta kolekcionara.
+Oružje i glavni djelovi oružja sakupljeni na osnovu odobrenja za sakupljanje oružja mogu se prodati ili predati samo kolekcionaru ili trgovcu oružjem.
+Kolekcionar je dužan da obezbijedi prostor za bezbjedan smještaj i čuvanje sakupljenog oružja i municije, tako da ono ne može doći u posjed neovlašćenih lica, odnosno da oružje iz kategorije B i A i municija za to oružje bude smješteno u zaključanim ormarima, sefovima, kasama ili trezorima koji se ne mogu lako otvoriti i koji su opremljeni sigurnosnim mehaničkim sistemom za zaključavanje.

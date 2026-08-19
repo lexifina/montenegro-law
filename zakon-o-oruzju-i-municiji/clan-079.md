@@ -1,0 +1,3 @@
+# Član 79
+Pripadnici stranih diplomatskih, odnosno konzularnih predstavništava akreditovanih u Crnoj Gori mogu unijeti, držati i nositi oružje u svrhu lova ili sportskog streljaštva u skladu sa odredbama ovog zakona, na osnovu verbalne note diplomatsko-konzularnog predstavništva u kojem lice vrši službu, koja sadrži: ime i prezime, datum i mjesto rođenja; funkciju koju obavlja u tom predstavništvu; vrstu, tip i količinu oružja i svrhu za koju se oružje koristi, ako taj pripadnik ima izdatu ispravu o oružju u državi svog boravka.
+Verbalnu notu iz stava 1 ovog člana organ državne uprave nadležan za vanjske poslove dostavlja Ministarstvu.

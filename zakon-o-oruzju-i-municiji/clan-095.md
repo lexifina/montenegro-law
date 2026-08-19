@@ -1,0 +1,5 @@
+# Član 95
+Prometom oružja i municije može se baviti privredno društvo ili preduzetnik koji je registrovan za obavljanje te djelatnosti i ima odobrenje Ministarstva za obavljanje djelatnosti prometa oružja i municije.
+Promet oružja i municije je nabavljanje oružja, glavnih djelova oružja i municije radi dalje prodaje, kao i prodaja oružja, glavnih djelova oružja i municije čija nabavka nije zabranjena u skladu sa ovim zakonom.
+Promet oružja i municije podrazumijeva promet na veliko i malo, kao i posredovanje u prometu oružja i municije između vlasnika i kupca (u daljem tekstu: komisiona prodaja).
+Promet oružja i municije na malo podrazumijeva prodaju oružja, municije i pojedinačnih komponenti metka u maloprodajnom prostoru, kao i komisionu prodaju, pri čemu ukupna količina baruta koji se nalazi u municiji koja je vidno izložena u maloprodajnom prostoru ne smije prelaziti 40 kg neto mase eksplozivne materije, odnosno 300 kg u magacinu za bezbjedan smještaj oružja i municije u maloprodajnom prostoru, a najveća dozvoljena količina pirotehničkih sredstava propisana je posebnim propisom.

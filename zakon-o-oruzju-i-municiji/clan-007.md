@@ -1,0 +1,2 @@
+# Član 7
+Oružjem u smislu ovog zakona ne smatraju se dekorativno oružje, imitacije oružja, svjetlosno signalno oružje za spašavanje života, oružje namijenjeno za omamljivanje životinja, podvodne puške i drugi predmeti koji snagom opruge, napete gume ili sabijenog gasa izbacuju ostin ili harpun koji se isključivo koriste u ribolovu (podvodno oružje), oružje koje se koristi u industrijske ili tehničko-građevinske svrhe, ako se koriste samo u navedene svrhe.

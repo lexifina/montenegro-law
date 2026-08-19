@@ -1,0 +1,7 @@
+# Član 61
+Oružje, municiju i isprave o oružju policija će privremeno oduzeti od fizičkog lica ako postoje okolnosti koje ukazuju da bi oružje moglo biti zloupotrijebljeno, a naročito zbog češćeg i prekomjernog uživanja alkohola, konzumacije droga ili drugih psihoaktivnih supstanci ili poremećenih porodičnih, odnosno poslovnih odnosa, radi preduzimanja preventivnih mjera u cilju zaštite od nasilja u porodici ili zaštite javnog poretka, koje se moraju preduzeti bez odlaganja, a te okolnosti su utvrđene ili barem učinjene vjerovatnim.
+Oduzimanje oružja, municije i isprava o oružju u slučaju iz stava 1 ovog člana policija vrši odmah po saznanju za postojanje okolnosti iz stava 1 ovog člana i prije pokretanja krivičnog, prekršajnog, odnosno upravnog postupka.
+O oduzetom oružju, municiji i ispravama o oružju iz stava 1 ovog člana policija izdaje potvrdu u skladu sa zakonom kojim se uređuju unutrašnji poslovi.
+Potvrdu iz stava 3 ovog člana policija je dužna da dostavi Ministarstvu, najkasnije u roku od pet dana od dana izdavanja.
+Nakon dobijanja potvrde iz stava 3 ovog člana, Ministarstvo je dužno da pokrene postupak provjere ispunjenosti opštih i posebnih uslova iz člana 14 stav 1 tačka 1 i tač. 3 do 7 i stav 2 tačka 1 ovog zakona i ako utvrdi da ne ispunjava te uslove donese rješenje u skladu sa članom 60 stav 1 ovog zakona.
+Oduzeto oružje, municiju i isprave o oružju iz stava 1 ovog člana policija čuva do okončanja krivičnog, prekršajnog, odnosno upravnog postupka.

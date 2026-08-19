@@ -1,0 +1,10 @@
+# Član 31
+Odobrenje za sakupljanje oružja izdaje se fizičkom, odnosno pravnom licu koje se bavi sakupljanjem i čuvanjem vatrenog oružja, glavnih djelova oružja i municije kategorije B, na njegov zahtjev.
+Izuzetno od stava 1 ovog člana, muzej i kolekcionar može sakupljati oružje, glavne djelove oružja i municiju kategorije A, koji se više ne izrađuju, ako to nije u suprotnosti sa propisima o javnoj bezbjednosti i javnom redu i miru, pri čemu je za svaki komad oružja potrebno dati posebno obrazloženje.
+Odobrenje za sakupljanje oružja izdaje se fizičkom licu ako ispunjava opšte i posebne uslove iz člana 14 stav 1 tač. 2 do 7 i stav 2 tačka 1 ovog zakona, a pravnom licu ako ispunjava uslov iz člana 22 stav 1 tačka 3 ovog zakona, pri čemu odgovorno lice u pravnom licu mora da ispunjava opšte i posebne uslove iz člana 14 stav 1 tač. 2 do 6 i stav 2 tačka 1 ovog zakona.
+Odobrenje za sakupljanje oružja izdaje se na propisanom obrascu, na vrijeme od pet godina.
+Zahtjev za izdavanje odobrenja za sakupljanje oružja podnosi se Ministarstvu u mjestu prebivališta ili boravišta, odnosno sjedištu podnosioca zahtjeva, na propisanom obrascu.
+Kolekcionar kome je izdato odobrenje za sakupljanje oružja dužan je da nabavku svakog komada oružja i glavnog dijela oružja prijavi Ministarstvu, u roku od osam dana od dana nabavke.
+O prijavljenom oružju i glavnim djelovima oružja iz stava 6 ovog člana Ministarstvo izdaje potvrdu, na propisanom obrascu.
+Kad utvrdi da kolekcionar koji je fizičko lice ne ispunjava opšte i posebne uslove iz člana 14 stav 1 tač. 2 do 7 i stav 2 tačka 1 ovog zakona, a kolekcionar koji je pravno lice uslov iz člana 22 stav 1 tačka 3 ovog zakona ili odgovorno lice u pravnom licu opšte i posebne uslove iz člana 14 stav 1 tač. 2 do 6 i stav 2 tačka 1 ovog zakona, Ministarstvo će oduzeti oružje, glavne djelove oružja, municiju i odobrenje za sakupljanje oružja u skladu sa članom 58, odnosno 59 ovog zakona, a sa oduzetim oružjem, glavnim djelovima i municijom postupiće se u skladu sa članom 62 i članom 63 st. 3 i 4 ovog zakona.
+Izgled i sadržaj obrazaca iz st. 4, 5 i 7 ovog člana propisuje Ministarstvo.

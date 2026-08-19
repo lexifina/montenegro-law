@@ -1,0 +1,9 @@
+# Član 28
+Oružni list za držanje oružja i oružni list za nošenje oružja izdaju se fizičkom licu za ličnu bezbjednost, oružni list za držanje i nošenje lovačkog oružja i oružni list za držanje i nošenje sportskog oružja izdaju se fizičkom licu za bavljenje lovom, odnosno sportskim streljaštvom, a pravnom licu se izdaje odobrenje za držanje oružja, na osnovu odobrenja za nabavku oružja.
+Izuzetno od stava 1 ovog člana, oružni list za držanje oružja, oružni list za držanje i nošenje lovačkog oružja i oružni list za držanje i nošenje sportskog oružja izdaju se fizičkom licu bez odobrenja za nabavku oružja, ako je oružje stečeno po osnovu nasljedstva i ako to lice ispunjava opšte i posebne uslove iz člana 14 stav 1 tač. 2 do 7 i stav 2 ovog zakona.
+Za jedan komad lovačkog oružja ili sportskog oružja može se izdati oružni list za držanje i nošenje lovačkog oružja, odnosno oružni list za držanje i nošenje sportskog oružja za zajedničke korisnike, za najviše tri lica koja imaju oružni list za tu vrstu oružja i prijavljeno prebivalište, odnosno boravište u istoj jedinici lokalne samouprave.
+U slučaju iz stava 3 ovog člana, vlasnik oružnog lista za držanje i nošenje lovačkog oružja, odnosno oružnog lista za držanje i nošenje sportskog oružja je odgovoran za korišćenje i postupanje sa tim oružjem u skladu sa ovim zakonom.
+Isprave o oružju iz st. 1, 2 i 3 ovog člana izdaju se na propisanom obrascu, na vrijeme od pet godina.
+Za jedan komad oružja koji je starješina organa dodijelio u trajno vlasništvo licu koje napušta službu u Vojsci ili policiji, zahtjev za izdavanje oružnog lista za držanje oružja podnosi se u roku od 30 dana od dana dodjeljivanja.
+Podnosilac zahtjeva plaća naknadu izrade obrazaca iz stava 5 ovog člana.
+Izgled, sadržaj i visinu naknade izrade obrazaca iz stava 5 ovog člana propisuje Ministarstvo.

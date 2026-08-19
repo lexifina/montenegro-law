@@ -1,0 +1,4 @@
+# Član 16
+Radi utvrđivanja postojanja okolnosti koje negativno utiču na bezbjednost, kao i drugih poremećaja koji ukazuju da bi oružje moglo biti zloupotrijebljeno, u smislu člana 14 stav 1 tačka 6 ovog zakona, policijski službenik ovlašćen je da traži i prikupi podatke i obavještenja o podnosiocu zahtjeva za izdavanje odobrenja za nabavku oružja i da o prikupljenim podacima sačini službenu zabilješku koja se dostavlja Ministarstvu, u roku koji ne može biti duži od 15 dana od dana dostavljanja zahtjeva.
+Službena zabilješka iz stava 1 ovog člana sadrži detaljne navode i činjenice, potkrijepljene dokazima koji nedvosmisleno potvrđuju sadržinu zabilješke, a način prikupljanja podataka vrši se u skladu sa zakonom kojim se uređuju unutrašnji poslovi.
+Opravdanost razloga za nabavku oružja, u smislu člana 15 st. 1 i 2 ovog zakona procjenjuje policija, o čemu daje mišljenje koje je sastavni dio službene zabilješke iz stava 2 ovog člana.

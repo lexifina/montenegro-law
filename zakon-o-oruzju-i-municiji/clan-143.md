@@ -1,0 +1,2 @@
+# Član 143
+Odobrenje za obavljanje djelatnosti proizvodnje, odobrenje za obavljanje djelatnosti prometa, odobrenje za posredovanje u prometu, odobrenje za obavljanje djelatnosti popravljanja i prepravljanja i odobrenje za pružanje usluga sportsko-rekreativnog gađanja na civilnom strelištu, izdata u skladu sa Zakonom o oružju („Službeni list CG”, broj 10/15) prestaju da važe u roku od dvije godine od dana stupanja na snagu ovog zakona.

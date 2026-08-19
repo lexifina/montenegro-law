@@ -1,0 +1,2 @@
+# Član 67
+Crnogorski državljanin i stranac, prilikom prelaska državne granice, dužni su da oružje i municiju koje namjeravaju da prenesu preko državne granice prijave nadležnoj organizacionoj jedinici granične policije (u daljem tekstu: granična policija) i prilože ispravu o oružju i dokaz o svrsi prenošenja oružja i municije (pozivno pismo, obavještenje organizatora lova, sportskog takmičenja ili kulturno-umjetničke manifestacije ili odobrenje za nabavku oružja i municije).

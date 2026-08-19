@@ -1,0 +1,5 @@
+# Član 121
+Vježbe gađanja mogu se izvoditi i na drugom mjestu određenom za vježbe gađanja.
+Drugo mjesto određeno za vježbe gađanja je određeni prostor u lovištu ili na drugom pogodnom mjestu u ruralnim područjima ili drugim rijetko naseljenim mjestima, koji određuje korisnik lovišta ili sportska streljačka organizacija i koji se koristi za vježbe gađanja i isprobavanja lovačkog oružja ili sportskog oružja, odnosno organizaciju lovačkih ili sportskih takmičenja, a koji po svom položaju i preduzetim mjerama obezbjeđenja ne može ugroziti bezbjednost ljudi i imovine ili biodiverziteta, uz prethodnu saglasnost nadležnog lovačkog saveza, odnosno nadležnog sportskog saveza.
+Na drugom mjestu određenom za vježbe gađanja oružje može koristiti samo fizičko lice kome je izdat oružni list za držanje i nošenje lovačkog oružja, odnosno oružni list za držanje i nošenje sportskog oružja.
+Korisnik lovišta ili sportska streljačka organizacija dužni su da, u roku od osam dana od dana donošenja odluke o određivanju mjesta iz stava 1 ovog člana, Ministarstvu dostave tu odluku.
