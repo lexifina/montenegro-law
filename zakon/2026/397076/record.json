@@ -1,0 +1,29 @@
+{
+  "id": 397076,
+  "path": "zakon/2026/397076",
+  "source": "https://www.sluzbenilist.me/propisi/397076",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/397076/download",
+  "title": "Zakon o izmjenama i dopunama Zakona o korišćenju energije iz obnovljivih izvora*",
+  "issue": "Službeni list Crne Gore, broj 119/2026",
+  "published": "2026-08-11",
+  "in_force": "2026-08-19",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore”",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "28b27532cfa7af0192798a5e04d13d12f9b399abd1d5e92d96d280ec315f0d99",
+  "articles_in_source": 36,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 28357,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "recovered_after_interruption": true,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "ce19ed123cae009d35ff7089526511a7073996e10045396cdb38cd0cbfe9c698",
+  "enacted": "2026-07-31",
+  "enacted_basis": "Podgorica, 31. jul 2026"
+}
