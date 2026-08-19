@@ -1,0 +1,2 @@
+# Član 1
+U Zakonu o nadzoru i kontroli proizvodnje i prometa određenih supstanci koje se mogu upotrijebiti u proizvodnji opojnih droga i psihotropnih supstanci* ("Službeni list CG", broj 3/26) u članu 3 stav 5 poslije riječi: "veterinarsku upotrebu" dodaje se tačka, a riječi: "koji sadrže efedrin ili soli efedrina, pseudoefedrin ili soli pseudoefedrina, odnosno norefedrin ili soli norefedrina." brišu se.
