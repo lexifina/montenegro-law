@@ -1,0 +1,7 @@
+* U ovaj zakon prenesene su:
+- Direktiva (EU) 2018/1972 Evropskog parlamenta i Savjeta od 11. decembra 2018. godine o uspostavljanju Evropskog elektronskog komunikacionog koda;
+- Regulativa (EU) 2022/612 Evropskog parlamenta i Savjeta od 6. aprila 2022. godine o javnim mobilnim komunikacionim mrežama unutar Evropske unije;
+- Regulativa Komisije (EU) 2016/2286 od 15. decembra 2016. godine o utvrđivanju detaljnih pravila o primjeni politike fer korišćenja i o metodologiji za procjenu održivosti ukidanja maloprodajnih naknada za roming, kao i o zahtjevu koji operator rominga podnosi za potrebe te procjene;
+- Delegirana Regulativa Komisije (EU) 2021/654 od 18. decembra 2020. godine o dopuni Direktive (EU) 2018/1972 Evropskog parlamenta i Savjeta o utvrđivanju jedinstvene maksimalne stope završavanja poziva u mobilnim mrežama na nivou Unije i jedinstvene maksimalne stope završavanja poziva u fiksnim mrežama na nivou Unije;
+- Regulativa (EU) 2018/1971 Evropskog parlamenta i Savjeta od 11. decembra 2018. godine o uspostavljanju Tijela evropskih regulatora za elektronske komunikacije (BEREC) i Agencije za podršku BEREC-u (Kancelarija BEREC-a), o izmjeni Regulative (EU) 2015/2120 i o stavljanju van snage Regulative (EC) br. 1211/2009;
+- Direktiva (EU) 2022/2555 Evropskog parlamenta i Savjeta od 14. decembra 2022. godine o mjerama za visok zajednički nivo sajber-bezbijednosti širom Unije, kojom se mijenja Regulativa (EU) br. 910/2014 i Direktiva (EU) 2018/1972 i stavlja van snage Direktiva (EU) 2016/1148 (NIS 2 Direktiva).
