@@ -1,0 +1,2 @@
+Na osnovu člana 43 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 28/20, 50/22, 84/22, 81/25 i 98/25), čl. 55 i 57 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21, 49/22 i 51/25) i čl. 4 i 18 Odluke o obrazovanju radnih tijela Skupštine Glavnog grada - Podgorice ("Službeni list Crne Gore - Opštinski propisi", br. 31/19, 50/23, 23/25 i 51/25), Skupština Glavnog grada - Podgorice, na sjednici održanoj 29, 30. i 31. jula 2026. godine, donijela je
+ODLUKU

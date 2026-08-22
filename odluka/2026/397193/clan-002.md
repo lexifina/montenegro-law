@@ -1,0 +1,5 @@
+# Član 2
+Komisija ima predsjednika i 10 članova, koje imenuje Skupština Glavnog grada - Podgorice (u daljem tekstu: Skupština).
+Predsjednik i deset članova imenuju se iz reda odbornika u Skupštini, i to po jedan član na predlog svakog kluba odbornika u Skupštini i političkih subjekata koji imaju odbornike, ali nemaju obrazovan klub odbornika.
+Predsjednik Komisije je predsjednik Skupštine Glavnog grada.
+Komisija ima sekretara koji vrši stručne i administrativne poslove za potrebe Komisije u saradnji sa Službom Skupštine Glavnog grada.
