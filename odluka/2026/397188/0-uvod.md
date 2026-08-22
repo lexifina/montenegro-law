@@ -1,0 +1,2 @@
+Na osnovu člana 358 stav 1, a u vezi sa članom 13 stav 4 Zakona o privrednim društvima ("Službeni list CG", br. 90/25 i 121/25), člana 38 stav 1 tačka 14 Zаkоnа о lоkаlnој sаmоuprаvi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člаnа 54 stav 1 tačka 17 Stаtutа Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21, 49/22 i 51/25), Skupština Glavnog grada - Podgorice, na sjednici održanoj 29, 30. i 31. jula 2026. godine, donijela je
+ODLUKU
