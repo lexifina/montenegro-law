@@ -1,0 +1,2 @@
+Na osnovu člana 39, člana 40 stav 1 Zakona o državnoj imovini ("Službeni list CG", broj 21/09 , 40/11, 23/25 i 160/25) člana 3 stav 4, člana 4 stav 1 člana 5 stav 1 i 3, člana 6, člana 13, člana 29, člana 30 i člana 32 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list CG", broj 44/10), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/22, 50/22, 84/22, 85/22, 81/25, 98/25 i 30/26), Skupština opštine Ulcinj, na sjednici održanoj dana 29. 7. 2026. godine, donosi
+ODLUKU
