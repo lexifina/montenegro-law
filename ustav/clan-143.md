@@ -1,5 +1,6 @@
 # Члан 143
 ## Централна банка Црне Горе
-Централна банка Црне Горе је самостална организација, одговорна за монетарну и финансијску стабилност и функционисање банкарског система.
-Централном банком Црне Горе управља Савјет Централне банке.
-Централном банком Црне Горе руководи гувернер Централне банке.
+Centralna banka Crne Gore je samostalna i nezavisna organizacija i o svom radu izvještava Skupštinu.
+Centralnom bankom Crne Gore upravlja Savjet Centralne banke.
+Centralnom bankom Crne Gore rukovodi guverner Centralne banke.
+O Centralnoj banci Crne Gore donosi se zakon.
