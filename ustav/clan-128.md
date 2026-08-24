@@ -11,4 +11,3 @@ Sudski savjet:
 8) predlaže Vladi iznos sredstava za rad sudova;
 9) vrši i druge poslove utvrđene zakonom.
 Sudski savjet odlučuje većinom glasova svih članova osim u slučajevima propisanim Ustavom.
-U postupcima disciplinske odgovornosti sudija, ministar nadležan za poslove pravosuđa ne glasa.
