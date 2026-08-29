@@ -1,0 +1,15 @@
+# Član 4
+## Značenje izraza
+Pojedini izrazi koji se upotrebljavaju u ovom pravilniku imaju sljedeće značenje:
+1) garantovani nivo zvučne snage je nivo zvučne snage određen u skladu sa zahtjevima iz Priloga 2, koji uključuje nesigurnosti zbog odstupanja u proizvodnji i nesigurnosti postupaka mjerenja i za koji proizvođač ili njegov zastupnik, u skladu sa primijenjenim mjerilima koja su navedena u tehničkoj dokumentaciji, garantuje da se ne može premašiti;
+2) izmjereni nivo zvučne snage je nivo zvučne snage utvrđen mjerenjem buke u skladu sa zahtjevima iz Priloga 2, pri čemu izmjerene vrijednosti nivoa zvučne snage mogu da se određuju ili na osnovu reprezentativnog uzorka mašine za određenu vrstu opreme ili na osnovu srednje vrijednosti određenog broja mašina;
+3) nivo zvučne snage LWA je A-ponderisani nivo zvučne snage u dB u odnosu na 1 pW, u skladu sa zahtjevima standarda MEST EN ISO 3744:2013 i MEST EN ISO 3746:2013;
+4) oprema koja se upotrebljava na otvorenom prostoru su:
+
+sve mašine, u skladu sa propisom kojim se uređuje bezbjednost mašina, koje imaju sopstveni pogon ili ih je moguće pomjerati i koje su, nezavisno od pogonskih elemenata, po svojoj vrsti, namijenjene za upotrebu na otvorenom prostoru i svojim radom doprinose izloženosti buci u životnoj sredini, pri čemu se upotreba opreme u sredini u kojoj prenos zvuka nije spriječen ili nije značajno spriječen smatra upotrebom na otvorenom (pod šatorima, strehama za zaštitu od kiše ili u nedovršenim konstrukcijama kuća); i
+
+oprema bez pogona koja se upotrebljava u industriji ili u životnoj sredini i koja je, po svojoj vrsti, namijenjena za upotrebu na otvorenom prostoru i doprinosi izloženosti buci u životnoj sredini;
+5) označavanje je stavljanje vidljivog, čitljivog i neizbrisivog CE znaka usaglašenosti na opremu u skladu sa Odlukom 93/465/EEZ, praćeno oznakom garantovanog nivoa zvučne snage;
+6) postupci ocjenjivanja usaglašenosti su postupci iz Priloga 3 do 6 kojima se provjerava usaglašenost opreme sa posebnim zahtjevima u skladu sa ovim pravilnikom;
+7) roba relevantna za krizu je roba koja je nezamjenjiva, čiji se izvori snabdijevanja ne mogu diverzifikovati ili koja je neophodna za održavanje vitalnih društvenih funkcija ili ekonomskih aktivnosti, radi obezbjeđivanja pravilnog funkcionisanja unutrašnjeg tržišta i njegovih lanaca snabdijevanja, koja se smatra ključnom za odgovor na krizu i koja je utvrđena implementacionim aktom Evropske komisije, u skladu sa propisima Evropske unije kojima se uređuje režim vanrednog stanja na unutrašnjem tržištu;
+8) režim vanrednog stanja na unutrašnjem tržištu je okvir za postupanje u krizi koja ima značajan negativan uticaj na unutrašnje tržište, kojom se ozbiljno narušava slobodno kretanje robe, usluga i lica ili, kada je takvo ozbiljno narušavanje bilo ili bi moglo biti predmet različitih nacionalnih mjera, funkcionisanje lanaca snabdijevanja unutrašnjeg tržišta, u skladu sa propisima Evropske unije kojima se uređuje režim vanrednog stanja na unutrašnjem tržištu.
