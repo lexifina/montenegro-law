@@ -1,0 +1,4 @@
+# Član 3
+Član 4 mijenja se i glasi:
+"Radna mjesta na kojima izložena lica i/ili lica odgovorna za zaštitu od nejonizujućih zračenja mogu biti izložena elektromagnetnom polju iznad vrijednosti upozorenja, odnosno vještačkom optičkom zračenju iznad najvećih dopuštenih vrijednosti nivoa izlaganja vještačkom optičkom zračenju, identifikuju se i obilježavaju sigurnosnim znakovima i/ili znakovima za zaštitu zdravlja na radu, u skladu sa Prilogom 1 i 2 koji čine sastavni dio ovog pravilnika, kojima se uređuju sigurnosni i/ili zdravstveni znakovi na radu za zaštitu od nejonizujućih zračenja.
+Pristup radnim mjestima iz stava 1 ovog člana ograničava se ili kontroliše, kada je to tehnički izvodljivo i primjereno, ako postoji rizik od prekoračenja graničnih vrijednosti izloženosti elektromagnetnom polju i/ili vještačkom optičkom zračenju.".

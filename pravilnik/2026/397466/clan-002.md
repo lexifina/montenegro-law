@@ -1,0 +1,15 @@
+# Član 2
+U članu 3 stav 1 mijenja se i glasi:
+"Akcioni program sadrži:
+1) radne metode koje smanjuju rizik od izloženosti elektromagnetnim poljima i/ili vještačkom optičkom zračenju, uključujući rizike koji proizilaze iz direktnih biofizičkih i indirektnih efekata elektromagnetnih polja;
+2) izbor opreme koja emituje niže nivoe elektromagnetnih polja i/ili vještačkog optičkog zračenja, uzimajući u obzir posao koji treba obaviti;
+3) tehničke mjere za smanjenje emisije elektromagnetnih polja i/ili vještačkog optičkog zračenja, uključujući, po potrebi, upotrebu automatskih sigurnosnih sklopki, zaštitnih pregrada, zaštitne opreme, uzemljenje radnih predmeta, izjednačavanje potencijala, sprečavanje kontaktnih struja i varničnih pražnjenja ili sličnih mehanizama za zaštitu zdravlja;
+4) odgovarajuće programe održavanja sredstava za rad, sistema radnih mjesta i radnih pozicija;
+5) odgovarajuće razgraničenje, označavanje, planiranje i raspored radnih mjesta i radnih pozicija, kao i mjere za ograničavanje ili kontrolu pristupa radnim mjestima, uključujući sigurnosne znakove, oznake, oznake na podu i fizičke prepreke, kada je to tehnički izvodljivo i primjereno;
+6) ograničenje trajanja i nivoa izloženosti elektromagnetnim poljima i/ili vještačkom optičkom zračenju;
+7) potrebna sredstva za rad, sredstva i opremu lične zaštite na radu, uključujući, kada je primjenjivo, izolacionu obuću, zaštitne rukavice i zaštitnu odjeću, kao i drugu odgovarajuću ličnu zaštitnu opremu koja se primjenjuje u slučajevima prekoračenja niskih nivoa upozorenja za električna polja utvrđenih propisom kojim se uređuju granice izlaganja elektromagnetnim poljima;
+8) način obavještavanja, osposobljavanja, savjetovanja i učestvovanja u raspravama izloženih lica i lica odgovornih za zaštitu od nejonizujućih zračenja, uključujući informacije o graničnim vrijednostima izloženosti, vrijednostima upozorenja, naročito niskim nivoima upozorenja za električna polja, mogućim indirektnim efektima, privremenim simptomima i mjerama zaštite;
+9) uputstva, tehničku dokumentaciju i bezbjednosne podatke proizvođača opreme koji su od značaja za procjenu i smanjenje rizika od izloženosti elektromagnetnim poljima i/ili vještačkom optičkom zračenju, kada je oprema obuhvaćena propisima kojima se uređuju tehnički zahtjevi za proizvode i ocjenjivanje usaglašenosti proizvoda;
+10) rokove za smanjivanje nivoa rizika izloženosti elektromagnetnom polju i/ili vještačkom optičkom zračenju i imena lica odgovornih za sprovođenje mjera za smanjivanje rizika izloženosti;
+11) posebne zaštitne i preventivne mjere za naročito osjetljiva i posebno rizična izložena lica, uključujući lica koja koriste aktivna ili pasivna implantirana medicinska sredstva, medicinska sredstva koja se nose na tijelu i trudnice;
+12) način evidentiranja razloga prekoračenja graničnih vrijednosti izloženosti i vrijednosti upozorenja, izmijenjenih zaštitnih i preventivnih mjera i rokova za njihovo sprovođenje, na način koji obezbjeđuje sledljivost i naknadni uvid.".
