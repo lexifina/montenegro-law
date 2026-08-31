@@ -1,0 +1,2 @@
+Na osnovu člana 34 stav 1 tačka 21 Statuta Opštine Herceg Novi (,,Službeni list Crne Gore - Opštinski propisi", br. 1/19, 37/19, 6/20 i 18/22) i člana 14 Odluke o dodjeli nagrada Opštine Herceg Novi (,,Službeni list RCG - Opštinski propisi", br. 9/02 i 32/04, Službeni list CG - Opštinski propisi", br. 44/17) Skupština opštine Herceg Novi, na sjednici održanoj dana 31. 8. 2026. godine, donijela je
+RJEŠENJE
