@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 15 Zakona o zaštiti prirode ("Službeni list CG", br 54/16, 18/19 i 84/24), člana 38, 39 i 40 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/22, 50/22, 84/22, 85/22, 81/25, 98/25 i 30/26), člana 58 stav 1 tačka 2 Statuta Opštine Ulcinj ("Službeni list CG - Opštinski propisi", broj 48/19 i 5/24), Skupština opštine Ulcinj, na sjednici održanoj dana 29. 7. 2026. godine, donijela je
+ODLUKU
