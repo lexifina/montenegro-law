@@ -1,0 +1,2 @@
+Na osnovu člana 630 Zakona o privrednim društvima ("Službeni list CG", br. 90/25, 121/25 i 44/26), člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/22, 50/22, 84/22, 85/22, 81/25, 98/25 i 30/26) i člana 58 stav 1 tačka 14 Statuta Opštine Ulcinj ("Službeni list CG - Opštinski propisi", br. 48/19 i 5/24), Skupština opštine Ulcinj, na sjednici održanoj dana 29. 7. 2026. godine, kao jedini osnivač Društva sa ograničenom odgovornošću "Za očuvanje i zaštitu biodiverziteta, uzgoj i lov divljači i ribolov Ulcinj", donijela je
+ODLUKU
