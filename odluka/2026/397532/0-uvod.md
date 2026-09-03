@@ -1,0 +1,2 @@
+Na osnovu člana 32 stav 1 i člana 51 stav 1 tačka 2 i stav 2 Zakona o uređenju prostora ("Službeni list CG", broj 19/25), a u vezi sa Sporazumom o donošenju Prostorno-urbanističkog plana Opštine Berane broj: 04-332/26-3457/7, zaključenim 12. juna 2026. godine, između Vlade Crne Gore i Opštine Berane, Vlada Crne Gore, na sjednici od 23. jula 2026. godine, donijela je
+O D L U K U O IZRADI PROSTORNO-URBANISTIČKOG PLANA OPŠTINE BERANE
