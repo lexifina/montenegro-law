@@ -1,0 +1,4 @@
+# Član 16
+## Nalog direktora
+Direktor Agencije, ukoliko na osnovu dostavljene dokumentacije procijeni da postoji osnov za pokretanje postupka, službenim putem, nalaže ovlašćenim službenicima Agencije za pokretanje i vođenje postupka i ovlašćenim službenicima za postupanje u prekršajnom postupku, pokretanje postupka za utvrđivanje povrede odredaba Zakona i pokretanje postupka izdavanja prekršajnog naloga, odnosno nalaže podnošenje zahtjeva za pokretanje prekršajnog postupka u sk ladu sa odredbama zakona kojim se uređuje prekršajni postupak.
+Ovlašćeni službenik Agencije za pokretanje i vođenje postupka i ovlašćeni službenik za postupanje u prekršajnom postupku pokreće postupak za utvrđivanje povrede odredaba Zakona, pokreće postupak izdavanja prekršajnog naloga, odnosno podnosi zahtjev za pokretanje prekršajnog postupka u skladu sa odredbama zakona kojim se uređuje prekršajni postupak.

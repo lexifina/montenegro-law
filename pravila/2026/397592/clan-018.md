@@ -1,0 +1,5 @@
+# Član 18
+## Osnov sticanja
+Kada se u postupku provjere iz čl. 15 i 17 ovih Pravila utvrdi da postoji osnov sumnje da su prijavljeni prihodi i imovina značajno različiti od stvarnih prihoda i imovine, pri čemu se pod značajno različitim prihodima i imovinom podrazumijeva razlika između ostvarenih i prijavljenih prihoda i imovine, koja je veća od 50.000 eura, ovlašćeni službenik Agencije poziva lica iz člana 2 stav 1 ovih Pravila da, u roku od 30 dana od dana prijema poziva, dostave pisane dokaze o osnovu sticanja prijavljenih prihoda i imovine.
+Postupak provjere i upoređivanja prijavljenih prihoda i imovine može se pokrenuti i protiv lica iz člana 2 stav 1 ovih pravila kojem je prestala dužnost, odnosno svojstvo po osnovu kojeg je bilo obveznik podnošenja Izvještaja.
+U slučaju nedostavljanja dokaza o osnovu sticanja prihoda i imovine, ovlašćeni službenik informiše rukovodioca nadležnog Odsjeka, odnosno ovlašćenog službenika za postupanje u prekršajnom postupku i zahtijeva pokretanje prekršajnog postupka u skladu sa odredbama zakona kojim se uređuje prekršajni postupak.
