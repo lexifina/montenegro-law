@@ -1,0 +1,8 @@
+# Član 69
+## Davanje oduzete imovinske koristi u zakup ili na korišćenje bez naknade
+Nadležni organ može imovinsku korist za koju je određena privremena mjera obezbjeđenja iz člana 22 stav 1 tač. 1 i 2 ovog zakona, dati u zakup ili povjeriti na upravljanje licu koje nije povezano sa imaocem, odnosno vlasnikom, državnim organima i organima lokalne samouprave, pravnim licima koja vrše javna ovlašćenja, humanitarnim i nevladinim organizacijama ili drugim pravnim subjektima.
+Nadležni organ može kuću ili stan za koju je određena privremena mjera obezbjeđenja iz člana 22 stav 1 tač. 1 i 2 ovog zakona, dati na korišćenje bez naknade bračnom ili vanbračnom supružniku ili partneru u zajednici života lica istog pola, djeci i roditeljima imaoca, odnosno vlasnika ako su u vrijeme oduzimanja stanovali u privremeno oduzetoj kući ili stanu.
+Novčana sredstva dobijena davanjem u zakup oduzete imovinske koristi uplaćuju se na poseban račun nadležnog organa i koriste se za pokrivanje troškova upravljanja i održavanja oduzete imovinske koristi.
+Nadležni organ može državnom organu, odnosno organu državne uprave dati na korišćenje, bez naknade, privremeno oduzetu pokretnu imovinu ako je to potrebno u cilju zaštite bezbjednosti ličnosti koja se štiti u skladu sa propisom kojim se određuju ličnosti, objekti i prostori koje obezbjeđuje policija.
+O preduzetim radnjama iz st. 1, 2 i 4 ovog člana nadležni organ, bez odlaganja, obavještava sud koji je donio rješenje o određivanju privremene mjere obezbjeđenja iz člana 22 stav 1 tač. 1 i 2, odnosno člana 22 stav 3 ovog zakona.
+Način davanja u zakup privremeno oduzete imovinske koristi propisuje Vlada.

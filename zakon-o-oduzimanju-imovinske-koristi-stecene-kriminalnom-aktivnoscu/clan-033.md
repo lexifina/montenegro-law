@@ -1,0 +1,10 @@
+# Član 33
+## Trajanje privremene mjere obezbjeđenja
+Privremena mjera obezbjeđenja može trajati najduže do pravosnažnosti odluke o trajnom oduzimanju imovinske koristi stečene kriminalnom aktivnošću.
+Ako je privremena mjera obezbjeđenja određena u izviđaju, ukinuće se po službenoj dužnosti ako istraga ne započne u roku od šest mjeseci od dana donošenja rješenja o određivanju privremene mjere obezbjeđenja.
+Ako je privremena mjera obezbjeđenja određena u istrazi, ukinuće se po službenoj dužnosti ako u roku od dvije godine od dana donošenja rješenja o određivanju privremene mjere obezbjeđenja optužnica ne stupi na pravnu snagu.
+U slučaju iz stava 3 ovog člana, po isteku dvije godine od dana donošenja rješenja o određivanju privremene mjere obezbjeđenja, protiv istog lica u odnosu na istu imovinu koja je bila predmet privremene mjere obezbjeđenja ne može se ponovo podnijeti predlog za određivanje privremene mjere.
+Prije isteka vremena iz st. 1, 2 i 3 ovog člana, sud može privremenu mjeru obezbjeđenja ukinuti po službenoj dužnosti ili na zahtjev državnog tužioca, imaoca, branioca ili punomoćnika, ako se utvrdi da nije potrebna ili opravdana s obzirom na težinu krivičnog djela, imovinske prilike lica na koje se privremena mjera odnosi ili lica koje je po zakonu to lice dužno da izdržava i okolnosti slučaja koje pokazuju da oduzimanje imovinske koristi neće biti onemogućeno ili znatno otežano do završetka postupka.
+Sud može privremenu mjeru obezbjeđenja zamijeniti drugom mjerom na zahtjev državnog tužioca, imaoca, branioca ili punomoćnika, ako utvrdi da će se svrha obezbjeđenja imovinske koristi postići drugom mjerom.
+Sud će na zahtjev savjesnog trećeg lica ukinuti privremenu mjeru obezbjeđenja ako to lice podnese isprave iz kojih se očigledno može utvrditi da je to lice vlasnik imovinske koristi koja je predmet privremene mjere obezbjeđenja.
+Zahtjev za ukidanje privremene mjere obezbjeđenja državni tužilac, imalac, branilac, punomoćnik ili savjesno treće lice mogu podnijeti ponovo, nakon isteka roka od tri mjeseca od dana donošenja rješenja kojim se odbija zahtjev za ukidanje iz stava 5 ovog člana.

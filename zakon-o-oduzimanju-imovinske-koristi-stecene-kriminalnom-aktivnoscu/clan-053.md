@@ -1,0 +1,7 @@
+# Član 53
+## Namirenje potraživanja savjesnih trećih lica
+Savjesno treće lice čije je potraživanje ili drugo pravo utvrđeno pravosnažnom odlukom o trajnom oduzimanju imovinske koristi stečene kriminalnom aktivnošću može, u roku od dva mjeseca od dana prijema pravosnažne odluke, podnijeti zahtjev nadležnom organu radi namirenja svog potraživanja ili ostvarivanja drugog prava iz oduzete imovinske koristi.
+U slučaju iz člana 52 stav 5 ovog zakona, ako nadležni sud prihvati zahtjev za naknadno ostvarenje prava da traži namirenje potraživanja iz oduzete imovinske koristi, savjesno treće lice može, u roku od mjesec dana, podnijeti zahtjev nadležnom organu radi namirenja svog potraživanja ili ostvarivanja drugog prava iz oduzete imovinske koristi.
+Ako ukupna vrijednost potraživanja iz st. 1 i 2 ovog člana prelazi vrijednost oduzete imovinske koristi stečene kriminalnom aktivnošću, nadležni organ će savjesnom trećem licu ponuditi namirenje shodnom primjenom pravila namirenja povjerilaca u stečajnom postupku.
+Ako savjesno treće lice ne prihvati ponudu iz stava 3 ovog člana, može u roku od dva mjeseca podnijeti zahtjev sudu koji je donio odluku o trajnom oduzimanju imovinske koristi stečene kriminalnom aktivnošću da donese rješenje o namirenju potraživanja iz stava 1 ovog člana. Sud će namirenje odrediti shodnom primjenom zakona kojim se uređuje namirenje povjerilaca u stečajnom postupku.
+Protiv odluke iz stava 4 ovog člana može se podnijeti žalba drugostepenom sudu, u roku od osam dana od dana prijema rješenja.

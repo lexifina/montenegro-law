@@ -1,0 +1,4 @@
+# Član 37
+## Podnošenje zahtjeva za trajno oduzimanje u slučaju otkrivanja nove imovinske koristi
+Ako se u toku postupka po zahtjevu za trajno oduzimanje imovinske koristi otkrije nova imovinska korist za koju postoji osnovana sumnja da je stečena kriminalnom aktivnošću, državni tužilac će podnijeti dopunu zahtjeva iz člana 36 ovog zakona u odnosu na tu imovinsku korist.
+Ako se nakon pravosnažnog okončanja postupka po zahtjevu za trajno oduzimanje imovinske koristi stečene kriminalnom aktivnošću, a najkasnije do isteka rokova iz člana 36 ovog zakona, otkrije nova imovinska korist za koju postoji osnovana sumnja da je stečena kriminalnom aktivnošću, državni tužilac može podnijeti novi zahtjev za trajno oduzimanje imovinske koristi stečene kriminalnom aktivnošću u odnosu na tu imovinsku korist.

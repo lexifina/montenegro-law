@@ -1,0 +1,7 @@
+# Član 43
+## Rješenje
+Po okončanju glavnog ročišta sud donosi rješenje kojim usvaja ili odbija zahtjev za trajno oduzimanje imovinske koristi.
+Prilikom donošenja rješenja iz stava 1 ovog člana sud će posebno cijeniti objektivnu mogućnost pribavljanja dokaza od strane imaoca.
+Rješenje o trajnom oduzimanju imovinske koristi sadrži podatke o imaocu, zakonski naziv krivičnog djela iz presude, odnosno okolnosti iz člana 9 stav 1 ovog zakona ili podatke o rješenju kojim se optužnica potvrđuje odnosno zakazanom glavnom pretresu u skraćenom postupku u slučaju iz člana 36 stav 2 ovog zakona, podatke o imovinskoj koristi i vrijednosti imovinske koristi koja se oduzima od imaoca ako je imalac raspolagao imovinom i odluku o troškovima upravljanja imovinskom koristi za koju je određena privremena mjera obezbjeđenja, imovinsko-pravnom zahtjevu oštećenog i troškovima zastupanja i potraživanju ili drugom pravu savjesnog trećeg lica.
+Rješenje iz stava 1 ovog člana sud će dostaviti imaocu, njegovom braniocu odnosno punomoćniku, savjesnom trećem licu i njegovom punomoćniku, državnom tužiocu, oštećenom i njegovom punomoćniku i nadležnom organu.
+Ako je rješenjem iz stava 3 ovog člana odlučeno o troškovima upravljanja imovinskom koristi za koju je određena privremena mjera obezbjeđenja i troškovima punomoćnika iz člana 39 stav 3 ovog zakona i troškovima privremenog zastupnika iz člana 48 stav 2 ovog zakona, a ti troškovi se ne mogu naplatiti od imaoca, sud će u rješenju o trajnom oduzimanju imovinske koristi taj iznos izdvojiti iz oduzete imovinske koristi.

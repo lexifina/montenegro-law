@@ -1,0 +1,5 @@
+# Član 90
+## Započeti postupci
+Postupci u kojima je do dana stupanja na snagu Zakona o oduzimanju imovinske koristi stečene kriminalnom aktivnošću („Službeni list CG“ br. 58/15, 47/19 i 54/24) donijeta prvostepena odluka o trajnom oduzimanju imovine, okončaće se u skladu sa odredbama propisa koji su bili na snazi do dana stupanja na snagu tog zakona.
+Ako je do dana stupanja na snagu Zakona o oduzimanju imovinske koristi stečene kriminalnom aktivnošću („Službeni list CG“ br. 58/15, 47/19 i 54/24) donijeta prvostepena odluka po zahtjevu za trajno oduzimanje imovine ukinuta i predmet upućen prvostepenom sudu na ponovno suđenje, u daljem postupku primijeniće se odredbe ovog zakona.
+Ako do dana stupanja na snagu Zakona o oduzimanju imovinske koristi stečene kriminalnom aktivnošću („Službeni list CG“ br. 58/15, 47/19 i 54/24) nije izvršena pravosnažna odluka o trajnom oduzimanju imovine donijeta prije stupanja na snagu ovog zakona, izvršenje će se sprovesti u skladu sa odredbama ovog zakona.

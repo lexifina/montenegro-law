@@ -1,0 +1,5 @@
+# Član 51
+## Zaštita oštećenog
+Ako je u krivičnom postupku zbog krivičnog djela iz člana 2 stav 1 ovog zakona ili u parničnom postupku donijeta pravosnažna odluka kojom je usvojen imovinskopravni zahtjev oštećenog, sud će na zahtjev oštećenog u rješenju o trajnom oduzimanju imovinske koristi odlučiti da će se imovinskopravni zahtjev namiriti iz oduzete imovinske koristi, ako se do pravosnažnosti rješenja na drugi način imovinskopravni zahtjev ne namiri.
+Ako je u toku parnični postupak radi ostvarivanja imovinsko-pravnog zahtjeva zbog krivičnog djela iz člana 2 stav 1 ovog zakona, sud će na zahtjev oštećenog u rješenju o trajnom oduzimanju imovinske koristi odrediti da se sredstva u visini imovinsko-pravnog zahtjeva izdvoje i posebno čuvaju ili deponuju na poseban račun.
+Ako se u postupku iz stava 2 ovog člana donese presuda kojom je usvojen imovinskopravni zahtjev, izvršenje će se sprovesti na izdvojenim ili deponovanim sredstvima ako imovinskopravni zahtjev nije na drugi način namiren.

@@ -1,0 +1,3 @@
+# Član 74
+## Ograničenja u raspolaganju
+Nadležni organ ne može oduzetu imovinsku korist predatu na čuvanje i skladištenje, dati u zakup ili prodati bračnom ili vanbračnom supružniku ili partneru u zajednici života lica istog pola imaoca, njegovom srodniku po krvi u pravoj liniji do bilo kojeg stepena, srodniku u pobočnoj liniji do četvrtog stepena ili srodniku po tazbini zaključno do drugog stepena, braniocu, odnosno punomoćniku imaoca, kao i privrednom društvu u kojem imalac posjeduje akcije u visini od najmanje 25% svih akcija ili kontroliše privredno društvo na osnovu dominantnog položaja u upravljanju privrednim društvom ili drugom povezanom licu sa imaocem.

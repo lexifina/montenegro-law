@@ -1,0 +1,3 @@
+# Član 91
+Ako je do dana stupanja na snagu ovog zakona donijeta naredba o pokretanju finansijske istrage po odredbama Zakona o oduzimanju imovinske koristi stečene kriminalnom aktivnošću („Službeni list CG", br. 58/15 i 47/19), finansijska istraga će se okončati, u skladu sa odredbama tog zakona.
+Ako je do dana stupanja na snagu ovog zakona donijeta naredba o pokretanju finansijske istrage po odredbama Zakona o oduzimanju imovinske koristi stečene kriminalnom aktivnošću („Službeni list CG", br. 58/15, 47/19 i 54/24), finansijska istraga će se okončati, a postupak trajnog oduzimanja imovinske koristi stečene kriminalnom aktivnošću će se sprovesti, u skladu sa odredbama ovog zakona.
