@@ -1,0 +1,16 @@
+# Član 50
+## Preusmjeravanje sredstava
+Vlada, uz prethodno mišljenje Ministarstva, može između potrošačkih jedinica vršiti preusmjeravanje sredstava utvrđenih budžetom države u visini do 10% od ukupno planiranih sredstava potrošačke jedinice.
+Iznos u visini do 10% iz stava 1 ovog člana primjenjuje se na ukupno planirane izdatke potrošačke jedinice čiji se odobreni iznos sredstava umanjuje.
+Ako u toku tekuće fiskalne godine izmjenama budžeta države, odnosno budžeta opštine, dođe do povećanja, odnosno smanjenja odobrenih sredstava potrošačkoj jedinici, iznos do 10% iz stava 1 ovog člana primjenjuje se na uvećane, odnosno umanjene planirane izdatke te potrošačke jedinice, osim u slučaju ako je prije izmjena budžeta države, odnosno budžeta opštine već sprovedeno preusmjeravanje do nivoa koji prelazi iznos od 10% umanjenih ukupnih planiranih sredstava potrošačke jedinice.
+Ministarstvo može, po zahtjevu potrošačke jedinice na nivou grupe organizacione klasifikacije, preusmjeriti odobrena sredstva te potrošačke jedinice po programima, potprogramima, aktivnostima i pojedinim izdacima, u visini do 10% od sredstava utvrđenih budžetom države, za programe, potprograme, aktivnosti, projekte i izdatke čiji se iznos umanjuje.
+Preusmjeravanje sredstava iz stava 1 i 4 ovog člana sprovodi se rješenjem Ministarstva.
+Potrošačka jedinica na nivou grupe organizacione klasifikacije može, po zahtjevu potrošačke jedinice na nivou jedinice organizacione klasifikacije, preusmjeriti odobrena sredstva te potrošačke jedinice po programima, potprogramima, aktivnostima i pojedinim izdacima, u visini do 10% od sredstava utvrđenih budžetom države, za programe, potprograme, aktivnosti, projekte i izdatke čiji se iznos umanjuje.
+Preusmjeravanje sredstava iz stava 6 ovog člana sprovodi se rješenjem nadležne potrošačke jedinice na nivou grupe organizacione klasifikacije.
+Ako u toku tekuće fiskalne godine izmjenama budžeta države, odnosno budžeta opštine, dođe do povećanja, odnosno smanjenja odobrenih sredstava kod potrošačke jedinice po pojedinim programima, potprogramima, aktivnostima, projektima i izdacima, iznos u visini do 10% iz stava 4 i 6 ovog člana primjenjuje se na uvećane, odnosno umanjene planirane izdatke te potrošačke jedinice po pojedinim programima, potprogramima, aktivnostima, projektima i izdacima, osim u slučaju ako je prije izmjena budžeta države, odnosno budžeta opštine već sprovedeno preusmjeravanje do nivoa koji prelazi iznos od 10% umanjenih planiranih izdataka te potrošačke jedinice po pojedinim programima, potprogramima, aktivnostima, projektima i izdacima.
+Preusmjeravanje sredstava utvrđenih budžetom opštine vrši nadležni organ opštine, shodno odredbama Zakona o finansiranju lokalne samouprave.
+Izuzetno od ograničenja iz st. 1, 4 i 6 ovog člana, Vlada, Ministarstvo, odnosno potrošačka jedinica na nivou grupe organizacione klasifikacije može preusmjeriti sredstva planirana budžetom države, odnosno budžetom opštine:
+1) bez ograničenja između izdataka kod aktivnosti u okviru koje su planirana sredstva iz donacija, evropskih fondova i kredita kao izvora finansiranja,
+2) bez ograničenja između različitih izvora finansiranja u okviru istog izdatka kod određene aktivnosti,
+3) bez ograničenja sa sredstava rezerve.
+Rješenje iz st. 5 i 7 ovog člana sprovodi se na obrascu koji propisuje Ministarstvo.

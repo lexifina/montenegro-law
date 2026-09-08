@@ -1,0 +1,6 @@
+# Član 32
+## Programski budžet
+Programski budžet je sastavni dio budžeta države, odnosno budžeta opštine i priprema se na propisanim obrascima i/ili posredstvom informacionog sistema za upravljanje budžetom, u skladu sa instrukcijama Ministarstva.
+Programski budžet potrošačke jedinice sadrži: opis nadležnosti potrošačke jedinice; ciljeve, indikatore učinka, informacije o rodnoj odgovornosti povezane sa ciljevima, indikatorima i očekivanim rezultatima programa i druge relevantne nefinansijske informacije, kao i finansijske informacije o izdacima po programskoj klasifikaciji.
+Programski budžet je osnov za planiranje, praćenje i ocjenu budžetske potrošnje, uključujući ocjenu efikasnosti i efektivnosti programa, i koristi se u pripremi Srednjoročnog budžetskog okvira, ocjeni zahtjeva za dodjelu budžetskih sredstava i raspodjeli budžetskih sredstava.
+Bliži način pripreme, sadržaj programskog budžeta, definisanje i vođenje programske klasifikacije iz člana 10 ovog zakona, ovlašćenja i odgovornosti u postupku planiranja i realizaciji programskog budžeta, rokove i obrasce za izvještavanje iz stava 1 i 2 ovog člana i druga pitanja od značaja za programski budžet propisuje Vlada na predlog Ministarstva.

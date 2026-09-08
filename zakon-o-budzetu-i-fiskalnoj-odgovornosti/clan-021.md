@@ -1,0 +1,10 @@
+# Član 21
+## Fiskalna strategija
+Fiskalnu strategiju za period od četiri godine, na predlog Vlade, donosi Skupština.
+Predlog fiskalne strategije ili izmjena Fiskalne strategije utvrđuje Vlada, na predlog Ministarstva, i dostavlja na mišljenje Fiskalnom savjetu Crne Gore.
+Fiskalni savjet dužan je da u roku od 15 radnih dana od dana prijema Predloga fiskalne strategije iz stava 2 ovog člana dostavi mišljenje Vladi i Skupštini.
+Fiskalna strategija sadrži srednjoročne ciljeve fiskalne politike, makroekonomske pretpostavke, kriterijume fiskalne odgovornosti, projekcije primitaka, izdataka, budžetskog suficita, odnosno deficita i javnog duga, putanju neto rashoda za nivo opšte države i njegove podsektore, fiskalne rizike, značajne reforme i investicije sa fiskalnim uticajem i, po potrebi, mjere za fiskalnu konsolidaciju, smanjenje duga ili korekciju odstupanja od kriterijuma fiskalne odgovornosti ili putanje neto rashoda.
+Fiskalna strategija može utvrditi operativni cilj javnog duga i budžetskog deficita niži od kriterijuma iz člana 25 ovog zakona, sa putanjom prilagođavanja i pragovima upozorenja, radi obezbjeđenja fiskalnog prostora za djelovanje u slučaju nepredvidivih okolnosti.
+Fiskalna strategija je osnov za pripremu Smjernica makroekonomske i fiskalne politike, Srednjoročnog budžetskog okvira i budžeta države.
+Metodologiju obračuna neto rashoda iz stava 3 ovog člana, uključujući način utvrđivanja ciklične komponente, jednokratnih i privremenih mjera i efekata diskrecionih mjera na prihodnoj strani, korekciju za promjenu stanja neizmirenih obaveza, kao i način iskazivanja neto rashoda u skladu sa ESA metodologijom, propisuje Ministarstvo.
+Vlada Skupštini, uz predlog zakona o završnom računu budžeta države, dostavlja izvještaj o sprovođenju Fiskalne strategije, uključujući napredak u ostvarivanju srednjoročnih ciljeva fiskalne politike, usklađenost sa kriterijumima fiskalne odgovornosti, sprovođenje putanje neto rashoda, kretanje javnog duga, značajne fiskalne rizike i sprovođenje mjera fiskalne politike.

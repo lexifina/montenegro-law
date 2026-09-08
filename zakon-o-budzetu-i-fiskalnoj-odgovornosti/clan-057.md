@@ -1,0 +1,11 @@
+# Član 57
+## Izvještaj o nadzoru i mjere
+O sprovedenom nadzoru nadzorni tim sačinjava pisani izvještaj koji sadrži predmet nadzora, utvrđeno činjenično stanje, utvrđene nepravilnosti i preporučene ili naložene mjere za otklanjanje nepravilnosti sa rokom za njihovo otklanjanje.
+Izvještaj o nadzoru nadzorni tim dostavlja rukovodiocu potrošačke jedinice koja sprovodi nadzor i potrošačkoj jedinici koja je predmet nadzora.
+Ako je nadzor utvrdio odstupanje od planova ili nepravilnosti, potrošačka jedinica koja vrši nadzor može izdati nalog potrošačkoj jedinici nad kojom je vršen nadzor za otklanjanje nepravilnosti u određenom roku, koji ne može biti duži od 60 dana.
+Nakon isteka roka iz stava 3 ovog člana, potrošačka jedinica koja je vršila nadzor provjerava da li su nepravilnosti otklonjene i o tome sačinjava izvještaj o izvršenju mjera za otklanjanje utvrđenih nepravilnosti.
+Ako potrošačka jedinica nad kojom je izvršen nadzor ne otkloni nepravilnosti u propisanom roku, potrošačka jedinica koja vrši nadzor može predložiti pokretanje postupka odgovornosti budžetskog izvršioca potrošačke jedinice, u skladu sa zakonom, te o tome obavještava Ministarstvo, odnosno budžetsku inspekciju u cilju sprovođenja eventualnih aktivnosti iz svoje nadležnosti.
+Ako u sprovođenju nadzora nastane osnovana sumnja na nezakonito korišćenje budžetskih sredstava, potrošačka jedinica koja vrši nadzor izvještaj o nadzoru dostavlja budžetskoj inspekciji, odnosno inicira vanrednu unutrašnju reviziju, i tim službama ustupa raspoloživu dokumentaciju.
+Ako nadzorni tim u postupku nadzora utvrdi činjenice koje ukazuju na postojanje osnova sumnje da je učinjeno krivično djelo ili prekršaj, dužan je da bez odlaganja obavijesti, odnosno podnese prijavu nadležnom organu u skladu sa zakonom.
+Potrošačka jedinica koja vrši nadzor priprema i dostavlja Vladi godišnji konsolidovani izvještaj o sprovedenim nadzorima nad potrošačkim jedinicama nad kojima vrši nadzor, najkasnije do kraja marta tekuće, za prethodnu fiskalnu godinu.
+Izvještaj o nadzoru iz stava 1 ovog člana objavljuje se na internet stranici potrošačke jedinice koja je sprovela nadzor u roku od 15 dana od dana dostavljanja izvještaja potrošačkoj jedinici koja je bila predmet nadzora, uz izostavljanje podataka čije je objavljivanje ograničeno posebnim zakonom. VII. POZAJMICE I GARANCIJE

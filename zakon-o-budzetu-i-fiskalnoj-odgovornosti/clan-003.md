@@ -1,0 +1,55 @@
+# Član 3
+## Značenje izraza
+Izrazi upotrijebljeni u ovom zakonu imaju sljedeća značenja:
+1) budžet je plan primitaka i izdataka za fiskalnu godinu, koji sadrži i projekcije primitaka i izdataka za dodatne dvije fiskalne godine;
+2) obaveze iz prethodnog perioda su budžetske obaveze koje nijesu dospjele na plaćanje i čija je obaveza nastala na osnovu zakona i u skladu sa zakonom i ugovorom;
+3) neizmirene obaveze iz prethodnog perioda su budžetske obaveze koje nijesu plaćene na dan dospijeća plaćanja i čija je obaveza nastala na osnovu zakona i u skladu sa zakonom i ugovorom;
+4) programski budžet je dio budžeta države, odnosno budžeta opštine, koji sadrži aktivnosti i projekte pojedinih potrošačkih jedinica koji se sprovode radi efikasnog upravljanja sredstvima po programskoj klasifikaciji, a doprinose ostvarenju strateških ciljeva u skladu sa ekonomskom politikom države;
+5) srednjoročni budžetski okvir je ukupan obim izdataka budžeta države iskazan za tekuću i naredne tri fiskalne godine, koji predstavlja osnov za planiranje godišnjeg budžeta;
+6) rodno odgovorno budžetiranje je uvođenje principa rodne ravnopravnosti u proces budžetiranja kroz planiranje i izvršenje, praćenje, izvještavanje i evaluaciju izdataka budžeta uz uključivanje rodne perspektive, čime se doprinosi ostvarivanju javnih politika i raspodjeli javnog novca u skladu sa utvrđenim potrebama i prioritetima i rješavanju pitanja rodne neravnopravnosti;
+7) budžetska klasifikacija je sistem jedinstvene klasifikacije na osnovu kojeg se budžet priprema i izvršava, koji obuhvata organizacionu, ekonomsku, funkcionalnu i programsku klasifikaciju;
+8) organizaciona klasifikacija je struktura kodova koji se koriste za klasifikaciju potrošačkih jedinica, koja obuhvata četiri nivoa: razdio, granu, grupu i jedinicu;
+9) ekonomska klasifikacija je struktura kodova koji se koriste za klasifikaciju računovodstvenih kategorija prema njihovoj ekonomskoj prirodi;
+10) funkcionalna klasifikacija je klasifikacija funkcija države i opština u skladu sa prihvaćenim međunarodnim klasifikacionim standardima;
+11) programska klasifikacija je struktura kodova koji se koriste za klasifikaciju programa, potprograma i aktivnosti;
+12) izvori finansiranja su primici iz kojih se podmiruju izdaci određene vrste i namjene, koji obuhvataju: opšte izvore finansiranja, namjenske izvore finansiranja, sopstvene izvore prihoda, kredite, donacije i EU grantove;
+13) potrošačke jedinice su državni organi, organi državne uprave i drugi subjekti registrovani kao pravna lica i razvrstani prema djelatnosti u skladu sa zakonom, koji se finansiraju iz budžeta države ili budžeta opštine, u skladu sa zakonom, radi vršenja javnih funkcija;
+14) potrošačke jedinice na nivou grane organizacione klasifikacije su: Služba Predsjednika Crne Gore, Skupština Crne Gore (u daljem tekstu: Skupština), Ustavni sud, Sudski savjet, Tužilački savjet, Centar za obuku u sudstvu i državnom tužilaštvu (u daljem tekstu: „pravosudni organi“), Generalni sekretarijat Vlade Crne Gore i ministarstva, samostalne potrošačke jedinice i državni fondovi, kao i predsjednik opštine i skupština opštine;
+15) potrošačke jedinice na nivou grupe organizacione klasifikacije su potrošačke jedinice na nivou grane organizacione klasifikacije, kao i drugi državni organi, organi državne uprave, organi i stručne i posebne službe opština;
+16) potrošačke jedinice na nivou jedinice organizacione klasifikacije su potrošačke jedinice na nivou grupe organizacione klasifikacije, pojedinačni sudovi i tužilaštva, javne ustanove koje osniva država ili opština, kao i subjekti nad kojima osnivač, preko potrošačkih jedinica na nivou grupe organizacione klasifikacije, vrši nadzor nad radom i/ili koji, uz prethodnu saglasnost druge potrošačke jedinice na nivou grupe, donose svoj plan prihoda i rashoda, u skladu sa zakonom, kao i drugi subjekti kojima se sredstva opredjeljuju budžetom opštine;
+17) samostalne potrošačke jedinice su potrošačke jedinice koje su, u skladu sa posebnim zakonom, funkcionalno i operativno nezavisne u vršenju zakonom utvrđenih nadležnosti, i nad čijim radom i trošenjem sredstava druga potrošačka jedinica ne vrši nadzornu funkciju;
+18) javne ustanove su neprofitna pravna lica koja osniva država ili opština posebnim aktom o osnivanju u skladu sa zakonom, radi pružanja usluga od javnog interesa u oblastima obrazovanja, zdravstva, socijalne zaštite, kulture i drugim oblastima utvrđenim zakonom;
+19) opšti nivo države prema pravilima ESA metodologije, čine centralni nivo države, lokalni nivo države i drugi podsektori;
+20) centralni nivo države čine državni organi i organi državne uprave koji se finansiraju iz budžeta države, kao i pravna lica i privredna društva koja su pod upravljačkom kontrolom države, a koja se u skladu sa ESA metodologijom, klasifikuju u podsektor centralne države;
+21) lokalni nivo čine organi opštine, pravna lica i privredna društva koja su pod upravljačkom kontrolom opštine, a koja se, u skladu sa ESA metodologijom, klasifikuju u podsektor lokalne države;
+22) državni dug je dug centralnog nivoa države;
+23) javni dug je dug centralnog i lokalnog nivoa, odnosno opšteg nivoa države;
+24) otplata duga su transakcije koje se odnose na otplatu dugoročnih i kratkoročnih, domaćih i stranih kredita i dužničkih hartija od vrijednosti, garancija i neizmirenih obaveza iz prethodnih godina;
+25) javni sektor su organi državne uprave, opštine, javne ustanove, nezavisna regulatorna tijela, privredna društva i pravna lica u kojima država ili opštine imaju većinski vlasnički udio i druga pravna lica koja potpadaju pod javni sektor u smislu Zakona o računovodstvu u javnom sektoru;
+26) nezavisna regulatorna tijela su javne institucije osnovane posebnim zakonom radi obavljanja regulatornih funkcija u pojedinim sektorima, u skladu sa zakonom;
+27) transferni zajam je oblik pozajmica koji je Vlada Crne Gore (u daljem tekstu: Vlada) primila od drugog zajmodavca radi davanja pozajmice krajnjim korisnicima zajma;
+28) državna garancija je garancija koju izdaje Vlada u svrhu obezbjeđenja otplate obaveza po osnovu kreditnih ugovora ili dužničkih hartija od vrijednosti korisnika državne garancije;
+29) unakrsni valutni svop je finansijski derivat, odnosno oblik sporazuma između dvije strane o razmjeni plaćanja kamata i glavnice denominovane u dvije različite valute, tokom određenog vremenskog perioda;
+30) kamatni svop je finansijski derivat, odnosno oblik sporazuma između dvije strane o razmjeni jednog toka plaćanja kamata za drugi, tokom određenog vremenskog perioda;
+31) finansijski derivat je finansijski instrument čija vrijednost proističe iz vrijednosti i karakteristika drugog finansijskog instrumenta;
+32) višegodišnji izdaci su izdaci čija je obaveza plaćanja utvrđena zakonom i ugovorima za period duži od jedne fiskalne godine;
+33) plaćanja su novčane transakcije usljed kojih dolazi do smanjenja salda na bankarskom računu;
+34) ugovorena obaveza je preuzeta obaveza kojom se rezervišu sredstva za isplatu isporučenih dobara i usluga;
+35) bankarski račun je račun za primanje, plaćanje i prenos novčanih sredstava, u skladu sa zakonom;
+36) budžetski izvršilac je lice koje je odgovorno za izvršenje budžeta potrošačke jedinice, odnosno lice koje budžetski izvršilac ovlasti za upravljanje i raspolaganje državnim novcem;
+37) transfer je plaćanje ili prenos prava svojine, bez činjenja odgovarajuće protivusluge;
+38) opšti prihodi su prihodi kojima se finansira javna potrošnja i kojima zakonom nije unaprijed utvrđena namjena;
+39) namjenski prihodi su prihodi kojima se finansira javna potrošnja i kojima je zakonom unaprijed utvrđena namjena;
+40) sopstvena sredstva Evropske unije su sredstva koja Crna Gora uplaćuje u budžet Evropske unije, u skladu sa propisima Evropske unije o sistemu sopstvenih sredstava;
+41) sopstveni prihodi su prihodi koje potrošačka jedinica ostvari vršenjem sopstvene djelatnosti ili pružanjem usluga;
+42) donacija je primitak ostvaren bez naknade ili protivusluge od strane pravnog ili fizičkog lica;
+43) sistem za zaštitu finansijskih interesa Evropske unije (AFCOS sistem) je sistem u okviru kojeg se osigurava koordinacija zakonodavnih, administrativnih i operativnih aktivnosti u cilju zaštite finansijskih interesa Evropske unije i neposredna saradnja sa Evropskom kancelarijom za borbu protiv prevara (OLAF);
+44) fiskalni rizici su kratkoročna ili srednjoročna potencijalna odstupanja fiskalnih varijabli od njihovih projektovanih vrijednosti;
+45) kapitalnim projektom smatra se izrada tehničke i projektne dokumentacije za potrebe izgradnje infrastrukturnih objekata od javnog interesa, kupovina objekata, kupovina ili obezbjeđivanje zemljišta za potrebe izgradnje infrastrukturnih objekata od javnog interesa, izgradnja, rekonstrukcija i adaptacija infrastrukturnih objekata od javnog interesa, nabavka kapitalne opreme koja se evidentira kao osnovno sredstvo;
+46) javna investicija je ulaganje javnih sredstava potrošačkih jedinica, javnih ustanova i privrednih društava u većinskom vlasništvu države, odnosno opštine, u dugotrajnu imovinu koja se koristi duže od jedne godine i doprinosi ekonomskom i društvenom razvoju;
+47) ESA metodologija je Evropski sistem nacionalnih i regionalnih računa u Evropskoj uniji;
+48) potencijalna obaveza je moguća obaveza države, opštine ili subjekta javnog sektora koja može nastati u zavisnosti od nastupanja ili nenastupanja budućeg događaja, uključujući garancije, javno-privatna partnerstva, koncesije, sudske sporove, obaveze javnih preduzeća i druge fiskalne rizike;
+49) neto rashodi su izdaci opšteg nivoa države umanjeni za izdatke za kamate, izdatke finansirane iz fondova Evropske unije i pripadajuće nacionalno sufinansiranje, cikličnu komponentu izdataka za nezaposlenost i jednokratne i druge privremene mjere, korigovani za efekte diskrecionih mjera na prihodnoj strani;
+50) putanja neto rashoda je najviša godišnja stopa rasta neto rashoda opšteg nivoa države utvrđena Fiskalnom strategijom, za opšti nivo države i po podsektorima opšteg nivoa države, za svaku fiskalnu godinu perioda važenja Strategije;
+51) poreski rashodi su prihodi kojih se država ili opština odriče po osnovu poreskih oslobođenja, olakšica, odbitaka, sniženih stopa, odlaganja i drugih preferencijalnih poreskih mjera koje umanjuju prihode u odnosu na referentni poreski sistem;
+52) javna sredstva su svi prihodi, primici, donacije, sredstva fondova Evropske unije, krediti, sredstva budžetske podrške, sopstveni i namjenski prihodi i druga finansijska sredstva koja prikupljaju, drže i troše, odnosno kojima upravljaju subjekti javnog sektora.
