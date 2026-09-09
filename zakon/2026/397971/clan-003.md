@@ -1,0 +1,3 @@
+# Član 3
+U članu 13 stav 1 mijenja se i glasi:
+"Zaštita od diskriminacije se obezbjeđuje licima koja smatraju da su diskriminisana po nekom od osnova iz člana 1 ovog zakona ili da im je učinjena nepravda zbog povrede odredaba ovog zakona ili neprimjenjivanja načela jednakog postupanja, u skladu sa zakonom kojim se uređuju zaštita jednakosti i zabrana diskriminacije, zakonom kojim se uređuju nadležnosti Zaštitnika ljudskih prava i sloboda Crne Gore i drugim važećim propisima, pri čemu je zaštita dostupna i nakon prestanka odnosa u kojem je navodno došlo do diskriminacije, povrede odredaba ovog zakona ili neprimjenjivanja načela jednakog postupanja."
