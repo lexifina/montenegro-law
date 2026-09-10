@@ -1,0 +1,1 @@
+*U ovaj zakon prenesene su odredbe Direktive (EU) 2024/1203 Evropskog parlamenta i Savjeta od 11. aprila 2024. godine o zaštiti životne sredine putem krivičnog prava i stavljanju van snage direktiva 2008/99/EZ i 2009/123/EZ
