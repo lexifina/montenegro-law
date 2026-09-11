@@ -1,0 +1,2 @@
+Na osnovu člana 40 i 41. Zakona o finansiranju lokalne samouprave ("Službeni list CG", br. 3/19, 86/22, 5/24 i 7/24), člana 68 i 69 Zakona o budžetu i fiskalnoj odgovornosti ("Službeni list Crne Gore", br. 20/14, 56/14, 70/17, 4/18, 55/18, 66/19, 70/21, 145/21, 27/23, 125/23 i 11/25) i člana 35 stav 1 tačka 7 Statuta Opštine Andrijevica ("Službeni list Crne Gore - Opštinski propisi", broj 32/18) Skupština opštine Andrijevica, na sjednici održanoj 25. 8. 2026. godine, donijela je
+ODLUKU
