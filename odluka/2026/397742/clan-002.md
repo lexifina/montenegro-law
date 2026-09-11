@@ -1,0 +1,2 @@
+# Član 2
+Urbanističku parcelu broj 171' (UP 171'), u urbanističkoj zoni "B", u zahvatu DUP-a "Bušat", pored nepokretnosti iz člana 1 ove Odluke, formira i nepokretnost u svojini kupca, u obimu prava 1/1, označena katastarskom parcelom broj 3121/5, po kulturi - prirodno neplodno zemljište, u površini od 58 m2, upisanom u listu nepokretnosti 2117 KO Kunje, kao i katastarska parcela broj 4089/6, po kulturi - javni putevi, u površini od 6 m2, upisana u listu nepokretnosti broj 1967 KO Kunje, kao državna svojina, sa pravom raspolaganja u korist Vlade Crne Gore, u obimu prava 1/1.
