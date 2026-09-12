@@ -1,0 +1,4 @@
+# Član 9
+Tokom trajanja organizovanja obrazovno-vaspitnog rada onlajn sjednice nastavničkog vijeća, odjeljenskog vijeća, stručnih aktiva i timova, roditeljski sastanci, kao i drugi oblici stručnog rada i saradnje u ustanovi, održavaju se putem onlajn okruženja, uz obezbjeđivanje identifikacije učesnika, evidencije prisustva, vođenja zapisnika i zaštite podataka.
+Snimanje sjednica, sastanaka ili drugih aktivnosti koje se realizuju putem onlajn okruženja nije dozvoljeno, osim u slučajevima kada je to odobrila ustanova, uz jasno utvrđenu svrhu i u skladu sa propisima kojima se uređuje zaštita podataka o ličnosti.
+Učenici ne smiju bez odobrenja nastavnika ili ustanove snimati, fotografisati, praviti snimke ekrana, distribuirati niti javno objavljivati sadržaje nastale tokom onlajn nastave ili drugih aktivnosti koje se realizuju putem onlajn okruženja.
