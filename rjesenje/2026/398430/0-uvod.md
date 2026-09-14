@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Sl.list Crne Gore" broj 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 34 stav 1 tačka 22 Statuta Opštine Herceg Novi ("Sl. list Crne Gore - opštinski propisi" broj 1/19, 37/19, 6/20 i 18/22) i člana 13 stav 1 Statuta Društva sa ograničenom odgovornošću "Agencija za izgradnju i razvoj Herceg Novog" Herceg Novi ("Službeni list Crne Gore - opštinski propisi", br. 30/26 i 38/26) Skupština opštine Herceg Novi na sjednici održanoj 14.09.2026. godine, donijela je
+RJEŠENJE
