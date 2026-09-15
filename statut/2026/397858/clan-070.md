@@ -1,0 +1,2 @@
+# Član 70
+Predsjednik Skupštine predstavlja Skupštinu, saziva sjednicu skupštine, predlaže dnevni red, predsjedava i rukovodi njenim radom, potpisuje akte skupštine i stara se o njihovoj realizaciji, koordinira rad radnih tijela, sarađuje sa predsjednikom opštine i organima lokalne uprave, odnosno službi i vrši druge poslove u skladu sa statutom, Poslovnikom o radu skupštine i odlukama i drugim aktima skupštine.
