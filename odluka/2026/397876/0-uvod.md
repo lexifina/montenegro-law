@@ -1,0 +1,3 @@
+Na osnovu člana 28 stav 1 tačka 2 i člana 38 stav 1 tačke 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 84/22, 81/25 i 98/25), a u vezi sa članom 23 stav 13 Zakona o legalizaciji bespravnih objekata ("Službeni list Crne Gore", br. 91/25 i 18/26) i člana 46 stav 1 tačke 2 i 8 Statuta Opštine Bijelo Polje ("Službeni list CG  Opštinski propisi", br. 19/18), uz prethodnu saglasnost Vlade broj 11-011/26-1875/3 od 11.06.2026. godine, Skupština opštine Bijelo Polje, na sjednici održanoj dana 31. 8. 2026. godine, donijela je
+ODLUKU
+o naknadi za urbanu sanaciju
