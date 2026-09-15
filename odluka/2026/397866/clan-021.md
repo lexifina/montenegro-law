@@ -1,0 +1,8 @@
+# Član 21
+## Ostvarivanje saradnje sa volonterima i nevladinim organizacijama
+Ukoliko Vršilac ne može zbrinuti napuštenu odnosno izgubljenu životinju, može zaključiti ugovor sa volonterom, hraniteljem ili nevladinom organizacijom koja može obezbijediti smještaj napuštenom odnosno izgubljenom kućnom ljubimcu do udomljavanja odnosno povratka u sklonište.
+Volonteri, odnosno hranitelji u smislu ove odluke su građani sa kojima Vršilac ima ostvarenu saradnju po uslovima iz ove odluke, odnosno koji šetaju pse, promovišu udomljavanje, vrše transport napuštenih kućnih ljubimaca, pomažu rad skloništa i brinu o povjerenim kućnim ljubimcima sa pažnjom dobrog domaćina.
+Vršilac je dužan da vodi pisanu evidenciju o volonterima, hraniteljima i nevladinim organizacijama sa kojima ima ostvarenu saradnju u skladu sa pravilnikom kojim se uređuje rad skloništa.
+Ugovor iz stava 1 ovog člana sačinjava se u skladu sa zakonom kojim se uređuju obligacioni odnosi i sadrži podatke o količini hrane koja se daje nevladinoj organizaciji, volonteru odnosno hranitelju za potrebe zbrinjavanja napuštenog/izgubljenog kućnog ljubimca i visinu naknade na ime drugih troškova (vakcinacija, sterilizacija, identifikacija i dr.).
+Troškove prostora za zbrinjavanje kućnih ljubimaca, kao i brigu sa pažnjom dobrog domaćina o kućnom ljubimcu u skladu sa ovom odlukom snose nevladine organizacije, volonteri odnosno hranitelji.
+Vršilac može jednom godišnje odobriti pomoć u snadbijevanju hranom, nevladinim organizacijama ili privatnim registrovanim skloništima za napuštene i izgubljene kućne ljubimce, koji na svoju organizaciju imaju najmanje 10 identifikovanih kućnih ljubimaca.
