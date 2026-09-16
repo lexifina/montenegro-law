@@ -1,0 +1,2 @@
+Na osnovu člana 58 stav 1 tačka 7 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) a u vezi sa Odlukom o organizaciji i načinu rada lokalne uprave Opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 22/23, 24/23, 29/24, 32/24, 12/25, 7/26), po prethodno pribavljenom mišljenju v.d. glavnog administratora Opštine Tuzi broj 03- 040/26-7883/2 od 15. 9. 2026. godine, predsjednik Opštine Tuzi donosi
+ODLUKU
