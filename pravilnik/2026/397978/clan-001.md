@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom utvrđuju se uslovi pod kojima pružalac usluga zemaljskog opsluživanja uspostavlja i koristi sistem upravljanja sigurnošću, bliži uslovi koje treba da ispunjava osoblje koje obavlja poslove pružanja usluga zemaljskog opsluživanja, način pružanja usluga zemaljskog opsluživanja koje se pružaju na aerodromu koji se koristi za komercijalni vazdušni saobraćaj, uslovi pod kojima se izdaje, mijenja, ograničava, suspenduje ili ukida dozvola za pružanje usluga zemaljskog opsluživanja i dozvola za samoopsluživanje, obrazac dozvole za pružanje usluga zemaljskog opsluživanja i obrazac dozvole za samoopsluživanje.
