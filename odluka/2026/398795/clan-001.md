@@ -1,0 +1,3 @@
+# Član 1
+## Tomović" - Podgorica o prestanku dužnosti vršiteljke dužnosti direktorice Ustanove
+Daje se saglasnost na Odluku Savjeta Javne ustanove Kulturno- informativni centar "Budo Tomović" - Podgorica, broj: 805 od 28. maja 2026. godine, o prestanku dužnosti vršiteljke dužnosti direktorice Ustanove mr Marijane Zečević, VSS - Filološki/Filozofski fakultet smjer srpski jezik i književnost, magistrice novinarstva, direktorice Ustanove, zaključno sa danom 3. jun 2026. godine, zbog isteka perioda na koji je određena za vršiteljku dužnosti direktorice Ustanove, kada joj prestaju sva prava, obaveze i odgovornost direktora.
