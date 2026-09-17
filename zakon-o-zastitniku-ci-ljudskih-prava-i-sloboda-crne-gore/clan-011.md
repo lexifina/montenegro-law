@@ -1,0 +1,2 @@
+# Član 11
+Za zamjenika/cu može se imenovati lice koje je crnogorski/a državljanin/ka i ima najmanje VII1 nivo kvalifikacije obrazovanja, najmanje deset godina radnog iskustva u tom nivou kvalifikacije obrazovanja, od čega najmanje sedam godina iskustva u oblasti zaštite ljudskih prava i sloboda, koje nije osuđivano za krivično djelo koje ga čini nedostojnim za obavljanje funkcije i protiv koga se ne vodi krivični postupak za krivično djelo koje ga čini nedostojnim za obavljanje funkcije, kao i koje ima visok lični i profesionalni integritet.

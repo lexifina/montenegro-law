@@ -1,0 +1,3 @@
+# Član 27
+Zaštitnik/ca je ovlašćen/a da Skupštini, Vladi Crne Gore (u daljem tekstu: Vlada), organu državne uprave, odnosno organu lokalne samouprave inicira zaključivanje i potvrđivanje međunarodnih ugovora ili donošenje, izmjenu ili dopunu zakona, drugih propisa i opštih akata koji su u njihovoj nadležnosti, ako postoji potreba za usaglašavanjem zakona, drugih propisa i opštih akata sa međunarodno priznatim standardima u oblasti ljudskih prava i sloboda.
+Nadležni odbor Skupštine, Vlada, organ državne uprave, odnosno organ lokalne samouprave kojem je podnijeta inicijativa iz stava 1 ovog člana dužan je da se o toj inicijativi izjasni u roku od 30 dana od dana podnošenja inicijative.

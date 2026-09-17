@@ -1,0 +1,6 @@
+# Član 91
+Zaposleni/e u Službi koji/e su određeni/e da, pored poslova svog radnog mjesta, vrše poslove za potrebe radnih tijela, posebnih mehanizama, konsultativnih tijela i drugih oblika rada utvrđenih ovim zakonom, imaju pravo na dodatak na osnovnu zaradu u iznosu od 30% osnovne zarade.
+Pravo na dodatak iz stava 1 ovog člana može se priznati i drugom/oj zaposlenom/j u Službi koji/a, zbog povećanog obima posla, posebne složenosti, odgovornosti, povjerljivosti, multidisciplinarnosti ili potrebe obezbjeđivanja djelotvornog vršenja nadležnosti Zaštitnika/ce, vrši poslove od posebnog značaja za rad Zaštitnika/ce.
+Dodatak iz stava 2 ovog člana utvrđuje se u iznosu do 30% osnovne zarade, zavisno od vrste, obima, trajanja, složenosti i značaja poslova koje zaposleni/a obavlja.
+O pravu na dodatak iz st. 1 i 2 ovog člana, visini dodatka i periodu za koji se dodatak priznaje, odlučuje Zaštitnik/ca rješenjem, na osnovu obrazloženog predloga generalnog/e sekretara/ke, zamjenika/ce ili rukovodioca/teljke organizacione jedinice u kojoj je zaposleni/a raspoređen/a.
+Dodatak iz st. 1 i 2 ovog člana ne isključuje pravo zaposlenog/e na druge dodatke na osnovnu zaradu, naknade i druga primanja koja mu/joj pripadaju u skladu sa zakonom kojim se uređuju zarade zaposlenih u javnom sektoru.

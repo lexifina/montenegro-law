@@ -1,0 +1,3 @@
+# Član 6
+Zaštitnika/cu imenuje Skupština Crne Gore (u daljem tekstu: Skupština) na predlog Predsjednika/ce Crne Gore, na period od šest godina, u skladu sa Ustavom, a isto lice može biti imenovano za Zaštitnika/cu najviše dva puta.
+Za Zaštitnika/cu može se imenovati lice koje je crnogorski/a državljanin/ka, ima najmanje VII1 nivo kvalifikacije obrazovanja i najmanje 15 godina radnog iskustva u tom nivou kvalifikacije obrazovanja, od čega najmanje deset godina iskustva u oblasti zaštite ljudskih prava i sloboda, koje nije osuđivano za krivično djelo koje ga čini nedostojnim za obavljanje funkcije i protiv koga se ne vodi krivični postupak za krivično djelo za koje se gonjenje preduzima po službenoj dužnosti, kao i koje ima visok lični i profesionalni integritet.

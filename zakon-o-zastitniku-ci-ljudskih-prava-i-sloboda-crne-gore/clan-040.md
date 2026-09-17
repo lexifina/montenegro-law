@@ -1,0 +1,3 @@
+# Član 40
+Prilikom vršenja poslova prevencije torture članovi/ice radnog tijela iz člana 35 stav 1 ovog zakona, kao i zaposleni kod Zaštitnika/ce koji učestvuju u poslovima prevencije torture, sačinjavaju izvještaj o nađenom stanju koji svojeručno potpisuju i dostavljaju Zaštitniku/ci.
+Vršenje poslova prevencije torture u cilju jačanja prava lica lišenih slobode i lica kojima je ograničeno kretanje i zaštite tih lica od mučenja ili drugog oblika surovog, nečovječnog ili ponižavajućeg postupanja ili kažnjavanja uređuje se Poslovnikom o radu Zaštitnika/ce i Metodologijom rada i postupanja u poslovima prevencije torture.

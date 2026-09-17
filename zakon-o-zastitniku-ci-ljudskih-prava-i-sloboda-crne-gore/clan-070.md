@@ -1,0 +1,7 @@
+# Član 70
+Zaštitnik/ca sačinjava posebne izvještaje o radu u pojedinim oblastima, i to:
+1) poseban izvještaj o djelovanju Nacionalnog preventivnog mehanizma za poslove prevencije torture za prethodnu kalendarsku godinu i dostavlja ga Skupštini najkasnije do 1. jula tekuće godine;
+2) poseban izvještaj o djelovanju Zaštitnika/ce i stanju ljudskih prava i sloboda u oblasti zaštite jednakosti i zabrane diskriminacije prema dostupnim statističkim i drugim podacima iz rada Zaštitnika/ce, postupanju drugih državnih organa, podacima dobijenim od nevladinih organizacija i drugih organizacija civilnog društva, informacijama savjeta manjinskih naroda ili drugih manjinskih nacionalnih zajednica i drugih izvora za prvu polovinu svake kalendarske godine i dostavlja ga Skupštini do kraja te kalendarske godine;
+3) poseban izvještaj o stanju prava djeteta u Crnoj Gori za prethodnu kalendarsku godinu i dostavlja ga Skupštini najkasnije do 1. jula tekuće godine;
+4) poseban izvještaj o pitanjima od značaja za ravnopravnost polova i o stanju rodne ravnopravnosti u Crnoj Gori za prethodnu kalendarsku godinu i dostavlja ga Skupštini najkasnije do 1. jula tekuće godine.
+Zaštitnik/ca može da podnese Skupštini i druge posebne, periodične i tematske izvještaje od značaja za ostvarivanje pojedinih ljudskih prava i sloboda, a naročito u odnosu na pojedine ranjive grupe, kao što su žene i djevojčice žrtve nasilja, žrtve vršnjačkog nasilja, pripadnici/e manjinskih naroda i drugih manjinskih nacionalnih zajednica, stranci/kinje.

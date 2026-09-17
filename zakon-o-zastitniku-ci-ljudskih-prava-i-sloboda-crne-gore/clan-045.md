@@ -1,0 +1,4 @@
+# Član 45
+Sastav članova/ica Nezavisnog mehanizma iz člana 44 stav 1 ovog zakona treba da obezbijedi zastupljenost nevladinih organizacija iz različitih jedinica lokalne samouprave, čija je oblast djelovanja promocija prava lica sa različitim vrstama invaliditeta, koje imaju iskustvo u procjeni rizika od diskriminacije i zaštiti prava lica sa invaliditetom, kao i djelotvorno učešće lica sa invaliditetom u radu tog mehanizma.
+Članovi/ice Nezavisnog mehanizma iz člana 44 stav 1 ovog zakona vrše obilaske institucija i lokacija u kojima, odnosno na kojima borave i u okviru kojih ostvaruju prava lica sa invaliditetom, radi praćenja stanja u kojem se one nalaze i predlaganja mjera i radnji koje treba preduzeti radi poboljšanja položaja lica sa invaliditetom u Crnoj Gori.
+Nezavisni mehanizam iz člana 44 stav 1 ovog zakona sačinjava izvještaje o pojedinačnim obilascima i godišnjim aktivnostima koje sprovodi u toku jedne kalendarske godine.

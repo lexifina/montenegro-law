@@ -1,0 +1,5 @@
+# Član 31
+Zaštitnik/ca razmatra opšta pitanja koja neposredno ili posredno utiču na zaštitu i unapređenje ljudskih prava i sloboda i sarađuje sa domaćim i međunarodnim organizacijama i institucijama koje se bave zaštitom ljudskih prava i sloboda.
+Zaštitnik/ca sarađuje i sa tijelima koja su međunarodnim ugovorima određena da prate izvršavanje ugovora o ljudskim pravima i slobodama koje je potvrdila Crna Gora.
+U vršenju poslova iz st. 1 i 2 ovog člana, Zaštitnik/ca može, bez posebnog odobrenja, pristupati međunarodnim udruženjima, asocijacijama, mrežama i drugim oblicima saradnje institucija za zaštitu ljudskih prava i sloboda, pridržavajući se načela ustavnosti i zakonitosti u ostvarivanju svojih nadležnosti, odnosno djelujući u granicama međunarodnih obaveza i principa na kojima se zasniva međunarodna saradnja.
+U vršenju poslova iz stava 2 ovog člana, Zaštitnik/ca može sačinjavati izvještaje, informacije, analize i drugu dokumentaciju koja se odnosi na izvršavanje odluka međunarodnih sudova i ispunjavanje drugih obaveza Crne Gore prema međunarodnim ugovorima u oblasti ljudskih prava i sloboda.

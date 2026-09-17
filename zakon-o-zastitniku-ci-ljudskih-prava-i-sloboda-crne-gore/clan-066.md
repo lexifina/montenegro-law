@@ -1,0 +1,4 @@
+# Član 66
+Starješina/ka organa, odnosno lice koje rukovodi organom na čiji rad se preporuka odnosi dužno je da, u roku koji odredi Zaštitnik/ca, dostavi izvještaj o preduzetim mjerama za izvršenje preporuke.
+Izvještaj iz stava 1 ovog člana sadrži podatke o preduzetim mjerama, mjerama čije se preduzimanje planira i rokovima za njihovo sprovođenje, odnosno razloge zbog kojih preporuka nije izvršena ili nije izvršena u cjelosti.
+Ako starješina/ka organa, odnosno lice koje rukovodi organom ne postupi u skladu sa preporukom u određenom roku, ne dostavi izvještaj iz stava 1 ovog člana, odnosno ne navede dovoljne i relevantne razloge zbog kojih preporuka nije izvršena ili nije izvršena u cjelosti, Zaštitnik/ca može upoznati neposredno viši organ, sačiniti poseban izvještaj, obavijestiti javnost ili pokrenuti prekršajni postupak u skladu sa ovim zakonom.

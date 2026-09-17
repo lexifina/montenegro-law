@@ -1,0 +1,4 @@
+# Član 41
+Zaštitnik/ca sačinjava izvještaj o izvršenom obilasku iz člana 39 stav 1 alineja 1 ovog zakona, zajedno sa mišljenjem, preporukama i/ili upozorenjem, koje dostavlja organu ili tijelu koje vrši nadzor nad organom, ustanovom ili organizacijom u kojoj je obilazak izvršen.
+Starješina/ka organa, ustanove ili organizacije kojoj je upućena preporuka ili upozorenje dužan/na je da, u roku koji odredi Zaštitnik/ca, preduzme mjere povodom preporuke ili upozorenja Zaštitnika/ce i o preduzetim mjerama dostavi obavještenje Zaštitniku/ci.
+Nakon dobijanja obavještenja iz stava 2 ovog člana, Zaštitnik/ca je dužan/na da izvrši kontrolni obilazak u organu, ustanovi ili organizaciji u kojoj je utvrđen slučaj mučenja ili drugog oblika surovog, nečovječnog ili ponižavajućeg postupanja ili kažnjavanja.

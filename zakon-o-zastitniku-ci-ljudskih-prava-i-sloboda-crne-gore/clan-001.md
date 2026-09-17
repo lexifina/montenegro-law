@@ -1,0 +1,2 @@
+# Član 1
+Ovim zakonom uređuju se nadležnost, ovlašćenja, način rada i postupanje Zaštitnika/ce ljudskih prava i sloboda Crne Gore (u daljem tekstu: Zaštitnik/ca) kao samostalnog i nezavisnog organa u zaštiti i promociji ljudskih prava i sloboda zajemčenih Ustavom, zakonom, potvrđenim međunarodnim ugovorima o ljudskim pravima i opšteprihvaćenim pravilima međunarodnog prava, kao i druga pitanja od značaja za rad Zaštitnika/ce.

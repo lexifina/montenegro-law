@@ -1,0 +1,4 @@
+# Član 42
+Zaštitnik/ca vrši poslove institucionalnog mehanizma za zaštitu jednakosti i zabranu diskriminacije.
+Zaštitnik/ca, uz saglasnost diskriminisanog lica, postupa i preduzima mjere za zaštitu od diskriminacije, u skladu sa ovim zakonom i zakonom kojim se uređuje zaštita jednakosti i zabrana diskriminacije.
+Zamjenik/ca za oblast iz člana 13 stav 3 alineja 4 ovog zakona, u okviru posebne organizacione jedinice i posebne grupe poslova, predlaže i samostalno sprovodi mjere i aktivnosti u ovoj oblasti u skladu sa planom rada, a naročito raspoređivanje zaposlenih koji vrše poslove u oblasti promocije, prevencije kršenja i zaštite prava lica sa invaliditetom, prava pripadnika/ca manjinskih naroda i drugih manjinskih nacionalnih zajednica, ostvarivanja rodne ravnopravnosti i zaštite prava lica različite seksualne orijentacije.

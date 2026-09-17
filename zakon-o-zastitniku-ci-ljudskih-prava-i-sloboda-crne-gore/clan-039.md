@@ -1,0 +1,8 @@
+# Član 39
+U vršenju poslova prevencije torture, Zaštitnik/ca, zamjenik/ca imenovan/a za obavljanje tih poslova, kao i glavni/a savjetnik/ca Zaštitnika/ce, savjetnik/ca Zaštitnika/ce i član/ica radnog tijela iz člana 35 stav 1 ovog zakona koga/ju Zaštitnik/ca ovlasti imaju pravo:
+— da bez prethodne najave obilaze organe, ustanove i organizacije i pregledaju prostorije u kojima se nalaze ili bi mogla da se nalaze lica lišena slobode i lica kojima je ograničeno kretanje;
+— na pristup podacima o organima, ustanovama i organizacijama u kojima se nalaze lica lišena slobode i lica kojima je ograničeno kretanje, broju tih lica u organu, ustanovi ili organizaciji koju obilaze i o postupanju sa tim licima;
+— da bez prisustva službenog lica razgovaraju sa licima lišenim slobode i licima kojima je ograničeno kretanje, kao i drugim licima koja mogu da daju odgovarajuće informacije u vezi sa sumnjom da se krše ljudska prava u organu, ustanovi ili organizaciji koju obilaze.
+Starješina/ka, odnosno lice koje rukovodi organom, ustanovom i organizacijom iz stava 1 ovog člana dužno je da Zaštitniku/ci i zamjeniku/ci imenovanom/j za obavljanje tih poslova, kao i savjetniku/ci Zaštitnika/ce i članu/ici radnog tijela iz člana 35 stav 1 ovog zakona, koje ovlasti Zaštitnik/ca:
+— omoguće nesmetan obilazak i pregled prostorija u kojima se nalaze ili bi mogla da se nalaze lica lišena slobode i lica kojima je ograničeno kretanje, kao i razgovor sa tim licima i drugim licima koja mogu da daju odgovarajuće informacije u vezi sa sumnjom da se krše ljudska prava, bez prisustva službenog lica;
+— stave na raspolaganje podatke iz stava 1 alineja 2 ovog člana i omoguće neposredan uvid u službene spise i dokumente koji sadrže te podatke.

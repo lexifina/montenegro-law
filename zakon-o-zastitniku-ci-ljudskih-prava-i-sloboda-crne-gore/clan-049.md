@@ -1,0 +1,6 @@
+# Član 49
+Provjeru ispunjenosti uslova iz člana 48 st. 2 i 4 ovog zakona vrši komisija koju obrazuje Zaštitnik/ca i sačinjava listu kandidata/kinja koji/e ispunjavaju uslove javnog poziva za članove/ice Mreže zlatnih savjetnika/ca.
+Sastav, način rada i druga pitanja od značaja za rad komisije iz stava 1 ovog člana, uređuju se Poslovnikom o radu Zaštitnika/ce ili drugim internim aktom.
+Na osnovu liste iz stava 1 ovog člana, a primjenom kriterijuma iz stava 4 ovog člana, komisija sačinjava predlog za članove/ice Mreže zlatnih savjetnika/ca.
+Prilikom sačinjavanja predloga iz stava 3 ovog člana, komisija iz stava 1 ovog člana vodi računa o zastupljenosti različite populacije djece, koja dolaze iz različitih životnih uslova i situacija, djece iz gradova i sela, djece koja ne žive sa svojim roditeljima, učenika/ca osnovne, stručne, umjetničke škole i/ili gimnazije, djece pripadnika/ca manjinskih naroda i drugih manjinskih nacionalnih zajednica, djece sa invaliditetom i druge djece.
+Na osnovu predloga iz stava 3 ovog člana Zaštitnik/ca, uz prethodno pribavljeno mišljenje zamjenika/ce za oblast iz člana 13 stav 3 alineja 3 ovog zakona, donosi odluku o obrazovanju Mreže zlatnih savjetnika/ca.
