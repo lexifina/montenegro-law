@@ -1,0 +1,3 @@
+# Član 5
+Članovi Koordinacionog tijela, u okviru svojih nadležnosti, obezbjeđuju potrebnu međuresornu koordinaciju i pravovremeno razmatranje pitanja od značaja za realizaciju aktivnosti iz Informacije, uključujući pribavljanje mišljenja, saglasnosti, odobrenja i drugih akata kada je to potrebno za realizaciju pojedinih aktivnosti.
+Organi državne uprave nadležni za poslove saobraćaja i za poslove javnih radova, u okviru svojih zakonom utvrđenih nadležnosti, pružaju stručnu, tehničku i pravnu podršku AD Aerodromi Crne Gore u pripremi i realizaciji projekata iz Informacije, uključujući aktivnosti u oblasti projektne i tehničke dokumentacije, pravnih poslova i javnih nabavki, kao i da vrše nadzor nad aktivnostima iz svojih nadležnosti.

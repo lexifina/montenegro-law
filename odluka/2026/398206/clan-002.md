@@ -1,0 +1,2 @@
+# Član 2
+Zadatak Koordinacionog tijela je da prati i koordinira realizaciju prioritetnih aktivnosti i projekata utvrđenih Informacijom o prioritetnim aktivnostima u cilju unapređenja aerodromske infrastrukture (u daljem tekstu: Informacija), kroz Tabelu praćenja realizacije, kao i da u okviru svojih nadležnosti preduzima aktivnosti potrebne za njihovo pravovremeno, zakonito, efikasno i kvalitetno sprovođenje, radi održavanja operativne funkcionalnosti i povećanja kapaciteta Aerodroma Podgorica i Aerodroma Tivat.
