@@ -1,0 +1,34 @@
+{
+  "id": 397968,
+  "path": "zakon/2026/397968",
+  "source": "https://www.sluzbenilist.me/propisi/397968",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/397968/download",
+  "title": "Zakon o izmjenama i dopunama Zakonika o krivičnom postupku*",
+  "issue": "Službeni list Crne Gore, broj 132/2026",
+  "published": "2026-09-09",
+  "in_force": "2026-09-17",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore”",
+  "applies": null,
+  "amended_by": [
+    [
+      397968,
+      "Zakon o izmjenama i dopunama Zakonika o krivičnom postupku*"
+    ]
+  ],
+  "text_status": "as-enacted; amended, not consolidated",
+  "source_sha256": "9790bda3157cb6f6794084ee8b37bc3be6a87e4d97652f2638ed8ce74b5aba93",
+  "articles_in_source": 121,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 62659,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "recovered_after_interruption": true,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "7038f63eaf25bd0dbd5147337b524558f878cb7a8ae451679eb06e5f09498c75",
+  "enacted": "2026-09-04",
+  "enacted_basis": "Podgorica, 4. septembar 2026"
+}
