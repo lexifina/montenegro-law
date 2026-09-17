@@ -1,0 +1,3 @@
+Na osnovu člana 124 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18,34/19 i 38/20, 50/22, 84/22, 81/25 i 98/25), člana 54 stav 1 tačka 56 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", broj 8/19, 20/21, 49/22 i 51/25) i člana 12 alineja 6 Odluke o osnivanju Javne ustanove Kulturno- informativni centar "Budo Tomović" - Podgorica, ("Službeni list RCG - Opštinski propisi", br. 14/01, 13/04 i Službeni list Crne Gore - Opštinski propisi", broj 28/11), Skupština Glavnog grada - Podgorice, na sjednici održanoj 16. i 17. septembra 2026. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Odluku Savjeta Javne ustanove Kulturno-informativni centar "Budo
