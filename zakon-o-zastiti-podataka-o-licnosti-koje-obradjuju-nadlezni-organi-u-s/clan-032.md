@@ -1,0 +1,9 @@
+# Član 32
+## Obavještavanje nadzornog organa o povredi podataka o ličnosti
+Rukovalac zbirke podataka o ličnosti dužan je da, bez nepotrebnog odlaganja, a najkasnije u roku od 72 časa od saznanja za povredu podataka o ličnosti, obavijesti nadzorni organ o povredi podataka o ličnosti, osim ako nije vjerovatno da će ta povreda prouzrokovati rizik po prava i slobode lica na koje se podaci odnose.
+Ako obavještenje nije dostavljeno u roku iz stava 1 ovog člana, rukovalac je dužan da dostavi pisano obrazloženje razloga kašnjenja.
+Obrađivač je dužan da bez nepotrebnog odlaganja obavijesti rukovaoca zbirke podataka o ličnosti o svakoj povredi podataka o ličnosti za koju sazna.
+Obavještenje iz stava 1 ovog člana mora najmanje sadržati: opis prirode povrede, uključujući kategorije i približan broj lica čiji su podaci obuhvaćeni povredom, kao i približan broj evidencija podataka o ličnosti koje su obuhvaćene povredom; kontakt podatke službenika za zaštitu podataka; vjerovatne posljedice povrede; kao i mjere koje su preduzete ili predložene radi otklanjanja ili ublažavanja posljedica povrede.
+Ako, i u mjeri u kojoj, nije moguće pružiti sve navedene informacije istovremeno, informacije se mogu pružati u fazama, kroz odvojena obavještenja, bez nepotrebnog daljeg odlaganja.
+Rukovalac zbirke podataka o ličnosti dužan je da vodi evidenciju o svim povredama podataka o ličnosti, uključujući činjenice u vezi sa povredom, njene posljedice i mjere preduzete radi njihovog otklanjanja ili ublažavanja, na način koji omogućava nadzornom organu da provjeri usklađenost sa zakonom.
+U slučaju povrede podataka o ličnosti koja uključuje podatke prenesene od rukovaoca iz druge države članice Evropske unije ili podatke prenesene tom rukovaocu, uključujući slučajeve kada se primjenjuju odgovarajuće zaštitne mjere, informacije iz stava 4 ovog člana dostavljaju se tom rukovaocu bez nepotrebnog odlaganja.

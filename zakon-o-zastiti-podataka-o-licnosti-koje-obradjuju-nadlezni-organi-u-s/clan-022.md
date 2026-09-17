@@ -1,0 +1,6 @@
+# Član 22
+## Tehnička i integrisana zaštita podataka o ličnosti
+Rukovalac zbirke podataka o ličnosti dužan je da, uzimajući u obzir dostignuti nivo tehničkog razvoja i troškove primjene, kao i prirodu, obim, okolnosti i svrhe obrade, te rizike različite vjerovatnoće nastanka i različite težine posljedica po prava i slobode fizičkih lica koji proizlaze iz obrade, kako u trenutku određivanja načina obrade tako i tokom same obrade, primijeni odgovarajuće tehničke i organizacione mjere, kao što je pseudonimizacija, kojima se djelotvorno primjenjuju načela zaštite podataka o ličnosti, uključujući minimizaciju podataka, ispunjavaju zahtjevi ovog zakona i štite prava lica na koje se podaci odnose.
+Rukovalac zbirke podataka o ličnosti dužan je da primijeni odgovarajuće tehničke i organizacione mjere kojima se obezbjeđuje da se, po podrazumijevanim postavkama, obrađuju samo oni podaci o ličnosti koji su neophodni za svaku pojedinačnu svrhu obrade.
+Ova obaveza odnosi se na količinu prikupljenih podataka o ličnosti, obim njihove obrade, rok čuvanja i njihovu dostupnost.
+Naročito, mjere iz st. 1 i 2 ovog člana obezbjeđuju da podaci o ličnosti ne budu automatski dostupni neograničenom broju fizičkih lica bez postupanja lica čiji se podaci obrađuju, čime se štite prava i slobode fizičkih lica.
