@@ -1,0 +1,3 @@
+# Član 45
+## Opšti princip za prenose
+Svaki prenos ličnih podataka koji su predmet obrade ili koji su namijenjeni obradi nakon prenosa u treću zemlju ili međunarodnu organizaciju može se izvršiti samo ako, uz poštovanje ostalih odredbi ovog zakona, rukovalac i obrađivač ispune uslove utvrđene ovim poglavljem, uključujući i za dalje prenose podataka o ličnosti iz treće zemlje ili međunarodne organizacije u još jednu treću zemlju ili drugu međunarodnu organizaciju. Sve odredbe ovog poglavlja primjenjuju se kako bi se obezbijedilo da nivo zaštite fizičkih lica garantovan ovim zakonom ne bude ugrožen.

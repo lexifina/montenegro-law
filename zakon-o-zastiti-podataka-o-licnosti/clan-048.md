@@ -1,0 +1,21 @@
+# Član 48
+## Obavezujuća korporativna pravila
+Nadležni nadzorni organ odobrava obavezujuća korporativna pravila pod uslovom da ona:
+1) imaju pravno obavezujuće dejstvo i primjenjuju se na svakog relevantnog člana grupe preduzeća ili grupe privrednih subjekata koji obavljaju zajedničku ekonomsku djelatnost, uključujući njihove zaposlene, i da ih oni sprovode;
+2) izričito daju izvršiva prava licima na koja se podaci odnose u vezi sa obradom njihovih ličnih podataka; i
+3) ispunjavaju zahtjeve utvrđene u stavu 2 ovog člana.
+Obavezujuća korporativna pravila iz stava 1 ovog člana moraju najmanje sadržati:
+1) strukturu i kontakt podatke grupe preduzeća ili grupe privrednih subjekata koji obavljaju zajedničku ekonomsku djelatnost i svakog njenog člana;
+2) prenose podataka ili skup prenosa, uključujući kategorije ličnih podataka, vrstu obrade i njene svrhe, vrste lica na koja se podaci odnose i identifikaciju predmetne treće zemlje ili zemalja;
+3) njihovu pravno obavezujuću prirodu, kako interno tako i eksterno;
+4) primjenu opštih principa zaštite podataka, posebno ograničenja svrhe, smanjenja količine podataka, ograničenih rokova čuvanja, kvaliteta podataka, zaštite podataka po dizajnu i podrazumijevanoj zaštiti, pravnog osnova za obradu, obrade posebnih kategorija ličnih podataka, mjera za obezbjeđivanje bezbjednosti podataka i zahtjeva u pogledu daljih prenosa tijelima koja nijesu obavezana obavezujućim korporativnim pravilima;
+5) prava lica na koja se podaci odnose u vezi sa obradom i načine ostvarivanja tih prava, uključujući pravo da ne budu predmet odluka zasnovanih isključivo na automatizovanoj obradi, uključujući profilisanje u skladu sa članom 23 ovog zakona, pravo na podnošenje zahtjeva za zaštitu prava Agenciji u skladu sa članom 76 ovog zakona i pravo na sudsku zaštitu u skladu sa članom 77 ovog zakona, kao i pravo na naknadu štete u skladu sa članom 79 ovog zakona;
+6) prihvatanje odgovornosti od strane rukovaoca ili obrađivača sa sjedištem u Crnoj Gori za svaku povredu obavezujućih korporativnih pravila koju učini bilo koji relevantni član koji nema sjedište u Crnoj Gori; rukovalac ili obrađivač oslobađa se te odgovornosti u potpunosti ili djelimično samo ako dokaže da taj član nije odgovoran za događaj koji je prouzrokovao štetu;
+7) način na koji se informacije o obavezujućim korporativnim pravilima, naročito o odredbama iz tač. 4, 5 i 6 ovog stava, pružaju licima na koja se podaci odnose, pored informacija iz čl. 14 i 15 ovog zakona;
+8) zadatke službenika za zaštitu podataka određenog u skladu sa članom 38 ovog zakona ili drugog lica odnosno subjekta zaduženog za praćenje usklađenosti sa obavezujućim korporativnim pravilima unutar grupe preduzeća ili grupe privrednih subjekata koji obavljaju zajedničku ekonomsku djelatnost, kao i za praćenje obuka i postupanja po pritužbama;
+9) postupke za podnošenje pritužbi;
+10) mehanizme unutar grupe preduzeća ili grupe privrednih subjekata koji obavljaju zajedničku ekonomsku djelatnost za obezbjeđivanje provjere usklađenosti sa obavezujućim korporativnim pravilima. Ti mehanizmi moraju uključivati revizije zaštite podataka i metode za obezbjeđivanje korektivnih mjera radi zaštite prava lica na koja se podaci odnose. Rezultati tih provjera treba da budu dostavljeni licu ili subjektu iz tačke 8 ovog stava i upravnom odboru kontrolnog preduzeća grupe preduzeća ili grupe privrednih subjekata koji obavljaju zajedničku ekonomsku djelatnost, i treba da budu dostupni na zahtjev nadležnom nadzornom organu;
+11) mehanizme za prijavljivanje i evidentiranje izmjena pravila i dostavljanje tih izmjena nadzornom organu;
+12) mehanizam saradnje sa nadzornim organom radi obezbjeđivanja usklađenosti svakog člana grupe preduzeća ili grupe privrednih subjekata koji obavljaju zajedničku ekonomsku djelatnost, naročito stavljanjem na raspolaganje nadzornom organu rezultata provjera mjera iz tačke 10 ovog stava;
+13) mehanizme za prijavljivanje nadležnom nadzornom organu svih pravnih zahtjeva kojima podliježe član grupe preduzeća ili grupe privrednih subjekata koji obavljaju zajedničku ekonomsku djelatnost u trećoj zemlji, a koji bi mogli imati značajan negativan uticaj na garancije obezbijeđene obavezujućim korporativnim pravilima; i
+14) odgovarajuću obuku iz oblasti zaštite podataka za osoblje koje ima stalni ili redovni pristup ličnim podacima.

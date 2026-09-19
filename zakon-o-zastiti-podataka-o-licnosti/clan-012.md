@@ -1,0 +1,4 @@
+# Član 12
+## Obrada koja ne zahtijeva identifikaciju
+Ako svrhe u koje rukovalac obrađuje lične podatke ne zahtijevaju ili više ne zahtijevaju identifikaciju lica čiji se podaci obrađuju od strane rukovaoca, rukovalac nije dužan da čuva, pribavlja ili obrađuje dodatne informacije radi identifikacije lica čiji se podaci obrađuju isključivo u svrhu usklađivanja sa ovim zakonom.
+Kada, u slučajevima iz stava 1 ovog člana, rukovalac može dokazati da nije u mogućnosti da identifikuje lice čiji se podaci obrađuju, rukovalac će o tome obavijestiti lice čiji se podaci obrađuju, ako je to moguće. U takvim slučajevima čl. 16 do 21 ovog zakona ne primjenjuju se, osim kada lice čiji se podaci obrađuju, radi ostvarivanja svojih prava iz tih članova, dostavi dodatne informacije koje omogućavaju njegovu identifikaciju.
