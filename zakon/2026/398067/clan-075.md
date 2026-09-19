@@ -1,0 +1,40 @@
+# Član 75
+Predsjednik jedinice lokalne samouprave:
+1) predstavlja i zastupa jedinicu lokalne samouprave;
+2) predlaže propise i druge akte koje donosi skupština;
+3) stara se i odgovoran je za izvršavanje zakona, drugih propisa i opštih akata, strateškog plana razvoja jedinice lokalne samouprave i drugih razvojnih planova i programa, kao i za sprovođenje strateških dokumenata od državnog značaja;
+4) stara se i odgovoran je za izvršavanje prenesenih i povjerenih poslova;
+5) jednom godišnje Vladi podnosi izvještaj o vršenju prenesenih i povjerenih poslova, uz prethodnu saglasnost skupštine;
+6) donosi godišnji i srednjoročni program rada lokalne uprave;
+7) podnosi izvještaj o stanju imovine jedinice lokalne samouprave;
+8) odlučuje o otuđenju imovinskih prava na nepokretnostima neposrednom pogodbom, u skladu sa zakonom kojim se uređuje državna imovina;
+9) predlaže strateški plan razvoja jedinice lokalne samouprave u roku od 90 dana od dana isteka važenja prethodnog strateškog plana razvoja jedinice lokalne samouprave;
+10) donosi odluku o izradi lokalnog planskog dokumenta, stavlja nacrt na javnu raspravu i utvrđuje predlog planskog dokumenta;
+11) utvrđuje organizaciju i način rada lokalne uprave, po pribavljenom mišljenju glavnog administratora;
+12) imenuje i razrješava potpredsjednika jedinice lokalne samouprave, uz saglasnost skupštine;
+13) imenuje i razrješava glavnog administratora, starješinu organa lokalne uprave, odnosno službe iz člana 93 ovog zakona;
+14) imenuje i razrješava glavnog gradskog arhitektu;
+15) imenuje i razrješava menadžera;
+16) usmjerava i usklađuje rad organa lokalne uprave, posebnih i stručnih službi iz člana 93 ovog zakona, glavnog administratora, menadžera, glavnog gradskog arhitekte i javnih službi, radi efikasnijeg ostvarivanja njihovih funkcija i kvalitetnijeg pružanja javnih usluga, o čemu donosi odgovarajuće akte;
+17) daje saglasnost na akt o unutrašnjoj organizaciji i sistematizaciji organa lokalne uprave, posebnih i stručnih službi iz člana 93 ovog zakona i javnih službi;
+18) vrši nadzor nad radom organa lokalne uprave, posebnih i stručnih službi iz člana 93 ovog zakona i javnih službi;
+19) donosi akte iz svoje nadležnosti i akte u izvršavanju prenesenih i povjerenih poslova, ako posebnim propisom nije drugačije utvrđeno;
+20) donosi kadrovski plan organa lokalne uprave i posebnih i stručnih službi iz člana 93 ovog zakona;
+21) donosi plan integriteta;
+22) donosi godišnji plan obuka lokalnih službenika i namještenika;
+23) odgovoran je za izvršavanje odluka i drugih akata koje donosi skupština i donosi akte za njihovo izvršavanje, ako posebnim propisom nije drugačije utvrđeno;
+24)donosi akte kojima obezbjeđuje izvršenje budžeta jedinice lokalne samouprave;
+25) podnosi skupštini godišnji izvještaj o svom radu i radu organa lokalne uprave, posebnih i stručnih službi iz člana 93 ovog zakona, glavnog administratora, menadžera i glavnog gradskog arhitekte do 31. marta tekuće godine za prethodnu godinu;
+26) podnosi skupštini godišnji izvještaj o radu javnih službi;
+27) podnosi skupštini godišnji izvještaj o realizaciji akcionih planova strateškog plana razvoja jednice lokalne samouprave;
+28) podnosi skupštini jednom godišnje izvještaj o stanju uređenja prostora;
+29) podnosi skupštini godišnji izvještaj o realizaciji lokalnog plana upravljanja komunalnim i neopasnim građevinskim otpadom;
+30) podnosi skupštini godišnji izvještaj o postupanju u upravnim stvarima;
+31) podnosi skupštini godišnji izvještaj o stanju u oblasti ljudskih resursa koji naročito sadrži: analizu kadrovskog planiranja, efekata ocjenjivanja i sprovedenih obuka, podatke o broju zaposlenih lokalnih službenika i namještenika u organima lokalne uprave, stručnim i posebnim službama iz člana 93 ovog zakona i javnim službama, sa analizom potreba i uzroka usljed povećanja ili smanjenja broja zaposlenih, adekvatnosti kadrovske strukture po upravnim oblastima, procentualni odnos između stručnog i administartivno pomoćnog kadra u organima lokalne uprave, stručnim i posebnim službama iz člana 93 ovog zakona, kadrovskih kapaciteta za proces evropskih integracija i upravljanja projektima i dr.;
+32) podnosi skupštini godišnji izvještaj o realizaciji preporuka državnih organa i organa državne uprave, u skladu sa zakonom;
+33) podnosi skupštini izvještaj o realizaciji preporuka Državne revizorske institucije;
+34) podnosi skupštini godišnji izvještaj o statusu sudskih postupaka u kojima je jedinica lokalne samouprave strana u postupku, izvršavanju sudskih odluka, uzrocima i visini sudskih troškova;
+35) podnosi skupštini godišnji izvještaj o primjeni propisa iz nadležnosti lokalne uprave;
+36) podnosi skupštini godišnji izvještaj o primjeni propisa kojim se uređuje učešće građana u ostvarivanju lokalne samouprave;
+37) podnosi skupštini godišnji izvještaj o uticaju evropskih integracija na razvoj jedinice lokalne samouprave koji naročito sadrži: pregled sprovedenih aktivnosti jedinice lokalne samouprave u obavljanju poslova koji se odnose na evropske integracije, broj podnijetih aplikacija za projekte, broj odobrenih projekata, pregled realizacije aktivnosti shodno projektima sa iznosom utrošenih sredstava, pregled izazova u realizaciji projekata, promocija evropskih integracija, pregled podrške građanima i privrednoj zajednici za konkurisanje sredstava iz fondova Evropske unije;
+38) vrši i druge poslove utvrđene zakonom, statutom i drugim aktima jedinice lokalne samouprave.

@@ -1,0 +1,3 @@
+# Član 168
+Kad organ državne uprave nadležan za određenu upravnu oblast smatra da opšti akt skupštine ili predsjednika jedinice lokalne samouprave nije u saglasnosti sa zakonom ili Ustavom, upozoriće skupštinu ili predsjednika jedinice lokalne samouprave da u određenom roku preduzme odgovarajuće mjere radi usaglašavanja tog akta.
+Kad skupština, odnosno predsjednik jedinice lokalne samouprave ne postupi po upozorenju iz stava 1 ovog člana u ostavljenom roku, organ državne uprave nadležan za određenu upravnu oblast o tome obavještava Ministarstvo, koje je dužno da Vladi predloži preduzimanje mjera iz člana 169 ovog zakona.

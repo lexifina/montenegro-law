@@ -1,0 +1,4 @@
+# Član 114
+Glavni grad, Prijestonica, odnosno grad ima menadžera. Opština može imati menadžera.
+Menadžer predlaže i učestvuje u pripremi i realizaciji planova i programa razvoja jedinice lokalne samouprave kojima se podstiče ekonomski razvoj, preduzetnička inicijativa i javno-privatno partnerstvo, obezbjeđuje zaštitu životne sredine i održivi razvoj, priprema informacije i izvještaje o realizaciji projekata, uspostavlja i vodi bazu podataka o planovima, programima i projektima, inicira izmjene i dopune propisa u cilju smanjenja biznis barijera i vrši druge poslove koje mu povjeri predsjednik jedinice lokalne samouprave.
+Menadžer se postavlja na osnovu javnog konkursa, na vrijeme od pet godina, u skladu sa zakonom kojim se uređuju prava, obaveze i odgovornosti lokalnih službenika i namještenika.

@@ -1,0 +1,3 @@
+# Član 170
+Kad organ državne uprave nadležan za određenu upravnu oblast u postupku nadzora utvrdi da organi lokalne samouprave ne vrše poslove iz svoje nadležnosti, u skladu sa zakonom, upozoriće skupštinu i predsjednika jedinice lokalne samouprave da u određenom roku preduzme odgovarajuće mjere kojim će se obezbijediti izvršavanje poslova iz svoje nadležnosti, odnosno da izvrši te poslove.
+Kad skupština, odnosno predsjednik jedinice lokalne samouprave ne postupi po upozorenju iz stava 1 ovog člana, organ državne uprave nadležan za određenu upravnu oblast o tome obavještava Ministarstvo, koje je dužno da Vladi predloži preduzimanje mjera iz člana 81, odnosno člana 171 ovog zakona.

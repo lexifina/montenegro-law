@@ -1,0 +1,4 @@
+# Član 104
+Jedinica lokalne samouprave ima službu za evropske integracije.
+Služba za evropske integracije vrši poslove pripreme i upravljanja projektima finansiranim sredstvima iz fondova Evropske unije koji doprinose ekonomskom i socijalnom razvoju jedinice lokalne samouprave; koordinira aktivnosti u vezi sa evropskim integracijama (prati javne pozive za finansiranje projekata, utvrđuje prioritetne oblasti od lokalnog interesa i visinu potrebnih sredstava za finansiranje projekata) sa organima lokalne uprave, stručnim i posebnim službama iz člana 93 ovog zakona i organima državne uprave; priprema izvještaj o realizaciji odobrenih projekata i efektima evropskih integracija za jedinicu lokalne samouprave; vrši promociju evropskih integracija i vrši druge poslove u skladu sa opštim aktima jedinice lokalne samouprave.
+Nadzor nad zakonitošću i cjelishodnošću rada službe za evropske integracije vrši predsjednik jedinice lokalne samouprave.

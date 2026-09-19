@@ -1,0 +1,4 @@
+# Član 135
+Građanin ima pravo da podnese inicijativu organima lokalne uprave, posebnim i stručnim službama iz člana 93 ovog zakona koja sadrži predlog ili ideju radi postizanja određenog cilja, preduzimanja određenih aktivnosti ili rješavanja određenog problema od značaja za lokalno stanovništvo.
+O podnijetoj inicijativi iz stava 1 ovog člana nadležni organ lokalne uprave, posebna, odnosno stručna služba iz člana 93 ovog zakona dužni su da zauzmu stav, i u roku od 30 dana od dana podnošenja inicijative, o tome obavijeste podnosioca inicijative.
+Ako organi lokalne uprave, posebne i stručne službe iz člana 93 ovog zakona ne postupe po inicijativi iz stava 1 ovog člana, podnosilac inicijative može podnijeti građansku žalbu predsjedniku jedinice lokalne samouprave ili skupštini u skladu sa članom 143 ovog zakona.
