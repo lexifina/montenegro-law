@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilnikom propisuje se način vođenja i sadržaj registara lica zaduženih za pružanje stručne podrške za koordinaciju procesa upravljanja rizicima, lica zaduženih za koordinaciju uspostavljanja, sprovođenja, praćenja i kontinuirano unapređenje unutrašnje kontrole, jedinica za unutrašnju reviziju, sporazuma o povjeravanju poslova unutrašnje revizije, povelja unutrašnje revizije, raspoređenih unutrašnjih revizora, sertifikovanih unutrašnjih revizora i obuka unutrašnjih revizora, i potrebna dokumentacija koju dostavlja odgovorno lice u subjektu.
