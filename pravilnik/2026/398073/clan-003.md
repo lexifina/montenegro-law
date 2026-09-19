@@ -1,0 +1,3 @@
+# Član 3
+## Cilj obuke
+Cilj obuke je sticanje i unapređenje stručnih znanja, praktičnih vještina i profesionalnih kompetencija državnih tužilaca za maloljetnike, policajaca za maloljetnike, sudija za maloljetnike i sudija vijeća za maloljetnike, advokata i zaposlenih u organu uprave nadležnom za izvršenje krivičnih sankcija koji su u kontaktu sa maloljetnicima (u daljem tekstu: učesnici obuke) potrebnih za postupanje prema maloljetnicima kao učiniocima krivičnih djela i djeci kao učesnicima u krivičnom postupku, u skladu sa međunarodnim i evropskim standardima o pravima djeteta i pravosuđu po mjeri djeteta, pravom Evropske unije i nacionalnim zakonodavstvom.
