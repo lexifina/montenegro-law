@@ -1,0 +1,34 @@
+{
+  "id": 398332,
+  "path": "zakon/2026/398332",
+  "source": "https://www.sluzbenilist.me/propisi/398332",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/398332/download",
+  "title": "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore*",
+  "issue": "Službeni list Crne Gore, broj 137/2026",
+  "published": "2026-09-21",
+  "in_force": "2026-09-22",
+  "in_force_basis": "Ovaj zakon stupa na snagu narednog dana od dana objavljivanja u „Službenom listu Crne Gore”",
+  "applies": null,
+  "amended_by": [
+    [
+      398332,
+      "Zakon o izmjenama i dopunama Krivičnog zakonika Crne Gore*"
+    ]
+  ],
+  "text_status": "as-enacted; amended, not consolidated",
+  "source_sha256": "ac16499a76a89a5671ab6f3a0d358b373563ea7016035f351f1a21816993d21d",
+  "articles_in_source": 102,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 44733,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "recovered_after_interruption": true,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "ed779c70e728e9cf049bc5541f87186582f397b22476878eeb92d315ab9435c5",
+  "enacted": "2026-09-16",
+  "enacted_basis": "Podgorica, 16. septembar 2026"
+}
