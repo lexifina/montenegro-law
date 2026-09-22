@@ -1,0 +1,2 @@
+Na osnovu odredbi člana 38 stav 1 tačka 30 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 85/22, 81/25 i 98/25), člana 34 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11 i 23/25) i člana 20 stav 1 tačka 1 i 44 stav 1 tačka 58 Statuta Opštine Budva ("Službeni list Crne Gore - Opštinski propisi", broj 2/19), a u vezi sa Odlukom Skupštine opštine Budva, br. 10-040/26-120/1 od 13. marta 2026. godine, Skupština opštine Budva, na XIV sjednici održanoj 16. septembra 2026. godine, donijela je
+ODLUKU
