@@ -1,0 +1,7 @@
+# Član 5
+## Statusne promjene investicionog društva
+(1) Investiciono društvo koje učestvuje u spajanju, pripajanju ili podjeli društva ili drugoj statusnoj promjeni u skladu sa zakonom kojim se uređuju privredna društva, dužno je da prije podnošenja prijave za upis statusne promjene u Centralni registar privrednih subjekata pribavi dozvolu Komisije, u skladu sa Zakonom i ovim pravilnikom.
+(2) Ako usljed statusne promjene u kojoj učestvuje investiciono društvo nastane novo društvo koje namjerava da pruža investicione usluge ili obavlja investicione aktivnosti, to društvo je dužno da prije početka njihovog pružanja pribavi dozvolu za pružanje investicionih usluga i obavljanje investicionih aktivnosti u skladu sa Zakonom.
+(3) Na postupak odlučivanja o izdavanju dozvole iz stava 1 ovog člana shodno se primjenjuju odredbe Zakona kojima je uređeno izdavanje dozvole za pružanje investicionih usluga i obavljanje investicionih aktivnosti investicionom društvu.
+(4) Komisija će rješenjem odbiti izdavanje dozvole iz stava 1 ovog člana ako ocijeni da bi sprovođenje statusne promjene moglo ugroziti sigurnost i stabilnost poslovanja investicionog društva ili zaštitu interesa klijenata.
+(5) Društvo preuzimalac mora imati dozvolu za pružanje najmanje onih investicionih usluga i obavljanje investicionih aktivnosti koje je imalo investiciono društvo koje se pripaja, radi obezbjeđenja urednog izvršavanja njegovih obaveza prema klijentima i trećim licima.

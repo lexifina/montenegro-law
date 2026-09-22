@@ -1,0 +1,3 @@
+# Član 11
+## Zahtjev za izdavanje dozvole za sprovođenje razdvajanja i odvajanja sa preuzimanjem
+Na sadržaj zahtjeva za izdavanje dozvole za sprovođenje razdvajanja i odvajanja sa preuzimanjem, kao i na dokumentaciju i podatke koji se dostavljaju uz zahtjev, shodno se primjenjuju odredbe ovog pravilnika koje uređuju razdvajanje i odvajanje sa osnivanjem, pri čemu se plan podjele zamjenjuje ugovorom o podjeli i preuzimanju koji, u skladu sa zakonom kojim se uređuju privredna društva, zaključuju organi upravljanja društva koje se dijeli i društva preuzimaoca, a novo društvo zamjenjuje se društvom preuzimaocem.
