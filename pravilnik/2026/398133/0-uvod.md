@@ -1,0 +1,2 @@
+Na osnovu člana 193 stav 2 tačka 3, a u vezi sa članom 183 Zakona o tržištu kapitala ("Službeni list Crne Gore", br. 1/18 od 4. 1.2018, 69/25 od 3. 7. 2025) (u daljem tekstu: Zakon), Komisija za tržište kapitala, na 199. sjednici održanoj 10. septembra 2026. godine, donosi
+PRAVILNIK O OBLIKU, SADRŽAJU, ROKOVIMA I NAČINU DOSTAVLJANJA IZVJEŠTAJA O TRANSAKCIJAMA SA FINANSIJSKIM INSTRUMENTIMA IZVRŠENIM NA REGULISANOM TRŽIŠTU KOJIM UPRAVLJA ORGANIZATOR TRŽIŠTA
