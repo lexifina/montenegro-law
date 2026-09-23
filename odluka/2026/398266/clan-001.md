@@ -1,0 +1,2 @@
+# Član 1
+Stavlja se van snage Odluka o prenosu prava svojine na građevinskom zemljištu radi kompletiranja urbanističke parcele broj RTC 503, u zahvatu Detaljne razrade lokacije I faza privredne zone Bar, u skladu sa PPPN za obalno područje Crne Gore ("Službeni list Crne Gore - Opštinski propisi", br. 56/18), opština Bar, br. 01-018/26-2506/1 od 25. 6. 2026. godine ("Službeni list Crne Gore - Opštinski propisi", br. 33/26 od 10. 7. 2026).
