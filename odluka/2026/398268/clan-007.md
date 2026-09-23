@@ -1,0 +1,3 @@
+# Član 7
+Starješina Sekretarijata za urbanizam i zaštitu životne sredine i starješina Sekretarijata za saobraćaj, komunalne i stambene poslove dužni su da donesu, odnosno usklade akte o unutrašnjoj organizaciji i sistematizaciji radnih mjesta sa organizacijom i djelokrugom poslova utvrđenim ovom odlukom, u roku od 15 dana od dana njenog stupanja na snagu, uz prethodnu saglasnost predsjednika Opštine, u skladu sa zakonom.
+Glavni gradski arhitekta dužan je da, u roku iz stava 1 ovog člana, donese, odnosno uskladi akt o unutrašnjoj organizaciji i sistematizaciji Službe Glavnog gradskog arhitekte sa djelokrugom poslova utvrđenim ovom odlukom, uz prethodnu saglasnost predsjednika Opštine, u skladu sa zakonom.

@@ -1,0 +1,5 @@
+# Član 6
+Sekretarijat za saobraćaj, komunalne i stambene poslove preuzima lokalne službenike i namještenike iz Sekretarijata za komunalne poslove i saobraćaj koji na dan stupanja na snagu ove odluke rade na poslovima koji prelaze u djelokrug novoobrazovanog Sekretarijata, u skladu sa zakonom.
+Sekretarijat za saobraćaj, komunalne i stambene poslove preuzima i lokalne službenike i namještenike iz Sekretarijata za urbanizam i zaštitu životne sredine koji na dan stupanja na snagu ove odluke rade na poslovima iz oblasti stanovanja i drugim poslovima koji ovom odlukom prelaze u djelokrug tog Sekretarijata.
+Do raspoređivanja u skladu sa aktom o unutrašnjoj organizaciji i sistematizaciji Sekretarijata za saobraćaj, komunalne i stambene poslove, preuzeti lokalni službenici i namještenici nastavljaju da obavljaju poslove koje su obavljali prije preuzimanja, u skladu sa zakonom.
+O raspoređivanju, odnosno stavljanju na raspolaganje, kao i drugim pravima, obavezama i statusu lokalnih službenika i namještenika na koje utiče reorganizacija izvršena ovom odlukom, odlučiće se pojedinačnim aktima, u skladu sa zakonom i aktima o unutrašnjoj organizaciji i sistematizaciji.

@@ -1,0 +1,45 @@
+# Član 4
+Član 28 mijenja se i glasi:
+"Član 28
+Služba Glavnog gradskog arhitekte obavlja stručne i druge poslove koji se odnose na:
+- davanje saglasnosti na idejno rješenje arhitektonskog projekta objekata za koje je vršenje tih poslova zakonom preneseno jedinici lokalne samouprave, u pogledu usaglašenosti sa urbanističko - tehničkim uslovima, u dijelu oblikovanja i materijalizacije, osnovnim urbanističkim parametrima i drugim urbanističkim parametrima, u skladu sa zakonom kojim se uređuje izgradnja objekata;
+- davanje saglasnosti na idejno rješenje projekta arhitekture privremenog objekta za koji se izrađuje glavni projekat, u odnosu na oblikovanje, materijalizaciju i urbanističke parametre iz programa privremenih objekata koji donosi Opština Danilovgrad, u skladu sa zakonom kojim se uređuje izgradnja objekata;
+- vršenje poslova glavnog gradskog arhitekte koji su zakonom kojim se uređuje izgradnja objekata preneseni jedinici lokalne samouprave;
+- vršenje poslova glavnog državnog arhitekte koji budu povjereni Opštini Danilovgrad u skladu sa zakonom kojim se uređuje izgradnja objekata, zakonom kojim se uređuje državna uprava i aktom kojim su ti poslovi povjereni;
+- davanje mišljenja o usklađenosti revidovanog glavnog projekta sa najbolje rangiranim idejnim rješenjem dobijenim putem javnog konkursa za idejno arhitektonsko rješenje, odnosno sa urbanističko - arhitektonskim idejnim rješenjem izabranim putem javnog konkursa, kada je vršenje tih poslova u nadležnosti Glavnog gradskog arhitekte, odnosno kada su ti poslovi povjereni Opštini Danilovgrad, u skladu sa zakonom;
+- postupanje u vezi sa idejnim rješenjem rekonstrukcije zgrade kojom se ne predviđa izmjena spoljnog izgleda i promjena namjene objekta, kao i urbanističko - arhitektonskim idejnim rješenjem izabranim putem javnog konkursa, u skladu sa zakonom kojim se uređuje izgradnja objekata;
+- izdavanje potvrde o usklađenosti bespravno izgrađenog objekta sa smjernicama za usklađivanje spoljnog izgleda iz planskog dokumenta, odnosno smjernicama glavnog gradskog arhitekte, u postupcima legalizacije bespravnih objekata u kojima je takvo ovlašćenje propisano zakonom, uključujući postupke započete po ranije važećim propisima kada se, u skladu sa prelaznim i završnim odredbama zakona, ti propisi primjenjuju na konkretan postupak;
+- pripremanje odgovora na odbornička pitanja upućena Službi i na odbornička pitanja iz nadležnosti Službe upućena predsjedniku Opštine;
+- pripremanje, izrađivanje i sprovođenje programa rada Službe i drugih programskih i planskih akata iz djelokruga Službe;
+- praćenje i sprovođenje državnih planskih akata u okviru nadležnosti Službe;
+- dostavljanje idejnog rješenja, zahtjeva investitora za davanje saglasnosti, saglasnosti i drugih akata glavnom državnom arhitekti kada je to propisano zakonom;
+- vođenje propisanih evidencija i čuvanje dokumentacije Službe;
+- poslove u vezi sa slobodnim pristupom informacijama iz djelokruga rada ove Službe;
+- pripremanje i dostavljanje informacija radi objavljivanja u medijima, na web sajtu Opštine i društvenim mrežama;
+- pripremanje godišnjeg i drugih izvještaja za glavnog administratora o rješavanju upravnih stvari iz nadležnosti Službe;
+- ostvarivanje saradnje sa NVO povodom pitanja iz nadležnosti Službe;
+- pripremanje nacrta i predloga akata koje donose Skupština opštine i predsjednik Opštine iz djelokruga rada Službe;
+- pripremanje informativnih i drugih stručnih materijala za Skupštinu opštine i predsjednika Opštine;
+- davanje mišljenja na nacrt i predlog izmjena zakona i drugih propisa iz nadležnosti Službe koji se dostavljaju na izjašnjavanje Opštini;
+- pripremanje putnih naloga i izvještaja za službena putovanja službenika i namještenika Službe;
+- pripremanje predloga Kadrovskog plana koji se odnosi na zaposlene u Službi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- pripremanje predloga Plana korišćenja godišnjih odmora za zaposlene u Službi i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- izradu Pravilnika o unutrašnjoj organizaciji i sistematizaciji radnih mjesta Službe;
+- odlučivanje o izboru, raspoređivanju i drugim poslovima iz oblasti zasnivanja, trajanja i prestanka radnog odnosa službenika i namještenika u Službi, u skladu sa zakonom;
+- donošenje rješenja o zaradi službenika i namještenika ove Službe;
+- odlučivanje o pokretanju internog i javnog oglasa radi popune radnih mjesta, uz prethodnu saglasnost predsjednika Opštine;
+- ocjenjivanje rada i rezultata rada službenika i namještenika u Službi;
+- planiranje i odlučivanje o stručnom osposobljavanju i usavršavanju službenika i namještenika, kao i posebnom stručnom usavršavanju i ugovaranju u vezi sa istim, u toku radnog odnosa zaposlenog;
+- nadzor i kontrolu rada službenika i namještenika u Službi, pokretanje disciplinskog postupka, kao i vršenje drugih disciplinskih ovlašćenja u skladu sa zakonom;
+- nadzor i kontrolu pravilnog korišćenja imovine i sredstava za rad u skladu sa zakonom i posebnim opštinskim propisima;
+- obezbjeđivanje učešća javnosti u donošenju akata od zajedničkog interesa i u ostalim aktima i aktivnostima u skladu sa zakonskim i opštinskim propisima;
+- vođenje propisanih evidencija u vezi sa obradom podataka o ličnosti i obezbjeđivanje njihove zaštite, u skladu sa zakonom;
+- realizaciju usvojenih akcionih planova, strategija i drugih razvojnih i planskih dokumenata iz djelokruga rada Službe;
+- pripremanje i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština opštine i predsjednik Opštine, iz djelokruga rada Službe;
+- pribavljanje i obradu podataka po službenoj dužnosti iz službenih evidencija i registara koje vodi Služba, odnosno drugi nadležni organ, u skladu sa zakonom, za potrebe odlučivanja po zahtjevima stranaka;
+- saradnju sa državnim organima, drugim organima i službama lokalne uprave, javnim službama, mjesnim zajednicama i drugim pravnim i fizičkim licima u okviru djelokruga rada Službe;
+- sprovođenje upravnih postupaka, donošenje upravnih akata i vršenje upravnih radnji iz djelokruga rada Službe;
+- vođenje službenih evidencija, registara i drugih zbirki podataka iz djelokruga rada Službe čije je vođenje propisano zakonom, podzakonskim ili opštinskim propisom;
+- praćenje propisa iz djelokruga rada Službe i iniciranje njihovih izmjena i dopuna radi unapređenja normativnog okvira i efikasnijeg vršenja poslova iz nadležnosti Službe;
+- postupanje po predstavkama, pritužbama, peticijama, inicijativama i drugim podnescima građana i pravnih lica iz djelokruga rada Službe i obavještavanje podnosilaca o postupanju, u skladu sa zakonom i drugim propisima;
+- druge poslove iz svog djelokruga u skladu sa zakonom, podzakonskim propisima, Statutom Opštine, odlukama Skupštine opštine i aktima predsjednika Opštine."

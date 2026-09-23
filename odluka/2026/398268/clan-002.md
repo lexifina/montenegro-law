@@ -1,0 +1,68 @@
+# Član 2
+Član 16 mijenja se i glasi:
+"Član 16
+Sekretarijat za urbanizam i zaštitu životne sredine vrši poslove koji se odnose na:
+- učestvovanje u izradi propisa iz oblasti prostornog planiranja;
+- pripremu odluka o izradi planskog dokumenta;
+- pripremu dokumentacije za izradu planskog dokumenta;
+- izradu Programa uređenja prostora sa Programom urbane sanacije;
+- rješavanje po zahtjevima za izdavanje urbanističko-tehničkih uslova za izgradnju i rekonstrukciju objekata, na osnovu PUP-a, DUP-a, UP-a i lokalnih studija lokacija;
+- izdavanje izvoda iz planskih dokumenata;
+- rješavanje po zahtjevima za pretvaranje posebnog i zajedničkog dijela stambene zgrade u poslovnu prostoriju, odnosno poslovne prostorije u posebni ili zajednički dio stambene zgrade;
+- rješavanje po zahtjevima za izdavanje građevinske dozvole;
+- rješavanje po zahtjevima za izdavanje upotrebne dozvole;
+- izdavanje uvjerenja o činjenicama o kojima se vodi službena evidencija;
+- izradu Programa privremenih objekata;
+- rješavanje po zahtjevima za izdavanje urbanističko-tehničkih uslova za postavljanje, odnosno građenje privremenih objekata, uređaja i opreme, na osnovu Programa privremenih objekata;
+- rješavanje po zahtjevima za izgradnju pomoćnih objekata;
+- rješavanje po zahtjevima za izgradnju lokalnih objekata od opšteg interesa;
+- sprovođenje postupka legalizacije bespravno izgrađenih objekata;
+- sistematizovanje i utvrđivanje liste bespravnih objekata;
+- pripremanje podataka neophodnih nadležnom poreskom organu za utvrđivanje naknade za objekte ili djelove bespravno izgrađenih objekata;
+- utvrđivanje naknade za urbanu sanaciju;
+- utvrđivanje naknade za komunalno opremanje građevinskog zemljišta;
+- obavljanje stručno-administrativnih poslova za obračun naknade za komunalno opremanje;
+- odlučivanje o davanju saglasnosti na izvještaj o strateškoj procjeni uticaja planskih dokumenata;
+- odlučivanje o potrebi procjene uticaja projekata na životnu sredinu;
+- praćenje sprovođenja zakona o integrisanom sprečavanju i kontrolisanju zagađivanja životne sredine i izdavanje integrisane dozvole;
+- pokretanje postupka izrade stručne podloge studije zaštite za proglašenje određenih kategorija prirodnog dobra;
+- pripremanje lokalnih planova zaštite životne sredine, praćenje i sprovođenje zakona kojima se regulišu zaštita prirode i životne sredine, a koji su u nadležnosti lokalne uprave;
+- učestvovanje u postupku pripreme i izrade planova i programa iz oblasti zaštite životne sredine;
+- učešće u projektima zaštite i sanacije ugroženih područja;
+- sprovođenje postupka proglašavanja zaštićenih prirodnih dobara i stvaranje uslova za rad na zaštićenim objektima prirode;
+- vođenje postupka procjene uticaja na životnu sredinu;
+- vođenje postupka strateške procjene uticaja na životnu sredinu;
+- vršenje poslova zaštite i poboljšanja kvaliteta vazduha;
+- učestvovanje u vršenju akustičkog zoniranja radi određivanja akustičkih zona u cilju zaštite ljudi od buke;
+- stvaranje uslova za vršenje dezinfekcije, dezinsekcije i deratizacije;
+- poslove u vezi sa slobodnim pristupom informacijama iz djelokruga rada ovog Sekretarijata;
+- pripremanje i dostavljanje informacija radi objavljivanja u medijima, na web sajtu Opštine i društvenim mrežama;
+- pripremanje godišnjeg i drugih izvještaja za glavnog administratora o rješavanju upravnih stvari iz nadležnosti Sekretarijata;
+- ostvarivanje saradnje sa NVO povodom pitanja iz nadležnosti Sekretarijata;
+- upravni nadzor i poslove ostvarivanja prava u javnim službama koje obavljaju djelatnosti iz djelokruga rada ovog Sekretarijata, a čiji je osnivač Opština;
+- davanje mišljenja i saglasnosti na program rada, izvještaj o radu i izvještaj o finansijskom poslovanju javnih službi koje obavljaju djelatnosti iz djelokruga rada ovog Sekretarijata;
+- pripremanje nacrta i predloga akata koje donose Skupština opštine i predsjednik Opštine iz djelokruga rada Sekretarijata;
+- pripremanje informativnih i drugih stručnih materijala za Skupštinu opštine i predsjednika Opštine;
+- davanje mišljenja na nacrt i predlog izmjena zakona i drugih propisa iz nadležnosti Sekretarijata koji se dostavljaju na izjašnjavanje Opštini;
+- pripremanje putnih naloga i izvještaja za službena putovanja službenika i namještenika Sekretarijata;
+- pripremanje predloga Kadrovskog plana koji se odnosi na zaposlene u Sekretarijatu i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- pripremanje predloga Plana korišćenja godišnjih odmora za zaposlene u Sekretarijatu i dostavljanje istog organu nadležnom za upravljanje ljudskim resursima;
+- izradu Pravilnika o unutrašnjoj organizaciji i sistematizaciji radnih mjesta Sekretarijata;
+- odlučivanje o izboru, raspoređivanju i drugim poslovima iz oblasti zasnivanja, trajanja i prestanka radnog odnosa službenika i namještenika u Sekretarijatu, u skladu sa zakonom;
+- donošenje rješenja o zaradi službenika i namještenika ovog Sekretarijata;
+- odlučivanje o pokretanju internog i javnog oglasa radi popune radnih mjesta, uz prethodnu saglasnost predsjednika Opštine;
+- ocjenjivanje rada i rezultata rada službenika i namještenika u Sekretarijatu;
+- planiranje i odlučivanje o stručnom osposobljavanju i usavršavanju službenika i namještenika, kao i posebnom stručnom usavršavanju i ugovaranju u vezi sa istim, u toku radnog odnosa zaposlenog;
+- nadzor i kontrolu rada službenika i namještenika u Sekretarijatu, pokretanje disciplinskog postupka, kao i vršenje drugih disciplinskih ovlašćenja u skladu sa zakonom;
+- nadzor i kontrolu pravilnog korišćenja imovine i sredstava za rad u skladu sa zakonom i posebnim opštinskim propisima;
+- obezbjeđivanje učešća javnosti u donošenju akata od zajedničkog interesa i u ostalim aktima i aktivnostima u skladu sa zakonskim i opštinskim propisima;
+- vođenje propisanih evidencija u vezi sa obradom podataka o ličnosti i obezbjeđivanje njihove zaštite, u skladu sa zakonom;
+- realizaciju usvojenih akcionih planova, strategija i drugih razvojnih i planskih dokumenata iz djelokruga rada Sekretarijata;
+- pripremanje i procjenu analize uticaja odluka i drugih propisa (RIA) koje donose Skupština opštine i predsjednik Opštine, iz djelokruga rada Sekretarijata;
+- pribavljanje i obradu podataka po službenoj dužnosti iz službenih evidencija i registara koje vodi Sekretarijat, odnosno drugi nadležni organ, u skladu sa zakonom, za potrebe odlučivanja po zahtjevima stranaka;
+- saradnju sa državnim organima, drugim organima i službama lokalne uprave, javnim službama, mjesnim zajednicama i drugim pravnim i fizičkim licima u okviru djelokruga rada Sekretarijata;
+- sprovođenje upravnih postupaka, donošenje upravnih akata i vršenje upravnih radnji iz djelokruga rada Sekretarijata;
+- vođenje službenih evidencija, registara i drugih zbirki podataka iz djelokruga rada Sekretarijata čije je vođenje propisano zakonom, podzakonskim ili opštinskim propisom;
+- praćenje propisa iz djelokruga rada Sekretarijata i iniciranje njihovih izmjena i dopuna radi unapređenja normativnog okvira i efikasnijeg vršenja poslova iz nadležnosti Sekretarijata;
+- postupanje po predstavkama, pritužbama, peticijama, inicijativama i drugim podnescima građana i pravnih lica iz djelokruga rada Sekretarijata i obavještavanje podnosilaca o postupanju, u skladu sa zakonom i drugim propisima;
+- druge poslove iz svog djelokruga u skladu sa zakonom, podzakonskim propisima, Statutom Opštine, odlukama Skupštine opštine i aktima predsjednika Opštine."
