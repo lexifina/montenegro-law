@@ -1,0 +1,6 @@
+# Član 3
+(1) Registar se vodi isključivo u elektronskom obliku, preko elektronskog registra iz člana 4 ovog pravilnika, koji predstavlja jedini operativni oblik vođenja Registra zanatlija (u daljem tekstu: Registar).
+(2) Zanatska komora Crne Gore (u daljem tekstu: Komora) vodi Registar preko informacionog sistema koji obezbjeđuje trajno, bezbjedno i ažurno čuvanje podataka, zaštitu od gubitka, uništenja i neovlašćenog pristupa, kao i izradu rezervne kopije podataka (backup).
+(3) Radi neposrednog uvida i pristupa elektronskom Registru, Komora organu državne uprave nadležnom za poslove zanatstva (u daljem tekstu: Ministarstvo) obezbjeđuje poseban pristupni nalog sa uvidom u sve podatke iz Registra, uključujući i podatke koji nijesu javno dostupni u smislu člana 4 stav 3 ovog pravilnika.
+(4) Radi neposrednog uvida i pristupa elektronskom Registru, Komora obezbjeđuje poseban pristupni nalog i nadležnom organu lokalne uprave, sa pristupom podacima potrebnim za vršenje provjere iz člana 12 stav 1 tačka 1 ovog pravilnika.
+(5) Podaci iz Registra ne brišu se uklanjanjem iz baze podataka, a podatak koji prestaje da važi obilježava se kao neaktivan, uz čuvanje istorijata svih promjena, datuma i osnova promjene, tako da je u svakom trenutku moguća rekonstrukcija stanja Registra za bilo koji raniji period.

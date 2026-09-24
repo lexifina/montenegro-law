@@ -1,0 +1,5 @@
+# Član 6
+(1) Zanatlija je odgovoran za tačnost, potpunost i ažurnost podataka koje unosi, odnosno dostavlja radi upisa u Registar, s obzirom na to da podatke samostalno unosi i potvrđuje prilikom podnošenja elektronske prijave.
+(2) Zanatlija treba da u roku od 8 dana od dana nastanka promjene podatka iz člana 7 ovog pravilnika podnese prijavu za upis promjene, u skladu sa čl. 10 i 11 ovog pravilnika.
+(3) Komora ne odgovara za tačnost podataka koje je zanatlija unio, odnosno dostavio i treba da obezbijedi tehničku ispravnost, bezbjednost i dostupnost elektronskog registra i informacionog sistema iz člana 4 ovog pravilnika, kao i da vrši provjeru iz člana 12 ovog pravilnika u granicama raspoloživih podataka i dokaza.
+(4) Komora vodi evidenciju zaposlenih, kao i drugih lica, koji imaju pravo pristupa Registru radi tehničkog administriranja podataka i uvida, sa evidentiranim korisničkim nalozima i tragom svih izvršenih radnji, uključujući vrijeme radnje i identitet lica koje ju je izvršilo.
