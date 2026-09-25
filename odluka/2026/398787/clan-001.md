@@ -1,0 +1,4 @@
+# Član 1
+## o utvrđivanju lokacije za uklanjanje postojeće trafostanice TS_O "Mediafarm", izmještanje podzemnih kablovskih vodova i izgradnju DTS 10/0,4Kv "Prčanj_N"
+Ovom odlukom određuje se lokacija sa elementima urbanističko-tehničkih uslova za izradu projektne dokumentacije za uklanjanje TS-O 10/0,4kVA "Mediafarm", izmještanje postojećih 10 kV podzemnih kablovskih vodova i izgradnju DTS 10/0,4Kv "Prčanj_N" na djelovima kat.parc. 555, 563, 561 i 1328 KO Prčanj I, Opština Kotor (kao i na katastarskim parcelama koje nastanu parcelacijom navedenih parcela).
+Kako se radi o izgradnji infrastrukturnih objekata, isti se smatra lokalnim objektom od opšteg interesa. Inicijativu za donošenje ove Odluke podnijeli su Martinović B. Goran, Martinović B. Miloš i Martinović B. Vlado CEDIS-u koji je proslijedio na nadležnost Sekretartijatu za urbanizam, stanovanje i uređenje prostora.
