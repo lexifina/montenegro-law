@@ -1,0 +1,7 @@
+# Član 56
+## Prenošenje dokaza
+(1) Nadležni domaći organ, bez nepotrebnog odlaganja, prenosi dokaze organu države izdavanja, koji su pribavljeni ili su već u posjedu domaćih organa. Kad se to zahtijeva u evropskom istražnom nalogu i ako je to moguće prema domaćem zakonu, dokazi se odmah prenose nadležnim organima države izdavanja koji pomažu prilikom izvršenja evropskog istražnog naloga, u skladu sa članom 53 stav 4 ovog zakona.
+(2) Prenošenje dokaza može se odložiti do donošenja odluke o pravnom lijeku, osim ako su u evropskom istražnom nalogu navedeni opravdani razlozi da je prenošenje dokaza nužno za vođenje istrage u državi izdavanja ili zaštitu ličnih prava.
+(3) Ako bi se prenošenjem dokaza zainteresovanom licu, odnosno licu koje ima pravni interes nanijela ozbiljna i nenadoknadiva šteta, prenošenje dokaza se odlaže.
+(4) Prilikom prenošenja pribavljenih dokaza nadležni domaći organ navodi da li zahtijeva da se dokazi vrate čim za njihovim korišćenjem prestane potreba u državi izdavanja.
+(5) Kad su predmeti, dokumenta ili podaci koji predstavljaju dokaze u smislu stava 1 ovog člana potrebni u drugim postupcima, nadležni domaći organ može, na izričit zahtjev organa države izdavanja i nakon konsultovanja sa tim organom, privremeno prenijeti dokaze, pod uslovom da se vrate nadležnom domaćem organu čim prestane potreba za njihovim korišćenjem ili u bilo kojem drugom trenutku, odnosno u bilo kojoj drugoj prilici, po dogovoru.

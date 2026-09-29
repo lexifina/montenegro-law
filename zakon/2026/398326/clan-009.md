@@ -1,0 +1,37 @@
+# Član 9
+## Dvostruka kažnjivost
+(1)Kad nadležni domaći organ odlučuje o priznanju i izvršenju naloga, odluke, odnosno zahtjeva iz člana 1 stav 2 ovog zakona provjeriće dvostruku kažnjivost, u skladu sa ovim zakonom.
+(2) Izuzetno od stava 1 ovog člana, nadležni domaći organ izvršiće nalog, odluku, odnosno zahtjev stranog organa bez provjeravanja dvostruke kažnjivosti ako je u državi izdavanja propisana kazna zatvora ili mjera koja podrazumijeva lišenje slobode u trajanju od tri ili više godina, a u slučaju priznanja strane novčane kazne bez obzira na visinu propisane kazne, za kažnjiva djela koje je država izdavanja označila kao sljedeća djela:
+- stvaranje kriminalne organizacije,
+- terorizam,
+- trgovina ljudima,
+- polno iskorišćavanje maloljetnika i dječja pornografija,
+- nedozvoljena trgovina opojnim drogama i psihotropnim supstancama,
+- nedozvoljena trgovina oružjem, municijom i eksplozivima,
+- korupcija,
+- prevara, uključujući i one koje utiču na finansijske interese Evropskih zajednica u smislu Konvencije 20 o zaštiti finansijskih interesa Evropskih zajednica od 26. jula 1995. godine,
+- pranje novca,
+- falsifikovanje valute, uključujući i euro,
+- kompjuterski kriminalitet,
+- djela protiv životne sredine, uključujući i nedozvoljenu trgovinu ugroženim životinjskim vrstama i vrstama i sortama ugroženih biljaka,
+- omogućavanje neovlašćenog ulaska i boravka,
+- ubistvo i teška tjelesna povreda,
+- nedozvoljena trgovina ljudskim organima i tkivom,
+- otmica, protivpravno lišenje slobode i držanje talaca,
+- rasizam i ksenofobija,
+- organizovano ili oružano razbojništvo,
+- nedozvoljena trgovina kulturnim dobrima, uključujući starine i umjetnička djela,
+- prevara,
+- reketiranje i iznuda,
+- falsifikovanje i piratstvo proizvoda,
+- falsifikovanje i trgovina javnim ispravama,
+- falsifikovanje sredstava plaćanja,
+- nedozvoljena trgovina hormonskim supstancama i drugim materijama za podsticanje rasta,
+- nedozvoljena trgovina nuklearnim i radioaktivnim materijalima,
+- trgovina ukradenim vozilima,
+- silovanje,
+- podmetanje požara,
+- krivična djela iz nadležnosti Međunarodnog krivičnog suda,
+- protivpravno oduzimanje vazduhoplova, odnosno plovnih objekata,
+- sabotaža.
+(3) U slučaju iz stava 2 ovog člana, nadležni domaći organ označiće u standardizovanom obrascu koji je utvrđen pravnim aktima Evropske unije i objavljuje se na internet stranici Ministarstva, na crnogorskom i engleskom jeziku, da se radi o djelu iz stava 2 ovog člana.

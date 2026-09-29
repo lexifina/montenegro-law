@@ -1,0 +1,6 @@
+# Član 169
+## Nadležnost za izvršenje rješenja o priznanju evropskog naloga za zaštitu
+(1) Pravosnažno rješenje o priznanju evropskog naloga za zaštitu dostavlja se radi izvršenja nadležnom domaćem organu, u skladu sa domaćim zakonom.
+(2) Sud koji je donio rješenje o priznanju evropskog naloga za zaštitu može naložiti provjeru izvršavanja zaštitne mjere i zatražiti izvještaj od policije ili drugog nadležnog organa. Nadležni domaći organ koji izvršava zaštitnu mjeru bez odlaganja će sprovesti naložene provjere i o tome obavijestiti nadležnog sudiju za istragu.
+(3) Nadležni organ koji izvršava zaštitnu mjeru obavještava nadležni sud o svakom postupanju lica od kojeg prijeti opasnost suprotno zabrani ili ograničenju iz rješenja.
+(4) Nadležni sud će, bez odlaganja, na način koji obezbjeđuje pisanu potvrdu o dostavljanju, obavijestiti organ države izdavanja ili države nadzora o svakom kršenju mjere izrečene na osnovu evropskog naloga za zaštitu. Obavještenje se dostavlja na standardizovanom obrascu koji je utvrđen pravnim aktima Evropske unije sa prevodom na službeni jezik ili drugi jezik koji prihvata država izdavanja ili država nadzora. Standardizovani obrazac se objavljuje na internet stranici Ministarstva, na crnogorskom i engleskom jeziku.

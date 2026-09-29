@@ -1,0 +1,7 @@
+# Član 51
+## Način komunikacije
+(1) Evropski istražni nalog prosljeđuje se neposredno nadležnom organu države izvršenja.
+(2) U postupcima pokrenutim prije prvog dana mjeseca koji slijedi nakon isteka perioda od dvije godine od dana stupanja na snagu odgovarajućeg implementacionog akta u skladu sa članom 10 stav 3a Regulative (EU) 2023/2844, nadležni organ države izdavanja proslijediće evropski istražni nalog nadležnom organu države izvršenja na bilo koji način koji obezbjeđuje pisanu potvrdu kojom se može provjeriti njena vjerodostojnost. Sva dalja službena komunikacija odvija se neposredno između tih organa.
+(3) U postupcima pokrenutim prvog dana mjeseca koji slijedi nakon isteka perioda od dvije godine od dana stupanja na snagu odgovarajućeg implementacionog akta u skladu sa članom 10 stav 3a Regulative (EU) 2023/2844 ili nakon tog perioda, sva službena komunikacija osim komunikacije u skladu sa članom 9 stav 6, članom 11 stav 4, članom 12 stav 5 i 6 i članom 16 stav 2 tačka 1 Direktive 2014/41/EU Evropskog parlamenta i Savjeta od 3. aprila 2014. godine o Evropskom istražnom nalogu u krivičnim stvarima (u daljem tekstu: Direktiva (EU) 2014/41) vršiće se u skladu sa članom 3 Regulative (EU) 2023/2844.
+(4) Ako je država članica odredila jednog ili više centralnih organa, službena komunikacija iz st. 2 i 3 ovog člana sa tim organima vršiće se na isti način.
+(5) Evropski istražni nalog može se dostaviti i primiti preko bezbjednog telekomunikacionog sistema Evropske pravosudne mreže u krivičnim stvarima.

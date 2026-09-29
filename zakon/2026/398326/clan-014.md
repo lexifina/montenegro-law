@@ -1,0 +1,3 @@
+# Član 14
+## Shodna primjena
+Na pitanja koja nijesu uređena ovim zakonom shodno se primjenjuju odredbe Zakona o međunarodnoj pravnoj pomoći u krivičnim stvarima, Zakonika o krivičnom postupku, Zakona o sudovima, Zakona o Državnom tužilaštvu, Zakona o postupanju prema maloljetnicima u krivičnom postupku, Zakona o izvršenju kazni zatvora, novčane kazne i mjera bezbjednosti, Zakona o izvršenju uslovne osude i kazne rada u javnom interesu, Zakona o oduzimanju imovinske koristi stečene kriminalnom djelatnošću, Zakona o prekršajima, Zakona o tumačima, Zakona o tajnosti podataka, Zakona o strancima, Zakona o pomilovanju i Zakona o amnestiji lica osuđenih za krivična djela propisana zakonima Crne Gore i lica osuđenih stranom krivičnom presudom koja se izvršava u Crnoj Gori.

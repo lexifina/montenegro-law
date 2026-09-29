@@ -1,0 +1,9 @@
+# Član 102
+## Prosljeđivanje presude i potvrde drugoj državi članici
+(1) Kad utvrdi da će izvršenje kazne u drugoj državi doprinijeti socijalnoj rehabilitaciji osuđenog koji je dao saglasnost na premještaj, nadležni sud će bez obzira na činjenicu da li se osuđeni nalazi u Crnoj Gori ili državi izvršenja, presudu iz člana 100 stava 1 ovog zakona, sa potvrdom čiji je standardizovani obrazac utvrđen pravnim aktima Evropske unije i objavljen na internet stranici Ministarstva, na crnogorskom i engleskom jeziku, dostaviti:
+1) državi članici čiji je osuđeni državljanin i u kojoj ima prebivalište ili boravište,
+2) državi članici čiji je osuđeni državljanin, ali u kojoj nema prebivalište ili boravište, ako je domaćom presudom ili drugom odlukom nadležnog domaćeg organa izrečena mjera protjerivanja osuđenog u tu državu članicu, nakon otpuštanja sa izvršavanja kazne,
+3) državi članici koja nije država članica iz tač. 1 i 2 ovog stava čiji je nadležni organ saglasan sa prosljeđivanjem te presude i potvrde.
+(2) Nadležni sud će dostaviti obavještenje da je odlučio da proslijedi presudu radi izvršenja na standardizovanom obrascu koji je utvrđen pravnim aktom Evropske unije i objavljen na internet stranici Ministarstva, na jeziku koji osuđeni razumije, ako se osuđeni nalazi u Crnoj Gori.
+(3) Na način iz stava 2 ovog člana nadležni sud će, posredstvom nadležnog organa države izvršenja, obavijestiti osuđenog koji se već nalazi u državi izvršenja da je odlučio da proslijedi presudu državi članici radi izvršenja.
+(4) Organu države izvršenja biće dostavljeno i izjašnjenje osuđenog u pisanoj formi, naročito ako se osuđeni saglasio sa premještajem, a organ države izvršenja je dostavio obrazloženo mišljenje da izvršenje kazne zatvora u toj državi ne bi olakšalo socijalnu rehabilitaciju i uspješnu reintegraciju osuđenog u društvo.

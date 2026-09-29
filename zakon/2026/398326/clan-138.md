@@ -1,0 +1,4 @@
+# Član 138
+## Prenos nadležnosti
+(1) Ako je osuđeni u bjekstvu ili više nema prebivalište ili boravište u Crnoj Gori, nadležni viši sud će donijeti rješenje kojim se organu države izdavanja prenosi nadležnost za izvršenje probacionih mjera ili alternativnih sankcija, kao i za donošenje svih naknadnih odluka.
+(2) Ako se protiv osuđenog u državi izdavanja vodi novi krivični postupak, a od nadležnog višeg suda bude zatraženo ustupanje nadležnosti za izvršavanje probacionih mjera ili alternativnih sankcija, kao i za donošenje svih naknadnih odluka, nadležni viši sud može donijeti rješenje o prenošenju nadležnosti organu države izdavanja, uzimajući u obzir relevantne okolnosti konkretnog slučaja, kao što su težina krivičnog djela zbog kojeg se vodi novi krivični postupak u državi izdavanja, okolnosti pod kojima je učinjeno krivično djelo i preostalo vrijeme izvršavanja probacionih mjera ili alternativnih sankcija.

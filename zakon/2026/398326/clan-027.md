@@ -1,0 +1,9 @@
+# Član 27
+## Postupak pred sudijom za istragu
+(1) Sudija za istragu će upoznati traženo lice sa sadržajem i osnovom za izdavanje evropskog naloga za hapšenje, mogućnošću pristanka na predaju državi izdavanja i mogućnošću odricanja od primjene načela specijalnosti i saopštiće mu koliko je zakonom propisano najduže trajanje pritvora radi predaje.
+(2) Sudija za istragu će saslušati traženo lice lišeno slobode o njegovim ličnim prilikama, državljanstvu i odnosima prema državi izdavanja, kao i da li se i iz kojih razloga protivi predaji, o čemu se sačinjava zapisnik.
+(3) Saslušanje se može održati samo ako je prisutan branilac traženog lica.
+(4) Sudija za istragu će poučiti traženo lice o pravu da njegovom saslušanju prisustvuje branilac, pravu na postavljanje branioca u skladu sa odredbama domaćeg krivičnog procesnog prava, pravu na tumača, kao i o pravu da nije dužno da daje iskaz i da odgovara na pitanja sudije za istragu.
+(5) Ako se evropski nalog za hapšenje odnosi na izvršenje presude donesene u odsustvu, kojom je izrečena kazna zatvora ili mjera koja podrazumijeva lišenje slobode, traženo lice može prije predaje državi izdavanja da zahtijeva dostavljanje kopije navedene presude ako mu ranije nije bila lično uručena, a nije primilo službeno obavještenje da se protiv njega vodi krivični postupak.
+(6) U slučaju iz stava 5 ovog člana, sudija za istragu će zatražiti od organa države izdavanja da bez odlaganja dostavi kopiju presude, kako bi je dostavio traženom licu, pri čemu se dostavljanje kopije presude neće smatrati službenom dostavom za računanje rokova za podnošenje zahtjeva za ponavljanje postupka ili žalbe. Ovim se ne odlaže postupak predaje traženog lica, niti donošenje rješenja o predaji.
+(7) Ako traženo lice pred sudijom za istragu pristane na predaju i odrekne se primjene načela specijalnosti, sudija za istragu će donijeti rješenje o predaji sa pristankom traženog lica.

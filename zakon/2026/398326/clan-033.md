@@ -1,0 +1,7 @@
+# Član 33
+## Prekid izvršenja evropskog naloga za hapšenje i privremena predaja traženog lica
+(1) Predaja traženog lica državi izdavanja će biti rješenjem prekinuta dok se protiv traženog lica u Crnoj Gori ne završi krivični postupak koji se vodi zbog drugog krivičnog djela ili dok traženo lice u Crnoj Gori ne izdrži kaznu zatvora na koju je osuđeno zbog drugog krivičnog djela.
+(2) Kad sud utvrdi da postoji razlog za prekid izvršenja evropskog naloga za hapšenje o tome će obavijestiti državu izdavanja koja može zatražiti privremenu predaju traženog lica.
+(3) Privremena predaja traženog lica državi izdavanja radi vođenja krivičnog postupka može biti dopuštena ako takva predaja neće ometati vođenje krivičnog postupka pred domaćim sudom, a u rješenju kojim se odobrava privremena predaja naznačiće se datum do kojeg traženo lice mora biti vraćeno u Crnu Goru.
+(4) Uslove privremene predaje traženog lica pisanim sporazumom dogovaraju nadležni viši sud i organ države izdavanja.
+(5) Vrijeme lišenja slobode u državi izdavanja uračunaće se u kaznu koja će traženom licu biti izrečena u postupku pred domaćim sudom, odnosno u kaznu zatvora koju je to lice izdržalo u Crnoj Gori prije njegove predaje državi izdavanja. Ako je to vrijeme uračunato u kaznu izrečenu u državi izdavanja naloga, isto se neće uračunati u izrečenu kaznu u Crnoj Gori, odnosno u vrijeme izdržavanja kazne u Crnoj Gori tokom čijeg trajanja je odobrena privremena predaja traženog lica.
