@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list CG", br. 40/10, 6/13, 70/17 i 125/23), člana 56a stav 12 i člana 56b stav 6 Zakona o stečaju i likvidaciji banaka ("Službeni list RCG", broj 47/01 i "Službeni list CG", br. 62/08, 44/10, 72/19, 113/24 i 89/25), Savjet Centralne banke Crne Gore, na sjednici od 15. septembra 2026. godine, donio je
+ODLUKU O NAČINU SAČINJAVANJA PLANA DOBROVOLJNE LIKVIDACIJE I SADRŽAJU OBAVJEŠTENJA O TOKU POSTUPKA DOBROVOLJNE LIKVIDACIJE
