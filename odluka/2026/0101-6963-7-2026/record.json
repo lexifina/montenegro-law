@@ -1,0 +1,61 @@
+{
+  "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/odluka_o_kreditnom_registru_138-26.pdf",
+  "title": "Odluka o kreditnom registru",
+  "source_sha256": "66e42e1a5695afc8aab3f96e7891f9a735ce71102d232d42988b9be5e3f60961",
+  "source_bytes": 189120,
+  "pages": 13,
+  "source_images": 0,
+  "gazette_issue": "138/2026",
+  "publication_date": "2026-09-22",
+  "publication_evidence": {
+    "issue": "138/2026",
+    "date": "2026-09-22",
+    "quote": "138/26 od 22.09.2026",
+    "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/fin_stabilnost/odluka_o_primjeni_bafera_za_strukturni_sistemski_rizik_prec_tekst_138-26.pdf",
+    "source_sha256": "70205ebf41e6988c0f8f79cf82afee66b8b0f147290dc4cc7da6d361b41a030c"
+  },
+  "commencement_quote": "Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“.",
+  "date": "2026-09-30",
+  "basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“.\"; Gazette 138/2026 publication on 2026-09-22 stated as \"138/26 od 22.09.2026\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/fin_stabilnost/odluka_o_primjeni_bafera_za_strukturni_sistemski_rizik_prec_tekst_138-26.pdf.",
+  "text_sha256": "f6108b4adeef527db67f1a39ee00a8b70d18dbe6b953ad3d422ed07a65b89127",
+  "word_count": 2810,
+  "official_numbers": [
+    "0101-6963-7/2026"
+  ],
+  "path": "odluka/2026/0101-6963-7-2026",
+  "kind": "as-enacted",
+  "issuer": "Centralna banka Crne Gore",
+  "text_status": "as-enacted",
+  "in_force": "2026-09-30",
+  "in_force_basis": "Official CBCG PDF: \"Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore“.\"; Gazette 138/2026 publication on 2026-09-22 stated as \"138/26 od 22.09.2026\" in https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/fin_stabilnost/odluka_o_primjeni_bafera_za_strukturni_sistemski_rizik_prec_tekst_138-26.pdf.",
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "complete": true,
+  "first_law": null,
+  "source_listing": "https://www.cbcg.me/me/o-nama/regulativa/podzakonski-akti",
+  "related_pis_candidates": [
+    398361
+  ],
+  "official_number": "0101-6963-7/2026",
+  "official_number_quote": "O.br. 0101-6963-7/2026",
+  "line_endings": "LF",
+  "current_text_asserted": false,
+  "related_official_versions": [
+    {
+      "title": "Odluka o kreditnom registru",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/odluka_kreditnom_registru_1819.pdf",
+      "source_context": "- Odluka o kreditnom registru („Sl. list Crne Gore“ br. 39/18, 18/19) - Neslužbeni prečišćeni tekst"
+    },
+    {
+      "title": "Odluka o izmjenama i dopunama Odluke o kreditnom registru",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/izmjene_dopune_o_kreditnom_registru_1819.pdf",
+      "source_context": "Odluka o izmjenama i dopunama Odluke o kreditnom registru („Sl. list Crne Gore“ br. 18/19)"
+    },
+    {
+      "title": "Odluka o kreditnom registru",
+      "url": "https://www.cbcg.me/slike_i_fajlovi/fajlovi/fajlovi_brzi_linkovi/propisi/kontrola/odluka_kreditnom_registru_3918.pdf",
+      "source_context": "Odluka o kreditnom registru („Sl. list Crne Gore“ br. 39/18)"
+    }
+  ],
+  "version_note": "Text as enacted; linked amendments and consolidated copies are separate records and are not applied to this text."
+}
