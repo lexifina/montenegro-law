@@ -1,0 +1,2 @@
+Na osnovu odredbi člana 36 stav 2 i člana 42 Zakona u kulturi ("Službeni list CG", br. 49/08 i 38/12), člana 38 stav 1 tačka 14 Zakona o lokalnoj samupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 85/22, 81/25 i 98//25), člana 44 stav 1 tačka 14 Statuta Opštine Budva ("Službeni list CG - Opštinski propisi", broj 2/19) i člana 5 Odluke o osnivanju Javne ustanove "Grad teatar" Budva ("Službeni list CG - Opštinski propisi", broj 38/13), Skupština opštine Budva, na XIV sjednici održanoj 16. septembra 2026. godine, donijela je
+ODLUKU
