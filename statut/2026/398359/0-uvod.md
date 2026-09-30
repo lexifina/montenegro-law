@@ -1,0 +1,2 @@
+Na osnovu člana 363 Zakona o privrednim društvima ("Službeni list CG", br. 90/25, 121/25 i 44/26) i člana 10 Odluke o osnivanju Društva sa ograničenom odgovornošću "Radio-difuzni centar" - Podgorica ("Službeni list CG", br. 21/09, 24/12, 16/13, 38/19, 118/21 i 41/23), Vlada Crne Gore, na sjednici od 09. septembra 2026. godine, donijela je
+STATUT DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU "RADIO-DIFUZNI CENTAR" PODGORICA
