@@ -1,0 +1,3 @@
+Na osnovu člana 9 stav 1 Zakona o bezbjednosti saobraćaja na putevima ("Sl. list CG", broj 33/12, 58/14, 14/17 i 66/19), člana 92 stav 2 Zakona o prevozu u drumskom saobraćaju ("Sl.list CG" broj 71/17 i 67/19), člana 38 stav 1 tačka 2 , a u vezi sa članom 27 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Sl. list CG", broj: 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 I 98/25) i člana 34 stav 1 tačka 2 Statuta Opštine Herceg Novi ("Službeni list Crne Gore - Opštinski propisi", broj 1/19, 37/19, 6/20 i 18/22), Skupština opštine Herceg Novi, na sjednici održanoj 14.09.2026.godine, donijela je
+ODLUKU
+o izmjenama i dopunama Odluke o regulisanju drumskog saobraćaja na teritoriji Opštine
