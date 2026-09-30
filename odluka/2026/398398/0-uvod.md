@@ -1,0 +1,3 @@
+Na osnovu člana 28 stav 1 tačka 1, člana 38 stav 1 tačka 9 i člana 44 stav 1 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22 - Odluka US CG i 85/22 - ispravka Odluke US CG, 81/25 i 98/25 - ispravka), člana 29 stav 2 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09, 40/11 - drugi zakon, 23/25 i 160/25) a u vezi sa članom 194, 199, 201, 206 i 216 Zakona o svojinsko-pravnim odnosima ("Službeni list Crne Gore", br. 19/09 i 29/25) i člana 44 stav 9 Statuta Opštine Budva ("Službeni list Crne Gore - Opštinski propisi", broj 2/19), Skupština opštine Budva, na XIV sjednici održanoj 16. septembra 2026. godine, donijela je
+ODLUKU
+o ustanovljavanju prava privremene stvarne službenosti prolaza bez naknade, preko kat.
