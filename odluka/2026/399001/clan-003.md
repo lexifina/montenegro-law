@@ -1,0 +1,3 @@
+# Član 3
+U postupku upisa djece u Privatnu predškolsku ustanovu "Nebo Diznilenda" za školsku 2026/2027. godinu, sprovedenom u skladu sa važećim propisima i uslovima za upis djece u predškolske ustanove, utvrđeno je da je samo cetvoro djece ispunjavalo propisane uslove za zaključenje ugovora o pohađanju ustanove ali čiji roditelji su odustali od zaključenih ugovora uz obrazloženje da je besmisleno da samo njihovo djeca pohadjaju našu ustanovu.
+Shodno tome, za školsku 2026/2027. godinu nema ni jedan aktivan ugovor sa roditeljem odnosno zakonskim zastupnikom djeteta o pohađanju ustanove a time se izgubio smisao njenog daljeg postojanja.
