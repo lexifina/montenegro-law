@@ -1,0 +1,2 @@
+# Član 3
+Daje se preporuka Upravi za saobraćaj Crne Gore sa sjedištem u Podgorici, kao nosiocu investicionih aktivnosti, na rekonstrukciji R-29 Bar 2 (priključak na M 2.4 ispred tunela Ćafe) - Kamenički most - Krute da Centru za konzervaciju i arheologiju Crne Gore sa sjedištem na Cetinju, za slučaj potrebe, pruži podršku u sprovođenju zaštitnih arheoloških istraživanja i naloži izvođaču radova da prilikom realizacije planiranih aktivnosti na rekonstrukciji regionalnog puta ne ugrožava prostor islamske nekropole.

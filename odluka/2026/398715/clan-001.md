@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti Centru za konzervaciju i arheologiju Crne Gore radi sprovođenja zaštitnih arheoloških istraživanja na katastarskoj parceli broj 2536/1 KO Velje Selo
+Opština Bar, kao nosilac svojinskih prava, daje saglasnost Centru za konzervaciju i arheologiju Crne Gore sa sjedištem na Cetinju za sprovođenje zaštitnih arheoloških istraživanja na islamskoj nekropoli koja se nalazi na katastarskoj parceli broj 2536/1, potes - Mrkovsko polje, po kulturi - groblje, u površini od 709 m2, u zaštitnom pojasu duž regionalnog puta R-29 Bar 2 (priključak na M 2.4 ispred tunela Ćafe) - Kamenički most - Krute, a čija je rekonstrukcija u toku.
