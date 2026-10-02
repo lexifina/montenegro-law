@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti Upravi za saobraćaj Crne Gore na korišćenje zemljišta u opštinskoj imovini radi rekonstrukcije mosta "Ujtin potok", Opština Bar
+Opština Bar, kao nosilac prava raspolaganja, daje saglasnost Upravi za saobraćaj Crne Gore da za potrebe izvođenje radova na rekonstrukciji mosta "Ujtin potok", koristi zemljište evidentirano katastarskom parcelom broj 2712, po kulturi - potok, u površini od 695 m2, upisanom u listu nepokretnosti broj 102 KO Dobra Voda, a sve shodno elaboratu eksproprijacije urađenom od strane licencirane geodetske organizacije "Landsat" d.o.o. sa sjedištem u Nikšiću.
