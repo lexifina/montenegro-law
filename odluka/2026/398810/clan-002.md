@@ -1,0 +1,3 @@
+# Član 2
+U članu 1 stav 1 Odluke o davanju saglasnosti za ustanovljenje prava službenosti u korist "MK Energy" d.o.o. Podgorica, broj 02-016/24-252 od 1. 8. 2024. godine ("Službeni list CG - Opštinski propisi", br. 43/24 od 13. 8. 2024. godine), poslije tačke 3, dodaje se nova tačka 4, koja glasi:
+"4. dio katastarske parcele broj 603 KO Rožaje, površine 24 m², dio katastarske parcele broj 604/1 KO Rožaje, površine 196 m² i dio katastarske parcele broj 604/6 KO Rožaje, površine 38 m²." koje su prikazane elaboratom geodetskih radova za potrebe upisa prava službenosti koji je urađen od strane DOO "GEO FRINEDS" Podgorica br.585 od 15. 6. 2026. godine.
