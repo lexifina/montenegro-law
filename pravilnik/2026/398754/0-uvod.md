@@ -1,0 +1,2 @@
+Na osnovu članova 71 stav 10 i 73 stav 2 Zakona o bezbjednosti i interoperabilnosti željeznice (Sl.list Crne Gore 160/25, 46/26 i 98/26) i člana 71 stav 12 Zakona o željeznici (Sl. list Crne Gore br.89/25 i 22/26) Agencija za željeznice donosi
+P R A V I L N I K O OBRASCIMA SERTIFIKATA O BEZBJEDNOSTI ZA UPRAVLJANJE ŽELJEZNIČKOM INFRASTRUKTUROM, INFRASTRUKTUROM INDUSTRIJSKE ŽELJEZNICE I INFRASTRUKTUROM LUČKE ŽELJEZNICE
