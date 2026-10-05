@@ -1,0 +1,3 @@
+Na osnovu člana 96 Zakona o socijalnoj i dječjoj zaštiti ("Službeni list CG", broj 27/13, 1/15, 42/15, 47/15, 56/16, 66/16, 1/17, 31/17, 42/17, 50/17, 59/21, 145/21, 3/23, 48/24, 84/24, 33/25, 122/25, 160/25, 33/26, 52/26 i 104/26), člana 46 stav 1 tačka 22 Statuta opštine Rožaje ("Službeni list CG - Opštinski propisi", broj 38/18 i 16/21) i člana 21 stav 4 Statuta JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju Opštine Rožaje, Skupština opštine Rožaje, na sjednici održanoj dana 25. 9. 2026. godine, donijela je
+ODLUKU
+o imenovanju člana Upravnog odbora Javne ustanove Dnevni centar za djecu i omladinu sa
