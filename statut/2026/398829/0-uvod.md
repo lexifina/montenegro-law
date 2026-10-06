@@ -1,0 +1,2 @@
+Na osnovu člana 363 Zakona o privrednim društvima ("Službeni list CG", br. 90/25, 121/25 i 44/26) i člana 8 stav 1 Odluke o osnivanju društva sa ograničenom odgovornošću za transport putnika i robe u vazdušnom saobraćaju "ToMontenegro" ("Službeni list CG", br. 129/20, 42/21 i 43/25), Vlada Crne Gore, na sjednici od 10. septembra 2026. godine, donijela je
+S T A T U T DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU ZA TRANSPORT PUTNIKA I ROBE U VAZDUŠNOM SAOBRAĆAJU "TOMONTENEGRO"
