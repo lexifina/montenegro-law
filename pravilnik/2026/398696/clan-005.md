@@ -1,0 +1,2 @@
+# Član 5
+Ako krajnje matično društvo ili subjekat imenovan za podnošenje Prijave od strane krajnjeg matičnog društva grupe multinacionalnih preduzeća nije centralizovano podnio Prijavu, a ista se ne dostavi u zakonom propisanim rokovima, poreski organ će zatražiti lokalno podnošenje Prijave od strane sastavnih subjekata koji su obveznici podnošenja u Crnoj Gori jer nisu ispunjeni uslovi za centralizovano podnošenje prijave.

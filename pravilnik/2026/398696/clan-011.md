@@ -1,0 +1,4 @@
+# Član 11
+(1) Automatska razmjena informacija iz člana 10 ovog pravilnika vrši se elektronskim putem u propisanom formatu objavljenom na internet stranici poreskog organa.
+(2) Poreski organ nakon prijema Prijave od krajnjeg matičnog društva ili subjekta imenovanog za podnošenje prijave grupe međunarodnih preduzeća, u okviru centralizovanog podnošenja prijave, u obavezi je drugim sprovodnim državama članicama ili državama članicama koje primjenjuju samo kvalifikovani domaći dopunski porez dostaviti relevantne posebne dijelove Prijave u skladu sa pristupom širenja propisanim ovim pravilnikom.
+(3) Rok za razmjenu informacija iz st. 1 i 2 ovog člana je tri mjeseca nakon isteka roka za podnošenje Prijave za tu izvještajnu fiskalnu godinu, osim za prvu izvještajnu fiskalnu godinu rok za razmjenu je šest mjeseci.

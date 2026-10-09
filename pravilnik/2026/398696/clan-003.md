@@ -1,0 +1,3 @@
+# Član 3
+(1) Obveznik podnošenja Prijave je svaki sastavni subjekat, uključujući i druge subjekte posebnih pravnih oblika koji pripadaju grupi međunarodnih preduzeća ili velikoj domaćoj grupi, a koja su u skladu sa globalnim pravilima definisani kao obveznici dopunskog poreza.
+(2) Sastavni subjekat nije u obavezi podnijeti Prijavu ukoliko je prijavu "centralizovano" umjesto njega podnijelo krajnje matično društvo ili subjekat imenovan za podnošenje prijave koji se nalazi u jurisdikciji koja sa Crnom Gorom za izvještajnu fiskalnu godinu ima važeći sporazum između kvalifikovanih nadležnih tijela.
