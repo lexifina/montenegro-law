@@ -1,0 +1,3 @@
+# Član 1
+## o kupovini zemljišta - katastarske parcele 240/1 i 240/2 KO Škaljari I
+Opština Kotor pristupa kupovini zemljišta označenog kao kat. parc.240/1 KO Škaljari I površine 79m2 susvojina Tripković Dan Laurentio u obimu prava 1/3, Tripković Ingrid u obimu prava 7/72, Tripković Ivo u obimu prava 7/72, Tripković Martina u obimu prava 7/72, Pantar Mirjana u obimu prava 3/16 i Tripković Vedran u obimu prava 3/16 i kat parc 240/2 KO Škaljari I površine 663m2 susvojina Tripković Dan Laurentio u obimu prava 1/3, Tripković Ingrid u obimu prava 7/72, Tripković Ivo u obimu prava 7/72, Tripković Martina u obimu prava 7/72, Pantar Mirjana u obimu prava 3/16 i Tripković Vedran u obimu prava 3/16.
