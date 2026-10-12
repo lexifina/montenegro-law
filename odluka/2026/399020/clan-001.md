@@ -1,0 +1,4 @@
+# Član 1
+## o oslobađanju plaćanja naknade za komunalno opremanje građevinskog zemljišta u KO Privredna zona
+Investitor Stambena zadruga radnika prosvjete Crne Gore "SOLIDARNO" oslobađa se obaveze plaćanja naknade za komunalno opremanje građevinskog zemljišta ukupne površine 1.913,92 m2, površine za koju se plaća naknada od 1.820,98 m2, koje je označeno kao kat. parc. 91/1 KO Sutvara, evidentiranom u LN 96 KO Privredna zona sa pravom svojine države Crne Gore u obimu 1/1, Opština Kotor - raspolaganje 1/1.
+Predmetna katastarska parcela nalaze se u zahvatu PUP-a Opštine Kotor. Oslobođenje iz stava 1 ovog člana odnosi se na izgradnju stambenog objekta namijenjenog za kolektivno stanovanje, spratnosti P+1+Ps, u svrhu rješavanja stambenih potreba zaposlenih u javnim prosvetnim ustanovama na teritoriji opštine Kotor.

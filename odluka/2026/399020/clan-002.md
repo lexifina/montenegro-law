@@ -1,0 +1,3 @@
+# Član 2
+Naknada za komunalno opremanje građevinskog zemljišta obračunata na osnovu revidovanog Glavnog projekta i Odluke o naknadi za komunalno opremanje građevinskog zemljišta ("Službeni list Crne Gore - Opštinski propisi", br. 031/19) utvrđena je Rješenjem Sekretarijata za investicije Opštine Kotor, br. UP 18-337/26-2953/3 od 31. 8. 2026. godine, na iznos od 152.051,83 eura.
+Oslobođenje obaveze plaćanja naknade za komunalno opremanje građevinskog zemljišta predstavlja doprinos Opštine Kotor u izgradnji stambenih objekata iz člana 1 ove odluke, s tim što je investitor dužan da o svom trošku izvrši kompletno komunalno opremanje lokacije, u skladu sa planskim dokumentom.
