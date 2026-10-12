@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 1 tačka 6 i tačka 15 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 36. Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", broj 37/19), kao i člana 3 Odluke o organizaciji i načinu rada lokalne uprave ("Službeni list Crne Gore - Opštinski propisi", br. 60/22, 63/23, 13/25 i 27/25), na VII sjednici održanoj 7. 10. 2026. godine, donijela je
+ODLUKU
