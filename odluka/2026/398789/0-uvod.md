@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 1 tačka 15 i člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18 , 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 24 stav 1 tačka 15 i člana 54 stav 1 tačka 2 Statuta Glavnog grada ("Službeni list CG - Opštinski propisi", br. 8/19, 20/21, 49/22 i 51/25), Skupština Glavnog grada, na sjednici održanoj 16. i 17. septembra 2026. godine, donijela je
+ODLUKU
