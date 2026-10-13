@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tač. 2 i 8 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/, 50/22, 84/22, 81/25 i 98/25) i člana 54 stav 1 tač. 2 i 11 Statuta Glavnog grada ("Službeni list Crne Gore - Opštinski propisi", br. 8/19, 20/21, 49/22 i 51/25), a u vezi sa članom 8 Zakona o porezu na nepokretnosti ("Službeni list Crne Gore", br. 25/19, 49/22, 152/22, 118/25, 126/25 i 133/25) Skupština Glavnog grada - Podgorice, na sjednici održanoj dana 1. oktobra 2026. godine, donijela je
+ODLUKU
