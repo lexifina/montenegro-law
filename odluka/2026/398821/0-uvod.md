@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2, 34 i 40 Zakona o državnoj imovini ("Službeni list CG", br. 21/09, 40/11, 23/25 i 160/25), člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi "Službeni list CG", 2/18, 34/19, 38/20, 50/22, 84/22, 81/25, 98/25 i 133/26) te člana 34 stav 1 tačka 2 i 9 Statuta Opština Herceg Novi ("Službeni list - Opštinski propisi", br. 1/19, 37/19, 6/20 i 18/22), Skupština opštine Herceg Novi, na sjednici održnoj dana 1. 10. 2026. godine donijela je
+ODLUKU
