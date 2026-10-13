@@ -1,0 +1,3 @@
+# Član 34
+## Prestanak važenja
+Danom početka primjene ovog zakona prestaju da važe odredbe Zakona o zaradama zaposlenih u javnom sektoru („Službeni list CG", br. 16/16, 83/16, 21/17, 42/17, 12/18, 39/18, 42/18, 34/19, 130/21, 146/21, 92/22, 152/22, 48/24 i 26/26) koje se odnose na nosioce pravosudnih i ustavnosudskih funkcija, odredbe čl. 2b, 55a, 86b i 142c Zakona o Sudskom savjetu i sudijama („Službeni list CG", br. 11/15, 28/15, 42/18, 60/24, 92/25, 31/26 i 114/26), odredbe čl. 67a i 85a Zakona o Državnom tužilaštvu („Službeni list CG", br. 11/15, 42/15, 80/17, 10/18, 76/20, 59/21, 54/24, 92/25 i 31/26) i odredba člana 7 stav 3 Zakona o Ustavnom sudu Crne Gore („Službeni list CG", br. 11/15, 55/19, 92/25, 31/26 i 71/26).
