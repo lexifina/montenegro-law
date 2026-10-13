@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19 i 38/20, 50/22 i 84/22, 81/25 i 98/25 ), člana 46 stav 1 tačka 9 Statuta opštine Rožaje ("Službeni list Crne Gore - Opštinski propisi", br. 38/18 i 16/21) a u vezi sa Zahtjevom Dacić Darisa br.12-019- 802 od 13. 8. 2026. godine, Skupština opštine Rožaje, na sjednici održanoj dana 25. 9. 2026. godine, donijela je
+ODLUKU
