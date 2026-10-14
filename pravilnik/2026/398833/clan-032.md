@@ -1,0 +1,4 @@
+# Član 32
+## Ponovno odobrenje objekata nakon dodjele privremenog odobrenja
+(1) Ako se objektu odobrenom za preradu materijala kategorije 3 naknadno dodijeli privremeno odobrenje za preradu materijala kategorije 1 ili kategorije 2 u skladu sa članom 27 stav 2 tačka 2 podtačka 2 Zakona, objekat ne smije ponovno započeti sa preradom materijala kategorije 3 bez prethodnog odobrenja Uprave da ponovno započne sa preradom materijala kategorije 3 u skladu sa članom 47 Zakona.
+(2) Ako se objektu odobrenom za preradu materijala kategorije 2 naknadno dodijeli privremeno odobrenje za preradu materijala kategorije 1 u skladu sa članom 27 stav 2 tačka 2 podtačka 2 Zakona, objekat ne smije ponovno započeti sa preradom materijala kategorije 2 bez prethodnog odobrenja Uprave da ponovno započne sa preradom materijala kategorije 2 u skladu sa članom 47 Zakona.

@@ -1,0 +1,8 @@
+# Član 21
+## Prerada i stavljanje na tržište nusproizvoda životinjskog porijekla i dobijenih proizvoda za ishranu životinja iz uzgoja, osim krznašica
+(1) Subjekti moraju ispuniti sljedeće zahtjeve za stavljanje na tržište, osim uvoza, nusproizvoda životinjskog porijekla i dobijenih proizvoda namijenjenih za ishranu životinja iz uzgoja, osim krznašica, kako je utvrđeno u članu 34 stav 2 Zakona, navedene u Prilogu 10:
+1) opšte zahtjeve za preradu i stavljanje na tržište iz Poglavlja I.;
+2) posebne zahtjeve za prerađene životinjske proteine i druge dobijene proizvode iz Poglavlja II.;
+3) zahtjeve za određenu hranu za ribe i ribolovne mamce iz Poglavlja III.
+(2) Uprava može odobriti stavljanje na tržište, osim uvoza, mlijeka, proizvoda na bazi mlijeka i proizvoda od mlijeka koji su razvrstani kao materijal kategorije 3 u skladu sa članom 13 tačke 5, 6 i 8 Zakona, a koji nisu prerađeni u skladu sa opštim zahtjevima iz Priloga 10 Poglavlje II Odjeljak 4 Dio I, pod uslovom da ti materijali ispunjavaju zahtjeve za primjenu odstupanja za stavljanje na tržište mlijeka prerađenog u skladu sa nacionalnim normama iz Dijela II. tog Odjeljka.
+(3) Prevoz ribljih ulja i ribljeg brašna od materijala kategorije 3 za proizvodnju hraniva, osim onih uvezenih iz druge zemlje, iz odobrenog objekta za preradu za proizvodnju ribljeg brašna i ribljeg ulja u objekat za proizvodnju hrane za životinje koji je registrovan ili odobren u skladu sa Zakonom i koji je u skladu sa propisima o higijeni hrane za životinje odobren u drugoj državi za detoksifikaciju u skladu sa postupcima iz propisa kojim se uređuju kriterijumi za primjenu detoksifikacije hrane za životinje obavlja se u skladu sa pravilima iz Priloga 8 Poglavlje VII.
