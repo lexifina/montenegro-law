@@ -1,0 +1,6 @@
+# Član 20
+## Saradnja, razmjena informacija i informisanje javnosti
+Ministarstvo i Agencija, u okviru svojih nadležnosti utvrđenih zakonom, sarađuju sa organima državne uprave, organima uprave, naučnim i stručnim institucijama radi unapređivanja metodologija za izradu inventara emisija, razvoja mjera za smanjenje emisija, praćenja uticaja zagađenja vazduha na zdravlje ljudi i životnu sredinu i razmjene podataka i informacija.
+Ministarstvo i Agencija, u okviru svojih nadležnosti utvrđenih zakonom, sarađuju sa Evropskom komisijom, EEA, nadležnim međunarodnim tijelima i drugim državama radi razmjene podataka i informacija u vezi sa sprovođenjem ove uredbe.
+Ministarstvo i Agencija, u okviru svojih nadležnosti, obezbjeđuju aktivno i sistematsko informisanje javnosti o nacionalnim inventarima emisija, projekcijama emisija, prostorno razgraničenim nacionalnim inventarima emisija, inventarima velikih tačkastih izvora, informativnim izvještajima o inventaru, rezultatima praćenja negativnih uticaja zagađenja vazduha na ekosisteme i podacima o sprovedenim mjerama za smanjenje emisija.
+Dokumenti i podaci iz stava 3 ovog člana objavljuju se na internet stranicama Ministarstva i Agencije, u okviru njihovih nadležnosti.
