@@ -1,0 +1,3 @@
+# Član 1
+U Pravilniku o obrascima, bližim uslovima i načinu izdavanja dozvole za privremeni boravak i dozvole za privremeni boravak i rad ("Službeni list CG", br. 25/19, 21/20, 37/21, 120/21, 145/22 i 12/25) u članu 3 stav 1 tačka 1 mijenja se i glasi:
+"1) strana putna isprava je pasoš, porodični pasoš, zajednički pasoš, diplomatski pasoš, službeni pasoš, pomorska knjižica, brodarska knjižica, putna isprava koju je izdao Međunarodni komitet Crvenog krsta i druga putna isprava priznata u skladu sa međunarodnim ugovorima, na osnovu koje se može utvrditi identitet njenog imaoca, a koja je izdata u skladu sa propisima o izdavanju putnih isprava druge države;".
