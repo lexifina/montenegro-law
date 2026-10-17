@@ -1,0 +1,2 @@
+Na osnovu člana 44 stav 2 tačka 3 Zakona o Centralnoj banci Crne Gore ("Službeni list CG", br. 40/10, 6/13, 70/17 i 125/23), člana 115a stav 3 i člana 134 stav 9 Zakona o kreditnim institucijama ("Službeni list CG", br. 72/19, 8/21, 24/25 i 14/26), Savjet Centralne banke Crne Gore, na sjednici od 8. oktobra 2026. godine, donio je
+ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O ADEKVATNOSTI KAPITALA KREDITNIH INSTITUCIJA
