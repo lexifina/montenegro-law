@@ -1,0 +1,2 @@
+Na osnovu člana 2 stav 3 Zakona o državnoj upravi ("Službeni list CG", br. 78/18, 70/21 i 52/22), a u vezi sa članom 106 Zakona o uređenju prostora ("Službeni list CG", broj 19/25 i 114/26) i članom 112 Zakona o izgradnji objekata ("Službeni list CG", br. 19/25, 92/25, 160/25 i 114/26) Vlada Crne Gore, na sjednici od 3. septembra 2026. godine donijela je
+UREDBU O POVJERAVANJU DIJELA POSLOVA MINISTARSTVA PROSTORNOG PLANIRANJA, URBANIZMA I DRŽAVNE IMOVINE KOMORI ARHITEKATA I PLANERA CRNE GORE
