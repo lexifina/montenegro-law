@@ -1,0 +1,2 @@
+# Član 2
+Jamsko skladište eksplozivnih materija je rudarski objekat i postrojenje koji treba da bude izgrađen u stijeni ili ukopan najmanje jedan metar ispod površine zemlje, namijenjen bezbjednom čuvanju eksplozivnih materija i sredstava namijenjenih za pokretanje eksplozivne reakcije glavnog eksplozivnog punjenja, odnosno za prenošenje potrebnog početnog impulsa na eksploziv (u daljem tekstu: inicijalna sredstava).
