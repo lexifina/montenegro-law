@@ -1,0 +1,11 @@
+# Član 1
+U Zakonu o spomen-obilježjima ("Službeni list CG", br. 40/08 i 2/17), poslije člana 16 dodaje se novi član 16a, koji glasi:
+"Član 16a
+Izuzetno od odredaba ovog zakona kojima se uređuju uslovi, način i postupak podizanja, zaštita i održavanja spomen-obilježja, kao i nadležnosti organa, spomen-obilježje koje je već podignuto, a za koje nije sproveden zakonom propisani postupak, može se naknadno odobriti odlukom Vlade Crne Gore, ako za to postoji poseban javni interes.
+Postojanje posebnog javnog interesa iz stava 1 ovog člana cijeni se naročito prema istorijskom i društvenom značaju događaja, ličnosti ili okolnosti na koje se spomen-obilježje odnosi, značaju očuvanja sjećanja na žrtve i stradanja, doprinosu njegovanju kulture sjećanja i zaštiti ljudskog dostojanstva, kao i sadržaju, istorijskoj utemeljenosti i značenju spomen-obilježja. Procjena se vrši na osnovu svih okolnosti konkretnog slučaja, uz obrazloženje razloga zbog kojih se naknadno odobravanje smatra opravdanim.
+Predlog za donošenje odluke iz stava 1 ovog člana priprema nadležni organ, na osnovu stručne procjene opravdanosti naknadnog odobravanja već podignutog spomen-obilježja.
+Prilikom stručne procjene iz stava 3 ovog člana naročito se cijene istorijski i društveni značaj događaja, ličnosti ili okolnosti koje se obilježavaju, istorijska utemeljenost i sadržaj natpisa, primjerenost lokacije, kao i druge okolnosti od značaja za zaštitu javnog interesa.
+Odlukom iz stava 1 ovog člana utvrđuju se spomen-obilježje koje se odobrava, njegova lokacija, vrsta, izgled i sadržaj, organ odgovoran za njegovo održavanje, kao i drugi elementi od značaja za spomen-obilježje.
+Odluka iz stava 1 ovog člana predstavlja pravni osnov za naknadno odobravanje spomen-obilježja i njegovo zadržavanje na utvrđenoj lokaciji, pod uslovima utvrđenim tom odlukom.
+Odluka iz stava 1 ovog člana ne zamjenjuje saglasnost vlasnika, odnosno korisnika zemljišta ili objekta, kada je takva saglasnost propisana zakonom, niti odobrenja i saglasnosti koji su obavezni u skladu sa propisima kojima se uređuju zaštita kulturnih dobara, zaštita prirode i druga pitanja uređena posebnim zakonom.
+Danom donošenja odluke iz stava 1 ovog člana, ranije donijeta rješenja o njegovom uklanjanju, u dijelu koji se odnosi na neispunjavanje uslova za njegovo podizanje propisanih ovim zakonom, ne proizvode pravno dejstvo."
