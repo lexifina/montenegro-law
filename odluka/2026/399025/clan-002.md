@@ -1,0 +1,3 @@
+# Član 2
+U Odluci o radnom vremenu na teritoriji Opšine Kotor ("Službeni list Crne Gore - Opštinski propisi", br 58/25 od 20. 11. 2025.),
+Mjenja se član 17 stav 3,tako što se iz njega briše: "i održavanje javnog reda i mira (u daljem tekstu. Uprava policije OB Kotor).", tako se stav 3 navedenog člana 17 sada glasi: "Nadležni organ za preduzetništvo ,donosi rešenje o produženom radnom vremenu iz stava 1 i 2 ovog člana ,uz predhodnu saglasnost službe lokalne uprave nadležne za poslove održavanje komunalnog reda (u daljem tekstu:Komunalna policija ) i inspekcijjskog nadzora (u daljem tekstu:Služba za inspekcjske poslove) za period od mjesec dana."

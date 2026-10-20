@@ -1,0 +1,2 @@
+Na osnovu člana 67 stav 5 Zakona o radu ("Službeni list Crne Gore", br. 74/19, 8/21, 59/21, 68/21, 145/21, 77/24, 84/24, 86/24, 122/25, 165/25 i 51/26). člana 35 Zakona o unutrašnjoj trgovini ("Službeni list Crne Gore", br. 49/08, 40/08, 40/11, 38/19, 084/24, 15/26, 21/26 i 21/26), člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi (Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 36 Statuta Opštine Kotor, na VII sjednici održanoj 7. 10. 2026. godine, donijela je
+ODLUKU
