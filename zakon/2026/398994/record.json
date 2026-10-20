@@ -1,0 +1,29 @@
+{
+  "id": 398994,
+  "path": "zakon/2026/398994",
+  "source": "https://www.sluzbenilist.me/propisi/398994",
+  "source_pdf": "https://www.sluzbenilist.me/propisi/398994/download",
+  "title": "Zakon o izmjenama i dopunama Zakona o alternativnim investicionim fondovima",
+  "issue": "Službeni list Crne Gore, broj 150/2026",
+  "published": "2026-10-12",
+  "in_force": "2026-10-20",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom listu Crne Gore”",
+  "applies": null,
+  "amended_by": [],
+  "text_status": "as-enacted",
+  "source_sha256": "aabdf5abdaf80631e3f155a3c066c89584bacc6891909e6513bd1b5c996d3077",
+  "articles_in_source": 17,
+  "note": "Single-file source text; no article boundaries inferred and no amendments applied.",
+  "proof": {
+    "comparison": "official PDF words API vs complete Markdown text (whitespace/soft-hyphen ignored)",
+    "characters": 7241,
+    "source_images": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "recovered_after_interruption": true,
+    "poppler_word_for_word": "PASS (whitespace and soft hyphen ignored only)"
+  },
+  "text_sha256": "12c663b0f9884f310209df6f283d99c8f34ea6d7c391c7b2eae8061dd75f2457",
+  "enacted": "2026-09-29",
+  "enacted_basis": "Podgorica, 29. septembar 2026"
+}
