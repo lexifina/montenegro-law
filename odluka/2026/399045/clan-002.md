@@ -1,0 +1,2 @@
+# Član 2
+Naknada za izvođenje radova na rekonstrukciji terase iz prethodnog člana obračunata je na iznos 62.527,03€ a sve prema najpovoljnijoj ponudi broj 04-5527 od 25. 12. 2018. godine dobijenoj po sprovedenom postupku finansijske analize tržišta - prikupljanjem ponuda, a na bazi stvarno izvedenih količina i konačnog obačuna radova broj 03-402-6873 od 23. 12. 2022. ovjerenom od strane izvršioca, nadzora, izvođača radova i stručnog lica tehničke službe Direkcije za uređenje i izgradnju Kotora.
