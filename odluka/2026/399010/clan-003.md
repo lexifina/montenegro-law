@@ -1,0 +1,2 @@
+# Član 3
+Iznos iz člana 2 ove odluke Opština Kotor nadoknadit će se iz Budžeta Opštine Kotor za 2026. godinu, sa Organizacione jedinice 001-Stručna služba predsjednika, budžetske pozicije 4711 - Tekuća budžetska rezerva u iznosu od 26.107,91, budžetske poziciije 7721 - Stalna budžetska rezerva u iznosu od 15.000,00 i budžetske pozicije 43268 - Ostali transferi insitucijama u iznosu od 100.000,00 eura.
