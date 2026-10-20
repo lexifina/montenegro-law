@@ -1,0 +1,2 @@
+# Član 4
+Bulatović (Radosav) Filip, dužan je da sa Opštinom Bar, pred mjesno nadležnim notarom kojeg će odrediti Notarska komora Crne Gore u skladu sa odredbama Zakona o notarima ("Službeni list RCG", br. 68/05, "Službeni list CG", br. 49/08, 55/16, 84/18, 141/25 i 119/26), zaključi ugovor o prenosu prava svojine na predmetnom zemljištu, u roku od 30 (slovima: trideset) dana od dana stupanja na snagu ove odluke.

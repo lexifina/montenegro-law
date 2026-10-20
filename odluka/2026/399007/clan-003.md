@@ -1,0 +1,2 @@
+# Član 3
+Pravo svojine na zemljištu iz člana 1. ove Odluke prenosi se uz naknadu od 485,00 €/m2, a što za površinu od 160 m2, iznosi ukupno 77.600,00 €, shodno Izvještaju o procjeni vrijednosti nepokretne imovine - zemljište, sačinjenom od strane sudskog vještaka i ovlašćenog (REV) procjenjivača, dipl. inženjer građevinarstva Nataša Gačević iz Podgorice i protokolisanom kod Opštine Bar pod brojem: 04-427/26-1767 od dana, 15. 7. 2026. godine.
