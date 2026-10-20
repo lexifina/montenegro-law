@@ -1,0 +1,3 @@
+# Član 1
+U Zakonu o otvorenim investicionim fondovima sa javnom ponudom ("Službeni list CG", br. 23/25, 117/25 i 14/26) u članu 3 stav 1 na kraju tačke 57 tačka se zamjenjuje tačka-zarezom i dodaje nova tačka koja glasi:
+"58) upravljački organ je organ koji ima krajnju odgovornost za donošenje odluka u društvu za upravljanje ili kod depozitara, koji obavlja upravljačke i nadzorne funkcije ili samo upravljačke funkcije kada su te funkcije razdvojene, a kada u skladu sa ovim zakonom ili drugim zakonom postoje različiti organi sa posebnim nadležnostima, upućivanje na upravljački organ odnosi se na organ, odnosno članove organa kojima su povjerene odgovarajuće nadležnosti."

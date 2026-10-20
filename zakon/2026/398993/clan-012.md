@@ -1,0 +1,4 @@
+# Član 12
+Član 172 mijenja se i glasi:
+"(1) Društvo za upravljanje, svako lice koje u ime i za račun društva za upravljanje distribuira udjele UCITS fonda kao i lica iz člana 152 ovog zakona koja distribuiraju udjele UCITS fonda ili proizvode koji uključuju izloženost prema takvom UCITS fondu, moraju investitoru prije sklapanja ugovora o ulaganju besplatno staviti na raspolaganje ključne informacije za investitore.
+(2) Društvo za upravljanje koje ne distribuira udjele UCITS fonda neposredno ili preko drugog fizičkog ili pravnog lica koje djeluje u njegovo ime i za njegov račun, dužno je da, na zahtjev, dostavi ključne informacije za investitore proizvođačima proizvoda i posrednicima koji prodaju ili savjetuju investitore o mogućem ulaganju u UCITS fond ili u proizvode koji uključuju izloženost prema tom UCITS fondu."
