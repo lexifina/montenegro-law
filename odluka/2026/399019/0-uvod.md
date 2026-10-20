@@ -1,0 +1,3 @@
+Na osnovu člana 3 stava 1 tačke 1, člana 4, stava 2 i člana 5 Odluke o izgradnji lokalnih objekata od opšteg interesa ("Službeni list Crne Gore - Opštinski propisi", broj 14/22, 59/22, 30/23, 12/26), člana 38, a u vezi sa članom 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", broj 2/18, 34/19, 38/20, 50/22, 84/22, 81/25, 98/25 i 133/26) i člana 36 Statuta Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi", broj 37/19), Skupština opštine Kotor, na VII sjednici održanoj 7. 10. 2026. godine, donijela je
+ODLUKU
+o potvrdi Odluke o utvrđivanju lokacije za uklanjanje postojeće trafostanice TS_O "Mediafarm" izmještanje podzemnih kablovskih vodova i izgradnju DTS 10/0,4Kv "Prčanj_N" broj 01-018/26-20774 od 25. 9. 2026. godine
