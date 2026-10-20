@@ -1,0 +1,17 @@
+# Član 6
+Član 112 mijenja se i glasi:
+"Centralna banka Crne Gore vodi registre računa i sefova koji predstavljaju elektronsku bazu podataka o otvorenim računima fizičkih i pravnih lica i zakupljenim sefovima, kao i depozitima po viđenju i oročenim depozitima kod kreditnih institucija i filijala stranih kreditnih institucija.
+Kreditne institucije i filijale stranih kreditnih institucija dužne su da Centralnoj banci Crne Gore, odmah nakon otvaranja računa, dostave podatke o imaocu računa, fizičkom licu ovlašćenom za raspolaganje sredstvima na računu i o računu, a odmah nakon zaključenja ugovora o zakupu sefa i podatke o zakupcu i zakupu sefa.
+Podaci koji se vode u registrima računa i sefova za svaki račun, odnosno zakup sefa, obuhvataju najmanje:
+1) za imaoca računa i fizičko lice ovlašćeno za raspolaganje sredstvima na računu - ime i prezime, odnosno naziv, uz jedinstveni matični broj fizičkog lica, matični broj pravnog lica ili drugi identifikacioni broj određen zakonom;
+2) za stvarnog vlasnika imaoca računa - ime i prezime, uz jedinstveni matični broj ili drugi identifikacioni broj određen zakonom;
+3) za račun - broj računa, uključujući IBAN ako je određen, naziv kreditne institucije ili filijale strane kreditne institucije kod koje se račun vodi, kao i datum otvaranja i zatvaranja računa;
+4) za sef - ime i prezime, odnosno naziv zakupca, uz jedinstveni matični broj fizičkog lica, matični broj pravnog lica ili drugi identifikacioni broj određen zakonom, kao i datum početka, datum prestanka i period trajanja zakupa sefa.
+Podacima o stvarnom vlasniku imaoca računa iz stava 3 tačka 2 ovog člana smatraju se podaci sadržani u Registru stvarnih vlasnika iz člana 43 ovog zakona, koji su dostupni elektronskim povezivanjem registara računa i sefova sa Registrom stvarnih vlasnika, u skladu sa članom 47 ovog zakona.
+Obveznici iz stava 2 ovog člana dužni su da Centralnoj banci Crne Gore, bez odlaganja, dostave svaku promjenu podataka iz stava 3 tač. 1, 3 i 4 ovog člana, uključujući podatke o zatvaranju računa i prestanku ugovora o zakupu sefa.
+Podatke o depozitima po viđenju i oročenim depozitima kreditne institucije i filijale stranih kreditnih institucija dužne su da dostave Centralnoj banci Crne Gore, najkasnije do kraja narednog dana od dana zaključivanja ugovora.
+Registri računa i sefova vode se kroz Centralni registar transakcionih računa u skladu sa zakonom kojim se uređuje platni promet i u skladu sa ovim članom, pri čemu se podaci o zakupljenim sefovima mogu voditi u posebnom registru ili kao dio Centralnog registra transakcionih računa.
+Centralna banka Crne Gore je odgovorna za istovjetnost podataka u registrima računa i sefova sa podacima dostavljenim od kreditnih institucija i filijala stranih kreditnih institucija.
+Podaci iz registara računa i sefova nijesu javno dostupni i na njihovu obradu, zaštitu i čuvanje primjenjuju se propisi kojima se uređuje bankarska tajna i propisi kojima se uređuje zaštita podataka o ličnosti.
+Izuzetno od stava 9 ovog člana, podaci o broju transakcionog računa i drugi sa njima povezani podaci koji se odnose na pravna lica i preduzetnike su javno dostupni, u skladu sa zakonom kojim se uređuje platni promet.
+Sadržinu registara računa i sefova, podatke koji se dostavljaju za potrebe tih registara, način dostavljanja podataka i način ostvarivanja uvida u podatke iz tih registara propisuje Centralna banka Crne Gore."
