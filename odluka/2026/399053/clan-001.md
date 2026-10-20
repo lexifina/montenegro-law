@@ -1,0 +1,3 @@
+# Član 1
+## o davanju saglasnosti na zaključenje sudskog poravnanja u parničnom postupku P.br.1223/23
+Daje se saglasnost na zaključenje sudskog poravnanja u predmetu koji se vodi pred Osnovnim sudom u Kotoru pod poslovodnom oznakom P.br.1223/25 I koje glasi: "Utvrđuje se da su tužioci Rada Jokić. Danilo Jokić, Dejan Jokić, Biljana Jokić, svi iz Kotora I Angelina Jovanović iz Niša, prema tuženoj Opštini Kotor nosioci prava susvojine za po 1/5 idealnih dijelova na stanu bližih oznaka PD 15, površine 55m2, na III spratu, u objektu 1 na kat. parc. 70 KO Kotor II, sve upisano u listu nepokretnosti 52 KO Kotor II, što je tužena dužna priznati I trpjeti upis prava tužilaca u katastarskom operatu Uprave za nekretnine PJ Kotor, nakon pravosnažnosti presude."
