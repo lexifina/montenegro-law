@@ -1,0 +1,9 @@
+# Član 72
+## Posebna pravila za graničnu provjeru lica plovila za slobodnu plovidbu
+Zapovjednik plovila ili brodar, odnosno ovlašćeno lice plovila za sport i rekreaciju u međunarodnom saobraćaju (u daljem tekstu: plovilo za slobodnu plovidbu), koji uplovljava u teritorijalno more Crne Gore, dužan je da najkraćim plovnim putem plovi do najbliže luke u kojoj se nalazi pomorski granični prelaz, radi vršenja granične kontrole, osim u slučaju neškodljivog prolaska.
+Granična provjera lica na plovilu za slobodnu plovidbu koji uplovi u luku u kojoj se nalazi granični prelaz vrši se na osnovu popisa tih lica koji se dostavlja graničnoj policiji najkasnije nakon pristajanja u luku.
+Ako se lica sa plovila za slobodnu plovidbu iskrcavaju u luku radi boravka u njoj, podliježu graničnim provjerama.
+Plovilo za slobodnu plovidbu može uploviti u luku koja nije određena kao granični prelaz, u izuzetnim situacijama ako mu to dozvoli najbliža ili dostupna lučka kapetanija ili lučka ispostava, kao i u slučaju više sile.
+U slučaju iz stava 4 ovog člana, najbliža ili dostupna lučka kapetanija ili lučka ispostava o uplovljavanju plovila za slobodnu plovidbu obavještava graničnu policiju u najbližoj luci koja je određena kao granični prelaz u cilju vršenja granične provjere, a popis lica na plovilu za slobodnu plovidbu dostavlja se najbližoj ili dostupnoj lučkoj kapetaniji ili lučkoj ispostavi koja ga predaje graničnoj policiji najkasnije nakon pristajanja plovila za slobodnu plovidbu u luku.
+Prilikom granične provjere iz stava 5 ovog člana, graničnoj policiji se predaje dokument koji sadrži sve tehničke karakteristike plovila za slobodnu plovidbu i popis lica na tom plovilu. Kopija tog dokumenta čini sastavni dio isprava plovila sve dok se plovilo nalazi u teritorijalnom moru Crne Gore.
+Kopija dokumenta iz stava 6 ovog člana prilikom isplovljavanja plovila za slobodnu plovidbu vraća se graničnoj policiji.

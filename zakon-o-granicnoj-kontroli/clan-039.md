@@ -1,0 +1,3 @@
+# Član 39
+## Granična provjera lica koja mogu da ulaze u Crnu Goru sa ličnom kartom
+Pored lica iz člana 38 stav 2 ovog zakona, detaljna granična provjera se neće sprovoditi ni prema strancima koji mogu da ulaze u Crnu Goru na osnovu važeće lične karte u skladu sa međunarodnim ugovorom i zakonom kojim se uređuju uslovi za ulazak, izlazak, kretanje, boravak i rad stranaca u Crnoj Gori, ako kontrolom iz člana 38 stav 1 ovog zakona nijesu utvrđene okolnosti da lice može ugroziti bezbjednost državne granice, javni poredak i javno zdravlje, odnosno ne postoji sumnja u vjerodostojnost isprave sa kojom lice prelazi državnu granicu.

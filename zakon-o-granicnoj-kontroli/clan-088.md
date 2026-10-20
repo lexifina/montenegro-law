@@ -1,0 +1,11 @@
+# Član 88
+Novčanom kaznom od 200 eura do 800 eura kazniće se za prekršaj fizičko lice, ako:
+1) ne obavijesti graničnu policiju o pojedinačnom ili grupnom lovu u dubini teritorije do 300 metara od granične linije, najkasnije 24 časa prije početka lova (član 9 stav 3);
+2) najkasnije 4 časa nakon završetka pojedinačnog ili grupnog lova u dubini teritorije do 300 metara ne obavijesti graničnu policiju (član 9 stav 4);
+3) ne obavijesti graničnu policiju, bez odlaganja, o prelasku državne granice i van graničnog prelaza i van utvrđenog radnog vremena graničnog prelaza u slučaju slobodne plovidbe ili iskrcavanja pomoraca radi boravka u jedinici lokalne samouprave na čijem području je luka u kojoj je njihov brod pristao ili u susjednim jedinicama lokalne samouprave ili prelaska stanovnika koji žive u pograničnom području, sa pograničnom propusnicom ili sa dozvolom za pogranični saobraćaj, ili u slučaju nepredviđenih hitnih okolnosti ili u slučaju elementarne nepogode, u skladu sa zakonom i u drugim slučajevima u skladu sa međunarodnim ugovorom, ili u slučaju posjedovanja odobrenja iz člana 12 stav 2 ovog zakona (član 12 stav 8);
+4) se kreće ili zadržava izvan određenog prostora područja graničnog prelaza ili se ne pridržava upozorenja ili ne izvršava naređenja policijskih službenika koji vrše graničnu kontrolu (član 24 stav 2);
+5) za vrijeme boravka na području graničnog prelaza ne nosi identifikacionu oznaku na način koji je vidljiv (član 25 stav 1);
+6) ne zaustavi se na određenom prostoru graničnog prelaza na kojem se vrši granična provjera ili bez odlaganja ne napusti područje graničnog prelaza poslije završene provjere (član 34 st. 2 i 3);
+7) ne obavijesti graničnu policiju o svakoj promjeni uslova i drugih okolnosti na osnovu kojih je izdata isprava iz člana 63 stav 1 ovog zakona (član 63 stav 15);
+8) ne postupa u skladu sa uslovima pod kojima je izdata isprava iz člana 63 stav 1 ovog zakona ili sa režimom pograničnog saobraćaja utvrđenim ovim zakonom ili važećim međunarodnim sporazumom (član 63 stav 16);
+9) lice koje je u pratnji maloljetnog lica mlađeg od 16 godina, a to maloljetno lice ne posjeduje potrebne isprave za prelazak državne granice i odobrenja u smislu člana 64 ovog zakona.

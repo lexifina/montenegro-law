@@ -1,0 +1,9 @@
+# Član 66
+## pomorskom, jezerskom i riječnom saobraćaju Granična provjera u međunarodnom željezničkom saobraćaju
+U vozovima u međunarodnom saobraćaju vrši se granična provjera svih putnika i osoblja koji prelaze državnu granicu, kao i osoblja u teretnim vozovima i drugim željezničkim voznim sredstvima.
+Provjere iz stava 1 ovog člana vrše se na željezničkom graničnom prelazu, odnosno prvoj željezničkoj stanici dolaska ili posljednjoj željezničkoj stanici odlaska sa teritorije Crne Gore i u vozu tokom vožnje do prelaska državne granice.
+Izuzetno od stava 1 ovog člana, granična provjera, u skladu sa međunarodnim ugovorom, može se vršiti i na željezničkoj stanici i u vozu tokom vožnje na teritoriji susjedne države.
+Provjere iz stava 1 ovog člana mogu se vršiti i na drugim željezničkim stanicama, ako se iz objektivnih razloga u potpunosti ne mogu obaviti na željezničkom graničnom prelazu ili u vozu tokom vožnje, pri čemu granične provjere koje se vrše na takvim željezničkim stanicama moraju biti istovjetne, po obimu i sadržaju graničnim provjerama koje se vrše na željezničkom graničnom prelazu.
+Policijski službenik, prilikom vršenja granične provjere, može zatražiti provjeru prostora u vagonima i lokomotivi, uz podršku željezničkog osoblja, u cilju otkrivanja skrivenih lica i stvari koje podliježu graničnoj provjeri.
+Lice koje upravlja vozom u međunarodnom saobraćaju koji ulazi u Crnu Goru, odnosno izlazi iz Crne Gore ne smije zaustaviti voz na dijelu pruge između granične linije i željezničkog graničnog prelaza, osim ako je to neophodno zbog regulisanja željezničkog saobraćaja i u slučaju više sile.
+Ako se voz u međunarodnom saobraćaju koji je prešao državnu granicu zaustavi na otvorenoj pruzi van područja graničnog prelaza, lice koje upravlja vozom je dužno da preduzme potrebne mjere u cilju spriječavanja ulaska, odnosno izlaska lica iz voza i o zaustavljanju odmah obavijesti graničnu policiju.

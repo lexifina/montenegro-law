@@ -1,0 +1,7 @@
+# Član 77
+## Oblici saradnje
+Međunarodna operativna granična saradnja obuhvata aktivnosti stranih službi bezbjednosti, stranih organa za sprovođenje zakona, Frontex-a, međunarodnih organizacija i agencija na državnoj teritoriji Crne Gore, odnosno granične policije na stranoj državnoj teritoriji, saradnju sa stranim službama bezbjednosti, odnosno stranim organima za sprovođenje zakona, Frontex-om, razmjenu oficira za vezu i druge aktivnosti od značaja za graničnu bezbjednost Crne Gore.
+Međunarodna saradnja iz stava 1 ovog člana ostvaruje se na osnovu međunarodnog ugovora i zakonodavstva Evropske unije koje primjenjuje i Crna Gora.
+Pripadnici stranih bezbjednosnih službi, stranih organa za sprovođenje zakona, odnosno međunarodnih organizacija i agencija iz stava 1 ovog člana mogu na teritoriji Crne Gore, bez posebnog odobrenja, koristiti tehničku opremu, sredstva, sisteme, kao i prevozna sredstva sa svojim oznakama, nositi uniformu, službeno oružje i druga sredstva prinude, ako je to potrebno u okviru njihovog angažovanja.
+Sredstva prinude iz stava 3 ovog člana moraju biti dozvoljena zakonom.
+Saradnja sa Frontex-om obuhvata učešće u zajedničkim operacijama, pilot-projektima, operacijama povratka, aktivnostima obuke i drugim aktivnostima koje se sprovode u skladu sa Regulativom (EU) 2019/1896 Evropskog parlamenta i Savjeta od 13. novembra 2019. godine o evropskoj graničnoj i obalskoj straži i stavljanju van snage regulative (EU) br. 1052/2013 i (EU) 2016/1624 (u daljem tekstu: Regulativa (EU) 2019/1896) i međunarodnim sporazumima.

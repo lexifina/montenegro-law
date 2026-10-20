@@ -1,0 +1,6 @@
+# Član 29
+## Omogućavanje vršenja granične kontrole
+Vlasnici ili korisnici zemljišta uz graničnu liniju dužni su da omoguće nesmetano vršenje granične kontrole, postavljanje, upotrebu i održavanje opreme za vršenje granične kontrole, odnosno nesmetano kretanje policijskih službenika uz graničnu liniju.
+Privredni subjekt koji upravlja morskim dobrom, odnosno pravno ili fizičko lice kome je morsko dobro ili njegov dio dato na korišćenje radi obavljanja privredne ili druge dozvoljene djelatnosti ili za privez plovila, dužni su da omoguće nesmetano vršenje granične kontrole na vodi, postavljanje, upotrebu i održavanje opreme za vršenje granične kontrole, odnosno nesmetano kretanje policijskih službenika u tom cilju.
+O namjeri postavljanja, upotrebe i održavanja opreme i tehničkih sredstava iz st. 1 i 2 ovog člana, granična policija će, na pogodan način, upoznati vlasnike i korisnike zemljišta uz graničnu liniju, odnosno privredni subjekt ili pravno ili fizičko lice iz stava 2 ovog člana, osim ako bi to onemogućilo ili bitno otežalo vršenje policijskih poslova.
+Ako u slučajevima iz st. 1 i 2 ovog člana vlasnici ili korisnici zemljišta uz graničnu liniju, odnosno privredni subjekt i pravna ili fizička lica iz stava 2 ovog člana pretrpe štetu, imaju pravo na naknadu štete, u skladu sa zakonom.
