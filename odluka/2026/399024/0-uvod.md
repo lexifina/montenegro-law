@@ -1,0 +1,3 @@
+Na osnovu člana 3 stava 1 tačke 1, člana 4, stava 2 i člana 5 Odluke o izgradnji lokalnih objekata od opšteg interesa ("Službeni list CG - Opštinski propisi", broj 14/22, 59/22, 30/23, 12/26), člana 38 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25) i člana 36 Statuta Opštine Kotor ("Službeni list CG - Opštinski propisi", br. 37/19), Skupština Opštine Kotor, na VII sjednici održanoj 7. 10. 2026. godine, donijela je
+ODLUKU
+o utvrđivanju lokacije za izgradnju fekalne kanalizacije naselja Kavač - faza I,

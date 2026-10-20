@@ -1,0 +1,4 @@
+# Član 1
+## KO Kavač - Opština Kotor
+Ovom Odlukom određuje se lokacija sa elementima urbanističko-tehničkih uslova za izradu projektne dokumentacije za izgradnju vodovodnog sistema na dijelu kat. parc. 1131, 752, 751, 750, 749, 747/2, 745, 438, 439, 1128/1, 1132/1, 732/12, 732/7, 733/9, 732/1, 733/12, 879/27, 877/4, 876/3, 876/2, 871/1, 871/3, 879/29, 879/4, 879/30, 879/22, 879/24, 871/9, 870/1, 870/10, 870/19, 870/28, 870/37, 870/46, 1027/1, 1027/5, 1029/4, 1029/1, 1029/2, 1029/3, 863/10, 864/1, 863/4, 863/3, 1043/3, 1042, 1041/2, 1034/2, 1034/8, 1034/6, 1034/7, 1033/6, 1033/5, 1033/4, 1033/1, 1031, 1023/1, 1024/9, 1030/6, 1030/7, 1026/4, 1026/3, 1027/3, 1026/1, 1034/3, 1035/1 (kao i na katastarskim parcelama koje nastanu njihovom parcelacijom), KO Kavač, Opština Kotor.
+Kako se radi o izgradnji infrastrukturnih objekata, isti se smatraju lokalnim objektima od opšteg interesa. Inicijativu za donošenje ove Odluke podnio je Sekretarijat za investicije.
