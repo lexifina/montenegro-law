@@ -1,0 +1,4 @@
+# Član 1
+## o utvrđivanju lokacije za izgradnju kanalizacionog sistema i zamjenu distributivne mreže za naselje Škaljari, KO Škaljari I - Opština Kotor
+Ovom Odlukom određuje se lokacija sa elementima urbanističko - tehničkih uslova za izradu projektne dokumentacije za izgradnju fekalne kanalizacije i zamjenu distributivne mreže za dio naselja Škaljari na dijelu kat. parc. 1321/1, 1322/1, 370, 347, 363, 1323, 723/3, 729, 739, 788, 742, 1316/1, 767, 1324, 699, 1325, 854, 1326, 1083, 1064, 1327, 1012, 1155, 1251, 1300, 1328, 1001, 979, 965, 888, 898, 927, 683/1, 684/1, 683/2 KO Škaljari I (kao i na katastarskim parcelama koje nastanu njihovom parcelacijom), Opština Kotor.
+Kako se radi o izgradnji infrastrukturnih objekata, isti se smatra lokalnim objektom od opšteg interesa. Inicijativu za donošenje ove Odluke podnio je Sekretarijat za investicije.
