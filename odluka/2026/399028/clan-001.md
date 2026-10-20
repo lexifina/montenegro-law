@@ -1,0 +1,4 @@
+# Član 1
+## iz TS Garaže Magud, KO Sutvara, Opština Kotor
+Ovom Odlukom određuje se lokacija sa elementima urbanističko-tehničkih uslova za izradu projektne dokumentacije za izgradnju dionice 10kV kablovskog voda od Bulevara Tivat-Jaz (tačka I) do TS 10/0,4kV Stadion-10kV kablovski vod iz STS Markan i dionice 10kV kablovskog voda od Bulevara Tivat-Jaz (tačka I) do TS 35/10kV Grbalj 1-10kV kablovski vod iz TS Garaže Magud, na dijelovima kat.parc. br. 248, 1006/1, 1005, 278/2, 277/2, 268, 267/2 KO Sutvara, Opština Kotor (kao i na katastarskim parcelama koje nastanu parcelacijom navedenih parcela).
+Kako se radi o izgradnji infrastrukturnih objekata, isti se smatra lokalnim objektom od opšteg interesa. Inicijativu za donošenje ove Odluke podnio je CEDIS, zavedenu po njihovim brojem 30-00-13800 od 11.05.2026.godine.
