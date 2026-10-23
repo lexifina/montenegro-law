@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovim pravilnikom propisuje se program i način polaganja stručnog ispita za rad na poslovima javnih nabavki, sastav i način obrazovanja, visina naknade za rad predsjednika, članova i sekretara Komisije za polaganje stručnog ispita za rad na poslovima javnih nabavki, Program i način stručnog osposobljavanja i usavršavanja u oblasti javnih nabavki, visinu naknade za rad stručnih lica za implementaciju Programa stručnog osposobljavanja i usavršavanja u oblasti javnih nabavki, visina troškova polaganja stručnog ispita, izdavanje sertifikata i obrazac sertifikata o položenom stručnom ispitu i resertifikacija.
