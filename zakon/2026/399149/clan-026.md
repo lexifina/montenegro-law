@@ -1,0 +1,4 @@
+# Član 26
+U članu 281a stav 10 tačka 2 poslije riječi: "kreditnoj instituciji" zarez i riječi: "uzimajući u obzir da zahtjevi ne dovode do dvostrukog obračunavanja rizika koji su u potpunosti pokriveni primjenom donje granice" zamjenjuju se riječima: "i iz tog zahtjeva isključiti sve djelove koji bi doveli do dvostrukog uračunavanja rizika koji su već u potpunosti pokriveni zbog toga što je kreditna institucija obavezna da primjenjuje donju granicu;".
+Poslije stava 11 dodaje se novi stav koji glasi:
+"(12) Za potrebe ovog člana i čl. 150 i 163 ovog zakona smatra se da je kreditna institucija dužna da primjenjuje donju granicu rizikom ponderisane aktive, kada je ukupni iznos izloženosti rizicima kreditne institucije veći od ukupnog iznosa njene izloženosti rizicima bez primjene donje granice rizikom ponderisane aktive."
