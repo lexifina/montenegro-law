@@ -1,0 +1,2 @@
+# Član 1
+Ovom odlukom utvrđuju se radna mjesta, način ostvarivanja prava i iznos dodatka na osnovnu zaradu za obavljanje poslova na određenim radnim mjestima (u daljem tekstu: dodatak na zaradu), za zaposlene u službi državnog organa, organu državne uprave, organu uprave kao i drugim organima osnovanim u skladu sa zakonom, i zaposlene u ustanovi čiji je osnivač država (u daljem tekstu: zaposleni), osim za zaposlene u Službi Skupštine Crne Gore, organima sudske vlasti i lica u službi u Vojsci Crne Gore.

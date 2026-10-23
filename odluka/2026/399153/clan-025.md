@@ -1,0 +1,20 @@
+# Član 25
+U Fondu za zdravstveno osiguranje Crne Gore dodatak na zaradu u visini do 30% osnovne zarade može se odrediti zaposlenom za obavljanje poslova na radnom mjestu:
+- načelnika u Sektoru za planiranje i kontrolu sprovođenja ugovora zdravstvenih usluga,
+- samostalnog savjetnika I u Sektoru za planiranje i kontrolu sprovođenja ugovora zdravstvenih usluga,
+- samostalnog savjetnika II u Sektoru za planiranje i kontrolu sprovođenja ugovora zdravstvenih usluga,
+- savjetnika I u Sektoru za planiranje i kontrolu sprovođenja ugovora zdravstvenih usluga,
+- samostalnog referenta u Sektoru za planiranje i kontrolu sprovođenja ugovora zdravstvenih usluga,
+- načelnika u Sektoru za ekonomske poslove za zdravstvenu djelatnost,
+- samostalnog savjetnika I u Sektoru za ekonomske poslove za zdravstvenu djelatnost,
+- samostalnog savjetnika III u Sektoru za ekonomske poslove za zdravstvenu djelatnost,
+- samostalnog referenta u Sektoru za ekonomske poslove za zdravstvenu djelatnost,
+- načelnika u Sektoru za informacione tehnologije i razmjenu podataka integralnog informacionog sistema zdravstva,
+- samostalnog savjetnika I u Sektoru za informacione tehnologije i razmjenu podataka integralnog informacionog sistema zdravstva,
+- samostalnog savjetnika II u Sektoru za informacione tehnologije i razmjenu podataka integralnog informacionog sistema zdravstva,
+- samostalnog savjetnika III u Sektoru za informacione tehnologije i razmjenu podataka integralnog informacionog sistema zdravstva,
+- samostalnog referenta u Sektoru za informacione tehnologije i razmjenu podataka integralnog informacionog sistema zdravstva,
+- rukovodioca u Odjeljenju za unutrašnju reviziju,
+- višeg unutrašnjeg revizora u Odjeljenju za unutrašnju reviziju,
+- starijeg unutrašnjeg revizora u Odjeljenju za unutrašnju reviziju,
+- mlađeg unutrašnjeg revizora u Odjeljenju za unutrašnju reviziju.

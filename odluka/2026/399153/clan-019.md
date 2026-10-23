@@ -1,0 +1,21 @@
+# Član 19
+U Ministarstvu vanjskih poslova poseban dodatak na zaradu u visini do 30% osnovne zarade može se odrediti zaposlenom za obavljanje poslova na radnom mjestu:
+- ambasadora za cyber bezbjednost,
+- načelnika u Službi za upravljanje informacionim sistemima,
+- šefa Biroa za informacione sisteme, podsisteme i web portal,
+- šefa Biroa za administraciju i podršku korisnicima,
+- samostalnog savjetnika I u Službi za upravljanje informacionim sistemima,
+- samostalnog savjetnika II u Službi za upravljanje informacionim sistemima,
+- samostalnog savjetnika III u Službi za upravljanje informacionim sistemima,
+- samostalnog referenta za informatičku infrastrukturu,
+- rukovodioca jedinice za unutrašnju reviziju, višeg unutrašnjeg revizora, starijeg unutrašnjeg revizora i mlađeg unutrašnjeg revizora u Odjeljenju za unutrašnju reviziju, uz prethodno pribavljenu saglasnost Ministarstva finansija,
+- direktora direkcije u Generalnom direktoratu za Nato i politiku bezbijednosti,
+- načelnika u Odjeljenju za savremene bezbjednosne izazove,
+- načelnika u Odjeljenju za operacije i saradnju sa partnerima,
+- opunomoćenog ministra/ministra savjetnika,
+- prvog savjetnika,
+- savjetnika,
+- prvog sekretara,
+- drugog sekretara,
+- trećeg sekretara,
+- atašea.
