@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovom uredbom uređuju se način i postupak osnivanja organizovanog sistema za preuzimanje, sakupljanje i obradu otpadnog ribolovnog alata koji sadrži plastiku (u daljem tekstu: otpadni ribolovni alat), obaveze u vezi sa godišnjim količinama otpadnog ribolovnog alata koje se preuzimaju, obrađuju, prerađuju i recikliraju, obaveze proizvođača u organizovanom sistemu, kao i obaveze izvještavanja o radu organizovanog sistema putem Informacionog sistema proširene odgovornosti proizvođača, u cilju sprečavanja i smanjenja negativnih uticaja ribolovnog alata koji sadrži plastiku na životnu sredinu, unapređenja sakupljanja i obrade otpada, povećanja stope reciklaže i primjene principa proširene odgovornosti proizvođača.

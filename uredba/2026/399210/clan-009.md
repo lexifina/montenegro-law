@@ -1,0 +1,7 @@
+# Član 9
+## Uslovi organizovanog sistema
+(1) Organizovani sistem za preuzimanje, sakupljanje i obradu otpadnog ribolovnog alata je sistem kojim upravlja proizvođač, ili privredno društvo upisano u registar organizovanih sistema preuzimanja, sakupljanja i obrade otpada, u skladu sa Zakonom o upravljanju otpadom i propisima kojima se uređuje sprovođenje programa proširene odgovornosti proizvođača.
+(2) Upravljač organizovanog sistema dužan je da obezbijedi pokrivenost preuzimanja i sakupljanja otpadnog ribolovnog alata na teritoriji Crne Gore, u skladu sa Zakonom o upravljanju otpadom i planom preuzimanja, sakupljanja i obrade otpada.
+(3) Finansijski doprinosi proizvođača koji učestvuju u organizovanom sistemu moraju biti transparentni, nediskriminatorni i utvrđeni u skladu sa Zakonom o upravljanju otpadom i propisima kojima se uređuje sprovođenje programa proširene odgovornosti proizvođača.
+(4) Upravljač organizovanog sistema mora biti organizovan na način kojim se obezbjeđuje izbjegavanje sukoba interesa između upravljača organizovanog sistema i pravnih i fizičkih lica koja obavljaju poslove sakupljanja, transporta ili obrade otpadnog ribolovnog alata.
+(5) Upravljač organizovanog sistema dužan je da obezbijedi da se sakupljanje, transport i obrada otpadnog ribolovnog alata obavljaju preko pravnih lica i preduzetnika koji ispunjavaju uslove propisane Zakonom o upravljanju otpadom.
