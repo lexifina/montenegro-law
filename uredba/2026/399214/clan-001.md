@@ -1,0 +1,3 @@
+# Član 1
+## Predmet
+Ovom uredbom uređuju se način i postupak osnivanja sistema preuzimanja, sakupljanja i obrade otpada od tekstilnih proizvoda, radi sprječavanja i smanjenja nastanka otpada od tekstilnih proizvoda i njegovih štetnih uticaja, podsticanja ponovne upotrebe i recikliranja i efikasnijeg korišćenja resursa, kao i detaljniji sadržaj podataka koji se vode u registru proizvođača tekstilnih proizvoda i način vođenja tog registra, detaljniji sadržaj zahtjeva za upis u registar organizovanih sistema preuzimanja, sakupljanja i obrade otpada od tekstilnih proizvoda i način rada tih sistema, način dostavljanja informacija i upravljanja otpadom od tekstilnih proizvoda.
