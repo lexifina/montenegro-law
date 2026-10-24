@@ -1,0 +1,7 @@
+# Član 3
+## Registracija objekata
+(1) Registraciji podliježu objekti u kojima se obavlja proizvodnja, prerada ili distribucija materijala i predmeta koji su namijenjeni da dolaze u direktan ili indirektan kontakt sa hranom, uključujući materijale i predmete od plastike, papira i kartona, stakla, metala i legura, keramike, drveta, plute, gume, silikona, tekstila i regenerisane celuloze, kao i premaza, adheziva, voska, štamparskih boja, aktivnih i inteligentnih materijala i predmeta i drugih materijala i predmeta navedenih u propisu kojim se uređuju materijali i predmeti koji dolaze u kontakt sa hranom.
+(2) Registraciji podliježu i objekti u kojima se proizvode ili prerađuju višeslojni materijali i predmeti, materijali i predmeti od recikliranih materijala, kao i materijali i predmeti koji nastaju kombinovanjem različitih materijala.
+(3) Ako se u istom objektu obavlja više djelatnosti iz st. 1 i 2 ovog člana, odnosno proizvodi ili prerađuje više vrsta materijala i predmeta, u zahtjevu za registraciju navode se sve djelatnosti i vrste materijala i predmeta koji se u tom objektu proizvode, prerađuju ili distribuiraju.
+(4) Ako subjekat u poslovanju hranom obavlja djelatnost iz stava 1 ovog člana u više objekata, svaki objekat podliježe posebnoj registraciji.
+(5) Subjekat u poslovanju hranom treba da djelatnost proizvodnje, prerade ili distribucije materijala i predmeta koji su namijenjeni da dolaze u direktan ili indirektan kontakt sa hranom obavlja samo u registrovanom objektu, a registracija objekta vrši se prije početka obavljanja djelatnosti.
