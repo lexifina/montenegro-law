@@ -1,0 +1,5 @@
+# Član 3
+(1) Naknade ili troškovi iz člana 2 ove odluke prihod su Budžeta Crne Gore, a plaćaju se preko žiro računa organa uprave nadležnog za bezbjednost hrane (u daljem tekstu: Uprava).
+(2) Dokaz o uplati dostavlja se prilikom podnošenja zahtjeva za unošenje pošiljki životinja i robe iz člana 2 stav 1 tačka 1 ove odluke i podnošenja zahtjeva za obavljanje djelatnosti člana 2 stav 1 tačka 1 ove odluke ili kada se sprovodi službena kontrola djelatnosti člana 2 stav 1 tačka 1 ove odluke, po službenoj dužnosti.
+(3) Plaćanja naknada ili troškova iz člana 2 stav 1 tačka 1 ove odluke oslobađaju se organizacije crvenog krsta i druge humanitarne organizacije.
+(4) Ako podnosilac zahtjeva za vršenje službenih kontrola iz člana 2 stav 1 tačka 1 ove odluke, pravovremeno ne pripremi svu potrebnu dokumentaciju ili ne obezbjedi svu potrebnu pomoć potrebnu za obavljanje službene kontrole ili druge službene aktivnosti obvezan je da plati naknadu u iznosu od 40,00 € za svaki započeti sat utrošenog vremena i po pojedinom inspektoru ili službeniku koji sudjeluje u obavljanju službene kontrole, odnosno druge službene aktivnosti.
