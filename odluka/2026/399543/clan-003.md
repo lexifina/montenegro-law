@@ -1,0 +1,4 @@
+# Član 3
+Pravo na sufinansiranje troškova boravka iz člana 1 ove odluke ostvaruje se bez obzira na materijalni ili drugi status porodice, na jedan od sljedećih načina: prenosom sredstava neposredno JPU "Dragan Kovačević" ili pojedinačnom isplatom sredstava roditelju, odnosno drugom zakonskom zastupniku djeteta, na način propisan ovom odlukom.
+Za dijete za koje se troškovi boravka i ishrane, odnosno boravka, u cjelini ili djelimično finansiraju iz Budžeta Crne Gore, preko centra za socijalni rad ili iz drugog javnog izvora, sufinansiranje Opštine odnosi se samo na dio troškova koji pada na teret roditelja, odnosno drugog zakonskog zastupnika djeteta.
+Sredstva za isti period mogu se isplaćivati isključivo na jedan od načina iz stava 1 ovog člana. Kada se sredstva prenose neposredno JPU "Dragan Kovačević", ne vrše se pojedinačne isplate roditeljima, odnosno drugim zakonskim zastupnicima djece, i obrnuto.
