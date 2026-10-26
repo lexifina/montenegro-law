@@ -1,0 +1,2 @@
+Na osnovu člana 407 stav 1 tačka 1 Zakona o privrednim društvima ("Službeni list CG", br. 90/25, 121/25 i 44/26), a u vezi sa odredbom člana 31 stav 6 Zakona o privrednim društvima u vlasništvu države ("Službeni list CG", broj 87/26), te odredbom člana 15 st.1 tač.1 Statuta Društva sa ograničenom odgovornošću "Komunalno stambeno" Herceg Novi ("Službeni list CG - Opštinski propisi", br. 30/26 i 38/26) Skupština Komunalno stambeno DOO Herceg Novi, na I vanrednoj sjednici održanoj 19. 10. 2026. godine, donijela je
+S T A T U T
