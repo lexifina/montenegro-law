@@ -1,0 +1,2831 @@
+# Član 1
+U Odluci o Budžetu Opštine Kolašin za 2026. godinu ("Sl.list CG - Opštinski propisi", broj 69/25) član 1 mijenja se i glasi: "Budžet Opštine Kolašin za 2026. godinu (u daljem tekstu Budžet) sadrži primitke i izdatke u iznosu od: 11.000.000,00 €.
+IZVORNI PRIHODI
+9.853.500,00
+POREZI
+3.640.000,00
+TAKSE
+25.000,00
+NAKNADE
+1.338.500,00
+OSTALI PRIHODI
+50.000,00
+DONACIJE I TRANSFERI
+4.800.000,00
+IZDACI
+10.459.067,05
+TEKUĆI IZDACI
+6.209.067,05
+KAPITALNI IZDACI
+3.950.000,00
+OTPLATA OBAVEZA IZ PRETH.PERIODA
+300.000,00
+SUFICIT/DEFICIT
+-605.567,05
+PRIMARNI SUFICIT/DEFICIT
+-493.545,00
+OTPLATA DUGA
+440.932,95
+POZAJMICE I KREDITI
+100.000,00
+NEDOSTAJUĆA SREDSTVA
+-1.146.500,00
+FINANSIRANJE
+1.146.500,00
+PRIHODI OD PRODAJE IMOVINE
+82.189,47
+POZAJMICE I KREDITI
+200,00
+PRIMICI OD OTPLATE KREDITA
+100.000,00
+DEPOZITI
+934.110,53
+TRANSFERI IZ BUDŽETA DRŽAVE
+30.000,00
+Prihodi se raspoređuju na:
+
+Tekuće izdatke u iznosu od: 6.940.000,00 €;
+
+Kapitalne izdatke u iznosu od: 3.950.000,00 €;
+
+Stalnu budžetsku rezervu u iznosu od: 60.000,00 €;
+
+Tekuću budžetsku rezervu u iznosu od: 50.000,00 €;
+Član 2
+Član 2 Odluke o Budžetu Opštine Kolašin za 2026. godinu mijenja se i glasi: "Primici Budžeta po vrstama i izvorima i izdaci po ekonomskoj klasifikaciji planirani su u sledećim iznosima:
+PRIMICI
+EKONOMSKA
+KLASIFIKACIJA
+OPIS
+PLAN 2026
+Izvršenje
+01.01-
+30.06.2026
+IZMJENE PLANA
+2026
+7
+PRIMICI
+10.100.000,00
+5.732.395,51
+11.000.000,00
+71
+TEKUĆI PRIHODI
+4.888.500,00
+2.252.606,86
+5.053.500,00
+711
+POREZI
+3.150.000,00
+1.679.821,48
+3.640.000,00
+7111
+Porez na dohodak fizičkih lica
+1.800.000,00
+1.030.508,12
+2.100.000,00
+7113
+Porez na imovinu
+1.200.000,00
+572.586,38
+1.370.000,00
+71131
+Porez na nepokretnosti
+900.000,00
+329.121,27
+1.000.000,00
+71132
+Porez na promet nepookretnosti
+300.000,00
+243.465,11
+370.000,00
+7117
+Lokalni porezi
+150.000,00
+76.726,98
+170.000,00
+71175
+Prirez porezu na dohodak fizičkih lica
+150.000,00
+76.726,98
+170.000,00
+713
+TAKSE
+35.000,00
+11.303,69
+25.000,00
+7131
+Lokalne administrativne takse
+20.000,00
+9.590,00
+20.000,00
+7135
+Lokalne komunalne takse
+15.000,00
+1.713,69
+5.000,00
+714
+NAKNADE
+1.663.500,00
+535.860,65
+1.338.500,00
+7141
+Naknada za korišćenje dobara od opšteg interesa
+202.500,00
+124.492,91
+252.500,00
+71411
+Naknada za korišćenje voda
+200.000,00
+123.591,87
+250.000,00
+71412
+Naknada za izvađeni materijal iz vodotoka
+500,00
+0,00
+500,00
+71413
+Naknada za zaštitu voda od zagađivanja
+2.000,00
+901,04
+2.000,00
+7142
+Naknada za korišćenje prirodnih dobara
+280.000,00
+249.603,21
+430.000,00
+71421
+Naknada za korišćenje šuma
+250.000,00
+249.603,21
+400.000,00
+71424
+Naknada za korišćenje mineralnih sirovina
+30.000,00
+0,00
+30.000,00
+7146
+Naknada za uređivanje i izgradnju građevinskog
+zemljišta
+1.125.000,00
+147.210,36
+600.000,00
+71461
+Naknada za uređivanje i izgradnju građevinskog zemljišta
+1.100.000,00
+71.487,03
+450.000,00
+71462
+Naknada za urbanu sanaciju
+25.000,00
+75.723,33
+150.000,00
+7148
+Naknada za puteve
+55.000,00
+14.554,17
+55.000,00
+71484
+Godišnja naknada pri registraciji motornih vozila
+25.000,00
+13.287,17
+25.000,00
+71489
+Ostale naknade za puteve
+30.000,00
+1.267,00
+30.000,00
+7149
+Ostale naknade
+1.000,00
+0,00
+1.000,00
+715
+OSTALI PRIHODI
+40.000,00
+25.621,04
+50.000,00
+7151
+Prihodi od kapitala
+10.000,00
+3.503,76
+10.000,00
+71513
+Prihodi od rente
+10.000,00
+3.503,76
+10.000,00
+7152
+Novčane kazne i oduzete imovinske koristi
+20.000,00
+3.236,36
+10.000,00
+71523
+Novčane kazne koje izriču jedinice lokalnih samouprava
+20.000,00
+3.236,36
+10.000,00
+7155
+Ostali prihodi
+10.000,00
+18.880,92
+30.000,00
+72
+PRIMICI OD PRODAJE IMOVINE
+81.300,00
+0,00
+82.189,47
+721
+Primici od prodaje nefinansijske imovine
+81.300,00
+0,00
+82.189,47
+7211
+Prodaja nepokretnosti
+81.300,00
+0,00
+82.189,47
+73
+Primici od otplate kredita i sredstva prenesena iz
+prethodne godine
+1.500.000,00
+934.110,53
+1.034.110,53
+731
+Primici od otplate kredita
+0,00
+0,00
+100.000,00
+7311
+Primici od otplate kredita datih javnim preduzećima
+0,00
+0,00
+100.000,00
+732
+Sredstva prenesena iz prethodne godine
+1.500.000,00
+934.110,53
+934.110,53
+74
+DONACIJE I TRANSFERI
+3.630.000,00
+2.545.678,12
+4.830.000,00
+741
+Donacije
+450.000,00
+175.300,00
+450.000,00
+7411
+Tekuće donacije
+100.000,00
+0,00
+100.000,00
+7412
+Kapitalne donacije
+300.000,00
+175.300,00
+300.000,00
+7413
+EU donacije
+50.000,00
+0,00
+50.000,00
+742
+TRANSFERI
+3.180.000,00
+2.370.378,12
+4.380.000,00
+7421
+Transferi od budžeta države
+1.150.000,00
+557.068,55
+1.250.000,00
+7425
+Transferi od ZZZCG
+30.000,00
+0,00
+30.000,00
+7426
+Transferi od Egalizacionog fonda
+2.000.000,00
+1.813.309,57
+3.100.000,00
+75
+POZAJMICE I KREDITI
+200,00
+0,00
+200,00
+751
+POZAJMICE I KREDITI
+200,00
+0,00
+200,00
+7511
+Pozajmice i krediti od domaćih izvora
+200,00
+0,00
+200,00
+75111
+Pozajmice i krediti od domaćih finansijskih institucija
+100,00
+0,00
+100,00
+75112
+Pozajmice i krediti od drugih nivoa vlasti
+100,00
+0,00
+100,00
+IZDACI
+EKONOMSKA
+KLASIFIKACIJA
+OPIS
+PLAN 2026
+Izvršenje 01.01-
+30.06.2026
+IZMJENE
+PLANA 2026
+4
+IZDACI
+41
+TEKUĆI IZDACI
+3.559.823,26
+1.311.058,80
+4.006.162,05
+411
+BRUTO ZARADE I DOPRINOSI NA TERET POSLODAVCA
+1.501.120,00
+583.344,51
+1.489.970,00
+411-1
+NETO ZARADE
+1.236.300,00
+476.593,82
+1.216.200,00
+411-2
+POREZ NA ZARADE
+63.200,00
+28.218,58
+71.400,00
+411-3
+DOPRINOSI NA TERET ZAPOSLENOG
+150.000,00
+58.107,80
+149.000,00
+411-4
+DOPRINOSI NA TERET POSLODAVCA
+42.970,00
+16.755,95
+43.670,00
+411-5
+OPŠTINSKI PRIREZ
+8.650,00
+3.668,36
+9.700,00
+412
+OSTALA LIČNA PRIMANJA
+237.570,00
+136.140,20
+306.070,00
+412-1
+NAKNADA ZA ZIMNICU
+48.600,00
+47.250,00
+48.600,00
+412-4
+JUBILARNE NAGRADE
+800,00
+324,00
+800,00
+412-5
+OTPREMNINE ZA ODLAZAK U PENZIJU
+2.000,00
+0,00
+2.000,00
+412-6
+NAKNADE ODBORNICIMA SO-e
+118.170,00
+49.655,20
+118.170,00
+412-7
+OSTALE NAKNADE
+68.000,00
+38.911,00
+136.500,00
+413
+RASHODI ZA MATERIJAL
+186.800,00
+74.603,12
+204.100,00
+413-1
+ADMINISTRATIVNI MATERIJAL
+50.000,00
+8.044,51
+50.000,00
+413-3
+MATERIJAL ZA POSEBNE NAMJENE
+3.000,00
+2.293,40
+3.300,00
+413-4
+RASHODI ZA ELEKTRIČNU ENRGIJU
+100.000,00
+54.135,78
+115.000,00
+413-5
+RASHODI ZA GORIVO
+33.800,00
+10.129,43
+35.800,00
+414
+RASHODI ZA USLUGE
+481.700,00
+147.896,80
+590.200,00
+414-1
+SLUŽBENA PUTOVANJA
+24.000,00
+3.464,67
+24.000,00
+414-2
+REPREZENTACIJA
+12.450,00
+4.276,55
+12.950,00
+414-3
+KOMUNIKACIONE USLUGE
+26.250,00
+9.008,02
+26.250,00
+414-4
+BANKARSKE USLUGE
+5.000,00
+1.985,76
+5.000,00
+414-6
+ADVOKATSKE,NOTARSKE I PRAVNE USLUGE
+2.500,00
+797,39
+6.000,00
+414-7
+KONSULTANTSKE USLUGE PROJEKTI I STUDIJE
+338.000,00
+107.239,10
+417.500,00
+414-8
+USLUGE STRUČNOG USAVRŠAVANJA
+8.600,00
+1.906,00
+10.100,00
+414-9
+OSTALE USLUGE
+64.900,00
+19.219,31
+88.400,00
+415
+RASHODI ZA TEKUĆE ODRŽAVANJE
+328.000,00
+123.484,45
+348.000,00
+415-1
+TEKUĆE ODRŽAVANJE JAVNE INFRASTRUKTURE
+200.000,00
+98.047,24
+220.000,00
+415-2
+TEKUĆE ODRŽAVANJE GRAĐ. OBJEKATA
+87.000,00
+18.521,37
+87.000,00
+415-3
+TEKUĆE ODRŽAVANJE OPREME
+41.000,00
+6.915,84
+41.000,00
+416
+KAMATE
+111.833,26
+58.568,58
+112.022,05
+416-1
+KAMATE REZIDENTIMA
+111.833,26
+58.568,58
+112.022,05
+418
+SUBVENCIJE
+210.000,00
+4.161,00
+230.000,00
+418-1
+SUBVENCIJE ZA PROIZVODNJU
+210.000,00
+4.161,00
+230.000,00
+419
+OSTALI IZDACI
+502.800,00
+182.860,14
+725.800,00
+419-1
+IZDACI PO OSNOVU ISPLATE UGOVORA O DJELU
+76.800,00
+23.446,56
+94.800,00
+419-2
+TROŠKOVI SUDSKIH POSTUPAKA
+35.000,00
+17.176,67
+25.000,00
+419-3
+IZRADA I ODRŽAVANJE SOFTVERA
+15.000,00
+2.541,00
+15.000,00
+419-4
+OSIGURANJE IMOVINE I LICA
+8.000,00
+2.830,45
+8.000,00
+419-6
+KOMUNALNE NAKNADE
+20.000,00
+2.723,66
+20.000,00
+419-8
+TAKSE
+1.000,00
+3,00
+1.000,00
+419-9
+OSTALO
+347.000,00
+134.138,80
+562.000,00
+42
+TRANSFERI ZA SOCIJALNU ZAŠTITU
+105.000,00
+45.144,55
+118.500,00
+421
+PRAVA IZ OBLASTI SOC.ZAŠTITE
+105.000,00
+45.144,55
+118.500,00
+421-8
+OSTALA PRAVA IZ OBLASTI SOCIJALNE ZAŠTITE
+105.000,00
+45.144,55
+118.500,00
+43
+TRANSFERI INSTIT., POJEDINCIMA NEVLADINOM I JAVNOM
+SEKTORU
+1.964.143,79
+878.787,31
+1.974.405,00
+431
+TRANSFERI INSTITUC.POJED.NVO
+1.329.143,79
+591.704,01
+1.249.405,00
+431-3
+TRANSFERI KULTURI I SPORTU
+836.000,00
+379.665,58
+715.500,00
+431-4
+TRANSFERI NVO
+10.000,00
+10.000,00
+10.000,00
+431-5
+TRANSFERI POLITIČKIM PARTIJAMA STRANKAMA I
+UDRUŽENJIMA
+133.643,79
+72.695,90
+140.905,00
+431-6
+TRANSF.ZA JEDNOKR.SOC.POMOĆI
+15.000,00
+10.050,00
+15.000,00
+431-7
+TRANSF.ZA LIČNA PRIMANJA PRIPRAVNIKA
+18.000,00
+507,53
+8.000,00
+431-8
+OSTALI TRANSFERI POJEDINCIMA
+159.000,00
+41.410,00
+160.000,00
+431-9
+OSTALI TRANSFERI INSTITUCIJAMA
+157.500,00
+77.375,00
+200.000,00
+432
+OSTALI TRANSFERI
+635.000,00
+287.083,30
+725.000,00
+432-6
+TRANSFERI PRIVREDNIM DRUŠTVIMA
+635.000,00
+287.083,30
+725.000,00
+44
+KAPITALNI IZDACI
+3.650.100,00
+634.544,79
+3.950.000,00
+441
+KAPITALNI IZDACI
+3.650.100,00
+634.544,79
+3.950.000,00
+45
+POZAJMICE I KREDITI
+0,00
+0,00
+100.000,00
+451
+POZAJMICE I KREDITI
+0,00
+0,00
+100.000,00
+451-1
+POZAJMICE I KREDITI NEFINANSIJSKIM INSTITUCIJAMA
+0,00
+0,00
+100.000,00
+46
+OTPLATA DUGOVA
+730.932,95
+428.276,55
+740.932,95
+461
+OTPLATA DUGA
+440.932,95
+217.990,97
+440.932,95
+461-1
+OTPLATA HART. OD VRIJEDN. I KREDITA REZIDENTIMA
+440.932,95
+217.990,97
+440.932,95
+463
+OTPLATA OBAVEZA IZ PRETH.PERIODA
+290.000,00
+210.285,58
+300.000,00
+47
+REZERVE
+90.000,00
+17.360,00
+110.000,00
+471
+TEKUĆA BUDŽETSKA REZERVA
+40.000,00
+16.360,00
+60.000,00
+472
+STALNA BUDŽETSKA REZERVA
+50.000,00
+1.000,00
+50.000,00
+4
+UKUPNI IZDACI
+10.100.000,00
+3.315.172,00
+11.000.000,00
+K l a s i f i k a c i j a
+O P I S
+PLAN 2026
+Izvršenje
+01.01-
+30.06.2026
+IZMJENE
+PLANA
+2026 Organizaciona Funkcionalna
+E k o n o m s k a
+1 2
+3
+4
+5
+6
+7
+8 1
+SLUŽBA SKUPŠTINE OPŠTINE
+361.663,79
+143.601,55
+400.775,00
+41
+TEKUĆI IZDACI
+275.620,00
+105.795,65
+307.470,00
+411
+BRUTO ZARADE I DOPRINOSI NA TERET POSLODAVCA
+78.700,00
+36.268,11
+87.550,00 0111
+4111
+Neto zarade
+64.300,00
+29.906,06
+72.000,00 0111
+4112
+Porez na zarade
+5.100,00
+2.111,16
+5.100,00 0111
+4113
+Doprinosi na teret zaposlenih
+8.000,00
+3.678,97
+9.000,00 0111
+4114
+Doprinosi na teret poslodavca
+600,00
+297,41
+750,00 0111
+4115
+Opštinski prirez
+700,00
+274,51
+700,00
+412
+OSTALA LIČNA PRIMANJA
+136.420,00
+59.726,20
+140.420,00 0111
+4121
+Naknada za zimnicu
+2.250,00
+2.250,00
+2.250,00 0111
+4126
+Naknade skupštinskim odbornicima
+118.170,00
+49.655,20
+118.170,00 0111
+4127
+Ostale naknade
+16.000,00
+7.821,00
+20.000,00
+413
+RASHODI ZA MATERIJAL
+3.500,00
+1.295,17
+3.500,00 0111
+4133
+Materijal za posebne namjene
+1.000,00
+800,00
+1.000,00 0432
+4135
+Rashodi za gorivo
+2.500,00
+495,17
+2.500,00
+414
+RASHODI ZA USLUGE
+9.000,00
+3.672,65
+9.000,00 0111
+4141
+Službena putovanja
+1.500,00
+276,50
+1.500,00 0111
+4142
+Reprezentacija
+2.000,00
+1.041,15
+2.000,00 0111
+4143
+Komunikacione usluge
+4.500,00
+2.355,00
+4.500,00 0111
+4148
+Usluge stručnog usavršavanja
+1.000,00
+0,00
+1.000,00
+415
+RASHODI ZA TEKUĆE ODRŽAVANJE
+2.000,00
+551,39
+2.000,00 0111
+4153
+Tekuće održavanje opreme
+2.000,00
+551,39
+2.000,00
+419
+OSTALI IZDACI
+46.000,00
+4.282,13
+65.000,00 0111
+4191
+Izdaci po osnovu isplate ugovora o djelu
+9.000,00
+2.864,13
+11.000,00 0111
+4199
+Ostali izdaci
+37.000,00
+1.418,00
+54.000,00
+41991
+Novogodišnji koktel
+1.000,00
+0,00
+1.000,00
+41992
+Proslava dana opštine
+15.000,00
+0,00
+25.000,00
+41994
+Ostalo
+1.000,00
+1.418,00
+3.000,00
+41998
+Koncert povodom dana opštine
+20.000,00
+0,00
+25.000,00
+43
+TRANSFERI INSTITUCIJAMA POJEDINCIMA
+NEVLADINOM I JAVNOM SEKTORU
+86.043,79
+37.805,90
+93.305,00
+431
+TRANSFERI INSTITUCIJAMA POJEDINCIMA
+NEVLADINOM I JAVNOM SEKTORU
+86.043,79
+37.805,90
+93.305,00
+0111
+4315
+Transferi političkim partijama, strankama i udruženjima
+78.043,79
+32.095,90
+85.305,00
+43151
+Transferi političkim partijama
+78.043,79
+32.095,90
+85.305,00 0860
+4318
+Ostali transferi pojedincima
+3.000,00
+710,00
+3.000,00
+43182
+Ostali transferi pojedincima
+3.000,00
+710,00
+3.000,00 0860
+4319
+Ostali transferi institucijama
+5.000,00
+5.000,00
+5.000,00
+43194
+Transferi Crkvenoj opštini Kolašin za organizovanje
+Svetosavske akademije
+5.000,00
+5.000,00
+5.000,00
+2
+SLUŽBA PREDSJEDNIKA OPŠTINE
+481.950,00
+178.136,04
+524.050,00
+41
+TEKUĆI IZDACI
+369.950,00
+148.386,04
+390.050,00
+411
+BRUTO ZARADE I DOPRINOSI NA TERET POSLODAVCA
+202.200,00
+83.666,15
+211.100,00 0111
+4111
+Neto zarade
+168.000,00
+69.406,42
+175.000,00 0111
+4112
+Porez na zarade
+11.000,00
+4.453,07
+11.300,00 0111
+4113
+Doprinosi na teret zaposlenih
+20.000,00
+8.523,48
+21.500,00 0111
+4114
+Doprinosi na teret poslodavca
+1.700,00
+704,26
+1.800,00 0111
+4115
+Opštinski prirez
+1.500,00
+578,92
+1.500,00
+412
+OSTALA LIČNA PRIMANJA
+19.750,00
+13.550,00
+23.750,00 0111
+4121
+Naknada za zimnicu
+6.750,00
+6.750,00
+6.750,00 0111
+4127
+Ostale naknade
+13.000,00
+6.800,00
+17.000,00
+413
+RASHODI ZA MATERIJAL
+8.500,00
+3.294,12
+8.700,00 0111
+4133
+Materijal za posebne namjene (publikacije,časopisi,glasila)
+500,00
+346,70
+700,00 0432
+4135
+Rashodi za gorivo
+8.000,00
+2.947,42
+8.000,00
+414
+RASHODI ZA USLUGE
+49.500,00
+14.413,56
+53.000,00 0111
+4141
+Službena putovanja
+10.000,00
+1.442,70
+10.000,00 0111
+4142
+Reprezentacija
+7.000,00
+2.721,40
+7.000,00 0111
+4143
+Komunikacione usluge
+3.000,00
+945,28
+3.000,00 0111
+4146
+Advokatske,notarske i pravne usluge
+1.500,00
+797,39
+5.000,00 0111
+4147
+Konsultantske usluge
+7.000,00
+3.100,00
+7.000,00 0111
+4148
+Usluge stručnog usavršavanja
+2.000,00
+541,00
+2.000,00 0111
+4149
+Ostale usluge
+19.000,00
+4.865,79
+19.000,00
+41497
+Međuopštinska i međunarodna saradnja
+4.000,00
+0,00
+4.000,00
+41499
+Medijske usluge i promotivne aktivnosti
+15.000,00
+4.865,79
+15.000,00
+415
+RASHODI ZA TEKUĆE ODRŽAVANJE
+2.000,00
+861,50
+2.000,00 0111
+4153
+Tekuće održavanje opreme
+2.000,00
+861,50
+2.000,00
+419
+OSTALI IZDACI
+88.000,00
+32.600,71
+91.500,00 0111
+4191
+Izdaci po osnovu isplate ugovora o djelu
+3.000,00
+3.130,00
+6.500,00 0111
+4199
+Ostalo
+85.000,00
+29.470,71
+85.000,00
+41994
+Ostalo
+5.000,00
+2.769,30
+5.000,00
+41997
+Izdaci za ukrašavanje grada
+50.000,00
+5.938,50
+40.000,00
+41999
+Proslava državnih praznika
+30.000,00
+20.762,91
+40.000,00
+42
+TRANSFERI ZA SOCIJALNU ZAŠTITU
+7.000,00
+2.340,00
+9.000,00
+421
+PRAVA IZ OBLASTI SOCIJALNE ZAŠTITE
+7.000,00
+2.340,00
+9.000,00 1091
+4218
+Ostala prava iz oblasti soc.zaštite
+7.000,00
+2.340,00
+9.000,00
+42183
+Pomoć zaposlenima u slučaju iz čl.17 i 18. Granskog kolektivnog ugovora za oblast uprave i pravosuđa
+7.000,00
+2.340,00
+9.000,00
+43
+TRANSFERI INSTITUCIJAMA POJEDINCIMA
+NEVLADINOM I JAVNOM SEKTORU
+15.000,00
+10.050,00
+15.000,00
+431
+TRANSFERI INSTITUCIJAMA POJEDINCIMA
+NEVLADINOM I JAVNOM SEKTORU
+15.000,00
+10.050,00
+15.000,00
+1071
+4316
+Transferi za jednokratne socijalne pomoći
+15.000,00
+10.050,00
+15.000,00
+47
+REZERVE
+90.000,00
+17.360,00
+110.000,00 0111
+471
+Tekuća budžetska rezerva
+40.000,00
+16.360,00
+60.000,00 0111
+472
+Stalna budžetska rezerva
+50.000,00
+1.000,00
+50.000,00
+3
+SEKRETARIJAT ZA DRUŠTVENE DJELATNOSTI,
+POSLOVE OPŠTE UPRAVE I KADROVSKA PITANJA
+1.356.200,00
+604.278,75
+1.290.900,00
+41
+TEKUĆI IZDACI
+386.100,00
+172.323,51
+408.800,00
+411
+BRUTO ZARADE I DOPRINOSI NA TERET POSLODAVCA
+230.100,00
+91.511,78
+231.300,00 0131
+4111
+Neto zarade
+199.000,00
+78.468,92
+199.000,00 0131
+4112
+Porez na zarade
+5.500,00
+2.652,98
+6.500,00 0131
+4113
+Doprinosi na teret zaposlenih
+23.000,00
+9.279,09
+23.000,00 0131
+4114
+Doprinosi na teret poslodavca
+1.900,00
+765,92
+1.900,00 0131
+4115
+Opštinski prirez
+700,00
+344,87
+900,00
+412
+OSTALA LIČNA PRIMANJA
+18.200,00
+15.024,00
+21.200,00 0131
+4121
+Naknada za zimnicu
+9.900,00
+9.900,00
+9.900,00 0131
+4124
+Jubilarne nagrade
+800,00
+324,00
+800,00 0131
+4127
+Ostale naknade
+7.500,00
+4.800,00
+10.500,00
+413
+RASHODI ZA MATERIJAL
+104.000,00
+55.225,78
+120.500,00 0131
+4133
+Materijal za posebne namjene
+1.000,00
+800,00
+1.000,00 0435
+4134
+Rashodi za energiju
+100.000,00
+54.135,78
+115.000,00 0432
+4135
+Rashodi za gorivo
+3.000,00
+290,00
+4.500,00
+414
+RASHODI ZA USLUGE
+19.800,00
+4.731,20
+20.800,00 0131
+4141
+Službena putovanja
+2.000,00
+180,00
+2.000,00 0131
+4142
+Reprezentacija
+300,00
+0,00
+300,00 0131
+4143
+Komunikacione usluge
+12.000,00
+3.551,20
+12.000,00 0131
+4147
+Konsultantske usluge
+3.000,00
+0,00
+3.000,00 0131
+4149
+Ostale usluge
+2.500,00
+1.000,00
+3.500,00
+41491
+Sredstva za rad prvostepene opštinske komisije za usmjeravanje djece sa posebnim potrebama
+2.500,00
+1.000,00
+3.500,00
+415
+RASHODI ZA TEKUĆE ODRŽAVANJE
+500,00
+0,00
+500,00 0131
+4153
+Tekuće održavanje opreme
+500,00
+0,00
+500,00
+419
+OSTALI IZDACI
+13.500,00
+5.830,75
+14.500,00 0131
+4191
+Izdaci po osnovu isplate ugovora o djelu
+10.000,00
+5.090,75
+10.000,00 0131
+4199
+Ostalo
+3.500,00
+740,00
+4.500,00
+41993
+Nagrade za dan opštine
+2.000,00
+0,00
+3.000,00
+41994
+Ostalo
+1.500,00
+740,00
+1.500,00
+42
+TRANSFERI ZA SOCIJALNU ZAŠTITU
+98.000,00
+42.804,55
+109.500,00
+421
+PRAVA IZ OBLASTI SOCIJALNE ZAŠTITE
+98.000,00
+42.804,55
+109.500,00 1091
+4218
+Ostala prava iz oblasti soc.zaštite
+98.000,00
+42.804,55
+109.500,00
+42181
+Naknada za opremanje novorođene djece
+40.000,00
+25.600,00
+50.000,00
+42182
+Pribor za đake prvake
+7.000,00
+0,00
+7.000,00
+42184
+Podrška starim licima
+4.000,00
+900,00
+4.000,00
+42185
+Djeca sa POP
+23.000,00
+10.454,55
+23.000,00
+42186
+Lokalni akcioni planovi
+7.000,00
+600,00
+7.000,00
+42187
+Podrška ranjivim grupama
+7.000,00
+3.250,00
+7.000,00
+42188
+Sufinansiranje dijela troškova medicinski potpomognutne
+oplodnje
+10.000,00
+2.000,00
+10.000,00
+42189
+Subvencionisanje troškova boravka u vrtiću za djecu
+samohranih roditelja
+0,00
+0,00
+1.500,00
+43
+TRANSFERI INSTITUCIJAMA POJEDINCIMA
+NEVLADINOM I JAVNOM SEKTORU
+872.100,00
+389.150,69
+772.600,00
+431
+TRANSFERI INSTITUCIJAMA POJEDINCIMA
+NEVLADINOM I JAVNOM SEKTORU
+872.100,00
+389.150,69
+762.600,00
+0860
+4313
+Transferi institucijama kulture i sporta
+736.000,00
+305.685,69
+615.500,00
+43131
+Transferi JU Centar za kulturu
+490.000,00
+164.575,69
+350.000,00
+43132
+Sportske aktivnosti
+182.500,00
+140.410,00
+187.000,00
+431321
+Sredstva sportskim klubovima po konkursu
+100.000,00
+100.000,00
+100.000,00
+431322
+Sportske manifestacije i ostale aktivnosti
+35.000,00
+14.210,00
+41.000,00
+431323
+Sredstva za MOSI
+17.000,00
+1.200,00
+15.500,00
+431325
+Međunarodni turnir u karateu
+5.500,00
+0,00
+5.500,00
+431326
+Sredstva za košarkaški kamp
+8.000,00
+8.000,00
+8.000,00
+431327
+Ultra trail maraton
+6.000,00
+6.000,00
+6.000,00
+431328
+Sinjavinski maraton
+8.000,00
+8.000,00
+8.000,00
+431329
+Bjelasički maraton
+3.000,00
+3.000,00
+3.000,00
+43133
+Tango kamp
+20.000,00
+0,00
+20.000,00
+43134
+Transfer FK Gorštak
+0,00
+0,00
+15.000,00
+43135
+Sredstva za organizaciju Etno kampa
+6.500,00
+0,00
+6.500,00
+43136
+Ostale kulturne aktivnosti
+30.000,00
+700,00
+30.000,00
+43137
+Kulturna manifestacija Korifej
+7.000,00
+0,00
+7.000,00 0620
+4314
+Transferi NVO
+10.000,00
+10.000,00
+10.000,00
+43142
+Transferi NVO po konkursu
+10.000,00
+10.000,00
+10.000,00 0620
+4315
+Transferi političkim partijama, strankama i udruženjima
+55.600,00
+40.600,00
+55.600,00
+43152
+Transferi udruženjima
+55.600,00
+40.600,00
+55.600,00
+431521
+Sredstva za Crveni krst
+50.000,00
+35.000,00
+50.000,00
+431522
+Sredstva za udruženja boraca NOR
+3.600,00
+3.600,00
+3.600,00
+431523
+Sredstva za udruženje penzionera
+2.000,00
+2.000,00
+2.000,00 0620
+4318
+Ostali transferi pojedincima
+46.000,00
+22.490,00
+47.000,00
+43181
+Stipendije
+24.000,00
+14.400,00
+24.000,00
+43182
+Ostali transferi pojedincima
+4.000,00
+3.200,00
+5.000,00
+43184
+Nagrade najboljim učenicima
+4.000,00
+3.450,00
+4.000,00
+43185
+Stipendije najboljim sportistima
+12.000,00
+1.440,00
+12.000,00
+43186
+Nagrade najboljim sportistima
+2.000,00
+0,00
+2.000,00 0180
+4319
+Ostali transferi institucijama
+24.500,00
+10.375,00
+34.500,00
+43192
+Transferi Mjesnim zajednicama
+10.000,00
+1.700,00
+10.000,00
+43196
+Transferi zdravstvenim ustanovama u Kolašinu
+7.500,00
+7.500,00
+17.500,00
+43197
+Transferi obrazovnim ustanovama u Kolašinu
+7.000,00
+1.175,00
+7.000,00
+432
+Ostali transferi
+0,00
+0,00
+10.000,00
+4326
+Transferi privrednim društvima
+0,00
+0,00
+10.000,00 0860
+43265
+Transfer D.O.O. "Sportsko-turistički" park
+0,00
+0,00
+10.000,00
+4
+SEKRETARIJAT ZA FINANSIJE IMOVINU I EKONOMSKI
+RAZVOJ
+1.932.916,21
+847.959,47
+2.326.005,00
+41
+TEKUĆI IZDACI
+1.055.983,26
+357.175,39
+1.316.572,05
+411
+BRUTO ZARADE I DOPRINOSI NA TERET POSLODAVCA
+263.500,00
+110.070,82
+272.400,00 0112
+4111
+Neto zarade
+220.800,00
+91.921,82
+226.000,00 0112
+4112
+Porez na zarade
+12.000,00
+5.351,82
+14.000,00 0112
+4113
+Doprinosi na teret zaposlenih
+27.000,00
+11.218,87
+28.000,00 0112
+4114
+Doprinosi na teret poslodavca
+2.100,00
+882,65
+2.500,00 0112
+4115
+Opštinski prirez
+1.600,00
+695,66
+1.900,00
+412
+OSTALA LIČNA PRIMANJA
+25.900,00
+16.990,00
+36.400,00 0112
+4121
+Naknada za zimnicu
+9.900,00
+9.000,00
+9.900,00 0112
+4125
+Otpremnine za odlazak u penziju
+2.000,00
+0,00
+2.000,00 0112
+4127
+Ostale naknade
+14.000,00
+7.990,00
+24.500,00
+413
+RASHODI ZA MATERIJAL
+52.700,00
+9.311,01
+52.700,00 0112
+4131
+Administrativni materijal
+50.000,00
+8.044,51
+50.000,00 0432
+4135
+Rashodi za gorivo
+2.700,00
+1.266,50
+2.700,00
+RASHODI ZA USLUGE
+105.050,00
+36.950,19
+116.550,00 0112
+4141
+Službena putovanja
+3.000,00
+427,66
+3.000,00 0112
+4142
+Reprezentacija
+1.500,00
+458,30
+2.000,00 0112
+4143
+Komunikacione usluge
+2.650,00
+1.291,39
+2.650,00 0112
+4144
+Bankarske usluge
+5.000,00
+1.985,76
+5.000,00
+0112
+4147
+Konsultantske usluge, projekti i studije-geodetske usluge /
+elaborati
+58.500,00
+18.941,00
+50.000,00
+0112
+4148
+Usluge stručnog usavršavanja
+2.000,00
+933,00
+2.000,00 0112
+4149
+Ostale usluge
+32.400,00
+12.913,08
+51.900,00
+41493
+Usluge unutrašnje revizije
+2.400,00
+0,00
+2.400,00
+41494
+Usluge eksterne revizuje
+7.000,00
+5.203,00
+7.000,00
+41496
+Ostale usluge
+1.000,00
+0,00
+1.000,00
+41498
+Unapređenje poslovnog ambijenta
+2.000,00
+0,00
+6.500,00
+41499
+Medijske usluge i promotivne aktivnosti
+20.000,00
+7.710,08
+35.000,00
+415
+RASHODI ZA TEKUĆE ODRŽAVANJE
+3.000,00
+1.467,66
+3.000,00 0112
+4153
+Tekuće održavanje opreme
+3.000,00
+1.467,66
+3.000,00
+416
+KAMATE
+111.833,26
+58.568,58
+112.022,05 0112
+4161
+Kamate rezidentima
+111.833,26
+58.568,58
+112.022,05
+41611
+Kamate za kredite Erste banke i IRF-a
+97.818,90
+51.332,17
+98.001,59
+41612
+Kamata po osnovu finansijskog lizinga
+13.914,36
+7.236,41
+13.920,46
+41613
+Kamata po osnovu kredita od drugih nivoa vlasti
+100,00
+0,00
+100,00
+418
+SUBVENCIJE
+210.000,00
+4.161,00
+230.000,00
+4181
+Subvencije za proizvodnju i pružanje usluga
+210.000,00
+4.161,00
+230.000,00 0474
+41811
+Projekat zensko preduzetništvo
+30.000,00
+0,00
+30.000,00 0474
+41812
+Subvencije mladim preduzetnicima
+30.000,00
+0,00
+30.000,00 0482
+41813
+Subvencvije za poljoprivredu
+150.000,00
+4.161,00
+170.000,00
+419
+OSTALI IZDACI
+284.000,00
+119.656,13
+493.500,00 0112
+4191
+Izdaci po osnovu isplate ugovora o djelu
+15.000,00
+4.116,76
+27.500,00 0112
+4192
+Troškovi sudskih postupaka
+35.000,00
+17.176,67
+25.000,00 0112
+4193
+Izrada i održavanje softvera
+15.000,00
+2.541,00
+15.000,00 0112
+4194
+Osiguranje imovine i lica
+8.000,00
+2.830,45
+8.000,00 0112
+4196
+Komunalne naknade
+20.000,00
+2.723,66
+20.000,00 0112
+4198
+Takse
+1.000,00
+3,00
+1.000,00 0112
+4199
+Ostalo
+190.000,00
+90.264,59
+397.000,00
+41994
+Ostalo
+20.000,00
+8.200,00
+20.000,00
+41995
+Turističke manifestacije
+170.000,00
+82.064,59
+377.000,00
+43
+TRANSFERI INSTITUCIJAMA POJEDINCIMA
+NEVLADINOM I JAVNOM SEKTORU
+146.000,00
+62.507,53
+168.500,00
+431
+TRANSFERI INSTITUCIJAMA POJEDINCIMA
+NEVLADINOM I JAVNOM SEKTORU
+146.000,00
+62.507,53
+168.500,00
+0112
+4317
+Transferi za lična primanja pripravnika
+18.000,00
+507,53
+8.000,00 0180
+4319
+Ostali transferi institucijama
+128.000,00
+62.000,00
+160.500,00
+43191
+Transferi TO Kolašin
+100.000,00
+50.000,00
+127.500,00
+43193
+Transferi Sindikalnoj organizaciji SO-e Kolašin
+7.000,00
+3.000,00
+7.000,00
+43195
+Transferi Sindikalnoj organizaciji Službe zaštite
+1.000,00
+0,00
+1.000,00
+43199
+Ostali transferi
+20.000,00
+9.000,00
+25.000,00
+45
+POZAJMICE I KREDITI
+0,00
+0,00
+100.000,00
+451
+POZAJMICE I KREDITI
+0,00
+0,00
+100.000,00 0112
+4511
+Pozajmice i krediti nefinansijskim institucijama
+0,00
+0,00
+100.000,00
+46
+OTPLATA DUGOVA
+730.932,95
+428.276,55
+740.932,95
+461
+OTPLATA DUGA
+440.932,95
+217.990,97
+440.932,95 0112
+4611
+Otplata hartija od vrijednosti i kredita rezidentima
+440.932,95
+217.990,97
+440.932,95
+463
+OTPLATA OBAVEZA IZ PRETHODNOG PERIODA
+290.000,00
+210.285,58
+300.000,00 0112
+4630
+Otplata obaveza iz prethodnog perioda
+290.000,00
+210.285,58
+300.000,00
+5
+SEKRETARIJAT ZA PLANIRANJE PROSTORA KOMUNALNE POSLOVE I SAOBRAĆAJ
+1.348.050,00
+559.579,38
+1.576.150,00
+41
+TEKUĆI IZDACI
+713.050,00
+272.496,08
+861.150,00
+411
+BRUTO ZARADE I DOPRINOSI NA TERET POSLODAVCA
+121.200,00
+48.455,90
+121.800,00 0160
+4111
+Neto zarade
+102.000,00
+40.482,97
+102.000,00 0160
+4112
+Porez na zarade
+5.200,00
+2.334,34
+5.700,00 0160
+4113
+Doprinosi na teret zaposlenih
+12.300,00
+4.924,95
+12.300,00 0160
+4114
+Doprinosi na teret poslodavca
+1.000,00
+410,21
+1.000,00 0160
+4115
+Opštinski prirez
+700,00
+303,43
+800,00
+412
+OSTALA LIČNA PRIMANJA
+18.050,00
+14.650,00
+64.050,00 0160
+4121
+Naknada za zimnicu
+4.050,00
+4.050,00
+4.050,00 0160
+4127
+Ostale naknade
+14.000,00
+10.600,00
+60.000,00
+413
+RASHODI ZA MATERIJAL
+2.500,00
+653,89
+2.500,00 0432
+4135
+Rashodi za gorivo
+2.500,00
+653,89
+2.500,00
+414
+RASHODI ZA USLUGE
+253.300,00
+83.372,24
+334.800,00 0160
+4141
+Službena putovanja
+1.000,00
+477,10
+1.000,00 0160
+4142
+Reprezentacija
+100,00
+0,00
+100,00 0160
+4143
+Komunikacione usluge
+1.200,00
+61,90
+1.200,00 0160
+4147
+Konsultantske usluge, projekti i studije
+250.000,00
+82.401,24
+330.000,00 0161
+4148
+Usluge stručnog usavršavanja
+1.000,00
+432,00
+2.500,00
+415
+RASHODI ZA TEKUĆE ODRŽAVANJE
+290.000,00
+119.965,39
+310.000,00 0160
+4151
+Tekuće održavanje javne infrastrukture
+200.000,00
+98.047,24
+220.000,00 0160
+4152
+Tekuće održavanje građ.objekata
+80.000,00
+18.521,37
+80.000,00 0160
+4153
+Tekuće održavanje opreme
+10.000,00
+3.396,78
+10.000,00
+419
+OSTALI IZDACI
+28.000,00
+5.398,66
+28.000,00 0160
+4191
+Izdaci po osnovu isplate ugovora o djelu
+20.000,00
+2.798,66
+20.000,00 0160
+4199
+Ostalo
+8.000,00
+2.600,00
+8.000,00
+41996
+Sredstva za realizaciju programa za sprovođenje kontrole
+populacije nevlasničkih pasa
+8.000,00
+2.600,00
+8.000,00
+43
+Trans.institucijama pojed.i nevladinom sektoru
+635.000,00
+287.083,30
+715.000,00
+432
+Ostali transferi
+635.000,00
+287.083,30
+715.000,00
+4326
+Transferi privrednim društvima
+635.000,00
+287.083,30
+715.000,00 0510
+43261
+Transferi DOO Komunalno
+240.000,00
+100.000,00
+240.000,00 0630
+43262
+Transferi DOO Vodovod i kanalizacija
+125.000,00
+52.083,31
+125.000,00 0620
+43263
+Transferi Agencija za projektovanje i planiranje prostora
+200.000,00
+100.000,01
+200.000,00 0620
+43264
+Transferi Parking servisu Kolašin
+70.000,00
+34.999,98
+100.000,00
+0620
+43266
+Transfer DOO Komunalno za nabavku polupodzemnih
+kontejnera u saradnji sa Eko fondom
+0,00
+0,00
+50.000,00
+6
+SEKRETARIJAT ZA ZAŠTITU ŽIVOTNE SREDINE
+101.050,00
+34.822,11
+109.050,00
+41
+TEKUĆI IZDACI
+101.050,00
+34.822,11
+109.050,00
+411
+BRUTO ZARADE I DOPRINOSI NA TERET POSLODAVCA
+72.400,00
+26.004,93
+72.400,00 0550
+4111
+Neto zarade
+60.800,00
+21.739,21
+60.800,00 0550
+4112
+Porez na zarade
+3.000,00
+1.222,49
+3.000,00 0550
+4113
+Doprinosi na teret zaposlenih
+7.500,00
+2.656,65
+7.500,00 0550
+4114
+Doprinosi na teret poslodavca
+650,00
+227,67
+650,00 0550
+4115
+Opštinski prirez
+450,00
+158,91
+450,00
+412
+OSTALA LIČNA PRIMANJA
+2.250,00
+2.250,00
+2.250,00 0550
+4121
+Naknada za zimnicu
+2.250,00
+2.250,00
+2.250,00
+413
+RASHODI ZA MATERIJAL
+1.000,00
+290,00
+1.000,00 0432
+4135
+Rashodi za gorivo
+1.000,00
+290,00
+1.000,00
+414
+RASHODI ZA USLUGE
+15.600,00
+2.278,56
+23.600,00 0550
+4141
+Službena putovanja
+2.000,00
+0,00
+2.000,00 0550
+4143
+Komunikacione usluge
+600,00
+116,62
+600,00 0550
+4147
+Konsultantske usluge, projekti i studije
+6.000,00
+1.721,50
+14.000,00 0550
+4149
+Ostale usluge
+7.000,00
+440,44
+7.000,00
+419
+OSTALI IZDACI
+9.800,00
+3.998,62
+9.800,00 0550
+4191
+Izdaci po osnovu isplate ugovora o djelu
+9.800,00
+3.998,62
+9.800,00
+7
+SLUŽBA GLAVNOG ADMINISTRATORA
+47.950,00
+19.708,47
+49.650,00
+41
+TEKUĆI IZDACI
+47.950,00
+19.708,47
+49.650,00
+411
+BRUTO ZARADE I DOPRINOSI NA TERET POSLODAVCA
+40.400,00
+16.557,63
+40.900,00 0111
+4111
+Neto zarade
+33.900,00
+13.729,96
+33.900,00 0111
+4112
+Porez na zarade
+1.700,00
+867,91
+2.100,00 0111
+4113
+Doprinosi na teret zaposlenih
+4.200,00
+1.701,14
+4.200,00 0111
+4114
+Doprinosi na teret poslodavca
+350,00
+145,80
+400,00 0111
+4115
+Opštinski prirez
+250,00
+112,82
+300,00
+412
+OSTALA LIČNA PRIMANJA
+3.350,00
+1.950,00
+4.350,00 0111
+4121
+Naknada za zimnicu
+1.350,00
+1.350,00
+1.350,00 0111
+4127
+Ostale naknade
+2.000,00
+600,00
+3.000,00
+413
+RASHODI ZA MATERIJAL
+600,00
+436,79
+800,00 0111
+4133
+Materijal za posebne namjene
+500,00
+346,70
+600,00 0432
+4135
+Rashodi za gorivo
+100,00
+90,09
+200,00
+414
+RASHODI ZA USLUGE
+1.600,00
+164,25
+1.600,00 0111
+4141
+Službena putovanja
+100,00
+36,00
+100,00 0111
+4142
+Reprezentacija
+100,00
+0,00
+100,00 0111
+4143
+Komunikacione usluge
+400,00
+128,25
+400,00 0111
+4147
+Konsultantske usluge, projekti i studije
+1.000,00
+0,00
+1.000,00
+419
+Ostali izdaci
+2.000,00
+599,80
+2.000,00
+4199
+Ostalo
+2.000,00
+599,80
+2.000,00
+8
+SLUŽBA KOMUNALNE POLICIJE
+145.450,00
+50.241,14
+132.550,00
+41
+TEKUĆI IZDACI
+145.450,00
+50.241,14
+132.550,00
+411
+BRUTO ZARADE I DOPRINOSI NA TERET POSLODAVCA
+130.600,00
+43.992,57
+117.300,00 0360
+4111
+Neto zarade
+111.500,00
+36.669,50
+97.500,00 0360
+4112
+Porez na zarade
+4.000,00
+2.178,28
+6.000,00 0360
+4113
+Doprinosi na teret zaposlenih
+13.500,00
+4.477,76
+12.000,00 0360
+4114
+Doprinosi na teret poslodavca
+1.000,00
+383,82
+1.000,00 0360
+4115
+Opštinski prirez
+600,00
+283,21
+800,00
+412
+OSTALA LIČNA PRIMANJA
+4.050,00
+4.050,00
+4.050,00 0360
+4121
+Naknada za zimnicu
+4.050,00
+4.050,00
+4.050,00
+413
+RASHODI ZA MATERIJAL
+2.000,00
+785,18
+2.400,00 0432
+4135
+Rashodi za gorivo
+2.000,00
+785,18
+2.400,00
+414
+RASHODI ZA USLUGE
+1.800,00
+265,23
+1.800,00 0360
+4141
+Službena putovanja
+400,00
+0,00
+400,00 0360
+4142
+Reprezentacija
+300,00
+0,00
+300,00 0360
+4143
+Komunikacione usluge
+500,00
+265,23
+500,00 0360
+4148
+Usluge stručnog usavršavanja
+600,00
+0,00
+600,00
+415
+RASHODI ZA TEKUĆE ODRŽAVANJE
+1.500,00
+638,51
+1.500,00 0360
+4153
+Tekuće održavanje opreme
+1.500,00
+638,51
+1.500,00
+419
+OSTALI IZDACI
+5.500,00
+509,65
+5.500,00 0360
+4191
+Izdaci po osnovu isplate ugovora o djelu
+5.500,00
+509,65
+5.500,00
+9
+SLUŽBA ZAŠTITE I SPAŠAVANJA
+359.450,00
+117.166,46
+332.650,00
+41
+TEKUĆI IZDACI
+359.450,00
+117.166,46
+332.650,00
+411
+BRUTO ZARADE I DOPRINOSI NA TERET POSLODAVCA
+308.000,00
+106.890,84
+281.200,00 0320
+4111
+Neto zarade
+231.000,00
+77.778,35
+205.000,00 0320
+4112
+Porez na zarade
+13.000,00
+5.874,82
+15.000,00 0320
+4113
+Doprinosi na teret zaposlenih
+29.000,00
+9.702,46
+26.000,00 0320
+4114
+Doprinosi na teret poslodavca
+33.200,00
+12.771,51
+33.200,00 0320
+4115
+Opštinski prirez
+1.800,00
+763,70
+2.000,00
+412
+OSTALA LIČNA PRIMANJA
+7.750,00
+6.600,00
+7.750,00 0320
+4121
+Naknada za zimnicu
+6.750,00
+6.300,00
+6.750,00 0320
+4127
+Ostale naknade
+1.000,00
+300,00
+1.000,00
+413
+RASHODI ZA MATERIJAL
+10.000,00
+3.133,11
+10.000,00 0432
+4135
+Rashodi za gorivo
+10.000,00
+3.133,11
+10.000,00
+414
+RASHODI ZA USLUGE
+3.700,00
+542,51
+3.700,00 0320
+4141
+Službena putovanja
+2.000,00
+193,66
+2.000,00 0320
+4142
+Reprezentacija
+500,00
+55,70
+500,00 0320
+4143
+Komunikacione usluge
+1.200,00
+293,15
+1.200,00
+415
+RASHODI ZA TEKUĆE ODRŽAVANJE
+27.000,00
+0,00
+27.000,00 0320
+4152
+Tekuće održavanje građ.objekata
+7.000,00
+0,00
+7.000,00 0320
+4153
+Tekuće održavanje opreme
+20.000,00
+0,00
+20.000,00
+419
+OSTALI IZDACI
+3.000,00
+0,00
+3.000,00 0320
+4191
+Izdaci po osnovu isplate ugovora o djelu
+1.500,00
+0,00
+1.500,00 0320
+4199
+Ostalo (sistematski pregled)
+1.500,00
+0,00
+1.500,00
+10
+SLUŽBA ZA EVROPSKE INTEGRACIJE
+315.220,00
+125.133,84
+308.220,00
+41
+TEKUĆI IZDACI
+105.220,00
+32.943,95
+98.220,00
+411
+BRUTO ZARADE I DOPRINOSI NA TERET POSLODAVCA
+54.020,00
+19.925,78
+54.020,00 0121
+4111
+Neto zarade
+45.000,00
+16.490,61
+45.000,00 0121
+4112
+Porez na zarade
+2.700,00
+1.171,71
+2.700,00 0121
+4113
+Doprinosi na teret zaposlenih
+5.500,00
+1.944,43
+5.500,00 0121
+4114
+Doprinosi na teret poslodavca
+470,00
+166,70
+470,00 0121
+4115
+Opštinski prirez
+350,00
+152,33
+350,00
+412
+OSTALA LIČNA PRIMANJA
+1.850,00
+1.350,00
+1.850,00
+4121
+Naknada za zimnicu
+1.350,00
+1.350,00
+1.350,00 0121
+4127
+Ostale naknade
+500,00
+0,00
+500,00
+413
+RASHODI ZA MATERIJAL
+2.000,00
+178,07
+2.000,00 0432
+4135
+Rashodi za gorivo
+2.000,00
+178,07
+2.000,00
+414
+RASHODI ZA USLUGE
+22.350,00
+1.506,41
+25.350,00 0121
+4141
+Službena putovanja
+2.000,00
+431,05
+2.000,00 0121
+4142
+Reprezentacija
+650,00
+0,00
+650,00 0121
+4143
+Komunikacione usluge
+200,00
+0,00
+200,00 0121
+4146
+Advokatske, notarske i pravne usluge
+1.000,00
+0,00
+1.000,00 0121
+4147
+Konsultantske usluge
+12.500,00
+1.075,36
+12.500,00 0121
+4148
+Usluge stručnog usavršavanja
+2.000,00
+0,00
+2.000,00 0121
+4149
+Ostale usluge
+4.000,00
+0,00
+7.000,00
+41497
+Međopštinska i međunarodna saradnja
+2.000,00
+0,00
+2.000,00
+41499
+Medijske usluge i promotivne aktivnosti
+2.000,00
+0,00
+5.000,00
+415
+RASHODI ZA TEKUĆE ODRŽAVANJE
+2.000,00
+0,00
+2.000,00 0121
+4153
+Tekuće održavanje opreme
+2.000,00
+0,00
+2.000,00
+419
+OSTALI IZDACI
+23.000,00
+9.983,69
+13.000,00 0121
+4191
+Izdaci po osnovu isplate ugovora o djelu
+3.000,00
+937,99
+3.000,00 0121
+4199
+Ostalo
+20.000,00
+9.045,70
+10.000,00
+41994
+Ostalo (Dan Evrope i Savjet Evrope)
+20.000,00
+9.045,70
+10.000,00
+43
+TRANSFERI INSTITUCIJAMA POJEDINCIMA
+NEVLADINOM I JAVNOM SEKTORU
+210.000,00
+92.189,89
+210.000,00
+431
+TRANSFERI INSTITUCIJAMA POJEDINCIMA
+NEVLADINOM I JAVNOM SEKTORU
+210.000,00
+92.189,89
+210.000,00
+0121
+4313
+Transferi institucijama kulture i sporta
+100.000,00
+73.979,89
+100.000,00
+43138
+Kolašin "U Ritmu Evrope"
+100.000,00
+73.979,89
+100.000,00 0121
+4318
+Ostali transferi pojedincima
+110.000,00
+18.210,00
+110.000,00
+43183
+Projekti finansirani iz sredstava EU
+110.000,00
+18.210,00
+110.000,00
+UKUPNI TEKUĆI RASHODI
+6.449.900,00
+2.680.627,21
+7.050.000,00
+Član 3
+Član 12 Odluke o Budžetu Opštine Kolašin za 2026. godinu mijenja se i glasi:
+"Sredstva budžeta iskazana po organizacionoj i ekonomskoj klasifikaciji rasporediće se po potrošačkim jedinicama i namjenama, na sljedeći način:
+Član 4
+Član 13 Odluke o Budžetu Opštine Kolašin za 2026. godinu mijenja se i glasi: "Sredstva Kapitalnog Budžeta u iznosu od 3.721.100,00 € koristiće se za finansiranje sljedećih investicionih programa:
+5
+SEKRETARIJAT ZA PLANIRANJE PROSTORA, KOMUNALNE POSLOVE I
+SAOBRAĆAJ
+3.650.100,00
+634.544,79
+3.950.000,00
+44
+KAPITALNI IZDACI
+3.650.100,00
+634.544,79
+3.950.000,00
+441
+KAPITALNI IZDACI
+3.650.100,00
+634.544,79
+3.950.000,00 0620
+4412
+Izdaci za lokalnu infrastrukturu
+215.100,00
+52.685,65
+262.100,00
+44121
+Izgradnja postrojenja za prečišćavanje otpadnih voda, kanalizacione mreže i
+vodosnabdijevanje
+100,00
+0,00
+100,00
+44122
+Izdaci za javnu rasvjetu
+80.000,00
+0,00
+80.000,00
+44123
+Ostali izdaci za lokalnu infrastrukturu
+20.000,00
+1.149,50
+70.000,00
+44127
+Izgradnja trotoara i pješačke zone
+60.000,00
+0,00
+60.000,00
+44128
+Izgradnja hidrotehničke infrastrukture od Trga Borca do ulice Radoša Maškovića
+55.000,00
+51.536,15
+52.000,00 0443
+4413
+Izdaci za građevinske objekte
+85.000,00
+748,00
+91.000,00
+44133
+Izgradnja sportskih terena
+15.000,00
+748,00
+21.000,00
+44138
+Adaptacija i rekonstrukcija sportske hale
+70.000,00
+0,00
+70.000,00 0411
+4415
+Izdaci za opremu
+300.000,00
+214.337,28
+400.000,00 0620
+4416
+Izdaci za investiciono održavanje
+1.745.000,00
+162.015,86
+1.805.900,00
+44162
+Održavanje opštinskih puteva
+1.195.000,00
+148.517,86
+1.240.900,00
+441621
+Opštinski putevi
+600.000,00
+129.944,36
+1.075.000,00
+441623
+Sanacija i uređenje korita rijeka
+65.000,00
+9.359,35
+65.000,00
+441625
+Rekonstrukcija ulice na Brezi
+220.000,00
+0,00
+0,00
+441626
+Adaptacija i sanacija putne infrastrukture
+kroz IFAD "Gora" projekat
+60.000,00
+0,00
+43.000,00
+441627
+Saobraćajna signalizacija
+250.000,00
+9.214,15
+32.900,00
+44163
+Održavanje objekata lokalne infrastrukture
+10.000,00
+0,00
+10.000,00
+44164
+Sanacija i rekonstrukcija mostova
+65.000,00
+13.498,00
+105.000,00
+44165
+Izdaci za adaptaciju stambenih zgrada
+(fasade,krovovi,oluci)
+150.000,00
+0,00
+150.000,00
+44166
+Izgradnja mosta na rijeci Pčinji
+300.000,00
+0,00
+0,00
+44167
+Renoviranje zgrade muzeja i prostora
+suvenirnice
+0,00
+0,00
+150.000,00
+44168
+Sanacija, uređenje i rekonstrukcija javnih
+površina
+0,00
+0,00
+150.000,00
+44169
+Ostali izdaci za investiciono održavanje
+25.000,00
+0,00
+25.000,00 0620
+4419
+Ostali kapitalni izdaci
+1.305.000,00
+204.758,00
+1.391.000,00
+44191
+Izgradnja seoskih vodovoda i planinskih
+vodopoja
+50.000,00
+47.951,00
+105.000,00
+44192
+Izgradnja vodovoda Sjerogošte
+110.000,00
+0,00
+110.000,00
+44193
+Kupovina zemljišta
+350.000,00
+0,00
+350.000,00
+44194
+Eksproprijacija zemljišta
+745.000,00
+156.807,00
+600.000,00
+44195
+Naknada za sticanje prava svojine na zemljištu po osnovu sudskog poravnanja
+0,00
+0,00
+151.000,00
+44196
+Podizanje spomen obilježja
+0,00
+0,00
+25.000,00
+44199
+Navodnjavanje gradskog šetališta
+50.000,00
+0,00
+50.000,00
+UKUPNI KAPITALNI RASHODI
+3.650.100,00
+634.544,79
+3.950.000,00
+UKUPNI TEKUĆI + KAPITALNI
+10.100.000,00
+3.315.172,00
+11.000.000,00 Član 5
+Odluka o izmjenama i dopunama Odluke o Budžetu Opštine Kolašin za 2026. godinu stupa na snagu danom objavljivanja u "Službenom listu Crne Gore - Opštinski propisi".
