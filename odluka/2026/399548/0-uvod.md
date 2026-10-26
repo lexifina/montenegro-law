@@ -1,0 +1,2 @@
+Na osnovu člana 60 stav 2 Zakona o zaštiti prirode ("Sl.list CG", br.54/16,18/19,84/24), člana 15 Odluke o proglašenju Regionalnog parka "Dragišnica i Komarnica" ("Sl.list CG-Opštinski propisi", br.49/17), i člana 14 stav 1 alineja 11 Statuta D.O.O Parka prirode "Dragišnica i Komarnica " ("Sl. List CG - Opštinski propisi" br.22/25), uz prethodnu saglasnost Vlade Crne Gore br.11-011/26-3234/3, D.O.O. Park prirode "Dragišnica i Komarnica", donosi
+O D L U K U
