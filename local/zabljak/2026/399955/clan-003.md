@@ -1,0 +1,3 @@
+# Član 3
+Sredstva budžeta koja su opredijeljena za žensko preduzetništvo iz tekućeg godišnjeg budžeta Opštine Žabljak, dodjeljuju se za biznis/poslovne ideje (u daljem tekstu: biznis plan) ženama preduzetnicama i privrednim društvima (u daljem tekstu: društvo) u kojima su žene nosioci biznisa - osnivač ili jedan od osnivača i izvršni direktor društva.
+Sredstva za podsticanje osnivanja i razvoj poslovanja dodjeljuju se društvima/preduzetnicama sa prebivalištem osnivača ili jednog od osnivača i izvršnog direktora najmanje 1 godinu do dana raspisivanja javog konkursa, odnosno sa sjedištem na teritoriji Opštine Žabljak.
