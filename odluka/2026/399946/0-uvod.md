@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 2 tačka 3 Zakona o komunalnim djelatnostima ("Službeni list CG", 55/16, 74/16, 2/18, 66/19 i 140/22), člana 32 tačka 59 Statuta Opštine Žabljak ("Službeni list CG - Opštinski propisi", broj 27/18) i člana 10 stav 1 alineja 7 Odluke o osnivanju društva sa ograničenom odgovornošću "Parking servis Žabljak" - Žabljak ("Službeni list CG - Opštinksi propisi", br. 51/22 i 22/23) Skupština opštine Žabljak, na sjednici održanoj dana 29. 10. 2026. godine, donijela je
+ODLUKU
