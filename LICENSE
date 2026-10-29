@@ -1,0 +1,14 @@
+The legal texts are official texts of Montenegro (the Constitution of 2007 and its amendments, and laws),
+as published in Službeni list Crne Gore, the Official Gazette of Montenegro (www.sluzbenilist.me, act
+pages and PDFs), retrieved 29 October 2026. Laws, other regulations and official acts are not protected
+by copyright under the Law on Copyright and Related Rights (Zakon o autorskom i srodnim pravima).
+
+Changes made by Lexifina: each amendment was applied by code to the provision its own instruction names;
+each version was converted to one Markdown file per provision, one paragraph or numbered point per line;
+spacing was normalised and letter-spaced headings were joined; and the versions were arranged as git
+commits credited to the amendments and laws that made each change. The wording of the law was not changed,
+and no text was transliterated between scripts. The Official Gazette does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/

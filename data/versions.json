@@ -1,0 +1,45 @@
+{
+ "country": "ME",
+ "acts": [
+  {
+   "slug": "ustav",
+   "short": "Ustav",
+   "title": "Ustav Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/297951",
+   "versions": [
+    {
+     "from": "2007-10-22",
+     "units": 181,
+     "source_url": "https://www.sluzbenilist.me/propisi/297951/download",
+     "sha256": "d095f72a32706489de20202290913d2b9bb9dad25486bf5d3b51b43ee6fbc44e"
+    },
+    {
+     "from": "2013-07-31",
+     "units": 181,
+     "source_url": "https://www.sluzbenilist.me/propisi/307536/download",
+     "sha256": "816de5e14343463b8129fdf88fdbfef05dbb7dfbb89fff2c9b714cee0138ef7a"
+    },
+    {
+     "from": "2026-08-24",
+     "units": 181,
+     "source_url": "https://www.sluzbenilist.me/propisi/397527/download",
+     "sha256": "9ae4cf27eddb343c308686ee952298b340384a362bdb2eb9945ad8ffb832dcae"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-o-zastiti-podataka-o-licnosti",
+   "short": "ZZPL",
+   "title": "Zakon o zaštiti podataka o ličnosti",
+   "url": "https://www.sluzbenilist.me/propisi/398066",
+   "versions": [
+    {
+     "from": "2026-09-19",
+     "units": 128,
+     "source_url": "https://www.sluzbenilist.me/propisi/398066/download",
+     "sha256": "46b403d7a42c5f8760ff8806a30e70bd2e2ff1b6ff85833c3d125fe08b27b7cd"
+    }
+   ]
+  }
+ ]
+}
