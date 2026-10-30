@@ -1,0 +1,2 @@
+Komisija za tržište kapitala Crne Gore (u daljem tekstu: Komisija), na osnovu čl. 14 stav 2, 16 stav 4 i 17 stav 2, Zakona o otvorenim investicionim Fondovima sa javnom ponudom ("Službeni list Crne Gore", br. 23/25, 117/25 i 14/26) - (u daljem tekstu: Zakon), na 202. sjednici od 15. 10. 2026. godine, je donijela
+PRAVILA O IZMJENI PRAVILA O REGULATORNOM KAPITALU DRUŠTAVA ZA UPRAVLJANJE OTVORENIM INVESTICIONIM FONDOVIMA SA JAVNOM PONUDOM
