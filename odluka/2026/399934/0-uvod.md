@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 alineja 9 i člana 185 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22 i 81/25), člana 29 Zakona o državnoj imovini ("Službeni list CG", br. 21/09 , 40/11-drugi zakon, 23/25 i 160/25), a u vezi sa članom 194, 201, 208 i 216 Zakona o svojinsko-pravnim odnosima ("Službeni list CG", br. 19/09 i 29/25), i člana 44 Statuta Opštine Budva ("Službeni list Crne Gore - Opštinski propisi", broj 2/19), Skupština opštine Budva je na XV sjednici održanoj 30. oktobra 2026. godine, donijela je
+ODLUKU
+o izmjeni Odluke o uspostavljanja službenosti radi polaganja 10kVA kablovskog voda do trafostanice NDTS 10/04kV na urbanističkoj parceli 23.1, bloku 23, DUP "Budva Centar",

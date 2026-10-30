@@ -1,0 +1,4 @@
+# Član 1
+## broj 10-040/26-373/1 od 16.9.2026. godine umjesto broja ("Službeni list CG - Opštinski propisi", broj 44/26)
+U Odluci o uspostavljanja službenosti radi polaganja 10kVA kablovskog voda do trafostanice NDTS 10/04kV na urbanističkoj parceli 23.1, blok 23, DUP "Budva Centar", ("Službeni list CG - Opštinski propisi", br. 44/26), član 1 mijenja se i glasi:
+"Daje se saglasnost za uspostavljanje prava službenosti na kat. parcelama 2179/2 KO Budva, 2180/2 KO Budva, 3103/1 KO Budva i 3108/1 KO Budva kao poslužnom dobru, koje su u vlasništvu Opštine Budva a radi polaganja kablovskog voda do trafostanice NDTS 10/04kV na urbanističkoj parceli 23.1 u bloku 23 u skladu sa DUP-om "Budva Centar", odnosno na katastarskoj parceli 2168/1 KO Budva kao povlasnom dobru", a u članu 3 briše se riječ "godišnju".
