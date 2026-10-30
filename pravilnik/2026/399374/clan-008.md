@@ -1,0 +1,2 @@
+# Član 8
+Komora sudskih vještaka preuzeće kopiju Registra sudskih vještaka i Registra pravnih lica za vršenje vještačenja koje je vodilo Ministarstvo pravde u skladu sa Zakonom o sudskim vještacima ("Službeni list CG", br. 54/16 i 69/25) i Pravilnikom o sadržaju i obrascu registra sudskih vještaka i registra pravnih lica za vršenje vještačenja ("Službeni list CG", broj 72/16), u roku od 15 dana od dana stupanja na snagu ovog pravilnika.
