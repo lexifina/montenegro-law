@@ -1,0 +1,3 @@
+# Član 4
+Potvrda o izvršenom markiranju tečnih goriva naftnog porijekla i biogoriva sadrži: naziv ovlašćenog lica koji vrši markiranje; naziv obveznika markiranja, adresu, elektronsku adresu i kontakt telefon; mjesto na kojem je izvršeno markiranje; vrstu tečnog goriva naftnog porijekla i biogoriva; količinu tečnog goriva naftnog porijekla i biogoriva; vrstu markera; količinu dodatog markera; datum i vrijeme početka markiranja; datum i vrijeme izdavanja potvrde o izvršenom markiranju; potpis lica koje je izvršilo mjerenje markera, potpis lica koje je izvršilo dodavanje markera; potpis lica koje verifikuje izvršeno markiranje i pečat ovlašćenog lica koje vrši markiranje.
+Potvrda o izvršenom markiranju tečnih goriva naftnog porijekla i biogoriva data je na Obrascu 1.
