@@ -1,0 +1,2 @@
+Na osnovu članu 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 43 stav 1 tačka 4 Statuta Opštine Bijelo Polje ("Službeni list CG - Opštinski propisi", br 42/26), i saglasnosti Ministarstva poljoprivrede, šumarstva i vodoprivrede Crne Gore br.04-307/26-27883 od 15. 10. 2026. godine, Skupština opštine Bijelo Polje na sjednici održanoj dana 26. 10. 2026. godine, donijela je
+IZMJENE

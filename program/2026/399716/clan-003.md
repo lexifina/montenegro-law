@@ -1,0 +1,2 @@
+# Član 3
+U dijelu Programa koji se odnosi na Mjeru 3.3 - "Podrška preradi sirovog mlijeka na gazdinstvu", odredba kojom je propisano da maksimalan iznos finansijskih podsticajnih sredstava ne može biti veći od 500,00 eura po jednom korisniku - gazdinstvu, mijenja se i glasi: "Maksimalan iznos finansijskih podsticajnih sredstava za ovu mjeru ne može biti veći od 800,00 eura po jednom korisniku - gazdinstvu".
