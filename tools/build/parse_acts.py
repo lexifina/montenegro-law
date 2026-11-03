@@ -370,6 +370,53 @@ def own_in_force(units: dict, published: str) -> str | None:
     return None
 
 
+SELF = hashlib.sha256(Path(__file__).read_bytes()).hexdigest()[:16]
+
+
+def read_text(path: Path, is_law: bool, amending: bool, cache: dict | None) -> tuple[dict, int, str]:
+    """(units, number of articles, sha256 of the PDF) for one act's PDF text, or Hold. Results are kept in `cache`
+    keyed by the input file's size and time and this parser's own hash, so a cached run gives the same bytes."""
+    st = path.stat()
+    key = f"{path.name}|{st.st_size}|{st.st_mtime_ns}|{int(is_law)}|{int(amending)}|{SELF}"
+    if cache is not None and key in cache:
+        r = cache[key]
+        if "hold" in r:
+            raise Hold(r["hold"])
+        return r["units"], r["n_art"], r["sha"]
+    try:
+        doc = json.loads(gzip.decompress(path.read_bytes()).decode("utf-8"))
+        if doc.get("no_text") or not doc.get("pages"):
+            raise Hold("pdf_unreadable")
+        if any(p.get("scanned") for p in doc["pages"]):
+            raise Hold("scanned_pages")
+        letters = sum(len(re.findall(r"[^\W\d_]", l[6])) for p in doc["pages"] for l in p["lines"])
+        if letters < 200:
+            raise Hold("no_text_layer")
+        if re.search(r"[ĈĉĆ]lan\b|[ĈĉţŢðÐ]", "".join(l[6] for p in doc["pages"] for l in p["lines"])):
+            raise Hold("text_layer_wrong_glyphs")   # an old font maps Č to Ĉ: the text layer is not the text
+        units, n_art = split(paragraphs(doc), is_law, amending)
+    except Hold as h:
+        if cache is not None:
+            cache[key] = {"hold": str(h)}
+        raise
+    if cache is not None:
+        cache[key] = {"units": units, "n_art": n_art, "sha": doc["sha256"]}
+    return units, n_art, doc["sha256"]
+
+
+def replace(tmp: Path, f: Path) -> None:
+    """Atomic rename; a reader holding the old file open (Windows) gets a few seconds to let go."""
+    import time
+    for k in range(20):
+        try:
+            tmp.replace(f)
+            return
+        except PermissionError:
+            if k == 19:
+                raise
+            time.sleep(0.5)
+
+
 # ------------------------------------------------------------------------------------------------ main
 
 def main():
@@ -379,10 +426,19 @@ def main():
     ap.add_argument("--exclude", help="file of PIS ids already published under other slugs (one per line)")
     ap.add_argument("--report")
     ap.add_argument("--rejects", help="JSON {id: reason}: acts held back by hand or by a failed read-back check")
+    ap.add_argument("--out", help="folder for the parts (default: corpus.d next to this file)")
+    ap.add_argument("--kinds", help="comma-separated kinds to publish (default: all)")
+    ap.add_argument("--cache", help="optional .json.gz file keeping each PDF's parsed text between runs")
     a = ap.parse_args()
     src = Path(a.src)
     exclude = set(Path(a.exclude).read_text().split()) if a.exclude and Path(a.exclude).exists() else set()
     rejects = json.loads(Path(a.rejects).read_text(encoding="utf-8")) if a.rejects and Path(a.rejects).exists() else {}
+    cache = None
+    if a.cache:
+        try:
+            cache = json.loads(gzip.decompress(Path(a.cache).read_bytes()).decode("utf-8"))
+        except (OSError, ValueError, EOFError):
+            cache = {}
 
     named: dict[tuple[str, str], set[int]] = defaultdict(set)
     for i, title, status, issue, typ in listing(src):
@@ -412,6 +468,8 @@ def main():
             if m["vrsta"] not in KINDS:
                 raise Hold("kind_not_built:" + m["vrsta"])
             kind, law_kind = KINDS[m["vrsta"]]
+            if a.kinds and kind not in a.kinds.split(","):
+                raise Hold("kind_not_selected:" + kind)
             tm = re.match(r"^(\S+)\s+(.*)$", title)
             if tm:
                 k = tail_key(tm.group(1), tm.group(2))
@@ -423,21 +481,12 @@ def main():
             iss = re.search(r"broj\s+(\d+)\s*/\s*(\d{4})", m["issue"])
             if not iss:
                 raise Hold("issue_unreadable:" + m["issue"])
-            raw = gzip.decompress((src / "pdf" / str(i // 1000) / f"{i}.json.gz").read_bytes())
-            doc = json.loads(raw.decode("utf-8"))
-            if doc.get("no_text") or not doc.get("pages"):
-                raise Hold("pdf_unreadable")
-            if any(p.get("scanned") for p in doc["pages"]):
-                raise Hold("scanned_pages")
-            letters = sum(len(re.findall(r"[^\W\d_]", l[6])) for p in doc["pages"] for l in p["lines"])
-            if letters < 200:
-                raise Hold("no_text_layer")
-            if re.search(r"[ĈĉĆ]lan\b|[ĈĉţŢðÐ]", "".join(l[6] for p in doc["pages"] for l in p["lines"])):
-                raise Hold("text_layer_wrong_glyphs")   # an old font maps Č to Ĉ: the text layer is not the text
             if kind == "zakon" and re.search(r"potvr[dđ]ivanju|ratifikacij", fold(title)):
                 raise Hold("ratification_not_built")
             amending = bool(re.search(r"\b(?:izmjen|dopun|izmjeni|dopuni)", fold(title)))
-            units, n_art = split(paragraphs(doc), kind == "zakon", amending)
+            units, n_art, sha = read_text(src / "pdf" / str(i // 1000) / f"{i}.json.gz", kind == "zakon", amending,
+                                          cache)
+            doc = {"sha256": sha}
             last_art = units[max(k for k in units if k.startswith("clan-"))]["text"] if n_art else ""
             if n_art and not IN_FORCE.search(last_art) and not m["in_force"]:
                 raise Hold("last_article_not_in_force_clause")
@@ -467,6 +516,12 @@ def main():
             "earlier_laws": [],
             "versions": [{"from": day, "source_url": PDF.format(id=i), "sha256": doc["sha256"], "units": units,
                           "credits": {}, **({"note": note} if note else {})}]})
+    if cache is not None:
+        tmp = Path(a.cache + ".tmp")
+        cache = {k: v for k, v in cache.items() if k.endswith("|" + SELF)}
+        tmp.write_bytes(gzip.compress(json.dumps(cache, ensure_ascii=False).encode("utf-8"), 3))
+        tmp.replace(a.cache)
+    PARTS = Path(a.out) if a.out else HERE / "corpus.d"
     PARTS.mkdir(exist_ok=True)
     written = []
     for name in sorted(parts):
@@ -494,7 +549,7 @@ def main():
         if not f.exists() or f.read_text(encoding="utf-8") != body:
             tmp = f.with_suffix(".tmp")
             tmp.write_text(body, encoding="utf-8", newline="\n")
-            tmp.replace(f)
+            replace(tmp, f)
         pub = PARTS / f"{name}.PUBLISH"
         line = (f"{len(p['acts'])} acts checked against the PIS record and the PDF text layer: status Važeći, no "
                 f"amending act, in-force day from the PIS (agreeing with the act's own clause where it has one), "
