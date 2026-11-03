@@ -1,6 +1,6 @@
 # Every act in this repository
 
-4991 acts, 4,993 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5119 acts, 5,121 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naredba (230, of which 41 amending acts)
 
@@ -246,16 +246,32 @@
 | Odluka o osnivanju jednoclanog Akcionarskog drustva Posta Crne Gore Podgorica | [`odluka/2011/337606/`](odluka/2011/337606/) | in force | 1 | 2011-12-16 | 2011-12-16 |
 | Odluka o izmjenama Odluke o osnivanju drustva sa ogranicenom odgovornoscu "Crnogorski operator trzista elektricne energije" - Podgorica | [`odluka/2011/337611/`](odluka/2011/337611/) | in force | 1 | 2011-12-24 | 2011-12-24 |
 
-## plan (55, of which 1 amending acts)
+## plan (84, of which 1 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Plan privremenih objekata za 2010. godinu | [`plan/2010/302726/`](plan/2010/302726/) | in force | 1 | 2010-01-12 | 2010-01-12 |
+| Plan odrzavanja i zastite opstinskih i nekategorisanih puteva na podrucju Opstine Pljevlja za 2011. godinu | [`plan/2011/302199/`](plan/2011/302199/) | in force | 1 | 2011-07-21 | 2011-07-21 |
+| Plan privremenih objekata za 2011. godinu | [`plan/2011/302431/`](plan/2011/302431/) | in force | 1 | 2011-01-22 | 2011-01-22 |
 | Plan raspolaganja građevinskim zemljištem za 2012. godine | [`plan/2011/318891/`](plan/2011/318891/) | in force | 1 | 2011-12-31 | 2011-12-31 |
 | Plan postavljanja privremenih objekata za 2011.godinu | [`plan/2011/325628/`](plan/2011/325628/) | in force | 1 | 2011-03-12 | 2011-03-12 |
 | Godisnji plan privremenih objekata za 2011. godinu | [`plan/2011/341380/`](plan/2011/341380/) | in force | 1 | 2011-07-07 | 2011-07-07 |
+| Opšti plan zaštite od štetnog dejstva voda za vode od lokalnog značaja za Prijestonicu Cetinje za period od 2011- 2017. godine | [`plan/2012/303694/`](plan/2012/303694/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Operativni plan zaštite od štetnog dejstva voda Prijestonice Cetinje za 2013.godinu | [`plan/2012/308629/`](plan/2012/308629/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Akcioni plan zapošljavanja i razvoja ljudskih resursa za 2013. godinu | [`plan/2013/308230/`](plan/2013/308230/) | in force | 1 | 2013-07-04 | 2013-07-04 |
+| Plan postavljanja privremenih objekata za teritoriju Opštine Budva za period od 01. aprila 2013. do 31.decembra 2015.godine | [`plan/2013/308260/`](plan/2013/308260/) | in force | 1 | 2013-03-26 | 2013-03-26 |
+| Plan privremenih objekata za 2013. godinu | [`plan/2013/308713/`](plan/2013/308713/) | in force | 1 | 2013-07-19 | 2013-07-19 |
 | Plan zaštite i spašavanja od poplava Opštine Andrijevica | [`plan/2013/312817/`](plan/2013/312817/) | in force | 1 | 2013-10-23 | 2013-10-23 |
 | Plan raspolaganja građevinskim zemljištem i objektima za 2013. godinu | [`plan/2013/317827/`](plan/2013/317827/) | in force | 1 | 2013-07-04 | 2013-07-04 |
 | Operativni plan zaštite od štetnog dejstva voda Prijestonice Cetinje za 2014.godinu | [`plan/2013/329113/`](plan/2013/329113/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Plan raspodjele radio-frekvencija iz opsega 1710-1785/1805-1880 MHz ZA GSM/DCS1800 i TRA-ECS sisteme | [`plan/2014/291242/`](plan/2014/291242/) | in force | 1 | 2014-12-27 | 2014-12-27 |
+| Plan privremenih objekata za 2014. godinu | [`plan/2014/293997/`](plan/2014/293997/) | in force | 1 | 2014-03-20 | 2014-03-20 |
+| Operativni plan zaštite od štetnog dejstva voda Prijestonice Cetinje za 2015.godinu | [`plan/2014/301646/`](plan/2014/301646/) | in force | 1 | 2014-12-23 | 2014-12-23 |
+| Plan postavljanja privremenih objekata za period 2015. - 2017. godina | [`plan/2014/303920/`](plan/2014/303920/) | in force | 1 | 2014-12-30 | 2014-12-30 |
+| Plan raspodjele radio-frekvencija iz opsega 410-430 MHz za PMR/PAMR sisteme | [`plan/2014/304901/`](plan/2014/304901/) | in force | 1 | 2014-11-28 | 2014-11-28 |
+| Plan privremenih objekata za 2014. godinu | [`plan/2014/306384/`](plan/2014/306384/) | in force | 1 | 2014-01-22 | 2014-01-22 |
+| Plan raspodjele radio-frekvencija iz opsega 790-862 MHz za TRA-ECS sisteme | [`plan/2014/306847/`](plan/2014/306847/) | in force | 1 | 2014-12-31 | 2014-12-31 |
+| Plan raspolaganja zemljištem i objektima za 2014. godinu, svojina države CG, a subjekat raspolaganja Opština Kolašin | [`plan/2014/307526/`](plan/2014/307526/) | in force | 1 | 2014-04-19 | 2014-04-19 |
 | Plan raspodjele radio-frekvencija iz opsega 1900-1920 mhz, 1920-1980/2110-2170 mhz i 2010-2025 mhz ZA TRA-ECS sisteme | [`plan/2014/315336/`](plan/2014/315336/) | in force | 1 | 2015-01-07 | 2015-01-07 |
 | Akcioni plan za 2014. godinu Strateškog plana razvoja Opštine Mojkovac 2012-2019 | [`plan/2014/316812/`](plan/2014/316812/) | in force | 1 | 2014-07-09 | 2014-07-09 |
 | Plan raspodjele radio-frekvencija iz opsega 880-915/925-960 MHz ZA GSM i TRA-ECS sisteme | [`plan/2014/323301/`](plan/2014/323301/) | in force | 1 | 2014-12-27 | 2014-12-27 |
@@ -266,6 +282,12 @@
 | Plan raspodjele radio-frekvencija iz opsega 2500-2690 MHZ za tra-ECS sisteme | [`plan/2015/322791/`](plan/2015/322791/) | in force | 1 | 2015-04-25 | 2015-04-25 |
 | Operativni Plan zaštite od štetnog dejstva voda Prijestonice Cetinje za 2016.godinu | [`plan/2015/329443/`](plan/2015/329443/) | in force | 1 | 2016-01-02 | 2016-01-02 |
 | Plan privremenih objekata za 2015-2018 godinu | [`plan/2015/343714/`](plan/2015/343714/) | in force | 1 | 2015-07-16 | 2015-07-16 |
+| Plan raspodjele radio-frekvencija iz opsega 10,700-11,700 GHz za fiksne veze | [`plan/2016/291512/`](plan/2016/291512/) | in force | 1 | 2016-01-28 | 2016-01-28 |
+| Plan o postavljanju, građenju i uklanjanju privremenih objekata montažnog karaktera na teritoriji opštine Žabljak za 2016 godinu | [`plan/2016/293074/`](plan/2016/293074/) | in force | 1 | 2016-04-08 | 2016-04-08 |
+| Operativni Plan zaštite od štetnog dejstva voda Prijestonice Cetinje za 2017.godinu | [`plan/2016/293874/`](plan/2016/293874/) | in force | 1 | 2016-12-17 | 2016-12-17 |
+| Plan raspodjele radio-frekvencija iz opsega 22,000-23,600 GHZ za fiksne veze | [`plan/2016/308788/`](plan/2016/308788/) | in force | 1 | 2016-02-06 | 2016-02-06 |
+| Plan raspodjele radio-frekvencija iz opsega 7425-7725 MHz za fiksne veze | [`plan/2016/309782/`](plan/2016/309782/) | in force | 1 | 2016-05-05 | 2016-05-05 |
+| Plan raspodjele radio-frekvencija iz opsega 24,500-26,500 GHZ za fiksne veze | [`plan/2016/309823/`](plan/2016/309823/) | in force | 1 | 2016-02-06 | 2016-02-06 |
 | Plan raspodjele radio-frekvencija iz opsega 146-174 MHz za PMR/PAMR sisteme | [`plan/2016/312105/`](plan/2016/312105/) | in force | 1 | 2017-01-05 | 2017-01-05 |
 | Plan postavljanja privremenih objekata za teritoriju Opštine Budva za period od 01.06.2016. do 31.12.2018. godine | [`plan/2016/315147/`](plan/2016/315147/) | in force | 1 | 2016-06-09 | 2016-06-09 |
 | Plan raspodjele radio-frekvencija iz opsega 14,500-15,350 GHz za fiksne veze | [`plan/2016/315261/`](plan/2016/315261/) | in force | 1 | 2016-03-11 | 2016-03-11 |
@@ -277,29 +299,36 @@
 | Plan raspodjele radio-frekvencija iz opsega 7125-7425 MHz za fiksne veze | [`plan/2016/329436/`](plan/2016/329436/) | in force | 1 | 2016-05-05 | 2016-05-05 |
 | Plan raspodjele radio-frekvencija iz opsega 37,000-39,500 GHz za fiksne veze | [`plan/2016/332009/`](plan/2016/332009/) | in force | 1 | 2016-03-11 | 2016-03-11 |
 | Godišnji plan privremenih objekata za 2016.godinu | [`plan/2016/332116/`](plan/2016/332116/) | in force | 1 | 2016-01-29 | 2016-01-29 |
+| Plan raspodjele radio-frekvencija iz opsega 156-162,05 MHZ za pomorske komunikacije | [`plan/2017/308877/`](plan/2017/308877/) | in force | 1 | 2017-11-11 | 2017-11-11 |
 | Plan raspodjele radio-frekvencija iz opsega 526,5-1606,5 KHZ za am radio | [`plan/2017/310645/`](plan/2017/310645/) | in force | 1 | 2017-06-10 | 2017-06-10 |
 | Opšti Plan zaštite od štetnog dejstva voda za vode od lokalnog značaja za Prijestonicu Cetinje za period od 2018-2023.godine | [`plan/2017/310709/`](plan/2017/310709/) | in force | 1 | 2017-07-07 | 2017-07-07 |
 | Plan o postavljanju, građenju i uklanjanju privremenih objekata montažnog karaktera na teritoriji opštine Žabljak za 2016. godinu | [`plan/2017/310807/`](plan/2017/310807/) | in force | 1 | 2017-04-08 | 2017-04-08 |
 | Akcioni plan za 2017. godinu strateškog plana razvoja Opštine Mojkovac 2012-2019 | [`plan/2017/311510/`](plan/2017/311510/) | in force | 1 | 2017-08-07 | 2017-08-07 |
 | Plan postavljanja privremenih objekata u Starom gradu i kontakt zoni Starog grada u Budvi (popločani platoi ispred bedema Starog grada, hotela »Avala« i »Mogren« i prema Pizani ) za period od 01.06.2017. do 31.12.2017. godine | [`plan/2017/313723/`](plan/2017/313723/) | in force | 1 | 2017-06-15 | 2017-06-15 |
 | Godišnji plan privremenih objekata za 2017. godinu | [`plan/2017/341870/`](plan/2017/341870/) | in force | 1 | 2017-01-25 | 2017-01-25 |
+| Plan raspodjele radio-frekvencija iz opsega 694-790 MHZ za MFCN (TRA-ECS) sisteme | [`plan/2018/309589/`](plan/2018/309589/) | in force | 1 | 2018-03-24 | 2018-03-24 |
+| Plan raspodjele radio-frekvencija iz opsega 3400-3600 MHz za MFCN (TRA-ECS) sisteme | [`plan/2018/310161/`](plan/2018/310161/) | in force | 1 | 2018-04-28 | 2018-04-28 |
 | Plan raspodjele radio-frekvencija iz opsega 3600-3800 Mhz za MFCN (TRA-ECS) sisteme | [`plan/2018/314891/`](plan/2018/314891/) | in force | 1 | 2018-02-28 | 2018-02-28 |
 | Plan raspodjele radio-frekvencija iz opsega 1452-1492 MHZ za MFCN (TRA-ECS) sisteme | [`plan/2018/315367/`](plan/2018/315367/) | in force | 1 | 2018-03-28 | 2018-03-28 |
 | Plan raspodjele radio-frekvencija iz opsega 3800-4200 MHZ za fiksne veze | [`plan/2018/317550/`](plan/2018/317550/) | in force | 1 | 2018-12-08 | 2018-12-08 |
 | Plan raspodjele radio-frekvencija iz opsega 27,500-29,500 GHZ za fiksne veze | [`plan/2018/317890/`](plan/2018/317890/) | in force | 1 | 2018-12-08 | 2018-12-08 |
 | Plan raspodjele radio-frekvencija iz opsega 55,780-57,000 GHZ za fiksne veze | [`plan/2018/318378/`](plan/2018/318378/) | in force | 1 | 2018-12-08 | 2018-12-08 |
 | Plan raspodjele radio-frekvencija iz opsega 2300-2400 MHz za MFCN (TRA-ECS) sisteme | [`plan/2018/319434/`](plan/2018/319434/) | in force | 1 | 2018-04-28 | 2018-04-28 |
+| Plan raspodjele radio-frekvencija iz opsega 71-76/81-86 GHz za fiksne veze | [`plan/2019/291956/`](plan/2019/291956/) | in force | 1 | 2019-12-10 | 2019-12-10 |
 | Plan raspodjele radio-frekvencija iz opsega 57-64 GHz za fiksne veze | [`plan/2019/316412/`](plan/2019/316412/) | in force | 1 | 2019-12-10 | 2019-12-10 |
 | Plan raspodjele radio-frekvencija iz opsega 64-66 GHz za fiksne veze | [`plan/2019/322135/`](plan/2019/322135/) | in force | 1 | 2019-12-10 | 2019-12-10 |
 | Plan raspodjele radio-frekvencija iz opsega 48,500-50,200/50,900-52,600 GHZ za fiksne veze | [`plan/2019/324548/`](plan/2019/324548/) | in force | 1 | 2019-01-19 | 2019-01-19 |
 | Operativni plan zaštite od štetnog dejstva voda Prijestonice Cetinje za 2019.godinu | [`plan/2019/375623/`](plan/2019/375623/) | in force | 1 | 2019-02-14 | 2019-02-14 |
 | Operativni plan zaštite od štetnog dejstva voda Prijestonice Cetinje za 2020.godinu | [`plan/2019/387983/`](plan/2019/387983/) | in force | 1 | 2019-12-17 | 2019-12-17 |
+| Plan raspodjele radio-frekvencija iz opsega 2500-2690 MHz za MFCN sisteme | [`plan/2020/293043/`](plan/2020/293043/) | in force | 1 | 2021-01-06 | 2021-01-06 |
 | Plan raspodjele radio-frekvencija iz opsega 1920-1980/2110-2170 MHz za MFCN sisteme | [`plan/2020/320321/`](plan/2020/320321/) | in force | 1 | 2021-01-06 | 2021-01-06 |
 | Operativni plan zaštite od štetnog dejstva voda Prijestonice Cetinje za 2021. godinu | [`plan/2020/323254/`](plan/2020/323254/) | in force | 1 | 2020-12-18 | 2020-12-18 |
 | Plan raspodjele radio-frekvencija iz opsega 3400-3800 MHz za MFCN sisteme | [`plan/2021/312709/`](plan/2021/312709/) | in force | 1 | 2021-03-09 | 2021-03-09 |
 | Plan raspodjele radio-frekvencija iz opsega 1427-1518 MHz za MFCN sisteme | [`plan/2021/318817/`](plan/2021/318817/) | in force | 1 | 2021-03-09 | 2021-03-09 |
 | Plan raspodjele radio-frekvencija iz opsega 24,25-27,5 GHz ZA MFCN sisteme | [`plan/2021/319378/`](plan/2021/319378/) | in force | 1 | 2021-03-09 | 2021-03-09 |
 | Operativni plan zaštite od štetnog dejstva voda Prijestonice Cetinje za 2022. godinu | [`plan/2021/323336/`](plan/2021/323336/) | in force | 1 | 2021-12-24 | 2021-12-24 |
+| Odluka o davanju saglasnosti na Plan i Program rada sa finansijskim projekcijama d.o.o. "Ski centar Hajla" Rožaje za 2022. godinu | [`plan/2022/291192/`](plan/2022/291192/) | in force | 1 | 2022-04-20 | 2022-04-20 |
+| Plan raspodjele radio-frekvencija iz opsega 1710-1785/1805-1880 MHz za GSM/DCS1800 i MFCN sisteme | [`plan/2022/293929/`](plan/2022/293929/) | in force | 1 | 2022-12-29 | 2022-12-29 |
 | Operativni plan zaštite od štetnog dejstva voda Prijestonice Cetinje za 2023. Godinu | [`plan/2022/313382/`](plan/2022/313382/) | in force | 1 | 2022-12-16 | 2022-12-16 |
 | Plan raspodjele radio-frekvencija iz opsega 880-915/925-960 MHz za GSM i MFCN sisteme | [`plan/2023/332725/`](plan/2023/332725/) | in force | 1 | 2023-02-11 | 2023-02-11 |
 | Opšti plan zaštite od štetnog dejstva voda, za vode od lokalnog značaja za Prijestonicu Cetinje, za period od 2024-2029. godine | [`plan/2024/372491/`](plan/2024/372491/) | in force | 1 | 2024-08-15 | 2024-08-15 |
@@ -3194,22 +3223,57 @@
 | --- | --- | --- | ---: | --- | --- |
 | Proglašavam Zakon o izvršenju Odluke Ustavnog suda Crne Gore U-I broj 6/16 od 19. Aprila 2017. godine ("Službeni list CG", broj 31/17) | [`proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj/`](proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj/) | in force | 1 | 2017-06-30 | 2017-06-30 |
 
-## program (229, of which 13 amending acts)
+## program (293, of which 15 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Program privremenog korišćenja građevinskog zemljišta za 2009. godinu | [`program/2008/307996/`](program/2008/307996/) | in force | 1 | 2009-01-06 | 2009-01-06 |
+| Program uređenja građevinskog zemljišta u 2009.godini | [`program/2009/298660/`](program/2009/298660/) | in force | 1 | 2009-07-16 | 2009-07-16 |
+| Program uređenja prostora Opštine Tivat za 2009. godinu | [`program/2009/305667/`](program/2009/305667/) | in force | 1 | 2009-08-11 | 2009-08-11 |
 | Program planiranja i uređenja prostora za 2009.godinu | [`program/2009/327123/`](program/2009/327123/) | in force | 1 | 2009-06-19 | 2009-06-19 |
+| Program uredjenja prostora Opstine Mojkovac za 2010. godinu | [`program/2010/292364/`](program/2010/292364/) | in force | 1 | 2010-03-22 | 2010-03-22 |
+| Program uredjenja prostora za 2010. godinu | [`program/2010/303882/`](program/2010/303882/) | in force | 1 | 2010-04-15 | 2010-04-15 |
+| Program uredjenja prostora Opstine Danilovgrad za 2010. godinu | [`program/2010/305183/`](program/2010/305183/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Program uredjenja prostora za 2010. godinu | [`program/2010/305800/`](program/2010/305800/) | in force | 1 | 2010-03-05 | 2010-03-05 |
 | Program uredjenja prostora Opstine Tivat za 2010. godinu | [`program/2010/320680/`](program/2010/320680/) | in force | 1 | 2010-07-17 | 2010-07-17 |
+| Program uredjenja prostora Opstine Tivat za 2011.godinu | [`program/2011/302039/`](program/2011/302039/) | in force | 1 | 2011-02-01 | 2011-02-01 |
+| Program uredjenja prostora Opstine Danilovgrad za 2011. godinu | [`program/2011/302285/`](program/2011/302285/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Program uredjenja prostora Opstine Bijelo Polje za 2011. godinu | [`program/2011/303358/`](program/2011/303358/) | in force | 1 | 2011-08-16 | 2011-08-16 |
+| Program uredjenja prostora za 2011.godinu | [`program/2011/307089/`](program/2011/307089/) | in force | 1 | 2011-02-01 | 2011-02-01 |
+| Program uredjenja prostora za 2011. godinu | [`program/2011/308978/`](program/2011/308978/) | in force | 1 | 2011-04-18 | 2011-04-18 |
 | Program uredjenja prostora za 2011. godinu | [`program/2011/317389/`](program/2011/317389/) | in force | 1 | 2011-06-24 | 2011-06-24 |
 | Jednogodisnji program uredjenja prostora za 2011.godinu | [`program/2011/318169/`](program/2011/318169/) | in force | 1 | 2011-10-04 | 2011-10-04 |
 | Program podizanja spomen-obiljezja | [`program/2011/321920/`](program/2011/321920/) | in force | 1 | 2011-12-17 | 2011-12-17 |
+| Program uređenja prostora Opštine Danilovgrad za 2012. godinu | [`program/2012/303677/`](program/2012/303677/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Jednogodišnji program uređenja prostora Opštine Plav za 2012. godinu | [`program/2012/305048/`](program/2012/305048/) | in force | 1 | 2012-04-11 | 2012-04-11 |
+| Program uređenja prostora za 2012. godinu | [`program/2012/307954/`](program/2012/307954/) | in force | 1 | 2012-01-24 | 2012-01-24 |
+| Program podsticajnih mjera razvoju poljoprivrede na području Opštine Mojkovac za 2012. godinu | [`program/2012/308237/`](program/2012/308237/) | in force | 1 | 2012-05-23 | 2012-05-23 |
 | Program obaveznih imunizacija stanovništva protiv određenih zaraznih bolesti na teritoriji Crne Gore za 2012. godinu | [`program/2012/326123/`](program/2012/326123/) | in force | 1 | 2012-01-12 | 2012-01-12 |
+| Program obaveznih imunizacija stanovništva protiv određenih zaraznih bolesti na teritoriji Crne Gore za 2013. godinu | [`program/2013/302064/`](program/2013/302064/) | in force | 1 | 2013-01-26 | 2013-01-26 |
+| Program uređenja prostora za 2013. godinu | [`program/2013/304131/`](program/2013/304131/) | in force | 1 | 2013-01-16 | 2013-01-16 |
+| Program podsticajnih mjera u poljoprivredi za 2013. godinu | [`program/2013/304512/`](program/2013/304512/) | in force | 1 | 2013-02-19 | 2013-02-19 |
+| Program podizanja spomen obilježja na teritoriji Opštine Herceg Novi u 2012.godini | [`program/2013/304514/`](program/2013/304514/) | in force | 1 | 2013-01-28 | 2013-01-28 |
+| Program podizanja spomen-obilježja na teritoriji Opštine Bijelo Polje | [`program/2013/304549/`](program/2013/304549/) | in force | 1 | 2013-11-16 | 2013-11-16 |
+| Program podizanja spomen-obilježja u Opštini Budva u 2013. godini | [`program/2013/305653/`](program/2013/305653/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Program obaveznih imunizacija stanovništva protiv određenih zaraznih bolesti na teritoriji Crne Gore za 2014. godinu | [`program/2013/308229/`](program/2013/308229/) | in force | 1 | 2013-12-07 | 2013-12-07 |
+| Program podizanja spomen obilježja na teritoriji Opštine Kotor u 2013. godini | [`program/2013/308299/`](program/2013/308299/) | in force | 1 | 2013-12-19 | 2013-12-19 |
+| Program uređenja prostora opštine Danilovgrad za 2013. godinu | [`program/2013/308337/`](program/2013/308337/) | in force | 1 | 2013-04-06 | 2013-04-06 |
+| Program podizanja Spomen-obilježja na teritoriji Opštine Herceg Novi u 2013. godini | [`program/2013/308714/`](program/2013/308714/) | in force | 1 | 2013-10-02 | 2013-10-02 |
 | Jednogodišnji program uređenja prostora Opštine Plav za 2013. godinu | [`program/2013/318811/`](program/2013/318811/) | in force | 1 | 2013-05-29 | 2013-05-29 |
 | Jednogodišnji program uređenja prostora za 2013.godinu | [`program/2013/325839/`](program/2013/325839/) | in force | 1 | 2013-07-04 | 2013-07-04 |
 | Program podizanja spomen-obilježja na teritoriji Opštine Herceg Novi za 2013. godinu | [`program/2013/343078/`](program/2013/343078/) | in force | 1 | 2013-12-06 | 2013-12-06 |
+| Program podizanja spomen-obilježja | [`program/2014/292465/`](program/2014/292465/) | in force | 1 | 2014-03-07 | 2014-03-07 |
+| Program uređenja prostora Opštine Danilovgrad za 2014. godinu | [`program/2014/301750/`](program/2014/301750/) | in force | 1 | 2014-04-19 | 2014-04-19 |
+| Jednogodišnji program uređenja prostora za 2014.godinu | [`program/2014/302158/`](program/2014/302158/) | in force | 1 | 2014-04-25 | 2014-04-25 |
+| Program obaveznih imunizacija stanovništva protiv određenih zaraznih bolesti na teritoriji Crne Gore za 2015. godinu | [`program/2014/302489/`](program/2014/302489/) | in force | 1 | 2014-11-28 | 2014-11-28 |
+| Jednogodišnji program uređenja prostora za 2014.godinu | [`program/2014/302589/`](program/2014/302589/) | in force | 1 | 2014-12-26 | 2014-12-26 |
+| Program uređenja prostora Opštine Plužine za 2014. godinu | [`program/2014/303673/`](program/2014/303673/) | in force | 1 | 2014-11-19 | 2014-11-19 |
+| Program uređenja prostora za 2014. godinu | [`program/2014/304450/`](program/2014/304450/) | in force | 1 | 2014-01-28 | 2014-01-28 |
+| Jednogodišnji Program uređenja prostora Opštine Plav za 2014. godinu | [`program/2014/308491/`](program/2014/308491/) | in force | 1 | 2014-05-06 | 2014-05-06 |
 | Program uređenja prostora za 2014. godinu | [`program/2014/315448/`](program/2014/315448/) | in force | 1 | 2014-02-05 | 2014-02-05 |
 | Program podizanja spomen-obilježja | [`program/2014/324611/`](program/2014/324611/) | in force | 1 | 2015-01-06 | 2015-01-06 |
 | Program podsticajnih mjera u poljoprivredi za 2014.godinu | [`program/2014/327318/`](program/2014/327318/) | in force | 1 | 2014-02-15 | 2014-02-15 |
+| Program uređenja prostora Opštine Plužine za 2015. godinu | [`program/2015/309085/`](program/2015/309085/) | in force | 1 | 2015-04-14 | 2015-04-14 |
 | Program uređenja prostora za 2015. godinu | [`program/2015/310695/`](program/2015/310695/) | in force | 1 | 2015-01-24 | 2015-01-24 |
 | Program uređenja prostora Opštine Kolašin za 2015. godinu | [`program/2015/312307/`](program/2015/312307/) | in force | 1 | 2015-05-08 | 2015-05-08 |
 | Program uređenja prostora Opštine Danilovgrad za 2015. godinu | [`program/2015/314386/`](program/2015/314386/) | in force | 1 | 2015-06-27 | 2015-06-27 |
@@ -3224,6 +3288,10 @@
 | Jednogodišnji program uređenja prostora za 2015.godinu | [`program/2015/328284/`](program/2015/328284/) | in force | 1 | 2015-07-25 | 2015-07-25 |
 | Program mjera za podsticaj razvoja poljoprivrede za 2015.godinu | [`program/2015/340710/`](program/2015/340710/) | in force | 1 | 2015-06-09 | 2015-06-09 |
 | Program podsticajnih mjera u poljoprivredi za 2015. godinu | [`program/2015/345209/`](program/2015/345209/) | in force | 1 | 2015-02-28 | 2015-02-28 |
+| Jednogodišnji program uređenja prostora za 2016. godinu | [`program/2016/292736/`](program/2016/292736/) | in force | 1 | 2016-05-14 | 2016-05-14 |
+| Program mjera za podsticaj ruralnog i održivog razvoja | [`program/2016/308870/`](program/2016/308870/) | in force | 1 | 2016-05-06 | 2016-05-06 |
+| Program uređenja prostora Opštine Danilovgrad za 2016. godinu | [`program/2016/309269/`](program/2016/309269/) | in force | 1 | 2016-05-06 | 2016-05-06 |
+| Program uređenja prostora Opštine Budva za 2016.godinu | [`program/2016/309326/`](program/2016/309326/) | in force | 1 | 2016-01-22 | 2016-01-22 |
 | Jednogodišnji program uređenja prostora Opštine Šavnik za 2016. godinu | [`program/2016/311008/`](program/2016/311008/) | in force | 1 | 2016-12-08 | 2016-12-08 |
 | Program uređenja prostora Opštine Bijelo Polje za 2016. godinu | [`program/2016/317722/`](program/2016/317722/) | in force | 1 | 2016-02-06 | 2016-02-06 |
 | Odluku o izmjenama i dopunama Programa obaveznih imunizacija stanovništva protiv određenih zaraznih bolesti na teritoriji Crne Gore za 2016. godinu | [`program/2016/318201/`](program/2016/318201/) | amending act | 1 | 2016-05-06 | 2016-05-06 |
@@ -3239,6 +3307,12 @@
 | Program podizanja spomen - obilježja | [`program/2016/330428/`](program/2016/330428/) | in force | 1 | 2016-05-14 | 2016-05-14 |
 | Program uređenja prostora Opštine Plužine za 2016. godinu | [`program/2016/331774/`](program/2016/331774/) | in force | 1 | 2016-04-05 | 2016-04-05 |
 | Program mjera za podsticaj razvoja poljoprivrede za 2016.godinu | [`program/2016/340863/`](program/2016/340863/) | in force | 1 | 2016-05-06 | 2016-05-06 |
+| Program uređenja prostora Glavnog grada Podgorice za 2017. godinu | [`program/2017/293275/`](program/2017/293275/) | in force | 1 | 2017-03-11 | 2017-03-11 |
+| Dopunu Programa uređenja prostora za 2017 godinu | [`program/2017/293367/`](program/2017/293367/) | amending act | 1 | 2017-06-20 | 2017-06-20 |
+| Jednogodišnji Program uređenja prostora Opštine Gusinje za 2016 godinu | [`program/2017/293741/`](program/2017/293741/) | in force | 1 | 2017-04-13 | 2017-04-13 |
+| Dopunu programa uređenja prostora Opštine Tivat za 2017.godinu | [`program/2017/298471/`](program/2017/298471/) | amending act | 1 | 2017-06-29 | 2017-06-29 |
+| Program uređenju prostora opštine Plužine za 2017. godinu | [`program/2017/308768/`](program/2017/308768/) | in force | 1 | 2017-03-11 | 2017-03-11 |
+| Program uređenja prostora za 2017. godinu | [`program/2017/310064/`](program/2017/310064/) | in force | 1 | 2017-05-20 | 2017-05-20 |
 | Program uređenja prostora Opštine Danilovgrad za 2017. godinu | [`program/2017/312183/`](program/2017/312183/) | in force | 1 | 2017-05-20 | 2017-05-20 |
 | Jednogodišnji program uređenja prostora za 2017. godinu | [`program/2017/312950/`](program/2017/312950/) | in force | 1 | 2017-05-06 | 2017-05-06 |
 | Program podizanja spomen-obilježja u Opštini Berane za 2017. godinu | [`program/2017/313241/`](program/2017/313241/) | in force | 1 | 2017-09-30 | 2017-09-30 |
@@ -3254,6 +3328,7 @@
 | Program mjera za primjenu nediskriminatornih uslova za pristup distributivnom sistemu električne energije | [`program/2017/336414/`](program/2017/336414/) | in force | 1 | 2017-06-28 | 2017-06-28 |
 | Program mjera za podsticaj razvoja poljoprivrede za 2017.godinu | [`program/2017/341959/`](program/2017/341959/) | in force | 1 | 2017-08-15 | 2017-08-15 |
 | Program o izmjeni Programa podizanja spomen-obilježja na teritoriji Opštine Bijelo Polje | [`program/2017/343201/`](program/2017/343201/) | in force | 1 | 2017-06-10 | 2017-06-10 |
+| Program uređenja prostora Opštine Budva za 2018. godinu | [`program/2018/309391/`](program/2018/309391/) | in force | 1 | 2018-01-27 | 2018-01-27 |
 | Program investicionih aktivnosti Opštine Budva za 2018. godinu 2018. godinu | [`program/2018/313113/`](program/2018/313113/) | in force | 1 | 2018-01-27 | 2018-01-27 |
 | Program uređenja prostora Opštine Danilovgrad za 2018. godinu | [`program/2018/316300/`](program/2018/316300/) | in force | 1 | 2018-06-02 | 2018-06-02 |
 | Program podizanja spomen-obilježja u opštini Nikšić u 2018. godini | [`program/2018/316355/`](program/2018/316355/) | in force | 1 | 2018-03-10 | 2018-03-10 |
@@ -3289,6 +3364,11 @@
 | Program uređenja prostora za 2019. godinu | [`program/2019/388153/`](program/2019/388153/) | in force | 1 | 2019-09-17 | 2019-09-17 |
 | Dopuna Programa podizanja spomen-obilježja za 2019. godinu | [`program/2019/388379/`](program/2019/388379/) | amending act | 1 | 2019-10-15 | 2019-10-15 |
 | Jednogodišnji Program uređenja prostora Opštine Šavnik za 2019. godinu | [`program/2019/388507/`](program/2019/388507/) | in force | 1 | 2019-04-20 | 2019-04-20 |
+| Program uređenja prostora za 2020. godinu | [`program/2020/293080/`](program/2020/293080/) | in force | 1 | 2020-06-20 | 2020-06-20 |
+| Program podizanja spomen-obilježja | [`program/2020/293435/`](program/2020/293435/) | in force | 1 | 2020-11-14 | 2020-11-14 |
+| Program uređenja prostora Opštine Danilovgrad za 2021. godinu | [`program/2020/293919/`](program/2020/293919/) | in force | 1 | 2021-01-05 | 2021-01-05 |
+| Program uređenja prostora Opštine Tuzi za 2021. godinu | [`program/2020/293944/`](program/2020/293944/) | in force | 1 | 2021-01-08 | 2021-01-08 |
+| Program podizanja spomen-obilježja za 2020. godinu | [`program/2020/294031/`](program/2020/294031/) | in force | 1 | 2020-10-06 | 2020-10-06 |
 | Program investicionih aktivnosti Opštine Budva za 2020.godinu | [`program/2020/310663/`](program/2020/310663/) | in force | 1 | 2020-03-12 | 2020-03-12 |
 | Program uređenja prostora Opštine Danilovgrad za 2020 | [`program/2020/310755/`](program/2020/310755/) | in force | 1 | 2020-03-03 | 2020-03-03 |
 | Program uređenja prostora za 2020. godinu | [`program/2020/311416/`](program/2020/311416/) | in force | 1 | 2020-06-25 | 2020-06-25 |
@@ -3304,6 +3384,13 @@
 | Program uređenja prostora Opštine Kolašin za 2021. godinu | [`program/2020/330209/`](program/2020/330209/) | in force | 1 | 2020-12-31 | 2020-12-31 |
 | Program podizanja spomen-obilježja za 2020. godinu | [`program/2020/368948/`](program/2020/368948/) | in force | 1 | 2020-01-31 | 2020-01-31 |
 | Program rada Skupštine opštine Ulcinj za 2020. godinu | [`program/2020/368988/`](program/2020/368988/) | in force | 1 | 2020-01-31 | 2020-01-31 |
+| Program rada Skupštine opštine Mojkovac za 2021. godinu | [`program/2021/291261/`](program/2021/291261/) | in force | 1 | 2021-04-02 | 2021-04-02 |
+| Program uređenja prostora za 2021. godinu | [`program/2021/291328/`](program/2021/291328/) | in force | 1 | 2021-04-24 | 2021-04-24 |
+| Program mjera za podsticaj ruralnog i održivog razvoja za 2021. godinu | [`program/2021/291394/`](program/2021/291394/) | in force | 1 | 2021-04-24 | 2021-04-24 |
+| Program rada Skupštine opštine Nikšić za 2022. godinu | [`program/2021/310055/`](program/2021/310055/) | in force | 1 | 2021-12-29 | 2021-12-29 |
+| Program uređenja prostora Opštine Bijelo Polje za 2021. godinu | [`program/2021/310240/`](program/2021/310240/) | in force | 1 | 2021-01-28 | 2021-01-28 |
+| Program podizanja spomen - obilježja za 2021. godinu | [`program/2021/310308/`](program/2021/310308/) | in force | 1 | 2021-07-24 | 2021-07-24 |
+| Program mjera za podsticaj razvoja poljoprivrede za 2021. godinu | [`program/2021/310309/`](program/2021/310309/) | in force | 1 | 2021-04-17 | 2021-04-17 |
 | Program uređenja prostora Opštine Plužine za 2022. godinu | [`program/2021/310500/`](program/2021/310500/) | in force | 1 | 2022-01-05 | 2022-01-05 |
 | Program podizanja spomen-obilježja na teritoriji Opštine Danilovgrad | [`program/2021/312458/`](program/2021/312458/) | in force | 1 | 2021-12-27 | 2021-12-27 |
 | Program Investicionih aktivnosti Opštine Budva za 2021. godinu | [`program/2021/312832/`](program/2021/312832/) | in force | 1 | 2021-03-25 | 2021-03-25 |
@@ -3314,6 +3401,11 @@
 | Program uređenja prostora Opštine Danilovgrad za 2022. Godinu | [`program/2021/330026/`](program/2021/330026/) | in force | 1 | 2022-01-04 | 2022-01-04 |
 | Program podizanja spomen - obilježja na teritoriji Opštine Herceg Novi | [`program/2021/330229/`](program/2021/330229/) | in force | 1 | 2021-05-15 | 2021-05-15 |
 | Program o izmjenama i dopunama Programa podizanja spomen-obilježja posvećenom velikom legendarnom junaku i vojskovođi Đerđ Kastrioti - Skenderbeg | [`program/2021/347216/`](program/2021/347216/) | amending act | 1 | 2021-12-24 | 2021-12-24 |
+| Program uređenja prostora za 2022. godinu | [`program/2022/292290/`](program/2022/292290/) | in force | 1 | 2022-01-25 | 2022-01-25 |
+| Program investicionih aktivnosti Opštine Budva za 2022. godinu | [`program/2022/292498/`](program/2022/292498/) | in force | 1 | 2022-05-13 | 2022-05-13 |
+| Program uređenja prostora za 2022. godinu | [`program/2022/292686/`](program/2022/292686/) | in force | 1 | 2022-04-14 | 2022-04-14 |
+| Program podizanja spomen-obilježja u Opštini Tuzi | [`program/2022/292857/`](program/2022/292857/) | in force | 1 | 2022-12-28 | 2022-12-28 |
+| Program uređenja prostora Opštine Budva za 2023. godinu | [`program/2022/293461/`](program/2022/293461/) | in force | 1 | 2022-12-30 | 2022-12-30 |
 | Program uređenja prostora Opštine Tuzi za 2022. godinu | [`program/2022/310536/`](program/2022/310536/) | in force | 1 | 2022-02-07 | 2022-02-07 |
 | Odluka o davanju saglasnosti na Program rada sa finansijskim planom DOO LjE "Radio televizija" Rožaje za 2022. godinu | [`program/2022/311384/`](program/2022/311384/) | in force | 1 | 2022-04-20 | 2022-04-20 |
 | Program podizanja spomen - obilježja u Opštini Kotor | [`program/2022/312348/`](program/2022/312348/) | in force | 1 | 2022-09-16 | 2022-09-16 |
@@ -3342,6 +3434,7 @@
 | Program uređenja prostora sa programom urbane sanacije Opštine Kolašin za 2022. godinu | [`program/2022/331789/`](program/2022/331789/) | in force | 1 | 2022-02-28 | 2022-02-28 |
 | Program mjera za realizaciju sredstava za razvoj poljoprivredne proizvodnje u Opštini Tuzi za 2022. godinu - Agrobudžet | [`program/2022/340100/`](program/2022/340100/) | in force | 1 | 2022-04-08 | 2022-04-08 |
 | Odluka o davanju saglasnosti na Program obavljanja komunalnih djelatnosti Društva sa ograničenom odgovornošću "Pijace / Tregu" Tuzi za 2023. godinu | [`program/2022/347388/`](program/2022/347388/) | in force | 1 | 2023-01-05 | 2023-01-05 |
+| Program obaveznih imunizacija stanovništva protiv određenih zaraznih bolesti na teritoriji Crne Gore za 2023. godinu | [`program/2023/291315/`](program/2023/291315/) | in force | 1 | 2023-02-23 | 2023-02-23 |
 | Program uređenja prostora Opštine Ulcinj za 2023. godinu | [`program/2023/316333/`](program/2023/316333/) | in force | 1 | 2023-02-08 | 2023-02-08 |
 | Program uređenja prostora sa programom urbane sanacije Opštine Kolašin za 2023. godinu | [`program/2023/324014/`](program/2023/324014/) | in force | 1 | 2023-02-08 | 2023-02-08 |
 | Program rada Skupštine opštine Ulcinj za 2023. godinu | [`program/2023/332532/`](program/2023/332532/) | in force | 1 | 2023-02-08 | 2023-02-08 |
@@ -3558,21 +3651,48 @@
 | Statut Društva sa ograničenom odgovornošću za transport putnika i robe u vazdušnom saobraćaju "ToMontenegro" | [`statut/2026/398829/`](statut/2026/398829/) | in force | 1 | 2026-10-06 | 2026-10-06 |
 | Statut Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Nikšić | [`statut/2026/399535/`](statut/2026/399535/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## ugovor (105, of which 15 amending acts)
+## ugovor (140, of which 16 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Objava o stupanju na snagu Sporazuma o Regionalnoj skoli za drzavnu upravu | [`ugovor/2010/302794/`](ugovor/2010/302794/) | in force | 1 | 2010-08-01 | 2010-08-01 |
+| Zakon o potvrdjivanju Dodatnog protokola uz Evropsku povelju o lokalnoj samoupravi o pravu ucesca u poslovima lokalnih vlasti | [`ugovor/2010/303522/`](ugovor/2010/303522/) | in force | 1 | 2010-07-30 | 2010-07-30 |
 | Zakon o potvrdjivanju Sporazuma o zastiti slijepih miseva u Evropi (EUROBATS) | [`ugovor/2010/319437/`](ugovor/2010/319437/) | in force | 1 | 2011-01-05 | 2011-01-05 |
 | Zakon o potvrdjivanju Protokola o izmjenama i dopunama Becke konvencije o gradjanskoj odgovornosti za nuklearne stete | [`ugovor/2010/325534/`](ugovor/2010/325534/) | amending act | 1 | 2011-01-05 | 2011-01-05 |
 | Odluka o objavljivanju Sporazuma izmedju Crne Gore i Republike Poljske o regulisanju bilateralnih ugovornih odnosa | [`ugovor/2010/325762/`](ugovor/2010/325762/) | in force | 1 | 2010-07-08 | 2010-07-08 |
 | Odluka o objavljivanju Administrativnog sporazuma o izmjeni Administrativnog sporazuma za sprovodjenje Sporazuma izmedju Savezne Republike Jugoslavije i Bosne i Hercegovine o socijalnom osiguranju | [`ugovor/2010/345715/`](ugovor/2010/345715/) | in force | 1 | 2010-11-23 | 2010-11-23 |
 | Zakon o potvrdjivanju Sporazuma izmedju Crne Gore i Medjunarodne agencije za atomsku energiju o primjeni zastitnih mjera u vezi sa Ugovorom o neproliferaciji nuklearnog oruzja | [`ugovor/2010/345756/`](ugovor/2010/345756/) | in force | 1 | 2011-01-05 | 2011-01-05 |
+| Zakon o potvrdjivanju Sporazuma izmedju Crne Gore i Svajcarske Konfederacije o socijalnom osiguranju sa Administrativnim sporazumom za sprovodjenje Sporazuma izmedju Crne Gore i Svajcarske Konfederacije o socijalnom osiguranju | [`ugovor/2011/305111/`](ugovor/2011/305111/) | in force | 1 | 2011-07-15 | 2011-07-15 |
+| Ukaz o proglasenju Zakona o potvrdjivanju Sporazuma o uzajamnom podsticanju i zastiti ulaganja izmedju Vlade Crne Gore i Vlade Republike Makedonije | [`ugovor/2011/306221/`](ugovor/2011/306221/) | in force | 1 | 2011-06-16 | 2011-06-16 |
+| Zakon o potvrdjivanju Medjunarodne konvencije o nadzoru stetnih sistema protiv obrastanja brodova iz 2001. godine | [`ugovor/2011/308023/`](ugovor/2011/308023/) | in force | 1 | 2011-06-16 | 2011-06-16 |
 | Objava o stupanju na snagu Sporazuma izmedju Vlade Crne Gore i Vlade Republike Azerbejdzan o ukidanju viza za imaoce diplomatskih i sluzbenih pasosa | [`ugovor/2011/318864/`](ugovor/2011/318864/) | in force | 1 | 2011-04-02 | 2011-04-02 |
 | Odluka o objavljivanju Sporazuma izmedju Crne Gore i Drzave Izrael o regulisanju bilateralnih ugovornih odnosa | [`ugovor/2011/329974/`](ugovor/2011/329974/) | in force | 1 | 2011-10-21 | 2011-10-21 |
+| Zakon o potvrđivanju Sporazuma između Vlade Crne Gore i Vlade Ujedinjenih Arapskih Emirata o ekonomskoj saradnji | [`ugovor/2012/302101/`](ugovor/2012/302101/) | in force | 1 | 2012-07-07 | 2012-07-07 |
+| Odluka o objavljivanju Memoranduma o razumijevanju između Vlade Crne Gore i Vlade Republike Kipar o saradnji u oblasti evropskih integracija | [`ugovor/2012/302753/`](ugovor/2012/302753/) | in force | 1 | 2012-07-25 | 2012-07-25 |
+| Objava o stupanju na snagu Sporazuma o slobodnoj trgovini između Vlade Crne Gore i Vlade Ukrajine | [`ugovor/2012/305547/`](ugovor/2012/305547/) | in force | 1 | 2013-01-01 | 2013-01-01 |
+| Zakon o potvrđivanju Sporazuma o ekonomskoj saradnji između Vlade Crne Gore i Vlade Republike Azerbejdžan | [`ugovor/2012/306398/`](ugovor/2012/306398/) | in force | 1 | 2012-07-07 | 2012-07-07 |
 | Objava o stupanju na snagu Sporazuma između Vlade Crne Gore i Vlade Republike Makedonije o uslovima putovanja državljana dvije zemlje | [`ugovor/2012/320319/`](ugovor/2012/320319/) | in force | 1 | 2012-12-13 | 2012-12-13 |
 | Objava o stupanju na snagu Sporazuma o razvojnoj saradnji između Vlade Crne Gore i Vlade Slovačke Republike | [`ugovor/2012/330757/`](ugovor/2012/330757/) | in force | 1 | 2012-12-14 | 2012-12-14 |
+| Objava o stupanju na snagu Protokola o elektronskoj razmjeni carinskih podataka između Uprave carina Crne Gore i Uprave carina Republike Albanije | [`ugovor/2013/302900/`](ugovor/2013/302900/) | in force | 1 | 2013-02-10 | 2013-02-10 |
+| Odluka o objavljivanju Sporazuma između Crne Gore i Republike Srbije o uzajamnom zastupanju u pružanju konzularne zaštite i usluga u trećim zemljama | [`ugovor/2013/304024/`](ugovor/2013/304024/) | in force | 1 | 2013-10-10 | 2013-10-10 |
+| Objava o stupanju na snagu Sporazuma o određivanju zajedničkog graničnog prelaza Zatrijebačka Cijevna-Grabon za međunarodni drumski putnički saobraćaj i granične tačke Vranica-Čerem između Vlade Crne Gore i Savjeta ministara Republike Albanije | [`ugovor/2013/304129/`](ugovor/2013/304129/) | in force | 1 | 2013-02-20 | 2013-02-20 |
+| Zakon o potvrđivanju Protokola o izmjenama i dopunama Sporazuma TRIPS (Sporazum o trgovinskim aspektima prava intelektualne svojine) | [`ugovor/2013/305974/`](ugovor/2013/305974/) | amending act | 1 | 2013-08-01 | 2013-08-01 |
+| Zakon o potvrđivanju Sporazuma o saradnji u oblasti vazdušnog saobraćaja između Vlade Crne Gore i Vlade Republike Srbije | [`ugovor/2013/307066/`](ugovor/2013/307066/) | in force | 1 | 2013-10-30 | 2013-10-30 |
 | Zakon o potvrđivanju Sporazuma između Vlade Crne Gore i Vlade Republike Makedonije o saradnji i uzajamnoj pomoći u carinskim pitanjima | [`ugovor/2013/312738/`](ugovor/2013/312738/) | in force | 1 | 2013-10-30 | 2013-10-30 |
 | Odluka o objavljivanju Sporazuma između Vlade Crne Gore i Vlade Republike Kipar o sukcesiji bilateralnih ugovora | [`ugovor/2013/326326/`](ugovor/2013/326326/) | in force | 1 | 2013-10-10 | 2013-10-10 |
+| Odluka o objavljivanju Sporazuma između Evropske Unije i Crne Gore o učešću Crne Gore u programu Unije "CUSTOMS 2020" | [`ugovor/2014/292462/`](ugovor/2014/292462/) | in force | 1 | 2014-12-13 | 2014-12-13 |
+| Odluka o objavljivanju Tehničkog sporazuma između Ministarstva odbrane Crne Gore i Ministarstva odbrane Republike Slovenije koji se odnosi na Ronilački kurs deminiranja-početni nivo od 10. februara do 30. maja 2014. godine | [`ugovor/2014/301858/`](ugovor/2014/301858/) | in force | 1 | 2014-07-30 | 2014-07-30 |
+| Objava o stupanju na snagu Sporazuma između Vlade Crne Gore i Vlade Republike Srbije o readmisiji (vraćanje i prihvatanje) lica čiji je ulazak ili boravak nezakonit | [`ugovor/2014/301984/`](ugovor/2014/301984/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Odluka o objavljivanju Sporazuma o saradnji između Vlade Crne Gore i Savjeta ministara Republike Albanije u oblasti obrazovanja | [`ugovor/2014/302658/`](ugovor/2014/302658/) | in force | 1 | 2014-02-15 | 2014-02-15 |
+| Odluka o objavljivanju Ugovora između Vlade Crne Gore i Savjeta ministara Bosne i Hercegovine o veterinarskoj saradnji | [`ugovor/2014/303468/`](ugovor/2014/303468/) | in force | 1 | 2014-04-03 | 2014-04-03 |
+| Odluka o objavljivanju Sporazuma između Ministarstva odbrane Republike Crne Gore i Saveznog ministarstva Savezne Republike Njemačke o vojnoj saradnji | [`ugovor/2014/303848/`](ugovor/2014/303848/) | in force | 1 | 2014-07-30 | 2014-07-30 |
+| Odluka o objavljivanju Sporazuma između Vlade Crne Gore i Vlade Republike Kosovo o određivanju Međunarodnog drumskog graničnog prelaza Kula-Savine Vode | [`ugovor/2014/303980/`](ugovor/2014/303980/) | in force | 1 | 2014-07-30 | 2014-07-30 |
+| Objava o stupanju na snagu Sporazuma između Vlade Crne Gore i Vlade Republike Makedonije o saradnji i uzajamnoj pomoći u carinskim pitanjima | [`ugovor/2014/304186/`](ugovor/2014/304186/) | in force | 1 | 2014-02-21 | 2014-02-21 |
+| Objava o stupanju na snagu Sporazuma o uzajamnoj zaštiti tajnih podataka između Vlade Crne Gore i Vijeća ministara Bosne i Hercegovine | [`ugovor/2014/304557/`](ugovor/2014/304557/) | in force | 1 | 2014-02-01 | 2014-02-01 |
+| Odluka o objavljivanju Memoranduma o saradnji između Policije Crne Gore i Policije pokrajine Baden-Virtemberg | [`ugovor/2014/304673/`](ugovor/2014/304673/) | in force | 1 | 2014-07-11 | 2014-07-11 |
+| Odluka o objavljivanju Sporazuma između Ministarstva odbrane Crne Gore i Ministarstva odbrane Republike Letonije o saradnji u oblasti odbrane | [`ugovor/2014/305694/`](ugovor/2014/305694/) | in force | 1 | 2014-07-30 | 2014-07-30 |
+| Odluka o objavljivanju Sporazuma o sukcesiji bilateralnih ugovora između Crne Gore i Sjedinjenih Američkih Država | [`ugovor/2014/307364/`](ugovor/2014/307364/) | in force | 1 | 2014-12-13 | 2014-12-13 |
+| Odluka o objavljivanju Sporazuma o konsolidaciji ugovornog stanja između Crne Gore i Narodne Republike Kine | [`ugovor/2014/307389/`](ugovor/2014/307389/) | in force | 1 | 2014-07-11 | 2014-07-11 |
 | Odluka o objavljivanju Sporazuma o vazdušnom saobraćaju između Vlade Crne Gore i Kabineta Ministara Ukrajine | [`ugovor/2014/321607/`](ugovor/2014/321607/) | in force | 1 | 2014-05-08 | 2014-05-08 |
 | Odluka o objavljivanju Sporazuma između Vlade Republike Crne Gore i Vlade Republike Slovenije o saradnji u oblasti odbrane | [`ugovor/2014/322557/`](ugovor/2014/322557/) | in force | 1 | 2014-07-30 | 2014-07-30 |
 | Odluka o objavljivanju Okvirnog sporazuma između Vlade Crne Gore i Vlade Republike Turske o saradnji u vojnim oblastima obuke, tehnike i nauke | [`ugovor/2014/323204/`](ugovor/2014/323204/) | in force | 1 | 2014-09-20 | 2014-09-20 |
@@ -3595,6 +3715,9 @@
 | Objava o stupanju na snagu Sporazuma između Crne Gore i Republike Bugarske o socijalnom osiguranju | [`ugovor/2016/331281/`](ugovor/2016/331281/) | in force | 1 | 2016-10-01 | 2016-10-01 |
 | Odluka o Objavljivanju Sporazuma između Vlade Crne Gore i Vlade Republike Argentine o ekonomskoj i trgovinskoj saradnji | [`ugovor/2016/331520/`](ugovor/2016/331520/) | in force | 1 | 2017-01-06 | 2017-01-06 |
 | Zakon o potvrđivanju Sektorskog sporazuma između Vlade Crne Gore i Evropske komisije kojim se utvrđuju pravila za upravljanje i sprovođenje finansijske pomoći Unije Crnoj Gori u okviru instrumenata pretpristupne podrške za oblast Politike "Poljoprivreda i ruralni razvoj" (IPARD) | [`ugovor/2016/345574/`](ugovor/2016/345574/) | in force | 1 | 2016-01-25 | 2016-01-25 |
+| Obavještenje o Ugovora između Crne Gore i Republike Portugal o izbjegavanju dvostrukog oporezivanja i sprječavanju izbjegavanja plaćanja poreza na dohodak | [`ugovor/2017/294137/`](ugovor/2017/294137/) | in force | 1 | 2017-12-07 | 2017-12-07 |
+| Obavještenje o stupanju na snagu Sporazuma između Vlade Crne Gore i između Vlade Crne Gore i Vlade Republike Bugarske o saradnji u oblastima turizma | [`ugovor/2017/309566/`](ugovor/2017/309566/) | in force | 1 | 2017-10-08 | 2017-10-08 |
+| Odluka o objavljivanju Sporazuma između Vlade Crne Gore i Vlade Republike Indonezije o ukidanju viza za nosioce diplomatskih i službenih pasoša | [`ugovor/2017/309759/`](ugovor/2017/309759/) | in force | 1 | 2017-11-14 | 2017-11-14 |
 | Sporazum između Vlade Crne Gore i Vlade Mađarske o razmjeni i uzajamnoj zaštiti tajnih podataka | [`ugovor/2017/314310/`](ugovor/2017/314310/) | in force | 1 | 2017-06-24 | 2017-06-24 |
 | Obavještenje o stupanju na snagu Sporazuma između Vlade Crne Gore i Vlade Kraljevine Belgije o obavljanju dohodovne djelatnosti određenih članova porodice članova diplomatskih i konzularnih predstavništava | [`ugovor/2017/318977/`](ugovor/2017/318977/) | in force | 1 | 2018-01-01 | 2018-01-01 |
 | Odluka o objavljivanju sporazuma između Vlade Crne Gore i Vlade Države Palestine o ukidanju viza za nosioce diplomatskih pasoša | [`ugovor/2017/322537/`](ugovor/2017/322537/) | in force | 1 | 2017-08-19 | 2017-08-19 |
@@ -3607,6 +3730,7 @@
 | Odluka o objavljivanju Sporazuma između Vlade Crne Gore i Vlade Republike Italije o uzajamnoj razmjeni i zaštiti tajnih podataka | [`ugovor/2017/332630/`](ugovor/2017/332630/) | in force | 1 | 2017-10-28 | 2017-10-28 |
 | Zakon o potvrđivanju Konvencije o osnivanju evropske i mediteranske organizacije za zaštitu bilja | [`ugovor/2017/345024/`](ugovor/2017/345024/) | in force | 1 | 2017-05-25 | 2017-05-25 |
 | Zakon o potvrđivanju Protokola kojim se mijenja i dopunjava bezbjednosni Aneks Sporazuma između potpisnica Sjevernoatlantskog ugovora o saradnji u vezi atomskih podataka | [`ugovor/2017/345752/`](ugovor/2017/345752/) | amending act | 1 | 2017-12-07 | 2017-12-07 |
+| Zakon o potvrđivanju amandmana na član 20 stav 1 konvencije o eliminisanju svih oblika diskriminacije žena | [`ugovor/2018/310141/`](ugovor/2018/310141/) | in force | 1 | 2018-05-16 | 2018-05-16 |
 | Zakon o potvrđivanju zajedničkog Protokola o primjeni Bečke konvencije i Pariske konvencije | [`ugovor/2018/311765/`](ugovor/2018/311765/) | in force | 1 | 2019-01-08 | 2019-01-08 |
 | Odluka o objavljivanju Sporazuma između Vlade Crne Gore i Vlade Republike Srbije o međunarodnom drumskom graničnom prelazu Dračenovac (Crna Gora) - Špiljani (Republika Srbija) | [`ugovor/2018/312375/`](ugovor/2018/312375/) | in force | 1 | 2018-10-19 | 2018-10-19 |
 | Zakon o potvrđivanju Doha Amandmana na Kjoto Protokol uz okvirnu Konvenciju Ujedinjenih Nacija o promjeni klime | [`ugovor/2018/313473/`](ugovor/2018/313473/) | in force | 1 | 2018-10-19 | 2018-10-19 |
@@ -3625,6 +3749,8 @@
 | Zakon o potvrđivanju Sporazuma između Vlade Crne Gore i Vlade Republike Turske o saradnji u oblasti odbrambene industrije | [`ugovor/2018/329911/`](ugovor/2018/329911/) | in force | 1 | 2018-07-20 | 2018-07-20 |
 | Obavještenje o stupanju na snagu Sporazuma između Crne Gore i Istočne Republike Urugvaj o ukidanju viza za nosioce običnih pasoša | [`ugovor/2018/331175/`](ugovor/2018/331175/) | in force | 1 | 2018-04-01 | 2018-04-01 |
 | Zakon o međunarodnoj razvojnoj saradnji i upućivanju međunarodne humanitarne pomoći | [`ugovor/2018/345180/`](ugovor/2018/345180/) | in force | 1 | 2018-05-16 | 2018-05-16 |
+| Obavještenje o stupanju na snagu Sporazum između Vlade Crne Gore i Vlade Republike Kipar o uzajamnoj zaštiti tajnih podataka | [`ugovor/2019/291885/`](ugovor/2019/291885/) | in force | 1 | 2019-08-01 | 2019-08-01 |
+| Odluka o objavljivanju Sporazuma između Vlade Crne Gore i Vlade Sjedninjenih američkih država u vezi sa PEACE CORPS programom u Crnoj Gori | [`ugovor/2019/294041/`](ugovor/2019/294041/) | in force | 1 | 2019-06-22 | 2019-06-22 |
 | Obavještenje o stupanju na snagu Sporazuma o izmjenama Sporazuma između Vlade Crne Gore i Vlade Republike Bjelorusije o uzajamnim putovanjima državljana | [`ugovor/2019/310466/`](ugovor/2019/310466/) | in force | 1 | 2019-08-05 | 2019-08-05 |
 | Odluka o objavljivanju Sporazuma o objavljivanju Sporazuma o prepoznavanju obuka i sertifikaciji pomoraca za službu na plovilima registrovanim u Svetom Vincentu i Grenadinima između Ministarstva saobraćaja i pomorstva u ime Vlade Crne Gore i pomorske uprave Svetog Vincenta i Grenadina u ime Vlade Svetog Vincenta i Grenadina | [`ugovor/2019/328316/`](ugovor/2019/328316/) | in force | 1 | 2019-06-22 | 2019-06-22 |
 | Protokol između Vlade Crne Gore i Vlade Mađarske o sukcesiji Crne Gore u pogledu bilateralnih međunarodnih ugovora zaključenih između Federativne Narodne Republike Jugoslavije/Socijalističke Federativne Republike Jugoslavije/Savezne Republike Jugoslavije/Državne zajednice Srbija i Crna Gora i Mađarske Narodne Republike/Republike Mađarske | [`ugovor/2019/329135/`](ugovor/2019/329135/) | in force | 1 | 2020-01-19 | 2020-01-19 |
@@ -3633,6 +3759,8 @@
 | Zakon o potvrđivanju protokola iz 2005. godine o izmjenama i dopunama Protokola o suzbijanju nezakonitih radnji uperenih protiv bezbjednosti nepokretnih platformi koje se nalaze u epikontinentalnom pojasu | [`ugovor/2019/345182/`](ugovor/2019/345182/) | amending act | 1 | 2019-10-25 | 2019-10-25 |
 | Zakon o potvrđivanju protokola iz 2005. godine o izmjenama i dopunama Konvencije o suzbijanju nezakonitih radnji uperenih protiv bezbjednosti pomorske plovidbe | [`ugovor/2019/345183/`](ugovor/2019/345183/) | amending act | 1 | 2019-10-25 | 2019-10-25 |
 | Odluka o objavljivanju Sporazuma o izmjenama sporazuma između Vlade Crne Gore i Vlade Republike Bjelorusije o uzajamnim putovanjima državljana | [`ugovor/2019/345644/`](ugovor/2019/345644/) | in force | 1 | 2019-02-01 | 2019-02-01 |
+| Odluka o objavljivanju Protokola o implementaciji finansijske pomoći između Vlade Crne Gore i Vlade Republike Turske | [`ugovor/2020/292518/`](ugovor/2020/292518/) | in force | 1 | 2020-02-11 | 2020-02-11 |
+| Obaviještenje o stupanju na snagu Sporazuma između Vlade Crne Gore i Vlade Republike Bugarske o prevozu putnika i tereta u međunarodnom drumskom saobraćaju | [`ugovor/2020/292934/`](ugovor/2020/292934/) | in force | 1 | 2020-08-26 | 2020-08-26 |
 | Odluka o objavljivanju Memoranduma o razumijevanju između Vlade Crne Gore - Ministarstva saobraćaja i pomorstva i Danske pomorske uprave u ime Kraljevine Danske o uzajamnom priznavanju sertifikata u skladu sa Konvencijom STCW | [`ugovor/2020/311635/`](ugovor/2020/311635/) | in force | 1 | 2020-03-17 | 2020-03-17 |
 | Obavještenje o objavljivanju Sporazum između Vlade Crne Gore i Vlade Republike Italije o uzajamnoj razmjeni i zaštiti tajnih podataka | [`ugovor/2020/312215/`](ugovor/2020/312215/) | in force | 1 | 2020-08-01 | 2020-08-01 |
 | Odluka o objavljivanju Sporazuma o vojnoj finansijskoj saradnji između Vlade Crne Gore i Vlade Republike Turske | [`ugovor/2020/313622/`](ugovor/2020/313622/) | in force | 1 | 2020-02-11 | 2020-02-11 |
