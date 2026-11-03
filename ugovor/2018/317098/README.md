@@ -1,0 +1,16 @@
+# Obavještenje o stupanju na snagu Sporazuma između Vlade Crne Gore i Vlade Kraljevine Holandije o privilegijama i imunitetima oficira za vezu koji su upućeni iz Crne Gore u sjedište EUROPOL-a
+
+Obavještenje o stupanju na snagu Sporazuma između Vlade Crne Gore i Vlade Kraljevine Holandije o privilegijama i imunitetima oficira za vezu koji su upućeni iz Crne Gore u sjedište EUROPOL-a · 1 versions, from 2018-08-01 (latest in force: 2018-08-01) · <https://www.sluzbenilist.me/propisi/317098>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Tekst | [tekst.md](tekst.md) | 0 |  |
+
+Act id: `ugovor-2018-317098` (tags `ugovor-2018-317098/<day>`; `python tools/on.py <day> ugovor-2018-317098`).
+
+## Decisions made by hand
+
+- Acts the PIS marks in force (Važeći) whose page lists no amending act, and that no later act's title names as amended, corrected (Ispravka) or repealed, as published in the Službeni list Crne Gore; the others are held back until their later versions are built.
+- Each act's one version takes effect on the PIS 'Datum stupanja na snagu'; where the act's own final article counts its day from publication or names a date, the two must agree or the act is held back. A different application day (PIS 'Datum početka primjene') is noted on the version.
+- The President's promulgation decree printed above a law and the signatures are left out. Article captions are the second line of the article file ('## ...'); chapter and section headings are units of their own; an annex printed after the signature is one unit, its tables run on as lines.
+- The enacted date given is the publication day (the PIS gives no adoption day).
