@@ -1,0 +1,2 @@
+Na osnovu čl. 3, čl.10 stav 3 i čl. 11 Zakona o nevladinim organizacijama ("Službeni list CG", br. 39/11, 37/17, 84/24 i 116/26) čl. 28 i čl. 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 35 stav 1 tačka 2 i člana 38 stav 1 Statuta Opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 31/18, 21/23, 42/25 i "Službeni list CG", broj 62/25), Skupština opštine Nikšić, na sjednici održanoj 29. 9, 15. i 19. 10. 2026. godine, donijela je
+O D L U K U

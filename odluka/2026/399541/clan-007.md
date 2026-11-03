@@ -1,0 +1,35 @@
+# Član 7
+Djelatnosti Fondacije su:
+- implementacija projekta "Nikšić 2030 Evropska prestonica kulture"
+- osmišljavanje, razvoj, promocija i sprovođenje kulturnih, umjetničkih, obrazovnih i kreativnih programa, projekata i aktivnosti na lokalnom, nacionalnom i međunarodnom nivou;
+- finansiranje i sufinansiranje kulturnih i obrazovnih programa, projekata i aktivnosti;
+- organizacija javnih konkursa za podršku projektnih ideja i rješenja;
+- učestvovanje u planiranju, praćenju i koordinaciji projekata razvoja kulturne i komplementarne infrasturkture u opštini Nikšić;
+- praćenje razvoja i menadžmenta kulturne infrastrukture predviđene projektom "Nikšić 2030 Evropska prestonica kulture";
+- upravljanje kulturnom i komplementarnom infrasturkturom i opremom;
+- podsticanje razvoja kulture, savremenog umjetničkog stvaralaštva, kreativnih industrija i inovacija;
+- jačanje kapaciteta kulturnih institucija, organizacija civilnog društva, nezavisnih kulturnih aktera i pojedinaca;
+- podsticanje učešća građana u kulturnom životu i razvoja aktivnog građanstva;
+- razvijanje i unapređenje međunarodne, regionalne i prekogranične saradnje u oblasti kulture, umjetnosti i kreativnih industrija;
+- saradnja sa organima državne uprave, organima lokalne samouprave, javnim ustanovama, obrazovnim institucijama, privrednim subjektima, međunarodnim organizacijama i drugim pravnim i fizičkim licima;
+- promocija Nikšića kao evropskog centra kulture, kreativnosti i inovacija;
+- međunarodna promocija Opštine Nikšić i Crne Gore;
+- organizacija kulturnih manifestacija, festivala, izložbi, konferencija, radionica, rezidencijalnih programa i drugih javnih događaja;
+- sprovođenje istraživačkih, edukativnih i izdavačkih aktivnosti u oblasti kulture, urbanizma i održivog razvoja;
+- produkcija kulturnih manifestacija, umjetničkih, filmskih, pozorišnih, muzičkih i drugih sadržaja;
+- obezbjeđivanje, upravljanje i korišćenje finansijskih, materijalnih i drugih sredstava za ostvarivanje ciljeva Fondacije, u skladu sa zakonom;
+- nabavka i iznajmljivanje opreme, alata, vozila, ili infrastrukture neophodne za adekvatnu realizaciju projekta "Nikšić 2030 - Evropska prestonica kulture";
+- sprovođenje legatskih i postprojektnih aktivnosti radi osiguravanja dugoročnih efekata projekta "Nikšić 2030 - Evropska prestonica kulture";
+- podrška kulturnom sektoru i kulturno-umjetničkom stvaralaštvu;
+- podrška razvoju i podizanju kapaciteta turističkog sektora i privrede;
+- briga o zaštiti, promociji i unapređenju nematerijalne i materijalne kulturne baštine;
+- podrška mladima i aktivno uključivanje mladih;
+- organizovanje radionica, edukativnih programa, treninga i seminara usmjerenih na jačanje kompentencija umjetnika uz aktivno uključivanje u evropske projekte i inicijative;
+- realizovanje volonterskih programa i dobrotvornih akcija;
+- apliciranje za članstvo Opštine Nikšić Fondacije u evropskim i međunarodnim kulturnim mrežama i platformama i koordinacija članstva;
+- podsticanje i podrška članstvu lokalnih i nacionalnih organizacija u evropskim i međunarodnim mrežama;
+- koordinacija članstva grada u UNESKO Mreži kreativnih gradova u oblasti muzike i drugim međunarodnim mrežama u oblasti kulture;
+- doprinos monitoringu i evaluaciji projekta Nikšić 2030 Evropska prestonica kulture i diseminaciji rezultata;
+- promocija programa "Evropska prestonica kulture" u Crnoj Gori, regionu i inostranstvu;
+- saradnja i umrežavanje sa drugim nosiocima titule "Evropske prestonice kulture" u cilju međusobne promocije;
+- prenos znanja i iskustva kandidatima iz Crne Gore, regiona i Evrope u procesu aplikacije za titulu "Evropske presnotice kulture".
