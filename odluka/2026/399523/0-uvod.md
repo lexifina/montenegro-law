@@ -1,0 +1,2 @@
+Na osnovu člana 29 stav 1 tačka 2 i člana 38 stav 1 tačka 14 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 422 st. 1 i 4 Zakona o privrednim društvima ("Službeni list CG", br. 90/25, 121/25 i 44/26) i člana 37 stav 1 tačka 14 Statuta Opštine Kolašin ("Službeni list CG - Opštinski propisi", broj 24/19), Skupština opštine Kolašin, na sjednici održanoj dana 13. 10. и 14. 10. 2026. godine, donijela je
+O D L U K U
