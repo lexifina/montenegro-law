@@ -19,6 +19,12 @@ An act is held back, not published, when (the reason goes to the report):
 - its PDF has no text layer (a scan) or its articles don't number cleanly (a gap, a repeat, a heading out of order).
 The President's promulgation decree printed above a law, and the signatures, are left out (as in the rest of this
 repository); annexes printed after the signature are kept as one unit, their tables run on as lines.
+
+An act held back only for its article numbering or its in-force day gets a second, closer reading (see RETRY): article
+headings misprinted in the PDF are read where the number is the one expected next, and with no PIS in-force day the
+day is read from the act's own in-force sentence (publication day, n-th day after publication, a stated date, or the
+adoption day from its own signature and preamble). Acts released so go to corpus.d/51-<kind>-<year> parts; acts the
+first reading publishes are untouched by it.
 """
 from __future__ import annotations
 
@@ -228,9 +234,10 @@ def art_key(n: int, suf: str) -> str:
     return f"clan-{n:03d}" + (f"-{suf}" if suf else "")
 
 
-def split(paras: list[dict], is_law: bool, amending: bool = False) -> tuple[dict, int]:
+def split(paras: list[dict], is_law: bool, amending: bool = False, info: dict | None = None) -> tuple[dict, int]:
     """Units of an act: '0-uvod' (enacting formula and title), headings, 'clan-NNN' articles, 'tekst' for an act
-    without articles, 'prilog' for what follows the signature. Returns (units, number of articles)."""
+    without articles, 'prilog' for what follows the signature. Returns (units, number of articles). `info`, when
+    given, receives the signature block's lines ('sig')."""
     ps = list(paras)
     if ps and re.fullmatch(r"\d+\.", ps[0]["t"]):
         ps = ps[1:]          # the gazette's running number of the item
@@ -256,7 +263,7 @@ def split(paras: list[dict], is_law: bool, amending: bool = False) -> tuple[dict
         if not m:
             continue
         n, suf = int(m.group(1)), m.group(2)
-        if p["depth"] > 0:
+        if p["depth"] > 0 or p.get("annex"):
             continue
         if (n == expect and not suf) or (n == last_n and suf and (ord(suf) == ord(last_suf or "`") + 1)):
             starts.append((k, n, suf))
@@ -298,6 +305,8 @@ def split(paras: list[dict], is_law: bool, amending: bool = False) -> tuple[dict
         while k < len(ps) and len(ps[k]["t"]) < 90 and k < sig + 8:
             k += 1
         tail_from = k
+    if info is not None:
+        info["sig"] = [p["t"] for p in ps[sig:tail_from]]
     annex = [p["t"] for p in ps[tail_from:]]
     body = ps[:sig]
     units: dict[str, dict] = {}
@@ -398,6 +407,230 @@ def own_in_force(units: dict, published: str) -> str | None:
     return None
 
 
+# ------------------------------------------------------------------------------------------------ second reading
+# An act the first reading holds back for its article numbering or its in-force day is read once more, more closely,
+# and published only if that reading is complete. Acts the first reading publishes never reach it, so their text and
+# dates are exactly what the first reading gives.
+
+RETRY = ("article_out_of_sequence", "last_article_not_in_force_clause", "in_force_unknown", "articles_not_split")
+# Article headings as some PDFs print them: Cyrillic letters inside the Latin word ("Člаn 5"), the Č lost ("lan 5"),
+# no space ("Član17"), "Члана 18", a letter for a digit ("Član l", "Član 1o"); or run into the article's first
+# sentence ("Član 4 Razlika između ..."). They are read so only where the number is the one expected next.
+LOOSE_LAT = re.compile(r"^(?:Č\s*)?l\s*[aа]\s*n\s*([0-9lIoO]{1,4})\s*([a-zа-я]?)\s*\.?$")
+LOOSE_CYR = re.compile(r"^Ч\s*л\s*[аa]\s*н\s*[аa]?\s*([0-9lIoO]{1,4})\s*([a-zа-я]?)\s*\.?$")
+RUN_ON = re.compile(r"^(?:Č\s*l\s*[aа]\s*n|Ч\s*л\s*[аa]\s*н)\s*(\d{1,4})\s*\.?\s+"
+                    r"(?!(?:Zakon|Uredb|Odluk|Pravilnik|Pravil|Statut|Ustav|Poslovnik|Konvencij|Sporazum|Ugovor|Закон|"
+                    r"Уредб|Одлук|Правилник|Статут|Устав)\w*\b)([A-ZČĆŠŽĐА-ЯЂЈЉЊЋЏ(„\"].*)$")
+DIGITS = str.maketrans("lIoO", "1100")
+ANNEX_MARK = re.compile(r"^(?:PRILOG|Prilog|ANEKS|Aneks|DODATAK|Dodatak|ПРИЛОГ|Прилог)\b")
+
+
+def loosen(paras: list[dict], flat: bool) -> list[dict]:
+    """The paragraphs with article headings read as above, and (flat) with quote depth ignored: an unbalanced
+    quotation mark in an act that quotes no articles can otherwise hide its own headings. Articles numbered again
+    from 1 after a "Broj:" signature line and an annex mark ("PRILOG 1") belong to the annex."""
+    ps = [dict(p, depth=0) if flat else dict(p) for p in paras]
+    out: list[dict] = []
+    expect, last_n, last_suf, last_k = 1, 0, "", None
+    cut = False
+    for p in ps:
+        if cut or p["depth"] > 0:
+            if cut:
+                p["annex"] = True
+            out.append(p)
+            continue
+        t = p["t"]
+        m = ART.match(t) or LOOSE_LAT.match(t) or LOOSE_CYR.match(t)
+        run = None if m else RUN_ON.match(t)
+        if m or run:
+            raw = m.group(1) if m else run.group(1)
+            n = int(raw.translate(DIGITS))
+            suf = m.group(2) if m else ""
+            if (n == expect and not suf) or (n == last_n and suf and ord(suf) == ord(last_suf or "`") + 1):
+                word = "Члан" if t.startswith("Ч") else "Član"
+                out.append(dict(p, t=f"{word} {n}{suf}"))
+                last_k = len(out) - 1
+                if run:
+                    out.append(dict(p, t=run.group(2), bold=False, center=False))
+                last_n, last_suf = n, suf
+                expect = n + 1 if not suf else expect
+                continue
+            if n == 1 and not suf and expect > 2 and last_k is not None:
+                seg = out[last_k + 1:]
+                j = next((x for x, q in enumerate(seg) if SIG.match(q["t"]) and len(q["t"]) < 120), None)
+                if j is not None and any(ANNEX_MARK.match(q["t"]) for q in seg[j:]) \
+                        and not any(re.fullmatch(r"\d+\.", q["t"]) for q in seg[j:]):
+                    for q in seg[j:]:
+                        q["annex"] = True
+                    cut = True
+                    p["annex"] = True
+        out.append(p)
+    return out
+
+
+def checked_doc(path: Path) -> dict:
+    """The PDF text of one act, or Hold when it is not the act's text (no text layer, scans, a wrong glyph map)."""
+    doc = json.loads(gzip.decompress(path.read_bytes()).decode("utf-8"))
+    if doc.get("no_text") or not doc.get("pages"):
+        raise Hold("pdf_unreadable")
+    if any(p.get("scanned") for p in doc["pages"]):
+        raise Hold("scanned_pages")
+    letters = sum(len(re.findall(r"[^\W\d_]", l[6])) for p in doc["pages"] for l in p["lines"])
+    if letters < 200:
+        raise Hold("no_text_layer")
+    if re.search(r"[ĈĉĆ]lan\b|[ĈĉţŢðÐ]", "".join(l[6] for p in doc["pages"] for l in p["lines"])):
+        raise Hold("text_layer_wrong_glyphs")   # an old font maps Č to Ĉ: the text layer is not the text
+    return doc
+
+
+MONTH3 = {"jan": 1, "feb": 2, "mar": 3, "apr": 4, "maj": 5, "jun": 6, "jul": 7, "avg": 8, "aug": 8, "sep": 9,
+          "okt": 10, "nov": 11, "dec": 12}
+DATE = r"(\d{1,2})\s*\.\s*(?:(\d{1,2})\s*\.|([^\W\d_]{3,}))\s*(\d{4})"
+ORDINAL = {"narednog": 1, "sljedeceg": 1, "slijedeceg": 1, "prvog": 1, "drugog": 2, "treceg": 3, "petog": 5,
+           "osmog": 8, "osmoga": 8, "desetog": 10, "petnaestog": 15, "tridesetog": 30}
+STUPA = re.compile(r"\bstup(?:a|aju)\s+na\s+snagu\b", re.I)
+
+
+def day_of(m: re.Match) -> str | None:
+    """The day a DATE match names ("12. marta 2019", "12.03.2019"), or None."""
+    mo = int(m.group(2)) if m.group(2) else MONTH3.get(fold(m.group(3))[:3])
+    try:
+        return date(int(m.group(4)), mo, int(m.group(1))).isoformat() if mo else None
+    except ValueError:
+        return None
+
+
+def adoption_day(units: dict, sig: list[str], published: str) -> str:
+    """The day the act was adopted, from its signature block ("Podgorica, 12. marta 2019. godine") and its preamble
+    ("na sjednici održanoj 12. marta 2019. godine", "dana 12. marta 2019. godine, donijela je"): every date found
+    must agree, and fall within the year before publication."""
+    found = set()
+    for m in re.finditer(DATE, cyr2lat(" ".join(sig))):
+        found.add(day_of(m))
+    pre = cyr2lat(units.get("0-uvod", units.get("tekst", {"text": ""}))["text"].replace("\n", " "))
+    for pat in (r"sjednic\w*[^.]{0,120}?(?:održan\w*|odrzan\w*)\s*,?\s*(?:dana\s+)?" + DATE,
+                r"sjednic\w*\s+(?:od|dana)\s+" + DATE,
+                r"\b(?:dana|dne)\s+" + DATE + r"\s*\.?\s*(?:godine)?\s*,?\s*(?:je\s+)?(?:donio|donijel\w*|donosi|"
+                r"utvrdi\w*|usvoji\w*|usvaja)"):
+        for m in re.finditer(pat, pre):
+            found.add(day_of(m))
+    if not found:
+        raise Hold("adoption_day_unknown")
+    if len(found) > 1 or None in found:
+        raise Hold("adoption_day_ambiguous:" + ",".join(sorted(str(x) for x in found)))
+    d = found.pop()
+    if not (date.fromisoformat(published) - timedelta(days=365)).isoformat() <= d <= published:
+        raise Hold(f"adoption_day_implausible:{d}")
+    return d
+
+
+def read_clause(c: str, units: dict, sig: list[str], published: str) -> tuple[str, str]:
+    """(day, how) for the words after "stupa na snagu" in the act's own clause, or Hold. Only these forms are read:
+    "danom objavljivanja", "<ordinal> dana od (dana) objavljivanja", "danom donošenja/usvajanja" (the adoption day
+    from the act's own signature and preamble) and a stated date. "Primjenjuje se od" (application) is not entry into
+    force and is never read as it."""
+    f = fold(c)
+    if re.match(r"(?:sa |s )?(?:danom|na dan) (?:njegovog |njenog |njihovog )?objavljivanja(?: (?:u|na|i|a|sl)\b|$)",
+                f):
+        return published, "publication"
+    m = re.match(r"(\w+) dana ?(?:od dana|od|nakon|po|poslije) (?:njegovog |njenog |njihovog )?"
+                 r"(?:objavljivanja|objave|objavljivanju)(?: (?:u|na|i|a|sl)\b|$)", f)
+    if m and m.group(1) in ORDINAL:
+        return (date.fromisoformat(published) + timedelta(days=ORDINAL[m.group(1)])).isoformat(), "counted"
+    # "osam dana od dana objavljivanja" (the PIS counts it as the eighth day), "8 dana", "8. dana", "8 (osmog) dana"
+    m = re.match(r"(?:(\d{1,2})\s*\.?\s*(?:\(\s*(\w+)\s*\)\s*)?|(osam)\s+)dana\s*(?:od\s+dana|od|nakon|po|poslije)\s+"
+                 r"(?:njegovog\s+|njenog\s+|njihovog\s+)?(?:objavljivanja|objave|objavljivanju)\b", c)
+    if m:
+        n = 8 if m.group(3) else int(m.group(1))
+        word = fold(m.group(2) or "")
+        if n in ORDINAL.values() and (not word or ORDINAL.get(word, 8 if word == "osam" else None) == n):
+            return (date.fromisoformat(published) + timedelta(days=n)).isoformat(), "counted"
+    if re.match(r"(?:sa |s )?(?:danom|na dan) (?:njegovog |njenog |njihovog )?(?:donosenja|usvajanja)"
+                r"(?: (?:i|a|od strane)\b|$)", f):
+        return adoption_day(units, sig, published), "adoption"
+    m = re.match(r"(?:dana\s+|sa\s+danom\s+|s\s+danom\s+)?" + DATE, c)
+    if m and day_of(m):
+        return day_of(m), "date"
+    raise Hold("in_force_unread:" + c[:60])
+
+
+def own_in_force_close(units: dict, sig: list[str], title: str, published: str) -> tuple[str, str, str | None]:
+    """(day, how, note) from the act's own in-force sentence(s) ("Ovaj pravilnik stupa na snagu ...", or the act named
+    by its title), anywhere in its own text outside long quotations; every such sentence must give the same day. The
+    note gives a separate application day ("a primjenjuje se od ...") when the same sentence states one."""
+    keys = [k for k in units if k.startswith(("clan-", "tekst"))]
+    tw = fold(title).split()
+    got = set()
+    applies = set()
+    for k in keys:
+        for line in units[k]["text"].split("\n"):
+            if line.startswith("#"):
+                continue
+            line = re.sub(r'"[^"]{80,}?"', " ", cyr2lat(line))
+            for mm in STUPA.finditer(line):
+                subj = re.split(r"[.;:!?]\s+(?=[A-ZČĆŠŽĐ])", line[:mm.start()])[-1]
+                subj = fold(re.sub(r"^\s*(?:\(?\d{1,3}\s*[.)]|[IVX]{1,5}(?:\s*[.)]|\s)|[a-z]\))\s*", "", subj)).split()
+                if not subj or not (subj[0] in ("ovaj", "ova", "ovo", "ovi", "ove", "ovim")
+                                    or (tw and subj[:3] == tw[:len(subj[:3])])):
+                    continue   # another act's or provision's entry into force
+                c = line[mm.end():].strip()
+                c = re.sub(r"^i\s+(?:se\s+)?primjenj\w*\s+(?:se\s+)?", "", c)
+                got.add(read_clause(c, units, sig, published))
+                am = re.search(r"primjenj\w*\s+(?:se\s+)?od\s+(.{0,120})", c)
+                if am:
+                    dm = re.match(r"(?:dana\s+)?" + DATE, am.group(1))
+                    applies.add(day_of(dm) if dm and day_of(dm) else "text:" + re.split(r"[.;]\s|\"", am.group(1))[0])
+    if not got:
+        raise Hold("in_force_unknown")
+    if len(got) > 1:
+        raise Hold("in_force_ambiguous:" + ",".join(sorted(d for d, _ in got)))
+    day, how = got.pop()
+    note = None
+    if len(applies) == 1:
+        a = applies.pop()
+        if a.startswith("text:"):
+            note = f"Its own final provision sets a separate application day (\"primjenjuje se od {a[5:].strip()}\"); " \
+                   f"in force from {day}."
+        elif a != day:
+            note = f"Applies from {a} (its own final provision); in force from {day}."
+    elif applies:
+        raise Hold("application_day_ambiguous")
+    if how == "adoption":
+        note = (note + " " if note else "") + f"In force on its adoption day ({day}, from its own signature and " \
+                                              f"preamble), as its own final provision says; published {published}."
+    return day, how, note
+
+
+def read_text_close(path: Path, is_law: bool, amending: bool, cache: dict | None) -> tuple[dict, int, str, list]:
+    """The second reading of an act's PDF text: (units, number of articles, sha256, signature lines), or Hold. Cached
+    like read_text."""
+    st = stat(path)
+    key = f"close|{path.name}|{st.st_size}|{st.st_mtime_ns}|{int(is_law)}|{int(amending)}|{SELF}"
+    if cache is not None and key in cache:
+        r = cache[key]
+        if "hold" in r:
+            raise Hold(r["hold"])
+        return r["units"], r["n_art"], r["sha"], r["sig"]
+    try:
+        doc = checked_doc(path)
+        paras = paragraphs(doc)
+        info: dict = {}
+        try:
+            units, n_art = split(loosen(paras, False), is_law, amending, info)
+        except Hold as h:
+            if amending or not str(h).startswith("article_out_of_sequence"):
+                raise
+            info = {}
+            units, n_art = split(loosen(paras, True), is_law, amending, info)
+    except Hold as h:
+        if cache is not None:
+            cache[key] = {"hold": str(h)}
+        raise
+    if cache is not None:
+        cache[key] = {"units": units, "n_art": n_art, "sha": doc["sha256"], "sig": info.get("sig", [])}
+    return units, n_art, doc["sha256"], info.get("sig", [])
+
+
 SELF = hashlib.sha256(Path(__file__).read_bytes()).hexdigest()[:16]
 _STATS: dict[Path, object] = {}
 
@@ -420,16 +653,7 @@ def read_text(path: Path, is_law: bool, amending: bool, cache: dict | None) -> t
             raise Hold(r["hold"])
         return r["units"], r["n_art"], r["sha"]
     try:
-        doc = json.loads(gzip.decompress(path.read_bytes()).decode("utf-8"))
-        if doc.get("no_text") or not doc.get("pages"):
-            raise Hold("pdf_unreadable")
-        if any(p.get("scanned") for p in doc["pages"]):
-            raise Hold("scanned_pages")
-        letters = sum(len(re.findall(r"[^\W\d_]", l[6])) for p in doc["pages"] for l in p["lines"])
-        if letters < 200:
-            raise Hold("no_text_layer")
-        if re.search(r"[ĈĉĆ]lan\b|[ĈĉţŢðÐ]", "".join(l[6] for p in doc["pages"] for l in p["lines"])):
-            raise Hold("text_layer_wrong_glyphs")   # an old font maps Č to Ĉ: the text layer is not the text
+        doc = checked_doc(path)
         units, n_art = split(paragraphs(doc), is_law, amending)
     except Hold as h:
         if cache is not None:
@@ -549,17 +773,47 @@ def main():
                 raise Hold(f"in_force_mismatch:pis {m['in_force']} vs text {own}")
             if day < m["published"] and not own:
                 raise Hold(f"in_force_before_publication:{day}")
+            close_note, close_how, part_no = None, None, 50
         except Hold as h:
-            holds.append({"id": i, "title": title[:160], "reason": str(h)})
-            continue
+            if str(h).split(":")[0] not in RETRY:
+                holds.append({"id": i, "title": title[:160], "reason": str(h)})
+                continue
+            try:   # the second reading (see RETRY)
+                units, n_art, sha, sig = read_text_close(pdf, kind == "zakon", amending, cache)
+                doc = {"sha256": sha}
+                own = own_in_force(units, m["published"])
+                try:
+                    close = own_in_force_close(units, sig, title, m["published"])
+                except Hold as h3:
+                    if not m["in_force"]:
+                        raise
+                    close = None
+                if m["in_force"]:
+                    day, close_note, close_how = m["in_force"], None, None
+                    for o in {own, close[0] if close else None} - {None}:
+                        if o != day:
+                            raise Hold(f"in_force_mismatch:pis {day} vs text {o}")
+                    if day < m["published"] and not (own or close):
+                        raise Hold(f"in_force_before_publication:{day}")
+                else:
+                    day, close_how, close_note = close
+                if day > a.retrieved:
+                    raise Hold(f"in_force_after_retrieval:{day}")
+                part_no = 51
+            except Hold as h2:
+                holds.append({"id": i, "title": title[:160], "reason": str(h), "second_reading": str(h2)})
+                continue
         year = int(m["published"][:4])
         slug = f"{kind}-{year}-{i}"
         label = f"{title} (Službeni list Crne Gore, broj {iss.group(1)}/{iss.group(2)})"
         note = None
         if m["applies"] and m["applies"] != day:
             note = f"Applies from {m['applies']} (PIS: Datum početka primjene); in force from {day}."
-        part = f"50-{kind}-{year}"
-        parts[part]["laws"][slug] = {"label": label, "title": title, "kind": law_kind, "enacted": m["published"],
+        elif close_note:
+            note = close_note
+        part = f"{part_no}-{kind}-{year}"
+        parts[part]["laws"][slug] = {"label": label, "title": title, "kind": law_kind,
+                                     "enacted": day if close_how == "adoption" else m["published"],
                                      "published": m["published"], "url": PAGE.format(id=i), "temporary_until": None,
                                      "restores": None, "note": None}
         parts[part]["acts"].append({
@@ -595,6 +849,25 @@ def main():
             "captions are the second line of the article file ('## ...'); chapter and section headings are units of "
             "their own; an annex printed after the signature is one unit, its tables run on as lines.",
             "The enacted date given is the publication day (the PIS gives no adoption day)."]
+        if name.startswith("51-"):
+            p["decisions"][1:2] = [
+                "These are acts a first, strict reading holds back for their article numbering or their in-force day, "
+                "completed by a second, closer reading: article headings printed with Cyrillic letters inside the "
+                "Latin word, without a space, with a letter for a digit or run into the article's first sentence are "
+                "read as headings only where the number is the one expected next; in an act that quotes no articles, "
+                "a stray quotation mark does not hide its headings; articles numbered again from 1 after the "
+                "signature and an annex mark stay in the annex.",
+                "Each act's one version takes effect on the PIS 'Datum stupanja na snagu' where the PIS gives one (the "
+                "act's own clause must agree). Otherwise the day is read from the act's own in-force sentence "
+                "('Ovaj/Ova ... stupa na snagu', or the act named by its title): the publication day ('danom "
+                "objavljivanja'), the n-th day after publication ('osmog dana od dana objavljivanja'), a stated date, "
+                "or its adoption day ('danom donošenja'), taken from its own signature block and preamble, which must "
+                "agree and fall within the year before publication. Every such sentence in the act must give the same "
+                "day. An application day ('primjenjuje se od') is noted on the version and never read as the "
+                "in-force day; any other wording keeps the act held back. A different application day in the PIS "
+                "('Datum početka primjene') is noted on the version."]
+            p["decisions"][-1] = ("The enacted date given is the publication day (the PIS gives no adoption day), "
+                                  "except for an act in force on its adoption day, where it is that day as read above.")
         p["ai_use"] = ["none"]
         f = PARTS / f"{name}.json"
         body = json.dumps(p, ensure_ascii=False, indent=1) + "\n"
@@ -606,6 +879,10 @@ def main():
         line = (f"{len(p['acts'])} acts checked against the PIS record and the PDF text layer: status Važeći, no "
                 f"amending act, in-force day from the PIS (agreeing with the act's own clause where it has one), "
                 f"articles numbered in sequence.\n")
+        if name.startswith("51-"):
+            line = (f"{len(p['acts'])} acts checked against the PIS record and the PDF text layer by the second "
+                    f"reading: status Važeći, no amending act, articles numbered in sequence, in-force day from the "
+                    f"PIS or the act's own in-force sentence (every such sentence agreeing).\n")
         if not pub.exists() or pub.read_text(encoding="utf-8") != line:
             pub.write_text(line, encoding="utf-8", newline="\n")
         written.append((name, len(p["acts"])))
