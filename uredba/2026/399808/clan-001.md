@@ -1,0 +1,2 @@
+# Član 1
+U Uredbi o organizaciji i načinu rada državne uprave ("Službeni list CG", br. 98/23, 102/23, 113/23, 71/24, 72/24, 90/24, 93/24, 104/24, 117/24, 39/25, 97/25, 148/25, 164/25, 27/26 i 62/26) u članu 20 poslije riječi: "sprovođenje projekata tehničke podrške Evropske unije;" dodaju se riječi: "verifikaciju troškova, provjeru zakonitosti i prihvatljivosti troškova u okviru prvog nivoa kontrole u programima evropske teritorijalne saradnje (Interreg) u kojima učestvuje Crna Gora;".
