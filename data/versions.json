@@ -104,6 +104,36 @@
    ]
   },
   {
+   "slug": "pravilnik-1992-363432",
+   "path": "pravilnik/1992/363432",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i postupku dodjeljivanja specijalizacija.",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i postupku dodjeljivanja specijalizacija.",
+   "url": "https://www.sluzbenilist.me/propisi/363432",
+   "versions": [
+    {
+     "from": "1992-05-16",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/363432/download",
+     "sha256": "8fb500fc2a13d297641b66d8f92026b35aa50a6d62c38a4fef80ae610b3425fc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1996-363459",
+   "path": "pravilnik/1996/363459",
+   "short": "Pravilnik o dodjeljivanju nagrade za doprinos u zaštitii i razvoju nacionalnih parkova - Eko nagrade",
+   "title": "Pravilnik o dodjeljivanju nagrade za doprinos u zaštitii i razvoju nacionalnih parkova - Eko nagrade",
+   "url": "https://www.sluzbenilist.me/propisi/363459",
+   "versions": [
+    {
+     "from": "1996-08-11",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/363459/download",
+     "sha256": "3ea11e1388935b323f027dbb335c66eb1d8f6d50c12c23a34de3d99d581ed27a"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2011-303264",
    "path": "pravilnik/2011/303264",
    "short": "Pravilnik o utvrdjivanju iznosa najpopularnije cijene cigareta",
@@ -115,6 +145,3246 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.me/propisi/303264/download",
      "sha256": "5db55f5bbef362d065563002d39c2860281aa6cedffb69ecd17cc171ee61bc28"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-369320",
+   "path": "pravilnik/2021/369320",
+   "short": "Pravilnik o tehničkim zahtjevima EKO dizajna za računare*",
+   "title": "Pravilnik o tehničkim zahtjevima EKO dizajna za računare*",
+   "url": "https://www.sluzbenilist.me/propisi/369320",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/369320/download",
+     "sha256": "1f937ffe9db4c4d25abbf3dcc0dd823c5ce2758e500b3c32bb8e52cda811c166"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-369323",
+   "path": "pravilnik/2021/369323",
+   "short": "Pravilnik o tehničkim i metrološkim uslovima, stručnom kadru i postupku ovlašćivanja lica za pripremu manometara za mjerenje pritiska u pneumaticima za ovjeravanje",
+   "title": "Pravilnik o tehničkim i metrološkim uslovima, stručnom kadru i postupku ovlašćivanja lica za pripremu manometara za mjerenje pritiska u pneumaticima za ovjeravanje",
+   "url": "https://www.sluzbenilist.me/propisi/369323",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/369323/download",
+     "sha256": "8c2fcfaa4f30f2570cb71ca73f5dfca70ef06b256c26a25b3d1a5b653a9ba915"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-369329",
+   "path": "pravilnik/2021/369329",
+   "short": "Pravilnik o tehničkim zahtjevima EKO dizajna za servere i uređaje za skladištenje podataka*",
+   "title": "Pravilnik o tehničkim zahtjevima EKO dizajna za servere i uređaje za skladištenje podataka*",
+   "url": "https://www.sluzbenilist.me/propisi/369329",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/369329/download",
+     "sha256": "7c8ecbc3cb31fd68f5f0bdd49a664fb10931cc60d01d0f629aff885888764d34"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-369331",
+   "path": "pravilnik/2021/369331",
+   "short": "Pravilnik o vrstama mjerila za ovjeravanje i pripremu mjerila za ovjeravanje",
+   "title": "Pravilnik o vrstama mjerila za ovjeravanje i pripremu mjerila za ovjeravanje",
+   "url": "https://www.sluzbenilist.me/propisi/369331",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/369331/download",
+     "sha256": "94261b424e1ea35b13e6c885ec2b3c01385c52f9208f712601cc66c3595c500d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-369342",
+   "path": "pravilnik/2021/369342",
+   "short": "Pravilnik o tehničkim i metrološkim uslovima, stručnom kadru i postupku ovlašćivanja lica za pripremu manometara, vakuumetara i manovakuumetara za ovjeravanje",
+   "title": "Pravilnik o tehničkim i metrološkim uslovima, stručnom kadru i postupku ovlašćivanja lica za pripremu manometara, vakuumetara i manovakuumetara za ovjeravanje",
+   "url": "https://www.sluzbenilist.me/propisi/369342",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/369342/download",
+     "sha256": "381f2fe609c545e2b553858ff03416a91167cebe1db8b71cde846eb4393885f7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-369347",
+   "path": "pravilnik/2021/369347",
+   "short": "Pravilnik o izmjenama Pravilnika o vrsti proizvoda koji utiču na potrošnju energije za koje je obavezno označavanje energetske efikasnosti",
+   "title": "Pravilnik o izmjenama Pravilnika o vrsti proizvoda koji utiču na potrošnju energije za koje je obavezno označavanje energetske efikasnosti",
+   "url": "https://www.sluzbenilist.me/propisi/369347",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/369347/download",
+     "sha256": "d110ad01d9aa28c049140e06a3b6654c28f9c65dc369f59d263546310f997d3d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-369741",
+   "path": "pravilnik/2021/369741",
+   "short": "Pravilnik o izmjeni pravilnika o kategorijama plovidbe brodova",
+   "title": "Pravilnik o izmjeni pravilnika o kategorijama plovidbe brodova",
+   "url": "https://www.sluzbenilist.me/propisi/369741",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/369741/download",
+     "sha256": "54fe98a86b392015f799ebf9b24de467adfc8c7a3487357acc661010da6a60d4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360220",
+   "path": "pravilnik/2023/360220",
+   "short": "Pravilnik o obrascu Izvještaja o uplaćenom porezu po odbitku na isplate izvršene po osnovu zajma fizičkim licima",
+   "title": "Pravilnik o obrascu Izvještaja o uplaćenom porezu po odbitku na isplate izvršene po osnovu zajma fizičkim licima",
+   "url": "https://www.sluzbenilist.me/propisi/360220",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/360220/download",
+     "sha256": "44ea0b7f0729225a5899f54790c7a7cb9b8e1aa9ed4c530be7f74ac196e11865"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360267",
+   "path": "pravilnik/2023/360267",
+   "short": "Pravilnik o sadržaju godišnjeg izvještaja o postupanju u upravnim stvarima i bližem sadržaju i načinu vođenja evidencije o postupanju u upravnim stvarima",
+   "title": "Pravilnik o sadržaju godišnjeg izvještaja o postupanju u upravnim stvarima i bližem sadržaju i načinu vođenja evidencije o postupanju u upravnim stvarima",
+   "url": "https://www.sluzbenilist.me/propisi/360267",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/360267/download",
+     "sha256": "0c7d164883ef4b2c436a3a7bf9ff3454dd930d9c580c00a39aa2e70c78ff3a9c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360756",
+   "path": "pravilnik/2023/360756",
+   "short": "Pravilnik o izmjenama Pravilnika o bližim uslovima za unos pošiljki proizvoda životinjskog porijekla i hrane za kućne ljubimce koju unose putnici kao ličnu pošiljku*",
+   "title": "Pravilnik o izmjenama Pravilnika o bližim uslovima za unos pošiljki proizvoda životinjskog porijekla i hrane za kućne ljubimce koju unose putnici kao ličnu pošiljku*",
+   "url": "https://www.sluzbenilist.me/propisi/360756",
+   "versions": [
+    {
+     "from": "2023-07-08",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/360756/download",
+     "sha256": "2c97bb1dd2e057da642e597d0c666ec99dedc43b368a50482037fd0019f32a24"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360767",
+   "path": "pravilnik/2023/360767",
+   "short": "Pravilnik o bezbjednosti opreme koja se koristi na dječjem igralištu",
+   "title": "Pravilnik o bezbjednosti opreme koja se koristi na dječjem igralištu",
+   "url": "https://www.sluzbenilist.me/propisi/360767",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.me/propisi/360767/download",
+     "sha256": "7294008a0cb265d3a0104cca4a499b807f4c1d60c3b2d1f85e3e9d99b59981a5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360768",
+   "path": "pravilnik/2023/360768",
+   "short": "Pravilnik o bezbjednosti opreme koja se koristi u ugostiteljskom objektu u kojem se pružaju usluge igranja djece",
+   "title": "Pravilnik o bezbjednosti opreme koja se koristi u ugostiteljskom objektu u kojem se pružaju usluge igranja djece",
+   "url": "https://www.sluzbenilist.me/propisi/360768",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.me/propisi/360768/download",
+     "sha256": "4f64e413196b38e593d8ee6887960293241d9d4a511d54ad147879cf0efd8196"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360769",
+   "path": "pravilnik/2023/360769",
+   "short": "Pravilnik o tehničkim zahtjevima eko dizajna za elektromotore i pogone sa promjenljivom brzinom*",
+   "title": "Pravilnik o tehničkim zahtjevima eko dizajna za elektromotore i pogone sa promjenljivom brzinom*",
+   "url": "https://www.sluzbenilist.me/propisi/360769",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/360769/download",
+     "sha256": "3878de037a8b0c69d0ab3f58d59c4ff709f2a0fa124604aba3a34e0d466c3262"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360770",
+   "path": "pravilnik/2023/360770",
+   "short": "Pravilnik o tehničkim zahtjevima eko dizajna za rashladne uređaje sa funkcijom direktne prodaje*",
+   "title": "Pravilnik o tehničkim zahtjevima eko dizajna za rashladne uređaje sa funkcijom direktne prodaje*",
+   "url": "https://www.sluzbenilist.me/propisi/360770",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/360770/download",
+     "sha256": "e97f2bf78a38f5646e292a3bf8715ae26bae406b71e76e03f16821a2c1b9d062"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360771",
+   "path": "pravilnik/2023/360771",
+   "short": "Pravilnik o označavanju energetske efikasnosti rashladnih uređaja sa funkcijom direktne prodaje*",
+   "title": "Pravilnik o označavanju energetske efikasnosti rashladnih uređaja sa funkcijom direktne prodaje*",
+   "url": "https://www.sluzbenilist.me/propisi/360771",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.me/propisi/360771/download",
+     "sha256": "990dafe330491b15a6008005f63bd05a48237adf71c709562f7ab2b074c180cf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360784",
+   "path": "pravilnik/2023/360784",
+   "short": "Pravilnik o vođenju evidencije privrednih subjekata koji mogu da učestvuju u NATO tenderima",
+   "title": "Pravilnik o vođenju evidencije privrednih subjekata koji mogu da učestvuju u NATO tenderima",
+   "url": "https://www.sluzbenilist.me/propisi/360784",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/360784/download",
+     "sha256": "4809a36e3761407130b0b14afeabce0d6806fb718bfa7982674036168c4a0995"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360810",
+   "path": "pravilnik/2023/360810",
+   "short": "Pravilnik o obrascu prijave za kvalifikaciju u postupku javnih nabavki",
+   "title": "Pravilnik o obrascu prijave za kvalifikaciju u postupku javnih nabavki",
+   "url": "https://www.sluzbenilist.me/propisi/360810",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/360810/download",
+     "sha256": "ed1f44f5a2944ec7f83a8fea18b9890ec390973c3e412afca8987f32e7cf927d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360834",
+   "path": "pravilnik/2023/360834",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o fitosanitarnim mjerama za sprečavanje unošenja i širenja virusa smeđe naboranosti ploda paradajza - tomato brown rugose fruit virus (ToBRFV)*",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o fitosanitarnim mjerama za sprečavanje unošenja i širenja virusa smeđe naboranosti ploda paradajza - tomato brown rugose fruit virus (ToBRFV)*",
+   "url": "https://www.sluzbenilist.me/propisi/360834",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/360834/download",
+     "sha256": "3fc34352dd8edda64e2eaafb1b49788c11b4b05dd957b8fe8a43d7085d0fea6c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360854",
+   "path": "pravilnik/2023/360854",
+   "short": "Pravilnik o dopuni Pravilnika o obrascu izjave privrednog subjekta",
+   "title": "Pravilnik o dopuni Pravilnika o obrascu izjave privrednog subjekta",
+   "url": "https://www.sluzbenilist.me/propisi/360854",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/360854/download",
+     "sha256": "bc844fbe485fc34d4e44c2e7c4e63d470424907103dde904e050c2fd2854bc52"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360862",
+   "path": "pravilnik/2023/360862",
+   "short": "Pravilnik o sadržaju i načinu obilježavanja pakovanja veterinarskog lijeka i sadržaju uputstva za veterinarski lijek*",
+   "title": "Pravilnik o sadržaju i načinu obilježavanja pakovanja veterinarskog lijeka i sadržaju uputstva za veterinarski lijek*",
+   "url": "https://www.sluzbenilist.me/propisi/360862",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.me/propisi/360862/download",
+     "sha256": "5a5ebfd371c61b1576022ccf91c1db6060afc5d35ffd81bf9a9d8bf22897d36f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-360866",
+   "path": "pravilnik/2023/360866",
+   "short": "Pravilnik o dopunama Pravilnika o uslovima za polaganje, načinu polaganja i programu stručnog ispita za obavljanje poslova ovlašćenog aktuara",
+   "title": "Pravilnik o dopunama Pravilnika o uslovima za polaganje, načinu polaganja i programu stručnog ispita za obavljanje poslova ovlašćenog aktuara",
+   "url": "https://www.sluzbenilist.me/propisi/360866",
+   "versions": [
+    {
+     "from": "2023-08-19",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/360866/download",
+     "sha256": "10c5ff3f1cb5d2db5389984b42966a04065ebec5191cab893f5ce1b08987165f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-361835",
+   "path": "pravilnik/2023/361835",
+   "short": "Pravilnik o sadržaju projekata geoloških istraživanja",
+   "title": "Pravilnik o sadržaju projekata geoloških istraživanja",
+   "url": "https://www.sluzbenilist.me/propisi/361835",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.me/propisi/361835/download",
+     "sha256": "52ff4b50ba1f3e56ddac1622935f00ae55a1a7e81821b0957b23a94394ca7300"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-361881",
+   "path": "pravilnik/2023/361881",
+   "short": "Pravilnik o raspodjeli sredstava iz Fonda za podršku talenata",
+   "title": "Pravilnik o raspodjeli sredstava iz Fonda za podršku talenata",
+   "url": "https://www.sluzbenilist.me/propisi/361881",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.me/propisi/361881/download",
+     "sha256": "a00292af7aa70633cbe6db248c5d146ad71b8650a7491ebcbe29422dba34cb1a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-361917",
+   "path": "pravilnik/2023/361917",
+   "short": "Pravilnik o bližem načinu upotrebe sredstava za snimanje saobraćaja i njihovim tehničkim karakteristikama",
+   "title": "Pravilnik o bližem načinu upotrebe sredstava za snimanje saobraćaja i njihovim tehničkim karakteristikama",
+   "url": "https://www.sluzbenilist.me/propisi/361917",
+   "versions": [
+    {
+     "from": "2023-08-12",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/361917/download",
+     "sha256": "9b77531d42ff947b5d2ad42bb3f1bdef7eb59304f856f60299567cf2c4d46ef1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-361986",
+   "path": "pravilnik/2023/361986",
+   "short": "Pravilnik o dopuni Pravilnika o bližim kriterijumima za obrazovanje komisije za sprovođenje postupka javne nabavke",
+   "title": "Pravilnik o dopuni Pravilnika o bližim kriterijumima za obrazovanje komisije za sprovođenje postupka javne nabavke",
+   "url": "https://www.sluzbenilist.me/propisi/361986",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/361986/download",
+     "sha256": "7366818e63e1e540845be3a01b5d1878af7484dd5409fba023420b9725098e0d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-361997",
+   "path": "pravilnik/2023/361997",
+   "short": "Pravilnik o uslovima za izradu tehničke dokumentacije za zgrade u kojima se obavlja kancelarijsko poslovanje",
+   "title": "Pravilnik o uslovima za izradu tehničke dokumentacije za zgrade u kojima se obavlja kancelarijsko poslovanje",
+   "url": "https://www.sluzbenilist.me/propisi/361997",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/361997/download",
+     "sha256": "7bfef0eac6acfa49852b52ec7ba7201518fc3ec622e12721d86dc2024d42664c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-362012",
+   "path": "pravilnik/2023/362012",
+   "short": "Pravilnik o izmjeni Pravilnika o minimalnom broju članova posade broda",
+   "title": "Pravilnik o izmjeni Pravilnika o minimalnom broju članova posade broda",
+   "url": "https://www.sluzbenilist.me/propisi/362012",
+   "versions": [
+    {
+     "from": "2023-10-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/362012/download",
+     "sha256": "a4545e9128914a55e6748f6016fb0a5fe0616023bb09f785c546599e425bb109"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-362324",
+   "path": "pravilnik/2023/362324",
+   "short": "Pravilnik o načinu izdavanja i sadržaju potvrde o nastupanju privremene spriječenosti za rad",
+   "title": "Pravilnik o načinu izdavanja i sadržaju potvrde o nastupanju privremene spriječenosti za rad",
+   "url": "https://www.sluzbenilist.me/propisi/362324",
+   "versions": [
+    {
+     "from": "2023-12-02",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/362324/download",
+     "sha256": "261e6c0bf270b58f8137591437e1dba894a2392587d385247e28bb8487774e3f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-362369",
+   "path": "pravilnik/2023/362369",
+   "short": "Pravilnik o izmjeni Pravilnika o označavanju energetske efikasnosti izvora svjetlosti*",
+   "title": "Pravilnik o izmjeni Pravilnika o označavanju energetske efikasnosti izvora svjetlosti*",
+   "url": "https://www.sluzbenilist.me/propisi/362369",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/362369/download",
+     "sha256": "e6844faf4dcb4526787d538c1f234e0c5202aade26dedcd91313c0dc9b319f66"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-362423",
+   "path": "pravilnik/2023/362423",
+   "short": "Pravilnik o tehničkim zahtjevima eko dizajna za spoljne uređaje za električno napajanje*",
+   "title": "Pravilnik o tehničkim zahtjevima eko dizajna za spoljne uređaje za električno napajanje*",
+   "url": "https://www.sluzbenilist.me/propisi/362423",
+   "versions": [
+    {
+     "from": "2023-11-04",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/362423/download",
+     "sha256": "3de12d5bf066481958aa9e3950de7e8f52877e13fbc3a4215bfd954b1d79d648"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-362476",
+   "path": "pravilnik/2023/362476",
+   "short": "Pravilnik o bližem načinu i postupku povraćaja doprinosa za obavezno penzijsko i invalidsko osiguranje",
+   "title": "Pravilnik o bližem načinu i postupku povraćaja doprinosa za obavezno penzijsko i invalidsko osiguranje",
+   "url": "https://www.sluzbenilist.me/propisi/362476",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/362476/download",
+     "sha256": "b55375787206562fb4bd65ccc3061129c9136960d140aac284dd8d5d095360dc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-362526",
+   "path": "pravilnik/2023/362526",
+   "short": "Pravilnik o izmjeni Pravilnika o obliku, sadržini i izgledu oznaka i signalizacije kojima se upozorava na približavanje graničnoj liniji i označava granični prelaz i njegovo područje",
+   "title": "Pravilnik o izmjeni Pravilnika o obliku, sadržini i izgledu oznaka i signalizacije kojima se upozorava na približavanje graničnoj liniji i označava granični prelaz i njegovo područje",
+   "url": "https://www.sluzbenilist.me/propisi/362526",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/362526/download",
+     "sha256": "259da4a049e6e33a0053bdc9530b8020d0331390185a25e1fc01cc96b7cc366d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-362624",
+   "path": "pravilnik/2023/362624",
+   "short": "Pravilnik o tehničkim zahtjevima eko dizajna opreme za zavarivanje*",
+   "title": "Pravilnik o tehničkim zahtjevima eko dizajna opreme za zavarivanje*",
+   "url": "https://www.sluzbenilist.me/propisi/362624",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/362624/download",
+     "sha256": "07a385e73ae47301f8df267cda5a90db600b20ac85e976414a6168bab638561f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-362628",
+   "path": "pravilnik/2023/362628",
+   "short": "Pravilnik o izmjeni Pravilnika o utvrđivanju liste stepena razvijenosti jedinice lokalne samouprave",
+   "title": "Pravilnik o izmjeni Pravilnika o utvrđivanju liste stepena razvijenosti jedinice lokalne samouprave",
+   "url": "https://www.sluzbenilist.me/propisi/362628",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/362628/download",
+     "sha256": "1bb6f2155b7f429bc3cc627a10f365210e4c24a4546fc2a30ad53939da57bd02"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-362742",
+   "path": "pravilnik/2023/362742",
+   "short": "Pravilnik o tehničkim zahtjevima eko dizajna transformatora snage*",
+   "title": "Pravilnik o tehničkim zahtjevima eko dizajna transformatora snage*",
+   "url": "https://www.sluzbenilist.me/propisi/362742",
+   "versions": [
+    {
+     "from": "2023-11-04",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.me/propisi/362742/download",
+     "sha256": "d23d91b7bd67a4e550949ba0b135bb57fc50b34f49753b6e7b6334010e5abfeb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-363260",
+   "path": "pravilnik/2023/363260",
+   "short": "Pravilnik o dopunama Pravilnika o pravilima boravka i kućnom redu u Centru za prihvat",
+   "title": "Pravilnik o dopunama Pravilnika o pravilima boravka i kućnom redu u Centru za prihvat",
+   "url": "https://www.sluzbenilist.me/propisi/363260",
+   "versions": [
+    {
+     "from": "2023-05-13",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/363260/download",
+     "sha256": "2fa7c4a62d238660fccf4dbe7b44f91b8f512f8bcf96cbdbecd5f86a49062e2f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-363264",
+   "path": "pravilnik/2023/363264",
+   "short": "Pravilnik o iznosu kamatne stope koja se obračunava na finansijske instrumente između povezanih lica za 2024. godinu",
+   "title": "Pravilnik o iznosu kamatne stope koja se obračunava na finansijske instrumente između povezanih lica za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/363264",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/363264/download",
+     "sha256": "efaf9adf4d6d50d6e82abd525b8018122f99327b8f3a3925c63d9ef4fcbe6b4d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-363266",
+   "path": "pravilnik/2023/363266",
+   "short": "Pravilnik o obilježavanju i sadržaju uputstva za upotrebu medicinskog sredstva",
+   "title": "Pravilnik o obilježavanju i sadržaju uputstva za upotrebu medicinskog sredstva",
+   "url": "https://www.sluzbenilist.me/propisi/363266",
+   "versions": [
+    {
+     "from": "2023-05-13",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/363266/download",
+     "sha256": "22032c41b0c81c8a3881365fdeab4e202c23457dc377ed37b53900b13a6a36a8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-364945",
+   "path": "pravilnik/2023/364945",
+   "short": "Pravilnik o izmjenama Pravilnika o izgledu i sadržaju izjave o svojstvima građevinskog proizvoda",
+   "title": "Pravilnik o izmjenama Pravilnika o izgledu i sadržaju izjave o svojstvima građevinskog proizvoda",
+   "url": "https://www.sluzbenilist.me/propisi/364945",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/364945/download",
+     "sha256": "9a25dcfa1b4ef87e108a563d71d4848c4d263bb5367cf6da22c8c07e94bfc821"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-364959",
+   "path": "pravilnik/2023/364959",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o načinu označavanja građevinskog proizvoda",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o načinu označavanja građevinskog proizvoda",
+   "url": "https://www.sluzbenilist.me/propisi/364959",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/364959/download",
+     "sha256": "edb045fcc67481dd7296bee51f841cd5b9deca5abde439d50be7674a8bae83fe"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-364974",
+   "path": "pravilnik/2023/364974",
+   "short": "Pravilnik o izmjeni Pravilnika o sadržaju prijave za obračun poreza na promet nepokretnosti",
+   "title": "Pravilnik o izmjeni Pravilnika o sadržaju prijave za obračun poreza na promet nepokretnosti",
+   "url": "https://www.sluzbenilist.me/propisi/364974",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/364974/download",
+     "sha256": "4bc231abdb513059ae5218f4e19dbdf2a8db1ccd1740997b90ce46f646068c4b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-364979",
+   "path": "pravilnik/2023/364979",
+   "short": "Pravilnik o izmjeni Pravilnika o obrascu plana javnih nabavki",
+   "title": "Pravilnik o izmjeni Pravilnika o obrascu plana javnih nabavki",
+   "url": "https://www.sluzbenilist.me/propisi/364979",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/364979/download",
+     "sha256": "dd84b7b3f921193b5c39b2e032c30b208634129e60d7a7461911f8ad56892a11"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-364999",
+   "path": "pravilnik/2023/364999",
+   "short": "Pravilnik o izgledu, tehničkim karakteristikama, vrsti materijala, načinu nošenja i rokovima trajanja uniformi policijskih službenika za izvršavanje posebnih zadataka",
+   "title": "Pravilnik o izgledu, tehničkim karakteristikama, vrsti materijala, načinu nošenja i rokovima trajanja uniformi policijskih službenika za izvršavanje posebnih zadataka",
+   "url": "https://www.sluzbenilist.me/propisi/364999",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 74,
+     "source_url": "https://www.sluzbenilist.me/propisi/364999/download",
+     "sha256": "f5e4c4a1bc109a83cb85daefff1707510eb69740c3e68269d80345137450ee8f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-365035",
+   "path": "pravilnik/2023/365035",
+   "short": "Pravilnik izmjenama i dopunama Pravilnika o visini, načinu utvrđivanja i plaćanja naknada po osnovu izdatih odobrenja za pružanje audiovizuelnih medijskih usluga",
+   "title": "Pravilnik izmjenama i dopunama Pravilnika o visini, načinu utvrđivanja i plaćanja naknada po osnovu izdatih odobrenja za pružanje audiovizuelnih medijskih usluga",
+   "url": "https://www.sluzbenilist.me/propisi/365035",
+   "versions": [
+    {
+     "from": "2023-12-30",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/365035/download",
+     "sha256": "b0674b5d21af10372957976fc70fca4b4870c231cb003dc8a6ee0c0253efc69d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-365277",
+   "path": "pravilnik/2023/365277",
+   "short": "Pravilnik o usklađivanju iznosa najviše godišnje osnovice za plaćanje doprinosa za 2023. godinu",
+   "title": "Pravilnik o usklađivanju iznosa najviše godišnje osnovice za plaćanje doprinosa za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/365277",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/365277/download",
+     "sha256": "b7944241ce062593f7bba439d7c45719c721fbc02d98ed8890b2c40281f04879"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-363330",
+   "path": "pravilnik/2024/363330",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o obliku, sadržini i postupku izdavanja potvrde o rezidentnosti u poreske svrhe",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o obliku, sadržini i postupku izdavanja potvrde o rezidentnosti u poreske svrhe",
+   "url": "https://www.sluzbenilist.me/propisi/363330",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/363330/download",
+     "sha256": "f3b3da4cc04cfd645e339cae2d776fb2f262dbe052bae28f423f04c7f84b0626"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-365320",
+   "path": "pravilnik/2024/365320",
+   "short": "Pravilnik o osnovnim zahtjevima za medicinska sredstva*",
+   "title": "Pravilnik o osnovnim zahtjevima za medicinska sredstva*",
+   "url": "https://www.sluzbenilist.me/propisi/365320",
+   "versions": [
+    {
+     "from": "2024-02-10",
+     "units": 36,
+     "source_url": "https://www.sluzbenilist.me/propisi/365320/download",
+     "sha256": "c6c37d35adfdd8f5ecf5c0a96606055358982a9dea883d741e148dce6bd76812"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-365327",
+   "path": "pravilnik/2024/365327",
+   "short": "Pravilnik o izmjeni Pravilnika o načinu i postupku raspisivanja i sprovođenja javnog konkursa za idejno arhitektonsko rješenje",
+   "title": "Pravilnik o izmjeni Pravilnika o načinu i postupku raspisivanja i sprovođenja javnog konkursa za idejno arhitektonsko rješenje",
+   "url": "https://www.sluzbenilist.me/propisi/365327",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/365327/download",
+     "sha256": "37819dfdb3f9dcc84516d8e2923e498b723bd9415ed9023596f5a6d114a2890c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-365691",
+   "path": "pravilnik/2024/365691",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i postupku polaganja stručnog ispita za učenike koji nastavljaju obrazovanje",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i postupku polaganja stručnog ispita za učenike koji nastavljaju obrazovanje",
+   "url": "https://www.sluzbenilist.me/propisi/365691",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 25,
+     "source_url": "https://www.sluzbenilist.me/propisi/365691/download",
+     "sha256": "31f8d74be08a1d791e633f54426d9bebc44a336dc69b5d75175635e9a8e7e4dd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-366070",
+   "path": "pravilnik/2024/366070",
+   "short": "Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnog organizma Spodoptera frugiperda (Smith)*",
+   "title": "Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnog organizma Spodoptera frugiperda (Smith)*",
+   "url": "https://www.sluzbenilist.me/propisi/366070",
+   "versions": [
+    {
+     "from": "2024-02-24",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.me/propisi/366070/download",
+     "sha256": "12e5d1440e54105f22ce406a0fd6b286afb7ba1d7a8f24ebd335adcaf72e6e94"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-366080",
+   "path": "pravilnik/2024/366080",
+   "short": "Pravilnik o dopunama Pravilnika o određivanju i održavanju zona i pojaseva sanitarne zaštite izvorišta i ograničenjima u tim zonama",
+   "title": "Pravilnik o dopunama Pravilnika o određivanju i održavanju zona i pojaseva sanitarne zaštite izvorišta i ograničenjima u tim zonama",
+   "url": "https://www.sluzbenilist.me/propisi/366080",
+   "versions": [
+    {
+     "from": "2024-02-24",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/366080/download",
+     "sha256": "f6e49560d9cdfc324ac6ac1ebe764c7b0b1631781c1dbfa193514fdf0af2ebc3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-366148",
+   "path": "pravilnik/2024/366148",
+   "short": "Pravilnik o dopuni Pravilnika o uslovima za koordinisano uvođenje data link usluga u Jedinstveno evropsko nebo",
+   "title": "Pravilnik o dopuni Pravilnika o uslovima za koordinisano uvođenje data link usluga u Jedinstveno evropsko nebo",
+   "url": "https://www.sluzbenilist.me/propisi/366148",
+   "versions": [
+    {
+     "from": "2024-02-24",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/366148/download",
+     "sha256": "5cb0a6f9d49594ad0e0184be57964cbff58912646c33c0b28485b34e02c84a78"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-366150",
+   "path": "pravilnik/2024/366150",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o koordinisanom uvođenju govorne komunikacije sa razmakom govornih kanala od 8,33 kHz za Jedinstveno evropsko nebo",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o koordinisanom uvođenju govorne komunikacije sa razmakom govornih kanala od 8,33 kHz za Jedinstveno evropsko nebo",
+   "url": "https://www.sluzbenilist.me/propisi/366150",
+   "versions": [
+    {
+     "from": "2024-02-24",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/366150/download",
+     "sha256": "0c5db7f2b10474facb090fd03d899592f501a8ddaa22bf64351ab0fe93218649"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-366183",
+   "path": "pravilnik/2024/366183",
+   "short": "Pravilnik o načinu raspodjele sredstava opštinama na ime dotacija",
+   "title": "Pravilnik o načinu raspodjele sredstava opštinama na ime dotacija",
+   "url": "https://www.sluzbenilist.me/propisi/366183",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/366183/download",
+     "sha256": "28c6faebf60b9968a13092ad86ff4abc0184048ed4df9d2d180b17fa3164bac5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-366257",
+   "path": "pravilnik/2024/366257",
+   "short": "Pravilnik o izmjeni Pravilnika o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnih organizama bilja, biljnih proizvoda i objekata pod nadzorom*",
+   "title": "Pravilnik o izmjeni Pravilnika o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnih organizama bilja, biljnih proizvoda i objekata pod nadzorom*",
+   "url": "https://www.sluzbenilist.me/propisi/366257",
+   "versions": [
+    {
+     "from": "2024-03-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/366257/download",
+     "sha256": "3c28d39cf7715c001bb797fc5355f1d927a5ccaa241ad672dd1fceb155c1273a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-366283",
+   "path": "pravilnik/2024/366283",
+   "short": "Pravilnik o pružanju pomoći državnim i drugim organima u postupku izvršenja njihovih odluka",
+   "title": "Pravilnik o pružanju pomoći državnim i drugim organima u postupku izvršenja njihovih odluka",
+   "url": "https://www.sluzbenilist.me/propisi/366283",
+   "versions": [
+    {
+     "from": "2024-03-02",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/366283/download",
+     "sha256": "8f58bfe37a7f5309c2c476be8d0e45add0b83ce4f9198c03beb57234c10e08b4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-366376",
+   "path": "pravilnik/2024/366376",
+   "short": "Pravilnik o bezbjednosnim smetnjama za rad u Vojsci Crne Gore i Ministarstvu odbrane",
+   "title": "Pravilnik o bezbjednosnim smetnjama za rad u Vojsci Crne Gore i Ministarstvu odbrane",
+   "url": "https://www.sluzbenilist.me/propisi/366376",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/366376/download",
+     "sha256": "a9331ff23351cb391ed963bc3bde4c79e4414648d3c11c07eca2b44db8602bd2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-366911",
+   "path": "pravilnik/2024/366911",
+   "short": "Pravilnik o bližim uslovima za izdavanje, obnavljanje i oduzimanje licence za rad stručnim radnicima u oblasti socijalne i dječje zaštite",
+   "title": "Pravilnik o bližim uslovima za izdavanje, obnavljanje i oduzimanje licence za rad stručnim radnicima u oblasti socijalne i dječje zaštite",
+   "url": "https://www.sluzbenilist.me/propisi/366911",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/366911/download",
+     "sha256": "77de9c4ddbedbbf2eaa756783c3d10014c889383b096d4a77494cecdb53bc9f5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-367249",
+   "path": "pravilnik/2024/367249",
+   "short": "Pravilnik o bližim kriterijumima za izradu smjernica za analizu rizika i smjernica za uspostavljanje sistema upravljanja rizikom od pranja novca i finansiranja terorizma",
+   "title": "Pravilnik o bližim kriterijumima za izradu smjernica za analizu rizika i smjernica za uspostavljanje sistema upravljanja rizikom od pranja novca i finansiranja terorizma",
+   "url": "https://www.sluzbenilist.me/propisi/367249",
+   "versions": [
+    {
+     "from": "2024-03-23",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/367249/download",
+     "sha256": "6df1e30772043d9408288aff23d3e06814a6eb5debe3d221f0cc4af83af8bc66"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-367297",
+   "path": "pravilnik/2024/367297",
+   "short": "Pravilnik o uslovima koje moraju da ispunjavaju prostorije za zadržavanje lica lišenih slobode i zadržanih lica",
+   "title": "Pravilnik o uslovima koje moraju da ispunjavaju prostorije za zadržavanje lica lišenih slobode i zadržanih lica",
+   "url": "https://www.sluzbenilist.me/propisi/367297",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/367297/download",
+     "sha256": "5cba3636dcbee50c9e99155e9e48647570c3263e37fdcbc42abc1b367edac342"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-367321",
+   "path": "pravilnik/2024/367321",
+   "short": "Pravilnik o izmjeni Pravilnika o bližim uslovima za utvrđivanje zdravstvene sposobnosti pomoraca",
+   "title": "Pravilnik o izmjeni Pravilnika o bližim uslovima za utvrđivanje zdravstvene sposobnosti pomoraca",
+   "url": "https://www.sluzbenilist.me/propisi/367321",
+   "versions": [
+    {
+     "from": "2024-03-16",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/367321/download",
+     "sha256": "e094e4da2ef9f0e1095d4efb5b14937e315b3f4e433d1def5967cac03e081a3a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-367463",
+   "path": "pravilnik/2024/367463",
+   "short": "Pravilnik o bližim uslovima i načinu izdavanja odobrenja za privremeno iznošenje kulturnih dobara, antikviteta i umjetnina u inostranstvo",
+   "title": "Pravilnik o bližim uslovima i načinu izdavanja odobrenja za privremeno iznošenje kulturnih dobara, antikviteta i umjetnina u inostranstvo",
+   "url": "https://www.sluzbenilist.me/propisi/367463",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/367463/download",
+     "sha256": "d3f2a7cd6dbc1211ad8f32db0d0d68910219d57465b8dfc9af5ef17716aa10d1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-367474",
+   "path": "pravilnik/2024/367474",
+   "short": "Pravilnik o načinu dostavljanja podataka, informacija, dokumentacije, obrazloženja i obavještenja finansijsko-obavještajnoj jedinici",
+   "title": "Pravilnik o načinu dostavljanja podataka, informacija, dokumentacije, obrazloženja i obavještenja finansijsko-obavještajnoj jedinici",
+   "url": "https://www.sluzbenilist.me/propisi/367474",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/367474/download",
+     "sha256": "5ab5186bfff317965580d6ae5c7495ac2fda2444f41911e7fc00d9ba1a549227"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-367636",
+   "path": "pravilnik/2024/367636",
+   "short": "Pravilnik o obliku i sadržini izvještaja o obračunatom i plaćenom porezu po odbitku na prihode koje ostvari rezidentno i nerezidentno pravno lice",
+   "title": "Pravilnik o obliku i sadržini izvještaja o obračunatom i plaćenom porezu po odbitku na prihode koje ostvari rezidentno i nerezidentno pravno lice",
+   "url": "https://www.sluzbenilist.me/propisi/367636",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/367636/download",
+     "sha256": "484fe615129e60f789ff47724bfe4ec38132ade72378756bea67efbb57e7d128"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-367670",
+   "path": "pravilnik/2024/367670",
+   "short": "Pravilnik o obrascu zahtjeva za izdavanje odobrenja i utvrđivanju ispunjenosti uslova za sprovođenje identifikacije elektronskim putem i video-elektronske identifikacije",
+   "title": "Pravilnik o obrascu zahtjeva za izdavanje odobrenja i utvrđivanju ispunjenosti uslova za sprovođenje identifikacije elektronskim putem i video-elektronske identifikacije",
+   "url": "https://www.sluzbenilist.me/propisi/367670",
+   "versions": [
+    {
+     "from": "2024-04-06",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/367670/download",
+     "sha256": "903a355f1aad3619d625d1161cd0eb38fdab87e1c36bf50ab7b2229fe89a399d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-367764",
+   "path": "pravilnik/2024/367764",
+   "short": "Pravilnik o izmjeni Pravilnika o bližim uslovima, postupku i sadržini medicinske dokumentacije za ostvarivanje prava na liječenje neplodnosti primjenom postupaka medicinski potpomognute oplodnje žene koja ne živi u bračnoj, odnosno vanbračnoj zajednici",
+   "title": "Pravilnik o izmjeni Pravilnika o bližim uslovima, postupku i sadržini medicinske dokumentacije za ostvarivanje prava na liječenje neplodnosti primjenom postupaka medicinski potpomognute oplodnje žene koja ne živi u bračnoj, odnosno vanbračnoj zajednici",
+   "url": "https://www.sluzbenilist.me/propisi/367764",
+   "versions": [
+    {
+     "from": "2024-04-06",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/367764/download",
+     "sha256": "216aba11894ad8a813b0f9605103430beb7d65186ca26d9221ded430ff8359e2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-367850",
+   "path": "pravilnik/2024/367850",
+   "short": "Pravilnik o Listi indikatora za prepoznavanje sumnjivih klijenata i transakcija",
+   "title": "Pravilnik o Listi indikatora za prepoznavanje sumnjivih klijenata i transakcija",
+   "url": "https://www.sluzbenilist.me/propisi/367850",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/367850/download",
+     "sha256": "3cab4e6f098aa04d22ea6e9fa2a4eeb971000272c84c3eef6e26a9811acd71e5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-367968",
+   "path": "pravilnik/2024/367968",
+   "short": "Pravilnik o pravima i obavezama emitera tokom kampanje za izbore za odbornike u Skupštini opštine Budva, koji će biti održani 26. Maja 2024. godine",
+   "title": "Pravilnik o pravima i obavezama emitera tokom kampanje za izbore za odbornike u Skupštini opštine Budva, koji će biti održani 26. Maja 2024. godine",
+   "url": "https://www.sluzbenilist.me/propisi/367968",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.me/propisi/367968/download",
+     "sha256": "cf7c2540887206e88f0ad2752148fc4da370cd1cc85037d3e2d58b66b8a990e3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-368132",
+   "path": "pravilnik/2024/368132",
+   "short": "Pravilnik o pravima i obavezama emitera tokom kampanje za izbore za odbornike u Skupštini opštine Andrijevica, koji će biti održani 2. juna 2024. godine",
+   "title": "Pravilnik o pravima i obavezama emitera tokom kampanje za izbore za odbornike u Skupštini opštine Andrijevica, koji će biti održani 2. juna 2024. godine",
+   "url": "https://www.sluzbenilist.me/propisi/368132",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.me/propisi/368132/download",
+     "sha256": "f1c0364b7d1f2ebc229f1b4f57bbdb3b827450f935272b09eb8de3f8b5c82c5a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-368558",
+   "path": "pravilnik/2024/368558",
+   "short": "Pravilnik o standardnim operativnim postupcima",
+   "title": "Pravilnik o standardnim operativnim postupcima",
+   "url": "https://www.sluzbenilist.me/propisi/368558",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/368558/download",
+     "sha256": "464fcbf675f0038c763e0de83792990a489d49329365d6b8a57172fd44d40af7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-369318",
+   "path": "pravilnik/2024/369318",
+   "short": "Pravilnik o bližim tehničkim uslovima za povezivanje sistema audio-video nadzora kazina sa informacionim nadzornim sistemom",
+   "title": "Pravilnik o bližim tehničkim uslovima za povezivanje sistema audio-video nadzora kazina sa informacionim nadzornim sistemom",
+   "url": "https://www.sluzbenilist.me/propisi/369318",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/369318/download",
+     "sha256": "6c09c103cff8088cc07798b3ba4dc41038efbb9deed742a6c4cd30dd07ca5c0b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-369950",
+   "path": "pravilnik/2024/369950",
+   "short": "Pravilnik o minimalnim zahtjevima energetske efikasnosti zgrada",
+   "title": "Pravilnik o minimalnim zahtjevima energetske efikasnosti zgrada",
+   "url": "https://www.sluzbenilist.me/propisi/369950",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 31,
+     "source_url": "https://www.sluzbenilist.me/propisi/369950/download",
+     "sha256": "095799742772342e8af8e132488f47c56b1c86be41460a61ad5c896b4609c36e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-370454",
+   "path": "pravilnik/2024/370454",
+   "short": "Pravilnik o kontroli imovine, prihoda i životnog stila policijskih službenika",
+   "title": "Pravilnik o kontroli imovine, prihoda i životnog stila policijskih službenika",
+   "url": "https://www.sluzbenilist.me/propisi/370454",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.me/propisi/370454/download",
+     "sha256": "072b8aa7330aab39dd8e0a0e95b2c04f4fc595f74b6c5a2c4806c3c7c59d96a5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-370455",
+   "path": "pravilnik/2024/370455",
+   "short": "Pravilnik o smjernicama za sprovođenje Zakona o sprečavanju pranja novca i finansiranja terorizma za obveznike u nadležnosti Komisije za tržište kapitala",
+   "title": "Pravilnik o smjernicama za sprovođenje Zakona o sprečavanju pranja novca i finansiranja terorizma za obveznike u nadležnosti Komisije za tržište kapitala",
+   "url": "https://www.sluzbenilist.me/propisi/370455",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 91,
+     "source_url": "https://www.sluzbenilist.me/propisi/370455/download",
+     "sha256": "201dd46ea2545e6370878c051d78739191e68471aa69c9ab03d8071bb6b141c6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-371233",
+   "path": "pravilnik/2024/371233",
+   "short": "Pravilnik o klasifikaciji otpada, katalogu otpada, postupcima obrade otpada, odnosno prerade i odstranjivanja otpada",
+   "title": "Pravilnik o klasifikaciji otpada, katalogu otpada, postupcima obrade otpada, odnosno prerade i odstranjivanja otpada",
+   "url": "https://www.sluzbenilist.me/propisi/371233",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/371233/download",
+     "sha256": "7a9cbfdd62c4b06c380332f20b3d7e81eb996d750c9ecda730c2ed5ddef9475a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-371635",
+   "path": "pravilnik/2024/371635",
+   "short": "Pravilnik o utvrđivanju visine naknade za izdavanje sertifikata o energetskim karakteristikama zgrada",
+   "title": "Pravilnik o utvrđivanju visine naknade za izdavanje sertifikata o energetskim karakteristikama zgrada",
+   "url": "https://www.sluzbenilist.me/propisi/371635",
+   "versions": [
+    {
+     "from": "2024-07-20",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/371635/download",
+     "sha256": "f0c167c9fa0e8ee660ccc64f51b12e0c6a723d712b61a43efb564861e4ae4662"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-371798",
+   "path": "pravilnik/2024/371798",
+   "short": "Pravilnik o načinu unosa, ažuriranja, provjere i pristupa podacima iz registra stvarnih vlasnika",
+   "title": "Pravilnik o načinu unosa, ažuriranja, provjere i pristupa podacima iz registra stvarnih vlasnika",
+   "url": "https://www.sluzbenilist.me/propisi/371798",
+   "versions": [
+    {
+     "from": "2024-07-27",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/371798/download",
+     "sha256": "c863a56ea118c32149061d1c94072ea72b983f097119e417b45dac470aeea025"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-371906",
+   "path": "pravilnik/2024/371906",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o zajedničkom korišćenju vazdušnog prostora i operativne procedure za izbjegavanje sudara u vazduhu",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o zajedničkom korišćenju vazdušnog prostora i operativne procedure za izbjegavanje sudara u vazduhu",
+   "url": "https://www.sluzbenilist.me/propisi/371906",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/371906/download",
+     "sha256": "68d04cb3a56ab242003ea6c49947ef627123890f22af37e42819eb00636e8eed"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-372451",
+   "path": "pravilnik/2024/372451",
+   "short": "Pravilnik o izmjenama Pravilnika o bližem načinu upisa i vođenja registra stečajnih masa",
+   "title": "Pravilnik o izmjenama Pravilnika o bližem načinu upisa i vođenja registra stečajnih masa",
+   "url": "https://www.sluzbenilist.me/propisi/372451",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/372451/download",
+     "sha256": "86ab91746e5a8c32faed66009be52241886e34ac82f01f571d0b4e7562c7e356"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-372785",
+   "path": "pravilnik/2024/372785",
+   "short": "Pravilnik o bližem načinu vođenja evidencije medija",
+   "title": "Pravilnik o bližem načinu vođenja evidencije medija",
+   "url": "https://www.sluzbenilist.me/propisi/372785",
+   "versions": [
+    {
+     "from": "2024-08-24",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/372785/download",
+     "sha256": "05113adb0773cb36774f9a0702a75c2d32b98b2eb1b0f3c6b83eef6e9609f0d3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-373163",
+   "path": "pravilnik/2024/373163",
+   "short": "Pravilnik o izmjenama Pravilnika o obrazovanju i načinu rada drugostepene invalidske komisije",
+   "title": "Pravilnik o izmjenama Pravilnika o obrazovanju i načinu rada drugostepene invalidske komisije",
+   "url": "https://www.sluzbenilist.me/propisi/373163",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/373163/download",
+     "sha256": "cb8c2e3457c0f977ac207d356aebc921f900d2f37ebe7a28697f89fefc1dfc9d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-373471",
+   "path": "pravilnik/2024/373471",
+   "short": "Pravilnik o Programu aktivnih supstanci za ocjenjivanje",
+   "title": "Pravilnik o Programu aktivnih supstanci za ocjenjivanje",
+   "url": "https://www.sluzbenilist.me/propisi/373471",
+   "versions": [
+    {
+     "from": "2024-09-28",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/373471/download",
+     "sha256": "67aa80a2fe86e85f37c07f3508bb73f3034829b126d53c938dd558921250a7a6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-373626",
+   "path": "pravilnik/2024/373626",
+   "short": "Pravilnik o provjeri kompetencija, znanja i sposobnosti kandidata za izbor direktora javne obrazovno-vaspitne ustanove",
+   "title": "Pravilnik o provjeri kompetencija, znanja i sposobnosti kandidata za izbor direktora javne obrazovno-vaspitne ustanove",
+   "url": "https://www.sluzbenilist.me/propisi/373626",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/373626/download",
+     "sha256": "ec8d59475c09793458ed2021f8dd2dd26628d3728c10fcbd31ff6eadfca7bdce"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-373696",
+   "path": "pravilnik/2024/373696",
+   "short": "Pravilnik o uslovima i načinu realizacije obaveza identifikacije i objavljivanja podataka o transparentnosti vlasništva",
+   "title": "Pravilnik o uslovima i načinu realizacije obaveza identifikacije i objavljivanja podataka o transparentnosti vlasništva",
+   "url": "https://www.sluzbenilist.me/propisi/373696",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 24,
+     "source_url": "https://www.sluzbenilist.me/propisi/373696/download",
+     "sha256": "4de42bc3cf4a6ed05cdf48bce70c1a0e741b7082a1abd064cac26f9053582caa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-373698",
+   "path": "pravilnik/2024/373698",
+   "short": "Pravilnik o pravima i obavezama priznate organizacije i načinu vršenja nadzora nad priznatom organizacijom",
+   "title": "Pravilnik o pravima i obavezama priznate organizacije i načinu vršenja nadzora nad priznatom organizacijom",
+   "url": "https://www.sluzbenilist.me/propisi/373698",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.me/propisi/373698/download",
+     "sha256": "48a395131403ac12f3634898c4877e4e7e06fe3a4ff8b45db8aa042af59485c1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-373990",
+   "path": "pravilnik/2024/373990",
+   "short": "Pravilnik o posebnim uslovima za regenerisane celulozne folije koje dolaze u kontakt sa hranom*",
+   "title": "Pravilnik o posebnim uslovima za regenerisane celulozne folije koje dolaze u kontakt sa hranom*",
+   "url": "https://www.sluzbenilist.me/propisi/373990",
+   "versions": [
+    {
+     "from": "2024-10-19",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/373990/download",
+     "sha256": "19cf51c31390b8c396ed60093f15f5f06e5f4cbaf77018cfacc04980fdbd251f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-373996",
+   "path": "pravilnik/2024/373996",
+   "short": "Pravilnik o Listi POPs supstanci, načinu i postupku za upravljanje POPs otpadom i granične vrijednosti koncentracija POPs materija koje se odnose na preradu i odstranjivanje otpada koji sadrži ili je kontaminiran POPs supstancama",
+   "title": "Pravilnik o Listi POPs supstanci, načinu i postupku za upravljanje POPs otpadom i granične vrijednosti koncentracija POPs materija koje se odnose na preradu i odstranjivanje otpada koji sadrži ili je kontaminiran POPs supstancama",
+   "url": "https://www.sluzbenilist.me/propisi/373996",
+   "versions": [
+    {
+     "from": "2024-10-19",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/373996/download",
+     "sha256": "fe817847a70289f3ceca3d488104583427bee74a4e6aa89a8150e7c9ebc50b38"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-373998",
+   "path": "pravilnik/2024/373998",
+   "short": "Pravilnik o izmjenama Pravilnika o sistemu upravljanja u društvima za osiguranje",
+   "title": "Pravilnik o izmjenama Pravilnika o sistemu upravljanja u društvima za osiguranje",
+   "url": "https://www.sluzbenilist.me/propisi/373998",
+   "versions": [
+    {
+     "from": "2024-10-19",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/373998/download",
+     "sha256": "77869c3abde73f32f7ac48c3109887f692b1c78898d698579ef730f2029c47e5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-373999",
+   "path": "pravilnik/2024/373999",
+   "short": "Pravilnik o bližem načinu vršenja nadzora",
+   "title": "Pravilnik o bližem načinu vršenja nadzora",
+   "url": "https://www.sluzbenilist.me/propisi/373999",
+   "versions": [
+    {
+     "from": "2024-10-19",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/373999/download",
+     "sha256": "dc83da6acfe7b35dbca42e8ef0b94defb5d0c596f609683c711c5742f800a190"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374130",
+   "path": "pravilnik/2024/374130",
+   "short": "Pravilnik o izmjeni Pravilnika o načinu i uslovima ostvarivanja prava na profesionalnu rehabilitaciju",
+   "title": "Pravilnik o izmjeni Pravilnika o načinu i uslovima ostvarivanja prava na profesionalnu rehabilitaciju",
+   "url": "https://www.sluzbenilist.me/propisi/374130",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/374130/download",
+     "sha256": "2ce14f1477af6bb65c8128264cc2b63f6f7f60b054c0f08091566e08d8e4cefa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374131",
+   "path": "pravilnik/2024/374131",
+   "short": "Pravilnik o izmjeni Pravilnika o sastavu i načinu rada komisija za profesionalnu rehabilitaciju",
+   "title": "Pravilnik o izmjeni Pravilnika o sastavu i načinu rada komisija za profesionalnu rehabilitaciju",
+   "url": "https://www.sluzbenilist.me/propisi/374131",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/374131/download",
+     "sha256": "aff12d01b4f3e1ffa9977cb5ec2476bd7d73e6001c002528c1281e5966ce6c9c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374140",
+   "path": "pravilnik/2024/374140",
+   "short": "Pravilnik o izmjeni Pravilnika o kriterijumima i uslovima za utvrđivanje procenta invaliditeta, preostale radne sposobnosti i mogućnosti zaposlenja",
+   "title": "Pravilnik o izmjeni Pravilnika o kriterijumima i uslovima za utvrđivanje procenta invaliditeta, preostale radne sposobnosti i mogućnosti zaposlenja",
+   "url": "https://www.sluzbenilist.me/propisi/374140",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/374140/download",
+     "sha256": "53e288690cf5a042b531d80fd7f5db8fe83f1a807a110c337b3940a5a7859c09"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374279",
+   "path": "pravilnik/2024/374279",
+   "short": "Pravilnik o obrascu zahtjeva za otpis kamate na dospjele poreske obaveze",
+   "title": "Pravilnik o obrascu zahtjeva za otpis kamate na dospjele poreske obaveze",
+   "url": "https://www.sluzbenilist.me/propisi/374279",
+   "versions": [
+    {
+     "from": "2024-11-02",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/374279/download",
+     "sha256": "3eda563b0ddb1daef7ab721ed931cf2243cb492f1d24988f7340e25e0c6890cd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374325",
+   "path": "pravilnik/2024/374325",
+   "short": "Pravilnik o sadržaju izvještaja o izvorima žive i načinu vođenja evidencije o skladištenju žive",
+   "title": "Pravilnik o sadržaju izvještaja o izvorima žive i načinu vođenja evidencije o skladištenju žive",
+   "url": "https://www.sluzbenilist.me/propisi/374325",
+   "versions": [
+    {
+     "from": "2024-11-02",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/374325/download",
+     "sha256": "ee34a734d4b26005a85a3dc5734331a974d14de74c1f6f04bf6fd31cefc6dd1f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374452",
+   "path": "pravilnik/2024/374452",
+   "short": "Pravilnik o načinu sprovođenja unutrašnje kontrole u Upravi carina",
+   "title": "Pravilnik o načinu sprovođenja unutrašnje kontrole u Upravi carina",
+   "url": "https://www.sluzbenilist.me/propisi/374452",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/374452/download",
+     "sha256": "b3b22631981ca3250309367dfb1d319deb43d8afc86c3abefae280532713abc0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374593",
+   "path": "pravilnik/2024/374593",
+   "short": "Pravilnik o bližem sadržaju i obrascu izvještaja o radu lobiste, odnosno pravnog lica koje obavlja djelatnost lobiranja",
+   "title": "Pravilnik o bližem sadržaju i obrascu izvještaja o radu lobiste, odnosno pravnog lica koje obavlja djelatnost lobiranja",
+   "url": "https://www.sluzbenilist.me/propisi/374593",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/374593/download",
+     "sha256": "529d19e90da1a161149d4dc1299f68aacb05aa0b9cdab3df72c12f6d0ea35ea4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374595",
+   "path": "pravilnik/2024/374595",
+   "short": "Pravilnik o izgledu i sadržaju obrasca obavještenja o sumnji na postojanje nedozvoljenog lobiranja",
+   "title": "Pravilnik o izgledu i sadržaju obrasca obavještenja o sumnji na postojanje nedozvoljenog lobiranja",
+   "url": "https://www.sluzbenilist.me/propisi/374595",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/374595/download",
+     "sha256": "0c721346531466a9b25c4fe045167278c4201d5d2c166ba075fd2dfbe5de9830"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374611",
+   "path": "pravilnik/2024/374611",
+   "short": "Pravilnik o evidenciji i obrascu za objavljivanje podataka o lobističkim kontaktima",
+   "title": "Pravilnik o evidenciji i obrascu za objavljivanje podataka o lobističkim kontaktima",
+   "url": "https://www.sluzbenilist.me/propisi/374611",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/374611/download",
+     "sha256": "6eb333138a931fd16dc7619ed2a4f10317dce26e5374776c33c6b2a1ce8e597f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374620",
+   "path": "pravilnik/2024/374620",
+   "short": "Pravilnik o bližem sadržaju i obrascu legitimacije lobiste",
+   "title": "Pravilnik o bližem sadržaju i obrascu legitimacije lobiste",
+   "url": "https://www.sluzbenilist.me/propisi/374620",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/374620/download",
+     "sha256": "61bc25f3abc7d4fcd22ab00bde53de480b3f480572cb1f1092b152c217cde399"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374686",
+   "path": "pravilnik/2024/374686",
+   "short": "Pravilnik o bližem sadržaju i obrascu zahtjeva za izdavanje, odnosno produženje odobrenja za obavljanje djelatnosti lobiranja",
+   "title": "Pravilnik o bližem sadržaju i obrascu zahtjeva za izdavanje, odnosno produženje odobrenja za obavljanje djelatnosti lobiranja",
+   "url": "https://www.sluzbenilist.me/propisi/374686",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/374686/download",
+     "sha256": "18ba09b2b8245465b5525afaffaab3d1e65afc582f43333485a963b7f8ab7fb6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374687",
+   "path": "pravilnik/2024/374687",
+   "short": "Pravilnik o obrascu i bližem načinu vođenja registra lobista",
+   "title": "Pravilnik o obrascu i bližem načinu vođenja registra lobista",
+   "url": "https://www.sluzbenilist.me/propisi/374687",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/374687/download",
+     "sha256": "573aef1fbf8ae07762abd1cab173f04822f0a3ba9a1ec0f3db3185b90936ef38"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374689",
+   "path": "pravilnik/2024/374689",
+   "short": "Pravilnik o načinu sprovođenja unutrašnje kontrole u Poreskoj upravi",
+   "title": "Pravilnik o načinu sprovođenja unutrašnje kontrole u Poreskoj upravi",
+   "url": "https://www.sluzbenilist.me/propisi/374689",
+   "versions": [
+    {
+     "from": "2024-11-16",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/374689/download",
+     "sha256": "6f3d028894ed3222f30ebc93ce0e57b53e24a562e3345084bd721994f4f296ac"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374715",
+   "path": "pravilnik/2024/374715",
+   "short": "Pravilnik o bližem sadržaju i obrascu službene zabilješke o lobističkom kontaktu",
+   "title": "Pravilnik o bližem sadržaju i obrascu službene zabilješke o lobističkom kontaktu",
+   "url": "https://www.sluzbenilist.me/propisi/374715",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/374715/download",
+     "sha256": "ddbe14a8ddd7e228bc2cc34169441ffa0c555f20cff94dc57ad68665eeb798fa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374859",
+   "path": "pravilnik/2024/374859",
+   "short": "Pravilnik o enološkim postupcima i enološkim sredstvima za proizvodnju vina i drugih proizvoda od grožđa i za proizvodnju organskog vina",
+   "title": "Pravilnik o enološkim postupcima i enološkim sredstvima za proizvodnju vina i drugih proizvoda od grožđa i za proizvodnju organskog vina",
+   "url": "https://www.sluzbenilist.me/propisi/374859",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/374859/download",
+     "sha256": "7f89dd643af5663a1c8fcc7f11c4d483b2d014035bb633270f4d9bf4c3cdc9a6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-374882",
+   "path": "pravilnik/2024/374882",
+   "short": "Pravilnik o stanišnim i prioritetnim stanišnim tipovima i Listi vrsta biljaka i životinja sa prioritetnim vrstama uključujući ptičije vrste i vrste za koje se određuju područja ekološke mreže",
+   "title": "Pravilnik o stanišnim i prioritetnim stanišnim tipovima i Listi vrsta biljaka i životinja sa prioritetnim vrstama uključujući ptičije vrste i vrste za koje se određuju područja ekološke mreže",
+   "url": "https://www.sluzbenilist.me/propisi/374882",
+   "versions": [
+    {
+     "from": "2024-11-30",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/374882/download",
+     "sha256": "62da01a6f8c03fddd0099de54bd7e9c7bfd22aa701b44ac9ed11dadb8d1fc596"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375026",
+   "path": "pravilnik/2024/375026",
+   "short": "Pravilnik o usklađivanju iznosa najviše godišnje osnovice za plaćanje doprinosa za 2024. godinu",
+   "title": "Pravilnik o usklađivanju iznosa najviše godišnje osnovice za plaćanje doprinosa za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/375026",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/375026/download",
+     "sha256": "a8a8e15e6e47370ec8c80d90d30c811e86d6e47808473a394be9d7fecdd491dd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375034",
+   "path": "pravilnik/2024/375034",
+   "short": "Pravilnik o izmjeni Pravilnika o bližim uslovima u pogledu prostora, kadra i opreme koje moraju da ispunjavaju ovlašćene zdravstvene ustanove i pravna lica koja obavljaju pojedine poslove u vezi uzimanja i presađivanja tkiva i ćelija, kao i mjerama i aktivnostima za uspostavljanje i održavanje sistema kvaliteta*",
+   "title": "Pravilnik o izmjeni Pravilnika o bližim uslovima u pogledu prostora, kadra i opreme koje moraju da ispunjavaju ovlašćene zdravstvene ustanove i pravna lica koja obavljaju pojedine poslove u vezi uzimanja i presađivanja tkiva i ćelija, kao i mjerama i aktivnostima za uspostavljanje i održavanje sistema kvaliteta*",
+   "url": "https://www.sluzbenilist.me/propisi/375034",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/375034/download",
+     "sha256": "f7c51a301c8309e69b0ef76398ff81b91bd75ce2eef8f1e945e61612fdc9bba4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375138",
+   "path": "pravilnik/2024/375138",
+   "short": "Pravilnik o legitimaciji inspektora",
+   "title": "Pravilnik o legitimaciji inspektora",
+   "url": "https://www.sluzbenilist.me/propisi/375138",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/375138/download",
+     "sha256": "86c87f1b961d73e27d04f3412909aa638b5daa38fe1d3f4507a229e4134d380c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375183",
+   "path": "pravilnik/2024/375183",
+   "short": "Pravilnik o iznosu kamatne stope koja se obračunava na finansijske instrumente između povezanih lica za 2025. godinu",
+   "title": "Pravilnik o iznosu kamatne stope koja se obračunava na finansijske instrumente između povezanih lica za 2025. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/375183",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/375183/download",
+     "sha256": "9682f90e2169463cbd83be28a9c41ec76268149b0ab6b7af0cb28329f5fe99f9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375378",
+   "path": "pravilnik/2024/375378",
+   "short": "Pravilnik o načinu izračunavanja minimalnih suma osiguranja za slučaj štete pričinjene trećim licima ili njihovim stvarima",
+   "title": "Pravilnik o načinu izračunavanja minimalnih suma osiguranja za slučaj štete pričinjene trećim licima ili njihovim stvarima",
+   "url": "https://www.sluzbenilist.me/propisi/375378",
+   "versions": [
+    {
+     "from": "2024-12-14",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/375378/download",
+     "sha256": "57de107565dd208f796cafc2c999be6b526a06cf6f946806a11d4fbf49a9b42f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375552",
+   "path": "pravilnik/2024/375552",
+   "short": "Pravilnik o izmjenama Pravilnika o paušalnom oporezivanju prihoda od samostalne djelatnosti",
+   "title": "Pravilnik o izmjenama Pravilnika o paušalnom oporezivanju prihoda od samostalne djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/375552",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/375552/download",
+     "sha256": "8866226fa97f70a1c4f76330d5c19a320c12ed4c98e6a4120b89112f4ba3475c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375577",
+   "path": "pravilnik/2024/375577",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o bližim uslovima, načinu sprovođenja i obuci za sprovođenje video-elektronske identifikacije klijenta",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o bližim uslovima, načinu sprovođenja i obuci za sprovođenje video-elektronske identifikacije klijenta",
+   "url": "https://www.sluzbenilist.me/propisi/375577",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/375577/download",
+     "sha256": "27930ae8d8411ba0185d4771b83ed2aac7103b4ff48bec2210de4378bdff9956"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375693",
+   "path": "pravilnik/2024/375693",
+   "short": "Pravilnik o fitosanitarnim ekvivalentnim mjerama radi sprečavanja unošenja Thaumatotibia leucotreta plodovima pomorandže Citrus sinensis Pers. porijeklom iz Izraela",
+   "title": "Pravilnik o fitosanitarnim ekvivalentnim mjerama radi sprečavanja unošenja Thaumatotibia leucotreta plodovima pomorandže Citrus sinensis Pers. porijeklom iz Izraela",
+   "url": "https://www.sluzbenilist.me/propisi/375693",
+   "versions": [
+    {
+     "from": "2024-12-21",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/375693/download",
+     "sha256": "697a2fa87d6855244594f40beb0d03429f4a1014de42c01f1ef75bec8e984d5b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375774",
+   "path": "pravilnik/2024/375774",
+   "short": "Pravilnik o izmjeni Pravilnika o obliku i sadržini prijave za obračun poreza na dodatu vrijednost",
+   "title": "Pravilnik o izmjeni Pravilnika o obliku i sadržini prijave za obračun poreza na dodatu vrijednost",
+   "url": "https://www.sluzbenilist.me/propisi/375774",
+   "versions": [
+    {
+     "from": "2024-12-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/375774/download",
+     "sha256": "88d5a9fbb1ff4a68d5e13835b0df37666329719313d79283efcd9a30fdba90e0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375817",
+   "path": "pravilnik/2024/375817",
+   "short": "Pravilnik o sadržaju elaborata o rezultatima izvršenih geoloških i geofizičkih istraživanja ugljovodonika",
+   "title": "Pravilnik o sadržaju elaborata o rezultatima izvršenih geoloških i geofizičkih istraživanja ugljovodonika",
+   "url": "https://www.sluzbenilist.me/propisi/375817",
+   "versions": [
+    {
+     "from": "2024-12-25",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/375817/download",
+     "sha256": "daa0e0320fef551ebf33eb3b4adc1247f814a8c13e6fd2af551c06cc896f8174"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375912",
+   "path": "pravilnik/2024/375912",
+   "short": "Pravilnik o sadržini tehničkog rješenja korišćenja radio-frekvencija",
+   "title": "Pravilnik o sadržini tehničkog rješenja korišćenja radio-frekvencija",
+   "url": "https://www.sluzbenilist.me/propisi/375912",
+   "versions": [
+    {
+     "from": "2024-12-28",
+     "units": 24,
+     "source_url": "https://www.sluzbenilist.me/propisi/375912/download",
+     "sha256": "c16a0ba91a783e18d2cd364cba1641734fddc1cec35871be444885cfa3669740"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375929",
+   "path": "pravilnik/2024/375929",
+   "short": "Pravilnik o programskim standardima u radijskim i televizijskim programima",
+   "title": "Pravilnik o programskim standardima u radijskim i televizijskim programima",
+   "url": "https://www.sluzbenilist.me/propisi/375929",
+   "versions": [
+    {
+     "from": "2024-12-28",
+     "units": 63,
+     "source_url": "https://www.sluzbenilist.me/propisi/375929/download",
+     "sha256": "d6850dd63a126b7a7d1ca2c62ed5c59be0baf3f0d74d907e11ee03342a7bd9d5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375930",
+   "path": "pravilnik/2024/375930",
+   "short": "Pravilnik o posebnim tehničkim, prostornim i kadrovskim uslovima za obavljanje djelatnosti proizvodnje i emitovanja linearnih audiovizuelnih medijskih usluga",
+   "title": "Pravilnik o posebnim tehničkim, prostornim i kadrovskim uslovima za obavljanje djelatnosti proizvodnje i emitovanja linearnih audiovizuelnih medijskih usluga",
+   "url": "https://www.sluzbenilist.me/propisi/375930",
+   "versions": [
+    {
+     "from": "2024-12-28",
+     "units": 24,
+     "source_url": "https://www.sluzbenilist.me/propisi/375930/download",
+     "sha256": "dfdbb988ec0072068fd739f463115be0c7c9fab951733ba7bbb98f25881591ec"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-375939",
+   "path": "pravilnik/2024/375939",
+   "short": "Pravilnik o vazduhoplovnim zvanjima i kategorijama osposobljenosti lica u službi u Vojsci Crne Gore",
+   "title": "Pravilnik o vazduhoplovnim zvanjima i kategorijama osposobljenosti lica u službi u Vojsci Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/375939",
+   "versions": [
+    {
+     "from": "2024-12-21",
+     "units": 43,
+     "source_url": "https://www.sluzbenilist.me/propisi/375939/download",
+     "sha256": "5302c37570b48d0fe118b9eb60a2422377821abdffbbac840961353b34e03ce5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-376028",
+   "path": "pravilnik/2024/376028",
+   "short": "Pravilnik o sadržaju, načinu vođenja i objavljivanja podataka iz registara i sadržaju i načinu vođenja Liste pružalaca usluga internet vebkastinga",
+   "title": "Pravilnik o sadržaju, načinu vođenja i objavljivanja podataka iz registara i sadržaju i načinu vođenja Liste pružalaca usluga internet vebkastinga",
+   "url": "https://www.sluzbenilist.me/propisi/376028",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.me/propisi/376028/download",
+     "sha256": "656b957387013ea42d754ab30fa2f52badd1526bcdfead01109fe8ab18653bef"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-376031",
+   "path": "pravilnik/2024/376031",
+   "short": "Pravilnik o utvrđivanju proizvoda i bližem načinu ostvarivanja prava na oslobođenje od plaćanja PDV pri uvozu",
+   "title": "Pravilnik o utvrđivanju proizvoda i bližem načinu ostvarivanja prava na oslobođenje od plaćanja PDV pri uvozu",
+   "url": "https://www.sluzbenilist.me/propisi/376031",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 36,
+     "source_url": "https://www.sluzbenilist.me/propisi/376031/download",
+     "sha256": "346bb36c1d426a58169b13ab468389b7e0ab677d94157ee19dfe53bb6b8b88f4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-376039",
+   "path": "pravilnik/2024/376039",
+   "short": "Pravilnik o uslovima za ostvarivanje minimalnog učešća evropskih audiovizuelnih djela",
+   "title": "Pravilnik o uslovima za ostvarivanje minimalnog učešća evropskih audiovizuelnih djela",
+   "url": "https://www.sluzbenilist.me/propisi/376039",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 16,
+     "source_url": "https://www.sluzbenilist.me/propisi/376039/download",
+     "sha256": "281f873a7b56b500cf91bcdc83d4d8725d4bcd84d079fb1d5976030a117da750"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-376042",
+   "path": "pravilnik/2024/376042",
+   "short": "Pravilnik o pružanju usluga platformi za razmjenu video sadržaja i mjerama za zaštitu korisnika usluga",
+   "title": "Pravilnik o pružanju usluga platformi za razmjenu video sadržaja i mjerama za zaštitu korisnika usluga",
+   "url": "https://www.sluzbenilist.me/propisi/376042",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 21,
+     "source_url": "https://www.sluzbenilist.me/propisi/376042/download",
+     "sha256": "bb9c881bc41cb31e19464c0cf06d0e980550b0c35223af8cfd3e77bc770d8d97"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-376043",
+   "path": "pravilnik/2024/376043",
+   "short": "Pravilnik o izmjeni Pravilnika o razvrstavanju osnovnih sredstava po grupama i metodama za utvrđivanje amortizacije",
+   "title": "Pravilnik o izmjeni Pravilnika o razvrstavanju osnovnih sredstava po grupama i metodama za utvrđivanje amortizacije",
+   "url": "https://www.sluzbenilist.me/propisi/376043",
+   "versions": [
+    {
+     "from": "2025-01-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376043/download",
+     "sha256": "8f71d86c2f1b3a62a6ac2bc634a67328747dc4202b14711dce81bf12fdb1305a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-376047",
+   "path": "pravilnik/2024/376047",
+   "short": "Pravilnik o izmjeni Pravilnika o obliku, sadržini, načinu popunjavanja i dostavljanja jedinstvenog obrasca izvještaja o obračunatom i plaćenom porezu na dohodak fizičkih lica i doprinosima za obavezno socijalno osiguranje",
+   "title": "Pravilnik o izmjeni Pravilnika o obliku, sadržini, načinu popunjavanja i dostavljanja jedinstvenog obrasca izvještaja o obračunatom i plaćenom porezu na dohodak fizičkih lica i doprinosima za obavezno socijalno osiguranje",
+   "url": "https://www.sluzbenilist.me/propisi/376047",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376047/download",
+     "sha256": "6e165478ad34d622e0d1418b96f49f3106743387a115fe57afb8dc51e6374b01"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-376050",
+   "path": "pravilnik/2024/376050",
+   "short": "Pravilnik o pristupačnosti audiovizuelnih medijskih usluga licima sa invaliditetom",
+   "title": "Pravilnik o pristupačnosti audiovizuelnih medijskih usluga licima sa invaliditetom",
+   "url": "https://www.sluzbenilist.me/propisi/376050",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.me/propisi/376050/download",
+     "sha256": "fa21e856ffcd302574ae4a3e29ad0efd5b2534c19db51afb2d8a36aa4909cff2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-376052",
+   "path": "pravilnik/2024/376052",
+   "short": "Pravilnik o uslovima za ostvarivanje minimalnog obima učešća audiovizuelnih djela nezavisnih proizvođača",
+   "title": "Pravilnik o uslovima za ostvarivanje minimalnog obima učešća audiovizuelnih djela nezavisnih proizvođača",
+   "url": "https://www.sluzbenilist.me/propisi/376052",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/376052/download",
+     "sha256": "9d4dc6f9738fe49e261e8fe5bce0ef91e13a0af88adb4a673ca7785f322bbbbd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-376053",
+   "path": "pravilnik/2024/376053",
+   "short": "Pravilnik o postupku i uslovima za ostvarivanje prava na emitovanje radijskog ili televizijskog programa",
+   "title": "Pravilnik o postupku i uslovima za ostvarivanje prava na emitovanje radijskog ili televizijskog programa",
+   "url": "https://www.sluzbenilist.me/propisi/376053",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 43,
+     "source_url": "https://www.sluzbenilist.me/propisi/376053/download",
+     "sha256": "96ac871fb55141a0cf9befdf2cd0dc80ea7bd9bb8a4f28a1c35d98d3284b445b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-376436",
+   "path": "pravilnik/2024/376436",
+   "short": "Pravilnik o načinu izdavanja i bližem sadržaju potvrde koju izdaje poreski organ primaocu kamata i autorskih naknada",
+   "title": "Pravilnik o načinu izdavanja i bližem sadržaju potvrde koju izdaje poreski organ primaocu kamata i autorskih naknada",
+   "url": "https://www.sluzbenilist.me/propisi/376436",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/376436/download",
+     "sha256": "a631b869fcfd8d2ebc806bc353aa25fb1957df971951bd4e680e62d46b4f82a8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-378718",
+   "path": "pravilnik/2024/378718",
+   "short": "Pravilnik o izmjenama Pravilnika o tehničkim uslovima za izgradnju sistema neposrednog nadzora i tehničkim uslovima za priređivanje igara na sreću putem interneta",
+   "title": "Pravilnik o izmjenama Pravilnika o tehničkim uslovima za izgradnju sistema neposrednog nadzora i tehničkim uslovima za priređivanje igara na sreću putem interneta",
+   "url": "https://www.sluzbenilist.me/propisi/378718",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/378718/download",
+     "sha256": "3d6bed8b1e3e5f466845a92df31a009d22bf7421cc0dd5af4afbd26f1b903372"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-376696",
+   "path": "pravilnik/2025/376696",
+   "short": "Pravilnik o obrascu i načinu podnošenja zahtjeva za izdavanje odobrenja za korišćenje numeracije",
+   "title": "Pravilnik o obrascu i načinu podnošenja zahtjeva za izdavanje odobrenja za korišćenje numeracije",
+   "url": "https://www.sluzbenilist.me/propisi/376696",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/376696/download",
+     "sha256": "51abe64c1e0584db4c7b9fe42aa49842430559996d27f439941e8985ab9d9a0e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-376886",
+   "path": "pravilnik/2025/376886",
+   "short": "Pravilnik o programu priprema za rad u diplomatsko-konzularnom predstavništvu",
+   "title": "Pravilnik o programu priprema za rad u diplomatsko-konzularnom predstavništvu",
+   "url": "https://www.sluzbenilist.me/propisi/376886",
+   "versions": [
+    {
+     "from": "2025-01-25",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/376886/download",
+     "sha256": "7597c7214afaf79409e5db198dc6bdf36c6b0c5aa70e6679be626727c3a1ec77"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-377321",
+   "path": "pravilnik/2025/377321",
+   "short": "Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnog organizma Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr.*",
+   "title": "Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnog organizma Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr.*",
+   "url": "https://www.sluzbenilist.me/propisi/377321",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/377321/download",
+     "sha256": "5a9e8fc64ce8aa24e8c86923986d7e74625e5eb31a06d98b46c8caff59e64592"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-377356",
+   "path": "pravilnik/2025/377356",
+   "short": "Pravilnik o bližem sadržaju, načinu upisa i vođenja registra subjekata u organskoj proizvodnji",
+   "title": "Pravilnik o bližem sadržaju, načinu upisa i vođenja registra subjekata u organskoj proizvodnji",
+   "url": "https://www.sluzbenilist.me/propisi/377356",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/377356/download",
+     "sha256": "e1bb399b9ec187719aa3d25c1cd41f6bd0bc749171ecee58766ba7d4de076f61"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-377359",
+   "path": "pravilnik/2025/377359",
+   "short": "Pravilnik o raspodjeli sredstava iz Fonda za podsticanje pluralizma i raznovrsnosti medija namijenjenih pružaocima linearnih AVM usluga - komercijalnim i neprofitnim emiterima",
+   "title": "Pravilnik o raspodjeli sredstava iz Fonda za podsticanje pluralizma i raznovrsnosti medija namijenjenih pružaocima linearnih AVM usluga - komercijalnim i neprofitnim emiterima",
+   "url": "https://www.sluzbenilist.me/propisi/377359",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 38,
+     "source_url": "https://www.sluzbenilist.me/propisi/377359/download",
+     "sha256": "e011e722cd1e158f365f56c0c0a93b9f9d51bbb50849462fa5cf54bfc137a7ef"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-377461",
+   "path": "pravilnik/2025/377461",
+   "short": "Pravilnik o obrascima zapisnika i rješenja koja donosi inspektor nad stranim plovnim objektima i obrascima identifikacionih isprava inspektora",
+   "title": "Pravilnik o obrascima zapisnika i rješenja koja donosi inspektor nad stranim plovnim objektima i obrascima identifikacionih isprava inspektora",
+   "url": "https://www.sluzbenilist.me/propisi/377461",
+   "versions": [
+    {
+     "from": "2025-02-08",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/377461/download",
+     "sha256": "847270789cd1a986cd899732fbbb5c4ca24ad6eedd3b2e00043729fa2dff23a9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-378075",
+   "path": "pravilnik/2025/378075",
+   "short": "Pravilnik o izmjeni Pravilnika o proizvodnji i stavljanju u promet vegetativnih djelova za umnožavanje povrća i rasada povrća*",
+   "title": "Pravilnik o izmjeni Pravilnika o proizvodnji i stavljanju u promet vegetativnih djelova za umnožavanje povrća i rasada povrća*",
+   "url": "https://www.sluzbenilist.me/propisi/378075",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/378075/download",
+     "sha256": "d906925b665537b703c597cafe9dce96faa586671a18b73454b8db4e12c514d9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-378185",
+   "path": "pravilnik/2025/378185",
+   "short": "Pravilnik o programu obuke diplomata za vršenje finansijsko-računovodstvenih poslova u diplomatsko-konzularnom predstavništvu",
+   "title": "Pravilnik o programu obuke diplomata za vršenje finansijsko-računovodstvenih poslova u diplomatsko-konzularnom predstavništvu",
+   "url": "https://www.sluzbenilist.me/propisi/378185",
+   "versions": [
+    {
+     "from": "2025-02-15",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/378185/download",
+     "sha256": "8890b868a4739b97ff6e2256f999abdbf6ad0b64b76672c62c091ec46e91f2ec"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-378237",
+   "path": "pravilnik/2025/378237",
+   "short": "Pravilnik o označavanju energetske efikasnosti uređaja za klimatizaciju*",
+   "title": "Pravilnik o označavanju energetske efikasnosti uređaja za klimatizaciju*",
+   "url": "https://www.sluzbenilist.me/propisi/378237",
+   "versions": [
+    {
+     "from": "2025-02-15",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/378237/download",
+     "sha256": "8af08627268de4681ee2cb471c3e4ffcc761b309f6c90d8116e49f1cf08b1a57"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-378596",
+   "path": "pravilnik/2025/378596",
+   "short": "Pravilnik o obrascu i metodologiji obračuna količine obaveznih rezervi naftnih derivata",
+   "title": "Pravilnik o obrascu i metodologiji obračuna količine obaveznih rezervi naftnih derivata",
+   "url": "https://www.sluzbenilist.me/propisi/378596",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/378596/download",
+     "sha256": "86520898e08974f840a9e762db88d78fc7e3718cdf07ead5c3d949e3df4c1770"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-378717",
+   "path": "pravilnik/2025/378717",
+   "short": "Pravilnik o fitosanitarnim mjerama prilikom vršenja službenih kontrola drvenog materijala za pakovanje*",
+   "title": "Pravilnik o fitosanitarnim mjerama prilikom vršenja službenih kontrola drvenog materijala za pakovanje*",
+   "url": "https://www.sluzbenilist.me/propisi/378717",
+   "versions": [
+    {
+     "from": "2025-02-22",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/378717/download",
+     "sha256": "b59c98c6a91f1ac9093f8c558688cada0eb9d0e9dc60fb9d1c5e87ad6191e811"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-378773",
+   "path": "pravilnik/2025/378773",
+   "short": "Pravilnik o izmjenama Pravilnika o programu i načinu polaganja ispita za poreskog savjetnika",
+   "title": "Pravilnik o izmjenama Pravilnika o programu i načinu polaganja ispita za poreskog savjetnika",
+   "url": "https://www.sluzbenilist.me/propisi/378773",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/378773/download",
+     "sha256": "83f9b07b7928866e05d74f92cd76c154482beb6037446d27665168307415e689"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379160",
+   "path": "pravilnik/2025/379160",
+   "short": "Pravilnik o izboru i opozivu članova Skupštine Komore fizioterapeuta Crne Gore",
+   "title": "Pravilnik o izboru i opozivu članova Skupštine Komore fizioterapeuta Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/379160",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 70,
+     "source_url": "https://www.sluzbenilist.me/propisi/379160/download",
+     "sha256": "c7b838b93fdd2c12b577b432c860876f7be8498c6e4f2d1315dc040e38937a53"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379221",
+   "path": "pravilnik/2025/379221",
+   "short": "Pravila o sadržini i objavljivanju izvještaja o poslovanju zajedničkih investicionih fondova",
+   "title": "Pravila o sadržini i objavljivanju izvještaja o poslovanju zajedničkih investicionih fondova",
+   "url": "https://www.sluzbenilist.me/propisi/379221",
+   "versions": [
+    {
+     "from": "2025-03-08",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/379221/download",
+     "sha256": "d910d473c012b72df49ac6f3695abb5af3598911ee49b944c02b30acb2c4d06f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379245",
+   "path": "pravilnik/2025/379245",
+   "short": "Pravila o sadržini i objavljivanju izvještaja o poslovanju društva za upravljanje investicionim fondom",
+   "title": "Pravila o sadržini i objavljivanju izvještaja o poslovanju društva za upravljanje investicionim fondom",
+   "url": "https://www.sluzbenilist.me/propisi/379245",
+   "versions": [
+    {
+     "from": "2025-03-08",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/379245/download",
+     "sha256": "edd351762cf881f2d68851ac6d819cade5923551644b049e20a3be78364f529b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379249",
+   "path": "pravilnik/2025/379249",
+   "short": "Pravila o sadržini i objavljivanju izvještaja o poslovanju zatvorenih investicionih fondova",
+   "title": "Pravila o sadržini i objavljivanju izvještaja o poslovanju zatvorenih investicionih fondova",
+   "url": "https://www.sluzbenilist.me/propisi/379249",
+   "versions": [
+    {
+     "from": "2025-03-08",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/379249/download",
+     "sha256": "02b3e69db332f287c89b5425e509049acb22babaab9a83b0917122f1e5c407c3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379410",
+   "path": "pravilnik/2025/379410",
+   "short": "Pravilnik o izmjenama Pravilnika o fitosanitarnim mjerama za otkrivanje, iskorjenjivanje i sprečavanje širenja štetnog organizma Ralstonia solanacearum (Smith 1896) Yabuuchi et al. 1996 emend. Safni et al. 2014*",
+   "title": "Pravilnik o izmjenama Pravilnika o fitosanitarnim mjerama za otkrivanje, iskorjenjivanje i sprečavanje širenja štetnog organizma Ralstonia solanacearum (Smith 1896) Yabuuchi et al. 1996 emend. Safni et al. 2014*",
+   "url": "https://www.sluzbenilist.me/propisi/379410",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/379410/download",
+     "sha256": "2361acbd48a2726b8c08e7e0136af320084f28ac6b3f86fdcb96c51bab169e34"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379421",
+   "path": "pravilnik/2025/379421",
+   "short": "Pravilnik o izmjenama Pravilnika o fitosanitarnim mjerama za otkrivanje, iskorjenjivanje i sprečavanje širenja štetnog organizma Clavibacter sepedonicus (Spieckermann & Kotthoff 1914.), Nouioui et al. 2018.*",
+   "title": "Pravilnik o izmjenama Pravilnika o fitosanitarnim mjerama za otkrivanje, iskorjenjivanje i sprečavanje širenja štetnog organizma Clavibacter sepedonicus (Spieckermann & Kotthoff 1914.), Nouioui et al. 2018.*",
+   "url": "https://www.sluzbenilist.me/propisi/379421",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/379421/download",
+     "sha256": "a159f5f293a4a1dbce650755e336592f29ba9aa09fe666444c10eb85607b9ac8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379515",
+   "path": "pravilnik/2025/379515",
+   "short": "Pravilnik o uslovima koje treba da ispunjava privredno društvo ili preduzetnik koji vrši sakupljanje, odnosno transport otpada",
+   "title": "Pravilnik o uslovima koje treba da ispunjava privredno društvo ili preduzetnik koji vrši sakupljanje, odnosno transport otpada",
+   "url": "https://www.sluzbenilist.me/propisi/379515",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/379515/download",
+     "sha256": "cb24c54e5a69935835494c6794dcce35d78b21c3166ea4fd71da40fa9422f35f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379544",
+   "path": "pravilnik/2025/379544",
+   "short": "Pravilnik o načinu vođenja registra sakupljača otpada i načinu izračunavanja sume osiguranja",
+   "title": "Pravilnik o načinu vođenja registra sakupljača otpada i načinu izračunavanja sume osiguranja",
+   "url": "https://www.sluzbenilist.me/propisi/379544",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/379544/download",
+     "sha256": "9f2249509821730ab3406a3a9c9da637a138fafebe5f925cbbb8db51db917a57"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379545",
+   "path": "pravilnik/2025/379545",
+   "short": "Pravilnik o uslovima za upravljanje rudarskim otpadom i kriterijumima, karakterizaciji, klasifikaciji i izvještavanju o rudarskom otpadu",
+   "title": "Pravilnik o uslovima za upravljanje rudarskim otpadom i kriterijumima, karakterizaciji, klasifikaciji i izvještavanju o rudarskom otpadu",
+   "url": "https://www.sluzbenilist.me/propisi/379545",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 16,
+     "source_url": "https://www.sluzbenilist.me/propisi/379545/download",
+     "sha256": "5d24c063f7a8f7acc1ac6858f0189dceb93df83ae109bda4b639128ad116a21e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379552",
+   "path": "pravilnik/2025/379552",
+   "short": "Pravilnik o vrstama kabastog otpada",
+   "title": "Pravilnik o vrstama kabastog otpada",
+   "url": "https://www.sluzbenilist.me/propisi/379552",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/379552/download",
+     "sha256": "88e11b60b795c82e3ab5722863d8454c96bbd24e3e42b65e5f522d078e33dd80"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379553",
+   "path": "pravilnik/2025/379553",
+   "short": "Pravilnik o kriterijumima za prestanak statusa i o graničnim vrijednostima za opasne materije otpada od gvožđa, čelika, aluminijuma, bakra i stakla",
+   "title": "Pravilnik o kriterijumima za prestanak statusa i o graničnim vrijednostima za opasne materije otpada od gvožđa, čelika, aluminijuma, bakra i stakla",
+   "url": "https://www.sluzbenilist.me/propisi/379553",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/379553/download",
+     "sha256": "48630c2890b99a04d4a6e31fe2363d4ec2e1e8cd782e2c176a14cc747f47c85f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379578",
+   "path": "pravilnik/2025/379578",
+   "short": "Pravilnik o postupanju sa građevinskim otpadom",
+   "title": "Pravilnik o postupanju sa građevinskim otpadom",
+   "url": "https://www.sluzbenilist.me/propisi/379578",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/379578/download",
+     "sha256": "308d2df6987d6ebbe3e4bba245bcd40fa433ddfc71b0afa8ff1bd05c9b27c871"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379627",
+   "path": "pravilnik/2025/379627",
+   "short": "Pravilnik o bližem sadržaju i načinu sačinjavanja plana upravljanja otpadom proizvođača otpada",
+   "title": "Pravilnik o bližem sadržaju i načinu sačinjavanja plana upravljanja otpadom proizvođača otpada",
+   "url": "https://www.sluzbenilist.me/propisi/379627",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/379627/download",
+     "sha256": "f307d16f5687b54f5d57597fae49b156056940512149b4680e74fa1538c9e1b9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-379629",
+   "path": "pravilnik/2025/379629",
+   "short": "Pravilnik o oznakama vrste upotrijebljenog ambalažnog materijala",
+   "title": "Pravilnik o oznakama vrste upotrijebljenog ambalažnog materijala",
+   "url": "https://www.sluzbenilist.me/propisi/379629",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/379629/download",
+     "sha256": "49630f2dad3b471a566d4b2ab9058629b304fbcdaccb3ec812938809e97e5f8f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-380038",
+   "path": "pravilnik/2025/380038",
+   "short": "Pravilnik o načinu vršenja inspekcijskih pregleda, dokumentaciji koja se podnosi uz zahtjev, obrazac zahtjeva, broj i veličinu uzoraka, način obavještavanja o zadržanim pošiljkama i sadržaj izvještaja o uvozu biocidnih proizvoda ili aktivnih supstanci",
+   "title": "Pravilnik o načinu vršenja inspekcijskih pregleda, dokumentaciji koja se podnosi uz zahtjev, obrazac zahtjeva, broj i veličinu uzoraka, način obavještavanja o zadržanim pošiljkama i sadržaj izvještaja o uvozu biocidnih proizvoda ili aktivnih supstanci",
+   "url": "https://www.sluzbenilist.me/propisi/380038",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/380038/download",
+     "sha256": "092b222d0a90a531ad2799669460ab034692ccd2cc70855d2ca11520b787c3fa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-380093",
+   "path": "pravilnik/2025/380093",
+   "short": "Pravilnik o uslovima i načinu priznavanja recepata za ljekove koji su izdati u drugoj državi*",
+   "title": "Pravilnik o uslovima i načinu priznavanja recepata za ljekove koji su izdati u drugoj državi*",
+   "url": "https://www.sluzbenilist.me/propisi/380093",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/380093/download",
+     "sha256": "429979dab26c2552f068ab3a2c1726e1d62efe1d7819e2aa9be8869062fc3771"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-380474",
+   "path": "pravilnik/2025/380474",
+   "short": "Pravilnik o bližem načinu korišćenja prava na poresko oslobođenje pravnom licu koje reinvestira sredstva iz ostvarene dobiti u poljoprivredne projekte, odnosno koje ulaže sredstva u druge subjekte poljoprivredne djelatnosti, obliku i sadržini zahtjeva za ostvarivanje prava na poresko oslobođenje i obrascu izjave o primljenoj državnoj pomoći",
+   "title": "Pravilnik o bližem načinu korišćenja prava na poresko oslobođenje pravnom licu koje reinvestira sredstva iz ostvarene dobiti u poljoprivredne projekte, odnosno koje ulaže sredstva u druge subjekte poljoprivredne djelatnosti, obliku i sadržini zahtjeva za ostvarivanje prava na poresko oslobođenje i obrascu izjave o primljenoj državnoj pomoći",
+   "url": "https://www.sluzbenilist.me/propisi/380474",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/380474/download",
+     "sha256": "16f834791f9f58844316afbedc75b1e5246f34c1bb86e0f74bc957bd69ea4a91"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-380481",
+   "path": "pravilnik/2025/380481",
+   "short": "Pravilnik o metodologiji obračuna visine godišnje naknade za korišćenje radio- frekvencija",
+   "title": "Pravilnik o metodologiji obračuna visine godišnje naknade za korišćenje radio- frekvencija",
+   "url": "https://www.sluzbenilist.me/propisi/380481",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/380481/download",
+     "sha256": "0446d63988118f1b097913db3dc326525522e194ce767ba67a95ef2b88328107"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-380517",
+   "path": "pravilnik/2025/380517",
+   "short": "Pravilnik o načinu i uslovima ostvarivanja prekogranične zdravstvene zaštite, kao i vrsti zdravstvenih usluga za koje fond ne izdaje prethodno odobrenje*",
+   "title": "Pravilnik o načinu i uslovima ostvarivanja prekogranične zdravstvene zaštite, kao i vrsti zdravstvenih usluga za koje fond ne izdaje prethodno odobrenje*",
+   "url": "https://www.sluzbenilist.me/propisi/380517",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 27,
+     "source_url": "https://www.sluzbenilist.me/propisi/380517/download",
+     "sha256": "88cc18385b2db0310b2d6b72e97fcf32a14ed25a1ace14a120f8fb9d89a7d823"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-380839",
+   "path": "pravilnik/2025/380839",
+   "short": "Pravilnik o dopunama Pravilnika o Listi zaraznih bolesti nad kojima se sprovodi epidemiološki nadzor i protiv kojih se primjenjuju mjere sprječavanja i suzbijanja zaraznih bolesti i definicijama slučajeva zaraznih bolesti",
+   "title": "Pravilnik o dopunama Pravilnika o Listi zaraznih bolesti nad kojima se sprovodi epidemiološki nadzor i protiv kojih se primjenjuju mjere sprječavanja i suzbijanja zaraznih bolesti i definicijama slučajeva zaraznih bolesti",
+   "url": "https://www.sluzbenilist.me/propisi/380839",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/380839/download",
+     "sha256": "72d09fd017675049050932613928a95a09be0829bd4ed59ffafe9125b3689691"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-380846",
+   "path": "pravilnik/2025/380846",
+   "short": "Pravilnik o fitosanitarnim mjerama radi sprečavanja unošenja virusa smeđe naboranosti ploda paradajza-tomato brown rugose fruit virus (tobrfv) tokom službene kontrole*",
+   "title": "Pravilnik o fitosanitarnim mjerama radi sprečavanja unošenja virusa smeđe naboranosti ploda paradajza-tomato brown rugose fruit virus (tobrfv) tokom službene kontrole*",
+   "url": "https://www.sluzbenilist.me/propisi/380846",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/380846/download",
+     "sha256": "0a32d6854e443b6d14fe69dc1f8713bcde982ce397c5155e098bc227bb414f7c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-380850",
+   "path": "pravilnik/2025/380850",
+   "short": "Pravilnik o izmjeni Pravilnika o načinu prevođenja profesionalnog vojnog lica i proizvođenja lica u službi u Vojsci Crne Gore",
+   "title": "Pravilnik o izmjeni Pravilnika o načinu prevođenja profesionalnog vojnog lica i proizvođenja lica u službi u Vojsci Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/380850",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/380850/download",
+     "sha256": "1a95e770c854dc0a9d7704519190c45a64d65d3759cabd498190b392a60a6f1a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-380851",
+   "path": "pravilnik/2025/380851",
+   "short": "Pravilnik o bližem načinu i postupku izdavanja, mirovanja i oduzimanja licenci za obavljanje djelatnosti izrade planskih dokumenata i načinu vođenja registra licenci",
+   "title": "Pravilnik o bližem načinu i postupku izdavanja, mirovanja i oduzimanja licenci za obavljanje djelatnosti izrade planskih dokumenata i načinu vođenja registra licenci",
+   "url": "https://www.sluzbenilist.me/propisi/380851",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/380851/download",
+     "sha256": "4df4009b9f45e7360019375bc424f2089db0ff8df7c10ed93316e213f0da02ce"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-381080",
+   "path": "pravilnik/2025/381080",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o kriterijumima i mjerilima za učešće korisnika, roditelja, odnosno srodnika u plaćanju troškova usluga podrške za život u zajednici, savjetodavno-terapijskih i socijalno- edukativnih usluga i usluga smještaja",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o kriterijumima i mjerilima za učešće korisnika, roditelja, odnosno srodnika u plaćanju troškova usluga podrške za život u zajednici, savjetodavno-terapijskih i socijalno- edukativnih usluga i usluga smještaja",
+   "url": "https://www.sluzbenilist.me/propisi/381080",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/381080/download",
+     "sha256": "78933e96f5f1c2d0bf26867fce5419f6c25546b51a15ace611978ad9f19ddcb5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-381091",
+   "path": "pravilnik/2025/381091",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu ostvarivanja prava na privremenu spriječenost za rad i ostvarivanja prava na naknadu zarade za vrijeme privremene spriječenosti za rad",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu ostvarivanja prava na privremenu spriječenost za rad i ostvarivanja prava na naknadu zarade za vrijeme privremene spriječenosti za rad",
+   "url": "https://www.sluzbenilist.me/propisi/381091",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/381091/download",
+     "sha256": "5f200f1f8581fedfbde488d5abaab902c9aee3736a3b96222d41f8865d8872ca"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-381607",
+   "path": "pravilnik/2025/381607",
+   "short": "Pravilnik o izgledu uniforme, izgledu i sadržaju oznake na uniformi građevinskog inspektora",
+   "title": "Pravilnik o izgledu uniforme, izgledu i sadržaju oznake na uniformi građevinskog inspektora",
+   "url": "https://www.sluzbenilist.me/propisi/381607",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/381607/download",
+     "sha256": "50d292357806eef4f8c5290958e136a156dc7386223268fcc707a083eb102706"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-381611",
+   "path": "pravilnik/2025/381611",
+   "short": "Pravilnik o načinu pakovanja, kriterijumima, uslovima i načinu odstranjivanja otpada koji sadrži azbest",
+   "title": "Pravilnik o načinu pakovanja, kriterijumima, uslovima i načinu odstranjivanja otpada koji sadrži azbest",
+   "url": "https://www.sluzbenilist.me/propisi/381611",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/381611/download",
+     "sha256": "9ec611933c84acd1f9256ed73d562025c66871267d6a1c084991b938fcf9c0d6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-381613",
+   "path": "pravilnik/2025/381613",
+   "short": "Pravilnik o izmjeni Pravilnika o uslovima, kriterijumima i postupku ostvarivanja prava na subvencije",
+   "title": "Pravilnik o izmjeni Pravilnika o uslovima, kriterijumima i postupku ostvarivanja prava na subvencije",
+   "url": "https://www.sluzbenilist.me/propisi/381613",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/381613/download",
+     "sha256": "e5237451642925fe6f375a4ce7b131a9e52627f0e69644aa91fac28da32b9b15"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-381614",
+   "path": "pravilnik/2025/381614",
+   "short": "Pravilnik o izmjenama Pravilnika o fitosanitarnim mjerama za iskorjenjivanje i sprečavanje širenja Globodera pallida (Stone) Behrens i Globodera rostochiensis (Wollenweber) Behrens*",
+   "title": "Pravilnik o izmjenama Pravilnika o fitosanitarnim mjerama za iskorjenjivanje i sprečavanje širenja Globodera pallida (Stone) Behrens i Globodera rostochiensis (Wollenweber) Behrens*",
+   "url": "https://www.sluzbenilist.me/propisi/381614",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/381614/download",
+     "sha256": "1acb2e788fade74ec5e32c0c3c0c0542a7afbc1045a5909203545ed2df95a08d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-381707",
+   "path": "pravilnik/2025/381707",
+   "short": "Pravilnik o označavanju energetske efikasnosti pametnih telefona i tableta*",
+   "title": "Pravilnik o označavanju energetske efikasnosti pametnih telefona i tableta*",
+   "url": "https://www.sluzbenilist.me/propisi/381707",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 16,
+     "source_url": "https://www.sluzbenilist.me/propisi/381707/download",
+     "sha256": "9c19acffb654d4242bc4eb6751323d40785b215e63a6984c0820f55104e1506d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-381715",
+   "path": "pravilnik/2025/381715",
+   "short": "Pravilnik o tehničkim zahtjevima eko dizajna za pametne telefone, mobilne telefone, bežične telefone i tablete*",
+   "title": "Pravilnik o tehničkim zahtjevima eko dizajna za pametne telefone, mobilne telefone, bežične telefone i tablete*",
+   "url": "https://www.sluzbenilist.me/propisi/381715",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/381715/download",
+     "sha256": "d4de322083626a526a42e09cb8ec26a221b10e3ec21e9e8422419bb30d94ae90"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-381859",
+   "path": "pravilnik/2025/381859",
+   "short": "Pravilnik o sadržini obrasca na kojem se vodi evidencija",
+   "title": "Pravilnik o sadržini obrasca na kojem se vodi evidencija",
+   "url": "https://www.sluzbenilist.me/propisi/381859",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/381859/download",
+     "sha256": "feba2447d9f8728b1f1670c4d03a7c885572aa8143eb5321bbb16e47aca72c30"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-381877",
+   "path": "pravilnik/2025/381877",
+   "short": "Pravilnik o sadržini elaborata o pripremnim radovima",
+   "title": "Pravilnik o sadržini elaborata o pripremnim radovima",
+   "url": "https://www.sluzbenilist.me/propisi/381877",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/381877/download",
+     "sha256": "d054a6cbbc6ea6baa41492439f0d2e4026a8e0bae9ac53675ffdd435d8c0339f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-381882",
+   "path": "pravilnik/2025/381882",
+   "short": "Pravilnik o bližem sadržaju i načinu vođenja centralnog registra građenja",
+   "title": "Pravilnik o bližem sadržaju i načinu vođenja centralnog registra građenja",
+   "url": "https://www.sluzbenilist.me/propisi/381882",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/381882/download",
+     "sha256": "d2381440ca769ee490aa1c30d89ff4244f21efe7e8b35aad7921da47ae1ee60b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-382092",
+   "path": "pravilnik/2025/382092",
+   "short": "Pravilnik o izmjeni Pravilnika o uslovima za proizvodnju i stavljanje u promet sadnog materijala voća*",
+   "title": "Pravilnik o izmjeni Pravilnika o uslovima za proizvodnju i stavljanje u promet sadnog materijala voća*",
+   "url": "https://www.sluzbenilist.me/propisi/382092",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/382092/download",
+     "sha256": "2b8042819e295abae8b863e734ddb97203778817ae5dd4e210c858508035979d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-382095",
+   "path": "pravilnik/2025/382095",
+   "short": "Pravilnik o izmjeni Pravilnika o fitosanitarnim mjerama za iskorjenjivanje i sprečavanje širenja Synchytrium endobioticum (Schilbersky)*",
+   "title": "Pravilnik o izmjeni Pravilnika o fitosanitarnim mjerama za iskorjenjivanje i sprečavanje širenja Synchytrium endobioticum (Schilbersky)*",
+   "url": "https://www.sluzbenilist.me/propisi/382095",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/382095/download",
+     "sha256": "9226019ce63aa8246f810cf9cafdfdb9b4728e139d0c68f7bc57e813d070d7f0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-382187",
+   "path": "pravilnik/2025/382187",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uslovima i obavezama u vezi sa pružanjem audiovizuelnih medijskih usluga na zahtjev",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uslovima i obavezama u vezi sa pružanjem audiovizuelnih medijskih usluga na zahtjev",
+   "url": "https://www.sluzbenilist.me/propisi/382187",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/382187/download",
+     "sha256": "55f27f6c37b1bd3ce3c99d765d796ad446fe8d6b698ae6c696b0c8b922f409a4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-382308",
+   "path": "pravilnik/2025/382308",
+   "short": "Pravilnik o načinu i postupku osmatranja ponašanja tla i objekta u toku građenja i upotrebe",
+   "title": "Pravilnik o načinu i postupku osmatranja ponašanja tla i objekta u toku građenja i upotrebe",
+   "url": "https://www.sluzbenilist.me/propisi/382308",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/382308/download",
+     "sha256": "6ff992eedba1a8e1dcfd9a95bf8603aa7b49450b3e72d89a051e245ed641ca68"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-382510",
+   "path": "pravilnik/2025/382510",
+   "short": "Pravilnik o dopuni Pravilnika o uslovima za izradu tehničke dokumentacije za stambenu zgradu",
+   "title": "Pravilnik o dopuni Pravilnika o uslovima za izradu tehničke dokumentacije za stambenu zgradu",
+   "url": "https://www.sluzbenilist.me/propisi/382510",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/382510/download",
+     "sha256": "a03d0f95bfb9aeb6db3eb8daf9be5f2d9c270aa82e215b1f4a6a5cc3c6f3a461"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-382735",
+   "path": "pravilnik/2025/382735",
+   "short": "Pravilnik o bližem sadržaju i obrascu zapisnika o inspekcijskom nadzoru",
+   "title": "Pravilnik o bližem sadržaju i obrascu zapisnika o inspekcijskom nadzoru",
+   "url": "https://www.sluzbenilist.me/propisi/382735",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/382735/download",
+     "sha256": "8f2a27946698e2f2fdd83c27b75c60bea60748d9195297e649dfca761979e959"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-382740",
+   "path": "pravilnik/2025/382740",
+   "short": "Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnog organizma Meloidogyne graminicola (Golden & Birchfield)*",
+   "title": "Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnog organizma Meloidogyne graminicola (Golden & Birchfield)*",
+   "url": "https://www.sluzbenilist.me/propisi/382740",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.me/propisi/382740/download",
+     "sha256": "d84feb8113a0b16b56d9fc897c0c7e10c8d490a0c94567da56ed480960a9e6b2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-382791",
+   "path": "pravilnik/2025/382791",
+   "short": "Pravilnik o bližim kriterijumima, načinu izbora i obavezama pripadnika policije za učešće u mirovnim misijama i drugim aktivnostima u inostranstvu",
+   "title": "Pravilnik o bližim kriterijumima, načinu izbora i obavezama pripadnika policije za učešće u mirovnim misijama i drugim aktivnostima u inostranstvu",
+   "url": "https://www.sluzbenilist.me/propisi/382791",
+   "versions": [
+    {
+     "from": "2025-06-21",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.me/propisi/382791/download",
+     "sha256": "c73c654ff6d7d785d69f80410147c2dd3c8b1241c8c245204b419241300d2464"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-382928",
+   "path": "pravilnik/2025/382928",
+   "short": "Pravilnik o depozitima i garancijama kojima društva za osiguranje obezbjeđuju izmirenje obaveza za koje odgovara udruženje - Nacionalni biro osiguravača Crne Gore",
+   "title": "Pravilnik o depozitima i garancijama kojima društva za osiguranje obezbjeđuju izmirenje obaveza za koje odgovara udruženje - Nacionalni biro osiguravača Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/382928",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/382928/download",
+     "sha256": "c4fd299c8136e7967f128001aa3257e0863abe4653459b2b274bef7a0c33e74f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-382932",
+   "path": "pravilnik/2025/382932",
+   "short": "Pravilnik o bližim uslovima u pogledu prostora, kadra, opreme i sredstava za sprovođenje mjera preventivne dezinfekcije, dezinsekcije i deratizacije",
+   "title": "Pravilnik o bližim uslovima u pogledu prostora, kadra, opreme i sredstava za sprovođenje mjera preventivne dezinfekcije, dezinsekcije i deratizacije",
+   "url": "https://www.sluzbenilist.me/propisi/382932",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/382932/download",
+     "sha256": "6a3ca4a319c2fcebfcce5c51e7b06d46e9cbd35db540605b21d2dba56887de73"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-382935",
+   "path": "pravilnik/2025/382935",
+   "short": "Pravilnik o programu i načinu polaganja stručnog ispita za obavljanje djelatnosti izrade planskih dokumenata",
+   "title": "Pravilnik o programu i načinu polaganja stručnog ispita za obavljanje djelatnosti izrade planskih dokumenata",
+   "url": "https://www.sluzbenilist.me/propisi/382935",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.me/propisi/382935/download",
+     "sha256": "24d79abfff1a060c02b1324dc6a4487a9281179334cce2de2d7ecf250c94d9df"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383160",
+   "path": "pravilnik/2025/383160",
+   "short": "Pravilnik o bližem načinu izdavanja, korišćenja, prenosa i prestanka važenja garancije porijekla za energiju proizvedenu iz obnovljivih izvora",
+   "title": "Pravilnik o bližem načinu izdavanja, korišćenja, prenosa i prestanka važenja garancije porijekla za energiju proizvedenu iz obnovljivih izvora",
+   "url": "https://www.sluzbenilist.me/propisi/383160",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/383160/download",
+     "sha256": "b40994863c39df7cd3063ad0ac9ad8c014a9373117b7702ca64201707bae8291"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383325",
+   "path": "pravilnik/2025/383325",
+   "short": "Pravilnik o tehničkim zahtjevima eko dizajna za mašine za sušenje veša sa bubnjem za domaćinstvo*",
+   "title": "Pravilnik o tehničkim zahtjevima eko dizajna za mašine za sušenje veša sa bubnjem za domaćinstvo*",
+   "url": "https://www.sluzbenilist.me/propisi/383325",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 16,
+     "source_url": "https://www.sluzbenilist.me/propisi/383325/download",
+     "sha256": "2154866d8a8c0452a7aebc2e0676f42dcd1252989610fbe4a54537f61406e6a3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383380",
+   "path": "pravilnik/2025/383380",
+   "short": "Pravilnik o sadržaju zahtjeva za dodjelu statusa povlašćenog proizvođača električne energije i dokazima o ispunjenosti uslova za sticanje statusa povlašćenog proizvođača",
+   "title": "Pravilnik o sadržaju zahtjeva za dodjelu statusa povlašćenog proizvođača električne energije i dokazima o ispunjenosti uslova za sticanje statusa povlašćenog proizvođača",
+   "url": "https://www.sluzbenilist.me/propisi/383380",
+   "versions": [
+    {
+     "from": "2025-07-12",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/383380/download",
+     "sha256": "6cf21a29b1fd51d44b3ab4e8d32aa4edcc09278a5803d2f6aacb458e3ee9dea7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383484",
+   "path": "pravilnik/2025/383484",
+   "short": "Pravilnik o sadržaju zahtjeva za izdavanje energetske dozvole, potrebnoj dokumentaciji, sadržaju obrazaca za podnošenje zahtjeva i sadržaju evidencije izdatih energetskih dozvola",
+   "title": "Pravilnik o sadržaju zahtjeva za izdavanje energetske dozvole, potrebnoj dokumentaciji, sadržaju obrazaca za podnošenje zahtjeva i sadržaju evidencije izdatih energetskih dozvola",
+   "url": "https://www.sluzbenilist.me/propisi/383484",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/383484/download",
+     "sha256": "67125cf2ff0681f0dd47e53b797b9882a2b9c781420bcee7004bdb7be50b38d9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383486",
+   "path": "pravilnik/2025/383486",
+   "short": "Pravilnik o sadržaju zahtjeva za prenos statusa povlašćenog proizvođača električne energije i dokazima o ispunjenosti uslova za prenos statusa povlašćenog proizvođača",
+   "title": "Pravilnik o sadržaju zahtjeva za prenos statusa povlašćenog proizvođača električne energije i dokazima o ispunjenosti uslova za prenos statusa povlašćenog proizvođača",
+   "url": "https://www.sluzbenilist.me/propisi/383486",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/383486/download",
+     "sha256": "bf4b4eeb007750cffe247b80b46598c78fde6855d625fcb3997fffcbda6607da"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383498",
+   "path": "pravilnik/2025/383498",
+   "short": "Pravilnik o označavanju energetske efikasnosti mašina za sušenje veša sa bubnjem za domaćinstvo*",
+   "title": "Pravilnik o označavanju energetske efikasnosti mašina za sušenje veša sa bubnjem za domaćinstvo*",
+   "url": "https://www.sluzbenilist.me/propisi/383498",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.me/propisi/383498/download",
+     "sha256": "a83b85814d4e34c000bff96522f3dfbd1847ae28e2932cb5062b63d93103fd87"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383507",
+   "path": "pravilnik/2025/383507",
+   "short": "Pravilnik o bližem sadržaju i načinu vođenja evidencije povlašćenih proizvođača",
+   "title": "Pravilnik o bližem sadržaju i načinu vođenja evidencije povlašćenih proizvođača",
+   "url": "https://www.sluzbenilist.me/propisi/383507",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/383507/download",
+     "sha256": "0185b085e80b26bebba72791a7c28674edc407d94baebdfe76dcf4c46f1cc545"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383514",
+   "path": "pravilnik/2025/383514",
+   "short": "Pravilnik o jediničnoj naknadi za pozitivno ili negativno balansno odstupanje povlašćenih proizvođača u sistemu tržišne premije",
+   "title": "Pravilnik o jediničnoj naknadi za pozitivno ili negativno balansno odstupanje povlašćenih proizvođača u sistemu tržišne premije",
+   "url": "https://www.sluzbenilist.me/propisi/383514",
+   "versions": [
+    {
+     "from": "2025-06-28",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/383514/download",
+     "sha256": "a393b9bd93d1f0751cbf12a322b69e1b8c6a6bc3e1361ce934aa39cf114c41c4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383516",
+   "path": "pravilnik/2025/383516",
+   "short": "Pravilnik o bližim uslovima koje treba da ispunjava pravno lice za procjenu i mjerenje potencijala obnovljivih izvora energije",
+   "title": "Pravilnik o bližim uslovima koje treba da ispunjava pravno lice za procjenu i mjerenje potencijala obnovljivih izvora energije",
+   "url": "https://www.sluzbenilist.me/propisi/383516",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/383516/download",
+     "sha256": "9638958426767dfcb9bb97ad50b91cf04868dd66afc478f7c86bd87e2a87aa60"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383527",
+   "path": "pravilnik/2025/383527",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o bližim uslovima koje treba da ispunjava auto-škola u pogledu prostora, nastavnih sredstava, vozila i kadra i minimalnim uslovima koje treba da ispunjava vozilo za obuku kandidata za vozača*",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o bližim uslovima koje treba da ispunjava auto-škola u pogledu prostora, nastavnih sredstava, vozila i kadra i minimalnim uslovima koje treba da ispunjava vozilo za obuku kandidata za vozača*",
+   "url": "https://www.sluzbenilist.me/propisi/383527",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/383527/download",
+     "sha256": "e64f762d1df694b432649afed5a67c0dfd4fda98e7ac8c46476f094375da6710"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383530",
+   "path": "pravilnik/2025/383530",
+   "short": "Pravilnik o učestalosti kontrole i normativima mikrobiološke čistoće u objektima pod sanitarnim nadzorom i objektima u kojima se obavlja djelatnost rukovanja hranom",
+   "title": "Pravilnik o učestalosti kontrole i normativima mikrobiološke čistoće u objektima pod sanitarnim nadzorom i objektima u kojima se obavlja djelatnost rukovanja hranom",
+   "url": "https://www.sluzbenilist.me/propisi/383530",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/383530/download",
+     "sha256": "cb4063a34f068601674e18b4d3fabd5434a3cdbfa74fd06754e2c4e387b5448a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383537",
+   "path": "pravilnik/2025/383537",
+   "short": "Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnog organizma Pomacea (Perry)*",
+   "title": "Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnog organizma Pomacea (Perry)*",
+   "url": "https://www.sluzbenilist.me/propisi/383537",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/383537/download",
+     "sha256": "4b2edd57ece69ce7bfaa9c70c1ace0d806ac771a35a64a33504a22fc78493d1b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383549",
+   "path": "pravilnik/2025/383549",
+   "short": "Pravilnik o izmjeni Pravilnika o unaprjeđenju sigurnosti, istraživanju i sprečavanju nesreća i nezgoda u civilnom vazduhoplovstvu",
+   "title": "Pravilnik o izmjeni Pravilnika o unaprjeđenju sigurnosti, istraživanju i sprečavanju nesreća i nezgoda u civilnom vazduhoplovstvu",
+   "url": "https://www.sluzbenilist.me/propisi/383549",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/383549/download",
+     "sha256": "7390ab384ea14906ce77e2a416857ffb1419476fb7cb5c7e55b30edebb00248b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383556",
+   "path": "pravilnik/2025/383556",
+   "short": "Pravilnik o načinu polaganja ispita za instruktora vožnje i sastavu ispitne komisije",
+   "title": "Pravilnik o načinu polaganja ispita za instruktora vožnje i sastavu ispitne komisije",
+   "url": "https://www.sluzbenilist.me/propisi/383556",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.me/propisi/383556/download",
+     "sha256": "2399bc6bcdd81f7378ce9dba919b88f758cf57164aa42116243df5fd080f74bf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383693",
+   "path": "pravilnik/2025/383693",
+   "short": "Pravilnik o stručnom ispitu i obrascu licence za vršenje poslova ovlašćenog lica za sprečavanje pranja novca i finansiranja terorizma",
+   "title": "Pravilnik o stručnom ispitu i obrascu licence za vršenje poslova ovlašćenog lica za sprečavanje pranja novca i finansiranja terorizma",
+   "url": "https://www.sluzbenilist.me/propisi/383693",
+   "versions": [
+    {
+     "from": "2025-07-26",
+     "units": 24,
+     "source_url": "https://www.sluzbenilist.me/propisi/383693/download",
+     "sha256": "b30f9324ac31c879234597e46c270bd378a95be5ca59450785626bbe8ca0f480"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383755",
+   "path": "pravilnik/2025/383755",
+   "short": "Pravilnik o načinu javljanja nadležnoj organizacionoj jedinici policije učinioca krivičnog djela protiv polne slobode nad djetetom",
+   "title": "Pravilnik o načinu javljanja nadležnoj organizacionoj jedinici policije učinioca krivičnog djela protiv polne slobode nad djetetom",
+   "url": "https://www.sluzbenilist.me/propisi/383755",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/383755/download",
+     "sha256": "cc003ae8416e03265efccfebc516b7d3f9c2f1b2b55fc678cf301a7934bbe915"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383760",
+   "path": "pravilnik/2025/383760",
+   "short": "Pravilnik o načinu izračunavanja uštede primarne energije iz visokoefikasne kogeneracije i određivanja stepena efikasnosti kogeneracionog objekta",
+   "title": "Pravilnik o načinu izračunavanja uštede primarne energije iz visokoefikasne kogeneracije i određivanja stepena efikasnosti kogeneracionog objekta",
+   "url": "https://www.sluzbenilist.me/propisi/383760",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/383760/download",
+     "sha256": "c3d4a59114ba99020c9ef056852258f74c6ab8c420e79078a26b24b0d3a78edc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383790",
+   "path": "pravilnik/2025/383790",
+   "short": "Pravilnik o obrascu i načinu podnošenja prijave korišćenja radio-frekvencija koje se mogu koristiti bez odobrenja za korišćenje radio-frekvencija za koje je utvrđena obaveza prijave korišćenja",
+   "title": "Pravilnik o obrascu i načinu podnošenja prijave korišćenja radio-frekvencija koje se mogu koristiti bez odobrenja za korišćenje radio-frekvencija za koje je utvrđena obaveza prijave korišćenja",
+   "url": "https://www.sluzbenilist.me/propisi/383790",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/383790/download",
+     "sha256": "0bc71577c323bebc8f3cc7223b62614e5ff43e5622ec410a6d6503292de2c8ca"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383816",
+   "path": "pravilnik/2025/383816",
+   "short": "Pravilnik o interoperabilnosti automobilskih i potrošačkih radio-prijemnika i potrošačke digitalne televizijske opreme i uslovima za prelazak na nove standarde u oblasti radio-difuzije",
+   "title": "Pravilnik o interoperabilnosti automobilskih i potrošačkih radio-prijemnika i potrošačke digitalne televizijske opreme i uslovima za prelazak na nove standarde u oblasti radio-difuzije",
+   "url": "https://www.sluzbenilist.me/propisi/383816",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/383816/download",
+     "sha256": "1a6d8e86387a453242bbfbad41b2c120311363f27d40b7fdf0ff699ed3eaf73b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383869",
+   "path": "pravilnik/2025/383869",
+   "short": "Pravilnik o kriterijumima za upis na Listu nezavisnih eksperata i načinu ocjenjivanja naučnoistraživačkih programa i projekata",
+   "title": "Pravilnik o kriterijumima za upis na Listu nezavisnih eksperata i načinu ocjenjivanja naučnoistraživačkih programa i projekata",
+   "url": "https://www.sluzbenilist.me/propisi/383869",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/383869/download",
+     "sha256": "b30288631fdb2d3ef3de0d929916b6dd71810b90ee8a72e268e2e346249ec1fb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383874",
+   "path": "pravilnik/2025/383874",
+   "short": "Pravilnik o bližem sadržaju energetskog bilansa, vrstama podataka za izradu bilansa i načinu njihovog dostavljanja",
+   "title": "Pravilnik o bližem sadržaju energetskog bilansa, vrstama podataka za izradu bilansa i načinu njihovog dostavljanja",
+   "url": "https://www.sluzbenilist.me/propisi/383874",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/383874/download",
+     "sha256": "ba466a026d7cf0df43e89892bad72fa2b6d1923b5cc2aac7eb8554a08848d969"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383875",
+   "path": "pravilnik/2025/383875",
+   "short": "Pravilnik o bližim uslovima za izdavanje i obnavljanje, kao i načinu podnošenja zahtjeva za izdavanje i obnavljanje licence za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Pravilnik o bližim uslovima za izdavanje i obnavljanje, kao i načinu podnošenja zahtjeva za izdavanje i obnavljanje licence za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/383875",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.me/propisi/383875/download",
+     "sha256": "67fd06e39210f8c488d82c9d11e47ade87a6bd45f1dcefc97543d88824b2461b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383878",
+   "path": "pravilnik/2025/383878",
+   "short": "Pravilnik o bližem sadržaju Registra licenciranih naučnoistraživačkih ustanova",
+   "title": "Pravilnik o bližem sadržaju Registra licenciranih naučnoistraživačkih ustanova",
+   "url": "https://www.sluzbenilist.me/propisi/383878",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/383878/download",
+     "sha256": "e61de3381dd12dab67018f00979afd181a16401f4c72f1446dd72a54c0013c62"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383880",
+   "path": "pravilnik/2025/383880",
+   "short": "Pravilnik o načinu uspostavljanja javnog imenika i službe davanja informacija o brojevima krajnjih korisnika",
+   "title": "Pravilnik o načinu uspostavljanja javnog imenika i službe davanja informacija o brojevima krajnjih korisnika",
+   "url": "https://www.sluzbenilist.me/propisi/383880",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/383880/download",
+     "sha256": "ce625b60465b42646285eaf3544f966753bf62758e9e1cf91d1c393c3d07d904"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383915",
+   "path": "pravilnik/2025/383915",
+   "short": "Pravilnik o fitosanitarnim mjerama za sprečavanje odomaćivanja i širenja štetnog organizma Agrilus planipennis Fairmaire*",
+   "title": "Pravilnik o fitosanitarnim mjerama za sprečavanje odomaćivanja i širenja štetnog organizma Agrilus planipennis Fairmaire*",
+   "url": "https://www.sluzbenilist.me/propisi/383915",
+   "versions": [
+    {
+     "from": "2025-08-09",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/383915/download",
+     "sha256": "58b92ba9c76228f9bb4243f31605ce41446f1ad482db923042364f9fff5599ff"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-383992",
+   "path": "pravilnik/2025/383992",
+   "short": "Pravilnik o načinu obračuna udjela energije iz obnovljivih izvora u ukupnoj finalnoj potrošnji energije",
+   "title": "Pravilnik o načinu obračuna udjela energije iz obnovljivih izvora u ukupnoj finalnoj potrošnji energije",
+   "url": "https://www.sluzbenilist.me/propisi/383992",
+   "versions": [
+    {
+     "from": "2025-08-09",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.me/propisi/383992/download",
+     "sha256": "be3e10c453c99f776ec3c4f4f9af496a77ab2d8333a34db2583cd837c82116f7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-384047",
+   "path": "pravilnik/2025/384047",
+   "short": "Pravilnik o vršenju nadzora nad stručnim radom ustanova, drugih oblika organizovanja i fizičkih lica koji obavljaju djelatnost socijalne i dječje zaštite",
+   "title": "Pravilnik o vršenju nadzora nad stručnim radom ustanova, drugih oblika organizovanja i fizičkih lica koji obavljaju djelatnost socijalne i dječje zaštite",
+   "url": "https://www.sluzbenilist.me/propisi/384047",
+   "versions": [
+    {
+     "from": "2025-08-09",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/384047/download",
+     "sha256": "19397096f3d5ebeadce89d480a006679fe1c1c93c425eb32597675f30c1e67a9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-384124",
+   "path": "pravilnik/2025/384124",
+   "short": "Pravilnik o metodama ispitivanja opasnih svojstava otpada",
+   "title": "Pravilnik o metodama ispitivanja opasnih svojstava otpada",
+   "url": "https://www.sluzbenilist.me/propisi/384124",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/384124/download",
+     "sha256": "443f0e111678f8e06df78d62be21da09f1a858e4cc734200340ad046e098da2c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-384360",
+   "path": "pravilnik/2025/384360",
+   "short": "Pravilnik o uslovima za uvoz hrane i hrane za životinje radi praćenja nivoa radioaktivnosti zbog incidenta u nuklearnoj elektrani u Černobilu*",
+   "title": "Pravilnik o uslovima za uvoz hrane i hrane za životinje radi praćenja nivoa radioaktivnosti zbog incidenta u nuklearnoj elektrani u Černobilu*",
+   "url": "https://www.sluzbenilist.me/propisi/384360",
+   "versions": [
+    {
+     "from": "2025-08-16",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/384360/download",
+     "sha256": "b51fa6fc184589f875fc4d06a42d3dfa3623e632fedc88b5ace75bc9f43d4d99"
     }
    ]
   },
@@ -7045,6 +10315,471 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.me/propisi/387922/download",
      "sha256": "dde3be89c18393f22ec1941505abfaaf969f012f08ad033117a9a51166386d4b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-363315",
+   "path": "uredba/2020/363315",
+   "short": "Uredba o izmjenama Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za nacionalne parkove Crne Gore",
+   "title": "Uredba o izmjenama Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za nacionalne parkove Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/363315",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/363315/download",
+     "sha256": "344cedab419a094eba5be96e4e5d0c2463c061746b35ba7db2c5cb0eba0586bb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-360643",
+   "path": "uredba/2023/360643",
+   "short": "UREDBA O DOPUNAMA UREDBE O OBILjEŽAVANjU DUVANSKIH PROIZVODA I ALKOHOLNIH PIĆA AKCIZNIM MARKICAMA",
+   "title": "UREDBA O DOPUNAMA UREDBE O OBILjEŽAVANjU DUVANSKIH PROIZVODA I ALKOHOLNIH PIĆA AKCIZNIM MARKICAMA",
+   "url": "https://www.sluzbenilist.me/propisi/360643",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/360643/download",
+     "sha256": "2746831a54f7dc5d8dd46c87498f25b0f12fb3132067bf55d1705baadc611b03"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-360718",
+   "path": "uredba/2023/360718",
+   "short": "Uredba o prestanku važenja Uredbe o uslovima, postupku i kriterijumima za grupno izuzeće od zabrane sporazuma u sektoru osiguranja",
+   "title": "Uredba o prestanku važenja Uredbe o uslovima, postupku i kriterijumima za grupno izuzeće od zabrane sporazuma u sektoru osiguranja",
+   "url": "https://www.sluzbenilist.me/propisi/360718",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/360718/download",
+     "sha256": "f32e7c4d32bfcf391d98a7c211e46c08d06690696837eea023d141be68794b4f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-360839",
+   "path": "uredba/2023/360839",
+   "short": "Uredba o kriterijumima za utvrđivanje granica sidrišta luke i načinu označavanja tih granica",
+   "title": "Uredba o kriterijumima za utvrđivanje granica sidrišta luke i načinu označavanja tih granica",
+   "url": "https://www.sluzbenilist.me/propisi/360839",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/360839/download",
+     "sha256": "20de7ccf7a142fafe6a1c9f31d48fae5cf6d065d9d450954a0293da4c9d4ceb4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-361864",
+   "path": "uredba/2023/361864",
+   "short": "Uredba o broju miritelja i arbitara i visini nagrade za rad i naknade troškova u postupku mirnog rješavanja radnih sporova",
+   "title": "Uredba o broju miritelja i arbitara i visini nagrade za rad i naknade troškova u postupku mirnog rješavanja radnih sporova",
+   "url": "https://www.sluzbenilist.me/propisi/361864",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/361864/download",
+     "sha256": "67c17f7e61b0eb7145df8f50c76663b92b353e292a1683ed868d70fafbb2fc8a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-361889",
+   "path": "uredba/2023/361889",
+   "short": "Uredba o bližem načinu sprovođenja finansijske podrške Evropske unije kroz instrument pretpristupne podrške",
+   "title": "Uredba o bližem načinu sprovođenja finansijske podrške Evropske unije kroz instrument pretpristupne podrške",
+   "url": "https://www.sluzbenilist.me/propisi/361889",
+   "versions": [
+    {
+     "from": "2023-08-05",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/361889/download",
+     "sha256": "de9f1620fac499ce8c9908e38b405d7b3ea8a0bafdf0c20eed13a234011a98b0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-361908",
+   "path": "uredba/2023/361908",
+   "short": "Uredba o izmjeni Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD II program)",
+   "title": "Uredba o izmjeni Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD II program)",
+   "url": "https://www.sluzbenilist.me/propisi/361908",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/361908/download",
+     "sha256": "824b15df63854d1b243f8fc87365d55d7bb6d5ddcb69865b11298bea08d7de7a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-361918",
+   "path": "uredba/2023/361918",
+   "short": "Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2023. godinu",
+   "title": "Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/361918",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/361918/download",
+     "sha256": "65c765c4b995ea249172b6a9196b468bb7a6f84858e733dc9dcfdee05081cc0d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-363189",
+   "path": "uredba/2023/363189",
+   "short": "Uredba o dopuni Uredbe o Vladi Crne Gore",
+   "title": "Uredba o dopuni Uredbe o Vladi Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/363189",
+   "versions": [
+    {
+     "from": "2024-01-06",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/363189/download",
+     "sha256": "f4391931a8b8935bdcaee5e9de7f199ae604c52a9fa74c4863547955f07f664f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-363195",
+   "path": "uredba/2023/363195",
+   "short": "Uredba o izmjenama Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći evropske unije (IPARD II program)",
+   "title": "Uredba o izmjenama Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći evropske unije (IPARD II program)",
+   "url": "https://www.sluzbenilist.me/propisi/363195",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/363195/download",
+     "sha256": "73510a7f0cd2b7d0ce578832f549f9cc3cdae03bd5c6646d8e7b03b2b14c9103"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-369340",
+   "path": "uredba/2024/369340",
+   "short": "Uredba o uslovima koje moraju da ispunjavaju luke razvrstane prema vrsti pomorskog saobraćaja i namjeni",
+   "title": "Uredba o uslovima koje moraju da ispunjavaju luke razvrstane prema vrsti pomorskog saobraćaja i namjeni",
+   "url": "https://www.sluzbenilist.me/propisi/369340",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/369340/download",
+     "sha256": "f6b3767fce6d62b10cffafe2c48b436e1c676a11cfb4b3859af1248b11d0500d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-372161",
+   "path": "uredba/2024/372161",
+   "short": "Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2024. godinu",
+   "title": "Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/372161",
+   "versions": [
+    {
+     "from": "2024-07-27",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/372161/download",
+     "sha256": "85bf2e153835d92d4ecb5970468f94017950981ddc638e78d7aa32a6e2b50285"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-372992",
+   "path": "uredba/2024/372992",
+   "short": "Uredba o izmjenama Uredbe o rekonstrukciji službenih zgrada",
+   "title": "Uredba o izmjenama Uredbe o rekonstrukciji službenih zgrada",
+   "url": "https://www.sluzbenilist.me/propisi/372992",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/372992/download",
+     "sha256": "fd17bf24c8925c1b79e8e6fdeecbd4fde083aa1e98dbcfdf38b6c7f74a756bf7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-373630",
+   "path": "uredba/2024/373630",
+   "short": "Uredba o dopuni Uredbe o načinu utvrđivanja koncesione naknade za privredno društvo ili pravno lice koje koristi vodnu akumulaciju i/ili vodotok za proizvodnju električne energije u hidroelektranama",
+   "title": "Uredba o dopuni Uredbe o načinu utvrđivanja koncesione naknade za privredno društvo ili pravno lice koje koristi vodnu akumulaciju i/ili vodotok za proizvodnju električne energije u hidroelektranama",
+   "url": "https://www.sluzbenilist.me/propisi/373630",
+   "versions": [
+    {
+     "from": "2024-10-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/373630/download",
+     "sha256": "ed0066a5714f00f23d6c2496bbad0ba367f07e1cfeb2a1cec7c4baf80178b98e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-376272",
+   "path": "uredba/2024/376272",
+   "short": "Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine jedinicama lokalne samouprave",
+   "title": "Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine jedinicama lokalne samouprave",
+   "url": "https://www.sluzbenilist.me/propisi/376272",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376272/download",
+     "sha256": "743325f66d3c373d6c92a6254fd89f62726bf522e5a4e8ed7203d183629979a4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-376299",
+   "path": "uredba/2024/376299",
+   "short": "Uredba o izmjenama Uredbe o organizaciji indirektnog upravljanja sprovođenja finansijske pomoći u okviru Instrumenta pretpristupne podrške Evropske unije (IPA II)",
+   "title": "Uredba o izmjenama Uredbe o organizaciji indirektnog upravljanja sprovođenja finansijske pomoći u okviru Instrumenta pretpristupne podrške Evropske unije (IPA II)",
+   "url": "https://www.sluzbenilist.me/propisi/376299",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/376299/download",
+     "sha256": "bb3cfce4ae09a934eaa546d2939ad69f2dcc3df46a81b48949c6d2290c3b9c1f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-378045",
+   "path": "uredba/2025/378045",
+   "short": "Uredba o dopunama Uredbe o uniformi, oznakama zvanja, naoružanju, vozilima i posebnoj opremi službenika obezbjeđenja u Upravi za izvršenje krivičnih sankcija",
+   "title": "Uredba o dopunama Uredbe o uniformi, oznakama zvanja, naoružanju, vozilima i posebnoj opremi službenika obezbjeđenja u Upravi za izvršenje krivičnih sankcija",
+   "url": "https://www.sluzbenilist.me/propisi/378045",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/378045/download",
+     "sha256": "dedf82a157a70984c743441444d9eddb6b84be2e61df62f8d7ee179ea435f80a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-379601",
+   "path": "uredba/2025/379601",
+   "short": "Uredba o visini troškova u postupku izdavanja dozvole za stavljanje biocidnih proizvoda u promet i upotrebu",
+   "title": "Uredba o visini troškova u postupku izdavanja dozvole za stavljanje biocidnih proizvoda u promet i upotrebu",
+   "url": "https://www.sluzbenilist.me/propisi/379601",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/379601/download",
+     "sha256": "4b4771e57eafeb2b4c786bfafcae2eeb7648d2925acbf2acde0167cbf883ed55"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-380471",
+   "path": "uredba/2025/380471",
+   "short": "Uredba o uslovima i postupku za ostvarivanje prava na oslobođenje od plaćanja uvoznih dažbina",
+   "title": "Uredba o uslovima i postupku za ostvarivanje prava na oslobođenje od plaćanja uvoznih dažbina",
+   "url": "https://www.sluzbenilist.me/propisi/380471",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 105,
+     "source_url": "https://www.sluzbenilist.me/propisi/380471/download",
+     "sha256": "42826a6250444e38015519b006087f765d614aed90a6dc2463eeed4dc26656fc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-382089",
+   "path": "uredba/2025/382089",
+   "short": "Uredba o izmjeni Uredbe o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2025. godinu - Agrobudžet",
+   "title": "Uredba o izmjeni Uredbe o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2025. godinu - Agrobudžet",
+   "url": "https://www.sluzbenilist.me/propisi/382089",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/382089/download",
+     "sha256": "3bb11b472efc51f5184c8b6e386d4f92bc32c834ec259ed91b0bfa79e5100706"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-382317",
+   "path": "uredba/2025/382317",
+   "short": "Uredba o izmjeni Uredbe o uslovima i kriterijumima objavljivanja liste poreskih dužnika",
+   "title": "Uredba o izmjeni Uredbe o uslovima i kriterijumima objavljivanja liste poreskih dužnika",
+   "url": "https://www.sluzbenilist.me/propisi/382317",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/382317/download",
+     "sha256": "4f6596ecc9b09410132ed1d4aca2ccbb77bebf22a4cd2d189199ff67a8b78116"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-383150",
+   "path": "uredba/2025/383150",
+   "short": "Uredba o prestanku važenja Uredbe o bližim uslovima i načinu izdavanja, prenošenja, iskorišćenja i povlačenja garancije porijekla električne energije proizvedene iz obnovljivih izvora energije i visokoefikasne kogeneracije",
+   "title": "Uredba o prestanku važenja Uredbe o bližim uslovima i načinu izdavanja, prenošenja, iskorišćenja i povlačenja garancije porijekla električne energije proizvedene iz obnovljivih izvora energije i visokoefikasne kogeneracije",
+   "url": "https://www.sluzbenilist.me/propisi/383150",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/383150/download",
+     "sha256": "9ed9846bbcf3f52fbf84b7e0b0bb41fb6aa8af25f009c3ad941dfcc970f2abcc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-383358",
+   "path": "uredba/2025/383358",
+   "short": "Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2025. godinu",
+   "title": "Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2025. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/383358",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/383358/download",
+     "sha256": "0a2e97db1d52c8b524bbc8cf6b0ae542094738b7747a34688d1dbdfc9b3c7e11"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-383383",
+   "path": "uredba/2025/383383",
+   "short": "Uredba o prestanku važenja Uredbe o načinu sticanja statusa i ostvarivanja prava povlašćenog proizvođača električne energije",
+   "title": "Uredba o prestanku važenja Uredbe o načinu sticanja statusa i ostvarivanja prava povlašćenog proizvođača električne energije",
+   "url": "https://www.sluzbenilist.me/propisi/383383",
+   "versions": [
+    {
+     "from": "2025-07-12",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/383383/download",
+     "sha256": "3b60b6b510f79c2329f79e84e63009af966470d8c94d029fd8435c24a9bd2290"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-383488",
+   "path": "uredba/2025/383488",
+   "short": "Uredba o bližim kriterijumima za utvrđivanje energetski siromašnog domaćinstva",
+   "title": "Uredba o bližim kriterijumima za utvrđivanje energetski siromašnog domaćinstva",
+   "url": "https://www.sluzbenilist.me/propisi/383488",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/383488/download",
+     "sha256": "4179d3ba5f7a2867800ddc87ab33a92719c458c848b4c272d8b9207ba3ee95ff"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-383515",
+   "path": "uredba/2025/383515",
+   "short": "Uredba o minimalnoj sumi osiguranja od profesionalne odgovornosti za štetu koja može da nastane obavljanjem djelatnosti izrade planskih dokumenata",
+   "title": "Uredba o minimalnoj sumi osiguranja od profesionalne odgovornosti za štetu koja može da nastane obavljanjem djelatnosti izrade planskih dokumenata",
+   "url": "https://www.sluzbenilist.me/propisi/383515",
+   "versions": [
+    {
+     "from": "2025-06-28",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/383515/download",
+     "sha256": "1a5069870e9d2ea61cb3fcb4173f80b4472341caf14bdbe22b89f9685a7b0293"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-383553",
+   "path": "uredba/2025/383553",
+   "short": "Uredba o bližim kriterijumima i načinu utvrđivanja maksimalne cijene koju ponuđač može da ponudi u postupku aukcije za tržišne premije",
+   "title": "Uredba o bližim kriterijumima i načinu utvrđivanja maksimalne cijene koju ponuđač može da ponudi u postupku aukcije za tržišne premije",
+   "url": "https://www.sluzbenilist.me/propisi/383553",
+   "versions": [
+    {
+     "from": "2025-07-10",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.me/propisi/383553/download",
+     "sha256": "0daca75273a5a32d4aa1524d7b0dbca2424a476a423a77cc03e83fc8309f769e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-384092",
+   "path": "uredba/2025/384092",
+   "short": "Uredba o kontroli elektronskim nadzorom sprovođenja mjera nadzora",
+   "title": "Uredba o kontroli elektronskim nadzorom sprovođenja mjera nadzora",
+   "url": "https://www.sluzbenilist.me/propisi/384092",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/384092/download",
+     "sha256": "32c28639804f96b2ed6b25376e116cdb7243d1a4a3b7b1b7c84b53d35e14da50"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-384119",
+   "path": "uredba/2025/384119",
+   "short": "Uredba o izmjeni i dopuni Uredbe o povjeravanju dijela poslova Uprave policije Prijestonici Cetinje i opštinama Bar, Budva, Bijelo Polje, Tivat, Kotor, Nikšić, Ulcinj i Herceg Novi",
+   "title": "Uredba o izmjeni i dopuni Uredbe o povjeravanju dijela poslova Uprave policije Prijestonici Cetinje i opštinama Bar, Budva, Bijelo Polje, Tivat, Kotor, Nikšić, Ulcinj i Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/384119",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/384119/download",
+     "sha256": "cbc6be64df6545e113627c103c088fbd680cef3e8672964be0e26a36b0362185"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-384122",
+   "path": "uredba/2025/384122",
+   "short": "Uredba o kriterijumima i bližem načinu sprovođenja provjere znanja, sposobnosti, kompetencija i vještina za rad u državnim organima",
+   "title": "Uredba o kriterijumima i bližem načinu sprovođenja provjere znanja, sposobnosti, kompetencija i vještina za rad u državnim organima",
+   "url": "https://www.sluzbenilist.me/propisi/384122",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 39,
+     "source_url": "https://www.sluzbenilist.me/propisi/384122/download",
+     "sha256": "bda79f34402dbd8a9e7c40c21355b0c2c78d7c977a7939199fccfe118a8db9a0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-384328",
+   "path": "uredba/2025/384328",
+   "short": "Uredba o izmjeni Uredbe o uslovima za ustupanje i obavljanje poslova utvrđenih Nacionalnim programom zaštite potrošača i bližim kriterijumima, načinu i postupku finansiranja organizacija potrošača",
+   "title": "Uredba o izmjeni Uredbe o uslovima za ustupanje i obavljanje poslova utvrđenih Nacionalnim programom zaštite potrošača i bližim kriterijumima, načinu i postupku finansiranja organizacija potrošača",
+   "url": "https://www.sluzbenilist.me/propisi/384328",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/384328/download",
+     "sha256": "8a3f15178f4d5b6dda554516b2a24cfa65342e64d7b1738ff642ba6201fbdb0a"
     }
    ]
   },
