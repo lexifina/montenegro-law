@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 35 stav 1 tačka 22 i člana 38 stav 1 Statuta Opštine Nikšić ("Službeni list CG - Opštinski propisi", br. 31/18, 21/23, 42/25 i "Službeni list CG", broj 62/25), člana 30 Odluke o osnivanju Društva sa ograničenom odgovornošću Lokalni javni emiter "Radio i televizija Nikšić" ("Službeni list CG", broj 5/26), Skupština opštine Nikšić, na sjednici održanoj 29. 9, 15. i 19. 10. 2026. godine, donijela je
+O D L U K U
