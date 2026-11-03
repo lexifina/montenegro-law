@@ -1,0 +1,3 @@
+# Član 7
+U članu 32 stav 1 alineja 3 mijenja se i glasi:
+"- najmanje 12 mjeseci odobrenog plovidbenog staža na brodu u svojstvu pripravnika za sticanje zvanja oficira za elektrotehniku, u okviru odobrenog programa osposobljavanja, ostvarenog na brodovima sa mašinskim kompleksom pogonske snage od 750 kW ili jačim, tokom kojeg je pripravnik obavljao poslove električara, elektroničara ili druge odgovarajuće poslove elektrotehničke odnosno elektroničke struke relevantne za sticanje kompetencija oficira za elektrotehniku (ETO), a obavljanje tih poslova i sticanje kompetencija evidentirano je u pripravničkom dnevniku;".

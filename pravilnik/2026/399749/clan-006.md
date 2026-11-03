@@ -1,0 +1,4 @@
+# Član 6
+U članu 29 stav 1 al. 2 i 3 mijenja se i glasi:
+"- završeno odobreno visokoškolsko obrazovanje, najmanje VI nivo kvalifikacija - brodomašinski smjer po programu datom u Prilogu A9 ovog pravilnika, i najmanje 12 mjeseci odobrenog plovidbenog staža u svojstvu oficira plovidbene straže u mašinskom odjeljenju na brodovima sa mašinskim kompleksom pogonske snage od 3000 kW ili jačim; ili"
+- završeno odobreno srednje stručno obrazovanje u trajanju od četiri godine - nivo kvalifikacija IV1 - brodomašinski smjer po programu datom u Prilogu A8 ovog pravilnika, i najmanje 12 mjeseci odobrenog plovidbenog staža u svojstvu oficira plovidbene straže u mašinskom odjeljenju na brodovima sa mašinskim kompleksom pogonske snage od 3000 kW ili jačim, i potvrdu o završenom programu datom u Prilogu B25 ovog pravilnika;".
