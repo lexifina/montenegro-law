@@ -1,0 +1,3 @@
+# Član 4
+U smislu ovog kodeksa, izabrani, imenovani, odnosno postavljeni, predstavnik i funkcioner lokalne samouprave Opštine Zeta je odbornik, predsjednik opštine, potpredsjednik opštine, predsjednik i potpredsjednik skupštine, sekretar skupštine, glavni administrator, sekretar sekretarijata i svako izabrano, imenovano ili postavljeno lice u organima lokalne uprave, posebnim i stručnim službama Opštine, kao i javnim službama i preduzećima čiji je osnivač Opština (u daljem tekstu: izabrani predstavnik i funkcioner).
+Za vrijeme vršenja dužnosti, vršilac dužnosti ima ovlašćenja, prava, obaveze i odgovornosti starješine organa uprave, odnosno službe ili lica koje vrši poslove visokog rukovodnog kadra kao i lica iz stava 1 ovog člana.
