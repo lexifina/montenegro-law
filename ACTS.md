@@ -1,6 +1,6 @@
 # Every act in this repository
 
-793 acts, 795 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+978 acts, 980 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## odluka (4, of which 1 amending acts)
 
@@ -11,15 +11,117 @@
 | Odluka o osnivanju jednoclanog Akcionarskog drustva Posta Crne Gore Podgorica | [`odluka/2011/337606/`](odluka/2011/337606/) | in force | 1 | 2011-12-16 | 2011-12-16 |
 | Odluka o izmjenama Odluke o osnivanju drustva sa ogranicenom odgovornoscu "Crnogorski operator trzista elektricne energije" - Podgorica | [`odluka/2011/337611/`](odluka/2011/337611/) | in force | 1 | 2011-12-24 | 2011-12-24 |
 
-## pravilnik (360, of which 29 amending acts)
+## pravilnik (462, of which 37 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Pravilnik o utvrdjivanju iznosa najpopularnije cijene cigareta | [`pravilnik/2011/303264/`](pravilnik/2011/303264/) | in force | 1 | 2011-12-24 | 2011-12-24 |
+| Pravilnik o fizičkim i tehničkim karakteristikama bežičnih pristupnih tačaka kratkog dometa | [`pravilnik/2025/384366/`](pravilnik/2025/384366/) | in force | 1 | 2025-08-26 | 2025-08-26 |
+| Pravilnik o načinu prikazivanja elektronskog programskog vodiča i sličnih pisanih i navigacionih mogućnosti kod prenosa digitalnih radio i televizijskih programa | [`pravilnik/2025/384367/`](pravilnik/2025/384367/) | in force | 1 | 2025-08-26 | 2025-08-26 |
+| Pravilnik o izmjenama i dopunama Pravilnika o sadržaju izvještaja i drugih obavještenja i podataka koji se dostavljaju agenciji za nadzor osiguranja i o načinu i rokovima njihovog dostavljanja | [`pravilnik/2025/384755/`](pravilnik/2025/384755/) | amending act | 1 | 2025-09-12 | 2025-09-12 |
+| Pravilnik o načinu registracije korisnika usluga javnih elektronskih komunikacionih mreža | [`pravilnik/2025/384772/`](pravilnik/2025/384772/) | in force | 1 | 2025-09-13 | 2025-09-13 |
+| Pravilnik o bližem načinu izdavanja i oduzimanja, kao i obliku i sadržaju licence za rad ispitivača | [`pravilnik/2025/384837/`](pravilnik/2025/384837/) | in force | 1 | 2025-09-19 | 2025-09-19 |
+| Pravilnik o metodologiji obračuna neto troškova pružanja univerzalne usluge | [`pravilnik/2025/384878/`](pravilnik/2025/384878/) | in force | 1 | 2025-09-09 | 2025-09-09 |
+| Pravilnik o načinu pružanja univerzalne usluge | [`pravilnik/2025/384919/`](pravilnik/2025/384919/) | in force | 1 | 2025-09-09 | 2025-09-09 |
+| Pravilnik o izmjenama i dopunama Pravilnika o komercijalnim audiovizuelnim komunikacijama u audiovizuelnim medijskim uslugama | [`pravilnik/2025/385075/`](pravilnik/2025/385075/) | amending act | 1 | 2025-09-27 | 2025-09-27 |
+| Pravilnik o prestanku važenja Pravilnika o mjerama za sprječavanje pojave, otkrivanje, suzbijanje i iskorjenjivanje zarazne bolesti plavog jezika | [`pravilnik/2025/385076/`](pravilnik/2025/385076/) | in force | 1 | 2025-09-19 | 2025-09-19 |
+| Pravilnik o bližim uslovima za izjednačavanje u pogledu prava i obaveza doktora medicine specijaliste određene oblasti zdravstvene zaštite, odnosno grane medicine sa doktorom medicine koji je stekao zvanje užeg specijaliste | [`pravilnik/2025/385080/`](pravilnik/2025/385080/) | in force | 1 | 2025-09-30 | 2025-09-30 |
+| Pravilnik o dopuni Pravilnika o uslovima i načinu sprovođenja obavezne imunoprofilakse i hemioprofilakse protiv određenih zaraznih bolesti | [`pravilnik/2025/385253/`](pravilnik/2025/385253/) | amending act | 1 | 2025-10-09 | 2025-10-09 |
+| Pravilnik o sadržini i načinu vođenja Registra Komore arhitekata i planera Crne Gore | [`pravilnik/2025/385263/`](pravilnik/2025/385263/) | in force | 1 | 2025-10-09 | 2025-10-09 |
+| Pravilnik o promjeni operatora i prenosivosti brojeva | [`pravilnik/2025/385312/`](pravilnik/2025/385312/) | in force | 1 | 2025-10-10 | 2025-10-10 |
+| Pravilnik o obrascu zahtjeva za legalizaciju bespravnih objekata | [`pravilnik/2025/385338/`](pravilnik/2025/385338/) | in force | 1 | 2025-10-02 | 2025-10-02 |
+| Pravilnik o uslovima za odobravanje i načinu korišćenja sredstava iz budžeta države za finansiranje, odnosno sufinansiranje naučnoistraživačke djelatnosti | [`pravilnik/2025/385447/`](pravilnik/2025/385447/) | in force | 1 | 2025-10-17 | 2025-10-17 |
+| Pravilnik o bližem sadržaju i načinu vođenja Registra privrednih subjekata, Registra drugih subjekata i Registra stečajnih masa | [`pravilnik/2025/385473/`](pravilnik/2025/385473/) | in force | 1 | 2025-10-18 | 2025-10-18 |
+| Pravilnik o dopuni Pravilnika o bližim uslovima za izdavanje dozvole za obavljanje poslova osiguranja i kriterijumima za ocjenu podobnosti budućih kvalifikovanih imalaca i članova organa upravljanja | [`pravilnik/2025/385486/`](pravilnik/2025/385486/) | amending act | 1 | 2025-10-18 | 2025-10-18 |
+| Pravilnik o bližem sadržaju registracionog broja za privredne i druge subjekte i stečajnu masu i evropskog jedinstvenog identifikatora za privredne subjekte | [`pravilnik/2025/385526/`](pravilnik/2025/385526/) | in force | 1 | 2025-10-22 | 2025-10-22 |
+| Pravilnik o bližem sadržaju i načinu vođenja registra stranaca koji obavljaju djelatnost izrade planskih dokumenata | [`pravilnik/2025/385534/`](pravilnik/2025/385534/) | in force | 1 | 2025-10-22 | 2025-10-22 |
+| Pravilnik o bližem načinu i postupku priznavanja inostranih sertifikata, odnosno potvrda | [`pravilnik/2025/385538/`](pravilnik/2025/385538/) | in force | 1 | 2025-10-15 | 2025-10-15 |
+| Pravilnik o načinu ispitivanja, načinu izrade i sadržaju analize statičke i seizmičke stabilnosti bespravnog objekta površine do 500m2 | [`pravilnik/2025/385540/`](pravilnik/2025/385540/) | in force | 1 | 2025-10-23 | 2025-10-23 |
+| Pravilnik o metodologiji rada unutrašnje revizije, načinu i rokovima čuvanja dokumentacije unutrašnje revizije u javnom sektoru | [`pravilnik/2025/385726/`](pravilnik/2025/385726/) | in force | 1 | 2025-10-28 | 2025-10-28 |
+| Pravilnik o sadržaju i načinu vođenja registra operatora, registra dodijeljenih radio-frekvencija, registra numeracija i registra elektronske komunikacione infrastrukture i povezane opreme | [`pravilnik/2025/385733/`](pravilnik/2025/385733/) | in force | 1 | 2025-10-28 | 2025-10-28 |
+| Pravilnik o bližem načinu upravljanja, rukovođenja i sprovođenja unutrašnje kontrole u subjektima javnog sektora | [`pravilnik/2025/385736/`](pravilnik/2025/385736/) | in force | 1 | 2025-10-28 | 2025-10-28 |
+| Pravilnik o preradi hrane za životinje detoksifikacijom | [`pravilnik/2025/385758/`](pravilnik/2025/385758/) | in force | 1 | 2025-10-30 | 2025-10-30 |
+| Pravilnik o utvrđivanju Liste stepena razvijenosti jedinica lokalne samouprave | [`pravilnik/2025/385759/`](pravilnik/2025/385759/) | in force | 1 | 2025-10-23 | 2025-10-23 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uslovima i postupku izdavanja odobrenja za distribuciju linearnih audiovizuelnih medijskih usluga | [`pravilnik/2025/385828/`](pravilnik/2025/385828/) | amending act | 1 | 2025-11-01 | 2025-11-01 |
+| Pravilnik o obrascu informacija o uticaju na sigurnost i životnu sredinu | [`pravilnik/2025/385912/`](pravilnik/2025/385912/) | in force | 1 | 2025-11-04 | 2025-11-04 |
+| Pravilnik o načinu izrade i sadržini dokumentacije o mjerama sigurnosti prilikom istraživanja i proizvodnje ugljovodonika u podmorju | [`pravilnik/2025/385914/`](pravilnik/2025/385914/) | in force | 1 | 2025-11-04 | 2025-11-04 |
+| Pravilnik o izmjeni Pravilnika o obavještavanju deponenata i potencijalnih deponenata o sistemu zaštite depozita | [`pravilnik/2025/386078/`](pravilnik/2025/386078/) | in force | 1 | 2025-10-29 | 2025-10-29 |
+| Pravilnik o vrstama povoljnosti i mjera za lica sa invaliditetom i lica u stanju socijalne potrebe | [`pravilnik/2025/386327/`](pravilnik/2025/386327/) | in force | 1 | 2025-11-12 | 2025-11-12 |
+| Pravilnik o metodologiji i načinu obračuna visine godišnje naknade za korišćenje numeracije | [`pravilnik/2025/386404/`](pravilnik/2025/386404/) | in force | 1 | 2025-11-27 | 2025-11-27 |
+| Pravilnik o dopunama Pravilnika o tehničkim zahtjevima i drugim uslovima za uređaje i opremu za pogon motornih vozila na tečni naftni ili prirodni gas | [`pravilnik/2025/386640/`](pravilnik/2025/386640/) | amending act | 1 | 2025-11-26 | 2025-11-26 |
+| Pravilnik o raspodjeli sredstava iz Fonda za podršku dualnom obrazovanju | [`pravilnik/2025/386753/`](pravilnik/2025/386753/) | in force | 1 | 2025-11-29 | 2025-11-29 |
+| Pravilnik o tehničkim zahtjevima eko dizajna za potrošnju energije u stanju mirovanja, isključenom stanju i umreženom stanju mirovanja za električnu i elektronsku kancelarijsku opremu i uređaje za domaćinstvo* | [`pravilnik/2025/386761/`](pravilnik/2025/386761/) | in force | 1 | 2025-12-06 | 2025-12-06 |
+| Pravilnik o bližim uslovima i kriterijumima za dodjelu nagrada za dostignuća u oblasti naučnoistraživačke djelatnosti, kao i iznosima nagrada | [`pravilnik/2025/386792/`](pravilnik/2025/386792/) | in force | 1 | 2025-12-05 | 2025-12-05 |
+| Pravilnik o izmjenama Pravilnika o raspodjeli sredstava iz podfonda za dnevne, nedjeljne i periodične štampane medije i internetske publikacije | [`pravilnik/2025/386975/`](pravilnik/2025/386975/) | in force | 1 | 2025-12-06 | 2025-12-06 |
+| Pravilnik o bližem sadržaju i načinu vođenja Registra planskih dokumenata | [`pravilnik/2025/387027/`](pravilnik/2025/387027/) | in force | 1 | 2025-07-03 | 2025-07-03 |
+| Pravilnik o sprovođenju javnog konkursa i uslovima za određivanje operatora univerzalne usluge | [`pravilnik/2025/387109/`](pravilnik/2025/387109/) | in force | 1 | 2025-07-03 | 2025-07-03 |
+| Pravilnik o izmjenama Pravilnika o Registru inovacione djelatnosti | [`pravilnik/2025/387200/`](pravilnik/2025/387200/) | in force | 1 | 2025-11-06 | 2025-11-06 |
+| Pravilnik o mjerama zaštite i zdravlja na radu od rizika izloženosti kancerogenim, mutagenim ili reproduktivno toksičnim materijama* | [`pravilnik/2025/387326/`](pravilnik/2025/387326/) | in force | 1 | 2025-11-08 | 2025-11-08 |
+| Pravilnik o uslovima i načinu sprečavanja i suzbijanja zloupotreba i prevara u pružanju usluga elektronske pošte | [`pravilnik/2025/387627/`](pravilnik/2025/387627/) | in force | 1 | 2025-10-14 | 2025-10-14 |
+| Pravilnik o uslovima za vršenje i načinu vršenja projektantskog nadzora nad građenjem objekata | [`pravilnik/2025/387689/`](pravilnik/2025/387689/) | in force | 1 | 2025-05-24 | 2025-05-24 |
+| Pravilnik o izgledu uniforme i izgledu i sadržaju oznake na uniformi urbanističkog inspektora | [`pravilnik/2025/387807/`](pravilnik/2025/387807/) | in force | 1 | 2025-06-11 | 2025-06-11 |
+| Pravilnik o načinu vršenja tehničkog pregleda i načinu izrade i bližoj sadržini izvještaja o tehničkom pregledu | [`pravilnik/2025/388006/`](pravilnik/2025/388006/) | in force | 1 | 2025-07-03 | 2025-07-03 |
+| Pravilnik o bližim uslovima za sticanje statusa korisnika i načinu vršenja kontrole nad korišćenjem podsticajnih mjera za razvoj istraživanja i inovacija | [`pravilnik/2025/388191/`](pravilnik/2025/388191/) | in force | 1 | 2025-11-06 | 2025-11-06 |
+| Pravilnik o vrstama, načinu pružanja i razmjene informacija o ostvarivanju prekogranične zdravstvene zaštite* | [`pravilnik/2025/388309/`](pravilnik/2025/388309/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Pravilnik o načinu vršenja revizije tehničke dokumentacije i izrade izvještaja o reviziji | [`pravilnik/2025/388319/`](pravilnik/2025/388319/) | in force | 1 | 2025-07-03 | 2025-07-03 |
+| Pravilnik o načinu i uslovima pristupa, kolokacije i zajedničkog korišćenja elektronske komunikacione infrastrukture i povezane opreme | [`pravilnik/2025/388356/`](pravilnik/2025/388356/) | in force | 1 | 2025-10-03 | 2025-10-03 |
+| Pravilnik o sadržaju, načinu dostavljanja i objavljivanja podataka o vrsti, raspoloživosti i geografskoj lokaciji postojeće i planirane elektronske komunikacione infrastrukture i povezane opreme i elemenata mreže | [`pravilnik/2025/388462/`](pravilnik/2025/388462/) | in force | 1 | 2025-07-03 | 2025-07-03 |
+| Pravilnik o bližim uslovima za obavljanje estetske minimalno invazivne nehirurške metode "antiage" medicine glave i vrata | [`pravilnik/2025/388567/`](pravilnik/2025/388567/) | in force | 1 | 2025-12-17 | 2025-12-17 |
+| Pravilnik o sadržaju, načinu vođenja i čuvanja andragoške evidencije i dokumentacije | [`pravilnik/2025/388570/`](pravilnik/2025/388570/) | in force | 1 | 2025-12-17 | 2025-12-17 |
+| Pravilnik o izmjeni Pravilnika o stručnom osposobljavanju i usavršavanju lica u službi u Vojsci Crne Gore | [`pravilnik/2025/388572/`](pravilnik/2025/388572/) | in force | 1 | 2025-12-17 | 2025-12-17 |
+| Pravilnik o izmjenama Pravilnika o stipendiranju za potrebu prijema u službu u Vojsci Crne Gore | [`pravilnik/2025/388573/`](pravilnik/2025/388573/) | in force | 1 | 2025-12-17 | 2025-12-17 |
+| Pravilnik o načinu sprovođenja andragoškog osposobljavanja, obliku i sadržaju potvrde | [`pravilnik/2025/388576/`](pravilnik/2025/388576/) | in force | 1 | 2025-12-17 | 2025-12-17 |
+| Pravilnik o iznosu kamatne stope koja se obračunava na finansijske instrumente između povezanih lica za 2026. godinu | [`pravilnik/2025/388766/`](pravilnik/2025/388766/) | in force | 1 | 2025-12-19 | 2025-12-19 |
+| Pravilnik o materijalima i predmetima od reciklirane plastike koji dolaze u kontakt sa hranom* | [`pravilnik/2025/388773/`](pravilnik/2025/388773/) | in force | 1 | 2025-12-19 | 2025-12-19 |
+| Pravilnik o informacionom sistemu za oblast naučnoistraživačke djelatnosti | [`pravilnik/2025/388830/`](pravilnik/2025/388830/) | in force | 1 | 2025-12-20 | 2025-12-20 |
+| Pravilnik o vođenju registra pružalaca usluga povezanih sa kriptoimovinom i procjeni reputacije za direktora, članove društva, članove organa upravljanja i rukovođenja i stvarnog vlasnika pravnog lica ili privrednog društva odnosno preduzetnika ili fizičkog lica koji obavljaju djelatnosti pružanja usluga povezanih sa kriptoimovinom | [`pravilnik/2025/388832/`](pravilnik/2025/388832/) | in force | 1 | 2025-12-20 | 2025-12-20 |
+| Pravilnik o sadržaju projekta akvakulture | [`pravilnik/2025/388972/`](pravilnik/2025/388972/) | in force | 1 | 2025-12-23 | 2025-12-23 |
+| Pravilnik o bližem sadržaju i načinu vođenja evidencije isključenih lica | [`pravilnik/2025/388998/`](pravilnik/2025/388998/) | in force | 1 | 2025-12-27 | 2025-12-27 |
+| Pravilnik o sumi osiguranja za obavezno osiguranje od odgovornosti pravnih lica i preduzetnika koji se bave pružanjem računovodstvenih usluga subjektima od javnog interesa | [`pravilnik/2025/389030/`](pravilnik/2025/389030/) | in force | 1 | 2025-12-26 | 2025-12-26 |
+| Pravilnik o vrstama i bližim uslovima postavljanja odnosno građenja i uklanjanja privremenih objekata | [`pravilnik/2025/389040/`](pravilnik/2025/389040/) | in force | 1 | 2025-12-18 | 2025-12-18 |
+| Pravilnik o bližem sadržaju, načinu vođenja i rokovima čuvanja evidencija koje je dužna da vodi auto škola | [`pravilnik/2025/389071/`](pravilnik/2025/389071/) | in force | 1 | 2025-12-27 | 2025-12-27 |
+| Pravilnik o sumi osiguranja za obavezno osiguranje od odgovornosti društava za reviziju i ovlašćenih revizora za štetu koju bi svojim radom mogli nanijeti licu za koje vrše reviziju | [`pravilnik/2025/389075/`](pravilnik/2025/389075/) | in force | 1 | 2025-12-26 | 2025-12-26 |
+| Pravilnik o sadržaju i obrascu zahtjeva za izdavanje odobrenja za priređivanje igara na sreću u kazinu, igara klađenja, igara na sreću na automatima i rješenja za priređivanje igara tombole zatvorenog tipa i za priređivanje igara na sreću putem interneta | [`pravilnik/2025/389120/`](pravilnik/2025/389120/) | in force | 1 | 2025-12-27 | 2025-12-27 |
+| Pravilnik o načinu vođenja registra zaštićenih oznaka porijekla i geografskih oznaka vina i drugih proizvoda od grožđa | [`pravilnik/2025/389231/`](pravilnik/2025/389231/) | in force | 1 | 2025-12-31 | 2025-12-31 |
+| Pravilnik o obliku i sadržini službene legitimacije ovlašćenih lica za vršenje neposrednog uvida | [`pravilnik/2025/389316/`](pravilnik/2025/389316/) | in force | 1 | 2026-01-03 | 2026-01-03 |
+| Pravilnik o programima seminara stručnog usavršavanja, redovnog osposobljavanja i periodičnog stručnog usavršavanja | [`pravilnik/2025/389318/`](pravilnik/2025/389318/) | in force | 1 | 2026-01-03 | 2026-01-03 |
+| Pravilnik o izmjenama Pravilnika o sprovođenju posebnog postupka zapošljavanja policijskih službenika | [`pravilnik/2025/389366/`](pravilnik/2025/389366/) | in force | 1 | 2025-12-30 | 2025-12-30 |
+| Pravilnik o bližim prostornim i tehničkim uslovima za automat klub i priređivanje igara na sreću na automatima | [`pravilnik/2025/389367/`](pravilnik/2025/389367/) | in force | 1 | 2026-01-06 | 2026-01-06 |
+| Pravilnik o bližem načinu mjerenja udaljenosti objekata u kojima se priređuju lutrijske igre na sreću i posebne igre na sreću od obrazovno-vaspitnih ustanova | [`pravilnik/2025/389369/`](pravilnik/2025/389369/) | in force | 1 | 2026-01-06 | 2026-01-06 |
+| Pravilnik o izmjenama Pravilnika o obliku i sadržini jedinstvene prijave za registraciju poreskih obveznika, obveznika doprinosa i osiguranika u centralni registar | [`pravilnik/2025/389517/`](pravilnik/2025/389517/) | in force | 1 | 2025-12-31 | 2025-12-31 |
+| Pravilnik o bližim prostornim i tehničkim uslovima koje kazino treba da ispunjava, bližim tehničkim uslovima u pogledu video nadzora u kazinu, sadržaju, izgledu i obrascu naljepnice i načinu vođenja evidencije o izdatim naljepnicama | [`pravilnik/2025/389525/`](pravilnik/2025/389525/) | in force | 1 | 2026-01-08 | 2026-01-08 |
+| Pravilnik o bližim prostornim i tehničkim uslovima za priređivanje igara klađenja | [`pravilnik/2025/389547/`](pravilnik/2025/389547/) | in force | 1 | 2026-01-08 | 2026-01-08 |
+| Pravilnik o bližem načinu određivanja poreskog identifikacionog broja | [`pravilnik/2026/389693/`](pravilnik/2026/389693/) | in force | 1 | 2026-01-12 | 2026-01-12 |
+| Pravilnik o načinu raspodjele sredstava iz Egalizacionog fonda | [`pravilnik/2026/389874/`](pravilnik/2026/389874/) | in force | 1 | 2026-01-24 | 2026-01-24 |
+| Pravilnik o bližem načinu oglašavanja igara na sreću na spoljnim djelovima prostora za igre na sreću i spoljnjem izgledu prostora za igre na sreću | [`pravilnik/2026/389880/`](pravilnik/2026/389880/) | in force | 1 | 2026-01-13 | 2026-01-13 |
+| Pravilnik o načinu sticanja diplomatskog zvanja, uslovima i kriterijumima za napredovanje u više zvanje, kao i o kriterijumima i načinu ocjenjivanja diplomata | [`pravilnik/2026/389883/`](pravilnik/2026/389883/) | in force | 1 | 2026-01-24 | 2026-01-24 |
+| Pravilnik o izmjenama Pravilnika o sadržini i obliku individualnog plana aktivacije i načinu sprovođenja mjera socijalne uključenosti radno sposobnih korisnika materijalnog obezbjeđenja | [`pravilnik/2026/389884/`](pravilnik/2026/389884/) | in force | 1 | 2026-01-24 | 2026-01-24 |
+| Pravilnik o izmjeni Pravilnika o fitosanitarnim mjerama za sprečavanje unošenja i širenja bakterije Xylella fastidiosa (Wells et al.)* | [`pravilnik/2026/389925/`](pravilnik/2026/389925/) | in force | 1 | 2026-01-13 | 2026-01-13 |
+| Pravilnik o izmjeni Pravilnika o proizvodnji i stavljanju u promet sjemenskog materijala uljarica i predivog bilja* | [`pravilnik/2026/389929/`](pravilnik/2026/389929/) | in force | 1 | 2026-01-13 | 2026-01-13 |
+| Pravilnik o kriterijumima za imenovanje članova Savjetodavnog tijela za akvakulturu | [`pravilnik/2026/390233/`](pravilnik/2026/390233/) | in force | 1 | 2026-02-07 | 2026-02-07 |
+| Pravilnik o obrascima zahtjeva za ostvarivanje prava nezaposlenih lica | [`pravilnik/2026/390250/`](pravilnik/2026/390250/) | in force | 1 | 2026-02-07 | 2026-02-07 |
+| Pravilnik o načinu vrednovanja programa, odnosno projekata organizacija dijaspore - iseljenika | [`pravilnik/2026/390251/`](pravilnik/2026/390251/) | in force | 1 | 2026-02-07 | 2026-02-07 |
+| Pravilnik o kriterijumima za imenovanje članova Odbora za strane i lokalno neprisutne vrste u akvakulturi | [`pravilnik/2026/390258/`](pravilnik/2026/390258/) | in force | 1 | 2026-02-07 | 2026-02-07 |
+| Pravilnik o bližem sadržaju i formi zahtjeva za imenovanje nominovanog operatora tržišta električne energije | [`pravilnik/2026/390261/`](pravilnik/2026/390261/) | in force | 1 | 2026-02-07 | 2026-02-07 |
+| Pravilnik o sadržaju godišnjeg izvještaja o radu unutrašnje revizije i izvršenju godišnjeg plana unutrašnje revizije | [`pravilnik/2026/390350/`](pravilnik/2026/390350/) | in force | 1 | 2026-02-05 | 2026-02-05 |
+| Pravilnik o profesionalnom usavršavanju sertifikovanih unutrašnjih revizora u javnom sektoru | [`pravilnik/2026/390351/`](pravilnik/2026/390351/) | in force | 1 | 2026-02-05 | 2026-02-05 |
+| Pravilnik o izmjeni Pravilnika o načinu upisa u evidenciju Fonda za zdravstveno osiguranje Crne Gore stranca koji traži međunarodnu zaštitu i stranca pod privremenom zaštitom | [`pravilnik/2026/390411/`](pravilnik/2026/390411/) | in force | 1 | 2026-02-04 | 2026-02-04 |
+| Pravilnik o izmjenama i dopuni Pravilnika o programu i načinu polaganja ispita za državnog revizora | [`pravilnik/2026/390415/`](pravilnik/2026/390415/) | amending act | 1 | 2026-02-14 | 2026-02-14 |
+| Pravilnik o stručnom osposobljavanju lica koja obavljaju poslove od značaja za sigurnost vazdušnog saobraćaja na aerodromu | [`pravilnik/2026/390436/`](pravilnik/2026/390436/) | in force | 1 | 2026-02-14 | 2026-02-14 |
+| Pravilnik o bližim uslovima, sadržaju i obrascu zahtjeva za izdavanje dozvole za pružanje računovodstvenih usluga | [`pravilnik/2026/390489/`](pravilnik/2026/390489/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+| Pravilnik o obrascu zahtjeva i dokumentaciji koja se podnosi uz zahtjev za izdavanje licence za obavljanje revizije | [`pravilnik/2026/390491/`](pravilnik/2026/390491/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+| Pravilnik o dokumentaciji potrebnoj za izdavanje dozvole za obavljanje revizije | [`pravilnik/2026/390494/`](pravilnik/2026/390494/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+| Pravilnik o stručnom usavršavanju članova Komore arhitekata i planera Crne Gore | [`pravilnik/2026/390586/`](pravilnik/2026/390586/) | in force | 1 | 2026-02-13 | 2026-02-13 |
+| Pravilnik o bližem sadržaju i obrascu izjave službenika za kontrolu ako se ukloni ili postavi nova plomba na tahografu | [`pravilnik/2026/390587/`](pravilnik/2026/390587/) | in force | 1 | 2026-02-21 | 2026-02-21 |
+| Pravilnik o izmjenama i dopuni Pravilnika o fitosanitarnim mjerama za suzbijanje štetnog organizma Aleurocanthus spiniferus (Quaintance) u obilježenim područjima* | [`pravilnik/2026/390605/`](pravilnik/2026/390605/) | amending act | 1 | 2026-02-21 | 2026-02-21 |
+| Pravilnik o uslovima i načinu mirovanja članstva u Komori arhitekata i planera Crne Gore | [`pravilnik/2026/390610/`](pravilnik/2026/390610/) | in force | 1 | 2026-02-13 | 2026-02-13 |
+| Pravilnik o obrascu jednostranog raskida ugovora zaključenog van poslovnih prostorija ili na daljinu od strane potrošača | [`pravilnik/2026/390728/`](pravilnik/2026/390728/) | in force | 1 | 2026-02-26 | 2026-02-26 |
+| Pravilnik o obliku i načinu vođenja pedagoške evidencije i sadržini javnih isprava u obrazovno-vaspitnim ustanovama | [`pravilnik/2026/390731/`](pravilnik/2026/390731/) | in force | 1 | 2026-02-26 | 2026-02-26 |
 | Pravilnik o sadržini zahtjeva za dobijanje odobrenja za korišćenje prekursora* | [`pravilnik/2026/390732/`](pravilnik/2026/390732/) | in force | 1 | 2026-02-18 | 2026-02-18 |
 | Pravilnik o sadržaju standardnog obrasca za jednostrani raskid ugovora o turističkim uslugama | [`pravilnik/2026/390733/`](pravilnik/2026/390733/) | in force | 1 | 2026-02-26 | 2026-02-26 |
 | Pravilnik o bližim uslovima koje u pogledu kadra i opreme treba da ispunjava pravno lice koje vrši verifikaciju izvještaja o emisiji gasova sa efektom staklene bašte | [`pravilnik/2026/390868/`](pravilnik/2026/390868/) | in force | 1 | 2026-02-27 | 2026-02-27 |
 | Pravilnik o mjerama za obezbjeđivanje efikasne i bezbjedne primjene veterinarskih ljekova za oralnu primjenu* | [`pravilnik/2026/390967/`](pravilnik/2026/390967/) | in force | 1 | 2026-03-05 | 2026-03-05 |
+| Pravilnik o obrascu prijave i načinu podnošenja prijave državne pomoći | [`pravilnik/2026/390987/`](pravilnik/2026/390987/) | in force | 1 | 2026-03-05 | 2026-03-05 |
 | Pravilnik o sistemu sigurnosnih oznaka* | [`pravilnik/2026/391009/`](pravilnik/2026/391009/) | in force | 1 | 2026-03-07 | 2026-03-07 |
 | Pravilnik o minimalnim elementima standarda kvaliteta usluge i obrascu zahtjeva za povraćaj troškova i naknade | [`pravilnik/2026/391010/`](pravilnik/2026/391010/) | in force | 1 | 2026-03-07 | 2026-03-07 |
 | Pravilnik o bližem sadržaju, načinu izrade i dostavljanju internog plana reagovanja na vanredni događaj | [`pravilnik/2026/391012/`](pravilnik/2026/391012/) | in force | 1 | 2026-03-07 | 2026-03-07 |
@@ -381,6 +483,94 @@
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Proglašavam Zakon o izvršenju Odluke Ustavnog suda Crne Gore U-I broj 6/16 od 19. Aprila 2017. godine ("Službeni list CG", broj 31/17) | [`proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj/`](proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj/) | in force | 1 | 2017-06-30 | 2017-06-30 |
+
+## uredba (83, of which 6 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Uredba o izmjenama Uredbe o određivanju cijena pšeničnog brašna i hljeba | [`uredba/1996/387922/`](uredba/1996/387922/) | in force | 1 | 1996-08-13 | 1996-08-13 |
+| Uredba o izmjenama uredbe o kriterijumima za unutrašnju organizaciju i sistematizaciju poslova u organima državne uprave | [`uredba/2025/384629/`](uredba/2025/384629/) | in force | 1 | 2025-08-30 | 2025-08-30 |
+| Uredba o visini naknade za reviziju lokalnih planskih dokumenata | [`uredba/2025/384909/`](uredba/2025/384909/) | in force | 1 | 2025-09-04 | 2025-09-04 |
+| Uredba o uslovima i načinu emitovanja i prodaje državnih dužničkih hartija od vrijednosti | [`uredba/2025/385355/`](uredba/2025/385355/) | in force | 1 | 2025-10-02 | 2025-10-02 |
+| Uredba o izmjeni Uredbe o kriterijumima za utvrđivanje visine doživotne mjesečne naknade, stipendije, premije, sportske invalidnine, nagrade za sportistu godine i zaslužnog sportskog radnika | [`uredba/2025/385426/`](uredba/2025/385426/) | in force | 1 | 2025-10-14 | 2025-10-14 |
+| Uredba o izmjenama Uredbe o načinu izračunavanja indeksa razvijenosti jedinice lokalne samouprave | [`uredba/2025/385428/`](uredba/2025/385428/) | in force | 1 | 2025-10-14 | 2025-10-14 |
+| Uredba o postupku javnog nadmetanja za izbor snabdjevača posljednjeg izbora za snabdijevanje električnom energijom | [`uredba/2025/386649/`](uredba/2025/386649/) | in force | 1 | 2025-12-04 | 2025-12-04 |
+| Uredba o bližim uslovima sprovođenja programa proširene odgovornosti proizvođača proizvoda koji nakon upotrebe postaju otpad | [`uredba/2025/388176/`](uredba/2025/388176/) | in force | 1 | 2025-09-12 | 2025-09-12 |
+| Uredba o izmjeni Uredbe o supstancama koje se mogu dodavati hrani za posebne prehrambene potrebe* | [`uredba/2025/388995/`](uredba/2025/388995/) | in force | 1 | 2025-12-27 | 2025-12-27 |
+| Uredba o bližim kriterijumima za utvrđivanje visine godišnje naknade za prekoračenje roka završetka građenja objekata | [`uredba/2025/389035/`](uredba/2025/389035/) | in force | 1 | 2025-12-23 | 2025-12-23 |
+| Uredba o bližim kategorijama podataka o elektronskim komunikacijama koji se zadržavaju | [`uredba/2025/389324/`](uredba/2025/389324/) | in force | 1 | 2026-01-03 | 2026-01-03 |
+| Uredba o načinu i postupku izbora strateškog partnera putem objavljivanja i sprovođenja javnog poziva za realizaciju strateških projekata iz oblasti obnovljivih izvora energije i/ili skladišta energije | [`uredba/2025/389368/`](uredba/2025/389368/) | in force | 1 | 2026-01-06 | 2026-01-06 |
+| Uredba o bližim uslovima za dodjelu državne pomoći | [`uredba/2025/389370/`](uredba/2025/389370/) | in force | 1 | 2026-01-06 | 2026-01-06 |
+| Uredba o izmjeni Uredbe o snabdijevanju ranjivih kupaca električne energije | [`uredba/2025/389371/`](uredba/2025/389371/) | in force | 1 | 2026-01-01 | 2026-01-01 |
+| Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za nacionalne parkove Crne Gore | [`uredba/2025/389450/`](uredba/2025/389450/) | in force | 1 | 2025-12-30 | 2025-12-30 |
+| Uredba o bližem načinu uništenja robe, prodaje robe i ustupanja robe državi | [`uredba/2025/389574/`](uredba/2025/389574/) | in force | 1 | 2026-01-08 | 2026-01-08 |
+| Uredba o naknadi koju plaća prodavač lagane plastične kese za nošenje, debljine zida više od 50 mikrona | [`uredba/2026/389888/`](uredba/2026/389888/) | in force | 1 | 2026-01-13 | 2026-01-13 |
+| Uredba o izmjenama Uredbe o finansiranju projekata i programa nevladinih organizacija u oblastima od javnog interesa | [`uredba/2026/390407/`](uredba/2026/390407/) | in force | 1 | 2026-02-11 | 2026-02-11 |
+| Uredba o diplomi "Luča" | [`uredba/2026/390827/`](uredba/2026/390827/) | in force | 1 | 2026-02-27 | 2026-02-27 |
+| Uredba o uslovima i kriterijumima grupnog izuzeća od zabrane sporazuma o istraživanju i razvoju | [`uredba/2026/391048/`](uredba/2026/391048/) | in force | 1 | 2026-03-14 | 2026-03-14 |
+| Uredba o uslovima i kriterijumima za grupno izuzeće od zabrane sporazuma u drumskom, željezničkom i saobraćaju u unutrašnjim vodama | [`uredba/2026/391050/`](uredba/2026/391050/) | in force | 1 | 2026-03-14 | 2026-03-14 |
+| Uredba o uslovima i kriterijumima izuzeća po vrstama vertikalnih sporazuma od zabrane | [`uredba/2026/391081/`](uredba/2026/391081/) | in force | 1 | 2026-03-14 | 2026-03-14 |
+| Uredba o uspostavljanju smjernica za rad elektroprenosnog sistema | [`uredba/2026/391343/`](uredba/2026/391343/) | in force | 1 | 2026-03-10 | 2026-03-10 |
+| Uredba o uspostavljanju smjernica za rad sistema u havarijskom i stanju oporavka sistema | [`uredba/2026/391525/`](uredba/2026/391525/) | in force | 1 | 2026-03-10 | 2026-03-10 |
+| Uredba o izmjeni Uredbe o naknadi troškova zaposlenih u javnom sektoru | [`uredba/2026/391617/`](uredba/2026/391617/) | in force | 1 | 2026-01-29 | 2026-01-29 |
+| Uredba o obaveznom udjelu energije iz obnovljivih izvora u sektoru saobraćaja* | [`uredba/2026/391934/`](uredba/2026/391934/) | in force | 1 | 2026-03-25 | 2026-03-25 |
+| Uredba o načinu obračuna maksimalne maloprodajne cijene određenih vrsta naftnih derivata | [`uredba/2026/392183/`](uredba/2026/392183/) | in force | 1 | 2026-03-24 | 2026-03-24 |
+| Uredba o dopuni Uredbe o kancelarijskom poslovanju organa državne uprave | [`uredba/2026/392369/`](uredba/2026/392369/) | amending act | 1 | 2026-03-26 | 2026-03-26 |
+| Uredba o uslovima i kriterijumima za grupno izuzeće od zabrane sporazuma o prenosu tehnologije | [`uredba/2026/392559/`](uredba/2026/392559/) | in force | 1 | 2026-04-09 | 2026-04-09 |
+| Uredba o minimalnoj sumi osiguranja i načinu utvrđivanja osigurane sume od profesionalne odgovornosti u oblasti izgradnje objekata | [`uredba/2026/392624/`](uredba/2026/392624/) | in force | 1 | 2026-04-09 | 2026-04-09 |
+| Uredba o uslovima i kriterijumima grupnog izuzeća horizontalnih sporazuma o specijalizaciji od zabrane | [`uredba/2026/392625/`](uredba/2026/392625/) | in force | 1 | 2026-04-09 | 2026-04-09 |
+| Uredba o boji i oznakama vozila, plovila, vazduhoplova, naoružanju, posebnoj opremi i sredstvima koja se upotrebljavaju za vršenje policijskih poslova | [`uredba/2026/393787/`](uredba/2026/393787/) | in force | 1 | 2026-05-14 | 2026-05-14 |
+| Uredba o visini plaćanja naknade za utvrđivanja ispunjenosti uslova | [`uredba/2026/394467/`](uredba/2026/394467/) | in force | 1 | 2026-06-03 | 2026-06-03 |
+| Uredba o izmjenama i dopunama Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu | [`uredba/2026/394527/`](uredba/2026/394527/) | amending act | 1 | 2026-05-30 | 2026-05-30 |
+| Uredba o dopuni Uredbe o bližim kriterijumima održivosti i ušteda emisija gasova sa efektom staklene bašte za biogoriva, biotečnosti i goriva iz biomase* | [`uredba/2026/394592/`](uredba/2026/394592/) | amending act | 1 | 2026-06-11 | 2026-06-11 |
+| Uredba o vrstama aktivnosti i postrojenja za koje se izdaje integrisana dozvola | [`uredba/2026/394593/`](uredba/2026/394593/) | in force | 1 | 2026-06-11 | 2026-06-11 |
+| Uredba o načinu sprovođenja provjere znanja i sposobnosti za predsjednika i člana Državne disciplinske komisije i Državne komisije za žalbe | [`uredba/2026/394666/`](uredba/2026/394666/) | in force | 1 | 2026-06-12 | 2026-06-12 |
+| Uredba o izmjenama i dopunama Uredbe o notifikaciji tehničkih propisa, standarda, propisa o uslugama informatičkog društva i postupaka ocjene usaglašenosti* | [`uredba/2026/394887/`](uredba/2026/394887/) | amending act | 1 | 2026-06-20 | 2026-06-20 |
+| Uredba o dopuni Uredbe o projektima za koje se vrši procjena uticaja na životnu sredinu | [`uredba/2026/395047/`](uredba/2026/395047/) | amending act | 1 | 2026-06-25 | 2026-06-25 |
+| Uredba o uslovima za sticanje zvanja i nivoima zvanja zaposlenih u Upravi za izvršenje krivičnih sankcija | [`uredba/2026/395245/`](uredba/2026/395245/) | in force | 1 | 2026-06-27 | 2026-06-27 |
+| Uredba o izmjeni Uredbe o izboru predstavnika nevladinih organizacija u radna tijela organa državne uprave i sprovođenju javne rasprave u pripremi zakona i strategija | [`uredba/2026/395246/`](uredba/2026/395246/) | in force | 1 | 2026-06-27 | 2026-06-27 |
+| Uredba o dopuni Uredbe o grupama poslova i koeficijentima za zarade policijskih službenika | [`uredba/2026/395381/`](uredba/2026/395381/) | amending act | 1 | 2026-07-02 | 2026-07-02 |
+| Uredba o sektorskim kriterijumima za određivanje kritične infrastrukture | [`uredba/2026/395506/`](uredba/2026/395506/) | in force | 1 | 2026-07-07 | 2026-07-07 |
+| Uredba o zahtjevima za proizvodnju, stavljanje u promet i upotrebu medicinirane hrane za životinje* | [`uredba/2026/395686/`](uredba/2026/395686/) | in force | 1 | 2026-07-14 | 2026-07-14 |
+| Uredba o brzo zamrznutoj hrani namijenjenoj za ishranu ljudi* | [`uredba/2026/395877/`](uredba/2026/395877/) | in force | 1 | 2026-07-17 | 2026-07-17 |
+| Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2026. godinu | [`uredba/2026/395908/`](uredba/2026/395908/) | in force | 1 | 2026-07-11 | 2026-07-11 |
+| Uredba o metodologiji jedinstvenog vještačenja invaliditeta | [`uredba/2026/395909/`](uredba/2026/395909/) | in force | 1 | 2026-07-10 | 2026-07-10 |
+| Uredba o osiguranju izvoza od netržišnih rizika* | [`uredba/2026/395954/`](uredba/2026/395954/) | in force | 1 | 2026-07-23 | 2026-07-23 |
+| Uredba o vrsti, visini i načinu plaćanja naknade za obavljanje poslova carinskog organa | [`uredba/2026/396289/`](uredba/2026/396289/) | in force | 1 | 2026-07-30 | 2026-07-30 |
+| Uredba o uniformi, oznakama zvanja i posebnim oznakama policijskih službenika | [`uredba/2026/396413/`](uredba/2026/396413/) | in force | 1 | 2026-08-01 | 2026-08-01 |
+| Uredba o zahtjevima za sljedivost klica i sjemena namijenjenog proizvodnji klica* | [`uredba/2026/396414/`](uredba/2026/396414/) | in force | 1 | 2026-08-01 | 2026-08-01 |
+| Uredba o zahtjevima za ekstrakcione rastvarače* | [`uredba/2026/396447/`](uredba/2026/396447/) | in force | 1 | 2026-08-04 | 2026-08-04 |
+| Uredba o izmjeni Uredbe o uslovima za spoljnotrgovinski promet neobrađenih dijamanata | [`uredba/2026/396632/`](uredba/2026/396632/) | in force | 1 | 2026-08-07 | 2026-08-07 |
+| Uredba o zahtjevima za stavljanje na tržište hrane za životinje za posebne nutritivne namjene* | [`uredba/2026/396650/`](uredba/2026/396650/) | in force | 1 | 2026-08-08 | 2026-08-08 |
+| Uredba o prehrambenim aromama i određenim prehrambenim sastojcima hrane sa osobinama aroma za upotrebu u i na hrani * | [`uredba/2026/396651/`](uredba/2026/396651/) | in force | 1 | 2026-08-08 | 2026-08-08 |
+| Uredba o prehrambenim aditivima* | [`uredba/2026/396652/`](uredba/2026/396652/) | in force | 1 | 2026-08-08 | 2026-08-08 |
+| Uredba o bližim kriterijumima, načinu i postupku ostvarivanja prava na povraćaj dijela sredstava utrošenih za proizvodnju kinematografskog djela | [`uredba/2026/396751/`](uredba/2026/396751/) | in force | 1 | 2026-08-12 | 2026-08-12 |
+| Uredba o uspostavljanju, održavanju i kontinuiranom unapređenju sistema politika, mjera i projekcija emisija gasova sa efektom staklene bašte | [`uredba/2026/396753/`](uredba/2026/396753/) | in force | 1 | 2026-08-12 | 2026-08-12 |
+| Uredba o stavljanju na tržište malih količina primarnih proizvoda životinjskog porijekla proizvedenih na gazdinstvima namijenjenih ishrani ljudi* | [`uredba/2026/396754/`](uredba/2026/396754/) | in force | 1 | 2026-08-12 | 2026-08-12 |
+| Uredba o bližim uslovima za odstupanje u pogledu zahtjeva iz propisa o hrani u objektima sa malim obimom poslovanja proizvodima životinjskog porijekla* | [`uredba/2026/396755/`](uredba/2026/396755/) | in force | 1 | 2026-08-12 | 2026-08-12 |
+| Uredba o prestanku važenja Uredbe o čamcima | [`uredba/2026/396756/`](uredba/2026/396756/) | in force | 1 | 2026-08-05 | 2026-08-05 |
+| Uredba o hrani i sastojcima hrane tretirane jonizujućim zračenjem* | [`uredba/2026/396826/`](uredba/2026/396826/) | in force | 1 | 2026-08-13 | 2026-08-13 |
+| Uredba o aktivnostima, odnosno djelatnostima koje emituju gasove sa efektom staklene bašte za koje se izdaje dozvola za emisiju gasova sa efektom staklene bašte i dodjeli emisionih kredita | [`uredba/2026/396827/`](uredba/2026/396827/) | in force | 1 | 2026-08-13 | 2026-08-13 |
+| Uredba o stavljanju na tržište malih količina proizvoda životinjskog porijekla namijenjenih ishrani ljudi* | [`uredba/2026/396828/`](uredba/2026/396828/) | in force | 1 | 2026-08-13 | 2026-08-13 |
+| Uredba o novoj hrani* | [`uredba/2026/397529/`](uredba/2026/397529/) | in force | 1 | 2026-08-26 | 2026-08-26 |
+| Uredba o izmjeni Uredbe o mikrobiološkim kriterijumima za hranu* | [`uredba/2026/397530/`](uredba/2026/397530/) | in force | 1 | 2026-08-27 | 2026-08-27 |
+| Uredba o izmjeni Uredbe o zabranjenim odnosno dozvoljenim načinima upotrebe, proizvodnje i stavljanja na tržište hemikalija koje predstavljaju neprihvatljiv rizik po zdravlje ljudi i životnu sredinu | [`uredba/2026/397644/`](uredba/2026/397644/) | in force | 1 | 2026-09-08 | 2026-09-08 |
+| Uredba o bližem načinu formiranja, sastavu, postupku izbora članova, mandatu i zadacima državne komisije za reviziju, stručni nadzor i tehnički pregled za projekte autoputeva, brzih saobraćajnica, magistralnih i regionalnih puteva | [`uredba/2026/397925/`](uredba/2026/397925/) | in force | 1 | 2026-09-07 | 2026-09-07 |
+| Uredba o bližim uslovima i načinu izdavanja odobrenja i licence za obavljanje poslova zastupanja pred carinskim organom | [`uredba/2026/398333/`](uredba/2026/398333/) | in force | 1 | 2026-09-29 | 2026-09-29 |
+| Uredba o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine Inženjerskoj komori Crne Gore | [`uredba/2026/398626/`](uredba/2026/398626/) | in force | 1 | 2026-10-08 | 2026-10-08 |
+| Uredba o grupama proizvoda nad kojima se vrši nadzor na tržištu | [`uredba/2026/398627/`](uredba/2026/398627/) | in force | 1 | 2026-10-08 | 2026-10-08 |
+| Uredba o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine Komori arhitekata i planera Crne Gore | [`uredba/2026/398946/`](uredba/2026/398946/) | in force | 1 | 2026-10-17 | 2026-10-17 |
+| Uredba o realizaciji i postupku korišćenja sredstava iz Mjere 9 - tehnička pomoć iz instrumenta pretpristupne pomoći Evropske unije (IPARD III program) | [`uredba/2026/399206/`](uredba/2026/399206/) | in force | 1 | 2026-10-16 | 2026-10-16 |
+| Uredba o standardima kvaliteta vazduha i pragovima ocjenjivanja* | [`uredba/2026/399207/`](uredba/2026/399207/) | in force | 1 | 2026-10-16 | 2026-10-16 |
+| Uredba o nacionalnim obavezama smanjenja emisija određenih zagađujućih materija u vazduhu, inventarima i projekcijama emisija, programu kontrole zagađenja vazduha i praćenju negativnog uticaja na ekosisteme* | [`uredba/2026/399208/`](uredba/2026/399208/) | in force | 1 | 2026-10-16 | 2026-10-16 |
+| Uredba o načinu i postupku osnivanja organizovanog sistema za preuzimanje, sakupljanje i obradu otpadnog ribolovnog alata koji sadrži plastiku* | [`uredba/2026/399210/`](uredba/2026/399210/) | in force | 1 | 2026-10-24 | 2026-10-24 |
+| Uredba o načinu i postupku osnivanja sistema preuzimanja, sakupljanja i obrade otpadnih vozila | [`uredba/2026/399211/`](uredba/2026/399211/) | in force | 1 | 2026-10-24 | 2026-10-24 |
+| Uredba o načinu i postupku osnivanja sistema preuzimanja, sakupljanja i obrade otpadnih baterija i rada tog sistema | [`uredba/2026/399212/`](uredba/2026/399212/) | in force | 1 | 2026-10-24 | 2026-10-24 |
+| Uredba o načinu i postupku osnivanja, organizovanja i rada sistema za preuzimanje, sakupljanje i obradu otpadne ambalaže i otpada od proizvoda od plastike za jednokratnu upotrebu, kao i o ciljevima sakupljanja plastičnih boca | [`uredba/2026/399213/`](uredba/2026/399213/) | in force | 1 | 2026-10-24 | 2026-10-24 |
+| Uredba o načinu i postupku osnivanja sistema preuzimanja, sakupljanja i obrade otpada od tekstilnih proizvoda i rada tog sistema | [`uredba/2026/399214/`](uredba/2026/399214/) | in force | 1 | 2026-10-24 | 2026-10-24 |
+| Uredba o bližem načinu rada Centralnog informacionog sistema za zaštitu potrošača | [`uredba/2026/399236/`](uredba/2026/399236/) | in force | 1 | 2026-10-27 | 2026-10-27 |
+| Uredba o izmjeni Uredbe o higijeni hrane* | [`uredba/2026/399368/`](uredba/2026/399368/) | in force | 1 | 2026-10-23 | 2026-10-23 |
+| Uredba o izmjeni Uredbe o materijalima i predmetima koji dolaze u kontakt sa hranom* | [`uredba/2026/399369/`](uredba/2026/399369/) | in force | 1 | 2026-10-23 | 2026-10-23 |
 
 ## ustav (1)
 
