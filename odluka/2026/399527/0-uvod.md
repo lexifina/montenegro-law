@@ -1,0 +1,2 @@
+Na osnovu člana 27 stav 1 tačka 13 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18,34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 17 stav 1 tačka 13 Statuta opštine Kolašin ("Službeni list Crne Gore - Opštinski propisi", broj 24/19) i člana 47 i 113 Zakona o sportu ("Službeni list Crne Gore", br. 44/18, 123/21 i 52/26) Skupština opštine Kolašin, na sjednici održanoj dana 13. 10. i 14. 10. donijela je
+O D L U K U
