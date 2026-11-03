@@ -185,3 +185,5 @@ Ustav · 3 versions, from 2007-10-22 (latest in force: 2026-08-24) · <https://w
 | Дио Седми | [dio-7.md](dio-7.md) | 0 |  |
 | Дио Осми | [dio-8.md](dio-8.md) | 0 |  |
 | Преамбула | [preambula.md](preambula.md) | 0 |  |
+
+Act id: `ustav` (tags `ustav/<day>`; `python tools/on.py <day> ustav`).
