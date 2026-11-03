@@ -1,0 +1,2 @@
+Na osnovu člana 13 i člana 37 Zakona o životnoj sredini ("Službeni list Crne Gore", br. 52/16 i 73/19 i 84/24), člana 38 stav 1 tačka 4 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 37 stav 1 tačka 4 Statuta Opštine Kolašin ("Službeni list Crne Gore - Opštinski propisi", broj 24/19), Skupština opštine Kolašin, na sjednici održanoj dana 13. 10. i 14. 10. 2026. godine, donijela je
+O D L U K U
