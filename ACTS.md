@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8799 acts, 8,801 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10674 acts, 10,676 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (563, of which 75 amending acts)
 
@@ -805,7 +805,7 @@
 | Naredba o izmjeni Naredbe o ribolovnim zabranima, lovostaju i minimalnim veličinama riba i drugih vodenih organizama ispod kojih je zabranjen ulov | [`naredba/2026/398070/`](naredba/2026/398070/) | in force | 1 | 2026-09-11 | 2026-09-11 |
 | Naredba o izmjeni Naredbe o zabrani uvoza/unošenja životinja i roba iz zemalja i objekata koji nisu uključeni na liste EU iz kojih je dozvoljen uvoz/unošenje u Evropsku uniju | [`naredba/2026/398952/`](naredba/2026/398952/) | in force | 1 | 2026-10-10 | 2026-10-10 |
 
-## odluka (3121, of which 486 amending acts)
+## odluka (4996, of which 903 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2774,7 +2774,507 @@
 | Odluka o dodjeli koncesije za detaljna geološka istraživanja i eksploataciju pojave nemetalične mineralne sirovine šljunka i pijeska "Lećevine - Kameno" | [`odluka/2008/374318/`](odluka/2008/374318/) | in force | 1 | 2008-12-20 | 2008-12-20 |
 | Odluka o dodjeli koncesije za detaljna geološka istraživanja i eksploataciju pojave nemetalične mineralne sirovine tehničko-građevinskog kamena "Sađavac" | [`odluka/2008/374320/`](odluka/2008/374320/) | in force | 1 | 2008-12-20 | 2008-12-20 |
 | Odluka o davanju saglasnosti na Odluku UO JKP "Gradac" Mojkovac br. 2489/1 od 6.11.2008. godine o povećanju cijena usluga Preduzeća (voda, kanalizacija i odvoz smeća) | [`odluka/2008/381163/`](odluka/2008/381163/) | in force | 1 | 2008-12-29 | 2008-12-29 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju magistralnog puta Podgorica - Niksic dionice: Bogetici i Paprati | [`odluka/2009/291532/`](odluka/2009/291532/) | in force | 1 | 2009-04-17 | 2009-04-17 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora Javnog komunalnog preduzeća Rožaje o usvajanju Diobnog bilansa | [`odluka/2009/291563/`](odluka/2009/291563/) | in force | 1 | 2009-12-15 | 2009-12-15 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju pet članova Savjeta za pritužbe ("Sl. list RCG-opštinski propisi", br.13/07 od 13.04.2007.godine, br.18/08 od 19.06.2008.godine) | [`odluka/2009/291593/`](odluka/2009/291593/) | amending act | 1 | 2009-12-05 | 2009-12-05 |
+| Odluka o privremenom finansiranju Opštine Šavnik za period januar - mart 2010.godine | [`odluka/2009/291611/`](odluka/2009/291611/) | in force | 1 | 2009-12-25 | 2009-12-25 |
+| Odluka o relevantnim trzistima usluga i relevantnom geografskom trzistu | [`odluka/2009/291625/`](odluka/2009/291625/) | in force | 1 | 2009-05-02 | 2009-05-02 |
+| Odluka o izradi Strateške procjene uticaja na životnu sredinu Lokalne studije lokacije "Dubrava" | [`odluka/2009/291626/`](odluka/2009/291626/) | in force | 1 | 2009-08-21 | 2009-08-21 |
+| Odluka o sadrzaju i nacinu podnosenja zahtjeva pravnih lica za izdavanje garancije | [`odluka/2009/291640/`](odluka/2009/291640/) | in force | 1 | 2009-11-21 | 2009-11-21 |
+| Odluka o izradi Strateške procjene uticaja na životnu sredinu Urbanističkog projekta "SMOKVICA I" | [`odluka/2009/292018/`](odluka/2009/292018/) | in force | 1 | 2009-10-06 | 2009-10-06 |
+| Odluka o imenovanju jednog clana Odbora za izbor i imenovanja Skupstine opstine Pljevlja | [`odluka/2009/292026/`](odluka/2009/292026/) | in force | 1 | 2009-06-23 | 2009-06-23 |
+| Odluka o oslobađanju plaćanja obaveze po osnovu poreza na nepokretnosti na poljoprivredno zemljište za 2007. i 2008.godinu | [`odluka/2009/292071/`](odluka/2009/292071/) | in force | 1 | 2009-07-09 | 2009-07-09 |
+| Odluka o donošenju Detaljnog urbanističkog plana »Marelica« | [`odluka/2009/292078/`](odluka/2009/292078/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o donošenju Lokalne studije lokacije za lokaciju "Stari Vinogradi", Opština Herceg Novi | [`odluka/2009/297031/`](odluka/2009/297031/) | in force | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o uskladjivanju vrijednosti penzije za jedan licni bod od 1.jula 2009.godine | [`odluka/2009/297033/`](odluka/2009/297033/) | in force | 1 | 2009-08-01 | 2009-08-01 |
+| Odluka o donošenju Detaljnog urbanističkog plana "CEN TAR" - Petrovac | [`odluka/2009/297071/`](odluka/2009/297071/) | in force | 1 | 2009-04-04 | 2009-04-04 |
+| Odluka o davanju saglasnosti na Pro-gram rada sa Finansijskim planom Turističke organizacije za 2009. godinu | [`odluka/2009/297201/`](odluka/2009/297201/) | in force | 1 | 2009-12-19 | 2009-12-19 |
+| Odluka o izradi strateške procjene uticaja na životnu sredinu Prostorno-urbanističkog plana Opštine Žabljak | [`odluka/2009/297532/`](odluka/2009/297532/) | in force | 1 | 2009-04-21 | 2009-04-21 |
+| Odluka o davanju saglasnosti na Izvještaj o radu Turističke organizacije za 2008. godinu i Program rada sa Finansijskim planom za 2009. godinu | [`odluka/2009/297535/`](odluka/2009/297535/) | in force | 1 | 2009-03-06 | 2009-03-06 |
+| Odluka o davanju saglasnosti na Program rada Javne ustanove za kulturu, fizičku kulturu i sport za 2009. godinu | [`odluka/2009/297646/`](odluka/2009/297646/) | in force | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o donošenju izmjena i dopuna Prostornog plana Opštine Nikšić | [`odluka/2009/297710/`](odluka/2009/297710/) | amending act | 1 | 2009-11-27 | 2009-11-27 |
+| Odluka o utvrđivanju broja odbornika u Skupštini Prijestonice Cetinje | [`odluka/2009/297717/`](odluka/2009/297717/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o donošenju izmjena i dopuna Generalnog urbanističkog plana Opštine Herceg Novi u zoni Bijela | [`odluka/2009/297721/`](odluka/2009/297721/) | amending act | 1 | 2009-02-26 | 2009-02-26 |
+| Odluka o prenosu prava svojine na gradskom građevinskom zemljištu na ime Mire Baltić | [`odluka/2009/297741/`](odluka/2009/297741/) | in force | 1 | 2009-09-16 | 2009-09-16 |
+| Odluka o izmjeni Odluke o obrazovanju Savjeta za realizaciju Projekta pravosudnog informacionog sistema | [`odluka/2009/297745/`](odluka/2009/297745/) | in force | 1 | 2009-08-08 | 2009-08-08 |
+| Odluka o Izmjenama i dopunama Detaljnog urbanističkog plana ’’Zagorič 3 i 4 - Zona 2’’ u Podgorici | [`odluka/2009/297752/`](odluka/2009/297752/) | amending act | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o utvrđivanju Javnog interesa za ekspoprijaciju nepokretnosti za izgradnju deponije | [`odluka/2009/297772/`](odluka/2009/297772/) | in force | 1 | 2009-03-24 | 2009-03-24 |
+| Odluka o donošenju Izmjena i dopuna PPO za područje Vranovići - Pobrđe | [`odluka/2009/297978/`](odluka/2009/297978/) | amending act | 1 | 2009-01-31 | 2009-01-31 |
+| Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave nemetalicne mineralne sirovine arhitektonsko-gradjevinskog(ukrasnog) kamena "Ubla" | [`odluka/2009/298013/`](odluka/2009/298013/) | in force | 1 | 2009-06-25 | 2009-06-25 |
+| Odluka o izmjeni Odluke o izradi detaljnog urbanističkog plana "BABIN DO" | [`odluka/2009/298015/`](odluka/2009/298015/) | in force | 1 | 2009-09-03 | 2009-09-03 |
+| Odluka o donošenju Višegodišnjeg investicionog plana Opštine Bijelo Polje za period 2008-2012 godine | [`odluka/2009/298016/`](odluka/2009/298016/) | in force | 1 | 2009-03-24 | 2009-03-24 |
+| Program rada Skupstine opstine Kolasin za 2009. godinu | [`odluka/2009/298017/`](odluka/2009/298017/) | in force | 1 | 2009-01-15 | 2009-01-15 |
+| Odluka o izmjenama i dopunama Odluke o porezu na firmu ili naziv | [`odluka/2009/298023/`](odluka/2009/298023/) | amending act | 1 | 2009-07-09 | 2009-07-09 |
+| Odluka o donošenju Lokalne studije lokacije regionalne sanitarne deponije čvrstog otpada "Čelinska kosa" | [`odluka/2009/298026/`](odluka/2009/298026/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o razrješenju Komisije za prenos prava svojine na državnom zemljištu van granica GUP-a Mojkovac | [`odluka/2009/298189/`](odluka/2009/298189/) | in force | 1 | 2009-04-30 | 2009-04-30 |
+| Odluka o pristupanju izradi prostorno-urbanistickog plana Opstine Ulcinj | [`odluka/2009/298289/`](odluka/2009/298289/) | in force | 1 | 2009-08-18 | 2009-08-18 |
+| Odluka o oslobađanju plaćanja obaveza po osnovu poreza za poljoprivredno i šumsko zemljište, stanove i stambene objekte na seoskom području za 2009. godinu | [`odluka/2009/298290/`](odluka/2009/298290/) | in force | 1 | 2009-05-21 | 2009-05-21 |
+| Odluka o izmjeni Poslovnika Skupštine opštine Danilovgrad | [`odluka/2009/298318/`](odluka/2009/298318/) | in force | 1 | 2009-11-17 | 2009-11-17 |
+| Odlukau o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave mineralne sirovine arhitektonsko-gradjevinskog (ukrasnog) kamena "Duske" | [`odluka/2009/298320/`](odluka/2009/298320/) | in force | 1 | 2009-06-25 | 2009-06-25 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Odluke o Finansijskom planu Gradske opštine Tuzi za 2009. godinu | [`odluka/2009/298490/`](odluka/2009/298490/) | amending act | 1 | 2009-12-30 | 2009-12-30 |
+| Odluku o dodjeli koncesije za eksploataciju nemetalicne mineralne sirovine arhitektonsko -gradjevinskog (ukrasnog) kamena na lezistu "Ttijesna Vala"(Zivsko razdolje) | [`odluka/2009/298494/`](odluka/2009/298494/) | in force | 1 | 2009-07-11 | 2009-07-11 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora o razrješenju dužnosti direktora JKP "Kotor" | [`odluka/2009/298516/`](odluka/2009/298516/) | in force | 1 | 2009-03-16 | 2009-03-16 |
+| Odluka o izmjenama i dopunama Odluke o uređenju javnog prevoza putnika u gradskom i prigradskom lini- jskom drumskom saobraćaju | [`odluka/2009/298588/`](odluka/2009/298588/) | amending act | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o donošenju Urbanističkog projekta "Benzinska pumpa Polje" | [`odluka/2009/298619/`](odluka/2009/298619/) | in force | 1 | 2009-02-26 | 2009-02-26 |
+| Odluka o izmjenama Odluke o odredjivanju voda od znacaja za Crnu Goru | [`odluka/2009/298624/`](odluka/2009/298624/) | in force | 1 | 2009-04-24 | 2009-04-24 |
+| Odluka o izmjeni Odluka o izradi Lokalne studije lokacije "Poljane" | [`odluka/2009/298655/`](odluka/2009/298655/) | in force | 1 | 2009-06-03 | 2009-06-03 |
+| Odluka o davanju saglasnosti na Program rada i finansijski plan JP za komunalne djelatnosti "Kolašin" - Kolašin | [`odluka/2009/298659/`](odluka/2009/298659/) | in force | 1 | 2009-12-19 | 2009-12-19 |
+| Odluka o izradi Strateške procjene uticaja na životnu sredinu Lokalne studije lokacije "Žanjev Do" | [`odluka/2009/298793/`](odluka/2009/298793/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o izmjeni i dopuni Odluke o imenovanju Žirija za dodjelu nagrade "20. novembar" | [`odluka/2009/298901/`](odluka/2009/298901/) | amending act | 1 | 2009-11-09 | 2009-11-09 |
+| Odluka o davanju saglasnosti na Program rada JP "Vodovod i kanalizacija" -Berane | [`odluka/2009/298949/`](odluka/2009/298949/) | in force | 1 | 2009-03-06 | 2009-03-06 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za potrebe izgradnje saobraćajnice u naselju Ambarine | [`odluka/2009/298963/`](odluka/2009/298963/) | in force | 1 | 2009-12-19 | 2009-12-19 |
+| Odluka o ustupanju na upravljanje Javnom komunalnom preduzeću Cetinje nepokretnosti u KO Cetinje I | [`odluka/2009/298964/`](odluka/2009/298964/) | in force | 1 | 2009-09-03 | 2009-09-03 |
+| Odluka o potvrđivanju Odluke o pristupanju Opštine Kolašin osnivanju DOO KOL ENERGY | [`odluka/2009/298966/`](odluka/2009/298966/) | in force | 1 | 2009-12-19 | 2009-12-19 |
+| Odluka o donošenju Lokalne studije lokacije "Mala Volujica" | [`odluka/2009/298976/`](odluka/2009/298976/) | in force | 1 | 2009-02-26 | 2009-02-26 |
+| Odluka o izboru članova Savjeta za razvoj i zaštitu lokalne samouprave | [`odluka/2009/299001/`](odluka/2009/299001/) | in force | 1 | 2009-09-08 | 2009-09-08 |
+| Odluka o obrazovanju Savjeta Projekta Centralni registar stanovnistva | [`odluka/2009/299028/`](odluka/2009/299028/) | in force | 1 | 2009-08-08 | 2009-08-08 |
+| Odluka o donošenju Izmjena i dopuna Generalnog urbanističkog plana Ulcinj za prostor koji obuhvata lokalitete: Pinješ, Rt Đerane-kanal Port Milena, Đrane 2, Ulcinjsko polje, Kodre i dio Zoganja | [`odluka/2009/299269/`](odluka/2009/299269/) | amending act | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o otvaranju Konzulata Crne Gore u Tel Avivu - Drzava Izrael | [`odluka/2009/299276/`](odluka/2009/299276/) | in force | 1 | 2009-06-20 | 2009-06-20 |
+| Odluku o otvaranju Konzulata Crne Gore u Napulju - Republika Italija | [`odluka/2009/299277/`](odluka/2009/299277/) | in force | 1 | 2009-10-29 | 2009-10-29 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice "Čeoče" | [`odluka/2009/299280/`](odluka/2009/299280/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o Detaljnom urbanističkom planu "Golubovci - dio zone 2’’ | [`odluka/2009/299282/`](odluka/2009/299282/) | in force | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju magistralnog puta, Podgorica - Cetinje, dionice: Kamenica i Meterizi | [`odluka/2009/299293/`](odluka/2009/299293/) | in force | 1 | 2009-04-17 | 2009-04-17 |
+| Odluka o utvrdjivanju visine godisnje premije za 2010.godinu | [`odluka/2009/299333/`](odluka/2009/299333/) | in force | 1 | 2009-12-15 | 2009-12-15 |
+| Odluka o obrazovanju grupa za evropske integracije | [`odluka/2009/299336/`](odluka/2009/299336/) | in force | 1 | 2009-04-18 | 2009-04-18 |
+| Odluka o osnivanju Javnog preduzeća "Sportski objekti" Podgorica | [`odluka/2009/299572/`](odluka/2009/299572/) | in force | 1 | 2009-12-15 | 2009-12-15 |
+| Odluka o izmjenama Odluke o porezu na nepokretnosti | [`odluka/2009/299573/`](odluka/2009/299573/) | in force | 1 | 2009-07-18 | 2009-07-18 |
+| Odluka o izmjenama i dopunama Detaljnog urbanističkog plana Zone "Centar" | [`odluka/2009/299598/`](odluka/2009/299598/) | amending act | 1 | 2009-12-15 | 2009-12-15 |
+| Odluka o izmjeni i dopuni Odluke o izradi lokalne Studije lokacije "Blizikuce" | [`odluka/2009/299600/`](odluka/2009/299600/) | amending act | 1 | 2009-03-28 | 2009-03-28 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Javne ustanove Centar za djelatnosti kulture | [`odluka/2009/299628/`](odluka/2009/299628/) | amending act | 1 | 2009-12-30 | 2009-12-30 |
+| Odluka o davanju u dugorocni zakup zemljista na poluostrvu Lustica- Opstina Tivat | [`odluka/2009/299633/`](odluka/2009/299633/) | in force | 1 | 2010-01-02 | 2010-01-02 |
+| Odluka o izmjeni i dopuni Odluke o naknadi za uređivanje građevinskog zemljišta | [`odluka/2009/299786/`](odluka/2009/299786/) | amending act | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o izmjeni Odluke o izradi Prostornog plana Opštine Kotor | [`odluka/2009/299792/`](odluka/2009/299792/) | in force | 1 | 2009-07-09 | 2009-07-09 |
+| Odluka o uskladjivanju vrijednosti penzije za jedan licni bod od 1. januara 2009. godine | [`odluka/2009/299863/`](odluka/2009/299863/) | in force | 1 | 2009-02-14 | 2009-02-14 |
+| Odluka o uskladjivanju osnova za odredjivanje novcane naknade za tjelesno ostecenje od 1. januara 2009. godine | [`odluka/2009/299891/`](odluka/2009/299891/) | in force | 1 | 2009-02-14 | 2009-02-14 |
+| Odluka o usvajanju Akcionog plana za borbu protiv korupcije u lokalnoj samoupravi opštine Plav, za period 2009 - 2011. godina | [`odluka/2009/299924/`](odluka/2009/299924/) | in force | 1 | 2009-08-06 | 2009-08-06 |
+| Odluka o izmjenama i dopunama Odluke o opštinskim i nekategorisanim putevima | [`odluka/2009/300064/`](odluka/2009/300064/) | amending act | 1 | 2009-11-17 | 2009-11-17 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice "Grab-Kičava" | [`odluka/2009/300081/`](odluka/2009/300081/) | in force | 1 | 2009-03-24 | 2009-03-24 |
+| Odluka o iskazivanju potrebe za obezbjeđenje kredita | [`odluka/2009/300151/`](odluka/2009/300151/) | in force | 1 | 2009-04-04 | 2009-04-04 |
+| Odluka o davanju saglasnosti na Statut JU Centar za kulturu Tivat | [`odluka/2009/300156/`](odluka/2009/300156/) | in force | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o davanju saglasnosti na Ugovor o osnivanju konzorcijuma | [`odluka/2009/300192/`](odluka/2009/300192/) | in force | 1 | 2009-01-19 | 2009-01-19 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prenos prava na gradsko građevinsko zemljište u skladu sa DUP-om Podtrebjesa | [`odluka/2009/300271/`](odluka/2009/300271/) | in force | 1 | 2009-03-07 | 2009-03-07 |
+| Odluka o uskladjivanju penzija i novcanih naknada od 1.jula 2009.godine | [`odluka/2009/300304/`](odluka/2009/300304/) | in force | 1 | 2009-08-01 | 2009-08-01 |
+| Odluka o izradi Lokalne studije lokacije "VRBA II" | [`odluka/2009/300341/`](odluka/2009/300341/) | in force | 1 | 2009-09-03 | 2009-09-03 |
+| Odluka o otvaranju Konzulata Crne Gore u Tirolu - Republika Austrija | [`odluka/2009/300374/`](odluka/2009/300374/) | in force | 1 | 2009-04-08 | 2009-04-08 |
+| Odluka o izradi Lokalne studije lokacije "B a r e" | [`odluka/2009/300376/`](odluka/2009/300376/) | in force | 1 | 2009-07-16 | 2009-07-16 |
+| Odluka o davanju saglasnosti na Statut JP "Vodovod"- Pljevlja | [`odluka/2009/300377/`](odluka/2009/300377/) | in force | 1 | 2009-06-03 | 2009-06-03 |
+| Odluka o potvrđivanju Odluke o zakupu građevinskog zemljišta | [`odluka/2009/300412/`](odluka/2009/300412/) | in force | 1 | 2009-09-03 | 2009-09-03 |
+| Odluka o donošenju Urbanističkog projekta turističkog kompleksa "Branica - Za Rijekom" | [`odluka/2009/300557/`](odluka/2009/300557/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o pristupanju izradi Elaborata o postavljanju reklam nih panoa na fasadama i krovovima zgrada na teritoriji Glavnog grada -Podgorice | [`odluka/2009/300558/`](odluka/2009/300558/) | in force | 1 | 2009-05-26 | 2009-05-26 |
+| Odluka o davanju u zakup putem javnog nadmetanja nepokretnosti u KO Danilovgrad | [`odluka/2009/300986/`](odluka/2009/300986/) | in force | 1 | 2009-07-18 | 2009-07-18 |
+| Odluka o usvajanju Operativnog plana gašenja požara na teritoriji Opštine Plužine | [`odluka/2009/301017/`](odluka/2009/301017/) | in force | 1 | 2009-07-09 | 2009-07-09 |
+| Odluka o davanju saglasnosti na Ugovor o obezbjeđivanju sredstava za stan vaterpoliste Šćepanović Miloša | [`odluka/2009/301036/`](odluka/2009/301036/) | in force | 1 | 2009-01-19 | 2009-01-19 |
+| Odluka o usvajanju Programa borbe protiv korupcije u lokalnoj samoupravi - Opština Rožaje | [`odluka/2009/301206/`](odluka/2009/301206/) | in force | 1 | 2009-06-24 | 2009-06-24 |
+| Odluka o donošenju Detaljnog urbanističkog plana »Servisna zona - Polje« | [`odluka/2009/301207/`](odluka/2009/301207/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o uskladjivanju nominalnog iznosa najnize penzije od 1. januara 2009. godine | [`odluka/2009/301271/`](odluka/2009/301271/) | in force | 1 | 2009-02-14 | 2009-02-14 |
+| Odluka o davanju u dugoročni zakup dijela kat.parc.306 K.O. Škaljari II | [`odluka/2009/301307/`](odluka/2009/301307/) | in force | 1 | 2009-07-08 | 2009-07-08 |
+| Odluka o donošenju Urbanističkog projekta "Turističko naselje Smokvica" | [`odluka/2009/301479/`](odluka/2009/301479/) | in force | 1 | 2009-06-24 | 2009-06-24 |
+| Odluka o pristupanju izradi Elaborata o postavljanju i izgradnji montažnih objekata privremenog karaktera na teritoriji Glavnog grada - Podgorice | [`odluka/2009/301632/`](odluka/2009/301632/) | in force | 1 | 2009-05-26 | 2009-05-26 |
+| Odluka o dopuni Odluke o izradi Izmjena i dopuna Detaljnog urbanističkog plana Lastva-Seljanovo-Tivat-Gradiošnica | [`odluka/2009/301681/`](odluka/2009/301681/) | amending act | 1 | 2009-03-07 | 2009-03-07 |
+| Odluka o izmjeni i dopuni Odluke o izradi detaljnog urbanistickog plana "Brca" | [`odluka/2009/301695/`](odluka/2009/301695/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o donošenju Lokalne studije lokacije "Kaća 2" | [`odluka/2009/301726/`](odluka/2009/301726/) | in force | 1 | 2009-02-26 | 2009-02-26 |
+| Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave nemetalicne mineralne sirovine tehnicko-gradjevinskog kamena "Bjelotina" | [`odluka/2009/301755/`](odluka/2009/301755/) | in force | 1 | 2009-06-25 | 2009-06-25 |
+| Odluka o donošenju izmjena i dopuna Urbanističkog projekta Zapadno podgrađe | [`odluka/2009/302099/`](odluka/2009/302099/) | amending act | 1 | 2009-05-21 | 2009-05-21 |
+| Odluka o otkupu zemljišta radi dokompletiranja urbanističke parcele | [`odluka/2009/302260/`](odluka/2009/302260/) | in force | 1 | 2009-05-08 | 2009-05-08 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Lijeva obala Lima" | [`odluka/2009/302266/`](odluka/2009/302266/) | amending act | 1 | 2009-09-08 | 2009-09-08 |
+| Odluka o davanju saglasnosti na zaduženje kod Evropske investicione banke za izgradnju regionalne sani tarne deponije u Nikšiću | [`odluka/2009/302374/`](odluka/2009/302374/) | in force | 1 | 2009-05-21 | 2009-05-21 |
+| Odluka o donošenju LSL za područje u obuhvatu bašte - kafane "Dojmi" | [`odluka/2009/302375/`](odluka/2009/302375/) | in force | 1 | 2009-02-14 | 2009-02-14 |
+| Odluka o davanju saglasnosti na izbor direktora Javne ustanove "Centar za kulturu" Tivat | [`odluka/2009/302601/`](odluka/2009/302601/) | in force | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o usvajanju Plana mjera iz Lokalnog ekološkog akcionog plana Opštine Pljevlja za 2009. godinu | [`odluka/2009/302614/`](odluka/2009/302614/) | in force | 1 | 2009-06-03 | 2009-06-03 |
+| Odluka o izmjeni i dopuni Odluke o izradi detaljnog urbanistickog plana "Servisna zona - Polje" | [`odluka/2009/302656/`](odluka/2009/302656/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjenama Statuta opštine Ulcinj | [`odluka/2009/303008/`](odluka/2009/303008/) | in force | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o davanju saglasnosti na Odluku o Finansijskom planu Gradske opštine Golubovci za 2009. godinu | [`odluka/2009/303286/`](odluka/2009/303286/) | in force | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o uskladjivanju nominalnog iznosa najnize penzije od 1.jula 2009.godine | [`odluka/2009/303291/`](odluka/2009/303291/) | in force | 1 | 2009-08-01 | 2009-08-01 |
+| Odluka o Urbanističkom projekatu "Nova Varoš - Blok M" | [`odluka/2009/303292/`](odluka/2009/303292/) | in force | 1 | 2010-01-06 | 2010-01-06 |
+| Odluka o vrstama kombinovane hrane i njihovom razvrstavanju | [`odluka/2009/303337/`](odluka/2009/303337/) | in force | 1 | 2009-03-25 | 2009-03-25 |
+| Odluka o davanju saglasnosti na Plan rada JP "Sportski centar" - Berane | [`odluka/2009/303368/`](odluka/2009/303368/) | in force | 1 | 2009-03-06 | 2009-03-06 |
+| Odluka o obrazovanju Komisije za koordinaciju instrumenata za pretpristupnu pomoc | [`odluka/2009/303373/`](odluka/2009/303373/) | in force | 1 | 2009-10-21 | 2009-10-21 |
+| Odluka o visini naknade za uređivanje građevinskog zemljišta | [`odluka/2009/303442/`](odluka/2009/303442/) | in force | 1 | 2009-04-09 | 2009-04-09 |
+| Odluka broj 030-154, od 18.06.2009. godine | [`odluka/2009/303473/`](odluka/2009/303473/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za korišćenje putnog zemljišta koje pripada opštinskim i nekategorisanim putevima | [`odluka/2009/304147/`](odluka/2009/304147/) | amending act | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o otkupu zemljišta radi dokompletiranja urbanističke parcele | [`odluka/2009/304604/`](odluka/2009/304604/) | in force | 1 | 2009-08-21 | 2009-08-21 |
+| Odluka o izmjenama i dopunama Odluke o porezu na igre na sreću i zabavne igre | [`odluka/2009/304631/`](odluka/2009/304631/) | amending act | 1 | 2009-04-09 | 2009-04-09 |
+| Odluka o otkupu zemljišta radi dokompletiranja urbanističke parcele | [`odluka/2009/304870/`](odluka/2009/304870/) | in force | 1 | 2009-08-21 | 2009-08-21 |
+| Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave nemetalicne mineralne sirovine tehnicki - gradjevinskog kamena "Rajcevo brdo" | [`odluka/2009/305173/`](odluka/2009/305173/) | in force | 1 | 2009-12-16 | 2009-12-16 |
+| Odluka o donošenju Programa socio-ekonomskog razvoja Cetinja | [`odluka/2009/305180/`](odluka/2009/305180/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o donošenju Lokalne studije lokacije "Deli petrol" | [`odluka/2009/305205/`](odluka/2009/305205/) | in force | 1 | 2009-02-26 | 2009-02-26 |
+| Odluka o donošenju Detaljnog urbanističkog plana Stara Varoš - vojni kompleks | [`odluka/2009/305210/`](odluka/2009/305210/) | in force | 1 | 2009-03-07 | 2009-03-07 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za izgradnju autoputa Bar - Boljare, dionica Bioce - Uvac | [`odluka/2009/305434/`](odluka/2009/305434/) | in force | 1 | 2009-11-19 | 2009-11-19 |
+| Odluka o prenosu prava na gradskom građevinskom zemljištu Osnovnom sudu i Osnovnom državnom tužilaštu u Cetinju | [`odluka/2009/305463/`](odluka/2009/305463/) | in force | 1 | 2009-05-02 | 2009-05-02 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama Statuta Javnog preduzeća "Čistoća" - Podgorica | [`odluka/2009/305470/`](odluka/2009/305470/) | in force | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o usvajanju Akcionog plana za borbu protiv korupcije u lokalnoj samoupravi Opštine Kolašin za period (2009-2012.) | [`odluka/2009/305483/`](odluka/2009/305483/) | in force | 1 | 2009-12-19 | 2009-12-19 |
+| Odluka o izmjeni i dopuni Odluke o izradi Lokalne studije lokacije "Krstac" Reževići | [`odluka/2009/305485/`](odluka/2009/305485/) | amending act | 1 | 2009-12-15 | 2009-12-15 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "Velji Kamen" | [`odluka/2009/305494/`](odluka/2009/305494/) | in force | 1 | 2009-02-26 | 2009-02-26 |
+| Odluka o izmjenama i dopunama Detaljnog urbanističkog plana "Spomen park Kruševac - zona A i E" u Podgorici | [`odluka/2009/305831/`](odluka/2009/305831/) | amending act | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o davanju saglasnosti na Program rada JU "Polimski muzej" - Berane | [`odluka/2009/305836/`](odluka/2009/305836/) | in force | 1 | 2009-03-06 | 2009-03-06 |
+| Odluka o donošenju izmjena i dopuna DUP-a "Centar sa Gornjim Mojkovcem" u zoni "A" | [`odluka/2009/305845/`](odluka/2009/305845/) | amending act | 1 | 2009-12-19 | 2009-12-19 |
+| Odluka o prenosu prava korišćenja na građevinskom zemljištu | [`odluka/2009/305910/`](odluka/2009/305910/) | in force | 1 | 2009-12-30 | 2009-12-30 |
+| Odluka o davanju saglasnosti | [`odluka/2009/305980/`](odluka/2009/305980/) | in force | 1 | 2009-08-03 | 2009-08-03 |
+| Odluka o zaduzenju Opstine Pljevlja | [`odluka/2009/306120/`](odluka/2009/306120/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o utvrdjivanju visine naknade za rad clanovima Komisije za sprjecavanje sukoba interesa | [`odluka/2009/306124/`](odluka/2009/306124/) | in force | 1 | 2009-09-25 | 2009-09-25 |
+| Odluka o donošenju izmjena i dopuna Detaljnog urbanističkog plana »Topolica III« | [`odluka/2009/306127/`](odluka/2009/306127/) | amending act | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave nemetalicne mineralne sirovine tehnicko-gradjevinskog kamena "Stubica" | [`odluka/2009/306131/`](odluka/2009/306131/) | in force | 1 | 2009-06-25 | 2009-06-25 |
+| Odluka o izmjeni Odluke o izradi detaljnog urbanističkog plana "Pržno - Kamenovo II" za dio Kamenovo - Vrijesno | [`odluka/2009/306136/`](odluka/2009/306136/) | in force | 1 | 2009-11-27 | 2009-11-27 |
+| Odluka o hipoteci | [`odluka/2009/306173/`](odluka/2009/306173/) | in force | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o pristupanju izradi Lokalne studije lokacije "Dubovica I" | [`odluka/2009/306177/`](odluka/2009/306177/) | in force | 1 | 2009-08-08 | 2009-08-08 |
+| Odluka o utvrđivanju Programa rada Skupštine Gradske opštine Tuzi za 2009.godinu | [`odluka/2009/306385/`](odluka/2009/306385/) | in force | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta JP "Sportski centar" Cetinje | [`odluka/2009/306414/`](odluka/2009/306414/) | amending act | 1 | 2009-10-23 | 2009-10-23 |
 | Odluka o odobravanju udzbenika i nastavnih sredstava za 2009/10.skolsku godinu | [`odluka/2009/306416/`](odluka/2009/306416/) | in force | 1 | 2009-09-16 | 2009-09-16 |
+| Odluka o izmjenama i dopunama Odluke o auto - taksi prevozu | [`odluka/2009/306607/`](odluka/2009/306607/) | amending act | 1 | 2009-12-15 | 2009-12-15 |
+| Odluka o izboru najpovoljnije ponude po Tenderu za dodjelu odobrenja za koriscenje radio-frekvencija iz opsega 3400-3600 MHz za realizaciju elektronske komunikacione mreze | [`odluka/2009/306838/`](odluka/2009/306838/) | in force | 1 | 2009-12-14 | 2009-12-14 |
+| Odluka o zaduženju Glavnog grada-Podgorice emitovanjem obveznica | [`odluka/2009/306840/`](odluka/2009/306840/) | in force | 1 | 2009-07-18 | 2009-07-18 |
+| Odluka o izmjeni Odluke o pristupanju izradi izmjena i dopuna Generalnog urbanističkog plana Cetinja za prostor Urbanističkog projekta "Stari Obod" u Cetinju | [`odluka/2009/306857/`](odluka/2009/306857/) | amending act | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o davanju saglasnosti za razrješenje direktora Javnog preduzeća "Sportski centar" Cetinje | [`odluka/2009/306869/`](odluka/2009/306869/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o imenovanju jednog clana Savjeta za zastitu zivotne sredine Skupstine opstine Pljevlja | [`odluka/2009/306883/`](odluka/2009/306883/) | in force | 1 | 2009-06-23 | 2009-06-23 |
+| Odluka o dopuni clana 10 Poslovnika Sudskog savjeta ("Sl.list CG", br.35/08 i 38/08) | [`odluka/2009/307040/`](odluka/2009/307040/) | amending act | 1 | 2009-01-28 | 2009-01-28 |
+| Odluka o izradi Strateške procjene uticaja na životnu sredinu Izmjena i dopuna Detaljnog urbanističkog plana Stara Varoš - jug | [`odluka/2009/307085/`](odluka/2009/307085/) | amending act | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o izmjenama Odluke o pečatima | [`odluka/2009/307111/`](odluka/2009/307111/) | in force | 1 | 2009-04-04 | 2009-04-04 |
+| Odluka o Izmjenama i dopunama Detaljnog urbanističkog plana ’’Zabjelo -LJubović’’ u Podgorici | [`odluka/2009/307269/`](odluka/2009/307269/) | amending act | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o naknadi za rad članova Savjeta za razvoj i zaštitu lokalne samouprave Opštine Kotor | [`odluka/2009/307559/`](odluka/2009/307559/) | in force | 1 | 2009-09-16 | 2009-09-16 |
+| Odluka o donosenju Drzavne studije lokacije "Canj" | [`odluka/2009/307583/`](odluka/2009/307583/) | in force | 1 | 2009-12-26 | 2009-12-26 |
+| Odluka o prenosu prava svojine na građevinskom zemljištu Islamskoj zajednici Crne Gore | [`odluka/2009/307670/`](odluka/2009/307670/) | in force | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o otkupu zemljišta radi formiranja urbanističke parcele | [`odluka/2009/307735/`](odluka/2009/307735/) | in force | 1 | 2009-01-31 | 2009-01-31 |
+| Odluka o donošenju Lokalne studije lokacije "V R B A " | [`odluka/2009/307782/`](odluka/2009/307782/) | in force | 1 | 2009-04-04 | 2009-04-04 |
+| Odluka o ucescu pripadnika Vojske Crne Gore u mirovnoj operaciji Evropske unije "Eu navfor - Atalanta" | [`odluka/2009/307798/`](odluka/2009/307798/) | in force | 1 | 2009-08-12 | 2009-08-12 |
+| Odluka o raspisivanju Javnog poziva za prenos prava evojine na građevinskom zemljištu Ispravka Odluke o izmjenama i dopunama Odluke o naknadi za komunalno opremanje građevinskog zemljišta | [`odluka/2009/307862/`](odluka/2009/307862/) | amending act | 1 | 2009-08-03 | 2009-08-03 |
+| Odluka o prestanku važenja Odluke o naknadi za korišćenje građevinskog zemljišta | [`odluka/2009/308055/`](odluka/2009/308055/) | in force | 1 | 2009-03-24 | 2009-03-24 |
+| Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave nemetalicne mineralne sirovine arhitektonsko-gradjevinskog(ukrasnog) kamena "Dubovica | [`odluka/2009/308058/`](odluka/2009/308058/) | in force | 1 | 2009-06-25 | 2009-06-25 |
+| Odluka o izmjeni Odluke o turistickoj valorizaciji lokaliteta u drzavnom vlasnistvu na poluostrvu Lustica u Opstini Tivat | [`odluka/2009/308350/`](odluka/2009/308350/) | in force | 1 | 2009-04-16 | 2009-04-16 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana naselja Rakonje | [`odluka/2009/308352/`](odluka/2009/308352/) | amending act | 1 | 2009-03-24 | 2009-03-24 |
+| Odluka o izmjenama i dopunama Odluke o snabdijevanju vodom i odvođenju otpadnih voda | [`odluka/2009/308354/`](odluka/2009/308354/) | amending act | 1 | 2009-03-07 | 2009-03-07 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za izgranju magistralnog puta Risan-Zabljak, dionica Savnik - Tunel Ivica | [`odluka/2009/308381/`](odluka/2009/308381/) | in force | 1 | 2009-04-25 | 2009-04-25 |
+| Odluka o donošenju Detaljnog urbanističkog plana "Bijela Centar" | [`odluka/2009/308398/`](odluka/2009/308398/) | in force | 1 | 2009-11-17 | 2009-11-17 |
+| Odluka o dodjeli koncesije po kombinovanom DBOT aranzmanu za istrazivanje vodotoka i izgradnju malih hidroelektrana na vodotoku Grlja (ident.br.11 iz Javnog poziva) | [`odluka/2009/308399/`](odluka/2009/308399/) | in force | 1 | 2009-07-25 | 2009-07-25 |
+| Odluka o Energetskom bilansu Crne Gore za 2009. godinu | [`odluka/2009/308410/`](odluka/2009/308410/) | in force | 1 | 2009-10-03 | 2009-10-03 |
+| Odluka o proglašenju Regionalnog parka "Orjen" | [`odluka/2009/308412/`](odluka/2009/308412/) | in force | 1 | 2009-05-21 | 2009-05-21 |
+| Odluka o davanju saglasnosti na Statut JP "Grijanje"- Pljevlja | [`odluka/2009/308414/`](odluka/2009/308414/) | in force | 1 | 2009-06-03 | 2009-06-03 |
+| Odluka o uspostavljanju saradnje i bratimljenju Opštine Berane sa Opštinom Esch-sur-Alzette iz Luksemburga | [`odluka/2009/308427/`](odluka/2009/308427/) | in force | 1 | 2009-09-16 | 2009-09-16 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "POLJANE" | [`odluka/2009/308429/`](odluka/2009/308429/) | in force | 1 | 2010-01-06 | 2010-01-06 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "Stanišići" | [`odluka/2009/308431/`](odluka/2009/308431/) | in force | 1 | 2009-11-27 | 2009-11-27 |
+| Odluka o izmjenama i dopunama Odluke o izboru predsjednika Skupštine opštine Mojkovac | [`odluka/2009/308474/`](odluka/2009/308474/) | amending act | 1 | 2009-09-08 | 2009-09-08 |
+| Odluka o privremenom obrazovanju Mjesne zajednice "NJegnjevo" | [`odluka/2009/308502/`](odluka/2009/308502/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o ucescu pripadnika Vojske Crne Gore u mirovnoj misiji Ujedinjenih nacija "United Nations Mission In Liberia (UNMIL)" u Liberiji | [`odluka/2009/308517/`](odluka/2009/308517/) | in force | 1 | 2009-08-12 | 2009-08-12 |
+| Odluka o izmjeni Pravila o jedinstvenim standardima za izborni materijal | [`odluka/2009/308604/`](odluka/2009/308604/) | in force | 1 | 2009-02-28 | 2009-02-28 |
+| Odluka o donošenju Elaborata o postavljanju reklamnih panoa na fasadama i krovovima zgrada na teritoriji Glavnog grada - Podgorice | [`odluka/2009/308606/`](odluka/2009/308606/) | in force | 1 | 2009-12-15 | 2009-12-15 |
+| Odluka o pristupanju Opštine Šavnik osnivanju D.O.O. "Kelag-Šavnik I"-Šavnik | [`odluka/2009/308640/`](odluka/2009/308640/) | in force | 1 | 2009-10-15 | 2009-10-15 |
+| Odluka o prodaji akcija Crne Gore u Institutu za fizikalnu medicinu, rehabilitaciju i reumatologiju "Dr Simo Milosević" A.D. Igalo | [`odluka/2009/308736/`](odluka/2009/308736/) | in force | 1 | 2009-04-01 | 2009-04-01 |
+| Odluka o usvajanju Programa i Akcionog plana za borbu protiv korupcije u Opštini Bar, za period 2009-2012. godina | [`odluka/2009/308741/`](odluka/2009/308741/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o izmjenama i dopunama Odluke o poslovnim zgradama i prostorijama | [`odluka/2009/308799/`](odluka/2009/308799/) | amending act | 1 | 2009-03-24 | 2009-03-24 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora o imenovanju direktora OJU "Muzeji" Kotor | [`odluka/2009/308802/`](odluka/2009/308802/) | in force | 1 | 2009-07-08 | 2009-07-08 |
+| Odluka o prenosu korišćenja i upravljanja | [`odluka/2009/308815/`](odluka/2009/308815/) | in force | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o davanju saglasnosti na Odluku Savjeta JU Centar za kulturu "Nenad Rakočević" Mojkovac o imenovanju direktora | [`odluka/2009/308826/`](odluka/2009/308826/) | in force | 1 | 2009-01-21 | 2009-01-21 |
+| Odluka o dozvoli prodaje putem javnog nadmetanja nepokretnosti u KO Glavica, KO Danilovgrad, KO Martinići, KO Novo Selo, KO Bandići i KO Grbe | [`odluka/2009/308828/`](odluka/2009/308828/) | in force | 1 | 2009-04-09 | 2009-04-09 |
+| Odluka o prestanku važenja Odluke o visini naknade za upotrebu puteva koja se plaća za drumska motorna vozila i njihova priključna vozila | [`odluka/2009/308830/`](odluka/2009/308830/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o donošenju Lokalne studije lokacije Stubica | [`odluka/2009/308859/`](odluka/2009/308859/) | in force | 1 | 2009-06-24 | 2009-06-24 |
+| Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave nemetalicne mineralne sirovine arhitektonsko-gradjevinskog (ukrasnog) kamena "Lupoglav | [`odluka/2009/308860/`](odluka/2009/308860/) | in force | 1 | 2009-06-25 | 2009-06-25 |
+| Odluka o donošenju Lokalne studije lokacije "Katun-Gornje Selo" Reževići | [`odluka/2009/309093/`](odluka/2009/309093/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o izmjenama i dopunama Odluke o mjerilima za ugovaranje visine naknade za uredjivanje gradjevinskog zemljista | [`odluka/2009/309095/`](odluka/2009/309095/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o Energetskom bilansu Crne Gore za 2010. godinu | [`odluka/2009/309099/`](odluka/2009/309099/) | in force | 1 | 2009-12-31 | 2009-12-31 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "Stanišići" | [`odluka/2009/309106/`](odluka/2009/309106/) | in force | 1 | 2009-02-14 | 2009-02-14 |
+| Odluka o davanju saglasnosti na Plan i Program rada JU "Centar za kulturu" - Berane | [`odluka/2009/309110/`](odluka/2009/309110/) | in force | 1 | 2009-03-06 | 2009-03-06 |
+| Odluka o otkupu zemljišta radi dokompletiranja urban ističke parcele | [`odluka/2009/309113/`](odluka/2009/309113/) | in force | 1 | 2009-05-08 | 2009-05-08 |
+| Odluka o sprovođenju aktivnosti radi kreditnog zaduženja Opštine Mojkovac | [`odluka/2009/309114/`](odluka/2009/309114/) | in force | 1 | 2009-04-24 | 2009-04-24 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "Komoševina I" | [`odluka/2009/309122/`](odluka/2009/309122/) | in force | 1 | 2009-06-03 | 2009-06-03 |
+| Odluka o donošenju LSL za poručje Vranovići - Pobrđe | [`odluka/2009/309132/`](odluka/2009/309132/) | in force | 1 | 2009-01-31 | 2009-01-31 |
+| Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave nemetalicne mineralne sirovine tehnicki - gradjevinskog kamena "Otilovici" | [`odluka/2009/309137/`](odluka/2009/309137/) | in force | 1 | 2009-12-16 | 2009-12-16 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "Lapčići" | [`odluka/2009/309139/`](odluka/2009/309139/) | in force | 1 | 2009-11-27 | 2009-11-27 |
+| Odluka o davanju garancije JP -u "Vodovod i kanalizacija" Herceg Novi za zaključenje Aneksa Ugovora o kreditu | [`odluka/2009/323854/`](odluka/2009/323854/) | in force | 1 | 2009-11-09 | 2009-11-09 |
+| Odluka o Izmjenama i dopunama Generalnog urbanističkog plana "Golubovci’’ u dijelu namjene površina | [`odluka/2009/323990/`](odluka/2009/323990/) | amending act | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o donošenju izmjena i dopuna Detaljnog urbanističkog plana Topla, Opština Herceg Novi | [`odluka/2009/324055/`](odluka/2009/324055/) | amending act | 1 | 2009-02-26 | 2009-02-26 |
+| Odluka o Izmjenama i dopunama Odluke o raspisivanju međunarodnog javnog poziva, putem zatvorenih ponuda, za davanje u dugoročni zakup objekata II, III, IV, V, VI i VII, koji se nalaze na kat. parc. 371 KO Kotor II i predstavljaju sastavni dio spomeničkog | [`odluka/2009/324104/`](odluka/2009/324104/) | amending act | 1 | 2009-12-29 | 2009-12-29 |
+| Odluka o zaduženju Opštine Herceg Novi kod KfNJ banke perko Vlade Crne Gore za kreditiranje projekta vodosnabdijevanja i Projekta odvođenja otpadnih voda u primorskom regionu, faza III u Opštini Herceg Novi | [`odluka/2009/324132/`](odluka/2009/324132/) | in force | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka U.br.143/08, od 17.jula 2009.godine | [`odluka/2009/324244/`](odluka/2009/324244/) | in force | 1 | 2009-07-29 | 2009-07-29 |
+| Odluka o zaduženju Opštine Bijelo Polje kod Vlade Crne Gore vezano za kredit Međunarodne banke za rekonstrukciju i razvoj za realizaciju projekta "Rukovođenje i upravljanje zemljišnom administracijom" (Lamp Projekat) u Opštini Bijelo Polje | [`odluka/2009/324274/`](odluka/2009/324274/) | in force | 1 | 2009-03-24 | 2009-03-24 |
+| Odluka o donosenju Drzavne studije lokacija"Stari grad Ulcinj" | [`odluka/2009/324306/`](odluka/2009/324306/) | in force | 1 | 2009-10-30 | 2009-10-30 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Školski centar Vukadin Vukadinović" | [`odluka/2009/324311/`](odluka/2009/324311/) | amending act | 1 | 2009-09-08 | 2009-09-08 |
+| Odluka o utvrdjivanju visine novcane naknade pripadniku Vojske Crne Gore u mirovnoj misiji Ujedinjenih nacija "International Security Assistance Force" (ISAF) u Avganistanu | [`odluka/2009/324911/`](odluka/2009/324911/) | in force | 1 | 2009-08-26 | 2009-08-26 |
+| Odluka o pristupanju izradi drzavne studije lokacije "Sektor 38 - Bigova" | [`odluka/2009/324913/`](odluka/2009/324913/) | in force | 1 | 2009-02-24 | 2009-02-24 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonsturkciju magistralnog puta Budva - Cetinje, dionica Brajici | [`odluka/2009/324933/`](odluka/2009/324933/) | in force | 1 | 2009-04-07 | 2009-04-07 |
+| Odluka o utvrdjivanju visine novcane naknade pripadniku Vojske Crne Gore -posmatracu u mirovnoj misiji Ujedinje-nih nacija "UNMIL" u Liberiji | [`odluka/2009/324934/`](odluka/2009/324934/) | in force | 1 | 2009-08-01 | 2009-08-01 |
+| Odluka o davanju u dugorocni zakup zemljista na poluostrvu Lustica-Opstina Tivat | [`odluka/2009/324948/`](odluka/2009/324948/) | in force | 1 | 2010-01-02 | 2010-01-02 |
+| Odluka o otkupu zemljišta radi dokompletiranja urbanističke parcele | [`odluka/2009/324972/`](odluka/2009/324972/) | in force | 1 | 2009-07-16 | 2009-07-16 |
+| Odluka o izmjenama i dopunama Detaljnog urbanističkog plana "Industrijska zona A" u Podgorici | [`odluka/2009/325070/`](odluka/2009/325070/) | amending act | 1 | 2009-07-18 | 2009-07-18 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama Statuta "Parking servis Podgorica" doo Podgorica | [`odluka/2009/325128/`](odluka/2009/325128/) | in force | 1 | 2010-01-06 | 2010-01-06 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Centar 1" | [`odluka/2009/325197/`](odluka/2009/325197/) | amending act | 1 | 2009-11-17 | 2009-11-17 |
+| Odluka o donošenju izmjena i dopuna GUP-a Andrijevice | [`odluka/2009/325216/`](odluka/2009/325216/) | amending act | 1 | 2009-04-04 | 2009-04-04 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju magistralnog puta Podgorica-Petrovac dionica I od raskrsnice sa ulicom Voislavljevica do raskrsnice sa putem za aerodrom | [`odluka/2009/325222/`](odluka/2009/325222/) | in force | 1 | 2009-11-10 | 2009-11-10 |
+| Odluka o izmjenama i dopunamaOdluke o organizaciji i načinu rada lokalne uprave | [`odluka/2009/325232/`](odluka/2009/325232/) | amending act | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o zaduženju Opštine Plav kod Vlade Crne Gore , vezano za kredit međunarodne banke za rekonstrukciju i razvoj za realizaciju projekta "Rukovođenje i upravljanje zemljišnom administracijom" (Lamp projekat) u Opštini Plav | [`odluka/2009/325276/`](odluka/2009/325276/) | in force | 1 | 2009-06-03 | 2009-06-03 |
+| Odluka o zaduženju Opštine Plužine kod Vlade Crne Gore vezano za kredit Međunarodne banke za rekonstrukciju i razvoj za realizaciju projekta "Rukovođenje i upravljanje zemljišnom administracijom" (LAMP PROJEKAT) u Opštini Plužine | [`odluka/2009/325289/`](odluka/2009/325289/) | in force | 1 | 2009-05-21 | 2009-05-21 |
+| Odluka o izmjeni i dopuni Odluke o izradi urbanistickog projekta "Dubovica" | [`odluka/2009/325306/`](odluka/2009/325306/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice "Lipnica" | [`odluka/2009/325307/`](odluka/2009/325307/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o prestanku važenja Odluke o uslovima i legalizaciji nezakonito izgrađenih objekata | [`odluka/2009/325343/`](odluka/2009/325343/) | in force | 1 | 2009-08-06 | 2009-08-06 |
+| Odluka o zaduženju Opštine radi izgradnje regionalne deponije | [`odluka/2009/325355/`](odluka/2009/325355/) | in force | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za uređivanje građevinskog zemljišta | [`odluka/2009/325409/`](odluka/2009/325409/) | amending act | 1 | 2009-05-02 | 2009-05-02 |
+| Odluka o donošenju Akcionog plana razvoja socijalne zaštite starih lica u Glavnom gradu-Podgorici za period 2010. - 2012. godina | [`odluka/2009/325485/`](odluka/2009/325485/) | in force | 1 | 2009-12-30 | 2009-12-30 |
+| Odluka o skraćenju mandata odbornika Skupštine Opštine Budva | [`odluka/2009/325956/`](odluka/2009/325956/) | in force | 1 | 2009-01-24 | 2009-01-24 |
+| Odluka o izmjenama i dopunama Odluke o uslovima i postupku otkupa potrazivanja Crne Gore obveznicama devizne stednje gradjana i obveznicama bivsih vlasnika po osnovu obestecenja za oduzeta imovinska prava | [`odluka/2009/325959/`](odluka/2009/325959/) | amending act | 1 | 2009-08-05 | 2009-08-05 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana Igalo - katastarska parcela br.708/5 | [`odluka/2009/326005/`](odluka/2009/326005/) | amending act | 1 | 2009-07-16 | 2009-07-16 |
+| Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave nemetalicne mineralne sirovine tehnicki - gradjevinskog kamena "Rudine 2" Naljezici | [`odluka/2009/326196/`](odluka/2009/326196/) | in force | 1 | 2009-12-16 | 2009-12-16 |
+| Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave nemetalicne mineralne sirovine sljunka i pijeska"Razano polje" | [`odluka/2009/326355/`](odluka/2009/326355/) | in force | 1 | 2009-06-25 | 2009-06-25 |
+| Odluka o donošenju izmjena i dopuna Detaljnog urbanističkog plana »Topolica - Bjeliši« | [`odluka/2009/326549/`](odluka/2009/326549/) | amending act | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave ("Službeni list CG - Opštinski propisi" broj 22/09) | [`odluka/2009/326554/`](odluka/2009/326554/) | amending act | 1 | 2009-12-18 | 2009-12-18 |
+| Odluka o izmjeni Odluke o izradi Urbanističkog projekta turističkog kompleksa "Branica - Za Rijekom" | [`odluka/2009/326911/`](odluka/2009/326911/) | in force | 1 | 2009-08-06 | 2009-08-06 |
+| Odluka o davanju saglasnosti na Odluku o prodaji osnovnog sredstva | [`odluka/2009/327076/`](odluka/2009/327076/) | in force | 1 | 2009-03-07 | 2009-03-07 |
+| Odluka o utvrdjivanju visine jednokratne naknade za obradu zahtjeva za odobrenje za koriscenja radio-frekvencija i odobrenja za koriscenje numeracije i/ili adresa | [`odluka/2009/327132/`](odluka/2009/327132/) | in force | 1 | 2009-02-24 | 2009-02-24 |
+| Odluka o obrazovanju Koordinacionog odbora za pracenje inplementacije akcionog plana za rjesavanje statusa raseljenih lica iz bivsih jugoslovenskih republika i interno raseljenih lica sa Kosova koji borave u Crnoj Gori | [`odluka/2009/327185/`](odluka/2009/327185/) | in force | 1 | 2009-12-26 | 2009-12-26 |
+| Odluka o uskladjivanju penzija i novcanih naknada od 1. janura 2009. godine | [`odluka/2009/327366/`](odluka/2009/327366/) | in force | 1 | 2009-02-14 | 2009-02-14 |
+| Odluka o usvajanju Akcionog plana za borbu protiv korupcije u lokalnoj samoupravi - opština Rožaje za period 2009-2011.godine | [`odluka/2009/327445/`](odluka/2009/327445/) | in force | 1 | 2009-06-24 | 2009-06-24 |
+| Odluka o izmjenama i dopunama Programa uređenja prostora Opštine Budva za 2009.godinu | [`odluka/2009/327586/`](odluka/2009/327586/) | amending act | 1 | 2009-08-06 | 2009-08-06 |
+| Odluka o izmjeni i dopuni Odluke o obrazovanju radnih tijela Skupštine | [`odluka/2009/327661/`](odluka/2009/327661/) | amending act | 1 | 2009-11-17 | 2009-11-17 |
+| Odluka o utvrdjivanju iznosa naknade na ime osiguranja za slucaj povrede ,ranjavanja,bolesti ili smrti za vrijeme ucesca u mrdjunarodnim snagama,mirovnim misijama i drugim aktivnostima u inostranstvu | [`odluka/2009/327759/`](odluka/2009/327759/) | in force | 1 | 2009-11-17 | 2009-11-17 |
+| Odluka o usvajanju Lokalnog plana akcije uključenja Roma, Egipćana i Aškalija u Opštini Herceg Novi za period 2010 - 2015.godine | [`odluka/2009/327778/`](odluka/2009/327778/) | in force | 1 | 2009-12-25 | 2009-12-25 |
+| Odluka o usvajanju Programa i Akcionog plana za borbu protiv korupcije u lokalnoj samoupravi Opštine Danilovgrad za period 2009.- 2012. godine | [`odluka/2009/331800/`](odluka/2009/331800/) | in force | 1 | 2009-11-17 | 2009-11-17 |
+| Odluka o razrješenju Savjeta JU Centar za kulturu Plav | [`odluka/2009/332865/`](odluka/2009/332865/) | in force | 1 | 2009-07-29 | 2009-07-29 |
+| Odluka o izmjenama i dopunama Odluke o kriterijumima, načinu i postupku raspodjele sredstava nevladinim organizacijama | [`odluka/2009/332938/`](odluka/2009/332938/) | amending act | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o izmjenama Odluka o porezu na nepokretnosti | [`odluka/2009/333064/`](odluka/2009/333064/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o produzenju prava na eksploataciju arhitektonsko-gradjevinskog (ukrasnog) kamena na lezistu "Maljat", Opstina Danilovgrad | [`odluka/2009/333800/`](odluka/2009/333800/) | in force | 1 | 2009-02-17 | 2009-02-17 |
+| Odluka o pristupanju izradi lokalne studije lokacije "Traste" | [`odluka/2009/333801/`](odluka/2009/333801/) | in force | 1 | 2009-02-24 | 2009-02-24 |
+| Odluka o izgledu i sadrzaju obrazaca i nacinu izdavanja isprava licu koje trazi azil, licu kojem je priznat status izbjeglice, licu kojem je odobrena dodatna zastita i licu kojem je odobrena privremena zastita | [`odluka/2009/334188/`](odluka/2009/334188/) | in force | 1 | 2009-02-27 | 2009-02-27 |
+| Odluka o utvrdjivanju lovnih podrucja | [`odluka/2009/334215/`](odluka/2009/334215/) | in force | 1 | 2009-03-04 | 2009-03-04 |
+| Odluka o obrazovanju Odbora za jubilarnu proslavu 1200 godina Bokeljske mornarice | [`odluka/2009/334724/`](odluka/2009/334724/) | in force | 1 | 2009-03-19 | 2009-03-19 |
+| Odluka o metodima za izradu konsolidovanih finansijskih izvjestaja bankarske grupe | [`odluka/2009/335004/`](odluka/2009/335004/) | in force | 1 | 2009-04-09 | 2009-04-09 |
+| Odluka o pristupanju izradi Drzavne studije lokacije za djelove sektora 43 i 45 | [`odluka/2009/335289/`](odluka/2009/335289/) | in force | 1 | 2009-04-24 | 2009-04-24 |
+| Odluka o pristupanju izradi Drzavne studije lokacije za djelove sektora 47 i 48 | [`odluka/2009/335290/`](odluka/2009/335290/) | in force | 1 | 2009-04-24 | 2009-04-24 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju mosta na magistralnom putu Brezovik-Vidrovan | [`odluka/2009/335601/`](odluka/2009/335601/) | in force | 1 | 2009-05-21 | 2009-05-21 |
+| Odluka o obustavi od izvrsenja Odluke o raspisivanju izbora za predsjednika Opstine Zabljak | [`odluka/2009/335966/`](odluka/2009/335966/) | in force | 1 | 2009-06-18 | 2009-06-18 |
+| Odluka o dodjeli koncesije za projektovanje, finansiranje, izgradnju, upravljanje i odrzavanje autoputa Bar - Boljare | [`odluka/2009/336086/`](odluka/2009/336086/) | in force | 1 | 2009-06-05 | 2009-06-05 |
+| Odluka o izmjeni Odluke o adekvatnosti kapitala banaka | [`odluka/2009/336191/`](odluka/2009/336191/) | in force | 1 | 2009-06-27 | 2009-06-27 |
+| Odluka o izmjenama i dopunama Odluke o koriscenju obavezne rezerve banaka kod Centralne banke Crne Gore na period duzi od jednog dana | [`odluka/2009/336201/`](odluka/2009/336201/) | amending act | 1 | 2009-06-27 | 2009-06-27 |
+| Odluka o dopuni Odluke o minimumu elemenata kreditnog i debitnog naloga | [`odluka/2009/336203/`](odluka/2009/336203/) | amending act | 1 | 2009-07-04 | 2009-07-04 |
+| Odluka o osnivanju Agencije za civilno vazduhoplovstvo | [`odluka/2009/336660/`](odluka/2009/336660/) | in force | 1 | 2009-07-17 | 2009-07-17 |
+| Odluka o osnivanju Zavoda za hitnu medicinsku pomoc | [`odluka/2009/337639/`](odluka/2009/337639/) | in force | 1 | 2009-09-25 | 2009-09-25 |
+| Odluka o utvrdjivanju pocetne visine koncesione naknade za koriscenje suma u podrucnoj jedinici Rozaje za 2009.godinu | [`odluka/2009/338053/`](odluka/2009/338053/) | in force | 1 | 2009-10-21 | 2009-10-21 |
+| Odluka o osnivanju Nacionalnog savjeta za procjenu bezbjednosti hrane | [`odluka/2009/338073/`](odluka/2009/338073/) | in force | 1 | 2009-10-10 | 2009-10-10 |
+| Odluka o izmjenama i dopunama Odluke o zaduzivanju i davanju garancija Crne Gore za 2009. godinu | [`odluka/2009/338268/`](odluka/2009/338268/) | amending act | 1 | 2009-11-19 | 2009-11-19 |
+| Odluka o dopuni Odluke o naknadama za licence za 2009.god. | [`odluka/2009/338391/`](odluka/2009/338391/) | amending act | 1 | 2009-11-07 | 2009-11-07 |
+| Odluka o donosenju Drzavne studije lokacije "Ratac-zeleni pojas" | [`odluka/2009/338448/`](odluka/2009/338448/) | in force | 1 | 2009-12-26 | 2009-12-26 |
+| Odluka o osnivanju Zavoda za transfuziju krvi Crne Gore | [`odluka/2009/338454/`](odluka/2009/338454/) | in force | 1 | 2009-12-15 | 2009-12-15 |
+| Odluka o ucescu u osnivanu privrednig drustva "Biznis- inkubator" DOO Berane | [`odluka/2009/338458/`](odluka/2009/338458/) | in force | 1 | 2009-12-26 | 2009-12-26 |
+| Odluka o obrascu i sadrzini posebne legitimacije | [`odluka/2009/338532/`](odluka/2009/338532/) | in force | 1 | 2009-12-16 | 2009-12-16 |
+| Oduka o pristupanju izradi Lokalne studije lokacije "Tresanjski mlin" | [`odluka/2009/338541/`](odluka/2009/338541/) | in force | 1 | 2009-12-16 | 2009-12-16 |
+| Odluka o donosenju Drzavne studije lokacije "Sektor 29" | [`odluka/2009/338548/`](odluka/2009/338548/) | in force | 1 | 2010-01-02 | 2010-01-02 |
+| Odluka o izmjeni Odluke O osnivanju drustva sa ogranicenim odgovornoscu "Project-Consulting" - Podgorica | [`odluka/2009/338549/`](odluka/2009/338549/) | in force | 1 | 2010-01-02 | 2010-01-02 |
+| Odluka o nacinu placanja i visini naknada za upis, brisanje i vodjenje registra medicinskih sredstava, proizvodjaca i pravnih lica koja vrse promet i uvoz medicinskih sredstava | [`odluka/2009/338661/`](odluka/2009/338661/) | in force | 1 | 2009-12-05 | 2009-12-05 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora o imenovanju v. d. direktora JKP "Kotor" | [`odluka/2009/338864/`](odluka/2009/338864/) | in force | 1 | 2009-03-16 | 2009-03-16 |
+| Odluka o stavljanju van snage Odluke o prenosu prava na gradskom građeviskom zemljištu u obuhvatu UP Privredna zona | [`odluka/2009/338865/`](odluka/2009/338865/) | in force | 1 | 2009-03-24 | 2009-03-24 |
+| Odluka o izmjenama i dopunama Odluke o nagradama za ulovljenu nezaštićenu divljač | [`odluka/2009/338877/`](odluka/2009/338877/) | amending act | 1 | 2009-03-24 | 2009-03-24 |
+| Odluka o kupovini nepokrenosti | [`odluka/2009/339001/`](odluka/2009/339001/) | in force | 1 | 2009-03-24 | 2009-03-24 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana za naselje Loznice | [`odluka/2009/339079/`](odluka/2009/339079/) | amending act | 1 | 2009-03-24 | 2009-03-24 |
+| Odluka o davanju saglasnosti o kreditnom zaduženju JPKSD " Lim " Bijelo Polje i davanje garancije na odobreni iznos | [`odluka/2009/339080/`](odluka/2009/339080/) | in force | 1 | 2009-03-24 | 2009-03-24 |
+| Odluka o donošenju izmjena i dopuna Prostornog plana Opštine Budva | [`odluka/2009/339236/`](odluka/2009/339236/) | amending act | 1 | 2009-04-04 | 2009-04-04 |
+| Odluka o donošenju Detaljnog urbanističkog plana naselja Smailagića Polje | [`odluka/2009/339237/`](odluka/2009/339237/) | in force | 1 | 2009-04-04 | 2009-04-04 |
+| Odluka o donošenju Lokalne studije lokacije "SMOKOV VIJENAC-DROBNIĆI" | [`odluka/2009/339345/`](odluka/2009/339345/) | in force | 1 | 2009-04-04 | 2009-04-04 |
+| Odluka o donošenju Lokalne studije lokacije "VELJI KAMEN" | [`odluka/2009/339346/`](odluka/2009/339346/) | in force | 1 | 2009-04-04 | 2009-04-04 |
+| Odluka o utvrđivanju Nacrta Lokalne studije lokacije Poslovni kompleks ,,Imconex" | [`odluka/2009/339357/`](odluka/2009/339357/) | in force | 1 | 2009-04-04 | 2009-04-04 |
+| Odluka o stavljanju van snage Odluke o pristupanju izradi izmjena i dopuna Urbanističkog projekta Šetalište pet Danica ("Sl. list RCG-opštinski propisi" br. 13/98, 22/99, 24/99, 12/02, 38/05) | [`odluka/2009/339367/`](odluka/2009/339367/) | amending act | 1 | 2009-03-27 | 2009-03-27 |
+| Odluka o donošenju Detaljnog urbanističkog plana "ROZINO II" | [`odluka/2009/339510/`](odluka/2009/339510/) | in force | 1 | 2009-04-04 | 2009-04-04 |
+| Odluka o donošenju Detaljnog urbanističkog plana "Pržno-Kamenovo I" za dio Pržno-Podličak | [`odluka/2009/339511/`](odluka/2009/339511/) | in force | 1 | 2009-04-04 | 2009-04-04 |
+| Odluka o davanju garancije Javnom lokalnom radio - difuznom servisu "Radio Cetinje" za zaključenje ugovora o kreditu | [`odluka/2009/339667/`](odluka/2009/339667/) | in force | 1 | 2009-05-02 | 2009-05-02 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju Opštinske izborne komisije | [`odluka/2009/339671/`](odluka/2009/339671/) | amending act | 1 | 2009-04-24 | 2009-04-24 |
+| Odluka o izradi strateške procjene uticaja na životnu sredinu Prostorno-urbanističkog plana Opštine Mojkovac | [`odluka/2009/339686/`](odluka/2009/339686/) | in force | 1 | 2009-04-24 | 2009-04-24 |
+| Odluka o izradi Strateške procjene uticaja na životnu sredinu Lokalne studije lokacije Regionalne sanitarne deponije u Nikšiću | [`odluka/2009/339710/`](odluka/2009/339710/) | in force | 1 | 2009-04-13 | 2009-04-13 |
+| Odluka o izmjeni Odluke o izradi Detaljnog urbanističkog plana "Žukotrlica" | [`odluka/2009/339796/`](odluka/2009/339796/) | in force | 1 | 2009-04-21 | 2009-04-21 |
+| Odluka o izmjeni Odluke o izradi Detaljnog urbanističkog plana "Veliki Pijesak" | [`odluka/2009/339805/`](odluka/2009/339805/) | in force | 1 | 2009-04-21 | 2009-04-21 |
+| Odluka o izmjeni Odluke o izradi Detaljnog urbanističkog plana "Brca" | [`odluka/2009/339806/`](odluka/2009/339806/) | in force | 1 | 2009-04-21 | 2009-04-21 |
+| Odluka o izmjeni Odluke o izradi Detaljnog urbanističkog plana "Ratac - zeleni pojas" | [`odluka/2009/339807/`](odluka/2009/339807/) | in force | 1 | 2009-04-21 | 2009-04-21 |
+| Odluka o izmjeni Odluke o izradi Detaljnog urbanističkog plana "Čanj 2" | [`odluka/2009/339818/`](odluka/2009/339818/) | in force | 1 | 2009-04-21 | 2009-04-21 |
+| Odluka o pristupanju izmjenama i dopunama Statuta Opštine Pljevlja | [`odluka/2009/339819/`](odluka/2009/339819/) | amending act | 1 | 2009-04-21 | 2009-04-21 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Ada" | [`odluka/2009/339820/`](odluka/2009/339820/) | amending act | 1 | 2009-04-21 | 2009-04-21 |
+| Odluka o izmjenama i dopunama Odluke o održavanju čistoće i komunalnom uređenju grada | [`odluka/2009/339913/`](odluka/2009/339913/) | amending act | 1 | 2009-05-02 | 2009-05-02 |
+| Odluka o finansiranju izgradnje parking prostora ispred porte manastira Piva | [`odluka/2009/339965/`](odluka/2009/339965/) | in force | 1 | 2009-05-21 | 2009-05-21 |
+| Odluka o izmjenama Statuta Opštine Herceg Novi | [`odluka/2009/340050/`](odluka/2009/340050/) | in force | 1 | 2009-05-21 | 2009-05-21 |
+| Odluka o izmjenama Odluke o pečatima | [`odluka/2009/340051/`](odluka/2009/340051/) | in force | 1 | 2009-05-21 | 2009-05-21 |
+| Odluka o izmjenama i dopunama Odluke o korišćenju i naknadi za korišćenje putnog zemljišta pored opštinskih i nekategorisanih puteva | [`odluka/2009/340052/`](odluka/2009/340052/) | amending act | 1 | 2009-05-21 | 2009-05-21 |
+| Odluka o prihvatanju inicijative za realizaciju saradnje i bratimljenje sa gradom Santa Barbara, Kalifornija - SAD | [`odluka/2009/340185/`](odluka/2009/340185/) | in force | 1 | 2009-05-08 | 2009-05-08 |
+| Odluka o prihvatanju inicijative za realizaciju saradnje između Opštine Kotor i Uprave Sankt Peterburga, Ruska Federacija | [`odluka/2009/340186/`](odluka/2009/340186/) | in force | 1 | 2009-05-08 | 2009-05-08 |
+| Odluka o stavljanju van snage Odluke o prenosu prava na gradskom građeviskom zemljištu u obuhvatu UP Privredna zona | [`odluka/2009/340187/`](odluka/2009/340187/) | in force | 1 | 2009-05-08 | 2009-05-08 |
+| Odluka o imenovanju Komisije za raspodjelu sredstava namijenjenih za sport i transfere NVO | [`odluka/2009/340195/`](odluka/2009/340195/) | in force | 1 | 2009-04-30 | 2009-04-30 |
+| Odluka o zaduženju Opštine Mojkovac kod Vlade Crne Gore vezano za kredit Međunarodne banke za rekonstrukciju i razvoj za realizaciju projekta "Rukovođenje i upravljanje zemljišnom administracijom" (LAMP projekat) u Opštini Mojkovac | [`odluka/2009/340196/`](odluka/2009/340196/) | in force | 1 | 2009-05-08 | 2009-05-08 |
+| Odluka o dopuni Odluke o pristupanju izradi Izmjena i dopuna Detaljnog urbanističkog plana "Varoš" | [`odluka/2009/340197/`](odluka/2009/340197/) | amending act | 1 | 2009-05-08 | 2009-05-08 |
+| Odluka o dopuni Odluke o pristupanju izradi Izmjena i dopuna Detaljnog urbanističkog plana "Centar II" | [`odluka/2009/340206/`](odluka/2009/340206/) | amending act | 1 | 2009-05-08 | 2009-05-08 |
+| Odluka o dopuni Odluke o pristupanju izradi Izmjena i dopuna Detaljnog urbanističkog plana "Balibegovo brdo i Kupusište" | [`odluka/2009/340207/`](odluka/2009/340207/) | amending act | 1 | 2009-05-08 | 2009-05-08 |
+| Odluka o dopuni Odluke o pristupanju izradi Izmjena i dopuna Detaljnog urbanističkog plana "Stražica" | [`odluka/2009/340216/`](odluka/2009/340216/) | amending act | 1 | 2009-05-08 | 2009-05-08 |
+| Odluka o zaduženju Opštine Rožaje | [`odluka/2009/340469/`](odluka/2009/340469/) | in force | 1 | 2009-06-03 | 2009-06-03 |
+| Odluka o donošenju lokalne studije lokaci¬je za izgradnju Benzinske pumpe u Martinoviće - Gusinje | [`odluka/2009/340565/`](odluka/2009/340565/) | in force | 1 | 2009-05-26 | 2009-05-26 |
+| Odluka o davanju saglasnosti za angažovanje mehanizacije za tekuće održavanje lokalnih i nekategorisanih puteva | [`odluka/2009/340584/`](odluka/2009/340584/) | in force | 1 | 2009-06-03 | 2009-06-03 |
+| Odluka o usvajanju Plana socijalne stambene politike Glavnog grada - Podgorice za 2009. godinu | [`odluka/2009/340761/`](odluka/2009/340761/) | in force | 1 | 2009-06-12 | 2009-06-12 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju JP "Autobuska stanica u izgradnji" - Nikšić | [`odluka/2009/340774/`](odluka/2009/340774/) | amending act | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o izradi Prostorno urbanističkog plana Opštine Kolašin | [`odluka/2009/340963/`](odluka/2009/340963/) | in force | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o izradi Detaljnog urbanističkog plana "BREZA" | [`odluka/2009/340972/`](odluka/2009/340972/) | in force | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o donošenju lokalne studije lokacije Kolašin - "Strelički krš" | [`odluka/2009/340973/`](odluka/2009/340973/) | in force | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Gornja Morača | [`odluka/2009/340974/`](odluka/2009/340974/) | in force | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o izmjenama i dopunama Odluke o prenosu prava na građevinsko zemljište Nevladinoj organizaciji Natura iz Kolašina | [`odluka/2009/340975/`](odluka/2009/340975/) | amending act | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o dopuni Odluke o raspolaganju građevinskim zemljištem u 2009. godini | [`odluka/2009/340988/`](odluka/2009/340988/) | amending act | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o izmjenama i dopunama Odluke o javnim parkiralištima i garažama | [`odluka/2009/340998/`](odluka/2009/340998/) | amending act | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o izmjenama i dopunama Odluke o korišćenju i naknadi za korišćenje putnog zemljišta pored opštinskih i nekategorisanih puteva | [`odluka/2009/341021/`](odluka/2009/341021/) | amending act | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o izmjenama i dopunama Odluke o opštinskim i nekategorisanim putevima | [`odluka/2009/341147/`](odluka/2009/341147/) | amending act | 1 | 2009-06-24 | 2009-06-24 |
+| Odluka o izmjeni i dopuni Odluke o izradi detaljnog urbanistickog plana "Zukotrlica" | [`odluka/2009/341196/`](odluka/2009/341196/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjeni i dopuni Odluke o izradi detaljnog urbanistickog plana "Pecurice - Centar" | [`odluka/2009/341219/`](odluka/2009/341219/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjeni i dopuni Odluke o izradi detaljnog urbanistickog plana "Polje - Zaljevo" | [`odluka/2009/341220/`](odluka/2009/341220/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjeni i dopuni Odluke o izradi detaljnog urbanistickog plana "Zeleni pojas" | [`odluka/2009/341221/`](odluka/2009/341221/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o priznavanju prava svojine na gradjevinskom zemljistu | [`odluka/2009/341240/`](odluka/2009/341240/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o davanju saglasnosti na Program rada i finansijski plan Turisticke organizacije Pljevlja za 2009. godinu | [`odluka/2009/341242/`](odluka/2009/341242/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o imenovanju jednog clana Savjeta za razvoj i zastitu lokalne samouprave | [`odluka/2009/341263/`](odluka/2009/341263/) | in force | 1 | 2009-06-23 | 2009-06-23 |
+| Odluka o imenovanju jednog clana Odbora za drustvene djelatnosti Skupstine opstine Pljevlja | [`odluka/2009/341264/`](odluka/2009/341264/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjeni i dopuni Odluke o izradi urbanistickog projekta "Bjelisi I" | [`odluka/2009/341305/`](odluka/2009/341305/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjeni i dopuni Odluke o izradi detaljnog urbanistickog plana "Gornja Celuga" | [`odluka/2009/341306/`](odluka/2009/341306/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjeni i dopuni Odluke o izradi detaljnog urbanistickog plana "Marelica" | [`odluka/2009/341307/`](odluka/2009/341307/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjenama i dopunama Odluke o organizovanju JP "Sportsko-rekreativni centar" Bar | [`odluka/2009/341308/`](odluka/2009/341308/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjeni i dopuni Odluke o izradi detaljnog urbanistickog plana "Canj 2" | [`odluka/2009/341325/`](odluka/2009/341325/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjeni i dopuni Odluke o izradi detaljnog urbanistickog plana "Pecurice - turisticki kompleks" | [`odluka/2009/341326/`](odluka/2009/341326/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjeni i dopuni Odluke o izradi detaljnog urbanistickog plana "Busat" | [`odluka/2009/341327/`](odluka/2009/341327/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o izmjenama i dopunama Odluke o visini, načinu obračunavanja i plaćanja članskog doprinosa Turističkoj organizaciji Pljevlja | [`odluka/2009/341579/`](odluka/2009/341579/) | amending act | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o donošenju Lokalnog plana akcije u oblasti invalidnosti u Opštini Nikšić za period 2009 - 2014.godine | [`odluka/2009/341597/`](odluka/2009/341597/) | in force | 1 | 2009-11-27 | 2009-11-27 |
+| Odluka o izmjenama i dopunama Odluke o porezu na firmu ili naziv | [`odluka/2009/341624/`](odluka/2009/341624/) | amending act | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o oslobađanju plaćanja obaveze po osnovu poreza na nepokretnosti na poljoprivredno zemljište za 2008. i 2009. god. | [`odluka/2009/341670/`](odluka/2009/341670/) | in force | 1 | 2009-11-17 | 2009-11-17 |
+| Odluka o imenovanju Upravnog odbora Javnog preduzeća za uzgoj, zaštitu i lov divljači i riba Danilovgrad | [`odluka/2009/341719/`](odluka/2009/341719/) | in force | 1 | 2009-11-09 | 2009-11-09 |
+| Odluka o izmjenama i dopunama Odluke o uređenju grada i održavanju komunalnog reda | [`odluka/2009/341720/`](odluka/2009/341720/) | amending act | 1 | 2009-11-09 | 2009-11-09 |
+| Odluka o verifikaciji Programa podizanja spomen obilježja na području Opštine Plužine u 2009. godini i Odluke o podizanju spomen obilježja | [`odluka/2009/341721/`](odluka/2009/341721/) | in force | 1 | 2009-11-17 | 2009-11-17 |
+| Odluka o izmjeni i dopuni Odluke o izradi detaljnog urbanističkog plana "Babin Do" | [`odluka/2009/341737/`](odluka/2009/341737/) | amending act | 1 | 2009-11-27 | 2009-11-27 |
+| Odluka o davanju u zakup katastarskih parcela | [`odluka/2009/341753/`](odluka/2009/341753/) | in force | 1 | 2009-08-26 | 2009-08-26 |
+| Odluka o dopuni Odluke o zaradama i drugim primanjima opštinskih funkcionera | [`odluka/2009/341785/`](odluka/2009/341785/) | amending act | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o stavljanju van snage Odluke o izradi Generalnog urbanističkog plana Opštine Kotor | [`odluka/2009/341804/`](odluka/2009/341804/) | in force | 1 | 2009-07-09 | 2009-07-09 |
+| Odluka o donošenju Izmjena i dopuna Generalnog urbanističkog plana Tivta za područje DUP-a Lastva-Seljanovo-Tivat-Gradiošnica | [`odluka/2009/341837/`](odluka/2009/341837/) | amending act | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o donošenju izmjena i dopuna DUP-a Lastva-Seljanovo-Tivat-Gradiošnica | [`odluka/2009/341838/`](odluka/2009/341838/) | amending act | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o davanju saglasnosti na Statut JU Centar za kulturu i sport Andrijevica | [`odluka/2009/341846/`](odluka/2009/341846/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o davanju saglasnosti na imenovanje direktora JU Centar za kulturu i sport Andrijevica | [`odluka/2009/341847/`](odluka/2009/341847/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o izradi strateške procjene uticaja na životnu sredinu Lokalne studije lokacije "Čisto polje" | [`odluka/2009/341900/`](odluka/2009/341900/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o organizovanju Javnog lokalnog radio difuznog servisa "Radio Cetinje" | [`odluka/2009/341935/`](odluka/2009/341935/) | in force | 1 | 2009-10-06 | 2009-10-06 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice "LJešnica - Ćukovac - Rijeka" | [`odluka/2009/342058/`](odluka/2009/342058/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora JU Dnevni centar za djecu sa smetnjama u razvoju "Tisa" | [`odluka/2009/342059/`](odluka/2009/342059/) | in force | 1 | 2009-10-28 | 2009-10-28 |
+| Odluka o prenosu prava korišćenja | [`odluka/2009/342063/`](odluka/2009/342063/) | in force | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o donošenju Lokalne studije lokacije "Katun-Donje Selo" Reževići | [`odluka/2009/342101/`](odluka/2009/342101/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o donošenju Urbanističkog projekta "Turističko naselje SKOČIĐEVOJKA" | [`odluka/2009/342102/`](odluka/2009/342102/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o donošenju Lokalne studije lokacije "Stambeno-turistička zona niske gustine Rijeka Reževića" | [`odluka/2009/342103/`](odluka/2009/342103/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o izradi Strateške procjene uticaja na životnu sredinu Lokalne studije lokacije "Grahovo 2" | [`odluka/2009/342104/`](odluka/2009/342104/) | in force | 1 | 2009-10-28 | 2009-10-28 |
+| Odluka o izradi Lokalne studije lokacije za turistički kompleks visoke kategorije na lokalitetu Briska Gora u Ulcinju | [`odluka/2009/342151/`](odluka/2009/342151/) | in force | 1 | 2009-11-17 | 2009-11-17 |
+| Odluka o sprovođenju Prostornog plana Opštine Herceg-Novi na važeću plansku dokumentaciju | [`odluka/2009/342153/`](odluka/2009/342153/) | in force | 1 | 2009-11-09 | 2009-11-09 |
+| Odluka o donošenju Urbanističkog projekta "Hotel Tamaris" | [`odluka/2009/342154/`](odluka/2009/342154/) | in force | 1 | 2009-11-17 | 2009-11-17 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima opštinskih funkcionera | [`odluka/2009/342171/`](odluka/2009/342171/) | amending act | 1 | 2009-09-24 | 2009-09-24 |
+| Odluka o imenovanju Žirija za dodjelu Nagrade oslobođenja Nikšića za 2009. godinu | [`odluka/2009/342269/`](odluka/2009/342269/) | in force | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o donošenju Detaljnog urbanističkog plana »Ilino« | [`odluka/2009/342361/`](odluka/2009/342361/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o donošenju Urbanističkog projekta »Bjeliši I« | [`odluka/2009/342362/`](odluka/2009/342362/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o donošenju Lokalne studije lokacije »Mirovica I« | [`odluka/2009/342363/`](odluka/2009/342363/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o donošenju izmjena i dopuna Detaljnog urbanističkog plana »Topolica I« | [`odluka/2009/342364/`](odluka/2009/342364/) | amending act | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice "Babića Brijeg" | [`odluka/2009/342384/`](odluka/2009/342384/) | in force | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o izmjeni Odluke o izradi manjih izmjena i dopuna u zoni "A" DUP-a "Centar sa Gornjim Mojkovcem" | [`odluka/2009/342464/`](odluka/2009/342464/) | amending act | 1 | 2009-12-05 | 2009-12-05 |
+| Odluka o izradi Lokalne studije lokacije "Benzinska pumpa Lapčići" | [`odluka/2009/342507/`](odluka/2009/342507/) | in force | 1 | 2009-12-05 | 2009-12-05 |
+| Odluka o otkupu zemljišta radi dokompletiranja urbanističke parcele | [`odluka/2009/342508/`](odluka/2009/342508/) | in force | 1 | 2009-12-05 | 2009-12-05 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju pet članova Odbor za finansije, privredu i razvoj, održavanje lokalnih puteva i groblja | [`odluka/2009/342509/`](odluka/2009/342509/) | amending act | 1 | 2009-12-05 | 2009-12-05 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju pet članova Odbor za međuopštinsku saradnju sa Glavnim gradom, međunarodnu saradnju, kao i NVO | [`odluka/2009/342510/`](odluka/2009/342510/) | amending act | 1 | 2009-12-05 | 2009-12-05 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora o imenovanju direktora JP "Vodovod i kanalizacija" Kotor | [`odluka/2009/342554/`](odluka/2009/342554/) | in force | 1 | 2009-11-27 | 2009-11-27 |
+| Odluka o produženju mandata Komisiji za saradnju sa nevladinim organizacijama i raspodjelu sredstava za projekte nevladinih organizacija | [`odluka/2009/342584/`](odluka/2009/342584/) | in force | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o davanju saglasnosti na isplatu 10.000,00 E na ime rješavanja stambenog pitanja vaterpoliste Šćepanović Miloša | [`odluka/2009/342710/`](odluka/2009/342710/) | in force | 1 | 2009-01-19 | 2009-01-19 |
+| Odluka o raspisivanju Javnog poziva za javno nadmetanje za prenos prava susvojine na nepokretnostima | [`odluka/2009/342711/`](odluka/2009/342711/) | in force | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o donošenju Lokalne studije lokacije za lokaciju "ROKŠPED - SUTORINA", Opština Herceg Novi | [`odluka/2009/342770/`](odluka/2009/342770/) | in force | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o raspisivanju Javnog poziva na javno nadmetanja za prenos prava svojine na gradskom građevinskom zemljištu | [`odluka/2009/342771/`](odluka/2009/342771/) | in force | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o prihvatanju inicijative za realizaciju saradnje i bratimljenja sa gradom Aleksinom - Tulska oblast, Ruska Federacija | [`odluka/2009/342832/`](odluka/2009/342832/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o izmjeni Odluke o zaduženju Opštine Nikšić | [`odluka/2009/342908/`](odluka/2009/342908/) | in force | 1 | 2009-11-27 | 2009-11-27 |
+| Odluka o predaji na upravljanje, korišćenje i održavanje Vodovoda Poklonci | [`odluka/2009/342963/`](odluka/2009/342963/) | in force | 1 | 2009-11-27 | 2009-11-27 |
+| Odluka o pribavljanju nepokretnosti za potrebe proširenja Službe zaštite i spašavanja Opštine Nikšić i poboljšanja funkcionalnosti aerodroma "Kapino Polje" | [`odluka/2009/342964/`](odluka/2009/342964/) | in force | 1 | 2009-11-27 | 2009-11-27 |
+| Odluka o donošenju Detaljnog urbanističkog plana naselja Nikoljac | [`odluka/2009/343124/`](odluka/2009/343124/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za korišćenje putnog zemljišta koje pripada opštinskim i nekategorisanim putevima | [`odluka/2009/343125/`](odluka/2009/343125/) | amending act | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o Izmjenama i dopunama Detaljnog urbanističkog plana "Servisno skladišna zona uz željezničku prugu - Stari aerodrom" u Podgorici | [`odluka/2009/343126/`](odluka/2009/343126/) | amending act | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o izmjenama Odluke o osnivanju »Deponija« d.o.o. Podgorica | [`odluka/2009/343180/`](odluka/2009/343180/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o izmjenama i dopunama Odluke o organizovanju Javnog preduzeća »Čistoća« - Podgorica | [`odluka/2009/343181/`](odluka/2009/343181/) | amending act | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o prestanku važenja Odluke o čuvanju, zaštiti i održavanju spomenika i spomen-obilježja koji nemaju svojstvo spomenika kulture | [`odluka/2009/343182/`](odluka/2009/343182/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o davanju saglasnosti na Završni račun Finansijskog plana Gradske opštine Golubovci za 2008. godinu | [`odluka/2009/343232/`](odluka/2009/343232/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o davanju saglasnosti na Završni račun Finansijskog plana Gradske opštine Tuzi za 2008. godinu | [`odluka/2009/343233/`](odluka/2009/343233/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o izmjenama i dopunama Odluke o radnom vremenu | [`odluka/2009/343315/`](odluka/2009/343315/) | amending act | 1 | 2009-11-17 | 2009-11-17 |
+| Odluka o izmjenama i dopunama Odluke o snabdijevanju toplotnom energijom | [`odluka/2009/343360/`](odluka/2009/343360/) | amending act | 1 | 2009-11-17 | 2009-11-17 |
+| Odluka o oslobađanju plaćanja naknade za komunalno opremanje građevinskog zemljišta PVK ’’Jadran’’ - Herceg Novi | [`odluka/2009/343361/`](odluka/2009/343361/) | in force | 1 | 2009-11-17 | 2009-11-17 |
+| Odluka o izradi Studije zaštite prirode za zaštićeno prirodno dobro - Park prirode "Piva" | [`odluka/2009/343382/`](odluka/2009/343382/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o Izmjenama i dopunama Generalnog urbanističkog plana Podgorice za prostor Detaljnog urbanističkog plana "Servisno skladišna zona uz željezničku prugu - Stari aerodrom" u Podgorici | [`odluka/2009/343383/`](odluka/2009/343383/) | amending act | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o davanju na privremeno korišćenje poslovnog prostora JU Škola za osnovno muzičko obrazovanje Pljevlja | [`odluka/2009/343404/`](odluka/2009/343404/) | in force | 1 | 2009-11-10 | 2009-11-10 |
+| Odluka o prestanku važenja Odluke o visini naknade koja se plaća za upotrebu lokalnih i nekategorisanih puteva za drumska motorna vozila i njihova priključna vozila | [`odluka/2009/343429/`](odluka/2009/343429/) | in force | 1 | 2009-11-05 | 2009-11-05 |
+| Odluka o izradi izmjena i dopuna lokalne studije lokacije "Mala Volujica" | [`odluka/2009/343481/`](odluka/2009/343481/) | amending act | 1 | 2009-09-03 | 2009-09-03 |
+| Odluka o izradi izmjena i dopuna lokalne studije lokacije "Brežani" | [`odluka/2009/343482/`](odluka/2009/343482/) | amending act | 1 | 2009-09-03 | 2009-09-03 |
+| Odluka o pokretanju postupka za izbor strateškog partnera za izgradnju Autobuske stanice | [`odluka/2009/343542/`](odluka/2009/343542/) | in force | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o pokretanju postupka za izbor strateškog partnera za izgradnju Poslovnog centra Igalo | [`odluka/2009/343543/`](odluka/2009/343543/) | in force | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Park" | [`odluka/2009/343734/`](odluka/2009/343734/) | amending act | 1 | 2009-09-08 | 2009-09-08 |
+| Odluka o pristupanju Opštine Berane osnivanju d.o.o. "Biznis-inkubator" Berane | [`odluka/2009/343736/`](odluka/2009/343736/) | in force | 1 | 2009-09-16 | 2009-09-16 |
+| Odluka o izmjenama i dopunama Odluke o organizovanju Javne ustanove "Polimski muzej"Berane | [`odluka/2009/343737/`](odluka/2009/343737/) | amending act | 1 | 2009-09-16 | 2009-09-16 |
+| Odluka o izmjenama i dopunama Odluke o organizovanju Javne ustanove Centar za kulturu Berane | [`odluka/2009/343780/`](odluka/2009/343780/) | amending act | 1 | 2009-09-16 | 2009-09-16 |
+| Odluka o prihvatanju kandidature za organizaciju Međuopštinskih omladinskih sportskih igara (MOSI) za 2012. godinu | [`odluka/2009/343781/`](odluka/2009/343781/) | in force | 1 | 2009-09-16 | 2009-09-16 |
+| Odluka o osnivanju skloništa za zaštitu napuštenih i izgubljenih pasa | [`odluka/2009/343792/`](odluka/2009/343792/) | in force | 1 | 2009-09-24 | 2009-09-24 |
+| Odluka o raspolaganju imovinom | [`odluka/2009/343793/`](odluka/2009/343793/) | in force | 1 | 2009-09-16 | 2009-09-16 |
+| Odluka o imenovanju članova Tima za praćenje realizacije Programa borbe protiv korupcije i Akcionog plana za borbu protiv korupcije u Opštini Tivat | [`odluka/2009/343796/`](odluka/2009/343796/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o dopuni Statuta Opštine Pljevlja | [`odluka/2009/343799/`](odluka/2009/343799/) | amending act | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o donošenju Detaljnog urbanističkog plana "Dubovica I" | [`odluka/2009/343816/`](odluka/2009/343816/) | in force | 1 | 2009-08-06 | 2009-08-06 |
+| Odluka o izmjeni i dopuni Odluke o korišćenju i naknadi za korišćenje putnog zemljišta pored opštinskih i nekategorisanih puteva | [`odluka/2009/343817/`](odluka/2009/343817/) | amending act | 1 | 2009-08-06 | 2009-08-06 |
+| Odluka o izmjenama i dopunama Odluke o korišćenju i naknadi za korišćenje putnog zemljišta pored opštinskih i nekategorisanih puteva | [`odluka/2009/343818/`](odluka/2009/343818/) | amending act | 1 | 2009-08-06 | 2009-08-06 |
+| Odluka o prodaji zemljišta | [`odluka/2009/343819/`](odluka/2009/343819/) | in force | 1 | 2009-08-06 | 2009-08-06 |
+| Odluka o imenovanju Komisije za rješavanje stambenih potreba opštinskih funkcionera i rukovodećih lica u lokalnoj upravi | [`odluka/2009/343822/`](odluka/2009/343822/) | in force | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o prenosu prava svojine na gradskom građevinskom zemljištu na ime Boža Rutovića | [`odluka/2009/343834/`](odluka/2009/343834/) | in force | 1 | 2009-09-16 | 2009-09-16 |
+| Odluka o donošenju izmjena i dopuna Detaljnog urbanističkog plana Igalo - kat.parcela br.469 | [`odluka/2009/343842/`](odluka/2009/343842/) | amending act | 1 | 2009-09-24 | 2009-09-24 |
+| Odluka o davanju saglasnosti za razrješenje direktora Javne ustanove Gradska biblioteka i čitaonica "NJegoš" Cetinje | [`odluka/2009/343853/`](odluka/2009/343853/) | in force | 1 | 2009-10-23 | 2009-10-23 |
+| Odluka o donošenju Lokalne studije lokacije Poslovni kompleks Imconex | [`odluka/2009/343866/`](odluka/2009/343866/) | in force | 1 | 2009-07-18 | 2009-07-18 |
+| Odluka o izmjenama i dopunama Statuta Opštine Plav | [`odluka/2009/343869/`](odluka/2009/343869/) | amending act | 1 | 2009-08-06 | 2009-08-06 |
+| Odluka o usvajanju Programa borbe protiv korupcije u lokalnoj samoupravi opštine Plav | [`odluka/2009/343871/`](odluka/2009/343871/) | in force | 1 | 2009-08-06 | 2009-08-06 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama Statuta JP "Autobuska stanica u izgradnji" - Nikšić | [`odluka/2009/343872/`](odluka/2009/343872/) | in force | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o donošenju izmjena i dopuna Detaljnog urbanističkog plana Podtrebjesa-zapadni dio | [`odluka/2009/343873/`](odluka/2009/343873/) | amending act | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima opštinskih službenika i namještenika | [`odluka/2009/343874/`](odluka/2009/343874/) | amending act | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prenos prava na gradsko građevinsko zemljište u skladu sa DUP-om Mrkošnica 2 | [`odluka/2009/343875/`](odluka/2009/343875/) | in force | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o izmjenama i dopunama Generalnog urbanističkog plana Podgorice za prostor Detaljnog urbanističkog plana ,,Industrijska zona A" u Podgorici | [`odluka/2009/343921/`](odluka/2009/343921/) | amending act | 1 | 2009-07-18 | 2009-07-18 |
+| Odluka o izmjenama Odluke o porezu na firmu | [`odluka/2009/343922/`](odluka/2009/343922/) | in force | 1 | 2009-07-18 | 2009-07-18 |
+| Odluka o izmjenama Odluke o osnivanju Turističke organizacije Opštine Podgorica | [`odluka/2009/343923/`](odluka/2009/343923/) | in force | 1 | 2009-07-18 | 2009-07-18 |
+| Odluka o imenovanju Savjeta JU Centar za kulturu Plav | [`odluka/2009/343928/`](odluka/2009/343928/) | in force | 1 | 2009-07-29 | 2009-07-29 |
+| Odluka o imenovanju Savjeta za razvoj i i zaštitu lokalne samouprave | [`odluka/2009/343929/`](odluka/2009/343929/) | in force | 1 | 2009-08-06 | 2009-08-06 |
+| Odluka o usvajanju Programa i Akcionog plana za borbu protiv korupcije u opštini Tivat za 2009 -2012 | [`odluka/2009/343932/`](odluka/2009/343932/) | in force | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o izradi Strateške procjene uticaja na životnu sredinu Prostorno - urbanističkog plana Opštine Budva | [`odluka/2009/343955/`](odluka/2009/343955/) | in force | 1 | 2009-10-06 | 2009-10-06 |
+| Odluka o izradi Lokalne studije lokacije "Industrijsko poslovni - centar Same" u Brezojevici -Opština Plav | [`odluka/2009/343956/`](odluka/2009/343956/) | in force | 1 | 2009-10-06 | 2009-10-06 |
+| Odluka broj 034-162 | [`odluka/2009/343987/`](odluka/2009/343987/) | in force | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o izboru članova Savjeta za razvoj i zaštitu lokalne samouprave | [`odluka/2009/344035/`](odluka/2009/344035/) | in force | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o davanju u dugoročni zakup dijela kat.parc.15/1 K.O. Prčanj II | [`odluka/2009/344081/`](odluka/2009/344081/) | in force | 1 | 2009-07-08 | 2009-07-08 |
+| Odluka o davanju saglasnosti na Program rada i Finansijski plan Turističke organizacije Mojkovac za 2009. godinu | [`odluka/2009/344138/`](odluka/2009/344138/) | in force | 1 | 2009-09-08 | 2009-09-08 |
+| Odluka o izmjenama i dopunama Odluke o radnom vremenu | [`odluka/2009/344174/`](odluka/2009/344174/) | amending act | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o pristupanju postupku izdavanja u zakup objekta za smještaj i objekta za ishranu u okviru Sportskog centra | [`odluka/2009/344175/`](odluka/2009/344175/) | in force | 1 | 2009-01-27 | 2009-01-27 |
+| Odluka o pristupanju izradi Strateške procjene uticaja na životnu sredinu za Lokalnu studiju lokacije "Crkvine 2" | [`odluka/2009/344340/`](odluka/2009/344340/) | in force | 1 | 2009-08-21 | 2009-08-21 |
+| Odluka o pristupanju izradi Lokalne studije lokacije Kolašin -"Strelički Krš" | [`odluka/2009/344341/`](odluka/2009/344341/) | in force | 1 | 2009-08-21 | 2009-08-21 |
+| Odluka o pristupanju izradi Lokalne studije lokacije Kolašin - "Bašanje Brdo I " | [`odluka/2009/344342/`](odluka/2009/344342/) | in force | 1 | 2009-08-21 | 2009-08-21 |
+| Odluka o pristupanju izradi Lokalne studije lokacije Kolašin -" Breza III " | [`odluka/2009/344388/`](odluka/2009/344388/) | in force | 1 | 2009-08-21 | 2009-08-21 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora o imenovanju direktora JKP "Kotor" Kotor | [`odluka/2009/344442/`](odluka/2009/344442/) | in force | 1 | 2009-08-13 | 2009-08-13 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora Javnog komunalnog preduzeća Rožaje o statusnoj promjeni | [`odluka/2009/344443/`](odluka/2009/344443/) | in force | 1 | 2009-08-21 | 2009-08-21 |
+| Odluka o imenovanju Žirija za dodjelu nagrade "30. septembar" za 2009.godinu | [`odluka/2009/344488/`](odluka/2009/344488/) | in force | 1 | 2009-08-21 | 2009-08-21 |
+| Odluka o izmjeni i dopuni Odluke o izradi Izmjena i dopuna Detaljnog urbanističkog plana Zone "CENTAR" | [`odluka/2009/344489/`](odluka/2009/344489/) | amending act | 1 | 2009-08-21 | 2009-08-21 |
+| Odluka o izradi Strateške procjene uticaja na životnu sredinu Detaljnog urbanističkog plana "Više Palaca" u Rijeci Crnojevića | [`odluka/2009/344530/`](odluka/2009/344530/) | in force | 1 | 2009-08-21 | 2009-08-21 |
+| Odluka o izmjenama i dopunama Odluke o komunalnom redu | [`odluka/2009/344545/`](odluka/2009/344545/) | amending act | 1 | 2009-07-09 | 2009-07-09 |
+| Odluka o pristupanju izradi Plana o postavljanju reklamnih panoa na fasadama i krovovima zgrada na teritoriji Opštine Nikšić | [`odluka/2009/344589/`](odluka/2009/344589/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pristupanju izradi Plana o postavljanju i izgradnji montažnih objekata privremenog karaktera na teritoriji Opštine Nikšić | [`odluka/2009/344590/`](odluka/2009/344590/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o pristupanju izradi Plana o postavljanju reklamnih panoa na teritoriji Opštine Nikšić | [`odluka/2009/344591/`](odluka/2009/344591/) | in force | 1 | 2009-07-01 | 2009-07-01 |
+| Odluka o usvajanju Programa i Akcionog plana za borbu protiv korupcije Opštine Plužine | [`odluka/2009/344676/`](odluka/2009/344676/) | in force | 1 | 2009-07-09 | 2009-07-09 |
+| Odluka o usvajanju Programa borbe protiv korupcije i Akcionog plana za borbu protiv korupcije | [`odluka/2009/344683/`](odluka/2009/344683/) | in force | 1 | 2009-07-16 | 2009-07-16 |
+| Odluka o izmjenama i dopunama Odluke o organizovanju Javne ustanove Centar za kulturu i sport | [`odluka/2009/344730/`](odluka/2009/344730/) | amending act | 1 | 2009-07-16 | 2009-07-16 |
+| Odluka o izmjenama i dopunama Odluke o opštinskim i nektegorisanim putevima | [`odluka/2009/344731/`](odluka/2009/344731/) | amending act | 1 | 2009-07-16 | 2009-07-16 |
+| Odluka o izmjenama i dopunama Odluke o visini, načinu obračunavanja i plaćanja članskog doprinosa Turističkoj organizaciji Opštine Podgorica | [`odluka/2009/344777/`](odluka/2009/344777/) | amending act | 1 | 2009-07-18 | 2009-07-18 |
+| Odluka o Izmjeni i dopuni Odluke o davanju garancija za odobrene kredite za podsticaj razvoja poljoprivrede, turizma i zapošljavanja | [`odluka/2009/344785/`](odluka/2009/344785/) | amending act | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o Izmjenama i dopunama Generalnog urbanističkog plana Podgorice za prostor Detaljnog urbanističkog plana "Momišići C" u Podgorici | [`odluka/2009/344857/`](odluka/2009/344857/) | amending act | 1 | 2010-01-06 | 2010-01-06 |
+| Odluka o zaduženju Opštine Rožaje kod Vlade Crne Gore vezano za kredit međunarodne banke za rekonstrukciju i razvoj za realizaciju projekta "Rukovođenje i upravljanje zemljišnom administracijom" (Lamp projekat) u Opštini Rožaje | [`odluka/2009/345258/`](odluka/2009/345258/) | in force | 1 | 2009-02-26 | 2009-02-26 |
+| Odluka o izradi izmjena i dopuna Detaljnog urbanističkog plana "Topolica - Bjeliši" | [`odluka/2009/345306/`](odluka/2009/345306/) | amending act | 1 | 2009-02-14 | 2009-02-14 |
+| Odluka o naknadi za vanredni prevoz | [`odluka/2009/345311/`](odluka/2009/345311/) | in force | 1 | 2009-02-26 | 2009-02-26 |
+| Odluka o pristupanju postupka izdavanja u zakup zemljišta i objekta za obavljanje turističko-ugostiteljske djelatnosti | [`odluka/2009/345312/`](odluka/2009/345312/) | in force | 1 | 2009-02-26 | 2009-02-26 |
+| Odluka o izradi izmjena i dopuna detaljnog urbanističkog plana "Topolica III" | [`odluka/2009/345360/`](odluka/2009/345360/) | amending act | 1 | 2009-02-14 | 2009-02-14 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "Spas" | [`odluka/2009/345372/`](odluka/2009/345372/) | in force | 1 | 2009-03-07 | 2009-03-07 |
+| Odluka o načinu utvrđivanja visine zakupa stanova u vlasništvu Opštine Kotor koje po osnovu dodjele u zakup koriste lokalni funkcioneri, rukovodeća lica, lokalni službenici i namještenici lokalne uprave | [`odluka/2009/345409/`](odluka/2009/345409/) | in force | 1 | 2009-02-14 | 2009-02-14 |
+| Odluka o izmjeni Odluke o osnivanju Javne ustanove Dnevni centar za djecu sa smetnjama u razvoju Nikšić | [`odluka/2009/345419/`](odluka/2009/345419/) | in force | 1 | 2009-02-27 | 2009-02-27 |
+| Odluka o Izmjenama i dopunama Generalnog urbanističkog plana Podgorice za prostor Detaljnog urbanističkog plana "Zagorič 1 - dio zone A" u Podgorici | [`odluka/2009/345424/`](odluka/2009/345424/) | amending act | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javnog preduzeća "Vodovod i kanalizacija" - Podgorica | [`odluka/2009/345426/`](odluka/2009/345426/) | amending act | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prenos prava na gradsko građevinsko zemljište u skladu sa DUP-om Mrkošnica 1 | [`odluka/2009/345467/`](odluka/2009/345467/) | in force | 1 | 2009-03-07 | 2009-03-07 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište na Vujičić Vojislava | [`odluka/2009/345468/`](odluka/2009/345468/) | in force | 1 | 2009-03-07 | 2009-03-07 |
+| Odluka o prenosu prava korišćenja na gradsko građevinsko zemljište na Vuković Radoša | [`odluka/2009/345469/`](odluka/2009/345469/) | in force | 1 | 2009-03-07 | 2009-03-07 |
+| Odluka o finansiranju kampanje za izbor Predsjednika opštine Tivat | [`odluka/2009/345473/`](odluka/2009/345473/) | in force | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o potvrđivanju imenovanja dva člana Savjeta Javnog radio-difuznog servisa "Radio Tivat" | [`odluka/2009/345474/`](odluka/2009/345474/) | in force | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o ustupanju zemljišta | [`odluka/2009/345476/`](odluka/2009/345476/) | in force | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o prenosu prava korišćenja na gradsko građevinsko zemljište na Vučković Bora | [`odluka/2009/345516/`](odluka/2009/345516/) | in force | 1 | 2009-03-07 | 2009-03-07 |
+| Odluka o prenosu prava korišćenja na gradsko građevinsko zemljište na Milić Milevu | [`odluka/2009/345517/`](odluka/2009/345517/) | in force | 1 | 2009-03-07 | 2009-03-07 |
+| Odluka o stavljanju van snage Odluke o osnivanju DOO Agencija za izgradnju i razvoj Berana | [`odluka/2009/345522/`](odluka/2009/345522/) | in force | 1 | 2009-03-05 | 2009-03-05 |
+| Odluka o organizovanju Javne ustanove "Ploimski muzej" -Berane | [`odluka/2009/345524/`](odluka/2009/345524/) | in force | 1 | 2009-03-13 | 2009-03-13 |
+| Odluka o prenosu prava korišćenja na gradsko građevinsko zemljište na Popović Milanka | [`odluka/2009/345563/`](odluka/2009/345563/) | in force | 1 | 2009-03-07 | 2009-03-07 |
+| Odluka o davanju saglasnosti na Statut Javne ustanove Centar za kulturu, sport i medije Šavnik | [`odluka/2009/345598/`](odluka/2009/345598/) | in force | 1 | 2009-12-25 | 2009-12-25 |
+| Odluka o davanju saglasnosti na Odluku Savjeta JU Centar za kulturu, sport i medije Šavnik o imenovanju direktora | [`odluka/2009/345645/`](odluka/2009/345645/) | in force | 1 | 2009-12-25 | 2009-12-25 |
+| Odluka o izmjeni i dopuni Odluke o Službi zaštite | [`odluka/2009/345726/`](odluka/2009/345726/) | amending act | 1 | 2009-03-06 | 2009-03-06 |
+| Odluka o imenovanju Žirija za dodjelu Nagrade ''21. jul'' | [`odluka/2009/345727/`](odluka/2009/345727/) | in force | 1 | 2009-03-05 | 2009-03-05 |
 | Odluka o davanju u dugoročni zakup dijela kat.parc.14,15,16 K.O.Prčanj II i dijela kat.parc.542 K.O Strp | [`odluka/2009/345960/`](odluka/2009/345960/) | in force | 1 | 2009-01-23 | 2009-01-23 |
 | Odluka o donošenju DUP-a Morinj | [`odluka/2009/345962/`](odluka/2009/345962/) | in force | 1 | 2009-01-31 | 2009-01-31 |
 | Odluka o dopuni Odluke o izradi Izmjena i dopuna Generalnog urbanističkog plana Tivta za područje Lastva-Seljanovo-Tivat-Gradiošnica | [`odluka/2009/346032/`](odluka/2009/346032/) | amending act | 1 | 2009-03-07 | 2009-03-07 |
@@ -2812,6 +3312,356 @@
 | Odluka o prenosu prava svojine na osnovnim sredstvima | [`odluka/2009/347940/`](odluka/2009/347940/) | in force | 1 | 2009-12-25 | 2009-12-25 |
 | Odluka o izmjenama i dopunama Detaljnog urbanističkog plana "Zagorič 1 - dio zone A" u Podgorici | [`odluka/2009/348015/`](odluka/2009/348015/) | amending act | 1 | 2009-03-13 | 2009-03-13 |
 | Odluka o izmjeni Odluke o izradi detaljnog urbanističkog plana "Babin Do" | [`odluka/2009/349075/`](odluka/2009/349075/) | in force | 1 | 2009-07-16 | 2009-07-16 |
+| Odluka o otkupu zemljista radi dokompletiranja urbanisticke parcele, broj: 11-11405 | [`odluka/2010/292270/`](odluka/2010/292270/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o dopuni Odluke o privremenim objektima | [`odluka/2010/292273/`](odluka/2010/292273/) | amending act | 1 | 2010-11-23 | 2010-11-23 |
+| Odluka o imenovanju Odbora za planiranje i uredjenje prostora i komunalno-stambeno djelatnost | [`odluka/2010/292296/`](odluka/2010/292296/) | in force | 1 | 2010-03-29 | 2010-03-29 |
+| Odluka o utvrdjivanju Nacrta odluke o izmjenama i dopunama Statuta Opstine Andrijevica | [`odluka/2010/292534/`](odluka/2010/292534/) | amending act | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o podizanju spomen obiljezja | [`odluka/2010/292582/`](odluka/2010/292582/) | in force | 1 | 2010-12-21 | 2010-12-21 |
+| Odluka o utvrdjivanju nacrta Statuta Opstine Rozaje | [`odluka/2010/292616/`](odluka/2010/292616/) | in force | 1 | 2011-01-07 | 2011-01-07 |
+| Odluka o izmjeni i dopuni Odluke o lokalnim komunalnim taksama | [`odluka/2010/292617/`](odluka/2010/292617/) | amending act | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o donosenju manjih izmjena i dopuna Generalnog urbanisitckog plana Mojkovac | [`odluka/2010/300895/`](odluka/2010/300895/) | amending act | 1 | 2010-10-01 | 2010-10-01 |
+| Odluka o izmjeni Odluke o lokalnim komunalnim taksama | [`odluka/2010/301046/`](odluka/2010/301046/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o utvrdjivanju visine novcane naknade pripadniku Uprave policije u mirovnoj misiji Ujedinjenih nacija na Kipru | [`odluka/2010/301050/`](odluka/2010/301050/) | in force | 1 | 2010-02-17 | 2010-02-17 |
+| Odluka o razmjeni nepokretnosti u KO Cetinje I | [`odluka/2010/301362/`](odluka/2010/301362/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o izboru predsjednika i članova Savjeta za predstavke i pritužbe Skupštine opštine Kolašin | [`odluka/2010/301453/`](odluka/2010/301453/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o prenosu prava svojine na gradjevinsko zemljiste na Grbovic Savu | [`odluka/2010/301597/`](odluka/2010/301597/) | in force | 1 | 2011-01-08 | 2011-01-08 |
+| Odluka o produzenju roka zakupa, broj: 11-11412 | [`odluka/2010/301835/`](odluka/2010/301835/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o produzenju roka zakupa, broj: 11-11410 | [`odluka/2010/301867/`](odluka/2010/301867/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o donosenju lokalne studije lokacije "Crkvine 2" | [`odluka/2010/301871/`](odluka/2010/301871/) | in force | 1 | 2010-12-29 | 2010-12-29 |
+| Odluka o pristupanju osnivanja privrednog drustva za upravljanje cvrstim komunalnim otpadom | [`odluka/2010/301902/`](odluka/2010/301902/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o davanju saglasnosti za izbor Glavnog administratora Opštine Kolašin | [`odluka/2010/301913/`](odluka/2010/301913/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "STANISICI" | [`odluka/2010/301972/`](odluka/2010/301972/) | in force | 1 | 2010-11-09 | 2010-11-09 |
+| Odluka o izmjeni Odluke o izradi Izmjena i dopuna Detaljnog urbanistickog plana "Budva - Centar" | [`odluka/2010/301978/`](odluka/2010/301978/) | amending act | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama Statuta Javnog preduzeca "Vodovod i kanalizacija" - Podgorica | [`odluka/2010/301998/`](odluka/2010/301998/) | in force | 1 | 2010-10-22 | 2010-10-22 |
+| Odluka o izboru predsjednika i članova Odbora za Statut i propise Skupštine opštine Kolašin | [`odluka/2010/302115/`](odluka/2010/302115/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o nepreduzimanju izrade strateske procjene uticaja na zivotnu sredinu Izmjena i dopuna Detaljnog urbanistickog plana Rudo Polje | [`odluka/2010/302122/`](odluka/2010/302122/) | amending act | 1 | 2010-12-01 | 2010-12-01 |
+| Odluka o usvajanju Statuta Investiciono-razvojnog Fonda Crne Gore A.D. | [`odluka/2010/302145/`](odluka/2010/302145/) | in force | 1 | 2010-05-12 | 2010-05-12 |
+| Odluka o pristupanju izradi Lokalne studije lokacije "Sjerogoste I" | [`odluka/2010/302156/`](odluka/2010/302156/) | in force | 1 | 2010-02-27 | 2010-02-27 |
+| Odluka o izmjenama i dopunama Detaljnog urbanistickog plana "Prvoborac" u Podgorici | [`odluka/2010/302178/`](odluka/2010/302178/) | amending act | 1 | 2010-10-22 | 2010-10-22 |
+| Odluka o izmjenama i dopunama Detaljnog urbanistickog plana "Komunalno" | [`odluka/2010/302271/`](odluka/2010/302271/) | amending act | 1 | 2010-12-15 | 2010-12-15 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "MILINO BRDO" | [`odluka/2010/302447/`](odluka/2010/302447/) | in force | 1 | 2010-02-27 | 2010-02-27 |
+| Odluka o raspisivanju izbora za odbornike u Skupstini opstine Ulcinj | [`odluka/2010/302448/`](odluka/2010/302448/) | in force | 1 | 2010-08-16 | 2010-08-16 |
+| Odluka o donosenju Drzavne studije lokacije"Ostrvo Sveti Marko" | [`odluka/2010/302450/`](odluka/2010/302450/) | in force | 1 | 2010-02-17 | 2010-02-17 |
+| Odluka o izmjeni Odluke o razmjeni nepokretnosti, broj 0101-231/1 od 14.05.2010 | [`odluka/2010/302498/`](odluka/2010/302498/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o dugoročnom zaduženju opštine kotor | [`odluka/2010/302504/`](odluka/2010/302504/) | in force | 1 | 2010-09-08 | 2010-09-08 |
+| Odluka o donosenju Lokalne studije lokacije "Kuljace - Vojnici" | [`odluka/2010/302526/`](odluka/2010/302526/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o ustupanju nekretnina bez naknade broj: 11 - 1989 | [`odluka/2010/302681/`](odluka/2010/302681/) | in force | 1 | 2010-04-06 | 2010-04-06 |
+| Odluka o davanju nepokretnosti na upravljanje i koriscenje | [`odluka/2010/302703/`](odluka/2010/302703/) | in force | 1 | 2010-12-01 | 2010-12-01 |
+| Odluka o privremenom finansiranju budzetskih korisnika Opstine Mojkovac za period 01.01. do 31.03.2010. godine | [`odluka/2010/302732/`](odluka/2010/302732/) | in force | 1 | 2010-01-26 | 2010-01-26 |
+| Odluka o imenovanju Sekretara Skupštine opštine Kolašin | [`odluka/2010/302793/`](odluka/2010/302793/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o sticanju prava koriscenja i prava raspolaganja sluzbenim notebook-om poslanika u Skupstini Crne Gore | [`odluka/2010/302795/`](odluka/2010/302795/) | in force | 1 | 2010-03-20 | 2010-03-20 |
+| Odluka o obrazovanju Komisije za izradu Nacrta odluke o izmjeni i dopuni Statuta Opstine Pljevlja | [`odluka/2010/302891/`](odluka/2010/302891/) | amending act | 1 | 2010-04-30 | 2010-04-30 |
+| Odluka o davanju saglasnosti na Program rada i finansijski plan Turisticke organizacije Kolasin za 2010. godinu | [`odluka/2010/302925/`](odluka/2010/302925/) | in force | 1 | 2010-12-29 | 2010-12-29 |
+| Odluka o skracenju mandata odbornika Skupstine Gradske opstine Golubovci | [`odluka/2010/302926/`](odluka/2010/302926/) | in force | 1 | 2010-03-22 | 2010-03-22 |
+| Odluka o donosenju UP-a "Medjuopstinska sanitarna deponija Mozura" | [`odluka/2010/302951/`](odluka/2010/302951/) | in force | 1 | 2010-02-16 | 2010-02-16 |
+| Odluka o imenovanju dva clana iz reda odbornika u Komisiju za raspodjelu sredstava Nevladinim organizacijama | [`odluka/2010/303304/`](odluka/2010/303304/) | in force | 1 | 2010-10-21 | 2010-10-21 |
+| Odluka o izradi Urbanistickog projekta "GALIJE 2" | [`odluka/2010/303361/`](odluka/2010/303361/) | in force | 1 | 2010-03-09 | 2010-03-09 |
+| Odluka o Urbanistickom projektu "Nova Varos - Blok A" u Podgorici | [`odluka/2010/303513/`](odluka/2010/303513/) | in force | 1 | 2010-12-11 | 2010-12-11 |
+| Odluka o izmjenama i dopunama Detaljnog urbanistickog plana "Rasadnik" | [`odluka/2010/303520/`](odluka/2010/303520/) | amending act | 1 | 2010-12-15 | 2010-12-15 |
+| Odluka o imenovanju predsjednika i clanova Upravnog odbora JKP "Gradac" Mojkovac | [`odluka/2010/303548/`](odluka/2010/303548/) | in force | 1 | 2010-03-15 | 2010-03-15 |
+| Odluka o utvrdjivanju Nacrta odluke o izmjenama i dopunama Statuta Opstine Danilovgrad | [`odluka/2010/303740/`](odluka/2010/303740/) | amending act | 1 | 2011-01-08 | 2011-01-08 |
+| Odluka o donosenju izmjena i dopuna u zoni "G" Detaljnog urbanistickog plana "Centar sa Gornjim Mojkovcem" | [`odluka/2010/303853/`](odluka/2010/303853/) | amending act | 1 | 2010-10-01 | 2010-10-01 |
+| Odluka o stavljanju van snage Ukaza o postavljenju na duznost izvanrednog i opunomocenog ambasadora Crne Gore u Republici Makedoniji | [`odluka/2010/304020/`](odluka/2010/304020/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o izmjeni Odluke o formiranju Odbora za drustvene djelatnosti Skupstine opstine Herceg Novi | [`odluka/2010/304141/`](odluka/2010/304141/) | in force | 1 | 2010-12-14 | 2010-12-14 |
+| Odluka o izmjeni Odluke o lokalnim administrativnim taksama | [`odluka/2010/304174/`](odluka/2010/304174/) | in force | 1 | 2010-10-22 | 2010-10-22 |
+| Odluka o izboru predsjednika i članova Upravnog odbora JP "Sportski centar", Kolašin | [`odluka/2010/304342/`](odluka/2010/304342/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o izboru predsjednika i članova Upravnog odbora JP "Komunalno", Kolašin | [`odluka/2010/304344/`](odluka/2010/304344/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o izmjeni Odluke o opstinskoj nagradi | [`odluka/2010/304375/`](odluka/2010/304375/) | in force | 1 | 2010-12-22 | 2010-12-22 |
+| Odluka o donosenju Lokalne studije lokacije "VRBA II" | [`odluka/2010/304398/`](odluka/2010/304398/) | in force | 1 | 2010-12-11 | 2010-12-11 |
+| Odluka o izboru najpovoljnijih ponuda po Tenderu za dodjelu odobrenja za koriscenje radio-frekvencija iz radio-difuznog opsega 470-862 MHz za emitovanje televizijskih programa | [`odluka/2010/304403/`](odluka/2010/304403/) | in force | 1 | 2010-02-09 | 2010-02-09 |
+| Odluka o utvrdjivanju broja odbornika/ca u Skupstini Glavnog grada i skupstinama gradskih opstina Golubovci i Tuzi | [`odluka/2010/304455/`](odluka/2010/304455/) | in force | 1 | 2010-03-22 | 2010-03-22 |
+| Odluka o izmjenama i dopunama Statuta Opstine Plav | [`odluka/2010/304463/`](odluka/2010/304463/) | amending act | 1 | 2010-12-01 | 2010-12-01 |
+| Odluka o nacinu vodjenja i sadrzini evidencije o obavljanju zanatske djelatnosti | [`odluka/2010/304517/`](odluka/2010/304517/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o kratkoročnom zaduženju Opštine Kotor | [`odluka/2010/304587/`](odluka/2010/304587/) | in force | 1 | 2010-09-08 | 2010-09-08 |
+| ODLUKA O PROGLASENjU USTAVNOG ZAKONA O IZMJENAMA USTAVNOG ZAKONA ZA SPROVODJENjE USTAVA CRNE GORE | [`odluka/2010/304638/`](odluka/2010/304638/) | in force | 1 | 2010-04-26 | 2010-04-26 |
+| Odluka o izboru predsjednika i članova Odbora za društvene djelatnosti Skupštine opštine Kolašin | [`odluka/2010/304688/`](odluka/2010/304688/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave nemetalicne mineralne sirovine tehnicko-gradjevinskog kamena ,,Kalac" | [`odluka/2010/304743/`](odluka/2010/304743/) | in force | 1 | 2010-07-03 | 2010-07-03 |
+| Odluka o izmjenama i dopunama Generalnog urbanistickog plana Podgorice za prostor Detaljnog urbanistickog plana "Prvoborac" u Podgorici | [`odluka/2010/304848/`](odluka/2010/304848/) | amending act | 1 | 2010-10-22 | 2010-10-22 |
+| Odluka i izmjeni Odluke o imenovanju Odbora za drustvene djelatnosti | [`odluka/2010/304849/`](odluka/2010/304849/) | in force | 1 | 2010-01-14 | 2010-01-14 |
+| Odluka o donosenju Urbanistickog projekta "Regionalna sanitarna deponija sa reciklaznim centrom Vasov do" | [`odluka/2010/304906/`](odluka/2010/304906/) | in force | 1 | 2010-10-18 | 2010-10-18 |
+| Odluka o izmjenama i dopunama Odluke o opstinskim i nekategorisanim putevima | [`odluka/2010/305001/`](odluka/2010/305001/) | amending act | 1 | 2010-08-25 | 2010-08-25 |
+| Odluka o imenovanju predsjednika Upravnog odbora Javnog preduzeca "Sportski centar" Cetinje | [`odluka/2010/305090/`](odluka/2010/305090/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o izboru predsjednika i članova Savjeta za zaštitu životne sredine Skupštine opštine Kolašin | [`odluka/2010/305203/`](odluka/2010/305203/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o razrjesavanju predsjednika Upravnog odbora Javnog preduzeca "Sportski centar" Cetinje | [`odluka/2010/305308/`](odluka/2010/305308/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o davanju saglasnosti za rjesavanje imovinsko-pravnih odnosa kroz placanje naknade | [`odluka/2010/305335/`](odluka/2010/305335/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o dugorocnom zaduzenju Opstine Budva | [`odluka/2010/305347/`](odluka/2010/305347/) | in force | 1 | 2010-03-15 | 2010-03-15 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za komunalno opremanje gradjevinskog zemljista ("Sl.list opstine Budva" br.07/09) | [`odluka/2010/305364/`](odluka/2010/305364/) | amending act | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o pokretanju postupka za donosenje Statuta Opstine Bar | [`odluka/2010/305388/`](odluka/2010/305388/) | in force | 1 | 2010-08-17 | 2010-08-17 |
+| Odluka o pristupanju osnivanja privrednog drustva za upravljanje cvrstim komunalnim otpadom | [`odluka/2010/305634/`](odluka/2010/305634/) | in force | 1 | 2010-12-22 | 2010-12-22 |
+| Odluka o dopuni Odluke o zaradama i drugim pravima po osnovu rada lokalnih funkcionera Opstine Rozaje | [`odluka/2010/305663/`](odluka/2010/305663/) | amending act | 1 | 2010-09-29 | 2010-09-29 |
+| Odluka o koriscenju i raspolaganju sluzbenim notebook-om odbornika u Skupstini opstine Niksic | [`odluka/2010/305685/`](odluka/2010/305685/) | in force | 1 | 2011-01-08 | 2011-01-08 |
+| Odluka o imenovanju predsjednika i clanova Savjeta JU Centar za kulturu i sport Andrijevica | [`odluka/2010/305799/`](odluka/2010/305799/) | in force | 1 | 2010-01-12 | 2010-01-12 |
+| Odluka o stavljanju van snage Odluke o visini naknade koja se placa za upotrebu lokalnih i nekategorisanih puteva za drumska motorna vozila i njihova prikljucna vozila | [`odluka/2010/305888/`](odluka/2010/305888/) | in force | 1 | 2010-12-01 | 2010-12-01 |
+| Odluka o izboru predsjednika i članova Odbora za međuopštinsku i međunarodnu saradnju Skupštine opštine Kolašin | [`odluka/2010/305899/`](odluka/2010/305899/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o raspisivanju Javnog poziva za prenos prava svojine na gradjevinskom zemljistu | [`odluka/2010/305951/`](odluka/2010/305951/) | in force | 1 | 2010-03-29 | 2010-03-29 |
+| Odluka o Izmjenama i dopunama Odluke o regulisanju drumskog saobracaja | [`odluka/2010/305981/`](odluka/2010/305981/) | amending act | 1 | 2010-02-01 | 2010-02-01 |
+| Odluka o davanju saglasnosti na odluku Upravnog odbora JP ''Komunalno'' - Berane | [`odluka/2010/306003/`](odluka/2010/306003/) | in force | 1 | 2010-12-31 | 2010-12-31 |
+| Odluka o sprovodjenju popisa poljoprivrede 2010.godine | [`odluka/2010/306030/`](odluka/2010/306030/) | in force | 1 | 2010-05-26 | 2010-05-26 |
+| Odluka o izradi Detaljnog urbanistickog plana "Golubovci-Centar" u Golubovcima | [`odluka/2010/306048/`](odluka/2010/306048/) | in force | 1 | 2010-03-22 | 2010-03-22 |
+| Odluka o privremenom finansiranju potreba Budzeta Prijestonice Cetinje za period od 01.01. do 31.03.2010. godine | [`odluka/2010/306077/`](odluka/2010/306077/) | in force | 1 | 2010-01-12 | 2010-01-12 |
+| Odluka o usvajanju Master plana odrzivog razvoja turizma na podrucju Opstine Kolasin | [`odluka/2010/306157/`](odluka/2010/306157/) | in force | 1 | 2010-12-29 | 2010-12-29 |
+| Odluka o oslobadjanju placanja obaveze po osnovu poreza na nepokretnosti na poljoprivredno zemljiste za 2009. i 2010. godinu | [`odluka/2010/306160/`](odluka/2010/306160/) | in force | 1 | 2010-11-09 | 2010-11-09 |
+| Odluka o odredjivanju visine naknade za rad clanovima Savjeta za razvoj i zastitu lokalne samouprave Opstine Plav | [`odluka/2010/306167/`](odluka/2010/306167/) | in force | 1 | 2010-01-29 | 2010-01-29 |
+| Odluka o izradi Urbanistickog projekta dijela naselja Ljesnica | [`odluka/2010/306436/`](odluka/2010/306436/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o zaduzenju Opstine Rozaje | [`odluka/2010/306440/`](odluka/2010/306440/) | in force | 1 | 2010-09-29 | 2010-09-29 |
+| Odluka o naknadama za koriscenje opstinskih i nekategorisanih puteva na teritoriji Prijestonice Cetinje | [`odluka/2010/306458/`](odluka/2010/306458/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice "Mosori" | [`odluka/2010/306462/`](odluka/2010/306462/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o prestanku vazenja Odluke o izradi izmjena i dopuna Generalnog urbanistickog plana Tivta za podrucje Gradiosnice | [`odluka/2010/306491/`](odluka/2010/306491/) | amending act | 1 | 2010-10-21 | 2010-10-21 |
+| Odluka o davanju saglasnosti za imenovanje potpredsjednika Opštine Kolašin | [`odluka/2010/306666/`](odluka/2010/306666/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o usvajanju Programa rada Skupstine Opstine Zabljak za 2010. godinu | [`odluka/2010/306785/`](odluka/2010/306785/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o izmjenama Odluke o privremenim objektima | [`odluka/2010/306864/`](odluka/2010/306864/) | in force | 1 | 2010-08-25 | 2010-08-25 |
+| Odluka o donosenju Detaljnog urbanistickog plana "Srbina" | [`odluka/2010/306906/`](odluka/2010/306906/) | in force | 1 | 2010-01-12 | 2010-01-12 |
+| Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave nemetalicne mineralne sirovine tehnicko-gradjevinskog kamena "Vranovici" - Grabovac | [`odluka/2010/306952/`](odluka/2010/306952/) | in force | 1 | 2010-12-11 | 2010-12-11 |
+| Odluka o donosenju Lokalnog plana akcija u oblasti invalidnosti za Opstinu Kotor za period 2010-2015. godine | [`odluka/2010/307134/`](odluka/2010/307134/) | in force | 1 | 2010-10-29 | 2010-10-29 |
+| Odluka o raspisivanju izbora za odbornike u Skupstini Gradske opstine Golubovci | [`odluka/2010/307203/`](odluka/2010/307203/) | in force | 1 | 2010-07-30 | 2010-07-30 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Turisticke organizacije Opstine Tivat | [`odluka/2010/307206/`](odluka/2010/307206/) | amending act | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o izboru predsjednika i članova Odbora za finansije, privredu i razvoj Skupštine opštine Kolašin | [`odluka/2010/307220/`](odluka/2010/307220/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o donosenju Urbanistickog projekata "Zdravstveni i turisticki kompleks Meljine" | [`odluka/2010/307424/`](odluka/2010/307424/) | in force | 1 | 2010-02-09 | 2010-02-09 |
+| Odluka o izmjenama i dopunama Odluke o izdavanju u dugorocni zakup poslovnih prostorija Opstine Kotor | [`odluka/2010/307453/`](odluka/2010/307453/) | amending act | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o pristupanju izradi Strateske procjene uticaja na zivotnu sredinu za Lokalnu studiju lokacije "Scepan Polje - II faza | [`odluka/2010/307579/`](odluka/2010/307579/) | in force | 1 | 2010-04-22 | 2010-04-22 |
+| Odluka U br.70/09 | [`odluka/2010/307652/`](odluka/2010/307652/) | in force | 1 | 2010-07-02 | 2010-07-02 |
+| Odluka o izmjenama i dopunama Detaljnog urbanistickog plana "Stambena zajednica VI - Zona 6"u Podgorici | [`odluka/2010/308280/`](odluka/2010/308280/) | amending act | 1 | 2011-01-07 | 2011-01-07 |
+| Odluka o prenosu prava svojine na gradjevinsko zemljiste na Mitrovic Veljka | [`odluka/2010/308281/`](odluka/2010/308281/) | in force | 1 | 2011-01-08 | 2011-01-08 |
+| Odluka o davanju saglasnosti za imenovanje potpredsjednika Opštine Kolašin | [`odluka/2010/308572/`](odluka/2010/308572/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o izboru predsjednika i članova Upravnog odbora JP "Vodovod i kanalizacija", Kolašin | [`odluka/2010/308596/`](odluka/2010/308596/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju raskrsnice Tivat - Radovici - Budva - Kotor | [`odluka/2010/318397/`](odluka/2010/318397/) | in force | 1 | 2010-01-16 | 2010-01-16 |
+| Odluka o imenovanju Savjeta za ekologiju, zastitu prirode i zivotne sredine | [`odluka/2010/318912/`](odluka/2010/318912/) | in force | 1 | 2010-03-29 | 2010-03-29 |
+| Odluka o utvrdjivanju broja odbornika koji se bira u Skupstini opstine Danilovgrad | [`odluka/2010/319028/`](odluka/2010/319028/) | in force | 1 | 2010-04-08 | 2010-04-08 |
+| Odluka o donosenju Lokalnog plana zastite zivotne sredine Opstine Kolasin 2010-2014 | [`odluka/2010/319031/`](odluka/2010/319031/) | in force | 1 | 2010-01-29 | 2010-01-29 |
+| Odluka o izmjeni Odluke o izradi Urbanistickog projekta turistickog kompleksa "GALIJE - BIJELI RT" | [`odluka/2010/319116/`](odluka/2010/319116/) | in force | 1 | 2010-03-09 | 2010-03-09 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta JP "Sportski centar" Cetinje [Dohvati informacije za Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta JP "Sportski centar" Cetinje] | [`odluka/2010/319199/`](odluka/2010/319199/) | amending act | 1 | 2010-06-08 | 2010-06-08 |
+| Odluka o utvrdjivanju broja odbornika koji se bira u Skupstini opstine Plav.....................................................Odluka o utvrdjivanju broja odbornika koji se bira u Skupstini opstine Plav | [`odluka/2010/319314/`](odluka/2010/319314/) | in force | 1 | 2010-04-30 | 2010-04-30 |
+| Odluka o izradi Strateske procjene uticaja na zivotnu sredinu Urbanistickog projekta "Bijeli Rt - Buvaci" | [`odluka/2010/319468/`](odluka/2010/319468/) | in force | 1 | 2010-03-09 | 2010-03-09 |
+| Odluka o davanju saglasnosti na Odluku o izmjeni i dopuni Statuta Javnog preduzeca "Vodovod i kanalizacija" Cetinje | [`odluka/2010/319671/`](odluka/2010/319671/) | amending act | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o izmjeni i dopuni Odluke o porezu na nepokretnosti | [`odluka/2010/319706/`](odluka/2010/319706/) | amending act | 1 | 2010-12-31 | 2010-12-31 |
+| Odluka broj: 0304-242 | [`odluka/2010/319717/`](odluka/2010/319717/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o produzenju roka zakupa, broj: 11-11413 | [`odluka/2010/320166/`](odluka/2010/320166/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| ODLUKA O STAVLJANJU VAN SNAGE UKAZA O POSTAVLJENJU NA DUZNOST IZVANREDNOG I OPUNOMOCENOG AMBASADORA - STALNOG PREDSTAVNIKA CRNE GORE - SEFA STALNE MISIJE CRNE GORE PRI ORGANIZACIJI UJEDINJENIH NACIJA U NJUJORKU | [`odluka/2010/320417/`](odluka/2010/320417/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o izmjeni Odluke o izradi Urbanistickog projekta turistickog kompleksa "Kamenovo" | [`odluka/2010/320527/`](odluka/2010/320527/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o izmjenama Odluke o naknadi za uredjivanje gradjevinskog zemljista | [`odluka/2010/320586/`](odluka/2010/320586/) | in force | 1 | 2010-08-25 | 2010-08-25 |
+| Odluka o izmjeni i dopuni Odluke o izradi Lokalne studije lokacije "Podbabac Markicevici" | [`odluka/2010/320870/`](odluka/2010/320870/) | amending act | 1 | 2010-10-22 | 2010-10-22 |
+| Odluka o prestanku vazenja Odluke o zastiti od elementarnih nepogoda | [`odluka/2010/320941/`](odluka/2010/320941/) | in force | 1 | 2010-12-11 | 2010-12-11 |
+| Odluka o ustupanju nekretnina bez naknade broj: 11 - 1990 | [`odluka/2010/321216/`](odluka/2010/321216/) | in force | 1 | 2010-04-06 | 2010-04-06 |
+| Odluka o izmjenama i dopunama Detaljnog urbanistickog plana "Sacina bara" | [`odluka/2010/321217/`](odluka/2010/321217/) | amending act | 1 | 2010-12-15 | 2010-12-15 |
+| Odluka o privremenom finansiranju potreba budzeta opstine Zabljak za januar-mart 2010. godine | [`odluka/2010/321223/`](odluka/2010/321223/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o visini mjesecne naknade za rad clanova Senata Prijestonice Cetinje | [`odluka/2010/321243/`](odluka/2010/321243/) | in force | 1 | 2010-08-17 | 2010-08-17 |
+| Odluka o donosenju Izmjena i dopuna Detaljnog urbanistickog plana Centralne zone Bijelo Polje | [`odluka/2010/321434/`](odluka/2010/321434/) | amending act | 1 | 2010-01-29 | 2010-01-29 |
+| Odluka o oslobadjanju placanja naknade za komunalno opremanje gradjevinskog zemljista Mitropolije Crnogorsko-primorske | [`odluka/2010/321461/`](odluka/2010/321461/) | in force | 1 | 2010-12-22 | 2010-12-22 |
+| Odluka o prestanku vazenja Odluka o visini naknade koja se placa za upotrebu lokalnih i nekategorisanih puteva u saobracajne svrhe za drumska motorna vozila i njihova prikljucna vozila | [`odluka/2010/321549/`](odluka/2010/321549/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka broj: 0304-27 | [`odluka/2010/321604/`](odluka/2010/321604/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o utvrdjivanju Programa rada Skupstine Gradske opstine Tuzi za 2010. godinu | [`odluka/2010/321636/`](odluka/2010/321636/) | in force | 1 | 2010-02-27 | 2010-02-27 |
+| Odluka o donosenju Visegodisnjeg investicionog plana Opstine Danilovgrad za period 2010 - 2014. godine | [`odluka/2010/321638/`](odluka/2010/321638/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o otkupu zemljista radi dokompletiranja urbanisticke parcele | [`odluka/2010/321708/`](odluka/2010/321708/) | in force | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o imenovanju Komisije za raspodjelu sredstava namjenjenih za sport i transfere NVO | [`odluka/2010/321824/`](odluka/2010/321824/) | in force | 1 | 2010-04-23 | 2010-04-23 |
+| Odluka o imenovanju predsjednika i clana Odbora za Statut i propise | [`odluka/2010/321875/`](odluka/2010/321875/) | in force | 1 | 2010-10-01 | 2010-10-01 |
+| Odluka o potrebi izrade Strateske procjene uticaja na zivotnu sredinu za Detaljni urbanisticki plan Gradiosnica | [`odluka/2010/321957/`](odluka/2010/321957/) | in force | 1 | 2010-10-21 | 2010-10-21 |
+| Odluka o oslobadjanju placanja obaveza po osnovu poreza na nepokretnosti za poljoprivredno zemljiste koje se koristi u poljoprivredne svrhe u 2010. godini | [`odluka/2010/322082/`](odluka/2010/322082/) | in force | 1 | 2010-10-29 | 2010-10-29 |
+| Odluka o produzenju roka zakupa, broj: 11-11415 | [`odluka/2010/322102/`](odluka/2010/322102/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za koriscenje opstinskih puteva | [`odluka/2010/322139/`](odluka/2010/322139/) | amending act | 1 | 2010-01-12 | 2010-01-12 |
+| Odluka o oslobadjanju placanja obaveze po osnovu poreza na nepokretnosti na poljoprivredno zemljiste za 2010. god | [`odluka/2010/322303/`](odluka/2010/322303/) | in force | 1 | 2011-01-08 | 2011-01-08 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "LAPCICI" | [`odluka/2010/322635/`](odluka/2010/322635/) | in force | 1 | 2010-02-09 | 2010-02-09 |
+| Odluka o izboru predstavnika Opstine Berane u Skupstinu Turisticke organizacije Berane | [`odluka/2010/322650/`](odluka/2010/322650/) | in force | 1 | 2010-12-31 | 2010-12-31 |
+| Odluka o dugorocnom zaduzenju Opstine Budva | [`odluka/2010/322922/`](odluka/2010/322922/) | in force | 1 | 2010-03-22 | 2010-03-22 |
+| Odluka o izmjenama i dopunama Odluke o visini, nacinu obracunavanja i placanja clanskog doprinosa Turistickoj organizaciji Opstine Herceg Novi ("Sl. list RCG- opstinski propisi", br. 3/05, 30/09) | [`odluka/2010/323118/`](odluka/2010/323118/) | amending act | 1 | 2010-02-09 | 2010-02-09 |
+| Odluka o usvajanju Strateskog plana Opstine Kolasin | [`odluka/2010/323133/`](odluka/2010/323133/) | in force | 1 | 2010-01-29 | 2010-01-29 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti | [`odluka/2010/323138/`](odluka/2010/323138/) | in force | 1 | 2010-12-29 | 2010-12-29 |
+| Odluka o imenovanju sekretara Skupstine opstine Tivat | [`odluka/2010/323144/`](odluka/2010/323144/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o utvrdjivanju zona sanitarne zastite za izvoriste Opacica u Zelenici | [`odluka/2010/323176/`](odluka/2010/323176/) | in force | 1 | 2010-12-22 | 2010-12-22 |
+| Odluka o razmjeni nepokretnosti, broj: 0101-523/1 | [`odluka/2010/323625/`](odluka/2010/323625/) | in force | 1 | 2010-12-11 | 2010-12-11 |
+| Odluka o kupovini nepokretnosti - gradjevinskog zemljista u KO Cetinje I | [`odluka/2010/323627/`](odluka/2010/323627/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o donosenju Lokalne studije lokacije "Benzinska pumpa LAPCICI" | [`odluka/2010/323796/`](odluka/2010/323796/) | in force | 1 | 2010-12-11 | 2010-12-11 |
+| Odluka o dodjeli placeva | [`odluka/2010/324970/`](odluka/2010/324970/) | in force | 1 | 2010-01-29 | 2010-01-29 |
+| ODLUKA O UTVRDJIVANjU JAVNOG INTERESA ZA EKSPROPRIJACIJU NEPOKRETNOSTI ZA IZGRADNjU OBILAZNICE KOLASIN | [`odluka/2010/325168/`](odluka/2010/325168/) | in force | 1 | 2010-04-27 | 2010-04-27 |
+| Odluka o usvajanju Petogodisnjeg programa investicija Opstine Rozaje za 2010-2015. godinu | [`odluka/2010/325196/`](odluka/2010/325196/) | in force | 1 | 2010-03-09 | 2010-03-09 |
+| Odluka o davanju saglasnosti na Statut JU "Centar za kulturu" | [`odluka/2010/325413/`](odluka/2010/325413/) | in force | 1 | 2010-12-29 | 2010-12-29 |
+| Odluka o urbanistickom projektu "Drac-Vatrogasni dom - Zona A" u Podgorici | [`odluka/2010/325497/`](odluka/2010/325497/) | in force | 1 | 2010-10-22 | 2010-10-22 |
+| Odluka o potvrdjivanju Odluke Predsjednika Opstine o zaduzenju Opstine Herceg Novi kod Komercijalne banke A.D. Budva i zalaganju imovine | [`odluka/2010/325498/`](odluka/2010/325498/) | in force | 1 | 2010-03-01 | 2010-03-01 |
+| Odluka o izmjenama i dopunama Odluke o raspisivanju medjunarodnog javnog poziva, putem zatvorenih ponuda, za davanje u dugorocni zakup objekata II, III, IV, V, VI i VII, koji se nalaze na kat. parc. 371 KO Kotor II | [`odluka/2010/325516/`](odluka/2010/325516/) | amending act | 1 | 2010-01-14 | 2010-01-14 |
+| Odluka o pristupanju izradi Strateske procjene uticaja na zivotnu sredinu za Lokalnu studiju lokacije "Jasen" | [`odluka/2010/325532/`](odluka/2010/325532/) | in force | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o predaji na upravljanje, koriscenje i odrzavanje Javnom komunalnom preduzecu "Komunalno Niksic", objekata gradske kapele na Novom groblju Podtrebjesom | [`odluka/2010/325545/`](odluka/2010/325545/) | in force | 1 | 2010-10-22 | 2010-10-22 |
+| Odluka o donosenju Lokalne studije lokacije "Rasadnik" - Rozaje | [`odluka/2010/325653/`](odluka/2010/325653/) | in force | 1 | 2010-09-29 | 2010-09-29 |
+| Odluka o izmjenama i dopunama Odluke o visini godisnje naknade za registraciju drumskih motornih vozila, traktora i prikljucnih vozila koja se placa za koriscenje opstinskih i nekategorisanih puteva | [`odluka/2010/325681/`](odluka/2010/325681/) | amending act | 1 | 2010-02-27 | 2010-02-27 |
+| Odluka o prenosu prava svojine na gradjevinskom zemljistu Elektroprivredi CG AD Niksic za izgradnju trafostanice | [`odluka/2010/325764/`](odluka/2010/325764/) | in force | 1 | 2010-12-29 | 2010-12-29 |
+| Odluka o prestanku vazenja Pravilnika o pretplatnickim elektronskim komunikacionim instalacijama u stambenim i poslovnim objektima | [`odluka/2010/325895/`](odluka/2010/325895/) | in force | 1 | 2010-06-05 | 2010-06-05 |
+| Odluka o izmjenama i dopunama Odluke o ucescu Opstine u rjesavanju stambenih potreba sluzbenika i namjestenika | [`odluka/2010/325925/`](odluka/2010/325925/) | amending act | 1 | 2010-11-09 | 2010-11-09 |
+| Odluka o potvrdjivanju Zakljucka Predsjednika Opstine o oslobadjanju placanja dijela obaveza po osnovu naknade za koriscenje gradjevinskog zemljista | [`odluka/2010/325952/`](odluka/2010/325952/) | in force | 1 | 2010-01-26 | 2010-01-26 |
+| Odluka o Urbanistickom projektu "Nova Varos - Blok B" u Podgorici | [`odluka/2010/325982/`](odluka/2010/325982/) | in force | 1 | 2010-12-11 | 2010-12-11 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju magistralnog puta Podgorica-Cetinje, dionica Kokoti | [`odluka/2010/325985/`](odluka/2010/325985/) | in force | 1 | 2010-03-24 | 2010-03-24 |
+| Odluka o donosenju Programa i Akcionog plana za borbu protiv korupcije u Opstini Herceg Novi 2009-2012. godine | [`odluka/2010/326052/`](odluka/2010/326052/) | in force | 1 | 2010-02-09 | 2010-02-09 |
+| Odluka o donosenju Plana upravljanja otpadom Opstine Danilovgrad za period 2010 - 2014. godine | [`odluka/2010/326122/`](odluka/2010/326122/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka za izmjenu i dopunu Statuta Opstine Danilovgrad | [`odluka/2010/326137/`](odluka/2010/326137/) | amending act | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o davanju saglasnosti na Zavrsni racun Finansijskog plana Gradske opstine Tuzi za 2009. godinu | [`odluka/2010/326144/`](odluka/2010/326144/) | in force | 1 | 2010-10-22 | 2010-10-22 |
+| Odluka o razrjesenju predsjednika i clanova Upravnog odbora JKP "Gradac" Mojkovac | [`odluka/2010/326195/`](odluka/2010/326195/) | in force | 1 | 2010-03-15 | 2010-03-15 |
+| Odluka o obezbjedjenju sredstava za rjesavanje stambenog pitanja Draskovic Bosku | [`odluka/2010/326223/`](odluka/2010/326223/) | in force | 1 | 2010-10-22 | 2010-10-22 |
+| Odluka o izboru predsjednika i članova Savjeta za davanje predloga naziva ulica Skupštine opštine Kolašin | [`odluka/2010/326251/`](odluka/2010/326251/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o davanju u zakup zemljista za izgradnju vjetroelektrane na lokalitetu Mozura | [`odluka/2010/326297/`](odluka/2010/326297/) | in force | 1 | 2010-06-04 | 2010-06-04 |
+| Odluka o izmjeni i dopuni Odluke o uslovima i nacinu rjesavanja stambenih potreba lokalnih funkcionera i rukovodecih lica lokalne uprave | [`odluka/2010/326389/`](odluka/2010/326389/) | amending act | 1 | 2010-07-27 | 2010-07-27 |
+| Odluka i imenovanju Savjeta za rodnu ravnopravnost | [`odluka/2010/326406/`](odluka/2010/326406/) | in force | 1 | 2010-01-14 | 2010-01-14 |
+| Odluka o izradi Urbanistickog projekta "Bijeli Rt - Buvaci" | [`odluka/2010/326472/`](odluka/2010/326472/) | in force | 1 | 2010-03-09 | 2010-03-09 |
+| Odluka o oslobadjanju naknade po osnovu komunalnog opremanja gradjevinskog zemljista Univerziteta Crne Gore - Filozofski fakultet Niksic | [`odluka/2010/326611/`](odluka/2010/326611/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o donosenju Urbanistickog projekta "Ekskluzivni turisticki kompleks Crvena Glavica" | [`odluka/2010/326660/`](odluka/2010/326660/) | in force | 1 | 2010-03-30 | 2010-03-30 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za izgradnju autoputa Bar-Boljare, dionica Uvac-Matesevo | [`odluka/2010/326770/`](odluka/2010/326770/) | in force | 1 | 2010-03-03 | 2010-03-03 |
+| Odluka o uspostavljanju saradnje izmedju Prijestonice Cetinje i Grada Rijeke, Republika Hrvatska | [`odluka/2010/326784/`](odluka/2010/326784/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o pristupanju osnivanja privrednog drustva za upravljanje cvrstim komunalnim otpadom | [`odluka/2010/326796/`](odluka/2010/326796/) | in force | 1 | 2010-10-19 | 2010-10-19 |
+| Odluka o usvajanju Jednogodisnjeg programa uredjenja prostora Opstine Rozaje za 2010. godinu | [`odluka/2010/326822/`](odluka/2010/326822/) | in force | 1 | 2010-03-09 | 2010-03-09 |
+| Odluka o uslovima davanja u zakup kao i o najnizem iznosu zakupnine za poslovni prostor u vlasnistvu Prijestonice Cetinje | [`odluka/2010/326823/`](odluka/2010/326823/) | in force | 1 | 2010-01-12 | 2010-01-12 |
+| Odluka o izmjeni Odluke o obrazovanju Komisije za izradu Nacrta odluke o izmjenama i dopunama Statuta Opstine Danilovgrad | [`odluka/2010/326869/`](odluka/2010/326869/) | amending act | 1 | 2010-11-23 | 2010-11-23 |
+| Odluka o davanju saglasnosti za izmjenu ugovora o koncesiji za eksploataciju nemetalicne mineralne sirovine tehnicko-gradjevinskog kamena iz lezista "Rudine" (Naljezici) | [`odluka/2010/326870/`](odluka/2010/326870/) | in force | 1 | 2010-10-30 | 2010-10-30 |
+| Odluka o privremenom finansiranju potreba Budzeta Opstine Andrijevica za period januar - mart 2010.godine | [`odluka/2010/326893/`](odluka/2010/326893/) | in force | 1 | 2010-01-12 | 2010-01-12 |
+| Odluka o izboru predsjednika i članova Upravnog odbora JU Centar za kulturu, Kolašin | [`odluka/2010/327046/`](odluka/2010/327046/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o izboru predsjednika i članova Odbora za planiranje i uređenje prostora i komunalno - stambenu djelatnost Skupštine opštine Kolašin | [`odluka/2010/327062/`](odluka/2010/327062/) | in force | 1 | 2010-09-16 | 2010-09-16 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama Statuta "Deponija" d.o.o. Podgorica | [`odluka/2010/327368/`](odluka/2010/327368/) | in force | 1 | 2010-03-13 | 2010-03-13 |
+| Odluka o usvajanju Lokalnog plana akcije u oblasti invalidnosti u Opstini Herceg Novi za period 2010 - 2015. godine | [`odluka/2010/330817/`](odluka/2010/330817/) | in force | 1 | 2010-03-09 | 2010-03-09 |
+| Odluka o donosenju Lokalne studije lokacije "Spas" | [`odluka/2010/331307/`](odluka/2010/331307/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o davanju saglasnosti na prijedlog ugovora o regulisanju međunarodnih odnosa po osnovu zajedničkog ulaganja-sufinansiranja,izgradnja sportsko rekreacionog centra (sportska hala) u Škaljarima sa Studijom o ekonomskoj opravdanosti | [`odluka/2010/331398/`](odluka/2010/331398/) | in force | 1 | 2010-09-08 | 2010-09-08 |
+| Odluka o usvajanju Godisnjeg programa investicija Opstine Rozaje za 2010. godinu | [`odluka/2010/331469/`](odluka/2010/331469/) | in force | 1 | 2010-03-09 | 2010-03-09 |
+| Odluka o stavljanju van snage Odluke o uslovima i nacinu izvodjenja muzike i zastiti od buke | [`odluka/2010/332885/`](odluka/2010/332885/) | in force | 1 | 2010-12-01 | 2010-12-01 |
+| Odluka o izmjenama i dopunama Odluke o obrazovanju komisije za koordinaciju instrumenta za pretpristupnu pomoc | [`odluka/2010/332985/`](odluka/2010/332985/) | amending act | 1 | 2010-12-18 | 2010-12-18 |
+| Odluka o imenovanju clana Odbora za medjuopstinsku i medjunarodnu saradnju | [`odluka/2010/333139/`](odluka/2010/333139/) | in force | 1 | 2011-01-07 | 2011-01-07 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima lokalnih funkcionera | [`odluka/2010/333243/`](odluka/2010/333243/) | amending act | 1 | 2010-11-18 | 2010-11-18 |
+| PRODUZENjE KONCESIJE ZA PRIREDIVANjE LUTRIJSKIH IGARA | [`odluka/2010/334301/`](odluka/2010/334301/) | in force | 1 | 2010-04-09 | 2010-04-09 |
+| Odluka o donosenju Drzavne studije lokacije "Turisticki kompleks na Velikoj plazi-postojeca hotelska grupacija, naseljska struktura, komunalno servisna i sportsko rekreativna zona" | [`odluka/2010/334309/`](odluka/2010/334309/) | in force | 1 | 2010-04-09 | 2010-04-09 |
+| Odluka o donosenju Drzavne studije lokacije "Rt - Djeran - Port Milena" | [`odluka/2010/334310/`](odluka/2010/334310/) | in force | 1 | 2010-04-09 | 2010-04-09 |
+| Odluka o obustavi od izvrsenja Odluke o prodaji nepokretnosti Opstine Kolasin | [`odluka/2010/334430/`](odluka/2010/334430/) | in force | 1 | 2010-03-31 | 2010-03-31 |
+| ODLUKA O DOPUNI ODLUKE O UTVRDJIVANjU JAVNOG INTERESA ZA EKSPROPRIJACIJU NEPOKRETNOSTI ZA REKONSTRUKCIJU GRANICNOG PRELAZA "DOBRAKOVO" | [`odluka/2010/335100/`](odluka/2010/335100/) | amending act | 1 | 2010-04-27 | 2010-04-27 |
+| Odluka o kriterijumima i nacinu isplate potrazivanja kod Fonda rada | [`odluka/2010/335304/`](odluka/2010/335304/) | in force | 1 | 2010-05-14 | 2010-05-14 |
+| Odluka o odredjivanju Luke Tivat za medjunarodni i unutrasnji saobracaj | [`odluka/2010/337080/`](odluka/2010/337080/) | in force | 1 | 2010-08-13 | 2010-08-13 |
+| Odluka o formiranju posebnog Revizorskog tijela odgovornog za provjeru djelotvornog i valjanog funkcionisanja sistema upravljanja i kontrole Instrumentom pretpristupne pomoci | [`odluka/2010/337741/`](odluka/2010/337741/) | in force | 1 | 2010-02-06 | 2010-02-06 |
+| Odluka o obustavi od izvrsenja Odluke o izgradnji objekata izvan zahvata detaljnih urbanistickih planova Plava | [`odluka/2010/338140/`](odluka/2010/338140/) | in force | 1 | 2010-12-08 | 2010-12-08 |
+| Odluka o izmjenama i dopunama Odluke o obrazovanju Nacionalnog savjeta za droge | [`odluka/2010/338262/`](odluka/2010/338262/) | amending act | 1 | 2010-12-29 | 2010-12-29 |
+| Odluka o nacinu upisa i vodjenja Registra sporazuma akcionara o glasanju kod Komisije za hartije od vrijednosti | [`odluka/2010/338400/`](odluka/2010/338400/) | in force | 1 | 2010-12-16 | 2010-12-16 |
+| Odluka o utvrdjivanju naknada za licence za 2011. godinu | [`odluka/2010/338468/`](odluka/2010/338468/) | in force | 1 | 2011-01-07 | 2011-01-07 |
+| Odluka o izradi Izmjena i dopuna Detaljnog urbanistickog plana Centar 3 | [`odluka/2010/338782/`](odluka/2010/338782/) | amending act | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o izradi Izmjena i dopuna Detaljnog urbanistickog plana Rudo Polje 2 | [`odluka/2010/338783/`](odluka/2010/338783/) | amending act | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o koriscenju sredstava Stalne budzetske rezerve Budzeta Opstine Pljevlja | [`odluka/2010/338795/`](odluka/2010/338795/) | in force | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o izmjenama i dopunama Odluke o auto taksi prevozu | [`odluka/2010/338806/`](odluka/2010/338806/) | amending act | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o prestanku vazenja Odluke o utvrdjivanju visine naknade koja se placa za upotrebu nekategorisanih puteva u saobracajne svrhe za drumska motorna vozila i njihova prikljucna vozila | [`odluka/2010/338807/`](odluka/2010/338807/) | in force | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o donosenju Lokalnog plana akcije za mlade u Opstini Kotor za period 2010. - 2015. godine | [`odluka/2010/338900/`](odluka/2010/338900/) | in force | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o pristupanju izradi lokalne studije lokacije - "Rijeka" | [`odluka/2010/338913/`](odluka/2010/338913/) | in force | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o pristupanju izradi Strateske procjene uticaja na zivotnu sredinu za Lokalnu studiju lokacije "Rijeka" | [`odluka/2010/338914/`](odluka/2010/338914/) | in force | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o pristupanju izradi lokalne studije lokacije - "Jasen" | [`odluka/2010/338925/`](odluka/2010/338925/) | in force | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o dopuni Odluke o izboru predsjednika Skupstine opstine Mojkovac | [`odluka/2010/338926/`](odluka/2010/338926/) | amending act | 1 | 2010-03-15 | 2010-03-15 |
+| Odluka o razrjesenju predsjednika i clanova Savjeta JU Centar za kulturu "Nenad Rakocevic" Mojkovac | [`odluka/2010/338927/`](odluka/2010/338927/) | in force | 1 | 2010-03-15 | 2010-03-15 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "Grahovo 2" | [`odluka/2010/338936/`](odluka/2010/338936/) | in force | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o izradi Lokalne studije lokacije Kuside | [`odluka/2010/338937/`](odluka/2010/338937/) | in force | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o izradi izmjena i dopuna Urbanistickog projekta za prostor izmedju ulica Nika Miljanica, Njegoseve, II Dalmatinske i Baja Pivljanina | [`odluka/2010/338946/`](odluka/2010/338946/) | amending act | 1 | 2010-03-23 | 2010-03-23 |
+| Odluka o formiranju posebnog Revizorskog tijela odgovornog za provjeru djelotvornog i valjanog funkcionisanja sistema upravljanja i kontrole instrumentom pretpristupne moci | [`odluka/2010/339075/`](odluka/2010/339075/) | in force | 1 | 2010-02-27 | 2010-02-27 |
+| Odluka o imenovanju Odbora za finansije, privredu i razvoj | [`odluka/2010/339270/`](odluka/2010/339270/) | in force | 1 | 2010-03-29 | 2010-03-29 |
+| Odluka o imenovanju Odbora za saradnju sa mjesnim zajednicama | [`odluka/2010/339286/`](odluka/2010/339286/) | in force | 1 | 2010-03-29 | 2010-03-29 |
+| Odluka o izradi Izmjena i dopuna Detaljnog urbanistickog plana Bistrica | [`odluka/2010/339288/`](odluka/2010/339288/) | amending act | 1 | 2010-04-06 | 2010-04-06 |
+| Odluka o izradi Lokalne studije lokacije "Rasadnik" | [`odluka/2010/339303/`](odluka/2010/339303/) | in force | 1 | 2010-04-06 | 2010-04-06 |
+| Odluka o izradi Urbanistickog projekta "Radovica Laz" | [`odluka/2010/339426/`](odluka/2010/339426/) | in force | 1 | 2010-03-30 | 2010-03-30 |
+| Odluka o donosenju Zelene agende za Opstinu Mojkovac | [`odluka/2010/339438/`](odluka/2010/339438/) | in force | 1 | 2010-03-30 | 2010-03-30 |
+| Odluka o izmjenama i dopunama Odluke o radnom vremenu | [`odluka/2010/339439/`](odluka/2010/339439/) | amending act | 1 | 2010-03-30 | 2010-03-30 |
+| Odluka o izmjeni i dopuni Odluke o uredjenju saobracaja na putevima u Opstini Mojkovac | [`odluka/2010/339440/`](odluka/2010/339440/) | amending act | 1 | 2010-03-30 | 2010-03-30 |
+| Odluka o izradi Izmjena i dopuna Detaljnog urbanistickog plana "Rekreativno-kulturna zona na obali rijeke Morace" - juzni dio u Podgorici | [`odluka/2010/339452/`](odluka/2010/339452/) | amending act | 1 | 2010-03-22 | 2010-03-22 |
+| Odluka o donosenju Plana upravljanja otpadom za Opstinu Andrijevica 2009-2013. godine | [`odluka/2010/339700/`](odluka/2010/339700/) | in force | 1 | 2010-04-23 | 2010-04-23 |
+| Odluka o izmjeni Odluke o davanju u zakup poslovnog prostora u vlasnistvu Opstine Tivat | [`odluka/2010/339723/`](odluka/2010/339723/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o izmjeni Odluke o imenovanju predstavnika Skupstine opstine Tivat u Skupstinu Turisticke organizacije Tivat | [`odluka/2010/339724/`](odluka/2010/339724/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka broj: 0304-39 | [`odluka/2010/339725/`](odluka/2010/339725/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o vodosnabdijevanju seoskog podrucja Prijestonice Cetinje | [`odluka/2010/339735/`](odluka/2010/339735/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "Stanisici" | [`odluka/2010/339821/`](odluka/2010/339821/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Danilovgrad I | [`odluka/2010/339831/`](odluka/2010/339831/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice "Slap" | [`odluka/2010/339841/`](odluka/2010/339841/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o pristupanju izmjenama i dopunama Statuta Opstine Niksic | [`odluka/2010/339843/`](odluka/2010/339843/) | amending act | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima opstinskih sluzbenika i namjestenika | [`odluka/2010/339844/`](odluka/2010/339844/) | amending act | 1 | 2010-04-16 | 2010-04-16 |
+| Odluka o prenosu zemljista na kome je izgradjen objekat bez gradjevinske dozvole,a koji je uklopljen u planski dokument | [`odluka/2010/340217/`](odluka/2010/340217/) | in force | 1 | 2010-04-30 | 2010-04-30 |
+| Odluka o privremenom finansiranju potreba Budzeta Opstine Danilovgrad za period januar - mart 2010.godine | [`odluka/2010/340767/`](odluka/2010/340767/) | in force | 1 | 2010-01-04 | 2010-01-04 |
+| Odluka o privremenom finansiranju Opstine Pljevlja za period januar - mart 2010. godine | [`odluka/2010/340768/`](odluka/2010/340768/) | in force | 1 | 2010-01-04 | 2010-01-04 |
+| Odluka o stavljanju van snage Odluke o utvrdjivanju visine naknade koja se placa za upotrebu nekategorisanih puteva u saobracajne svrhe za drumska motorna vozila i njihova prikljucna vozila | [`odluka/2010/340769/`](odluka/2010/340769/) | in force | 1 | 2010-01-12 | 2010-01-12 |
+| Odluka o imenovanju clanova Tima za pracenje realizacije Programa za borbu protiv korupcije i Akcionog plana za borbu protiv korupcije u Opstini Andrijevica | [`odluka/2010/340813/`](odluka/2010/340813/) | in force | 1 | 2010-01-12 | 2010-01-12 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prenos prava svojine na nepokretnosti u KO Cetinje II | [`odluka/2010/340884/`](odluka/2010/340884/) | in force | 1 | 2010-01-12 | 2010-01-12 |
+| Odluka o ustupanju na upravljanje i koriscenje Javnom komunalnom preduzecu Cetinje nepokretnosti u KO Cetinje I | [`odluka/2010/340885/`](odluka/2010/340885/) | in force | 1 | 2010-01-12 | 2010-01-12 |
+| Odluka o izmjenama Odluke o finansiranju politickih partija | [`odluka/2010/340927/`](odluka/2010/340927/) | in force | 1 | 2010-01-12 | 2010-01-12 |
+| Odluka o izmjeni i dopuni Odluke o sprovodjenju Prostornog plana Opstine Herceg Novi za vazecu plansku dokumentaciju | [`odluka/2010/341199/`](odluka/2010/341199/) | amending act | 1 | 2010-06-16 | 2010-06-16 |
+| Odluka o davanju garancije Opstine Herceg Novi Crnogorskoj komercijalnoj banci | [`odluka/2010/341222/`](odluka/2010/341222/) | in force | 1 | 2010-06-08 | 2010-06-08 |
+| Odluka o izmjeni Odluke o finansiranju politickih partija | [`odluka/2010/341652/`](odluka/2010/341652/) | in force | 1 | 2010-10-22 | 2010-10-22 |
+| Odluka o prenosu prava na nepokretnosti putem javnog nadmetanja, broj: 0101-395/1 | [`odluka/2010/341944/`](odluka/2010/341944/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o prenosu prava na nepokretnosti putem javnog nadmetanja, broj: 0101-396/1 | [`odluka/2010/341945/`](odluka/2010/341945/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o prenosu prava na nepokretnosti putem javnog nadmetanja, broj 0101-397/1 | [`odluka/2010/341946/`](odluka/2010/341946/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o prenosu prava na nepokretnosti, broj: 0101-406/1 | [`odluka/2010/341947/`](odluka/2010/341947/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele, broj: 0101-407/1 | [`odluka/2010/341995/`](odluka/2010/341995/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele, broj:0101-408/1 | [`odluka/2010/341996/`](odluka/2010/341996/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o razmjeni nepokretnosti broj:0101-409/1 | [`odluka/2010/341997/`](odluka/2010/341997/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o razmjeni nepokretnosti broj:0101-410/1 | [`odluka/2010/341998/`](odluka/2010/341998/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o razmjeni nepokretnosti broj:0101-411/1 | [`odluka/2010/342045/`](odluka/2010/342045/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o izmjenama i dopunama Odluke o izboru strateskog partnera za izgradnju Zabavnog-Action parka na brdu Spas | [`odluka/2010/342046/`](odluka/2010/342046/) | amending act | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Komunalno stambenog javnog preduzeca Budva | [`odluka/2010/342047/`](odluka/2010/342047/) | amending act | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o oslobadjanju placanja obaveza po osnovu poreza na nepokretnosti za poljoprivredno zemljiste koje se koristi u poljoprivredne svrhe u 2009. godini | [`odluka/2010/342064/`](odluka/2010/342064/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o izmjeni i dopuni Odluke o komunalnom redu na teritoriji opstine Budve | [`odluka/2010/342092/`](odluka/2010/342092/) | amending act | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o izmjenama i dopunama Odluke o pogrebnoj djelatnosti, uredjivanju i odrzavanju groblja na teritoriji Opstine Pljevlja | [`odluka/2010/342113/`](odluka/2010/342113/) | amending act | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o izmjenama i dopunama Odluke o komunalnom uredjenju | [`odluka/2010/342114/`](odluka/2010/342114/) | amending act | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o usvajanju Visegodisnjeg investicionog plana Opstine Berane za period 2010-2014. godine | [`odluka/2010/342148/`](odluka/2010/342148/) | in force | 1 | 2010-10-26 | 2010-10-26 |
+| Odluka broj: 0304-241 | [`odluka/2010/342159/`](odluka/2010/342159/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o osnivanju zajednickog Sklonista za smjestaj i zastitu napustenih i izgubljenih pasa sa podrucja Opstine Kotor i Opstine Tivat | [`odluka/2010/342160/`](odluka/2010/342160/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o uspostavljanju saradnje i bratimljenju Opstine Danilovgrad sa gradom Serpuhov Moskovska oblast (Ruska federacija) | [`odluka/2010/342172/`](odluka/2010/342172/) | in force | 1 | 2010-09-21 | 2010-09-21 |
+| Odluka o prestanku vazenja Odluke o visini naknade za upotrebu nekategorisanih puteva koja se placa za drumska motorna i njihova prikljucna vozila | [`odluka/2010/342212/`](odluka/2010/342212/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka broj: 0304-245 | [`odluka/2010/342213/`](odluka/2010/342213/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka broj: 0305-246 | [`odluka/2010/342214/`](odluka/2010/342214/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o utvrdjivanju javnog interesa radi izgradnje cjevovoda od rezervoara Tivat (Djurdjevo brdo) do Marica | [`odluka/2010/342215/`](odluka/2010/342215/) | in force | 1 | 2010-01-22 | 2010-01-22 |
+| Odluka o oslobadjanju naknade za koriscenje lokalnih i nekategorisanih puteva | [`odluka/2010/342224/`](odluka/2010/342224/) | in force | 1 | 2010-09-29 | 2010-09-29 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti | [`odluka/2010/342225/`](odluka/2010/342225/) | in force | 1 | 2010-09-29 | 2010-09-29 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima opstinskih funkcionera | [`odluka/2010/342419/`](odluka/2010/342419/) | amending act | 1 | 2010-11-09 | 2010-11-09 |
+| Odluka o razrjesenju i imenovanju predsjednika i jednog clana Komisije za rjesavanje stambenih pitanja lica u stanju socijalne potrebe | [`odluka/2010/342466/`](odluka/2010/342466/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o donosenju izmjena i dopuna Generalnog urbanistickog plana Kotora za podrucje Skaljara | [`odluka/2010/342469/`](odluka/2010/342469/) | amending act | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o izmjeni Odluke o izradi Detaljnog urbanistickog plana "Przno-Kamenovo II" za dio Kamenovo Vrijesno II dio "Sipkov Krs" | [`odluka/2010/342512/`](odluka/2010/342512/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o produzenju roka zakupa, broj: 11-11408 | [`odluka/2010/342513/`](odluka/2010/342513/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o produzenju roka zakupa, broj: 11-11409 | [`odluka/2010/342514/`](odluka/2010/342514/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora Javnog preduzeca "Vodovod i kanalizacija" Kotor, o kreditnom zaduzenju broj 2142 od 28.10.2010. godine | [`odluka/2010/342515/`](odluka/2010/342515/) | in force | 1 | 2010-11-10 | 2010-11-10 |
+| Odluka o donosenju Detaljnog urbanistickog plana "Dolovi IV" | [`odluka/2010/342516/`](odluka/2010/342516/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o davanju saglasnosti na zaduzivanje JRDS Radio televizije Pljevlja | [`odluka/2010/342517/`](odluka/2010/342517/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o izmjeni i dopuni Odluke o naknadi za komunalno opremanje gradjevinskog zemljista | [`odluka/2010/342521/`](odluka/2010/342521/) | amending act | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o izmjenama i dopunama Odluke o rjesavanju stambenih pitanja lica u stanju socijalne potrebe | [`odluka/2010/342555/`](odluka/2010/342555/) | amending act | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o prodaji nepokretnosti | [`odluka/2010/342556/`](odluka/2010/342556/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o produzenju roka zakupa, broj: 11-11414 | [`odluka/2010/342557/`](odluka/2010/342557/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o produzenju roka zakupa, broj: 11-11411 | [`odluka/2010/342558/`](odluka/2010/342558/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o otkupu zemljista radi dokompletiranja urbanisticke parcele, broj: 11-11406 | [`odluka/2010/342559/`](odluka/2010/342559/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o otkupu zemljista radi dokompletiranja urbanisticke parcele, broj: 11-11407 | [`odluka/2010/342560/`](odluka/2010/342560/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o davanju saglasnosti na Odluku o razrjesenju direktora Javnog komunalnog preduzeca Cetinje | [`odluka/2010/342564/`](odluka/2010/342564/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Odluka o imenovanju clanova Savjeta Javne ustanove Zavicajni muzej "Ganica kula" u Rozajama | [`odluka/2010/342646/`](odluka/2010/342646/) | in force | 1 | 2010-08-05 | 2010-08-05 |
+| Odluka o imenovanju clanova Upravnog odbora Javnog preduzeca "Komunalno" Rozaje | [`odluka/2010/342647/`](odluka/2010/342647/) | in force | 1 | 2010-08-05 | 2010-08-05 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora JKP Rozaje o izmjenama i dopunama Odluke o segmentaciji Javnog komunalnog preduzeca Rozaje broj 538/2 od 28.05.2009. godine | [`odluka/2010/342659/`](odluka/2010/342659/) | amending act | 1 | 2010-09-29 | 2010-09-29 |
+| Odluka o imenovanju clanova Upravnog odbora Javnog preduzeca "Vodovod i kanalizacija" Rozaje | [`odluka/2010/342699/`](odluka/2010/342699/) | in force | 1 | 2010-08-05 | 2010-08-05 |
+| Odluka o imenovanju clanova Upravnog odbora Javnog preduzeca "Sportski centar Rozaje" Rozaje | [`odluka/2010/342700/`](odluka/2010/342700/) | in force | 1 | 2010-08-05 | 2010-08-05 |
+| Odluka o oslobadjanju placanja obaveza po osnovu poreza za poljoprivredno i sumsko zemljiste, stanove i stambene objekte na seoskom podrucju za 2010. godinu | [`odluka/2010/342872/`](odluka/2010/342872/) | in force | 1 | 2010-08-25 | 2010-08-25 |
+| Odluka o izmjeni Odluke o zaduzenju Opstine Berane | [`odluka/2010/343017/`](odluka/2010/343017/) | in force | 1 | 2010-11-09 | 2010-11-09 |
+| Odluka o potvrdjivanju prestanka mandata clanu Savjeta Javnog lokalnog radio difuznog servisa "Radio Berane" | [`odluka/2010/343018/`](odluka/2010/343018/) | in force | 1 | 2010-11-09 | 2010-11-09 |
+| Odluka o raspisivanju konkursa za izradu grba Opstine Zabljak | [`odluka/2010/343067/`](odluka/2010/343067/) | in force | 1 | 2010-10-29 | 2010-10-29 |
+| Odluka o davanju saglasnosti za priznavanje tuzbenih zahtjeva | [`odluka/2010/343068/`](odluka/2010/343068/) | in force | 1 | 2010-10-29 | 2010-10-29 |
+| Odluka o oslobadjaju placanja obaveze poreza na firmu koja prelazi visinu obaveze koju su pravna lica duzna platiti shodno visini ostvarenih prihoda | [`odluka/2010/343075/`](odluka/2010/343075/) | in force | 1 | 2010-11-09 | 2010-11-09 |
+| Odluka o izmjenama i dopunama Odluke o privremenim objektima | [`odluka/2010/343133/`](odluka/2010/343133/) | amending act | 1 | 2010-11-09 | 2010-11-09 |
+| Odluka o razrjesenju predsjednika Odbora za Statut i propise | [`odluka/2010/343172/`](odluka/2010/343172/) | in force | 1 | 2010-10-01 | 2010-10-01 |
+| Odluka o izmjeni Odluke o formiranju Odbora za drustvene djelatnosti Skupstine opstine Herceg Novi | [`odluka/2010/343173/`](odluka/2010/343173/) | in force | 1 | 2010-10-01 | 2010-10-01 |
+| Odluka o izmjenama i dopunama Odluke o pomocnim objektima | [`odluka/2010/343188/`](odluka/2010/343188/) | amending act | 1 | 2010-11-09 | 2010-11-09 |
+| Odluka o izmjenama i dopunama Odluke o uslovima i nacinu rjesavanja stambenih potreba sluzbenika i namjestenika organa lokalne uprave Opstine Bijelo Polje | [`odluka/2010/343189/`](odluka/2010/343189/) | amending act | 1 | 2010-11-09 | 2010-11-09 |
+| Odluka o izmjenama i dopunama Odluke o uslovima i nacinu rjesavanja stambenih pitanja lica koja bira ili imenuje Skupstina opstine i Predsjednik Opstine | [`odluka/2010/343190/`](odluka/2010/343190/) | amending act | 1 | 2010-11-09 | 2010-11-09 |
+| Odluka o postupku uspostavljanja registra upravnih procedura | [`odluka/2010/343242/`](odluka/2010/343242/) | in force | 1 | 2010-11-09 | 2010-11-09 |
+| Odluka o odredjivanju predstavnika ispred Skupstine opstine Zabljak u Skupstinu Turisticke organizacije | [`odluka/2010/343406/`](odluka/2010/343406/) | in force | 1 | 2010-10-21 | 2010-10-21 |
+| Odluka o izmjeni Odluke o izradi Detaljnog Urbanistickog plana Donji Radovici Centar | [`odluka/2010/343407/`](odluka/2010/343407/) | in force | 1 | 2010-10-21 | 2010-10-21 |
+| Odluka o utvrdjivanju Nacrta Odluke o izmjenama i dopunama Statuta Prijestonice | [`odluka/2010/343483/`](odluka/2010/343483/) | amending act | 1 | 2010-08-25 | 2010-08-25 |
+| Odluka o davanju saglasnosti na Odluku o izmjeni Statuta Javnog komunalnog preduzeca Cetinje | [`odluka/2010/343532/`](odluka/2010/343532/) | in force | 1 | 2010-08-25 | 2010-08-25 |
+| Odluka o davanju saglasnosti na imenovanje direktora Javne ustanove Gradska biblioteka i citaonica "Njegos" - Cetinje | [`odluka/2010/343533/`](odluka/2010/343533/) | in force | 1 | 2010-08-25 | 2010-08-25 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima lokalnih funkcionera | [`odluka/2010/343535/`](odluka/2010/343535/) | amending act | 1 | 2010-08-25 | 2010-08-25 |
+| Odluka o izmjenama Odluke o izgradnji pomocnih objekata | [`odluka/2010/343584/`](odluka/2010/343584/) | in force | 1 | 2010-08-25 | 2010-08-25 |
+| Odluka o izmjeni Odluke o imenovanju Odbora za izbor i imenovanje | [`odluka/2010/343590/`](odluka/2010/343590/) | in force | 1 | 2010-01-14 | 2010-01-14 |
+| Odluka o pristupanju promjeni Statuta Opstine Kotor | [`odluka/2010/343982/`](odluka/2010/343982/) | in force | 1 | 2010-07-27 | 2010-07-27 |
+| Odluka o prenosu prava na gradskom gradjevinskom zemljistu | [`odluka/2010/343983/`](odluka/2010/343983/) | in force | 1 | 2010-07-19 | 2010-07-19 |
+| Odluka o prenosu prava na gradjevinskom zemljistu | [`odluka/2010/343984/`](odluka/2010/343984/) | in force | 1 | 2010-07-19 | 2010-07-19 |
+| Odluka o davanju prethodne saglasnosti imovinskih prava na raspolaganje na nepokretnostima | [`odluka/2010/344032/`](odluka/2010/344032/) | in force | 1 | 2010-07-27 | 2010-07-27 |
+| Odlika o raspisivanju Javnog poziva za prenos prava svojine na građevinskom zemljistu | [`odluka/2010/344139/`](odluka/2010/344139/) | in force | 1 | 2010-09-08 | 2010-09-08 |
+| Odluka o izmjenama i dopunama Odluke o opstinskim i nekategorisanim putevima | [`odluka/2010/344623/`](odluka/2010/344623/) | amending act | 1 | 2010-08-25 | 2010-08-25 |
+| Odluka o izmjenama Odluke o mjerilima za ugovaranje visine naknade za uredjivanje gradjevinskog zemljista | [`odluka/2010/344667/`](odluka/2010/344667/) | in force | 1 | 2010-08-25 | 2010-08-25 |
+| Odluka o izmjeni i dopuni Odluke o snabdijevanju toplotnom energijom | [`odluka/2010/344668/`](odluka/2010/344668/) | amending act | 1 | 2010-08-25 | 2010-08-25 |
+| Odluka o izradi Strateske procjene uticaja na zivotnu sredinu Urbanistickog projekta "Galije 2" | [`odluka/2010/344828/`](odluka/2010/344828/) | in force | 1 | 2010-03-09 | 2010-03-09 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora o uvecanju kapitala Javnog preduzeca "Cistoca" - Podgorica | [`odluka/2010/344833/`](odluka/2010/344833/) | in force | 1 | 2010-03-13 | 2010-03-13 |
+| Odluka o davanju saglasnosti na Odluku Odbora direktora o smanjenju osnovnog kapitala "Deponija" d.o.o. Podgorica | [`odluka/2010/344834/`](odluka/2010/344834/) | in force | 1 | 2010-03-13 | 2010-03-13 |
+| Odluka o izmjenama i dopunama Odluke o visini, nacinu obracunavanja i placanja clanskog doprinosa Turistickoj organizaciji Rozaje | [`odluka/2010/344873/`](odluka/2010/344873/) | amending act | 1 | 2010-03-09 | 2010-03-09 |
+| Odluka o razmjeni nepokretnosti, broj: 0101-524/1 | [`odluka/2010/345197/`](odluka/2010/345197/) | in force | 1 | 2010-12-11 | 2010-12-11 |
+| Odluka o pristupanju izradi Lokalne studije lokacije Kolasin-Lipovo I | [`odluka/2010/345366/`](odluka/2010/345366/) | in force | 1 | 2010-02-27 | 2010-02-27 |
+| Odluka o izradi Plana privremenih objekata Opstine Herceg Novi | [`odluka/2010/345367/`](odluka/2010/345367/) | in force | 1 | 2010-02-27 | 2010-02-27 |
+| Odluka o imenovanju Savjeta za invalidna i hendikepirana lica | [`odluka/2010/345499/`](odluka/2010/345499/) | in force | 1 | 2010-12-22 | 2010-12-22 |
+| Odluka o potvrdjivanju prestanka mandata clanu Savjeta Javnog lokalnog radio difuznog servisa "Radio Berane" | [`odluka/2010/345774/`](odluka/2010/345774/) | in force | 1 | 2010-12-22 | 2010-12-22 |
+| Odluka o donosenju Urbanistickog projekta dijela naselja Ljesnica | [`odluka/2010/345777/`](odluka/2010/345777/) | in force | 1 | 2010-12-22 | 2010-12-22 |
 | Odluka o izmjenama i dopunama Odluke o uslovima, nacinu i postupku za dodjelu opstinske Nagrade "3. januar" | [`odluka/2010/345836/`](odluka/2010/345836/) | amending act | 1 | 2010-12-14 | 2010-12-14 |
 | Odluka o imenovanu Zirija za dodjelu opstinske nagrade | [`odluka/2010/345839/`](odluka/2010/345839/) | in force | 1 | 2010-12-22 | 2010-12-22 |
 | Odluka o davanju saglasnosti na Odluku o kreditnom zaduzenju Javnog preduzeca "Cistoca" Herceg Novi | [`odluka/2010/345894/`](odluka/2010/345894/) | in force | 1 | 2010-12-14 | 2010-12-14 |
@@ -2858,9 +3708,594 @@
 | Odluka o osnivanju zajednickog Sklonista za smjestaj i zastitu napustenih i izgubljenih pasa sa podrucja Opstine Kotor i Opstine Tivat | [`odluka/2010/347958/`](odluka/2010/347958/) | in force | 1 | 2010-02-03 | 2010-02-03 |
 | Odluka o potvrdjivanju Zakljucka Predsjednika Opstine o oslobadjanju placanja obaveza po osnovu poreza na firmu ili naziv i lokalne komunalne takse za koriscenje prostora na javnoj povrsini | [`odluka/2010/347959/`](odluka/2010/347959/) | in force | 1 | 2010-01-26 | 2010-01-26 |
 | Odluka o izmjeni Odluke o formiranju Odbora za turizam i privredni razvoj Skupstine opstine Herceg Novi | [`odluka/2010/348235/`](odluka/2010/348235/) | in force | 1 | 2010-10-01 | 2010-10-01 |
+| Odluka o donosenju Detaljnog urbanistickog plana "Veliki pijesak" | [`odluka/2011/301045/`](odluka/2011/301045/) | in force | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka Ustavnog suda Crne Gore, U. br. 17/08 | [`odluka/2011/301296/`](odluka/2011/301296/) | in force | 1 | 2011-08-16 | 2011-08-16 |
+| Odluka o izmjeni i dopuni Odluke o izradi Lokalne studije lokacije za dio "DULJEVO I" | [`odluka/2011/301298/`](odluka/2011/301298/) | amending act | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka o privremenom finansiranju Opstine Pljevlja za period januar - mart 2011. godine | [`odluka/2011/301299/`](odluka/2011/301299/) | in force | 1 | 2011-01-28 | 2011-01-28 |
+| Odluka o usvajanju Strategije zaposljavanja i razvoja ljudskih resursa Opstine Pljevlja 2011-2015 | [`odluka/2011/301395/`](odluka/2011/301395/) | in force | 1 | 2011-07-29 | 2011-07-29 |
+| Odluka o dopunama Plana postavljanja i izgradnje montaznih objekata privremenog karaktera na teritoriji Opstine Zabljak za 2011.godinu | [`odluka/2011/301396/`](odluka/2011/301396/) | amending act | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o izmjeni Odluke o imenovanju clanova Odbora za razvoj sela i poljoprivrede Skupstine opstine Pljevlja | [`odluka/2011/301399/`](odluka/2011/301399/) | in force | 1 | 2011-07-21 | 2011-07-21 |
+| Odluka o uskladjivanju penzija i novcanih naknada od 1. januara 2011. godine | [`odluka/2011/301405/`](odluka/2011/301405/) | in force | 1 | 2011-02-26 | 2011-02-26 |
+| Odluka o donosenju Lokalnog akcionog plana za mlade u Opstini Niksic (2011-2016) | [`odluka/2011/301408/`](odluka/2011/301408/) | in force | 1 | 2011-01-27 | 2011-01-27 |
+| Odluka o obrazovanju Komisije za procjenu rizika za aerodrome Podgorica i Tivat | [`odluka/2011/301457/`](odluka/2011/301457/) | in force | 1 | 2011-09-30 | 2011-09-30 |
+| Odluka o izmjeni Odluke o uredjenju saobracaja na putevima u Opstini Bar | [`odluka/2011/301486/`](odluka/2011/301486/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o usvajanju Visegodisnjeg investicionog plana razvoja Opstine Pljevlja za period 2011- 2015. godine | [`odluka/2011/301500/`](odluka/2011/301500/) | in force | 1 | 2011-07-29 | 2011-07-29 |
+| Odluka o utvrđivanju prioritetnih turističkih lokaliteta | [`odluka/2011/301529/`](odluka/2011/301529/) | in force | 1 | 2011-12-31 | 2011-12-31 |
+| Odluka o privremenom finansiranju potreba Budžeta Opštine Andrijevica za period januar-mart 2012. godine | [`odluka/2011/301546/`](odluka/2011/301546/) | in force | 1 | 2011-12-28 | 2011-12-28 |
+| Odluka o Lokalnoj studiji lokacije Vilusi | [`odluka/2011/301548/`](odluka/2011/301548/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o oslobadjanju od placanja naknade za uredjivanje gradskog gradjevinskog zemljista | [`odluka/2011/301603/`](odluka/2011/301603/) | in force | 1 | 2011-07-21 | 2011-07-21 |
+| Odluka o Detaljnom urbanistickom planu Staro pazariste | [`odluka/2011/301635/`](odluka/2011/301635/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o prestanku vazenja Odluke o porezu na potrosnju | [`odluka/2011/301740/`](odluka/2011/301740/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o donosenju Lokalnog plana akcija za mlade za period 2011-2016 godina, sa Akcionim planom za 2011.godinu | [`odluka/2011/301768/`](odluka/2011/301768/) | in force | 1 | 2011-03-14 | 2011-03-14 |
+| Odluka o ustupanju nepokretnosti bez naknade u KO Glavica | [`odluka/2011/301821/`](odluka/2011/301821/) | in force | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o imenovanju Komisije za raspodjelu sredstva namijenjenih za sport i transfere nevladinih organizacija | [`odluka/2011/301914/`](odluka/2011/301914/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o nabavci putnickog motornog vozila | [`odluka/2011/301916/`](odluka/2011/301916/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o odredjivanju privremene lokacije za deponovanje komunalnog otpada | [`odluka/2011/301926/`](odluka/2011/301926/) | in force | 1 | 2011-10-28 | 2011-10-28 |
+| Odluka o davanju suma u drzavnoj svojini na koriscenje prodajom drveta u dubecem stanju, za 2011. godinu | [`odluka/2011/302005/`](odluka/2011/302005/) | in force | 1 | 2011-10-08 | 2011-10-08 |
+| Odluka o otvaranju Konzulata Crne Gore u Japanu | [`odluka/2011/302008/`](odluka/2011/302008/) | in force | 1 | 2011-12-03 | 2011-12-03 |
+| Odluka o sufinansiranju stambeno-poslovnog objekta u Pluzinama | [`odluka/2011/302033/`](odluka/2011/302033/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| O D L U K A o izmjenama i dopunama Detaljnog urbanistickog plana ’’Blok 14’’ u Podgorici | [`odluka/2011/302034/`](odluka/2011/302034/) | amending act | 1 | 2011-05-14 | 2011-05-14 |
+| Odluka o usvajanju Lokalnog plana akcije za razvoj socijalnih usluga za djecu i mlade u Pljevljima 2011 -2015 | [`odluka/2011/302035/`](odluka/2011/302035/) | in force | 1 | 2011-07-29 | 2011-07-29 |
+| Odluka o izmjenama i dopunama Odluke o obrazovanju radnih tijela | [`odluka/2011/302036/`](odluka/2011/302036/) | amending act | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o donošenju Strategije odrzivog razvoja Opstine Danilovgrad | [`odluka/2011/302069/`](odluka/2011/302069/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o otvaranju konzulata Crne Gore u Kraljevini Holandiji | [`odluka/2011/302084/`](odluka/2011/302084/) | in force | 1 | 2011-03-12 | 2011-03-12 |
+| Odluka o ustupanju na upravljanje i odrzavanje izgradjenih vodovodnih podsistema Ravni - Juskovica potok | [`odluka/2011/302086/`](odluka/2011/302086/) | in force | 1 | 2011-07-21 | 2011-07-21 |
+| Odluka o donosenju Lokalne studije lokacije za mjesno groblje u Ratisevini | [`odluka/2011/302112/`](odluka/2011/302112/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka o verifikaciji Odluke o izmjenama i dopunama Odluke o zaduzenju za kupovinu osnovnog sredstva | [`odluka/2011/302114/`](odluka/2011/302114/) | amending act | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o davanju saglasnosti na imenovanje potpredsjednika Opstine Ulcinj | [`odluka/2011/302229/`](odluka/2011/302229/) | in force | 1 | 2011-11-18 | 2011-11-18 |
+| Odluka o davanju zemljista na koriscenje | [`odluka/2011/302276/`](odluka/2011/302276/) | in force | 1 | 2011-09-15 | 2011-09-15 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora Javnog preduzeca "Vodovod i kanalizacija" Herceg Novi o raspolaganju imovinom | [`odluka/2011/302314/`](odluka/2011/302314/) | in force | 1 | 2011-12-09 | 2011-12-09 |
+| Odluka o dopuni Plana postavljanja privremenih objekata za 2011. godinu | [`odluka/2011/302316/`](odluka/2011/302316/) | amending act | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o potrebi izrade Strateske procjene uticaja na zivotnu sredinu za Urbanisticki projekat "Przno II" | [`odluka/2011/302392/`](odluka/2011/302392/) | in force | 1 | 2011-03-04 | 2011-03-04 |
+| Odluka o donosenju Detaljnog urbanistickog plana »Busat« | [`odluka/2011/302415/`](odluka/2011/302415/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjenama i dopunama Odluke o zaradama sluzbenika i namjestenika Opstine Pluzine | [`odluka/2011/302418/`](odluka/2011/302418/) | amending act | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o davanju saglasnosti na imenovanje potpredsjednika Opstine Mojkovac | [`odluka/2011/302434/`](odluka/2011/302434/) | in force | 1 | 2011-04-08 | 2011-04-08 |
+| Odluka o davanju saglasnosti na Rjesenje predsjednika Opstine o imenovanju Glavnog administratora | [`odluka/2011/302535/`](odluka/2011/302535/) | in force | 1 | 2011-11-24 | 2011-11-24 |
+| Odluka o imenovanju projekt menadzera | [`odluka/2011/302553/`](odluka/2011/302553/) | in force | 1 | 2011-06-16 | 2011-06-16 |
+| Odluka o nepreduzimanju izrade strateske procjene uticaja na zivotnu sredinu Izmjena i dopuna Urbanistickog projekta Trga Slobode | [`odluka/2011/302554/`](odluka/2011/302554/) | amending act | 1 | 2011-02-23 | 2011-02-23 |
+| Odluka o razrjesenju clana Savjeta za razvoj i zastitu lokalne samouprave | [`odluka/2011/302555/`](odluka/2011/302555/) | in force | 1 | 2011-10-28 | 2011-10-28 |
+| Odluka o izmjeni i dopuni Odluke o porezu na nepokretnosti | [`odluka/2011/302641/`](odluka/2011/302641/) | amending act | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o prodaji - prenosu prava svojine na nepokretnostima | [`odluka/2011/302645/`](odluka/2011/302645/) | in force | 1 | 2011-12-13 | 2011-12-13 |
+| Odluka Ustavnog suda Crne Gore, U br. 12/08 | [`odluka/2011/302670/`](odluka/2011/302670/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka o otvaranju Ambasade Crne Gore u Ukrajini | [`odluka/2011/302672/`](odluka/2011/302672/) | in force | 1 | 2011-10-08 | 2011-10-08 |
+| Odluka o izboru predsjednika i clanova Savjeta za rodnu ravnopravnost | [`odluka/2011/302674/`](odluka/2011/302674/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javnog preduzeca "Zelenilo" - Podgorica | [`odluka/2011/302771/`](odluka/2011/302771/) | amending act | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o donosenju Detaljnog urbanistickog plana "PERAZICA DO" | [`odluka/2011/302853/`](odluka/2011/302853/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o Budzetu Opstine Zabljak za 2011. god | [`odluka/2011/302857/`](odluka/2011/302857/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Javne ustanove Kulturno-informativni centar Zeta | [`odluka/2011/302888/`](odluka/2011/302888/) | amending act | 1 | 2011-09-21 | 2011-09-21 |
+| Odluka o usvajanju Lokalnog Akcionog Plana za biodiverzitet Opstine Pljevlja (LBAP-a).. | [`odluka/2011/302889/`](odluka/2011/302889/) | in force | 1 | 2011-05-06 | 2011-05-06 |
+| Odluka o davanju saglasnosti na Plan i Program rada JP "Sportski centar" Kolasin sa Finansijskim planom za 2011. godinu | [`odluka/2011/302937/`](odluka/2011/302937/) | in force | 1 | 2011-09-07 | 2011-09-07 |
+| Odluka o izboru predsjednika Opstine Mojkovac | [`odluka/2011/302969/`](odluka/2011/302969/) | in force | 1 | 2011-09-07 | 2011-09-07 |
+| Odluka o donosenju Lokalne studije lokacije "Alhambra - Maljevic" | [`odluka/2011/302996/`](odluka/2011/302996/) | in force | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti | [`odluka/2011/303020/`](odluka/2011/303020/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o prestanku vazenja Odluke o porezu na firmu | [`odluka/2011/303030/`](odluka/2011/303030/) | in force | 1 | 2011-12-13 | 2011-12-13 |
+| Odluka o oslobadjanju placanja obaveza po osnovu poreza na nepokretnosti - poljoprivredno zemljiste za 2011. godinu | [`odluka/2011/303032/`](odluka/2011/303032/) | in force | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka o prodaji nepokretnosti | [`odluka/2011/303036/`](odluka/2011/303036/) | in force | 1 | 2011-12-13 | 2011-12-13 |
+| Odluka o imenovanju Projekt Menadzera za opstinski razvojni grant za male infrastrukturne projekte finansiran od Delegacije Evropske Unije | [`odluka/2011/303327/`](odluka/2011/303327/) | in force | 1 | 2011-07-11 | 2011-07-11 |
+| Odluka o imenovanju Upravnog odbora Javnog preduzeća "Komunalno" Danilovgrad | [`odluka/2011/303330/`](odluka/2011/303330/) | in force | 1 | 2011-12-30 | 2011-12-30 |
+| Odluka o usvajanju Koncesionog akta "Regionalna sanitarna deponija Vasov Do" | [`odluka/2011/303536/`](odluka/2011/303536/) | in force | 1 | 2011-11-26 | 2011-11-26 |
+| Odluka o davanju saglasnosti na Statut JP "Vodovod i kanalizacija" Ulcinj | [`odluka/2011/303626/`](odluka/2011/303626/) | in force | 1 | 2011-12-24 | 2011-12-24 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "MILINO BRDO" | [`odluka/2011/303719/`](odluka/2011/303719/) | in force | 1 | 2011-12-02 | 2011-12-02 |
+| Odluka o prestanku vazenja Odluke o obrazovanju Foruma za politicku koordinaciju upravne reforme u Crnoj Gori | [`odluka/2011/303720/`](odluka/2011/303720/) | in force | 1 | 2011-04-15 | 2011-04-15 |
+| Odluka o izmjeni Odluke o imenovanju clanova Savjeta za davanje predloga naziva naselja, ulica i trgova Skupstine opstine Pljevlja | [`odluka/2011/303722/`](odluka/2011/303722/) | in force | 1 | 2011-07-21 | 2011-07-21 |
+| Odluka o davanju saglasnosti na Program rada i Finansijski plan Turisticke organizacije Kolasin za 2011. godinu | [`odluka/2011/303778/`](odluka/2011/303778/) | in force | 1 | 2011-09-07 | 2011-09-07 |
+| Odluka o dopuni Programa uredjenja prostora Opstine Niksic za 2011.godinu | [`odluka/2011/303783/`](odluka/2011/303783/) | amending act | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o kratkorocnom zaduzivanju Opstine Kotor | [`odluka/2011/303841/`](odluka/2011/303841/) | in force | 1 | 2011-04-18 | 2011-04-18 |
+| Odluka o formiranju Savjetodavnog odbora | [`odluka/2011/303846/`](odluka/2011/303846/) | in force | 1 | 2011-10-22 | 2011-10-22 |
+| Odluka o davanju saglasnosti na Odluku UO JP "Sportski centar" Rozaje za izbor direktora | [`odluka/2011/303870/`](odluka/2011/303870/) | in force | 1 | 2011-07-07 | 2011-07-07 |
+| Odluka o izmjeni Odluke o nacinu koriscenja i odrzavanja pijaca | [`odluka/2011/303871/`](odluka/2011/303871/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjeni Odluke o javnom redu i miru | [`odluka/2011/303900/`](odluka/2011/303900/) | in force | 1 | 2011-01-14 | 2011-01-14 |
+| Odluka o donosenju Lokalne studije lokacije "Kocista-Brguli" na Lustici | [`odluka/2011/303930/`](odluka/2011/303930/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka o izradi izmjena i dopuna DUP-a Plav "Glavice"za parcelu 147/1-6 KO Plav | [`odluka/2011/303932/`](odluka/2011/303932/) | amending act | 1 | 2011-03-03 | 2011-03-03 |
+| Odluka o nepreduzimanju izrade strateske procjene uticaja na zivotnu sredinu Izmjena i dopuna dijela Detaljnog urbanistickog plana Mrkosnica 1 | [`odluka/2011/303965/`](odluka/2011/303965/) | amending act | 1 | 2011-02-23 | 2011-02-23 |
+| Odluka o davanju saglasnosti na Finansijski plan JP "Vodovod i kanalizacija" Kolasin za 2011. godinu | [`odluka/2011/304076/`](odluka/2011/304076/) | in force | 1 | 2011-09-07 | 2011-09-07 |
+| Odluka o izmjenama Odluke o uvođenju izletničke takse | [`odluka/2011/304079/`](odluka/2011/304079/) | in force | 1 | 2011-12-28 | 2011-12-28 |
+| Odluka o donosenju lokalne studije lokacije "Smrcje" | [`odluka/2011/304080/`](odluka/2011/304080/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o prestanku vasenja Odluke o porezu na potrosnju | [`odluka/2011/304086/`](odluka/2011/304086/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o izradi Drzavne studije lokacije "Dio sektora 58 - Turisticki kompleks Ponta " - Ruza vjetrova | [`odluka/2011/304088/`](odluka/2011/304088/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka o prestanku vazenja Odluke o porezu na igre na srecu i zabavne igre | [`odluka/2011/304118/`](odluka/2011/304118/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o kreditnom zaduzenju Opstine Budva | [`odluka/2011/304261/`](odluka/2011/304261/) | in force | 1 | 2011-03-04 | 2011-03-04 |
+| Odluka o izboru clanova Savjeta za razvoj i zastitu lokalne samouprave | [`odluka/2011/304264/`](odluka/2011/304264/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o uspostavljanju saradnje izmedju Prijestonice Cetinje i Grada Harkova | [`odluka/2011/304296/`](odluka/2011/304296/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o imenovanju Savjeta Lokalnog javnog emitera Radio - televizija Pljevlja | [`odluka/2011/304317/`](odluka/2011/304317/) | in force | 1 | 2011-10-06 | 2011-10-06 |
+| Odluka o nacinu i postupku obrazovanja Komisije za utvrdjivanje stanja u JLRDS "Radio Cetinje" | [`odluka/2011/304326/`](odluka/2011/304326/) | in force | 1 | 2011-04-08 | 2011-04-08 |
+| Odluka o izmjenama Odluke o porezu na nepokretnosti | [`odluka/2011/304327/`](odluka/2011/304327/) | in force | 1 | 2011-03-22 | 2011-03-22 |
+| Odluka Ustavnog suda Crne Gore, U-I br.17/10 | [`odluka/2011/304328/`](odluka/2011/304328/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka o organizovanju Lokalnog javnog emitera Radio Danilovgrad | [`odluka/2011/304391/`](odluka/2011/304391/) | in force | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o opterecenju imovine hipotekom | [`odluka/2011/304453/`](odluka/2011/304453/) | in force | 1 | 2011-01-19 | 2011-01-19 |
+| Odluka o razrjesenju jednog clana Upravnog odbora JP "Vodovod i kanalizacija " Cetinje | [`odluka/2011/304568/`](odluka/2011/304568/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o privremenom finansiranju potreba Budzeta Opstine Ulcinj za period januar - mart 2011. godine | [`odluka/2011/304675/`](odluka/2011/304675/) | in force | 1 | 2011-01-28 | 2011-01-28 |
+| Odluka o uskladjivanju osnova za odredjivanje novcane naknade za tjelesno ostecenje od 1. januara 2011. godine | [`odluka/2011/304708/`](odluka/2011/304708/) | in force | 1 | 2011-02-26 | 2011-02-26 |
+| Odluka o usvajanju Godisnjeg plana koncesija koncedenta Opstine Berane | [`odluka/2011/304715/`](odluka/2011/304715/) | in force | 1 | 2011-11-26 | 2011-11-26 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele 7.3 DUP BECICI | [`odluka/2011/304737/`](odluka/2011/304737/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o prestanku vazenja Odluke o porezu na potrosnju | [`odluka/2011/304831/`](odluka/2011/304831/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o finansiranju grubih gradjevinskih radova na izgradnji stambenih jedinica na potkrovlju stambene zgrade ’’Morava’’ | [`odluka/2011/304888/`](odluka/2011/304888/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju Savjeta Lokalnog javnog emitera Radio - televizije Pljevlja | [`odluka/2011/304889/`](odluka/2011/304889/) | amending act | 1 | 2011-10-28 | 2011-10-28 |
+| Odluka o potvrdjivanju rjesenja | [`odluka/2011/305017/`](odluka/2011/305017/) | in force | 1 | 2011-12-24 | 2011-12-24 |
+| Odluka o usvajanju Koncesionog akta ’’Regionalna sanitarna deponija Vasov Do’’ | [`odluka/2011/305097/`](odluka/2011/305097/) | in force | 1 | 2011-12-28 | 2011-12-28 |
+| Odluka o davanju saglasnosti na Rjesenje predsjednika Opstine o imenovanju potpredsjednika Opstine | [`odluka/2011/305199/`](odluka/2011/305199/) | in force | 1 | 2011-10-28 | 2011-10-28 |
+| Odluka o izmjeni Odluke o razmjeni nepokretnosti | [`odluka/2011/305396/`](odluka/2011/305396/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjenama Odluke o lokalnim administrativnim taksama | [`odluka/2011/305397/`](odluka/2011/305397/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o izboru predsjednika Opstine Pljevlja | [`odluka/2011/305424/`](odluka/2011/305424/) | in force | 1 | 2011-09-13 | 2011-09-13 |
+| Odluka o zaduzivanju Prijestonice Cetinje | [`odluka/2011/305426/`](odluka/2011/305426/) | in force | 1 | 2011-06-03 | 2011-06-03 |
+| Odluka o ustupanju na upravljanje i odrzavanje izgradjenih vodovodnih podsistema Tutici | [`odluka/2011/305598/`](odluka/2011/305598/) | in force | 1 | 2011-07-21 | 2011-07-21 |
+| Odluka o donosenju Plana upravljanja otpadom Opstine Zabljak za period od 2010. do 2014. godine | [`odluka/2011/305708/`](odluka/2011/305708/) | in force | 1 | 2011-01-27 | 2011-01-27 |
+| Odluka o izboru jednog clana Savjeta za razvoj i zastitu lokalne samouprave | [`odluka/2011/305738/`](odluka/2011/305738/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o Izmjenama i dopunama Urbanistickog projekta "Klinicki centar" u Podgorici | [`odluka/2011/305809/`](odluka/2011/305809/) | amending act | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o donosenju Detaljnog urbanistickog Plana Golf i Donji Radovici zapad | [`odluka/2011/305934/`](odluka/2011/305934/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o nacinu i uslovima posredovanja pri izdavanju soba i drugih kapaciteta turistima na utvrdjenom prostoru | [`odluka/2011/305984/`](odluka/2011/305984/) | in force | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o imenovanju jednog clana Upravnog odbora JP "Vodovod i kanalizacija" Cetinje | [`odluka/2011/305991/`](odluka/2011/305991/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka, broj 0304 - 80 | [`odluka/2011/305992/`](odluka/2011/305992/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o prestanku vazenja Odluke o porezu | [`odluka/2011/306063/`](odluka/2011/306063/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o davanju saglasnosti na Ugovor o načinu izvršenja potraživanja između Opštine Herceg Novi i Općine Konavle za korišćenje i održavanje cjevovoda na dionici Plat-Debeli brijeg broj:01-1-936/11 od 14.12.2011.godine | [`odluka/2011/306084/`](odluka/2011/306084/) | in force | 1 | 2011-12-23 | 2011-12-23 |
+| Odluka o davanju saglasnosti na imenovanje glavne administratorke | [`odluka/2011/306091/`](odluka/2011/306091/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o Zavrsnom racunu Budzeta Opstine Bar za 2010. godinu | [`odluka/2011/306303/`](odluka/2011/306303/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora Javnog komunalno-zanatskog preduzeca Danilovgrad o statusnoj promjeni Preduzeca | [`odluka/2011/306323/`](odluka/2011/306323/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o davanju saglasnosti na Odluku o izboru izvrsnog direktora Agencije za stambeno - poslovni fond d.o.o. Pljevlja | [`odluka/2011/306328/`](odluka/2011/306328/) | in force | 1 | 2011-07-29 | 2011-07-29 |
+| Odluka o izmjenama Odluke o privremenim objektima | [`odluka/2011/306349/`](odluka/2011/306349/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Cukovac - Rijeka" | [`odluka/2011/306374/`](odluka/2011/306374/) | in force | 1 | 2011-08-16 | 2011-08-16 |
+| Odluka o izmjeni Odluke o obrazovanju Komisije za implementaciju Akcionog plana za sprovodjenje strategije reforme pravosudja 2007-2012. godine | [`odluka/2011/306404/`](odluka/2011/306404/) | in force | 1 | 2011-03-19 | 2011-03-19 |
+| Odluka o prenosu prava svojine na gradjevinsko zemljiste na Mirkovic Lidiju, Kovacević Vjeru, Kasalica Zanu, Bojovic Valentinu i Bojovic Milorada | [`odluka/2011/306527/`](odluka/2011/306527/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o obrazovanju Komisije za izradu prijedloga Poslovnika Skupstine Prijestonice Cetinje | [`odluka/2011/306540/`](odluka/2011/306540/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora JP "Sportski centar" - Berane | [`odluka/2011/306574/`](odluka/2011/306574/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o izmjeni i dopuni Odluke o mjesnim zajednicama | [`odluka/2011/306579/`](odluka/2011/306579/) | amending act | 1 | 2011-12-31 | 2011-12-31 |
+| Odluka o donosenju Izmjena i dopuna Detaljnog urbanistickog plana "Agropolimlje" | [`odluka/2011/306609/`](odluka/2011/306609/) | amending act | 1 | 2011-05-13 | 2011-05-13 |
+| Odluka o prestanku vazenja Odluke o porezu na firmu ili naziv | [`odluka/2011/306692/`](odluka/2011/306692/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o Urbanistickom projektu "Nova Varos - Blok E" u Podgorici | [`odluka/2011/306775/`](odluka/2011/306775/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o Energetskom bilansu Crne Gore za 2011. godinu | [`odluka/2011/306887/`](odluka/2011/306887/) | in force | 1 | 2011-01-26 | 2011-01-26 |
+| Odluka o izmjenama i dopunama Statuta Opstine Pljevlja | [`odluka/2011/306890/`](odluka/2011/306890/) | amending act | 1 | 2011-05-06 | 2011-05-06 |
+| Odluka o donosenju Lokalnog akcionog plana za postizanje rodne ravnopravnosti za period 2011 - 2012 | [`odluka/2011/306907/`](odluka/2011/306907/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o izmjeni i dopuni Odluke o izradi Izmjena i dopuna Detaljnog urbanistickog plana "DUBOVICA I" | [`odluka/2011/306908/`](odluka/2011/306908/) | amending act | 1 | 2011-09-15 | 2011-09-15 |
+| Odluka Ustavnog suda Crne Gore, U.br. 14/08 | [`odluka/2011/306917/`](odluka/2011/306917/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka o donosenju Lokalne studije lokacije Kolasin ,,Paljevine" | [`odluka/2011/307001/`](odluka/2011/307001/) | in force | 1 | 2011-10-14 | 2011-10-14 |
+| Odluka o prestanku vazenja Odluke o porezu na igre na srecu i zabavne igre | [`odluka/2011/307090/`](odluka/2011/307090/) | in force | 1 | 2011-12-13 | 2011-12-13 |
+| Odluka Ustavnog suda Crne Gore, U. br. 8/08 | [`odluka/2011/307775/`](odluka/2011/307775/) | in force | 1 | 2011-08-16 | 2011-08-16 |
+| Odluka o stavljanju van snage Odluke br. 0304-117 od 11.08.2008. godine | [`odluka/2011/307777/`](odluka/2011/307777/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o kreditnom zaduzenju Opstine Budva | [`odluka/2011/307939/`](odluka/2011/307939/) | in force | 1 | 2011-12-02 | 2011-12-02 |
+| Odluka o privremenom finansiranju Opstine Plav za period januar-mart 2011.godine | [`odluka/2011/308027/`](odluka/2011/308027/) | in force | 1 | 2011-02-05 | 2011-02-05 |
+| Odluka o stavljanju van snage Odluke o porezu na firmu ili naziv | [`odluka/2011/308123/`](odluka/2011/308123/) | in force | 1 | 2011-08-13 | 2011-08-13 |
+| Odluka o donosenju Lokalne studije lokacije "Zanjev do" | [`odluka/2011/308143/`](odluka/2011/308143/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o usvajanju Strategije zaposljavanja i razvoja ljudskih resursa Opstine Berane 2011 - 2015 | [`odluka/2011/308265/`](odluka/2011/308265/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o donosenju Lokalne studije lokacije "Trlica" | [`odluka/2011/308266/`](odluka/2011/308266/) | in force | 1 | 2011-04-07 | 2011-04-07 |
+| Odluka o donosenju Lokalne studije lokacije za sanitarnu deponiju "Duboki do" | [`odluka/2011/308270/`](odluka/2011/308270/) | in force | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka o utvrdjivanju broja potpredsjednika Opstine Mojkovac | [`odluka/2011/308272/`](odluka/2011/308272/) | in force | 1 | 2011-03-14 | 2011-03-14 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za potrebe izgradnje dijela Njegoseve ulice i lokalnog puta za naselje Ravni | [`odluka/2011/308342/`](odluka/2011/308342/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o davanju saglasnosti na prijedlog Aneksa I Ugovora o regulisanju medjusobnih odnosa po osnovu zajednickog ulaganja-sufinansiranja, izgradnje sportsko-rekreacionog centra (sportska hala) u Skaljarima | [`odluka/2011/308401/`](odluka/2011/308401/) | in force | 1 | 2011-11-08 | 2011-11-08 |
+| Odluka o otvaranju Ambasade Crne Gore u Rumuniji | [`odluka/2011/308402/`](odluka/2011/308402/) | in force | 1 | 2011-10-08 | 2011-10-08 |
+| Odluka o pristupanju izradi Strateske procjene uticaja na zivotnu sredinu za Lokalnu studiju lokacije ,,Bakovici" | [`odluka/2011/308455/`](odluka/2011/308455/) | in force | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka o zaduzivanju Opstine Berane | [`odluka/2011/308457/`](odluka/2011/308457/) | in force | 1 | 2011-07-27 | 2011-07-27 |
+| Odluka o izmjenama Odluke o utvrdjivanju visine naknade za koriscenje gradske kanalizacije | [`odluka/2011/308458/`](odluka/2011/308458/) | in force | 1 | 2011-03-12 | 2011-03-12 |
+| Odluka o usvajanju Lokalnog plana zastite zivotne sredine | [`odluka/2011/308593/`](odluka/2011/308593/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o izradi Izmjena i dopuna Detaljnog urbanistickog plana ,,Suho polje,, | [`odluka/2011/308601/`](odluka/2011/308601/) | amending act | 1 | 2011-05-06 | 2011-05-06 |
+| Odluka o davanju saglasnosti na Program rada JU "Centar za kulturu" Kolasin za 2011. godinu | [`odluka/2011/308658/`](odluka/2011/308658/) | in force | 1 | 2011-09-07 | 2011-09-07 |
+| Odluka o davanju saglasnosti na imenovanje potpredsjednika Opstine Ulcinj | [`odluka/2011/308779/`](odluka/2011/308779/) | in force | 1 | 2011-10-28 | 2011-10-28 |
+| Odluka o davanju saglasnosti na Statut JP "Vodovod i kanalizacija" Kolasin | [`odluka/2011/308893/`](odluka/2011/308893/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o izmjenama i dopunama dijela Detaljnog urbanistickog plana Mrkosnica 1 | [`odluka/2011/309220/`](odluka/2011/309220/) | amending act | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o prestanku vazenja Odluke o porezu na potrosnju | [`odluka/2011/309225/`](odluka/2011/309225/) | in force | 1 | 2011-12-13 | 2011-12-13 |
+| Odluka o izboru predsjednika i clanova Savjeta za prevenciju bolesti zavisnosti | [`odluka/2011/309309/`](odluka/2011/309309/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka o davanju saglasnosti na Odluku o izboru direktora JP "Vodovod". | [`odluka/2011/309332/`](odluka/2011/309332/) | in force | 1 | 2011-05-06 | 2011-05-06 |
+| Odluka o prestanku vazenja Odluke o prenosu prava svojine na gradjevinsko zemljiste na "Neckom" DOO Niksic | [`odluka/2011/309481/`](odluka/2011/309481/) | in force | 1 | 2011-01-27 | 2011-01-27 |
+| Odluka o hipoteci | [`odluka/2011/309510/`](odluka/2011/309510/) | in force | 1 | 2011-02-01 | 2011-02-01 |
+| Odluka o formiranju Sluzbe Skupstine | [`odluka/2011/317270/`](odluka/2011/317270/) | in force | 1 | 2011-10-21 | 2011-10-21 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele 54 u okviru DUP-a Przno - Kamenovo I dio | [`odluka/2011/317272/`](odluka/2011/317272/) | in force | 1 | 2011-12-24 | 2011-12-24 |
+| Odluka o rasporedu radnog vremena organa jedinice lokalne samouprave | [`odluka/2011/317395/`](odluka/2011/317395/) | in force | 1 | 2011-09-15 | 2011-09-15 |
+| Odluka o izmjenama i dopunama Odluke o izradi, upotrebi, cuvanju i unistavanju pecata | [`odluka/2011/317507/`](odluka/2011/317507/) | amending act | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka o izmjenama Statuta "Adriatic Holding" d.o.o. Budva | [`odluka/2011/317715/`](odluka/2011/317715/) | in force | 1 | 2011-10-04 | 2011-10-04 |
+| Odluka o broju zamjenika/ca zaštitnika/ce ljudskih prava i sloboda Crne Gore | [`odluka/2011/317724/`](odluka/2011/317724/) | in force | 1 | 2012-01-06 | 2012-01-06 |
+| Odluka o Lokalnoj studiji lokacije "Tresnjica" u Golubovcima | [`odluka/2011/317899/`](odluka/2011/317899/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka, broj: 0304 - 81 | [`odluka/2011/318051/`](odluka/2011/318051/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti radi prosirenja groblja u naselju Sula. | [`odluka/2011/318061/`](odluka/2011/318061/) | in force | 1 | 2011-05-06 | 2011-05-06 |
+| Odluka o davanju saglasnosti na imenovanje glavnog administratora Opstine Zabljak | [`odluka/2011/318072/`](odluka/2011/318072/) | in force | 1 | 2011-07-11 | 2011-07-11 |
+| Odluka o odredjivanju naziva ulica u Podgorici | [`odluka/2011/318083/`](odluka/2011/318083/) | in force | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o izmjeni Odluke o finansiranju politickih partija | [`odluka/2011/318085/`](odluka/2011/318085/) | in force | 1 | 2011-02-01 | 2011-02-01 |
+| Odluka o stavljanju van snage Odluke br.0304-166 od 11.11.2008. godine | [`odluka/2011/318167/`](odluka/2011/318167/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o privremenom finansiranju budzetskih korisnika Opstine Mojkovac za period 01.01. do 31.03.2011. godine | [`odluka/2011/318463/`](odluka/2011/318463/) | in force | 1 | 2011-01-28 | 2011-01-28 |
+| O D L U K A o Urbanistickom projektu ’’Srednja skola Golubovci" u Golubovcima | [`odluka/2011/318702/`](odluka/2011/318702/) | in force | 1 | 2011-05-14 | 2011-05-14 |
+| Odluka o odredjivanju nekategorisanih puteva na podrucju Opstine Danilovgrad | [`odluka/2011/318741/`](odluka/2011/318741/) | in force | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o prestanku vazenja Odluke o naknadi za inostrana drumska vozila u korist puteva | [`odluka/2011/318794/`](odluka/2011/318794/) | in force | 1 | 2011-10-08 | 2011-10-08 |
+| Odluka o proglasenju grada Tivta - Gradom maslinovog ulja | [`odluka/2011/318865/`](odluka/2011/318865/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju regionalnog puta Vilusi - Vracenovici, dionica Vilusi - Petrovici | [`odluka/2011/318944/`](odluka/2011/318944/) | in force | 1 | 2011-10-15 | 2011-10-15 |
+| Odluka o izmjenama Odluke o finansiranju politickih partija | [`odluka/2011/318945/`](odluka/2011/318945/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju magistralnog puta Podgorica - Bozaj, dionica Bozaj - Tuzi | [`odluka/2011/318951/`](odluka/2011/318951/) | in force | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o donosenju Izmjena i dopuna Detaljnog urbanistickog plana "Stara carsija" | [`odluka/2011/318968/`](odluka/2011/318968/) | amending act | 1 | 2011-07-29 | 2011-07-29 |
+| Odluka o donosenju izmjena i dopuna Generalnog urbanistickog plana Cetinja za prostor urbanistickog projekta "Stari Obod" u Cetinju | [`odluka/2011/319187/`](odluka/2011/319187/) | amending act | 1 | 2011-04-01 | 2011-04-01 |
+| Odluka o naknadi za rad clanova Eticke komisije za izabrane predstavnike i funkcionere i Eticke komisije za lokalne sluzbenike i namjestenike | [`odluka/2011/319264/`](odluka/2011/319264/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o usvajanju Plana zastite i spasavanja od pozara na teritoriji Opstine Tivat | [`odluka/2011/319289/`](odluka/2011/319289/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o izmjenama i dopunama Poslovnika o radu Skupstine opstine Andrijevica | [`odluka/2011/319291/`](odluka/2011/319291/) | amending act | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele 5 u bloku 28 u skladu sa DUP-om Podkosljun | [`odluka/2011/319500/`](odluka/2011/319500/) | in force | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o davanju saglasnosti na Program rada i Finansijski plan JP "Komunalno" Kolasin za 2011. godinu | [`odluka/2011/319513/`](odluka/2011/319513/) | in force | 1 | 2011-09-07 | 2011-09-07 |
+| Odluka o prestanku vazenja Odluke o porezu na potrosnju | [`odluka/2011/319728/`](odluka/2011/319728/) | in force | 1 | 2011-03-22 | 2011-03-22 |
+| Odluka o izboru Eticke komisije za izabrane predstavinke i funkcionere | [`odluka/2011/319761/`](odluka/2011/319761/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o izmjenama i dopunama Odluke o obrazovanju Koordinacionog tima za sprovodjenje programa "Cetinje - grad kulture 2010 - 2013" | [`odluka/2011/319792/`](odluka/2011/319792/) | amending act | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka o izmjenama i dopunama Odluke o ucescu u osnivanju ustanove visokog obrazovanja | [`odluka/2011/319946/`](odluka/2011/319946/) | amending act | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Agencije za stanovanje d.o.o Podgorica | [`odluka/2011/320083/`](odluka/2011/320083/) | amending act | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o izmjeni Odluke o privremenim objektima | [`odluka/2011/320304/`](odluka/2011/320304/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o visini stope za obracun redovne premije i nacinu obracuna redovne premije za 2012. godinu | [`odluka/2011/320341/`](odluka/2011/320341/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| Odluka o zakljucenju Sporazuma o regulisanju imovinsko-pravnih odnosa | [`odluka/2011/320543/`](odluka/2011/320543/) | in force | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka o prestanku vazenja Odluke o porezu na igre na srecu i zabavne igre | [`odluka/2011/320576/`](odluka/2011/320576/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o otvaranju Konzulata Crne Gore u Kraljevini Jordanu | [`odluka/2011/320579/`](odluka/2011/320579/) | in force | 1 | 2011-08-06 | 2011-08-06 |
+| Odluka o izmjenama i dopunama Statutarne odluke Gradske opstine Golubovci | [`odluka/2011/320592/`](odluka/2011/320592/) | amending act | 1 | 2011-08-13 | 2011-08-13 |
+| Odluka o usvajanju Programa rada Skupstine opstine Zabljak za 2011.godinu | [`odluka/2011/320862/`](odluka/2011/320862/) | in force | 1 | 2011-01-27 | 2011-01-27 |
+| Odluka o donosenju Izmjena i dopuna Detaljnog urbanistickog plana "Stari grad" | [`odluka/2011/320907/`](odluka/2011/320907/) | amending act | 1 | 2011-01-13 | 2011-01-13 |
+| Odluka o izmjeni Odluke o opstinskim i nekategorisanim putevima | [`odluka/2011/321017/`](odluka/2011/321017/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| O D L U K A o Urbanistickom projektu ’’Nova Varos - Blok H’’ u Podgorici | [`odluka/2011/321029/`](odluka/2011/321029/) | in force | 1 | 2011-05-14 | 2011-05-14 |
+| Odluka o utvrdjivanju Nacrta odluke o finansiranju Sluzbe zastite Opstine Zabljak | [`odluka/2011/321032/`](odluka/2011/321032/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o davanju saglasnosti na Odluku o izboru direktora JP "Cistoca" | [`odluka/2011/321061/`](odluka/2011/321061/) | in force | 1 | 2011-05-06 | 2011-05-06 |
+| Odluka o izradi Strateske procjene uticaja na zivotnu sredinu izmjena i dopuna Detaljnog urbanistickog plana i Urbanistickog projekta "Istorijskog jezgra" Cetinja | [`odluka/2011/321094/`](odluka/2011/321094/) | amending act | 1 | 2011-07-29 | 2011-07-29 |
+| Odluka o pribavljanju nepokretnosti | [`odluka/2011/321296/`](odluka/2011/321296/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o prenosu vlasništva nad osnovnim sredstvom-terenskim mv, vlasništvo Opštine Kolašin | [`odluka/2011/321318/`](odluka/2011/321318/) | in force | 1 | 2011-12-31 | 2011-12-31 |
+| Odluka o proglasenju Kotora - Gradom maslinovog ulja | [`odluka/2011/321542/`](odluka/2011/321542/) | in force | 1 | 2011-08-13 | 2011-08-13 |
+| Odluka o donosenju Strategije komunikacija Opstine Niksic (2011-2015) | [`odluka/2011/321588/`](odluka/2011/321588/) | in force | 1 | 2011-01-27 | 2011-01-27 |
+| Odluka o imenovanju Nadzornog odbora Javnog komunalno-zanatskog preduzeca Danilovgrad | [`odluka/2011/321643/`](odluka/2011/321643/) | in force | 1 | 2011-04-08 | 2011-04-08 |
+| Odluka o davanju saglasnosti na imenovanje Glavnog administratora Opstine Danilovgrad | [`odluka/2011/321677/`](odluka/2011/321677/) | in force | 1 | 2011-04-08 | 2011-04-08 |
+| Odluka o izmjeni Odluke o razmjeni nepokretnosti radi formiranja urbanisticke parcele (br. 0101-105/1 od 10.03.2010. godine) | [`odluka/2011/321733/`](odluka/2011/321733/) | in force | 1 | 2011-12-24 | 2011-12-24 |
+| Odluka o dopunama Odluke o zaduživanju i davanju garancija Crne Gore za 2011. godinu | [`odluka/2011/321735/`](odluka/2011/321735/) | amending act | 1 | 2011-12-30 | 2011-12-30 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele broj 1 u bloku 3 DUP Dubovica | [`odluka/2011/321760/`](odluka/2011/321760/) | in force | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o dugorocnom zaduzenju Opstine Pljevlja | [`odluka/2011/321919/`](odluka/2011/321919/) | in force | 1 | 2011-07-29 | 2011-07-29 |
+| Odluka o izmjeni Odluke o komunalnoj policiji | [`odluka/2011/321983/`](odluka/2011/321983/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o donosenju Detaljnog urbanistickog plana "Susanj - Zona rezerve" | [`odluka/2011/322007/`](odluka/2011/322007/) | in force | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka o Lokalnoj studiji lokacije Grahovo 2 | [`odluka/2011/322019/`](odluka/2011/322019/) | in force | 1 | 2011-01-27 | 2011-01-27 |
+| Odluka o izboru predsjednika i clanova Savjeta za saradnju sa nevladinim organizacijama | [`odluka/2011/322044/`](odluka/2011/322044/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka o broju studenata za upis na osnovne i specijalisticke studije Univerziteta Crne Gore za studijsku 2011/2012. godinu koji se finansiraju iz Budzeta Crne Gore | [`odluka/2011/322103/`](odluka/2011/322103/) | in force | 1 | 2011-06-23 | 2011-06-23 |
+| Odluka o utvrdjivanju nacrta Poslovnika o radu Skupstine opstine Rozaje | [`odluka/2011/322160/`](odluka/2011/322160/) | in force | 1 | 2011-12-02 | 2011-12-02 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice "Ljesnica" | [`odluka/2011/322184/`](odluka/2011/322184/) | in force | 1 | 2011-08-16 | 2011-08-16 |
+| Odluka o izmjenama Odluke o taxi prevozu | [`odluka/2011/322219/`](odluka/2011/322219/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o uskladjivanju vrijednosti penzije za jedan licni bod od 1. januara 2011. godine | [`odluka/2011/322252/`](odluka/2011/322252/) | in force | 1 | 2011-02-26 | 2011-02-26 |
+| O D L U K A o izgradnji objekata izvan zahvata detaljnih urbanistickih planova Plava | [`odluka/2011/322488/`](odluka/2011/322488/) | in force | 1 | 2011-05-06 | 2011-05-06 |
+| Odluka o izmjenama i dopunama Statuta Opstine Tivat | [`odluka/2011/322491/`](odluka/2011/322491/) | amending act | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o izradi Izmjena i dopuna Plana uredjenja naselja Gusinje | [`odluka/2011/322517/`](odluka/2011/322517/) | amending act | 1 | 2011-11-26 | 2011-11-26 |
+| Odluka o utvrdjivanju broja radnih dozvola za strance za 2012. godinu | [`odluka/2011/322541/`](odluka/2011/322541/) | in force | 1 | 2011-11-30 | 2011-11-30 |
+| Odluka o prenosu prava svojine na gradjevinsko zemljiste na Stanisic Anu | [`odluka/2011/322834/`](odluka/2011/322834/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o izmjenama Odluke o izgradnji pomocnih objekata | [`odluka/2011/323032/`](odluka/2011/323032/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o davanju saglasnosti na Odluku UO JP "Vodovod i kanalizacija" Kotor o razrjesenju duznosti v. d. direktora | [`odluka/2011/324309/`](odluka/2011/324309/) | in force | 1 | 2011-11-18 | 2011-11-18 |
+| Odluka o preuzimanju zaposlenih koju su obavljali poslove u institucijama drzavne zajednice Srbija i Crna Gora | [`odluka/2011/325241/`](odluka/2011/325241/) | in force | 1 | 2011-08-03 | 2011-08-03 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele 62 a.1 u bloku 62A u skladu sa DUP-om BECICI | [`odluka/2011/325493/`](odluka/2011/325493/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o izmjeni i dopuni Odluke o gradskom i prigradskom linijskom prevozu putnika | [`odluka/2011/325588/`](odluka/2011/325588/) | amending act | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o izmjeni Odluke o vodosnabdijevanju od lokalnog znacaja | [`odluka/2011/325596/`](odluka/2011/325596/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o donosenju Jednogodisnjeg programa uredjenja prostora Opstine Andrijevica za 2011. godinu | [`odluka/2011/325634/`](odluka/2011/325634/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o izmjenama i dopunama Odluke o uvodjenju poreza na nepokretnosti | [`odluka/2011/325655/`](odluka/2011/325655/) | amending act | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka o prenosu prava na nepokretnosti (dio katastarske parcele 1000/2 KO Petrovac-trafostanica Petrovac) | [`odluka/2011/325718/`](odluka/2011/325718/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o utvrdjivanju visine naknade za rad clanu Komisije za sprjecavanje sukoba interesa | [`odluka/2011/325746/`](odluka/2011/325746/) | in force | 1 | 2011-04-09 | 2011-04-09 |
+| Odluka o prestanku vazenja Odluke o zaradama i drugim primanjima lokalnih funkcionera i sekretara Skupstine Glavnog grada-Podgorice i Odluke o zaradama i drugim primanjima lokalnih funkcionera gradskih opstina Tuzi i Golubovci | [`odluka/2011/325747/`](odluka/2011/325747/) | in force | 1 | 2011-09-21 | 2011-09-21 |
+| Odluka o davanju u zakup javnim nadmetanjem gradjevinskog zemljista za postavljanje montaznih objekata privremenog karaktera | [`odluka/2011/325749/`](odluka/2011/325749/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o oslobađanju plaćanja obaveze po osnovu poreza na nepokretnosti na poljoprivredno zemljište za 2011. godinu | [`odluka/2011/325787/`](odluka/2011/325787/) | in force | 1 | 2012-01-07 | 2012-01-07 |
+| Odluka o davanju saglasnosti na Program rada JU Centar za kulturu "Nenad Rakocevic" Mojkovac za 2011. godinu | [`odluka/2011/325791/`](odluka/2011/325791/) | in force | 1 | 2011-07-21 | 2011-07-21 |
+| Odluka o dodjeli koncesije za eksploataciju rjecnih nanosa (sljunak i pijesak), na lokaciji "Lugovi II" (u duzini 490m, iz korita vodotoka, MZ Gornja Polja), vodotok Tara, Opstina Mojkovac | [`odluka/2011/325809/`](odluka/2011/325809/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o zaduzivanju Prijestonice Cetinje kod Investiciono razvojnog fonda | [`odluka/2011/325849/`](odluka/2011/325849/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o donosenju Detaljnog urbanistickog plana »Zeleni pojas« | [`odluka/2011/325850/`](odluka/2011/325850/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o usvajanju Strategije ruralnog razvoja Opstine Pljevlja 2011-2015 | [`odluka/2011/325896/`](odluka/2011/325896/) | in force | 1 | 2011-02-05 | 2011-02-05 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za izgradnju Autoputa Bar- Boljare, dionica Bioce - Uvac | [`odluka/2011/325920/`](odluka/2011/325920/) | in force | 1 | 2011-09-17 | 2011-09-17 |
+| Odluka o izmjeni Odluke o odvodjenju i preciscavanju fekalnih voda | [`odluka/2011/326019/`](odluka/2011/326019/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o davanju saglasnosti na Rjesenje predsjednika Opstine o imenovanju potpredsjednika Opstine | [`odluka/2011/326118/`](odluka/2011/326118/) | in force | 1 | 2011-10-28 | 2011-10-28 |
+| Odluka o izmjeni Odluke o komunalnom uredjenju grada | [`odluka/2011/326197/`](odluka/2011/326197/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti radi izgradnje podvoznjaka, kruzne saobracajnice i kolektora za preciscavanje otpadnih voda | [`odluka/2011/326226/`](odluka/2011/326226/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o izmjeni Odluke o obrazovanju Komisije za pracenje implementacije Zakonika o krivicnom postupku | [`odluka/2011/326299/`](odluka/2011/326299/) | in force | 1 | 2011-02-26 | 2011-02-26 |
+| Odluka o naknadi za rad clanova Savjeta za razvoj i zastitu lokalne samouprave | [`odluka/2011/326309/`](odluka/2011/326309/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o oslobadjanju placanja poreza na nepokretnosti fizickih lica na stanove i stambene objekte i poljoprivredno i sumsko zemljiste na seoskom podrucju za 2011. godinu | [`odluka/2011/326339/`](odluka/2011/326339/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o Lokalnoj studiji lokacije Rastoci | [`odluka/2011/326347/`](odluka/2011/326347/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o davanju saglasnosti na Odluku o izboru direktora JP za odrzavanje i zastitu lokalnih puteva | [`odluka/2011/326349/`](odluka/2011/326349/) | in force | 1 | 2011-05-06 | 2011-05-06 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Javne ustanove Kulturno-informativni centar Malesija | [`odluka/2011/326401/`](odluka/2011/326401/) | amending act | 1 | 2011-09-21 | 2011-09-21 |
+| Odluka o davanju saglasnosti na Statut JP "Komunalne djelatnosti" Ulcinj | [`odluka/2011/326417/`](odluka/2011/326417/) | in force | 1 | 2011-12-24 | 2011-12-24 |
+| Odluka o ustupanju nepokretnosti bez naknade i oslobadjanju obaveze placanja naknade za uredjivanje gradjevinskog zamljista u KO Danilovgrad | [`odluka/2011/326439/`](odluka/2011/326439/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju magistralnog puta Podgorica - Niksic, dionica raskrsnica "Branilovica" - petlja - benzinska pumpa "Euro petrol" | [`odluka/2011/326449/`](odluka/2011/326449/) | in force | 1 | 2011-01-19 | 2011-01-19 |
+| Odluka o razrješenju i izboru predsjednika Upravnog odbora i izboru člana Upravnog odbora JP "Komunalno" | [`odluka/2011/326456/`](odluka/2011/326456/) | in force | 1 | 2011-12-31 | 2011-12-31 |
+| Odluka o odobravanju tabela sa cijenama za elektricnu energiju koje ce se primjenjivati od 01. aprila 2011. do 31. marta 2012. godine | [`odluka/2011/326464/`](odluka/2011/326464/) | in force | 1 | 2011-03-19 | 2011-03-19 |
+| Odluka o prestanku važenja Odluke o porezu na igre na srecu i zabavne igre | [`odluka/2011/326550/`](odluka/2011/326550/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o donosenju Izmjena i dopuna Urbanistickog projekta "Jasikovac" | [`odluka/2011/326595/`](odluka/2011/326595/) | amending act | 1 | 2011-05-13 | 2011-05-13 |
+| Odluka o otvaranju Ambasade Crne Gore u Republici Bugarskoj | [`odluka/2011/326600/`](odluka/2011/326600/) | in force | 1 | 2011-10-08 | 2011-10-08 |
+| Odluka Ustavnog suda Crne Gore, U.br. 13/08 | [`odluka/2011/326629/`](odluka/2011/326629/) | in force | 1 | 2011-08-16 | 2011-08-16 |
+| Odluka o otvaranju Konzulata Crne Gore u Republici Sloveniji | [`odluka/2011/326634/`](odluka/2011/326634/) | in force | 1 | 2011-12-22 | 2011-12-22 |
+| Odluka o relevantnim trzistima usluga koja su predmet provjere ispunjenosti testa tri kriterijuma | [`odluka/2011/326652/`](odluka/2011/326652/) | in force | 1 | 2011-04-15 | 2011-04-15 |
+| Odluka o davanju saglasnosti na Program rada i finansijski plan JKP "Gradac" Mojkovac za 2011. godinu | [`odluka/2011/326740/`](odluka/2011/326740/) | in force | 1 | 2011-07-21 | 2011-07-21 |
+| Odluka o izradi Izmjena i dopuna Prostornog plana Opštine Cetinje za prostor Lokalne studije lokacije "Jankovića krš" | [`odluka/2011/326831/`](odluka/2011/326831/) | amending act | 1 | 2011-12-31 | 2011-12-31 |
+| Odluka o izmjenama Odluke o utvrdjivanju stope poreza na nepokretnosti i trzisne vrijednosti nepokretnosti | [`odluka/2011/326877/`](odluka/2011/326877/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o davanju saglasnosti na Program rada i Finansijski plan Turisticke organizacije Mojkovac za 2011. godinu | [`odluka/2011/326881/`](odluka/2011/326881/) | in force | 1 | 2011-10-28 | 2011-10-28 |
+| Odluka, broj: 0304 - 242 | [`odluka/2011/326947/`](odluka/2011/326947/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele 52 DUP Skocidjevojka | [`odluka/2011/327069/`](odluka/2011/327069/) | in force | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti na poluostrvu Lustica, na podrucju kamenoloma | [`odluka/2011/327210/`](odluka/2011/327210/) | in force | 1 | 2011-08-30 | 2011-08-30 |
+| Odluka o izboru predsjednika i clanova Eticke komisije za lokalne sluzbenike i namjestenike | [`odluka/2011/327277/`](odluka/2011/327277/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o imenovanju Komisije za odredjivanje lokacije gradskog groblja | [`odluka/2011/327294/`](odluka/2011/327294/) | in force | 1 | 2011-07-21 | 2011-07-21 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statutarne odluke Gradske opstine Golubovci | [`odluka/2011/327424/`](odluka/2011/327424/) | amending act | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o izmjeni i dopuni Odluke o usvajanju Programa investicionih aktivnosti Opstine Budva za 2011. godinu (»Sl.list CG - Opstinski propisi« br. 01/2011) | [`odluka/2011/327434/`](odluka/2011/327434/) | amending act | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o oslobadjanju placanja obaveza po osnovu poreza na nepokretnosti za poljoprivredno zemljiste koje se koristi u poljoprivredne svrhe u 2011.godini | [`odluka/2011/327491/`](odluka/2011/327491/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o prenosu prava svojine na građevinsko zemljište na Univerzitet Crne Gore - Filozofski fakultet | [`odluka/2011/327497/`](odluka/2011/327497/) | in force | 1 | 2012-01-05 | 2012-01-05 |
+| Odluka o davanju saglasnosti na predlog sudskog poravnanja u postupku pred Osnovnim sudom u Kotoru poslovni broj P.br.448/11 | [`odluka/2011/327521/`](odluka/2011/327521/) | in force | 1 | 2011-12-24 | 2011-12-24 |
+| Odluka o prestanku vazenja Odluke o obrazovanju Medjuresorskog odbora za operativnu koordinaciju upravne reforme u Crnoj Gori | [`odluka/2011/327570/`](odluka/2011/327570/) | in force | 1 | 2011-10-08 | 2011-10-08 |
+| Odluka o donosenju Lokalne studije lokacije "Poljane" | [`odluka/2011/327577/`](odluka/2011/327577/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o davanju saglasnosti na Odluku savjeta JU "Polimski muzej" - Berane | [`odluka/2011/327604/`](odluka/2011/327604/) | in force | 1 | 2011-10-04 | 2011-10-04 |
+| Odluka o davanju saglasnosti na Izvjestaj o radu Turisticke organizacije za 2010. godinu, Izvjestaj o finansijskom poslovanju za 2010. godinu i Program rada za 2011. godinu | [`odluka/2011/327699/`](odluka/2011/327699/) | in force | 1 | 2011-07-28 | 2011-07-28 |
+| Odluka o izmjenama i dopunama Odluke o zaduzenju za kupovinu osnovnog sredstva | [`odluka/2011/327753/`](odluka/2011/327753/) | amending act | 1 | 2011-05-06 | 2011-05-06 |
+| Odluka o prihvatanju inicijative za realizaciju sradnje sa gradom Trogirom, Republika Hrvatska | [`odluka/2011/327780/`](odluka/2011/327780/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o imenovanju clana savjeta JU Centar za kulturu "Nenad Rakocevic" Mojkovac | [`odluka/2011/329504/`](odluka/2011/329504/) | in force | 1 | 2011-10-28 | 2011-10-28 |
+| Odluka o stavljanju van snage Odluke o porezu na potrosnju | [`odluka/2011/329681/`](odluka/2011/329681/) | in force | 1 | 2011-08-13 | 2011-08-13 |
+| Odluka o izmjenama i dopunama Odluke o upotrebi simbola Opstine Bar | [`odluka/2011/330020/`](odluka/2011/330020/) | amending act | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javnog preduzeca "Cistoca" - Podgorica | [`odluka/2011/330036/`](odluka/2011/330036/) | amending act | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o izboru Eticke komisije za okalne službenike i namještenike | [`odluka/2011/330167/`](odluka/2011/330167/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o izmjeni Odluke o obrazovanju Koordinacionog odbora za pracenje implementacije Akcionog plana za rjesavanje statusa raseljenih lica iz bivsih jugoslovenskih republika i interno raseljenih lica sa Kosova koji borave u Crnoj Gori | [`odluka/2011/330325/`](odluka/2011/330325/) | in force | 1 | 2011-02-11 | 2011-02-11 |
+| O D L U K A o Urbanistickom projektu ’’Golubovci-dio cjeline 2.1 i 2.2 Balijace KO Golubovci’’ u Golubovcima | [`odluka/2011/330338/`](odluka/2011/330338/) | in force | 1 | 2011-05-14 | 2011-05-14 |
+| Odluka organizovanju Javnog preduzeca "Komunalno" Danilovgrad | [`odluka/2011/330361/`](odluka/2011/330361/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o objavljivanju Sporazuma izmedju Uprave carina Crne Gore i Uprave carina Republike Slovenije o nepovratnoj pomoci za projekat integrisane carinske tarife | [`odluka/2011/330448/`](odluka/2011/330448/) | in force | 1 | 2011-11-19 | 2011-11-19 |
+| Odluka o pristupanju izradi Strateske procjene uticaja na zivotnu sredinu za Detaljni urbanisticki plan ''Sportska zona'' | [`odluka/2011/330494/`](odluka/2011/330494/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o usvajanju Lokalnog plana upravljanja otpadom u Opstini Pljevlja za period 2010-2014 god. | [`odluka/2011/330552/`](odluka/2011/330552/) | in force | 1 | 2011-04-07 | 2011-04-07 |
+| Odluka o podizanju spomen-obiljezja Savu Lubardi | [`odluka/2011/330598/`](odluka/2011/330598/) | in force | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o prenosu prava koriscenja na gradjevinskom zemljistu na ROKSPED DOO Podgorica | [`odluka/2011/330646/`](odluka/2011/330646/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o donosenju Lokalne studije lokacije "Misici 1" | [`odluka/2011/330657/`](odluka/2011/330657/) | in force | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka o izmjenama Odluke o prenosu prava na gradskom gradjevinskom zemljistu Savezu sindikata Crne Gore - Opstinskom sindikalnom povjerenistvu Bar | [`odluka/2011/330760/`](odluka/2011/330760/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele broj 2 u bloku 10 prema DUP-u Dubovica | [`odluka/2011/330775/`](odluka/2011/330775/) | in force | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o izmjeni Odluke o pijacama | [`odluka/2011/330930/`](odluka/2011/330930/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju puta Gusinje - Grncar | [`odluka/2011/330976/`](odluka/2011/330976/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o prenosu prava svojine na osnovnim sredstvima | [`odluka/2011/331076/`](odluka/2011/331076/) | in force | 1 | 2011-12-31 | 2011-12-31 |
+| Odluka o donosenju Plana privremenih objekata Opstine Herceg Novi | [`odluka/2011/331151/`](odluka/2011/331151/) | in force | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka o izmjeni i dopuni Odluke o usvajanju Programa uredjenja prostora Opstine Budva za 2011. godinu | [`odluka/2011/331204/`](odluka/2011/331204/) | amending act | 1 | 2011-12-02 | 2011-12-02 |
+| Odluka o prestanku vazenja: Odluke o porezu na firmu ili naziv, Odluke o porezu na potrosnju i Odluke o porezu na igre na srecu i zabavne igre | [`odluka/2011/331406/`](odluka/2011/331406/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o izmjenama i dopunama Odluke o Savjetu za razvoj i zastitu lokalne samouprave | [`odluka/2011/331521/`](odluka/2011/331521/) | amending act | 1 | 2011-07-29 | 2011-07-29 |
+| Odluka Ustavnog suda Crne Gore, U-I br. 9/09 | [`odluka/2011/332895/`](odluka/2011/332895/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka o stavljanju van snage Odluke o porezu na igre na srecu i zabavne igre | [`odluka/2011/332950/`](odluka/2011/332950/) | in force | 1 | 2011-08-13 | 2011-08-13 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za uredjivanje gradjevinskog zemljista | [`odluka/2011/332980/`](odluka/2011/332980/) | amending act | 1 | 2011-01-22 | 2011-01-22 |
+| Odluka o izmjenama i dopunama Odluke o odrzavanju cistoce i komunalnom uredjenju grada | [`odluka/2011/333026/`](odluka/2011/333026/) | amending act | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o izradi Strateske procjene uticaja na zivotnu sredinu | [`odluka/2011/333217/`](odluka/2011/333217/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju Odbora za izbor i imenovanja Skupstine opstine Pljevlja | [`odluka/2011/333412/`](odluka/2011/333412/) | amending act | 1 | 2011-11-24 | 2011-11-24 |
+| Odluka o izmjeni Odluke o obrazovanju Savjeta za brigu o licima s invaliditetom | [`odluka/2011/333557/`](odluka/2011/333557/) | in force | 1 | 2011-02-26 | 2011-02-26 |
 | Odluka o izmjenama i dopunama Statuta drustva sa ogranicenom odgovornoscu "Crnogorski operator trzista elektricne energije" - Podgorica | [`odluka/2011/333593/`](odluka/2011/333593/) | amending act | 1 | 2011-12-24 | 2011-12-24 |
+| Odluka o prestanku vazenja Odluke o obrazovanju Savjeta za prostorno uredjenje | [`odluka/2011/334027/`](odluka/2011/334027/) | in force | 1 | 2011-03-12 | 2011-03-12 |
+| Odluka o operacijama na otvorenom trzistu | [`odluka/2011/334456/`](odluka/2011/334456/) | in force | 1 | 2011-03-24 | 2011-03-24 |
+| Odluka o blizim uslovima za davanje kredita bankama za odrzavanje likvidnosti | [`odluka/2011/334457/`](odluka/2011/334457/) | in force | 1 | 2011-03-24 | 2011-03-24 |
+| Odlukao izmjeni Odluke o osnivanju Savjeta za racunovodstvo i reviziju | [`odluka/2011/334461/`](odluka/2011/334461/) | in force | 1 | 2011-03-19 | 2011-03-19 |
+| Odluka o odobravanju finansijske pomoci u krajnjoj instanci | [`odluka/2011/334465/`](odluka/2011/334465/) | in force | 1 | 2011-03-24 | 2011-03-24 |
+| Odluka o nacinu i postupku vrsenja kontrole obavljanja platnog prometa u zemlji | [`odluka/2011/334473/`](odluka/2011/334473/) | in force | 1 | 2011-03-24 | 2011-03-24 |
+| Odluka o izmjenama Odluke o sadrzini Centralnog registra racuna | [`odluka/2011/334474/`](odluka/2011/334474/) | in force | 1 | 2011-03-24 | 2011-03-24 |
+| Odluka o izmjeni Odluke o evidenciji racuna za obavljanje poslova platnog prometa sa inostranstvom | [`odluka/2011/334481/`](odluka/2011/334481/) | in force | 1 | 2011-03-24 | 2011-03-24 |
+| Odluka o izmjenama i dopuni Odluke o strukturi racuna za izvrsavanje transfera sredstava i blizim uslovima i nacinu otvaranja i ukidanja tih racuna | [`odluka/2011/334482/`](odluka/2011/334482/) | amending act | 1 | 2011-03-24 | 2011-03-24 |
+| Odluka o visini rasporedu dijela sredstava popisnim komisijama za finansiranje pripreme, organizacije i sprovodjenja popisa stanovnistva, domacinstava i stanova u 2011.godini | [`odluka/2011/334534/`](odluka/2011/334534/) | in force | 1 | 2011-03-30 | 2011-03-30 |
+| Odluka o izmjenama i dopunama Poslovnika Nacionalne komisije za sprovodjenje Strategije za borbu protiv korupcije i organizovanog kriminala | [`odluka/2011/334603/`](odluka/2011/334603/) | amending act | 1 | 2011-04-15 | 2011-04-15 |
+| Odluka o snabdijevanju novcanicama i kovanim novcem | [`odluka/2011/334769/`](odluka/2011/334769/) | in force | 1 | 2011-04-15 | 2011-04-15 |
+| Odluka o produzenju koncesije za priredjivanje posebnih igara na srecu | [`odluka/2011/335398/`](odluka/2011/335398/) | in force | 1 | 2011-06-17 | 2011-06-17 |
+| Odluka o statusnoj promjeni Javne ustanove Osnovna skola "Milan Vukotic" u Golubovcima | [`odluka/2011/336392/`](odluka/2011/336392/) | in force | 1 | 2011-08-16 | 2011-08-16 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju raskrsnice Ribarevine | [`odluka/2011/336514/`](odluka/2011/336514/) | in force | 1 | 2011-08-30 | 2011-08-30 |
+| Odluka o visini naknada za clanove Odbora direktora drustva sa ogranicenom odgovornoscu "Crnogorski operator trzista elektricne energije" - Podgorica | [`odluka/2011/336618/`](odluka/2011/336618/) | in force | 1 | 2011-10-01 | 2011-10-01 |
+| Odluka o utvrdjivanju indikativnog cilja poboljsanja energetske efikasnosti | [`odluka/2011/336880/`](odluka/2011/336880/) | in force | 1 | 2011-10-08 | 2011-10-08 |
+| Odluka o prestanku vazenja Odluke o kriterijumima za utvrdjivanje posebne naknade clanovima Vlade Crne Gore | [`odluka/2011/336881/`](odluka/2011/336881/) | in force | 1 | 2011-10-01 | 2011-10-01 |
+| Odluka o izmjenama i dopunama Odluke o djelokrugu rada i sastavu Savjeta za privatizaciju | [`odluka/2011/337025/`](odluka/2011/337025/) | amending act | 1 | 2011-01-18 | 2011-01-18 |
+| Odluka o restrukturiranju Poste Crne Gore DOO Podgorica promjenom organizacionog oblika u akcionarsko drustvo | [`odluka/2011/337284/`](odluka/2011/337284/) | in force | 1 | 2011-12-06 | 2011-12-06 |
+| Odluka o oduzimanju prava na eksploataciju morske soli na ležištu "Štojska Kneta" Opstina Ulcinj | [`odluka/2011/337545/`](odluka/2011/337545/) | in force | 1 | 2011-12-31 | 2011-12-31 |
 | Odluka o osnivanju jednoclanog Akcionarskog drustva Posta Crne Gore Podgorica | [`odluka/2011/337606/`](odluka/2011/337606/) | in force | 1 | 2011-12-16 | 2011-12-16 |
 | Odluka o izmjenama Odluke o osnivanju drustva sa ogranicenom odgovornoscu "Crnogorski operator trzista elektricne energije" - Podgorica | [`odluka/2011/337611/`](odluka/2011/337611/) | in force | 1 | 2011-12-24 | 2011-12-24 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Fonda za manjine | [`odluka/2011/337982/`](odluka/2011/337982/) | amending act | 1 | 2012-01-06 | 2012-01-06 |
+| Odluka o davanju saglasnosti na imenovanje zamjenika gradonacelnika Prijestonice Cetinje | [`odluka/2011/338866/`](odluka/2011/338866/) | in force | 1 | 2011-03-24 | 2011-03-24 |
+| Odluka o pristupanju reorganizaciji javnih preduzeca | [`odluka/2011/339116/`](odluka/2011/339116/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o izmjenama Odluke o porezu na nepokretnosti | [`odluka/2011/339128/`](odluka/2011/339128/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o izmjeni Odluke o lokalnim komunalnim taksama | [`odluka/2011/339129/`](odluka/2011/339129/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o izmjenama Odluke o najnizem iznosu zakupnine poslovnog prostora i zemljista na kojem opstina ima pravo svojine | [`odluka/2011/339140/`](odluka/2011/339140/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o prestanku vazenja Odluke o porezu na firmu ili naziv | [`odluka/2011/339141/`](odluka/2011/339141/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o donosenju izmjena i dopuna DUP "Strazica" | [`odluka/2011/339265/`](odluka/2011/339265/) | amending act | 1 | 2011-04-07 | 2011-04-07 |
+| Odluka o donosenju Detaljnog urbanistickog plana "Radosavac" | [`odluka/2011/339266/`](odluka/2011/339266/) | in force | 1 | 2011-04-07 | 2011-04-07 |
+| Odluka o organizovanju JU Narodna biblioteka "Stevan Samardzic" | [`odluka/2011/339267/`](odluka/2011/339267/) | in force | 1 | 2011-04-07 | 2011-04-07 |
+| Odluka o organizovanju JU Zavicajni muzej Pljevlja | [`odluka/2011/339282/`](odluka/2011/339282/) | in force | 1 | 2011-04-07 | 2011-04-07 |
+| Odluka o organizovanju JU Umjetnicka galerija "Vitomir Srbljanovic" | [`odluka/2011/339283/`](odluka/2011/339283/) | in force | 1 | 2011-04-07 | 2011-04-07 |
+| Odluka o stavljanju van snage Odluke o porezu na firmu ili naziv | [`odluka/2011/339396/`](odluka/2011/339396/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o stavljanju van snage Odluke o porezu na potrosnju | [`odluka/2011/339397/`](odluka/2011/339397/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o imenovanju Upravnog odbora Javnog komunalno-zanatskog preduzeca Danilovgrad | [`odluka/2011/339398/`](odluka/2011/339398/) | in force | 1 | 2011-04-08 | 2011-04-08 |
+| Odluka o izgradnji pomocnih objekata nemijenjenih za poljoprivrednu proizvodnju | [`odluka/2011/339433/`](odluka/2011/339433/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o davanju saglasnosti na imenovanje potpredsjednika Opstine Mojkovac | [`odluka/2011/339434/`](odluka/2011/339434/) | in force | 1 | 2011-04-08 | 2011-04-08 |
+| Odluka o usvajanju Strategije zaposljavanja i razvoja ljudskih resursa Opstine Mojkovac 2011-2015.g | [`odluka/2011/339435/`](odluka/2011/339435/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o davanju u zakup putem javnog nadmetanja nepokretnosti u KO Pazici | [`odluka/2011/339494/`](odluka/2011/339494/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o stavljanju van snage Odluke o porezu na igre na srecu i zabavne igre | [`odluka/2011/339495/`](odluka/2011/339495/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Odluka o davanju saglasnosti na Program rada i Finansijski plan Turisticke organizacije Zabljak za 2011.godinu | [`odluka/2011/339532/`](odluka/2011/339532/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o davanju saglasnosti na Povelju o saradnji, partnerstvu i prijateljstvu sa gradom Trogirom iz Republike Hrvatske | [`odluka/2011/339533/`](odluka/2011/339533/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o usvajanju Jednogodisnjeg programa uredjenja prostora Opstine Kolasin za 2011.godinu | [`odluka/2011/339548/`](odluka/2011/339548/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o davanju saglasnosti na Statut JP "Komunalno" Kolasin | [`odluka/2011/339549/`](odluka/2011/339549/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o prestanku vazenja Odluka o porezu na igre na srecu i zabavne igre | [`odluka/2011/339550/`](odluka/2011/339550/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o davanju saglasnosti na Statut Javne ustanove Dnevni centar | [`odluka/2011/339716/`](odluka/2011/339716/) | in force | 1 | 2011-05-06 | 2011-05-06 |
+| Odluka o davanju saglasnosti na Odluku o izboru direktora JP "Komunalne usluge" | [`odluka/2011/339717/`](odluka/2011/339717/) | in force | 1 | 2011-05-06 | 2011-05-06 |
+| Odluka o davanju saglasnosti na Odluku o izboru direktora JP "Grijanje" | [`odluka/2011/339718/`](odluka/2011/339718/) | in force | 1 | 2011-05-06 | 2011-05-06 |
+| Odluka o kreditnom zaduzenju Opstine Ulcinj | [`odluka/2011/339730/`](odluka/2011/339730/) | in force | 1 | 2011-04-28 | 2011-04-28 |
+| Odluka o izmjenama i dopunama Odluke o visini naknade za uredjivanje gradjevinskog zemljsta | [`odluka/2011/339736/`](odluka/2011/339736/) | amending act | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o davanju na upravljanje seoskih vodovoda | [`odluka/2011/339738/`](odluka/2011/339738/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o donosenju Lokalnog akcionog plana za biodiverzitet Opstine Zabljak za period od 2011. do 2015. godine | [`odluka/2011/339749/`](odluka/2011/339749/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o prestanku vazenja Odluke o porezu na firmu ili naziv | [`odluka/2011/339750/`](odluka/2011/339750/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o prestanku vazenja Odluke o porezu na igre na srecu i zabavne igre | [`odluka/2011/339751/`](odluka/2011/339751/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o davanju saglasnosti na ustanovljavanje prava privremene sluzbenosti prolaza uz naknadu | [`odluka/2011/339872/`](odluka/2011/339872/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Javne ustanove Centar za kulturu Kolasin | [`odluka/2011/339880/`](odluka/2011/339880/) | amending act | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o izmjeni i dopuni Odluke o prestanku vazenja Odluke o visini naknade za upotrebu lokalnih puteva koja se placa na drumska motorna i njihova prikljucna vozila | [`odluka/2011/339881/`](odluka/2011/339881/) | amending act | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o izmjeni i dopuni Odluke o prestanku vazenja Odluke o visini naknade za upotrebu nekategorisanih puteva koja se placa na drumska motorna i njihova prikljucna vozila | [`odluka/2011/339882/`](odluka/2011/339882/) | amending act | 1 | 2011-04-26 | 2011-04-26 |
+| O D L U K A O I Z R A D I Strateske procjene uticaja na zivotnu sredinu Lokalne studije lokacije "LAZE" | [`odluka/2011/339985/`](odluka/2011/339985/) | in force | 1 | 2011-05-14 | 2011-05-14 |
+| O D L U K A o izmjenama i dopunama Detaljnog urbanistickog plana Plav zone ,, Glavice,, | [`odluka/2011/339986/`](odluka/2011/339986/) | amending act | 1 | 2011-05-06 | 2011-05-06 |
+| O D L U K A o zaradama i drugim primanjima sluzbenika i namjestenika gradskih opstina Tuzi i Golubovci | [`odluka/2011/339987/`](odluka/2011/339987/) | in force | 1 | 2011-05-14 | 2011-05-14 |
+| Odluka o prihvatanju inicijative za realizaciju saradnje Opstine Bar i Opstine Bornova - Republika Turska | [`odluka/2011/340024/`](odluka/2011/340024/) | in force | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka o donosenju Detaljnog urbanistickog plana "Brca" | [`odluka/2011/340025/`](odluka/2011/340025/) | in force | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka o donosenju Izmjena i dopuna Detaljnog urbanistickog plana "Obalsko naselje" | [`odluka/2011/340065/`](odluka/2011/340065/) | amending act | 1 | 2011-05-13 | 2011-05-13 |
+| Odluka o pristupanju izradi Detaljnog urbanistickog plana "Breza" | [`odluka/2011/340066/`](odluka/2011/340066/) | in force | 1 | 2011-05-21 | 2011-05-21 |
+| Odluka o izmjenama i dopunama Poslovnika Skupstine opstine Herceg Novi | [`odluka/2011/340104/`](odluka/2011/340104/) | amending act | 1 | 2011-05-21 | 2011-05-21 |
+| O D L U K A o davanju saglasnosti na Odluku o Finansijskom planu Gradske opstine Tuzi za 2011. godinu | [`odluka/2011/340143/`](odluka/2011/340143/) | in force | 1 | 2011-05-14 | 2011-05-14 |
+| Odluka o izmjeni i dopuni Odluke o izradi Lokalne studije lokacije "LAZI" | [`odluka/2011/340280/`](odluka/2011/340280/) | amending act | 1 | 2011-05-14 | 2011-05-14 |
+| O D L U K A o prestanku vazenja dijela Odluke o izmjenama i dopunama Detaljnog urbanistickog plana ’’Drac - za urbanu cjelinu 1.2. Nova Varos’’ u Podgorici | [`odluka/2011/340281/`](odluka/2011/340281/) | amending act | 1 | 2011-05-14 | 2011-05-14 |
+| O D L U K A o donosenju Studije dugorocnog razvoja javnog gradskog i prigradskog saobracaja u Podgorici | [`odluka/2011/340292/`](odluka/2011/340292/) | in force | 1 | 2011-05-07 | 2011-05-07 |
+| O D L U K A o usvajanju Plana socijalno stambene politike Glavnog grada - Podgorice za 2011. godinu | [`odluka/2011/340293/`](odluka/2011/340293/) | in force | 1 | 2011-05-07 | 2011-05-07 |
+| O D L U K A o prenosu prava svojine na gradjevinskom zemljistu | [`odluka/2011/340294/`](odluka/2011/340294/) | in force | 1 | 2011-05-14 | 2011-05-14 |
+| O D L U K A o zaradama i drugim primanjima lokalnih funkcionera i sekretara Skupstine Glavnog grada-Podgorice | [`odluka/2011/340304/`](odluka/2011/340304/) | in force | 1 | 2011-05-14 | 2011-05-14 |
+| O D L U K A o zaradama i drugim primanjima lokalnih funkcionera gradskih opstina Tuzi i Golubovci | [`odluka/2011/340305/`](odluka/2011/340305/) | in force | 1 | 2011-05-14 | 2011-05-14 |
+| O D L U K A o davanju saglasnosti na Odluku o Finansijskom planu Gradske opstine Golubovci za 2011. godinu | [`odluka/2011/340306/`](odluka/2011/340306/) | in force | 1 | 2011-05-14 | 2011-05-14 |
+| Odluka o dopuni Odluke o lokalnoj upravi | [`odluka/2011/340383/`](odluka/2011/340383/) | amending act | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o donosenju Izmjena i dopuna Detaljnog urbanistickog plana "ROZINO 2" | [`odluka/2011/340397/`](odluka/2011/340397/) | amending act | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o prenosu prava svojine na nepokretnosti putem Javnog nadmetanja Katastarska parcela 1794 KO Kuljace | [`odluka/2011/340399/`](odluka/2011/340399/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele broj UP 5 u skladu sa LSL Stambeno turisticka zona Rijeke Rezevica | [`odluka/2011/340400/`](odluka/2011/340400/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o izmjenama i dopunama Odluke o obrazovanju radnih tijela Skupstine | [`odluka/2011/340464/`](odluka/2011/340464/) | amending act | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o prestanku vazenja Odluke o porezu na potrosnju | [`odluka/2011/340465/`](odluka/2011/340465/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o prestanku vazenja Odluke o porezu na igre na srecu i zabavne igre | [`odluka/2011/340466/`](odluka/2011/340466/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o prestanku vazenja Odluke o porezu na firmu ili naziv | [`odluka/2011/340467/`](odluka/2011/340467/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele broj UP 3 i UP 2 u skladu sa LSL Stambeno turisticka zona Rijeke Rezevica | [`odluka/2011/340492/`](odluka/2011/340492/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o izmjeni Odluke o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele | [`odluka/2011/340493/`](odluka/2011/340493/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o podnosenju zahtjeva Vladi Crne Gore za davanje na raspolaganje nepokretnosti bez naknade | [`odluka/2011/340506/`](odluka/2011/340506/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o prenosu prava koriscenja na gradjevinskom zemljistu na Kolic Demira iz Bijelog Polja | [`odluka/2011/340507/`](odluka/2011/340507/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o donosenju Lokalne studije lokacije "Komosevina I" | [`odluka/2011/340509/`](odluka/2011/340509/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o izmjeni Odluke o izmjeni Odluke o prenosu prava na gradsko gradjevinsko zemljiste Osnovnom sudu i Osnovnom drzavnom tuzilastvu u Cetinju | [`odluka/2011/340672/`](odluka/2011/340672/) | in force | 1 | 2011-05-19 | 2011-05-19 |
+| Odluka o imenovanju Komisije za utvrdjivanje stanja u JLRDS "Radio Cetinje" | [`odluka/2011/340720/`](odluka/2011/340720/) | in force | 1 | 2011-06-03 | 2011-06-03 |
+| Odluka o imenovanju jednog clana Upravnog odbora Javnog preduzeca "Sportski centar" - Cetinje | [`odluka/2011/340721/`](odluka/2011/340721/) | in force | 1 | 2011-06-03 | 2011-06-03 |
+| Odluka o prestanku vazenja Odluke o utvrdjivanju visine naknade koja se placa za upotrebu nekategorisanih puteva u saobracajne svrhe za drumska motorna vozila i njihova prikljucna vozila | [`odluka/2011/340798/`](odluka/2011/340798/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o izmjenama i dopunama Odluke o koriscenju i naknadi za koriscenje putnog zemljista pored opstinskih i nekategorisanih puteva | [`odluka/2011/340814/`](odluka/2011/340814/) | amending act | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka, broj: 0304 - 235 | [`odluka/2011/340856/`](odluka/2011/340856/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o privremenom finansiranju potreba Budzeta Prijestonice Cetinje za period od 01.01. do 31.03.2011.godine | [`odluka/2011/340857/`](odluka/2011/340857/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o donosenju Lokalne studije lokacije "KOMOSEVINA II" | [`odluka/2011/340872/`](odluka/2011/340872/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o davanju saglasnosti na imenovanje direktora Javnog komunalnog preduzeca Cetinje | [`odluka/2011/340897/`](odluka/2011/340897/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o privremenom finansiranju Opstine Savnik za period januar - mart 2011. godine | [`odluka/2011/340899/`](odluka/2011/340899/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o razmjeni nepokretnosti radi formiranja urbanisticke parcele broj 11 u skladu sa DUP-om PETROVAC-Centar | [`odluka/2011/340914/`](odluka/2011/340914/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Odluka o razrjesenju jednog clana Upravnog odbora Javnog preduzeca "Sportski centar" - Cetinje | [`odluka/2011/340933/`](odluka/2011/340933/) | in force | 1 | 2011-06-03 | 2011-06-03 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Komunalno stambenog javnog preduzeca "Budva" Budva | [`odluka/2011/341058/`](odluka/2011/341058/) | amending act | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele broj 2 u bloku 19 DUP Podkosljun | [`odluka/2011/341059/`](odluka/2011/341059/) | in force | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o davanju ovlascenja predsjedniku Opstine za zakljucenje vansudskog poravnanja radi izvrsenja Odluke o davanju stana na koriscenje br. 08-381/2-80 od 07.08.1980. godine | [`odluka/2011/341060/`](odluka/2011/341060/) | in force | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o izmjeni i dopuni Odluke o prenosu prava na nepokretnosti radi izgradnje stanova solidarnosti | [`odluka/2011/341073/`](odluka/2011/341073/) | amending act | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o izmjeni Odluke o odredjivanju uslova radi odabira partnera za zajednicku izgradnju stambenog objekta | [`odluka/2011/341086/`](odluka/2011/341086/) | in force | 1 | 2011-06-24 | 2011-06-24 |
+| Odluka o donosenju Prostorno urbanistickog plana Opstine Mojkovac do 2020. godine | [`odluka/2011/341102/`](odluka/2011/341102/) | in force | 1 | 2011-06-16 | 2011-06-16 |
+| Odluka o prihvatanju inicijative za implementaciju privatno-javnog partnerstva sa Calerin Group Services LTD | [`odluka/2011/341111/`](odluka/2011/341111/) | in force | 1 | 2011-06-16 | 2011-06-16 |
+| Odluka o davanju saglasnosti na Statut JKP "Gradac" Mojkovac | [`odluka/2011/341112/`](odluka/2011/341112/) | in force | 1 | 2011-06-16 | 2011-06-16 |
+| Odluka o davanju saglasnosti na imenovanje direktora Javnog preduzeca "Vodovod i kanalizacija" Cetinje | [`odluka/2011/341133/`](odluka/2011/341133/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o izradi Detaljnog urbanistickog plana "Bjelila-Rutke-Gorelac" | [`odluka/2011/341150/`](odluka/2011/341150/) | in force | 1 | 2011-07-07 | 2011-07-07 |
+| Odluka o nacinu formiranja i rada Eticke komisije za pracenje primjene Etickog kodeksa za izabrane predstavnike/ce i funkcionere/ke u Opstini Zabljak | [`odluka/2011/341223/`](odluka/2011/341223/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o davanju saglasnosti za rjesavanje imovinsko pravnih odnosa kompenzacijom medjusobnih potrazivanja | [`odluka/2011/341224/`](odluka/2011/341224/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o nacinu formiranja i rada Eticke komisije za pracenje primjene Etickog kodeksa lokalnih sluzbenika/ca i namjestenika/ca u Opstini Zabljak | [`odluka/2011/341243/`](odluka/2011/341243/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o prodaji osnovnih sredstava | [`odluka/2011/341244/`](odluka/2011/341244/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o formiranju Komisije za sprovodjenje postupka prodaje osnovnih sredstava | [`odluka/2011/341245/`](odluka/2011/341245/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o davanju saglasnosti na imenovanje Direktora Javnog preduzeca "Sportski centar" - Cetinje | [`odluka/2011/341247/`](odluka/2011/341247/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o imenovanju odbornika koji ce prisustvovati zakljucenju braka | [`odluka/2011/341267/`](odluka/2011/341267/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o izmjenama i dopunama Odluke o postavljanju i izgradnji montaznih objekata privremenog karaktera na teritoriji Opstine Zabljak | [`odluka/2011/341268/`](odluka/2011/341268/) | amending act | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o izmjenama i dopunama Detaljnog urbanistickog plana Urbanisticke jedinice V-1 | [`odluka/2011/341289/`](odluka/2011/341289/) | amending act | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o izmjeni Odluke o pogrebnoj djelatnosti, uredjivanju i odrzavanju groblja na teritoriji Opstine Niksic | [`odluka/2011/341290/`](odluka/2011/341290/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o prenosu prava svojine na gradjevinsko zemljiste na DOO "Djurkovic company" Niksic | [`odluka/2011/341291/`](odluka/2011/341291/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o prenosu prava svojine na gradjevinsko zemljiste na DOO " Grading" Niksic | [`odluka/2011/341310/`](odluka/2011/341310/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Odluka o davanju saglasnosti na Odluku Savjeta JU "Centar za kulturu" Rozaje za izbor direktora | [`odluka/2011/341377/`](odluka/2011/341377/) | in force | 1 | 2011-07-07 | 2011-07-07 |
+| Odluka o raspisivanju oglasa za davanje u zakup javnim nadmetanjem neplodnog zemljista vlasnistvo Opstine Savnik | [`odluka/2011/341405/`](odluka/2011/341405/) | in force | 1 | 2011-07-07 | 2011-07-07 |
+| Odluka o izmjeni i dopuni Odluke o uredjenju grada i naselja Opstine Kotor | [`odluka/2011/341623/`](odluka/2011/341623/) | amending act | 1 | 2011-11-26 | 2011-11-26 |
+| Odluka o izmjenama i dopunama Odluke o visini i nacinu obracunavanja i placanja doprinosa Turistickoj organizaciji | [`odluka/2011/341801/`](odluka/2011/341801/) | amending act | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o izmjenama i dopunama Detaljnog urbanistickog plana Plav - "Glavice", broj: 0301-36/4 | [`odluka/2011/341903/`](odluka/2011/341903/) | amending act | 1 | 2011-11-08 | 2011-11-08 |
+| Odluka o imenovanju Komisije za rjesavanje stambenih pitanja lica koja bira ili imenuje Skupstina opstine i predsjednik Opstine i drugih lica ciji je rad od posebnog interesa za opstinu | [`odluka/2011/341904/`](odluka/2011/341904/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o uspostavljanju saradnje izmedju Prijestonice Cetinje i Grada Gaziantepa | [`odluka/2011/341951/`](odluka/2011/341951/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o izmjenama i dopunama Odluke o postavljanju i izgradnji montaznih objekata privremenog karaktera na teritoriji Opstine Zabljak | [`odluka/2011/342139/`](odluka/2011/342139/) | amending act | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o imenovanju Komisije za sprovodjenje postupka prodaje pokretnih stvari | [`odluka/2011/342140/`](odluka/2011/342140/) | in force | 1 | 2011-10-28 | 2011-10-28 |
+| Odluka o davanju u zakup nepokretnosti | [`odluka/2011/342141/`](odluka/2011/342141/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o razrjesenju clana savjeta JU Centar za kulturu "Nenad Rakocevic" Mojkovac | [`odluka/2011/342188/`](odluka/2011/342188/) | in force | 1 | 2011-10-28 | 2011-10-28 |
+| Odluka o prestanku vazenja Odluke o porezu na potrosnju | [`odluka/2011/342189/`](odluka/2011/342189/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o izmjeni Odluke o izradi Izmjena i dopuna Detaljnog urbanistickog plana "Rastoci 3" | [`odluka/2011/342190/`](odluka/2011/342190/) | amending act | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o izboru predsjednika i clanova Eticke komisije za izabrane predstavnike i funkcionere | [`odluka/2011/342191/`](odluka/2011/342191/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o izmjeni Odluke o Etickoj komisiji za lokalne sluzbenike i namjestenike | [`odluka/2011/342196/`](odluka/2011/342196/) | in force | 1 | 2011-11-26 | 2011-11-26 |
+| Odluka o zaradama i drugim primanjima lokalnih funkcionera i sekretara Skupstine Opstine Pluzine | [`odluka/2011/342248/`](odluka/2011/342248/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka, broj: 01-030-486 | [`odluka/2011/342249/`](odluka/2011/342249/) | in force | 1 | 2011-10-28 | 2011-10-28 |
+| Odluka o pristupanju izradi Poslovnika Skupstine opstine Pljevlja | [`odluka/2011/342256/`](odluka/2011/342256/) | in force | 1 | 2011-12-02 | 2011-12-02 |
+| Odluka o usvajanju Godisnjeg plana koncesija koncedenta Opstine Rozaje za 2012. godinu sa Koncesionim aktom | [`odluka/2011/342260/`](odluka/2011/342260/) | in force | 1 | 2011-12-02 | 2011-12-02 |
+| Odluka o izmjenama i dopunama Statuta Opstine Andrijevica | [`odluka/2011/342272/`](odluka/2011/342272/) | amending act | 1 | 2011-01-22 | 2011-01-22 |
+| Odluka o Budzetu Opstine Andrijevica za 2011. god | [`odluka/2011/342273/`](odluka/2011/342273/) | in force | 1 | 2011-01-22 | 2011-01-22 |
+| Odluka o izmjenama Odluke o privremenim objektima | [`odluka/2011/342274/`](odluka/2011/342274/) | in force | 1 | 2011-01-22 | 2011-01-22 |
+| Odluka o donosenju Detaljnog urbanistickog planu Gradiosnica | [`odluka/2011/342303/`](odluka/2011/342303/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o donosenju Izmjena i dopuna Detaljnog urbanistickog Plana Radovici | [`odluka/2011/342304/`](odluka/2011/342304/) | amending act | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o donosenju Detaljnog urbanistickog Plana Donji Radovici centar | [`odluka/2011/342305/`](odluka/2011/342305/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka, broj: 0304-299 | [`odluka/2011/342306/`](odluka/2011/342306/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o davanju saglasnosti na Odluku o izboru direktora/ice JU Narodna biblioteka "Stevan Samardzic" Pljevlja | [`odluka/2011/342343/`](odluka/2011/342343/) | in force | 1 | 2011-10-14 | 2011-10-14 |
+| Odluka o davanju saglasnosti na Odluku o izboru direktora/ice JU Dnevni centar | [`odluka/2011/342344/`](odluka/2011/342344/) | in force | 1 | 2011-10-14 | 2011-10-14 |
+| Odluka o izradi izmjena i dopuna Detaljnog urbanistickog plana "Petrovac" | [`odluka/2011/342380/`](odluka/2011/342380/) | amending act | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjeni Odluke o odvodjenju atmosferskih voda | [`odluka/2011/342382/`](odluka/2011/342382/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjeni Odluke o vodosnabdijevanju na podrucju Opstine Bar | [`odluka/2011/342383/`](odluka/2011/342383/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o donosenju Detaljnog urbanistickog plana »Pecurice - centar« | [`odluka/2011/342429/`](odluka/2011/342429/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o postupanju organa lokalne uprave u projektu mini hidroelektrana "Ugljari" i "Bjelojevici" | [`odluka/2011/342430/`](odluka/2011/342430/) | in force | 1 | 2011-12-09 | 2011-12-09 |
+| Odluka o izmjeni Odluke o naknadama odbornicima u Skupstini Glavnog grada-Podgorica | [`odluka/2011/342431/`](odluka/2011/342431/) | in force | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o dopuni Odluke o potrebi izrade Strateske procjene uticaja na zivotnu sredinu za Urbanisticki projekat ''Przno I'' | [`odluka/2011/342434/`](odluka/2011/342434/) | amending act | 1 | 2011-12-09 | 2011-12-09 |
+| Odluka o izmjenama odluka kojima su propisane novcane kazne za prekrsaje | [`odluka/2011/342435/`](odluka/2011/342435/) | in force | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o izmjenama i dopunama Odluke o izgradnji pomocnih objekata na teritoriji Glavnog grada - Podgorica | [`odluka/2011/342472/`](odluka/2011/342472/) | amending act | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o izmjenama i dopunama Detaljnog urbanistickog plana "Zagoric 2" u Podgorici | [`odluka/2011/342473/`](odluka/2011/342473/) | amending act | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o izmjenama i dopunama Detaljnog urbanistickog plana "Zlatica b" u Podgorici | [`odluka/2011/342474/`](odluka/2011/342474/) | amending act | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o lokalnoj studiji lokacije "Pijaca"- kat. parcela 2315/4 u Tuzima | [`odluka/2011/342475/`](odluka/2011/342475/) | in force | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o izmjestanju spomen-obiljezja Vasu Aligrudicu | [`odluka/2011/342476/`](odluka/2011/342476/) | in force | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javnog preduzeca "Pogrebne usluge" - Podgorica | [`odluka/2011/342524/`](odluka/2011/342524/) | amending act | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o ustupanju nepokretnosti bez naknade u KO Danilovgrad | [`odluka/2011/342567/`](odluka/2011/342567/) | in force | 1 | 2011-12-17 | 2011-12-17 |
+| Odluka o izmjenama Odluke o prenosu prava na gradskom gradjevinskom zemljistu po DUP-u "Topolica - Bjelisi" Direkciji javnih radova Crne Gore | [`odluka/2011/342580/`](odluka/2011/342580/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o donosenju Izmjena i dopuna Detaljnog urbanistickog plana naselja Ciglane | [`odluka/2011/342583/`](odluka/2011/342583/) | amending act | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o kreditnom zaduzenju Opstine Plav | [`odluka/2011/342613/`](odluka/2011/342613/) | in force | 1 | 2011-11-08 | 2011-11-08 |
+| Odluka o izmjenama i dopunama Detaljnog urbanistickog plana Plav - "Glavice", broj: 0301-36/3 | [`odluka/2011/342614/`](odluka/2011/342614/) | amending act | 1 | 2011-11-08 | 2011-11-08 |
+| Odluka o prenosu prava koriscenja | [`odluka/2011/342624/`](odluka/2011/342624/) | in force | 1 | 2011-12-13 | 2011-12-13 |
+| Odluka o osnivanju Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teskocama u razvoju | [`odluka/2011/342625/`](odluka/2011/342625/) | in force | 1 | 2011-12-13 | 2011-12-13 |
+| Odluka o stavljanju van snage dijela Detaljnog urbanistickog plana "BECICI" | [`odluka/2011/342639/`](odluka/2011/342639/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o donosenju Lokalne studije lokacije "Podbabac - Markicevici" o donosenju Lokalne studije lokacije "Podbabac - Markicevici" | [`odluka/2011/342642/`](odluka/2011/342642/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjeni Odluke o uslovima i nacinu drzanja domacih zivotinja i zivine u gradskom podrucju | [`odluka/2011/342668/`](odluka/2011/342668/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o izmjeni Odluke o uslovima i nacinu izvodjenja i emitovanja muzike u turistickim i ugostiteljskim objektima i zastiti od buke na teritoriji Opstine Plav | [`odluka/2011/342669/`](odluka/2011/342669/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o izmjeni Odluke o opstinskim nekategorisanim putevima | [`odluka/2011/342670/`](odluka/2011/342670/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o donosenju Elaborata privremenih objekata Prijestonice Cetinje | [`odluka/2011/342724/`](odluka/2011/342724/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o uspostavljanju saradnje izmedju Prijestonice Cetinje i Grada Zapadna Ahaja | [`odluka/2011/342725/`](odluka/2011/342725/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o prestanku vazenja Odluke o porezu na potrosnju | [`odluka/2011/342747/`](odluka/2011/342747/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o Lokalnoj studiji lokacije Grebice | [`odluka/2011/342803/`](odluka/2011/342803/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o osnivanju Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama u razvoju - "Lipa"- Plav | [`odluka/2011/342805/`](odluka/2011/342805/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o izmjeni i dopuni Odluke o pristupanju izradi Izmjena i dopuna Detaljnog urbanistickog plana "Barake I" | [`odluka/2011/342813/`](odluka/2011/342813/) | amending act | 1 | 2011-08-27 | 2011-08-27 |
+| Odluka o pristupanju izradi Strateskog Plana razvoja Opstine Mojkovac | [`odluka/2011/342834/`](odluka/2011/342834/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o izmjenama i dopunama Urbanistickog projekta "Stara varos - dio zone B" u Podgorici | [`odluka/2011/342874/`](odluka/2011/342874/) | amending act | 1 | 2011-09-21 | 2011-09-21 |
+| Odluka o prodaji pokretnih stvari | [`odluka/2011/342890/`](odluka/2011/342890/) | in force | 1 | 2011-10-28 | 2011-10-28 |
+| Odluka o prestanku vazenja Odluke o porezu na firmu ili naziv | [`odluka/2011/342891/`](odluka/2011/342891/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o davanju saglasnosti o izmjenama i dopunama Statuta JP "Cistoca"- Pljevlja | [`odluka/2011/343079/`](odluka/2011/343079/) | amending act | 1 | 2011-07-29 | 2011-07-29 |
+| Odluka o izradi Strateske procjene uticaja na zivotnu sredinu | [`odluka/2011/343154/`](odluka/2011/343154/) | in force | 1 | 2011-09-15 | 2011-09-15 |
+| Odluka o donosenju Detaljnog urbanistickog plana ,,Breza" | [`odluka/2011/343155/`](odluka/2011/343155/) | in force | 1 | 2011-09-15 | 2011-09-15 |
+| Odluka o osnivanju drustva sa ogranicenom odgovornoscu Lokalni javni emiter "Radio i televizija Cetinje" | [`odluka/2011/343210/`](odluka/2011/343210/) | in force | 1 | 2011-09-15 | 2011-09-15 |
+| Odluka o umanjenju obaveze placanja naknade za uredjenje gradjevinskog zemljista | [`odluka/2011/343303/`](odluka/2011/343303/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o uspostavljanju struktura prekogranicne koordinacije i saradnje Opstina Pluzine i Foca | [`odluka/2011/343343/`](odluka/2011/343343/) | in force | 1 | 2011-11-26 | 2011-11-26 |
+| Odluka o davanju saglasnosti na prijedlog ugovora o realizaciji i sufinansiranju, izgradnje sportsko-rekreaciong centra (sportska hala) u Skaljarima na urbanistickoj parceli 419/b koju cine kat.parc 410/3 i dio kat.parc. 419 K.O. Skaljari I | [`odluka/2011/343368/`](odluka/2011/343368/) | in force | 1 | 2011-11-08 | 2011-11-08 |
+| Odluka o dopuni Programa uredjenja prostora Opstine Bijelo Polje za 2011. godinu | [`odluka/2011/343385/`](odluka/2011/343385/) | amending act | 1 | 2011-11-18 | 2011-11-18 |
+| Odluka o davanju saglasnosti na postizanje poravnanja u izvrsnom postupku I 693/09/01 | [`odluka/2011/343432/`](odluka/2011/343432/) | in force | 1 | 2011-11-26 | 2011-11-26 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora o imenovnju direktora JP "Vodovod i kanalizacija" Kotor | [`odluka/2011/343433/`](odluka/2011/343433/) | in force | 1 | 2011-11-18 | 2011-11-18 |
+| Odluka o izmjeni Odluke o grobljima na teritoriji Opstine Bar | [`odluka/2011/343471/`](odluka/2011/343471/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjeni Odluke o kucnom redu u stambenim zgradama | [`odluka/2011/343522/`](odluka/2011/343522/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjeni Odluke o kucnim ljubimcima | [`odluka/2011/343523/`](odluka/2011/343523/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjeni Odluke o nuznim radovima u stambenim zgradama | [`odluka/2011/343524/`](odluka/2011/343524/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjeni Odluke o gradskom i prigradskom saobracaju i auto-taksi prevozu | [`odluka/2011/343573/`](odluka/2011/343573/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjeni i dopuni Odluke o organizaciji i nacinu rada organa lokalne uprave Opstine Budva | [`odluka/2011/343684/`](odluka/2011/343684/) | amending act | 1 | 2011-09-21 | 2011-09-21 |
+| Odluka o donosenju Lokalne studije lokacije "MIRISTE" | [`odluka/2011/343730/`](odluka/2011/343730/) | in force | 1 | 2011-09-21 | 2011-09-21 |
+| Odluka o izmjenama i dopunama Generalnog urbanistickog plana Podgorice za prostor Detaljnog urbanistickog plana "Gornja Gorica 1" u Podgorici | [`odluka/2011/343733/`](odluka/2011/343733/) | amending act | 1 | 2011-09-21 | 2011-09-21 |
+| Odluka o prestanku vazenja dijela Odluke o Izmjenama i dopunama Detaljnog urbanistickog plana "Momisici A - zona 1" u Podgorici | [`odluka/2011/343778/`](odluka/2011/343778/) | amending act | 1 | 2011-09-21 | 2011-09-21 |
+| Odluka o prestanku vazenja Odluke o zaradama i drugim primanjima sluzbenika i namjestenika Glavnog grada-Podgorice i Odluke o zaradama i drugim primanjima sluzbenika i namjestenika gradskih opstina Tuzi i Golubovci | [`odluka/2011/343829/`](odluka/2011/343829/) | in force | 1 | 2011-09-21 | 2011-09-21 |
+| Odluka o davanju saglasnosti na Ugovor o preuzimanju duga | [`odluka/2011/343886/`](odluka/2011/343886/) | in force | 1 | 2011-10-04 | 2011-10-04 |
+| Odluka o donosenju Prostorno-urbanistickog plana Opstine Zabljak do 2020.godine | [`odluka/2011/343916/`](odluka/2011/343916/) | in force | 1 | 2011-07-29 | 2011-07-29 |
+| Odluka o izboru clanova Savjeta Radio Berana | [`odluka/2011/343958/`](odluka/2011/343958/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka o davanju saglasnosti na Sporazum o izgradnji, upravljanju i odrzavanju zajednickog postrojenja za preciscavanje i odvodjenje otpadnih voda | [`odluka/2011/343976/`](odluka/2011/343976/) | in force | 1 | 2011-08-05 | 2011-08-05 |
+| Odluka o davanju saglasnosti na Rjesenje Predsjednika Opstine Kotor o imenovanju Glavnog administratora | [`odluka/2011/343977/`](odluka/2011/343977/) | in force | 1 | 2011-08-05 | 2011-08-05 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora Javnog preduzeca Sportski centar Niksic o davanju u zakup poslovnih prostora, putem prikupljanja ponuda | [`odluka/2011/344011/`](odluka/2011/344011/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Odluka, broj: 01-030-487 | [`odluka/2011/344016/`](odluka/2011/344016/) | in force | 1 | 2011-10-28 | 2011-10-28 |
+| Odluka o dopuni Odluke o uredjenju saobracaja na teritoriji Opstine Niksic | [`odluka/2011/344024/`](odluka/2011/344024/) | amending act | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o izmjenama Odluke o zajednickom ulaganju Opstine Niksic i NVO SOS telefon za zene i djecu zrtve nasilja Niksic | [`odluka/2011/344025/`](odluka/2011/344025/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o davanju saglasnosti na Plan i program rada Javnog preduzeca "Sportski centar" - Cetinje | [`odluka/2011/344027/`](odluka/2011/344027/) | in force | 1 | 2011-08-13 | 2011-08-13 |
+| Odluka o davanju saglasnosti na Sporazum o izgradnji, upravljanju i odrzavanju zajednickog postrojenja za preciscavanje i odvodjenje otpadnih voda | [`odluka/2011/344063/`](odluka/2011/344063/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o dopuni Odluke o turistickoj valorizaciji lokaliteta u vlasnistvu Opstine Tivat na poluostrvu Lustica | [`odluka/2011/344064/`](odluka/2011/344064/) | amending act | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o izmjeni Odluke o imenovanju clanova Odbora za planiranje i uredjenje prostora i stambeno komunalnu djelatnost Skupstine opstine Pljevlja | [`odluka/2011/344075/`](odluka/2011/344075/) | in force | 1 | 2011-07-21 | 2011-07-21 |
+| Odluka o davanju saglasnosti na Program rada i Finansijski plan Turisticke organizacije Pljevlja za 2011. godinu | [`odluka/2011/344076/`](odluka/2011/344076/) | in force | 1 | 2011-07-29 | 2011-07-29 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora Javnog preduzeca "Vodovod i kanalizacija" Herceg Novi o raspolaganju imovinom | [`odluka/2011/344077/`](odluka/2011/344077/) | in force | 1 | 2011-07-21 | 2011-07-21 |
+| Odluka o nepreduzimanju izrade Strateske procjene uticaja na zivotnu sredinu izmjena i dopuna Detaljnog urbanistickog plana i Urbanistickog projekta "Istorijsko jezgro" Cetinja dio zone A1 - zona gradskog jezgra | [`odluka/2011/344261/`](odluka/2011/344261/) | amending act | 1 | 2011-07-21 | 2011-07-21 |
+| Odluka o Urbanistickom projektu "Nova Varos - Blok Y" u Podgorici | [`odluka/2011/344266/`](odluka/2011/344266/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o Izmjenama i dopunama Detaljnog urbanistickog plana "Momisici A - dio zone 5" u Podgorici | [`odluka/2011/344267/`](odluka/2011/344267/) | amending act | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o osnivanju Savjeta za razvoj i zastitu lokalne samouprave Glavnog grada - Podgorice | [`odluka/2011/344269/`](odluka/2011/344269/) | in force | 1 | 2011-08-04 | 2011-08-04 |
+| Odluka o izdavanju u zakup poslovnih prostorija Opstine Kotor | [`odluka/2011/344517/`](odluka/2011/344517/) | in force | 1 | 2011-08-13 | 2011-08-13 |
+| Odluka o organizovanju Javnog preduzeca "Vodovod i kanalizacija" Danilovgrad | [`odluka/2011/344522/`](odluka/2011/344522/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjenama i dopunama Odluke o izdavanju u dugorocni zakup poslovnih prostorija Opstine Kotor | [`odluka/2011/344558/`](odluka/2011/344558/) | amending act | 1 | 2011-08-13 | 2011-08-13 |
+| Odluka o izmjenama Odluke o davanju saglasnosti na bankarsku garanciju | [`odluka/2011/344559/`](odluka/2011/344559/) | in force | 1 | 2011-08-05 | 2011-08-05 |
+| Odluka o davanju saglasnosti na predlog sudskog poravnanja u parnici koja se vodi pred Privrednim sudom u Podgorici pod P.br. 606/09 | [`odluka/2011/344560/`](odluka/2011/344560/) | in force | 1 | 2011-08-05 | 2011-08-05 |
+| Odluka o izmjenama i dopunama Odluke o izradi, upotrebi, cuvanju i unistavanju pecata | [`odluka/2011/344566/`](odluka/2011/344566/) | amending act | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o prenosu prava koriscenja na gradjevinskom zemljistu na AD "JEKON" | [`odluka/2011/344609/`](odluka/2011/344609/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Javne ustanove "Gradsko pozoriste" Podgorica | [`odluka/2011/344716/`](odluka/2011/344716/) | amending act | 1 | 2011-09-21 | 2011-09-21 |
+| Odluka o izmjenama i dopunama Odluke o organizovanju Drustvene ustanove "Budo Tomovic" Podgorica u Javnu ustanovu Kulturno-informativni centar "Budo Tomovic" Podgorica | [`odluka/2011/344717/`](odluka/2011/344717/) | amending act | 1 | 2011-09-21 | 2011-09-21 |
+| Odluka o izmjeni Odluke o imenovanju clanova Savjeta za zastitu zivotne sredine Skupstine opstine Pljevlja | [`odluka/2011/344767/`](odluka/2011/344767/) | in force | 1 | 2011-07-21 | 2011-07-21 |
+| Odluka o ravnopravnosti polova u Opštini Bar | [`odluka/2011/344806/`](odluka/2011/344806/) | in force | 1 | 2012-01-07 | 2012-01-07 |
+| Odluka o utvrdjivanju Nacrta odluke o izmjenama i dopunama Statuta Opstine Pljevlja | [`odluka/2011/344999/`](odluka/2011/344999/) | amending act | 1 | 2011-02-05 | 2011-02-05 |
+| Odluka o raspolaganju gradjevinskim zemljistem u 2011.godini | [`odluka/2011/345073/`](odluka/2011/345073/) | in force | 1 | 2011-03-22 | 2011-03-22 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Odluke o Finansijskom planu Gradske opstine Tuzi za 2010.godinu | [`odluka/2011/345123/`](odluka/2011/345123/) | amending act | 1 | 2011-03-22 | 2011-03-22 |
+| Odluka o prestanku vazenja Odluke o porezu na firmu ili naziv | [`odluka/2011/345124/`](odluka/2011/345124/) | in force | 1 | 2011-03-22 | 2011-03-22 |
+| Odluka o prestanku vazenja Odluke o porezu na igre na srecu i zabavne igre | [`odluka/2011/345125/`](odluka/2011/345125/) | in force | 1 | 2011-03-22 | 2011-03-22 |
+| Odluka o pristupanju izmjena i dopuna Statuta opstine Ulcinj | [`odluka/2011/345179/`](odluka/2011/345179/) | amending act | 1 | 2011-03-14 | 2011-03-14 |
+| Odluka o obrazovanju Komisije za izradu Predloga Odluke o izmjenama i dopunama Statuta Opstine Ulcinj | [`odluka/2011/345227/`](odluka/2011/345227/) | amending act | 1 | 2011-03-14 | 2011-03-14 |
+| Odluka o davanju saglasnosti na Odluku UO o razrjesenju duznosti direkotra JP "Vodovod i kanalizacija" Kotor | [`odluka/2011/345403/`](odluka/2011/345403/) | in force | 1 | 2011-01-24 | 2011-01-24 |
+| Odluka o dopuni Odluke o obezbjedjivanju sredstava za potrebe rjesavanja stambenih pitanja zaposlenih u organima Opstine Niksic | [`odluka/2011/345457/`](odluka/2011/345457/) | amending act | 1 | 2011-02-23 | 2011-02-23 |
+| Odluka o izradi Izmjena i dopuna dijela Detaljnog urbanistickog plana Mrkosnica 1 | [`odluka/2011/345504/`](odluka/2011/345504/) | amending act | 1 | 2011-02-23 | 2011-02-23 |
+| Odluka o Izmjenama i dopunama Detaljnog urbanistickog plana "Zona Centar" | [`odluka/2011/345506/`](odluka/2011/345506/) | amending act | 1 | 2011-02-23 | 2011-02-23 |
+| Odluka o izmjenama i dopunama Detaljnog urbanistickog plana Stara Varos - jug | [`odluka/2011/345593/`](odluka/2011/345593/) | amending act | 1 | 2011-01-27 | 2011-01-27 |
+| Odluka o izmjeni Odluke o radnom vremenu | [`odluka/2011/345594/`](odluka/2011/345594/) | in force | 1 | 2011-01-27 | 2011-01-27 |
+| Odluka o prestanku vazenja Odluke o prenosu prava svojine na gradjevinsko zemljiste na Milosevic Janicu | [`odluka/2011/345642/`](odluka/2011/345642/) | in force | 1 | 2011-01-27 | 2011-01-27 |
+| Odluka o prenosu prava na gradskom građevinskom zemljištu po DUP-u "Topolica - Bjeliši" Savezu sindikata Crne Gore - Opštinskom sindikalnom povjereništvu Bar | [`odluka/2011/345690/`](odluka/2011/345690/) | in force | 1 | 2012-01-07 | 2012-01-07 |
+| Odluka o izmjenama Odluke o prenosu prava na gradskom građevinskom zemljištu Savezu samostalnih sindikata Crne Gore - Opštinskom sindikalnom povjereništvu Bar | [`odluka/2011/345691/`](odluka/2011/345691/) | in force | 1 | 2012-01-07 | 2012-01-07 |
+| Odluka o stavljanju van snage dijela Odluke o dodjeli zemljista na trajno koriscenje bez naknade br.1983 (Sl.list br.39/08-Opstinski propisi) | [`odluka/2011/345693/`](odluka/2011/345693/) | in force | 1 | 2011-03-22 | 2011-03-22 |
+| Odluka o izmjenama i dopunama Odluke o utvrdjivanju visine godisnje naknade za registraciju drumskih motornih vozila, traktora i prikljucnih vozila koja se placa za koriscenje opstinskih i nekategorisanih puteva | [`odluka/2011/345694/`](odluka/2011/345694/) | amending act | 1 | 2011-03-22 | 2011-03-22 |
+| Odluka o prestanku vazenja Odluke o prenosu prava koriscenja na gradsko gradjevinsko zemljiste na Djurovic Milku | [`odluka/2011/345770/`](odluka/2011/345770/) | in force | 1 | 2011-01-27 | 2011-01-27 |
+| Odluka o prestanku vazenja Odluke o prenosu prava koriscenja na gradsko gradjevinsko zemljiste na Zoric Ivana | [`odluka/2011/345771/`](odluka/2011/345771/) | in force | 1 | 2011-01-27 | 2011-01-27 |
 | Odluka o davanju saglasnosti na Odluku UO o imenovanju direktora JP "Vodovod i kanalizacija" Kotor | [`odluka/2011/346016/`](odluka/2011/346016/) | in force | 1 | 2011-01-24 | 2011-01-24 |
 | Odluka o uslovima i načinu postavljanja i uklanjanja privremenih objekata u reklamnom prostoru Opštine Budva | [`odluka/2011/346149/`](odluka/2011/346149/) | in force | 1 | 2011-03-12 | 2011-03-12 |
 | Odluka o stavljanju van snage Odluke o osnivanju Fondacije "Kancelarija za prevenciju narkomanije, bolesti zavisnosti i rizicnih ponasanja" Kotor | [`odluka/2011/346151/`](odluka/2011/346151/) | in force | 1 | 2011-03-04 | 2011-03-04 |
@@ -2910,6 +4345,446 @@
 | Odluka o izmjenama i dopunama Odluke o gradskom i prigradskom linijskom prevozu putnika | [`odluka/2011/348233/`](odluka/2011/348233/) | amending act | 1 | 2011-06-11 | 2011-06-11 |
 | Odluka o izmjenama Odluke o zaduzivanju i davanju garancija Crne Gore za 2010. godinu | [`odluka/2011/348256/`](odluka/2011/348256/) | in force | 1 | 2011-02-18 | 2011-02-18 |
 | Odluka o izmjenama Odluke o prenosu prava na gradskom gradjevinskom zemljistu Savezu samostalnih sindikata Crne Gore - Opstinskom sindikalnom povjerenistvu Bar | [`odluka/2011/348357/`](odluka/2011/348357/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju puta Berane - Lubnice | [`odluka/2012/301510/`](odluka/2012/301510/) | in force | 1 | 2012-02-16 | 2012-02-16 |
+| Odluka o uspostavljanju saradnje i bratimljenju Opštine Berane sa Opštinom DUDELANŽ iz Luksemburga | [`odluka/2012/301527/`](odluka/2012/301527/) | in force | 1 | 2012-07-25 | 2012-07-25 |
+| Odluka o donošenju Lokalne studije lokacije "Bare" | [`odluka/2012/301534/`](odluka/2012/301534/) | in force | 1 | 2012-04-13 | 2012-04-13 |
+| Odluka o izboru člana Odbora za izbor i imenovanje | [`odluka/2012/301536/`](odluka/2012/301536/) | in force | 1 | 2012-06-23 | 2012-06-23 |
+| Odluka o dopunama Odluke o organizaciji i načinu rada lokalne uprave Prijestonice Cetinje | [`odluka/2012/301537/`](odluka/2012/301537/) | amending act | 1 | 2012-06-13 | 2012-06-13 |
+| Odluka o davanju saglasnosti na Odluku o izboru direktora JU Zavičajni muzej Pljevlja | [`odluka/2012/301540/`](odluka/2012/301540/) | in force | 1 | 2012-02-01 | 2012-02-01 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi izgradnje Ul. "Carine" | [`odluka/2012/301556/`](odluka/2012/301556/) | in force | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o utvrđivanju broja potpredsjednika Opštine Kolašin | [`odluka/2012/301779/`](odluka/2012/301779/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o Izmjenama i dopunama Detaljnog urbanističkog plana ″Momišići A - dio zone 1″ u Podgorici | [`odluka/2012/301802/`](odluka/2012/301802/) | amending act | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o donošenju Strategije razvoja turizma u Opštini Danilovgrad do 2020. godine | [`odluka/2012/301830/`](odluka/2012/301830/) | in force | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o naseljima i granicama naselja na teritoriji Glavnog grada - Podgorice | [`odluka/2012/301854/`](odluka/2012/301854/) | in force | 1 | 2013-01-08 | 2013-01-08 |
+| Odluka o raspisivanju izbora za poslanike Skupštine Crne Gore | [`odluka/2012/302087/`](odluka/2012/302087/) | in force | 1 | 2012-07-31 | 2012-07-31 |
+| Odluka o objavljivanju Protokola o saradnji između Ministarstva inostranih poslova Crne Gore i Ministarstva inostranih poslova Republike Turske | [`odluka/2012/302094/`](odluka/2012/302094/) | in force | 1 | 2012-02-03 | 2012-02-03 |
+| Odluka o davanju saglasnosti na Program rada JP "Komunalno" Kolašin za 2012. godinu | [`odluka/2012/302107/`](odluka/2012/302107/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za izgradnju kružnog toka-Bulevar Teuta u Opštini Ulcinj | [`odluka/2012/302186/`](odluka/2012/302186/) | in force | 1 | 2012-11-17 | 2012-11-17 |
+| Odluka o Izmjenama i dopunama Generalnog urbanističkog plana Podgorice za prostor koridora cetinjskog puta i južne obilaznice u Podgorici | [`odluka/2012/302220/`](odluka/2012/302220/) | amending act | 1 | 2012-07-07 | 2012-07-07 |
+| Odluka o proglašenju Ulcinja - Gradom maslinovog ulja | [`odluka/2012/302334/`](odluka/2012/302334/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o davanju saglasnosti na Statut Agencije za izgradnju i razvoj Podgorice d.o.o. | [`odluka/2012/302363/`](odluka/2012/302363/) | in force | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o oslobađanju plaćanja obaveza po osnovu poreza na nepokretnosti za poljoprivredno zemljište koje se koristi u poljoprivredne svrhe u 2012. godini | [`odluka/2012/302365/`](odluka/2012/302365/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o davanju saglasnosti na Rješenje Predsjednice Opštine Kotor o imenovanju Tvrtka Crepulje, dipl. ing. mašinstva iz Kotora za potpredsjednika Opštine Kotor | [`odluka/2012/302372/`](odluka/2012/302372/) | in force | 1 | 2012-12-18 | 2012-12-18 |
+| Odluka o davanju saglasnosi na Odluku Skupštine Turističke organizacije o izmjenama i dopunama Programa rada Turističke organizacije Herceg Novi za 2012. godinu broj 46/12 | [`odluka/2012/302514/`](odluka/2012/302514/) | amending act | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o izmjenama i dopunama Odluke o održavanju čistoće i komunalnom uređenju grada | [`odluka/2012/302519/`](odluka/2012/302519/) | amending act | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o usvajanju Strateškog plana razvoja Opštine Žabljak za period od 2012-2016.godine | [`odluka/2012/302522/`](odluka/2012/302522/) | in force | 1 | 2012-07-18 | 2012-07-18 |
+| Odluka o dopunama Odluke o Planu privatizacije za 2012. godinu | [`odluka/2012/302523/`](odluka/2012/302523/) | amending act | 1 | 2012-07-30 | 2012-07-30 |
+| Odluka o emisiji akcija po osnovu nenovčanog uloga | [`odluka/2012/302547/`](odluka/2012/302547/) | in force | 1 | 2012-04-27 | 2012-04-27 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele 17 u bloku 19 DUP Kamenovo-Vrijesno | [`odluka/2012/302550/`](odluka/2012/302550/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o kreditnom zaduženju Opštine Ulcinj | [`odluka/2012/302715/`](odluka/2012/302715/) | in force | 1 | 2012-04-27 | 2012-04-27 |
+| Odluka o objavljivanju Sporazuma između Crne Gore i Savezne Republike Njemačke o regulisanju bilateralnih ugovornih odnosa | [`odluka/2012/302720/`](odluka/2012/302720/) | in force | 1 | 2012-02-03 | 2012-02-03 |
+| Odluka o utvrdjivanju broja odbornika u Skupštini opštine Nikšić | [`odluka/2012/302723/`](odluka/2012/302723/) | in force | 1 | 2013-01-04 | 2013-01-04 |
+| Odluka o donošenju Detaljnog urbanističkog plana "Gruda - Donje Polje (Zona D)" | [`odluka/2012/302748/`](odluka/2012/302748/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o donošenju Lokalne studije lokacije "Seoce" - prva faza | [`odluka/2012/302805/`](odluka/2012/302805/) | in force | 1 | 2012-10-02 | 2012-10-02 |
+| Odluka o imenovanju člana Savjeta za razvoj i zaštitu lokalne samouprave | [`odluka/2012/302810/`](odluka/2012/302810/) | in force | 1 | 2012-05-23 | 2012-05-23 |
+| Odluka o donošenju Detaljnog urbanističkog plana "Babin Do" | [`odluka/2012/303091/`](odluka/2012/303091/) | in force | 1 | 2012-04-13 | 2012-04-13 |
+| Odluka o izmjenama i dopunama Urbanističkog projekta "Duvanski kombinat" u Podgorici | [`odluka/2012/303221/`](odluka/2012/303221/) | amending act | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o imenovanju Etičke komisije za lokalne službenike i namještenike | [`odluka/2012/303377/`](odluka/2012/303377/) | in force | 1 | 2013-01-08 | 2013-01-08 |
+| Odluka o pristupanju izmjenama i dopunama Statuta Opštine Tivat | [`odluka/2012/303621/`](odluka/2012/303621/) | amending act | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o imenovanju člana Odbora za međuopštinsku i međunarodnu saradnju | [`odluka/2012/303636/`](odluka/2012/303636/) | in force | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o imenovanju člana Etičke komisije za lokalne službenike i namještenike | [`odluka/2012/303660/`](odluka/2012/303660/) | in force | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o donošenju Detaljnog urbanističkog plana "Zelen" | [`odluka/2012/303671/`](odluka/2012/303671/) | in force | 1 | 2013-01-08 | 2013-01-08 |
+| Odluka o visini naknade za rad članovima Etičke komisije za lokalne službenike i namještenike Opštine Tivat | [`odluka/2012/303893/`](odluka/2012/303893/) | in force | 1 | 2012-04-07 | 2012-04-07 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za uređivanje građevinskog zemljišta | [`odluka/2012/303923/`](odluka/2012/303923/) | amending act | 1 | 2012-06-30 | 2012-06-30 |
+| Odluka o prodaji - prenosu prava svojine na nepokretnosti | [`odluka/2012/303926/`](odluka/2012/303926/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o saradnji Opštine Budva (Crna Gora) i Opštine Yalova (Turska) | [`odluka/2012/303927/`](odluka/2012/303927/) | in force | 1 | 2012-04-13 | 2012-04-13 |
+| Odluka o izboru člana Savjeta radio Berana | [`odluka/2012/303950/`](odluka/2012/303950/) | in force | 1 | 2012-12-04 | 2012-12-04 |
+| Odluka o donošenju Urbanističkog projekta za hotelski kompleks "Žager" u Bijeloj | [`odluka/2012/303961/`](odluka/2012/303961/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o donošenju Lokalne studije lokacije za golf teren sa 18 rupa sa smještajnim kapacitetima na lokalitetu "Briska Gora 2" u Ulcinju | [`odluka/2012/303982/`](odluka/2012/303982/) | in force | 1 | 2012-02-01 | 2012-02-01 |
+| Odluka o davanju saglasnosti na Statut Javne ustanove Narodna biblioteka "Radosav Ljumović" Podgorica | [`odluka/2012/304093/`](odluka/2012/304093/) | in force | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o finansiranju rada gerontodomaćica | [`odluka/2012/304101/`](odluka/2012/304101/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javne ustanove "Gradsko pozorište" Podgorica | [`odluka/2012/304114/`](odluka/2012/304114/) | amending act | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o ukidanju Javnog preduzeća "Sportski centar Kolašin" | [`odluka/2012/304140/`](odluka/2012/304140/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o davanju saglasnosti na Statut Javne ustanove Centar za kulturu Danilovgrad | [`odluka/2012/304335/`](odluka/2012/304335/) | in force | 1 | 2012-09-07 | 2012-09-07 |
+| Odluka o razrješenju člana Odbora za izbor i imenovanje | [`odluka/2012/304336/`](odluka/2012/304336/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o davanju saglasnosti na Rješenje predsjednice Opštine Kotor o razrješenju Andrije Popovića iz Kotora sa funkcije potpredsjednika Opštine Kotor | [`odluka/2012/304370/`](odluka/2012/304370/) | in force | 1 | 2012-12-18 | 2012-12-18 |
+| Odluka o raspisivanju izbora za odbornike u Skupštini opštine Budva | [`odluka/2012/304508/`](odluka/2012/304508/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Aerodrom" Cetinje | [`odluka/2012/304509/`](odluka/2012/304509/) | amending act | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o raspisivanju izbora za odbornike u Skupštini Opštine Kotor | [`odluka/2012/305023/`](odluka/2012/305023/) | in force | 1 | 2012-07-31 | 2012-07-31 |
+| Odluka o imenovanju člana odbora za Statut i propise | [`odluka/2012/305067/`](odluka/2012/305067/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o davanju saglasnosti na Rješenje predsjednice Opštine Kotor o razrješenju Fila Biskupovića iz Kotora sa funkcije potpredsjednika Opštine Kotor | [`odluka/2012/305075/`](odluka/2012/305075/) | in force | 1 | 2012-12-18 | 2012-12-18 |
+| Odluka o davanju saglasnosti za imenovanje potpredsjednika Opštine, broj: 01-3982 | [`odluka/2012/305137/`](odluka/2012/305137/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o donošenju Urbanističkog projekta "Stara ciglana" | [`odluka/2012/305300/`](odluka/2012/305300/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o zasnivanju stvarne službenosti na određeno vrijeme u korist DOO Eling CG iz Tivta | [`odluka/2012/305353/`](odluka/2012/305353/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o privremenom finansiranju potreba Budžeta Opštine Žabljak za period januar - mart 2012. godine | [`odluka/2012/305403/`](odluka/2012/305403/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o usvajanju Strateškog plana razvoja Opštine Kolašin | [`odluka/2012/305538/`](odluka/2012/305538/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o obrazovanju Komisije za izradu Nacrta Odluke o izmjenama i dopunama Statuta Opštine Tivat | [`odluka/2012/305573/`](odluka/2012/305573/) | amending act | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o usvajanju Programa podsticajnih mjera u biznis zoni "Bakovići" | [`odluka/2012/305623/`](odluka/2012/305623/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka Ustavnog suda, Už-III br. 314/10 | [`odluka/2012/305625/`](odluka/2012/305625/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o skraćenju mandata odbornika Skupštine opštine Nikšić | [`odluka/2012/305642/`](odluka/2012/305642/) | in force | 1 | 2012-12-27 | 2012-12-27 |
+| Odluka o izmjenama i dopunama Odluke o organizovanju Javne ustanove Polimski muzej Berane | [`odluka/2012/305749/`](odluka/2012/305749/) | amending act | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o potvđivanju Odluke o dopuni Odluke o izmjeni Plana postavljanja privremenih objekata za 2011. godinu | [`odluka/2012/305901/`](odluka/2012/305901/) | amending act | 1 | 2012-04-13 | 2012-04-13 |
+| Odluka o razrješenju predsjednika Odbora za Statut i propise | [`odluka/2012/305904/`](odluka/2012/305904/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o davanju saglasnosti za izbor i imenovanje direktora JU "Centar za kulturu" Kolašin | [`odluka/2012/305997/`](odluka/2012/305997/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o određivanju privremene lokacije za deponiju čvrstog otpada | [`odluka/2012/306002/`](odluka/2012/306002/) | in force | 1 | 2012-11-30 | 2012-11-30 |
+| Odluka o izmjeni Odluke o davanju u zakup zemljišta za izgradnju vjetroelektrane na lokalitetu Krnovo | [`odluka/2012/306007/`](odluka/2012/306007/) | in force | 1 | 2012-10-26 | 2012-10-26 |
+| Odluka o dugoročnom zaduženju Opštine Pljevlja | [`odluka/2012/306026/`](odluka/2012/306026/) | in force | 1 | 2012-02-01 | 2012-02-01 |
+| Odluka o osnivanju Nacionalne komisije za istraživanje nesreća i ozbiljnih nezgoda vazduhoplova | [`odluka/2012/306028/`](odluka/2012/306028/) | in force | 1 | 2012-09-21 | 2012-09-21 |
+| Odluka, broj: 0101- 195/1 | [`odluka/2012/306033/`](odluka/2012/306033/) | in force | 1 | 2012-04-05 | 2012-04-05 |
+| Odluka o izmjenama i dopunama Poslovnika Skupštine opštine Ulcinj | [`odluka/2012/306036/`](odluka/2012/306036/) | amending act | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o davanju saglasnosti na Odluku predsjednika Opštine broj: 01-1-537/12 od 24.05.2012. godine | [`odluka/2012/306042/`](odluka/2012/306042/) | in force | 1 | 2012-06-29 | 2012-06-29 |
+| Odluka o osnivanju Centra za posredovanje | [`odluka/2012/306043/`](odluka/2012/306043/) | in force | 1 | 2012-10-17 | 2012-10-17 |
+| Odluka o izmjenama i dopunama Odluke o postavljanju i izgradnji montažnih objekata privremenog karaktera na teritoriji Opštine Žabljak | [`odluka/2012/306249/`](odluka/2012/306249/) | amending act | 1 | 2012-06-01 | 2012-06-01 |
+| Odluka o premijama za otkup mlijeka | [`odluka/2012/306271/`](odluka/2012/306271/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o ravnopravnosti polova u Opštini Pljevlja | [`odluka/2012/306351/`](odluka/2012/306351/) | in force | 1 | 2012-02-01 | 2012-02-01 |
+| Odluka o organizovanju Javne ustanove Gradska biblioteka i čitaonica Herceg Novi | [`odluka/2012/306359/`](odluka/2012/306359/) | in force | 1 | 2012-08-14 | 2012-08-14 |
+| Odluka o davanju na korišćenje stana Kolić Medini iz Bijelog Polja | [`odluka/2012/306399/`](odluka/2012/306399/) | in force | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o davanju saglasnosti na imenovanje Glavnog administratora Opštine Ulcinj | [`odluka/2012/306500/`](odluka/2012/306500/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o donošenju Izmjena i dopuna Prostornog plana Opštine Cetinje za prostor Lokalne studije lokacije "Jankovića Krš" | [`odluka/2012/306533/`](odluka/2012/306533/) | amending act | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o izmjenama i dopunama Odluke o uređenju grada i održavanju komunalnog reda | [`odluka/2012/306573/`](odluka/2012/306573/) | amending act | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o davanju saglasnosti na Program rada i Finansijski plan Turističke organizacije Opštine Žabljak za 2012.godinu | [`odluka/2012/306582/`](odluka/2012/306582/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o pokretanju skraćenog postupka dobrovoljne likvidacije "Adriatic Holding" d.o.o. Budva | [`odluka/2012/306701/`](odluka/2012/306701/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele 18.3 u bloku 18 u skladu sa DUP-om Budva centar | [`odluka/2012/306823/`](odluka/2012/306823/) | in force | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o objavljivanju Memoranduma o sprovođenju Višegodišnjeg programa usavršavanja francuskog jezika u administraciji Crne Gore | [`odluka/2012/306827/`](odluka/2012/306827/) | in force | 1 | 2012-02-03 | 2012-02-03 |
+| Odluka o razrješenju i imenovanju predsjednika Odbora za društvene djelatnosti | [`odluka/2012/306878/`](odluka/2012/306878/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o donošenju Detaljnog urbanističkog plana "Donji Kraj (Zona E)" | [`odluka/2012/306940/`](odluka/2012/306940/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o davanju saglasnosti na Plan aktivnosti na podizanju nivoa zaštite potrošača u opštini Kotor | [`odluka/2012/306947/`](odluka/2012/306947/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o obrazovanju Anketnog odbora za prikupljanje informacija i činjenica o korupciji u privatizaciji Telekoma Crne Gore | [`odluka/2012/306963/`](odluka/2012/306963/) | in force | 1 | 2012-03-07 | 2012-03-07 |
+| Odluka o davanju saglasnosti na Program rada Javnog preduzeća "Vodovod i kanalizacija" - Cetinje za 2012. godinu | [`odluka/2012/306965/`](odluka/2012/306965/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o davanju saglasnosti na postizanje poravnanja u postupku pred Privrednim sudom P. 360/10 | [`odluka/2012/306966/`](odluka/2012/306966/) | in force | 1 | 2012-02-01 | 2012-02-01 |
+| Odluka o objavljivanju Sporazuma između Crne Gore i Kraljevine Holandije o regulisanju bilateralnih ugovornih odnosa | [`odluka/2012/306975/`](odluka/2012/306975/) | in force | 1 | 2012-02-03 | 2012-02-03 |
+| Odluka o prestanku važenja Odluke o porezu na firmu ili naziv | [`odluka/2012/307017/`](odluka/2012/307017/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o davanju saglasnosti na Odluku o izmjeni Statuta Javnog preduzeća "Komunalno" Tivat | [`odluka/2012/307080/`](odluka/2012/307080/) | in force | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o privremenom finansiranju budžetskih korisnika Opštine Kolašin za period 01.01. do 31.03.2012. godine | [`odluka/2012/307099/`](odluka/2012/307099/) | in force | 1 | 2012-01-17 | 2012-01-17 |
+| Odluka o privremenom finansiranju Opštine Pljevlja za period januar - mart 2013. godine | [`odluka/2012/307102/`](odluka/2012/307102/) | in force | 1 | 2012-12-31 | 2012-12-31 |
+| Odluka o Izmjenama i dopunama Urbanističkog projekta KO "Donji Milješ" u Podgorici | [`odluka/2012/307305/`](odluka/2012/307305/) | amending act | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o izmjenama Odluke o naknadama za korišćenje opštinskih puteva na teritoriji Glavnog grada - Podgorice | [`odluka/2012/307356/`](odluka/2012/307356/) | in force | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o privremenom finansiranju Opštine Plav za period januar- mart 2012.godine | [`odluka/2012/307429/`](odluka/2012/307429/) | in force | 1 | 2012-02-01 | 2012-02-01 |
+| Odluka o skraćenju mandata Skupštine Crne Gore 24. saziva | [`odluka/2012/307603/`](odluka/2012/307603/) | in force | 1 | 2012-07-30 | 2012-07-30 |
+| Odluka o usvajanju Programa rada Skupštine opštine Žabljak za 2012. godinu | [`odluka/2012/307627/`](odluka/2012/307627/) | in force | 1 | 2012-02-01 | 2012-02-01 |
+| Odluka o Izmjenama i dopunama Generalnog urbanističkog plana Podgorice za prostor Detaljnog urbanističkog plana ″Momišići A - dio zone 1″ u Podgorici | [`odluka/2012/307903/`](odluka/2012/307903/) | amending act | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o otvaranju Konzulata Crne Gore u Republici Malti | [`odluka/2012/307953/`](odluka/2012/307953/) | in force | 1 | 2013-01-04 | 2013-01-04 |
+| Odluka o davanju saglasnosti za izdavanje poslovnog prostora JU Centra za kulturu Danilovgrad | [`odluka/2012/307969/`](odluka/2012/307969/) | in force | 1 | 2012-04-11 | 2012-04-11 |
+| Odluka o izmjeni Odluke o određivanju luka prema značaju | [`odluka/2012/308182/`](odluka/2012/308182/) | in force | 1 | 2012-08-07 | 2012-08-07 |
+| Odluka, broj: 0304 - 68 | [`odluka/2012/308200/`](odluka/2012/308200/) | in force | 1 | 2012-04-07 | 2012-04-07 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele 5 u okviru bloka broj B6 DUP-a Petrovac šira zona | [`odluka/2012/308276/`](odluka/2012/308276/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o izmjeni i dopuni Odluke o komunalnij policiji | [`odluka/2012/308378/`](odluka/2012/308378/) | amending act | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 5.16a u bloku br. 5B prema DUP-u "Budva -centar" | [`odluka/2012/308530/`](odluka/2012/308530/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o prestanku važenja Odluke o obezbjeđivanju prostorija za rad odborničkim klubovima | [`odluka/2012/308531/`](odluka/2012/308531/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o donošenju Lokalne studije lokacije "Kurtina I" | [`odluka/2012/308682/`](odluka/2012/308682/) | in force | 1 | 2013-01-08 | 2013-01-08 |
+| Odluka o davanju saglasnosti na Program rada JP "Vodovod i kanalizacija" Kolašin za 2012. godinu | [`odluka/2012/308774/`](odluka/2012/308774/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o izmjenama i dopunama Odluke o prenosu prava na gradskom građevinskom zemljištu u obuhvatu UP Privredna zona Petković Božidaru ("Službeni list Opštine Kotor", broj 05/07) | [`odluka/2012/308866/`](odluka/2012/308866/) | amending act | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o davanju saglasnosti na Statut Javne ustanove Umjetnička Galerija "Vitomir Srbljanović" | [`odluka/2012/308900/`](odluka/2012/308900/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za izgradnju vjetroelektrane "Krnovo" na teritoriji opština Nikšić, Šavnik i Plužine | [`odluka/2012/308959/`](odluka/2012/308959/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o davanju saglasnosti na potpisivanje Ugovora o osnivanju Akcionarskog društva "Crnogorski cement Pljevlja" | [`odluka/2012/309196/`](odluka/2012/309196/) | in force | 1 | 2012-10-02 | 2012-10-02 |
+| Odluka o davanju saglasnosti za imenovanje potpredsjednika Opštine, broj: 01-3980 | [`odluka/2012/309201/`](odluka/2012/309201/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o davanju saglasnosti za angažovanje mehanizacije trećih lica potrebne za izgradnju i održavanje opštinskih i nekategorisanih puteva | [`odluka/2012/309212/`](odluka/2012/309212/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Centar II" | [`odluka/2012/309517/`](odluka/2012/309517/) | amending act | 1 | 2012-02-01 | 2012-02-01 |
+| Odluka o prestanku važenja Odluke o porezu na potrošnju | [`odluka/2012/309547/`](odluka/2012/309547/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o izmjenama i dopunama Urbanističkog projekta "Stara Varoš" u Podgorici | [`odluka/2012/309808/`](odluka/2012/309808/) | amending act | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o uspostavljanju saradnje između Prijestonice Cetinje i Grada Višegrada | [`odluka/2012/309809/`](odluka/2012/309809/) | in force | 1 | 2012-12-26 | 2012-12-26 |
+| Odluka o donošenju Lokalne studije lokacije "Monkaro" na Luštici | [`odluka/2012/315380/`](odluka/2012/315380/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi izgradnje pristupnih saobraćajnica za putne prelaze i podvožnjak u Opštini Danilovgrad | [`odluka/2012/315383/`](odluka/2012/315383/) | in force | 1 | 2012-12-01 | 2012-12-01 |
+| Odluka o izmjenama i dopunama Plana o postavljanju i izgradnji montažnih objekata privremenog karaktera na teritoriji Opštine Žabljak za 2012.godinu | [`odluka/2012/315707/`](odluka/2012/315707/) | amending act | 1 | 2012-06-01 | 2012-06-01 |
+| Odluka o donošenju Strateškog plana razvoja Opštine Danilovgrad za period 2012. - 2018. godine | [`odluka/2012/315882/`](odluka/2012/315882/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 7 u okviru bloka broj B6 DUP-a "Petrovac - šira zona" | [`odluka/2012/316447/`](odluka/2012/316447/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o donošenju Lokalne studije lokacije "Jankovića Krš" | [`odluka/2012/316914/`](odluka/2012/316914/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o izmjenama i dopunama Odluke o održavanju čistoće i komunalnom uređenju grada | [`odluka/2012/316916/`](odluka/2012/316916/) | amending act | 1 | 2012-10-02 | 2012-10-02 |
+| Odluka o izmjenama i dopunama Prostornog plana Opštine za prostor Lokalne studije lokacije "Mihinja" u Podgorici | [`odluka/2012/317117/`](odluka/2012/317117/) | amending act | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju Opštinske izborne komisije | [`odluka/2012/317148/`](odluka/2012/317148/) | amending act | 1 | 2013-01-08 | 2013-01-08 |
+| Odluka o uspostavljanju saradnje i prijateljskih odnosa između grada Konotopa i Opštine Nikšić | [`odluka/2012/317165/`](odluka/2012/317165/) | in force | 1 | 2012-05-23 | 2012-05-23 |
+| Odluka o Izmjenama i dopunama Detaljnog urbanističkog plana "Donja Gorica" - koridori cetinjskog puta i južne obilaznice u Podgorici | [`odluka/2012/317264/`](odluka/2012/317264/) | amending act | 1 | 2012-07-07 | 2012-07-07 |
+| Odluka o prenosu prava svojine na građevinsko zemljište na "Uralmont" DOO Nikšić | [`odluka/2012/317454/`](odluka/2012/317454/) | in force | 1 | 2012-05-23 | 2012-05-23 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti koje ulaze u zonu zaštitnog pojasa postrojenja za prečišćavanje otpadnih voda | [`odluka/2012/317739/`](odluka/2012/317739/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o donošenju Lokalne studije lokacije za eco - seosko turistički centar na lokalitetu Šas u Ulcinju | [`odluka/2012/317863/`](odluka/2012/317863/) | in force | 1 | 2013-01-08 | 2013-01-08 |
+| Odluka o dopuni Programa uređenja prostora Opštine Tivat za 2012. godinu | [`odluka/2012/318271/`](odluka/2012/318271/) | amending act | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o određivanju odbornika koji će prisustvovati zaključenju brakova | [`odluka/2012/318362/`](odluka/2012/318362/) | in force | 1 | 2012-06-23 | 2012-06-23 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama Statuta "Parking servis Podgorica" d.o.o. Podgorica | [`odluka/2012/318416/`](odluka/2012/318416/) | in force | 1 | 2012-12-29 | 2012-12-29 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi izgradnje podvožnjaka, kružne saobraćajnice i kolektora za prečišćavanje otpadnih voda | [`odluka/2012/318640/`](odluka/2012/318640/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju javnog interesa | [`odluka/2012/318668/`](odluka/2012/318668/) | amending act | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o donošenju izmjena i dopuna Lokalne studije lokacije "Baza" | [`odluka/2012/319019/`](odluka/2012/319019/) | amending act | 1 | 2012-07-18 | 2012-07-18 |
+| Odluka o davanju saglasnosti na Program rada JU "Centar za kulturu" Kolašin za 2012. godinu | [`odluka/2012/319165/`](odluka/2012/319165/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o razmjeni zemljišta radi kompletiranja urbanističkih parcela | [`odluka/2012/319193/`](odluka/2012/319193/) | in force | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o razrješenju i izboru člana Upravnog odbora JP "Komunalno" Kolašin | [`odluka/2012/319754/`](odluka/2012/319754/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o oslobađanju plaćanja obaveza po osnovu poreza na nepokretnosti za 2012. godinu | [`odluka/2012/319782/`](odluka/2012/319782/) | in force | 1 | 2012-12-04 | 2012-12-04 |
+| Odluka o izmjeni Odluke o obezbjeđivanju sredstava za finansiranje političkih partija | [`odluka/2012/319948/`](odluka/2012/319948/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o stavljanju van snage Odluke o pristupanju izradi planske dokumentacije u Podgorici | [`odluka/2012/320012/`](odluka/2012/320012/) | in force | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o javnom objelodanjivanju podataka od strane banaka | [`odluka/2012/320046/`](odluka/2012/320046/) | in force | 1 | 2012-01-19 | 2012-01-19 |
+| Odluka o davanju saglasnosti na kreditno zaduženje JP "Vodovod i kanalizacija" Cetinje | [`odluka/2012/320350/`](odluka/2012/320350/) | in force | 1 | 2012-09-24 | 2012-09-24 |
+| Odluka o izmjenama i dopunama Odluke o određivanju građevinskog zemljišta koje će biti predmet raspolaganja u 2012. godini | [`odluka/2012/320408/`](odluka/2012/320408/) | amending act | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o imenovanju Etičke komisije za lokalne službenike i namještenike | [`odluka/2012/320639/`](odluka/2012/320639/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o izmjenama i dopunama Odluke o davanju u zakup poslovnog prostora u vlasništvu Glavnog grada-Podgorice | [`odluka/2012/320964/`](odluka/2012/320964/) | amending act | 1 | 2012-12-29 | 2012-12-29 |
+| Odluka o izmjenama i dopunama Odluke o finansiranju političkih partija | [`odluka/2012/321071/`](odluka/2012/321071/) | amending act | 1 | 2012-07-18 | 2012-07-18 |
+| Odluka o privremenom finansiranju Opštine Šavnik za period januar - mart 2013. godine | [`odluka/2012/321162/`](odluka/2012/321162/) | in force | 1 | 2013-01-08 | 2013-01-08 |
+| Odluka o utvrđivanju broja odbornika u Skupštini opštine Andrijevica | [`odluka/2012/321411/`](odluka/2012/321411/) | in force | 1 | 2013-01-08 | 2013-01-08 |
+| Odluka o izmjenama Odluke o organizaciji i načinu rada lokalne uprave Opštine Tivat | [`odluka/2012/321414/`](odluka/2012/321414/) | in force | 1 | 2012-12-04 | 2012-12-04 |
+| Odluka o proglašenju lokaliteta "Bakovići"-biznis zonom otvorenom za ulaganja | [`odluka/2012/321485/`](odluka/2012/321485/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o donošenju izmjena i dopuna DUP- a "Ulcinj- Grad" na katastarskoj parceli broj 6502/1 u Pinješu - Ulcinj | [`odluka/2012/321511/`](odluka/2012/321511/) | amending act | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o raspisivanju izbora za odbornike u Skupštini Opštine Nikšić | [`odluka/2012/321597/`](odluka/2012/321597/) | in force | 1 | 2012-07-31 | 2012-07-31 |
+| Odluka o izmjeni i dopuni Odluke o zaradama i drugim primanjima lokalnih službenika i namještenika | [`odluka/2012/321599/`](odluka/2012/321599/) | amending act | 1 | 2012-12-31 | 2012-12-31 |
+| Odluka o objavljivanju Sporazuma između Vlade Crne Gore i Vlade Republike Turske o uzajamnom podsticanju i zaštiti investicija | [`odluka/2012/321772/`](odluka/2012/321772/) | in force | 1 | 2012-07-25 | 2012-07-25 |
+| Odluka o potvrđivanju Odluke o izmjenama Odluke o imenovanju Opštinske izborne komisije | [`odluka/2012/321813/`](odluka/2012/321813/) | in force | 1 | 2012-10-20 | 2012-10-20 |
+| Odluka o uspostavljanju prijateljstva i saradnje Opštine Berane sa Opštinom Zavidovići iz Bosne i Hercegovine | [`odluka/2012/322055/`](odluka/2012/322055/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o donošenju Lokalne studije lokacije "Žukovica" | [`odluka/2012/322065/`](odluka/2012/322065/) | in force | 1 | 2012-04-13 | 2012-04-13 |
+| Odluka o dopuni Odluke o imenovanju predsjednika, sekretara i devet članova Državne izborne komisije | [`odluka/2012/325531/`](odluka/2012/325531/) | amending act | 1 | 2012-04-07 | 2012-04-07 |
+| Odluka o donošenju Strateškog plana razvoja Opštine Plužine, period 2012-2017. godine | [`odluka/2012/325574/`](odluka/2012/325574/) | in force | 1 | 2012-11-06 | 2012-11-06 |
+| Odluka o obrazovanju Komisije za izradu Predloga odluke o izmjenama i dopunama Poslovnika Skupštine opštine Danilovgrad | [`odluka/2012/325592/`](odluka/2012/325592/) | amending act | 1 | 2012-06-05 | 2012-06-05 |
+| Odluka o davanju saglasnosti za imenovanje potpredsjednika Opštine, broj: 01-3981 | [`odluka/2012/325736/`](odluka/2012/325736/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o davanju saglasnosti na Izvještaj o radu Turističke organizacije za 2011. godinu, Izvještaj o finansijskom poslovanju za 2011. godinu i Program rada za 2012. godinu | [`odluka/2012/326030/`](odluka/2012/326030/) | in force | 1 | 2012-06-23 | 2012-06-23 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora JP za stanbeno komunalnu djelatnost Andrijevica o cijenama vode i komunalnih usluga | [`odluka/2012/326067/`](odluka/2012/326067/) | in force | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju Odbora za izbor i imenovanje Skupštine opštine Pljevlja | [`odluka/2012/326087/`](odluka/2012/326087/) | amending act | 1 | 2012-12-31 | 2012-12-31 |
+| Odluka o davanju saglasnosti na Odluku o izmjeni Statuta Javnog preduzeća "Vodovod i kanalizacija" Tivat | [`odluka/2012/326220/`](odluka/2012/326220/) | in force | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o razrješenju i imenovanju člana Odbora za planiranje i uređenje prostora i komunalno-stambenu djelatnost | [`odluka/2012/326426/`](odluka/2012/326426/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o objavljivanju Izmjena i dopuna Sporazuma između Vlade Crne Gore i Savjeta ministara Republike Albanije o uzajamnim putovanjima državljana | [`odluka/2012/326428/`](odluka/2012/326428/) | amending act | 1 | 2012-02-03 | 2012-02-03 |
+| Odluka o oslobađanju plaćanja obaveze po osnovu poreza na nepokretnosti na poljoprivredno, šumsko i ostalo negrađevinsko zemljište za 2011. i 2012.godinu | [`odluka/2012/326529/`](odluka/2012/326529/) | in force | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o prenosu prava korišćenja na građevinskom zemljištu na Bulatović Zariju, Kajević Džeka, Zejak Nikicu, Radojević Veselina, Džafić Sulejmana, Martinović Meda, Brzać Šefka, Ljucić Mesuda, Husović Safeta i Bahović Feriza, svi iz Bijelog Polja | [`odluka/2012/326532/`](odluka/2012/326532/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o usvajanju Programa investicionih aktivnosti Opštine Budva za 2012. godinu | [`odluka/2012/326616/`](odluka/2012/326616/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o podizanju spomen - obilježja ratnicima Premćansko-kosaničkog bataljona, Pljevaljske brigade i četi Rasavskoj u Durmitorskoj brigadi , koji su učesnici ratova 1875. godine , Prvog balkanskog rata,Drugog balkanskog rata i Prvog svjetskog rata | [`odluka/2012/326792/`](odluka/2012/326792/) | in force | 1 | 2013-01-08 | 2013-01-08 |
+| Odluka o davanju saglasnosti na Statut Javne ustanove Muzeji i galerije Podgorica | [`odluka/2012/326812/`](odluka/2012/326812/) | in force | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o konstituisanju založnog prava (hipoteke drugog reda) | [`odluka/2012/326817/`](odluka/2012/326817/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o oslobađanju naknade investitora izgradnje objekta za rješavanje stambenih potreba prosvjetnih radnika Budve | [`odluka/2012/326821/`](odluka/2012/326821/) | in force | 1 | 2012-04-13 | 2012-04-13 |
+| Odluka o naknadi za rad članova Savjeta "Radio Televizija Budva" | [`odluka/2012/326834/`](odluka/2012/326834/) | in force | 1 | 2012-10-02 | 2012-10-02 |
+| Odluka o pretvaranju nenovčanog uloga u akcije emitenta | [`odluka/2012/326845/`](odluka/2012/326845/) | in force | 1 | 2012-04-27 | 2012-04-27 |
+| Odluka usvajanju Strateškog plana razvoja Opštine Berane za period 2012-2017. godine | [`odluka/2012/326875/`](odluka/2012/326875/) | in force | 1 | 2012-06-30 | 2012-06-30 |
+| Odluka o donošenju Izmjena i dopuna Plana privremenih objekata | [`odluka/2012/326917/`](odluka/2012/326917/) | amending act | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o prenosu prava svojine na građevinsko zemljište na Zorić Ivana | [`odluka/2012/326918/`](odluka/2012/326918/) | in force | 1 | 2012-05-23 | 2012-05-23 |
+| Odluka o usvajanju jednogodišnjeg programa uređenja prostora Opštine Rožaje za 2013.godinu | [`odluka/2012/327000/`](odluka/2012/327000/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 23 DUP-a "Kamenovo-Vrijesno" | [`odluka/2012/327001/`](odluka/2012/327001/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o donošenju Lokalne studije lokacije za izgradnju postrojenja za prečišćavanje otpadnih voda "Donji Talum" Berane | [`odluka/2012/327023/`](odluka/2012/327023/) | in force | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o izmjenama Odluke o minimalnim standardima za upravljanje rizicima u mikrokreditnim finansijskim institucijama | [`odluka/2012/327048/`](odluka/2012/327048/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o davanju u zakup nepokretnosti | [`odluka/2012/327127/`](odluka/2012/327127/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o izmjeni i dopuni Odluke o prenosu prava na gradskom građevinskom zemljištu u obuhvatu UP Privredna zona "Monte - Peštan" doo Tivat ("Službeni list Opštine Kotor", broj 05/07) | [`odluka/2012/327219/`](odluka/2012/327219/) | amending act | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o obrazovanju Službe Državne izborne komisije | [`odluka/2012/327226/`](odluka/2012/327226/) | in force | 1 | 2012-04-04 | 2012-04-04 |
+| Odluka o razrješenju i izboru člana Upravnog odbora JU "Centar za kulturu" Kolašin | [`odluka/2012/327227/`](odluka/2012/327227/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o izmjenama i dopunama Odluke o izgradnji, korišćenju, održavanju i upravljanju objektima vodosnabdijevanja seoskog područja Opštine Plav | [`odluka/2012/327293/`](odluka/2012/327293/) | amending act | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi izgradnje postrojenja za prečišćavanje otpadnih voda i priključnih cjevovoda Prijestonice Cetinje | [`odluka/2012/327304/`](odluka/2012/327304/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o davanju saglasnosti na Odluku o izmjeni i dopuni Statuta Javnog preduzeća "Vodovod i kanalizacija" Cetinje | [`odluka/2012/327327/`](odluka/2012/327327/) | amending act | 1 | 2012-10-02 | 2012-10-02 |
+| Odluka o uspostavljanju saradnje sa Opštinom Strumica - Republika Makedonija | [`odluka/2012/327688/`](odluka/2012/327688/) | in force | 1 | 2012-01-17 | 2012-01-17 |
+| Odluka o učešću Opštine u rješavanju stambenih pitanja zapošljenih radnika na području Opštine Bijelo Polje | [`odluka/2012/327695/`](odluka/2012/327695/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o izmjeni i dopuni Odluke o produženju roka zakupa, broj: 11- 10018 | [`odluka/2012/327702/`](odluka/2012/327702/) | amending act | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o prihvatanju inicijative za implementaciju privatno-javnog partnerstva sa firmom "Omni Global" iz Merilenda -SAD | [`odluka/2012/327747/`](odluka/2012/327747/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o davanju saglasnosti na Statut Javnog preduzeća "Komunalno" Danilovgrad | [`odluka/2012/327803/`](odluka/2012/327803/) | in force | 1 | 2012-04-11 | 2012-04-11 |
+| Odluka o prihvatanju inicijative za bratimljenje Opštine Pljevlja - Crna Gora i gradske Opštine Voždovac - Beograd - Republika Srbija | [`odluka/2012/327830/`](odluka/2012/327830/) | in force | 1 | 2012-02-01 | 2012-02-01 |
+| Odluka o izmjeni Odluke o naknadama odbornicima u Skupštini Gradske opštine Golubovci | [`odluka/2012/329031/`](odluka/2012/329031/) | in force | 1 | 2012-02-01 | 2012-02-01 |
+| Odluka o davanju saglasnosti na Odluku o razrješenju direktora Javnog komunalnog preduzeća Cetinje | [`odluka/2012/329490/`](odluka/2012/329490/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o razrješenju člana Odbora za međuopštinsku i međunarodnu saradnju | [`odluka/2012/329654/`](odluka/2012/329654/) | in force | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o izmjenama i dopunama Odluke o prirezu poreza na dohodak fizičkih lica | [`odluka/2012/329713/`](odluka/2012/329713/) | amending act | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o izboru članova Etičke komisije za praćenje primjene etičkog kodeksa za izabrane predstavnike/ce i funkcionere/ke | [`odluka/2012/329718/`](odluka/2012/329718/) | in force | 1 | 2012-08-14 | 2012-08-14 |
+| Odluka o raspisivanju opštinskog referenduma (konsultativnog referenduma) radi prethodnog izjašnjavanja građana o osnivanju Opštine Petnjica | [`odluka/2012/329989/`](odluka/2012/329989/) | in force | 1 | 2012-06-30 | 2012-06-30 |
+| Odluka o davanju saglasnosti za odustajanje od žalbe u predmetu Posl.br. Rs.26/11 | [`odluka/2012/330434/`](odluka/2012/330434/) | in force | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o razrješenju člana Savjeta Lokalnog javnog emitera "Radio i televizija Cetinje" | [`odluka/2012/330454/`](odluka/2012/330454/) | in force | 1 | 2012-12-18 | 2012-12-18 |
+| Odluka o davanju saglasnosti za izdavanje poslovnog prostora JU Umjetničke kolonije Danilovgrad | [`odluka/2012/330499/`](odluka/2012/330499/) | in force | 1 | 2012-04-11 | 2012-04-11 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi izgradnje objekata za prečišćavanje otpadnih voda | [`odluka/2012/330500/`](odluka/2012/330500/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o donošenju Elaborata o izmjenama i dopunama Elaborata o postavljanju i izgradnji montažnih objekata privremenog karaktera na teritoriji Glavnog grada - Podgorice | [`odluka/2012/331183/`](odluka/2012/331183/) | amending act | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o dopuni Odluke o privremenim mjerama za upravljanje kreditnim rizikom u bankama | [`odluka/2012/332956/`](odluka/2012/332956/) | amending act | 1 | 2012-01-19 | 2012-01-19 |
+| Odluka o izmjenama odluka kojima su propisane novčane kazne za prekršaje | [`odluka/2012/333244/`](odluka/2012/333244/) | in force | 1 | 2012-12-04 | 2012-12-04 |
+| Odluka o potvrđivanju Odluke o proglašenju vanrednog stanja na teritoriji Crne Gore | [`odluka/2012/333332/`](odluka/2012/333332/) | in force | 1 | 2012-02-15 | 2012-02-15 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju odbora za Statut i propise Skupštine opštine Pljevlja | [`odluka/2012/333397/`](odluka/2012/333397/) | amending act | 1 | 2012-04-11 | 2012-04-11 |
+| Odluka o izmjenama Statuta "Budva Holding" doo Budva | [`odluka/2012/333497/`](odluka/2012/333497/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o proglašenju vanrednog stanja na teritoriji Crne Gore | [`odluka/2012/333755/`](odluka/2012/333755/) | in force | 1 | 2012-02-15 | 2012-02-15 |
+| Odluka o preuzimanju duga ad Kombinat aluminijuma Podgorica prema Deutsche banci | [`odluka/2012/333818/`](odluka/2012/333818/) | in force | 1 | 2012-02-22 | 2012-02-22 |
+| Odluka o izmjeni Odluke o organizovanju Javne ustanove Zavičajni muzej Pljevlja | [`odluka/2012/334261/`](odluka/2012/334261/) | in force | 1 | 2012-02-01 | 2012-02-01 |
+| Odluka o otvaranju parlamentarne istrage i obrazovanju Anketnog odbora za prikupljanje informacija i činjenica o korupciji u privatizaciji Telekoma Crne Gore | [`odluka/2012/334486/`](odluka/2012/334486/) | in force | 1 | 2012-03-07 | 2012-03-07 |
+| Odluka a o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju dijela makadamskog puta na katastarskoj parceli broj 121 KO Grbe - Opština Danilovgrad | [`odluka/2012/334780/`](odluka/2012/334780/) | in force | 1 | 2012-04-07 | 2012-04-07 |
+| Odluka o izmjenama Statuta Novog duvanskog kombinata akcionarsko društvo Podgorica | [`odluka/2012/335204/`](odluka/2012/335204/) | in force | 1 | 2012-04-27 | 2012-04-27 |
+| Odluka o dopuni Odluke o bankarskom ombudsmanu | [`odluka/2012/335551/`](odluka/2012/335551/) | amending act | 1 | 2012-01-19 | 2012-01-19 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za izgradnju puta Cijevna Zatrijebačka - granica sa Albanijom | [`odluka/2012/335584/`](odluka/2012/335584/) | in force | 1 | 2012-06-09 | 2012-06-09 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za izgradnju magistralnog puta Risan - Žabljak, dionica Provalija - Motički Gaj | [`odluka/2012/335837/`](odluka/2012/335837/) | in force | 1 | 2012-06-16 | 2012-06-16 |
+| Odluka o emisiji obveznica Crne Gore po osnovu deviznih sredstava građana oročenih kod Dafiment banke ad Beograd | [`odluka/2012/336071/`](odluka/2012/336071/) | in force | 1 | 2012-06-29 | 2012-06-29 |
+| Odluka o emisiji obveznica Crne Gore po osnovu deviznih sredstava građana položenih kod Banke privatne privrede dd Podgorica položenih preko preduzeća Jugoskandik dd Beograd | [`odluka/2012/336072/`](odluka/2012/336072/) | in force | 1 | 2012-06-29 | 2012-06-29 |
+| Odluka o izmjeni i dopuni Odluke o zaduživanju i davanju garancija Crne Gore za 2012. godinu | [`odluka/2012/336393/`](odluka/2012/336393/) | amending act | 1 | 2012-07-27 | 2012-07-27 |
+| Odluka o dopuni Odluke o kriterijumima za utvrđivanje uslova za sticanje crnogorskog državljanstva prijemom | [`odluka/2012/337247/`](odluka/2012/337247/) | amending act | 1 | 2012-11-17 | 2012-11-17 |
+| Odluka o privremenim mjerama za ograničenje kamatnih stopa banaka | [`odluka/2012/337248/`](odluka/2012/337248/) | in force | 1 | 2012-11-17 | 2012-11-17 |
+| Odluka Ustavnog suda Crne Gore, U-II br. 30/11 | [`odluka/2012/337342/`](odluka/2012/337342/) | in force | 1 | 2012-11-10 | 2012-11-10 |
+| Odluka o izmjeni Odluke o načinu i uslovima korišćenja domena ispod Nacionalnog Internet domena Crne Gore ".me" | [`odluka/2012/337391/`](odluka/2012/337391/) | in force | 1 | 2012-10-31 | 2012-10-31 |
+| Odluka o prestanku važenja Odluke o utvrđivanju postupka kontrole namjenske potrošnje sredstava opredijeljenih klubovima poslanika za angažovanje sekretara i stručnih konsultanata klubova | [`odluka/2012/337740/`](odluka/2012/337740/) | in force | 1 | 2012-11-26 | 2012-11-26 |
+| Odluka o određivanju vrijednosti trofeja divljači koje je zabranjeno iznositi iz zemlje | [`odluka/2012/337986/`](odluka/2012/337986/) | in force | 1 | 2013-01-08 | 2013-01-08 |
+| Odluka o prestanku važenja Odluke o obaveznim elementima naloga za transfer sredstava koji se odnose na uplatioca | [`odluka/2012/337993/`](odluka/2012/337993/) | in force | 1 | 2012-12-26 | 2012-12-26 |
+| Odluka o izradi izmjena i dopuna Detaljnog urbanističkog plana "I faze Privredne zone" | [`odluka/2012/338891/`](odluka/2012/338891/) | amending act | 1 | 2012-04-07 | 2012-04-07 |
+| Odluka o davanju u zakup Doma kulture u Donjoj Lastvi | [`odluka/2012/338903/`](odluka/2012/338903/) | in force | 1 | 2012-04-07 | 2012-04-07 |
+| Odluka o davanju saglasnosti za brisanja tereta zabrane otuđenja i opterećenja upisanog na kat. 417/1, 417/4, 417/6, 417/7 i 460/1 KO Nikovići | [`odluka/2012/338916/`](odluka/2012/338916/) | in force | 1 | 2012-04-07 | 2012-04-07 |
+| Odluka o davanju saglasnosti za izdavanje poslovnog prostora Direkcije za saobraćaj, održavanje i izgradnju puteva na području Opštine Danilovgrad | [`odluka/2012/339156/`](odluka/2012/339156/) | in force | 1 | 2012-04-11 | 2012-04-11 |
+| Odluka o davanju saglasnosti na Statut Javnog preduzeća "Vodovod i kanalizacija" Danilovgrad | [`odluka/2012/339157/`](odluka/2012/339157/) | in force | 1 | 2012-04-11 | 2012-04-11 |
+| Odluka o oslobađanju obaveza po osnovu korišćenja privremene lokacije | [`odluka/2012/339169/`](odluka/2012/339169/) | in force | 1 | 2012-04-11 | 2012-04-11 |
+| Odluka o izmjeni Odluke o lokalnim komunalnim taksama | [`odluka/2012/339182/`](odluka/2012/339182/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o donošenju Lokalne studije lokacije Kolašin "Lipovo" | [`odluka/2012/339183/`](odluka/2012/339183/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o stavljanju van snage Odluke o osnivanju Jednočlanog društva sa ograničenom odgovornošću | [`odluka/2012/339196/`](odluka/2012/339196/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o pristupanju rekonstrukciji i adaptaciji Doma kulture u Pljevljima - III faza | [`odluka/2012/339198/`](odluka/2012/339198/) | in force | 1 | 2012-04-12 | 2012-04-12 |
+| Odluka o davanju saglasnosti na Statut Javne ustanove Narodna biblioteka "Stevan Samardžić" | [`odluka/2012/339213/`](odluka/2012/339213/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o davanju saglasnosti na Odluku o izboru direktora JU Centar za sport i rekreaciju | [`odluka/2012/339214/`](odluka/2012/339214/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju Odbora za međuopštinsku i međunarodnu saradnju Skupštine opštine Pljevlja | [`odluka/2012/339227/`](odluka/2012/339227/) | amending act | 1 | 2012-04-11 | 2012-04-11 |
+| Odluka o donošenju Urbanističkog projekta "Radovića Laz" | [`odluka/2012/339299/`](odluka/2012/339299/) | in force | 1 | 2012-04-13 | 2012-04-13 |
+| Odluka o donošenju Lokalne studije lokacije "Podostrog" | [`odluka/2012/339301/`](odluka/2012/339301/) | in force | 1 | 2012-04-13 | 2012-04-13 |
+| Odluka o potvrđivanju Odluke o upotrebi sredstava stalne budžetske rezerve | [`odluka/2012/339476/`](odluka/2012/339476/) | in force | 1 | 2012-04-13 | 2012-04-13 |
+| Odluka o izmjeni Odluke o porezu na nepokretnosti | [`odluka/2012/339487/`](odluka/2012/339487/) | in force | 1 | 2012-04-13 | 2012-04-13 |
+| Odluka o dodjeli stipendije svršenim učenicima srednjih škola i studentima | [`odluka/2012/339488/`](odluka/2012/339488/) | in force | 1 | 2012-04-13 | 2012-04-13 |
+| Odluka o visini naknade angažovanih resursa za vrijeme vanrednog stanja | [`odluka/2012/339525/`](odluka/2012/339525/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima lokalnih službenika i namještenika | [`odluka/2012/339526/`](odluka/2012/339526/) | amending act | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o zamjeni i prenosu prava korišćenja na građevinskom zemljištu | [`odluka/2012/339539/`](odluka/2012/339539/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi izgradnje trafostanice i davanju ovlašćenja predsjedniku opštine | [`odluka/2012/339556/`](odluka/2012/339556/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o izmjeni Odluke o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele (br. 0101- 689/1 od 29.12.2011. godine) | [`odluka/2012/339557/`](odluka/2012/339557/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o zaduženju Opštine Andrijevica | [`odluka/2012/339563/`](odluka/2012/339563/) | in force | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o izmjenama Odluke o uređenju grada i naselja Opštine Kotor | [`odluka/2012/339568/`](odluka/2012/339568/) | in force | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Gornji Talum" | [`odluka/2012/339577/`](odluka/2012/339577/) | amending act | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o izboru člana Upravnog odbora JP Sportski centar | [`odluka/2012/339578/`](odluka/2012/339578/) | in force | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju Savjeta za razvoj i zaštitu lokalne samouprave | [`odluka/2012/339584/`](odluka/2012/339584/) | amending act | 1 | 2012-04-27 | 2012-04-27 |
+| Odluka o davanju zemljišta na korišćenje u okviru industrijske zone Rudeš | [`odluka/2012/339589/`](odluka/2012/339589/) | in force | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o učešću Glavnog grada - Podgorice u izgradnji objekta Studentskog doma u Podgorici | [`odluka/2012/339591/`](odluka/2012/339591/) | in force | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javne ustanove Kulturno-informativni centar ″Budo Tomović″ Podgorica | [`odluka/2012/339592/`](odluka/2012/339592/) | amending act | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o donošenju Lokalnog plana akcije za djecu u Opštini Rožaje za period 2012- 2017. godine | [`odluka/2012/339605/`](odluka/2012/339605/) | in force | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o izmjenama i dopunama Odluke o izradi Izmjena i dopuna Generalnog urbanističkog plana Cetinja za prostor Detaljnog urbanističkog plana "Gruda-Donje Polje (Zona D )" | [`odluka/2012/339672/`](odluka/2012/339672/) | amending act | 1 | 2012-05-05 | 2012-05-05 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju Odbora za planiranje i uređenje prostora i komunalno stambenu djelatnost Skupštine opštine Pljevlja | [`odluka/2012/339747/`](odluka/2012/339747/) | amending act | 1 | 2012-04-27 | 2012-04-27 |
+| Odluka o izmjenama i dopunama Odluke o finansijskom učešću Opštine Berane u rješavanju stambenih pitanja | [`odluka/2012/339767/`](odluka/2012/339767/) | amending act | 1 | 2012-04-26 | 2012-04-26 |
+| Odluka o oslobađanju plaćanja obaveza po osnovu poreza na nepokretnosti za poljoprivredno zemljište koje se koristi u poljoprivredne svrhe u 2012.godini | [`odluka/2012/340037/`](odluka/2012/340037/) | in force | 1 | 2012-06-01 | 2012-06-01 |
+| Odluka o davanju nepokretnosti na upravljanje i korišćenje | [`odluka/2012/340038/`](odluka/2012/340038/) | in force | 1 | 2012-06-01 | 2012-06-01 |
+| Odluka o donošenju Lokalne studije lokacije "Popovići 1" | [`odluka/2012/340144/`](odluka/2012/340144/) | in force | 1 | 2012-05-23 | 2012-05-23 |
+| Odluka o imenovanju Komisije za izradu Nacrta odluke o izmjenama i dopunama Statuta Opštine Mojkovac | [`odluka/2012/340167/`](odluka/2012/340167/) | amending act | 1 | 2012-05-23 | 2012-05-23 |
+| Odluka o visini naknade za rad članova Etičke komisije za izabrane predstavnike i funkcionere i Etičke komisije za lokalne službenike i namještenike opštine Mojkovac | [`odluka/2012/340169/`](odluka/2012/340169/) | in force | 1 | 2012-05-23 | 2012-05-23 |
+| Odluka o izmjeni i dopuni Odluke o ustupanju Gradske kapele na privremeno korišćenje | [`odluka/2012/340178/`](odluka/2012/340178/) | amending act | 1 | 2012-05-23 | 2012-05-23 |
+| Odluka o dopuni Odluke o naknadi za komunalno opremanje građevinskog zemljišta | [`odluka/2012/340188/`](odluka/2012/340188/) | amending act | 1 | 2012-05-23 | 2012-05-23 |
+| Odluka o izmjenama Odluke o zajedničkom ulaganju Opštine Nikšić i NVO SOS telefon za žene i djecu žrtve nasilja Nikšić | [`odluka/2012/340189/`](odluka/2012/340189/) | in force | 1 | 2012-05-23 | 2012-05-23 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora Javnog preduzeća " Vodovod i kanalizacija" Danilovgrad o imenovanju direktora preduzeća | [`odluka/2012/340684/`](odluka/2012/340684/) | in force | 1 | 2012-06-05 | 2012-06-05 |
+| Odluka o imenovanju Savjeta Javne ustanove Centar za kulturu Danilovgrad | [`odluka/2012/340685/`](odluka/2012/340685/) | in force | 1 | 2012-06-05 | 2012-06-05 |
+| Odluka o izmjenama Odluke o davanju saglasnosti na bankarsku garanciju | [`odluka/2012/340707/`](odluka/2012/340707/) | in force | 1 | 2012-06-05 | 2012-06-05 |
+| Odluka o realizaciji saradnje i bratimljenja sa gradom Xi’an-om, Narodna Republika Kina | [`odluka/2012/340708/`](odluka/2012/340708/) | in force | 1 | 2012-06-13 | 2012-06-13 |
+| Odluka o realizaciji saradnje i bratimljenju sa gradom Delnice, Hrvatska | [`odluka/2012/340712/`](odluka/2012/340712/) | in force | 1 | 2012-06-01 | 2012-06-01 |
+| Odluka o zajedničkom ulaganju Opštine Nikšić i nevladine organizacije "Udruženje paraplegičara" Nikšić | [`odluka/2012/340828/`](odluka/2012/340828/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o zajedničkom ulaganju Opštine Nikšić i nevladinog udruženja "Gorske službe spašavanja Crne Gore" | [`odluka/2012/340829/`](odluka/2012/340829/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o dopuni Statuta Glavnog grada | [`odluka/2012/340936/`](odluka/2012/340936/) | amending act | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o potvrđivanju Odluke o izmjenama i dopunama Odluke o regulisanju saobraćaja na teritoriji Opštine Ulcinj | [`odluka/2012/340938/`](odluka/2012/340938/) | amending act | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o donošenju Izmjena i dopuna Generalnog urbanističkog plana Cetinja za prostor Detaljnog urbanističkog plana "Gruda - Donje Polje (Zona D)" | [`odluka/2012/340942/`](odluka/2012/340942/) | amending act | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o organizovanju Javne ustanove Narodna biblioteka i čitaonica "Njegoš" Cetinje | [`odluka/2012/340944/`](odluka/2012/340944/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o izradi Izmjena i dopuna Generalnog urbanističkog plana Podgorice za prostor Urbanističkog projekta "Drač - Nova Varoš" - dio u Podgorici | [`odluka/2012/340945/`](odluka/2012/340945/) | amending act | 1 | 2012-06-12 | 2012-06-12 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javne ustanove Kulturno-informativni centar Zeta - Golubovci | [`odluka/2012/340946/`](odluka/2012/340946/) | amending act | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o donošenju Izmjena i dopuna Generalnog urbanističkog plana Cetinja za prostor Detaljnog urbanističkog plana "Donji Kraj (Zona E)" | [`odluka/2012/340949/`](odluka/2012/340949/) | amending act | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o uspostavljanju saradnje između Prijestonice Cetinje i Grada Gaeta | [`odluka/2012/340954/`](odluka/2012/340954/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o davanju saglasnosti na Odluku o razrješenju direktora Javnog preduzeća "Vodovod i kanalizacija" Cetinje | [`odluka/2012/340955/`](odluka/2012/340955/) | in force | 1 | 2012-06-20 | 2012-06-20 |
+| Odluka o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave Opštine Herceg Novi | [`odluka/2012/341125/`](odluka/2012/341125/) | amending act | 1 | 2012-06-22 | 2012-06-22 |
+| Odluka o bratimljenju Opštine Rožaje sa Opštinom Buca | [`odluka/2012/341295/`](odluka/2012/341295/) | in force | 1 | 2012-07-18 | 2012-07-18 |
+| Odluka o izmjeni Odluke br. 0304-243 od 24.06.2011.god. | [`odluka/2012/341334/`](odluka/2012/341334/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o izmjeni Odluke o naknadama odbornicima u Skupštini opštine Tivat | [`odluka/2012/341356/`](odluka/2012/341356/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o izmjeni Odluke o visini naknade za rad članovima Savjeta za razvoj i zaštitu lokalne samouprave Opštine Tivat | [`odluka/2012/341357/`](odluka/2012/341357/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o uslovima i postupku davanja u zakup poslovnog prostora | [`odluka/2012/341411/`](odluka/2012/341411/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o privremenom finansiranju Opštine Šavnik za period januar - mart 2012. godine | [`odluka/2012/341442/`](odluka/2012/341442/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o ustupanju bez naknade poslovnih i stambenih prostorija vlasništvo Opštine Veterinarskoj ambulanti d.o.o. ,,SINJAJEVINA" Šavnik | [`odluka/2012/341466/`](odluka/2012/341466/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o ustupanju bez naknade poslovnih prostorija vlasništvo Opštine Šavnik JP "Održavanje i izgradnja" Šavnik | [`odluka/2012/341467/`](odluka/2012/341467/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o učešću Glavnog grada-Podgorice za izgradnju objekta, namjene-univerzitetski sadržaji (zgrada tri fakulteta) | [`odluka/2012/341487/`](odluka/2012/341487/) | in force | 1 | 2012-07-07 | 2012-07-07 |
+| Odluka o učešću Glavnog grada - Podgorice u izgradnji objekta Fudbalskog saveza Crne Gore | [`odluka/2012/341488/`](odluka/2012/341488/) | in force | 1 | 2012-07-07 | 2012-07-07 |
+| Odluka o učešću Glavnog grada-Podgorice za izgradnju objekta Medrese, sa pratećim sadržajima | [`odluka/2012/341489/`](odluka/2012/341489/) | in force | 1 | 2012-07-07 | 2012-07-07 |
+| Odluka o izradi strateške procjene uticaja na životnu sredinu Izmjena i dopuna Detaljnog urbanističkog plana Žabljak | [`odluka/2012/341494/`](odluka/2012/341494/) | amending act | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o konstituisanju založnog prava (hipoteke drugog reda) | [`odluka/2012/341547/`](odluka/2012/341547/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o prestanku važenja Odluke o porezu na igre na sreću i zabavne igre | [`odluka/2012/341550/`](odluka/2012/341550/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o davanju saglasnosti na Odluku upravnog odbora Javnog preduzeća "Vodovod i kanalizacija" Herceg Novi broj: 20/1-15 o raspolaganju imovinom | [`odluka/2012/341551/`](odluka/2012/341551/) | in force | 1 | 2012-01-17 | 2012-01-17 |
+| Odluka o imenovanju Komisije za rješavanje stambenih pitanja lica koja bira ili imenuje Skupština opštine i predsjednik Opštine | [`odluka/2012/341606/`](odluka/2012/341606/) | in force | 1 | 2012-01-17 | 2012-01-17 |
+| Odluka o izmjenama i dopunama Odluke o regulisanju saobraćaja na teritoriji Opštine Ulcinj | [`odluka/2012/341641/`](odluka/2012/341641/) | amending act | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o opredjeljenju novčanih sredstava za izgradnju puta Bistrica - Đalovića klisura i seoskog vodovoda za naselje Bistricu | [`odluka/2012/341654/`](odluka/2012/341654/) | in force | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o preuzimanju obaveze Opštine Bijelo Polje za izmirenje dugovanja radnicima "Prve petoljetke" AD Bijelo Polje, na ime preuzimanja nepokretnosti vojnog skladišta Cerovo | [`odluka/2012/341655/`](odluka/2012/341655/) | in force | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o Izmjenama i dopunama Detaljnog urbanističkog plana "Novi grad 1 i 2" u Podgorici | [`odluka/2012/341671/`](odluka/2012/341671/) | amending act | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o Izmjenama i dopunama Detaljnog urbanističkog plana "Pobrežje zona F" u Podgorici | [`odluka/2012/341672/`](odluka/2012/341672/) | amending act | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o izmjeni Odluke o uslovima, načinu i postupku za dodjelu Nagrade "19.decembar" | [`odluka/2012/341674/`](odluka/2012/341674/) | in force | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o imenovanju predsjednika Odbora za Statut i propise | [`odluka/2012/341685/`](odluka/2012/341685/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o ustupanju nepokretnosti bez naknade i oslobađanju obaveze plaćanja naknade za uređivanje građevinskog zemljišta u KO Grbe | [`odluka/2012/341717/`](odluka/2012/341717/) | in force | 1 | 2012-12-04 | 2012-12-04 |
+| Odluka o određivanju lokacije za privremeno skladištenje komunalnog otpada | [`odluka/2012/341718/`](odluka/2012/341718/) | in force | 1 | 2012-12-04 | 2012-12-04 |
+| Odluka o izmjeni Odluke o ustanovljenju Studentske nagrade Glavnog grada | [`odluka/2012/341723/`](odluka/2012/341723/) | in force | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o privremenom skladištenju komunalnog otpada | [`odluka/2012/341725/`](odluka/2012/341725/) | in force | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o stavljanju van snage Odluke o izmjeni i dopuni Odluke o izradi Lokalne studije lokacije "LAPČIĆI" | [`odluka/2012/341756/`](odluka/2012/341756/) | amending act | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o osnivanju Omladinskog fudbalskog kluba "Petrovac" Petrovac | [`odluka/2012/341770/`](odluka/2012/341770/) | in force | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o donošenju Prostorno-urbanističkog plana Opštine Plužine do 2025. godine | [`odluka/2012/341788/`](odluka/2012/341788/) | in force | 1 | 2012-11-06 | 2012-11-06 |
+| Odluka o davanju ovlašćenja predsjedniku Opštine | [`odluka/2012/341822/`](odluka/2012/341822/) | in force | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o davanju u dugoročni zakup nepokretnosti | [`odluka/2012/341823/`](odluka/2012/341823/) | in force | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o razmjeni nepokretnosti, broj: 0101-634/1 | [`odluka/2012/341824/`](odluka/2012/341824/) | in force | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o donošenju Strateškog plana razvoja Opštine Tivat za period od 2012. - 2016. god. | [`odluka/2012/341854/`](odluka/2012/341854/) | in force | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o izmjeni i dopuni Odluke o organizovanju Javne ustanove "Sportska dvorana" u Tivtu | [`odluka/2012/341855/`](odluka/2012/341855/) | amending act | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o otkupu kat. par. 370/2 KO Nikovići | [`odluka/2012/341856/`](odluka/2012/341856/) | in force | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o razmjeni nepokretnosti, broj: 0101-637/1 | [`odluka/2012/341878/`](odluka/2012/341878/) | in force | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o ravnopravnosti polova u Prijestonici Cetinje | [`odluka/2012/341895/`](odluka/2012/341895/) | in force | 1 | 2012-11-06 | 2012-11-06 |
+| Odluka o otkupu zemljišta | [`odluka/2012/341905/`](odluka/2012/341905/) | in force | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 4 u okviru DUP-a Rozino I | [`odluka/2012/341930/`](odluka/2012/341930/) | in force | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o izmjeni Odluke o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 6 u bloku 14 prema DUP-u Dubovica broj 0101-687/1 od 29.12.2011. godine | [`odluka/2012/341931/`](odluka/2012/341931/) | in force | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o Izmjenama i dopunama Odluke o zaradama i drugim primanjima lokalnih službenika i namještenika | [`odluka/2012/341952/`](odluka/2012/341952/) | amending act | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o obezbjeđenju sredstava za finansiranje rada političkih partija | [`odluka/2012/342077/`](odluka/2012/342077/) | in force | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o davanju saglasnosti na Cjenovnik usluga za opšta i posebna parkirališta | [`odluka/2012/342129/`](odluka/2012/342129/) | in force | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o dopuni Odluke o učešću lokalnog stanovništva u vršenju javnih poslova | [`odluka/2012/342174/`](odluka/2012/342174/) | amending act | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o davanju saglasnosti na Završni račun finansijskog plana Gradske opštine Tuzi za 2011. godinu | [`odluka/2012/342175/`](odluka/2012/342175/) | in force | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o izmjenama i dopunama Odluke o javnom prevozu u gradskom i prigradskom linijskom saobraćaju | [`odluka/2012/342205/`](odluka/2012/342205/) | amending act | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o izmjeni i dopuni Odluke o uslovima i načinu držanja domaćih životinja i živine u gradskom području | [`odluka/2012/342206/`](odluka/2012/342206/) | amending act | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o privremenom finansiranju Opštine Plav za period januar-mart 2013.godine | [`odluka/2012/342207/`](odluka/2012/342207/) | in force | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o donošenju izmjena i dopuna Lokalne studije Lokacije "Mala Volujica" | [`odluka/2012/342388/`](odluka/2012/342388/) | amending act | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o izradi izmjena i dopuna detaljnog urbanističkog plana "Maljevik" | [`odluka/2012/342436/`](odluka/2012/342436/) | amending act | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o davanju saglasnosti na Rješenje Predsjednice Opštine Kotor o imenovanju Branka Nedovića, ekonomiste iz Kotora za potpredsjednika Opštine Kotor | [`odluka/2012/342438/`](odluka/2012/342438/) | in force | 1 | 2012-12-18 | 2012-12-18 |
+| Odluka o davanju ovlašćenja predsjedniku opštine za rješavanje stambenog pitanja | [`odluka/2012/342478/`](odluka/2012/342478/) | in force | 1 | 2012-12-26 | 2012-12-26 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 9-18 u okviru bloka 9 u zahvatu DUP-a Babin do | [`odluka/2012/342479/`](odluka/2012/342479/) | in force | 1 | 2012-12-26 | 2012-12-26 |
+| Odluka o davanju saglasnosti na Rješenje Predsjednice Opštine Kotor o imenovanju Jova Suđića, menadžera iz Kotora za potpredsjednika Opštine Kotor | [`odluka/2012/342480/`](odluka/2012/342480/) | in force | 1 | 2012-12-18 | 2012-12-18 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 74.4 u okviru bloka 74 u zahvatu DUP-a Bečići | [`odluka/2012/342526/`](odluka/2012/342526/) | in force | 1 | 2012-12-26 | 2012-12-26 |
+| Odluka o prenosu prava svojine na nepokretnosti radi formiranja urbanističke parcele broj 70.7 u bloku 70 C DUP Bečići | [`odluka/2012/342527/`](odluka/2012/342527/) | in force | 1 | 2012-12-26 | 2012-12-26 |
+| Odluka o izmjenama i dopunama detaljnog urbanističkog plana "Čanj 2" 1113. Odluka o izradi Strateške procjene uticaja na životnu sredinu detaljnog urbanističkog plana »Maljevik« | [`odluka/2012/342589/`](odluka/2012/342589/) | amending act | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o davanju saglasnosti na Odluku o podjeli Mjesne zajednice Dobrota i osnivanju Mjesne zajednice Dobrota II | [`odluka/2012/342590/`](odluka/2012/342590/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o utvrđivanju broja odbornika/ca u Skupštini Opštine Kotor | [`odluka/2012/342591/`](odluka/2012/342591/) | in force | 1 | 2012-08-20 | 2012-08-20 |
+| Odluka o dopuni Odluke o komunalnom redu | [`odluka/2012/342737/`](odluka/2012/342737/) | amending act | 1 | 2012-12-07 | 2012-12-07 |
+| Odluka o plaćanju kamata za kredite date izvođačima radova | [`odluka/2012/342784/`](odluka/2012/342784/) | in force | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o davanju saglasnosti na Odluku zbora građana o izdvajanju naselja Potrk iz Mjesne zajednice Tomaševo | [`odluka/2012/342785/`](odluka/2012/342785/) | in force | 1 | 2012-11-21 | 2012-11-21 |
+| Odluka o pokretanju postupka za izbor strateškog partnera za izgradnju hotela u sklopu Sportsko-rekreativnog centra "Solila" u Igalu | [`odluka/2012/342797/`](odluka/2012/342797/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o prestanku važenja Odluke o finansiranju političkih partija | [`odluka/2012/342799/`](odluka/2012/342799/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o davanju saglasnosti na ugovor o zajedničkom ulaganju | [`odluka/2012/342826/`](odluka/2012/342826/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o davanju saglasnosti na Cjenovnik usluga zakupa na zelenoj pijaci u Tržnom centru "Bazar" u Bloku V | [`odluka/2012/342860/`](odluka/2012/342860/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o zajedničkom ulaganju Opštine Nikšić i nevladine organizacije "Preporod" Nikšić | [`odluka/2012/342870/`](odluka/2012/342870/) | in force | 1 | 2012-08-14 | 2012-08-14 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora Javnog preduzeća "Sportski centar" Nikšić o davanju u zakup poslovnih prostora putem prikupljanja ponuda | [`odluka/2012/342871/`](odluka/2012/342871/) | in force | 1 | 2012-08-14 | 2012-08-14 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 6 u bloku 14 prema DUP-u Dubovica | [`odluka/2012/342881/`](odluka/2012/342881/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 1 u bloku 4 DUP-a "Podkošljun" | [`odluka/2012/342882/`](odluka/2012/342882/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 20.2 DUP-a "Budva-centar" | [`odluka/2012/342883/`](odluka/2012/342883/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 6 u okviru bloka broj B6 DUP-a "Petrovac - šira zona" | [`odluka/2012/342884/`](odluka/2012/342884/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o donošenju Akcionog plana sprovođenja Strategije održivog razvoja Opštine Danilovgrad za period 2012-2018. godine | [`odluka/2012/342935/`](odluka/2012/342935/) | in force | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora JKP "Kotor", Kotor o kreditnom zaduženju | [`odluka/2012/342988/`](odluka/2012/342988/) | in force | 1 | 2012-09-07 | 2012-09-07 |
+| Odluka o izmjeni i dopuni Odluke o produženju roka zakupa, broj: 11- 10013 | [`odluka/2012/342989/`](odluka/2012/342989/) | amending act | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o izmjeni i dopuni Odluke o produženju roka zakupa, broj: 11- 10014 | [`odluka/2012/342990/`](odluka/2012/342990/) | amending act | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o donošenju Lokalne studije lokacije "Milino Brdo" | [`odluka/2012/342994/`](odluka/2012/342994/) | in force | 1 | 2012-10-02 | 2012-10-02 |
+| Odluka o donošenju Lokalne studije lokacije za dio "Duljevo I" | [`odluka/2012/342995/`](odluka/2012/342995/) | in force | 1 | 2012-10-02 | 2012-10-02 |
+| Odluka o izmjeni i dopuni Odluke o produženju roka zakupa, broj: 11- 10015 | [`odluka/2012/343042/`](odluka/2012/343042/) | amending act | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o izmjeni i dopuni Odluke o produženju roka zakupa, broj: 11- 10016 | [`odluka/2012/343043/`](odluka/2012/343043/) | amending act | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o donošenju Lokalne studije lokacije za dio "Vrba II - drugi dio" | [`odluka/2012/343044/`](odluka/2012/343044/) | in force | 1 | 2012-10-02 | 2012-10-02 |
+| Odluka o donošenju Lokalne studije lokacije "Laze" | [`odluka/2012/343045/`](odluka/2012/343045/) | in force | 1 | 2012-10-02 | 2012-10-02 |
+| Odluka o izmjeni i dopuni Odluke o produženju roka zakupa, broj: 11- 10017 | [`odluka/2012/343100/`](odluka/2012/343100/) | amending act | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o izmjeni i dopuni Odluke o produženju roka zakupa, broj: 11- 10019 | [`odluka/2012/343101/`](odluka/2012/343101/) | amending act | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o izradi Strateške procjene uticaja na životnu sredinu | [`odluka/2012/343137/`](odluka/2012/343137/) | in force | 1 | 2012-07-25 | 2012-07-25 |
+| Odluka o izmjeni i dopuni Odluke o uslovima i načinu izvođenja i emitovanja muzike u turističkim i ugostiteljskim objektima i zaštiti od buke na teritoriji Opštine Plav | [`odluka/2012/343184/`](odluka/2012/343184/) | amending act | 1 | 2012-12-08 | 2012-12-08 |
+| Odluka o donošenju Detaljnog urbanističkog plana naselja Gornje Loznice | [`odluka/2012/343260/`](odluka/2012/343260/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o rješavanju stambenih potreba lica koja bira ili imenuje skupština opštine, predsjednik opštine i drugih lica čiji je rad od posebnog interesa za opštinu | [`odluka/2012/343262/`](odluka/2012/343262/) | in force | 1 | 2012-08-07 | 2012-08-07 |
+| Odluka o izmjenama i dopunama Odluke o porezu na nepokretnost | [`odluka/2012/343263/`](odluka/2012/343263/) | amending act | 1 | 2012-08-07 | 2012-08-07 |
+| Odluka o prenosu prava svojine na nepokretnosti putem međunarodnog javnog tendera (Katastarska parcela 1276/13 KO Buljarica II) | [`odluka/2012/343358/`](odluka/2012/343358/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o Lokalnoj studiji lokacije "Mihinja" u Podgorici | [`odluka/2012/343359/`](odluka/2012/343359/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o izmjenama i dopunama Generalnog urbanističkog plana Podgorice za prostor Detaljnog urbanističkog plana "Radoje Dakić" u Podgorici | [`odluka/2012/343460/`](odluka/2012/343460/) | amending act | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o izmjenama i dopunama Detaljnog urbanističkog plana "Radoje Dakić" u Podgorici | [`odluka/2012/343461/`](odluka/2012/343461/) | amending act | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o učešću Glavnog grada - Podgorice u izgradnji objekta kolektivnog stanovanja za potrebe Udruženja penzionera Podgorice | [`odluka/2012/343462/`](odluka/2012/343462/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o davanju u zakup građevinskog zemljišta Upravi za imovinu Crne Gore | [`odluka/2012/343513/`](odluka/2012/343513/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o učešću Prijestonice Cetinje u izgradnji objekata u okviru projekta - "Univerzitetski kompleks fakulteta umjetnosti" | [`odluka/2012/343565/`](odluka/2012/343565/) | in force | 1 | 2012-07-25 | 2012-07-25 |
+| Odluka o prenosu prava svojine na građevinsko zemljište na Božović Grujicu | [`odluka/2012/343578/`](odluka/2012/343578/) | in force | 1 | 2012-08-14 | 2012-08-14 |
+| Odluka o izradi detaljnog urbanističkog plana "Žukotrlica - turistički kompleks" | [`odluka/2012/343581/`](odluka/2012/343581/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o uspostavljanju saradnje sa Opštinom Burhanija - Republika Turska | [`odluka/2012/343591/`](odluka/2012/343591/) | in force | 1 | 2012-01-17 | 2012-01-17 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora Javnog preduzeća "Sportski centar" o davanju u zakup zemljišta za postavljanje privremenih reklamnih objekata putem prikupljanja ponuda | [`odluka/2012/343624/`](odluka/2012/343624/) | in force | 1 | 2012-08-14 | 2012-08-14 |
+| Odluka o donošenju izmjena i dopuna Detaljnog urbanističkog plana Orahovac i Dražin vrt | [`odluka/2012/343629/`](odluka/2012/343629/) | amending act | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 5.18j u bloku broj 5b u skladu DUP-a "Budva-centar" | [`odluka/2012/343639/`](odluka/2012/343639/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o fizičkoj diobi i prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj R11, R13 i R23 u skladu sa LSL "Rađenovići" | [`odluka/2012/343640/`](odluka/2012/343640/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o izmjenama Odluke o osnivanju "Budva Holding" d.o.o. Budva | [`odluka/2012/343641/`](odluka/2012/343641/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Odluka o izmjeni i dopuni Odluke o produženju roka zakupa, broj: 11- 10012 | [`odluka/2012/343831/`](odluka/2012/343831/) | amending act | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o donošenju Detaljnog urbanističkog plana i Urbanističkog projekta "Istorijsko jezgro" Cetinje, dio zone A1 - zona gradskog jezgra | [`odluka/2012/344186/`](odluka/2012/344186/) | in force | 1 | 2012-10-02 | 2012-10-02 |
+| Odluka o obrazovanju Komisije za saradnju sa nevladinim organizacijama i raspodjelu sredstava za projekte nevladinim organizacijama | [`odluka/2012/344187/`](odluka/2012/344187/) | in force | 1 | 2012-09-24 | 2012-09-24 |
+| Odluka o utvrđivanju javnog interesa na nepokretnostima radi izgradnje blok postrojenja za - prečišćavanje otpadnih voda u Gusinju | [`odluka/2012/344294/`](odluka/2012/344294/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o izmjenama i dopunama Odluke o izradi izmjena i dopuna Detaljnog urbanističkog plana i Urbanističkog projekta "Istorijsko jezgro" Cetinje, dio zone A1 - zona gradskog jezgra | [`odluka/2012/344343/`](odluka/2012/344343/) | amending act | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o prenosu prava korišćenja/ sukorišćenja na građevinskom zemljištu na Aničić Miroslava iz Bijelog Polja | [`odluka/2012/344364/`](odluka/2012/344364/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele S4 Dup "Perazića do " | [`odluka/2012/344365/`](odluka/2012/344365/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o davanju ovlašćenja predsjedniku opštine da otkupi zemljište potrebno za formiranje urbanističke parcele 16.1 u skladu sa DUP-om Budva centar | [`odluka/2012/344366/`](odluka/2012/344366/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave Opštine Herceg Novi | [`odluka/2012/344483/`](odluka/2012/344483/) | amending act | 1 | 2012-08-06 | 2012-08-06 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora JP "Vodovod i kanalizacija" Podgorica o objavljivanju javnog poziva | [`odluka/2012/344510/`](odluka/2012/344510/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o Detaljnom urbanističkom planu "Golubovci - Centar" u Podgorici | [`odluka/2012/344511/`](odluka/2012/344511/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o učešću Glavnog grada-Podgorice za dogradnju objekta JU OŠ "Gornja Zeta" u Srpskoj | [`odluka/2012/344512/`](odluka/2012/344512/) | in force | 1 | 2012-08-02 | 2012-08-02 |
+| Odluka o davanju saglasnosti za zaključenje poravnanja u predmetu Posl.br. P.576/10/10 | [`odluka/2012/344603/`](odluka/2012/344603/) | in force | 1 | 2012-08-07 | 2012-08-07 |
+| Odluka o pristupanju Forumu Jadransko-jonskih gradova | [`odluka/2012/344605/`](odluka/2012/344605/) | in force | 1 | 2012-07-30 | 2012-07-30 |
+| Odluka o proglašenju lokaliteta "Vladimirske Krute"-biznis zonom otvorenom za ulaganja | [`odluka/2012/344642/`](odluka/2012/344642/) | in force | 1 | 2012-08-07 | 2012-08-07 |
+| Odluka o hipoteci | [`odluka/2012/344644/`](odluka/2012/344644/) | in force | 1 | 2012-08-07 | 2012-08-07 |
+| Odluka o skraćenju mandata odbornika Skupštine opštine Nikšić | [`odluka/2012/344645/`](odluka/2012/344645/) | in force | 1 | 2012-07-30 | 2012-07-30 |
+| Odluka o zaduženju opštine | [`odluka/2012/344662/`](odluka/2012/344662/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o privremenom skladištenju komunalnog otpada | [`odluka/2012/344663/`](odluka/2012/344663/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o unapređenju poslovnog ambijenta u biznis zoni "Bakovići" | [`odluka/2012/344712/`](odluka/2012/344712/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o usvajanju Programa razvoja poljoprivrede Opštine Kolašin za period od 2012 do 2014. godine | [`odluka/2012/344751/`](odluka/2012/344751/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o razrješenju i imenovanju predsjednika Odbora za međuopštinsku i međunarodnu saradnju | [`odluka/2012/344753/`](odluka/2012/344753/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o izradi izmjena i dopuna detaljnog urbanističkog plana "Ilino" | [`odluka/2012/344757/`](odluka/2012/344757/) | amending act | 1 | 2012-09-15 | 2012-09-15 |
+| Odluka o učešću Opštine Nikšić u izgradnji objekta kolektivnog stanovanja sa pratećim sadržajima za potrebe realizacije projekta rješavanja stambenih pitanja izbjeglica i interno raseljenih lica | [`odluka/2012/344783/`](odluka/2012/344783/) | in force | 1 | 2012-08-09 | 2012-08-09 |
+| Odluka o izmjeni i dopuni Odluke o mjesnim zajednicama | [`odluka/2012/344793/`](odluka/2012/344793/) | amending act | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o izmjeni Odluke o naknadama odbornicima u Skupštini Gradske opštine Tuzi | [`odluka/2012/344815/`](odluka/2012/344815/) | in force | 1 | 2012-02-29 | 2012-02-29 |
+| Odluka o davanju saglasnosti na Anex Ugovora o kreditu br. 100 619 | [`odluka/2012/345092/`](odluka/2012/345092/) | in force | 1 | 2012-12-29 | 2012-12-29 |
+| Odluka o usvajanju Lokalnog plana akcije za mlade Opštine Pljevlja | [`odluka/2012/345353/`](odluka/2012/345353/) | in force | 1 | 2012-02-01 | 2012-02-01 |
+| Odluka o davanju saglasnosti na Statut Javne ustanove Narodna biblioteka i čitaonica "Njegoš" Cetinje | [`odluka/2012/345758/`](odluka/2012/345758/) | in force | 1 | 2012-12-26 | 2012-12-26 |
+| Odluka odavanju saglasnosti na imenovanje direktora Javnog preduzeća "Vodovod i kanalizacija" Cetinje | [`odluka/2012/345759/`](odluka/2012/345759/) | in force | 1 | 2012-12-26 | 2012-12-26 |
 | Odluka o donošenju Plana postavljanja montažnih objekata privremenog karaktera na teritoriji Opštine Kotor | [`odluka/2012/345832/`](odluka/2012/345832/) | in force | 1 | 2012-02-01 | 2012-02-01 |
 | Odluka o izmjenama Odluke o izdavanju u dugoročni zakup poslovnih prostorija Opštine Kotor | [`odluka/2012/345833/`](odluka/2012/345833/) | in force | 1 | 2012-02-01 | 2012-02-01 |
 | Odluka o prodaji - prenosu prava svojine na nepokretnosti | [`odluka/2012/345834/`](odluka/2012/345834/) | in force | 1 | 2012-02-01 | 2012-02-01 |
