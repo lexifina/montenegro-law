@@ -1,14 +1,31 @@
 # Every act in this repository
 
-5578 acts, 5,580 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5682 acts, 5,684 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
-## akt (459, of which 56 amending acts)
+## akt (563, of which 75 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Budžet Republike Crne Gore za 1992.godinu. | [`akt/1992/294874/`](akt/1992/294874/) | in force | 1 | 1992-05-15 | 1992-05-15 |
 | Odluka o pristupanju izradi DUP Podgošljun. | [`akt/1992/344933/`](akt/1992/344933/) | in force | 1 | 1992-04-30 | 1992-04-30 |
 | Tarifni sistem za prodaju električne energije | [`akt/1992/348542/`](akt/1992/348542/) | in force | 1 | 1992-01-23 | 1992-01-23 |
+| Podaci o kretanju cijena na malo za jul i avgust 1994. godine | [`akt/1994/295688/`](akt/1994/295688/) | in force | 1 | 1994-09-20 | 1994-09-20 |
+| Program imunizacije stanovništva protiv određenih zaraznih bolesti u 1994. godini | [`akt/1994/296592/`](akt/1994/296592/) | in force | 1 | 1994-03-25 | 1994-03-25 |
+| Naredba o uilatnim računima javnih prihoda | [`akt/1994/297021/`](akt/1994/297021/) | in force | 1 | 1994-03-11 | 1994-03-11 |
+| Budžet Republike Crne Gore za 1994. godinu | [`akt/1994/298259/`](akt/1994/298259/) | in force | 1 | 1994-04-03 | 1994-04-03 |
+| Završni račun Budžeta RCG za 1993. godinu | [`akt/1994/298534/`](akt/1994/298534/) | in force | 1 | 1994-04-03 | 1994-04-03 |
+| Završni račun Budžeta RCG za 1994. godinu | [`akt/1995/296032/`](akt/1995/296032/) | in force | 1 | 1995-05-16 | 1995-05-16 |
+| Plan upotrebe sredstava za podsticanje razvoja poljoprivrede u 1995. godini | [`akt/1995/296120/`](akt/1995/296120/) | in force | 1 | 1995-03-28 | 1995-03-28 |
+| Sporazum o visini minimalne zarade i načinu obračuna zarada za korisnike javnih prihoda za maj 1995. godine | [`akt/1995/297225/`](akt/1995/297225/) | in force | 1 | 1995-06-06 | 1995-06-06 |
+| Izmjene i dopune Liste ljekova koji se mogu propisivati i izdavati na teret Republičkog fonda za zdravstvo | [`akt/1995/300305/`](akt/1995/300305/) | amending act | 1 | 1995-06-10 | 1995-06-10 |
+| Budžet Republike Crne Gore za 1995. godinu | [`akt/1995/300588/`](akt/1995/300588/) | in force | 1 | 1995-01-10 | 1995-01-10 |
+| Budžet Republike Crne Gore za 1996. godinu | [`akt/1995/301172/`](akt/1995/301172/) | in force | 1 | 1995-12-30 | 1995-12-30 |
+| Program imunizacije stanovništva protiv određenih zaraznih bolesti u 1995. godini | [`akt/1995/301200/`](akt/1995/301200/) | in force | 1 | 1995-02-04 | 1995-02-04 |
 | Dopuna Tarifnog sistema za prodaju električne energije | [`akt/1995/349550/`](akt/1995/349550/) | amending act | 1 | 1995-07-29 | 1995-07-29 |
+| Program imunizacije stanovništva protiv određenih zaraznih bolesti u 1998. godini | [`akt/1996/294804/`](akt/1996/294804/) | in force | 1 | 1996-02-23 | 1996-02-23 |
+| Budžet Republike Crne Gore za 1997. godinu | [`akt/1996/295502/`](akt/1996/295502/) | in force | 1 | 1996-12-27 | 1996-12-27 |
+| Plan upotrebe sredstava za podsticanje razvoja poljoprivrede u 1998. godini | [`akt/1996/296262/`](akt/1996/296262/) | in force | 1 | 1996-02-23 | 1996-02-23 |
+| Završni račun Budžeta Republike Crne Gore za 1995. godinu | [`akt/1996/296703/`](akt/1996/296703/) | in force | 1 | 1996-04-17 | 1996-04-17 |
 | Posebni kolektivni ugovor za osnovne škole | [`akt/1996/348630/`](akt/1996/348630/) | in force | 1 | 1996-11-08 | 1996-11-08 |
 | Posebni kolektivni ugovor za srednje škole | [`akt/1996/348631/`](akt/1996/348631/) | in force | 1 | 1996-11-08 | 1996-11-08 |
 | Posebni kolektivni ugovor za djelatnosti kulture | [`akt/1996/348671/`](akt/1996/348671/) | in force | 1 | 1996-11-01 | 1996-11-01 |
@@ -19,10 +36,30 @@
 | Posebni kolektivni ugovor | [`akt/1996/363448/`](akt/1996/363448/) | in force | 1 | 1996-10-01 | 1996-10-01 |
 | Posebni kolektivni ugovor | [`akt/1996/363455/`](akt/1996/363455/) | in force | 1 | 1996-10-23 | 1996-10-23 |
 | Posebni kolektivni ugovor | [`akt/1996/363477/`](akt/1996/363477/) | in force | 1 | 1996-10-21 | 1996-10-21 |
+| Granski kolektivni ugovor za informativnu djelatnost | [`akt/1997/294412/`](akt/1997/294412/) | in force | 1 | 1997-12-25 | 1997-12-25 |
+| PLAN UPOTREBE SREDSTAVA ZA PODSTICANjE RAZVOJA POLjOPRIVREDE U 1997. GODINI | [`akt/1997/299807/`](akt/1997/299807/) | in force | 1 | 1997-03-04 | 1997-03-04 |
+| Budžet Republike Crne Gore za 1998. godinu | [`akt/1997/300246/`](akt/1997/300246/) | in force | 1 | 1997-12-30 | 1997-12-30 |
 | Granski kolektivni ugovor | [`akt/1997/349952/`](akt/1997/349952/) | in force | 1 | 1997-08-14 | 1997-08-14 |
 | GRANSKI KOLEKTIVNI UGOVOR | [`akt/1997/350127/`](akt/1997/350127/) | in force | 1 | 1997-02-07 | 1997-02-07 |
+| DOPUNA PRAVILA O RADU BIRAČKIH ODBORA | [`akt/1998/295569/`](akt/1998/295569/) | amending act | 1 | 1998-05-30 | 1998-05-30 |
+| REZOLUCIJA O ZAŠTITI INTERESA REPUBLIKE CRNE GORE U VIJEĆU REPUBLIKA SAVEZNE SKUPŠTINE POVODOM PREDLOGA ZA GLASANJE O NEPOVJERENJU SAVEZNOJ VLADI | [`akt/1998/296054/`](akt/1998/296054/) | in force | 1 | 1998-05-15 | 1998-05-15 |
 | POSEBNI KOLEKTIVNI UGOVOR ZA JU CENTAR ZA EKOTOKSIKOLOŠKA ISPITIVANJA CRNE GORE | [`akt/1998/344877/`](akt/1998/344877/) | in force | 1 | 1998-04-29 | 1998-04-29 |
+| Izmjene i dopune Posebnog kolektivnog ugovora za djelatnost šumarstva | [`akt/1999/296383/`](akt/1999/296383/) | amending act | 1 | 1999-01-26 | 1999-01-26 |
+| Plan upotrebe sredstava za podsticanje razvoja poljoprivrede u 1999. godini | [`akt/1999/297552/`](akt/1999/297552/) | in force | 1 | 1999-02-18 | 1999-02-18 |
+| Budžet Republike Crne Gore za 2000. godinu | [`akt/1999/297968/`](akt/1999/297968/) | in force | 1 | 2000-01-07 | 2000-01-07 |
+| Tarifa o nagradama i naknadama troskova za rad advokata | [`akt/2000/298907/`](akt/2000/298907/) | in force | 1 | 2000-11-21 | 2000-11-21 |
+| Plan upotrebe sredstava za podsticanje razvoja poljoprivrede u 2ooo.godini | [`akt/2000/300570/`](akt/2000/300570/) | in force | 1 | 2000-02-16 | 2000-02-16 |
+| Izmjene i dopune Budzeta Republike Crne Gore za 2001. godinu | [`akt/2001/299225/`](akt/2001/299225/) | amending act | 1 | 2001-12-29 | 2001-12-29 |
+| Plan upotrebe sredstava za podsticanje razvoja poljoprivrede u 2002. godini | [`akt/2002/298988/`](akt/2002/298988/) | in force | 1 | 2002-03-04 | 2002-03-04 |
+| Metodolosko uputstvo o nacinu i postupku inspekcijske kontrole | [`akt/2002/299427/`](akt/2002/299427/) | in force | 1 | 2002-07-11 | 2002-07-11 |
+| Tarifa o nagradama i naknadama troskova za rad advokata | [`akt/2002/299729/`](akt/2002/299729/) | in force | 1 | 2002-04-24 | 2002-04-24 |
+| Uputstvo o dopuni Uputstva o nacinu i postupku konverzije DEM i drugih valuta u EUR | [`akt/2002/306623/`](akt/2002/306623/) | amending act | 1 | 2002-03-28 | 2002-03-28 |
 | Posebne uzanse u turizmu | [`akt/2002/348827/`](akt/2002/348827/) | in force | 1 | 2002-06-19 | 2002-06-19 |
+| Politika registracije javne prakse i pregleda sa obrascem za registraciju | [`akt/2003/304850/`](akt/2003/304850/) | in force | 1 | 2003-04-05 | 2003-04-05 |
+| Granski kolektivni ugovor za banke, druge finansijske organizacije i osiguranja | [`akt/2004/298912/`](akt/2004/298912/) | in force | 1 | 2004-06-09 | 2004-06-09 |
+| Granski kolektivni ugovor za djelatnost tekstila, koze, gume, hemijske i farmaceutske industrije | [`akt/2004/299731/`](akt/2004/299731/) | in force | 1 | 2004-07-17 | 2004-07-17 |
+| Skolski kalendar za 2004./2005. godinu | [`akt/2004/299850/`](akt/2004/299850/) | in force | 1 | 2004-06-26 | 2004-06-26 |
+| Propis o licencama u energetskom sektoru Crne Gore - energetske djelatnosti | [`akt/2004/300234/`](akt/2004/300234/) | in force | 1 | 2004-04-08 | 2004-04-08 |
 | Granski kolektivni ugovor za gradjevinarstvo i industriju gradjevinskog materijala | [`akt/2004/325016/`](akt/2004/325016/) | in force | 1 | 2004-07-10 | 2004-07-10 |
 | Program obaveznih imunizacija stanovnistva protiv odredjenih zaraznih bolesti na teritoriji Republike Crne Gore za 2005.godinu | [`akt/2004/325191/`](akt/2004/325191/) | in force | 1 | 2005-01-06 | 2005-01-06 |
 | Plan upotrebe sredstava za podsticanje razvoja poljoprivrede u 2004. godini | [`akt/2004/325270/`](akt/2004/325270/) | in force | 1 | 2004-03-12 | 2004-03-12 |
@@ -32,21 +69,47 @@
 | Granski kolektivni ugovor za djelatnost sumarstva, prerade drveta, proizvodnje i prerade papira | [`akt/2004/349903/`](akt/2004/349903/) | in force | 1 | 2004-08-17 | 2004-08-17 |
 | Granski kolektivni ugovor za djelatnost metalurgije, metalopreradjivacke industrije i proizvodnje masina, uredjaja i saobracajnih sredstava | [`akt/2004/349940/`](akt/2004/349940/) | in force | 1 | 2004-08-17 | 2004-08-17 |
 | Granski kolektivni ugovor za drumski saobracaj | [`akt/2004/350039/`](akt/2004/350039/) | in force | 1 | 2004-05-28 | 2004-05-28 |
+| Metodologija za utvrdjivanje najnize cijene rada | [`akt/2005/297573/`](akt/2005/297573/) | in force | 1 | 2005-12-06 | 2005-12-06 |
+| Advokatska tarifa | [`akt/2005/305635/`](akt/2005/305635/) | in force | 1 | 2005-03-08 | 2005-03-08 |
 | Plan upotrebe sredstava za podsticanje razvoja poljoprivrede u 2005.godini | [`akt/2005/324961/`](akt/2005/324961/) | in force | 1 | 2005-03-25 | 2005-03-25 |
 | Skolski kalendar za 2005/2006. godinu | [`akt/2005/349602/`](akt/2005/349602/) | in force | 1 | 2005-06-24 | 2005-06-24 |
+| Program obaveznih imunizacija na teritoriji Republike Crne Gore za 2006.godinu | [`akt/2006/300102/`](akt/2006/300102/) | in force | 1 | 2006-03-10 | 2006-03-10 |
 | Izmjene i dopune Granskog kolektivnog ugovora za banke, druge finansijske organizacije i osiguranja | [`akt/2006/345287/`](akt/2006/345287/) | amending act | 1 | 2006-03-10 | 2006-03-10 |
 | Skolski kalendar za 2006/2007. godinu | [`akt/2006/349517/`](akt/2006/349517/) | in force | 1 | 2006-06-02 | 2006-06-02 |
+| Javni tender za dodjelu posebnih licenci za gradjenje, posjedovanje, eksploataciju javne telekomunikacione mreze i pruzanje javnih telekomunikacionih servisa putem fiksnog bezicnog pristupa u radio - frekvencijskom opsegu 3600 - 3800 MHz | [`akt/2007/291590/`](akt/2007/291590/) | in force | 1 | 2007-06-29 | 2007-06-29 |
+| Program obaveznih imunizacija na teritoriji Republike Crne Gore za 2007.godinu | [`akt/2007/297034/`](akt/2007/297034/) | in force | 1 | 2007-02-01 | 2007-02-01 |
+| Operativni program o zdravstvenoj zastiti zivotinja u 2007.god. | [`akt/2007/297617/`](akt/2007/297617/) | in force | 1 | 2007-01-24 | 2007-01-24 |
+| Granski kolektivni ugovor o izmjeni Granskog kolektivnog ugovora za oblast prosvjete | [`akt/2007/298612/`](akt/2007/298612/) | in force | 1 | 2007-02-17 | 2007-02-17 |
 | Crnogorski obrazovni racunovodstveni standard CORS - 1 | [`akt/2007/323900/`](akt/2007/323900/) | in force | 1 | 2007-10-10 | 2007-10-10 |
 | Uputstvo o izmjenama Uputstva o postupku izdavanja saglasnosti za angazovanje inostranog pravnog lica za kontrolu i certifikaciju proizvoda organske poljoprivrede | [`akt/2007/325614/`](akt/2007/325614/) | in force | 1 | 2007-05-24 | 2007-05-24 |
 | Kolektivni ugovor za Strucnu sluzbu Crnogorske akademije nauka i umjetnosti | [`akt/2007/348429/`](akt/2007/348429/) | in force | 1 | 2007-04-21 | 2007-04-21 |
+| Jednogodišnji program planiranja i uređenja prostora za 2oo8. godinu | [`akt/2008/299474/`](akt/2008/299474/) | in force | 1 | 2008-05-04 | 2008-05-04 |
+| Izmjene i dopune Programa uređivanja građevinskog zemljišta za 2008.godinu | [`akt/2008/299829/`](akt/2008/299829/) | amending act | 1 | 2008-07-17 | 2008-07-17 |
+| Jednogodišnji program planiranja i uredjenja prostora Opštine Mojkovac za period 2008. godine | [`akt/2008/300166/`](akt/2008/300166/) | in force | 1 | 2008-08-26 | 2008-08-26 |
+| Uputstvo o nacinu placanja racuna utrosene elektricne energije poreskih obaveza obveznicama po osnovu obestecenja korisnika prava iz penzijskog i invalidskog osiguranja | [`akt/2008/304775/`](akt/2008/304775/) | in force | 1 | 2008-08-19 | 2008-08-19 |
+| Izmjene i dopune Plana numeracije | [`akt/2008/308357/`](akt/2008/308357/) | amending act | 1 | 2008-04-10 | 2008-04-10 |
 | Program obaveznih imunizacija stanovnistva protiv odredjenih zaraznih bolesti na teritoriji Crne Gore za 2008.godinu | [`akt/2008/325502/`](akt/2008/325502/) | in force | 1 | 2008-02-16 | 2008-02-16 |
 | . Granski kolektivni ugovor o izmjenama i dopunama Granskog kolektivnog ugovora za ustanove ucenickog i studentskog standarda | [`akt/2008/334954/`](akt/2008/334954/) | amending act | 1 | 2008-04-10 | 2008-04-10 |
 | Kolektivni ugovor o izmjenama i dopunama Kolektivnog ugovora za Strucnu sluzbu Crnogorske akademije nauka i umjetnosti | [`akt/2008/335717/`](akt/2008/335717/) | amending act | 1 | 2008-01-19 | 2008-01-19 |
 | Skolski kalendar za 2008/09. godinu. | [`akt/2008/336219/`](akt/2008/336219/) | in force | 1 | 2008-07-03 | 2008-07-03 |
 | Dopuna Jednogodišnjeg programa planiranja i uređenja prostora za 2008. godinu | [`akt/2008/346225/`](akt/2008/346225/) | amending act | 1 | 2008-02-14 | 2008-02-14 |
+| Izmjene i dopune Programa uređenja građevinskog zemljišta za 2008. godinu | [`akt/2009/301208/`](akt/2009/301208/) | amending act | 1 | 2009-02-04 | 2009-02-04 |
+| Nacrt odluke o dopuni Statuta Opstine Pljevlja | [`akt/2009/302880/`](akt/2009/302880/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
+| Program obaveznih imunizacija stanovnistva protiv odredjenih zaraznih bolasti na teritoriji Crne Gore za 2009. godinu | [`akt/2009/306133/`](akt/2009/306133/) | in force | 1 | 2009-04-14 | 2009-04-14 |
 | Izmjene i dopune Programa uređenja prostora za 2009.godinu | [`akt/2009/327117/`](akt/2009/327117/) | amending act | 1 | 2009-07-29 | 2009-07-29 |
 | Izmjene Sudskog poslovnika | [`akt/2009/337640/`](akt/2009/337640/) | in force | 1 | 2009-09-25 | 2009-09-25 |
 | Etički kodeks izabranih predstavnika i funkcionera u lokalnoj samoupravi | [`akt/2009/347272/`](akt/2009/347272/) | in force | 1 | 2009-12-30 | 2009-12-30 |
+| Zavrsni racun Budzeta Opstine Danilovgrad za 2009.godinu | [`akt/2010/292328/`](akt/2010/292328/) | in force | 1 | 2010-09-29 | 2010-09-29 |
+| Dopuna Programa uredjenja prostora Opstine Tivat za 2010. godinu | [`akt/2010/292586/`](akt/2010/292586/) | amending act | 1 | 2010-10-22 | 2010-10-22 |
+| Rjesenje broj: 0101-392/1 | [`akt/2010/301840/`](akt/2010/301840/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Rjesenje o obrazovanju Komisije za izradu Predloga Odluke o izmjenama i dopunama Statuta Opstine Plav | [`akt/2010/302701/`](akt/2010/302701/) | amending act | 1 | 2010-08-04 | 2010-08-04 |
+| Rjesenje o razrjesenju clanova Upravnog odbora JP za komunalno-stambenu djelatnost Plav | [`akt/2010/303525/`](akt/2010/303525/) | in force | 1 | 2010-08-04 | 2010-08-04 |
+| Rjesenje o izmjeni Rjesenja o imenovanju clanova Upravnog odbora Javne Ustanove "Herceg Fest" Herceg Novi iz redova osnivaca | [`akt/2010/304329/`](akt/2010/304329/) | in force | 1 | 2010-06-08 | 2010-06-08 |
+| Rjesenje o izmjeni rjesenja o odredjivanju odbornika Skupstine Prijestonice Cetinje koji ce prisustvovati sklapanju braka | [`akt/2010/305406/`](akt/2010/305406/) | in force | 1 | 2010-07-17 | 2010-07-17 |
+| Zakljucak broj: 0304-37 | [`akt/2010/305805/`](akt/2010/305805/) | in force | 1 | 2010-04-16 | 2010-04-16 |
+| Zakljucak o usvajanju Izvjestaja o radu Turisticke organizacije za 2009.godinu | [`akt/2010/305945/`](akt/2010/305945/) | in force | 1 | 2010-12-29 | 2010-12-29 |
+| Dopuna Programa uredjenja prostora Opstine Tivat za 2010. godinu | [`akt/2010/306197/`](akt/2010/306197/) | amending act | 1 | 2010-11-23 | 2010-11-23 |
+| Zakljucak o usvajanju Izvjestaja o stanju uredjenja prostora na podrucju Opstine Kolasin za 2010. godinu | [`akt/2010/307710/`](akt/2010/307710/) | in force | 1 | 2010-12-29 | 2010-12-29 |
 | Rjesenje o odredjivanju odbornika koji ce prisustvovati sklapanju braka | [`akt/2010/319073/`](akt/2010/319073/) | in force | 1 | 2010-08-04 | 2010-08-04 |
 | Rjesenje o odredivanju odbornika Skupsitne Prijestonice Cetinje koji ce prisustvovati sklapanju braka [Dohvati informacije za Rjesenje o odredivanju odbornika Skupsitne Prijestonice Cetinje koji ce prisustvovati sklapanju braka] | [`akt/2010/319276/`](akt/2010/319276/) | in force | 1 | 2010-05-19 | 2010-05-19 |
 | Zakljucak broj: 0304-38 | [`akt/2010/319622/`](akt/2010/319622/) | in force | 1 | 2010-04-16 | 2010-04-16 |
@@ -60,6 +123,10 @@
 | Eticki kodeks lokalnih sluzbenika i namjestenika | [`akt/2010/343632/`](akt/2010/343632/) | in force | 1 | 2010-08-25 | 2010-08-25 |
 | Eticki kodeks funkcionera lokalne samouprave | [`akt/2010/343633/`](akt/2010/343633/) | in force | 1 | 2010-08-25 | 2010-08-25 |
 | Rjesenje o davanju saglasnosti na Odluku o osnivanju MZ Becici | [`akt/2010/343903/`](akt/2010/343903/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Rjesenje o izmjeni Rjesenja o imenovanju clanova Upravnog odbora Javnog "Komunalno stambenog" preduzeca Herceg Novi iz reda osnivaca | [`akt/2011/302116/`](akt/2011/302116/) | in force | 1 | 2011-02-15 | 2011-02-15 |
+| Rjesenje o imenovanju Upravnog odbora JU Dnevni centar za djecu i omladinu sa smetnjama i teskocama u razvoju "Pljevlja" | [`akt/2011/303241/`](akt/2011/303241/) | in force | 1 | 2011-04-07 | 2011-04-07 |
+| Rjesenje o razrjesenju duznosti izvrsnog direktora "Budva Holding" D.O.O. Budva | [`akt/2011/303810/`](akt/2011/303810/) | in force | 1 | 2011-03-04 | 2011-03-04 |
+| Rjesenje o imenovanju vrsioca duznosti izvrsnog direktora "Budva Holding" D.O.O. Budva | [`akt/2011/304117/`](akt/2011/304117/) | in force | 1 | 2011-03-04 | 2011-03-04 |
 | Rjesenje o davanju saglasnosti na Program rada i finansijski plan D.O.O. "Akademija znanja" za 2011.godinu | [`akt/2011/309221/`](akt/2011/309221/) | in force | 1 | 2011-03-12 | 2011-03-12 |
 | Zakljucak o davanju saglasnosti na imenovanje direktora JP "Komunalno" Kolasin | [`akt/2011/309223/`](akt/2011/309223/) | in force | 1 | 2011-09-15 | 2011-09-15 |
 | Zakljucak o izmjeni naslova Odluke broj: 02-3-351-235/2010-12 | [`akt/2011/318200/`](akt/2011/318200/) | in force | 1 | 2011-05-06 | 2011-05-06 |
@@ -72,6 +139,12 @@
 | Skolski kalendar za 2011/2012. godinu | [`akt/2011/336251/`](akt/2011/336251/) | in force | 1 | 2011-08-18 | 2011-08-18 |
 | Kodeks poslovne etike | [`akt/2011/336793/`](akt/2011/336793/) | in force | 1 | 2011-09-09 | 2011-09-09 |
 | Odluka o davanju saglasnosti na Ugovor o preuzimanju duga | [`akt/2011/346264/`](akt/2011/346264/) | in force | 1 | 2011-03-04 | 2011-03-04 |
+| Izmjene i dopune Programa uređenja prostora za 2011. godinu | [`akt/2012/303097/`](akt/2012/303097/) | amending act | 1 | 2012-02-01 | 2012-02-01 |
+| Zaključak o prihvatanju Izvještaja o radu i Finansijskog izvještaja JU "Centar za kulturu" za 2011.godinu | [`akt/2012/304091/`](akt/2012/304091/) | in force | 1 | 2012-04-19 | 2012-04-19 |
+| Zaključak o prihvatanju Informacije o funkcionisanju zdravstvene zaštite u Opštini Kolašin za 2011. godinu | [`akt/2012/305255/`](akt/2012/305255/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Zaključak o usvajanju Izvještaja o stanju uređenja prostora na području Opštine Kolašin za 2011. godinu | [`akt/2012/306016/`](akt/2012/306016/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Zaključak o prihvatanju Informacije o ostvarivanju javnog interesa u oblasti šumarstva i eksploatacije šljunka i pijeska u reviru Tare i Morače | [`akt/2012/306017/`](akt/2012/306017/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Opšti kolektivni ugovor o izmjeni Opšteg kolektivnog ugovora | [`akt/2012/306284/`](akt/2012/306284/) | in force | 1 | 2012-07-12 | 2012-07-12 |
 | Zaključak o usvajanju Izvještaja o poslovanju za 2011. godinu i Finansijskog plana za 2012. godinu JP "Vodovod i kanalizacija"Kolašin | [`akt/2012/317287/`](akt/2012/317287/) | in force | 1 | 2012-08-28 | 2012-08-28 |
 | Zaključak o umanjenju cijena za lokalne komunalne takse u Opštini Tivat | [`akt/2012/318612/`](akt/2012/318612/) | in force | 1 | 2012-04-07 | 2012-04-07 |
 | Izmjene i dopune Cjenovnika usluga u AD Marina Bar | [`akt/2012/320935/`](akt/2012/320935/) | amending act | 1 | 2012-01-13 | 2012-01-13 |
@@ -82,6 +155,17 @@
 | Zaključak o usvajanju Programa rada i Finansijskog plana TO za 2012. godinu | [`akt/2012/331214/`](akt/2012/331214/) | in force | 1 | 2012-08-28 | 2012-08-28 |
 | Etički kodeks državnih službenika i namještenika | [`akt/2012/334634/`](akt/2012/334634/) | in force | 1 | 2013-01-01 | 2013-01-01 |
 | Zaključak o usvajanju Izvještaja o poslovanju JP "Komunalno" Kolašin za 2011.godinu sa Završnim računom za 2011. godinu | [`akt/2012/344752/`](akt/2012/344752/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Zaključak o usvajanju Plana priprema za ljetnju turističku sezonu 2013.godine | [`akt/2013/302897/`](akt/2013/302897/) | in force | 1 | 2013-07-04 | 2013-07-04 |
+| Zaključak o umanjenju cijena za lokalne komunalne takse u Opštini Tivat | [`akt/2013/304050/`](akt/2013/304050/) | in force | 1 | 2013-04-06 | 2013-04-06 |
+| Zaključak o prihvatanju Informacije o funkcionisanju zdravstvene zaštite u Opštini Kolašin za 2012. godinu | [`akt/2013/304135/`](akt/2013/304135/) | in force | 1 | 2013-01-30 | 2013-01-30 |
+| Zaključak o prihvatanju Informacije o ostvarivanju socijalne zaštite na području Opštine Kolašin u 2012. godini | [`akt/2013/304853/`](akt/2013/304853/) | in force | 1 | 2013-01-30 | 2013-01-30 |
+| Izmjene i dopune Programa uređenja prostora za 2012. godinu | [`akt/2013/304896/`](akt/2013/304896/) | amending act | 1 | 2013-01-24 | 2013-01-24 |
+| Zaključak o prihvatanju Informacije o stanju JRM za 2012. godinu na području Opštine Kolašin | [`akt/2013/305750/`](akt/2013/305750/) | in force | 1 | 2013-01-30 | 2013-01-30 |
+| Zaključak o umanjenju cijena zakupa zemljišta na kojem opština ima pravo svojine, a koristi se za postavljanje terasa ugostiteljskih objekata | [`akt/2013/306736/`](akt/2013/306736/) | in force | 1 | 2013-04-06 | 2013-04-06 |
+| Izmjene i dopune Plana privremenih objekata za 2013.godinu | [`akt/2013/307095/`](akt/2013/307095/) | amending act | 1 | 2013-10-23 | 2013-10-23 |
+| Zaključak o usvajanju Izvještaja o poslovanju JP" Komunalno"Kolašin za 2012.godinu sa Završnim računom za 2012.godinu i Programom rada i Finansijskim planom za 2013. godinu | [`akt/2013/307539/`](akt/2013/307539/) | in force | 1 | 2013-07-04 | 2013-07-04 |
+| Zaključak o prihvatanju Informacije o kreditnom zaduženju Opštine Kolašin | [`akt/2013/307932/`](akt/2013/307932/) | in force | 1 | 2013-01-30 | 2013-01-30 |
+| Zaključak o prihvatanju Izvještaja o radu predsjednika Opštine za 2012. godinu | [`akt/2013/308176/`](akt/2013/308176/) | in force | 1 | 2013-07-04 | 2013-07-04 |
 | Metodologija za utvrđivanje naknada za licence | [`akt/2013/309022/`](akt/2013/309022/) | in force | 1 | 2013-03-30 | 2013-03-30 |
 | Završni račun Finansijskog plana Gradske opštine Tuzi za 2012. godinu | [`akt/2013/314793/`](akt/2013/314793/) | in force | 1 | 2013-11-02 | 2013-11-02 |
 | Školski kalendar za 2013/2014. godinu | [`akt/2013/315900/`](akt/2013/315900/) | in force | 1 | 2013-07-19 | 2013-07-19 |
@@ -92,6 +176,13 @@
 | Kodeks policijske etike | [`akt/2013/336567/`](akt/2013/336567/) | in force | 1 | 2013-10-10 | 2013-10-10 |
 | Zaključak o usvajanju Izvještaja o poslovanju za 2012. godinu i Programa rada i Finansijskog plana za 2013. godinu JP "Vodovod i kanalizacija" Kolašin | [`akt/2013/340794/`](akt/2013/340794/) | in force | 1 | 2013-07-04 | 2013-07-04 |
 | Zaključak o usvajanju Izvještaja o radu JU "Centar za kulturu"Kolašin za 2012. godinu i Programa rada i Finansijskog plana za 2013. godinu | [`akt/2013/340804/`](akt/2013/340804/) | in force | 1 | 2013-07-04 | 2013-07-04 |
+| Opšti uslovi za snabdijevanje električnom energijom | [`akt/2014/301376/`](akt/2014/301376/) | in force | 1 | 2014-08-30 | 2014-08-30 |
+| Zaključak o prihvatanju Izvještaja o radu JP "Sportski centar Cetinje" za 2013. godinu | [`akt/2014/301559/`](akt/2014/301559/) | in force | 1 | 2014-04-19 | 2014-04-19 |
+| Granski kolektivni ugovor za hemijsku, farmaceutsku i tekstilnu industriju | [`akt/2014/302202/`](akt/2014/302202/) | in force | 1 | 2014-12-31 | 2014-12-31 |
+| Izmjene i dopune Programa uređenja prostora za 2013. godinu | [`akt/2014/302640/`](akt/2014/302640/) | amending act | 1 | 2014-02-05 | 2014-02-05 |
+| Izmjene Operativnog plana zaštite od štetnog dejstva voda Prijestonice Cetinje za 2014. godinu | [`akt/2014/302988/`](akt/2014/302988/) | in force | 1 | 2014-06-14 | 2014-06-14 |
+| Crnogorski obrazovni računovodstveni standard CORS - 1 - izmjene i dopune | [`akt/2014/303654/`](akt/2014/303654/) | amending act | 1 | 2014-08-30 | 2014-08-30 |
+| Izmjene i dopune Sudskog poslovnika | [`akt/2014/303838/`](akt/2014/303838/) | amending act | 1 | 2014-01-22 | 2014-01-22 |
 | Metodologija za utvrđivanje naknada za licence | [`akt/2014/326798/`](akt/2014/326798/) | in force | 1 | 2014-12-29 | 2014-12-29 |
 | Opšti kolektivni ugovor | [`akt/2014/334282/`](akt/2014/334282/) | in force | 1 | 2014-03-30 | 2014-03-30 |
 | Etički kodeks poslanika | [`akt/2014/336971/`](akt/2014/336971/) | in force | 1 | 2014-12-24 | 2014-12-24 |
@@ -118,6 +209,8 @@
 | Izmjene i dopune Programa Investicionih aktivnosti Opštine Budva za 2015.g. ("Sl. list CG-Opštinski propisi br. 1/2015) 19 | [`akt/2015/337715/`](akt/2015/337715/) | amending act | 1 | 2015-12-15 | 2015-12-15 |
 | Izmjena Statuta Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Tivat | [`akt/2015/340061/`](akt/2015/340061/) | in force | 1 | 2015-05-16 | 2015-05-16 |
 | Dopuna Odluke o pristupanju izradi Detaljnog urbanističkog plana Lepetane | [`akt/2015/345823/`](akt/2015/345823/) | amending act | 1 | 2015-10-29 | 2015-10-29 |
+| Opšti uslovi za snabdijevanje električnom energijom | [`akt/2016/292414/`](akt/2016/292414/) | in force | 1 | 2016-11-17 | 2016-11-17 |
+| Završni račun budžeta Opštine Berane za 2015. godinu | [`akt/2016/309001/`](akt/2016/309001/) | in force | 1 | 2016-09-02 | 2016-09-02 |
 | Završni račun Budžeta opštine Pljevlja za 2015. godinu | [`akt/2016/310282/`](akt/2016/310282/) | in force | 1 | 2016-06-09 | 2016-06-09 |
 | Deklaracija o zaštiti Miločerskog parka i neposrednog zaleđa ostrva Sveti Stefan | [`akt/2016/314556/`](akt/2016/314556/) | in force | 1 | 2016-08-09 | 2016-08-09 |
 | Završni račun Budžeta Opštine Bar za 2015 g | [`akt/2016/320051/`](akt/2016/320051/) | in force | 1 | 2016-12-03 | 2016-12-03 |
@@ -137,6 +230,9 @@
 | Zaključak o usvajanju Izvještaja o radu i finansijskog izvještaja za 2015.godinu D.O.O. " Vodovod i kanalizacija" Kolašin | [`akt/2016/345455/`](akt/2016/345455/) | in force | 1 | 2017-01-03 | 2017-01-03 |
 | Preporuka Odboru direktora DOO "Komunalno" Tivat o preispitivanju važećih cjenovnika usluga | [`akt/2016/345769/`](akt/2016/345769/) | in force | 1 | 2016-09-08 | 2016-09-08 |
 | Odluka o izradi Lokalnog plana upravljanja komunalnim i neopasnim građevinskim otpadom Prijestonice Cetinje za period od 2016 - 2020. godine | [`akt/2016/347930/`](akt/2016/347930/) | in force | 1 | 2016-09-08 | 2016-09-08 |
+| Statut Fonda za zdravstveno osiguranje Crne Gore | [`akt/2017/292264/`](akt/2017/292264/) | in force | 1 | 2017-05-20 | 2017-05-20 |
+| Zaključak | [`akt/2017/293504/`](akt/2017/293504/) | in force | 1 | 2017-04-15 | 2017-04-15 |
+| Zaključak,Broj:02-405/16-4 | [`akt/2017/294359/`](akt/2017/294359/) | in force | 1 | 2017-01-28 | 2017-01-28 |
 | Zaključak o Usvajanju Izvještaj o radu za 2015. godinu za JP "Komunalne djelatnosti" | [`akt/2017/309169/`](akt/2017/309169/) | in force | 1 | 2017-06-10 | 2017-06-10 |
 | Izmjene i dopune Programa uređenja prostora za 2016. godinu | [`akt/2017/310479/`](akt/2017/310479/) | amending act | 1 | 2017-04-29 | 2017-04-29 |
 | Metodologija za obračun i naplatu neovlašćeno preuzete električne energije | [`akt/2017/312087/`](akt/2017/312087/) | in force | 1 | 2017-02-08 | 2017-02-08 |
@@ -151,6 +247,7 @@
 | Školski kalendar za 2017/2018. godinu | [`akt/2017/336966/`](akt/2017/336966/) | in force | 1 | 2017-08-08 | 2017-08-08 |
 | Izmjene Etičkog kodeksa izabranih predstavnika i funkcionera u lokalnoj samoupravi Glavnog grada - Podgorice | [`akt/2017/342097/`](akt/2017/342097/) | in force | 1 | 2017-08-15 | 2017-08-15 |
 | Izmjene Etičkog kodeksa lokalnih službenika i namještenika | [`akt/2017/344789/`](akt/2017/344789/) | in force | 1 | 2017-06-23 | 2017-06-23 |
+| Javni poziv ovlašćenim predlagačima za podnošenje predloga kandidata za imenovanje člana Savjeta Radio Bijelo Polje iz oblasti kulture i sporta | [`akt/2018/292214/`](akt/2018/292214/) | in force | 1 | 2018-02-14 | 2018-02-14 |
 | Zaključak o usvajanju Programa mjera i aktivnosti za pripremu turističke sezone 2018.godine | [`akt/2018/311923/`](akt/2018/311923/) | in force | 1 | 2018-04-27 | 2018-04-27 |
 | Lokalni program socijalnog stanovanja Opštine Mojkovac za 2018 - 2019 | [`akt/2018/312863/`](akt/2018/312863/) | in force | 1 | 2018-04-28 | 2018-04-28 |
 | Javni poziv ovlašćenim predlagčima za podnošenje predloga kandidata za imenovanje članova Savjeta Radio Bijelo Polje | [`akt/2018/314917/`](akt/2018/314917/) | in force | 1 | 2018-04-20 | 2018-04-20 |
@@ -174,6 +271,7 @@
 | Zaključak o odobravanju finansijske pomoći | [`akt/2018/378148/`](akt/2018/378148/) | in force | 1 | 2018-11-20 | 2018-11-20 |
 | Zaključak o oslobađanju plaćanja naknade za korišćenje opštinskih puteva za 2018.godinu za obveznike ove naknade na području MZ Krtoli I MZ Krašići | [`akt/2018/378359/`](akt/2018/378359/) | in force | 1 | 2018-12-12 | 2018-12-12 |
 | Zaključak | [`akt/2018/378448/`](akt/2018/378448/) | in force | 1 | 2018-12-26 | 2018-12-26 |
+| Kolektivni ugovor o izmjenama Kolektivnog ugovora za Javnu ustanovu Viša stručna škola "Policijska akademija" | [`akt/2019/292845/`](akt/2019/292845/) | in force | 1 | 2019-01-19 | 2019-01-19 |
 | Završni račun Budžeta opštine Pljevlja | [`akt/2019/314294/`](akt/2019/314294/) | in force | 1 | 2019-08-01 | 2019-08-01 |
 | Metodologija za utvrđivanje načina obezbjeđivanja sredstava za rad Agencije | [`akt/2019/322842/`](akt/2019/322842/) | in force | 1 | 2019-11-08 | 2019-11-08 |
 | Strategija odbrane Crne Gore | [`akt/2019/324814/`](akt/2019/324814/) | in force | 1 | 2019-07-09 | 2019-07-09 |
@@ -194,6 +292,10 @@
 | Završni račun budžeta opštine Bar za 2018. godinu | [`akt/2019/379451/`](akt/2019/379451/) | in force | 1 | 2019-07-06 | 2019-07-06 |
 | Završni račun Budžeta Glavnog grada Podgorice za 2018. godinu | [`akt/2019/379510/`](akt/2019/379510/) | in force | 1 | 2019-06-19 | 2019-06-19 |
 | Završni račun budžeta opštine Berane za 2018. godinu | [`akt/2019/379952/`](akt/2019/379952/) | in force | 1 | 2019-07-27 | 2019-07-27 |
+| Zaključak broj: 030-164 | [`akt/2020/292691/`](akt/2020/292691/) | in force | 1 | 2020-06-04 | 2020-06-04 |
+| Zaključak o usvajanu Izvještaja o radu Predsjednice Opštine i radu organa i službi Opštine Gusinje za 2019. godinu | [`akt/2020/292929/`](akt/2020/292929/) | in force | 1 | 2020-12-10 | 2020-12-10 |
+| Zaključak broj: 030 - 173 | [`akt/2020/293269/`](akt/2020/293269/) | in force | 1 | 2020-06-04 | 2020-06-04 |
+| Opšti uslovi za snabdijevanje gasom | [`akt/2020/293708/`](akt/2020/293708/) | in force | 1 | 2020-02-05 | 2020-02-05 |
 | Izmjene i dopune Sudskog poslovnika | [`akt/2020/309722/`](akt/2020/309722/) | amending act | 1 | 2020-09-19 | 2020-09-19 |
 | Zaključak broj: 030 - 172 | [`akt/2020/310035/`](akt/2020/310035/) | in force | 1 | 2020-06-04 | 2020-06-04 |
 | Školski kalendar o izmjeni Školskog kalendara za 2019/2020. godinu | [`akt/2020/311093/`](akt/2020/311093/) | in force | 1 | 2020-04-14 | 2020-04-14 |
@@ -240,6 +342,8 @@
 | Etički kodeks lokalnih službenika i namještenika | [`akt/2021/342548/`](akt/2021/342548/) | in force | 1 | 2021-11-17 | 2021-11-17 |
 | Odluka o kućnom redu u stambenim zgradama | [`akt/2021/343809/`](akt/2021/343809/) | in force | 1 | 2021-07-30 | 2021-07-30 |
 | Metodologija za utvrđivanje regulatorno dozvoljenog prihoda i cijena za korišćenje prenosnog sistema gasa | [`akt/2021/369712/`](akt/2021/369712/) | in force | 1 | 2021-09-21 | 2021-09-21 |
+| Akt o proglašenju člana Tužilačkog savjeta iz reda zaposlenih u organu državne uprave nadležnom za poslove pravosuđa | [`akt/2022/293205/`](akt/2022/293205/) | in force | 1 | 2022-02-01 | 2022-02-01 |
+| Izmjene i dopune Programa investicionih aktivnosti Opštine Budva za 2022. godinu | [`akt/2022/294221/`](akt/2022/294221/) | amending act | 1 | 2022-11-12 | 2022-11-12 |
 | Uputstvo o izmjeni Uputstva o sadržini i obliku obrazaca u postupku predlaganja kandidata za izbor odbornika i poslanika | [`akt/2022/310871/`](akt/2022/310871/) | in force | 1 | 2023-01-07 | 2023-01-07 |
 | Etički kodeks izabranih predstavnika i funk- cionera u lokalnoj samoupravi Opštine Budva | [`akt/2022/312663/`](akt/2022/312663/) | in force | 1 | 2022-06-08 | 2022-06-08 |
 | Izmjene i dopune programa investicionih aktivnosti Opštine Budva za 2022. godinu | [`akt/2022/313823/`](akt/2022/313823/) | amending act | 1 | 2022-08-27 | 2022-08-27 |
