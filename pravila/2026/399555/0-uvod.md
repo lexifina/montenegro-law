@@ -1,0 +1,2 @@
+Na osnovu člana 33 stav 7 tačka 8 Zakona o energetici ("Službeni list CG", br. 28/25 i 03/26) i člana 17 tačka 6 Statuta Regulatorne agencije za energetiku i regulisane komunalne djelatnosti ("Službeni list CG", broj 56/25), Odbor Agencije je na sjednici 21.10. 2026. godine donio
+P R A V I L A ZA PORAVNANJE RAZLIKE IZMEĐU OPRAVDANIH I OSTVARENIH PRIHODA I UTVRĐENIH TROŠKOVA IZMEĐU LICENCIRANIH OPERATORA DISTRIBUTIVNOG SISTEMA
