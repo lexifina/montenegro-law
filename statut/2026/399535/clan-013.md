@@ -1,0 +1,3 @@
+# Član 13
+Komunalna infrastruktura, oprema, sredstva i prava, koja su neophodna za obavljanje komunalne djelatnosti, su lokalna dobra u opštoj upotrebi i od opšteg interesa, i kao takva su u svojini lokalne samouprave - osnivača i ne mogu se opteretiti založnim pravom ili na drugi način, ne mogu biti predmet izvršenja niti mogu ulaziti u stečajnu masu u stečajnom postupku, jer se Društvu ustupa na korišćenje.
+Društvo je dužno da upravlja infrastrukturom koja mu je povjerena na korišćenje i održavanje sa pažnjom dobrog domaćina, postupajući odgovorno i u skladu sa načelima upravljanja, zakonima i pravilima struke, obezbjeđujući očuvanje, funkcionalnost i unapređenje infrastrukture.
