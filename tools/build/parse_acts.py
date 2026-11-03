@@ -119,18 +119,46 @@ def meta(page: str) -> dict:
     return out
 
 
+def page_meta(path: Path) -> dict:
+    """meta() of an act page file, or {"hold": reason}."""
+    try:
+        return meta(gzip.decompress(path.read_bytes()).decode("utf-8", "replace"))
+    except Hold as h:
+        return {"hold": str(h)}
+
+
+LIST_ITEM = re.compile(r'<a href="https://www\.sluzbenilist\.me/propisi/(\d+)" class="text-18[^"]*">\s*(.*?)\s*</a>'
+                       r'(.*?)(?=<a href="https://www\.sluzbenilist\.me/propisi/\d+" class="text-18|$)', re.S)
+
+
+def listing_page(f: Path):
+    """Every act listed on one listing page: (id, title, status, issue, type)."""
+    t = gzip.decompress(f.read_bytes()).decode("utf-8", "replace")
+    for m in LIST_ITEM.finditer(t):
+        rest = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", m.group(3))))
+        st = re.search(r"Status:\s*(\S+)", rest)
+        iz = re.search(r"Izdanje:\s*(.*?)\s*Registarski", rest)
+        yield (int(m.group(1)), re.sub(r"\s+", " ", html.unescape(m.group(2))).strip(),
+               st.group(1) if st else "", iz.group(1) if iz else "", f.parent.name)
+
+
 def listing(src: Path):
     """Every listed act: (id, title, status, issue, type)."""
-    item = re.compile(r'<a href="https://www\.sluzbenilist\.me/propisi/(\d+)" class="text-18[^"]*">\s*(.*?)\s*</a>'
-                      r'(.*?)(?=<a href="https://www\.sluzbenilist\.me/propisi/\d+" class="text-18|$)', re.S)
     for f in sorted((src / "list").glob("*/*.html.gz")):
-        t = gzip.decompress(f.read_bytes()).decode("utf-8", "replace")
-        for m in item.finditer(t):
-            rest = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", m.group(3))))
-            st = re.search(r"Status:\s*(\S+)", rest)
-            iz = re.search(r"Izdanje:\s*(.*?)\s*Registarski", rest)
-            yield (int(m.group(1)), re.sub(r"\s+", " ", html.unescape(m.group(2))).strip(),
-                   st.group(1) if st else "", iz.group(1) if iz else "", f.parent.name)
+        yield from listing_page(f)
+
+
+def named_on(f: Path) -> list:
+    """[stem, folded rest, id] for each act on a listing page whose title names another act as amended, corrected or
+    repealed (see AMENDING and tail_key)."""
+    out = []
+    for i, title, status, issue, typ in listing_page(f):
+        m = AMENDING.search(title)
+        if m:
+            k = tail_key(m.group(1), m.group(2) + " " + m.group(3))
+            if k:
+                out.append([k[0], k[1], i])
+    return out
 
 
 # ------------------------------------------------------------------------------------------------ text
@@ -371,12 +399,20 @@ def own_in_force(units: dict, published: str) -> str | None:
 
 
 SELF = hashlib.sha256(Path(__file__).read_bytes()).hexdigest()[:16]
+_STATS: dict[Path, object] = {}
+
+
+def stat(path: Path):
+    """The file's stat, taken once per run."""
+    if path not in _STATS:
+        _STATS[path] = path.stat()
+    return _STATS[path]
 
 
 def read_text(path: Path, is_law: bool, amending: bool, cache: dict | None) -> tuple[dict, int, str]:
     """(units, number of articles, sha256 of the PDF) for one act's PDF text, or Hold. Results are kept in `cache`
     keyed by the input file's size and time and this parser's own hash, so a cached run gives the same bytes."""
-    st = path.stat()
+    st = stat(path)
     key = f"{path.name}|{st.st_size}|{st.st_mtime_ns}|{int(is_law)}|{int(amending)}|{SELF}"
     if cache is not None and key in cache:
         r = cache[key]
@@ -404,6 +440,19 @@ def read_text(path: Path, is_law: bool, amending: bool, cache: dict | None) -> t
     return units, n_art, doc["sha256"]
 
 
+def cached(cache: dict | None, used: set, kind: str, path: Path, derive):
+    """derive(path) through `cache`, keyed like read_text's results by the file's size and time and this parser's own
+    hash (and `kind`, which names what is derived and from what else)."""
+    if cache is None:
+        return derive(path)
+    st = stat(path)
+    key = f"{kind}|{path.parent.name}/{path.name}|{st.st_size}|{st.st_mtime_ns}|{SELF}"
+    if key not in cache:
+        cache[key] = derive(path)
+    used.add(key)
+    return cache[key]
+
+
 def replace(tmp: Path, f: Path) -> None:
     """Atomic rename; a reader holding the old file open (Windows) gets a few seconds to let go."""
     import time
@@ -428,7 +477,8 @@ def main():
     ap.add_argument("--rejects", help="JSON {id: reason}: acts held back by hand or by a failed read-back check")
     ap.add_argument("--out", help="folder for the parts (default: corpus.d next to this file)")
     ap.add_argument("--kinds", help="comma-separated kinds to publish (default: all)")
-    ap.add_argument("--cache", help="optional .json.gz file keeping each PDF's parsed text between runs")
+    ap.add_argument("--cache", help="optional .json.gz file keeping what is read from each input file (PDF text, act "
+                                    "page, listing page) between runs")
     a = ap.parse_args()
     src = Path(a.src)
     exclude = set(Path(a.exclude).read_text().split()) if a.exclude and Path(a.exclude).exists() else set()
@@ -440,13 +490,11 @@ def main():
         except (OSError, ValueError, EOFError):
             cache = {}
 
+    used: set[str] = set()  # cache keys of listing pages, act pages and in-force readings used in this run
     named: dict[tuple[str, str], set[int]] = defaultdict(set)
-    for i, title, status, issue, typ in listing(src):
-        m = AMENDING.search(title)
-        if m:
-            k = tail_key(m.group(1), m.group(2) + " " + m.group(3))
-            if k:
-                named[k].add(i)
+    for f in sorted((src / "list").glob("*/*.html.gz")):
+        for st, rest, i in cached(cache, used, "list", f, named_on):
+            named[(st, rest)].add(i)
 
     parts: dict[str, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
@@ -457,7 +505,9 @@ def main():
         title = ""
         try:
             pf = src / "act" / str(i // 1000) / f"{i}.html.gz"
-            m = meta(gzip.decompress(pf.read_bytes()).decode("utf-8", "replace"))
+            m = cached(cache, used, "page", pf, page_meta)
+            if "hold" in m:
+                raise Hold(m["hold"])
             title = norm(m["title"])
             if str(i) in rejects:
                 raise Hold("rejected:" + str(rejects[str(i)])[:200])
@@ -484,13 +534,14 @@ def main():
             if kind == "zakon" and re.search(r"potvr[dđ]ivanju|ratifikacij", fold(title)):
                 raise Hold("ratification_not_built")
             amending = bool(re.search(r"\b(?:izmjen|dopun|izmjeni|dopuni)", fold(title)))
-            units, n_art, sha = read_text(src / "pdf" / str(i // 1000) / f"{i}.json.gz", kind == "zakon", amending,
-                                          cache)
+            pdf = src / "pdf" / str(i // 1000) / f"{i}.json.gz"
+            units, n_art, sha = read_text(pdf, kind == "zakon", amending, cache)
             doc = {"sha256": sha}
             last_art = units[max(k for k in units if k.startswith("clan-"))]["text"] if n_art else ""
             if n_art and not IN_FORCE.search(last_art) and not m["in_force"]:
                 raise Hold("last_article_not_in_force_clause")
-            own = own_in_force(units, m["published"])
+            own = cached(cache, used, f"own:{m['published']}:{int(kind == 'zakon')}:{int(amending)}", pdf,
+                         lambda p: own_in_force(units, m["published"]))
             day = m["in_force"] or own
             if not day:
                 raise Hold("in_force_unknown")
@@ -518,7 +569,8 @@ def main():
                           "credits": {}, **({"note": note} if note else {})}]})
     if cache is not None:
         tmp = Path(a.cache + ".tmp")
-        cache = {k: v for k, v in cache.items() if k.endswith("|" + SELF)}
+        cache = {k: v for k, v in cache.items() if k.endswith("|" + SELF) and (k in used or not k.startswith(
+            ("list|", "page|", "own:")))}
         tmp.write_bytes(gzip.compress(json.dumps(cache, ensure_ascii=False).encode("utf-8"), 3))
         tmp.replace(a.cache)
     PARTS = Path(a.out) if a.out else HERE / "corpus.d"

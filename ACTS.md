@@ -1,6 +1,269 @@
 # Every act in this repository
 
-5119 acts, 5,121 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+5377 acts, 5,379 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+
+## akt (258, of which 20 amending acts)
+
+| Act | Folder | Status | Versions | From | Latest |
+| --- | --- | --- | ---: | --- | --- |
+| Odluka o pristupanju izradi DUP Podgošljun. | [`akt/1992/344933/`](akt/1992/344933/) | in force | 1 | 1992-04-30 | 1992-04-30 |
+| Tarifni sistem za prodaju električne energije | [`akt/1992/348542/`](akt/1992/348542/) | in force | 1 | 1992-01-23 | 1992-01-23 |
+| Dopuna Tarifnog sistema za prodaju električne energije | [`akt/1995/349550/`](akt/1995/349550/) | amending act | 1 | 1995-07-29 | 1995-07-29 |
+| Posebni kolektivni ugovor za osnovne škole | [`akt/1996/348630/`](akt/1996/348630/) | in force | 1 | 1996-11-08 | 1996-11-08 |
+| Posebni kolektivni ugovor za srednje škole | [`akt/1996/348631/`](akt/1996/348631/) | in force | 1 | 1996-11-08 | 1996-11-08 |
+| Posebni kolektivni ugovor za djelatnosti kulture | [`akt/1996/348671/`](akt/1996/348671/) | in force | 1 | 1996-11-01 | 1996-11-01 |
+| Posebni kolektivni ugovor za zdravstvenu i socijalnu djelatnost | [`akt/1996/348672/`](akt/1996/348672/) | in force | 1 | 1996-11-01 | 1996-11-01 |
+| Posebni kolektivni ugovor | [`akt/1996/348866/`](akt/1996/348866/) | in force | 1 | 1996-06-13 | 1996-06-13 |
+| Posebni kolektivni ugovor za šumarstvo | [`akt/1996/349009/`](akt/1996/349009/) | in force | 1 | 1996-12-13 | 1996-12-13 |
+| Posebni kolektivni ugovor | [`akt/1996/363379/`](akt/1996/363379/) | in force | 1 | 1996-08-12 | 1996-08-12 |
+| Posebni kolektivni ugovor | [`akt/1996/363448/`](akt/1996/363448/) | in force | 1 | 1996-10-01 | 1996-10-01 |
+| Posebni kolektivni ugovor | [`akt/1996/363455/`](akt/1996/363455/) | in force | 1 | 1996-10-23 | 1996-10-23 |
+| Posebni kolektivni ugovor | [`akt/1996/363477/`](akt/1996/363477/) | in force | 1 | 1996-10-21 | 1996-10-21 |
+| Granski kolektivni ugovor | [`akt/1997/349952/`](akt/1997/349952/) | in force | 1 | 1997-08-14 | 1997-08-14 |
+| GRANSKI KOLEKTIVNI UGOVOR | [`akt/1997/350127/`](akt/1997/350127/) | in force | 1 | 1997-02-07 | 1997-02-07 |
+| POSEBNI KOLEKTIVNI UGOVOR ZA JU CENTAR ZA EKOTOKSIKOLOŠKA ISPITIVANJA CRNE GORE | [`akt/1998/344877/`](akt/1998/344877/) | in force | 1 | 1998-04-29 | 1998-04-29 |
+| Posebne uzanse u turizmu | [`akt/2002/348827/`](akt/2002/348827/) | in force | 1 | 2002-06-19 | 2002-06-19 |
+| Granski kolektivni ugovor za djelatnost poljoprivrede, prehrambene i duvanske industrije i vodoprivrede | [`akt/2004/348524/`](akt/2004/348524/) | in force | 1 | 2004-06-19 | 2004-06-19 |
+| Granski kolektivni ugovor za pomorski saobracaj i lucko-pretovarne usluge | [`akt/2004/348560/`](akt/2004/348560/) | in force | 1 | 2004-06-19 | 2004-06-19 |
+| Granski kolektivni ugovor za djelatnost sumarstva, prerade drveta, proizvodnje i prerade papira | [`akt/2004/349903/`](akt/2004/349903/) | in force | 1 | 2004-08-17 | 2004-08-17 |
+| Granski kolektivni ugovor za djelatnost metalurgije, metalopreradjivacke industrije i proizvodnje masina, uredjaja i saobracajnih sredstava | [`akt/2004/349940/`](akt/2004/349940/) | in force | 1 | 2004-08-17 | 2004-08-17 |
+| Granski kolektivni ugovor za drumski saobracaj | [`akt/2004/350039/`](akt/2004/350039/) | in force | 1 | 2004-05-28 | 2004-05-28 |
+| Skolski kalendar za 2005/2006. godinu | [`akt/2005/349602/`](akt/2005/349602/) | in force | 1 | 2005-06-24 | 2005-06-24 |
+| Izmjene i dopune Granskog kolektivnog ugovora za banke, druge finansijske organizacije i osiguranja | [`akt/2006/345287/`](akt/2006/345287/) | amending act | 1 | 2006-03-10 | 2006-03-10 |
+| Skolski kalendar za 2006/2007. godinu | [`akt/2006/349517/`](akt/2006/349517/) | in force | 1 | 2006-06-02 | 2006-06-02 |
+| Kolektivni ugovor za Strucnu sluzbu Crnogorske akademije nauka i umjetnosti | [`akt/2007/348429/`](akt/2007/348429/) | in force | 1 | 2007-04-21 | 2007-04-21 |
+| Dopuna Jednogodišnjeg programa planiranja i uređenja prostora za 2008. godinu | [`akt/2008/346225/`](akt/2008/346225/) | amending act | 1 | 2008-02-14 | 2008-02-14 |
+| Etički kodeks izabranih predstavnika i funkcionera u lokalnoj samoupravi | [`akt/2009/347272/`](akt/2009/347272/) | in force | 1 | 2009-12-30 | 2009-12-30 |
+| Zavrsni racun Finansijskog plana Gradske opstine Tuzi za 2009. godinu | [`akt/2010/342563/`](akt/2010/342563/) | in force | 1 | 2010-11-18 | 2010-11-18 |
+| Rjesenje o izmjeni Rjesenja o imenovanju odbornika koji prisustvuju vjencanju u Opstini Herceg Novi | [`akt/2010/343223/`](akt/2010/343223/) | in force | 1 | 2010-10-01 | 2010-10-01 |
+| Rjesenje o izmjeni Rjesenja o imenovanju clanova Upravnog odbora JP "Komunalno stambeno" Herceg Novi iz reda iz reda osnivaca | [`akt/2010/343224/`](akt/2010/343224/) | in force | 1 | 2010-10-01 | 2010-10-01 |
+| Eticki kodeks lokalnih sluzbenika i namjestenika | [`akt/2010/343632/`](akt/2010/343632/) | in force | 1 | 2010-08-25 | 2010-08-25 |
+| Eticki kodeks funkcionera lokalne samouprave | [`akt/2010/343633/`](akt/2010/343633/) | in force | 1 | 2010-08-25 | 2010-08-25 |
+| Rjesenje o davanju saglasnosti na Odluku o osnivanju MZ Becici | [`akt/2010/343903/`](akt/2010/343903/) | in force | 1 | 2010-10-14 | 2010-10-14 |
+| Odluka o davanju saglasnosti na Ugovor o preuzimanju duga | [`akt/2011/346264/`](akt/2011/346264/) | in force | 1 | 2011-03-04 | 2011-03-04 |
+| Zaključak o usvajanju Izvještaja o poslovanju JP "Komunalno" Kolašin za 2011.godinu sa Završnim računom za 2011. godinu | [`akt/2012/344752/`](akt/2012/344752/) | in force | 1 | 2012-08-28 | 2012-08-28 |
+| Treća dopuna plana privremenih objekata za 2014. godinu | [`akt/2014/343213/`](akt/2014/343213/) | amending act | 1 | 2014-10-09 | 2014-10-09 |
+| Dopuna Odluke o pristupanju izradi Detaljnog urbanističkog plana Lepetane | [`akt/2015/345823/`](akt/2015/345823/) | amending act | 1 | 2015-10-29 | 2015-10-29 |
+| Zaključak o usvajanju Izvještaja o radu i finansijskog izvještaja za 2015.godinu D.O.O. " Vodovod i kanalizacija" Kolašin | [`akt/2016/345455/`](akt/2016/345455/) | in force | 1 | 2017-01-03 | 2017-01-03 |
+| Preporuka Odboru direktora DOO "Komunalno" Tivat o preispitivanju važećih cjenovnika usluga | [`akt/2016/345769/`](akt/2016/345769/) | in force | 1 | 2016-09-08 | 2016-09-08 |
+| Odluka o izradi Lokalnog plana upravljanja komunalnim i neopasnim građevinskim otpadom Prijestonice Cetinje za period od 2016 - 2020. godine | [`akt/2016/347930/`](akt/2016/347930/) | in force | 1 | 2016-09-08 | 2016-09-08 |
+| Izmjene Etičkog kodeksa izabranih predstavnika i funkcionera u lokalnoj samoupravi Glavnog grada - Podgorice | [`akt/2017/342097/`](akt/2017/342097/) | in force | 1 | 2017-08-15 | 2017-08-15 |
+| Izmjene Etičkog kodeksa lokalnih službenika i namještenika | [`akt/2017/344789/`](akt/2017/344789/) | in force | 1 | 2017-06-23 | 2017-06-23 |
+| Pravilnik o ovjeri cjenovnika usluga u auto taksi prevozu na teritoriji i sa teritorije opštine Budva | [`akt/2018/377281/`](akt/2018/377281/) | in force | 1 | 2018-07-06 | 2018-07-06 |
+| Završni račun Budžeta opštine berane za 2017. godinu | [`akt/2018/377378/`](akt/2018/377378/) | in force | 1 | 2018-08-02 | 2018-08-02 |
+| Završni račun Budžeta opštine berane za 2016. godinu | [`akt/2018/377429/`](akt/2018/377429/) | in force | 1 | 2018-08-02 | 2018-08-02 |
+| Završni račun Budžeta opštine Bar za 2017. godinu | [`akt/2018/377818/`](akt/2018/377818/) | in force | 1 | 2018-09-26 | 2018-09-26 |
+| Zaključak Broj: 0304- 030 -313 | [`akt/2018/378034/`](akt/2018/378034/) | in force | 1 | 2018-10-27 | 2018-10-27 |
+| Zaključak o odobravanju finansijske pomoći | [`akt/2018/378148/`](akt/2018/378148/) | in force | 1 | 2018-11-20 | 2018-11-20 |
+| Zaključak o oslobađanju plaćanja naknade za korišćenje opštinskih puteva za 2018.godinu za obveznike ove naknade na području MZ Krtoli I MZ Krašići | [`akt/2018/378359/`](akt/2018/378359/) | in force | 1 | 2018-12-12 | 2018-12-12 |
+| Zaključak | [`akt/2018/378448/`](akt/2018/378448/) | in force | 1 | 2018-12-26 | 2018-12-26 |
+| Program uređenja prostora za 2019. godinu | [`akt/2019/375120/`](akt/2019/375120/) | in force | 1 | 2019-01-23 | 2019-01-23 |
+| Zaključak,Broj:01-5588 | [`akt/2019/375302/`](akt/2019/375302/) | in force | 1 | 2019-01-18 | 2019-01-18 |
+| Pravilnik o bližim uslovima za ostvarivanje prava na poklon paket za novorođenčad | [`akt/2019/375652/`](akt/2019/375652/) | in force | 1 | 2019-02-21 | 2019-02-21 |
+| Zaključak o prihvatanju Izvještaja o radu za 2018. godinu i Finansijskog izvještaja za 2018. godinu JU Narodna biblioteka i čitaonica "Njegoš" Cetinje | [`akt/2019/379019/`](akt/2019/379019/) | in force | 1 | 2019-05-03 | 2019-05-03 |
+| Zaključak o prihvatanju Izvještaja o radu JU "Dnevni centar za djecu sa smetnjama i teškoćama u razvoju" za 2018. godinu sa Finansijskim izvještajem za 2018.godinu | [`akt/2019/379054/`](akt/2019/379054/) | in force | 1 | 2019-06-08 | 2019-06-08 |
+| Zaključak o prihvatanju Izvještaja o radu JU "Gradski muzej Mirko Komnenović i Galerija Josip Bepo Benković" Herceg Novi za 2018.godinu sa Finansijskim izvještajem za 2018.godinu | [`akt/2019/379108/`](akt/2019/379108/) | in force | 1 | 2019-06-08 | 2019-06-08 |
+| Zaključak | [`akt/2019/379428/`](akt/2019/379428/) | in force | 1 | 2019-06-26 | 2019-06-26 |
+| Završni račun budžeta opštine Bar za 2018. godinu | [`akt/2019/379451/`](akt/2019/379451/) | in force | 1 | 2019-07-06 | 2019-07-06 |
+| Završni račun Budžeta Glavnog grada Podgorice za 2018. godinu | [`akt/2019/379510/`](akt/2019/379510/) | in force | 1 | 2019-06-19 | 2019-06-19 |
+| Završni račun budžeta opštine Berane za 2018. godinu | [`akt/2019/379952/`](akt/2019/379952/) | in force | 1 | 2019-07-27 | 2019-07-27 |
+| Pravilnik o obliku i sadržini poreske prijave za razrez poreza na nepokretnosti za pravna lica | [`akt/2020/377316/`](akt/2020/377316/) | in force | 1 | 2020-01-23 | 2020-01-23 |
+| Etički kodeks lokalnih službenika i namještenika | [`akt/2021/342548/`](akt/2021/342548/) | in force | 1 | 2021-11-17 | 2021-11-17 |
+| Odluka o kućnom redu u stambenim zgradama | [`akt/2021/343809/`](akt/2021/343809/) | in force | 1 | 2021-07-30 | 2021-07-30 |
+| Metodologija za utvrđivanje regulatorno dozvoljenog prihoda i cijena za korišćenje prenosnog sistema gasa | [`akt/2021/369712/`](akt/2021/369712/) | in force | 1 | 2021-09-21 | 2021-09-21 |
+| Zaključak o usvajanju Izvještaja o radu Turističke organizacije Tuzi za 2021. godinu | [`akt/2022/342245/`](akt/2022/342245/) | in force | 1 | 2022-07-06 | 2022-07-06 |
+| Etički kodeks odbornika i lokalnih funkcionera u lokalnoj samoupravi Opštine Herceg Novi | [`akt/2022/345916/`](akt/2022/345916/) | in force | 1 | 2022-11-11 | 2022-11-11 |
+| Etički kodeks izabranih predstavnika i funkcionera u lokalnoj samoupravi Opštine Kolašin | [`akt/2023/346629/`](akt/2023/346629/) | in force | 1 | 2023-02-16 | 2023-02-16 |
+| Školski kalendar o izmjeni Školskog kalendara za 2022/2023. godinu | [`akt/2023/359852/`](akt/2023/359852/) | in force | 1 | 2023-04-29 | 2023-04-29 |
+| Nacionalni plan traganja i spašavanja na moru | [`akt/2023/361891/`](akt/2023/361891/) | in force | 1 | 2023-08-05 | 2023-08-05 |
+| Školski kalendar za 2023/2024. godinu | [`akt/2023/361895/`](akt/2023/361895/) | in force | 1 | 2023-08-05 | 2023-08-05 |
+| Granski kolektivni ugovor za pomorce na brodovima u međunarodnoj plovidbi | [`akt/2023/362013/`](akt/2023/362013/) | in force | 1 | 2023-10-07 | 2023-10-07 |
+| Deklaracija o zaštiti područja Paštrovska gora | [`akt/2023/362122/`](akt/2023/362122/) | in force | 1 | 2023-09-02 | 2023-09-02 |
+| Etički kodeks lokalnih službenika i namještenika u Opštini Danilovgrad | [`akt/2023/362545/`](akt/2023/362545/) | in force | 1 | 2023-12-02 | 2023-12-02 |
+| Granski kolektivni ugovor o izmjenama i dopunama granskog kolektivnog ugovora za stambeno-komunalnu djelatnost | [`akt/2023/362621/`](akt/2023/362621/) | amending act | 1 | 2023-10-31 | 2023-10-31 |
+| Završni račun Budžeta Opštine Bijelo Polje za 2022. godinu | [`akt/2023/362642/`](akt/2023/362642/) | in force | 1 | 2023-07-28 | 2023-07-28 |
+| Završni račun Budžeta Opštine Berane za 2022. godinu | [`akt/2023/362748/`](akt/2023/362748/) | in force | 1 | 2023-07-29 | 2023-07-29 |
+| Zaključak o usvajanju izvještaja o radu Društva sa Ograničenom Odgovornošću "Možura" za 2022. godinu / Përfundimin Për miratimin e raportit të punës së Shoqërisë me Përgjegjësi të Kufizuar "Mozhura". për vitin 2022. | [`akt/2023/367731/`](akt/2023/367731/) | in force | 1 | 2023-12-22 | 2023-12-22 |
+| Program uređenja prostora sa programom urbane sanacije Opštine Žabljak za 2023. godinu | [`akt/2023/369715/`](akt/2023/369715/) | in force | 1 | 2023-07-14 | 2023-07-14 |
+| Zaključak o izjašnjenju u vezi sa geološko - rudarskim aktivnostima na istražnim ležištima polimetaličnih ruda na teritoriji opštine Mojkovac | [`akt/2023/387885/`](akt/2023/387885/) | in force | 1 | 2023-11-22 | 2023-11-22 |
+| Granski kolektivni ugovor o izmjenama i dopunama Granskog kolektivnog ugovora za građevinarstvo i industriju građevinskog materijala | [`akt/2024/365329/`](akt/2024/365329/) | amending act | 1 | 2024-02-10 | 2024-02-10 |
+| Lokalni akcioni plan za mlade Opštine Mojkovac za 2024. godinu | [`akt/2024/368696/`](akt/2024/368696/) | in force | 1 | 2024-04-17 | 2024-04-17 |
+| Završni račun budžeta Opštine Bar za 2023. godinu | [`akt/2024/369896/`](akt/2024/369896/) | in force | 1 | 2024-06-01 | 2024-06-01 |
+| Smjernice o analizi rizika i uspostavljanju sistema upravljanja rizikom od pranja novca i finansiranja terorizma u osiguranju | [`akt/2024/370178/`](akt/2024/370178/) | in force | 1 | 2024-06-19 | 2024-06-19 |
+| Granski kolektivni ugovor za djelatnost turizma i ugostiteljstva | [`akt/2024/370310/`](akt/2024/370310/) | in force | 1 | 2024-06-21 | 2024-06-21 |
+| Zaključak o prihvatanju Informacije o realizaciji sredstava opredijeljenih za projekte nevladinih organizacija za 2023. godinu | [`akt/2024/371472/`](akt/2024/371472/) | in force | 1 | 2024-07-10 | 2024-07-10 |
+| Zaključak o prihvatanju Studije javnog gradskog i prigradskog prevoza putnika | [`akt/2024/371485/`](akt/2024/371485/) | in force | 1 | 2024-07-10 | 2024-07-10 |
+| Zaključak o usvajanju Izvještaja o radu DOO "Komunalne djelatnosti" Ulcinj za 2023. godinu | [`akt/2024/371490/`](akt/2024/371490/) | in force | 1 | 2024-07-18 | 2024-07-18 |
+| Završni račun budžeta Opštine Danilovgrad za 2023. godinu | [`akt/2024/371506/`](akt/2024/371506/) | in force | 1 | 2024-07-09 | 2024-07-09 |
+| Zaključak o usvajanju Izvještaja o radu DOO "Vodovod i kanalizacija" Ulcinj za 2023. godinu | [`akt/2024/371512/`](akt/2024/371512/) | in force | 1 | 2024-07-18 | 2024-07-18 |
+| Zaključak o usvajanju Godišnjeg programa obavljanja komunalnih djelatnosti Azila za napuštene pse za 2024. godinu | [`akt/2024/371514/`](akt/2024/371514/) | in force | 1 | 2024-07-10 | 2024-07-10 |
+| Zaključak o usvajanju Izvještaja o radu sa finansijskim izvještajem "Možura" za 2023. godinu | [`akt/2024/371522/`](akt/2024/371522/) | in force | 1 | 2024-07-18 | 2024-07-18 |
+| Odluka o određivanju lokacije za izgradnju objekata - Sajmište i Multifunkcionalna dvorana | [`akt/2024/371709/`](akt/2024/371709/) | in force | 1 | 2024-04-13 | 2024-04-13 |
+| Odluka o izmjenama i dopunama Odluke o kriterijumima, načinu i postupku raspodjele sredstava za podršku preduzetništvu 541. Odluka o izmjenama Odluke o obrazovanju Organizacionog odbora za stvaranje uslova za početak rada novoosnovane Opštine Tuzi | [`akt/2024/371710/`](akt/2024/371710/) | amending act | 1 | 2024-04-13 | 2024-04-13 |
+| Odluka o izmjenama i dopunama Odluke o kriterijumima, načinu i postupku raspodjele sredstava za podršku ženskom preduzetništvu | [`akt/2024/371711/`](akt/2024/371711/) | amending act | 1 | 2024-04-13 | 2024-04-13 |
+| Odluka o doradi spomen-obilježja - spomen-biste generala Vasa Brajovića - Vasosa Mavrovuniotisa | [`akt/2024/371714/`](akt/2024/371714/) | in force | 1 | 2024-04-13 | 2024-04-13 |
+| Odluka o finansiranju sporta u Glavnom gradu Podgorica | [`akt/2024/371725/`](akt/2024/371725/) | in force | 1 | 2024-04-05 | 2024-04-05 |
+| Odluka o određivanju lokacije za izgradnju stambeno-poslovnog objekta za realizaciju projekta "Gradski stan" | [`akt/2024/371727/`](akt/2024/371727/) | in force | 1 | 2024-04-13 | 2024-04-13 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javne ustanove za smještaj, rehabilitaciju i resocijalizaciju korisnika psihoaktivnih supstanci - Podgorica | [`akt/2024/371733/`](akt/2024/371733/) | amending act | 1 | 2024-04-13 | 2024-04-13 |
+| Odluka o donošenju Plana upravljanja za Spomenik prirode "Park šuma Gorica" za period 2024-2029. Godina | [`akt/2024/371734/`](akt/2024/371734/) | in force | 1 | 2024-04-05 | 2024-04-05 |
+| Završni račun budžeta Glavnog grada Podgorice za 2023. godinu | [`akt/2024/372466/`](akt/2024/372466/) | in force | 1 | 2024-08-07 | 2024-08-07 |
+| Zaključak o usvajanju Izvještaja o radu i Izvještaj sa finansijskim poslovanjem JU ,,Centra za kulturu" Ulcinj za 2023. godinu | [`akt/2024/372789/`](akt/2024/372789/) | in force | 1 | 2024-08-16 | 2024-08-16 |
+| Zaključak o usvajanju Izvještaja o radu Turističke organizacije Ulcinj za 2023. godinu | [`akt/2024/372793/`](akt/2024/372793/) | in force | 1 | 2024-08-24 | 2024-08-24 |
+| Zaključak o usvajanju Izvještaja o radu D.O.O. "Parking servis" Ulcinj za 2023. godinu | [`akt/2024/372801/`](akt/2024/372801/) | in force | 1 | 2024-08-24 | 2024-08-24 |
+| Školski kalendar za 2024/2025. godinu | [`akt/2024/373384/`](akt/2024/373384/) | in force | 1 | 2024-09-11 | 2024-09-11 |
+| Zaključak o usvajanju Izvještaja o radu Komisije za raspodjelu sredstava za podršku ženskom preduzetništvu za 2022. godinu na praćenju realizacije i utroška finansijskih sredstava | [`akt/2024/373816/`](akt/2024/373816/) | in force | 1 | 2024-10-12 | 2024-10-12 |
+| Granski kolektivni ugovor o izmjenama Granskog kolektivnog ugovora za telekomunikacije | [`akt/2024/373886/`](akt/2024/373886/) | in force | 1 | 2024-10-07 | 2024-10-07 |
+| Pravilnik o kriterijumima i mjerilima za utvrđivanje cijene usluge dnevnog boravka u JU "Dnevni centar za djecu i mlade sa smetnjama i teškoćama u razvoju - Tivat" | [`akt/2024/374504/`](akt/2024/374504/) | in force | 1 | 2024-11-08 | 2024-11-08 |
+| Odluka o prodaji kat.parcele 2102 KO Tivat, Opština Tivat | [`akt/2024/374526/`](akt/2024/374526/) | in force | 1 | 2024-11-08 | 2024-11-08 |
+| Zaključak o prestanku mandata članu Odbora direktora DOO "Sportski centar" Rožaje | [`akt/2024/374737/`](akt/2024/374737/) | in force | 1 | 2024-11-11 | 2024-11-11 |
+| Završni račun Budžeta Opštine Berane za 2023. godinu | [`akt/2024/375298/`](akt/2024/375298/) | in force | 1 | 2024-12-11 | 2024-12-11 |
+| Cjenovnik Centralnog klirinško depozitarnog društva AD Podgorica | [`akt/2024/376032/`](akt/2024/376032/) | in force | 1 | 2025-01-02 | 2025-01-02 |
+| Smjernice za analizu rizika od pranja novca i finansiranja terorizma kod notara | [`akt/2024/376255/`](akt/2024/376255/) | in force | 1 | 2025-01-08 | 2025-01-08 |
+| Zaključak, broj: 030-016/24-727 | [`akt/2024/376586/`](akt/2024/376586/) | in force | 1 | 2024-12-31 | 2024-12-31 |
+| Zaključak, broj: 07-77/8 | [`akt/2025/376732/`](akt/2025/376732/) | in force | 1 | 2025-01-23 | 2025-01-23 |
+| Zaključak, broj: 07-77/2 | [`akt/2025/376735/`](akt/2025/376735/) | in force | 1 | 2025-01-23 | 2025-01-23 |
+| Zaključak, broj: 07-77/5 | [`akt/2025/376738/`](akt/2025/376738/) | in force | 1 | 2025-01-23 | 2025-01-23 |
+| Zaključak, broj: 07-77/7 | [`akt/2025/376755/`](akt/2025/376755/) | in force | 1 | 2025-01-23 | 2025-01-23 |
+| Zaključak, broj: 07-77/6 | [`akt/2025/376759/`](akt/2025/376759/) | in force | 1 | 2025-01-23 | 2025-01-23 |
+| Zaključak, broj: 0301-57/10 | [`akt/2025/376795/`](akt/2025/376795/) | in force | 1 | 2025-01-25 | 2025-01-25 |
+| Zaključak, broj: 0301-57/13 | [`akt/2025/376801/`](akt/2025/376801/) | in force | 1 | 2025-01-25 | 2025-01-25 |
+| Zaključak, broj: 0301-57/11 | [`akt/2025/376809/`](akt/2025/376809/) | in force | 1 | 2025-01-25 | 2025-01-25 |
+| Zaključak, broj: 0301-57/12 | [`akt/2025/376813/`](akt/2025/376813/) | in force | 1 | 2025-01-25 | 2025-01-25 |
+| Zaključak, broj: 0301-57/2 | [`akt/2025/376824/`](akt/2025/376824/) | in force | 1 | 2025-01-25 | 2025-01-25 |
+| Zaključak, broj: 0301-57/9 | [`akt/2025/376833/`](akt/2025/376833/) | in force | 1 | 2025-01-25 | 2025-01-25 |
+| Zaključak, broj: 0301-57/14 | [`akt/2025/376844/`](akt/2025/376844/) | in force | 1 | 2025-01-25 | 2025-01-25 |
+| Granski kolektivni ugovor za socijalnu djelatnost | [`akt/2025/380524/`](akt/2025/380524/) | in force | 1 | 2025-03-27 | 2025-03-27 |
+| Zaključak, broj: 0301-15/13 | [`akt/2025/381230/`](akt/2025/381230/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Zaključak, broj: 0301-15/2 | [`akt/2025/381234/`](akt/2025/381234/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Zaključak, broj: 0301-15/1 | [`akt/2025/381240/`](akt/2025/381240/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Zaključak o usvajanju Izvještaja o realizaciji Lokalnog akcionog plana za mlade za 2024. godinu | [`akt/2025/381241/`](akt/2025/381241/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Zaključak, broj: 0301-15/8 | [`akt/2025/381242/`](akt/2025/381242/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Zaključak, broj: 0301-15/12 | [`akt/2025/381245/`](akt/2025/381245/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Zaključak, broj: 0301-15/9 | [`akt/2025/381251/`](akt/2025/381251/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Zaključak, broj: 0301-15/5 | [`akt/2025/381253/`](akt/2025/381253/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Zaključak, broj: 0301-15/10 | [`akt/2025/381256/`](akt/2025/381256/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Zaključak, broj: 0301-15/6 | [`akt/2025/381257/`](akt/2025/381257/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Zaključak, broj: 0301-15/7 | [`akt/2025/381259/`](akt/2025/381259/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Zaključak, broj: 0301-15/14 | [`akt/2025/381262/`](akt/2025/381262/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Plan numeracije | [`akt/2025/381829/`](akt/2025/381829/) | in force | 1 | 2025-05-17 | 2025-05-17 |
+| Pravilnik o dodjeli subvencija po osnovu Lokalnog akcionog plana za socijalnu inkluziju Roma i Egipćana u Opštini Bar za period 2025- 2028. godine | [`akt/2025/381856/`](akt/2025/381856/) | in force | 1 | 2025-05-08 | 2025-05-08 |
+| Završni račun budžeta Opštine Bar za 2024. godinu | [`akt/2025/382902/`](akt/2025/382902/) | in force | 1 | 2025-06-21 | 2025-06-21 |
+| Pravila o izmjenama i dopunama Pravila o sadržaju zahtjeva za sticanje ili povećanje kvalifikovanog učešća i bližim kriterijumima za ocjenu kvalifikovanog učešća u društvu za upravljanje otvorenim investicionim fondom sa javnom ponudom | [`akt/2025/382953/`](akt/2025/382953/) | amending act | 1 | 2025-06-25 | 2025-06-25 |
+| Zaključak o prestanku mandata članu Upravnog odbora Javne ustanove Centar za podršku djeci i porodici | [`akt/2025/383165/`](akt/2025/383165/) | in force | 1 | 2025-06-25 | 2025-06-25 |
+| Završni račun budžeta Opštine Berane za 2024. godinu | [`akt/2025/383318/`](akt/2025/383318/) | in force | 1 | 2025-07-09 | 2025-07-09 |
+| Metodologiju za utvrđivanje cijena za korišćenje prenosnog ili distributivnog sistema koje plaćaju korisnici direktnog voda kada je vod priključen na prenosni ili distributivni sistem | [`akt/2025/383550/`](akt/2025/383550/) | in force | 1 | 2025-07-18 | 2025-07-18 |
+| Zaključak o usvajanju Izvještaja o radu i ekonomsko-finansijskog poslovanja za period 1. 1. 2024. do 31. 12. 2024. godine Društva sa ograničenom odgovornošću "Vodovod i kanalizacija/Ujësjellësi dhe kanalizimi" Tuzi | [`akt/2025/383650/`](akt/2025/383650/) | in force | 1 | 2025-07-25 | 2025-07-25 |
+| Zaključak o usvajanju Izvještaja o realizaciji Programa obavljanja komunalnih djelatnosti Društva sa ograničenom odgovornošću "Pijace / Tregu" Tuzi za 2024. godinu | [`akt/2025/383652/`](akt/2025/383652/) | in force | 1 | 2025-07-25 | 2025-07-25 |
+| Zaključak o usvajanju Izvještaja o realizaciji Godišnjeg programa obavljanja komunalnih djelatnosti Društva sa ograničenom odgovornošću "Komunalno / Komunale" Tuzi za 2024. godinu | [`akt/2025/383664/`](akt/2025/383664/) | in force | 1 | 2025-07-25 | 2025-07-25 |
+| Zaključak o usvajanju Izvještaja Komisije za raspodjelu sredstava nevladinim organizacijama za 2024. godinu | [`akt/2025/383666/`](akt/2025/383666/) | in force | 1 | 2025-07-25 | 2025-07-25 |
+| Zaključak o usvajanju Izvještaja o radu sa Finansijskim izvještajem JU KIC "Malesija" za 2024. godinu | [`akt/2025/383688/`](akt/2025/383688/) | in force | 1 | 2025-07-25 | 2025-07-25 |
+| Zaključak o usvajanju Izvještaja o radu sa Finansijskim izvještajem Fudbalskog kluba "Dečić" za 2024. godinu | [`akt/2025/383707/`](akt/2025/383707/) | in force | 1 | 2025-07-25 | 2025-07-25 |
+| Zaključak o usvajanju Izvještaja o radu Komisije za raspodjelu sredstava za podršku ženskom preduzetništvu za 2023. godinu na praćenju realizacije i utroška finansijskih sredstava | [`akt/2025/383708/`](akt/2025/383708/) | in force | 1 | 2025-07-25 | 2025-07-25 |
+| Zaključak o usvajanju Izvještaja o radu sa Finansijskim izvještajem Košarkaškog kluba "Dečić" za 2024. godinu | [`akt/2025/383717/`](akt/2025/383717/) | in force | 1 | 2025-07-25 | 2025-07-25 |
+| Zaključak o usvajanju Izvještaja o radu DOO "Možura" Bar za 2024. godinu | [`akt/2025/383965/`](akt/2025/383965/) | in force | 1 | 2025-08-09 | 2025-08-09 |
+| Zaključak o davanju saglasnosti na Izvještaj o realizaciji plana i programa rada za 2024. godinu sa odlukom o usvajanju i odluku o usvajanju Godišnjeg završnog računa za 2024. godinu JU Dnevnog centra za djecu i omladinu sa smetnjama i teškoćama u razvoju "Sirena"- Ulcinj | [`akt/2025/383967/`](akt/2025/383967/) | in force | 1 | 2025-08-01 | 2025-08-01 |
+| Zaključak o usvajanju Izvještaja o radu Društva sa ograničenom odgovornošću "Agencija za izgradnju i razvoj Ulcinja" za 2024. godinu | [`akt/2025/384002/`](akt/2025/384002/) | in force | 1 | 2025-08-01 | 2025-08-01 |
+| Zaključak o usvajanju Izvještaja o radu DOO "Vodovod i kanalizacija" Ulcinj za 2024. godinu | [`akt/2025/384003/`](akt/2025/384003/) | in force | 1 | 2025-08-09 | 2025-08-09 |
+| Zaključak o usvajanju Izvještaja o radu DOO "Parking servis" Ulcinj za 2024. Godinu | [`akt/2025/384008/`](akt/2025/384008/) | in force | 1 | 2025-08-09 | 2025-08-09 |
+| Zaključak o usvajanju izvještaja o radu DOO "Komunalne djelatnosti" Ulcinj za 2024. godinu | [`akt/2025/384019/`](akt/2025/384019/) | in force | 1 | 2025-08-09 | 2025-08-09 |
+| Metodologija za utvrđivanje zamjenske cijene | [`akt/2025/384121/`](akt/2025/384121/) | in force | 1 | 2025-08-13 | 2025-08-13 |
+| Izmjena Odluke br. 01-040/25-1151/5 od 1. 7. 2025. godine o otkupu zemljišta radi dokompletiranja urbanističke parcele br. 66 zona B Izmjena i dopuna DUP-a "Ulcinj - Grad" za lokalitet "Meterizi 1" Opština Ulcinj | [`akt/2025/384350/`](akt/2025/384350/) | amending act | 1 | 2025-08-21 | 2025-08-21 |
+| Završni račun Budžeta Opštine Šavnik za 2024. godinu | [`akt/2025/384849/`](akt/2025/384849/) | in force | 1 | 2025-09-13 | 2025-09-13 |
+| Etički kodeks državnih tužilaca | [`akt/2025/386211/`](akt/2025/386211/) | in force | 1 | 2025-11-01 | 2025-11-01 |
+| Granski kolektivni ugovor za oblast prosvjete | [`akt/2025/386851/`](akt/2025/386851/) | in force | 1 | 2025-12-01 | 2025-12-01 |
+| Zaključak, broj: 0301-27/9 | [`akt/2025/386992/`](akt/2025/386992/) | in force | 1 | 2025-07-29 | 2025-07-29 |
+| Završni račun Budžeta Opštine Andrijevica za 2024. godinu | [`akt/2025/386997/`](akt/2025/386997/) | in force | 1 | 2025-07-15 | 2025-07-15 |
+| Zaključak, broj: D 32-016/25-45 | [`akt/2025/387199/`](akt/2025/387199/) | in force | 1 | 2025-03-31 | 2025-03-31 |
+| Dopuna programa podizanja spomen-obilježja | [`akt/2025/387297/`](akt/2025/387297/) | amending act | 1 | 2025-08-13 | 2025-08-13 |
+| Zaključak, broj: 0301-40/8 | [`akt/2025/387447/`](akt/2025/387447/) | in force | 1 | 2025-10-29 | 2025-10-29 |
+| Završni račun Budžeta Opštine Herceg Novi za 2024. godinu | [`akt/2025/387510/`](akt/2025/387510/) | in force | 1 | 2025-07-31 | 2025-07-31 |
+| Zaključak, broj: D 32-016/25-49 | [`akt/2025/387592/`](akt/2025/387592/) | in force | 1 | 2025-04-08 | 2025-04-08 |
+| Zaključak, broj: 0301-40/7 | [`akt/2025/387601/`](akt/2025/387601/) | in force | 1 | 2025-10-29 | 2025-10-29 |
+| Zaključak, broj: D 32-016/25-48 | [`akt/2025/387733/`](akt/2025/387733/) | in force | 1 | 2025-04-08 | 2025-04-08 |
+| Zaključak, broj: 02 - 016/25-381/1 | [`akt/2025/388070/`](akt/2025/388070/) | in force | 1 | 2025-10-25 | 2025-10-25 |
+| Zaključak, broj: D 32-016/25-44 | [`akt/2025/388096/`](akt/2025/388096/) | in force | 1 | 2025-03-31 | 2025-03-31 |
+| Završni račin Budžeta Opštine Pljevlja za 2024. godinu | [`akt/2025/388141/`](akt/2025/388141/) | in force | 1 | 2025-07-29 | 2025-07-29 |
+| Metodologija za utvrđivanje načina obezbjeđivanja sredstava za rad Regulatorne agencije za energetiku i regulisane komunalne djelatnosti | [`akt/2025/389092/`](akt/2025/389092/) | in force | 1 | 2025-12-19 | 2025-12-19 |
+| Izmjena i dopuna advokatske tarife Advokatske komore Crne Gore | [`akt/2025/389208/`](akt/2025/389208/) | amending act | 1 | 2025-12-31 | 2025-12-31 |
+| Zaključak, broj: D 32-016/25-241 | [`akt/2025/389623/`](akt/2025/389623/) | in force | 1 | 2026-01-08 | 2026-01-08 |
+| Zaključak, broj: 07-135/2 | [`akt/2025/391435/`](akt/2025/391435/) | in force | 1 | 2026-01-03 | 2026-01-03 |
+| Etički kodeks izabranih predstavnika i funkcionera u Opštini Plužine | [`akt/2025/391450/`](akt/2025/391450/) | in force | 1 | 2026-01-03 | 2026-01-03 |
+| Zaključak, broj: 07-135/7 | [`akt/2025/391504/`](akt/2025/391504/) | in force | 1 | 2026-01-03 | 2026-01-03 |
+| Zaključak, broj: 07-135/6 | [`akt/2025/391512/`](akt/2025/391512/) | in force | 1 | 2026-01-03 | 2026-01-03 |
+| Etički kodeks lokalnih službenika i namještenika u Opštini Plužine | [`akt/2025/391545/`](akt/2025/391545/) | in force | 1 | 2026-01-03 | 2026-01-03 |
+| Zaključak, broj: 07-135/5 | [`akt/2025/391561/`](akt/2025/391561/) | in force | 1 | 2026-01-03 | 2026-01-03 |
+| Zaključak, broj: 07-135/4 | [`akt/2025/391640/`](akt/2025/391640/) | in force | 1 | 2026-01-03 | 2026-01-03 |
+| Cjenovnik usluga korišćenja evidencije garancija porijekla | [`akt/2026/390589/`](akt/2026/390589/) | in force | 1 | 2026-02-21 | 2026-02-21 |
+| Kodeks strukovne etike članova Komore arhitekata i planera Crne Gore | [`akt/2026/390623/`](akt/2026/390623/) | in force | 1 | 2026-02-13 | 2026-02-13 |
+| Pravila o izmjeni i dopuni Pravila o članstvu, obračunu i uplati doprinosa, isplatama odštetnih zahtjeva i nadzoru nad članovima Fonda za zaštitu investitora | [`akt/2026/390981/`](akt/2026/390981/) | amending act | 1 | 2026-03-05 | 2026-03-05 |
+| Javni poziv za izbor jednog člana Sudskog savjeta iz reda uglednih pravnika | [`akt/2026/391468/`](akt/2026/391468/) | in force | 1 | 2026-06-07 | 2026-06-07 |
+| Zaključak, broj: 0301-52/13 | [`akt/2026/391482/`](akt/2026/391482/) | in force | 1 | 2026-01-24 | 2026-01-24 |
+| Zaključak, broj: 0301-52/10 | [`akt/2026/391484/`](akt/2026/391484/) | in force | 1 | 2026-01-24 | 2026-01-24 |
+| Zaključak, broj: 0301-52/12 | [`akt/2026/391564/`](akt/2026/391564/) | in force | 1 | 2026-01-24 | 2026-01-24 |
+| Zaključak, broj: 0301-52/4 | [`akt/2026/391573/`](akt/2026/391573/) | in force | 1 | 2026-01-24 | 2026-01-24 |
+| Smjernice dobre distributivne prakse aktivnih supstanci koje se koriste kao polazni materijali u proizvodnji veterinarskih ljekova | [`akt/2026/391596/`](akt/2026/391596/) | in force | 1 | 2026-02-20 | 2026-02-20 |
+| Zaključak, broj: 02 - 016/26 - 103/1 | [`akt/2026/393012/`](akt/2026/393012/) | in force | 1 | 2026-04-10 | 2026-04-10 |
+| Zaključak, broj: D 32-077/26-63 | [`akt/2026/393043/`](akt/2026/393043/) | in force | 1 | 2026-04-02 | 2026-04-02 |
+| Zaključak o usvajanju Izvještaja o radu JU KIC "Malesija" za 2025. godinu | [`akt/2026/393061/`](akt/2026/393061/) | in force | 1 | 2026-04-17 | 2026-04-17 |
+| Tarifa o naknadama za rad i naknadama troškova notara | [`akt/2026/393083/`](akt/2026/393083/) | in force | 1 | 2026-04-09 | 2026-04-09 |
+| Tarifa o naknadama za rad notara kao povjerenika suda u ostavinskom postupku | [`akt/2026/393095/`](akt/2026/393095/) | in force | 1 | 2026-04-09 | 2026-04-09 |
+| Pravilnik o obliku i sadržini poreske prijave za utvrđivanje godišnjeg poreza na nepokretnosti za fizička lica | [`akt/2026/393214/`](akt/2026/393214/) | in force | 1 | 2026-04-24 | 2026-04-24 |
+| Pravilnik o obliku i sadržini poreske prijave za utvrđivanje godišnjeg poreza na nepokretnosti za pravna lica | [`akt/2026/393221/`](akt/2026/393221/) | in force | 1 | 2026-04-24 | 2026-04-24 |
+| Zaključak, broj: 0301-10/19 | [`akt/2026/393270/`](akt/2026/393270/) | in force | 1 | 2026-04-25 | 2026-04-25 |
+| Zaključak, broj: 0301-10/23 | [`akt/2026/393272/`](akt/2026/393272/) | in force | 1 | 2026-04-25 | 2026-04-25 |
+| Zaključak, broj: 0301-10/2 | [`akt/2026/393274/`](akt/2026/393274/) | in force | 1 | 2026-04-25 | 2026-04-25 |
+| Zaključak, broj: 0301-10/21 | [`akt/2026/393275/`](akt/2026/393275/) | in force | 1 | 2026-04-25 | 2026-04-25 |
+| Zaključak, broj: 0301-10/22 | [`akt/2026/393276/`](akt/2026/393276/) | in force | 1 | 2026-04-25 | 2026-04-25 |
+| Zaključak, broj: 0301-10/20 | [`akt/2026/393277/`](akt/2026/393277/) | in force | 1 | 2026-04-25 | 2026-04-25 |
+| Zaključak, broj: 0301-10/1 | [`akt/2026/393278/`](akt/2026/393278/) | in force | 1 | 2026-04-25 | 2026-04-25 |
+| Zaključak, broj: 0301-10/24 | [`akt/2026/393280/`](akt/2026/393280/) | in force | 1 | 2026-04-25 | 2026-04-25 |
+| Zaključak, broj: 0301-10/16 | [`akt/2026/393281/`](akt/2026/393281/) | in force | 1 | 2026-04-25 | 2026-04-25 |
+| Javni poziv | [`akt/2026/393353/`](akt/2026/393353/) | in force | 1 | 2026-05-02 | 2026-05-02 |
+| Kodeks profesionalne etike advokata | [`akt/2026/393358/`](akt/2026/393358/) | in force | 1 | 2026-05-02 | 2026-05-02 |
+| Zaključak, broj: 01-030-96 | [`akt/2026/393373/`](akt/2026/393373/) | in force | 1 | 2026-05-02 | 2026-05-02 |
+| Zaključak o prihvatanju Informacije o stanju školstva u Opštini Petnjica za školsku 2023/24. godinu | [`akt/2026/393374/`](akt/2026/393374/) | in force | 1 | 2026-05-02 | 2026-05-02 |
+| Statut Društva sa ograničenom odgovornošću "Sportsko-turistički park Kolašin" Kolašin | [`akt/2026/394064/`](akt/2026/394064/) | in force | 1 | 2026-05-22 | 2026-05-22 |
+| Školski kalendar o izmjeni Školskog kalendara za 2025/2026. godinu | [`akt/2026/394483/`](akt/2026/394483/) | in force | 1 | 2026-05-26 | 2026-05-26 |
+| Etički kodeks Komore | [`akt/2026/394537/`](akt/2026/394537/) | in force | 1 | 2026-05-29 | 2026-05-29 |
+| Program praćenja kvaliteta tečnih goriva naftnog porijekla za 2026. godinu za privredna društva, druga pravna i fizička lica koja uvoze gorivo | [`akt/2026/394734/`](akt/2026/394734/) | in force | 1 | 2026-06-16 | 2026-06-16 |
+| Statut Društva sa ograničenom odgovornošću "Beranska autobuska stanica" Berane | [`akt/2026/395071/`](akt/2026/395071/) | in force | 1 | 2026-06-20 | 2026-06-20 |
+| Statut Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Berane | [`akt/2026/395072/`](akt/2026/395072/) | in force | 1 | 2026-06-20 | 2026-06-20 |
+| Statut Društva sa ograničenom odgovornošću Vodovod Bistrica" Bijelo Polje | [`akt/2026/395146/`](akt/2026/395146/) | in force | 1 | 2026-06-15 | 2026-06-15 |
+| Statut Društva sa ograničenom odgovornošću "Komunalno-Lim" Bijelo Polje | [`akt/2026/395147/`](akt/2026/395147/) | in force | 1 | 2026-06-15 | 2026-06-15 |
+| Statut Društva sa ograničenom odgovornošću "Parking servis Bijelo Polje" | [`akt/2026/395148/`](akt/2026/395148/) | in force | 1 | 2026-06-15 | 2026-06-15 |
+| Statut Društva sa ograničenom odgovornošću "Agencija za upravljanje prirodnim dobrima Opštine Bijelo Polje" | [`akt/2026/395149/`](akt/2026/395149/) | in force | 1 | 2026-06-23 | 2026-06-23 |
+| Statut Društva sa ograničenom odgovornošću "Agencija za prostorno planiranje - Bijelo Polje" | [`akt/2026/395150/`](akt/2026/395150/) | in force | 1 | 2026-06-15 | 2026-06-15 |
+| Statut Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Kolašin | [`akt/2026/395153/`](akt/2026/395153/) | in force | 1 | 2026-06-15 | 2026-06-15 |
+| Statut Društva sa ograničenom odgovornošću "Komunalno" Kolašin | [`akt/2026/395154/`](akt/2026/395154/) | in force | 1 | 2026-06-15 | 2026-06-15 |
+| Školski kalendar za 2026/2027. godinu | [`akt/2026/395513/`](akt/2026/395513/) | in force | 1 | 2026-07-07 | 2026-07-07 |
+| Statut Društva sa ograničenom odgovornošću "Komunalne usluge - Gradac" Mojkovac | [`akt/2026/395536/`](akt/2026/395536/) | in force | 1 | 2026-06-29 | 2026-06-29 |
+| Statut društva sa ograničenom odgovornošću "Komunalna djelatnost" Petnjica | [`akt/2026/395544/`](akt/2026/395544/) | in force | 1 | 2026-07-07 | 2026-07-07 |
+| Statut Društva sa ograničenom odgovornošću - "Društvo za izgradnju vodovodne i kanalizacione infrastrukture u Opštini Herceg Novi" Herceg Novi | [`akt/2026/395594/`](akt/2026/395594/) | in force | 1 | 2026-06-30 | 2026-06-30 |
+| Statut Društva sa ograničenom odgovornošću "Komunalno stambeno" Herceg Novi | [`akt/2026/395595/`](akt/2026/395595/) | in force | 1 | 2026-06-30 | 2026-06-30 |
+| Statut Društva sa ograničenom odgovornošću "Parking servis Herceg Novi" Herceg Novi | [`akt/2026/395596/`](akt/2026/395596/) | in force | 1 | 2026-06-30 | 2026-06-30 |
+| Statut Društva sa ograničenom odgovornošću "Sportski centar Igalo" - Igalo | [`akt/2026/395597/`](akt/2026/395597/) | in force | 1 | 2026-06-30 | 2026-06-30 |
+| Statut Društva sa ograničenom odgovornošću "Agencija za izgradnju i razvoj Herceg Novog" Herceg Novi | [`akt/2026/395598/`](akt/2026/395598/) | in force | 1 | 2026-06-30 | 2026-06-30 |
+| Statut Društva sa ograničenom odgovornošću "Agencija za gazdovanje Gradskom lukom" Herceg Novi | [`akt/2026/395599/`](akt/2026/395599/) | in force | 1 | 2026-06-30 | 2026-06-30 |
+| Statut Društva sa ograničenom odgovornošću "Komunalno" Rožaje | [`akt/2026/395738/`](akt/2026/395738/) | in force | 1 | 2026-07-07 | 2026-07-07 |
+| Statut Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Rožaje | [`akt/2026/395739/`](akt/2026/395739/) | in force | 1 | 2026-07-07 | 2026-07-07 |
+| Statut Društva sa ograničenom odgovornošću"Sportski centar" Rožaje | [`akt/2026/395740/`](akt/2026/395740/) | in force | 1 | 2026-07-07 | 2026-07-07 |
+| Statut društva sa ograničenom odgovornošću"Ski centar Hajla" Rožaje | [`akt/2026/395742/`](akt/2026/395742/) | in force | 1 | 2026-07-07 | 2026-07-07 |
+| Izmjene i dopune Odluke o podsticajima i investiranju u razvoj poljoprivrede na području Opštine Rožaje | [`akt/2026/395765/`](akt/2026/395765/) | amending act | 1 | 2026-07-15 | 2026-07-15 |
+| Završni račun Budžeta Opštine Bar za 2025. godinu | [`akt/2026/395769/`](akt/2026/395769/) | in force | 1 | 2026-07-16 | 2026-07-16 |
+| Metodologija za utvrđivanje naknade za priključenje na distributivni sistem električne energije | [`akt/2026/395939/`](akt/2026/395939/) | in force | 1 | 2026-07-18 | 2026-07-18 |
+| Cjenovnik za otkup infrastrukture za priključenje na distributivni sistem električne energije | [`akt/2026/395940/`](akt/2026/395940/) | in force | 1 | 2026-07-18 | 2026-07-18 |
+| Pravila o obustavi izdavanja i otkupa udjela alternativnih investicionih fondova | [`akt/2026/396017/`](akt/2026/396017/) | in force | 1 | 2026-07-24 | 2026-07-24 |
+| Završni račun Budžeta Opštine Berane za 2025. godinu | [`akt/2026/396045/`](akt/2026/396045/) | in force | 1 | 2026-07-18 | 2026-07-18 |
+| Zaključak o usvajanju Izvještaja o radu sa Finansijskim iskazom DOO "Sportski centar" Berane za 2025. godinu | [`akt/2026/396050/`](akt/2026/396050/) | in force | 1 | 2026-07-18 | 2026-07-18 |
+| Etički kodeks u javnim nabavkama | [`akt/2026/396203/`](akt/2026/396203/) | in force | 1 | 2026-07-17 | 2026-07-17 |
+| Završni račun Budžeta Opštine Šavnik za 2025. godinu | [`akt/2026/396250/`](akt/2026/396250/) | in force | 1 | 2026-07-25 | 2026-07-25 |
+| Plan raspodjele radio-frekvencija namijenjenih amaterskoj i amaterskoj-satelitskoj službi | [`akt/2026/397091/`](akt/2026/397091/) | in force | 1 | 2026-08-20 | 2026-08-20 |
+| Statut o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću "Parking servis Herceg Novi" Herceg Novi | [`akt/2026/397158/`](akt/2026/397158/) | amending act | 1 | 2026-08-07 | 2026-08-07 |
+| Statut o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću "Agencija za gazdovanje gradskom lukom" Herceg Novi | [`akt/2026/397165/`](akt/2026/397165/) | amending act | 1 | 2026-08-07 | 2026-08-07 |
+| Statut o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću "Sportski centar Igalo" Igalo | [`akt/2026/397169/`](akt/2026/397169/) | amending act | 1 | 2026-08-07 | 2026-08-07 |
+| Statut o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Herceg Novi | [`akt/2026/397170/`](akt/2026/397170/) | amending act | 1 | 2026-08-07 | 2026-08-07 |
+| Lista blagovremenih i potpunih predloga kandidata za članove Savjeta Društva sa ograničenom odgovornošću Lokalni javni emiter "Radio Televizija Nikšić" | [`akt/2026/397745/`](akt/2026/397745/) | in force | 1 | 2026-09-11 | 2026-09-11 |
+| Etički kodeks izabranih predstavnika i funkcionera u lokalnoj samoupravi Opštine Zeta | [`akt/2026/399516/`](akt/2026/399516/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
 ## naredba (230, of which 41 amending acts)
 

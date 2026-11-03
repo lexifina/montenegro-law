@@ -296,6 +296,34 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
 | Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
 | Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-03 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -303,21 +331,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 4992 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 4994 | |
+| 5250 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 5252 | |
 
-The build made 5140 commits:
+The build made 5398 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 5119 | first version of an act |
+| 5377 | first version of an act |
 | 21 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `buduce`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 5030 laws in the record.
-- 10261 tags.
+- 5288 laws in the record.
+- 10777 tags.
 
 ## Dates
 
@@ -329,7 +357,7 @@ When a law gives no date of its own, the default rule applies: Ustav Crne Gore a
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `686f97dbbeacc99f96a412ddcc0475180aa7fc7ab425106e87e1fb25518e4ae6` (98790500 bytes).
+- Corpus: sha256 `fdde1d115e5087ba72ae9926d263deff4f02d532c7fbd3e7a495b2feb6aa525f` (103004824 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -341,7 +369,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (1163 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (1275 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -353,6 +381,34 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the fetch and parse scripts and transcribed each amendment's instruction paragraph into an operation table (OPS), which the parser checks against the gazette's own words. No model wrote or edited legal text, and no model runs at parse or git-build time.
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
 - none
 - none
 - none

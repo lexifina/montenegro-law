@@ -44,6 +44,3876 @@
    ]
   },
   {
+   "slug": "akt-1992-344933",
+   "path": "akt/1992/344933",
+   "short": "Odluka o pristupanju izradi DUP Podgošljun.",
+   "title": "Odluka o pristupanju izradi DUP Podgošljun.",
+   "url": "https://www.sluzbenilist.me/propisi/344933",
+   "versions": [
+    {
+     "from": "1992-04-30",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/344933/download",
+     "sha256": "6f58bdef4346f3b7306af76bd5a40dce5ed1298111bf03fc03470c4fa1da4968"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1992-348542",
+   "path": "akt/1992/348542",
+   "short": "Tarifni sistem za prodaju električne energije",
+   "title": "Tarifni sistem za prodaju električne energije",
+   "url": "https://www.sluzbenilist.me/propisi/348542",
+   "versions": [
+    {
+     "from": "1992-01-23",
+     "units": 56,
+     "source_url": "https://www.sluzbenilist.me/propisi/348542/download",
+     "sha256": "3c3a50df266647b40e6ab71c791dbbadac17b53fe81f425051a4514326524e50"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1995-349550",
+   "path": "akt/1995/349550",
+   "short": "Dopuna Tarifnog sistema za prodaju električne energije",
+   "title": "Dopuna Tarifnog sistema za prodaju električne energije",
+   "url": "https://www.sluzbenilist.me/propisi/349550",
+   "versions": [
+    {
+     "from": "1995-07-29",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/349550/download",
+     "sha256": "ab60b647dfb3af4dbae1321d48042d3322fd2e586b41e05e2a8ba0c2367f3e93"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1996-348630",
+   "path": "akt/1996/348630",
+   "short": "Posebni kolektivni ugovor za osnovne škole",
+   "title": "Posebni kolektivni ugovor za osnovne škole",
+   "url": "https://www.sluzbenilist.me/propisi/348630",
+   "versions": [
+    {
+     "from": "1996-11-08",
+     "units": 41,
+     "source_url": "https://www.sluzbenilist.me/propisi/348630/download",
+     "sha256": "2630bc68e002702d04ae1ce0661a407d536d7427bb17b6c1ac769d425fc867e7"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1996-348631",
+   "path": "akt/1996/348631",
+   "short": "Posebni kolektivni ugovor za srednje škole",
+   "title": "Posebni kolektivni ugovor za srednje škole",
+   "url": "https://www.sluzbenilist.me/propisi/348631",
+   "versions": [
+    {
+     "from": "1996-11-08",
+     "units": 41,
+     "source_url": "https://www.sluzbenilist.me/propisi/348631/download",
+     "sha256": "6c962bdf9f9b237160ddd4043b4f01a9bab9fe0c581cc924f8ccd638932f8e17"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1996-348671",
+   "path": "akt/1996/348671",
+   "short": "Posebni kolektivni ugovor za djelatnosti kulture",
+   "title": "Posebni kolektivni ugovor za djelatnosti kulture",
+   "url": "https://www.sluzbenilist.me/propisi/348671",
+   "versions": [
+    {
+     "from": "1996-11-01",
+     "units": 49,
+     "source_url": "https://www.sluzbenilist.me/propisi/348671/download",
+     "sha256": "6210449d3271ac41e25501330fc4ee6ac422972d26c82cbce9693a0f02ecf75b"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1996-348672",
+   "path": "akt/1996/348672",
+   "short": "Posebni kolektivni ugovor za zdravstvenu i socijalnu djelatnost",
+   "title": "Posebni kolektivni ugovor za zdravstvenu i socijalnu djelatnost",
+   "url": "https://www.sluzbenilist.me/propisi/348672",
+   "versions": [
+    {
+     "from": "1996-11-01",
+     "units": 43,
+     "source_url": "https://www.sluzbenilist.me/propisi/348672/download",
+     "sha256": "737ae5cb27829149979233d0b18f661cb5d309fb18d1112fbc5c8073c89f67a8"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1996-348866",
+   "path": "akt/1996/348866",
+   "short": "Posebni kolektivni ugovor",
+   "title": "Posebni kolektivni ugovor",
+   "url": "https://www.sluzbenilist.me/propisi/348866",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 62,
+     "source_url": "https://www.sluzbenilist.me/propisi/348866/download",
+     "sha256": "faf60bb450d4b9a3208204b88d37f7fd4e480735635bcfe87d698e8cdde6953e"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1996-349009",
+   "path": "akt/1996/349009",
+   "short": "Posebni kolektivni ugovor za šumarstvo",
+   "title": "Posebni kolektivni ugovor za šumarstvo",
+   "url": "https://www.sluzbenilist.me/propisi/349009",
+   "versions": [
+    {
+     "from": "1996-12-13",
+     "units": 30,
+     "source_url": "https://www.sluzbenilist.me/propisi/349009/download",
+     "sha256": "ec17290baff0fee8b3938bfb6772a61bb9964f42630170fedc63c60a2f507303"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1996-363379",
+   "path": "akt/1996/363379",
+   "short": "Posebni kolektivni ugovor",
+   "title": "Posebni kolektivni ugovor",
+   "url": "https://www.sluzbenilist.me/propisi/363379",
+   "versions": [
+    {
+     "from": "1996-08-12",
+     "units": 31,
+     "source_url": "https://www.sluzbenilist.me/propisi/363379/download",
+     "sha256": "841ff82b23e8c20d4ba1a9464e3b3d3311440262788747bebee316cda26494a0"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1996-363448",
+   "path": "akt/1996/363448",
+   "short": "Posebni kolektivni ugovor",
+   "title": "Posebni kolektivni ugovor",
+   "url": "https://www.sluzbenilist.me/propisi/363448",
+   "versions": [
+    {
+     "from": "1996-10-01",
+     "units": 59,
+     "source_url": "https://www.sluzbenilist.me/propisi/363448/download",
+     "sha256": "f42ac8880afd522052130d41a1a4693d97b9bdbbe49ae568853725455a54f094"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1996-363455",
+   "path": "akt/1996/363455",
+   "short": "Posebni kolektivni ugovor",
+   "title": "Posebni kolektivni ugovor",
+   "url": "https://www.sluzbenilist.me/propisi/363455",
+   "versions": [
+    {
+     "from": "1996-10-23",
+     "units": 28,
+     "source_url": "https://www.sluzbenilist.me/propisi/363455/download",
+     "sha256": "17d681c35cd9a2881940f3f31289264884458ecdf1be46f290965a834da9d422"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1996-363477",
+   "path": "akt/1996/363477",
+   "short": "Posebni kolektivni ugovor",
+   "title": "Posebni kolektivni ugovor",
+   "url": "https://www.sluzbenilist.me/propisi/363477",
+   "versions": [
+    {
+     "from": "1996-10-21",
+     "units": 29,
+     "source_url": "https://www.sluzbenilist.me/propisi/363477/download",
+     "sha256": "138696c9d260a5e012d8bd0b379f2d77445462fb9c9204d1c032284e22b4c33e"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1997-349952",
+   "path": "akt/1997/349952",
+   "short": "Granski kolektivni ugovor",
+   "title": "Granski kolektivni ugovor",
+   "url": "https://www.sluzbenilist.me/propisi/349952",
+   "versions": [
+    {
+     "from": "1997-08-14",
+     "units": 57,
+     "source_url": "https://www.sluzbenilist.me/propisi/349952/download",
+     "sha256": "1287b72d8eb44981ea7c9d6b7bb8c1854b4e614d27063d3037feef82b5a25d89"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1997-350127",
+   "path": "akt/1997/350127",
+   "short": "GRANSKI KOLEKTIVNI UGOVOR",
+   "title": "GRANSKI KOLEKTIVNI UGOVOR",
+   "url": "https://www.sluzbenilist.me/propisi/350127",
+   "versions": [
+    {
+     "from": "1997-02-07",
+     "units": 54,
+     "source_url": "https://www.sluzbenilist.me/propisi/350127/download",
+     "sha256": "a7d21e301facc463a48dea65da92b7b74e2a3b0826a44db17c457e9ebef6664a"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1998-344877",
+   "path": "akt/1998/344877",
+   "short": "POSEBNI KOLEKTIVNI UGOVOR ZA JU CENTAR ZA EKOTOKSIKOLOŠKA ISPITIVANJA CRNE GORE",
+   "title": "POSEBNI KOLEKTIVNI UGOVOR ZA JU CENTAR ZA EKOTOKSIKOLOŠKA ISPITIVANJA CRNE GORE",
+   "url": "https://www.sluzbenilist.me/propisi/344877",
+   "versions": [
+    {
+     "from": "1998-04-29",
+     "units": 43,
+     "source_url": "https://www.sluzbenilist.me/propisi/344877/download",
+     "sha256": "03612c7dc86e66418221228e4dd4a88fd3b745f5f2f44d7f7d7a4726d51f4c98"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2002-348827",
+   "path": "akt/2002/348827",
+   "short": "Posebne uzanse u turizmu",
+   "title": "Posebne uzanse u turizmu",
+   "url": "https://www.sluzbenilist.me/propisi/348827",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 168,
+     "source_url": "https://www.sluzbenilist.me/propisi/348827/download",
+     "sha256": "8c07a131854d99a80c624a0b1dfa82f98e97af75971a8832d6adc43ac67c0981"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2004-348524",
+   "path": "akt/2004/348524",
+   "short": "Granski kolektivni ugovor za djelatnost poljoprivrede, prehrambene i duvanske industrije i vodoprivrede",
+   "title": "Granski kolektivni ugovor za djelatnost poljoprivrede, prehrambene i duvanske industrije i vodoprivrede",
+   "url": "https://www.sluzbenilist.me/propisi/348524",
+   "versions": [
+    {
+     "from": "2004-06-19",
+     "units": 64,
+     "source_url": "https://www.sluzbenilist.me/propisi/348524/download",
+     "sha256": "2b1d2b053d094f109664f7fe7d3af3e7b0130646936f867bca504c184e1b0ed6"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2004-348560",
+   "path": "akt/2004/348560",
+   "short": "Granski kolektivni ugovor za pomorski saobracaj i lucko-pretovarne usluge",
+   "title": "Granski kolektivni ugovor za pomorski saobracaj i lucko-pretovarne usluge",
+   "url": "https://www.sluzbenilist.me/propisi/348560",
+   "versions": [
+    {
+     "from": "2004-06-19",
+     "units": 67,
+     "source_url": "https://www.sluzbenilist.me/propisi/348560/download",
+     "sha256": "fa2c357c207429b14c82b91f356407a38fe8102f0bc934f9369b57325f503f9d"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2004-349903",
+   "path": "akt/2004/349903",
+   "short": "Granski kolektivni ugovor za djelatnost sumarstva, prerade drveta, proizvodnje i prerade papira",
+   "title": "Granski kolektivni ugovor za djelatnost sumarstva, prerade drveta, proizvodnje i prerade papira",
+   "url": "https://www.sluzbenilist.me/propisi/349903",
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/349903/download",
+     "sha256": "88f83ea741c4cf02ff7d43a7e829787c5f88445cc5c7568add154eeb423c7674"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2004-349940",
+   "path": "akt/2004/349940",
+   "short": "Granski kolektivni ugovor za djelatnost metalurgije, metalopreradjivacke industrije i proizvodnje masina, uredjaja i saobracajnih sredstava",
+   "title": "Granski kolektivni ugovor za djelatnost metalurgije, metalopreradjivacke industrije i proizvodnje masina, uredjaja i saobracajnih sredstava",
+   "url": "https://www.sluzbenilist.me/propisi/349940",
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 71,
+     "source_url": "https://www.sluzbenilist.me/propisi/349940/download",
+     "sha256": "0f832916e94bad862831721922795be118764790086bd839f38d6f147a264a6e"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2004-350039",
+   "path": "akt/2004/350039",
+   "short": "Granski kolektivni ugovor za drumski saobracaj",
+   "title": "Granski kolektivni ugovor za drumski saobracaj",
+   "url": "https://www.sluzbenilist.me/propisi/350039",
+   "versions": [
+    {
+     "from": "2004-05-28",
+     "units": 70,
+     "source_url": "https://www.sluzbenilist.me/propisi/350039/download",
+     "sha256": "8c5a359c13370786420bf49cc3d1a73fe0f180bf95e17efa7550b4636d65f3e7"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2005-349602",
+   "path": "akt/2005/349602",
+   "short": "Skolski kalendar za 2005/2006. godinu",
+   "title": "Skolski kalendar za 2005/2006. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/349602",
+   "versions": [
+    {
+     "from": "2005-06-24",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/349602/download",
+     "sha256": "fc13793bc756fe0eadc4736648f5dacc95e3332f40f065bff70fa6db09315018"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2006-345287",
+   "path": "akt/2006/345287",
+   "short": "Izmjene i dopune Granskog kolektivnog ugovora za banke, druge finansijske organizacije i osiguranja",
+   "title": "Izmjene i dopune Granskog kolektivnog ugovora za banke, druge finansijske organizacije i osiguranja",
+   "url": "https://www.sluzbenilist.me/propisi/345287",
+   "versions": [
+    {
+     "from": "2006-03-10",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/345287/download",
+     "sha256": "f54aa403c4b941445e5ca1fefdaf72b669b93809dff66020e04f19cadcd6d6b9"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2006-349517",
+   "path": "akt/2006/349517",
+   "short": "Skolski kalendar za 2006/2007. godinu",
+   "title": "Skolski kalendar za 2006/2007. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/349517",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/349517/download",
+     "sha256": "a593d8f933e456bec229bbf411f5130e84f61841ed36fbb19d39fb3ec93aa847"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2007-348429",
+   "path": "akt/2007/348429",
+   "short": "Kolektivni ugovor za Strucnu sluzbu Crnogorske akademije nauka i umjetnosti",
+   "title": "Kolektivni ugovor za Strucnu sluzbu Crnogorske akademije nauka i umjetnosti",
+   "url": "https://www.sluzbenilist.me/propisi/348429",
+   "versions": [
+    {
+     "from": "2007-04-21",
+     "units": 55,
+     "source_url": "https://www.sluzbenilist.me/propisi/348429/download",
+     "sha256": "3295a45db1d6b7336a0e95f815edf2873d98f99806379e60ef37fc77961f76c0"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2008-346225",
+   "path": "akt/2008/346225",
+   "short": "Dopuna Jednogodišnjeg programa planiranja i uređenja prostora za 2008. godinu",
+   "title": "Dopuna Jednogodišnjeg programa planiranja i uređenja prostora za 2008. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/346225",
+   "versions": [
+    {
+     "from": "2008-02-14",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/346225/download",
+     "sha256": "32bb026a251fac59c605032871ce388ff2c5ceb9b7d3d086843c73b7ba308c2d"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2009-347272",
+   "path": "akt/2009/347272",
+   "short": "Etički kodeks izabranih predstavnika i funkcionera u lokalnoj samoupravi",
+   "title": "Etički kodeks izabranih predstavnika i funkcionera u lokalnoj samoupravi",
+   "url": "https://www.sluzbenilist.me/propisi/347272",
+   "versions": [
+    {
+     "from": "2009-12-30",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/347272/download",
+     "sha256": "2d384c99808214a082aa563baee7638b313fb7d962ee42a57925fe9459768d95"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2010-342563",
+   "path": "akt/2010/342563",
+   "short": "Zavrsni racun Finansijskog plana Gradske opstine Tuzi za 2009. godinu",
+   "title": "Zavrsni racun Finansijskog plana Gradske opstine Tuzi za 2009. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/342563",
+   "versions": [
+    {
+     "from": "2010-11-18",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/342563/download",
+     "sha256": "1f62e445a8c05fc55fb270f4dd007ee45953d628c6de175423a28a19b0c1816d"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2010-343223",
+   "path": "akt/2010/343223",
+   "short": "Rjesenje o izmjeni Rjesenja o imenovanju odbornika koji prisustvuju vjencanju u Opstini Herceg Novi",
+   "title": "Rjesenje o izmjeni Rjesenja o imenovanju odbornika koji prisustvuju vjencanju u Opstini Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/343223",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/343223/download",
+     "sha256": "5ecc6c14ccc8e6b2ab3074ab02e0f695d42b1f7fb925c77015f0a1f1f48557ca"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2010-343224",
+   "path": "akt/2010/343224",
+   "short": "Rjesenje o izmjeni Rjesenja o imenovanju clanova Upravnog odbora JP \"Komunalno stambeno\" Herceg Novi iz reda iz reda osnivaca",
+   "title": "Rjesenje o izmjeni Rjesenja o imenovanju clanova Upravnog odbora JP \"Komunalno stambeno\" Herceg Novi iz reda iz reda osnivaca",
+   "url": "https://www.sluzbenilist.me/propisi/343224",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/343224/download",
+     "sha256": "1855adbb706504e3fbb007107021778a0cf9898930eb59c7f9f1fd290900028d"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2010-343632",
+   "path": "akt/2010/343632",
+   "short": "Eticki kodeks lokalnih sluzbenika i namjestenika",
+   "title": "Eticki kodeks lokalnih sluzbenika i namjestenika",
+   "url": "https://www.sluzbenilist.me/propisi/343632",
+   "versions": [
+    {
+     "from": "2010-08-25",
+     "units": 28,
+     "source_url": "https://www.sluzbenilist.me/propisi/343632/download",
+     "sha256": "55640e6031c982f7bbf4d85410e02283f407ddbc46ac9f048b0128ee22f913b4"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2010-343633",
+   "path": "akt/2010/343633",
+   "short": "Eticki kodeks funkcionera lokalne samouprave",
+   "title": "Eticki kodeks funkcionera lokalne samouprave",
+   "url": "https://www.sluzbenilist.me/propisi/343633",
+   "versions": [
+    {
+     "from": "2010-08-25",
+     "units": 37,
+     "source_url": "https://www.sluzbenilist.me/propisi/343633/download",
+     "sha256": "04a5f8afa45ea59ca2c24fe68ac1f965f9441c89404181a1dc458989675702e8"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2010-343903",
+   "path": "akt/2010/343903",
+   "short": "Rjesenje o davanju saglasnosti na Odluku o osnivanju MZ Becici",
+   "title": "Rjesenje o davanju saglasnosti na Odluku o osnivanju MZ Becici",
+   "url": "https://www.sluzbenilist.me/propisi/343903",
+   "versions": [
+    {
+     "from": "2010-10-14",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/343903/download",
+     "sha256": "ac3bac94da69e227f855cf08cd2947ff81730b3197df1372ac71ac0c2cf23898"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2011-346264",
+   "path": "akt/2011/346264",
+   "short": "Odluka o davanju saglasnosti na Ugovor o preuzimanju duga",
+   "title": "Odluka o davanju saglasnosti na Ugovor o preuzimanju duga",
+   "url": "https://www.sluzbenilist.me/propisi/346264",
+   "versions": [
+    {
+     "from": "2011-03-04",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/346264/download",
+     "sha256": "c9aa1862c813edf2589037f5ea98dfdc2be928392f54ad5393d881468d51c7b6"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2012-344752",
+   "path": "akt/2012/344752",
+   "short": "Zaključak o usvajanju Izvještaja o poslovanju JP \"Komunalno\" Kolašin za 2011.godinu sa Završnim računom za 2011. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o poslovanju JP \"Komunalno\" Kolašin za 2011.godinu sa Završnim računom za 2011. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/344752",
+   "versions": [
+    {
+     "from": "2012-08-28",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/344752/download",
+     "sha256": "a9cf6ed241223853259bda0b69328bf283da5921fa14664f5b8f39ebdf59b496"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2014-343213",
+   "path": "akt/2014/343213",
+   "short": "Treća dopuna plana privremenih objekata za 2014. godinu",
+   "title": "Treća dopuna plana privremenih objekata za 2014. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/343213",
+   "versions": [
+    {
+     "from": "2014-10-09",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/343213/download",
+     "sha256": "b842eaf6603bb81c4a6058126cd001e39cd4239a008c6bc9af964caae55f55b1"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2015-345823",
+   "path": "akt/2015/345823",
+   "short": "Dopuna Odluke o pristupanju izradi Detaljnog urbanističkog plana Lepetane",
+   "title": "Dopuna Odluke o pristupanju izradi Detaljnog urbanističkog plana Lepetane",
+   "url": "https://www.sluzbenilist.me/propisi/345823",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/345823/download",
+     "sha256": "4d1373c61006cedd069d1e31623db4bb9b7a1f2dcc4d2f8d8e8616f8be8d03a5"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2016-345455",
+   "path": "akt/2016/345455",
+   "short": "Zaključak o usvajanju Izvještaja o radu i finansijskog izvještaja za 2015.godinu D.O.O. \" Vodovod i kanalizacija\" Kolašin",
+   "title": "Zaključak o usvajanju Izvještaja o radu i finansijskog izvještaja za 2015.godinu D.O.O. \" Vodovod i kanalizacija\" Kolašin",
+   "url": "https://www.sluzbenilist.me/propisi/345455",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/345455/download",
+     "sha256": "1b424e2025222902bda137ea326f84f4d53129bb0ff0e258c764fc3e5f784027"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2016-345769",
+   "path": "akt/2016/345769",
+   "short": "Preporuka Odboru direktora DOO \"Komunalno\" Tivat o preispitivanju važećih cjenovnika usluga",
+   "title": "Preporuka Odboru direktora DOO \"Komunalno\" Tivat o preispitivanju važećih cjenovnika usluga",
+   "url": "https://www.sluzbenilist.me/propisi/345769",
+   "versions": [
+    {
+     "from": "2016-09-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/345769/download",
+     "sha256": "ca8b001026adb5d532c26974763ceb2ee0b372b85a89049c0947a3147887cb8b"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2016-347930",
+   "path": "akt/2016/347930",
+   "short": "Odluka o izradi Lokalnog plana upravljanja komunalnim i neopasnim građevinskim otpadom Prijestonice Cetinje za period od 2016 - 2020. godine",
+   "title": "Odluka o izradi Lokalnog plana upravljanja komunalnim i neopasnim građevinskim otpadom Prijestonice Cetinje za period od 2016 - 2020. godine",
+   "url": "https://www.sluzbenilist.me/propisi/347930",
+   "versions": [
+    {
+     "from": "2016-09-08",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/347930/download",
+     "sha256": "3770a5d9042ca0021c43ffb4a38c6e868aaa761c747334df32df4902d3322469"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2017-342097",
+   "path": "akt/2017/342097",
+   "short": "Izmjene Etičkog kodeksa izabranih predstavnika i funkcionera u lokalnoj samoupravi Glavnog grada - Podgorice",
+   "title": "Izmjene Etičkog kodeksa izabranih predstavnika i funkcionera u lokalnoj samoupravi Glavnog grada - Podgorice",
+   "url": "https://www.sluzbenilist.me/propisi/342097",
+   "versions": [
+    {
+     "from": "2017-08-15",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/342097/download",
+     "sha256": "7c7ae7f8b54b1c0ba61ecff5dc09fd25023316f9cda5eb18f5c08733db80962d"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2017-344789",
+   "path": "akt/2017/344789",
+   "short": "Izmjene Etičkog kodeksa lokalnih službenika i namještenika",
+   "title": "Izmjene Etičkog kodeksa lokalnih službenika i namještenika",
+   "url": "https://www.sluzbenilist.me/propisi/344789",
+   "versions": [
+    {
+     "from": "2017-06-23",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/344789/download",
+     "sha256": "55ac8941b431152ae267dd82e9bd1d558feba5ef4525ea33bbfc2d9e11ddebaa"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2018-377281",
+   "path": "akt/2018/377281",
+   "short": "Pravilnik o ovjeri cjenovnika usluga u auto taksi prevozu na teritoriji i sa teritorije opštine Budva",
+   "title": "Pravilnik o ovjeri cjenovnika usluga u auto taksi prevozu na teritoriji i sa teritorije opštine Budva",
+   "url": "https://www.sluzbenilist.me/propisi/377281",
+   "versions": [
+    {
+     "from": "2018-07-06",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/377281/download",
+     "sha256": "5de070c4ceca35320f75bdd4208ce85c4e7d6136a5be3753bd09ac72e7d26b6e"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2018-377378",
+   "path": "akt/2018/377378",
+   "short": "Završni račun Budžeta opštine berane za 2017. godinu",
+   "title": "Završni račun Budžeta opštine berane za 2017. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/377378",
+   "versions": [
+    {
+     "from": "2018-08-02",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/377378/download",
+     "sha256": "66c7eedc193ec3207673e5458b2e7f7e1e379532eb9e164ef902b1c67f0cde98"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2018-377429",
+   "path": "akt/2018/377429",
+   "short": "Završni račun Budžeta opštine berane za 2016. godinu",
+   "title": "Završni račun Budžeta opštine berane za 2016. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/377429",
+   "versions": [
+    {
+     "from": "2018-08-02",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/377429/download",
+     "sha256": "699f0a4ba1a37139d85cdeffca27974fe946bef56384cb981289a3dd01670f68"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2018-377818",
+   "path": "akt/2018/377818",
+   "short": "Završni račun Budžeta opštine Bar za 2017. godinu",
+   "title": "Završni račun Budžeta opštine Bar za 2017. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/377818",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/377818/download",
+     "sha256": "0e47de652fd3f17b4398f53d1bc4fae9c39536284d1e4e07942026f820cb8ed1"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2018-378034",
+   "path": "akt/2018/378034",
+   "short": "Zaključak Broj: 0304- 030 -313",
+   "title": "Zaključak Broj: 0304- 030 -313",
+   "url": "https://www.sluzbenilist.me/propisi/378034",
+   "versions": [
+    {
+     "from": "2018-10-27",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/378034/download",
+     "sha256": "a1d4d892229ab3fba141411e76dc3c921a67185102115da13cfc0fe271925707"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2018-378148",
+   "path": "akt/2018/378148",
+   "short": "Zaključak o odobravanju finansijske pomoći",
+   "title": "Zaključak o odobravanju finansijske pomoći",
+   "url": "https://www.sluzbenilist.me/propisi/378148",
+   "versions": [
+    {
+     "from": "2018-11-20",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/378148/download",
+     "sha256": "917425a54f5b27e0592900c3f5cbfd69ac86bb7b983b43516f52561325bc3524"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2018-378359",
+   "path": "akt/2018/378359",
+   "short": "Zaključak o oslobađanju plaćanja naknade za korišćenje opštinskih puteva za 2018.godinu za obveznike ove naknade na području MZ Krtoli I MZ Krašići",
+   "title": "Zaključak o oslobađanju plaćanja naknade za korišćenje opštinskih puteva za 2018.godinu za obveznike ove naknade na području MZ Krtoli I MZ Krašići",
+   "url": "https://www.sluzbenilist.me/propisi/378359",
+   "versions": [
+    {
+     "from": "2018-12-12",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/378359/download",
+     "sha256": "631b6c93a1ac4273d97f2419b802825efc7241b26b079787b751b7c34b7d6b4b"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2018-378448",
+   "path": "akt/2018/378448",
+   "short": "Zaključak",
+   "title": "Zaključak",
+   "url": "https://www.sluzbenilist.me/propisi/378448",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/378448/download",
+     "sha256": "8ac3fb0cc3d463942d5c9c4249e990fe72b70555d331c74bc3116c17cd8dec51"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2019-375120",
+   "path": "akt/2019/375120",
+   "short": "Program uređenja prostora za 2019. godinu",
+   "title": "Program uređenja prostora za 2019. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/375120",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/375120/download",
+     "sha256": "16070992e26aebd934eb61f458ca207b6880f6dbd3f89e047170224366bf3f2a"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2019-375302",
+   "path": "akt/2019/375302",
+   "short": "Zaključak,Broj:01-5588",
+   "title": "Zaključak,Broj:01-5588",
+   "url": "https://www.sluzbenilist.me/propisi/375302",
+   "versions": [
+    {
+     "from": "2019-01-18",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/375302/download",
+     "sha256": "dea1e281510f782f965a21d0f494181892cbafa5b568a976cab7b42001e1779a"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2019-375652",
+   "path": "akt/2019/375652",
+   "short": "Pravilnik o bližim uslovima za ostvarivanje prava na poklon paket za novorođenčad",
+   "title": "Pravilnik o bližim uslovima za ostvarivanje prava na poklon paket za novorođenčad",
+   "url": "https://www.sluzbenilist.me/propisi/375652",
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/375652/download",
+     "sha256": "edd71908531b49ec5662040f401946b05870b9a22d684957428afa3fa724bc46"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2019-379019",
+   "path": "akt/2019/379019",
+   "short": "Zaključak o prihvatanju Izvještaja o radu za 2018. godinu i Finansijskog izvještaja za 2018. godinu JU Narodna biblioteka i čitaonica \"Njegoš\" Cetinje",
+   "title": "Zaključak o prihvatanju Izvještaja o radu za 2018. godinu i Finansijskog izvještaja za 2018. godinu JU Narodna biblioteka i čitaonica \"Njegoš\" Cetinje",
+   "url": "https://www.sluzbenilist.me/propisi/379019",
+   "versions": [
+    {
+     "from": "2019-05-03",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/379019/download",
+     "sha256": "17aa71f3d48e648d78f2da9ac46549f0d023aa05b07b594afb53138a26fcb442"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2019-379054",
+   "path": "akt/2019/379054",
+   "short": "Zaključak o prihvatanju Izvještaja o radu JU \"Dnevni centar za djecu sa smetnjama i teškoćama u razvoju\" za 2018. godinu sa Finansijskim izvještajem za 2018.godinu",
+   "title": "Zaključak o prihvatanju Izvještaja o radu JU \"Dnevni centar za djecu sa smetnjama i teškoćama u razvoju\" za 2018. godinu sa Finansijskim izvještajem za 2018.godinu",
+   "url": "https://www.sluzbenilist.me/propisi/379054",
+   "versions": [
+    {
+     "from": "2019-06-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/379054/download",
+     "sha256": "9591de310f743a487b691280d630a0afa75b58dd0443d4cbc557d273609e9266"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2019-379108",
+   "path": "akt/2019/379108",
+   "short": "Zaključak o prihvatanju Izvještaja o radu JU \"Gradski muzej Mirko Komnenović i Galerija Josip Bepo Benković\" Herceg Novi za 2018.godinu sa Finansijskim izvještajem za 2018.godinu",
+   "title": "Zaključak o prihvatanju Izvještaja o radu JU \"Gradski muzej Mirko Komnenović i Galerija Josip Bepo Benković\" Herceg Novi za 2018.godinu sa Finansijskim izvještajem za 2018.godinu",
+   "url": "https://www.sluzbenilist.me/propisi/379108",
+   "versions": [
+    {
+     "from": "2019-06-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/379108/download",
+     "sha256": "2e162a65411fdcfa92438ae6ce220defb8ee82a98cbc185cd9e4e1148f7694b1"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2019-379428",
+   "path": "akt/2019/379428",
+   "short": "Zaključak",
+   "title": "Zaključak",
+   "url": "https://www.sluzbenilist.me/propisi/379428",
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/379428/download",
+     "sha256": "7d021598fdb414c28e1a9b4de178b622d3f85a93689ba3a6b100c12ed5ebb5e9"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2019-379451",
+   "path": "akt/2019/379451",
+   "short": "Završni račun budžeta opštine Bar za 2018. godinu",
+   "title": "Završni račun budžeta opštine Bar za 2018. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/379451",
+   "versions": [
+    {
+     "from": "2019-07-06",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/379451/download",
+     "sha256": "601f32f486316807228643f65af1e9dd4e2776668be1d1671ba9ce5cdb21fc64"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2019-379510",
+   "path": "akt/2019/379510",
+   "short": "Završni račun Budžeta Glavnog grada Podgorice za 2018. godinu",
+   "title": "Završni račun Budžeta Glavnog grada Podgorice za 2018. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/379510",
+   "versions": [
+    {
+     "from": "2019-06-19",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/379510/download",
+     "sha256": "4632f89bbd3b02b1b10d24906f825e87ad573d0d1e5a747ff1b0d52ae85a4679"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2019-379952",
+   "path": "akt/2019/379952",
+   "short": "Završni račun budžeta opštine Berane za 2018. godinu",
+   "title": "Završni račun budžeta opštine Berane za 2018. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/379952",
+   "versions": [
+    {
+     "from": "2019-07-27",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/379952/download",
+     "sha256": "ccf1fa09502046f5a70ef75b70473a0fe20074f3da6840fb906a77255ab4d008"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2020-377316",
+   "path": "akt/2020/377316",
+   "short": "Pravilnik o obliku i sadržini poreske prijave za razrez poreza na nepokretnosti za pravna lica",
+   "title": "Pravilnik o obliku i sadržini poreske prijave za razrez poreza na nepokretnosti za pravna lica",
+   "url": "https://www.sluzbenilist.me/propisi/377316",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/377316/download",
+     "sha256": "622a43bdec3cb72171a74bf8f3a817b87f36f13f3e1b8a4d055c1bd2390e5960"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2021-342548",
+   "path": "akt/2021/342548",
+   "short": "Etički kodeks lokalnih službenika i namještenika",
+   "title": "Etički kodeks lokalnih službenika i namještenika",
+   "url": "https://www.sluzbenilist.me/propisi/342548",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 27,
+     "source_url": "https://www.sluzbenilist.me/propisi/342548/download",
+     "sha256": "ddbc284666b37c8d52f66e66e20ba86dae71d7f6b5b4b3da7c5041df8157d8f0"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2021-343809",
+   "path": "akt/2021/343809",
+   "short": "Odluka o kućnom redu u stambenim zgradama",
+   "title": "Odluka o kućnom redu u stambenim zgradama",
+   "url": "https://www.sluzbenilist.me/propisi/343809",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 41,
+     "source_url": "https://www.sluzbenilist.me/propisi/343809/download",
+     "sha256": "e0e83fbe5dbd65ea92963036c9cb02a0943744c740abe23018a0e7e78fbcfe0d"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2021-369712",
+   "path": "akt/2021/369712",
+   "short": "Metodologija za utvrđivanje regulatorno dozvoljenog prihoda i cijena za korišćenje prenosnog sistema gasa",
+   "title": "Metodologija za utvrđivanje regulatorno dozvoljenog prihoda i cijena za korišćenje prenosnog sistema gasa",
+   "url": "https://www.sluzbenilist.me/propisi/369712",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 41,
+     "source_url": "https://www.sluzbenilist.me/propisi/369712/download",
+     "sha256": "5084c7deebab4500da0ca9da58a46a822112053a972e69fe7b97c6c7c6c8e212"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2022-342245",
+   "path": "akt/2022/342245",
+   "short": "Zaključak o usvajanju Izvještaja o radu Turističke organizacije Tuzi za 2021. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu Turističke organizacije Tuzi za 2021. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/342245",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/342245/download",
+     "sha256": "a9b53c4ecd15ff326864d2fc514a2c1357e0d2a5c46a2a14a132ce7fc86f17c3"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2022-345916",
+   "path": "akt/2022/345916",
+   "short": "Etički kodeks odbornika i lokalnih funkcionera u lokalnoj samoupravi Opštine Herceg Novi",
+   "title": "Etički kodeks odbornika i lokalnih funkcionera u lokalnoj samoupravi Opštine Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/345916",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.me/propisi/345916/download",
+     "sha256": "1a282249862d7046bea0158ae16a6b38451243e6a3b8a73f5ccf1c53693b3b94"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2023-346629",
+   "path": "akt/2023/346629",
+   "short": "Etički kodeks izabranih predstavnika i funkcionera u lokalnoj samoupravi Opštine Kolašin",
+   "title": "Etički kodeks izabranih predstavnika i funkcionera u lokalnoj samoupravi Opštine Kolašin",
+   "url": "https://www.sluzbenilist.me/propisi/346629",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 41,
+     "source_url": "https://www.sluzbenilist.me/propisi/346629/download",
+     "sha256": "29c016c4c3920d463e943c01548ef4689e4ed15c56a76cca362661aa6cd15585"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2023-359852",
+   "path": "akt/2023/359852",
+   "short": "Školski kalendar o izmjeni Školskog kalendara za 2022/2023. godinu",
+   "title": "Školski kalendar o izmjeni Školskog kalendara za 2022/2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/359852",
+   "versions": [
+    {
+     "from": "2023-04-29",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/359852/download",
+     "sha256": "38d25d32546cdf4f1dae0312c3deb99e69b4c472bed8294dab6fcc9f76890a5c"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2023-361891",
+   "path": "akt/2023/361891",
+   "short": "Nacionalni plan traganja i spašavanja na moru",
+   "title": "Nacionalni plan traganja i spašavanja na moru",
+   "url": "https://www.sluzbenilist.me/propisi/361891",
+   "versions": [
+    {
+     "from": "2023-08-05",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/361891/download",
+     "sha256": "24ed1e4936c2049b3a7204ce5aafa6f0b0a02711f125941770be6655ff16b0eb"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2023-361895",
+   "path": "akt/2023/361895",
+   "short": "Školski kalendar za 2023/2024. godinu",
+   "title": "Školski kalendar za 2023/2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/361895",
+   "versions": [
+    {
+     "from": "2023-08-05",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/361895/download",
+     "sha256": "e54b34797d9970c6261c273f19b8d7bf1336266e7e01dd3be928319a4c92c097"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2023-362013",
+   "path": "akt/2023/362013",
+   "short": "Granski kolektivni ugovor za pomorce na brodovima u međunarodnoj plovidbi",
+   "title": "Granski kolektivni ugovor za pomorce na brodovima u međunarodnoj plovidbi",
+   "url": "https://www.sluzbenilist.me/propisi/362013",
+   "versions": [
+    {
+     "from": "2023-10-07",
+     "units": 44,
+     "source_url": "https://www.sluzbenilist.me/propisi/362013/download",
+     "sha256": "c1fad6743955520ec2ab667bcded834126d33e7a63be98095d32092dcc1f87e9"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2023-362122",
+   "path": "akt/2023/362122",
+   "short": "Deklaracija o zaštiti područja Paštrovska gora",
+   "title": "Deklaracija o zaštiti područja Paštrovska gora",
+   "url": "https://www.sluzbenilist.me/propisi/362122",
+   "versions": [
+    {
+     "from": "2023-09-02",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/362122/download",
+     "sha256": "c9fa9382454cc6fb416c43816a788c400d367751217c2463613783ee74aa04a3"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2023-362545",
+   "path": "akt/2023/362545",
+   "short": "Etički kodeks lokalnih službenika i namještenika u Opštini Danilovgrad",
+   "title": "Etički kodeks lokalnih službenika i namještenika u Opštini Danilovgrad",
+   "url": "https://www.sluzbenilist.me/propisi/362545",
+   "versions": [
+    {
+     "from": "2023-12-02",
+     "units": 29,
+     "source_url": "https://www.sluzbenilist.me/propisi/362545/download",
+     "sha256": "f540313b5d40255b1a9c76555190993b022dcccf18e17186054c394fd8dc813f"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2023-362621",
+   "path": "akt/2023/362621",
+   "short": "Granski kolektivni ugovor o izmjenama i dopunama granskog kolektivnog ugovora za stambeno-komunalnu djelatnost",
+   "title": "Granski kolektivni ugovor o izmjenama i dopunama granskog kolektivnog ugovora za stambeno-komunalnu djelatnost",
+   "url": "https://www.sluzbenilist.me/propisi/362621",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/362621/download",
+     "sha256": "61d8998c457c2837268d11db615bfce2d3858fe8a4ab5836a582334ddd3eac38"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2023-362642",
+   "path": "akt/2023/362642",
+   "short": "Završni račun Budžeta Opštine Bijelo Polje za 2022. godinu",
+   "title": "Završni račun Budžeta Opštine Bijelo Polje za 2022. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/362642",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/362642/download",
+     "sha256": "eb1a7f0b25f0d6a3a5e8aa9a6a85ff049cb435db6742030769a9335bc0590b6e"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2023-362748",
+   "path": "akt/2023/362748",
+   "short": "Završni račun Budžeta Opštine Berane za 2022. godinu",
+   "title": "Završni račun Budžeta Opštine Berane za 2022. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/362748",
+   "versions": [
+    {
+     "from": "2023-07-29",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/362748/download",
+     "sha256": "8d5124b0de4f9347ba64897dea0ab56e6545ce67e954d172c1f915bfa91e1115"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2023-367731",
+   "path": "akt/2023/367731",
+   "short": "Zaključak o usvajanju izvještaja o radu Društva sa Ograničenom Odgovornošću \"Možura\" za 2022. godinu / Përfundimin Për miratimin e raportit të punës së Shoqërisë me Përgjegjësi të Kufizuar \"Mozhura\". për vitin 2022.",
+   "title": "Zaključak o usvajanju izvještaja o radu Društva sa Ograničenom Odgovornošću \"Možura\" za 2022. godinu / Përfundimin Për miratimin e raportit të punës së Shoqërisë me Përgjegjësi të Kufizuar \"Mozhura\". për vitin 2022.",
+   "url": "https://www.sluzbenilist.me/propisi/367731",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/367731/download",
+     "sha256": "09abaf4c0695fb1af3602a13463374c8d13653b0e8c06cb1fd4af704f8268375"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2023-369715",
+   "path": "akt/2023/369715",
+   "short": "Program uređenja prostora sa programom urbane sanacije Opštine Žabljak za 2023. godinu",
+   "title": "Program uređenja prostora sa programom urbane sanacije Opštine Žabljak za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/369715",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/369715/download",
+     "sha256": "3708e19ffd2dd41348c01c5bb68b89eb932a4b0552698bd9b2b736778858b950"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2023-387885",
+   "path": "akt/2023/387885",
+   "short": "Zaključak o izjašnjenju u vezi sa geološko - rudarskim aktivnostima na istražnim ležištima polimetaličnih ruda na teritoriji opštine Mojkovac",
+   "title": "Zaključak o izjašnjenju u vezi sa geološko - rudarskim aktivnostima na istražnim ležištima polimetaličnih ruda na teritoriji opštine Mojkovac",
+   "url": "https://www.sluzbenilist.me/propisi/387885",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/387885/download",
+     "sha256": "823d5181e7df41738d4607996b8a99bc0274508bcb59f87b5a09ad2e711104f8"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-365329",
+   "path": "akt/2024/365329",
+   "short": "Granski kolektivni ugovor o izmjenama i dopunama Granskog kolektivnog ugovora za građevinarstvo i industriju građevinskog materijala",
+   "title": "Granski kolektivni ugovor o izmjenama i dopunama Granskog kolektivnog ugovora za građevinarstvo i industriju građevinskog materijala",
+   "url": "https://www.sluzbenilist.me/propisi/365329",
+   "versions": [
+    {
+     "from": "2024-02-10",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/365329/download",
+     "sha256": "2d16c80c72dff5e5b6f83b9bda0e50d21081a0cf94ad5e30fe0bf0df8784fcef"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-368696",
+   "path": "akt/2024/368696",
+   "short": "Lokalni akcioni plan za mlade Opštine Mojkovac za 2024. godinu",
+   "title": "Lokalni akcioni plan za mlade Opštine Mojkovac za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/368696",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/368696/download",
+     "sha256": "362f8fc03f151ea7d744a94a80f5284bf42085ef14828992ba3233429c33d63f"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-369896",
+   "path": "akt/2024/369896",
+   "short": "Završni račun budžeta Opštine Bar za 2023. godinu",
+   "title": "Završni račun budžeta Opštine Bar za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/369896",
+   "versions": [
+    {
+     "from": "2024-06-01",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/369896/download",
+     "sha256": "044d4f8322d20627e2222d8e38372e56df8f3aaccf5d4a77725cd167e9e97df6"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-370178",
+   "path": "akt/2024/370178",
+   "short": "Smjernice o analizi rizika i uspostavljanju sistema upravljanja rizikom od pranja novca i finansiranja terorizma u osiguranju",
+   "title": "Smjernice o analizi rizika i uspostavljanju sistema upravljanja rizikom od pranja novca i finansiranja terorizma u osiguranju",
+   "url": "https://www.sluzbenilist.me/propisi/370178",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/370178/download",
+     "sha256": "6540727ec983bbac09586e6b027aeb361a47ec0ab710a00aa6934b107dfd73ae"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-370310",
+   "path": "akt/2024/370310",
+   "short": "Granski kolektivni ugovor za djelatnost turizma i ugostiteljstva",
+   "title": "Granski kolektivni ugovor za djelatnost turizma i ugostiteljstva",
+   "url": "https://www.sluzbenilist.me/propisi/370310",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 55,
+     "source_url": "https://www.sluzbenilist.me/propisi/370310/download",
+     "sha256": "efcd3e23d0b1d097fd9e2a6df55607e5a446b6c96712579e73caa7a8e0fd22f8"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371472",
+   "path": "akt/2024/371472",
+   "short": "Zaključak o prihvatanju Informacije o realizaciji sredstava opredijeljenih za projekte nevladinih organizacija za 2023. godinu",
+   "title": "Zaključak o prihvatanju Informacije o realizaciji sredstava opredijeljenih za projekte nevladinih organizacija za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/371472",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/371472/download",
+     "sha256": "aaba4f141729e4d3e50d70d3ca9f79cd92e27d0c89e2fce85b2bf475fda5a32c"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371485",
+   "path": "akt/2024/371485",
+   "short": "Zaključak o prihvatanju Studije javnog gradskog i prigradskog prevoza putnika",
+   "title": "Zaključak o prihvatanju Studije javnog gradskog i prigradskog prevoza putnika",
+   "url": "https://www.sluzbenilist.me/propisi/371485",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/371485/download",
+     "sha256": "46aac287114dd37d461a0a03001f2bf0db5ffbfb2189b1634a4cc0ae3463b46e"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371490",
+   "path": "akt/2024/371490",
+   "short": "Zaključak o usvajanju Izvještaja o radu DOO \"Komunalne djelatnosti\" Ulcinj za 2023. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu DOO \"Komunalne djelatnosti\" Ulcinj za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/371490",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/371490/download",
+     "sha256": "34c45fa5d137ffeb995a1b5b0d87abccbc835a704167eaed4d0b6b1082f4690b"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371506",
+   "path": "akt/2024/371506",
+   "short": "Završni račun budžeta Opštine Danilovgrad za 2023. godinu",
+   "title": "Završni račun budžeta Opštine Danilovgrad za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/371506",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/371506/download",
+     "sha256": "8e347befb5c584496f0cc49ac80d4abbebfbf301cf465998a3285f0564c25cd8"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371512",
+   "path": "akt/2024/371512",
+   "short": "Zaključak o usvajanju Izvještaja o radu DOO \"Vodovod i kanalizacija\" Ulcinj za 2023. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu DOO \"Vodovod i kanalizacija\" Ulcinj za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/371512",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/371512/download",
+     "sha256": "7ed4af998016ac6cfb6dba24f86475c7ba0d0ecd2556eee5d94006f5dd896f13"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371514",
+   "path": "akt/2024/371514",
+   "short": "Zaključak o usvajanju Godišnjeg programa obavljanja komunalnih djelatnosti Azila za napuštene pse za 2024. godinu",
+   "title": "Zaključak o usvajanju Godišnjeg programa obavljanja komunalnih djelatnosti Azila za napuštene pse za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/371514",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/371514/download",
+     "sha256": "94525187a97dc5a51d612e50b09b09b9c9f7f27577ccdfaa33708856adbb0841"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371522",
+   "path": "akt/2024/371522",
+   "short": "Zaključak o usvajanju Izvještaja o radu sa finansijskim izvještajem \"Možura\" za 2023. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu sa finansijskim izvještajem \"Možura\" za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/371522",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/371522/download",
+     "sha256": "2c5605f763389e14f7c64a5d1663f462e76c7182b0396d6494a43c9a1fe24ef5"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371709",
+   "path": "akt/2024/371709",
+   "short": "Odluka o određivanju lokacije za izgradnju objekata - Sajmište i Multifunkcionalna dvorana",
+   "title": "Odluka o određivanju lokacije za izgradnju objekata - Sajmište i Multifunkcionalna dvorana",
+   "url": "https://www.sluzbenilist.me/propisi/371709",
+   "versions": [
+    {
+     "from": "2024-04-13",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/371709/download",
+     "sha256": "9fd7284b2682390d1e00b9746323e56450ad692b2ed7f75f0eac1d5d9dc1f066"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371710",
+   "path": "akt/2024/371710",
+   "short": "Odluka o izmjenama i dopunama Odluke o kriterijumima, načinu i postupku raspodjele sredstava za podršku preduzetništvu 541. Odluka o izmjenama Odluke o obrazovanju Organizacionog odbora za stvaranje uslova za početak rada novoosnovane Opštine Tuzi",
+   "title": "Odluka o izmjenama i dopunama Odluke o kriterijumima, načinu i postupku raspodjele sredstava za podršku preduzetništvu 541. Odluka o izmjenama Odluke o obrazovanju Organizacionog odbora za stvaranje uslova za početak rada novoosnovane Opštine Tuzi",
+   "url": "https://www.sluzbenilist.me/propisi/371710",
+   "versions": [
+    {
+     "from": "2024-04-13",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.me/propisi/371710/download",
+     "sha256": "70f2c5c3508fc15ab692f5a6b6a26fc5b684a8ded45a7dc849219ab8e9b66309"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371711",
+   "path": "akt/2024/371711",
+   "short": "Odluka o izmjenama i dopunama Odluke o kriterijumima, načinu i postupku raspodjele sredstava za podršku ženskom preduzetništvu",
+   "title": "Odluka o izmjenama i dopunama Odluke o kriterijumima, načinu i postupku raspodjele sredstava za podršku ženskom preduzetništvu",
+   "url": "https://www.sluzbenilist.me/propisi/371711",
+   "versions": [
+    {
+     "from": "2024-04-13",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/371711/download",
+     "sha256": "463920eb03bc42b45a15ce6884c523e56e5409d015a1369e07d27ecd330267df"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371714",
+   "path": "akt/2024/371714",
+   "short": "Odluka o doradi spomen-obilježja - spomen-biste generala Vasa Brajovića - Vasosa Mavrovuniotisa",
+   "title": "Odluka o doradi spomen-obilježja - spomen-biste generala Vasa Brajovića - Vasosa Mavrovuniotisa",
+   "url": "https://www.sluzbenilist.me/propisi/371714",
+   "versions": [
+    {
+     "from": "2024-04-13",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/371714/download",
+     "sha256": "33fcd895fc8a0605572217d9732d84e84e61225629bfa85672e784fe67dd5485"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371725",
+   "path": "akt/2024/371725",
+   "short": "Odluka o finansiranju sporta u Glavnom gradu Podgorica",
+   "title": "Odluka o finansiranju sporta u Glavnom gradu Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/371725",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 41,
+     "source_url": "https://www.sluzbenilist.me/propisi/371725/download",
+     "sha256": "157ddae8ce31b3a23dc734c8ce411266f036920528bb140c08057200e51c1fd5"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371727",
+   "path": "akt/2024/371727",
+   "short": "Odluka o određivanju lokacije za izgradnju stambeno-poslovnog objekta za realizaciju projekta \"Gradski stan\"",
+   "title": "Odluka o određivanju lokacije za izgradnju stambeno-poslovnog objekta za realizaciju projekta \"Gradski stan\"",
+   "url": "https://www.sluzbenilist.me/propisi/371727",
+   "versions": [
+    {
+     "from": "2024-04-13",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/371727/download",
+     "sha256": "bcf843e901b24f0eb22a85265cf647702c80a92127d1c16af25e6931c3a7acfa"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371733",
+   "path": "akt/2024/371733",
+   "short": "Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javne ustanove za smještaj, rehabilitaciju i resocijalizaciju korisnika psihoaktivnih supstanci - Podgorica",
+   "title": "Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javne ustanove za smještaj, rehabilitaciju i resocijalizaciju korisnika psihoaktivnih supstanci - Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/371733",
+   "versions": [
+    {
+     "from": "2024-04-13",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/371733/download",
+     "sha256": "ed7e774785cbc99c98eb1527e787da79cb6e0ab6466ac305985938c8a05672c4"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-371734",
+   "path": "akt/2024/371734",
+   "short": "Odluka o donošenju Plana upravljanja za Spomenik prirode \"Park šuma Gorica\" za period 2024-2029. Godina",
+   "title": "Odluka o donošenju Plana upravljanja za Spomenik prirode \"Park šuma Gorica\" za period 2024-2029. Godina",
+   "url": "https://www.sluzbenilist.me/propisi/371734",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/371734/download",
+     "sha256": "f24d782c6bc4ec533b88b3408d5e33b60a60bbdb4eca37f4ad950040e5fde380"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-372466",
+   "path": "akt/2024/372466",
+   "short": "Završni račun budžeta Glavnog grada Podgorice za 2023. godinu",
+   "title": "Završni račun budžeta Glavnog grada Podgorice za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/372466",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/372466/download",
+     "sha256": "51795d86b76f7c38d48874dc8d1c1c13fabbb07f09367f64501a73262bb420d7"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-372789",
+   "path": "akt/2024/372789",
+   "short": "Zaključak o usvajanju Izvještaja o radu i Izvještaj sa finansijskim poslovanjem JU ,,Centra za kulturu\" Ulcinj za 2023. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu i Izvještaj sa finansijskim poslovanjem JU ,,Centra za kulturu\" Ulcinj za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/372789",
+   "versions": [
+    {
+     "from": "2024-08-16",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/372789/download",
+     "sha256": "c6f2377f0ecdaf8b405d08eb739b71266f30f034bbff1ba74fd37f2434895efa"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-372793",
+   "path": "akt/2024/372793",
+   "short": "Zaključak o usvajanju Izvještaja o radu Turističke organizacije Ulcinj za 2023. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu Turističke organizacije Ulcinj za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/372793",
+   "versions": [
+    {
+     "from": "2024-08-24",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/372793/download",
+     "sha256": "15a8d2e44a8abe53338d80a53bb712b143abcf09b2cf0874e38aee6b74440cab"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-372801",
+   "path": "akt/2024/372801",
+   "short": "Zaključak o usvajanju Izvještaja o radu D.O.O. \"Parking servis\" Ulcinj za 2023. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu D.O.O. \"Parking servis\" Ulcinj za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/372801",
+   "versions": [
+    {
+     "from": "2024-08-24",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/372801/download",
+     "sha256": "d46c1e9fcc1f3432ec6573b4b6a7d9aea972ab4837e8f0a46e21f41b83295399"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-373384",
+   "path": "akt/2024/373384",
+   "short": "Školski kalendar za 2024/2025. godinu",
+   "title": "Školski kalendar za 2024/2025. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/373384",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/373384/download",
+     "sha256": "8ab0be0620ce898c1e7f9b55f91435e05786998a2b1cf976e2874f8e31ef6b79"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-373816",
+   "path": "akt/2024/373816",
+   "short": "Zaključak o usvajanju Izvještaja o radu Komisije za raspodjelu sredstava za podršku ženskom preduzetništvu za 2022. godinu na praćenju realizacije i utroška finansijskih sredstava",
+   "title": "Zaključak o usvajanju Izvještaja o radu Komisije za raspodjelu sredstava za podršku ženskom preduzetništvu za 2022. godinu na praćenju realizacije i utroška finansijskih sredstava",
+   "url": "https://www.sluzbenilist.me/propisi/373816",
+   "versions": [
+    {
+     "from": "2024-10-12",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/373816/download",
+     "sha256": "55fe2195093403fe1a12b54b555f88a7e4dc56f0b643cc0f0bfce6705f00ebcb"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-373886",
+   "path": "akt/2024/373886",
+   "short": "Granski kolektivni ugovor o izmjenama Granskog kolektivnog ugovora za telekomunikacije",
+   "title": "Granski kolektivni ugovor o izmjenama Granskog kolektivnog ugovora za telekomunikacije",
+   "url": "https://www.sluzbenilist.me/propisi/373886",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/373886/download",
+     "sha256": "d0f6d67c72c3da9efe92a5c0aec3f316e2704441d5c3e74a88359e659d02e9de"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-374504",
+   "path": "akt/2024/374504",
+   "short": "Pravilnik o kriterijumima i mjerilima za utvrđivanje cijene usluge dnevnog boravka u JU \"Dnevni centar za djecu i mlade sa smetnjama i teškoćama u razvoju - Tivat\"",
+   "title": "Pravilnik o kriterijumima i mjerilima za utvrđivanje cijene usluge dnevnog boravka u JU \"Dnevni centar za djecu i mlade sa smetnjama i teškoćama u razvoju - Tivat\"",
+   "url": "https://www.sluzbenilist.me/propisi/374504",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.me/propisi/374504/download",
+     "sha256": "14db5dba5aff8aa1777f8675c2b0f3a7c774241eb21a79fc6a922c5102353f63"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-374526",
+   "path": "akt/2024/374526",
+   "short": "Odluka o prodaji kat.parcele 2102 KO Tivat, Opština Tivat",
+   "title": "Odluka o prodaji kat.parcele 2102 KO Tivat, Opština Tivat",
+   "url": "https://www.sluzbenilist.me/propisi/374526",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/374526/download",
+     "sha256": "d399e4f42f02aee973bd395b45ab34b2b7e86504ec0a54150009db2def675922"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-374737",
+   "path": "akt/2024/374737",
+   "short": "Zaključak o prestanku mandata članu Odbora direktora DOO \"Sportski centar\" Rožaje",
+   "title": "Zaključak o prestanku mandata članu Odbora direktora DOO \"Sportski centar\" Rožaje",
+   "url": "https://www.sluzbenilist.me/propisi/374737",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/374737/download",
+     "sha256": "8d021573bde17023b5bb85d37453786a427c50e341657d9f23bded1c291eaf27"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-375298",
+   "path": "akt/2024/375298",
+   "short": "Završni račun Budžeta Opštine Berane za 2023. godinu",
+   "title": "Završni račun Budžeta Opštine Berane za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/375298",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/375298/download",
+     "sha256": "52ca6bb78920b754628efcc745f6f7bb72c9fc066a8f88d5d6ac99783b11ce7d"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-376032",
+   "path": "akt/2024/376032",
+   "short": "Cjenovnik Centralnog klirinško depozitarnog društva AD Podgorica",
+   "title": "Cjenovnik Centralnog klirinško depozitarnog društva AD Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/376032",
+   "versions": [
+    {
+     "from": "2025-01-02",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/376032/download",
+     "sha256": "e24bd770db09e597670cf1bc884a7ecf9f4328a0411cc966b213070ea4b7bafc"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-376255",
+   "path": "akt/2024/376255",
+   "short": "Smjernice za analizu rizika od pranja novca i finansiranja terorizma kod notara",
+   "title": "Smjernice za analizu rizika od pranja novca i finansiranja terorizma kod notara",
+   "url": "https://www.sluzbenilist.me/propisi/376255",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/376255/download",
+     "sha256": "973cc4ea8e3f00b46ea9ea283894b165e44a723495692fcf8447365705ac9fee"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2024-376586",
+   "path": "akt/2024/376586",
+   "short": "Zaključak, broj: 030-016/24-727",
+   "title": "Zaključak, broj: 030-016/24-727",
+   "url": "https://www.sluzbenilist.me/propisi/376586",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/376586/download",
+     "sha256": "8afa45e7af5e30204b549889c927c0c3896519e008961d85f90ea5d529c618ac"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-376732",
+   "path": "akt/2025/376732",
+   "short": "Zaključak, broj: 07-77/8",
+   "title": "Zaključak, broj: 07-77/8",
+   "url": "https://www.sluzbenilist.me/propisi/376732",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376732/download",
+     "sha256": "06e01b0e04a374d9e203a39861ae799c826476420bf2466bb32b4459d7b33e28"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-376735",
+   "path": "akt/2025/376735",
+   "short": "Zaključak, broj: 07-77/2",
+   "title": "Zaključak, broj: 07-77/2",
+   "url": "https://www.sluzbenilist.me/propisi/376735",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376735/download",
+     "sha256": "bf842daeddd807c4bd76bb0a6b3648ee3ff998f7aa6cfb910742849156c22273"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-376738",
+   "path": "akt/2025/376738",
+   "short": "Zaključak, broj: 07-77/5",
+   "title": "Zaključak, broj: 07-77/5",
+   "url": "https://www.sluzbenilist.me/propisi/376738",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376738/download",
+     "sha256": "9e287564950f0928476c4e67ae11fa4068cb3ce19b6dcffa5bbe5bf3408f1387"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-376755",
+   "path": "akt/2025/376755",
+   "short": "Zaključak, broj: 07-77/7",
+   "title": "Zaključak, broj: 07-77/7",
+   "url": "https://www.sluzbenilist.me/propisi/376755",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376755/download",
+     "sha256": "8efbf146b078b66fba031f631b9027e3aff3259e7515f3a0b3202f1cc064beeb"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-376759",
+   "path": "akt/2025/376759",
+   "short": "Zaključak, broj: 07-77/6",
+   "title": "Zaključak, broj: 07-77/6",
+   "url": "https://www.sluzbenilist.me/propisi/376759",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376759/download",
+     "sha256": "3b068daca01317ae8d7cfaea445aba0f061aa89cc69fb788fa00462d820badc8"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-376795",
+   "path": "akt/2025/376795",
+   "short": "Zaključak, broj: 0301-57/10",
+   "title": "Zaključak, broj: 0301-57/10",
+   "url": "https://www.sluzbenilist.me/propisi/376795",
+   "versions": [
+    {
+     "from": "2025-01-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376795/download",
+     "sha256": "8ec292b1bc70d95117027c29c7f27856245d395f61d882da52eb06ef283369c6"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-376801",
+   "path": "akt/2025/376801",
+   "short": "Zaključak, broj: 0301-57/13",
+   "title": "Zaključak, broj: 0301-57/13",
+   "url": "https://www.sluzbenilist.me/propisi/376801",
+   "versions": [
+    {
+     "from": "2025-01-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376801/download",
+     "sha256": "274d777dae253dd0609d96a91b00d8dce8dcb2647845b9153fcef35fdd002c97"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-376809",
+   "path": "akt/2025/376809",
+   "short": "Zaključak, broj: 0301-57/11",
+   "title": "Zaključak, broj: 0301-57/11",
+   "url": "https://www.sluzbenilist.me/propisi/376809",
+   "versions": [
+    {
+     "from": "2025-01-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376809/download",
+     "sha256": "658e3561700ff548afd881c0d6fe3d56cfdca1c9c44b31825cb116b2ec4e1b53"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-376813",
+   "path": "akt/2025/376813",
+   "short": "Zaključak, broj: 0301-57/12",
+   "title": "Zaključak, broj: 0301-57/12",
+   "url": "https://www.sluzbenilist.me/propisi/376813",
+   "versions": [
+    {
+     "from": "2025-01-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376813/download",
+     "sha256": "d2f8339c637fdb4f643dbdfbc33cd3c20e2726cee578367eaa90b3d02e4c8495"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-376824",
+   "path": "akt/2025/376824",
+   "short": "Zaključak, broj: 0301-57/2",
+   "title": "Zaključak, broj: 0301-57/2",
+   "url": "https://www.sluzbenilist.me/propisi/376824",
+   "versions": [
+    {
+     "from": "2025-01-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376824/download",
+     "sha256": "709a15251ed8de8a0ebdc136617c55fb44ac596332762ded44897bfec6bcb7a8"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-376833",
+   "path": "akt/2025/376833",
+   "short": "Zaključak, broj: 0301-57/9",
+   "title": "Zaključak, broj: 0301-57/9",
+   "url": "https://www.sluzbenilist.me/propisi/376833",
+   "versions": [
+    {
+     "from": "2025-01-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376833/download",
+     "sha256": "fe8fab170a3d4a288fe43e416c9c6a7c373dadc0934d9bbfaea06a05252aea55"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-376844",
+   "path": "akt/2025/376844",
+   "short": "Zaključak, broj: 0301-57/14",
+   "title": "Zaključak, broj: 0301-57/14",
+   "url": "https://www.sluzbenilist.me/propisi/376844",
+   "versions": [
+    {
+     "from": "2025-01-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/376844/download",
+     "sha256": "46a1995fed47be3d44bebf5a19dae507dd6f655f8f643c97a58d855a1cb790d8"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-380524",
+   "path": "akt/2025/380524",
+   "short": "Granski kolektivni ugovor za socijalnu djelatnost",
+   "title": "Granski kolektivni ugovor za socijalnu djelatnost",
+   "url": "https://www.sluzbenilist.me/propisi/380524",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 39,
+     "source_url": "https://www.sluzbenilist.me/propisi/380524/download",
+     "sha256": "92947993d6692ce580e20800785f06ea43fcb6851e0ae698256b4c64fc6f22a0"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381230",
+   "path": "akt/2025/381230",
+   "short": "Zaključak, broj: 0301-15/13",
+   "title": "Zaključak, broj: 0301-15/13",
+   "url": "https://www.sluzbenilist.me/propisi/381230",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/381230/download",
+     "sha256": "eb3cc86992f94d8b59e7631482390f70696b7ba66d4dbdf0b6c9b6597dfeb725"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381234",
+   "path": "akt/2025/381234",
+   "short": "Zaključak, broj: 0301-15/2",
+   "title": "Zaključak, broj: 0301-15/2",
+   "url": "https://www.sluzbenilist.me/propisi/381234",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/381234/download",
+     "sha256": "3b394b491499fb5a30bf175b1f257d2c9ba202c10b2f48b0fb398e3abd9d0b44"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381240",
+   "path": "akt/2025/381240",
+   "short": "Zaključak, broj: 0301-15/1",
+   "title": "Zaključak, broj: 0301-15/1",
+   "url": "https://www.sluzbenilist.me/propisi/381240",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/381240/download",
+     "sha256": "baf191b8d927945f39f289c479f796e103188a579ca3b961fe1fca9ca15792f3"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381241",
+   "path": "akt/2025/381241",
+   "short": "Zaključak o usvajanju Izvještaja o realizaciji Lokalnog akcionog plana za mlade za 2024. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o realizaciji Lokalnog akcionog plana za mlade za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/381241",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/381241/download",
+     "sha256": "49fb7ff0972e81c267d4feb5fae4a1e803440b4a9ee05b864cf4f8f465ff1b47"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381242",
+   "path": "akt/2025/381242",
+   "short": "Zaključak, broj: 0301-15/8",
+   "title": "Zaključak, broj: 0301-15/8",
+   "url": "https://www.sluzbenilist.me/propisi/381242",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/381242/download",
+     "sha256": "1b334709dfb7ffbd124031a6432e6fcc0f7dfc07cdb35df344961426d4041481"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381245",
+   "path": "akt/2025/381245",
+   "short": "Zaključak, broj: 0301-15/12",
+   "title": "Zaključak, broj: 0301-15/12",
+   "url": "https://www.sluzbenilist.me/propisi/381245",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/381245/download",
+     "sha256": "1a24963a00e0559efdfe3d39638738752fc05d55c13761e5c33585522807f961"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381251",
+   "path": "akt/2025/381251",
+   "short": "Zaključak, broj: 0301-15/9",
+   "title": "Zaključak, broj: 0301-15/9",
+   "url": "https://www.sluzbenilist.me/propisi/381251",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/381251/download",
+     "sha256": "fa62a8a80f1b2969186534a1c1a150aae089eecf8743aa828f821a36f20a4633"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381253",
+   "path": "akt/2025/381253",
+   "short": "Zaključak, broj: 0301-15/5",
+   "title": "Zaključak, broj: 0301-15/5",
+   "url": "https://www.sluzbenilist.me/propisi/381253",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/381253/download",
+     "sha256": "0ff2eeb609db0ae8e2a5153785b0356a1fd446607abf1ef6dfd6aff740cb8fe4"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381256",
+   "path": "akt/2025/381256",
+   "short": "Zaključak, broj: 0301-15/10",
+   "title": "Zaključak, broj: 0301-15/10",
+   "url": "https://www.sluzbenilist.me/propisi/381256",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/381256/download",
+     "sha256": "1e3e0b9c33275674d3e9781c7469098f4137d6a70566b6853c5bca5f337daaf3"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381257",
+   "path": "akt/2025/381257",
+   "short": "Zaključak, broj: 0301-15/6",
+   "title": "Zaključak, broj: 0301-15/6",
+   "url": "https://www.sluzbenilist.me/propisi/381257",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/381257/download",
+     "sha256": "2ebb8a9c2bb80dee58afa9d553ca86be19c8c20a1612089453ca5a4714d4e147"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381259",
+   "path": "akt/2025/381259",
+   "short": "Zaključak, broj: 0301-15/7",
+   "title": "Zaključak, broj: 0301-15/7",
+   "url": "https://www.sluzbenilist.me/propisi/381259",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/381259/download",
+     "sha256": "7323dfbaea34e8cc5ccdb0805354255a33554400e000e8005ee520499ad0662b"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381262",
+   "path": "akt/2025/381262",
+   "short": "Zaključak, broj: 0301-15/14",
+   "title": "Zaključak, broj: 0301-15/14",
+   "url": "https://www.sluzbenilist.me/propisi/381262",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/381262/download",
+     "sha256": "8fee053d4361537b9d3c664400af132632bbc804a088958633a79b0842988f85"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381829",
+   "path": "akt/2025/381829",
+   "short": "Plan numeracije",
+   "title": "Plan numeracije",
+   "url": "https://www.sluzbenilist.me/propisi/381829",
+   "versions": [
+    {
+     "from": "2025-05-17",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/381829/download",
+     "sha256": "f5dc17ea1892710e5218e69385861db55d160dc1f891949cd0d0228b81879770"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-381856",
+   "path": "akt/2025/381856",
+   "short": "Pravilnik o dodjeli subvencija po osnovu Lokalnog akcionog plana za socijalnu inkluziju Roma i Egipćana u Opštini Bar za period 2025- 2028. godine",
+   "title": "Pravilnik o dodjeli subvencija po osnovu Lokalnog akcionog plana za socijalnu inkluziju Roma i Egipćana u Opštini Bar za period 2025- 2028. godine",
+   "url": "https://www.sluzbenilist.me/propisi/381856",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.me/propisi/381856/download",
+     "sha256": "25ec090e4be69df8fe2cc5d4d8550cde63e880ca56f5ae93ff08e524bae110e3"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-382902",
+   "path": "akt/2025/382902",
+   "short": "Završni račun budžeta Opštine Bar za 2024. godinu",
+   "title": "Završni račun budžeta Opštine Bar za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/382902",
+   "versions": [
+    {
+     "from": "2025-06-21",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/382902/download",
+     "sha256": "67a074427779c5061425cbc31ffc51e055ff26aea142ae98bbe315e19ff2ff96"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-382953",
+   "path": "akt/2025/382953",
+   "short": "Pravila o izmjenama i dopunama Pravila o sadržaju zahtjeva za sticanje ili povećanje kvalifikovanog učešća i bližim kriterijumima za ocjenu kvalifikovanog učešća u društvu za upravljanje otvorenim investicionim fondom sa javnom ponudom",
+   "title": "Pravila o izmjenama i dopunama Pravila o sadržaju zahtjeva za sticanje ili povećanje kvalifikovanog učešća i bližim kriterijumima za ocjenu kvalifikovanog učešća u društvu za upravljanje otvorenim investicionim fondom sa javnom ponudom",
+   "url": "https://www.sluzbenilist.me/propisi/382953",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/382953/download",
+     "sha256": "5b5358cd75fa0c73cc7739a5e7d8b57a69be39d138ca8e580382dec113eb2441"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-383165",
+   "path": "akt/2025/383165",
+   "short": "Zaključak o prestanku mandata članu Upravnog odbora Javne ustanove Centar za podršku djeci i porodici",
+   "title": "Zaključak o prestanku mandata članu Upravnog odbora Javne ustanove Centar za podršku djeci i porodici",
+   "url": "https://www.sluzbenilist.me/propisi/383165",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/383165/download",
+     "sha256": "825f844c2b184b05eebb198fb985635f9b9a3acfe03433b6a823b5e8005c06e7"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-383318",
+   "path": "akt/2025/383318",
+   "short": "Završni račun budžeta Opštine Berane za 2024. godinu",
+   "title": "Završni račun budžeta Opštine Berane za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/383318",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/383318/download",
+     "sha256": "432a23a8269608d35373b7ae7524ad79e4a8da83e6196866af36ed64947fdc7e"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-383550",
+   "path": "akt/2025/383550",
+   "short": "Metodologiju za utvrđivanje cijena za korišćenje prenosnog ili distributivnog sistema koje plaćaju korisnici direktnog voda kada je vod priključen na prenosni ili distributivni sistem",
+   "title": "Metodologiju za utvrđivanje cijena za korišćenje prenosnog ili distributivnog sistema koje plaćaju korisnici direktnog voda kada je vod priključen na prenosni ili distributivni sistem",
+   "url": "https://www.sluzbenilist.me/propisi/383550",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/383550/download",
+     "sha256": "d54086e774d5fec663dd386504b6e7d41bc89510034dfee924b961a288a9e0a7"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-383650",
+   "path": "akt/2025/383650",
+   "short": "Zaključak o usvajanju Izvještaja o radu i ekonomsko-finansijskog poslovanja za period 1. 1. 2024. do 31. 12. 2024. godine Društva sa ograničenom odgovornošću \"Vodovod i kanalizacija/Ujësjellësi dhe kanalizimi\" Tuzi",
+   "title": "Zaključak o usvajanju Izvještaja o radu i ekonomsko-finansijskog poslovanja za period 1. 1. 2024. do 31. 12. 2024. godine Društva sa ograničenom odgovornošću \"Vodovod i kanalizacija/Ujësjellësi dhe kanalizimi\" Tuzi",
+   "url": "https://www.sluzbenilist.me/propisi/383650",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/383650/download",
+     "sha256": "3d3f6400d956da28bb6ec2dfc7acc6d5da08ac721c0bd968de973785ee771b78"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-383652",
+   "path": "akt/2025/383652",
+   "short": "Zaključak o usvajanju Izvještaja o realizaciji Programa obavljanja komunalnih djelatnosti Društva sa ograničenom odgovornošću \"Pijace / Tregu\" Tuzi za 2024. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o realizaciji Programa obavljanja komunalnih djelatnosti Društva sa ograničenom odgovornošću \"Pijace / Tregu\" Tuzi za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/383652",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/383652/download",
+     "sha256": "a2f8b488042fb8826e06a5a2b24bef08fe7b23bc7b96c6ab7f509bec989c9b23"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-383664",
+   "path": "akt/2025/383664",
+   "short": "Zaključak o usvajanju Izvještaja o realizaciji Godišnjeg programa obavljanja komunalnih djelatnosti Društva sa ograničenom odgovornošću \"Komunalno / Komunale\" Tuzi za 2024. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o realizaciji Godišnjeg programa obavljanja komunalnih djelatnosti Društva sa ograničenom odgovornošću \"Komunalno / Komunale\" Tuzi za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/383664",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/383664/download",
+     "sha256": "e1b7ac72e82f9826e958793fde2a1791e0f4eb5c33b090b2b257cf9d9f35e84e"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-383666",
+   "path": "akt/2025/383666",
+   "short": "Zaključak o usvajanju Izvještaja Komisije za raspodjelu sredstava nevladinim organizacijama za 2024. godinu",
+   "title": "Zaključak o usvajanju Izvještaja Komisije za raspodjelu sredstava nevladinim organizacijama za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/383666",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/383666/download",
+     "sha256": "28334b71459e81ed84f76e7b7f48cfb04915cb3b88d5fb26b8b5983e985f9436"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-383688",
+   "path": "akt/2025/383688",
+   "short": "Zaključak o usvajanju Izvještaja o radu sa Finansijskim izvještajem JU KIC \"Malesija\" za 2024. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu sa Finansijskim izvještajem JU KIC \"Malesija\" za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/383688",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/383688/download",
+     "sha256": "50fd1e67a53e7c77c7940f764fe557621d88c861a850ac73d807a6e49a349c0c"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-383707",
+   "path": "akt/2025/383707",
+   "short": "Zaključak o usvajanju Izvještaja o radu sa Finansijskim izvještajem Fudbalskog kluba \"Dečić\" za 2024. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu sa Finansijskim izvještajem Fudbalskog kluba \"Dečić\" za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/383707",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/383707/download",
+     "sha256": "bfed8c532c76277bfc45247306f5c400ebdf5d732a4fc7fc13b2bc1df0ad2c1c"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-383708",
+   "path": "akt/2025/383708",
+   "short": "Zaključak o usvajanju Izvještaja o radu Komisije za raspodjelu sredstava za podršku ženskom preduzetništvu za 2023. godinu na praćenju realizacije i utroška finansijskih sredstava",
+   "title": "Zaključak o usvajanju Izvještaja o radu Komisije za raspodjelu sredstava za podršku ženskom preduzetništvu za 2023. godinu na praćenju realizacije i utroška finansijskih sredstava",
+   "url": "https://www.sluzbenilist.me/propisi/383708",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/383708/download",
+     "sha256": "7b39781cbaf3f763d76bcbffc614d134a9cbc5645dbc93d743354a53efcb0dc1"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-383717",
+   "path": "akt/2025/383717",
+   "short": "Zaključak o usvajanju Izvještaja o radu sa Finansijskim izvještajem Košarkaškog kluba \"Dečić\" za 2024. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu sa Finansijskim izvještajem Košarkaškog kluba \"Dečić\" za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/383717",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/383717/download",
+     "sha256": "a8c2fbe2e6f4265cfbe773c302d145e323a92f4495ba7896838f41f2104d0be7"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-383965",
+   "path": "akt/2025/383965",
+   "short": "Zaključak o usvajanju Izvještaja o radu DOO \"Možura\" Bar za 2024. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu DOO \"Možura\" Bar za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/383965",
+   "versions": [
+    {
+     "from": "2025-08-09",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/383965/download",
+     "sha256": "22f47c04b5763f7e6ad3fb7c26a4549b692a5e7e221a5c24ab9f0d516a737911"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-383967",
+   "path": "akt/2025/383967",
+   "short": "Zaključak o davanju saglasnosti na Izvještaj o realizaciji plana i programa rada za 2024. godinu sa odlukom o usvajanju i odluku o usvajanju Godišnjeg završnog računa za 2024. godinu JU Dnevnog centra za djecu i omladinu sa smetnjama i teškoćama u razvoju \"Sirena\"- Ulcinj",
+   "title": "Zaključak o davanju saglasnosti na Izvještaj o realizaciji plana i programa rada za 2024. godinu sa odlukom o usvajanju i odluku o usvajanju Godišnjeg završnog računa za 2024. godinu JU Dnevnog centra za djecu i omladinu sa smetnjama i teškoćama u razvoju \"Sirena\"- Ulcinj",
+   "url": "https://www.sluzbenilist.me/propisi/383967",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/383967/download",
+     "sha256": "7119b19b768c122c0e3454419f29f64ae966a90e8df29328292047166af2c262"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-384002",
+   "path": "akt/2025/384002",
+   "short": "Zaključak o usvajanju Izvještaja o radu Društva sa ograničenom odgovornošću \"Agencija za izgradnju i razvoj Ulcinja\" za 2024. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu Društva sa ograničenom odgovornošću \"Agencija za izgradnju i razvoj Ulcinja\" za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/384002",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/384002/download",
+     "sha256": "2c4c33ed73c6d5f4eff2f3b1241ed8affba595177b2d7cf481b4f1ec1628ac11"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-384003",
+   "path": "akt/2025/384003",
+   "short": "Zaključak o usvajanju Izvještaja o radu DOO \"Vodovod i kanalizacija\" Ulcinj za 2024. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu DOO \"Vodovod i kanalizacija\" Ulcinj za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/384003",
+   "versions": [
+    {
+     "from": "2025-08-09",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/384003/download",
+     "sha256": "9ce03933655c5c24f04108620c524f43b0bbe6b1fc50c941939e7d3f7810e20d"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-384008",
+   "path": "akt/2025/384008",
+   "short": "Zaključak o usvajanju Izvještaja o radu DOO \"Parking servis\" Ulcinj za 2024. Godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu DOO \"Parking servis\" Ulcinj za 2024. Godinu",
+   "url": "https://www.sluzbenilist.me/propisi/384008",
+   "versions": [
+    {
+     "from": "2025-08-09",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/384008/download",
+     "sha256": "44395e64093f54621c4699844e248bfde42851296deda292a01e13d0a21b52fe"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-384019",
+   "path": "akt/2025/384019",
+   "short": "Zaključak o usvajanju izvještaja o radu DOO \"Komunalne djelatnosti\" Ulcinj za 2024. godinu",
+   "title": "Zaključak o usvajanju izvještaja o radu DOO \"Komunalne djelatnosti\" Ulcinj za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/384019",
+   "versions": [
+    {
+     "from": "2025-08-09",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/384019/download",
+     "sha256": "e9abe0d70caff49764cf4284e89cee3a073199395582d788fb2d0284cd9941e2"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-384121",
+   "path": "akt/2025/384121",
+   "short": "Metodologija za utvrđivanje zamjenske cijene",
+   "title": "Metodologija za utvrđivanje zamjenske cijene",
+   "url": "https://www.sluzbenilist.me/propisi/384121",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/384121/download",
+     "sha256": "a303133619bcad848197834e3c83161ebc2bd0326e8cf13d37ab9614e941bfaa"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-384350",
+   "path": "akt/2025/384350",
+   "short": "Izmjena Odluke br. 01-040/25-1151/5 od 1. 7. 2025. godine o otkupu zemljišta radi dokompletiranja urbanističke parcele br. 66 zona B Izmjena i dopuna DUP-a \"Ulcinj - Grad\" za lokalitet \"Meterizi 1\" Opština Ulcinj",
+   "title": "Izmjena Odluke br. 01-040/25-1151/5 od 1. 7. 2025. godine o otkupu zemljišta radi dokompletiranja urbanističke parcele br. 66 zona B Izmjena i dopuna DUP-a \"Ulcinj - Grad\" za lokalitet \"Meterizi 1\" Opština Ulcinj",
+   "url": "https://www.sluzbenilist.me/propisi/384350",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/384350/download",
+     "sha256": "b1e15ee43e8bda02555b2766a8db16e81f8451fbce2b43eda02d623519e60e96"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-384849",
+   "path": "akt/2025/384849",
+   "short": "Završni račun Budžeta Opštine Šavnik za 2024. godinu",
+   "title": "Završni račun Budžeta Opštine Šavnik za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/384849",
+   "versions": [
+    {
+     "from": "2025-09-13",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/384849/download",
+     "sha256": "aa85c8ec9db6927f93a7adff019766f45793c350da0a3091200a5cd75bfaacd3"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-386211",
+   "path": "akt/2025/386211",
+   "short": "Etički kodeks državnih tužilaca",
+   "title": "Etički kodeks državnih tužilaca",
+   "url": "https://www.sluzbenilist.me/propisi/386211",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 30,
+     "source_url": "https://www.sluzbenilist.me/propisi/386211/download",
+     "sha256": "694278f683dd34d639a726f2b1498880a8c43cbaa9dcec0d9624d3563543119f"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-386851",
+   "path": "akt/2025/386851",
+   "short": "Granski kolektivni ugovor za oblast prosvjete",
+   "title": "Granski kolektivni ugovor za oblast prosvjete",
+   "url": "https://www.sluzbenilist.me/propisi/386851",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 69,
+     "source_url": "https://www.sluzbenilist.me/propisi/386851/download",
+     "sha256": "9940c5d835b6acdf641bf15de13e342140b9ccc9909d289cf8fa2b04c7d1299f"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-386992",
+   "path": "akt/2025/386992",
+   "short": "Zaključak, broj: 0301-27/9",
+   "title": "Zaključak, broj: 0301-27/9",
+   "url": "https://www.sluzbenilist.me/propisi/386992",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/386992/download",
+     "sha256": "cb8b267c69203f4665c98c2ff03486cd023f2ede149b63a298c6a0fd4ea69a10"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-386997",
+   "path": "akt/2025/386997",
+   "short": "Završni račun Budžeta Opštine Andrijevica za 2024. godinu",
+   "title": "Završni račun Budžeta Opštine Andrijevica za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/386997",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/386997/download",
+     "sha256": "5189de888d4d52c90695cbf2e07abdb1eabdef3b6164174d23dbd3b077014581"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-387199",
+   "path": "akt/2025/387199",
+   "short": "Zaključak, broj: D 32-016/25-45",
+   "title": "Zaključak, broj: D 32-016/25-45",
+   "url": "https://www.sluzbenilist.me/propisi/387199",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/387199/download",
+     "sha256": "61d1d69531d1c3a368d2fd69a863ce915d9f1c81c6ca9ef71b4b93ccca39eedd"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-387297",
+   "path": "akt/2025/387297",
+   "short": "Dopuna programa podizanja spomen-obilježja",
+   "title": "Dopuna programa podizanja spomen-obilježja",
+   "url": "https://www.sluzbenilist.me/propisi/387297",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/387297/download",
+     "sha256": "dcc4c1d8974d612cc713338bd7d074b4fcc3bf37fd08c6cf38b0bfae6b050d73"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-387447",
+   "path": "akt/2025/387447",
+   "short": "Zaključak, broj: 0301-40/8",
+   "title": "Zaključak, broj: 0301-40/8",
+   "url": "https://www.sluzbenilist.me/propisi/387447",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/387447/download",
+     "sha256": "389be9b08f92afa7d0f7730f98e09cb55124f0bf2d19423d1aaa50345d04969b"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-387510",
+   "path": "akt/2025/387510",
+   "short": "Završni račun Budžeta Opštine Herceg Novi za 2024. godinu",
+   "title": "Završni račun Budžeta Opštine Herceg Novi za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/387510",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/387510/download",
+     "sha256": "af3b159b008c0716ff6875b738b62488b9b05183f8771134804dabed281b18c2"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-387592",
+   "path": "akt/2025/387592",
+   "short": "Zaključak, broj: D 32-016/25-49",
+   "title": "Zaključak, broj: D 32-016/25-49",
+   "url": "https://www.sluzbenilist.me/propisi/387592",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/387592/download",
+     "sha256": "dededa67f0452a8daa95d4433eb54792440397fe5a058f12900615ea2fbcbe86"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-387601",
+   "path": "akt/2025/387601",
+   "short": "Zaključak, broj: 0301-40/7",
+   "title": "Zaključak, broj: 0301-40/7",
+   "url": "https://www.sluzbenilist.me/propisi/387601",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/387601/download",
+     "sha256": "ae2f71149af018bb9f047fe2340995642e15e97c09bd7efead9cd1139a0159c8"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-387733",
+   "path": "akt/2025/387733",
+   "short": "Zaključak, broj: D 32-016/25-48",
+   "title": "Zaključak, broj: D 32-016/25-48",
+   "url": "https://www.sluzbenilist.me/propisi/387733",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/387733/download",
+     "sha256": "bb18fcd62a64820178b8f2d87504208c1534539b92114b1c72cb525685f79c08"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-388070",
+   "path": "akt/2025/388070",
+   "short": "Zaključak, broj: 02 - 016/25-381/1",
+   "title": "Zaključak, broj: 02 - 016/25-381/1",
+   "url": "https://www.sluzbenilist.me/propisi/388070",
+   "versions": [
+    {
+     "from": "2025-10-25",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/388070/download",
+     "sha256": "f8dcda7306c42de5012a3d560a57171f4d63c2e7ad11b27fc921ad6f0f91c6a6"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-388096",
+   "path": "akt/2025/388096",
+   "short": "Zaključak, broj: D 32-016/25-44",
+   "title": "Zaključak, broj: D 32-016/25-44",
+   "url": "https://www.sluzbenilist.me/propisi/388096",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/388096/download",
+     "sha256": "c7f50f75bb68b055a75610abf5172ea5248989b09fa8fdc3ec40558fee6e5d13"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-388141",
+   "path": "akt/2025/388141",
+   "short": "Završni račin Budžeta Opštine Pljevlja za 2024. godinu",
+   "title": "Završni račin Budžeta Opštine Pljevlja za 2024. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/388141",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/388141/download",
+     "sha256": "79a3bda4991afd0fbbae65469da22194f5e1927ad4d8ff350763f974e172be79"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-389092",
+   "path": "akt/2025/389092",
+   "short": "Metodologija za utvrđivanje načina obezbjeđivanja sredstava za rad Regulatorne agencije za energetiku i regulisane komunalne djelatnosti",
+   "title": "Metodologija za utvrđivanje načina obezbjeđivanja sredstava za rad Regulatorne agencije za energetiku i regulisane komunalne djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/389092",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/389092/download",
+     "sha256": "f9d349013ad2581f1ca154dc2163490d9daa897b11a74b6cf92dde75fd48ae1b"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-389208",
+   "path": "akt/2025/389208",
+   "short": "Izmjena i dopuna advokatske tarife Advokatske komore Crne Gore",
+   "title": "Izmjena i dopuna advokatske tarife Advokatske komore Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/389208",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/389208/download",
+     "sha256": "59c371c94c6830f4f0e613319e2d5860f536eb7f125a332ac54b7b63217e70e1"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-389623",
+   "path": "akt/2025/389623",
+   "short": "Zaključak, broj: D 32-016/25-241",
+   "title": "Zaključak, broj: D 32-016/25-241",
+   "url": "https://www.sluzbenilist.me/propisi/389623",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/389623/download",
+     "sha256": "6edd1ad35fae5d18f674e0be89bb84c029d671169ddaf30da84a69334f829a55"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-391435",
+   "path": "akt/2025/391435",
+   "short": "Zaključak, broj: 07-135/2",
+   "title": "Zaključak, broj: 07-135/2",
+   "url": "https://www.sluzbenilist.me/propisi/391435",
+   "versions": [
+    {
+     "from": "2026-01-03",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/391435/download",
+     "sha256": "58ed4a3fe5f62b5fccc8d8667296bb006bfdad203d84ced0d7696f7d7eadcd8f"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-391450",
+   "path": "akt/2025/391450",
+   "short": "Etički kodeks izabranih predstavnika i funkcionera u Opštini Plužine",
+   "title": "Etički kodeks izabranih predstavnika i funkcionera u Opštini Plužine",
+   "url": "https://www.sluzbenilist.me/propisi/391450",
+   "versions": [
+    {
+     "from": "2026-01-03",
+     "units": 32,
+     "source_url": "https://www.sluzbenilist.me/propisi/391450/download",
+     "sha256": "4758b08d1886657d1f52994b245f195bd6a0c593dcc3b5516a4fc3fcda911c4b"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-391504",
+   "path": "akt/2025/391504",
+   "short": "Zaključak, broj: 07-135/7",
+   "title": "Zaključak, broj: 07-135/7",
+   "url": "https://www.sluzbenilist.me/propisi/391504",
+   "versions": [
+    {
+     "from": "2026-01-03",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/391504/download",
+     "sha256": "59034f0451ced26da3ba6e7c34c8969880408f904add0028ff59f3c0ede3c049"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-391512",
+   "path": "akt/2025/391512",
+   "short": "Zaključak, broj: 07-135/6",
+   "title": "Zaključak, broj: 07-135/6",
+   "url": "https://www.sluzbenilist.me/propisi/391512",
+   "versions": [
+    {
+     "from": "2026-01-03",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/391512/download",
+     "sha256": "9abad21520b69191b6683bb278b189cae6dec1db94c41171db0c87100c42499f"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-391545",
+   "path": "akt/2025/391545",
+   "short": "Etički kodeks lokalnih službenika i namještenika u Opštini Plužine",
+   "title": "Etički kodeks lokalnih službenika i namještenika u Opštini Plužine",
+   "url": "https://www.sluzbenilist.me/propisi/391545",
+   "versions": [
+    {
+     "from": "2026-01-03",
+     "units": 28,
+     "source_url": "https://www.sluzbenilist.me/propisi/391545/download",
+     "sha256": "8ce0d53c13485f7c9ec373f3d1d849a97e0b62343b16b52f1a1861806059a2bb"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-391561",
+   "path": "akt/2025/391561",
+   "short": "Zaključak, broj: 07-135/5",
+   "title": "Zaključak, broj: 07-135/5",
+   "url": "https://www.sluzbenilist.me/propisi/391561",
+   "versions": [
+    {
+     "from": "2026-01-03",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/391561/download",
+     "sha256": "2cb242cb8ac7d988fd97ebbf4cc337616cd4fefd27af82e9ba0b3ab6c1dfc856"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2025-391640",
+   "path": "akt/2025/391640",
+   "short": "Zaključak, broj: 07-135/4",
+   "title": "Zaključak, broj: 07-135/4",
+   "url": "https://www.sluzbenilist.me/propisi/391640",
+   "versions": [
+    {
+     "from": "2026-01-03",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/391640/download",
+     "sha256": "638d61405b2079d5bb3ef7f713dccfd4a1110714fa5f8c7396c9fc836fd3a037"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-390589",
+   "path": "akt/2026/390589",
+   "short": "Cjenovnik usluga korišćenja evidencije garancija porijekla",
+   "title": "Cjenovnik usluga korišćenja evidencije garancija porijekla",
+   "url": "https://www.sluzbenilist.me/propisi/390589",
+   "versions": [
+    {
+     "from": "2026-02-21",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/390589/download",
+     "sha256": "e460beab1c4bd7f3fb73fef9a2af89485d8b28b19f081ce565d9dbf835d1b87d"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-390623",
+   "path": "akt/2026/390623",
+   "short": "Kodeks strukovne etike članova Komore arhitekata i planera Crne Gore",
+   "title": "Kodeks strukovne etike članova Komore arhitekata i planera Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/390623",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 56,
+     "source_url": "https://www.sluzbenilist.me/propisi/390623/download",
+     "sha256": "9c2124a312bed66d3ec0acf1e8e9224278aecaf18f765d1936b980abafbc97f1"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-390981",
+   "path": "akt/2026/390981",
+   "short": "Pravila o izmjeni i dopuni Pravila o članstvu, obračunu i uplati doprinosa, isplatama odštetnih zahtjeva i nadzoru nad članovima Fonda za zaštitu investitora",
+   "title": "Pravila o izmjeni i dopuni Pravila o članstvu, obračunu i uplati doprinosa, isplatama odštetnih zahtjeva i nadzoru nad članovima Fonda za zaštitu investitora",
+   "url": "https://www.sluzbenilist.me/propisi/390981",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/390981/download",
+     "sha256": "8008baa18b74b378729fc2438d8e9f0fc6cfacb333aba77dce6aa527ecba202f"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-391468",
+   "path": "akt/2026/391468",
+   "short": "Javni poziv za izbor jednog člana Sudskog savjeta iz reda uglednih pravnika",
+   "title": "Javni poziv za izbor jednog člana Sudskog savjeta iz reda uglednih pravnika",
+   "url": "https://www.sluzbenilist.me/propisi/391468",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/391468/download",
+     "sha256": "2f0b7932e7a349cabab087095710805d1fe394826a5926f3a96a9b99a2031334"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-391482",
+   "path": "akt/2026/391482",
+   "short": "Zaključak, broj: 0301-52/13",
+   "title": "Zaključak, broj: 0301-52/13",
+   "url": "https://www.sluzbenilist.me/propisi/391482",
+   "versions": [
+    {
+     "from": "2026-01-24",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/391482/download",
+     "sha256": "a72a8b87615a265e8644322cfe84a74bfe2e0d5f9ab5b430b3cc6ddb54006869"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-391484",
+   "path": "akt/2026/391484",
+   "short": "Zaključak, broj: 0301-52/10",
+   "title": "Zaključak, broj: 0301-52/10",
+   "url": "https://www.sluzbenilist.me/propisi/391484",
+   "versions": [
+    {
+     "from": "2026-01-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/391484/download",
+     "sha256": "42ca52b8c2464d177092308c305b32fb80d1ab2b66b535f1af43296547757493"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-391564",
+   "path": "akt/2026/391564",
+   "short": "Zaključak, broj: 0301-52/12",
+   "title": "Zaključak, broj: 0301-52/12",
+   "url": "https://www.sluzbenilist.me/propisi/391564",
+   "versions": [
+    {
+     "from": "2026-01-24",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/391564/download",
+     "sha256": "12e30d6fe2212ebda9cc3c29c49f500c51576992fc28495f58e4f8cb4fb21974"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-391573",
+   "path": "akt/2026/391573",
+   "short": "Zaključak, broj: 0301-52/4",
+   "title": "Zaključak, broj: 0301-52/4",
+   "url": "https://www.sluzbenilist.me/propisi/391573",
+   "versions": [
+    {
+     "from": "2026-01-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/391573/download",
+     "sha256": "ad125c59fafee1dee5b0218daf583161a80d2833a13fe6d3191b0cb0c81609eb"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-391596",
+   "path": "akt/2026/391596",
+   "short": "Smjernice dobre distributivne prakse aktivnih supstanci koje se koriste kao polazni materijali u proizvodnji veterinarskih ljekova",
+   "title": "Smjernice dobre distributivne prakse aktivnih supstanci koje se koriste kao polazni materijali u proizvodnji veterinarskih ljekova",
+   "url": "https://www.sluzbenilist.me/propisi/391596",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 36,
+     "source_url": "https://www.sluzbenilist.me/propisi/391596/download",
+     "sha256": "363bb03144f8339e59f3f4404c528e8674e3daeaff79abf392cedb75de90f903"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393012",
+   "path": "akt/2026/393012",
+   "short": "Zaključak, broj: 02 - 016/26 - 103/1",
+   "title": "Zaključak, broj: 02 - 016/26 - 103/1",
+   "url": "https://www.sluzbenilist.me/propisi/393012",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393012/download",
+     "sha256": "d4f8938ca8b4c0dd23b6d15e067da8bbfb3a6e631d7384e45b412aa85917931c"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393043",
+   "path": "akt/2026/393043",
+   "short": "Zaključak, broj: D 32-077/26-63",
+   "title": "Zaključak, broj: D 32-077/26-63",
+   "url": "https://www.sluzbenilist.me/propisi/393043",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/393043/download",
+     "sha256": "5bd4ebc201f465aa014029b5beed6bb84c1a60d445cd6a375dd3692ed26a1fdb"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393061",
+   "path": "akt/2026/393061",
+   "short": "Zaključak o usvajanju Izvještaja o radu JU KIC \"Malesija\" za 2025. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu JU KIC \"Malesija\" za 2025. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/393061",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/393061/download",
+     "sha256": "2644abccebf9d0990cd08154bbad679722513373105f91b9f8c1a566f06c659a"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393083",
+   "path": "akt/2026/393083",
+   "short": "Tarifa o naknadama za rad i naknadama troškova notara",
+   "title": "Tarifa o naknadama za rad i naknadama troškova notara",
+   "url": "https://www.sluzbenilist.me/propisi/393083",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.me/propisi/393083/download",
+     "sha256": "dadc10382c4853afb3ecee2f095f199a94fb50cc1be55a87c9160f28dfd28f9f"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393095",
+   "path": "akt/2026/393095",
+   "short": "Tarifa o naknadama za rad notara kao povjerenika suda u ostavinskom postupku",
+   "title": "Tarifa o naknadama za rad notara kao povjerenika suda u ostavinskom postupku",
+   "url": "https://www.sluzbenilist.me/propisi/393095",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/393095/download",
+     "sha256": "5002acc87dfab5b61b64ab2ee7a805cabf8417b9affb1aba3304302c0c8d55da"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393214",
+   "path": "akt/2026/393214",
+   "short": "Pravilnik o obliku i sadržini poreske prijave za utvrđivanje godišnjeg poreza na nepokretnosti za fizička lica",
+   "title": "Pravilnik o obliku i sadržini poreske prijave za utvrđivanje godišnjeg poreza na nepokretnosti za fizička lica",
+   "url": "https://www.sluzbenilist.me/propisi/393214",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/393214/download",
+     "sha256": "ef4402656213b45c263325885e56000a41887f0bc8fbea7d61e7a23523b7aad0"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393221",
+   "path": "akt/2026/393221",
+   "short": "Pravilnik o obliku i sadržini poreske prijave za utvrđivanje godišnjeg poreza na nepokretnosti za pravna lica",
+   "title": "Pravilnik o obliku i sadržini poreske prijave za utvrđivanje godišnjeg poreza na nepokretnosti za pravna lica",
+   "url": "https://www.sluzbenilist.me/propisi/393221",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/393221/download",
+     "sha256": "ba9f699831c42ed2ddef5b70890bb11777b8fd3da0a95bdd9287162d5c5af64c"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393270",
+   "path": "akt/2026/393270",
+   "short": "Zaključak, broj: 0301-10/19",
+   "title": "Zaključak, broj: 0301-10/19",
+   "url": "https://www.sluzbenilist.me/propisi/393270",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393270/download",
+     "sha256": "af6e03b3f9b5c6bc7428b3c743df1516db56f6e342e3c226b1a221e5415136d5"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393272",
+   "path": "akt/2026/393272",
+   "short": "Zaključak, broj: 0301-10/23",
+   "title": "Zaključak, broj: 0301-10/23",
+   "url": "https://www.sluzbenilist.me/propisi/393272",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393272/download",
+     "sha256": "60734de21eefc79430045f317589ab34651dc2f7e7b22822340e0df83a5946e3"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393274",
+   "path": "akt/2026/393274",
+   "short": "Zaključak, broj: 0301-10/2",
+   "title": "Zaključak, broj: 0301-10/2",
+   "url": "https://www.sluzbenilist.me/propisi/393274",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393274/download",
+     "sha256": "cb808c66802a488a25ba6eb67dd744f557b568ea7661171417c300eeef51d190"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393275",
+   "path": "akt/2026/393275",
+   "short": "Zaključak, broj: 0301-10/21",
+   "title": "Zaključak, broj: 0301-10/21",
+   "url": "https://www.sluzbenilist.me/propisi/393275",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393275/download",
+     "sha256": "8bf107933998ea55321b5daa9758fd00fe1e2d43693b0f9cef18c8deb3820dbe"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393276",
+   "path": "akt/2026/393276",
+   "short": "Zaključak, broj: 0301-10/22",
+   "title": "Zaključak, broj: 0301-10/22",
+   "url": "https://www.sluzbenilist.me/propisi/393276",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393276/download",
+     "sha256": "0b45f8c229e1c886df639c051bfadda3f0d572638efd7352bbbb9b702ffc4172"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393277",
+   "path": "akt/2026/393277",
+   "short": "Zaključak, broj: 0301-10/20",
+   "title": "Zaključak, broj: 0301-10/20",
+   "url": "https://www.sluzbenilist.me/propisi/393277",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393277/download",
+     "sha256": "477745409b4145d16b433ee83cdc07bbde82c8f7973268e9f025bfcb3f513c8b"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393278",
+   "path": "akt/2026/393278",
+   "short": "Zaključak, broj: 0301-10/1",
+   "title": "Zaključak, broj: 0301-10/1",
+   "url": "https://www.sluzbenilist.me/propisi/393278",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393278/download",
+     "sha256": "e3906e044bcd227946384457d6078725e80633ec10b262e282e812432c2e9750"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393280",
+   "path": "akt/2026/393280",
+   "short": "Zaključak, broj: 0301-10/24",
+   "title": "Zaključak, broj: 0301-10/24",
+   "url": "https://www.sluzbenilist.me/propisi/393280",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393280/download",
+     "sha256": "23dfaf6c3518be80db2b10e7860c1b2165cdac9738d3fc500bea70ba02c14138"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393281",
+   "path": "akt/2026/393281",
+   "short": "Zaključak, broj: 0301-10/16",
+   "title": "Zaključak, broj: 0301-10/16",
+   "url": "https://www.sluzbenilist.me/propisi/393281",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393281/download",
+     "sha256": "1cab56ac911c055e7b2e670c719fb836dc1ecb2ec11f6119487b4cdfc2f6c371"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393353",
+   "path": "akt/2026/393353",
+   "short": "Javni poziv",
+   "title": "Javni poziv",
+   "url": "https://www.sluzbenilist.me/propisi/393353",
+   "versions": [
+    {
+     "from": "2026-05-02",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393353/download",
+     "sha256": "b9c3fba3e942ebebd9402b7711de57fbbc0331ad3a2ca68f8336e97904b336ee"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393358",
+   "path": "akt/2026/393358",
+   "short": "Kodeks profesionalne etike advokata",
+   "title": "Kodeks profesionalne etike advokata",
+   "url": "https://www.sluzbenilist.me/propisi/393358",
+   "versions": [
+    {
+     "from": "2026-05-02",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393358/download",
+     "sha256": "26bf89ba43515d98d61da863ffafbba5356883ff9fc17d3177726e1dac270108"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393373",
+   "path": "akt/2026/393373",
+   "short": "Zaključak, broj: 01-030-96",
+   "title": "Zaključak, broj: 01-030-96",
+   "url": "https://www.sluzbenilist.me/propisi/393373",
+   "versions": [
+    {
+     "from": "2026-05-02",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393373/download",
+     "sha256": "84ff1df5e676d56d51df240ff8dc40dc22a06fc898d4268ab50b8f8aefccdca5"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-393374",
+   "path": "akt/2026/393374",
+   "short": "Zaključak o prihvatanju Informacije o stanju školstva u Opštini Petnjica za školsku 2023/24. godinu",
+   "title": "Zaključak o prihvatanju Informacije o stanju školstva u Opštini Petnjica za školsku 2023/24. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/393374",
+   "versions": [
+    {
+     "from": "2026-05-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/393374/download",
+     "sha256": "bda5fd0152819001dfe9b8b28170b3558f807cbc214af60f3a59668baebe2f5a"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-394064",
+   "path": "akt/2026/394064",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Sportsko-turistički park Kolašin\" Kolašin",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Sportsko-turistički park Kolašin\" Kolašin",
+   "url": "https://www.sluzbenilist.me/propisi/394064",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 55,
+     "source_url": "https://www.sluzbenilist.me/propisi/394064/download",
+     "sha256": "92505eff72432665de76debbb8b9b16143aba6e888feb50046fee4cd47a805a3"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-394483",
+   "path": "akt/2026/394483",
+   "short": "Školski kalendar o izmjeni Školskog kalendara za 2025/2026. godinu",
+   "title": "Školski kalendar o izmjeni Školskog kalendara za 2025/2026. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/394483",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/394483/download",
+     "sha256": "7f2dbeb57ca4fb8863b5a94f770bd99180289569b736a5af28abcf593992385d"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-394537",
+   "path": "akt/2026/394537",
+   "short": "Etički kodeks Komore",
+   "title": "Etički kodeks Komore",
+   "url": "https://www.sluzbenilist.me/propisi/394537",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 29,
+     "source_url": "https://www.sluzbenilist.me/propisi/394537/download",
+     "sha256": "366a9239426e7e109c9b0e3316394d2a01be1f814aaf4dd192414e5417efd92e"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-394734",
+   "path": "akt/2026/394734",
+   "short": "Program praćenja kvaliteta tečnih goriva naftnog porijekla za 2026. godinu za privredna društva, druga pravna i fizička lica koja uvoze gorivo",
+   "title": "Program praćenja kvaliteta tečnih goriva naftnog porijekla za 2026. godinu za privredna društva, druga pravna i fizička lica koja uvoze gorivo",
+   "url": "https://www.sluzbenilist.me/propisi/394734",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/394734/download",
+     "sha256": "fcf59c09a7f25f51d0b3b7c947b1733832a4e74f3ddffa7b14abbb32f268af87"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395071",
+   "path": "akt/2026/395071",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Beranska autobuska stanica\" Berane",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Beranska autobuska stanica\" Berane",
+   "url": "https://www.sluzbenilist.me/propisi/395071",
+   "versions": [
+    {
+     "from": "2026-06-20",
+     "units": 55,
+     "source_url": "https://www.sluzbenilist.me/propisi/395071/download",
+     "sha256": "eec8847db83bed20e4d5c167afe39c08ddacbfc119e997a21f67e7b71c803ba2"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395072",
+   "path": "akt/2026/395072",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Vodovod i kanalizacija\" Berane",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Vodovod i kanalizacija\" Berane",
+   "url": "https://www.sluzbenilist.me/propisi/395072",
+   "versions": [
+    {
+     "from": "2026-06-20",
+     "units": 58,
+     "source_url": "https://www.sluzbenilist.me/propisi/395072/download",
+     "sha256": "47df5d76810533691bb3a8ff0c79e0bbbeabb3b0fff1918651ef0a3e38184681"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395146",
+   "path": "akt/2026/395146",
+   "short": "Statut Društva sa ograničenom odgovornošću Vodovod Bistrica\" Bijelo Polje",
+   "title": "Statut Društva sa ograničenom odgovornošću Vodovod Bistrica\" Bijelo Polje",
+   "url": "https://www.sluzbenilist.me/propisi/395146",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 58,
+     "source_url": "https://www.sluzbenilist.me/propisi/395146/download",
+     "sha256": "7f0cf33e65ce66a52e7f669a47447479624e0dc3d6d37ead090aa2550e26af52"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395147",
+   "path": "akt/2026/395147",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Komunalno-Lim\" Bijelo Polje",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Komunalno-Lim\" Bijelo Polje",
+   "url": "https://www.sluzbenilist.me/propisi/395147",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 58,
+     "source_url": "https://www.sluzbenilist.me/propisi/395147/download",
+     "sha256": "996742af54e9cd5ecd0a7c9b1d3a6ffed96a0459ba0b3f55042d40cb76b0c7cf"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395148",
+   "path": "akt/2026/395148",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Parking servis Bijelo Polje\"",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Parking servis Bijelo Polje\"",
+   "url": "https://www.sluzbenilist.me/propisi/395148",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 58,
+     "source_url": "https://www.sluzbenilist.me/propisi/395148/download",
+     "sha256": "9db86b44df80395d31e1baec99bd0971ba0879f2914a64d74480a1f2ec55fa67"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395149",
+   "path": "akt/2026/395149",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Agencija za upravljanje prirodnim dobrima Opštine Bijelo Polje\"",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Agencija za upravljanje prirodnim dobrima Opštine Bijelo Polje\"",
+   "url": "https://www.sluzbenilist.me/propisi/395149",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 60,
+     "source_url": "https://www.sluzbenilist.me/propisi/395149/download",
+     "sha256": "35dbbaeeb9eecafea1244b1ddc000376389ab42e0c28b525b50f92da331bf5aa"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395150",
+   "path": "akt/2026/395150",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Agencija za prostorno planiranje - Bijelo Polje\"",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Agencija za prostorno planiranje - Bijelo Polje\"",
+   "url": "https://www.sluzbenilist.me/propisi/395150",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 60,
+     "source_url": "https://www.sluzbenilist.me/propisi/395150/download",
+     "sha256": "01755179a7e63c1cc80b1620ad84161717e8682854be86b92c791b371be7bdb0"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395153",
+   "path": "akt/2026/395153",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Vodovod i kanalizacija\" Kolašin",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Vodovod i kanalizacija\" Kolašin",
+   "url": "https://www.sluzbenilist.me/propisi/395153",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 57,
+     "source_url": "https://www.sluzbenilist.me/propisi/395153/download",
+     "sha256": "423df2a660041d0bd8af11ab98784ac862e769b9106d33ec6882f71face907e5"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395154",
+   "path": "akt/2026/395154",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Komunalno\" Kolašin",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Komunalno\" Kolašin",
+   "url": "https://www.sluzbenilist.me/propisi/395154",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 57,
+     "source_url": "https://www.sluzbenilist.me/propisi/395154/download",
+     "sha256": "e91e4bbe7e2261bda3b62cb98ac6945efc5fa0e13087fa889b32087b283eba9f"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395513",
+   "path": "akt/2026/395513",
+   "short": "Školski kalendar za 2026/2027. godinu",
+   "title": "Školski kalendar za 2026/2027. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/395513",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/395513/download",
+     "sha256": "cf9e593b3991f635953c9ee8643bd4752a9eb9f090744f4d2f0e56529ef7e2f7"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395536",
+   "path": "akt/2026/395536",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Komunalne usluge - Gradac\" Mojkovac",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Komunalne usluge - Gradac\" Mojkovac",
+   "url": "https://www.sluzbenilist.me/propisi/395536",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 57,
+     "source_url": "https://www.sluzbenilist.me/propisi/395536/download",
+     "sha256": "809fffe7d4bff1f267d3e984959b1019d76246fdc86dc1648b3623d82006f3db"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395544",
+   "path": "akt/2026/395544",
+   "short": "Statut društva sa ograničenom odgovornošću \"Komunalna djelatnost\" Petnjica",
+   "title": "Statut društva sa ograničenom odgovornošću \"Komunalna djelatnost\" Petnjica",
+   "url": "https://www.sluzbenilist.me/propisi/395544",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 63,
+     "source_url": "https://www.sluzbenilist.me/propisi/395544/download",
+     "sha256": "1215dc04e2a6e11ed7de759de1a1c2bb02a1d988f1a3d2054c9bae092365f315"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395594",
+   "path": "akt/2026/395594",
+   "short": "Statut Društva sa ograničenom odgovornošću - \"Društvo za izgradnju vodovodne i kanalizacione infrastrukture u Opštini Herceg Novi\" Herceg Novi",
+   "title": "Statut Društva sa ograničenom odgovornošću - \"Društvo za izgradnju vodovodne i kanalizacione infrastrukture u Opštini Herceg Novi\" Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/395594",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 57,
+     "source_url": "https://www.sluzbenilist.me/propisi/395594/download",
+     "sha256": "6947f043cf66673b954aea0f037c703c8419e711060cc63b5a11905c5a38a134"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395595",
+   "path": "akt/2026/395595",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Komunalno stambeno\" Herceg Novi",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Komunalno stambeno\" Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/395595",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 63,
+     "source_url": "https://www.sluzbenilist.me/propisi/395595/download",
+     "sha256": "933fa00ebd0c180581932f8f3608197b94319e7d76c4cf6258a36f1923612911"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395596",
+   "path": "akt/2026/395596",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Parking servis Herceg Novi\" Herceg Novi",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Parking servis Herceg Novi\" Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/395596",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 81,
+     "source_url": "https://www.sluzbenilist.me/propisi/395596/download",
+     "sha256": "efb724519298edfee2543af44ec362fff11f3f4e75a0056ab89f1912de05e94e"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395597",
+   "path": "akt/2026/395597",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Sportski centar Igalo\" - Igalo",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Sportski centar Igalo\" - Igalo",
+   "url": "https://www.sluzbenilist.me/propisi/395597",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 100,
+     "source_url": "https://www.sluzbenilist.me/propisi/395597/download",
+     "sha256": "5bf6a69dabbfe330bd24f33fd1f8793247b81241302910ffd2a98057b1a1e37d"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395598",
+   "path": "akt/2026/395598",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Agencija za izgradnju i razvoj Herceg Novog\" Herceg Novi",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Agencija za izgradnju i razvoj Herceg Novog\" Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/395598",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/395598/download",
+     "sha256": "00e162f7558d7eac84a89e5a4892664aea5087a4cf842bb43e59acd23d75a9b7"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395599",
+   "path": "akt/2026/395599",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Agencija za gazdovanje Gradskom lukom\" Herceg Novi",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Agencija za gazdovanje Gradskom lukom\" Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/395599",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 79,
+     "source_url": "https://www.sluzbenilist.me/propisi/395599/download",
+     "sha256": "9d0c1dc6da78dad5f2a8faad5e56704340cb2afacdc96a34cb8e704249b7717b"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395738",
+   "path": "akt/2026/395738",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Komunalno\" Rožaje",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Komunalno\" Rožaje",
+   "url": "https://www.sluzbenilist.me/propisi/395738",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 63,
+     "source_url": "https://www.sluzbenilist.me/propisi/395738/download",
+     "sha256": "94ebf24cbd07b8456af2bc027de594901d81d77d9bd187f339ff5a9d17e7fe3c"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395739",
+   "path": "akt/2026/395739",
+   "short": "Statut Društva sa ograničenom odgovornošću \"Vodovod i kanalizacija\" Rožaje",
+   "title": "Statut Društva sa ograničenom odgovornošću \"Vodovod i kanalizacija\" Rožaje",
+   "url": "https://www.sluzbenilist.me/propisi/395739",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 58,
+     "source_url": "https://www.sluzbenilist.me/propisi/395739/download",
+     "sha256": "5d4a2f116b5a369a253152e95101217afe10dbf03a229499a46a0687e81c4f8d"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395740",
+   "path": "akt/2026/395740",
+   "short": "Statut Društva sa ograničenom odgovornošću\"Sportski centar\" Rožaje",
+   "title": "Statut Društva sa ograničenom odgovornošću\"Sportski centar\" Rožaje",
+   "url": "https://www.sluzbenilist.me/propisi/395740",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 60,
+     "source_url": "https://www.sluzbenilist.me/propisi/395740/download",
+     "sha256": "508b41a97a3f6bb86e0e4f071996de0f76393791bbd0153ab783dbe4385fce92"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395742",
+   "path": "akt/2026/395742",
+   "short": "Statut društva sa ograničenom odgovornošću\"Ski centar Hajla\" Rožaje",
+   "title": "Statut društva sa ograničenom odgovornošću\"Ski centar Hajla\" Rožaje",
+   "url": "https://www.sluzbenilist.me/propisi/395742",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 60,
+     "source_url": "https://www.sluzbenilist.me/propisi/395742/download",
+     "sha256": "ad6c0c31742bb27efa5f11076bcdd420fdf2302533fb208f092e217ddbfc4b24"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395765",
+   "path": "akt/2026/395765",
+   "short": "Izmjene i dopune Odluke o podsticajima i investiranju u razvoj poljoprivrede na području Opštine Rožaje",
+   "title": "Izmjene i dopune Odluke o podsticajima i investiranju u razvoj poljoprivrede na području Opštine Rožaje",
+   "url": "https://www.sluzbenilist.me/propisi/395765",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 47,
+     "source_url": "https://www.sluzbenilist.me/propisi/395765/download",
+     "sha256": "6e4cb363e421000acde95482e9cc2bb636c20b1175e7606e70d0ae9c1185fcbb"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395769",
+   "path": "akt/2026/395769",
+   "short": "Završni račun Budžeta Opštine Bar za 2025. godinu",
+   "title": "Završni račun Budžeta Opštine Bar za 2025. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/395769",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/395769/download",
+     "sha256": "411df3a342aef487988ee0809cd275a9badf24a32e7cd658c01bdc1083059197"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395939",
+   "path": "akt/2026/395939",
+   "short": "Metodologija za utvrđivanje naknade za priključenje na distributivni sistem električne energije",
+   "title": "Metodologija za utvrđivanje naknade za priključenje na distributivni sistem električne energije",
+   "url": "https://www.sluzbenilist.me/propisi/395939",
+   "versions": [
+    {
+     "from": "2026-07-18",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/395939/download",
+     "sha256": "bd98aec73edcc7c28f31141c6b9b3523cfa3c11958f7a31935185d8abda0c960"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-395940",
+   "path": "akt/2026/395940",
+   "short": "Cjenovnik za otkup infrastrukture za priključenje na distributivni sistem električne energije",
+   "title": "Cjenovnik za otkup infrastrukture za priključenje na distributivni sistem električne energije",
+   "url": "https://www.sluzbenilist.me/propisi/395940",
+   "versions": [
+    {
+     "from": "2026-07-18",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/395940/download",
+     "sha256": "813403e609e300fdc1ef881eb5109d84a8705844fe822e395ae6ffd826578233"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-396017",
+   "path": "akt/2026/396017",
+   "short": "Pravila o obustavi izdavanja i otkupa udjela alternativnih investicionih fondova",
+   "title": "Pravila o obustavi izdavanja i otkupa udjela alternativnih investicionih fondova",
+   "url": "https://www.sluzbenilist.me/propisi/396017",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/396017/download",
+     "sha256": "0405ebd7f6a8a0f4a4163e3af0072738a301a1c03cccb1ed6dc542a5d08f2b91"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-396045",
+   "path": "akt/2026/396045",
+   "short": "Završni račun Budžeta Opštine Berane za 2025. godinu",
+   "title": "Završni račun Budžeta Opštine Berane za 2025. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/396045",
+   "versions": [
+    {
+     "from": "2026-07-18",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/396045/download",
+     "sha256": "a632b72a09be1270635fa77b091ef8cbe859880ea3d297f6ba5ea3b5e8b1ab91"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-396050",
+   "path": "akt/2026/396050",
+   "short": "Zaključak o usvajanju Izvještaja o radu sa Finansijskim iskazom DOO \"Sportski centar\" Berane za 2025. godinu",
+   "title": "Zaključak o usvajanju Izvještaja o radu sa Finansijskim iskazom DOO \"Sportski centar\" Berane za 2025. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/396050",
+   "versions": [
+    {
+     "from": "2026-07-18",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/396050/download",
+     "sha256": "ec75d963ec8a48f005a7b55b205c8c9e63828fa77fc07bb8fc59c013b9b6d408"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-396203",
+   "path": "akt/2026/396203",
+   "short": "Etički kodeks u javnim nabavkama",
+   "title": "Etički kodeks u javnim nabavkama",
+   "url": "https://www.sluzbenilist.me/propisi/396203",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.me/propisi/396203/download",
+     "sha256": "f4ebc1add06a2a73ddc0c329571cc94571136d258676d2911a815145cd29a09a"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-396250",
+   "path": "akt/2026/396250",
+   "short": "Završni račun Budžeta Opštine Šavnik za 2025. godinu",
+   "title": "Završni račun Budžeta Opštine Šavnik za 2025. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/396250",
+   "versions": [
+    {
+     "from": "2026-07-25",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/396250/download",
+     "sha256": "78c5ef515ad872e816b5a3395c23d26f1ef473257c4b029d5e2fc1237a580c3b"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-397091",
+   "path": "akt/2026/397091",
+   "short": "Plan raspodjele radio-frekvencija namijenjenih amaterskoj i amaterskoj-satelitskoj službi",
+   "title": "Plan raspodjele radio-frekvencija namijenjenih amaterskoj i amaterskoj-satelitskoj službi",
+   "url": "https://www.sluzbenilist.me/propisi/397091",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/397091/download",
+     "sha256": "a8e28adf2dee6c9054820215d9e840873f20615545d3886ed403439852a54032"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-397158",
+   "path": "akt/2026/397158",
+   "short": "Statut o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću \"Parking servis Herceg Novi\" Herceg Novi",
+   "title": "Statut o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću \"Parking servis Herceg Novi\" Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/397158",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.me/propisi/397158/download",
+     "sha256": "d6401ee323c58a332ad3d890055e463a192b6da37d2f037c3bb3250a473ff0c1"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-397165",
+   "path": "akt/2026/397165",
+   "short": "Statut o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću \"Agencija za gazdovanje gradskom lukom\" Herceg Novi",
+   "title": "Statut o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću \"Agencija za gazdovanje gradskom lukom\" Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/397165",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/397165/download",
+     "sha256": "5e6a2996eac5671d505210a19dc0ab4e6085a696bedd2ef21e40925df336a6a6"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-397169",
+   "path": "akt/2026/397169",
+   "short": "Statut o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću \"Sportski centar Igalo\" Igalo",
+   "title": "Statut o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću \"Sportski centar Igalo\" Igalo",
+   "url": "https://www.sluzbenilist.me/propisi/397169",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/397169/download",
+     "sha256": "0cf6cb3b3fde6452b03d29ea13e23ca8c56cc7d59035cc66398edb2f2a80b669"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-397170",
+   "path": "akt/2026/397170",
+   "short": "Statut o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću \"Vodovod i kanalizacija\" Herceg Novi",
+   "title": "Statut o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću \"Vodovod i kanalizacija\" Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/397170",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/397170/download",
+     "sha256": "d55a1835e49cab545c7aedf88b7f8a64db5ceb4c8f2c362b58f08a4a895cfd3a"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-397745",
+   "path": "akt/2026/397745",
+   "short": "Lista blagovremenih i potpunih predloga kandidata za članove Savjeta Društva sa ograničenom odgovornošću Lokalni javni emiter \"Radio Televizija Nikšić\"",
+   "title": "Lista blagovremenih i potpunih predloga kandidata za članove Savjeta Društva sa ograničenom odgovornošću Lokalni javni emiter \"Radio Televizija Nikšić\"",
+   "url": "https://www.sluzbenilist.me/propisi/397745",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/397745/download",
+     "sha256": "fae4889dcc1eea6af4d8be43c214d1e3f17e6b07d00ef6f77058224f173a3bd5"
+    }
+   ]
+  },
+  {
+   "slug": "akt-2026-399516",
+   "path": "akt/2026/399516",
+   "short": "Etički kodeks izabranih predstavnika i funkcionera u lokalnoj samoupravi Opštine Zeta",
+   "title": "Etički kodeks izabranih predstavnika i funkcionera u lokalnoj samoupravi Opštine Zeta",
+   "url": "https://www.sluzbenilist.me/propisi/399516",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 36,
+     "source_url": "https://www.sluzbenilist.me/propisi/399516/download",
+     "sha256": "70b16b69b0d5a623fc1b3d1ba0ab8bd5418da2b59bee0efdba555bbc1d8d8330"
+    }
+   ]
+  },
+  {
    "slug": "naredba-1992-291701",
    "path": "naredba/1992/291701",
    "short": "Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o materijalnom obezbjeđenju učesnika oslobodilačkih ratova od 1912. do 1918 .godine.",
