@@ -1,0 +1,3 @@
+Na osnovu člana 155a Zakona o izgradnji objekata ("Službeni list CG" br. 019/25, 092/25, 160/25 i 114/26), člana 58 stav 1 tačka 22 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 002/18, 034/19, 038/20, 050/22, 084/22, 081/25 i 098/25), člana 84 i 85 Statuta opštine Berane ("Službeni list CG - Opštinski propisi" , br. 042/18) i člana 2 i 3 Odluke o lokalnim objektima od opšteg interesa ("Službeni list CG - Opštinski propisi", br. 041/21 i 003/23), predsjednik Opštine Berane, donosi
+O D L U K U
+o određivanju lokacije sa elementima urbanističko-tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa - sportskih terena
