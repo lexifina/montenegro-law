@@ -134,3 +134,9 @@ Zakon o morskom ribarstvu · 1 versions, from 2025-07-11 (latest in force: 2025-
 | Poglavlje XII | [poglavlje-12.md](poglavlje-12.md) | 0 |  |
 | Poglavlje XIII | [poglavlje-13.md](poglavlje-13.md) | 0 |  |
 | Poglavlje XIV | [poglavlje-14.md](poglavlje-14.md) | 0 |  |
+
+Act id: `zakon-o-morskom-ribarstvu` (tags `zakon-o-morskom-ribarstvu/<day>`; `python tools/on.py <day> zakon-o-morskom-ribarstvu`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

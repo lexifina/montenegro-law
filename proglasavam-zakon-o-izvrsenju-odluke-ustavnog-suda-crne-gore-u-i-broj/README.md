@@ -18,3 +18,9 @@ Proglašavam Zakon o izvršenju Odluke Ustavnog suda Crne Gore U-I broj 6/16 od 
 | Član 12 | [clan-012.md](clan-012.md) | 0 |  |
 | Član 13 | [clan-013.md](clan-013.md) | 0 |  |
 | Član 14 | [clan-014.md](clan-014.md) | 0 |  |
+
+Act id: `proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj` (tags `proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj/<day>`; `python tools/on.py <day> proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

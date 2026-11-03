@@ -244,3 +244,9 @@ Zakon o zdravlju životinja · 1 versions, from 2026-06-17 (latest in force: 202
 | Član 238 | [clan-238.md](clan-238.md) | 0 |  |
 | Član 239 | [clan-239.md](clan-239.md) | 0 |  |
 | Član 240 | [clan-240.md](clan-240.md) | 0 |  |
+
+Act id: `zakon-o-zdravlju-zivotinja` (tags `zakon-o-zdravlju-zivotinja/<day>`; `python tools/on.py <day> zakon-o-zdravlju-zivotinja`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

@@ -122,3 +122,9 @@ Zakon o javno-privatnom partnerstvu · 1 versions, from 2019-12-27 (latest in fo
 | Poglavlje VIII | [poglavlje-08.md](poglavlje-08.md) | 0 |  |
 | Poglavlje IX | [poglavlje-09.md](poglavlje-09.md) | 0 |  |
 | Poglavlje X | [poglavlje-10.md](poglavlje-10.md) | 0 |  |
+
+Act id: `zakon-o-javno-privatnom-partnerstvu` (tags `zakon-o-javno-privatnom-partnerstvu/<day>`; `python tools/on.py <day> zakon-o-javno-privatnom-partnerstvu`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

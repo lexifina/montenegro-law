@@ -49,3 +49,9 @@ Zakon o mjerama sigurnosti prilikom istraživanja i proizvodnje ugljovodonika u 
 | Član 43 | [clan-043.md](clan-043.md) | 0 |  |
 | Član 44 | [clan-044.md](clan-044.md) | 0 |  |
 | Član 45 | [clan-045.md](clan-045.md) | 0 |  |
+
+Act id: `zakon-o-mjerama-sigurnosti-prilikom-istrazivanja-i-proizvodnje-ugljovo` (tags `zakon-o-mjerama-sigurnosti-prilikom-istrazivanja-i-proizvodnje-ugljovo/<day>`; `python tools/on.py <day> zakon-o-mjerama-sigurnosti-prilikom-istrazivanja-i-proizvodnje-ugljovo`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

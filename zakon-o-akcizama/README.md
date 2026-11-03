@@ -126,3 +126,9 @@ Zakon o akcizama* · 1 versions, from 2026-07-25 (latest in force: 2026-07-25) �
 | Član 120 | [clan-120.md](clan-120.md) | 0 |  |
 | Član 121 | [clan-121.md](clan-121.md) | 0 |  |
 | Član 122 | [clan-122.md](clan-122.md) | 0 |  |
+
+Act id: `zakon-o-akcizama` (tags `zakon-o-akcizama/<day>`; `python tools/on.py <day> zakon-o-akcizama`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

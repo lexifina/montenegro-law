@@ -32,3 +32,9 @@ Zakon o nadzoru nad veleprodajnim tržištem električne energije i prirodnog ga
 | Poglavlje III | [poglavlje-03.md](poglavlje-03.md) | 0 |  |
 | Poglavlje IV | [poglavlje-04.md](poglavlje-04.md) | 0 |  |
 | Poglavlje V | [poglavlje-05.md](poglavlje-05.md) | 0 |  |
+
+Act id: `zakon-o-nadzoru-nad-veleprodajnim-trzistem-elektricne-energije-i-priro` (tags `zakon-o-nadzoru-nad-veleprodajnim-trzistem-elektricne-energije-i-priro/<day>`; `python tools/on.py <day> zakon-o-nadzoru-nad-veleprodajnim-trzistem-elektricne-energije-i-priro`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

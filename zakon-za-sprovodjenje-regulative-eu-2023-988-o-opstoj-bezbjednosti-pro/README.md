@@ -25,3 +25,9 @@ Zakon za sprovođenje regulative (EU) 2023/988 o opštoj bezbjednosti proizvoda 
 | Član 19 | [clan-019.md](clan-019.md) | 0 |  |
 | Član 20 | [clan-020.md](clan-020.md) | 0 |  |
 | Poglavlje I | [poglavlje-01.md](poglavlje-01.md) | 0 |  |
+
+Act id: `zakon-za-sprovodjenje-regulative-eu-2023-988-o-opstoj-bezbjednosti-pro` (tags `zakon-za-sprovodjenje-regulative-eu-2023-988-o-opstoj-bezbjednosti-pro/<day>`; `python tools/on.py <day> zakon-za-sprovodjenje-regulative-eu-2023-988-o-opstoj-bezbjednosti-pro`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

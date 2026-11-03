@@ -87,3 +87,9 @@ Zakon o referentnim vrijednostima* · 1 versions, from 2026-02-18 (latest in for
 | Član 81 | [clan-081.md](clan-081.md) | 0 |  |
 | Član 82 | [clan-082.md](clan-082.md) | 0 |  |
 | Poglavlje I | [poglavlje-01.md](poglavlje-01.md) | 0 |  |
+
+Act id: `zakon-o-referentnim-vrijednostima` (tags `zakon-o-referentnim-vrijednostima/<day>`; `python tools/on.py <day> zakon-o-referentnim-vrijednostima`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

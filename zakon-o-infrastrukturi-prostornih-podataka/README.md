@@ -34,3 +34,9 @@ Zakon o infrastrukturi prostornih podataka · 1 versions, from 2017-06-22 (lates
 | Član 28 | [clan-028.md](clan-028.md) | 0 |  |
 | Član 29 | [clan-029.md](clan-029.md) | 0 |  |
 | Član 30 | [clan-030.md](clan-030.md) | 0 |  |
+
+Act id: `zakon-o-infrastrukturi-prostornih-podataka` (tags `zakon-o-infrastrukturi-prostornih-podataka/<day>`; `python tools/on.py <day> zakon-o-infrastrukturi-prostornih-podataka`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

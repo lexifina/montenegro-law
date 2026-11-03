@@ -24,3 +24,9 @@ Zakon o zastupniku Crne Gore pred Evropskim sudom za ljudska prava · 1 versions
 | Član 18 | [clan-018.md](clan-018.md) | 0 |  |
 | Član 19 | [clan-019.md](clan-019.md) | 0 |  |
 | Član 20 | [clan-020.md](clan-020.md) | 0 |  |
+
+Act id: `zakon-o-zastupniku-crne-gore-pred-evropskim-sudom-za-ljudska-prava` (tags `zakon-o-zastupniku-crne-gore-pred-evropskim-sudom-za-ljudska-prava/<day>`; `python tools/on.py <day> zakon-o-zastupniku-crne-gore-pred-evropskim-sudom-za-ljudska-prava`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

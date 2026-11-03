@@ -69,3 +69,9 @@ Zakon o proizvodnji naoružanja i vojne opreme · 1 versions, from 2026-08-11 (l
 | Poglavlje IX | [poglavlje-09.md](poglavlje-09.md) | 0 |  |
 | Poglavlje X | [poglavlje-10.md](poglavlje-10.md) | 0 |  |
 | Poglavlje XI | [poglavlje-11.md](poglavlje-11.md) | 0 |  |
+
+Act id: `zakon-o-proizvodnji-naoruzanja-i-vojne-opreme` (tags `zakon-o-proizvodnji-naoruzanja-i-vojne-opreme/<day>`; `python tools/on.py <day> zakon-o-proizvodnji-naoruzanja-i-vojne-opreme`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

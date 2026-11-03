@@ -47,3 +47,9 @@ Zakon o spoljnoj trgovini robom i uslugama koje mogu da se koriste za izvršenje
 | Poglavlje V | [poglavlje-05.md](poglavlje-05.md) | 0 |  |
 | Poglavlje VI | [poglavlje-06.md](poglavlje-06.md) | 0 |  |
 | Poglavlje VII | [poglavlje-07.md](poglavlje-07.md) | 0 |  |
+
+Act id: `zakon-o-spoljnoj-trgovini-robom-i-uslugama-koje-mogu-da-se-koriste-za` (tags `zakon-o-spoljnoj-trgovini-robom-i-uslugama-koje-mogu-da-se-koriste-za/<day>`; `python tools/on.py <day> zakon-o-spoljnoj-trgovini-robom-i-uslugama-koje-mogu-da-se-koriste-za`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

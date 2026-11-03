@@ -43,3 +43,9 @@ Zakon o prekograničnim energetskim infrastrukturnim projektima* · 1 versions, 
 | Član 37 | [clan-037.md](clan-037.md) | 0 |  |
 | Član 38 | [clan-038.md](clan-038.md) | 0 |  |
 | Poglavlje I | [poglavlje-01.md](poglavlje-01.md) | 0 |  |
+
+Act id: `zakon-o-prekogranicnim-energetskim-infrastrukturnim-projektima` (tags `zakon-o-prekogranicnim-energetskim-infrastrukturnim-projektima/<day>`; `python tools/on.py <day> zakon-o-prekogranicnim-energetskim-infrastrukturnim-projektima`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

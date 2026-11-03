@@ -20,3 +20,9 @@ Zakon o reprogramu poreskog potraživanja · 1 versions, from 2021-12-31 (latest
 | Član 14 | [clan-014.md](clan-014.md) | 0 |  |
 | Član 15 | [clan-015.md](clan-015.md) | 0 |  |
 | Član 16 | [clan-016.md](clan-016.md) | 0 |  |
+
+Act id: `zakon-o-reprogramu-poreskog-potrazivanja` (tags `zakon-o-reprogramu-poreskog-potrazivanja/<day>`; `python tools/on.py <day> zakon-o-reprogramu-poreskog-potrazivanja`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

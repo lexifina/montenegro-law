@@ -59,3 +59,9 @@ Zakon o zaštiti od nasilja u porodici i nasilja nad ženama · 1 versions, from
 | 3. Postupak za određivanje zaštitnih mjera | [poglavlje-02-odjeljak-3.md](poglavlje-02-odjeljak-3.md) | 0 |  |
 | Poglavlje III | [poglavlje-03.md](poglavlje-03.md) | 0 |  |
 | Poglavlje IV | [poglavlje-04.md](poglavlje-04.md) | 0 |  |
+
+Act id: `zakon-o-zastiti-od-nasilja-u-porodici-i-nasilja-nad-zenama` (tags `zakon-o-zastiti-od-nasilja-u-porodici-i-nasilja-nad-zenama/<day>`; `python tools/on.py <day> zakon-o-zastiti-od-nasilja-u-porodici-i-nasilja-nad-zenama`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

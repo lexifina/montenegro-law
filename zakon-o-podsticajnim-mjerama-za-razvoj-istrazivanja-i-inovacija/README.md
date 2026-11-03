@@ -27,3 +27,9 @@ Zakon o podsticajnim mjerama za razvoj istraživanja i inovacija · 1 versions, 
 | Član 21 | [clan-021.md](clan-021.md) | 0 |  |
 | Član 22 | [clan-022.md](clan-022.md) | 0 |  |
 | Član 23 | [clan-023.md](clan-023.md) | 0 |  |
+
+Act id: `zakon-o-podsticajnim-mjerama-za-razvoj-istrazivanja-i-inovacija` (tags `zakon-o-podsticajnim-mjerama-za-razvoj-istrazivanja-i-inovacija/<day>`; `python tools/on.py <day> zakon-o-podsticajnim-mjerama-za-razvoj-istrazivanja-i-inovacija`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

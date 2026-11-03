@@ -31,3 +31,9 @@ Zakon o administrativnim taksama · 1 versions, from 2019-03-30 (latest in force
 | Član 25 | [clan-025.md](clan-025.md) | 0 |  |
 | Član 26 | [clan-026.md](clan-026.md) | 0 |  |
 | Član 27 | [clan-027.md](clan-027.md) | 0 |  |
+
+Act id: `zakon-o-administrativnim-taksama` (tags `zakon-o-administrativnim-taksama/<day>`; `python tools/on.py <day> zakon-o-administrativnim-taksama`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

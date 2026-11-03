@@ -26,3 +26,9 @@ Zakon o legalizaciji javnih isprava u međunarodnom prometu · 1 versions, from 
 | Poglavlje II | [poglavlje-02.md](poglavlje-02.md) | 0 |  |
 | Poglavlje III | [poglavlje-03.md](poglavlje-03.md) | 0 |  |
 | Poglavlje IV | [poglavlje-04.md](poglavlje-04.md) | 0 |  |
+
+Act id: `zakon-o-legalizaciji-javnih-isprava-u-medjunarodnom-prometu` (tags `zakon-o-legalizaciji-javnih-isprava-u-medjunarodnom-prometu/<day>`; `python tools/on.py <day> zakon-o-legalizaciji-javnih-isprava-u-medjunarodnom-prometu`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

@@ -42,3 +42,9 @@ Zakon o globalnom minimalnom porezu na dobit pravnih lica · 1 versions, from 20
 | Član 36 | [clan-036.md](clan-036.md) | 0 |  |
 | Član 37 | [clan-037.md](clan-037.md) | 0 |  |
 | Poglavlje I | [poglavlje-01.md](poglavlje-01.md) | 0 |  |
+
+Act id: `zakon-o-globalnom-minimalnom-porezu-na-dobit-pravnih-lica` (tags `zakon-o-globalnom-minimalnom-porezu-na-dobit-pravnih-lica/<day>`; `python tools/on.py <day> zakon-o-globalnom-minimalnom-porezu-na-dobit-pravnih-lica`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

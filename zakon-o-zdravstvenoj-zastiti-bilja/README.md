@@ -195,3 +195,9 @@ Zakon o zdravstvenoj zaštiti bilja · 1 versions, from 2026-03-28 (latest in fo
 | Član 190 | [clan-190.md](clan-190.md) | 0 |  |
 | Član 191 | [clan-191.md](clan-191.md) | 0 |  |
 | Član 192 | [clan-192.md](clan-192.md) | 0 |  |
+
+Act id: `zakon-o-zdravstvenoj-zastiti-bilja` (tags `zakon-o-zdravstvenoj-zastiti-bilja/<day>`; `python tools/on.py <day> zakon-o-zdravstvenoj-zastiti-bilja`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

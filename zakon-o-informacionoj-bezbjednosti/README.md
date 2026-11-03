@@ -96,3 +96,9 @@ Zakon o informacionoj bezbjednosti* · 1 versions, from 2024-12-05 (latest in fo
 | Poglavlje IX | [poglavlje-09.md](poglavlje-09.md) | 0 |  |
 | Poglavlje X | [poglavlje-10.md](poglavlje-10.md) | 0 |  |
 | Poglavlje XI | [poglavlje-11.md](poglavlje-11.md) | 0 |  |
+
+Act id: `zakon-o-informacionoj-bezbjednosti` (tags `zakon-o-informacionoj-bezbjednosti/<day>`; `python tools/on.py <day> zakon-o-informacionoj-bezbjednosti`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

@@ -71,3 +71,9 @@ Zakon o lobiranju · 1 versions, from 2024-06-12 (latest in force: 2024-06-12) �
 | Poglavlje VI | [poglavlje-06.md](poglavlje-06.md) | 0 |  |
 | Poglavlje VII | [poglavlje-07.md](poglavlje-07.md) | 0 |  |
 | Poglavlje VIII | [poglavlje-08.md](poglavlje-08.md) | 0 |  |
+
+Act id: `zakon-o-lobiranju` (tags `zakon-o-lobiranju/<day>`; `python tools/on.py <day> zakon-o-lobiranju`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

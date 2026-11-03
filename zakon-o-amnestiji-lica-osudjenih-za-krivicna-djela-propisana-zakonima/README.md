@@ -13,3 +13,9 @@ Zakon o amnestiji lica osuđenih za krivična djela propisana zakonima Crne Gore
 | Član 7 | [clan-007.md](clan-007.md) | 0 |  |
 | Član 8 | [clan-008.md](clan-008.md) | 0 |  |
 | Član 9 | [clan-009.md](clan-009.md) | 0 |  |
+
+Act id: `zakon-o-amnestiji-lica-osudjenih-za-krivicna-djela-propisana-zakonima` (tags `zakon-o-amnestiji-lica-osudjenih-za-krivicna-djela-propisana-zakonima/<day>`; `python tools/on.py <day> zakon-o-amnestiji-lica-osudjenih-za-krivicna-djela-propisana-zakonima`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

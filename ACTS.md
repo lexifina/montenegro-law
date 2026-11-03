@@ -1,6 +1,6 @@
 # Every act in this repository
 
-7193 acts, 7,195 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8799 acts, 8,801 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (563, of which 75 amending acts)
 
@@ -805,10 +805,52 @@
 | Naredba o izmjeni Naredbe o ribolovnim zabranima, lovostaju i minimalnim veličinama riba i drugih vodenih organizama ispod kojih je zabranjen ulov | [`naredba/2026/398070/`](naredba/2026/398070/) | in force | 1 | 2026-09-11 | 2026-09-11 |
 | Naredba o izmjeni Naredbe o zabrani uvoza/unošenja životinja i roba iz zemalja i objekata koji nisu uključeni na liste EU iz kojih je dozvoljen uvoz/unošenje u Evropsku uniju | [`naredba/2026/398952/`](naredba/2026/398952/) | in force | 1 | 2026-10-10 | 2026-10-10 |
 
-## odluka (1515, of which 297 amending acts)
+## odluka (3121, of which 486 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec januar 1992.godine. | [`odluka/1992/291727/`](odluka/1992/291727/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o stanovima za službene potrebe . | [`odluka/1992/291728/`](odluka/1992/291728/) | in force | 1 | 1992-03-16 | 1992-03-16 |
+| Odluka o utvrđivanju osnovica za penzijsko i invalidsko osiguranje lica koja obavljaju samostalnu djelatnost ličnim radom. | [`odluka/1992/291839/`](odluka/1992/291839/) | in force | 1 | 1992-04-10 | 1992-04-10 |
+| Odluka o utvrđivanju dodatka za pomoć i njegu za 1992.godinu. | [`odluka/1992/292044/`](odluka/1992/292044/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o učešću u finansiranju dijela plata pripravnika . | [`odluka/1992/294592/`](odluka/1992/294592/) | in force | 1 | 1992-01-20 | 1992-01-20 |
+| Odluka o valorizaciji iznosa učešća osiguranika u tropškovima korišćenja zdravstvene zaštite za učešća utvrđena u apsolutnim iznosima . | [`odluka/1992/294662/`](odluka/1992/294662/) | in force | 1 | 1992-06-04 | 1992-06-04 |
+| Odluka o izmjeni Odluke o uslovima pod kojima se smatra da je osiguranik izdržavao članove porodice. | [`odluka/1992/294676/`](odluka/1992/294676/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec februar 1992.godine. | [`odluka/1992/294728/`](odluka/1992/294728/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o izmjeni Odluke o visini posebne takse koja se plaća pri izdavanju odobrenja za organizovanje prigodne lutrije , tombole ili klađenja na sportskim takmičenjima i robnonovčane lutrije. | [`odluka/1992/294782/`](odluka/1992/294782/) | in force | 1 | 1992-06-09 | 1992-06-09 |
+| Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec mart 1992. godine. | [`odluka/1992/294848/`](odluka/1992/294848/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o izmjeni Odluke o visini posebne takse koja se plaća pri izdavanju odobrenja za stvaranje igračnice( CASINO),odnosno preregistraciju igračnice (CASINO) zatvorenog tipa. | [`odluka/1992/294880/`](odluka/1992/294880/) | in force | 1 | 1992-06-09 | 1992-06-09 |
+| Odluka o izmjeni Odluke o određivanju nadležnog organa za otkup stanova Republike Crne Gore. | [`odluka/1992/294892/`](odluka/1992/294892/) | in force | 1 | 1992-04-22 | 1992-04-22 |
+| Odluka o kriterijumima i uslovima za razgraničenje troškova između Republike i opština po osnovu korišćenja poslovnog prostora od strane republičkih organa. | [`odluka/1992/294957/`](odluka/1992/294957/) | in force | 1 | 1992-01-16 | 1992-01-16 |
+| Odluka o jednokratnom davanju na imae naknade za godišnji odmor korisnicima penzija i invalidima rada za 1992.godinu. | [`odluka/1992/295118/`](odluka/1992/295118/) | in force | 1 | 1992-06-24 | 1992-06-24 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne ,invalidske i porodične penzije za mjesec mart 1992.godine . | [`odluka/1992/295156/`](odluka/1992/295156/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec februar 1992.godine. | [`odluka/1992/295158/`](odluka/1992/295158/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec mart 1992.godine. | [`odluka/1992/295216/`](odluka/1992/295216/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o izmjenama idopunama Odluke o organizovanju ustanova u oblasti kulture. | [`odluka/1992/295220/`](odluka/1992/295220/) | in force | 1 | 1992-01-21 | 1992-01-21 |
+| Odluka o visini naknade za upotrebu puteva koja se plaća za drumska motorna i njihova priključna vozila . | [`odluka/1992/295389/`](odluka/1992/295389/) | in force | 1 | 1992-02-21 | 1992-02-21 |
+| Odluka o najvišem iznosu penzije za mjesec januar 1992 godine. | [`odluka/1992/295572/`](odluka/1992/295572/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec januar 1992.godine. | [`odluka/1992/295617/`](odluka/1992/295617/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka U br.56/91,od 20.februara 1992.godine. | [`odluka/1992/295785/`](odluka/1992/295785/) | in force | 1 | 1992-04-18 | 1992-04-18 |
+| Odluka o utvrđivanju najnižeg iznosa penzije. | [`odluka/1992/295790/`](odluka/1992/295790/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne, invalidske i porodične penzije za mjesec februar 1992.godine . | [`odluka/1992/295826/`](odluka/1992/295826/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o uslovima za organizovanje prigodne lutrije , tombole i robnonovčane lutrije. | [`odluka/1992/295902/`](odluka/1992/295902/) | in force | 1 | 1992-04-07 | 1992-04-07 |
+| Odluka o usklađivanju penzija sa rastom prosječne plate po radniku u januaru 1992.godine.(preindeksacija) | [`odluka/1992/295908/`](odluka/1992/295908/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec mart 1992.godine. | [`odluka/1992/295910/`](odluka/1992/295910/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o najvišem iznosu penzije. | [`odluka/1992/295973/`](odluka/1992/295973/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o valorizacionim koeficijentima za valorizaciju ličnih dohodaka iz ranijih godina koji ulaze u penzijski osnov prema nivou ličnih dohodaka iz 1991.godine. | [`odluka/1992/296128/`](odluka/1992/296128/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o kreditnoj i deviynoj politici RCG u 1992. godini. | [`odluka/1992/296246/`](odluka/1992/296246/) | in force | 1 | 1992-04-23 | 1992-04-23 |
+| Odluka o dioničarstvu Vlade Republike Crne Gore u Holding ,,Radoje Dakić''-Podgorica. | [`odluka/1992/296291/`](odluka/1992/296291/) | in force | 1 | 1992-06-08 | 1992-06-08 |
+| Odluka o utvrđivanju visine procenta za usklađivanje novčanuih naknada za mjesec februar 1992.godine. | [`odluka/1992/296497/`](odluka/1992/296497/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o utvrđivanju dodatka za pomoć i njegu za1992.godinu. | [`odluka/1992/296577/`](odluka/1992/296577/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o organizovanju regionalnog zavoda za zaštitu spomenika kulture. | [`odluka/1992/296611/`](odluka/1992/296611/) | in force | 1 | 1992-02-29 | 1992-02-29 |
+| Odluka o osnivanju Javnog preduzeća za upravljanje morskim dobrom, | [`odluka/1992/296633/`](odluka/1992/296633/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o energetskom bilansu Crne Gore za 1992.godinu. | [`odluka/1992/296641/`](odluka/1992/296641/) | in force | 1 | 1992-02-22 | 1992-02-22 |
+| Odluka o usklađivanju novčanih naknada sa rastom prosječne plate po radniku u januaru 1992.godine(preindeksacija) | [`odluka/1992/296645/`](odluka/1992/296645/) | in force | 1 | 1992-04-03 | 1992-04-03 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec mart 1992.godine. | [`odluka/1992/297267/`](odluka/1992/297267/) | in force | 1 | 1992-06-17 | 1992-06-17 |
+| Odluka o povećanju sredstava koja izdvajaju elektroprivredna preduzeća koja koriste hidroakumulacione objekte. | [`odluka/1992/344850/`](odluka/1992/344850/) | in force | 1 | 1992-04-23 | 1992-04-23 |
+| Odluka o izmjeni Odluke o visini naknada iz kojih se finansira izvršavanje poslova i zadataka Republičkog društvenog fonda za geološka istraživanja. | [`odluka/1992/344888/`](odluka/1992/344888/) | in force | 1 | 1992-04-22 | 1992-04-22 |
+| Odluka o određivanju iznosa materijalnog obezbjeđenja udovice. | [`odluka/1992/344913/`](odluka/1992/344913/) | in force | 1 | 1992-04-10 | 1992-04-10 |
+| Odluka o izmjenamaOdluke o privremenom finansiranju opštih,društvenih i zajedničkih potreba koje se zadovoljavaju na nivou Republike Crne Gore za period od 21.januara do 31.marta 1992.godine. | [`odluka/1992/345346/`](odluka/1992/345346/) | in force | 1 | 1992-04-04 | 1992-04-04 |
 | Odluka o listi ljekova koji se mogu propisivati i izdavati na teret sredstava Republičkog fonda za zdravstvo. | [`odluka/1992/348084/`](odluka/1992/348084/) | in force | 1 | 1992-05-28 | 1992-05-28 |
 | Odluka o izmjenama i dopunama Odluke o osnivanju centra za socijalni rad u SRCG. | [`odluka/1992/348501/`](odluka/1992/348501/) | amending act | 1 | 1992-03-07 | 1992-03-07 |
 | Odluka o povećanju sredstava koja izdvajaju elektroprivredna preduzeća koja koriste hidroakumulacione objekte. | [`odluka/1992/349429/`](odluka/1992/349429/) | in force | 1 | 1992-05-28 | 1992-05-28 |
@@ -818,6 +860,28 @@
 | Odluka o visini naknade za upotrebu puteva koja se plaća za drumska motorna i njihova priključna vozila. | [`odluka/1992/349946/`](odluka/1992/349946/) | in force | 1 | 1992-05-09 | 1992-05-09 |
 | Odluka o dioničarstvu Vlade Republike Crne Gore u Holding ,,Obod''-Cetinje | [`odluka/1992/350071/`](odluka/1992/350071/) | in force | 1 | 1992-06-08 | 1992-06-08 |
 | Odluka o privremenom finansiranju opštih društvenih i određenih zajedničkih potreba koje se zadovoljavaju na nivou Republike Crne Gore. | [`odluka/1992/350112/`](odluka/1992/350112/) | in force | 1 | 1992-01-28 | 1992-01-28 |
+| Odluka o broju studenata za upis u I godinu studija na univerzitetskim jedinicama Univerziteta Crne Gore za školsku 1993/94. godinu | [`odluka/1993/291692/`](odluka/1993/291692/) | in force | 1 | 1993-06-18 | 1993-06-18 |
+| Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec oktobar 1993.godine. | [`odluka/1993/294418/`](odluka/1993/294418/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec oktobar 1993.godine. | [`odluka/1993/294570/`](odluka/1993/294570/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o bližim uslovima za ostvarivanje naknade za nabavku specijalnih pomagala za slijepa lica. | [`odluka/1993/294796/`](odluka/1993/294796/) | in force | 1 | 1994-01-07 | 1994-01-07 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzija za mjesec novembar 1993.godine. | [`odluka/1993/295176/`](odluka/1993/295176/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o utvrđivanju najniže plate za isplatu plata u periodu od 21. do30.novembra 1993.godine | [`odluka/1993/295690/`](odluka/1993/295690/) | in force | 1 | 1993-11-19 | 1993-11-19 |
+| Odluka o izmjeni i dopuni Odluke o dodatku na djecu | [`odluka/1993/295711/`](odluka/1993/295711/) | amending act | 1 | 1993-06-17 | 1993-06-17 |
+| Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec novembar 1993.godine. | [`odluka/1993/295750/`](odluka/1993/295750/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne , invalidske i porodične penzije za mjesec oktobar 1993.godine. | [`odluka/1993/296206/`](odluka/1993/296206/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o valorizaciji katastarskog prihoda. | [`odluka/1993/296372/`](odluka/1993/296372/) | in force | 1 | 1993-12-30 | 1993-12-30 |
+| Odluka o visini naknade za upotrebu puteva koja se plaća za drumska motorna i njihova poriključna vozila. | [`odluka/1993/296629/`](odluka/1993/296629/) | in force | 1 | 1993-12-16 | 1993-12-16 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne ,invalidaske i porodične penzije za mjesec novembar 1993.godine. | [`odluka/1993/296657/`](odluka/1993/296657/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o privremenom finansiranju javnih rashoda iz Budžeta Republike za period od1.januara do 31.marta1994.godine. | [`odluka/1993/296807/`](odluka/1993/296807/) | in force | 1 | 1994-01-07 | 1994-01-07 |
+| Odluka o utvrđivanju visine procenta za usklađivanje visine novčanih naknada za mjesec oktobar 1993.godine. | [`odluka/1993/296887/`](odluka/1993/296887/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o uslovima i načinu davanja na korišćenje mineralnih sirovina . | [`odluka/1993/297153/`](odluka/1993/297153/) | in force | 1 | 1993-12-29 | 1993-12-29 |
+| Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec oktobar 1993. godine. | [`odluka/1993/297478/`](odluka/1993/297478/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec novembar 1993.godine. | [`odluka/1993/297749/`](odluka/1993/297749/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o dodjeli pozajmice pravnim licima po osnovu isplate naknade plata zaposlenih koji su u aprilu i maju 1993. godine bili na prinudnom odsustvu kao posledica primjene sankcija Savjeta bezbjednosti OUN | [`odluka/1993/298161/`](odluka/1993/298161/) | in force | 1 | 1993-06-22 | 1993-06-22 |
+| Odluka o tarifnim stavovima za prodaju električne energije na prenosnoj i distributivnoj mreži ,,Elektroprivrede Crne Gore''. | [`odluka/1993/298400/`](odluka/1993/298400/) | in force | 1 | 1993-12-03 | 1993-12-03 |
+| Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec novembar 1993.godine. | [`odluka/1993/301108/`](odluka/1993/301108/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o visini naknade za upotrebu puteva koja seplaća za drumska motorna i njihova priključna vozila. | [`odluka/1993/324201/`](odluka/1993/324201/) | in force | 1 | 1993-12-03 | 1993-12-03 |
+| Odluka o određivanju količina dizel goriva na koje se za potrebe preduzeća kojka obavljaju djelatnost održavanja čistoće u gradovima i naseljima plaća umanjeni porez na promet. | [`odluka/1993/325700/`](odluka/1993/325700/) | in force | 1 | 1993-12-24 | 1993-12-24 |
 | Odluka o povećanju sredstava koja izdvajaju elektroprivredna preduzeća koja koriste hidroakumulacione objekte. | [`odluka/1993/348534/`](odluka/1993/348534/) | in force | 1 | 1993-12-24 | 1993-12-24 |
 | Odluka o utvrđivanju iznosa posebne nagrade za rad u radnom tijelu Skupštine Republike Crne gore. | [`odluka/1993/348892/`](odluka/1993/348892/) | in force | 1 | 1993-12-29 | 1993-12-29 |
 | Odluka o privremenom finansiranju za period januar-mart 1994.godine. | [`odluka/1993/348893/`](odluka/1993/348893/) | in force | 1 | 1993-12-29 | 1993-12-29 |
@@ -825,6 +889,65 @@
 | Odluka o izmjenama Odluke o uslovima i načinu korišćenja sredstava za stimulisanje kadrova | [`odluka/1993/349264/`](odluka/1993/349264/) | in force | 1 | 1993-06-22 | 1993-06-22 |
 | Odluka o povećanju sredstava koja izdvajaju elektroprivredna preduzeća koja koriste hidroakumulacione objekte. | [`odluka/1993/349707/`](odluka/1993/349707/) | in force | 1 | 1993-12-31 | 1993-12-31 |
 | ZAVOD ZA ZAPOŠLJAVANJE CRNE GORE Odluka o visini novčane naknade za korisnike-nezaposlena lica. | [`odluka/1993/349859/`](odluka/1993/349859/) | in force | 1 | 1993-12-02 | 1993-12-02 |
+| Odluka o valorizaciji iznosa učešća osiguranika u troškonima korišćenja zdravstvene zaštite za učešća utvrđena u apsolutnim odnosima | [`odluka/1994/291669/`](odluka/1994/291669/) | in force | 1 | 1994-01-24 | 1994-01-24 |
+| Odluka o izmjenama i dopunama Odluke o organizovanju Javne ustanova za vaspitanje djece i omladine | [`odluka/1994/291715/`](odluka/1994/291715/) | amending act | 1 | 1994-02-03 | 1994-02-03 |
+| Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec januar 1994. godine | [`odluka/1994/291778/`](odluka/1994/291778/) | in force | 1 | 1994-04-03 | 1994-04-03 |
+| Odluka o dodjeli pozajmice pravnim licima na osnovu isplate garantovanih zarada odnosno naknada zarada zaposlenih | [`odluka/1994/291854/`](odluka/1994/291854/) | in force | 1 | 1994-05-07 | 1994-05-07 |
+| Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec april 1994. godine | [`odluka/1994/294459/`](odluka/1994/294459/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec april 1994. godine | [`odluka/1994/294477/`](odluka/1994/294477/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec februar 1994. godine | [`odluka/1994/294633/`](odluka/1994/294633/) | in force | 1 | 1994-04-03 | 1994-04-03 |
+| Odluka o dodjeli pozajmice pravnim licima po osnovu isplate garantovanih zarada, odnosno naknada zarada zaposlenih | [`odluka/1994/294637/`](odluka/1994/294637/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec februar 1994. godine | [`odluka/1994/294703/`](odluka/1994/294703/) | in force | 1 | 1994-04-03 | 1994-04-03 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne, invalidske i porodične penzije za mjesec maj 1994. godine | [`odluka/1994/294735/`](odluka/1994/294735/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne, invlaidske i porodične penzije za mjesec mart 1994. godine | [`odluka/1994/294736/`](odluka/1994/294736/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje novačnih naknada za mjesec mart 1994. godine | [`odluka/1994/294863/`](odluka/1994/294863/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o rasporedu sredstava za finansiranje društvenih organizacija | [`odluka/1994/294943/`](odluka/1994/294943/) | in force | 1 | 1994-06-29 | 1994-06-29 |
+| Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec mart 1994. godine | [`odluka/1994/294979/`](odluka/1994/294979/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne, invalidske i porodične penzije za mjesec decembar 1993. godine | [`odluka/1994/295881/`](odluka/1994/295881/) | in force | 1 | 1994-03-11 | 1994-03-11 |
+| Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec maj 1994. godine | [`odluka/1994/295918/`](odluka/1994/295918/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o izdavanju blagajničkih zapisa | [`odluka/1994/296484/`](odluka/1994/296484/) | in force | 1 | 1994-05-16 | 1994-05-16 |
+| Odluka o preuzimanju upravljanja Republičkim zavodom za urbanizam i projektovanje Podgorica | [`odluka/1994/296490/`](odluka/1994/296490/) | in force | 1 | 1994-09-10 | 1994-09-10 |
+| Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec januar 1994. godine | [`odluka/1994/296493/`](odluka/1994/296493/) | in force | 1 | 1994-04-03 | 1994-04-03 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec maj 1994. godine | [`odluka/1994/296516/`](odluka/1994/296516/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec februar 1994. godine | [`odluka/1994/296556/`](odluka/1994/296556/) | in force | 1 | 1994-04-03 | 1994-04-03 |
+| Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec januar 1994. godine | [`odluka/1994/296585/`](odluka/1994/296585/) | in force | 1 | 1994-04-03 | 1994-04-03 |
+| Odluka o visini minimalne zarade i načinu obračuna zarada za korisnike javnih prihoda za avgust 1994. godine | [`odluka/1994/296586/`](odluka/1994/296586/) | in force | 1 | 1994-08-27 | 1994-08-27 |
+| Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec mart 1994. godine | [`odluka/1994/296621/`](odluka/1994/296621/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o utvrđivanju energetskog bilansa Crne Gore za II kvartal 1994. godine | [`odluka/1994/296787/`](odluka/1994/296787/) | in force | 1 | 1994-04-14 | 1994-04-14 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne, invalidske i porodične penzije za mjesec januar 1994. godine | [`odluka/1994/296793/`](odluka/1994/296793/) | in force | 1 | 1994-04-03 | 1994-04-03 |
+| Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec april 1994. godine | [`odluka/1994/296901/`](odluka/1994/296901/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o organizovanju NJP "Pobjeda" 3/43 | [`odluka/1994/296925/`](odluka/1994/296925/) | in force | 1 | 1994-01-27 | 1994-01-27 |
+| Odluka o utvrđivanju energetskog bilansa Crne Gore za III kvartal 1994. god | [`odluka/1994/296928/`](odluka/1994/296928/) | in force | 1 | 1994-08-27 | 1994-08-27 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne, invalidske i porodične penzije na mjesec april 1994. godine | [`odluka/1994/296985/`](odluka/1994/296985/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o osnivanju Javne ustanove Osnovne škole "Štampar Makarije" | [`odluka/1994/297057/`](odluka/1994/297057/) | in force | 1 | 1994-04-13 | 1994-04-13 |
+| Odluka o obrazovanju, djelokrugu i sastavu Komisije za prikupljanje informacija o razmjeni ratnih zarobljenika pripadnika JNA - građana RCG koji su zarobljeni od strane pripadnika Vojske Republike Hrvatske u toku oružanih sukoba 1991. i 1992. godine | [`odluka/1994/297070/`](odluka/1994/297070/) | in force | 1 | 1994-01-27 | 1994-01-27 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec januar 1994. godine | [`odluka/1994/297139/`](odluka/1994/297139/) | in force | 1 | 1994-04-03 | 1994-04-03 |
+| Odluka o izmjenama i dopunama Odluke o organizovanju Javne ustanove za smještaj djece i omladine ometene u razvoju | [`odluka/1994/297211/`](odluka/1994/297211/) | amending act | 1 | 1994-02-03 | 1994-02-03 |
+| Odluka o utvrđivanju uslova i postupku za davanje društvenih pašnjaka za korišćenje | [`odluka/1994/297352/`](odluka/1994/297352/) | in force | 1 | 1994-05-17 | 1994-05-17 |
+| Odluka o visini minimalne zarade i načinu obračuna zarada za korisnike javnih prihoda za septembar 1994. godine | [`odluka/1994/297378/`](odluka/1994/297378/) | in force | 1 | 1994-09-30 | 1994-09-30 |
+| Odluka o izmjeni Odluke o utvrđivanju najnižeg iznosa novačnih naknada iz čl. 37-b, tačka 1-3 Zakona o osnovnim pravima iz PIO | [`odluka/1994/297412/`](odluka/1994/297412/) | in force | 1 | 1994-04-10 | 1994-04-10 |
+| Odluka o osnivanju Javne ustanove Osnovna škola "Pavle Rovinski" | [`odluka/1994/297413/`](odluka/1994/297413/) | in force | 1 | 1994-04-13 | 1994-04-13 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne, invalidske i porodične penzije za mjesec februar 1994. godine | [`odluka/1994/297416/`](odluka/1994/297416/) | in force | 1 | 1994-04-03 | 1994-04-03 |
+| Odluka ovisini minimalne zarade i načinu obračuna zarada za korisnike javnih prihoda za mjesec april 1994. godine | [`odluka/1994/297420/`](odluka/1994/297420/) | in force | 1 | 1994-05-07 | 1994-05-07 |
+| Odluka o povećanju sredstava koja JEP "Elektroprivreda Crne Gore" izdvaja po osnovu korišćenja hidroakumulacionih objekata | [`odluka/1994/297504/`](odluka/1994/297504/) | in force | 1 | 1994-02-15 | 1994-02-15 |
+| Odluka o utvrđivanju procenta za usklađivanje najvišeg iznosa penzije za mjesec decembar 1993. godine | [`odluka/1994/297575/`](odluka/1994/297575/) | in force | 1 | 1994-03-11 | 1994-03-11 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec mart 1994. godine | [`odluka/1994/297608/`](odluka/1994/297608/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje novačnih naknada za mjesec maj 1994. godine | [`odluka/1994/297615/`](odluka/1994/297615/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec decembar 1993. godine | [`odluka/1994/297794/`](odluka/1994/297794/) | in force | 1 | 1994-03-11 | 1994-03-11 |
+| Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec decembar 1993. godine | [`odluka/1994/297825/`](odluka/1994/297825/) | in force | 1 | 1994-03-11 | 1994-03-11 |
+| Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec februar 1994. godine | [`odluka/1994/297828/`](odluka/1994/297828/) | in force | 1 | 1994-04-03 | 1994-04-03 |
+| Odluka o utvrđivanju prosječnih cijena poljoprivrednih i šumskih proizvoda koje su osnov za utvrđivanje katastarskog prihoda | [`odluka/1994/297886/`](odluka/1994/297886/) | in force | 1 | 1994-06-24 | 1994-06-24 |
+| Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec decembar 1993. godine | [`odluka/1994/298630/`](odluka/1994/298630/) | in force | 1 | 1994-03-11 | 1994-03-11 |
+| Odluka o energetskom bilansu Crne Gore za I kvartal 1994. godine sa projekcijom do kraja godine | [`odluka/1994/299183/`](odluka/1994/299183/) | in force | 1 | 1994-01-25 | 1994-01-25 |
+| Odluka o izmjenama i dopunama Odluke o organizovanju Javne ustanove za smještaj penzionera i drugih starih lica | [`odluka/1994/324100/`](odluka/1994/324100/) | amending act | 1 | 1994-02-03 | 1994-02-03 |
+| Odluka o utvrđivanju osnovice i stope za obračun članskog doprinosa Zadružnom savezu CG za 1994. godinu | [`odluka/1994/324284/`](odluka/1994/324284/) | in force | 1 | 1994-05-06 | 1994-05-06 |
+| Odluka o organizovanju Javne ustanove "Mauzolej Petra II Petrovića Njegoša | [`odluka/1994/332903/`](odluka/1994/332903/) | in force | 1 | 1994-08-11 | 1994-08-11 |
+| Odluka o ponećanju sredstava koja JEP "Elektroprinreda Crne Gore" izdvaja po osnovu korišćenja hidroakumulacionih objekata | [`odluka/1994/344935/`](odluka/1994/344935/) | in force | 1 | 1994-04-23 | 1994-04-23 |
+| Odluka o izmjeni i dopuni Odluke o rješavanju stambenih potreba republičkih funkcionera | [`odluka/1994/344936/`](odluka/1994/344936/) | amending act | 1 | 1994-04-23 | 1994-04-23 |
+| Odluka o postupnom ukidanju Odejeka za razrednu nastavu Filozofskog fakulteta u Nikšiću | [`odluka/1994/345137/`](odluka/1994/345137/) | in force | 1 | 1994-04-10 | 1994-04-10 |
+| Odluka o osnovicama i stopi doprinosa za produženo osiguranje | [`odluka/1994/345139/`](odluka/1994/345139/) | in force | 1 | 1994-04-10 | 1994-04-10 |
+| Odluka o uslovima, kriterijumima i postupku dodjele pozajmica nedostajućih sredstava za isplatu garantonanih zarada, odnosno naknada zaposlenih koji su upućeni na prinudio odsustvo | [`odluka/1994/345386/`](odluka/1994/345386/) | in force | 1 | 1994-03-18 | 1994-03-18 |
+| Odluka o proizvodima koji se koriste u zdravstvu na koje se ne plaća opšti porez na promet i na koje se opšti porez na promet plaća po nižoj stopi | [`odluka/1994/345387/`](odluka/1994/345387/) | in force | 1 | 1994-03-17 | 1994-03-17 |
 | Odluka o izmjeni Odluke o ograničenju prometa naftnih derivata | [`odluka/1994/348036/`](odluka/1994/348036/) | in force | 1 | 1994-01-24 | 1994-01-24 |
 | Odluka o visini minimalne zarade i načinu obračuna zarada za korisnike javnih prihoda za mjesec maj 1994. godine | [`odluka/1994/348082/`](odluka/1994/348082/) | in force | 1 | 1994-06-03 | 1994-06-03 |
 | Odluka o načinu obračuna zarada zaposlenih za čije isplate se sredstva obezbjeđuju iz javnih prihoda za mjesec februar 1994. godine | [`odluka/1994/348160/`](odluka/1994/348160/) | in force | 1 | 1994-03-11 | 1994-03-11 |
@@ -839,6 +962,80 @@
 | Odluka o korišćenju i načinu plaćanja troškova prevoza za učenike, studente, radnike i službenike koji se finansiraju iz Budžeta i Fonda zdravstva Republike Crne Gore | [`odluka/1994/349253/`](odluka/1994/349253/) | in force | 1 | 1994-02-03 | 1994-02-03 |
 | Odluka o izmjenama Odluke o visini naknade za izdavanje, prenos i produženje uvjerenja o zdravstvenom stanju životinja | [`odluka/1994/349465/`](odluka/1994/349465/) | in force | 1 | 1994-05-24 | 1994-05-24 |
 | Odluka o preuzimanju upravljanja Preduzećem "Bjelasica" - Bijelo Polje | [`odluka/1994/349911/`](odluka/1994/349911/) | in force | 1 | 1994-08-26 | 1994-08-26 |
+| Odluka o utvrđivanju Energetskog bilansa Crne Gore za 1996. godinu | [`odluka/1995/291644/`](odluka/1995/291644/) | in force | 1 | 1995-12-30 | 1995-12-30 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u junu 1995. godine u odnosu na maj 1995. godine | [`odluka/1995/291760/`](odluka/1995/291760/) | in force | 1 | 1995-10-30 | 1995-10-30 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u junu i julu 1995. godine | [`odluka/1995/292067/`](odluka/1995/292067/) | in force | 1 | 1995-10-30 | 1995-10-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec novembar 1994 | [`odluka/1995/294439/`](odluka/1995/294439/) | in force | 1 | 1995-01-10 | 1995-01-10 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u oktobru 1995. godine u odnosu na avgust 1995. godine | [`odluka/1995/294472/`](odluka/1995/294472/) | in force | 1 | 1996-01-04 | 1996-01-04 |
+| Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec januar 1995. godine | [`odluka/1995/294484/`](odluka/1995/294484/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o usklađivacu najvišeg iznosa penzije prema kretanju zarada (plata) u junu i julu 1995. godine | [`odluka/1995/294609/`](odluka/1995/294609/) | in force | 1 | 1995-10-30 | 1995-10-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec maj 1995. godine | [`odluka/1995/294811/`](odluka/1995/294811/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o utvrđivanju prosječnih cijena poljoprivrednih i šumskih proizvoda koje su osnov za utvrđivanje katastarskog prihoda | [`odluka/1995/294835/`](odluka/1995/294835/) | in force | 1 | 1995-10-22 | 1995-10-22 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u oktobru 1995. godine u odnosu na avgust 1995. godine | [`odluka/1995/294875/`](odluka/1995/294875/) | in force | 1 | 1996-01-04 | 1996-01-04 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u novembru 1995. godine u odnosu na oktobar 1995. godine | [`odluka/1995/295083/`](odluka/1995/295083/) | in force | 1 | 1996-01-04 | 1996-01-04 |
+| Odluka o valorizacionim koeficijentima za valorizaciju zarada iz ranijih godina koji ulaze u penzijski osnov prema nivou zarada iz 1994. godine | [`odluka/1995/295142/`](odluka/1995/295142/) | in force | 1 | 1995-04-08 | 1995-04-08 |
+| Odluka o dopuni Programa preventivne stomatološke zaštite stanovnika Crne Gore | [`odluka/1995/295215/`](odluka/1995/295215/) | amending act | 1 | 1995-11-18 | 1995-11-18 |
+| Odluka o pristupanju izradi DUP-a "Buljarica" | [`odluka/1995/295283/`](odluka/1995/295283/) | in force | 1 | 1995-12-23 | 1995-12-23 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u novembru 1995. godine u odnosu na oktobar 1995. godine | [`odluka/1995/295286/`](odluka/1995/295286/) | in force | 1 | 1996-01-04 | 1996-01-04 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u novembru 1995. godine u odnosu na oktobar 1995. godine | [`odluka/1995/295400/`](odluka/1995/295400/) | in force | 1 | 1996-01-04 | 1996-01-04 |
+| Odluka o utvrđivanju Rebalansa energetskog bilansa Crne Gore za IV kvartal 1995. godine | [`odluka/1995/295402/`](odluka/1995/295402/) | in force | 1 | 1995-11-25 | 1995-11-25 |
+| Odluka o izmjenama Odluke o ograničenju prometa naftnih derivata | [`odluka/1995/295403/`](odluka/1995/295403/) | in force | 1 | 1995-11-07 | 1995-11-07 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u avgustu 1995. godine u odnosu na jul 1995. godine | [`odluka/1995/295435/`](odluka/1995/295435/) | in force | 1 | 1995-10-30 | 1995-10-30 |
+| Odluka o kriterijumima za uvođenje dežurstva i pripravnosti u zdravstvenim ustanovama Republike | [`odluka/1995/295512/`](odluka/1995/295512/) | in force | 1 | 1995-02-20 | 1995-02-20 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u avgustu 1995. godine u odnosu na jul 1995. godine | [`odluka/1995/295518/`](odluka/1995/295518/) | in force | 1 | 1995-10-30 | 1995-10-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec februar 1995. godine | [`odluka/1995/295552/`](odluka/1995/295552/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o preuzimanju upravljanja građevinskim preduzećem "Primorje" Ulcinj | [`odluka/1995/295588/`](odluka/1995/295588/) | in force | 1 | 1995-01-10 | 1995-01-10 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u oktobru 1995. godine u odnosu na avgust 1995. godine | [`odluka/1995/295682/`](odluka/1995/295682/) | in force | 1 | 1996-01-04 | 1996-01-04 |
+| Odluka o dokupu staža | [`odluka/1995/295771/`](odluka/1995/295771/) | in force | 1 | 1996-01-04 | 1996-01-04 |
+| Odluka o izmjenama i dopunama Statuta Republičkog fonda za zdravstvo | [`odluka/1995/295990/`](odluka/1995/295990/) | amending act | 1 | 1995-11-18 | 1995-11-18 |
+| Odluka o dodjeli pozajmice pravnim licima po osnovu isplate garantovanih zarada, odnosno naknada zarada zaposlenih koji su na prinudnom odsustvu | [`odluka/1995/296023/`](odluka/1995/296023/) | in force | 1 | 1995-01-10 | 1995-01-10 |
+| Odluka o utvrđivanju Energetskog bilansa Crne Gore za 1995. godinu | [`odluka/1995/296080/`](odluka/1995/296080/) | in force | 1 | 1995-02-03 | 1995-02-03 |
+| Odluka o osnivanju Srednje škole unutrašnjih poslova | [`odluka/1995/296186/`](odluka/1995/296186/) | in force | 1 | 1995-12-15 | 1995-12-15 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u novembru 1995. godine u odnosu na oktobar 1995. godine | [`odluka/1995/296191/`](odluka/1995/296191/) | in force | 1 | 1996-01-04 | 1996-01-04 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u julu 1995. godine u odnosu na jun 1995. godine | [`odluka/1995/296324/`](odluka/1995/296324/) | in force | 1 | 1995-10-30 | 1995-10-30 |
+| Odluka o dodjeli pozajmice pravnim licima po osnovu isplate garantovanih zarada, odnosno naknada zarada zaposlenih koji su na prinudnom odsustvu | [`odluka/1995/296563/`](odluka/1995/296563/) | in force | 1 | 1995-04-27 | 1995-04-27 |
+| Odluka o dodjeli pozajmice pravnim licima po osnovu isplate garantovanih zarada, odnosno naknade zarada zaposlenih koji su na prinudnom odsustvu | [`odluka/1995/296567/`](odluka/1995/296567/) | in force | 1 | 1995-03-08 | 1995-03-08 |
+| Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec februar 1995. godine | [`odluka/1995/296869/`](odluka/1995/296869/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o usklađivanju penzija sa rastom prosječne zarade po radniku u januaru 1995. godine (preindeksacija) | [`odluka/1995/297228/`](odluka/1995/297228/) | in force | 1 | 1995-04-08 | 1995-04-08 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne, invalidske i porodične penzije za mjesec novembar 1994. godine | [`odluka/1995/297520/`](odluka/1995/297520/) | in force | 1 | 1995-01-10 | 1995-01-10 |
+| Odluka o utvrđivanju visine procentra za usklađivanje novčanih naknada prema kretanju zarade (plate) za mjesec decembar 1994. godine u odnosu na novembar 1994. godine | [`odluka/1995/298968/`](odluka/1995/298968/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o kupovini osnivačkih dionica Hipotekarne banke DD - Podgorica | [`odluka/1995/298995/`](odluka/1995/298995/) | in force | 1 | 1995-02-21 | 1995-02-21 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u oktobru 1995. godine u odnosu na avgust 1995. godine | [`odluka/1995/299321/`](odluka/1995/299321/) | in force | 1 | 1996-01-04 | 1996-01-04 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne, invalidske i porodične penzije za mjesec maj 1995. godine | [`odluka/1995/299330/`](odluka/1995/299330/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u junu i julu 1995. godine | [`odluka/1995/299339/`](odluka/1995/299339/) | in force | 1 | 1995-10-30 | 1995-10-30 |
+| Odluka o utvrđivanju osnovice za penzijsko i invalidsko osiguranje za sveštenike i vjerske službenike, samostalne umjetnike, samostalne radnike u oblasti kulture i vrhunske sportiste | [`odluka/1995/299959/`](odluka/1995/299959/) | in force | 1 | 1995-03-15 | 1995-03-15 |
+| Odluka o prihvatanju Ugovora o osnivanju Jugobanke - akcionarskog društva - Podgorica | [`odluka/1995/300816/`](odluka/1995/300816/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o kupovini III emisije Podgoričke banke - dd Podgorica | [`odluka/1995/300827/`](odluka/1995/300827/) | in force | 1 | 1995-07-01 | 1995-07-01 |
+| Odluka o usklađivanju novačnih naknada sa rastom prosječne zarada po radniku u januaru 1995. godine (preindeksacija) | [`odluka/1995/300997/`](odluka/1995/300997/) | in force | 1 | 1995-04-08 | 1995-04-08 |
+| Odluka o broju studenata za upis u I godinu studija na univerzitetskim jedinicama Univerziteta Crne Gore za školsku 1995/96. godinu | [`odluka/1995/301015/`](odluka/1995/301015/) | in force | 1 | 1995-05-23 | 1995-05-23 |
+| Odluka o utvrđivanju osnovice i stope za obračun članskog doprinosa za Privrednu komoru Crne Gore za 1996. godinu | [`odluka/1995/301016/`](odluka/1995/301016/) | in force | 1 | 1995-12-27 | 1995-12-27 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u avgustu 1995. godine u odnosu na jul 1995. godine | [`odluka/1995/301171/`](odluka/1995/301171/) | in force | 1 | 1995-10-30 | 1995-10-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec maj 1995. godine | [`odluka/1995/301214/`](odluka/1995/301214/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec maj 1995. godine | [`odluka/1995/301217/`](odluka/1995/301217/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec maj 1995. godine | [`odluka/1995/301270/`](odluka/1995/301270/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u avgustu 1995. godine u odnosu na jul 1995. godine | [`odluka/1995/301441/`](odluka/1995/301441/) | in force | 1 | 1995-10-30 | 1995-10-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec januar 1995. godine | [`odluka/1995/301442/`](odluka/1995/301442/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u avgustu 1995. godine u odnosu na jul 1995. godine | [`odluka/1995/301444/`](odluka/1995/301444/) | in force | 1 | 1995-10-30 | 1995-10-30 |
+| Odluka o usvajanju Pravilnika o posredovanju pri zapošljavanju | [`odluka/1995/301664/`](odluka/1995/301664/) | in force | 1 | 1995-08-18 | 1995-08-18 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u oktobru 1995. godine u odnosu na avgust 1995. godine | [`odluka/1995/301667/`](odluka/1995/301667/) | in force | 1 | 1996-01-04 | 1996-01-04 |
+| Odluka o pristupanju izradi Urbanističkog projekta "Kompleks groblja" | [`odluka/1995/301671/`](odluka/1995/301671/) | in force | 1 | 1995-12-23 | 1995-12-23 |
+| Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec novembar 1994. godine | [`odluka/1995/301700/`](odluka/1995/301700/) | in force | 1 | 1995-01-10 | 1995-01-10 |
+| Odluka o dodjeli pozajmice pravnim licima po osnovu isplate garantovanih zarada, odnosno naknada zarada zaposlenih koji su na prinudnom odsustvu | [`odluka/1995/323959/`](odluka/1995/323959/) | in force | 1 | 1995-06-10 | 1995-06-10 |
+| Odluka o dodjeli pozajmice pravnim licima po osnovu isplate garantovanih zarada, odnosno naknade zarada zaposlenih koji su na prinudnom odsustvu | [`odluka/1995/324090/`](odluka/1995/324090/) | in force | 1 | 1995-04-01 | 1995-04-01 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u novembru 1995. godine u odnosu na oktobar 1995. godine | [`odluka/1995/324276/`](odluka/1995/324276/) | in force | 1 | 1996-01-04 | 1996-01-04 |
+| Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec februar 1995. godine | [`odluka/1995/324926/`](odluka/1995/324926/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o prihvatanju ugovora o davanju koncesija za eksploataciju mineralnih sirovina | [`odluka/1995/324949/`](odluka/1995/324949/) | in force | 1 | 1995-01-09 | 1995-01-09 |
+| Odluka o najvišem iznosu penzije za mjesec januar 1995. godine | [`odluka/1995/325068/`](odluka/1995/325068/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o određivanju novčane pomoći licima koja se nalaze na evidenciji Zavoda za zapošljavanje zbog stečaja, odnosno likvidacije preduzeća kojima je pravo na naknadu prestalo u vrijeme trajanja sankcija Savjeta bezbjednosti OUN | [`odluka/1995/325101/`](odluka/1995/325101/) | in force | 1 | 1995-06-09 | 1995-06-09 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u junu 1995. godine u odnosu na maj 1995. godine | [`odluka/1995/325111/`](odluka/1995/325111/) | in force | 1 | 1995-10-30 | 1995-10-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec februar 1995. godine | [`odluka/1995/325263/`](odluka/1995/325263/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne, invalidske i porodične penzije za mjesec februar 1995. godine | [`odluka/1995/325308/`](odluka/1995/325308/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o usklađivanju novčanih naknada prema. kretanju zarada (plata) u julu 1995. godine u odnosu na jun 1995. godine | [`odluka/1995/325309/`](odluka/1995/325309/) | in force | 1 | 1995-10-30 | 1995-10-30 |
+| Odluka o stavljanju van snage Odluke o ograničenju prometa naftnih derivata | [`odluka/1995/333455/`](odluka/1995/333455/) | in force | 1 | 1995-12-15 | 1995-12-15 |
+| Odluka o korišćenju reprezentativnih objekata Republike Crne Gore | [`odluka/1995/344915/`](odluka/1995/344915/) | in force | 1 | 1995-04-22 | 1995-04-22 |
+| Odluka o određivanju novčane pomoći licima koja se nalaze na evidenciji Zavoda za zapošljavanje zbog stečaja, odnosno likvidacije preduzeća kojima je pravo na naknadu prestalo u vrijeme trajanja sankcija Savjeta bezbjednosti OUN | [`odluka/1995/345130/`](odluka/1995/345130/) | in force | 1 | 1995-03-31 | 1995-03-31 |
+| Odluka o visini sredstava koja JEP "Elektroprivreda Crne Gore" izdvaja po osnovu korišćenja hidroakumulacionih objekata | [`odluka/1995/345341/`](odluka/1995/345341/) | in force | 1 | 1995-04-15 | 1995-04-15 |
+| Odluka o osnivanju Preduzeća za ugostiteljstvo i turizam "Miločer" | [`odluka/1995/345483/`](odluka/1995/345483/) | in force | 1 | 1995-03-28 | 1995-03-28 |
 | Odluka o visini minimalne zarade i načinu obračuna zarada za korisnike javnih prihoda za jun 1995.godine | [`odluka/1995/348104/`](odluka/1995/348104/) | in force | 1 | 1995-07-15 | 1995-07-15 |
 | Odluka o visini naknade za vršenje kontrole u proizvodnji poljoprivrednog i šumskog sjemena i sadnog materijala | [`odluka/1995/348298/`](odluka/1995/348298/) | in force | 1 | 1995-12-23 | 1995-12-23 |
 | Odluka o prihvatanju Ugovora o davanju koncesija za istraživanje i eksploataciju nafte i gasa na kopnu i podmorju Crne Gore | [`odluka/1995/348592/`](odluka/1995/348592/) | in force | 1 | 1995-10-12 | 1995-10-12 |
@@ -855,6 +1052,80 @@
 | Odluka o valorizaciji iznosa učešća osiguranika u troškovima korišćenja zdravstvene zaštite za učešća utvrđena u apsolutnim iznosima | [`odluka/1995/349885/`](odluka/1995/349885/) | in force | 1 | 1995-11-11 | 1995-11-11 |
 | Odluka o raspisivanju izbora za članove Savjeta Republičkog fonda penzijskog i invalidskog osiguranja | [`odluka/1995/349949/`](odluka/1995/349949/) | in force | 1 | 1995-07-22 | 1995-07-22 |
 | Odluka o visini minimalpe zarede i načinu obračuna zarada za korisnike javnih prihoda za avgust 1995. godine | [`odluka/1995/349993/`](odluka/1995/349993/) | in force | 1 | 1995-09-02 | 1995-09-02 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u avgustu 1996. godine u odnosu na jun 1996. godine | [`odluka/1996/291759/`](odluka/1996/291759/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o izmjenama Poslovnika Skupštine Republike Crne Gore | [`odluka/1996/291775/`](odluka/1996/291775/) | in force | 1 | 1996-01-20 | 1996-01-20 |
+| Odluka o usklađivanju vajnižeg iznosa penzije prema kretanju zarada (plata) u septembru 1996. godine u odnosu na avgust 1996. godine | [`odluka/1996/291776/`](odluka/1996/291776/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u septembru 1996. godine u odnosu na avgust 1996. godine | [`odluka/1996/291803/`](odluka/1996/291803/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o usklađivanju penzija za osiguranike koji pravo na penziju ostvaruju u 1996. godini prema kretanju zarada (plata) u januaru 1996. godine u odnosu na 1995. godinu (preindeksacija) | [`odluka/1996/291811/`](odluka/1996/291811/) | in force | 1 | 1996-03-14 | 1996-03-14 |
+| Odluka o visini naknade za vršenje kontrole u proizvodnji poljoprivrednog i šumskog sjemena i sadnog materijala | [`odluka/1996/291812/`](odluka/1996/291812/) | in force | 1 | 1996-12-06 | 1996-12-06 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u februaru 1996. godine u odnosu na januar 1996. godine | [`odluka/1996/291851/`](odluka/1996/291851/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u aprilu 1996. godine u odnosu na mart 1996. godine | [`odluka/1996/294463/`](odluka/1996/294463/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u oktobru 1996. godine u odnosu na septembar 1996. godine | [`odluka/1996/294474/`](odluka/1996/294474/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u avgustu 1996. godine u odnosu na jun 1996. godine | [`odluka/1996/294501/`](odluka/1996/294501/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o usklađivanju dodataka za pomoć i njegu prema kretanju zarada (plata) u junu 1996. godine u odnosu na april 1996. godine | [`odluka/1996/294502/`](odluka/1996/294502/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o usklađivanju najnižeg iznosa penzija prema kretanju zarada (plata) u februaru 1996. godine u odnosu na januar 1996. godine | [`odluka/1996/294538/`](odluka/1996/294538/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u junu 1996. godine u odnosu na april 1996. godine | [`odluka/1996/294540/`](odluka/1996/294540/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u martu 1996. godine u odnosu na februar 1996. godine | [`odluka/1996/294572/`](odluka/1996/294572/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u septembru 1996. godine u odnosu na avgust 1996. godine | [`odluka/1996/294668/`](odluka/1996/294668/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o određivanju novčane pomoći licima koja se nalaze va evidenciji Zavoda za zapošljavanje zbog stečvja, odnosno lihvidacije preduzeća kojima je pravo na naknadu prestalo u vrijeme trajanja sankcija Savjeta bezbjednosti OUN | [`odluka/1996/294727/`](odluka/1996/294727/) | in force | 1 | 1996-01-12 | 1996-01-12 |
+| Odluka o utvrđivanju najnižeg iznosa penzije za mjesec januar 1996. godine | [`odluka/1996/294729/`](odluka/1996/294729/) | in force | 1 | 1996-03-14 | 1996-03-14 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u oktobru 1996. godine u odvosu na septembar 1996. godine | [`odluka/1996/294805/`](odluka/1996/294805/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o broju studenata za upis u I godinu studija na univerzitetskim jedinicama Univerziteta Crne Gore za školsku 1996/97 godinu | [`odluka/1996/294854/`](odluka/1996/294854/) | in force | 1 | 1996-06-13 | 1996-06-13 |
+| Odluka o raspisivanju izbora za odbornike skupština opština i poslanike Skupštine Republike Crne Gore | [`odluka/1996/294858/`](odluka/1996/294858/) | in force | 1 | 1996-07-27 | 1996-07-27 |
+| Odluka o usklađivanju dodataka za pomoć i njegu prema kretanju zarada (plata) u avgustu 1996. godine u odnosu na jun 1996. godine | [`odluka/1996/294861/`](odluka/1996/294861/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u junu 1996. godine u odnosu na april 1996. godine | [`odluka/1996/295011/`](odluka/1996/295011/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o dodjeli pozajnice po osnovu isplate garantovanih zarada, odnosno naknada zarada zaposlenih koji su na prinudnom odsustvu | [`odluka/1996/295042/`](odluka/1996/295042/) | in force | 1 | 1996-07-19 | 1996-07-19 |
+| Odluka o utvrđivanju osnovice i stope za obračun članskog doprinosa za Privrednu komoru Crne Gore za 1997. godinu | [`odluka/1996/295049/`](odluka/1996/295049/) | in force | 1 | 1996-12-27 | 1996-12-27 |
+| Odluka o Energetskom bilansu Crne Gore za 1997. godinu | [`odluka/1996/295050/`](odluka/1996/295050/) | in force | 1 | 1996-12-31 | 1996-12-31 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u martu 1996. godine u odnosu na februar 1996. godine | [`odluka/1996/295051/`](odluka/1996/295051/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u martu 1996. godine u odnosu na februar 1996. godine | [`odluka/1996/295056/`](odluka/1996/295056/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u februaru 1996. godine u odnosu na januar 1996. godine | [`odluka/1996/295080/`](odluka/1996/295080/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o upisu i uplati upravljačkih akcija Podgoričke banke A. D. - Podgorica | [`odluka/1996/295090/`](odluka/1996/295090/) | in force | 1 | 1996-05-01 | 1996-05-01 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u junu 1996. godive u odnosu na april 1996. godine | [`odluka/1996/295111/`](odluka/1996/295111/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o dodjeli pozajmice po osnovu isplate garantovavih zarada, odnosno naknada zarada zaposlenih koji su na prinudnom odsustvu | [`odluka/1996/295125/`](odluka/1996/295125/) | in force | 1 | 1996-05-01 | 1996-05-01 |
+| Odluka o utvrđivanju osnovice i stope za obračun članskog doprinosa Zadružnog saveza Crne Gore za 1996. godinu | [`odluka/1996/295161/`](odluka/1996/295161/) | in force | 1 | 1996-02-12 | 1996-02-12 |
+| Odluka o dodjeli pozajmice pravnim licima po osnovu isplate garantovnaih zarada, odnosno naknada zarada zaposlenih koji su na prinudnom odsustvu | [`odluka/1996/295466/`](odluka/1996/295466/) | in force | 1 | 1996-02-16 | 1996-02-16 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u avgustu 1996. godine u odnosu na jun 1996. godine | [`odluka/1996/295471/`](odluka/1996/295471/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o stavljanju van snage Odluke o preuzimanju upravljanja Preduzećem za drvnu industriju i trgovinu Donja Brezna | [`odluka/1996/295476/`](odluka/1996/295476/) | in force | 1 | 1996-03-28 | 1996-03-28 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u januaru 1996. godine u odnosu na decembar 1995. godine | [`odluka/1996/295728/`](odluka/1996/295728/) | in force | 1 | 1996-03-14 | 1996-03-14 |
+| Odluka o stavljanju van snage Odluke o preuzimanju upravljanja preduzeća "4. novembar" - Mojkovac | [`odluka/1996/295765/`](odluka/1996/295765/) | in force | 1 | 1996-07-28 | 1996-07-28 |
+| Odluka o osnivanju Preduzeća za reviziju računovodstvenih iskaza | [`odluka/1996/296043/`](odluka/1996/296043/) | in force | 1 | 1996-06-21 | 1996-06-21 |
+| Odluka o usklađivanju novčankh naknada prema kretanju zarada (plata) u junu 1996. godine u odnosu na april 1996. godine | [`odluka/1996/296073/`](odluka/1996/296073/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o isplati zimnice zaposlenim koji se finansiraju iz budžeta Republike | [`odluka/1996/296075/`](odluka/1996/296075/) | in force | 1 | 1996-11-01 | 1996-11-01 |
+| Odluka o uvrđivanju koeficijenata za valorizaciju zarada iz ranijih godina koje ulaze u penzijski osnov prema nivou zarada iz 1995. godine | [`odluka/1996/296255/`](odluka/1996/296255/) | in force | 1 | 1996-03-14 | 1996-03-14 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u aprilu 1996. godine u odnosu na mart 1996. godine | [`odluka/1996/296259/`](odluka/1996/296259/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u oktobru 1996. godine u odnosu na septembar 1996. godine | [`odluka/1996/296313/`](odluka/1996/296313/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o minimumu procesa rada za vrijeme štrajka u JP "Crnagoraput" | [`odluka/1996/296315/`](odluka/1996/296315/) | in force | 1 | 1996-11-22 | 1996-11-22 |
+| Odluka o usklađivanju novčanih naknadaprema kretanju zarada (plata) u januaru 1996. godine u odnosu na decembar 1995. godine | [`odluka/1996/296316/`](odluka/1996/296316/) | in force | 1 | 1996-03-14 | 1996-03-14 |
+| Odluka o dodjeli pozajmica po osnovu isplate garantovanih zarada, odnosno naknade zarada zaposlenih koji su na prinudnom odsustvu | [`odluka/1996/296326/`](odluka/1996/296326/) | in force | 1 | 1996-11-15 | 1996-11-15 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u februaru 1996. godine u odnosu na januar 1996. godine | [`odluka/1996/296329/`](odluka/1996/296329/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u aprilu 1996. godine u odnosu na mart 1996. godine | [`odluka/1996/296398/`](odluka/1996/296398/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o najvišem iznosu penzija za mjesec januar 1996. godine | [`odluka/1996/296400/`](odluka/1996/296400/) | in force | 1 | 1996-03-14 | 1996-03-14 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u oktobru 1996. godine u odnosu na septembar 1996. godine | [`odluka/1996/296402/`](odluka/1996/296402/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o usklađivanju najnižeg iznosa penzija prema kretanju zarada (plata) u avgustu 1996. godine u odnosu na jun 1996. godine | [`odluka/1996/296442/`](odluka/1996/296442/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u decembru 1995. godine u odnosu na novembar 1995. godine | [`odluka/1996/296570/`](odluka/1996/296570/) | in force | 1 | 1996-03-14 | 1996-03-14 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u oktobru 1996. godine u odnosu na septembar 1996. godine | [`odluka/1996/296571/`](odluka/1996/296571/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o visini i načinu plaćanja naknada za korišćenje dobara nacionalnih parkova, obavljanju djelatnosti i pružanju usluga u njima | [`odluka/1996/296664/`](odluka/1996/296664/) | in force | 1 | 1996-06-20 | 1996-06-20 |
+| Odluka o dodjeli pozajmice pravvim licima po osnovu isplate garantovanih zarada, odnosno naknada zarada zaposlenih koji su na prinudnom odsustvu | [`odluka/1996/296704/`](odluka/1996/296704/) | in force | 1 | 1996-03-28 | 1996-03-28 |
+| Odluka o kupovini upravljačkih akcija Hipotekarne banke A.D. - Podgorica | [`odluka/1996/296719/`](odluka/1996/296719/) | in force | 1 | 1996-02-24 | 1996-02-24 |
+| Odluka o usklađivanju novčanih naknada za osiguranike koji pravo na naknadu ostvaruju u 1998. godini prema kretanju zarada (plata) u januaru 1996. godine u odnosu na 1995. godinu (preindeksacija) | [`odluka/1996/296720/`](odluka/1996/296720/) | in force | 1 | 1996-03-14 | 1996-03-14 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u septembru 1996. godine u odnosu na avgust 1996. godine | [`odluka/1996/296723/`](odluka/1996/296723/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o usklađivanju penzija prema kretanju zarada(plata) u decembru 1995. godine u odnosu na novembar 1995. godine | [`odluka/1996/296764/`](odluka/1996/296764/) | in force | 1 | 1996-03-14 | 1996-03-14 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u martu 1996. godine u odnosu na februar 1996. godine | [`odluka/1996/296830/`](odluka/1996/296830/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o obezbjeđivanju sredstava za dokup penzijskog staža zaposlenim koji su iskazani kao tehno-ekonomski viškovi | [`odluka/1996/296834/`](odluka/1996/296834/) | in force | 1 | 1996-11-15 | 1996-11-15 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u septembru 1996. godine u odnosu na avgust 1996. godine | [`odluka/1996/296876/`](odluka/1996/296876/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o utvrđivanju dodatka na zarade nosilaca pravosudnih funkcija | [`odluka/1996/296904/`](odluka/1996/296904/) | in force | 1 | 1996-03-30 | 1996-03-30 |
+| Odluka o valorizaciji katastarskog prihoda | [`odluka/1996/296973/`](odluka/1996/296973/) | in force | 1 | 1996-02-08 | 1996-02-08 |
+| Odluka o dodjeli pozajiice po osnovu isplate garantovnih zarada, odnosno naknada zarada zaposlenih koji su na prinudnom odsustvu | [`odluka/1996/296975/`](odluka/1996/296975/) | in force | 1 | 1996-06-29 | 1996-06-29 |
+| Odluka o usklađivanju dodataka za pomoć i njegu prema kretanju zarada (plata) u martu 1996. godine u odnosu na februar 1996. godine | [`odluka/1996/297290/`](odluka/1996/297290/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o usklađivanju najnižeg iznosa penzija prema kretanju zarada (plata) u aprilu 1996. godine u odnosu na mart 1996. godine | [`odluka/1996/297519/`](odluka/1996/297519/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o obezbjeđivanju dijela sredstava za isplatu zimnice zaposlenim kod poslodavaca koji iz sopstvenih sredstava nijesu u mogućvosti da izvrše isplatu zimnice | [`odluka/1996/323921/`](odluka/1996/323921/) | in force | 1 | 1996-02-24 | 1996-02-24 |
+| Odluka o dodatku za pomoć i njegu za mjesec januar 1996. godine | [`odluka/1996/324165/`](odluka/1996/324165/) | in force | 1 | 1996-03-14 | 1996-03-14 |
+| Odluka o davanju saglasnosti na cijene uglja za potrebe Termoelektrane "Pljevlja" | [`odluka/1996/324166/`](odluka/1996/324166/) | in force | 1 | 1996-01-31 | 1996-01-31 |
+| Odluka o prihvatanju Ugovora o prenošenju prava korišćenja vode sa izvorišta "Ropušica" | [`odluka/1996/344863/`](odluka/1996/344863/) | in force | 1 | 1996-04-09 | 1996-04-09 |
+| Odluka o stavljanju van snage Odluke o preuzimanju upravljanja GP "Primorje" Ulcinj | [`odluka/1996/344924/`](odluka/1996/344924/) | in force | 1 | 1996-05-01 | 1996-05-01 |
+| Odluka o utvrđivanju osnovica za penzijsko i invalidsko osiguranje za lica zapošljena u inostranstvu | [`odluka/1996/344939/`](odluka/1996/344939/) | in force | 1 | 1996-05-29 | 1996-05-29 |
+| Odluka o valorizaciji iznosa učešća osiguranika u troškovima korišćenja zdravstvene zaštite za učešća utvrđena u apsolutnim iznosima | [`odluka/1996/345292/`](odluka/1996/345292/) | in force | 1 | 1996-04-24 | 1996-04-24 |
 | Odluka o utvrđivanju broja igračnica za priređivanje igara na sreću i njihovom prostornom rasporedu | [`odluka/1996/348162/`](odluka/1996/348162/) | in force | 1 | 1996-03-28 | 1996-03-28 |
 | Odluka o ninimumu procesa rada za vrijene štrajka u Javnoj veterinarskoj ustanovi Crne Gore | [`odluka/1996/348331/`](odluka/1996/348331/) | in force | 1 | 1996-11-22 | 1996-11-22 |
 | Odluka o minimumu procesa rada za vrijeme štrajkau JP Željeznice Crne Gore | [`odluka/1996/348332/`](odluka/1996/348332/) | in force | 1 | 1996-11-22 | 1996-11-22 |
@@ -875,6 +1146,76 @@
 | Odluka o prihvatanju ugovora o prenošenju prava korišćenja vode sa izvorišta "Karuč" i "Volač" u Skadarskom jezeru | [`odluka/1996/364630/`](odluka/1996/364630/) | in force | 1 | 1996-10-13 | 1996-10-13 |
 | Odluke o prihvatanju ugovora o prenošenju prava na priređivanje klasičnih igara na sreću | [`odluka/1996/364651/`](odluka/1996/364651/) | in force | 1 | 1996-08-11 | 1996-08-11 |
 | Odluka o prihvatanju ugovora o davanju prava na eksploataciju mineralnih sirovina | [`odluka/1996/364731/`](odluka/1996/364731/) | in force | 1 | 1996-08-11 | 1996-08-11 |
+| Odluka o donošenju Prostornog plana Republike Crne Gore do 2000. godine sa integralnim tekstom prostornog plana | [`odluka/1997/291697/`](odluka/1997/291697/) | in force | 1 | 1997-06-06 | 1997-06-06 |
+| Odluka o utvrđivanju najvišeg iznosa penzije za januar 1997. godine | [`odluka/1997/294461/`](odluka/1997/294461/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u novembru 1997. godine u odnosu na oktobar 1997. god | [`odluka/1997/294550/`](odluka/1997/294550/) | in force | 1 | 1998-01-06 | 1998-01-06 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u avgustu 1997. godine u odnosu na jun 1997. godine | [`odluka/1997/294551/`](odluka/1997/294551/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju novčanih naknada za osiguranike koji pravo na naknadu ostvaruju u 1997. godini, prema kretanju zarada (plata) u januaru 1997. godine u odnosu na 1996. godinu (preindeksacija) | [`odluka/1997/294552/`](odluka/1997/294552/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada u (plata) u januaru 1997. godine u odnosu na decembar 1996. godine | [`odluka/1997/294589/`](odluka/1997/294589/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju penzija prema kretanju zarada ( plata ) u decembru 1996. godine u odnosu na oktobar 1996. godine | [`odluka/1997/294590/`](odluka/1997/294590/) | in force | 1 | 1997-03-14 | 1997-03-14 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u decembru 1996. godine u odnosu na oktobar 1996. godine | [`odluka/1997/294597/`](odluka/1997/294597/) | in force | 1 | 1997-03-14 | 1997-03-14 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u junu 1997. godine u odnosu na april 1997. godine | [`odluka/1997/294625/`](odluka/1997/294625/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u septembru 1997. godine u odnosu na avgust 1997. godine | [`odluka/1997/294700/`](odluka/1997/294700/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o određivanju visine odštete za uništene primjerke zaštićenih životinjskih i biljnih vrsta i vrsta divljači zaštićenih lovostajem, kao i njihovih gnijezda, legla, jaja i mladunaca, na prostoru nacionalnih parkova Crne Gore | [`odluka/1997/294871/`](odluka/1997/294871/) | in force | 1 | 1997-11-14 | 1997-11-14 |
+| Odluka o utvrđivanju koeficijenata za valorizaciju zarada iz ranijih godina koje ulaze u penzijski osnov prema nivou zarada iz 1996. godine | [`odluka/1997/294876/`](odluka/1997/294876/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata)u junu 1997. godine u Odnosu na april 1997. godine | [`odluka/1997/294877/`](odluka/1997/294877/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o utvrđivanju iznosa dodatka za pomoć i njegu za januar 1997. godine | [`odluka/1997/295358/`](odluka/1997/295358/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u junu 1997. godine u odnosu na april 1997. godine | [`odluka/1997/295397/`](odluka/1997/295397/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o dodjeli pozajmice pravnim licima po osnovu isnlate garantovanih zarada | [`odluka/1997/295647/`](odluka/1997/295647/) | in force | 1 | 1997-06-10 | 1997-06-10 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u septembru 1997. godine u odnosu na avgust 1997. god | [`odluka/1997/295719/`](odluka/1997/295719/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o utvrđivanju osnovice i stope za obračun članskog doprinosa za Privrednu komoru Crne Gore za 1998. godinu | [`odluka/1997/295837/`](odluka/1997/295837/) | in force | 1 | 1997-12-29 | 1997-12-29 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u septembru 1997. godine u odnosu na avgust 1997. god | [`odluka/1997/295962/`](odluka/1997/295962/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u januaru 1997. godine u odnosu na decembar 1996. godine | [`odluka/1997/296074/`](odluka/1997/296074/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u avgustu 1997. godine u odnosu na jun 1997. godine | [`odluka/1997/296151/`](odluka/1997/296151/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u septembru 1997. godine u odnosu na avgust 1997. god | [`odluka/1997/297402/`](odluka/1997/297402/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju najnižeg iznosa penzija prema kretanju zarada (plata) u aprilu 1997. godine u odnosu na februar 1997. godine | [`odluka/1997/297438/`](odluka/1997/297438/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u junu 1997. godine u odnosu na april 1997. godine | [`odluka/1997/298375/`](odluka/1997/298375/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o utvrđivanju Energetskog bilansa Crne Gore za 1998. godinu | [`odluka/1997/298856/`](odluka/1997/298856/) | in force | 1 | 1997-12-31 | 1997-12-31 |
+| Odluka o osnivanju Fakulteta dramskih umjetnosti | [`odluka/1997/298923/`](odluka/1997/298923/) | in force | 1 | 1997-09-30 | 1997-09-30 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u oktobru 1997. godine u odnosu na septembar 1997. god | [`odluka/1997/298929/`](odluka/1997/298929/) | in force | 1 | 1998-01-06 | 1998-01-06 |
+| Odluka o usklađivanju najnižeg iznosa penzija prema kretanju zarada (plata) u februaru 1997. godine u odnosu na januar 1997. godine | [`odluka/1997/299033/`](odluka/1997/299033/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| ODLUKA O IMENOVANjU MATIČNE KOMISIJE | [`odluka/1997/299066/`](odluka/1997/299066/) | in force | 1 | 1997-01-28 | 1997-01-28 |
+| Odluka o dopuni Poslovnika Ustavnog suda RCG | [`odluka/1997/299104/`](odluka/1997/299104/) | amending act | 1 | 1997-04-10 | 1997-04-10 |
+| ODLUKA O MINIMUMU PROCESA RADA KOJI SE MORA OBEZBIJEDITI ZA VRIJEME ŠTRAJKA U JAVNIM ZDRAVSTVENIM USTANOVAMA ČIJI JE OSNIVAČ REPUBLIKA | [`odluka/1997/299192/`](odluka/1997/299192/) | in force | 1 | 1997-02-25 | 1997-02-25 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u avgustu 1997. godine u odnosu na jun 1997. godine | [`odluka/1997/299197/`](odluka/1997/299197/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u aprilu 1997. godine u odnosu na februar 1997. godine | [`odluka/1997/299200/`](odluka/1997/299200/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o prihvatanju ugovora o davanju prava na istraživanje mineralnih sirovina | [`odluka/1997/299394/`](odluka/1997/299394/) | in force | 1 | 1997-10-05 | 1997-10-05 |
+| Odluka o uplati uloga za osnivanje Društva sa ograničenom odgovornošću "Euro medicinski dijagnostički centar D.O.O." | [`odluka/1997/299429/`](odluka/1997/299429/) | in force | 1 | 1997-04-03 | 1997-04-03 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u avgustu 1997. godine u odnosu na jun 1997. godine | [`odluka/1997/299487/`](odluka/1997/299487/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o izmjeni Tarife o nagradama i naknadi troškova za rad advokata | [`odluka/1997/299493/`](odluka/1997/299493/) | in force | 1 | 1997-06-11 | 1997-06-11 |
+| Odluka o. usklađivanju penzija prema kretanju zarada (plata) u septembru 1997. godine u odnosu na avgust 1997. godine | [`odluka/1997/299519/`](odluka/1997/299519/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u avgustu 1997. godine u odnosu na jun 1997. godine | [`odluka/1997/299660/`](odluka/1997/299660/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u oktobru 1997. godine u odnosu na septembar 1997. god | [`odluka/1997/299781/`](odluka/1997/299781/) | in force | 1 | 1998-01-06 | 1998-01-06 |
+| Odluka o broju studenata za upis u I godinu studija na univerzitetske jedinice Univerziteta Crne Gore za školsku 1997/98. godinu | [`odluka/1997/299782/`](odluka/1997/299782/) | in force | 1 | 1997-05-30 | 1997-05-30 |
+| Odluka o kriterijumima i mjerilima za određivanje sredstava opštinskim izbornim komisijama | [`odluka/1997/299922/`](odluka/1997/299922/) | in force | 1 | 1997-09-29 | 1997-09-29 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u februaru 1997. godine u odnosu na januar 1997. godine | [`odluka/1997/299992/`](odluka/1997/299992/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o izmjeni Odluke o uplati naknade Preduzeću DD "Titeks" - Podgorica | [`odluka/1997/300168/`](odluka/1997/300168/) | in force | 1 | 1997-10-07 | 1997-10-07 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u oktobru 1997.godine u odnosu na septembar 1997. godine | [`odluka/1997/300284/`](odluka/1997/300284/) | in force | 1 | 1998-01-06 | 1998-01-06 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) unovembru 1997. godine u odnosu na oktobar 1997. god | [`odluka/1997/300436/`](odluka/1997/300436/) | in force | 1 | 1998-01-06 | 1998-01-06 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u aprilu 1997. godine u odnosu na februar 1997. godine | [`odluka/1997/300605/`](odluka/1997/300605/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o utvrđivanju najnižeg iznosa penzije za januar 1997. godine | [`odluka/1997/300717/`](odluka/1997/300717/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u novembru 1997. godine u odnosu na oktobar 1997. godine | [`odluka/1997/300719/`](odluka/1997/300719/) | in force | 1 | 1998-01-06 | 1998-01-06 |
+| Odluka o kupovini akcija Hipotekarne banke AD - Podgorica | [`odluka/1997/301118/`](odluka/1997/301118/) | in force | 1 | 1997-12-13 | 1997-12-13 |
+| Odluka o usklađivanju penzija za osiguranike koji pravo na penziju ostvaruju u 1997. godini prema kretanju zarada (plata) u januaru 1997. godine u odnosu na 1996. godinu (preindeksacija) | [`odluka/1997/323853/`](odluka/1997/323853/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o povjeravanju poslova stručne ocjene (recenzije) Prostornog plana posebne namjene za morsko dobro | [`odluka/1997/325161/`](odluka/1997/325161/) | in force | 1 | 1997-07-29 | 1997-07-29 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u aprilu 1997. godine u odnosu na februar 1997. godine | [`odluka/1997/325198/`](odluka/1997/325198/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u novembru 1997. godine u odnosu na oktobar 1997. god | [`odluka/1997/325411/`](odluka/1997/325411/) | in force | 1 | 1998-01-06 | 1998-01-06 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u junu 1997. godine u odnosu na april 1997. godine | [`odluka/1997/325456/`](odluka/1997/325456/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u novembru 1997. godine u odnosu na oktobar 1997. godine | [`odluka/1997/325457/`](odluka/1997/325457/) | in force | 1 | 1998-01-06 | 1998-01-06 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u aprilu 1997. godine u odnosu na februar 1997. godine | [`odluka/1997/325518/`](odluka/1997/325518/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u februaru 1997. godine u odnosu na januar 1997. godine | [`odluka/1997/325630/`](odluka/1997/325630/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u oktobru 1997. godine u odnosu na septembar 1997. godine | [`odluka/1997/325656/`](odluka/1997/325656/) | in force | 1 | 1998-01-06 | 1998-01-06 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada ( plata ) u oktobru 1997. godine u odnosu na septembar 1997. god | [`odluka/1997/325716/`](odluka/1997/325716/) | in force | 1 | 1998-01-06 | 1998-01-06 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u februaru 1997. godine u odnosu na januar 1997. godine | [`odluka/1997/325775/`](odluka/1997/325775/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u februaru 1997. godine u odnosu na januar 1997. godine | [`odluka/1997/325776/`](odluka/1997/325776/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o osnivanju Preduzeća za reviziju računovodstvenih iskaza - društva sa ograničenom odgovornošću | [`odluka/1997/326177/`](odluka/1997/326177/) | in force | 1 | 1997-05-22 | 1997-05-22 |
+| Odluka o izmjenama i dopunama Odluke o broju sudija u sudovima u Republici Crnoj Gori | [`odluka/1997/344982/`](odluka/1997/344982/) | amending act | 1 | 1997-06-05 | 1997-06-05 |
+| Odluka o pristupanju izradi Prostornog plana područja namjene morsko dobro | [`odluka/1997/344983/`](odluka/1997/344983/) | in force | 1 | 1997-06-05 | 1997-06-05 |
+| Odluka o rasporedu sredstava za finansiranje društvenih organizacija u 1997. godini | [`odluka/1997/345343/`](odluka/1997/345343/) | in force | 1 | 1997-05-08 | 1997-05-08 |
+| Odluka o prihvatanju ugovora o prenošenju prava korišćenja podzemnih voda na lokaciji Trestenik-Grbaljsko polje | [`odluka/1997/345445/`](odluka/1997/345445/) | in force | 1 | 1997-05-21 | 1997-05-21 |
+| Odluka o visini naknade troškova prevoza na rad i sa rada zaposlenih kod korisnika Budžeta Republike Crne Gore | [`odluka/1997/345532/`](odluka/1997/345532/) | in force | 1 | 1997-04-03 | 1997-04-03 |
+| Odluka o stavljanju van snage Odluke o preduzimanju mjera zaštite javnog interesa u Muzičkoj akademiji - Podgorica | [`odluka/1997/345578/`](odluka/1997/345578/) | in force | 1 | 1997-04-03 | 1997-04-03 |
+| Odluka o minimumu procesa rada koji se mora obezbijediti za vrijeme štrajka u javnim energetskim preuzećima čiji je osnivač Republika | [`odluka/1997/345579/`](odluka/1997/345579/) | in force | 1 | 1997-04-03 | 1997-04-03 |
 | Odluka o izmjeni Pravila o broju i trajanju emisija za ravnopravno predstavljanje kandidata za izbor predsjednika Republike i njihovih programa | [`odluka/1997/348398/`](odluka/1997/348398/) | in force | 1 | 1997-09-20 | 1997-09-20 |
 | Odluka o dopuni Odluke o osnivanju Medicinskog fakulteta | [`odluka/1997/348750/`](odluka/1997/348750/) | amending act | 1 | 1997-09-29 | 1997-09-29 |
 | Odluka o davanju saglasnosti na statusnu promjenu JP "Jugopetrol" Kotor | [`odluka/1997/348825/`](odluka/1997/348825/) | in force | 1 | 1997-07-31 | 1997-07-31 |
@@ -885,12 +1226,119 @@
 | ODLUKA O IZMJENAMA I DOPUNAMA ODLUKE O NAČINU I USLOVIMA PRIVREMENOG KORIŠĆENjA RADIO-DIFUZNIH FREKVENCIJA | [`odluka/1997/349452/`](odluka/1997/349452/) | amending act | 1 | 1997-03-04 | 1997-03-04 |
 | Odluka o donošenju Prostornog plana područja posebne namjene za Nacionalni park "Lovćen" | [`odluka/1997/349468/`](odluka/1997/349468/) | in force | 1 | 1997-06-18 | 1997-06-18 |
 | ODLUKA O VALORIZACIJI IZNOSA UČEŠĆA OSIGURANIKA U TROŠKOVIMA KORIŠĆENjA ZDRAVSTVENE ZAŠTITE ZA UČEŠĆA UTVRĐENA U APSOLUTNIM IZNOSIMA | [`odluka/1997/350105/`](odluka/1997/350105/) | in force | 1 | 1997-01-17 | 1997-01-17 |
+| ODLUKA O UTVRĐIVANJU BROJA POSLANIKA KOJI SE BIRA U SKUPŠTINU REPUBLIKE CRNE GORE NA PRIJEVREMENIM IZBORIMA U 1998. GODINI | [`odluka/1998/291699/`](odluka/1998/291699/) | in force | 1 | 1998-03-24 | 1998-03-24 |
+| ODLUKA KOJOM SE UTVRĐUJE DA SPISAK KATASTARSKIH PARCELA PO KATASTARSKIM OPŠTINAMA KOJE ULAZE U SASTAV ODREĐENIH GRAĐEVINSKIH ZEMLJIŠTA ("SLUŽBENI LIST SR CRNE GORE - OPŠTINSKI PROPISI", BR.34/74), KOJI JE DONIJELA SKUPŠTINA OPŠTINE KOTOR, U DIJELU KOJI S | [`odluka/1998/291833/`](odluka/1998/291833/) | in force | 1 | 1999-01-08 | 1999-01-08 |
+| ODLUKA O ZAJEDNIČKOJ ORGANIZACIJI PROJEKTA - PRUŽANJE AUDIO TEKST USLUGA U TELEKOMUNIKACIONOJ MREŽI CRNE GORE - | [`odluka/1998/294428/`](odluka/1998/294428/) | in force | 1 | 1998-10-09 | 1998-10-09 |
+| ODLUKA O USKLAĐIVANJU PENZIJA PREMA KRETANJU ZARADA (PLATA) U JULU 1998. GODINE U ODNOSU NA JUN 1998. GODINE | [`odluka/1998/294442/`](odluka/1998/294442/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O USKLAĐIVANJU NAJVIŠEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U AVGUSTU 1998. GODINE U ODNOSU NA JUL 1998. GODINE | [`odluka/1998/294453/`](odluka/1998/294453/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O USKLAĐIVANJU NAJVIŠEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U SEPTEMBRU 1998. GODINE U ODNOSU NA AVGUST 1998. GODINE | [`odluka/1998/294493/`](odluka/1998/294493/) | in force | 1 | 1999-01-08 | 1999-01-08 |
+| ODLUKA O DONOŠENJU PROSTORNOG PLANA PODRUČJA POSEBNE NAMJENE ZA NACIONALNI PARK "BIOGRADSKA GORA" | [`odluka/1998/294529/`](odluka/1998/294529/) | in force | 1 | 1998-12-31 | 1998-12-31 |
+| ODLUKA O USKLAĐIVANJU NAJVIŠEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U NOVEMBRU 1998. GODINE U ODNOSU NA SEPTEMBAR 1998. GODINE | [`odluka/1998/294546/`](odluka/1998/294546/) | in force | 1 | 1999-01-08 | 1999-01-08 |
+| ODLUKA O USKLAĐIVANJU PENZIJA PREMA KRETANJU ZARADA (PLATA) U MARTU 1998. GODINE U ODNOSU NA JANUAR 1998. GODINE | [`odluka/1998/294600/`](odluka/1998/294600/) | in force | 1 | 1998-05-06 | 1998-05-06 |
+| ODLUKA O IZMJENI ODLUKE O OBRAZOVANJU KOORDINACIONOG ODBORA ZA PODSTICANJE, PRAĆENJE I KOORDINIRANJE AKTIVNOSTI NA PRIPREMAMA I IZGRADNJI NOVIH ELEKTROENERGETSKIH OBJEKATA U CRNOJ GORI | [`odluka/1998/294632/`](odluka/1998/294632/) | in force | 1 | 1998-02-26 | 1998-02-26 |
+| ODLUKA O USKLAĐIVANJU NOVČANIH NAKNADA, ZA OSIGURANIKE KOJI PRAVO NA NAKNADU OSTVARUJU U 1998. GODINI, PREMA KRETANJU ZARADA (PLATA) U JANUARU 1998. GODINE U ODNOSU NA 1997. GODINU (PREINDEKSACIJA) | [`odluka/1998/294673/`](odluka/1998/294673/) | in force | 1 | 1998-03-11 | 1998-03-11 |
+| ODLUKA O USKLAĐIVANJU PENZIJA PREMA KRETANJU ZARADA (PLATA) U JANUARU 1998. GODINE U ODNOSU NA DECEMBAR 1997. GODINE | [`odluka/1998/294686/`](odluka/1998/294686/) | in force | 1 | 1998-03-11 | 1998-03-11 |
+| ODLUKA O USKLAĐIVANJU NOVČANIH NAKNADA PREMA KRETANJU ZARADA (PLATA) U AVGUSTU 1998. GODINE U ODNOSU NA JUL 1998. GODINE | [`odluka/1998/294692/`](odluka/1998/294692/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O BROJU STUDENATA ZA UPIS U PRVU GODINU STUDIJA NA UNIVERZITETSKE JEDINICE UNIVERZITETA CRNE GORE ZA ŠKOLSKU 1998/99. GODINU | [`odluka/1998/294706/`](odluka/1998/294706/) | in force | 1 | 1998-05-16 | 1998-05-16 |
+| ODLUKA O USKLAĐIVANJU NAJVIŠEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U MARTU 1998. GODINE U ODNOSU NA JANUAR 1998. GODINE | [`odluka/1998/294733/`](odluka/1998/294733/) | in force | 1 | 1998-05-06 | 1998-05-06 |
+| ODLUKA O USKLAĐIVANJU DODATKA ZA POMOĆ I NJEGU PREMA KRETANJU ZARADA (PLATA) U SEPTEMBRU 1998. GODINE U ODNOSU NA AVGUST 1998. GODINE | [`odluka/1998/294756/`](odluka/1998/294756/) | in force | 1 | 1999-01-08 | 1999-01-08 |
+| ODLUKA O PROMJENI CIJENA ZA STAVKE 3.1.2.5. I 3.1.2.11. IZ VAŽEĆEG CJENOVNIKA PTT USLUGA CRNE GORE | [`odluka/1998/294779/`](odluka/1998/294779/) | in force | 1 | 1998-10-09 | 1998-10-09 |
+| ODLUKA O PRAVILIMA PREDSTAVLJANJA POLITIČKIH STRANAKA ZA VRIJEME PREDIZBORNE KAMPANJE U JAVNIM GLASILIMA ČIJI JE OSNIVAČ REPUBLIKA CRNA GORA | [`odluka/1998/294851/`](odluka/1998/294851/) | in force | 1 | 1998-03-24 | 1998-03-24 |
+| ODLUKA O USKLAĐIVANJU PENZIJA PREMA KRETANJU ZARADA (PLATA) U JUNU 1998. GODINE U ODNOSU NA APRIL 1998. GODINE | [`odluka/1998/294925/`](odluka/1998/294925/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O UTVRĐIVANJU OSNOVICE I STOPE ZA OBRAČUN ČLANSKOG DOPRINOSA ZA PRIVREDNU KOMORU CRNE GORE ZA 1999. GODINU | [`odluka/1998/294926/`](odluka/1998/294926/) | in force | 1 | 1998-12-22 | 1998-12-22 |
+| ODLUKA O UTVRĐIVANJU NAJNIŽEG IZNOSA PENZIJE ZA JANUAR 1998. GODINE | [`odluka/1998/295004/`](odluka/1998/295004/) | in force | 1 | 1998-03-11 | 1998-03-11 |
+| ODLUKA O UTVRĐIVANJU KOEFICIJENATA ZA VALORIZACIJU ZARADA IZ RANIJIH GODINA KOJE ULAZE U PENZIJSKI OSNOV PREMA NIVOU ZARADA IZ 1997. GODINE | [`odluka/1998/295270/`](odluka/1998/295270/) | in force | 1 | 1998-03-11 | 1998-03-11 |
+| ODLUKA O IZMJENI ODLUKE O OSNIVANJU BANKE ZA RAZVOJ CRNE GORE AD | [`odluka/1998/295271/`](odluka/1998/295271/) | in force | 1 | 1998-04-29 | 1998-04-29 |
+| ODLUKA O OBRAZOVANJU KOMISIJE ZA ODLIKOVANJA I PRIZNANJA | [`odluka/1998/295307/`](odluka/1998/295307/) | in force | 1 | 1998-10-02 | 1998-10-02 |
+| ODLUKA O DAVANJU SAGLASNOSTI NA UPIS VEĆEG BROJA STUDENATA U PRVU GODINU STUDIJA NA UNIVERZITETSKE JEDINICE UNIVERZITETA CRNE GORE ZA ŠKOLSKU 1998/99. GODINU OD BROJA UTVRđENOG ODLUKOM VLADE REPUBLIKE CRNE GORE | [`odluka/1998/295309/`](odluka/1998/295309/) | in force | 1 | 1998-10-01 | 1998-10-01 |
+| ODLUKA O UTVRĐIVANJU NAJVIŠEG IZNOSA PENZIJE ZA JANUAR 1998. GODINE | [`odluka/1998/295346/`](odluka/1998/295346/) | in force | 1 | 1998-03-11 | 1998-03-11 |
+| ODLUKA O IZMJENI ODLUKE O PRIHVATANJU UGOVORA O DAVANJU PRAVA NA EKSPLOATACIJU I ISTRAŽIVANJE MINERALNIH SIROVINA | [`odluka/1998/295353/`](odluka/1998/295353/) | in force | 1 | 1998-08-10 | 1998-08-10 |
+| ODLUKA O USKLAĐIVANJU NAJNIŽEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U NOVEMBRU 1998. GODINE U ODNOSU NA SEPTEMBAR 1998. GODINE | [`odluka/1998/295508/`](odluka/1998/295508/) | in force | 1 | 1999-01-08 | 1999-01-08 |
+| ODLUKA O USKLAĐIVANJU DODATKA ZA POMOĆ I NJEGU PREMA KRETANJU ZARADA (PLATA) U JUNU 1998. GODINE U ODNOSU NA APRIL 1998. GODINE | [`odluka/1998/295529/`](odluka/1998/295529/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O USVAJANJU TARIFE ZA ISDN PRIKLJUČKE NA PODRUČJU TELEKOMUNIKACIONE MREŽE CRNE GORE | [`odluka/1998/295542/`](odluka/1998/295542/) | in force | 1 | 1998-10-09 | 1998-10-09 |
+| ODLUKA O OBRAZOVANJU KOMISIJE ZA POMILOVANJA | [`odluka/1998/295544/`](odluka/1998/295544/) | in force | 1 | 1998-10-02 | 1998-10-02 |
+| ODLUKA O USKLAĐIVANJU NOVČANIH NAKNADA PREMA KRETANJU ZARADA (PLATA) U NOVEMBRU 1998. GODINE U ODNOSU NA SEPTEMBAR 1998. GODINE | [`odluka/1998/295612/`](odluka/1998/295612/) | in force | 1 | 1999-01-08 | 1999-01-08 |
+| ODLUKA O USKLAĐIVANJU PENZIJA PREMA KRETANJU ZARADA (PLATA) U NOVEMBRU 1998. GODINE U ODNOSU NA SEPTEMBAR 1998. GODINE | [`odluka/1998/295666/`](odluka/1998/295666/) | in force | 1 | 1999-01-08 | 1999-01-08 |
+| ODLUKA O USKLAĐIVANJU PENZIJA, ZA OSIGURANIKE KOJI PRAVO NA PENZIJU OSTVARUJU U 1998. GODINI, PREMA KRETANJU ZARADA (PLATA) U JANUARU 1998. GODINE U ODNOSU NA 1997. GODINU (PREINDEKSACIJA) | [`odluka/1998/295698/`](odluka/1998/295698/) | in force | 1 | 1998-03-11 | 1998-03-11 |
+| ODLUKA O UTVRĐIVANJU CIJENE ZA ZASNIVANJE PRETPLATNIČKOG ODNOSA PRI ZAKUPU PRIMARNOG DIGITALNOG BLOKA - PDB | [`odluka/1998/295702/`](odluka/1998/295702/) | in force | 1 | 1998-10-09 | 1998-10-09 |
+| ODLUKA O USKLAĐIVANJU NAJNIŽEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U SEPTEMBRU 1998. GODINE U ODNOSU NA AVGUST 1998. GODINE | [`odluka/1998/295738/`](odluka/1998/295738/) | in force | 1 | 1999-01-08 | 1999-01-08 |
+| ODLUKA O USKLAĐIVANJU NOVČANIH NAKNADA PREMA KRETANJU ZARADA (PLATA) U JANUARU 1998. GODINE U ODNOSU NA DECEMBAR 1997. GODINE | [`odluka/1998/295957/`](odluka/1998/295957/) | in force | 1 | 1998-03-11 | 1998-03-11 |
+| ODLUKA O RASPISIVANJU IZBORA ZA ODBORNIKE SKUPŠTINA OPŠTINA I POSLANIKE SKUPŠTINE REPUBLIKE CRNE GORE | [`odluka/1998/295998/`](odluka/1998/295998/) | in force | 1 | 1998-03-23 | 1998-03-23 |
+| ODLUKA O USKLAĐIVANJU DODATKA ZA POMOĆ I NJEGU PREMA KRETANJU ZARADA (PLATA) U NOVEMBRU 1998. GODINE U ODNOSU NA SEPTEMBAR 1998. GODINE | [`odluka/1998/296100/`](odluka/1998/296100/) | in force | 1 | 1999-01-08 | 1999-01-08 |
+| ODLUKA O USKLAĐIVANJU DODATKA ZA POMOĆ I NJEGU PREMA KRETANJU ZARADA (PLATA) U MARTU 1998. GODINE U ODNOSU NA JANUAR 1998. GODINE | [`odluka/1998/296103/`](odluka/1998/296103/) | in force | 1 | 1998-05-06 | 1998-05-06 |
+| ODLUKA O USKLAĐIVANJU NAJNIŽEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U JULU 1998. GODINE U ODNOSU NA JUN 1998. GODINE | [`odluka/1998/296232/`](odluka/1998/296232/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O USKLAĐIVANJU NAJNIŽEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U AVGUSTU 1998. GODINE U ODNOSU NA JUL 1998. GODINE | [`odluka/1998/296238/`](odluka/1998/296238/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA USTAVNOG SUDA U. BR. 44/98 I U. BR. 45/98 9. JUNA 1998. GODINE | [`odluka/1998/296253/`](odluka/1998/296253/) | in force | 1 | 1998-06-18 | 1998-06-18 |
+| ODLUKA O OBRAZOVANJU KOMISIJE ZA PREDSTAVKE I ŽALBE | [`odluka/1998/296277/`](odluka/1998/296277/) | in force | 1 | 1998-10-02 | 1998-10-02 |
+| ODLUKA O USKLAĐIVANJU DODATKA ZA POMOĆ I NJEGU PREMA KRETANJU ZARADA (PLATA) U JULU 1998. GODINE U ODNOSU NA JUN 1998. GODINE | [`odluka/1998/296278/`](odluka/1998/296278/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O USKLAĐIVANJU NAJVIŠEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U JUNU 1998. GODINE U ODNOSU NA APRIL 1998. GODINE | [`odluka/1998/296279/`](odluka/1998/296279/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O USKLAĐIVANJU NAJNIŽEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U JUNU 1998. GODINE U ODNOSU NA APRIL 1998. GODINE | [`odluka/1998/296320/`](odluka/1998/296320/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O UTVRĐIVANJU IZNOSA DODATKA ZA POMOĆ I NJEGU ZA JANUAR 1998. GODINE | [`odluka/1998/296321/`](odluka/1998/296321/) | in force | 1 | 1998-03-11 | 1998-03-11 |
+| ODLUKA O USKLAĐIVANJU PENZIJA PREMA KRETANJU ZARADA (PLATA) U AVGUSTU 1998. GODINE U ODNOSU NA JUL 1998. GODINE | [`odluka/1998/296322/`](odluka/1998/296322/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O USKLAĐIVANJU NOVČANIH NAKNADA PREMA KRETANJU ZARADA (PLATA) U MARTU 1998. GODINE U ODNOSU NA JANUAR 1998. GODINE | [`odluka/1998/296362/`](odluka/1998/296362/) | in force | 1 | 1998-05-06 | 1998-05-06 |
+| ODLUKA O USKLAĐIVANJU NOVČANIH NAKNADA PREMA KRETANJU ZARADA (PLATA) U JUNU 1998. GODINE U ODNOSU NA APRIL 1998. GODINE | [`odluka/1998/296546/`](odluka/1998/296546/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O USKLAĐIVANJU NOVČANIH NAKNADA PREMA KRETANJU ZARADA (PLATA) U JULU 1998. GODINE U ODNOSU NA JUN 1998. GODINE | [`odluka/1998/296837/`](odluka/1998/296837/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O RASPOREDU SREDSTAVA ZA FINANSIRANJE DRUŠTVENIH ORGANIZACIJA U 1998. GODINI | [`odluka/1998/296844/`](odluka/1998/296844/) | in force | 1 | 1998-05-08 | 1998-05-08 |
+| ODLUKA O ORGANIZOVANJU CENTRA ZA ARHEOLOŠKA ISTRAŽIVANJA CRNE GORE | [`odluka/1998/296957/`](odluka/1998/296957/) | in force | 1 | 1998-10-09 | 1998-10-09 |
+| ODLUKA O USKLAĐIVANJU NAJVIŠEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U JULU 1998. GODINE U ODNOSU NA JUN 1998. GODINE | [`odluka/1998/296959/`](odluka/1998/296959/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O KUPOVINI AKCIJA PODGORIČKE BANKE AD - PODGORICA | [`odluka/1998/296960/`](odluka/1998/296960/) | in force | 1 | 1998-08-11 | 1998-08-11 |
+| ODLUKA O USKLAĐIVANJU DODATKA ZA POMOĆ I NJEGU PREMA KRETANJU ZARADA (PLATA) U AVGUSTU 1998. GODINE U ODNOSU NA JUL 1998. GODINE | [`odluka/1998/296965/`](odluka/1998/296965/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| ODLUKA O DAVANJU SAGLASNOSTI NA CIJENE UGLJA ZA POTREBE TERMOELEKTRANE "PLJEVLJA" | [`odluka/1998/296979/`](odluka/1998/296979/) | in force | 1 | 1998-07-31 | 1998-07-31 |
+| ODLUKA O USKLAĐIVANJU NAJNIŽEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U MARTU 1998. GODINE U ODNOSU NA JANUAR 1998. GODINE | [`odluka/1998/297247/`](odluka/1998/297247/) | in force | 1 | 1998-05-06 | 1998-05-06 |
+| ODLUKA O USKLAĐIVANJU PENZIJA PREMA KRETANJU ZARADA (PLATA) U SEPTEMBRU 1998. GODINE U ODNOSU NA AVGUST 1998. GODINE | [`odluka/1998/297253/`](odluka/1998/297253/) | in force | 1 | 1999-01-08 | 1999-01-08 |
+| ODLUKA O USKLAĐIVANJU NOVČANIH NAKNADA PREMA KRETANJU ZARADA (PLATA) U SEPTEMBRU 1998. GODINE U ODNOSU NA AVGUST 1998. GODINE | [`odluka/1998/297398/`](odluka/1998/297398/) | in force | 1 | 1999-01-08 | 1999-01-08 |
+| ODLUKA O OBEZBJEĐIVANJU SREDSTAVA ZA ISPLATU ZIMNICE ZAPOSLENIM KOJI SE FINANSIRAJU IZ BUDŽETA REPUBLIKE | [`odluka/1998/344910/`](odluka/1998/344910/) | in force | 1 | 1998-04-11 | 1998-04-11 |
+| ODLUKA O KUPOVINI AKCIJA REPUBLIČKOG ZAVODA ZA ZAPOŠLJAVANJE, REPUBLIČKOG FONDA PIO I FONDA ZA RAZVOJ RCG U HI "OBOD" DD CETINJE | [`odluka/1998/344953/`](odluka/1998/344953/) | in force | 1 | 1998-04-11 | 1998-04-11 |
+| ODLUKA O IZMJENAMA I DOPUNAMA ODLUKE O ORGANIZOVANJU CRNOGORSKOG NARODNOG POZORIŠTA | [`odluka/1998/344954/`](odluka/1998/344954/) | amending act | 1 | 1998-04-18 | 1998-04-18 |
 | ODLUKA O ORGANIZOVANJU JAVNE ZDRAVSTVENE USTANOVE DOM ZDRAVLJA ANDRIJEVICA | [`odluka/1998/348364/`](odluka/1998/348364/) | in force | 1 | 1998-12-31 | 1998-12-31 |
 | ODLUKA O IZMJENAMA I DOPUNAMA ODLUKE O ORGANIZOVANJU NAUČNIH USTANOVA U REPUBLICI CRNOJ GORI | [`odluka/1998/348706/`](odluka/1998/348706/) | amending act | 1 | 1998-08-01 | 1998-08-01 |
 | ODLUKA O PRIHVATANJU ANEKSA UGOVORA O PRAVU NA ISTRAŽIVANJA I EKSPLOATACIJU NAFTE I GASA NA KOPNU I PODMORJU CRNE GORE | [`odluka/1998/348867/`](odluka/1998/348867/) | in force | 1 | 1998-05-26 | 1998-05-26 |
 | ODLUKA O IZRADI ŠTAMBILJA OPŠTINSKE IZBORNE KOMISIJE I PEČATA BIRAČKOG ODBORA | [`odluka/1998/349034/`](odluka/1998/349034/) | in force | 1 | 1998-05-22 | 1998-05-22 |
 | ODLUKA O OSNIVANJU ODSJEKA ZA REŽIJU NA FAKULTETU DRAMSKIH UMJETNOSTI | [`odluka/1998/349667/`](odluka/1998/349667/) | in force | 1 | 1998-05-19 | 1998-05-19 |
 | ODLUKA O ZABRANI OBAVLJANJA RIBOLOVA U VODAMA CRNOG JEZERA I VODOTOCIMA U NP "BIOGRADSKA GORA" | [`odluka/1998/349877/`](odluka/1998/349877/) | in force | 1 | 1998-08-10 | 1998-08-10 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u januaru 1999. godine u odnosu na decembar 1998. godine | [`odluka/1999/291567/`](odluka/1999/291567/) | in force | 1 | 1999-03-10 | 1999-03-10 |
+| Odluka o usklađivanju novčanih naknada, za osiguranike koji pravo na naknadu ostvaruju u 1999. godini, prema kretanju zarada (plata) u januaru 1999. godine u odnosu na 1998. godinu (preindeksacija) | [`odluka/1999/291665/`](odluka/1999/291665/) | in force | 1 | 1999-03-10 | 1999-03-10 |
+| Odluka o osnivanju Fakulteta za turizam i hotelijerstvo | [`odluka/1999/294807/`](odluka/1999/294807/) | in force | 1 | 1999-06-09 | 1999-06-09 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u februaru 1999. godine u odnosu na januar 1999. godine | [`odluka/1999/294833/`](odluka/1999/294833/) | in force | 1 | 1999-05-01 | 1999-05-01 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u decembru 1998. godine u odnosu na novembar 1998. godine | [`odluka/1999/294888/`](odluka/1999/294888/) | in force | 1 | 1999-03-10 | 1999-03-10 |
+| Odluka o utvrđivanju iznosa dodatka za pomoć i njegu za januar 1999. godine | [`odluka/1999/296382/`](odluka/1999/296382/) | in force | 1 | 1999-03-10 | 1999-03-10 |
+| Odluka o broju studenata za upis u prvu godinu studija na univerzitetske jedinice Univerziteta Crne Gore za školsku 1999/2000. godinu | [`odluka/1999/296423/`](odluka/1999/296423/) | in force | 1 | 1999-05-14 | 1999-05-14 |
+| Odluka o utvrđivanju najnižeg iznosa penzije za januar 1999. godine | [`odluka/1999/296428/`](odluka/1999/296428/) | in force | 1 | 1999-03-10 | 1999-03-10 |
+| Odluka o Energetskom bilansu Crne Gore za 1999. godinu | [`odluka/1999/296709/`](odluka/1999/296709/) | in force | 1 | 1999-02-06 | 1999-02-06 |
+| Odluka o pristupanju izradi izmjena i dopuna Urbanističkog projekta "Stari grad" Budva | [`odluka/1999/296737/`](odluka/1999/296737/) | amending act | 1 | 1999-02-13 | 1999-02-13 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u januaru 1999. godine u odnosu na decembar 1998. godine | [`odluka/1999/296758/`](odluka/1999/296758/) | in force | 1 | 1999-03-10 | 1999-03-10 |
+| Odluka o izmjenama i dopunama Odluke o obrazovanju i sastavu Savjeta za privatizaciju | [`odluka/1999/297081/`](odluka/1999/297081/) | amending act | 1 | 1999-07-07 | 1999-07-07 |
+| Odluka o pristupanju izradi Urbanističkog projekta rezidencijalnog kompleksa "Miločer" | [`odluka/1999/297113/`](odluka/1999/297113/) | in force | 1 | 1999-02-13 | 1999-02-13 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u februaru 1999. godine u odnosu na januar 1999. godine | [`odluka/1999/297166/`](odluka/1999/297166/) | in force | 1 | 1999-05-01 | 1999-05-01 |
+| Odluka o usklađivanju penzija, za osiguranike koji pravo na penziju ostvaruju u 1999. godini, prema kretanju zarada (plata) u januaru 1999. godine u odnosu na 1998. godinu (preindeksacija) | [`odluka/1999/297185/`](odluka/1999/297185/) | in force | 1 | 1999-03-10 | 1999-03-10 |
+| Odluka o visini naknade i uslovima korišćenja radio-difuznih frekvencija | [`odluka/1999/297357/`](odluka/1999/297357/) | in force | 1 | 1999-04-03 | 1999-04-03 |
+| Odluka o proglašenju 1999. godine "Godinom kvaliteta u turizmu" | [`odluka/1999/297453/`](odluka/1999/297453/) | in force | 1 | 1999-02-19 | 1999-02-19 |
+| Odluka o pristupanju izradi Urbanističkog projekta "Gospoština" | [`odluka/1999/297508/`](odluka/1999/297508/) | in force | 1 | 1999-02-13 | 1999-02-13 |
+| Odluka o pristupanju izradi Detaljnog urbanističkog plana servisno - stambene zone Jaz | [`odluka/1999/297544/`](odluka/1999/297544/) | in force | 1 | 1999-12-23 | 1999-12-23 |
+| Odluka o utvrđivanju najvišeg iznosa penzije za januar 1999. godine | [`odluka/1999/297548/`](odluka/1999/297548/) | in force | 1 | 1999-03-10 | 1999-03-10 |
+| Odluka o obrazovanju i sastavu Žirija za ocjenu radova prijavljenih na međunarodni konkurs za izbor lokacije i idejnog rješenja prelaza preko Bokokotorskog zaliva | [`odluka/1999/298006/`](odluka/1999/298006/) | in force | 1 | 1999-05-06 | 1999-05-06 |
+| Odluka o pristupanju izradi izmjena i dopuna DUP-a "Rozino" | [`odluka/1999/298042/`](odluka/1999/298042/) | amending act | 1 | 1999-08-11 | 1999-08-11 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u februaru 1999. godine u odnosu na januar 1999. godine | [`odluka/1999/300646/`](odluka/1999/300646/) | in force | 1 | 1999-05-01 | 1999-05-01 |
+| Odluka o obrazovanju Savjeta za realizaciju projekta informacionog sistema "Upravljanje javnim prihodima Republike" | [`odluka/1999/300918/`](odluka/1999/300918/) | in force | 1 | 1999-06-18 | 1999-06-18 |
+| Odluka o pristupanju izrade Detaljnog urbanističkog plana Prijevor | [`odluka/1999/301253/`](odluka/1999/301253/) | in force | 1 | 1999-12-23 | 1999-12-23 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u decembru 1998. godine u odnosu na novembar 1998. godine | [`odluka/1999/323895/`](odluka/1999/323895/) | in force | 1 | 1999-03-10 | 1999-03-10 |
+| Odluka o davanju saglasnosti na statusnu promjenu JEP "Elektroprivreda Crne Gore" - Nikšić | [`odluka/1999/323904/`](odluka/1999/323904/) | in force | 1 | 1999-04-03 | 1999-04-03 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju zarada (plata) u februaru 1999. godine u odnosu na januar 1999. godine | [`odluka/1999/324301/`](odluka/1999/324301/) | in force | 1 | 1999-05-01 | 1999-05-01 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u decembru 1998. godine u odnosu na novembar 1998. godine | [`odluka/1999/324991/`](odluka/1999/324991/) | in force | 1 | 1999-03-10 | 1999-03-10 |
+| Odluka o usklađivanju penzija prema kretanju zarada (plata) u decembru 1998. godine u odnosu na novembar 1998. godine | [`odluka/1999/325059/`](odluka/1999/325059/) | in force | 1 | 1999-03-10 | 1999-03-10 |
+| Odluka o izmjenama Odluke o visini naknade za upotrebu puteva koja se plaća za drumska motorna vozila i njihova priključna vozila | [`odluka/1999/325082/`](odluka/1999/325082/) | in force | 1 | 1999-08-06 | 1999-08-06 |
+| Odluka o ukidanju Doma učenika "Milorad Bagaš" u Šavniku | [`odluka/1999/325090/`](odluka/1999/325090/) | in force | 1 | 1999-04-03 | 1999-04-03 |
+| Odluka o utvrđivanju koeficijenata za valorizaciju zarada iz ranijih godina koje ulaze u penzijski osnov prema nivou zarada iz 1998. godine | [`odluka/1999/325125/`](odluka/1999/325125/) | in force | 1 | 1999-03-10 | 1999-03-10 |
+| Odluka o dopuni Odluke o imenovanju članova Monetarnog savjeta | [`odluka/1999/325157/`](odluka/1999/325157/) | amending act | 1 | 1999-11-25 | 1999-11-25 |
+| Odluka o usklađivanju novčanih naknada prema kretanju zarada (plata) u decembru 1998. godine u odnosu na novembar 1998. godine | [`odluka/1999/325170/`](odluka/1999/325170/) | in force | 1 | 1999-03-10 | 1999-03-10 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u februaru 1999. godine u odnosu na januar 1999. godine | [`odluka/1999/325251/`](odluka/1999/325251/) | in force | 1 | 1999-05-01 | 1999-05-01 |
+| Odluka o obrazovanju Komisije za ujednačavanje pravnog sistema Republike Crne Gore sa pravom Evropske unije | [`odluka/1999/332881/`](odluka/1999/332881/) | in force | 1 | 1999-02-26 | 1999-02-26 |
+| Odluka o donošenju Urbanističkog projekta hotelski kompleks "Palas" | [`odluka/1999/344842/`](odluka/1999/344842/) | in force | 1 | 1999-03-27 | 1999-03-27 |
+| Odluka o prihvatanju ugovora o davanju koncesije za korišćenje dijela voda sa izvorišta "Ravnjak" u Bistrici kod Mojkovca | [`odluka/1999/344920/`](odluka/1999/344920/) | in force | 1 | 1999-04-02 | 1999-04-02 |
+| Odluka o davanju saglasnosti na statusnu promjenu JP Rudnik uglja - Pljevlja | [`odluka/1999/345448/`](odluka/1999/345448/) | in force | 1 | 1999-04-16 | 1999-04-16 |
+| Odluka o davanju saglasnosti na cijene uglja za potrebe Termoelektrane "Pljevlja" | [`odluka/1999/345491/`](odluka/1999/345491/) | in force | 1 | 1999-04-09 | 1999-04-09 |
+| Odluka o davanju saglasnosti na cijene električne energije | [`odluka/1999/345492/`](odluka/1999/345492/) | in force | 1 | 1999-04-09 | 1999-04-09 |
+| Odluka o valorizaciji katastarskog prihoda | [`odluka/1999/345493/`](odluka/1999/345493/) | in force | 1 | 1999-04-16 | 1999-04-16 |
 | Odluka o prihvatanju Ugovora o prenošenju prava korišćenja dijela voda sa izvorišta "Veliki Maljen", u Gornjoj Bukovici kod Šavnika | [`odluka/1999/348219/`](odluka/1999/348219/) | in force | 1 | 1999-09-09 | 1999-09-09 |
 | Odluka o izmjeni Odluke o davanju saglasnosti na statusnu promjenu JP PTT saobraćaja Crne Gore | [`odluka/1999/348267/`](odluka/1999/348267/) | in force | 1 | 1999-03-02 | 1999-03-02 |
 | Odluka o osnivanju Odsjeka za italijanski jezik i književnost na Filozofskom fakultetu u Nikšiću | [`odluka/1999/348316/`](odluka/1999/348316/) | in force | 1 | 1999-06-09 | 1999-06-09 |
@@ -917,6 +1365,64 @@
 | Odluka o dopuni Odluke o pristupanju izradi Urbanističkog projekta stambeno-poslovne turističke zone "Rozino" | [`odluka/1999/349743/`](odluka/1999/349743/) | amending act | 1 | 1999-12-23 | 1999-12-23 |
 | Odluka o imenovanju matične komisije | [`odluka/1999/350028/`](odluka/1999/350028/) | in force | 1 | 1999-06-26 | 1999-06-26 |
 | Odluka o valorizaciji iznosa učešća osiguranika u troškovima korišćenja zdravstvene zaštite za učešća utvrđena u apsolutnim iznosima | [`odluka/1999/350085/`](odluka/1999/350085/) | in force | 1 | 1999-10-10 | 1999-10-10 |
+| Odluka o utvrdjivanju iznosa dodatka za pomoc i njegu za januar 2ooo.godine | [`odluka/2000/291573/`](odluka/2000/291573/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o uskladjivanju penzija prema kretanju zarada (plata) u decembru 1999. godine u odnosu na novembar 1999.godine | [`odluka/2000/291719/`](odluka/2000/291719/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o uskladjivanju najviseg iznosa penzije prema kretanju zarada u septembru 2ooo. godine u odnosu na jun 2ooo. godine | [`odluka/2000/292005/`](odluka/2000/292005/) | in force | 1 | 2001-01-06 | 2001-01-06 |
+| Odluka o uskladjivanju najnizeg iznosa penzije prema kretanju zarada u septembru 2ooo. godine u odnosu na jun 2ooo. godine | [`odluka/2000/292033/`](odluka/2000/292033/) | in force | 1 | 2001-01-06 | 2001-01-06 |
+| Odluka o uskladjivanju najviseg iznosa penzije prema kretanju zarada u junu 2000. godine u odnosu na mart 2000. godine | [`odluka/2000/297406/`](odluka/2000/297406/) | in force | 1 | 2000-09-26 | 2000-09-26 |
+| Odluka o obrazovanju i sastavu Savjeta za realizaciju projekta "Socijalni karton" | [`odluka/2000/297407/`](odluka/2000/297407/) | in force | 1 | 2000-12-15 | 2000-12-15 |
+| Odluka o utvrdjivanju broja odbornika koji se bira u Skupstinu opstine Herceg Novi | [`odluka/2000/297425/`](odluka/2000/297425/) | in force | 1 | 2000-03-09 | 2000-03-09 |
+| Odluka o uskladjivanju novcanih naknada prema kretanju zarada u septembru 2ooo. godine u odnosu na jun 2ooo. godine | [`odluka/2000/297465/`](odluka/2000/297465/) | in force | 1 | 2001-01-06 | 2001-01-06 |
+| Odluka o uskladjivanju najviseg iznosa penzije prema kretanju zarada u martu 2000. godine u odnosu na februar 2000. godine | [`odluka/2000/297662/`](odluka/2000/297662/) | in force | 1 | 2000-07-05 | 2000-07-05 |
+| Odluka o uskladjivanju dodatka za pomoc i njegu prema kretanju zarada u septembru 2ooo. godine u odnosu na jun 2ooo. godine | [`odluka/2000/297940/`](odluka/2000/297940/) | in force | 1 | 2001-01-06 | 2001-01-06 |
+| Odluka o finansijskom planu Narodne banke Crne Gore za 2000. godinu | [`odluka/2000/298390/`](odluka/2000/298390/) | in force | 1 | 2000-03-25 | 2000-03-25 |
+| Odluka o uskladjivanju novcanih naknada prema kretanju zarada u martu 2000. godine u odnosu na februar 2000. godine | [`odluka/2000/298714/`](odluka/2000/298714/) | in force | 1 | 2000-07-05 | 2000-07-05 |
+| Odluka o utvrdjivanju blagajnickog maksimuma i kriterijumima na osnovu kojih se utvrdjuje visina blagajnickog maksimuma | [`odluka/2000/298776/`](odluka/2000/298776/) | in force | 1 | 2000-03-01 | 2000-03-01 |
+| Odluka o uskladjivanju najnizeg iznosa penzije prema kretanju zarada u junu 2000. godine u odnosu na mart 2000. godine | [`odluka/2000/298873/`](odluka/2000/298873/) | in force | 1 | 2000-09-26 | 2000-09-26 |
+| Odluka o uskladjivanju dodatka za pomoc i njegu prema kretanju zarada u junu 2000. godine u odnosu na mart 2000. godine | [`odluka/2000/298906/`](odluka/2000/298906/) | in force | 1 | 2000-09-26 | 2000-09-26 |
+| Odluka o uskladjivanju najviseg iznosa penzija prema kretanju zarada (plata) u decembru 1999.godine u odnosu na novembar 1999.godine | [`odluka/2000/299212/`](odluka/2000/299212/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju drustva sa ogranicenom odgovornoscu za pruzanje usluga javnih mobilnih telekomunikacija | [`odluka/2000/299342/`](odluka/2000/299342/) | in force | 1 | 2000-08-08 | 2000-08-08 |
+| Odluka o uskladjivanju novcanih naknada prema kretanju zarada (plata) u januaru 2ooo. godine u odnosu na decembar 1999. god | [`odluka/2000/299410/`](odluka/2000/299410/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o zamjeni dinarske obavezne rezerve (Rn.2o1) obaveznom rezervom u DEM | [`odluka/2000/299544/`](odluka/2000/299544/) | in force | 1 | 2000-04-24 | 2000-04-24 |
+| Odluka o utvrdjivanju najnizeg iznosa penzije za januar 2ooo.godine | [`odluka/2000/299587/`](odluka/2000/299587/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o izmjenama i dopunama Odluke o visini naknade za upotrebu puteva koja se placa za drumska motorna vozila i njihova prikljucna vozila | [`odluka/2000/299615/`](odluka/2000/299615/) | amending act | 1 | 2000-06-15 | 2000-06-15 |
+| Odluka o izmjenama i dopunama Odluke o broju sudija u sudovima u Republici Crnoj Gori | [`odluka/2000/299683/`](odluka/2000/299683/) | amending act | 1 | 2000-12-20 | 2000-12-20 |
+| Odluka o utvrdjivanju osnovice i stope za obracun clanskog doprinosa za Privrednu komoru Crne Gore za 2oo1.godinu | [`odluka/2000/299714/`](odluka/2000/299714/) | in force | 1 | 2000-12-27 | 2000-12-27 |
+| Odluka U. br. 48/2000 od 11. oktobra 2000. godine | [`odluka/2000/299718/`](odluka/2000/299718/) | in force | 1 | 2000-11-04 | 2000-11-04 |
+| Odluka o raspustanju Skupstine glavnog grada | [`odluka/2000/299757/`](odluka/2000/299757/) | in force | 1 | 2000-03-09 | 2000-03-09 |
+| Odluka o uskladjivanju najnizeg iznosa penzije prema kretanju zarada u februaru 2000. godine u odnosu na januar 2000. godine | [`odluka/2000/299874/`](odluka/2000/299874/) | in force | 1 | 2000-04-19 | 2000-04-19 |
+| Odluka o uskladjivanju novcanih naknada prema kretanju zarada u februaru 2000. godine u odnosu na januar 2000. godine | [`odluka/2000/299908/`](odluka/2000/299908/) | in force | 1 | 2000-04-19 | 2000-04-19 |
+| Odluka U.br. 88/99 od 5. aprila 2000. god. | [`odluka/2000/299943/`](odluka/2000/299943/) | in force | 1 | 2000-04-26 | 2000-04-26 |
+| Odluka o uskladjivanju penzija prema kretanju zarada u septembru 2ooo. godine u odnosu na jun 2ooo. godine | [`odluka/2000/299945/`](odluka/2000/299945/) | in force | 1 | 2001-01-06 | 2001-01-06 |
+| Odluka o uskladjivanju najnizeg iznosa penzije prema kretanju zarada u martu 2000. godine u odnosu na februar 2000. godine | [`odluka/2000/300028/`](odluka/2000/300028/) | in force | 1 | 2000-07-05 | 2000-07-05 |
+| Odluka o visini stope zatezne kamate | [`odluka/2000/300291/`](odluka/2000/300291/) | in force | 1 | 2000-05-20 | 2000-05-20 |
+| Odluka o utvrdjivanju koeficijenta za valorizaciju zarada iz ranijih godina koje ulaze u penzijski osnov prema nivou zarada iz 1999.godine | [`odluka/2000/300369/`](odluka/2000/300369/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o donosenju izmjena i dopuna Detaljnog urbanistickog plana Becici | [`odluka/2000/300391/`](odluka/2000/300391/) | amending act | 1 | 2000-11-29 | 2000-11-29 |
+| Odluka o izdvajanju obavezne rezerve u DEM na dinarske plasmane banaka | [`odluka/2000/300392/`](odluka/2000/300392/) | in force | 1 | 2000-04-24 | 2000-04-24 |
+| Odluka o uskladjivanju penzija prema kretanju zarada (plata) u januaru 2ooo. godine u odnosu na decembar 1999.godine | [`odluka/2000/300421/`](odluka/2000/300421/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o uskladjivanju novcanih naknada prema kretanju zarada u junu 2000. godine u odnosu na mart 2000. godine | [`odluka/2000/300426/`](odluka/2000/300426/) | in force | 1 | 2000-09-26 | 2000-09-26 |
+| Odluka o uskladjivanju penzija prema kretanju zarada u martu 2000. godine u odnosu na februar 2000.god | [`odluka/2000/300430/`](odluka/2000/300430/) | in force | 1 | 2000-07-05 | 2000-07-05 |
+| Odluka o prihvatanju ugovora o davanju prava na detaljna geoloska istrazivanja i eksploataciju arhitektonskog-gradjevinskog (ukrasnog) kamena na lezistu "Visocica" | [`odluka/2000/300608/`](odluka/2000/300608/) | in force | 1 | 2000-09-08 | 2000-09-08 |
+| Odluka o uskladjivanju penzija prema kretanju zarada (plata) u novembru 1999. godine u odnosu na oktobar 1999. godine | [`odluka/2000/300682/`](odluka/2000/300682/) | in force | 1 | 2000-02-18 | 2000-02-18 |
+| Odluka o uskladjivanju penzija, za osiguranike koji pravo na penziju ostvaruju u 2ooo.godini, prema kretanju zarada (plata) u januaru 2ooo.godine u odnosu na 1999.godinu (preindeksacija) | [`odluka/2000/300886/`](odluka/2000/300886/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o utvrdjivanju najviseg iznosa penzije za januar 2ooo.godine | [`odluka/2000/300888/`](odluka/2000/300888/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o valorizaciji katastarskog prihoda | [`odluka/2000/300889/`](odluka/2000/300889/) | in force | 1 | 2000-05-04 | 2000-05-04 |
+| Odluka o uskladjivanju penzija prema kretanju zarada u junu 2000. godine u odnosu na mart 2000. godine | [`odluka/2000/300917/`](odluka/2000/300917/) | in force | 1 | 2000-09-26 | 2000-09-26 |
+| Odluka o uskladjivanju penzija prema kretanju zarada u februaru 2000. godine u odnosu na januar 2000. godine | [`odluka/2000/300959/`](odluka/2000/300959/) | in force | 1 | 2000-04-19 | 2000-04-19 |
+| Odluka o uskladjivanju najnizeg iznosa penzije prema kretanju zarada (plata) u decembru 1999.godine u odnosu na novembar 1999.godine | [`odluka/2000/301345/`](odluka/2000/301345/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o uskladjivanju novcanih naknada, za osiguranike koji pravo na naknadu ostvaruju u 2ooo.godini, prema kretanju zarada (plata) u januaru 2ooo. godine u odnosu na 1999.godinu (preindeksacija) | [`odluka/2000/323909/`](odluka/2000/323909/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o visini naknada za rad Komisije za hartije od vrijednosti i finansijsko trziste Republike Crne Gore | [`odluka/2000/324023/`](odluka/2000/324023/) | in force | 1 | 2000-12-30 | 2000-12-30 |
+| Odluka o raspisivanju izbora za odornike Skupstine Glavnog grada i odbornike Skupstine opstine Herceg Novi | [`odluka/2000/324958/`](odluka/2000/324958/) | in force | 1 | 2000-03-09 | 2000-03-09 |
+| Odluka o uskladjivanju dodatka za pomoc i njegu prema kretanju zarada (plata) u decembru 1999.godine u odnosu na novembar 1999.godine | [`odluka/2000/325035/`](odluka/2000/325035/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o uskladjivanju novcanih naknada prema kretanju zarada (plata) u decembru 1999.godine u odnosu na novembar 1999. godine | [`odluka/2000/325052/`](odluka/2000/325052/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o uskladjivanju najviseg iznosa penzije prema kretanju zarada u februaru 2000. godine u odnosu na januar 2000. godine | [`odluka/2000/325148/`](odluka/2000/325148/) | in force | 1 | 2000-04-19 | 2000-04-19 |
+| Odluka o uskladjivanju dodatka za pomoc i njegu prema kretanju zarada u februaru 2000. godine u odnosu na januar 2000. godine | [`odluka/2000/325190/`](odluka/2000/325190/) | in force | 1 | 2000-04-19 | 2000-04-19 |
+| Odluka o izmjenama i dopunama Odluke o Tarifi po kojoj se naplacuju naknade za usluge koje vrsi Narodna banka Crne Gore | [`odluka/2000/325209/`](odluka/2000/325209/) | amending act | 1 | 2000-09-29 | 2000-09-29 |
+| Odluka U br.22/2ooo. od 21. novembra 2ooo-te godine | [`odluka/2000/325312/`](odluka/2000/325312/) | in force | 1 | 2000-12-15 | 2000-12-15 |
+| Odluka o sprovodjenju javne licitacije radi davanja koncesije na kontejnerskom terminalu AD "Luka Bar" - Bar | [`odluka/2000/325325/`](odluka/2000/325325/) | in force | 1 | 2000-06-27 | 2000-06-27 |
+| Odluka o ispravci Odluke o dokupu staza | [`odluka/2000/344843/`](odluka/2000/344843/) | in force | 1 | 2000-03-14 | 2000-03-14 |
+| Odluka o skracenju mandata odbornika Skupstine opstine Herceg Novi | [`odluka/2000/345038/`](odluka/2000/345038/) | in force | 1 | 2000-03-09 | 2000-03-09 |
+| Odluka o subvencioniranju cijena elektricne energije za 2000. godinu | [`odluka/2000/345494/`](odluka/2000/345494/) | in force | 1 | 2000-03-22 | 2000-03-22 |
 | Odluka o davanju saglasnosti na osnivanje "Slobodne zone Luka Bar" u Baru | [`odluka/2000/348321/`](odluka/2000/348321/) | in force | 1 | 2000-04-27 | 2000-04-27 |
 | Odluka o davanju saglasnosti na cijene elektricne energije | [`odluka/2000/348424/`](odluka/2000/348424/) | in force | 1 | 2000-04-01 | 2000-04-01 |
 | Odluka o donosenju Urbanistickog projekta stambenih objekata HTP "Budvanska rivijera" - Rozino | [`odluka/2000/348425/`](odluka/2000/348425/) | in force | 1 | 2000-04-08 | 2000-04-08 |
@@ -936,6 +1442,59 @@
 | Odluka o nacinu i uslovima gradnje i koriscenja kablovskih distribucionih sistema | [`odluka/2000/349971/`](odluka/2000/349971/) | in force | 1 | 2000-09-02 | 2000-09-02 |
 | Odluka o davanju na koriscenje poreskih registar kasa poreskim obveznicima | [`odluka/2000/349975/`](odluka/2000/349975/) | in force | 1 | 2000-10-06 | 2000-10-06 |
 | Odluka o donosenju izmjena i dopuna Generalnog urbanistickog plana priobalnog pojasa Opstine Budva | [`odluka/2000/350086/`](odluka/2000/350086/) | amending act | 1 | 2000-07-20 | 2000-07-20 |
+| Odluka o izmjenama i dopuni Odluke o obrazovanju i sastavu savjeta za privatizaciju | [`odluka/2001/291729/`](odluka/2001/291729/) | amending act | 1 | 2001-08-03 | 2001-08-03 |
+| Odluka o raspisivanju prijevremenih izbora za poslanike Skupstine Republike Crne Gore | [`odluka/2001/292069/`](odluka/2001/292069/) | in force | 1 | 2001-02-21 | 2001-02-21 |
+| Odluka o utvrdjivanju tarifa za ISDN usluge | [`odluka/2001/297005/`](odluka/2001/297005/) | in force | 1 | 2001-02-10 | 2001-02-10 |
+| Odluka o izmjeni Pravila o jedinstvenim standardima za izborni materijal | [`odluka/2001/297298/`](odluka/2001/297298/) | in force | 1 | 2001-03-07 | 2001-03-07 |
+| Odluka o uskladjivanju penzija prema kretanju zarada u junu 2001. godine u odnosu na januar 2001. godine | [`odluka/2001/297363/`](odluka/2001/297363/) | in force | 1 | 2001-09-25 | 2001-09-25 |
+| Odluka o poslovima i organizaciji platnog prometa u Centralnoj banci Crne Gore | [`odluka/2001/297601/`](odluka/2001/297601/) | in force | 1 | 2001-11-14 | 2001-11-14 |
+| Odluka o skracenju mandata Skupstine Republike Crne Gore | [`odluka/2001/297633/`](odluka/2001/297633/) | in force | 1 | 2001-02-20 | 2001-02-20 |
+| Odluka o uskladjivanju dodatka za pomoc i njegu prema kretanju zarada u junu 2001. godine u odnosu na januar 2001. godine | [`odluka/2001/297785/`](odluka/2001/297785/) | in force | 1 | 2001-09-25 | 2001-09-25 |
+| Odluka o usklađivanju penzija prema kretanju zarada u januaru 2001. godine u odnosu na decembar 2000. godine | [`odluka/2001/297809/`](odluka/2001/297809/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+| Odluka o dopuni Pravila o glasanju putem pisma | [`odluka/2001/297812/`](odluka/2001/297812/) | amending act | 1 | 2001-03-07 | 2001-03-07 |
+| Odluka o utvrdjivanju osnovice i stope za obracun clanskog doprinosa za Privrednu komoru Crne Gore za 2002. godinu | [`odluka/2001/297942/`](odluka/2001/297942/) | in force | 1 | 2001-12-18 | 2001-12-18 |
+| Odluka o utvrdjivanju najviseg iznosa penzije za januar 2001. godine | [`odluka/2001/297945/`](odluka/2001/297945/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+| Odluka o legalizaciji robe | [`odluka/2001/297981/`](odluka/2001/297981/) | in force | 1 | 2001-07-30 | 2001-07-30 |
+| Odluka o obliku i izgledu glasackih listica, nacinu, mjestu i kontroli stampanja,ovjeri i distribuciji glasackih listica, kao i o unistavanju matrice | [`odluka/2001/298156/`](odluka/2001/298156/) | in force | 1 | 2001-03-06 | 2001-03-06 |
+| Odluka | [`odluka/2001/298296/`](odluka/2001/298296/) | in force | 1 | 2001-12-12 | 2001-12-12 |
+| Odluka o uskladjivanju novcanih naknada, za osiguranike koji pravo na naknadu ostvaruju u 2001. godini, prema kretanju zarada u januaru 2001. godine u odnosu na 2000. godinu (preindeksacija | [`odluka/2001/298567/`](odluka/2001/298567/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+| Odluka o odobravanju kredita za dnevno odrzavanje likvidnosti poslovnih banaka | [`odluka/2001/298831/`](odluka/2001/298831/) | in force | 1 | 2001-08-07 | 2001-08-07 |
+| Odluka o energetskom bilansu Crne Gore za 2001. godinu | [`odluka/2001/298887/`](odluka/2001/298887/) | in force | 1 | 2001-01-20 | 2001-01-20 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju komisije za preduzetnicke aktivnosti prodaje dionica i plasman sredstava | [`odluka/2001/299214/`](odluka/2001/299214/) | amending act | 1 | 2001-11-28 | 2001-11-28 |
+| Odluka o obrazovanju i sastavu koordinacionog odbora za saradnju sa iseljenistvom i dijasporom iz crne gore | [`odluka/2001/299222/`](odluka/2001/299222/) | in force | 1 | 2001-10-20 | 2001-10-20 |
+| Odluka o davanju saglasnosti na statusne promjene i izmjene i dopune Statuta AD "Luka Bar" Bar | [`odluka/2001/299249/`](odluka/2001/299249/) | amending act | 1 | 2001-08-04 | 2001-08-04 |
+| Odluka | [`odluka/2001/299252/`](odluka/2001/299252/) | in force | 1 | 2001-10-19 | 2001-10-19 |
+| Odluka o utvrdjivanju iznosa dodatka za pomoc i njegu za januar 2001. godine | [`odluka/2001/299425/`](odluka/2001/299425/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+| Odluka o imenovanju Maticne komisije | [`odluka/2001/299622/`](odluka/2001/299622/) | in force | 1 | 2001-07-17 | 2001-07-17 |
+| Odluka o utvrdjivanju najnizeg iznosa penzije za januar 2001. godine | [`odluka/2001/299657/`](odluka/2001/299657/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+| Odluka o utvrdjivanju koeficijenata za valorizaciju zarada iz ranijih godina koje ulaze u penzijski osnov prema nivou zarada iz 2000. godine | [`odluka/2001/299738/`](odluka/2001/299738/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+| Odluka o dopuni Odluke o uslovima i nacinu placanja gotovim novcem | [`odluka/2001/299762/`](odluka/2001/299762/) | amending act | 1 | 2001-02-20 | 2001-02-20 |
+| Odluka U.br. 23/2001, od 12. septembra 2001. godine | [`odluka/2001/299766/`](odluka/2001/299766/) | in force | 1 | 2001-10-07 | 2001-10-07 |
+| Odluka o spoljnoj reviziji finansijskih izvjestaja banke | [`odluka/2001/299777/`](odluka/2001/299777/) | in force | 1 | 2001-08-07 | 2001-08-07 |
+| Odluka o imenovanju Maticne komisije | [`odluka/2001/300146/`](odluka/2001/300146/) | in force | 1 | 2001-07-17 | 2001-07-17 |
+| Odluka o prodaji dijela drzavne imovine koju koristi Republicki hidrometeoroloski zavod | [`odluka/2001/300176/`](odluka/2001/300176/) | in force | 1 | 2001-07-17 | 2001-07-17 |
+| Odluka o osnivanju Agencije za telekomunikacije | [`odluka/2001/300370/`](odluka/2001/300370/) | in force | 1 | 2001-03-08 | 2001-03-08 |
+| Odluka o utvrdjivanju broja poslanika koji se bira u Skupstinu Republike Crne Gore na prijevremenim izborima u 2001. godini | [`odluka/2001/300407/`](odluka/2001/300407/) | in force | 1 | 2001-02-20 | 2001-02-20 |
+| Odluka o osnivanju predstavnistava Republike Crne Gore u inostranstvu | [`odluka/2001/300467/`](odluka/2001/300467/) | in force | 1 | 2001-10-07 | 2001-10-07 |
+| Odluku o izmjeni Odluke o razvrstavanju robe na oblike izvoza i uvoza | [`odluka/2001/300478/`](odluka/2001/300478/) | in force | 1 | 2001-04-05 | 2001-04-05 |
+| Odluka o obrazovanju Komisije za izradu predloga zakona o referendumu o drzavnom statusu Crne Gore | [`odluka/2001/300479/`](odluka/2001/300479/) | in force | 1 | 2001-09-27 | 2001-09-27 |
+| Odluka o uskladjivanju novcanih naknada prema kretanju zarada u decembru 2000. godine u odnosu na septembar 2000. godine | [`odluka/2001/300515/`](odluka/2001/300515/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+| Odluka o drzanju deviza na deviznim racunima kod ovlascene banke | [`odluka/2001/300655/`](odluka/2001/300655/) | in force | 1 | 2001-02-21 | 2001-02-21 |
+| Odluka o minimalnim standardima upravljanja koncentracijom kredita i poslovanju sa licima povezanim sa bankom | [`odluka/2001/300761/`](odluka/2001/300761/) | in force | 1 | 2001-05-06 | 2001-05-06 |
+| Odluka o uskladjivanju novcanih naknada prema kretanju zarada u junu 2001. godine u odnosu na januar 2001. godine | [`odluka/2001/301320/`](odluka/2001/301320/) | in force | 1 | 2001-09-25 | 2001-09-25 |
+| Odluka o usklađivanju penzija prema kretanju zarada u decembru 2000. godine u odnosu na septembar 2000. godine | [`odluka/2001/301342/`](odluka/2001/301342/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+| Odluka o izmjeni Odluke o obrazovanju Koordinacionog odbora za podsticanje, pracenje i koordiniranje aktivnosti za izgradnju autoputeva na teritoriji Republike Crne Gore | [`odluka/2001/323870/`](odluka/2001/323870/) | in force | 1 | 2001-08-23 | 2001-08-23 |
+| Odluka o uskladjivanju najviseg iznosa penzije prema kretanju zarada u junu 2001. godine u odnosu na januar 2001. godine | [`odluka/2001/323941/`](odluka/2001/323941/) | in force | 1 | 2001-09-25 | 2001-09-25 |
+| Odluka o osnivanju Instituta za razvoj i istrazivanja u oblasti zastite na radu | [`odluka/2001/324002/`](odluka/2001/324002/) | in force | 1 | 2001-01-27 | 2001-01-27 |
+| Odluku o obezbjedjenju sredstava za pokrice troskova izborne propagande politickih stranaka, za izbor poslanika u Skupstini Republike Crne Gore 2oo1. godine | [`odluka/2001/324020/`](odluka/2001/324020/) | in force | 1 | 2001-04-20 | 2001-04-20 |
+| Odluka o uskladjivanju novcanih naknada prema kretanju zarada u januaru 2001. godine u odnosu na decembar 2000. godine | [`odluka/2001/324169/`](odluka/2001/324169/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+| Odluka o uskladjivanju najnizeg iznosa penzije prema kretanju zarada u junu 2001. godine u odnosu na januar 2001. godine | [`odluka/2001/324185/`](odluka/2001/324185/) | in force | 1 | 2001-09-25 | 2001-09-25 |
+| Odluka o prodaji akcija Republike Crne Gore u preduzecu "Telekom Crne Gore" a.d. Podgorica | [`odluka/2001/324932/`](odluka/2001/324932/) | in force | 1 | 2001-06-16 | 2001-06-16 |
+| Odluka o prihvatanju ugovora o davanju prava na detaljna geoloska istrazivanja i eksploataciju mineralnih sirovina. | [`odluka/2001/324938/`](odluka/2001/324938/) | in force | 1 | 2001-02-22 | 2001-02-22 |
+| Odluka o davanju saglasnosti na statusne promjene javnog preduzeca zeljeznice Crne Gore - Podgorica | [`odluka/2001/325272/`](odluka/2001/325272/) | in force | 1 | 2001-12-26 | 2001-12-26 |
+| Odluka o uskladjivanju penzija, za osiguranike koji pravo na penziju ostvaruju u 2001. godini, prema kretanju zarada u januaru 2001. godine u odnosu na 2000. godinu (preindeksacija | [`odluka/2001/325745/`](odluka/2001/325745/) | in force | 1 | 2001-07-03 | 2001-07-03 |
+| Odluka o davanju saglasnosti na primjenu visih sezonskih tarifnih stavova za elektricnu energiju | [`odluka/2001/332909/`](odluka/2001/332909/) | in force | 1 | 2001-11-28 | 2001-11-28 |
+| Odluku o pokriću troškova obavezne dezinfekcije motornih vozila prilikom ulaska u Republiku Crnu Goru iz Republike Hrvatske, Bosne i Hercegovine, Albanije i sa Kosova | [`odluka/2001/345536/`](odluka/2001/345536/) | in force | 1 | 2001-04-05 | 2001-04-05 |
 | Odluka o dopuni Odluke o sastavu, ovlascenjima i nacinu rada koordinacionog tijela za vrsenje zajednicke inspekcijske kontrole u spoljnotrgovinskom prometu | [`odluka/2001/348040/`](odluka/2001/348040/) | amending act | 1 | 2001-03-28 | 2001-03-28 |
 | Odluka o obrazovanju Savjeta za promjene u obrazovanju Republike Crne Gore | [`odluka/2001/348330/`](odluka/2001/348330/) | in force | 1 | 2001-01-27 | 2001-01-27 |
 | Odluku o izmjeni Odluke o emisiji obveznica Republike Crne Gore | [`odluka/2001/348353/`](odluka/2001/348353/) | in force | 1 | 2001-04-21 | 2001-04-21 |
@@ -964,6 +1523,74 @@
 | Odluka o pristupanju izradi Urbani-stickog projekta zone "Kamenovo" | [`odluka/2001/349769/`](odluka/2001/349769/) | in force | 1 | 2001-07-17 | 2001-07-17 |
 | Odluka o oslobadjanju placanja carinskih obaveza za uvoz opreme i materijala neophodnog za realizaciju projekta rjesavanja komunalnog otpada opstina Kotor,Tivat i Budva i za izgradnju vodovoda Gornje Zete | [`odluka/2001/349900/`](odluka/2001/349900/) | in force | 1 | 2001-10-27 | 2001-10-27 |
 | Odluka o donosenju Prostornog plana podrucja posebne namjene za Nacionalni park "Skadarsko jezero" | [`odluka/2001/349976/`](odluka/2001/349976/) | in force | 1 | 2001-10-05 | 2001-10-05 |
+| Odluka o uskladjivanju penzija, za osiguranike koji pravo na penziju ostvaruju u 2002.godini, prema kretanju neto-zarada u januaru 2002.godine u odnosu na 2001 .godinu (preindeksacija) | [`odluka/2002/291632/`](odluka/2002/291632/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o uskladjivanju najnizeg iznosa penzije prema kretanju neto zarada u februaru 2002. godine u odnosu na januar 2002. godine | [`odluka/2002/291788/`](odluka/2002/291788/) | in force | 1 | 2002-08-03 | 2002-08-03 |
+| Odluka o usklađivanju dodatka za pomoć i njegu prema kretanju neto zarada u junu 2002. godine u odnosu na maj 2002. godine | [`odluka/2002/291797/`](odluka/2002/291797/) | in force | 1 | 2002-12-21 | 2002-12-21 |
+| Odluka o uskladjivanju penzija prema kretanju neto-zarada u januaru 2002 godine u odnosu na decembar 2001. godine | [`odluka/2002/292004/`](odluka/2002/292004/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o obezbjeđenju sredstava za pokriće troškova izborne propagande kandidata za izbor predsjednika Republike Crne Gore | [`odluka/2002/292010/`](odluka/2002/292010/) | in force | 1 | 2002-12-14 | 2002-12-14 |
+| Odluka o postupku i načinu izdavanja dozvola za rad, odobrenja i saglasnosti i visini naknada | [`odluka/2002/297160/`](odluka/2002/297160/) | in force | 1 | 2002-12-29 | 2002-12-29 |
+| Odluka U br.100/2001, od 12.februara 2002.godine | [`odluka/2002/297164/`](odluka/2002/297164/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o utvrdjivanju broja poslanika koji se bira u Skupstinu Republike Crne Gore na prijevremenim izborima u 2002. godini | [`odluka/2002/297360/`](odluka/2002/297360/) | in force | 1 | 2002-07-20 | 2002-07-20 |
+| Odluka o uskladjivanju najviseg iznosa penzije prema kretanju neto zarada u maju 2002. godine u odnosu na februar 2002. godine | [`odluka/2002/297603/`](odluka/2002/297603/) | in force | 1 | 2002-08-03 | 2002-08-03 |
+| Odluka o usklađivanju najvišeg iznosa penzije prema kretanju neto zarada u junu 2002. godine u odnosu na maj 2002. godine | [`odluka/2002/297807/`](odluka/2002/297807/) | in force | 1 | 2002-12-21 | 2002-12-21 |
+| Odluka o osnivanju Odsjeka za geodeziju na Gradjevinskom fakultetu u Podgorici | [`odluka/2002/298184/`](odluka/2002/298184/) | in force | 1 | 2002-10-19 | 2002-10-19 |
+| Odluka o kriterijumima i postupku za raspodjelu stanova u stambenom objektu "Park VII" -Lamela A u Beranama | [`odluka/2002/298245/`](odluka/2002/298245/) | in force | 1 | 2002-08-05 | 2002-08-05 |
+| Odluka o uskladjivanju novcanih naknada prema kretanju neto zarada u maju 2002. godine u odnosu na februar 2002. godine | [`odluka/2002/298571/`](odluka/2002/298571/) | in force | 1 | 2002-08-03 | 2002-08-03 |
+| Odluka o uskladjivanju novcanih naknada prema kretanju neto-zarada u decembru 2001 .godine u odnosu na jun 2001. godine | [`odluka/2002/298572/`](odluka/2002/298572/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o davanju kontragarancije Saveznoj Republici Jugoslaviji za uredno vraćanje zajma, za modernizaciju carinske službe u Republici Crnoj Gori | [`odluka/2002/298605/`](odluka/2002/298605/) | in force | 1 | 2002-12-31 | 2002-12-31 |
+| Odluka o uskladjivanju najviseg iznosa penzije prema kretanju neto zarada u februaru 2002. godine u odnosu na januar 2002. godine | [`odluka/2002/298736/`](odluka/2002/298736/) | in force | 1 | 2002-08-03 | 2002-08-03 |
+| Odluka o uskladjivanju penzija prema kretanju neto zarada u maju 2002. godine u odnosu na februar 2002. godine | [`odluka/2002/298886/`](odluka/2002/298886/) | in force | 1 | 2002-08-03 | 2002-08-03 |
+| Odluka o izmjenama Odluke o mjerama za ozdravljenje nesolidnih banaka | [`odluka/2002/298956/`](odluka/2002/298956/) | in force | 1 | 2002-01-18 | 2002-01-18 |
+| Odluka o raspisivanju izbora za odbornike Skupstine opstine Tivat | [`odluka/2002/298957/`](odluka/2002/298957/) | in force | 1 | 2002-07-30 | 2002-07-30 |
+| Odluka o obezbjedjenju sredstava za pokrice troskova izborne propagande politickih stranaka za izbor poslanika u Skupstinu RCG 2002. god | [`odluka/2002/298961/`](odluka/2002/298961/) | in force | 1 | 2002-10-12 | 2002-10-12 |
+| Odluka o osnivanju Odsjeka za arhitekturu na Gradjevinskom fakultetu u Podgorici | [`odluka/2002/298984/`](odluka/2002/298984/) | in force | 1 | 2002-10-19 | 2002-10-19 |
+| Odluka o delegiranju predstavnika Skupstine Republike Crne Gore u Ustavnu komisiju za izradu Ustavne povelje drzavne zajednice Srbije i Crne Gore | [`odluka/2002/299161/`](odluka/2002/299161/) | in force | 1 | 2002-06-07 | 2002-06-07 |
+| Odluka o prihvatanju ugovora o prenosenju prava na priredjivanje posebnih igara na srecu u jednoj igracnici u Budvi | [`odluka/2002/299217/`](odluka/2002/299217/) | in force | 1 | 2002-01-24 | 2002-01-24 |
+| Odluka o osnivanju Javnog preduzeca "Sportski centar Kolasin" | [`odluka/2002/299477/`](odluka/2002/299477/) | in force | 1 | 2002-11-23 | 2002-11-23 |
+| Odluka o utvrdjivanju najnizeg iznosa penzije za januar 2oo2.godine | [`odluka/2002/299739/`](odluka/2002/299739/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o utvrdjivanju iznosa dodatka za pomoc i njegu za januar 2oo2.godine | [`odluka/2002/299799/`](odluka/2002/299799/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o usklađivanju penzija prema kretanju neto zarada u junu 2002. godine u odnosu na maj 2002. godine | [`odluka/2002/299804/`](odluka/2002/299804/) | in force | 1 | 2002-12-21 | 2002-12-21 |
+| Odluka o Energetskom bilansu Crne Gore za 2002. godinu | [`odluka/2002/299984/`](odluka/2002/299984/) | in force | 1 | 2002-02-26 | 2002-02-26 |
+| Odluka o uskladjivanju penzija prema kretanju neto-zarada u decembru 2001.godine u odnosu na jun 2001. godine | [`odluka/2002/300016/`](odluka/2002/300016/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o skracenju mandata Skupstine Republike Crne Gore | [`odluka/2002/300041/`](odluka/2002/300041/) | in force | 1 | 2002-07-20 | 2002-07-20 |
+| Odluka o otvaranju granicnog prelaza Sukobin za medjunarodni putnicki saobracaj | [`odluka/2002/300044/`](odluka/2002/300044/) | in force | 1 | 2002-06-19 | 2002-06-19 |
+| Odluka o uslovima pod kojim se stranim drzavljanima omogucava ulazak i boravak bez vize radi turisticke posjete Republici Crnoj Gori | [`odluka/2002/307125/`](odluka/2002/307125/) | in force | 1 | 2002-05-14 | 2002-05-14 |
+| Odluka o izmjeni Odluke o obaveznoj rezervi banaka kod Centralne banke Crne Gore | [`odluka/2002/307403/`](odluka/2002/307403/) | in force | 1 | 2002-03-08 | 2002-03-08 |
+| Odluka o davanju kontragarancije Saveznoj Republici Jugoslaviji za uredno vracanje zajma, za rekonstrukciju Glavnog lukobrana Luke Bar | [`odluka/2002/307422/`](odluka/2002/307422/) | in force | 1 | 2002-11-24 | 2002-11-24 |
+| Odluka o izmjeni Odluke o razvrstavanju robe na oblike izvoza i uvoza | [`odluka/2002/307702/`](odluka/2002/307702/) | in force | 1 | 2002-01-16 | 2002-01-16 |
+| Odluka o utvrdjivanju pocetne visine koncesione naknade za davanje suma na koriscenje | [`odluka/2002/307717/`](odluka/2002/307717/) | in force | 1 | 2002-02-16 | 2002-02-16 |
+| Odluka o uskladjivanju novcanih naknada, za osiguranike koji pravo na naknadu ostvaruju u 2002.godini, prema kretanju neto-zarada u januaru 2002.godine u odnosu na 2001. godinu (preindeksacija) | [`odluka/2002/307720/`](odluka/2002/307720/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o raspisivanju izbora za odbornike Skupstine glavnog grada-Podgorice | [`odluka/2002/307859/`](odluka/2002/307859/) | in force | 1 | 2002-07-03 | 2002-07-03 |
+| Odluka o raspustanju Skupstine Glavnog grada | [`odluka/2002/307863/`](odluka/2002/307863/) | in force | 1 | 2002-07-03 | 2002-07-03 |
+| Odluka o uskladjivanju novcanih naknada prema kretanju neto zarada u februaru 2002. godine u odnosu na januar 2002. godine | [`odluka/2002/307891/`](odluka/2002/307891/) | in force | 1 | 2002-08-03 | 2002-08-03 |
+| Odluka o obezbjedjenju carine, drugih uvoznih dazbina, poreza i akciza | [`odluka/2002/307898/`](odluka/2002/307898/) | in force | 1 | 2002-10-24 | 2002-10-24 |
+| Odluka o broju studenata za upis u prvu godinu studija na Odsjek za geodeziju i Odsjek za arhitekturu na Gradjevinskom fakultetu Univerziteta Crne Gore za skolsku 2002/2003. godinu | [`odluka/2002/307981/`](odluka/2002/307981/) | in force | 1 | 2002-10-19 | 2002-10-19 |
+| Odluka o izmjeni Odluke o obaveznoj rezervi banaka kod Centralne banke Crne Gore | [`odluka/2002/308008/`](odluka/2002/308008/) | in force | 1 | 2002-11-02 | 2002-11-02 |
+| Odluka o utvrđivanju osnovice i stope za obračun članskog doprinosa za Privrednu komoru Crne Gore za 2003. godinu | [`odluka/2002/308071/`](odluka/2002/308071/) | in force | 1 | 2002-12-24 | 2002-12-24 |
+| Odluka o osnivanju preduzeca "Crnogorska plovidba" | [`odluka/2002/308100/`](odluka/2002/308100/) | in force | 1 | 2002-11-12 | 2002-11-12 |
+| Odluka o osnivanju Javne ustanove Osnovne škole "Dr Dragiša Ivanović" | [`odluka/2002/308219/`](odluka/2002/308219/) | in force | 1 | 2003-01-07 | 2003-01-07 |
+| Odluka o uskladjivanju dodatka za pomoc i njegu prema kretanju neto zarada u maju 2002. godine u odnosu na februar 2002. godine | [`odluka/2002/308245/`](odluka/2002/308245/) | in force | 1 | 2002-08-03 | 2002-08-03 |
+| Odluka o usklađivanju novčanih naknada prema kretanju neto zarada u junu 2002. godine u odnosu na maj 2002. godine | [`odluka/2002/308248/`](odluka/2002/308248/) | in force | 1 | 2002-12-21 | 2002-12-21 |
+| Odluka o uskladjivanju penzija prema kretanju neto-zarada u februaru 2002. godine u odnosu na januar 2002.godine | [`odluka/2002/323974/`](odluka/2002/323974/) | in force | 1 | 2002-08-03 | 2002-08-03 |
+| Odluka o utvrdjivanju najviseg iznosa penzije za januar 2oo2.godine | [`odluka/2002/324945/`](odluka/2002/324945/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o blizim uslovima i nacinu koriscenja sredstava koja Centralna banka Crne Gore odobrava bankama u cilju odrzavanja likvidnosti | [`odluka/2002/324946/`](odluka/2002/324946/) | in force | 1 | 2002-01-25 | 2002-01-25 |
+| Odluka o izmjenama Odluke o nacinu i postupku davanja i oduzimanja odobrenja bankama za obavljanje poslova platnog prometa u medjubankarskom platnom sistemu i ziro sistemu ciji je operater Centralna banka Crne Gore | [`odluka/2002/325032/`](odluka/2002/325032/) | in force | 1 | 2002-11-15 | 2002-11-15 |
+| Odluka o uskladjivanju novcanih naknada prema kretanju neto-zarada u januaru 2oo2.godine u odnosu na decembar 2oo1.godine | [`odluka/2002/325131/`](odluka/2002/325131/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o raspisivanju prijevremenih izbora za poslanike Skupstine Republike Crne Gore | [`odluka/2002/325273/`](odluka/2002/325273/) | in force | 1 | 2002-07-20 | 2002-07-20 |
+| Odluka o prihvatanju Ugovora o prenosenju prava koriscenja voda sa izvorista "Ropusica", u G. Lipovu kod Kolasina | [`odluka/2002/325347/`](odluka/2002/325347/) | in force | 1 | 2002-03-28 | 2002-03-28 |
+| Odluka o usklađivanju najnižeg iznosa penzije prema kretanju neto zarada u junu 2002. godine u odnosu na maj 2002. godine | [`odluka/2002/326340/`](odluka/2002/326340/) | in force | 1 | 2002-12-21 | 2002-12-21 |
+| Odluka o utvrdjivanju minimuma procesa rada koji se mora obezbijediti u Posti Crne Gore d.o.o. - Podgorica, za vrijeme trajanja strajka | [`odluka/2002/326691/`](odluka/2002/326691/) | in force | 1 | 2002-07-26 | 2002-07-26 |
+| Odluka o utvrdjivanju koeficijenata za valorizaciju zarada, naknada zarada, odnosno osnovica osiguranja iz ranijih godina koje sluze za utvrdjivanje penzijskog osnova prema nivou neto-zarada iz 2oo1.godine | [`odluka/2002/326733/`](odluka/2002/326733/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o otvaranju stalnog granicnog prelaza za medjunarodni putnicki saobracaj "Grncar-Vrmosa" | [`odluka/2002/327018/`](odluka/2002/327018/) | in force | 1 | 2002-11-01 | 2002-11-01 |
+| Odluka o visini i nacinu obracuna i placanja naknade koju placaju vlasnici suma i naknade koju placaju pravna lica u cijem stvaranju dobiti doprinose opstekorisne funkcije suma, ili koja u obavljanju djelatnosti ugrozavaju te funkcije | [`odluka/2002/327052/`](odluka/2002/327052/) | in force | 1 | 2002-07-26 | 2002-07-26 |
+| Odluka o obrazovanju Savjeta za odrzivi razvoj | [`odluka/2002/327364/`](odluka/2002/327364/) | in force | 1 | 2002-10-16 | 2002-10-16 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti radi zastite zdravlja ljudi i zivotne sredine zbog stetnih materija iz Kombinata aluminijuma | [`odluka/2002/327460/`](odluka/2002/327460/) | in force | 1 | 2002-05-29 | 2002-05-29 |
+| Odluka o uskladjivanju dodatka za pomoc i njegu prema kretanju neto zarada u februaru 2002. godine u odnosu na januar 2002. godine | [`odluka/2002/327555/`](odluka/2002/327555/) | in force | 1 | 2002-08-03 | 2002-08-03 |
+| Odluka U br. 86/2oo1, od 18. juna 2oo2. godine | [`odluka/2002/327650/`](odluka/2002/327650/) | in force | 1 | 2002-07-26 | 2002-07-26 |
+| Odluka o uskladjivanju najnizeg iznosa penzije prema kretanju neto zarada u maju 2002. godine u odnosu na februar 2002. godine | [`odluka/2002/327807/`](odluka/2002/327807/) | in force | 1 | 2002-08-03 | 2002-08-03 |
+| Odluka o osnivanju Centra za iseljenike | [`odluka/2002/344845/`](odluka/2002/344845/) | in force | 1 | 2002-04-09 | 2002-04-09 |
+| Odluka o dopuni Odluke o zabrani uvoza koriscenih motornih i prikljucnih vozila, gradjevinskih i rudarskih masina | [`odluka/2002/344846/`](odluka/2002/344846/) | amending act | 1 | 2002-04-09 | 2002-04-09 |
+| Odluka o prihvatanju Ugovora o davanju koncesije za koriscenje dijela voda sa izvorista "Ravnjak", u Bistrici kod Mojkovca | [`odluka/2002/345396/`](odluka/2002/345396/) | in force | 1 | 2002-03-28 | 2002-03-28 |
 | Odluka o izmjeni Odluke o osnivanju preduzeće "Crnogorska plovidba" | [`odluka/2002/348417/`](odluka/2002/348417/) | in force | 1 | 2002-12-14 | 2002-12-14 |
 | Odluka o sadržaju i načinu vođenja registra banaka i afilijacija stranih banaka | [`odluka/2002/348419/`](odluka/2002/348419/) | in force | 1 | 2002-12-21 | 2002-12-21 |
 | Odluka o davanju kontragarancije Saveznoj Republici Jugoslaviji za uredno vraćanje zajma, za projekat hitne stabilizacije u snabdijevnju električnom energijom u Republici Crnoj Gori | [`odluka/2002/348539/`](odluka/2002/348539/) | in force | 1 | 2002-12-22 | 2002-12-22 |
@@ -988,6 +1615,42 @@
 | Odluka o obrazovanju i sastavu Savjeta Projekta "Program integralnog razvoja Durmitorskog podrucja" | [`odluka/2002/349734/`](odluka/2002/349734/) | in force | 1 | 2002-02-01 | 2002-02-01 |
 | Odluka o pravilima medijskog predstavljanja podnosilaca izbornih lista za vrijeme predizborne kampanje za lokalne izbore koji ce se odrzati 15.maja 2002. godine | [`odluka/2002/349796/`](odluka/2002/349796/) | in force | 1 | 2002-08-05 | 2002-08-05 |
 | Odluka o izmjenama i dopunama Odluke o osnivanju Javnog regionalnog preduzeca za vodosnabdijevanje, odvodjenje otpadnih voda, prikupljanje, deponovanje i tretman otpada "AQUA REGIA" D. O. O. Budva | [`odluka/2002/350035/`](odluka/2002/350035/) | amending act | 1 | 2002-07-04 | 2002-07-04 |
+| Odluka o osnivanju Odsjeka za francuski jezik i knjizevnost na Filozofskom fakultetu u Niksicu | [`odluka/2003/294425/`](odluka/2003/294425/) | in force | 1 | 2003-06-09 | 2003-06-09 |
+| Odluka o pristupanju izradi izmjena i dopuna Generalnog urbanistickog plana priobalnog pojasa Opstine Budva - sektor Jaz | [`odluka/2003/294868/`](odluka/2003/294868/) | amending act | 1 | 2003-04-22 | 2003-04-22 |
+| Odluka o prestanku vazenja Odluke o postupanju banaka i finansijskih institucija u slucaju sumnjivih transakcija njihovih klijenata | [`odluka/2003/300121/`](odluka/2003/300121/) | in force | 1 | 2003-10-28 | 2003-10-28 |
+| Odluka o Energetskom bilansu Crne Gore za 2003. godinu | [`odluka/2003/300126/`](odluka/2003/300126/) | in force | 1 | 2003-04-30 | 2003-04-30 |
+| Odluka o obrazovanju Odbora za obiljezavanje 60. godisnjice ZAVNO Crne Gore i Boke | [`odluka/2003/300458/`](odluka/2003/300458/) | in force | 1 | 2003-06-27 | 2003-06-27 |
+| Odluka o izmjenama i dopunama Odluke o visine naknada za rad Komisije za hartije od vrijednosti | [`odluka/2003/300797/`](odluka/2003/300797/) | amending act | 1 | 2003-07-02 | 2003-07-02 |
+| Odluka o prestanku vazenja Odluke o osnivanju Agencije za energetske djelatnosti | [`odluka/2003/301077/`](odluka/2003/301077/) | in force | 1 | 2003-08-28 | 2003-08-28 |
+| Odluka o kriterijumima za izbor članova Komisije za koncesije i BOT aranzmane | [`odluka/2003/301143/`](odluka/2003/301143/) | in force | 1 | 2003-07-05 | 2003-07-05 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti radi prosirenja povrsinskog kopa "Sumani I" - Opstina Pljevlja | [`odluka/2003/302117/`](odluka/2003/302117/) | in force | 1 | 2003-03-29 | 2003-03-29 |
+| Odluka o prihvatanju ugovora o davanju prava na detaljna geoloska istrazivanja mineralnih sirovina | [`odluka/2003/302679/`](odluka/2003/302679/) | in force | 1 | 2003-02-21 | 2003-02-21 |
+| Odluka o izmjenama i dopunama Cjenovnika Centralne depozitarne agencije AD | [`odluka/2003/302697/`](odluka/2003/302697/) | amending act | 1 | 2004-01-01 | 2004-01-01 |
+| Odluka o ucescu u osnivanju Centra za strucno obrazovanje | [`odluka/2003/302729/`](odluka/2003/302729/) | in force | 1 | 2003-04-27 | 2003-04-27 |
+| Odluka o izmjenama i dopunama Odluke o jedinstvenom planu racuna za obavljanje platnog prometa u medjubankarskom platnom sistemu i ziro sistemu ciji je operater Centralna banka Crne Gore | [`odluka/2003/302991/`](odluka/2003/302991/) | amending act | 1 | 2003-09-24 | 2003-09-24 |
+| Odluka o osnivanju Politikoloskog odsjeka na Pravnom fakultetu u Podgorici | [`odluka/2003/303043/`](odluka/2003/303043/) | in force | 1 | 2003-06-09 | 2003-06-09 |
+| Odluka o raspodjeli dijela sredstava za finansiranje organizacije i sprovodjenja popisa stanovnistva, domacinstava i stanova u 2003. godini za potrebe opstinskih popisnih komisija | [`odluka/2003/303519/`](odluka/2003/303519/) | in force | 1 | 2003-10-01 | 2003-10-01 |
+| Odluka o Energetskom bilansu Crne Gore za 2004. godinu | [`odluka/2003/304019/`](odluka/2003/304019/) | in force | 1 | 2003-12-31 | 2003-12-31 |
+| Odluka o obrazovanju Komisije za borbu protiv piraterije u Republici Crnoj Gori | [`odluka/2003/304941/`](odluka/2003/304941/) | in force | 1 | 2003-10-14 | 2003-10-14 |
+| Odluka o internoj reviziji u bankama | [`odluka/2003/305605/`](odluka/2003/305605/) | in force | 1 | 2004-01-07 | 2004-01-07 |
+| Odluka o izmjenama Odluke o obrazovanju, sastavu i djelokrugu rada Savjeta za privatizaciju | [`odluka/2003/305658/`](odluka/2003/305658/) | in force | 1 | 2003-08-20 | 2003-08-20 |
+| Odluka o obrazovanju Savjeta za informaciono drustvo | [`odluka/2003/305779/`](odluka/2003/305779/) | in force | 1 | 2003-06-17 | 2003-06-17 |
+| Odluka o emisiji Drzavnih zapisa | [`odluka/2003/306158/`](odluka/2003/306158/) | in force | 1 | 2003-03-27 | 2003-03-27 |
+| Odluka o prodaji dijela drzavne imovine koju koristi Republicki hidrometeoroloski zavod | [`odluka/2003/306432/`](odluka/2003/306432/) | in force | 1 | 2003-05-29 | 2003-05-29 |
+| Odluka o utvrdjivanju osnovice i stope za obracun clanskog doprinosa za Privrednu komoru Crne Gore za 2004. godinu | [`odluka/2003/306488/`](odluka/2003/306488/) | in force | 1 | 2003-12-25 | 2003-12-25 |
+| Odluka o primjeni Sporazuma o slobodnoj trgovini izmedju Savezne Republike Jugoslavije i Bosne i Hercegovine | [`odluka/2003/306637/`](odluka/2003/306637/) | in force | 1 | 2003-09-05 | 2003-09-05 |
+| Odluka o mikrokreditnim finansijskim institucijama | [`odluka/2003/307168/`](odluka/2003/307168/) | in force | 1 | 2003-01-22 | 2003-01-22 |
+| Odluka o prestanku rada organizacionig jedinica za obavljanje platnog prometa u Centralnoj banci Crne Gore | [`odluka/2003/307177/`](odluka/2003/307177/) | in force | 1 | 2003-12-23 | 2003-12-23 |
+| Odluka o dopuni Odluke o broju studenata za upis u prvu godinu studija na univerzitetske jedinice Univerziteta Crne Gore za skolsku 2003/2004. godinu | [`odluka/2003/307701/`](odluka/2003/307701/) | amending act | 1 | 2003-12-03 | 2003-12-03 |
+| Odluka o izmjenama i dopunama cjenovnika Centralne depozitarne agencije AD | [`odluka/2003/307917/`](odluka/2003/307917/) | amending act | 1 | 2003-06-03 | 2003-06-03 |
+| Odluka o obrazovanju Savjeta za ustavna pitanja Skupstine Republike Crne Gore | [`odluka/2003/308221/`](odluka/2003/308221/) | in force | 1 | 2003-10-28 | 2003-10-28 |
+| Odluka o formiranju Komisije za koordinaciju procesa pristupanja Svjetskoj trgovinskoj organizaciji | [`odluka/2003/325201/`](odluka/2003/325201/) | in force | 1 | 2003-08-20 | 2003-08-20 |
+| Odluka U. br. 40/03, od 9. oktobra 2003. godine | [`odluka/2003/325206/`](odluka/2003/325206/) | in force | 1 | 2003-11-15 | 2003-11-15 |
+| Odluka o prihvatanju ugovora o davanju prava na detaljna geoloska istrazivanja mineralnih sirovina | [`odluka/2003/325773/`](odluka/2003/325773/) | in force | 1 | 2003-06-24 | 2003-06-24 |
+| Odluka o uslovima pod kojim se stranim drzavljanima omogucava ulazak i boravak bez vize radi turisticke posjete Republici Crnoj Gori | [`odluka/2003/326063/`](odluka/2003/326063/) | in force | 1 | 2003-02-15 | 2003-02-15 |
+| Odluka o prihvatanju Ugovora o prenosenju prava koriscenja vodama sa izvorista Vrelo Bistrice, u Majstorovini kod Bijelog Polja | [`odluka/2003/326284/`](odluka/2003/326284/) | in force | 1 | 2003-11-21 | 2003-11-21 |
+| Odluka o prestanku vazenja Odluke o kriterijumima i nacinu utvrdjivanja visine blagajnickog maksimuma | [`odluka/2003/326590/`](odluka/2003/326590/) | in force | 1 | 2004-01-07 | 2004-01-07 |
+| Odluka o izmjenama i dopunama Odluke o platnom prometu u zemlji | [`odluka/2003/333188/`](odluka/2003/333188/) | amending act | 1 | 2003-02-12 | 2003-02-12 |
 | Odluka o izdavanju doplate postanske marke "100 godina prvog postanskog automobila u Evropi i Crnoj Gori" | [`odluka/2003/348359/`](odluka/2003/348359/) | in force | 1 | 2003-06-17 | 2003-06-17 |
 | Odluka o vanrednoj emisiji Drzavnih zapisa | [`odluka/2003/348426/`](odluka/2003/348426/) | in force | 1 | 2003-03-27 | 2003-03-27 |
 | Odluka o izmjeni Odluke o obliku i sadrzaju zdravstvene knjizice kojom se dokazuje svojstvo osiguranika Republickog fonda za zdravstvo | [`odluka/2003/348454/`](odluka/2003/348454/) | in force | 1 | 2003-10-29 | 2003-10-29 |
@@ -1012,6 +1675,53 @@
 | Odluka o izmjeni i dopuni Odluke o naknadama za usluge Centralne banke Crne Gore za obavljanje platnog prometa u medjubankarskom platnom sistemu i ziro sistemu | [`odluka/2003/349829/`](odluka/2003/349829/) | amending act | 1 | 2003-10-10 | 2003-10-10 |
 | Odluka o obrazovanju i sastavu Odbora Programa Vlade Republike Crne Gore za kvalitet | [`odluka/2003/350014/`](odluka/2003/350014/) | in force | 1 | 2003-08-20 | 2003-08-20 |
 | Odluka o prodaji akcija Vlade Republike Crne Gore u AD Montenegrobanka -Podgorica | [`odluka/2003/350075/`](odluka/2003/350075/) | in force | 1 | 2003-05-09 | 2003-05-09 |
+| Odluka o utvrdjivanju koeficijenata za valorizaciju zarada, naknada zarada, odnosno osnovica osiguranja iz ranijih godina koje sluze za utvrdjivanje penzijskog osnova prema nivou neto-zarada iz 2002.godine | [`odluka/2004/292075/`](odluka/2004/292075/) | in force | 1 | 2004-03-03 | 2004-03-03 |
+| Odluka o izmjenama Odluke o obrazovanju, sastavu i djelokrugu rada Savjeta za privatizaciju | [`odluka/2004/292089/`](odluka/2004/292089/) | in force | 1 | 2004-11-26 | 2004-11-26 |
+| Odluka o obrazovanju Nacionalnog foruma "Obrazovanje za sve | [`odluka/2004/297421/`](odluka/2004/297421/) | in force | 1 | 2004-08-17 | 2004-08-17 |
+| Odluka o izmjenama Odluke o jedinstvenom mjenicnom blanketu | [`odluka/2004/297693/`](odluka/2004/297693/) | in force | 1 | 2004-10-21 | 2004-10-21 |
+| Odluka o izmjeni Odluke o platnom prometu u zemlji | [`odluka/2004/297723/`](odluka/2004/297723/) | in force | 1 | 2004-07-17 | 2004-07-17 |
+| Odluka o utvrdjivanju najviseg iznosa penzije za januar 2003.godine | [`odluka/2004/297724/`](odluka/2004/297724/) | in force | 1 | 2004-03-03 | 2004-03-03 |
+| Odluka o obrazovanju Savjeta za Evropske integracije | [`odluka/2004/297882/`](odluka/2004/297882/) | in force | 1 | 2004-05-18 | 2004-05-18 |
+| Odluka o jedinstvenoj strukturi za identifikaciju i klasifikaciju racuna za obavljanje platnog prometa u zemlji | [`odluka/2004/297885/`](odluka/2004/297885/) | in force | 1 | 2004-12-23 | 2004-12-23 |
+| Odluka o utvrdjivanju osnovice i stope za obracun clanskog doprinosa za Privrednu komoru Crne Gore za 2005. godinu | [`odluka/2004/298262/`](odluka/2004/298262/) | in force | 1 | 2004-12-22 | 2004-12-22 |
+| Odluka o obrazovanju Odbora za obilježavanje 100. godišnjice ustavnosti i parlamentarizma u Crnoj Gori | [`odluka/2004/298359/`](odluka/2004/298359/) | in force | 1 | 2004-08-04 | 2004-08-04 |
+| Odluka o obrazovanju Komisije za koordinaciju procesa pristupanja Evropskoj Uniji | [`odluka/2004/298363/`](odluka/2004/298363/) | in force | 1 | 2004-05-18 | 2004-05-18 |
+| Odluka o prodaji akcija Vlade Republike Crne Gore u drustvu Telekom Crne Gore A.D. Podgorica | [`odluka/2004/298535/`](odluka/2004/298535/) | in force | 1 | 2004-10-16 | 2004-10-16 |
+| Odluka o uskladjivanju penzija, za osiguranike koji pravo na penziju ostvaruju u 2003.godini prema kretanju neto-zarada u januaru 2003.godine u odnosu na 2002.godinu (preindeksacija) | [`odluka/2004/298631/`](odluka/2004/298631/) | in force | 1 | 2004-03-03 | 2004-03-03 |
+| Odluka o uskladjivanju penzija i novcanih naknada od 1. jula 2004. godine | [`odluka/2004/298666/`](odluka/2004/298666/) | in force | 1 | 2004-09-23 | 2004-09-23 |
+| Odluka o broju zamjenika kod Osnovnog drzavnog tuzioca u Podgorici, Kotoru i Baru | [`odluka/2004/299049/`](odluka/2004/299049/) | in force | 1 | 2004-08-19 | 2004-08-19 |
+| Odluka o utvrdjivanju najnizeg iznosa penzije za januar 2003.godine | [`odluka/2004/299059/`](odluka/2004/299059/) | in force | 1 | 2004-03-03 | 2004-03-03 |
+| Odluka o raspisivanju javnog konkursa za dodjelu dozvola za emitovanje radio-difuznih signala u Republici Crnoj Gori | [`odluka/2004/299087/`](odluka/2004/299087/) | in force | 1 | 2004-12-29 | 2004-12-29 |
+| Odluka o raspustanju Skupstine opstine Zabljak | [`odluka/2004/299347/`](odluka/2004/299347/) | in force | 1 | 2004-06-05 | 2004-06-05 |
+| Odluka o uskladjivanju nominalnog iznosa najnize penzije od 1. jula 2004. godine | [`odluka/2004/299348/`](odluka/2004/299348/) | in force | 1 | 2004-09-23 | 2004-09-23 |
+| Odluka o uskladjivanju novcanih naknada, za osiguranike koji pravo na naknadu ostvaruju u 2003.godini, prema kretanju neto-zarada u januaru 2003.godine u odnosu na 2002.godinu (preindeksacija) | [`odluka/2004/299418/`](odluka/2004/299418/) | in force | 1 | 2004-03-03 | 2004-03-03 |
+| Odluka U br. 62/02, od 26. decembra 2003. godine | [`odluka/2004/299452/`](odluka/2004/299452/) | in force | 1 | 2004-02-06 | 2004-02-06 |
+| Odluka o uskladjivanju osnova za odredjivanje novcane naknade za tjelesno ostecenje od 1. jula 2004. godine | [`odluka/2004/299522/`](odluka/2004/299522/) | in force | 1 | 2004-09-23 | 2004-09-23 |
+| Odluka o uslovima pod kojima se stranim drzavljanima omogucava ulazak i boravak u Republici Crnoj Gori | [`odluka/2004/299569/`](odluka/2004/299569/) | in force | 1 | 2004-06-04 | 2004-06-04 |
+| Odluka o Energetskom bilansu Crne Gore za 2005.godinu | [`odluka/2004/299705/`](odluka/2004/299705/) | in force | 1 | 2004-12-31 | 2004-12-31 |
+| Odluka o vanrednoj emisiji drzavnih zapisa | [`odluka/2004/299747/`](odluka/2004/299747/) | in force | 1 | 2004-12-31 | 2004-12-31 |
+| Odluka o izmjeni Odluke o obavljanju platnog prometa sa Republikom Srbijom i Kosovom i Metohijom | [`odluka/2004/299748/`](odluka/2004/299748/) | in force | 1 | 2004-03-13 | 2004-03-13 |
+| Odluka o prestanku vazenja Odluke o osnivanju Kancelarije za ravnopravnost polova | [`odluka/2004/299854/`](odluka/2004/299854/) | in force | 1 | 2004-04-09 | 2004-04-09 |
+| Odluka o osnivanju Javne ustanove Specijalisticka veterinarska laboratorija | [`odluka/2004/299880/`](odluka/2004/299880/) | in force | 1 | 2004-11-13 | 2004-11-13 |
+| Odluka o uskladjivanju najnizeg iznosa penzije u 2003. godini, na osnovu statistickih podataka, sa kretanjem neto-zarada | [`odluka/2004/300019/`](odluka/2004/300019/) | in force | 1 | 2004-03-03 | 2004-03-03 |
+| Odluka o uskladjivanju novcanih naknada u periodu jul 2002.godine - decembar 2003.godine, na osnovu statistickih podataka, sa kretanjem neto-zarada | [`odluka/2004/300025/`](odluka/2004/300025/) | in force | 1 | 2004-03-03 | 2004-03-03 |
+| Odluka o izmjeni Odluke o naknadama za usluge Centralne banke Crne Gore za obavljanje platnog prometa u medjubankarskom platnom sistemu i ziro sistemu | [`odluka/2004/300057/`](odluka/2004/300057/) | in force | 1 | 2004-10-21 | 2004-10-21 |
+| Odluka o Planu privatizacije za 2004. godinu | [`odluka/2004/300123/`](odluka/2004/300123/) | in force | 1 | 2004-04-16 | 2004-04-16 |
+| Odluka o uskladjivanju penzija u periodu jul 2002.godine - decembar 2003.godine na osnovu statistickih podataka, sa kretanjem neto-zarada | [`odluka/2004/300261/`](odluka/2004/300261/) | in force | 1 | 2004-03-03 | 2004-03-03 |
+| Odluka o uskladjivanju vrijednosti penzija za jedan licni bod od 1. jula 2004. godine | [`odluka/2004/300454/`](odluka/2004/300454/) | in force | 1 | 2004-09-23 | 2004-09-23 |
+| Odluka o emisiji Drzavnih zapisa | [`odluka/2004/300493/`](odluka/2004/300493/) | in force | 1 | 2004-04-09 | 2004-04-09 |
+| Odluka o uskladjivanju najviseg iznosa penzije u 2003. godini, na osnovu statistickih podataka, sa kretanjem neto-zarada | [`odluka/2004/300549/`](odluka/2004/300549/) | in force | 1 | 2004-03-03 | 2004-03-03 |
+| Odluka o naknadama za usluge Centralne banke Crne Gore za obavljanje poslova platnog prometa | [`odluka/2004/324133/`](odluka/2004/324133/) | in force | 1 | 2004-12-23 | 2004-12-23 |
+| Odluka o dopuni Odluke o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti u opstinama Herceg Novi i Pluzine | [`odluka/2004/325004/`](odluka/2004/325004/) | amending act | 1 | 2004-10-08 | 2004-10-08 |
+| Odluka o prestanku vazenja Odluke o uslovima i nacinu placanja gotovim novcem | [`odluka/2004/325338/`](odluka/2004/325338/) | in force | 1 | 2004-03-31 | 2004-03-31 |
+| Odluka o prestanku vazenja Odluke o obrazovanju Savjeta za nastavne planove i programe Crne Gore | [`odluka/2004/326159/`](odluka/2004/326159/) | in force | 1 | 2004-04-16 | 2004-04-16 |
+| Odluka o izmjeni i dopuni Odluke o utvrdjivanju liste ljekova koji se mogu propisivati i izdavati na teret sredstava Republickog fonda za zdravstvo | [`odluka/2004/326315/`](odluka/2004/326315/) | amending act | 1 | 2004-01-28 | 2004-01-28 |
+| Odluka o obrazovanju Koordinacionog odbora za izgradnju autoputeva u Crnoj Gori | [`odluka/2004/326649/`](odluka/2004/326649/) | in force | 1 | 2004-07-26 | 2004-07-26 |
+| Odluka U.br.47/04 i U.br.116/04 od 1. decembra 2004.godine, sa izdvojenim misljenjem | [`odluka/2004/326675/`](odluka/2004/326675/) | in force | 1 | 2004-12-24 | 2004-12-24 |
+| Odluka o uskladjivanju dodatka za pomoc i njegu u periodu jul 2002.godine-decembar 2003.godine, na osnovu statistickih podataka, sa kretanjem neto-zarada | [`odluka/2004/326728/`](odluka/2004/326728/) | in force | 1 | 2004-03-03 | 2004-03-03 |
+| Odluka o izmjeni Odluke o obrazovanju Ekspertskog tima za izradu Studije o usaglasenosti zakonodavstva Crne Gore sa Evropskom konvencijom o ljudskim pravima | [`odluka/2004/326751/`](odluka/2004/326751/) | in force | 1 | 2004-06-19 | 2004-06-19 |
+| Odluka o izmjenama i dopunama Poslovnika Vlade Republike Crne Gore | [`odluka/2004/332836/`](odluka/2004/332836/) | amending act | 1 | 2004-11-23 | 2004-11-23 |
+| Odluka o izdavanju doplatne postanske marke, povodom X -godisnjeg jubileja medjunarodne biciklisticke trke "Putevima Kralja Nikole" | [`odluka/2004/345487/`](odluka/2004/345487/) | in force | 1 | 2004-03-13 | 2004-03-13 |
 | Odluka o postupku podnosenja zahtjeva pravnih lica za izdavanje Drzavne garancije | [`odluka/2004/348060/`](odluka/2004/348060/) | in force | 1 | 2004-06-23 | 2004-06-23 |
 | Odluka o davanju kontragarancije Drzavnoj zajednici Srbija i Crna Gora za uredno vracanje kredita Medjunarodnom udruzenju za razvoj, za strukturno prilagodjavanje Republike Crne Gore (SAC II) | [`odluka/2004/348090/`](odluka/2004/348090/) | in force | 1 | 2004-12-15 | 2004-12-15 |
 | Odluka o uslovima i nacinu obavljanja platnog prometa u zemlji od strane ovlascenog agenta | [`odluka/2004/348131/`](odluka/2004/348131/) | in force | 1 | 2004-12-23 | 2004-12-23 |
@@ -1037,6 +1747,55 @@
 | Odluka o davanju kontragarancije Srbiji i Crnoj Gori za uredno vracanje kredita za projekat za penzionu administraciju Crne Gore | [`odluka/2004/349939/`](odluka/2004/349939/) | in force | 1 | 2004-08-03 | 2004-08-03 |
 | Odluka o izdavanju doplatne postanske marke "Olimpijske igre-Atina 2004." | [`odluka/2004/350003/`](odluka/2004/350003/) | in force | 1 | 2004-06-11 | 2004-06-11 |
 | Odluka o uslovima koje moraju da ispunjavaju koriscena motorna vozila prilikom uvoza | [`odluka/2004/350037/`](odluka/2004/350037/) | in force | 1 | 2004-05-20 | 2004-05-20 |
+| Odluka o utvrdjivanju visine posebne naknade za drumska motorna vozila i njihova prikljucna vozila Odluka o utvrdjivanju visine posebne naknade za drumska motorna vozila i njihova prikljucna vozila | [`odluka/2005/292041/`](odluka/2005/292041/) | in force | 1 | 2005-10-22 | 2005-10-22 |
+| Odluka o minimalnim standardima za upravljanje rizikom zemlje | [`odluka/2005/297100/`](odluka/2005/297100/) | in force | 1 | 2005-02-26 | 2005-02-26 |
+| Odluka o ustupanju sumskog zemljišta Opstini Bijelo Polje na koriscenje, radi prosirenja postojeceg groblja u selu Nedakusi, Opstina Bijelo Polje | [`odluka/2005/297136/`](odluka/2005/297136/) | in force | 1 | 2005-06-17 | 2005-06-17 |
+| Odluka o uskladjivanju penzija u periodu jul 2002. godine decembar 2003.godine na osnovu statistickih podataka, sa kretanjem neto zarada | [`odluka/2005/297762/`](odluka/2005/297762/) | in force | 1 | 2005-02-01 | 2005-02-01 |
+| Odluka o dodjeli koncesije za eksploataciju nemetalicne mineralne sirovine tehnicko-gradjevinskog kamena iz lezista "Platac" (GRBALJ) | [`odluka/2005/297795/`](odluka/2005/297795/) | in force | 1 | 2005-10-22 | 2005-10-22 |
+| Odluka o izmjenama i dopunama Odluke o Kontnom okviru za banke i finansijske institucije | [`odluka/2005/297848/`](odluka/2005/297848/) | amending act | 1 | 2005-12-30 | 2005-12-30 |
+| Odluka o prihvatanju Ugovora o ustupanju nepokretnosti | [`odluka/2005/298103/`](odluka/2005/298103/) | in force | 1 | 2005-07-02 | 2005-07-02 |
+| Odluka o uskladjivanju penzija i novcanih naknada od 1.januara 2005.godine | [`odluka/2005/298263/`](odluka/2005/298263/) | in force | 1 | 2005-02-19 | 2005-02-19 |
+| Odluka dodjeli konsecije za eksploataciju nemetalicke mineralne sirovine tehnicko-gradjđevinskog kamena iz lezista "KRS" (Kaludjerski laz) | [`odluka/2005/298332/`](odluka/2005/298332/) | in force | 1 | 2005-10-22 | 2005-10-22 |
+| Odluka o planu sredstava Egalizacionog fonda za 2006.godinu i njihovoj raspodjeli po opstinama | [`odluka/2005/298365/`](odluka/2005/298365/) | in force | 1 | 2005-12-30 | 2005-12-30 |
+| Odluka o posebnom programu privatizacije NJP "Pobjeda" - Podgorica | [`odluka/2005/298397/`](odluka/2005/298397/) | in force | 1 | 2005-07-02 | 2005-07-02 |
+| Odluka o davanju kontragarancije Drzavnoj zajednici Srbija i Crna Gora za uredno vracanje kredita za program finansijske saradnje izmedju Savjeta ministara Srbije i Crne Gore i Vlade Spanije | [`odluka/2005/298427/`](odluka/2005/298427/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Odluka o osnivanju Ispitnog centra | [`odluka/2005/298526/`](odluka/2005/298526/) | in force | 1 | 2005-11-23 | 2005-11-23 |
+| Odluka o raspustanju Skupstine Prestonice Cetinje | [`odluka/2005/298601/`](odluka/2005/298601/) | in force | 1 | 2005-10-07 | 2005-10-07 |
+| Odluka o prodaji akciji Republike Crne Gore u Podgorickoj banci AD Podgorica | [`odluka/2005/298693/`](odluka/2005/298693/) | in force | 1 | 2005-07-29 | 2005-07-29 |
+| Odluka U br.55/04 od 22.decembra 2004.godine | [`odluka/2005/305620/`](odluka/2005/305620/) | in force | 1 | 2005-02-08 | 2005-02-08 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi rekonstrukcije magistralnog puta Kolasin -Matesevo | [`odluka/2005/305637/`](odluka/2005/305637/) | in force | 1 | 2005-12-30 | 2005-12-30 |
+| Odluka o prodaji akcija Vlade Republike Crne Gore u drustvu Telekom Crne Gore AD Podgorica | [`odluka/2005/305652/`](odluka/2005/305652/) | in force | 1 | 2005-03-11 | 2005-03-11 |
+| Odluka o prodaji akcija u Radvent AD Niksic | [`odluka/2005/306208/`](odluka/2005/306208/) | in force | 1 | 2005-07-28 | 2005-07-28 |
+| Odluka o nacinu evidentiranja izbjeglih i interno raseljenih lica | [`odluka/2005/306484/`](odluka/2005/306484/) | in force | 1 | 2005-05-21 | 2005-05-21 |
+| Odluka o utvrdjivanju Liste ljekova koji se propisiju i izdaju na teret sredstava Republickog fonda za zdravstveno osiguranje | [`odluka/2005/306508/`](odluka/2005/306508/) | in force | 1 | 2005-12-17 | 2005-12-17 |
+| Odluka o ustupanju sumskog zemljista u drzavnoj svojini Opstini Bijelo Polje, radi zakljucenja ugovora o razmjeni nepokretnosti | [`odluka/2005/306720/`](odluka/2005/306720/) | in force | 1 | 2005-05-17 | 2005-05-17 |
+| Odluka o prodaji akcija Republike Crne Gore u Podgorickoj banci A.D. Podgorica | [`odluka/2005/306752/`](odluka/2005/306752/) | in force | 1 | 2005-10-22 | 2005-10-22 |
+| Odluka o utvrdjivanju osnovice i stope za obracun clanskog doprinosa za Privrednu komoru Crne Gore za 2006. godinu | [`odluka/2005/306753/`](odluka/2005/306753/) | in force | 1 | 2005-12-28 | 2005-12-28 |
+| Odluka o uskladjivanju vrijednosti penzija za jedan licni bod od 1. jula 2005. godine | [`odluka/2005/306763/`](odluka/2005/306763/) | in force | 1 | 2005-08-05 | 2005-08-05 |
+| Odluka o mjesecnom izvjestaju koji banke dostavljaju Fondu za zastitu depozita | [`odluka/2005/306937/`](odluka/2005/306937/) | in force | 1 | 2005-12-31 | 2005-12-31 |
+| Odluka o uskladjivanju osnova za odredjivanje novcane naknade za tjelesno ostecenje od 1.januara 2005.godine | [`odluka/2005/307192/`](odluka/2005/307192/) | in force | 1 | 2005-02-19 | 2005-02-19 |
+| Odluka o raspustanju Skupstine opstine Mojkovac | [`odluka/2005/307198/`](odluka/2005/307198/) | in force | 1 | 2005-10-28 | 2005-10-28 |
+| Odluka o uskadjivanju osnova za odredjivanje novcane naknade za tjelesno ostecenje od 1. jula 2005. godine | [`odluka/2005/307200/`](odluka/2005/307200/) | in force | 1 | 2005-08-05 | 2005-08-05 |
+| Odluka o minimalnim standardima za upravljanje operativnim rizikom u bankama | [`odluka/2005/307224/`](odluka/2005/307224/) | in force | 1 | 2005-02-26 | 2005-02-26 |
+| Odluka o uskladjivanju penzija i novcanih naknada od 1. jula 2005. godine | [`odluka/2005/307464/`](odluka/2005/307464/) | in force | 1 | 2005-08-05 | 2005-08-05 |
+| Odluka o uskladjivanju vrijednosti penzija za jedan licni bod od 1.januara 2005.godine | [`odluka/2005/307470/`](odluka/2005/307470/) | in force | 1 | 2005-02-19 | 2005-02-19 |
+| Odluka o izmjenama Odluke o obliku, sadrzini i upotrebi jedinstvenih instrumenata platnog prometa za placanja u zemlji | [`odluka/2005/307595/`](odluka/2005/307595/) | in force | 1 | 2005-02-12 | 2005-02-12 |
+| Odluka o prestanku vazenja Odluke o visini naknade za drumska motorna vozila koja za pogon koriste gas | [`odluka/2005/307776/`](odluka/2005/307776/) | in force | 1 | 2005-10-22 | 2005-10-22 |
+| Odluka o izmjenama i dopunama Odluke o radio - difuznim frekvencijama za republicki javni radio - difuzni servis | [`odluka/2005/307810/`](odluka/2005/307810/) | amending act | 1 | 2005-03-11 | 2005-03-11 |
+| Odluka o izmjeni i dopuni Odluke o obrazovanju Komisije za izradu Nacionalnog plana za prava djece | [`odluka/2005/307940/`](odluka/2005/307940/) | amending act | 1 | 2005-04-30 | 2005-04-30 |
+| Odluka o uskladjivanju nominalnog iznosa najnize penzije od 1. jula 2005. godine | [`odluka/2005/308086/`](odluka/2005/308086/) | in force | 1 | 2005-08-05 | 2005-08-05 |
+| Odluka o uskladjivanju nominalnog iznosa najnize penzije od 1.januara 2005.godine | [`odluka/2005/308109/`](odluka/2005/308109/) | in force | 1 | 2005-02-19 | 2005-02-19 |
+| Odluka o dodjeli koncesije za eksploataciju nemetalicne mineralne sirovine tehnicko-gradjevinskog kamena iz lezista "Ristova Ponta" | [`odluka/2005/308115/`](odluka/2005/308115/) | in force | 1 | 2005-10-22 | 2005-10-22 |
+| Odluka U. br. 48/05 od 13. septembra 2005 | [`odluka/2005/308896/`](odluka/2005/308896/) | in force | 1 | 2005-10-15 | 2005-10-15 |
+| Odluka o Planu privatizacije za 2005.godinu | [`odluka/2005/309073/`](odluka/2005/309073/) | in force | 1 | 2005-02-24 | 2005-02-24 |
+| Odluka o izboru tri clana Komisije za izbor i imenovanja Skupstine Republike Crne Gore | [`odluka/2005/309100/`](odluka/2005/309100/) | in force | 1 | 2005-12-06 | 2005-12-06 |
+| Odluka o dopuni Odluke o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti u opstinama Herceg Novi i Pluzine | [`odluka/2005/324910/`](odluka/2005/324910/) | amending act | 1 | 2005-06-10 | 2005-06-10 |
+| Odluka o utvrdjivanju visine godisnje premije za 2006. godinu | [`odluka/2005/325141/`](odluka/2005/325141/) | in force | 1 | 2005-12-24 | 2005-12-24 |
+| Odluka o prodaji akcija Republike Crne Gore u Pljevaljskoj banci A.D. Pljevlja | [`odluka/2005/325378/`](odluka/2005/325378/) | in force | 1 | 2005-12-30 | 2005-12-30 |
+| Odluka o prestanku vazenja Odluke o uvodjenju privremene zastitne mjere od prekomjernog uvoza brasna od psenice | [`odluka/2005/326778/`](odluka/2005/326778/) | in force | 1 | 2005-03-23 | 2005-03-23 |
+| Odluka o uskladjiivanju najvise osnovice za placanje doprinosa za penzijsko i invalidsko osiguranje od 1.januara 2005.godine | [`odluka/2005/332901/`](odluka/2005/332901/) | in force | 1 | 2005-02-19 | 2005-02-19 |
+| Odluka o emisiji drzavnih zapisa | [`odluka/2005/344897/`](odluka/2005/344897/) | in force | 1 | 2005-03-01 | 2005-03-01 |
+| Odluka o izmjenama i dopunama Odluke o naknadama za usluge Centralne banke Crne Gore za obavljanje poslova platnog prometa u zemlji | [`odluka/2005/344925/`](odluka/2005/344925/) | amending act | 1 | 2005-03-19 | 2005-03-19 |
 | Odluka o dopunama Poslovnika Ustavnog suda Republike Crne Gore | [`odluka/2005/348114/`](odluka/2005/348114/) | amending act | 1 | 2006-01-05 | 2006-01-05 |
 | Odluku o izmjeni i dopuni Odluke o broju sudija u Apelacionom sudu Republike Crne Gore i Upravnom sudu Republike Crne Gore | [`odluka/2005/348389/`](odluka/2005/348389/) | amending act | 1 | 2005-04-05 | 2005-04-05 |
 | Odluka o obliku i sadrzaju zdravstvenog kartona za izbjegla i interno raseljena lica | [`odluka/2005/348396/`](odluka/2005/348396/) | in force | 1 | 2005-05-21 | 2005-05-21 |
@@ -1058,6 +1817,68 @@
 | Odluka o uredjivanju medjusobnih prava i obaveza po osnovu obveznica devizne stednje stecenih prodajom akcija preduzeca | [`odluka/2005/349718/`](odluka/2005/349718/) | in force | 1 | 2005-04-29 | 2005-04-29 |
 | Odluka o dopunama Odluke o visini naknada za rad Komisije za hartije od vrijednosti | [`odluka/2005/349719/`](odluka/2005/349719/) | amending act | 1 | 2005-05-06 | 2005-05-06 |
 | Odluka o izmjeni Odluke o osnivanju Savjeta za opste obrazovanje | [`odluka/2005/349887/`](odluka/2005/349887/) | in force | 1 | 2005-07-01 | 2005-07-01 |
+| Odluka o izmjeni Odluke o obrazovanju Medjuresorskog odbora za operativnu koordinaciju upravne reforme u Crnoj Gori | [`odluka/2006/291556/`](odluka/2006/291556/) | in force | 1 | 2006-10-07 | 2006-10-07 |
+| Odluka o uskladjivanju najvise osnovice za placanje doprinosa za penzijsko invalidsko osiguranje od 1.januara 2006.godine | [`odluka/2006/291613/`](odluka/2006/291613/) | in force | 1 | 2006-02-18 | 2006-02-18 |
+| Odluka o izmjenama i dopunama Odluke o raspisivanju Medjunarodnog javnog tendera | [`odluka/2006/292019/`](odluka/2006/292019/) | amending act | 1 | 2006-12-26 | 2006-12-26 |
+| Odluka o produzenju prava na eksploataciju tehnicko - gradjevinskog kamena (eruptiva) na lezistu "Stitarica - Okruglicki krs", Opstina Mojkovac | [`odluka/2006/292087/`](odluka/2006/292087/) | in force | 1 | 2006-12-19 | 2006-12-19 |
+| Odluka o uskladjivanju vrijednosti penzija za jedan licni bod od 1.jula 2006. godine | [`odluka/2006/297650/`](odluka/2006/297650/) | in force | 1 | 2006-08-02 | 2006-08-02 |
+| Odluka o davanju saglasnosti za izmjenu Ugovora o pravu na detaljna geoloska istrazivanja i eksploataciju tehnicko-gradjevinskog kamena na lezistu "Volujica"u Luci Bar | [`odluka/2006/298272/`](odluka/2006/298272/) | in force | 1 | 2006-09-08 | 2006-09-08 |
+| Odluka o produzenju prava na eksploataciju tehnicko-gradjevinskog kamena na lezistu "Haj - Nehaj" kod Sutomora | [`odluka/2006/298287/`](odluka/2006/298287/) | in force | 1 | 2006-09-08 | 2006-09-08 |
+| Odluka br.279 | [`odluka/2006/298312/`](odluka/2006/298312/) | in force | 1 | 2006-05-13 | 2006-05-13 |
+| Odluka o izmjeni Odluke o obrazovanju Medjuresorskog odbora za operativnu koordinaciju upravne reforme u Crnoj Gori | [`odluka/2006/298563/`](odluka/2006/298563/) | in force | 1 | 2006-04-01 | 2006-04-01 |
+| Odluka o izmjeni Odluke o obrazovanju Ekonomskog i socijalnog savjeta | [`odluka/2006/298583/`](odluka/2006/298583/) | in force | 1 | 2007-01-06 | 2007-01-06 |
+| Odluka o raspustanju Skupstine opstine Zabljak | [`odluka/2006/298585/`](odluka/2006/298585/) | in force | 1 | 2006-07-11 | 2006-07-11 |
+| Odluka o izdavanju sertifikata o kvalitetu za robu prilikom izvoza i uvoza | [`odluka/2006/298649/`](odluka/2006/298649/) | in force | 1 | 2006-07-12 | 2006-07-12 |
+| Odluka br.105 | [`odluka/2006/298653/`](odluka/2006/298653/) | in force | 1 | 2006-04-26 | 2006-04-26 |
+| Odluka o odredjivanju birackih mjesta za izbor pet poslanika u Skupstinu Republike Crne Gore | [`odluka/2006/298809/`](odluka/2006/298809/) | in force | 1 | 2006-08-04 | 2006-08-04 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti radi rekonstrukcije dionice magistralnog puta od Virpazara do raskrsnice na sjeverni prikljucni put za tunel "Sozina" | [`odluka/2006/298840/`](odluka/2006/298840/) | in force | 1 | 2006-11-17 | 2006-11-17 |
+| Odluka o dopunama Statuta Centralne banke Crne Gore | [`odluka/2006/299126/`](odluka/2006/299126/) | amending act | 1 | 2006-08-02 | 2006-08-02 |
+| Odluka o broju sudija porotnika u sudovima u Republici Crnoj Gori | [`odluka/2006/299396/`](odluka/2006/299396/) | in force | 1 | 2006-04-14 | 2006-04-14 |
+| Odluka o uskladjivanju penzija i novcanih naknada od 1.jula 2006. godine | [`odluka/2006/299458/`](odluka/2006/299458/) | in force | 1 | 2006-08-02 | 2006-08-02 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za izgradnju magistralnog puta Risan - Zabljak, dionica Sopot - Morinj | [`odluka/2006/300139/`](odluka/2006/300139/) | in force | 1 | 2006-12-30 | 2006-12-30 |
+| Odluka o utvrdjivanju broja poslanika koji se bira u Skupstini Republike Crne Gore na izborima u 2006. godini | [`odluka/2006/300169/`](odluka/2006/300169/) | in force | 1 | 2006-07-12 | 2006-07-12 |
+| Odluka o prodaji viska naoruzanja i vojne opreme | [`odluka/2006/300244/`](odluka/2006/300244/) | in force | 1 | 2006-11-08 | 2006-11-08 |
+| Odluka o otvaranju Ambasade Republike Crne Gore u Ujedinjenom Kraljevstvu | [`odluka/2006/300248/`](odluka/2006/300248/) | in force | 1 | 2006-11-22 | 2006-11-22 |
+| Odluka o Energetskom bilansu Republike Crne Gore za 2007. godinu | [`odluka/2006/300276/`](odluka/2006/300276/) | in force | 1 | 2006-12-28 | 2006-12-28 |
+| Odluka o prodaji akcija Republike Crne Gore i Vlade Republike Crne Gore u A.D. "Montenegro Moderns Shoes" Cetinje | [`odluka/2006/300396/`](odluka/2006/300396/) | in force | 1 | 2006-07-12 | 2006-07-12 |
+| Odluka o otvaranju Ambasade Republike Crne Gore u Sjedinjenim Americkim Drzavama | [`odluka/2006/300494/`](odluka/2006/300494/) | in force | 1 | 2006-11-22 | 2006-11-22 |
+| Odluka broj 105/2 | [`odluka/2006/300604/`](odluka/2006/300604/) | in force | 1 | 2006-05-04 | 2006-05-04 |
+| Odluka br.57 | [`odluka/2006/300607/`](odluka/2006/300607/) | in force | 1 | 2006-04-26 | 2006-04-26 |
+| Odluka o otvaranju Ambasade Republike Crne Gore pri Svetoj Stolici Vatikan | [`odluka/2006/300710/`](odluka/2006/300710/) | in force | 1 | 2006-11-22 | 2006-11-22 |
+| Odluka o obrazovanju Komisije za pracenje realizacije Strategije integrisanog upravljanja granicom | [`odluka/2006/300720/`](odluka/2006/300720/) | in force | 1 | 2006-06-13 | 2006-06-13 |
+| Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave nemetalicne mineralne sirovine tehnicko - gradjevinskog kamena "Mozura-Orlovo" | [`odluka/2006/301008/`](odluka/2006/301008/) | in force | 1 | 2006-05-09 | 2006-05-09 |
+| Odluka o nerezidencijalnom predstavljanju Republike Crne Gore u Kanadi, Republici Island, Republici Irskoj, Republici San Marino, Malti i Suverenom i vojnom Malteskom redu | [`odluka/2006/301117/`](odluka/2006/301117/) | in force | 1 | 2006-11-22 | 2006-11-22 |
+| Odluka o produzenju prava na eksploataciju tehnicko-gradjevinskog kamena na lezistu "Borik II", Opstina Ulcinj | [`odluka/2006/301225/`](odluka/2006/301225/) | in force | 1 | 2006-09-08 | 2006-09-08 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti radi rekonstrukcije puta (treca traka) M.2-3. Cetinje- Budva dionica "Obzovica" | [`odluka/2006/301509/`](odluka/2006/301509/) | in force | 1 | 2006-01-28 | 2006-01-28 |
+| Odluka o organizaovanju Javne ustanove za smjestaj djece i mladih bez roditeljskog staranja i djece ciji je razvoj ometen porodicnim prilikama | [`odluka/2006/301582/`](odluka/2006/301582/) | in force | 1 | 2006-03-04 | 2006-03-04 |
+| Odluka o uskladjivanju nominalnog iznosa najnize penzije od 1. jula 2006. godine | [`odluka/2006/302458/`](odluka/2006/302458/) | in force | 1 | 2006-08-02 | 2006-08-02 |
+| Odluka o pustanju u opticaj, prodajnoj cijeni i povlacenju iz opticaja jedinstvenih mjenicnih blanketa | [`odluka/2006/302719/`](odluka/2006/302719/) | in force | 1 | 2006-01-18 | 2006-01-18 |
+| Odluka o uskladjivanju osnova za odredjivanje novcane naknade za tjelesno ostecenje od 1.januara 2006.godine | [`odluka/2006/303374/`](odluka/2006/303374/) | in force | 1 | 2006-02-18 | 2006-02-18 |
+| Odluka o uskladjivanju nominalnog iznosa najnize penzije od 1.januara 2006.godine | [`odluka/2006/303385/`](odluka/2006/303385/) | in force | 1 | 2006-02-18 | 2006-02-18 |
+| Odluka kojom se regulise koriscenje frekvencijskih kanala iz opsega 3,5 GHz | [`odluka/2006/303638/`](odluka/2006/303638/) | in force | 1 | 2006-11-04 | 2006-11-04 |
+| Odluka o produzenju prava na eksploataciju sljunka i pijeska na lezistu "Naljezici", Opstina Kotor | [`odluka/2006/303662/`](odluka/2006/303662/) | in force | 1 | 2006-05-05 | 2006-05-05 |
+| Odluka o utvrdjivanju osnovice i stope za obracun clanskog doprinosa za Privrednu komoru Crne Gore za 2007.godinu | [`odluka/2006/303663/`](odluka/2006/303663/) | in force | 1 | 2006-12-26 | 2006-12-26 |
+| Odluka o utvrdjivanju liste arbitara Spoljnotrgovinske arbitraze | [`odluka/2006/303895/`](odluka/2006/303895/) | in force | 1 | 2006-04-25 | 2006-04-25 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti radi rekonstrukcije puta (treca traka) Budva - Bar (M.2. i M.2.4.) | [`odluka/2006/304072/`](odluka/2006/304072/) | in force | 1 | 2006-03-21 | 2006-03-21 |
+| Odluka o privremenom koriscenju putnih isprava i viza | [`odluka/2006/304790/`](odluka/2006/304790/) | in force | 1 | 2006-07-29 | 2006-07-29 |
+| Odluka o izmjenama i dopunama Statuta Republickog fonda penzijskog i invalidskog osiguranja | [`odluka/2006/305010/`](odluka/2006/305010/) | amending act | 1 | 2006-09-06 | 2006-09-06 |
+| Odluka o emisiji obveznica Republike Crne Gore za potrebe ulaganja u saniranje mreze drumskih puteva | [`odluka/2006/305050/`](odluka/2006/305050/) | in force | 1 | 2006-05-09 | 2006-05-09 |
+| Odluka o raspisivanju republickog referenduma o drzavno-pravnom statusu Republike Crne Gore | [`odluka/2006/305331/`](odluka/2006/305331/) | in force | 1 | 2006-03-03 | 2006-03-03 |
+| Odluka o uskladjivanju penzija i novcanih naknada od 1.januara 2006.godine | [`odluka/2006/305527/`](odluka/2006/305527/) | in force | 1 | 2006-02-18 | 2006-02-18 |
+| Odluka o utvrdjivanju visine godisnje premije za 2007.godinu | [`odluka/2006/324019/`](odluka/2006/324019/) | in force | 1 | 2007-01-03 | 2007-01-03 |
+| Odluka o produzenju prava na eksploataciju mrkolignitnog uglja na eksploatacionom polju "Pljevaljski ugljeni basen" | [`odluka/2006/324118/`](odluka/2006/324118/) | in force | 1 | 2006-02-15 | 2006-02-15 |
+| Odluka o povecanju broja zamjenika kod Osnovnog drzavnog tuzioca u Podgorici | [`odluka/2006/324120/`](odluka/2006/324120/) | in force | 1 | 2006-01-31 | 2006-01-31 |
+| Odluka o privremenom koriscenju obrazaca saobracajne dozvole, potvrde o privremenoj registraciji i vozacke dozvole i oznake drzavne pripadnosti | [`odluka/2006/324273/`](odluka/2006/324273/) | in force | 1 | 2006-08-08 | 2006-08-08 |
+| Odluka o postavljenju izvanrednog i opunomocenog ambasadora-stalnog predstavnika Republike Crne Gore-sefa Stalne misije Republike Crne Gore pri Evropskoj uniji u Briselu | [`odluka/2006/325023/`](odluka/2006/325023/) | in force | 1 | 2006-07-22 | 2006-07-22 |
+| Odluka o Energetskom bilansu Republike Crne Gore za 2006.godinu | [`odluka/2006/325109/`](odluka/2006/325109/) | in force | 1 | 2006-01-11 | 2006-01-11 |
+| Odluka o prodaji akcija Republike Crne Gore i Vlade Republike Crne Gore u drustvu Zeljezara Niksic ad Niksic | [`odluka/2006/325154/`](odluka/2006/325154/) | in force | 1 | 2006-11-08 | 2006-11-08 |
+| Odluka o uskladjivanju vrijednosti penzije za jedan licni bod od 1.januara 2006.godine | [`odluka/2006/325200/`](odluka/2006/325200/) | in force | 1 | 2006-02-18 | 2006-02-18 |
+| Odluka o obrazovanju Komisije za koordinaciju programa pomoci | [`odluka/2006/325233/`](odluka/2006/325233/) | in force | 1 | 2006-07-29 | 2006-07-29 |
+| Odluka o uskladjivanju osnova za odredjivanje novcane naknade za tjelesno ostecenje od 1.jula 2006. godine | [`odluka/2006/325292/`](odluka/2006/325292/) | in force | 1 | 2006-08-02 | 2006-08-02 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti radi rekonstrukcije magistralnog puta M-2 Mioska-Kolasin (izgradnja trece trake) | [`odluka/2006/325615/`](odluka/2006/325615/) | in force | 1 | 2006-11-09 | 2006-11-09 |
+| Odluka o otvaranju Ambasade Republike Crne Gore u Republici Italiji | [`odluka/2006/325624/`](odluka/2006/325624/) | in force | 1 | 2006-11-22 | 2006-11-22 |
+| Odluka o postavljenju izvanrednog i opunomocenog ambasadora-stalnog predstavnika Republike Crne Gore-sefa Stalne misije Republike Crne Gore pri Organizaciji ujedinjenih nacija u Njujorku | [`odluka/2006/325723/`](odluka/2006/325723/) | in force | 1 | 2006-07-22 | 2006-07-22 |
+| Odluka o davanju kontragarancije Srbiji i Crnoj Gori za uredno vracanje kredita Evropskoj investicionoj banci za Projekat sanacije puteva i mostova u Crnoj Gori | [`odluka/2006/345031/`](odluka/2006/345031/) | in force | 1 | 2006-02-23 | 2006-02-23 |
 | Odluka o izmjeni Odluke o utvrdjivanju pocetne visine koncesione naknade za koriscenje suma u 2006.godini | [`odluka/2006/347972/`](odluka/2006/347972/) | in force | 1 | 2006-12-12 | 2006-12-12 |
 | Odluka o dopuni Odluke o emisiji obveznica Republike Crne Gore po osnovu devizne stednje gradjana | [`odluka/2006/347985/`](odluka/2006/347985/) | amending act | 1 | 2006-09-15 | 2006-09-15 |
 | Odluka o jedinstvenoj strukturi za identifikaciju i klasifikaciju racuna po IBAN standardu za placanja sa inostranstvom | [`odluka/2006/347987/`](odluka/2006/347987/) | in force | 1 | 2006-12-12 | 2006-12-12 |
@@ -1083,6 +1904,177 @@
 | Odluka o davanju garancije Vlade Republike Crne Gore za uredno vracanje kredita Erste Bank der Oesterreichischen Sparkassen AG za projekat Klinicki centar Crne Gore | [`odluka/2006/350031/`](odluka/2006/350031/) | in force | 1 | 2006-05-03 | 2006-05-03 |
 | Odluka o utvrdjivanju pocetne visine koncesione naknade za 13 gazdinskih jedinica u Podrucnoj jedinici Pljevlja | [`odluka/2006/350049/`](odluka/2006/350049/) | in force | 1 | 2006-07-08 | 2006-07-08 |
 | Odluka o davanju saglasnosti za izmjenu Ugovora o pravu na detaljna geoloska istrazivanja i eksploataciju arhitektonsko-gradjevinskog (ukrasnog) kamena na lezistu "Visocica" kod Spuza | [`odluka/2006/350141/`](odluka/2006/350141/) | in force | 1 | 2006-09-08 | 2006-09-08 |
+| Odluka o donošenju Detaljnog urbanističkog plana Centar 1-A | [`odluka/2007/291561/`](odluka/2007/291561/) | in force | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama Statuta Javne ustanove Centar za kulturu Žabljak | [`odluka/2007/291583/`](odluka/2007/291583/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o izmjenama Odluke o naknadi za korišćenje građevinskog zemljišta | [`odluka/2007/292011/`](odluka/2007/292011/) | in force | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka o produzenju prava na eksploataciju mrkog uglja na lezistu "Petnjik", Opstina Berane | [`odluka/2007/297262/`](odluka/2007/297262/) | in force | 1 | 2007-07-07 | 2007-07-07 |
+| Odluka o izradi Studije lokacije za podrucje Zabljak Crnojevica | [`odluka/2007/297280/`](odluka/2007/297280/) | in force | 1 | 2007-07-20 | 2007-07-20 |
+| Odluka o privremenom finansiranju potreba Budžeta prijestonice Cetinje za period od 01.01. do 31.03.2008.godine | [`odluka/2007/297284/`](odluka/2007/297284/) | in force | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka o izmjenama i dopunama Odluke o izgledu i nacinu nosenja drzavnih odlikovanja | [`odluka/2007/297332/`](odluka/2007/297332/) | amending act | 1 | 2007-06-06 | 2007-06-06 |
+| Odluka o produzenju prava na eksploataciju tehnicko-gradjevinskog kamena na lezistu "Velji Zabio", Opstina Bar | [`odluka/2007/297587/`](odluka/2007/297587/) | in force | 1 | 2007-07-07 | 2007-07-07 |
+| Odluka o pristupanju izradi Urbani¬stičkog projekta za lokalitet hotela "Galeb" u Ulcinju | [`odluka/2007/297589/`](odluka/2007/297589/) | in force | 1 | 2007-10-30 | 2007-10-30 |
+| Odluka o uskladjivanju vrijednosti penzije za jedan licni bod od 1. januara 2007.godine | [`odluka/2007/297618/`](odluka/2007/297618/) | in force | 1 | 2007-02-17 | 2007-02-17 |
+| Odluka o obrazovanju Savjeta za .ME domen | [`odluka/2007/297619/`](odluka/2007/297619/) | in force | 1 | 2007-03-22 | 2007-03-22 |
+| Odluka o vanrednom uskladjivanju nominalnog iznosa najnize penzije od 1.decembra 2007.godine | [`odluka/2007/297688/`](odluka/2007/297688/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka U.br.74/06 i 75/06 od 6.decembra 2006.godine | [`odluka/2007/297755/`](odluka/2007/297755/) | in force | 1 | 2007-02-01 | 2007-02-01 |
+| Odluka o izmjenama i dopunama Odluke o građevinskom zemljištu | [`odluka/2007/297756/`](odluka/2007/297756/) | amending act | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti | [`odluka/2007/297789/`](odluka/2007/297789/) | in force | 1 | 2008-01-05 | 2008-01-05 |
+| Program Privremenog korišćenja građevinskog zemljišta za 2008.godinu | [`odluka/2007/297856/`](odluka/2007/297856/) | in force | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka o vanrednom uskladjivanju penzija i novcanih naknada od 1.decembra 2007.godine | [`odluka/2007/297920/`](odluka/2007/297920/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o otvaranju Ambasade Republike Crne Gore u Republici Albaniji | [`odluka/2007/298065/`](odluka/2007/298065/) | in force | 1 | 2007-10-20 | 2007-10-20 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Finansijskog plana Gradske opštine Golubovci za 2007.godinu | [`odluka/2007/298129/`](odluka/2007/298129/) | amending act | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka o davanju saglasnosti na Odluku Odbora direktora o smanjenju osnovnog kapitala "Parking servis Podgorica" d.o.o. Podgorica | [`odluka/2007/298202/`](odluka/2007/298202/) | in force | 1 | 2007-11-07 | 2007-11-07 |
+| Odluka o uređenju i održavanju groblja i sahranjivanju | [`odluka/2007/298227/`](odluka/2007/298227/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o davanju saglasnosti na Statut Agencije za nadzor osiguranja Crne Gore | [`odluka/2007/298560/`](odluka/2007/298560/) | in force | 1 | 2008-01-04 | 2008-01-04 |
+| Odluka o izboru najpovoljnijih ponuda | [`odluka/2007/298578/`](odluka/2007/298578/) | in force | 1 | 2007-03-12 | 2007-03-12 |
+| Odluka o otvaranju Misije Republike Crne Gore pri Sjeverno-atlanskom savezu u Briselu | [`odluka/2007/298586/`](odluka/2007/298586/) | in force | 1 | 2007-02-01 | 2007-02-01 |
+| Odluka o izmjeni i dopuni Odluke o minimalnim standardima kapitala banke | [`odluka/2007/298784/`](odluka/2007/298784/) | amending act | 1 | 2007-12-08 | 2007-12-08 |
+| Odluka o dopuni Odluke o osnivanju Nacionalne turisticke organizacije Crne Gore | [`odluka/2007/300752/`](odluka/2007/300752/) | amending act | 1 | 2007-01-18 | 2007-01-18 |
+| Odluka o uskladjivanju osnova za odredjivanje novcane naknade za tjelesno ostecenje od 1. jula 2007. godine | [`odluka/2007/300933/`](odluka/2007/300933/) | in force | 1 | 2007-08-04 | 2007-08-04 |
+| Odluka o uskladjivanju nominalnog iznosa najnize penzije od 1.januara 2007. godine | [`odluka/2007/301224/`](odluka/2007/301224/) | in force | 1 | 2007-02-17 | 2007-02-17 |
+| Odluka o obrazovanju Komisije za rješavanje stambenih pitanja lica u stanju socijalne potrebe | [`odluka/2007/301256/`](odluka/2007/301256/) | in force | 1 | 2007-11-06 | 2007-11-06 |
+| Odluka o potvrđivanju Odluke o zaduženju Opštine Berane | [`odluka/2007/301311/`](odluka/2007/301311/) | in force | 1 | 2007-12-28 | 2007-12-28 |
+| Odluka o izmjeni Odluke o osnivanju Savjeta za opšte obrazovanje | [`odluka/2007/301461/`](odluka/2007/301461/) | in force | 1 | 2007-12-12 | 2007-12-12 |
+| Odluka o obrazovanju grupa za evropske integracije | [`odluka/2007/304692/`](odluka/2007/304692/) | in force | 1 | 2007-11-24 | 2007-11-24 |
+| Odluka o otvaranju Ambasade Republike Crne Gore u Saveznoj Republici Njemackoj | [`odluka/2007/304712/`](odluka/2007/304712/) | in force | 1 | 2007-02-01 | 2007-02-01 |
+| Odluka o izradi drzavne studije lokacije za podrucje Vranjine sa Lesendrom | [`odluka/2007/304716/`](odluka/2007/304716/) | in force | 1 | 2007-06-09 | 2007-06-09 |
+| Odluka o izmjenama i dopunama Odluka o zaradama i drugim pravima po osnovu rada lokalnih funkcionera Opštine Rožaje | [`odluka/2007/304861/`](odluka/2007/304861/) | amending act | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka o izradi Studije lokacije "Stari grad Ulcinj" | [`odluka/2007/304887/`](odluka/2007/304887/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izmjeni Cjenovnika Centralne Depozitarne Agencije AD Podgorica | [`odluka/2007/304917/`](odluka/2007/304917/) | in force | 1 | 2007-10-27 | 2007-10-27 |
+| Odluka o uskladjivanju nominalnog iznosa najnize penzije od 1. jula 2007. godine | [`odluka/2007/304921/`](odluka/2007/304921/) | in force | 1 | 2007-08-04 | 2007-08-04 |
+| Odluka o obrazovanju Komisije za izradu Nacrta odluke o izmjenama i dopunama Statuta Opštine Rožaje i Poslovnika Skupštine opštine Rožaje | [`odluka/2007/304922/`](odluka/2007/304922/) | amending act | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o otvaranju Ambasade Republike Crne Gore u Republici Francuskoj | [`odluka/2007/304939/`](odluka/2007/304939/) | in force | 1 | 2007-02-01 | 2007-02-01 |
+| Odluka o izmjenama Odluke o lokalnim komunalnim taksama | [`odluka/2007/304976/`](odluka/2007/304976/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o otvaranju Ambasade Republike Crne Gore u Narodnoj Republici Kini | [`odluka/2007/304985/`](odluka/2007/304985/) | in force | 1 | 2007-10-20 | 2007-10-20 |
+| Odluka o dozvoli prodaje putem javnog nadmetanja nepokretnosti u KO Danilovgrad, KO Grbe, KO Novo Selo, KO Bandići i KO Spuž | [`odluka/2007/305110/`](odluka/2007/305110/) | in force | 1 | 2008-01-05 | 2008-01-05 |
+| Odluke o dopuni Odluke o načinu i postupku vršenja kontrole banaka i visini naknada | [`odluka/2007/305165/`](odluka/2007/305165/) | amending act | 1 | 2007-12-08 | 2007-12-08 |
+| Odluka o davanju saglasnosti na izmjene i dopune Statuta Javnog komunalnog preduzeća "Komunalno Nikšić" - Nikšić | [`odluka/2007/305343/`](odluka/2007/305343/) | amending act | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o pristupanju izmjenama i dopunama Poslovnika Skupštine opštine Rožaje | [`odluka/2007/305374/`](odluka/2007/305374/) | amending act | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o izboru najpovoljnijih ponuda po Javnom tenderu broj 01/2007 za dodjelu posebnih licenci za pruzanje javnih telekomunikacionih servisa putem fiksnog bezicnog pristupa u radio-frekvencijskom opsegu 3400-3600 MHz | [`odluka/2007/305497/`](odluka/2007/305497/) | in force | 1 | 2007-03-28 | 2007-03-28 |
+| Odluka o prodaji akcija Republike Crne Gore i Vlade Republike Crne Gore u drustvu Radvent ad Niksic | [`odluka/2007/305595/`](odluka/2007/305595/) | in force | 1 | 2007-06-08 | 2007-06-08 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/305743/`](odluka/2007/305743/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o izmjenama i dopunama Odluke o utvrdjivanju Liste ljekova koji se propisuju i izdaju na teret sredstava Republickog fonda za zdravstveno osiguranje | [`odluka/2007/306066/`](odluka/2007/306066/) | amending act | 1 | 2007-12-26 | 2007-12-26 |
+| Odluka o vanrednom uskladjivanju osnova za odredjivanje novcane naknade za tjelesno ostecenje od 1.decembra 2007.godine | [`odluka/2007/306220/`](odluka/2007/306220/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/306322/`](odluka/2007/306322/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o Urbanističkom projektu "Kasarna Morača" u Podgorici | [`odluka/2007/306348/`](odluka/2007/306348/) | in force | 1 | 2007-11-07 | 2007-11-07 |
+| Odluka o prestanku vazenja Odluke o koriscenju putnickih vozila za potrebe republickih organa | [`odluka/2007/306375/`](odluka/2007/306375/) | in force | 1 | 2007-04-10 | 2007-04-10 |
+| Odluka o prihvatanju ANEX-a I Ugovora o ustupanju nepokretnosti Ov.br.17654, zakljucenog dana 25.aprila 2005.godine | [`odluka/2007/306376/`](odluka/2007/306376/) | in force | 1 | 2007-04-10 | 2007-04-10 |
+| Odluka o uskladjivanju penzija i novcanih naknada od 1. januara 2007. godine | [`odluka/2007/306405/`](odluka/2007/306405/) | in force | 1 | 2007-02-17 | 2007-02-17 |
+| Odluka o izmjenama i dopunama Odluke o rješavanju stambenih pitanja lica u stanju socijalne potrebe | [`odluka/2007/306521/`](odluka/2007/306521/) | amending act | 1 | 2007-11-07 | 2007-11-07 |
+| Odluka o otvaranju Ambasade Republike Crne Gore u Ruskoj Federaciji | [`odluka/2007/306634/`](odluka/2007/306634/) | in force | 1 | 2007-02-01 | 2007-02-01 |
+| Odluka o otvaranju Generalnog konzulata Republike Crne Gore u Njujorku, Sjedinjene Americke Drzave | [`odluka/2007/306663/`](odluka/2007/306663/) | in force | 1 | 2007-02-01 | 2007-02-01 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora JKP "Gradac" Mojkovac o izboru direktora | [`odluka/2007/306897/`](odluka/2007/306897/) | in force | 1 | 2007-10-30 | 2007-10-30 |
+| Odluka o otvaranju Stalne misije Republike Crne Gore pri Savjetu Evrope u Strazburu | [`odluka/2007/306910/`](odluka/2007/306910/) | in force | 1 | 2007-11-20 | 2007-11-20 |
+| Odluka o dodjeli zemljišta na trajno korišćenje bez nadoknade | [`odluka/2007/306913/`](odluka/2007/306913/) | in force | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka o otvaranju Ambasade Republike Crne Gore u Republici Grckoj | [`odluka/2007/306930/`](odluka/2007/306930/) | in force | 1 | 2007-02-01 | 2007-02-01 |
+| Odluka o uskladjivanju vrijednosti penzija za jedan licni bod od 1. jula 2007. godine | [`odluka/2007/307217/`](odluka/2007/307217/) | in force | 1 | 2007-08-04 | 2007-08-04 |
+| Odluka o donošenju izmjena i dopuna Detaljnog urbanističkog plana urbanističke jedinice V-1 | [`odluka/2007/307260/`](odluka/2007/307260/) | amending act | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka o izradi Studije lokacije "Canj" | [`odluka/2007/307261/`](odluka/2007/307261/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o dopuni Odluke o utvrđivanju naknade za uređivanje građevinskog zemljišta | [`odluka/2007/307409/`](odluka/2007/307409/) | amending act | 1 | 2007-10-30 | 2007-10-30 |
+| Odluka o izradi Studije lokacije "Sektor 32" | [`odluka/2007/307412/`](odluka/2007/307412/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o uskladjivanju najvise osnovice za placanje doprinosa za penzijsko i invalidsko osiguranje od 1.januara 2007. godine | [`odluka/2007/307477/`](odluka/2007/307477/) | in force | 1 | 2007-02-17 | 2007-02-17 |
+| Odluka o imenovanju zamjenika člana Opštinske izborne komisije | [`odluka/2007/307478/`](odluka/2007/307478/) | in force | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka o uskladjivanju penzija i novcanih naknada od 1. jula 2007. godine | [`odluka/2007/307530/`](odluka/2007/307530/) | in force | 1 | 2007-08-04 | 2007-08-04 |
+| Odluka o izmjenama i dopunama Odluke o privremenim objektima | [`odluka/2007/307695/`](odluka/2007/307695/) | amending act | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka o imenovanju jednog člana Savjeta za prostorno uređenje | [`odluka/2007/307726/`](odluka/2007/307726/) | in force | 1 | 2007-12-21 | 2007-12-21 |
+| Odluka o otvaranju Stalne misije Republike Crne Gore pri Organizaciji ujedinjenih nacija u Zenevi | [`odluka/2007/307752/`](odluka/2007/307752/) | in force | 1 | 2007-02-01 | 2007-02-01 |
+| Odluka o izmjeni Odluke o osnivanju Savjeta na naucno-istrazivacku djelatnost | [`odluka/2007/307767/`](odluka/2007/307767/) | in force | 1 | 2007-05-19 | 2007-05-19 |
+| Odluka o izradi Izmjena i dopuna Detaljnog urbanističkog plana Podtrebjesa | [`odluka/2007/307821/`](odluka/2007/307821/) | amending act | 1 | 2007-11-16 | 2007-11-16 |
+| Odluka o obrazovanju Komisije za evropske intergacije | [`odluka/2007/307858/`](odluka/2007/307858/) | in force | 1 | 2007-06-09 | 2007-06-09 |
+| Odluka o dopuni Odluke o utvrdjivanju pocetne visine koncesione naknade za koriscenje suma u 2007.godini | [`odluka/2007/307872/`](odluka/2007/307872/) | amending act | 1 | 2007-06-12 | 2007-06-12 |
+| Odluka o produzenju prava na eksploataciju tehnicko-gradjevinskog kamena na lezistu "Goron", Opstina Bar | [`odluka/2007/307882/`](odluka/2007/307882/) | in force | 1 | 2007-07-07 | 2007-07-07 |
+| Odluka o izradi Studije lokacije "Arsenal" Tivat | [`odluka/2007/308035/`](odluka/2007/308035/) | in force | 1 | 2007-06-27 | 2007-06-27 |
+| Odluka o Urbanističkom projektu "Nova Varoš - Blok R" u Podgorici | [`odluka/2007/308041/`](odluka/2007/308041/) | in force | 1 | 2007-11-07 | 2007-11-07 |
+| Odluka o prodaji akcija Republike Crne Gore i Vlade Republike Crne Gore u drustvu MMK Standard AD Niksic | [`odluka/2007/308044/`](odluka/2007/308044/) | in force | 1 | 2007-09-28 | 2007-09-28 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/308045/`](odluka/2007/308045/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o otvaranju Ambasade Republike Crne Gore u Republici Austriji | [`odluka/2007/308097/`](odluka/2007/308097/) | in force | 1 | 2007-02-01 | 2007-02-01 |
+| Odluka o izradi Studije lokacije "Sektor 34" | [`odluka/2007/308126/`](odluka/2007/308126/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izradi Lokalne studije lokacije za područje Kostanjice - Verige | [`odluka/2007/308127/`](odluka/2007/308127/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o utvrdjivanju visine materijalnog obezbjedjenja porodice i dodatka za djecu | [`odluka/2007/308566/`](odluka/2007/308566/) | in force | 1 | 2007-02-13 | 2007-02-13 |
+| Odluka o prodaji akcija u drustvima "4.novembar"Fabrika metalnih djelova AD Mojkovac i "4.novembar"Fabrika namjenskih proizvoda AD Mojkovac | [`odluka/2007/324008/`](odluka/2007/324008/) | in force | 1 | 2007-06-14 | 2007-06-14 |
+| Odluka o izboru najpovoljnijih ponuda po Javnom tenderu broj 03/2007 za dodjelu posebnih licenci za pruzanje javnog servisa prenosa govora preko mreza baziranih na Internet protokolu | [`odluka/2007/324287/`](odluka/2007/324287/) | in force | 1 | 2007-10-12 | 2007-10-12 |
+| Odluka o vanrednom uskladjivanju vrijednosti penzija za jedan licni bod od 1.decembra 2007.godine | [`odluka/2007/325305/`](odluka/2007/325305/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izmjenama Odluke o osnivanju Savjeta za obrazovanje odraslih | [`odluka/2007/325334/`](odluka/2007/325334/) | in force | 1 | 2007-10-13 | 2007-10-13 |
+| Odluka o uskladjivanju osnova za odredjivanje novcane naknade za tjelesno ostecenje od 1.januara 2007.godine | [`odluka/2007/325386/`](odluka/2007/325386/) | in force | 1 | 2007-02-17 | 2007-02-17 |
+| Odluka o prodaji akcija Crne Gore u društvu "Pobjeda" AD Podgorica | [`odluka/2007/325703/`](odluka/2007/325703/) | in force | 1 | 2007-11-17 | 2007-11-17 |
+| Odluka o donosenju Prostornog plana podrucja posebne namjene za Morsko dobro, sa Prostornim planom podrucja posebne namjene za Morsko dobro | [`odluka/2007/325992/`](odluka/2007/325992/) | in force | 1 | 2007-06-07 | 2007-06-07 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/326291/`](odluka/2007/326291/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o planu privremene raspodjele sredstava Egalizacionog fonda za period januar - mart 2008.godine | [`odluka/2007/326429/`](odluka/2007/326429/) | in force | 1 | 2007-12-19 | 2007-12-19 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište na Marinović Radomira | [`odluka/2007/326445/`](odluka/2007/326445/) | in force | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka kojom se regulise koriscenje frekvencijskih kanala iz opsega 3600-3800 MHz | [`odluka/2007/326493/`](odluka/2007/326493/) | in force | 1 | 2007-05-05 | 2007-05-05 |
+| Odluka o otvaranju Generalnog konzulata Republike Crne Gore u Frankfurtu - Savezna Republika NJemacka | [`odluka/2007/326737/`](odluka/2007/326737/) | in force | 1 | 2007-10-20 | 2007-10-20 |
+| Odluka o izmjenama i dopunama Odluke o raspisivanju medjunarodnog javnog tendera za dodjelu posebnih licenci za pruzanje javnih telekomunikacionih servisa putem fiksnog bezicnog pristupa u radio-frekvencijskom opsegu 3600-3800 MHz | [`odluka/2007/326826/`](odluka/2007/326826/) | amending act | 1 | 2007-07-27 | 2007-07-27 |
+| Odluka o potvrđivanju imenovanja člana Savjeta RTNK | [`odluka/2007/326944/`](odluka/2007/326944/) | in force | 1 | 2007-12-28 | 2007-12-28 |
+| Odluke o dopuni Odluke o minimalnim standardima za upravljanje kreditinim rizikom i poslovanju sa licima povezanim sa bankom | [`odluka/2007/326949/`](odluka/2007/326949/) | amending act | 1 | 2007-12-08 | 2007-12-08 |
+| Odluka o potvrđivanju Odluke o prenosu prava na gradskom građevinskom zemljištu | [`odluka/2007/327103/`](odluka/2007/327103/) | in force | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka o kriterijumima i uslovima za razgranicenje troskova izmedju Republike i jedinica lokalne samouprave po osnovu koriscenja poslovnog prostora od strane republickih organa | [`odluka/2007/327301/`](odluka/2007/327301/) | in force | 1 | 2007-05-25 | 2007-05-25 |
+| Odluka o izmjenama i dopunama Cjenovnika Centralne depozitarne agencije ad Podgorica | [`odluka/2007/327510/`](odluka/2007/327510/) | amending act | 1 | 2007-09-22 | 2007-09-22 |
+| Odluka o učešću Vlade Republike Crne Gore u osnivanju Centra za posredovanje | [`odluka/2007/327563/`](odluka/2007/327563/) | in force | 1 | 2007-11-10 | 2007-11-10 |
+| Program uređivanja građevinskog zemljišta za 2008.godinu | [`odluka/2007/327757/`](odluka/2007/327757/) | in force | 1 | 2008-01-05 | 2008-01-05 |
+| Odluka o izradi Studije lokacije "Sektor 15" | [`odluka/2007/334489/`](odluka/2007/334489/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izradi Studije lokacije "Sektor 16" | [`odluka/2007/334496/`](odluka/2007/334496/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izradi Studije lokacije "Lepetani" | [`odluka/2007/334497/`](odluka/2007/334497/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izradi Studije lokacije "Dio Sektora 22 i Sektor 23" | [`odluka/2007/334498/`](odluka/2007/334498/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izradi Studije lokacije "Kalardovo - Ostrvo cvijeca - Brdista" | [`odluka/2007/334499/`](odluka/2007/334499/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izradi Studije lokacije "Ostrvo Sveti Marko" | [`odluka/2007/334500/`](odluka/2007/334500/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izradi Studije lokacije "Dio Sektora 27 i Sektor 28" | [`odluka/2007/334509/`](odluka/2007/334509/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izradi Studije lokacije "Sektor 29" | [`odluka/2007/334510/`](odluka/2007/334510/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izradi Studije lokacije "Sutomore" | [`odluka/2007/334511/`](odluka/2007/334511/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izradi Studije lokacije "Ratac - Zeleni pojas" | [`odluka/2007/334512/`](odluka/2007/334512/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izradi Studije lokacije "Valdanos" | [`odluka/2007/334513/`](odluka/2007/334513/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izradi Studije lokacije "Rt-DJeran-Port Milena" | [`odluka/2007/334520/`](odluka/2007/334520/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o izradi Studije lokacije "Turisticki kompleks na Velikoj plazi - postojeca hotelska grupacija, naseljska struktura,komunalno servisna i sportsko rekreativna zona" | [`odluka/2007/334521/`](odluka/2007/334521/) | in force | 1 | 2008-01-01 | 2008-01-01 |
+| Odluka o utvrđivanju visine godišnje premije za 2008. godinu | [`odluka/2007/338839/`](odluka/2007/338839/) | in force | 1 | 2007-11-24 | 2007-11-24 |
+| Odluka o izradi izmjena i dopuna Generalnog urbanističkog plana OPHN za dio naselja Sasovići | [`odluka/2007/340782/`](odluka/2007/340782/) | amending act | 1 | 2007-11-07 | 2007-11-07 |
+| Odluka o davanju saglasnosti na Odluku Savjeta JU Centar za kulturu "Nenad Rakočević" Mojkovac o izboru direktora | [`odluka/2007/340810/`](odluka/2007/340810/) | in force | 1 | 2007-10-30 | 2007-10-30 |
+| Odluka o izmjenama i dopunama Odluke o naknadama odbornicima Skupštine opštine Plužine | [`odluka/2007/340825/`](odluka/2007/340825/) | amending act | 1 | 2007-11-07 | 2007-11-07 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim novčanim primanjima finkcionera Opštine Plužine | [`odluka/2007/340826/`](odluka/2007/340826/) | amending act | 1 | 2007-11-07 | 2007-11-07 |
+| Odluka o upotrebi simbola Opštine Plužine | [`odluka/2007/340839/`](odluka/2007/340839/) | in force | 1 | 2007-11-07 | 2007-11-07 |
+| Odluka o izmjenama i dopunama Detaljnog urbanističkog plana "Drač - Cvijetin brijeg" u Podgorici | [`odluka/2007/340841/`](odluka/2007/340841/) | amending act | 1 | 2007-11-07 | 2007-11-07 |
+| Odluka o davanju saglasnosti na Odluku predsjednika Opštine Mojkovac o prihvatanju kandidature za organizaciju MOSI za 2009.godinu | [`odluka/2007/340868/`](odluka/2007/340868/) | in force | 1 | 2007-10-30 | 2007-10-30 |
+| Odluka o davanju saglasnosti na odluku Upravnog odbora JKP "GRADAC" Mojkovac o izmjeni cjenovnika usluga | [`odluka/2007/340869/`](odluka/2007/340869/) | in force | 1 | 2007-10-30 | 2007-10-30 |
+| Odluka o pristupanju izradi Urbani¬stičkog projekta za lokalitet hotela "Mediteran" u Ulcinju | [`odluka/2007/340870/`](odluka/2007/340870/) | in force | 1 | 2007-10-30 | 2007-10-30 |
+| Odluka o davanju saglasnosti na Statut Javnog preduzeća za stambeno - komunalnu djelatnost Žabljak | [`odluka/2007/342017/`](odluka/2007/342017/) | in force | 1 | 2007-11-05 | 2007-11-05 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/342018/`](odluka/2007/342018/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/342443/`](odluka/2007/342443/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/342597/`](odluka/2007/342597/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/342598/`](odluka/2007/342598/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/342599/`](odluka/2007/342599/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/342654/`](odluka/2007/342654/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/342655/`](odluka/2007/342655/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/343293/`](odluka/2007/343293/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/343294/`](odluka/2007/343294/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o upisu udjela Opštine Berane u DOO Hidroenergija Montenegro | [`odluka/2007/343784/`](odluka/2007/343784/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o rješavanju stambenih potreba lokalnih funkcionera i rukovodećih lica u lokalnoj upravi | [`odluka/2007/343785/`](odluka/2007/343785/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište Vladi RCG - Ministarstvu odbrane | [`odluka/2007/343786/`](odluka/2007/343786/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o izmjenama i dopunama Odluke o lokalnoj upravi | [`odluka/2007/343836/`](odluka/2007/343836/) | amending act | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o određivanju naziva ulici na području Mjesne zajednice Rudo Polje - Ulica Petra Lubarde | [`odluka/2007/343837/`](odluka/2007/343837/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o donošenju Detaljnog urbanističkog plana Brlja | [`odluka/2007/343838/`](odluka/2007/343838/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o donošenju Detaljnog urbanističkog plana Stara Varoš - sjever | [`odluka/2007/343839/`](odluka/2007/343839/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prenos prava na gradsko građevinsko zemljište radi izgradnje stambenog objekta | [`odluka/2007/343889/`](odluka/2007/343889/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prenos prava na gradsko građevinsko zemljište radi kompletiranja urbanističke parcele | [`odluka/2007/343890/`](odluka/2007/343890/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/343891/`](odluka/2007/343891/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/343947/`](odluka/2007/343947/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/343948/`](odluka/2007/343948/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/343949/`](odluka/2007/343949/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/344002/`](odluka/2007/344002/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/344003/`](odluka/2007/344003/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/344004/`](odluka/2007/344004/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/344051/`](odluka/2007/344051/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/344052/`](odluka/2007/344052/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/344053/`](odluka/2007/344053/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka za izmjenu i dopunu Statuta Opštine Danilovgrada | [`odluka/2007/344125/`](odluka/2007/344125/) | amending act | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/344127/`](odluka/2007/344127/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o vodosnabdijevanju na područje opštine Danilovgrad | [`odluka/2007/344167/`](odluka/2007/344167/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o javnoj kanalizaciji na području opštine Danilovgrad | [`odluka/2007/344168/`](odluka/2007/344168/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o dozvoli prodaje putem javnog nadmetanja nepokretnosti u KO Novo Selo i KO Bandići | [`odluka/2007/344210/`](odluka/2007/344210/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za korišćenje građevinskog zemljišta | [`odluka/2007/344211/`](odluka/2007/344211/) | amending act | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o davanju saglasnosti na Pravilnik o izmjenama Pravilnika o unutrašnjoj organizaciji i sistematizaciji radnih mjesta u Javnoj ustanovi Centar za kulturu Žabljak | [`odluka/2007/344248/`](odluka/2007/344248/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o imenovanju dva člana iz reda odbornika u Komisiju za raspodjelu sredstava nevladinim organizacijama | [`odluka/2007/344249/`](odluka/2007/344249/) | in force | 1 | 2007-11-05 | 2007-11-05 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/344251/`](odluka/2007/344251/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/344252/`](odluka/2007/344252/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o pristupanju izmjenama i dopunama Statuta Opštine Rožaje | [`odluka/2007/344253/`](odluka/2007/344253/) | amending act | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o izmjenama Odluke o obrazovanju Savjeta za brigu o licima s invaliditetom | [`odluka/2007/344860/`](odluka/2007/344860/) | in force | 1 | 2007-02-24 | 2007-02-24 |
 | Odluka o izmjenama i dopunama Odluke o utvrđivanju naknade za uređivanje građevinskog zemljišta | [`odluka/2007/345925/`](odluka/2007/345925/) | amending act | 1 | 2007-12-28 | 2007-12-28 |
 | Odluka o donošenju Generalnog urbanističkog plana priobalnog pojasa opštine Budva za Sektor: Budva-Bečići | [`odluka/2007/346166/`](odluka/2007/346166/) | in force | 1 | 2007-11-24 | 2007-11-24 |
 | Odluka o izradi Urbanistièkog projekta "Crvena glavica" | [`odluka/2007/346167/`](odluka/2007/346167/) | in force | 1 | 2007-11-24 | 2007-11-24 |
@@ -1129,6 +2121,620 @@
 | Odluka o prestanku vazenja Odluke o preduzimanju mjera zastite javnog interesa u Republickom zavodu za zastitu spomenika kulture na Cetinju | [`odluka/2007/349870/`](odluka/2007/349870/) | in force | 1 | 2007-04-21 | 2007-04-21 |
 | Odluka o obustavi od izvrsenja Statutarne odluke Gradske opstine Tuzi | [`odluka/2007/349908/`](odluka/2007/349908/) | in force | 1 | 2007-04-20 | 2007-04-20 |
 | Odluka o djelokrugu i sastavu Savjeta za privatizaciju | [`odluka/2007/350029/`](odluka/2007/350029/) | in force | 1 | 2007-04-28 | 2007-04-28 |
+| Odluka o dodjeli koncesije po kombinovanom DBOT aranzmanu za istrazivanje vodotoka i izgradnju malih hidroelektrana na vodotoku Bistrica - desna pritoka Lima (ident.br.26 iz Javnog poziva) | [`odluka/2008/291544/`](odluka/2008/291544/) | in force | 1 | 2008-08-08 | 2008-08-08 |
+| Odluka o izmjenama i dopunama Odluke o određivanju naknade za rad odbornika u Skupštini opštine Rožaje | [`odluka/2008/291550/`](odluka/2008/291550/) | amending act | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o osnivanju Javne ustanove dnevni centar za djecu sa smetnjama u razvoju "Tisa | [`odluka/2008/291572/`](odluka/2008/291572/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o dozvoli prodaje putem javnog nadmetanja nepokretnosti u KO Grbe, KO Novo Selo, KO Jastreb i KO Glavica | [`odluka/2008/291610/`](odluka/2008/291610/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o izmjeni i dopuni Odluke o uslovima i načinu rješavanja stambenih potreba lokalnih funkcionera i rukovodećih lica lokalne uprave | [`odluka/2008/291615/`](odluka/2008/291615/) | amending act | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o uspostavljanju saradnje Prijestonice Cetinje i Općine Velika Kladuša (Bosna i Hercegovina) | [`odluka/2008/291660/`](odluka/2008/291660/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o izmjeni i dopuni Odluke o utvrdjivanju etalona grba Crne Gore | [`odluka/2008/291793/`](odluka/2008/291793/) | amending act | 1 | 2008-06-04 | 2008-06-04 |
+| Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju mineralne sirovine crvenog boksita na prostoru istrazno-eksploatacionog bloka br.4 u sirem rejonu Niksicke Zupe | [`odluka/2008/291794/`](odluka/2008/291794/) | in force | 1 | 2008-06-26 | 2008-06-26 |
+| Odluka o izmjenama i dopunama Detaljnog urbanističkog plana "Industrijska Zona CENTAR" | [`odluka/2008/292047/`](odluka/2008/292047/) | amending act | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka o davanju saglasnosti za ustanovljenje službenosti u korist Javnog preduzeća za vodosnabdijevanje, tretman i odvođenje otpadnih voda i deponovanje čvrstog otpada za područje crnogorskog primorja i Cetinja-Budva | [`odluka/2008/292048/`](odluka/2008/292048/) | in force | 1 | 2008-03-01 | 2008-03-01 |
+| Odluka o davanju saglasnosti na Odluku Zbora građana o osnivanju Mjesne zajdenice Brzava | [`odluka/2008/292065/`](odluka/2008/292065/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o izmjenama i dopunama Detaljnog urbanističkog plana Zone "CENTAR" | [`odluka/2008/292093/`](odluka/2008/292093/) | amending act | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka br.0304-163 | [`odluka/2008/292094/`](odluka/2008/292094/) | in force | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o utvrdjivanju Nacrta Izmjena i dopuna DUP-a "Podlipa" | [`odluka/2008/292098/`](odluka/2008/292098/) | amending act | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o pristupanju izradi lokalne studije lokacije Kolašin - "Jezerine" | [`odluka/2008/297078/`](odluka/2008/297078/) | in force | 1 | 2008-05-12 | 2008-05-12 |
+| Odluka o davanju saglasnosti na Program rada i finansijski plan za 2008. godinu JP za komunalne djelatnosti "Kolašin" - Kolašin | [`odluka/2008/297095/`](odluka/2008/297095/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o prodaji viska naoruzanja i vojne opreme | [`odluka/2008/297097/`](odluka/2008/297097/) | in force | 1 | 2008-03-13 | 2008-03-13 |
+| Odluka o prodaji akcija Vlade Crne Gore u društvu "Zora" AD Berane | [`odluka/2008/297404/`](odluka/2008/297404/) | in force | 1 | 2008-12-03 | 2008-12-03 |
+| Odluka o izradi Izmjena i dopuna Detaljnog urbanističkog plana Podtrebjesa - zapadni dio | [`odluka/2008/297428/`](odluka/2008/297428/) | amending act | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o izmjeni i dopuni Odluke o mjesnim zajednicama | [`odluka/2008/297464/`](odluka/2008/297464/) | amending act | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o izmjeni i dopuni Odluke o izradi Detaljnog urbanističkog plana "Dubovica I" broj 001-2031/1 od 26.05.2006.godine | [`odluka/2008/297466/`](odluka/2008/297466/) | amending act | 1 | 2008-05-17 | 2008-05-17 |
+| Odluka o izboru najpovoljnijih ponuda po Javnog tenderu broj 04/2007 za dodjelu posebnih licenci za pruzanje javnog servisa prenosa govora preko mreza baziranih na Internet protokolu | [`odluka/2008/297673/`](odluka/2008/297673/) | in force | 1 | 2008-02-29 | 2008-02-29 |
+| Odluka o izradi Detaljnog urbanističkog plana Staro pazarište | [`odluka/2008/297765/`](odluka/2008/297765/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o utvrdjivanju javnog interesa za vrsenje komunalne djelatnosti izgradnje, odrzavanja i koriscenja regionalne sanitarne deponije za opstine Budva, Kotor i Tivat | [`odluka/2008/297798/`](odluka/2008/297798/) | in force | 1 | 2008-02-09 | 2008-02-09 |
+| Odluka o izmjenama i dopunama Odluke o korišćenju i naknadi za korišćenje putnog zemljišta koje pripada opštinskim i nekategorisanim putevima | [`odluka/2008/297864/`](odluka/2008/297864/) | amending act | 1 | 2008-07-11 | 2008-07-11 |
+| Odluka o pristupanju osnivanju Eurodristrikta Južnog Jadrana | [`odluka/2008/297870/`](odluka/2008/297870/) | in force | 1 | 2008-03-13 | 2008-03-13 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Liješnje | [`odluka/2008/297871/`](odluka/2008/297871/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Ivanje | [`odluka/2008/297902/`](odluka/2008/297902/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka | [`odluka/2008/297903/`](odluka/2008/297903/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o sticanju nepokretnosti koje su ostale bez vlasnika | [`odluka/2008/297906/`](odluka/2008/297906/) | in force | 1 | 2008-12-20 | 2008-12-20 |
+| Odluka o izmjenama i dopunama Odluke o porezu na potrošnju | [`odluka/2008/297930/`](odluka/2008/297930/) | amending act | 1 | 2008-04-23 | 2008-04-23 |
+| Odluka o finansiranju aktivnosti u sportu | [`odluka/2008/297958/`](odluka/2008/297958/) | in force | 1 | 2008-05-22 | 2008-05-22 |
+| Odluka o izmjeni Odluke o izradi Izmjena i dopuna Generalnog urbanističkog plana Bijelo Polje | [`odluka/2008/297976/`](odluka/2008/297976/) | amending act | 1 | 2008-07-11 | 2008-07-11 |
+| Odluka o Energetskom bilansu Crne Gore za 2008.godinu | [`odluka/2008/298077/`](odluka/2008/298077/) | in force | 1 | 2008-02-16 | 2008-02-16 |
+| Odluka o razrješenju, odnosno imenovanju jednog člana Odbora za društvene djelatnosti | [`odluka/2008/298120/`](odluka/2008/298120/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o pristupanju izradi lokalne studije lokacije Kolašin - "Breza 1" | [`odluka/2008/298178/`](odluka/2008/298178/) | in force | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije"Smokov vijenac - Drobnići" | [`odluka/2008/298182/`](odluka/2008/298182/) | in force | 1 | 2008-12-13 | 2008-12-13 |
+| Odluka o izradi Detaljnog urbanističkog plana fakultetsko - studentskog centra | [`odluka/2008/298205/`](odluka/2008/298205/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o davanju saglasnosti Aneks br.1 Sporazuma o izgradnji, funkcionisanju i transveru (BOT) put Meljine - Petijevići | [`odluka/2008/298206/`](odluka/2008/298206/) | in force | 1 | 2008-03-14 | 2008-03-14 |
+| Odluka o prenosu prava na gradsko-građevinsko zemljište na Spalević Ljiljanu i Božović Đorđija iz Berana | [`odluka/2008/298214/`](odluka/2008/298214/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o obrazovanju Komisije za odredjivanje granicnih prelaza i utvrdjivanje rezima pogranicnog saobracaja | [`odluka/2008/298235/`](odluka/2008/298235/) | in force | 1 | 2008-12-27 | 2008-12-27 |
+| Odluka o izmjenama i dopunama Odluke o regulisanju javnog saobraćaja na poručju opštine Kolašin | [`odluka/2008/298241/`](odluka/2008/298241/) | amending act | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka o uslovima, nacinu i postupku isplate garantovanih depozita | [`odluka/2008/298344/`](odluka/2008/298344/) | in force | 1 | 2008-12-06 | 2008-12-06 |
+| Odluka o pristupanju izradi Lokalne studije lokacije "Benzinska stanica - Đuranovića Luke" | [`odluka/2008/298385/`](odluka/2008/298385/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka | [`odluka/2008/298389/`](odluka/2008/298389/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o donošenju Detaljnog urbanističkog plana "Avdovina I" | [`odluka/2008/298405/`](odluka/2008/298405/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o razrješenju člana Savjeta za davanje predloga naziva naselja, ulica i trgova | [`odluka/2008/298416/`](odluka/2008/298416/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o donošenju Lokalne studije lokacije "Otilovići" | [`odluka/2008/298446/`](odluka/2008/298446/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o otkupu zemljišta radi formiranja urbanističke parcele | [`odluka/2008/298476/`](odluka/2008/298476/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o izmjenama i dopunama Statuta Opštine Danilovgrad | [`odluka/2008/298509/`](odluka/2008/298509/) | amending act | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama Statuta Javnog preduzeća "Zelenilo" - Podgorica | [`odluka/2008/298514/`](odluka/2008/298514/) | in force | 1 | 2008-07-30 | 2008-07-30 |
+| Odluka o davanju saglasnosti za angažovanje mehanizacije za tekuće održavanje lokalnih i nekategorisanih puteva | [`odluka/2008/298541/`](odluka/2008/298541/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o razrješenju predsjednika Savjeta za predstavke i pritužbe | [`odluka/2008/298542/`](odluka/2008/298542/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima lokalnih funkcionera | [`odluka/2008/298544/`](odluka/2008/298544/) | amending act | 1 | 2008-03-27 | 2008-03-27 |
+| Odluka odluke o izmjenama Statuta Opštine Pljevlja | [`odluka/2008/298645/`](odluka/2008/298645/) | in force | 1 | 2008-05-02 | 2008-05-02 |
+| Odluka o Lokalnoj studiji lokacije za katastarsku parcelu br.8 KO Goljemadi u Podgorici | [`odluka/2008/298678/`](odluka/2008/298678/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prenos prava na gradsko građevinsko zemljište na području DUP-a Centar 3 | [`odluka/2008/298709/`](odluka/2008/298709/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o privremenom finansiranju potreba Budžeta opštine Andirjevica za period januar-mart 2009. Godine | [`odluka/2008/298715/`](odluka/2008/298715/) | in force | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka o davanju saglasnosti na Odluku o Finansijskom planu Gradske opštine Golubovci za 2008.godinu | [`odluka/2008/298719/`](odluka/2008/298719/) | in force | 1 | 2008-03-01 | 2008-03-01 |
+| Odluka o izmjenama i dopunama Odluke o broju sudija u sudovima u Republici Crnoj Gori | [`odluka/2008/298720/`](odluka/2008/298720/) | amending act | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o izradi strateške procjene uticaja na životnu sredinu Izmjena i dopuna DUP-a "Stražica" | [`odluka/2008/298741/`](odluka/2008/298741/) | amending act | 1 | 2008-06-26 | 2008-06-26 |
+| Odluka o davanju saglasnosti na imenovanje direktora Javne ustanove "Sportska dvorana" - Tivat | [`odluka/2008/298742/`](odluka/2008/298742/) | in force | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o pristupanju izradi Lokalne studije lokacije "Poslovno-komercijalno- turistički -centar | [`odluka/2008/298753/`](odluka/2008/298753/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o imenovanju predsjednika Savjeta za davanje predloga naziva naselja, ulica i trgova | [`odluka/2008/298779/`](odluka/2008/298779/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Bokovo | [`odluka/2008/298780/`](odluka/2008/298780/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Babljak | [`odluka/2008/298781/`](odluka/2008/298781/) | in force | 1 | 2008-01-24 | 2008-01-24 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prenos prava na građevinsko zemljište | [`odluka/2008/298799/`](odluka/2008/298799/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o davanju saglasnosti na Program rada JP ''Vodovod i kanalizacija'' - Berane | [`odluka/2008/298801/`](odluka/2008/298801/) | in force | 1 | 2008-04-24 | 2008-04-24 |
+| Odluka o davanju saglasnosti na Program rada Javne ustanove za kulturu, fizičku kulturu i sport za 2008.god | [`odluka/2008/298805/`](odluka/2008/298805/) | in force | 1 | 2008-05-22 | 2008-05-22 |
+| Odluka o izmjenama i dopunama Odluke o opštinskim i nekategorisanim putevima | [`odluka/2008/298808/`](odluka/2008/298808/) | amending act | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka o imenovanju predsjednika Upravnog odbora JP "Sportski centar" Rožaje | [`odluka/2008/298837/`](odluka/2008/298837/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o donošenju lokalne studije lokacije za izgradnju Fabrike za pakovanje vode u Gusinju | [`odluka/2008/298838/`](odluka/2008/298838/) | in force | 1 | 2008-07-10 | 2008-07-10 |
+| Odlukao izmjenama i dopunama Odluke o regulisanju drumskog saobraćaja | [`odluka/2008/298863/`](odluka/2008/298863/) | amending act | 1 | 2008-08-26 | 2008-08-26 |
+| Odluka o davanju saglasnosti na Odluku o Završnom računu Finansijskog plana Gradske opštine Tuzi za 2007.godinu | [`odluka/2008/298866/`](odluka/2008/298866/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o obrazovanju Komisije za rjesavanje imovinskih i drugih srodnih pitanja sa Republikom Hrvatskom | [`odluka/2008/298877/`](odluka/2008/298877/) | in force | 1 | 2008-12-06 | 2008-12-06 |
+| Odluka o uskladjivanju penzija i novcanih naknada od 1.jula 2008.godine | [`odluka/2008/298903/`](odluka/2008/298903/) | in force | 1 | 2008-07-30 | 2008-07-30 |
+| Odluka o zaduženju Opštine | [`odluka/2008/298940/`](odluka/2008/298940/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o izmjenama i dopunama Odluke o načinu i uslovima regulisanja međusobnih novčanih potraživanja i imovinsko-pravnih odnosa Opštine Kotor i "Trecom" doo Kotor | [`odluka/2008/299004/`](odluka/2008/299004/) | amending act | 1 | 2008-03-28 | 2008-03-28 |
+| Odluka o utvrđivanju zakupnine za nosioce stanarskog prava u neotkupljenim stanovima vlasništvo Opštine Pljevlja | [`odluka/2008/299007/`](odluka/2008/299007/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o odredjivanju objekata ili djelova objekata i rejona uz objekte od posebnog znacaja za odbranu | [`odluka/2008/299109/`](odluka/2008/299109/) | in force | 1 | 2008-08-08 | 2008-08-08 |
+| Odluka o otkupu zemljišta radi formiranja urbanističke parcele | [`odluka/2008/299110/`](odluka/2008/299110/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o donošenju Urbanističkog projekta "Trg Patrijarha Varnave" | [`odluka/2008/299166/`](odluka/2008/299166/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o prodaji nepokretnosti | [`odluka/2008/299168/`](odluka/2008/299168/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o dodjeli koncesije po kombinovanom DBOT aranzmanu za istrazivanje vodotoka i izgradnju malih hidroelektrana na vodotoku Sekularska (ident.br.21 iz Javnog poziva) | [`odluka/2008/299172/`](odluka/2008/299172/) | in force | 1 | 2008-08-08 | 2008-08-08 |
+| Odluka o zamjeni nepokretnosti broj 11-5575 | [`odluka/2008/299175/`](odluka/2008/299175/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o otvaranju Konzulata Crne Gore u Nikoziji - Republika Kipar | [`odluka/2008/299176/`](odluka/2008/299176/) | in force | 1 | 2008-02-27 | 2008-02-27 |
+| Odluka o usutpanju lokacije MZ Bać za potrebe proširenja groblja bez nadoknade | [`odluka/2008/299179/`](odluka/2008/299179/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o davanju saglasnosti na Statut Turističke organizacije Opštine Šavnik | [`odluka/2008/299206/`](odluka/2008/299206/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o izmjeni i dopuni Odluke o porezu na firmu ili naziv | [`odluka/2008/299209/`](odluka/2008/299209/) | amending act | 1 | 2008-05-31 | 2008-05-31 |
+| Odluka o dodjeli zemljišta na trajno korišćenje bez naknade | [`odluka/2008/299211/`](odluka/2008/299211/) | in force | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka o donošenju dopuna Petogodišnjeg programa planiranja i uređenja prostora Opštine Bijelo Polje za period 2005-2010.godina | [`odluka/2008/299271/`](odluka/2008/299271/) | amending act | 1 | 2008-07-11 | 2008-07-11 |
+| Odluka o potvrđivanju Odluke o razmjeni prenosa prava korišćenja nepokretnosti | [`odluka/2008/299305/`](odluka/2008/299305/) | in force | 1 | 2008-06-26 | 2008-06-26 |
+| Odluka o davanju saglasnosti na Odluku o prodaji osnovnog sredstva | [`odluka/2008/299307/`](odluka/2008/299307/) | in force | 1 | 2008-05-02 | 2008-05-02 |
+| Odluka o davanju saglasnosti na Program rada JP "Breznica za 2008.godinu | [`odluka/2008/299341/`](odluka/2008/299341/) | in force | 1 | 2008-03-14 | 2008-03-14 |
+| Odluka o imenovanju člana Odbora za međupštinsku i međunarodnu saradnju | [`odluka/2008/299417/`](odluka/2008/299417/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o vanrednom uskladjivanju osnova za odredjivanje novcane naknade za tjelesno ostecenje od 1.decembra 2008.godine | [`odluka/2008/299434/`](odluka/2008/299434/) | in force | 1 | 2008-12-06 | 2008-12-06 |
+| Odluka o formiranju Opštinskog savjeta za brigu o licima s invaliditetom | [`odluka/2008/299436/`](odluka/2008/299436/) | in force | 1 | 2008-07-18 | 2008-07-18 |
+| Odluka o donosenju Detaljnog prostornog plana Autoputa Bar - Boljare | [`odluka/2008/299445/`](odluka/2008/299445/) | in force | 1 | 2008-11-04 | 2008-11-04 |
+| Odluka o izmjenama i dopunama Odluke o porezu na potrošnju | [`odluka/2008/299503/`](odluka/2008/299503/) | amending act | 1 | 2008-07-30 | 2008-07-30 |
+| Odluka o kupovini nepokretnosti za potrebe proširenja groblja u Ravnoj Rijeci | [`odluka/2008/299504/`](odluka/2008/299504/) | in force | 1 | 2008-07-11 | 2008-07-11 |
+| Odluka o donošenju Lokalne studije lokacije "Mljekavica" | [`odluka/2008/299506/`](odluka/2008/299506/) | in force | 1 | 2008-11-07 | 2008-11-07 |
+| Odluka o davanju saglasnosti na Program rada JU ’’Polimski muzej'' - Berane | [`odluka/2008/299537/`](odluka/2008/299537/) | in force | 1 | 2008-04-24 | 2008-04-24 |
+| Odluka o prenosu prava susvojine na nepokretnosti | [`odluka/2008/299538/`](odluka/2008/299538/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o razrješenju odnosno imenovanju jednog člana Odbora za međuopštinsku i međunarodnu saradnju | [`odluka/2008/299539/`](odluka/2008/299539/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o pristupanju izradi lokalne studije lokacije Kolašin - "Jezerine II" | [`odluka/2008/299607/`](odluka/2008/299607/) | in force | 1 | 2008-05-22 | 2008-05-22 |
+| Program privremenog korišćenja gradskog građevinskog zemljišta | [`odluka/2008/299637/`](odluka/2008/299637/) | in force | 1 | 2008-05-02 | 2008-05-02 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora o imenovanju direktora JP za uzgoj, zaštitu i lov divljači "Dr Zoran Kesler" | [`odluka/2008/299639/`](odluka/2008/299639/) | in force | 1 | 2008-11-07 | 2008-11-07 |
+| Odluka o usvajanju Programa praćenja kvaliteta vazduha u Pljevljima | [`odluka/2008/299650/`](odluka/2008/299650/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o emisiji obveznica Crne Gore po osnovu obestecenja korisnika prava iz penzijskog i invalidskog osiguranja | [`odluka/2008/299651/`](odluka/2008/299651/) | in force | 1 | 2008-08-12 | 2008-08-12 |
+| Odluka o izmjenama i dopunama Odluke o porezu na potrošnju | [`odluka/2008/299674/`](odluka/2008/299674/) | amending act | 1 | 2008-04-15 | 2008-04-15 |
+| . Odluka o donosenju Studije lokacije "Arsenal" - Tivat | [`odluka/2008/299710/`](odluka/2008/299710/) | in force | 1 | 2008-04-10 | 2008-04-10 |
+| Odluka o izmjenama Odluke o radnom vremenu | [`odluka/2008/299832/`](odluka/2008/299832/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Izmjene i dopune Programa uređivanja građevinskog zemljišta za 2008. godinu | [`odluka/2008/299877/`](odluka/2008/299877/) | amending act | 1 | 2008-04-24 | 2008-04-24 |
+| Odluka o donošenju Lokalne studije lokacije »Pečurice 1750« | [`odluka/2008/299897/`](odluka/2008/299897/) | in force | 1 | 2008-12-03 | 2008-12-03 |
+| Odluka o pristupanju Eurodistriktu Južnog Jadrana | [`odluka/2008/299898/`](odluka/2008/299898/) | in force | 1 | 2008-06-02 | 2008-06-02 |
+| Odluka o izradi Izmjena i dopuna Prostornog plana opštine Budva | [`odluka/2008/299902/`](odluka/2008/299902/) | amending act | 1 | 2008-08-16 | 2008-08-16 |
+| Odluka br. 105, od 21. februara 2008. godine | [`odluka/2008/299903/`](odluka/2008/299903/) | in force | 1 | 2008-03-01 | 2008-03-01 |
+| Odluka o zajedničkoj dogradnji i nadogradnji stambeno-poslovne zgrade na dijelu kat.parcele 505 K.O. Doborta I | [`odluka/2008/299933/`](odluka/2008/299933/) | in force | 1 | 2008-08-16 | 2008-08-16 |
+| Odluka o izmjenama Odluke o porezu na napokretnost | [`odluka/2008/299961/`](odluka/2008/299961/) | in force | 1 | 2008-12-31 | 2008-12-31 |
+| Odluka o pristupanju izradi lokalne studije lokacije Kolašin - "Barutana" | [`odluka/2008/299962/`](odluka/2008/299962/) | in force | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o davanju saglasnosti na Statut Javnog preduzeća za komunalno - stambenu djelatnost "Lim" Bijelo Polje | [`odluka/2008/299963/`](odluka/2008/299963/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o dodjeli placa Rafetu Suljeviću, sudiji Osnovnog suda Rožaje za rješavanje stambenog pitanja | [`odluka/2008/299998/`](odluka/2008/299998/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o prenosu prava korišćenja poslovne prostorije | [`odluka/2008/300200/`](odluka/2008/300200/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o donošenju Lokalne studije lokacije "Tomanis" | [`odluka/2008/300313/`](odluka/2008/300313/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o donošenju Lokalne studije lokacije za izgradnju dijela saobraćajnice u okviru Prostornog plana Opštine Berane | [`odluka/2008/300314/`](odluka/2008/300314/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o dozvoli prodaje putem javnog nadmetanja nepokretnosti u KO Goduša i KO Pećarska | [`odluka/2008/300318/`](odluka/2008/300318/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o donošenju Detaljnog urbanističkog plana Mrkošnica 2 | [`odluka/2008/300323/`](odluka/2008/300323/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izmjenama Odluke o osnivanju Javne ustanove "Stari grad Anderva" | [`odluka/2008/300325/`](odluka/2008/300325/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o stavljanju van snage Odluke o pristupanju izradi izmjena i dopuna Plana uređenja naselja Prčanj | [`odluka/2008/300348/`](odluka/2008/300348/) | amending act | 1 | 2008-03-13 | 2008-03-13 |
+| Odluka o izmjenama i dopunama Odluke o određivanju naknade za rad odbornicima u Skupštini opštine Bijelo Polje | [`odluka/2008/300379/`](odluka/2008/300379/) | amending act | 1 | 2008-03-27 | 2008-03-27 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Turističke organizacije | [`odluka/2008/300380/`](odluka/2008/300380/) | amending act | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o usvajanju Lokalnog plana akcije uključenja Roma, Egipćana i Aškalija u opštini Nikšić za period 2008-2015.godina | [`odluka/2008/300534/`](odluka/2008/300534/) | in force | 1 | 2008-07-18 | 2008-07-18 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti | [`odluka/2008/300537/`](odluka/2008/300537/) | in force | 1 | 2008-06-11 | 2008-06-11 |
+| Odluka o dozvoli prodaje putem javnog nadmetanja nepokretnosti KO Grbe, KO Novo Selo i KO Bandići | [`odluka/2008/300539/`](odluka/2008/300539/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o izradi Strateške procjene uticaja za Lokalnu studiju lokacije za turističko naselje visoke kategorije na lokalitetu Liman II | [`odluka/2008/300561/`](odluka/2008/300561/) | in force | 1 | 2008-12-13 | 2008-12-13 |
+| Odluka o uskladjivanju vrijednosti penzije za jedan licni bod od 1.jula 2008.godine | [`odluka/2008/300566/`](odluka/2008/300566/) | in force | 1 | 2008-07-30 | 2008-07-30 |
+| Odluka o donošenju Lokalne studije lokacije "Škerović" | [`odluka/2008/300567/`](odluka/2008/300567/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o izgradnji objekata | [`odluka/2008/300593/`](odluka/2008/300593/) | in force | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka o donošenju Lokalne studije lokacije Bogetići | [`odluka/2008/300598/`](odluka/2008/300598/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o pristupanju izradi lokalne studije lokacije Kolašin - "Drpe 1" | [`odluka/2008/300626/`](odluka/2008/300626/) | in force | 1 | 2008-07-30 | 2008-07-30 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za uređenje građevinskog zemljišta | [`odluka/2008/300628/`](odluka/2008/300628/) | amending act | 1 | 2008-08-16 | 2008-08-16 |
+| Odluka o izradi Izmjena i dopuna Detaljnog urbanističkog plana Plužine | [`odluka/2008/300659/`](odluka/2008/300659/) | amending act | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka za izradu urbanističkog projekta za lokaciju Zdravstveni i turistički kompleks Meljine | [`odluka/2008/300665/`](odluka/2008/300665/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o uslovima za obavljanje kreditno - garantnih poslova | [`odluka/2008/300818/`](odluka/2008/300818/) | in force | 1 | 2008-07-19 | 2008-07-19 |
+| Odluka o davanju u dugoročni zakup dijela kat.parc. 366 K.O. Perast | [`odluka/2008/300852/`](odluka/2008/300852/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o dopunama Programa planiranja i uređenja prostora opštine Nikšić za period 2006 - 2011.godina | [`odluka/2008/300853/`](odluka/2008/300853/) | amending act | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o uskladjivanju osnova za odredjivanje novcane naknade za tjelesno ostecenje od 1.jula 2008.godine | [`odluka/2008/300936/`](odluka/2008/300936/) | in force | 1 | 2008-07-30 | 2008-07-30 |
+| Odluka o izmjenama i dopunama Odluke o porezu na potrošnju | [`odluka/2008/300938/`](odluka/2008/300938/) | amending act | 1 | 2008-03-27 | 2008-03-27 |
+| Odluka o izmjenama Odluke o pečatima | [`odluka/2008/300941/`](odluka/2008/300941/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o privatizaciji AD "Ibarmond" Rožaje metodom prodaje akcija putem berze | [`odluka/2008/300943/`](odluka/2008/300943/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o kupovini aviona za gašanje požara | [`odluka/2008/300977/`](odluka/2008/300977/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o dodjeli novčane pomoći opštinama Berane i Rožaje | [`odluka/2008/300978/`](odluka/2008/300978/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o donošenju Generalnog urbanističkog plana Danilovgrada | [`odluka/2008/301094/`](odluka/2008/301094/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o prihvatanju inicijative za usvajanje Nacrta konvencije o osnivanju Eurodistrikta "Južni Jadran" | [`odluka/2008/301127/`](odluka/2008/301127/) | in force | 1 | 2008-03-14 | 2008-03-14 |
+| Odluka o izmjeni Odluke o izradi izmjena i dopuna DUP-a Kostanjica | [`odluka/2008/301135/`](odluka/2008/301135/) | amending act | 1 | 2008-05-31 | 2008-05-31 |
+| Odluka o donošenju Detaljnog urbanističkog plana"Podkošljun" | [`odluka/2008/301165/`](odluka/2008/301165/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o otvaranju Ambasade Crne Gore u Republici Turskoj | [`odluka/2008/301168/`](odluka/2008/301168/) | in force | 1 | 2008-08-15 | 2008-08-15 |
+| Odluka o pristupanju izradi izmjena i dopuna Prostornog plana opštine Plav | [`odluka/2008/301230/`](odluka/2008/301230/) | amending act | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o otvaranju Konzulata Crne Gore u Cako - Republika Argentina | [`odluka/2008/301234/`](odluka/2008/301234/) | in force | 1 | 2008-02-27 | 2008-02-27 |
+| Odluka o imenovanju predsjednika Odbora za privredu, finansije i razvoj | [`odluka/2008/301235/`](odluka/2008/301235/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Rečine | [`odluka/2008/301238/`](odluka/2008/301238/) | in force | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka br.0304-180 | [`odluka/2008/304232/`](odluka/2008/304232/) | in force | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o izmjeni Odluke o naknadama odbornicima u Skupštini opštine Kolašin | [`odluka/2008/304282/`](odluka/2008/304282/) | in force | 1 | 2008-05-22 | 2008-05-22 |
+| Odluka o vanrednom uskladjivanju vrijednosti penzija za jedan licni bod od 1.decembra 2008.godine | [`odluka/2008/304495/`](odluka/2008/304495/) | in force | 1 | 2008-12-06 | 2008-12-06 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju u vezi zakupa zemljišta van granica gradskog građevinskog zemljišta | [`odluka/2008/304723/`](odluka/2008/304723/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o osnivanju Javne ustanove Skole za osnovno muzicko obrazovanje u Pljevljima | [`odluka/2008/304725/`](odluka/2008/304725/) | in force | 1 | 2008-10-09 | 2008-10-09 |
+| Odluka o razrješenju, odnosno imenovanju jednog člana Odbora za finansije i privredni razvoj | [`odluka/2008/304728/`](odluka/2008/304728/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o utvrđivanju Nacrta Urbanističkog projekta "Benzinska pumpa Polje" | [`odluka/2008/304733/`](odluka/2008/304733/) | in force | 1 | 2008-08-16 | 2008-08-16 |
+| Odluka o izmjenama Odluke o organizovanju Javne ustanove Centar za kulturu Nikšić | [`odluka/2008/304735/`](odluka/2008/304735/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o zamjeni zemljišta | [`odluka/2008/304738/`](odluka/2008/304738/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o odobravanju kratkorocnih pozajmica bankama | [`odluka/2008/304739/`](odluka/2008/304739/) | in force | 1 | 2008-10-30 | 2008-10-30 |
+| Odluka o prenosu prava na stambeni prostor na Ministarstvo unutrašnjih poslova i javne uprave Crne Gore | [`odluka/2008/304741/`](odluka/2008/304741/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izmjeni i dopuni Odluke o visini, načinu obračunavanja i plaćanja članskog doprinosa Turističkoj organizaciji Mojkovac | [`odluka/2008/304751/`](odluka/2008/304751/) | amending act | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o davanju saglasnosti na Statut JP za održavnje i zaštitu lokalnih puteva Pljevlja | [`odluka/2008/304752/`](odluka/2008/304752/) | in force | 1 | 2008-05-02 | 2008-05-02 |
+| Odluka o dodjeli koncesije po kombinovanom DBOT aranzmanu za istrazivanje vodotoka i izgradnju malih hidroelektrana na vodotoku Bistrica | [`odluka/2008/304767/`](odluka/2008/304767/) | in force | 1 | 2008-08-12 | 2008-08-12 |
+| Odluka o izmjeni i dopuni Odluke o naknadi za uređivanje građevinskog zemljišta | [`odluka/2008/304965/`](odluka/2008/304965/) | amending act | 1 | 2008-03-01 | 2008-03-01 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Zagarače | [`odluka/2008/304968/`](odluka/2008/304968/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o otvaranju Konzulata Crne Gore u Limasolu - Republika Kipar | [`odluka/2008/304988/`](odluka/2008/304988/) | in force | 1 | 2008-02-27 | 2008-02-27 |
+| Odluka o donošenju Plana izmjena i dopuna Detaljnog urbanističkog plana Škaljara | [`odluka/2008/304990/`](odluka/2008/304990/) | amending act | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o ustupanju nekretnina bez naknade | [`odluka/2008/304991/`](odluka/2008/304991/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o pristupanju izradi Lokalnog plana upravljanja otpadom za period od 2008. do 2012.godine | [`odluka/2008/305015/`](odluka/2008/305015/) | in force | 1 | 2008-09-30 | 2008-09-30 |
+| Odluka o sadrzini i nacinu davanja svecane izjave lica primljenih u crnogorsko drzavljanstvo | [`odluka/2008/305020/`](odluka/2008/305020/) | in force | 1 | 2008-08-15 | 2008-08-15 |
+| Odluka o privremenom finansiranju potreba Budžeta opštine Danilovgrad za period januar-mart 2009.godine | [`odluka/2008/305039/`](odluka/2008/305039/) | in force | 1 | 2008-12-29 | 2008-12-29 |
+| Odluka o izradi Strateške procjene uticaja na životnu sredinu za Lokalnu studiju lokacije za seosko naselje u funkciji turizma u Zoganju | [`odluka/2008/305296/`](odluka/2008/305296/) | in force | 1 | 2008-12-13 | 2008-12-13 |
+| Rješenje o izmjeni Rješenja o imenovanju Upravnog odbora Fondacije "Kotorski festival pozorišta za djecu " | [`odluka/2008/305298/`](odluka/2008/305298/) | in force | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za korišćenje građevinskog zemljišta | [`odluka/2008/305583/`](odluka/2008/305583/) | amending act | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o izradi Detaljnog urbanističkog plana Igalo - poslovna zona | [`odluka/2008/305584/`](odluka/2008/305584/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o prenosu prava na gradskom građevinskom zemljištu u obuhvatu UP Privredna zona | [`odluka/2008/305585/`](odluka/2008/305585/) | in force | 1 | 2008-10-17 | 2008-10-17 |
+| Odluka o otvaranju Konzulata Crne Gore u Bejrutu - Republika Liban | [`odluka/2008/305589/`](odluka/2008/305589/) | in force | 1 | 2008-02-27 | 2008-02-27 |
+| Odluka o zaduženju Opštine Pljevlja | [`odluka/2008/306288/`](odluka/2008/306288/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o davanju u dugoročni zakup dijela kat.parc. 1047 K.O. Risan I | [`odluka/2008/306570/`](odluka/2008/306570/) | in force | 1 | 2008-03-28 | 2008-03-28 |
+| Odluka o izmjeni Odluke o izradi Detaljnog urbanističkog plana "Centar" - Petrovac | [`odluka/2008/306601/`](odluka/2008/306601/) | in force | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o izmjeni Odluke o porezu na potrošnju | [`odluka/2008/306670/`](odluka/2008/306670/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o odredjivanju predmeta i usluga od posebnog znacaja za odbranu | [`odluka/2008/306725/`](odluka/2008/306725/) | in force | 1 | 2008-03-13 | 2008-03-13 |
+| Odluka o ustupanju nekretnina bez naknade | [`odluka/2008/306730/`](odluka/2008/306730/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka | [`odluka/2008/306808/`](odluka/2008/306808/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o razrješenju predsjednika Odbora za privredu, finansije i razvoj | [`odluka/2008/306882/`](odluka/2008/306882/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o izradi Detaljnog urbanističkog plana Mrkošnica 2 | [`odluka/2008/307018/`](odluka/2008/307018/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o izradi Detaljnog urbanističkog plana Staro pazarište | [`odluka/2008/307021/`](odluka/2008/307021/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o donošenju lokalne studije lokacije Kolašin -"Jezerine" | [`odluka/2008/307024/`](odluka/2008/307024/) | in force | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka o pristupanju izmjenama Statuta Opštine Pljevlja | [`odluka/2008/307397/`](odluka/2008/307397/) | in force | 1 | 2008-03-22 | 2008-03-22 |
+| Odluka o davanju saglasnosti na Izvještaj o radu Turističke organizacije za 2007.godinu, Program rada i Finansijski plan za 2008.godinu i Završni račun za 2007.godinu | [`odluka/2008/307514/`](odluka/2008/307514/) | in force | 1 | 2008-09-23 | 2008-09-23 |
+| Odluka br.0304-166 | [`odluka/2008/307517/`](odluka/2008/307517/) | in force | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o donošenju Lokalne studije lokacije »Hamero resort« | [`odluka/2008/307602/`](odluka/2008/307602/) | in force | 1 | 2008-12-03 | 2008-12-03 |
+| Odluka o izmjenama i dopunama Odluke o lokalnoj upravi | [`odluka/2008/307629/`](odluka/2008/307629/) | amending act | 1 | 2008-03-01 | 2008-03-01 |
+| Odluka o potvrđivanju Odluke o pribavljanju (kupovini) nepokretnosti za potrebe Udruženja voćara Berane | [`odluka/2008/307636/`](odluka/2008/307636/) | in force | 1 | 2008-09-22 | 2008-09-22 |
+| Odluka o izmjenama Odluke o lokalnim komunalnim taksama i naknadama | [`odluka/2008/307678/`](odluka/2008/307678/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javnog komunalnog preduzeća Cetinje | [`odluka/2008/307681/`](odluka/2008/307681/) | amending act | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izmjenama i dopunama Generalnog urbanističkog Plana Opštine Rožaje za prostor Detaljnih urbanističkih planova "Industrijske zone Centar" i "Zeleni" kao i proširenja granica istog | [`odluka/2008/307902/`](odluka/2008/307902/) | amending act | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka o otvaranju Konzulata Crne Gore u Bitolju - Republika Makedonija | [`odluka/2008/307919/`](odluka/2008/307919/) | in force | 1 | 2008-02-27 | 2008-02-27 |
+| Odluka o izradi strateške procjene uticaja na životnu sredinu Izmjena i dopuna DUP-a "Centar II" | [`odluka/2008/307922/`](odluka/2008/307922/) | amending act | 1 | 2008-06-26 | 2008-06-26 |
+| Odluka o ustupanju nekretnina bez naknade | [`odluka/2008/307931/`](odluka/2008/307931/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o prodaji nepokretnosti | [`odluka/2008/307941/`](odluka/2008/307941/) | in force | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka o zamjeni nepokretnosti broj 11- 5694 | [`odluka/2008/307956/`](odluka/2008/307956/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "Svinjišta" | [`odluka/2008/308186/`](odluka/2008/308186/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Poslovnik o izmjenama Poslovnika o radu Opštinske izborne komisije | [`odluka/2008/308199/`](odluka/2008/308199/) | in force | 1 | 2008-02-06 | 2008-02-06 |
+| Odluka o obezbjeđenju sredstava za rješavanje stambenih pitanja Gajović Milorada i Mrvaljević Srđana | [`odluka/2008/308208/`](odluka/2008/308208/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izmjenama i dopunama Odluke o mjerilima za ugovaranje visine naknade za uređivanje građevinskog zemljišta | [`odluka/2008/308332/`](odluka/2008/308332/) | amending act | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o privremenom finansiranju budžetskih korisnika Opštine Mojkovac za period 01.01. do 31.03.2009. god. | [`odluka/2008/308384/`](odluka/2008/308384/) | in force | 1 | 2008-12-29 | 2008-12-29 |
+| Odluka o izradi Detaljnog urbanističkog plana Centar 4 - zapad | [`odluka/2008/308586/`](odluka/2008/308586/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o prenosu prava korišćenja na gradsko građevinsko zemljište na Delić Bosiljku | [`odluka/2008/308617/`](odluka/2008/308617/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o utvrđivanju Programa rada Skupštine Gradske opštine Tuzi za 2008.godinu | [`odluka/2008/308626/`](odluka/2008/308626/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Rješenje o imenovanju Žirija za dodijelu nagrade "21. novembar" | [`odluka/2008/308627/`](odluka/2008/308627/) | in force | 1 | 2008-10-17 | 2008-10-17 |
+| Odluka o otvaranju Ambasade Crne Gore u Republici Madjarskoj | [`odluka/2008/308632/`](odluka/2008/308632/) | in force | 1 | 2008-09-27 | 2008-09-27 |
+| Odluka o davanju saglasnosti na zaduživanje JP za održavanje i zaštitu lokalnih puteva Pljevlja | [`odluka/2008/308653/`](odluka/2008/308653/) | in force | 1 | 2008-03-22 | 2008-03-22 |
+| Odluka o izmjenama i dopunama Odluke o naknadama za korišćenje opštinskih puteva | [`odluka/2008/308681/`](odluka/2008/308681/) | amending act | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka o izmjenama Odluke o osnivanju Javne ustanove Zavoda za udzbenike i nastavna sredstva | [`odluka/2008/308773/`](odluka/2008/308773/) | in force | 1 | 2008-04-26 | 2008-04-26 |
+| Odluka o davanju saglasnosti na Odluku predsjednika Opštine Herceg Novi o Izmjeni Odluke o Komunalnoj policiji br.01-1-493/2008 od 18.06.2008.godine | [`odluka/2008/308775/`](odluka/2008/308775/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju pet članova Odbora za prostorno planiranje i komunalno-socijalnu djelatnost | [`odluka/2008/308928/`](odluka/2008/308928/) | amending act | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o izmjenama i dopunama Odluke o porezu na potrošnju | [`odluka/2008/308963/`](odluka/2008/308963/) | amending act | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o davanju saglasnosti na Statut Turističke organizacije Mojkovac | [`odluka/2008/309163/`](odluka/2008/309163/) | in force | 1 | 2008-05-04 | 2008-05-04 |
+| Odluka o izmjeni Odluke o izradi lokalne Studije lokacije "Blizikuće" | [`odluka/2008/309182/`](odluka/2008/309182/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Vražegrmci | [`odluka/2008/309195/`](odluka/2008/309195/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o premijama za otkup mlijeka | [`odluka/2008/309233/`](odluka/2008/309233/) | in force | 1 | 2008-05-02 | 2008-05-02 |
+| Odluka o usvajanju Nacrta plana mjera Lokalnog ekološkog akcionog plana Opštine Pljevlja za 2008.godinu | [`odluka/2008/309507/`](odluka/2008/309507/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka | [`odluka/2008/309540/`](odluka/2008/309540/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o izmjenama i dopunama Detaljnog urbanističkog plana "Industrijska Zona Zeleni" | [`odluka/2008/309654/`](odluka/2008/309654/) | amending act | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka o razrješenju predsjednika Upravnog odbora JU "Centar za kulturu" Rožaje | [`odluka/2008/309658/`](odluka/2008/309658/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o otvaranju Konzulata Crne Gore u Istanbulu - Republika Turska | [`odluka/2008/309689/`](odluka/2008/309689/) | in force | 1 | 2008-02-27 | 2008-02-27 |
+| Odluka o davanju u dugoročni zakup dijela kat.parc.1047 K.O.Risan 1 | [`odluka/2008/323858/`](odluka/2008/323858/) | in force | 1 | 2008-03-14 | 2008-03-14 |
+| Odluka o visini naknada posebnih troskova postupka koji vodi Zavod za intelektualnu svojinu i naknada troskova za pruzanje informacionih usluga Zavoda | [`odluka/2008/323906/`](odluka/2008/323906/) | in force | 1 | 2008-03-15 | 2008-03-15 |
+| Odluka o izmjenama i dopunama Odluke o korišćenju i naknadi za korišćenje putnog zemljišta koje pripada opštinskim i nekategorisanim putevima | [`odluka/2008/323937/`](odluka/2008/323937/) | amending act | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o usvajanju Lokalnog plana Akcije za djecu u opštini Tivat | [`odluka/2008/323970/`](odluka/2008/323970/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o izmjenama i dopunama Odluke o pomoći redovnim studentima lošeg materijalnog stanja | [`odluka/2008/324088/`](odluka/2008/324088/) | amending act | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o vanrednom uskladjivanju penzija i novcanih naknada od 1.decembra 2008.godine | [`odluka/2008/324121/`](odluka/2008/324121/) | in force | 1 | 2008-12-06 | 2008-12-06 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Gornji Grad | [`odluka/2008/324138/`](odluka/2008/324138/) | in force | 1 | 2008-07-11 | 2008-07-11 |
+| Odluka o prenosu prava zemljišta Mitropoliji crnogorsko primorskoj | [`odluka/2008/324172/`](odluka/2008/324172/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o izmjenama Odluke o lokalnim komunalnim taksama | [`odluka/2008/324206/`](odluka/2008/324206/) | in force | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o razrješenju člana Odbora za međuopštinsku i međunarodnu saradnju | [`odluka/2008/324250/`](odluka/2008/324250/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o zajedničkom organizovanju poslova odlaganja komunalnog otpada za opštine Pljevlja i Žabljak | [`odluka/2008/324281/`](odluka/2008/324281/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "Lapčići" | [`odluka/2008/324894/`](odluka/2008/324894/) | in force | 1 | 2008-08-16 | 2008-08-16 |
+| Odluka o upotrebi jedinice - medicinskog tima Vojske Crne Gore u Mirovnoj MISIJI Ujedinjenih NACIJA "International Security Assistance Force (ISAF)" u Avganistanu | [`odluka/2008/324906/`](odluka/2008/324906/) | in force | 1 | 2008-12-31 | 2008-12-31 |
+| Odluka o izmjenama i dopunama Odluke o prirezu poreza na dohodak fizičkih lica | [`odluka/2008/324907/`](odluka/2008/324907/) | amending act | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o imenovanju Žirija za dodjelu nagrade "30.septembar" za 2008.godinu | [`odluka/2008/324915/`](odluka/2008/324915/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o donošenju Lokalne studije lokacije "Pavlićević" | [`odluka/2008/324918/`](odluka/2008/324918/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o uskladjivanju nominalnih iznosa najnize penzije od 1.jula 2008.godine | [`odluka/2008/324927/`](odluka/2008/324927/) | in force | 1 | 2008-07-30 | 2008-07-30 |
+| Jednogodišnji program planiranja i uređenja prostora Opštine Berane za 2008.godinu | [`odluka/2008/324952/`](odluka/2008/324952/) | in force | 1 | 2008-03-15 | 2008-03-15 |
+| Odluka o pristupanju Eurodistriktu "Južni Jadran" | [`odluka/2008/324953/`](odluka/2008/324953/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o donošenju lokalne studije lokacije Kolašin -"Trunića do" | [`odluka/2008/324983/`](odluka/2008/324983/) | in force | 1 | 2009-01-06 | 2009-01-06 |
+| Odluka o davanju ovlašćenja predsjedniku Opštine Herceg Novi da zaključi ugovor o izmirenju međusobnih obaveza za transport vode i održavanje cjevovoda na dionici "Plat - Debeli brijeg" | [`odluka/2008/325037/`](odluka/2008/325037/) | in force | 1 | 2008-07-17 | 2008-07-17 |
+| Odluka o izmjeni Odluke o pristupanju izradi izmjena i dopuna DUP-a "Podkošljun" po skraćenom postupku ("Sl.list Opštine Budva", br.04/01) | [`odluka/2008/325114/`](odluka/2008/325114/) | amending act | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o izgledu i sadrzaju plakete i diplome Trinaestojulske nagrade | [`odluka/2008/325139/`](odluka/2008/325139/) | in force | 1 | 2008-08-08 | 2008-08-08 |
+| Odluka o izmjeni Odluke o pristupanju izradi lokalne studije lokacije Kolašin - "Trebaljevo" | [`odluka/2008/325145/`](odluka/2008/325145/) | in force | 1 | 2008-08-05 | 2008-08-05 |
+| Odluka o davanju garancije JP "Sportski centar" Cetinje za zaključenje ugovora o kreditu | [`odluka/2008/325205/`](odluka/2008/325205/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o donošenju Lokalne studije lokacije za poslovni - trgovinsko ugostiteljski objekat u Ravnoj Rijeci kod Bijelog Polja | [`odluka/2008/325237/`](odluka/2008/325237/) | in force | 1 | 2008-12-31 | 2008-12-31 |
+| Odluka o davanju saglasnosti na Program rada JP ''Sportski centar'' - Berane | [`odluka/2008/325260/`](odluka/2008/325260/) | in force | 1 | 2008-04-24 | 2008-04-24 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora JU Zavičajni muzej "Ganića Kula" broj 545 od 17. 10. 2008. godine | [`odluka/2008/325281/`](odluka/2008/325281/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o vanrednom uskladjivanju nominalnog iznosa najnize penzije od 1.decembra 2008.godine | [`odluka/2008/325346/`](odluka/2008/325346/) | in force | 1 | 2008-12-06 | 2008-12-06 |
+| Odluka o imenovanju članova Komisije za reviziju sprovođenja Zakona o Glavnom gradu i njegove efikasnosti u zadovoljenju potreba stanovnika Gradske opštine Tuzi | [`odluka/2008/325360/`](odluka/2008/325360/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o prenosu prava na građevinskom zemljištu | [`odluka/2008/325554/`](odluka/2008/325554/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| . Odluka o obrazovanju Komisije za pripremu pravnog postupka za razgranicenje izmedju Crne Gore i Republike Hrvatske pred Medjunarodnim sudom pravde u Hagu | [`odluka/2008/325603/`](odluka/2008/325603/) | in force | 1 | 2008-04-08 | 2008-04-08 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Kanje | [`odluka/2008/325637/`](odluka/2008/325637/) | in force | 1 | 2008-12-31 | 2008-12-31 |
+| Odluka o pribavljanju nepokretnosti za potrebe realizacije IV faze spoljnjeg uređenja Autobuske stanice u Nikšiću | [`odluka/2008/325738/`](odluka/2008/325738/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o potvrđivanju Odluke o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi izgradnje puta Obalske ulice od magistralnog puta Berane-Andrijevica (iza ribnjaka) do ul. VIII Crnogorske brigade (gradskog parka) u Beranama dužine L=3117.3 | [`odluka/2008/325740/`](odluka/2008/325740/) | in force | 1 | 2008-06-26 | 2008-06-26 |
+| Odluka o razrješenju, odnosno imenovanju predsjednika Savjeta za zaštitu životne sredine | [`odluka/2008/325857/`](odluka/2008/325857/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o pristupanju izradi lokalne studije lokacije Kolašin - "Trebaljevo" | [`odluka/2008/325867/`](odluka/2008/325867/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o izradi Strateške procjene uticaja na životnu sredinu Izmjena i dopuna Generalnog urbanističkog plana Cetinje za prostor Detaljnog urbanističkog plana "Donji kraj (Zona E)" | [`odluka/2008/325924/`](odluka/2008/325924/) | amending act | 1 | 2008-09-22 | 2008-09-22 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za izgradnju pristupne saobracajnice do glavnog kontrolno mjernog centra na Dajbabskoj gori u Podgorici | [`odluka/2008/326009/`](odluka/2008/326009/) | in force | 1 | 2008-06-14 | 2008-06-14 |
+| Odluka o donošenju Detaljnog urbanističkog plana Auto-baza | [`odluka/2008/326086/`](odluka/2008/326086/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o utvrđivanju javnog interesa radi rekonstrukcije magistralnog puta u Lepetanima izgradnjom treće trake | [`odluka/2008/326106/`](odluka/2008/326106/) | in force | 1 | 2008-03-01 | 2008-03-01 |
+| Odluka o izradi Strateške procjene uticaja za pristupanje izradi Urbanističkog projekta za lokalitet hotela "Galeb" u Ulcinju | [`odluka/2008/326304/`](odluka/2008/326304/) | in force | 1 | 2008-12-13 | 2008-12-13 |
+| Odluka o izmjenama i dopunama Odluke o visini naknade za uređenje i korišćenje gradskog građevinskog zemljišta | [`odluka/2008/326357/`](odluka/2008/326357/) | amending act | 1 | 2008-08-16 | 2008-08-16 |
+| Odluka o dodjeli koncesije po kombinovanom DBOT aranzmanu za istrazivanje vodotoka i izgradnju malih hidroelektrana na vodotoku Babinopoljska (ident.br.6 iz Javnog poziva) | [`odluka/2008/326384/`](odluka/2008/326384/) | in force | 1 | 2008-08-08 | 2008-08-08 |
+| Odluka o oslobađanju plaćanja obaveza po osnovu poreza na nepokretnost za poljoprivredno zemljište koje se koristi u poljoprivredne svrhe za 2008.godinu | [`odluka/2008/326443/`](odluka/2008/326443/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o odredjivanju strucne organizacije za utvrdjivanje kriterijuma i provjeru znanja crnogorskog jezika u postupku prijema u crnogorsko drzavljanstvo | [`odluka/2008/326512/`](odluka/2008/326512/) | in force | 1 | 2008-08-15 | 2008-08-15 |
+| Odluka o dodjeli koncesije po kombinovanom DBOT aranzmanu za istrazivanje vodotoka i izgradnju malih hidroelektrana na vodotoku Zaslapnica (ident.br.40 iz Javnog poziva) | [`odluka/2008/326521/`](odluka/2008/326521/) | in force | 1 | 2008-08-08 | 2008-08-08 |
+| Odluka o otvaranju Generalnog konzulata Crne Gore u NJu Delhiju - Republika Indija | [`odluka/2008/326537/`](odluka/2008/326537/) | in force | 1 | 2008-02-27 | 2008-02-27 |
+| Odluka o donošenju Detaljnog urbanističkog plana Centar 4 - zapad | [`odluka/2008/326574/`](odluka/2008/326574/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izmjeni Odluke o naknadama odbornicima u Skupštini Gradske opštine Tuzi | [`odluka/2008/326579/`](odluka/2008/326579/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o dodjeli koncesije po kombinovanom DBOT aranzmanu za istrazivanje vodotoka i izgradnju malih hidroelektrana na vodotoku Crnja (ident.br.36 iz Javnog poziva) | [`odluka/2008/326584/`](odluka/2008/326584/) | in force | 1 | 2008-08-08 | 2008-08-08 |
+| Odluka o imenovanju predsjednika Savjeta za predstavke i pritužbe | [`odluka/2008/326645/`](odluka/2008/326645/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o prenosu prava na gradskom građevinskom zamljištu Upravi policije - Centru bezbjednosti H.Novi - Odjeljenju bezbjednosti Tivat | [`odluka/2008/326755/`](odluka/2008/326755/) | in force | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o izradi Detaljnog urbanističkog plana Mrkošnica 2 | [`odluka/2008/326762/`](odluka/2008/326762/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o prenosu prava na gradskom građevinskom zemljištu | [`odluka/2008/326787/`](odluka/2008/326787/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o izmjenama i dopunama Poslovnika o radu Skupštine opštine Tivat | [`odluka/2008/326858/`](odluka/2008/326858/) | amending act | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o usvajanju Akcionog plana razvoja socijalne zaštite starih lica u Opštini Pljevlja za period 2008-2012.godine | [`odluka/2008/326990/`](odluka/2008/326990/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o osnivanju Nacionalnog savjeta za evropske integracije | [`odluka/2008/327021/`](odluka/2008/327021/) | in force | 1 | 2008-04-02 | 2008-04-02 |
+| Odluka o donošenju Lokalne studije lokacije "Šćepan Polje" Plužine 1 faza | [`odluka/2008/327077/`](odluka/2008/327077/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o imenovanju Komisije za dodjelu Studentske nagrade opštine Nikšić za 2008.godinu | [`odluka/2008/327107/`](odluka/2008/327107/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o stavljanju van snage Odluke o gradskoj deponiji | [`odluka/2008/327110/`](odluka/2008/327110/) | in force | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o dopunama i izmjenama Odluke o imenovanju pet članova Odbora za izbor i imenovanja | [`odluka/2008/327125/`](odluka/2008/327125/) | amending act | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o nacinu izrade i sadrzini programskog budzeta | [`odluka/2008/327178/`](odluka/2008/327178/) | in force | 1 | 2008-06-28 | 2008-06-28 |
+| Odluka o dopunama Programa planiranja i uređenja prostora opštine Nikšić za 2008. godinu | [`odluka/2008/327282/`](odluka/2008/327282/) | amending act | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o Planu privatizacije za 2008. godinu | [`odluka/2008/327343/`](odluka/2008/327343/) | in force | 1 | 2008-03-19 | 2008-03-19 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "Svinjišta"("Sl.list CG - opštinski propisi", br.04/08) | [`odluka/2008/327393/`](odluka/2008/327393/) | in force | 1 | 2008-05-31 | 2008-05-31 |
+| Odluka o davanju saglasnosti na imenovanje direktora Javnog komunalnog preduzeća Cetinje | [`odluka/2008/327426/`](odluka/2008/327426/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izmjeni Odluke o osnivanju Savjeta za naucno - istrazivacku djelatnost | [`odluka/2008/328169/`](odluka/2008/328169/) | in force | 1 | 2008-06-28 | 2008-06-28 |
+| Odluka o pribavljanju zemljišta za potrebe izgradnje ulice Skadarske u skladu sa DUP-om Centar 3 | [`odluka/2008/330584/`](odluka/2008/330584/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izmjenama i dopunama Prostornog plana Opštine Podgorica za katastarsku parcelu br.8 KO Goljemadi u Podgorici | [`odluka/2008/332255/`](odluka/2008/332255/) | amending act | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za izgradnju mini obilaznice Niksic, dionica Petlja 2 - Grebice - Duklo | [`odluka/2008/332700/`](odluka/2008/332700/) | in force | 1 | 2008-05-17 | 2008-05-17 |
+| Odluka o osnivanju Ekolosko- edukativnog centra | [`odluka/2008/332785/`](odluka/2008/332785/) | in force | 1 | 2008-05-08 | 2008-05-08 |
+| Odluka o dodjeli koncesije po kombinovanom DBOT aranzmanu za istrazivanje vodotoka i izgradnju malih hidroelektrana na vodotoku Bjelojevicka (ident.br.37 iz Javnog poziva) | [`odluka/2008/332927/`](odluka/2008/332927/) | in force | 1 | 2008-08-08 | 2008-08-08 |
+| Odluka o izmjenama i dopunama Odluke o lokalnoj upravi | [`odluka/2008/332955/`](odluka/2008/332955/) | amending act | 1 | 2008-09-30 | 2008-09-30 |
+| Odluka o Izmjenama i dopunama Odluke o pristupanju izradi Lokalne studije lokacije "Otilovići" | [`odluka/2008/332983/`](odluka/2008/332983/) | amending act | 1 | 2008-02-14 | 2008-02-14 |
+| Odluka o izmjenama i dopunama Odluke o porezu na potrošnju | [`odluka/2008/333074/`](odluka/2008/333074/) | amending act | 1 | 2008-03-22 | 2008-03-22 |
+| Odluka o izmjeni Odluke o utvrđivanju naknade za uređenje građevinskog zemljišta | [`odluka/2008/333078/`](odluka/2008/333078/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o dojeli novčane pomoći Slovenku Pejoviću | [`odluka/2008/333238/`](odluka/2008/333238/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o utvrdjivanju pocetne visine koncesione naknade za koriscenje suma u 2008.godini | [`odluka/2008/333250/`](odluka/2008/333250/) | in force | 1 | 2008-02-23 | 2008-02-23 |
+| Odluka o izmjenama Odluke o organizovanju Društvene organizacije kulturno-umjetničko društvo "Zahumlje"Nikšić u javnu ustanovu "Zahumlje" | [`odluka/2008/333400/`](odluka/2008/333400/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka oizmjeni i dopuni odluke o naknadi za korišćenje gradjevinskog zemljišta | [`odluka/2008/333451/`](odluka/2008/333451/) | amending act | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o osnivanju Javne ustanove Centar za podršku djeci i porodici | [`odluka/2008/333486/`](odluka/2008/333486/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o izmjenama Odluke o obrazovanju Nacionalne komisije za implementaciju akcionog plana za sprovodjenje programa borbe protiv korupcije i organizovanog kriminala | [`odluka/2008/334407/`](odluka/2008/334407/) | in force | 1 | 2008-03-13 | 2008-03-13 |
+| Odluka o organizovanju Javnog preduzeca "Regionalni vodovod Crnogorsko primorje" | [`odluka/2008/334423/`](odluka/2008/334423/) | in force | 1 | 2008-03-08 | 2008-03-08 |
+| Odluka o visini troskova akreditacije | [`odluka/2008/334424/`](odluka/2008/334424/) | in force | 1 | 2008-03-08 | 2008-03-08 |
+| Odluka o odredjivanju velikih tehnickih sistema od znacaja za odbranu | [`odluka/2008/334539/`](odluka/2008/334539/) | in force | 1 | 2008-03-13 | 2008-03-13 |
+| Odluka o izmjenama i dopunama Poslovnika Vlade Republike Crne Gore | [`odluka/2008/334554/`](odluka/2008/334554/) | amending act | 1 | 2008-03-19 | 2008-03-19 |
+| Odluku o kliringu medjunarodnih placanja | [`odluka/2008/334678/`](odluka/2008/334678/) | in force | 1 | 2008-04-03 | 2008-04-03 |
+| Odluka o obliku i izgledu glasackih listica, nacinu, mjestu i kontroli stampanja, ovjeri i distribuciji glasackih listica za izbor Predsjednika Crne Gore koji ce se odrzati 6.aprila 2008.godine | [`odluka/2008/334723/`](odluka/2008/334723/) | in force | 1 | 2008-03-18 | 2008-03-18 |
+| Odluka o utvrdjivanju vrijednosti koeficijenta za obracun fiksnog dijela zarade drzavnih funkcionera koji funkciju vrse u Vladi Crne Gore | [`odluka/2008/334827/`](odluka/2008/334827/) | in force | 1 | 2008-03-29 | 2008-03-29 |
+| Odluka o izmjeni Odluke o osnivanju Savjeta za visoko obrazovanje | [`odluka/2008/334942/`](odluka/2008/334942/) | in force | 1 | 2008-04-10 | 2008-04-10 |
+| Odluka o otkupu obveznica devizne stednje gradjana koje dospijevaju 2016. i 2017.godine | [`odluka/2008/334943/`](odluka/2008/334943/) | in force | 1 | 2008-04-10 | 2008-04-10 |
+| Odluku o dopuni Odluke o organizaciji Ustavnog suda | [`odluka/2008/335439/`](odluka/2008/335439/) | amending act | 1 | 2008-04-26 | 2008-04-26 |
+| Odluka o odredjivanju podataka o vojnim objektima i rejonima uz te objekte i drugim objektima od posebnog znacaja za odbranu koji se ne smiju unostiti u kartografske i druge publikacije | [`odluka/2008/335564/`](odluka/2008/335564/) | in force | 1 | 2008-05-17 | 2008-05-17 |
+| Odluka o pristupanju izradi Prostornog plana podrucja posebne namjene "Bjelasica i Komovi" | [`odluka/2008/335929/`](odluka/2008/335929/) | in force | 1 | 2008-06-28 | 2008-06-28 |
+| Odluka o visini nakande za obrazac pasosa i putnog lista | [`odluka/2008/335949/`](odluka/2008/335949/) | in force | 1 | 2008-06-14 | 2008-06-14 |
+| Odluka o odredjivanju zabranjenih zona i njihovom obiljeyavanju | [`odluka/2008/335954/`](odluka/2008/335954/) | in force | 1 | 2008-06-21 | 2008-06-21 |
+| Odluka o utvrdjivanju vrijednosti koeficijenta za utvrdjivanje fiksnog dijela zarade drzavnih i javnih funkcionera | [`odluka/2008/336220/`](odluka/2008/336220/) | in force | 1 | 2008-07-03 | 2008-07-03 |
+| Odluka o emisiji obveznica Crne Gore po osnovu devizne stednje gradjana | [`odluka/2008/336359/`](odluka/2008/336359/) | in force | 1 | 2008-06-28 | 2008-06-28 |
+| Odluka o izmjenama odluke o obrazovanju nadzornog komiteta za projekat unapredjenja sistema zdravstva u Crnoj Gori | [`odluka/2008/336366/`](odluka/2008/336366/) | in force | 1 | 2008-07-05 | 2008-07-05 |
+| Odluka o osnivanju Javne ustanove Druge osnovne skole u Budvi | [`odluka/2008/337516/`](odluka/2008/337516/) | in force | 1 | 2008-10-09 | 2008-10-09 |
+| Odluka o pristupanju izradi Detaljnog prostornog plana za prostor visenamjenskih akumulacija na rijeci Moraci | [`odluka/2008/337525/`](odluka/2008/337525/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o internoj reviziji u bankama | [`odluka/2008/337592/`](odluka/2008/337592/) | in force | 1 | 2008-10-17 | 2008-10-17 |
+| Odluka o osnivanju Agencije za lijekove i medicinska sredstva | [`odluka/2008/337638/`](odluka/2008/337638/) | in force | 1 | 2008-10-23 | 2008-10-23 |
+| Odluka o utvrdjivanju visine godisnje premije za 2009.godinu | [`odluka/2008/338237/`](odluka/2008/338237/) | in force | 1 | 2008-12-06 | 2008-12-06 |
+| Odluka o izmjeni Odluke o kvartalnom izvjestaju koji banke dostavljaju Fondu za zastitu depozita | [`odluka/2008/338246/`](odluka/2008/338246/) | in force | 1 | 2008-12-06 | 2008-12-06 |
+| Odluka o utvrdjivanju visine naknade troskova izborne propagande kandidata za predsjednika Crne Gore na izborima 2008.godine | [`odluka/2008/338779/`](odluka/2008/338779/) | in force | 1 | 2008-02-09 | 2008-02-09 |
+| Odluka o izmjeni i dopuni Odluke o izradi Detaljnog urbanističkog plana "Babin Do"broj 001-2025/1 od 26.05.2006.godine | [`odluka/2008/339020/`](odluka/2008/339020/) | amending act | 1 | 2008-04-23 | 2008-04-23 |
+| Odluka o bratimljenju Opštine Ulcinj i grada Stamforda | [`odluka/2008/339061/`](odluka/2008/339061/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima službenika i namještenika | [`odluka/2008/339223/`](odluka/2008/339223/) | amending act | 1 | 2008-05-12 | 2008-05-12 |
+| Odluka o zaradama i drugim pravima po osnovu rada lokalnih funkcionera | [`odluka/2008/339224/`](odluka/2008/339224/) | in force | 1 | 2008-05-12 | 2008-05-12 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za uređivanje građevinskog zemljišta | [`odluka/2008/339235/`](odluka/2008/339235/) | amending act | 1 | 2008-05-02 | 2008-05-02 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana Podtrebesin, Opština Herceg - Novi | [`odluka/2008/339241/`](odluka/2008/339241/) | amending act | 1 | 2008-05-12 | 2008-05-12 |
+| Odluka o davanju prava korišćenja prirodnog ljekovitog faktora | [`odluka/2008/339252/`](odluka/2008/339252/) | in force | 1 | 2008-05-04 | 2008-05-04 |
+| Odluka o izmjeni Odluke o izradi lokalne Studije lokacije "Katun-Gornje selo" Reževići | [`odluka/2008/339409/`](odluka/2008/339409/) | in force | 1 | 2008-05-12 | 2008-05-12 |
+| Odluka o izmjeni Odluke o formiranju Anketnog odbora radi utvrđivanja činjenica i odgovornosti povodom izgradnje silosa za pretovar rasutog cementa u luci Zelenika | [`odluka/2008/339410/`](odluka/2008/339410/) | in force | 1 | 2008-05-04 | 2008-05-04 |
+| Odluka o izmjenama i dopunama Odluke o radnom vremenu | [`odluka/2008/339421/`](odluka/2008/339421/) | amending act | 1 | 2008-05-04 | 2008-05-04 |
+| Odluka o izmjenama i dopunama Odluke o održavanju čistoće i komunalnom uređenju grada | [`odluka/2008/339456/`](odluka/2008/339456/) | amending act | 1 | 2008-05-04 | 2008-05-04 |
+| Odluka o prenosu prava korišćenja na gradskom građevinskom zemljištu | [`odluka/2008/339461/`](odluka/2008/339461/) | in force | 1 | 2008-05-02 | 2008-05-02 |
+| Odluka o izmjeni i dopuni Statuta Turističke organizacije Mojkovac | [`odluka/2008/339484/`](odluka/2008/339484/) | amending act | 1 | 2008-05-02 | 2008-05-02 |
+| Odluka o imenovanju Žirija za dodjelu Nagrade ''21. jul'' | [`odluka/2008/339486/`](odluka/2008/339486/) | in force | 1 | 2008-04-24 | 2008-04-24 |
+| Odluka o davanju saglasnosti na Program rada JU ’’Centar za kulturu'' - Berane | [`odluka/2008/339496/`](odluka/2008/339496/) | in force | 1 | 2008-04-24 | 2008-04-24 |
+| Odluka o raspolaganju gradskim građevinskim zemljištem u 2008. godini | [`odluka/2008/339498/`](odluka/2008/339498/) | in force | 1 | 2008-05-02 | 2008-05-02 |
+| Odluka o Urbanističkom projektu "Arheološki lokalitet - Zlatica" u Podgorici | [`odluka/2008/339499/`](odluka/2008/339499/) | in force | 1 | 2008-05-02 | 2008-05-02 |
+| Odluka o izmjenama i dopunama Odluke o porezu na potrošnju | [`odluka/2008/339505/`](odluka/2008/339505/) | amending act | 1 | 2008-05-12 | 2008-05-12 |
+| Odluka o oslobađanju plaćanja obaveza po osnovu poreza na nepokretnosti za stanove i stambene objekte na seoskom području i na poljoprivredno zemljište za 2008.godinu | [`odluka/2008/339506/`](odluka/2008/339506/) | in force | 1 | 2008-05-12 | 2008-05-12 |
+| Odluka o izmjenama i dopunama Odluke o naknadama odbornicima u Skupštini Opštine Plužine | [`odluka/2008/339507/`](odluka/2008/339507/) | amending act | 1 | 2008-05-12 | 2008-05-12 |
+| Odluka o donošenju Elaborata o izmjenama i dopunama Elaborata o postavljanju privremenih objekata za I i II poslovnu zonu gradskog građevinskog zemljišta na teritoriji Glavnog grada - Podgorice | [`odluka/2008/339508/`](odluka/2008/339508/) | amending act | 1 | 2008-05-02 | 2008-05-02 |
+| Odluka o izmjeni Odluke o grobljima na teritoriji Opštine Kolašin | [`odluka/2008/339639/`](odluka/2008/339639/) | in force | 1 | 2008-05-22 | 2008-05-22 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Lipovo | [`odluka/2008/339652/`](odluka/2008/339652/) | in force | 1 | 2008-05-22 | 2008-05-22 |
+| Odluka o davanju saglasnosti na Ugovor o kreditu | [`odluka/2008/339692/`](odluka/2008/339692/) | in force | 1 | 2008-05-17 | 2008-05-17 |
+| Odluka o izmjeni Odluke o naknadama odbornicima u Skupštini Glavnog grada - Podgorice | [`odluka/2008/339693/`](odluka/2008/339693/) | in force | 1 | 2008-05-17 | 2008-05-17 |
+| Odluka o usvajanju Plana socijalne stambene politike Glavnog grada - Podgorice za 2008.godinu | [`odluka/2008/339694/`](odluka/2008/339694/) | in force | 1 | 2008-05-10 | 2008-05-10 |
+| Odluka o usvajanju Studije upravljanja otpadom za prostor Glavnog grada - Podgorice | [`odluka/2008/339695/`](odluka/2008/339695/) | in force | 1 | 2008-05-10 | 2008-05-10 |
+| Odluka o izmjeni Odluke o izradi lokalne studije lokacije "Blizikuće" br.001-2118/1 od 05.06.2006.god | [`odluka/2008/339795/`](odluka/2008/339795/) | in force | 1 | 2008-05-17 | 2008-05-17 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim pravima po osnovu rada lokalnih funkcionera Opštine Kolašin | [`odluka/2008/339886/`](odluka/2008/339886/) | amending act | 1 | 2008-05-22 | 2008-05-22 |
+| Odluka o izmjeni Odluke o zaradama i drugim primanjima lokalnih funkcionera Prijestonice Cetinje | [`odluka/2008/339919/`](odluka/2008/339919/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o donošenju Lokalne studije lokacije "Benzinska stanica sa pratećim sadržajima i poslovno -turističkim kompleksom"u Dobrskoj Župi, Cetinje | [`odluka/2008/339921/`](odluka/2008/339921/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o oslobađanju plaćanja obaveza po osnovu poreza na nepokretnosti na poljoprivredno zemljište do 31.12.2008.godine | [`odluka/2008/339922/`](odluka/2008/339922/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o razrješenju, odnosno imenovanju jednog člana Odbora za Statut i propise | [`odluka/2008/339934/`](odluka/2008/339934/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o razrješenju, odnosno imenovanju jednog člana Odbora za međuopštinsku i međunarodnu saradnju | [`odluka/2008/339935/`](odluka/2008/339935/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o razrješenju, odnosno imenovanju jednog člana Savjeta za davanje predloga naziva naselja, ulica i trgova | [`odluka/2008/339936/`](odluka/2008/339936/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o razrješenju, odnosno imenovanju člana Komisije za saradnju sa nevladinim organizacijama i raspodjelu sredstava za projekte nevladinih organizacija | [`odluka/2008/339937/`](odluka/2008/339937/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o donošenju Lokalne studije lokacije Poslovni kompleks "Olio prom" | [`odluka/2008/339951/`](odluka/2008/339951/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o izmjeni Odluke o javnom lokalnom radio - difuznom servisu Radio Bar | [`odluka/2008/339962/`](odluka/2008/339962/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o naknadama za korišćenje opštinskih i nekategorisanih puteva | [`odluka/2008/339963/`](odluka/2008/339963/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o dopunama Programa planiranja i uređenja prostora Opštine Nikšić za period 2006 - 2011. godina | [`odluka/2008/340102/`](odluka/2008/340102/) | amending act | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prodaju poslovnih prostora u objektu stanične zgrade "Autobuska stanica" | [`odluka/2008/340103/`](odluka/2008/340103/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prenos prava na gradsko građevinsko zemljište | [`odluka/2008/340116/`](odluka/2008/340116/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o razmjeni nepokretnosti između opštine Nikšić i AD "Društveni standard i ugostiteljstvo" | [`odluka/2008/340117/`](odluka/2008/340117/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o prenosu prava korišćenja na gradsko građevinsko zemljište na Vujačić Ljubomira | [`odluka/2008/340118/`](odluka/2008/340118/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o prestanku važenja Odluke o davanju na korišćenje i upravljanje poslovne zgrade sale kultura u Nikšiću, Ul. Njegoševa 19 Javnoj ustanovi Nikšićko pozorište iz Nikšića | [`odluka/2008/340131/`](odluka/2008/340131/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o uspostavljanju saradnje Prijestonice Cetinje i grada Pembroke (Malta) | [`odluka/2008/340132/`](odluka/2008/340132/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o izmjeni Odluke o visini,načinu obračunavanja i plaćanja doprinosa Turističkoj organizaciji Prijestonice Cetinje | [`odluka/2008/340133/`](odluka/2008/340133/) | in force | 1 | 2008-06-10 | 2008-06-10 |
+| Odluka o zabrani gradnje objekata u toku turističke sezone | [`odluka/2008/340177/`](odluka/2008/340177/) | in force | 1 | 2008-05-31 | 2008-05-31 |
+| Odluka o prestanku važenja Odluke o osnivanju Vatrogasne jedinice Opštine Pljevlja | [`odluka/2008/340312/`](odluka/2008/340312/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o davanju saglasnosti na Statut JP "Čistoća" - Pljevlja | [`odluka/2008/340313/`](odluka/2008/340313/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o davanju saglasnosti na Statut JP "Komunalne usluge"-Pljevlja | [`odluka/2008/340314/`](odluka/2008/340314/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi proširenja seoskog nekategorisanog puta | [`odluka/2008/340315/`](odluka/2008/340315/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o davanju saglasnosti na Program rada i Finansijski plan Turističke organizacije Pljevlja za 2008.godinu | [`odluka/2008/340331/`](odluka/2008/340331/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o davanju saglasnosti na zaduživanje Agencije za stambeno-poslovni fond DOO Pljevlja | [`odluka/2008/340332/`](odluka/2008/340332/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o izmjenama i dopunama Odluke o imenovanju pet članova Savjeta za pritužbe ("Sl.list RCG-opštinski propisi", br.13/07 od 13.04.2007.godine) | [`odluka/2008/340344/`](odluka/2008/340344/) | amending act | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o izmjenama i dopunama Odluke o javnom radio difuznom servisu "Radio Ulcinj" | [`odluka/2008/340346/`](odluka/2008/340346/) | amending act | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za rad odbornika u Skupštini opštine Ulcinj | [`odluka/2008/340347/`](odluka/2008/340347/) | amending act | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prenos prava na gradsko građevinsko zemljište | [`odluka/2008/340444/`](odluka/2008/340444/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o izradi lokalne studije lokacije Straševina | [`odluka/2008/340490/`](odluka/2008/340490/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o izradi Detaljnog urbanističkog plana Centar 4 - zapad | [`odluka/2008/340505/`](odluka/2008/340505/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o materijalnom obezbjeđenju učesnika NOR-a koji su stupili u Narodnooslobodilački rat poslije 09.09.1943.godine | [`odluka/2008/340518/`](odluka/2008/340518/) | in force | 1 | 2008-06-27 | 2008-06-27 |
+| Odluka o zamjeni nepokretnosti broj 11-5576 | [`odluka/2008/340542/`](odluka/2008/340542/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o raspisivanju Javnog poziva za prenos prava na građevinskom zemljištu | [`odluka/2008/340552/`](odluka/2008/340552/) | in force | 1 | 2008-06-11 | 2008-06-11 |
+| Odluka o otkupu zemljišta radi formiranja urbanističke parcele, broj 11-5693 | [`odluka/2008/340553/`](odluka/2008/340553/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o razmjeni nepokretnosti između opštine Nikšić i Kasom Slobodana | [`odluka/2008/340657/`](odluka/2008/340657/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište na Todorović Vitomira | [`odluka/2008/340668/`](odluka/2008/340668/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište na Novović Milivoja | [`odluka/2008/340669/`](odluka/2008/340669/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište na Kovačević Dragana | [`odluka/2008/340670/`](odluka/2008/340670/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište na Knežević Stojanku | [`odluka/2008/340680/`](odluka/2008/340680/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o prenosu prava na gradsko gra-đevinsko zemljište na Đurković Iva | [`odluka/2008/340681/`](odluka/2008/340681/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o utvrđivanju Nacrta Lokalne studije lokacije za katastarske parcele broj 1147 i 1148 KO Jastreb -"Far Mont". | [`odluka/2008/340682/`](odluka/2008/340682/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o Završnom računu Budžeta Opštine Šavnik za 2007.godinu | [`odluka/2008/340691/`](odluka/2008/340691/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o pristupanju izradi Lokalne studije lokacije Kolašin - "Jezerine 3" | [`odluka/2008/340692/`](odluka/2008/340692/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o izmjenama Odluke o utvrđivanju nakande za finansiranje poslova od interesa za lokalno stanovništvo Opštine Kotor | [`odluka/2008/340705/`](odluka/2008/340705/) | in force | 1 | 2008-06-19 | 2008-06-19 |
+| Odluka o odlaganju plaćanja obaveza | [`odluka/2008/340718/`](odluka/2008/340718/) | in force | 1 | 2008-01-24 | 2008-01-24 |
+| Odluka o izmjenama i dopunama Odluke o regulisanju javnog saobraćaja na području Opštine Kolašin | [`odluka/2008/340742/`](odluka/2008/340742/) | amending act | 1 | 2008-01-24 | 2008-01-24 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Crkvine | [`odluka/2008/340753/`](odluka/2008/340753/) | in force | 1 | 2008-01-24 | 2008-01-24 |
+| Odluka o privremenom finansiranju Opštine Plav za period januar -mart 2008.godine | [`odluka/2008/340893/`](odluka/2008/340893/) | in force | 1 | 2008-01-24 | 2008-01-24 |
+| Odluka o davanju saglasnosti na Odluku predsjednika Opštine br. 01-1-932/07 od 26.12.2007.godine | [`odluka/2008/340894/`](odluka/2008/340894/) | in force | 1 | 2008-01-16 | 2008-01-16 |
+| Odluka o izradi Lokalne studije lokacije "Kovačka dolina I" -Žabljak | [`odluka/2008/340950/`](odluka/2008/340950/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o pristupanju izradi lokalne studije lokacije Kolašin -" Trunića do" | [`odluka/2008/340951/`](odluka/2008/340951/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o izradi strateške procjene uticaja na životnu sredinu Izmjena i dopuna GUP-a grada Pljevalja | [`odluka/2008/340960/`](odluka/2008/340960/) | amending act | 1 | 2008-06-26 | 2008-06-26 |
+| Odluka o prenosu prava na gradsko-građevinsko zemljište na Božović Branka iz Berana | [`odluka/2008/341083/`](odluka/2008/341083/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o prenosu prava na gradsko-građevinsko zemljište na Čantrić Rade iz Berana | [`odluka/2008/341084/`](odluka/2008/341084/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o prenosu prava na gradsko-građevinsko zemljište na Majski Marka iz Berana | [`odluka/2008/341085/`](odluka/2008/341085/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o izmjenama Odluke o korišćenju i naknadi za korišćenje putnog zemljišta koje pripada opštinskim i nekategorisanim putevima | [`odluka/2008/341096/`](odluka/2008/341096/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o izmjeni Odluke o zaradama i drugim pravima po osnovu rada lokalnih funkcionera opštine Berane | [`odluka/2008/341097/`](odluka/2008/341097/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o izmjenama i dopunama Odluke o vodosnabdijevanju na području Opštine Berane | [`odluka/2008/341109/`](odluka/2008/341109/) | amending act | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o izmjeni Odluke o izradi lokalne Studije lokacije "Čelobrdo" | [`odluka/2008/341110/`](odluka/2008/341110/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima opštinskih funkcionera | [`odluka/2008/341122/`](odluka/2008/341122/) | amending act | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o izmjeni Odluke o naknadama odbornicima Skupštine opštine Danilovgrad | [`odluka/2008/341123/`](odluka/2008/341123/) | in force | 1 | 2008-07-04 | 2008-07-04 |
+| Odluka o utvrđivanju Nacrta Generalnog urbanističkog plana Danilovgrad | [`odluka/2008/341146/`](odluka/2008/341146/) | in force | 1 | 2008-07-11 | 2008-07-11 |
+| Odluka o određivanju voda od značaja za Opštinu Nikšić | [`odluka/2008/341216/`](odluka/2008/341216/) | in force | 1 | 2008-07-18 | 2008-07-18 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prenos prava na gradsko građevinsko zemljište na području DUP-a urbanističke jednicie V-1 | [`odluka/2008/341217/`](odluka/2008/341217/) | in force | 1 | 2008-07-18 | 2008-07-18 |
+| Odluka o prenosu prava korišćenja na gradsko građevinsko zemljište na Pavićević Dragana | [`odluka/2008/341218/`](odluka/2008/341218/) | in force | 1 | 2008-07-18 | 2008-07-18 |
+| Odluka o prenosu prava korišenja na gradsko građevinsko zemljište na Jovović Ratka | [`odluka/2008/341237/`](odluka/2008/341237/) | in force | 1 | 2008-07-18 | 2008-07-18 |
+| Odluka o prenosu prava korišćenja na gradsko građevinsko zemljište na Mrdović Ranku | [`odluka/2008/341238/`](odluka/2008/341238/) | in force | 1 | 2008-07-18 | 2008-07-18 |
+| Odluka o prenosu prava korišćenja na gradsko građevinsko zemljište na Čavić Momčila | [`odluka/2008/341260/`](odluka/2008/341260/) | in force | 1 | 2008-07-18 | 2008-07-18 |
+| Odluka o izmjeni Odluke o naknadama odbornicima u Skupštini Gradske opštine Golubovci | [`odluka/2008/341285/`](odluka/2008/341285/) | in force | 1 | 2008-07-18 | 2008-07-18 |
+| Odluka o upotrebi simbola Opštine Bijelo Polje | [`odluka/2008/341479/`](odluka/2008/341479/) | in force | 1 | 2008-07-11 | 2008-07-11 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajdenice Nikoljac | [`odluka/2008/341482/`](odluka/2008/341482/) | in force | 1 | 2008-07-11 | 2008-07-11 |
+| Odluka o izmjenama i dopunama Odluke o porezu na firmu ili naziv | [`odluka/2008/341510/`](odluka/2008/341510/) | amending act | 1 | 2008-07-11 | 2008-07-11 |
+| Odluka o prenosu prava korišćenja na gradskom građevinskom zemljištu | [`odluka/2008/341534/`](odluka/2008/341534/) | in force | 1 | 2008-07-11 | 2008-07-11 |
+| Odluka o izmjenama i dopunama Odluke o određivanju područnih odjeljenja i područja osnovnih škola na teritoriji Opštine Bijelo Polje | [`odluka/2008/341535/`](odluka/2008/341535/) | amending act | 1 | 2008-07-11 | 2008-07-11 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Meterizi | [`odluka/2008/341546/`](odluka/2008/341546/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o prenosu prava na gradskom građevinskom zamljištu Centru Agencije za nacionalnu bezbjednost Herceg Novi | [`odluka/2008/341664/`](odluka/2008/341664/) | in force | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o raspolaganju gradskim građevinskim zemljištem u 2008.godini | [`odluka/2008/341694/`](odluka/2008/341694/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izradi Strateške procjene uticaja za pristupanje izradi Urbanističkog projekta za lokalitet hotela "Mediteran" u Ulcinju | [`odluka/2008/341735/`](odluka/2008/341735/) | in force | 1 | 2008-12-13 | 2008-12-13 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti | [`odluka/2008/341747/`](odluka/2008/341747/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o prenosu prava na gradsko-građevinsko zemljište na Rudanović Vasa iz Berana | [`odluka/2008/341752/`](odluka/2008/341752/) | in force | 1 | 2008-09-30 | 2008-09-30 |
+| Odluka o pristupanju promjeni Statuta Prijestonice | [`odluka/2008/341795/`](odluka/2008/341795/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izmjenama Odluke o prenosu prava na nepokretnosti | [`odluka/2008/341796/`](odluka/2008/341796/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o imenovanju Komisije za rješavanje stambenih pitanja lica koja bira ili imenuje Skupština Prijestonice i predsjednik Prijestonice | [`odluka/2008/341797/`](odluka/2008/341797/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o pristupanju izradi lokalne studije lokacije Kolašin - "Šljivovica" | [`odluka/2008/341911/`](odluka/2008/341911/) | in force | 1 | 2008-07-30 | 2008-07-30 |
+| Odluka o davanju saglasnosti na zaduženje JP "Čistoća" Pljevlja | [`odluka/2008/341916/`](odluka/2008/341916/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o pribavljanju zemljišta za potrebe izgradnje trafostanice | [`odluka/2008/341926/`](odluka/2008/341926/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o davanju saglasnosti na Program rada i finansijski plan Turističke organizacije Kolašin za 2008.godinu | [`odluka/2008/341927/`](odluka/2008/341927/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Prekobrđe | [`odluka/2008/341928/`](odluka/2008/341928/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Sela | [`odluka/2008/341929/`](odluka/2008/341929/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o razmjeni nepokretnosti između Opštine Berane i ŠIK Polimlje Berane | [`odluka/2008/341934/`](odluka/2008/341934/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o prenosu prava na građevinskom zemljištu u obuhvatu DUP-a Lastva Grbaljska | [`odluka/2008/341977/`](odluka/2008/341977/) | in force | 1 | 2008-10-17 | 2008-10-17 |
+| Odluka o izmjenama Odluke o zaduživanju Opštine Kotor | [`odluka/2008/341978/`](odluka/2008/341978/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o namjeni sredstava | [`odluka/2008/342019/`](odluka/2008/342019/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o ustupanju nekretnina bez naknade | [`odluka/2008/342027/`](odluka/2008/342027/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o davanju u dugoročni zakup dijela kat.parc.1168/1 i 1168/2 KO Krimovice i kat. parc.537/2 i 537/3 K.O. Višnjevo | [`odluka/2008/342028/`](odluka/2008/342028/) | in force | 1 | 2008-10-17 | 2008-10-17 |
+| Odluka o izmjenama Odluke o određivanju naziva ulica u Baru i Sutomoru | [`odluka/2008/342110/`](odluka/2008/342110/) | in force | 1 | 2008-08-16 | 2008-08-16 |
+| Odluka o ustupanju nekretnina bez naknade | [`odluka/2008/342124/`](odluka/2008/342124/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o izmjenama i dopunama Odluke o lokalnoj upravi | [`odluka/2008/342145/`](odluka/2008/342145/) | amending act | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o donošenju Detaljnog urbanističkog plana "Budva-Centar" | [`odluka/2008/342246/`](odluka/2008/342246/) | in force | 1 | 2008-11-07 | 2008-11-07 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "Svinjišta" | [`odluka/2008/342247/`](odluka/2008/342247/) | in force | 1 | 2008-11-07 | 2008-11-07 |
+| Odluka o izmjeni Odluke o izradi Detaljnog urbanističkog plana "Rozino I" | [`odluka/2008/342300/`](odluka/2008/342300/) | in force | 1 | 2008-11-07 | 2008-11-07 |
+| Odluka o stavljanju van snage Odluke o pristupanju izradi Izmjena i dopuna Generalnog urbanističkog plana Podgorice | [`odluka/2008/342406/`](odluka/2008/342406/) | amending act | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o prodaji akcija AD "Plodovi Crne Gore" - Podgorica na berzi | [`odluka/2008/342407/`](odluka/2008/342407/) | in force | 1 | 2008-11-08 | 2008-11-08 |
+| Odluka o davanju saglasnosti na Odluku o Završnom računu Finansijskog plana Gradske opštine Golubovci za 2007.godinu | [`odluka/2008/342409/`](odluka/2008/342409/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izmjenama i dopunama Odluke o snabdijevanju vodom i odvođenju otpadnih voda | [`odluka/2008/342550/`](odluka/2008/342550/) | amending act | 1 | 2008-12-20 | 2008-12-20 |
+| Odluka o izmjenama i dopunama Odluke o snabdijevanju toplotnom energijom | [`odluka/2008/342551/`](odluka/2008/342551/) | amending act | 1 | 2008-12-20 | 2008-12-20 |
+| Odluka o izmjeni Odluke o određivanju naziva ulica i trga i promjeni naziva ulica u Podgorici | [`odluka/2008/342686/`](odluka/2008/342686/) | in force | 1 | 2008-07-30 | 2008-07-30 |
+| Odluka o pristupanju izradi lokalne studije lokacije "Barutana 2" | [`odluka/2008/342734/`](odluka/2008/342734/) | in force | 1 | 2008-12-13 | 2008-12-13 |
+| Odluka o izmjenama i dopunama Odluke o lokalnoj upravi | [`odluka/2008/342735/`](odluka/2008/342735/) | amending act | 1 | 2008-12-13 | 2008-12-13 |
+| Odluka o prenosu prava na gradsko-građevinsko zemljište na Dragović Đorđija iz Berana | [`odluka/2008/342763/`](odluka/2008/342763/) | in force | 1 | 2008-09-30 | 2008-09-30 |
+| Odluka o potrebi izrade Strateške procjene uticaja na životnu sredinu za Lokalnu studiju lokacije za seosko naselje u funkciji turizma u Zoganju | [`odluka/2008/342794/`](odluka/2008/342794/) | in force | 1 | 2008-12-13 | 2008-12-13 |
+| Odluka o potrebi izrade Strateške procjene uticaja na životnu sredinu za Lokalnu studiju lokacije za turističko naselje visoke kategorije na lokalitetu Liman II | [`odluka/2008/342795/`](odluka/2008/342795/) | in force | 1 | 2008-12-13 | 2008-12-13 |
+| Odluka o potrebi izrade Strateške procjene uticaja na životnu sredinu za pristupanje izradi Urbanističkog projekta za lokalitet hotela "Galeb" u Ulcinju | [`odluka/2008/342796/`](odluka/2008/342796/) | in force | 1 | 2008-12-13 | 2008-12-13 |
+| Odluka o prenosu prava na gradsko-građevinsko zemljište na Šahinović Šuća iz Berana | [`odluka/2008/342817/`](odluka/2008/342817/) | in force | 1 | 2008-09-30 | 2008-09-30 |
+| Odluka o potrebi izrade Strateške procjene uticaja na životnu sredinu za pristupanje izradi Urbanističkog projekta za lokalitet hotela "Mediteran" u Ulcinju | [`odluka/2008/342848/`](odluka/2008/342848/) | in force | 1 | 2008-12-13 | 2008-12-13 |
+| Odluka o nepostojanju potrebe izrade Strateške procjene uticaja za pristupanje izradi izmjena i dopuna DUP-a "Ulcinj-grad" u dijelu saobraćaja i to: Ulica Majka Tereza u zahvatu od Doma zdravlja "Bogdan Vujošević" do Bulevara Teuta | [`odluka/2008/342849/`](odluka/2008/342849/) | amending act | 1 | 2008-12-13 | 2008-12-13 |
+| Odluka o izradi Strateške procjene uticaja za pristupanju izradi izmjena i dopuna DUP-a "Ulcinj - grad" u dijelu saobraćaja i to: Ulica Majka Tereza u zahvatu od Doma zdravlja "Bogdan Vujošević" do Bulevara Teuta | [`odluka/2008/342850/`](odluka/2008/342850/) | amending act | 1 | 2008-12-13 | 2008-12-13 |
+| Odluka o davanju saglasnosti na Odluku Predsjednika Opštine Herceg Novi o zabrani izvođenja građevinskih radova u ljetnjem periodu broj 01-1-497/08 od 20.06.2008.godine | [`odluka/2008/342855/`](odluka/2008/342855/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o prenosu prava na nepokretnostima na parceli broj 60/1/2 KO Mljetičak | [`odluka/2008/342907/`](odluka/2008/342907/) | in force | 1 | 2008-12-13 | 2008-12-13 |
+| Odluka o prestanku prava korišenja | [`odluka/2008/342913/`](odluka/2008/342913/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o izboru članova Savjeta za razvoj i zaštitu lokalne samouprave | [`odluka/2008/342914/`](odluka/2008/342914/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o zaduženju Opštine Rožaje | [`odluka/2008/342915/`](odluka/2008/342915/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o pristupanju izradi Lokaln -studije lokacije "Hajla i Štedim" | [`odluka/2008/342916/`](odluka/2008/342916/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o donošenju Urbanstikog projekta "Crvena Glavica" | [`odluka/2008/342980/`](odluka/2008/342980/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o izmenovanju Komisije za raspodjelu sredstava namijenjenih za sport i transfere NVO | [`odluka/2008/342983/`](odluka/2008/342983/) | amending act | 1 | 2008-08-26 | 2008-08-26 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana Krašića za zonu 2 - naselje Maslinjak | [`odluka/2008/343007/`](odluka/2008/343007/) | amending act | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o izmjeni Odluke o zaduživanju Opštine Bar | [`odluka/2008/343012/`](odluka/2008/343012/) | in force | 1 | 2008-12-03 | 2008-12-03 |
+| Odluka o davanju saglasnosti na program rada i Finansijski plan Turističke organizacije Mojkovac za 2008. godinu | [`odluka/2008/343034/`](odluka/2008/343034/) | in force | 1 | 2008-08-26 | 2008-08-26 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Ravni-Juškovića potok | [`odluka/2008/343035/`](odluka/2008/343035/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o zamjeni zemljišta | [`odluka/2008/343036/`](odluka/2008/343036/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o davanju saglasnosti na odluke o osnivanju Mjesne zajednice Gorica | [`odluka/2008/343055/`](odluka/2008/343055/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Oluka o umanjenju imovine opštine Nikšić radi izgradnje Bulevara 13. jul | [`odluka/2008/343061/`](odluka/2008/343061/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o pribavljanju nepokretnosti za potrebe realizacije DUP-a Centar 3 | [`odluka/2008/343062/`](odluka/2008/343062/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o davanju saglasnosti na imenovanje direktora Javnog preduzeća "Komunalno" Tivat | [`odluka/2008/343063/`](odluka/2008/343063/) | in force | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o oslobađanju naknade za uređenje građevinskog zamljišta | [`odluka/2008/343064/`](odluka/2008/343064/) | in force | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o dopuni Odluke o uslovima i načinu organizovanja djelatnosti izgradnje, uređenja, upravljanja i održavanja javnih parkirališta i javnih garaža na području Opštine Tivat | [`odluka/2008/343065/`](odluka/2008/343065/) | amending act | 1 | 2008-11-28 | 2008-11-28 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima opštinskiih funkcionera | [`odluka/2008/343094/`](odluka/2008/343094/) | amending act | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o donošenju Urbanističkog projekta kompleksa "Park" Donja Lasta | [`odluka/2008/343095/`](odluka/2008/343095/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište na Milošević Anđelka | [`odluka/2008/343098/`](odluka/2008/343098/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Jelenak | [`odluka/2008/343111/`](odluka/2008/343111/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Danilovgrad III | [`odluka/2008/343112/`](odluka/2008/343112/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Danilovgrad II | [`odluka/2008/343114/`](odluka/2008/343114/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prenos prava na gradsko građevinsko zemljište radi kompletiranja urbanističke parcele u skladu sa DUP-om Rudo polje | [`odluka/2008/343120/`](odluka/2008/343120/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište na Bakoč Veselina | [`odluka/2008/343121/`](odluka/2008/343121/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište na Mijatović Milorada | [`odluka/2008/343122/`](odluka/2008/343122/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izmjenama Odluke o Službi zaštite | [`odluka/2008/343123/`](odluka/2008/343123/) | in force | 1 | 2008-11-21 | 2008-11-21 |
+| Odluka o davanju u dugoročni zakup dijela kat.parc.2565 K.O. Dobrota | [`odluka/2008/343149/`](odluka/2008/343149/) | in force | 1 | 2008-08-08 | 2008-08-08 |
+| Odluka o potvrdjivanju imenovanja dva člana Savjeta Javnog radi-difuznog servisa "Radio Tivat" | [`odluka/2008/343150/`](odluka/2008/343150/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o prenosu prava korišćenja | [`odluka/2008/343153/`](odluka/2008/343153/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Gostilje | [`odluka/2008/343170/`](odluka/2008/343170/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište na Perović Boža | [`odluka/2008/343178/`](odluka/2008/343178/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izmjeni Odluke o prenosu prava na gradsko građevinsko zemljište na Ivanović Zorana | [`odluka/2008/343179/`](odluka/2008/343179/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o dopuni Odluke o utvrđivanju naknade za uređivanje građevinskog zamljišta | [`odluka/2008/343230/`](odluka/2008/343230/) | amending act | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izmjeni Odluke o osnivanju Javne ustanove Nikšićko pozorište | [`odluka/2008/343231/`](odluka/2008/343231/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izradi Strateške procjene uticaja na životnu sredinu Lokalne studije lokacije "Poda" | [`odluka/2008/343280/`](odluka/2008/343280/) | in force | 1 | 2008-09-08 | 2008-09-08 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju za prodaju poslovnih prostora u objektu stanične zgrade "Autobuska stanica | [`odluka/2008/343320/`](odluka/2008/343320/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o izmjenama Odluke o studentskoj nagradi Prijestonice Cetinje | [`odluka/2008/343324/`](odluka/2008/343324/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o visini, načinu obračunavanja i plaćanja turističke takse u Opštini Tivat | [`odluka/2008/343337/`](odluka/2008/343337/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o visini, načinu obračunavanja i plaćanja članskog doprinosa Turističkoj organizaciji Plužine | [`odluka/2008/343338/`](odluka/2008/343338/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o stavljanju van snage Odluku o pristupanju izradi Izmjena i dopuna Prostornog plana Opštine Podgorica | [`odluka/2008/343364/`](odluka/2008/343364/) | amending act | 1 | 2008-11-15 | 2008-11-15 |
+| Odlukao rješavanju stambenih potreba lica u stanju socijalne potrebe | [`odluka/2008/343402/`](odluka/2008/343402/) | in force | 1 | 2008-12-03 | 2008-12-03 |
+| Odluka o izmjeni Odluke o zaduživanju Opštine Bar | [`odluka/2008/343403/`](odluka/2008/343403/) | in force | 1 | 2008-12-03 | 2008-12-03 |
+| Odluka o izmjenama Odluke o organizaciji i načinu rada lokalne uprave ("Sl. list RCG -opštinski propisi" br. 47/06, 50/06, 06/07 i 16/07) | [`odluka/2008/343447/`](odluka/2008/343447/) | in force | 1 | 2008-11-25 | 2008-11-25 |
+| Odluka o pribavljanju nepokretnosti za proširenje groblja u Lovćenskoj ulici u KO Cetinje I | [`odluka/2008/343476/`](odluka/2008/343476/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o prenosu prava na nepokretnosti u KO Cetinje I | [`odluka/2008/343477/`](odluka/2008/343477/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o prenosu prava na nepokretnosti u KO Njeguši | [`odluka/2008/343478/`](odluka/2008/343478/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o prenosu prava na nepokretnosti u KO Bata | [`odluka/2008/343479/`](odluka/2008/343479/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o visini naknade za rad članovima Savjeta za razvoj i zaštitu lokalne samouprave Opštine Bijelo Polje | [`odluka/2008/343490/`](odluka/2008/343490/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Javne ustanove Centar za djelatnosti kulture | [`odluka/2008/343586/`](odluka/2008/343586/) | amending act | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o raspisivanju javnog poziva na javno nadmetanje za prenos prava korišćenja na gradskom građevinskom zemljištu | [`odluka/2008/343634/`](odluka/2008/343634/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o imenovanju Komisije za rješavanje stambenih pitanja lica u stanju socijalne potrebe | [`odluka/2008/343635/`](odluka/2008/343635/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o izmjenama i dopunama Odluke o materijalnom obezbjeđenju učesnika NOR-a i članova njihovih porodica | [`odluka/2008/343686/`](odluka/2008/343686/) | amending act | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o prihvatanju inicijative za kandidaturu Kotora u Međunarodno udruženje gradova izaslanika mira | [`odluka/2008/343718/`](odluka/2008/343718/) | in force | 1 | 2008-08-08 | 2008-08-08 |
+| Odluka o izmjeni Odluke o zaradama, naknadama i drugim primanjima lokalnih funkcionera Opštine Kotor | [`odluka/2008/343719/`](odluka/2008/343719/) | in force | 1 | 2008-08-08 | 2008-08-08 |
+| Odluka o ustupanju nekretnina bez naknade | [`odluka/2008/343745/`](odluka/2008/343745/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima opštinskih funkcionera | [`odluka/2008/343752/`](odluka/2008/343752/) | amending act | 1 | 2008-11-07 | 2008-11-07 |
+| Odluka o prenosu prava na gradskom građevinskom zemljištu u obuhvatu UP Privredna zona | [`odluka/2008/343766/`](odluka/2008/343766/) | in force | 1 | 2008-08-08 | 2008-08-08 |
+| Odluka o prenosu prava korišćenja zemljišta | [`odluka/2008/343847/`](odluka/2008/343847/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o donošenju Lokalne studije lokacije za katastarske parcele broj 1147 i 1148 KO Jastreb "FarMont" | [`odluka/2008/343848/`](odluka/2008/343848/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o usvajanju Plana mjera Lokalnog ekološkog akcionog plana Opštine Pljevlja za 2008.godinu | [`odluka/2008/343857/`](odluka/2008/343857/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o izmjeni Odluke o pristupanju izradi lokalne studije lokacije Kolašin -"VAL" | [`odluka/2008/343864/`](odluka/2008/343864/) | in force | 1 | 2008-08-05 | 2008-08-05 |
+| Odluka o prenosu prava na nepokretnostima na parceli broj 60/1/2 KO Mljetičak | [`odluka/2008/343900/`](odluka/2008/343900/) | in force | 1 | 2008-10-31 | 2008-10-31 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "LAPČIĆI" | [`odluka/2008/344108/`](odluka/2008/344108/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o izradi Detaljnog urbanističkog plana Igalo - Bare | [`odluka/2008/344154/`](odluka/2008/344154/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o izmjeni Odluke o izradi Detaljnog urbanističkog plana "Sveti Stefan" br. 001-461/1 od 09.02.2006.godine | [`odluka/2008/344171/`](odluka/2008/344171/) | in force | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o izmjeni Odluke o izradi Detaljnog urbanističkog plana "Bečići" broj 001-459/1 od 09.02.2006.godine | [`odluka/2008/344172/`](odluka/2008/344172/) | in force | 1 | 2008-01-23 | 2008-01-23 |
+| Odluka o dozvoli prodaje putem javnog nadmetanja nepokretnosti u KO Metanjac | [`odluka/2008/344179/`](odluka/2008/344179/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o donošenju Lokalne studije lokacije za benzinsku pumpu Zaton | [`odluka/2008/344180/`](odluka/2008/344180/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka o izmjenama i dopunama Odluke o dodjeli stipendija | [`odluka/2008/344213/`](odluka/2008/344213/) | amending act | 1 | 2008-01-31 | 2008-01-31 |
+| Odluka o naknadi za zaštitu i unaprjeđivanje životne sredine Opštine Pljevlja | [`odluka/2008/344219/`](odluka/2008/344219/) | in force | 1 | 2008-10-25 | 2008-10-25 |
+| Odluka za izradu izmjena i dopuna Detaljnog urbanističkog plana Igala- katastarska parcela 708/5 | [`odluka/2008/344291/`](odluka/2008/344291/) | amending act | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o izradi izmjena i dopuna Detaljnog urbanističkog plana Igala- katastarska parcela 469 | [`odluka/2008/344292/`](odluka/2008/344292/) | amending act | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o pribavljanju nepokretnosti radi rekonstrukcije ulice Pavla Rovinskog u KO Cetinje I | [`odluka/2008/344293/`](odluka/2008/344293/) | in force | 1 | 2008-09-16 | 2008-09-16 |
+| Odluka o izmjenama i dopunama Odluke o komunalnom uređenju grada | [`odluka/2008/344377/`](odluka/2008/344377/) | amending act | 1 | 2008-08-16 | 2008-08-16 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Golubinja" | [`odluka/2008/344405/`](odluka/2008/344405/) | amending act | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o stipendiranjju studenata | [`odluka/2008/344450/`](odluka/2008/344450/) | in force | 1 | 2008-09-30 | 2008-09-30 |
+| Odluka o oslobađanju Ministarstva unutrašnjih poslova i javne uprave obaveze plaćanja naknade za uređenje gradskog građevinskog zemljišta | [`odluka/2008/344457/`](odluka/2008/344457/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o izmjenama Odluke o određivanju naknade za rad odbornicima Skupštine opštine Pljevlja | [`odluka/2008/344458/`](odluka/2008/344458/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o izmjeni Odluke o izradi Lokalne studije lokacije za poslovni trgovinsko ugostiteljski objekat u Ravnoj Rijeci kod Bijelog Polja | [`odluka/2008/344493/`](odluka/2008/344493/) | in force | 1 | 2008-09-30 | 2008-09-30 |
+| Odluka o održavanju čistoće, pranju javnih površina ulica, puteva i saobraćajnica | [`odluka/2008/344502/`](odluka/2008/344502/) | in force | 1 | 2008-07-25 | 2008-07-25 |
+| Odluka o izradi Strateške procjene uticaja na životnu sredinu Izmjena i dopuna Generalnog urbanističkog plana Cetinja za prostor Detaljnog urbanističkog plana "Gruda - Donje polje (Zona D)" | [`odluka/2008/344535/`](odluka/2008/344535/) | amending act | 1 | 2008-09-22 | 2008-09-22 |
+| Odluka o davanju saglasnosti za potpunu i nepotpunu eksproprijaciju nepokretnosti u korist JP "Regionalni vodovod Crnogorsko primorje" Budva | [`odluka/2008/344549/`](odluka/2008/344549/) | in force | 1 | 2008-07-30 | 2008-07-30 |
+| Odluka o davanju saglasnosti na Predlog ugovora o kreditu za finansiranje izgradnje miniobilaznice u Podgorici - II faza | [`odluka/2008/344550/`](odluka/2008/344550/) | in force | 1 | 2008-07-30 | 2008-07-30 |
+| Odluka o davanju saglasnosti na predlog Ugovora o izgradnji minizaobilaznice u Podgorici - II faza | [`odluka/2008/344593/`](odluka/2008/344593/) | in force | 1 | 2008-07-30 | 2008-07-30 |
+| Odluka o pristupanju izradi lokalne studije lokacije Kolašin - "Paljevine" | [`odluka/2008/344634/`](odluka/2008/344634/) | in force | 1 | 2008-07-30 | 2008-07-30 |
+| Odluka o izmjeni i dopuni Odluke o porezu na firmu ili naziv | [`odluka/2008/344651/`](odluka/2008/344651/) | amending act | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o izmjenama i dopunama dluke o korišćenju i naknadi za korišćenje puta i putnog zemljišta pored opštinskih i nekategorisanih puteva | [`odluka/2008/344652/`](odluka/2008/344652/) | amending act | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o davanju saglasnosti na Pravilnik o organizaciji i sistematizaciji poslova i radnih zadataka u JU Centar za kulturu "Nenad Rakočević" Mojkovac | [`odluka/2008/344700/`](odluka/2008/344700/) | in force | 1 | 2008-08-26 | 2008-08-26 |
+| Odluka o izmjenama i dopunama Odluke o porezu na potrošnju | [`odluka/2008/344702/`](odluka/2008/344702/) | amending act | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima opštinskih službenika i namještenika | [`odluka/2008/344737/`](odluka/2008/344737/) | amending act | 1 | 2008-08-05 | 2008-08-05 |
+| Odluka o turističkoj valorizaciji lokaliteta u vlasništvu Opštine Tivat na poluostruvu Luštica | [`odluka/2008/344743/`](odluka/2008/344743/) | in force | 1 | 2008-08-26 | 2008-08-26 |
+| Odluka o izmjenama i dopunama odluke o porezu na potrošnju | [`odluka/2008/344744/`](odluka/2008/344744/) | amending act | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o davanju saglasnosti na Ugovor o prenosu prava svojine na nepokretnostima | [`odluka/2008/344784/`](odluka/2008/344784/) | in force | 1 | 2008-09-03 | 2008-09-03 |
+| Odluka o pristupanju osnivanju Eurodristrikta Južnog Jadrana | [`odluka/2008/344998/`](odluka/2008/344998/) | in force | 1 | 2008-03-13 | 2008-03-13 |
+| Odluka o potvrđivanju Zaključka Predsjednika opštine o oslobađanju plaćanja obaveza po osnovu poreza na nepokretnosti 2007.godine | [`odluka/2008/345216/`](odluka/2008/345216/) | in force | 1 | 2008-03-28 | 2008-03-28 |
+| Odluka o zaradama i drugim pravima po osnovu rada lokalnih funkcionera | [`odluka/2008/345217/`](odluka/2008/345217/) | in force | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o izmjenama i dopunama Odluke o porezu na potrošnju | [`odluka/2008/345218/`](odluka/2008/345218/) | amending act | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o donošenju Plana izmjena i dopuna Prostornog plana Opštine Kotor | [`odluka/2008/345219/`](odluka/2008/345219/) | amending act | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o donošenju Plana izmjena i dopuna Generalnog urbanističkog plana Kotora | [`odluka/2008/345262/`](odluka/2008/345262/) | amending act | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o ukidanju Javnog stambenog preduzeća | [`odluka/2008/345263/`](odluka/2008/345263/) | in force | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o izmjeni Odluke o obrazovanju Službe Skupštine Prijestonice Cetinje | [`odluka/2008/345265/`](odluka/2008/345265/) | in force | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o izmjeni Odluke o Savjetu za razvoj i zaštitu lokalne samouprave | [`odluka/2008/345266/`](odluka/2008/345266/) | in force | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o izradi Detaljnog urbanističkog plana fakultetsko-studentskog centra | [`odluka/2008/345271/`](odluka/2008/345271/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o razrješenju predsjednika Upravnog odbora JP "Sportski centar" Rožaje | [`odluka/2008/345272/`](odluka/2008/345272/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o razrješenju člana Odbora za društvene djelatnosti | [`odluka/2008/345273/`](odluka/2008/345273/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o imenovanju predsjednika Upravnog odbora JU "Centar za kulturu" Rožaje | [`odluka/2008/345274/`](odluka/2008/345274/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o imenovanju člana Odbora za društvene djelatnosti | [`odluka/2008/345275/`](odluka/2008/345275/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o izmjenama i dopunama Odluke o porezu na potrošnju | [`odluka/2008/345304/`](odluka/2008/345304/) | amending act | 1 | 2008-03-22 | 2008-03-22 |
+| Odluka o izmjeni Odluke o zaradama i drugim primanjima opštinskih funkcionera | [`odluka/2008/345305/`](odluka/2008/345305/) | in force | 1 | 2008-03-22 | 2008-03-22 |
+| Odluka o izmjenama i dopunama Odluke o porezu na potrošnju | [`odluka/2008/345318/`](odluka/2008/345318/) | amending act | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o prenosu prava vlasništva uz naknadu na građevinskom zemljištu Vladi Crne Gore - Upravi za kadrove | [`odluka/2008/345319/`](odluka/2008/345319/) | in force | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o davanju na privremeno korišćenje nepokretnosti Vladi Crne Gore - Upravi za kadrove | [`odluka/2008/345320/`](odluka/2008/345320/) | in force | 1 | 2008-04-05 | 2008-04-05 |
+| Odluka o izmjenama i dopunama Odluke o porezu na potrošnju | [`odluka/2008/345326/`](odluka/2008/345326/) | amending act | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o izmjenama i dopunama Odluke o porezu na potrošnju | [`odluka/2008/345328/`](odluka/2008/345328/) | amending act | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o privremenom finansiranju Opštine Šavnik za period januar - mart 2008.godine | [`odluka/2008/345358/`](odluka/2008/345358/) | in force | 1 | 2008-03-01 | 2008-03-01 |
+| Odluka o izmjenama Odluke o naknadi za rad i naknadi putnih troškova odbornika u Skupštini opštine Šavnik | [`odluka/2008/345377/`](odluka/2008/345377/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o utvrđivanju visine godišnje nakande za registraciju drumskih motornih vozila, traktora i priključnih vozila koja se plaća za korišćenje opštinskih i nekategorisanih puteva, kao i visini nakande koja se plaća za korišćenje puta i putnog zamlj | [`odluka/2008/345716/`](odluka/2008/345716/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka o izmjeni Odluke o zaradama i drugim primanjima opštinskih funkcionera | [`odluka/2008/345717/`](odluka/2008/345717/) | in force | 1 | 2008-04-15 | 2008-04-15 |
 | Odluka o pristupanju izradi lokalne studije lokacije Kolašin - "Breza 2" | [`odluka/2008/345977/`](odluka/2008/345977/) | in force | 1 | 2008-04-05 | 2008-04-05 |
 | Odluka o izmjeni i dopuni Odluke o izradi lokalne studije lokacije "Rvaši" | [`odluka/2008/346102/`](odluka/2008/346102/) | amending act | 1 | 2008-12-31 | 2008-12-31 |
 | Odluka o izradi Lokalne studije lokacije za seosko naselje u funkciji turizma u Zoganje | [`odluka/2008/346196/`](odluka/2008/346196/) | in force | 1 | 2008-03-13 | 2008-03-13 |

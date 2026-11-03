@@ -16,3 +16,9 @@ Zakon o obeštećenju bivših radnika Kombinata aluminijuma Podgorica čija su s
 | Član 10 | [clan-010.md](clan-010.md) | 0 |  |
 | Član 11 | [clan-011.md](clan-011.md) | 0 |  |
 | Član 12 | [clan-012.md](clan-012.md) | 0 |  |
+
+Act id: `zakon-o-obestecenju-bivsih-radnika-kombinata-aluminijuma-podgorica-cij` (tags `zakon-o-obestecenju-bivsih-radnika-kombinata-aluminijuma-podgorica-cij/<day>`; `python tools/on.py <day> zakon-o-obestecenju-bivsih-radnika-kombinata-aluminijuma-podgorica-cij`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

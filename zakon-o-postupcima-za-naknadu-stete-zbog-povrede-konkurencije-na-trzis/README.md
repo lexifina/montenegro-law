@@ -28,3 +28,9 @@ Zakon o postupcima za naknadu štete zbog povrede konkurencije na tržištu · 1
 | Član 22 | [clan-022.md](clan-022.md) | 0 |  |
 | Član 23 | [clan-023.md](clan-023.md) | 0 |  |
 | Član 24 | [clan-024.md](clan-024.md) | 0 |  |
+
+Act id: `zakon-o-postupcima-za-naknadu-stete-zbog-povrede-konkurencije-na-trzis` (tags `zakon-o-postupcima-za-naknadu-stete-zbog-povrede-konkurencije-na-trzis/<day>`; `python tools/on.py <day> zakon-o-postupcima-za-naknadu-stete-zbog-povrede-konkurencije-na-trzis`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

@@ -485,7 +485,8 @@ def checked_doc(path: Path) -> dict:
 
 MONTH3 = {"jan": 1, "feb": 2, "mar": 3, "apr": 4, "maj": 5, "jun": 6, "jul": 7, "avg": 8, "aug": 8, "sep": 9,
           "okt": 10, "nov": 11, "dec": 12}
-DATE = r"(\d{1,2})\s*\.\s*(?:(\d{1,2})\s*\.|([^\W\d_]{3,}))\s*(\d{4})"
+DATE = r"(\d{1,2})\s*\.\s*(?:(\d{1,2})\s*(?:\.+|\s)|([^\W\d_]{3,}))\s*(\d{4})"
+YEAR = re.compile(r"(?<![\d/-])(?:19|20|2[oO])[\doO]{2}(?![\d/])")
 ORDINAL = {"narednog": 1, "sljedeceg": 1, "slijedeceg": 1, "prvog": 1, "drugog": 2, "treceg": 3, "petog": 5,
            "osmog": 8, "osmoga": 8, "desetog": 10, "petnaestog": 15, "tridesetog": 30}
 STUPA = re.compile(r"\bstup(?:a|aju)\s+na\s+snagu\b", re.I)
@@ -505,8 +506,11 @@ def adoption_day(units: dict, sig: list[str], published: str) -> str:
     ("na sjednici održanoj 12. marta 2019. godine", "dana 12. marta 2019. godine, donijela je"): every date found
     must agree, and fall within the year before publication."""
     found = set()
-    for m in re.finditer(DATE, cyr2lat(" ".join(sig))):
+    block = cyr2lat(" ".join(sig))
+    for m in re.finditer(DATE, block):
         found.add(day_of(m))
+    if len(YEAR.findall(block)) != len(re.findall(DATE, block)):
+        raise Hold("adoption_day_unreadable")   # a year in the signature block that is not part of a readable date
     pre = cyr2lat(units.get("0-uvod", units.get("tekst", {"text": ""}))["text"].replace("\n", " "))
     for pat in (r"sjednic\w*[^.]{0,120}?(?:održan\w*|odrzan\w*)\s*,?\s*(?:dana\s+)?" + DATE,
                 r"sjednic\w*\s+(?:od|dana)\s+" + DATE,

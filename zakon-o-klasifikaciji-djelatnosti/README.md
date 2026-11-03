@@ -15,3 +15,9 @@ Zakon o klasifikaciji djelatnosti* · 1 versions, from 2025-12-30 (latest in for
 | Član 9 | [clan-009.md](clan-009.md) | 0 |  |
 | Član 10 | [clan-010.md](clan-010.md) | 0 |  |
 | Član 11 | [clan-011.md](clan-011.md) | 0 |  |
+
+Act id: `zakon-o-klasifikaciji-djelatnosti` (tags `zakon-o-klasifikaciji-djelatnosti/<day>`; `python tools/on.py <day> zakon-o-klasifikaciji-djelatnosti`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

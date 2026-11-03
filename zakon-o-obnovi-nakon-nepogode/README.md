@@ -67,3 +67,9 @@ Zakon o obnovi nakon nepogode · 1 versions, from 2026-01-17 (latest in force: 2
 | Poglavlje VIII | [poglavlje-08.md](poglavlje-08.md) | 0 |  |
 | Poglavlje IX | [poglavlje-09.md](poglavlje-09.md) | 0 |  |
 | Poglavlje X | [poglavlje-10.md](poglavlje-10.md) | 0 |  |
+
+Act id: `zakon-o-obnovi-nakon-nepogode` (tags `zakon-o-obnovi-nakon-nepogode/<day>`; `python tools/on.py <day> zakon-o-obnovi-nakon-nepogode`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

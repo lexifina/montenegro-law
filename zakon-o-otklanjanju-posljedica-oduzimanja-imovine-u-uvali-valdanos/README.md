@@ -28,3 +28,9 @@ Zakon o otklanjanju posljedica oduzimanja imovine u uvali Valdanos · 1 versions
 | Poglavlje I | [poglavlje-01.md](poglavlje-01.md) | 0 |  |
 | Poglavlje II | [poglavlje-02.md](poglavlje-02.md) | 0 |  |
 | Poglavlje III | [poglavlje-03.md](poglavlje-03.md) | 0 |  |
+
+Act id: `zakon-o-otklanjanju-posljedica-oduzimanja-imovine-u-uvali-valdanos` (tags `zakon-o-otklanjanju-posljedica-oduzimanja-imovine-u-uvali-valdanos/<day>`; `python tools/on.py <day> zakon-o-otklanjanju-posljedica-oduzimanja-imovine-u-uvali-valdanos`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

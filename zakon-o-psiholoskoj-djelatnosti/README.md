@@ -69,3 +69,9 @@ Zakon o psihološkoj djelatnosti · 1 versions, from 2024-12-31 (latest in force
 | Poglavlje VII | [poglavlje-07.md](poglavlje-07.md) | 0 |  |
 | Poglavlje VIII | [poglavlje-08.md](poglavlje-08.md) | 0 |  |
 | Poglavlje IX | [poglavlje-09.md](poglavlje-09.md) | 0 |  |
+
+Act id: `zakon-o-psiholoskoj-djelatnosti` (tags `zakon-o-psiholoskoj-djelatnosti/<day>`; `python tools/on.py <day> zakon-o-psiholoskoj-djelatnosti`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

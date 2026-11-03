@@ -65,3 +65,9 @@ Zakon o državnim nagradama · 1 versions, from 2019-03-27 (latest in force: 201
 | 4. Nagrada Miroslavljevo jevanđelje | [poglavlje-02-odjeljak-4.md](poglavlje-02-odjeljak-4.md) | 0 |  |
 | 5. Nagrada Oktoih | [poglavlje-02-odjeljak-5.md](poglavlje-02-odjeljak-5.md) | 0 |  |
 | Poglavlje III | [poglavlje-03.md](poglavlje-03.md) | 0 |  |
+
+Act id: `zakon-o-drzavnim-nagradama` (tags `zakon-o-drzavnim-nagradama/<day>`; `python tools/on.py <day> zakon-o-drzavnim-nagradama`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

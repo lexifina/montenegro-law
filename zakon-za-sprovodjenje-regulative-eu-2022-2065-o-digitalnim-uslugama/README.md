@@ -34,3 +34,9 @@ Zakon za sprovođenje Regulative (EU) 2022/2065 o digitalnim uslugama · 1 versi
 | Poglavlje IV | [poglavlje-04.md](poglavlje-04.md) | 0 |  |
 | Poglavlje V | [poglavlje-05.md](poglavlje-05.md) | 0 |  |
 | Poglavlje VI | [poglavlje-06.md](poglavlje-06.md) | 0 |  |
+
+Act id: `zakon-za-sprovodjenje-regulative-eu-2022-2065-o-digitalnim-uslugama` (tags `zakon-za-sprovodjenje-regulative-eu-2022-2065-o-digitalnim-uslugama/<day>`; `python tools/on.py <day> zakon-za-sprovodjenje-regulative-eu-2022-2065-o-digitalnim-uslugama`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

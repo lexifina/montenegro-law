@@ -23,3 +23,9 @@ Zakon o zaštiti poslovne tajne · 1 versions, from 2022-01-08 (latest in force:
 | Član 17 | [clan-017.md](clan-017.md) | 0 |  |
 | Član 18 | [clan-018.md](clan-018.md) | 0 |  |
 | Član 19 | [clan-019.md](clan-019.md) | 0 |  |
+
+Act id: `zakon-o-zastiti-poslovne-tajne` (tags `zakon-o-zastiti-poslovne-tajne/<day>`; `python tools/on.py <day> zakon-o-zastiti-poslovne-tajne`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

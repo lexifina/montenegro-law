@@ -157,3 +157,9 @@ Zakon o homologaciji vozila, sistema, sastavnih djelova vozila i posebnih tehni�
 | 7. EU homologacija tipa za nove tehnologije ili nova tehnička rješenja | [poglavlje-01-odjeljak-7.md](poglavlje-01-odjeljak-7.md) | 0 |  |
 | 8. Vozila proizvedena u malim serijama | [poglavlje-01-odjeljak-8.md](poglavlje-01-odjeljak-8.md) | 0 |  |
 | 9. Homologacija pojedinačnog vozila | [poglavlje-01-odjeljak-9.md](poglavlje-01-odjeljak-9.md) | 0 |  |
+
+Act id: `zakon-o-homologaciji-vozila-sistema-sastavnih-djelova-vozila-i-posebni` (tags `zakon-o-homologaciji-vozila-sistema-sastavnih-djelova-vozila-i-posebni/<day>`; `python tools/on.py <day> zakon-o-homologaciji-vozila-sistema-sastavnih-djelova-vozila-i-posebni`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

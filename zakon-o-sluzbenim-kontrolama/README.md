@@ -126,3 +126,9 @@ Zakon o službenim kontrolama · 1 versions, from 2026-06-05 (latest in force: 2
 | Član 120 | [clan-120.md](clan-120.md) | 0 |  |
 | Poglavlje I | [poglavlje-01.md](poglavlje-01.md) | 0 |  |
 | Poglavlje IV | [poglavlje-04.md](poglavlje-04.md) | 0 |  |
+
+Act id: `zakon-o-sluzbenim-kontrolama` (tags `zakon-o-sluzbenim-kontrolama/<day>`; `python tools/on.py <day> zakon-o-sluzbenim-kontrolama`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

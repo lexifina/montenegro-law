@@ -14,3 +14,9 @@ Zakon o privremenim mjerama za ograničavanje cijena proizvoda od posebnog znač
 | Član 8 | [clan-008.md](clan-008.md) | 0 |  |
 | Član 9 | [clan-009.md](clan-009.md) | 0 |  |
 | Član 10 | [clan-010.md](clan-010.md) | 0 |  |
+
+Act id: `zakon-o-privremenim-mjerama-za-ogranicavanje-cijena-proizvoda-od-poseb` (tags `zakon-o-privremenim-mjerama-za-ogranicavanje-cijena-proizvoda-od-poseb/<day>`; `python tools/on.py <day> zakon-o-privremenim-mjerama-za-ogranicavanje-cijena-proizvoda-od-poseb`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

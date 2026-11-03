@@ -20,3 +20,9 @@ Zakon o upravnoj inspekciji · 1 versions, from 2016-07-19 (latest in force: 201
 | Član 14 | [clan-014.md](clan-014.md) | 0 |  |
 | Član 15 | [clan-015.md](clan-015.md) | 0 |  |
 | Član 16 | [clan-016.md](clan-016.md) | 0 |  |
+
+Act id: `zakon-o-upravnoj-inspekciji` (tags `zakon-o-upravnoj-inspekciji/<day>`; `python tools/on.py <day> zakon-o-upravnoj-inspekciji`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

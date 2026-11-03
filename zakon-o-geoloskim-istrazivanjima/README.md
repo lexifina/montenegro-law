@@ -68,3 +68,9 @@ Zakon o geološkim istraživanjima · 1 versions, from 2026-05-28 (latest in for
 | Poglavlje V | [poglavlje-05.md](poglavlje-05.md) | 0 |  |
 | Poglavlje VI | [poglavlje-06.md](poglavlje-06.md) | 0 |  |
 | Poglavlje VII | [poglavlje-07.md](poglavlje-07.md) | 0 |  |
+
+Act id: `zakon-o-geoloskim-istrazivanjima` (tags `zakon-o-geoloskim-istrazivanjima/<day>`; `python tools/on.py <day> zakon-o-geoloskim-istrazivanjima`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

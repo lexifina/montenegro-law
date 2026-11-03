@@ -98,3 +98,9 @@ Zakon o sanaciji centralnih drugih ugovornih strana* · 1 versions, from 2026-02
 | Član 92 | [clan-092.md](clan-092.md) | 0 |  |
 | Član 93 | [clan-093.md](clan-093.md) | 0 |  |
 | Poglavlje I | [poglavlje-01.md](poglavlje-01.md) | 0 |  |
+
+Act id: `zakon-o-sanaciji-centralnih-drugih-ugovornih-strana` (tags `zakon-o-sanaciji-centralnih-drugih-ugovornih-strana/<day>`; `python tools/on.py <day> zakon-o-sanaciji-centralnih-drugih-ugovornih-strana`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

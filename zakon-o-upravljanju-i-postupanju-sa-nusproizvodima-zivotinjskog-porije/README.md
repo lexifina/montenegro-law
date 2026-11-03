@@ -79,3 +79,9 @@ Zakon o upravljanju i postupanju sa nusproizvodima životinjskog porijekla · 1 
 | Poglavlje XII | [poglavlje-12.md](poglavlje-12.md) | 0 |  |
 | Poglavlje XIII | [poglavlje-13.md](poglavlje-13.md) | 0 |  |
 | Poglavlje XIV | [poglavlje-14.md](poglavlje-14.md) | 0 |  |
+
+Act id: `zakon-o-upravljanju-i-postupanju-sa-nusproizvodima-zivotinjskog-porije` (tags `zakon-o-upravljanju-i-postupanju-sa-nusproizvodima-zivotinjskog-porije/<day>`; `python tools/on.py <day> zakon-o-upravljanju-i-postupanju-sa-nusproizvodima-zivotinjskog-porije`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

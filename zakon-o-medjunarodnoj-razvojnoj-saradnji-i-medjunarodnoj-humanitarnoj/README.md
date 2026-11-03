@@ -21,3 +21,9 @@ Zakon o međunarodnoj razvojnoj saradnji i međunarodnoj humanitarnoj pomoći ·
 | Član 15 | [clan-015.md](clan-015.md) | 0 |  |
 | Član 16 | [clan-016.md](clan-016.md) | 0 |  |
 | Član 17 | [clan-017.md](clan-017.md) | 0 |  |
+
+Act id: `zakon-o-medjunarodnoj-razvojnoj-saradnji-i-medjunarodnoj-humanitarnoj` (tags `zakon-o-medjunarodnoj-razvojnoj-saradnji-i-medjunarodnoj-humanitarnoj/<day>`; `python tools/on.py <day> zakon-o-medjunarodnoj-razvojnoj-saradnji-i-medjunarodnoj-humanitarnoj`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

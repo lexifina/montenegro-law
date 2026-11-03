@@ -14,3 +14,9 @@ Zakon o otpisu kamate na dospjele poreske obaveze · 1 versions, from 2024-09-21
 | Član 8 | [clan-008.md](clan-008.md) | 0 |  |
 | Član 9 | [clan-009.md](clan-009.md) | 0 |  |
 | Član 10 | [clan-010.md](clan-010.md) | 0 |  |
+
+Act id: `zakon-o-otpisu-kamate-na-dospjele-poreske-obaveze` (tags `zakon-o-otpisu-kamate-na-dospjele-poreske-obaveze/<day>`; `python tools/on.py <day> zakon-o-otpisu-kamate-na-dospjele-poreske-obaveze`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

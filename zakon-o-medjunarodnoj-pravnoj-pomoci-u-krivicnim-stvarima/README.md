@@ -72,3 +72,9 @@ Zakon o međunarodnoj pravnoj pomoći u krivičnim stvarima · 1 versions, from 
 | Član 66 | [clan-066.md](clan-066.md) | 0 |  |
 | Član 67 | [clan-067.md](clan-067.md) | 0 |  |
 | Poglavlje I | [poglavlje-01.md](poglavlje-01.md) | 0 |  |
+
+Act id: `zakon-o-medjunarodnoj-pravnoj-pomoci-u-krivicnim-stvarima` (tags `zakon-o-medjunarodnoj-pravnoj-pomoci-u-krivicnim-stvarima/<day>`; `python tools/on.py <day> zakon-o-medjunarodnoj-pravnoj-pomoci-u-krivicnim-stvarima`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

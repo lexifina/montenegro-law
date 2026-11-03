@@ -51,3 +51,9 @@ Zakon o kontroli izvoza roba dvostruke namjene · 1 versions, from 2021-12-31 (l
 | Član 45 | [clan-045.md](clan-045.md) | 0 |  |
 | Član 46 | [clan-046.md](clan-046.md) | 0 |  |
 | Član 47 | [clan-047.md](clan-047.md) | 0 |  |
+
+Act id: `zakon-o-kontroli-izvoza-roba-dvostruke-namjene` (tags `zakon-o-kontroli-izvoza-roba-dvostruke-namjene/<day>`; `python tools/on.py <day> zakon-o-kontroli-izvoza-roba-dvostruke-namjene`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

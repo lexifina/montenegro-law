@@ -60,3 +60,9 @@ Zakon o digitalnoj operativnoj otpornosti finansijskog sektora* · 1 versions, f
 | Član 55 | [clan-055.md](clan-055.md) | 0 |  |
 | Član 56 | [clan-056.md](clan-056.md) | 0 |  |
 | Poglavlje I | [poglavlje-01.md](poglavlje-01.md) | 0 |  |
+
+Act id: `zakon-o-digitalnoj-operativnoj-otpornosti-finansijskog-sektora` (tags `zakon-o-digitalnoj-operativnoj-otpornosti-finansijskog-sektora/<day>`; `python tools/on.py <day> zakon-o-digitalnoj-operativnoj-otpornosti-finansijskog-sektora`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

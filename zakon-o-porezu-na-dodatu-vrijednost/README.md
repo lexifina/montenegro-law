@@ -215,3 +215,9 @@ Zakon o porezu na dodatu vrijednost* · 1 versions, from 2026-07-25 (latest in f
 | Član 212 | [clan-212.md](clan-212.md) | 0 |  |
 | Član 213 | [clan-213.md](clan-213.md) | 0 |  |
 | Poglavlje II | [poglavlje-02.md](poglavlje-02.md) | 0 |  |
+
+Act id: `zakon-o-porezu-na-dodatu-vrijednost` (tags `zakon-o-porezu-na-dodatu-vrijednost/<day>`; `python tools/on.py <day> zakon-o-porezu-na-dodatu-vrijednost`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).

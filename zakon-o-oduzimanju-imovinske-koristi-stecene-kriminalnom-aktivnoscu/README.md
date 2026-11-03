@@ -119,3 +119,9 @@ Zakon o oduzimanju imovinske koristi stečene kriminalnom aktivnošću* · 1 ver
 | 9. Vođenje evidencije o oduzetoj imovinskoj koristi | [poglavlje-08-odjeljak-9.md](poglavlje-08-odjeljak-9.md) | 0 |  |
 | Poglavlje IX | [poglavlje-09.md](poglavlje-09.md) | 0 |  |
 | Poglavlje X | [poglavlje-10.md](poglavlje-10.md) | 0 |  |
+
+Act id: `zakon-o-oduzimanju-imovinske-koristi-stecene-kriminalnom-aktivnoscu` (tags `zakon-o-oduzimanju-imovinske-koristi-stecene-kriminalnom-aktivnoscu/<day>`; `python tools/on.py <day> zakon-o-oduzimanju-imovinske-koristi-stecene-kriminalnom-aktivnoscu`).
+
+## Decisions made by hand
+
+- Laws in force that no act has amended (PIS: Status Važeći, no "Izmjene i/ili dopune"), as published in the Službeni list; each dated by the PIS "Datum stupanja na snagu". The enacted date given is the publication day (the PIS gives no adoption day).
