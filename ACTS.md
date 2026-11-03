@@ -1,26 +1,189 @@
 # Every act in this repository
 
-4106 acts, 4,108 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+4602 acts, 4,604 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
-## naredba (46, of which 5 amending acts)
+## naredba (230, of which 41 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o materijalnom obezbjeđenju učesnika oslobodilačkih ratova od 1912. do 1918 .godine. | [`naredba/1992/291701/`](naredba/1992/291701/) | in force | 1 | 1992-01-20 | 1992-01-20 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o materijalnom obezbjeđenju učesnika opslobodilačkih ratova od 1912. do 1918. godine. | [`naredba/1992/291815/`](naredba/1992/291815/) | in force | 1 | 1992-05-27 | 1992-05-27 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o invalidskom dodatku i drugim pravima vojnih invalida . | [`naredba/1992/294578/`](naredba/1992/294578/) | in force | 1 | 1992-03-16 | 1992-03-16 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o materijalnom obezbjeđenju učesnika NOR-a. | [`naredba/1992/294615/`](naredba/1992/294615/) | in force | 1 | 1992-06-08 | 1992-06-08 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o materijalnom obezbjeđenju učesnika NOR-a. | [`naredba/1992/294659/`](naredba/1992/294659/) | in force | 1 | 1992-01-20 | 1992-01-20 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o materijalnom obnezbjeđenju učesnika oslobodilačkih ratova od 1912.-1918.godine. | [`naredba/1992/294666/`](naredba/1992/294666/) | in force | 1 | 1992-06-08 | 1992-06-08 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o materijalnom obezbjeđenju učesnika oslobodilačkih ratova od 1912-1918.godine. | [`naredba/1992/294964/`](naredba/1992/294964/) | in force | 1 | 1992-04-22 | 1992-04-22 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o mterijalnom obezbjeđenju učesnika NOR-a. | [`naredba/1992/295120/`](naredba/1992/295120/) | in force | 1 | 1992-04-22 | 1992-04-22 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o invalidskom dodatku i drugim pravima vojnih invalida. | [`naredba/1992/295264/`](naredba/1992/295264/) | in force | 1 | 1992-04-22 | 1992-04-22 |
+| Naredba o uplaćivanju određenih proizvoda Budžeta Republike,opštine,organizacija za obavezno socijalno osiguranje i budžetskih fondova. | [`naredba/1992/295391/`](naredba/1992/295391/) | in force | 1 | 1992-02-29 | 1992-02-29 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o invalidskom dodatku i drugim pravima vojnih invalida. | [`naredba/1992/295428/`](naredba/1992/295428/) | in force | 1 | 1992-01-20 | 1992-01-20 |
+| Naredba o utvrđivanju mjesečnoh iznosa novćanih primanja po Zakonu o invalidskom dodatku i drugim pravima vojnih invalida. | [`naredba/1992/295618/`](naredba/1992/295618/) | in force | 1 | 1992-06-08 | 1992-06-08 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanioh primanja po zakonu o materijalnom obezbjeđenju učesnika NOR-a. | [`naredba/1992/295833/`](naredba/1992/295833/) | in force | 1 | 1992-03-16 | 1992-03-16 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o materijalnom obezbjeđenju učesnika oslobodilačkih ratova od 1912.-1918.godine. | [`naredba/1992/296613/`](naredba/1992/296613/) | in force | 1 | 1992-02-13 | 1992-02-13 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o invalidskom dodatku i drugim pravima vojnih invalida. | [`naredba/1992/296912/`](naredba/1992/296912/) | in force | 1 | 1992-02-13 | 1992-02-13 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o materijalnom obezbjeđenju učesnika oslobodilačkih ratova od 1912-1918.godine. | [`naredba/1992/296937/`](naredba/1992/296937/) | in force | 1 | 1992-03-16 | 1992-03-16 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o invalidskom dodatku i drugim pravima vojnih invalida. | [`naredba/1992/296939/`](naredba/1992/296939/) | in force | 1 | 1992-05-27 | 1992-05-27 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po zakonu o materijalnom obezbjeđenju učesnika NOR-a. | [`naredba/1992/297335/`](naredba/1992/297335/) | in force | 1 | 1992-05-27 | 1992-05-27 |
+| Naredba o utvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o materijalnom obezbjeđenju učesnika NOR-a | [`naredba/1993/294654/`](naredba/1993/294654/) | in force | 1 | 1993-06-21 | 1993-06-21 |
+| Naredba o ugvrđivanju mjesečnih iznosa novčanih primanja po Zakonu o invalidskom dodatku i drugim pravima vojnih invalida | [`naredba/1993/298146/`](naredba/1993/298146/) | in force | 1 | 1993-06-21 | 1993-06-21 |
 | Naredba o izmjenama i dopunama Naredbe o uplatnim računima javnih prihoda | [`naredba/1994/348037/`](naredba/1994/348037/) | amending act | 1 | 1994-09-30 | 1994-09-30 |
 | Naredba o izmjeni Naredbe o zabrani prometa svinja, proizvoda od svinja koji nijesu termički obrađeni i sirovina porijeklom od svinja sa teritorije Republike Srbije na teritoriju Republike Crne Gore | [`naredba/1994/349218/`](naredba/1994/349218/) | in force | 1 | 1994-06-29 | 1994-06-29 |
 | Naredba o dopuni Naredbe o zabrani prometa svinja, proizvoda od svinja koji nijesu termički obrađeni i sirovina porijeklom od svinja sa teritorije Republike Srbije na teritoriji Republike Crne Gore | [`naredba/1995/344938/`](naredba/1995/344938/) | amending act | 1 | 1995-05-15 | 1995-05-15 |
+| Naredba o izmjeni i dopuni Naredbe o ribolovnim zabranima, ograničenjima i mjerama za zaštitu ribljeg fonda | [`naredba/1997/294726/`](naredba/1997/294726/) | amending act | 1 | 1997-10-29 | 1997-10-29 |
+| Naredba o dopuni Naredbe o ribolovnim zabranima, ograničenjima i mjerama za zaštitu ribljeg fonda | [`naredba/1997/300278/`](naredba/1997/300278/) | amending act | 1 | 1997-08-01 | 1997-08-01 |
+| Naredba o prestanku vazenja Naredbe o zabrani prometa svinja sa teritorije Republike Srbije | [`naredba/2001/300444/`](naredba/2001/300444/) | in force | 1 | 2001-11-16 | 2001-11-16 |
+| Naredba o dopuni Naredbe o zabrani prometa posiljki papkara, proizvoda sirovina i otpadaka porijeklom od papkara sa teritorije Velike Britanije, Francuske, Republike Irske i Holandije | [`naredba/2001/325779/`](naredba/2001/325779/) | amending act | 1 | 2001-08-09 | 2001-08-09 |
 | Naredba o zabrani prometa posiljki hrane za zivotinje koja sadrzi sastojke zivotinjskog porijekla | [`naredba/2001/349691/`](naredba/2001/349691/) | in force | 1 | 2001-02-02 | 2001-02-02 |
 | Naredba o uslovnom dovozu zivih svinja iz Republike Srbije u Republiku Crnu Goru | [`naredba/2001/349708/`](naredba/2001/349708/) | in force | 1 | 2001-12-05 | 2001-12-05 |
 | Naredba o Izmjeni Naredbe o zabrani prometa posiljki papkara i proizvoda, sirovina i otpadaka porijeklom od papkara sa Teritorije Velike Britanije, Francuske, Republike Irske i Holandije | [`naredba/2001/350024/`](naredba/2001/350024/) | in force | 1 | 2001-12-10 | 2001-12-10 |
+| Naredba o obaveznoj dezinfekciji prevoznih sredstava na granicnim prelazima prilikom ulaska u Republiku Crnu Goru iz AP Kosovo i Metohija i Republike Albanije | [`naredba/2002/327707/`](naredba/2002/327707/) | in force | 1 | 2002-07-08 | 2002-07-08 |
 | Naredba o prestanku vazenja Naredbe o zabrani prometa posiljki papkara, proizvoda, sirovina i otpadaka porijeklom od papkara sa teritorije Velike Britanije, Francuske, Republike Irske i Holandije | [`naredba/2002/348911/`](naredba/2002/348911/) | in force | 1 | 2002-07-09 | 2002-07-09 |
+| Naredba o izmjenama i dopunama Naredbe o nacinu uplate javnih prihoda | [`naredba/2003/325938/`](naredba/2003/325938/) | amending act | 1 | 2003-12-31 | 2003-12-31 |
+| Naredba o izmjenama i dopunama Naredbe o ribolovnim zabranima, ogranicenjima i mjerama za zastitu ribljeg fonda | [`naredba/2003/326062/`](naredba/2003/326062/) | amending act | 1 | 2003-03-29 | 2003-03-29 |
+| Naredba o izmjenama i dopunama Naredbe o nacinu uplate javnih prihoda | [`naredba/2003/332486/`](naredba/2003/332486/) | amending act | 1 | 2003-03-01 | 2003-03-01 |
 | Naredba o prestanku vazenja Naredbe o zabrani uvoza u Republiku Crnu Goru i provoza preko teritorije Republike Crne Gore posiljki ptica, proizvoda, sirovina i otpadaka porijeklom od ptica iz Belgije | [`naredba/2003/349289/`](naredba/2003/349289/) | in force | 1 | 2003-08-27 | 2003-08-27 |
 | Naredba o prestanku vazenja Naredbe o zabrani uvoza u Republiku Crnu Goru i provoza preko teritorije Republike Crne Gore posiljki ptica, proizvoda, sirovina i otpadaka porijeklom od ptica iz Njemacke | [`naredba/2003/349330/`](naredba/2003/349330/) | in force | 1 | 2003-08-27 | 2003-08-27 |
 | Naredba o mjerama za suzbijanje, sprjecavanje sirenja i iskorjenjivanje bjesnila kod zivotinja | [`naredba/2003/350036/`](naredba/2003/350036/) | in force | 1 | 2003-05-16 | 2003-05-16 |
 | Naredba o prestanku vazenja Naredbe o zabrani uvoza u Republiku Crnu Goru i provoza preko teritorije Republike Crne Gore posiljki ptica, proizvoda, sirovina i otpadaka porijeklom od ptica iz Holandije | [`naredba/2003/350102/`](naredba/2003/350102/) | in force | 1 | 2003-10-20 | 2003-10-20 |
+| Naredba o visini naknade za pregled letilista po izvrsenoj izgradnji i pregled terena poslije uredjenja | [`naredba/2004/291578/`](naredba/2004/291578/) | in force | 1 | 2004-05-15 | 2004-05-15 |
+| Naredba o visini naknade za izvrseni pregled aerodroma i objekata poslije zavrsene izgradnje, rekonstrukcije, promjene namjene ili kategorije i duze zatvorenosti | [`naredba/2004/291638/`](naredba/2004/291638/) | in force | 1 | 2004-05-15 | 2004-05-15 |
+| Naredba o izmjeni i dopuni Naredbe o vremenu u kome aerodromi moraju biti otvoreni za javni avio - transport | [`naredba/2004/291993/`](naredba/2004/291993/) | amending act | 1 | 2004-12-17 | 2004-12-17 |
+| Naredba o visini naknade za pregled vazduhoplova radi utvrdjivanja plovidbenosti | [`naredba/2004/298596/`](naredba/2004/298596/) | in force | 1 | 2004-05-15 | 2004-05-15 |
+| Naredba o visini naknade za pregled drugostepene ljekarske komisije | [`naredba/2004/298664/`](naredba/2004/298664/) | in force | 1 | 2004-05-29 | 2004-05-29 |
+| Naredba o sprovdjenju mjera zastite suma i bilja od stetnog insekta gubara | [`naredba/2004/298825/`](naredba/2004/298825/) | in force | 1 | 2004-12-04 | 2004-12-04 |
+| Naredba o visini naknade za pregled uredjaja za simuliranje leta i odobravanje programa tehnickog odrzavanja | [`naredba/2004/299292/`](naredba/2004/299292/) | in force | 1 | 2004-05-15 | 2004-05-15 |
+| Naredba o visini naknade za provjeravanje obucenosti vazduhoplovnog ovlascenog osoblja | [`naredba/2004/299354/`](naredba/2004/299354/) | in force | 1 | 2004-03-20 | 2004-03-20 |
+| Naredba o visini naknade za utvrdjivanje i provjeru uslova za obavljanje javnog avio-transporta | [`naredba/2004/299734/`](naredba/2004/299734/) | in force | 1 | 2004-06-12 | 2004-06-12 |
+| Naredba o visini naknade za utvrdjivanje i provjeru uslova za vrsenje medicinskog prevoza i pruzanje usluga iz vazduha | [`naredba/2004/299838/`](naredba/2004/299838/) | in force | 1 | 2004-06-02 | 2004-06-02 |
+| Naredba o visini naknade za provjeru da li ovlascena zdravstvena ustanova i dalje ispunjava uslove za vrsenje ljekarskih pregleda vazduhoplovnog ovlascenog osoblja | [`naredba/2004/300056/`](naredba/2004/300056/) | in force | 1 | 2004-05-29 | 2004-05-29 |
+| Naredba o visini naknade za izdavanje odobrenja za lokacijsku i projektnu dokumentaciju u vezi izgradnje ili rekonstrukcije aerodroma i drugih objekata sa stanovista bezbjednosti vazdusnog saobracaja | [`naredba/2004/325185/`](naredba/2004/325185/) | in force | 1 | 2004-05-15 | 2004-05-15 |
+| Naredba o visini naknade za izdavanje uvjerenja o osposobljenosti za obucavanje vazduhoplovnog osoblja | [`naredba/2004/327421/`](naredba/2004/327421/) | in force | 1 | 2004-06-02 | 2004-06-02 |
+| Naredba o izmjeni i dopuni Naredbe o odredjivanju vazdusnih puteva i ruta | [`naredba/2005/297212/`](naredba/2005/297212/) | amending act | 1 | 2005-02-01 | 2005-02-01 |
+| Naredbu o izmjeni i dopuni Naredbe o ribolovnim zabranima, ogranicenjima i mjerama za zastitu ribljeg fonda | [`naredba/2005/306772/`](naredba/2005/306772/) | amending act | 1 | 2005-03-17 | 2005-03-17 |
+| Naredba o izmjeni Naredbe o vremenu u kome aerodromi moraju biti otvoreni za javni avio-transport | [`naredba/2005/307335/`](naredba/2005/307335/) | in force | 1 | 2005-01-31 | 2005-01-31 |
+| Naredba o izmjeni i dopuni Naredbe o zabrani uvoza u Republiku Crnu Coru i provoza preko teritorije Republike Crne Gore pošiljki ptica, proizvoda, sirovina i otpadaka porijeklom od ptica radi sprjecavanja unosenja influence ptica | [`naredba/2005/307590/`](naredba/2005/307590/) | amending act | 1 | 2005-10-13 | 2005-10-13 |
+| Naredba o preduzimanju mjera za sprjecavanje unosenja zarazne bolesti zivotinja spongiformne encefalopatije goveda (BSE) u Republiku Crnu Goru | [`naredba/2005/307614/`](naredba/2005/307614/) | in force | 1 | 2005-04-12 | 2005-04-12 |
+| Naredba o zabrani drzanja zivine na otvorenom prostoru i mjerama koje moraju preduzimati drzaoci zivine na teritoriji Republike Crne Gore radi sprijecavanja pojave i sirenja influence ptica | [`naredba/2005/323971/`](naredba/2005/323971/) | in force | 1 | 2005-10-14 | 2005-10-14 |
 | Naredba o izmjeni Naredbe o vremenu u kome aerodromi moraju biti otvoreni za javni avio-transport | [`naredba/2005/347995/`](naredba/2005/347995/) | in force | 1 | 2005-01-12 | 2005-01-12 |
 | Naredba o dopuni Naredbe o zabrani lova na pernatu divljac na teritoriji Republike Crne Gore radi sprjecavanja pojave i sirenja influence ptica | [`naredba/2005/349626/`](naredba/2005/349626/) | amending act | 1 | 2005-12-09 | 2005-12-09 |
 | Nareba o zabrani uvoza u Republiku Crnu Goru i provoza preko teritorije Republike Crne Gore posiljki ptica proizvoda, sirovina i otpadaka porijeklom od ptica radi sprjecavanja unosenja influence ptica | [`naredba/2005/349982/`](naredba/2005/349982/) | in force | 1 | 2005-10-03 | 2005-10-03 |
+| Naredba o prestanku vazenja Naredbe o zabrani drzanja zivine na otvorenom i mjerama koje moraju preduzimati drzaoci zivine na teritoriji Republike Crne Gore radi sprejcavanja pojave i sirenja influence ptica | [`naredba/2006/299526/`](naredba/2006/299526/) | in force | 1 | 2006-06-30 | 2006-06-30 |
+| Naredba o vremenu u kome aerodromi moraju biti otvoreni za javni avio-transport, u zimskom periodu 2006/2007. godine | [`naredba/2006/300498/`](naredba/2006/300498/) | in force | 1 | 2006-10-29 | 2006-10-29 |
+| Naredba o uslovnom dovozu i prometu posiljki zivih svinja sa teritorije Republike Srbije radi sprjecavanja unosenja u Republiku Crnu Goru bolesti klasicne kuge svinja | [`naredba/2007/307167/`](naredba/2007/307167/) | in force | 1 | 2007-05-11 | 2007-05-11 |
+| Naredba o vrstama i oblicima zigova i drugih znakova koji se upotrebljavaju pri ovjeravanju mjerila | [`naredba/2007/323898/`](naredba/2007/323898/) | in force | 1 | 2007-01-25 | 2007-01-25 |
+| Naredba o preduzimanju mjera za sprjecavanje unosenja zarazne bolesti zivotinja transmisivnih spongiformnih encefalopatija u Crnu Goru | [`naredba/2008/325333/`](naredba/2008/325333/) | in force | 1 | 2008-07-22 | 2008-07-22 |
+| Naredba o preduzimanju mjera za sprjecavanje unosenja zarazne bolesti zivotinja slinavke i sapa u Crnu Goru | [`naredba/2008/336791/`](naredba/2008/336791/) | in force | 1 | 2008-07-22 | 2008-07-22 |
+| Odluka o uskladjivanju osnova za odredjivanje novcane naknade za tjelesno ostecenje od 1.jula 2009.godine | [`naredba/2009/298944/`](naredba/2009/298944/) | in force | 1 | 2009-08-01 | 2009-08-01 |
+| Naredba o vremenu u kojem aerodromi moraju biti otvoreni za javni vazdusni saobracaj | [`naredba/2009/300085/`](naredba/2009/300085/) | in force | 1 | 2009-04-01 | 2009-04-01 |
+| Naredba o zabrani utvrdjivanja participacije troskova obrazovanja ucenika | [`naredba/2009/337797/`](naredba/2009/337797/) | in force | 1 | 2009-02-05 | 2009-02-05 |
+| Naredba o vremenu u kojem aerodromi moraju biti otvoreni za javni vazdusni saobracaj | [`naredba/2011/320457/`](naredba/2011/320457/) | in force | 1 | 2011-03-19 | 2011-03-19 |
+| Naredba o zabrani upotrebe i tretiranja životinja koje se uzgajaju određenim supstancama i veterinarskim ljekovima | [`naredba/2013/305971/`](naredba/2013/305971/) | in force | 1 | 2013-08-07 | 2013-08-07 |
+| Naredba o izmjenama i dopunama Naredbe o ribolovnim zabranama, ograničenjima i mjerama za zaštitu ribljeg fonda | [`naredba/2013/330971/`](naredba/2013/330971/) | amending act | 1 | 2013-04-13 | 2013-04-13 |
+| Naredba o zabrani unošenja krtola merkantilnog krompira porijeklom iz Egipta | [`naredba/2014/325135/`](naredba/2014/325135/) | in force | 1 | 2014-07-08 | 2014-07-08 |
+| Naredba o lovostaju uzrasnih klasa riba i drugih morskih organizama | [`naredba/2015/313895/`](naredba/2015/313895/) | in force | 1 | 2015-06-03 | 2015-06-03 |
+| Naredba o dodatnim mjerama za kretanje - premještanje prijemčivih životinja (preživara) radi sprječavanja širenja bolesti plavog jezika | [`naredba/2015/315596/`](naredba/2015/315596/) | in force | 1 | 2015-06-26 | 2015-06-26 |
+| Naredba o vremenskom periodu i putu, odnosno djelovima puta na kojima je obavezna upotreba zimske opreme | [`naredba/2015/316461/`](naredba/2015/316461/) | in force | 1 | 2015-02-18 | 2015-02-18 |
+| Naredba o zabrani unošenja bilja Catharanthus G. Don, Nerium L., Olea L., Prunus L., Malva L., Portulaca L., Quercus L., i Sorghum L. porijeklom iz Italije - Pokrajina Apulija | [`naredba/2015/317655/`](naredba/2015/317655/) | in force | 1 | 2015-05-19 | 2015-05-19 |
+| Naredba o sprovođenju hitnih fitosanitarnih mjera radi sprječavanja širenja i suzbijanja crvenog surlaša palmi rhynchophorus ferrugineus | [`naredba/2015/319058/`](naredba/2015/319058/) | in force | 1 | 2015-04-28 | 2015-04-28 |
+| Naredba o zabrani lova jarebice kamenjarke (alectoris graeca meisner.) | [`naredba/2015/320558/`](naredba/2015/320558/) | in force | 1 | 2015-12-14 | 2015-12-14 |
+| Naredba o sprovođenju hitnih fitosanitarnih mjera radi sprječavanja unošenja i širenja crvenog surlaša palmi rhynchophorus ferrugineus | [`naredba/2015/330259/`](naredba/2015/330259/) | in force | 1 | 2015-03-13 | 2015-03-13 |
+| Naredba o vremenskom periodu i putu odnosno djelovima puta na kojima je obavezna upotreba zimske opreme | [`naredba/2016/294215/`](naredba/2016/294215/) | in force | 1 | 2016-11-11 | 2016-11-11 |
+| Naredba o zabrani unošenja bilja-colocasia schott, momordica l., solanum melongena l. i trichosanthes l., porijeklom iz Indije | [`naredba/2016/309000/`](naredba/2016/309000/) | in force | 1 | 2016-09-10 | 2016-09-10 |
+| Naredba o zabrani uvoza plastičnih materijala i predmeta od poliamida i melamina koji dolaze u kontakt sa hranom porijeklom iz Narodne Republike Kine odnosno Hong Konga | [`naredba/2016/309462/`](naredba/2016/309462/) | in force | 1 | 2016-09-07 | 2016-09-07 |
+| Naredba o mjerama za sprječavanje širenja i iskorjenjivanje bolesti kvrgave kože (Lumpy Skin Disease) | [`naredba/2016/309964/`](naredba/2016/309964/) | in force | 1 | 2016-08-23 | 2016-08-23 |
+| Naredba o mjerama za sprječavanje širenja i iskorjenjivanje bolesti kvrgave kože (lumpy skin disease) | [`naredba/2016/316762/`](naredba/2016/316762/) | in force | 1 | 2016-07-29 | 2016-07-29 |
+| Naredba o zabrani uvoza i tranzita pošiljki živine, ptica i proizvoda od živine i ptica radi sprečavanja unošenja visoko patogene avijarne influence | [`naredba/2016/319492/`](naredba/2016/319492/) | in force | 1 | 2016-12-01 | 2016-12-01 |
+| Naredba o zabrani držanja živine na otvorenom prostoru i sprovođenju mjera za sprečavanje pojave i širenja visoko patogene avijarne influence | [`naredba/2016/328017/`](naredba/2016/328017/) | in force | 1 | 2016-12-28 | 2016-12-28 |
+| Naredba o izmjeni i dopunama Naredbe o načinu uplate javnih prihoda | [`naredba/2016/330225/`](naredba/2016/330225/) | amending act | 1 | 2017-01-08 | 2017-01-08 |
+| Naredba o izmjeni i dopunama Naredbe o zabrani uvoza i tranzita pošiljki životinja i proizvoda životinjskog porijekla radi sprječavanja unošenja bolesti kvrgave kože (lumpy skin disease) u Crnu Goru | [`naredba/2016/331264/`](naredba/2016/331264/) | amending act | 1 | 2016-07-06 | 2016-07-06 |
+| Naredba o zabrani uvoza i tranzita pošiljki živine, ptica i proizvoda od živine i ptica radi sprečavanja unošenja atipične kuge živine (Newcastle disease) | [`naredba/2016/331532/`](naredba/2016/331532/) | in force | 1 | 2016-12-01 | 2016-12-01 |
 | Naredba o dopuni Naredbe o zabrani uvoza i tranzita pošiljki životinja i proizvoda životinjskog porijekla radi sprječavanja unošenja bolesti kvrgave kože (Lumpy skin disease) u Crnu Goru | [`naredba/2016/348005/`](naredba/2016/348005/) | amending act | 1 | 2016-07-25 | 2016-07-25 |
+| Naredba o izmjeni i dopuni Naredbe o ribolovnim zabranama, ograničenjima i mjerama za zaštitu ribljeg fonda | [`naredba/2017/294170/`](naredba/2017/294170/) | amending act | 1 | 2017-07-27 | 2017-07-27 |
+| Naredba o zabrani unošenja bilja capsicum l., lagenaria ser., luffa mill., momordica l. i solanum l. osim s. lycopersicum l., porijeklom iz Gane | [`naredba/2017/310489/`](naredba/2017/310489/) | in force | 1 | 2017-10-21 | 2017-10-21 |
+| Naredba o preduzimanju fitosanitarnih mjera za sprečavanje širenja i iskorijenjivanje štetnog organizma glavnice - Tilletia spp. | [`naredba/2017/311900/`](naredba/2017/311900/) | in force | 1 | 2017-04-29 | 2017-04-29 |
+| Naredba o dopuni Naredbe o sprovođenju fitosanitarnih mjera radi sprečavanja širenja i suzbijanja crvenog surlaša palmi Rhynchophorus ferrugineus | [`naredba/2017/329147/`](naredba/2017/329147/) | amending act | 1 | 2017-12-23 | 2017-12-23 |
+| Naredba o zabrani upotrebe i tretiranja životinja koje se uzgajaju određenim supstancama i veterinarskim ljekovima | [`naredba/2018/291930/`](naredba/2018/291930/) | in force | 1 | 2018-11-27 | 2018-11-27 |
+| Naredba o hitnim fitosanitarnim mjerama za sprečavanje unošenja zlatne žutice vinove loze | [`naredba/2018/314620/`](naredba/2018/314620/) | in force | 1 | 2018-03-31 | 2018-03-31 |
+| Naredba o zabrani uvoza i tranzita pošiljki ovaca i koza, mesa i proizvoda od ovaca i koza radi sprečavanja unošenja naročito opasne zarazne bolesti kuge malih preživara | [`naredba/2018/316097/`](naredba/2018/316097/) | in force | 1 | 2018-08-10 | 2018-08-10 |
+| Naredba o izmjeni i dopuni Naredbe o sprovođenju fitosanitarnih mjera radi sprečavanja širenja i suzbijanja crvenog surlaša palmi rhynchophorus ferrugineus | [`naredba/2018/318090/`](naredba/2018/318090/) | amending act | 1 | 2018-03-17 | 2018-03-17 |
+| Naredba o zabrani uvoza i tranzita pošiljki domaćih i divljih svinja, mesa i proizvoda od svinja radi sprečavanja unošenja opasne zarazne bolesti afričke kuge svinja | [`naredba/2018/319862/`](naredba/2018/319862/) | in force | 1 | 2018-03-05 | 2018-03-05 |
+| Naredba o izmjeni Naredbe o zabrani lova i stavljanja u promet riblje mlađi, nedoraslih riba i drugih morskih organizama | [`naredba/2018/321085/`](naredba/2018/321085/) | in force | 1 | 2018-12-14 | 2018-12-14 |
+| Naredba o vremenskom periodu i putu, odnosno djelovima puta na kojima je obavezna upotreba zimske opreme | [`naredba/2018/331785/`](naredba/2018/331785/) | in force | 1 | 2018-11-05 | 2018-11-05 |
+| Naredba o izmjeni Naredbe o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2019/309057/`](naredba/2019/309057/) | in force | 1 | 2019-12-06 | 2019-12-06 |
+| Naredba o zabrani uvoza hrane koja sadrži ili se sastoji od listova BETELA (Piper Betle) porijeklom iz Bangladeša | [`naredba/2019/314544/`](naredba/2019/314544/) | in force | 1 | 2019-03-16 | 2019-03-16 |
+| Naredba o izmjenama i dopuni Naredbe o načinu uplate javnih prihoda | [`naredba/2019/315028/`](naredba/2019/315028/) | amending act | 1 | 2019-07-06 | 2019-07-06 |
+| Naredba o vremenskom periodu i putu odnosno djelovima puta na kojima je obavezna upotreba zimske opreme | [`naredba/2019/331629/`](naredba/2019/331629/) | in force | 1 | 2019-11-12 | 2019-11-12 |
+| Naredba o izmjenama Naredbe o zabrani unošenja bilja radi sprečavanja unošenja i širenja štetnog organizma Xylella fastidiosa (Wells et al.) | [`naredba/2019/333086/`](naredba/2019/333086/) | in force | 1 | 2019-12-14 | 2019-12-14 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/293212/`](naredba/2020/293212/) | in force | 1 | 2020-06-01 | 2020-06-01 |
+| Naredba o izmjeni i dopuni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/293701/`](naredba/2020/293701/) | amending act | 1 | 2020-07-22 | 2020-07-22 |
+| Naredba o zabrani uvoza osušenog pasulja porijeklom iz Nigerije* | [`naredba/2020/310095/`](naredba/2020/310095/) | in force | 1 | 2020-05-27 | 2020-05-27 |
+| Naredba o izmjeni i dopuni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/310266/`](naredba/2020/310266/) | amending act | 1 | 2020-06-05 | 2020-06-05 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/310760/`](naredba/2020/310760/) | in force | 1 | 2020-09-03 | 2020-09-03 |
+| Naredba o prestanku važenja Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/311239/`](naredba/2020/311239/) | in force | 1 | 2020-04-21 | 2020-04-21 |
+| Naredba o izmjeni i dopuni Naredbe o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2020/311880/`](naredba/2020/311880/) | amending act | 1 | 2020-07-26 | 2020-07-26 |
+| Naredba o proglašavanju epidemije zarazne bolesti COVID 19 | [`naredba/2020/312318/`](naredba/2020/312318/) | in force | 1 | 2020-03-26 | 2020-03-26 |
+| Naredba o mjerama za utvrđivanje prisutnosti genetički modifikovanog pirinča i proizvoda od pirinča porijeklom iz kine prilikom uvoza | [`naredba/2020/312672/`](naredba/2020/312672/) | in force | 1 | 2020-02-28 | 2020-02-28 |
+| Naredba o mjerama koje se sprovode na proizvodima akvakulture namijenjenim za ishranu ljudi prilikom uvoza iz Indije* | [`naredba/2020/313249/`](naredba/2020/313249/) | in force | 1 | 2020-03-17 | 2020-03-17 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/313315/`](naredba/2020/313315/) | in force | 1 | 2020-09-09 | 2020-09-09 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/313778/`](naredba/2020/313778/) | in force | 1 | 2020-04-23 | 2020-04-23 |
+| Naredba o proglašavanju prestanka epidemije zarazne bolesti COVID 19 | [`naredba/2020/313812/`](naredba/2020/313812/) | in force | 1 | 2020-06-03 | 2020-06-03 |
+| Naredba o izmjenama Naredbe o ribolovnim zabranima, lovostaju i minimalnim veličinama riba i drugih vodenih organizama ispod kojih je zabranjen ulov | [`naredba/2020/314716/`](naredba/2020/314716/) | in force | 1 | 2020-01-28 | 2020-01-28 |
+| Naredba o sprovođenju mjera prilikom uvoza školjki porijeklom iz Turske namijenjenih ishrani ljudi* | [`naredba/2020/315726/`](naredba/2020/315726/) | in force | 1 | 2020-05-27 | 2020-05-27 |
+| Naredba o prestanku važenja Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/320047/`](naredba/2020/320047/) | in force | 1 | 2020-06-05 | 2020-06-05 |
+| Naredba o sprovođenju fitosanitarnih mjera radi sprečavanja širenja štetnog organizma Citrus tristeza virus (CTV) | [`naredba/2020/320910/`](naredba/2020/320910/) | in force | 1 | 2020-11-12 | 2020-11-12 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/322092/`](naredba/2020/322092/) | in force | 1 | 2020-05-05 | 2020-05-05 |
+| Naredba o preduzimanju mjera za sprečavanje unošenja zarazne bolesti životinja transmisivnih spongioformnih encefalopatija i bolesti životinja koje se mogu prenijeti nus proizvodima životinjskog porijekla u Crnu Goru* | [`naredba/2020/322448/`](naredba/2020/322448/) | in force | 1 | 2020-02-05 | 2020-02-05 |
+| Naredba o izmjeni i dopuni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/323244/`](naredba/2020/323244/) | amending act | 1 | 2020-06-26 | 2020-06-26 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/327931/`](naredba/2020/327931/) | in force | 1 | 2020-06-01 | 2020-06-01 |
+| Naredba o izmjenama Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/328125/`](naredba/2020/328125/) | in force | 1 | 2020-12-08 | 2020-12-08 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/328565/`](naredba/2020/328565/) | in force | 1 | 2020-09-25 | 2020-09-25 |
+| Naredba o izmjeni i dopuni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/328661/`](naredba/2020/328661/) | amending act | 1 | 2020-04-08 | 2020-04-08 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/329565/`](naredba/2020/329565/) | in force | 1 | 2020-05-15 | 2020-05-15 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/330518/`](naredba/2020/330518/) | in force | 1 | 2020-04-28 | 2020-04-28 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/331354/`](naredba/2020/331354/) | in force | 1 | 2020-04-02 | 2020-04-02 |
+| Naredba o izmjeni i dopuni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/331589/`](naredba/2020/331589/) | amending act | 1 | 2020-07-27 | 2020-07-27 |
+| Naredba o vremenskom periodu i putu odnosno djelovima puta na kojima je obavezna upotreba pneumatika za zimsku upotrebu | [`naredba/2020/331728/`](naredba/2020/331728/) | in force | 1 | 2020-11-14 | 2020-11-14 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/332853/`](naredba/2020/332853/) | in force | 1 | 2020-08-17 | 2020-08-17 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/333263/`](naredba/2020/333263/) | in force | 1 | 2020-08-15 | 2020-08-15 |
+| Naredba o izmjenama Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/333660/`](naredba/2020/333660/) | in force | 1 | 2020-12-23 | 2020-12-23 |
+| Naredba o izmjenama i dopuni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/334673/`](naredba/2020/334673/) | amending act | 1 | 2020-03-20 | 2020-03-20 |
+| Naredba o izmjeni i dopuni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/334772/`](naredba/2020/334772/) | amending act | 1 | 2020-03-19 | 2020-03-19 |
+| Naredba za preduzimanje privremene mjere za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/335209/`](naredba/2020/335209/) | in force | 1 | 2020-03-22 | 2020-03-22 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/335295/`](naredba/2020/335295/) | in force | 1 | 2020-04-02 | 2020-04-02 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/335307/`](naredba/2020/335307/) | in force | 1 | 2020-04-02 | 2020-04-02 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/335510/`](naredba/2020/335510/) | in force | 1 | 2020-03-31 | 2020-03-31 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/335847/`](naredba/2020/335847/) | in force | 1 | 2020-04-08 | 2020-04-08 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/335848/`](naredba/2020/335848/) | in force | 1 | 2020-04-08 | 2020-04-08 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/335916/`](naredba/2020/335916/) | in force | 1 | 2020-04-23 | 2020-04-23 |
+| Naredba o izmjeni naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336084/`](naredba/2020/336084/) | in force | 1 | 2020-04-16 | 2020-04-16 |
+| Naredba o izmjeni naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336085/`](naredba/2020/336085/) | in force | 1 | 2020-04-16 | 2020-04-16 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336096/`](naredba/2020/336096/) | in force | 1 | 2020-04-21 | 2020-04-21 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336097/`](naredba/2020/336097/) | in force | 1 | 2020-04-21 | 2020-04-21 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336120/`](naredba/2020/336120/) | in force | 1 | 2020-04-15 | 2020-04-15 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336121/`](naredba/2020/336121/) | in force | 1 | 2020-04-15 | 2020-04-15 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336167/`](naredba/2020/336167/) | in force | 1 | 2020-04-21 | 2020-04-21 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336285/`](naredba/2020/336285/) | in force | 1 | 2020-04-28 | 2020-04-28 |
+| Naredba o izmjeni i dopuni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336483/`](naredba/2020/336483/) | amending act | 1 | 2020-04-28 | 2020-04-28 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336493/`](naredba/2020/336493/) | in force | 1 | 2020-04-28 | 2020-04-28 |
+| Naredba o prestanku važenja Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336555/`](naredba/2020/336555/) | in force | 1 | 2020-05-19 | 2020-05-19 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336625/`](naredba/2020/336625/) | in force | 1 | 2020-05-15 | 2020-05-15 |
+| Naredba o izmjeni naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336658/`](naredba/2020/336658/) | in force | 1 | 2020-05-13 | 2020-05-13 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336727/`](naredba/2020/336727/) | in force | 1 | 2020-05-19 | 2020-05-19 |
+| Naredba o izmjeni naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/336765/`](naredba/2020/336765/) | in force | 1 | 2020-05-13 | 2020-05-13 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/337010/`](naredba/2020/337010/) | in force | 1 | 2020-06-01 | 2020-06-01 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/337011/`](naredba/2020/337011/) | in force | 1 | 2020-06-01 | 2020-06-01 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/337012/`](naredba/2020/337012/) | in force | 1 | 2020-06-01 | 2020-06-01 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/337032/`](naredba/2020/337032/) | in force | 1 | 2020-05-21 | 2020-05-21 |
+| Naredba o dopunama Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/337331/`](naredba/2020/337331/) | amending act | 1 | 2020-06-18 | 2020-06-18 |
+| Naredba o izmjeni i dopuni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/337460/`](naredba/2020/337460/) | amending act | 1 | 2020-06-08 | 2020-06-08 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/337495/`](naredba/2020/337495/) | in force | 1 | 2020-06-26 | 2020-06-26 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/337505/`](naredba/2020/337505/) | in force | 1 | 2020-06-26 | 2020-06-26 |
+| Naredba o izmjeni naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/337521/`](naredba/2020/337521/) | in force | 1 | 2020-06-21 | 2020-06-21 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/337906/`](naredba/2020/337906/) | in force | 1 | 2020-07-02 | 2020-07-02 |
+| Naredba o prestanku važenja Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/337918/`](naredba/2020/337918/) | in force | 1 | 2020-07-02 | 2020-07-02 |
+| Naredba o prestanku važenja Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/337919/`](naredba/2020/337919/) | in force | 1 | 2020-07-02 | 2020-07-02 |
+| Naredba o prestanku važenja Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/337920/`](naredba/2020/337920/) | in force | 1 | 2020-07-02 | 2020-07-02 |
+| Naredba o izmjeni naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/338075/`](naredba/2020/338075/) | in force | 1 | 2020-07-06 | 2020-07-06 |
 | Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/338226/`](naredba/2020/338226/) | in force | 1 | 2020-07-23 | 2020-07-23 |
 | Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/338345/`](naredba/2020/338345/) | in force | 1 | 2020-07-15 | 2020-07-15 |
 | Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/338348/`](naredba/2020/338348/) | in force | 1 | 2020-07-22 | 2020-07-22 |
@@ -29,9 +192,30 @@
 | Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/338607/`](naredba/2020/338607/) | in force | 1 | 2020-08-17 | 2020-08-17 |
 | Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/338952/`](naredba/2020/338952/) | in force | 1 | 2020-09-30 | 2020-09-30 |
 | Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2020/339000/`](naredba/2020/339000/) | in force | 1 | 2020-09-25 | 2020-09-25 |
+| Naredba o zabrani prodaje i upotrebe pirotehničkih sredstava razreda II - petardi | [`naredba/2021/291390/`](naredba/2021/291390/) | in force | 1 | 2021-10-12 | 2021-10-12 |
+| Naredba o vremenskom periodu i putu odnosno djelovima puta na kojima je obavezna upotreba pneumatika za zimsku upotrebu | [`naredba/2021/294069/`](naredba/2021/294069/) | in force | 1 | 2021-11-12 | 2021-11-12 |
+| Naredba o zabrani uvoza i tranzita pošiljki živine, ptica i proizvoda od živine i ptica radi sprečavanja unošenja visoko patogene avijarne influence | [`naredba/2021/309519/`](naredba/2021/309519/) | in force | 1 | 2021-04-23 | 2021-04-23 |
+| Naredba o izmjeni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2021/310651/`](naredba/2021/310651/) | in force | 1 | 2021-01-18 | 2021-01-18 |
+| Naredba o izmjenama i dopunama Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2021/320507/`](naredba/2021/320507/) | amending act | 1 | 2021-03-25 | 2021-03-25 |
+| Naredba o hitnim fitosanitarnim mjerama za sprečavanje širenja i suzbijanje zlatne žutice vinove loze | [`naredba/2021/320734/`](naredba/2021/320734/) | in force | 1 | 2021-09-28 | 2021-09-28 |
+| Naredba o hitnim mjerama radi sprečavanja unošenja i širenja štetnog organizma virusa Rose Rosette* | [`naredba/2021/322205/`](naredba/2021/322205/) | in force | 1 | 2021-07-03 | 2021-07-03 |
+| Naredba o izmjeni i dopunama Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2021/328632/`](naredba/2021/328632/) | amending act | 1 | 2021-03-13 | 2021-03-13 |
+| Naredbu o izmjenama i dopunama Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2021/331012/`](naredba/2021/331012/) | amending act | 1 | 2021-03-11 | 2021-03-11 |
+| Naredba o izmjeni Naredbe o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2021/332861/`](naredba/2021/332861/) | in force | 1 | 2021-10-28 | 2021-10-28 |
+| Naredba o izmjenama i dopuni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2021/332987/`](naredba/2021/332987/) | amending act | 1 | 2021-03-20 | 2021-03-20 |
+| Naredba o izmjenama i dopuni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2021/335054/`](naredba/2021/335054/) | amending act | 1 | 2021-03-04 | 2021-03-04 |
+| Naredba o izmjenama i dopunama Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2021/335378/`](naredba/2021/335378/) | amending act | 1 | 2021-03-18 | 2021-03-18 |
+| Naredba o izmjenama i dopuni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2021/336556/`](naredba/2021/336556/) | amending act | 1 | 2021-04-30 | 2021-04-30 |
+| Naredba o izmjenama Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2021/336773/`](naredba/2021/336773/) | in force | 1 | 2021-04-24 | 2021-04-24 |
 | Naredba o prestanku važenja Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2021/339035/`](naredba/2021/339035/) | in force | 1 | 2021-09-16 | 2021-09-16 |
 | Naredba o izmjeni i dopuni Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2021/348072/`](naredba/2021/348072/) | amending act | 1 | 2021-07-17 | 2021-07-17 |
+| Naredba o zabrani uvoza i uzgoja sjemena konoplje (Cannabis sativa L.) sorte FINOLA* | [`naredba/2022/293013/`](naredba/2022/293013/) | in force | 1 | 2022-12-24 | 2022-12-24 |
+| Naredba o izmjenama i dopunama Naredbe o ribolovnim zabranima, lovostaju i minimalnim veličinama riba i drugih vodenih organizama ispod kojih je zabranjen ulov | [`naredba/2022/311527/`](naredba/2022/311527/) | amending act | 1 | 2022-03-29 | 2022-03-29 |
+| Naredba o ribolovnom zabranu na ribolovnom području "Skadarsko jezero" oko rezervata Pančeva oka | [`naredba/2022/323410/`](naredba/2022/323410/) | in force | 1 | 2022-04-08 | 2022-04-08 |
+| Naredba o zabrani prodaje i upotrebe pirotehničkih sredstava razreda II - petardi | [`naredba/2022/333460/`](naredba/2022/333460/) | in force | 1 | 2022-10-19 | 2022-10-19 |
+| Naredba o izmjenama Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2022/334668/`](naredba/2022/334668/) | in force | 1 | 2022-01-10 | 2022-01-10 |
 | Naredba o izmjenama Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2022/339037/`](naredba/2022/339037/) | in force | 1 | 2022-09-06 | 2022-09-06 |
+| Naredba o zabrani upotrebe olovne sačme u močvarnim područjima | [`naredba/2023/332370/`](naredba/2023/332370/) | in force | 1 | 2023-02-11 | 2023-02-11 |
 | Naredba o vremenskom periodu i putu odnosno djelovima puta na kojima je obavezna upotreba pneumatika za zimsku upotrebu | [`naredba/2023/362615/`](naredba/2023/362615/) | in force | 1 | 2023-11-04 | 2023-11-04 |
 | Naredba o zabrani prodaje i upotrebe pirotehničkih sredstava razreda II - petardi | [`naredba/2023/362646/`](naredba/2023/362646/) | in force | 1 | 2023-10-25 | 2023-10-25 |
 | Naredba o izmjenama Naredbe za preduzimanje privremenih mjera za sprječavanje unošenja u zemlju, suzbijanje i sprječavanje prenošenja novog koronavirusa | [`naredba/2023/363257/`](naredba/2023/363257/) | in force | 1 | 2023-05-05 | 2023-05-05 |
@@ -62,25 +246,39 @@
 | Odluka o osnivanju jednoclanog Akcionarskog drustva Posta Crne Gore Podgorica | [`odluka/2011/337606/`](odluka/2011/337606/) | in force | 1 | 2011-12-16 | 2011-12-16 |
 | Odluka o izmjenama Odluke o osnivanju drustva sa ogranicenom odgovornoscu "Crnogorski operator trzista elektricne energije" - Podgorica | [`odluka/2011/337611/`](odluka/2011/337611/) | in force | 1 | 2011-12-24 | 2011-12-24 |
 
-## poslovnik (26)
+## poslovnik (40)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Poslovnik o radu Savjeta | [`poslovnik/1992/296160/`](poslovnik/1992/296160/) | in force | 1 | 1992-04-30 | 1992-04-30 |
 | Poslovnik Vlade Republike Crne Gore. | [`poslovnik/1992/349867/`](poslovnik/1992/349867/) | in force | 1 | 1992-05-16 | 1992-05-16 |
 | Poslovnik Ustavnog suda Republike Crne Gore. | [`poslovnik/1993/349580/`](poslovnik/1993/349580/) | in force | 1 | 1993-12-18 | 1993-12-18 |
+| Poslovnik Vlade Republike Crne Gore | [`poslovnik/2001/324256/`](poslovnik/2001/324256/) | in force | 1 | 2001-09-22 | 2001-09-22 |
+| Pravilnik o numeraciji i adresiranju u telekomunikacijama | [`poslovnik/2005/297852/`](poslovnik/2005/297852/) | in force | 1 | 2005-11-11 | 2005-11-11 |
 | Poslovnik Drzavne revizorske institucije | [`poslovnik/2005/349764/`](poslovnik/2005/349764/) | in force | 1 | 2005-01-26 | 2005-01-26 |
 | Poslovnik o radu Komisije za sprovođenje referenduma o državnom statusu Republike Crne Gore u Opstini Zabljak | [`poslovnik/2006/348393/`](poslovnik/2006/348393/) | in force | 1 | 2006-05-05 | 2006-05-05 |
 | Poslovnik o radu Komisije za sprovođenje referenduma o državnom statusu Republike Crne Gore u Opstini Cetinje | [`poslovnik/2006/348394/`](poslovnik/2006/348394/) | in force | 1 | 2006-04-27 | 2006-04-27 |
 | Poslovnik o radu Republicke komisije za sprovodjenje referenduma o drzavnom statusu Republike Crne Gore | [`poslovnik/2006/349216/`](poslovnik/2006/349216/) | in force | 1 | 2006-03-29 | 2006-03-29 |
+| Poslovnik o radu Nacionalne komisije za implementaciju Akcionog plana za sprovodjenje Programa borbe protiv korupcije i organizovanog kriminala | [`poslovnik/2007/325855/`](poslovnik/2007/325855/) | in force | 1 | 2007-06-29 | 2007-06-29 |
 | Poslovnik Drzavne revizorske institucije | [`poslovnik/2007/348530/`](poslovnik/2007/348530/) | in force | 1 | 2007-08-25 | 2007-08-25 |
+| P r a v i l n i k o uslovima i nacinu organizovanja predskolskog vaspitanja i obrazovanja u porodici | [`poslovnik/2009/309092/`](poslovnik/2009/309092/) | in force | 1 | 2009-07-11 | 2009-07-11 |
+| Poslovnik Ustavnog suda Crne Gore | [`poslovnik/2009/335670/`](poslovnik/2009/335670/) | in force | 1 | 2009-05-28 | 2009-05-28 |
 | Poslovnik o radu Komisije za sprijecavanje sukoba interesa | [`poslovnik/2009/338456/`](poslovnik/2009/338456/) | in force | 1 | 2009-12-08 | 2009-12-08 |
+| Poslovnik o radu Skupstine opstine Niksic | [`poslovnik/2011/301610/`](poslovnik/2011/301610/) | in force | 1 | 2011-04-16 | 2011-04-16 |
+| Poslovnik Tuzilackog savjeta | [`poslovnik/2011/306528/`](poslovnik/2011/306528/) | in force | 1 | 2011-11-04 | 2011-11-04 |
+| P O S L O V N I K skupstine Glavnog grada | [`poslovnik/2011/322221/`](poslovnik/2011/322221/) | in force | 1 | 2011-05-14 | 2011-05-14 |
 | Poslovnik Skupstine Prijestonice Cetinje | [`poslovnik/2011/341249/`](poslovnik/2011/341249/) | in force | 1 | 2011-07-19 | 2011-07-19 |
 | Poslovnik o radu Skupštine opštine Rožaje | [`poslovnik/2012/341332/`](poslovnik/2012/341332/) | in force | 1 | 2012-01-20 | 2012-01-20 |
 | Poslovnik o radu Izborne komisije Glavnog grada-Podgorice | [`poslovnik/2012/342078/`](poslovnik/2012/342078/) | in force | 1 | 2012-10-01 | 2012-10-01 |
+| Poslovnik o radu Državne izborne komisije | [`poslovnik/2013/317920/`](poslovnik/2013/317920/) | in force | 1 | 2013-02-08 | 2013-02-08 |
 | Privremeni poslovnik o radu Skupštine opštine Gusinje | [`poslovnik/2014/342974/`](poslovnik/2014/342974/) | in force | 1 | 2014-08-26 | 2014-08-26 |
 | Poslovnik o radu Skupštine opštine Bar | [`poslovnik/2018/378286/`](poslovnik/2018/378286/) | in force | 1 | 2018-12-25 | 2018-12-25 |
 | Poslovnik o radu Skupštine opštine Nikšić | [`poslovnik/2018/388400/`](poslovnik/2018/388400/) | in force | 1 | 2019-01-05 | 2019-01-05 |
+| Poslovnik Skupštine opštine u okviru Glavnog grada-Golubovci | [`poslovnik/2019/292651/`](poslovnik/2019/292651/) | in force | 1 | 2019-08-01 | 2019-08-01 |
+| Poslovnik o radu Nadzornog odbora Inženjerske komore Crne Gore | [`poslovnik/2019/320912/`](poslovnik/2019/320912/) | in force | 1 | 2019-02-14 | 2019-02-14 |
+| Poslovnik o radu Skupštine Inženjerske komore Crne Gore | [`poslovnik/2019/337573/`](poslovnik/2019/337573/) | in force | 1 | 2019-01-30 | 2019-01-30 |
 | Poslovnik Skupštine opštine Berane | [`poslovnik/2019/388428/`](poslovnik/2019/388428/) | in force | 1 | 2019-06-19 | 2019-06-19 |
+| Poslovnik o radu izborne komisije glavnog grada-Podgorice | [`poslovnik/2020/323710/`](poslovnik/2020/323710/) | in force | 1 | 2020-07-31 | 2020-07-31 |
 | Poslovnik Odbora povjerenika Opštine Tivat | [`poslovnik/2022/339470/`](poslovnik/2022/339470/) | in force | 1 | 2022-03-28 | 2022-03-28 |
 | Poslovnik o radu Odbora povjerenika Opštine Budva | [`poslovnik/2022/342458/`](poslovnik/2022/342458/) | in force | 1 | 2022-07-19 | 2022-07-19 |
 | Poslovnik o radu Skupštine opštine Nikšić | [`poslovnik/2024/368081/`](poslovnik/2024/368081/) | in force | 1 | 2024-04-17 | 2024-04-17 |
@@ -93,23 +291,46 @@
 | Poslovnik o radu Disciplinskog tužioca i Disciplinskog organa Inženjerske komore Crne Gore | [`poslovnik/2026/394183/`](poslovnik/2026/394183/) | in force | 1 | 2026-05-16 | 2026-05-16 |
 | Poslovnik Skupštine opštine Bijelo Polje | [`poslovnik/2026/397882/`](poslovnik/2026/397882/) | in force | 1 | 2026-09-15 | 2026-09-15 |
 
-## pravila (129, of which 12 amending acts)
+## pravila (259, of which 53 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Pravila o sprovođenju javne rasprave o referendumu putem sredstava informisanja. | [`pravila/1992/296250/`](pravila/1992/296250/) | in force | 1 | 1992-02-02 | 1992-02-02 |
 | Pravila o određivanju i uređivanju biračkih mjesta, načinu ponašanja na biračkom mjestu i o mjerama kojima se obezbjeđuje tajnost glasanja | [`pravila/1996/363377/`](pravila/1996/363377/) | in force | 1 | 1996-08-06 | 1996-08-06 |
 | Pravila o broju i trajanju emisija, odnosno načinu i drugim uslovima ravnopravnog predstavljanja podnosilaca izbornih lista, kao i iznošenju i obrazlaganju izbornih programa | [`pravila/1996/363451/`](pravila/1996/363451/) | in force | 1 | 1996-08-04 | 1996-08-04 |
+| Pravila o određivanju i uređivanju biračkih mjesta i načinu ponašanja na biračkom mjestu i o mjerama kojima se obezbjeđuje tajnost glasanja | [`pravila/1997/296068/`](pravila/1997/296068/) | in force | 1 | 1997-07-31 | 1997-07-31 |
 | Pravila o broju i trajanju emisija za ravnopravno predstavljanje kandidata za izbor predsjednika Republike i njihovih programa | [`pravila/1997/348666/`](pravila/1997/348666/) | in force | 1 | 1997-08-07 | 1997-08-07 |
+| PRAVILA O NAČINU OSTVARIVANJA PRAVA LICA KOJA PRATE RAD ORGANA ZA SPROVOĐENJE IZBORA | [`pravila/1998/295948/`](pravila/1998/295948/) | in force | 1 | 1998-04-11 | 1998-04-11 |
+| PRAVILA O ODREĐIVANJU I UREĐIVANJU BIRAČKIH MJESTA I NAČINU PONAŠANJA NA BIRAČKOM MJESTU I O MJERAMA KOJIMA SE OBEZBJEĐUJE TAJNOST GLASANJA | [`pravila/1998/296541/`](pravila/1998/296541/) | in force | 1 | 1998-04-11 | 1998-04-11 |
 | Pravila o izdavanju dozvole za rad Centralnoj Depozitarnoj Agenciji | [`pravila/2001/349722/`](pravila/2001/349722/) | in force | 1 | 2001-01-27 | 2001-01-27 |
 | Pravila o dopuni Pravila o nacinu upisa i vodjenja registra emitenata hartija od vrijednosti kod komisije za hartije od vrijednosti | [`pravila/2001/349749/`](pravila/2001/349749/) | amending act | 1 | 2001-12-12 | 2001-12-12 |
+| Pravila o pravu na dobijanje informacija o akcijama upisanim u Centralni registar Centralne Depozitarne Agencije | [`pravila/2002/298217/`](pravila/2002/298217/) | in force | 1 | 2002-03-12 | 2002-03-12 |
+| Pravila o ponasanju zaposlenih u poreskom organu | [`pravila/2002/299095/`](pravila/2002/299095/) | in force | 1 | 2002-07-11 | 2002-07-11 |
+| Pravila o izmjenama i dopunama Pravila o radu birackih odbora | [`pravila/2002/307861/`](pravila/2002/307861/) | amending act | 1 | 2002-09-21 | 2002-09-21 |
+| Pravila o izmjenama i dopunama Pravila o jedinstvenim standardima za izborni materijal | [`pravila/2002/308243/`](pravila/2002/308243/) | amending act | 1 | 2002-10-09 | 2002-10-09 |
+| Pravila o izmjeni i dopuni Pravila o odredjivanju i uredjivanju birackih mjesta i o mjerama kojima se obezbjedjuje tajnost glasanja | [`pravila/2002/325092/`](pravila/2002/325092/) | amending act | 1 | 2002-09-21 | 2002-09-21 |
 | Pravila o izmjenama Pravila o izdavanju "investicionih jedinica" privatizacionih fondova | [`pravila/2002/348458/`](pravila/2002/348458/) | in force | 1 | 2002-12-21 | 2002-12-21 |
 | Pravila o izmjeni Pravila o transformaciji privatizacionih fondova u akcionarska društva | [`pravila/2002/348459/`](pravila/2002/348459/) | in force | 1 | 2002-12-21 | 2002-12-21 |
+| Pravila o dopunama Pravila o evidentiranju emisija hartija od vrijednosti | [`pravila/2003/301389/`](pravila/2003/301389/) | amending act | 1 | 2003-04-15 | 2003-04-15 |
+| Pravila o izmjenama i dopunama Pravila o sadrzini prospekta za javnu ponudu emisije hartija od vrijednosti | [`pravila/2003/302796/`](pravila/2003/302796/) | amending act | 1 | 2003-04-15 | 2003-04-15 |
+| Pravila o dopunama Pravila o metodologiji za obracunavanje neto vrijednosti imovine privatizacionih fondova | [`pravila/2003/303544/`](pravila/2003/303544/) | amending act | 1 | 2003-11-29 | 2003-11-29 |
+| Pravila o izmjeni i dopuni Pravila o transformaciji privatizacionih fondova u akcionarska drustva | [`pravila/2003/326182/`](pravila/2003/326182/) | amending act | 1 | 2003-03-01 | 2003-03-01 |
 | Pravila o izmjenama i dopunama Pravila o kontroli poslovanja sa hartijama od vrijednosti | [`pravila/2003/349213/`](pravila/2003/349213/) | amending act | 1 | 2003-04-03 | 2003-04-03 |
 | Pravila o izmjenama i dopunama Pravila o nacinu vodjenja poslova ovlascenih ucesnika na trzistu hartija od vrijednosti | [`pravila/2003/349431/`](pravila/2003/349431/) | amending act | 1 | 2003-04-15 | 2003-04-15 |
 | Pravilo ronjenja | [`pravila/2003/349620/`](pravila/2003/349620/) | in force | 1 | 2004-01-07 | 2004-01-07 |
 | Pravila o izmjenama i dopunama Pravila o nadzoru i kontroli poslovanja specijalizovanih privatnih menadzment preduzeca i privatizacionih fondova | [`pravila/2003/349906/`](pravila/2003/349906/) | amending act | 1 | 2003-04-03 | 2003-04-03 |
+| Pravila o blizim uslovima i nacinu promocije poslovnja investicionih fondova | [`pravila/2004/292072/`](pravila/2004/292072/) | in force | 1 | 2004-11-13 | 2004-11-13 |
+| Pravila o dopuni Pravila o izdavanju dozvole za rad drustvima za upravljanje investicionim fondovima i investicionim fondovima | [`pravila/2004/298916/`](pravila/2004/298916/) | amending act | 1 | 2004-12-23 | 2004-12-23 |
+| Pravila o sadrzini i objavljivanju izvjestaja o poslovanju drustava za upravljanje investicionim fondovima i investicionih fondova | [`pravila/2004/324967/`](pravila/2004/324967/) | in force | 1 | 2004-11-13 | 2004-11-13 |
 | Pravila o blizim uslovima, nacinu i postupku vrsenja nadzora poslovanja drustava za upravljanje investicionim fondovima i investicionih fondova | [`pravila/2004/349026/`](pravila/2004/349026/) | in force | 1 | 2004-11-13 | 2004-11-13 |
 | Pravila o postupku pred Komisijom za utvrdjivanje konflikta interesa | [`pravila/2004/349622/`](pravila/2004/349622/) | in force | 1 | 2004-11-27 | 2004-11-27 |
+| Pravila o dopuni Pravila o izdavanju dozvole za rad drustvima za upravljanje investicionim fondovima i investicionim fondovima | [`pravila/2005/332914/`](pravila/2005/332914/) | amending act | 1 | 2005-02-08 | 2005-02-08 |
+| Pravila o prestanku vazenja Pravila o preuzimanju akcionarskih drustava | [`pravila/2006/298308/`](pravila/2006/298308/) | in force | 1 | 2006-04-14 | 2006-04-14 |
+| Pravila o jedinstvenim standardima za referendumski materijal | [`pravila/2006/301782/`](pravila/2006/301782/) | in force | 1 | 2006-04-26 | 2006-04-26 |
+| Pravila o blizim uslovima, nacinu i postupku vrsenja nadzora poslovanja drustava za upravljanje penzionim fondovima i dobrovoljnih penzionih fondova | [`pravila/2007/305724/`](pravila/2007/305724/) | in force | 1 | 2007-10-06 | 2007-10-06 |
+| Pravila o obracunskim jedinicama dobrovoljnih penzionih fondova i konvertovanju uplacenih doprinosa u obracunske jedinice | [`pravila/2007/306632/`](pravila/2007/306632/) | in force | 1 | 2007-10-06 | 2007-10-06 |
+| Pravila o izvjestavanju o drzanju novcanih sredstava dobrovoljnih penzionih fondova | [`pravila/2007/307473/`](pravila/2007/307473/) | in force | 1 | 2007-10-06 | 2007-10-06 |
+| Pravila o evidentiranju emisija hartija od vrijednosti kada je emitent Republika Crna Gora i kada se hartije od vrijednosti izdaju unaprijed poznatim sticaocima | [`pravila/2007/307534/`](pravila/2007/307534/) | in force | 1 | 2007-06-16 | 2007-06-16 |
 | Pravila o utvrdjivanju blizih uslova za sticanje zvanja brokera, dilera i investicionog menadzera | [`pravila/2007/348518/`](pravila/2007/348518/) | in force | 1 | 2007-06-16 | 2007-06-16 |
 | Pravila o izracunavanju prinosa dobrovoljnog penzionog fonda | [`pravila/2007/348690/`](pravila/2007/348690/) | in force | 1 | 2007-10-06 | 2007-10-06 |
 | Pravila o sadrzini i objavljivanju izvjestaja o poslovanju drustva za upravljanje doborovoljnim penzionim fondovima i dobrovoljnih penzionih fondova | [`pravila/2007/348691/`](pravila/2007/348691/) | in force | 1 | 2007-10-06 | 2007-10-06 |
@@ -117,18 +338,125 @@
 | Pravila o sadrzini potvrde o udjelu na osnovu uplate doprinosa clana dobrovoljnog penzionog fonda | [`pravila/2007/349905/`](pravila/2007/349905/) | in force | 1 | 2007-10-06 | 2007-10-06 |
 | Pravila o metodologiji za obra-cunavanje neto vrijednosti imovine, obaveza i obracunskih jedinica dobro-voljnih penzionih fondova | [`pravila/2007/349943/`](pravila/2007/349943/) | in force | 1 | 2007-10-06 | 2007-10-06 |
 | Pravila o utvrdjivanju blizih uslova za sticanje zvanja investicionog menadzera penzionog fonda | [`pravila/2007/349944/`](pravila/2007/349944/) | in force | 1 | 2007-10-06 | 2007-10-06 |
+| Pravila o dopunama Pravila o evidenitranju emisija hartija od vrijednosti kada je emitent Republika Crna Gora i kada se hartije od vrijednosti izdaju unaprijed poznatim sticaocima | [`pravila/2008/333799/`](pravila/2008/333799/) | amending act | 1 | 2008-02-27 | 2008-02-27 |
+| Trzisna pravila | [`pravila/2009/303059/`](pravila/2009/303059/) | in force | 1 | 2009-01-24 | 2009-01-24 |
+| Pravila o izmjenama Pravila o sadrzini i objavljivanju izvjestaja o poslovanju drustva za upravljanje investicionim fondovima i investicionih fondova | [`pravila/2009/335440/`](pravila/2009/335440/) | in force | 1 | 2009-04-18 | 2009-04-18 |
+| Pravila o izmjenama Pravila za osnivanje i rad trzista elektricne energije | [`pravila/2009/337257/`](pravila/2009/337257/) | in force | 1 | 2009-08-18 | 2009-08-18 |
+| Pravila o izmjeni i dopuni Pravila o nacinu vodjenja poslova ovlascenih ucesnika na trzistu hartija od vrijednosti | [`pravila/2010/331808/`](pravila/2010/331808/) | amending act | 1 | 2010-12-16 | 2010-12-16 |
+| Pravila o izmjenama i dopunama Pravila za snabdijevanje elektricnom energijom | [`pravila/2010/335386/`](pravila/2010/335386/) | amending act | 1 | 2010-05-28 | 2010-05-28 |
 | Pravila o uslovima i postupku promjene snabdjevaca kvalifikovanih kupaca elektricne energije | [`pravila/2010/338286/`](pravila/2010/338286/) | in force | 1 | 2010-12-31 | 2010-12-31 |
+| Pravila o dopunama Pravila o nacinu vodjenja poslova ovlascenog ucesnika na trzistu hartija od vrijednosti | [`pravila/2011/326371/`](pravila/2011/326371/) | amending act | 1 | 2011-10-22 | 2011-10-22 |
+| Pravila o bližim uslovima i načinu promocije poslovanja fondova u transformaciji | [`pravila/2012/305876/`](pravila/2012/305876/) | in force | 1 | 2012-01-12 | 2012-01-12 |
+| Pravila o načinu trgovanja investicionim jedinicama zajedničkog fonda | [`pravila/2012/306253/`](pravila/2012/306253/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Pravila o sadržaju, načinu i rokovima dostavljanja i objavljivanja izvještaja nadzornog odbora fonda u transformaciji | [`pravila/2012/330618/`](pravila/2012/330618/) | in force | 1 | 2012-01-12 | 2012-01-12 |
+| Pravila o postupku pred Komisijom za sprječavanje sukoba interesa | [`pravila/2012/334045/`](pravila/2012/334045/) | in force | 1 | 2012-03-01 | 2012-03-01 |
+| Pravila o sadržaju, načinu i rokovima dostavljanja izvještaja o usklađivanju poslovanja fonda u transformaciji | [`pravila/2012/334620/`](pravila/2012/334620/) | in force | 1 | 2012-01-12 | 2012-01-12 |
+| Pravila o bližim uslovima, načinu i postupku vršenja nadzora poslovanja društva za upravljanje investicionim fondovima i fonda u transformaciji | [`pravila/2012/334641/`](pravila/2012/334641/) | in force | 1 | 2012-01-12 | 2012-01-12 |
+| Pravila o izračunavanju prinosa fonda u transformaciji | [`pravila/2012/334642/`](pravila/2012/334642/) | in force | 1 | 2012-01-12 | 2012-01-12 |
+| Pravila o sadržini i objavljivanju izvještaja o poslovanju društva za upravljanje investicionim fondom i fonda u transformaciji | [`pravila/2012/334643/`](pravila/2012/334643/) | in force | 1 | 2012-01-12 | 2012-01-12 |
+| Pravila o sadržini ugovora o upravljanju i transformaciji zatvorenog fonda u transformaciji | [`pravila/2012/334813/`](pravila/2012/334813/) | in force | 1 | 2012-01-12 | 2012-01-12 |
+| Pravila o dopuni Pravila o obavljanju kastodi poslova | [`pravila/2013/303775/`](pravila/2013/303775/) | amending act | 1 | 2013-09-11 | 2013-09-11 |
+| Pravila o sadržaju i načinu vođenja Registra povlašćenih proizvođača | [`pravila/2013/306451/`](pravila/2013/306451/) | in force | 1 | 2013-10-30 | 2013-10-30 |
+| Pravila o izmjenama i dopunama pravila Centralne depozitarne agencije a.d. Podgorica | [`pravila/2013/306592/`](pravila/2013/306592/) | amending act | 1 | 2013-05-25 | 2013-05-25 |
+| Pravila o načinu obračunavanja i izvještavanja o nenovčanim prilozima političkim partijama | [`pravila/2013/309451/`](pravila/2013/309451/) | in force | 1 | 2013-03-09 | 2013-03-09 |
+| Pravila o uslovima za izdavanje odobrenja na osnovu kojih proizvođači i snabdjevači električne energije mogu snabdijevati kvalifikovane kupce preko direktnog voda | [`pravila/2013/327619/`](pravila/2013/327619/) | in force | 1 | 2014-01-07 | 2014-01-07 |
+| Pravila o izmjeni Pravila o kontnom okviru, sadržaju računa u kontnom okviru, sadržaju i formi finansijskih izvještaja za investicione fondove | [`pravila/2013/333256/`](pravila/2013/333256/) | in force | 1 | 2013-07-19 | 2013-07-19 |
+| Pravila o izmjeni i dopuni Pravila o metodologiji za obračunavanje neto vrijednosti imovine investicionih fondova u postupku transformacije | [`pravila/2013/333900/`](pravila/2013/333900/) | amending act | 1 | 2013-03-16 | 2013-03-16 |
+| Pravila o kriterijumima, postupku i načinu određivanja novog domaćeg prevoznika | [`pravila/2013/334541/`](pravila/2013/334541/) | in force | 1 | 2013-03-30 | 2013-03-30 |
+| Pravila o opštim uslovima prijema i otpreme autobusa i putnika na autobuskim stanicama | [`pravila/2013/334542/`](pravila/2013/334542/) | in force | 1 | 2013-03-30 | 2013-03-30 |
+| Pravila o dopuni Pravila o sadržini i objavljivanju izvještaja o poslovanju društava za upravljanje dobrovoljnim penzionim fondovima i dobrovoljnih penzionih fondova | [`pravila/2013/334543/`](pravila/2013/334543/) | amending act | 1 | 2013-03-30 | 2013-03-30 |
+| Pravila o izmjeni pravila o izvještavanju o držanju novčanih sredstava investicionih fondova u transformaciji | [`pravila/2013/334987/`](pravila/2013/334987/) | in force | 1 | 2013-05-25 | 2013-05-25 |
+| Pravila o dopuni Pravila o metodologiji za obračunavanje neto vrijednosti imovine, obaveza i obračunskih jedinica dobrovoljnih penzionih fondova | [`pravila/2013/335076/`](pravila/2013/335076/) | amending act | 1 | 2013-06-04 | 2013-06-04 |
+| Pravila o načinu, postupku, kriterijumima i visini naknade za usklađivanje redova vožnje u međumjesnom prevozu i prevozu u međunarodnom drumskom saobraćaju | [`pravila/2013/337489/`](pravila/2013/337489/) | in force | 1 | 2013-12-28 | 2013-12-28 |
+| Pravila o načinu i uslovima za izdavanje, izmjenu i oduzimanje licenci za obavljanje energetskih djelatnosti | [`pravila/2013/337692/`](pravila/2013/337692/) | in force | 1 | 2014-01-07 | 2014-01-07 |
+| Pravila o bližoj sadržini politika, procedura, mjera postupanja i registra transakcija, društva za upravljanje investicionim fondovima | [`pravila/2014/303542/`](pravila/2014/303542/) | in force | 1 | 2014-12-27 | 2014-12-27 |
+| Pravila o bližem sadržaju internih pravila poslovanja Centralnog fonda i Fonda ulagača i načinu dostavljanja obavještenja o nesaglasnosti | [`pravila/2014/325643/`](pravila/2014/325643/) | in force | 1 | 2014-11-08 | 2014-11-08 |
+| Pravila o bližim uslovima, načinu pripajanja i spajanja zajedničkih fondova i o bližem sadržaju i načinu dostavljanja obavještenja o pripajanju i spajanju zajedničkih fondova | [`pravila/2014/326261/`](pravila/2014/326261/) | in force | 1 | 2014-11-08 | 2014-11-08 |
+| Pravila o sadržini, bližim uslovima, načinu objavljivanja prospekta investicionih fondova | [`pravila/2014/327042/`](pravila/2014/327042/) | in force | 1 | 2014-11-08 | 2014-11-08 |
+| Pravila o bližim uslovima za identifikaciju i sprječavanje konflikta interesa | [`pravila/2014/327084/`](pravila/2014/327084/) | in force | 1 | 2014-12-27 | 2014-12-27 |
+| Pravila o izmjeni Pravila o sadržini prospekta za javnu ponudu emisije vlasničkih i dugoročnih dužničkih hartija od vrijednosti | [`pravila/2014/327489/`](pravila/2014/327489/) | in force | 1 | 2015-01-02 | 2015-01-02 |
+| Pravila o izmjeni Pravila o sekundarnom trgovanju kuponskim obveznicama na berzi | [`pravila/2014/333415/`](pravila/2014/333415/) | in force | 1 | 2015-01-02 | 2015-01-02 |
+| Pravila o sadržini, bližim uslovima i načinu objavljivanja ključnih informacija za investitore zajedničkih fondova | [`pravila/2014/336931/`](pravila/2014/336931/) | in force | 1 | 2014-12-13 | 2014-12-13 |
+| Pravila o izmjeni Pravila o utvrđivanju bližih uslova emitovanja, registrovanja i trgovanja kratkoročnim dužničkim hartijama od vrijednosti | [`pravila/2014/337302/`](pravila/2014/337302/) | in force | 1 | 2015-01-02 | 2015-01-02 |
+| Pravila o radu zaštitnika/ce ljudskih prava i sloboda Crne Gore | [`pravila/2014/337456/`](pravila/2014/337456/) | in force | 1 | 2014-12-27 | 2014-12-27 |
+| Pravila o bližim uslovima, načinu i postupku vršenja nadzora poslovanja društva za upravljanje investicionim fondovima, investicionih fondova i depozitara | [`pravila/2014/337457/`](pravila/2014/337457/) | in force | 1 | 2014-12-27 | 2014-12-27 |
+| Pravila o sadržaju, bitnim elementima politike upravljanja rizicima i o metodologiji mjerenja rizika | [`pravila/2014/337465/`](pravila/2014/337465/) | in force | 1 | 2014-12-27 | 2014-12-27 |
+| Pravila o načinu obračunavanja i izvještavanja o nenovčanim prilozima političkim subjektima | [`pravila/2015/315587/`](pravila/2015/315587/) | in force | 1 | 2015-04-03 | 2015-04-03 |
+| Pravila o postupku i rokovima za isplatu vlasnika investicionih jedinica | [`pravila/2015/318165/`](pravila/2015/318165/) | in force | 1 | 2015-06-20 | 2015-06-20 |
+| Pravila o izmjeni Pravila o metodologiji za obračunavanje neto vrijednosti imovine zatvorenih investicionih fondova | [`pravila/2015/335441/`](pravila/2015/335441/) | in force | 1 | 2015-06-03 | 2015-06-03 |
+| Pravila o izmjenama Pravila za izmjenu tarifa za električnu energiju | [`pravila/2015/335442/`](pravila/2015/335442/) | in force | 1 | 2015-06-03 | 2015-06-03 |
+| Pravila o izmjeni Pravila o utvrđivanju bližih uslova za sticanje zvanja investicionog menadžera investicionog fonda | [`pravila/2015/335605/`](pravila/2015/335605/) | in force | 1 | 2015-06-20 | 2015-06-20 |
+| Pravila o izmjenama i dopunama Pravila o odobravanju naknade za rad operatora tržišta električne energije | [`pravila/2015/335609/`](pravila/2015/335609/) | amending act | 1 | 2015-06-26 | 2015-06-26 |
+| Pravila o pravu na dobijanje informacija o hartijama od vrijednosti upisanim u centralni registar Centralne Depozitarne Agencije | [`pravila/2015/335613/`](pravila/2015/335613/) | in force | 1 | 2015-06-20 | 2015-06-20 |
+| Pravila o izmjenama Pravila o načinu upisa i vođenja registra emitenata hartija od vrijednosti kod komisije za hartije od vrijednosti | [`pravila/2015/335853/`](pravila/2015/335853/) | in force | 1 | 2015-06-20 | 2015-06-20 |
+| Pravila o provjeri podataka iz izvještaja o prihodima i imovini direktora Agencije za sprječavanje korupcije | [`pravila/2015/338135/`](pravila/2015/338135/) | in force | 1 | 2016-01-02 | 2016-01-02 |
 | Pravila o izmjeni Pravila o obavljanju kastodi poslova | [`pravila/2015/339040/`](pravila/2015/339040/) | in force | 1 | 2015-03-07 | 2015-03-07 |
+| Pravila za rješavanje sporova putem arbitraže | [`pravila/2016/310903/`](pravila/2016/310903/) | in force | 1 | 2017-01-08 | 2017-01-08 |
+| Pravila o uslovima za izdavanje odobrenja na osnovu kojih proizvođači i snabdjevači električne energije mogu snabdijevati krajnje kupce preko direktnog voda | [`pravila/2016/329112/`](pravila/2016/329112/) | in force | 1 | 2016-12-24 | 2016-12-24 |
+| Pravila o izmjeni i dopuni Pravila o bližim uslovima za izdavanje saglasnosti za kvalifikovano učešće u društvu za upravljanje | [`pravila/2016/332958/`](pravila/2016/332958/) | amending act | 1 | 2016-06-04 | 2016-06-04 |
+| Pravila o bližem postupku prenošenja upravljanja investicionim fondovima na drugo društvo za upravljanje | [`pravila/2016/336816/`](pravila/2016/336816/) | in force | 1 | 2016-07-28 | 2016-07-28 |
+| Pravila o dopuni Pravila o načinu upisa i vođenja registra emitenata hartija od vrijednosti | [`pravila/2016/337301/`](pravila/2016/337301/) | amending act | 1 | 2016-08-31 | 2016-08-31 |
 | Pravila o sadržaju, rokovima i načinu sačinjavanja i dostavljanja finansijskih izvještaja emitenata hartija od vrijednosti | [`pravila/2016/338693/`](pravila/2016/338693/) | in force | 1 | 2017-01-08 | 2017-01-08 |
 | Pravila o načinu obračunavanja i izvještavanja o nenovčanim prilozima političkim subjektima | [`pravila/2016/338994/`](pravila/2016/338994/) | in force | 1 | 2016-02-19 | 2016-02-19 |
+| Pravila o dopunama Pravila za izradu i praćenje realizacije desetogodišnjih planova razvoja prenosnog sistema električne energije | [`pravila/2017/292961/`](pravila/2017/292961/) | amending act | 1 | 2018-01-06 | 2018-01-06 |
+| Pravila za rad balansnog tržišta električne energije | [`pravila/2017/292974/`](pravila/2017/292974/) | in force | 1 | 2017-07-14 | 2017-07-14 |
+| Pravila za funkcionisanje distributivnog sistema električne energije | [`pravila/2017/308527/`](pravila/2017/308527/) | in force | 1 | 2017-03-17 | 2017-03-17 |
+| Pravila o primjeni transparentne procedure upravljanja zagušenjima i alokacijom prekograničnih kapaciteta za prenos električne energije | [`pravila/2017/321098/`](pravila/2017/321098/) | in force | 1 | 2017-08-24 | 2017-08-24 |
+| Tržišna pravila | [`pravila/2017/324672/`](pravila/2017/324672/) | in force | 1 | 2017-07-14 | 2017-07-14 |
+| Pravila o izmjenama i dopunama Pravila o načinu trgovanja blokom akcija | [`pravila/2017/334160/`](pravila/2017/334160/) | amending act | 1 | 2017-03-04 | 2017-03-04 |
+| Pravila za sprovođenje postupka otkrivanja, utvrđivanja i sprječavanja neovlašćenog korišenja električne energije | [`pravila/2017/334443/`](pravila/2017/334443/) | in force | 1 | 2017-03-17 | 2017-03-17 |
+| Pravila o čuvanju povjerljivosti komercijalno osjetljivih informacija koje koriste operatori sistema | [`pravila/2017/335229/`](pravila/2017/335229/) | in force | 1 | 2017-05-06 | 2017-05-06 |
+| Pravila o radu Agencije za sprječavanje korupcije o postupanju po prijavi o ugrožavanju javnog interesa koje upućuje na postojanje korupcije i zahtjevu za zaštitu zviždača | [`pravila/2017/336423/`](pravila/2017/336423/) | in force | 1 | 2017-06-28 | 2017-06-28 |
+| Pravila za rješavanje sporova putem arbitraže | [`pravila/2017/336697/`](pravila/2017/336697/) | in force | 1 | 2017-07-08 | 2017-07-08 |
+| Pravila o dopunama Pravila o određivanju i uređenju biračkih mjesta i o mjerama kojima se obezbjeđuje tajnost glasanja | [`pravila/2017/338136/`](pravila/2017/338136/) | amending act | 1 | 2017-11-17 | 2017-11-17 |
+| Pravila o dopunama Pravila o radu biračkih odbora | [`pravila/2017/338137/`](pravila/2017/338137/) | amending act | 1 | 2017-11-17 | 2017-11-17 |
 | Pravila o dopunama Pravila o glasanju putem pisma | [`pravila/2017/338138/`](pravila/2017/338138/) | amending act | 1 | 2017-11-17 | 2017-11-17 |
 | Pravila mjerenja u distributivnom sistemu električne energije | [`pravila/2017/338735/`](pravila/2017/338735/) | in force | 1 | 2017-02-08 | 2017-02-08 |
 | Pravila o dopunama Pravila o radu Agencije za sprječavanje korupcije u dijelu sprječavanja sukoba interesa javnih funkcionera | [`pravila/2017/348011/`](pravila/2017/348011/) | amending act | 1 | 2017-03-25 | 2017-03-25 |
+| Pravila o uslovima za osnivanje, organizaciju i poslovanje specijalizovanih investicionih fondova | [`pravila/2018/314075/`](pravila/2018/314075/) | in force | 1 | 2018-11-08 | 2018-11-08 |
+| Pravila o bližim kriterijumima i načinu prihvatanja tržišne prakse | [`pravila/2018/315123/`](pravila/2018/315123/) | in force | 1 | 2018-11-08 | 2018-11-08 |
+| Pravila o izmjeni i dopunama Pravila za izradu i praćenje realizacije desetogodišnjih planova razvoja prenosnog sistema električne energije | [`pravila/2018/315233/`](pravila/2018/315233/) | amending act | 1 | 2019-01-04 | 2019-01-04 |
+| Pravila o sadržini, bližim uslovima i načinu objavljivanja ključnih informacija za investitore specijalizovanih investicionih fondova | [`pravila/2018/315472/`](pravila/2018/315472/) | in force | 1 | 2018-11-08 | 2018-11-08 |
+| Pravila o izmjeni i dopuni Pravila o licencama za obavljanje energetskih djelatnosti | [`pravila/2018/316768/`](pravila/2018/316768/) | amending act | 1 | 2018-05-12 | 2018-05-12 |
+| Pravila o sadržaju zahtjeva za sticanje kvalifikovanog učešća i bližim kriterijumima za ocjenu kvalifikovanog učešća u organizatoru tržišta, investicionom društvu i centralnom klirinškom depozitarnom društvu | [`pravila/2018/317856/`](pravila/2018/317856/) | in force | 1 | 2018-07-14 | 2018-07-14 |
+| Pravila o kadrovskoj i organizacionoj osposobljenosti i tehničkoj opremljenosti organizatora tržišta i investicionog društva koji upravljaju MTP-om i OTP-om | [`pravila/2018/320715/`](pravila/2018/320715/) | in force | 1 | 2019-01-02 | 2019-01-02 |
+| Pravila o sadržaju godišnjeg finansijskog izvještaja sa izvještajem revizora i izvještaja o poslovanju organizatora tržišta | [`pravila/2018/321334/`](pravila/2018/321334/) | in force | 1 | 2019-01-02 | 2019-01-02 |
+| Pravila o utvrđivanju bližih uslova za sticanje zvanja brokera, investicionog savjetnika, investicionog menadžera investicionog fonda i investicionog menadžera Penzionog fonda | [`pravila/2018/329090/`](pravila/2018/329090/) | in force | 1 | 2019-01-02 | 2019-01-02 |
+| Pravila o izmjeni i dopunama pravila za izradu i praćenje realizacije desetogodišnjeg plana razvoja distributivnog sistema električne energije | [`pravila/2018/329832/`](pravila/2018/329832/) | amending act | 1 | 2019-01-04 | 2019-01-04 |
+| Pravila o bližem sadržaju zahtjeva za izdavanje dozvole za rad i sadržaj dokumentacije koja se prilaže uz zahtjev za izdavanje dovole za rad akcionarskom društvu za obavljanje poslova centralnog klirinškog depozitarnog društva | [`pravila/2018/330406/`](pravila/2018/330406/) | in force | 1 | 2019-01-02 | 2019-01-02 |
+| Pravila o davanju odobrenja za imenovanje člana odbora direktora, odnosno izvršnog direktora organizatora tržišta, investicionog društva i centralnog klirinškog depozitarnog društva | [`pravila/2018/338164/`](pravila/2018/338164/) | in force | 1 | 2018-11-08 | 2018-11-08 |
 | Pravila o uslovima za izdavanje odobrenja za rad brokeru i investicionom savjetniku | [`pravila/2018/338324/`](pravila/2018/338324/) | in force | 1 | 2018-11-08 | 2018-11-08 |
 | Pravila o sadržini, bližim uslovima i načinu objavljivanja prospekta specijalizovanih investicionih fondova | [`pravila/2018/338325/`](pravila/2018/338325/) | in force | 1 | 2018-11-08 | 2018-11-08 |
 | Pravila o načinu utvrđivanja neto vrijednosti imovine specijalizovanih investicionih fondova | [`pravila/2018/338326/`](pravila/2018/338326/) | in force | 1 | 2018-11-08 | 2018-11-08 |
 | Pravila o sadržaju, rokovima i načinu sačinjavanja i dostavljaAnja izvještaja o transakcijama finansijskim instrumentima izvršenim na regulisanom tržištu kojim upravlja organizator tržišta | [`pravila/2018/338472/`](pravila/2018/338472/) | in force | 1 | 2019-01-02 | 2019-01-02 |
+| Pravila o minimumu kvaliteta i obima poslova za obavljanje regulisanih komunalnih djelatnosti | [`pravila/2019/293555/`](pravila/2019/293555/) | in force | 1 | 2019-10-26 | 2019-10-26 |
+| Pravila o bližem sadržaju i načinu sačinjavanja i dostavljanja izvještaja o koncesionim i drugim naknadama | [`pravila/2019/316692/`](pravila/2019/316692/) | in force | 1 | 2019-02-07 | 2019-02-07 |
+| Pravila o kriterijumima, postupku i načinu određivanja novog domaćeg prevoznika | [`pravila/2019/334883/`](pravila/2019/334883/) | in force | 1 | 2019-04-06 | 2019-04-06 |
+| Pravila o načinu, postupku, kriterijumima i visini naknade za usklađivanje redova vožnje u međugradskom prevozu i prevozu u međunarodnom drumskom saobraćaju | [`pravila/2019/334884/`](pravila/2019/334884/) | in force | 1 | 2019-04-06 | 2019-04-06 |
+| Pravila o opštim uslovima prijema i otpreme autobusa i putnika na autobuskim stanicama | [`pravila/2019/334885/`](pravila/2019/334885/) | in force | 1 | 2019-04-06 | 2019-04-06 |
+| Pravila o dopuni Pravila o bližem sadržaju zahtjeva za izdavanje dozvole za rad i sadržaju dokumentacije koja se prilaže uz zahtjev za izdavanje dozvole za rad akcionarskom društvu za obavljanje poslova centralnog klirinškog depozitarnog društva | [`pravila/2019/335135/`](pravila/2019/335135/) | amending act | 1 | 2019-04-27 | 2019-04-27 |
+| Pravila o dopuni Pravila o prospektu za javnu ponudu i/ili uključenje hartija od vrijednosti u trgovanje na regulisanom tržištu | [`pravila/2019/335136/`](pravila/2019/335136/) | amending act | 1 | 2019-04-27 | 2019-04-27 |
+| Pravila o dopuni Pravila o sadržaju zahtjeva i dokumentaciji za izdavanje dozvole za rad organizatoru tržišta za obavljanje poslova upravljanja regulisanog tržišta i za izdavanje dozvole za rad organizatoru tržišta i/ili investicionom društvu za obavljanje poslova upravljanja MTP-om ili OTP-om | [`pravila/2019/335197/`](pravila/2019/335197/) | amending act | 1 | 2019-04-27 | 2019-04-27 |
+| Pravila o sadržaju i načinu vođenja Registra garancija porijekla | [`pravila/2019/336573/`](pravila/2019/336573/) | in force | 1 | 2019-08-03 | 2019-08-03 |
+| Pravila o dopunama Pravila o licencama za obavljanje energetskih djelatnosti | [`pravila/2019/337728/`](pravila/2019/337728/) | amending act | 1 | 2019-11-08 | 2019-11-08 |
 | Pravila o obliku i načinu dostavljanja propisanih informacija u Centralni registar propisanih informacija | [`pravila/2019/338302/`](pravila/2019/338302/) | in force | 1 | 2019-02-07 | 2019-02-07 |
+| Pravila o načinu, postupku, kriterijumima i visini naknade za usklađivanje redova vožnje u međugradskom prevozu i prevozu u međunarodnom drumskom saobraćaju | [`pravila/2020/327920/`](pravila/2020/327920/) | in force | 1 | 2020-12-31 | 2020-12-31 |
+| Pravila o izmjenama i dopunama Pravila o regulatornom okviru za finansijske inovacije (SANDBOX) | [`pravila/2020/330859/`](pravila/2020/330859/) | amending act | 1 | 2020-05-08 | 2020-05-08 |
+| Pravila o izmjenama i dopunama Pravila o licencama za obavljanje regulisanih komunalnih djelatnosti | [`pravila/2020/333795/`](pravila/2020/333795/) | amending act | 1 | 2020-03-07 | 2020-03-07 |
+| Pravila o izmjenama i dopunama Pravila o bližem sadržaju, rokovima i načinu sačinjavanja i dostavljanja izvještaja investicionih društava i njihovih filijala | [`pravila/2021/316724/`](pravila/2021/316724/) | amending act | 1 | 2021-03-25 | 2021-03-25 |
+| Pravila o izmjeni i dopuni Pravila o radu biračkih odbora | [`pravila/2022/292136/`](pravila/2022/292136/) | amending act | 1 | 2022-06-23 | 2022-06-23 |
+| Pravila o izmjeni Pravila o radu biračkih odbora | [`pravila/2022/310942/`](pravila/2022/310942/) | in force | 1 | 2022-04-05 | 2022-04-05 |
+| Pravila o izmjeni i dopuni Pravila o jedinstvenim standardima za izborni materijal | [`pravila/2022/313392/`](pravila/2022/313392/) | amending act | 1 | 2022-06-23 | 2022-06-23 |
+| Pravila o izmjeni Pravila o određivanju i uređenju biračkih mjesta i o mjerama kojima se obezbjeđuje tajnost glasanja | [`pravila/2022/313826/`](pravila/2022/313826/) | in force | 1 | 2022-04-05 | 2022-04-05 |
+| Pravila o izmjeni i dopuni Pravila o glasanju putem pisma | [`pravila/2022/315804/`](pravila/2022/315804/) | amending act | 1 | 2022-06-23 | 2022-06-23 |
+| Pravila o izmjeni Pravila o određivanju i uređenju biračkih mjesta i o mjerama kojima se obezbjeđuje tajnost glasanja | [`pravila/2022/321195/`](pravila/2022/321195/) | in force | 1 | 2023-01-07 | 2023-01-07 |
+| Pravila o izmjenama Pravila o bližem sadržaju, rokovima i načinu sačinjavanja i dostavljanja izvještaja investicionih društava i njihovih filijala | [`pravila/2022/331446/`](pravila/2022/331446/) | in force | 1 | 2022-12-17 | 2022-12-17 |
+| Pravila o izmjeni i dopuni Pravila o jedinstvenim standardima za izborni materijal | [`pravila/2022/333184/`](pravila/2022/333184/) | amending act | 1 | 2022-06-23 | 2022-06-23 |
+| Pravila o izmjenama i dopunama Pravila o licencama za obavljanje regulisanih komunalnih djelatnosti | [`pravila/2022/333286/`](pravila/2022/333286/) | amending act | 1 | 2022-11-12 | 2022-11-12 |
+| Pravila za vanberzansko tržište (OTC) Centralnog klirinško depozitarnog društva AD Podgorica | [`pravila/2022/334031/`](pravila/2022/334031/) | in force | 1 | 2022-12-27 | 2022-12-27 |
+| Pravila o načinu dostavljanja propisanih informacija u Centralni registar propisanih informacija | [`pravila/2022/337140/`](pravila/2022/337140/) | in force | 1 | 2022-05-14 | 2022-05-14 |
+| Pravila o jedinstvenim standardima za izborni materijal za izbor predsjednika Crne Gore | [`pravila/2023/324225/`](pravila/2023/324225/) | in force | 1 | 2023-02-13 | 2023-02-13 |
+| Pravila o izmjeni i dopuni Pravila o radu Agencije za zaštitu ličnih podataka i slobodan pristup informacijama | [`pravila/2023/336145/`](pravila/2023/336145/) | amending act | 1 | 2023-03-30 | 2023-03-30 |
 | Pravila o posredovanju u privrednim sporovima pred Arbitražnim sudom pri Privrednoj komori Crne Gore | [`pravila/2023/362957/`](pravila/2023/362957/) | in force | 1 | 2023-12-23 | 2023-12-23 |
 | Pravila o izmjenama i dopunama Pravila o izdavanju dozvole za rad investicionim fondovima | [`pravila/2023/363277/`](pravila/2023/363277/) | amending act | 1 | 2023-05-15 | 2023-05-15 |
 | Pravila o izmjenama i dopunama Pravila o izdavanju dozvole za rad i davanje saglasnosti društvima za upravljanje investicionim fondovima | [`pravila/2024/373192/`](pravila/2024/373192/) | amending act | 1 | 2024-08-31 | 2024-08-31 |
@@ -2806,16 +3134,28 @@
 | --- | --- | --- | ---: | --- | --- |
 | Proglašavam Zakon o izvršenju Odluke Ustavnog suda Crne Gore U-I broj 6/16 od 19. Aprila 2017. godine ("Službeni list CG", broj 31/17) | [`proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj/`](proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj/) | in force | 1 | 2017-06-30 | 2017-06-30 |
 
-## statut (75, of which 2 amending acts)
+## statut (125, of which 8 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Statut Komisije za hartije od vrijednosti | [`statut/2001/299656/`](statut/2001/299656/) | in force | 1 | 2001-02-22 | 2001-02-22 |
+| Statut Fonda za zastitu depozita | [`statut/2004/299693/`](statut/2004/299693/) | in force | 1 | 2004-11-20 | 2004-11-20 |
 | Statut Republickog fonda penzijskog i invalidskog osiguranja | [`statut/2004/349857/`](statut/2004/349857/) | in force | 1 | 2004-07-29 | 2004-07-29 |
 | Statut o izmjenama i dopunama Statuta Privredne komore Crne Gore | [`statut/2005/348115/`](statut/2005/348115/) | amending act | 1 | 2006-01-05 | 2006-01-05 |
+| Statut o izmjenama i dopunama Statuta Privredne komore Crne Gore | [`statut/2006/333392/`](statut/2006/333392/) | amending act | 1 | 2006-07-29 | 2006-07-29 |
+| Statut Privredne komore Crne Gore | [`statut/2009/300984/`](statut/2009/300984/) | in force | 1 | 2009-09-19 | 2009-09-19 |
+| Statut Fonda penzijskog i invalidskog osiguranja Crne Gore | [`statut/2009/336038/`](statut/2009/336038/) | in force | 1 | 2009-06-06 | 2009-06-06 |
+| Statut Agencije za mirno rjesavanje radnih sporova | [`statut/2010/335458/`](statut/2010/335458/) | in force | 1 | 2010-05-07 | 2010-05-07 |
 | Statut opstine Mojkovac | [`statut/2010/343957/`](statut/2010/343957/) | in force | 1 | 2010-10-09 | 2010-10-09 |
+| Statut o izmjenama i dopunama Statuta Fonda penzijskog i invalidskog osiguranja Crne Gore | [`statut/2011/306330/`](statut/2011/306330/) | amending act | 1 | 2011-04-05 | 2011-04-05 |
+| Statut Opstine Rozaje | [`statut/2011/331042/`](statut/2011/331042/) | in force | 1 | 2011-03-22 | 2011-03-22 |
 | Statut Opstine Pljevlja (preciscen tekst) | [`statut/2011/340384/`](statut/2011/340384/) | in force | 1 | 2011-06-11 | 2011-06-11 |
 | Statut Opstine Bar | [`statut/2011/346381/`](statut/2011/346381/) | in force | 1 | 2011-02-23 | 2011-02-23 |
 | Statut Opštine Mojkovac (Prečišćen tekst) | [`statut/2012/342530/`](statut/2012/342530/) | in force | 1 | 2012-12-26 | 2012-12-26 |
+| Statut Agencije za nadzor osiguranja | [`statut/2013/308993/`](statut/2013/308993/) | in force | 1 | 2013-07-06 | 2013-07-06 |
+| Statut o izmjenama i dopunama Statuta Zavoda za zapošljavanje Crne Gore | [`statut/2013/332864/`](statut/2013/332864/) | amending act | 1 | 2013-10-30 | 2013-10-30 |
+| Statut Agencije za zaštitu konkurencije | [`statut/2013/333758/`](statut/2013/333758/) | in force | 1 | 2013-02-26 | 2013-02-26 |
+| Statut Komisije za hartije od vrijednosti | [`statut/2013/337036/`](statut/2013/337036/) | in force | 1 | 2013-01-26 | 2013-01-26 |
 | Statut Javne ustanove Gradska biblioteka i čitaonica Herceg Novi | [`statut/2013/341868/`](statut/2013/341868/) | in force | 1 | 2013-01-19 | 2013-01-19 |
 | Statut Društva sa ograničenom odgovornošću "Komunalno" - Tivat | [`statut/2013/343800/`](statut/2013/343800/) | in force | 1 | 2013-11-16 | 2013-11-16 |
 | Statut Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Tivat | [`statut/2013/343801/`](statut/2013/343801/) | in force | 1 | 2013-11-16 | 2013-11-16 |
@@ -2823,12 +3163,30 @@
 | Statut Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" - Budva | [`statut/2013/347665/`](statut/2013/347665/) | in force | 1 | 2014-01-01 | 2014-01-01 |
 | Statut Društva sa ograničenom odgovornošću "Parking servis" Budva | [`statut/2013/347666/`](statut/2013/347666/) | in force | 1 | 2014-01-01 | 2014-01-01 |
 | Statut Društva sa ograničenom odgovornošću "Komunalno" - Budva | [`statut/2013/347709/`](statut/2013/347709/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Statut o izmjenama i dopunama Statuta Fonda penzijskog i invalidskog osiguranja Crne Gore | [`statut/2014/303652/`](statut/2014/303652/) | amending act | 1 | 2014-08-01 | 2014-08-01 |
+| Statut NVO organizacije za zaštitu prava autora muzike Crne Gore - PAM CG | [`statut/2014/335074/`](statut/2014/335074/) | in force | 1 | 2014-05-24 | 2014-05-24 |
+| Statut Saveza sindikata Crne Gore | [`statut/2014/335809/`](statut/2014/335809/) | in force | 1 | 2014-08-01 | 2014-08-01 |
+| Statut Agencije za elektronske komunikacije i poštansku djelatnost | [`statut/2014/337059/`](statut/2014/337059/) | in force | 1 | 2014-02-01 | 2014-02-01 |
 | Statut Opštine Gusinje | [`statut/2014/342755/`](statut/2014/342755/) | in force | 1 | 2014-09-12 | 2014-09-12 |
 | Statut Opštine Petnjica | [`statut/2014/346110/`](statut/2014/346110/) | in force | 1 | 2014-01-29 | 2014-01-29 |
 | Statut Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" - Andrijevica | [`statut/2014/346569/`](statut/2014/346569/) | in force | 1 | 2014-03-20 | 2014-03-20 |
+| Statut Društva sa ograničenom odgovornošću "Benergo" Berane | [`statut/2015/316306/`](statut/2015/316306/) | in force | 1 | 2015-10-30 | 2015-10-30 |
+| Statut Privredne komore Crne Gore | [`statut/2015/334248/`](statut/2015/334248/) | in force | 1 | 2015-04-25 | 2015-04-25 |
+| Statut Danilova Ordena | [`statut/2015/335235/`](statut/2015/335235/) | in force | 1 | 2015-05-23 | 2015-05-23 |
+| Statut Hotelsko turističkog preduzeća "Miločer" društvo sa ograničenom odgovornošću, Budva | [`statut/2015/337550/`](statut/2015/337550/) | in force | 1 | 2015-11-06 | 2015-11-06 |
+| Statut o izmjenama i dopunama Statuta Saveza sindikata Crne Gore | [`statut/2015/337588/`](statut/2015/337588/) | amending act | 1 | 2015-11-10 | 2015-11-10 |
+| Statut Agencije za sprječavanje korupcije | [`statut/2015/338030/`](statut/2015/338030/) | in force | 1 | 2015-11-26 | 2015-11-26 |
 | Statut Turističke organizacije opštine Danilovgrad | [`statut/2015/347106/`](statut/2015/347106/) | in force | 1 | 2015-11-25 | 2015-11-25 |
+| Statut Saveza sindikata Crne Gore | [`statut/2016/317897/`](statut/2016/317897/) | in force | 1 | 2016-05-28 | 2016-05-28 |
+| Statut o izmjenama Statuta Zavoda za zapošljavanje Crne Gore | [`statut/2016/335158/`](statut/2016/335158/) | in force | 1 | 2016-04-02 | 2016-04-02 |
+| Statut Društva sa ograničenom odgovornošću "Parking servis" Tivat | [`statut/2017/292157/`](statut/2017/292157/) | in force | 1 | 2017-05-13 | 2017-05-13 |
+| Statut Zajednice opština Crne Gore | [`statut/2017/314067/`](statut/2017/314067/) | in force | 1 | 2017-02-03 | 2017-02-03 |
+| Statut o izmjenama Statuta Fonda penzijskog i invalidskog osiguranja Crne Gore | [`statut/2017/334161/`](statut/2017/334161/) | in force | 1 | 2017-03-04 | 2017-03-04 |
+| Statut Regulatorne agencije za energetiku | [`statut/2017/335996/`](statut/2017/335996/) | in force | 1 | 2017-06-16 | 2017-06-16 |
 | Statut Javne ustanove Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u opštini Danilovgrad | [`statut/2017/344201/`](statut/2017/344201/) | in force | 1 | 2017-07-06 | 2017-07-06 |
 | Statut opštine u okviru Glavnog grada- Tuzi | [`statut/2017/347432/`](statut/2017/347432/) | in force | 1 | 2017-09-11 | 2017-09-11 |
+| Statut Komisije za tržište kapitala | [`statut/2018/317759/`](statut/2018/317759/) | in force | 1 | 2018-03-28 | 2018-03-28 |
+| Statut Ljekarske komore Crne Gore | [`statut/2018/335883/`](statut/2018/335883/) | in force | 1 | 2018-06-01 | 2018-06-01 |
 | Statut Društva sa ograničenom odgovornošću za odvođenje i prečišćavanje otpadnih voda za Opštine Kotor i Tivat | [`statut/2018/339789/`](statut/2018/339789/) | in force | 1 | 2018-04-28 | 2018-04-28 |
 | Statut Opštine Bijelo Polje | [`statut/2018/341002/`](statut/2018/341002/) | in force | 1 | 2018-06-16 | 2018-06-16 |
 | Statut Društva sa ograničenom odgovornošću za odvođenje i prečišćavanje otpadnih voda za Opštine Kotor i Tivat | [`statut/2018/347699/`](statut/2018/347699/) | in force | 1 | 2018-02-02 | 2018-02-02 |
@@ -2839,14 +3197,34 @@
 | Statut opštine Rožaje | [`statut/2018/387660/`](statut/2018/387660/) | in force | 1 | 2018-11-02 | 2018-11-02 |
 | Statut Opštine Žabljak | [`statut/2018/387915/`](statut/2018/387915/) | in force | 1 | 2018-08-04 | 2018-08-04 |
 | Statut Opštine Tivat 49 | [`statut/2018/388052/`](statut/2018/388052/) | in force | 1 | 2018-07-20 | 2018-07-20 |
+| Odluka o davanju saglasnosti na Statut Javne ustanove "Centar za pružanje usluga iz oblasti socijalne i dječije zaštite, za Opštinu u okviru Glavnog grada - Golubovci" | [`statut/2019/311931/`](statut/2019/311931/) | in force | 1 | 2019-08-01 | 2019-08-01 |
+| Statut Društva sa ograničenom odgovornošću "Regionalni vodovod Crnogorsko primorje" | [`statut/2019/324557/`](statut/2019/324557/) | in force | 1 | 2019-07-30 | 2019-07-30 |
+| Statut Zavoda za zapošljavanje Crne Gore | [`statut/2019/331021/`](statut/2019/331021/) | in force | 1 | 2019-07-20 | 2019-07-20 |
 | Statut opštine Kolašin | [`statut/2019/379415/`](statut/2019/379415/) | in force | 1 | 2019-07-04 | 2019-07-04 |
 | Statut opštine Ulcinj | [`statut/2019/380565/`](statut/2019/380565/) | in force | 1 | 2019-12-04 | 2019-12-04 |
 | Statut Društva sa ograničenom odgovornošću za odvođenje i prečišćavanje otpadnih voda za Opštine Kotor i Tivat | [`statut/2019/387235/`](statut/2019/387235/) | in force | 1 | 2019-09-09 | 2019-09-09 |
+| Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javne ustanove Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u Prijestonici | [`statut/2020/324827/`](statut/2020/324827/) | amending act | 1 | 2020-10-22 | 2020-10-22 |
+| Statut Fonda rada | [`statut/2020/333317/`](statut/2020/333317/) | in force | 1 | 2020-12-18 | 2020-12-18 |
+| Statut komore fizioterapeuta Crne Gore | [`statut/2021/309960/`](statut/2021/309960/) | in force | 1 | 2021-03-13 | 2021-03-13 |
+| Statut Društva sa ograničenom odgovornošću "Sportsko - rekreativni centar" Bar | [`statut/2021/314506/`](statut/2021/314506/) | in force | 1 | 2021-12-29 | 2021-12-29 |
+| Statut Društva sa ograničenom odgovornošću ,,Komunalne djelatnosti" Bar | [`statut/2021/317874/`](statut/2021/317874/) | in force | 1 | 2021-12-29 | 2021-12-29 |
+| Statut Društva sa ograničenom odgovornošću Vodovod "Bistrica" Bijelo Polje | [`statut/2021/319639/`](statut/2021/319639/) | in force | 1 | 2021-12-31 | 2021-12-31 |
+| Statut Akcionarskog društva za uslužne djelatnosti u vazdušnom saobraćaju "Aerodromi Crne Gore" | [`statut/2021/329617/`](statut/2021/329617/) | in force | 1 | 2021-09-04 | 2021-09-04 |
 | Statut Društva sa ograničenom odgovornošću "Monte put" Podgorica | [`statut/2021/338934/`](statut/2021/338934/) | in force | 1 | 2021-09-08 | 2021-09-08 |
 | Statut Društva sa ograničenom odgovornošću "MONTENEGRO WORKS" | [`statut/2021/339015/`](statut/2021/339015/) | in force | 1 | 2021-08-20 | 2021-08-20 |
+| Statut opštine Petnjica | [`statut/2022/291961/`](statut/2022/291961/) | in force | 1 | 2022-04-20 | 2022-04-20 |
+| Statut d.o.o. "Komunalno" Tivat | [`statut/2022/311270/`](statut/2022/311270/) | in force | 1 | 2022-05-14 | 2022-05-14 |
+| Statut Društva sa ograničenom odgovornošću "Sportsko rekreativni centar Budva" | [`statut/2022/313824/`](statut/2022/313824/) | in force | 1 | 2022-08-13 | 2022-08-13 |
+| Statut Farmaceutske komore Crne Gore | [`statut/2022/313869/`](statut/2022/313869/) | in force | 1 | 2022-03-12 | 2022-03-12 |
+| Statut Društva sa ograničenom odgovornošću "Sportsko rekreativni centar Budva" | [`statut/2022/316070/`](statut/2022/316070/) | in force | 1 | 2022-01-20 | 2022-01-20 |
+| Statut Društva sa ograničenom odgovornošću "Centar za ekotoksikološka ispitivanja" - Podgorica | [`statut/2022/316863/`](statut/2022/316863/) | in force | 1 | 2022-01-21 | 2022-01-21 |
+| Statut Društva sa ograničenom odgovornošću "Mediteranski sportski centar" Budva | [`statut/2022/318229/`](statut/2022/318229/) | in force | 1 | 2022-01-20 | 2022-01-20 |
+| Statut Društva sa ograničenom odgovornošću "Mediteranski sportski centar" Budva | [`statut/2022/328970/`](statut/2022/328970/) | in force | 1 | 2022-08-13 | 2022-08-13 |
+| Statut NVO Organizacija za zaštitu prava autora muzike Crne Gore - PAM CG | [`statut/2022/336347/`](statut/2022/336347/) | in force | 1 | 2022-04-23 | 2022-04-23 |
 | Satut Društva sa ograničenom odgovornošću "Autobuska Stanica" Tivat | [`statut/2022/340741/`](statut/2022/340741/) | in force | 1 | 2022-05-07 | 2022-05-07 |
 | Satut d.o.o. "Parking servis" Tivat | [`statut/2022/340751/`](statut/2022/340751/) | in force | 1 | 2022-05-07 | 2022-05-07 |
 | Statut Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Tivat | [`statut/2022/340932/`](statut/2022/340932/) | in force | 1 | 2022-04-29 | 2022-04-29 |
+| Statut Agencije za nadzor osiguranja | [`statut/2023/336158/`](statut/2023/336158/) | in force | 1 | 2023-04-04 | 2023-04-04 |
 | Statut NVU za kolektivna ostvarivanja prava interpretatora Crne Gore - IN CG | [`statut/2023/338359/`](statut/2023/338359/) | in force | 1 | 2023-01-25 | 2023-01-25 |
 | Statut Opštine Zeta | [`statut/2023/359900/`](statut/2023/359900/) | in force | 1 | 2023-03-21 | 2023-03-21 |
 | Statut Društva sa ograničenom odgovornošću "Project-Consulting" - Podgorica | [`statut/2023/362598/`](statut/2023/362598/) | in force | 1 | 2023-11-18 | 2023-11-18 |
@@ -2886,36 +3264,154 @@
 | Statut Društva sa ograničenom odgovornošću za transport putnika i robe u vazdušnom saobraćaju "ToMontenegro" | [`statut/2026/398829/`](statut/2026/398829/) | in force | 1 | 2026-10-06 | 2026-10-06 |
 | Statut Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Nikšić | [`statut/2026/399535/`](statut/2026/399535/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## uputstvo (36, of which 3 amending acts)
+## uputstvo (154, of which 18 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Uputstvo o načinu rukovanja i čuvanja materijala referenduma. | [`uputstvo/1992/295871/`](uputstvo/1992/295871/) | in force | 1 | 1992-02-21 | 1992-02-21 |
+| Uputstvo o jedinstvenom načinu utvrđivanja unutrašnje organizacije i sistematizacije organa državne uprave. | [`uputstvo/1992/295953/`](uputstvo/1992/295953/) | in force | 1 | 1992-03-17 | 1992-03-17 |
+| Uputstvo o redosledu plaćanja obaveza. | [`uputstvo/1992/296647/`](uputstvo/1992/296647/) | in force | 1 | 1992-02-23 | 1992-02-23 |
 | Uputstvo o određivanju količine motornog benzina i dizel goriva za poljoprivredne i šumarske mašine u privatnom vlasništvu koje nijesu registrovane. | [`uputstvo/1992/349507/`](uputstvo/1992/349507/) | in force | 1 | 1992-06-10 | 1992-06-10 |
+| Uputstvo o načinu revalorizacije obaveza po osnovu javnih prihoda za vrijeme trajanja sankcija Savjeta bezbjednosti. | [`uputstvo/1993/294711/`](uputstvo/1993/294711/) | in force | 1 | 1993-12-23 | 1993-12-23 |
 | Uputstvo o izmjenama Uputstva o načinu izdavanja i prodaji "Markice solidarnosti", kao i obračunavanju, uplati i evidentiranju sredstava naplaćenih po tom osnovu | [`uputstvo/1994/348034/`](uputstvo/1994/348034/) | in force | 1 | 1994-06-11 | 1994-06-11 |
 | Uputstvo o bližim uslovima i načinu bezgotovinskog plaćanja i slučajevima prodaje proizvoda čije se plaćanje može vršiti mimo žiro računa | [`uputstvo/1994/349670/`](uputstvo/1994/349670/) | in force | 1 | 1994-06-03 | 1994-06-03 |
 | Uputstvo o uslovima za korišćenje povlastica za nabavku građevinskog materijala bez plaćanja opšteg poreza na promet | [`uputstvo/1994/349992/`](uputstvo/1994/349992/) | in force | 1 | 1994-08-04 | 1994-08-04 |
+| Uputstvo o načinu obračunavanja i uplate sredstava za finansirnje izgradnje elektroenergetskih objekata | [`uputstvo/1995/295127/`](uputstvo/1995/295127/) | in force | 1 | 1995-01-10 | 1995-01-10 |
+| Uputstvo o načinu vođenja evidencije o isnpekcijskim pregledima koje vrše republički elektroenergetski i termoenergetski inspektori, inspektori za sistem veza, rudarski i geološki inspektori | [`uputstvo/1995/295891/`](uputstvo/1995/295891/) | in force | 1 | 1995-06-28 | 1995-06-28 |
+| Uputstvo o načinu vođenja evidencije o iz vršenim inspekcijskim pregledima komunalnih inspektora | [`uputstvo/1995/300813/`](uputstvo/1995/300813/) | in force | 1 | 1995-06-28 | 1995-06-28 |
 | Uputstvo o izmjeni Uputstva o načinu vođenja evidencije o izvršenim pregledima poljoprivrednih, šumarskih, vodoprivrednih i veterinarskih inspektora | [`uputstvo/1995/349502/`](uputstvo/1995/349502/) | in force | 1 | 1995-05-29 | 1995-05-29 |
+| Uputstvo o upućivanju na izdržavanje kazne zatvora osuđenih i prekršajno kažnjenih lica | [`uputstvo/1996/291802/`](uputstvo/1996/291802/) | in force | 1 | 1996-01-20 | 1996-01-20 |
+| Uputstvo o izvršenju smrtne kazne | [`uputstvo/1996/296766/`](uputstvo/1996/296766/) | in force | 1 | 1996-01-20 | 1996-01-20 |
 | Uputstvo o načinu proglašenja izbornih lista, sadržaju, obliku i načinu isticanja zbirnih izbornih lista | [`uputstvo/1996/366591/`](uputstvo/1996/366591/) | in force | 1 | 1996-08-06 | 1996-08-06 |
 | Uputstvo o jedinstvenim standardima za izborni materijal | [`uputstvo/1996/366998/`](uputstvo/1996/366998/) | in force | 1 | 1996-08-06 | 1996-08-06 |
 | Uputstvo o načinu ostvarivanja prava stranih posmatrača da prisustvuju izborima u Republici Crnoj Gori | [`uputstvo/1996/367386/`](uputstvo/1996/367386/) | in force | 1 | 1996-08-07 | 1996-08-07 |
 | Uputstvo o sadržini i obliku obrazaca u postupku predlaganja kandidata | [`uputstvo/1996/387466/`](uputstvo/1996/387466/) | in force | 1 | 1996-08-13 | 1996-08-13 |
+| Uputstvo o sadržaju Elaborata procjene uticaja zahvata na životnu sredinu | [`uputstvo/1997/295066/`](uputstvo/1997/295066/) | in force | 1 | 1997-07-03 | 1997-07-03 |
+| Uputstvo o načinu vođenja evidencije o inspekcijskim pregledima koje vrše građevinski inspektori | [`uputstvo/1997/295107/`](uputstvo/1997/295107/) | in force | 1 | 1997-11-22 | 1997-11-22 |
+| Uputstvo o načinu proglašenja liste kandidata za predsjednika Republike, sadržaju, obliku i načinu njenog isticanja | [`uputstvo/1997/298926/`](uputstvo/1997/298926/) | in force | 1 | 1997-07-31 | 1997-07-31 |
+| Uputstvo o jedinstvenim standardima za izborni materijal | [`uputstvo/1997/300214/`](uputstvo/1997/300214/) | in force | 1 | 1997-07-31 | 1997-07-31 |
+| Uputstvo o izmjenama i dopunama Uputstva o sadržaju izvoda iz biračkog spiska, obliku u kome se sastavlja i načinu ovjeravanja | [`uputstvo/1997/323852/`](uputstvo/1997/323852/) | amending act | 1 | 1997-10-17 | 1997-10-17 |
 | Uputstvo o načinu ostvarivanja prava posmatrača da prate rad organa za sprovođenje izbora za predsjednika Republike Crne Gore | [`uputstvo/1997/349673/`](uputstvo/1997/349673/) | in force | 1 | 1997-07-31 | 1997-07-31 |
+| UPUTSTVO O IZVODU IZ BIRAČKOG SPISKA, O BIRAČKIM MJESTIMA, SASTAVU BIRAČKIH ODBORA I NAČINU GLASANJA BIRAČA KOJI SU U PRITVORU ILI KOJI IZDRŽAVAJU KAZNU ZATVORA | [`uputstvo/1998/294661/`](uputstvo/1998/294661/) | in force | 1 | 1998-05-09 | 1998-05-09 |
+| UPUTSTVO O NAČINU PROGLAŠENJA IZBORNIH LISTA, SADRŽAJU, OBLIKU I NAČINU ISTICANJA ZBIRNIH IZBORNIH LISTA | [`uputstvo/1998/296715/`](uputstvo/1998/296715/) | in force | 1 | 1998-03-27 | 1998-03-27 |
+| Uputstvo o načinu obračunavanja i plaćanja poreskih obaveza u dvovalutnom sistemu plaćanja | [`uputstvo/1999/297507/`](uputstvo/1999/297507/) | in force | 1 | 1999-11-12 | 1999-11-12 |
+| Uputstvo o birackim spiskovima | [`uputstvo/2000/297079/`](uputstvo/2000/297079/) | in force | 1 | 2000-03-22 | 2000-03-22 |
+| Uputstvo o nacinu proglasenja izbornih lista, sadrzaju, obliku i nacinu isticanja zbirnih izbornih lista | [`uputstvo/2000/299411/`](uputstvo/2000/299411/) | in force | 1 | 2000-04-12 | 2000-04-12 |
+| Uputstvo o sadrzini evidencije stranih ulaganja | [`uputstvo/2000/300005/`](uputstvo/2000/300005/) | in force | 1 | 2000-12-08 | 2000-12-08 |
+| Uputstvo o odredjivanju uslova za osnivanje banaka i afilijacija stranih banaka | [`uputstvo/2000/300885/`](uputstvo/2000/300885/) | in force | 1 | 2000-06-08 | 2000-06-08 |
+| Odluka o dopuni Pravila o radu birackih odbora | [`uputstvo/2001/299419/`](uputstvo/2001/299419/) | amending act | 1 | 2001-03-06 | 2001-03-06 |
+| Uputstvo o jedinstvenim obrascima za sprovodjenje izbora na birackim mjestima odredjenim odlukom o odredjivanju birackih mjesta za izbor pet poslanika u Skupstinu Republike Crne Gore | [`uputstvo/2001/325267/`](uputstvo/2001/325267/) | in force | 1 | 2001-03-07 | 2001-03-07 |
 | Uputstvo za primjenu odredaba čl.116 i 122 Zakona o hartijama od vrijednosti | [`uputstvo/2001/349438/`](uputstvo/2001/349438/) | in force | 1 | 2001-07-10 | 2001-07-10 |
 | Uputstvo o nacinu i postupku uvida u dosijea vodjenih o gradjanima Republike Crne Gore u Sluzbi drzavne bezbjednosti | [`uputstvo/2001/349576/`](uputstvo/2001/349576/) | in force | 1 | 2001-10-09 | 2001-10-09 |
+| Uputstvo o obavljanju revizorskih poslova u Republici Crnoj Gori | [`uputstvo/2002/327079/`](uputstvo/2002/327079/) | in force | 1 | 2002-08-12 | 2002-08-12 |
 | Uredba o izmjeni Uredbe o privremenom uvođenju dodatnog poreza na promet proizvoda i usluga | [`uputstvo/2002/349578/`](uputstvo/2002/349578/) | in force | 1 | 2003-01-01 | 2003-01-01 |
+| Uputstvo o izmjestanju i evidentiranju obaveza i potrazivanja po osnovu ino duga | [`uputstvo/2003/303011/`](uputstvo/2003/303011/) | in force | 1 | 2003-12-16 | 2003-12-16 |
+| Uputstvo o posebnim mjerama carinskog nadzora pri stavljanju robe u slobodan promet, odnosno u postupku izvoza i tranzita secera | [`uputstvo/2003/306894/`](uputstvo/2003/306894/) | in force | 1 | 2003-06-25 | 2003-06-25 |
+| Uputstvo o izmjeni Uputstva o nacinu obavljanja platnog prometa sa Republikom Srbijom i Kosovom i Metohijom | [`uputstvo/2003/325640/`](uputstvo/2003/325640/) | in force | 1 | 2003-04-27 | 2003-04-27 |
 | Uputstvo o nacinu obracuna i naplate naknada za usluge Centralne banke Crne Gore za obavljanje platnog prometa u medjubankarskom platnom sistemu i ziro sistemu | [`uputstvo/2003/348644/`](uputstvo/2003/348644/) | in force | 1 | 2003-09-24 | 2003-09-24 |
 | Uputstvo o nacinu sprovodjenja postupka u vezi sa ostvarivanjem prava na oslobadjanje od placanja poreza na dodatu vrijednost u slucajevima kada je to predvidjeno medjunarodnim sporazumom, odnosno ugovorom | [`uputstvo/2003/348912/`](uputstvo/2003/348912/) | in force | 1 | 2003-06-10 | 2003-06-10 |
+| Uputstvo o otvaranju posebnog racuna za vodjenje novcanih sredstava pri obavljanju dilerskih poslova | [`uputstvo/2004/292037/`](uputstvo/2004/292037/) | in force | 1 | 2004-08-07 | 2004-08-07 |
+| Uputstvo za ocjenu uskladjenosti propisa sa odgovarajucim propisima Evropske Unije | [`uputstvo/2004/292045/`](uputstvo/2004/292045/) | in force | 1 | 2004-12-08 | 2004-12-08 |
+| Uputstvo o izmjenama i dopunama Uputstva o nacinu popunjavanja i izdavanja uvjerenja koja prate robu pri izvozu u Evropsku uniju | [`uputstvo/2004/297692/`](uputstvo/2004/297692/) | amending act | 1 | 2004-01-28 | 2004-01-28 |
+| Uputstvo o nacinu trgovanja akcijama privatizacionih investicionih fondova | [`uputstvo/2004/298136/`](uputstvo/2004/298136/) | in force | 1 | 2005-01-01 | 2005-01-01 |
+| Uputstvo o izmjeni Uputstva o nacinu obavljanja platnog prometa sa Republikom Srbijom i Kosovom i Metohijom | [`uputstvo/2004/299524/`](uputstvo/2004/299524/) | in force | 1 | 2004-03-13 | 2004-03-13 |
+| Uputstvo o nacelima za utvrdjivanje indikatora za prepoznavanje sumnjivih transakcija na trzistu hartija od vrijednosti | [`uputstvo/2004/299565/`](uputstvo/2004/299565/) | in force | 1 | 2004-02-13 | 2004-02-13 |
+| Uputstvo o nacinu i postupku revalorizacije iznosa duga bivseg vlasnika | [`uputstvo/2004/299696/`](uputstvo/2004/299696/) | in force | 1 | 2004-11-06 | 2004-11-06 |
+| Uputstvo o primjeni uslova za uvrstavanje hartija od vrijednosti na berzansku kotaciju na liste A ili B i nacinu trgovanja tim hartijama od vrijednosti | [`uputstvo/2004/299839/`](uputstvo/2004/299839/) | in force | 1 | 2004-10-01 | 2004-10-01 |
 | Uputstvo o izmjeni Uputstva o operativnim procedurama koje banke primjenjuju u obavljanju poslova platnog prometa u medjubankarskom platnom sistemu i ziro sistemu ciji je operater Centralna banka Crne Gore | [`uputstvo/2004/343711/`](uputstvo/2004/343711/) | in force | 1 | 2004-07-17 | 2004-07-17 |
 | Uputstvo o obracunu i naplati naknade drustava za upravljanje investicionim fondovima | [`uputstvo/2004/348262/`](uputstvo/2004/348262/) | in force | 1 | 2004-11-13 | 2004-11-13 |
 | Uredba o dopuni Uredbe o konverziji devizne stednje gradjana u obveznice | [`uputstvo/2004/349618/`](uputstvo/2004/349618/) | amending act | 1 | 2004-11-13 | 2004-11-13 |
+| Uputstvo o ovjeravanju punomocja za obavljanje odredjenih poslova sa hartijama od vrijednosti | [`uputstvo/2005/297853/`](uputstvo/2005/297853/) | in force | 1 | 2006-01-05 | 2006-01-05 |
+| Uputstvo o nacinu prijema prihvata Javne ponude za preuzimanje i isplate sredstava akcionarima koji su prihvatili ovu ponudu | [`uputstvo/2005/298369/`](uputstvo/2005/298369/) | in force | 1 | 2005-04-06 | 2005-04-06 |
+| Uputstvo o izmjeni i dopuni Uputstva o nacinu prodaje akcija akcionarskih drustava za koje je planom privatizacije utvrdjena berzanska prodaja | [`uputstvo/2005/307432/`](uputstvo/2005/307432/) | amending act | 1 | 2005-12-17 | 2005-12-17 |
+| Uputstvo o nacinu prodaje akcija ciji je vlasnik Republika Crna Gora | [`uputstvo/2005/307496/`](uputstvo/2005/307496/) | in force | 1 | 2005-08-06 | 2005-08-06 |
+| Uputstvo o nacinu prijema prihvata javne ponude za preuzimanje i isplate sredstava akcionarima koji su prihvatili ovu ponudu | [`uputstvo/2006/292088/`](uputstvo/2006/292088/) | in force | 1 | 2006-03-10 | 2006-03-10 |
+| Uputstvo o nacinu popunjavanja obrazaca dozvola za radio stanice | [`uputstvo/2006/298890/`](uputstvo/2006/298890/) | in force | 1 | 2006-05-03 | 2006-05-03 |
+| Uputstvo o upucivanju osudjenih i prekrsajno kaznjenih lica na izdrzavanje kazne zatvora | [`uputstvo/2006/299995/`](uputstvo/2006/299995/) | in force | 1 | 2006-11-18 | 2006-11-18 |
+| Uputstvo u vezi sa formiranjem posebne liste za trgovanje obveznicama jedinica lokalne samouprave | [`uputstvo/2006/324973/`](uputstvo/2006/324973/) | in force | 1 | 2006-11-09 | 2006-11-09 |
+| Uputstvo o nacinu i postupku isplate sredstava sa racuna depozita za eksproprijaciju | [`uputstvo/2006/325561/`](uputstvo/2006/325561/) | in force | 1 | 2006-12-30 | 2006-12-30 |
+| Uputstvo o objavljivanju određenih podataka Centralne Depozitarne Agencije o vlasništvu nad akcijama | [`uputstvo/2007/291523/`](uputstvo/2007/291523/) | in force | 1 | 2007-12-21 | 2007-12-21 |
+| Uputstvo o nacinu realizacije isplate devizne stednje gradjana polozene kod ovlascenih banaka sa sjedistem van Republike Crne Gore | [`uputstvo/2007/298067/`](uputstvo/2007/298067/) | in force | 1 | 2007-04-05 | 2007-04-05 |
+| Uputstvo u vezi sa formiranjem posebne liste za trgovanje obveznicama Republike Crne Gore i jedinica lokalne samouprave | [`uputstvo/2007/305596/`](uputstvo/2007/305596/) | in force | 1 | 2007-02-13 | 2007-02-13 |
+| Uputstvo o vrsenju metroloskog nadzora | [`uputstvo/2007/307258/`](uputstvo/2007/307258/) | in force | 1 | 2007-01-19 | 2007-01-19 |
 | Uputstvo o dopuni Uputstva o sadrzaju i formi obrazaca izvjestaja koje mikrokreditne finansijske institucije dostavljaju Centralnoj banci Crne Gore | [`uputstvo/2007/348596/`](uputstvo/2007/348596/) | amending act | 1 | 2007-07-14 | 2007-07-14 |
+| Uputstvo za izradu Plana odbrane Crne Gore | [`uputstvo/2008/297931/`](uputstvo/2008/297931/) | in force | 1 | 2008-03-29 | 2008-03-29 |
+| Uputstvo o izmjenama i dopunama Uputstva o radu Registra zaloga | [`uputstvo/2008/336719/`](uputstvo/2008/336719/) | amending act | 1 | 2008-07-25 | 2008-07-25 |
 | Uputstvo o sadrzaju, odnosno obrascu izvjestaja o prikupljenim i utrosenim sredstvima iz javnih i privatnih izvora za izbornu kampanju | [`uputstvo/2008/338204/`](uputstvo/2008/338204/) | in force | 1 | 2008-11-29 | 2008-11-29 |
+| Uputstvo o nacinu preusmjeravanja sredstava iz opstih prihoda Budzeta Crne Gore za finansiranje osnovne djelatnosti Javnog preduzeca Radio televizija Crne Gore | [`uputstvo/2009/327831/`](uputstvo/2009/327831/) | in force | 1 | 2009-01-21 | 2009-01-21 |
+| Uputstvo o procjeni fiskalnog uticaja na Budzet | [`uputstvo/2009/332946/`](uputstvo/2009/332946/) | in force | 1 | 2010-01-07 | 2010-01-07 |
+| Uputstvo o nacinu vodjenja evidencije u inspekcijskom nadzoru koji vrsi Inspekcija zastite prostora | [`uputstvo/2010/326025/`](uputstvo/2010/326025/) | in force | 1 | 2010-03-31 | 2010-03-31 |
+| Uputstvo o nacinu vodjenja evidencije u inspekcijskom nadzoru koji vrsi Inspekcija za gradjevinarstvo | [`uputstvo/2010/326902/`](uputstvo/2010/326902/) | in force | 1 | 2010-03-31 | 2010-03-31 |
+| Uputstvo o primjeni odredaba Zakona o obligacionim odnosima u vezi sa uslovima i nacinu upisa vlasnistva na hartijama od vrijednosti po osnovu ugovora o vansudskom poravnanju i nacinu objavljivanja podataka o netrzisnim transakcijama | [`uputstvo/2010/338285/`](uputstvo/2010/338285/) | in force | 1 | 2010-12-31 | 2010-12-31 |
+| Uputstvo o velicini, izgledu i sadrzini sluzbene legitimacije kontrolora komisije za hartije od vrijednosti | [`uputstvo/2011/303217/`](uputstvo/2011/303217/) | in force | 1 | 2011-03-05 | 2011-03-05 |
+| Uputstvo o utvrdjivanju metodologije za izracunavanje indikativnog cilja poboljsanja energetske efikasnosti | [`uputstvo/2011/320868/`](uputstvo/2011/320868/) | in force | 1 | 2011-04-01 | 2011-04-01 |
+| Uputstvo o blizem nacinu vrsenja popisa pokretnih i nepokretnih stvari u drzavnoj svojini | [`uputstvo/2011/336619/`](uputstvo/2011/336619/) | in force | 1 | 2011-10-01 | 2011-10-01 |
+| Uputstvo za obracun bruto zarada | [`uputstvo/2011/337751/`](uputstvo/2011/337751/) | in force | 1 | 2011-01-21 | 2011-01-21 |
+| Uputstvo o načinu evidentiranja rezervacija za potencijalne kreditne gubitke, ispravki vrijednosti i otpisanih stavki bilansne aktive pri utvrđivanju početnog stanja u poslovnim knjigama banaka za 2013. godinu | [`uputstvo/2012/327268/`](uputstvo/2012/327268/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Uputstvo o dopuni Uputstva o načinu i postupku raspodjele sredstava Egalizacionog fonda opštinama | [`uputstvo/2012/335814/`](uputstvo/2012/335814/) | amending act | 1 | 2012-06-08 | 2012-06-08 |
 | Uputstvo o sačinjavanju izvještaja o sprovedenoj analizi procjene uticaja propisa | [`uputstvo/2012/339095/`](uputstvo/2012/339095/) | in force | 1 | 2012-02-11 | 2012-02-11 |
+| Uputstvo o radu trezora Opštine Pljevlja | [`uputstvo/2013/314278/`](uputstvo/2013/314278/) | in force | 1 | 2013-03-14 | 2013-03-14 |
+| Uputstvo o izmjeni Uputstva o radu državnog trezora | [`uputstvo/2013/318388/`](uputstvo/2013/318388/) | in force | 1 | 2013-04-06 | 2013-04-06 |
+| Uputstvo o sadržaju i načinu podnošenja zahtjeva za izdavanje odobrenja za sprovođenje koncentracije | [`uputstvo/2013/325967/`](uputstvo/2013/325967/) | in force | 1 | 2013-04-20 | 2013-04-20 |
+| Uputstvo o obrascima izvještaja o utrošenim budžetskim sredstvima za izbornu kampanju | [`uputstvo/2013/333898/`](uputstvo/2013/333898/) | in force | 1 | 2013-03-02 | 2013-03-02 |
+| Uputstvo o obrascima izvještaja o prihodima i imovini kandidata za izbor Predsjednika Crne Gore | [`uputstvo/2013/334148/`](uputstvo/2013/334148/) | in force | 1 | 2013-03-02 | 2013-03-02 |
+| Uputstvo o obrascima kompletnog izvještaja o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava za izbornu kampanju | [`uputstvo/2013/334157/`](uputstvo/2013/334157/) | in force | 1 | 2013-03-02 | 2013-03-02 |
+| Uputstvo o obrascima izvještaja o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava za izbornu kampanju iz privatnih izvora | [`uputstvo/2013/334158/`](uputstvo/2013/334158/) | in force | 1 | 2013-03-02 | 2013-03-02 |
 | Uputstvo o izmjeni Uputstva o sadržaju zahtjeva za isplatu i načinu realizacije isplate deviznih sredstava građana položenih kod Dafiment banke AD Beograd i banke Privatne privrede DD Podgorica položenih preko preduzeća Jugoskandik DD Beograd | [`uputstvo/2013/348368/`](uputstvo/2013/348368/) | in force | 1 | 2013-06-19 | 2013-06-19 |
+| Uputstvo o dopuni uputstva o radu Državnog trezora | [`uputstvo/2014/291403/`](uputstvo/2014/291403/) | amending act | 1 | 2014-03-04 | 2014-03-04 |
+| Uputstvo o sadržaju i načinu dostavljanja podataka o stranim investicijama | [`uputstvo/2014/304446/`](uputstvo/2014/304446/) | in force | 1 | 2014-04-25 | 2014-04-25 |
+| Uputstvo o postupku i organizaciji davanja potpisa birača za podršku izbornoj listi za izbor odbornika i poslanika i sadržini i obliku obrasca za davanje potpisa birača | [`uputstvo/2014/304498/`](uputstvo/2014/304498/) | in force | 1 | 2014-03-25 | 2014-03-25 |
+| Uputstvo o načinu proglašenja izbornih lista, sadržaju, obliku i načiinu isticanja zbirne izborne liste | [`uputstvo/2014/306411/`](uputstvo/2014/306411/) | in force | 1 | 2014-04-11 | 2014-04-11 |
+| Uputstvo o postupku emisije i načinu prodaje državnih zapisa | [`uputstvo/2014/322566/`](uputstvo/2014/322566/) | in force | 1 | 2014-09-13 | 2014-09-13 |
+| Uputstvo o primjeni odredaba Zakona o obligacionim odnosima u vezi sa uslovima i načinom upisa vlasništva na hartijama od vrijednosti po osnovu ugovora o vansudskom poravnanju | [`uputstvo/2014/336422/`](uputstvo/2014/336422/) | in force | 1 | 2014-10-01 | 2014-10-01 |
+| Uputstvo o načinu objavljivanja podataka o netržišnim transakcijama | [`uputstvo/2014/336430/`](uputstvo/2014/336430/) | in force | 1 | 2014-10-01 | 2014-10-01 |
+| Uputstvo za suzbijanje štetnog organizma Diabrotica virgifera virgifera Le Conte u područjima gdje je njeno prisustvo potvrđeno | [`uputstvo/2014/336677/`](uputstvo/2014/336677/) | in force | 1 | 2014-11-15 | 2014-11-15 |
+| Uputstvo o izmjeni Uputstva o načinu obračunavanja i plaćanja poreza i doprinosa iz i na lična primanja po osnovu zaposlenja | [`uputstvo/2015/309636/`](uputstvo/2015/309636/) | in force | 1 | 2015-01-17 | 2015-01-17 |
+| Uputstvo o izmjeni Uputstva o načinu obračunavanja i plaćanja poreza i doprinosa iz i na lična primanja po osnovu zaposlenja | [`uputstvo/2015/310940/`](uputstvo/2015/310940/) | in force | 1 | 2015-03-06 | 2015-03-06 |
+| Uputstvo o sadržini izvještaja o prilozima pravnih i fizičkih lica političkim subjektima u toku izborne kampanje | [`uputstvo/2015/319718/`](uputstvo/2015/319718/) | in force | 1 | 2015-04-03 | 2015-04-03 |
+| Uputstvo o sadržaju izvještaja i načinu izvještavanja o sistemu finansijskog upravljanja i kontrola | [`uputstvo/2015/321986/`](uputstvo/2015/321986/) | in force | 1 | 2015-07-18 | 2015-07-18 |
+| Uputstvo o obrascu izvještaja o porijeklu, visini i stukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora za izbornu kampanju za izbor Predsjednika Crne Gore | [`uputstvo/2015/336635/`](uputstvo/2015/336635/) | in force | 1 | 2015-08-08 | 2015-08-08 |
+| Uputstvo o načinu i postupku prijavljivanja i rješavanja prigovora podnijetih u toku izborne kampanje | [`uputstvo/2015/336645/`](uputstvo/2015/336645/) | in force | 1 | 2015-08-08 | 2015-08-08 |
+| Uputstvo o obrascu izvještaja o porijeklu, visini i stukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora za izbornu kampanju za izbor odbornika i poslanika | [`uputstvo/2015/336797/`](uputstvo/2015/336797/) | in force | 1 | 2015-08-08 | 2015-08-08 |
 | Uputstvo o metodologiji vršenja finansijske revizije i revizije pravilnosti | [`uputstvo/2015/338717/`](uputstvo/2015/338717/) | in force | 1 | 2015-02-25 | 2015-02-25 |
+| Uputstvo o izmjenama Uputstva o načinu korišćenja elektronskih uređaja za identifikaciju birača | [`uputstvo/2016/312507/`](uputstvo/2016/312507/) | in force | 1 | 2016-02-19 | 2016-02-19 |
+| Uputstvo o načinu i postupku prijavljivanja i rješavanja prigovora podnijetih u toku izborne kampanje | [`uputstvo/2016/316763/`](uputstvo/2016/316763/) | in force | 1 | 2016-02-11 | 2016-02-11 |
+| Uputstvo o sadržini izvještaja o prilozima pravnih i fizičkih lica političkim subjektima u toku izborne kampanje | [`uputstvo/2016/327267/`](uputstvo/2016/327267/) | in force | 1 | 2016-02-11 | 2016-02-11 |
+| Uputstvo o radu trezora Opštine Kotor | [`uputstvo/2016/330029/`](uputstvo/2016/330029/) | in force | 1 | 2016-06-15 | 2016-06-15 |
 | Uputstvo o izmjeni Uputstva o načinu obračunavanja i plaćanja poreza i doprinosa iz i na lična primanja po osnovu zaposlenja | [`uputstvo/2016/338985/`](uputstvo/2016/338985/) | in force | 1 | 2016-02-12 | 2016-02-12 |
 | Uputstvo o obrascu izvještaja o porijeklu, visini i stukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora za izbornu kampanju za izbor poslanika i odbornika | [`uputstvo/2016/338992/`](uputstvo/2016/338992/) | in force | 1 | 2016-02-11 | 2016-02-11 |
 | Uputstvo o obrascu izvještaja o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora za izbornu kampanju za izbor Predsjednika Crne Gore | [`uputstvo/2016/338993/`](uputstvo/2016/338993/) | in force | 1 | 2016-02-11 | 2016-02-11 |
+| Uputstvo o dopunama Uputstva o načinu čuvanja i korišćenja izbornog materijala | [`uputstvo/2017/310985/`](uputstvo/2017/310985/) | amending act | 1 | 2017-11-17 | 2017-11-17 |
+| Uputstvo o dopunama Uputstva o načinu rukovanja i dostavljanja izbornog materijala | [`uputstvo/2017/315388/`](uputstvo/2017/315388/) | amending act | 1 | 2017-11-17 | 2017-11-17 |
+| Uputstvo o radu trezora Glavnog grada Podgorica | [`uputstvo/2017/318988/`](uputstvo/2017/318988/) | in force | 1 | 2017-06-20 | 2017-06-20 |
+| Uputstvo o postupku davanja potpisa birača za podršku kandidatu za Predsjednika Crne Gore | [`uputstvo/2017/332577/`](uputstvo/2017/332577/) | in force | 1 | 2017-11-17 | 2017-11-17 |
+| Uputstvo o izmjeni Uputstva o načinu obračunavanja i plaćanja poreza i doprinosa iz i na lična primanja po osnovu zaposlenja | [`uputstvo/2017/333485/`](uputstvo/2017/333485/) | in force | 1 | 2017-02-16 | 2017-02-16 |
+| Uputstvo o metodologiji vršenja revizije uspjeha | [`uputstvo/2017/336531/`](uputstvo/2017/336531/) | in force | 1 | 2017-07-20 | 2017-07-20 |
+| Uputstvo o izmjeni uputstva o načinu obračunavanja i plaćanja poreza i doprinosa iz i na lična primanja po osnovu zaposlenja | [`uputstvo/2019/332936/`](uputstvo/2019/332936/) | in force | 1 | 2019-03-16 | 2019-03-16 |
+| Uputstvo o sadržaju zahtjeva za dugoročno zaduživanje opština, privrednih društava, ustanova i drugih pravnih lica čiji je osnivač opština | [`uputstvo/2019/333785/`](uputstvo/2019/333785/) | in force | 1 | 2019-02-27 | 2019-02-27 |
+| Uputstvo o izmjeni Uputstva o načinu obračunavanja i plaćanja poreza i doprinosa iz i na lična primanja po osnovu zaposlenja | [`uputstvo/2019/336688/`](uputstvo/2019/336688/) | in force | 1 | 2019-08-15 | 2019-08-15 |
+| Uputstvo o metodologiji vršenja revizije uspjeha | [`uputstvo/2019/337840/`](uputstvo/2019/337840/) | in force | 1 | 2019-12-21 | 2019-12-21 |
+| Upustvo o radu predsjednika Opštine | [`uputstvo/2020/310072/`](uputstvo/2020/310072/) | in force | 1 | 2020-08-28 | 2020-08-28 |
+| Uputstvo o upućivanju na izvršenje kazne zatvora i kazne dugotrajnog zatvora u organizacione jedinice Uprave za izvršenje krivičnih sankcija | [`uputstvo/2020/329160/`](uputstvo/2020/329160/) | in force | 1 | 2020-06-04 | 2020-06-04 |
+| Uputstvo o planiranju i sprovođenju centralizovanih javnih nabavki | [`uputstvo/2020/331691/`](uputstvo/2020/331691/) | in force | 1 | 2020-08-21 | 2020-08-21 |
+| Uputstvo o izmjenama Uputstva o načinu rukovanja i dostavljanja izbornog materijala | [`uputstvo/2020/333406/`](uputstvo/2020/333406/) | in force | 1 | 2020-03-24 | 2020-03-24 |
+| Uputstvo o pripremi i procjeni analize uticaja odluka i drugih propisa organa lokalne samouprave | [`uputstvo/2020/333532/`](uputstvo/2020/333532/) | in force | 1 | 2020-11-06 | 2020-11-06 |
+| Uputstvo o izmjenama Uputstva o načinu čuvanja i korišćenja izbornog materijala | [`uputstvo/2020/334224/`](uputstvo/2020/334224/) | in force | 1 | 2020-03-24 | 2020-03-24 |
+| Uputstvo o izmjeni Uputstva o načinu utvrđivanja kandidature za izbor predsjednika Crne Gore, sadržaju i načinu isticanja liste kandidata | [`uputstvo/2022/318877/`](uputstvo/2022/318877/) | in force | 1 | 2023-01-07 | 2023-01-07 |
+| Uputstvo o izmjeni i dopuni Uputstva o jedinstvenim obrascima za sprovođenje izbornih radnji | [`uputstvo/2022/319906/`](uputstvo/2022/319906/) | amending act | 1 | 2022-07-30 | 2022-07-30 |
+| Uputstvo o dopuni Uputstva o sadržini i obliku obrazaca u postupku predlaganja kandidata za izbor odbornika i poslanika | [`uputstvo/2022/320695/`](uputstvo/2022/320695/) | amending act | 1 | 2022-02-26 | 2022-02-26 |
+| Uputstvo o dopuni Uputstva o bližem načinu rada trezora jedinica lokalne samouprave | [`uputstvo/2022/322116/`](uputstvo/2022/322116/) | amending act | 1 | 2022-03-12 | 2022-03-12 |
+| Uputstvo o izmjenama Uputstva o načinu rukovanja i dostavljanja izbornog materijala | [`uputstvo/2022/322489/`](uputstvo/2022/322489/) | in force | 1 | 2022-06-23 | 2022-06-23 |
+| Uputstvo o izmjeni Uputstva o načinu utvrđivanja kandidature za izbor predsjednika Crne Gore, sadržaju i načinu isticanja liste kandidata | [`uputstvo/2022/328583/`](uputstvo/2022/328583/) | in force | 1 | 2022-07-02 | 2022-07-02 |
+| Uputstvo o izmjeni Uputstva o načinu čuvanja i korišćenja izbornog materijala | [`uputstvo/2022/329570/`](uputstvo/2022/329570/) | in force | 1 | 2022-06-23 | 2022-06-23 |
+| Uputstvo o izmjeni i dopuni Uputstva o jedinstvenim obrascima za sprovođenje izbornih radnji za izbor predsjednika Crne Gore | [`uputstvo/2022/329788/`](uputstvo/2022/329788/) | amending act | 1 | 2023-01-07 | 2023-01-07 |
+| Uputstvo o dopuni Uputstva o načinu rukovanja i dostavLjanja izbornog materijala | [`uputstvo/2022/332316/`](uputstvo/2022/332316/) | amending act | 1 | 2023-01-07 | 2023-01-07 |
+| Uputstvo o dopuni Uputstva o postupku davanja potpisa birača za podršku izbornoj listi za izbor odbornika-poslanika | [`uputstvo/2022/333446/`](uputstvo/2022/333446/) | amending act | 1 | 2022-02-26 | 2022-02-26 |
+| Uputstvo o bližem načinu utvrđivanja transfernih cijena transakcija | [`uputstvo/2022/333750/`](uputstvo/2022/333750/) | in force | 1 | 2022-11-10 | 2022-11-10 |
+| Uputstvo o izmjeni Uputstva o načinu obračuna zarade i naknade za vrijeme privremene spriječenosti za rad | [`uputstvo/2022/334706/`](uputstvo/2022/334706/) | in force | 1 | 2022-02-25 | 2022-02-25 |
+| Uputstvo o izmjenama Uputstva o nacinu obracunavanja i placanja poreza i doprinosa iz i na licna primanja po osnovu zaposlenja | [`uputstvo/2022/336447/`](uputstvo/2022/336447/) | in force | 1 | 2022-01-12 | 2022-01-12 |
+| Uputstvo o postupku provjere ispunjenosti uslova za učešće privrednih subjekata registrovanih u Crnoj Gori za učešće u nabavkama za potrebe Sjeverno-atlantskog saveza | [`uputstvo/2023/324140/`](uputstvo/2023/324140/) | in force | 1 | 2023-03-30 | 2023-03-30 |
+| Uputstvo o izmjeni Uputstva o načinu obračuna zarade i naknade za vrijeme privremene spriječenosti za rad | [`uputstvo/2023/332695/`](uputstvo/2023/332695/) | in force | 1 | 2023-04-04 | 2023-04-04 |
 | Uputstvo o sprovođenju preliminarne kontrole na rizike od korupcije | [`uputstvo/2024/372311/`](uputstvo/2024/372311/) | in force | 1 | 2024-08-09 | 2024-08-09 |
 | Uputstvo o izmjenama Uputstva o načinu obračunavanja i plaćanja poreza i doprinosa iz i na lična primanja po osnovu zaposlenja | [`uputstvo/2024/374308/`](uputstvo/2024/374308/) | in force | 1 | 2024-10-26 | 2024-10-26 |
 | Uputstvo o načinu i postupku isplate sredstava za eksproprisane nepokretnosti sa depozitnih računa za eksproprijaciju | [`uputstvo/2024/375975/`](uputstvo/2024/375975/) | in force | 1 | 2024-12-23 | 2024-12-23 |
