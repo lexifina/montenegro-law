@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 9 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 9 stav 3, člana 29 stav 2 i člana 34 stav 3 Zakona o državnoj imovini ("Službeni list Crne Gore", br. 21/09, 40/11, 23/25 i 160/25), člana 21 Uredbe o prodaji i davanju u zakup stvari u državnoj imovini ("Službeni list Crne Gore", broj 44/10) i člana 37 stav 1 tačka 9 Statuta Opštine Kolašin ("Službeni list Crne Gore - Opštinski propisi", broj 24/19) uz prethodnu saglasnost Vlade Crne Gore, br. 11-011/26-3070/3 od 30. 7. 2026. godine, Skupština opštine Kolašin, na sjednici održanoj dana 13. 10. i 14. 10. 2026. godine, donijela je
+O D L U K U
+o razmjeni zemljišta između države Crne Gore - Opštine Kolašin i "VOLI Trade" DOO
