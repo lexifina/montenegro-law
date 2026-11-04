@@ -15,6 +15,7 @@ snagu" (checked against the act's own final article when that names a day counte
 
 An act is held back, not published, when (the reason goes to the report):
 - the PIS lists acts amending it, or a later act's title names it as amended, corrected (Ispravka) or repealed;
+  (an act already published before such a title was read stays as published when listed with --kept, by decision);
 - it has no in-force day, or its own final article gives a different one;
 - its PDF has no text layer (a scan) or its articles don't number cleanly (a gap, a repeat, a heading out of order).
 The President's promulgation decree printed above a law, and the signatures, are left out (as in the rest of this
@@ -707,10 +708,14 @@ def main():
     ap.add_argument("--kinds", help="comma-separated kinds to publish (default: all)")
     ap.add_argument("--cache", help="optional .json.gz file keeping what is read from each input file (PDF text, act "
                                     "page, listing page) between runs")
+    ap.add_argument("--kept", help="JSON {id: note}: acts already published that a later listing title names as "
+                                   "amended, kept as published by decision (the named-as-amended check is skipped "
+                                   "for them; every other check still applies)")
     a = ap.parse_args()
     src = Path(a.src)
     exclude = set(Path(a.exclude).read_text().split()) if a.exclude and Path(a.exclude).exists() else set()
     rejects = json.loads(Path(a.rejects).read_text(encoding="utf-8")) if a.rejects and Path(a.rejects).exists() else {}
+    kept = set(json.loads(Path(a.kept).read_text(encoding="utf-8"))) if a.kept and Path(a.kept).exists() else set()
     cache = None
     if a.cache:
         try:
@@ -752,7 +757,7 @@ def main():
             if tm:
                 k = tail_key(tm.group(1), tm.group(2))
                 others = (named.get(k) or set()) - {i}
-                if others:
+                if others and str(i) not in kept:   # `kept`: on main before the naming title was read, by decision
                     raise Hold("named_as_amended:" + ",".join(map(str, sorted(others)[:5])))
             if not m["published"]:
                 raise Hold("no_publication_day")
