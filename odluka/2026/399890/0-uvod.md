@@ -1,0 +1,2 @@
+Na osnovu člana 93 stav 1 tačka 5 Zakona o sprečavanju korupcije ("Službeni list Crne Gore", br. 54/24, 41/26, 098/26, 114/26, 117/26), i člana 10 stav 1 alineja 12 Statuta Agencije za sprečavanje korupcije ("Službeni list Crne Gore", br. 81/24, 82/24 i 108/26) Savjet Agencije za sprečavanje korupcije, na predlog direktorice Agencije, na 73. sjednici održanoj dana 28. septembra 2026. godine, donio je
+ODLUKU O IZMJENAMA I DOPUNAMA PRAVILA O RADU AGENCIJE ZA SPREČAVANJE KORUPCIJE U DIJELU PROVJERE PRIHODA I IMOVINE
