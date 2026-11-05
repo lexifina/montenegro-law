@@ -1,0 +1,2 @@
+# Član 2
+U članu 2, stav 1, mijenja se i glasi: "Na katastarskim parcelama broj 2167, 2168, 2169, 2170, 2171, 2172, 2173, 2174 KO Gluhi Do, uraditi tehničku dokumentaciju za solarnu elektranu snage 3,4 MW, a sve u skladu sa Uslovima za izradu tehničke dokumentacije za priključenje na distributivni sistem broj 30-20-5348 od 26. 11. 2025. godine izrađenim od strane DOO "CEDIS" koji se odnosi na solarnu elektranu snage 3,4 MW sa trafostanicom 35/0.8 kV, koja je sastavni dio solarne elektrane, i priključnim vodom 35 kV koji se uklapa u postojeću 35 kV mrežu.".
