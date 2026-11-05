@@ -1,0 +1,2 @@
+Na osnovu člana 13a Zakona o strateškoj procjeni uticaja na životnu sredinu ("Službeni list RCG", br. 80/05 i "Službeni list CG", br. 73/10, 40/11, 59/11, 52/16 i 84/24), nakon izvršene ocjene potrebe izrade strateške procjene uticaja na životnu sredinu i primjene kriterijuma utvrđenih članom 13 istog zakona, Sekretarijat za saobraćaj i stambeno-komunalne djelatnosti Opštine Tivat, kao organ nadležan za pripremu Lokalnog plana upravljanja komunalnim i neopasnim građevinskim otpadom Opštine Tivat, donosi
+ODLUKU

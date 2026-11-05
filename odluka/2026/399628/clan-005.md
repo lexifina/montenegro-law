@@ -1,0 +1,2 @@
+# Član 5
+Odluka o nepreduzimanju izrade strateške procjene za Lokalni plan ne utiče na obavezu sprovođenja postupka procjene uticaja na životnu sredinu za pojedinačne projekte, objekte i aktivnosti koji budu planirani ili realizovani u okviru sprovođenja Lokalnog plana, ukoliko za njih, u zavisnosti od vrste, kapaciteta, lokacije i drugih karakteristika, postoji obaveza sprovođenja odgovarajućeg postupka u skladu sa posebnim propisima.
