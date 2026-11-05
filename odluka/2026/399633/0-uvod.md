@@ -1,0 +1,3 @@
+Na osnovu člana 38 stav 1 tačka 2 Zakona o lokalnoj samoupravi ("Službeni list CG", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 26 stav 1 Zakona o komunalnim djelatnostima ("Službeni list Crne Gore", br. 55/16, 74/16, 02/18, 66/19, 140/22 i 84/24) i člana 11 stav 1 tačka 7 Odluke o osnivanju DOO "Komunalno/Komunale" Tuzi, ("Službeni list - Opštinski propisi", br. 33/19, 40/21 i 3/24), Skupština opštine Tuzi, na sjednici održanoj 22. 10. 2026. godine, donijela je
+ODLUKU
+o davanju saglasnosti na Prvu izmjenu Godišnjeg programa obavljanja komunalnih djelatnosti Društva sa ograničenom odgovornošću "Komunalno / Komunale" Tuzi za 2026.
