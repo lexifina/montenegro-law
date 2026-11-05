@@ -1,0 +1,2 @@
+Na osnovu člana 38 stav 1 tačka 2, a u vezi sa članom 59 Zakona o lokalnoj samoupravi ("Službeni list Crne Gore", br. 2/18, 34/19, 38/20, 50/22, 84/22, 81/25 i 98/25), člana 6 i 13 Odluke o pravima iz socijalne i dječje zaštite ("Službeni list Crne Gore - Opštinski propisi", broj 32/19) a u vezi sa članom 53 stav 1 tačka 2 Statuta Opštine Tuzi ("Službeni list Crne Gore - Opštinski propisi", br. 24/19, 5/20, 51/22, 55/22 i 15/26), na sjednici Skupština opštine Tuzi održanoj 22. 10. 2026. godine, donijela je
+ODLUKU
