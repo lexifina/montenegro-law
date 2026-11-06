@@ -1,0 +1,35 @@
+# Član 3
+Član 19 mijenja se i glasi:
+"Sekretarijat za zaštitu imovinsko-pravnih interesa opštine, vrši poslove koji se odnose na:
+- vršenje poslova zaštite imovinsko - pravnih interesa Opštine, odnosno zastupanje Opštine pred nadležnim sudovima i drugim državnim organima - Zaštitnik imovinsko-pravnih interesa opštine;
+- praćenje i sprovođenje zakona i propisa donesenih na osnovu zakona u oblasti: državne imovine, državnog premjera i katastra nepokretnosti, obligacionih, svojinsko-pravnih odnosa, građevinskog zemjišta i drugih oblasti koje su u vezi sa ostvarivanjem funkcija organa; izjašnjavanje na nacrte i predloge zakona i drugih propisa u ovim oblastima;
+- vrši izradu propisa koji se odnose na raspolaganje imovinom opštine;
+- učestvuje u upravljanju, raspolaganju i zaštitu opštinske imovine, u skladu sa Zakonom, Statutom, opštim aktima i dobrom praksom;
+- postupanje po inicijativama građana iz djelokruga organa;
+- vrši predlaganje akata koji se odnose na imovinska prava i ovlašćenja koje Opština vrši u pogledu imovine koja služi za ostvarivanje njenih funkcija;
+- pokreće postupke za upis prava na nepokretnostima;
+- pokreće postupak za prenos prava na građevinskom zemljištu i vrši stručnu obradu akata o prenosu prava na nepokretnostima i zaključuje ugovore , po ovlašćenju predsjednika opštine;
+- vrši popis i evidenciju nepokretnih i pokretnih stvari kojima raspolaže opština a koje organ koristi za ostvarivanje svoje funkcije i službenih zgrada i prostorija koje koristi više organa uprave, opreme, prevoznih sredstava i sl.) u skladu sa zakonom kojim se uređuje državna imovina;
+- vrši pripremu propisa i obrađuje akte po ovlašćenju Predsjednika Opštine, u vezi sa raspolaganjem državnom imovinom iz okvira ovlašćenja Opštine (odluke, ugovori, rješenja);
+- vrši upis prava na nepokretnostima, eksproprijaciju, parcelaciju, razgraničenje i druge upravne poslove u vezi sa imovinskim pravima opštine;
+- daje mišljenje na prijedloge akata o raspolaganju imovinom koje pripremaju javne službe- preduzeća čiji je osnivač Opština;
+- daje pravna mišljenja o imovinsko-pravnim pitanjima;
+- pokreće postupke prodaje i davanje u zakup nepokretnih stvari i imovine i drugih dobara kojima raspolaže opština;
+- priprema prijedloge ugovora o prodaji, razmjeni, zakupu, uspostavljanju hipoteke ili fiducije i sl. Vrši zaključivanje tih ugovora kada je posebno ovlašćena i praćenje njihove realizacije;
+- priprema izvještaje o rješavanju upravnih stvari iz svoje nadležnosti;
+- priprema i po ovlašćenju predsjednika opštine, zaključenje ugovora o zakupu građevinskog zemljišta;
+- priprema i po ovlašćenju predsjednika opštine zaključenje ugovora o zakupu poljoprivrednog zemljišta, uz prethodno pribavljeno mišljenje nadležnog Sekretarijata;
+- daje saglasnost da investitor može graditi objekat na udaljenosti manjoj od propisane od susjedne parcele, ako se ne kosi sa interesima opštine;
+- vodi jedinstvene evidencije imovine Opštine u skladu sa zakonom;
+- daje podatake organima i službama Opštine na osnovu evidencije koju vodi;
+- vodi evidenciju o svojinsko pravnim promjenama nastalim po osnovu tih akata i pokretanje postupka za promjene upisa prava na nepokretnostima;
+- vrši pripremu prijedloga odluka o utvrđivanju opšteg-javnog interesa za eksproprijaciju nepokretnosti koje se eksproprišu sa ciljem izgradnje objekata koji su od opšteg interesa za Opštinu;
+- pokreće postupke eksproprijacije shodno Programu uređivanja građevinskog zemljišta i zastupanje Opštine do okončanja postupka;
+- rješava imovinsko pravne odnose;
+- vodi postupak i rješava imovinsko-pravne odnosa neizgrađenog građevinskog zemljišta, radi privođenja namjeni u skladu sa planom;
+- učestvuje u identifikaciji i zaštiti kapitala Opštine u postupcima transformacije privrednih subjekata;
+- ostvaruje saradnju sa nevladinim organizacijama;
+- vodi upravni postupak za slobodan pristup informacijama iz svog djelokruga;
+- pripremu odluka i drugih dokumenata iz svoje nadležnosti koji se usvajaju u Skupštini Opštine i koje donosi Predsjednik opštine;
+- priprema stručna mišljenja i izjašnjenja po inicijativama za ocjenjivanje ustavnosti i zakonitosti opštinskih propisa i autentičnih tumačenja opštinskih propisa iz ovih oblasti, uz konsultovanje Glavnog administratora;
+- vrši i druge poslove iz svog djelokruga, u skladu sa zakonom i drugim propisima po nalogu predsjednika opštine i Glavnog administratora."
