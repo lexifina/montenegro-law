@@ -1,0 +1,2 @@
+# Član 1
+Ovim statutom uređuje se poslovno ime, sjedište i djelatnost Društva sa ograničenom odgovornošću "Komunalno i vodovod" Žabljak (u daljem tekstu: Društvo), organizacija i način rada, iznos osnovnog kapitala i finansiranja, udio člana Društva u ukupnom osnovnom kapitalu izražen u procentima, nadležnosti organa upravljanja i broj članova, bliži način njihovog imenovanja i razrješenja, način donošenja odluka, postupak za izmjene i dopune Statuta, informisanje i odnosi sa javnošću i druga pitanja u skladu sa zakonom i Odlukom o osnivanju.
