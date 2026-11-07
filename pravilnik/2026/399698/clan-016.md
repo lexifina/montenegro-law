@@ -1,0 +1,7 @@
+# Član 16
+## Prestanak važenja
+Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o načinu praćenja zoonoza i uzročnika zoonoza ("Službeni list CG0148, br. 7/15, 2/18 i 111/25).
+Stupanje na snagu
+Član 17
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u "Službenom listu Crne Gore", a primjenjivaće se od 1. januara 2027. godine.
+____________________________________________________________________________ *U ovaj pravilnik prenijete su: Direktiva 2003/99/EZ Evropskog parlamenta i Savjeta od 17. novembra 2003. godine o praćenju zoonoza i uzročnika zoonoza, izmjeni Odluke Savjeta 90/424/EEZ i stavljanju van snage Direktive Savjeta 92/117/EEZ; Implementirajuća odluka Komisije (EU) 2020/1729 od 17. novembra 2020. godine o praćenju i izvještavanju o antimikrobnoj rezistenciji kod zoonotskih i komenzalnih bakterija i stavljanju van snage Implementirajuće odluke 2013/652/EU, sa izmjenama izvršenim Implementirajućom odlukom Komisije (EU) 2023/1017 od 23. maja 2023. godine o izmjeni Implementirajuće odluke (EU) 2020/1729 u pogledu praćenja meticilin-rezistentnog Staphylococcus aureus (MRSA) kod svinja za tov; Implementirajuća regulativa Komisije (EU) 2025/179 od 31. januara 2025. godine o prikupljanju i prenosu molekularnih analitičkih podataka u okviru epidemioloških istraživanja izbijanja bolesti koje se prenose hranom, u skladu sa Direktivom 2003/99/EZ Evropskog parlamenta i Savjeta.
