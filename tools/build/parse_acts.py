@@ -15,8 +15,11 @@ snagu" (checked against the act's own final article when that names a day counte
 
 An act is held back, not published, when (the reason goes to the report):
 - the PIS lists acts amending it, or a later act's title names it as amended, corrected (Ispravka) or repealed;
-  (an act already published before such a title was read stays as published when listed with --kept, by decision);
-- it has no in-force day, or its own final article gives a different one;
+  (an act already published before such a title was read stays as published when listed with --kept, by decision;
+  a naming act that appeared before this one, by its PIS publication day or else by its issue year, names an earlier
+  act of the same title and does not hold it back: the version note lists it);
+- it has no in-force day, or its own final article gives a different one (also where only the second reading, below,
+  reads that article: "danom donošenja");
 - its PDF has no text layer (a scan) or its articles don't number cleanly (a gap, a repeat, a heading out of order).
 The President's promulgation decree printed above a law, and the signatures, are left out (as in the rest of this
 repository); annexes printed after the signature are kept as one unit, their tables run on as lines.
@@ -25,7 +28,12 @@ An act held back only for its article numbering or its in-force day gets a secon
 headings misprinted in the PDF are read where the number is the one expected next, and with no PIS in-force day the
 day is read from the act's own in-force sentence (publication day, n-th day after publication, a stated date, or the
 adoption day from its own signature and preamble). Acts released so go to corpus.d/51-<kind>-<year> parts; acts the
-first reading publishes are untouched by it.
+first reading publishes are untouched by it. An act with no PIS in-force day whose own in-force sentence is read only
+by the further rules of read_clause_mended (misprints mended word by word, a few more equivalent wordings) or by the
+looser look of own_in_force_close (quotation marks paired along a line; "Odluka stupa na snagu" in its last article)
+goes to corpus.d/52-<kind>-<year>, its version note quoting the sentence and saying how it was read. An act whose PIS
+in-force day comes before its publication day is published only where its own in-force sentence, so read, gives that
+same day (mostly "danom donošenja" with the adoption day from its signature and preamble): corpus.d/53-<kind>-<year>.
 """
 from __future__ import annotations
 
@@ -156,15 +164,17 @@ def listing(src: Path):
 
 
 def named_on(f: Path) -> list:
-    """[stem, folded rest, id] for each act on a listing page whose title names another act as amended, corrected or
-    repealed (see AMENDING and tail_key)."""
+    """[stem, folded rest, id, issue year or 0] for each act on a listing page whose title names another act as amended,
+    corrected or repealed (see AMENDING and tail_key). The listing gives the issue as "broj N/YYYY" without its series
+    (Službeni list or its Opštinski propisi), so only its year is used."""
     out = []
     for i, title, status, issue, typ in listing_page(f):
         m = AMENDING.search(title)
         if m:
             k = tail_key(m.group(1), m.group(2) + " " + m.group(3))
             if k:
-                out.append([k[0], k[1], i])
+                y = re.search(r"broj\s+\d+\s*/\s*(\d{4})", issue)
+                out.append([k[0], k[1], i, int(y.group(1)) if y else 0])
     return out
 
 
@@ -413,7 +423,8 @@ def own_in_force(units: dict, published: str) -> str | None:
 # and published only if that reading is complete. Acts the first reading publishes never reach it, so their text and
 # dates are exactly what the first reading gives.
 
-RETRY = ("article_out_of_sequence", "last_article_not_in_force_clause", "in_force_unknown", "articles_not_split")
+RETRY = ("article_out_of_sequence", "last_article_not_in_force_clause", "in_force_unknown", "articles_not_split",
+         "in_force_before_publication")
 # Article headings as some PDFs print them: Cyrillic letters inside the Latin word ("Člаn 5"), the Č lost ("lan 5"),
 # no space ("Član17"), "Члана 18", a letter for a digit ("Član l", "Član 1o"); or run into the article's first
 # sentence ("Član 4 Razlika između ..."). They are read so only where the number is the one expected next.
@@ -490,6 +501,9 @@ DATE = r"(\d{1,2})\s*\.\s*(?:(\d{1,2})\s*(?:\.+|\s)|([^\W\d_]{3,}))\s*(\d{4})"
 YEAR = re.compile(r"(?<![\d/-])(?:19|20|2[oO])[\doO]{2}(?![\d/])")
 ORDINAL = {"narednog": 1, "sljedeceg": 1, "slijedeceg": 1, "prvog": 1, "drugog": 2, "treceg": 3, "petog": 5,
            "osmog": 8, "osmoga": 8, "desetog": 10, "petnaestog": 15, "tridesetog": 30}
+# Ordinals read only by read_clause_mended (an act with one of these was held back before; see there).
+ORDINAL_MORE = {"cetvrtog": 4, "sestog": 6, "sedmog": 7, "sedmoga": 7, "devetog": 9}
+ORD2 = {**ORDINAL, **ORDINAL_MORE}
 STUPA = re.compile(r"\bstup(?:a|aju)\s+na\s+snagu\b", re.I)
 
 
@@ -556,37 +570,140 @@ def read_clause(c: str, units: dict, sig: list[str], published: str) -> tuple[st
     m = re.match(r"(?:dana\s+|sa\s+danom\s+|s\s+danom\s+)?" + DATE, c)
     if m and day_of(m):
         return day_of(m), "date"
+    r = read_clause_mended(f, units, sig, published)
+    if r:
+        return r
     raise Hold("in_force_unread:" + c[:60])
+
+
+def lev1(a: str, b: str) -> bool:
+    """True when a and b differ by at most one letter inserted, dropped or changed."""
+    if a == b:
+        return True
+    if abs(len(a) - len(b)) > 1:
+        return False
+    if len(a) > len(b):
+        a, b = b, a
+    i = 0
+    while i < len(a) and a[i] == b[i]:
+        i += 1
+    return a[i + (len(a) == len(b)):] == b[i + 1:]
+
+
+def mend(f: str) -> str:
+    """A folded in-force clause with its misprints mended, word by word: a word one letter away from "objavljivanja",
+    "danom" or "donosenja" (and starting as it does) is read as that word, a first word one letter away from ordinals
+    of only one number as that ordinal; a doubled "od dana od dana" (or "o dana") as "od dana"; "danom" before
+    "<ordinal> dana" is dropped."""
+    w = f.split()
+    for k, x in enumerate(w):
+        if len(x) >= 9 and x.startswith("ob") and lev1(x, "objavljivanja"):
+            w[k] = "objavljivanja"
+        elif len(x) >= 5 and x[0] == "d" and lev1(x, "danom"):
+            w[k] = "danom"
+        elif len(x) >= 7 and x.startswith("don") and lev1(x, "donosenja"):
+            w[k] = "donosenja"
+    if w and len(w[0]) >= 5 and w[0] not in ORD2:
+        near = {v for o, v in ORD2.items() if lev1(w[0], o)}
+        if len(near) == 1:
+            w[0] = next(o for o, v in ORD2.items() if v in near)
+    s = " ".join(w)
+    s = re.sub(r"\bdana (?:od dana |o dana )+", "dana od dana ", s)
+    s = re.sub(r"^danom (?=\w+ dana )", "", s)
+    s = re.sub(r"^(\w+) danom od dana ", r"\1 dana od dana ", s)
+    return s
+
+
+PUB_W = r"(?:njegovog |njenog |njihovog )?(?:objavljivanja|objave|objavljivanju)(?: (?:u|na|i|a|sl)\b|$)"
+
+
+def read_clause_mended(f: str, units: dict, sig: list[str], published: str) -> tuple[str, str] | None:
+    """The forms read_clause reads, on the clause with its misprints mended (mend), and a few more that say the same:
+    "(od) dana objavljivanja" / "danom objave" (the publication day), "<ordinal> (<n>) dana" and "<n> (<ordinal>)
+    dana od dana objavljivanja" where the two agree, and "<ordinal> dana od dana donošenja" (counted from the adoption
+    day, read as for "danom donošenja"). (day, how) with how ending in "+", or None."""
+    s = mend(f)
+    pub = date.fromisoformat(published)
+    if re.match(r"(?:sa |s )?(?:danom|na dan|od dana|dana) " + PUB_W, s):
+        return published, "publication+"
+    m = re.match(r"(\w+) dana ?(?:od dana|od|po|poslije) " + PUB_W, s)
+    if m and m.group(1) in ORD2:
+        return (pub + timedelta(days=ORD2[m.group(1)])).isoformat(), "counted+"
+    m = re.match(r"(?:(\d{1,2}) (\w+)|(\w+) (\d{1,2})) dana ?(?:od dana|od|po|poslije) " + PUB_W, s)
+    if m:
+        n, word = (int(m.group(1)), m.group(2)) if m.group(1) else (int(m.group(4)), m.group(3))
+        if ORD2.get(word) == n:
+            return (pub + timedelta(days=n)).isoformat(), "counted+"
+    if s != f and re.match(r"(?:sa |s )?(?:danom|na dan) (?:njegovog |njenog |njihovog )?(?:donosenja|usvajanja)"
+                           r"(?: (?:i|a|od strane)\b|$)", s):
+        return adoption_day(units, sig, published), "adoption+"
+    m = re.match(r"(\w+) dana (?:od dana|od|po|poslije) (?:njegovog |njenog |njihovog )?(?:donosenja|usvajanja)"
+                 r"(?: (?:i|a|od strane)\b|$)", s)
+    if m and m.group(1) in ORD2:
+        d = adoption_day(units, sig, published)
+        return (date.fromisoformat(d) + timedelta(days=ORD2[m.group(1)])).isoformat(), "adoption-counted+:" + d
+    return None
 
 
 def own_in_force_close(units: dict, sig: list[str], title: str, published: str) -> tuple[str, str, str | None]:
     """(day, how, note) from the act's own in-force sentence(s) ("Ovaj pravilnik stupa na snagu ...", or the act named
     by its title), anywhere in its own text outside long quotations; every such sentence must give the same day. The
-    note gives a separate application day ("a primjenjuje se od ...") when the same sentence states one."""
+    note gives a separate application day ("a primjenjuje se od ...") when the same sentence states one.
+
+    When no such sentence is found, a looser look (how ends in "+"): quotation marks are paired along each line, so a
+    sentence after a short quotation ('DOO "Kuća maslina" Bar ... Ova odluka stupa na snagu') is not lost inside a
+    "long quotation" made of two unrelated marks; and in the act's last article (or, without articles, its last
+    numbered point), a sentence whose subject is the bare name of the act's own kind ("Odluka stupa na snagu",
+    "Rešenje stupa na snagu") is its own."""
     keys = [k for k in units if k.startswith(("clan-", "tekst"))]
     tw = fold(title).split()
-    got = set()
-    applies = set()
-    for k in keys:
-        for line in units[k]["text"].split("\n"):
-            if line.startswith("#"):
-                continue
-            line = re.sub(r'"[^"]{80,}?"', " ", cyr2lat(line))
-            for mm in STUPA.finditer(line):
-                subj = re.split(r"[.;:!?]\s+(?=[A-ZČĆŠŽĐ])", line[:mm.start()])[-1]
-                subj = fold(re.sub(r"^\s*(?:\(?\d{1,3}\s*[.)]|[IVX]{1,5}(?:\s*[.)]|\s)|[a-z]\))\s*", "", subj)).split()
-                if not subj or not (subj[0] in ("ovaj", "ova", "ovo", "ovi", "ove", "ovim")
-                                    or (tw and subj[:3] == tw[:len(subj[:3])])):
-                    continue   # another act's or provision's entry into force
-                c = line[mm.end():].strip()
-                c = re.sub(r"^i\s+(?:se\s+)?primjenj\w*\s+(?:se\s+)?", "", c)
-                got.add(read_clause(c, units, sig, published))
-                am = re.search(r"primjenj\w*\s+(?:se\s+)?od\s+(.{0,120})", c)
-                if am:
-                    dm = re.match(r"(?:dana\s+)?" + DATE, am.group(1))
-                    applies.add(day_of(dm) if dm and day_of(dm) else "text:" + re.split(r"[.;]\s|\"", am.group(1))[0])
+    own_stem = stem(re.sub(r"resenj", "rjesenj", tw[0])) if tw else None
+
+    def scan(loose: bool):
+        got, applies, said = set(), set(), {}
+        for k in keys:
+            lines = units[k]["text"].split("\n")
+            last_from = None
+            if loose and k == keys[-1]:
+                last_from = 0
+                if k == "tekst":
+                    pts = [j for j, ln in enumerate(lines) if re.match(r"\s*(?:\d{1,3}\s*[.)]|[IVX]{1,5}\s*[.)]?\s)", ln)]
+                    last_from = pts[-1] if pts else len(lines)
+            for j, line in enumerate(lines):
+                if line.startswith("#"):
+                    continue
+                line = cyr2lat(line) if loose else re.sub(r'"[^"]{80,}?"', " ", cyr2lat(line))
+                for mm in STUPA.finditer(line):
+                    if loose and line[:mm.start()].count('"') % 2:
+                        continue   # inside a quotation
+                    subj = re.split(r"[.;:!?]\s+(?=[A-ZČĆŠŽĐ])", line[:mm.start()])[-1]
+                    subj = fold(re.sub(r"^\s*(?:\(?\d{1,3}\s*[.)]|[IVX]{1,5}(?:\s*[.)]|\s)|[a-z]\))\s*", "", subj)).split()
+                    bare = loose and last_from is not None and j >= last_from and len(subj) == 1 and own_stem \
+                        and stem(re.sub(r"resenj", "rjesenj", subj[0])) == own_stem
+                    if not subj or not (subj[0] in ("ovaj", "ova", "ovo", "ovi", "ove", "ovim")
+                                        or (tw and subj[:3] == tw[:len(subj[:3])]) or bare):
+                        continue   # another act's or provision's entry into force
+                    c = line[mm.end():].strip()
+                    c = re.sub(r"^i\s+(?:se\s+)?primjenj\w*\s+(?:se\s+)?", "", c)
+                    r = read_clause(c, units, sig, published)
+                    if loose and "+" not in r[1]:
+                        r = (r[0], r[1] + "+")
+                    got.add(r)
+                    said.setdefault(r, c)
+                    am = re.search(r"primjenj\w*\s+(?:se\s+)?od\s+(.{0,120})", c)
+                    if am:
+                        dm = re.match(r"(?:dana\s+)?" + DATE, am.group(1))
+                        applies.add(day_of(dm) if dm and day_of(dm) else "text:" + re.split(r"[.;]\s|\"", am.group(1))[0])
+        return got, applies, said
+
+    got, applies, said = scan(False)
+    if not got and not applies:
+        got, applies, said = scan(True)
     if not got:
         raise Hold("in_force_unknown")
+    if len(got) > 1 and len({d for d, _ in got}) == 1 and any("+" in h for _, h in got) \
+            and len({h.split("+")[0] for _, h in got}) == 1:
+        got = {max(got, key=lambda x: ("+" in x[1], x[1]))}   # one reading, given once through the "+" rules
     if len(got) > 1:
         raise Hold("in_force_ambiguous:" + ",".join(sorted(d for d, _ in got)))
     day, how = got.pop()
@@ -603,6 +720,18 @@ def own_in_force_close(units: dict, sig: list[str], title: str, published: str) 
     if how == "adoption":
         note = (note + " " if note else "") + f"In force on its adoption day ({day}, from its own signature and " \
                                               f"preamble), as its own final provision says; published {published}."
+    elif "+" in how:
+        words = re.split(r"\s+(?:u|na)\s+(?:[\"'‘’,(]|Sl)|[,;\"]|\s+a\s+|\s+i\s+(?:će|ce|se|biće|bice|objav)",
+                         said[(day, how)])[0].strip()[:120]
+        base = how.split("+")[0]
+        basis = {"publication": f"the publication day ({published})",
+                 "counted": f"counted from the publication day ({published})",
+                 "date": "the date it states",
+                 "adoption": f"its adoption day, from its own signature and preamble (published {published})",
+                 "adoption-counted": f"counted from its adoption day ({how.split(':')[-1]}, from its own signature "
+                                     f"and preamble; published {published})"}[base]
+        note = (note + " " if note else "") + f"In force from {day}: its own in-force sentence reads \"... stupa na " \
+                                              f"snagu {words}\", read as {basis}."
     return day, how, note
 
 
@@ -623,7 +752,7 @@ def read_text_close(path: Path, is_law: bool, amending: bool, cache: dict | None
         try:
             units, n_art = split(loosen(paras, False), is_law, amending, info)
         except Hold as h:
-            if amending or not str(h).startswith("article_out_of_sequence"):
+            if amending or not str(h).startswith(("article_out_of_sequence", "articles_not_split")):
                 raise
             info = {}
             units, n_art = split(loosen(paras, True), is_law, amending, info)
@@ -725,9 +854,11 @@ def main():
 
     used: set[str] = set()  # cache keys of listing pages, act pages and in-force readings used in this run
     named: dict[tuple[str, str], set[int]] = defaultdict(set)
+    named_year: dict[int, int] = {}
     for f in sorted((src / "list").glob("*/*.html.gz")):
-        for st, rest, i in cached(cache, used, "list", f, named_on):
+        for st, rest, i, y in cached(cache, used, "list", f, named_on):
             named[(st, rest)].add(i)
+            named_year[i] = max(named_year.get(i, 0), y)
 
     parts: dict[str, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
@@ -754,11 +885,30 @@ def main():
             if a.kinds and kind not in a.kinds.split(","):
                 raise Hold("kind_not_selected:" + kind)
             tm = re.match(r"^(\S+)\s+(.*)$", title)
+            named_note = None
             if tm:
                 k = tail_key(tm.group(1), tm.group(2))
                 others = (named.get(k) or set()) - {i}
                 if others and str(i) not in kept:   # `kept`: on main before the naming title was read, by decision
-                    raise Hold("named_as_amended:" + ",".join(map(str, sorted(others)[:5])))
+                    # A naming act published before this one names an earlier act of the same title, not this one:
+                    # by its PIS publication day where its page is on hand, else by its issue year (the listing's).
+                    earlier = {}
+                    for o in sorted(others):
+                        if not m["published"]:
+                            break
+                        of = src / "act" / str(o // 1000) / f"{o}.html.gz"
+                        om = cached(cache, used, "page", of, page_meta) if of.exists() else {}
+                        if om.get("published"):
+                            if om["published"] < m["published"]:
+                                earlier[o] = om["published"]
+                        elif 0 < named_year.get(o, 0) < int(m["published"][:4]):
+                            earlier[o] = f"issue year {named_year[o]}"
+                    if set(earlier) != others:
+                        raise Hold("named_as_amended:" + ",".join(map(str, sorted(others - set(earlier))[:5])))
+                    named_note = ("Not held back for the title" + ("s" if len(earlier) > 1 else "") + " naming an "
+                                  "act of its title as amended, corrected or repealed: " +
+                                  "; ".join(f"PIS {o} ({d})" for o, d in sorted(earlier.items())) + " appeared before "
+                                  f"this act (published {m['published']}), so names an earlier act of the same title.")
             if not m["published"]:
                 raise Hold("no_publication_day")
             iss = re.search(r"broj\s+(\d+)\s*/\s*(\d{4})", m["issue"])
@@ -782,6 +932,16 @@ def main():
                 raise Hold(f"in_force_mismatch:pis {m['in_force']} vs text {own}")
             if day < m["published"] and not own:
                 raise Hold(f"in_force_before_publication:{day}")
+            if not own:
+                # The act's own in-force sentence as the second reading reads it ("danom donošenja", ...), where it
+                # reads one, must not give another day than the PIS.
+                try:
+                    cu, _, _, csig = read_text_close(pdf, kind == "zakon", amending, cache)
+                    cd = own_in_force_close(cu, csig, title, m["published"])[0]
+                except Hold:
+                    cd = None
+                if cd and cd != day:
+                    raise Hold(f"in_force_mismatch:pis {day} vs text {cd}")
             close_note, close_how, part_no = None, None, 50
         except Hold as h:
             if str(h).split(":")[0] not in RETRY:
@@ -804,11 +964,20 @@ def main():
                             raise Hold(f"in_force_mismatch:pis {day} vs text {o}")
                     if day < m["published"] and not (own or close):
                         raise Hold(f"in_force_before_publication:{day}")
+                    if str(h).startswith("in_force_before_publication"):
+                        # A PIS in-force day before publication: only where the act's own in-force sentence, as the
+                        # second reading reads it, gives that same day (checked above).
+                        if not close:
+                            raise Hold(f"in_force_before_publication:{day}")
+                        close_how = close[1]
+                        close_note = ((close[2] + " " if close[2] else "")
+                                      + "The PIS 'Datum stupanja na snagu' gives the same day.")
                 else:
                     day, close_how, close_note = close
                 if day > a.retrieved:
                     raise Hold(f"in_force_after_retrieval:{day}")
-                part_no = 51
+                part_no = 53 if str(h).startswith("in_force_before_publication") else (
+                    52 if close_how and "+" in close_how else 51)
             except Hold as h2:
                 holds.append({"id": i, "title": title[:160], "reason": str(h), "second_reading": str(h2)})
                 continue
@@ -818,11 +987,18 @@ def main():
         note = None
         if m["applies"] and m["applies"] != day:
             note = f"Applies from {m['applies']} (PIS: Datum početka primjene); in force from {day}."
+            if part_no in (52, 53) and close_note:   # the reading's basis is always noted on these
+                note += " " + re.sub(rf"^Applies from {m['applies']} \(its own final provision\); in force from \S+ ",
+                                     "", close_note)
         elif close_note:
             note = close_note
+        if named_note:
+            note = (note + " " if note else "") + named_note
         part = f"{part_no}-{kind}-{year}"
         parts[part]["laws"][slug] = {"label": label, "title": title, "kind": law_kind,
-                                     "enacted": day if close_how == "adoption" else m["published"],
+                                     "enacted": (day if close_how in ("adoption", "adoption+") else
+                                                 close_how.split(":")[1] if close_how and ":" in close_how else
+                                                 m["published"]),
                                      "published": m["published"], "url": PAGE.format(id=i), "temporary_until": None,
                                      "restores": None, "note": None}
         parts[part]["acts"].append({
@@ -858,7 +1034,7 @@ def main():
             "captions are the second line of the article file ('## ...'); chapter and section headings are units of "
             "their own; an annex printed after the signature is one unit, its tables run on as lines.",
             "The enacted date given is the publication day (the PIS gives no adoption day)."]
-        if name.startswith("51-"):
+        if name.startswith(("51-", "52-")):
             p["decisions"][1:2] = [
                 "These are acts a first, strict reading holds back for their article numbering or their in-force day, "
                 "completed by a second, closer reading: article headings printed with Cyrillic letters inside the "
@@ -877,6 +1053,37 @@ def main():
                 "('Datum početka primjene') is noted on the version."]
             p["decisions"][-1] = ("The enacted date given is the publication day (the PIS gives no adoption day), "
                                   "except for an act in force on its adoption day, where it is that day as read above.")
+        if name.startswith("53-"):
+            p["decisions"][1:2] = [
+                "These are acts the PIS gives an in-force day ('Datum stupanja na snagu') before their publication "
+                "day, which a first reading holds back. They are published only where the act's own in-force "
+                "sentence ('Ovaj/Ova ... stupa na snagu', or the act named by its title), read by the second reading "
+                "(article headings read as in the acts of the 51- parts), gives that same day: its adoption day "
+                "('danom donošenja'), taken from its own signature block and preamble, which must agree and fall "
+                "within the year before publication, or a stated date. Every such sentence in the act must give "
+                "that day; any other wording, or none, keeps the act held back. Each version's note says how the "
+                "day was read. A different application day in the PIS ('Datum početka primjene') is noted on the "
+                "version."]
+            p["decisions"][-1] = ("The enacted date given is the publication day (the PIS gives no adoption day), "
+                                  "except for an act in force on its adoption day, where it is that day as read above.")
+        if name.startswith("52-"):
+            p["decisions"][-1] = ("The enacted date given is the publication day (the PIS gives no adoption day), "
+                                  "except for an act whose in-force day is read from its adoption day, where it is "
+                                  "that day as read above.")
+            p["decisions"].insert(-1, (
+                "These acts have no PIS in-force day, and their own in-force sentence is read only by these further "
+                "rules (each act's version note quotes the sentence and says how it was read): a word one letter away "
+                "from 'objavljivanja', 'danom' or 'donošenja' is read as that word, and a first word one letter away "
+                "from ordinals of only one number as that ordinal ('osnog' as 'osmog'); a doubled 'od dana od dana' "
+                "as 'od dana'; 'od dana objavljivanja', 'dana objavljivanja' and 'danom objave' as the publication "
+                "day; 'osmog (8) dana' and '8 (osmog) dana' where the two agree; the fourth, sixth, seventh and ninth "
+                "day; '<n-th> dana od dana donošenja' counted from the adoption day read as above. Where the act's "
+                "text has no such sentence by the reading above, quotation marks are paired along each line (so a "
+                "sentence after a short quotation is not lost), and in the act's last article or numbered point a "
+                "sentence whose subject is the bare name of its own kind ('Odluka stupa na snagu') is its own. "
+                "'Nakon n dana', 'u roku od n dana', a consent day ('danom davanja saglasnosti') and every other "
+                "wording keep the act held back, and so do two different adoption dates in its signature and "
+                "preamble."))
         p["ai_use"] = ["none"]
         f = PARTS / f"{name}.json"
         body = json.dumps(p, ensure_ascii=False, indent=1) + "\n"
@@ -888,7 +1095,11 @@ def main():
         line = (f"{len(p['acts'])} acts checked against the PIS record and the PDF text layer: status Važeći, no "
                 f"amending act, in-force day from the PIS (agreeing with the act's own clause where it has one), "
                 f"articles numbered in sequence.\n")
-        if name.startswith("51-"):
+        if name.startswith("53-"):
+            line = (f"{len(p['acts'])} acts checked against the PIS record and the PDF text layer: status Važeći, no "
+                    f"amending act, articles numbered in sequence, a PIS in-force day before publication that the "
+                    f"act's own in-force sentence gives too.\n")
+        elif name.startswith(("51-", "52-")):
             line = (f"{len(p['acts'])} acts checked against the PIS record and the PDF text layer by the second "
                     f"reading: status Važeći, no amending act, articles numbered in sequence, in-force day from the "
                     f"PIS or the act's own in-force sentence (every such sentence agreeing).\n")
