@@ -647,6 +647,51 @@
    ]
   },
   {
+   "slug": "pravilnik-2024-366147",
+   "path": "pravilnik/2024/366147",
+   "short": "Pravilnik o obrascu i načinu upotrebe legitimacije turističkog pratioca",
+   "title": "Pravilnik o obrascu i načinu upotrebe legitimacije turističkog pratioca",
+   "url": "https://www.sluzbenilist.me/propisi/366147",
+   "versions": [
+    {
+     "from": "2024-02-24",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/366147/download",
+     "sha256": "d42ec4c5cffef1a5aeda1f40acbdc1251e5868fbdd158c9222dbf00c8908714e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-366153",
+   "path": "pravilnik/2024/366153",
+   "short": "Pravilnik o obrascu i načinu upotrebe legitimacije turističkog vodiča",
+   "title": "Pravilnik o obrascu i načinu upotrebe legitimacije turističkog vodiča",
+   "url": "https://www.sluzbenilist.me/propisi/366153",
+   "versions": [
+    {
+     "from": "2024-02-24",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/366153/download",
+     "sha256": "e8c393663cb3200d1e9868057dee272d4bf0a4a4eb970957e637ed4cae24ce58"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-366164",
+   "path": "pravilnik/2024/366164",
+   "short": "Pravilnik o obrascu i načinu upotrebe legitimacije turističkog animatora",
+   "title": "Pravilnik o obrascu i načinu upotrebe legitimacije turističkog animatora",
+   "url": "https://www.sluzbenilist.me/propisi/366164",
+   "versions": [
+    {
+     "from": "2024-02-24",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/366164/download",
+     "sha256": "f31d968245d5422360fa149f99519c9ccaee55744b5d8dbd75e8238a8c929769"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2024-376044",
    "path": "pravilnik/2024/376044",
    "short": "Pravilnik o bližim uslovima za postavljanje, sadržinu i način vođenja evidencija o automatskom eksternom defibrilatoru, sadržini, načinu sprovođenja i vođenja evidencija o obukama, kao i uslovima za sistem kontrole kvaliteta automatskog eksternog defibrilatora",
@@ -992,6 +1037,21 @@
    ]
   },
   {
+   "slug": "uputstvo-1996-364708",
+   "path": "uputstvo/1996/364708",
+   "short": "Uputstvo o sadržini i obliku obrazaca u postupku predlaganja kandidata",
+   "title": "Uputstvo o sadržini i obliku obrazaca u postupku predlaganja kandidata",
+   "url": "https://www.sluzbenilist.me/propisi/364708",
+   "versions": [
+    {
+     "from": "1996-08-06",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/364708/download",
+     "sha256": "33efc4e96e79aadbd6be70d6229f7a465d44bc7eca87c8f013d3367069e971b4"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-392423",
    "path": "uredba/2026/392423",
    "short": "Uredba o mjerama koje sadrži plan mjera kojim se obezbjeđuje bezbjednost javne elektronske komunikacione mreže i korišćenje elektronskih komunikacionih usluga u vanrednim situacijama",
@@ -1033,6 +1093,21 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.me/propisi/399808/download",
      "sha256": "bfa3550987858f13083b744ea750a9d295f69bbd0b333594ec04c994ee4cd68a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2024-367418",
+   "path": "odluka/2024/367418",
+   "short": "Odluka o izmjeni i dopuni Odluke o utvrđivanju lokacije za rekonstrukciju - zamjenu kompletne sekundarne i tercijalne vodovodne mreže u Novom Naselju (projektna mjera KO9)",
+   "title": "Odluka o izmjeni i dopuni Odluke o utvrđivanju lokacije za rekonstrukciju - zamjenu kompletne sekundarne i tercijalne vodovodne mreže u Novom Naselju (projektna mjera KO9)",
+   "url": "https://www.sluzbenilist.me/propisi/367418",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/367418/download",
+     "sha256": "09311e28f14658a6480209e8416cfcd6033521de11ce9c39fc56cf30c725d1a4"
     }
    ]
   },

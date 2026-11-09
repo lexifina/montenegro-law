@@ -1,6 +1,6 @@
 # Every act in this repository
 
-29727 acts, 29,729 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+29732 acts, 29,734 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (853, of which 85 amending acts)
 
@@ -1100,7 +1100,7 @@
 | Naredba o izmjeni Naredbe o zabrani uvoza/unošenja životinja i roba iz zemalja i objekata koji nisu uključeni na liste EU iz kojih je dozvoljen uvoz/unošenje u Evropsku uniju | [`naredba/2026/398952/`](naredba/2026/398952/) | in force | 1 | 2026-10-10 | 2026-10-10 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (20677, of which 3035 amending acts)
+## odluka (20678, of which 3036 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -18828,6 +18828,7 @@
 | Odluka o stavljanju van snage Odluke o sufinasiranju projekata iz oblasti kulture | [`odluka/2024/367410/`](odluka/2024/367410/) | in force | 1 | 2024-03-30 | 2024-03-30 |
 | Odluka o prodaji kat.parcele 456/9 KO Mrčevac | [`odluka/2024/367411/`](odluka/2024/367411/) | in force | 1 | 2024-03-30 | 2024-03-30 |
 | Odluka o davanju saglasnosti na Odluku o utvrđivanju cijena usluga DOO "Komunalno" Rožaje za 2024. godinu | [`odluka/2024/367413/`](odluka/2024/367413/) | in force | 1 | 2024-03-22 | 2024-03-22 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju lokacije za rekonstrukciju - zamjenu kompletne sekundarne i tercijalne vodovodne mreže u Novom Naselju (projektna mjera KO9) | [`odluka/2024/367418/`](odluka/2024/367418/) | amending act | 1 | 2024-02-22 | 2024-02-22 |
 | Odluka o raspisivanju javnog konkursa za dodjelu prava na emitovanje radijskih programa | [`odluka/2024/367438/`](odluka/2024/367438/) | in force | 1 | 2024-03-25 | 2024-03-25 |
 | Odluka o usvajanju Lokalnog energetskog plana Prijestonice Cetinje za period 2024. - 2033. godine | [`odluka/2024/367633/`](odluka/2024/367633/) | in force | 1 | 2024-04-03 | 2024-04-03 |
 | Odluka o davanju saglasnosti na Statut Turističke organizacije opštine Zeta | [`odluka/2024/367639/`](odluka/2024/367639/) | in force | 1 | 2024-04-05 | 2024-04-05 |
@@ -22231,7 +22232,7 @@
 | Pravila o izmjeni i dopuni Pravila o bližem sadržaju, rokovima dostavljanja mjesečnog, polugodišnjeg i godišnjeg izvještaja otvorenih investicionih fondova sa javnom ponudom | [`pravila/2026/399385/`](pravila/2026/399385/) | amending act | 1 | 2026-10-30 | 2026-10-30 |
 | Pravila za poravnanje razlike između opravdanih i ostvarenih prihoda i utvrđenih troškova između licenciranih operatora distributivnog sistema | [`pravila/2026/399555/`](pravila/2026/399555/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## pravilnik (2749, of which 257 amending acts)
+## pravilnik (2752, of which 257 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -24303,8 +24304,11 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o načinu i postupku polaganja stručnog ispita za učenike koji nastavljaju obrazovanje | [`pravilnik/2024/365691/`](pravilnik/2024/365691/) | amending act | 1 | 2024-02-22 | 2024-02-22 |
 | Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnog organizma Spodoptera frugiperda (Smith)* | [`pravilnik/2024/366070/`](pravilnik/2024/366070/) | in force | 1 | 2024-02-24 | 2024-02-24 |
 | Pravilnik o dopunama Pravilnika o određivanju i održavanju zona i pojaseva sanitarne zaštite izvorišta i ograničenjima u tim zonama | [`pravilnik/2024/366080/`](pravilnik/2024/366080/) | amending act | 1 | 2024-02-24 | 2024-02-24 |
+| Pravilnik o obrascu i načinu upotrebe legitimacije turističkog pratioca | [`pravilnik/2024/366147/`](pravilnik/2024/366147/) | in force | 1 | 2024-02-24 | 2024-02-24 |
 | Pravilnik o dopuni Pravilnika o uslovima za koordinisano uvođenje data link usluga u Jedinstveno evropsko nebo | [`pravilnik/2024/366148/`](pravilnik/2024/366148/) | amending act | 1 | 2024-02-24 | 2024-02-24 |
 | Pravilnik o izmjeni i dopuni Pravilnika o koordinisanom uvođenju govorne komunikacije sa razmakom govornih kanala od 8,33 kHz za Jedinstveno evropsko nebo | [`pravilnik/2024/366150/`](pravilnik/2024/366150/) | amending act | 1 | 2024-02-24 | 2024-02-24 |
+| Pravilnik o obrascu i načinu upotrebe legitimacije turističkog vodiča | [`pravilnik/2024/366153/`](pravilnik/2024/366153/) | in force | 1 | 2024-02-24 | 2024-02-24 |
+| Pravilnik o obrascu i načinu upotrebe legitimacije turističkog animatora | [`pravilnik/2024/366164/`](pravilnik/2024/366164/) | in force | 1 | 2024-02-24 | 2024-02-24 |
 | Pravilnik o načinu raspodjele sredstava opštinama na ime dotacija | [`pravilnik/2024/366183/`](pravilnik/2024/366183/) | in force | 1 | 2024-03-01 | 2024-03-01 |
 | Pravilnik o izmjeni Pravilnika o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnih organizama bilja, biljnih proizvoda i objekata pod nadzorom* | [`pravilnik/2024/366257/`](pravilnik/2024/366257/) | in force | 1 | 2024-03-02 | 2024-03-02 |
 | Pravilnik o pružanju pomoći državnim i drugim organima u postupku izvršenja njihovih odluka | [`pravilnik/2024/366283/`](pravilnik/2024/366283/) | in force | 1 | 2024-03-02 | 2024-03-02 |
@@ -28370,7 +28374,7 @@
 | Zakon o potvrđivanju Dodatnog protokola 7 o rješavanju sporova uz Sporazum o izmjeni i pristupanju Centralnoevropskom sporazumu o slobodnoj trgovini (CEFTA) | [`ugovor/2026/396797/`](ugovor/2026/396797/) | in force | 1 | 2026-08-13 | 2026-08-13 |
 | Odluka o objavljivanju Multilateralnog sporazuma nadležnih organa o automatskoj razmjeni informacija o finansijskim računima i dodatka Multilateralnom sporazumu nadležnih organa o automatskoj razmjeni informacija o finansijskim računima | [`ugovor/2026/398107/`](ugovor/2026/398107/) | in force | 1 | 2026-09-16 | 2026-09-16 |
 
-## uputstvo (168, of which 18 amending acts)
+## uputstvo (169, of which 18 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -28389,6 +28393,7 @@
 | Uputstvo o izmjeni Uputstva o načinu vođenja evidencije o izvršenim pregledima poljoprivrednih, šumarskih, vodoprivrednih i veterinarskih inspektora | [`uputstvo/1995/349502/`](uputstvo/1995/349502/) | in force | 1 | 1995-05-29 | 1995-05-29 |
 | Uputstvo o upućivanju na izdržavanje kazne zatvora osuđenih i prekršajno kažnjenih lica | [`uputstvo/1996/291802/`](uputstvo/1996/291802/) | in force | 1 | 1996-01-20 | 1996-01-20 |
 | Uputstvo o izvršenju smrtne kazne | [`uputstvo/1996/296766/`](uputstvo/1996/296766/) | in force | 1 | 1996-01-20 | 1996-01-20 |
+| Uputstvo o sadržini i obliku obrazaca u postupku predlaganja kandidata | [`uputstvo/1996/364708/`](uputstvo/1996/364708/) | in force | 1 | 1996-08-06 | 1996-08-06 |
 | Uputstvo o načinu proglašenja izbornih lista, sadržaju, obliku i načinu isticanja zbirnih izbornih lista | [`uputstvo/1996/366591/`](uputstvo/1996/366591/) | in force | 1 | 1996-08-06 | 1996-08-06 |
 | Uputstvo o jedinstvenim standardima za izborni materijal | [`uputstvo/1996/366998/`](uputstvo/1996/366998/) | in force | 1 | 1996-08-06 | 1996-08-06 |
 | Uputstvo o načinu ostvarivanja prava stranih posmatrača da prisustvuju izborima u Republici Crnoj Gori | [`uputstvo/1996/367386/`](uputstvo/1996/367386/) | in force | 1 | 1996-08-07 | 1996-08-07 |
