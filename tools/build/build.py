@@ -667,7 +667,22 @@ def tables(c: dict, log: list[dict]) -> dict[str, str]:
         for k in sorted(units):
             rows.append(f'| {units[k]["label"]} | [{k}.md]({k}.md) | {counts.get(k, 0)} | {last.get(k, "")} |')
         rows += ['', f'Act id: `{a["slug"]}` (tags `{a["slug"]}/<day>`; `python tools/on.py <day> {a["slug"]}`).']
-        dec = [n for n in map(public_note, a.get('_decisions', [])) if n]
+        # 2026-11-10: a label the country's parser sets ("amended, not consolidated", "repealed, not consolidated",
+        # "cited later, not consolidated") and the acts behind it, as in data/acts.json. Acts without one: unchanged.
+        if a.get('label'):
+            rows += ['', '## Status', '', f'**{a["label"]}**: the text here is the act as published; the official '
+                     'sources name later acts that change or cite it, and no official consolidated text exists.']
+            for key, head in (('amended_by', 'Amended or repealed by'), ('cited_by', 'Cited by')):
+                refs = a.get(key) or []
+                if refs:
+                    rows += ['', f'{head}:', '']
+                    for r in refs:
+                        if isinstance(r, dict):
+                            t = r.get('title') or r.get('ref') or ''
+                            rows.append(f'- [{t}]({r["url"]})' if r.get('url') else f'- {t}')
+                        else:
+                            rows.append(f'- {r}')
+        dec =[n for n in map(public_note, a.get('_decisions', [])) if n]
         if dec:
             rows += ['', '## Decisions made by hand', ''] + [f'- {n}' for n in dec]
         # Credits corrected after publishing (append.py, data/credits.csv): the latest row per day and provision.
