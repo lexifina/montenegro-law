@@ -1,6 +1,6 @@
 # Every act in this repository
 
-29721 acts, 29,723 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+29725 acts, 29,727 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (853, of which 85 amending acts)
 
@@ -1100,7 +1100,7 @@
 | Naredba o izmjeni Naredbe o zabrani uvoza/unošenja životinja i roba iz zemalja i objekata koji nisu uključeni na liste EU iz kojih je dozvoljen uvoz/unošenje u Evropsku uniju | [`naredba/2026/398952/`](naredba/2026/398952/) | in force | 1 | 2026-10-10 | 2026-10-10 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (20672, of which 3033 amending acts)
+## odluka (20675, of which 3035 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -12041,6 +12041,7 @@
 | Odluka o prodaji građevinskog zemljišta u zahvatu DUP-a "Dajbabe - Zelenika - dio planske zone 11" | [`odluka/2018/377806/`](odluka/2018/377806/) | in force | 1 | 2018-09-18 | 2018-09-18 |
 | Odluku o osnivanju društva sa ograničenom odgovornošću "otpadne vode"- Budva | [`odluka/2018/377815/`](odluka/2018/377815/) | in force | 1 | 2018-09-18 | 2018-09-18 |
 | Odluka o usvajanju Izvještaja o radu sa finansijskim izvještajem Turističke organizacije Tivat za 2017.godinu | [`odluka/2018/377816/`](odluka/2018/377816/) | in force | 1 | 2018-09-26 | 2018-09-26 |
+| Odluka o donošenju Detaljnog urbanističkog plana "Blok 35-36" u Podgorici | [`odluka/2018/377819/`](odluka/2018/377819/) | in force | 1 | 2018-09-26 | 2018-09-26 |
 | Odluka o prodaji katastarske parcele broj 2300/2 KO Sutomore | [`odluka/2018/377821/`](odluka/2018/377821/) | in force | 1 | 2018-09-26 | 2018-09-26 |
 | Odluka o izboru predsjednika i članova Odbora za Statut i propise | [`odluka/2018/377824/`](odluka/2018/377824/) | in force | 1 | 2018-09-13 | 2018-09-13 |
 | Odluka o razrešenju i imenovanju člana Odbora za izbor i imenovanja | [`odluka/2018/377825/`](odluka/2018/377825/) | in force | 1 | 2018-09-19 | 2018-09-19 |
@@ -12115,10 +12116,12 @@
 | Odlukao davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću "Komunalno i vodovod" Žabljak | [`odluka/2018/377981/`](odluka/2018/377981/) | amending act | 1 | 2018-10-12 | 2018-10-12 |
 | Odluka o davanju saglasnosti na odluka odbora direktora o kreditnom zaduženju Doo ''Komunalno i vodovod'' Žabljak | [`odluka/2018/377983/`](odluka/2018/377983/) | in force | 1 | 2018-09-27 | 2018-09-27 |
 | Odluka o završnom računu Budžeta opštine Rožaje za 2016.godinu | [`odluka/2018/377985/`](odluka/2018/377985/) | in force | 1 | 2018-10-20 | 2018-10-20 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Donji Radovići centar" | [`odluka/2018/377988/`](odluka/2018/377988/) | amending act | 1 | 2018-10-27 | 2018-10-27 |
 | Odluka o davanju saglasnosti na odluka predsjednika opštine o osnivanju "Agencije za razvoj i zaštitu Orjena-Herceg Novi" društvo sa ograničenom odgovornošću | [`odluka/2018/377991/`](odluka/2018/377991/) | in force | 1 | 2018-10-20 | 2018-10-20 |
 | Odluka o imenovanju odbornika koji će prisustvovati zaključenju braka | [`odluka/2018/377994/`](odluka/2018/377994/) | in force | 1 | 2018-10-20 | 2018-10-20 |
 | Odluka o pravu davanja u zakup nepokretne imovine Opštine Herceg Novi | [`odluka/2018/377995/`](odluka/2018/377995/) | in force | 1 | 2018-10-20 | 2018-10-20 |
 | Odluka o razrješenju izvršnog direktora DOO "Komunalno" Cetinje | [`odluka/2018/377996/`](odluka/2018/377996/) | in force | 1 | 2018-10-20 | 2018-10-20 |
+| Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Golf i Donji Radovići zapad" | [`odluka/2018/377997/`](odluka/2018/377997/) | amending act | 1 | 2018-10-27 | 2018-10-27 |
 | Odluka o ustupanju na korišćenje komunalnih vozila i opreme svojina Opštine Danilovgrad na Društvo sa ograničenom odgovornošću ,,Komunalno Danilovgrad | [`odluka/2018/378000/`](odluka/2018/378000/) | in force | 1 | 2018-10-20 | 2018-10-20 |
 | Odluka o izmještanju spomen - obilježja Spomenika borcima i civilnim žrtvama (fudbalerima i sportskim radnicima) poginulim za slobodu u NOB-1941-1945. godine | [`odluka/2018/378001/`](odluka/2018/378001/) | in force | 1 | 2018-10-20 | 2018-10-20 |
 | Odluka o razrešenju predstavnika ispred Skupštine opštine Žabljak u Skupštinu Turističke organizacije | [`odluka/2018/378003/`](odluka/2018/378003/) | in force | 1 | 2018-10-12 | 2018-10-12 |
@@ -22226,7 +22229,7 @@
 | Pravila o izmjeni i dopuni Pravila o bližem sadržaju, rokovima dostavljanja mjesečnog, polugodišnjeg i godišnjeg izvještaja otvorenih investicionih fondova sa javnom ponudom | [`pravila/2026/399385/`](pravila/2026/399385/) | amending act | 1 | 2026-10-30 | 2026-10-30 |
 | Pravila za poravnanje razlike između opravdanih i ostvarenih prihoda i utvrđenih troškova između licenciranih operatora distributivnog sistema | [`pravila/2026/399555/`](pravila/2026/399555/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## pravilnik (2748, of which 257 amending acts)
+## pravilnik (2749, of which 257 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -24374,6 +24377,7 @@
 | Pravilnik o uslovima za ostvarivanje minimalnog učešća evropskih audiovizuelnih djela | [`pravilnik/2024/376039/`](pravilnik/2024/376039/) | in force | 1 | 2025-01-03 | 2025-01-03 |
 | Pravilnik o pružanju usluga platformi za razmjenu video sadržaja i mjerama za zaštitu korisnika usluga | [`pravilnik/2024/376042/`](pravilnik/2024/376042/) | in force | 1 | 2025-01-03 | 2025-01-03 |
 | Pravilnik o izmjeni Pravilnika o razvrstavanju osnovnih sredstava po grupama i metodama za utvrđivanje amortizacije | [`pravilnik/2024/376043/`](pravilnik/2024/376043/) | in force | 1 | 2025-01-02 | 2025-01-02 |
+| Pravilnik o bližim uslovima za postavljanje, sadržinu i način vođenja evidencija o automatskom eksternom defibrilatoru, sadržini, načinu sprovođenja i vođenja evidencija o obukama, kao i uslovima za sistem kontrole kvaliteta automatskog eksternog defibrilatora | [`pravilnik/2024/376044/`](pravilnik/2024/376044/) | in force | 1 | 2025-01-02 | 2025-01-02 |
 | Pravilnik o izmjeni Pravilnika o obliku, sadržini, načinu popunjavanja i dostavljanja jedinstvenog obrasca izvještaja o obračunatom i plaćenom porezu na dohodak fizičkih lica i doprinosima za obavezno socijalno osiguranje | [`pravilnik/2024/376047/`](pravilnik/2024/376047/) | in force | 1 | 2024-12-26 | 2024-12-26 |
 | Pravilnik o pristupačnosti audiovizuelnih medijskih usluga licima sa invaliditetom | [`pravilnik/2024/376050/`](pravilnik/2024/376050/) | in force | 1 | 2025-01-03 | 2025-01-03 |
 | Pravilnik o uslovima za ostvarivanje minimalnog obima učešća audiovizuelnih djela nezavisnih proizvođača | [`pravilnik/2024/376052/`](pravilnik/2024/376052/) | in force | 1 | 2025-01-03 | 2025-01-03 |

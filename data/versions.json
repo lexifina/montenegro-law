@@ -32,6 +32,51 @@
    ]
   },
   {
+   "slug": "odluka-2018-377819",
+   "path": "odluka/2018/377819",
+   "short": "Odluka o donošenju Detaljnog urbanističkog plana \"Blok 35-36\" u Podgorici",
+   "title": "Odluka o donošenju Detaljnog urbanističkog plana \"Blok 35-36\" u Podgorici",
+   "url": "https://www.sluzbenilist.me/propisi/377819",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/377819/download",
+     "sha256": "7251547f8008ccfcbe949f4c6f9ad0c157507a0e0434beaa5985ba09ee9385ef"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-377988",
+   "path": "odluka/2018/377988",
+   "short": "Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana \"Donji Radovići centar\"",
+   "title": "Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana \"Donji Radovići centar\"",
+   "url": "https://www.sluzbenilist.me/propisi/377988",
+   "versions": [
+    {
+     "from": "2018-10-27",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/377988/download",
+     "sha256": "64dd453f8a6a85171d539aec513e4163b0cdcf1cdea5b431ff6c01cc1b557372"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-377997",
+   "path": "odluka/2018/377997",
+   "short": "Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana \"Golf i Donji Radovići zapad\"",
+   "title": "Odluka o donošenju Izmjena i dopuna Detaljnog urbanističkog plana \"Golf i Donji Radovići zapad\"",
+   "url": "https://www.sluzbenilist.me/propisi/377997",
+   "versions": [
+    {
+     "from": "2018-10-27",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/377997/download",
+     "sha256": "d34f644dad81b9afe85591656443ea07bc5a6b1a6bc0669ecb23bb270beb5ac4"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2018-387055",
    "path": "odluka/2018/387055",
    "short": "Odluka o donošenju Detaljnog urbanističkog plana \"Pobrežje-zone D i E\" u Podgorici",
@@ -568,6 +613,21 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.me/propisi/399809/download",
      "sha256": "08baa45ace196fb5cd2c949edd7a93504ba585c0e43ab12d9b03b20f1172f707"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-376044",
+   "path": "pravilnik/2024/376044",
+   "short": "Pravilnik o bližim uslovima za postavljanje, sadržinu i način vođenja evidencija o automatskom eksternom defibrilatoru, sadržini, načinu sprovođenja i vođenja evidencija o obukama, kao i uslovima za sistem kontrole kvaliteta automatskog eksternog defibrilatora",
+   "title": "Pravilnik o bližim uslovima za postavljanje, sadržinu i način vođenja evidencija o automatskom eksternom defibrilatoru, sadržini, načinu sprovođenja i vođenja evidencija o obukama, kao i uslovima za sistem kontrole kvaliteta automatskog eksternog defibrilatora",
+   "url": "https://www.sluzbenilist.me/propisi/376044",
+   "versions": [
+    {
+     "from": "2025-01-02",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/376044/download",
+     "sha256": "bd8c553cba86cd48cf7f1834a84d643ca796b00440c7a4a49447980256ca0d07"
     }
    ]
   },
