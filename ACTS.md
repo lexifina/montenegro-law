@@ -1,6 +1,6 @@
 # Every act in this repository
 
-29716 acts, 29,718 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+29718 acts, 29,720 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (853, of which 85 amending acts)
 
@@ -1100,7 +1100,7 @@
 | Naredba o izmjeni Naredbe o zabrani uvoza/unošenja životinja i roba iz zemalja i objekata koji nisu uključeni na liste EU iz kojih je dozvoljen uvoz/unošenje u Evropsku uniju | [`naredba/2026/398952/`](naredba/2026/398952/) | in force | 1 | 2026-10-10 | 2026-10-10 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (20668, of which 3032 amending acts)
+## odluka (20669, of which 3032 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -20067,6 +20067,7 @@
 | Odluka o završnom računu budžeta Opštine Rožaje za 2024. godinu | [`odluka/2025/383408/`](odluka/2025/383408/) | in force | 1 | 2025-07-07 | 2025-07-07 |
 | Odluka o stavljanju van snage Odluke o određivanju lokacije sa elementima urbanističko-tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa | [`odluka/2025/383409/`](odluka/2025/383409/) | in force | 1 | 2025-07-15 | 2025-07-15 |
 | Odluka o prodaji katastarske parcele 267/10 KO Podi | [`odluka/2025/383411/`](odluka/2025/383411/) | in force | 1 | 2025-07-15 | 2025-07-15 |
+| Odluka o donošenju Lokalnog akcionog plana za mlade za period 2025-2026 Opštine Rožaje | [`odluka/2025/383416/`](odluka/2025/383416/) | in force | 1 | 2025-07-15 | 2025-07-15 |
 | Odluka o stavljanju van snage Odluke o građevinskom zemljištu | [`odluka/2025/383422/`](odluka/2025/383422/) | in force | 1 | 2025-07-15 | 2025-07-15 |
 | Odluka o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave Opštine Herceg Novi ("Službeni list Crne Gore - Opštinski propisi", br. 41/21, 5/22, 33/22, 7/24 i 34/24) | [`odluka/2025/383429/`](odluka/2025/383429/) | amending act | 1 | 2025-07-07 | 2025-07-07 |
 | Odluka o nedavanju saglasnosti na Izvještaj o realizaciji Godišnjeg programa obavljanja komunalnih djelatnosti i Finansijskog izvještaja za kalendarsku 2024. godinu | [`odluka/2025/383440/`](odluka/2025/383440/) | in force | 1 | 2025-07-07 | 2025-07-07 |
@@ -21947,7 +21948,7 @@
 | Poslovnik o radu Disciplinskog tužioca i Disciplinskog organa Inženjerske komore Crne Gore | [`poslovnik/2026/394183/`](poslovnik/2026/394183/) | in force | 1 | 2026-05-16 | 2026-05-16 |
 | Poslovnik Skupštine opštine Bijelo Polje | [`poslovnik/2026/397882/`](poslovnik/2026/397882/) | in force | 1 | 2026-09-15 | 2026-09-15 |
 
-## pravila (269, of which 53 amending acts)
+## pravila (270, of which 53 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -22128,6 +22129,7 @@
 | Pravila o provjeri podataka iz izvještaja o prihodima i imovini direktora Agencije za sprečavanje korupcije | [`pravila/2024/375976/`](pravila/2024/375976/) | in force | 1 | 2024-12-31 | 2024-12-31 |
 | Pravila o izmjenama Pravila o metodologiji za obračunavanje neto vrijednosti imovine zajedničkih fondova | [`pravila/2024/376334/`](pravila/2024/376334/) | in force | 1 | 2025-01-08 | 2025-01-08 |
 | Pravila o načinu sprovođenja zapošljavanja i popune radnog mjesta u Agenciji za sprečavanje korupcije na osnovu javnog oglasa | [`pravila/2025/377051/`](pravila/2025/377051/) | in force | 1 | 2025-01-24 | 2025-01-24 |
+| Pravila o garancijama porijekla | [`pravila/2025/383481/`](pravila/2025/383481/) | in force | 1 | 2025-07-05 | 2025-07-05 |
 | Pravila o čuvanju povjerljivosti komercijalno osjetljivih informacija koje koriste operatori sistema | [`pravila/2025/383545/`](pravila/2025/383545/) | in force | 1 | 2025-07-18 | 2025-07-18 |
 | Pravila o ekvivalentnim zahtjevima transparentnosti u odnosu na emitenta koji se nalazi u trećoj zemlji | [`pravila/2025/383873/`](pravila/2025/383873/) | in force | 1 | 2025-08-07 | 2025-08-07 |
 | Pravila o strukturi i sadržaju finansijskih izvještaja i drugih izvještaja društva za upravljanje otvorenim investicionim fondovima sa javnom ponudom | [`pravila/2025/384368/`](pravila/2025/384368/) | in force | 1 | 2025-08-26 | 2025-08-26 |

@@ -92,6 +92,21 @@
    ]
   },
   {
+   "slug": "odluka-2025-383416",
+   "path": "odluka/2025/383416",
+   "short": "Odluka o donošenju Lokalnog akcionog plana za mlade za period 2025-2026 Opštine Rožaje",
+   "title": "Odluka o donošenju Lokalnog akcionog plana za mlade za period 2025-2026 Opštine Rožaje",
+   "url": "https://www.sluzbenilist.me/propisi/383416",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/383416/download",
+     "sha256": "0ddbd051618ff192f86985a1e83b0b825a8840d6424ae02cbf80c85f0912ae22"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2025-384851",
    "path": "odluka/2025/384851",
    "short": "Odluka o određivanju lokacije za izgradnju lokalnog objekta od opšteg interesa: izmještanje dionice postojećeg DV 10 kV ,,Breza - Mušovića Rijeka\" u naselju Smailagića Polje u Kolašinu",
@@ -883,6 +898,21 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.me/propisi/399808/download",
      "sha256": "bfa3550987858f13083b744ea750a9d295f69bbd0b333594ec04c994ee4cd68a"
+    }
+   ]
+  },
+  {
+   "slug": "pravila-2025-383481",
+   "path": "pravila/2025/383481",
+   "short": "Pravila o garancijama porijekla",
+   "title": "Pravila o garancijama porijekla",
+   "url": "https://www.sluzbenilist.me/propisi/383481",
+   "versions": [
+    {
+     "from": "2025-07-05",
+     "units": 29,
+     "source_url": "https://www.sluzbenilist.me/propisi/383481/download",
+     "sha256": "66029613a1f2e7b57a184c7a7abf9ca619d59259b034181e62e4a22d0a07c98a"
     }
    ]
   },
