@@ -1,6 +1,6 @@
 # Every act in this repository
 
-29718 acts, 29,720 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+29721 acts, 29,723 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (853, of which 85 amending acts)
 
@@ -1100,7 +1100,7 @@
 | Naredba o izmjeni Naredbe o zabrani uvoza/unošenja životinja i roba iz zemalja i objekata koji nisu uključeni na liste EU iz kojih je dozvoljen uvoz/unošenje u Evropsku uniju | [`naredba/2026/398952/`](naredba/2026/398952/) | in force | 1 | 2026-10-10 | 2026-10-10 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (20669, of which 3032 amending acts)
+## odluka (20672, of which 3033 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13346,6 +13346,7 @@
 | Odluka o razrješenju i imenovanju člana Odbora za društvene djelatnosti,medjuopštinsku i medjunarodnu saradnju | [`odluka/2019/380009/`](odluka/2019/380009/) | in force | 1 | 2019-07-18 | 2019-07-18 |
 | Odluka o opštinskim i nekategorisanim putevima na teritoriji Opštine Tuzi | [`odluka/2019/380010/`](odluka/2019/380010/) | in force | 1 | 2019-08-22 | 2019-08-22 |
 | Odluka o davanju saglasnosti za brisanje tereta zabrane otuđenja i opterećenja upisanog na katastarskoj parceli br.1695/1 KO Rožaje uz naknadu. | [`odluka/2019/380032/`](odluka/2019/380032/) | in force | 1 | 2019-08-27 | 2019-08-27 |
+| Odluka o izmjenama i dopunama Odluke o auto-taksi prevozu | [`odluka/2019/380039/`](odluka/2019/380039/) | amending act | 1 | 2019-08-27 | 2019-08-27 |
 | Odluka o vodosnabdijevanju seoskih i drugih naselja na teritoriji opštine Danilovgrad | [`odluka/2019/380040/`](odluka/2019/380040/) | in force | 1 | 2019-08-27 | 2019-08-27 |
 | Odluka o davanju saglasnosti za brisanje tereta zabrane otuđenja i opterećenja upisanog na katastarskoj parceli br.1308 upisana u LN br. 1406 KO Rožaje uz naknadu. | [`odluka/2019/380042/`](odluka/2019/380042/) | in force | 1 | 2019-08-27 | 2019-08-27 |
 | Odluka o javnoj kanalizaciji na području opštine Danilovgrad | [`odluka/2019/380043/`](odluka/2019/380043/) | in force | 1 | 2019-08-27 | 2019-08-27 |
@@ -19768,6 +19769,7 @@
 | Odluka o izmjenama Odluke o jednokratnim socijalnim davanjima | [`odluka/2025/380870/`](odluka/2025/380870/) | in force | 1 | 2025-04-16 | 2025-04-16 |
 | Odluka o razmjeni zemljišta između države Crne Gore - Opštine Kolašin i Dukić Stefana, Dukić Gorana i Dukić Vuka | [`odluka/2025/380871/`](odluka/2025/380871/) | in force | 1 | 2025-04-16 | 2025-04-16 |
 | Odluka o izmjenama Odluke o naknadama odbornicima u Skupštini opštine Kolašin ("Službeni list CG - Opštinski propisi", broj 65/23 od 30.12.2023) | [`odluka/2025/380872/`](odluka/2025/380872/) | in force | 1 | 2025-04-16 | 2025-04-16 |
+| Odluka o usvajanju Strategije razvoja sporta u Opštini Petnjica (2024 - 2028) | [`odluka/2025/380887/`](odluka/2025/380887/) | in force | 1 | 2025-04-16 | 2025-04-16 |
 | Odluka o donošenju Godišnjeg programa obavljanja komunalnih djelatnosti "Čistoća" DOO Herceg Novi za 2025. godinu | [`odluka/2025/380889/`](odluka/2025/380889/) | in force | 1 | 2025-04-16 | 2025-04-16 |
 | Odluka o davanju saglasnosti na Odluku o cijeni grobnog mjesta na Novom gradskom groblju u Budvi | [`odluka/2025/380890/`](odluka/2025/380890/) | in force | 1 | 2025-04-19 | 2025-04-19 |
 | Odluka o davanju saglasnosti na Cjenovnik o visini zakupa objekta i pijačnih tezgi na pijaci u Petrovcu | [`odluka/2025/380891/`](odluka/2025/380891/) | in force | 1 | 2025-04-19 | 2025-04-19 |
@@ -19829,6 +19831,7 @@
 | Odluka o davanju saglasnosti na Izmijenjeni Program rada sa Finansijskim planom Društva sa ograničenom odgovornošću "Vodovod i kanalizacija/Ujësjellësi dhe kanalizimi" Tuzi za 2025. godinu | [`odluka/2025/381237/`](odluka/2025/381237/) | in force | 1 | 2025-04-24 | 2025-04-24 |
 | Odluka o načinu obrazovanja i utvrđivanja visine naknade za rad u Radnoj grupi za izradu Strategije za razvoj sporta | [`odluka/2025/381244/`](odluka/2025/381244/) | in force | 1 | 2025-04-24 | 2025-04-24 |
 | Odluka o određivanju lokacije sa elementima urbanističko-tehničkih uslova za izgradnju dijela saobraćajnice od parkinga do Ulice Miloša Mališića | [`odluka/2025/381249/`](odluka/2025/381249/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Odluka o usvajanju Lokalnog akcionog plana za mlade za 2025-2026. godinu | [`odluka/2025/381250/`](odluka/2025/381250/) | in force | 1 | 2025-04-24 | 2025-04-24 |
 | Odluka o potvrdi Odluke o prestanku funkcije izvršnog direktora Društva sa ograničenom odgovornošću "Pijace / Tregu" Tuzi | [`odluka/2025/381255/`](odluka/2025/381255/) | in force | 1 | 2025-04-24 | 2025-04-24 |
 | Odluka o stavljanju van snage Odluke o imenovanju Savjeta za saradnju lokalne samouprave i nevladinih organizacija Opštine Plav ("Službeni list Crne Gore - Opštinski propisi", broj 35/2013 od 29. 11. 2013. godine) | [`odluka/2025/381261/`](odluka/2025/381261/) | in force | 1 | 2025-04-24 | 2025-04-24 |
 | Odluka o razrješenju i imenovanju člana Savjeta Javne ustanove Centar za kulturu Plav | [`odluka/2025/381266/`](odluka/2025/381266/) | in force | 1 | 2025-04-24 | 2025-04-24 |

@@ -77,6 +77,21 @@
    ]
   },
   {
+   "slug": "odluka-2019-380039",
+   "path": "odluka/2019/380039",
+   "short": "Odluka o izmjenama i dopunama Odluke o auto-taksi prevozu",
+   "title": "Odluka o izmjenama i dopunama Odluke o auto-taksi prevozu",
+   "url": "https://www.sluzbenilist.me/propisi/380039",
+   "versions": [
+    {
+     "from": "2019-08-27",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/380039/download",
+     "sha256": "c156e626405e525d52e30dd7525ea7307a20378157e8a33081306cc7f074e796"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2019-388321",
    "path": "odluka/2019/388321",
    "short": "Odluka o donošenju Urbanističkog projekta \"Sanitarna deponija sa reciklažnim centrom\" u Podgorici",
@@ -88,6 +103,36 @@
      "units": 9,
      "source_url": "https://www.sluzbenilist.me/propisi/388321/download",
      "sha256": "8753e25599259491a3bec9495405dd76d42d6ddc3b000190e71854ea9b9028a6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2025-380887",
+   "path": "odluka/2025/380887",
+   "short": "Odluka o usvajanju Strategije razvoja sporta u Opštini Petnjica (2024 - 2028)",
+   "title": "Odluka o usvajanju Strategije razvoja sporta u Opštini Petnjica (2024 - 2028)",
+   "url": "https://www.sluzbenilist.me/propisi/380887",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/380887/download",
+     "sha256": "bf0d39b30cd8025ce4eaff9e2132d186cc28758fbdb6f04727175af64a20faf3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2025-381250",
+   "path": "odluka/2025/381250",
+   "short": "Odluka o usvajanju Lokalnog akcionog plana za mlade za 2025-2026. godinu",
+   "title": "Odluka o usvajanju Lokalnog akcionog plana za mlade za 2025-2026. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/381250",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/381250/download",
+     "sha256": "e57c580fe0d3f38177962148e1f58bca70010b1fe77333d47c755ca54c90bd24"
     }
    ]
   },
