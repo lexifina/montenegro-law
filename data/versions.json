@@ -3527,6 +3527,21 @@
    ]
   },
   {
+   "slug": "rjesenje-2026-394659",
+   "path": "rjesenje/2026/394659",
+   "short": "Rješenje o imenovanju Etičke komisije za izabrane predstavnike i funkcionere",
+   "title": "Rješenje o imenovanju Etičke komisije za izabrane predstavnike i funkcionere",
+   "url": "https://www.sluzbenilist.me/propisi/394659",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394659/download",
+     "sha256": "7549f7bb691c63f1890db1a47e288a56d4ff37e5ef8a7d3c3c2a69cb72260864"
+    }
+   ]
+  },
+  {
    "slug": "uputstvo-1996-364708",
    "path": "uputstvo/1996/364708",
    "short": "Uputstvo o sadržini i obliku obrazaca u postupku predlaganja kandidata",
@@ -3538,6 +3553,51 @@
      "units": 2,
      "source_url": "https://www.sluzbenilist.me/propisi/364708/download",
      "sha256": "33efc4e96e79aadbd6be70d6229f7a465d44bc7eca87c8f013d3367069e971b4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-367261",
+   "path": "uredba/2024/367261",
+   "short": "Uredba o programu i načinu polaganja stručnog ispita za rad u državnim organima",
+   "title": "Uredba o programu i načinu polaganja stručnog ispita za rad u državnim organima",
+   "url": "https://www.sluzbenilist.me/propisi/367261",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.me/propisi/367261/download",
+     "sha256": "4e9b0b94b4fd39b7fe311c1d0617ad9548cc9fc27d0c056f4612799f9042e9b3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-378746",
+   "path": "uredba/2025/378746",
+   "short": "Uredba o maksimalno dozvoljenim količinama kontaminenata u hrani*",
+   "title": "Uredba o maksimalno dozvoljenim količinama kontaminenata u hrani*",
+   "url": "https://www.sluzbenilist.me/propisi/378746",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/378746/download",
+     "sha256": "5b588939f4e4bd9cf7446adf52faafe9fbda306a82d2823132acd6e2b14ad984"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-385251",
+   "path": "uredba/2025/385251",
+   "short": "Uredba o tarifi javnih izvršitelja",
+   "title": "Uredba o tarifi javnih izvršitelja",
+   "url": "https://www.sluzbenilist.me/propisi/385251",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.me/propisi/385251/download",
+     "sha256": "13c569dd605d29682f717f549dc883d7fc1561651ae473ddc68a51c7c0d807b7"
     }
    ]
   },
@@ -3572,6 +3632,81 @@
    ]
   },
   {
+   "slug": "uredba-2026-394886",
+   "path": "uredba/2026/394886",
+   "short": "Uredba o zakonskim mjernim jedinicama*",
+   "title": "Uredba o zakonskim mjernim jedinicama*",
+   "url": "https://www.sluzbenilist.me/propisi/394886",
+   "versions": [
+    {
+     "from": "2026-06-20",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/394886/download",
+     "sha256": "dca79c0b56637331eb7d30d345416271fee9b38fb4d55421295e798a42244027"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-395033",
+   "path": "uredba/2026/395033",
+   "short": "Uredba o naknadi troškova u postupku za pristup informacijama",
+   "title": "Uredba o naknadi troškova u postupku za pristup informacijama",
+   "url": "https://www.sluzbenilist.me/propisi/395033",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/395033/download",
+     "sha256": "8893108a8fb7bcf4db62adafb877400a10a2e36095e969b832aae665fc2e0d3d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-395046",
+   "path": "uredba/2026/395046",
+   "short": "Uredba o slobodnim carinskim prodavnicama",
+   "title": "Uredba o slobodnim carinskim prodavnicama",
+   "url": "https://www.sluzbenilist.me/propisi/395046",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.me/propisi/395046/download",
+     "sha256": "635e67025c4299cac198a162ba16e6b91799e0c238bcf24961a61109beaf421b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-395416",
+   "path": "uredba/2026/395416",
+   "short": "Uredba o bližim zahtjevima za higijenu hrane za životinje*",
+   "title": "Uredba o bližim zahtjevima za higijenu hrane za životinje*",
+   "url": "https://www.sluzbenilist.me/propisi/395416",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.me/propisi/395416/download",
+     "sha256": "76d5f8ee801f6ccb4282a424d2ac7071c497f1d36bee669ffd86d81a7a883217"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-395878",
+   "path": "uredba/2026/395878",
+   "short": "Uredba o maksimalno dozvoljenim količinama kontaminenata u hrani*",
+   "title": "Uredba o maksimalno dozvoljenim količinama kontaminenata u hrani*",
+   "url": "https://www.sluzbenilist.me/propisi/395878",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.me/propisi/395878/download",
+     "sha256": "9a78d3e462e19da07767c5441400d44c74857549d862cb8eab69278d35e3d5d9"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-399808",
    "path": "uredba/2026/399808",
    "short": "Uredba o dopunama Uredbe o organizaciji i načinu rada državne uprave",
@@ -3583,6 +3718,81 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.me/propisi/399808/download",
      "sha256": "bfa3550987858f13083b744ea750a9d295f69bbd0b333594ec04c994ee4cd68a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-382227",
+   "path": "zakon/2025/382227",
+   "short": "Zakon o naučnoistraživačkoj djelatnosti",
+   "title": "Zakon o naučnoistraživačkoj djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/382227",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 61,
+     "source_url": "https://www.sluzbenilist.me/propisi/382227/download",
+     "sha256": "3dacd8f0ae0ae548f87546f227a81e22829434f125b05c420c3e9960548767d5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-389699",
+   "path": "zakon/2026/389699",
+   "short": "Zakon o zaštiti stanovništva od zaraznih bolesti",
+   "title": "Zakon o zaštiti stanovništva od zaraznih bolesti",
+   "url": "https://www.sluzbenilist.me/propisi/389699",
+   "versions": [
+    {
+     "from": "2026-01-17",
+     "units": 110,
+     "source_url": "https://www.sluzbenilist.me/propisi/389699/download",
+     "sha256": "b0e928614f1484ad5090448fd5c188337b0a3572de5e0997c155d3f84f7674c9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-390427",
+   "path": "zakon/2026/390427",
+   "short": "Zakon o zaštiti potrošača*",
+   "title": "Zakon o zaštiti potrošača*",
+   "url": "https://www.sluzbenilist.me/propisi/390427",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 307,
+     "source_url": "https://www.sluzbenilist.me/propisi/390427/download",
+     "sha256": "f29c5608db615fd961c009f553823430c8ea9106ce73ccc36944f1b148f758e9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-393186",
+   "path": "zakon/2026/393186",
+   "short": "Zakon o vazdušnom saobraćaju",
+   "title": "Zakon o vazdušnom saobraćaju",
+   "url": "https://www.sluzbenilist.me/propisi/393186",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 283,
+     "source_url": "https://www.sluzbenilist.me/propisi/393186/download",
+     "sha256": "a330ba23ad2fd125da596fee653bd89168cbafc3e8b60955cefa6cace6ec4038"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-396033",
+   "path": "zakon/2026/396033",
+   "short": "Zakon o izmjenama i dopunama Zakona o platnom prometu",
+   "title": "Zakon o izmjenama i dopunama Zakona o platnom prometu",
+   "url": "https://www.sluzbenilist.me/propisi/396033",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 38,
+     "source_url": "https://www.sluzbenilist.me/propisi/396033/download",
+     "sha256": "d7521a7d770225dd6c078f176411669c24a638e60b7a2e47d7e6ee4325e90b92"
     }
    ]
   },
@@ -14668,6 +14878,1086 @@
      "units": 1,
      "source_url": "https://www.sluzbenilist.me/propisi/393108/download",
      "sha256": "a3cd1ef38c634bdabe78026ea3bfd2118a1095be4e08eb4fecb72ceebafa5dfb"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-393111",
+   "path": "rjesenje/2026/393111",
+   "short": "Rješenje o izdavanju licence Medicinskom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Rješenje o izdavanju licence Medicinskom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/393111",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393111/download",
+     "sha256": "af2349615e5105c07ba330301bc18ea524e30d403df21f7a548f670e8af0220e"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-393351",
+   "path": "rjesenje/2026/393351",
+   "short": "Rješenje o izdavanju licence Privatnoj pred- školskoj ustanovi \"Dobra vila\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnoj pred- školskoj ustanovi \"Dobra vila\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/393351",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393351/download",
+     "sha256": "46ebaffd5939177d2aeb2eaa2db33e8966a23c33169f34a5aa8f4d786627db32"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-393794",
+   "path": "rjesenje/2026/393794",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi Auto škola ,,Feniks\", Bar",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi Auto škola ,,Feniks\", Bar",
+   "url": "https://www.sluzbenilist.me/propisi/393794",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/393794/download",
+     "sha256": "e0f4a0fd0ad8a7a82d2a3855d8b6587d420702320a1545453f7c4ba68fedc0cc"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394051",
+   "path": "rjesenje/2026/394051",
+   "short": "Rješenje o izdavanju licence Javnoj predškolskoj ustanovi \"Ljubica Popović\", Podgorica",
+   "title": "Rješenje o izdavanju licence Javnoj predškolskoj ustanovi \"Ljubica Popović\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/394051",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394051/download",
+     "sha256": "1ecedf8f78c4ce2faa2fcc2795010610201a467bf37de6bc1e6a609d6ad2c6d9"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394285",
+   "path": "rjesenje/2026/394285",
+   "short": "Rješenje o izdavanju licence Privatnoj predškolskoj ustanovi i produženom boravku \"Crvendać\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnoj predškolskoj ustanovi i produženom boravku \"Crvendać\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/394285",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394285/download",
+     "sha256": "7eb2ba9787867a0b4b09bac19d4dd84a8e27fc0efb7e31f66df8f98f35438d15"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394286",
+   "path": "rjesenje/2026/394286",
+   "short": "Rješenje o izdavanju licence Privatnom produženom boravku \"Školica\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnom produženom boravku \"Školica\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/394286",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394286/download",
+     "sha256": "9fc2d288ce0282e53e5b40f184514f88f804de819f26b54cff4975e86bdb6e8a"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394287",
+   "path": "rjesenje/2026/394287",
+   "short": "Rješenje o utvrđivanju minimalnog broja bodova potrebnih za upis u gimnaziju i četvorogodišnju stručnu školu za školsku 2026/27. godinu",
+   "title": "Rješenje o utvrđivanju minimalnog broja bodova potrebnih za upis u gimnaziju i četvorogodišnju stručnu školu za školsku 2026/27. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/394287",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394287/download",
+     "sha256": "42a9f5832ad7bb20fd90181b64f41ef7b402694cd35d8e14dad8b952f6e80d08"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394408",
+   "path": "rjesenje/2026/394408",
+   "short": "Rešenje o davanju saglasnosti na imenovanje Izvršnog direktora Društva sa ograničenom odgovornošću \"Komunalno i vodovod\" Žabljak",
+   "title": "Rešenje o davanju saglasnosti na imenovanje Izvršnog direktora Društva sa ograničenom odgovornošću \"Komunalno i vodovod\" Žabljak",
+   "url": "https://www.sluzbenilist.me/propisi/394408",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394408/download",
+     "sha256": "72d92213be98cb9b1b350b588610a97213a1379198c54ead337d72ea534e70c2"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394516",
+   "path": "rjesenje/2026/394516",
+   "short": "Rješenje o izdavanju licence Privatnom produženom boravku \"T&O Pocahontas\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnom produženom boravku \"T&O Pocahontas\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/394516",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394516/download",
+     "sha256": "ce9b931aca3efc442c8c44607b9df34f2a7593e57e5765d79b9fd6e533cefc87"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394517",
+   "path": "rjesenje/2026/394517",
+   "short": "Rješenje o izdavanju licence Privatnom produženom boravku \"Topolino\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnom produženom boravku \"Topolino\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/394517",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394517/download",
+     "sha256": "37a3f9fee6b4d6b4e192707e7649a074010ceed695a47f89b7016ffa13af81ac"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394677",
+   "path": "rjesenje/2026/394677",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola \"Bećo Bašić\", Plav",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola \"Bećo Bašić\", Plav",
+   "url": "https://www.sluzbenilist.me/propisi/394677",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394677/download",
+     "sha256": "b2d4038ad967bb14c6904d74c529fc0eacd903b6f0f06a0682f150726dbc5c31"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394678",
+   "path": "rjesenje/2026/394678",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Cetinje",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Cetinje",
+   "url": "https://www.sluzbenilist.me/propisi/394678",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394678/download",
+     "sha256": "744fca8e6f1afd1229e86484847f8c45c9263c71594ff2918916d3a4e8d967d8"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394679",
+   "path": "rjesenje/2026/394679",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola \"Mladost\", Tivat",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola \"Mladost\", Tivat",
+   "url": "https://www.sluzbenilist.me/propisi/394679",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394679/download",
+     "sha256": "1b7b66096727438eda5a53df3c5dbeabd39a1a354388279be1821fa1bc4d187b"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394680",
+   "path": "rjesenje/2026/394680",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Gimnazija \"Miloje Dobrašinović\", Bijelo Polje",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Gimnazija \"Miloje Dobrašinović\", Bijelo Polje",
+   "url": "https://www.sluzbenilist.me/propisi/394680",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394680/download",
+     "sha256": "f13e6d9b5a439a7d26284481306a96c388bec76fc87c8ff53e3cc9cf7dfc5f66"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394683",
+   "path": "rjesenje/2026/394683",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Srednja elektrotehnička škola \"Vaso Aligrudić\", Podgorica",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Srednja elektrotehnička škola \"Vaso Aligrudić\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/394683",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394683/download",
+     "sha256": "de29f030981a79a0a8b9d764419715006400658b0db11542545e82e1689f21b2"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394684",
+   "path": "rjesenje/2026/394684",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Gimnazija \"Niko Rolović\", Bar",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Gimnazija \"Niko Rolović\", Bar",
+   "url": "https://www.sluzbenilist.me/propisi/394684",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394684/download",
+     "sha256": "e57c824cb9ad734415d428bdd37440af1bc5d0fa4eb58512f8856f9a34ab341a"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394685",
+   "path": "rjesenje/2026/394685",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola \"Spasoje Raspopović\", Podgorica",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola \"Spasoje Raspopović\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/394685",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394685/download",
+     "sha256": "d2cc2b67b3fb3783a9a3224b904210b36cd2176dd7aac401506fa225bf5f877f"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394686",
+   "path": "rjesenje/2026/394686",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Nikšić",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Nikšić",
+   "url": "https://www.sluzbenilist.me/propisi/394686",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394686/download",
+     "sha256": "7dab6042643bf255f313fce16988eaf78088e8f445152203881c7e8a2c46971a"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394687",
+   "path": "rjesenje/2026/394687",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Prva srednja stručna škola, Nikšić",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Prva srednja stručna škola, Nikšić",
+   "url": "https://www.sluzbenilist.me/propisi/394687",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394687/download",
+     "sha256": "0c57c16b5a60855c84dcf9a4af49d1b78fc4581bfe18287f08ff0b5dd4aa4dee"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394688",
+   "path": "rjesenje/2026/394688",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Gimnazija \"Stojan Cerović\", Nikšić",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Gimnazija \"Stojan Cerović\", Nikšić",
+   "url": "https://www.sluzbenilist.me/propisi/394688",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394688/download",
+     "sha256": "c27ae58618e9b9a3a8c51f2f186bfd9bf36e0ce2c5ffb73ee83e9ad9eeed643c"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394689",
+   "path": "rjesenje/2026/394689",
+   "short": "Rješenje o izdavanju licence Institutu za biologiju mora Univerziteta Crne Gore, Kotor, za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Rješenje o izdavanju licence Institutu za biologiju mora Univerziteta Crne Gore, Kotor, za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/394689",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394689/download",
+     "sha256": "d68c997fde0f83b9960b143175362dd33f36ec3bc7b65d7a2c1cc6e8692fca3d"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394690",
+   "path": "rjesenje/2026/394690",
+   "short": "Rješenje o izdavanju licence Pomorskom fakultetu Univerziteta Crne Gore, Kotor, za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Rješenje o izdavanju licence Pomorskom fakultetu Univerziteta Crne Gore, Kotor, za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/394690",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394690/download",
+     "sha256": "941ca535346c6abc219d86e9a12f79ab32a3bc9ddfdbfee6bae326b92beb9fbd"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394691",
+   "path": "rjesenje/2026/394691",
+   "short": "Rješenje o javno važećem obrazovnom programu Tehničar gastronomije",
+   "title": "Rješenje o javno važećem obrazovnom programu Tehničar gastronomije",
+   "url": "https://www.sluzbenilist.me/propisi/394691",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/394691/download",
+     "sha256": "254d47810af8cb27b6d322a5448f8db9ac3b1f0219d5f7281e45980bb2250337"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394692",
+   "path": "rjesenje/2026/394692",
+   "short": "Rješenje o javno važećem obrazovnom programu Tehničar u željezničkom saobraćaju",
+   "title": "Rješenje o javno važećem obrazovnom programu Tehničar u željezničkom saobraćaju",
+   "url": "https://www.sluzbenilist.me/propisi/394692",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/394692/download",
+     "sha256": "eced80291bf4baaa34b4921701ab8ecef92e33972a1fa22209de67028f581fa7"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394693",
+   "path": "rjesenje/2026/394693",
+   "short": "Rješenje o javno važećem obrazovnom programu Rukovodilac željezničkim voznim sredstvima",
+   "title": "Rješenje o javno važećem obrazovnom programu Rukovodilac željezničkim voznim sredstvima",
+   "url": "https://www.sluzbenilist.me/propisi/394693",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/394693/download",
+     "sha256": "dba8315b5f29080ba6f0ec110204e2b92b8c62672c08057e03b15c4bc4dcc03d"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394694",
+   "path": "rjesenje/2026/394694",
+   "short": "Rješenje o javno važećem obrazovnom programu Saradnik u muzičkoj produkciji i dizajnu zvuka",
+   "title": "Rješenje o javno važećem obrazovnom programu Saradnik u muzičkoj produkciji i dizajnu zvuka",
+   "url": "https://www.sluzbenilist.me/propisi/394694",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/394694/download",
+     "sha256": "fce0f9b404f62911ce02a28cf6198bb56b81f4dae725c641412688a24ff6aca5"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394695",
+   "path": "rjesenje/2026/394695",
+   "short": "Rješenje o javno važećem obrazovnom programu Policajac",
+   "title": "Rješenje o javno važećem obrazovnom programu Policajac",
+   "url": "https://www.sluzbenilist.me/propisi/394695",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/394695/download",
+     "sha256": "6d37b840e5431370361b1fc0ce0d11fe056157db0cc577f9c815a0a00868ab99"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394735",
+   "path": "rjesenje/2026/394735",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi \"Polyglot\", Nikšić",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi \"Polyglot\", Nikšić",
+   "url": "https://www.sluzbenilist.me/propisi/394735",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394735/download",
+     "sha256": "97a79dbf2937fb8d548b3aeeece7c0b5b67344c11f013e5c60fafb559fdd3072"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394736",
+   "path": "rjesenje/2026/394736",
+   "short": "Rješenje o izdavanju licence Javnoj predškolskoj ustanovi \"Ljubica Popović\", Podgorica",
+   "title": "Rješenje o izdavanju licence Javnoj predškolskoj ustanovi \"Ljubica Popović\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/394736",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394736/download",
+     "sha256": "4dc4d046bb5435786930334debf763d1bcf0dfd8364f743878788231866a73f7"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394737",
+   "path": "rjesenje/2026/394737",
+   "short": "Rješenje o javno važećem obrazovnom programu Kuvar",
+   "title": "Rješenje o javno važećem obrazovnom programu Kuvar",
+   "url": "https://www.sluzbenilist.me/propisi/394737",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/394737/download",
+     "sha256": "22d55b60ae9ece6d8f0a2c89d047886449b62374d65ec6b9306b066a5186313d"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394738",
+   "path": "rjesenje/2026/394738",
+   "short": "Rješenje o javno važećem obrazovnom programu Nautički tehničar",
+   "title": "Rješenje o javno važećem obrazovnom programu Nautički tehničar",
+   "url": "https://www.sluzbenilist.me/propisi/394738",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/394738/download",
+     "sha256": "816ace5da26ae89b5825cec001374e1c888f5c875d221a46d7d2cb85811fafa3"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394739",
+   "path": "rjesenje/2026/394739",
+   "short": "Rješenje o javno važećem obrazovnom programu Brodomašinski tehničar",
+   "title": "Rješenje o javno važećem obrazovnom programu Brodomašinski tehničar",
+   "url": "https://www.sluzbenilist.me/propisi/394739",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/394739/download",
+     "sha256": "9244806f287a284dfcafde41ac4e4a1664d77409fd394d95d638de9d0e8cd5e8"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394740",
+   "path": "rjesenje/2026/394740",
+   "short": "Rješenje o izdavanju licence Javnoj predškolskoj ustanovi \"Ljubica Popović\", Podgorica",
+   "title": "Rješenje o izdavanju licence Javnoj predškolskoj ustanovi \"Ljubica Popović\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/394740",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394740/download",
+     "sha256": "77a6534ab4aee9e34455d5bf1d9d5b4d5b5df24b5ec9cf5c1255028e13b757ca"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-394861",
+   "path": "rjesenje/2026/394861",
+   "short": "Rješenje o izdavanju licence Privatnom produženom boravku \"Učitelj Miki\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnom produženom boravku \"Učitelj Miki\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/394861",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/394861/download",
+     "sha256": "0c299b2355b7c584779570cf9c64b6b3233f44f48bf49c815c2d05059fd0d28a"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-395422",
+   "path": "rjesenje/2026/395422",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Gimnazija \"Slobodan Škerović\", Podgorica",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Gimnazija \"Slobodan Škerović\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/395422",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/395422/download",
+     "sha256": "e4c3f4742682e0963cb0c3ee86f31e8dbaab14a4e9a1f8c2ba378631cb229d3f"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-395654",
+   "path": "rjesenje/2026/395654",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola \"Ivan Uskoković\" Podgorica",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola \"Ivan Uskoković\" Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/395654",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/395654/download",
+     "sha256": "fa52365d995bf76136b728b27ebc34fc9c3e7b142730531d62e584d3b0f6774a"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-395655",
+   "path": "rjesenje/2026/395655",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Škola za osnovno i srednje muzičko obrazovanje \"Vida Matjan\" Kotor",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Škola za osnovno i srednje muzičko obrazovanje \"Vida Matjan\" Kotor",
+   "url": "https://www.sluzbenilist.me/propisi/395655",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/395655/download",
+     "sha256": "e1ca56e3579b5bc28fcabd048c0d23861502d3961862cab1db8f6801f6c821d9"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-395836",
+   "path": "rjesenje/2026/395836",
+   "short": "Rješenje o izdavanju licence Privatnom obrazovnom centru \"International school and kindergarten Maša\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnom obrazovnom centru \"International school and kindergarten Maša\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/395836",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/395836/download",
+     "sha256": "58e1b6a1d28c848ca3e35cdd161c2e4e929a866776355d5d34a390c654f44e78"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-395837",
+   "path": "rjesenje/2026/395837",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi \"Akademija AML\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi \"Akademija AML\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/395837",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/395837/download",
+     "sha256": "7fb7d74c816cb1bd522b80b4da51ee2756f05d516d266b7309797b7187c72a66"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-395838",
+   "path": "rjesenje/2026/395838",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi \"Gimnazija Podgorica\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi \"Gimnazija Podgorica\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/395838",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/395838/download",
+     "sha256": "8ce83d632825f2ded43ef580a15b87f5f811700f74f60d899110d79ab9ff4b64"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-395839",
+   "path": "rjesenje/2026/395839",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi Auto škola \"Ferrari\", Ulcinj",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi Auto škola \"Ferrari\", Ulcinj",
+   "url": "https://www.sluzbenilist.me/propisi/395839",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/395839/download",
+     "sha256": "9132bcc8de693c181bd006f4196dcd5d7faeb922cdc49ab2251216674b89d0e1"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-396451",
+   "path": "rjesenje/2026/396451",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi \"Logate Institut za informacione tehnologije\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi \"Logate Institut za informacione tehnologije\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/396451",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/396451/download",
+     "sha256": "913ded81cc50534eeb4774504135dd4df314829e54442ca29c2e7063b0b7d879"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-396452",
+   "path": "rjesenje/2026/396452",
+   "short": "Rješenje o javno važećem posebnom obrazovnom programu Pomoćnik frizera",
+   "title": "Rješenje o javno važećem posebnom obrazovnom programu Pomoćnik frizera",
+   "url": "https://www.sluzbenilist.me/propisi/396452",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/396452/download",
+     "sha256": "b129127a2d53207276c0205487c699876d0a8617a65542f71c3f67835a26c8c8"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-396453",
+   "path": "rjesenje/2026/396453",
+   "short": "Rješenje o javno važećem posebnom obrazovnom programu Pomoćnik kuvara",
+   "title": "Rješenje o javno važećem posebnom obrazovnom programu Pomoćnik kuvara",
+   "url": "https://www.sluzbenilist.me/propisi/396453",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/396453/download",
+     "sha256": "9beda004cb428ef39a651936713ec5c15033daf984360b7d0cb106a5779228ce"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-396454",
+   "path": "rjesenje/2026/396454",
+   "short": "Rješenje o javno važećem posebnom obrazovnom programu Pomoćnik prodavača",
+   "title": "Rješenje o javno važećem posebnom obrazovnom programu Pomoćnik prodavača",
+   "url": "https://www.sluzbenilist.me/propisi/396454",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/396454/download",
+     "sha256": "bd5a01df77f2949a754ad865e7d50f36a5422fa789179dd4ab37d8b1c9a4d284"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-396455",
+   "path": "rjesenje/2026/396455",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Stručna medicinska škola, Podgorica",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Stručna medicinska škola, Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/396455",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/396455/download",
+     "sha256": "60ccdb8b4da9aa6d8140dd25bc2da77624a89d1bf1cd35ba5314bc6f77397b1f"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-397032",
+   "path": "rjesenje/2026/397032",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi Auto škola \"Top drive MM\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi Auto škola \"Top drive MM\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/397032",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/397032/download",
+     "sha256": "cee7fc7e7d1ab68491c10b30fd636c2b0445a392521c60a53ac8e30d432633f0"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-397830",
+   "path": "rjesenje/2026/397830",
+   "short": "Rješenje o izdavanju licence Privatnoj predškolskoj ustanovi \"Čarli Čaplin\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnoj predškolskoj ustanovi \"Čarli Čaplin\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/397830",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/397830/download",
+     "sha256": "17a580db684f35cdad22c3422d6481b361ed3fcab83603d08b81c2c6f219481b"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-397831",
+   "path": "rjesenje/2026/397831",
+   "short": "Rješenje o izdavanju licence Privatnom produženom boravku \"Sigmund\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnom produženom boravku \"Sigmund\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/397831",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/397831/download",
+     "sha256": "f6f179d4ef31ca3a3c75364c9e3378c2fec602ca3a53f0f1c9d1b6584bf1263f"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-397928",
+   "path": "rjesenje/2026/397928",
+   "short": "Rješenje o izdavanju licence Privatnom produženom boravku ,,Bus\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnom produženom boravku ,,Bus\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/397928",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/397928/download",
+     "sha256": "032767f05c46752db7b56a6ac4422d75eb342e75b085880fb5929179f78c3f4b"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-397975",
+   "path": "rjesenje/2026/397975",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi Obrazovni centar \"Dukley Academy\", Budva",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi Obrazovni centar \"Dukley Academy\", Budva",
+   "url": "https://www.sluzbenilist.me/propisi/397975",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/397975/download",
+     "sha256": "59f8e8b5c1a40b399405482d934e2d9ea62b603cf6fa571bf99055b2fd70b99b"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-397976",
+   "path": "rjesenje/2026/397976",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi Obrazovno razvojni centar \"Mondo creativo\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi Obrazovno razvojni centar \"Mondo creativo\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/397976",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/397976/download",
+     "sha256": "99c87cac54bf5f2caa3a2bc145a38535a9b928a2550f9dbefbb6b5e9fb6e8b77"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-398074",
+   "path": "rjesenje/2026/398074",
+   "short": "Rješenje o izdavanju licence Arhitektonskom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Rješenje o izdavanju licence Arhitektonskom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/398074",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/398074/download",
+     "sha256": "7a1d17179fcd77562acb6197fe3bcb9458952f50e896570533fec260a654ad5e"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-398075",
+   "path": "rjesenje/2026/398075",
+   "short": "Rješenje o izdavanju licence Elektrotehničkom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Rješenje o izdavanju licence Elektrotehničkom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/398075",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/398075/download",
+     "sha256": "f6bf2a4588ba6dc82fdb83b6cf80f16dae0aee6e0616953ccf90f6f19163b5bc"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-398076",
+   "path": "rjesenje/2026/398076",
+   "short": "Rješenje o izdavanju licence Tehnološkom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Rješenje o izdavanju licence Tehnološkom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/398076",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/398076/download",
+     "sha256": "e0d7f5c79dba07d96f7e1a41e359be8e1976a5d2fe50dab7c960e674e4525a78"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-398078",
+   "path": "rjesenje/2026/398078",
+   "short": "Rješenje o izdavanju licence Biotehničkom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Rješenje o izdavanju licence Biotehničkom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/398078",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/398078/download",
+     "sha256": "8293ea942af1f17d41aa96258bda258133276734cba169616ad6486631422289"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-398210",
+   "path": "rjesenje/2026/398210",
+   "short": "Rješenje o izdavanju licence Privatnom produženom boravku \"Cool School\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnom produženom boravku \"Cool School\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/398210",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/398210/download",
+     "sha256": "1565906e80564b09487bbe868ea5382f824ccee40941a911ad076aae2c6e7654"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-398315",
+   "path": "rjesenje/2026/398315",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi Auto škola \"Zebra\" Bijelo Polje",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi Auto škola \"Zebra\" Bijelo Polje",
+   "url": "https://www.sluzbenilist.me/propisi/398315",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/398315/download",
+     "sha256": "91de2e299bf7f708347fbfcf0eed5c78f13aabf16bf11bdcc38416c9da32e82e"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-398551",
+   "path": "rjesenje/2026/398551",
+   "short": "Rješenje o izdavanju licence Privatnom produženom boravku \"Wonderland\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnom produženom boravku \"Wonderland\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/398551",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/398551/download",
+     "sha256": "59b403d16725853ae9bc2f00cb1a30300a9d8cf3031935d3e4bce8c1cbab5a76"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-399242",
+   "path": "rjesenje/2026/399242",
+   "short": "Rješenje o izdavanju licence Prirodno-matematičkom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Rješenje o izdavanju licence Prirodno-matematičkom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/399242",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/399242/download",
+     "sha256": "630c6b1accf2d788aa3a2d5f8b95c6247a08dc3253e8e847903f4b7d1d5ef017"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-399243",
+   "path": "rjesenje/2026/399243",
+   "short": "Rješenje o izdavanju licence Akcionarskom društvu \"HI Poliex\", Berane, za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Rješenje o izdavanju licence Akcionarskom društvu \"HI Poliex\", Berane, za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/399243",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/399243/download",
+     "sha256": "3758d0e2c242938ede18a79dd18a0d66958b3021dad2c2e0f120ee936f5e9f13"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-399245",
+   "path": "rjesenje/2026/399245",
+   "short": "Rješenje o izdavanju licence Fakultetu Politehnika Univerziteta Donja Gorica, Podgorica, za obavljanje naučnoistraživačke",
+   "title": "Rješenje o izdavanju licence Fakultetu Politehnika Univerziteta Donja Gorica, Podgorica, za obavljanje naučnoistraživačke",
+   "url": "https://www.sluzbenilist.me/propisi/399245",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/399245/download",
+     "sha256": "ad34ceb61c26950c6b566f2b078d7d25f6f6eed1ea01a52239650bd7d75fc0a5"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-399246",
+   "path": "rjesenje/2026/399246",
+   "short": "Rješenje o izdavanju licence Akcionarskom društvu \"13. Jul - Plantaže\" A.D, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Rješenje o izdavanju licence Akcionarskom društvu \"13. Jul - Plantaže\" A.D, Podgorica, za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/399246",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/399246/download",
+     "sha256": "3fa6d20625d1227ebf6420ba17652389d185882b663026a4b00190cea0da8888"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-399247",
+   "path": "rjesenje/2026/399247",
+   "short": "Rješenje o izdavanju licence Fakultetu za pomorstvo i turizam Bar Univerziteta Adriatik, Bar, za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Rješenje o izdavanju licence Fakultetu za pomorstvo i turizam Bar Univerziteta Adriatik, Bar, za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/399247",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/399247/download",
+     "sha256": "e29656eedd960d795777b91ec22d138a5757465fe7b2e35c3e3b7498b7ab38d6"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-399248",
+   "path": "rjesenje/2026/399248",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi Auto škola \"Feniks\", Bar",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi Auto škola \"Feniks\", Bar",
+   "url": "https://www.sluzbenilist.me/propisi/399248",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/399248/download",
+     "sha256": "7d3c7a6f8c9d1191de173e16200c84ca8adf224e26200c43d5fd1e62ab9fbfb3"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-399272",
+   "path": "rjesenje/2026/399272",
+   "short": "Rješenje o izdavanju licence Privatnom produženom boravku \"Kiddos Club\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnom produženom boravku \"Kiddos Club\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/399272",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/399272/download",
+     "sha256": "69c4bc62c36fe40526c2208869d56f8fa15d50a15dd3edc169ad28171c7cdc04"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2026-399454",
+   "path": "rjesenje/2026/399454",
+   "short": "Rješenje o izdavanju licence Privatnom produženom boravku \"Ananas kids class\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnom produženom boravku \"Ananas kids class\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/399454",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/399454/download",
+     "sha256": "7813637ca45853a218b69b7837656320b09239474f7da67b037e9b0f874498f7"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2025-387060",
+   "path": "uputstvo/2025/387060",
+   "short": "Uputstvo o obrascu finansijskog plana i programa rada političkog subjekta",
+   "title": "Uputstvo o obrascu finansijskog plana i programa rada političkog subjekta",
+   "url": "https://www.sluzbenilist.me/propisi/387060",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.me/propisi/387060/download",
+     "sha256": "809ebb7d0fcbd4c7bfe38be4fe0fdc00fc8cc94861ad70552046736201596c5e"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2025-387440",
+   "path": "uputstvo/2025/387440",
+   "short": "Uputstvo o načinu i postupku podnošenja prigovora u toku izborne kampanje i njihovom rješavanju",
+   "title": "Uputstvo o načinu i postupku podnošenja prigovora u toku izborne kampanje i njihovom rješavanju",
+   "url": "https://www.sluzbenilist.me/propisi/387440",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.me/propisi/387440/download",
+     "sha256": "cf8fd5e1a4eb5e792fbf6e7c54d8900f3fe38c8d4f27c491a3af621051b3c068"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2025-387756",
+   "path": "uputstvo/2025/387756",
+   "short": "Uputstvo za izradu i dostavljanje privremenog izvještaja o troškovima izborne kampanje",
+   "title": "Uputstvo za izradu i dostavljanje privremenog izvještaja o troškovima izborne kampanje",
+   "url": "https://www.sluzbenilist.me/propisi/387756",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/387756/download",
+     "sha256": "51c06900ca87ce4e6c16c7fad03ce1ea579e5caa2a7b6b506b1436bc6059409f"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2025-388183",
+   "path": "uputstvo/2025/388183",
+   "short": "Uputstvo o sadržini izvještaja o prilozima pravnih i fizičkih lica političkim subjektima u toku izborne kampanje",
+   "title": "Uputstvo o sadržini izvještaja o prilozima pravnih i fizičkih lica političkim subjektima u toku izborne kampanje",
+   "url": "https://www.sluzbenilist.me/propisi/388183",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/388183/download",
+     "sha256": "f4facc8343f2f52892e99f0d92faccd13a7a5e8260fb837d342bdde0424e7b80"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2025-388256",
+   "path": "uputstvo/2025/388256",
+   "short": "Uputstvo za izradu i dostavljanje izvještaja o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava tokom izborne kampanje trećih lica",
+   "title": "Uputstvo za izradu i dostavljanje izvještaja o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava tokom izborne kampanje trećih lica",
+   "url": "https://www.sluzbenilist.me/propisi/388256",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/388256/download",
+     "sha256": "8175d17e9a0cf2d82e6200f5f29c0dde496c30cd5636993e4b219652b8b96875"
     }
    ]
   },

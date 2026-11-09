@@ -1,6 +1,6 @@
 # Every act in this repository
 
-30632 acts, 30,634 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+30718 acts, 30,720 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (870, of which 85 amending acts)
 
@@ -25900,7 +25900,7 @@
 | Program podizanja spomen-obilježja | [`program/2026/399528/`](program/2026/399528/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Izmjene i dopune Programa mjera za podsticaj razvoja poljoprivrede za 2026. godinu | [`program/2026/399716/`](program/2026/399716/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## rjesenje (3070, of which 184 amending acts)
+## rjesenje (3138, of which 184 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -28911,10 +28911,45 @@
 | Rješenje o izdavanju licence Institutu za ljekove i medicinska sredstva Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/393092/`](rjesenje/2026/393092/) | in force | 1 | 2026-03-24 | 2026-03-24 |
 | Rješenje o izdavanju licence Privatnoj ustanovi Auto škola "Viktorija", Berane | [`rjesenje/2026/393104/`](rjesenje/2026/393104/) | in force | 1 | 2026-03-30 | 2026-03-30 |
 | Rješenje o dopuni licence za rad Privatne ustanove Obrazovni centar "United Kids International Montenegro", Podgorica | [`rjesenje/2026/393108/`](rjesenje/2026/393108/) | amending act | 1 | 2026-03-25 | 2026-03-25 |
+| Rješenje o izdavanju licence Medicinskom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/393111/`](rjesenje/2026/393111/) | in force | 1 | 2026-03-24 | 2026-03-24 |
 | Rješenje o davanju saglasnosti na imenovanje potpredsjednice Opštine Plav | [`rjesenje/2026/393254/`](rjesenje/2026/393254/) | in force | 1 | 2026-04-06 | 2026-04-06 |
 | Rješenje o imenovanju Savjeta za pitanja lica sa invaliditetom | [`rjesenje/2026/393348/`](rjesenje/2026/393348/) | in force | 1 | 2026-05-02 | 2026-05-02 |
+| Rješenje o izdavanju licence Privatnoj pred- školskoj ustanovi "Dobra vila", Podgorica | [`rjesenje/2026/393351/`](rjesenje/2026/393351/) | in force | 1 | 2026-04-08 | 2026-04-08 |
 | Rješenje o izdavanju licence Privatnoj ustanovi "Center for Finance Academy", Podgorica | [`rjesenje/2026/393751/`](rjesenje/2026/393751/) | in force | 1 | 2026-04-23 | 2026-04-23 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto škola ,,Feniks", Bar | [`rjesenje/2026/393794/`](rjesenje/2026/393794/) | in force | 1 | 2026-04-28 | 2026-04-28 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Ljubica Popović", Podgorica | [`rjesenje/2026/394051/`](rjesenje/2026/394051/) | in force | 1 | 2026-05-07 | 2026-05-07 |
+| Rješenje o izdavanju licence Privatnoj predškolskoj ustanovi i produženom boravku "Crvendać", Podgorica | [`rjesenje/2026/394285/`](rjesenje/2026/394285/) | in force | 1 | 2026-05-12 | 2026-05-12 |
+| Rješenje o izdavanju licence Privatnom produženom boravku "Školica", Podgorica | [`rjesenje/2026/394286/`](rjesenje/2026/394286/) | in force | 1 | 2026-05-05 | 2026-05-05 |
+| Rješenje o utvrđivanju minimalnog broja bodova potrebnih za upis u gimnaziju i četvorogodišnju stručnu školu za školsku 2026/27. godinu | [`rjesenje/2026/394287/`](rjesenje/2026/394287/) | in force | 1 | 2026-05-14 | 2026-05-14 |
+| Rešenje o davanju saglasnosti na imenovanje Izvršnog direktora Društva sa ograničenom odgovornošću "Komunalno i vodovod" Žabljak | [`rjesenje/2026/394408/`](rjesenje/2026/394408/) | in force | 1 | 2026-05-14 | 2026-05-14 |
+| Rješenje o izdavanju licence Privatnom produženom boravku "T&O Pocahontas", Podgorica | [`rjesenje/2026/394516/`](rjesenje/2026/394516/) | in force | 1 | 2026-05-15 | 2026-05-15 |
+| Rješenje o izdavanju licence Privatnom produženom boravku "Topolino", Podgorica | [`rjesenje/2026/394517/`](rjesenje/2026/394517/) | in force | 1 | 2026-05-15 | 2026-05-15 |
+| Rješenje o imenovanju Etičke komisije za izabrane predstavnike i funkcionere | [`rjesenje/2026/394659/`](rjesenje/2026/394659/) | in force | 1 | 2026-05-29 | 2026-05-29 |
 | Rješenje o obrazovanju Komisije za izradu Nacrta Odluke o izmjenama i dopunama Poslovnika o radu Skupštine opštine Tivat ("Službeni list Crne Gore-Opštinski propisi" br. 36/24) | [`rjesenje/2026/394660/`](rjesenje/2026/394660/) | amending act | 1 | 2026-06-06 | 2026-06-06 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola "Bećo Bašić", Plav | [`rjesenje/2026/394677/`](rjesenje/2026/394677/) | in force | 1 | 2026-03-09 | 2026-03-09 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Cetinje | [`rjesenje/2026/394678/`](rjesenje/2026/394678/) | in force | 1 | 2026-04-03 | 2026-04-03 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola "Mladost", Tivat | [`rjesenje/2026/394679/`](rjesenje/2026/394679/) | in force | 1 | 2026-04-06 | 2026-04-06 |
+| Rješenje o izdavanju licence Javnoj ustanovi Gimnazija "Miloje Dobrašinović", Bijelo Polje | [`rjesenje/2026/394680/`](rjesenje/2026/394680/) | in force | 1 | 2026-04-07 | 2026-04-07 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja elektrotehnička škola "Vaso Aligrudić", Podgorica | [`rjesenje/2026/394683/`](rjesenje/2026/394683/) | in force | 1 | 2026-05-07 | 2026-05-07 |
+| Rješenje o izdavanju licence Javnoj ustanovi Gimnazija "Niko Rolović", Bar | [`rjesenje/2026/394684/`](rjesenje/2026/394684/) | in force | 1 | 2026-05-07 | 2026-05-07 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola "Spasoje Raspopović", Podgorica | [`rjesenje/2026/394685/`](rjesenje/2026/394685/) | in force | 1 | 2026-05-07 | 2026-05-07 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Nikšić | [`rjesenje/2026/394686/`](rjesenje/2026/394686/) | in force | 1 | 2026-05-08 | 2026-05-08 |
+| Rješenje o izdavanju licence Javnoj ustanovi Prva srednja stručna škola, Nikšić | [`rjesenje/2026/394687/`](rjesenje/2026/394687/) | in force | 1 | 2026-05-08 | 2026-05-08 |
+| Rješenje o izdavanju licence Javnoj ustanovi Gimnazija "Stojan Cerović", Nikšić | [`rjesenje/2026/394688/`](rjesenje/2026/394688/) | in force | 1 | 2026-05-08 | 2026-05-08 |
+| Rješenje o izdavanju licence Institutu za biologiju mora Univerziteta Crne Gore, Kotor, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/394689/`](rjesenje/2026/394689/) | in force | 1 | 2026-05-18 | 2026-05-18 |
+| Rješenje o izdavanju licence Pomorskom fakultetu Univerziteta Crne Gore, Kotor, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/394690/`](rjesenje/2026/394690/) | in force | 1 | 2026-05-18 | 2026-05-18 |
+| Rješenje o javno važećem obrazovnom programu Tehničar gastronomije | [`rjesenje/2026/394691/`](rjesenje/2026/394691/) | in force | 1 | 2026-05-20 | 2026-05-20 |
+| Rješenje o javno važećem obrazovnom programu Tehničar u željezničkom saobraćaju | [`rjesenje/2026/394692/`](rjesenje/2026/394692/) | in force | 1 | 2026-05-20 | 2026-05-20 |
+| Rješenje o javno važećem obrazovnom programu Rukovodilac željezničkim voznim sredstvima | [`rjesenje/2026/394693/`](rjesenje/2026/394693/) | in force | 1 | 2026-05-20 | 2026-05-20 |
+| Rješenje o javno važećem obrazovnom programu Saradnik u muzičkoj produkciji i dizajnu zvuka | [`rjesenje/2026/394694/`](rjesenje/2026/394694/) | in force | 1 | 2026-05-20 | 2026-05-20 |
+| Rješenje o javno važećem obrazovnom programu Policajac | [`rjesenje/2026/394695/`](rjesenje/2026/394695/) | in force | 1 | 2026-05-20 | 2026-05-20 |
+| Rješenje o izdavanju licence Privatnoj ustanovi "Polyglot", Nikšić | [`rjesenje/2026/394735/`](rjesenje/2026/394735/) | in force | 1 | 2026-05-29 | 2026-05-29 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Ljubica Popović", Podgorica | [`rjesenje/2026/394736/`](rjesenje/2026/394736/) | in force | 1 | 2026-05-29 | 2026-05-29 |
+| Rješenje o javno važećem obrazovnom programu Kuvar | [`rjesenje/2026/394737/`](rjesenje/2026/394737/) | in force | 1 | 2026-05-20 | 2026-05-20 |
+| Rješenje o javno važećem obrazovnom programu Nautički tehničar | [`rjesenje/2026/394738/`](rjesenje/2026/394738/) | in force | 1 | 2026-05-20 | 2026-05-20 |
+| Rješenje o javno važećem obrazovnom programu Brodomašinski tehničar | [`rjesenje/2026/394739/`](rjesenje/2026/394739/) | in force | 1 | 2026-05-20 | 2026-05-20 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Ljubica Popović", Podgorica | [`rjesenje/2026/394740/`](rjesenje/2026/394740/) | in force | 1 | 2026-06-03 | 2026-06-03 |
+| Rješenje o izdavanju licence Privatnom produženom boravku "Učitelj Miki", Podgorica | [`rjesenje/2026/394861/`](rjesenje/2026/394861/) | in force | 1 | 2026-06-05 | 2026-06-05 |
 | Rješenje broj:10-040/26-244/1 | [`rjesenje/2026/395107/`](rjesenje/2026/395107/) | in force | 1 | 2026-06-02 | 2026-06-02 |
 | Rješenje o davanju saglasnosti na Odluku o imenovanju direktorice JU Dnevni centar "Biseri" Budva | [`rjesenje/2026/395110/`](rjesenje/2026/395110/) | in force | 1 | 2026-06-02 | 2026-06-02 |
 | Rješenje broj:10-040/26-247/1 | [`rjesenje/2026/395111/`](rjesenje/2026/395111/) | in force | 1 | 2026-06-02 | 2026-06-02 |
@@ -28930,14 +28965,26 @@
 | Rješenje o razrješenju i imenovanju predsjednika i člana Odbora za izbor i imenovanja | [`rjesenje/2026/395123/`](rjesenje/2026/395123/) | in force | 1 | 2026-06-02 | 2026-06-02 |
 | Rješenje o razrješenju i imenovanju člana Odbora za Statut i propise | [`rjesenje/2026/395124/`](rjesenje/2026/395124/) | in force | 1 | 2026-06-02 | 2026-06-02 |
 | Rješenje o davanju saglasnosti na Odluku Upravnog odbora JU "Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom Herceg Novi" o izboru direktora | [`rjesenje/2026/395319/`](rjesenje/2026/395319/) | in force | 1 | 2026-06-15 | 2026-06-15 |
+| Rješenje o izdavanju licence Javnoj ustanovi Gimnazija "Slobodan Škerović", Podgorica | [`rjesenje/2026/395422/`](rjesenje/2026/395422/) | in force | 1 | 2026-06-10 | 2026-06-10 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola "Ivan Uskoković" Podgorica | [`rjesenje/2026/395654/`](rjesenje/2026/395654/) | in force | 1 | 2026-06-07 | 2026-06-07 |
+| Rješenje o izdavanju licence Javnoj ustanovi Škola za osnovno i srednje muzičko obrazovanje "Vida Matjan" Kotor | [`rjesenje/2026/395655/`](rjesenje/2026/395655/) | in force | 1 | 2026-06-12 | 2026-06-12 |
 | Rješenje o imenovanju člana Pozorišnog savjeta Javne ustanove Nikšićko pozorište | [`rjesenje/2026/395814/`](rjesenje/2026/395814/) | in force | 1 | 2026-06-30 | 2026-06-30 |
 | Rješenje o imenovanju člana Savjeta Javne ustanove Narodna biblioteka "Njegoš" Nikšić | [`rjesenje/2026/395815/`](rjesenje/2026/395815/) | in force | 1 | 2026-06-30 | 2026-06-30 |
 | Rješenje o razrješenju i imenovanju člana Odbora za društvene djelatnosti | [`rjesenje/2026/395816/`](rjesenje/2026/395816/) | in force | 1 | 2026-06-30 | 2026-06-30 |
 | Rješenje o razrješenju i imenovanju člana Savjeta za prevenciju narkomanije | [`rjesenje/2026/395817/`](rjesenje/2026/395817/) | in force | 1 | 2026-06-30 | 2026-06-30 |
 | Rješenje o davanju saglasnosti na Odluku Odbora direktora Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Herceg Novi o izboru izvršnog direktora | [`rjesenje/2026/395818/`](rjesenje/2026/395818/) | in force | 1 | 2026-07-01 | 2026-07-01 |
+| Rješenje o izdavanju licence Privatnom obrazovnom centru "International school and kindergarten Maša", Podgorica | [`rjesenje/2026/395836/`](rjesenje/2026/395836/) | in force | 1 | 2026-06-29 | 2026-06-29 |
+| Rješenje o izdavanju licence Privatnoj ustanovi "Akademija AML", Podgorica | [`rjesenje/2026/395837/`](rjesenje/2026/395837/) | in force | 1 | 2026-06-30 | 2026-06-30 |
+| Rješenje o izdavanju licence Privatnoj ustanovi "Gimnazija Podgorica", Podgorica | [`rjesenje/2026/395838/`](rjesenje/2026/395838/) | in force | 1 | 2026-07-01 | 2026-07-01 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto škola "Ferrari", Ulcinj | [`rjesenje/2026/395839/`](rjesenje/2026/395839/) | in force | 1 | 2026-07-01 | 2026-07-01 |
 | Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Gold", Nikšić | [`rjesenje/2026/396028/`](rjesenje/2026/396028/) | in force | 1 | 2026-07-16 | 2026-07-16 |
 | Rješenje o izdavanju licence Mašinskom fakultetu univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/396029/`](rjesenje/2026/396029/) | in force | 1 | 2026-07-16 | 2026-07-16 |
 | Rješenje o imenovanju Savjeta Narodne biblioteke i čitaonice "Njegoš" Cetinje | [`rjesenje/2026/396389/`](rjesenje/2026/396389/) | in force | 1 | 2026-07-23 | 2026-07-23 |
+| Rješenje o izdavanju licence Privatnoj ustanovi "Logate Institut za informacione tehnologije", Podgorica | [`rjesenje/2026/396451/`](rjesenje/2026/396451/) | in force | 1 | 2026-07-15 | 2026-07-15 |
+| Rješenje o javno važećem posebnom obrazovnom programu Pomoćnik frizera | [`rjesenje/2026/396452/`](rjesenje/2026/396452/) | in force | 1 | 2026-07-20 | 2026-07-20 |
+| Rješenje o javno važećem posebnom obrazovnom programu Pomoćnik kuvara | [`rjesenje/2026/396453/`](rjesenje/2026/396453/) | in force | 1 | 2026-07-20 | 2026-07-20 |
+| Rješenje o javno važećem posebnom obrazovnom programu Pomoćnik prodavača | [`rjesenje/2026/396454/`](rjesenje/2026/396454/) | in force | 1 | 2026-07-20 | 2026-07-20 |
+| Rješenje o izdavanju licence Javnoj ustanovi Stručna medicinska škola, Podgorica | [`rjesenje/2026/396455/`](rjesenje/2026/396455/) | in force | 1 | 2026-07-21 | 2026-07-21 |
 | Rješenje o utvrđivanju prestanka mandata članova Savjeta JU Kulturni centar "Nikola Đurković" Kotor | [`rjesenje/2026/396508/`](rjesenje/2026/396508/) | in force | 1 | 2026-08-04 | 2026-08-04 |
 | Rješenje o utvrđivanju prestanka mandata predsjedniku i članovima Savjeta Opštinske javne ustanove "Muzeji" Kotor | [`rjesenje/2026/396509/`](rjesenje/2026/396509/) | in force | 1 | 2026-08-04 | 2026-08-04 |
 | Rješenje o utvrđivanju prestanka mandata članovima Odbora direktora Društva sa ograničenom odgovornošću za odvođenje i prečišćavanje otpadnih voda za opštine Kotor i Tivat ispred Opštine Kotor | [`rjesenje/2026/396510/`](rjesenje/2026/396510/) | in force | 1 | 2026-08-04 | 2026-08-04 |
@@ -28953,11 +29000,23 @@
 | Rješenje o izdavanju licence Privatnoj ustanovi Auto škola "Trijumf 2005", Podgorica | [`rjesenje/2026/396636/`](rjesenje/2026/396636/) | in force | 1 | 2026-07-30 | 2026-07-30 |
 | Rješenje o izdavanju licence Privatnoj predškolskoj ustanovi "Dječija Akademija", Podgorica | [`rjesenje/2026/396637/`](rjesenje/2026/396637/) | in force | 1 | 2026-07-30 | 2026-07-30 |
 | Rješenje o izdavanju licence za rad Pedagoškom fakultetu, Bar | [`rjesenje/2026/396660/`](rjesenje/2026/396660/) | in force | 1 | 2026-07-31 | 2026-07-31 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto škola "Top drive MM", Podgorica | [`rjesenje/2026/397032/`](rjesenje/2026/397032/) | in force | 1 | 2026-07-30 | 2026-07-30 |
 | Rješenje o imenovanju člana Savjeta JU Kulturni centar "Nikola Đurković" ispred Ustanove | [`rjesenje/2026/397152/`](rjesenje/2026/397152/) | in force | 1 | 2026-08-13 | 2026-08-13 |
 | Rješenje o imenovanju izvršnog direktora Društva sa ograničenom odgovornošću Regionalni edukativni centar za održivi razvoj i poljoprivredu za sjevernu regiju Crne Gore sa sjedištem u Andrijevici | [`rjesenje/2026/397740/`](rjesenje/2026/397740/) | in force | 1 | 2026-09-11 | 2026-09-11 |
+| Rješenje o izdavanju licence Privatnoj predškolskoj ustanovi "Čarli Čaplin", Podgorica | [`rjesenje/2026/397830/`](rjesenje/2026/397830/) | in force | 1 | 2026-08-28 | 2026-08-28 |
+| Rješenje o izdavanju licence Privatnom produženom boravku "Sigmund", Podgorica | [`rjesenje/2026/397831/`](rjesenje/2026/397831/) | in force | 1 | 2026-08-31 | 2026-08-31 |
 | Rješenje o razrješenju i imenovanju člana Odbora za Statut i propise Skupštine opštine Herceg Novi | [`rjesenje/2026/397918/`](rjesenje/2026/397918/) | in force | 1 | 2026-09-15 | 2026-09-15 |
 | Rješenje o imenovanju Žirija za dodjelu nagrada i povelje Opštine Herceg Novi | [`rjesenje/2026/397919/`](rjesenje/2026/397919/) | in force | 1 | 2026-08-31 | 2026-08-31 |
 | Rješenje o razrješenju i imenovanju člana Odbora za planiranje prostora i komunalno-stambenu djelatnost Skupštine opštine Herceg Novi | [`rjesenje/2026/397920/`](rjesenje/2026/397920/) | in force | 1 | 2026-09-15 | 2026-09-15 |
+| Rješenje o izdavanju licence Privatnom produženom boravku ,,Bus", Podgorica | [`rjesenje/2026/397928/`](rjesenje/2026/397928/) | in force | 1 | 2026-09-02 | 2026-09-02 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Obrazovni centar "Dukley Academy", Budva | [`rjesenje/2026/397975/`](rjesenje/2026/397975/) | in force | 1 | 2026-09-01 | 2026-09-01 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Obrazovno razvojni centar "Mondo creativo", Podgorica | [`rjesenje/2026/397976/`](rjesenje/2026/397976/) | in force | 1 | 2026-09-04 | 2026-09-04 |
+| Rješenje o izdavanju licence Arhitektonskom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/398074/`](rjesenje/2026/398074/) | in force | 1 | 2026-07-22 | 2026-07-22 |
+| Rješenje o izdavanju licence Elektrotehničkom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/398075/`](rjesenje/2026/398075/) | in force | 1 | 2026-08-19 | 2026-08-19 |
+| Rješenje o izdavanju licence Tehnološkom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/398076/`](rjesenje/2026/398076/) | in force | 1 | 2026-08-25 | 2026-08-25 |
+| Rješenje o izdavanju licence Biotehničkom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/398078/`](rjesenje/2026/398078/) | in force | 1 | 2026-08-27 | 2026-08-27 |
+| Rješenje o izdavanju licence Privatnom produženom boravku "Cool School", Podgorica | [`rjesenje/2026/398210/`](rjesenje/2026/398210/) | in force | 1 | 2026-09-08 | 2026-09-08 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto škola "Zebra" Bijelo Polje | [`rjesenje/2026/398315/`](rjesenje/2026/398315/) | in force | 1 | 2026-09-11 | 2026-09-11 |
 | Rješenje o utvrđivanju naknada za rad članovima Odbora direktora Društva sa ograničenom odgovornošću "Mediteran reklame" Budva | [`rjesenje/2026/398403/`](rjesenje/2026/398403/) | in force | 1 | 2026-09-30 | 2026-09-30 |
 | Rješenje o imenovanju članova Skupštine Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Herceg Novi | [`rjesenje/2026/398421/`](rjesenje/2026/398421/) | in force | 1 | 2026-09-30 | 2026-09-30 |
 | Rješenje o imenovanju članova Skupštine Društva sa ograničenom odgovornošću "Društva za izgradnju vodovodne i kanalizacione infrastrukture u opštini Herceg Novi" Herceg Novi | [`rjesenje/2026/398423/`](rjesenje/2026/398423/) | in force | 1 | 2026-09-30 | 2026-09-30 |
@@ -28970,9 +29029,18 @@
 | Rješenje o imenovanju članova Skupštine Društva sa ograničenom odgovornošću "Agencija za izgradnju i razvoj Herceg Novog" Herceg Novi | [`rjesenje/2026/398430/`](rjesenje/2026/398430/) | in force | 1 | 2026-09-14 | 2026-09-14 |
 | Rješenje o davanju saglasnosti na Odluku Odbora direktora Društva sa ograničenom odgovornošću ,,Komunalno stambeno'' Herceg Novi o izboru izvršnog direktora | [`rjesenje/2026/398431/`](rjesenje/2026/398431/) | in force | 1 | 2026-09-14 | 2026-09-14 |
 | Rješenje o razrješenju i imenovanju člana Odbora za planiranje prostora i komunalno-stambenu djelatnost Skupštine opštine Herceg Novi | [`rjesenje/2026/398432/`](rjesenje/2026/398432/) | in force | 1 | 2026-09-14 | 2026-09-14 |
+| Rješenje o izdavanju licence Privatnom produženom boravku "Wonderland", Podgorica | [`rjesenje/2026/398551/`](rjesenje/2026/398551/) | in force | 1 | 2026-09-18 | 2026-09-18 |
 | Rješenje o izmjeni Rješenja o imenovanju članova Skupštine Turističke organizacije Kotor | [`rjesenje/2026/399061/`](rjesenje/2026/399061/) | in force | 1 | 2026-10-20 | 2026-10-20 |
 | Rješenje o utvrđivanju prestanku mandata člana Skupštine "Vodacom" DOO | [`rjesenje/2026/399062/`](rjesenje/2026/399062/) | in force | 1 | 2026-10-20 | 2026-10-20 |
 | Rješenje o izdavanju licence Privatnom produženom boravku "Malci sveznalci", Podgorica | [`rjesenje/2026/399095/`](rjesenje/2026/399095/) | in force | 1 | 2026-09-25 | 2026-09-25 |
+| Rješenje o izdavanju licence Prirodno-matematičkom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/399242/`](rjesenje/2026/399242/) | in force | 1 | 2026-07-17 | 2026-07-17 |
+| Rješenje o izdavanju licence Akcionarskom društvu "HI Poliex", Berane, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/399243/`](rjesenje/2026/399243/) | in force | 1 | 2026-07-21 | 2026-07-21 |
+| Rješenje o izdavanju licence Fakultetu Politehnika Univerziteta Donja Gorica, Podgorica, za obavljanje naučnoistraživačke | [`rjesenje/2026/399245/`](rjesenje/2026/399245/) | in force | 1 | 2026-09-11 | 2026-09-11 |
+| Rješenje o izdavanju licence Akcionarskom društvu "13. Jul - Plantaže" A.D, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/399246/`](rjesenje/2026/399246/) | in force | 1 | 2026-09-10 | 2026-09-10 |
+| Rješenje o izdavanju licence Fakultetu za pomorstvo i turizam Bar Univerziteta Adriatik, Bar, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/399247/`](rjesenje/2026/399247/) | in force | 1 | 2026-09-07 | 2026-09-07 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto škola "Feniks", Bar | [`rjesenje/2026/399248/`](rjesenje/2026/399248/) | in force | 1 | 2026-09-29 | 2026-09-29 |
+| Rješenje o izdavanju licence Privatnom produženom boravku "Kiddos Club", Podgorica | [`rjesenje/2026/399272/`](rjesenje/2026/399272/) | in force | 1 | 2026-09-29 | 2026-09-29 |
+| Rješenje o izdavanju licence Privatnom produženom boravku "Ananas kids class", Podgorica | [`rjesenje/2026/399454/`](rjesenje/2026/399454/) | in force | 1 | 2026-10-13 | 2026-10-13 |
 | Rješenje o imenovanju Žirija za dodjelu Nagrade "15. decembar" Opštine Tuzi za 2026. godinu | [`rjesenje/2026/399635/`](rjesenje/2026/399635/) | in force | 1 | 2026-10-28 | 2026-10-28 |
 
 ## statut (147, of which 8 amending acts)
@@ -29274,7 +29342,7 @@
 | Zakon o potvrđivanju Dodatnog protokola 7 o rješavanju sporova uz Sporazum o izmjeni i pristupanju Centralnoevropskom sporazumu o slobodnoj trgovini (CEFTA) | [`ugovor/2026/396797/`](ugovor/2026/396797/) | in force | 1 | 2026-08-13 | 2026-08-13 |
 | Odluka o objavljivanju Multilateralnog sporazuma nadležnih organa o automatskoj razmjeni informacija o finansijskim računima i dodatka Multilateralnom sporazumu nadležnih organa o automatskoj razmjeni informacija o finansijskim računima | [`ugovor/2026/398107/`](ugovor/2026/398107/) | in force | 1 | 2026-09-16 | 2026-09-16 |
 
-## uputstvo (169, of which 18 amending acts)
+## uputstvo (174, of which 18 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -29440,6 +29508,11 @@
 | Uputstvo o načinu i postupku isplate sredstava za eksproprisane nepokretnosti sa depozitnih računa za eksproprijaciju | [`uputstvo/2024/375975/`](uputstvo/2024/375975/) | in force | 1 | 2024-12-23 | 2024-12-23 |
 | Uputstvo o bližem načinu izvještavanja i obrascu na osnovu Sporazuma između Vlade Crne Gore i Vlade Sjedinjenih Američkih Država na unapređenju ispunjavanja međunarodnih poreskih obaveza i sprovođenju FTCA | [`uputstvo/2025/386963/`](uputstvo/2025/386963/) | in force | 1 | 2025-12-13 | 2025-12-13 |
 | Uputstvo o obrascu izvještaja o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora za izbornu kampanju | [`uputstvo/2025/387018/`](uputstvo/2025/387018/) | in force | 1 | 2025-10-08 | 2025-10-08 |
+| Uputstvo o obrascu finansijskog plana i programa rada političkog subjekta | [`uputstvo/2025/387060/`](uputstvo/2025/387060/) | in force | 1 | 2025-10-08 | 2025-10-08 |
+| Uputstvo o načinu i postupku podnošenja prigovora u toku izborne kampanje i njihovom rješavanju | [`uputstvo/2025/387440/`](uputstvo/2025/387440/) | in force | 1 | 2025-10-08 | 2025-10-08 |
+| Uputstvo za izradu i dostavljanje privremenog izvještaja o troškovima izborne kampanje | [`uputstvo/2025/387756/`](uputstvo/2025/387756/) | in force | 1 | 2025-10-08 | 2025-10-08 |
+| Uputstvo o sadržini izvještaja o prilozima pravnih i fizičkih lica političkim subjektima u toku izborne kampanje | [`uputstvo/2025/388183/`](uputstvo/2025/388183/) | in force | 1 | 2025-10-08 | 2025-10-08 |
+| Uputstvo za izradu i dostavljanje izvještaja o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava tokom izborne kampanje trećih lica | [`uputstvo/2025/388256/`](uputstvo/2025/388256/) | in force | 1 | 2025-10-08 | 2025-10-08 |
 | Uputstvo o obrascu konačnog izvještaja o troškovima političkog subjekta nakon zatvaranja posebnog računa | [`uputstvo/2025/388308/`](uputstvo/2025/388308/) | in force | 1 | 2025-10-08 | 2025-10-08 |
 | Uputstvo o sprovođenju analize uticaja propisa i sačinjavanju izvještaja o analizi uticaja propisa | [`uputstvo/2026/391433/`](uputstvo/2026/391433/) | in force | 1 | 2026-01-13 | 2026-01-13 |
 | Uputstvo o načinu i metodu utvrđivanja i izračunavanja ekvivalenta subvencije | [`uputstvo/2026/391575/`](uputstvo/2026/391575/) | in force | 1 | 2026-01-13 | 2026-01-13 |
@@ -29448,7 +29521,7 @@
 | Uputstvo o bližem načinu izvještavanja o podacima koje član međunarodne grupe povezanih pravnih lica u vezi poslovanja dostavlja organu uprave nadležnom za poslove poreza | [`uputstvo/2026/396663/`](uputstvo/2026/396663/) | in force | 1 | 2026-08-09 | 2026-08-09 |
 | Uputstvo o načinu unosa, ažuriranja, provjera i pristupa podacima iz Registra politički eksponiranih lica | [`uputstvo/2026/397090/`](uputstvo/2026/397090/) | in force | 1 | 2026-08-20 | 2026-08-20 |
 
-## uredba (816, of which 143 amending acts)
+## uredba (824, of which 143 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -30158,6 +30231,7 @@
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2023. godinu | [`uredba/2023/361918/`](uredba/2023/361918/) | in force | 1 | 2023-07-13 | 2023-07-13 |
 | Uredba o dopuni Uredbe o Vladi Crne Gore | [`uredba/2023/363189/`](uredba/2023/363189/) | amending act | 1 | 2024-01-06 | 2024-01-06 |
 | Uredba o izmjenama Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći evropske unije (IPARD II program) | [`uredba/2023/363195/`](uredba/2023/363195/) | in force | 1 | 2023-12-29 | 2023-12-29 |
+| Uredba o programu i načinu polaganja stručnog ispita za rad u državnim organima | [`uredba/2024/367261/`](uredba/2024/367261/) | in force | 1 | 2024-03-21 | 2024-03-21 |
 | Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2024. godinu - Agrobudžet | [`uredba/2024/367306/`](uredba/2024/367306/) | in force | 1 | 2024-03-21 | 2024-03-21 |
 | Uredba o uslovima koje moraju da ispunjavaju luke razvrstane prema vrsti pomorskog saobraćaja i namjeni | [`uredba/2024/369340/`](uredba/2024/369340/) | in force | 1 | 2024-05-16 | 2024-05-16 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2024. godinu | [`uredba/2024/372161/`](uredba/2024/372161/) | in force | 1 | 2024-07-27 | 2024-07-27 |
@@ -30166,6 +30240,7 @@
 | Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva prostornog planiranja, urbanizma i državne imovine jedinicama lokalne samouprave | [`uredba/2024/376272/`](uredba/2024/376272/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Uredba o izmjenama Uredbe o organizaciji indirektnog upravljanja sprovođenja finansijske pomoći u okviru Instrumenta pretpristupne podrške Evropske unije (IPA II) | [`uredba/2024/376299/`](uredba/2024/376299/) | in force | 1 | 2025-01-08 | 2025-01-08 |
 | Uredba o dopunama Uredbe o uniformi, oznakama zvanja, naoružanju, vozilima i posebnoj opremi službenika obezbjeđenja u Upravi za izvršenje krivičnih sankcija | [`uredba/2025/378045/`](uredba/2025/378045/) | amending act | 1 | 2025-02-13 | 2025-02-13 |
+| Uredba o maksimalno dozvoljenim količinama kontaminenata u hrani* | [`uredba/2025/378746/`](uredba/2025/378746/) | in force | 1 | 2025-02-25 | 2025-02-25 |
 | Uredba o visini troškova u postupku izdavanja dozvole za stavljanje biocidnih proizvoda u promet i upotrebu | [`uredba/2025/379601/`](uredba/2025/379601/) | in force | 1 | 2025-03-14 | 2025-03-14 |
 | Uredba o uslovima i postupku za ostvarivanje prava na oslobođenje od plaćanja uvoznih dažbina | [`uredba/2025/380471/`](uredba/2025/380471/) | in force | 1 | 2025-04-03 | 2025-04-03 |
 | Uredba o izmjeni Uredbe o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2025. godinu - Agrobudžet | [`uredba/2025/382089/`](uredba/2025/382089/) | in force | 1 | 2025-05-21 | 2025-05-21 |
@@ -30182,6 +30257,7 @@
 | Uredba o izmjeni Uredbe o uslovima za ustupanje i obavljanje poslova utvrđenih Nacionalnim programom zaštite potrošača i bližim kriterijumima, načinu i postupku finansiranja organizacija potrošača | [`uredba/2025/384328/`](uredba/2025/384328/) | in force | 1 | 2025-07-30 | 2025-07-30 |
 | Uredba o izmjenama uredbe o kriterijumima za unutrašnju organizaciju i sistematizaciju poslova u organima državne uprave | [`uredba/2025/384629/`](uredba/2025/384629/) | in force | 1 | 2025-08-30 | 2025-08-30 |
 | Uredba o visini naknade za reviziju lokalnih planskih dokumenata | [`uredba/2025/384909/`](uredba/2025/384909/) | in force | 1 | 2025-09-04 | 2025-09-04 |
+| Uredba o tarifi javnih izvršitelja | [`uredba/2025/385251/`](uredba/2025/385251/) | in force | 1 | 2025-10-09 | 2025-10-09 |
 | Uredba o uslovima i načinu emitovanja i prodaje državnih dužničkih hartija od vrijednosti | [`uredba/2025/385355/`](uredba/2025/385355/) | in force | 1 | 2025-10-02 | 2025-10-02 |
 | Uredba o izmjeni Uredbe o kriterijumima za utvrđivanje visine doživotne mjesečne naknade, stipendije, premije, sportske invalidnine, nagrade za sportistu godine i zaslužnog sportskog radnika | [`uredba/2025/385426/`](uredba/2025/385426/) | in force | 1 | 2025-10-14 | 2025-10-14 |
 | Uredba o izmjenama Uredbe o načinu izračunavanja indeksa razvijenosti jedinice lokalne samouprave | [`uredba/2025/385428/`](uredba/2025/385428/) | in force | 1 | 2025-10-14 | 2025-10-14 |
@@ -30219,14 +30295,19 @@
 | Uredba o dopuni Uredbe o bližim kriterijumima održivosti i ušteda emisija gasova sa efektom staklene bašte za biogoriva, biotečnosti i goriva iz biomase* | [`uredba/2026/394592/`](uredba/2026/394592/) | amending act | 1 | 2026-06-11 | 2026-06-11 |
 | Uredba o vrstama aktivnosti i postrojenja za koje se izdaje integrisana dozvola | [`uredba/2026/394593/`](uredba/2026/394593/) | in force | 1 | 2026-06-11 | 2026-06-11 |
 | Uredba o načinu sprovođenja provjere znanja i sposobnosti za predsjednika i člana Državne disciplinske komisije i Državne komisije za žalbe | [`uredba/2026/394666/`](uredba/2026/394666/) | in force | 1 | 2026-06-12 | 2026-06-12 |
+| Uredba o zakonskim mjernim jedinicama* | [`uredba/2026/394886/`](uredba/2026/394886/) | in force | 1 | 2026-06-20 | 2026-06-20 |
 | Uredba o izmjenama i dopunama Uredbe o notifikaciji tehničkih propisa, standarda, propisa o uslugama informatičkog društva i postupaka ocjene usaglašenosti* | [`uredba/2026/394887/`](uredba/2026/394887/) | amending act | 1 | 2026-06-20 | 2026-06-20 |
+| Uredba o naknadi troškova u postupku za pristup informacijama | [`uredba/2026/395033/`](uredba/2026/395033/) | in force | 1 | 2026-07-07 | 2026-07-07 |
+| Uredba o slobodnim carinskim prodavnicama | [`uredba/2026/395046/`](uredba/2026/395046/) | in force | 1 | 2026-06-25 | 2026-06-25 |
 | Uredba o dopuni Uredbe o projektima za koje se vrši procjena uticaja na životnu sredinu | [`uredba/2026/395047/`](uredba/2026/395047/) | amending act | 1 | 2026-06-25 | 2026-06-25 |
 | Uredba o uslovima za sticanje zvanja i nivoima zvanja zaposlenih u Upravi za izvršenje krivičnih sankcija | [`uredba/2026/395245/`](uredba/2026/395245/) | in force | 1 | 2026-06-27 | 2026-06-27 |
 | Uredba o izmjeni Uredbe o izboru predstavnika nevladinih organizacija u radna tijela organa državne uprave i sprovođenju javne rasprave u pripremi zakona i strategija | [`uredba/2026/395246/`](uredba/2026/395246/) | in force | 1 | 2026-06-27 | 2026-06-27 |
 | Uredba o dopuni Uredbe o grupama poslova i koeficijentima za zarade policijskih službenika | [`uredba/2026/395381/`](uredba/2026/395381/) | amending act | 1 | 2026-07-02 | 2026-07-02 |
+| Uredba o bližim zahtjevima za higijenu hrane za životinje* | [`uredba/2026/395416/`](uredba/2026/395416/) | in force | 1 | 2026-07-03 | 2026-07-03 |
 | Uredba o sektorskim kriterijumima za određivanje kritične infrastrukture | [`uredba/2026/395506/`](uredba/2026/395506/) | in force | 1 | 2026-07-07 | 2026-07-07 |
 | Uredba o zahtjevima za proizvodnju, stavljanje u promet i upotrebu medicinirane hrane za životinje* | [`uredba/2026/395686/`](uredba/2026/395686/) | in force | 1 | 2026-07-14 | 2026-07-14 |
 | Uredba o brzo zamrznutoj hrani namijenjenoj za ishranu ljudi* | [`uredba/2026/395877/`](uredba/2026/395877/) | in force | 1 | 2026-07-17 | 2026-07-17 |
+| Uredba o maksimalno dozvoljenim količinama kontaminenata u hrani* | [`uredba/2026/395878/`](uredba/2026/395878/) | in force | 1 | 2026-07-17 | 2026-07-17 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2026. godinu | [`uredba/2026/395908/`](uredba/2026/395908/) | in force | 1 | 2026-07-11 | 2026-07-11 |
 | Uredba o metodologiji jedinstvenog vještačenja invaliditeta | [`uredba/2026/395909/`](uredba/2026/395909/) | in force | 1 | 2026-07-10 | 2026-07-10 |
 | Uredba o osiguranju izvoza od netržišnih rizika* | [`uredba/2026/395954/`](uredba/2026/395954/) | in force | 1 | 2026-07-23 | 2026-07-23 |
@@ -30275,7 +30356,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Ustav Crne Gore | [`ustav/`](ustav/) | in force | 3 | 2007-10-22 | 2026-08-24 |
 
-## zakon (309, of which 169 amending acts)
+## zakon (314, of which 170 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -30491,6 +30572,7 @@
 | Zakon o izmjenama i dopunama Zakona o Budžetu Crne Gore za 2024. godinu | [`zakon/2024/387906/`](zakon/2024/387906/) | amending act | 1 | 2024-09-11 | 2024-09-11 |
 | Zakon o izmjenama i dopunama Zakona o zvaničnoj statistici i sistemu zvanične statistike | [`zakon/2025/379738/`](zakon/2025/379738/) | amending act | 1 | 2025-03-19 | 2025-03-19 |
 | Zakon o izmjeni i dopunama Zakona o svojinsko-pravnim odnosima | [`zakon/2025/380211/`](zakon/2025/380211/) | amending act | 1 | 2025-03-29 | 2025-03-29 |
+| Zakon o naučnoistraživačkoj djelatnosti | [`zakon/2025/382227/`](zakon/2025/382227/) | in force | 1 | 2025-06-04 | 2025-06-04 |
 | Zakon o izmjenama i dopunama Zakona o priznavanju inostranih obrazovnih isprava i izjednačavanju kvalifikacija | [`zakon/2025/382938/`](zakon/2025/382938/) | amending act | 1 | 2025-06-25 | 2025-06-25 |
 | Zakon o izmjenama i dopunama Zakona o Fondu rada | [`zakon/2025/382945/`](zakon/2025/382945/) | amending act | 1 | 2025-06-25 | 2025-06-25 |
 | Zakon o izmjenama i dopunama Zakona o gimnaziji | [`zakon/2025/383049/`](zakon/2025/383049/) | amending act | 1 | 2025-06-25 | 2025-06-25 |
@@ -30508,9 +30590,11 @@
 | Zakon o izmjenama i dopunama Zakona o mirnom rješavanju radnih sporova* | [`zakon/2025/389477/`](zakon/2025/389477/) | amending act | 1 | 2026-01-07 | 2026-01-07 |
 | Zakon o izmjenama Zakona o carinskoj službi | [`zakon/2025/389480/`](zakon/2025/389480/) | in force | 1 | 2026-01-07 | 2026-01-07 |
 | Zakon o izmjenama i dopuni Zakona o budžetskoj inspekciji | [`zakon/2025/389550/`](zakon/2025/389550/) | amending act | 1 | 2025-12-31 | 2025-12-31 |
+| Zakon o zaštiti stanovništva od zaraznih bolesti | [`zakon/2026/389699/`](zakon/2026/389699/) | in force | 1 | 2026-01-17 | 2026-01-17 |
 | Zakon o prekograničnoj razmjeni električne energije i prirodnog gasa* | [`zakon/2026/389700/`](zakon/2026/389700/) | in force | 1 | 2026-01-17 | 2026-01-17 |
 | Zakon o izmjeni Zakona o detektivskoj djelatnosti* | [`zakon/2026/389916/`](zakon/2026/389916/) | in force | 1 | 2026-01-17 | 2026-01-17 |
 | Zakon o izmjenama i dopuni Zakona o energetici | [`zakon/2026/389919/`](zakon/2026/389919/) | amending act | 1 | 2026-01-17 | 2026-01-17 |
+| Zakon o zaštiti potrošača* | [`zakon/2026/390427/`](zakon/2026/390427/) | in force | 1 | 2026-02-14 | 2026-02-14 |
 | Zakon o dopunama Zakona o izdavanju pokrivenih obveznica i nadzoru pokrivenih obveznica* | [`zakon/2026/390546/`](zakon/2026/390546/) | amending act | 1 | 2026-02-18 | 2026-02-18 |
 | Zakon o izmjenama i dopunama Zakona o dobrovoljnim penzionim fondovima | [`zakon/2026/390547/`](zakon/2026/390547/) | amending act | 1 | 2026-02-18 | 2026-02-18 |
 | Zakon o izmjeni i dopunama Zakona o finansijskom obezbjeđenju* | [`zakon/2026/390549/`](zakon/2026/390549/) | amending act | 1 | 2026-02-18 | 2026-02-18 |
@@ -30520,6 +30604,7 @@
 | Zakon o izmjenama Zakona o ugovornim odnosima u željezničkom saobraćaju | [`zakon/2026/393069/`](zakon/2026/393069/) | in force | 1 | 2026-04-15 | 2026-04-15 |
 | Zakon o izmjenama i dopunama Zakona o radnom vremenu i pauzama u toku radnog vremena mobilnih radnika i uređajima za evidentiranje u drumskom prevozu | [`zakon/2026/393102/`](zakon/2026/393102/) | amending act | 1 | 2026-04-15 | 2026-04-15 |
 | Zakon o izmjenama i dopunama Zakona o ugovorima o prevozu u drumskom saobraćaju | [`zakon/2026/393129/`](zakon/2026/393129/) | amending act | 1 | 2026-04-23 | 2026-04-23 |
+| Zakon o vazdušnom saobraćaju | [`zakon/2026/393186/`](zakon/2026/393186/) | in force | 1 | 2026-04-25 | 2026-04-25 |
 | Zakon o bezbjednosti hrane | [`zakon/2026/393668/`](zakon/2026/393668/) | in force | 1 | 2026-05-12 | 2026-05-12 |
 | Zakon o dopuni Zakona o šumama | [`zakon/2026/393670/`](zakon/2026/393670/) | amending act | 1 | 2026-05-05 | 2026-05-05 |
 | Zakon o izmjenama i dopunama Zakona o sudovima | [`zakon/2026/394047/`](zakon/2026/394047/) | amending act | 1 | 2026-05-21 | 2026-05-21 |
@@ -30542,6 +30627,7 @@
 | Zakon o izmjenama i dopunama Zakona o pozorišnoj djelatnosti | [`zakon/2026/395872/`](zakon/2026/395872/) | amending act | 1 | 2026-07-17 | 2026-07-17 |
 | Zakon o izmjenama i dopunama Zakona o uslovima rada na ribarskom brodu | [`zakon/2026/395875/`](zakon/2026/395875/) | amending act | 1 | 2026-07-17 | 2026-07-17 |
 | Zakon o izmjeni i dopunama Zakona o zaštiti i zdravlju na radu* | [`zakon/2026/396030/`](zakon/2026/396030/) | amending act | 1 | 2026-07-16 | 2026-07-16 |
+| Zakon o izmjenama i dopunama Zakona o platnom prometu | [`zakon/2026/396033/`](zakon/2026/396033/) | amending act | 1 | 2026-07-16 | 2026-07-16 |
 | Zakon o izmjenama i dopunama Zakona o poreskoj administraciji | [`zakon/2026/396192/`](zakon/2026/396192/) | amending act | 1 | 2026-07-18 | 2026-07-18 |
 | Zakon o izmjenama i dopunama Zakona o porezu na dobit pravnih lica | [`zakon/2026/396194/`](zakon/2026/396194/) | amending act | 1 | 2026-07-17 | 2026-07-17 |
 | Zakon o izmjenama i dopunama Zakona o bezbjednosti saobraćaja na putevima | [`zakon/2026/396630/`](zakon/2026/396630/) | amending act | 1 | 2026-08-07 | 2026-08-07 |
