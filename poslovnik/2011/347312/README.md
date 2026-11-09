@@ -1,0 +1,203 @@
+# Poslovnik o radu Skupštine opštine Bar
+
+Poslovnik o radu Skupštine opštine Bar · 1 versions, from 2012-01-05 (latest in force: 2012-01-05) · <https://www.sluzbenilist.me/propisi/347312>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| I OSNOVNE ODREDBE | [0-naslov-1.md](0-naslov-1.md) | 0 |  |
+| Uvod | [0-uvod.md](0-uvod.md) | 0 |  |
+| Član 1 | [clan-001.md](clan-001.md) | 0 |  |
+| Član 2 | [clan-002.md](clan-002.md) | 0 |  |
+| II KONSTITUISANJE SKUPŠTINE | [clan-002-zz-naslov-1.md](clan-002-zz-naslov-1.md) | 0 |  |
+| Član 3 | [clan-003.md](clan-003.md) | 0 |  |
+| Član 4 | [clan-004.md](clan-004.md) | 0 |  |
+| Član 5 | [clan-005.md](clan-005.md) | 0 |  |
+| Član 6 | [clan-006.md](clan-006.md) | 0 |  |
+| Član 7 | [clan-007.md](clan-007.md) | 0 |  |
+| Član 8 | [clan-008.md](clan-008.md) | 0 |  |
+| Član 9 | [clan-009.md](clan-009.md) | 0 |  |
+| Član 10 | [clan-010.md](clan-010.md) | 0 |  |
+| Član 11 | [clan-011.md](clan-011.md) | 0 |  |
+| Član 12 | [clan-012.md](clan-012.md) | 0 |  |
+| Član 13 | [clan-013.md](clan-013.md) | 0 |  |
+| Član 14 | [clan-014.md](clan-014.md) | 0 |  |
+| Član 15 | [clan-015.md](clan-015.md) | 0 |  |
+| Član 16 | [clan-016.md](clan-016.md) | 0 |  |
+| Član 17 | [clan-017.md](clan-017.md) | 0 |  |
+| Član 18 | [clan-018.md](clan-018.md) | 0 |  |
+| Član 19 | [clan-019.md](clan-019.md) | 0 |  |
+| Član 20 | [clan-020.md](clan-020.md) | 0 |  |
+| Član 21 | [clan-021.md](clan-021.md) | 0 |  |
+| Član 22 | [clan-022.md](clan-022.md) | 0 |  |
+| Član 23 | [clan-023.md](clan-023.md) | 0 |  |
+| Član 24 | [clan-024.md](clan-024.md) | 0 |  |
+| Član 25 | [clan-025.md](clan-025.md) | 0 |  |
+| 1.3.2. Prestanak mandata podnošenjem ostavke | [clan-025-zz-naslov-1.md](clan-025-zz-naslov-1.md) | 0 |  |
+| Član 26 | [clan-026.md](clan-026.md) | 0 |  |
+| Član 27 | [clan-027.md](clan-027.md) | 0 |  |
+| Član 28 | [clan-028.md](clan-028.md) | 0 |  |
+| Član 29 | [clan-029.md](clan-029.md) | 0 |  |
+| Član 30 | [clan-030.md](clan-030.md) | 0 |  |
+| Član 31 | [clan-031.md](clan-031.md) | 0 |  |
+| Član 32 | [clan-032.md](clan-032.md) | 0 |  |
+| Član 33 | [clan-033.md](clan-033.md) | 0 |  |
+| Član 34 | [clan-034.md](clan-034.md) | 0 |  |
+| Član 35 | [clan-035.md](clan-035.md) | 0 |  |
+| Član 36 | [clan-036.md](clan-036.md) | 0 |  |
+| Član 37 | [clan-037.md](clan-037.md) | 0 |  |
+| Član 38 | [clan-038.md](clan-038.md) | 0 |  |
+| Član 39 | [clan-039.md](clan-039.md) | 0 |  |
+| Član 40 | [clan-040.md](clan-040.md) | 0 |  |
+| Član 41 | [clan-041.md](clan-041.md) | 0 |  |
+| Član 42 | [clan-042.md](clan-042.md) | 0 |  |
+| Član 43 | [clan-043.md](clan-043.md) | 0 |  |
+| 4. Radna tijela Skupštine | [clan-043-zz-naslov-1.md](clan-043-zz-naslov-1.md) | 0 |  |
+| Član 44 | [clan-044.md](clan-044.md) | 0 |  |
+| Član 45 | [clan-045.md](clan-045.md) | 0 |  |
+| Član 46 | [clan-046.md](clan-046.md) | 0 |  |
+| Član 47 | [clan-047.md](clan-047.md) | 0 |  |
+| Član 48 | [clan-048.md](clan-048.md) | 0 |  |
+| Član 49 | [clan-049.md](clan-049.md) | 0 |  |
+| Član 50 | [clan-050.md](clan-050.md) | 0 |  |
+| IV PRAVA I DUŽNOSTI ODBORNIKA | [clan-050-zz-naslov-1.md](clan-050-zz-naslov-1.md) | 0 |  |
+| Član 51 | [clan-051.md](clan-051.md) | 0 |  |
+| Član 52 | [clan-052.md](clan-052.md) | 0 |  |
+| Član 53 | [clan-053.md](clan-053.md) | 0 |  |
+| Član 54 | [clan-054.md](clan-054.md) | 0 |  |
+| Član 55 | [clan-055.md](clan-055.md) | 0 |  |
+| Član 56 | [clan-056.md](clan-056.md) | 0 |  |
+| Član 57 | [clan-057.md](clan-057.md) | 0 |  |
+| Član 58 | [clan-058.md](clan-058.md) | 0 |  |
+| Član 59 | [clan-059.md](clan-059.md) | 0 |  |
+| Član 60 | [clan-060.md](clan-060.md) | 0 |  |
+| Član 61 | [clan-061.md](clan-061.md) | 0 |  |
+| Član 62 | [clan-062.md](clan-062.md) | 0 |  |
+| Član 63 | [clan-063.md](clan-063.md) | 0 |  |
+| Član 64 | [clan-064.md](clan-064.md) | 0 |  |
+| Član 65 | [clan-065.md](clan-065.md) | 0 |  |
+| Član 66 | [clan-066.md](clan-066.md) | 0 |  |
+| Član 67 | [clan-067.md](clan-067.md) | 0 |  |
+| V SJEDNICA SKUPŠTINE | [clan-067-zz-naslov-1.md](clan-067-zz-naslov-1.md) | 0 |  |
+| Član 68 | [clan-068.md](clan-068.md) | 0 |  |
+| Član 69 | [clan-069.md](clan-069.md) | 0 |  |
+| Član 70 | [clan-070.md](clan-070.md) | 0 |  |
+| Član 71 | [clan-071.md](clan-071.md) | 0 |  |
+| Član 72 | [clan-072.md](clan-072.md) | 0 |  |
+| Član 73 | [clan-073.md](clan-073.md) | 0 |  |
+| Član 74 | [clan-074.md](clan-074.md) | 0 |  |
+| Član 75 | [clan-075.md](clan-075.md) | 0 |  |
+| Član 76 | [clan-076.md](clan-076.md) | 0 |  |
+| Član 77 | [clan-077.md](clan-077.md) | 0 |  |
+| Član 78 | [clan-078.md](clan-078.md) | 0 |  |
+| Član 79 | [clan-079.md](clan-079.md) | 0 |  |
+| Član 80 | [clan-080.md](clan-080.md) | 0 |  |
+| Član 81 | [clan-081.md](clan-081.md) | 0 |  |
+| Član 82 | [clan-082.md](clan-082.md) | 0 |  |
+| Član 83 | [clan-083.md](clan-083.md) | 0 |  |
+| Član 84 | [clan-084.md](clan-084.md) | 0 |  |
+| Član 85 | [clan-085.md](clan-085.md) | 0 |  |
+| Član 86 | [clan-086.md](clan-086.md) | 0 |  |
+| Član 87 | [clan-087.md](clan-087.md) | 0 |  |
+| Član 88 | [clan-088.md](clan-088.md) | 0 |  |
+| Član 89 | [clan-089.md](clan-089.md) | 0 |  |
+| Član 90 | [clan-090.md](clan-090.md) | 0 |  |
+| Član 91 | [clan-091.md](clan-091.md) | 0 |  |
+| Član 92 | [clan-092.md](clan-092.md) | 0 |  |
+| Član 93 | [clan-093.md](clan-093.md) | 0 |  |
+| Član 94 | [clan-094.md](clan-094.md) | 0 |  |
+| Član 95 | [clan-095.md](clan-095.md) | 0 |  |
+| Član 96 | [clan-096.md](clan-096.md) | 0 |  |
+| Član 97 | [clan-097.md](clan-097.md) | 0 |  |
+| Član 98 | [clan-098.md](clan-098.md) | 0 |  |
+| Član 99 | [clan-099.md](clan-099.md) | 0 |  |
+| Član 100 | [clan-100.md](clan-100.md) | 0 |  |
+| Član 101 | [clan-101.md](clan-101.md) | 0 |  |
+| Član 102 | [clan-102.md](clan-102.md) | 0 |  |
+| Član 103 | [clan-103.md](clan-103.md) | 0 |  |
+| Član 104 | [clan-104.md](clan-104.md) | 0 |  |
+| Član 105 | [clan-105.md](clan-105.md) | 0 |  |
+| Član 106 | [clan-106.md](clan-106.md) | 0 |  |
+| Član 107 | [clan-107.md](clan-107.md) | 0 |  |
+| Član 108 | [clan-108.md](clan-108.md) | 0 |  |
+| Član 109 | [clan-109.md](clan-109.md) | 0 |  |
+| Član 110 | [clan-110.md](clan-110.md) | 0 |  |
+| Član 111 | [clan-111.md](clan-111.md) | 0 |  |
+| Član 112 | [clan-112.md](clan-112.md) | 0 |  |
+| Član 113 | [clan-113.md](clan-113.md) | 0 |  |
+| Član 114 | [clan-114.md](clan-114.md) | 0 |  |
+| Član 115 | [clan-115.md](clan-115.md) | 0 |  |
+| Član 116 | [clan-116.md](clan-116.md) | 0 |  |
+| VI AKTI SKUPŠTINE I POSTUPAK ZA NJIHOVO DONOŠENJE | [clan-116-zz-naslov-1.md](clan-116-zz-naslov-1.md) | 0 |  |
+| Član 117 | [clan-117.md](clan-117.md) | 0 |  |
+| Član 118 | [clan-118.md](clan-118.md) | 0 |  |
+| Član 119 | [clan-119.md](clan-119.md) | 0 |  |
+| Član 120 | [clan-120.md](clan-120.md) | 0 |  |
+| Član 121 | [clan-121.md](clan-121.md) | 0 |  |
+| Član 122 | [clan-122.md](clan-122.md) | 0 |  |
+| Član 123 | [clan-123.md](clan-123.md) | 0 |  |
+| Član 124 | [clan-124.md](clan-124.md) | 0 |  |
+| Član 125 | [clan-125.md](clan-125.md) | 0 |  |
+| Član 126 | [clan-126.md](clan-126.md) | 0 |  |
+| Član 127 | [clan-127.md](clan-127.md) | 0 |  |
+| Član 128 | [clan-128.md](clan-128.md) | 0 |  |
+| Član 129 | [clan-129.md](clan-129.md) | 0 |  |
+| Član 130 | [clan-130.md](clan-130.md) | 0 |  |
+| Član 131 | [clan-131.md](clan-131.md) | 0 |  |
+| Član 132 | [clan-132.md](clan-132.md) | 0 |  |
+| Član 133 | [clan-133.md](clan-133.md) | 0 |  |
+| Član 134 | [clan-134.md](clan-134.md) | 0 |  |
+| Član 135 | [clan-135.md](clan-135.md) | 0 |  |
+| Član 136 | [clan-136.md](clan-136.md) | 0 |  |
+| Član 137 | [clan-137.md](clan-137.md) | 0 |  |
+| Član 138 | [clan-138.md](clan-138.md) | 0 |  |
+| VII POSTUPAK ZA RAZMATRANJE IZVRŠAVANJA ZAKONA, DRUGIH PROPISA I AKATA | [clan-138-zz-naslov-1.md](clan-138-zz-naslov-1.md) | 0 |  |
+| Član 139 | [clan-139.md](clan-139.md) | 0 |  |
+| Član 140 | [clan-140.md](clan-140.md) | 0 |  |
+| Član 141 | [clan-141.md](clan-141.md) | 0 |  |
+| VIII IZBOR I RAZRJEŠENJE PREDSJEDNIKA OPŠTINE | [clan-141-zz-naslov-1.md](clan-141-zz-naslov-1.md) | 0 |  |
+| Član 142 | [clan-142.md](clan-142.md) | 0 |  |
+| IX DAVANJE SAGLASNOSTI NA IMENOVANJA I RAZRJEŠENJA | [clan-142-zz-naslov-1.md](clan-142-zz-naslov-1.md) | 0 |  |
+| Član 143 | [clan-143.md](clan-143.md) | 0 |  |
+| X OSTAVKA | [clan-143-zz-naslov-1.md](clan-143-zz-naslov-1.md) | 0 |  |
+| Član 144 | [clan-144.md](clan-144.md) | 0 |  |
+| Član 145 | [clan-145.md](clan-145.md) | 0 |  |
+| XI SARADNJA SKUPŠTINE SA SKUPŠTINOM CRNE GORE, SKUPŠTINAMA JEDINICA LOKALNE SAMO | [clan-145-zz-naslov-1.md](clan-145-zz-naslov-1.md) | 0 |  |
+| Član 146 | [clan-146.md](clan-146.md) | 0 |  |
+| XII JAVNOST RADA SKUPŠTINE | [clan-146-zz-naslov-1.md](clan-146-zz-naslov-1.md) | 0 |  |
+| Član 147 | [clan-147.md](clan-147.md) | 0 |  |
+| Član 148 | [clan-148.md](clan-148.md) | 0 |  |
+| Član 149 | [clan-149.md](clan-149.md) | 0 |  |
+| Član 150 | [clan-150.md](clan-150.md) | 0 |  |
+| Član 151 | [clan-151.md](clan-151.md) | 0 |  |
+| Član 152 | [clan-152.md](clan-152.md) | 0 |  |
+| XIII PROGRAM RADA SKUPŠTINE | [clan-152-zz-naslov-1.md](clan-152-zz-naslov-1.md) | 0 |  |
+| Član 153 | [clan-153.md](clan-153.md) | 0 |  |
+| Član 154 | [clan-154.md](clan-154.md) | 0 |  |
+| XIV- UČEŠĆE PREDSTAVNIKA ZAINTERESOVANIH GRAĐANA | [clan-154-zz-naslov-1.md](clan-154-zz-naslov-1.md) | 0 |  |
+| Član 155 | [clan-155.md](clan-155.md) | 0 |  |
+| XV UČEŠĆE NEVLADINIH ORGANIZACIJA | [clan-155-zz-naslov-1.md](clan-155-zz-naslov-1.md) | 0 |  |
+| Član 156 | [clan-156.md](clan-156.md) | 0 |  |
+| Član 157 | [clan-157.md](clan-157.md) | 0 |  |
+| Član 158 | [clan-158.md](clan-158.md) | 0 |  |
+| Član 159 | [clan-159.md](clan-159.md) | 0 |  |
+| Član 160 | [clan-160.md](clan-160.md) | 0 |  |
+| Član 161 | [clan-161.md](clan-161.md) | 0 |  |
+| Član 162 | [clan-162.md](clan-162.md) | 0 |  |
+| Član 163 | [clan-163.md](clan-163.md) | 0 |  |
+| XVI SLUŽBA SKUPŠTINE | [clan-163-zz-naslov-1.md](clan-163-zz-naslov-1.md) | 0 |  |
+| Član 164 | [clan-164.md](clan-164.md) | 0 |  |
+| XVII ZAVRŠNE ODREDBE | [clan-164-zz-naslov-1.md](clan-164-zz-naslov-1.md) | 0 |  |
+| Član 165 | [clan-165.md](clan-165.md) | 0 |  |
+| Član 166 | [clan-166.md](clan-166.md) | 0 |  |
+| Član 167 | [clan-167.md](clan-167.md) | 0 |  |
+
+Act id: `poslovnik-2011-347312` (tags `poslovnik-2011-347312/<day>`; `python tools/on.py <day> poslovnik-2011-347312`).
+
+## Decisions made by hand
+
+- Acts the PIS marks in force (Važeći) whose page lists no amending act, and that no later act's title names as amended, corrected (Ispravka) or repealed, as published in the Službeni list Crne Gore; the others are held back until their later versions are built.
+- These are acts a first, strict reading holds back for their article numbering or their in-force day, completed by a second, closer reading: article headings printed with Cyrillic letters inside the Latin word, without a space, with a letter for a digit or run into the article's first sentence are read as headings only where the number is the one expected next; in an act that quotes no articles, a stray quotation mark does not hide its headings; articles numbered again from 1 after the signature and an annex mark stay in the annex.
+- Each act's one version takes effect on the PIS 'Datum stupanja na snagu' where the PIS gives one (the act's own clause must agree). Otherwise the day is read from the act's own in-force sentence ('Ovaj/Ova ... stupa na snagu', or the act named by its title): the publication day ('danom objavljivanja'), the n-th day after publication ('osmog dana od dana objavljivanja'), a stated date, or its adoption day ('danom donošenja'), taken from its own signature block and preamble, which must agree and fall within the year before publication. Every such sentence in the act must give the same day. An application day ('primjenjuje se od') is noted on the version and never read as the in-force day; any other wording keeps the act held back. A different application day in the PIS ('Datum početka primjene') is noted on the version.
+- The President's promulgation decree printed above a law and the signatures are left out. Article captions are the second line of the article file ('## ...'); chapter and section headings are units of their own; an annex printed after the signature is one unit, its tables run on as lines.
+- These acts have no PIS in-force day, and their own in-force sentence is read only by these further rules (each act's version note quotes the sentence and says how it was read): a word one letter away from 'objavljivanja', 'danom' or 'donošenja' is read as that word, and a first word one letter away from ordinals of only one number as that ordinal ('osnog' as 'osmog'); a doubled 'od dana od dana' as 'od dana'; 'od dana objavljivanja', 'dana objavljivanja' and 'danom objave' as the publication day; 'osmog (8) dana' and '8 (osmog) dana' where the two agree; the fourth, sixth, seventh and ninth day; '<n-th> dana od dana donošenja' counted from the adoption day read as above. Where the act's text has no such sentence by the reading above, quotation marks are paired along each line (so a sentence after a short quotation is not lost), and in the act's last article or numbered point a sentence whose subject is the bare name of its own kind ('Odluka stupa na snagu') is its own. 'Nakon n dana', 'u roku od n dana', a consent day ('danom davanja saglasnosti') and every other wording keep the act held back, and so do two different adoption dates in its signature and preamble.
+- The enacted date given is the publication day (the PIS gives no adoption day), except for an act whose in-force day is read from its adoption day, where it is that day as read above.
