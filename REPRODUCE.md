@@ -228,6 +228,14 @@ This file is written by the build on 2026-11-09, the day the source data was ret
 | Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-09 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
 | Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-09 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
 | Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-09 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-09 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-09 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-09 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-09 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-09 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-09 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-09 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-09 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -235,21 +243,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 1977 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 1977 | |
+| 2036 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 2036 | |
 
-The build made 31652 commits:
+The build made 31711 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 31631 | first version of an act |
+| 31690 | first version of an act |
 | 21 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `buduce`: laws not yet in force on 2026-11-09.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 31687 laws in the record.
-- 63285 tags.
+- 31746 laws in the record.
+- 63403 tags.
 
 ## Dates
 
@@ -261,7 +269,7 @@ When a law gives no date of its own, the default rule applies: Ustav Crne Gore a
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `34119e14e02b0eaf527e91111658693173c9ceedad872b5e63e35e19f0dcc725` (54079425 bytes).
+- Corpus: sha256 `f4b2183b3d5fa121abaa36865b9c46b270e0c5e0e31b2e37bfdb969d3f553cfe` (54382986 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `ca294ab3d2553b6e8322e838325b576a0939da6b`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `0be88de7820b2dafe9f94fa40472a48776aa4cf5`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -273,7 +281,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (1019 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (1056 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
