@@ -4862,6 +4862,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2011-334760",
+   "path": "pravilnik/2011/334760",
+   "short": "Pravilnik o blizim uslovima za izdavanje i oduzimanje istrazivacke licence",
+   "title": "Pravilnik o blizim uslovima za izdavanje i oduzimanje istrazivacke licence",
+   "url": "https://www.sluzbenilist.me/propisi/334760",
+   "versions": [
+    {
+     "from": "2011-04-15",
+     "units": 33,
+     "source_url": "https://www.sluzbenilist.me/propisi/334760/download",
+     "sha256": "25351a7828fdba49cef3ce43cb3337a44870f5fe8cc667b89b26d8541d45e514"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2011-337312",
    "path": "pravilnik/2011/337312",
    "short": "Pravilnik o nacinu sakupljanja, cuvanja, obrade i skladistenja radioaktivnog otpada",
@@ -4873,6 +4888,51 @@
      "units": 21,
      "source_url": "https://www.sluzbenilist.me/propisi/337312/download",
      "sha256": "e39ce103534341e4b220f32bff8580fcfbe9898b1c4a6f90a8c48cc02722ed76"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-334775",
+   "path": "pravilnik/2013/334775",
+   "short": "Pravilnik o programu obuke za posrednike",
+   "title": "Pravilnik o programu obuke za posrednike",
+   "url": "https://www.sluzbenilist.me/propisi/334775",
+   "versions": [
+    {
+     "from": "2013-04-20",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/334775/download",
+     "sha256": "19ab4684d131d96382e4a176f15b7446bd8294c8c928cba6b2fc8947be83384d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-334810",
+   "path": "pravilnik/2013/334810",
+   "short": "Pravilnik o obrascu i bližem načinu izdavanja vozačke dozvole i sadržini obrasca zahtjeva za izdavanje međunarodne vozačke dozvole",
+   "title": "Pravilnik o obrascu i bližem načinu izdavanja vozačke dozvole i sadržini obrasca zahtjeva za izdavanje međunarodne vozačke dozvole",
+   "url": "https://www.sluzbenilist.me/propisi/334810",
+   "versions": [
+    {
+     "from": "2013-04-27",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.me/propisi/334810/download",
+     "sha256": "fecc10cfe09acf208125fd248d8e0543d81e828842e7687c25b1a51bbeb3a7e5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-334904",
+   "path": "pravilnik/2014/334904",
+   "short": "Pravilnik o radioamaterskim komunikacijama",
+   "title": "Pravilnik o radioamaterskim komunikacijama",
+   "url": "https://www.sluzbenilist.me/propisi/334904",
+   "versions": [
+    {
+     "from": "2014-06-07",
+     "units": 38,
+     "source_url": "https://www.sluzbenilist.me/propisi/334904/download",
+     "sha256": "edc8589c55fb73dc126db787d59558bb86a9d628c7b3aa671f35fe9623bd477c"
     }
    ]
   },
@@ -5083,6 +5143,21 @@
      "units": 39,
      "source_url": "https://www.sluzbenilist.me/propisi/337895/download",
      "sha256": "b41815b6734f2e32454d63e7c167018a4239ec726c536da3635de3f983408f18"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-334918",
+   "path": "pravilnik/2020/334918",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o načinu izdavanja i obrascu dozvole za stalni boravak",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o načinu izdavanja i obrascu dozvole za stalni boravak",
+   "url": "https://www.sluzbenilist.me/propisi/334918",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/334918/download",
+     "sha256": "c14255c9496184caf722cc75536ab19beb8b4a711bf402b604e15e703856b508"
     }
    ]
   },
@@ -6223,6 +6298,21 @@
      "units": 5,
      "source_url": "https://www.sluzbenilist.me/propisi/337496/download",
      "sha256": "58994cbbb54c3bd9a4c57b468d1bb521d583b82584491f4478b0597dd155c193"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2018-335011",
+   "path": "uredba/2018/335011",
+   "short": "Uredba o informisanju potrošača o hrani",
+   "title": "Uredba o informisanju potrošača o hrani",
+   "url": "https://www.sluzbenilist.me/propisi/335011",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 40,
+     "source_url": "https://www.sluzbenilist.me/propisi/335011/download",
+     "sha256": "10aad1d9af0b6a64fdd35c3b7db95096bf262dbe167dda96bbdd258f5e15b975"
     }
    ]
   },
@@ -9313,6 +9403,21 @@
      "units": 7,
      "source_url": "https://www.sluzbenilist.me/propisi/347045/download",
      "sha256": "ab46da1ab453ba5196a3b3fbb6f22c4a49642e39fa736f190d7351934dc329aa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-334843",
+   "path": "odluka/2022/334843",
+   "short": "Odluka o kriterijumima za utvrđivanje ključnih funkcija i osnovnih linija poslovanja kreditne institucije",
+   "title": "Odluka o kriterijumima za utvrđivanje ključnih funkcija i osnovnih linija poslovanja kreditne institucije",
+   "url": "https://www.sluzbenilist.me/propisi/334843",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/334843/download",
+     "sha256": "bd170516bdf29e97db64563b14c65b0f003ab6c1e618f5c43b405aafded475ea"
     }
    ]
   },

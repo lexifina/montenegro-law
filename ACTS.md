@@ -1,6 +1,6 @@
 # Every act in this repository
 
-31462 acts, 31,464 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+31469 acts, 31,471 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (876, of which 85 amending acts)
 
@@ -1132,7 +1132,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (21735, of which 3102 amending acts)
+## odluka (21736, of which 3102 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -17652,6 +17652,7 @@
 | Odlukao proglašavanju zaštićenog područja Park prirode "Stari Ulcinj" | [`odluka/2022/334493/`](odluka/2022/334493/) | in force | 1 | 2022-02-19 | 2022-02-19 |
 | Odluka o izmjeni Odluke o kriterijumima za utvrđivanje uslova za sticanje crnogorskog državljanstva prijemom | [`odluka/2022/334504/`](odluka/2022/334504/) | in force | 1 | 2022-02-19 | 2022-02-19 |
 | Odluka o utvrđivanju iznosa naknade koju plaćaju vršioci regulisanih komunalnih djelatnosti u 2023. godini | [`odluka/2022/334549/`](odluka/2022/334549/) | in force | 1 | 2022-12-29 | 2022-12-29 |
+| Odluka o kriterijumima za utvrđivanje ključnih funkcija i osnovnih linija poslovanja kreditne institucije | [`odluka/2022/334843/`](odluka/2022/334843/) | in force | 1 | 2022-03-02 | 2022-03-02 |
 | Odluka o utvrđivanju javnog interesa za potpunu eksproprijaciju nepokretnosti, radi realizacije projekta izgradnje NDTS 10/0,4 KV, 2 x 630 KVA "Trgomen-nova" sa uklapanjem u 10 KV mrežu, KO Bandići, Opština Danilovgrad | [`odluka/2022/334889/`](odluka/2022/334889/) | in force | 1 | 2022-03-12 | 2022-03-12 |
 | Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi izgradnje skijaških staza u Ski centru "Kolašin 1600", Opština Kolašin | [`odluka/2022/334900/`](odluka/2022/334900/) | in force | 1 | 2022-03-12 | 2022-03-12 |
 | Odluka o izmjeni Odluke o osnivanju Društva sa ograničenom odgovornošću "Project - Consulting" - Podgorica | [`odluka/2022/334907/`](odluka/2022/334907/) | in force | 1 | 2022-03-04 | 2022-03-04 |
@@ -23337,7 +23338,7 @@
 | Pravila o izmjeni i dopuni Pravila o bližem sadržaju, rokovima dostavljanja mjesečnog, polugodišnjeg i godišnjeg izvještaja otvorenih investicionih fondova sa javnom ponudom | [`pravila/2026/399385/`](pravila/2026/399385/) | amending act | 1 | 2026-10-30 | 2026-10-30 |
 | Pravila za poravnanje razlike između opravdanih i ostvarenih prihoda i utvrđenih troškova između licenciranih operatora distributivnog sistema | [`pravila/2026/399555/`](pravila/2026/399555/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## pravilnik (2835, of which 261 amending acts)
+## pravilnik (2840, of which 262 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -23848,6 +23849,7 @@
 | Pravilnik o Registru kulturnih dobara | [`pravilnik/2011/334588/`](pravilnik/2011/334588/) | in force | 1 | 2011-04-15 | 2011-04-15 |
 | Pravilnik o neposrednom pristupu podacima iz Centralnog registra stanovnistva | [`pravilnik/2011/334730/`](pravilnik/2011/334730/) | in force | 1 | 2011-04-09 | 2011-04-09 |
 | Pravilnik o blizim uslovima za izdavanje i oduzimanje konzervatorske licence | [`pravilnik/2011/334759/`](pravilnik/2011/334759/) | in force | 1 | 2011-04-15 | 2011-04-15 |
+| Pravilnik o blizim uslovima za izdavanje i oduzimanje istrazivacke licence | [`pravilnik/2011/334760/`](pravilnik/2011/334760/) | in force | 1 | 2011-04-15 | 2011-04-15 |
 | Pravilnik o blizim uslovima za obavljanje poslova konzervatorske djelatnosti | [`pravilnik/2011/334761/`](pravilnik/2011/334761/) | in force | 1 | 2011-04-15 | 2011-04-15 |
 | Pravilnik o nacinu i postupku polaganja godisnjeg ispita u srednjoj umjetnickoj skoli | [`pravilnik/2011/334865/`](pravilnik/2011/334865/) | in force | 1 | 2011-04-15 | 2011-04-15 |
 | Pravilnik o izmjenama i dopunama Pravilnika o dozvolama i centrima za obuku pilota aviona | [`pravilnik/2011/334866/`](pravilnik/2011/334866/) | amending act | 1 | 2011-04-15 | 2011-04-15 |
@@ -23982,10 +23984,12 @@
 | Pravilnik o sadržaju i načinu vođenja registra tehničkih propisa, tijela za ocjenjivanje usaglašenosti, inostranih isprava i znakova usaglašenosti | [`pravilnik/2013/334765/`](pravilnik/2013/334765/) | in force | 1 | 2013-04-20 | 2013-04-20 |
 | Pravilnik o izmjenama i dopunama Pravilnika o evidenciji nabavke i prodaje robe i pružanju trgovinskih usluga | [`pravilnik/2013/334766/`](pravilnik/2013/334766/) | amending act | 1 | 2013-04-12 | 2013-04-12 |
 | Pravilnik o obrascu licence za rad posrednika | [`pravilnik/2013/334774/`](pravilnik/2013/334774/) | in force | 1 | 2013-04-20 | 2013-04-20 |
+| Pravilnik o programu obuke za posrednike | [`pravilnik/2013/334775/`](pravilnik/2013/334775/) | in force | 1 | 2013-04-20 | 2013-04-20 |
 | Pravilnik o sadržini i obrascu registra posrednika | [`pravilnik/2013/334776/`](pravilnik/2013/334776/) | in force | 1 | 2013-04-20 | 2013-04-20 |
 | Pravilnik o prestanku važenja Pravilnika o programu obuke, načinu polaganja stručnog ispita, sadržaju, izgledu i načinu izdavanja licence za planinskog vodiča | [`pravilnik/2013/334777/`](pravilnik/2013/334777/) | in force | 1 | 2013-04-20 | 2013-04-20 |
 | Pravilnik o načinu postupanja sa eksplozivnim, zapaljivim i opasnim materijama, sredstvima i predmetima koji se nalaze na listi zabranjenih predmeta | [`pravilnik/2013/334786/`](pravilnik/2013/334786/) | in force | 1 | 2013-04-20 | 2013-04-20 |
 | Pravilnik o standardima informacione bezbjednosti | [`pravilnik/2013/334809/`](pravilnik/2013/334809/) | in force | 1 | 2013-04-27 | 2013-04-27 |
+| Pravilnik o obrascu i bližem načinu izdavanja vozačke dozvole i sadržini obrasca zahtjeva za izdavanje međunarodne vozačke dozvole | [`pravilnik/2013/334810/`](pravilnik/2013/334810/) | in force | 1 | 2013-04-27 | 2013-04-27 |
 | Pravilnik o prestanku važenja Pravilnika o načinu obavještavanja, ispitivanja, analiziranja i postupanja sa podacima o ugrožavanju sigurnosti, nesrećama i ozbiljnim nezgodama vazduhoplova | [`pravilnik/2013/334830/`](pravilnik/2013/334830/) | in force | 1 | 2013-04-27 | 2013-04-27 |
 | Pravilnik o bližem sadržaju oznake i načinu označavanja čamca za rafting | [`pravilnik/2013/334893/`](pravilnik/2013/334893/) | in force | 1 | 2013-05-18 | 2013-05-18 |
 | Pravilnik o metodologiji vršenja energetskih pregleda zgrada | [`pravilnik/2013/334895/`](pravilnik/2013/334895/) | in force | 1 | 2013-06-04 | 2013-06-04 |
@@ -24118,6 +24122,7 @@
 | Pravilnik o načinu i postupku utvrđivanja ispunjenosti uslova za sticanje diplomatskog zvanja | [`pravilnik/2014/334825/`](pravilnik/2014/334825/) | in force | 1 | 2014-04-19 | 2014-04-19 |
 | Pravilnik o izmjeni Pravilnika o obrascima koji se koriste u postupcima izgradnje objekata | [`pravilnik/2014/334848/`](pravilnik/2014/334848/) | in force | 1 | 2014-04-25 | 2014-04-25 |
 | Pravilnik o programu i načinu polaganja stručnog ispita za tehnički nadzor i rukovođenje energetskim objektima | [`pravilnik/2014/334859/`](pravilnik/2014/334859/) | in force | 1 | 2014-04-25 | 2014-04-25 |
+| Pravilnik o radioamaterskim komunikacijama | [`pravilnik/2014/334904/`](pravilnik/2014/334904/) | in force | 1 | 2014-06-07 | 2014-06-07 |
 | Pravilnik o načinu, uslovima i postupku određivanja pozivnog znaka i međunarodnog pomorskog radiokomunikacionog identifikacionog broja za radio uređaje u pomorskim mobilnim radiokomunikacijama | [`pravilnik/2014/334925/`](pravilnik/2014/334925/) | in force | 1 | 2014-06-14 | 2014-06-14 |
 | Pravilnik o bližim uslovima, načinu i postupku izdavanja i obnavljanja dozvole za rad nastavniku, direktoru i pomoćniku direktora obrazovno-vaspitne ustanove | [`pravilnik/2014/335084/`](pravilnik/2014/335084/) | in force | 1 | 2014-06-07 | 2014-06-07 |
 | Pravilnik o vrsti, načinu dostavljanja i objavljivanja podataka o elektronskoj komunikacionoj infrastrukturi i povezanoj opremi koja može biti od interesa za zajedničko korišćenje | [`pravilnik/2014/335094/`](pravilnik/2014/335094/) | in force | 1 | 2014-06-07 | 2014-06-07 |
@@ -25095,6 +25100,7 @@
 | Pravilnik o najnižem iznosu osiguranja rizika od odgovornosti za štete koje nastanu vršenjem elektronskih usluga povjerenja | [`pravilnik/2020/334683/`](pravilnik/2020/334683/) | in force | 1 | 2020-03-28 | 2020-03-28 |
 | Pravilnik o bližoj sadržini i načinu vođenja evidencije davalaca elektronskih usluga povjerenja i registra kvalifikovanih davalaca elektronskih usluga povjerenja | [`pravilnik/2020/334716/`](pravilnik/2020/334716/) | in force | 1 | 2020-03-28 | 2020-03-28 |
 | Pravilnik o izmjenama Pravilnika o načinu ocjenjivanja usaglašenosti kvalifikovanih sredstava za izradu elektronskih potpisa i elektronskih pečata i sadržaju liste certifikovanih kvalifikovanih sredstava za izradu elektronskih potpisa i elektronskih pečata | [`pravilnik/2020/334717/`](pravilnik/2020/334717/) | in force | 1 | 2020-03-28 | 2020-03-28 |
+| Pravilnik o izmjenama i dopuni Pravilnika o načinu izdavanja i obrascu dozvole za stalni boravak | [`pravilnik/2020/334918/`](pravilnik/2020/334918/) | amending act | 1 | 2020-03-30 | 2020-03-30 |
 | Pravilnik o dopunama Pravilnika o načinu prijavljivanja zaraznih bolesti, bolničkih infekcija, stanja i smrti oboljelih od ovih bolesti | [`pravilnik/2020/334971/`](pravilnik/2020/334971/) | amending act | 1 | 2020-03-25 | 2020-03-25 |
 | Pravilnik o ostvarivanju prava na jednokratnu novčanu pomoć i naknadu putnih i selidbenih troškova za nezaposleno lice | [`pravilnik/2020/335071/`](pravilnik/2020/335071/) | in force | 1 | 2020-03-30 | 2020-03-30 |
 | Pravilnik o dopuni pravilnika o listi zaraznih bolesti nad kojima se sprovodi epidemiološki nadzor i protiv kojih se primjenjuju mjere sprječavanja i suzbijanja zaraznih bolesti i definicijama slučajeva zaraznih bolesti* | [`pravilnik/2020/335116/`](pravilnik/2020/335116/) | amending act | 1 | 2020-03-25 | 2020-03-25 |
@@ -30252,7 +30258,7 @@
 | Uputstvo o bližem načinu izvještavanja o podacima koje član međunarodne grupe povezanih pravnih lica u vezi poslovanja dostavlja organu uprave nadležnom za poslove poreza | [`uputstvo/2026/396663/`](uputstvo/2026/396663/) | in force | 1 | 2026-08-09 | 2026-08-09 |
 | Uputstvo o načinu unosa, ažuriranja, provjera i pristupa podacima iz Registra politički eksponiranih lica | [`uputstvo/2026/397090/`](uputstvo/2026/397090/) | in force | 1 | 2026-08-20 | 2026-08-20 |
 
-## uredba (834, of which 143 amending acts)
+## uredba (835, of which 143 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -30863,6 +30869,7 @@
 | Uredba o izmjeni i dopunama Uredbe o objedinjavanju javnih nabavki robe i usluga | [`uredba/2018/328641/`](uredba/2018/328641/) | amending act | 1 | 2018-12-01 | 2018-12-01 |
 | Uredba o izmjenama i dopuni Uredbe o uspostavljanju mreže mjernih mjesta za praćenje kvaliteta vazduha | [`uredba/2018/329672/`](uredba/2018/329672/) | amending act | 1 | 2018-10-12 | 2018-10-12 |
 | Uredba o izmjenama i dopuni Uredbe o kancelarijskom poslovanju organa državne uprave | [`uredba/2018/329983/`](uredba/2018/329983/) | amending act | 1 | 2018-03-23 | 2018-03-23 |
+| Uredba o informisanju potrošača o hrani | [`uredba/2018/335011/`](uredba/2018/335011/) | in force | 1 | 2018-04-19 | 2018-04-19 |
 | Uredba o izmjeni Uredbe o visini naknade za korišćenje objekata sigurnosti plovidbe na plovnim putevima | [`uredba/2018/335243/`](uredba/2018/335243/) | in force | 1 | 2018-05-05 | 2018-05-05 |
 | Uredba o izmjenama Uredbe o organizaciji decentralizovanog upravljanja Instrumentom pretpristupne pomoći Evropske unije | [`uredba/2018/336091/`](uredba/2018/336091/) | in force | 1 | 2018-05-22 | 2018-05-22 |
 | Uredba o određivanju rodova i službi u Vojsci Crne Gore | [`uredba/2018/336724/`](uredba/2018/336724/) | in force | 1 | 2018-07-11 | 2018-07-11 |
