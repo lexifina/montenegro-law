@@ -1352,6 +1352,36 @@
    ]
   },
   {
+   "slug": "odluka-2018-334325",
+   "path": "odluka/2018/334325",
+   "short": "Odluka o izmjeni Odluke o određivanju ministarstava koja imaju državne sekretare",
+   "title": "Odluka o izmjeni Odluke o određivanju ministarstava koja imaju državne sekretare",
+   "url": "https://www.sluzbenilist.me/propisi/334325",
+   "versions": [
+    {
+     "from": "2018-03-20",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/334325/download",
+     "sha256": "6f198f6f821d1075c10367ba46d1679d50da9b3140d7a401d13376f0b9376e2d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-334368",
+   "path": "odluka/2018/334368",
+   "short": "Odluka o izradi izmjena i dopuna Prostorno-urbanističkog plana Opštine Mojkovac",
+   "title": "Odluka o izradi izmjena i dopuna Prostorno-urbanističkog plana Opštine Mojkovac",
+   "url": "https://www.sluzbenilist.me/propisi/334368",
+   "versions": [
+    {
+     "from": "2018-03-17",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/334368/download",
+     "sha256": "3d9617c25804dce22203e85eb2641060a373e68d17c8dea609ae1078e428117a"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2018-339573",
    "path": "odluka/2018/339573",
    "short": "Odluka o imenovanju Odbora direktora Društva sa ograničenom odgovornošću \"Komunalno\" Cetinje",
@@ -2132,6 +2162,21 @@
    ]
   },
   {
+   "slug": "odluka-2020-333664",
+   "path": "odluka/2020/333664",
+   "short": "Odluka o izvještajima koji se dostavljaju Centralnoj banci Crne Gore",
+   "title": "Odluka o izvještajima koji se dostavljaju Centralnoj banci Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/333664",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.me/propisi/333664/download",
+     "sha256": "686688653c99229ec0ad21af7d869bd6709ab3bf5988b3266d1227e6fbc4183f"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2020-339150",
    "path": "odluka/2020/339150",
    "short": "Odluka o produženju roka zakupa",
@@ -2233,6 +2278,21 @@
      "units": 8,
      "source_url": "https://www.sluzbenilist.me/propisi/377342/download",
      "sha256": "a90c9ea5800ed406f0299f083d4c24d6e9cfe426d233b0e82bd3e6bc5087e772"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2021-333912",
+   "path": "odluka/2021/333912",
+   "short": "Odluka o Savjetu za vladavinu prava",
+   "title": "Odluka o Savjetu za vladavinu prava",
+   "url": "https://www.sluzbenilist.me/propisi/333912",
+   "versions": [
+    {
+     "from": "2021-02-10",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/333912/download",
+     "sha256": "ac54f10bbc3ad26cbf785414a306815b9711dde57ea7417eee9e3f59e07b6635"
     }
    ]
   },
@@ -4892,6 +4952,36 @@
    ]
   },
   {
+   "slug": "pravilnik-2013-333888",
+   "path": "pravilnik/2013/333888",
+   "short": "Pravilnik o bližim uslovima, dužini trajanja, načinu obavljanja pripravničkog staža, polaganju stručnog ispita, planu i programu praktičnog rada i obuke za pripravnike - zdravstvene radnike i zdravstvene saradnike sa visokim obrazovanjem",
+   "title": "Pravilnik o bližim uslovima, dužini trajanja, načinu obavljanja pripravničkog staža, polaganju stručnog ispita, planu i programu praktičnog rada i obuke za pripravnike - zdravstvene radnike i zdravstvene saradnike sa visokim obrazovanjem",
+   "url": "https://www.sluzbenilist.me/propisi/333888",
+   "versions": [
+    {
+     "from": "2013-03-16",
+     "units": 67,
+     "source_url": "https://www.sluzbenilist.me/propisi/333888/download",
+     "sha256": "f206c69e05b578204ec455ba118b990c58353c6cec15c9efe20a48c53a48eb6a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-334670",
+   "path": "pravilnik/2013/334670",
+   "short": "Pravilnik o obliku i sadržaju službene legitimacije ovlašćenih službenika Agencije za nacionalnu bezbjednost",
+   "title": "Pravilnik o obliku i sadržaju službene legitimacije ovlašćenih službenika Agencije za nacionalnu bezbjednost",
+   "url": "https://www.sluzbenilist.me/propisi/334670",
+   "versions": [
+    {
+     "from": "2013-05-04",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/334670/download",
+     "sha256": "a13d6d30a06d6c176cd0832532390bdca575a2f72bf0a19a5b3572bc7fc1b049"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2013-334775",
    "path": "pravilnik/2013/334775",
    "short": "Pravilnik o programu obuke za posrednike",
@@ -5102,6 +5192,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2019-333901",
+   "path": "pravilnik/2019/333901",
+   "short": "Pravilnik o obrascu i visini troškova izrade identifikacione oznake lica koje vrši poslove zaštite",
+   "title": "Pravilnik o obrascu i visini troškova izrade identifikacione oznake lica koje vrši poslove zaštite",
+   "url": "https://www.sluzbenilist.me/propisi/333901",
+   "versions": [
+    {
+     "from": "2019-03-09",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/333901/download",
+     "sha256": "7addadf1bb7cb8e089236bc76f7af7d61346c15a5a029bae082f3a6d75f533d0"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2019-335389",
    "path": "pravilnik/2019/335389",
    "short": "Pravilnik o načinu sprovođenja internog oglasa za raspoređivanje na rad u diplomatsko-konzularnom predstavništvu",
@@ -5147,6 +5252,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2020-333549",
+   "path": "pravilnik/2020/333549",
+   "short": "Pravilnik o izgledu i sadržaju amblema organizacionih jedinica Uprave policije",
+   "title": "Pravilnik o izgledu i sadržaju amblema organizacionih jedinica Uprave policije",
+   "url": "https://www.sluzbenilist.me/propisi/333549",
+   "versions": [
+    {
+     "from": "2020-11-22",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.me/propisi/333549/download",
+     "sha256": "4d9981b1494a2b3528a193748f81404cfeb1f932850b71a8b87722620d9f2943"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2020-334918",
    "path": "pravilnik/2020/334918",
    "short": "Pravilnik o izmjenama i dopuni Pravilnika o načinu izdavanja i obrascu dozvole za stalni boravak",
@@ -5188,6 +5308,21 @@
      "units": 27,
      "source_url": "https://www.sluzbenilist.me/propisi/338803/download",
      "sha256": "39ed9a1d4eab549ffb9d333225edb90b73dd4ed76dc289537dadd7f1d77e6c0f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-333784",
+   "path": "pravilnik/2022/333784",
+   "short": "Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnog organizma Phyllosticta citricarpa (McAlpine) Van der Aa*",
+   "title": "Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja i širenja štetnog organizma Phyllosticta citricarpa (McAlpine) Van der Aa*",
+   "url": "https://www.sluzbenilist.me/propisi/333784",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.me/propisi/333784/download",
+     "sha256": "9393c75b5c0109acadc17620388ebed5c7106c75f70d5e9cbd6758e864d77f37"
     }
    ]
   },
@@ -6287,6 +6422,21 @@
    ]
   },
   {
+   "slug": "uredba-2013-334503",
+   "path": "uredba/2013/334503",
+   "short": "Uredba o službenim zvanjima lokalnih službenika i namještenika i uslovima za njihovo vršenje u organima lokalne uprave",
+   "title": "Uredba o službenim zvanjima lokalnih službenika i namještenika i uslovima za njihovo vršenje u organima lokalne uprave",
+   "url": "https://www.sluzbenilist.me/propisi/334503",
+   "versions": [
+    {
+     "from": "2013-03-30",
+     "units": 16,
+     "source_url": "https://www.sluzbenilist.me/propisi/334503/download",
+     "sha256": "11837f27d2820e4861799ab652583b57134deb777c5b6aec1389ef1566679609"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-337496",
    "path": "uredba/2014/337496",
    "short": "Uredba o odloženom plaćanju carinskog duga",
@@ -6298,6 +6448,21 @@
      "units": 5,
      "source_url": "https://www.sluzbenilist.me/propisi/337496/download",
      "sha256": "58994cbbb54c3bd9a4c57b468d1bb521d583b82584491f4478b0597dd155c193"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2016-334421",
+   "path": "uredba/2016/334421",
+   "short": "Uredba o odloženom plaćanju carinskog duga",
+   "title": "Uredba o odloženom plaćanju carinskog duga",
+   "url": "https://www.sluzbenilist.me/propisi/334421",
+   "versions": [
+    {
+     "from": "2016-03-11",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/334421/download",
+     "sha256": "aabdab706a32e8fe3f5a5f635da568c2b79fc0e8a0df42833d061977b71548f6"
     }
    ]
   },
@@ -6328,6 +6493,21 @@
      "units": 13,
      "source_url": "https://www.sluzbenilist.me/propisi/337177/download",
      "sha256": "da4a0f20eb03ee5b3e125b71d8adcdd6498ecd328cfa5717c377bc63486aa3ac"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-334492",
+   "path": "uredba/2021/334492",
+   "short": "Uredba o uslovima za odlaganje naplate dospjelih poreskih i neporeskih potraživanja",
+   "title": "Uredba o uslovima za odlaganje naplate dospjelih poreskih i neporeskih potraživanja",
+   "url": "https://www.sluzbenilist.me/propisi/334492",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/334492/download",
+     "sha256": "3c165ab6f245a6642d6fe0b3efe926b105c165fc0f62441f2a7e638b8bab394b"
     }
    ]
   },
@@ -7093,6 +7273,21 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.me/propisi/341650/download",
      "sha256": "66e69a4dc77a768e969732b8f71aa33018a20a568a98f912b934bacd9679ba92"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2013-334669",
+   "path": "odluka/2013/334669",
+   "short": "Odluka o donošenju Državne studije lokacije \"Dio sektora 56\"",
+   "title": "Odluka o donošenju Državne studije lokacije \"Dio sektora 56\"",
+   "url": "https://www.sluzbenilist.me/propisi/334669",
+   "versions": [
+    {
+     "from": "2013-05-04",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/334669/download",
+     "sha256": "4394912e07dc9445530f1488a13a029fb3ef07245b54b420c392e1384ef8e698"
     }
    ]
   },
@@ -9227,6 +9422,21 @@
    ]
   },
   {
+   "slug": "odluka-2021-333977",
+   "path": "odluka/2021/333977",
+   "short": "Odluka o razrješenju predsjednika Savjeta Agencije za zaštitu ličih podataka i slobodan pristup informacijama",
+   "title": "Odluka o razrješenju predsjednika Savjeta Agencije za zaštitu ličih podataka i slobodan pristup informacijama",
+   "url": "https://www.sluzbenilist.me/propisi/333977",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/333977/download",
+     "sha256": "eeeb03428bf88bb848f71db6ba394465c97c0a5e99a0dc6d2a6460a9b576ce14"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2021-336463",
    "path": "odluka/2021/336463",
    "short": "Odluka o izboru predsjednika, zamjenika predsjednika i članova Odbora za sveobuhvatnu izbornu reformu",
@@ -9403,6 +9613,21 @@
      "units": 7,
      "source_url": "https://www.sluzbenilist.me/propisi/347045/download",
      "sha256": "ab46da1ab453ba5196a3b3fbb6f22c4a49642e39fa736f190d7351934dc329aa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-334453",
+   "path": "odluka/2022/334453",
+   "short": "Odluka o izboru pet članova Komisije za vrednovanje projekata dostavljenih na javni konkurs za raspodjelu sredstava za finansiranje projekata za podršku aktivnostima značajnim za očuvanje i razvoj nacionalnih, odnosno etničkih posebnosti manjinskih naroda i drugih manjinskih nacionalnih zajednica i njihovih pripadnika u oblasti nacionalnog, kulturnog, jezičkog i vjerskog identiteta",
+   "title": "Odluka o izboru pet članova Komisije za vrednovanje projekata dostavljenih na javni konkurs za raspodjelu sredstava za finansiranje projekata za podršku aktivnostima značajnim za očuvanje i razvoj nacionalnih, odnosno etničkih posebnosti manjinskih naroda i drugih manjinskih nacionalnih zajednica i njihovih pripadnika u oblasti nacionalnog, kulturnog, jezičkog i vjerskog identiteta",
+   "url": "https://www.sluzbenilist.me/propisi/334453",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/334453/download",
+     "sha256": "dd06952fdc7920c953e66b50efd1c4d2c6893653a645a1f99eb5526fb79f2a94"
     }
    ]
   },
@@ -11927,6 +12152,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2013-334147",
+   "path": "pravilnik/2013/334147",
+   "short": "Pravilnik o uslovima koje treba da ispuni priređivač nagradnih igara",
+   "title": "Pravilnik o uslovima koje treba da ispuni priređivač nagradnih igara",
+   "url": "https://www.sluzbenilist.me/propisi/334147",
+   "versions": [
+    {
+     "from": "2013-03-09",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/334147/download",
+     "sha256": "34977b7f47cc0531bbe7d7200fb6c61df47564c4c1688a063cb6787e894c5c83"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2013-336108",
    "path": "pravilnik/2013/336108",
    "short": "Pravilnik o načinu rada i uslovima za administrativni pristup web portalu Vlade Crne Gore",
@@ -11968,6 +12208,21 @@
      "units": 5,
      "source_url": "https://www.sluzbenilist.me/propisi/335453/download",
      "sha256": "f86edb88bf196ec7de04757551c243e9bf15f17d34150ce7b69c773488be253f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-333788",
+   "path": "pravilnik/2019/333788",
+   "short": "Pravilnik o načinu povlačenja i povraćaja sredstava Fonda za podršku opštinama za predfinansiranje donatorskih projekata",
+   "title": "Pravilnik o načinu povlačenja i povraćaja sredstava Fonda za podršku opštinama za predfinansiranje donatorskih projekata",
+   "url": "https://www.sluzbenilist.me/propisi/333788",
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/333788/download",
+     "sha256": "ad834f161d827c58423dcd5c42250657a30c806dceeb7374a36d470185ff5ce9"
     }
    ]
   },
@@ -14222,6 +14477,21 @@
    ]
   },
   {
+   "slug": "odluka-2020-333587",
+   "path": "odluka/2020/333587",
+   "short": "Odluka o dopuni Odluke o zdravstvenoj knjižici",
+   "title": "Odluka o dopuni Odluke o zdravstvenoj knjižici",
+   "url": "https://www.sluzbenilist.me/propisi/333587",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/333587/download",
+     "sha256": "30ae22ddad7b67c6c73abb1df95e7ba0f92e93726221fe0b010b5420381d85a7"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2020-368828",
    "path": "odluka/2020/368828",
    "short": "Odluka o Službi komunalne policije",
@@ -15602,6 +15872,21 @@
    ]
   },
   {
+   "slug": "odluka-2017-334602",
+   "path": "odluka/2017/334602",
+   "short": "Odluka o imenovanju devet članova/ica Državne izborne komisije",
+   "title": "Odluka o imenovanju devet članova/ica Državne izborne komisije",
+   "url": "https://www.sluzbenilist.me/propisi/334602",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/334602/download",
+     "sha256": "49b7961c6ea1e954cc79920c9948e4d809fdc7088a1bfb52b8650ddac3e6d76b"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2019-375101",
    "path": "odluka/2019/375101",
    "short": "Odluka o pribavljanju nepokretnosti - građevinskog zemljišta od Piletić Miloša i Piletić Milice",
@@ -15778,6 +16063,21 @@
      "units": 1,
      "source_url": "https://www.sluzbenilist.me/propisi/348189/download",
      "sha256": "a18b6c5578be128c5381ce65909da3bf9d1c980d188ceb672d0f52045501ef9c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2021-333680",
+   "path": "odluka/2021/333680",
+   "short": "Odluka o izmjeni Odluke o imenovanju dva člana Savjeta Agencije za elektronske medije",
+   "title": "Odluka o izmjeni Odluke o imenovanju dva člana Savjeta Agencije za elektronske medije",
+   "url": "https://www.sluzbenilist.me/propisi/333680",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/333680/download",
+     "sha256": "a958766d09897697223e0e587389441eaf3363dd0972641966c1f58f2c19d422"
     }
    ]
   },
@@ -20458,6 +20758,21 @@
      "units": 37,
      "source_url": "https://www.sluzbenilist.me/propisi/386289/download",
      "sha256": "c043e99a091d1e139402afce4f9a9487775031409479b708d6dd85ed1adbcc63"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2007-333807",
+   "path": "pravilnik/2007/333807",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o tehničko-eksploatacionim uslovima radio-difuznih stanica za frekvencijski modulisane emisije",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o tehničko-eksploatacionim uslovima radio-difuznih stanica za frekvencijski modulisane emisije",
+   "url": "https://www.sluzbenilist.me/propisi/333807",
+   "versions": [
+    {
+     "from": "2007-09-21",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/333807/download",
+     "sha256": "0394ed9d8d4563f00a867cadea1b15fd6de31db1d68fa8609e67fac88ddea758"
     }
    ]
   },
