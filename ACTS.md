@@ -1,8 +1,8 @@
 # Every act in this repository
 
-31253 acts, 31,255 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+31445 acts, 31,447 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
-## akt (875, of which 85 amending acts)
+## akt (876, of which 85 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -354,6 +354,7 @@
 | Granski kolektivni ugovor o izmjenama i dopunama Granskog kolektivnog ugovora za građevinarstvo i industriju građevinskog materijala | [`akt/2016/337927/`](akt/2016/337927/) | amending act | 1 | 2016-01-30 | 2016-01-30 |
 | Metodologija o izmjenama Metodologije za utvrđivanje načina obezbjeđivanja sredstava za rad Agencije | [`akt/2016/338150/`](akt/2016/338150/) | in force | 1 | 2016-11-17 | 2016-11-17 |
 | Metodologija za utvrđivanje cijena za korišćenje prenosnog ili distributivnog sistema električne energije koje plaćaju korisnici direktnog voda kada je vod priključen na prenosni ili distributivni sistem | [`akt/2016/338466/`](akt/2016/338466/) | in force | 1 | 2016-12-24 | 2016-12-24 |
+| Zaključak o usvajanju Plana i programa rada za 2016. godinu D.O.O. "Vodovod i kanalizacija" Kolašin | [`akt/2016/340418/`](akt/2016/340418/) | in force | 1 | 2016-04-21 | 2016-04-21 |
 | Pravilnik o zaštitnom znaku na uniformi zaposlenih koji vrše poslove zaštite lica i imovine Opštine Bar | [`akt/2016/341118/`](akt/2016/341118/) | in force | 1 | 2016-05-06 | 2016-05-06 |
 | Zaključak | [`akt/2016/341576/`](akt/2016/341576/) | in force | 1 | 2016-06-18 | 2016-06-18 |
 | Završni račun Budžeta Opštine Danilovgrad za 2015.godinu | [`akt/2016/343539/`](akt/2016/343539/) | in force | 1 | 2016-07-07 | 2016-07-07 |
@@ -1131,7 +1132,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (21573, of which 3087 amending acts)
+## odluka (21730, of which 3101 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2499,8 +2500,10 @@
 | Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/342597/`](odluka/2007/342597/) | in force | 1 | 2007-11-13 | 2007-11-13 |
 | Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/342598/`](odluka/2007/342598/) | in force | 1 | 2007-11-13 | 2007-11-13 |
 | Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/342599/`](odluka/2007/342599/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/342653/`](odluka/2007/342653/) | in force | 1 | 2007-11-13 | 2007-11-13 |
 | Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/342654/`](odluka/2007/342654/) | in force | 1 | 2007-11-13 | 2007-11-13 |
 | Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/342655/`](odluka/2007/342655/) | in force | 1 | 2007-11-13 | 2007-11-13 |
+| Odluka o izradi Lokalne studije lokacije za područje Vranovići - Pobrđe | [`odluka/2007/342656/`](odluka/2007/342656/) | in force | 1 | 2007-11-13 | 2007-11-13 |
 | Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/343293/`](odluka/2007/343293/) | in force | 1 | 2007-11-13 | 2007-11-13 |
 | Odluka o prenosu prava na gradsko građevinsko zemljište | [`odluka/2007/343294/`](odluka/2007/343294/) | in force | 1 | 2007-11-13 | 2007-11-13 |
 | Odluka o upisu udjela Opštine Berane u DOO Hidroenergija Montenegro | [`odluka/2007/343784/`](odluka/2007/343784/) | in force | 1 | 2007-11-13 | 2007-11-13 |
@@ -2974,8 +2977,11 @@
 | Odluka o mjerama pripravnosti za vrijeme ratnog ili vanrednog stanja | [`odluka/2008/338236/`](odluka/2008/338236/) | in force | 1 | 2008-10-30 | 2008-10-30 |
 | Odluka o utvrdjivanju visine godisnje premije za 2009.godinu | [`odluka/2008/338237/`](odluka/2008/338237/) | in force | 1 | 2008-12-06 | 2008-12-06 |
 | Odluka o izmjeni Odluke o kvartalnom izvjestaju koji banke dostavljaju Fondu za zastitu depozita | [`odluka/2008/338246/`](odluka/2008/338246/) | in force | 1 | 2008-12-06 | 2008-12-06 |
+| Odluka o kontrolnoj listi za izvoz, uvoz i tranzit robe | [`odluka/2008/338587/`](odluka/2008/338587/) | in force | 1 | 2009-01-08 | 2009-01-08 |
 | Odluka o utvrdjivanju visine naknade troskova izborne propagande kandidata za predsjednika Crne Gore na izborima 2008.godine | [`odluka/2008/338779/`](odluka/2008/338779/) | in force | 1 | 2008-02-09 | 2008-02-09 |
 | Odluka o izmjeni i dopuni Odluke o izradi Detaljnog urbanističkog plana "Babin Do"broj 001-2025/1 od 26.05.2006.godine | [`odluka/2008/339020/`](odluka/2008/339020/) | amending act | 1 | 2008-04-23 | 2008-04-23 |
+| Odluka o raspisivanju Javnog poziva na javno nadmetanja za prenos prava svojine na gradskom građevinskom zemljištu | [`odluka/2008/339058/`](odluka/2008/339058/) | in force | 1 | 2008-04-15 | 2008-04-15 |
+| Odluka broj 11-3046 | [`odluka/2008/339059/`](odluka/2008/339059/) | in force | 1 | 2008-04-23 | 2008-04-23 |
 | Odluka o bratimljenju Opštine Ulcinj i grada Stamforda | [`odluka/2008/339061/`](odluka/2008/339061/) | in force | 1 | 2008-04-15 | 2008-04-15 |
 | Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima službenika i namještenika | [`odluka/2008/339223/`](odluka/2008/339223/) | amending act | 1 | 2008-05-12 | 2008-05-12 |
 | Odluka o zaradama i drugim pravima po osnovu rada lokalnih funkcionera | [`odluka/2008/339224/`](odluka/2008/339224/) | in force | 1 | 2008-05-12 | 2008-05-12 |
@@ -3027,6 +3033,7 @@
 | Odluka o uspostavljanju saradnje Prijestonice Cetinje i grada Pembroke (Malta) | [`odluka/2008/340132/`](odluka/2008/340132/) | in force | 1 | 2008-06-10 | 2008-06-10 |
 | Odluka o izmjeni Odluke o visini,načinu obračunavanja i plaćanja doprinosa Turističkoj organizaciji Prijestonice Cetinje | [`odluka/2008/340133/`](odluka/2008/340133/) | in force | 1 | 2008-06-10 | 2008-06-10 |
 | Odluka o zabrani gradnje objekata u toku turističke sezone | [`odluka/2008/340177/`](odluka/2008/340177/) | in force | 1 | 2008-05-31 | 2008-05-31 |
+| Odluka o utvrđivanju naknade za uređivanje građevinskog zemljišta | [`odluka/2008/340302/`](odluka/2008/340302/) | in force | 1 | 2008-05-31 | 2008-05-31 |
 | Odluka o prestanku važenja Odluke o osnivanju Vatrogasne jedinice Opštine Pljevlja | [`odluka/2008/340312/`](odluka/2008/340312/) | in force | 1 | 2008-06-27 | 2008-06-27 |
 | Odluka o davanju saglasnosti na Statut JP "Čistoća" - Pljevlja | [`odluka/2008/340313/`](odluka/2008/340313/) | in force | 1 | 2008-06-27 | 2008-06-27 |
 | Odluka o davanju saglasnosti na Statut JP "Komunalne usluge"-Pljevlja | [`odluka/2008/340314/`](odluka/2008/340314/) | in force | 1 | 2008-06-27 | 2008-06-27 |
@@ -3062,6 +3069,7 @@
 | Odluka o privremenom finansiranju Opštine Plav za period januar -mart 2008.godine | [`odluka/2008/340893/`](odluka/2008/340893/) | in force | 1 | 2008-01-24 | 2008-01-24 |
 | Odluka o davanju saglasnosti na Odluku predsjednika Opštine br. 01-1-932/07 od 26.12.2007.godine | [`odluka/2008/340894/`](odluka/2008/340894/) | in force | 1 | 2008-01-16 | 2008-01-16 |
 | Odluka o pribavljanju imovine za izgradnju i postavljanje naplatne rampe | [`odluka/2008/340896/`](odluka/2008/340896/) | in force | 1 | 2007-12-26 | 2007-12-26 |
+| Odluka o pribavljanju imovine | [`odluka/2008/340910/`](odluka/2008/340910/) | in force | 1 | 2008-01-24 | 2008-01-24 |
 | Odluka o izradi Lokalne studije lokacije "Kovačka dolina I" -Žabljak | [`odluka/2008/340950/`](odluka/2008/340950/) | in force | 1 | 2008-07-04 | 2008-07-04 |
 | Odluka o pristupanju izradi lokalne studije lokacije Kolašin -" Trunića do" | [`odluka/2008/340951/`](odluka/2008/340951/) | in force | 1 | 2008-07-04 | 2008-07-04 |
 | Odluka o izradi strateške procjene uticaja na životnu sredinu Izmjena i dopuna GUP-a grada Pljevalja | [`odluka/2008/340960/`](odluka/2008/340960/) | amending act | 1 | 2008-06-26 | 2008-06-26 |
@@ -3084,6 +3092,7 @@
 | Odluka o izmjeni Odluke o naknadama odbornicima u Skupštini Gradske opštine Golubovci | [`odluka/2008/341285/`](odluka/2008/341285/) | in force | 1 | 2008-07-18 | 2008-07-18 |
 | Odluka o upotrebi simbola Opštine Bijelo Polje | [`odluka/2008/341479/`](odluka/2008/341479/) | in force | 1 | 2008-07-11 | 2008-07-11 |
 | Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajdenice Nikoljac | [`odluka/2008/341482/`](odluka/2008/341482/) | in force | 1 | 2008-07-11 | 2008-07-11 |
+| Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Laholo | [`odluka/2008/341509/`](odluka/2008/341509/) | in force | 1 | 2008-07-11 | 2008-07-11 |
 | Odluka o izmjenama i dopunama Odluke o porezu na firmu ili naziv | [`odluka/2008/341510/`](odluka/2008/341510/) | amending act | 1 | 2008-07-11 | 2008-07-11 |
 | Odluka o prenosu prava korišćenja na gradskom građevinskom zemljištu | [`odluka/2008/341534/`](odluka/2008/341534/) | in force | 1 | 2008-07-11 | 2008-07-11 |
 | Odluka o izmjenama i dopunama Odluke o određivanju područnih odjeljenja i područja osnovnih škola na teritoriji Opštine Bijelo Polje | [`odluka/2008/341535/`](odluka/2008/341535/) | amending act | 1 | 2008-07-11 | 2008-07-11 |
@@ -3128,6 +3137,7 @@
 | Odluka o stavljanju van snage Odluke o pristupanju izradi Izmjena i dopuna Generalnog urbanističkog plana Podgorice | [`odluka/2008/342406/`](odluka/2008/342406/) | amending act | 1 | 2008-11-15 | 2008-11-15 |
 | Odluka o prodaji akcija AD "Plodovi Crne Gore" - Podgorica na berzi | [`odluka/2008/342407/`](odluka/2008/342407/) | in force | 1 | 2008-11-08 | 2008-11-08 |
 | Odluka o davanju saglasnosti na Odluku o Završnom računu Finansijskog plana Gradske opštine Golubovci za 2007.godinu | [`odluka/2008/342409/`](odluka/2008/342409/) | in force | 1 | 2008-11-15 | 2008-11-15 |
+| Odluka o nabavci specijalnih vozila za gašenje požara i spašavanje | [`odluka/2008/342462/`](odluka/2008/342462/) | in force | 1 | 2008-12-20 | 2008-12-20 |
 | Odluka o izradi Strateške procjene uticaja na životnu sredinu Urbanističkog projekta "Zdravstveni i turistički kompleks Meljine" | [`odluka/2008/342506/`](odluka/2008/342506/) | in force | 1 | 2008-12-05 | 2008-12-05 |
 | Odluka o izmjenama i dopunama Odluke o snabdijevanju vodom i odvođenju otpadnih voda | [`odluka/2008/342550/`](odluka/2008/342550/) | amending act | 1 | 2008-12-20 | 2008-12-20 |
 | Odluka o izmjenama i dopunama Odluke o snabdijevanju toplotnom energijom | [`odluka/2008/342551/`](odluka/2008/342551/) | amending act | 1 | 2008-12-20 | 2008-12-20 |
@@ -3704,6 +3714,7 @@
 | Odluka o izmjenama i dopunama Odluke o održavanju čistoće i komunalnom uređenju grada | [`odluka/2009/339913/`](odluka/2009/339913/) | amending act | 1 | 2009-05-02 | 2009-05-02 |
 | Odluka o finansiranju izgradnje parking prostora ispred porte manastira Piva | [`odluka/2009/339965/`](odluka/2009/339965/) | in force | 1 | 2009-05-21 | 2009-05-21 |
 | Odluka o izmjeni Odluke o formiranju Odbora za statut i propise Skupštine opštine Herceg Novi | [`odluka/2009/339966/`](odluka/2009/339966/) | in force | 1 | 2009-04-24 | 2009-04-24 |
+| Odluka o donošenju Plana upravljanja otpadom Opštine Herceg Novi za period od 2009. do 2013. godine | [`odluka/2009/339978/`](odluka/2009/339978/) | in force | 1 | 2009-05-21 | 2009-05-21 |
 | Odluka o izmjenama Statuta Opštine Herceg Novi | [`odluka/2009/340050/`](odluka/2009/340050/) | in force | 1 | 2009-05-21 | 2009-05-21 |
 | Odluka o izmjenama Odluke o pečatima | [`odluka/2009/340051/`](odluka/2009/340051/) | in force | 1 | 2009-05-21 | 2009-05-21 |
 | Odluka o izmjenama i dopunama Odluke o korišćenju i naknadi za korišćenje putnog zemljišta pored opštinskih i nekategorisanih puteva | [`odluka/2009/340052/`](odluka/2009/340052/) | amending act | 1 | 2009-05-21 | 2009-05-21 |
@@ -3729,6 +3740,7 @@
 | Odluka o izmjenama i dopunama Odluke o prenosu prava na građevinsko zemljište Nevladinoj organizaciji Natura iz Kolašina | [`odluka/2009/340975/`](odluka/2009/340975/) | amending act | 1 | 2009-06-19 | 2009-06-19 |
 | Odluka o dopuni Odluke o raspolaganju građevinskim zemljištem u 2009. godini | [`odluka/2009/340988/`](odluka/2009/340988/) | amending act | 1 | 2009-06-19 | 2009-06-19 |
 | Odluka o izmjenama i dopunama Odluke o javnim parkiralištima i garažama | [`odluka/2009/340998/`](odluka/2009/340998/) | amending act | 1 | 2009-06-19 | 2009-06-19 |
+| Odluka o podizanju spomen-obilježja Tarasu Ševčenku | [`odluka/2009/340999/`](odluka/2009/340999/) | in force | 1 | 2009-06-04 | 2009-06-04 |
 | Odluka o izmjenama i dopunama Odluke o korišćenju i naknadi za korišćenje putnog zemljišta pored opštinskih i nekategorisanih puteva | [`odluka/2009/341021/`](odluka/2009/341021/) | amending act | 1 | 2009-06-19 | 2009-06-19 |
 | Odluka o izmjenama i dopunama Odluke o opštinskim i nekategorisanim putevima | [`odluka/2009/341147/`](odluka/2009/341147/) | amending act | 1 | 2009-06-24 | 2009-06-24 |
 | Odluka o izmjeni i dopuni Odluke o izradi detaljnog urbanistickog plana "Ratac - Zeleni pojas" | [`odluka/2009/341195/`](odluka/2009/341195/) | amending act | 1 | 2009-07-01 | 2009-07-01 |
@@ -3776,6 +3788,7 @@
 | Odluka o donošenju Urbanističkog projekta "Hotel Tamaris" | [`odluka/2009/342154/`](odluka/2009/342154/) | in force | 1 | 2009-11-17 | 2009-11-17 |
 | Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima opštinskih funkcionera | [`odluka/2009/342171/`](odluka/2009/342171/) | amending act | 1 | 2009-09-24 | 2009-09-24 |
 | Odluka o imenovanju Žirija za dodjelu Nagrade oslobođenja Nikšića za 2009. godinu | [`odluka/2009/342269/`](odluka/2009/342269/) | in force | 1 | 2009-08-11 | 2009-08-11 |
+| Odluka o zaduživanju Opštine Bar | [`odluka/2009/342360/`](odluka/2009/342360/) | in force | 1 | 2009-10-23 | 2009-10-23 |
 | Odluka o donošenju Detaljnog urbanističkog plana »Ilino« | [`odluka/2009/342361/`](odluka/2009/342361/) | in force | 1 | 2009-10-23 | 2009-10-23 |
 | Odluka o donošenju Urbanističkog projekta »Bjeliši I« | [`odluka/2009/342362/`](odluka/2009/342362/) | in force | 1 | 2009-10-23 | 2009-10-23 |
 | Odluka o donošenju Lokalne studije lokacije »Mirovica I« | [`odluka/2009/342363/`](odluka/2009/342363/) | in force | 1 | 2009-10-23 | 2009-10-23 |
@@ -4290,7 +4303,9 @@
 | Odluka o obustavi od izvrsenja Odluke o prodaji nepokretnosti Opstine Kolasin | [`odluka/2010/334430/`](odluka/2010/334430/) | in force | 1 | 2010-03-31 | 2010-03-31 |
 | ODLUKA O DOPUNI ODLUKE O UTVRDJIVANjU JAVNOG INTERESA ZA EKSPROPRIJACIJU NEPOKRETNOSTI ZA REKONSTRUKCIJU GRANICNOG PRELAZA "DOBRAKOVO" | [`odluka/2010/335100/`](odluka/2010/335100/) | amending act | 1 | 2010-04-27 | 2010-04-27 |
 | Odluka o kriterijumima i nacinu isplate potrazivanja kod Fonda rada | [`odluka/2010/335304/`](odluka/2010/335304/) | in force | 1 | 2010-05-14 | 2010-05-14 |
+| Odluka o otvaranju stalnog granicnog prelaza za medjunarodni pomorski saobracaj Luka Tivat - Porto Montenegro | [`odluka/2010/336939/`](odluka/2010/336939/) | in force | 1 | 2010-08-13 | 2010-08-13 |
 | Odluka o odredjivanju Luke Tivat za medjunarodni i unutrasnji saobracaj | [`odluka/2010/337080/`](odluka/2010/337080/) | in force | 1 | 2010-08-13 | 2010-08-13 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za komunalno opremanje gradjevinskog zemljista | [`odluka/2010/337421/`](odluka/2010/337421/) | amending act | 1 | 2010-03-23 | 2010-03-23 |
 | Odluka o formiranju posebnog Revizorskog tijela odgovornog za provjeru djelotvornog i valjanog funkcionisanja sistema upravljanja i kontrole Instrumentom pretpristupne pomoci | [`odluka/2010/337741/`](odluka/2010/337741/) | in force | 1 | 2010-02-06 | 2010-02-06 |
 | Odluka o obustavi od izvrsenja Odluke o izgradnji objekata izvan zahvata detaljnih urbanistickih planova Plava | [`odluka/2010/338140/`](odluka/2010/338140/) | in force | 1 | 2010-12-08 | 2010-12-08 |
 | Odluka o izmjenama i dopunama Odluke o obrazovanju Nacionalnog savjeta za droge | [`odluka/2010/338262/`](odluka/2010/338262/) | amending act | 1 | 2010-12-29 | 2010-12-29 |
@@ -5082,6 +5097,7 @@
 | Odluka o kreditnom zaduzenju Opstine Ulcinj | [`odluka/2011/339730/`](odluka/2011/339730/) | in force | 1 | 2011-04-28 | 2011-04-28 |
 | Odluka o izmjenama i dopunama Odluke o visini naknade za uredjivanje gradjevinskog zemljsta | [`odluka/2011/339736/`](odluka/2011/339736/) | amending act | 1 | 2011-04-26 | 2011-04-26 |
 | Odluka o davanju na upravljanje seoskih vodovoda | [`odluka/2011/339738/`](odluka/2011/339738/) | in force | 1 | 2011-04-26 | 2011-04-26 |
+| Odluka o odredjivanju naknada za rad odbornika u Skupstini opstine Zabljak | [`odluka/2011/339748/`](odluka/2011/339748/) | in force | 1 | 2011-04-26 | 2011-04-26 |
 | Odluka o donosenju Lokalnog akcionog plana za biodiverzitet Opstine Zabljak za period od 2011. do 2015. godine | [`odluka/2011/339749/`](odluka/2011/339749/) | in force | 1 | 2011-04-26 | 2011-04-26 |
 | Odluka o prestanku vazenja Odluke o porezu na firmu ili naziv | [`odluka/2011/339750/`](odluka/2011/339750/) | in force | 1 | 2011-04-26 | 2011-04-26 |
 | Odluka o prestanku vazenja Odluke o porezu na igre na srecu i zabavne igre | [`odluka/2011/339751/`](odluka/2011/339751/) | in force | 1 | 2011-04-26 | 2011-04-26 |
@@ -5115,6 +5131,8 @@
 | Odluka o donosenju Izmjena i dopuna Detaljnog urbanistickog plana "ROZINO 2" | [`odluka/2011/340397/`](odluka/2011/340397/) | amending act | 1 | 2011-06-11 | 2011-06-11 |
 | Odluka o prenosu prava svojine na nepokretnosti putem Javnog nadmetanja Katastarska parcela 1794 KO Kuljace | [`odluka/2011/340399/`](odluka/2011/340399/) | in force | 1 | 2011-06-11 | 2011-06-11 |
 | Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele broj UP 5 u skladu sa LSL Stambeno turisticka zona Rijeke Rezevica | [`odluka/2011/340400/`](odluka/2011/340400/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o rjesavanju stambenih potreba lica koja bira ili imenuje Skupstina opstine, Predsjednik opstine i drugih lica ciji je rad od posebnog interesa za Opstinu | [`odluka/2011/340451/`](odluka/2011/340451/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanisticke parcele broj UP 6 u skladu sa LSL Stambeno turisticka zona Rijeke Rezevica | [`odluka/2011/340453/`](odluka/2011/340453/) | in force | 1 | 2011-06-11 | 2011-06-11 |
 | Odluka o izmjenama i dopunama Odluke o obrazovanju radnih tijela Skupstine | [`odluka/2011/340464/`](odluka/2011/340464/) | amending act | 1 | 2011-06-11 | 2011-06-11 |
 | Odluka o prestanku vazenja Odluke o porezu na potrosnju | [`odluka/2011/340465/`](odluka/2011/340465/) | in force | 1 | 2011-06-11 | 2011-06-11 |
 | Odluka o prestanku vazenja Odluke o porezu na igre na srecu i zabavne igre | [`odluka/2011/340466/`](odluka/2011/340466/) | in force | 1 | 2011-06-11 | 2011-06-11 |
@@ -5184,9 +5202,11 @@
 | Odluka o izmjenama i dopunama Detaljnog urbanistickog plana Plav - "Glavice", broj: 0301-36/4 | [`odluka/2011/341903/`](odluka/2011/341903/) | amending act | 1 | 2011-11-08 | 2011-11-08 |
 | Odluka o imenovanju Komisije za rjesavanje stambenih pitanja lica koja bira ili imenuje Skupstina opstine i predsjednik Opstine i drugih lica ciji je rad od posebnog interesa za opstinu | [`odluka/2011/341904/`](odluka/2011/341904/) | in force | 1 | 2011-11-16 | 2011-11-16 |
 | Odluka o uspostavljanju saradnje izmedju Prijestonice Cetinje i Grada Gaziantepa | [`odluka/2011/341951/`](odluka/2011/341951/) | in force | 1 | 2011-11-16 | 2011-11-16 |
+| Odluka o raspolaganju imovinom | [`odluka/2011/341986/`](odluka/2011/341986/) | in force | 1 | 2011-10-21 | 2011-10-21 |
 | Odluka o izmjenama i dopunama Odluke o postavljanju i izgradnji montaznih objekata privremenog karaktera na teritoriji Opstine Zabljak | [`odluka/2011/342139/`](odluka/2011/342139/) | amending act | 1 | 2011-11-05 | 2011-11-05 |
 | Odluka o imenovanju Komisije za sprovodjenje postupka prodaje pokretnih stvari | [`odluka/2011/342140/`](odluka/2011/342140/) | in force | 1 | 2011-10-28 | 2011-10-28 |
 | Odluka o davanju u zakup nepokretnosti | [`odluka/2011/342141/`](odluka/2011/342141/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o izradi Izmjena i dopuna Detaljnog urbanistickog plana "Radoje Dakic" u Podgorici | [`odluka/2011/342156/`](odluka/2011/342156/) | amending act | 1 | 2011-08-16 | 2011-08-16 |
 | Odluka o razrjesenju clana savjeta JU Centar za kulturu "Nenad Rakocevic" Mojkovac | [`odluka/2011/342188/`](odluka/2011/342188/) | in force | 1 | 2011-10-28 | 2011-10-28 |
 | Odluka o prestanku vazenja Odluke o porezu na potrosnju | [`odluka/2011/342189/`](odluka/2011/342189/) | in force | 1 | 2011-11-05 | 2011-11-05 |
 | Odluka o izmjeni Odluke o izradi Izmjena i dopuna Detaljnog urbanistickog plana "Rastoci 3" | [`odluka/2011/342190/`](odluka/2011/342190/) | amending act | 1 | 2011-11-05 | 2011-11-05 |
@@ -5213,6 +5233,7 @@
 | Odluka o davanju saglasnosti na Odluku o izboru direktora/ice JU Dnevni centar | [`odluka/2011/342344/`](odluka/2011/342344/) | in force | 1 | 2011-10-14 | 2011-10-14 |
 | Odluka o izboru predsjednika Opstine Ulcinj | [`odluka/2011/342345/`](odluka/2011/342345/) | in force | 1 | 2011-09-28 | 2011-09-28 |
 | Odluka o izradi izmjena i dopuna Detaljnog urbanistickog plana "Petrovac" | [`odluka/2011/342380/`](odluka/2011/342380/) | amending act | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o izradi Izmjena i dopuna Generalnog urbanistickog plana Podgorice za prostor Detaljnog urbanistickog plana "Radoje Dakic" u Podgorici | [`odluka/2011/342381/`](odluka/2011/342381/) | amending act | 1 | 2011-08-16 | 2011-08-16 |
 | Odluka o izmjeni Odluke o odvodjenju atmosferskih voda | [`odluka/2011/342382/`](odluka/2011/342382/) | in force | 1 | 2011-08-24 | 2011-08-24 |
 | Odluka o izmjeni Odluke o vodosnabdijevanju na podrucju Opstine Bar | [`odluka/2011/342383/`](odluka/2011/342383/) | in force | 1 | 2011-08-24 | 2011-08-24 |
 | Odluka o donosenju Detaljnog urbanistickog plana »Pecurice - centar« | [`odluka/2011/342429/`](odluka/2011/342429/) | in force | 1 | 2011-08-24 | 2011-08-24 |
@@ -5238,6 +5259,7 @@
 | Odluka o prenosu prava koriscenja | [`odluka/2011/342624/`](odluka/2011/342624/) | in force | 1 | 2011-12-13 | 2011-12-13 |
 | Odluka o osnivanju Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teskocama u razvoju | [`odluka/2011/342625/`](odluka/2011/342625/) | in force | 1 | 2011-12-13 | 2011-12-13 |
 | Odluka o stavljanju van snage dijela Detaljnog urbanistickog plana "BECICI" | [`odluka/2011/342639/`](odluka/2011/342639/) | in force | 1 | 2011-08-24 | 2011-08-24 |
+| Odluka o potvrdjivanju Odluke o kratkorocnom zaduzenju Opstine Budva | [`odluka/2011/342640/`](odluka/2011/342640/) | in force | 1 | 2011-08-24 | 2011-08-24 |
 | Odluka o donosenju Lokalne studije lokacije "Podbabac - Markicevici" o donosenju Lokalne studije lokacije "Podbabac - Markicevici" | [`odluka/2011/342642/`](odluka/2011/342642/) | in force | 1 | 2011-08-24 | 2011-08-24 |
 | Odluka o izmjeni Odluke o uslovima i nacinu drzanja domacih zivotinja i zivine u gradskom podrucju | [`odluka/2011/342668/`](odluka/2011/342668/) | in force | 1 | 2011-11-16 | 2011-11-16 |
 | Odluka o izmjeni Odluke o uslovima i nacinu izvodjenja i emitovanja muzike u turistickim i ugostiteljskim objektima i zastiti od buke na teritoriji Opstine Plav | [`odluka/2011/342669/`](odluka/2011/342669/) | in force | 1 | 2011-11-16 | 2011-11-16 |
@@ -5255,6 +5277,7 @@
 | Odluka o izmjenama i dopunama Urbanistickog projekta "Stara varos - dio zone B" u Podgorici | [`odluka/2011/342874/`](odluka/2011/342874/) | amending act | 1 | 2011-09-21 | 2011-09-21 |
 | Odluka o prodaji pokretnih stvari | [`odluka/2011/342890/`](odluka/2011/342890/) | in force | 1 | 2011-10-28 | 2011-10-28 |
 | Odluka o prestanku vazenja Odluke o porezu na firmu ili naziv | [`odluka/2011/342891/`](odluka/2011/342891/) | in force | 1 | 2011-11-05 | 2011-11-05 |
+| Odluka o Izmjenama i dopunama Statuta Opstine Pluzine | [`odluka/2011/342971/`](odluka/2011/342971/) | amending act | 1 | 2011-07-29 | 2011-07-29 |
 | Odluka o davanju saglasnosti o izmjenama i dopunama Statuta JP "Cistoca"- Pljevlja | [`odluka/2011/343079/`](odluka/2011/343079/) | amending act | 1 | 2011-07-29 | 2011-07-29 |
 | Odluka o izradi Strateske procjene uticaja na zivotnu sredinu | [`odluka/2011/343154/`](odluka/2011/343154/) | in force | 1 | 2011-09-15 | 2011-09-15 |
 | Odluka o donosenju Detaljnog urbanistickog plana ,,Breza" | [`odluka/2011/343155/`](odluka/2011/343155/) | in force | 1 | 2011-09-15 | 2011-09-15 |
@@ -5733,6 +5756,7 @@
 | Odluka o izmjeni i dopuni Odluke o zaduživanju i davanju garancija Crne Gore za 2012. godinu | [`odluka/2012/336393/`](odluka/2012/336393/) | amending act | 1 | 2012-07-27 | 2012-07-27 |
 | Odluka o dopuni Odluke o kriterijumima za utvrđivanje uslova za sticanje crnogorskog državljanstva prijemom | [`odluka/2012/337247/`](odluka/2012/337247/) | amending act | 1 | 2012-11-17 | 2012-11-17 |
 | Odluka o privremenim mjerama za ograničenje kamatnih stopa banaka | [`odluka/2012/337248/`](odluka/2012/337248/) | in force | 1 | 2012-11-17 | 2012-11-17 |
+| Odluka o izboru predćednika i članova Administrativnog odbora Skupštine Crne Gore 25. saziva | [`odluka/2012/337252/`](odluka/2012/337252/) | in force | 1 | 2012-11-07 | 2012-11-07 |
 | Odluka Ustavnog suda Crne Gore, U-II br. 30/11 | [`odluka/2012/337342/`](odluka/2012/337342/) | in force | 1 | 2012-11-10 | 2012-11-10 |
 | Odluka o izmjeni Odluke o načinu i uslovima korišćenja domena ispod Nacionalnog Internet domena Crne Gore ".me" | [`odluka/2012/337391/`](odluka/2012/337391/) | in force | 1 | 2012-10-31 | 2012-10-31 |
 | Odluka o prestanku važenja Odluke o utvrđivanju postupka kontrole namjenske potrošnje sredstava opredijeljenih klubovima poslanika za angažovanje sekretara i stručnih konsultanata klubova | [`odluka/2012/337740/`](odluka/2012/337740/) | in force | 1 | 2012-11-26 | 2012-11-26 |
@@ -5744,6 +5768,7 @@
 | Odluka o razrješenju i imenovanju predsjednika i članova Odbora za društvene djelatnosti | [`odluka/2012/338879/`](odluka/2012/338879/) | in force | 1 | 2012-03-19 | 2012-03-19 |
 | Odluka o izradi izmjena i dopuna Detaljnog urbanističkog plana "I faze Privredne zone" | [`odluka/2012/338891/`](odluka/2012/338891/) | amending act | 1 | 2012-04-07 | 2012-04-07 |
 | Odluka o davanju u zakup Doma kulture u Donjoj Lastvi | [`odluka/2012/338903/`](odluka/2012/338903/) | in force | 1 | 2012-04-07 | 2012-04-07 |
+| Odluka o razmjeni nepokretnosti | [`odluka/2012/338905/`](odluka/2012/338905/) | in force | 1 | 2012-04-07 | 2012-04-07 |
 | Odluka o davanju saglasnosti za brisanja tereta zabrane otuđenja i opterećenja upisanog na kat. 417/1, 417/4, 417/6, 417/7 i 460/1 KO Nikovići | [`odluka/2012/338916/`](odluka/2012/338916/) | in force | 1 | 2012-04-07 | 2012-04-07 |
 | Odluka o davanju saglasnosti za izdavanje poslovnog prostora Direkcije za saobraćaj, održavanje i izgradnju puteva na području Opštine Danilovgrad | [`odluka/2012/339156/`](odluka/2012/339156/) | in force | 1 | 2012-04-11 | 2012-04-11 |
 | Odluka o davanju saglasnosti na Statut Javnog preduzeća "Vodovod i kanalizacija" Danilovgrad | [`odluka/2012/339157/`](odluka/2012/339157/) | in force | 1 | 2012-04-11 | 2012-04-11 |
@@ -5793,6 +5818,8 @@
 | Odluka o nepreduzimanju izrade Strateške procjene uticaja na životnu sredinu za Detaljni urbanistički plan "Savina-od Šetališta do Ul. Save Kovačevića i Braće Grakalića" | [`odluka/2012/340543/`](odluka/2012/340543/) | in force | 1 | 2012-05-14 | 2012-05-14 |
 | Odluka o davanju saglasnosti na Odluku Upravnog odbora Javnog preduzeća " Vodovod i kanalizacija" Danilovgrad o imenovanju direktora preduzeća | [`odluka/2012/340684/`](odluka/2012/340684/) | in force | 1 | 2012-06-05 | 2012-06-05 |
 | Odluka o imenovanju Savjeta Javne ustanove Centar za kulturu Danilovgrad | [`odluka/2012/340685/`](odluka/2012/340685/) | in force | 1 | 2012-06-05 | 2012-06-05 |
+| Odluka o obustavljanju postupka izrade Detaljnog urbanističkog plana "Javorovača" - Žabljak | [`odluka/2012/340694/`](odluka/2012/340694/) | in force | 1 | 2012-05-28 | 2012-05-28 |
+| Odluka o obustavljanju postupka izrade Lokalne studije lokacije za područje Borje I | [`odluka/2012/340695/`](odluka/2012/340695/) | in force | 1 | 2012-05-28 | 2012-05-28 |
 | Odluka o izmjenama Odluke o davanju saglasnosti na bankarsku garanciju | [`odluka/2012/340707/`](odluka/2012/340707/) | in force | 1 | 2012-06-05 | 2012-06-05 |
 | Odluka o realizaciji saradnje i bratimljenja sa gradom Xi’an-om, Narodna Republika Kina | [`odluka/2012/340708/`](odluka/2012/340708/) | in force | 1 | 2012-06-13 | 2012-06-13 |
 | Odluka o realizaciji saradnje i bratimljenju sa gradom Delnice, Hrvatska | [`odluka/2012/340712/`](odluka/2012/340712/) | in force | 1 | 2012-06-01 | 2012-06-01 |
@@ -5834,6 +5861,7 @@
 | Odluka o davanju saglasnosti na Odluku upravnog odbora Javnog preduzeća "Vodovod i kanalizacija" Herceg Novi broj: 20/1-15 o raspolaganju imovinom | [`odluka/2012/341551/`](odluka/2012/341551/) | in force | 1 | 2012-01-17 | 2012-01-17 |
 | Odluka o imenovanju Komisije za rješavanje stambenih pitanja lica koja bira ili imenuje Skupština opštine i predsjednik Opštine | [`odluka/2012/341606/`](odluka/2012/341606/) | in force | 1 | 2012-01-17 | 2012-01-17 |
 | Odluka o izmjenama i dopunama Odluke o regulisanju saobraćaja na teritoriji Opštine Ulcinj | [`odluka/2012/341641/`](odluka/2012/341641/) | amending act | 1 | 2012-12-15 | 2012-12-15 |
+| Odluka o bratimljenju Opštine Budva (Crna Gora) i grada West Palm Beach (država Florida - SAD) | [`odluka/2012/341650/`](odluka/2012/341650/) | in force | 1 | 2012-01-25 | 2012-01-25 |
 | Odluka o opredjeljenju novčanih sredstava za izgradnju puta Bistrica - Đalovića klisura i seoskog vodovoda za naselje Bistricu | [`odluka/2012/341654/`](odluka/2012/341654/) | in force | 1 | 2012-11-21 | 2012-11-21 |
 | Odluka o preuzimanju obaveze Opštine Bijelo Polje za izmirenje dugovanja radnicima "Prve petoljetke" AD Bijelo Polje, na ime preuzimanja nepokretnosti vojnog skladišta Cerovo | [`odluka/2012/341655/`](odluka/2012/341655/) | in force | 1 | 2012-11-21 | 2012-11-21 |
 | Odluka o Izmjenama i dopunama Detaljnog urbanističkog plana "Novi grad 1 i 2" u Podgorici | [`odluka/2012/341671/`](odluka/2012/341671/) | amending act | 1 | 2012-12-08 | 2012-12-08 |
@@ -5848,6 +5876,7 @@
 | Odluka o privremenom skladištenju komunalnog otpada | [`odluka/2012/341725/`](odluka/2012/341725/) | in force | 1 | 2012-12-08 | 2012-12-08 |
 | Odluka o stavljanju van snage Odluke o izmjeni i dopuni Odluke o izradi Lokalne studije lokacije "LAPČIĆI" | [`odluka/2012/341756/`](odluka/2012/341756/) | amending act | 1 | 2012-01-25 | 2012-01-25 |
 | Odluka o osnivanju Omladinskog fudbalskog kluba "Petrovac" Petrovac | [`odluka/2012/341770/`](odluka/2012/341770/) | in force | 1 | 2012-10-09 | 2012-10-09 |
+| Odluka o korišćenju i naknadi za korišćenje putnog zemljišta pored opštinskih i nekategorisanih puteva | [`odluka/2012/341787/`](odluka/2012/341787/) | in force | 1 | 2012-11-06 | 2012-11-06 |
 | Odluka o donošenju Prostorno-urbanističkog plana Opštine Plužine do 2025. godine | [`odluka/2012/341788/`](odluka/2012/341788/) | in force | 1 | 2012-11-06 | 2012-11-06 |
 | Odluka o imenovanju Žirija za dodjelu nagrade Gradske opštine Tuzi za 2012. godinu | [`odluka/2012/341789/`](odluka/2012/341789/) | in force | 1 | 2012-10-04 | 2012-10-04 |
 | Odluka o davanju ovlašćenja predsjedniku Opštine | [`odluka/2012/341822/`](odluka/2012/341822/) | in force | 1 | 2012-10-09 | 2012-10-09 |
@@ -5855,6 +5884,7 @@
 | Odluka o razmjeni nepokretnosti, broj: 0101-634/1 | [`odluka/2012/341824/`](odluka/2012/341824/) | in force | 1 | 2012-10-09 | 2012-10-09 |
 | Odluka o imenovanju Komisije za dodjelu stipendije studentima i srednjoškolcima sa područja Gradske opštine Tuzi za školsku 2012/13 godinu | [`odluka/2012/341840/`](odluka/2012/341840/) | in force | 1 | 2012-10-04 | 2012-10-04 |
 | Odluka o nepreduzimanju izrade Strateške procjene uticaja na životnu sredinu za Izmjene i dopune Lokalne studije lokacije "Stari vinogradi" | [`odluka/2012/341842/`](odluka/2012/341842/) | amending act | 1 | 2012-10-08 | 2012-10-08 |
+| Odluka o dopuni Odluke o djelokrugu, organizaciji i načinu rada lokalne uprave Opštine Plav | [`odluka/2012/341853/`](odluka/2012/341853/) | amending act | 1 | 2012-11-21 | 2012-11-21 |
 | Odluka o donošenju Strateškog plana razvoja Opštine Tivat za period od 2012. - 2016. god. | [`odluka/2012/341854/`](odluka/2012/341854/) | in force | 1 | 2012-11-21 | 2012-11-21 |
 | Odluka o izmjeni i dopuni Odluke o organizovanju Javne ustanove "Sportska dvorana" u Tivtu | [`odluka/2012/341855/`](odluka/2012/341855/) | amending act | 1 | 2012-11-21 | 2012-11-21 |
 | Odluka o otkupu kat. par. 370/2 KO Nikovići | [`odluka/2012/341856/`](odluka/2012/341856/) | in force | 1 | 2012-11-21 | 2012-11-21 |
@@ -6504,12 +6534,15 @@
 | Odluka o dopuni Odluke o metodologiji za mjerenje rizika zemlje u bankama | [`odluka/2013/336911/`](odluka/2013/336911/) | amending act | 1 | 2013-11-09 | 2013-11-09 |
 | Odluka o izmjeni Odluke o minimalnim standardima za ulaganja banaka u nepokretnosti i osnovna sredstva | [`odluka/2013/336920/`](odluka/2013/336920/) | in force | 1 | 2013-11-09 | 2013-11-09 |
 | Odluka o raspisivanju izbora za Predśednika Crne Gore | [`odluka/2013/337026/`](odluka/2013/337026/) | in force | 1 | 2013-01-18 | 2013-01-18 |
+| Odluka o obrazovanju Počasnog odbora za obilježavanje 1700-godišnjice Milanskog edikta | [`odluka/2013/337101/`](odluka/2013/337101/) | in force | 1 | 2013-09-12 | 2013-09-12 |
 | Odluka o utvrđivanju oblika I sadržaja obrasca prijave koja se podnosi prije početka,prestanka ili izmjene režima korišćenja javnih elektronskih komunikacionih usluga | [`odluka/2013/337111/`](odluka/2013/337111/) | in force | 1 | 2013-10-22 | 2013-10-22 |
+| Odluka o izmjenama i dopunama Odluke o naknadama Agencije za nadzor osiguranja | [`odluka/2013/337118/`](odluka/2013/337118/) | amending act | 1 | 2013-07-25 | 2013-07-25 |
 | Odluka o visini stope za obračun redovne premije i načinu obračuna redovne premije za 2014. godinu | [`odluka/2013/337183/`](odluka/2013/337183/) | in force | 1 | 2013-12-07 | 2013-12-07 |
 | Odluka o visini doprinosa Garantnom fondu za 2013. godinu | [`odluka/2013/337297/`](odluka/2013/337297/) | in force | 1 | 2013-11-22 | 2013-11-22 |
 | Odluka o visini naknada za članove Odbora direktora Društva sa ograničenom odgovornošću "Crnogorski operator tržišta električne energije" - Podgorica | [`odluka/2013/337727/`](odluka/2013/337727/) | in force | 1 | 2014-01-04 | 2014-01-04 |
 | Odluka o davanju saglasnosti na Odluku KSJP "Budva" - Budva o kreditnom zaduženju | [`odluka/2013/338771/`](odluka/2013/338771/) | in force | 1 | 2013-03-30 | 2013-03-30 |
 | Odluka o izboru Odbora za izbor i imenovanja Skupštine opštine Andrijevica | [`odluka/2013/338784/`](odluka/2013/338784/) | in force | 1 | 2013-03-15 | 2013-03-15 |
+| Odluka o utvrđivanju javnog interesa | [`odluka/2013/338929/`](odluka/2013/338929/) | in force | 1 | 2013-03-30 | 2013-03-30 |
 | Odluka o davanju ovlašćenja predsjedniku Opštine za rješavanje imovinsko pravnih odnosa na urbanističkoj parceli 5.18h shodno DUP-u "Budva Centar" | [`odluka/2013/338939/`](odluka/2013/338939/) | in force | 1 | 2013-03-30 | 2013-03-30 |
 | Odluka o izmjeni Odluke o davanju ovlašćenja predsjedniku opštine za rješavanje stambenih potreba radnika putem kupovine pod povoljnijim uslovima ili putem zamjene stana broj 0101-578/1 od 30.12.2008.godine | [`odluka/2013/338948/`](odluka/2013/338948/) | in force | 1 | 2013-03-30 | 2013-03-30 |
 | Odluka o otkupu zemljišta radi kompletiranja urbanističke parcele | [`odluka/2013/339123/`](odluka/2013/339123/) | in force | 1 | 2013-04-06 | 2013-04-06 |
@@ -6519,6 +6552,8 @@
 | Odluka o donošenju Detaljnog urbanističkog plana Podi | [`odluka/2013/339136/`](odluka/2013/339136/) | in force | 1 | 2013-04-06 | 2013-04-06 |
 | Odluka o imenovanju Savjeta JU Centar za kulturu i sport Andrijevica | [`odluka/2013/339243/`](odluka/2013/339243/) | in force | 1 | 2013-04-08 | 2013-04-08 |
 | Odluka o raspodjeli novčanih sredstava za redovnu djelatnost mjesnih zajednica | [`odluka/2013/339244/`](odluka/2013/339244/) | in force | 1 | 2013-04-16 | 2013-04-16 |
+| Odluka o namjeni sredstava ustupljenih Opštini Mojkovac od Vlade Crne Gore | [`odluka/2013/339258/`](odluka/2013/339258/) | in force | 1 | 2013-03-20 | 2013-03-20 |
+| Odluka o imenovanju menadžera projekta "Sinjajevina" | [`odluka/2013/339259/`](odluka/2013/339259/) | in force | 1 | 2013-03-20 | 2013-03-20 |
 | Odluka o finansiranju rada gerontodomaćica | [`odluka/2013/339273/`](odluka/2013/339273/) | in force | 1 | 2013-04-16 | 2013-04-16 |
 | Odluka o izmjenama i dopunama Odluke o javnom prevozu u gradskom i prigradskom linijskom saobraćaju | [`odluka/2013/339274/`](odluka/2013/339274/) | amending act | 1 | 2013-04-16 | 2013-04-16 |
 | Odluka o izmjenama i dopunama Odluke o finansijskoj podršci bračnim parovima u ruralnim područjima | [`odluka/2013/339275/`](odluka/2013/339275/) | amending act | 1 | 2013-04-16 | 2013-04-16 |
@@ -6529,6 +6564,7 @@
 | Odluka o davanju garancije za kreditno zaduženje JP "Vodovod i Kanalizacija" Rožaje | [`odluka/2013/339294/`](odluka/2013/339294/) | in force | 1 | 2013-04-08 | 2013-04-08 |
 | Odluka oizradi Izmjena i dopuna Detaljnog urbanističkog plana - Urbanističkog projekta "Istorijsko jezgro" Cetinje, dio zone A1 - zona gradskog jezgra, zahvat Studentskog trga | [`odluka/2013/339306/`](odluka/2013/339306/) | amending act | 1 | 2013-04-16 | 2013-04-16 |
 | Odluka o imenovanju sekretara Skupštine opštine Andrijevica | [`odluka/2013/339314/`](odluka/2013/339314/) | in force | 1 | 2013-03-26 | 2013-03-26 |
+| Odluka o imenovanju članova Odbora za međuopštinsku i međunarodnu saradnju | [`odluka/2013/339316/`](odluka/2013/339316/) | in force | 1 | 2013-03-26 | 2013-03-26 |
 | Odluka o imenovanju članova Savjeta za zaštitu životne sredine | [`odluka/2013/339328/`](odluka/2013/339328/) | in force | 1 | 2013-03-26 | 2013-03-26 |
 | Odluka o izgradnji pomoćnih objekata na teritoriji Opštine Danilovgrad | [`odluka/2013/339329/`](odluka/2013/339329/) | in force | 1 | 2013-04-06 | 2013-04-06 |
 | Odluka o davanju na korišćenje bez naknade JP "Komunalno" Danilovgrad nepokretnosti u KO Danilovgrad | [`odluka/2013/339330/`](odluka/2013/339330/) | in force | 1 | 2013-04-06 | 2013-04-06 |
@@ -6560,6 +6596,7 @@
 | Odluka o davanju u zakup građevinskog zemljišta javnim nadmetanjem | [`odluka/2013/340321/`](odluka/2013/340321/) | in force | 1 | 2013-06-19 | 2013-06-19 |
 | Odluka o davanju saglasnosti na Program rada i Finansijski plan za 2013. godinu JP "Vodovod i kanalizacija" Kotor | [`odluka/2013/340322/`](odluka/2013/340322/) | in force | 1 | 2013-06-19 | 2013-06-19 |
 | Odluka o davanju saglasnosti na Program rada i Finansijski plan za 2013. godinu JKP "Kotor" Kotor | [`odluka/2013/340323/`](odluka/2013/340323/) | in force | 1 | 2013-06-19 | 2013-06-19 |
+| Odluka o Finansijskom planu Gradske opštine Tuzi za 2013. godinu | [`odluka/2013/340324/`](odluka/2013/340324/) | in force | 1 | 2013-06-19 | 2013-06-19 |
 | Odluka o donošenju Lokalnog Plana za unapređenje socijalne inkluzije/razvoj socijalnih usluga- servisa | [`odluka/2013/340336/`](odluka/2013/340336/) | in force | 1 | 2013-05-28 | 2013-05-28 |
 | Odluka o izmjeni Odluke o boravišnoj taksi | [`odluka/2013/340498/`](odluka/2013/340498/) | in force | 1 | 2013-06-19 | 2013-06-19 |
 | Odluka o izmjeni Odluke o visini, načinu obračunavanja i plaćanja doprinosa Turističkim organizacijama | [`odluka/2013/340499/`](odluka/2013/340499/) | in force | 1 | 2013-06-19 | 2013-06-19 |
@@ -6610,6 +6647,7 @@
 | Odluka o donošenju Detaljnog urbanističkog plana Kumbor | [`odluka/2013/341686/`](odluka/2013/341686/) | in force | 1 | 2013-12-14 | 2013-12-14 |
 | Odluka o pokretanju postupka za davanje u zakup parking prostora u garaži zgrade Opštine | [`odluka/2013/341704/`](odluka/2013/341704/) | in force | 1 | 2013-11-23 | 2013-11-23 |
 | Odluka o pokretanju postupka zamjene nepokretnosti | [`odluka/2013/341705/`](odluka/2013/341705/) | in force | 1 | 2013-11-23 | 2013-11-23 |
+| Odluka o izmjeni i dopuni Odluke o imenovanju Opštinske izborne komisije | [`odluka/2013/341706/`](odluka/2013/341706/) | amending act | 1 | 2013-11-06 | 2013-11-06 |
 | Odluka o izmjenama i dopunama Odluke o privremenim objektima | [`odluka/2013/341748/`](odluka/2013/341748/) | amending act | 1 | 2013-07-19 | 2013-07-19 |
 | Odluka o produženju primjene plana postavljanja privremenih objekata na teritoriji Opštine Budva za 2012. godinu | [`odluka/2013/341758/`](odluka/2013/341758/) | in force | 1 | 2013-01-19 | 2013-01-19 |
 | Odluka o utvrđivanju broja odbornika u Skupštini opštine Šavnik | [`odluka/2013/341771/`](odluka/2013/341771/) | in force | 1 | 2013-10-23 | 2013-10-23 |
@@ -6619,6 +6657,7 @@
 | Odluka o prestanku važenja Odluke o naknadi za privremeno korišćenje zemljišta i javnih površina na teritoriji Opštine Herceg Novi | [`odluka/2013/341865/`](odluka/2013/341865/) | in force | 1 | 2013-01-19 | 2013-01-19 |
 | Odluka o donošenju Izmjena i dopuna Urbanističkog projekta Stari grad | [`odluka/2013/341867/`](odluka/2013/341867/) | amending act | 1 | 2013-01-19 | 2013-01-19 |
 | Odluka o izmjenama i dopunama Odluke o naknadama za rad i drugim primanjima odbornika i lica koje bira - imenuje Skupština opštine | [`odluka/2013/341919/`](odluka/2013/341919/) | amending act | 1 | 2013-01-19 | 2013-01-19 |
+| Odluka o razmjeni nepokretnosti | [`odluka/2013/341920/`](odluka/2013/341920/) | in force | 1 | 2013-01-19 | 2013-01-19 |
 | Odluka o izmjenama i dopunama Odluke o rješavanju stambenih pitanja lica u stanju socijalne potrebe | [`odluka/2013/341950/`](odluka/2013/341950/) | amending act | 1 | 2013-11-16 | 2013-11-16 |
 | Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele 16 u zahvatu LSL "Podbabac- Markićevići" | [`odluka/2013/341954/`](odluka/2013/341954/) | in force | 1 | 2013-11-23 | 2013-11-23 |
 | Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele 31 u skladu sa DUP-om Perazića Do | [`odluka/2013/341955/`](odluka/2013/341955/) | in force | 1 | 2013-11-23 | 2013-11-23 |
@@ -6634,6 +6673,7 @@
 | Odluka o davanju saglasnosti na Odluku Savjeta JU "Centar za kulturu i sport" Andrijevica o imenovanju VD direktora | [`odluka/2013/342229/`](odluka/2013/342229/) | in force | 1 | 2013-10-15 | 2013-10-15 |
 | Odluka o uspostavljanju saradnje između grada Chifenga i Opštine Nikšić | [`odluka/2013/342235/`](odluka/2013/342235/) | in force | 1 | 2013-11-02 | 2013-11-02 |
 | Odluka o uspostavljanju saradnje između grada Đirone i Opštine Nikšić | [`odluka/2013/342236/`](odluka/2013/342236/) | in force | 1 | 2013-11-02 | 2013-11-02 |
+| Odluka o prestanku važenja Odluke o dodjeljivanju novčane nagrade dobitnicima diplome "Luča" | [`odluka/2013/342237/`](odluka/2013/342237/) | in force | 1 | 2013-11-02 | 2013-11-02 |
 | Odluka o davanju saglasnosti na izbor direktora JU "Lipa" - Plav | [`odluka/2013/342262/`](odluka/2013/342262/) | in force | 1 | 2013-12-07 | 2013-12-07 |
 | Odluka o imenovanju Savjeta za saradnju lokalne samouprave i nevladinih organizacije Opštine Plav | [`odluka/2013/342263/`](odluka/2013/342263/) | in force | 1 | 2013-12-07 | 2013-12-07 |
 | Odluka o dugoročnom zaduženju kreditom | [`odluka/2013/342264/`](odluka/2013/342264/) | in force | 1 | 2013-12-07 | 2013-12-07 |
@@ -7433,6 +7473,7 @@
 | Odluka o izradi izmjena i dopuna Državne studije lokacije "Sektor 32 | [`odluka/2014/335877/`](odluka/2014/335877/) | amending act | 1 | 2014-08-12 | 2014-08-12 |
 | Odluka o izmjenama Odluke o utvrđivanju broja radnih dozvola za strance za 2014. godinu | [`odluka/2014/335887/`](odluka/2014/335887/) | in force | 1 | 2014-09-13 | 2014-09-13 |
 | Odluka o izmjeni i dopunama Odluke o obrazovanju Radne grupe za pripremu pregovora o pristupanju Crne Gore Evropskoj Uniji za oblast pravne tekovine Evropske Unije koja se odnosi na Pregovaračko poglavlje 22 - regionalna politika i koordinacija strukturnih instrumenata | [`odluka/2014/336271/`](odluka/2014/336271/) | amending act | 1 | 2014-10-11 | 2014-10-11 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za izgradnju 35 KV dalekovoda za priključenje male hidroelektrane "Vrelo" na vodotoku Vrelo, na teritoriji Opštine Bijelo Polje | [`odluka/2014/336368/`](odluka/2014/336368/) | in force | 1 | 2014-09-13 | 2014-09-13 |
 | Odluka o otvaranju graničnih prelaza za međunarodni pomorski, vazdušnii željeznički saobraćaj | [`odluka/2014/336391/`](odluka/2014/336391/) | in force | 1 | 2014-01-29 | 2014-01-29 |
 | Odluka o izmjenama i dopunama Odluke o organizovanju Javne ustanove Kraljevsko pozorište Zetski dom | [`odluka/2014/336607/`](odluka/2014/336607/) | amending act | 1 | 2014-10-23 | 2014-10-23 |
 | Odluka o visini naknade za upis u Registar sorti i podloga sadnog materijala i Registar sorti poljoprivrednog bilja | [`odluka/2014/336608/`](odluka/2014/336608/) | in force | 1 | 2014-10-23 | 2014-10-23 |
@@ -7473,6 +7514,7 @@
 | Odluka o otkupu zemljišta radi dokompletiranja urbanističke parcele br. 11 u zoni "D" podzona 20 u zahvatu Izmjena i dopuna DUP-a "Ulcinjsko polje" | [`odluka/2014/339824/`](odluka/2014/339824/) | amending act | 1 | 2014-04-25 | 2014-04-25 |
 | Odluka o obrazovanju Savjeta za davanje predloga za nazive ulica, trgova i institucija Opštine Ulcinj | [`odluka/2014/339833/`](odluka/2014/339833/) | in force | 1 | 2014-03-22 | 2014-03-22 |
 | Odluka o obrazovanju Odbora za društvene djelatnosti predstavke i pritužbe Opštine Ulcinj | [`odluka/2014/339834/`](odluka/2014/339834/) | in force | 1 | 2014-03-22 | 2014-03-22 |
+| Odluka o obrazovanju Odbora za međuopštinsku i međunarodnu saradnju i saradnju sa dijasporom Opštine Ulcinj | [`odluka/2014/339845/`](odluka/2014/339845/) | in force | 1 | 2014-03-22 | 2014-03-22 |
 | Odluka o obrazovanju Odbora za planiranje i uređenje prostora komunalno stambenu djelatnost Opštine Ulcinj | [`odluka/2014/339846/`](odluka/2014/339846/) | in force | 1 | 2014-03-22 | 2014-03-22 |
 | Odluka o obrazovanju Odbora za rodnu ravnopravnost Opštine Ulcinj | [`odluka/2014/339847/`](odluka/2014/339847/) | in force | 1 | 2014-03-22 | 2014-03-22 |
 | Odluka o izradi Izmjena i dopuna DUP- a Industrijske zone i područja terminala | [`odluka/2014/339925/`](odluka/2014/339925/) | amending act | 1 | 2014-05-14 | 2014-05-14 |
@@ -7486,6 +7528,7 @@
 | Odluka o preduzimanju mjera zaštite javnog interesa u Javnom preduzeću "Komunalno" | [`odluka/2014/340141/`](odluka/2014/340141/) | in force | 1 | 2014-04-10 | 2014-04-10 |
 | Odluka o davanju saglasnosti na Odluku Odbora direktora DOO Vodovod "Bistrica" Bijelo Polje | [`odluka/2014/340142/`](odluka/2014/340142/) | in force | 1 | 2014-05-14 | 2014-05-14 |
 | Odluka o povjeravanju obavljanja komunalne djelatnosti upravljanja javnim prostorom za parkiranje na kat.parc. 21/1 i 21/2 K.O. Kotor I Javnom Komunalnom preduzeću "Kotor" -Kotor | [`odluka/2014/340147/`](odluka/2014/340147/) | in force | 1 | 2014-05-14 | 2014-05-14 |
+| Odluka o zaradama i drugim primanjima lokalnih funkcionera | [`odluka/2014/340149/`](odluka/2014/340149/) | in force | 1 | 2014-05-06 | 2014-05-06 |
 | Odluka o nepreduzimanju izrade Strateške procjene uticaja na životnu sredinu za izmjene i dopune detaljnog urbanističkog plana "Sutomore - centar" | [`odluka/2014/340151/`](odluka/2014/340151/) | amending act | 1 | 2014-04-28 | 2014-04-28 |
 | Odluka o prenosu prava korišćenja i upravljanja na "Planinarskom domu Cmiljača" Turističkoj organizaciji Opštine Bijelo Polje | [`odluka/2014/340153/`](odluka/2014/340153/) | in force | 1 | 2014-05-14 | 2014-05-14 |
 | Odluka o izmjeni i dopuni Odluke o izradi Lokalne studije lokacije "Prosjedi" | [`odluka/2014/340154/`](odluka/2014/340154/) | amending act | 1 | 2014-05-14 | 2014-05-14 |
@@ -7533,9 +7576,11 @@
 | Odluka o dopuni Plana postavljanja privremenih objekata za teritoriju Opštine Budva za period od 01.04.2013. do 31.12.2015. godine | [`odluka/2014/341134/`](odluka/2014/341134/) | amending act | 1 | 2014-01-22 | 2014-01-22 |
 | Odluka o davanju ovlašćenja predsjedniku opštine | [`odluka/2014/341135/`](odluka/2014/341135/) | in force | 1 | 2014-01-22 | 2014-01-22 |
 | Odluka o izmjeni i dopuni Odluke o organizaciji i načinu rada organa lokalne uprave Opštine Budva | [`odluka/2014/341154/`](odluka/2014/341154/) | amending act | 1 | 2014-07-17 | 2014-07-17 |
+| Odluka o davanju saglasnosti na Program rada JU Centar za kulturu "Nenad Rakočević" Mojkovac za 2014. godinu | [`odluka/2014/341157/`](odluka/2014/341157/) | in force | 1 | 2014-06-25 | 2014-06-25 |
 | Odluka o proglašenju zaštićenog prirodnog dobra spomenik prirode "Gornjepoljski vir" | [`odluka/2014/341160/`](odluka/2014/341160/) | in force | 1 | 2014-07-17 | 2014-07-17 |
 | Odluka o prenosu prava raspolaganja na građevinsko zemljište na Martinović Slobodana | [`odluka/2014/341162/`](odluka/2014/341162/) | in force | 1 | 2014-07-17 | 2014-07-17 |
 | Odluka o prenosu prava raspolaganja na građevinsko zemljište na Bugarski Ljeposavu | [`odluka/2014/341163/`](odluka/2014/341163/) | in force | 1 | 2014-07-17 | 2014-07-17 |
+| Odluka, broj: 22-030/14-642 | [`odluka/2014/341172/`](odluka/2014/341172/) | in force | 1 | 2014-06-25 | 2014-06-25 |
 | Odluka o izmjenama i dopunama Odluke o regulisanju saobraćaja na teritoriji Opštine Ulcinj | [`odluka/2014/341174/`](odluka/2014/341174/) | amending act | 1 | 2014-06-23 | 2014-06-23 |
 | Odluka o kupovini nepokretnosti-stambenog prostora | [`odluka/2014/341175/`](odluka/2014/341175/) | in force | 1 | 2014-07-09 | 2014-07-09 |
 | Odluka o prenosu prava raspolaganja na građevinsko zemljište na Pavićević Vidosavu | [`odluka/2014/341185/`](odluka/2014/341185/) | in force | 1 | 2014-07-17 | 2014-07-17 |
@@ -7591,6 +7636,7 @@
 | Odluka o izboru predsjednika i članova Odbora za planiranje, uređenje prostora i komunalno-stambenu djelatnost | [`odluka/2014/341909/`](odluka/2014/341909/) | in force | 1 | 2014-11-03 | 2014-11-03 |
 | Odluka o razmjeni nepokretnosti radi dokompletiranja urbanističke parcele | [`odluka/2014/341910/`](odluka/2014/341910/) | in force | 1 | 2014-12-06 | 2014-12-06 |
 | Odluka o utvrđivanju broja odbornika u Skupštini Opštine Ulcinj | [`odluka/2014/341922/`](odluka/2014/341922/) | in force | 1 | 2014-01-28 | 2014-01-28 |
+| Odluka o utvrđivanju visine otpremnine lokalnih službenika i namještenika Opštine Tivat | [`odluka/2014/341938/`](odluka/2014/341938/) | in force | 1 | 2014-11-19 | 2014-11-19 |
 | Odluka o davanju saglasnosti na Statut Društva sa ograničenom odgovornošću "Komunalno" Cetinje | [`odluka/2014/341939/`](odluka/2014/341939/) | in force | 1 | 2014-11-19 | 2014-11-19 |
 | Odluka o prodaji - prenosu prava svojine na nepokretnostima označenim kao PD 8, PD 9, PD 10 objekta 1 na kat. parc. 308 KO Kotor II | [`odluka/2014/341958/`](odluka/2014/341958/) | in force | 1 | 2014-12-06 | 2014-12-06 |
 | Odluka o izradi izmjena i dopuna Lokalne studije lokacije "S P A S" | [`odluka/2014/341961/`](odluka/2014/341961/) | amending act | 1 | 2014-09-02 | 2014-09-02 |
@@ -7601,6 +7647,7 @@
 | Odluka o davanju zemljišta na privremeno korišćenje | [`odluka/2014/341999/`](odluka/2014/341999/) | in force | 1 | 2014-11-22 | 2014-11-22 |
 | Odluka o usvajanju Akcionog plana za borbu protiv korupcije u Lokalnoj samoupravi Opšine Plav za period 2014-2015 godina | [`odluka/2014/342000/`](odluka/2014/342000/) | in force | 1 | 2014-11-22 | 2014-11-22 |
 | Odluka o izmjenama i dopunama Odluke o radnom vremenu | [`odluka/2014/342004/`](odluka/2014/342004/) | amending act | 1 | 2014-12-06 | 2014-12-06 |
+| Odluka o izmjenama i dopunama Odluke o korišćenju i naknadi za korišćenje puta i putnog zemljišta pored opštinskih i nekategorisanih puteva | [`odluka/2014/342005/`](odluka/2014/342005/) | amending act | 1 | 2014-12-06 | 2014-12-06 |
 | Odluka o prodaji pokretnih stvari | [`odluka/2014/342006/`](odluka/2014/342006/) | in force | 1 | 2014-11-29 | 2014-11-29 |
 | Odluka o davanju saglasnosti za imenovanje potpredsjednika Opštine | [`odluka/2014/342015/`](odluka/2014/342015/) | in force | 1 | 2014-09-03 | 2014-09-03 |
 | Odluka o prestanku važenja Odluke o izradi Strateške procjene uticaja na životnu sredinu Detaljnog urbanističkog plana Stara Varoš-centar | [`odluka/2014/342051/`](odluka/2014/342051/) | in force | 1 | 2014-12-06 | 2014-12-06 |
@@ -7624,6 +7671,8 @@
 | Odluka izmjeni dopuni Odluke o osnivanju Društva sa ograničenom odgovornošću "Komunalne djelatnosti" Plav | [`odluka/2014/342405/`](odluka/2014/342405/) | amending act | 1 | 2014-11-22 | 2014-11-22 |
 | Odluka o zatvaranju neuređenog odlagališta otpada "Ćafe" | [`odluka/2014/342415/`](odluka/2014/342415/) | in force | 1 | 2014-12-15 | 2014-12-15 |
 | Odluka o izmjenama Odluke o visini, načinu obračunavanja i plaćanja članskog doprinosa Turističkoj organizaciji Bijelo Polje | [`odluka/2014/342423/`](odluka/2014/342423/) | in force | 1 | 2014-12-26 | 2014-12-26 |
+| Odluka o potvrđivanju Odluke o razrješenju Upravnog odbora JP ’’Vodovod i kanalizacija’’ Rožaje | [`odluka/2014/342441/`](odluka/2014/342441/) | in force | 1 | 2014-12-18 | 2014-12-18 |
+| Odluka o potvrđivanju Odluke o davanju saglasnosti na odluku Odbora direktora DOO ’’Komunalno’’ Rožaje | [`odluka/2014/342442/`](odluka/2014/342442/) | in force | 1 | 2014-12-18 | 2014-12-18 |
 | Odluka o raspisivanju Javnog poziva za prenos prava svojine na građevinskom zemljištu | [`odluka/2014/342452/`](odluka/2014/342452/) | in force | 1 | 2014-11-22 | 2014-11-22 |
 | Odluka o davanju ovlašćenja predsjedniku opštine za potpisivanje Ugovora o osnivanju Društva sa ograničenom odgov-ornošću "Regionalni biznis centar" Berane | [`odluka/2014/342467/`](odluka/2014/342467/) | in force | 1 | 2014-12-26 | 2014-12-26 |
 | Odluka o oslobađanju plaćanja obaveza po osnovu poreza na nepokretnosti -poljoprivredno zemljište za 2014. godinu | [`odluka/2014/342468/`](odluka/2014/342468/) | in force | 1 | 2014-12-26 | 2014-12-26 |
@@ -8563,6 +8612,7 @@
 | Odluka o imenovanju Komisije za rješavanje stambenih pitanja lica u stanju socijalne potrebe | [`odluka/2015/338880/`](odluka/2015/338880/) | in force | 1 | 2015-04-04 | 2015-04-04 |
 | Odluka o davanju saglasnosti na prijedlog Ugovora o osnivanju Društva sa ograničenom odgovornošću ’’Regionalni biznis centar’’ Berane | [`odluka/2015/338881/`](odluka/2015/338881/) | in force | 1 | 2015-04-04 | 2015-04-04 |
 | Odluka o utvrđivanju visine novčane naknade pripadniku Vojske Crne Gore u Međunarodnoj misiji "RESOLUTE SUPPORT - (RS)" u Avganistanu | [`odluka/2015/338884/`](odluka/2015/338884/) | in force | 1 | 2015-03-07 | 2015-03-07 |
+| Odluka o izboru članova Savjeta za razvoj i zaštitu lokalne samouprave | [`odluka/2015/338906/`](odluka/2015/338906/) | in force | 1 | 2015-03-19 | 2015-03-19 |
 | Odluka o izmjenama i dopuni Odluke o uslovima, načinu i postupku za dodjelu nagrade Gradske opštine Golubovci | [`odluka/2015/338907/`](odluka/2015/338907/) | amending act | 1 | 2015-04-04 | 2015-04-04 |
 | Odluka o izmjenama Odluke o dodjeli stipendije Gradske opštine Golubovci svršenim srednjoškolcima i studentima | [`odluka/2015/338908/`](odluka/2015/338908/) | in force | 1 | 2015-04-04 | 2015-04-04 |
 | Odluka o izmjeni Odluke o podizanju spomen-obilježja žrtvama otmice iz voza | [`odluka/2015/338918/`](odluka/2015/338918/) | in force | 1 | 2015-04-04 | 2015-04-04 |
@@ -8592,6 +8642,7 @@
 | Odluka o izboru organa u MZ "Štoj" | [`odluka/2015/339428/`](odluka/2015/339428/) | in force | 1 | 2015-04-06 | 2015-04-06 |
 | Odluka o izboru organa u MZ "Zoganje" | [`odluka/2015/339429/`](odluka/2015/339429/) | in force | 1 | 2015-04-06 | 2015-04-06 |
 | Odluka o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave Opštine Herceg Novi | [`odluka/2015/339430/`](odluka/2015/339430/) | amending act | 1 | 2015-03-25 | 2015-03-25 |
+| Odluka o izboru Savjeta za razvoj i zaštitu lokalne samouprave | [`odluka/2015/339680/`](odluka/2015/339680/) | in force | 1 | 2015-04-16 | 2015-04-16 |
 | Odluka o donošenju Detaljnog urbanističkog plana "Mali logor" | [`odluka/2015/339681/`](odluka/2015/339681/) | in force | 1 | 2015-04-24 | 2015-04-24 |
 | Odluka o davanju saglasnosti na Odluku o razrješenju direktorke JU Narodna biblioteka "Stevan Samardžić" Pljevlja | [`odluka/2015/339682/`](odluka/2015/339682/) | in force | 1 | 2015-04-16 | 2015-04-16 |
 | Odluka o donošenju Programa razvoja kulture Glavnog grada - Podgorice za period 2015-2019. godine | [`odluka/2015/339696/`](odluka/2015/339696/) | in force | 1 | 2015-04-24 | 2015-04-24 |
@@ -8620,6 +8671,7 @@
 | Odluka o davanju saglasnosti na Odluka o kreditnom zaduženju DOO "Vodovod i kanalizacija" Herceg Novi | [`odluka/2015/340087/`](odluka/2015/340087/) | in force | 1 | 2015-05-08 | 2015-05-08 |
 | Odluka o davanju saglasnosti za opterećenje imovine hipotekom doo " Vodovod i kanalizacija" Herceg Novi | [`odluka/2015/340097/`](odluka/2015/340097/) | in force | 1 | 2015-05-08 | 2015-05-08 |
 | Odluka o izradi strateške procjene uticaja na životnu sredinu za Lokalnu studiju lokacije "PETROVIĆI" Zabrđe na Luštici | [`odluka/2015/340098/`](odluka/2015/340098/) | in force | 1 | 2015-04-28 | 2015-04-28 |
+| Odluka o utvrđivanju naknade za uređivanje građevinskog zemljišta | [`odluka/2015/340211/`](odluka/2015/340211/) | in force | 1 | 2015-05-02 | 2015-05-02 |
 | Odluka o prodaji zemljišta radi proširenja stubnih mjesta Crnogorskom Elektroprenosnom sistemu AD (kat. parc. 184/2, 184/3, 187/2 KO Škaljari II) | [`odluka/2015/340222/`](odluka/2015/340222/) | in force | 1 | 2015-05-02 | 2015-05-02 |
 | Odluka o izmjenama i dopunama Odluke o osnivanju Turističke organizacije Opštine Kotor | [`odluka/2015/340223/`](odluka/2015/340223/) | amending act | 1 | 2015-05-02 | 2015-05-02 |
 | Odluka ozaduživanju radi refinansiranja dugova i neizmirenih obaveza | [`odluka/2015/340230/`](odluka/2015/340230/) | in force | 1 | 2015-05-16 | 2015-05-16 |
@@ -8647,6 +8699,7 @@
 | Odluka o izmjeni Odluke o razmjeni nepokretnosti broj 0101-619/1 od 05.11.2013.godine | [`odluka/2015/340661/`](odluka/2015/340661/) | in force | 1 | 2015-06-09 | 2015-06-09 |
 | Odluka o potvrđivanju Ugovora o reprogramu poreskog duga opštine Bijelo Polje | [`odluka/2015/340709/`](odluka/2015/340709/) | in force | 1 | 2015-06-01 | 2015-06-01 |
 | Odluka o izmjeni i dopuni Odluke o radnom vremenu | [`odluka/2015/340757/`](odluka/2015/340757/) | amending act | 1 | 2015-06-16 | 2015-06-16 |
+| Odluka o imenovanju Savjeta Lokalnog javnog emitera Radio televizije Pljevlja | [`odluka/2015/340770/`](odluka/2015/340770/) | in force | 1 | 2015-06-08 | 2015-06-08 |
 | Odluka o davanju saglasnosti na Odluku o izboru izvršnog direktora Agencije za stambeno poslovni fond D.o.o. Pljevlja | [`odluka/2015/340771/`](odluka/2015/340771/) | in force | 1 | 2015-06-08 | 2015-06-08 |
 | Odluka o davanju saglasnosti na Odluku o izboru direktora JU Umjetnička galerija "Vitomir Srbljanović" Pljevlja | [`odluka/2015/340772/`](odluka/2015/340772/) | in force | 1 | 2015-06-08 | 2015-06-08 |
 | Odluka o davanju saglasnosti na Program rada i Finansijski plan Turističke organizacije Pljevlja za 2015. godinu | [`odluka/2015/340786/`](odluka/2015/340786/) | in force | 1 | 2015-06-08 | 2015-06-08 |
@@ -8695,15 +8748,18 @@
 | Odluka o davanju statusa spomen-obilježja spomen ploči na kući poginulim rodoljubima iz Čelobrda | [`odluka/2015/341443/`](odluka/2015/341443/) | in force | 1 | 2015-01-20 | 2015-01-20 |
 | Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele R7 u skladu sa LSL "Rađenovići" | [`odluka/2015/341444/`](odluka/2015/341444/) | in force | 1 | 2015-01-20 | 2015-01-20 |
 | Odluka o izmjenama i dopunama Odluke o radnom vremenu | [`odluka/2015/341470/`](odluka/2015/341470/) | amending act | 1 | 2015-01-20 | 2015-01-20 |
+| Odluka o razmjeni nepokretnosti | [`odluka/2015/341471/`](odluka/2015/341471/) | in force | 1 | 2015-01-20 | 2015-01-20 |
 | Odluka o stavljanju van snage odluke o razmjeni nepokretnosti broj 0101-637/1 od 18.09.2012.godine | [`odluka/2015/341497/`](odluka/2015/341497/) | in force | 1 | 2015-01-20 | 2015-01-20 |
 | Odluka o davanju na korišćenje nepokretnosti privrednom društvu a.d. Energomontaža | [`odluka/2015/341590/`](odluka/2015/341590/) | in force | 1 | 2015-10-23 | 2015-10-23 |
 | Odluka o davanju saglasnosti na razrešenje direktora JU Centra za kulturu, sport i medije Šavnik | [`odluka/2015/341591/`](odluka/2015/341591/) | in force | 1 | 2015-09-30 | 2015-09-30 |
 | Odluka o davanju saglasnosti na imenovanje v.d. direktora JU Centra za kulturu, sport i medije Šavnik | [`odluka/2015/341592/`](odluka/2015/341592/) | in force | 1 | 2015-09-30 | 2015-09-30 |
 | Odluka o Izmjeni Odluke o nepreduzimanju izrade Strateške procjene uticaja na životnu sredinu za urbanistički projekat za Katastarske parcele 689 I 732 K.O. Baošići u Baošićima | [`odluka/2015/341660/`](odluka/2015/341660/) | in force | 1 | 2015-10-10 | 2015-10-10 |
 | Odluka o nepreduzimanju izrade strateške procjene uticaja na životnu sredinu za urbanistički projekat za lokaciju kod petlje u Igalu | [`odluka/2015/341708/`](odluka/2015/341708/) | in force | 1 | 2015-10-10 | 2015-10-10 |
+| Odluka o zaduživanju Opštine Mojkovac | [`odluka/2015/341728/`](odluka/2015/341728/) | in force | 1 | 2015-10-15 | 2015-10-15 |
 | Odluka o izradi Izmjena i dopuna Lokalne studije lokacije "Rasadnik" | [`odluka/2015/341729/`](odluka/2015/341729/) | amending act | 1 | 2015-10-23 | 2015-10-23 |
 | Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Gradiošnica | [`odluka/2015/341730/`](odluka/2015/341730/) | in force | 1 | 2015-10-23 | 2015-10-23 |
 | Odluka o izmjenama Odluke o pristupanju Opštine Andrijevica osnivanju DOO Hydroslovan | [`odluka/2015/341775/`](odluka/2015/341775/) | in force | 1 | 2015-09-03 | 2015-09-03 |
+| Odluka o produženju roka zakupa | [`odluka/2015/341811/`](odluka/2015/341811/) | in force | 1 | 2015-08-18 | 2015-08-18 |
 | Odluka o izmjenama i dopunama Odluke o radnom vremenu | [`odluka/2015/341827/`](odluka/2015/341827/) | amending act | 1 | 2015-09-03 | 2015-09-03 |
 | Odluka o davanju saglasnosti na Rješenje predsjednika Opštine Kotor o prestanku mandata Glavnog administratora Opštine Kotor | [`odluka/2015/341879/`](odluka/2015/341879/) | in force | 1 | 2015-08-26 | 2015-08-26 |
 | Odluka o stavljanju van snage Odluke o uslovima i načinu određivanja naziva trgova i ulica i obilježavanja zgrada brojevima17 | [`odluka/2015/341880/`](odluka/2015/341880/) | in force | 1 | 2015-09-03 | 2015-09-03 |
@@ -8712,6 +8768,7 @@
 | Odluka o donošenju Detaljnog urbanističkog plana "Danilovgrad Centar" | [`odluka/2015/341967/`](odluka/2015/341967/) | in force | 1 | 2015-08-22 | 2015-08-22 |
 | Odluka o pristupanju izradi LSL za kat.parcelu br.775/1,776/1 i 776/2 KO Berane | [`odluka/2015/341990/`](odluka/2015/341990/) | in force | 1 | 2015-07-28 | 2015-07-28 |
 | Odluka o izmjenama Odluke o vodosnadbijevanju, tretmanu i odvođenju otpadnih voda na području opštine Žabljak | [`odluka/2015/342022/`](odluka/2015/342022/) | in force | 1 | 2015-01-24 | 2015-01-24 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi regulisanja protivpožarnog prilaza za zgradu za kolektivno stanovanje | [`odluka/2015/342039/`](odluka/2015/342039/) | in force | 1 | 2015-09-16 | 2015-09-16 |
 | Odluka o zaštiti turističkog područja " Hajla-Štedim" | [`odluka/2015/342040/`](odluka/2015/342040/) | in force | 1 | 2015-09-16 | 2015-09-16 |
 | Odluka o utvrđivanju visine otpremnine lokalnih službenika i namještenika Opštine Nikšić | [`odluka/2015/342060/`](odluka/2015/342060/) | in force | 1 | 2015-07-18 | 2015-07-18 |
 | Odluka o izmjenama Odluke o opštinskim i nekategorisanim putevima | [`odluka/2015/342067/`](odluka/2015/342067/) | in force | 1 | 2015-01-24 | 2015-01-24 |
@@ -8737,6 +8794,7 @@
 | Odluka o razrješenju jednog člana Izborne komisije Prijestonice | [`odluka/2015/342394/`](odluka/2015/342394/) | in force | 1 | 2015-07-31 | 2015-07-31 |
 | Odluka o prestanku važenja Odluke o zajedničkom organizovanju poslova odlaganja komunalnog otpada za opštine Nikšić, Šavnik i Plužine | [`odluka/2015/342444/`](odluka/2015/342444/) | in force | 1 | 2015-10-31 | 2015-10-31 |
 | Odluka o dopunama Programa uredjenja prostora Opštine Nikšić za 2015.godinu | [`odluka/2015/342445/`](odluka/2015/342445/) | amending act | 1 | 2015-10-31 | 2015-10-31 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za komunalno opremanje građevinskog zemljišta | [`odluka/2015/342447/`](odluka/2015/342447/) | amending act | 1 | 2015-10-31 | 2015-10-31 |
 | Odluka o određivanju lokacije za izgradnju transfer stanice komunalnog otpada u opštini Plužine | [`odluka/2015/342448/`](odluka/2015/342448/) | in force | 1 | 2015-10-12 | 2015-10-12 |
 | Odluka o davanju na korišćenje poslovnih prostora Javnoj ustanovi "Centru za socijalni rad za opštine Nikšić, Plužine i Šavnik" | [`odluka/2015/342489/`](odluka/2015/342489/) | in force | 1 | 2015-10-31 | 2015-10-31 |
 | Odluka o ustupanju na privremeno upravljanje i korišćenje dijela prostorija Doma Mjesne zajednice u Kočanima i Doma omladine u Kličevu Ministarstvu prosvjete Crne Gore za potrebe proširenja djelatnosti Javne predškolske ustanove "Dragan Kovačević" Nikšić | [`odluka/2015/342490/`](odluka/2015/342490/) | in force | 1 | 2015-10-31 | 2015-10-31 |
@@ -9753,10 +9811,12 @@
 | Odluka o utvrđivanju visine otpremine lokalnih službenik i namještenika opštine Andrijevica | [`odluka/2016/339172/`](odluka/2016/339172/) | in force | 1 | 2016-03-18 | 2016-03-18 |
 | Odluka o rodnoj ravnopravnosti | [`odluka/2016/339173/`](odluka/2016/339173/) | in force | 1 | 2016-03-18 | 2016-03-18 |
 | Odluka o izmjeni Odluke o visini, načinu obračunavanja i plaćanja doprinosa Turističkim organizacijama | [`odluka/2016/339215/`](odluka/2016/339215/) | in force | 1 | 2016-03-18 | 2016-03-18 |
+| Odluka o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Agencija za projektova nje i razvoj" | [`odluka/2016/339218/`](odluka/2016/339218/) | in force | 1 | 2016-03-18 | 2016-03-18 |
 | Odluka o Budžetu opštine Andrijevica 2016. god. | [`odluka/2016/339297/`](odluka/2016/339297/) | in force | 1 | 2016-03-18 | 2016-03-18 |
 | Odluka o Lokalnoj studiji lokacije "Mojanska rijeka " u Andrijevici | [`odluka/2016/339298/`](odluka/2016/339298/) | in force | 1 | 2016-03-18 | 2016-03-18 |
 | Odluka o izmjeni Odluke o naseljima granicama naselja Opštine Kotor | [`odluka/2016/339442/`](odluka/2016/339442/) | in force | 1 | 2016-03-11 | 2016-03-11 |
 | Odluka o naseljima i granicama naselja na teritoriji Glavnog grada | [`odluka/2016/339453/`](odluka/2016/339453/) | in force | 1 | 2016-03-11 | 2016-03-11 |
+| Odluka o Finansijskom planu Gradske opštine Tuzi za 2016. godinu | [`odluka/2016/339454/`](odluka/2016/339454/) | in force | 1 | 2016-03-11 | 2016-03-11 |
 | Odluka o izmjeni Odluke o izradi Urbanističkog projekta"Turistička zona Lepetane" | [`odluka/2016/339455/`](odluka/2016/339455/) | in force | 1 | 2016-03-11 | 2016-03-11 |
 | Odluka o izmjeni Odluke o izradi Urbanističkog projekta "Dubovica" | [`odluka/2016/339712/`](odluka/2016/339712/) | in force | 1 | 2016-03-26 | 2016-03-26 |
 | Odluka o davanju saglasnosti na Odluka Odbora direktora Društva sa ograničenom odgovornošću "Zelenilo" - Podgorica o ustupanju na privremeno korišćenje zemljišta | [`odluka/2016/339714/`](odluka/2016/339714/) | in force | 1 | 2016-03-26 | 2016-03-26 |
@@ -9773,6 +9833,7 @@
 | Odluka o donošenju Elaborata o parking zonama, dozvoljenom vremenu parkiranja, kategoriji motornih vozila koja se mogu parkirati i načinu naplate naknade za parkiranje na opštim i posebnim parkiralištima u Podgorici - dio grada preko Morače | [`odluka/2016/339884/`](odluka/2016/339884/) | in force | 1 | 2016-03-26 | 2016-03-26 |
 | Odluka o donošenju Elaborata o parking zonama, dozvoljenom vremenu parkiranja, kategoriji motornih vozila koja se mogu parkirati i načinu naplate naknade za parkiranje na opštim i posebnim parkiralištima u Podgorici - dio grada pored rijeke Ribnice, dio grada od Stare varoši do Željezničke stanice i Ljubović | [`odluka/2016/339892/`](odluka/2016/339892/) | in force | 1 | 2016-03-26 | 2016-03-26 |
 | Odluka o davanju ovlašćenja za pokretanje postupka i realizacije uklanjanja objekta na katastarskoj parceli br. 4569/1 K.O. Cetinje I, DUP "Gruda-Donje polje (Zona D)" | [`odluka/2016/339901/`](odluka/2016/339901/) | in force | 1 | 2016-03-18 | 2016-03-18 |
+| Odluka o načinu i postupku učešća lokalnog stanovništva u vršenju javnih poslova | [`odluka/2016/339916/`](odluka/2016/339916/) | in force | 1 | 2016-03-18 | 2016-03-18 |
 | Odluka o obrazovanju Komisije za izradu Nacrta Odluke o izmjenama i dopunama Statuta opštine Rožaje | [`odluka/2016/339917/`](odluka/2016/339917/) | amending act | 1 | 2016-03-18 | 2016-03-18 |
 | Odluka o potvrđivanju Odluke o davanju u zakup nepokretnosti | [`odluka/2016/339930/`](odluka/2016/339930/) | in force | 1 | 2016-04-08 | 2016-04-08 |
 | Odluka o prenosu prava na građevinskom zemljištu na Jovović Milana | [`odluka/2016/339931/`](odluka/2016/339931/) | in force | 1 | 2016-03-24 | 2016-03-24 |
@@ -9781,6 +9842,7 @@
 | Odluka o razrešenju predstavnika ispred Skupštine opštine Žabljak u Skupštinu Turističke organizacije | [`odluka/2016/339945/`](odluka/2016/339945/) | in force | 1 | 2016-03-31 | 2016-03-31 |
 | Odluka o bratimljenju Prijestonice Cetinje i Grada Gaete | [`odluka/2016/339946/`](odluka/2016/339946/) | in force | 1 | 2016-04-08 | 2016-04-08 |
 | Odluka o imenovanju predsjednika Etičke komisije za lokalne službenike i namještenike | [`odluka/2016/339947/`](odluka/2016/339947/) | in force | 1 | 2016-04-08 | 2016-04-08 |
+| Odluka o razrješenju dva člana Odbora direktora d.o.o "Sportski centar Cetinje" | [`odluka/2016/339958/`](odluka/2016/339958/) | in force | 1 | 2016-03-31 | 2016-03-31 |
 | Odluka o pristupanji izradi Detaljnog urbanističkog plana "Groblje" | [`odluka/2016/340013/`](odluka/2016/340013/) | in force | 1 | 2016-01-26 | 2016-01-26 |
 | Odluka o pristupanji izradi Detaljnog urbanističkog plana "Luge"-druga faza realizacije | [`odluka/2016/340027/`](odluka/2016/340027/) | in force | 1 | 2016-01-26 | 2016-01-26 |
 | Odluka o davanju saglasnosti na Program rada i Finansijski plan Turističke organizacije Pljevlja za 2016. godinu | [`odluka/2016/340028/`](odluka/2016/340028/) | in force | 1 | 2016-03-28 | 2016-03-28 |
@@ -9795,6 +9857,7 @@
 | Odluka o izmjenama i dopunama Odluke o imenovanju Savjeta za razvoj i zaštitu lokalne samouprave | [`odluka/2016/340361/`](odluka/2016/340361/) | amending act | 1 | 2016-04-13 | 2016-04-13 |
 | Odluka o razrješenju i imenovanju predsjednika i člana Upravnog odbora Javne ustanove Centar za djecu i mlade sa smetnjama u razvoju "Tisa" | [`odluka/2016/340545/`](odluka/2016/340545/) | in force | 1 | 2016-04-04 | 2016-04-04 |
 | Odluka o razrješenju i imenovanju člana i predsjednika Odbora direktora DOO "Komunalno-Lim" Bijelo Polje | [`odluka/2016/340546/`](odluka/2016/340546/) | in force | 1 | 2016-04-04 | 2016-04-04 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za komunalno opremanje građevinskog zemljišta | [`odluka/2016/340547/`](odluka/2016/340547/) | amending act | 1 | 2016-04-05 | 2016-04-05 |
 | Odluka o imenovanju Komisije za dodjelu studentske nagrade za 2016. godinu | [`odluka/2016/340558/`](odluka/2016/340558/) | in force | 1 | 2016-04-13 | 2016-04-13 |
 | Odluka o produženju važenja Plana davanja koncesija za eksploataciju vode za uzgoj ribe u komercijalne svrhe na području opštine Kolašin | [`odluka/2016/340598/`](odluka/2016/340598/) | in force | 1 | 2016-04-21 | 2016-04-21 |
 | Odluka o izmjenama i dopunama Odluke o imenovanju odbora za izbor i imenovanja Skupštine opštine Pljevlja | [`odluka/2016/340609/`](odluka/2016/340609/) | amending act | 1 | 2016-04-21 | 2016-04-21 |
@@ -9808,17 +9871,28 @@
 | Odluka o razrješenju Upravnog odbora JP "Vodovod i kanalizacija" Ulcinj | [`odluka/2016/340848/`](odluka/2016/340848/) | in force | 1 | 2016-03-30 | 2016-03-30 |
 | Odluka o razrješenju Savjeta za davanje predloga za naziva naselja, ulica, trgova i institucija Opštine Ulcinj | [`odluka/2016/340849/`](odluka/2016/340849/) | in force | 1 | 2016-03-30 | 2016-03-30 |
 | Odluka o davanju saglasnosti na Odluku Odbora direktora DOO "Komunalno-Lim" Bijelo Polje o izmjenama i dopunama Odluke o utvrđivanju cijena komunalnih usluga koje pruža DOO "Komunalno-Lim" na području Opštine Bijelo Polje | [`odluka/2016/340851/`](odluka/2016/340851/) | amending act | 1 | 2016-05-06 | 2016-05-06 |
+| Odluka o obrazovanju odbora za finansije, privredu i razvoj Opštine Ulcinj | [`odluka/2016/340860/`](odluka/2016/340860/) | in force | 1 | 2016-03-30 | 2016-03-30 |
+| Odluka o obrazovanju Odbora za planiranje i uređenje prostora komunalno stambenu djelatnost Opštine Ulcinj | [`odluka/2016/340861/`](odluka/2016/340861/) | in force | 1 | 2016-03-30 | 2016-03-30 |
+| Odluka o obrazovanju odbora za rodnu ravnopravnost Opštine Ulcinj | [`odluka/2016/340862/`](odluka/2016/340862/) | in force | 1 | 2016-03-30 | 2016-03-30 |
 | Odluka o razrješenju i imenovanju predsjednika i člana Savjeta Javne ustanove Centar za kulturu | [`odluka/2016/340864/`](odluka/2016/340864/) | in force | 1 | 2016-04-11 | 2016-04-11 |
 | Odluka o razrješenju i imenovanju predsjednika Odbora direktora Društva sa ograničenom odgovornošću ,,Komunalno,, Danilovgrad | [`odluka/2016/340865/`](odluka/2016/340865/) | in force | 1 | 2016-04-11 | 2016-04-11 |
 | Odluka o razrješenju i izboru predsjednika i člana Odbora za društvene djelatnosti | [`odluka/2016/340866/`](odluka/2016/340866/) | in force | 1 | 2016-04-12 | 2016-04-12 |
+| Odluka o obrazovanju savjeta za zaštitu životne sredine Opštine Ulcinj | [`odluka/2016/340874/`](odluka/2016/340874/) | in force | 1 | 2016-03-30 | 2016-03-30 |
+| Odluka o određivanju odbornika koji prisustvuje sklapanju braka | [`odluka/2016/340875/`](odluka/2016/340875/) | in force | 1 | 2016-04-28 | 2016-04-28 |
 | Odluka o razrešenju odbornika koji prisustvuju sklapanju braka | [`odluka/2016/340876/`](odluka/2016/340876/) | in force | 1 | 2016-04-28 | 2016-04-28 |
 | Odluka o izmjeni i dopuni Odluke o stipendiranju studenata | [`odluka/2016/340877/`](odluka/2016/340877/) | amending act | 1 | 2016-05-06 | 2016-05-06 |
 | Odluka o davanju Saglasnosti na Odluku o izboru direktora JU Centar za kulturu Plužine | [`odluka/2016/340878/`](odluka/2016/340878/) | in force | 1 | 2016-04-11 | 2016-04-11 |
+| Odluka o obrazovanju Savjeta za davanje predloga za nazive ulica, trgova i institucija Opštine Ulcinj | [`odluka/2016/340947/`](odluka/2016/340947/) | in force | 1 | 2016-03-30 | 2016-03-30 |
+| Odluka o obrazovanju Odbora za izbor i imenovanja Opštine Ulcinj | [`odluka/2016/340957/`](odluka/2016/340957/) | in force | 1 | 2016-03-30 | 2016-03-30 |
 | Odluka o potvrđivanju Odluke o donošenju Izmjena i dopuna Detaljnog urbanističkog plana "Ulcinjsko Polje" u okviru zone B podzone 7 i 9 za urbanističke parcele broj 50, 51, 59, 60, 61, 62, 63, 64, 65, 66, 67, 7, 8, 9, 10, 11, 12, 13, 14, bulevara od raskrsnice kod JP Vodovod i kanalizacija do novog mosta na Port Mileni i u okviru Zone B podzone 3 za urbanističke parcele broj 9, 10, 11 i 12 u Ulcinju | [`odluka/2016/340958/`](odluka/2016/340958/) | amending act | 1 | 2016-04-28 | 2016-04-28 |
 | Odluka o razrješenju Odbora za planiranje i uredjenje prostora i komunalno stambenu djelatnost Opštine Ulcinj | [`odluka/2016/340969/`](odluka/2016/340969/) | in force | 1 | 2016-03-30 | 2016-03-30 |
 | Odluka o razrješenju Odbora za statut i propise Opštine Ulcinj | [`odluka/2016/340970/`](odluka/2016/340970/) | in force | 1 | 2016-03-30 | 2016-03-30 |
+| Odluka o obrazovanju Odbora za društvene djelatnosti predstavke i pritužbe Opštine Ulcinj | [`odluka/2016/340971/`](odluka/2016/340971/) | in force | 1 | 2016-03-30 | 2016-03-30 |
+| Odluka o obrazovanju Odbora za međuopštinsku i međunarodnu saradnju i saradnju sa dijasporom Opštine Ulcinj | [`odluka/2016/340983/`](odluka/2016/340983/) | in force | 1 | 2016-03-30 | 2016-03-30 |
 | Odluka o razrješenju Odbora za finansije privredu i razvoj Opštine Ulcinj | [`odluka/2016/340984/`](odluka/2016/340984/) | in force | 1 | 2016-03-30 | 2016-03-30 |
+| Odluka o obrazovanju odbora za statut i propise Opštine Ulcinj | [`odluka/2016/340985/`](odluka/2016/340985/) | in force | 1 | 2016-03-30 | 2016-03-30 |
 | Odluka o produženju primjene plana postavljanja privremenih objekata za teritoriju Opštine Budva za period od 01.04.2013. do 31.12.2015. godine | [`odluka/2016/341011/`](odluka/2016/341011/) | in force | 1 | 2016-04-01 | 2016-04-01 |
+| Odluka o davanju saglasnosti na Odluku Odbora direktora DOO Vodovod ‘’Bistrica’’ Bijelo Polje | [`odluka/2016/341012/`](odluka/2016/341012/) | in force | 1 | 2016-05-06 | 2016-05-06 |
 | Odluka o davanju saglasnosti na Odluku Odbora direktora DOO Vodovod ‘’Bistrica’’ Bijelo Polje | [`odluka/2016/341013/`](odluka/2016/341013/) | in force | 1 | 2016-05-06 | 2016-05-06 |
 | Odluka o davanju saglasnosti na Odluku Odbora direktora DOO Vodovod ‘’Bistrica’’ Bijelo Polje | [`odluka/2016/341026/`](odluka/2016/341026/) | in force | 1 | 2016-05-06 | 2016-05-06 |
 | Odluka o donošenju Plana zaštite i spašavanja od požara | [`odluka/2016/341027/`](odluka/2016/341027/) | in force | 1 | 2016-05-06 | 2016-05-06 |
@@ -9849,6 +9923,7 @@
 | Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za potrebe rekonstrukcije Gradskog vodovoda "Krkori" sa hlorinarnicom | [`odluka/2016/341554/`](odluka/2016/341554/) | in force | 1 | 2016-01-22 | 2016-01-22 |
 | Odluka o produženju primjene plana postavljanja privremenih objekata za teritoriju Opštine Budva za period od 01.04.2013. do 31.12.2015. godine | [`odluka/2016/341555/`](odluka/2016/341555/) | in force | 1 | 2016-01-22 | 2016-01-22 |
 | Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele br.71 u skladu sa DUP-om " Pržno-Kamenovo I (dio Pržno-Podličak)" | [`odluka/2016/341607/`](odluka/2016/341607/) | in force | 1 | 2016-01-22 | 2016-01-22 |
+| Odluka o razmjeni nepokretnosti | [`odluka/2016/341608/`](odluka/2016/341608/) | in force | 1 | 2016-01-22 | 2016-01-22 |
 | Odluka o izmjeni i dopunama Odluke o uređivanju i održavanju zelenih površina | [`odluka/2016/341625/`](odluka/2016/341625/) | amending act | 1 | 2016-08-09 | 2016-08-09 |
 | Odluka o dopuni Odluke o pijacama | [`odluka/2016/341626/`](odluka/2016/341626/) | amending act | 1 | 2016-08-09 | 2016-08-09 |
 | Odluka o izmjenama Odluke o obrazovanju Odbora za finansije, privredu i razvoj Skupštine opštine Ulcinj | [`odluka/2016/341635/`](odluka/2016/341635/) | in force | 1 | 2016-07-25 | 2016-07-25 |
@@ -9868,12 +9943,15 @@
 | Odluka o prenosu prava na građevinskom zemljištu na Goranović Nikolu | [`odluka/2016/342049/`](odluka/2016/342049/) | in force | 1 | 2016-07-07 | 2016-07-07 |
 | Odluka o prenosu prava na građevinskom zemljištu na Goranović Đorđija | [`odluka/2016/342050/`](odluka/2016/342050/) | in force | 1 | 2016-07-07 | 2016-07-07 |
 | Odluka o raspodjeli ostvarene dobiti "Zelenilo" d.o.o. Podgorica u 2015. godini | [`odluka/2016/342062/`](odluka/2016/342062/) | in force | 1 | 2016-05-17 | 2016-05-17 |
+| Odluka o priznavanju naknade za komunalno opremanje građevinskog zemljišta investitorima koji su izvršili avansno plaćanje naknade za uređivanje građevinskog zemljišta | [`odluka/2016/342081/`](odluka/2016/342081/) | in force | 1 | 2016-07-09 | 2016-07-09 |
 | Odluka o ustupanju na privremeno upravljanje i korišćenje dijela prostorija Doma Mjesne zajednice u Bistrici Ministarstvu prosvjete Crne Gore za potrebe proširenja djelatnosti Javne predškolske ustanove "Dragan Kovačević" Nikšić | [`odluka/2016/342082/`](odluka/2016/342082/) | in force | 1 | 2016-07-09 | 2016-07-09 |
 | Odluka o dopuni Odluke o donošenju Plana privremenih objekata na teritoriji opštine Kotor | [`odluka/2016/342086/`](odluka/2016/342086/) | amending act | 1 | 2016-07-19 | 2016-07-19 |
+| Odluka o imenovanju članova Upravnog odbora Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju | [`odluka/2016/342087/`](odluka/2016/342087/) | in force | 1 | 2016-07-11 | 2016-07-11 |
 | Odluka o ustupanju nepokretnostu na korišćenje i upravljanje DOO,, Jela komerc" | [`odluka/2016/342088/`](odluka/2016/342088/) | in force | 1 | 2016-07-19 | 2016-07-19 |
 | Odluka o prenosu prava na građevinskom zemljištu na Vojinović Rada | [`odluka/2016/342094/`](odluka/2016/342094/) | in force | 1 | 2016-07-07 | 2016-07-07 |
 | Odluka o izmjenama i dopunama Odluke o boravišnoj taksi Opštine Žabljak | [`odluka/2016/342095/`](odluka/2016/342095/) | amending act | 1 | 2016-08-03 | 2016-08-03 |
 | Odluka o davanju na korišćenje poslovnih prostora Javnoj zdravstvenoj ustanovi "Dom zdravlja Nikšić" | [`odluka/2016/342130/`](odluka/2016/342130/) | in force | 1 | 2016-07-09 | 2016-07-09 |
+| Odluka o ustupanju nepokretnosti na korišćenje | [`odluka/2016/342134/`](odluka/2016/342134/) | in force | 1 | 2016-07-19 | 2016-07-19 |
 | Odluka o dopuni plana privremenih objekata | [`odluka/2016/342135/`](odluka/2016/342135/) | amending act | 1 | 2016-07-19 | 2016-07-19 |
 | Odluka o izmjeni Odluke o izradi izmjena i dopuna Detaljnog urbanističkog plana "Nova Varoš 2" u Podgorici | [`odluka/2016/342143/`](odluka/2016/342143/) | amending act | 1 | 2016-08-03 | 2016-08-03 |
 | Odluka o izmjenama i dopunama Odluke o kućnom redu u stambenim zgradama | [`odluka/2016/342182/`](odluka/2016/342182/) | amending act | 1 | 2016-07-19 | 2016-07-19 |
@@ -9891,6 +9969,7 @@
 | Odluka o prodaji zemljišta radi kompletiranja UP 438-140 u zahvatu DUP-a "Mažina" | [`odluka/2016/342278/`](odluka/2016/342278/) | in force | 1 | 2016-01-22 | 2016-01-22 |
 | Odluka o određivanju predstavnika opštine u Skupštini Turističke organizacije Tivat | [`odluka/2016/342296/`](odluka/2016/342296/) | in force | 1 | 2016-07-19 | 2016-07-19 |
 | Odluka o imenovanju predstavnika Skupštine opštine u Nadzorni odbor Turističke organizacije Tivat | [`odluka/2016/342297/`](odluka/2016/342297/) | in force | 1 | 2016-07-19 | 2016-07-19 |
+| Odluka o dodjeli stana pod povoljnijim uslovima Draganu Kordiću | [`odluka/2016/342298/`](odluka/2016/342298/) | in force | 1 | 2016-07-19 | 2016-07-19 |
 | Odluka o dodjeli stana na trajno korišćenje | [`odluka/2016/342299/`](odluka/2016/342299/) | in force | 1 | 2016-07-19 | 2016-07-19 |
 | Odluka o izradi Lokalnog plana zaštite životne sredine Prijestonice Cetinje | [`odluka/2016/342307/`](odluka/2016/342307/) | in force | 1 | 2016-08-03 | 2016-08-03 |
 | Odluka o utvrđivanju broja odbornika koji se biraju u Skupštinu opštine Andrijevica | [`odluka/2016/342308/`](odluka/2016/342308/) | in force | 1 | 2016-08-03 | 2016-08-03 |
@@ -9905,6 +9984,7 @@
 | Odluka o razrješenju i izboru člana Odbora za izbor i imenovanja | [`odluka/2016/342375/`](odluka/2016/342375/) | in force | 1 | 2016-04-27 | 2016-04-27 |
 | Odluka o privremenom obrazovanju Savjeta i Nadzornog odbora Mjesne zajednice Lješnica | [`odluka/2016/342376/`](odluka/2016/342376/) | in force | 1 | 2016-05-26 | 2016-05-26 |
 | Odluka o izmjenama Odluke o radnom vremenu | [`odluka/2016/342377/`](odluka/2016/342377/) | in force | 1 | 2016-05-26 | 2016-05-26 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele br.29 u skladu sa DUP-om " Pržno-Kamenovo I ( dio Pržno-Podličak) " | [`odluka/2016/342398/`](odluka/2016/342398/) | in force | 1 | 2016-01-22 | 2016-01-22 |
 | Odluka o davanju saglasnosti na Statut društva sa ograničenom odgovornošću "Komunalne djelatnosti " Petnjica | [`odluka/2016/342399/`](odluka/2016/342399/) | in force | 1 | 2016-01-14 | 2016-01-14 |
 | Odluka o izmjeni Odluke o javnom linijskom prevozu putnika u gradskom i prigradskom saobraćaju na teritoriji Opštine Nikšić | [`odluka/2016/342425/`](odluka/2016/342425/) | in force | 1 | 2016-05-26 | 2016-05-26 |
 | Odluka o izmjeni Odluke o auto-taksi prevozu | [`odluka/2016/342426/`](odluka/2016/342426/) | in force | 1 | 2016-05-26 | 2016-05-26 |
@@ -9921,6 +10001,7 @@
 | Odluka o donošenju izmjena i dopuna Detaljnog urbanističkog plana »Veliki pijesak« | [`odluka/2016/342608/`](odluka/2016/342608/) | amending act | 1 | 2016-08-03 | 2016-08-03 |
 | Odluka o donošenju Detaljnog urbanističkog plana »Pečurice - turistički kompleks« | [`odluka/2016/342609/`](odluka/2016/342609/) | in force | 1 | 2016-08-03 | 2016-08-03 |
 | Odluka a o izmjenama i dopunama odluke o naknadi za komunalno opremanje građevinskog zemljišta | [`odluka/2016/342650/`](odluka/2016/342650/) | amending act | 1 | 2016-06-15 | 2016-06-15 |
+| Odluka o zaduživanju Opštine Bar | [`odluka/2016/342664/`](odluka/2016/342664/) | in force | 1 | 2016-08-03 | 2016-08-03 |
 | Odluka o usvajanju Izvještaja o radu i finansijskom poslovanju za 2015. godinu sa Planom rada i finansijskim planom za 2016. godinu doo "Vodacom" | [`odluka/2016/342715/`](odluka/2016/342715/) | in force | 1 | 2016-07-19 | 2016-07-19 |
 | Odluka o ustupanju nepokretnosti na korišćenje | [`odluka/2016/342716/`](odluka/2016/342716/) | in force | 1 | 2016-07-19 | 2016-07-19 |
 | Odluka o izmjenama i dopunama Odluke o imenovanju Opštinske izborne komisije | [`odluka/2016/342719/`](odluka/2016/342719/) | amending act | 1 | 2016-08-03 | 2016-08-03 |
@@ -10982,6 +11063,7 @@
 | Odluka o izmjenama Odluke o koeficijentima složenosti poslova za zaposlene u Službi Skupštine Crne Gore | [`odluka/2017/337964/`](odluka/2017/337964/) | in force | 1 | 2017-10-21 | 2017-10-21 |
 | Odluka o izmjenama i dopuni Odluke o osnivanju Fonda za zaštitu i ostvarivanje manjinskih prava | [`odluka/2017/338061/`](odluka/2017/338061/) | amending act | 1 | 2017-10-20 | 2017-10-20 |
 | Odluka o određivanju regiona za proizvodnju vina | [`odluka/2017/338100/`](odluka/2017/338100/) | in force | 1 | 2017-10-21 | 2017-10-21 |
+| Odluka o izradi Državne studije lokacije "Dio sektora 66 - moduli IV i V" - Velika plaža | [`odluka/2017/338215/`](odluka/2017/338215/) | in force | 1 | 2017-11-08 | 2017-11-08 |
 | Odluka o izradi Strateške procjene uticaja na životnu sredinu za izmjene i dopune Detaljnog prostornog plana za koridor dalekovoda 400 KV sa optičkim kablom od crnogorskog primorja do Pljevalja i podmorski kabal 500 KV sa optičkim kablom Italija - Crna Gora u dijelu detaljne razrade lokacije za trafostanicu i konvertorsko postrojenje Blato u Lastvi Grbaljskoj | [`odluka/2017/338586/`](odluka/2017/338586/) | amending act | 1 | 2017-02-08 | 2017-02-08 |
 | Odluka o bližim uslovima za davanje kredita bankama u slučaju potreba za likvidnošću | [`odluka/2017/338590/`](odluka/2017/338590/) | in force | 1 | 2017-12-16 | 2017-12-16 |
 | Odluka o dopuni Statuta Investiciono- razvojnog fonda Crne Gore A.D. | [`odluka/2017/338599/`](odluka/2017/338599/) | amending act | 1 | 2017-12-16 | 2017-12-16 |
@@ -10991,6 +11073,7 @@
 | Odluka o prodaji drveta u dubećem stanju na trasi žičare i ski staze skijališta "Kolašin 1600" | [`odluka/2017/338684/`](odluka/2017/338684/) | in force | 1 | 2017-12-16 | 2017-12-16 |
 | Odluka o izmjeni i dopuni Odluke o obrazovanju Komisije za praćenje i kontrolu postupka privatizacije | [`odluka/2017/338752/`](odluka/2017/338752/) | amending act | 1 | 2017-11-29 | 2017-11-29 |
 | Odluka o produženju roka na eksploataciju nemetalične mineralne sirovine tehničko-građevinskog kamena iz ležišta "Rudine" (Nalježići), Opština Kotor | [`odluka/2017/338760/`](odluka/2017/338760/) | in force | 1 | 2017-12-07 | 2017-12-07 |
+| Odluka o kontnom okviru Centralne banke Crne Gore | [`odluka/2017/338826/`](odluka/2017/338826/) | in force | 1 | 2017-12-27 | 2017-12-27 |
 | Odluka o pribavljanju nepokretnosti - građevinskog zemljišta | [`odluka/2017/338834/`](odluka/2017/338834/) | in force | 1 | 2016-12-08 | 2016-12-08 |
 | Odluka o pribavljanju nepokretnosti - građevinskog zemljišta | [`odluka/2017/338835/`](odluka/2017/338835/) | in force | 1 | 2017-03-03 | 2017-03-03 |
 | Odluka o pribavljanju nepokretnosti-građevinskog zemljišta | [`odluka/2017/338870/`](odluka/2017/338870/) | in force | 1 | 2016-12-27 | 2016-12-27 |
@@ -11001,18 +11084,21 @@
 | Odluka o donošenju Lokalnog plana upravljanja komunalnim i neopasnim građevinskim otpadom u opštini Pljevlja (period 2016-2020. godine) | [`odluka/2017/339193/`](odluka/2017/339193/) | in force | 1 | 2017-03-31 | 2017-03-31 |
 | Odluka o davanju saglasnosti na Program rada sa finansijskim planom za 2017. godinu JU Zavičajni muzej "Ganića kula" Rožaje | [`odluka/2017/339332/`](odluka/2017/339332/) | in force | 1 | 2017-03-25 | 2017-03-25 |
 | Odluka o izboru članova Etičke komisije za izabrane predstavnike i funkcionere | [`odluka/2017/339333/`](odluka/2017/339333/) | in force | 1 | 2017-03-25 | 2017-03-25 |
+| Odluka o raspisivanju oglasa za prikupljanje ponuda radi prodaje putničkih motornih vozila u vlasništvu Opštine Pljevlja | [`odluka/2017/339464/`](odluka/2017/339464/) | in force | 1 | 2017-03-31 | 2017-03-31 |
 | Odluka o stipendiranju studenata studijskog programa Mašinskog fakulteta u Pljevljima za školsku 2016/2017. godinu | [`odluka/2017/339465/`](odluka/2017/339465/) | in force | 1 | 2017-03-31 | 2017-03-31 |
 | Odluka o kreditnom zaduženju Opštine Ulcinj | [`odluka/2017/339478/`](odluka/2017/339478/) | in force | 1 | 2017-03-23 | 2017-03-23 |
 | Odluka o dopuni Odluke o kriterijumima, načinu i postupku raspodjele sredstava nevladinim organizacijama | [`odluka/2017/339522/`](odluka/2017/339522/) | amending act | 1 | 2017-03-09 | 2017-03-09 |
 | Odluka o davanju saglasnosti na Plan rada sa finansijskim planom za 2017. godinu JU "Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju" Rožaje | [`odluka/2017/339523/`](odluka/2017/339523/) | in force | 1 | 2017-03-25 | 2017-03-25 |
 | Odluka o davanju saglasnosti na Program rada sa finansijskim planom za 2017. godinu JU "Narodna biblioteka" Rožaje | [`odluka/2017/339524/`](odluka/2017/339524/) | in force | 1 | 2017-03-25 | 2017-03-25 |
 | Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele br.1 i 2 u obuhvatu LSL-a "Bare" | [`odluka/2017/339535/`](odluka/2017/339535/) | in force | 1 | 2017-04-08 | 2017-04-08 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele br.123 u u skladu sa LSL-a "Vrba" | [`odluka/2017/339536/`](odluka/2017/339536/) | in force | 1 | 2017-04-08 | 2017-04-08 |
 | Odluka o izmjenama Odluke o kreditnom zaduženju | [`odluka/2017/339537/`](odluka/2017/339537/) | in force | 1 | 2017-04-08 | 2017-04-08 |
 | Odluka o davanju saglasnosti na Odluka predsjednika Opštine | [`odluka/2017/339542/`](odluka/2017/339542/) | in force | 1 | 2017-03-27 | 2017-03-27 |
 | Odluka o izboru odbora za lokalnu samoupravu | [`odluka/2017/339543/`](odluka/2017/339543/) | in force | 1 | 2017-04-04 | 2017-04-04 |
 | Odluka o izboru savjeta za vjerska pitanja | [`odluka/2017/339544/`](odluka/2017/339544/) | in force | 1 | 2017-04-04 | 2017-04-04 |
 | Odluka o razrješenju jednog člana Odbora direktora DOO "Brend New Tivat" | [`odluka/2017/339545/`](odluka/2017/339545/) | in force | 1 | 2017-04-04 | 2017-04-04 |
 | Odluka o prestanku važenja Odluke o kriterijumima za utvrđivanje visine premije i naknada za ostvarene sportske rezultate | [`odluka/2017/339741/`](odluka/2017/339741/) | in force | 1 | 2017-04-08 | 2017-04-08 |
+| Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele br.17 u u skladu sa LSL-a "Poljane " | [`odluka/2017/339742/`](odluka/2017/339742/) | in force | 1 | 2017-04-08 | 2017-04-08 |
 | Odluka o prenosu prava svojine na građevinskom zemljištu na DOO "Crnogorski elektrodistributivni sistem" Podgorica | [`odluka/2017/339758/`](odluka/2017/339758/) | in force | 1 | 2017-03-23 | 2017-03-23 |
 | Odluka o prenosu prava svojine na građevinskom zemljištu na DOO "Crnogorski elektrodistributivni sistem" Podgorica | [`odluka/2017/339759/`](odluka/2017/339759/) | in force | 1 | 2017-03-23 | 2017-03-23 |
 | Odluka o davanju saglasnosti | [`odluka/2017/339760/`](odluka/2017/339760/) | in force | 1 | 2017-04-04 | 2017-04-04 |
@@ -11042,23 +11128,28 @@
 | Odluka o izmjenama i dopunama Odluke o osnivanju "Parking servis" doo Herceg Novi | [`odluka/2017/339850/`](odluka/2017/339850/) | amending act | 1 | 2017-04-04 | 2017-04-04 |
 | Odluka o donošenju Izmjena i dopuna Urbanističkog projekta "Turističko naselje Smokvica" | [`odluka/2017/339902/`](odluka/2017/339902/) | amending act | 1 | 2017-04-08 | 2017-04-08 |
 | Odluka o prenosu prava na nepokretnosti radi formiranja urbanističkih parcela 21.11 i 21.12 u bloku 21 u skladu sa DUP-om "Budva centar-izmjene i dopune" | [`odluka/2017/339903/`](odluka/2017/339903/) | amending act | 1 | 2017-04-08 | 2017-04-08 |
+| Odluka o razmjeni nepokretnosti radi formiranja urbanističke parcele br.43 u skladu sa UP TN "Skočiđevojka" | [`odluka/2017/339911/`](odluka/2017/339911/) | in force | 1 | 2017-04-08 | 2017-04-08 |
 | Odluka o izmjenama Odluke o Opštinskim i nekategorisanim putevima | [`odluka/2017/339912/`](odluka/2017/339912/) | in force | 1 | 2017-04-08 | 2017-04-08 |
 | Odluka o davanju saglasnosti na Rješenje Predsjednika Opštine Kotor o razrješenju funkcije Potpredsjednika Opštine | [`odluka/2017/339960/`](odluka/2017/339960/) | in force | 1 | 2017-04-07 | 2017-04-07 |
 | Odluka o dopuni Odluke o organizaciji i načinu rada lokalne uprave Opštine Nikšić | [`odluka/2017/339976/`](odluka/2017/339976/) | amending act | 1 | 2017-04-15 | 2017-04-15 |
 | Odluka o izmjenama Odluke o obrazovanju Odbora za Statut i propise Skupštine opštine Ulcinj | [`odluka/2017/339977/`](odluka/2017/339977/) | in force | 1 | 2017-03-09 | 2017-03-09 |
 | Odluka o izmjenama Odluke o obrazovanju Odbora za izbor i imenovanja Skupštine opštine Ulcinj | [`odluka/2017/339989/`](odluka/2017/339989/) | in force | 1 | 2017-03-09 | 2017-03-09 |
+| Odluka o pristupaju promjenama Statuta opštine Ulcinj | [`odluka/2017/339991/`](odluka/2017/339991/) | in force | 1 | 2017-04-15 | 2017-04-15 |
 | Odluka o prestanku mandata predsjedniku Skupštine opštine Nikšić | [`odluka/2017/340040/`](odluka/2017/340040/) | in force | 1 | 2017-03-31 | 2017-03-31 |
+| Odluka o imenovanju Komisije za sprovođenje postupka prodaje pokretne stvari | [`odluka/2017/340042/`](odluka/2017/340042/) | in force | 1 | 2017-04-11 | 2017-04-11 |
 | Odluka o usvajanju Jednogodišnjeg programa uređenja prostora Opštine Šavnik za 2017. godinu | [`odluka/2017/340055/`](odluka/2017/340055/) | in force | 1 | 2017-04-11 | 2017-04-11 |
 | Odluka o rodnoj ravnopravnosti u Opštini Šavnik | [`odluka/2017/340235/`](odluka/2017/340235/) | in force | 1 | 2017-04-11 | 2017-04-11 |
 | Odluka o utvrđivanju Nacrta Lokalne studije lokacije " Borje III" | [`odluka/2017/340363/`](odluka/2017/340363/) | in force | 1 | 2017-04-07 | 2017-04-07 |
 | Odluka o dopuni Odluke o lokalnim komunalnim taksama | [`odluka/2017/340374/`](odluka/2017/340374/) | amending act | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o razrješenju i imenovanju jednog člana Odbora za Statut i propise | [`odluka/2017/340375/`](odluka/2017/340375/) | in force | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o davanju saglasnosti na Program rada DOO "Vodovod i kanalizacija- Cetinje" za 2017. godinu | [`odluka/2017/340376/`](odluka/2017/340376/) | in force | 1 | 2017-04-21 | 2017-04-21 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti u K.O. Cetinje I | [`odluka/2017/340386/`](odluka/2017/340386/) | in force | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o davanju saglasnosti na Rješenje Predsjednika Opštine Kotor o imenovanju Branka Nedovića za Potpredsjednika Opštine Kotor | [`odluka/2017/340421/`](odluka/2017/340421/) | in force | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o davanju saglasnosti na Rješenje Predsjednika Opštine Kotor o imenovanju Milivoja Miša Samardžića za Potpredsjednika Opštine Kotor | [`odluka/2017/340433/`](odluka/2017/340433/) | in force | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o izmjenama Odluke o zaradama lokalnih funkcionera u Gradskoj opštini Golubovci | [`odluka/2017/340446/`](odluka/2017/340446/) | in force | 1 | 2017-04-29 | 2017-04-29 |
 | Odluka o organizovanju Javne ustanove Centar za kulturu Gusinje | [`odluka/2017/340570/`](odluka/2017/340570/) | in force | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o snadbijevanju naselja vodom za piće i sanitarne potrebe na području opštine Gusinje | [`odluka/2017/340571/`](odluka/2017/340571/) | in force | 1 | 2017-04-21 | 2017-04-21 |
+| Odluka o imjenama i dopunama Odluke o zaradama lokalnih funkcionera opštine Gusinje | [`odluka/2017/340577/`](odluka/2017/340577/) | amending act | 1 | 2017-04-13 | 2017-04-13 |
 | Odluka o pristupanju izrade Lokalne studije lokacije ,,Alipašini Izvori " Opštine Gusinje | [`odluka/2017/340579/`](odluka/2017/340579/) | in force | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o oslobađanju plaćanja naknade za uređivanje građevinskog zemljišta | [`odluka/2017/340588/`](odluka/2017/340588/) | in force | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o donošenju detaljnog urbanističkog plana ’’Balijače-Mojanovići - dio A’’ u Podgorici | [`odluka/2017/340590/`](odluka/2017/340590/) | in force | 1 | 2017-04-21 | 2017-04-21 |
@@ -11068,6 +11159,7 @@
 | Odluka o ustanovljavanju službenosti nužnog prolaza preko kat.parcele 109 k.o.Tivat u korist kat.parcela 190 i 191 k.o.Tivat | [`odluka/2017/340610/`](odluka/2017/340610/) | in force | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o davanju saglasnosti na Program rada d.o.o. "Sportski centar Cetinje" sa finansijskim planom za 2017.godinu | [`odluka/2017/340611/`](odluka/2017/340611/) | in force | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o izmjeni Odluke o osnivanju DOO "Komunalno" Cetinje | [`odluka/2017/340612/`](odluka/2017/340612/) | in force | 1 | 2017-04-21 | 2017-04-21 |
+| Odluka o davanju saglasnosti na Rješenje Predsjednika Opštine Kotor o razrješenju funkcije Glavnog administratora Opštine Kotor | [`odluka/2017/340623/`](odluka/2017/340623/) | in force | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o davanju saglasnosti na Rješenje Predsjednika Opštine Kotor o imenovanju Ljiljane Moškov za Potpredsjednicu Opštine Kotor | [`odluka/2017/340624/`](odluka/2017/340624/) | in force | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o davanju saglasnosti na Odluke o izmjeni Statuta DOO "Komunalno" Cetinje | [`odluka/2017/340625/`](odluka/2017/340625/) | in force | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o stavljanju van snage Odluke o povjeravanju poslova održavanja javne rasvjete, svjetlosne signalizacije i održavanja urbanog mobilijara na teritoriji Prijestonice Cetinje DOO "Komunalno" Cetinje | [`odluka/2017/340626/`](odluka/2017/340626/) | in force | 1 | 2017-04-21 | 2017-04-21 |
@@ -11075,6 +11167,9 @@
 | Odluka o utvrđivanju Nacrta izmjena Detaljnog urbanističkog plana Žabljak-’’Benzinska stanica i tržni centar’’ | [`odluka/2017/340887/`](odluka/2017/340887/) | in force | 1 | 2017-04-19 | 2017-04-19 |
 | Odluka o oslobađanju plaćanja poreza na nepokretnosti - zemljište u zoni V planinsko područje za 2017 | [`odluka/2017/340890/`](odluka/2017/340890/) | in force | 1 | 2017-05-06 | 2017-05-06 |
 | Odluka o izmjeni Odluke o zaradama lokalnih službenika i namještenika | [`odluka/2017/340891/`](odluka/2017/340891/) | in force | 1 | 2017-04-28 | 2017-04-28 |
+| Odluka o davanju saglasnosti na Program rada i Finansijski plan Turističke organizacije Mojkovac za 2017. godinu | [`odluka/2017/340892/`](odluka/2017/340892/) | in force | 1 | 2017-04-13 | 2017-04-13 |
+| Odluka o davanju saglasnosti na Plan i Program rada JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Mojkovac" za 2017. godinu | [`odluka/2017/340905/`](odluka/2017/340905/) | in force | 1 | 2017-04-13 | 2017-04-13 |
+| Odluka o davanju saglasnosti na Plan i Program rada JU Centar za kulturu "Nenad Rakočević" Mojkovac za 2017. godinu | [`odluka/2017/340906/`](odluka/2017/340906/) | in force | 1 | 2017-04-13 | 2017-04-13 |
 | Odluka o donošenju Detaljnog urbanističkog plana "Podbišće 2" - prva faza realizacije "Grotulja" | [`odluka/2017/340907/`](odluka/2017/340907/) | in force | 1 | 2017-05-06 | 2017-05-06 |
 | Odluka o ukidanju izmjena i dopuna Detaljnog urbanističkog plana "Centar" za urbanističku parcelu broj 1024 | [`odluka/2017/340920/`](odluka/2017/340920/) | amending act | 1 | 2017-04-28 | 2017-04-28 |
 | Odluka o dopuni Odluke o porezu na nepokretnosti | [`odluka/2017/341001/`](odluka/2017/341001/) | amending act | 1 | 2017-05-06 | 2017-05-06 |
@@ -11091,28 +11186,35 @@
 | Odluka o izmjenama i dopunama Odluke o pristupanju izradi izmjena Detaljnog urbanističkog plana Žabljak | [`odluka/2017/341474/`](odluka/2017/341474/) | amending act | 1 | 2017-01-17 | 2017-01-17 |
 | Odluka o Izmjeni Odluke o pristupanju izradi Izmjena i dopuna Detaljnog urbanističkog plana TIVAT- Centar, za lokaciju hotela "Mimoza" u Tivtu | [`odluka/2017/341502/`](odluka/2017/341502/) | amending act | 1 | 2017-01-09 | 2017-01-09 |
 | Odluka o izboru predsjednika Opštine Budva | [`odluka/2017/341528/`](odluka/2017/341528/) | in force | 1 | 2016-12-29 | 2016-12-29 |
+| Odluka o davanju saglasnosti na Odluku Upravnog odbora JU Centar za sport i rekreaciju | [`odluka/2017/341583/`](odluka/2017/341583/) | in force | 1 | 2017-08-05 | 2017-08-05 |
 | Odluka o izmjenama Odluke o zaradama lokalnih funkcionera u Opštini Bijelo Polje | [`odluka/2017/341584/`](odluka/2017/341584/) | in force | 1 | 2017-08-05 | 2017-08-05 |
 | Odluka o oslobađanju plaćanja obaveze po osnovu poreza na nepokretnosti na poljoprivredno, šumsko i ostalo negrađevinsko zemljište za fizička lica za 2017. godinu | [`odluka/2017/341585/`](odluka/2017/341585/) | in force | 1 | 2017-08-05 | 2017-08-05 |
 | Odluka o izmjeni Odluke o podizanju spomen-obilježja spomen-biste Avdu Međedoviću | [`odluka/2017/341630/`](odluka/2017/341630/) | in force | 1 | 2017-08-05 | 2017-08-05 |
 | Odluka o pristupanju izmjeni i dopuni Poslovnika Skupštine opštine Bijelo Polje | [`odluka/2017/341631/`](odluka/2017/341631/) | amending act | 1 | 2017-07-28 | 2017-07-28 |
+| Odluka o davanju saglasnosti za odustajanje od prava na žalbu na Djelimičnu Presudu Privrednog suda u Podgorici Posl.br. P.492/16 | [`odluka/2017/341640/`](odluka/2017/341640/) | in force | 1 | 2017-07-31 | 2017-07-31 |
 | Odluka o oslobađanju plaćanja dijela obaveza po osnovu godišnje naknade za korišćenje komercijalnih objekata na lokaciji "Kruške" koji za pristup tim objektima koriste lokalni i nekategorisani put | [`odluka/2017/341662/`](odluka/2017/341662/) | in force | 1 | 2017-08-15 | 2017-08-15 |
 | Odluka o izmjeni Odluke o ustanovljavanju stvarne službenosti u korist Milkraft Leche D.O.O. | [`odluka/2017/341679/`](odluka/2017/341679/) | in force | 1 | 2017-08-11 | 2017-08-11 |
 | Odluka o izmjeni Odluke o ustanovljavanju stvarne službenosti u korist Milkraft Leche D.O.O. | [`odluka/2017/341680/`](odluka/2017/341680/) | in force | 1 | 2017-08-11 | 2017-08-11 |
+| Odluka o sticanju prava svojine na nepokretnosti u K.O. Velestovo | [`odluka/2017/341681/`](odluka/2017/341681/) | in force | 1 | 2017-08-19 | 2017-08-19 |
 | Odluka o usvajanju Akcionog plana prilagođavanja objekata i javnih površina za pristup i kretanje lica smanjene pokretljivosti u Prijestonici Cetinje | [`odluka/2017/341682/`](odluka/2017/341682/) | in force | 1 | 2017-08-19 | 2017-08-19 |
 | Odluka o usvajanju završnog računa Budžeta Opštine Plužine za 2016. godinu | [`odluka/2017/341711/`](odluka/2017/341711/) | in force | 1 | 2017-08-15 | 2017-08-15 |
 | Odluka o davanju saglasnosti za zaključivanje Ugovora o ustupanju dijela sredstava iz Egalizacionog fonda radi izmirivanja kredita DOO "Komunalno-Lim" Bijelo Polje | [`odluka/2017/341731/`](odluka/2017/341731/) | in force | 1 | 2017-08-11 | 2017-08-11 |
 | Odluka o određivanju mjesečne naknade za zakup prostorija za rad klubova odbornika | [`odluka/2017/341733/`](odluka/2017/341733/) | in force | 1 | 2017-08-19 | 2017-08-19 |
+| Odluka o usvajanju plana upravljanja komunalnim i neopasnim građevinskim otpadom za period od 16-2020.godine na teritoriji Opštine Herceg Novi | [`odluka/2017/341734/`](odluka/2017/341734/) | in force | 1 | 2017-08-19 | 2017-08-19 |
 | Odluka o pokretanju postupka kupovine nepokretnosti na urbanistikoj parceli broj 274 | [`odluka/2017/341761/`](odluka/2017/341761/) | in force | 1 | 2017-01-25 | 2017-01-25 |
+| Odluka o potvrđivanju Odluke o upotrebi stalne budžetske rezerve | [`odluka/2017/341762/`](odluka/2017/341762/) | in force | 1 | 2017-01-18 | 2017-01-18 |
 | Odluka o privremenom finansiranju Opštine Petnjica, za period januar - mart 2017.godine | [`odluka/2017/341763/`](odluka/2017/341763/) | in force | 1 | 2017-01-25 | 2017-01-25 |
 | Odluka o davanju na korišćenje poslovnih prostora Nevladinoj organizaciji "Preporod" Nikšić | [`odluka/2017/341782/`](odluka/2017/341782/) | in force | 1 | 2017-08-03 | 2017-08-03 |
 | Odluka o određivanju naziva ulici u Nikšiću | [`odluka/2017/341783/`](odluka/2017/341783/) | in force | 1 | 2017-08-03 | 2017-08-03 |
 | Odluka o ustupanju na upravljanje i održavanje postrojenja za prečišćavanje otpadnih voda sa bazenima za tretman kanalizacionog mulja | [`odluka/2017/341790/`](odluka/2017/341790/) | in force | 1 | 2017-08-05 | 2017-08-05 |
+| Odluka o ustupanju nepokretnosti na korišćenje | [`odluka/2017/341815/`](odluka/2017/341815/) | in force | 1 | 2017-01-25 | 2017-01-25 |
 | Odluka o privremenom finansiranju Opštine Plav za period januar-mart 2017.godine | [`odluka/2017/341816/`](odluka/2017/341816/) | in force | 1 | 2017-01-25 | 2017-01-25 |
 | Odluka o davanju saglasnosti na program rada i finansijski plan turističke organizacije Pljevlja za 2017. godinu | [`odluka/2017/341818/`](odluka/2017/341818/) | in force | 1 | 2017-01-25 | 2017-01-25 |
 | Odluka o Završnom računu Budžeta opštine Nikšić za 2016. godinu | [`odluka/2017/341833/`](odluka/2017/341833/) | in force | 1 | 2017-08-03 | 2017-08-03 |
 | Odluka o izboru Predsjednika Skupštine opštine Petnjica | [`odluka/2017/341834/`](odluka/2017/341834/) | in force | 1 | 2017-06-28 | 2017-06-28 |
 | Odluka o imenovanju predsjednika Odbora za planiranje i uređenje prostora i komunalno-stambenu djelatnost | [`odluka/2017/341835/`](odluka/2017/341835/) | in force | 1 | 2017-06-28 | 2017-06-28 |
 | Odluka o razrješenju i imenovanju člana Savjete za saradnju sa NVO sektorom | [`odluka/2017/341836/`](odluka/2017/341836/) | in force | 1 | 2017-06-28 | 2017-06-28 |
+| Odluka o davanju saglasnosti na Program rada i Finansijski plan za 2017. godinu Javne ustanove Narodna biblioteka i čitaonica "Njegoš" | [`odluka/2017/341864/`](odluka/2017/341864/) | in force | 1 | 2017-07-07 | 2017-07-07 |
 | Odluka o davanju Saglasnosti na Odluku o izmjenama i dopunama Statuta doo "vodovod" Pljevlja | [`odluka/2017/341869/`](odluka/2017/341869/) | amending act | 1 | 2017-01-25 | 2017-01-25 |
 | Odluka o Potvrđivanju Odluke o dopuni strateškog plana razvoja opštine Rožaje 2014 - 2020 | [`odluka/2017/341871/`](odluka/2017/341871/) | amending act | 1 | 2017-01-25 | 2017-01-25 |
 | Odluka o Potvrđivanju Odluke o izmjeni rješenja o razrješenju I Imenovanju predsjednika i člana Odbora direktora DOO "Ski Centar Hajla" Rožaje | [`odluka/2017/341872/`](odluka/2017/341872/) | in force | 1 | 2017-01-25 | 2017-01-25 |
@@ -11132,11 +11234,13 @@
 | Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele br.150.14 u skladu sa DUP-om "Bečići" | [`odluka/2017/342108/`](odluka/2017/342108/) | in force | 1 | 2017-06-15 | 2017-06-15 |
 | Odluka o izmjeni i dopuni Odluke o lokalnim komunalnim taksama | [`odluka/2017/342177/`](odluka/2017/342177/) | amending act | 1 | 2017-07-25 | 2017-07-25 |
 | Odluka o odobravanju eksploatacije mineralnih sirovina u Ražanom polju DOO "ZEKOVIĆ COMPANY" iz Žabljaka | [`odluka/2017/342178/`](odluka/2017/342178/) | in force | 1 | 2017-06-29 | 2017-06-29 |
+| Odluka o zaduženju Opštine Herceg Novi | [`odluka/2017/342322/`](odluka/2017/342322/) | in force | 1 | 2017-08-19 | 2017-08-19 |
 | Odluka o prenosu prava korišćenja i upravljanja na nepokretnosti Mjesnoj zajednici Rasovo | [`odluka/2017/342370/`](odluka/2017/342370/) | in force | 1 | 2017-08-05 | 2017-08-05 |
 | Odluka o utvrđivanju Predloga izmjena Detaljnog urbanističkog plana Žabljak " Benzinska stanica i tržni centar" | [`odluka/2017/342378/`](odluka/2017/342378/) | in force | 1 | 2017-05-17 | 2017-05-17 |
 | Odluka o prodaji katastarskih parcela br. 6105/2, 6107/2 i 6121/4 KO Novi Bar | [`odluka/2017/342453/`](odluka/2017/342453/) | in force | 1 | 2017-08-29 | 2017-08-29 |
 | Odluka o izradi Elaborata o postavljanju i izgradnji montažnih objekata privremenog karaktera na teritoriji Prijestonice Cetinje | [`odluka/2017/342455/`](odluka/2017/342455/) | in force | 1 | 2017-08-29 | 2017-08-29 |
 | Odluka o uspostavljanju službenosti radi polaganja priključnog 10 kV kablovskog voda na dionici od postojeće MBTS 10/04 kV "Petovića Zabio" - do trafostanice 10/04 kV "Kamenolom Možura" | [`odluka/2017/342497/`](odluka/2017/342497/) | in force | 1 | 2017-08-29 | 2017-08-29 |
+| Odluka o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave | [`odluka/2017/342498/`](odluka/2017/342498/) | amending act | 1 | 2017-08-29 | 2017-08-29 |
 | Odluka o izmjeni i dopuni Odluke o varijabilnom dijelu zarade | [`odluka/2017/342545/`](odluka/2017/342545/) | amending act | 1 | 2017-08-29 | 2017-08-29 |
 | Odluka o izmjenama i dopunama Odluke o učešću Opštine Herceg novi u rješavanju stambenih pitanja državnih službenika i namještenika | [`odluka/2017/342546/`](odluka/2017/342546/) | amending act | 1 | 2017-08-29 | 2017-08-29 |
 | Odluka o imenovanju Savjeta JU Centar za kulturu i sport "Mihailo Lalić"Andrijevica | [`odluka/2017/342707/`](odluka/2017/342707/) | in force | 1 | 2017-07-07 | 2017-07-07 |
@@ -11854,24 +11958,35 @@
 | Odluka o visini naknade za rad članu Komisije za vrednovanje | [`odluka/2018/338776/`](odluka/2018/338776/) | in force | 1 | 2018-12-31 | 2018-12-31 |
 | Odluka o imenovanju v.d Glavnog gradskog arhitekte | [`odluka/2018/339119/`](odluka/2018/339119/) | in force | 1 | 2018-02-07 | 2018-02-07 |
 | Odluka o pristupanju izradi Lokalnog plana zaštite životne sredine za Opštinu Kotor 2019-2023 | [`odluka/2018/339120/`](odluka/2018/339120/) | in force | 1 | 2018-04-07 | 2018-04-07 |
+| Odluka o otkupu zemljišta - kat.parc. 987/5 K.O. Prčanj I radi dokompletiranja urbanističke parcele | [`odluka/2018/339121/`](odluka/2018/339121/) | in force | 1 | 2018-04-07 | 2018-04-07 |
 | Odluka o izmjeni Odluke o izradi Lokalne studije lokacije " GVOZD " | [`odluka/2018/339122/`](odluka/2018/339122/) | in force | 1 | 2018-03-15 | 2018-03-15 |
 | Odluka o Budžetu Opštine Andrijevica za 2018. god. | [`odluka/2018/339335/`](odluka/2018/339335/) | in force | 1 | 2018-04-07 | 2018-04-07 |
 | Odluka o utvrđivanju broja odbornika/ca u Skupštini Opštine u okviru Glavnog grada -Golubovci | [`odluka/2018/339338/`](odluka/2018/339338/) | in force | 1 | 2018-04-08 | 2018-04-08 |
+| Odluka o davanju saglasnosti na korišćenje bez naknade dijela kat.parc. 549 K.O. Dobrota I | [`odluka/2018/339341/`](odluka/2018/339341/) | in force | 1 | 2018-04-07 | 2018-04-07 |
 | Odluka o dopuni Odluke o dodjeli sredstava za finansiranje organizacija osoba sa invaliditetom koje čine koaliciju "Savez" | [`odluka/2018/339491/`](odluka/2018/339491/) | amending act | 1 | 2018-04-08 | 2018-04-08 |
 | Odluka o donošenju Izmjena i dopuna DUP-a "Centralne zone" Bijelo Polje | [`odluka/2018/339492/`](odluka/2018/339492/) | amending act | 1 | 2018-04-08 | 2018-04-08 |
 | Odluka o finansiranju rada gerontodomaćica u 2018. godini | [`odluka/2018/339502/`](odluka/2018/339502/) | in force | 1 | 2018-04-08 | 2018-04-08 |
 | Odluka o izmjeni Odluke o davanju saglasnosti na zaključivanje Ugovora o faktoringu i drugim finansijskim poslovima na sredstvima koje Opština Bijelo Polje potražuje od Vlade Crne Gore u iznosu od 2.511.681,18 eura | [`odluka/2018/339503/`](odluka/2018/339503/) | in force | 1 | 2018-03-31 | 2018-03-31 |
 | Odluka o učešću Opštine Bijelo Polje u troškovima rekonstrukcije fiskulturne sale JU OŠ ’’Marko Miljanov’’ iz Bijelog Polja | [`odluka/2018/339515/`](odluka/2018/339515/) | in force | 1 | 2018-04-08 | 2018-04-08 |
 | Odluka o dopuni Odluke o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Komunalne djelatnosti"-Gusinje | [`odluka/2018/339517/`](odluka/2018/339517/) | amending act | 1 | 2018-03-31 | 2018-03-31 |
+| Odluka o davanju saglasnosti na imenovanje potpredsjednika Opštine Mojkovac | [`odluka/2018/339538/`](odluka/2018/339538/) | in force | 1 | 2018-03-30 | 2018-03-30 |
 | Odlukao određivanju vrijednosti boda za obračun naknade za postavljanje privremenih objekata na teritoriji opštine Plužine | [`odluka/2018/339546/`](odluka/2018/339546/) | in force | 1 | 2018-04-21 | 2018-04-21 |
+| Odluka o imenovanju predsjednika i članova Savjeta JU Centar za kulturu "Nenad Rakočević" Mojkovac | [`odluka/2018/339552/`](odluka/2018/339552/) | in force | 1 | 2018-03-30 | 2018-03-30 |
 | Odluka odavanju saglasnosti za zaključenje sudskog poravnanja | [`odluka/2018/339553/`](odluka/2018/339553/) | in force | 1 | 2018-04-20 | 2018-04-20 |
 | Odluka o davanju saglasnosti za zaključenje ugovora | [`odluka/2018/339555/`](odluka/2018/339555/) | in force | 1 | 2018-04-20 | 2018-04-20 |
 | Odluka o stavljanju van snage Sporazuma o osnivanju Regionalne turističke organizacije | [`odluka/2018/339564/`](odluka/2018/339564/) | in force | 1 | 2018-04-28 | 2018-04-28 |
 | Odluka o imenovanju komisije za rješavanje stambenih potreba lica po osnovu prava na socijlano stanovanje | [`odluka/2018/339566/`](odluka/2018/339566/) | in force | 1 | 2018-04-28 | 2018-04-28 |
+| Odluka orazrješenju dva člana Savjeta za razvoj i zaštitu lokalne samouprave | [`odluka/2018/339567/`](odluka/2018/339567/) | in force | 1 | 2018-04-04 | 2018-04-04 |
+| Odluka o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Komunalno" Cetinje | [`odluka/2018/339573/`](odluka/2018/339573/) | in force | 1 | 2018-04-21 | 2018-04-21 |
 | Odluka o pristupanju izradi Statuta Opštine Petnjica | [`odluka/2018/339579/`](odluka/2018/339579/) | in force | 1 | 2018-04-28 | 2018-04-28 |
+| Odluka o formiranju odbora direktora DOO "Komunalne djelatnosti" | [`odluka/2018/339580/`](odluka/2018/339580/) | in force | 1 | 2018-04-28 | 2018-04-28 |
+| Odluka o dopuni odluke o zaradama lokalnih funkcionera i lica koja imenuje Skupština Opštine Mojkovac | [`odluka/2018/339779/`](odluka/2018/339779/) | amending act | 1 | 2018-04-04 | 2018-04-04 |
+| Odluka o Službi komunalne policije | [`odluka/2018/339780/`](odluka/2018/339780/) | in force | 1 | 2018-04-28 | 2018-04-28 |
 | Odluka o davanju na korišćenje prostora Veterinarskoj ambulanti "AMV Provita" bez naknade | [`odluka/2018/339790/`](odluka/2018/339790/) | in force | 1 | 2018-03-30 | 2018-03-30 |
 | Odluka o načinu odvojenog sakupljanja i sakupljanja komunalnog otpada radi obrade na teritoriji Opštine Šavnik | [`odluka/2018/339799/`](odluka/2018/339799/) | in force | 1 | 2018-04-28 | 2018-04-28 |
 | Odluka o poništenju člana 1 stav 1 alineja 3 i 4 Odluke o imenovanju Savjeta Lokalnog javnog emitera Radio Bijelo Polje | [`odluka/2018/339851/`](odluka/2018/339851/) | in force | 1 | 2018-04-21 | 2018-04-21 |
+| Odluka o odobravanju otkupa stana Bojović Anđelije | [`odluka/2018/339869/`](odluka/2018/339869/) | in force | 1 | 2018-04-21 | 2018-04-21 |
+| Odluka o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Vodovod i kanalizacija-Cetinje" | [`odluka/2018/339888/`](odluka/2018/339888/) | in force | 1 | 2018-04-21 | 2018-04-21 |
 | Odluka o zaradama lokalnih funkcionera opštine Berane | [`odluka/2018/340057/`](odluka/2018/340057/) | in force | 1 | 2018-04-27 | 2018-04-27 |
 | Odluka o izradi Detaljnog urbanističkog plana "Gorica C" u Podgorici | [`odluka/2018/340070/`](odluka/2018/340070/) | in force | 1 | 2018-05-05 | 2018-05-05 |
 | Odluka o izradi Detaljnog urbanističkog plana"Tološi 2" u Podgorici | [`odluka/2018/340071/`](odluka/2018/340071/) | in force | 1 | 2018-05-05 | 2018-05-05 |
@@ -11894,10 +12009,12 @@
 | Odluka o pribavljanju nepokretnosti - građevinskog zemljišta od Pjerotić Josipa | [`odluka/2018/340500/`](odluka/2018/340500/) | in force | 1 | 2018-05-04 | 2018-05-04 |
 | Odluka o ustanovljavanju stvarne službenosti u korist D.O.O " Crnogorski elektrodistributivni sistem " Podgorica radi postavljanja elektrovodova | [`odluka/2018/340514/`](odluka/2018/340514/) | in force | 1 | 2018-06-02 | 2018-06-02 |
 | Odluka o davanju saglasnosti na Program rada DOO "Vodovod i kanalizacija- Cetinje" za 2018. godinu | [`odluka/2018/340539/`](odluka/2018/340539/) | in force | 1 | 2018-05-22 | 2018-05-22 |
+| Odluka o davanju saglasnosti na Program rada DOO "Komunalno" Cetinje za 2018. godinu | [`odluka/2018/340540/`](odluka/2018/340540/) | in force | 1 | 2018-05-22 | 2018-05-22 |
 | Odluka o utvrđivanju visine otpremnine zaposlenih u organima i službama lokalne uprave Opštine Danilovgrad | [`odluka/2018/340639/`](odluka/2018/340639/) | in force | 1 | 2018-04-25 | 2018-04-25 |
 | Odluka o izmjeni Odluke o odobravanju eksploatacije mineralnih sirovina D. O. O ''ZEKOVIĆ COMPANY'' iz Žabljaka | [`odluka/2018/340650/`](odluka/2018/340650/) | in force | 1 | 2018-04-26 | 2018-04-26 |
 | Odluka o prodaji nepokretnosti - građevinskog zemljišta | [`odluka/2018/340652/`](odluka/2018/340652/) | in force | 1 | 2018-05-14 | 2018-05-14 |
 | Odluka o usvajanju Lokalnog programa socijalnog stanovanja opštine Žabljak za 2018.godinu | [`odluka/2018/340653/`](odluka/2018/340653/) | in force | 1 | 2018-05-22 | 2018-05-22 |
+| Odluka o utvrđivanju broja odbornika koji se biraju u Skupštinu opštine Kolašin | [`odluka/2018/340665/`](odluka/2018/340665/) | in force | 1 | 2018-04-27 | 2018-04-27 |
 | Odluka o pristupanju izradi Statuta opštine Nikšić | [`odluka/2018/340677/`](odluka/2018/340677/) | in force | 1 | 2018-05-22 | 2018-05-22 |
 | Odluka o prenosu prava svojine na motornom vozilu Sportsko ribolovnom klubu "Nikšić-NK" | [`odluka/2018/340679/`](odluka/2018/340679/) | in force | 1 | 2018-05-22 | 2018-05-22 |
 | Odluka o davanju na korišćenje dijela poslovnog prostora za zaštitu djece i omladine Javnoj ustanovi Dnevni centar za djecu sa smetnjama u razvoju i osobe sa invaliditetom Nikšić | [`odluka/2018/340687/`](odluka/2018/340687/) | in force | 1 | 2018-05-22 | 2018-05-22 |
@@ -11931,6 +12048,7 @@
 | Odluka o dopuni Odluke o korišćenju i naknadi za korišćenje puta i putnog zemljišta pored opštinskih i nekategorisanih puteva na teritoriji Opštine Plav | [`odluka/2018/342023/`](odluka/2018/342023/) | amending act | 1 | 2018-01-20 | 2018-01-20 |
 | Odluka o izmjenama i dopunama Odluke o visini, načinu obračunavanja i plaćanja članskog doprinosa Turističkoj organizaciji Opštine Plav | [`odluka/2018/342024/`](odluka/2018/342024/) | amending act | 1 | 2018-01-20 | 2018-01-20 |
 | Odluka o davanju saglasnosti na Rješenje Predsjednika Opštine Plav o imenovanju Glavnog administratora | [`odluka/2018/342071/`](odluka/2018/342071/) | in force | 1 | 2018-01-20 | 2018-01-20 |
+| Odluka o privremenom finansiranju Opštine Bijelo Polje | [`odluka/2018/342400/`](odluka/2018/342400/) | in force | 1 | 2018-01-12 | 2018-01-12 |
 | Odluka o razrješenju člana Opštinske izborne komisije | [`odluka/2018/342401/`](odluka/2018/342401/) | in force | 1 | 2018-01-12 | 2018-01-12 |
 | Odluka o razrješenju i imenovanju zamjenika člana Opštinske izborne komisije | [`odluka/2018/342446/`](odluka/2018/342446/) | in force | 1 | 2018-01-12 | 2018-01-12 |
 | Odluka o donošenju DUP-a "Bandžovo Brdo - I faza" | [`odluka/2018/342575/`](odluka/2018/342575/) | in force | 1 | 2018-06-07 | 2018-06-07 |
@@ -12926,6 +13044,7 @@
 | Odluka o izmjeni i dopuni Odluke o Savjetu za vladavinu prava | [`odluka/2019/336675/`](odluka/2019/336675/) | amending act | 1 | 2019-08-07 | 2019-08-07 |
 | Odluka o obrazovanju Odbora za praćenje realizacije Odluke o davanju u dugoročni zakup lokaliteta ostrvo Lastavica sa tvrđavom "Mamula", Opština Herceg Novi i Odluke o prihvatanju Aneksa broj 1 Ugovora o zakupu Hotela "Kraljičina plaža" Budva | [`odluka/2019/336711/`](odluka/2019/336711/) | in force | 1 | 2019-07-26 | 2019-07-26 |
 | Odluka o izmjeni Odluke o broju studenata za upis u prvu godinu osnovnih studija Univerziteta Crne Gore za studijsku 2019/2020. godinu koji se finansiraju iz budžeta Crne Gore | [`odluka/2019/336717/`](odluka/2019/336717/) | in force | 1 | 2019-08-05 | 2019-08-05 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti u KO Andrijevica i KO Slatina I u Opštini Andrijevica za izgradnju nove kasarne Vojske Crne Gore u Opštini Andrijevica | [`odluka/2019/336745/`](odluka/2019/336745/) | in force | 1 | 2019-08-01 | 2019-08-01 |
 | Odluka o otvaranju Konzulata Crne Gore u Krajovi - Rumunija | [`odluka/2019/337145/`](odluka/2019/337145/) | in force | 1 | 2019-08-29 | 2019-08-29 |
 | Odluka o izmjenama Odluke o otpremnini u slučaju sporazumnog prestanka radnog odnosa zaposlenih u javnom sektoru | [`odluka/2019/337202/`](odluka/2019/337202/) | in force | 1 | 2019-09-27 | 2019-09-27 |
 | Odluka o izmjeni Statuta Instituta za standardizaciju Crne Gore | [`odluka/2019/337274/`](odluka/2019/337274/) | in force | 1 | 2019-10-19 | 2019-10-19 |
@@ -15285,11 +15404,16 @@
 | Odluka o kupovini zemljišta - kat. parc. 2370/2 K.O. Dobrota I radi privođenja namjeni saobraćajnice planirane DUP-om Dobrota | [`odluka/2020/339135/`](odluka/2020/339135/) | in force | 1 | 2020-03-20 | 2020-03-20 |
 | Odluka o ustupanju na privremeno korišćenje nepokretnosti Javnoj ustanovi Dom starih "Grabovac" Risan | [`odluka/2020/339148/`](odluka/2020/339148/) | in force | 1 | 2020-03-12 | 2020-03-12 |
 | Odluka o izdavanju u dugoročni zakup poslovnih prostorija | [`odluka/2020/339149/`](odluka/2020/339149/) | in force | 1 | 2020-03-20 | 2020-03-20 |
+| Odluka o produženju roka zakupa | [`odluka/2020/339150/`](odluka/2020/339150/) | in force | 1 | 2020-03-20 | 2020-03-20 |
+| Odluka o produženju roka zakupa | [`odluka/2020/339161/`](odluka/2020/339161/) | in force | 1 | 2020-03-20 | 2020-03-20 |
+| Odluka o produženju roka zakupa | [`odluka/2020/339162/`](odluka/2020/339162/) | in force | 1 | 2020-03-20 | 2020-03-20 |
+| Odluka o produženju roka zakupa | [`odluka/2020/339163/`](odluka/2020/339163/) | in force | 1 | 2020-03-20 | 2020-03-20 |
 | Odluka o lokalnim administrativnim taksama Opštine Kotor | [`odluka/2020/339164/`](odluka/2020/339164/) | in force | 1 | 2020-03-20 | 2020-03-20 |
 | Odluka o privremenom određivanju naziva naselja, ulica i trgova na području Opštine Plav | [`odluka/2020/339174/`](odluka/2020/339174/) | in force | 1 | 2020-03-20 | 2020-03-20 |
 | Odluka o davanju saglasnosti na Plan rada sa finansijskim planom DOO "Agencija za projektovanje i razvoj" Rožaje za 2020.godinu | [`odluka/2020/339177/`](odluka/2020/339177/) | in force | 1 | 2020-03-20 | 2020-03-20 |
 | Odluka o imenovanju člana Savjeta za predstavke i pritužbe | [`odluka/2020/339188/`](odluka/2020/339188/) | in force | 1 | 2020-03-12 | 2020-03-12 |
 | Odluka o usvajanju Strategije razvoja zanatstva u opštini Rožaje za period 2020-2022 godine | [`odluka/2020/339189/`](odluka/2020/339189/) | in force | 1 | 2020-03-20 | 2020-03-20 |
+| Odluka o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave | [`odluka/2020/339354/`](odluka/2020/339354/) | amending act | 1 | 2020-03-20 | 2020-03-20 |
 | Odluka o izmjenama i dopunama Odluke o raspisivanju javnog poziva za prikupljanje ponuda radi prodaje motornih vozila u vlasništvu Opštine Kotor i Direkcije za uređenje i izgradnju Kotora | [`odluka/2020/339366/`](odluka/2020/339366/) | amending act | 1 | 2020-03-20 | 2020-03-20 |
 | Odluka o osnivanju Biznis zone "Zeleni" | [`odluka/2020/339376/`](odluka/2020/339376/) | in force | 1 | 2020-03-12 | 2020-03-12 |
 | Odluka o stavljanju van snage Odluke o izradiDetaljnog urbanističkog plana "Konik - Vrela Ribnička"("Službeni list Crne Gore - Opštinski propisi", br. 013/19 od 04.04.2019.) | [`odluka/2020/339586/`](odluka/2020/339586/) | in force | 1 | 2020-03-25 | 2020-03-25 |
@@ -15305,6 +15429,7 @@
 | Odluka o visini, načinu obračunavanja i plaćanja članskog doprinosa Turističkoj organizaciji Opštine Mojkovac | [`odluka/2020/339904/`](odluka/2020/339904/) | in force | 1 | 2020-04-18 | 2020-04-18 |
 | Odluka Broj:01-018/20-647 | [`odluka/2020/339905/`](odluka/2020/339905/) | in force | 1 | 2020-03-24 | 2020-03-24 |
 | Odluka o rješavanju imovinsko pravnih odnosa između Opštine Tivat i Petranović Zorana | [`odluka/2020/339906/`](odluka/2020/339906/) | in force | 1 | 2020-04-18 | 2020-04-18 |
+| Odluka o načinu privremenog skladištenja komunalnog otpada i uslovima zaštite životne sredine i zdravlja ljudi | [`odluka/2020/341791/`](odluka/2020/341791/) | in force | 1 | 2020-09-10 | 2020-09-10 |
 | Odluka o podsticaju zanatstva na teritoriji Opštine Budva | [`odluka/2020/342042/`](odluka/2020/342042/) | in force | 1 | 2020-09-05 | 2020-09-05 |
 | Odluka o usvajanju Polugodišnjeg izvještaja o ukupno ostvarenim primicima i ukupno izvršenim izdacima Budžeta Opštine Tivat za 2020. godinu | [`odluka/2020/342044/`](odluka/2020/342044/) | in force | 1 | 2020-09-05 | 2020-09-05 |
 | Odluka o usvajanju Lokalnog akcionog plana za razvoj sistema socijalne i dječje zaštite za period 2019 -2022.godine | [`odluka/2020/342089/`](odluka/2020/342089/) | in force | 1 | 2020-09-05 | 2020-09-05 |
@@ -16180,6 +16305,7 @@
 | Odluka o izmjenama i dopunama Statuta Agencije za sprječavanje korupcije | [`odluka/2021/335769/`](odluka/2021/335769/) | amending act | 1 | 2021-03-19 | 2021-03-19 |
 | Odluka o izmjenama i dopunama Metodologije za utvrđivanje cijena za obavljanje regulisanih komunalnih djelatnosti | [`odluka/2021/336130/`](odluka/2021/336130/) | amending act | 1 | 2021-03-31 | 2021-03-31 |
 | Odluka o imenovanju jednog člana Savjeta Agencije za elektronske medije | [`odluka/2021/336209/`](odluka/2021/336209/) | in force | 1 | 2021-03-31 | 2021-03-31 |
+| Odluka o izboru predsjednika, zamjenika predsjednika i članova Odbora za sveobuhvatnu izbornu reformu | [`odluka/2021/336463/`](odluka/2021/336463/) | in force | 1 | 2021-03-31 | 2021-03-31 |
 | Odluka o izmjeni Odluke o osnivanju Društva sa ograničenom odgovornošću za transport putnika i robe u vazdušnom saobraćaju "ToMontenegro" | [`odluka/2021/336574/`](odluka/2021/336574/) | in force | 1 | 2021-04-22 | 2021-04-22 |
 | Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju regionalnog puta R-20 Berane - Kalače, dionica Berane - Petnjica, lokaliteti Berane - Stjenice i Stjenice - Podvade | [`odluka/2021/336842/`](odluka/2021/336842/) | in force | 1 | 2021-05-28 | 2021-05-28 |
 | Odluka o izmjenama Metodologije za utvrđivanje cijena za obavljanje regulisanih komunalnih djelatnosti | [`odluka/2021/336865/`](odluka/2021/336865/) | in force | 1 | 2021-05-20 | 2021-05-20 |
@@ -16189,6 +16315,7 @@
 | Odluka o izmjeni Statuta Fonda za zaštitu depozita | [`odluka/2021/337498/`](odluka/2021/337498/) | in force | 1 | 2021-06-10 | 2021-06-10 |
 | Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti, radi realizacije projekta izgradnje STS 10/0,4 KV 160 KVA "Lipovik" sa priključnim 10 KV kablovskim vodom i uklapanjem u NN mrežu - Rijeka Crnojevića, Cetinje | [`odluka/2021/337706/`](odluka/2021/337706/) | in force | 1 | 2021-06-12 | 2021-06-12 |
 | Odluka o razrješenju ministra pravde, ljudskih i manjinskih prava 42. Vlade Crne Gore | [`odluka/2021/337935/`](odluka/2021/337935/) | in force | 1 | 2021-06-17 | 2021-06-17 |
+| Odluka o imenovanju Savjeta Radio i Televizije Crne Gore | [`odluka/2021/337975/`](odluka/2021/337975/) | in force | 1 | 2021-06-11 | 2021-06-11 |
 | Odluka o izmjeni Odluke o obrazovanju Savjeta za kontrolu biračkog spiska | [`odluka/2021/338098/`](odluka/2021/338098/) | in force | 1 | 2021-06-22 | 2021-06-22 |
 | Odluka o izmjeni Odluke o Savjetu za saradnju organa državne uprave i nevladinih organizacija | [`odluka/2021/338209/`](odluka/2021/338209/) | in force | 1 | 2021-07-09 | 2021-07-09 |
 | Odluka o izmjeni Odluke o osnivanju Nacionalnog odbora za upravljanje vazdušnim prostorom | [`odluka/2021/338218/`](odluka/2021/338218/) | in force | 1 | 2021-07-16 | 2021-07-16 |
@@ -16217,6 +16344,8 @@
 | Odluka o imenovanju Komisije za izmjenu i dopunu Statut Opštine Gusinje | [`odluka/2021/339603/`](odluka/2021/339603/) | amending act | 1 | 2021-05-07 | 2021-05-07 |
 | Odluka o davanju saglasnosti na izmjeni i dopuni Statuta JU Ustava Javne ustanove za kulturu - Guci | [`odluka/2021/339616/`](odluka/2021/339616/) | amending act | 1 | 2021-05-07 | 2021-05-07 |
 | Odluka o davanju saglasnosti na Ugovor o povjeravanju obavljanja komunalnih djelatnosti i korišćenju komunalne infrastrukture i drugih sredstava u svojini Opštine Gusinje | [`odluka/2021/339617/`](odluka/2021/339617/) | in force | 1 | 2021-04-29 | 2021-04-29 |
+| Odluka o izboru Etičke komisije za izabrane predstavnike i funkcionere | [`odluka/2021/339628/`](odluka/2021/339628/) | in force | 1 | 2021-05-07 | 2021-05-07 |
+| Odluka o izboru Etičke komisije za lokalne službenike i namještenike | [`odluka/2021/339629/`](odluka/2021/339629/) | in force | 1 | 2021-05-07 | 2021-05-07 |
 | Odluka o davanju specijalnog ambulantnog vozila na upravljanje i korišćenje zdravstvenoj stanici Žabljak | [`odluka/2021/339631/`](odluka/2021/339631/) | in force | 1 | 2021-04-23 | 2021-04-23 |
 | Odluka o pripremi za asfalt i asfaltiranju lokalnih puteva u Opštini Plužine | [`odluka/2021/339643/`](odluka/2021/339643/) | in force | 1 | 2021-05-07 | 2021-05-07 |
 | Odluka o imenovanju Savjeta za saradnju sa dijasporom | [`odluka/2021/339675/`](odluka/2021/339675/) | in force | 1 | 2021-04-08 | 2021-04-08 |
@@ -16224,6 +16353,8 @@
 | Odluka o davanju u zakup poslovnog prostora u imovini Opštine Herceg Novi putem javnog nadmetanja | [`odluka/2021/339678/`](odluka/2021/339678/) | in force | 1 | 2021-05-07 | 2021-05-07 |
 | Odluka o postavljanju odnosno građenju i uklanjanju pomoćnih objekata na teritoriji Opštine Plužine | [`odluka/2021/339765/`](odluka/2021/339765/) | in force | 1 | 2021-05-07 | 2021-05-07 |
 | Odluka o Imenovanju savjetodavnog tijela d.o.o Park prirode "Piva" | [`odluka/2021/339773/`](odluka/2021/339773/) | in force | 1 | 2021-04-22 | 2021-04-22 |
+| Odluka o prenosu prava na nepokretnostima radi formiranja urbanističkičke parcele urbanističke parcele br.1 u bloku br.1 u skladu sa DUP-om "Rozino II" | [`odluka/2021/339898/`](odluka/2021/339898/) | in force | 1 | 2021-05-07 | 2021-05-07 |
+| Odluka o postavljanju odnosno građenju i uklanjanju pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjenje nepokretljivosti i lica sa invaliditetom na teritoriji Opštine Gusinje | [`odluka/2021/339908/`](odluka/2021/339908/) | in force | 1 | 2021-05-07 | 2021-05-07 |
 | Odluka o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave Opštine Plav | [`odluka/2021/339909/`](odluka/2021/339909/) | amending act | 1 | 2021-04-29 | 2021-04-29 |
 | Odluka o izmjeni i dopuni Odluke o donošenju Glavnog projekta vođenja i regulisanja saobraćajnih tokova u Tivtu | [`odluka/2021/340004/`](odluka/2021/340004/) | amending act | 1 | 2021-06-05 | 2021-06-05 |
 | Odluka o ustupanju na upravljanje i korišćenje objekta autobuske stanice Društvu sa ograničenom odgovornošću "Parking servis" Tivat | [`odluka/2021/340005/`](odluka/2021/340005/) | in force | 1 | 2021-06-05 | 2021-06-05 |
@@ -16262,9 +16393,11 @@
 | Odluka o zabrani izvođenja građevinskih radova tokom ljetnje turističke sezone 2021. godine | [`odluka/2021/340340/`](odluka/2021/340340/) | in force | 1 | 2021-06-19 | 2021-06-19 |
 | Odluka o prestanku mandata predsjednika Skupštine opštine Herceg Novi | [`odluka/2021/340342/`](odluka/2021/340342/) | in force | 1 | 2021-06-07 | 2021-06-07 |
 | Odluka o davanju saglasnosti na Program rada za 2021. godinu d.o.o. "Sportski centar Cetinje" | [`odluka/2021/340357/`](odluka/2021/340357/) | in force | 1 | 2021-06-19 | 2021-06-19 |
+| Odluka o davanju saglasnosti "Crnogorskom elektrodistributivnom sistemu" d.o.o. Podgorica za zasnivanje stvarne službenosti radi izgradnje objekta od opšteg interesa zbog polaganja NN podzemnog voda od TS 10/0,4 kV "Košuta 1 i NKRO 6" na kat. parcelama br. 1161/1, 1165/1 i 1346/9 KO Cetinje I | [`odluka/2021/340369/`](odluka/2021/340369/) | in force | 1 | 2021-06-19 | 2021-06-19 |
 | Odluka o stavljanju van snage Odluke o raspisivanju javnog poziva za prikupljanje ponuda radi prodaje putničkih motornih vozila u vlasništvu Prijestonice Cetinje | [`odluka/2021/340370/`](odluka/2021/340370/) | in force | 1 | 2021-06-19 | 2021-06-19 |
 | Odluka o dopuni Odluke o uslovima i postupku davanja u zakup građevinskog zemljišta | [`odluka/2021/340382/`](odluka/2021/340382/) | amending act | 1 | 2021-06-19 | 2021-06-19 |
 | Odluka o davanju saglasnosti za zaključenje Ugovora o povjeravanju obavljanja komunalnih djelatnosti i korišćenju komunalne infrastrukture i drugih sredstava u svojini Prijestonice Cetinje, sa d.o.o. "Vodovod i kanalizacija- Cetinje" | [`odluka/2021/340394/`](odluka/2021/340394/) | in force | 1 | 2021-06-19 | 2021-06-19 |
+| Odluka o davanju na upravljanje nepokretnosti d.o.o. "Sportski centar" | [`odluka/2021/340402/`](odluka/2021/340402/) | in force | 1 | 2021-06-15 | 2021-06-15 |
 | Odluka o imenovanju člana Savjeta JU Zavičajni muzej "Ganića kula" Rožaje | [`odluka/2021/340405/`](odluka/2021/340405/) | in force | 1 | 2021-06-15 | 2021-06-15 |
 | Odluka o utvrđivanju visine naknade za rad u komisijama, radnim tijelima i savjetima koje obrazu je predsjednik Opštine Rožaje | [`odluka/2021/340416/`](odluka/2021/340416/) | in force | 1 | 2021-06-15 | 2021-06-15 |
 | Odluka o stavljanju van snage Odluke o visini stope doprinosa iz ličnog dohotka za finansiranje Opštinskog fonda za kulturu, fizičku kulturu i informisanje | [`odluka/2021/340515/`](odluka/2021/340515/) | in force | 1 | 2021-06-19 | 2021-06-19 |
@@ -16272,6 +16405,7 @@
 | Odluka o izmjenama i dopunama Statuta d.o.o. "Parking servis" Berane | [`odluka/2021/340551/`](odluka/2021/340551/) | amending act | 1 | 2021-06-15 | 2021-06-15 |
 | Odluka o davanju saglasnosti na Odluku o izmjeni i dopuni Statuta d.o.o. "Vodovod i kanalizacija" Berane | [`odluka/2021/340561/`](odluka/2021/340561/) | amending act | 1 | 2021-06-15 | 2021-06-15 |
 | Odluka o davanju saglasnosti na Aneks Ugovora o povjeravanju obavljanja komunalnih djelatnosti i korišćenja komunalne infrastrukture i drugih sredstava u svojini Opštine Berane | [`odluka/2021/340562/`](odluka/2021/340562/) | in force | 1 | 2021-06-08 | 2021-06-08 |
+| Odluka o davanju na upravljanje nepokretnosti d.o.o. "Parking servis" | [`odluka/2021/340563/`](odluka/2021/340563/) | in force | 1 | 2021-06-15 | 2021-06-15 |
 | Odluka o davanju saglasnosti na Plan i Program rada i finansijski plan JU ''Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju'' Berane za 2021. godinu | [`odluka/2021/340564/`](odluka/2021/340564/) | in force | 1 | 2021-06-15 | 2021-06-15 |
 | Odluka o donošenju Programa privremenih objekata na teritoriji Opštine Berane | [`odluka/2021/340573/`](odluka/2021/340573/) | in force | 1 | 2021-06-15 | 2021-06-15 |
 | Odluka o angažovanju pravnih zastupnika za postupak arbitraže u sporu koji kompanija WTE/EVN vodi protiv Opštine Budva | [`odluka/2021/340593/`](odluka/2021/340593/) | in force | 1 | 2021-06-15 | 2021-06-15 |
@@ -16283,10 +16417,14 @@
 | Odluka o imenovanju Savjeta za davanje prijedloga naziva naselja, ulica i trgova | [`odluka/2021/340901/`](odluka/2021/340901/) | in force | 1 | 2021-06-10 | 2021-06-10 |
 | Odluka o razrješenju Odbora direktora d.o.o. "Sportsko-rekreativni centar" Bar | [`odluka/2021/340903/`](odluka/2021/340903/) | in force | 1 | 2021-06-10 | 2021-06-10 |
 | Odluka o prosječnoj cijeni građevinskog, poljoprivrednog, šumskog i ostalog zemljišta za 2020. godinu | [`odluka/2021/340904/`](odluka/2021/340904/) | in force | 1 | 2021-06-26 | 2021-06-26 |
+| Odluka o izboru potpredsjednika Skupštine Ulcinj | [`odluka/2021/340916/`](odluka/2021/340916/) | in force | 1 | 2021-06-02 | 2021-06-02 |
+| Odluka o razrešenju članova Upravnog Odbora Dnevnog centra za djecu sa posebnim potrebama Opštine Ulcinj | [`odluka/2021/340917/`](odluka/2021/340917/) | in force | 1 | 2021-06-18 | 2021-06-18 |
 | Odluka o prestanku mandata potpredsjednici Opštine Herceg Novi | [`odluka/2021/340918/`](odluka/2021/340918/) | in force | 1 | 2021-06-09 | 2021-06-09 |
 | Odluka o izmjenama i dopunama Odluke o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju puta Ribarske ulice u Plavu | [`odluka/2021/340996/`](odluka/2021/340996/) | amending act | 1 | 2021-06-10 | 2021-06-10 |
 | Odluka o izdvajanju sredstava iz tekuće budžetske rezerve | [`odluka/2021/341190/`](odluka/2021/341190/) | in force | 1 | 2021-07-17 | 2021-07-17 |
 | Odluka o imenovanju Savjeta Javne ustanove Centar za kulturu Kolašin | [`odluka/2021/341191/`](odluka/2021/341191/) | in force | 1 | 2021-07-09 | 2021-07-09 |
+| Odluka o osnivanju Etičke komisije za lokalne službenike i namještenike Glavnog grada Podgorice | [`odluka/2021/341234/`](odluka/2021/341234/) | in force | 1 | 2021-07-17 | 2021-07-17 |
+| Odluka o osnivanju Etičke komisije za izabrane predstavnike i funkcionere u lokalnoj samoupravi Glavnog grada - Podgorice | [`odluka/2021/341235/`](odluka/2021/341235/) | in force | 1 | 2021-07-17 | 2021-07-17 |
 | Odluka o ustupanju Vladi Crne Gore na privremeno upravljanje i korišćenje poslovne prostorije u KO Tuzi, bez naknade | [`odluka/2021/341236/`](odluka/2021/341236/) | in force | 1 | 2021-07-09 | 2021-07-09 |
 | Odluka o izmjenama i dopunama Odluke o osnivanju "Deponija"d.o.o. Podgorica | [`odluka/2021/341258/`](odluka/2021/341258/) | amending act | 1 | 2021-07-17 | 2021-07-17 |
 | Odluka o usvajanju Strategije zapošljavanja Opštine Andrijevica 2021-2025, sa Akcionim planom zapošljavanja u opštini Andrijevica za 2021. godinu | [`odluka/2021/341278/`](odluka/2021/341278/) | in force | 1 | 2021-07-17 | 2021-07-17 |
@@ -16301,6 +16439,7 @@
 | Odluka o umanjenju obaveze plaćanja lokalne komunalne takse za 2021.godinu | [`odluka/2021/341320/`](odluka/2021/341320/) | in force | 1 | 2021-07-17 | 2021-07-17 |
 | Odluka o umanjenju obaveze plaćanja članskog doprinosa Turističkoj organizaciji Kolašin za 2021.godinu | [`odluka/2021/341321/`](odluka/2021/341321/) | in force | 1 | 2021-07-17 | 2021-07-17 |
 | Odluka o izmjenama Odluke o imenovanju Odbora za planiranje i uređenje prostora i komunalno stambenu djelatnost | [`odluka/2021/341603/`](odluka/2021/341603/) | in force | 1 | 2021-10-20 | 2021-10-20 |
+| Odluka o ustanovljavanju stvarne službenosti u korist d.o.o. "Tim Company" Pljevlja radi postavljanja elektrovodova radi izgradnje priključnog 10 kV dalekovoda STS 10/0.4kV, 1 x 100kVA "Romsko naselje" do TS 10/0.4kV, 1 x 1600kVA "Rajčevo brdo | [`odluka/2021/341645/`](odluka/2021/341645/) | in force | 1 | 2021-10-20 | 2021-10-20 |
 | Odluka o izmjenama Odluke o imenovanju Odbora za izbor i imenovanja Skupštine opštine Pljevlja | [`odluka/2021/341646/`](odluka/2021/341646/) | in force | 1 | 2021-10-20 | 2021-10-20 |
 | Odluka o korišćenju i održavanju lokacije za privremeno odlaganje kabastog i biljnog otpada i građevinskog materijala d.o.o. "Komunalno/Komunale" Tuzi | [`odluka/2021/341692/`](odluka/2021/341692/) | in force | 1 | 2021-10-20 | 2021-10-20 |
 | Odluka o izmjenama Odluke o određivanju lokacije sa elementima urbanističko tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa broj 01-018/21-1449/1 od 28.05.2021. godine ("Sl.- list Crne Gore - Opštinski propisi", broj 16/21) | [`odluka/2021/341712/`](odluka/2021/341712/) | in force | 1 | 2021-10-23 | 2021-10-23 |
@@ -16315,6 +16454,7 @@
 | Odluka o utvrđivanju lokacije za postavljanje odnosno izgradnju lokalnog objekta od opšteg interesa - objekta vodovodne infrastrukture - izmještanje cijevi Regionalnog vodovoda | [`odluka/2021/341844/`](odluka/2021/341844/) | in force | 1 | 2021-10-20 | 2021-10-20 |
 | Odluka o utvrđivanju dodatka na osnovnu zaradu zaposlenih u Javnoj ustanovi "Dnevni centar za djecu sa smetnjama i teškoćama u razvoju Herceg Novi" | [`odluka/2021/341845/`](odluka/2021/341845/) | in force | 1 | 2021-10-20 | 2021-10-20 |
 | Odluka o imenovanju jednog člana Odbora direktora Društva sa ograničenom odgovornošću "Brand New Tivat" | [`odluka/2021/341860/`](odluka/2021/341860/) | in force | 1 | 2021-07-29 | 2021-07-29 |
+| Odluka o utvrđivanju broja potpredsjednika Opštine Nikšić | [`odluka/2021/341881/`](odluka/2021/341881/) | in force | 1 | 2021-10-02 | 2021-10-02 |
 | Odluka o usvajanju Godišnjeg Izvještaja o realizaciji godišnjeg programa obavljanja komunalne djelatnosti za 2020. godinu Društva za upravljanje sanitarnom deponijom "Lovanja" doo Kotor | [`odluka/2021/341915/`](odluka/2021/341915/) | in force | 1 | 2021-09-03 | 2021-09-03 |
 | Odluka o davanju prethodne saglasnosti predsjednici Opštine Gusinje da zaključi ugovor o poklonu | [`odluka/2021/342009/`](odluka/2021/342009/) | in force | 1 | 2021-10-23 | 2021-10-23 |
 | Odluka o prodaji zemljišta-katastarske parcele br.1292/3 KO Kolašin radi dokompletiranja urbanističke parcele broj 144 u zahvatu DUP-a "Sportska zona’’ | [`odluka/2021/342011/`](odluka/2021/342011/) | in force | 1 | 2021-10-23 | 2021-10-23 |
@@ -16327,6 +16467,8 @@
 | Odluka o ostvarivanju prava na socijalno stanovanje | [`odluka/2021/342579/`](odluka/2021/342579/) | in force | 1 | 2021-07-30 | 2021-07-30 |
 | Odluka o davanju na privremeno korišćenje poslovnih prostora u zgradi Autobuske stanice Nevladinoj organizaciji "Preporod" Nikšić | [`odluka/2021/342622/`](odluka/2021/342622/) | in force | 1 | 2021-11-09 | 2021-11-09 |
 | Odluka o davanju na korišćenje poslovnih prostora Javnoj zdravstvenoj ustanovi ,,Dom zdravlja Nikšić" | [`odluka/2021/342623/`](odluka/2021/342623/) | in force | 1 | 2021-11-09 | 2021-11-09 |
+| Odluka o usvajanju Strategije zapošljavanja Opštine Berane 2021-2025. godine | [`odluka/2021/342633/`](odluka/2021/342633/) | in force | 1 | 2021-07-29 | 2021-07-29 |
+| Odluka o pomoćnim objektima | [`odluka/2021/342634/`](odluka/2021/342634/) | in force | 1 | 2021-07-30 | 2021-07-30 |
 | Odluka o razrešenju i imanovanju predsjednika Odbora za budžet, privredu i finansije | [`odluka/2021/342635/`](odluka/2021/342635/) | in force | 1 | 2021-07-22 | 2021-07-22 |
 | Odluka o raspisivnju oglasa za davanje u zakup javnim nadmetanjem poslovnog prostora u vlasništvu Opštine Nikšić | [`odluka/2021/342677/`](odluka/2021/342677/) | in force | 1 | 2021-11-09 | 2021-11-09 |
 | Odluka o postavljanju odnosno građenju i uklanjanju pomoćnih objekata na teritoriji opštine Kotor | [`odluka/2021/342823/`](odluka/2021/342823/) | in force | 1 | 2021-09-11 | 2021-09-11 |
@@ -17525,6 +17667,7 @@
 | Odluka o broju studenata za upis u prvu godinu osnovnih studija na Fakultetu za crnogorski jezik i književnost za studijsku 2022/2023. godinu koji se finansiraju iz budžeta Crne Gore | [`odluka/2022/337838/`](odluka/2022/337838/) | in force | 1 | 2022-06-29 | 2022-06-29 |
 | Odluka o stopi kontracikličnog bafera kapitala za treći kvartal 2022. godine | [`odluka/2022/337874/`](odluka/2022/337874/) | in force | 1 | 2022-06-21 | 2022-06-21 |
 | Odluka o izmjeni Odluke o listi događaja od posebnog značaja za javnost u Crnoj Gori | [`odluka/2022/337875/`](odluka/2022/337875/) | in force | 1 | 2022-06-29 | 2022-06-29 |
+| Odluka o imenovanju predsjednice i šest članova Žirija za dodjelu Trinaestojulske nagrade | [`odluka/2022/337930/`](odluka/2022/337930/) | in force | 1 | 2022-06-15 | 2022-06-15 |
 | Odluka o izmjeni Odluke o određivanju rukovodioca izrade izmjena i dopuna Prostorno-urbanističkog plana Glavnog grada Podgorice i visini naknade za rukovodioca i stručni tim za izradu izmjena i dopuna prostorno-urbanističkog plana | [`odluka/2022/337940/`](odluka/2022/337940/) | amending act | 1 | 2022-12-06 | 2022-12-06 |
 | Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi izgradnje trase žičare i stubnih mjesta Kotor - Lovćen | [`odluka/2022/338023/`](odluka/2022/338023/) | in force | 1 | 2022-07-06 | 2022-07-06 |
 | Odluka o izmjeni Odluke o broju studenata za upis u prvu godinu osnovnih studija Univerziteta Crne Gore za studijsku 2022/2023. godinu koji se finansiraju iz budžeta Crne Gore | [`odluka/2022/338229/`](odluka/2022/338229/) | in force | 1 | 2022-07-20 | 2022-07-20 |
@@ -17539,6 +17682,7 @@
 | Odluka o prestanku važenja Odluke o načinu i uslovima raspodjele novčanih sredstava prikupljenih donacijama radi ublažavanja i suzbijanja posljedica nastalih usljed epidemije zarazne bolesti COVID 19 | [`odluka/2022/338745/`](odluka/2022/338745/) | in force | 1 | 2022-07-27 | 2022-07-27 |
 | Odluka o davanju saglasnosti na izmjene i dopune Statuta d.o.o. "Regionalni biznis centar" Berane | [`odluka/2022/339190/`](odluka/2022/339190/) | amending act | 1 | 2022-03-26 | 2022-03-26 |
 | Odluka o davanju saglasnosti na Odluku o davanju saglasnosti za brisanje tereta otuđenja i opterećenja na nepokretnostima | [`odluka/2022/339191/`](odluka/2022/339191/) | in force | 1 | 2022-03-26 | 2022-03-26 |
+| Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za regulaciju rijeke Grnčar od Ade do granice sa Republikom Albanijom u KO Grnčar i KO Gusinje | [`odluka/2022/339203/`](odluka/2022/339203/) | in force | 1 | 2022-03-09 | 2022-03-09 |
 | Odluka o utvrđivanju lokacije sa elementima urbanističko-tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa - privrednog objekta-asfaltne baze | [`odluka/2022/339204/`](odluka/2022/339204/) | in force | 1 | 2022-03-26 | 2022-03-26 |
 | Odluka o izmjeni Odluke o sufinansiranju dijela troškova na uslugama vodosnabdijevanja i odvođenja otpadnih voda korisnicima MOP-a, korisnicima tuđe njege i osobama sa invaliditetom | [`odluka/2022/339377/`](odluka/2022/339377/) | in force | 1 | 2022-03-26 | 2022-03-26 |
 | Odluka o davanju saglasnosti za primicanje građevinskog objekta urbanističkoj parceli | [`odluka/2022/339388/`](odluka/2022/339388/) | in force | 1 | 2022-03-26 | 2022-03-26 |
@@ -17556,6 +17700,7 @@
 | Odluka o izmjeni Odluke o javnim parkiralištima na teritoriji Opštine Nikšić | [`odluka/2022/339621/`](odluka/2022/339621/) | in force | 1 | 2022-04-08 | 2022-04-08 |
 | Odluka o izmjenama i dopunama Odluke o osnivanju Turističke organizacije Opštine Nikšić | [`odluka/2022/339622/`](odluka/2022/339622/) | amending act | 1 | 2022-04-08 | 2022-04-08 |
 | Odluka o prestanku mandata dosadašnjem predsjedniku Skupštine opštine Tivat | [`odluka/2022/339623/`](odluka/2022/339623/) | in force | 1 | 2022-03-29 | 2022-03-29 |
+| Odluka o raspisivanju oglasa za davanje u zakup javnim nadmetanjem poslovnih prostora vlasništvo Opštine Nikšić | [`odluka/2022/339825/`](odluka/2022/339825/) | in force | 1 | 2022-04-08 | 2022-04-08 |
 | Odluka o izmjenama i dopunama Odluke o sufinansiranju adaptacije fasada zgrada na teritoriji Opštine Nikšić | [`odluka/2022/339858/`](odluka/2022/339858/) | amending act | 1 | 2022-04-08 | 2022-04-08 |
 | Odluka o stavljanju van snage Odluke o prodaji zemljišta - kat.parc. 2050/2 K.O. Dobrota I radi dokompletiranja urbanističke parcele i Odluke o izmjenama i dopunama Odluke o prodaji zemljišta - kat.parc. 2050/2 K.O. Dobrota I radi dokompletiranja urbanističke parcele | [`odluka/2022/339928/`](odluka/2022/339928/) | amending act | 1 | 2022-04-14 | 2022-04-14 |
 | Odluka o potvrdi Odluke o upotrebi sredstava stalne budžetske rezerve radi otklanjanja posljedica štete od elementarne nepogode na stambenom objektu Dragoslava Lekovića | [`odluka/2022/339929/`](odluka/2022/339929/) | in force | 1 | 2022-04-14 | 2022-04-14 |
@@ -17572,6 +17717,7 @@
 | Odluka o potvrdi Odluke o načinu utvrđivanja minimalne cijene zakupa zemljišta za postavljanje privremenih objekata | [`odluka/2022/340075/`](odluka/2022/340075/) | in force | 1 | 2022-04-08 | 2022-04-08 |
 | Odluka o potvrdi Odluke o davanju u zakup zemljišta putem prikupljanja ponuda radi postavljanja privremenih objekata | [`odluka/2022/340076/`](odluka/2022/340076/) | in force | 1 | 2022-04-08 | 2022-04-08 |
 | Odluka o davanju saglasnosti na Cjenovnik usluga za sakupljanje i odvoz komunalnog otpada d.o.o. "Komunalno/ Komunale" Tuzi | [`odluka/2022/340077/`](odluka/2022/340077/) | in force | 1 | 2022-04-08 | 2022-04-08 |
+| Odluka o ustupanju vozila na trajno korišćenje bez naknade "Komunalno/ Komunale" d.o.o. Tuzi | [`odluka/2022/340089/`](odluka/2022/340089/) | in force | 1 | 2022-03-23 | 2022-03-23 |
 | Odluka o davanju saglasnosti na Aneks Ugovora o finansiranju i upravljanju Fudbalskim klubom "Dečić" | [`odluka/2022/340090/`](odluka/2022/340090/) | in force | 1 | 2022-03-23 | 2022-03-23 |
 | Odluka o razrješenju i imenovanju člana Odbora za izbor i imenovanja | [`odluka/2022/340101/`](odluka/2022/340101/) | in force | 1 | 2022-03-23 | 2022-03-23 |
 | Odluka o uslovima i načinu plaćanja poreskog duga u ratama | [`odluka/2022/340126/`](odluka/2022/340126/) | in force | 1 | 2022-04-06 | 2022-04-06 |
@@ -17587,7 +17733,9 @@
 | Odluka o davanju saglasnosti na ustanovljavanje prava privremene stvarne službenosti prolaza, uz naknadu, preko dijela katastarske parcele 754 K.O. Glavati | [`odluka/2022/340258/`](odluka/2022/340258/) | in force | 1 | 2022-04-14 | 2022-04-14 |
 | Odluka o izmjeni i dopuni Odluke o pravima iz socijalne i dječje zaštite | [`odluka/2022/340267/`](odluka/2022/340267/) | amending act | 1 | 2022-04-06 | 2022-04-06 |
 | Odluka o izmjeni i dopuni Odluke o utvrđivanju lokacije za izgradnju DTS 10/0, 4kV "Zagora 2" sa priključnim podzemnim 10kV vodom i uklapanjem u N.N mrežu | [`odluka/2022/340268/`](odluka/2022/340268/) | amending act | 1 | 2022-04-14 | 2022-04-14 |
+| Odluka o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Komunalno" Cetinje | [`odluka/2022/340278/`](odluka/2022/340278/) | in force | 1 | 2022-04-14 | 2022-04-14 |
 | Odluka o razrješenju Odbora direktora Društva sa ograničenom odgovornošću "Sportski centar Cetinje" | [`odluka/2022/340279/`](odluka/2022/340279/) | in force | 1 | 2022-04-14 | 2022-04-14 |
+| Odluka o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Sportski centar Cetinje" | [`odluka/2022/340288/`](odluka/2022/340288/) | in force | 1 | 2022-04-14 | 2022-04-14 |
 | Odluka o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Agencija za razvoj i podršku poslovanju" Cetinje | [`odluka/2022/340289/`](odluka/2022/340289/) | in force | 1 | 2022-04-14 | 2022-04-14 |
 | Odluka o izboru predsjednika Odbora povjerenika Opštine Budva | [`odluka/2022/340410/`](odluka/2022/340410/) | in force | 1 | 2022-04-11 | 2022-04-11 |
 | Odluka o davanju saglasnosti na Aneks Ugovora o povjeravanju obavljanja komunalnih djelatnosti i korišćenju komunalne infrastrukture i drugih sredstava u svojini Opštine Danilovgrad | [`odluka/2022/340411/`](odluka/2022/340411/) | in force | 1 | 2022-04-18 | 2022-04-18 |
@@ -17610,6 +17758,7 @@
 | Odluka o davanju u zakup poslovnih prostorija | [`odluka/2022/340640/`](odluka/2022/340640/) | in force | 1 | 2022-04-20 | 2022-04-20 |
 | Odluka o prestanku mandata Sekretara Skupštine opštine Petnjica i imenovanju vd sekretara | [`odluka/2022/340641/`](odluka/2022/340641/) | in force | 1 | 2022-03-29 | 2022-03-29 |
 | Odluka o razrješenju zamjenika člana Opštinske izborne komisije Petnjica | [`odluka/2022/340642/`](odluka/2022/340642/) | in force | 1 | 2022-03-29 | 2022-03-29 |
+| Odluka o prenosu prava svojine na zemljištu uz naknadu | [`odluka/2022/340643/`](odluka/2022/340643/) | in force | 1 | 2022-04-20 | 2022-04-20 |
 | Odluka o davanju saglasnosti na Program rada sa finansijskim planom JU Centar za kulturu Rožaje za 2022. godinu | [`odluka/2022/340654/`](odluka/2022/340654/) | in force | 1 | 2022-04-20 | 2022-04-20 |
 | Odluka o davanju saglasnosti na Plan i Program rada sa finansijskim planom JU Narodna biblioteka Rožaje za 2022. godinu | [`odluka/2022/340655/`](odluka/2022/340655/) | in force | 1 | 2022-04-20 | 2022-04-20 |
 | Odluka o davanju saglasnosti na Plan i Program rada sa finansijskim planom JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju Opštine Rožaje za 2022. godinu | [`odluka/2022/340656/`](odluka/2022/340656/) | in force | 1 | 2022-04-20 | 2022-04-20 |
@@ -17617,12 +17766,16 @@
 | Odluka o otkupu zemljišta radi dokompletiranja urbanističke parcele br. 1 sa ID DUP-a "Ulcinj-Grad" za lokalitet "Pristan" Ulcinj, Opština Ulcinj | [`odluka/2022/340724/`](odluka/2022/340724/) | in force | 1 | 2022-04-29 | 2022-04-29 |
 | Odluka o prihvatanju inicijative za uspostavljanje saradnje i bratimljenja Opštine Herceg Novi sa Opštinom Foča | [`odluka/2022/340725/`](odluka/2022/340725/) | in force | 1 | 2022-04-29 | 2022-04-29 |
 | Odluka o dopuni Odluke o organizaciji i načinu rada lokalne uprave | [`odluka/2022/340729/`](odluka/2022/340729/) | amending act | 1 | 2022-04-29 | 2022-04-29 |
+| Odluka o stavljanju van snage Odluke o osnivanju Društva sa ograničenom odgovornošću ,,Luka Herceg Novi - gradska luka Škver’’ Herceg Novi ("Službeni list CG - Opštinski propisi’’, br. 40/21) | [`odluka/2022/340738/`](odluka/2022/340738/) | in force | 1 | 2022-04-29 | 2022-04-29 |
 | Odluka o određivanju lokacije sa elementima urbanističko-tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa - objekti osvjetljavanja skijaških staza uz ski liftove | [`odluka/2022/340739/`](odluka/2022/340739/) | in force | 1 | 2022-04-29 | 2022-04-29 |
+| Odluka o izgradnji lokalnog objekta od opšteg interesa saobraćajnice na Luštici, od kompleksa Orascom - MR 2 saobraćajnice do granice sa Opštinom Herceg Novi, čija trasa ide preko kat.parc.br.1045/1,1045/4 sve KO Radovići u zahvatu "Prostornog plana posebne namjene za obalno područje Crne Gore" ("Sl.list CG", broj 56/18) | [`odluka/2022/340764/`](odluka/2022/340764/) | in force | 1 | 2022-05-07 | 2022-05-07 |
 | Odluka o prestanku mandata članu Odbora direktora d.o.o. "Komunalno" Tivat | [`odluka/2022/340766/`](odluka/2022/340766/) | in force | 1 | 2022-05-07 | 2022-05-07 |
 | Odluka o prestanku mandata jednom članu Odbora direktora d.o.o. "Brand New Tivat" | [`odluka/2022/340778/`](odluka/2022/340778/) | in force | 1 | 2022-05-07 | 2022-05-07 |
 | Odluka o prestanku mandata članu Skupštine Fudbalskog kluba "Arsenal" Tivat | [`odluka/2022/340779/`](odluka/2022/340779/) | in force | 1 | 2022-05-07 | 2022-05-07 |
+| Odluka o razrješenju člana Upravnog odbora JU "Dnevni centar za djecu i mlade sa smetnjama i teškoćama u razvoju-Tivat" | [`odluka/2022/340780/`](odluka/2022/340780/) | in force | 1 | 2022-05-07 | 2022-05-07 |
 | Odluka o otkupu zemljišta radi dokompletiranja urbanističke parcele br.66 sa ID DUP-a "Ulcinj-Grad" za lokalitet "Pinjes 2 " Opština Ulcinj | [`odluka/2022/340781/`](odluka/2022/340781/) | in force | 1 | 2022-05-07 | 2022-05-07 |
 | Odluka o stavljanju van snage Odluke o prenosu prava svojine na građevinskom zemljištu na Bošković Jovana i Vujinović Bogoslava | [`odluka/2022/340930/`](odluka/2022/340930/) | in force | 1 | 2022-04-14 | 2022-04-14 |
+| Odluka o određivanju lokacije sa elementima urbanističko-tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa - ulice sa pratećim objektima u naselju Zeleni | [`odluka/2022/341006/`](odluka/2022/341006/) | in force | 1 | 2022-04-29 | 2022-04-29 |
 | Odluka o potvrđivanju Odluke o utvrđivanju lokacije za rekonstrukciju lokalnog objekta od opšteg interesa - sportskog objekta - bazena u okviru Instituta "Dr Simo Milošević" u Igalu ("Službeni list Crne Gore - Opštinski propisi", br. 6/22 ) | [`odluka/2022/341020/`](odluka/2022/341020/) | in force | 1 | 2022-04-29 | 2022-04-29 |
 | Odluka o utvrđivanju lokacije za postavljanje odnosno izgradnju lokalnog objekta od opšteg interesa -10 kV kablovskog voda od MBTS "Kamenje" do MBTS "Selev" u Zelenici | [`odluka/2022/341031/`](odluka/2022/341031/) | in force | 1 | 2022-04-29 | 2022-04-29 |
 | Odluka o izmjenama Odluke o godišnjoj naknadi za korišćenje prostora za bespravne objekte ("Službeni list Crne Gore - Opštinski propisi", br. 13/21) | [`odluka/2022/341032/`](odluka/2022/341032/) | in force | 1 | 2022-04-29 | 2022-04-29 |
@@ -17634,12 +17787,14 @@
 | Odluka o imenovanju člana Opštinske izborne komisije Rožaje u stalnom sastavu | [`odluka/2022/341475/`](odluka/2022/341475/) | in force | 1 | 2022-01-20 | 2022-01-20 |
 | Odluka o razrješenju predsjednika Odbora direktora DOO "Agencija za projektovanje i razvoj" Rožaje | [`odluka/2022/341476/`](odluka/2022/341476/) | in force | 1 | 2022-01-12 | 2022-01-12 |
 | Odluka o naknadama za korišćenje opštinskih puteva Opštine Šavnik | [`odluka/2022/341477/`](odluka/2022/341477/) | in force | 1 | 2022-01-20 | 2022-01-20 |
+| Odluka o finansiranju troškova smještaja i ishrane u studentskim domovima za studente Opštine Šavnik za 2022. godinu | [`odluka/2022/341505/`](odluka/2022/341505/) | in force | 1 | 2022-01-20 | 2022-01-20 |
 | Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću "Parking servis" Budva | [`odluka/2022/341507/`](odluka/2022/341507/) | amending act | 1 | 2022-01-20 | 2022-01-20 |
 | Odluka o davanju saglasnosti za kupovinu nepokretnosti-pomoćnih objekata | [`odluka/2022/341508/`](odluka/2022/341508/) | in force | 1 | 2022-01-20 | 2022-01-20 |
 | Odluka o davanju saglasnosti na Cjenovnik za obavljanje djelatnosti vodosnabdijevanja i Cjenovnik za obavljanje djelatnosti prihvatanje i odvodjenje komunalnog otpada | [`odluka/2022/341531/`](odluka/2022/341531/) | in force | 1 | 2022-01-20 | 2022-01-20 |
 | Odluka davanju na korišćenje zemljišta Opštine Šavnik NVO "Lovno-ribolovnom društvu Komarnica" Šavnik | [`odluka/2022/341532/`](odluka/2022/341532/) | in force | 1 | 2022-01-20 | 2022-01-20 |
 | Odluka o davanju saglasnosti na Statut Društva sa ograničenom odgovornošću "Komunalno" Cetinje | [`odluka/2022/341601/`](odluka/2022/341601/) | in force | 1 | 2022-06-16 | 2022-06-16 |
 | Odluka o održavanju javnih groblja, kapela i sahranjivanju na teritoriji Opštine Mojkovac | [`odluka/2022/342016/`](odluka/2022/342016/) | in force | 1 | 2022-06-29 | 2022-06-29 |
+| Odluka o izgradnji lokalnog objekta od opšteg interesa - kablovskih- podzemnih vodova 10kV za uklapanje TS 35/10kV "Tri Krsta" u 10kV mrežu, a čija trasa ide preko kat.parc.br. 1088/2, 1088/3, 1147/1, 1147/4, 1045/76, 1147/5, 1045/75, 1045/26, 1147/7, 1147/6 i 1045/69 sve KO Radovići, u zahvatu "Prostornog plana posebne namjene za obalno područje" ("Sl.list CG", br. 56/18) | [`odluka/2022/342056/`](odluka/2022/342056/) | in force | 1 | 2022-07-09 | 2022-07-09 |
 | Odluka o davanju saglasnosti na Odluku o imenovanju Izvršnog direktora Društva sa ograničenom odgovornošću Regionalni edukativni centar za održivi razvoj i poljoprivredu za sjevernu regiju Crne Gore sa sjedištem u Andrijevici | [`odluka/2022/342072/`](odluka/2022/342072/) | in force | 1 | 2022-01-17 | 2022-01-17 |
 | Odluka o izgradnji lokalnog objekta od opšteg interesa - infrastrukture (vodovodne i kanalizacione) u trupu šetališta od Sv. Roka do Lepetana, a preko kat.parc.br. 482 i 472 sve KO Lepetani i 745 KO Donja Lastva u obuhvatu Prostorno - urbanističkog plana Tivta do 2020. godine ("Sl.list CG - Opštinski propisi", br. 24/2010) i "Prostornog plana posebne namjene za Obalno područje Crne Gore" ("Sl. list CG", br. 56/18) | [`odluka/2022/342099/`](odluka/2022/342099/) | in force | 1 | 2022-07-09 | 2022-07-09 |
 | Odluka O oslobađanju plaćanja poreza na nepokretnosti za poljoprivredno zemljište koje se koristi u poljoprivredne svrhe u 2022.godini | [`odluka/2022/342121/`](odluka/2022/342121/) | in force | 1 | 2022-01-25 | 2022-01-25 |
@@ -18130,6 +18285,8 @@
 | Odluka o davanju saglasnosti za odustajanje od žalbe izjavljene na presudu Privrednog suda u Podgorici P.br.222/21 | [`odluka/2023/341426/`](odluka/2023/341426/) | in force | 1 | 2023-01-04 | 2023-01-04 |
 | Odluka o davanju saglasnosti za odustajanje od revizije izjavljene na presudu Višeg suda u Podgorici Gž.br.1702/2022-16 od 14.09.2022. god. | [`odluka/2023/341453/`](odluka/2023/341453/) | in force | 1 | 2023-01-04 | 2023-01-04 |
 | Odluka o razrješenju članova Odbora direktora d.o.o. "Vodovod i kanalizacija" Tivat | [`odluka/2023/341454/`](odluka/2023/341454/) | in force | 1 | 2023-01-12 | 2023-01-12 |
+| Odluka o imenovanju Savjeta Javne ustanove "Centar za kulturu" Tivat | [`odluka/2023/341455/`](odluka/2023/341455/) | in force | 1 | 2023-01-12 | 2023-01-12 |
+| Odluka o imenovanju Savjeta JU Centar za kulturu Plužine | [`odluka/2023/341556/`](odluka/2023/341556/) | in force | 1 | 2022-12-26 | 2022-12-26 |
 | Odluka o izmjenama i dopunama Odluke o organizovanju Javne ustanove Gradska biblioteka i čitaonica Herceg Novi ("Sl.list CG-Opštinski propisi" br. 26/12) | [`odluka/2023/341612/`](odluka/2023/341612/) | amending act | 1 | 2023-01-13 | 2023-01-13 |
 | Odluka o imanovanju Odbora za planiranje prostora, zaštitu životne sredine i komunalno- stambenu djelatnost | [`odluka/2023/341766/`](odluka/2023/341766/) | in force | 1 | 2023-01-05 | 2023-01-05 |
 | Odluka o imanovanju Odbora za međuopštinsku i međunarodnu saradnju | [`odluka/2023/341819/`](odluka/2023/341819/) | in force | 1 | 2023-01-05 | 2023-01-05 |
@@ -18139,6 +18296,7 @@
 | Odluka o davanju saglasnosti "Crnogorskom elektrodistributivnom sistemu" d.o.o. Podgorica za zasnivanje stvarne službenosti na katastarskim parcelama u raspolaganju opštine Nikšić | [`odluka/2023/341874/`](odluka/2023/341874/) | in force | 1 | 2023-01-13 | 2023-01-13 |
 | Odluka o izmjenama i dopunama Odluke o dodatnoj podršci preradi mlijeka na poljoprivrednom gazdinstvu | [`odluka/2023/342280/`](odluka/2023/342280/) | amending act | 1 | 2023-01-13 | 2023-01-13 |
 | Odluka o subvencionisanju linijskog međugradskog saobraćaja na relaciji Nikšić - Plužine - Nikšić | [`odluka/2023/342282/`](odluka/2023/342282/) | in force | 1 | 2023-01-13 | 2023-01-13 |
+| Odluka o imenovanju Odbora Direktora d.o.o. "Komunalno Plužine" Plužine | [`odluka/2023/342340/`](odluka/2023/342340/) | in force | 1 | 2022-12-26 | 2022-12-26 |
 | Odluka o određivanju vrijednosti boda za obračun naknade za postavljanje privremenih objekata na teritoriji opštine Plužine za 2023. godinu | [`odluka/2023/342658/`](odluka/2023/342658/) | in force | 1 | 2023-01-13 | 2023-01-13 |
 | Odluka o uvođenju izletničke takse na teritoriji Opštine Herceg Novi za turistički lokalitet | [`odluka/2023/343594/`](odluka/2023/343594/) | in force | 1 | 2023-01-13 | 2023-01-13 |
 | Odluka o donošenju Godišnjeg programa obavljanja komunalnih djelatnosti sa finansijskim planom za 2023. godinu "Parking servis Herceg Novi" d.o.o. Herceg Novi | [`odluka/2023/343595/`](odluka/2023/343595/) | in force | 1 | 2023-01-13 | 2023-01-13 |
@@ -22801,7 +22959,7 @@
 | Lokalni akcioni plan za mlade Opštine Mojkovac za period 2025-2026 godinu | [`plan/2024/376327/`](plan/2024/376327/) | in force | 1 | 2025-01-08 | 2025-01-08 |
 | Opšti plan zaštite od štetnog dejstva voda za vode od značaja za Opštinu Danilovgrad za period od 2026. do 2031. godine | [`plan/2026/396237/`](plan/2026/396237/) | in force | 1 | 2026-07-25 | 2026-07-25 |
 
-## poslovnik (82)
+## poslovnik (85)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -22850,6 +23008,7 @@
 | Privremeni poslovnik o radu Skupštine opštine Gusinje | [`poslovnik/2014/342974/`](poslovnik/2014/342974/) | in force | 1 | 2014-08-26 | 2014-08-26 |
 | Poslovnik o radu Komisije za sprječavanje sukoba interesa | [`poslovnik/2015/310521/`](poslovnik/2015/310521/) | in force | 1 | 2015-04-03 | 2015-04-03 |
 | Poslovnik Skupštine Opštine Pljevlja | [`poslovnik/2015/339683/`](poslovnik/2015/339683/) | in force | 1 | 2015-04-24 | 2015-04-24 |
+| Poslovnik Skupštine Opštine Šavnik | [`poslovnik/2015/340803/`](poslovnik/2015/340803/) | in force | 1 | 2015-06-16 | 2015-06-16 |
 | Poslovnik o radu Opštinske izborne komisije Rožaje | [`poslovnik/2016/293776/`](poslovnik/2016/293776/) | in force | 1 | 2016-08-29 | 2016-08-29 |
 | Poslovnik o radu upravnog odbora Inženjerske komore Crne Gore | [`poslovnik/2018/328877/`](poslovnik/2018/328877/) | in force | 1 | 2018-12-15 | 2018-12-15 |
 | Poslovnik o radu Skupštine opštine Mojkovac | [`poslovnik/2018/377970/`](poslovnik/2018/377970/) | in force | 1 | 2018-10-27 | 2018-10-27 |
@@ -22872,9 +23031,11 @@
 | Poslovnik o radu Opštinske izborne komisije Opštine Zeta | [`poslovnik/2022/291898/`](poslovnik/2022/291898/) | in force | 1 | 2022-10-04 | 2022-10-04 |
 | Poslovnik o radu Odbora povjerenika Opštine Budva | [`poslovnik/2022/317348/`](poslovnik/2022/317348/) | in force | 1 | 2022-04-11 | 2022-04-11 |
 | Poslovnik Odbora povjerenika Opštine Tivat | [`poslovnik/2022/339470/`](poslovnik/2022/339470/) | in force | 1 | 2022-03-28 | 2022-03-28 |
+| Poslovnik o radu Opštinske izborne komisije | [`poslovnik/2022/340424/`](poslovnik/2022/340424/) | in force | 1 | 2022-04-07 | 2022-04-07 |
 | Poslovnik o radu Odbora povjerenika Opštine Budva | [`poslovnik/2022/342458/`](poslovnik/2022/342458/) | in force | 1 | 2022-07-19 | 2022-07-19 |
 | Poslovnik o radu Skupštine opštine | [`poslovnik/2022/347117/`](poslovnik/2022/347117/) | in force | 1 | 2022-09-24 | 2022-09-24 |
 | Poslovnik o radu Opštinske izborne komisije Petnjica | [`poslovnik/2023/324160/`](poslovnik/2023/324160/) | in force | 1 | 2023-02-13 | 2023-02-13 |
+| Poslovnik o radu Opštinske izborne komisije | [`poslovnik/2023/339447/`](poslovnik/2023/339447/) | in force | 1 | 2023-02-09 | 2023-02-09 |
 | Poslovnik o radu Opštinske izborne komisije | [`poslovnik/2023/363321/`](poslovnik/2023/363321/) | in force | 1 | 2023-03-10 | 2023-03-10 |
 | Poslovnik o radu Skupštine opštine Nikšić | [`poslovnik/2024/368081/`](poslovnik/2024/368081/) | in force | 1 | 2024-04-17 | 2024-04-17 |
 | Poslovnik o radu Skupštine opštine Zeta | [`poslovnik/2024/368156/`](poslovnik/2024/368156/) | in force | 1 | 2024-04-17 | 2024-04-17 |
@@ -23170,7 +23331,7 @@
 | Pravila o izmjeni i dopuni Pravila o bližem sadržaju, rokovima dostavljanja mjesečnog, polugodišnjeg i godišnjeg izvještaja otvorenih investicionih fondova sa javnom ponudom | [`pravila/2026/399385/`](pravila/2026/399385/) | amending act | 1 | 2026-10-30 | 2026-10-30 |
 | Pravila za poravnanje razlike između opravdanih i ostvarenih prihoda i utvrđenih troškova između licenciranih operatora distributivnog sistema | [`pravila/2026/399555/`](pravila/2026/399555/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## pravilnik (2809, of which 261 amending acts)
+## pravilnik (2825, of which 261 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -23707,6 +23868,7 @@
 | Pravilnik o sadrzaju i nacinu izrade liste kategorija registraturske gradje i nacinu odabiranja i predaje arhivske gradje Drzavnom arhivu | [`pravilnik/2011/337233/`](pravilnik/2011/337233/) | in force | 1 | 2011-12-14 | 2011-12-14 |
 | Pravilnik o blizim uslovima i nacinu vrsenja poslova maticne bibliotecke djelatnosti | [`pravilnik/2011/337265/`](pravilnik/2011/337265/) | in force | 1 | 2011-12-14 | 2011-12-14 |
 | Pravilnik o odredjivanju visine troskova ishrane djece koje placaju roditelji u javnoj predskolskoj ustanovi | [`pravilnik/2011/337266/`](pravilnik/2011/337266/) | in force | 1 | 2011-12-14 | 2011-12-14 |
+| Pravilnik o nacinu sakupljanja, cuvanja, obrade i skladistenja radioaktivnog otpada | [`pravilnik/2011/337312/`](pravilnik/2011/337312/) | in force | 1 | 2011-12-14 | 2011-12-14 |
 | Pravilnik o postupku davanja i sadrzini saglasnosti za uzimanje djelova ljudskog tijela od zivog davaoca | [`pravilnik/2011/337313/`](pravilnik/2011/337313/) | in force | 1 | 2011-12-14 | 2011-12-14 |
 | Pravilnik o uslovima koje treba da ispunjava izvodjac profesionalne rehabilitacije, radni centar, zastitna radionica i zastitni pogon | [`pravilnik/2011/337314/`](pravilnik/2011/337314/) | in force | 1 | 2011-12-14 | 2011-12-14 |
 | Pravilnik o mjerama za sprjecavanje pojave, utvrdjivanje, suzbijanje i iskorjenjivanje bjesnila kod zivotinja | [`pravilnik/2011/337381/`](pravilnik/2011/337381/) | in force | 1 | 2011-11-19 | 2011-11-19 |
@@ -24298,6 +24460,7 @@
 | Pravilnik o obrascu zahtjeva za upis u registar lica koja mogu da vrše spoljnu trgovinu kontrolisanom robom i sadržaju i načinu vođenja registra | [`pravilnik/2016/336945/`](pravilnik/2016/336945/) | in force | 1 | 2016-08-12 | 2016-08-12 |
 | Pravilnik o bližem sadržaju i načinu vršenja zdravstvene zaštite u Vojsci Crne Gore | [`pravilnik/2016/336954/`](pravilnik/2016/336954/) | in force | 1 | 2016-08-12 | 2016-08-12 |
 | Pravilnik o uslovima za izdavanje dozvole za proširenje namjene registrovanog sredstva za zaštitu bilja | [`pravilnik/2016/337088/`](pravilnik/2016/337088/) | in force | 1 | 2016-08-09 | 2016-08-09 |
+| Pravilnik o izmjenama Pravilnika o identifikaciji i načinu vođenja registara gazdinstva ovaca i koza i elektronske baze podataka | [`pravilnik/2016/337098/`](pravilnik/2016/337098/) | in force | 1 | 2016-08-09 | 2016-08-09 |
 | Pravilnik o listi proizvoda i načinu isticanja obavještenja o robi na Brajevom pismu | [`pravilnik/2016/337300/`](pravilnik/2016/337300/) | in force | 1 | 2016-08-31 | 2016-08-31 |
 | Pravilnik o bližim uslovima za upis pravnog lica u registar inovativnih organizacija | [`pravilnik/2016/337482/`](pravilnik/2016/337482/) | in force | 1 | 2016-08-17 | 2016-08-17 |
 | Pravilnik o količinama opasnih materija po kategorijama kojima se određuje stepen rizika SEVESO postrojenja | [`pravilnik/2016/337537/`](pravilnik/2016/337537/) | in force | 1 | 2016-10-14 | 2016-10-14 |
@@ -24312,9 +24475,11 @@
 | Pravilnik o bližem sadržaju Plana prevencije i plana zaštite od udesa | [`pravilnik/2016/337806/`](pravilnik/2016/337806/) | in force | 1 | 2016-11-03 | 2016-11-03 |
 | Pravilnik o sadržaju obrasca zahtjeva za naknadu štete žrtvama krivičnih djela nasilja | [`pravilnik/2016/337909/`](pravilnik/2016/337909/) | in force | 1 | 2016-10-28 | 2016-10-28 |
 | Pravilnik o načinu i postupku sačinjavanja i vođenja liste čekanja i kriterijumima za utvrđivanje prioriteta za dodjeljivanje organa za presađivanje | [`pravilnik/2016/337979/`](pravilnik/2016/337979/) | in force | 1 | 2016-11-03 | 2016-11-03 |
+| Pravilnik o projektovanju, proizvodnji, popravci, modifikaciji, održavanju i provjeri plovidbenosti aneks II vazduhoplova | [`pravilnik/2016/338040/`](pravilnik/2016/338040/) | in force | 1 | 2016-10-28 | 2016-10-28 |
 | Pravilnik o dopuni Pravilnika o mjestu i načinu nanošenja oznaka državne pripadnosti i registarskih oznaka na vazduhoplovima | [`pravilnik/2016/338157/`](pravilnik/2016/338157/) | amending act | 1 | 2016-12-14 | 2016-12-14 |
 | Pravilnik o tehničkim uslovima za sposobnost jahte za plovidbu | [`pravilnik/2016/338180/`](pravilnik/2016/338180/) | in force | 1 | 2016-12-09 | 2016-12-09 |
 | Pravilnik o označavanju energetske efikasnosti rashladnih uređaja za domaćinstvo | [`pravilnik/2016/338181/`](pravilnik/2016/338181/) | in force | 1 | 2016-12-09 | 2016-12-09 |
+| Pravilnik o označavanju energetske efikasnosti televizora | [`pravilnik/2016/338190/`](pravilnik/2016/338190/) | in force | 1 | 2016-12-09 | 2016-12-09 |
 | Pravilnik o označavanju energetske efikasnosti mašina za pranje posuđa u domaćinstvu | [`pravilnik/2016/338191/`](pravilnik/2016/338191/) | in force | 1 | 2016-12-09 | 2016-12-09 |
 | Pravilnik o načinu izrade dokumenta o ocjeni građevinskog proizvoda i sadržaju i načinu vođenja evidencije izdatih dokumenata o ocjeni | [`pravilnik/2016/338371/`](pravilnik/2016/338371/) | in force | 1 | 2016-11-26 | 2016-11-26 |
 | Pravilnik o visini naknade za doznaku stabala, premjer i žigosanje drvnih sortimenata i izradu izvođačkog projekta | [`pravilnik/2016/338425/`](pravilnik/2016/338425/) | in force | 1 | 2016-12-09 | 2016-12-09 |
@@ -24324,6 +24489,7 @@
 | Pravilnik o izmjenama Pravilnika o načinu i rokovima za sprovođenje mjera zaštite sigurnosti i integriteta elektronskih komunikacionih mreža i usluga | [`pravilnik/2016/338630/`](pravilnik/2016/338630/) | in force | 1 | 2017-01-05 | 2017-01-05 |
 | Pravilnik o bližim uslovima u pogledu prostora, opreme i kadra koje treba da ispunjavaju ovlašćene zdravstvene ustanove u postupcima od davanja do presađivanja ljudskih organa | [`pravilnik/2016/338696/`](pravilnik/2016/338696/) | in force | 1 | 2016-12-24 | 2016-12-24 |
 | Pravilnik o bližem postupku i načinu istraživanja nesreća i ozbiljnih nezgoda vazduhoplova | [`pravilnik/2016/338726/`](pravilnik/2016/338726/) | in force | 1 | 2016-02-06 | 2016-02-06 |
+| Pravilnik o označavanju mjesta za parkiranje vozila lica sa invaliditetom i izgledu znaka pristupačnosti kojima se obilježavaju vozila lica sa invaliditetom | [`pravilnik/2016/338750/`](pravilnik/2016/338750/) | in force | 1 | 2016-12-31 | 2016-12-31 |
 | Pravilnik o eko dizajnu proizvoda koji utiču na potrošnju energije | [`pravilnik/2016/338818/`](pravilnik/2016/338818/) | in force | 1 | 2016-02-19 | 2016-02-19 |
 | Pravilnik o načinu vršenja kontrole političkih subjekata i kontrole i nadzora tokom izborne kampanje | [`pravilnik/2016/338829/`](pravilnik/2016/338829/) | in force | 1 | 2016-02-11 | 2016-02-11 |
 | Pravilnik o bližim uslovima za izdavanje licence za upravljanje željezničkom infrastrukturom | [`pravilnik/2016/338898/`](pravilnik/2016/338898/) | in force | 1 | 2016-02-13 | 2016-02-13 |
@@ -24468,6 +24634,7 @@
 | Pravilnik o bližem načinu uzimanja otisaka prstiju i fotografije od stranca koji izražava namjeru za podnošenje zahtjeva za međunarodnu zaštitu | [`pravilnik/2017/337756/`](pravilnik/2017/337756/) | in force | 1 | 2018-01-01 | 2018-01-01 |
 | Pravilnik o izmjenama Pravilnika o programu i načinu polaganja ispita za javne izvršitelje | [`pravilnik/2017/337758/`](pravilnik/2017/337758/) | in force | 1 | 2017-10-08 | 2017-10-08 |
 | Pravilnik o utvrđivanju zdravstvene sposobnosti građanina za raspoređivanje u jedinicu civilne zaštite | [`pravilnik/2017/337807/`](pravilnik/2017/337807/) | in force | 1 | 2017-10-27 | 2017-10-27 |
+| Pravilnik o električnoj opremi namijenjenoj za upotrebu u okviru određenih naponskih granica | [`pravilnik/2017/337861/`](pravilnik/2017/337861/) | in force | 1 | 2017-10-14 | 2017-10-14 |
 | Pravilnik o radnom vremenu i odmorima kontrolora letenja | [`pravilnik/2017/337862/`](pravilnik/2017/337862/) | in force | 1 | 2017-10-14 | 2017-10-14 |
 | Pravilnik o načinu upisa u registar proizvođača jakih alkoholnih pića | [`pravilnik/2017/337976/`](pravilnik/2017/337976/) | in force | 1 | 2017-10-21 | 2017-10-21 |
 | Pravilnik o dopunama Pravilnika o kriterijumima za raspodjelu i upravljanje sredstvima za očuvanje i jačanje saradnje sa iseljenicima | [`pravilnik/2017/337989/`](pravilnik/2017/337989/) | amending act | 1 | 2017-10-19 | 2017-10-19 |
@@ -24653,8 +24820,10 @@
 | Pravilnik o tehničkim zahtjevima za zvučnu zaštitu zgrade od buke | [`pravilnik/2018/337755/`](pravilnik/2018/337755/) | in force | 1 | 2018-09-15 | 2018-09-15 |
 | Pravilnik o načinu obračuna površine i zapremine zgrade | [`pravilnik/2018/337764/`](pravilnik/2018/337764/) | in force | 1 | 2018-09-15 | 2018-09-15 |
 | Pravilnik o bližem načinu sprovođenja postupka davanja nedrvnih šumskih proizvoda na komercijalno korišćenje | [`pravilnik/2018/337801/`](pravilnik/2018/337801/) | in force | 1 | 2018-10-06 | 2018-10-06 |
+| Pravilnik o izgledu i sadržaju obrasca dozvola za vršenje poslova zaštite | [`pravilnik/2018/337816/`](pravilnik/2018/337816/) | in force | 1 | 2018-10-25 | 2018-10-25 |
 | Pravilnik o sadržaju i načinu vođenja evidencije o količinama zahvaćene i isporučene vode iz sistema regionalnog vodosnabdijevanja i sadržaju informacionog sistema regionalnog vodosnabdijevanja | [`pravilnik/2018/337817/`](pravilnik/2018/337817/) | in force | 1 | 2018-10-25 | 2018-10-25 |
 | Pravilnik o sadržaju i načinu vođenja evidencije o strancima kojima davalac smještaja pruža usluge smještaja | [`pravilnik/2018/337872/`](pravilnik/2018/337872/) | in force | 1 | 2018-10-12 | 2018-10-12 |
+| Pravilnik o sadržaju i načinu vođenja registra licenci i obrascu licenci za rad farmaceuta | [`pravilnik/2018/337873/`](pravilnik/2018/337873/) | in force | 1 | 2018-10-05 | 2018-10-05 |
 | Pravilnik o načinu vrednovanja projekata koji se finansiraju iz sredstava Fonda za zaštitu i ostvarivanje manjinskih prava | [`pravilnik/2018/337885/`](pravilnik/2018/337885/) | in force | 1 | 2018-10-12 | 2018-10-12 |
 | Pravilnik o načinu podnošenja prijave i odjave boravka koju za stranca podnosi davalac smještaja | [`pravilnik/2018/337923/`](pravilnik/2018/337923/) | in force | 1 | 2018-10-18 | 2018-10-18 |
 | Pravilnik o načinu vođenja Registra sportskih organizacija | [`pravilnik/2018/337925/`](pravilnik/2018/337925/) | in force | 1 | 2018-11-02 | 2018-11-02 |
@@ -24674,6 +24843,7 @@
 | Pravilnik o izmjenama i dopuni Pravilnika o mjerama za sprječavanje pojave, otkrivanje, suzbijanje i iskorjenjivanje egzotičnih i neegzotičnih bolesti vodenih životinja i zdravstvenim uslovima za njihovo stavljanje u promet | [`pravilnik/2018/338438/`](pravilnik/2018/338438/) | amending act | 1 | 2019-01-04 | 2019-01-04 |
 | Pravilnik o bližim uslovima za osnivanje sportske organizacije i obavljanje sportske djelatnosti | [`pravilnik/2018/338439/`](pravilnik/2018/338439/) | in force | 1 | 2019-01-04 | 2019-01-04 |
 | Pravilnik o načinu izrade i bližim elementima metapodataka za skup prostornih podataka i servis prostornih podataka | [`pravilnik/2018/338493/`](pravilnik/2018/338493/) | in force | 1 | 2018-12-22 | 2018-12-22 |
+| Pravilnik o izboru i opozivu članova Skupštine Komore fizioterapeuta Crne Gore | [`pravilnik/2018/338568/`](pravilnik/2018/338568/) | in force | 1 | 2018-12-23 | 2018-12-23 |
 | Pravilnik o bližim uslovima i načinu izdavanja dozvole za privremeni boravak radi učestvovanja u programima međunarodne razmjene učenika i studenata ili drugim programima mladih | [`pravilnik/2018/338646/`](pravilnik/2018/338646/) | in force | 1 | 2018-12-08 | 2018-12-08 |
 | Pravilnik o dodjeLjivanju jubilarne nagrade licu u službi u Vojsci Crne Gore | [`pravilnik/2018/338664/`](pravilnik/2018/338664/) | in force | 1 | 2018-12-15 | 2018-12-15 |
 | Pravilnik o izmjeni i dopuni Pravilnika o uslovima za uvoz i tranzit papkara | [`pravilnik/2018/338694/`](pravilnik/2018/338694/) | amending act | 1 | 2019-01-02 | 2019-01-02 |
@@ -24774,6 +24944,7 @@
 | Pravilnik o programu i načinu polaganja stručnog ispita za rad u oblasti sporta | [`pravilnik/2019/336195/`](pravilnik/2019/336195/) | in force | 1 | 2019-07-13 | 2019-07-13 |
 | Pravilnik o dopuni Pravilnika o načinu doznake stabala za sječu, prijemu i obilježavanju drvnih sortimenata | [`pravilnik/2019/336229/`](pravilnik/2019/336229/) | amending act | 1 | 2019-07-30 | 2019-07-30 |
 | Pravilnik o službenoj legitimaciji službenika Ministarstva pravde koji vrši kontrolu izvršenja alternativnih sankcija | [`pravilnik/2019/336280/`](pravilnik/2019/336280/) | in force | 1 | 2019-07-27 | 2019-07-27 |
+| Pravilnik o minimalno-tehničkim uslovima, uslovima za kategoriju i načinu kategorizacije objekata u kojima se pružaju ugostiteljske usluge u seoskom domaćinstvu | [`pravilnik/2019/336283/`](pravilnik/2019/336283/) | in force | 1 | 2019-07-30 | 2019-07-30 |
 | Pravilnik o bližem načinu izvršenja uslovne osude, uslovne osude sa zaštitnim nadzorom, kazne rada u javnom interesu i uslovnog otpusta | [`pravilnik/2019/336287/`](pravilnik/2019/336287/) | in force | 1 | 2019-07-27 | 2019-07-27 |
 | Pravilnik o planu mjera zaštite i zdravlja na radu* | [`pravilnik/2019/336452/`](pravilnik/2019/336452/) | in force | 1 | 2019-07-13 | 2019-07-13 |
 | Pravilnik o izmjenama Pravilnika o kriterijumima i mjerilima za utvrđivanje cijena usluga dnevnog boravka, pomoći u kući i personalne asistencije, koje obezbjeđuje država | [`pravilnik/2019/336453/`](pravilnik/2019/336453/) | in force | 1 | 2019-07-13 | 2019-07-13 |
@@ -24791,6 +24962,7 @@
 | Pravilnik o izmjeni Pravilnika o načinu vođenja evidencije o proizvodnji, preradi i prometu bilja, biljnih proizvoda i objekata pod nadzorom* | [`pravilnik/2019/337783/`](pravilnik/2019/337783/) | in force | 1 | 2019-11-09 | 2019-11-09 |
 | Pravilnik o izmjenama Pravilnika o bližem načinu i uslovima za upućivanje zatvorenika na rad van zatvora | [`pravilnik/2019/337829/`](pravilnik/2019/337829/) | in force | 1 | 2019-12-19 | 2019-12-19 |
 | Pravilnik o izmjenama Pravilnika o sadržaju i načinu vođenja evidencije o upotrebi sredstava prinude u vršenju poslova obezbjeđenja pritvorenih i osuđenih lica | [`pravilnik/2019/337839/`](pravilnik/2019/337839/) | in force | 1 | 2019-12-21 | 2019-12-21 |
+| Pravilnik o standardima i kriterijumima za nesmetanu upotrebu operativnih površina, objekata, uređaja i opreme letilišta na vodi | [`pravilnik/2019/337895/`](pravilnik/2019/337895/) | in force | 1 | 2019-12-03 | 2019-12-03 |
 | Pravilnik o uslovima upotrebe i ispuštanja žive i živinih jedinjenja | [`pravilnik/2019/338043/`](pravilnik/2019/338043/) | in force | 1 | 2019-12-21 | 2019-12-21 |
 | Pravilnik o tehničkim specifikacijima interoperabilnosti željezničkog sistema u odnosu na bezbjednost u željezničkim tunelima | [`pravilnik/2019/338067/`](pravilnik/2019/338067/) | in force | 1 | 2019-12-14 | 2019-12-14 |
 | Pravilnik o bližem načinu isticanja, upotrebe, kao i sastavu materijala zastave Crne Gore | [`pravilnik/2019/338069/`](pravilnik/2019/338069/) | in force | 1 | 2019-12-19 | 2019-12-19 |
@@ -25054,10 +25226,12 @@
 | Pravilnik o obrascu tehničkog rješenja korišćenja radio-frekvencija | [`pravilnik/2021/337698/`](pravilnik/2021/337698/) | in force | 1 | 2021-01-26 | 2021-01-26 |
 | Pravilnik o legitimaciji inspektora za odbranu | [`pravilnik/2021/337950/`](pravilnik/2021/337950/) | in force | 1 | 2021-07-03 | 2021-07-03 |
 | Pravilnik o načinu vođenja registra životnih partnerstava lica istog pola | [`pravilnik/2021/338257/`](pravilnik/2021/338257/) | in force | 1 | 2021-07-15 | 2021-07-15 |
+| Pravilnik o izgledu i sadržaju obrasca izvoda iz registra životnih partnerstava lica istog pola | [`pravilnik/2021/338287/`](pravilnik/2021/338287/) | in force | 1 | 2021-07-15 | 2021-07-15 |
 | Pravilnik o načinu korišćenja, održavanja i upravljanja pokretnim stvarima za potrebe diplomatsko-konzularnih predstavništava | [`pravilnik/2021/338372/`](pravilnik/2021/338372/) | in force | 1 | 2021-07-10 | 2021-07-10 |
 | Pravilnik o načinu i postupku izdavanja dozvole za vanredni prevoz | [`pravilnik/2021/338451/`](pravilnik/2021/338451/) | in force | 1 | 2021-07-24 | 2021-07-24 |
 | Pravilnik o određivanju čina za lica koja se primaju u službu u Vojsci Crne Gore | [`pravilnik/2021/338801/`](pravilnik/2021/338801/) | in force | 1 | 2021-08-14 | 2021-08-14 |
 | Pravilnik o registru brodova (flotna lista) u upotrebi u Vojsci Crne Gore | [`pravilnik/2021/338802/`](pravilnik/2021/338802/) | in force | 1 | 2021-08-14 | 2021-08-14 |
+| Pravilnik o ishrani u Vojsci Crne Gore | [`pravilnik/2021/338803/`](pravilnik/2021/338803/) | in force | 1 | 2021-08-14 | 2021-08-14 |
 | Pravilnik o izmjeni Pravilnika o sastavu, načinu rada i odlučivanju etičkog odbora za klinička ispitivanja ljekova i medicinskih sredstava* | [`pravilnik/2021/338974/`](pravilnik/2021/338974/) | in force | 1 | 2021-09-16 | 2021-09-16 |
 | Pravilnik o načinu obavljanja stručnog nadzora nad građenjem složenih inženjerskih objekata u kojima se proizvode i skladište eksplozivne materije | [`pravilnik/2021/338982/`](pravilnik/2021/338982/) | in force | 1 | 2021-09-16 | 2021-09-16 |
 | Pravilnik o usaglašavanju antidoping pravila Komisije za antidoping sa svjetskim antidoping kodeksom | [`pravilnik/2021/339016/`](pravilnik/2021/339016/) | in force | 1 | 2021-08-06 | 2021-08-06 |
@@ -25157,6 +25331,7 @@
 | Pravilnik o stavljanju van snage Pravilnika o određivanju procenta trajnog gubitka opšte radne sposobnosti (invaliditeta) odnosno umanjenja opšte životne aktivnosti fizičkih lica kao posljedice povređivanja u saobraćajnoj nezgodi | [`pravilnik/2022/335571/`](pravilnik/2022/335571/) | in force | 1 | 2022-04-02 | 2022-04-02 |
 | Pravilnik o bližim karakteristikama oznaka na posebnoj opremi policijskih službenika | [`pravilnik/2022/336102/`](pravilnik/2022/336102/) | in force | 1 | 2022-04-09 | 2022-04-09 |
 | Pravilnik o bližem načinu rada Komisije za odobravanje primjene lijeka van osnovne i doplatne liste ljekova | [`pravilnik/2022/336494/`](pravilnik/2022/336494/) | in force | 1 | 2022-04-21 | 2022-04-21 |
+| Pravilnik o bližoj dokumentaciji, načinu utvrđivanja odobrenih količina mineralnih- gasnih ulja i obrascu kontrolne kartice | [`pravilnik/2022/336495/`](pravilnik/2022/336495/) | in force | 1 | 2022-04-21 | 2022-04-21 |
 | Pravilnik o izmjeni i dopuni Pravilnika o načinu prijema lica u službu u Vojsci Crne Gore i rezervni sastav vojske i načinu izbora kadeta | [`pravilnik/2022/337057/`](pravilnik/2022/337057/) | amending act | 1 | 2022-05-06 | 2022-05-06 |
 | Pravilnik o izmjeni Pravilnika o načinu vođenja evidencije o proizvodnji, preradi i prometu bilja, biljnih proizvoda i objekata pod nadzorom* | [`pravilnik/2022/337199/`](pravilnik/2022/337199/) | in force | 1 | 2022-05-21 | 2022-05-21 |
 | Pravilnik o obaveznim i preporučenim zdravstvenim pregledima određenih kategorija stanovništva, kliconoša i zaposlenih u objektima pod sanitarnim nadzorom | [`pravilnik/2022/337461/`](pravilnik/2022/337461/) | in force | 1 | 2022-06-01 | 2022-06-01 |
@@ -25166,6 +25341,7 @@
 | Pravilnik o označavanju energetske efikasnosti kotlova na čvrsta goriva i paketa koji uključuje kotlove na čvrsta goriva, dodatne grijače, regulatore temperature i solarne uređaje* | [`pravilnik/2022/338198/`](pravilnik/2022/338198/) | in force | 1 | 2022-07-29 | 2022-07-29 |
 | Pravilnik o označavanju energetske efikasnosti energetske efikasnosti profesionalnih rashladnih ormara* | [`pravilnik/2022/338199/`](pravilnik/2022/338199/) | in force | 1 | 2022-07-29 | 2022-07-29 |
 | Pravilnik o načinu sprovođenja i metodologiji primjene poligrafskog testiranja | [`pravilnik/2022/338241/`](pravilnik/2022/338241/) | in force | 1 | 2022-07-27 | 2022-07-27 |
+| Pravilnik o službenoj legitimaciji i službenoj znački policijskog službenika ovlašćenog za vršenje unutrašnje kontrole rada policije | [`pravilnik/2022/338344/`](pravilnik/2022/338344/) | in force | 1 | 2022-01-27 | 2022-01-27 |
 | Pravilnik o izmjenama Pravilnika o fitosanitarnim mjerama za sprječavanje unošenja, širenja i suzbijanje kestenove ose galice - Dryocosmus kuriphilus Yasumatsu* | [`pravilnik/2022/338383/`](pravilnik/2022/338383/) | in force | 1 | 2022-07-16 | 2022-07-16 |
 | Pravilnik o sadržaju i načinu vođenja evidencije o državnoj pomoći | [`pravilnik/2022/338474/`](pravilnik/2022/338474/) | in force | 1 | 2022-08-10 | 2022-08-10 |
 | Pravilnik o izmjeni i dopuni Pravilnika o postupku oslobađanja od plaćanja poreza na dodatu vrijednost investitora i isporuku određenih prozvoda i usluga | [`pravilnik/2022/338516/`](pravilnik/2022/338516/) | amending act | 1 | 2022-08-04 | 2022-08-04 |
@@ -25213,6 +25389,7 @@
 | Pravilnik o tehničkim sredstvima za zaštitu bezbjednosti djece u saobraćaju | [`pravilnik/2023/336010/`](pravilnik/2023/336010/) | in force | 1 | 2023-04-08 | 2023-04-08 |
 | Pravilnik o tehničkim uslovima koje treba da ispunjavaju mjesta za prvu prodaju ulovljene ribe i drugih morskih organizama i uslovima i načinu prodaje | [`pravilnik/2023/336472/`](pravilnik/2023/336472/) | in force | 1 | 2023-04-13 | 2023-04-13 |
 | Pravilnik o sprovođenju internog oglasa unutar policije | [`pravilnik/2023/338609/`](pravilnik/2023/338609/) | in force | 1 | 2023-01-28 | 2023-01-28 |
+| Pravilnik o utvrđivanju iznosa prosječne ponderisane maloprodajne cijene cigareta | [`pravilnik/2023/338850/`](pravilnik/2023/338850/) | in force | 1 | 2023-01-24 | 2023-01-24 |
 | Pravilnik o bližim uslovima i načinu oglašavanja medicinskih sredstava | [`pravilnik/2023/359761/`](pravilnik/2023/359761/) | in force | 1 | 2023-04-27 | 2023-04-27 |
 | Pravilnik o utvrđivanju Liste stepena konkurentnosti jedinice lokalne samouprave | [`pravilnik/2023/359861/`](pravilnik/2023/359861/) | in force | 1 | 2023-04-29 | 2023-04-29 |
 | Pravilnik o obrascu Izvještaja o uplaćenom porezu po odbitku na isplate izvršene po osnovu zajma fizičkim licima | [`pravilnik/2023/360220/`](pravilnik/2023/360220/) | in force | 1 | 2023-06-07 | 2023-06-07 |
@@ -26324,7 +26501,7 @@
 | Program podizanja spomen-obilježja | [`program/2026/399528/`](program/2026/399528/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Izmjene i dopune Programa mjera za podsticaj razvoja poljoprivrede za 2026. godinu | [`program/2026/399716/`](program/2026/399716/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## rjesenje (3235, of which 184 amending acts)
+## rjesenje (3243, of which 184 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -27277,6 +27454,7 @@
 | Rješenje o imenovanju dva člana Odbora za planiranje i uređenje prostora i komunalno stambenu djelatnost | [`rjesenje/2015/341115/`](rjesenje/2015/341115/) | in force | 1 | 2015-05-29 | 2015-05-29 |
 | Rješenje o razrješenju jednog člana Savjeta za zaštitu životne sredine | [`rjesenje/2015/341116/`](rjesenje/2015/341116/) | in force | 1 | 2015-05-29 | 2015-05-29 |
 | Rješenje o razrešenju v.d. izvršnog direktora D.O.O. "Komunalne djelatnosti" - Šavnik | [`rjesenje/2015/341593/`](rjesenje/2015/341593/) | in force | 1 | 2015-09-30 | 2015-09-30 |
+| Rješenje o imenovanju Žirija za dodjelu nagrada i povelje Opštine Herceg Novi | [`rjesenje/2015/342001/`](rjesenje/2015/342001/) | in force | 1 | 2015-09-15 | 2015-09-15 |
 | Rješenje o davanju saglasnosti na Odluku Odbora direktora "Parking servis" doo Herceg Novi o imenovanju vršioca dužnosti izvršnog direktora | [`rjesenje/2015/342606/`](rjesenje/2015/342606/) | in force | 1 | 2015-09-18 | 2015-09-18 |
 | Rješenje o razrješenju v.d. izvršnog direktora D.O.O. ,,Komunalne djelatnosti"-Šavnik | [`rjesenje/2015/344417/`](rjesenje/2015/344417/) | in force | 1 | 2015-06-30 | 2015-06-30 |
 | Rješenje o imenovanju Žirija za dodjelu Nagrade "3. Januar" | [`rjesenje/2015/345784/`](rjesenje/2015/345784/) | in force | 1 | 2015-11-30 | 2015-11-30 |
@@ -27397,7 +27575,9 @@
 | Rješenje o imenovanju člana Odbora direktora Zajedničkog uslužnog i koordinacionog društva za vodosnabdijevanje i odvođenje otpadih voda za Crnogorsko primorje i Opštinu Cetinje ,, Vodacom,, d.o.o. | [`rjesenje/2016/331947/`](rjesenje/2016/331947/) | in force | 1 | 2016-03-30 | 2016-03-30 |
 | Rješenje o razrješenju jedne članice Odbora za planiranje i uređenje prostora i komunalno stambenu djelatnost | [`rjesenje/2016/332500/`](rjesenje/2016/332500/) | in force | 1 | 2016-08-31 | 2016-08-31 |
 | Rješenje o izmjeni i dopuni Rješenja o imenovanju Odbora direktora doo "Grijanje" Pljevlja | [`rjesenje/2016/340587/`](rjesenje/2016/340587/) | amending act | 1 | 2016-04-21 | 2016-04-21 |
+| Rješenjeo davanju Saglasnosti na Odluku odbora direktora doo "Vodovod i kanalizacija" Herceg Novi o izboru izvršnog direktora | [`rjesenje/2016/340833/`](rjesenje/2016/340833/) | in force | 1 | 2016-04-08 | 2016-04-08 |
 | Rješenje o razrješenju i imenovanju člana Odbora za izbor i imenovanja | [`rjesenje/2016/341549/`](rjesenje/2016/341549/) | in force | 1 | 2016-05-26 | 2016-05-26 |
+| Rješenje o imenovanju Žirija za dodjelu nagrada i Povelje Opštine Herceg Novi | [`rjesenje/2016/342252/`](rjesenje/2016/342252/) | in force | 1 | 2016-07-18 | 2016-07-18 |
 | Rješenje o imenovanju Žirija za dodjelu Nagrade "4. Avgust" | [`rjesenje/2016/342595/`](rjesenje/2016/342595/) | in force | 1 | 2016-06-03 | 2016-06-03 |
 | Rješenje o razrješenju i imenovanju predsjednice i člana Savjeta Javne ustanove "Gradska biblioteka i čitaonica" Herceg Novi | [`rjesenje/2016/342705/`](rjesenje/2016/342705/) | in force | 1 | 2016-06-07 | 2016-06-07 |
 | Rješenje o razrješenju i imenovanju predsjednika i člana Odbora za budžet i finansije Skupštine opštine Herceg Novi | [`rjesenje/2016/342706/`](rjesenje/2016/342706/) | in force | 1 | 2016-06-07 | 2016-06-07 |
@@ -27650,10 +27830,13 @@
 | Rješenje, broj: 01-82-4 | [`rjesenje/2017/334171/`](rjesenje/2017/334171/) | in force | 1 | 2017-03-04 | 2017-03-04 |
 | Rješenje o izmjenama i dopunama Rješenja o imenovanju odbora direktora DOO "Centar za sport i rekreaciju" Pljevlja | [`rjesenje/2017/339466/`](rjesenje/2017/339466/) | amending act | 1 | 2017-03-23 | 2017-03-23 |
 | Rješenje o izmjenama i dopunama Rješenja o imenovanju savjeta JU Umjetnička galerija "Vitomir Srbljanović" Pljevlja | [`rjesenje/2017/339477/`](rjesenje/2017/339477/) | amending act | 1 | 2017-03-23 | 2017-03-23 |
+| Rješenje o razrješenju predsjednice Savjeta za rodnu ravnopravnost | [`rjesenje/2017/340637/`](rjesenje/2017/340637/) | in force | 1 | 2017-04-13 | 2017-04-13 |
 | Rješenje o imenovanju predsjednice Savjeta za rodnu ravnopravnost | [`rjesenje/2017/340638/`](rjesenje/2017/340638/) | in force | 1 | 2017-04-13 | 2017-04-13 |
 | Rješenje o imenovanju Odbora za komunalno-stambenu djelatnost | [`rjesenje/2017/341504/`](rjesenje/2017/341504/) | in force | 1 | 2016-12-29 | 2016-12-29 |
 | Rješenje o razrješenju i imenovanju dva člana odbora za turizam i privredni razvoj Skupštine Opštine Herceg Novi | [`rjesenje/2017/341594/`](rjesenje/2017/341594/) | in force | 1 | 2017-08-03 | 2017-08-03 |
+| Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Čistoća" Herceg Novi | [`rjesenje/2017/341595/`](rjesenje/2017/341595/) | in force | 1 | 2017-08-03 | 2017-08-03 |
 | Rješenje o obrazovanju Savjeta Javne Ustanove "Gradska biblioteka i čitaonica" Herceg Novi | [`rjesenje/2017/341596/`](rjesenje/2017/341596/) | in force | 1 | 2017-08-03 | 2017-08-03 |
+| Rješenje o obrazovanju Savjeta Javne Ustanove "Gradski muzej Mirko Komnenović i galerija Josip Bepo Benković" Herceg Novi | [`rjesenje/2017/341638/`](rjesenje/2017/341638/) | in force | 1 | 2017-08-03 | 2017-08-03 |
 | Rješenje o imenovanju Savjeta Javne ustanove kulture "Herceg fest" Herceg Novi | [`rjesenje/2017/341639/`](rjesenje/2017/341639/) | in force | 1 | 2017-08-03 | 2017-08-03 |
 | Rješenje o izmjenama i dopunama rješenja o imenovanju odbora direktora doo "Čistoća"Pljevlja | [`rjesenje/2017/341817/`](rjesenje/2017/341817/) | amending act | 1 | 2017-01-17 | 2017-01-17 |
 | Rješenje o imenovanju Žirija za dodjelu Nagrade "4. Avgust" | [`rjesenje/2017/341942/`](rjesenje/2017/341942/) | in force | 1 | 2017-06-28 | 2017-06-28 |
@@ -28724,7 +28907,9 @@
 | Rješenje o postavljenju generalnog direktora Direktorata za normativno-pravne poslove, kadrovske i opšte poslove, drugostepeni postupak i nadzor državnih organa u Ministarstvu prosvjete, nauke, kulture i sporta | [`rjesenje/2022/332539/`](rjesenje/2022/332539/) | in force | 1 | 2022-02-01 | 2022-02-01 |
 | Rešenje o davanju saglasnosti na Program rada sa finansijskim planom JU Centar za kulturu Žabljak za 2022 godinu | [`rjesenje/2022/332709/`](rjesenje/2022/332709/) | in force | 1 | 2021-12-29 | 2021-12-29 |
 | Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Bar | [`rjesenje/2022/332721/`](rjesenje/2022/332721/) | in force | 1 | 2022-03-07 | 2022-03-07 |
+| Rješenje o davanju saglasnosti na Odluku Odbora direktora Društva sa ograničenom odgovornošću ,,Čistoća'' Herceg Novi o izboru izvršnog direktora | [`rjesenje/2022/340748/`](rjesenje/2022/340748/) | in force | 1 | 2022-04-07 | 2022-04-07 |
 | Rješenje o razrješenju i imenovanju člana Savjeta za davanje predloga naziva naselja, ulica i trgova Skupštine opštine Herceg Novi | [`rjesenje/2022/340749/`](rjesenje/2022/340749/) | in force | 1 | 2022-04-07 | 2022-04-07 |
+| Rješenje o usklađivanju naknade za korišćenje građevinskog zemljišta za 2021. godinu | [`rjesenje/2022/341038/`](rjesenje/2022/341038/) | in force | 1 | 2022-04-14 | 2022-04-14 |
 | Rješenje o razrješenju i imenovanju člana Odbora za izbor i imenovanja Skupštine opštine Herceg Novi | [`rjesenje/2022/341042/`](rjesenje/2022/341042/) | in force | 1 | 2022-04-07 | 2022-04-07 |
 | Rješenje o razrješenju i imenovanju dva člana Odbora za statut i propise Skupštine opštine Herceg Novi | [`rjesenje/2022/341043/`](rjesenje/2022/341043/) | in force | 1 | 2022-04-07 | 2022-04-07 |
 | Rješenje o razrješenju i imenovanju predsjednika i članice Odbora za planiranje prostora i komunalno-stambenu djelatnost Skupštine opštine Herceg Novi | [`rjesenje/2022/341044/`](rjesenje/2022/341044/) | in force | 1 | 2022-04-07 | 2022-04-07 |
@@ -30051,7 +30236,7 @@
 | Uputstvo o bližem načinu izvještavanja o podacima koje član međunarodne grupe povezanih pravnih lica u vezi poslovanja dostavlja organu uprave nadležnom za poslove poreza | [`uputstvo/2026/396663/`](uputstvo/2026/396663/) | in force | 1 | 2026-08-09 | 2026-08-09 |
 | Uputstvo o načinu unosa, ažuriranja, provjera i pristupa podacima iz Registra politički eksponiranih lica | [`uputstvo/2026/397090/`](uputstvo/2026/397090/) | in force | 1 | 2026-08-20 | 2026-08-20 |
 
-## uredba (828, of which 143 amending acts)
+## uredba (834, of which 143 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -30488,6 +30673,7 @@
 | Uredba o dopuni Uredbe za sprovodjenje Carinskog zakona | [`uredba/2008/335928/`](uredba/2008/335928/) | amending act | 1 | 2008-06-28 | 2008-06-28 |
 | Uredba o utvrdjivanju poslova od posebnog znacaja za odbranu koji se u drzavnim organima i pravnim licima stite primjenom posebnih mjera bezbjednosti i kriterijumima za popunu radnih mjesta na kojima se ti poslovi obavljaju | [`uredba/2008/336159/`](uredba/2008/336159/) | in force | 1 | 2008-06-18 | 2008-06-18 |
 | Uredba o utvrdjivanju isplate godisnje rate obestecenja bivisim vlasnicima u novcanim sredstvima za 2008.godinu | [`uredba/2008/336324/`](uredba/2008/336324/) | in force | 1 | 2008-07-12 | 2008-07-12 |
+| Uredba o konverziji devizne stednje gradjana u obveznice | [`uredba/2008/336358/`](uredba/2008/336358/) | in force | 1 | 2008-06-28 | 2008-06-28 |
 | Uredba o uskladjivanju nomenklature Carinske tarife za 2008. godinu | [`uredba/2008/336380/`](uredba/2008/336380/) | in force | 1 | 2008-01-17 | 2008-01-17 |
 | Uredba o konverziji obestecenja korisnika prava iz penzijskog i invalidskog osiguranja u obveznice i o nacinu i blizim uslovima realizacije obveznica | [`uredba/2008/336638/`](uredba/2008/336638/) | in force | 1 | 2008-08-08 | 2008-08-08 |
 | Uredba o kriterijumima za utvrdjivanje naknade za clanove Vijeca Arbitraznog odbora za vansudsko rjesavanje sporova potrosaca | [`uredba/2008/336738/`](uredba/2008/336738/) | in force | 1 | 2008-08-12 | 2008-08-12 |
@@ -30573,6 +30759,7 @@
 | Uredba o načinu i uslovima čuvanja javne registraturske i arhivske građe | [`uredba/2014/336321/`](uredba/2014/336321/) | in force | 1 | 2014-01-29 | 2014-01-29 |
 | Uredba o izmjeni Uredbe o obliku, sadržaju, načinu vođenja i upotrebe Jedinstvene evidencije turističkog prometa | [`uredba/2014/336362/`](uredba/2014/336362/) | in force | 1 | 2014-09-20 | 2014-09-20 |
 | Uredba o načinu i bližim kriterijumima za utvrđivanje naknade za uspostavljeno pravo službenosti na nepokretnostima na skijaškom području | [`uredba/2014/336631/`](uredba/2014/336631/) | in force | 1 | 2014-11-15 | 2014-11-15 |
+| Uredba o odloženom plaćanju carinskog duga | [`uredba/2014/337496/`](uredba/2014/337496/) | in force | 1 | 2014-12-30 | 2014-12-30 |
 | Uredba o izmjenama i dopunama Uredbe o obilježavanju duvanskih proizvoda i alkoholnih pića kontrolnim akciznim markicama | [`uredba/2014/337663/`](uredba/2014/337663/) | amending act | 1 | 2014-12-30 | 2014-12-30 |
 | Uredba o dopuni Uredbe o planiranju i uređenju prostora, izgradnji, rekonstrukciji i održavanju vojnih objekata u vojnom krugu | [`uredba/2014/337881/`](uredba/2014/337881/) | amending act | 1 | 2014-02-12 | 2014-02-12 |
 | Uredba o načinu i postupku utvrđivanja iznosa prosječne ponderisane maloprodajne cijene cigareta | [`uredba/2014/338874/`](uredba/2014/338874/) | in force | 1 | 2014-02-14 | 2014-02-14 |
@@ -30666,6 +30853,7 @@
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2018. godinu | [`uredba/2018/336926/`](uredba/2018/336926/) | in force | 1 | 2018-07-12 | 2018-07-12 |
 | Uredba o kriterijumima i bližem načinu sprovođenja provjere znanja, sposobnosti, kompetencija i vještina za rad u državnim organima | [`uredba/2018/336986/`](uredba/2018/336986/) | in force | 1 | 2018-07-20 | 2018-07-20 |
 | Uredba o sadržaju, postupku i načinu pripreme i izmjene kadrovskog plana za organe državne uprave i službe Vlade | [`uredba/2018/336987/`](uredba/2018/336987/) | in force | 1 | 2018-07-20 | 2018-07-20 |
+| Uredba o uslovima za odlaganje naplate poreskih i neporeskih potraživanja | [`uredba/2018/337177/`](uredba/2018/337177/) | in force | 1 | 2018-08-18 | 2018-08-18 |
 | Uredba o načinu i postupku izrade, usklađivanja i praćenja sprovođenja strateških dokumenata | [`uredba/2018/337305/`](uredba/2018/337305/) | in force | 1 | 2018-08-08 | 2018-08-08 |
 | Uredba o načinu izdavanja, prenošenja i povlačenja garancije porijekla električne energije proizvedene iz obnovljivih izvora energije i visokoefikasne kogeneracije | [`uredba/2018/337617/`](uredba/2018/337617/) | in force | 1 | 2018-09-29 | 2018-09-29 |
 | Uredba o postupku i načinu kofinansiranja projekata i programa nevladinih organizacija podržanih iz fondova Evropske unije | [`uredba/2018/337871/`](uredba/2018/337871/) | in force | 1 | 2018-10-12 | 2018-10-12 |
@@ -30710,6 +30898,7 @@
 | Uredba o povjeravanju dijela poslova iz nadležnosti Ministarstva održivog razvoja i turizma Glavnom gradu Podgorica | [`uredba/2020/335240/`](uredba/2020/335240/) | in force | 1 | 2020-03-31 | 2020-03-31 |
 | Uredba o odlaganju naplate carine i poreza na dodatu vrijednost nastalih prilikom uvoza proizvoda | [`uredba/2020/335979/`](uredba/2020/335979/) | in force | 1 | 2020-04-24 | 2020-04-24 |
 | Uredba o izmjeni i dopuni Uredbe o uslovima za odlaganje naplate dospjelih poreskih i neporeskih potraživanja | [`uredba/2020/337009/`](uredba/2020/337009/) | amending act | 1 | 2020-05-29 | 2020-05-29 |
+| Uredba o uslovima i načinu korišćenja nepokretnih i pokretnih stvari za potrebe odbrane | [`uredba/2020/337244/`](uredba/2020/337244/) | in force | 1 | 2020-06-13 | 2020-06-13 |
 | Uredba o kriterijumima za izbor, pripremanje, obuku i opremanje pripadnika operativne jedinice za zaštitu i spašavanje i policije i zaposlenih u organima državne uprave za učešće u mirovnim misijama i drugim aktivnostima u inostranstvu | [`uredba/2020/337480/`](uredba/2020/337480/) | in force | 1 | 2020-06-20 | 2020-06-20 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2020. godinu | [`uredba/2020/337848/`](uredba/2020/337848/) | in force | 1 | 2020-07-16 | 2020-07-16 |
 | Uredba o bližim uslovima i načinu plaćanja administrativnih taksi elektronskim putem | [`uredba/2020/337849/`](uredba/2020/337849/) | in force | 1 | 2020-07-16 | 2020-07-16 |
@@ -30733,6 +30922,7 @@
 | Uredba o bližim kriterijumima i metodologiji za određivanje tržišne vrijednosti nepokretnost | [`uredba/2021/337513/`](uredba/2021/337513/) | in force | 1 | 2021-06-19 | 2021-06-19 |
 | Uredba o izmjenama Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD II program) | [`uredba/2021/337791/`](uredba/2021/337791/) | in force | 1 | 2021-06-08 | 2021-06-08 |
 | Uredba o načinu korišćenja, održavanja i upravljanja nepokretnostima za potrebe diplomatsko-konzularnih predstavništava | [`uredba/2021/337949/`](uredba/2021/337949/) | in force | 1 | 2021-07-03 | 2021-07-03 |
+| Uredba o prestanku važenja Uredbe o načinu ostvarivanja i visini podsticajnih cijena za električnu energiju proizvedenu iz obnovljivih izvora i visokoefikasne kogeneracije | [`uredba/2021/338446/`](uredba/2021/338446/) | in force | 1 | 2021-07-29 | 2021-07-29 |
 | Uredba o supstancama koje oštećuju ozonski omotač i alternativnim supstancama | [`uredba/2021/338672/`](uredba/2021/338672/) | in force | 1 | 2021-07-30 | 2021-07-30 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2021. godinu | [`uredba/2021/338737/`](uredba/2021/338737/) | in force | 1 | 2021-07-23 | 2021-07-23 |
 | Uredba o izmjenama Uredbe o zaradama i drugim novčanim primanjima pripadnika Vojske Crne Gore, civilne zaštite, policije i zaposlenih u organima državne uprave za vrijeme učešća u međunarodnim snagama, mirovnim misijama i drugim aktivnostima u inostranstvu | [`uredba/2021/338757/`](uredba/2021/338757/) | in force | 1 | 2021-08-06 | 2021-08-06 |
@@ -30749,6 +30939,7 @@
 | Uredba o izmjeni i dopuni Uredbe o programu i načinu polaganja stručnog ispita za rad u državnim organima | [`uredba/2022/334886/`](uredba/2022/334886/) | amending act | 1 | 2022-02-16 | 2022-02-16 |
 | Uredba o izmjenama Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD II program) | [`uredba/2022/334888/`](uredba/2022/334888/) | in force | 1 | 2022-03-04 | 2022-03-04 |
 | Uredba o prestanku važenja Uredbe o odloženom plaćanju poreza na dobit pravnih lica | [`uredba/2022/335379/`](uredba/2022/335379/) | in force | 1 | 2022-03-18 | 2022-03-18 |
+| Uredba o kriterijumima za raspoređivanje radnih mjesta policijskih službenika i zvanjima u kojima se mogu vršiti poslovi tih radnih mjesta | [`uredba/2022/338087/`](uredba/2022/338087/) | in force | 1 | 2022-06-24 | 2022-06-24 |
 | Uredba o izmjenama Uredbe o programu i načinu polaganja stručnog ispita za rad u državnim organima | [`uredba/2022/348124/`](uredba/2022/348124/) | in force | 1 | 2022-07-12 | 2022-07-12 |
 | Uredba o izmjenama Uredbe o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2022. godinu - Agrobudžet | [`uredba/2022/348274/`](uredba/2022/348274/) | in force | 1 | 2022-04-13 | 2022-04-13 |
 | Uredba o izmjeni Uredbe o vrstama vitamina i minerala koji se mogu koristiti u proizvodnji suplemenata* | [`uredba/2023/313632/`](uredba/2023/313632/) | in force | 1 | 2023-01-31 | 2023-01-31 |
@@ -30890,7 +31081,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Ustav Crne Gore | [`ustav/`](ustav/) | in force | 3 | 2007-10-22 | 2026-08-24 |
 
-## zakon (315, of which 171 amending acts)
+## zakon (316, of which 172 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -31080,6 +31271,7 @@
 | Zakon o dopuni Zakona o porezu na upotrebu putničkih motornih vozila, plovnih objekata, vazduhoplova i letilica | [`zakon/2018/336723/`](zakon/2018/336723/) | amending act | 1 | 2018-07-11 | 2018-07-11 |
 | Zakon o završnom računu Budžeta Crne Gore za 2018. godinu | [`zakon/2019/311127/`](zakon/2019/311127/) | in force | 1 | 2020-01-02 | 2020-01-02 |
 | Zakon o izmjeni i dopunama Zakona o posredovanju | [`zakon/2019/329017/`](zakon/2019/329017/) | amending act | 1 | 2019-03-30 | 2019-03-30 |
+| Zakon o izmjenama i dopunama Zakona o upotrebi jedinica Vojske Crne Gore u međunarodnim snagama i učešću pripadnika civilne zaštite, policije i zaposlenih u organima državne uprave u mirovnim misijama i drugim aktivnostima u inostranstvu | [`zakon/2019/336639/`](zakon/2019/336639/) | amending act | 1 | 2019-08-15 | 2019-08-15 |
 | Zakon o izmjeni Zakona o državnim simbolima i Danu državnosti Crne Gore | [`zakon/2019/337019/`](zakon/2019/337019/) | in force | 1 | 2019-08-12 | 2019-08-12 |
 | Zakon o izmjenama i dopunama Zakona o Budžetu Crne Gore za 2020. godinu | [`zakon/2020/292710/`](zakon/2020/292710/) | amending act | 1 | 2020-06-24 | 2020-06-24 |
 | Zakon o potvrđivanju Ugovora između Crne Gore i Ujedinjenog Kraljevstva Velike Britanije i Sjeverne Irske kojim se dopunjava Evropska Konvencija o ekstradiciji od 13. decembra 1957. godine i koji ima za cilj olakšavanje njene primjene | [`zakon/2020/327140/`](zakon/2020/327140/) | amending act | 1 | 2020-08-08 | 2020-08-08 |
