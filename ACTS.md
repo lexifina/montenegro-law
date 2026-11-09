@@ -1,6 +1,6 @@
 # Every act in this repository
 
-29725 acts, 29,727 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+29727 acts, 29,729 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (853, of which 85 amending acts)
 
@@ -1100,7 +1100,7 @@
 | Naredba o izmjeni Naredbe o zabrani uvoza/unošenja životinja i roba iz zemalja i objekata koji nisu uključeni na liste EU iz kojih je dozvoljen uvoz/unošenje u Evropsku uniju | [`naredba/2026/398952/`](naredba/2026/398952/) | in force | 1 | 2026-10-10 | 2026-10-10 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (20675, of which 3035 amending acts)
+## odluka (20677, of which 3035 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -19027,6 +19027,7 @@
 | Odluka o varijabilnom dijelu zarade zaposlenih u Opštini Zeta | [`odluka/2024/371178/`](odluka/2024/371178/) | in force | 1 | 2024-07-10 | 2024-07-10 |
 | Odluka o davanju saglasnosti na Odluku o utvrđivanju koeficijenata za zarade zaposlenih u Turističkoj organizaciji Kolašin | [`odluka/2024/371185/`](odluka/2024/371185/) | in force | 1 | 2024-07-10 | 2024-07-10 |
 | Odluka o suzbijanju i procjeni poljskih šteta na teritoriji opštine Zeta | [`odluka/2024/371191/`](odluka/2024/371191/) | in force | 1 | 2024-07-10 | 2024-07-10 |
+| Odluka o usvajanju Završnog računa budžeta Opštine Kolašin za 2023. godinu | [`odluka/2024/371196/`](odluka/2024/371196/) | in force | 1 | 2024-07-10 | 2024-07-10 |
 | Odluka o prodaji katastarske parcele broj 436/2 KO Virpazar | [`odluka/2024/371234/`](odluka/2024/371234/) | in force | 1 | 2024-07-12 | 2024-07-12 |
 | Odluka o Završnom računu budžeta Opštine Nikšić za 2023. godinu | [`odluka/2024/371236/`](odluka/2024/371236/) | in force | 1 | 2024-07-12 | 2024-07-12 |
 | Odluka o izmjeni Odluke o prodaji kat.parcele 523/2 KO Radovići | [`odluka/2024/371250/`](odluka/2024/371250/) | in force | 1 | 2024-07-12 | 2024-07-12 |
@@ -19126,6 +19127,7 @@
 | Odluka o razrješenju člana Odbora direktora DOO "Vodovod i kanalizacija" Rožaje | [`odluka/2024/372590/`](odluka/2024/372590/) | in force | 1 | 2024-08-13 | 2024-08-13 |
 | Odluka o pristupanju Sporazumu gradonačelnika za klimu i energiju i izradi Akcionog plana za održivu energiju i klimu (engl: Sustainable energy and climate action plan - SECAP) | [`odluka/2024/372591/`](odluka/2024/372591/) | in force | 1 | 2024-07-31 | 2024-07-31 |
 | Odluka o davanju saglasnosti o ustanovljenju prava službenosti u korist DOO "MK ENERGY" Podgorica | [`odluka/2024/372592/`](odluka/2024/372592/) | in force | 1 | 2024-08-21 | 2024-08-21 |
+| Odluka o određivanju lokacije za izgradnju lokalnog objekta od opšteg interesa: ulica u Mekića Polju na lokaciji koju čine katastarske parcele broj 768/7 i 768/8 KO Kolašin u Kolašinu | [`odluka/2024/372594/`](odluka/2024/372594/) | in force | 1 | 2024-08-12 | 2024-08-12 |
 | Odluka o usvajanju Polugodišnjeg izvještaja o ukupno ostvarenim primicima i ukupno izvršenim izdacima Budžeta opštine Rožaje za 2024. godinu | [`odluka/2024/372595/`](odluka/2024/372595/) | in force | 1 | 2024-08-13 | 2024-08-13 |
 | Odluka o imenovanju člana Odbora direktora DOO "Vodovod i kanalizacija" Rožaje | [`odluka/2024/372596/`](odluka/2024/372596/) | in force | 1 | 2024-08-13 | 2024-08-13 |
 | Odluka o razrješenju i imenovanju člana Savjeta za rodnu ravnopravnost | [`odluka/2024/372602/`](odluka/2024/372602/) | in force | 1 | 2024-08-05 | 2024-08-05 |
