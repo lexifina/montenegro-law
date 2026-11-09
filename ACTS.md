@@ -1,6 +1,6 @@
 # Every act in this repository
 
-30332 acts, 30,334 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+30632 acts, 30,634 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (870, of which 85 amending acts)
 
@@ -25900,7 +25900,7 @@
 | Program podizanja spomen-obilježja | [`program/2026/399528/`](program/2026/399528/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Izmjene i dopune Programa mjera za podsticaj razvoja poljoprivrede za 2026. godinu | [`program/2026/399716/`](program/2026/399716/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## rjesenje (2770, of which 169 amending acts)
+## rjesenje (3070, of which 184 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -28414,6 +28414,20 @@
 | Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Go Smart", Podgorica | [`rjesenje/2023/362680/`](rjesenje/2023/362680/) | in force | 1 | 2023-07-27 | 2023-07-27 |
 | Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Fleš", Tivat | [`rjesenje/2023/362685/`](rjesenje/2023/362685/) | in force | 1 | 2023-08-15 | 2023-08-15 |
 | Rješenje o javno važećem obrazovnom programu Operater štampe i grafičke dorade | [`rjesenje/2023/362690/`](rjesenje/2023/362690/) | in force | 1 | 2023-08-15 | 2023-08-15 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Bar | [`rjesenje/2023/362696/`](rjesenje/2023/362696/) | in force | 1 | 2023-08-25 | 2023-08-25 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Duga II", Rožaje | [`rjesenje/2023/362697/`](rjesenje/2023/362697/) | in force | 1 | 2023-07-27 | 2023-07-27 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "ABS", Plav | [`rjesenje/2023/362703/`](rjesenje/2023/362703/) | in force | 1 | 2023-07-26 | 2023-07-26 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Start", Podgorica | [`rjesenje/2023/362708/`](rjesenje/2023/362708/) | in force | 1 | 2023-07-27 | 2023-07-27 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Stefan", Bar | [`rjesenje/2023/362716/`](rjesenje/2023/362716/) | in force | 1 | 2023-07-26 | 2023-07-26 |
+| Rješenje o javno važećem obrazovnom programu Baletski igrač | [`rjesenje/2023/362719/`](rjesenje/2023/362719/) | in force | 1 | 2023-08-15 | 2023-08-15 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Domaz", Nikšić | [`rjesenje/2023/362722/`](rjesenje/2023/362722/) | in force | 1 | 2023-07-26 | 2023-07-26 |
+| Rješenje o javno važećem obrazovnom programu Vozač motornog vozila | [`rjesenje/2023/362726/`](rjesenje/2023/362726/) | in force | 1 | 2023-08-15 | 2023-08-15 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Full Speed", Podgorica | [`rjesenje/2023/362731/`](rjesenje/2023/362731/) | in force | 1 | 2023-07-27 | 2023-07-27 |
+| Rješenje o javno važećem obrazovnom programu Agrotehničar | [`rjesenje/2023/362737/`](rjesenje/2023/362737/) | in force | 1 | 2023-08-15 | 2023-08-15 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Bux Start", Bijelo Polje | [`rjesenje/2023/362738/`](rjesenje/2023/362738/) | in force | 1 | 2023-07-26 | 2023-07-26 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Zarubica", Nikšić | [`rjesenje/2023/362743/`](rjesenje/2023/362743/) | in force | 1 | 2023-08-15 | 2023-08-15 |
+| Rješenje o javno važećem obrazovnom programu Grafički tehničar | [`rjesenje/2023/362746/`](rjesenje/2023/362746/) | in force | 1 | 2023-08-15 | 2023-08-15 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Laguna", Podgorica | [`rjesenje/2023/362749/`](rjesenje/2023/362749/) | in force | 1 | 2023-07-27 | 2023-07-27 |
 | Rješenje o imenovanju članova Biroa za operativnu koordinaciju | [`rjesenje/2023/362948/`](rjesenje/2023/362948/) | in force | 1 | 2023-12-07 | 2023-12-07 |
 | Rješenje o razrješenju članova Biroa za operativnu koordinaciju | [`rjesenje/2023/362949/`](rjesenje/2023/362949/) | in force | 1 | 2023-12-07 | 2023-12-07 |
 | Rješenje o standardu zanimanja restoranski konobar/restoranska konobarica | [`rjesenje/2023/363249/`](rjesenje/2023/363249/) | in force | 1 | 2023-05-03 | 2023-05-03 |
@@ -28444,8 +28458,17 @@
 | Rješenje o standardu zanimanja elektrotehničar/elektrotehničarka sistema obnovljivih izvora električne energije | [`rjesenje/2023/364646/`](rjesenje/2023/364646/) | in force | 1 | 2023-12-06 | 2023-12-06 |
 | Rješenje o standardu zanimanja pomoćnik/pomoćnica instalatera sistema obnovljivih izvora električne energije | [`rjesenje/2023/364687/`](rjesenje/2023/364687/) | in force | 1 | 2023-12-06 | 2023-12-06 |
 | Rješenje o standardu zanimanja tehničar/tehničarka ratarstva i povrtarstva | [`rjesenje/2023/364735/`](rjesenje/2023/364735/) | in force | 1 | 2023-12-06 | 2023-12-06 |
+| Rješenje o izdavanju licence Privatnoj ustanovi organizatoru obrazovanja odraslih "Urban pro tection training centar Montenegro", Podgorica | [`rjesenje/2023/364954/`](rjesenje/2023/364954/) | in force | 1 | 2023-11-21 | 2023-11-21 |
+| Rješenje o izdavanju licence Privatnoj ustanovi organizatoru obrazovanja odraslih "Logate insti tut za informacione tehnologije", Podgorica | [`rjesenje/2023/364965/`](rjesenje/2023/364965/) | in force | 1 | 2023-11-21 | 2023-11-21 |
+| Rješenje o izdavanju licence Privatnoj ustanovi organizatoru obrazovanja odraslih "Monte Interschool", Herceg Novi | [`rjesenje/2023/365039/`](rjesenje/2023/365039/) | in force | 1 | 2023-11-06 | 2023-11-06 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Vukosava Ivanović − Mašanović", Bar | [`rjesenje/2023/365253/`](rjesenje/2023/365253/) | in force | 1 | 2023-11-20 | 2023-11-20 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Vukosava Ivanović − Mašanović", Bar | [`rjesenje/2023/365260/`](rjesenje/2023/365260/) | in force | 1 | 2023-11-24 | 2023-11-24 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Kotor AM", Kotor | [`rjesenje/2023/365318/`](rjesenje/2023/365318/) | in force | 1 | 2023-07-26 | 2023-07-26 |
+| Rješenje o dopuni licence Privatnoj predškolskoj ustanovi "Casa Dei Bambini" − Podgorica | [`rjesenje/2023/365357/`](rjesenje/2023/365357/) | amending act | 1 | 2023-08-04 | 2023-08-04 |
+| Rješenje o izdavanju licence Agenciji za ispitivanje javnog mnjenja "Damar Plus" d.o.o, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2023/366974/`](rjesenje/2023/366974/) | in force | 1 | 2023-06-12 | 2023-06-12 |
 | Rješenje o utvrđivanju naknade za rad predsjednika i članova Savjeta Javne ustanove Kulturno informativni centar "Zeta" | [`rjesenje/2023/367287/`](rjesenje/2023/367287/) | in force | 1 | 2023-12-27 | 2023-12-27 |
 | Rješenje o utvrđivanju naknade za rad predsjednika i članova Upravnog odbora Javne ustanove "Centar za pružanje usluga iz oblasti socijalne i dječije zaštite za Opštinu Zeta" | [`rjesenje/2023/367314/`](rjesenje/2023/367314/) | in force | 1 | 2023-12-27 | 2023-12-27 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "A.Š. Radojičić", Herceg Novi | [`rjesenje/2023/367351/`](rjesenje/2023/367351/) | in force | 1 | 2023-07-26 | 2023-07-26 |
 | Rješenje o izboru člana Savjeta Javne ustanove Narodna biblioteka "Njegoš" Nikšić | [`rjesenje/2023/367359/`](rjesenje/2023/367359/) | in force | 1 | 2023-12-28 | 2023-12-28 |
 | Rješenje o razrješenju člana Savjeta Javne ustanove Narodna biblioteka "Njegoš" Nikšić | [`rjesenje/2023/367387/`](rjesenje/2023/367387/) | in force | 1 | 2023-12-28 | 2023-12-28 |
 | Rješenje o razrješenju člana Savjeta Javne ustanove Centar za kulturu Prijestonice Cetinje | [`rjesenje/2023/367651/`](rjesenje/2023/367651/) | in force | 1 | 2023-12-22 | 2023-12-22 |
@@ -28465,14 +28488,58 @@
 | Rešenje o imenovanju Žirija za dodjelu Nagrade "17 Septembar" | [`rjesenje/2023/369739/`](rjesenje/2023/369739/) | in force | 1 | 2023-06-16 | 2023-06-16 |
 | Rješenje o izmjeni Rješenja o imenovanju predsjednika i članova Odbora za statut i propise Skupštine Opštine Zeta | [`rjesenje/2023/373269/`](rjesenje/2023/373269/) | in force | 1 | 2023-10-30 | 2023-10-30 |
 | Rješenje o razrješenju i imenovanju člana Savjeta JU Narodna biblioteka "Stevan Samardžić" Pljevlja | [`rjesenje/2024/364964/`](rjesenje/2024/364964/) | in force | 1 | 2024-01-24 | 2024-01-24 |
+| Rješenje o imenovanju članova Odbora direktora DOO "Vodovod" Pljevlja | [`rjesenje/2024/365001/`](rjesenje/2024/365001/) | in force | 1 | 2024-01-04 | 2024-01-04 |
+| Rešenje o davanju saglasnosti na Program rada sa finansijskim planom DOO "Sportski centar Žabljak" - Žabljak za 2024. godinu | [`rjesenje/2024/365003/`](rjesenje/2024/365003/) | in force | 1 | 2023-12-28 | 2023-12-28 |
+| Rešenje o davanju saglasnosti na imenovanje vršioca dužnosti direktora DOO "Parking servis Žabljak" Žabljak | [`rjesenje/2024/365005/`](rjesenje/2024/365005/) | in force | 1 | 2023-12-28 | 2023-12-28 |
+| Rešenje o davanju saglasnosti na imenovanje vršioca dužnosti direktora DOO "Sportski centar Žabljak" Žabljak | [`rjesenje/2024/365010/`](rjesenje/2024/365010/) | in force | 1 | 2023-12-28 | 2023-12-28 |
+| Rešenje o davanju saglasnosti na Program rada sa finansijskim planom JU "Centar za kulturu Žabljak" za 2024. godinu | [`rjesenje/2024/365018/`](rjesenje/2024/365018/) | in force | 1 | 2023-12-28 | 2023-12-28 |
+| Rješenje o naknadi troškova za rad Komisije za izradu Predloga izmjene i dopune Poslovnika o radu Skupštine opštine Ulcinj | [`rjesenje/2024/365122/`](rjesenje/2024/365122/) | amending act | 1 | 2023-12-29 | 2023-12-29 |
+| Rješenje o naknadi troškova za rad Komisije za izradu Predloga izmjena i dopuna Statuta opštine Ulcinj | [`rjesenje/2024/365177/`](rjesenje/2024/365177/) | amending act | 1 | 2023-12-29 | 2023-12-29 |
+| Rješenje o usklađivanju naknade za korišćenje građevinskog zemljišta za 2023. godinu | [`rjesenje/2024/365262/`](rjesenje/2024/365262/) | in force | 1 | 2024-01-19 | 2024-01-19 |
+| Rješenje o imenovanju članova Odbora direktora ,,Parking servis Herceg Novi" DOO Herceg Novi | [`rjesenje/2024/365670/`](rjesenje/2024/365670/) | in force | 1 | 2024-01-31 | 2024-01-31 |
+| Rješenje o prestanku dužnosti i imenovanju sekretara Opštinske izborne komisije Herceg Novi u stalnom sastavu | [`rjesenje/2024/365673/`](rjesenje/2024/365673/) | in force | 1 | 2024-01-31 | 2024-01-31 |
+| Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću ,,Vodovod i kanalizacija" Herceg Novi | [`rjesenje/2024/365678/`](rjesenje/2024/365678/) | in force | 1 | 2024-01-31 | 2024-01-31 |
+| Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću - Društva za izgradnju vodovodne i kanalizacione infrastrukture u Opštini Herceg Novi | [`rjesenje/2024/365687/`](rjesenje/2024/365687/) | in force | 1 | 2024-01-31 | 2024-01-31 |
+| Rješenje o izboru potpredsjednice Skupštine opštine Herceg Novi | [`rjesenje/2024/365689/`](rjesenje/2024/365689/) | in force | 1 | 2024-01-31 | 2024-01-31 |
+| Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Sportski centar Igalo" - Igalo | [`rjesenje/2024/365693/`](rjesenje/2024/365693/) | in force | 1 | 2024-01-31 | 2024-01-31 |
+| Rješenje o razrješenju zamjenika člana Opštinske izborne komisije Kotor | [`rjesenje/2024/366544/`](rjesenje/2024/366544/) | in force | 1 | 2024-02-22 | 2024-02-22 |
+| Rješenje o izmjeni Rješenja o imenovanju člana Savjeta OJU "Muzeji" Kotor | [`rjesenje/2024/366545/`](rjesenje/2024/366545/) | in force | 1 | 2024-02-22 | 2024-02-22 |
+| Rješenje o izmjeni Rješenja o imenovanju člana Savjeta za zaštitu životne sredine | [`rjesenje/2024/366564/`](rjesenje/2024/366564/) | in force | 1 | 2024-02-22 | 2024-02-22 |
+| Rješenje o imenovanju Skupštine Turističke organizacije Kotor | [`rjesenje/2024/366583/`](rjesenje/2024/366583/) | in force | 1 | 2024-02-22 | 2024-02-22 |
+| Rješenje o izdavanju licence Fakultetu za Crnogorski jezik i književnost, Cetinje, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2024/366670/`](rjesenje/2024/366670/) | in force | 1 | 2024-02-05 | 2024-02-05 |
+| Rješenje o izdavanju licence ustanovi "Center for Finance" d.o.o, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2024/366672/`](rjesenje/2024/366672/) | in force | 1 | 2023-12-27 | 2023-12-27 |
+| Rješenje o izdavanju licence Institutu za ljekove i medicinska sredstva, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2024/366677/`](rjesenje/2024/366677/) | in force | 1 | 2024-01-12 | 2024-01-12 |
+| Rešenje o davanju saglasnosti na cijenovnik usluga za javna, opšta i posebna parkirališta | [`rjesenje/2024/366831/`](rjesenje/2024/366831/) | in force | 1 | 2024-02-29 | 2024-02-29 |
+| Rešenje o davanju saglasnosti na imenovanje direktora Stručne službe Turističke organizacije Opštine Žabljak | [`rjesenje/2024/366834/`](rjesenje/2024/366834/) | in force | 1 | 2024-02-29 | 2024-02-29 |
+| Rješenje o razrješenju predsjednika i članova Savjeta Javne ustanove "Muzeji i galerije Budve" | [`rjesenje/2024/366905/`](rjesenje/2024/366905/) | in force | 1 | 2024-02-16 | 2024-02-16 |
 | Rješenje o izdavanju licence Auto-školi "Đačka zadruga", Pljevlja | [`rjesenje/2024/367316/`](rjesenje/2024/367316/) | in force | 1 | 2024-02-05 | 2024-02-05 |
+| Rješenje o imenovanju člana Savjeta Javne ustanove Narodna biblioteka i čitaonica "Njegoš" Cetinje | [`rjesenje/2024/367638/`](rjesenje/2024/367638/) | in force | 1 | 2024-03-22 | 2024-03-22 |
+| Rješenje o davanju saglasnosti na imenovanje potpredsjednika Opštine Budva | [`rjesenje/2024/367660/`](rjesenje/2024/367660/) | in force | 1 | 2024-03-22 | 2024-03-22 |
+| Rješenje o razrješenju i imenovanju člana Odbora za izbor i imenovanja | [`rjesenje/2024/367661/`](rjesenje/2024/367661/) | in force | 1 | 2024-03-25 | 2024-03-25 |
+| Rješenje o razrješenju i imenovanju člana Odbora za Statut i propise | [`rjesenje/2024/367677/`](rjesenje/2024/367677/) | in force | 1 | 2024-03-25 | 2024-03-25 |
+| Rješenje o izdavanju licence Privatnoj ustanovi organizatoru obrazovanja odraslih "Bilinguist Language School", Podgorica | [`rjesenje/2024/367723/`](rjesenje/2024/367723/) | in force | 1 | 2024-03-15 | 2024-03-15 |
 | Rješenje o prestanku mandata člana Savjeta Javne ustanove Narodna biblioteka i čitaonica "Njegoš" Cetinje | [`rjesenje/2024/367781/`](rjesenje/2024/367781/) | in force | 1 | 2024-04-03 | 2024-04-03 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Zebra", Bijelo Polje | [`rjesenje/2024/367804/`](rjesenje/2024/367804/) | in force | 1 | 2024-03-12 | 2024-03-12 |
 | Rješenje o imenovanju Komisije za dodjelu zvanja ,,Počasni građanin Opštine Ulcinj" | [`rjesenje/2024/368104/`](rjesenje/2024/368104/) | in force | 1 | 2024-03-29 | 2024-03-29 |
 | Rješenje o imenovanju izvršnog direktora DOO "Vodovod i kanalizacija" Berane | [`rjesenje/2024/368275/`](rjesenje/2024/368275/) | in force | 1 | 2024-03-26 | 2024-03-26 |
 | Rješenje o imenovanju člana Savjeta Javne ustanove "Polimski muzej" Berane | [`rjesenje/2024/368309/`](rjesenje/2024/368309/) | in force | 1 | 2024-03-26 | 2024-03-26 |
 | Rješenje o prestanku mandata predsjednika Savjeta za prava lica sa invaliditetom | [`rjesenje/2024/368320/`](rjesenje/2024/368320/) | in force | 1 | 2024-03-26 | 2024-03-26 |
 | Rješenje o prestanku mandata članu Savjeta JU "Polimski muzej" Berane | [`rjesenje/2024/368322/`](rjesenje/2024/368322/) | in force | 1 | 2024-03-26 | 2024-03-26 |
+| Rješenje o dopuni licence Fakultetu za saobraćaj, komunikacije i logistiku, Budva, Univerzitet "Adriatik" | [`rjesenje/2024/368440/`](rjesenje/2024/368440/) | amending act | 1 | 2024-04-08 | 2024-04-08 |
+| Rješenje o izdavanju licence Javnoj ustanovi Prva srednja stručna škola, Nikšić | [`rjesenje/2024/369953/`](rjesenje/2024/369953/) | in force | 1 | 2024-04-15 | 2024-04-15 |
+| Rješenje o dopuni licence Fakultetu primijenjene nauke, Univerzitet Donja Gorica | [`rjesenje/2024/369965/`](rjesenje/2024/369965/) | amending act | 1 | 2024-04-29 | 2024-04-29 |
+| Rješenje o utvrđivanju minimalnog broja bodova potrebnih za upis u gimnaziju i četvorogodišnju stručnu školu za školsku 2024/25. godinu | [`rjesenje/2024/369968/`](rjesenje/2024/369968/) | in force | 1 | 2024-05-15 | 2024-05-15 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Eurocar", Podgorica | [`rjesenje/2024/370171/`](rjesenje/2024/370171/) | in force | 1 | 2024-05-23 | 2024-05-23 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola Nikšić | [`rjesenje/2024/370214/`](rjesenje/2024/370214/) | in force | 1 | 2024-05-31 | 2024-05-31 |
+| Rješenje o Izdavanju licence Privatnoj ustanovi auto-škola "Uno", Tivat | [`rjesenje/2024/370452/`](rjesenje/2024/370452/) | in force | 1 | 2024-06-05 | 2024-06-05 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja medicinska škola, Podgorica | [`rjesenje/2024/370453/`](rjesenje/2024/370453/) | in force | 1 | 2024-06-05 | 2024-06-05 |
+| Rješenje o izdavanju licence Privatnoj ustanovi "Gimnazija Podgorica", iz Podgorice | [`rjesenje/2024/370537/`](rjesenje/2024/370537/) | in force | 1 | 2024-06-20 | 2024-06-20 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto škola "Rina", Budva | [`rjesenje/2024/370600/`](rjesenje/2024/370600/) | in force | 1 | 2024-06-05 | 2024-06-05 |
 | Rješenje o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Javno komunalno preduzeće" Zeta | [`rjesenje/2024/371168/`](rjesenje/2024/371168/) | in force | 1 | 2024-06-20 | 2024-06-20 |
+| Rešenje, br: 01-016/24-336 | [`rjesenje/2024/372016/`](rjesenje/2024/372016/) | in force | 1 | 2024-07-11 | 2024-07-11 |
+| Rešenje o davanju saglasnosti na imenovanje izvršne direktorice DOO "Sportski centar Žabljak" Žabljak | [`rjesenje/2024/372040/`](rjesenje/2024/372040/) | in force | 1 | 2024-07-11 | 2024-07-11 |
+| Rešenje o davanju saglasnosti na Odluku o izboru izvršnog direktora DOO "Parking servis Žabljak" Žabljak | [`rjesenje/2024/372062/`](rjesenje/2024/372062/) | in force | 1 | 2024-07-11 | 2024-07-11 |
+| Rješenje o izdavanju dopune Licence Privatnoj ustanovi Obrazovni centar "Boka School International Institution", Herceg Novi | [`rjesenje/2024/372165/`](rjesenje/2024/372165/) | amending act | 1 | 2024-07-04 | 2024-07-04 |
 | Rješenje o izdavanju licence Privatnoj ustanovi organizatoru obrazovanja odraslih "Obrazovni centar Speak And Spell", Nikšić | [`rjesenje/2024/372328/`](rjesenje/2024/372328/) | in force | 1 | 2024-06-12 | 2024-06-12 |
 | Rješenje o izdavanju licence Fakultetu za informacione sisteme i tehnologije Univerziteta Donja Gorica, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2024/372447/`](rjesenje/2024/372447/) | in force | 1 | 2024-07-22 | 2024-07-22 |
 | Rješenje o izdavanju licence Javnoj zdravstvenoj ustanovi Kliničkom centru Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2024/372448/`](rjesenje/2024/372448/) | in force | 1 | 2024-07-22 | 2024-07-22 |
@@ -28483,17 +28550,32 @@
 | Rješenje o izmjenama i dopunama Rješenja o imenovanju Odbora direktora D.O.O. ,,Parking Servis" Ulcinj | [`rjesenje/2024/372786/`](rjesenje/2024/372786/) | amending act | 1 | 2024-07-26 | 2024-07-26 |
 | Rješenje o izmjenama i dopunama Rješenja o imenovanju Odbora direktora D.O.O. ,,Komunalne djelatnosti" Ulcinj | [`rjesenje/2024/372791/`](rjesenje/2024/372791/) | amending act | 1 | 2024-07-26 | 2024-07-26 |
 | Rješenje o izmjenama i dopunama Rješenja o imenovanju Odbora direktora D.O.O. ,,Vodovod i kanalizacija" Ulcinj | [`rjesenje/2024/372798/`](rjesenje/2024/372798/) | amending act | 1 | 2024-07-26 | 2024-07-26 |
+| Rješenje o izdavanju Licence Privatnoj ustanovi Auto škola "Aš Drum", Rožaje | [`rjesenje/2024/372971/`](rjesenje/2024/372971/) | in force | 1 | 2024-08-15 | 2024-08-15 |
+| Rješenje o izdavanju Licence Privatnoj ustanovi Auto škola "Bux start", Bijelo Polje | [`rjesenje/2024/372991/`](rjesenje/2024/372991/) | in force | 1 | 2024-08-15 | 2024-08-15 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Obrazovni centar "The British Academy" - Podgorica | [`rjesenje/2024/373165/`](rjesenje/2024/373165/) | in force | 1 | 2024-08-02 | 2024-08-02 |
 | Rješenje o imenovanju žirija za dodjelu nagrada i Povelje Opštine Herceg Novi | [`rjesenje/2024/373375/`](rjesenje/2024/373375/) | in force | 1 | 2024-09-06 | 2024-09-06 |
 | Rješenje, br: 01-082/24-1442/2 | [`rjesenje/2024/373475/`](rjesenje/2024/373475/) | in force | 1 | 2024-09-09 | 2024-09-09 |
+| Rješenje o izdavanju licence Privatnom obrazovnom centru "International school and kindergarten Maša", Podgorica | [`rjesenje/2024/373705/`](rjesenje/2024/373705/) | in force | 1 | 2024-09-13 | 2024-09-13 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja elektro-ekonomska škola Bijelo Polje | [`rjesenje/2024/373706/`](rjesenje/2024/373706/) | in force | 1 | 2024-09-04 | 2024-09-04 |
+| Rješenje o izdavanju licence Privatnoj ustanovi organizatoru obrazovanja odraslih "Oxford Centar - International Language Center", Podgorica | [`rjesenje/2024/373708/`](rjesenje/2024/373708/) | in force | 1 | 2024-09-12 | 2024-09-12 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola, Petnjica | [`rjesenje/2024/373711/`](rjesenje/2024/373711/) | in force | 1 | 2024-09-19 | 2024-09-19 |
 | Rješenje o izmjeni Rješenja o određivanju odbornika Skupštine Prijestonice Cetinje koji će prisustvovati sklapanju braka i zaključenju životnog partnerstva lica istog pola | [`rjesenje/2024/373809/`](rjesenje/2024/373809/) | in force | 1 | 2024-09-27 | 2024-09-27 |
 | Rješenje o imenovanju Savjeta za davanje prijedloga naziva naselja, ulica i trgova | [`rjesenje/2024/373815/`](rjesenje/2024/373815/) | in force | 1 | 2024-09-26 | 2024-09-26 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Rožaje | [`rjesenje/2024/373820/`](rjesenje/2024/373820/) | in force | 1 | 2024-09-23 | 2024-09-23 |
 | Rješenje o imenovanju Žirija za dodjelu nagrade "15. decembar" Opštine Tuzi za 2024. godinu 1430. Rješenje o imenovanju Savjeta za davanje prijedloga naziva naselja, ulica i trgova | [`rjesenje/2024/373824/`](rjesenje/2024/373824/) | in force | 1 | 2024-09-26 | 2024-09-26 |
+| Rješenje o licenci za rad Univerziteta Crne Gore, Instituta za interdisciplinarne i multidisciplinarne studije | [`rjesenje/2024/373890/`](rjesenje/2024/373890/) | in force | 1 | 2024-09-27 | 2024-09-27 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola "Bratstvo-jedinstvo", Ulcinj | [`rjesenje/2024/373893/`](rjesenje/2024/373893/) | in force | 1 | 2024-10-02 | 2024-10-02 |
+| Rješenje o izdavanju dopune licence Javnoj ustanovi Srednja stručna škola "Ivan Uskoković" Podgorica | [`rjesenje/2024/374026/`](rjesenje/2024/374026/) | amending act | 1 | 2024-10-08 | 2024-10-08 |
 | Rješenje o imenovanju predsjednika i članova Savjeta JU Muzeji i galerije Budve | [`rjesenje/2024/374075/`](rjesenje/2024/374075/) | in force | 1 | 2024-09-30 | 2024-09-30 |
 | Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele br. 11 u bloku 19 u skladu sa DUP-om "Podkošljun" | [`rjesenje/2024/374086/`](rjesenje/2024/374086/) | in force | 1 | 2024-10-22 | 2024-10-22 |
 | Rješenje o razrješenju i imenovanju člana Savjeta JU Narodna biblioteka "Stevan Samardžić" Pljevlja | [`rjesenje/2024/374100/`](rjesenje/2024/374100/) | in force | 1 | 2024-10-22 | 2024-10-22 |
+| Rješenje o izdavanju dopune licence Privatnoj predškolskoj ustanovi "Nebo Diznilenda", Podgorica | [`rjesenje/2024/374288/`](rjesenje/2024/374288/) | amending act | 1 | 2024-10-15 | 2024-10-15 |
 | Rješenje o određivanju člana Odbora povjerenika koji će prisustvovati zaključenju brakova | [`rjesenje/2024/374356/`](rjesenje/2024/374356/) | in force | 1 | 2024-10-16 | 2024-10-16 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Zeleni signal", Nikšić | [`rjesenje/2024/374466/`](rjesenje/2024/374466/) | in force | 1 | 2024-10-11 | 2024-10-11 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Delfin", Kotor | [`rjesenje/2024/374470/`](rjesenje/2024/374470/) | in force | 1 | 2024-10-02 | 2024-10-02 |
 | Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Eko Bajka", Pljevlja | [`rjesenje/2024/374709/`](rjesenje/2024/374709/) | in force | 1 | 2024-10-25 | 2024-10-25 |
 | Rješenje o izdavanju licence Javnoj ustanovi Gimnazija Kotor, Kotor | [`rjesenje/2024/374712/`](rjesenje/2024/374712/) | in force | 1 | 2024-10-25 | 2024-10-25 |
+| Rješenje o davanju saglasnosti na cijene usluga za javno vodosnabdijevanje, prihvatanje i odvođenje otpadnih voda, prečišćavanje komunalnih otpadnih voda, crpljenja, odvoza i zbrinjavanja otpadnih voda iz septičkih jama za 2025. godinu | [`rjesenje/2024/374783/`](rjesenje/2024/374783/) | in force | 1 | 2024-10-29 | 2024-10-29 |
 | Rješenje o izdavanju licence Fakultetu za pomorstvo i turizam univerziteta Adriatik, Bar, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2024/374887/`](rjesenje/2024/374887/) | in force | 1 | 2024-11-01 | 2024-11-01 |
 | Rješenje o obrazovanju Komisije za izradu Predloga Odluke o izmjenama i dopunama Statuta Opštine Zeta | [`rjesenje/2024/374974/`](rjesenje/2024/374974/) | amending act | 1 | 2024-11-12 | 2024-11-12 |
 | Rješenje o određivanju vršioca dužnosti sekretara Skupštine opštine Andrijevica3 | [`rjesenje/2024/374989/`](rjesenje/2024/374989/) | in force | 1 | 2024-11-08 | 2024-11-08 |
@@ -28507,16 +28589,54 @@
 | Rješenje o izdavanju licence Privatnoj ustanovi Obrazovni Centar "United Kids International Montenegro", Podgorica | [`rjesenje/2024/376283/`](rjesenje/2024/376283/) | in force | 1 | 2024-12-31 | 2024-12-31 |
 | Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Vukosava Ivanović Mašanović", Bar | [`rjesenje/2024/376288/`](rjesenje/2024/376288/) | in force | 1 | 2024-12-31 | 2024-12-31 |
 | Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Vukosava Ivanović Mašanović", Bar | [`rjesenje/2024/376292/`](rjesenje/2024/376292/) | in force | 1 | 2024-12-31 | 2024-12-31 |
+| Rješenje o izdavanju licence Centru za obrazovanje odraslih Javne ustanove srednja stručna škola "Spasoje Raspopović", Podgorica | [`rjesenje/2024/376356/`](rjesenje/2024/376356/) | in force | 1 | 2024-12-10 | 2024-12-10 |
 | Rješenje o imenovanju komisije za dodjelu stipendije | [`rjesenje/2024/376508/`](rjesenje/2024/376508/) | in force | 1 | 2024-12-17 | 2024-12-17 |
 | Rješenje o izmjeni Rješenja o imenovanju predsjednika i članova Odbora za međuopštinsku i međunarodnu saradnju Skupštine opštine Zeta | [`rjesenje/2024/376579/`](rjesenje/2024/376579/) | in force | 1 | 2024-12-27 | 2024-12-27 |
 | Rješenje o razrješenju i imenovanju člana Odbora direktora DOO "Komunalne usluge" Pljevlja | [`rjesenje/2025/376793/`](rjesenje/2025/376793/) | in force | 1 | 2025-01-25 | 2025-01-25 |
 | Rješenje o izmjenama i dopunama Rješenja o imenovanju Upravnog odbora Dnevnog centra za djecu i omladinu sa smetnjama i teškoćom u razvoju ,,Sirena" Ulcinj | [`rjesenje/2025/377019/`](rjesenje/2025/377019/) | amending act | 1 | 2024-12-24 | 2024-12-24 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Auto škola Expert", Podgorica | [`rjesenje/2025/378235/`](rjesenje/2025/378235/) | in force | 1 | 2025-01-24 | 2025-01-24 |
+| Rješenje o izdavanju licence Privatnoj ustanovi organizatoru obrazovanja odraslih "Akademija za biznis edukacije" iz Podgorice | [`rjesenje/2025/378238/`](rjesenje/2025/378238/) | in force | 1 | 2025-01-23 | 2025-01-23 |
+| Rješenje o imenovanju Odbora za finansije, privredu i razvoj | [`rjesenje/2025/378489/`](rjesenje/2025/378489/) | in force | 1 | 2025-02-06 | 2025-02-06 |
+| Rješenje o povjeravanju poslova potpredsjednicima opštine Mojašević Miloradu i Čukić Miodragu | [`rjesenje/2025/378494/`](rjesenje/2025/378494/) | in force | 1 | 2024-12-27 | 2024-12-27 |
 | Rješenje o imenovanju Odbora za društvene djelatnosti i međuopštinsku i međunarodnu saradnju | [`rjesenje/2025/378500/`](rjesenje/2025/378500/) | in force | 1 | 2025-02-06 | 2025-02-06 |
+| Rješenje o imenovanju predsjednika i članova Odbora za izbor i imenovanja | [`rjesenje/2025/378539/`](rjesenje/2025/378539/) | in force | 1 | 2025-02-03 | 2025-02-03 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Dragan Kovačević", Nikšić | [`rjesenje/2025/379246/`](rjesenje/2025/379246/) | in force | 1 | 2025-02-21 | 2025-02-21 |
+| Rješenje o izdavanju licence Privatnoj predškolskoj ustanovi "British Green Academy", Podgorica | [`rjesenje/2025/379586/`](rjesenje/2025/379586/) | in force | 1 | 2025-02-24 | 2025-02-24 |
+| Rješenje o imenovanju Opštinske izborne komisije | [`rjesenje/2025/379598/`](rjesenje/2025/379598/) | in force | 1 | 2025-02-21 | 2025-02-21 |
 | Rješenje o imenovanju članova Odbora direktora DOO ,,Komunalno" Budva | [`rjesenje/2025/379611/`](rjesenje/2025/379611/) | in force | 1 | 2025-02-21 | 2025-02-21 |
 | Rješenje o razrješenju članova Odbora direktora DOO "Mediteran reklame" | [`rjesenje/2025/379615/`](rjesenje/2025/379615/) | in force | 1 | 2025-02-21 | 2025-02-21 |
 | Rješenje o imenovanju članova Odbora direktora DOO "Mediteran reklame" Budva | [`rjesenje/2025/379623/`](rjesenje/2025/379623/) | in force | 1 | 2025-02-21 | 2025-02-21 |
 | Rješenje o razrješenju članova Odbora direktora DOO ,,Komunalno" Budva | [`rjesenje/2025/379630/`](rjesenje/2025/379630/) | in force | 1 | 2025-02-21 | 2025-02-21 |
+| Rješenje o davanju saglasnosti na Rješenje predsjednika opštine o imenovanju potpredsjednice Opštine Šavnik | [`rjesenje/2025/379872/`](rjesenje/2025/379872/) | in force | 1 | 2025-02-19 | 2025-02-19 |
+| Rješenje o izdavanju dopune licence Javnoj ustanovi Škola za srednje i više stručno obrazovanje "Sergije Stanić" Podgorica | [`rjesenje/2025/380076/`](rjesenje/2025/380076/) | amending act | 1 | 2025-03-03 | 2025-03-03 |
+| Rješenje o razrješenju predsjednika i članova Savjeta JU "Grad teatar" Budva | [`rjesenje/2025/380886/`](rjesenje/2025/380886/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Akademija znanja" Budva | [`rjesenje/2025/380888/`](rjesenje/2025/380888/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o razrješenju članova Odbora direktora DOO "Vodovod i kanalizacija" Budva | [`rjesenje/2025/380892/`](rjesenje/2025/380892/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o imenovanju predsjednika i članova Savjeta JU "Muzeji i galerije Budve" | [`rjesenje/2025/380897/`](rjesenje/2025/380897/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o imenovanju predsjednika i članova Upravnog odbora JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Biseri" Budva | [`rjesenje/2025/380899/`](rjesenje/2025/380899/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o razrješenju predsjednika Upravnog odbora Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Biseri" Budva | [`rjesenje/2025/380906/`](rjesenje/2025/380906/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje, broj: 10-040/25-283/1 | [`rjesenje/2025/380914/`](rjesenje/2025/380914/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o imenovanju članova Odbora direktora DOO "Vodovod i kanalizacija" Budva | [`rjesenje/2025/380915/`](rjesenje/2025/380915/) | in force | 1 | 2025-04-02 | 2025-04-02 |
 | Rješenje o naknadi za rad Upravnog odbora Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Biseri" Budva | [`rjesenje/2025/380916/`](rjesenje/2025/380916/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o imenovanju članova Odbora direktora DOO "Otpadne vode"- Budva | [`rjesenje/2025/380923/`](rjesenje/2025/380923/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje, broj: 10-040/25-280/1 | [`rjesenje/2025/380930/`](rjesenje/2025/380930/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o imenovanju predsjednika i članova Savjeta JU "Narodna biblioteka Budve" | [`rjesenje/2025/380933/`](rjesenje/2025/380933/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o razrješenju predsjednika i članova Savjeta JU "Narodna biblioteka" Budve | [`rjesenje/2025/380934/`](rjesenje/2025/380934/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o razrješenju članova Odbora direktora DOO "Sportsko-rekreativni centar" Budva | [`rjesenje/2025/380935/`](rjesenje/2025/380935/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje, broj: 10-040/25-278/1 | [`rjesenje/2025/380936/`](rjesenje/2025/380936/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o imenovanju članova Odbora direktora DOO ,,Parking servis Budva" Budva | [`rjesenje/2025/380939/`](rjesenje/2025/380939/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o razrješenju članova Odbora direktora Društva sa ograničenom odgovornošću "Akademija znanja" Budva | [`rjesenje/2025/380944/`](rjesenje/2025/380944/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje, broj: 10-040/25-276/1 | [`rjesenje/2025/380954/`](rjesenje/2025/380954/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje, broj: 10-040/25-273/1 | [`rjesenje/2025/380956/`](rjesenje/2025/380956/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o imenovanju članova Odbora direktora DOO "Sportsko-rekreativni centar" Budva | [`rjesenje/2025/380962/`](rjesenje/2025/380962/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o imenovanju članova Odbora direktora DOO ,,Pogrebne usluge" Budva | [`rjesenje/2025/380970/`](rjesenje/2025/380970/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o imenovanju predsjednika i članova Savjeta JU "Grad teatar" Budva | [`rjesenje/2025/380973/`](rjesenje/2025/380973/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o naknadama za rad Odbora direktora DOO "Pogrebne usluge" Budva | [`rjesenje/2025/380977/`](rjesenje/2025/380977/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje, broj: 10-040/25-271/1 | [`rjesenje/2025/380982/`](rjesenje/2025/380982/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o imenovanju članova Odbora direktora DOO "Mediteranski sportski centar" Budva | [`rjesenje/2025/380985/`](rjesenje/2025/380985/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o razrješenju članova Odbora direktora DOO "Otpadne vode" - Budva | [`rjesenje/2025/380992/`](rjesenje/2025/380992/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o razrješenju članova Upravnog odbora Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Biseri" Budva | [`rjesenje/2025/381002/`](rjesenje/2025/381002/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o razrješenju i imenovanju predsjednika Odbora za finansije, privredu i razvoj | [`rjesenje/2025/381007/`](rjesenje/2025/381007/) | in force | 1 | 2025-04-02 | 2025-04-02 |
 | Rješenje o javno važećem Obrazovnom programu Pomoćnik krojača sa prilagođenim izvođenjem i dodatnom stručnom pomoći | [`rjesenje/2025/381126/`](rjesenje/2025/381126/) | in force | 1 | 2025-03-26 | 2025-03-26 |
 | Rješenje o javno važećem Obrazovnom programu Bravar-zavarivač | [`rjesenje/2025/381127/`](rjesenje/2025/381127/) | in force | 1 | 2025-04-01 | 2025-04-01 |
 | Rješenje o javno važećem Obrazovnom programu Pomoćnik prodavača | [`rjesenje/2025/381131/`](rjesenje/2025/381131/) | in force | 1 | 2025-03-26 | 2025-03-26 |
@@ -28529,13 +28649,72 @@
 | Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Maks", Podgorica | [`rjesenje/2025/381142/`](rjesenje/2025/381142/) | in force | 1 | 2025-03-17 | 2025-03-17 |
 | Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Đina Vrbica", Podgorica | [`rjesenje/2025/381393/`](rjesenje/2025/381393/) | in force | 1 | 2025-04-01 | 2025-04-01 |
 | Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Đina Vrbica", Podgorica | [`rjesenje/2025/381396/`](rjesenje/2025/381396/) | in force | 1 | 2025-04-01 | 2025-04-01 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Irena Radović", Danilovgrad | [`rjesenje/2025/381826/`](rjesenje/2025/381826/) | in force | 1 | 2025-04-23 | 2025-04-23 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Irena Radović", Danilovgrad | [`rjesenje/2025/381833/`](rjesenje/2025/381833/) | in force | 1 | 2025-04-23 | 2025-04-23 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Irena Radović", Danilovgrad | [`rjesenje/2025/381835/`](rjesenje/2025/381835/) | in force | 1 | 2025-04-23 | 2025-04-23 |
+| Rješenje o izmjeni Rješenja o imenovanju Odbora za planiranje prostora i stambeno-komunalne djelatnosti | [`rjesenje/2025/381867/`](rjesenje/2025/381867/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Rješenje o izmjeni Rješenja o imenovanju Odbora za budžet, privredu i razvoj | [`rjesenje/2025/381873/`](rjesenje/2025/381873/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Rješenje o izmjeni Rješenja o imenovanju Savjeta za zaštitu životne sredine | [`rjesenje/2025/381890/`](rjesenje/2025/381890/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Rješenje o izmjeni Rješenja o određivanju odbornika koji će prisustvovati sklapanju braka | [`rjesenje/2025/381895/`](rjesenje/2025/381895/) | in force | 1 | 2025-04-24 | 2025-04-24 |
+| Rješenje o izmjeni Rješenja o imenovanju Odbora za planiranje i uređenje prostora i komunalno- stambenu djelatnost | [`rjesenje/2025/381998/`](rjesenje/2025/381998/) | in force | 1 | 2025-05-13 | 2025-05-13 |
+| Rješenje o izmjeni Rješenja o imenovanju Odbora za statut i propise | [`rjesenje/2025/382001/`](rjesenje/2025/382001/) | in force | 1 | 2025-05-13 | 2025-05-13 |
+| Rješenje o utvrđivanju minimalnog broja bodova potrebnih za upis u gimnaziju i četvorogodišnju stručnu školu za školsku 2025/26. godinu | [`rjesenje/2025/382280/`](rjesenje/2025/382280/) | in force | 1 | 2025-05-16 | 2025-05-16 |
 | Rješenje o obrazovanju Odbora za izbor i imenovanja Skupštine opštine Herceg Novi | [`rjesenje/2025/382889/`](rjesenje/2025/382889/) | in force | 1 | 2025-06-09 | 2025-06-09 |
 | Rješenje o izdavanju licence Javnoj ustanovi Gimnazija "Panto Mališić", Berane | [`rjesenje/2025/382929/`](rjesenje/2025/382929/) | in force | 1 | 2025-06-02 | 2025-06-02 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola "Spasoje Raspopović", Podgorica | [`rjesenje/2025/382934/`](rjesenje/2025/382934/) | in force | 1 | 2025-06-04 | 2025-06-04 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola "Vukadin Vukadinović", Berane | [`rjesenje/2025/382937/`](rjesenje/2025/382937/) | in force | 1 | 2025-06-04 | 2025-06-04 |
+| Rješenje o licenci za rad Fakulteta slobodnih umjetnosti i nauka "Faculty of Liberal Arts and Sciences", Budva | [`rjesenje/2025/382941/`](rjesenje/2025/382941/) | in force | 1 | 2025-05-29 | 2025-05-29 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola "Bratstvo-Jedinstvo", Ulcinj | [`rjesenje/2025/382943/`](rjesenje/2025/382943/) | in force | 1 | 2025-06-04 | 2025-06-04 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja medicinska škola, Podgorica | [`rjesenje/2025/383108/`](rjesenje/2025/383108/) | in force | 1 | 2025-06-02 | 2025-06-02 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola "Vuksan Đukić", Mojkovac | [`rjesenje/2025/383109/`](rjesenje/2025/383109/) | in force | 1 | 2025-06-04 | 2025-06-04 |
+| Rješenje o obrazovanju Savjeta za zaštitu životne sredine Skupštine opštine Herceg Novi | [`rjesenje/2025/383148/`](rjesenje/2025/383148/) | in force | 1 | 2025-06-23 | 2025-06-23 |
+| Rješenje o imenovanju Žirija za dodjelu nagrada i povelje Opštine Herceg Novi | [`rjesenje/2025/383149/`](rjesenje/2025/383149/) | in force | 1 | 2025-06-23 | 2025-06-23 |
+| Rješenje o obrazovanju Odbora za budžet, privredu i razvoj Skupštine opštine Herceg Novi | [`rjesenje/2025/383152/`](rjesenje/2025/383152/) | in force | 1 | 2025-06-23 | 2025-06-23 |
+| Rješenje o obrazovanju Savjeta za davanje predloga naziva naselja, ulica i trgova Skupštine opštine Herceg Novi | [`rjesenje/2025/383157/`](rjesenje/2025/383157/) | in force | 1 | 2025-06-23 | 2025-06-23 |
+| Rješenje o obrazovanju Savjeta za prava lica sa invaliditetom Skupštine opštine Herceg Novi | [`rjesenje/2025/383158/`](rjesenje/2025/383158/) | in force | 1 | 2025-06-23 | 2025-06-23 |
+| Rješenje o obrazovanju Odbora za Statut i propise Skupštine opštine Herceg Novi | [`rjesenje/2025/383161/`](rjesenje/2025/383161/) | in force | 1 | 2025-06-23 | 2025-06-23 |
+| Rješenje o obrazovanju Savjeta za rodnu ravnopravnost Skupštine opštine Herceg Novi | [`rjesenje/2025/383168/`](rjesenje/2025/383168/) | in force | 1 | 2025-06-23 | 2025-06-23 |
+| Rješenje o obrazovanju Odbora za međuopštinsku i međunarodnu saradnju Skupštine opštine Herceg Novi | [`rjesenje/2025/383169/`](rjesenje/2025/383169/) | in force | 1 | 2025-06-23 | 2025-06-23 |
+| Rješenje o obrazovanju Odbora za planiranje prostora i komunalno-stambenu djelatnost Skupštine opštine Herceg Novi | [`rjesenje/2025/383178/`](rjesenje/2025/383178/) | in force | 1 | 2025-06-23 | 2025-06-23 |
+| Rješenje o imenovanju Opštinske izborne komisije Herceg Novi u stalnom sastavu | [`rjesenje/2025/383179/`](rjesenje/2025/383179/) | in force | 1 | 2025-06-23 | 2025-06-23 |
+| Rješenje o obrazovanju Odbora za društvene djelatnosti Skupštine opštine Herceg Novi | [`rjesenje/2025/383181/`](rjesenje/2025/383181/) | in force | 1 | 2025-06-23 | 2025-06-23 |
+| Rješenje o obrazovanju Odbora za imovinsko-pravna raspolaganja Skupštine opštine Herceg Novi | [`rjesenje/2025/383183/`](rjesenje/2025/383183/) | in force | 1 | 2025-06-23 | 2025-06-23 |
+| Rješenje o utvrđivanju prestanka mandata članovima Odbora direktora d.o.o. "Vodovod i kanalizacija Kotor" Kotor | [`rjesenje/2025/383423/`](rjesenje/2025/383423/) | in force | 1 | 2025-06-27 | 2025-06-27 |
+| Rješenje o izdavanju dopune licence Privatnoj predškolskoj ustanovi "Kockica", Podgorica | [`rjesenje/2025/383476/`](rjesenje/2025/383476/) | amending act | 1 | 2025-06-13 | 2025-06-13 |
+| Rješenje o dopuni licence Univerzitetu Crne Gore, Institutu za interdisciplinarne i multidisciplinarne studije | [`rjesenje/2025/383490/`](rjesenje/2025/383490/) | amending act | 1 | 2025-06-27 | 2025-06-27 |
+| Rješenje o standardu zanimanja Baštovan/ Baštovanka | [`rjesenje/2025/383648/`](rjesenje/2025/383648/) | in force | 1 | 2025-06-04 | 2025-06-04 |
+| Rješenje o standardu zanimanja Tehničar/ Tehničarka dizajna u hortikulturi | [`rjesenje/2025/383651/`](rjesenje/2025/383651/) | in force | 1 | 2025-06-04 | 2025-06-04 |
+| Rješenje o standardu zanimanja Rasadničar/ Rasadničarka | [`rjesenje/2025/383665/`](rjesenje/2025/383665/) | in force | 1 | 2025-06-04 | 2025-06-04 |
+| Rješenje o standardu zanimanja Cvjećar/ Cvjećarka | [`rjesenje/2025/383669/`](rjesenje/2025/383669/) | in force | 1 | 2025-06-04 | 2025-06-04 |
+| Rješenje o standardu zanimana Pomoćnik / Pomoćnica u hortikulturnoj proizvodnji | [`rjesenje/2025/383681/`](rjesenje/2025/383681/) | in force | 1 | 2025-06-04 | 2025-06-04 |
+| Rješenje o standardu zanimanja Ginekološko-akušerski tehničar/Ginekološko-akušerska tehničarka za rad u ustanovama primarne zdravstvene zaštite | [`rjesenje/2025/383697/`](rjesenje/2025/383697/) | in force | 1 | 2025-06-04 | 2025-06-04 |
 | Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Go Smart", Podgorica | [`rjesenje/2025/383756/`](rjesenje/2025/383756/) | in force | 1 | 2025-07-09 | 2025-07-09 |
 | Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Ferrari", Ulcinj | [`rjesenje/2025/383759/`](rjesenje/2025/383759/) | in force | 1 | 2025-07-08 | 2025-07-08 |
+| Rješenje o izdavanju dopune licence Privatnoj predškolskoj ustanovi "Vrtić dnevna majka", Podgorica | [`rjesenje/2025/383792/`](rjesenje/2025/383792/) | amending act | 1 | 2025-06-12 | 2025-06-12 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Auto škola Expert", Podgorica | [`rjesenje/2025/383809/`](rjesenje/2025/383809/) | in force | 1 | 2025-07-01 | 2025-07-01 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Bux Start", Bijelo Polje | [`rjesenje/2025/383817/`](rjesenje/2025/383817/) | in force | 1 | 2025-07-02 | 2025-07-02 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Zvjezdani vrt", Zeta | [`rjesenje/2025/383927/`](rjesenje/2025/383927/) | in force | 1 | 2025-07-28 | 2025-07-28 |
+| Rješenje o naknadi za rad Komisije za izradu predloga izmjena i dopuna Poslovnika o radu Skupštine opštine Budva | [`rjesenje/2025/384572/`](rjesenje/2025/384572/) | amending act | 1 | 2025-08-25 | 2025-08-25 |
 | Rješenje o razrješenju i imenovanju člana Odbora za finansije, privredu i razvoj | [`rjesenje/2025/384581/`](rjesenje/2025/384581/) | in force | 1 | 2025-08-25 | 2025-08-25 |
+| Rješenje, broj: 01-016/25-397 | [`rjesenje/2025/384587/`](rjesenje/2025/384587/) | in force | 1 | 2025-08-07 | 2025-08-07 |
+| Rješenje o izmjeni Rješenja o imenovanju predsjednika i članova Odbora direktora d.o.o. "Vodovod i kanalizacija Kotor" Kotor | [`rjesenje/2025/384589/`](rjesenje/2025/384589/) | in force | 1 | 2025-08-11 | 2025-08-11 |
 | Rješenje o imenovanju predsjednika i članova Savjeta JU "Muzeji i galerije Budve" | [`rjesenje/2025/384593/`](rjesenje/2025/384593/) | in force | 1 | 2025-08-25 | 2025-08-25 |
+| Rješenje o stavljanju van snage Rješenja Skupštine opštine Budva br. 10-040/25-254/1 od 2. 4. 2025. godine | [`rjesenje/2025/384594/`](rjesenje/2025/384594/) | in force | 1 | 2025-08-25 | 2025-08-25 |
+| Rešenje o imenovanju Žirija za dodjelu Nagrade "17. septembar" | [`rjesenje/2025/384595/`](rjesenje/2025/384595/) | in force | 1 | 2025-08-07 | 2025-08-07 |
+| Rješenje o izdavanju licence Javnoj ustanovi Stručna medicinska škola Podgorica | [`rjesenje/2025/384627/`](rjesenje/2025/384627/) | in force | 1 | 2025-07-22 | 2025-07-22 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Autostart M", Budva | [`rjesenje/2025/384630/`](rjesenje/2025/384630/) | in force | 1 | 2025-08-05 | 2025-08-05 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Majka Tereza", Tuzi | [`rjesenje/2025/384881/`](rjesenje/2025/384881/) | in force | 1 | 2025-07-31 | 2025-07-31 |
+| Rješenje o prestanku mandata u skupštinskim radnim tijelima | [`rjesenje/2025/385040/`](rjesenje/2025/385040/) | in force | 1 | 2025-09-15 | 2025-09-15 |
+| Rješenje o javno važećem obrazovnom programu Zubni tehničar i stomatološki asistent | [`rjesenje/2025/385066/`](rjesenje/2025/385066/) | in force | 1 | 2025-08-27 | 2025-08-27 |
+| Rješenje o izdavanju licence Privatnoj ustanovi "Centar za obrazovanje i trening ZOPT COT", Podgorica | [`rjesenje/2025/385071/`](rjesenje/2025/385071/) | in force | 1 | 2025-09-11 | 2025-09-11 |
+| Rješenje o javno važećem obrazovnom programu Kozmetički tehničar | [`rjesenje/2025/385078/`](rjesenje/2025/385078/) | in force | 1 | 2025-08-27 | 2025-08-27 |
+| Rješenje o javno važećem obrazovnom programu Fizioterapeutski tehničar | [`rjesenje/2025/385079/`](rjesenje/2025/385079/) | in force | 1 | 2025-08-27 | 2025-08-27 |
+| Rješenje o javno važećem obrazovnom programu Farmaceutski tehničar | [`rjesenje/2025/385088/`](rjesenje/2025/385088/) | in force | 1 | 2025-08-27 | 2025-08-27 |
 | Rješenje o izdavanju licence Privatnoj ustanovi "Metaphor centar", Podgorica | [`rjesenje/2025/385269/`](rjesenje/2025/385269/) | in force | 1 | 2025-09-15 | 2025-09-15 |
+| Rješenje o imenovanju člana Savjeta Javne ustanove Narodna biblioteka i čitaonica "Njegoš" Cetinje | [`rjesenje/2025/385307/`](rjesenje/2025/385307/) | in force | 1 | 2025-09-29 | 2025-09-29 |
+| Rješenje o imenovanju Žirija za dodjelu nagrade "15. decembar" Opštine Tuzi za 2025. godinu | [`rjesenje/2025/385351/`](rjesenje/2025/385351/) | in force | 1 | 2025-09-29 | 2025-09-29 |
+| Rješenje o izdavanju licence Javnoj ustanovi Muzička škola, Tivat | [`rjesenje/2025/385547/`](rjesenje/2025/385547/) | in force | 1 | 2025-08-22 | 2025-08-22 |
+| Rješenje o izdavanju licence Privatnoj ustanovi auto škola "Rina", Budva | [`rjesenje/2025/385829/`](rjesenje/2025/385829/) | in force | 1 | 2025-10-13 | 2025-10-13 |
 | Rješenje o imenovanju Žirija za dodjelu nagrade "21. novembar" | [`rjesenje/2025/386225/`](rjesenje/2025/386225/) | in force | 1 | 2025-10-24 | 2025-10-24 |
 | Rješenje o naknadama za rad Odbora direktora DOO "Komunalno" Budva | [`rjesenje/2025/386486/`](rjesenje/2025/386486/) | in force | 1 | 2025-11-12 | 2025-11-12 |
 | Rješenje o razrješenju zamjenika člana Opštinske izborne komisije Kotor | [`rjesenje/2025/386488/`](rjesenje/2025/386488/) | in force | 1 | 2025-11-12 | 2025-11-12 |
@@ -28543,45 +28722,135 @@
 | Rješenje o razrješenju i imenovanju člana Odbora za finansije, privredu i razvoj | [`rjesenje/2025/386694/`](rjesenje/2025/386694/) | in force | 1 | 2025-11-26 | 2025-11-26 |
 | Rješenje o razrješenju i imenovanju člana Odbora za planiranje, uređenje prostora i komunalno-stambenu djelatnost | [`rjesenje/2025/386703/`](rjesenje/2025/386703/) | in force | 1 | 2025-11-26 | 2025-11-26 |
 | Rješenje o imenovanju člana Pozorišnog savjeta Javne ustanove Nikšićko pozorište | [`rjesenje/2025/386714/`](rjesenje/2025/386714/) | in force | 1 | 2025-11-26 | 2025-11-26 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "Tien", Podgorica | [`rjesenje/2025/386884/`](rjesenje/2025/386884/) | in force | 1 | 2025-10-28 | 2025-10-28 |
+| Rješenje o izdavanju licence Privatnoj ustanovi "Lingva Mont", Podgorica | [`rjesenje/2025/386892/`](rjesenje/2025/386892/) | in force | 1 | 2025-10-23 | 2025-10-23 |
 | Rješenje o dopuni Rješenja o imenovanju članova Savjeta Javne ustanove "Gradska biblioteka i čitaonica" Herceg Novi | [`rjesenje/2025/386909/`](rjesenje/2025/386909/) | amending act | 1 | 2025-11-24 | 2025-11-24 |
 | Rješenje o dopuni Rješenja o imenovanju članova Savjeta Javne ustanove "Gradski muzej Mirko Komnenović i galerija Josip Bepo Benković" Herceg Novi | [`rjesenje/2025/386920/`](rjesenje/2025/386920/) | amending act | 1 | 2025-11-24 | 2025-11-24 |
 | Rješenje o razrješenju i imenovanju člana Odbora za imovinsko-pravna raspolaganja Skupštine opštine Herceg Novi | [`rjesenje/2025/386923/`](rjesenje/2025/386923/) | in force | 1 | 2025-11-24 | 2025-11-24 |
 | Rješenje o imenovanju članova Odbora direktora DOO "Agencija za gazdovanje Gradskom lukom Herceg Novi" | [`rjesenje/2025/386929/`](rjesenje/2025/386929/) | in force | 1 | 2025-11-24 | 2025-11-24 |
 | Rješenje o imenovanju članova Odbora direktora "Agencija za razvoj i zaštitu Orjena - Herceg Novi" DOO | [`rjesenje/2025/386930/`](rjesenje/2025/386930/) | in force | 1 | 2025-11-24 | 2025-11-24 |
+| Rješenje o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Nikšić | [`rjesenje/2025/387002/`](rjesenje/2025/387002/) | in force | 1 | 2025-08-11 | 2025-08-11 |
 | Rješenje o izmjeni Rješenja o imenovanju članova Skupštine Turističke organizacije Glavnog grada Podgorica | [`rjesenje/2025/387021/`](rjesenje/2025/387021/) | in force | 1 | 2025-07-07 | 2025-07-07 |
 | Rješenje o razrješenju predsjednika i članova savjeta JU " Muzeji i galerije" Budve | [`rjesenje/2025/387023/`](rjesenje/2025/387023/) | in force | 1 | 2026-07-11 | 2026-07-11 |
+| Rješenje o usklađivanju naknade za korišćenje građevinskog zemljišta za 2024. godinu | [`rjesenje/2025/387042/`](rjesenje/2025/387042/) | in force | 1 | 2025-07-03 | 2025-07-03 |
+| Rješenje o razrješenju Odbora direktora Društva sa ograničenom odgovornošću "Agencija za projektovanje i planiranje" | [`rjesenje/2025/387058/`](rjesenje/2025/387058/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola "Spasoje Raspopović", Podgorica | [`rjesenje/2025/387076/`](rjesenje/2025/387076/) | in force | 1 | 2025-06-03 | 2025-06-03 |
+| Rješenje o imenovanju sekretara Skupštine opštine Andrijevica | [`rjesenje/2025/387077/`](rjesenje/2025/387077/) | in force | 1 | 2025-08-07 | 2025-08-07 |
+| Rješenje o izmjeni Rješenja o imenovanju Savjeta za prava lica sa invaliditetom | [`rjesenje/2025/387127/`](rjesenje/2025/387127/) | in force | 1 | 2025-08-06 | 2025-08-06 |
+| Rješenje o izboru Savjeta Javne ustanove Narodna biblioteka "Njegoš" Nikšić | [`rjesenje/2025/387143/`](rjesenje/2025/387143/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o razrešenju člana Savjeta OJU "Muzeji" Kotor | [`rjesenje/2025/387147/`](rjesenje/2025/387147/) | in force | 1 | 2025-07-31 | 2025-07-31 |
+| Rješenje o izdavanju licence javnoj ustanovi JU Srednja ekonomsko-ugostiteljska škola, Nikšić | [`rjesenje/2025/387162/`](rjesenje/2025/387162/) | in force | 1 | 2025-06-13 | 2025-06-13 |
+| Rješenje o imenovanju Savjeta za prevenciju narkomanije | [`rjesenje/2025/387190/`](rjesenje/2025/387190/) | in force | 1 | 2025-07-10 | 2025-07-10 |
+| Rješenje o izdavanju licence Fakultetu političkih nauka Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2025/387220/`](rjesenje/2025/387220/) | in force | 1 | 2025-06-17 | 2025-06-17 |
+| Rješenje o izdavanju licence Javnoj ustanovi Pomorska škola, Kotor | [`rjesenje/2025/387278/`](rjesenje/2025/387278/) | in force | 1 | 2025-06-10 | 2025-06-10 |
+| Rješenje o imenovanju Savjeta za ravnopravnost polova | [`rjesenje/2025/387279/`](rjesenje/2025/387279/) | in force | 1 | 2025-07-10 | 2025-07-10 |
+| Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Čistoća" Herceg Novi | [`rjesenje/2025/387280/`](rjesenje/2025/387280/) | in force | 1 | 2025-10-07 | 2025-10-07 |
+| Rješenje o izdavanju licence Javnoj ustanovi Gimnazija "Miloje Dobrašinović", Bijelo Polje | [`rjesenje/2025/387327/`](rjesenje/2025/387327/) | in force | 1 | 2025-06-03 | 2025-06-03 |
+| Rješenje o izmjeni Rješenja o imenovanju Savjeta za rodnu ravnopravnost | [`rjesenje/2025/387336/`](rjesenje/2025/387336/) | in force | 1 | 2025-08-06 | 2025-08-06 |
 | Rješenje o izmjeni Rješenja o imenovanju Savjeta za zaštitu životne sredine | [`rjesenje/2025/387344/`](rjesenje/2025/387344/) | in force | 1 | 2025-03-17 | 2025-03-17 |
+| Rješenje, broj: 10-040/25-462/1 | [`rjesenje/2025/387345/`](rjesenje/2025/387345/) | in force | 1 | 2025-07-11 | 2025-07-11 |
+| Rješenje o imenovanju Pozorišnog savjeta Javne ustanove Nikšićko pozorište | [`rjesenje/2025/387353/`](rjesenje/2025/387353/) | in force | 1 | 2025-08-11 | 2025-08-11 |
 | Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Herceg Novi | [`rjesenje/2025/387380/`](rjesenje/2025/387380/) | in force | 1 | 2025-10-07 | 2025-10-07 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Bijelo Polje | [`rjesenje/2025/387396/`](rjesenje/2025/387396/) | in force | 1 | 2025-06-09 | 2025-06-09 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola, Andrijevica | [`rjesenje/2025/387430/`](rjesenje/2025/387430/) | in force | 1 | 2025-05-30 | 2025-05-30 |
+| Rješenje o izmjeni Rješenja o imenovanju Odbora za planiranje prostora i stambeno-komunalne djelatnosti | [`rjesenje/2025/387468/`](rjesenje/2025/387468/) | in force | 1 | 2025-08-06 | 2025-08-06 |
 | Rješenje o imenovanju člana Savjeta Javne ustanove "Polimski muzej" Berane | [`rjesenje/2025/387495/`](rjesenje/2025/387495/) | in force | 1 | 2025-03-19 | 2025-03-19 |
+| Rješenje o izdavanju licence Javnoj ustanovi Prva srednja stručna škola, Nikšić | [`rjesenje/2025/387498/`](rjesenje/2025/387498/) | in force | 1 | 2025-05-15 | 2025-05-15 |
 | Rješenje o imenovanju članova Odbora direktora "Parking servis Herceg Novi" DOO Herceg Novi | [`rjesenje/2025/387516/`](rjesenje/2025/387516/) | in force | 1 | 2025-10-07 | 2025-10-07 |
 | Rješenje o izboru predstavnika Opštine Herceg Novi u Skupštini Turističke organizacije Opštine Herceg Novi | [`rjesenje/2025/387521/`](rjesenje/2025/387521/) | in force | 1 | 2025-10-07 | 2025-10-07 |
 | Rješenje o izmjeni Rješenja o određivanju odbornika koji će prisustvovati sklapanju braka | [`rjesenje/2025/387532/`](rjesenje/2025/387532/) | in force | 1 | 2025-03-17 | 2025-03-17 |
+| Rješenje o imenovanju Upravnog odbora Javne ustanove Dnevni centar za djecu sa smetnjama u razvoju i osobe sa invaliditetom Nikšić | [`rjesenje/2025/387542/`](rjesenje/2025/387542/) | in force | 1 | 2025-08-11 | 2025-08-11 |
 | Rješenje o izmjeni Rješenja o imenovanju Odbora za izbor i imenovanja | [`rjesenje/2025/387572/`](rjesenje/2025/387572/) | in force | 1 | 2025-03-17 | 2025-03-17 |
+| Rješenje o imenovanju predsjednika i članova Savjeta za zaštitu životne sredine | [`rjesenje/2025/387574/`](rjesenje/2025/387574/) | in force | 1 | 2025-02-14 | 2025-02-14 |
+| Rješenje o razrješenju Odbora direktora Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Nikšić | [`rjesenje/2025/387575/`](rjesenje/2025/387575/) | in force | 1 | 2025-08-11 | 2025-08-11 |
 | Rješenje o imenovanju predsjednika i članova Savjeta za prava lica sa invaliditetom | [`rjesenje/2025/387578/`](rjesenje/2025/387578/) | in force | 1 | 2025-02-14 | 2025-02-14 |
+| Rješenje, broj: 10-040/25-460/1 | [`rjesenje/2025/387631/`](rjesenje/2025/387631/) | in force | 1 | 2025-07-11 | 2025-07-11 |
+| Rješenje o razrješenju Odbora direktora Društva sa ograničenom odgovornošću "Parking servis Nikšić" | [`rjesenje/2025/387643/`](rjesenje/2025/387643/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o imenovanju Savjeta za predstavke i pritužbe | [`rjesenje/2025/387654/`](rjesenje/2025/387654/) | in force | 1 | 2025-07-10 | 2025-07-10 |
 | Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Sportski centar Igalo" Igalo | [`rjesenje/2025/387665/`](rjesenje/2025/387665/) | in force | 1 | 2025-10-07 | 2025-10-07 |
+| Rješenje o izmjeni Rješenja o imenovanju Savjeta za rodnu ravnopravnost | [`rjesenje/2025/387668/`](rjesenje/2025/387668/) | in force | 1 | 2025-08-06 | 2025-08-06 |
 | Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću - Društva za izgradnju vodovodne i kanalizacione infrastrukture u Opštini Herceg Novi | [`rjesenje/2025/387683/`](rjesenje/2025/387683/) | in force | 1 | 2025-10-07 | 2025-10-07 |
 | Rješenje o imenovanju predsjednika i članova Odbora za budžet, privredu i razvoj | [`rjesenje/2025/387742/`](rjesenje/2025/387742/) | in force | 1 | 2025-02-14 | 2025-02-14 |
 | Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Agencija za izgradnju i razvoj Herceg Novi" | [`rjesenje/2025/387791/`](rjesenje/2025/387791/) | in force | 1 | 2025-10-07 | 2025-10-07 |
+| Rješenje, broj: 10-040/25-457/1 | [`rjesenje/2025/387801/`](rjesenje/2025/387801/) | in force | 1 | 2025-07-11 | 2025-07-11 |
+| Rješenje o razrješenju Savjeta Javne ustanove Muzeji i galerije Nikšić | [`rjesenje/2025/387817/`](rjesenje/2025/387817/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o razrješenju Upravnog odbora Javnog preduzeća Sportski centar Nikšić | [`rjesenje/2025/387826/`](rjesenje/2025/387826/) | in force | 1 | 2025-08-11 | 2025-08-11 |
 | Rješenje o prestanku mandata članu Savjeta JU "Polimski muzej" Berane | [`rjesenje/2025/387839/`](rjesenje/2025/387839/) | in force | 1 | 2025-03-19 | 2025-03-19 |
 | Rješenje o imenovanju predsjednika i članova Odbora za planiranje prostora i komunalno- stambenu djelatnost | [`rjesenje/2025/387852/`](rjesenje/2025/387852/) | in force | 1 | 2025-02-14 | 2025-02-14 |
 | Rješenje o izmjeni Rješenja o imenovanju Odbora za planiranje prostora i stambeno-komunalne djelatnosti | [`rjesenje/2025/387864/`](rjesenje/2025/387864/) | in force | 1 | 2025-03-17 | 2025-03-17 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Cetinje | [`rjesenje/2025/387907/`](rjesenje/2025/387907/) | in force | 1 | 2025-05-30 | 2025-05-30 |
+| Rješenje o imenovanju članova Savjeta Radio Kotora | [`rjesenje/2025/387910/`](rjesenje/2025/387910/) | in force | 1 | 2025-07-31 | 2025-07-31 |
+| Rješenje o davanju saglasnosti na Odluku o imenovanju izvršnog direktora DOO "Mediteranski sportski centar" Budva | [`rjesenje/2025/387917/`](rjesenje/2025/387917/) | in force | 1 | 2025-07-11 | 2025-07-11 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola "Danilo Kiš", Budva | [`rjesenje/2025/387923/`](rjesenje/2025/387923/) | in force | 1 | 2025-06-03 | 2025-06-03 |
+| Rješenje o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Parking servis Nikšić" | [`rjesenje/2025/387927/`](rjesenje/2025/387927/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o izdavanju licence Javnoj ustanovi Prva srednja stručna škola, Nikšić | [`rjesenje/2025/387931/`](rjesenje/2025/387931/) | in force | 1 | 2025-06-03 | 2025-06-03 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola "Vukadin Vukadinović", Berane | [`rjesenje/2025/387935/`](rjesenje/2025/387935/) | in force | 1 | 2025-06-09 | 2025-06-09 |
+| Rješenje o davanju saglasnosti na Odluku o izboru izvršnog direktora DOO "Akademija znanja" Budva | [`rjesenje/2025/387943/`](rjesenje/2025/387943/) | in force | 1 | 2025-07-11 | 2025-07-11 |
+| Rješenje o razrješenju Odbora direktora Društva sa ograničenom odgovornošću "Autobuska stanica" Nikšić | [`rjesenje/2025/387945/`](rjesenje/2025/387945/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o razrješenju Savjeta Javne ustanove Narodna biblioteka "Njegoš" Nikšić | [`rjesenje/2025/387977/`](rjesenje/2025/387977/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Agencija za projektovanje i planiranje" | [`rjesenje/2025/387988/`](rjesenje/2025/387988/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Autobuska stanica" Nikšić | [`rjesenje/2025/387995/`](rjesenje/2025/387995/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o izdavanju licence Privatnoj ustanovi "General Assembly for Education Montenegro Podgorica", Podgorica | [`rjesenje/2025/388001/`](rjesenje/2025/388001/) | in force | 1 | 2025-05-06 | 2025-05-06 |
+| Rješenje o imenovanju predsjednika i članova Odbora za društvene djelatnosti | [`rjesenje/2025/388009/`](rjesenje/2025/388009/) | in force | 1 | 2025-02-14 | 2025-02-14 |
+| Rješenje, broj: 10-040/25-463/1 | [`rjesenje/2025/388033/`](rjesenje/2025/388033/) | in force | 1 | 2025-07-11 | 2025-07-11 |
+| Rješenje o izdavanju licence Fakultetu za informacione tehnologije Univerziteta Mediteran, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2025/388042/`](rjesenje/2025/388042/) | in force | 1 | 2025-06-09 | 2025-06-09 |
+| Rješenje o razrješenju Pozorišnog savjeta Javne ustanove Nikšićko pozorište | [`rjesenje/2025/388062/`](rjesenje/2025/388062/) | in force | 1 | 2025-08-11 | 2025-08-11 |
 | Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Komunalno stambeno" Herceg Novi | [`rjesenje/2025/388071/`](rjesenje/2025/388071/) | in force | 1 | 2025-10-07 | 2025-10-07 |
+| Rješenje o razrješenju Savjeta Javne ustanove "Zahumlje" | [`rjesenje/2025/388138/`](rjesenje/2025/388138/) | in force | 1 | 2025-08-11 | 2025-08-11 |
 | Rješenje o izmjeni Rješenja o imenovanju Savjeta za rodnu ravnopravnost | [`rjesenje/2025/388189/`](rjesenje/2025/388189/) | in force | 1 | 2025-03-17 | 2025-03-17 |
+| Rješenje o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Komunalno" Nikšić | [`rjesenje/2025/388194/`](rjesenje/2025/388194/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o razrješenju članova Savjeta Radio Kotora | [`rjesenje/2025/388212/`](rjesenje/2025/388212/) | in force | 1 | 2025-07-31 | 2025-07-31 |
+| Rješenje o imenovanju Odbora za planiranje i uređenje prostora i komunalno-stambenu djelatnost | [`rjesenje/2025/388214/`](rjesenje/2025/388214/) | in force | 1 | 2025-07-10 | 2025-07-10 |
 | Rješenje o izboru potpredsjednice Skupštine opštine Herceg Novi | [`rjesenje/2025/388220/`](rjesenje/2025/388220/) | in force | 1 | 2025-10-07 | 2025-10-07 |
+| Rješenje o razrješenju Odbora direktora Društva sa ograničenom odgovornošću "Komunalno" Nikšić | [`rjesenje/2025/388238/`](rjesenje/2025/388238/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o davanju saglasnosti na Odluku o razrješenju izvršnog direktora DOO "Mediteranski sportski centar" Budva | [`rjesenje/2025/388259/`](rjesenje/2025/388259/) | in force | 1 | 2025-07-11 | 2025-07-11 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja elektrotehnička škola "Vaso Aligrudić", Podgorica | [`rjesenje/2025/388269/`](rjesenje/2025/388269/) | in force | 1 | 2025-05-26 | 2025-05-26 |
 | Rješenje o imenovanju članova Savjeta Javne ustanove kulture "Herceg fest" Herceg Novi | [`rjesenje/2025/388298/`](rjesenje/2025/388298/) | in force | 1 | 2025-10-07 | 2025-10-07 |
+| Rješenje o izdavanju licence javnoj ustanovi JU Srednja medicinska škola "dr Branko Zogović", Berane | [`rjesenje/2025/388337/`](rjesenje/2025/388337/) | in force | 1 | 2025-06-02 | 2025-06-02 |
+| Rješenje o izdavanju licence javnoj ustanovi JU Srednja mješovita škola "Mladost", Tivat | [`rjesenje/2025/388347/`](rjesenje/2025/388347/) | in force | 1 | 2025-06-03 | 2025-06-03 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola "Ivan Goran Kovačić", Herceg Novi | [`rjesenje/2025/388364/`](rjesenje/2025/388364/) | in force | 1 | 2025-06-03 | 2025-06-03 |
+| Rješenje o imenovanju Savjeta Javne ustanove "Zahumlje" | [`rjesenje/2025/388365/`](rjesenje/2025/388365/) | in force | 1 | 2025-08-11 | 2025-08-11 |
 | Rješenje o imenovanju predsjednika i članova Savjeta za rodnu ravnopravnost | [`rjesenje/2025/388366/`](rjesenje/2025/388366/) | in force | 1 | 2025-02-14 | 2025-02-14 |
 | Rješenje o izmjeni Rješenja o imenovanju Savjeta za prava lica sa invaliditetom | [`rjesenje/2025/388372/`](rjesenje/2025/388372/) | in force | 1 | 2025-03-17 | 2025-03-17 |
+| Rješenje o imenovanju Savjeta Javne ustanove Muzeji i galerije Nikšić | [`rjesenje/2025/388391/`](rjesenje/2025/388391/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o imenovanju Odbora za društvene djelatnosti | [`rjesenje/2025/388402/`](rjesenje/2025/388402/) | in force | 1 | 2025-07-10 | 2025-07-10 |
+| Rješenje o imenovanju Odbora za finansije, privredu i razvoj | [`rjesenje/2025/388427/`](rjesenje/2025/388427/) | in force | 1 | 2025-07-10 | 2025-07-10 |
 | Rješenje o imenovanju predsjednika i članova Odbora za Statut i propise | [`rjesenje/2025/388430/`](rjesenje/2025/388430/) | in force | 1 | 2025-02-14 | 2025-02-14 |
 | Rješenje o izmjeni Rješenja o imenovanju Odbora za statut i propise | [`rjesenje/2025/388432/`](rjesenje/2025/388432/) | in force | 1 | 2025-03-17 | 2025-03-17 |
+| Rješenje o izdavanju licence Fakultetu za turizam "Montenegro Tourism School" Univerziteta Mediteran, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2025/388442/`](rjesenje/2025/388442/) | in force | 1 | 2025-05-26 | 2025-05-26 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Nikšić | [`rjesenje/2025/388446/`](rjesenje/2025/388446/) | in force | 1 | 2025-05-19 | 2025-05-19 |
+| Rješenje o razrješenju Upravnog odbora Javne ustanove Dnevni centar za djecu sa smetnjama u razvoju i osobe sa invaliditetom Nikšić | [`rjesenje/2025/388447/`](rjesenje/2025/388447/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o imenovanju Upravnog odbora Javnog preduzeća Sportski centar "Nikšić" | [`rjesenje/2025/388501/`](rjesenje/2025/388501/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola "Bratstvo-jedinstvo", Ulcinj | [`rjesenje/2025/388516/`](rjesenje/2025/388516/) | in force | 1 | 2025-05-14 | 2025-05-14 |
+| Rješenje o imenovanju člana Savjeta OJU "Muzeji" Kotor | [`rjesenje/2025/388527/`](rjesenje/2025/388527/) | in force | 1 | 2025-07-31 | 2025-07-31 |
 | Rješenje o izmjeni Rješenja o imenovanju Odbora za planiranje prostora i stambeno-komunalne djelatnosti | [`rjesenje/2025/388630/`](rjesenje/2025/388630/) | in force | 1 | 2025-11-27 | 2025-11-27 |
 | Rješenje o razrješenju Upravnog odbora Javnog preduzeća Sportski centar Nikšić | [`rjesenje/2025/388671/`](rjesenje/2025/388671/) | in force | 1 | 2025-11-26 | 2025-11-26 |
+| Rješenje o standardu zanimanja Tehničar/Tehničarka audio realizacije | [`rjesenje/2025/388969/`](rjesenje/2025/388969/) | in force | 1 | 2025-11-28 | 2025-11-28 |
+| Rješenje o standardu zanimanja Viši tehničar/Viša tehničarka za mehatroniku teretnih vozila i radnih mašina | [`rjesenje/2025/388971/`](rjesenje/2025/388971/) | in force | 1 | 2025-11-28 | 2025-11-28 |
+| Rješenje o standardu zanimanja Tehničar/Tehničarka hortikulturne proizvodnje | [`rjesenje/2025/388993/`](rjesenje/2025/388993/) | in force | 1 | 2025-11-28 | 2025-11-28 |
 | Rješenje o izdavanju licence Privatnoj ustanovi auto škola "Mediteran", Ulcinj | [`rjesenje/2025/389006/`](rjesenje/2025/389006/) | in force | 1 | 2025-12-10 | 2025-12-10 |
+| Rješenje o izdavanju licence Centru za ekotoksikološka ispitivanja D.O.O, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2025/389036/`](rjesenje/2025/389036/) | in force | 1 | 2025-11-28 | 2025-11-28 |
+| Rješenje o izdavanju licence Srednjoj vjerskoj školi - Medresa "Mehmed Fatih", Tuzi | [`rjesenje/2025/389037/`](rjesenje/2025/389037/) | in force | 1 | 2025-12-11 | 2025-12-11 |
+| Rješenje o standardu zanimanja Pomoćnik/Pomoćnica audio operatera | [`rjesenje/2025/389051/`](rjesenje/2025/389051/) | in force | 1 | 2025-11-28 | 2025-11-28 |
+| Rješenje o izdavanju licence Privatnom produženom boravku "Školarac", Podgorica | [`rjesenje/2025/389054/`](rjesenje/2025/389054/) | in force | 1 | 2025-12-04 | 2025-12-04 |
 | Rješenje o izdavanju licence privatnoj ustanovi za obrazovanje odraslih "Bilinguist Language School", iz Podgorice | [`rjesenje/2025/389060/`](rjesenje/2025/389060/) | in force | 1 | 2025-11-20 | 2025-11-20 |
 | Rješenje o izdavanju licence Privatnom produženom boravku "Dječiji svijet", Podgorica | [`rjesenje/2025/389113/`](rjesenje/2025/389113/) | in force | 1 | 2025-12-02 | 2025-12-02 |
+| Rješenje o standardu zanimanja Audio operater /Audio operaterka | [`rjesenje/2025/389134/`](rjesenje/2025/389134/) | in force | 1 | 2025-11-28 | 2025-11-28 |
+| Rješenje o standardu zanimanja Viši radiološki tehničar/Viša radiološka tehničarka | [`rjesenje/2025/389139/`](rjesenje/2025/389139/) | in force | 1 | 2025-11-28 | 2025-11-28 |
 | Rješenje o razrješenju i imenovanju članice Savjeta JU Umjetnička galerija "Vitomir Srbljanović" Pljevlja | [`rjesenje/2025/389214/`](rjesenje/2025/389214/) | in force | 1 | 2026-01-01 | 2026-01-01 |
+| Rješenje o dopuni licence Privatnoj ustanovi Obrazovni centar "The British Academy", Podgorica | [`rjesenje/2025/389232/`](rjesenje/2025/389232/) | amending act | 1 | 2025-11-26 | 2025-11-26 |
 | Rješenje o razrješenju i imenovanju članova Upravnog odbora JU "Dnevni centar za djecu sa smetnjama u razvoju i lica sa invaliditetom" Pljevlja | [`rjesenje/2025/389245/`](rjesenje/2025/389245/) | in force | 1 | 2025-12-24 | 2025-12-24 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Bambi", Tivat | [`rjesenje/2025/389311/`](rjesenje/2025/389311/) | in force | 1 | 2025-12-11 | 2025-12-11 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Kraljevstvo gorske vile", Žabljak | [`rjesenje/2025/389313/`](rjesenje/2025/389313/) | in force | 1 | 2025-12-10 | 2025-12-10 |
 | Rješenje o izdavanju licence institutu Damar Plus d.o.o, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2025/389317/`](rjesenje/2025/389317/) | in force | 1 | 2025-11-28 | 2025-11-28 |
 | Rješenje o izdavanju licence privatnoj ustanovi Center for Finance d.o.o, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2025/389319/`](rjesenje/2025/389319/) | in force | 1 | 2025-11-27 | 2025-11-27 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Dragan Kovačević", Nikšić | [`rjesenje/2025/389323/`](rjesenje/2025/389323/) | in force | 1 | 2025-12-11 | 2025-12-11 |
+| Rješenje o razrješenju predsjednika i imenovanju predsjednice Savjeta za zaštitu životne sredine | [`rjesenje/2025/389486/`](rjesenje/2025/389486/) | in force | 1 | 2025-12-29 | 2025-12-29 |
+| Rješenje o razrješenju članice Savjeta za razvoj i zaštitu lokalne samouprave | [`rjesenje/2025/389497/`](rjesenje/2025/389497/) | in force | 1 | 2025-12-29 | 2025-12-29 |
+| Rješenje o razrješenju člana Pozorišnog savjeta Javne ustanove Nikšićko pozorište | [`rjesenje/2025/389524/`](rjesenje/2025/389524/) | in force | 1 | 2025-12-29 | 2025-12-29 |
+| Rješenje o razrješenju i imenovanju člana Odbora za finansije, privredu i razvoj | [`rjesenje/2025/389544/`](rjesenje/2025/389544/) | in force | 1 | 2025-12-29 | 2025-12-29 |
+| Rješenje o razrješenju člana i imenovanju članice Odbora za Statut i propise | [`rjesenje/2025/389549/`](rjesenje/2025/389549/) | in force | 1 | 2025-12-29 | 2025-12-29 |
+| Rješenje o razrješenju člana i imenovanju članice Savjeta za ravnopravnost polova | [`rjesenje/2025/389555/`](rjesenje/2025/389555/) | in force | 1 | 2025-12-29 | 2025-12-29 |
 | Rješenje o imenovanju Savjeta Društva sa ograničenom odgovornošću Lokalni javni emiter "Radio televizija Ulcinj" | [`rjesenje/2025/389617/`](rjesenje/2025/389617/) | in force | 1 | 2025-12-31 | 2025-12-31 |
 | Rješenje o naknadi troškova za rad Komisije za odabir projekta valorizacije kulturne baštine na teritoriji Opštine Ulcinj | [`rjesenje/2025/389628/`](rjesenje/2025/389628/) | in force | 1 | 2025-12-31 | 2025-12-31 |
 | Rješenje o naknadi za rad Odbora direktora DOO "Mediteranski sportski centar" Budva | [`rjesenje/2026/389821/`](rjesenje/2026/389821/) | in force | 1 | 2025-12-31 | 2025-12-31 |
@@ -28599,6 +28868,7 @@
 | Rješenje o standardu zanimanja Saobraćajni policajac/Saobraćajna policajka | [`rjesenje/2026/390982/`](rjesenje/2026/390982/) | in force | 1 | 2026-02-25 | 2026-02-25 |
 | Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Vukosava Ivanović Mašanović", Bar | [`rjesenje/2026/390985/`](rjesenje/2026/390985/) | in force | 1 | 2026-02-06 | 2026-02-06 |
 | Rješenje o standardu zanimanja Granični policajac/Granična policajka | [`rjesenje/2026/390986/`](rjesenje/2026/390986/) | in force | 1 | 2026-02-25 | 2026-02-25 |
+| Rješenje o izdavanju licence Privatnom produženom boravku ,,MN Kralj Lavova", Podgorica | [`rjesenje/2026/391139/`](rjesenje/2026/391139/) | in force | 1 | 2026-02-23 | 2026-02-23 |
 | Rješenje o standardu zanimanja Glavni kuvar/Glavna kuvarica | [`rjesenje/2026/391281/`](rjesenje/2026/391281/) | in force | 1 | 2026-02-16 | 2026-02-16 |
 | Rješenje o davanju saglasnosti na Odluku o razrješenju izvršnog direktora Društva sa ograničenom odgovornošću "Komunalno i vodovod" Žabljak | [`rjesenje/2026/391361/`](rjesenje/2026/391361/) | in force | 1 | 2025-12-30 | 2025-12-30 |
 | Rješenje o standardu zanimanja Kuvar/Kuvarica osnovnih gastronomskih proizvoda | [`rjesenje/2026/391363/`](rjesenje/2026/391363/) | in force | 1 | 2026-02-16 | 2026-02-16 |
@@ -28609,8 +28879,38 @@
 | Rješenje o izdavanju licence Privatnom produženom boravku "Kiddos club", Podgorica | [`rjesenje/2026/391415/`](rjesenje/2026/391415/) | in force | 1 | 2026-01-23 | 2026-01-23 |
 | Rješenje o izdavanju licence Građevinskom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/391452/`](rjesenje/2026/391452/) | in force | 1 | 2026-02-16 | 2026-02-16 |
 | Rješenje o izdavanju licence Privatnom produženom boravku "Đak veseljak", Podgorica | [`rjesenje/2026/391543/`](rjesenje/2026/391543/) | in force | 1 | 2026-02-16 | 2026-02-16 |
+| Rješenje o izdavanju licence Javnoj zdravstvenoj ustanovi Klinički centar Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/391588/`](rjesenje/2026/391588/) | in force | 1 | 2026-02-20 | 2026-02-20 |
 | Rješenje o izdavanju dopune licence Privatnoj predškolskoj ustanovi "Mandarina i papagaj", Podgorica | [`rjesenje/2026/391606/`](rjesenje/2026/391606/) | amending act | 1 | 2025-12-29 | 2025-12-29 |
+| Rješenje o izdavanju licence Ekonomskom fakultetu Univerziteta Crne Gore, Podgorica | [`rjesenje/2026/391632/`](rjesenje/2026/391632/) | in force | 1 | 2026-02-24 | 2026-02-24 |
+| Rješenje o izdavanju licence Privatnoj ustanovi obrazovno-razvojni centar "Mondo creativo" Podgorica | [`rjesenje/2026/391907/`](rjesenje/2026/391907/) | in force | 1 | 2026-03-06 | 2026-03-06 |
+| Rješenje o izdavanju licence Privatnom produženom boravku "Boravko PG 2", Podgorica | [`rjesenje/2026/391924/`](rjesenje/2026/391924/) | in force | 1 | 2026-02-27 | 2026-02-27 |
+| Rješenje o izdavanju licence Privatnoj predškolskoj ustanovi "Teda Kinder Academy", Podgorica | [`rjesenje/2026/392351/`](rjesenje/2026/392351/) | in force | 1 | 2026-03-24 | 2026-03-24 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto-škola "TDI", Bijelo Polje | [`rjesenje/2026/392361/`](rjesenje/2026/392361/) | in force | 1 | 2026-03-23 | 2026-03-23 |
+| Rješenje o standardu zanimanja Instruktor/Instruktorka vožnje motornih vozila kategorije D1 i D | [`rjesenje/2026/392381/`](rjesenje/2026/392381/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o standardu zanimanja Saradnik/Saradnica u socijalonoj inkluziji Roma i Egipćana u oblasti obrazovanja | [`rjesenje/2026/392383/`](rjesenje/2026/392383/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o izdavanju licence Privatnom produženom boravku "Sveznalica", Podgorica | [`rjesenje/2026/392384/`](rjesenje/2026/392384/) | in force | 1 | 2026-03-11 | 2026-03-11 |
+| Rješenje o standardu zanimanja Instruktor/Instruktorka vožnje motornih vozila kategorije AM, A1, A2 i A | [`rjesenje/2026/392391/`](rjesenje/2026/392391/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o standardu zanimanja Tehničar/Tehničarka tehničko - kolske djelatnosti | [`rjesenje/2026/392396/`](rjesenje/2026/392396/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o standardu zanimanja Instruktor/Instruktorka vožnje motornih vozila kategorije B1 i B | [`rjesenje/2026/392398/`](rjesenje/2026/392398/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o standardu zanimanja Vozač/Vozačica lokotraktora | [`rjesenje/2026/392404/`](rjesenje/2026/392404/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o standardu zanimanja Asistent/Asistenkinja za rani razvoj djece | [`rjesenje/2026/392408/`](rjesenje/2026/392408/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o standardu zanimanja Nadzornik/Nadzornica lokomotive | [`rjesenje/2026/392409/`](rjesenje/2026/392409/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o standardu zanimanja Instruktor/Instruktorka vožnje motornih vozila kategorije C1 i C | [`rjesenje/2026/392410/`](rjesenje/2026/392410/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o standardu zanimanja Mašinovođa manevre | [`rjesenje/2026/392420/`](rjesenje/2026/392420/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o standardu zanimanja Pomoćni radnik/Pomoćna radnica za osovinske sklopove i ležajeve željezničkih voznih sredstava | [`rjesenje/2026/392422/`](rjesenje/2026/392422/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o standardu zanimanja Instruktor/Instruktorka vožnje vozila na motorni pogon kategorije T | [`rjesenje/2026/392426/`](rjesenje/2026/392426/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Ljubica Popović", Podgorica | [`rjesenje/2026/392427/`](rjesenje/2026/392427/) | in force | 1 | 2026-03-12 | 2026-03-12 |
+| Rješenje o standardu zanimanja Pomoćnik/ Pomoćnica mašinovođe | [`rjesenje/2026/392438/`](rjesenje/2026/392438/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o standardu zanimanja Tehničar/ Tehničarka vuče | [`rjesenje/2026/392443/`](rjesenje/2026/392443/) | in force | 1 | 2026-03-17 | 2026-03-17 |
+| Rješenje o standardu zanimanja Instruktor/Instruktorka vožnje motornih vozila kategorije B1 +E, B+E, C1+E, C+E, D1+E i D+E | [`rjesenje/2026/392450/`](rjesenje/2026/392450/) | in force | 1 | 2026-03-17 | 2026-03-17 |
 | Rješenje o usklađivanju naknade za korišćenje građevinskog zemljišta za 2025. godinu | [`rjesenje/2026/392978/`](rjesenje/2026/392978/) | in force | 1 | 2026-03-31 | 2026-03-31 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto škola "Autostart M", Budva | [`rjesenje/2026/393070/`](rjesenje/2026/393070/) | in force | 1 | 2026-04-02 | 2026-04-02 |
+| Rješenje o izdavanju licence Javnoj ustanovi Škola za srednje i više stručno obrazovanje "Sergije Stanić", Podgorica | [`rjesenje/2026/393072/`](rjesenje/2026/393072/) | in force | 1 | 2026-03-31 | 2026-03-31 |
+| Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Dragan Kovačević", Nikšić | [`rjesenje/2026/393076/`](rjesenje/2026/393076/) | in force | 1 | 2026-04-07 | 2026-04-07 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto škola "Viktorija", Berane, za rad područne ustanove sa sjedištem u Podgorici | [`rjesenje/2026/393091/`](rjesenje/2026/393091/) | in force | 1 | 2026-03-30 | 2026-03-30 |
+| Rješenje o izdavanju licence Institutu za ljekove i medicinska sredstva Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/393092/`](rjesenje/2026/393092/) | in force | 1 | 2026-03-24 | 2026-03-24 |
+| Rješenje o izdavanju licence Privatnoj ustanovi Auto škola "Viktorija", Berane | [`rjesenje/2026/393104/`](rjesenje/2026/393104/) | in force | 1 | 2026-03-30 | 2026-03-30 |
+| Rješenje o dopuni licence za rad Privatne ustanove Obrazovni centar "United Kids International Montenegro", Podgorica | [`rjesenje/2026/393108/`](rjesenje/2026/393108/) | amending act | 1 | 2026-03-25 | 2026-03-25 |
 | Rješenje o davanju saglasnosti na imenovanje potpredsjednice Opštine Plav | [`rjesenje/2026/393254/`](rjesenje/2026/393254/) | in force | 1 | 2026-04-06 | 2026-04-06 |
 | Rješenje o imenovanju Savjeta za pitanja lica sa invaliditetom | [`rjesenje/2026/393348/`](rjesenje/2026/393348/) | in force | 1 | 2026-05-02 | 2026-05-02 |
 | Rješenje o izdavanju licence Privatnoj ustanovi "Center for Finance Academy", Podgorica | [`rjesenje/2026/393751/`](rjesenje/2026/393751/) | in force | 1 | 2026-04-23 | 2026-04-23 |
