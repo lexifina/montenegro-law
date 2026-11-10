@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32488 acts, 32,490 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32490 acts, 32,492 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (881, of which 86 amending acts)
 
@@ -1150,7 +1150,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22306, of which 3140 amending acts)
+## odluka (22308, of which 3140 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -21589,6 +21589,7 @@
 | Odluka o prestanku važenja Odluke o izradi izmjena i dopuna Detaljnog urbanističkog plana "Smajlagića polje", Opština Kolašin | [`odluka/2025/383966/`](odluka/2025/383966/) | amending act | 1 | 2025-08-12 | 2025-08-12 |
 | Odluka o prestanku mandata sekretarki Skupštine opštine Ulcinj | [`odluka/2025/383969/`](odluka/2025/383969/) | in force | 1 | 2025-07-22 | 2025-07-22 |
 | Odluka o davanju saglasnosti za ustanovljenje prava službenosti to jest stalne službenosti na kat.parc. br.3762/3 KO Ulcinj | [`odluka/2025/383973/`](odluka/2025/383973/) | in force | 1 | 2025-08-09 | 2025-08-09 |
+| Odluka o radnom vremenu | [`odluka/2025/383977/`](odluka/2025/383977/) | in force | 1 | 2025-08-09 | 2025-08-09 |
 | Odluka o potvrđivanju Odluke Predsjednika Opštine br. 01- 040/25-1101/2 od 19. 6. 2025. godine | [`odluka/2025/383979/`](odluka/2025/383979/) | in force | 1 | 2025-08-09 | 2025-08-09 |
 | Odluka o izmjeni Odluke o određivanju luka prema vrsti pomorskog saobraćaja | [`odluka/2025/383987/`](odluka/2025/383987/) | in force | 1 | 2025-08-02 | 2025-08-02 |
 | Odluka o dodjeli koncesije za priređivanje posebnih igara na sreću u kazinima u kazinu "MERIT ROYAL BUDVA", Hotel Splendid, Bečići bb, Budva | [`odluka/2025/383989/`](odluka/2025/383989/) | in force | 1 | 2025-08-12 | 2025-08-12 |
@@ -22440,6 +22441,7 @@
 | Odluka o donošenju Programa obavljanja komunalnih djelatnosti "Deponija" d.o.o. Podgorica za 2026. godinu | [`odluka/2025/389992/`](odluka/2025/389992/) | in force | 1 | 2025-12-29 | 2025-12-29 |
 | Odluka o davanju saglasnosti na Program rada Društva sa ograničenom odgovornošću "Agencija za upravljanje zaštićenim područjima Glavnog grada" Podgorica za 2026. godinu | [`odluka/2025/389993/`](odluka/2025/389993/) | in force | 1 | 2026-01-06 | 2026-01-06 |
 | Odluka o davanju saglasnosti na Aneks ugovora o povjeravanju obavljanja komunalnih djelatnosti i korišćenju komunalne infrastrukture i drugih sredstava u svojini Glavnog grada | [`odluka/2025/389994/`](odluka/2025/389994/) | in force | 1 | 2026-01-06 | 2026-01-06 |
+| Odluka o radnom vremenu | [`odluka/2025/389995/`](odluka/2025/389995/) | in force | 1 | 2026-01-06 | 2026-01-06 |
 | Odluka o davanju saglasnosti na Odluku o donošenju Statuta Društva sa ograničenom odgovornošću "Agencija za izradu lokalnih planskih dokumenata" Podgorica | [`odluka/2025/389996/`](odluka/2025/389996/) | in force | 1 | 2026-01-06 | 2026-01-06 |
 | Odluka o davanju saglasnosti na Program rada Javne ustanove za smještaj, rehabilitaciju i resocijalizaciju korisnika psihoaktivnih supstanci Podgorica za 2026. godinu | [`odluka/2025/389997/`](odluka/2025/389997/) | in force | 1 | 2026-01-06 | 2026-01-06 |
 | Odluka o davanju saglasnosti na Program rada i Finansijski plan Turističke organizacije Tuzi za 2026. godinu | [`odluka/2025/391283/`](odluka/2025/391283/) | in force | 1 | 2026-01-03 | 2026-01-03 |
