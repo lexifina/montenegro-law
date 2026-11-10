@@ -526,7 +526,7 @@
 "shard": "odluka/2015",
 "kind": "odluka",
 "file": "data/freshness/odluka/2015.csv",
-"acts": 1194
+"acts": 1195
 },
 {
 "shard": "odluka/2016",
@@ -574,7 +574,7 @@
 "shard": "odluka/2023",
 "kind": "odluka",
 "file": "data/freshness/odluka/2023.csv",
-"acts": 1181
+"acts": 1182
 },
 {
 "shard": "odluka/2024",
