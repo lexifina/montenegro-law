@@ -2657,6 +2657,21 @@
    ]
   },
   {
+   "slug": "odluka-2021-320770",
+   "path": "odluka/2021/320770",
+   "short": "Odluka o utvrđivanju javnog interesa",
+   "title": "Odluka o utvrđivanju javnog interesa",
+   "url": "https://www.sluzbenilist.me/propisi/320770",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/320770/download",
+     "sha256": "0d1dce8aaf9dca910721b37b9968f270b1f01107d95e2b85d53b3db793a1e8bf"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2021-320958",
    "path": "odluka/2021/320958",
    "short": "Odluka o ostvarivanju rodne ravnopravnosti",
@@ -6058,6 +6073,21 @@
      "units": 5,
      "source_url": "https://www.sluzbenilist.me/propisi/334918/download",
      "sha256": "c14255c9496184caf722cc75536ab19beb8b4a711bf402b604e15e703856b508"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-320763",
+   "path": "pravilnik/2021/320763",
+   "short": "Pravilnik o bližim uslovima koje moraju da ispunjavaju stanice za tehnički pregled vozila",
+   "title": "Pravilnik o bližim uslovima koje moraju da ispunjavaju stanice za tehnički pregled vozila",
+   "url": "https://www.sluzbenilist.me/propisi/320763",
+   "versions": [
+    {
+     "from": "2021-12-02",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.me/propisi/320763/download",
+     "sha256": "c85885822c9eebb63c7b129967db776ce3c300df34575561452517c6e288c825"
     }
    ]
   },
@@ -19082,6 +19112,21 @@
    ]
   },
   {
+   "slug": "odluka-2012-320697",
+   "path": "odluka/2012/320697",
+   "short": "Odluka o izmjeni Odluke broj 12/201-16 od 31. maja 2012. godine",
+   "title": "Odluka o izmjeni Odluke broj 12/201-16 od 31. maja 2012. godine",
+   "url": "https://www.sluzbenilist.me/propisi/320697",
+   "versions": [
+    {
+     "from": "2012-09-13",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/320697/download",
+     "sha256": "7f6159165ffd82eb9e0392e3517fe30ffc174e24d3c7c11e27424a516d958cc0"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2012-337252",
    "path": "odluka/2012/337252",
    "short": "Odluka o izboru predćednika i članova Administrativnog odbora Skupštine Crne Gore 25. saziva",
@@ -19573,6 +19618,51 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.me/propisi/396935/download",
      "sha256": "306385cf91403f2a3322d6a72e7652230645362e717a53bf24564980bc60c3fa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-320754",
+   "path": "odluka/2022/320754",
+   "short": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2218",
+   "title": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2218",
+   "url": "https://www.sluzbenilist.me/propisi/320754",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/320754/download",
+     "sha256": "3d0d72f56af426912ad36f36aa850b80842bd3b732d7223ea0a2a43ef34400e3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-320794",
+   "path": "odluka/2022/320794",
+   "short": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2237",
+   "title": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2237",
+   "url": "https://www.sluzbenilist.me/propisi/320794",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/320794/download",
+     "sha256": "73012965e3b286a3bc47c152b1c9188e977941ddf08decfc0eaaf66ebfd91082"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-320818",
+   "path": "odluka/2022/320818",
+   "short": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2209",
+   "title": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2209",
+   "url": "https://www.sluzbenilist.me/propisi/320818",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/320818/download",
+     "sha256": "4f8c762e21405800e187a95c155b62ad7737c20730383b1a1b1b4ae2bdfd34ae"
     }
    ]
   },
@@ -24722,6 +24812,21 @@
    ]
   },
   {
+   "slug": "rjesenje-2011-320578",
+   "path": "rjesenje/2011/320578",
+   "short": "Rjesenje o izdavanju licence za rad JU Zavod za skolovanje i profesionalnu rehabilitaciju invalidne djece i omladine - Podgorica",
+   "title": "Rjesenje o izdavanju licence za rad JU Zavod za skolovanje i profesionalnu rehabilitaciju invalidne djece i omladine - Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/320578",
+   "versions": [
+    {
+     "from": "2010-12-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/320578/download",
+     "sha256": "648215dd2aeecf4c10219037874a055c8d180297e23127801eea08d426447a7a"
+    }
+   ]
+  },
+  {
    "slug": "rjesenje-2011-322161",
    "path": "rjesenje/2011/322161",
    "short": "Rjesenje o razrjesenju duznosti savjetnika predsjednika Crne Gore za oblast medjunarodnih ekonomskih odnosa",
@@ -25543,6 +25648,21 @@
      "units": 1,
      "source_url": "https://www.sluzbenilist.me/propisi/332656/download",
      "sha256": "24897198b21ce1657565798451006047ffe8847b3ed0398f993c362c9b4c07b8"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2021-320668",
+   "path": "rjesenje/2021/320668",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi \"POLIEX\" iz Berana",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi \"POLIEX\" iz Berana",
+   "url": "https://www.sluzbenilist.me/propisi/320668",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/320668/download",
+     "sha256": "5ec5d20af903ad159010c110404a6de6c3116eaeea9e74c7158c120d9af15c60"
     }
    ]
   },

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-31815 acts, 31,817 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+31823 acts, 31,825 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (878, of which 85 amending acts)
 
@@ -1134,7 +1134,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (21941, of which 3121 amending acts)
+## odluka (21946, of which 3121 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5665,6 +5665,7 @@
 | Odluka o izmjenama i dopunama Odluke o određivanju građevinskog zemljišta koje će biti predmet raspolaganja u 2012. godini | [`odluka/2012/320408/`](odluka/2012/320408/) | amending act | 1 | 2012-08-02 | 2012-08-02 |
 | Odluka o davanju saglasnosti na imenovanje Glavnog administratora Opštine Šavnik | [`odluka/2012/320493/`](odluka/2012/320493/) | in force | 1 | 2011-12-23 | 2011-12-23 |
 | Odluka o imenovanju Etičke komisije za lokalne službenike i namještenike | [`odluka/2012/320639/`](odluka/2012/320639/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Odluka o izmjeni Odluke broj 12/201-16 od 31. maja 2012. godine | [`odluka/2012/320697/`](odluka/2012/320697/) | in force | 1 | 2012-09-13 | 2012-09-13 |
 | Odluka o izboru predsjednika Gradske opštine Tuzi | [`odluka/2012/320701/`](odluka/2012/320701/) | in force | 1 | 2012-02-10 | 2012-02-10 |
 | Odluka o izmjenama i dopunama Odluke o davanju u zakup poslovnog prostora u vlasništvu Glavnog grada-Podgorice | [`odluka/2012/320964/`](odluka/2012/320964/) | amending act | 1 | 2012-12-29 | 2012-12-29 |
 | Odluka o izmjenama i dopunama Odluke o finansiranju političkih partija | [`odluka/2012/321071/`](odluka/2012/321071/) | amending act | 1 | 2012-07-18 | 2012-07-18 |
@@ -16053,6 +16054,7 @@
 | Odluka o izgradnji lokalnih objekata od opšteg interesa na teritoriji Opštine Danilovgrad | [`odluka/2021/320724/`](odluka/2021/320724/) | in force | 1 | 2021-04-24 | 2021-04-24 |
 | Odluka o usvajanju lokalnog akcionog plana za mlade 2021 | [`odluka/2021/320736/`](odluka/2021/320736/) | in force | 1 | 2021-04-30 | 2021-04-30 |
 | Odluka o razrješenju i izboru predsjednika Odbora za društvene djelatnosti | [`odluka/2021/320765/`](odluka/2021/320765/) | in force | 1 | 2021-03-25 | 2021-03-25 |
+| Odluka o utvrđivanju javnog interesa | [`odluka/2021/320770/`](odluka/2021/320770/) | in force | 1 | 2021-03-25 | 2021-03-25 |
 | Odluka o privremenom uređenju odnosa između Glavnog grada i Opštine Tuzi do konačne raspodjele imovine za stvaranje uslova za rad Opštine Tuzi | [`odluka/2021/320790/`](odluka/2021/320790/) | in force | 1 | 2021-12-28 | 2021-12-28 |
 | Odluka o određivanju vrijednosti boda za obračun naknade za postavljanje privremenih objekata na teritoriji Opštine Plužine za 2021. godinu | [`odluka/2021/320895/`](odluka/2021/320895/) | in force | 1 | 2021-05-07 | 2021-05-07 |
 | Odluka o razrješenju Odbora direktora d.o.o. "Vodovod i kanalizacija" Bar | [`odluka/2021/320897/`](odluka/2021/320897/) | in force | 1 | 2021-06-10 | 2021-06-10 |
@@ -17379,12 +17381,15 @@
 | Odluka o imenovanju članova Skupštine muškog košarkaškog kluba "Lovćen 1947" | [`odluka/2022/320730/`](odluka/2022/320730/) | in force | 1 | 2022-06-21 | 2022-06-21 |
 | Odluka o potvrđivanju Odluke predsjednika Opštine br. 01-082/22-1178 od 13.09.2022. godine o imenovanju Dolaku Gent za člana Odbor direktora d.o.o. "Vodacom" | [`odluka/2022/320733/`](odluka/2022/320733/) | in force | 1 | 2022-10-13 | 2022-10-13 |
 | Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele br. 12 u blokubroj 9u skladu sa DUP -om "Rozino II" | [`odluka/2022/320753/`](odluka/2022/320753/) | in force | 1 | 2023-01-04 | 2023-01-04 |
+| Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2218 | [`odluka/2022/320754/`](odluka/2022/320754/) | in force | 1 | 2022-03-23 | 2022-03-23 |
 | Odluka o davanju saglasnosti na Statut Društva sa ograničenom odgovornošću "Komunalno-Lim" Bijelo Polje | [`odluka/2022/320755/`](odluka/2022/320755/) | in force | 1 | 2022-02-07 | 2022-02-07 |
 | Odluka o davanju saglasnosti na Program rada i finansijski plan JU "Centar za kulturu" za 2022. godinu | [`odluka/2022/320780/`](odluka/2022/320780/) | in force | 1 | 2022-09-09 | 2022-09-09 |
 | Odluka o izmjeni i dopuni Odluke o osnivanju sportskog kluba Plivački vaterpolo klub Budva - Budvanska rivijera broj: 01-3139/1 od 01.11.2018. godine i broj: 01-2074/1 od 20.06.2019. godine | [`odluka/2022/320781/`](odluka/2022/320781/) | amending act | 1 | 2022-08-20 | 2022-08-20 |
 | Odluka o potvrđivanju Odluke o kriterijumima, načinu i postupku raspodjele sredstava za podršku privredi i preduzetništvu broj 01- 018/22-1380 od 18.05.2022. godine | [`odluka/2022/320784/`](odluka/2022/320784/) | in force | 1 | 2022-07-08 | 2022-07-08 |
 | Odluka o izboru predsjednika i članova Odbora za planiranje, uređenje prostora i stambeno-komunalnu djelatnost | [`odluka/2022/320785/`](odluka/2022/320785/) | in force | 1 | 2022-12-20 | 2022-12-20 |
+| Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2237 | [`odluka/2022/320794/`](odluka/2022/320794/) | in force | 1 | 2022-03-23 | 2022-03-23 |
 | Odluka o imenovanju jednog člana Savjeta Lokalnog javnog emitera "Radio i televizija Cetinje" | [`odluka/2022/320813/`](odluka/2022/320813/) | in force | 1 | 2022-06-08 | 2022-06-08 |
+| Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2209 | [`odluka/2022/320818/`](odluka/2022/320818/) | in force | 1 | 2022-03-23 | 2022-03-23 |
 | Odluka o imenovanju Odbora za izbor iimenovanja | [`odluka/2022/320835/`](odluka/2022/320835/) | in force | 1 | 2022-12-12 | 2022-12-12 |
 | Odluka o davanju saglasnosti na Statut Turističke organizacije Kolašina | [`odluka/2022/320950/`](odluka/2022/320950/) | in force | 1 | 2022-04-05 | 2022-04-05 |
 | Odluka o usklađivanju nominalnog iznosa najniže penzije od 1. januara 2022. godine | [`odluka/2022/321023/`](odluka/2022/321023/) | in force | 1 | 2022-02-11 | 2022-02-11 |
@@ -23550,7 +23555,7 @@
 | Pravila za poravnanje razlike između opravdanih i ostvarenih prihoda i utvrđenih troškova između licenciranih operatora distributivnog sistema | [`pravila/2026/399555/`](pravila/2026/399555/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Pravila za sprovođenje postupka otkrivanja, utvrđivanja i sprečavanja neovlašćenog korišćenja električne energije | [`pravila/2026/399770/`](pravila/2026/399770/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 
-## pravilnik (2864, of which 264 amending acts)
+## pravilnik (2865, of which 264 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -25403,6 +25408,7 @@
 | Pravilnik o kriterijumima i metodološkim standardima za određivanje dobrog stanja i monitoringu morske sredine* | [`pravilnik/2021/319349/`](pravilnik/2021/319349/) | in force | 1 | 2021-04-13 | 2021-04-13 |
 | Pravilnik o bližem sadržaju elaborata pripremnih radova za građenje složenih inženjerskih objekata u kojima se proizvode i skladište eksplozivne materije | [`pravilnik/2021/320517/`](pravilnik/2021/320517/) | in force | 1 | 2021-08-10 | 2021-08-10 |
 | Pravilnik o izmjenama Pravilnika o bližim uslovima za dobijanje zvanja primarijus | [`pravilnik/2021/320761/`](pravilnik/2021/320761/) | in force | 1 | 2021-09-25 | 2021-09-25 |
+| Pravilnik o bližim uslovima koje moraju da ispunjavaju stanice za tehnički pregled vozila | [`pravilnik/2021/320763/`](pravilnik/2021/320763/) | in force | 1 | 2021-12-02 | 2021-12-02 |
 | Pravilnik o smještaju u Vojsci Crne Gore | [`pravilnik/2021/321114/`](pravilnik/2021/321114/) | in force | 1 | 2021-03-13 | 2021-03-13 |
 | Pravilnik o izmjenama Pravilnika o načinu utvrđivanja i praćenja likvidnosti Društva za osiguranje, odnosno društva za reosiguranje | [`pravilnik/2021/321410/`](pravilnik/2021/321410/) | in force | 1 | 2021-06-05 | 2021-06-05 |
 | Pravilnik o izmjenama Pravilnika o deponovanju i ulaganju sredstava tehničkih rezervi društva za osiguranje | [`pravilnik/2021/321430/`](pravilnik/2021/321430/) | in force | 1 | 2021-07-01 | 2021-07-01 |
@@ -26760,7 +26766,7 @@
 | Program podizanja spomen-obilježja | [`program/2026/399528/`](program/2026/399528/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Izmjene i dopune Programa mjera za podsticaj razvoja poljoprivrede za 2026. godinu | [`program/2026/399716/`](program/2026/399716/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## rjesenje (3345, of which 190 amending acts)
+## rjesenje (3347, of which 190 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -27184,6 +27190,7 @@
 | Rjesenje o izdavanju Licence za rad Javnoj ustanovi Srednja strucna skola "Ivan Uskokovic" Podgorica | [`rjesenje/2011/319933/`](rjesenje/2011/319933/) | in force | 1 | 2011-07-11 | 2011-07-11 |
 | Rjesenje, Broj: 0101-259/1 | [`rjesenje/2011/320053/`](rjesenje/2011/320053/) | in force | 1 | 2011-06-24 | 2011-06-24 |
 | Rjesenje o davanju saglasnosti na Odluku o osnivanju MZ STARI GRAD | [`rjesenje/2011/320340/`](rjesenje/2011/320340/) | in force | 1 | 2011-01-20 | 2011-01-20 |
+| Rjesenje o izdavanju licence za rad JU Zavod za skolovanje i profesionalnu rehabilitaciju invalidne djece i omladine - Podgorica | [`rjesenje/2011/320578/`](rjesenje/2011/320578/) | in force | 1 | 2010-12-24 | 2010-12-24 |
 | Rjesenje o imenovanju Sekretara Skupstine opstine Ulcinj | [`rjesenje/2011/320878/`](rjesenje/2011/320878/) | in force | 1 | 2011-04-13 | 2011-04-13 |
 | Rjesenje o davanju saglasnosti na imenovanje direktora JP "Pogrebne usluge" - Budva | [`rjesenje/2011/320902/`](rjesenje/2011/320902/) | in force | 1 | 2011-06-06 | 2011-06-06 |
 | Rjesenje o izdavanju dopune licence za rad Fakultetu za sport i fizicko vaspitanje u Niksicu | [`rjesenje/2011/321013/`](rjesenje/2011/321013/) | amending act | 1 | 2011-08-30 | 2011-08-30 |
@@ -29003,6 +29010,7 @@
 | Rješenje o izdavanju licence Privatnoj ustanovi Obrazovni centar "British International School Arcadia Academy ", Kotor | [`rjesenje/2021/320212/`](rjesenje/2021/320212/) | in force | 1 | 2021-10-18 | 2021-10-18 |
 | Rješenje o imenovanju predsjednika i članova Savjeta JU "Narodna biblioteka" Budve | [`rjesenje/2021/320372/`](rjesenje/2021/320372/) | in force | 1 | 2021-03-11 | 2021-03-11 |
 | Rješenje broj: 10-040/21-470/1 | [`rjesenje/2021/320513/`](rjesenje/2021/320513/) | in force | 1 | 2021-07-12 | 2021-07-12 |
+| Rješenje o izdavanju licence Privatnoj ustanovi "POLIEX" iz Berana | [`rjesenje/2021/320668/`](rjesenje/2021/320668/) | in force | 1 | 2021-11-22 | 2021-11-22 |
 | Rješenje o izdavanju licence Privatnoj ustanovi auto-škola "Mitrović", Berane | [`rjesenje/2021/320705/`](rjesenje/2021/320705/) | in force | 1 | 2021-04-20 | 2021-04-20 |
 | Rješenje o razrješenju članova Odbora direktora DOO "Lovanja" | [`rjesenje/2021/320758/`](rjesenje/2021/320758/) | in force | 1 | 2021-01-20 | 2021-01-20 |
 | Rješenje o imenovanju Projektnog tima za implementaciju projekta "Povećanje zaposlenosti u Kolašinu i Mojkovcu kroz obuke i kreiranje novih radnih mjesta" | [`rjesenje/2021/320762/`](rjesenje/2021/320762/) | in force | 1 | 2021-12-08 | 2021-12-08 |
