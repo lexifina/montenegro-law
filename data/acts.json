@@ -10491,6 +10491,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/299665"
 },
 {
+"slug": "uputstvo-1995-299864",
+"path": "uputstvo/1995/299864",
+"kind": "uputstvo",
+"year": "1995",
+"number": "299864",
+"withdrawn_by": null,
+"reason": null,
+"title": "Uputstvo o vođenju matičnih knjiga i o izdavanju izvoda i uvjerenja na osnovu tih knjiga",
+"short": "Uputstvo o vođenju matičnih knjiga i o izdavanju izvoda i uvjerenja na osnovu tih knjiga",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1995-06-27",
+"latest": "1995-06-27",
+"portal": "https://www.sluzbenilist.me/propisi/299864"
+},
+{
 "slug": "rjesenje-1995-299888",
 "path": "rjesenje/1995/299888",
 "kind": "rjesenje",
@@ -10591,6 +10608,23 @@
 "from": "1995-06-28",
 "latest": "1995-06-28",
 "portal": "https://www.sluzbenilist.me/propisi/300811"
+},
+{
+"slug": "pravilnik-1995-300812",
+"path": "pravilnik/1995/300812",
+"kind": "pravilnik",
+"year": "1995",
+"number": "300812",
+"withdrawn_by": null,
+"reason": null,
+"title": "Pravilnik o obrascu službene legitimacije",
+"short": "Pravilnik o obrascu službene legitimacije",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1995-03-23",
+"latest": "1995-03-23",
+"portal": "https://www.sluzbenilist.me/propisi/300812"
 },
 {
 "slug": "uputstvo-1995-300813",
@@ -10999,6 +11033,23 @@
 "from": "1995-01-10",
 "latest": "1995-01-10",
 "portal": "https://www.sluzbenilist.me/propisi/301700"
+},
+{
+"slug": "pravilnik-1995-301701",
+"path": "pravilnik/1995/301701",
+"kind": "pravilnik",
+"year": "1995",
+"number": "301701",
+"withdrawn_by": null,
+"reason": null,
+"title": "Pravilnik o službenoj legitimaciji ovlašćenog službenog lica Zavoda za izvršenje krivičnih sankcija",
+"short": "Pravilnik o službenoj legitimaciji ovlašćenog službenog lica Zavoda za izvršenje krivičnih sankcija",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1995-04-08",
+"latest": "1995-04-08",
+"portal": "https://www.sluzbenilist.me/propisi/301701"
 },
 {
 "slug": "uputstvo-1995-323957",
@@ -16985,6 +17036,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/300605"
 },
 {
+"slug": "rjesenje-1997-300712",
+"path": "rjesenje/1997/300712",
+"kind": "rjesenje",
+"year": "1997",
+"number": "300712",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o prihvatanju ostavke i razrješenju od dužnosti pomoćnika ministra prosvjete i nauke",
+"short": "Rješenje o prihvatanju ostavke i razrješenju od dužnosti pomoćnika ministra prosvjete i nauke",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1997-03-29",
+"latest": "1997-03-29",
+"portal": "https://www.sluzbenilist.me/propisi/300712"
+},
+{
 "slug": "odluka-1997-300717",
 "path": "odluka/1997/300717",
 "kind": "odluka",
@@ -21216,6 +21284,23 @@
 "from": "1999-12-23",
 "latest": "1999-12-23",
 "portal": "https://www.sluzbenilist.me/propisi/301253"
+},
+{
+"slug": "odluka-1999-301257",
+"path": "odluka/1999/301257",
+"kind": "odluka",
+"year": "1999",
+"number": "301257",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o visini posebne naknade za drumska motorna vozila i njihova priključna vozila",
+"short": "Odluka o visini posebne naknade za drumska motorna vozila i njihova priključna vozila",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1999-04-16",
+"latest": "1999-04-16",
+"portal": "https://www.sluzbenilist.me/propisi/301257"
 },
 {
 "slug": "zakon-1999-301315",
@@ -42179,6 +42264,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/301946"
 },
 {
+"slug": "naredba-2006-301952",
+"path": "naredba/2006/301952",
+"kind": "naredba",
+"year": "2006",
+"number": "301952",
+"withdrawn_by": null,
+"reason": null,
+"title": "Naredba o vremenu u kome aerodromi moraju biti otvoreni za javni avio-transport",
+"short": "Naredba o vremenu u kome aerodromi moraju biti otvoreni za javni avio-transport",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2006-03-26",
+"latest": "2006-03-26",
+"portal": "https://www.sluzbenilist.me/propisi/301952"
+},
+{
 "slug": "rjesenje-2006-301956",
 "path": "rjesenje/2006/301956",
 "kind": "rjesenje",
@@ -52940,6 +53042,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/299998"
 },
 {
+"slug": "odluka-2008-300165",
+"path": "odluka/2008/300165",
+"kind": "odluka",
+"year": "2008",
+"number": "300165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o prodaji nepokretnosti",
+"short": "Odluka o prodaji nepokretnosti",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2009-01-06",
+"latest": "2009-01-06",
+"portal": "https://www.sluzbenilist.me/propisi/300165"
+},
+{
 "slug": "akt-2008-300166",
 "path": "akt/2008/300166",
 "kind": "akt",
@@ -53108,6 +53227,23 @@
 "from": "2008-01-31",
 "latest": "2008-01-31",
 "portal": "https://www.sluzbenilist.me/propisi/300380"
+},
+{
+"slug": "uputstvo-2008-300383",
+"path": "uputstvo/2008/300383",
+"kind": "uputstvo",
+"year": "2008",
+"number": "300383",
+"withdrawn_by": null,
+"reason": null,
+"title": "Uputstvo o sadrzini i obliku obrazaca za sprovodjenje izbornih radnji za izbor predsjednika Crne Gore",
+"short": "Uputstvo o sadrzini i obliku obrazaca za sprovodjenje izbornih radnji za izbor predsjednika Crne Gore",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2008-02-21",
+"latest": "2008-02-21",
+"portal": "https://www.sluzbenilist.me/propisi/300383"
 },
 {
 "slug": "odluka-2008-300534",
@@ -53705,6 +53841,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/301238"
 },
 {
+"slug": "odluka-2008-301264",
+"path": "odluka/2008/301264",
+"kind": "odluka",
+"year": "2008",
+"number": "301264",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o otkupu zemljišta radi formiranja urbanističke parcele",
+"short": "Odluka o otkupu zemljišta radi formiranja urbanističke parcele",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2008-08-16",
+"latest": "2008-08-16",
+"portal": "https://www.sluzbenilist.me/propisi/301264"
+},
+{
 "slug": "pravilnik-2008-301267",
 "path": "pravilnik/2008/301267",
 "kind": "pravilnik",
@@ -53720,6 +53873,23 @@
 "from": "2009-01-03",
 "latest": "2009-01-03",
 "portal": "https://www.sluzbenilist.me/propisi/301267"
+},
+{
+"slug": "odluka-2008-301273",
+"path": "odluka/2008/301273",
+"kind": "odluka",
+"year": "2008",
+"number": "301273",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o potvrđivanju imenovanja članova Savjeta Javnog lokalnog radio difuznog servisa \"Radio Berane\"",
+"short": "Odluka o potvrđivanju imenovanja članova Savjeta Javnog lokalnog radio difuznog servisa \"Radio Berane\"",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2008-09-30",
+"latest": "2008-09-30",
+"portal": "https://www.sluzbenilist.me/propisi/301273"
 },
 {
 "slug": "uredba-2008-304083",
@@ -79035,6 +79205,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/292617"
 },
 {
+"slug": "rjesenje-2010-300741",
+"path": "rjesenje/2010/300741",
+"kind": "rjesenje",
+"year": "2010",
+"number": "300741",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rjesenje o izdavanju licence za rad Privatnoj ustanovi Univerziteta Donja Gorica - Podgorica",
+"short": "Rjesenje o izdavanju licence za rad Privatnoj ustanovi Univerziteta Donja Gorica - Podgorica",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-04-29",
+"latest": "2010-04-29",
+"portal": "https://www.sluzbenilist.me/propisi/300741"
+},
+{
 "slug": "odluka-2010-300746",
 "path": "odluka/2010/300746",
 "kind": "odluka",
@@ -79050,6 +79237,23 @@
 "from": "2010-04-01",
 "latest": "2010-04-01",
 "portal": "https://www.sluzbenilist.me/propisi/300746"
+},
+{
+"slug": "rjesenje-2010-300780",
+"path": "rjesenje/2010/300780",
+"kind": "rjesenje",
+"year": "2010",
+"number": "300780",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rjesenje o licenciranju privatne predskolske ustanove \"Carli Caplin\" - Podgorica",
+"short": "Rjesenje o licenciranju privatne predskolske ustanove \"Carli Caplin\" - Podgorica",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-08-03",
+"latest": "2010-08-03",
+"portal": "https://www.sluzbenilist.me/propisi/300780"
 },
 {
 "slug": "odluka-2010-300895",
@@ -79409,6 +79613,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/301895"
 },
 {
+"slug": "rjesenje-2010-301897",
+"path": "rjesenje/2010/301897",
+"kind": "rjesenje",
+"year": "2010",
+"number": "301897",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rjesenje o licenciranju organizatora obrazovanja odraslih PU \"Hardnet test centar\" Niksic",
+"short": "Rjesenje o licenciranju organizatora obrazovanja odraslih PU \"Hardnet test centar\" Niksic",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-10-19",
+"latest": "2010-10-19",
+"portal": "https://www.sluzbenilist.me/propisi/301897"
+},
+{
 "slug": "odluka-2010-301902",
 "path": "odluka/2010/301902",
 "kind": "odluka",
@@ -79579,6 +79800,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/302122"
 },
 {
+"slug": "rjesenje-2010-302124",
+"path": "rjesenje/2010/302124",
+"kind": "rjesenje",
+"year": "2010",
+"number": "302124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rjesenje o licenciranju privatne predskolske ustanove \"Artic Pinokio\" - Podgorica",
+"short": "Rjesenje o licenciranju privatne predskolske ustanove \"Artic Pinokio\" - Podgorica",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-08-03",
+"latest": "2010-08-03",
+"portal": "https://www.sluzbenilist.me/propisi/302124"
+},
+{
 "slug": "odluka-2010-302145",
 "path": "odluka/2010/302145",
 "kind": "odluka",
@@ -79611,6 +79849,23 @@
 "from": "2009-12-28",
 "latest": "2009-12-28",
 "portal": "https://www.sluzbenilist.me/propisi/302149"
+},
+{
+"slug": "rjesenje-2010-302151",
+"path": "rjesenje/2010/302151",
+"kind": "rjesenje",
+"year": "2010",
+"number": "302151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rjesenje broj: 01/1833",
+"short": "Rjesenje broj: 01/1833",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-10-15",
+"latest": "2010-10-15",
+"portal": "https://www.sluzbenilist.me/propisi/302151"
 },
 {
 "slug": "odluka-2010-302156",
@@ -93128,6 +93383,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/301500"
 },
 {
+"slug": "rjesenje-2011-301521",
+"path": "rjesenje/2011/301521",
+"kind": "rjesenje",
+"year": "2011",
+"number": "301521",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rjesenje o licenciranju privatne predskolske ustanove \"Mali princ\" - Podgorica",
+"short": "Rjesenje o licenciranju privatne predskolske ustanove \"Mali princ\" - Podgorica",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-05-09",
+"latest": "2011-05-09",
+"portal": "https://www.sluzbenilist.me/propisi/301521"
+},
+{
 "slug": "odluka-2011-301529",
 "path": "odluka/2011/301529",
 "kind": "odluka",
@@ -93434,6 +93706,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/301768"
 },
 {
+"slug": "odluka-2011-301770",
+"path": "odluka/2011/301770",
+"kind": "odluka",
+"year": "2011",
+"number": "301770",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o izmjeni Odluke o uredjenju grada i odrzavanju komunalnog reda",
+"short": "Odluka o izmjeni Odluke o uredjenju grada i odrzavanju komunalnog reda",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-11-16",
+"latest": "2011-11-16",
+"portal": "https://www.sluzbenilist.me/propisi/301770"
+},
+{
 "slug": "odluka-2011-301821",
 "path": "odluka/2011/301821",
 "kind": "odluka",
@@ -93519,6 +93808,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/301845"
 },
 {
+"slug": "odluka-2011-301849",
+"path": "odluka/2011/301849",
+"kind": "odluka",
+"year": "2011",
+"number": "301849",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o prenosu prava svojine na nepokretnosti putem javnog nadmetanja Katastarske parcele 1063/2 KO Rezevici I",
+"short": "Odluka o prenosu prava svojine na nepokretnosti putem javnog nadmetanja Katastarske parcele 1063/2 KO Rezevici I",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-08-24",
+"latest": "2011-08-24",
+"portal": "https://www.sluzbenilist.me/propisi/301849"
+},
+{
 "slug": "odluka-2011-301914",
 "path": "odluka/2011/301914",
 "kind": "odluka",
@@ -93585,6 +93891,23 @@
 "from": "2011-07-28",
 "latest": "2011-07-28",
 "portal": "https://www.sluzbenilist.me/propisi/301917"
+},
+{
+"slug": "rjesenje-2011-301924",
+"path": "rjesenje/2011/301924",
+"kind": "rjesenje",
+"year": "2011",
+"number": "301924",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rjesenje o izdavanju licence za rad naucnoistrazivackoj ustanovi Fakultetu za pomorstvo, za obavljanje naucnoistrazivacke djelatnosti u oblasti interdisciplinarnih istrazivanja",
+"short": "Rjesenje o izdavanju licence za rad naucnoistrazivackoj ustanovi Fakultetu za pomorstvo, za obavljanje naucnoistrazivacke djelatnosti u oblasti interdisciplinarnih istrazivanja",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-06-23",
+"latest": "2011-06-23",
+"portal": "https://www.sluzbenilist.me/propisi/301924"
 },
 {
 "slug": "rjesenje-2011-301925",
@@ -93772,6 +94095,23 @@
 "from": "2011-02-01",
 "latest": "2011-02-01",
 "portal": "https://www.sluzbenilist.me/propisi/302039"
+},
+{
+"slug": "rjesenje-2011-302061",
+"path": "rjesenje/2011/302061",
+"kind": "rjesenje",
+"year": "2011",
+"number": "302061",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rjesenje o izdavanju licence za rad Javnoj ustanovi Srednja medicinska skola Podgorica",
+"short": "Rjesenje o izdavanju licence za rad Javnoj ustanovi Srednja medicinska skola Podgorica",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-12-29",
+"latest": "2010-12-29",
+"portal": "https://www.sluzbenilist.me/propisi/302061"
 },
 {
 "slug": "odluka-2011-302069",
@@ -113188,6 +113528,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/301830"
 },
 {
+"slug": "odluka-2012-301852",
+"path": "odluka/2012/301852",
+"kind": "odluka",
+"year": "2012",
+"number": "301852",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o prestanku vanrednog stanja na teritoriji Crne Gore",
+"short": "Odluka o prestanku vanrednog stanja na teritoriji Crne Gore",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2012-02-27",
+"latest": "2012-02-27",
+"portal": "https://www.sluzbenilist.me/propisi/301852"
+},
+{
 "slug": "odluka-2012-301854",
 "path": "odluka/2012/301854",
 "kind": "odluka",
@@ -113220,6 +113577,23 @@
 "from": "2012-10-01",
 "latest": "2012-10-01",
 "portal": "https://www.sluzbenilist.me/propisi/301950"
+},
+{
+"slug": "odluka-2012-301955",
+"path": "odluka/2012/301955",
+"kind": "odluka",
+"year": "2012",
+"number": "301955",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o odobravanju Elektroprivredi Crne Gore AD Nikšić otkupa elektrodistributivne infrastrukture koja se odnosi na kablovske vodove u Opštini Budva",
+"short": "Odluka o odobravanju Elektroprivredi Crne Gore AD Nikšić otkupa elektrodistributivne infrastrukture koja se odnosi na kablovske vodove u Opštini Budva",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2012-07-12",
+"latest": "2012-07-12",
+"portal": "https://www.sluzbenilist.me/propisi/301955"
 },
 {
 "slug": "odluka-2012-302087",
@@ -113322,6 +113696,23 @@
 "from": "2012-12-07",
 "latest": "2012-12-07",
 "portal": "https://www.sluzbenilist.me/propisi/302108"
+},
+{
+"slug": "rjesenje-2012-302110",
+"path": "rjesenje/2012/302110",
+"kind": "rjesenje",
+"year": "2012",
+"number": "302110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o licenciranju organizatora obrazovanja odraslih ju oš \"Pavle Žižić\"",
+"short": "Rješenje o licenciranju organizatora obrazovanja odraslih ju oš \"Pavle Žižić\"",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-12-30",
+"latest": "2011-12-30",
+"portal": "https://www.sluzbenilist.me/propisi/302110"
 },
 {
 "slug": "rjesenje-2012-302128",
@@ -127262,6 +127653,23 @@
 "from": "2013-03-14",
 "latest": "2013-03-14",
 "portal": "https://www.sluzbenilist.me/propisi/300832"
+},
+{
+"slug": "rjesenje-2013-300861",
+"path": "rjesenje/2013/300861",
+"kind": "rjesenje",
+"year": "2013",
+"number": "300861",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o izdavanju Licence privatnoj ustanovi organizatoru obrazovanja odraslih \"Urban Protection Training Centar Montenegro\" - Budva za rad područne ustanove u Podgorici",
+"short": "Rješenje o izdavanju Licence privatnoj ustanovi organizatoru obrazovanja odraslih \"Urban Protection Training Centar Montenegro\" - Budva za rad područne ustanove u Podgorici",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-10-18",
+"latest": "2013-10-18",
+"portal": "https://www.sluzbenilist.me/propisi/300861"
 },
 {
 "slug": "rjesenje-2013-301370",
@@ -149721,6 +150129,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/301378"
 },
 {
+"slug": "odluka-2014-301380",
+"path": "odluka/2014/301380",
+"kind": "odluka",
+"year": "2014",
+"number": "301380",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o donošenju izmjena Programa refinansiranja tekućih kreditnih zaduženja",
+"short": "Odluka o donošenju izmjena Programa refinansiranja tekućih kreditnih zaduženja",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-05-29",
+"latest": "2014-05-29",
+"portal": "https://www.sluzbenilist.me/propisi/301380"
+},
+{
 "slug": "odluka-2014-301381",
 "path": "odluka/2014/301381",
 "kind": "odluka",
@@ -149840,6 +150265,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/301463"
 },
 {
+"slug": "rjesenje-2014-301470",
+"path": "rjesenje/2014/301470",
+"kind": "rjesenje",
+"year": "2014",
+"number": "301470",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o dopuni licence za rad Univerzitetu Crne Gore za postdiplomski akademski magistarski studijski program \"Geotehnika\", na Građevinskom fakultetu u Podgorici",
+"short": "Rješenje o dopuni licence za rad Univerzitetu Crne Gore za postdiplomski akademski magistarski studijski program \"Geotehnika\", na Građevinskom fakultetu u Podgorici",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2014-03-24",
+"latest": "2014-03-24",
+"portal": "https://www.sluzbenilist.me/propisi/301470"
+},
+{
 "slug": "odluka-2014-301473",
 "path": "odluka/2014/301473",
 "kind": "odluka",
@@ -149942,6 +150384,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/301504"
 },
 {
+"slug": "odluka-2014-301506",
+"path": "odluka/2014/301506",
+"kind": "odluka",
+"year": "2014",
+"number": "301506",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o izvođenju lokalnog javnog rada u Opštini Budva",
+"short": "Odluka o izvođenju lokalnog javnog rada u Opštini Budva",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-12-30",
+"latest": "2013-12-30",
+"portal": "https://www.sluzbenilist.me/propisi/301506"
+},
+{
 "slug": "rjesenje-2014-301522",
 "path": "rjesenje/2014/301522",
 "kind": "rjesenje",
@@ -150008,6 +150467,40 @@
 "from": "2014-04-19",
 "latest": "2014-04-19",
 "portal": "https://www.sluzbenilist.me/propisi/301559"
+},
+{
+"slug": "odluka-2014-301587",
+"path": "odluka/2014/301587",
+"kind": "odluka",
+"year": "2014",
+"number": "301587",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o naknadi za rad Etičke komisije za lokalne službenike i namještenike Opštine Kotor",
+"short": "Odluka o naknadi za rad Etičke komisije za lokalne službenike i namještenike Opštine Kotor",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-02-05",
+"latest": "2014-02-05",
+"portal": "https://www.sluzbenilist.me/propisi/301587"
+},
+{
+"slug": "odluka-2014-301588",
+"path": "odluka/2014/301588",
+"kind": "odluka",
+"year": "2014",
+"number": "301588",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o imenovanju predsjednika i članova savjeta JU Centar za kulturu \"Nenad Rakočević\" Mojkovac",
+"short": "Odluka o imenovanju predsjednika i članova savjeta JU Centar za kulturu \"Nenad Rakočević\" Mojkovac",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-04-01",
+"latest": "2014-04-01",
+"portal": "https://www.sluzbenilist.me/propisi/301588"
 },
 {
 "slug": "odluka-2014-301589",
@@ -150350,6 +150843,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/301736"
 },
 {
+"slug": "rjesenje-2014-301742",
+"path": "rjesenje/2014/301742",
+"kind": "rjesenje",
+"year": "2014",
+"number": "301742",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o priznavanju Licence Javnoj predškolskoj ustanovi \"Dječji vrtić\" - Plav",
+"short": "Rješenje o priznavanju Licence Javnoj predškolskoj ustanovi \"Dječji vrtić\" - Plav",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-12-11",
+"latest": "2013-12-11",
+"portal": "https://www.sluzbenilist.me/propisi/301742"
+},
+{
 "slug": "odluka-2014-301743",
 "path": "odluka/2014/301743",
 "kind": "odluka",
@@ -150452,6 +150962,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/301762"
 },
 {
+"slug": "odluka-2014-301763",
+"path": "odluka/2014/301763",
+"kind": "odluka",
+"year": "2014",
+"number": "301763",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o preuzimanju standarda odbrane",
+"short": "Odluka o preuzimanju standarda odbrane",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-05-06",
+"latest": "2014-05-06",
+"portal": "https://www.sluzbenilist.me/propisi/301763"
+},
+{
 "slug": "odluka-2014-301764",
 "path": "odluka/2014/301764",
 "kind": "odluka",
@@ -150520,6 +151047,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/301858"
 },
 {
+"slug": "odluka-2014-301859",
+"path": "odluka/2014/301859",
+"kind": "odluka",
+"year": "2014",
+"number": "301859",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o imenovanju lica odgovornih za vršenje decentralizovanog upravljanja pretpristupnim fondovima Evropske unije",
+"short": "Odluka o imenovanju lica odgovornih za vršenje decentralizovanog upravljanja pretpristupnim fondovima Evropske unije",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-12-31",
+"latest": "2014-12-31",
+"portal": "https://www.sluzbenilist.me/propisi/301859"
+},
+{
 "slug": "akt-2014-301888",
 "path": "akt/2014/301888",
 "kind": "akt",
@@ -150569,6 +151113,23 @@
 "from": "2014-03-22",
 "latest": "2014-03-22",
 "portal": "https://www.sluzbenilist.me/propisi/301890"
+},
+{
+"slug": "odluka-2014-301892",
+"path": "odluka/2014/301892",
+"kind": "odluka",
+"year": "2014",
+"number": "301892",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o izboru predsjednika, zamjenika predsjednika i sudija Stalnog izabranog suda pri Privrednoj komori Crne Gore",
+"short": "Odluka o izboru predsjednika, zamjenika predsjednika i sudija Stalnog izabranog suda pri Privrednoj komori Crne Gore",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-07-04",
+"latest": "2014-07-04",
+"portal": "https://www.sluzbenilist.me/propisi/301892"
 },
 {
 "slug": "odluka-2014-301894",
@@ -150705,6 +151266,23 @@
 "from": "2014-02-15",
 "latest": "2014-02-15",
 "portal": "https://www.sluzbenilist.me/propisi/301936"
+},
+{
+"slug": "rjesenje-2014-301937",
+"path": "rjesenje/2014/301937",
+"kind": "rjesenje",
+"year": "2014",
+"number": "301937",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o priznavanju Licence Javnoj predškolskoj ustanovi \"Bambi\" - Tivat",
+"short": "Rješenje o priznavanju Licence Javnoj predškolskoj ustanovi \"Bambi\" - Tivat",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-12-11",
+"latest": "2013-12-11",
+"portal": "https://www.sluzbenilist.me/propisi/301937"
 },
 {
 "slug": "odluka-2014-301938",
@@ -151064,6 +151642,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/302027"
 },
 {
+"slug": "rjesenje-2014-302028",
+"path": "rjesenje/2014/302028",
+"kind": "rjesenje",
+"year": "2014",
+"number": "302028",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o priznavanju Licence Javnoj predškolskoj ustanovi \"Sestre Radović\" - Kolašin",
+"short": "Rješenje o priznavanju Licence Javnoj predškolskoj ustanovi \"Sestre Radović\" - Kolašin",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-12-11",
+"latest": "2013-12-11",
+"portal": "https://www.sluzbenilist.me/propisi/302028"
+},
+{
 "slug": "odluka-2014-302055",
 "path": "odluka/2014/302055",
 "kind": "odluka",
@@ -151217,6 +151812,40 @@
 "portal": "https://www.sluzbenilist.me/propisi/302202"
 },
 {
+"slug": "rjesenje-2014-302203",
+"path": "rjesenje/2014/302203",
+"kind": "rjesenje",
+"year": "2014",
+"number": "302203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o priznavanju Licence Javnoj predškolskoj ustanovi \"Radost\"- Kotor",
+"short": "Rješenje o priznavanju Licence Javnoj predškolskoj ustanovi \"Radost\"- Kotor",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-12-11",
+"latest": "2013-12-11",
+"portal": "https://www.sluzbenilist.me/propisi/302203"
+},
+{
+"slug": "odluka-2014-302206",
+"path": "odluka/2014/302206",
+"kind": "odluka",
+"year": "2014",
+"number": "302206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o zaradama i drugim primanjima lokalnih funkcionera",
+"short": "Odluka o zaradama i drugim primanjima lokalnih funkcionera",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-12-23",
+"latest": "2014-12-23",
+"portal": "https://www.sluzbenilist.me/propisi/302206"
+},
+{
 "slug": "odluka-2014-302207",
 "path": "odluka/2014/302207",
 "kind": "odluka",
@@ -151251,6 +151880,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/302209"
 },
 {
+"slug": "odluka-2014-302214",
+"path": "odluka/2014/302214",
+"kind": "odluka",
+"year": "2014",
+"number": "302214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o imenovanju sekretara Skupštine opštine Mojkovac",
+"short": "Odluka o imenovanju sekretara Skupštine opštine Mojkovac",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2014-06-25",
+"latest": "2014-06-25",
+"portal": "https://www.sluzbenilist.me/propisi/302214"
+},
+{
 "slug": "odluka-2014-302216",
 "path": "odluka/2014/302216",
 "kind": "odluka",
@@ -151266,6 +151912,23 @@
 "from": "2015-01-03",
 "latest": "2015-01-03",
 "portal": "https://www.sluzbenilist.me/propisi/302216"
+},
+{
+"slug": "rjesenje-2014-302222",
+"path": "rjesenje/2014/302222",
+"kind": "rjesenje",
+"year": "2014",
+"number": "302222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o priznavanju Licence Javnoj predškolskoj ustanovi \"Boško Buha\" - Rožaje",
+"short": "Rješenje o priznavanju Licence Javnoj predškolskoj ustanovi \"Boško Buha\" - Rožaje",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-12-11",
+"latest": "2013-12-11",
+"portal": "https://www.sluzbenilist.me/propisi/302222"
 },
 {
 "slug": "rjesenje-2014-302226",
