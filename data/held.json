@@ -1,10 +1,10 @@
 {
 "note": "In-scope acts (the PIS marks them Važeći, of a kind built here) held back from main, each with the rule that holds it (reason) and the exact finding (detail): their page or text does not read cleanly, their in-force day cannot be read, or (amended_on_pis, named_as_amended) they are amended and their text as published is not yet read. Acts the fetch has not yet read are not listed.",
-"count": 41643,
+"count": 41615,
 "by_reason": {
 "in_force_unknown": 21206,
-"named_as_amended": 4379,
-"amended_on_pis_text_not_fetched": 4211,
+"named_as_amended": 4372,
+"amended_on_pis_text_not_fetched": 4212,
 "kind_not_built": 3997,
 "scanned_pages": 1806,
 "article_out_of_sequence": 1417,
@@ -12,7 +12,7 @@
 "text_layer_wrong_glyphs": 1041,
 "in_force_mismatch": 715,
 "articles_not_split": 440,
-"pdf_not_fetched": 372,
+"pdf_not_fetched": 350,
 "signature_not_found": 300,
 "article_heading_ambiguous": 140,
 "empty_article": 107,
@@ -14299,7 +14299,7 @@
 "id": 294249,
 "title": "Odluka o obrazovanju Službe Skupštine",
 "reason": "named_as_amended",
-"detail": "named_as_amended:343392,345267,345871,371046",
+"detail": "named_as_amended:345267,345871,371046",
 "official_url": "https://www.sluzbenilist.me/propisi/294249"
 },
 {
@@ -55753,7 +55753,7 @@
 "id": 302508,
 "title": "Odluka o organizaciji i načinu rada lokalne uprave Opštine Rožaje",
 "reason": "named_as_amended",
-"detail": "named_as_amended:344091,387772",
+"detail": "named_as_amended:387772",
 "official_url": "https://www.sluzbenilist.me/propisi/302508"
 },
 {
@@ -69208,7 +69208,7 @@
 "id": 305142,
 "title": "Naredba o vremenu u kome aerodromi moraju biti otvoreni za javni avio-transport",
 "reason": "named_as_amended",
-"detail": "named_as_amended:302131,307335,347995",
+"detail": "named_as_amended:302131,307335",
 "official_url": "https://www.sluzbenilist.me/propisi/305142"
 },
 {
@@ -71877,7 +71877,7 @@
 "id": 305619,
 "title": "Naredba o vremenu u kome aerodromi moraju biti otvoreni za javni avio - transport",
 "reason": "named_as_amended",
-"detail": "named_as_amended:302131,307335,347995",
+"detail": "named_as_amended:302131,307335",
 "official_url": "https://www.sluzbenilist.me/propisi/305619"
 },
 {
@@ -87156,7 +87156,7 @@
 "id": 308574,
 "title": "Odluka o lokalnim komunalnim taksama",
 "reason": "named_as_amended",
-"detail": "named_as_amended:340374,342177,344338,344562,344574",
+"detail": "named_as_amended:340374,342177,344562,375122,375855",
 "official_url": "https://www.sluzbenilist.me/propisi/308574"
 },
 {
@@ -91573,7 +91573,7 @@
 "id": 309454,
 "title": "Odluka o pristupanju izradi izmjena Detaljnog urbanističkog plana Žabljak",
 "reason": "named_as_amended",
-"detail": "named_as_amended:328532,341474,341529,342976,345057",
+"detail": "named_as_amended:328532,341474,341529,345057,345668",
 "official_url": "https://www.sluzbenilist.me/propisi/309454"
 },
 {
@@ -112564,7 +112564,7 @@
 "id": 314000,
 "title": "Odluka o boravišnoj taksi",
 "reason": "named_as_amended",
-"detail": "named_as_amended:310515,315192,338931,343015,344349",
+"detail": "named_as_amended:310515,315192,338931,343015,347865",
 "official_url": "https://www.sluzbenilist.me/propisi/314000"
 },
 {
@@ -155968,7 +155968,7 @@
 "id": 323035,
 "title": "Odluka o kucnom redu u stambenim zgradama",
 "reason": "named_as_amended",
-"detail": "named_as_amended:292362,292371,342182,343375,343522",
+"detail": "named_as_amended:292362,292371,342182,343375,345298",
 "official_url": "https://www.sluzbenilist.me/propisi/323035"
 },
 {
@@ -159425,7 +159425,7 @@
 "id": 323766,
 "title": "Odluka o imenovanju Savjeta za predstavke i pritužbe",
 "reason": "named_as_amended",
-"detail": "named_as_amended:342192,342275,342836,378325",
+"detail": "named_as_amended:342192,342836,378325",
 "official_url": "https://www.sluzbenilist.me/propisi/323766"
 },
 {
@@ -162646,13 +162646,6 @@
 "reason": "scanned_pages",
 "detail": "scanned_pages",
 "official_url": "https://www.sluzbenilist.me/propisi/324449"
-},
-{
-"id": 324450,
-"title": "Odluka o lokalnim administrativnim taksama",
-"reason": "named_as_amended",
-"detail": "named_as_amended:345297",
-"official_url": "https://www.sluzbenilist.me/propisi/324450"
 },
 {
 "id": 324454,
@@ -176326,7 +176319,7 @@
 "id": 327369,
 "title": "Odluka o organizaciji i načinu rada lokalne uprave Opštine Herceg Novi",
 "reason": "named_as_amended",
-"detail": "named_as_amended:339430,341125,344483,348946,371321",
+"detail": "named_as_amended:339430,341125,348946,371321,380147",
 "official_url": "https://www.sluzbenilist.me/propisi/327369"
 },
 {
@@ -191797,7 +191790,7 @@
 "id": 330990,
 "title": "Odluka o postavljanju, odnosno građenju i uklanjanju pristupnih rampi, liftova i sličnih objekata za pristup i kretanje lica smanjene pokretljivosti i lica sa i",
 "reason": "named_as_amended",
-"detail": "named_as_amended:328939,343353,344582,344592",
+"detail": "named_as_amended:328939,343353,344582",
 "official_url": "https://www.sluzbenilist.me/propisi/330990"
 },
 {
@@ -196658,7 +196651,7 @@
 "id": 332184,
 "title": "Odluka o imenovanju Savjeta za rodnu ravnopravnost i prava manjina",
 "reason": "named_as_amended",
-"detail": "named_as_amended:314897,330597,345614",
+"detail": "named_as_amended:314897,330597",
 "official_url": "https://www.sluzbenilist.me/propisi/332184"
 },
 {
@@ -223570,7 +223563,7 @@
 "id": 339907,
 "title": "Odluka o postavljanju odnosno građenju i uklanjanju pomoćnih objekata",
 "reason": "named_as_amended",
-"detail": "named_as_amended:291427,314482,345465,345618,347274",
+"detail": "named_as_amended:291427,314482,347274,360299,368602",
 "official_url": "https://www.sluzbenilist.me/propisi/339907"
 },
 {
@@ -229144,6 +229137,27 @@
 "official_url": "https://www.sluzbenilist.me/propisi/342061"
 },
 {
+"id": 342062,
+"title": "Odluka o raspodjeli ostvarene dobiti \"Zelenilo\" d.o.o. Podgorica u 2015. godini",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342062"
+},
+{
+"id": 342063,
+"title": "Odluka o prenosu prava korišćenja",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342063"
+},
+{
+"id": 342064,
+"title": "Odluka o oslobadjanju placanja obaveza po osnovu poreza na nepokretnosti za poljoprivredno zemljiste koje se koristi u poljoprivredne svrhe u 2009. godini",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342064"
+},
+{
 "id": 342065,
 "title": "Odluka o opstinskim i nekategorisanim putevima",
 "reason": "named_as_amended",
@@ -229156,6 +229170,90 @@
 "reason": "named_as_amended",
 "detail": "named_as_amended:302389,304118,306536,307090,320576",
 "official_url": "https://www.sluzbenilist.me/propisi/342066"
+},
+{
+"id": 342067,
+"title": "Odluka o izmjenama Odluke o opštinskim i nekategorisanim putevima",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342067"
+},
+{
+"id": 342068,
+"title": "Odluka o privremenom finansiranju potreba Budžeta opštine Andirjevica za period januar-mart 2015. godine",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342068"
+},
+{
+"id": 342069,
+"title": "Odluka o prodaji nepokretnosti",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342069"
+},
+{
+"id": 342070,
+"title": "Odluka o davanju saglasnosti na Statut JU Centar za kulturu i sport \"Mihailo Lalić\"Andrijevica",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342070"
+},
+{
+"id": 342071,
+"title": "Odluka o davanju saglasnosti na Rješenje Predsjednika Opštine Plav o imenovanju Glavnog administratora",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342071"
+},
+{
+"id": 342072,
+"title": "Odluka o davanju saglasnosti na Odluku o imenovanju Izvršnog direktora Društva sa ograničenom odgovornošću Regionalni edukativni centar za održivi razvoj i polj",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342072"
+},
+{
+"id": 342073,
+"title": "Odluka o izmjeni i dopuni Strateške procjene uticaja za životnu sredinu u zahvatu Lokalne studije lokacija Grbalj II",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342073"
+},
+{
+"id": 342074,
+"title": "Odluka o izradi Strateške procjene uticaja za životnu sredinu u zahvatu Detaljnog urbanističkog plana Prčanj",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342074"
+},
+{
+"id": 342075,
+"title": "Odluka o izradi Strateške procjene uticaja za životnu sredinu u zahvatu Lokalne studije lokacija Glavati - Prčanj",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342075"
+},
+{
+"id": 342076,
+"title": "Odluka o izradi Strateške procjene uticaja za životnu sredinu u zahvatu Prostornog plana Opštine Kotor",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342076"
+},
+{
+"id": 342077,
+"title": "Odluka o obezbjeđenju sredstava za finansiranje rada političkih partija",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342077"
+},
+{
+"id": 342078,
+"title": "Poslovnik o radu Izborne komisije Glavnog grada-Podgorice",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342078"
 },
 {
 "id": 342079,
@@ -229173,6 +229271,13 @@
 "second_reading": "in_force_unknown"
 },
 {
+"id": 342082,
+"title": "Odluka o ustupanju na privremeno upravljanje i korišćenje dijela prostorija Doma Mjesne zajednice u Bistrici Ministarstvu prosvjete Crne Gore za potrebe prošire",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342082"
+},
+{
 "id": 342083,
 "title": "Odluka o donošenju Prostorno-urbanističkog plana Opštine Rožaje do 2020. godine",
 "reason": "text_layer_wrong_glyphs",
@@ -229180,11 +229285,39 @@
 "official_url": "https://www.sluzbenilist.me/propisi/342083"
 },
 {
+"id": 342084,
+"title": "Odluka o potrebi izrade Strateške procjene uticaja na životnu sredinu za izmjenu i dopunu Prostornog plana Ulcinja za lokalitet \"Vladimirske Krute 1\" u Ulcinju",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342084"
+},
+{
 "id": 342085,
 "title": "Odluka o izradi Strateške procjene uticaja na životnu sredinu za izmjenu i dopunu Izmjenama i dopunama Generalnog urbanističkog plana Ulcinj za lokalitete: Pinj",
 "reason": "scanned_pages",
 "detail": "scanned_pages",
 "official_url": "https://www.sluzbenilist.me/propisi/342085"
+},
+{
+"id": 342086,
+"title": "Odluka o dopuni Odluke o donošenju Plana privremenih objekata na teritoriji opštine Kotor",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342086"
+},
+{
+"id": 342088,
+"title": "Odluka o ustupanju nepokretnostu na korišćenje i upravljanje DOO,, Jela komerc\"",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342088"
+},
+{
+"id": 342089,
+"title": "Odluka o usvajanju Lokalnog akcionog plana za razvoj sistema socijalne i dječje zaštite za period 2019 -2022.godine",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342089"
 },
 {
 "id": 342090,
@@ -229203,6 +229336,13 @@
 "second_reading": "article_out_of_sequence:Član 3"
 },
 {
+"id": 342092,
+"title": "Odluka o izmjeni i dopuni Odluke o komunalnom redu na teritoriji opstine Budve",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342092"
+},
+{
 "id": 342093,
 "title": "Odluka o Zavrsnom racunu Budzeta Opstine Zabljak za 2010. godinu",
 "reason": "scanned_pages",
@@ -229210,11 +229350,46 @@
 "official_url": "https://www.sluzbenilist.me/propisi/342093"
 },
 {
+"id": 342094,
+"title": "Odluka o prenosu prava na građevinskom zemljištu na Vojinović Rada",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342094"
+},
+{
+"id": 342095,
+"title": "Odluka o izmjenama i dopunama Odluke o boravišnoj taksi Opštine Žabljak",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342095"
+},
+{
 "id": 342096,
 "title": "Odluka o izmjenama Odluke o pečatima",
 "reason": "empty_article",
 "detail": "empty_article:3",
 "official_url": "https://www.sluzbenilist.me/propisi/342096"
+},
+{
+"id": 342097,
+"title": "Izmjene Etičkog kodeksa izabranih predstavnika i funkcionera u lokalnoj samoupravi Glavnog grada - Podgorice",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342097"
+},
+{
+"id": 342098,
+"title": "Odluka o davanju saglasnosti na završni račun finansijskog plana gradske opštine Golubovci za 2016. godinu",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342098"
+},
+{
+"id": 342099,
+"title": "Odluka o izgradnji lokalnog objekta od opšteg interesa - infrastrukture (vodovodne i kanalizacione) u trupu šetališta od Sv. Roka do Lepetana, a preko kat.parc.",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342099"
 },
 {
 "id": 342100,
@@ -229227,11 +229402,60 @@
 ]
 },
 {
+"id": 342101,
+"title": "Odluka o donošenju Lokalne studije lokacije \"Katun-Donje Selo\" Reževići",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342101"
+},
+{
+"id": 342102,
+"title": "Odluka o donošenju Urbanističkog projekta \"Turističko naselje SKOČIĐEVOJKA\"",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342102"
+},
+{
+"id": 342103,
+"title": "Odluka o donošenju Lokalne studije lokacije \"Stambeno-turistička zona niske gustine Rijeka Reževića\"",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342103"
+},
+{
+"id": 342104,
+"title": "Odluka o izradi Strateške procjene uticaja na životnu sredinu Lokalne studije lokacije \"Grahovo 2\"",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342104"
+},
+{
+"id": 342105,
+"title": "Odluka o potrebi izrade Strateške procjene uticaja na životnu sredinu u zahvatu za izmjenu i dopunu Prostornog plana Ulcinja za lokalitet \"Mavrijan 1\" u Ulcinju",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342105"
+},
+{
+"id": 342106,
+"title": "Odluka o davanju na korišćenje nepokretnosti (zemljišta) bez naknade",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342106"
+},
+{
 "id": 342107,
 "title": "Odluka o kreditnom zaduženju",
 "reason": "named_as_amended",
 "detail": "named_as_amended:339537",
 "official_url": "https://www.sluzbenilist.me/propisi/342107"
+},
+{
+"id": 342108,
+"title": "Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele br.150.14 u skladu sa DUP-om \"Bečići\"",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342108"
 },
 {
 "id": 342109,
@@ -229241,6 +229465,20 @@
 "official_url": "https://www.sluzbenilist.me/propisi/342109"
 },
 {
+"id": 342110,
+"title": "Odluka o izmjenama Odluke o određivanju naziva ulica u Baru i Sutomoru",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342110"
+},
+{
+"id": 342111,
+"title": "Odluka o potvrđivanju Odluke Predsjednika opštine Tivat br.0101-129 od 05.02. 2008.g.",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342111"
+},
+{
 "id": 342112,
 "title": "Odluka o ustanovljavanju i dodjeljivanju nagrade \"Branko - Bane Blagojevic\"",
 "reason": "named_as_amended",
@@ -229248,11 +229486,39 @@
 "official_url": "https://www.sluzbenilist.me/propisi/342112"
 },
 {
+"id": 342113,
+"title": "Odluka o izmjenama i dopunama Odluke o pogrebnoj djelatnosti, uredjivanju i odrzavanju groblja na teritoriji Opstine Pljevlja",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342113"
+},
+{
+"id": 342114,
+"title": "Odluka o izmjenama i dopunama Odluke o komunalnom uredjenju",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342114"
+},
+{
+"id": 342115,
+"title": "Odluka o davanju saglasnosti na Program rada sa Finansijskim planom za 2010. godinu JU Centar za kulturu Tivat",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342115"
+},
+{
 "id": 342116,
 "title": "Odluka o Etičkoj komisiji za lokalne službenike i namještenike",
 "reason": "named_as_amended",
 "detail": "named_as_amended:320516,323780,331877",
 "official_url": "https://www.sluzbenilist.me/propisi/342116"
+},
+{
+"id": 342117,
+"title": "Odluka o privremenom finansiranju potreba Budžeta Opštine Petnjica za period 01.01.- 31.03.2015.god.",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342117"
 },
 {
 "id": 342118,
@@ -229280,6 +229546,34 @@
 "official_url": "https://www.sluzbenilist.me/propisi/342120"
 },
 {
+"id": 342121,
+"title": "Odluka O oslobađanju plaćanja poreza na nepokretnosti za poljoprivredno zemljište koje se koristi u poljoprivredne svrhe u 2022.godini",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342121"
+},
+{
+"id": 342122,
+"title": "Odluka o prenosu prava svojine na gradjevinskom zemljištu",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342122"
+},
+{
+"id": 342123,
+"title": "Odluka o izradi Strateške procjene uticaja za životnu sredinu u zahvatu Lokalne studije lokacija Vrmac",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342123"
+},
+{
+"id": 342124,
+"title": "Odluka o ustupanju nekretnina bez naknade",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342124"
+},
+{
 "id": 342125,
 "title": "Odluka o izmjenama i dopunama Odluke o visini, načinu obračunavanja i plaćanja članskog doprinosa Turističkoj organizaciji Opštine Herceg-Novi",
 "reason": "scanned_pages",
@@ -229294,12 +229588,26 @@
 "official_url": "https://www.sluzbenilist.me/propisi/342126"
 },
 {
+"id": 342127,
+"title": "Rješenje o obrazovanju Savjeta Javne ustanove \"Gradska biblioteka i čitaonica\" Herceg Novi",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342127"
+},
+{
 "id": 342128,
 "title": "Rješenje o izmjeni Rješenja o obrazovanju Odbora za društvene djelatnosti Skupštine opštine Herceg Novi",
 "reason": "last_article_not_in_force_clause",
 "detail": "last_article_not_in_force_clause",
 "official_url": "https://www.sluzbenilist.me/propisi/342128",
 "second_reading": "in_force_unknown"
+},
+{
+"id": 342129,
+"title": "Odluka o davanju saglasnosti na Cjenovnik usluga za opšta i posebna parkirališta",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/342129"
 },
 {
 "id": 342132,
@@ -229330,7 +229638,7 @@
 "id": 342146,
 "title": "Odluka o korišćenju i naknadi za korišćenje putnog zemljišta pored opštinskih i nekategorisanih puteva",
 "reason": "named_as_amended",
-"detail": "named_as_amended:340052,340814,341021,342202,343817",
+"detail": "named_as_amended:340052,340814,341021,342202,347761",
 "official_url": "https://www.sluzbenilist.me/propisi/342146"
 },
 {
@@ -229947,13 +230255,6 @@
 "official_url": "https://www.sluzbenilist.me/propisi/342433"
 },
 {
-"id": 342437,
-"title": "Odluka o izdavanju u dugoročni zakup poslovnih prostorija Opštine Kotor",
-"reason": "named_as_amended",
-"detail": "named_as_amended:345833",
-"official_url": "https://www.sluzbenilist.me/propisi/342437"
-},
-{
 "id": 342439,
 "title": "Odluka o potvrđivanju Sporazuma o prijateljstvu i saradnji između Opštine Bar (Crna Gora) i grada Maribora (Republika Slovenija)",
 "reason": "in_force_unknown",
@@ -230434,7 +230735,7 @@
 "id": 342666,
 "title": "Odluka o pristupanju izradi izmjena Detaljnog urbanističkog plana Žabljak",
 "reason": "named_as_amended",
-"detail": "named_as_amended:328532,341474,341529,342976,345057",
+"detail": "named_as_amended:328532,341474,341529,345057,345668",
 "official_url": "https://www.sluzbenilist.me/propisi/342666"
 },
 {
@@ -233131,7 +233432,7 @@
 "id": 343727,
 "title": "Odluka o mjesnim zajednicama",
 "reason": "named_as_amended",
-"detail": "named_as_amended:311584,339208,342667,342932,344739",
+"detail": "named_as_amended:311584,339208,342667,342932,367807",
 "official_url": "https://www.sluzbenilist.me/propisi/343727"
 },
 {
@@ -234006,13 +234307,6 @@
 "reason": "named_as_amended",
 "detail": "named_as_amended:304121,304469,306805,307910,308603",
 "official_url": "https://www.sluzbenilist.me/propisi/344083"
-},
-{
-"id": 344084,
-"title": "Odluka o Službi zaštite",
-"reason": "named_as_amended",
-"detail": "named_as_amended:345726",
-"official_url": "https://www.sluzbenilist.me/propisi/344084"
 },
 {
 "id": 344088,
@@ -234973,13 +235267,6 @@
 "reason": "named_as_amended",
 "detail": "named_as_amended:341697,395299",
 "official_url": "https://www.sluzbenilist.me/propisi/344432"
-},
-{
-"id": 344434,
-"title": "Odluka o pokretanju postupka prodaje nepokretnosti",
-"reason": "named_as_amended",
-"detail": "named_as_amended:345733",
-"official_url": "https://www.sluzbenilist.me/propisi/344434"
 },
 {
 "id": 344435,
@@ -236829,7 +237116,7 @@
 "id": 345191,
 "title": "Uredba o načinu obrazovanja cijena električne energije",
 "reason": "named_as_amended",
-"detail": "named_as_amended:299471,348340,349393,350126",
+"detail": "named_as_amended:299471,349393,350126",
 "official_url": "https://www.sluzbenilist.me/propisi/345191"
 },
 {
@@ -236875,13 +237162,6 @@
 364967,
 362088
 ]
-},
-{
-"id": 345215,
-"title": "Odluka o proglašenju Biznis zone",
-"reason": "named_as_amended",
-"detail": "named_as_amended:345556",
-"official_url": "https://www.sluzbenilist.me/propisi/345215"
 },
 {
 "id": 345225,
@@ -238315,13 +238595,6 @@
 ]
 },
 {
-"id": 345792,
-"title": "Odluka o davanju u zakup zemljišta putem prikupljanja ponuda radi postavljanja privremenih objekata",
-"reason": "named_as_amended",
-"detail": "named_as_amended:342187,348080",
-"official_url": "https://www.sluzbenilist.me/propisi/345792"
-},
-{
 "id": 345794,
 "title": "Odluka o određivanju lokacije sa elementima urbanističko tehničkih uslova za izgradnju lokalnog objekta od opšteg interesa",
 "reason": "named_as_amended",
@@ -238601,7 +238874,7 @@
 "id": 345906,
 "title": "Odluka o boravišnoj taksi",
 "reason": "named_as_amended",
-"detail": "named_as_amended:310515,338931,343015,362089,366868",
+"detail": "named_as_amended:310515,338931,362089,366868,367814",
 "official_url": "https://www.sluzbenilist.me/propisi/345906"
 },
 {
@@ -239410,7 +239683,7 @@
 "id": 346312,
 "title": "Odluka o određivanju odbornika koji prisustvuju zaključenju braka",
 "reason": "named_as_amended",
-"detail": "named_as_amended:292850,341117,342902,349163,368965",
+"detail": "named_as_amended:292850,341117,349163,368965,379323",
 "official_url": "https://www.sluzbenilist.me/propisi/346312"
 },
 {
@@ -240884,7 +241157,7 @@
 "id": 346886,
 "title": "Odluka o komunalnom redu",
 "reason": "named_as_amended",
-"detail": "named_as_amended:322485,333094,339983,344046,345470",
+"detail": "named_as_amended:322485,333094,339983,345470,369283",
 "official_url": "https://www.sluzbenilist.me/propisi/346886"
 },
 {
@@ -241014,7 +241287,7 @@
 "id": 346934,
 "title": "Odluka o lokalnim komunalnim taksama",
 "reason": "named_as_amended",
-"detail": "named_as_amended:340374,342177,375122,375855,376459",
+"detail": "named_as_amended:340374,375122,375855,376459,377683",
 "official_url": "https://www.sluzbenilist.me/propisi/346934"
 },
 {
@@ -241728,7 +242001,7 @@
 "id": 347230,
 "title": "Odluka o boravišnoj taksi",
 "reason": "named_as_amended",
-"detail": "named_as_amended:310515,338931,343015,362089,366868",
+"detail": "named_as_amended:310515,338931,362089,366868,367814",
 "official_url": "https://www.sluzbenilist.me/propisi/347230"
 },
 {
@@ -243195,7 +243468,7 @@
 "id": 347782,
 "title": "Odluka o kućnom redu u stambenim zgradama",
 "reason": "named_as_amended",
-"detail": "named_as_amended:345298,362070,377401,379459",
+"detail": "named_as_amended:362070,377401,379459",
 "official_url": "https://www.sluzbenilist.me/propisi/347782"
 },
 {
@@ -243663,7 +243936,7 @@
 "id": 347948,
 "title": "Odluka o boravišnoj taksi",
 "reason": "named_as_amended",
-"detail": "named_as_amended:310515,315192,338931,343015,344349",
+"detail": "named_as_amended:310515,315192,338931,343015,347865",
 "official_url": "https://www.sluzbenilist.me/propisi/347948"
 },
 {
@@ -244425,6 +244698,16 @@
 "official_url": "https://www.sluzbenilist.me/propisi/348213"
 },
 {
+"id": 348214,
+"title": "Pravilnik o izmjeni i dopunama Pravilnika o bližim uslovima za izdavanje, obnavljanje, suspenziju i oduzimanje licence za obavljanje djelatnosti socijalne i dje",
+"reason": "amended_on_pis_text_not_fetched",
+"detail": "amended_on_pis_text_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/348214",
+"amended_by": [
+399851
+]
+},
+{
 "id": 348215,
 "title": "Odluka o dopunama Odluke o određivanju luka prema vrsti pomorskog saobraćaja",
 "reason": "amended_on_pis_text_not_fetched",
@@ -244814,13 +245097,6 @@
 "official_url": "https://www.sluzbenilist.me/propisi/348343"
 },
 {
-"id": 348354,
-"title": "Pravilnik o dopunama Pravilnika o minimalnim tehnickim uslovima za obavljanje prometa robe i vrsenje usluga u prometu robe",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348354"
-},
-{
 "id": 348355,
 "title": "Uredba o poreskim olaksicama za zaposljavanje odredjenih kategorija nezaposlenih lica",
 "reason": "scanned_pages",
@@ -244840,53 +245116,11 @@
 ]
 },
 {
-"id": 348357,
-"title": "Odluka o izmjenama Odluke o prenosu prava na gradskom gradjevinskom zemljistu Savezu samostalnih sindikata Crne Gore - Opstinskom sindikalnom povjerenistvu Bar",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348357"
-},
-{
-"id": 348358,
-"title": "Odluka o izmjenama i dopunama Odluke o osnivanju Društva sa ograničenom odgovornošću \"Parking servis Budva\" Budva",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348358"
-},
-{
-"id": 348359,
-"title": "Odluka o izdavanju doplate postanske marke \"100 godina prvog postanskog automobila u Evropi i Crnoj Gori\"",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348359"
-},
-{
 "id": 348360,
 "title": "Ispravka Odluke o davanju saglasnosti za razmjenu nepokretnosti između Glavnog grada-Podgorice, s jedne strane i privrednih društava \"Uniprom\" d.o.o. Nikšić i \"",
 "reason": "kind_not_built",
 "detail": "kind_not_built:Ispravka",
 "official_url": "https://www.sluzbenilist.me/propisi/348360"
-},
-{
-"id": 348364,
-"title": "ODLUKA O ORGANIZOVANJU JAVNE ZDRAVSTVENE USTANOVE DOM ZDRAVLJA ANDRIJEVICA",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348364"
-},
-{
-"id": 348365,
-"title": "Uredba o izmjenama i dopunama Uredbe o načinu isplate zarada, penzija i novčanih naknada po osnovu prava iz penzijsko-invalidskog osiguranja u RCG za decembar 1",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348365"
-},
-{
-"id": 348366,
-"title": "Uredba o izmjeni Uredbe o obaveznoj registraciji motornih vozila iz Republike Srpske Krajine i Republike Srpske",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348366"
 },
 {
 "id": 348367,
@@ -244896,25 +245130,11 @@
 "official_url": "https://www.sluzbenilist.me/propisi/348367"
 },
 {
-"id": 348368,
-"title": "Uputstvo o izmjeni Uputstva o sadržaju zahtjeva za isplatu i načinu realizacije isplate deviznih sredstava građana položenih kod Dafiment banke AD Beograd i ban",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348368"
-},
-{
 "id": 348369,
 "title": "",
 "reason": "kind_not_built",
 "detail": "kind_not_built:Neklasifikovan",
 "official_url": "https://www.sluzbenilist.me/propisi/348369"
-},
-{
-"id": 348370,
-"title": "Pravilnik o uslovima i nacinu pruzanja javnog servisa prenosa govora preko mreza baziranih na Internet protokolu",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348370"
 },
 {
 "id": 348371,
@@ -244934,47 +245154,12 @@
 "official_url": "https://www.sluzbenilist.me/propisi/348373"
 },
 {
-"id": 348374,
-"title": "Odluka o dopuni Odluke o utvrđivanju javnog interesa za nepotpunu eksproprijaciju nepokretnosti radi izgradnje stubne trafostanice 10/04 kv \"Pošćenski kraj III\"",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348374"
-},
-{
-"id": 348375,
-"title": "Pravilnik o izmjenama Pravilnika o tehničkim i metrološkim uslovima i postupku ovlašćivanja lica za pripremu vodomjera za ovjeravanje",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348375"
-},
-{
-"id": 348376,
-"title": "Odluka o izmjenama i dopuni Odluke o organizovanju Javne ustanove za smještaj djece i mladih bez roditeljskog staranja i djece čiji je razvoj ometen porodičnim ",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348376"
-},
-{
-"id": 348380,
-"title": "Odluka o izmjenama i dopunama Odluke o imenovanju dva člana u Skupštinu Zajedničkog uslužnog i koordinacionog društva za vodosnabdijevanje i odvođenje otpadih v",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348380"
-},
-{
 "id": 348381,
 "title": "Rjesenje o izmjeni Rjesenja o imenovanju clanova Upravnog odbora Javne ustanove \"Gradska biblioteka i citaonica\" Herceg Novi iz redova osnivaca",
 "reason": "articles_not_split",
 "detail": "articles_not_split",
 "official_url": "https://www.sluzbenilist.me/propisi/348381",
 "second_reading": "articles_not_split"
-},
-{
-"id": 348382,
-"title": "Odluka o ispunjenju uslova Luke Risan za otvoreni javni pomorski saobraćaj",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348382"
 },
 {
 "id": 348383,
@@ -244994,20 +245179,6 @@
 "official_url": "https://www.sluzbenilist.me/propisi/348384"
 },
 {
-"id": 348385,
-"title": "Uredba o izmjenama Uredbe o nacinu obrazovanja cijena derivata nafte",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348385"
-},
-{
-"id": 348389,
-"title": "Odluku o izmjeni i dopuni Odluke o broju sudija u Apelacionom sudu Republike Crne Gore i Upravnom sudu Republike Crne Gore",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348389"
-},
-{
 "id": 348390,
 "title": "Pravilnik o nacinu premjestanja nepropisno zaustavljenih, parkiranih ili ostavljenih vozila",
 "reason": "named_as_amended",
@@ -245023,34 +245194,6 @@
 "second_reading": "in_force_unread:danom donošenja, odnosno objavljivanja u \"Službenom listu RC"
 },
 {
-"id": 348392,
-"title": "Uredba o dodacima na zaradu drzavnih sluzbenika i namjestenika",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348392"
-},
-{
-"id": 348393,
-"title": "Poslovnik o radu Komisije za sprovođenje referenduma o državnom statusu Republike Crne Gore u Opstini Zabljak",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348393"
-},
-{
-"id": 348394,
-"title": "Poslovnik o radu Komisije za sprovođenje referenduma o državnom statusu Republike Crne Gore u Opstini Cetinje",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348394"
-},
-{
-"id": 348396,
-"title": "Odluka o obliku i sadrzaju zdravstvenog kartona za izbjegla i interno raseljena lica",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348396"
-},
-{
 "id": 348397,
 "title": "Pravilnik o dopunama Pravilnika o osposobljavanju pripravnika, stručnom ispitu i stručnom usavršavanju službenika",
 "reason": "amended_on_pis_text_not_fetched",
@@ -245059,27 +245202,6 @@
 "amended_by": [
 349705
 ]
-},
-{
-"id": 348398,
-"title": "Odluka o izmjeni Pravila o broju i trajanju emisija za ravnopravno predstavljanje kandidata za izbor predsjednika Republike i njihovih programa",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348398"
-},
-{
-"id": 348399,
-"title": "Odluka o davanju kontragarancije Srbiji i Crnoj Gori za uredno vracanje kredita EIB za projekat modernizacije aerodroma u Podgorici i Tivtu",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348399"
-},
-{
-"id": 348401,
-"title": "Odluka o organizovanju Javnog preduzeća RTV Crne Gore",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348401"
 },
 {
 "id": 348402,
@@ -245094,20 +245216,6 @@
 "reason": "kind_not_built",
 "detail": "kind_not_built:Neklasifikovan",
 "official_url": "https://www.sluzbenilist.me/propisi/348404"
-},
-{
-"id": 348405,
-"title": "Uredba o interventnom ispuštanju robe iz Republičkih robnih rezervi Crne Gore",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348405"
-},
-{
-"id": 348406,
-"title": "Pravilnik o izmjenama Pravilnika o visini i načinu dodjeljivanja nagrada za ulovljenu nezaštićenu divljač",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348406"
 },
 {
 "id": 348408,
@@ -245131,13 +245239,6 @@
 388144,
 396680
 ]
-},
-{
-"id": 348409,
-"title": "Pravilnik o postupku pregleda i ispitivanja radne sredine i oruđa za rad",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348409"
 },
 {
 "id": 348410,
@@ -245185,27 +245286,6 @@
 "official_url": "https://www.sluzbenilist.me/propisi/348415"
 },
 {
-"id": 348417,
-"title": "Odluka o izmjeni Odluke o osnivanju preduzeće \"Crnogorska plovidba\"",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348417"
-},
-{
-"id": 348418,
-"title": "Pravilnik o izmjeni i dopuni Pravilnika o obliku i sadržini izvještaja o plaćanju poreza po odbitku",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348418"
-},
-{
-"id": 348419,
-"title": "Odluka o sadržaju i načinu vođenja registra banaka i afilijacija stranih banaka",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348419"
-},
-{
 "id": 348421,
 "title": "Uredba o dopuni Uredbe o zastupniku Republike Crne Gore pred Evropskim sudom za ljudska prava",
 "reason": "amended_on_pis_text_not_fetched",
@@ -245232,34 +245312,6 @@
 ]
 },
 {
-"id": 348423,
-"title": "Uredba o izmjenama i dopunama Uredbe o prodaji akcija i imovine preduzeca putem javne aukcije",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348423"
-},
-{
-"id": 348424,
-"title": "Odluka o davanju saglasnosti na cijene elektricne energije",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348424"
-},
-{
-"id": 348425,
-"title": "Odluka o donosenju Urbanistickog projekta stambenih objekata HTP \"Budvanska rivijera\" - Rozino",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348425"
-},
-{
-"id": 348426,
-"title": "Odluka o vanrednoj emisiji Drzavnih zapisa",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348426"
-},
-{
 "id": 348427,
 "title": "Odluka o osnivanju Akreditacionog tijela Crne Gore",
 "reason": "amended_on_pis_text_not_fetched",
@@ -245277,13 +245329,6 @@
 "reason": "named_as_amended",
 "detail": "named_as_amended:306856,334688,335469,337169",
 "official_url": "https://www.sluzbenilist.me/propisi/348428"
-},
-{
-"id": 348429,
-"title": "Kolektivni ugovor za Strucnu sluzbu Crnogorske akademije nauka i umjetnosti",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348429"
 },
 {
 "id": 348431,
@@ -245342,34 +245387,6 @@
 ]
 },
 {
-"id": 348440,
-"title": "Pravilnik o utvrdjivanju osnovica za penzijsko i invalidsko osiguranje za svestenike i vjerske sluzbenike",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348440"
-},
-{
-"id": 348441,
-"title": "Pravilnik o utvrdjivanju osnovica za penzijsko i invalidsko osiguranje za lica zaposlena u inostranstvu",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348441"
-},
-{
-"id": 348442,
-"title": "Pravilnik o nacinu i postupaku evidencije udruzenja poslodavaca i blizim kriterijumima za utvrdjivanje reprezentativnosti ovlascenih udruzenja poslodavaca",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348442"
-},
-{
-"id": 348446,
-"title": "Uredba o interventnom ispustanju robe iz republickih robnih rezervi Crne Gore",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348446"
-},
-{
 "id": 348447,
 "title": "Odluka o kriterijumima, nacinu i postupku raspodjele sredstava nevladinim organizacijama",
 "reason": "named_as_amended",
@@ -245382,69 +245399,6 @@
 "reason": "named_as_amended",
 "detail": "named_as_amended:349595",
 "official_url": "https://www.sluzbenilist.me/propisi/348448"
-},
-{
-"id": 348449,
-"title": "Odluka o dopuni Liste ljekova koji se mogu propisivati i izdavati na teret sredstava Republičkog fonda za zdravstvo",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348449"
-},
-{
-"id": 348450,
-"title": "Odluka o posebnom programu privatizacije Javnog preduzeca \"Crna Gora Sume\"-Pljevlja",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348450"
-},
-{
-"id": 348451,
-"title": "Uredba o primjeni propisa o penzijskom i invalidskom osiguranju",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348451"
-},
-{
-"id": 348452,
-"title": "Uredba o izmjeni Uredbe o načinu obrazovanja cijena kuhinjske soli za ljudsku ishranu i industriju u vrijeme trajanja sankcija Savjeta bezbjednosti OUN.",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348452"
-},
-{
-"id": 348453,
-"title": "Uredba o izmjeni Uredbe o načinu obrazovanja cijena uglja za industrijsku i široku potrošnju u vrijeme trajanja sankcija Savjeta bezbjednosti OUN.",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348453"
-},
-{
-"id": 348454,
-"title": "Odluka o izmjeni Odluke o obliku i sadrzaju zdravstvene knjizice kojom se dokazuje svojstvo osiguranika Republickog fonda za zdravstvo",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348454"
-},
-{
-"id": 348455,
-"title": "Odluka o izmjeni Odluke o osnivanju Savjeta za opste obrazovanje",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348455"
-},
-{
-"id": 348458,
-"title": "Pravila o izmjenama Pravila o izdavanju \"investicionih jedinica\" privatizacionih fondova",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348458"
-},
-{
-"id": 348459,
-"title": "Pravila o izmjeni Pravila o transformaciji privatizacionih fondova u akcionarska društva",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348459"
 },
 {
 "id": 348461,
@@ -245461,25 +245415,11 @@
 "official_url": "https://www.sluzbenilist.me/propisi/348465"
 },
 {
-"id": 348466,
-"title": "Poslovnik o radu Republicke izborne komisije",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348466"
-},
-{
 "id": 348467,
 "title": "Uredba o izmjeni stope posebnog poreza na promet proizvoda",
 "reason": "named_as_amended",
 "detail": "named_as_amended:332899",
 "official_url": "https://www.sluzbenilist.me/propisi/348467"
-},
-{
-"id": 348469,
-"title": "Uredba o smanjenju visine kamatne stope koja se plaća na iznos poreza na promet koji nije uplaćen u zakonom propisanom roku",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348469"
 },
 {
 "id": 348470,
@@ -245496,46 +245436,11 @@
 "official_url": "https://www.sluzbenilist.me/propisi/348471"
 },
 {
-"id": 348476,
-"title": "Uredba o prestanku vazenja Uredbe o zajednickom vrsenju trzisne, sanitarne, veterinarske, poljoprivredne i ekoloske inspekcijske kontrole u spoljnotrgovinskom p",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348476"
-},
-{
-"id": 348477,
-"title": "Pravilnik o nacinu i postupku izricanja vaspitnih mjera za ucenike gimnazije",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348477"
-},
-{
-"id": 348478,
-"title": "Odluka o izdavanju prigodnog zlatnog kovanog novca",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348478"
-},
-{
 "id": 348479,
 "title": "Odluka o upravljanju deviznim rezervama",
 "reason": "named_as_amended",
 "detail": "named_as_amended:349567",
 "official_url": "https://www.sluzbenilist.me/propisi/348479"
-},
-{
-"id": 348480,
-"title": "Pravilnik o uslovima i postupku izdavanja uvjerenja o osposobljenosti za obavljanje javnog avio transporta (YU JAR-OPS 1)",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348480"
-},
-{
-"id": 348484,
-"title": "Uredba o načinu obračunavanja i plaćanja poreza na promet duvanskih prerađevina, alkoholnih pića i kafe",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348484"
 },
 {
 "id": 348487,
@@ -245552,48 +245457,6 @@
 "official_url": "https://www.sluzbenilist.me/propisi/348488"
 },
 {
-"id": 348489,
-"title": "Pravilnik o uskladjivanju iznosa oporezivog dohotka fizickih lica sa rastom cijena na malo za 2003. godinu",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348489"
-},
-{
-"id": 348490,
-"title": "Uredba o određivanju cijena telefonske pretplate.",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348490"
-},
-{
-"id": 348491,
-"title": "Uredba o izmjenama Uredbe o obaveznoj proizvodnji osnovnih vrsta hljeba iz brašna ,,T-500''(ili T-850) nabavljenog od republičke direkcije za robne rezerve.",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348491"
-},
-{
-"id": 348492,
-"title": "Uredba o izmjenama i dopunama Uredbe o određivanju najviših cijena mlijeka u vrijeme trajanja sankcija Savjeta bezbjednosti OUN.",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348492"
-},
-{
-"id": 348494,
-"title": "Uredba o dopunama Uredbe o organizaciji i nacinu rada drzavne uprave",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348494"
-},
-{
-"id": 348495,
-"title": "Uredba o dopunama Uredbe o organizaciji i nacinu rada drzavne uprave",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348495"
-},
-{
 "id": 348496,
 "title": "Pravilnik o polaganju strucnog ispita nastavnika",
 "reason": "amended_on_pis_text_not_fetched",
@@ -245605,39 +245468,11 @@
 ]
 },
 {
-"id": 348497,
-"title": "Odluka o izmjeni Odluke o platnom prometu u zemlji",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348497"
-},
-{
-"id": 348498,
-"title": "Pravilnik o kriterijumima i postupku za utvrdjivanje posebne naknade porodici u kojoj je lice smjesteno",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348498"
-},
-{
 "id": 348499,
 "title": "Pravilnik o sluzbenoj legitimaciji ovlascenih lica centra za socijalni rad",
 "reason": "scanned_pages",
 "detail": "scanned_pages",
 "official_url": "https://www.sluzbenilist.me/propisi/348499"
-},
-{
-"id": 348501,
-"title": "Odluka o izmjenama i dopunama Odluke o osnivanju centra za socijalni rad u SRCG.",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348501"
-},
-{
-"id": 348502,
-"title": "Uredba o oslobadjanju od placanja poreza na promet upotrebljavanih putnickih i ostalih motornih vozila",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348502"
 },
 {
 "id": 348504,
@@ -245646,20 +245481,6 @@
 "detail": "last_article_not_in_force_clause",
 "official_url": "https://www.sluzbenilist.me/propisi/348504",
 "second_reading": "in_force_unknown"
-},
-{
-"id": 348505,
-"title": "Odluka o preuzimanju upravljanja DP \"Slobodna carivska zona Bar\"",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348505"
-},
-{
-"id": 348507,
-"title": "Uredba o izmjeni Uredbe o privremenom uvođenju dodatnog poreza na promet proizvoda i usluga",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348507"
 },
 {
 "id": 348509,
@@ -245675,13 +245496,6 @@
 "reason": "scanned_pages",
 "detail": "scanned_pages",
 "official_url": "https://www.sluzbenilist.me/propisi/348510"
-},
-{
-"id": 348514,
-"title": "Pravilnik o visini i načinu plaćanja naknade za pregled i baždarenje čamaca, plovećih naprava, skela i plutajućih objekata",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/348514"
 },
 {
 "id": 348520,
@@ -246075,13 +245889,6 @@
 "official_url": "https://www.sluzbenilist.me/propisi/348665"
 },
 {
-"id": 348666,
-"title": "Pravila o broju i trajanju emisija za ravnopravno predstavljanje kandidata za izbor predsjednika Republike i njihovih programa",
-"reason": "named_as_amended",
-"detail": "named_as_amended:348398",
-"official_url": "https://www.sluzbenilist.me/propisi/348666"
-},
-{
 "id": 348667,
 "title": "UREDBA O DOPUNI UREDBE O ORGANIZACIJI I NAČINU RADA DRŽAVNE UPRAVE",
 "reason": "amended_on_pis_text_not_fetched",
@@ -246334,7 +246141,7 @@
 "id": 348748,
 "title": "Uredba o obavezi registracije motornih vozila iz bivših republika SFRJ koje nijesu u sastavu SRJ",
 "reason": "named_as_amended",
-"detail": "named_as_amended:345342,348712",
+"detail": "named_as_amended:348712",
 "official_url": "https://www.sluzbenilist.me/propisi/348748"
 },
 {
@@ -291867,7 +291674,7 @@
 "id": 378418,
 "title": "Odluka o imenovanju predsjednika i članova Savjeta za saradnju lokalne samouprave i nevladinih organizacija",
 "reason": "named_as_amended",
-"detail": "named_as_amended:320208,342761,348099,368622",
+"detail": "named_as_amended:320208,342761,368622",
 "official_url": "https://www.sluzbenilist.me/propisi/378418"
 },
 {

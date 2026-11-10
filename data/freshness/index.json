@@ -490,7 +490,7 @@
 "shard": "odluka/2009",
 "kind": "odluka",
 "file": "data/freshness/odluka/2009.csv",
-"acts": 656
+"acts": 657
 },
 {
 "shard": "odluka/2010",
@@ -508,7 +508,7 @@
 "shard": "odluka/2012",
 "kind": "odluka",
 "file": "data/freshness/odluka/2012.csv",
-"acts": 652
+"acts": 653
 },
 {
 "shard": "odluka/2013",
@@ -526,7 +526,7 @@
 "shard": "odluka/2015",
 "kind": "odluka",
 "file": "data/freshness/odluka/2015.csv",
-"acts": 1193
+"acts": 1194
 },
 {
 "shard": "odluka/2016",
@@ -544,7 +544,7 @@
 "shard": "odluka/2018",
 "kind": "odluka",
 "file": "data/freshness/odluka/2018.csv",
-"acts": 1201
+"acts": 1202
 },
 {
 "shard": "odluka/2019",
@@ -556,7 +556,7 @@
 "shard": "odluka/2020",
 "kind": "odluka",
 "file": "data/freshness/odluka/2020.csv",
-"acts": 1400
+"acts": 1401
 },
 {
 "shard": "odluka/2021",
@@ -568,7 +568,7 @@
 "shard": "odluka/2022",
 "kind": "odluka",
 "file": "data/freshness/odluka/2022.csv",
-"acts": 1504
+"acts": 1505
 },
 {
 "shard": "odluka/2023",
