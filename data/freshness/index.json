@@ -544,13 +544,13 @@
 "shard": "odluka/2018",
 "kind": "odluka",
 "file": "data/freshness/odluka/2018.csv",
-"acts": 1200
+"acts": 1201
 },
 {
 "shard": "odluka/2019",
 "kind": "odluka",
 "file": "data/freshness/odluka/2019.csv",
-"acts": 1423
+"acts": 1424
 },
 {
 "shard": "odluka/2020",
@@ -586,13 +586,13 @@
 "shard": "odluka/2025",
 "kind": "odluka",
 "file": "data/freshness/odluka/2025.csv",
-"acts": 1521
+"acts": 1525
 },
 {
 "shard": "odluka/2026",
 "kind": "odluka",
 "file": "data/freshness/odluka/2026.csv",
-"acts": 973
+"acts": 982
 },
 {
 "shard": "plan/2010",
@@ -1558,7 +1558,7 @@
 "shard": "rjesenje/2025",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2025.csv",
-"acts": 261
+"acts": 265
 },
 {
 "shard": "rjesenje/2026",
