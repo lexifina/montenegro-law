@@ -83574,6 +83574,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/320941"
 },
 {
+"slug": "rjesenje-2010-321004",
+"path": "rjesenje/2010/321004",
+"kind": "rjesenje",
+"year": "2010",
+"number": "321004",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rjesenje broj: 01/1829",
+"short": "Rjesenje broj: 01/1829",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-10-18",
+"latest": "2010-10-18",
+"portal": "https://www.sluzbenilist.me/propisi/321004"
+},
+{
 "slug": "odluka-2010-321005",
 "path": "odluka/2010/321005",
 "kind": "odluka",
@@ -83674,6 +83691,23 @@
 "from": "2010-01-29",
 "latest": "2010-01-29",
 "portal": "https://www.sluzbenilist.me/propisi/321434"
+},
+{
+"slug": "rjesenje-2010-321437",
+"path": "rjesenje/2010/321437",
+"kind": "rjesenje",
+"year": "2010",
+"number": "321437",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rjesenje broj: 01/1855/2",
+"short": "Rjesenje broj: 01/1855/2",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-10-19",
+"latest": "2010-10-19",
+"portal": "https://www.sluzbenilist.me/propisi/321437"
 },
 {
 "slug": "odluka-2010-321461",
@@ -99637,6 +99671,23 @@
 "from": "2011-04-13",
 "latest": "2011-04-13",
 "portal": "https://www.sluzbenilist.me/propisi/320860"
+},
+{
+"slug": "odluka-2011-320861",
+"path": "odluka/2011/320861",
+"kind": "odluka",
+"year": "2011",
+"number": "320861",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o usvajanju Dopunskog predloga za promjene Ustava Crne Gore",
+"short": "Odluka o usvajanju Dopunskog predloga za promjene Ustava Crne Gore",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2011-07-18",
+"latest": "2011-07-18",
+"portal": "https://www.sluzbenilist.me/propisi/320861"
 },
 {
 "slug": "odluka-2011-320862",
@@ -116790,6 +116841,23 @@
 "from": "2012-05-05",
 "latest": "2012-05-05",
 "portal": "https://www.sluzbenilist.me/propisi/321511"
+},
+{
+"slug": "rjesenje-2012-321513",
+"path": "rjesenje/2012/321513",
+"kind": "rjesenje",
+"year": "2012",
+"number": "321513",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o izdavanju licence za rad \"ju Srednja stručna škola - Pljevlja\"",
+"short": "Rješenje o izdavanju licence za rad \"ju Srednja stručna škola - Pljevlja\"",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-12-12",
+"latest": "2011-12-12",
+"portal": "https://www.sluzbenilist.me/propisi/321513"
 },
 {
 "slug": "odluka-2012-321597",
@@ -181494,6 +181562,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/320776"
 },
 {
+"slug": "rjesenje-2015-320844",
+"path": "rjesenje/2015/320844",
+"kind": "rjesenje",
+"year": "2015",
+"number": "320844",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o obrazovanju Odbora za planiranje i uređenje prostora Skupštine opštine Herceg Novi",
+"short": "Rješenje o obrazovanju Odbora za planiranje i uređenje prostora Skupštine opštine Herceg Novi",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-02-16",
+"latest": "2015-02-16",
+"portal": "https://www.sluzbenilist.me/propisi/320844"
+},
+{
 "slug": "odluka-2015-320845",
 "path": "odluka/2015/320845",
 "kind": "odluka",
@@ -181868,6 +181953,40 @@
 "portal": "https://www.sluzbenilist.me/propisi/321605"
 },
 {
+"slug": "odluka-2015-321709",
+"path": "odluka/2015/321709",
+"kind": "odluka",
+"year": "2015",
+"number": "321709",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću \"Ski centar - Hajla\"",
+"short": "Odluka o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću \"Ski centar - Hajla\"",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-11-13",
+"latest": "2015-11-13",
+"portal": "https://www.sluzbenilist.me/propisi/321709"
+},
+{
+"slug": "odluka-2015-321712",
+"path": "odluka/2015/321712",
+"kind": "odluka",
+"year": "2015",
+"number": "321712",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o konstituisanju založnog prava-hipoteke",
+"short": "Odluka o konstituisanju založnog prava-hipoteke",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-11-05",
+"latest": "2015-11-05",
+"portal": "https://www.sluzbenilist.me/propisi/321712"
+},
+{
 "slug": "odluka-2015-321713",
 "path": "odluka/2015/321713",
 "kind": "odluka",
@@ -181968,6 +182087,23 @@
 "from": "2015-07-09",
 "latest": "2015-07-09",
 "portal": "https://www.sluzbenilist.me/propisi/321833"
+},
+{
+"slug": "odluka-2015-321834",
+"path": "odluka/2015/321834",
+"kind": "odluka",
+"year": "2015",
+"number": "321834",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o donošenju Detaljnog urbanističkog plana \"Šavnik-jug’’",
+"short": "Odluka o donošenju Detaljnog urbanističkog plana \"Šavnik-jug’’",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-07-16",
+"latest": "2015-07-16",
+"portal": "https://www.sluzbenilist.me/propisi/321834"
 },
 {
 "slug": "odluka-2015-321843",
@@ -366570,6 +366706,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/320957"
 },
 {
+"slug": "odluka-2021-320958",
+"path": "odluka/2021/320958",
+"kind": "odluka",
+"year": "2021",
+"number": "320958",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o ostvarivanju rodne ravnopravnosti",
+"short": "Odluka o ostvarivanju rodne ravnopravnosti",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-04-24",
+"latest": "2021-04-24",
+"portal": "https://www.sluzbenilist.me/propisi/320958"
+},
+{
 "slug": "odluka-2021-320959",
 "path": "odluka/2021/320959",
 "kind": "odluka",
@@ -367063,6 +367216,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/321453"
 },
 {
+"slug": "pravilnik-2021-321487",
+"path": "pravilnik/2021/321487",
+"kind": "pravilnik",
+"year": "2021",
+"number": "321487",
+"withdrawn_by": null,
+"reason": null,
+"title": "Pravilnik o utvrđivanju disciplinske odgovornosti policijskih službenika",
+"short": "Pravilnik o utvrđivanju disciplinske odgovornosti policijskih službenika",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-09-09",
+"latest": "2021-09-09",
+"portal": "https://www.sluzbenilist.me/propisi/321487"
+},
+{
 "slug": "odluka-2021-321488",
 "path": "odluka/2021/321488",
 "kind": "odluka",
@@ -367112,6 +367282,23 @@
 "from": "2021-04-24",
 "latest": "2021-04-24",
 "portal": "https://www.sluzbenilist.me/propisi/321580"
+},
+{
+"slug": "odluka-2021-321639",
+"path": "odluka/2021/321639",
+"kind": "odluka",
+"year": "2021",
+"number": "321639",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o prenosu prava na nepokretnostima radi formiranja urbanističke parcele br. 2, u bloku br. 15 u skladu sa DUP-om \"Dubovica I \"",
+"short": "Odluka o prenosu prava na nepokretnostima radi formiranja urbanističke parcele br. 2, u bloku br. 15 u skladu sa DUP-om \"Dubovica I \"",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-04-24",
+"latest": "2021-04-24",
+"portal": "https://www.sluzbenilist.me/propisi/321639"
 },
 {
 "slug": "ugovor-2021-321640",
@@ -367316,6 +367503,23 @@
 "from": "2021-04-10",
 "latest": "2021-04-10",
 "portal": "https://www.sluzbenilist.me/propisi/321694"
+},
+{
+"slug": "odluka-2021-321699",
+"path": "odluka/2021/321699",
+"kind": "odluka",
+"year": "2021",
+"number": "321699",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o izboru etičke komisije za lokalne službenike i namještenike",
+"short": "Odluka o izboru etičke komisije za lokalne službenike i namještenike",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://www.sluzbenilist.me/propisi/321699"
 },
 {
 "slug": "odluka-2021-321700",
@@ -396762,6 +396966,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/321023"
 },
 {
+"slug": "odluka-2022-321027",
+"path": "odluka/2022/321027",
+"kind": "odluka",
+"year": "2022",
+"number": "321027",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o izboru Predsjednika Skupštine Ulcinj",
+"short": "Odluka o izboru Predsjednika Skupštine Ulcinj",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-06-03",
+"latest": "2022-06-03",
+"portal": "https://www.sluzbenilist.me/propisi/321027"
+},
+{
 "slug": "odluka-2022-321191",
 "path": "odluka/2022/321191",
 "kind": "odluka",
@@ -396930,6 +397151,23 @@
 "from": "2022-07-29",
 "latest": "2022-07-29",
 "portal": "https://www.sluzbenilist.me/propisi/321255"
+},
+{
+"slug": "rjesenje-2022-321256",
+"path": "rjesenje/2022/321256",
+"kind": "rjesenje",
+"year": "2022",
+"number": "321256",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o izdavanju licence Privatnoj ustanovi Srednja vjerska škola - Gimnazija \"Sveti Sava\" iz Podgorice",
+"short": "Rješenje o izdavanju licence Privatnoj ustanovi Srednja vjerska škola - Gimnazija \"Sveti Sava\" iz Podgorice",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-04-18",
+"latest": "2022-04-18",
+"portal": "https://www.sluzbenilist.me/propisi/321256"
 },
 {
 "slug": "rjesenje-2022-321257",
@@ -397117,6 +397355,40 @@
 "from": "2021-12-31",
 "latest": "2021-12-31",
 "portal": "https://www.sluzbenilist.me/propisi/321304"
+},
+{
+"slug": "odluka-2022-321307",
+"path": "odluka/2022/321307",
+"kind": "odluka",
+"year": "2022",
+"number": "321307",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o obustavljanju izvršenja Odluka o raspisivanju izbora za odbornike",
+"short": "Odluka o obustavljanju izvršenja Odluka o raspisivanju izbora za odbornike",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-08-02",
+"latest": "2022-08-02",
+"portal": "https://www.sluzbenilist.me/propisi/321307"
+},
+{
+"slug": "odluka-2022-321310",
+"path": "odluka/2022/321310",
+"kind": "odluka",
+"year": "2022",
+"number": "321310",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odlukao preuzimanju standarda odbrane, broj: 0704- 807/22 - 2215",
+"short": "Odlukao preuzimanju standarda odbrane, broj: 0704- 807/22 - 2215",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-03-23",
+"latest": "2022-03-23",
+"portal": "https://www.sluzbenilist.me/propisi/321310"
 },
 {
 "slug": "odluka-2022-321407",
