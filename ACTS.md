@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32507 acts, 32,509 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32509 acts, 32,511 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (881, of which 86 amending acts)
 
@@ -1150,7 +1150,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22322, of which 3140 amending acts)
+## odluka (22324, of which 3140 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -17325,6 +17325,7 @@
 | Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2240 | [`odluka/2022/310593/`](odluka/2022/310593/) | in force | 1 | 2022-03-23 | 2022-03-23 |
 | Odluka o davanju saglasnosti na rješenje predsjednika Opštine Ulcinj o prestanku mandata potpredsjednice Opštine | [`odluka/2022/310615/`](odluka/2022/310615/) | in force | 1 | 2022-06-27 | 2022-06-27 |
 | Odluka o izmjenama i dopunama Odluke o imenovanju predsjednika i članova Odbora za planiranje prostora, zaštitu životne sredine i komunalno stambenu djelatnost | [`odluka/2022/310617/`](odluka/2022/310617/) | amending act | 1 | 2022-07-19 | 2022-07-19 |
+| Odluka o imenovanju predsjednika i članova Odbora za društvene djelatnosti | [`odluka/2022/310643/`](odluka/2022/310643/) | in force | 1 | 2022-12-07 | 2022-12-07 |
 | Odluka o davanju saglasnosti na Finansijski plan i Plan rada Društva sa ograničenom odgovornošću "Agencija za razvoj i podršku poslovanju" Cetinje za 2022. godinu | [`odluka/2022/310674/`](odluka/2022/310674/) | in force | 1 | 2022-10-15 | 2022-10-15 |
 | Odluka o preuzimanju standarda odbrane | [`odluka/2022/310678/`](odluka/2022/310678/) | in force | 1 | 2022-01-19 | 2022-01-19 |
 | Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti, radi realizacije projekta izgradnje NDTS 10/0,4 KV, 1 X 630 KVA "Zlatica - Lakat" sa uklapanjem u SN i NN mrežu - KO Doljani, Glavni grad Podgorica | [`odluka/2022/310679/`](odluka/2022/310679/) | in force | 1 | 2022-07-20 | 2022-07-20 |
@@ -17930,6 +17931,7 @@
 | Odluka o davanju saglasnosti na Statut Društva sa ograničenom odgovornošću "Komunalno"Andrijevica | [`odluka/2022/328104/`](odluka/2022/328104/) | in force | 1 | 2022-01-25 | 2022-01-25 |
 | Odluka o usvajanju Godišnjeg izvještaja o radu predsjednika Opštine i radu organa lokalne uprave i službi Opštine Tivat za 2021. godinu | [`odluka/2022/328185/`](odluka/2022/328185/) | in force | 1 | 2022-06-25 | 2022-06-25 |
 | Odluka o davanju na upravljanje i korišćenje poslovnog prostora u zgradi "Nivel" JU Dnevnom centru za djecu i omladinu sa smetnjama i teškoćama u razvoju "Biseri" Budva | [`odluka/2022/328200/`](odluka/2022/328200/) | in force | 1 | 2022-05-14 | 2022-05-14 |
+| Odluka o imenovanju predsjednika i članova Odbora za društvene djelatnosti | [`odluka/2022/328214/`](odluka/2022/328214/) | in force | 1 | 2022-12-24 | 2022-12-24 |
 | Odluka o davanju saglasnosti na Odluku o dopuni Statuta Društva sa ograničenom odgovornošću "Komunalne usluge" Pljevlja | [`odluka/2022/328219/`](odluka/2022/328219/) | amending act | 1 | 2022-05-04 | 2022-05-04 |
 | Odluka o izgradnji lokalnog objekta od opšteg interesa - NDTS 10/0.4 KV 1X1000 kVa "Centurion" na kat.parc.br.566/3 KO Tivat sa priključnim 10 Kv vodom koji prolazi preko kat.parc.br.1034, 4881/1, 1009/1, 4893, 956, 959/1, 4892/1, 551/49, 551/1,551/52, 183/1, 183/2, 565/1, 566/4, 566/2 i 566/3 sve KO Tivat u zahvatu Izmjena i dopuna DSL-a "ARSENAL" ("Sl.list CG", br. 57/19), Detaljnog urbanističkog plana "Mažina" ("Sl.list CG-Opštinski propisi", br. 15/ 15) i Detaljnog urbanističkog plana »Seljanovo« ("Sl.list CG- Opštinski propisi", broj 37/13) | [`odluka/2022/328220/`](odluka/2022/328220/) | amending act | 1 | 2023-01-04 | 2023-01-04 |
 | Odluka o broju studenata za upis u prvu godinu master studija na Fakultetu za crnogorski jezik i književnost za studijsku 2022/2023. godinu koji se finansiraju iz budžeta Crne Gore | [`odluka/2022/328225/`](odluka/2022/328225/) | in force | 1 | 2022-09-20 | 2022-09-20 |
