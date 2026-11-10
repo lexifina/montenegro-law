@@ -1,8 +1,8 @@
 # Every act in this repository
 
-31726 acts, 31,728 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+31743 acts, 31,745 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
-## akt (877, of which 85 amending acts)
+## akt (878, of which 85 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -883,6 +883,7 @@
 | Lista blagovremenih i potpunih predloga kandidata za članove Savjeta Društva sa ograničenom odgovornošću Lokalni javni emiter "Radio Televizija Nikšić" | [`akt/2026/397745/`](akt/2026/397745/) | in force | 1 | 2026-09-11 | 2026-09-11 |
 | Završni račun Budžeta Opštine Bijelo Polje za 2025. godinu | [`akt/2026/397860/`](akt/2026/397860/) | in force | 1 | 2026-09-15 | 2026-09-15 |
 | Etički kodeks izabranih predstavnika i funkcionera u lokalnoj samoupravi Opštine Zeta | [`akt/2026/399516/`](akt/2026/399516/) | in force | 1 | 2026-11-03 | 2026-11-03 |
+| Metodologija za obračun i naplatu neovlašćeno preuzete električne energije | [`akt/2026/399771/`](akt/2026/399771/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 
 ## naredba (244, of which 41 amending acts)
 
@@ -1133,7 +1134,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (21885, of which 3119 amending acts)
+## odluka (21896, of which 3120 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -18323,9 +18324,12 @@
 | Odluka o imenovanju Savjeta Javne ustanove Centar za kulturu Kolašin | [`odluka/2023/324046/`](odluka/2023/324046/) | in force | 1 | 2023-02-08 | 2023-02-08 |
 | Odluka o usvajanju Plana i programa rada sa Finansijskim planom d.o.o. "Sportski centar Igalo" za 2023. godinu | [`odluka/2023/324063/`](odluka/2023/324063/) | in force | 1 | 2023-01-13 | 2023-01-13 |
 | Odluka o razrješenju odbora direktora d.o.o. "Vodovod i kanalizacija" Bar | [`odluka/2023/324083/`](odluka/2023/324083/) | in force | 1 | 2022-12-28 | 2022-12-28 |
+| Odluka o davanju saglasnosti na Program rada Javne ustanove Centar za podršku djeci i porodici za 2023.godinu | [`odluka/2023/324095/`](odluka/2023/324095/) | in force | 1 | 2023-02-02 | 2023-02-02 |
+| Odluka o davanju saglasnosti na Program rada Javne ustanove Centar za djecu i mlade sa smetnjama u razvoju "Tisa" za 2023. godinu | [`odluka/2023/324096/`](odluka/2023/324096/) | in force | 1 | 2023-02-02 | 2023-02-02 |
 | Odluka o usvajanju Programa obavljanja komunalnih djelatnosti za 2023. godinu D.O.O. ‘’Vodovod i kanalizacija‘’ Berane | [`odluka/2023/324107/`](odluka/2023/324107/) | in force | 1 | 2023-01-21 | 2023-01-21 |
 | Odluka o imenovanju Odbora direktora doo "Parking servis-Bijelo Polje" | [`odluka/2023/324109/`](odluka/2023/324109/) | in force | 1 | 2023-02-16 | 2023-02-16 |
 | Odluka o razrješenju Odbora direktora d.o.o. "Komunalne djelatnosti" Bar | [`odluka/2023/324113/`](odluka/2023/324113/) | in force | 1 | 2022-12-28 | 2022-12-28 |
+| Odluka o imenovanju Odbora za finansije i privredu | [`odluka/2023/324128/`](odluka/2023/324128/) | in force | 1 | 2022-12-27 | 2022-12-27 |
 | Odluka o usvajanju Elaborata o opravdanosti osnivanja opštinske ustanove kulture Javna ustanova Kotorsko pozorište za djecu i mlade | [`odluka/2023/324139/`](odluka/2023/324139/) | in force | 1 | 2023-02-08 | 2023-02-08 |
 | Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi realizacije projekta izgradnje elektroenergetske infrastrukture STS 10/0,4 kV 160 kVA "Brskut 3" sa priključnim dv 10 kV kablom i uklapanjem u . NN mrežu, u KO Brskut, Glavni grad Podgorica | [`odluka/2023/324143/`](odluka/2023/324143/) | in force | 1 | 2023-03-11 | 2023-03-11 |
 | Odluka o izmjeni Odluke o određivanju rukovodioca izrade izmjena i dopuna Prostorno-urbanističkog plana Opštine Ulcinj i visini naknade za rukovodioca i stručni tim za izradu izmjena i dopuna Prostorno-urbanističkog plana | [`odluka/2023/324145/`](odluka/2023/324145/) | amending act | 1 | 2023-02-24 | 2023-02-24 |
@@ -18333,6 +18337,8 @@
 | Odluka o izmjenama i dopunama Odluke o imenovanju predsjednika i članova odbora za statut i propise | [`odluka/2023/324162/`](odluka/2023/324162/) | amending act | 1 | 2022-12-21 | 2022-12-21 |
 | Odluka o dodjeli lovišta "Bar" na korišćenje | [`odluka/2023/324177/`](odluka/2023/324177/) | in force | 1 | 2023-02-03 | 2023-02-03 |
 | Odluka o imenovanju Savjeta JU Centar za kulturu "Vojislav Bulatović - Strunjo" | [`odluka/2023/324178/`](odluka/2023/324178/) | in force | 1 | 2023-02-16 | 2023-02-16 |
+| Odluka o finansiranju troškova prevoza u međugradskom saobraćaju za studente Opštine Šavnik za 2023.godinu | [`odluka/2023/324179/`](odluka/2023/324179/) | in force | 1 | 2023-02-02 | 2023-02-02 |
+| Odluka o potvrđivanju Odluke o upotrebi sredstava stalne budžetske rezerve | [`odluka/2023/324181/`](odluka/2023/324181/) | in force | 1 | 2023-01-21 | 2023-01-21 |
 | Odluka o imenovanju sekretara Opštinske izborne komisije | [`odluka/2023/324191/`](odluka/2023/324191/) | in force | 1 | 2023-02-06 | 2023-02-06 |
 | Odluka o izmjeni Statuta društva sa ograničenom odgovornošću "Lovstvo" Bar | [`odluka/2023/324197/`](odluka/2023/324197/) | in force | 1 | 2023-02-08 | 2023-02-08 |
 | Odluka o davanju saglasnosti na cijene za regulisane komunalne djelatnosti | [`odluka/2023/324209/`](odluka/2023/324209/) | in force | 1 | 2023-02-16 | 2023-02-16 |
@@ -23008,10 +23014,15 @@
 | Odluka o izmjenama i dopunama Statuta Agencije za zaštitu konkurencije | [`odluka/2026/399651/`](odluka/2026/399651/) | amending act | 1 | 2026-11-06 | 2026-11-06 |
 | Odluka o utvrđivanju javnog interesa radi eksproprijacije nepokretnosti u KO Gorovići na teritoriji Opštine Kotor i u KO Prijevor II KO Maine Opština Budva radi izgradnje obilaznice | [`odluka/2026/399686/`](odluka/2026/399686/) | in force | 1 | 2026-10-31 | 2026-10-31 |
 | Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti u KO Arbneš na teritoriji Opštine Bar, i u KO Brajša na teritoriji Opštine Ulcinj, radi rekonstrukcije regionalnog puta Vladimir- Ostros | [`odluka/2026/399687/`](odluka/2026/399687/) | in force | 1 | 2026-11-07 | 2026-11-07 |
+| Odluka o davanju saglasnosti na Statut Javne ustanove "Ratkovićeve večeri poezije" | [`odluka/2026/399706/`](odluka/2026/399706/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 | Odluka o raspodjeli sredstava za obezbjeđivanje uslova za sprovođenje mjera za uzgoj, zaštitu i lov divljači na teritoriji Opštine Bijelo Polje za 2026. godinu | [`odluka/2026/399708/`](odluka/2026/399708/) | in force | 1 | 2026-11-02 | 2026-11-02 |
 | Odluka o dodjeli subvencija za zakup stambenog prostora mladim bračnim parovima na teritoriji Opštine Bijelo Polje | [`odluka/2026/399709/`](odluka/2026/399709/) | in force | 1 | 2026-11-02 | 2026-11-02 |
 | Odluka o subvencionisanju rješavanja stambenog kredita za kupovinu prve nekretnine mladih bračnih parova na teritoriji Opštine Bijelo Polje | [`odluka/2026/399710/`](odluka/2026/399710/) | in force | 1 | 2026-11-02 | 2026-11-02 |
 | Odluka o raspodjeli dobiti za 2025. godinu DOO Vodovod "Bistrica" Bijelo Polje | [`odluka/2026/399711/`](odluka/2026/399711/) | in force | 1 | 2026-11-02 | 2026-11-02 |
+| Odluka o davanju saglasnosti na Odluku o povraćaju izuzetog zemljišta | [`odluka/2026/399712/`](odluka/2026/399712/) | in force | 1 | 2026-11-10 | 2026-11-10 |
+| Odluka o ustanovljavanju stvarne službenosti u korist CEDIS-a | [`odluka/2026/399713/`](odluka/2026/399713/) | in force | 1 | 2026-11-10 | 2026-11-10 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju biznis zona "Nedakusi", "Cerovo", "Vraneška dolina", "Bistrička dolina", "Rakonje-Ravna Rijeka" i "Ribarevine - Poda" | [`odluka/2026/399714/`](odluka/2026/399714/) | amending act | 1 | 2026-11-10 | 2026-11-10 |
+| Odluka o davanju saglasnosti na Odluku o prenosu prava susvojine Milošević Tarzanu | [`odluka/2026/399715/`](odluka/2026/399715/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 | Odluka o imenovanju direktora DOO "Komunalno - Lim" Bijelo Polje | [`odluka/2026/399717/`](odluka/2026/399717/) | in force | 1 | 2026-10-26 | 2026-10-26 |
 | Odluka o imenovanju direktora DOO "Parking servis Bijelo Polje" | [`odluka/2026/399718/`](odluka/2026/399718/) | in force | 1 | 2026-10-26 | 2026-10-26 |
 | Odluka o imenovanju direktora DOO Vodovod "Bistrica" Bijelo Polje | [`odluka/2026/399719/`](odluka/2026/399719/) | in force | 1 | 2026-10-26 | 2026-10-26 |
@@ -23019,6 +23030,7 @@
 | Odluka o razrješenju i imenovanju članice Savjeta za rodnu ravnopravnost | [`odluka/2026/399721/`](odluka/2026/399721/) | in force | 1 | 2026-10-26 | 2026-10-26 |
 | Odluka o izboru predsjednice i članova Savjeta za prava djeteta | [`odluka/2026/399722/`](odluka/2026/399722/) | in force | 1 | 2026-10-26 | 2026-10-26 |
 | Odluka o imenovanju predsjednice i članova Savjeta Javne ustanove "Avdo Međedović" Bijelo Polje | [`odluka/2026/399723/`](odluka/2026/399723/) | in force | 1 | 2026-10-26 | 2026-10-26 |
+| Odluka o obrazovanju Radne grupe za praćenje realizacije Programa reforme upravljanja javnim finansijama za period 2022-2026. godine | [`odluka/2026/399747/`](odluka/2026/399747/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 | Odluka, broj: 26/1297- 5 | [`odluka/2026/399768/`](odluka/2026/399768/) | in force | 1 | 2026-10-21 | 2026-10-21 |
 | Odluka, broj: 26/1382-6 | [`odluka/2026/399769/`](odluka/2026/399769/) | in force | 1 | 2026-10-21 | 2026-10-21 |
 | Odluka o izmjenama Odluke o obrazovanju Operativnog tima Partnerstva za otvorenu upravu | [`odluka/2026/399809/`](odluka/2026/399809/) | in force | 1 | 2026-11-04 | 2026-11-04 |
@@ -23206,7 +23218,7 @@
 | Poslovnik o radu Disciplinskog tužioca i Disciplinskog organa Inženjerske komore Crne Gore | [`poslovnik/2026/394183/`](poslovnik/2026/394183/) | in force | 1 | 2026-05-16 | 2026-05-16 |
 | Poslovnik Skupštine opštine Bijelo Polje | [`poslovnik/2026/397882/`](poslovnik/2026/397882/) | in force | 1 | 2026-09-15 | 2026-09-15 |
 
-## pravila (279, of which 53 amending acts)
+## pravila (281, of which 53 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -23214,6 +23226,7 @@
 | Pravila o određivanju i uređivanju biračkih mjesta, načinu ponašanja na biračkom mjestu i o mjerama kojima se obezbjeđuje tajnost glasanja | [`pravila/1996/363377/`](pravila/1996/363377/) | in force | 1 | 1996-08-06 | 1996-08-06 |
 | Pravila o broju i trajanju emisija, odnosno načinu i drugim uslovima ravnopravnog predstavljanja podnosilaca izbornih lista, kao i iznošenju i obrazlaganju izbornih programa | [`pravila/1996/363451/`](pravila/1996/363451/) | in force | 1 | 1996-08-04 | 1996-08-04 |
 | Pravila o određivanju i uređivanju biračkih mjesta i načinu ponašanja na biračkom mjestu i o mjerama kojima se obezbjeđuje tajnost glasanja | [`pravila/1997/296068/`](pravila/1997/296068/) | in force | 1 | 1997-07-31 | 1997-07-31 |
+| Pravila o unutrašnjem poslovanju i vođenju evidencija Državnog tužioca | [`pravila/1997/324184/`](pravila/1997/324184/) | in force | 1 | 1997-05-29 | 1997-05-29 |
 | Pravila o broju i trajanju emisija za ravnopravno predstavljanje kandidata za izbor predsjednika Republike i njihovih programa | [`pravila/1997/348666/`](pravila/1997/348666/) | in force | 1 | 1997-08-07 | 1997-08-07 |
 | PRAVILA O NAČINU OSTVARIVANJA PRAVA LICA KOJA PRATE RAD ORGANA ZA SPROVOĐENJE IZBORA | [`pravila/1998/295948/`](pravila/1998/295948/) | in force | 1 | 1998-04-11 | 1998-04-11 |
 | PRAVILA O ODREĐIVANJU I UREĐIVANJU BIRAČKIH MJESTA I NAČINU PONAŠANJA NA BIRAČKOM MJESTU I O MJERAMA KOJIMA SE OBEZBJEĐUJE TAJNOST GLASANJA | [`pravila/1998/296541/`](pravila/1998/296541/) | in force | 1 | 1998-04-11 | 1998-04-11 |
@@ -23489,8 +23502,9 @@
 | Pravila o izmjeni Pravila o regulatornom kapitalu društava za upravljanje otvorenim investicionim fondovima sa javnom ponudom | [`pravila/2026/399384/`](pravila/2026/399384/) | in force | 1 | 2026-10-30 | 2026-10-30 |
 | Pravila o izmjeni i dopuni Pravila o bližem sadržaju, rokovima dostavljanja mjesečnog, polugodišnjeg i godišnjeg izvještaja otvorenih investicionih fondova sa javnom ponudom | [`pravila/2026/399385/`](pravila/2026/399385/) | amending act | 1 | 2026-10-30 | 2026-10-30 |
 | Pravila za poravnanje razlike između opravdanih i ostvarenih prihoda i utvrđenih troškova između licenciranih operatora distributivnog sistema | [`pravila/2026/399555/`](pravila/2026/399555/) | in force | 1 | 2026-11-03 | 2026-11-03 |
+| Pravila za sprovođenje postupka otkrivanja, utvrđivanja i sprečavanja neovlašćenog korišćenja električne energije | [`pravila/2026/399770/`](pravila/2026/399770/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 
-## pravilnik (2860, of which 265 amending acts)
+## pravilnik (2863, of which 265 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -26354,6 +26368,9 @@
 | Pravilnik o praćenju zoonoza i uzročnika zoonoza* | [`pravilnik/2026/399698/`](pravilnik/2026/399698/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 | Pravilnik o detaljnim pravilima o postupcima koji se sprovode tokom i nakon dokumentacijskog, identifikacijskog i fizičkog pregleda životinja i robe koje podliježu službenim kontrolama na graničnim kontrolnim mjestima* | [`pravilnik/2026/399699/`](pravilnik/2026/399699/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 | Pravilnik o korišćenju i raspodjeli sredstava Inženjerske komore Crne Gore | [`pravilnik/2026/399701/`](pravilnik/2026/399701/) | in force | 1 | 2026-10-30 | 2026-10-30 |
+| Pravilnik o ujednačenom sprovođenju službenih kontrola proizvoda životinjskog porijekla namijenjenih ishrani ljudi* | [`pravilnik/2026/399750/`](pravilnik/2026/399750/) | in force | 1 | 2026-11-10 | 2026-11-10 |
+| Pravilnik o stručnoj kontroli i sertifikaciji u organskoj proizvodnji* | [`pravilnik/2026/399751/`](pravilnik/2026/399751/) | in force | 1 | 2026-11-10 | 2026-11-10 |
+| Pravilnik o bližem sadržaju, obrascu i načinu vođenja evidencije o izvršenim vještačenjima | [`pravilnik/2026/399767/`](pravilnik/2026/399767/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 
 ## proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj (1)
 

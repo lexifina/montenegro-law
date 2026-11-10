@@ -17,6 +17,21 @@
    ]
   },
   {
+   "slug": "akt-2026-399771",
+   "path": "akt/2026/399771",
+   "short": "Metodologija za obračun i naplatu neovlašćeno preuzete električne energije",
+   "title": "Metodologija za obračun i naplatu neovlašćeno preuzete električne energije",
+   "url": "https://www.sluzbenilist.me/propisi/399771",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.me/propisi/399771/download",
+     "sha256": "a882de1d8cc1049864688035a921fe488a2ed914a082e9646d1fbb123877e84a"
+    }
+   ]
+  },
+  {
    "slug": "naredba-2005-349293",
    "path": "naredba/2005/349293",
    "short": "Naredba o zabrani uvoza u Republiku Crnu Goru i provoza preko teritorije Republike Crne Gore posiljki ptica, proizvoda, sirovina i otpadaka radi sprijecavanja unosenja influence ptica",
@@ -4922,6 +4937,96 @@
    ]
   },
   {
+   "slug": "odluka-2026-399706",
+   "path": "odluka/2026/399706",
+   "short": "Odluka o davanju saglasnosti na Statut Javne ustanove \"Ratkovićeve večeri poezije\"",
+   "title": "Odluka o davanju saglasnosti na Statut Javne ustanove \"Ratkovićeve večeri poezije\"",
+   "url": "https://www.sluzbenilist.me/propisi/399706",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/399706/download",
+     "sha256": "ddc6607b37976d09180988c9ba0a780d97573e1bb11996cb236dd2dcdb1dd7fb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2026-399712",
+   "path": "odluka/2026/399712",
+   "short": "Odluka o davanju saglasnosti na Odluku o povraćaju izuzetog zemljišta",
+   "title": "Odluka o davanju saglasnosti na Odluku o povraćaju izuzetog zemljišta",
+   "url": "https://www.sluzbenilist.me/propisi/399712",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/399712/download",
+     "sha256": "0df8accafe2de24491a49721b70efce82c700957b82b602185c077adf6030e71"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2026-399713",
+   "path": "odluka/2026/399713",
+   "short": "Odluka o ustanovljavanju stvarne službenosti u korist CEDIS-a",
+   "title": "Odluka o ustanovljavanju stvarne službenosti u korist CEDIS-a",
+   "url": "https://www.sluzbenilist.me/propisi/399713",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/399713/download",
+     "sha256": "79bc76db71acc780caa749d35518d222e7549310cb72608402b890c196a955fd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2026-399714",
+   "path": "odluka/2026/399714",
+   "short": "Odluka o izmjenama i dopunama Odluke o osnivanju biznis zona \"Nedakusi\", \"Cerovo\", \"Vraneška dolina\", \"Bistrička dolina\", \"Rakonje-Ravna Rijeka\" i \"Ribarevine - Poda\"",
+   "title": "Odluka o izmjenama i dopunama Odluke o osnivanju biznis zona \"Nedakusi\", \"Cerovo\", \"Vraneška dolina\", \"Bistrička dolina\", \"Rakonje-Ravna Rijeka\" i \"Ribarevine - Poda\"",
+   "url": "https://www.sluzbenilist.me/propisi/399714",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/399714/download",
+     "sha256": "3b9090f8b6b08d41e129b84b875812818c022dab21e86c15714e7f15f887824a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2026-399715",
+   "path": "odluka/2026/399715",
+   "short": "Odluka o davanju saglasnosti na Odluku o prenosu prava susvojine Milošević Tarzanu",
+   "title": "Odluka o davanju saglasnosti na Odluku o prenosu prava susvojine Milošević Tarzanu",
+   "url": "https://www.sluzbenilist.me/propisi/399715",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/399715/download",
+     "sha256": "3723b94ac031efc672a755434b4694ed232a1f213327d69703ba8763e01f12e6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2026-399747",
+   "path": "odluka/2026/399747",
+   "short": "Odluka o obrazovanju Radne grupe za praćenje realizacije Programa reforme upravljanja javnim finansijama za period 2022-2026. godine",
+   "title": "Odluka o obrazovanju Radne grupe za praćenje realizacije Programa reforme upravljanja javnim finansijama za period 2022-2026. godine",
+   "url": "https://www.sluzbenilist.me/propisi/399747",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.me/propisi/399747/download",
+     "sha256": "c6c8f6e64cb732bfa238b453dcf8cfc00f85650b964f373fee3b7a02436678d9"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2026-399809",
    "path": "odluka/2026/399809",
    "short": "Odluka o izmjenama Odluke o obrazovanju Operativnog tima Partnerstva za otvorenu upravu",
@@ -5083,6 +5188,21 @@
      "units": 39,
      "source_url": "https://www.sluzbenilist.me/propisi/396535/download",
      "sha256": "743b1afacb39f100625ab63853bf7c2db2b2cf73ac3c79c9f27c30be09f68abb"
+    }
+   ]
+  },
+  {
+   "slug": "pravila-2026-399770",
+   "path": "pravila/2026/399770",
+   "short": "Pravila za sprovođenje postupka otkrivanja, utvrđivanja i sprečavanja neovlašćenog korišćenja električne energije",
+   "title": "Pravila za sprovođenje postupka otkrivanja, utvrđivanja i sprečavanja neovlašćenog korišćenja električne energije",
+   "url": "https://www.sluzbenilist.me/propisi/399770",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 37,
+     "source_url": "https://www.sluzbenilist.me/propisi/399770/download",
+     "sha256": "381660ecf24e5c8873b3784784410ddecb9257179454275fe14408d5baf4ddfd"
     }
    ]
   },
@@ -6733,6 +6853,51 @@
      "units": 11,
      "source_url": "https://www.sluzbenilist.me/propisi/399699/download",
      "sha256": "976c7fe465b8647fbad44b942b914b941004481ce55c81d450c614d19a88688d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-399750",
+   "path": "pravilnik/2026/399750",
+   "short": "Pravilnik o ujednačenom sprovođenju službenih kontrola proizvoda životinjskog porijekla namijenjenih ishrani ljudi*",
+   "title": "Pravilnik o ujednačenom sprovođenju službenih kontrola proizvoda životinjskog porijekla namijenjenih ishrani ljudi*",
+   "url": "https://www.sluzbenilist.me/propisi/399750",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 85,
+     "source_url": "https://www.sluzbenilist.me/propisi/399750/download",
+     "sha256": "69b88089d6fb92eebf861199dd3b83a02a97eb1ed83baf75077590c9b7960fae"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-399751",
+   "path": "pravilnik/2026/399751",
+   "short": "Pravilnik o stručnoj kontroli i sertifikaciji u organskoj proizvodnji*",
+   "title": "Pravilnik o stručnoj kontroli i sertifikaciji u organskoj proizvodnji*",
+   "url": "https://www.sluzbenilist.me/propisi/399751",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 21,
+     "source_url": "https://www.sluzbenilist.me/propisi/399751/download",
+     "sha256": "60efb5912aa1c991868d519b418c5a930ee3cba3810db5e1e9de643dda2e1e47"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-399767",
+   "path": "pravilnik/2026/399767",
+   "short": "Pravilnik o bližem sadržaju, obrascu i načinu vođenja evidencije o izvršenim vještačenjima",
+   "title": "Pravilnik o bližem sadržaju, obrascu i načinu vođenja evidencije o izvršenim vještačenjima",
+   "url": "https://www.sluzbenilist.me/propisi/399767",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/399767/download",
+     "sha256": "5ce76d18a2b856478c084ed067f08acdd3ad26c0c310b8557fd90e3f317ca94f"
     }
    ]
   },
@@ -11312,6 +11477,81 @@
    ]
   },
   {
+   "slug": "odluka-2023-324095",
+   "path": "odluka/2023/324095",
+   "short": "Odluka o davanju saglasnosti na Program rada Javne ustanove Centar za podršku djeci i porodici za 2023.godinu",
+   "title": "Odluka o davanju saglasnosti na Program rada Javne ustanove Centar za podršku djeci i porodici za 2023.godinu",
+   "url": "https://www.sluzbenilist.me/propisi/324095",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/324095/download",
+     "sha256": "a81d58a76a9db9453c91447730d67a67048b90fea40df1c7a96a06615e3c3502"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-324096",
+   "path": "odluka/2023/324096",
+   "short": "Odluka o davanju saglasnosti na Program rada Javne ustanove Centar za djecu i mlade sa smetnjama u razvoju \"Tisa\" za 2023. godinu",
+   "title": "Odluka o davanju saglasnosti na Program rada Javne ustanove Centar za djecu i mlade sa smetnjama u razvoju \"Tisa\" za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/324096",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/324096/download",
+     "sha256": "b05cb5ea0f8ab807b5c3535652e5139383fe6674342ff981c74ca86907bf184a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-324128",
+   "path": "odluka/2023/324128",
+   "short": "Odluka o imenovanju Odbora za finansije i privredu",
+   "title": "Odluka o imenovanju Odbora za finansije i privredu",
+   "url": "https://www.sluzbenilist.me/propisi/324128",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/324128/download",
+     "sha256": "d7bfea5cfbf1797d8e28b0db529352bca163fd7a7eb41b2800aa2a57db8c8daf"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-324179",
+   "path": "odluka/2023/324179",
+   "short": "Odluka o finansiranju troškova prevoza u međugradskom saobraćaju za studente Opštine Šavnik za 2023.godinu",
+   "title": "Odluka o finansiranju troškova prevoza u međugradskom saobraćaju za studente Opštine Šavnik za 2023.godinu",
+   "url": "https://www.sluzbenilist.me/propisi/324179",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/324179/download",
+     "sha256": "e404c5641a126087892519b42c0443032573dbe6d542cebf7658dc59f116af18"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-324181",
+   "path": "odluka/2023/324181",
+   "short": "Odluka o potvrđivanju Odluke o upotrebi sredstava stalne budžetske rezerve",
+   "title": "Odluka o potvrđivanju Odluke o upotrebi sredstava stalne budžetske rezerve",
+   "url": "https://www.sluzbenilist.me/propisi/324181",
+   "versions": [
+    {
+     "from": "2023-01-21",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/324181/download",
+     "sha256": "d7d698db0fb9a32cca82ce9901e17b00b232cbee5ca0af03243dd741dc060d6a"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2023-332380",
    "path": "odluka/2023/332380",
    "short": "Odluka o davanju saglasnosti na Program rada Javne ustanove Muzej Bijelo Polje za 2023. godinu",
@@ -13453,6 +13693,21 @@
      "units": 23,
      "source_url": "https://www.sluzbenilist.me/propisi/339447/download",
      "sha256": "2cf667d82683dc7cd30cfddddb6fcc8570fd6337d9784875fd594ee90bf834a6"
+    }
+   ]
+  },
+  {
+   "slug": "pravila-1997-324184",
+   "path": "pravila/1997/324184",
+   "short": "Pravila o unutrašnjem poslovanju i vođenju evidencija Državnog tužioca",
+   "title": "Pravila o unutrašnjem poslovanju i vođenju evidencija Državnog tužioca",
+   "url": "https://www.sluzbenilist.me/propisi/324184",
+   "versions": [
+    {
+     "from": "1997-05-29",
+     "units": 99,
+     "source_url": "https://www.sluzbenilist.me/propisi/324184/download",
+     "sha256": "a1f0d558ce76aa3d0f24b150ae8392f119d47974d6e794cd63459e72d953f70b"
     }
    ]
   },

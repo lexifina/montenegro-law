@@ -1,4 +1,4 @@
-"""Montenegro: acts published in the Službeni list Crne Gore that no later act has amended, each as published.
+"""Montenegro: acts published in the Službeni list Crne Gore and in force, each as published.
 
 Reads only a local copy of the Official Gazette's legal information system (sluzbenilist.me, PIS):
   list/<type>/<page>.html.gz   listing pages (/propisi?type=0&act=<type>&page=<page>): title, status, issue
@@ -13,8 +13,14 @@ What becomes an act here: an act the PIS marks in force ("Važeći") whose page 
 dopune"), with a text layer in its PDF. Its one version is the text as published, dated by the PIS "Datum stupanja na
 snagu" (checked against the act's own final article when that names a day counted from publication).
 
+An act the PIS lists amending acts for ("Izmjene i/ili dopune") has no official consolidated text: it is published as
+enacted, with the status "amended, not consolidated" and those acts as amended_by ({ref, title, url}), in
+corpus.d/6N-<kind>-<year> parts (N: the reading that passed it, as for the 5N- parts) (2026-11-09). Every other act
+the listings mark in force and that is not published gets a row in the report too (kind not built, no longer in force
+by its own page, text not yet fetched), so none is dropped silently.
+
 An act is held back, not published, when (the reason goes to the report):
-- the PIS lists acts amending it, or a later act's title names it as amended, corrected (Ispravka) or repealed;
+- a later act's title names it as amended, corrected (Ispravka) or repealed and the PIS lists no amending act for it;
   (an act already published before such a title was read stays as published when listed with --kept, by decision;
   a naming act that appeared before this one, by its PIS publication day or else by its issue year, names an earlier
   act of the same title and does not hold it back: the version note lists it);
@@ -131,7 +137,21 @@ def meta(page: str) -> dict:
     mm = re.search(r"Donosilac propisa: (.*?) Vrsta propisa", t)
     out["donosilac"] = mm.group(1).strip() if mm else ""
     out["amended"] = "Izmjene i/ili dopune" in t
+    out["amended_by"] = page_section(page, "Izmjene i/ili dopune")
     return out
+
+
+def page_section(page: str, name: str) -> list:
+    """[id, title] of every act an act page links under its heading <h1>name</h1>, in page order (2026-11-09)."""
+    page = re.sub(r"<script.*?</script>", "", page, flags=re.S)
+    k = page.find(f">{name}</h1>")
+    if k < 0:
+        return []
+    block = page[k + len(name) + 6:]
+    stop = re.search(r"<h1|</main>", block)
+    block = block[:stop.start()] if stop else block
+    return [[int(i), norm(re.sub(r"<[^>]+>", " ", t))]
+            for i, t in re.findall(r'href="https://www\.sluzbenilist\.me/propisi/(\d+)"[^>]*>(.*?)</a>', block, re.S)]
 
 
 def page_meta(path: Path) -> dict:
@@ -161,6 +181,25 @@ def listing(src: Path):
     """Every listed act: (id, title, status, issue, type)."""
     for f in sorted((src / "list").glob("*/*.html.gz")):
         yield from listing_page(f)
+
+
+def issue_key(issue: str, i: int) -> tuple:
+    """Sort key of an act by its issue ("broj N/YYYY"), then its PIS id."""
+    m = re.search(r"broj\s+(\d+)\s*/\s*(\d{4})", issue)
+    return (int(m.group(2)), int(m.group(1)), i) if m else (0, 0, i)
+
+
+def list_items(f: Path) -> list:
+    """[id, status, issue, kind] for each act on a listing page, as the listing gives them (2026-11-09)."""
+    t = gzip.decompress(f.read_bytes()).decode("utf-8", "replace")
+    out = []
+    for m in LIST_ITEM.finditer(t):
+        rest = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", m.group(3))))
+        st = re.search(r"Status:\s*(\S+)", rest)
+        iz = re.search(r"Izdanje:\s*(.*?)\s*Registarski", rest)
+        vr = re.search(r"Vrsta propisa:\s*(.*?)\s*(?:Oblast:|Detaljnije|$)", rest)
+        out.append([int(m.group(1)), st.group(1) if st else "", iz.group(1) if iz else "", vr.group(1) if vr else ""])
+    return out
 
 
 def named_on(f: Path) -> list:
@@ -320,6 +359,12 @@ def split(paras: list[dict], is_law: bool, amending: bool = False, info: dict | 
         info["sig"] = [p["t"] for p in ps[sig:tail_from]]
     annex = [p["t"] for p in ps[tail_from:]]
     body = ps[:sig]
+    # 2026-11-10: a Latin text whose "ž" all but vanished while "č" and "š" are plentiful is a text layer whose font maps
+    # no "ž" ("dr avne" for "državne"): held back in every reading.
+    whole = " ".join(p["t"] for p in body)
+    cs = whole.count("č") + whole.count("š")
+    if cs >= 100 and whole.count("ž") * 40 < cs:
+        raise Hold("text_layer_wrong_glyphs:z_missing")
     units: dict[str, dict] = {}
     if not starts:
         lines = [p["t"] for p in body]
@@ -327,6 +372,12 @@ def split(paras: list[dict], is_law: bool, amending: bool = False, info: dict | 
             raise Hold("no_text")
         if any(re.search(r"(?:Član|Члан)\s+1\b", t) for t in lines):
             raise Hold("articles_not_split")
+        # 2026-11-10: a law always has articles; and an article heading that lost its "Č" ("lan 1") means the text layer
+        # dropped letters (here "ž": "dr avne"), which the glyph check does not see
+        if is_law and not amending:
+            raise Hold("articles_not_split:law_without_articles")
+        if any(re.match(r"\s*lan\s+\d+\s*[a-z]?\s*\.?\s*$", t) for t in lines):
+            raise Hold("text_layer_lost_glyphs:article_heading_without_C")
         units["tekst"] ={"label": "Tekst", "kind": "text", "text": "\n".join(lines) + "\n"}
     else:
         first = starts[0][0]
@@ -855,10 +906,15 @@ def main():
     used: set[str] = set()  # cache keys of listing pages, act pages and in-force readings used in this run
     named: dict[tuple[str, str], set[int]] = defaultdict(set)
     named_year: dict[int, int] = {}
+    listed_items: dict[int, tuple] = {}   # id: (listing status, listing kind)
+    issue_of: dict[int, str] = {}   # the issue each listed act was published in ("Službeni list Crne Gore, broj N/YYYY")
     for f in sorted((src / "list").glob("*/*.html.gz")):
         for st, rest, i, y in cached(cache, used, "list", f, named_on):
             named[(st, rest)].add(i)
             named_year[i] = max(named_year.get(i, 0), y)
+        for i, status, issue, vrsta in cached(cache, used, "items", f, list_items):
+            issue_of.setdefault(i, issue)
+            listed_items.setdefault(i, (status, vrsta))
 
     parts: dict[str, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
@@ -867,6 +923,7 @@ def main():
         if str(i) in exclude:
             continue
         title = ""
+        amended_by = []
         try:
             pf = src / "act" / str(i // 1000) / f"{i}.html.gz"
             m = cached(cache, used, "page", pf, page_meta)
@@ -877,8 +934,12 @@ def main():
                 raise Hold("rejected:" + str(rejects[str(i)])[:200])
             if not m["status"].startswith("Važe"):
                 raise Hold("not_in_force:" + m["status"])
-            if m["amended"]:
-                raise Hold("amended_on_pis")
+            # 2026-11-09 (Romania standard): an act the PIS lists amending acts for has no official consolidated text;
+            # it is published as enacted, labelled "amended, not consolidated", with those acts as amended_by.
+            # (a page that lists only the act itself there names no amending act: read as unamended). Oldest first, by
+            # the issue each was published in.
+            amended_by = sorted((x for x in m.get("amended_by") or [] if x[0] != i), key=lambda x: issue_key(
+                issue_of.get(x[0], ""), x[0]))
             if m["vrsta"] not in KINDS:
                 raise Hold("kind_not_built:" + m["vrsta"])
             kind, law_kind = KINDS[m["vrsta"]]
@@ -889,7 +950,7 @@ def main():
             if tm:
                 k = tail_key(tm.group(1), tm.group(2))
                 others = (named.get(k) or set()) - {i}
-                if others and str(i) not in kept:   # `kept`: on main before the naming title was read, by decision
+                if others and str(i) not in kept and not amended_by:   # `kept`: on main before the naming title was read, by decision
                     # A naming act published before this one names an earlier act of the same title, not this one:
                     # by its PIS publication day where its page is on hand, else by its issue year (the listing's).
                     earlier = {}
@@ -994,7 +1055,7 @@ def main():
             note = close_note
         if named_note:
             note = (note + " " if note else "") + named_note
-        part = f"{part_no}-{kind}-{year}"
+        part = f"{part_no + (10 if amended_by else 0)}-{kind}-{year}"
         parts[part]["laws"][slug] = {"label": label, "title": title, "kind": law_kind,
                                      "enacted": (day if close_how in ("adoption", "adoption+") else
                                                  close_how.split(":")[1] if close_how and ":" in close_how else
@@ -1005,7 +1066,38 @@ def main():
             "slug": slug, "short": title, "title": title, "url": PAGE.format(id=i), "first_law": slug,
             "earlier_laws": [],
             "versions": [{"from": day, "source_url": PDF.format(id=i), "sha256": doc["sha256"], "units": units,
-                          "credits": {}, **({"note": note} if note else {})}]})
+                          "credits": {}, **({"note": note} if note else {})}],
+            **({"label": "amended, not consolidated",
+                "amended_by": [{"ref": f"pis:{x}", "title": t + (f" ({issue_of[x]})" if issue_of.get(x) else ""),
+                                "url": PAGE.format(id=x)} for x, t in amended_by]} if amended_by else {})})
+    # 2026-11-09: every other act a listing marks in force gets a holds row too, so none is dropped silently: its page
+    # says it is no longer in force, it is of a kind not built here, or its text was not fetched (an act the PIS
+    # lists amending acts for: the fetch reads its PDF later; or a failed download).
+    have_pdf = set(pdfs)
+    for i, (lst, vrsta) in sorted(listed_items.items()):
+        if i in have_pdf or str(i) in exclude or not lst.startswith("Važe"):
+            continue
+        pf = src / "act" / str(i // 1000) / f"{i}.html.gz"
+        if not pf.exists():
+            if vrsta not in KINDS:
+                holds.append({"id": i, "title": "", "reason": "kind_not_built:" + (vrsta or "none")})
+            continue   # not fetched yet
+        m = cached(cache, used, "page", pf, page_meta)
+        title = norm(m.get("title", ""))[:160]
+        if "hold" in m:
+            reason = m["hold"]
+        elif not m["status"].startswith("Važe"):
+            reason = "not_in_force:" + m["status"]
+        elif m["vrsta"] not in KINDS:
+            reason = "kind_not_built:" + (m["vrsta"] or "none")
+        elif m["amended"] and any(x != i for x, _ in m.get("amended_by") or []):
+            reason = "amended_on_pis_text_not_fetched"
+        else:
+            reason = "pdf_not_fetched"
+        row = {"id": i, "title": title, "reason": reason}
+        if any(x != i for x, _ in m.get("amended_by") or []):
+            row["amended_by"] = [x for x, _ in m["amended_by"] if x != i]
+        holds.append(row)
     if cache is not None:
         tmp = Path(a.cache + ".tmp")
         cache = {k: v for k, v in cache.items() if k.endswith("|" + SELF) and (k in used or not k.startswith(
@@ -1017,6 +1109,9 @@ def main():
     written = []
     for name in sorted(parts):
         p = parts[name]
+        amended_part = name[0] == "6"
+        name_ = name
+        name = "5" + name[1:] if amended_part else name   # the reading rules of the 5x part of the same number
         p["acts"].sort(key=lambda x: x["slug"])
         p["sources"] = [{"name": "Službeni list Crne Gore (PIS): acts in force, as published",
                          "url": "https://www.sluzbenilist.me/propisi", "retrieved": a.retrieved,
@@ -1084,14 +1179,21 @@ def main():
                 "'Nakon n dana', 'u roku od n dana', a consent day ('danom davanja saglasnosti') and every other "
                 "wording keep the act held back, and so do two different adoption dates in its signature and "
                 "preamble."))
+        if amended_part:
+            p["decisions"][0] = (
+                "Acts the PIS marks in force (Važeći) whose page lists amending acts ('Izmjene i/ili dopune'). The "
+                "PIS publishes no consolidated texts, so each is published as enacted, as printed in the Službeni list "
+                "Crne Gore, with the status 'amended, not consolidated' and the acts its page lists as amended_by "
+                "(their official links); later titles naming an act of the same title do not hold it back. Every "
+                "other check on its text and in-force day is the one its reading below applies.")
         p["ai_use"] = ["none"]
-        f = PARTS / f"{name}.json"
+        f = PARTS / f"{name_}.json"
         body = json.dumps(p, ensure_ascii=False, indent=1) + "\n"
         if not f.exists() or f.read_text(encoding="utf-8") != body:
             tmp = f.with_suffix(".tmp")
             tmp.write_text(body, encoding="utf-8", newline="\n")
             replace(tmp, f)
-        pub = PARTS / f"{name}.PUBLISH"
+        pub = PARTS / f"{name_}.PUBLISH"
         line = (f"{len(p['acts'])} acts checked against the PIS record and the PDF text layer: status Važeći, no "
                 f"amending act, in-force day from the PIS (agreeing with the act's own clause where it has one), "
                 f"articles numbered in sequence.\n")
@@ -1103,9 +1205,13 @@ def main():
             line = (f"{len(p['acts'])} acts checked against the PIS record and the PDF text layer by the second "
                     f"reading: status Važeći, no amending act, articles numbered in sequence, in-force day from the "
                     f"PIS or the act's own in-force sentence (every such sentence agreeing).\n")
+        if amended_part:
+            line = line.rstrip("\n") + (" Each is amended by the acts its PIS page lists, and published as enacted, "
+                                        "labelled 'amended, not consolidated'.\n")
+            line = line.replace("no amending act, ", "")
         if not pub.exists() or pub.read_text(encoding="utf-8") != line:
             pub.write_text(line, encoding="utf-8", newline="\n")
-        written.append((name, len(p["acts"])))
+        written.append((name_, len(p["acts"])))
     if a.report:
         Path(a.report).write_text("".join(json.dumps(h, ensure_ascii=False) + "\n" for h in holds), encoding="utf-8")
     reasons = defaultdict(int)
