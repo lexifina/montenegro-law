@@ -662,6 +662,21 @@
    ]
   },
   {
+   "slug": "odluka-2013-313022",
+   "path": "odluka/2013/313022",
+   "short": "Odluka o zamjeni nepokretnosti",
+   "title": "Odluka o zamjeni nepokretnosti",
+   "url": "https://www.sluzbenilist.me/propisi/313022",
+   "versions": [
+    {
+     "from": "2013-11-27",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/313022/download",
+     "sha256": "754a6dc67564a0c1623311f0a75ba4328df1f70a36b2ea06f3e5792b6fd304ea"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2013-341920",
    "path": "odluka/2013/341920",
    "short": "Odluka o razmjeni nepokretnosti",
@@ -1082,6 +1097,36 @@
    ]
   },
   {
+   "slug": "odluka-2015-311530",
+   "path": "odluka/2015/311530",
+   "short": "Odluka o Etičkoj komisiji za izabrane predstavnike i funkcionere",
+   "title": "Odluka o Etičkoj komisiji za izabrane predstavnike i funkcionere",
+   "url": "https://www.sluzbenilist.me/propisi/311530",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 59,
+     "source_url": "https://www.sluzbenilist.me/propisi/311530/download",
+     "sha256": "51be77640bfd7f8a367308be18a6a01b5694272041ef889e37b9716fac92f415"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-312103",
+   "path": "odluka/2015/312103",
+   "short": "Odluka o donošenju Urbanističkog projekta \"Milovići\"",
+   "title": "Odluka o donošenju Urbanističkog projekta \"Milovići\"",
+   "url": "https://www.sluzbenilist.me/propisi/312103",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/312103/download",
+     "sha256": "16f3d34a9826ecbae60d07a9ef1c21b3a856aeea88b81c44f232b2b38d4e6583"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2015-314627",
    "path": "odluka/2015/314627",
    "short": "Odluka o donošenju Urbanističkog projekta \"Bogišići\"",
@@ -1397,6 +1442,21 @@
    ]
   },
   {
+   "slug": "odluka-2016-338741",
+   "path": "odluka/2016/338741",
+   "short": "Odluka o izmjeni i dopuni Odluke o određivanju ministarstava koja imaju državne sekretare",
+   "title": "Odluka o izmjeni i dopuni Odluke o određivanju ministarstava koja imaju državne sekretare",
+   "url": "https://www.sluzbenilist.me/propisi/338741",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/338741/download",
+     "sha256": "a139e3044e1cc4bb62dd288c0b844e7afd3b33093b27f27ec119cf8dbb40e8b8"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2016-339916",
    "path": "odluka/2016/339916",
    "short": "Odluka o načinu i postupku učešća lokalnog stanovništva u vršenju javnih poslova",
@@ -1573,6 +1633,21 @@
      "units": 15,
      "source_url": "https://www.sluzbenilist.me/propisi/347003/download",
      "sha256": "fad0fe5100528b15bb2c171f4317564f45fa4c029ffb22018d9e00e17f718783"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-310744",
+   "path": "odluka/2017/310744",
+   "short": "Odluka o imenovanju Žirija za dodjelu Nagrade \"20 Novembar\"",
+   "title": "Odluka o imenovanju Žirija za dodjelu Nagrade \"20 Novembar\"",
+   "url": "https://www.sluzbenilist.me/propisi/310744",
+   "versions": [
+    {
+     "from": "2017-05-20",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/310744/download",
+     "sha256": "b6ea23e97a083ccf36781b092db672263f72b7b598013c2dadd5a5a13e3dcd6f"
     }
    ]
   },
@@ -2582,6 +2657,36 @@
    ]
   },
   {
+   "slug": "odluka-2020-310236",
+   "path": "odluka/2020/310236",
+   "short": "Odluka o ostvarivanju rodne ravnopravnosti",
+   "title": "Odluka o ostvarivanju rodne ravnopravnosti",
+   "url": "https://www.sluzbenilist.me/propisi/310236",
+   "versions": [
+    {
+     "from": "2020-08-05",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/310236/download",
+     "sha256": "0bfa7d2a67c3257483e64c719a76387fd1c520dfac309b3347cb7630db0328f4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-312210",
+   "path": "odluka/2020/312210",
+   "short": "Odluka o imenovanju Odbora direktora Društva sa ograničenom odgovornošću \"Sportski centar Cetinje\"",
+   "title": "Odluka o imenovanju Odbora direktora Društva sa ograničenom odgovornošću \"Sportski centar Cetinje\"",
+   "url": "https://www.sluzbenilist.me/propisi/312210",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/312210/download",
+     "sha256": "50dac67f110012b4f9407a4ad5a2fe992511ff4b6a3bf1f76d87cc106485c332"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2020-314105",
    "path": "odluka/2020/314105",
    "short": "Odluka o kupovini nepokretnosti",
@@ -2863,6 +2968,36 @@
      "units": 8,
      "source_url": "https://www.sluzbenilist.me/propisi/377342/download",
      "sha256": "a90c9ea5800ed406f0299f083d4c24d6e9cfe426d233b0e82bd3e6bc5087e772"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2021-311248",
+   "path": "odluka/2021/311248",
+   "short": "Odluka o osnivanju Savjeta za sport",
+   "title": "Odluka o osnivanju Savjeta za sport",
+   "url": "https://www.sluzbenilist.me/propisi/311248",
+   "versions": [
+    {
+     "from": "2021-04-03",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/311248/download",
+     "sha256": "dcea3fb207c265e2c2900a151f3de925dd75346e59b229d02b2a990a3fc70aa2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2021-312459",
+   "path": "odluka/2021/312459",
+   "short": "Odluka o prenosu prava raspolaganja na građevinskom zemljištu",
+   "title": "Odluka o prenosu prava raspolaganja na građevinskom zemljištu",
+   "url": "https://www.sluzbenilist.me/propisi/312459",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/312459/download",
+     "sha256": "763d139fbab5e03c3c671e280268548180a7876596186ab07bb50c17d4881d1c"
     }
    ]
   },
@@ -3283,6 +3418,21 @@
      "units": 57,
      "source_url": "https://www.sluzbenilist.me/propisi/345988/download",
      "sha256": "e62d73e4ddeb6079eff01bbf8a8dbdbb629bbac1e895ae946274f8363907ffbc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-310443",
+   "path": "odluka/2022/310443",
+   "short": "Odluka o imenovanju Odbora direktora Društva sa ograničenom odgovornošću \"Komunalno\" Cetinje",
+   "title": "Odluka o imenovanju Odbora direktora Društva sa ograničenom odgovornošću \"Komunalno\" Cetinje",
+   "url": "https://www.sluzbenilist.me/propisi/310443",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/310443/download",
+     "sha256": "73f04cd9dabf67ed7653dcb727cc2e99fe84544f1aecda7fe369b74ce8a39e82"
     }
    ]
   },
@@ -6242,6 +6392,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2017-312182",
+   "path": "pravilnik/2017/312182",
+   "short": "Pravilnik o programu obuke za posrednike",
+   "title": "Pravilnik o programu obuke za posrednike",
+   "url": "https://www.sluzbenilist.me/propisi/312182",
+   "versions": [
+    {
+     "from": "2017-12-16",
+     "units": 22,
+     "source_url": "https://www.sluzbenilist.me/propisi/312182/download",
+     "sha256": "32cfb72a2dc2b8eb0bc18976fa6b97f260e32af0296ffb3f1a184b1f1f0e74c3"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2017-315165",
    "path": "pravilnik/2017/315165",
    "short": "Pravilnik o bližem načinu vršenja inspekcijskog nadzora u oblasti odbrane",
@@ -7592,6 +7757,21 @@
    ]
   },
   {
+   "slug": "rjesenje-2018-311152",
+   "path": "rjesenje/2018/311152",
+   "short": "Rješenje o određivanju odbornika Skupštine Prijestonice Cetinje koji će prisustvovati sklapanju braka",
+   "title": "Rješenje o određivanju odbornika Skupštine Prijestonice Cetinje koji će prisustvovati sklapanju braka",
+   "url": "https://www.sluzbenilist.me/propisi/311152",
+   "versions": [
+    {
+     "from": "2018-04-13",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311152/download",
+     "sha256": "e8837b071426bbe8ed872d36d77eef11473ff7140fc6e787b4d5ca0496612d57"
+    }
+   ]
+  },
+  {
    "slug": "rjesenje-2019-378506",
    "path": "rjesenje/2019/378506",
    "short": "Rješenje o imenovanju odbora direktora agencije za stambeno - poslovni fond doo Pljevlja",
@@ -7888,6 +8068,21 @@
      "units": 5,
      "source_url": "https://www.sluzbenilist.me/propisi/337496/download",
      "sha256": "58994cbbb54c3bd9a4c57b468d1bb521d583b82584491f4478b0597dd155c193"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2016-311823",
+   "path": "uredba/2016/311823",
+   "short": "Uredba o Tarifi javnih izvršitelja",
+   "title": "Uredba o Tarifi javnih izvršitelja",
+   "url": "https://www.sluzbenilist.me/propisi/311823",
+   "versions": [
+    {
+     "from": "2016-01-23",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.me/propisi/311823/download",
+     "sha256": "28caab1c31f88369b6e56334ce9b205e6372204725f4147ffb3fbad5b8c4c407"
     }
    ]
   },
@@ -9062,6 +9257,51 @@
    ]
   },
   {
+   "slug": "odluka-2015-310162",
+   "path": "odluka/2015/310162",
+   "short": "Odluka o zaduživanju Opštine Tivat za realizaciju Projekta vodosnadbijevanja i odvođenja otpadnih voda u primorskom regionu - Faza V",
+   "title": "Odluka o zaduživanju Opštine Tivat za realizaciju Projekta vodosnadbijevanja i odvođenja otpadnih voda u primorskom regionu - Faza V",
+   "url": "https://www.sluzbenilist.me/propisi/310162",
+   "versions": [
+    {
+     "from": "2015-12-05",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/310162/download",
+     "sha256": "922ab141fe2ae7b05cc47c3023d7cf1ec96a18925510e41e2292cdcee327c486"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-310546",
+   "path": "odluka/2015/310546",
+   "short": "Odluka o pristupanju izradi izmjena i dopuna Detaljnog urbanističkog plana \"Park\"",
+   "title": "Odluka o pristupanju izradi izmjena i dopuna Detaljnog urbanističkog plana \"Park\"",
+   "url": "https://www.sluzbenilist.me/propisi/310546",
+   "versions": [
+    {
+     "from": "2015-05-25",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/310546/download",
+     "sha256": "3f4d82a16d4311d60829c96522a0f35dede6ff7c7284d2d378e4b3973648fb28"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-310672",
+   "path": "odluka/2015/310672",
+   "short": "Odluka o imenovanju Žirija za dodjelu Nagrade \"30. septembar’’ za 2015. godinu",
+   "title": "Odluka o imenovanju Žirija za dodjelu Nagrade \"30. septembar’’ za 2015. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/310672",
+   "versions": [
+    {
+     "from": "2015-07-27",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/310672/download",
+     "sha256": "fa96b4816a87213f0bdab9ac1059646b605a3b593f0d19be8e8066e51afdb243"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2015-313179",
    "path": "odluka/2015/313179",
    "short": "Odluka o pristupanju Zajednici opština Crne Gore",
@@ -9403,6 +9643,36 @@
      "units": 5,
      "source_url": "https://www.sluzbenilist.me/propisi/347844/download",
      "sha256": "536f3ba40b014effc3f3afbbdb387166d4f9c4a056a2547613d97acc004ba2ff"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-310093",
+   "path": "odluka/2016/310093",
+   "short": "Odluka o pokretanju postupka prodaje i prenosu ovlašćenja",
+   "title": "Odluka o pokretanju postupka prodaje i prenosu ovlašćenja",
+   "url": "https://www.sluzbenilist.me/propisi/310093",
+   "versions": [
+    {
+     "from": "2016-10-21",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/310093/download",
+     "sha256": "4b143b5f1d5bd59904ad0eb50389d235d01c14d6b6287d49dced48dadad48b14"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-311002",
+   "path": "odluka/2016/311002",
+   "short": "Odluka o razrješenju četiri člana Odbora direktora d.o.o \"Vodovod i kanalizacija - Cetinje\"",
+   "title": "Odluka o razrješenju četiri člana Odbora direktora d.o.o \"Vodovod i kanalizacija - Cetinje\"",
+   "url": "https://www.sluzbenilist.me/propisi/311002",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/311002/download",
+     "sha256": "18d4a6a32b6cb8688617783dc6f8b87a9656d55487c322385ee1b5afb80c8b38"
     }
    ]
   },
@@ -9973,6 +10243,36 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.me/propisi/347889/download",
      "sha256": "50c2285bad4b74cc3947ae3bcb58b277ca1fbdaa97fb596abf8987456f3992b4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-312053",
+   "path": "odluka/2017/312053",
+   "short": "Odluka o davanju statusa spomen-obilježja spomen bisti narodnom heroju Đoku Pajkoviću",
+   "title": "Odluka o davanju statusa spomen-obilježja spomen bisti narodnom heroju Đoku Pajkoviću",
+   "url": "https://www.sluzbenilist.me/propisi/312053",
+   "versions": [
+    {
+     "from": "2017-09-30",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/312053/download",
+     "sha256": "2c832a49ec06b12b6758f1ee6866adfedfb0ef79f0f64814ad6fce95f5488cec"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-313071",
+   "path": "odluka/2017/313071",
+   "short": "Odluka o davanju saglasnosti na imenovanje Glavnog administratora Opštine Petnjica",
+   "title": "Odluka o davanju saglasnosti na imenovanje Glavnog administratora Opštine Petnjica",
+   "url": "https://www.sluzbenilist.me/propisi/313071",
+   "versions": [
+    {
+     "from": "2017-03-31",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/313071/download",
+     "sha256": "54b67d4fd1ce7df5bc283199244976fd563b90da62b0dae1529fbe1330bdbb3a"
     }
    ]
   },
@@ -10577,6 +10877,51 @@
    ]
   },
   {
+   "slug": "odluka-2018-311245",
+   "path": "odluka/2018/311245",
+   "short": "Odluka o imenovanju Savjeta za razvoj i zaštitu lokalne samouprave",
+   "title": "Odluka o imenovanju Savjeta za razvoj i zaštitu lokalne samouprave",
+   "url": "https://www.sluzbenilist.me/propisi/311245",
+   "versions": [
+    {
+     "from": "2018-02-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/311245/download",
+     "sha256": "3cf3211016b00f11bddb796503b7179dc2f5ca751dc7a5a89753368b5a15a8b1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-311657",
+   "path": "odluka/2018/311657",
+   "short": "Odluka o davanju saglasnosti na Statut JU Muzej i galerija Tivat",
+   "title": "Odluka o davanju saglasnosti na Statut JU Muzej i galerija Tivat",
+   "url": "https://www.sluzbenilist.me/propisi/311657",
+   "versions": [
+    {
+     "from": "2018-02-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/311657/download",
+     "sha256": "f3ab38d7eacf2f21930232bbf403d6ef57630b925df17a1517af8c75784c1fcd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-313084",
+   "path": "odluka/2018/313084",
+   "short": "Odluka o davanju saglasnosti na Odluka Upravnog odbora Javne ustanove Centar za sport i rekreaciju Bijelo Polje",
+   "title": "Odluka o davanju saglasnosti na Odluka Upravnog odbora Javne ustanove Centar za sport i rekreaciju Bijelo Polje",
+   "url": "https://www.sluzbenilist.me/propisi/313084",
+   "versions": [
+    {
+     "from": "2018-06-16",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/313084/download",
+     "sha256": "3b35e9c245706283623d95231d11002f7230a24b7c652520e331a1d280bd99b6"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2018-313494",
    "path": "odluka/2018/313494",
    "short": "Odluka o imenovanju Savjeta za saradnju lokalne samouprave i nevladinih organizacija",
@@ -11117,6 +11462,21 @@
    ]
   },
   {
+   "slug": "odluka-2019-312253",
+   "path": "odluka/2019/312253",
+   "short": "Odluka o davanju saglasnosti na Rješenje Predsjednika Opštine Kotor o razrješenju Ljiljane Popović Moškov funkcije Potpredsjednice Opštine Kotor",
+   "title": "Odluka o davanju saglasnosti na Rješenje Predsjednika Opštine Kotor o razrješenju Ljiljane Popović Moškov funkcije Potpredsjednice Opštine Kotor",
+   "url": "https://www.sluzbenilist.me/propisi/312253",
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/312253/download",
+     "sha256": "1065ec7e56a105401f318e7ca98cce9d03fb58611afbc97033c917505ae1168c"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2019-330017",
    "path": "odluka/2019/330017",
    "short": "Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele br. 2C1 u bloku 2C skladu sa DUP-om \"Babin do\"",
@@ -11612,6 +11972,81 @@
    ]
   },
   {
+   "slug": "odluka-2020-310256",
+   "path": "odluka/2020/310256",
+   "short": "Odluka o izboru Predsjednika Skupštine opštine Andrijevica",
+   "title": "Odluka o izboru Predsjednika Skupštine opštine Andrijevica",
+   "url": "https://www.sluzbenilist.me/propisi/310256",
+   "versions": [
+    {
+     "from": "2020-10-01",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/310256/download",
+     "sha256": "565784ac4958adf1ec7fee33aa14b2a73f9986395c7818869ab2afbd5c24f3d0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-310639",
+   "path": "odluka/2020/310639",
+   "short": "Odluku o davanju saglasnosti na Godišnji program obavljanja komunalnih djelatnosti DOO \"Komunalno\" Cetinje za 2021. godinu",
+   "title": "Odluku o davanju saglasnosti na Godišnji program obavljanja komunalnih djelatnosti DOO \"Komunalno\" Cetinje za 2021. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/310639",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/310639/download",
+     "sha256": "6de507a2bcf6fc89bcad2e817ab883db9e161cb4e20e554a5c3efa4c6d43637b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-310664",
+   "path": "odluka/2020/310664",
+   "short": "Odluka o imenovanju članova Odbora za međuoštinsku i međunarodnu saradnju",
+   "title": "Odluka o imenovanju članova Odbora za međuoštinsku i međunarodnu saradnju",
+   "url": "https://www.sluzbenilist.me/propisi/310664",
+   "versions": [
+    {
+     "from": "2020-10-14",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/310664/download",
+     "sha256": "ef999ec420f211d6f77b7e1985fb17a11d17d8576f4762e3adf025d932ea9398"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-312674",
+   "path": "odluka/2020/312674",
+   "short": "Odluka o potvrđivanju Odluke o setu ekonomskih mjera sa ciljem ublažavanja posledica po građane i privredu nastalih usled pandemije Kovid -19",
+   "title": "Odluka o potvrđivanju Odluke o setu ekonomskih mjera sa ciljem ublažavanja posledica po građane i privredu nastalih usled pandemije Kovid -19",
+   "url": "https://www.sluzbenilist.me/propisi/312674",
+   "versions": [
+    {
+     "from": "2020-06-20",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/312674/download",
+     "sha256": "8aecf0ca26a60eba6e0570862d5692b42a1b0686289ddb2d940946f5ab653a4c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-313124",
+   "path": "odluka/2020/313124",
+   "short": "Odluka o davanju saglasnosti \"Crnogorskom elektrodistributivnom sistemu\" d.o.o. Podgorica za zasnivanje stvarne službenosti radi polaganja NN podzemnog voda od TS 10/0,4 kV \"Košuta 1 i NKRO 6 na kat. parceli br. 1346/2 KO Cetinje I",
+   "title": "Odluka o davanju saglasnosti \"Crnogorskom elektrodistributivnom sistemu\" d.o.o. Podgorica za zasnivanje stvarne službenosti radi polaganja NN podzemnog voda od TS 10/0,4 kV \"Košuta 1 i NKRO 6 na kat. parceli br. 1346/2 KO Cetinje I",
+   "url": "https://www.sluzbenilist.me/propisi/313124",
+   "versions": [
+    {
+     "from": "2021-01-05",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/313124/download",
+     "sha256": "3814b1b6f79a3aa136e0ba6cb954abb27997ff99d9c089c3f9cd3c48b64c0d37"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2020-313344",
    "path": "odluka/2020/313344",
    "short": "Odluka o prenosu prava na nepokretnostima radi formiranja urbanističke parcele br. 60B u bloku 106 u skladu sa UP \"Ekskluzivni turistički kompleks Crvena Glavica\"",
@@ -12013,6 +12448,51 @@
      "units": 7,
      "source_url": "https://www.sluzbenilist.me/propisi/346577/download",
      "sha256": "07d8f3ab59b35a8d6f93de1a829f639812c7da5e55a2687b3ae053b129b25e8d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2021-310501",
+   "path": "odluka/2021/310501",
+   "short": "Odluka o izboru Etičke komisije za izabrane predstavnike i funkcionere",
+   "title": "Odluka o izboru Etičke komisije za izabrane predstavnike i funkcionere",
+   "url": "https://www.sluzbenilist.me/propisi/310501",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/310501/download",
+     "sha256": "dbc84b3834b644d66ae3174d4a6f9c845a8d2eb806360c601039f9477752ba81"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2021-310559",
+   "path": "odluka/2021/310559",
+   "short": "Odluka o vodosnabdijevanju od lokalnog značaja",
+   "title": "Odluka o vodosnabdijevanju od lokalnog značaja",
+   "url": "https://www.sluzbenilist.me/propisi/310559",
+   "versions": [
+    {
+     "from": "2021-02-15",
+     "units": 43,
+     "source_url": "https://www.sluzbenilist.me/propisi/310559/download",
+     "sha256": "8d69f9b4a2ea14b3f35817e0e6bbef6976e0289ef4051474e0b1408bca679776"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2021-311601",
+   "path": "odluka/2021/311601",
+   "short": "Odluka o produženju primjene Odluke o umanjenju iznosa zakupnine poslovnog prostora u vlasništvu Glavnog grada-Podgorica (\"Službeni list Crne Gore- Opštinski propisi\", br.47/20 od 31.12.2020)",
+   "title": "Odluka o produženju primjene Odluke o umanjenju iznosa zakupnine poslovnog prostora u vlasništvu Glavnog grada-Podgorica (\"Službeni list Crne Gore- Opštinski propisi\", br.47/20 od 31.12.2020)",
+   "url": "https://www.sluzbenilist.me/propisi/311601",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/311601/download",
+     "sha256": "35fff25cdd409e47fc7ede5b531bd9456d8f710c877a1df832d9c90e5f6887fb"
     }
    ]
   },
@@ -12433,6 +12913,126 @@
      "units": 7,
      "source_url": "https://www.sluzbenilist.me/propisi/347045/download",
      "sha256": "ab46da1ab453ba5196a3b3fbb6f22c4a49642e39fa736f190d7351934dc329aa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-310980",
+   "path": "odluka/2022/310980",
+   "short": "Odluka o donošenju Lokalnog plana socijalne i dječije zaštite za Opštinu Rožaje za period 2022 -2 026",
+   "title": "Odluka o donošenju Lokalnog plana socijalne i dječije zaštite za Opštinu Rožaje za period 2022 -2 026",
+   "url": "https://www.sluzbenilist.me/propisi/310980",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/310980/download",
+     "sha256": "45f8ee4c9e8792910a0248b81bcdebaa250da3b05055ce5131f8b4187f373c63"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-311315",
+   "path": "odluka/2022/311315",
+   "short": "Odluka o usvajanju Programa rada sa Finansijskim planom d.o.o. \"Parking servis Herceg Novi\" Herceg Novi za 2022.godinu",
+   "title": "Odluka o usvajanju Programa rada sa Finansijskim planom d.o.o. \"Parking servis Herceg Novi\" Herceg Novi za 2022.godinu",
+   "url": "https://www.sluzbenilist.me/propisi/311315",
+   "versions": [
+    {
+     "from": "2022-01-30",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/311315/download",
+     "sha256": "475891efb7505a7140162be40d12e7634783822d61c829d572cc9a06218232f2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-311450",
+   "path": "odluka/2022/311450",
+   "short": "Odluka o davanju saglasnosti na Program rada i finansijski plan Javne Ustanove Centar za djecu i mlade sa smetnjama u razvoju \"Tisa\" za 2022. Godinu",
+   "title": "Odluka o davanju saglasnosti na Program rada i finansijski plan Javne Ustanove Centar za djecu i mlade sa smetnjama u razvoju \"Tisa\" za 2022. Godinu",
+   "url": "https://www.sluzbenilist.me/propisi/311450",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/311450/download",
+     "sha256": "5adffc494d7747cc12f4535b0ef121df94123891446bc6ddadbb539d985f463f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-312078",
+   "path": "odluka/2022/312078",
+   "short": "Odluka o otkupu zemljišta - kat.parc. 2/30 K.O. Škaljari I radi dokompletiranja urbanističke parcele - formiranja lokacije za gradnju",
+   "title": "Odluka o otkupu zemljišta - kat.parc. 2/30 K.O. Škaljari I radi dokompletiranja urbanističke parcele - formiranja lokacije za gradnju",
+   "url": "https://www.sluzbenilist.me/propisi/312078",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/312078/download",
+     "sha256": "a9bec47465ad83e24046ababbaa6377bbd1466cdcd45b91b2d9398b81805fb87"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-312352",
+   "path": "odluka/2022/312352",
+   "short": "Odluka o izboru potpredsjednika Skupštine Prijestonice Cetinje",
+   "title": "Odluka o izboru potpredsjednika Skupštine Prijestonice Cetinje",
+   "url": "https://www.sluzbenilist.me/propisi/312352",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/312352/download",
+     "sha256": "f1f3e955236cdca888545122de53beaccc39e20b0847fe586addaa4c67bf33ef"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-312796",
+   "path": "odluka/2022/312796",
+   "short": "Odluka o imenovanju Odbornika koji prisustvuju zaključenju brakova",
+   "title": "Odluka o imenovanju Odbornika koji prisustvuju zaključenju brakova",
+   "url": "https://www.sluzbenilist.me/propisi/312796",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/312796/download",
+     "sha256": "949ed54f21f57b3b5937972ebbb0b237d758d835c47505d8662752563e49a9e8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-312982",
+   "path": "odluka/2022/312982",
+   "short": "Odluka o davanju saglasnosti na Statut Turističke organizacije Prijestonice Cetinje",
+   "title": "Odluka o davanju saglasnosti na Statut Turističke organizacije Prijestonice Cetinje",
+   "url": "https://www.sluzbenilist.me/propisi/312982",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/312982/download",
+     "sha256": "e5671503fac785a2dcf18581a00d71bd1092f439cd235ee9a6b7a3d256d84f34"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-313166",
+   "path": "odluka/2022/313166",
+   "short": "Odluka o prestanku mandata izvršnom direktoru DOO \"Vodovod i kanalizacija\" Berane",
+   "title": "Odluka o prestanku mandata izvršnom direktoru DOO \"Vodovod i kanalizacija\" Berane",
+   "url": "https://www.sluzbenilist.me/propisi/313166",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/313166/download",
+     "sha256": "2b37225401061d46d71cf840e6a565ed4f9d07cff3e4709a687dad872e2ec0d2"
     }
    ]
   },
@@ -13198,6 +13798,21 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.me/propisi/347955/download",
      "sha256": "285337e1d91fd954c1ea3e77f4bac0bba4cf35847d5f80cee24d663e14e2cf29"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-312411",
+   "path": "odluka/2023/312411",
+   "short": "Odluka o davanju saglasnosti na Program rada DOO Vodovod \"Bistrica\" Bijelo Polje za 2023. godinu",
+   "title": "Odluka o davanju saglasnosti na Program rada DOO Vodovod \"Bistrica\" Bijelo Polje za 2023. godinu",
+   "url": "https://www.sluzbenilist.me/propisi/312411",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/312411/download",
+     "sha256": "f6a6af993574ac3240d2eda7d7821fe2bfc8b76edc3d8bbba35149eaa8456943"
     }
    ]
   },
@@ -16097,6 +16712,36 @@
    ]
   },
   {
+   "slug": "rjesenje-2017-311905",
+   "path": "rjesenje/2017/311905",
+   "short": "Rješenje o razrješenju predsjednice Savjeta za zaštitu životne sredine",
+   "title": "Rješenje o razrješenju predsjednice Savjeta za zaštitu životne sredine",
+   "url": "https://www.sluzbenilist.me/propisi/311905",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/311905/download",
+     "sha256": "8f18caa641a9cf3dd4510228ac991ab9379afbc6147632cbfae0f4455c648ad2"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2017-312764",
+   "path": "rjesenje/2017/312764",
+   "short": "Rješenje o razrješenju i imenovanju člana odbora za budžet i finansije Skupštine opštine Herceg Novi",
+   "title": "Rješenje o razrješenju i imenovanju člana odbora za budžet i finansije Skupštine opštine Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/312764",
+   "versions": [
+    {
+     "from": "2017-10-11",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/312764/download",
+     "sha256": "a390617f468874563a554c9875dd67c7c33c9a2bbdf40ef0d11d673284414314"
+    }
+   ]
+  },
+  {
    "slug": "rjesenje-2017-313324",
    "path": "rjesenje/2017/313324",
    "short": "Rješenje o razrješenju i imenovanju člana odbora za društvene djelatnosti Skupštine opštine Herceg Novi",
@@ -16153,6 +16798,21 @@
      "units": 1,
      "source_url": "https://www.sluzbenilist.me/propisi/318498/download",
      "sha256": "33ac9daf74cae6dc0fe925b784b75bf12ff149639d36846c2cec38598982261a"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2017-321404",
+   "path": "rjesenje/2017/321404",
+   "short": "Rješenje o izdavanju licence",
+   "title": "Rješenje o izdavanju licence",
+   "url": "https://www.sluzbenilist.me/propisi/321404",
+   "versions": [
+    {
+     "from": "2017-11-06",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/321404/download",
+     "sha256": "3f7f21a760c234e912cce3c4214e81ea2999b3778876bd20fe9f42aab63211bc"
     }
    ]
   },
@@ -16442,6 +17102,21 @@
    ]
   },
   {
+   "slug": "rjesenje-2020-310574",
+   "path": "rjesenje/2020/310574",
+   "short": "Rješenje o imenovanju člana Savjeta za davanje predloga naziva naselja, ulica i trgova i podizanje spomen obilježja",
+   "title": "Rješenje o imenovanju člana Savjeta za davanje predloga naziva naselja, ulica i trgova i podizanje spomen obilježja",
+   "url": "https://www.sluzbenilist.me/propisi/310574",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/310574/download",
+     "sha256": "fe8cd986f1c268b4f66d5911b156aa731a4d4f1d1b18e6fbe1123663bb9b746e"
+    }
+   ]
+  },
+  {
    "slug": "rjesenje-2020-313535",
    "path": "rjesenje/2020/313535",
    "short": "Rješenje o obrazovanju Odbora za Statut i propise Skupštine opštine Herceg Novi",
@@ -16528,6 +17203,36 @@
      "units": 1,
      "source_url": "https://www.sluzbenilist.me/propisi/327979/download",
      "sha256": "42985f1811136d81cbcc9cb0224cb9d86a8ca3661d3b8203969b2e62aa9b7d26"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2021-311080",
+   "path": "rjesenje/2021/311080",
+   "short": "Rješenje o izboru članova Skupštine Turističke organizacije Opštine Herceg Novi",
+   "title": "Rješenje o izboru članova Skupštine Turističke organizacije Opštine Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/311080",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/311080/download",
+     "sha256": "d6086ec4c754c8f45bbf1f8e2893f5cda8a049988f877ec693997611c81e2a5c"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2021-311503",
+   "path": "rjesenje/2021/311503",
+   "short": "Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću \"Čistoća\" Herceg Novi",
+   "title": "Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću \"Čistoća\" Herceg Novi",
+   "url": "https://www.sluzbenilist.me/propisi/311503",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/311503/download",
+     "sha256": "a0e3465e3118a1f3435835e6d7c01aafbf8afb19439b4ed1792411f9982c3a30"
     }
    ]
   },
@@ -18062,6 +18767,36 @@
    ]
   },
   {
+   "slug": "odluka-2016-310410",
+   "path": "odluka/2016/310410",
+   "short": "Odluka o imenovanju Etičke komisije za lokalne službenike i namještenike",
+   "title": "Odluka o imenovanju Etičke komisije za lokalne službenike i namještenike",
+   "url": "https://www.sluzbenilist.me/propisi/310410",
+   "versions": [
+    {
+     "from": "2017-01-06",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/310410/download",
+     "sha256": "38d6c8afaffcedb2ef38ca12f97a8a439e6d8a07ec42ae0469d849c5fa6e77fd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-312140",
+   "path": "odluka/2016/312140",
+   "short": "Odluka o potvrđivanju Odluke Predsjednika Opštine o davanju poslovnog prostora u suterenu I faze Tržnog centra za potrebe pijačne prodaje Skupština Opštine Žabljak",
+   "title": "Odluka o potvrđivanju Odluke Predsjednika Opštine o davanju poslovnog prostora u suterenu I faze Tržnog centra za potrebe pijačne prodaje Skupština Opštine Žabljak",
+   "url": "https://www.sluzbenilist.me/propisi/312140",
+   "versions": [
+    {
+     "from": "2016-11-04",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/312140/download",
+     "sha256": "d63e3dcf72804cef6a25f45420c91556d7941993489e82f9cdbccde09c928b75"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2016-314188",
    "path": "odluka/2016/314188",
    "short": "Odluka o davanju Saglasnosti na izmjenu Pravilnika o unutrašnjoj organizaciji i sistematizaciji radnih mjesta JU Dnevni Centar za djecu i omladinu sa smetnjama u razvoju \"Lipa \"Plav",
@@ -18448,6 +19183,36 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.me/propisi/347652/download",
      "sha256": "7bacc087236aef88ebbfa1734d6965a43aebafa3612df180ab4d23251ac39d6c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-310739",
+   "path": "odluka/2017/310739",
+   "short": "Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima Opštinskih službenika i namještenika",
+   "title": "Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima Opštinskih službenika i namještenika",
+   "url": "https://www.sluzbenilist.me/propisi/310739",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/310739/download",
+     "sha256": "211cdd7f5858dad07a2aae3589856d0aa3196816409b0e804e1bb85c40f1b193"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-312209",
+   "path": "odluka/2017/312209",
+   "short": "Odluka o imenovanju Etičke komisije za izabrane predstavnike/ce i funkcionere/ke",
+   "title": "Odluka o imenovanju Etičke komisije za izabrane predstavnike/ce i funkcionere/ke",
+   "url": "https://www.sluzbenilist.me/propisi/312209",
+   "versions": [
+    {
+     "from": "2017-04-04",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/312209/download",
+     "sha256": "26fe9ade23ab0d9b22a6b13e10fbbde78e158c3622f109c3c5188221325a3b81"
     }
    ]
   },
@@ -19172,6 +19937,36 @@
    ]
   },
   {
+   "slug": "odluka-2020-311322",
+   "path": "odluka/2020/311322",
+   "short": "Odluku o imenovanju člana odbora za Statut i propise",
+   "title": "Odluku o imenovanju člana odbora za Statut i propise",
+   "url": "https://www.sluzbenilist.me/propisi/311322",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/311322/download",
+     "sha256": "a97674c5b423521922429721f742ea1bba0cb39db1323e80ed33346fa91e6c44"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-312857",
+   "path": "odluka/2020/312857",
+   "short": "Odluka o davanju saglasnosti na imenovanje potpredsjednika Opštine Gusinje",
+   "title": "Odluka o davanju saglasnosti na imenovanje potpredsjednika Opštine Gusinje",
+   "url": "https://www.sluzbenilist.me/propisi/312857",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/312857/download",
+     "sha256": "d7e1a980fda8806a09acd52cf3ce1fa9d696b8886bed51a2e63e49ec3828918e"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2020-314514",
    "path": "odluka/2020/314514",
    "short": "Odluka o izboru, broj: 01-6186/20",
@@ -19438,6 +20233,21 @@
      "units": 5,
      "source_url": "https://www.sluzbenilist.me/propisi/344781/download",
      "sha256": "a7cae980b63a8bd51fd71f1c22c039c774a014057607a76daa42c9bc7dfca564"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-312687",
+   "path": "odluka/2022/312687",
+   "short": "Odluka o izmjenama i dopunama Odluke o Studentskoj nagradi Opštine Nikšić",
+   "title": "Odluka o izmjenama i dopunama Odluke o Studentskoj nagradi Opštine Nikšić",
+   "url": "https://www.sluzbenilist.me/propisi/312687",
+   "versions": [
+    {
+     "from": "2022-07-02",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/312687/download",
+     "sha256": "92d6d268bbfc71f41d5a042a654976c79c7a71d387ba43b73fe0469ffc6c350b"
     }
    ]
   },
@@ -20357,6 +21167,21 @@
    ]
   },
   {
+   "slug": "program-2016-311589",
+   "path": "program/2016/311589",
+   "short": "Program investicione aktivnosti opštine Rožaje za 2016.godinu",
+   "title": "Program investicione aktivnosti opštine Rožaje za 2016.godinu",
+   "url": "https://www.sluzbenilist.me/propisi/311589",
+   "versions": [
+    {
+     "from": "2016-02-17",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311589/download",
+     "sha256": "e6a35965124b75111db99092c2bb9f8762735826476623112f0d807864075ba1"
+    }
+   ]
+  },
+  {
    "slug": "program-2018-328876",
    "path": "program/2018/328876",
    "short": "Program rada Skupštine Opštine Mojkovac za 2018 godinu",
@@ -20522,6 +21347,21 @@
    ]
   },
   {
+   "slug": "rjesenje-2017-311344",
+   "path": "rjesenje/2017/311344",
+   "short": "Rješenje Broj: 030/17-01-226",
+   "title": "Rješenje Broj: 030/17-01-226",
+   "url": "https://www.sluzbenilist.me/propisi/311344",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311344/download",
+     "sha256": "037dd78bb9132c14e614535ef8778713e5698f4a6e7e45d0544d6fbe9c510a71"
+    }
+   ]
+  },
+  {
    "slug": "rjesenje-2018-377941",
    "path": "rjesenje/2018/377941",
    "short": "Rješenje o razrešenju članova Odbora direktora društva sa ograničenom odgovornošću \"Sportski centar Žabljak\" Žabljak",
@@ -20608,6 +21448,36 @@
      "units": 1,
      "source_url": "https://www.sluzbenilist.me/propisi/388185/download",
      "sha256": "75a7694d30a4e7cb4d5149dd9034a91329364477ff57fa400e08568e4b03d0f7"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2020-312551",
+   "path": "rjesenje/2020/312551",
+   "short": "Rješenje Broj: 016/20-01-231",
+   "title": "Rješenje Broj: 016/20-01-231",
+   "url": "https://www.sluzbenilist.me/propisi/312551",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/312551/download",
+     "sha256": "f36b46b4944e4de343d3125c4fd631a786eb60474907737717fa20a0c31c7cd9"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2021-312031",
+   "path": "rjesenje/2021/312031",
+   "short": "Rješenje broj: 016/21-01-204",
+   "title": "Rješenje broj: 016/21-01-204",
+   "url": "https://www.sluzbenilist.me/propisi/312031",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/312031/download",
+     "sha256": "e43e71bafd27f9fb524b3a426923b52b9515ab5ad4107c6f29781893290d3606"
     }
    ]
   },
@@ -21587,6 +22457,21 @@
    ]
   },
   {
+   "slug": "odluka-2021-311705",
+   "path": "odluka/2021/311705",
+   "short": "Odluka, broj: 21/4203-2",
+   "title": "Odluka, broj: 21/4203-2",
+   "url": "https://www.sluzbenilist.me/propisi/311705",
+   "versions": [
+    {
+     "from": "2021-12-01",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311705/download",
+     "sha256": "cf194f1935380d07d3d346b37f6e7017817c2bdcba44f18f5f25be09a27e8edf"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2021-318222",
    "path": "odluka/2021/318222",
    "short": "Odluka o imenovanju predsjednika i šest članova Žirija za dodjelu Trinaestojulske nagrade",
@@ -21688,6 +22573,201 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.me/propisi/396935/download",
      "sha256": "306385cf91403f2a3322d6a72e7652230645362e717a53bf24564980bc60c3fa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-310131",
+   "path": "odluka/2022/310131",
+   "short": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2208",
+   "title": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2208",
+   "url": "https://www.sluzbenilist.me/propisi/310131",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/310131/download",
+     "sha256": "ae82eec3b53e918e1d04ead701e9227117fd7677ff41a121bd3ec167ba400acf"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-310593",
+   "path": "odluka/2022/310593",
+   "short": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2240",
+   "title": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2240",
+   "url": "https://www.sluzbenilist.me/propisi/310593",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/310593/download",
+     "sha256": "1f7371516f2c3eb850629d4717858adec22e28704364ddca6347a1ffde3732b1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-310678",
+   "path": "odluka/2022/310678",
+   "short": "Odluka o preuzimanju standarda odbrane",
+   "title": "Odluka o preuzimanju standarda odbrane",
+   "url": "https://www.sluzbenilist.me/propisi/310678",
+   "versions": [
+    {
+     "from": "2022-01-19",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/310678/download",
+     "sha256": "0ac15108e821240f37ca5c872bba6fe0bf055c249ad91040b15aa73836d44885"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-310735",
+   "path": "odluka/2022/310735",
+   "short": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2233",
+   "title": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2233",
+   "url": "https://www.sluzbenilist.me/propisi/310735",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/310735/download",
+     "sha256": "7c32f4c7ac7d3e585b50a39d7406adf12f6b79f012f7ad6316255f6770fb7e37"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-310870",
+   "path": "odluka/2022/310870",
+   "short": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2228",
+   "title": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2228",
+   "url": "https://www.sluzbenilist.me/propisi/310870",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/310870/download",
+     "sha256": "dc6fd2be5b761caec5eea10874e984d2fff740f5ca2ed220919949a5d2a23719"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-311438",
+   "path": "odluka/2022/311438",
+   "short": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2216",
+   "title": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2216",
+   "url": "https://www.sluzbenilist.me/propisi/311438",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311438/download",
+     "sha256": "1d8337e48bfe6fcccc999e8a0de1625b904ad7b42d1f240377996a17093c5363"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-311700",
+   "path": "odluka/2022/311700",
+   "short": "Odluka o preuzimanju standarda odbrane",
+   "title": "Odluka o preuzimanju standarda odbrane",
+   "url": "https://www.sluzbenilist.me/propisi/311700",
+   "versions": [
+    {
+     "from": "2022-01-19",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311700/download",
+     "sha256": "d173f8c4cf24119d6791b83f0db789e2ecc58efde664e6d7b8ea4b5c5b0ee6be"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-312354",
+   "path": "odluka/2022/312354",
+   "short": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2212",
+   "title": "Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2212",
+   "url": "https://www.sluzbenilist.me/propisi/312354",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/312354/download",
+     "sha256": "e0762deb38ed7bead47bd2d0f782ab491f16377b7b5d661b17eb81fdeb230935"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-312360",
+   "path": "odluka/2022/312360",
+   "short": "Odluka o preuzimanju standarda odbrane",
+   "title": "Odluka o preuzimanju standarda odbrane",
+   "url": "https://www.sluzbenilist.me/propisi/312360",
+   "versions": [
+    {
+     "from": "2022-01-19",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/312360/download",
+     "sha256": "6536eca08821115afae320b5c4d87b8aac98e924b11615e0c9822728036dd861"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-312405",
+   "path": "odluka/2022/312405",
+   "short": "Odluka o izboru predsjednika i članova 43. Vlade Crne Gore",
+   "title": "Odluka o izboru predsjednika i članova 43. Vlade Crne Gore",
+   "url": "https://www.sluzbenilist.me/propisi/312405",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/312405/download",
+     "sha256": "abe7ccb8141687d3525623572548f644b3880eba42ed106f4026ac6050fbe6ff"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-312645",
+   "path": "odluka/2022/312645",
+   "short": "Odluka o preuzimanju standarda odbrane",
+   "title": "Odluka o preuzimanju standarda odbrane",
+   "url": "https://www.sluzbenilist.me/propisi/312645",
+   "versions": [
+    {
+     "from": "2022-01-19",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/312645/download",
+     "sha256": "739ea76232cb5edc5fc0db1d684da00cbc091207a75500668db6315354efd2c5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-312722",
+   "path": "odluka/2022/312722",
+   "short": "Odluka o povlačenju standarda odbrane",
+   "title": "Odluka o povlačenju standarda odbrane",
+   "url": "https://www.sluzbenilist.me/propisi/312722",
+   "versions": [
+    {
+     "from": "2022-01-19",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/312722/download",
+     "sha256": "15f60379521a34c3efacddc722b5477263818effca2bce63e5a5c70f6e22e71d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-313161",
+   "path": "odluka/2022/313161",
+   "short": "Odluka o preuzimanju standarda odbrane",
+   "title": "Odluka o preuzimanju standarda odbrane",
+   "url": "https://www.sluzbenilist.me/propisi/313161",
+   "versions": [
+    {
+     "from": "2022-01-19",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/313161/download",
+     "sha256": "f8372f2786fd0e8f03b51a1a447c64fecf0f50aed9d6905c2316d2a9deb3f4af"
     }
    ]
   },
@@ -27662,6 +28742,21 @@
    ]
   },
   {
+   "slug": "rjesenje-2013-312719",
+   "path": "rjesenje/2013/312719",
+   "short": "Rješenje o izdavanju Licence Privatnoj ustanovi organizatoru obrazovanja odraslih \"Hotelsko edukativni centar - Trening centar Gastronom klub Vuka Mitrovića\", u Miločeru, Budva",
+   "title": "Rješenje o izdavanju Licence Privatnoj ustanovi organizatoru obrazovanja odraslih \"Hotelsko edukativni centar - Trening centar Gastronom klub Vuka Mitrovića\", u Miločeru, Budva",
+   "url": "https://www.sluzbenilist.me/propisi/312719",
+   "versions": [
+    {
+     "from": "2013-09-20",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/312719/download",
+     "sha256": "5f1bf5908c19adc8fe6eb7c4fa1fe845284e115fa28fe001742365773bce0ff7"
+    }
+   ]
+  },
+  {
    "slug": "rjesenje-2013-313318",
    "path": "rjesenje/2013/313318",
    "short": "Rješenje o izdavanju licence organizatoru obrazovanja odraslih Javna ustanova Srednja stručna škola - Rožaje",
@@ -28007,6 +29102,21 @@
    ]
   },
   {
+   "slug": "rjesenje-2015-310435",
+   "path": "rjesenje/2015/310435",
+   "short": "Rješenje o licenciranju",
+   "title": "Rješenje o licenciranju",
+   "url": "https://www.sluzbenilist.me/propisi/310435",
+   "versions": [
+    {
+     "from": "2015-11-04",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/310435/download",
+     "sha256": "e392fcea2006c8a49cabfe4e1d79350817c85fc8472f683b85571dde882aac77"
+    }
+   ]
+  },
+  {
    "slug": "rjesenje-2015-314048",
    "path": "rjesenje/2015/314048",
    "short": "Rješenje UP I br. broj 630-637/2015-2",
@@ -28078,6 +29188,21 @@
      "units": 1,
      "source_url": "https://www.sluzbenilist.me/propisi/330404/download",
      "sha256": "33dac4cee45ea9496bf92d968185618c9e3aae217e61e94e54e3cca5eac4df1c"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2016-310830",
+   "path": "rjesenje/2016/310830",
+   "short": "Rješenje o izdavanju licence za rad Javnoj ustanovi Srednja mješovita škola u Petnjici",
+   "title": "Rješenje o izdavanju licence za rad Javnoj ustanovi Srednja mješovita škola u Petnjici",
+   "url": "https://www.sluzbenilist.me/propisi/310830",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/310830/download",
+     "sha256": "d9f5805d6714c40b3714c554cd91a96dd5bee53c5b02d6e2c8388604cadc611d"
     }
    ]
   },
@@ -28187,6 +29312,21 @@
    ]
   },
   {
+   "slug": "rjesenje-2017-311812",
+   "path": "rjesenje/2017/311812",
+   "short": "Rješenje, UP I broj 060-27/2017",
+   "title": "Rješenje, UP I broj 060-27/2017",
+   "url": "https://www.sluzbenilist.me/propisi/311812",
+   "versions": [
+    {
+     "from": "2017-04-21",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311812/download",
+     "sha256": "80019cd88f2e6b7aedbc0e43d4ee7dfde09f078d90d643a0a95a1e26cf3d0d7b"
+    }
+   ]
+  },
+  {
    "slug": "rjesenje-2017-313751",
    "path": "rjesenje/2017/313751",
    "short": "Rješenje, broj: 02/3e-7/2-17",
@@ -28277,6 +29417,21 @@
    ]
   },
   {
+   "slug": "rjesenje-2018-311687",
+   "path": "rjesenje/2018/311687",
+   "short": "Rješenje o izdavanju licence Privatnoj predškolskoj ustanovi \"Svetionik\", Bar",
+   "title": "Rješenje o izdavanju licence Privatnoj predškolskoj ustanovi \"Svetionik\", Bar",
+   "url": "https://www.sluzbenilist.me/propisi/311687",
+   "versions": [
+    {
+     "from": "2018-06-07",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311687/download",
+     "sha256": "a47c327ce12b0b4159ce9e12b6c8c7c3af267bc9998aa07fac4b7f52b740c687"
+    }
+   ]
+  },
+  {
    "slug": "rjesenje-2018-316198",
    "path": "rjesenje/2018/316198",
    "short": "Rješenje o izdavanju licence Javnoj ustanovi Srednja ekonomsko-ugostiteljska škola, Bar",
@@ -28303,6 +29458,96 @@
      "units": 1,
      "source_url": "https://www.sluzbenilist.me/propisi/320338/download",
      "sha256": "2e990a0fc9a54663c4d4a31d074eba048687c5df28097fa1da9400977241ddee"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2019-311027",
+   "path": "rjesenje/2019/311027",
+   "short": "Rješenje o standardu zanimanja građevinski tehničar/građevinska tehničarka za kontrolu kvaliteta",
+   "title": "Rješenje o standardu zanimanja građevinski tehničar/građevinska tehničarka za kontrolu kvaliteta",
+   "url": "https://www.sluzbenilist.me/propisi/311027",
+   "versions": [
+    {
+     "from": "2019-06-17",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/311027/download",
+     "sha256": "c6e783fcdcb2cdc673fec6fdc35ccb087cbd7086ab3eb1bddb4bea4a0a54fd75"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2019-311547",
+   "path": "rjesenje/2019/311547",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi \"Škola stranih jezika - INTERLINGUA\", Podgorica",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi \"Škola stranih jezika - INTERLINGUA\", Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/311547",
+   "versions": [
+    {
+     "from": "2019-10-11",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311547/download",
+     "sha256": "b87006b3fa5a9eebda1360153966799fe41960566393b351dd92dacc2e9e4787"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2019-311875",
+   "path": "rjesenje/2019/311875",
+   "short": "Rješenje o izdavanju licence Nevladinoj organizaciji \"Savez pčelarskih organizacija Crne Gore\", Danilovgrad",
+   "title": "Rješenje o izdavanju licence Nevladinoj organizaciji \"Savez pčelarskih organizacija Crne Gore\", Danilovgrad",
+   "url": "https://www.sluzbenilist.me/propisi/311875",
+   "versions": [
+    {
+     "from": "2019-05-06",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311875/download",
+     "sha256": "f6604cee9cfe5d17919a6626440a7e13857cab3f5686068962387d61fc76d02b"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2019-312219",
+   "path": "rjesenje/2019/312219",
+   "short": "Rješenje o dopuni licence Fakultetu za poslovnu ekonomiju i pravo, Bar, Univerzitet \"Adriatik\"",
+   "title": "Rješenje o dopuni licence Fakultetu za poslovnu ekonomiju i pravo, Bar, Univerzitet \"Adriatik\"",
+   "url": "https://www.sluzbenilist.me/propisi/312219",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/312219/download",
+     "sha256": "8f846b8b0a4e901dbb4eae69f8141a55b1bc44a695a6b6121a31a0e0534dca15"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2019-312631",
+   "path": "rjesenje/2019/312631",
+   "short": "Rješenje o standardu zanimanja građevinski tehničar/građevinska tehničarka za hidrogradnju",
+   "title": "Rješenje o standardu zanimanja građevinski tehničar/građevinska tehničarka za hidrogradnju",
+   "url": "https://www.sluzbenilist.me/propisi/312631",
+   "versions": [
+    {
+     "from": "2019-06-17",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/312631/download",
+     "sha256": "128aa79da9338d332799ac11e051dbaa589122bf3fbea973d59cce0c1e0ee1cd"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2019-313032",
+   "path": "rjesenje/2019/313032",
+   "short": "Rješenje o standardu zanimanja građevinski tehničar/građevinska tehničarka za projektovanje objekata visokogradnje",
+   "title": "Rješenje o standardu zanimanja građevinski tehničar/građevinska tehničarka za projektovanje objekata visokogradnje",
+   "url": "https://www.sluzbenilist.me/propisi/313032",
+   "versions": [
+    {
+     "from": "2019-06-17",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/313032/download",
+     "sha256": "4c2d7c71b30dadf12d0fe8dbaa6e0f53583cf237f58da4809a55d2eaf7f3f8f9"
     }
    ]
   },
@@ -28652,6 +29897,81 @@
    ]
   },
   {
+   "slug": "rjesenje-2021-310850",
+   "path": "rjesenje/2021/310850",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi \"Logate institut za informacione tehnologije\", iz Podgorice",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi \"Logate institut za informacione tehnologije\", iz Podgorice",
+   "url": "https://www.sluzbenilist.me/propisi/310850",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/310850/download",
+     "sha256": "cd82d0d0e7d23bad47eafa5ba7479632acfaf6ba03c82f2880b0db5cd0facbb8"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2021-311215",
+   "path": "rjesenje/2021/311215",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi za učenje stranih jezika \"AuraA centar\" iz Budve",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi za učenje stranih jezika \"AuraA centar\" iz Budve",
+   "url": "https://www.sluzbenilist.me/propisi/311215",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311215/download",
+     "sha256": "e4a989d9991dfc04b0945524a9355e6eaa73e8ebb2b0bf59c4cf0a8b663e9c09"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2021-311751",
+   "path": "rjesenje/2021/311751",
+   "short": "Rješenje, broj: 04/5-1326/4-20",
+   "title": "Rješenje, broj: 04/5-1326/4-20",
+   "url": "https://www.sluzbenilist.me/propisi/311751",
+   "versions": [
+    {
+     "from": "2021-06-28",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311751/download",
+     "sha256": "a3f8ce64440a3ef91c67b085e962de9637b60d2453732760336bb9d2e41677a9"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2021-311942",
+   "path": "rjesenje/2021/311942",
+   "short": "Rješenje o izdavanju licence Privatnoj ustanovi \"Oykos digital hub\" iz Podgorice",
+   "title": "Rješenje o izdavanju licence Privatnoj ustanovi \"Oykos digital hub\" iz Podgorice",
+   "url": "https://www.sluzbenilist.me/propisi/311942",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311942/download",
+     "sha256": "cb5181ae63806e58cee61fce87791fae8b55d3b523b6a443bd0fd7d6153e432d"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2021-312003",
+   "path": "rjesenje/2021/312003",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Stručna medicinska škola, Podgorica",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Stručna medicinska škola, Podgorica",
+   "url": "https://www.sluzbenilist.me/propisi/312003",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/312003/download",
+     "sha256": "f02bfa68182b59de01cb6010f75a218ddeac6f2274446bafd32ec5e57633e561"
+    }
+   ]
+  },
+  {
    "slug": "rjesenje-2021-315397",
    "path": "rjesenje/2021/315397",
    "short": "Rješenje o izdavanju licence Privatnoj ustanovi auto-škola \"Lucky Driver\", Nikšić",
@@ -28783,6 +30103,111 @@
      "units": 1,
      "source_url": "https://www.sluzbenilist.me/propisi/396936/download",
      "sha256": "7d6dbf7478a96b4d552f01b7e0ea24f38f0bb04f55e3f04ecbed1f040bcb517f"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2022-310132",
+   "path": "rjesenje/2022/310132",
+   "short": "Rješenje o izdavanju licence Pomorskom fakultetu Univerziteta Crne Gore sa sjedištem u Kotoru, za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Rješenje o izdavanju licence Pomorskom fakultetu Univerziteta Crne Gore sa sjedištem u Kotoru, za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/310132",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/310132/download",
+     "sha256": "6a28d62a5d5b9241adcda1ba3ec4551f4830ef1af3b5cfea18a46a867e2c74a6"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2022-311108",
+   "path": "rjesenje/2022/311108",
+   "short": "Rješenje o izdavanju licence Fakultetu za saobraćaj, komunikacije i logistiku, Budva, Univerziteta \"Adriatik\", za obavljanje naučnoistraživačke djelatnosti",
+   "title": "Rješenje o izdavanju licence Fakultetu za saobraćaj, komunikacije i logistiku, Budva, Univerziteta \"Adriatik\", za obavljanje naučnoistraživačke djelatnosti",
+   "url": "https://www.sluzbenilist.me/propisi/311108",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311108/download",
+     "sha256": "26e5d8d50e11513074319c13ea24c246550443eeba8e3c7f25659322d71f2d9a"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2022-311109",
+   "path": "rjesenje/2022/311109",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Nikšić",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Nikšić",
+   "url": "https://www.sluzbenilist.me/propisi/311109",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311109/download",
+     "sha256": "19ee01c2b09ebc32b9de952909f301fe0496571893e2ec34fd9239577254853a"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2022-311896",
+   "path": "rjesenje/2022/311896",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola \"Vuksan Đukić\", Mojkovac",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola \"Vuksan Đukić\", Mojkovac",
+   "url": "https://www.sluzbenilist.me/propisi/311896",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/311896/download",
+     "sha256": "5c0d3f6f9514f13727fbf27378cd2bcbb5fe212f1b246c4c6f04c3357b506d3b"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2022-312356",
+   "path": "rjesenje/2022/312356",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Cetinje",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Cetinje",
+   "url": "https://www.sluzbenilist.me/propisi/312356",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/312356/download",
+     "sha256": "38d47748d157aa07fe3ce4386be567e815e2ff41f6382ff293168093d33ee0e3"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2022-312690",
+   "path": "rjesenje/2022/312690",
+   "short": "Rješenje o standardu zanimanja tehničar/tehničarka pripreme za štampu",
+   "title": "Rješenje o standardu zanimanja tehničar/tehničarka pripreme za štampu",
+   "url": "https://www.sluzbenilist.me/propisi/312690",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/312690/download",
+     "sha256": "9f91ad9f59c99b154cf0e7d7923ee537f8015843de2d26a14ad2e4172e59ff97"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2022-313018",
+   "path": "rjesenje/2022/313018",
+   "short": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Pljevlja",
+   "title": "Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Pljevlja",
+   "url": "https://www.sluzbenilist.me/propisi/313018",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/313018/download",
+     "sha256": "5fd989fbc8954fba2163510b28b762f1a4756104dd228534ca0688c016566fbc"
     }
    ]
   },
