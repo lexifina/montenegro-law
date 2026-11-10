@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32496 acts, 32,498 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32497 acts, 32,499 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (881, of which 86 amending acts)
 
@@ -1150,7 +1150,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22314, of which 3140 amending acts)
+## odluka (22315, of which 3140 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -18466,6 +18466,7 @@
 | Odluka o izmjeni i dopuni Odluke o utvrđivanju lokacije za izgradnju stubne trafostanice STS 10/0,4kV 100kVA "Poljice" sa priključnim 10 kV kablovskim vodom i NN mreža traforeona STS - Krivošije Donje | [`odluka/2022/345787/`](odluka/2022/345787/) | amending act | 1 | 2022-09-24 | 2022-09-24 |
 | Odluka o utvrđivanju lokacije za izgradnju NDTS 10/0,4kV 1x100kVA "VOLI" sa priključnim 10 kV kablovskim vodovima trafostanica na kat.parc.8/1 K.O.Lješevići i 10 kV kablovskim vodovima na kat.parc.8/1, 7 i 1549 K.O.Lješevići | [`odluka/2022/345788/`](odluka/2022/345788/) | in force | 1 | 2022-09-24 | 2022-09-24 |
 | Odluka o prodaji građevinskog zemljišta označenog kao katastarska parcela broj 4683/9 KO Tološi | [`odluka/2022/345791/`](odluka/2022/345791/) | in force | 1 | 2022-10-14 | 2022-10-14 |
+| Odluka o davanju u zakup zemljišta putem prikupljanja ponuda radi postavljanja privremenih objekata | [`odluka/2022/345792/`](odluka/2022/345792/) | in force | 1 | 2022-10-14 | 2022-10-14 |
 | Odluka o davanju saglasnosti na Statut DOO "Vodovod i kanalizacija" Ulcinj, broj 2314 od 16.12.2021 godine | [`odluka/2022/345793/`](odluka/2022/345793/) | in force | 1 | 2022-02-01 | 2022-02-01 |
 | Odluka o izmjenama i dopunama Odluke o osnivanju Društva sa ograničenom odgovornošću "Za očuvanje i zaštitu biodiverziteta, uzgoja i lova divljači i ribolov" Ulcinj | [`odluka/2022/345798/`](odluka/2022/345798/) | amending act | 1 | 2022-11-05 | 2022-11-05 |
 | Odluka o davanju saglasnosti na Statut Društva sa ograničenom odgovornošću za očuvanje i zaštitu biodiverziteta, uzgoja i lova divljači i ribolov "Ulcinj | [`odluka/2022/345799/`](odluka/2022/345799/) | in force | 1 | 2022-11-05 | 2022-11-05 |
