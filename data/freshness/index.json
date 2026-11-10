@@ -1,0 +1,3184 @@
+{
+"shards": [
+{
+"shard": "akt/1992",
+"kind": "akt",
+"file": "data/freshness/akt/1992.csv",
+"acts": 4
+},
+{
+"shard": "akt/1994",
+"kind": "akt",
+"file": "data/freshness/akt/1994.csv",
+"acts": 5
+},
+{
+"shard": "akt/1995",
+"kind": "akt",
+"file": "data/freshness/akt/1995.csv",
+"acts": 8
+},
+{
+"shard": "akt/1996",
+"kind": "akt",
+"file": "data/freshness/akt/1996.csv",
+"acts": 16
+},
+{
+"shard": "akt/1997",
+"kind": "akt",
+"file": "data/freshness/akt/1997.csv",
+"acts": 8
+},
+{
+"shard": "akt/1998",
+"kind": "akt",
+"file": "data/freshness/akt/1998.csv",
+"acts": 3
+},
+{
+"shard": "akt/1999",
+"kind": "akt",
+"file": "data/freshness/akt/1999.csv",
+"acts": 3
+},
+{
+"shard": "akt/2000",
+"kind": "akt",
+"file": "data/freshness/akt/2000.csv",
+"acts": 2
+},
+{
+"shard": "akt/2001",
+"kind": "akt",
+"file": "data/freshness/akt/2001.csv",
+"acts": 1
+},
+{
+"shard": "akt/2002",
+"kind": "akt",
+"file": "data/freshness/akt/2002.csv",
+"acts": 5
+},
+{
+"shard": "akt/2003",
+"kind": "akt",
+"file": "data/freshness/akt/2003.csv",
+"acts": 1
+},
+{
+"shard": "akt/2004",
+"kind": "akt",
+"file": "data/freshness/akt/2004.csv",
+"acts": 13
+},
+{
+"shard": "akt/2005",
+"kind": "akt",
+"file": "data/freshness/akt/2005.csv",
+"acts": 4
+},
+{
+"shard": "akt/2006",
+"kind": "akt",
+"file": "data/freshness/akt/2006.csv",
+"acts": 3
+},
+{
+"shard": "akt/2007",
+"kind": "akt",
+"file": "data/freshness/akt/2007.csv",
+"acts": 7
+},
+{
+"shard": "akt/2008",
+"kind": "akt",
+"file": "data/freshness/akt/2008.csv",
+"acts": 13
+},
+{
+"shard": "akt/2009",
+"kind": "akt",
+"file": "data/freshness/akt/2009.csv",
+"acts": 6
+},
+{
+"shard": "akt/2010",
+"kind": "akt",
+"file": "data/freshness/akt/2010.csv",
+"acts": 73
+},
+{
+"shard": "akt/2011",
+"kind": "akt",
+"file": "data/freshness/akt/2011.csv",
+"acts": 25
+},
+{
+"shard": "akt/2012",
+"kind": "akt",
+"file": "data/freshness/akt/2012.csv",
+"acts": 19
+},
+{
+"shard": "akt/2013",
+"kind": "akt",
+"file": "data/freshness/akt/2013.csv",
+"acts": 24
+},
+{
+"shard": "akt/2014",
+"kind": "akt",
+"file": "data/freshness/akt/2014.csv",
+"acts": 33
+},
+{
+"shard": "akt/2015",
+"kind": "akt",
+"file": "data/freshness/akt/2015.csv",
+"acts": 40
+},
+{
+"shard": "akt/2016",
+"kind": "akt",
+"file": "data/freshness/akt/2016.csv",
+"acts": 40
+},
+{
+"shard": "akt/2017",
+"kind": "akt",
+"file": "data/freshness/akt/2017.csv",
+"acts": 33
+},
+{
+"shard": "akt/2018",
+"kind": "akt",
+"file": "data/freshness/akt/2018.csv",
+"acts": 38
+},
+{
+"shard": "akt/2019",
+"kind": "akt",
+"file": "data/freshness/akt/2019.csv",
+"acts": 33
+},
+{
+"shard": "akt/2020",
+"kind": "akt",
+"file": "data/freshness/akt/2020.csv",
+"acts": 38
+},
+{
+"shard": "akt/2021",
+"kind": "akt",
+"file": "data/freshness/akt/2021.csv",
+"acts": 52
+},
+{
+"shard": "akt/2022",
+"kind": "akt",
+"file": "data/freshness/akt/2022.csv",
+"acts": 65
+},
+{
+"shard": "akt/2023",
+"kind": "akt",
+"file": "data/freshness/akt/2023.csv",
+"acts": 36
+},
+{
+"shard": "akt/2024",
+"kind": "akt",
+"file": "data/freshness/akt/2024.csv",
+"acts": 56
+},
+{
+"shard": "akt/2025",
+"kind": "akt",
+"file": "data/freshness/akt/2025.csv",
+"acts": 88
+},
+{
+"shard": "akt/2026",
+"kind": "akt",
+"file": "data/freshness/akt/2026.csv",
+"acts": 83
+},
+{
+"shard": "naredba/1992",
+"kind": "naredba",
+"file": "data/freshness/naredba/1992.csv",
+"acts": 18
+},
+{
+"shard": "naredba/1993",
+"kind": "naredba",
+"file": "data/freshness/naredba/1993.csv",
+"acts": 3
+},
+{
+"shard": "naredba/1994",
+"kind": "naredba",
+"file": "data/freshness/naredba/1994.csv",
+"acts": 2
+},
+{
+"shard": "naredba/1995",
+"kind": "naredba",
+"file": "data/freshness/naredba/1995.csv",
+"acts": 1
+},
+{
+"shard": "naredba/1997",
+"kind": "naredba",
+"file": "data/freshness/naredba/1997.csv",
+"acts": 3
+},
+{
+"shard": "naredba/1999",
+"kind": "naredba",
+"file": "data/freshness/naredba/1999.csv",
+"acts": 1
+},
+{
+"shard": "naredba/2001",
+"kind": "naredba",
+"file": "data/freshness/naredba/2001.csv",
+"acts": 5
+},
+{
+"shard": "naredba/2002",
+"kind": "naredba",
+"file": "data/freshness/naredba/2002.csv",
+"acts": 2
+},
+{
+"shard": "naredba/2003",
+"kind": "naredba",
+"file": "data/freshness/naredba/2003.csv",
+"acts": 7
+},
+{
+"shard": "naredba/2004",
+"kind": "naredba",
+"file": "data/freshness/naredba/2004.csv",
+"acts": 13
+},
+{
+"shard": "naredba/2005",
+"kind": "naredba",
+"file": "data/freshness/naredba/2005.csv",
+"acts": 10
+},
+{
+"shard": "naredba/2006",
+"kind": "naredba",
+"file": "data/freshness/naredba/2006.csv",
+"acts": 2
+},
+{
+"shard": "naredba/2007",
+"kind": "naredba",
+"file": "data/freshness/naredba/2007.csv",
+"acts": 2
+},
+{
+"shard": "naredba/2008",
+"kind": "naredba",
+"file": "data/freshness/naredba/2008.csv",
+"acts": 2
+},
+{
+"shard": "naredba/2009",
+"kind": "naredba",
+"file": "data/freshness/naredba/2009.csv",
+"acts": 3
+},
+{
+"shard": "naredba/2011",
+"kind": "naredba",
+"file": "data/freshness/naredba/2011.csv",
+"acts": 1
+},
+{
+"shard": "naredba/2013",
+"kind": "naredba",
+"file": "data/freshness/naredba/2013.csv",
+"acts": 2
+},
+{
+"shard": "naredba/2014",
+"kind": "naredba",
+"file": "data/freshness/naredba/2014.csv",
+"acts": 1
+},
+{
+"shard": "naredba/2015",
+"kind": "naredba",
+"file": "data/freshness/naredba/2015.csv",
+"acts": 8
+},
+{
+"shard": "naredba/2016",
+"kind": "naredba",
+"file": "data/freshness/naredba/2016.csv",
+"acts": 11
+},
+{
+"shard": "naredba/2017",
+"kind": "naredba",
+"file": "data/freshness/naredba/2017.csv",
+"acts": 4
+},
+{
+"shard": "naredba/2018",
+"kind": "naredba",
+"file": "data/freshness/naredba/2018.csv",
+"acts": 7
+},
+{
+"shard": "naredba/2019",
+"kind": "naredba",
+"file": "data/freshness/naredba/2019.csv",
+"acts": 5
+},
+{
+"shard": "naredba/2020",
+"kind": "naredba",
+"file": "data/freshness/naredba/2020.csv",
+"acts": 78
+},
+{
+"shard": "naredba/2021",
+"kind": "naredba",
+"file": "data/freshness/naredba/2021.csv",
+"acts": 17
+},
+{
+"shard": "naredba/2022",
+"kind": "naredba",
+"file": "data/freshness/naredba/2022.csv",
+"acts": 6
+},
+{
+"shard": "naredba/2023",
+"kind": "naredba",
+"file": "data/freshness/naredba/2023.csv",
+"acts": 6
+},
+{
+"shard": "naredba/2024",
+"kind": "naredba",
+"file": "data/freshness/naredba/2024.csv",
+"acts": 7
+},
+{
+"shard": "naredba/2025",
+"kind": "naredba",
+"file": "data/freshness/naredba/2025.csv",
+"acts": 8
+},
+{
+"shard": "naredba/2026",
+"kind": "naredba",
+"file": "data/freshness/naredba/2026.csv",
+"acts": 9
+},
+{
+"shard": "odluka/1992",
+"kind": "odluka",
+"file": "data/freshness/odluka/1992.csv",
+"acts": 67
+},
+{
+"shard": "odluka/1993",
+"kind": "odluka",
+"file": "data/freshness/odluka/1993.csv",
+"acts": 37
+},
+{
+"shard": "odluka/1994",
+"kind": "odluka",
+"file": "data/freshness/odluka/1994.csv",
+"acts": 82
+},
+{
+"shard": "odluka/1995",
+"kind": "odluka",
+"file": "data/freshness/odluka/1995.csv",
+"acts": 95
+},
+{
+"shard": "odluka/1996",
+"kind": "odluka",
+"file": "data/freshness/odluka/1996.csv",
+"acts": 107
+},
+{
+"shard": "odluka/1997",
+"kind": "odluka",
+"file": "data/freshness/odluka/1997.csv",
+"acts": 89
+},
+{
+"shard": "odluka/1998",
+"kind": "odluka",
+"file": "data/freshness/odluka/1998.csv",
+"acts": 77
+},
+{
+"shard": "odluka/1999",
+"kind": "odluka",
+"file": "data/freshness/odluka/1999.csv",
+"acts": 72
+},
+{
+"shard": "odluka/2000",
+"kind": "odluka",
+"file": "data/freshness/odluka/2000.csv",
+"acts": 85
+},
+{
+"shard": "odluka/2001",
+"kind": "odluka",
+"file": "data/freshness/odluka/2001.csv",
+"acts": 82
+},
+{
+"shard": "odluka/2002",
+"kind": "odluka",
+"file": "data/freshness/odluka/2002.csv",
+"acts": 96
+},
+{
+"shard": "odluka/2003",
+"kind": "odluka",
+"file": "data/freshness/odluka/2003.csv",
+"acts": 66
+},
+{
+"shard": "odluka/2004",
+"kind": "odluka",
+"file": "data/freshness/odluka/2004.csv",
+"acts": 81
+},
+{
+"shard": "odluka/2005",
+"kind": "odluka",
+"file": "data/freshness/odluka/2005.csv",
+"acts": 79
+},
+{
+"shard": "odluka/2006",
+"kind": "odluka",
+"file": "data/freshness/odluka/2006.csv",
+"acts": 97
+},
+{
+"shard": "odluka/2007",
+"kind": "odluka",
+"file": "data/freshness/odluka/2007.csv",
+"acts": 239
+},
+{
+"shard": "odluka/2008",
+"kind": "odluka",
+"file": "data/freshness/odluka/2008.csv",
+"acts": 750
+},
+{
+"shard": "odluka/2009",
+"kind": "odluka",
+"file": "data/freshness/odluka/2009.csv",
+"acts": 654
+},
+{
+"shard": "odluka/2010",
+"kind": "odluka",
+"file": "data/freshness/odluka/2010.csv",
+"acts": 604
+},
+{
+"shard": "odluka/2011",
+"kind": "odluka",
+"file": "data/freshness/odluka/2011.csv",
+"acts": 853
+},
+{
+"shard": "odluka/2012",
+"kind": "odluka",
+"file": "data/freshness/odluka/2012.csv",
+"acts": 636
+},
+{
+"shard": "odluka/2013",
+"kind": "odluka",
+"file": "data/freshness/odluka/2013.csv",
+"acts": 842
+},
+{
+"shard": "odluka/2014",
+"kind": "odluka",
+"file": "data/freshness/odluka/2014.csv",
+"acts": 1079
+},
+{
+"shard": "odluka/2015",
+"kind": "odluka",
+"file": "data/freshness/odluka/2015.csv",
+"acts": 1165
+},
+{
+"shard": "odluka/2016",
+"kind": "odluka",
+"file": "data/freshness/odluka/2016.csv",
+"acts": 1225
+},
+{
+"shard": "odluka/2017",
+"kind": "odluka",
+"file": "data/freshness/odluka/2017.csv",
+"acts": 1275
+},
+{
+"shard": "odluka/2018",
+"kind": "odluka",
+"file": "data/freshness/odluka/2018.csv",
+"acts": 1190
+},
+{
+"shard": "odluka/2019",
+"kind": "odluka",
+"file": "data/freshness/odluka/2019.csv",
+"acts": 1420
+},
+{
+"shard": "odluka/2020",
+"kind": "odluka",
+"file": "data/freshness/odluka/2020.csv",
+"acts": 1351
+},
+{
+"shard": "odluka/2021",
+"kind": "odluka",
+"file": "data/freshness/odluka/2021.csv",
+"acts": 1187
+},
+{
+"shard": "odluka/2022",
+"kind": "odluka",
+"file": "data/freshness/odluka/2022.csv",
+"acts": 1409
+},
+{
+"shard": "odluka/2023",
+"kind": "odluka",
+"file": "data/freshness/odluka/2023.csv",
+"acts": 1176
+},
+{
+"shard": "odluka/2024",
+"kind": "odluka",
+"file": "data/freshness/odluka/2024.csv",
+"acts": 1135
+},
+{
+"shard": "odluka/2025",
+"kind": "odluka",
+"file": "data/freshness/odluka/2025.csv",
+"acts": 1521
+},
+{
+"shard": "odluka/2026",
+"kind": "odluka",
+"file": "data/freshness/odluka/2026.csv",
+"acts": 973
+},
+{
+"shard": "plan/2010",
+"kind": "plan",
+"file": "data/freshness/plan/2010.csv",
+"acts": 1
+},
+{
+"shard": "plan/2011",
+"kind": "plan",
+"file": "data/freshness/plan/2011.csv",
+"acts": 5
+},
+{
+"shard": "plan/2012",
+"kind": "plan",
+"file": "data/freshness/plan/2012.csv",
+"acts": 2
+},
+{
+"shard": "plan/2013",
+"kind": "plan",
+"file": "data/freshness/plan/2013.csv",
+"acts": 6
+},
+{
+"shard": "plan/2014",
+"kind": "plan",
+"file": "data/freshness/plan/2014.csv",
+"acts": 11
+},
+{
+"shard": "plan/2015",
+"kind": "plan",
+"file": "data/freshness/plan/2015.csv",
+"acts": 7
+},
+{
+"shard": "plan/2016",
+"kind": "plan",
+"file": "data/freshness/plan/2016.csv",
+"acts": 18
+},
+{
+"shard": "plan/2017",
+"kind": "plan",
+"file": "data/freshness/plan/2017.csv",
+"acts": 8
+},
+{
+"shard": "plan/2018",
+"kind": "plan",
+"file": "data/freshness/plan/2018.csv",
+"acts": 9
+},
+{
+"shard": "plan/2019",
+"kind": "plan",
+"file": "data/freshness/plan/2019.csv",
+"acts": 6
+},
+{
+"shard": "plan/2020",
+"kind": "plan",
+"file": "data/freshness/plan/2020.csv",
+"acts": 3
+},
+{
+"shard": "plan/2021",
+"kind": "plan",
+"file": "data/freshness/plan/2021.csv",
+"acts": 4
+},
+{
+"shard": "plan/2022",
+"kind": "plan",
+"file": "data/freshness/plan/2022.csv",
+"acts": 3
+},
+{
+"shard": "plan/2023",
+"kind": "plan",
+"file": "data/freshness/plan/2023.csv",
+"acts": 1
+},
+{
+"shard": "plan/2024",
+"kind": "plan",
+"file": "data/freshness/plan/2024.csv",
+"acts": 2
+},
+{
+"shard": "plan/2026",
+"kind": "plan",
+"file": "data/freshness/plan/2026.csv",
+"acts": 1
+},
+{
+"shard": "poslovnik/1992",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/1992.csv",
+"acts": 2
+},
+{
+"shard": "poslovnik/1993",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/1993.csv",
+"acts": 1
+},
+{
+"shard": "poslovnik/1999",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/1999.csv",
+"acts": 2
+},
+{
+"shard": "poslovnik/2001",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2001.csv",
+"acts": 2
+},
+{
+"shard": "poslovnik/2002",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2002.csv",
+"acts": 1
+},
+{
+"shard": "poslovnik/2004",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2004.csv",
+"acts": 2
+},
+{
+"shard": "poslovnik/2005",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2005.csv",
+"acts": 2
+},
+{
+"shard": "poslovnik/2006",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2006.csv",
+"acts": 7
+},
+{
+"shard": "poslovnik/2007",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2007.csv",
+"acts": 2
+},
+{
+"shard": "poslovnik/2008",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2008.csv",
+"acts": 1
+},
+{
+"shard": "poslovnik/2009",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2009.csv",
+"acts": 4
+},
+{
+"shard": "poslovnik/2010",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2010.csv",
+"acts": 2
+},
+{
+"shard": "poslovnik/2011",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2011.csv",
+"acts": 6
+},
+{
+"shard": "poslovnik/2012",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2012.csv",
+"acts": 4
+},
+{
+"shard": "poslovnik/2013",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2013.csv",
+"acts": 3
+},
+{
+"shard": "poslovnik/2014",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2014.csv",
+"acts": 2
+},
+{
+"shard": "poslovnik/2015",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2015.csv",
+"acts": 3
+},
+{
+"shard": "poslovnik/2016",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2016.csv",
+"acts": 1
+},
+{
+"shard": "poslovnik/2017",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2017.csv",
+"acts": 1
+},
+{
+"shard": "poslovnik/2018",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2018.csv",
+"acts": 8
+},
+{
+"shard": "poslovnik/2019",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2019.csv",
+"acts": 7
+},
+{
+"shard": "poslovnik/2020",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2020.csv",
+"acts": 3
+},
+{
+"shard": "poslovnik/2022",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2022.csv",
+"acts": 6
+},
+{
+"shard": "poslovnik/2023",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2023.csv",
+"acts": 3
+},
+{
+"shard": "poslovnik/2024",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2024.csv",
+"acts": 4
+},
+{
+"shard": "poslovnik/2025",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2025.csv",
+"acts": 1
+},
+{
+"shard": "poslovnik/2026",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2026.csv",
+"acts": 6
+},
+{
+"shard": "pravila/1992",
+"kind": "pravila",
+"file": "data/freshness/pravila/1992.csv",
+"acts": 1
+},
+{
+"shard": "pravila/1996",
+"kind": "pravila",
+"file": "data/freshness/pravila/1996.csv",
+"acts": 2
+},
+{
+"shard": "pravila/1997",
+"kind": "pravila",
+"file": "data/freshness/pravila/1997.csv",
+"acts": 3
+},
+{
+"shard": "pravila/1998",
+"kind": "pravila",
+"file": "data/freshness/pravila/1998.csv",
+"acts": 2
+},
+{
+"shard": "pravila/2001",
+"kind": "pravila",
+"file": "data/freshness/pravila/2001.csv",
+"acts": 2
+},
+{
+"shard": "pravila/2002",
+"kind": "pravila",
+"file": "data/freshness/pravila/2002.csv",
+"acts": 8
+},
+{
+"shard": "pravila/2003",
+"kind": "pravila",
+"file": "data/freshness/pravila/2003.csv",
+"acts": 8
+},
+{
+"shard": "pravila/2004",
+"kind": "pravila",
+"file": "data/freshness/pravila/2004.csv",
+"acts": 6
+},
+{
+"shard": "pravila/2005",
+"kind": "pravila",
+"file": "data/freshness/pravila/2005.csv",
+"acts": 1
+},
+{
+"shard": "pravila/2006",
+"kind": "pravila",
+"file": "data/freshness/pravila/2006.csv",
+"acts": 2
+},
+{
+"shard": "pravila/2007",
+"kind": "pravila",
+"file": "data/freshness/pravila/2007.csv",
+"acts": 11
+},
+{
+"shard": "pravila/2008",
+"kind": "pravila",
+"file": "data/freshness/pravila/2008.csv",
+"acts": 1
+},
+{
+"shard": "pravila/2009",
+"kind": "pravila",
+"file": "data/freshness/pravila/2009.csv",
+"acts": 4
+},
+{
+"shard": "pravila/2010",
+"kind": "pravila",
+"file": "data/freshness/pravila/2010.csv",
+"acts": 3
+},
+{
+"shard": "pravila/2011",
+"kind": "pravila",
+"file": "data/freshness/pravila/2011.csv",
+"acts": 1
+},
+{
+"shard": "pravila/2012",
+"kind": "pravila",
+"file": "data/freshness/pravila/2012.csv",
+"acts": 9
+},
+{
+"shard": "pravila/2013",
+"kind": "pravila",
+"file": "data/freshness/pravila/2013.csv",
+"acts": 14
+},
+{
+"shard": "pravila/2014",
+"kind": "pravila",
+"file": "data/freshness/pravila/2014.csv",
+"acts": 12
+},
+{
+"shard": "pravila/2015",
+"kind": "pravila",
+"file": "data/freshness/pravila/2015.csv",
+"acts": 11
+},
+{
+"shard": "pravila/2016",
+"kind": "pravila",
+"file": "data/freshness/pravila/2016.csv",
+"acts": 8
+},
+{
+"shard": "pravila/2017",
+"kind": "pravila",
+"file": "data/freshness/pravila/2017.csv",
+"acts": 16
+},
+{
+"shard": "pravila/2018",
+"kind": "pravila",
+"file": "data/freshness/pravila/2018.csv",
+"acts": 16
+},
+{
+"shard": "pravila/2019",
+"kind": "pravila",
+"file": "data/freshness/pravila/2019.csv",
+"acts": 12
+},
+{
+"shard": "pravila/2020",
+"kind": "pravila",
+"file": "data/freshness/pravila/2020.csv",
+"acts": 4
+},
+{
+"shard": "pravila/2021",
+"kind": "pravila",
+"file": "data/freshness/pravila/2021.csv",
+"acts": 1
+},
+{
+"shard": "pravila/2022",
+"kind": "pravila",
+"file": "data/freshness/pravila/2022.csv",
+"acts": 11
+},
+{
+"shard": "pravila/2023",
+"kind": "pravila",
+"file": "data/freshness/pravila/2023.csv",
+"acts": 6
+},
+{
+"shard": "pravila/2024",
+"kind": "pravila",
+"file": "data/freshness/pravila/2024.csv",
+"acts": 4
+},
+{
+"shard": "pravila/2025",
+"kind": "pravila",
+"file": "data/freshness/pravila/2025.csv",
+"acts": 12
+},
+{
+"shard": "pravila/2026",
+"kind": "pravila",
+"file": "data/freshness/pravila/2026.csv",
+"acts": 90
+},
+{
+"shard": "pravilnik/1992",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1992.csv",
+"acts": 23
+},
+{
+"shard": "pravilnik/1993",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1993.csv",
+"acts": 3
+},
+{
+"shard": "pravilnik/1994",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1994.csv",
+"acts": 27
+},
+{
+"shard": "pravilnik/1995",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1995.csv",
+"acts": 30
+},
+{
+"shard": "pravilnik/1996",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1996.csv",
+"acts": 18
+},
+{
+"shard": "pravilnik/1997",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1997.csv",
+"acts": 20
+},
+{
+"shard": "pravilnik/1998",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1998.csv",
+"acts": 5
+},
+{
+"shard": "pravilnik/1999",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1999.csv",
+"acts": 9
+},
+{
+"shard": "pravilnik/2000",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2000.csv",
+"acts": 6
+},
+{
+"shard": "pravilnik/2001",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2001.csv",
+"acts": 25
+},
+{
+"shard": "pravilnik/2002",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2002.csv",
+"acts": 17
+},
+{
+"shard": "pravilnik/2003",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2003.csv",
+"acts": 14
+},
+{
+"shard": "pravilnik/2004",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2004.csv",
+"acts": 55
+},
+{
+"shard": "pravilnik/2005",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2005.csv",
+"acts": 51
+},
+{
+"shard": "pravilnik/2006",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2006.csv",
+"acts": 28
+},
+{
+"shard": "pravilnik/2007",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2007.csv",
+"acts": 33
+},
+{
+"shard": "pravilnik/2008",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2008.csv",
+"acts": 48
+},
+{
+"shard": "pravilnik/2009",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2009.csv",
+"acts": 50
+},
+{
+"shard": "pravilnik/2010",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2010.csv",
+"acts": 14
+},
+{
+"shard": "pravilnik/2011",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2011.csv",
+"acts": 72
+},
+{
+"shard": "pravilnik/2012",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2012.csv",
+"acts": 24
+},
+{
+"shard": "pravilnik/2013",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2013.csv",
+"acts": 157
+},
+{
+"shard": "pravilnik/2014",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2014.csv",
+"acts": 121
+},
+{
+"shard": "pravilnik/2015",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2015.csv",
+"acts": 198
+},
+{
+"shard": "pravilnik/2016",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2016.csv",
+"acts": 128
+},
+{
+"shard": "pravilnik/2017",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2017.csv",
+"acts": 177
+},
+{
+"shard": "pravilnik/2018",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2018.csv",
+"acts": 186
+},
+{
+"shard": "pravilnik/2019",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2019.csv",
+"acts": 130
+},
+{
+"shard": "pravilnik/2020",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2020.csv",
+"acts": 162
+},
+{
+"shard": "pravilnik/2021",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2021.csv",
+"acts": 106
+},
+{
+"shard": "pravilnik/2022",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2022.csv",
+"acts": 116
+},
+{
+"shard": "pravilnik/2023",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2023.csv",
+"acts": 86
+},
+{
+"shard": "pravilnik/2024",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2024.csv",
+"acts": 94
+},
+{
+"shard": "pravilnik/2025",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2025.csv",
+"acts": 177
+},
+{
+"shard": "pravilnik/2026",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2026.csv",
+"acts": 453
+},
+{
+"shard": "proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj/undated",
+"kind": "proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj",
+"file": "data/freshness/proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj/undated.csv",
+"acts": 1
+},
+{
+"shard": "program/2008",
+"kind": "program",
+"file": "data/freshness/program/2008.csv",
+"acts": 1
+},
+{
+"shard": "program/2009",
+"kind": "program",
+"file": "data/freshness/program/2009.csv",
+"acts": 3
+},
+{
+"shard": "program/2010",
+"kind": "program",
+"file": "data/freshness/program/2010.csv",
+"acts": 6
+},
+{
+"shard": "program/2011",
+"kind": "program",
+"file": "data/freshness/program/2011.csv",
+"acts": 8
+},
+{
+"shard": "program/2012",
+"kind": "program",
+"file": "data/freshness/program/2012.csv",
+"acts": 6
+},
+{
+"shard": "program/2013",
+"kind": "program",
+"file": "data/freshness/program/2013.csv",
+"acts": 16
+},
+{
+"shard": "program/2014",
+"kind": "program",
+"file": "data/freshness/program/2014.csv",
+"acts": 12
+},
+{
+"shard": "program/2015",
+"kind": "program",
+"file": "data/freshness/program/2015.csv",
+"acts": 15
+},
+{
+"shard": "program/2016",
+"kind": "program",
+"file": "data/freshness/program/2016.csv",
+"acts": 20
+},
+{
+"shard": "program/2017",
+"kind": "program",
+"file": "data/freshness/program/2017.csv",
+"acts": 22
+},
+{
+"shard": "program/2018",
+"kind": "program",
+"file": "data/freshness/program/2018.csv",
+"acts": 21
+},
+{
+"shard": "program/2019",
+"kind": "program",
+"file": "data/freshness/program/2019.csv",
+"acts": 20
+},
+{
+"shard": "program/2020",
+"kind": "program",
+"file": "data/freshness/program/2020.csv",
+"acts": 22
+},
+{
+"shard": "program/2021",
+"kind": "program",
+"file": "data/freshness/program/2021.csv",
+"acts": 19
+},
+{
+"shard": "program/2022",
+"kind": "program",
+"file": "data/freshness/program/2022.csv",
+"acts": 38
+},
+{
+"shard": "program/2023",
+"kind": "program",
+"file": "data/freshness/program/2023.csv",
+"acts": 27
+},
+{
+"shard": "program/2024",
+"kind": "program",
+"file": "data/freshness/program/2024.csv",
+"acts": 20
+},
+{
+"shard": "program/2025",
+"kind": "program",
+"file": "data/freshness/program/2025.csv",
+"acts": 34
+},
+{
+"shard": "program/2026",
+"kind": "program",
+"file": "data/freshness/program/2026.csv",
+"acts": 20
+},
+{
+"shard": "rjesenje/1992",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/1992.csv",
+"acts": 6
+},
+{
+"shard": "rjesenje/1994",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/1994.csv",
+"acts": 7
+},
+{
+"shard": "rjesenje/1995",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/1995.csv",
+"acts": 9
+},
+{
+"shard": "rjesenje/1996",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/1996.csv",
+"acts": 7
+},
+{
+"shard": "rjesenje/1997",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/1997.csv",
+"acts": 5
+},
+{
+"shard": "rjesenje/1998",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/1998.csv",
+"acts": 7
+},
+{
+"shard": "rjesenje/1999",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/1999.csv",
+"acts": 5
+},
+{
+"shard": "rjesenje/2000",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2000.csv",
+"acts": 13
+},
+{
+"shard": "rjesenje/2001",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2001.csv",
+"acts": 7
+},
+{
+"shard": "rjesenje/2002",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2002.csv",
+"acts": 7
+},
+{
+"shard": "rjesenje/2003",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2003.csv",
+"acts": 4
+},
+{
+"shard": "rjesenje/2004",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2004.csv",
+"acts": 7
+},
+{
+"shard": "rjesenje/2005",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2005.csv",
+"acts": 10
+},
+{
+"shard": "rjesenje/2006",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2006.csv",
+"acts": 63
+},
+{
+"shard": "rjesenje/2007",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2007.csv",
+"acts": 22
+},
+{
+"shard": "rjesenje/2008",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2008.csv",
+"acts": 47
+},
+{
+"shard": "rjesenje/2009",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2009.csv",
+"acts": 40
+},
+{
+"shard": "rjesenje/2010",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2010.csv",
+"acts": 53
+},
+{
+"shard": "rjesenje/2011",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2011.csv",
+"acts": 152
+},
+{
+"shard": "rjesenje/2012",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2012.csv",
+"acts": 76
+},
+{
+"shard": "rjesenje/2013",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2013.csv",
+"acts": 116
+},
+{
+"shard": "rjesenje/2014",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2014.csv",
+"acts": 160
+},
+{
+"shard": "rjesenje/2015",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2015.csv",
+"acts": 187
+},
+{
+"shard": "rjesenje/2016",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2016.csv",
+"acts": 136
+},
+{
+"shard": "rjesenje/2017",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2017.csv",
+"acts": 276
+},
+{
+"shard": "rjesenje/2018",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2018.csv",
+"acts": 199
+},
+{
+"shard": "rjesenje/2019",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2019.csv",
+"acts": 250
+},
+{
+"shard": "rjesenje/2020",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2020.csv",
+"acts": 248
+},
+{
+"shard": "rjesenje/2021",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2021.csv",
+"acts": 183
+},
+{
+"shard": "rjesenje/2022",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2022.csv",
+"acts": 196
+},
+{
+"shard": "rjesenje/2023",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2023.csv",
+"acts": 267
+},
+{
+"shard": "rjesenje/2024",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2024.csv",
+"acts": 107
+},
+{
+"shard": "rjesenje/2025",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2025.csv",
+"acts": 261
+},
+{
+"shard": "rjesenje/2026",
+"kind": "rjesenje",
+"file": "data/freshness/rjesenje/2026.csv",
+"acts": 189
+},
+{
+"shard": "statut/2001",
+"kind": "statut",
+"file": "data/freshness/statut/2001.csv",
+"acts": 1
+},
+{
+"shard": "statut/2003",
+"kind": "statut",
+"file": "data/freshness/statut/2003.csv",
+"acts": 1
+},
+{
+"shard": "statut/2004",
+"kind": "statut",
+"file": "data/freshness/statut/2004.csv",
+"acts": 2
+},
+{
+"shard": "statut/2005",
+"kind": "statut",
+"file": "data/freshness/statut/2005.csv",
+"acts": 1
+},
+{
+"shard": "statut/2006",
+"kind": "statut",
+"file": "data/freshness/statut/2006.csv",
+"acts": 2
+},
+{
+"shard": "statut/2009",
+"kind": "statut",
+"file": "data/freshness/statut/2009.csv",
+"acts": 2
+},
+{
+"shard": "statut/2010",
+"kind": "statut",
+"file": "data/freshness/statut/2010.csv",
+"acts": 2
+},
+{
+"shard": "statut/2011",
+"kind": "statut",
+"file": "data/freshness/statut/2011.csv",
+"acts": 5
+},
+{
+"shard": "statut/2012",
+"kind": "statut",
+"file": "data/freshness/statut/2012.csv",
+"acts": 1
+},
+{
+"shard": "statut/2013",
+"kind": "statut",
+"file": "data/freshness/statut/2013.csv",
+"acts": 11
+},
+{
+"shard": "statut/2014",
+"kind": "statut",
+"file": "data/freshness/statut/2014.csv",
+"acts": 7
+},
+{
+"shard": "statut/2015",
+"kind": "statut",
+"file": "data/freshness/statut/2015.csv",
+"acts": 8
+},
+{
+"shard": "statut/2016",
+"kind": "statut",
+"file": "data/freshness/statut/2016.csv",
+"acts": 3
+},
+{
+"shard": "statut/2017",
+"kind": "statut",
+"file": "data/freshness/statut/2017.csv",
+"acts": 9
+},
+{
+"shard": "statut/2018",
+"kind": "statut",
+"file": "data/freshness/statut/2018.csv",
+"acts": 15
+},
+{
+"shard": "statut/2019",
+"kind": "statut",
+"file": "data/freshness/statut/2019.csv",
+"acts": 8
+},
+{
+"shard": "statut/2020",
+"kind": "statut",
+"file": "data/freshness/statut/2020.csv",
+"acts": 2
+},
+{
+"shard": "statut/2021",
+"kind": "statut",
+"file": "data/freshness/statut/2021.csv",
+"acts": 8
+},
+{
+"shard": "statut/2022",
+"kind": "statut",
+"file": "data/freshness/statut/2022.csv",
+"acts": 17
+},
+{
+"shard": "statut/2023",
+"kind": "statut",
+"file": "data/freshness/statut/2023.csv",
+"acts": 6
+},
+{
+"shard": "statut/2024",
+"kind": "statut",
+"file": "data/freshness/statut/2024.csv",
+"acts": 8
+},
+{
+"shard": "statut/2025",
+"kind": "statut",
+"file": "data/freshness/statut/2025.csv",
+"acts": 7
+},
+{
+"shard": "statut/2026",
+"kind": "statut",
+"file": "data/freshness/statut/2026.csv",
+"acts": 22
+},
+{
+"shard": "ugovor/2010",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2010.csv",
+"acts": 7
+},
+{
+"shard": "ugovor/2011",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2011.csv",
+"acts": 5
+},
+{
+"shard": "ugovor/2012",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2012.csv",
+"acts": 6
+},
+{
+"shard": "ugovor/2013",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2013.csv",
+"acts": 7
+},
+{
+"shard": "ugovor/2014",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2014.csv",
+"acts": 26
+},
+{
+"shard": "ugovor/2015",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2015.csv",
+"acts": 5
+},
+{
+"shard": "ugovor/2016",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2016.csv",
+"acts": 5
+},
+{
+"shard": "ugovor/2017",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2017.csv",
+"acts": 16
+},
+{
+"shard": "ugovor/2018",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2018.csv",
+"acts": 19
+},
+{
+"shard": "ugovor/2019",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2019.csv",
+"acts": 10
+},
+{
+"shard": "ugovor/2020",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2020.csv",
+"acts": 8
+},
+{
+"shard": "ugovor/2021",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2021.csv",
+"acts": 4
+},
+{
+"shard": "ugovor/2023",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2023.csv",
+"acts": 1
+},
+{
+"shard": "ugovor/2024",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2024.csv",
+"acts": 6
+},
+{
+"shard": "ugovor/2025",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2025.csv",
+"acts": 11
+},
+{
+"shard": "ugovor/2026",
+"kind": "ugovor",
+"file": "data/freshness/ugovor/2026.csv",
+"acts": 6
+},
+{
+"shard": "uputstvo/1992",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/1992.csv",
+"acts": 6
+},
+{
+"shard": "uputstvo/1993",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/1993.csv",
+"acts": 1
+},
+{
+"shard": "uputstvo/1994",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/1994.csv",
+"acts": 5
+},
+{
+"shard": "uputstvo/1995",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/1995.csv",
+"acts": 7
+},
+{
+"shard": "uputstvo/1996",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/1996.csv",
+"acts": 8
+},
+{
+"shard": "uputstvo/1997",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/1997.csv",
+"acts": 9
+},
+{
+"shard": "uputstvo/1998",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/1998.csv",
+"acts": 2
+},
+{
+"shard": "uputstvo/1999",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/1999.csv",
+"acts": 1
+},
+{
+"shard": "uputstvo/2000",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2000.csv",
+"acts": 4
+},
+{
+"shard": "uputstvo/2001",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2001.csv",
+"acts": 4
+},
+{
+"shard": "uputstvo/2002",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2002.csv",
+"acts": 4
+},
+{
+"shard": "uputstvo/2003",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2003.csv",
+"acts": 6
+},
+{
+"shard": "uputstvo/2004",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2004.csv",
+"acts": 12
+},
+{
+"shard": "uputstvo/2005",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2005.csv",
+"acts": 5
+},
+{
+"shard": "uputstvo/2006",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2006.csv",
+"acts": 5
+},
+{
+"shard": "uputstvo/2007",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2007.csv",
+"acts": 5
+},
+{
+"shard": "uputstvo/2008",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2008.csv",
+"acts": 3
+},
+{
+"shard": "uputstvo/2009",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2009.csv",
+"acts": 2
+},
+{
+"shard": "uputstvo/2010",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2010.csv",
+"acts": 3
+},
+{
+"shard": "uputstvo/2011",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2011.csv",
+"acts": 4
+},
+{
+"shard": "uputstvo/2012",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2012.csv",
+"acts": 3
+},
+{
+"shard": "uputstvo/2013",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2013.csv",
+"acts": 8
+},
+{
+"shard": "uputstvo/2014",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2014.csv",
+"acts": 9
+},
+{
+"shard": "uputstvo/2015",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2015.csv",
+"acts": 8
+},
+{
+"shard": "uputstvo/2016",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2016.csv",
+"acts": 7
+},
+{
+"shard": "uputstvo/2017",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2017.csv",
+"acts": 6
+},
+{
+"shard": "uputstvo/2018",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2018.csv",
+"acts": 2
+},
+{
+"shard": "uputstvo/2019",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2019.csv",
+"acts": 5
+},
+{
+"shard": "uputstvo/2020",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2020.csv",
+"acts": 8
+},
+{
+"shard": "uputstvo/2022",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2022.csv",
+"acts": 13
+},
+{
+"shard": "uputstvo/2023",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2023.csv",
+"acts": 2
+},
+{
+"shard": "uputstvo/2024",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2024.csv",
+"acts": 3
+},
+{
+"shard": "uputstvo/2025",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2025.csv",
+"acts": 8
+},
+{
+"shard": "uputstvo/2026",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2026.csv",
+"acts": 6
+},
+{
+"shard": "uredba/1992",
+"kind": "uredba",
+"file": "data/freshness/uredba/1992.csv",
+"acts": 15
+},
+{
+"shard": "uredba/1993",
+"kind": "uredba",
+"file": "data/freshness/uredba/1993.csv",
+"acts": 34
+},
+{
+"shard": "uredba/1994",
+"kind": "uredba",
+"file": "data/freshness/uredba/1994.csv",
+"acts": 39
+},
+{
+"shard": "uredba/1995",
+"kind": "uredba",
+"file": "data/freshness/uredba/1995.csv",
+"acts": 30
+},
+{
+"shard": "uredba/1996",
+"kind": "uredba",
+"file": "data/freshness/uredba/1996.csv",
+"acts": 20
+},
+{
+"shard": "uredba/1997",
+"kind": "uredba",
+"file": "data/freshness/uredba/1997.csv",
+"acts": 23
+},
+{
+"shard": "uredba/1998",
+"kind": "uredba",
+"file": "data/freshness/uredba/1998.csv",
+"acts": 14
+},
+{
+"shard": "uredba/1999",
+"kind": "uredba",
+"file": "data/freshness/uredba/1999.csv",
+"acts": 43
+},
+{
+"shard": "uredba/2000",
+"kind": "uredba",
+"file": "data/freshness/uredba/2000.csv",
+"acts": 34
+},
+{
+"shard": "uredba/2001",
+"kind": "uredba",
+"file": "data/freshness/uredba/2001.csv",
+"acts": 57
+},
+{
+"shard": "uredba/2002",
+"kind": "uredba",
+"file": "data/freshness/uredba/2002.csv",
+"acts": 25
+},
+{
+"shard": "uredba/2003",
+"kind": "uredba",
+"file": "data/freshness/uredba/2003.csv",
+"acts": 18
+},
+{
+"shard": "uredba/2004",
+"kind": "uredba",
+"file": "data/freshness/uredba/2004.csv",
+"acts": 16
+},
+{
+"shard": "uredba/2005",
+"kind": "uredba",
+"file": "data/freshness/uredba/2005.csv",
+"acts": 15
+},
+{
+"shard": "uredba/2006",
+"kind": "uredba",
+"file": "data/freshness/uredba/2006.csv",
+"acts": 14
+},
+{
+"shard": "uredba/2007",
+"kind": "uredba",
+"file": "data/freshness/uredba/2007.csv",
+"acts": 10
+},
+{
+"shard": "uredba/2008",
+"kind": "uredba",
+"file": "data/freshness/uredba/2008.csv",
+"acts": 33
+},
+{
+"shard": "uredba/2009",
+"kind": "uredba",
+"file": "data/freshness/uredba/2009.csv",
+"acts": 10
+},
+{
+"shard": "uredba/2010",
+"kind": "uredba",
+"file": "data/freshness/uredba/2010.csv",
+"acts": 8
+},
+{
+"shard": "uredba/2011",
+"kind": "uredba",
+"file": "data/freshness/uredba/2011.csv",
+"acts": 9
+},
+{
+"shard": "uredba/2012",
+"kind": "uredba",
+"file": "data/freshness/uredba/2012.csv",
+"acts": 4
+},
+{
+"shard": "uredba/2013",
+"kind": "uredba",
+"file": "data/freshness/uredba/2013.csv",
+"acts": 28
+},
+{
+"shard": "uredba/2014",
+"kind": "uredba",
+"file": "data/freshness/uredba/2014.csv",
+"acts": 26
+},
+{
+"shard": "uredba/2015",
+"kind": "uredba",
+"file": "data/freshness/uredba/2015.csv",
+"acts": 19
+},
+{
+"shard": "uredba/2016",
+"kind": "uredba",
+"file": "data/freshness/uredba/2016.csv",
+"acts": 24
+},
+{
+"shard": "uredba/2017",
+"kind": "uredba",
+"file": "data/freshness/uredba/2017.csv",
+"acts": 31
+},
+{
+"shard": "uredba/2018",
+"kind": "uredba",
+"file": "data/freshness/uredba/2018.csv",
+"acts": 24
+},
+{
+"shard": "uredba/2019",
+"kind": "uredba",
+"file": "data/freshness/uredba/2019.csv",
+"acts": 22
+},
+{
+"shard": "uredba/2020",
+"kind": "uredba",
+"file": "data/freshness/uredba/2020.csv",
+"acts": 22
+},
+{
+"shard": "uredba/2021",
+"kind": "uredba",
+"file": "data/freshness/uredba/2021.csv",
+"acts": 23
+},
+{
+"shard": "uredba/2022",
+"kind": "uredba",
+"file": "data/freshness/uredba/2022.csv",
+"acts": 16
+},
+{
+"shard": "uredba/2023",
+"kind": "uredba",
+"file": "data/freshness/uredba/2023.csv",
+"acts": 14
+},
+{
+"shard": "uredba/2024",
+"kind": "uredba",
+"file": "data/freshness/uredba/2024.csv",
+"acts": 8
+},
+{
+"shard": "uredba/2025",
+"kind": "uredba",
+"file": "data/freshness/uredba/2025.csv",
+"acts": 32
+},
+{
+"shard": "uredba/2026",
+"kind": "uredba",
+"file": "data/freshness/uredba/2026.csv",
+"acts": 78
+},
+{
+"shard": "ustav/undated",
+"kind": "ustav",
+"file": "data/freshness/ustav/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon/1992",
+"kind": "zakon",
+"file": "data/freshness/zakon/1992.csv",
+"acts": 16
+},
+{
+"shard": "zakon/1993",
+"kind": "zakon",
+"file": "data/freshness/zakon/1993.csv",
+"acts": 3
+},
+{
+"shard": "zakon/1994",
+"kind": "zakon",
+"file": "data/freshness/zakon/1994.csv",
+"acts": 18
+},
+{
+"shard": "zakon/1995",
+"kind": "zakon",
+"file": "data/freshness/zakon/1995.csv",
+"acts": 8
+},
+{
+"shard": "zakon/1996",
+"kind": "zakon",
+"file": "data/freshness/zakon/1996.csv",
+"acts": 2
+},
+{
+"shard": "zakon/1997",
+"kind": "zakon",
+"file": "data/freshness/zakon/1997.csv",
+"acts": 1
+},
+{
+"shard": "zakon/1998",
+"kind": "zakon",
+"file": "data/freshness/zakon/1998.csv",
+"acts": 4
+},
+{
+"shard": "zakon/1999",
+"kind": "zakon",
+"file": "data/freshness/zakon/1999.csv",
+"acts": 4
+},
+{
+"shard": "zakon/2000",
+"kind": "zakon",
+"file": "data/freshness/zakon/2000.csv",
+"acts": 6
+},
+{
+"shard": "zakon/2001",
+"kind": "zakon",
+"file": "data/freshness/zakon/2001.csv",
+"acts": 4
+},
+{
+"shard": "zakon/2002",
+"kind": "zakon",
+"file": "data/freshness/zakon/2002.csv",
+"acts": 8
+},
+{
+"shard": "zakon/2003",
+"kind": "zakon",
+"file": "data/freshness/zakon/2003.csv",
+"acts": 7
+},
+{
+"shard": "zakon/2004",
+"kind": "zakon",
+"file": "data/freshness/zakon/2004.csv",
+"acts": 7
+},
+{
+"shard": "zakon/2005",
+"kind": "zakon",
+"file": "data/freshness/zakon/2005.csv",
+"acts": 4
+},
+{
+"shard": "zakon/2006",
+"kind": "zakon",
+"file": "data/freshness/zakon/2006.csv",
+"acts": 8
+},
+{
+"shard": "zakon/2007",
+"kind": "zakon",
+"file": "data/freshness/zakon/2007.csv",
+"acts": 4
+},
+{
+"shard": "zakon/2008",
+"kind": "zakon",
+"file": "data/freshness/zakon/2008.csv",
+"acts": 8
+},
+{
+"shard": "zakon/2009",
+"kind": "zakon",
+"file": "data/freshness/zakon/2009.csv",
+"acts": 4
+},
+{
+"shard": "zakon/2010",
+"kind": "zakon",
+"file": "data/freshness/zakon/2010.csv",
+"acts": 9
+},
+{
+"shard": "zakon/2011",
+"kind": "zakon",
+"file": "data/freshness/zakon/2011.csv",
+"acts": 6
+},
+{
+"shard": "zakon/2012",
+"kind": "zakon",
+"file": "data/freshness/zakon/2012.csv",
+"acts": 3
+},
+{
+"shard": "zakon/2013",
+"kind": "zakon",
+"file": "data/freshness/zakon/2013.csv",
+"acts": 10
+},
+{
+"shard": "zakon/2014",
+"kind": "zakon",
+"file": "data/freshness/zakon/2014.csv",
+"acts": 3
+},
+{
+"shard": "zakon/2015",
+"kind": "zakon",
+"file": "data/freshness/zakon/2015.csv",
+"acts": 8
+},
+{
+"shard": "zakon/2016",
+"kind": "zakon",
+"file": "data/freshness/zakon/2016.csv",
+"acts": 14
+},
+{
+"shard": "zakon/2017",
+"kind": "zakon",
+"file": "data/freshness/zakon/2017.csv",
+"acts": 12
+},
+{
+"shard": "zakon/2018",
+"kind": "zakon",
+"file": "data/freshness/zakon/2018.csv",
+"acts": 4
+},
+{
+"shard": "zakon/2019",
+"kind": "zakon",
+"file": "data/freshness/zakon/2019.csv",
+"acts": 4
+},
+{
+"shard": "zakon/2020",
+"kind": "zakon",
+"file": "data/freshness/zakon/2020.csv",
+"acts": 4
+},
+{
+"shard": "zakon/2021",
+"kind": "zakon",
+"file": "data/freshness/zakon/2021.csv",
+"acts": 6
+},
+{
+"shard": "zakon/2022",
+"kind": "zakon",
+"file": "data/freshness/zakon/2022.csv",
+"acts": 8
+},
+{
+"shard": "zakon/2023",
+"kind": "zakon",
+"file": "data/freshness/zakon/2023.csv",
+"acts": 2
+},
+{
+"shard": "zakon/2024",
+"kind": "zakon",
+"file": "data/freshness/zakon/2024.csv",
+"acts": 4
+},
+{
+"shard": "zakon/2025",
+"kind": "zakon",
+"file": "data/freshness/zakon/2025.csv",
+"acts": 20
+},
+{
+"shard": "zakon/2026",
+"kind": "zakon",
+"file": "data/freshness/zakon/2026.csv",
+"acts": 84
+},
+{
+"shard": "zakon-o-administrativnim-taksama/undated",
+"kind": "zakon-o-administrativnim-taksama",
+"file": "data/freshness/zakon-o-administrativnim-taksama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-akcizama/undated",
+"kind": "zakon-o-akcizama",
+"file": "data/freshness/zakon-o-akcizama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-akvakulturi/undated",
+"kind": "zakon-o-akvakulturi",
+"file": "data/freshness/zakon-o-akvakulturi/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-amnestiji-lica-osudjenih-za-krivicna-djela-propisana-zakonima/undated",
+"kind": "zakon-o-amnestiji-lica-osudjenih-za-krivicna-djela-propisana-zakonima",
+"file": "data/freshness/zakon-o-amnestiji-lica-osudjenih-za-krivicna-djela-propisana-zakonima/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-audiovizuelnim-medijskim-uslugama/undated",
+"kind": "zakon-o-audiovizuelnim-medijskim-uslugama",
+"file": "data/freshness/zakon-o-audiovizuelnim-medijskim-uslugama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-budzetu-i-fiskalnoj-odgovornosti/undated",
+"kind": "zakon-o-budzetu-i-fiskalnoj-odgovornosti",
+"file": "data/freshness/zakon-o-budzetu-i-fiskalnoj-odgovornosti/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-digitalnoj-operativnoj-otpornosti-finansijskog-sektora/undated",
+"kind": "zakon-o-digitalnoj-operativnoj-otpornosti-finansijskog-sektora",
+"file": "data/freshness/zakon-o-digitalnoj-operativnoj-otpornosti-finansijskog-sektora/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-drzavnim-nagradama/undated",
+"kind": "zakon-o-drzavnim-nagradama",
+"file": "data/freshness/zakon-o-drzavnim-nagradama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-eksplozivima-za-civilnu-upotrebu/undated",
+"kind": "zakon-o-eksplozivima-za-civilnu-upotrebu",
+"file": "data/freshness/zakon-o-eksplozivima-za-civilnu-upotrebu/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-elektronskim-informacijama-o-prevozu-tereta/undated",
+"kind": "zakon-o-elektronskim-informacijama-o-prevozu-tereta",
+"file": "data/freshness/zakon-o-elektronskim-informacijama-o-prevozu-tereta/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-elektronskoj-identifikaciji-i-uslugama-povjerenja/undated",
+"kind": "zakon-o-elektronskoj-identifikaciji-i-uslugama-povjerenja",
+"file": "data/freshness/zakon-o-elektronskoj-identifikaciji-i-uslugama-povjerenja/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-elektronskoj-upravi/undated",
+"kind": "zakon-o-elektronskoj-upravi",
+"file": "data/freshness/zakon-o-elektronskoj-upravi/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-elektronskom-dokumentu/undated",
+"kind": "zakon-o-elektronskom-dokumentu",
+"file": "data/freshness/zakon-o-elektronskom-dokumentu/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-geoloskim-istrazivanjima/undated",
+"kind": "zakon-o-geoloskim-istrazivanjima",
+"file": "data/freshness/zakon-o-geoloskim-istrazivanjima/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-globalnom-minimalnom-porezu-na-dobit-pravnih-lica/undated",
+"kind": "zakon-o-globalnom-minimalnom-porezu-na-dobit-pravnih-lica",
+"file": "data/freshness/zakon-o-globalnom-minimalnom-porezu-na-dobit-pravnih-lica/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-granicnoj-kontroli/undated",
+"kind": "zakon-o-granicnoj-kontroli",
+"file": "data/freshness/zakon-o-granicnoj-kontroli/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-hemikalijama/undated",
+"kind": "zakon-o-hemikalijama",
+"file": "data/freshness/zakon-o-hemikalijama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-homologaciji-vozila-sistema-sastavnih-djelova-vozila-i-posebni/undated",
+"kind": "zakon-o-homologaciji-vozila-sistema-sastavnih-djelova-vozila-i-posebni",
+"file": "data/freshness/zakon-o-homologaciji-vozila-sistema-sastavnih-djelova-vozila-i-posebni/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-informacionoj-bezbjednosti/undated",
+"kind": "zakon-o-informacionoj-bezbjednosti",
+"file": "data/freshness/zakon-o-informacionoj-bezbjednosti/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-infrastrukturi-prostornih-podataka/undated",
+"kind": "zakon-o-infrastrukturi-prostornih-podataka",
+"file": "data/freshness/zakon-o-infrastrukturi-prostornih-podataka/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-izboru-upotrebi-i-javnom-isticanju-nacionalnih-simbola/undated",
+"kind": "zakon-o-izboru-upotrebi-i-javnom-isticanju-nacionalnih-simbola",
+"file": "data/freshness/zakon-o-izboru-upotrebi-i-javnom-isticanju-nacionalnih-simbola/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-jakim-alkoholnim-picima/undated",
+"kind": "zakon-o-jakim-alkoholnim-picima",
+"file": "data/freshness/zakon-o-jakim-alkoholnim-picima/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-javnim-izvrsiteljima/undated",
+"kind": "zakon-o-javnim-izvrsiteljima",
+"file": "data/freshness/zakon-o-javnim-izvrsiteljima/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-javno-privatnom-partnerstvu/undated",
+"kind": "zakon-o-javno-privatnom-partnerstvu",
+"file": "data/freshness/zakon-o-javno-privatnom-partnerstvu/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-klasifikaciji-djelatnosti/undated",
+"kind": "zakon-o-klasifikaciji-djelatnosti",
+"file": "data/freshness/zakon-o-klasifikaciji-djelatnosti/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-kontroli-izvoza-roba-dvostruke-namjene/undated",
+"kind": "zakon-o-kontroli-izvoza-roba-dvostruke-namjene",
+"file": "data/freshness/zakon-o-kontroli-izvoza-roba-dvostruke-namjene/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-koriscenju-fizicke-infrastrukture-za-postavljanje-elektronskih/undated",
+"kind": "zakon-o-koriscenju-fizicke-infrastrukture-za-postavljanje-elektronskih",
+"file": "data/freshness/zakon-o-koriscenju-fizicke-infrastrukture-za-postavljanje-elektronskih/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-kreditno-garantnom-fondu-crne-gore/undated",
+"kind": "zakon-o-kreditno-garantnom-fondu-crne-gore",
+"file": "data/freshness/zakon-o-kreditno-garantnom-fondu-crne-gore/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-legalizaciji-javnih-isprava-u-medjunarodnom-prometu/undated",
+"kind": "zakon-o-legalizaciji-javnih-isprava-u-medjunarodnom-prometu",
+"file": "data/freshness/zakon-o-legalizaciji-javnih-isprava-u-medjunarodnom-prometu/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-lobiranju/undated",
+"kind": "zakon-o-lobiranju",
+"file": "data/freshness/zakon-o-lobiranju/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-lokalnim-komunalnim-taksama/undated",
+"kind": "zakon-o-lokalnim-komunalnim-taksama",
+"file": "data/freshness/zakon-o-lokalnim-komunalnim-taksama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-lokalnim-sluzbenicima-i-namjestenicima/undated",
+"kind": "zakon-o-lokalnim-sluzbenicima-i-namjestenicima",
+"file": "data/freshness/zakon-o-lokalnim-sluzbenicima-i-namjestenicima/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-lukama/undated",
+"kind": "zakon-o-lukama",
+"file": "data/freshness/zakon-o-lukama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-medicinski-potpomognutoj-oplodnji/undated",
+"kind": "zakon-o-medicinski-potpomognutoj-oplodnji",
+"file": "data/freshness/zakon-o-medicinski-potpomognutoj-oplodnji/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-medijima/undated",
+"kind": "zakon-o-medijima",
+"file": "data/freshness/zakon-o-medijima/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-medjubankarskim-naknadama-i-posebnim-pravilima-poslovanja-u-ve/undated",
+"kind": "zakon-o-medjubankarskim-naknadama-i-posebnim-pravilima-poslovanja-u-ve",
+"file": "data/freshness/zakon-o-medjubankarskim-naknadama-i-posebnim-pravilima-poslovanja-u-ve/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-medjunarodnoj-pravnoj-pomoci-u-krivicnim-stvarima/undated",
+"kind": "zakon-o-medjunarodnoj-pravnoj-pomoci-u-krivicnim-stvarima",
+"file": "data/freshness/zakon-o-medjunarodnoj-pravnoj-pomoci-u-krivicnim-stvarima/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-medjunarodnoj-razvojnoj-saradnji-i-medjunarodnoj-humanitarnoj/undated",
+"kind": "zakon-o-medjunarodnoj-razvojnoj-saradnji-i-medjunarodnoj-humanitarnoj",
+"file": "data/freshness/zakon-o-medjunarodnoj-razvojnoj-saradnji-i-medjunarodnoj-humanitarnoj/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-mehanizmima-rjesavanja-poreskih-sporova-u-evropskoj-uniji/undated",
+"kind": "zakon-o-mehanizmima-rjesavanja-poreskih-sporova-u-evropskoj-uniji",
+"file": "data/freshness/zakon-o-mehanizmima-rjesavanja-poreskih-sporova-u-evropskoj-uniji/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-mjerama-sigurnosti-prilikom-istrazivanja-i-proizvodnje-ugljovo/undated",
+"kind": "zakon-o-mjerama-sigurnosti-prilikom-istrazivanja-i-proizvodnje-ugljovo",
+"file": "data/freshness/zakon-o-mjerama-sigurnosti-prilikom-istrazivanja-i-proizvodnje-ugljovo/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-morskom-ribarstvu/undated",
+"kind": "zakon-o-morskom-ribarstvu",
+"file": "data/freshness/zakon-o-morskom-ribarstvu/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-nacionalnim-strucnim-kvalifikacijama/undated",
+"kind": "zakon-o-nacionalnim-strucnim-kvalifikacijama",
+"file": "data/freshness/zakon-o-nacionalnim-strucnim-kvalifikacijama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-nacionalnom-javnom-emiteru-javnom-medijskom-servisu-crne-gore/undated",
+"kind": "zakon-o-nacionalnom-javnom-emiteru-javnom-medijskom-servisu-crne-gore",
+"file": "data/freshness/zakon-o-nacionalnom-javnom-emiteru-javnom-medijskom-servisu-crne-gore/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-nadzoru-nad-veleprodajnim-trzistem-elektricne-energije-i-priro/undated",
+"kind": "zakon-o-nadzoru-nad-veleprodajnim-trzistem-elektricne-energije-i-priro",
+"file": "data/freshness/zakon-o-nadzoru-nad-veleprodajnim-trzistem-elektricne-energije-i-priro/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-nadzoru-proizvoda-na-trzistu/undated",
+"kind": "zakon-o-nadzoru-proizvoda-na-trzistu",
+"file": "data/freshness/zakon-o-nadzoru-proizvoda-na-trzistu/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-obestecenju-bivsih-korisnica-naknada-po-osnovu-rodjenja-troje/undated",
+"kind": "zakon-o-obestecenju-bivsih-korisnica-naknada-po-osnovu-rodjenja-troje",
+"file": "data/freshness/zakon-o-obestecenju-bivsih-korisnica-naknada-po-osnovu-rodjenja-troje/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-obestecenju-bivsih-radnika-kombinata-aluminijuma-podgorica-cij/undated",
+"kind": "zakon-o-obestecenju-bivsih-radnika-kombinata-aluminijuma-podgorica-cij",
+"file": "data/freshness/zakon-o-obestecenju-bivsih-radnika-kombinata-aluminijuma-podgorica-cij/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-obezbjedjivanju-zdravstveno-ispravne-vode-za-ljudsku-upotrebu/undated",
+"kind": "zakon-o-obezbjedjivanju-zdravstveno-ispravne-vode-za-ljudsku-upotrebu",
+"file": "data/freshness/zakon-o-obezbjedjivanju-zdravstveno-ispravne-vode-za-ljudsku-upotrebu/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-obnovi-nakon-nepogode/undated",
+"kind": "zakon-o-obnovi-nakon-nepogode",
+"file": "data/freshness/zakon-o-obnovi-nakon-nepogode/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-obradi-podataka-o-putnicima-u-vazdusnom-saobracaju-u-cilju-spr/undated",
+"kind": "zakon-o-obradi-podataka-o-putnicima-u-vazdusnom-saobracaju-u-cilju-spr",
+"file": "data/freshness/zakon-o-obradi-podataka-o-putnicima-u-vazdusnom-saobracaju-u-cilju-spr/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-obrazovanju-odraslih/undated",
+"kind": "zakon-o-obrazovanju-odraslih",
+"file": "data/freshness/zakon-o-obrazovanju-odraslih/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-oduzimanju-imovinske-koristi-stecene-kriminalnom-aktivnoscu/undated",
+"kind": "zakon-o-oduzimanju-imovinske-koristi-stecene-kriminalnom-aktivnoscu",
+"file": "data/freshness/zakon-o-oduzimanju-imovinske-koristi-stecene-kriminalnom-aktivnoscu/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-organizovanju-trzista-u-ribarstvu-i-akvakulturi/undated",
+"kind": "zakon-o-organizovanju-trzista-u-ribarstvu-i-akvakulturi",
+"file": "data/freshness/zakon-o-organizovanju-trzista-u-ribarstvu-i-akvakulturi/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-organskoj-proizvodnji/undated",
+"kind": "zakon-o-organskoj-proizvodnji",
+"file": "data/freshness/zakon-o-organskoj-proizvodnji/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-oruzju-i-municiji/undated",
+"kind": "zakon-o-oruzju-i-municiji",
+"file": "data/freshness/zakon-o-oruzju-i-municiji/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-oslobadjanju-od-poreza-za-odredjena-prevozna-sredstva-koja-se/undated",
+"kind": "zakon-o-oslobadjanju-od-poreza-za-odredjena-prevozna-sredstva-koja-se",
+"file": "data/freshness/zakon-o-oslobadjanju-od-poreza-za-odredjena-prevozna-sredstva-koja-se/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-ostvarivanju-prava-na-finansijsku-podrsku-licima-koja-su-bila/undated",
+"kind": "zakon-o-ostvarivanju-prava-na-finansijsku-podrsku-licima-koja-su-bila",
+"file": "data/freshness/zakon-o-ostvarivanju-prava-na-finansijsku-podrsku-licima-koja-su-bila/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-otklanjanju-posljedica-oduzimanja-imovine-u-uvali-valdanos/undated",
+"kind": "zakon-o-otklanjanju-posljedica-oduzimanja-imovine-u-uvali-valdanos",
+"file": "data/freshness/zakon-o-otklanjanju-posljedica-oduzimanja-imovine-u-uvali-valdanos/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-otpisu-kamate-na-dospjele-poreske-obaveze/undated",
+"kind": "zakon-o-otpisu-kamate-na-dospjele-poreske-obaveze",
+"file": "data/freshness/zakon-o-otpisu-kamate-na-dospjele-poreske-obaveze/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-otpornosti-kriticne-infrastrukture/undated",
+"kind": "zakon-o-otpornosti-kriticne-infrastrukture",
+"file": "data/freshness/zakon-o-otpornosti-kriticne-infrastrukture/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-podsticajnim-mjerama-za-razvoj-istrazivanja-i-inovacija/undated",
+"kind": "zakon-o-podsticajnim-mjerama-za-razvoj-istrazivanja-i-inovacija",
+"file": "data/freshness/zakon-o-podsticajnim-mjerama-za-razvoj-istrazivanja-i-inovacija/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-pomorsko-agencijskoj-djelatnosti/undated",
+"kind": "zakon-o-pomorsko-agencijskoj-djelatnosti",
+"file": "data/freshness/zakon-o-pomorsko-agencijskoj-djelatnosti/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-porezu-na-dodatu-vrijednost/undated",
+"kind": "zakon-o-porezu-na-dodatu-vrijednost",
+"file": "data/freshness/zakon-o-porezu-na-dodatu-vrijednost/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-porezu-na-promet-upotrebljavanih-motornih-vozila-plovnih-objek/undated",
+"kind": "zakon-o-porezu-na-promet-upotrebljavanih-motornih-vozila-plovnih-objek",
+"file": "data/freshness/zakon-o-porezu-na-promet-upotrebljavanih-motornih-vozila-plovnih-objek/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-posebnim-mjerama-za-zastitu-zivotne-sredine-u-opstini-pljevlja/undated",
+"kind": "zakon-o-posebnim-mjerama-za-zastitu-zivotne-sredine-u-opstini-pljevlja",
+"file": "data/freshness/zakon-o-posebnim-mjerama-za-zastitu-zivotne-sredine-u-opstini-pljevlja/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-postupcima-za-naknadu-stete-zbog-povrede-konkurencije-na-trzis/undated",
+"kind": "zakon-o-postupcima-za-naknadu-stete-zbog-povrede-konkurencije-na-trzis",
+"file": "data/freshness/zakon-o-postupcima-za-naknadu-stete-zbog-povrede-konkurencije-na-trzis/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-povlastici-na-putovanje-lica-sa-invaliditetom/undated",
+"kind": "zakon-o-povlastici-na-putovanje-lica-sa-invaliditetom",
+"file": "data/freshness/zakon-o-povlastici-na-putovanje-lica-sa-invaliditetom/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-predskolskom-vaspitanju-i-obrazovanju/undated",
+"kind": "zakon-o-predskolskom-vaspitanju-i-obrazovanju",
+"file": "data/freshness/zakon-o-predskolskom-vaspitanju-i-obrazovanju/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-prekogranicnim-energetskim-infrastrukturnim-projektima/undated",
+"kind": "zakon-o-prekogranicnim-energetskim-infrastrukturnim-projektima",
+"file": "data/freshness/zakon-o-prekogranicnim-energetskim-infrastrukturnim-projektima/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-privrednoj-komori-crne-gore/undated",
+"kind": "zakon-o-privrednoj-komori-crne-gore",
+"file": "data/freshness/zakon-o-privrednoj-komori-crne-gore/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-privremenim-mjerama-za-ogranicavanje-cijena-proizvoda-od-poseb/undated",
+"kind": "zakon-o-privremenim-mjerama-za-ogranicavanje-cijena-proizvoda-od-poseb",
+"file": "data/freshness/zakon-o-privremenim-mjerama-za-ogranicavanje-cijena-proizvoda-od-poseb/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-proizvodnji-naoruzanja-i-vojne-opreme/undated",
+"kind": "zakon-o-proizvodnji-naoruzanja-i-vojne-opreme",
+"file": "data/freshness/zakon-o-proizvodnji-naoruzanja-i-vojne-opreme/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-psiholoskoj-djelatnosti/undated",
+"kind": "zakon-o-psiholoskoj-djelatnosti",
+"file": "data/freshness/zakon-o-psiholoskoj-djelatnosti/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-racunanju-vremena/undated",
+"kind": "zakon-o-racunanju-vremena",
+"file": "data/freshness/zakon-o-racunanju-vremena/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-racunovodstvu/undated",
+"kind": "zakon-o-racunovodstvu",
+"file": "data/freshness/zakon-o-racunovodstvu/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-radnom-vremenu-i-odmorima-mobilnih-radnika-na-plovilima-u-unut/undated",
+"kind": "zakon-o-radnom-vremenu-i-odmorima-mobilnih-radnika-na-plovilima-u-unut",
+"file": "data/freshness/zakon-o-radnom-vremenu-i-odmorima-mobilnih-radnika-na-plovilima-u-unut/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-referentnim-vrijednostima/undated",
+"kind": "zakon-o-referentnim-vrijednostima",
+"file": "data/freshness/zakon-o-referentnim-vrijednostima/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-regionalnom-razvoju/undated",
+"kind": "zakon-o-regionalnom-razvoju",
+"file": "data/freshness/zakon-o-regionalnom-razvoju/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-reprogramu-poreskog-potrazivanja/undated",
+"kind": "zakon-o-reprogramu-poreskog-potrazivanja",
+"file": "data/freshness/zakon-o-reprogramu-poreskog-potrazivanja/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-reprogramu-poreskog-potrazivanja-jedinice-lokalne-samouprave-f/undated",
+"kind": "zakon-o-reprogramu-poreskog-potrazivanja-jedinice-lokalne-samouprave-f",
+"file": "data/freshness/zakon-o-reprogramu-poreskog-potrazivanja-jedinice-lokalne-samouprave-f/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-restriktivnim-mjerama/undated",
+"kind": "zakon-o-restriktivnim-mjerama",
+"file": "data/freshness/zakon-o-restriktivnim-mjerama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-reviziji/undated",
+"kind": "zakon-o-reviziji",
+"file": "data/freshness/zakon-o-reviziji/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-rokovima-izmirenja-novcanih-obaveza/undated",
+"kind": "zakon-o-rokovima-izmirenja-novcanih-obaveza",
+"file": "data/freshness/zakon-o-rokovima-izmirenja-novcanih-obaveza/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-rokovima-izmirenja-novcanih-obaveza-2024/undated",
+"kind": "zakon-o-rokovima-izmirenja-novcanih-obaveza-2024",
+"file": "data/freshness/zakon-o-rokovima-izmirenja-novcanih-obaveza-2024/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-rudarstvu/undated",
+"kind": "zakon-o-rudarstvu",
+"file": "data/freshness/zakon-o-rudarstvu/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-sanaciji-centralnih-drugih-ugovornih-strana/undated",
+"kind": "zakon-o-sanaciji-centralnih-drugih-ugovornih-strana",
+"file": "data/freshness/zakon-o-sanaciji-centralnih-drugih-ugovornih-strana/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-slatkovodnom-ribarstvu/undated",
+"kind": "zakon-o-slatkovodnom-ribarstvu",
+"file": "data/freshness/zakon-o-slatkovodnom-ribarstvu/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-slobodnim-zonama/undated",
+"kind": "zakon-o-slobodnim-zonama",
+"file": "data/freshness/zakon-o-slobodnim-zonama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-slobodnom-pristupu-informacijama/undated",
+"kind": "zakon-o-slobodnom-pristupu-informacijama",
+"file": "data/freshness/zakon-o-slobodnom-pristupu-informacijama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-sluzbenim-kontrolama/undated",
+"kind": "zakon-o-sluzbenim-kontrolama",
+"file": "data/freshness/zakon-o-sluzbenim-kontrolama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-spoljnoj-trgovini-robom-i-uslugama-koje-mogu-da-se-koriste-za/undated",
+"kind": "zakon-o-spoljnoj-trgovini-robom-i-uslugama-koje-mogu-da-se-koriste-za",
+"file": "data/freshness/zakon-o-spoljnoj-trgovini-robom-i-uslugama-koje-mogu-da-se-koriste-za/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-sprecavanju-nasilja-i-nedolicnog-ponasanja-na-sportskim-prired/undated",
+"kind": "zakon-o-sprecavanju-nasilja-i-nedolicnog-ponasanja-na-sportskim-prired",
+"file": "data/freshness/zakon-o-sprecavanju-nasilja-i-nedolicnog-ponasanja-na-sportskim-prired/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-sprecavanju-zagadjenja-mora-sa-brodova/undated",
+"kind": "zakon-o-sprecavanju-zagadjenja-mora-sa-brodova",
+"file": "data/freshness/zakon-o-sprecavanju-zagadjenja-mora-sa-brodova/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-sprovodjenju-mjera-podrske-poljoprivredne-politike-politike-ru/undated",
+"kind": "zakon-o-sprovodjenju-mjera-podrske-poljoprivredne-politike-politike-ru",
+"file": "data/freshness/zakon-o-sprovodjenju-mjera-podrske-poljoprivredne-politike-politike-ru/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-sredstvima-za-ishranu-bilja/undated",
+"kind": "zakon-o-sredstvima-za-ishranu-bilja",
+"file": "data/freshness/zakon-o-sredstvima-za-ishranu-bilja/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-sredstvima-za-zastitu-bilja/undated",
+"kind": "zakon-o-sredstvima-za-zastitu-bilja",
+"file": "data/freshness/zakon-o-sredstvima-za-zastitu-bilja/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-strukturnim-mjerama-i-drzavnoj-pomoci-u-ribarstvu-i-akvakultur/undated",
+"kind": "zakon-o-strukturnim-mjerama-i-drzavnoj-pomoci-u-ribarstvu-i-akvakultur",
+"file": "data/freshness/zakon-o-strukturnim-mjerama-i-drzavnoj-pomoci-u-ribarstvu-i-akvakultur/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-sudskim-vjestacima/undated",
+"kind": "zakon-o-sudskim-vjestacima",
+"file": "data/freshness/zakon-o-sudskim-vjestacima/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-taksama-na-upotrebu-duvanskih-proizvoda-i-elektroakusticnih-i/undated",
+"kind": "zakon-o-taksama-na-upotrebu-duvanskih-proizvoda-i-elektroakusticnih-i",
+"file": "data/freshness/zakon-o-taksama-na-upotrebu-duvanskih-proizvoda-i-elektroakusticnih-i/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-ugovoru-o-prevozu-putnika-morem/undated",
+"kind": "zakon-o-ugovoru-o-prevozu-putnika-morem",
+"file": "data/freshness/zakon-o-ugovoru-o-prevozu-putnika-morem/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-upravljanju-i-postupanju-sa-nusproizvodima-zivotinjskog-porije/undated",
+"kind": "zakon-o-upravljanju-i-postupanju-sa-nusproizvodima-zivotinjskog-porije",
+"file": "data/freshness/zakon-o-upravljanju-i-postupanju-sa-nusproizvodima-zivotinjskog-porije/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-upravljanju-podacima-u-oblasti-zdravstva-i-digitalnom-zdravlju/undated",
+"kind": "zakon-o-upravljanju-podacima-u-oblasti-zdravstva-i-digitalnom-zdravlju",
+"file": "data/freshness/zakon-o-upravljanju-podacima-u-oblasti-zdravstva-i-digitalnom-zdravlju/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-upravljanju-privrednim-drustvima-u-vlasnistvu-drzave/undated",
+"kind": "zakon-o-upravljanju-privrednim-drustvima-u-vlasnistvu-drzave",
+"file": "data/freshness/zakon-o-upravljanju-privrednim-drustvima-u-vlasnistvu-drzave/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-upravljanju-unutrasnjoj-kontroli-i-unutrasnjoj-reviziji-u-javn/undated",
+"kind": "zakon-o-upravljanju-unutrasnjoj-kontroli-i-unutrasnjoj-reviziji-u-javn",
+"file": "data/freshness/zakon-o-upravljanju-unutrasnjoj-kontroli-i-unutrasnjoj-reviziji-u-javn/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-upravnoj-inspekciji/undated",
+"kind": "zakon-o-upravnoj-inspekciji",
+"file": "data/freshness/zakon-o-upravnoj-inspekciji/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-vanjskim-poslovima/undated",
+"kind": "zakon-o-vanjskim-poslovima",
+"file": "data/freshness/zakon-o-vanjskim-poslovima/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zaradama-i-drugim-pravima-u-vezi-sa-vrsenjem-pravosudne-i-usta/undated",
+"kind": "zakon-o-zaradama-i-drugim-pravima-u-vezi-sa-vrsenjem-pravosudne-i-usta",
+"file": "data/freshness/zakon-o-zaradama-i-drugim-pravima-u-vezi-sa-vrsenjem-pravosudne-i-usta/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zastiti-konkurencije/undated",
+"kind": "zakon-o-zastiti-konkurencije",
+"file": "data/freshness/zakon-o-zastiti-konkurencije/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zastiti-od-buke-u-zivotnoj-sredini/undated",
+"kind": "zakon-o-zastiti-od-buke-u-zivotnoj-sredini",
+"file": "data/freshness/zakon-o-zastiti-od-buke-u-zivotnoj-sredini/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zastiti-od-jonizujucih-zracenja-radijacionoj-i-nuklearnoj-sigu/undated",
+"kind": "zakon-o-zastiti-od-jonizujucih-zracenja-radijacionoj-i-nuklearnoj-sigu",
+"file": "data/freshness/zakon-o-zastiti-od-jonizujucih-zracenja-radijacionoj-i-nuklearnoj-sigu/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zastiti-od-nasilja-u-porodici-i-nasilja-nad-zenama/undated",
+"kind": "zakon-o-zastiti-od-nasilja-u-porodici-i-nasilja-nad-zenama",
+"file": "data/freshness/zakon-o-zastiti-od-nasilja-u-porodici-i-nasilja-nad-zenama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zastiti-podataka-o-licnosti/undated",
+"kind": "zakon-o-zastiti-podataka-o-licnosti",
+"file": "data/freshness/zakon-o-zastiti-podataka-o-licnosti/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zastiti-podataka-o-licnosti-koje-obradjuju-nadlezni-organi-u-s/undated",
+"kind": "zakon-o-zastiti-podataka-o-licnosti-koje-obradjuju-nadlezni-organi-u-s",
+"file": "data/freshness/zakon-o-zastiti-podataka-o-licnosti-koje-obradjuju-nadlezni-organi-u-s/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zastiti-poslovne-tajne/undated",
+"kind": "zakon-o-zastiti-poslovne-tajne",
+"file": "data/freshness/zakon-o-zastiti-poslovne-tajne/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zastiti-prirode/undated",
+"kind": "zakon-o-zastiti-prirode",
+"file": "data/freshness/zakon-o-zastiti-prirode/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zastiti-zvizdaca/undated",
+"kind": "zakon-o-zastiti-zvizdaca",
+"file": "data/freshness/zakon-o-zastiti-zvizdaca/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zastitniku-ci-ljudskih-prava-i-sloboda-crne-gore/undated",
+"kind": "zakon-o-zastitniku-ci-ljudskih-prava-i-sloboda-crne-gore",
+"file": "data/freshness/zakon-o-zastitniku-ci-ljudskih-prava-i-sloboda-crne-gore/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zastupniku-crne-gore-pred-evropskim-sudom-za-ljudska-prava/undated",
+"kind": "zakon-o-zastupniku-crne-gore-pred-evropskim-sudom-za-ljudska-prava",
+"file": "data/freshness/zakon-o-zastupniku-crne-gore-pred-evropskim-sudom-za-ljudska-prava/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zdravlju-zivotinja/undated",
+"kind": "zakon-o-zdravlju-zivotinja",
+"file": "data/freshness/zakon-o-zdravlju-zivotinja/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zdravstvenoj-zastiti-bilja/undated",
+"kind": "zakon-o-zdravstvenoj-zastiti-bilja",
+"file": "data/freshness/zakon-o-zdravstvenoj-zastiti-bilja/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zelenim-obveznicama-i-odrzivim-obveznicama/undated",
+"kind": "zakon-o-zelenim-obveznicama-i-odrzivim-obveznicama",
+"file": "data/freshness/zakon-o-zelenim-obveznicama-i-odrzivim-obveznicama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-o-zivotnom-partnerstvu-lica-istog-pola/undated",
+"kind": "zakon-o-zivotnom-partnerstvu-lica-istog-pola",
+"file": "data/freshness/zakon-o-zivotnom-partnerstvu-lica-istog-pola/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-za-sprovodjenje-regulative-eu-2022-2065-o-digitalnim-uslugama/undated",
+"kind": "zakon-za-sprovodjenje-regulative-eu-2022-2065-o-digitalnim-uslugama",
+"file": "data/freshness/zakon-za-sprovodjenje-regulative-eu-2022-2065-o-digitalnim-uslugama/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-za-sprovodjenje-regulative-eu-2023-988-o-opstoj-bezbjednosti-pro/undated",
+"kind": "zakon-za-sprovodjenje-regulative-eu-2023-988-o-opstoj-bezbjednosti-pro",
+"file": "data/freshness/zakon-za-sprovodjenje-regulative-eu-2023-988-o-opstoj-bezbjednosti-pro/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon-za-sprovodjenje-regulative-eu-904-2010-o-administrativnoj-saradn/undated",
+"kind": "zakon-za-sprovodjenje-regulative-eu-904-2010-o-administrativnoj-saradn",
+"file": "data/freshness/zakon-za-sprovodjenje-regulative-eu-904-2010-o-administrativnoj-saradn/undated.csv",
+"acts": 1
+}
+]
+}

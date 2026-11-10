@@ -1,0 +1,292 @@
+{
+ "note": "Freshness of every act in this repository: when it was last checked against its official source, how, and whether a known change is missing. One row per act in data/freshness/<kind>/<year>.csv (listed in data/freshness/index.json); `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale.",
+ "schema": "me-freshness/1",
+ "as_of": "2026-11-10",
+ "checked_against_official_source": "2026-11-10",
+ "statuses": {
+  "current": "checked against the official source within its threshold, and no known change is missing",
+  "pending-change": "the official source reports a change (amendment, repeal) this repository does not have as a consolidated text: the act is held as enacted (or as last consolidated) and labelled",
+  "stale": "not checked within its threshold",
+  "unverified": "never checked against the official source for later changes",
+  "source-unavailable": "due for a check, but the official source has not answered the latest checks"
+ },
+ "methods": {
+  "register-page": "the act's page in the Službeni list's legal information system (sluzbenilist.me/propisi/<id>), read that day: its status (Važeći / Nevažeći) and the amending acts it lists (\"Izmjene i/ili dopune\"); the PIS has no consolidated texts, so a listed amendment means the act is held here as published and is pending a consolidated text"
+ },
+ "thresholds": {
+  "national": {
+   "days": 7,
+   "kinds": [
+    "ustav",
+    "zakon",
+    "uredba"
+   ],
+   "label": "the Constitution, laws and Government decrees (uredbe)"
+  },
+  "secondary": {
+   "days": 30,
+   "kinds": [
+    "akt",
+    "naredba",
+    "odluka",
+    "plan",
+    "poslovnik",
+    "pravila",
+    "pravilnik",
+    "program",
+    "rjesenje",
+    "statut",
+    "ugovor",
+    "uputstvo"
+   ],
+   "label": "decisions, regulations, rules, orders, instructions, plans, programmes, statutes, rules of procedure, treaties and other acts"
+  }
+ },
+ "final": "A repealed act no longer changes: it stays current once checked, with no threshold (its check_due is empty).",
+ "columns": {
+  "act": "the act id (data/paths.json maps it to its folder)",
+  "status": "as of `as_of`",
+  "last_verified": "the day of the last check that confirmed the latest version held here is the newest (UTC)",
+  "check_due": "last_verified plus the threshold: after this day the act is stale unless checked again",
+  "method": "how that check was made (`methods`)",
+  "newest_change": "the newest change the official sources report (an act, by its official title)",
+  "newest_change_date": "its day (its Gazette issue day where known)",
+  "change_in_repo": "yes if this repository has that change applied to the act's text, no if not",
+  "official_url": "the act's page at its official source, to check by hand"
+ },
+ "totals": {
+  "acts": 31743,
+  "by_status": {
+   "current": 2089,
+   "pending-change": 15,
+   "stale": 0,
+   "unverified": 29639,
+   "source-unavailable": 0
+  },
+  "pct_verified_7d": 6.6,
+  "pct_verified_30d": 6.6
+ },
+ "by_group": {
+  "national": {
+   "acts": 1282,
+   "by_status": {
+    "current": 33,
+    "pending-change": 1,
+    "stale": 0,
+    "unverified": 1248,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 2.7,
+   "pct_verified_30d": 2.7
+  },
+  "secondary": {
+   "acts": 30461,
+   "by_status": {
+    "current": 2056,
+    "pending-change": 14,
+    "stale": 0,
+    "unverified": 28391,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 6.8,
+   "pct_verified_30d": 6.8
+  }
+ },
+ "by_kind": {
+  "akt": {
+   "acts": 878,
+   "by_status": {
+    "current": 25,
+    "pending-change": 1,
+    "stale": 0,
+    "unverified": 852,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 3.0,
+   "pct_verified_30d": 3.0
+  },
+  "naredba": {
+   "acts": 244,
+   "by_status": {
+    "current": 11,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 233,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 4.5,
+   "pct_verified_30d": 4.5
+  },
+  "odluka": {
+   "acts": 21896,
+   "by_status": {
+    "current": 1260,
+    "pending-change": 3,
+    "stale": 0,
+    "unverified": 20633,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 5.8,
+   "pct_verified_30d": 5.8
+  },
+  "plan": {
+   "acts": 87,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 87,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0
+  },
+  "poslovnik": {
+   "acts": 86,
+   "by_status": {
+    "current": 9,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 77,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 10.5,
+   "pct_verified_30d": 10.5
+  },
+  "pravila": {
+   "acts": 281,
+   "by_status": {
+    "current": 12,
+    "pending-change": 2,
+    "stale": 0,
+    "unverified": 267,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 5.0,
+   "pct_verified_30d": 5.0
+  },
+  "pravilnik": {
+   "acts": 2863,
+   "by_status": {
+    "current": 140,
+    "pending-change": 8,
+    "stale": 0,
+    "unverified": 2715,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 5.2,
+   "pct_verified_30d": 5.2
+  },
+  "program": {
+   "acts": 330,
+   "by_status": {
+    "current": 6,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 324,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 1.8,
+   "pct_verified_30d": 1.8
+  },
+  "rjesenje": {
+   "acts": 3322,
+   "by_status": {
+    "current": 576,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 2746,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 17.3,
+   "pct_verified_30d": 17.3
+  },
+  "statut": {
+   "acts": 148,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 147,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 0.7,
+   "pct_verified_30d": 0.7
+  },
+  "ugovor": {
+   "acts": 142,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 142,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0
+  },
+  "uputstvo": {
+   "acts": 184,
+   "by_status": {
+    "current": 16,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 168,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 8.7,
+   "pct_verified_30d": 8.7
+  },
+  "uredba": {
+   "acts": 838,
+   "by_status": {
+    "current": 25,
+    "pending-change": 1,
+    "stale": 0,
+    "unverified": 812,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 3.1,
+   "pct_verified_30d": 3.1
+  },
+  "ustav": {
+   "acts": 1,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 1,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 0.0,
+   "pct_verified_30d": 0.0
+  },
+  "zakon": {
+   "acts": 443,
+   "by_status": {
+    "current": 8,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 435,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 1.8,
+   "pct_verified_30d": 1.8
+  }
+ },
+ "sources": [
+  {
+   "source": "Službeni list Crne Gore, legal information system (PIS): act pages",
+   "url": "https://www.sluzbenilist.me/propisi",
+   "last_successful_check": "2026-11-10",
+   "acts_read": 2104
+  },
+  {
+   "source": "Službeni list Crne Gore, PIS: listings of every act (status, issue)",
+   "url": "https://www.sluzbenilist.me/propisi?type=0",
+   "last_successful_check": "2026-11-09"
+  }
+ ],
+ "index": "data/freshness/index.json",
+ "shards": 530
+}

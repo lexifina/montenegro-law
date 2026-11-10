@@ -154134,7 +154134,7 @@
 "title": "Pravilnik o utvrđivanju liste standarda iz oblasti radio opreme i telekomunikacione terminalne opreme",
 "short": "Pravilnik o utvrđivanju liste standarda iz oblasti radio opreme i telekomunikacione terminalne opreme",
 "code": null,
-"status": "in force",
+"status": "repealed, not consolidated",
 "versions": 1,
 "from": "2014-11-08",
 "latest": "2014-11-08",
@@ -188542,11 +188542,18 @@
 "title": "Pravilnik o uslovima u pogledu prostora, opreme i alata radionice za tahografe",
 "short": "Pravilnik o uslovima u pogledu prostora, opreme i alata radionice za tahografe",
 "code": null,
-"status": "in force",
+"status": "amended, not consolidated",
 "versions": 1,
 "from": "2015-07-04",
 "latest": "2015-07-04",
-"portal": "https://www.sluzbenilist.me/propisi/335578"
+"portal": "https://www.sluzbenilist.me/propisi/335578",
+"amended_by": [
+{
+"ref": "pis:399811",
+"title": "Pravilnik o bližim uslovima u pogledu prostora, video nadzora, opreme i alata za radionioce za tahografe (Službeni list Crne Gore, broj 163/2026)",
+"url": "https://www.sluzbenilist.me/propisi/399811"
+}
+]
 },
 {
 "slug": "pravilnik-2015-335579",
@@ -216473,7 +216480,7 @@
 "title": "Uredba o mjerama za sprječavanje trihinele kod ljudi",
 "short": "Uredba o mjerama za sprječavanje trihinele kod ljudi",
 "code": null,
-"status": "in force",
+"status": "repealed, not consolidated",
 "versions": 1,
 "from": "2016-05-28",
 "latest": "2016-05-28",
@@ -234561,7 +234568,7 @@
 "title": "Metodologija za obračun i naplatu neovlašćeno preuzete električne energije",
 "short": "Metodologija za obračun i naplatu neovlašćeno preuzete električne energije",
 "code": null,
-"status": "in force",
+"status": "repealed, not consolidated",
 "versions": 1,
 "from": "2017-02-08",
 "latest": "2017-02-08",
@@ -247634,7 +247641,7 @@
 "title": "Pravila za sprovođenje postupka otkrivanja, utvrđivanja i sprječavanja neovlašćenog korišenja električne energije",
 "short": "Pravila za sprovođenje postupka otkrivanja, utvrđivanja i sprječavanja neovlašćenog korišenja električne energije",
 "code": null,
-"status": "in force",
+"status": "repealed, not consolidated",
 "versions": 1,
 "from": "2017-03-17",
 "latest": "2017-03-17",
@@ -249708,7 +249715,7 @@
 "title": "Pravilnik o sadržaju godišnjeg programa održavanja industrijskog kolosjeka željezničke pruge i uslovima za zaposlene na održavanju te pruge",
 "short": "Pravilnik o sadržaju godišnjeg programa održavanja industrijskog kolosjeka željezničke pruge i uslovima za zaposlene na održavanju te pruge",
 "code": null,
-"status": "in force",
+"status": "repealed, not consolidated",
 "versions": 1,
 "from": "2017-11-25",
 "latest": "2017-11-25",
@@ -265110,11 +265117,18 @@
 "title": "Pravila o sadržaju zahtjeva za sticanje kvalifikovanog učešća i bližim kriterijumima za ocjenu kvalifikovanog učešća u organizatoru tržišta, investicionom društvu i centralnom klirinškom depozitarnom društvu",
 "short": "Pravila o sadržaju zahtjeva za sticanje kvalifikovanog učešća i bližim kriterijumima za ocjenu kvalifikovanog učešća u organizatoru tržišta, investicionom društvu i centralnom klirinškom depozitarnom društvu",
 "code": null,
-"status": "in force",
+"status": "amended, not consolidated",
 "versions": 1,
 "from": "2018-07-14",
 "latest": "2018-07-14",
-"portal": "https://www.sluzbenilist.me/propisi/317856"
+"portal": "https://www.sluzbenilist.me/propisi/317856",
+"amended_by": [
+{
+"ref": "pis:399820",
+"title": "Pravila za sticanje odnosno povećanje kvalifikovanog učešća u organizatoru tržišta, investicionom društvu i centralnom klirinškom depozitarnom društvu (Službeni list Crne Gore, broj 163/2026)",
+"url": "https://www.sluzbenilist.me/propisi/399820"
+}
+]
 },
 {
 "slug": "rjesenje-2018-317883",
@@ -269547,7 +269561,7 @@
 "title": "Pravilnik o izmjeni Pravilnika o programu i načinu polaganja stručnog ispita za službenog veterinara",
 "short": "Pravilnik o izmjeni Pravilnika o programu i načinu polaganja stručnog ispita za službenog veterinara",
 "code": null,
-"status": "in force",
+"status": "repealed, not consolidated",
 "versions": 1,
 "from": "2018-02-09",
 "latest": "2018-02-09",
@@ -349736,7 +349750,7 @@
 "title": "Pravilnik o tehničkoj specifikaciji interoperabilnosti podsistema vozila - buka",
 "short": "Pravilnik o tehničkoj specifikaciji interoperabilnosti podsistema vozila - buka",
 "code": null,
-"status": "in force",
+"status": "repealed, not consolidated",
 "versions": 1,
 "from": "2020-12-16",
 "latest": "2020-12-16",
@@ -350246,7 +350260,7 @@
 "title": "Pravilnik o tehničkoj specifikaciji interoperabilnosti podsistema energija",
 "short": "Pravilnik o tehničkoj specifikaciji interoperabilnosti podsistema energija",
 "code": null,
-"status": "in force",
+"status": "repealed, not consolidated",
 "versions": 1,
 "from": "2020-03-14",
 "latest": "2020-03-14",
@@ -363659,7 +363673,7 @@
 "title": "Odluka o izmjenama i dopunama Metodologije za obračunavanje i naplatu neovlašćeno preuzete električne energije (\"Službeni list CG\", broj 7/17)",
 "short": "Odluka o izmjenama i dopunama Metodologije za obračunavanje i naplatu neovlašćeno preuzete električne energije (\"Službeni list CG\", broj 7/17)",
 "code": null,
-"status": "amending act",
+"status": "repealed, not consolidated",
 "versions": 1,
 "from": "2021-05-28",
 "latest": "2021-05-28",
@@ -375542,7 +375556,7 @@
 "title": "Odluka o izmjeni Pravila za sprovođenje postupka otkrivanja, utvrđivanja i sprječavanja neovlašćenog korišćenja električne energije (\"Službeni list Crne Gore\", broj 15/17 od 31.01.2017. godine)",
 "short": "Odluka o izmjeni Pravila za sprovođenje postupka otkrivanja, utvrđivanja i sprječavanja neovlašćenog korišćenja električne energije (\"Službeni list Crne Gore\", broj 15/17 od 31.01.2017. godine)",
 "code": null,
-"status": "in force",
+"status": "repealed, not consolidated",
 "versions": 1,
 "from": "2021-05-28",
 "latest": "2021-05-28",
@@ -415577,11 +415591,18 @@
 "title": "Pravilnik o izmjeni i dopunama Pravilnika o bližim uslovima za izdavanje, obnavljanje, suspenziju i oduzimanje licence za obavljanje djelatnosti socijalne i dječje zaštite",
 "short": "Pravilnik o izmjeni i dopunama Pravilnika o bližim uslovima za izdavanje, obnavljanje, suspenziju i oduzimanje licence za obavljanje djelatnosti socijalne i dječje zaštite",
 "code": null,
-"status": "amending act",
+"status": "amended, not consolidated",
 "versions": 1,
 "from": "2022-06-11",
 "latest": "2022-06-11",
-"portal": "https://www.sluzbenilist.me/propisi/348214"
+"portal": "https://www.sluzbenilist.me/propisi/348214",
+"amended_by": [
+{
+"ref": "pis:399851",
+"title": "Pravilnik o izmjenama i dopunama Pravilnika o bližim uslovima za izdavanje, obnavljanje, suspenziju i oduzimanje licence za obavljanje djelatnosti socijalne i dječje zaštite (Službeni list Crne Gore, broj 164/2026)",
+"url": "https://www.sluzbenilist.me/propisi/399851"
+}
+]
 },
 {
 "slug": "uredba-2022-348274",
@@ -489374,11 +489395,18 @@
 "title": "Odluka o izmjenama Odluke o obrazovanju Operativnog tima Partnerstva za otvorenu upravu",
 "short": "Odluka o izmjenama Odluke o obrazovanju Operativnog tima Partnerstva za otvorenu upravu",
 "code": null,
-"status": "in force",
+"status": "amended, not consolidated",
 "versions": 1,
 "from": "2025-11-12",
 "latest": "2025-11-12",
-"portal": "https://www.sluzbenilist.me/propisi/386253"
+"portal": "https://www.sluzbenilist.me/propisi/386253",
+"amended_by": [
+{
+"ref": "pis:399809",
+"title": "Odluka o izmjenama Odluke o obrazovanju Operativnog tima Partnerstva za otvorenu upravu (Službeni list Crne Gore, broj 163/2026)",
+"url": "https://www.sluzbenilist.me/propisi/399809"
+}
+]
 },
 {
 "slug": "poslovnik-2025-386289",
@@ -515129,7 +515157,7 @@
 "title": "Pravilnik o bližem sadržaju Nacionalnog energetskog i klimatskog plana i smjernicama za određivanje ciljeva*",
 "short": "Pravilnik o bližem sadržaju Nacionalnog energetskog i klimatskog plana i smjernicama za određivanje ciljeva*",
 "code": null,
-"status": "in force",
+"status": "repealed, not consolidated",
 "versions": 1,
 "from": "2026-04-30",
 "latest": "2026-04-30",
