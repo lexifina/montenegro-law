@@ -1,6 +1,6 @@
 {
 "note": "In-scope acts (the PIS marks them Važeći, of a kind built here) held back from main, each with the rule that holds it (reason) and the exact finding (detail): their page or text does not read cleanly, their in-force day cannot be read, or (amended_on_pis, named_as_amended) they are amended and their text as published is not yet read. Acts the fetch has not yet read are not listed.",
-"count": 41581,
+"count": 41588,
 "by_reason": {
 "in_force_unknown": 21206,
 "named_as_amended": 4361,
@@ -12,7 +12,7 @@
 "text_layer_wrong_glyphs": 1044,
 "in_force_mismatch": 728,
 "articles_not_split": 440,
-"pdf_not_fetched": 308,
+"pdf_not_fetched": 315,
 "signature_not_found": 300,
 "article_heading_ambiguous": 140,
 "empty_article": 107,
@@ -44281,7 +44281,7 @@
 "id": 300306,
 "title": "Rješenje o imenovanju predsjednika i članova Savjeta Direkcije za uređenje i izgradnju Kotora",
 "reason": "named_as_amended",
-"detail": "named_as_amended:291233,301522,308973,309929,326849",
+"detail": "named_as_amended:291233,301522,308973,309929,327443",
 "official_url": "https://www.sluzbenilist.me/propisi/300306"
 },
 {
@@ -169056,11 +169056,46 @@
 "second_reading": "in_force_unknown"
 },
 {
+"id": 325847,
+"title": "Pravilnik o utvrđivanju okvira za formiranje jedinstvenog evropskog neba i poboljšanju efikasnosti i održivosti evropskog vazduhoplovnog sistema",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/325847"
+},
+{
+"id": 325848,
+"title": "Rjesenja o donesenim i povucenim crnogorskim standardima",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/325848"
+},
+{
+"id": 325849,
+"title": "Odluka o zaduzivanju Prijestonice Cetinje kod Investiciono razvojnog fonda",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/325849"
+},
+{
+"id": 325850,
+"title": "Odluka o donosenju Detaljnog urbanistickog plana »Zeleni pojas«",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/325850"
+},
+{
 "id": 325851,
 "title": "Odluka o izradi izmjena i dopuna Generalnog urbanističkog plana Ulcinj u zahvatu lokaliteta: \"Liman 1\", \"Liman 2, \"Nova Mahala\" i \"Bijela Gora\" u Ulcinju",
 "reason": "text_layer_wrong_glyphs",
 "detail": "text_layer_wrong_glyphs",
 "official_url": "https://www.sluzbenilist.me/propisi/325851"
+},
+{
+"id": 325852,
+"title": "Rjesenje o izdavanju licence za rad Javnoj ustanovi Srednja mjesovita skola \"Danilo Kis\" Budva",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/325852"
 },
 {
 "id": 325853,
@@ -169079,12 +169114,26 @@
 "second_reading": "in_force_unknown"
 },
 {
+"id": 325855,
+"title": "Poslovnik o radu Nacionalne komisije za implementaciju Akcionog plana za sprovodjenje Programa borbe protiv korupcije i organizovanog kriminala",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/325855"
+},
+{
 "id": 325856,
 "title": "Program rada Skupstine opstine Plav, za 2010. godinu",
 "reason": "in_force_unknown",
 "detail": "in_force_unknown",
 "official_url": "https://www.sluzbenilist.me/propisi/325856",
 "second_reading": "in_force_unknown"
+},
+{
+"id": 325857,
+"title": "Odluka o razrješenju, odnosno imenovanju predsjednika Savjeta za zaštitu životne sredine",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/325857"
 },
 {
 "id": 325858,
@@ -169094,11 +169143,25 @@
 "official_url": "https://www.sluzbenilist.me/propisi/325858"
 },
 {
+"id": 325859,
+"title": "Odluka o davanju saglasnosti na Odluku Savjeta Javne ustanove Kulturni centar \"Nikola Đurković\" Kotor o imenovanju direktora Ustanove",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/325859"
+},
+{
 "id": 325860,
 "title": "Zakon o ratifikaciji Gradjanskopravne konvencije o korupciji",
 "reason": "ratification_not_built",
 "detail": "ratification_not_built",
 "official_url": "https://www.sluzbenilist.me/propisi/325860"
+},
+{
+"id": 325862,
+"title": "Odluka o izboru clanova Odbora za medjuopstinsku i medjunarodnu saradnju",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/325862"
 },
 {
 "id": 325863,
@@ -169129,6 +169192,13 @@
 "reason": "scanned_pages",
 "detail": "scanned_pages",
 "official_url": "https://www.sluzbenilist.me/propisi/325866"
+},
+{
+"id": 325867,
+"title": "Odluka o pristupanju izradi lokalne studije lokacije Kolašin - \"Trebaljevo\"",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/325867"
 },
 {
 "id": 325868,
@@ -177635,27 +177705,6 @@
 "reason": "scanned_pages",
 "detail": "scanned_pages",
 "official_url": "https://www.sluzbenilist.me/propisi/327681"
-},
-{
-"id": 327682,
-"title": "Rjesenja o donesenim crnogorskim standardima broj 01/5/09-24/47/09",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/327682"
-},
-{
-"id": 327683,
-"title": "Odluka o izboru najpovoljnije ponude po Tenderu za dodjelu odobrenja za korišćenje radio-frekvencija iz opsega 880-915/925-960 MHz, 1710-1785/1805-1880 MHz i 19",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/327683"
-},
-{
-"id": 327684,
-"title": "Rjesenje o davanju saglasnosti na Cjenovnik o visini zakupa prodajnih objekata i pijacnih tezgi u Trznici u Budvi",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/327684"
 },
 {
 "id": 327685,

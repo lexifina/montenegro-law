@@ -57,77 +57,77 @@
  "totals": {
   "acts": 32505,
   "by_status": {
-   "current": 21411,
+   "current": 22005,
    "pending-change": 15,
    "stale": 0,
-   "unverified": 11079,
+   "unverified": 10485,
    "source-unavailable": 0
   },
-  "pct_verified_7d": 65.9,
-  "pct_verified_30d": 65.9
+  "pct_verified_7d": 67.7,
+  "pct_verified_30d": 67.7
  },
  "by_group": {
   "national": {
    "acts": 1288,
    "by_status": {
-    "current": 982,
+    "current": 998,
     "pending-change": 1,
     "stale": 0,
-    "unverified": 305,
+    "unverified": 289,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 76.3,
-   "pct_verified_30d": 76.3
+   "pct_verified_7d": 77.6,
+   "pct_verified_30d": 77.6
   },
   "secondary": {
    "acts": 31217,
    "by_status": {
-    "current": 20429,
+    "current": 21007,
     "pending-change": 14,
     "stale": 0,
-    "unverified": 10774,
+    "unverified": 10196,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 65.5,
-   "pct_verified_30d": 65.5
+   "pct_verified_7d": 67.3,
+   "pct_verified_30d": 67.3
   }
  },
  "by_kind": {
   "akt": {
    "acts": 881,
    "by_status": {
-    "current": 504,
+    "current": 520,
     "pending-change": 1,
     "stale": 0,
-    "unverified": 376,
+    "unverified": 360,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 57.3,
-   "pct_verified_30d": 57.3
+   "pct_verified_7d": 59.1,
+   "pct_verified_30d": 59.1
   },
   "naredba": {
    "acts": 257,
    "by_status": {
-    "current": 145,
+    "current": 149,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 112,
+    "unverified": 108,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 56.4,
-   "pct_verified_30d": 56.4
+   "pct_verified_7d": 58.0,
+   "pct_verified_30d": 58.0
   },
   "odluka": {
    "acts": 22320,
    "by_status": {
-    "current": 14854,
+    "current": 15277,
     "pending-change": 3,
     "stale": 0,
-    "unverified": 7463,
+    "unverified": 7040,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 66.6,
-   "pct_verified_30d": 66.6
+   "pct_verified_7d": 68.5,
+   "pct_verified_30d": 68.5
   },
   "plan": {
    "acts": 87,
@@ -144,62 +144,62 @@
   "poslovnik": {
    "acts": 87,
    "by_status": {
-    "current": 59,
+    "current": 60,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 28,
+    "unverified": 27,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 67.8,
-   "pct_verified_30d": 67.8
+   "pct_verified_7d": 69.0,
+   "pct_verified_30d": 69.0
   },
   "pravila": {
    "acts": 283,
    "by_status": {
-    "current": 217,
+    "current": 223,
     "pending-change": 2,
     "stale": 0,
-    "unverified": 64,
+    "unverified": 58,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 77.4,
-   "pct_verified_30d": 77.4
+   "pct_verified_7d": 79.5,
+   "pct_verified_30d": 79.5
   },
   "pravilnik": {
    "acts": 2887,
    "by_status": {
-    "current": 2269,
+    "current": 2306,
     "pending-change": 8,
     "stale": 0,
-    "unverified": 610,
+    "unverified": 573,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 78.9,
-   "pct_verified_30d": 78.9
+   "pct_verified_7d": 80.2,
+   "pct_verified_30d": 80.2
   },
   "program": {
    "acts": 333,
    "by_status": {
-    "current": 161,
+    "current": 166,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 172,
+    "unverified": 167,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 48.3,
-   "pct_verified_30d": 48.3
+   "pct_verified_7d": 49.8,
+   "pct_verified_30d": 49.8
   },
   "rjesenje": {
    "acts": 3597,
    "by_status": {
-    "current": 1913,
+    "current": 1986,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1684,
+    "unverified": 1611,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 53.2,
-   "pct_verified_30d": 53.2
+   "pct_verified_7d": 55.2,
+   "pct_verified_30d": 55.2
   },
   "statut": {
    "acts": 149,
@@ -216,38 +216,38 @@
   "ugovor": {
    "acts": 142,
    "by_status": {
-    "current": 60,
+    "current": 67,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 82,
+    "unverified": 75,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 42.3,
-   "pct_verified_30d": 42.3
+   "pct_verified_7d": 47.2,
+   "pct_verified_30d": 47.2
   },
   "uputstvo": {
    "acts": 194,
    "by_status": {
-    "current": 108,
+    "current": 114,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 86,
+    "unverified": 80,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 55.7,
-   "pct_verified_30d": 55.7
+   "pct_verified_7d": 58.8,
+   "pct_verified_30d": 58.8
   },
   "uredba": {
    "acts": 843,
    "by_status": {
-    "current": 632,
+    "current": 643,
     "pending-change": 1,
     "stale": 0,
-    "unverified": 210,
+    "unverified": 199,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 75.1,
-   "pct_verified_30d": 75.1
+   "pct_verified_7d": 76.4,
+   "pct_verified_30d": 76.4
   },
   "ustav": {
    "acts": 1,
@@ -264,14 +264,14 @@
   "zakon": {
    "acts": 444,
    "by_status": {
-    "current": 350,
+    "current": 355,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 94,
+    "unverified": 89,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 78.8,
-   "pct_verified_30d": 78.8
+   "pct_verified_7d": 80.0,
+   "pct_verified_30d": 80.0
   }
  },
  "sources": [
@@ -279,7 +279,7 @@
    "source": "Službeni list Crne Gore, legal information system (PIS): act pages",
    "url": "https://www.sluzbenilist.me/propisi",
    "last_successful_check": "2026-11-10",
-   "acts_read": 21426
+   "acts_read": 22020
   },
   {
    "source": "Službeni list Crne Gore, PIS: listings of every act (status, issue)",
