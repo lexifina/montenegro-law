@@ -1,0 +1,3 @@
+# Član 17
+## kopitara i domaćih svinja
+Ako post mortem pregled obavlja službeni veterinar, ako se on obavlja pod nadzorom službenog veterinara ili, ako postoje dovoljne garancije, pod odgovornošću službenog veterinara u skladu sa Zakonom o službenim kontrolama45 i Pravilnikom o posebnim pravilima za sprovođenje službenih kontrola proizvodnje mesa proizvodiha područja i područja za ponovno polaganje živih školjki46službeni veterinar obezbjeđuje da se, u slučaju domaćih goveda, domaćih ovaca i koza, domaćih kopitara i domaćih svinja, uz zahtjeve iz čl. 12, 14 i 15 ovog pravilnika poštuju i praktično uređenje iz čl.18 do 24 ovog pravilnika .
