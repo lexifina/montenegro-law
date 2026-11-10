@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32490 acts, 32,492 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32491 acts, 32,493 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (881, of which 86 amending acts)
 
@@ -1150,7 +1150,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22308, of which 3140 amending acts)
+## odluka (22309, of which 3140 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -19707,6 +19707,7 @@
 | Odluka o davanju saglasnosti na Odluku Savjeta JU Narodna biblioteka Rožaje o imenovanju izvršnog direktora | [`odluka/2023/368088/`](odluka/2023/368088/) | in force | 1 | 2023-11-29 | 2023-11-29 |
 | Odluka o razrješenju i imenovanju člana odbora za stambeno komunalnu oblast, zaštitu životne sredine, razvoj, privredu i finansije | [`odluka/2023/368089/`](odluka/2023/368089/) | in force | 1 | 2023-11-29 | 2023-11-29 |
 | Odluka o davanju saglasnosti na odluku upravnog odbora ju dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju opštine rožaje o razrješenju izvršnog direktora | [`odluka/2023/368095/`](odluka/2023/368095/) | in force | 1 | 2023-11-29 | 2023-11-29 |
+| Odluka o načinu korišćenja sredstava tekuće i stalne budžetske rezerve | [`odluka/2023/368098/`](odluka/2023/368098/) | in force | 1 | 2023-12-07 | 2023-12-07 |
 | Odluka o davanju saglasnosti na odluku upravnog odbora o imenovanju izvršnog direktora Ju dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju opštine Požaje | [`odluka/2023/368102/`](odluka/2023/368102/) | in force | 1 | 2023-11-29 | 2023-11-29 |
 | Odluka o osnivanju društva sa ograničenom odgovornošću "Agencija za projektovanje i planiranje opštine Hikšić" | [`odluka/2023/368109/`](odluka/2023/368109/) | in force | 1 | 2023-12-07 | 2023-12-07 |
 | Odluka o dodjeli novogodišnjih paketića djeci predškolskog i školskog uzrasta | [`odluka/2023/368110/`](odluka/2023/368110/) | in force | 1 | 2023-12-07 | 2023-12-07 |
