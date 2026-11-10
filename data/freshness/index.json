@@ -106,7 +106,7 @@
 "shard": "akt/2010",
 "kind": "akt",
 "file": "data/freshness/akt/2010.csv",
-"acts": 73
+"acts": 74
 },
 {
 "shard": "akt/2011",
@@ -466,7 +466,7 @@
 "shard": "odluka/2005",
 "kind": "odluka",
 "file": "data/freshness/odluka/2005.csv",
-"acts": 79
+"acts": 80
 },
 {
 "shard": "odluka/2006",
@@ -484,7 +484,7 @@
 "shard": "odluka/2008",
 "kind": "odluka",
 "file": "data/freshness/odluka/2008.csv",
-"acts": 751
+"acts": 752
 },
 {
 "shard": "odluka/2009",
@@ -496,31 +496,31 @@
 "shard": "odluka/2010",
 "kind": "odluka",
 "file": "data/freshness/odluka/2010.csv",
-"acts": 605
+"acts": 609
 },
 {
 "shard": "odluka/2011",
 "kind": "odluka",
 "file": "data/freshness/odluka/2011.csv",
-"acts": 858
+"acts": 864
 },
 {
 "shard": "odluka/2012",
 "kind": "odluka",
 "file": "data/freshness/odluka/2012.csv",
-"acts": 643
+"acts": 650
 },
 {
 "shard": "odluka/2013",
 "kind": "odluka",
 "file": "data/freshness/odluka/2013.csv",
-"acts": 856
+"acts": 870
 },
 {
 "shard": "odluka/2014",
 "kind": "odluka",
 "file": "data/freshness/odluka/2014.csv",
-"acts": 1082
+"acts": 1092
 },
 {
 "shard": "odluka/2015",
@@ -958,7 +958,7 @@
 "shard": "pravila/2014",
 "kind": "pravila",
 "file": "data/freshness/pravila/2014.csv",
-"acts": 12
+"acts": 13
 },
 {
 "shard": "pravila/2015",
@@ -1144,7 +1144,7 @@
 "shard": "pravilnik/2010",
 "kind": "pravilnik",
 "file": "data/freshness/pravilnik/2010.csv",
-"acts": 14
+"acts": 15
 },
 {
 "shard": "pravilnik/2011",
@@ -1162,7 +1162,7 @@
 "shard": "pravilnik/2013",
 "kind": "pravilnik",
 "file": "data/freshness/pravilnik/2013.csv",
-"acts": 158
+"acts": 160
 },
 {
 "shard": "pravilnik/2014",
@@ -1282,7 +1282,7 @@
 "shard": "program/2013",
 "kind": "program",
 "file": "data/freshness/program/2013.csv",
-"acts": 16
+"acts": 17
 },
 {
 "shard": "program/2014",
@@ -1468,31 +1468,31 @@
 "shard": "rjesenje/2010",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2010.csv",
-"acts": 62
+"acts": 80
 },
 {
 "shard": "rjesenje/2011",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2011.csv",
-"acts": 162
+"acts": 176
 },
 {
 "shard": "rjesenje/2012",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2012.csv",
-"acts": 82
+"acts": 97
 },
 {
 "shard": "rjesenje/2013",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2013.csv",
-"acts": 132
+"acts": 142
 },
 {
 "shard": "rjesenje/2014",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2014.csv",
-"acts": 162
+"acts": 172
 },
 {
 "shard": "rjesenje/2015",
