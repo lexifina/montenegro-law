@@ -18,21 +18,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 2125 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 2125 | |
+| 2145 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 2145 | |
 
-The build made 31800 commits:
+The build made 31820 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 31779 | first version of an act |
+| 31799 | first version of an act |
 | 21 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `buduce`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 31824 laws in the record.
-- 63581 tags.
+- 31844 laws in the record.
+- 63621 tags.
 
 ## Dates
 
@@ -44,7 +44,7 @@ When a law gives no date of its own, the default rule applies: Ustav Crne Gore a
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `33d377cd044961d95b6f540d74661bdc87c0271a2380faef08002606f1678dc5` (54914122 bytes).
+- Corpus: sha256 `0716c40ccbe883c6241d28f55ab858f6e1984040301a3fb177e3d0350d528c1b` (55052771 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `9a489229114eef2a05f1296005392d882ffe9639`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `0be88de7820b2dafe9f94fa40472a48776aa4cf5`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

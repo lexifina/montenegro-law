@@ -1,6 +1,6 @@
 # Every act in this repository
 
-31779 acts, 31,781 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+31799 acts, 31,801 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (878, of which 85 amending acts)
 
@@ -1134,7 +1134,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (21921, of which 3120 amending acts)
+## odluka (21931, of which 3120 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -7306,6 +7306,7 @@
 | Odluka o izmjenama Odluke o osnivanju Javne ustanove Nikšićko pozorište | [`odluka/2014/321889/`](odluka/2014/321889/) | in force | 1 | 2014-09-11 | 2014-09-11 |
 | Odluka o učešću Glavnog grada-Podgorice u izgradnji objekta na urbanističkoj parceli broj 7, Blok 2, u zahvatu Detaljnog urbanističkog plana "Servisno - skladišna zona" - u Podgorici | [`odluka/2014/321941/`](odluka/2014/321941/) | in force | 1 | 2014-03-07 | 2014-03-07 |
 | Odluka o imenovanju predsjednika i članova Savjeta za predstavke i pritužbe | [`odluka/2014/322129/`](odluka/2014/322129/) | in force | 1 | 2014-09-01 | 2014-09-01 |
+| Odluka o izboru predsjednika Skupštine Opštine Bijelo Polje | [`odluka/2014/322258/`](odluka/2014/322258/) | in force | 1 | 2014-10-03 | 2014-10-03 |
 | Odluka o potvrđivanju Plana postavljanja privremenih objekata za 2014. godinu | [`odluka/2014/322261/`](odluka/2014/322261/) | in force | 1 | 2014-07-17 | 2014-07-17 |
 | Odluka o izboru predsjednika i članova Savjeta za razvoj seoskog i gradskog područja Skupštine opštine Kolašin | [`odluka/2014/322262/`](odluka/2014/322262/) | in force | 1 | 2014-12-23 | 2014-12-23 |
 | Odluka o donošenju Opšteg plana zaštite od štetnog dejstva voda za vode od lokalnog značaja Opštine Pljevlja za period od 2014. do 2019. godine | [`odluka/2014/322534/`](odluka/2014/322534/) | in force | 1 | 2014-03-20 | 2014-03-20 |
@@ -9539,6 +9540,7 @@
 | Odluka o otvaranju konzulata Crne Gore u Bratislavi - Slovačka Republika | [`odluka/2016/322437/`](odluka/2016/322437/) | in force | 1 | 2016-08-12 | 2016-08-12 |
 | Odluka o davanju saglasnosti na Odluku Upravnog odbora Javnog komunalnog preduzeća "Komunalno Nikšić"- Nikšić o raspisivanju oglasa za davanje u zakup javnim nadmetanjem poslovnog prostora- cvjećare | [`odluka/2016/322469/`](odluka/2016/322469/) | in force | 1 | 2016-05-26 | 2016-05-26 |
 | Odluka o donošenju DUP-a Medanović | [`odluka/2016/322493/`](odluka/2016/322493/) | in force | 1 | 2016-08-26 | 2016-08-26 |
+| Odluka o usvajanju opštinskog Plana za zaštitu od požara | [`odluka/2016/322523/`](odluka/2016/322523/) | in force | 1 | 2016-03-11 | 2016-03-11 |
 | Odluka o davanju saglasnosti na razrješenje Glavnog administratora Prijestonice Cetinje zbog isteka mandata | [`odluka/2016/322525/`](odluka/2016/322525/) | in force | 1 | 2016-05-30 | 2016-05-30 |
 | Odluka o otvaranju Konzulata Crne Gore u San Havijeru - Republika Čile | [`odluka/2016/322544/`](odluka/2016/322544/) | in force | 1 | 2016-06-11 | 2016-06-11 |
 | Odluka o razrješenju Odbora za izbor i imenovanje Opštine Ulcinj | [`odluka/2016/322693/`](odluka/2016/322693/) | in force | 1 | 2016-03-30 | 2016-03-30 |
@@ -10854,6 +10856,7 @@
 | Odluka o davanju saglasnosti na Program rada i Finansijski plan Turističke organizacije opštine Žabljak za 2017.godinu | [`odluka/2017/322285/`](odluka/2017/322285/) | in force | 1 | 2017-01-17 | 2017-01-17 |
 | Odluka o dodjeli lovišta "Smiljevica i Bjelasica" na korišćenje | [`odluka/2017/322290/`](odluka/2017/322290/) | in force | 1 | 2017-02-01 | 2017-02-01 |
 | Odluka o davanju saglasnosti na Odluka o izmjenama Statuta JU Narodna biblioteka i čitaonica "Njegoš" Cetinje | [`odluka/2017/322318/`](odluka/2017/322318/) | in force | 1 | 2017-11-17 | 2017-11-17 |
+| Odluka o izboru Etičke komisije za lokalne službenike i namještenike | [`odluka/2017/322403/`](odluka/2017/322403/) | in force | 1 | 2017-09-29 | 2017-09-29 |
 | Odluka o davanju statusa spomen- obilježja spomeniku Palim borcima, Gornja Lastva | [`odluka/2017/322530/`](odluka/2017/322530/) | in force | 1 | 2017-10-21 | 2017-10-21 |
 | Odluka o dugoročnom kreditnom zaduženju opštine Pljevlja | [`odluka/2017/322531/`](odluka/2017/322531/) | in force | 1 | 2017-05-12 | 2017-05-12 |
 | Odluka o izmjenama Odluke o obrazovanju Savjeta za pitanja mladih Glavnog grada | [`odluka/2017/322560/`](odluka/2017/322560/) | in force | 1 | 2017-06-23 | 2017-06-23 |
@@ -15060,14 +15063,17 @@
 | Odluka o privremenom finansiranju potreba Budžeta opštine Andirjevica za period januar-mart 2021. godine | [`odluka/2020/322323/`](odluka/2020/322323/) | in force | 1 | 2020-12-31 | 2020-12-31 |
 | Odluka o izmjeni Odluke o lokalnim komunalnim taksama Opštine Niksic | [`odluka/2020/322325/`](odluka/2020/322325/) | in force | 1 | 2021-01-05 | 2021-01-05 |
 | Odluka o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave Opštine Kolašin | [`odluka/2020/322414/`](odluka/2020/322414/) | amending act | 1 | 2020-02-24 | 2020-02-24 |
+| Odluka o razrješenju i imenovanju predsjednika i članova Savjeta JU Centar za kulturu i sport "Mihailo Lalić" | [`odluka/2020/322450/`](odluka/2020/322450/) | in force | 1 | 2020-12-31 | 2020-12-31 |
 | Odluka o razrješenju i imenovanju člana Odbora za društvene djelatnosti | [`odluka/2020/322470/`](odluka/2020/322470/) | in force | 1 | 2021-01-01 | 2021-01-01 |
 | Odluka o davanju stanova u zakup licima u stanju socijalne potrebe | [`odluka/2020/322505/`](odluka/2020/322505/) | in force | 1 | 2021-01-08 | 2021-01-08 |
 | Odluka o oslobađanju zakupaca od obaveze plaćanja zakupa za period od tri mjeseca | [`odluka/2020/322506/`](odluka/2020/322506/) | in force | 1 | 2020-05-20 | 2020-05-20 |
 | Odluku o prestanku mandata članu Odbora direktora DOO Vodovod "Bistrica" | [`odluka/2020/322595/`](odluka/2020/322595/) | in force | 1 | 2020-05-18 | 2020-05-18 |
 | Odluka o potvrđivanju Odluke o izmjeni Odluke o mjerama podrške građanima i privrednim subjektima na teritoriji opštine Nikšić radi ublažavanja posljedica koronavirusa | [`odluka/2020/322598/`](odluka/2020/322598/) | in force | 1 | 2020-11-11 | 2020-11-11 |
+| Odluka o utvrđivanju lokacije za postavljanje odnosno izgradnju lokalnog objekta od opšteg interesa - trafostanice NDTS 10/0,4 10 kV, 1 x 630 kVA "Br. 1" Radovanići sa 10 kV priključnim kablovskim vodom, Opština Herceg Novi | [`odluka/2020/322604/`](odluka/2020/322604/) | in force | 1 | 2020-02-21 | 2020-02-21 |
 | Odluka o davanju u zakup privremenih objekata | [`odluka/2020/322606/`](odluka/2020/322606/) | in force | 1 | 2020-06-22 | 2020-06-22 |
 | Odluka o potvrđivanju Zaključka o utvrđivanju mjera i olakšica za prevazilaženje posljedica izazvanih epidemijom zarazne bolesti COVID-19 ("Sl. list Crne Gore - Opštinski propisi", broj 14/20) | [`odluka/2020/322625/`](odluka/2020/322625/) | in force | 1 | 2020-07-15 | 2020-07-15 |
 | Odluka o potvrđivanju privremeno donešenih Odluka predsjednika Opštine Mojkovac | [`odluka/2020/322627/`](odluka/2020/322627/) | in force | 1 | 2020-06-05 | 2020-06-05 |
+| Odluka o ublažavanju negativnih finansijskih posljedica izazvanih epidemijom korona virusom (COVID 19) na području Opštine Šavnik i mjerama za održanje stabilnosti budžeta Opštine Šavnik za 2020.godinu | [`odluka/2020/322676/`](odluka/2020/322676/) | in force | 1 | 2020-06-15 | 2020-06-15 |
 | Odluka o prodaji građevinskog zemljišta označenog kao UP 22 u zahvatu DUP-a "Konik-Stari aerodrom-faza III" u Podgorici | [`odluka/2020/322686/`](odluka/2020/322686/) | in force | 1 | 2020-08-05 | 2020-08-05 |
 | Odluka o davanju na privremeno korišćenje zemljišta Adžović Slavki do privođenja prostora namjeni | [`odluka/2020/322689/`](odluka/2020/322689/) | in force | 1 | 2021-01-05 | 2021-01-05 |
 | Odluka o donošenju Urbanističkog projekta "Nova Varoš - blok R" u Podgorici | [`odluka/2020/322690/`](odluka/2020/322690/) | in force | 1 | 2020-03-12 | 2020-03-12 |
@@ -16117,6 +16123,7 @@
 | Odluka o stavljanju van snage Odluke o načinu korišćenja i naknadi za privremeno korišćenje trotoara i drugih javnih površina | [`odluka/2021/322418/`](odluka/2021/322418/) | in force | 1 | 2021-03-10 | 2021-03-10 |
 | Odluka o davanju saglasnosti za odustanak od žalbe koja je izjavljena na rješenje Osnovnog suda u Podgorici Rs.br. 373/19 od 5. novembra 2021. godine | [`odluka/2021/322419/`](odluka/2021/322419/) | in force | 1 | 2021-12-28 | 2021-12-28 |
 | Odluka o dopunama Odluke o komunalnom redu | [`odluka/2021/322485/`](odluka/2021/322485/) | amending act | 1 | 2021-04-03 | 2021-04-03 |
+| Odluka o prenosu prava raspolaganja na građevinskom zemljištu | [`odluka/2021/322511/`](odluka/2021/322511/) | in force | 1 | 2021-12-31 | 2021-12-31 |
 | Odluku o Budžetu Opštine Tivat za 2021. godinu | [`odluka/2021/322642/`](odluka/2021/322642/) | in force | 1 | 2021-01-20 | 2021-01-20 |
 | Odluka o završnom računu Budžeta opštine Tivat za 2020. godinu | [`odluka/2021/322704/`](odluka/2021/322704/) | in force | 1 | 2021-07-29 | 2021-07-29 |
 | Odluka o razrješenju i imenovanju jednog člana u Odboru direktora d.o.o. "Sportsko-rekreativni centar" Bar | [`odluka/2021/322710/`](odluka/2021/322710/) | in force | 1 | 2021-12-16 | 2021-12-16 |
@@ -17406,6 +17413,7 @@
 | Odluka, broj: 22/406-6 | [`odluka/2022/321836/`](odluka/2022/321836/) | in force | 1 | 2022-12-23 | 2022-12-23 |
 | Odluka o imenovanju predsjednika i jednog člana Savjeta agencije za zaštitu ličnih podataka i slobodan pristup informacijama | [`odluka/2022/321839/`](odluka/2022/321839/) | in force | 1 | 2022-08-01 | 2022-08-01 |
 | Odluka o usvajanju izmjena i dopuna Programa privremenih objekata za teritoriju Opštine Tuzi | [`odluka/2022/321951/`](odluka/2022/321951/) | amending act | 1 | 2022-02-07 | 2022-02-07 |
+| Odluka o preuzimanju standarda odbrane, broj: 0704- 807/22 - 2226 | [`odluka/2022/321996/`](odluka/2022/321996/) | in force | 1 | 2022-03-23 | 2022-03-23 |
 | Odluka o sufinansiranju tretmana rehabilitacije korisnika psihoaktivnih supstanci | [`odluka/2022/321997/`](odluka/2022/321997/) | in force | 1 | 2023-01-07 | 2023-01-07 |
 | Odlukao izmjeni odluke o Budžetu Opštine Šavnik za 2022. godinu | [`odluka/2022/322000/`](odluka/2022/322000/) | in force | 1 | 2022-12-16 | 2022-12-16 |
 | Odluka o davanju saglasnosti na Odluku predsjednika Opštine | [`odluka/2022/322003/`](odluka/2022/322003/) | in force | 1 | 2022-03-18 | 2022-03-18 |
@@ -17424,9 +17432,11 @@
 | Odluka o izboru predsjednika Opštine Pljevlja | [`odluka/2022/322121/`](odluka/2022/322121/) | in force | 1 | 2022-02-23 | 2022-02-23 |
 | Odluka o obrazovanju Komisije za izradu Nacrta Odluke o izmjenama i dopunama Statuta Prijestonice | [`odluka/2022/322122/`](odluka/2022/322122/) | amending act | 1 | 2023-01-06 | 2023-01-06 |
 | Odluka o izboru predsjednika Opštine Danilovgrad | [`odluka/2022/322125/`](odluka/2022/322125/) | in force | 1 | 2022-07-04 | 2022-07-04 |
+| Odluka o preuzimanju standarda odbrane | [`odluka/2022/322341/`](odluka/2022/322341/) | in force | 1 | 2022-01-19 | 2022-01-19 |
 | Odluka o uvođenju izletničke takse na teritoriji Opštine Žabljak za turističke lokalitete Nacionalni park "Durmitor" sa kanjonom Tare - Crno jezero i Most na Tari | [`odluka/2022/322342/`](odluka/2022/322342/) | in force | 1 | 2022-07-20 | 2022-07-20 |
 | Odluka o davanju saglasnosti na Odluku oimenovanju potpredsjednice Opštine Danilovgrad | [`odluka/2022/322348/`](odluka/2022/322348/) | in force | 1 | 2022-12-07 | 2022-12-07 |
 | Odluka o razrješenju i imenovanju predsjednika Odbora za Statut i propise | [`odluka/2022/322350/`](odluka/2022/322350/) | in force | 1 | 2022-12-27 | 2022-12-27 |
+| Odluka o prodaji katastarske parcele br. 202/2, 202/3 i 202/4 sve u KO Podi radi dokompletiranja urbanističke parcele | [`odluka/2022/322352/`](odluka/2022/322352/) | in force | 1 | 2022-04-26 | 2022-04-26 |
 | Odluka o imenovanju predsjednika Odbora za međuopštinsku, međunarodnu saradnju i evropske integracije | [`odluka/2022/322373/`](odluka/2022/322373/) | in force | 1 | 2022-04-12 | 2022-04-12 |
 | Odluka o preuzimanju standarda odbrane, broj: 0703-807/22-10229 | [`odluka/2022/322428/`](odluka/2022/322428/) | in force | 1 | 2022-12-19 | 2022-12-19 |
 | Odluka o izmjeni Odluke o raspisivanju izbora za odbornike | [`odluka/2022/322456/`](odluka/2022/322456/) | in force | 1 | 2022-10-23 | 2022-10-23 |
@@ -26739,7 +26749,7 @@
 | Program podizanja spomen-obilježja | [`program/2026/399528/`](program/2026/399528/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Izmjene i dopune Programa mjera za podsticaj razvoja poljoprivrede za 2026. godinu | [`program/2026/399716/`](program/2026/399716/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## rjesenje (3330, of which 189 amending acts)
+## rjesenje (3340, of which 190 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -27039,6 +27049,7 @@
 | Rjesenje o razrjesenju pomocnika ministra Unutrasnjih poslova i javne uprave | [`rjesenje/2010/319719/`](rjesenje/2010/319719/) | in force | 1 | 2010-05-26 | 2010-05-26 |
 | Rjesenje o davanju saglasnosti na imenovanje direktora KSJP "Budva"- Budva | [`rjesenje/2010/320281/`](rjesenje/2010/320281/) | in force | 1 | 2010-11-16 | 2010-11-16 |
 | Rjesenje o imenovanju Odbora za izbor i imenovanja Skupstine Prijestonice Cetinje | [`rjesenje/2010/320775/`](rjesenje/2010/320775/) | in force | 1 | 2010-03-22 | 2010-03-22 |
+| Rjesenje o licenciranju privatne predskolske ustanove "Kucica" - Podgorica | [`rjesenje/2010/322074/`](rjesenje/2010/322074/) | in force | 1 | 2010-08-03 | 2010-08-03 |
 | Rjesenje o davanju saglasnosti na imenovanje potpredsjednika Opstine | [`rjesenje/2010/322381/`](rjesenje/2010/322381/) | in force | 1 | 2010-11-16 | 2010-11-16 |
 | Rjesenje broj: 01/1861/2 | [`rjesenje/2010/323622/`](rjesenje/2010/323622/) | in force | 1 | 2010-10-19 | 2010-10-19 |
 | Rjesenje o imenovanju jednog clana Upravnog odbora JP za komunalno stambenu djelatnost Plav | [`rjesenje/2010/325399/`](rjesenje/2010/325399/) | in force | 1 | 2010-11-23 | 2010-11-23 |
@@ -27167,6 +27178,7 @@
 | Rjesenje, Broj: 0101-267/1 | [`rjesenje/2011/321348/`](rjesenje/2011/321348/) | in force | 1 | 2011-06-24 | 2011-06-24 |
 | Rjesenje o razrjesenju predsjednika Odbora direktora "BSP" d.o.o. Budva | [`rjesenje/2011/321891/`](rjesenje/2011/321891/) | in force | 1 | 2011-06-06 | 2011-06-06 |
 | Rjesenje, Broj: 0101-241/1 | [`rjesenje/2011/321982/`](rjesenje/2011/321982/) | in force | 1 | 2011-06-24 | 2011-06-24 |
+| Rjesenje o razrjesenju duznosti savjetnika predsjednika Crne Gore za oblast medjunarodnih ekonomskih odnosa | [`rjesenje/2011/322161/`](rjesenje/2011/322161/) | in force | 1 | 2011-04-28 | 2011-04-28 |
 | Rjesenje, Broj: 0101-210/1 | [`rjesenje/2011/322188/`](rjesenje/2011/322188/) | in force | 1 | 2011-06-24 | 2011-06-24 |
 | Rjesenje o imenovanju sekretara Skupstine Glavnog grada - Podgorice | [`rjesenje/2011/322226/`](rjesenje/2011/322226/) | in force | 1 | 2011-11-17 | 2011-11-17 |
 | Rješenje o razrješenju člana Upravnog odbora JP "Vodovod i kanalizacija" Budva | [`rjesenje/2011/322276/`](rjesenje/2011/322276/) | in force | 1 | 2011-12-12 | 2011-12-12 |
@@ -28048,6 +28060,7 @@
 | Rješenje o imenovanju predsjednika Savjeta za razvoj seoskog područja | [`rjesenje/2017/321855/`](rjesenje/2017/321855/) | in force | 1 | 2017-07-31 | 2017-07-31 |
 | Rješenje o razrešenju člana Savjeta za razvoj i zaštitu lokalne samouprave | [`rjesenje/2017/322094/`](rjesenje/2017/322094/) | in force | 1 | 2017-03-28 | 2017-03-28 |
 | Rješenje o davanju saglasnosti za gradnju na dijelu UP 82 u obuhvatu LSL-a "Kuljače-Vojnići" | [`rjesenje/2017/322406/`](rjesenje/2017/322406/) | in force | 1 | 2017-03-27 | 2017-03-27 |
+| Rješenje, UP I broj 060-11/2017 | [`rjesenje/2017/322536/`](rjesenje/2017/322536/) | in force | 1 | 2017-03-06 | 2017-03-06 |
 | Rješenje o razrješenju člana Odbora direktora društva sa ograničenom odgovornošću " Akademija znanja " Budva | [`rjesenje/2017/322540/`](rjesenje/2017/322540/) | in force | 1 | 2017-02-07 | 2017-02-07 |
 | Rješenje o davanju saglasnosti na program privremenog korišćenja reklamnog prostora na teritoriji Opštine Budva | [`rjesenje/2017/322556/`](rjesenje/2017/322556/) | in force | 1 | 2017-03-27 | 2017-03-27 |
 | Rješenje o imenovanju članice Odbora za Međuopštinsku i Međunarodnu saradnju | [`rjesenje/2017/322833/`](rjesenje/2017/322833/) | in force | 1 | 2017-10-10 | 2017-10-10 |
@@ -28439,8 +28452,11 @@
 | Rješenje o standardu zanimanja frizer/frizerka za žene | [`rjesenje/2019/321074/`](rjesenje/2019/321074/) | in force | 1 | 2019-03-05 | 2019-03-05 |
 | Rješenje o standardu zanimanja pomoćnik/pomoćnica frizera za žene | [`rjesenje/2019/321806/`](rjesenje/2019/321806/) | in force | 1 | 2019-03-05 | 2019-03-05 |
 | Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola "Ivan Uskoković", Podgorica | [`rjesenje/2019/321867/`](rjesenje/2019/321867/) | in force | 1 | 2018-12-21 | 2018-12-21 |
+| Rješenje o standardu zanimanja tehničar/tehničarka hemijskih ispitivanja | [`rjesenje/2019/322197/`](rjesenje/2019/322197/) | in force | 1 | 2019-06-17 | 2019-06-17 |
+| Rješenje o dopuni licence Privatnoj predškolskoj ustanovi "Diznilend", Budva | [`rjesenje/2019/322294/`](rjesenje/2019/322294/) | amending act | 1 | 2019-05-13 | 2019-05-13 |
 | Rješenje o izmjeni Rješenja o imenovanju predsjednika i članova Savjeta za ravnopravnost polova | [`rjesenje/2019/322417/`](rjesenje/2019/322417/) | in force | 1 | 2019-07-29 | 2019-07-29 |
 | Rješenje o standardu zanimanja fagotista/fagotiskinja | [`rjesenje/2019/322591/`](rjesenje/2019/322591/) | in force | 1 | 2019-07-01 | 2019-07-01 |
+| Rješenje o standardu zanimanja tehničar/tehničarka industrijske hemijske tehnologije | [`rjesenje/2019/322628/`](rjesenje/2019/322628/) | in force | 1 | 2019-06-17 | 2019-06-17 |
 | Rješenje o standardu zanimanja pomoćnik/pomoćnica poslastičara složenih poslastičarskih proizvoda | [`rjesenje/2019/322783/`](rjesenje/2019/322783/) | in force | 1 | 2019-06-17 | 2019-06-17 |
 | Rješenje o standardu zanimanja pomoćnik/pomoćnica frizera za muškarce | [`rjesenje/2019/322809/`](rjesenje/2019/322809/) | in force | 1 | 2019-03-05 | 2019-03-05 |
 | Rješenje o izdavanju licence Privatnoj ustanovi »SEVEN STAIRS HOSPITALITY CENTAR«, Podgorica | [`rjesenje/2019/323256/`](rjesenje/2019/323256/) | in force | 1 | 2019-02-12 | 2019-02-12 |
@@ -28785,6 +28801,7 @@
 | Rješenje o izdavanju licence Javnoj ustanovi Stručna medicinska škola, Podgorica | [`rjesenje/2020/322320/`](rjesenje/2020/322320/) | in force | 1 | 2020-02-04 | 2020-02-04 |
 | Rješenje o imenovanju Žirija za dodjelu javnih priznanja Opštine Bijelo Polje | [`rjesenje/2020/322449/`](rjesenje/2020/322449/) | in force | 1 | 2020-11-03 | 2020-11-03 |
 | Rješenje o imenovanju predsjednika Odbora za finansije, privredu i razvoj | [`rjesenje/2020/322474/`](rjesenje/2020/322474/) | in force | 1 | 2020-06-27 | 2020-06-27 |
+| Rješenje o imenovanju Upravnog odbora Fondacije "Kotorski festival pozorišta za djecu" | [`rjesenje/2020/322507/`](rjesenje/2020/322507/) | in force | 1 | 2020-06-30 | 2020-06-30 |
 | Rješenje o standardu zanimanja pomoćnik/pomoćnica konditora | [`rjesenje/2020/322681/`](rjesenje/2020/322681/) | in force | 1 | 2020-05-25 | 2020-05-25 |
 | Rješenje o imenovanju predsjednika i članova | [`rjesenje/2020/322691/`](rjesenje/2020/322691/) | in force | 1 | 2020-11-24 | 2020-11-24 |
 | Rješenje o naknadi troškova za rad Komisije za izradu predloga Poslovnika o radu Skupštine opštine Ulcinj | [`rjesenje/2020/322782/`](rjesenje/2020/322782/) | in force | 1 | 2020-06-29 | 2020-06-29 |
@@ -28983,6 +29000,7 @@
 | Rješenje o donesenim crnogorskim standardima i srodnim dokumentima | [`rjesenje/2021/321755/`](rjesenje/2021/321755/) | in force | 1 | 2021-05-13 | 2021-05-13 |
 | Rješenje o standardu zanimanja pomoćnik/pomoćnica stolara i tapetara | [`rjesenje/2021/321908/`](rjesenje/2021/321908/) | in force | 1 | 2021-06-22 | 2021-06-22 |
 | Rješenje o razrješenju i imenovanju predsjednika i člana Odbora za planiranje i uređenje prostora i komunalno - stambenu djelatnost | [`rjesenje/2021/321967/`](rjesenje/2021/321967/) | in force | 1 | 2021-07-02 | 2021-07-02 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja elektro-ekonomska škola, Bijelo Polje | [`rjesenje/2021/322067/`](rjesenje/2021/322067/) | in force | 1 | 2021-04-23 | 2021-04-23 |
 | Rješenje o imenovanju člana Pozorišnog savjeta Javne ustanove Nikšićko pozorište | [`rjesenje/2021/322071/`](rjesenje/2021/322071/) | in force | 1 | 2021-09-10 | 2021-09-10 |
 | Rješenje o imenovanju članova Odbora direktora d.o.o. "Sportsko rekreativni centar" Budva | [`rjesenje/2021/322180/`](rjesenje/2021/322180/) | in force | 1 | 2021-03-11 | 2021-03-11 |
 | Rješenje broj: 10-040/21-163/1 | [`rjesenje/2021/322479/`](rjesenje/2021/322479/) | in force | 1 | 2021-03-11 | 2021-03-11 |
@@ -29166,8 +29184,10 @@
 | Rješenje o izmjeni Rješenja o imenovanju Odbora za statut i propise | [`rjesenje/2022/321992/`](rjesenje/2022/321992/) | in force | 1 | 2022-11-29 | 2022-11-29 |
 | Rješenje o imenovanju sekretara Skupštine Opštine Herceg Novi | [`rjesenje/2022/321995/`](rjesenje/2022/321995/) | in force | 1 | 2022-09-13 | 2022-09-13 |
 | Rješenje o imenovanju dva člana Odbora za finansije i privredni razvoj Skupštine Prijestonice Cetinje | [`rjesenje/2022/322077/`](rjesenje/2022/322077/) | in force | 1 | 2022-08-25 | 2022-08-25 |
+| Rješenje o izdavanju licence Metalurško-tehnološkom fakultetu, Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2022/322087/`](rjesenje/2022/322087/) | in force | 1 | 2022-02-16 | 2022-02-16 |
 | Rešenje, broj: 01-016/22-87 | [`rjesenje/2022/322346/`](rjesenje/2022/322346/) | in force | 1 | 2022-04-14 | 2022-04-14 |
 | Rješenje o imenovanju članova Savjeta lokalnog javnog emitera "Radio Televizija Budva" | [`rjesenje/2022/322425/`](rjesenje/2022/322425/) | in force | 1 | 2022-03-18 | 2022-03-18 |
+| Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola "Bratstvo-Jedinstvo", Ulcinj | [`rjesenje/2022/322462/`](rjesenje/2022/322462/) | in force | 1 | 2022-03-02 | 2022-03-02 |
 | Rješenje o dopuni licence Fakultetu za prehrambenu tehnologiju, bezbjednost hrane i ekologiju, Univerzitet Donja Gorica | [`rjesenje/2022/322583/`](rjesenje/2022/322583/) | amending act | 1 | 2022-11-28 | 2022-11-28 |
 | Rješenje o standardu zanimanja obrađivač/obrađivačica metala struganjem | [`rjesenje/2022/322585/`](rjesenje/2022/322585/) | in force | 1 | 2022-06-16 | 2022-06-16 |
 | Rješenje o izmjeni Rješenja o imenovanju Odbora za izbor i imenovanja | [`rjesenje/2022/322669/`](rjesenje/2022/322669/) | in force | 1 | 2022-11-29 | 2022-11-29 |
