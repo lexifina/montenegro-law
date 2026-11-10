@@ -1,6 +1,6 @@
 {
 "note": "In-scope acts (the PIS marks them Važeći, of a kind built here) held back from main, each with the rule that holds it (reason) and the exact finding (detail): their page or text does not read cleanly, their in-force day cannot be read, or (amended_on_pis, named_as_amended) they are amended and their text as published is not yet read. Acts the fetch has not yet read are not listed.",
-"count": 41585,
+"count": 41581,
 "by_reason": {
 "in_force_unknown": 21206,
 "named_as_amended": 4361,
@@ -12,7 +12,7 @@
 "text_layer_wrong_glyphs": 1044,
 "in_force_mismatch": 728,
 "articles_not_split": 440,
-"pdf_not_fetched": 312,
+"pdf_not_fetched": 308,
 "signature_not_found": 300,
 "article_heading_ambiguous": 140,
 "empty_article": 107,
@@ -177637,6 +177637,27 @@
 "official_url": "https://www.sluzbenilist.me/propisi/327681"
 },
 {
+"id": 327682,
+"title": "Rjesenja o donesenim crnogorskim standardima broj 01/5/09-24/47/09",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/327682"
+},
+{
+"id": 327683,
+"title": "Odluka o izboru najpovoljnije ponude po Tenderu za dodjelu odobrenja za korišćenje radio-frekvencija iz opsega 880-915/925-960 MHz, 1710-1785/1805-1880 MHz i 19",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/327683"
+},
+{
+"id": 327684,
+"title": "Rjesenje o davanju saglasnosti na Cjenovnik o visini zakupa prodajnih objekata i pijacnih tezgi u Trznici u Budvi",
+"reason": "pdf_not_fetched",
+"detail": "pdf_not_fetched",
+"official_url": "https://www.sluzbenilist.me/propisi/327684"
+},
+{
 "id": 327685,
 "title": "Rjesenje o oduzimanju dozvole za rad",
 "reason": "in_force_unknown",
@@ -181155,20 +181176,6 @@
 "official_url": "https://www.sluzbenilist.me/propisi/328550"
 },
 {
-"id": 328551,
-"title": "Odluka o davanju saglasnosti na Program rada i finansijski Plan za DOO Komunalne djelatnosti- Gusinje za 2021 godine",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/328551"
-},
-{
-"id": 328552,
-"title": "Odluka o stavljanju van snage Odluke o usklađivanju visine lokalnih komunalnih taksa(\"Službeni list Opštine Kotor\" broj 2/00)",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/328552"
-},
-{
 "id": 328553,
 "title": "Odluka o izradi izmjena i dopuna Detaljnog urbanističkog plana \"Konik sanacioni plan\" u Podgorici",
 "reason": "named_as_amended",
@@ -181181,13 +181188,6 @@
 "reason": "scanned_pages",
 "detail": "scanned_pages",
 "official_url": "https://www.sluzbenilist.me/propisi/328554"
-},
-{
-"id": 328555,
-"title": "Odluka o davanju statusa spomen-obilježja spomeničkom kompleksu u Brajićima (Skulptura spomenik \"Guvno\" ; reljef i ambijentalno prostorno rješenje \"Palim Brajić",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/328555"
 },
 {
 "id": 328556,
@@ -181205,39 +181205,11 @@
 "second_reading": "in_force_unknown"
 },
 {
-"id": 328558,
-"title": "Zaključak o prestanku mandata predsjedniku Skupštine opštine Danilovgrad",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/328558"
-},
-{
 "id": 328559,
 "title": "Odluka o prodaji građevinskog zemljišta",
 "reason": "named_as_amended",
 "detail": "named_as_amended:340461,387645,391438",
 "official_url": "https://www.sluzbenilist.me/propisi/328559"
-},
-{
-"id": 328560,
-"title": "Pravilnik o načinu obavljanja stručnog nadzora složenog inženjerskog objekta za proizvodnju, prenos i distribuciju električne i toplotne energije",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/328560"
-},
-{
-"id": 328561,
-"title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu, uslovima i postupku za usmjeravanje djece sa posebnim obrazovnim potrebama",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/328561"
-},
-{
-"id": 328562,
-"title": "Odluku o izmjeni Odluke o uslovima, načinu i postupku za dodjelu stipendija i nagrada za učenike i studente",
-"reason": "pdf_not_fetched",
-"detail": "pdf_not_fetched",
-"official_url": "https://www.sluzbenilist.me/propisi/328562"
 },
 {
 "id": 328564,
@@ -217305,7 +217277,7 @@
 "id": 337805,
 "title": "Pravilnik o naknadama za rad Komisije za hartije od vrijednosti",
 "reason": "named_as_amended",
-"detail": "named_as_amended:310914,327904,337158",
+"detail": "named_as_amended:310914,337158",
 "official_url": "https://www.sluzbenilist.me/propisi/337805"
 },
 {
