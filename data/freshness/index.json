@@ -280,7 +280,7 @@
 "shard": "naredba/2007",
 "kind": "naredba",
 "file": "data/freshness/naredba/2007.csv",
-"acts": 2
+"acts": 3
 },
 {
 "shard": "naredba/2008",
@@ -478,7 +478,7 @@
 "shard": "odluka/2007",
 "kind": "odluka",
 "file": "data/freshness/odluka/2007.csv",
-"acts": 239
+"acts": 240
 },
 {
 "shard": "odluka/2008",
@@ -490,7 +490,7 @@
 "shard": "odluka/2009",
 "kind": "odluka",
 "file": "data/freshness/odluka/2009.csv",
-"acts": 654
+"acts": 655
 },
 {
 "shard": "odluka/2010",
@@ -502,79 +502,79 @@
 "shard": "odluka/2011",
 "kind": "odluka",
 "file": "data/freshness/odluka/2011.csv",
-"acts": 854
+"acts": 858
 },
 {
 "shard": "odluka/2012",
 "kind": "odluka",
 "file": "data/freshness/odluka/2012.csv",
-"acts": 641
+"acts": 643
 },
 {
 "shard": "odluka/2013",
 "kind": "odluka",
 "file": "data/freshness/odluka/2013.csv",
-"acts": 848
+"acts": 856
 },
 {
 "shard": "odluka/2014",
 "kind": "odluka",
 "file": "data/freshness/odluka/2014.csv",
-"acts": 1081
+"acts": 1082
 },
 {
 "shard": "odluka/2015",
 "kind": "odluka",
 "file": "data/freshness/odluka/2015.csv",
-"acts": 1186
+"acts": 1192
 },
 {
 "shard": "odluka/2016",
 "kind": "odluka",
 "file": "data/freshness/odluka/2016.csv",
-"acts": 1239
+"acts": 1246
 },
 {
 "shard": "odluka/2017",
 "kind": "odluka",
 "file": "data/freshness/odluka/2017.csv",
-"acts": 1290
+"acts": 1303
 },
 {
 "shard": "odluka/2018",
 "kind": "odluka",
 "file": "data/freshness/odluka/2018.csv",
-"acts": 1196
+"acts": 1200
 },
 {
 "shard": "odluka/2019",
 "kind": "odluka",
 "file": "data/freshness/odluka/2019.csv",
-"acts": 1421
+"acts": 1422
 },
 {
 "shard": "odluka/2020",
 "kind": "odluka",
 "file": "data/freshness/odluka/2020.csv",
-"acts": 1375
+"acts": 1388
 },
 {
 "shard": "odluka/2021",
 "kind": "odluka",
 "file": "data/freshness/odluka/2021.csv",
-"acts": 1209
+"acts": 1216
 },
 {
 "shard": "odluka/2022",
 "kind": "odluka",
 "file": "data/freshness/odluka/2022.csv",
-"acts": 1468
+"acts": 1491
 },
 {
 "shard": "odluka/2023",
 "kind": "odluka",
 "file": "data/freshness/odluka/2023.csv",
-"acts": 1178
+"acts": 1179
 },
 {
 "shard": "odluka/2024",
@@ -1162,7 +1162,7 @@
 "shard": "pravilnik/2013",
 "kind": "pravilnik",
 "file": "data/freshness/pravilnik/2013.csv",
-"acts": 157
+"acts": 158
 },
 {
 "shard": "pravilnik/2014",
@@ -1186,7 +1186,7 @@
 "shard": "pravilnik/2017",
 "kind": "pravilnik",
 "file": "data/freshness/pravilnik/2017.csv",
-"acts": 178
+"acts": 179
 },
 {
 "shard": "pravilnik/2018",
@@ -1300,7 +1300,7 @@
 "shard": "program/2016",
 "kind": "program",
 "file": "data/freshness/program/2016.csv",
-"acts": 20
+"acts": 21
 },
 {
 "shard": "program/2017",
@@ -1468,79 +1468,79 @@
 "shard": "rjesenje/2010",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2010.csv",
-"acts": 60
+"acts": 62
 },
 {
 "shard": "rjesenje/2011",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2011.csv",
-"acts": 158
+"acts": 162
 },
 {
 "shard": "rjesenje/2012",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2012.csv",
-"acts": 80
+"acts": 82
 },
 {
 "shard": "rjesenje/2013",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2013.csv",
-"acts": 124
+"acts": 132
 },
 {
 "shard": "rjesenje/2014",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2014.csv",
-"acts": 161
+"acts": 162
 },
 {
 "shard": "rjesenje/2015",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2015.csv",
-"acts": 197
+"acts": 199
 },
 {
 "shard": "rjesenje/2016",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2016.csv",
-"acts": 144
+"acts": 146
 },
 {
 "shard": "rjesenje/2017",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2017.csv",
-"acts": 284
+"acts": 291
 },
 {
 "shard": "rjesenje/2018",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2018.csv",
-"acts": 201
+"acts": 203
 },
 {
 "shard": "rjesenje/2019",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2019.csv",
-"acts": 266
+"acts": 275
 },
 {
 "shard": "rjesenje/2020",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2020.csv",
-"acts": 253
+"acts": 255
 },
 {
 "shard": "rjesenje/2021",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2021.csv",
-"acts": 190
+"acts": 198
 },
 {
 "shard": "rjesenje/2022",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2022.csv",
-"acts": 214
+"acts": 221
 },
 {
 "shard": "rjesenje/2023",
@@ -2152,7 +2152,7 @@
 "shard": "uredba/2016",
 "kind": "uredba",
 "file": "data/freshness/uredba/2016.csv",
-"acts": 24
+"acts": 25
 },
 {
 "shard": "uredba/2017",
