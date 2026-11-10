@@ -484,7 +484,7 @@
 "shard": "odluka/2008",
 "kind": "odluka",
 "file": "data/freshness/odluka/2008.csv",
-"acts": 750
+"acts": 751
 },
 {
 "shard": "odluka/2009",
@@ -526,25 +526,25 @@
 "shard": "odluka/2015",
 "kind": "odluka",
 "file": "data/freshness/odluka/2015.csv",
-"acts": 1165
+"acts": 1166
 },
 {
 "shard": "odluka/2016",
 "kind": "odluka",
 "file": "data/freshness/odluka/2016.csv",
-"acts": 1225
+"acts": 1229
 },
 {
 "shard": "odluka/2017",
 "kind": "odluka",
 "file": "data/freshness/odluka/2017.csv",
-"acts": 1275
+"acts": 1277
 },
 {
 "shard": "odluka/2018",
 "kind": "odluka",
 "file": "data/freshness/odluka/2018.csv",
-"acts": 1190
+"acts": 1191
 },
 {
 "shard": "odluka/2019",
@@ -556,19 +556,19 @@
 "shard": "odluka/2020",
 "kind": "odluka",
 "file": "data/freshness/odluka/2020.csv",
-"acts": 1351
+"acts": 1354
 },
 {
 "shard": "odluka/2021",
 "kind": "odluka",
 "file": "data/freshness/odluka/2021.csv",
-"acts": 1187
+"acts": 1189
 },
 {
 "shard": "odluka/2022",
 "kind": "odluka",
 "file": "data/freshness/odluka/2022.csv",
-"acts": 1409
+"acts": 1420
 },
 {
 "shard": "odluka/2023",
@@ -796,7 +796,7 @@
 "shard": "poslovnik/2016",
 "kind": "poslovnik",
 "file": "data/freshness/poslovnik/2016.csv",
-"acts": 1
+"acts": 2
 },
 {
 "shard": "poslovnik/2017",
@@ -1468,7 +1468,7 @@
 "shard": "rjesenje/2010",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2010.csv",
-"acts": 53
+"acts": 54
 },
 {
 "shard": "rjesenje/2011",
@@ -1504,7 +1504,7 @@
 "shard": "rjesenje/2016",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2016.csv",
-"acts": 136
+"acts": 138
 },
 {
 "shard": "rjesenje/2017",
@@ -1522,7 +1522,7 @@
 "shard": "rjesenje/2019",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2019.csv",
-"acts": 250
+"acts": 253
 },
 {
 "shard": "rjesenje/2020",
@@ -1540,7 +1540,7 @@
 "shard": "rjesenje/2022",
 "kind": "rjesenje",
 "file": "data/freshness/rjesenje/2022.csv",
-"acts": 196
+"acts": 198
 },
 {
 "shard": "rjesenje/2023",
@@ -1822,7 +1822,7 @@
 "shard": "uputstvo/1995",
 "kind": "uputstvo",
 "file": "data/freshness/uputstvo/1995.csv",
-"acts": 7
+"acts": 8
 },
 {
 "shard": "uputstvo/1996",
@@ -2368,7 +2368,7 @@
 "shard": "zakon/2016",
 "kind": "zakon",
 "file": "data/freshness/zakon/2016.csv",
-"acts": 14
+"acts": 15
 },
 {
 "shard": "zakon/2017",

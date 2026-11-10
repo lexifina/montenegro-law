@@ -55,22 +55,22 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 31743,
+  "acts": 31779,
   "by_status": {
-   "current": 2089,
+   "current": 2125,
    "pending-change": 15,
    "stale": 0,
    "unverified": 29639,
    "source-unavailable": 0
   },
-  "pct_verified_7d": 6.6,
-  "pct_verified_30d": 6.6
+  "pct_verified_7d": 6.7,
+  "pct_verified_30d": 6.7
  },
  "by_group": {
   "national": {
-   "acts": 1282,
+   "acts": 1283,
    "by_status": {
-    "current": 33,
+    "current": 34,
     "pending-change": 1,
     "stale": 0,
     "unverified": 1248,
@@ -80,16 +80,16 @@
    "pct_verified_30d": 2.7
   },
   "secondary": {
-   "acts": 30461,
+   "acts": 30496,
    "by_status": {
-    "current": 2056,
+    "current": 2091,
     "pending-change": 14,
     "stale": 0,
     "unverified": 28391,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 6.8,
-   "pct_verified_30d": 6.8
+   "pct_verified_7d": 6.9,
+   "pct_verified_30d": 6.9
   }
  },
  "by_kind": {
@@ -118,16 +118,16 @@
    "pct_verified_30d": 4.5
   },
   "odluka": {
-   "acts": 21896,
+   "acts": 21921,
    "by_status": {
-    "current": 1260,
+    "current": 1285,
     "pending-change": 3,
     "stale": 0,
     "unverified": 20633,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 5.8,
-   "pct_verified_30d": 5.8
+   "pct_verified_7d": 5.9,
+   "pct_verified_30d": 5.9
   },
   "plan": {
    "acts": 87,
@@ -142,16 +142,16 @@
    "pct_verified_30d": 0.0
   },
   "poslovnik": {
-   "acts": 86,
+   "acts": 87,
    "by_status": {
-    "current": 9,
+    "current": 10,
     "pending-change": 0,
     "stale": 0,
     "unverified": 77,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 10.5,
-   "pct_verified_30d": 10.5
+   "pct_verified_7d": 11.5,
+   "pct_verified_30d": 11.5
   },
   "pravila": {
    "acts": 281,
@@ -190,16 +190,16 @@
    "pct_verified_30d": 1.8
   },
   "rjesenje": {
-   "acts": 3322,
+   "acts": 3330,
    "by_status": {
-    "current": 576,
+    "current": 584,
     "pending-change": 0,
     "stale": 0,
     "unverified": 2746,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 17.3,
-   "pct_verified_30d": 17.3
+   "pct_verified_7d": 17.5,
+   "pct_verified_30d": 17.5
   },
   "statut": {
    "acts": 148,
@@ -226,16 +226,16 @@
    "pct_verified_30d": 0.0
   },
   "uputstvo": {
-   "acts": 184,
+   "acts": 185,
    "by_status": {
-    "current": 16,
+    "current": 17,
     "pending-change": 0,
     "stale": 0,
     "unverified": 168,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 8.7,
-   "pct_verified_30d": 8.7
+   "pct_verified_7d": 9.2,
+   "pct_verified_30d": 9.2
   },
   "uredba": {
    "acts": 838,
@@ -262,16 +262,16 @@
    "pct_verified_30d": 0.0
   },
   "zakon": {
-   "acts": 443,
+   "acts": 444,
    "by_status": {
-    "current": 8,
+    "current": 9,
     "pending-change": 0,
     "stale": 0,
     "unverified": 435,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 1.8,
-   "pct_verified_30d": 1.8
+   "pct_verified_7d": 2.0,
+   "pct_verified_30d": 2.0
   }
  },
  "sources": [
@@ -279,7 +279,7 @@
    "source": "Službeni list Crne Gore, legal information system (PIS): act pages",
    "url": "https://www.sluzbenilist.me/propisi",
    "last_successful_check": "2026-11-10",
-   "acts_read": 2104
+   "acts_read": 2140
   },
   {
    "source": "Službeni list Crne Gore, PIS: listings of every act (status, issue)",
