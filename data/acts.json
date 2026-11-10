@@ -209636,6 +209636,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/322693"
 },
 {
+"slug": "odluka-2016-322720",
+"path": "odluka/2016/322720",
+"kind": "odluka",
+"year": "2016",
+"number": "322720",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o Završnom računu Budžeta Opštine Tivat za 2015 godinu",
+"short": "Odluka o Završnom računu Budžeta Opštine Tivat za 2015 godinu",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-07-11",
+"latest": "2016-07-11",
+"portal": "https://www.sluzbenilist.me/propisi/322720"
+},
+{
 "slug": "odluka-2016-322722",
 "path": "odluka/2016/322722",
 "kind": "odluka",
@@ -209719,6 +209736,23 @@
 "from": "2016-05-26",
 "latest": "2016-05-26",
 "portal": "https://www.sluzbenilist.me/propisi/322740"
+},
+{
+"slug": "odluka-2016-322774",
+"path": "odluka/2016/322774",
+"kind": "odluka",
+"year": "2016",
+"number": "322774",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o davanju na korišćenje poslovnogprostora NVO UBNOR i antifašista Prijestonice Cetinje bez naknade",
+"short": "Odluka o davanju na korišćenje poslovnogprostora NVO UBNOR i antifašista Prijestonice Cetinje bez naknade",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-01-07",
+"latest": "2017-01-07",
+"portal": "https://www.sluzbenilist.me/propisi/322774"
 },
 {
 "slug": "rjesenje-2016-322776",
@@ -209942,6 +209976,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/323066"
 },
 {
+"slug": "poslovnik-2016-323092",
+"path": "poslovnik/2016/323092",
+"kind": "poslovnik",
+"year": "2016",
+"number": "323092",
+"withdrawn_by": null,
+"reason": null,
+"title": "Poslovnik o radu Opštinske izborne komisije",
+"short": "Poslovnik o radu Opštinske izborne komisije",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-06-29",
+"latest": "2016-06-29",
+"portal": "https://www.sluzbenilist.me/propisi/323092"
+},
+{
 "slug": "odluka-2016-323097",
 "path": "odluka/2016/323097",
 "kind": "odluka",
@@ -210008,6 +210059,23 @@
 "from": "2016-07-27",
 "latest": "2016-07-27",
 "portal": "https://www.sluzbenilist.me/propisi/323103"
+},
+{
+"slug": "zakon-2016-323360",
+"path": "zakon/2016/323360",
+"kind": "zakon",
+"year": "2016",
+"number": "323360",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o ograničavanju upotrebe duvanskih proizvoda",
+"short": "Zakon o izmjenama i dopunama Zakona o ograničavanju upotrebe duvanskih proizvoda",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-01-23",
+"latest": "2016-01-23",
+"portal": "https://www.sluzbenilist.me/propisi/323360"
 },
 {
 "slug": "program-2016-323395",
@@ -241001,6 +241069,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/322987"
 },
 {
+"slug": "odluka-2017-322988",
+"path": "odluka/2017/322988",
+"kind": "odluka",
+"year": "2017",
+"number": "322988",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o izboru predsjednika Skupštine opštine Mojkovac",
+"short": "Odluka o izboru predsjednika Skupštine opštine Mojkovac",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-12-21",
+"latest": "2017-12-21",
+"portal": "https://www.sluzbenilist.me/propisi/322988"
+},
+{
 "slug": "odluka-2017-323081",
 "path": "odluka/2017/323081",
 "kind": "odluka",
@@ -266999,6 +267084,23 @@
 "from": "2018-11-21",
 "latest": "2018-11-21",
 "portal": "https://www.sluzbenilist.me/propisi/323194"
+},
+{
+"slug": "odluka-2018-323198",
+"path": "odluka/2018/323198",
+"kind": "odluka",
+"year": "2018",
+"number": "323198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o rasporedu radnog vremena na određenim poslovima u Sekretarijatu za društvene djelatnosti",
+"short": "Odluka o rasporedu radnog vremena na određenim poslovima u Sekretarijatu za društvene djelatnosti",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2018-02-02",
+"latest": "2018-02-02",
+"portal": "https://www.sluzbenilist.me/propisi/323198"
 },
 {
 "slug": "odluka-2018-323199",
@@ -294828,6 +294930,23 @@
 "from": "2019-11-16",
 "latest": "2019-11-16",
 "portal": "https://www.sluzbenilist.me/propisi/322678"
+},
+{
+"slug": "rjesenje-2019-322783",
+"path": "rjesenje/2019/322783",
+"kind": "rjesenje",
+"year": "2019",
+"number": "322783",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o standardu zanimanja pomoćnik/pomoćnica poslastičara složenih poslastičarskih proizvoda",
+"short": "Rješenje o standardu zanimanja pomoćnik/pomoćnica poslastičara složenih poslastičarskih proizvoda",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2019-06-17",
+"latest": "2019-06-17",
+"portal": "https://www.sluzbenilist.me/propisi/322783"
 },
 {
 "slug": "odluka-2019-322807",
@@ -340900,6 +341019,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/322688"
 },
 {
+"slug": "odluka-2020-322689",
+"path": "odluka/2020/322689",
+"kind": "odluka",
+"year": "2020",
+"number": "322689",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o davanju na privremeno korišćenje zemljišta Adžović Slavki do privođenja prostora namjeni",
+"short": "Odluka o davanju na privremeno korišćenje zemljišta Adžović Slavki do privođenja prostora namjeni",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-01-05",
+"latest": "2021-01-05",
+"portal": "https://www.sluzbenilist.me/propisi/322689"
+},
+{
 "slug": "odluka-2020-322690",
 "path": "odluka/2020/322690",
 "kind": "odluka",
@@ -341085,6 +341221,23 @@
 "from": "2020-06-25",
 "latest": "2020-06-25",
 "portal": "https://www.sluzbenilist.me/propisi/322810"
+},
+{
+"slug": "odluka-2020-322812",
+"path": "odluka/2020/322812",
+"kind": "odluka",
+"year": "2020",
+"number": "322812",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluku o utvrđivanju javnog interesa",
+"short": "Odluku o utvrđivanju javnog interesa",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2020-12-26",
+"latest": "2020-12-26",
+"portal": "https://www.sluzbenilist.me/propisi/322812"
 },
 {
 "slug": "odluka-2020-322968",
@@ -341357,6 +341510,23 @@
 "from": "2020-04-08",
 "latest": "2020-04-08",
 "portal": "https://www.sluzbenilist.me/propisi/323224"
+},
+{
+"slug": "odluka-2020-323226",
+"path": "odluka/2020/323226",
+"kind": "odluka",
+"year": "2020",
+"number": "323226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o davanju u zakup nepokretnosti",
+"short": "Odluka o davanju u zakup nepokretnosti",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2020-12-31",
+"latest": "2020-12-31",
+"portal": "https://www.sluzbenilist.me/propisi/323226"
 },
 {
 "slug": "odluka-2020-323241",
@@ -367826,6 +367996,23 @@
 "from": "2021-06-28",
 "latest": "2021-06-28",
 "portal": "https://www.sluzbenilist.me/propisi/322752"
+},
+{
+"slug": "odluka-2021-322899",
+"path": "odluka/2021/322899",
+"kind": "odluka",
+"year": "2021",
+"number": "322899",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o imenovanju Odbora direktora Društva sa ograničenom odgovornošću \"Vodovod i kanalizacija Cetinje\"",
+"short": "Odluka o imenovanju Odbora direktora Društva sa ograničenom odgovornošću \"Vodovod i kanalizacija Cetinje\"",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-07-24",
+"latest": "2021-07-24",
+"portal": "https://www.sluzbenilist.me/propisi/322899"
 },
 {
 "slug": "rjesenje-2021-322906",
@@ -398258,6 +398445,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/322953"
 },
 {
+"slug": "rjesenje-2022-322956",
+"path": "rjesenje/2022/322956",
+"kind": "rjesenje",
+"year": "2022",
+"number": "322956",
+"withdrawn_by": null,
+"reason": null,
+"title": "Rješenje o izdavanju licence javnoj ustanovi Srednja stručna škola \"Spasoje Raspopović\", Podgorica",
+"short": "Rješenje o izdavanju licence javnoj ustanovi Srednja stručna škola \"Spasoje Raspopović\", Podgorica",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-03-02",
+"latest": "2022-03-02",
+"portal": "https://www.sluzbenilist.me/propisi/322956"
+},
+{
 "slug": "odluka-2022-322959",
 "path": "odluka/2022/322959",
 "kind": "odluka",
@@ -398309,6 +398513,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/323039"
 },
 {
+"slug": "odluka-2022-323040",
+"path": "odluka/2022/323040",
+"kind": "odluka",
+"year": "2022",
+"number": "323040",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o podizanju spomen-obilježja davanjem naziva ulicama i bulevaru u Podgorici",
+"short": "Odluka o podizanju spomen-obilježja davanjem naziva ulicama i bulevaru u Podgorici",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-10-14",
+"latest": "2022-10-14",
+"portal": "https://www.sluzbenilist.me/propisi/323040"
+},
+{
 "slug": "rjesenje-2022-323041",
 "path": "rjesenje/2022/323041",
 "kind": "rjesenje",
@@ -398324,6 +398545,23 @@
 "from": "2022-05-31",
 "latest": "2022-05-31",
 "portal": "https://www.sluzbenilist.me/propisi/323041"
+},
+{
+"slug": "odluka-2022-323069",
+"path": "odluka/2022/323069",
+"kind": "odluka",
+"year": "2022",
+"number": "323069",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o mjerama za ublažavanje finansijskih posledica nastalih usled pandemije COVID-19 u Opštini Tuzi",
+"short": "Odluka o mjerama za ublažavanje finansijskih posledica nastalih usled pandemije COVID-19 u Opštini Tuzi",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-05-17",
+"latest": "2022-05-17",
+"portal": "https://www.sluzbenilist.me/propisi/323069"
 },
 {
 "slug": "odluka-2022-323070",
@@ -398479,6 +398717,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/323190"
 },
 {
+"slug": "odluka-2022-323206",
+"path": "odluka/2022/323206",
+"kind": "odluka",
+"year": "2022",
+"number": "323206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o preuzimanju standarda odbrane",
+"short": "Odluka o preuzimanju standarda odbrane",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-01-19",
+"latest": "2022-01-19",
+"portal": "https://www.sluzbenilist.me/propisi/323206"
+},
+{
 "slug": "odluka-2022-323269",
 "path": "odluka/2022/323269",
 "kind": "odluka",
@@ -398615,6 +398870,23 @@
 "portal": "https://www.sluzbenilist.me/propisi/323333"
 },
 {
+"slug": "odluka-2022-323348",
+"path": "odluka/2022/323348",
+"kind": "odluka",
+"year": "2022",
+"number": "323348",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o izboru predsjednika Opštine Mojkovac",
+"short": "Odluka o izboru predsjednika Opštine Mojkovac",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-02-02",
+"latest": "2022-02-02",
+"portal": "https://www.sluzbenilist.me/propisi/323348"
+},
+{
 "slug": "odluka-2022-323354",
 "path": "odluka/2022/323354",
 "kind": "odluka",
@@ -398749,6 +399021,23 @@
 "from": "2022-11-29",
 "latest": "2022-11-29",
 "portal": "https://www.sluzbenilist.me/propisi/323374"
+},
+{
+"slug": "odluka-2022-323385",
+"path": "odluka/2022/323385",
+"kind": "odluka",
+"year": "2022",
+"number": "323385",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o prodaji zemljišta - katastarske parcele broj 789/2 KO Kolašin radi dokompletiranja urbanističke parcele broj 1 u zahvatu Detaljnog Urbanističkog Plana \"Centar\"",
+"short": "Odluka o prodaji zemljišta - katastarske parcele broj 789/2 KO Kolašin radi dokompletiranja urbanističke parcele broj 1 u zahvatu Detaljnog Urbanističkog Plana \"Centar\"",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-07-16",
+"latest": "2022-07-16",
+"portal": "https://www.sluzbenilist.me/propisi/323385"
 },
 {
 "slug": "odluka-2022-323404",
