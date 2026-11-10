@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32509 acts, 32,511 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32510 acts, 32,512 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (881, of which 86 amending acts)
 
@@ -1150,7 +1150,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22324, of which 3140 amending acts)
+## odluka (22325, of which 3141 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3976,6 +3976,7 @@
 | Odluka o stavljanju van snage Odluke o osnivanju DOO Agencija za izgradnju i razvoj Berana | [`odluka/2009/345522/`](odluka/2009/345522/) | in force | 1 | 2009-03-05 | 2009-03-05 |
 | Odluka o organizovanju Javne ustanove "Ploimski muzej" -Berane | [`odluka/2009/345524/`](odluka/2009/345524/) | in force | 1 | 2009-03-13 | 2009-03-13 |
 | Odluka o prenosu prava korišćenja na gradsko građevinsko zemljište na Popović Milanka | [`odluka/2009/345563/`](odluka/2009/345563/) | in force | 1 | 2009-03-07 | 2009-03-07 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za komunalno opremanje građevinskog zemljišta | [`odluka/2009/345597/`](odluka/2009/345597/) | amending act | 1 | 2009-12-25 | 2009-12-25 |
 | Odluka o davanju saglasnosti na Statut Javne ustanove Centar za kulturu, sport i medije Šavnik | [`odluka/2009/345598/`](odluka/2009/345598/) | in force | 1 | 2009-12-25 | 2009-12-25 |
 | Odluka o davanju saglasnosti na Odluku Savjeta JU Centar za kulturu, sport i medije Šavnik o imenovanju direktora | [`odluka/2009/345645/`](odluka/2009/345645/) | in force | 1 | 2009-12-25 | 2009-12-25 |
 | Odluka o izmjeni i dopuni Odluke o Službi zaštite | [`odluka/2009/345726/`](odluka/2009/345726/) | amending act | 1 | 2009-03-06 | 2009-03-06 |
