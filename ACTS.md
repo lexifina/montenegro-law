@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32499 acts, 32,501 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32505 acts, 32,507 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (881, of which 86 amending acts)
 
@@ -1150,7 +1150,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22317, of which 3140 amending acts)
+## odluka (22320, of which 3140 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -10707,6 +10707,7 @@
 | Odluka o razrješenju člana Odbora direktora DOO "Komunalno-Lim" Bijelo Polje | [`odluka/2017/308853/`](odluka/2017/308853/) | in force | 1 | 2017-02-16 | 2017-02-16 |
 | Odluka o davanju saglasnosti na Program rada doo "Grijanje" za 2017. godinu | [`odluka/2017/308885/`](odluka/2017/308885/) | in force | 1 | 2017-05-20 | 2017-05-20 |
 | Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele br.45.8 u bloku broj 45 u skladu sa DUP-om "Bečići" | [`odluka/2017/308913/`](odluka/2017/308913/) | in force | 1 | 2017-12-07 | 2017-12-07 |
+| Odluka o prodaji drvnih sortimenata | [`odluka/2017/308921/`](odluka/2017/308921/) | in force | 1 | 2017-11-25 | 2017-11-25 |
 | Odluka o imenovanju predsjednika i članova Odbora direktora DOO "Parking servis - Bijelo Polje" | [`odluka/2017/308930/`](odluka/2017/308930/) | in force | 1 | 2017-11-24 | 2017-11-24 |
 | Odluka o imenovanju predsjednika Savjeta za zaštitu životne sredine i razvoj turizma | [`odluka/2017/308931/`](odluka/2017/308931/) | in force | 1 | 2017-06-28 | 2017-06-28 |
 | Odluka o Budžetu Glavnog grada Podgorice za 2018. godinu | [`odluka/2017/308948/`](odluka/2017/308948/) | in force | 1 | 2017-12-25 | 2017-12-25 |
@@ -10728,6 +10729,7 @@
 | Odluka o razrješenju i imenovanju člana Savjeta Javne ustanove Centar za djelatnosti kulture "Vojislav Bulatović-Strunjo" | [`odluka/2017/309369/`](odluka/2017/309369/) | in force | 1 | 2017-11-24 | 2017-11-24 |
 | Odluka o izradi Lokalne studije lokacije ''Cerovo'' | [`odluka/2017/309413/`](odluka/2017/309413/) | in force | 1 | 2017-03-04 | 2017-03-04 |
 | Odluka o otvaranju Konzulata Crne Gore u Torontu - Kanada | [`odluka/2017/309416/`](odluka/2017/309416/) | in force | 1 | 2017-06-10 | 2017-06-10 |
+| Odluka o prodaji drvnih sortimenata | [`odluka/2017/309419/`](odluka/2017/309419/) | in force | 1 | 2017-08-22 | 2017-08-22 |
 | Odluka o razmjeni zemljišta sa Fudbalskim savezom Crne Gore | [`odluka/2017/309477/`](odluka/2017/309477/) | in force | 1 | 2017-04-13 | 2017-04-13 |
 | Odluka o donošenju Lokalne studije lokacije "Doljani" u Podgorici | [`odluka/2017/309568/`](odluka/2017/309568/) | in force | 1 | 2018-01-02 | 2018-01-02 |
 | Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi izmještanja dalekovoda u KO Klopot, KO Pelev Brijeg i KO Trebješica, Opština Podgorica i KO Jabuka, Opština Kolašin sa trase autoputa Bar-Boljare, dionica Smokovac-Mateševo | [`odluka/2017/309597/`](odluka/2017/309597/) | in force | 1 | 2017-04-01 | 2017-04-01 |
@@ -13344,6 +13346,7 @@
 | Odluka o dodjeli koncesije za priređivanje posebnih igara na sreću u "Kazinu Hotela Maestral - Budva" | [`odluka/2019/334632/`](odluka/2019/334632/) | in force | 1 | 2019-01-12 | 2019-01-12 |
 | Odluka o raspodjeli dobiti i povećanju osnovnog kapitala društva sa ograničenom odgovornošću "Crnogorski operator tržišta električne energije" - Podgorica | [`odluka/2019/334787/`](odluka/2019/334787/) | in force | 1 | 2019-03-30 | 2019-03-30 |
 | Odluka o izmjeni Odluke o osnivanju Društva sa ograničenom odgovornošću "Crnogorski operator tržišta električne energije" - Podgorica | [`odluka/2019/334788/`](odluka/2019/334788/) | in force | 1 | 2019-03-30 | 2019-03-30 |
+| Odluka o ostvarivanju prava na dnevnice za dolazak poslanika sa prebivalištem van podgorice na skupštinska zasijedanja | [`odluka/2019/335030/`](odluka/2019/335030/) | in force | 1 | 2019-04-22 | 2019-04-22 |
 | Odluka o izmjenama i dopuni Odluke o privremenom ograničenju izvoza određenih drvnih sortimenata | [`odluka/2019/335031/`](odluka/2019/335031/) | amending act | 1 | 2019-04-30 | 2019-04-30 |
 | Odluka o emisiji državnih obveznica koje dospijevaju 2024. godine | [`odluka/2019/335037/`](odluka/2019/335037/) | in force | 1 | 2019-04-12 | 2019-04-12 |
 | Odluka o emisiji državnih obveznica koje dospijevaju 2026. godine | [`odluka/2019/335038/`](odluka/2019/335038/) | in force | 1 | 2019-04-12 | 2019-04-12 |
@@ -23656,7 +23659,7 @@
 | Poslovnik o radu Disciplinskog tužioca i Disciplinskog organa Inženjerske komore Crne Gore | [`poslovnik/2026/394183/`](poslovnik/2026/394183/) | in force | 1 | 2026-05-16 | 2026-05-16 |
 | Poslovnik Skupštine opštine Bijelo Polje | [`poslovnik/2026/397882/`](poslovnik/2026/397882/) | in force | 1 | 2026-09-15 | 2026-09-15 |
 
-## pravila (282, of which 53 amending acts)
+## pravila (283, of which 53 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -23779,6 +23782,7 @@
 | Pravila za sprovođenje postupka otkrivanja, utvrđivanja i sprječavanja neovlašćenog korišenja električne energije | [`pravila/2017/334443/`](pravila/2017/334443/) | repealed, not consolidated | 1 | 2017-03-17 | 2017-03-17 |
 | Privremena pravila za primjenu člana 9. stav 4. i 5. Zakona o notarima | [`pravila/2017/335134/`](pravila/2017/335134/) | in force | 1 | 2016-08-26 | 2016-08-26 |
 | Pravila o čuvanju povjerljivosti komercijalno osjetljivih informacija koje koriste operatori sistema | [`pravila/2017/335229/`](pravila/2017/335229/) | in force | 1 | 2017-05-06 | 2017-05-06 |
+| Pravila o načinu trgovanja blokom akcija | [`pravila/2017/335335/`](pravila/2017/335335/) | in force | 1 | 2017-04-29 | 2017-04-29 |
 | Pravila o radu Agencije za sprječavanje korupcije o postupanju po prijavi o ugrožavanju javnog interesa koje upućuje na postojanje korupcije i zahtjevu za zaštitu zviždača | [`pravila/2017/336423/`](pravila/2017/336423/) | in force | 1 | 2017-06-28 | 2017-06-28 |
 | Pravila za rješavanje sporova putem arbitraže | [`pravila/2017/336697/`](pravila/2017/336697/) | in force | 1 | 2017-07-08 | 2017-07-08 |
 | Pravila o dopunama Pravila o određivanju i uređenju biračkih mjesta i o mjerama kojima se obezbjeđuje tajnost glasanja | [`pravila/2017/338136/`](pravila/2017/338136/) | amending act | 1 | 2017-11-17 | 2017-11-17 |
@@ -27179,7 +27183,7 @@
 | Program podizanja spomen-obilježja | [`program/2026/399528/`](program/2026/399528/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Izmjene i dopune Programa mjera za podsticaj razvoja poljoprivrede za 2026. godinu | [`program/2026/399716/`](program/2026/399716/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## rjesenje (3596, of which 203 amending acts)
+## rjesenje (3597, of which 203 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -29488,6 +29492,7 @@
 | Rješenje o standardu zanimanja konditor/konditorka | [`rjesenje/2020/329816/`](rjesenje/2020/329816/) | in force | 1 | 2020-05-25 | 2020-05-25 |
 | Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Komunalno stambeno" Herceg Novi | [`rjesenje/2020/330414/`](rjesenje/2020/330414/) | in force | 1 | 2020-10-02 | 2020-10-02 |
 | Rješenje o izdavanju licence Privatnoj predškolskoj ustanovi "Naše malo kraljevstvo", Podgorica | [`rjesenje/2020/330624/`](rjesenje/2020/330624/) | in force | 1 | 2020-11-23 | 2020-11-23 |
+| Rješenje o imenovanju predsjednika i članova Odbora za finansije, privredu i razvoj | [`rjesenje/2020/330988/`](rjesenje/2020/330988/) | in force | 1 | 2020-11-02 | 2020-11-02 |
 | Rješenje o imenovanju Savjeta za davanje prijedloga naziva naselja, ulica i trgova | [`rjesenje/2020/331018/`](rjesenje/2020/331018/) | in force | 1 | 2020-05-15 | 2020-05-15 |
 | Rješenje o imenovanju Odbora direktora "Parking servis" d.o.o. Budva | [`rjesenje/2020/331226/`](rjesenje/2020/331226/) | in force | 1 | 2020-07-11 | 2020-07-11 |
 | Rješenje o donesenim crnogorskim standardima i srodnim dokumentima | [`rjesenje/2020/331335/`](rjesenje/2020/331335/) | in force | 1 | 2020-12-18 | 2020-12-18 |
@@ -31280,7 +31285,7 @@
 | Uputstvo o bližem načinu izvještavanja o podacima koje član međunarodne grupe povezanih pravnih lica u vezi poslovanja dostavlja organu uprave nadležnom za poslove poreza | [`uputstvo/2026/396663/`](uputstvo/2026/396663/) | in force | 1 | 2026-08-09 | 2026-08-09 |
 | Uputstvo o načinu unosa, ažuriranja, provjera i pristupa podacima iz Registra politički eksponiranih lica | [`uputstvo/2026/397090/`](uputstvo/2026/397090/) | in force | 1 | 2026-08-20 | 2026-08-20 |
 
-## uredba (842, of which 144 amending acts)
+## uredba (843, of which 144 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -31880,6 +31885,7 @@
 | Uredba o izmjeni Uredbe o biznis zonama | [`uredba/2017/336184/`](uredba/2017/336184/) | in force | 1 | 2017-06-20 | 2017-06-20 |
 | Uredba o načinu održavanja reda u lukama | [`uredba/2017/336609/`](uredba/2017/336609/) | in force | 1 | 2017-07-14 | 2017-07-14 |
 | Uredba o izmjenama Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko konzularnom predstavništvu | [`uredba/2017/336699/`](uredba/2017/336699/) | in force | 1 | 2017-07-12 | 2017-07-12 |
+| Uredba o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Inženjerskoj komori Crne Gore | [`uredba/2017/337147/`](uredba/2017/337147/) | in force | 1 | 2017-07-27 | 2017-07-27 |
 | Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Inženjerskoj komori Crne Gore | [`uredba/2017/337172/`](uredba/2017/337172/) | in force | 1 | 2017-01-20 | 2017-01-20 |
 | Uredba o minimalnoj sumi osiguranja od profesionalne odgovornosti u oblasti izgradnje objekata | [`uredba/2017/338088/`](uredba/2017/338088/) | in force | 1 | 2017-10-20 | 2017-10-20 |
 | Uredba o visini naknada za izdavanje urbanističko-tehničkih i tehničkih uslova | [`uredba/2017/338089/`](uredba/2017/338089/) | in force | 1 | 2017-10-20 | 2017-10-20 |
