@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32497 acts, 32,499 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32498 acts, 32,500 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (881, of which 86 amending acts)
 
@@ -1150,7 +1150,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22315, of which 3140 amending acts)
+## odluka (22316, of which 3140 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -9058,6 +9058,7 @@
 | Odluka o izmjenama i dopunama Odluke o komunalnom redu | [`odluka/2015/344046/`](odluka/2015/344046/) | amending act | 1 | 2015-08-18 | 2015-08-18 |
 | Odluka o izdavanju u dugoročni zakup poslovnih prostorija | [`odluka/2015/344057/`](odluka/2015/344057/) | in force | 1 | 2015-09-03 | 2015-09-03 |
 | Odluka o donošenju Detaljnog urbanističkog plana Prčanj | [`odluka/2015/344058/`](odluka/2015/344058/) | in force | 1 | 2015-09-03 | 2015-09-03 |
+| Odluka o izradi Detaljnog urbanističkog plana "GRAHOVO" | [`odluka/2015/344059/`](odluka/2015/344059/) | in force | 1 | 2015-09-03 | 2015-09-03 |
 | Odluka o o pristupanju izradi Detaljnog urbanističkog plana "Hareme" | [`odluka/2015/344105/`](odluka/2015/344105/) | in force | 1 | 2015-07-17 | 2015-07-17 |
 | Odluka o pristupanju izradi LSL za izgradnju MHE "Kaludra 2" | [`odluka/2015/344106/`](odluka/2015/344106/) | in force | 1 | 2015-05-28 | 2015-05-28 |
 | Odluka o pristupanju izradi LSL za kat. parcelu br. 775/2 KO Berane | [`odluka/2015/344107/`](odluka/2015/344107/) | in force | 1 | 2015-05-28 | 2015-05-28 |
