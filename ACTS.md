@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32346 acts, 32,348 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32356 acts, 32,358 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (879, of which 86 amending acts)
 
@@ -1139,7 +1139,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22228, of which 3136 amending acts)
+## odluka (22233, of which 3136 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2366,6 +2366,7 @@
 | Odluka o izmjenama i dopunama Odluke o izgledu i nacinu nosenja drzavnih odlikovanja | [`odluka/2007/297332/`](odluka/2007/297332/) | amending act | 1 | 2007-06-06 | 2007-06-06 |
 | Odluka o produzenju prava na eksploataciju tehnicko-gradjevinskog kamena na lezistu "Velji Zabio", Opstina Bar | [`odluka/2007/297587/`](odluka/2007/297587/) | in force | 1 | 2007-07-07 | 2007-07-07 |
 | Odluka o pristupanju izradi Urbani¬stičkog projekta za lokalitet hotela "Galeb" u Ulcinju | [`odluka/2007/297589/`](odluka/2007/297589/) | in force | 1 | 2007-10-30 | 2007-10-30 |
+| Odluka o utvrđivanju otkupne cijene električne energije iz malih HE | [`odluka/2007/297590/`](odluka/2007/297590/) | in force | 1 | 2007-11-22 | 2007-11-22 |
 | Odluka o uskladjivanju vrijednosti penzije za jedan licni bod od 1. januara 2007.godine | [`odluka/2007/297618/`](odluka/2007/297618/) | in force | 1 | 2007-02-17 | 2007-02-17 |
 | Odluka o obrazovanju Savjeta za .ME domen | [`odluka/2007/297619/`](odluka/2007/297619/) | in force | 1 | 2007-03-22 | 2007-03-22 |
 | Odluka o dopuni Odluke o pristupanju izrade Detaljnog urbanističkog plana "Javorovača" - Žabljak | [`odluka/2007/297684/`](odluka/2007/297684/) | amending act | 1 | 2007-10-16 | 2007-10-16 |
@@ -2637,6 +2638,7 @@
 | Odluka o Energetskom bilansu Crne Gore za 2008.godinu | [`odluka/2008/298077/`](odluka/2008/298077/) | in force | 1 | 2008-02-16 | 2008-02-16 |
 | Odluka o imenovanju članova Odbora za društvene djelatnosti | [`odluka/2008/298078/`](odluka/2008/298078/) | in force | 1 | 2008-07-28 | 2008-07-28 |
 | Odluka o utvrdjivanju Nacrta Lokalne studije lokacije za područje Vranovići-Pobrdje | [`odluka/2008/298113/`](odluka/2008/298113/) | in force | 1 | 2008-08-01 | 2008-08-01 |
+| Odluka o zaduženju Opštine Tivat | [`odluka/2008/298116/`](odluka/2008/298116/) | in force | 1 | 2008-11-28 | 2008-11-28 |
 | Odluka o razrješenju, odnosno imenovanju jednog člana Odbora za društvene djelatnosti | [`odluka/2008/298120/`](odluka/2008/298120/) | in force | 1 | 2008-06-10 | 2008-06-10 |
 | Odluka o pristupanju izradi lokalne studije lokacije Kolašin - "Breza 1" | [`odluka/2008/298178/`](odluka/2008/298178/) | in force | 1 | 2008-04-05 | 2008-04-05 |
 | Odluka o izmjeni Odluke o izradi Lokalne studije lokacije"Smokov vijenac - Drobnići" | [`odluka/2008/298182/`](odluka/2008/298182/) | in force | 1 | 2008-12-13 | 2008-12-13 |
@@ -2661,6 +2663,7 @@
 | Odluka o razrješenju predsjednika Savjeta za predstavke i pritužbe | [`odluka/2008/298542/`](odluka/2008/298542/) | in force | 1 | 2008-04-15 | 2008-04-15 |
 | Odluka o izmjenama i dopunama Odluke o zaradama i drugim primanjima lokalnih funkcionera | [`odluka/2008/298544/`](odluka/2008/298544/) | amending act | 1 | 2008-03-27 | 2008-03-27 |
 | Odluka o raspisivanju izbora za odbornike Skupstine opstine Tivat | [`odluka/2008/298576/`](odluka/2008/298576/) | in force | 1 | 2008-01-18 | 2008-01-18 |
+| Odluka o raspisivanju oglasa o javnom nadmetanju u vezi zakupa zemljišta van granica gradskog građevinskog zemljišta | [`odluka/2008/298607/`](odluka/2008/298607/) | in force | 1 | 2008-06-10 | 2008-06-10 |
 | Odluka odluke o izmjenama Statuta Opštine Pljevlja | [`odluka/2008/298645/`](odluka/2008/298645/) | in force | 1 | 2008-05-02 | 2008-05-02 |
 | Odluka o raspisivanju opštinskog referenduma radi izjašnjavanja građana o izgradnji silosa za pretovar rasutog cementa u luci Zelenika | [`odluka/2008/298647/`](odluka/2008/298647/) | in force | 1 | 2008-02-16 | 2008-02-16 |
 | Odluka o Lokalnoj studiji lokacije za katastarsku parcelu br.8 KO Goljemadi u Podgorici | [`odluka/2008/298678/`](odluka/2008/298678/) | in force | 1 | 2008-11-15 | 2008-11-15 |
@@ -2701,6 +2704,7 @@
 | Odluka o izmjeni i dopuni Odluke o porezu na firmu ili naziv | [`odluka/2008/299209/`](odluka/2008/299209/) | amending act | 1 | 2008-05-31 | 2008-05-31 |
 | Odluka o dodjeli zemljišta na trajno korišćenje bez naknade | [`odluka/2008/299211/`](odluka/2008/299211/) | in force | 1 | 2009-01-06 | 2009-01-06 |
 | Odluka o izradi Strateške procjene uticaja za životnu sredinu u zahvatu Lokalne studije lokacija Grbalj I | [`odluka/2008/299239/`](odluka/2008/299239/) | in force | 1 | 2008-09-09 | 2008-09-09 |
+| Odluka o otkupu zemljišta radi formiranja urbanističke parcele, broj 11-5579 | [`odluka/2008/299240/`](odluka/2008/299240/) | in force | 1 | 2008-06-19 | 2008-06-19 |
 | Odluka o donošenju dopuna Petogodišnjeg programa planiranja i uređenja prostora Opštine Bijelo Polje za period 2005-2010.godina | [`odluka/2008/299271/`](odluka/2008/299271/) | amending act | 1 | 2008-07-11 | 2008-07-11 |
 | Odluka o potvrđivanju Odluke o razmjeni prenosa prava korišćenja nepokretnosti | [`odluka/2008/299305/`](odluka/2008/299305/) | in force | 1 | 2008-06-26 | 2008-06-26 |
 | Odluka o davanju saglasnosti na Odluku o prodaji osnovnog sredstva | [`odluka/2008/299307/`](odluka/2008/299307/) | in force | 1 | 2008-05-02 | 2008-05-02 |
@@ -3425,6 +3429,7 @@
 | Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice "Čeoče" | [`odluka/2009/299280/`](odluka/2009/299280/) | in force | 1 | 2009-11-05 | 2009-11-05 |
 | Odluka o Detaljnom urbanističkom planu "Golubovci - dio zone 2’’ | [`odluka/2009/299282/`](odluka/2009/299282/) | in force | 1 | 2009-03-13 | 2009-03-13 |
 | Odluka o utvrdjivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju magistralnog puta, Podgorica - Cetinje, dionice: Kamenica i Meterizi | [`odluka/2009/299293/`](odluka/2009/299293/) | in force | 1 | 2009-04-17 | 2009-04-17 |
+| Odluka o upotrebi Grba i Zastave Opštine Kotor | [`odluka/2009/299294/`](odluka/2009/299294/) | in force | 1 | 2010-01-06 | 2010-01-06 |
 | Odluka o raspisivanju izbora za odbornike Skupštine Prijestonice Cetinje | [`odluka/2009/299326/`](odluka/2009/299326/) | in force | 1 | 2009-11-17 | 2009-11-17 |
 | Odluka o utvrdjivanju visine godisnje premije za 2010.godinu | [`odluka/2009/299333/`](odluka/2009/299333/) | in force | 1 | 2009-12-15 | 2009-12-15 |
 | Odluka o obrazovanju grupa za evropske integracije | [`odluka/2009/299336/`](odluka/2009/299336/) | in force | 1 | 2009-04-18 | 2009-04-18 |
@@ -23843,7 +23848,7 @@
 | Pravila za poravnanje razlike između opravdanih i ostvarenih prihoda i utvrđenih troškova između licenciranih operatora distributivnog sistema | [`pravila/2026/399555/`](pravila/2026/399555/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Pravila za sprovođenje postupka otkrivanja, utvrđivanja i sprečavanja neovlašćenog korišćenja električne energije | [`pravila/2026/399770/`](pravila/2026/399770/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 
-## pravilnik (2878, of which 265 amending acts)
+## pravilnik (2880, of which 265 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -23870,6 +23875,7 @@
 | Pravilnik o visini naknadi za ribolovne dozvole za sportski ribolov na ribolovnim revirima u RCG. | [`pravilnik/1992/349792/`](pravilnik/1992/349792/) | in force | 1 | 1992-05-02 | 1992-05-02 |
 | Pravilnik o izmjenama i dopunama Pravilnika o sadržini i načinu sastavljanja poreskog i konsolidovanog bilansa,obliku i sadržaju poreske prijave i obrascu izjave i izbjegavanju dvostrukog oporezivanja dividendi. | [`pravilnik/1992/350107/`](pravilnik/1992/350107/) | amending act | 1 | 1992-06-09 | 1992-06-09 |
 | Pravilnik o izmjenama i dopunama Pravilnika o načinu i postupku dodjeljivanja specijalizacija. | [`pravilnik/1992/363432/`](pravilnik/1992/363432/) | amending act | 1 | 1992-05-16 | 1992-05-16 |
+| Pravilnik o načinu smještaja i čuvanja oružja i municije i načinu vođenja evidencije | [`pravilnik/1993/297713/`](pravilnik/1993/297713/) | in force | 1 | 1993-11-24 | 1993-11-24 |
 | Pravilnik o obrascu i sadržini odobrenja za privredni ribolov i obrascu i načinu vođenja ribarskog registra | [`pravilnik/1993/348819/`](pravilnik/1993/348819/) | in force | 1 | 1993-06-29 | 1993-06-29 |
 | Pravilnik o obrascima zahtjeva i odobrenja za nabavljanje oružja,djelova za oružje i municije,,oružnog lista,odobrenja za držanje oružja,trofejnog oružja i potvrda za nošenje oružja i municije | [`pravilnik/1993/349978/`](pravilnik/1993/349978/) | in force | 1 | 1993-11-24 | 1993-11-24 |
 | Pravilnik o cjenovniku za naknadu štete pričinjene protivpravnim ribolovom. | [`pravilnik/1993/364640/`](pravilnik/1993/364640/) | in force | 1 | 1993-12-24 | 1993-12-24 |
@@ -23936,6 +23942,7 @@
 | Pravilnik o načinu i postupku vršenja i ocjenjivanja probnog rada u državnim organima | [`pravilnik/1996/295467/`](pravilnik/1996/295467/) | in force | 1 | 1996-06-20 | 1996-06-20 |
 | Pravilnik o dopunama Pravilnika o sadržini i načinu vođenja poslovnih knjiga i iskazivanja finansijskog rezultata kod obavljanja samostalne djelatnosti | [`pravilnik/1996/295489/`](pravilnik/1996/295489/) | amending act | 1 | 1996-12-27 | 1996-12-27 |
 | Pravilnik o bližim uslovima koje treba da ispunjavaju sportske organizacije u pogledu objekata, opreme i kadrova | [`pravilnik/1996/295761/`](pravilnik/1996/295761/) | in force | 1 | 1996-04-04 | 1996-04-04 |
+| Pravilnik o sadržini i načinu vođenja vodne knjige i katastra površinskih i podzemnih voda, korisniha i zagađivača voda, bujičnih tokova i erozivnih područja i vodoprivrednih objekata i postrojenja | [`pravilnik/1996/297486/`](pravilnik/1996/297486/) | in force | 1 | 1996-02-23 | 1996-02-23 |
 | Pravilnik o stručnoj spremi - osposobljenosti i broju radnika za obavljanje preduzetničke djelatnosti u javnom linijskom i vanlinijskom drumskom saobraćaju | [`pravilnik/1996/323923/`](pravilnik/1996/323923/) | in force | 1 | 1996-11-08 | 1996-11-08 |
 | Pravilnik o visini naknade za ribolovne dozvole za sportski ribolov na ribolovnim revirima u Republici Crnoj Gori | [`pravilnik/1996/344901/`](pravilnik/1996/344901/) | in force | 1 | 1996-04-17 | 1996-04-17 |
 | Pravilnik o primjeni kriterijuma za određivanje naknada za privremeno korišćenje radio-difuznih frekvencija | [`pravilnik/1996/344965/`](pravilnik/1996/344965/) | in force | 1 | 1996-04-30 | 1996-04-30 |
@@ -27070,7 +27077,7 @@
 | Program podizanja spomen-obilježja | [`program/2026/399528/`](program/2026/399528/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Izmjene i dopune Programa mjera za podsticaj razvoja poljoprivrede za 2026. godinu | [`program/2026/399716/`](program/2026/399716/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## rjesenje (3562, of which 202 amending acts)
+## rjesenje (3563, of which 202 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -27264,6 +27271,7 @@
 | Rješenje o obrazovanju Komisije za izradu nacrta Odluke o izmjeni i dopuni Statuta Opštine Pljevlja | [`rjesenje/2008/298473/`](rjesenje/2008/298473/) | amending act | 1 | 2008-03-22 | 2008-03-22 |
 | Rjesenje o izdavanju licence za rad Fakultetu za menadzment u saobracaju i komunikacijama Berane | [`rjesenje/2008/298746/`](rjesenje/2008/298746/) | in force | 1 | 2008-09-08 | 2008-09-08 |
 | Rješenje o imenovanju predsjednika i članova Odbora za statut i propise | [`rjesenje/2008/298865/`](rjesenje/2008/298865/) | in force | 1 | 2008-12-18 | 2008-12-18 |
+| Rjesenje o izdavanju licence za rad Javnoj ustanovi Srednja mjesovita skola "Vuksan Djukic" Mojkovac | [`rjesenje/2008/298871/`](rjesenje/2008/298871/) | in force | 1 | 2008-05-07 | 2008-05-07 |
 | Rjesenje o izdavanju licence za rad Fakultetu za internacionalni hotelski i turisticki menadzment, Milocer-Sveti Stefan | [`rjesenje/2008/299141/`](rjesenje/2008/299141/) | in force | 1 | 2008-07-25 | 2008-07-25 |
 | Rjesenje o licenciranju organizatora obrazovanja odraslih "Centar za obrazovanje odraslih" u Niksicu | [`rjesenje/2008/299441/`](rjesenje/2008/299441/) | in force | 1 | 2008-10-23 | 2008-10-23 |
 | Rjesenje o izdavanju licence za rad Javnoj ustanovi Srednja strucna skola Niksic | [`rjesenje/2008/299935/`](rjesenje/2008/299935/) | in force | 1 | 2008-05-07 | 2008-05-07 |
@@ -30938,7 +30946,7 @@
 | Zakon o potvrđivanju Dodatnog protokola 7 o rješavanju sporova uz Sporazum o izmjeni i pristupanju Centralnoevropskom sporazumu o slobodnoj trgovini (CEFTA) | [`ugovor/2026/396797/`](ugovor/2026/396797/) | in force | 1 | 2026-08-13 | 2026-08-13 |
 | Odluka o objavljivanju Multilateralnog sporazuma nadležnih organa o automatskoj razmjeni informacija o finansijskim računima i dodatka Multilateralnom sporazumu nadležnih organa o automatskoj razmjeni informacija o finansijskim računima | [`ugovor/2026/398107/`](ugovor/2026/398107/) | in force | 1 | 2026-09-16 | 2026-09-16 |
 
-## uputstvo (187, of which 18 amending acts)
+## uputstvo (188, of which 18 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -30988,6 +30996,7 @@
 | Uputstvo o sadrzini evidencije stranih ulaganja | [`uputstvo/2000/300005/`](uputstvo/2000/300005/) | in force | 1 | 2000-12-08 | 2000-12-08 |
 | Uputstvo o odredjivanju uslova za osnivanje banaka i afilijacija stranih banaka | [`uputstvo/2000/300885/`](uputstvo/2000/300885/) | in force | 1 | 2000-06-08 | 2000-06-08 |
 | Odluka o dopuni Pravila o radu birackih odbora | [`uputstvo/2001/299419/`](uputstvo/2001/299419/) | amending act | 1 | 2001-03-06 | 2001-03-06 |
+| Uputstvo o nacinu servisiranja i odrzavanja poreskih kasa i izgledu i sadrzaju servisne knjizice | [`uputstvo/2001/299737/`](uputstvo/2001/299737/) | in force | 1 | 2001-06-08 | 2001-06-08 |
 | Uputstvo o jedinstvenim obrascima za sprovodjenje izbora na birackim mjestima odredjenim odlukom o odredjivanju birackih mjesta za izbor pet poslanika u Skupstinu Republike Crne Gore | [`uputstvo/2001/325267/`](uputstvo/2001/325267/) | in force | 1 | 2001-03-07 | 2001-03-07 |
 | Uputstvo za primjenu odredaba čl.116 i 122 Zakona o hartijama od vrijednosti | [`uputstvo/2001/349438/`](uputstvo/2001/349438/) | in force | 1 | 2001-07-10 | 2001-07-10 |
 | Uputstvo o nacinu i postupku uvida u dosijea vodjenih o gradjanima Republike Crne Gore u Sluzbi drzavne bezbjednosti | [`uputstvo/2001/349576/`](uputstvo/2001/349576/) | in force | 1 | 2001-10-09 | 2001-10-09 |
@@ -31130,7 +31139,7 @@
 | Uputstvo o bližem načinu izvještavanja o podacima koje član međunarodne grupe povezanih pravnih lica u vezi poslovanja dostavlja organu uprave nadležnom za poslove poreza | [`uputstvo/2026/396663/`](uputstvo/2026/396663/) | in force | 1 | 2026-08-09 | 2026-08-09 |
 | Uputstvo o načinu unosa, ažuriranja, provjera i pristupa podacima iz Registra politički eksponiranih lica | [`uputstvo/2026/397090/`](uputstvo/2026/397090/) | in force | 1 | 2026-08-20 | 2026-08-20 |
 
-## uredba (839, of which 143 amending acts)
+## uredba (840, of which 143 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -31193,6 +31202,7 @@
 | Uredba o prestanku važenja Uredbe o privre.menom regulisanju menjačkih poslova na teritoriji Republike Crne Gore | [`uredba/1994/296478/`](uredba/1994/296478/) | in force | 1 | 1994-01-24 | 1994-01-24 |
 | Uredba o utvrđivanju iznosa administrativnih taksa | [`uredba/1994/296582/`](uredba/1994/296582/) | in force | 1 | 1994-01-24 | 1994-01-24 |
 | Uredba o utvrđivanju visine republičke takse na firmu | [`uredba/1994/297317/`](uredba/1994/297317/) | in force | 1 | 1994-02-18 | 1994-02-18 |
+| Uredba o povećanju iznosa sudskih taksa | [`uredba/1994/297387/`](uredba/1994/297387/) | in force | 1 | 1994-03-10 | 1994-03-10 |
 | Uredba o stavljanju van snage Uredbe o određlvanju cijena telefonske pretplate u vrijeme trajanja sankcija Savjeta bezbjednosti OUN | [`uredba/1994/297388/`](uredba/1994/297388/) | in force | 1 | 1994-01-24 | 1994-01-24 |
 | Uredba o utvrđivanju boravišne takse | [`uredba/1994/299047/`](uredba/1994/299047/) | in force | 1 | 1994-01-24 | 1994-01-24 |
 | Uredba o stavljanju van snage Uredbe o načinu obrazovanja cijena kuhinjske soli za ljudsku ishranu i industriju u vrijeme trajanja sankcija Savjeta bezbjednosti OUN | [`uredba/1994/299186/`](uredba/1994/299186/) | in force | 1 | 1994-01-24 | 1994-01-24 |

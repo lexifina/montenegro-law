@@ -6212,6 +6212,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1993-297713",
+   "path": "pravilnik/1993/297713",
+   "short": "Pravilnik o načinu smještaja i čuvanja oružja i municije i načinu vođenja evidencije",
+   "title": "Pravilnik o načinu smještaja i čuvanja oružja i municije i načinu vođenja evidencije",
+   "url": "https://www.sluzbenilist.me/propisi/297713",
+   "versions": [
+    {
+     "from": "1993-11-24",
+     "units": 31,
+     "source_url": "https://www.sluzbenilist.me/propisi/297713/download",
+     "sha256": "72b82428f28832246f42cc1cbadb412f275e1f55d62ed68f6531fe5fe1079496"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1993-348819",
    "path": "pravilnik/1993/348819",
    "short": "Pravilnik o obrascu i sadržini odobrenja za privredni ribolov i obrascu i načinu vođenja ribarskog registra",
@@ -8372,6 +8387,36 @@
    ]
   },
   {
+   "slug": "uputstvo-2001-299737",
+   "path": "uputstvo/2001/299737",
+   "short": "Uputstvo o nacinu servisiranja i odrzavanja poreskih kasa i izgledu i sadrzaju servisne knjizice",
+   "title": "Uputstvo o nacinu servisiranja i odrzavanja poreskih kasa i izgledu i sadrzaju servisne knjizice",
+   "url": "https://www.sluzbenilist.me/propisi/299737",
+   "versions": [
+    {
+     "from": "2001-06-08",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/299737/download",
+     "sha256": "e1555b0cdc04bf6539fa261327dbec5ce3619d4cea54eb14244f76a3139ad5bc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-297387",
+   "path": "uredba/1994/297387",
+   "short": "Uredba o povećanju iznosa sudskih taksa",
+   "title": "Uredba o povećanju iznosa sudskih taksa",
+   "url": "https://www.sluzbenilist.me/propisi/297387",
+   "versions": [
+    {
+     "from": "1994-03-10",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/297387/download",
+     "sha256": "fccc6ac5bad42e3e9e2b248fc1cf3098595646be16de0016a8fa96f688e85edc"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2002-345583",
    "path": "uredba/2002/345583",
    "short": "Uredba o privremenom smanjenju stopa opsteg poreza na promet proizvoda namijenjenih za pruzanje humanitarne pomoci",
@@ -9118,6 +9163,51 @@
      "units": 5,
      "source_url": "https://www.sluzbenilist.me/propisi/346643/download",
      "sha256": "47908a4a765fe6aea93a9fcb714b249cfa2719a3b8a53f705c0378a414c53d47"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2008-298116",
+   "path": "odluka/2008/298116",
+   "short": "Odluka o zaduženju Opštine Tivat",
+   "title": "Odluka o zaduženju Opštine Tivat",
+   "url": "https://www.sluzbenilist.me/propisi/298116",
+   "versions": [
+    {
+     "from": "2008-11-28",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/298116/download",
+     "sha256": "943f5a99f20e7014f69717b71d08e4957e23a8d4ac8119a3c9f19ccd769012b3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2008-298607",
+   "path": "odluka/2008/298607",
+   "short": "Odluka o raspisivanju oglasa o javnom nadmetanju u vezi zakupa zemljišta van granica gradskog građevinskog zemljišta",
+   "title": "Odluka o raspisivanju oglasa o javnom nadmetanju u vezi zakupa zemljišta van granica gradskog građevinskog zemljišta",
+   "url": "https://www.sluzbenilist.me/propisi/298607",
+   "versions": [
+    {
+     "from": "2008-06-10",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/298607/download",
+     "sha256": "306cd41da1ca5b485d74cfba379a33d90b45f7f363610d8f35d476b7dbda0eda"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2008-299240",
+   "path": "odluka/2008/299240",
+   "short": "Odluka o otkupu zemljišta radi formiranja urbanističke parcele, broj 11-5579",
+   "title": "Odluka o otkupu zemljišta radi formiranja urbanističke parcele, broj 11-5579",
+   "url": "https://www.sluzbenilist.me/propisi/299240",
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.me/propisi/299240/download",
+     "sha256": "bbff249c73e7eed7cd9b0ce898fc1188b5b8d635ac642302b9879a226c4f4cea"
     }
    ]
   },
@@ -17012,6 +17102,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1996-297486",
+   "path": "pravilnik/1996/297486",
+   "short": "Pravilnik o sadržini i načinu vođenja vodne knjige i katastra površinskih i podzemnih voda, korisniha i zagađivača voda, bujičnih tokova i erozivnih područja i vodoprivrednih objekata i postrojenja",
+   "title": "Pravilnik o sadržini i načinu vođenja vodne knjige i katastra površinskih i podzemnih voda, korisniha i zagađivača voda, bujičnih tokova i erozivnih područja i vodoprivrednih objekata i postrojenja",
+   "url": "https://www.sluzbenilist.me/propisi/297486",
+   "versions": [
+    {
+     "from": "1996-02-23",
+     "units": 22,
+     "source_url": "https://www.sluzbenilist.me/propisi/297486/download",
+     "sha256": "5afc11c2a2a97c47dd88772c80923836404fa1368dc7144bb05a1e5b39ff4233"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2013-334147",
    "path": "pravilnik/2013/334147",
    "short": "Pravilnik o uslovima koje treba da ispuni priređivač nagradnih igara",
@@ -18763,6 +18868,21 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.me/propisi/348875/download",
      "sha256": "d1904bf2018a6e1c39e93c6cbef6793948eba0a8896a7f86e2ad71aa90680d07"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2009-299294",
+   "path": "odluka/2009/299294",
+   "short": "Odluka o upotrebi Grba i Zastave Opštine Kotor",
+   "title": "Odluka o upotrebi Grba i Zastave Opštine Kotor",
+   "url": "https://www.sluzbenilist.me/propisi/299294",
+   "versions": [
+    {
+     "from": "2010-01-06",
+     "units": 39,
+     "source_url": "https://www.sluzbenilist.me/propisi/299294/download",
+     "sha256": "4927200568beae59d50d53a7d10c6772faab0af3483cee4cea4d36997f9b38a8"
     }
    ]
   },
@@ -22457,6 +22577,21 @@
    ]
   },
   {
+   "slug": "rjesenje-2008-298871",
+   "path": "rjesenje/2008/298871",
+   "short": "Rjesenje o izdavanju licence za rad Javnoj ustanovi Srednja mjesovita skola \"Vuksan Djukic\" Mojkovac",
+   "title": "Rjesenje o izdavanju licence za rad Javnoj ustanovi Srednja mjesovita skola \"Vuksan Djukic\" Mojkovac",
+   "url": "https://www.sluzbenilist.me/propisi/298871",
+   "versions": [
+    {
+     "from": "2008-05-07",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/298871/download",
+     "sha256": "14d7ceed10dd71cc70a7ddd33db837a3df3634360a96b501982b17b53d2628f6"
+    }
+   ]
+  },
+  {
    "slug": "rjesenje-2011-325453",
    "path": "rjesenje/2011/325453",
    "short": "Rjesenje o imenovanju Komisije za izradu teksta Nacrta izmjena i dopuna Poslovnika Skupstine opstine Zabljak",
@@ -23158,6 +23293,21 @@
      "units": 5,
      "source_url": "https://www.sluzbenilist.me/propisi/363394/download",
      "sha256": "744306a053602c3ba1f59a54eaf8a19225f0af9e943be0d9de9405abdecbd753"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2007-297590",
+   "path": "odluka/2007/297590",
+   "short": "Odluka o utvrđivanju otkupne cijene električne energije iz malih HE",
+   "title": "Odluka o utvrđivanju otkupne cijene električne energije iz malih HE",
+   "url": "https://www.sluzbenilist.me/propisi/297590",
+   "versions": [
+    {
+     "from": "2007-11-22",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/297590/download",
+     "sha256": "5ed0d458ef8217f30e48d2fefdeaf6a4ffc86dd9fde8d6e9d4f077c55d07d5ce"
     }
    ]
   },
