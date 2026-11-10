@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32243 acts, 32,245 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32307 acts, 32,309 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (879, of which 86 amending acts)
 
@@ -1138,7 +1138,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22189, of which 3132 amending acts)
+## odluka (22211, of which 3136 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4037,6 +4037,7 @@
 | Odluka o izmjenama i dopunama Detaljnog urbanistickog plana "Prvoborac" u Podgorici | [`odluka/2010/302178/`](odluka/2010/302178/) | amending act | 1 | 2010-10-22 | 2010-10-22 |
 | Odluka o Detaljnom urbanistickom planu fakultetsko-studentskog centra | [`odluka/2010/302269/`](odluka/2010/302269/) | in force | 1 | 2010-07-17 | 2010-07-17 |
 | Odluka o izmjenama i dopunama Detaljnog urbanistickog plana "Komunalno" | [`odluka/2010/302271/`](odluka/2010/302271/) | amending act | 1 | 2010-12-15 | 2010-12-15 |
+| Odluka o izradi Lokalne studije lokacije "VRBA II" - Drugi dio | [`odluka/2010/302324/`](odluka/2010/302324/) | in force | 1 | 2010-11-18 | 2010-11-18 |
 | Odluka o obrazovanju Komisije za saradnju sa nevladinim organizacijama i raspodjelu sredstava za projekte nevladinih organizacija | [`odluka/2010/302382/`](odluka/2010/302382/) | in force | 1 | 2010-06-08 | 2010-06-08 |
 | Odluka o davanju saglasnosti na Statut Javnog preduzeca "Komunalno" Rozaje.... | [`odluka/2010/302403/`](odluka/2010/302403/) | in force | 1 | 2010-04-30 | 2010-04-30 |
 | Odluka o zaduzenju Opstine Herceg-Novi | [`odluka/2010/302441/`](odluka/2010/302441/) | in force | 1 | 2010-04-16 | 2010-04-16 |
@@ -4054,6 +4055,7 @@
 | Odluka o sticanju prava koriscenja i prava raspolaganja sluzbenim notebook-om poslanika u Skupstini Crne Gore | [`odluka/2010/302795/`](odluka/2010/302795/) | in force | 1 | 2010-03-20 | 2010-03-20 |
 | Odluka o obrazovanju Komisije za izradu Nacrta odluke o izmjeni i dopuni Statuta Opstine Pljevlja | [`odluka/2010/302891/`](odluka/2010/302891/) | amending act | 1 | 2010-04-30 | 2010-04-30 |
 | Odluka o izmjenama i dopunama Statuta "Budva Holding" D.O.O. Budva | [`odluka/2010/302922/`](odluka/2010/302922/) | amending act | 1 | 2010-06-08 | 2010-06-08 |
+| Odluka o izradi Izmjena i dopuna Detaljnog urbanistickog plana "Konik - Stari Aerodrom" u Podgorici | [`odluka/2010/302924/`](odluka/2010/302924/) | amending act | 1 | 2010-07-28 | 2010-07-28 |
 | Odluka o davanju saglasnosti na Program rada i finansijski plan Turisticke organizacije Kolasin za 2010. godinu | [`odluka/2010/302925/`](odluka/2010/302925/) | in force | 1 | 2010-12-29 | 2010-12-29 |
 | Odluka o skracenju mandata odbornika Skupstine Gradske opstine Golubovci | [`odluka/2010/302926/`](odluka/2010/302926/) | in force | 1 | 2010-03-22 | 2010-03-22 |
 | Odluka o donosenju UP-a "Medjuopstinska sanitarna deponija Mozura" | [`odluka/2010/302951/`](odluka/2010/302951/) | in force | 1 | 2010-02-16 | 2010-02-16 |
@@ -4070,6 +4072,7 @@
 | Odluka o izmjenama i dopunama Detaljnog urbanistickog plana "Rasadnik" | [`odluka/2010/303520/`](odluka/2010/303520/) | amending act | 1 | 2010-12-15 | 2010-12-15 |
 | Odluka o imenovanju predsjednika i clanova Upravnog odbora JKP "Gradac" Mojkovac | [`odluka/2010/303548/`](odluka/2010/303548/) | in force | 1 | 2010-03-15 | 2010-03-15 |
 | Odluka o davanju saglasnosti na Program rada sa Finansijskim planom, za 2010. god. JP "Vodovod i kanalizacija" Tivat | [`odluka/2010/303574/`](odluka/2010/303574/) | in force | 1 | 2009-12-29 | 2009-12-29 |
+| Odluka o izradi Lokalne studije lokacije "Pijaca" - katastarska parcela 2315/4 u Tuzima | [`odluka/2010/303608/`](odluka/2010/303608/) | in force | 1 | 2010-07-28 | 2010-07-28 |
 | Odluka o prenosu prava raspolaganja na zemljistu u Dobrakovu, Vladi Crne Gore bez naknade | [`odluka/2010/303734/`](odluka/2010/303734/) | in force | 1 | 2010-10-08 | 2010-10-08 |
 | Odluka o utvrdjivanju Nacrta odluke o izmjenama i dopunama Statuta Opstine Danilovgrad | [`odluka/2010/303740/`](odluka/2010/303740/) | amending act | 1 | 2011-01-08 | 2011-01-08 |
 | Odluka o stavljanju van snage Odluke o visini naknade za upotrebu nekategorisanih puteva koja se placa na drumska motorna vozila i njihova prikljucna vozila | [`odluka/2010/303765/`](odluka/2010/303765/) | in force | 1 | 2010-04-23 | 2010-04-23 |
@@ -4099,6 +4102,7 @@
 | Odluka o dodjeli koncesije za detaljna geoloska istrazivanja i eksploataciju pojave nemetalicne mineralne sirovine tehnicko-gradjevinskog kamena ,,Kalac" | [`odluka/2010/304743/`](odluka/2010/304743/) | in force | 1 | 2010-07-03 | 2010-07-03 |
 | Odluka o prodaji nepokretnosti | [`odluka/2010/304744/`](odluka/2010/304744/) | in force | 1 | 2010-04-23 | 2010-04-23 |
 | Odluka o utvrdjivanju javnog interesa i podnosenju zahtjeva Vladi Crne Gore za davanje na raspolaganje nepokretnosti bez naknade | [`odluka/2010/304760/`](odluka/2010/304760/) | in force | 1 | 2010-10-08 | 2010-10-08 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za komunalno opremanje gradjevinskog zemljista | [`odluka/2010/304819/`](odluka/2010/304819/) | amending act | 1 | 2010-10-22 | 2010-10-22 |
 | Odluka o izmjenama i dopunama Generalnog urbanistickog plana Podgorice za prostor Detaljnog urbanistickog plana "Prvoborac" u Podgorici | [`odluka/2010/304848/`](odluka/2010/304848/) | amending act | 1 | 2010-10-22 | 2010-10-22 |
 | Odluka i izmjeni Odluke o imenovanju Odbora za drustvene djelatnosti | [`odluka/2010/304849/`](odluka/2010/304849/) | in force | 1 | 2010-01-14 | 2010-01-14 |
 | Odluka o davanju saglasnosti na Odluku Upravnog odbora Javne ustanove Dnevni centar za djecu sa smetnjama u razvoju Niksic o izboru direktora | [`odluka/2010/304878/`](odluka/2010/304878/) | in force | 1 | 2010-03-29 | 2010-03-29 |
@@ -5538,6 +5542,7 @@
 | Odluka o davanju saglasnosti na Statut Javne ustanove Centar za kulturu Danilovgrad | [`odluka/2012/304335/`](odluka/2012/304335/) | in force | 1 | 2012-09-07 | 2012-09-07 |
 | Odluka o razrješenju člana Odbora za izbor i imenovanje | [`odluka/2012/304336/`](odluka/2012/304336/) | in force | 1 | 2012-12-15 | 2012-12-15 |
 | Odluka o razrješenju predsjednika Opštinske izborne komisije | [`odluka/2012/304357/`](odluka/2012/304357/) | in force | 1 | 2012-10-30 | 2012-10-30 |
+| Odluka o raspisivanju izbora za odbornike u Skupštini Opštine Nikšić | [`odluka/2012/304359/`](odluka/2012/304359/) | in force | 1 | 2012-12-28 | 2012-12-28 |
 | Odluka o davanju saglasnosti na Rješenje predsjednice Opštine Kotor o razrješenju Andrije Popovića iz Kotora sa funkcije potpredsjednika Opštine Kotor | [`odluka/2012/304370/`](odluka/2012/304370/) | in force | 1 | 2012-12-18 | 2012-12-18 |
 | Odluka o Urbanističkom projektu "Nova Varoš - Blok D" u Podgorici | [`odluka/2012/304476/`](odluka/2012/304476/) | in force | 1 | 2012-02-29 | 2012-02-29 |
 | Odluka o raspisivanju izbora za odbornike u Skupštini opštine Budva | [`odluka/2012/304508/`](odluka/2012/304508/) | in force | 1 | 2012-08-02 | 2012-08-02 |
@@ -6146,11 +6151,13 @@
 | Odluka o izmjenama Odluke o davanju saglasnosti na bankarsku garanciju | [`odluka/2013/302063/`](odluka/2013/302063/) | in force | 1 | 2013-01-24 | 2013-01-24 |
 | Odluka o poništavanju Odluke o osnivanju Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Rožaje | [`odluka/2013/302082/`](odluka/2013/302082/) | in force | 1 | 2013-08-28 | 2013-08-28 |
 | Odluka o imenovanju Projekt Menadžera za projekat međuopštinske saradnje finansiranog od strane Delegacije Evropske unije | [`odluka/2013/302359/`](odluka/2013/302359/) | in force | 1 | 2013-07-29 | 2013-07-29 |
+| Odluka o razrješenju člana Savjeta za ekologiju, zaštitu prirode i životne sredine | [`odluka/2013/302373/`](odluka/2013/302373/) | in force | 1 | 2013-03-20 | 2013-03-20 |
 | Odluka o izmjenama i dopunama Poslovnika Skupštine opštine Bijelo Polje | [`odluka/2013/302388/`](odluka/2013/302388/) | amending act | 1 | 2013-11-16 | 2013-11-16 |
 | Odluka o izmjenama i dopunama Odluke o porezu na nepokretnost | [`odluka/2013/302568/`](odluka/2013/302568/) | amending act | 1 | 2013-12-07 | 2013-12-07 |
 | Odluka o davanju saglasnosti na Sporazum o naknadi za eksproprisane nepokretnosti za potrebe izgradnje ulice u obuhvatu Detaljnog urbanističkog plana Rastoci 1 | [`odluka/2013/302583/`](odluka/2013/302583/) | in force | 1 | 2013-07-24 | 2013-07-24 |
 | Odluka, broj: 13/75-4 | [`odluka/2013/302602/`](odluka/2013/302602/) | in force | 1 | 2013-03-01 | 2013-03-01 |
 | Odluka o uslovima za obavljanje revizije finansijskih izvještaja investicionih fondova i društava za upravljanje investicionim fondovima | [`odluka/2013/302604/`](odluka/2013/302604/) | in force | 1 | 2013-11-30 | 2013-11-30 |
+| Odluka o raspisivanju izbora za odbornike u Skupštini opštine Andrijevica | [`odluka/2013/302617/`](odluka/2013/302617/) | in force | 1 | 2013-01-01 | 2013-01-01 |
 | Odluka o izradi strateške procjene uticaja na životnu sredinu za Lokalnu studiju lokacije "Sasovići" | [`odluka/2013/302626/`](odluka/2013/302626/) | in force | 1 | 2013-06-12 | 2013-06-12 |
 | Odluka o davanju koncesija za korišćenje šuma, izgradnju i održavanje šumskih saobraćajnica u gazdinskoj jedinici "Paučinske šume" | [`odluka/2013/302657/`](odluka/2013/302657/) | in force | 1 | 2013-10-16 | 2013-10-16 |
 | Odluka o pristupanju kupovini zemljišta kat.par. 8 KO Krašići | [`odluka/2013/302833/`](odluka/2013/302833/) | in force | 1 | 2013-07-13 | 2013-07-13 |
@@ -6164,6 +6171,7 @@
 | Odluka o imenovanju sekretara Skupštine opštine Andrijevica | [`odluka/2013/302984/`](odluka/2013/302984/) | in force | 1 | 2012-12-14 | 2012-12-14 |
 | Odluka o davanju saglasnosti na Program rada Lokalnog biznis centra Rožaje za 2013. godinu | [`odluka/2013/303005/`](odluka/2013/303005/) | in force | 1 | 2013-02-19 | 2013-02-19 |
 | Odluka o odobravanju udžbenika i nastavnih sredstava za 2013/14 školsku godinu | [`odluka/2013/303055/`](odluka/2013/303055/) | in force | 1 | 2013-09-21 | 2013-09-21 |
+| Odluka o potvrđivanju Zaključka predsjednika opštine o oslobađanju plaćanja dijela obaveza po osnovu godišnje naknade za korišćenje komercijalnih objekata kojima je omogućen pristup sa puta za 2013 | [`odluka/2013/303060/`](odluka/2013/303060/) | in force | 1 | 2013-11-06 | 2013-11-06 |
 | Odluka o usvajanju Lokalnog plana akcije za mlade Opštine Kolašin | [`odluka/2013/303206/`](odluka/2013/303206/) | in force | 1 | 2013-07-04 | 2013-07-04 |
 | Odluka o pretvaranju nenovčanog uloga Glavnog grada u trajni ulog u AD "Plodovi Crne Gore" Podgorica | [`odluka/2013/303318/`](odluka/2013/303318/) | in force | 1 | 2013-11-19 | 2013-11-19 |
 | Odluka o prenosu prava vlasništva na nepokretnostima - katastarskoj parceli 2333 i objektu JPU "Zagorka Ivanović" - Cetinje | [`odluka/2013/303441/`](odluka/2013/303441/) | in force | 1 | 2013-11-23 | 2013-11-23 |
@@ -6171,8 +6179,10 @@
 | Odluka o oslobađanju od plaćanja novčane obaveze | [`odluka/2013/303530/`](odluka/2013/303530/) | in force | 1 | 2013-11-23 | 2013-11-23 |
 | Odluka o oslobađanju plaćanja obaveza po osnovu poreza na nepokretnosti za poljoprivredno zemljište koje se koristi u poljoprivredne svrhe u 2013. godini | [`odluka/2013/303533/`](odluka/2013/303533/) | in force | 1 | 2013-07-19 | 2013-07-19 |
 | Odluka o otvaranju konzulata Crne Gore u Republici Turskoj | [`odluka/2013/303715/`](odluka/2013/303715/) | in force | 1 | 2013-09-21 | 2013-09-21 |
+| Odluka o odobravanju regulatorno dozvoljenog prihoda Elektroprivredi Crne Gore ad Nikšić za javnog snabdjevača | [`odluka/2013/303716/`](odluka/2013/303716/) | in force | 1 | 2013-04-19 | 2013-04-19 |
 | Odluka o obrazovanju Komisije za ocjenjivanje ispunjenosti uslova za teritorijalnu promjenu povodom sprovedenog konsultativnog referenduma o osnivanju opštine Gusinje | [`odluka/2013/303717/`](odluka/2013/303717/) | in force | 1 | 2013-09-21 | 2013-09-21 |
 | Odluka o utvrđivanju naknada za licence za 2014. godinu | [`odluka/2013/303759/`](odluka/2013/303759/) | in force | 1 | 2014-01-07 | 2014-01-07 |
+| Odluka o imenovanju Žirija za dodjelu nagrade "20. novembar" | [`odluka/2013/303760/`](odluka/2013/303760/) | in force | 1 | 2013-07-19 | 2013-07-19 |
 | Odluka o donošenju programa poboljšanja energetske efikasnosti Opštine Bar | [`odluka/2013/303772/`](odluka/2013/303772/) | in force | 1 | 2013-06-19 | 2013-06-19 |
 | ‚Odluka o izboru Etičke komisije za izabrane predstavnike/ce i funkcionere/ke | [`odluka/2013/303774/`](odluka/2013/303774/) | in force | 1 | 2013-06-19 | 2013-06-19 |
 | Odluka o otvaranju Konzulata Crne Gore u Bolonji, Republika Italija | [`odluka/2013/303799/`](odluka/2013/303799/) | in force | 1 | 2014-01-04 | 2014-01-04 |
@@ -6203,7 +6213,9 @@
 | Odluka o dodjeli novčane pomoći porodici Strunjaš Željka | [`odluka/2013/304431/`](odluka/2013/304431/) | in force | 1 | 2013-10-23 | 2013-10-23 |
 | Odluka o izmjenama Odluke o donošenju Lokalne studije lokacije Grbalj 2 | [`odluka/2013/304437/`](odluka/2013/304437/) | in force | 1 | 2013-12-27 | 2013-12-27 |
 | Odluka o visini naknade za korišćenje podataka iz evidencije vozila | [`odluka/2013/304440/`](odluka/2013/304440/) | in force | 1 | 2014-01-04 | 2014-01-04 |
+| Odluka o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave | [`odluka/2013/304469/`](odluka/2013/304469/) | amending act | 1 | 2013-02-12 | 2013-02-12 |
 | Odluka o utvrđivanju javnog interesa za nepotpunu eksproprijaciju nepokretnosti radi izgradnje kanalizacionog cjevovoda sa postrojenjima za prečišćavanje otpadnih voda Opštine Plav | [`odluka/2013/304470/`](odluka/2013/304470/) | in force | 1 | 2013-06-06 | 2013-06-06 |
+| Odluku o raspisivanju izbora za odbornike u Skupštini opštine Mojkovac | [`odluka/2013/304544/`](odluka/2013/304544/) | in force | 1 | 2013-09-02 | 2013-09-02 |
 | Odluka o izboru predsjednika Skupštine opštine Andrijevica | [`odluka/2013/304547/`](odluka/2013/304547/) | in force | 1 | 2013-03-15 | 2013-03-15 |
 | Odluka o izmjenama i dopunama Odluke o boravišnoj taksi | [`odluka/2013/304548/`](odluka/2013/304548/) | amending act | 1 | 2013-12-07 | 2013-12-07 |
 | Odluka o usvajanju Elaborata o postavljanju i izgradnji montažnih objekata privremenog karaktera | [`odluka/2013/304570/`](odluka/2013/304570/) | in force | 1 | 2013-01-30 | 2013-01-30 |
@@ -6215,6 +6227,7 @@
 | Odluka o utvrđivanju javnog interesa za nepotpunu eksproprijaciju nepokretnosti radi izgradnje prve faze priključnih cjevovoda do postrojenja za prečišćavanje otpadnih voda Opštine Berane | [`odluka/2013/304806/`](odluka/2013/304806/) | in force | 1 | 2013-02-05 | 2013-02-05 |
 | Odluka o davanju saglasnosti na Odluku o utvrđivanju cijena usluga - isporučenog komunalnog dobra i izvršene komunalne usluge | [`odluka/2013/304842/`](odluka/2013/304842/) | in force | 1 | 2013-02-05 | 2013-02-05 |
 | Odluka o davanju saglasnosti na kreditno zaduženje JP "Vodovod i kanalizacija" | [`odluka/2013/304844/`](odluka/2013/304844/) | in force | 1 | 2013-01-19 | 2013-01-19 |
+| Odluka, broj: 0101- 934/1 | [`odluka/2013/304847/`](odluka/2013/304847/) | in force | 1 | 2013-01-05 | 2013-01-05 |
 | Odluka o izmjeni Odluke o izradi Lokalne studije lokacije "Blizikuće" | [`odluka/2013/304891/`](odluka/2013/304891/) | in force | 1 | 2013-02-05 | 2013-02-05 |
 | Odluka o izmjenama i dopunama Odluke o naknadi za komunalno opremanje građevinskog zemljišta | [`odluka/2013/304925/`](odluka/2013/304925/) | amending act | 1 | 2013-01-24 | 2013-01-24 |
 | Odluka o potvrđivanju Zaključka predsjednika Opštine Mojkovac o oslobađanju dijela obaveza po osnovu godišnje naknade za korišćenje komercijalnih objekata kojima je omogućen pristup sa puta za 2012. godinu | [`odluka/2013/305240/`](odluka/2013/305240/) | in force | 1 | 2012-12-26 | 2012-12-26 |
@@ -7073,20 +7086,25 @@
 | Odluka o izboru predsjednika i članova Savjeta za rodnu ravnopravnost | [`odluka/2014/302300/`](odluka/2014/302300/) | in force | 1 | 2014-05-16 | 2014-05-16 |
 | Odluka o zaštiti novčanih sredstava korisnika platnih usluga i novčanih sredstava primljenih u zamjenu za izdati elektronski novac | [`odluka/2014/302301/`](odluka/2014/302301/) | in force | 1 | 2014-11-21 | 2014-11-21 |
 | Odluka o davanju saglasnosti na imenovanje potpredsjednika Opštine Bijelo Polje | [`odluka/2014/302305/`](odluka/2014/302305/) | in force | 1 | 2014-12-15 | 2014-12-15 |
+| Odluka o naknadi za rad Etičke komisije za izabrane predstavnike i funkcionere Opštine Kotor | [`odluka/2014/302393/`](odluka/2014/302393/) | in force | 1 | 2014-02-05 | 2014-02-05 |
 | Odluka o davanju saglasnosti na Rješenje predsjednika Opštine Kotor o imenovanju Tvrtka Crepulje za potpredsjednika Opštine Kotor | [`odluka/2014/302412/`](odluka/2014/302412/) | in force | 1 | 2014-12-08 | 2014-12-08 |
 | Odluka o davanju saglasnosti na Odluku o Finansijskom planu Gradske opštine Tuzi za 2014. godinu | [`odluka/2014/302436/`](odluka/2014/302436/) | in force | 1 | 2014-02-15 | 2014-02-15 |
+| Odluka o davanju saglasnosti na Plan rada - pružanja usluga Javnog komunalnog preduzeća "Gradac" Mojkovac za 2014. godinu | [`odluka/2014/302462/`](odluka/2014/302462/) | in force | 1 | 2014-06-25 | 2014-06-25 |
 | Odluka o utvrđivanju Predloga Detaljnog urbanističkog plana "Tmajevci i Meždo" | [`odluka/2014/302463/`](odluka/2014/302463/) | in force | 1 | 2014-12-18 | 2014-12-18 |
 | Odluka o davanju saglasnosti na Program rada Javnog komunalnog preduzeća Cetinje za 2014. godinu | [`odluka/2014/302464/`](odluka/2014/302464/) | in force | 1 | 2014-04-19 | 2014-04-19 |
 | Odluka o dugoročnom kreditnom zaduženju Opštine Pljevlja | [`odluka/2014/302465/`](odluka/2014/302465/) | in force | 1 | 2014-03-20 | 2014-03-20 |
+| Odluka o imenovanju članova Savjeta Javne ustanove ’’Centar za kulturu’’ Rožaje | [`odluka/2014/302469/`](odluka/2014/302469/) | in force | 1 | 2014-12-18 | 2014-12-18 |
 | Odluka o imenovanju člana Savjeta JU ’’Narodna biblioteka Rožaje’’ | [`odluka/2014/302470/`](odluka/2014/302470/) | in force | 1 | 2014-11-11 | 2014-11-11 |
 | Odluka o davanju saglasnosti za razrješenje potpredsjednika Opštine Kolašin | [`odluka/2014/302490/`](odluka/2014/302490/) | in force | 1 | 2014-12-23 | 2014-12-23 |
 | Odluka o davanju na korišćenje nepokretnosti bez naknade | [`odluka/2014/302495/`](odluka/2014/302495/) | in force | 1 | 2014-07-17 | 2014-07-17 |
 | Odluka o dopuni Odluke o organizovanju Javne ustanove Narodni muzej Crne Gore | [`odluka/2014/302509/`](odluka/2014/302509/) | amending act | 1 | 2014-04-19 | 2014-04-19 |
 | Odluka o potvrđivanju Plana postavljanja privremenih objekata za 2014 godinu | [`odluka/2014/302510/`](odluka/2014/302510/) | in force | 1 | 2014-09-02 | 2014-09-02 |
 | Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti radi proširenja seoskog groblja i regulisanja prilaza groblju u selu Kordovina | [`odluka/2014/302588/`](odluka/2014/302588/) | in force | 1 | 2014-03-20 | 2014-03-20 |
+| Odluka o davanju saglasnosti na odluku Odbora direktora DOO ’’Vodovod i kanalizacija’’ Rožaje | [`odluka/2014/302606/`](odluka/2014/302606/) | in force | 1 | 2014-12-18 | 2014-12-18 |
 | Odluka o prodaji radi dokompletiranja urbanističke parcele | [`odluka/2014/302628/`](odluka/2014/302628/) | in force | 1 | 2014-04-01 | 2014-04-01 |
 | Odluka o određivanju luka za međunarodni pomorski saobraćaj | [`odluka/2014/302631/`](odluka/2014/302631/) | in force | 1 | 2014-02-22 | 2014-02-22 |
 | Odluka o donošenju Strateškog plana razvoja Opštine Budva za period 2014 - 2018. Godine | [`odluka/2014/302665/`](odluka/2014/302665/) | in force | 1 | 2014-07-26 | 2014-07-26 |
+| Odluka o davanju saglasnosti na odluku Odbora direktora DOO ’’Komunalno’’ Rožaje | [`odluka/2014/302684/`](odluka/2014/302684/) | in force | 1 | 2014-12-18 | 2014-12-18 |
 | Odluka o zaradama i drugim primanjima lokalnih funkcionera i lica koje imenuje Skupština opštine Šavnik | [`odluka/2014/302689/`](odluka/2014/302689/) | in force | 1 | 2014-11-01 | 2014-11-01 |
 | Odluka o donošenju izmjena i dopuna lokalne studije lokacije "Stari vinogradi" | [`odluka/2014/302693/`](odluka/2014/302693/) | amending act | 1 | 2014-01-28 | 2014-01-28 |
 | Odluka o izmjenama Odluke o mapi regionalnih pomoći | [`odluka/2014/302754/`](odluka/2014/302754/) | in force | 1 | 2014-08-01 | 2014-08-01 |
@@ -7119,6 +7137,7 @@
 | Odluka o davanju saglasnosti na Rješenje predsjednika Opštine Kotor o imenovanju Branka Nedovića za potpredsjednika Opštine Kotor | [`odluka/2014/303148/`](odluka/2014/303148/) | in force | 1 | 2014-12-08 | 2014-12-08 |
 | Odluka o davanju saglasnosti na Statut Agencije za elektronske komunikacije i poštansku djelatnost | [`odluka/2014/303157/`](odluka/2014/303157/) | in force | 1 | 2014-01-22 | 2014-01-22 |
 | Odluka o određivanju naziva ulica u Podgorici | [`odluka/2014/303158/`](odluka/2014/303158/) | in force | 1 | 2014-04-16 | 2014-04-16 |
+| Odluka o donošenju izmjena Programa kreditiranja infrastrukturnih projekata i projekata vodosnabdijevanja | [`odluka/2014/303170/`](odluka/2014/303170/) | in force | 1 | 2014-05-29 | 2014-05-29 |
 | Odluka o razrješenju predsjednika i člana Etičke komisije za lokalne službenike i namještenike | [`odluka/2014/303172/`](odluka/2014/303172/) | in force | 1 | 2014-04-04 | 2014-04-04 |
 | Odluka o izgradnji objekata od opšteg interesa | [`odluka/2014/303176/`](odluka/2014/303176/) | in force | 1 | 2014-04-16 | 2014-04-16 |
 | Odluka o imenovanju Sekretara Skupštine opštine Gusinje | [`odluka/2014/303194/`](odluka/2014/303194/) | in force | 1 | 2014-09-12 | 2014-09-12 |
@@ -7182,6 +7201,7 @@
 | Odluka o imenovanju članova Odbora direktora d.o.o. "Komunalno" Andrijevica | [`odluka/2014/304002/`](odluka/2014/304002/) | in force | 1 | 2014-07-17 | 2014-07-17 |
 | Odluka o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice Ćeklići | [`odluka/2014/304004/`](odluka/2014/304004/) | in force | 1 | 2014-09-02 | 2014-09-02 |
 | Odluka o određivanju lokacije za privremeno skladištenje komunalnog otpada | [`odluka/2014/304005/`](odluka/2014/304005/) | in force | 1 | 2014-04-12 | 2014-04-12 |
+| Odluka o davanju saglasnosti na Program rada i Finansijski plan Turističke organizacije Mojkovac za 2014. godinu | [`odluka/2014/304006/`](odluka/2014/304006/) | in force | 1 | 2014-06-25 | 2014-06-25 |
 | Odluka o donošenju Plana razmještanja privremenih objekata na teritoriji Opštine Pljevlja | [`odluka/2014/304090/`](odluka/2014/304090/) | in force | 1 | 2014-03-20 | 2014-03-20 |
 | Odluka, broj: 194 | [`odluka/2014/304160/`](odluka/2014/304160/) | in force | 1 | 2014-12-13 | 2014-12-13 |
 | Odluka o izmjenama Odluke o porezu na nepokretnosti | [`odluka/2014/304161/`](odluka/2014/304161/) | in force | 1 | 2014-12-16 | 2014-12-16 |
@@ -7216,6 +7236,7 @@
 | Odluka o raspisivanju izbora za odbornike u Skupštini Gradske opštine Golubovci i Skupštini Gradske opštine Tuzi | [`odluka/2014/304525/`](odluka/2014/304525/) | in force | 1 | 2014-03-25 | 2014-03-25 |
 | Odluka o podizanju spomen obilježja davanjem naziva Javnoj ustanovi "Resurni centar za sluh i govor Dr. Peruta Ivanović" | [`odluka/2014/304537/`](odluka/2014/304537/) | in force | 1 | 2014-04-11 | 2014-04-11 |
 | Odluka o potvrđivanju Odluke o davanju saglasnosti na odluku Odbora direktora DOO ’’Sportski centar’’ Rožaje | [`odluka/2014/304540/`](odluka/2014/304540/) | in force | 1 | 2014-12-18 | 2014-12-18 |
+| Odluka o davanju saglasnosti na imenovanje potpredsjednika Opštine Mojkovac | [`odluka/2014/304554/`](odluka/2014/304554/) | in force | 1 | 2014-06-25 | 2014-06-25 |
 | Odluka o imenovanju člana Upravnog odbora Javne ustanove Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju u Prijestonici Cetinje | [`odluka/2014/304555/`](odluka/2014/304555/) | in force | 1 | 2014-11-19 | 2014-11-19 |
 | Odluka o razrješenju, broj:4890 | [`odluka/2014/304562/`](odluka/2014/304562/) | in force | 1 | 2014-12-18 | 2014-12-18 |
 | Odluka o usklađivanju mjesečnih novčanih primanja korisnika prava iz boračke i invalidske zaštite | [`odluka/2014/304563/`](odluka/2014/304563/) | in force | 1 | 2014-02-22 | 2014-02-22 |
@@ -7928,6 +7949,7 @@
 | Odluka o davanju u dugoročni zakup nepokretnosti i prodaji opreme, radi izgradnje Akva parka na brdu Spas | [`odluka/2014/344270/`](odluka/2014/344270/) | in force | 1 | 2014-09-02 | 2014-09-02 |
 | Odluka o prenosu prava na nepokretnosti bez naknade | [`odluka/2014/344271/`](odluka/2014/344271/) | in force | 1 | 2014-09-02 | 2014-09-02 |
 | Odluka o obrazovanju Komisije za teritorijalno razgraničenje opština Berane i Petnjica | [`odluka/2014/344358/`](odluka/2014/344358/) | in force | 1 | 2014-08-15 | 2014-08-15 |
+| Odluka o izmjenama i dopunama Odluke o organizaciji i načinu rada lokalne uprave Opštine Rožaje | [`odluka/2014/344380/`](odluka/2014/344380/) | amending act | 1 | 2014-08-27 | 2014-08-27 |
 | Odluka o izboru članova Savjeta za predstavke i pritužbe | [`odluka/2014/344407/`](odluka/2014/344407/) | in force | 1 | 2014-08-07 | 2014-08-07 |
 | Odluka o izboru članova Savjeta za rodnu ravnopravnost | [`odluka/2014/344408/`](odluka/2014/344408/) | in force | 1 | 2014-08-07 | 2014-08-07 |
 | Odluka o izradi Strateške procjene uticaja na životnu sredinu Izmjena i dopuna DUP-a "Stara Banja - Igalo" za UP122 i UP168 | [`odluka/2014/344447/`](odluka/2014/344447/) | amending act | 1 | 2014-09-12 | 2014-09-12 |
@@ -23516,7 +23538,7 @@
 | Poslovnik o radu Disciplinskog tužioca i Disciplinskog organa Inženjerske komore Crne Gore | [`poslovnik/2026/394183/`](poslovnik/2026/394183/) | in force | 1 | 2026-05-16 | 2026-05-16 |
 | Poslovnik Skupštine opštine Bijelo Polje | [`poslovnik/2026/397882/`](poslovnik/2026/397882/) | in force | 1 | 2026-09-15 | 2026-09-15 |
 
-## pravila (281, of which 53 amending acts)
+## pravila (282, of which 53 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -23599,6 +23621,7 @@
 | Pravila o načinu, postupku, kriterijumima i visini naknade za usklađivanje redova vožnje u međumjesnom prevozu i prevozu u međunarodnom drumskom saobraćaju | [`pravila/2013/337489/`](pravila/2013/337489/) | in force | 1 | 2013-12-28 | 2013-12-28 |
 | Pravila o načinu i uslovima za izdavanje, izmjenu i oduzimanje licenci za obavljanje energetskih djelatnosti | [`pravila/2013/337692/`](pravila/2013/337692/) | in force | 1 | 2014-01-07 | 2014-01-07 |
 | Pravila o bližoj sadržini politika, procedura, mjera postupanja i registra transakcija, društva za upravljanje investicionim fondovima | [`pravila/2014/303542/`](pravila/2014/303542/) | in force | 1 | 2014-12-27 | 2014-12-27 |
+| Pravila o određivanju i uređivanju biračkih mjesta i o mjerama kojima se obezbjeđuje tajnost glasanja | [`pravila/2014/303727/`](pravila/2014/303727/) | in force | 1 | 2014-04-11 | 2014-04-11 |
 | Pravila o bližem sadržaju internih pravila poslovanja Centralnog fonda i Fonda ulagača i načinu dostavljanja obavještenja o nesaglasnosti | [`pravila/2014/325643/`](pravila/2014/325643/) | in force | 1 | 2014-11-08 | 2014-11-08 |
 | Pravila o bližim uslovima, načinu pripajanja i spajanja zajedničkih fondova i o bližem sadržaju i načinu dostavljanja obavještenja o pripajanju i spajanju zajedničkih fondova | [`pravila/2014/326261/`](pravila/2014/326261/) | in force | 1 | 2014-11-08 | 2014-11-08 |
 | Pravila o sadržini, bližim uslovima, načinu objavljivanja prospekta investicionih fondova | [`pravila/2014/327042/`](pravila/2014/327042/) | in force | 1 | 2014-11-08 | 2014-11-08 |
@@ -23802,7 +23825,7 @@
 | Pravila za poravnanje razlike između opravdanih i ostvarenih prihoda i utvrđenih troškova između licenciranih operatora distributivnog sistema | [`pravila/2026/399555/`](pravila/2026/399555/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Pravila za sprovođenje postupka otkrivanja, utvrđivanja i sprečavanja neovlašćenog korišćenja električne energije | [`pravila/2026/399770/`](pravila/2026/399770/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 
-## pravilnik (2875, of which 265 amending acts)
+## pravilnik (2876, of which 265 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -24380,6 +24403,7 @@
 | Pravilnik o sadržaju i načinu vođenja registra samostalnih umjetnika i samostalnih stručnjaka u kulturi | [`pravilnik/2012/337991/`](pravilnik/2012/337991/) | in force | 1 | 2013-01-02 | 2013-01-02 |
 | Pravilnik o bližim uslovima koje treba da ispunjavaju pravna lica koja vrše ispitivanja kvaliteta voda | [`pravilnik/2012/337997/`](pravilnik/2012/337997/) | in force | 1 | 2013-01-08 | 2013-01-08 |
 | Pravilnik o bližim uslovima za ostvarivanje prava na jednokratnu novčanu pomoć i novčanu pomoć | [`pravilnik/2013/302600/`](pravilnik/2013/302600/) | in force | 1 | 2013-02-13 | 2013-02-13 |
+| Pravilnik o sadržini i obrascu službene legitimacije i izgledu policijske značke | [`pravilnik/2013/302625/`](pravilnik/2013/302625/) | in force | 1 | 2013-07-31 | 2013-07-31 |
 | Pravilnik o bližim uslovima u pogledu kadra i opreme koje treba da ispunjava pravno lice i registrovani proizvođač za stručnu kontrolu sadnog i sjemenskog materijala | [`pravilnik/2013/303015/`](pravilnik/2013/303015/) | in force | 1 | 2013-08-15 | 2013-08-15 |
 | Pravilnik o zbirkama kulturnih predmeta koji se mogu smatrati nacionalnim blagom država članica Evropske Unije | [`pravilnik/2013/303713/`](pravilnik/2013/303713/) | in force | 1 | 2013-10-22 | 2013-10-22 |
 | Pravilnik o organizaciji i upotrebi vazdušnog prostora u jedinstvenom evropskom nebu i poboljšanju efikasnosti i održivosti evropskog vazduhoplovnog sistema | [`pravilnik/2013/304428/`](pravilnik/2013/304428/) | in force | 1 | 2013-05-25 | 2013-05-25 |
@@ -27026,7 +27050,7 @@
 | Program podizanja spomen-obilježja | [`program/2026/399528/`](program/2026/399528/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Izmjene i dopune Programa mjera za podsticaj razvoja poljoprivrede za 2026. godinu | [`program/2026/399716/`](program/2026/399716/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## rjesenje (3505, of which 199 amending acts)
+## rjesenje (3545, of which 201 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -27303,13 +27327,22 @@
 | Rjesenje o davanju saglasnosti na rjesenje Predsjednika opstine | [`rjesenje/2010/301967/`](rjesenje/2010/301967/) | in force | 1 | 2010-12-01 | 2010-12-01 |
 | Rjesenje o davanju saglasnosti na imenovanje potpredsjednika Opstine | [`rjesenje/2010/302296/`](rjesenje/2010/302296/) | in force | 1 | 2010-11-16 | 2010-11-16 |
 | Rjesenje o donesenim crnogorskim standardima | [`rjesenje/2010/302297/`](rjesenje/2010/302297/) | in force | 1 | 2010-03-02 | 2010-03-02 |
+| Rjesenje broj: 01 - 2151/1 | [`rjesenje/2010/302402/`](rjesenje/2010/302402/) | in force | 1 | 2010-09-01 | 2010-09-01 |
+| Rjesenje broj: 01/1997/2 | [`rjesenje/2010/302444/`](rjesenje/2010/302444/) | in force | 1 | 2010-10-29 | 2010-10-29 |
+| Rjesenje o licenciranju organizatora obrazovanja odraslih "LONDON BRIDGE" u Niksicu | [`rjesenje/2010/302524/`](rjesenje/2010/302524/) | in force | 1 | 2010-05-14 | 2010-05-14 |
 | Rjesenje o imenovanju Savjeta za davanje predloga naziva, naselja, ulica i trgova i podizanje spomen obiljezja | [`rjesenje/2010/302727/`](rjesenje/2010/302727/) | in force | 1 | 2010-03-22 | 2010-03-22 |
 | Rjesenja o donesenim i povucenim crnogorskim standardima | [`rjesenje/2010/302745/`](rjesenje/2010/302745/) | in force | 1 | 2010-12-10 | 2010-12-10 |
+| Rjesenje broj: 01/1831 | [`rjesenje/2010/302797/`](rjesenje/2010/302797/) | in force | 1 | 2010-10-18 | 2010-10-18 |
 | Rjesenje o donesenim crnogorskim standardima | [`rjesenje/2010/302821/`](rjesenje/2010/302821/) | in force | 1 | 2010-07-16 | 2010-07-16 |
 | Rjesenje o izdavanju licence za rad naucnoistrazivackoj ustanovi Elektrotehnickom fakultetu, organizacionoj jedinici Univerziteta Crne Gore, sa sjedistem u Podgorici | [`rjesenje/2010/303082/`](rjesenje/2010/303082/) | in force | 1 | 2010-12-01 | 2010-12-01 |
+| Rjesenje broj: 01/1837 | [`rjesenje/2010/303104/`](rjesenje/2010/303104/) | in force | 1 | 2010-10-15 | 2010-10-15 |
+| Rjesenje o izdavanju licence broj 01/1567 | [`rjesenje/2010/303366/`](rjesenje/2010/303366/) | in force | 1 | 2010-09-20 | 2010-09-20 |
+| Rjesenje o izdavanju dopune licence za rad Privatnoj ustanovi Fakultet Humanistickih studija u Podgorici | [`rjesenje/2010/303394/`](rjesenje/2010/303394/) | amending act | 1 | 2010-04-28 | 2010-04-28 |
 | Rjesenje UP i br 07-362 19. jul 2010, UP i br 07-372 20. jul 2010, UP i br 07-373 20. jul 2010, UP i br 07-374 21. jul 2010, UP i br 07-277 19. jul 2010, UP i br 07-359 19. jul 2010, UP i br 07-361 19. jul 2010, UP i br 07-360 19. jul 2010 | [`rjesenje/2010/304300/`](rjesenje/2010/304300/) | in force | 1 | 2010-07-30 | 2010-07-30 |
+| Rjesenje o imenovanju clanova Upravnog odbora JP "Vodovod i kanalizacija" | [`rjesenje/2010/304433/`](rjesenje/2010/304433/) | in force | 1 | 2010-12-03 | 2010-12-03 |
 | Rjesenje o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javnog preduzeca ''Cistoca'' Herceg Novi | [`rjesenje/2010/304458/`](rjesenje/2010/304458/) | amending act | 1 | 2010-02-19 | 2010-02-19 |
 | Rjesenje o imenovanju sekretara Skupstine Prijestonice Cetinje | [`rjesenje/2010/304591/`](rjesenje/2010/304591/) | in force | 1 | 2010-03-22 | 2010-03-22 |
+| Rjesenje o licenciranju organizatora obrazovanja odraslih "Centar za obrazovanje odraslih Zebra" u Bijelom Polju | [`rjesenje/2010/304909/`](rjesenje/2010/304909/) | in force | 1 | 2010-07-05 | 2010-07-05 |
 | Rjesenje o licenciranju organizatora obrazovanja odraslih "Raza i Pime" u Podgorici | [`rjesenje/2010/304935/`](rjesenje/2010/304935/) | in force | 1 | 2010-04-26 | 2010-04-26 |
 | Rjesenje broj: 01/1859/2 | [`rjesenje/2010/305032/`](rjesenje/2010/305032/) | in force | 1 | 2010-10-22 | 2010-10-22 |
 | Rjesenje o licenciranju organizatora obrazovanja odraslih Univerzitet "Mediteran" Podgorica | [`rjesenje/2010/305107/`](rjesenje/2010/305107/) | in force | 1 | 2010-10-28 | 2010-10-28 |
@@ -27385,22 +27418,29 @@
 | Rjesenje, Broj: 0101-268/1 | [`rjesenje/2011/302275/`](rjesenje/2011/302275/) | in force | 1 | 2011-06-24 | 2011-06-24 |
 | Rjesenje o donesenim crnogorskim standardima | [`rjesenje/2011/302430/`](rjesenje/2011/302430/) | in force | 1 | 2011-07-12 | 2011-07-12 |
 | Rjesenje o licenciranju organizatora obrazovanja odraslih Javna ustanova os "Vuk Karadzic" | [`rjesenje/2011/302432/`](rjesenje/2011/302432/) | in force | 1 | 2011-11-09 | 2011-11-09 |
+| Rjesenje o izdavanju licence za rad Javnoj ustanovi Srednja ekonomsko-ugostiteljska skola Bar | [`rjesenje/2011/302556/`](rjesenje/2011/302556/) | in force | 1 | 2010-12-28 | 2010-12-28 |
 | Rjesenje o davanju saglasnosti na Odluku o usvajanju zavrsnog racuna "BUDVA HOLDING" D.O.O. BUDVA za 2008. godinu | [`rjesenje/2011/302642/`](rjesenje/2011/302642/) | in force | 1 | 2011-01-20 | 2011-01-20 |
 | Rjesenje o licenciranju PU organizatora obrazovanja odraslih "Info World" | [`rjesenje/2011/302647/`](rjesenje/2011/302647/) | in force | 1 | 2011-06-21 | 2011-06-21 |
+| Rjesenje o izdavanju licence za rad Javnoj ustanovi Srednja elektro-ekonomska skola Bijelo Polje | [`rjesenje/2011/302673/`](rjesenje/2011/302673/) | in force | 1 | 2010-12-28 | 2010-12-28 |
 | Rjesenje o licenciranju privatne ustanove organizatora obrazovanja odraslih "Style - Group" - Podgorica | [`rjesenje/2011/302700/`](rjesenje/2011/302700/) | in force | 1 | 2011-06-21 | 2011-06-21 |
 | Rjesenje o imenovanju jednog clana Odbora za izbor i imenovanja | [`rjesenje/2011/302761/`](rjesenje/2011/302761/) | in force | 1 | 2011-01-20 | 2011-01-20 |
 | Rjesenje o izdavanju licence za rad Muzickoj akademiji, organizacionoj jedinici Univerziteta Crne Gore | [`rjesenje/2011/302798/`](rjesenje/2011/302798/) | in force | 1 | 2011-09-19 | 2011-09-19 |
 | Rjesenje o izdavanju licence za rad privatnoj ustanovi auto-skoli "Tehnomobil" - Podgorica | [`rjesenje/2011/302854/`](rjesenje/2011/302854/) | in force | 1 | 2011-09-12 | 2011-09-12 |
 | Rjesenje o imenovanju Upravnog odbora JP za odrzavanje i zastitu lokalnih puteva Pljevlja | [`rjesenje/2011/302890/`](rjesenje/2011/302890/) | in force | 1 | 2011-02-05 | 2011-02-05 |
 | Rjesenje o licenciranju privatne predskolske ustanove "VINI PU" - Budva | [`rjesenje/2011/302914/`](rjesenje/2011/302914/) | in force | 1 | 2011-07-25 | 2011-07-25 |
+| Rjesenje o izdavanju licence za rad Javnoj ustanovi Srednja strucna skola "Vukadin Vukadinovic" Berane | [`rjesenje/2011/302932/`](rjesenje/2011/302932/) | in force | 1 | 2010-12-28 | 2010-12-28 |
 | Rjesenje o licenciranju organizatora obrazovanja odraslih "Career team" Podgorica | [`rjesenje/2011/302963/`](rjesenje/2011/302963/) | in force | 1 | 2011-03-15 | 2011-03-15 |
 | Rjesenje o davanju saglasnosti na imenovanje direktora JP »Vodovod i kanalizacija« Budva | [`rjesenje/2011/302999/`](rjesenje/2011/302999/) | in force | 1 | 2010-12-29 | 2010-12-29 |
 | Rjesenje, Broj: 0101-244/1 | [`rjesenje/2011/303047/`](rjesenje/2011/303047/) | in force | 1 | 2011-06-24 | 2011-06-24 |
 | Rjesenje o licenciranju Privatne ustanove organizatora obrazovanja odraslih "Hotelsko edukativni centar trening centar gastronom klub Vuka Mitrovica" | [`rjesenje/2011/303243/`](rjesenje/2011/303243/) | in force | 1 | 2011-10-20 | 2011-10-20 |
+| Rjesenje o izdavanju licence za rad Javnoj ustanovi Srednja mjesovita skola "Beco Basic" Plav | [`rjesenje/2011/303245/`](rjesenje/2011/303245/) | in force | 1 | 2010-12-28 | 2010-12-28 |
 | Rjesenje, Broj: 0101-263/1 | [`rjesenje/2011/303250/`](rjesenje/2011/303250/) | in force | 1 | 2011-06-24 | 2011-06-24 |
 | Rjesenje o davanju saglasnosti na Odluku o osnivanju MZ Buljarica | [`rjesenje/2011/303500/`](rjesenje/2011/303500/) | in force | 1 | 2011-12-24 | 2011-12-24 |
 | Rjesenje o izdavanju licence za rad Klinickom centru Crne Gore, sa sjedistem u Podgorici | [`rjesenje/2011/303510/`](rjesenje/2011/303510/) | in force | 1 | 2011-09-19 | 2011-09-19 |
+| Rjesenje o imenovanju savjetnika predsjednika Crne Gore za oblast ustavnog sistema | [`rjesenje/2011/303561/`](rjesenje/2011/303561/) | in force | 1 | 2011-04-29 | 2011-04-29 |
 | Rjesenje o obrazovanju Komisije za izradu Predloga poslovnika Skupstine opstine Berane | [`rjesenje/2011/303590/`](rjesenje/2011/303590/) | in force | 1 | 2011-06-30 | 2011-06-30 |
+| Rjesenje o izdavanju licence za rad naucnoistrazivackoj ustanovi Fakultetu politickih nauka, organizacionoj jedinici Univerziteta Crne Gore | [`rjesenje/2011/303592/`](rjesenje/2011/303592/) | in force | 1 | 2011-03-21 | 2011-03-21 |
+| Rjesenje o izdavanju licence za rad Javnoj ustanovi Srednja strucna skola Bijelo Polje | [`rjesenje/2011/303689/`](rjesenje/2011/303689/) | in force | 1 | 2010-12-28 | 2010-12-28 |
 | Rjesenje o imenovanju Sekretara skupstine Glavnog grada - Podgorice | [`rjesenje/2011/303691/`](rjesenje/2011/303691/) | in force | 1 | 2011-05-24 | 2011-05-24 |
 | Rjesenje, Broj: 0101-251/1 | [`rjesenje/2011/303753/`](rjesenje/2011/303753/) | in force | 1 | 2011-06-24 | 2011-06-24 |
 | Rješenje o licenciranju Privatne ustanove organizatora obrazovanja odraslih "Alfa ton Lekić" | [`rjesenje/2011/303754/`](rjesenje/2011/303754/) | in force | 1 | 2011-12-16 | 2011-12-16 |
@@ -27412,9 +27452,11 @@
 | Rješenje, broj: 01- 1515 | [`rjesenje/2011/304056/`](rjesenje/2011/304056/) | in force | 1 | 2011-12-29 | 2011-12-29 |
 | Rjesenje, Broj: 0101-253/1 | [`rjesenje/2011/304060/`](rjesenje/2011/304060/) | in force | 1 | 2011-06-24 | 2011-06-24 |
 | Rjesenje o licenciranju PU organizatora obrazovanja odraslih "Covjekoljublje" | [`rjesenje/2011/304263/`](rjesenje/2011/304263/) | in force | 1 | 2011-06-21 | 2011-06-21 |
+| Rjesenje o razrjesenju clana odbora direktora "ADRIATIC HOLDING" d.o.o. Budva | [`rjesenje/2011/304267/`](rjesenje/2011/304267/) | in force | 1 | 2010-12-29 | 2010-12-29 |
 | Rjesenje o razrjesenju clana Savjeta Javnog servisa Radio televizije Herceg Novi | [`rjesenje/2011/304320/`](rjesenje/2011/304320/) | in force | 1 | 2011-10-21 | 2011-10-21 |
 | R j e s e nj e o donesenim crnogorskim standardima | [`rjesenje/2011/304364/`](rjesenje/2011/304364/) | in force | 1 | 2011-04-21 | 2011-04-21 |
 | Rjesenje o razrjesenju jednog clana Odbora za planiranje i uredjenje prostora i komunalno stambenu djelatnost | [`rjesenje/2011/304368/`](rjesenje/2011/304368/) | in force | 1 | 2011-06-03 | 2011-06-03 |
+| Rjesenje o izdavanju licence za rad Javnoj ustanovi Srednja medicinska skola "Dr Branko Zogovic" Berane | [`rjesenje/2011/304567/`](rjesenje/2011/304567/) | in force | 1 | 2010-12-28 | 2010-12-28 |
 | Rjesenje o imenovanju Savjeta JU za sport i rekreaciju Pljevlja | [`rjesenje/2011/304624/`](rjesenje/2011/304624/) | in force | 1 | 2011-02-05 | 2011-02-05 |
 | Rjesenje o licenciranju organizatora obrazovanja odraslih skola za strane jezike "Waves" - Budva | [`rjesenje/2011/304626/`](rjesenje/2011/304626/) | in force | 1 | 2011-06-21 | 2011-06-21 |
 | Rjesenje, Broj: 0101-257/1 | [`rjesenje/2011/304627/`](rjesenje/2011/304627/) | in force | 1 | 2011-06-24 | 2011-06-24 |
@@ -27540,9 +27582,17 @@
 | Rješenje o donesenim i povučenim crnogorskim standardima | [`rjesenje/2012/302108/`](rjesenje/2012/302108/) | in force | 1 | 2012-12-07 | 2012-12-07 |
 | Rješenje o imenovanju sekretara Skupštine Opštine Kotor | [`rjesenje/2012/302128/`](rjesenje/2012/302128/) | in force | 1 | 2012-11-26 | 2012-11-26 |
 | Rješenje o davanju saglasnosti na Odluku o izboru strateškog partnera za osnivanje joint venture kompanije sa društvom ,,Budva - Holding,, d.o.o. Budva, za razvoj ekskluzivnog golf terena sa 18 rupa i pratećim sadržajima | [`rjesenje/2012/302331/`](rjesenje/2012/302331/) | in force | 1 | 2012-01-25 | 2012-01-25 |
+| Rješenje o davanju saglasnosti na Program zimskog održavanja ulica i lokalnih puteva za sezonu 2011/2012 | [`rjesenje/2012/302341/`](rjesenje/2012/302341/) | in force | 1 | 2011-12-29 | 2011-12-29 |
+| Rješenje UP I broj 07-339 | [`rjesenje/2012/302425/`](rjesenje/2012/302425/) | in force | 1 | 2012-06-26 | 2012-06-26 |
+| Rješenje o izdavanju licence Fakultetu za biznis i turizam, samostalnoj ustanovi visokog obrazovanja, sa sjedištem u Budvi | [`rjesenje/2012/302542/`](rjesenje/2012/302542/) | in force | 1 | 2012-01-23 | 2012-01-23 |
 | Rješenje o izmjenama i dopunama Rješenja o imenovanju Savjeta JU Narodna biblioteka "Stevan Samardžić" Pljevlja | [`rjesenje/2012/303183/`](rjesenje/2012/303183/) | amending act | 1 | 2012-04-19 | 2012-04-19 |
+| Rješenje o izdavanju Licence za rad JU Resursni centar za djecu i mlade "Podgorica" - Podgorica | [`rjesenje/2012/303628/`](rjesenje/2012/303628/) | in force | 1 | 2012-08-20 | 2012-08-20 |
 | Rješenje o imenovanju predsjednika Upravnog odbora Javnog preduzeća "Vodovod i kanalizacija" | [`rjesenje/2012/303651/`](rjesenje/2012/303651/) | in force | 1 | 2012-11-27 | 2012-11-27 |
+| Rješenje o licenciranju organizatora obrazovanja odraslih JU Policijska akademija | [`rjesenje/2012/303658/`](rjesenje/2012/303658/) | in force | 1 | 2012-06-28 | 2012-06-28 |
 | Rješenje o davanju saglasnosti na Rješenje o imenovanju Glavnog administratora Opštine Herceg Novi broj: 01-1-820/12 | [`rjesenje/2012/304109/`](rjesenje/2012/304109/) | in force | 1 | 2012-10-01 | 2012-10-01 |
+| Rješenje o izdavanju licence za rad Privatnoj naučnoistraživačkoj ustanovi "Institutu savremenih tehnologija Crne Gore" u Podgorici | [`rjesenje/2012/304115/`](rjesenje/2012/304115/) | in force | 1 | 2012-07-31 | 2012-07-31 |
+| Rješenje o izdavanju licence za rad Agenciji za zaštitu životne sredine u Podgorici | [`rjesenje/2012/304358/`](rjesenje/2012/304358/) | in force | 1 | 2012-10-30 | 2012-10-30 |
+| Rješenje o izdavanju licence za rad Privatnoj ustanovi auto-školi "Točak" | [`rjesenje/2012/304575/`](rjesenje/2012/304575/) | in force | 1 | 2012-02-13 | 2012-02-13 |
 | Rješenje o razrješenju člana Odbora za Statut i propise | [`rjesenje/2012/305022/`](rjesenje/2012/305022/) | in force | 1 | 2012-07-11 | 2012-07-11 |
 | Rješenje o izmjeni Rješenja o obrazovanju Odbora za izbor i imenovanje Skupštine opštine Herceg Novi | [`rjesenje/2012/305058/`](rjesenje/2012/305058/) | in force | 1 | 2012-12-07 | 2012-12-07 |
 | Rješenje o izboru predsjednika Skupštine opštine Kotor | [`rjesenje/2012/305066/`](rjesenje/2012/305066/) | in force | 1 | 2012-11-15 | 2012-11-15 |
@@ -27637,10 +27687,15 @@
 | Rješenje o izmjeni Rješenja o obrazovanju Odbora za budžet i finansije Skupštine opštine Herceg Novi | [`rjesenje/2013/302835/`](rjesenje/2013/302835/) | in force | 1 | 2013-07-26 | 2013-07-26 |
 | Rješenje Broj: 0101-468/1 | [`rjesenje/2013/302837/`](rjesenje/2013/302837/) | in force | 1 | 2013-08-08 | 2013-08-08 |
 | Rješenja o donešenim i povučenim crnogorskim standardima | [`rjesenje/2013/302871/`](rjesenje/2013/302871/) | in force | 1 | 2013-08-27 | 2013-08-27 |
+| Rješenje o davanju saglasnosti na Program rada JU Centar za kulturu Žabljak za 2013.godinu | [`rjesenje/2013/303166/`](rjesenje/2013/303166/) | in force | 1 | 2013-03-28 | 2013-03-28 |
+| Rješenje o izdavanju Licence za rad nevladinoj organizaciji "Institut Alternativa", sa sjedištem u Podgorici, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2013/303198/`](rjesenje/2013/303198/) | in force | 1 | 2013-10-17 | 2013-10-17 |
 | Rješenje o razrješenju člana savjeta Javne ustanove Spomen dom "Crvena komuna" | [`rjesenje/2013/303284/`](rjesenje/2013/303284/) | in force | 1 | 2013-03-14 | 2013-03-14 |
 | Rješenje o imenovanju člana Savjeta Javne ustanove "Muzeji, galerija i biblioteka" Budva | [`rjesenje/2013/303319/`](rjesenje/2013/303319/) | in force | 1 | 2013-03-14 | 2013-03-14 |
 | Rješenje Broj: 0101-458/1 | [`rjesenje/2013/303446/`](rjesenje/2013/303446/) | in force | 1 | 2013-08-08 | 2013-08-08 |
+| Rješenje o izdavanju licence za rad Privatnoj ustanovi Auto školi "Mirav" | [`rjesenje/2013/303471/`](rjesenje/2013/303471/) | in force | 1 | 2013-04-22 | 2013-04-22 |
 | Rješenja o donesenim i povučenim crnogorskim standardima | [`rjesenje/2013/303745/`](rjesenje/2013/303745/) | in force | 1 | 2013-02-18 | 2013-02-18 |
+| Rješenje o izdavanju licence za rad Fakultetu za saobraćaj, komunikacije i logistiku u Beranama, za akademski magistarski studijski program "Menadžment u saobraćaju i komunikacijama" | [`rjesenje/2013/303808/`](rjesenje/2013/303808/) | in force | 1 | 2013-06-24 | 2013-06-24 |
+| Rješenje o izdavanju Licence za rad d.o.o. "MSC-CG", sa sjedištem u Baru, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2013/303996/`](rjesenje/2013/303996/) | in force | 1 | 2013-11-26 | 2013-11-26 |
 | Rješenje o imenovanju članova UO JP "Vodovod i kanalizacija" Kotor | [`rjesenje/2013/304388/`](rjesenje/2013/304388/) | in force | 1 | 2012-12-27 | 2012-12-27 |
 | Rješenje o imenovanju Komisije za utvrđivanje predloga naziva trgova i ulica na teritoriji Opštine Kotor | [`rjesenje/2013/304396/`](rjesenje/2013/304396/) | in force | 1 | 2013-11-15 | 2013-11-15 |
 | Rješenje o razrješenju člana Savjeta Javne ustanove "Muzeji, galerija i biblioteka" | [`rjesenje/2013/304432/`](rjesenje/2013/304432/) | in force | 1 | 2013-03-14 | 2013-03-14 |
@@ -27781,6 +27836,7 @@
 | Rješenje o imenovanju Žirija za dodjelu javnih priznanja i nagrada Opštine Kotor | [`rjesenje/2014/302226/`](rjesenje/2014/302226/) | in force | 1 | 2014-10-24 | 2014-10-24 |
 | Rješenje, broj: 0101-26/1 | [`rjesenje/2014/302248/`](rjesenje/2014/302248/) | in force | 1 | 2014-02-10 | 2014-02-10 |
 | Rješenje o imenovanju Odbora za društvene djelatnosti, međuopštinsku i međunarodnu saradnju Skupštine Glavnog grada - Podgorice | [`rjesenje/2014/302249/`](rjesenje/2014/302249/) | in force | 1 | 2014-10-06 | 2014-10-06 |
+| Rješenje o izdavanju licence organizatoru obrazovanja odraslih Javna ustanova gimnazija-Kotor | [`rjesenje/2014/302277/`](rjesenje/2014/302277/) | in force | 1 | 2013-12-30 | 2013-12-30 |
 | Rješenje o imenovanju Odbora za društvene djelatnosti Skupštine Prijestonice Cetinje | [`rjesenje/2014/302397/`](rjesenje/2014/302397/) | in force | 1 | 2013-12-26 | 2013-12-26 |
 | Rješenje o imenovanju predsjednika Odbora za finansije, privredu i razvoj | [`rjesenje/2014/302466/`](rjesenje/2014/302466/) | in force | 1 | 2014-05-20 | 2014-05-20 |
 | Rješenje o imenovanju Odbora za izbor i imenovanja Skupštine Glavnog Grada - Podgorice | [`rjesenje/2014/302552/`](rjesenje/2014/302552/) | in force | 1 | 2014-10-06 | 2014-10-06 |
@@ -27795,7 +27851,9 @@
 | Rješenje o imenovanju predsjednika Odbora za statut i propise | [`rjesenje/2014/302989/`](rjesenje/2014/302989/) | in force | 1 | 2014-09-16 | 2014-09-16 |
 | Rješenje o imenovanju Izvršnog direktora Društva sa ograničenom odgovornošću "Zelenilo"- Podgorica | [`rjesenje/2014/303075/`](rjesenje/2014/303075/) | in force | 1 | 2014-11-07 | 2014-11-07 |
 | Rješenje o izdavanju licence Privatnoj ustanovi organizatoru obrazovanja odraslih "KINA MONTENEGRO" - Podgorica | [`rjesenje/2014/303136/`](rjesenje/2014/303136/) | in force | 1 | 2014-01-16 | 2014-01-16 |
+| Rješenje o dopuni licence za rad Univerzitetu Crne Gore za postdiplomski akademski specijalistički studijski program "Geotehnika", na Građevinskom fakultetu u Podgorici | [`rjesenje/2014/303138/`](rjesenje/2014/303138/) | amending act | 1 | 2014-03-24 | 2014-03-24 |
 | Rješenje o imenovanju izvršnog direktora Društva sa ograničenom odgovornošću - Agencija za izgradnju i razvoj Podgorice | [`rjesenje/2014/303139/`](rjesenje/2014/303139/) | in force | 1 | 2014-12-09 | 2014-12-09 |
+| Rješenje o priznavanju Licence Javnoj predškolskoj ustanovi "Vukosava Ivanović Mašanović" - Bar | [`rjesenje/2014/303169/`](rjesenje/2014/303169/) | in force | 1 | 2013-12-11 | 2013-12-11 |
 | Rješenje o imenovanju člana Savjeta za prevenciju bolesti zavisnosti | [`rjesenje/2014/303230/`](rjesenje/2014/303230/) | in force | 1 | 2014-12-18 | 2014-12-18 |
 | Rješenje, broj: 0101-427/1 | [`rjesenje/2014/303253/`](rjesenje/2014/303253/) | in force | 1 | 2014-08-13 | 2014-08-13 |
 | Rješenje o imenovanju Žirija za dodjelu Novembarske nagrade | [`rjesenje/2014/303323/`](rjesenje/2014/303323/) | in force | 1 | 2014-10-30 | 2014-10-30 |
@@ -27807,6 +27865,7 @@
 | Rješenje o davanju saglasnosti na Odluku o osnivanju MZ Podostrog | [`rjesenje/2014/303613/`](rjesenje/2014/303613/) | in force | 1 | 2014-05-24 | 2014-05-24 |
 | Rješenje o imenovanju člana Odbora za statut i propise | [`rjesenje/2014/303632/`](rjesenje/2014/303632/) | in force | 1 | 2014-01-23 | 2014-01-23 |
 | Rješenje o imenovanju Savjeta za prevenciju narkomanije Skupštine Glavnog grada-Podgorice | [`rjesenje/2014/303683/`](rjesenje/2014/303683/) | in force | 1 | 2014-11-07 | 2014-11-07 |
+| Rješenje o davanju saglasnosti na izbor Izvršnog direktora Društva sa ograničenom odgovornošću "Komunalno i vodovod" Žabljak | [`rjesenje/2014/303816/`](rjesenje/2014/303816/) | in force | 1 | 2013-12-25 | 2013-12-25 |
 | Rješenje o razrješenju UO JP "Centar za kulturu " Ulcinj | [`rjesenje/2014/303860/`](rjesenje/2014/303860/) | in force | 1 | 2014-12-17 | 2014-12-17 |
 | Rješenje o izboru predsjednika i članova Komisije o rješavanju stambenih potreba lica koja bira ili imenuje Skupština opštine, predsjednik opštine i drugih lica čiji je rad od posebnog interesa | [`rjesenje/2014/303908/`](rjesenje/2014/303908/) | in force | 1 | 2014-10-02 | 2014-10-02 |
 | Rješenje o imenovanju Odbora za međuopštinsku i međunarodnu saradnju Skupštine Prijestonice Cetinje | [`rjesenje/2014/303913/`](rjesenje/2014/303913/) | in force | 1 | 2013-12-26 | 2013-12-26 |
@@ -27815,13 +27874,18 @@
 | Rješenje o davanju saglasnosti na Statut JU Narodna biblioteka Budve | [`rjesenje/2014/304195/`](rjesenje/2014/304195/) | in force | 1 | 2014-08-13 | 2014-08-13 |
 | Rješenje, broj: 0101-323/1 | [`rjesenje/2014/304230/`](rjesenje/2014/304230/) | in force | 1 | 2014-07-07 | 2014-07-07 |
 | Rješenje o imenovanju Odbora za finansije privredu i razvoj Skupštine Glavnog grada - Podgorice | [`rjesenje/2014/304243/`](rjesenje/2014/304243/) | in force | 1 | 2014-10-06 | 2014-10-06 |
+| Rješenje o izdavanju licence organizatoru obrazovanja odraslih Javnoj ustanovi Stručna medicinska škola u Podgorici | [`rjesenje/2014/304250/`](rjesenje/2014/304250/) | in force | 1 | 2014-11-27 | 2014-11-27 |
 | Rješenje o povjeravanju poslova Potpredsjedniku opštine Vlatku Vukoviću | [`rjesenje/2014/304273/`](rjesenje/2014/304273/) | in force | 1 | 2014-08-05 | 2014-08-05 |
+| Rješenje o davanju saglasnosti na Program za održavanje čistoće na javnim površinama za 2014 | [`rjesenje/2014/304305/`](rjesenje/2014/304305/) | in force | 1 | 2013-12-25 | 2013-12-25 |
 | Rješenje o povjeravanju poslova potpredsjednici Opštine Danijeli Marković | [`rjesenje/2014/304312/`](rjesenje/2014/304312/) | in force | 1 | 2014-05-29 | 2014-05-29 |
 | Rješenje o davanju saglasnosti na Statut JU Muzeji i galerije Budve | [`rjesenje/2014/304408/`](rjesenje/2014/304408/) | in force | 1 | 2014-08-13 | 2014-08-13 |
+| Rješenje o izdavanju licence Privatnoj ustanovi organizatoru obrazovanja odraslih "VEDUCO" iz Rožaja | [`rjesenje/2014/304442/`](rjesenje/2014/304442/) | in force | 1 | 2013-11-21 | 2013-11-21 |
 | Rješenje o imenovanju člana Odbora za finansije, privredu i razvoj | [`rjesenje/2014/304499/`](rjesenje/2014/304499/) | in force | 1 | 2014-05-20 | 2014-05-20 |
+| Rješenje o izdavanju licence Organizatoru obrazovanja odraslih Javnoj ustanovi Gimnazija Kotor | [`rjesenje/2014/304503/`](rjesenje/2014/304503/) | in force | 1 | 2014-04-24 | 2014-04-24 |
 | Rješenje o imenovanju Odbora za planiranje i uređenje prostora, komunalno-stambenu djelatnost, saobraćaj i zaštitu životne sredine Skupštine Glavnog grada - Podgorice | [`rjesenje/2014/304505/`](rjesenje/2014/304505/) | in force | 1 | 2014-10-06 | 2014-10-06 |
 | Rješenje o imenovanju Upravnog Odbora JP "Komunalne djelatnosti" Ulcinj | [`rjesenje/2014/304533/`](rjesenje/2014/304533/) | in force | 1 | 2014-04-28 | 2014-04-28 |
 | Rješenje o imenovanju Upravnog odbora JP "Komunalne djelatnosti" Ulcinj | [`rjesenje/2014/304534/`](rjesenje/2014/304534/) | in force | 1 | 2014-04-28 | 2014-04-28 |
+| Rješenje o davanju saglasnosti na Program održavanja objekata javne rasvjete za 2014 | [`rjesenje/2014/304561/`](rjesenje/2014/304561/) | in force | 1 | 2013-12-25 | 2013-12-25 |
 | Rješenje o imenovanju Odbora direktora DOO "Komunalne usluge" Pljevlja | [`rjesenje/2014/304636/`](rjesenje/2014/304636/) | in force | 1 | 2014-12-23 | 2014-12-23 |
 | Rješenje o imenovanju člana Odbora za izbor i imenovanje | [`rjesenje/2014/304694/`](rjesenje/2014/304694/) | in force | 1 | 2014-05-16 | 2014-05-16 |
 | Rješenje o imenovanju Savjeta za prevenciju bolesti zavisnosti | [`rjesenje/2014/304914/`](rjesenje/2014/304914/) | in force | 1 | 2013-12-26 | 2013-12-26 |
