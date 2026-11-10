@@ -1,10 +1,10 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 pravilnik-2023-291383,unverified,,,register-page,,,,https://www.sluzbenilist.me/propisi/291383
 pravilnik-2023-293683,unverified,,,register-page,,,,https://www.sluzbenilist.me/propisi/293683
-pravilnik-2023-310936,unverified,,,register-page,,,,https://www.sluzbenilist.me/propisi/310936
-pravilnik-2023-313191,unverified,,,register-page,,,,https://www.sluzbenilist.me/propisi/313191
-pravilnik-2023-314402,unverified,,,register-page,,,,https://www.sluzbenilist.me/propisi/314402
-pravilnik-2023-314635,unverified,,,register-page,,,,https://www.sluzbenilist.me/propisi/314635
+pravilnik-2023-310936,current,2026-11-10,2026-12-10,register-page,,,,https://www.sluzbenilist.me/propisi/310936
+pravilnik-2023-313191,current,2026-11-10,2026-12-10,register-page,,,,https://www.sluzbenilist.me/propisi/313191
+pravilnik-2023-314402,current,2026-11-10,2026-12-10,register-page,,,,https://www.sluzbenilist.me/propisi/314402
+pravilnik-2023-314635,current,2026-11-10,2026-12-10,register-page,,,,https://www.sluzbenilist.me/propisi/314635
 pravilnik-2023-316175,current,2026-11-10,2026-12-10,register-page,,,,https://www.sluzbenilist.me/propisi/316175
 pravilnik-2023-324049,current,2026-11-10,2026-12-10,register-page,,,,https://www.sluzbenilist.me/propisi/324049
 pravilnik-2023-324106,current,2026-11-10,2026-12-10,register-page,,,,https://www.sluzbenilist.me/propisi/324106

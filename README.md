@@ -43,7 +43,7 @@ Read dates with the tools, not `git rev-list --before`: they pick each version b
 Every version names the official page it was read from, so every act can be checked against its source.
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-10; 78% of acts verified in the last 7 days, 78% in the last 30 ([data/freshness.json](data/freshness.json)).
+Checked against the official sources: 2026-11-10; 87% of acts verified in the last 7 days, 87% in the last 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
 `python tools/freshness.py <act>` gives an act's status, its last check and the official link. A refresh runner re-reads each act's PIS page within its threshold (7 days for the Constitution, laws and Government decrees, 30 for the rest) and adds new acts as the Gazette publishes them; [data/status.json](data/status.json), rewritten by every run, says whether updates are running and which official sources answered. Statuses and fields are explained in [data/freshness.json](data/freshness.json). Acts in force but not held are in [data/held.json](data/held.json), with the reason; acts published but not yet in force are in [data/pending.json](data/pending.json), and are added on their day.
