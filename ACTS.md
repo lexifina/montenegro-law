@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32498 acts, 32,500 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32499 acts, 32,501 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (881, of which 86 amending acts)
 
@@ -1150,7 +1150,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22316, of which 3140 amending acts)
+## odluka (22317, of which 3140 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -18946,6 +18946,7 @@
 | Odluka o obezbjeđivanju alternativnog smještaja vlasniku bespravnog objekta osnovnog stanovanja u Opštini Ulcinj | [`odluka/2023/359791/`](odluka/2023/359791/) | in force | 1 | 2023-04-29 | 2023-04-29 |
 | Odluka o određivanju rukovodioca izrade Detaljnog urbanističkog plana "Plavsko jezero", Opština Plav i visini naknade za rukovodioca i stručni tim za izradu detaljnog urbanističkog plana | [`odluka/2023/359835/`](odluka/2023/359835/) | in force | 1 | 2023-05-04 | 2023-05-04 |
 | Odluka o izradi Detaljnog urbanističkog plana "Plavsko jezero", Opština Plav | [`odluka/2023/359840/`](odluka/2023/359840/) | in force | 1 | 2023-05-04 | 2023-05-04 |
+| Odluka o privremenom oslobađanju od pribavljanja vize za državljane Kraljevine Saudijske Arabije | [`odluka/2023/359851/`](odluka/2023/359851/) | in force | 1 | 2023-04-28 | 2023-04-28 |
 | Odluka o razrješenju člana Odbora direktora DOO "Sportski centar" Rožaje | [`odluka/2023/359876/`](odluka/2023/359876/) | in force | 1 | 2023-03-10 | 2023-03-10 |
 | Odluka o razrješenju člana Odbora direktora DOO "Ski centar Hajla" Rožaje | [`odluka/2023/359877/`](odluka/2023/359877/) | in force | 1 | 2023-03-10 | 2023-03-10 |
 | Odluka o razrješenju člana Odbora direktora DOO "Ski centar Hajla" Rožaje | [`odluka/2023/359878/`](odluka/2023/359878/) | in force | 1 | 2023-03-10 | 2023-03-10 |
