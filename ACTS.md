@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32506 acts, 32,508 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32507 acts, 32,509 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (881, of which 86 amending acts)
 
@@ -1150,7 +1150,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22321, of which 3140 amending acts)
+## odluka (22322, of which 3140 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -18560,6 +18560,7 @@
 | Odluka o davanju na privremeno upravljanje i korišćenje poslovnog prostora Upravi za sport i mlade | [`odluka/2022/346766/`](odluka/2022/346766/) | in force | 1 | 2022-02-23 | 2022-02-23 |
 | Odluka o formiranju Opštinske izborne komisije Petnjica | [`odluka/2022/346767/`](odluka/2022/346767/) | in force | 1 | 2022-02-02 | 2022-02-02 |
 | Odluka o izboru predsjednika Opštine Petnjica | [`odluka/2022/346768/`](odluka/2022/346768/) | in force | 1 | 2022-02-02 | 2022-02-02 |
+| Odluka o prodaji zemljišta - katastarskih parcela broj: 946/13, 946/14 i 946/15 KO Kolašin, radi dokompletiranja urbanističke parcele broj 54, u zahvatu Detaljnog urbanističkog plana "Centar’’ | [`odluka/2022/346795/`](odluka/2022/346795/) | in force | 1 | 2022-10-15 | 2022-10-15 |
 | Odluka o davanju saglasnosti na Program rada za 2022. godinu sa planom aktivnosti za period 1.9. - 31.12.2022. godine JU Narodna biblioteka i čitaonica "Njegoš" Cetinje | [`odluka/2022/346796/`](odluka/2022/346796/) | in force | 1 | 2022-10-15 | 2022-10-15 |
 | Odluka o dopuni Odluke o regulisanju saobraćaja na teritoriji Opštine Kotor ("Službeni list Crne Gore - Opštinski propisi" br. 051/19, 011/21) | [`odluka/2022/346805/`](odluka/2022/346805/) | amending act | 1 | 2022-12-24 | 2022-12-24 |
 | Odluka o formiranju Odbora za finansije, privredu i razvoj | [`odluka/2022/346811/`](odluka/2022/346811/) | in force | 1 | 2022-01-24 | 2022-01-24 |
