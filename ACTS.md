@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32491 acts, 32,493 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32496 acts, 32,498 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (881, of which 86 amending acts)
 
@@ -1150,7 +1150,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22309, of which 3140 amending acts)
+## odluka (22314, of which 3140 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3924,6 +3924,7 @@
 | Odluka o izboru članova Savjeta za razvoj i zaštitu lokalne samouprave | [`odluka/2009/344035/`](odluka/2009/344035/) | in force | 1 | 2009-08-11 | 2009-08-11 |
 | Odluka o usvajanju Akcionog plana za borbu protiv korupcije u lokalnoj samoupravi - Prijestonica Cetinje | [`odluka/2009/344036/`](odluka/2009/344036/) | in force | 1 | 2009-08-11 | 2009-08-11 |
 | Odluka o davanju u dugoročni zakup dijela kat.parc.15/1 K.O. Prčanj II | [`odluka/2009/344081/`](odluka/2009/344081/) | in force | 1 | 2009-07-08 | 2009-07-08 |
+| Odluka o Službi zaštite | [`odluka/2009/344084/`](odluka/2009/344084/) | in force | 1 | 2009-05-11 | 2009-05-11 |
 | Odluka o Izmjeni i dopuni odluke o zaduženju Opštine Bijelo Polje | [`odluka/2009/344100/`](odluka/2009/344100/) | amending act | 1 | 2009-08-11 | 2009-08-11 |
 | Odluka o promjeni Odluke o izboru odbornika koji će učestvovati u postupku zaključenja braka | [`odluka/2009/344101/`](odluka/2009/344101/) | in force | 1 | 2009-07-17 | 2009-07-17 |
 | Odluka o donošenju Izmjena i dopuna Generalnog urbanističkog plana Opštine Herceg Novi u zoni "IGALO -iznad petlje" | [`odluka/2009/344129/`](odluka/2009/344129/) | amending act | 1 | 2009-05-11 | 2009-05-11 |
@@ -5995,6 +5996,7 @@
 | Odluka o naknadi troškova utvrđivanja smrti lica van zdravstvenih ustanova | [`odluka/2012/342389/`](odluka/2012/342389/) | in force | 1 | 2012-08-28 | 2012-08-28 |
 | Odluka o nepostojanju potrebe izrade Strateške procjene uticaja na životnu sredinu za izmjene i dopune Detaljnog urbanističkog plana "Ulcinjsko polje" u okviru urbanističkih parcela br. 47, 48, 49 i planirane saobraćajnice (bulevara) u Ulcinju | [`odluka/2012/342402/`](odluka/2012/342402/) | amending act | 1 | 2012-10-03 | 2012-10-03 |
 | Odluka o izradi izmjena i dopuna detaljnog urbanističkog plana "Maljevik" | [`odluka/2012/342436/`](odluka/2012/342436/) | amending act | 1 | 2012-08-28 | 2012-08-28 |
+| Odluka o izdavanju u dugoročni zakup poslovnih prostorija Opštine Kotor | [`odluka/2012/342437/`](odluka/2012/342437/) | in force | 1 | 2012-12-26 | 2012-12-26 |
 | Odluka o davanju saglasnosti na Rješenje Predsjednice Opštine Kotor o imenovanju Branka Nedovića, ekonomiste iz Kotora za potpredsjednika Opštine Kotor | [`odluka/2012/342438/`](odluka/2012/342438/) | in force | 1 | 2012-12-18 | 2012-12-18 |
 | Odluka o davanju ovlašćenja predsjedniku opštine za rješavanje stambenog pitanja | [`odluka/2012/342478/`](odluka/2012/342478/) | in force | 1 | 2012-12-26 | 2012-12-26 |
 | Odluka o prenosu prava na nepokretnosti radi formiranja urbanističke parcele broj 9-18 u okviru bloka 9 u zahvatu DUP-a Babin do | [`odluka/2012/342479/`](odluka/2012/342479/) | in force | 1 | 2012-12-26 | 2012-12-26 |
@@ -9094,6 +9096,7 @@
 | Odluka o davanju saglasnosti na Program rada JU Centar za kulturu "Nenad Rakočević" Mojkovac za 2015. godinu | [`odluka/2015/344382/`](odluka/2015/344382/) | in force | 1 | 2015-07-01 | 2015-07-01 |
 | Odluka o izradi Urbanističkog projekta "Solila-kat. parcela 6422 K.O. Sutorina" | [`odluka/2015/344398/`](odluka/2015/344398/) | in force | 1 | 2015-08-18 | 2015-08-18 |
 | Odluka o izmjeni Odluke o radnom vremenu | [`odluka/2015/344433/`](odluka/2015/344433/) | in force | 1 | 2015-07-25 | 2015-07-25 |
+| Odluka o pokretanju postupka prodaje nepokretnosti | [`odluka/2015/344434/`](odluka/2015/344434/) | in force | 1 | 2015-07-25 | 2015-07-25 |
 | Odluka o usvajanju Izvještaja o radu sa finansijskim izvještajem JU "Sportska dvorana" Tivat | [`odluka/2015/344436/`](odluka/2015/344436/) | in force | 1 | 2015-07-25 | 2015-07-25 |
 | Odluka o izmjeni Odluke o kreditnom zaduženju Prijestonice | [`odluka/2015/344451/`](odluka/2015/344451/) | in force | 1 | 2015-08-10 | 2015-08-10 |
 | Odluka o izmjenama i dopunama Odluke o visini,načinu obračunavanja i plaćanja članskog doprinosa Turističkoj organizaciji Glavnog grada Podgorice | [`odluka/2015/344491/`](odluka/2015/344491/) | amending act | 1 | 2015-08-13 | 2015-08-13 |
@@ -12383,6 +12386,7 @@
 | Odluka o podizanju spomen-obilježja davanjem naziva Ulica dinastije Vojislavljevića u opštini Nikšić | [`odluka/2018/345162/`](odluka/2018/345162/) | in force | 1 | 2018-03-10 | 2018-03-10 |
 | Odluka o podizanju spomen-obilježja davanjem naziva Ulica dinastije Balšića u opštini Nikšić | [`odluka/2018/345213/`](odluka/2018/345213/) | in force | 1 | 2018-03-10 | 2018-03-10 |
 | Odluka o podizanju spomen-obilježja davanjem naziva Ulica dinastije Crnojevića u opštini Nikšić | [`odluka/2018/345214/`](odluka/2018/345214/) | in force | 1 | 2018-03-10 | 2018-03-10 |
+| Odluka o proglašenju Biznis zone | [`odluka/2018/345215/`](odluka/2018/345215/) | in force | 1 | 2018-03-10 | 2018-03-10 |
 | Odluka o dopuni Odluke o opštinskim i nekategorisanim putevima | [`odluka/2018/345259/`](odluka/2018/345259/) | amending act | 1 | 2018-03-02 | 2018-03-02 |
 | Odluka o prestanku prava upravljanja i korišćenja na nepokretnosti | [`odluka/2018/345261/`](odluka/2018/345261/) | in force | 1 | 2018-02-15 | 2018-02-15 |
 | Odluka o raspisivanju javnog poziva za davanje u zakup nepokretnosti | [`odluka/2018/345315/`](odluka/2018/345315/) | in force | 1 | 2018-02-15 | 2018-02-15 |
@@ -15396,6 +15400,7 @@
 | Odluku o potvrđivanju Odluke Predsjednika Opštine br. 01-680/20-2 od 05.05.2020. godine o donošenju Programa mjera ekonomske podrške za građane i privrednike Ulcinja za vrijeme trajanja pandemijke izazvane korona virusom | [`odluka/2020/324322/`](odluka/2020/324322/) | in force | 1 | 2020-06-29 | 2020-06-29 |
 | Odluka o određivanju rukovodioca izrade Detaljnog urbanističkog plana"Sadine" u Glavnom gradu Podgorica i visini naknade za rukovodioca i stručni tim za izradu detaljnog urbanističkog plana | [`odluka/2020/324354/`](odluka/2020/324354/) | in force | 1 | 2020-02-08 | 2020-02-08 |
 | Odluka o raspodjeli ostvarene dobiti DOO "Autobuska stanica" Tivat za 2019. godinu | [`odluka/2020/324358/`](odluka/2020/324358/) | in force | 1 | 2020-07-23 | 2020-07-23 |
+| Odluka o lokalnim administrativnim taksama | [`odluka/2020/324450/`](odluka/2020/324450/) | in force | 1 | 2020-12-26 | 2020-12-26 |
 | Odluka o davanju saglasnosti na Statut "Parking servisa Herceg Novi" DOO Herceg Novi broj 03-1- 1082/2020 od 28.08.2020. godine | [`odluka/2020/324452/`](odluka/2020/324452/) | in force | 1 | 2020-10-22 | 2020-10-22 |
 | Odluka o privremenom davanju naziva ulica na teritoriji opštine Tivat | [`odluka/2020/324453/`](odluka/2020/324453/) | in force | 1 | 2020-02-18 | 2020-02-18 |
 | Odluka o utvrđivanju lokacije za postavljanje odnosno izgradnju lokalnog objekta od opšteg interesa - objekta kanalizacione infrastrukture (bioseptičkog tanka) na lokaciji koja se sastoji od dijela kat. parcele br. 5905 KO Sutorina u Njivicama, Opština Herceg Novi | [`odluka/2020/324480/`](odluka/2020/324480/) | in force | 1 | 2020-02-28 | 2020-02-28 |
