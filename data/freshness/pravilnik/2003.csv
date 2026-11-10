@@ -1,7 +1,7 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-pravilnik-2003-303303,unverified,,,register-page,,,,https://www.sluzbenilist.me/propisi/303303
-pravilnik-2003-304355,unverified,,,register-page,,,,https://www.sluzbenilist.me/propisi/304355
-pravilnik-2003-305355,unverified,,,register-page,,,,https://www.sluzbenilist.me/propisi/305355
+pravilnik-2003-303303,current,2026-11-10,2026-12-10,register-page,,,,https://www.sluzbenilist.me/propisi/303303
+pravilnik-2003-304355,current,2026-11-10,2026-12-10,register-page,,,,https://www.sluzbenilist.me/propisi/304355
+pravilnik-2003-305355,current,2026-11-10,2026-12-10,register-page,,,,https://www.sluzbenilist.me/propisi/305355
 pravilnik-2003-348222,current,2026-11-10,2026-12-10,register-page,,,,https://www.sluzbenilist.me/propisi/348222
 pravilnik-2003-348300,current,2026-11-10,2026-12-10,register-page,,,,https://www.sluzbenilist.me/propisi/348300
 pravilnik-2003-348354,current,2026-11-10,2026-12-10,register-page,,,,https://www.sluzbenilist.me/propisi/348354
