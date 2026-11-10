@@ -227,6 +227,21 @@
    ]
   },
   {
+   "slug": "odluka-1994-296588",
+   "path": "odluka/1994/296588",
+   "short": "Odluka o visini posebne naknade za drumska motorna vozila i njihova priključna vozila",
+   "title": "Odluka o visini posebne naknade za drumska motorna vozila i njihova priključna vozila",
+   "url": "https://www.sluzbenilist.me/propisi/296588",
+   "versions": [
+    {
+     "from": "1994-01-24",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/296588/download",
+     "sha256": "ab80dbf016866c5c360c2ca70f779e4e2c8a14124babf9f0a9b9c711d4998706"
+    }
+   ]
+  },
+  {
    "slug": "odluka-1994-349384",
    "path": "odluka/1994/349384",
    "short": "Odluka o utvrđivanju grba (izvornika) grba Republike Crne Gore",
@@ -328,6 +343,21 @@
      "units": 8,
      "source_url": "https://www.sluzbenilist.me/propisi/349173/download",
      "sha256": "bb9fc8c20dfd3509ef389f4b77292dd5fba756cdf35c1a41cb952bb18e040c19"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-1998-294528",
+   "path": "odluka/1998/294528",
+   "short": "ODLUKA O VISINI POSEBNE NAKNADE ZA DRUMSKA MOTORNA VOZILA I NJIHOVA PRIKLJUČNA VOZILA",
+   "title": "ODLUKA O VISINI POSEBNE NAKNADE ZA DRUMSKA MOTORNA VOZILA I NJIHOVA PRIKLJUČNA VOZILA",
+   "url": "https://www.sluzbenilist.me/propisi/294528",
+   "versions": [
+    {
+     "from": "1998-09-05",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/294528/download",
+     "sha256": "e7cc160cefd106c157fa8596cbadd917011e84bf8da423a2dcaa691ce4f02138"
     }
    ]
   },
@@ -2878,6 +2908,21 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.me/propisi/388407/download",
      "sha256": "b988a22feff337e97caf6ad1bc738fe0ddb5836cb0c7287253fc7bb7850e6e30"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-294266",
+   "path": "odluka/2020/294266",
+   "short": "Odluka o davanju na korišćenje nepokretnosti NVO KUD-u \"Njegoš\" Cetinje bez naknade",
+   "title": "Odluka o davanju na korišćenje nepokretnosti NVO KUD-u \"Njegoš\" Cetinje bez naknade",
+   "url": "https://www.sluzbenilist.me/propisi/294266",
+   "versions": [
+    {
+     "from": "2020-06-20",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/294266/download",
+     "sha256": "620cba7036b1a66b0b3adb68f5a487e8a51095394e8e4ca6a97216712ef90440"
     }
    ]
   },
@@ -6152,6 +6197,36 @@
    ]
   },
   {
+   "slug": "pravilnik-1992-294884",
+   "path": "pravilnik/1992/294884",
+   "short": "Pravilnik o sadržini i načinu sastavljanja poreskog bilansa za obveznike prihoda od samostalne djelatnosti.",
+   "title": "Pravilnik o sadržini i načinu sastavljanja poreskog bilansa za obveznike prihoda od samostalne djelatnosti.",
+   "url": "https://www.sluzbenilist.me/propisi/294884",
+   "versions": [
+    {
+     "from": "1992-05-12",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.me/propisi/294884/download",
+     "sha256": "7ba90b341ab509b81b28f9cc84752e062f5e47bff0d0eca49e45668969a89090"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1992-295621",
+   "path": "pravilnik/1992/295621",
+   "short": "Pravilnik o polaganju popravnih ,dopunskih,diferencijalnih i razrednih ispita u srednjoj školi.",
+   "title": "Pravilnik o polaganju popravnih ,dopunskih,diferencijalnih i razrednih ispita u srednjoj školi.",
+   "url": "https://www.sluzbenilist.me/propisi/295621",
+   "versions": [
+    {
+     "from": "1992-02-28",
+     "units": 38,
+     "source_url": "https://www.sluzbenilist.me/propisi/295621/download",
+     "sha256": "14b5484053ec8f33518bedbb63a4935e4d5c623b1eca2fc3d7509fd60abacb2f"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1992-324979",
    "path": "pravilnik/1992/324979",
    "short": "Pravilnik o obrascu i sadržaju poreske prijave za utvrđivanje akontacionih poreza ne prihode građana.",
@@ -6317,6 +6392,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1995-296908",
+   "path": "pravilnik/1995/296908",
+   "short": "Pravilnik o sadržini zapisnika o izvršenom inspekcijskom pregledu poljoprivrednih, šumarskih, vodoprivrednih i veterinarskih inspektora",
+   "title": "Pravilnik o sadržini zapisnika o izvršenom inspekcijskom pregledu poljoprivrednih, šumarskih, vodoprivrednih i veterinarskih inspektora",
+   "url": "https://www.sluzbenilist.me/propisi/296908",
+   "versions": [
+    {
+     "from": "1995-09-29",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/296908/download",
+     "sha256": "fd6a7b1e46c06f30e74de4bda4505e65beae2050fc11d63bd74f0e7a3cd00dfc"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1995-300812",
    "path": "pravilnik/1995/300812",
    "short": "Pravilnik o obrascu službene legitimacije",
@@ -6418,6 +6508,21 @@
      "units": 36,
      "source_url": "https://www.sluzbenilist.me/propisi/349484/download",
      "sha256": "22b93a1b5401d70895f25336d469415b9f08fc438cc19b830c0fbf3b89bcce7d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1996-295044",
+   "path": "pravilnik/1996/295044",
+   "short": "Pravilnik o sadržini i obliku pismene pohvale",
+   "title": "Pravilnik o sadržini i obliku pismene pohvale",
+   "url": "https://www.sluzbenilist.me/propisi/295044",
+   "versions": [
+    {
+     "from": "1996-08-04",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/295044/download",
+     "sha256": "34d956291eacaa38fbe272fd817222c2109e54c20b4382e9ac649333f875c52d"
     }
    ]
   },
@@ -8207,6 +8312,21 @@
    ]
   },
   {
+   "slug": "uputstvo-1992-295629",
+   "path": "uputstvo/1992/295629",
+   "short": "Uputstvo o obrascima za sprovođenje referenduma .",
+   "title": "Uputstvo o obrascima za sprovođenje referenduma .",
+   "url": "https://www.sluzbenilist.me/propisi/295629",
+   "versions": [
+    {
+     "from": "1992-02-21",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/295629/download",
+     "sha256": "cc21708ff2c0131bf214f24aab3074d71af30c3f62c2fae6213e15a5997b2523"
+    }
+   ]
+  },
+  {
    "slug": "uputstvo-1994-345534",
    "path": "uputstvo/1994/345534",
    "short": "Uputstvo o načinu obračuna poreza i doprinosa na lična primanja",
@@ -8233,6 +8353,51 @@
      "units": 9,
      "source_url": "https://www.sluzbenilist.me/propisi/349027/download",
      "sha256": "023b1a13b20c712461dde98d9099fdb85dd98277eb7dca93f91a18f52d7bc27e"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-1995-295140",
+   "path": "uputstvo/1995/295140",
+   "short": "Uputstvo o načinu vođenja evidencije o izvršenim inspekcijskim pregledima upravnih inspektora",
+   "title": "Uputstvo o načinu vođenja evidencije o izvršenim inspekcijskim pregledima upravnih inspektora",
+   "url": "https://www.sluzbenilist.me/propisi/295140",
+   "versions": [
+    {
+     "from": "1995-09-02",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/295140/download",
+     "sha256": "d95034077f0522e10d0e8bd0d8c8a8275044910510982f43d17669bf505ebeca"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-1995-295212",
+   "path": "uputstvo/1995/295212",
+   "short": "Uputstvo o načinu vođenja evidencije o inspekcijskim pregledima inspektora za urbanizam",
+   "title": "Uputstvo o načinu vođenja evidencije o inspekcijskim pregledima inspektora za urbanizam",
+   "url": "https://www.sluzbenilist.me/propisi/295212",
+   "versions": [
+    {
+     "from": "1995-04-22",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/295212/download",
+     "sha256": "191dad2f18ec47cb0a910175f94936e03cb83685b86e9a837331a875782c84c5"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-1995-296871",
+   "path": "uputstvo/1995/296871",
+   "short": "Uputstvo o načinu isplate zarada, penzija i novčanih naknada po osnovu prava iz penzijsko-invalidskog osiguranja u RCG za decembar 1994. godine i januar-mart 1995. godine",
+   "title": "Uputstvo o načinu isplate zarada, penzija i novčanih naknada po osnovu prava iz penzijsko-invalidskog osiguranja u RCG za decembar 1994. godine i januar-mart 1995. godine",
+   "url": "https://www.sluzbenilist.me/propisi/296871",
+   "versions": [
+    {
+     "from": "1995-02-14",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.me/propisi/296871/download",
+     "sha256": "f2d12fa9c34473f40615f5fc0cabbac1619cc00045a1f56411ee644305714308"
     }
    ]
   },
@@ -8308,6 +8473,36 @@
      "units": 12,
      "source_url": "https://www.sluzbenilist.me/propisi/349179/download",
      "sha256": "2c608d28fa6104cee08cabf2f29bf1056cbe65edeccb28fd1532e28c106969b7"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-1996-296067",
+   "path": "uputstvo/1996/296067",
+   "short": "Uputstvo o načinu vođenja evidencije o inspekcijskim pregledima ekoloških inspektora",
+   "title": "Uputstvo o načinu vođenja evidencije o inspekcijskim pregledima ekoloških inspektora",
+   "url": "https://www.sluzbenilist.me/propisi/296067",
+   "versions": [
+    {
+     "from": "1996-06-28",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/296067/download",
+     "sha256": "0d27ddcba146f14a82ce48c61866c7b516ea57d42f3834612a46e57c7a218231"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-1996-296905",
+   "path": "uputstvo/1996/296905",
+   "short": "Uputstvo o načinu vođenja evidencije o izvršenim inspekcijskim nadzorima prosvjetnih inspektora",
+   "title": "Uputstvo o načinu vođenja evidencije o izvršenim inspekcijskim nadzorima prosvjetnih inspektora",
+   "url": "https://www.sluzbenilist.me/propisi/296905",
+   "versions": [
+    {
+     "from": "1996-01-27",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/296905/download",
+     "sha256": "c7294100c9373f91c5fd61d406875ea89ee4cee594626849526b188cbbf0aded"
     }
    ]
   },
@@ -10453,6 +10648,21 @@
      "units": 5,
      "source_url": "https://www.sluzbenilist.me/propisi/347844/download",
      "sha256": "536f3ba40b014effc3f3afbbdb387166d4f9c4a056a2547613d97acc004ba2ff"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-294242",
+   "path": "odluka/2016/294242",
+   "short": "Odluka o raspodjeli ostvarene dobiti \"Deponija\" d.o.o. Podgorica u 2015. godini",
+   "title": "Odluka o raspodjeli ostvarene dobiti \"Deponija\" d.o.o. Podgorica u 2015. godini",
+   "url": "https://www.sluzbenilist.me/propisi/294242",
+   "versions": [
+    {
+     "from": "2016-05-17",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/294242/download",
+     "sha256": "a45254ae2d0dd5826d3c13d6eaa1cc7b1e397298e1ddfb61c494b5233e173b57"
     }
    ]
   },
@@ -17012,6 +17222,21 @@
    ]
   },
   {
+   "slug": "pravilnik-1992-295628",
+   "path": "pravilnik/1992/295628",
+   "short": "Pravilnik o visini i načinu plaćanja naknade za preglede i baždarenje čamaca,plovećih naprava ,skela i plutajućih objekata.",
+   "title": "Pravilnik o visini i načinu plaćanja naknade za preglede i baždarenje čamaca,plovećih naprava ,skela i plutajućih objekata.",
+   "url": "https://www.sluzbenilist.me/propisi/295628",
+   "versions": [
+    {
+     "from": "1992-05-02",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.me/propisi/295628/download",
+     "sha256": "dc71e770ef45d6d37eddf181d0cf5c20b3f961996628ee538e9cd877390d8a42"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-1992-349171",
    "path": "pravilnik/1992/349171",
    "short": "Pravilnik o sadržini i načinu sastavljanja poreskog i konxsolidovanog bilansa, obliku i sadržaju poreske prijave i obrascu izjave o izbjegavanju dvostrukog oporezivanja dividendi.",
@@ -17053,6 +17278,21 @@
      "units": 9,
      "source_url": "https://www.sluzbenilist.me/propisi/364640/download",
      "sha256": "672013ca3eec69314ec94e4b3ef2e092aa65c8328a9a8f46479294b600d411e6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-1994-294709",
+   "path": "pravilnik/1994/294709",
+   "short": "Pravilnik o kriterijumima za utvrđivanje naknade za pravo na eksploataciju i istraživanje mineralnih sirovina",
+   "title": "Pravilnik o kriterijumima za utvrđivanje naknade za pravo na eksploataciju i istraživanje mineralnih sirovina",
+   "url": "https://www.sluzbenilist.me/propisi/294709",
+   "versions": [
+    {
+     "from": "1994-06-03",
+     "units": 45,
+     "source_url": "https://www.sluzbenilist.me/propisi/294709/download",
+     "sha256": "2daaf030f2f4dec054080741d1cb74eb74fabb8d8b1dab7ab68076563256c417"
     }
    ]
   },
@@ -18617,6 +18857,21 @@
    ]
   },
   {
+   "slug": "uredba-1996-295798",
+   "path": "uredba/1996/295798",
+   "short": "Uredba o visini takse za brodove, jahte i vazduhoplove",
+   "title": "Uredba o visini takse za brodove, jahte i vazduhoplove",
+   "url": "https://www.sluzbenilist.me/propisi/295798",
+   "versions": [
+    {
+     "from": "1996-10-17",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.me/propisi/295798/download",
+     "sha256": "b67ee725edd8620d8cc6db15950f95a4e754bf67d64f7cf8653c369ccb41605b"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1997-344966",
    "path": "uredba/1997/344966",
    "short": "Uredba o procjeni uticaja zahvata na životnu sredinu",
@@ -18658,6 +18913,21 @@
      "units": 13,
      "source_url": "https://www.sluzbenilist.me/propisi/338087/download",
      "sha256": "fa5f7f63315126928540aa27f1c6b4c3d3e5b80bf8c184bc127dfbcf4453bd5e"
+    }
+   ]
+  },
+  {
+   "slug": "akt-1994-294771",
+   "path": "akt/1994/294771",
+   "short": "Predračun sredstava za podsticanje razvoja poljoprivrede u 1994. godini odobrenih Budžetom RCG",
+   "title": "Predračun sredstava za podsticanje razvoja poljoprivrede u 1994. godini odobrenih Budžetom RCG",
+   "url": "https://www.sluzbenilist.me/propisi/294771",
+   "versions": [
+    {
+     "from": "1994-05-06",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/294771/download",
+     "sha256": "e5923ec25589e4b61f8f7f12984bb8e584c2dc702553496b28f635fac8e66f51"
     }
    ]
   },
@@ -18767,6 +19037,21 @@
    ]
   },
   {
+   "slug": "odluka-1992-294885",
+   "path": "odluka/1992/294885",
+   "short": "Odluka o utvrđivanju osnovice i stope za obrčun članskog doprinosa Zadružnom savezu za 1992.godinu.",
+   "title": "Odluka o utvrđivanju osnovice i stope za obrčun članskog doprinosa Zadružnom savezu za 1992.godinu.",
+   "url": "https://www.sluzbenilist.me/propisi/294885",
+   "versions": [
+    {
+     "from": "1992-02-01",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/294885/download",
+     "sha256": "4c4d15cf95556c28e162c45d78aaa4782a8472571262af1acdabfea634274349"
+    }
+   ]
+  },
+  {
    "slug": "odluka-1993-349825",
    "path": "odluka/1993/349825",
    "short": "Odluka o utvrđivanju najniže plate za isplatu plata u periodu od1. do 10.decembra 1993.godine.",
@@ -18778,6 +19063,66 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.me/propisi/349825/download",
      "sha256": "0b28735a6b21a9582379497207e44e5d3c81fcea4d94128e7309bb83701c9156"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-1994-295438",
+   "path": "odluka/1994/295438",
+   "short": "Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec april 1994. godine",
+   "title": "Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec april 1994. godine",
+   "url": "https://www.sluzbenilist.me/propisi/295438",
+   "versions": [
+    {
+     "from": "1994-06-30",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/295438/download",
+     "sha256": "d6a73766703b76f0bf84b1c929e7328c63d80d075f99e3be41bfaafc4d715db7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-1995-294511",
+   "path": "odluka/1995/294511",
+   "short": "Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec novembar 1994. godine",
+   "title": "Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec novembar 1994. godine",
+   "url": "https://www.sluzbenilist.me/propisi/294511",
+   "versions": [
+    {
+     "from": "1995-01-10",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/294511/download",
+     "sha256": "7e2d4bcc2d2d00954f6b5e9ffe1ea2eb8ffa4a7e7fa7507a455620d19553fbf6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-1995-295514",
+   "path": "odluka/1995/295514",
+   "short": "Odluka o utvrđivanju najnižeg iznosa penzije za mjesec januar 1995. godine",
+   "title": "Odluka o utvrđivanju najnižeg iznosa penzije za mjesec januar 1995. godine",
+   "url": "https://www.sluzbenilist.me/propisi/295514",
+   "versions": [
+    {
+     "from": "1995-07-15",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/295514/download",
+     "sha256": "9156846460e616576e705dee14bd0e42c7f72a098a76c77ed8fa3f7de0da3be4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-1995-295517",
+   "path": "odluka/1995/295517",
+   "short": "Odluka o prestanku važenja Odluke o držanju depozita Republike kod ovlašćenih banaka",
+   "title": "Odluka o prestanku važenja Odluke o držanju depozita Republike kod ovlašćenih banaka",
+   "url": "https://www.sluzbenilist.me/propisi/295517",
+   "versions": [
+    {
+     "from": "1995-12-27",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/295517/download",
+     "sha256": "cbb6ee44b8a8aaa1d2255b22d514c01d3e03c0d838bd318e4dde52163052e9d5"
     }
    ]
   },
@@ -20488,6 +20833,21 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.me/propisi/347652/download",
      "sha256": "7bacc087236aef88ebbfa1734d6965a43aebafa3612df180ab4d23251ac39d6c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-294132",
+   "path": "odluka/2017/294132",
+   "short": "Odluka o izmjenama i dopunama odluke o komunalnom redu na teritoriji Opštine Budva",
+   "title": "Odluka o izmjenama i dopunama odluke o komunalnom redu na teritoriji Opštine Budva",
+   "url": "https://www.sluzbenilist.me/propisi/294132",
+   "versions": [
+    {
+     "from": "2017-06-15",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.me/propisi/294132/download",
+     "sha256": "7bbb99314dc5f3fa1921c69199226f638c1f1ae0fcf1303a114925f8ce486f6b"
     }
    ]
   },
@@ -23042,6 +23402,21 @@
    ]
   },
   {
+   "slug": "uredba-1996-294891",
+   "path": "uredba/1996/294891",
+   "short": "Uredba o dopuni Uredbe o zaradama, naknadama i drugim primanjima zaposlenih u Republici Crnoj Gori",
+   "title": "Uredba o dopuni Uredbe o zaradama, naknadama i drugim primanjima zaposlenih u Republici Crnoj Gori",
+   "url": "https://www.sluzbenilist.me/propisi/294891",
+   "versions": [
+    {
+     "from": "1996-05-01",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.me/propisi/294891/download",
+     "sha256": "128b0601a26a390c7964d017eac34b64d9e18396e1a43e682a76f5f5423a9062"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1996-350084",
    "path": "uredba/1996/350084",
    "short": "Uredba o izmjeni Uredbe o određivanju cijena mlijeka",
@@ -23953,6 +24328,21 @@
      "units": 1,
      "source_url": "https://www.sluzbenilist.me/propisi/331700/download",
      "sha256": "87c3b9d2dd795ec73f8c5efa4c7afa20ef777388a1e5acc015255c3ca44e2a40"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-294184",
+   "path": "odluka/2016/294184",
+   "short": "Odluka o izboru dva potpredsjednika Skupštine Crne Gore 26. saziva",
+   "title": "Odluka o izboru dva potpredsjednika Skupštine Crne Gore 26. saziva",
+   "url": "https://www.sluzbenilist.me/propisi/294184",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.me/propisi/294184/download",
+     "sha256": "25be947a0aa3305faa67ef8f316207cdb85ad5c6a45921ea1f92e6a9751803bd"
     }
    ]
   },
@@ -32597,6 +32987,21 @@
    ]
   },
   {
+   "slug": "rjesenje-2017-294401",
+   "path": "rjesenje/2017/294401",
+   "short": "Rješenje, broj: 01 - 249/5",
+   "title": "Rješenje, broj: 01 - 249/5",
+   "url": "https://www.sluzbenilist.me/propisi/294401",
+   "versions": [
+    {
+     "from": "2017-03-24",
+     "units": 1,
+     "source_url": "https://www.sluzbenilist.me/propisi/294401/download",
+     "sha256": "344ae48ad5d17914af5dd05c70cd50862aa8eca4e4736a78242603d9c05c764f"
+    }
+   ]
+  },
+  {
    "slug": "rjesenje-2017-311812",
    "path": "rjesenje/2017/311812",
    "short": "Rješenje, UP I broj 060-27/2017",
@@ -32743,6 +33148,21 @@
      "units": 1,
      "source_url": "https://www.sluzbenilist.me/propisi/320338/download",
      "sha256": "2e990a0fc9a54663c4d4a31d074eba048687c5df28097fa1da9400977241ddee"
+    }
+   ]
+  },
+  {
+   "slug": "rjesenje-2019-294387",
+   "path": "rjesenje/2019/294387",
+   "short": "Rješenje o standardu zanimanja veterinarski tehničar/veterinarska tehničarka životinja za uzgoj i proizvodnju hrane",
+   "title": "Rješenje o standardu zanimanja veterinarski tehničar/veterinarska tehničarka životinja za uzgoj i proizvodnju hrane",
+   "url": "https://www.sluzbenilist.me/propisi/294387",
+   "versions": [
+    {
+     "from": "2019-06-17",
+     "units": 2,
+     "source_url": "https://www.sluzbenilist.me/propisi/294387/download",
+     "sha256": "1edecf9e4e135be5121e5e99a0c791e4308022051dbebbb8b2831b5de6210880"
     }
    ]
   },

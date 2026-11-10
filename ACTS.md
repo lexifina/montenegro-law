@@ -1,8 +1,8 @@
 # Every act in this repository
 
-32356 acts, 32,358 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32384 acts, 32,386 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
-## akt (879, of which 86 amending acts)
+## akt (880, of which 86 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -10,6 +10,7 @@
 | Opšti uslovi za isporuku električne energije. | [`akt/1992/295034/`](akt/1992/295034/) | in force | 1 | 1992-01-23 | 1992-01-23 |
 | Odluka o pristupanju izradi DUP Podgošljun. | [`akt/1992/344933/`](akt/1992/344933/) | in force | 1 | 1992-04-30 | 1992-04-30 |
 | Tarifni sistem za prodaju električne energije | [`akt/1992/348542/`](akt/1992/348542/) | in force | 1 | 1992-01-23 | 1992-01-23 |
+| Predračun sredstava za podsticanje razvoja poljoprivrede u 1994. godini odobrenih Budžetom RCG | [`akt/1994/294771/`](akt/1994/294771/) | in force | 1 | 1994-05-06 | 1994-05-06 |
 | Podaci o kretanju cijena na malo za jul i avgust 1994. godine | [`akt/1994/295688/`](akt/1994/295688/) | in force | 1 | 1994-09-20 | 1994-09-20 |
 | Program imunizacije stanovništva protiv određenih zaraznih bolesti u 1994. godini | [`akt/1994/296592/`](akt/1994/296592/) | in force | 1 | 1994-03-25 | 1994-03-25 |
 | Naredba o uilatnim računima javnih prihoda | [`akt/1994/297021/`](akt/1994/297021/) | in force | 1 | 1994-03-11 | 1994-03-11 |
@@ -1139,7 +1140,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22233, of which 3136 amending acts)
+## odluka (22244, of which 3137 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1157,6 +1158,7 @@
 | Odluka o izmjeni Odluke o visini posebne takse koja se plaća pri izdavanju odobrenja za organizovanje prigodne lutrije , tombole ili klađenja na sportskim takmičenjima i robnonovčane lutrije. | [`odluka/1992/294782/`](odluka/1992/294782/) | in force | 1 | 1992-06-09 | 1992-06-09 |
 | Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec mart 1992. godine. | [`odluka/1992/294848/`](odluka/1992/294848/) | in force | 1 | 1992-06-17 | 1992-06-17 |
 | Odluka o izmjeni Odluke o visini posebne takse koja se plaća pri izdavanju odobrenja za stvaranje igračnice( CASINO),odnosno preregistraciju igračnice (CASINO) zatvorenog tipa. | [`odluka/1992/294880/`](odluka/1992/294880/) | in force | 1 | 1992-06-09 | 1992-06-09 |
+| Odluka o utvrđivanju osnovice i stope za obrčun članskog doprinosa Zadružnom savezu za 1992.godinu. | [`odluka/1992/294885/`](odluka/1992/294885/) | in force | 1 | 1992-02-01 | 1992-02-01 |
 | Odluka o izmjeni Odluke o određivanju nadležnog organa za otkup stanova Republike Crne Gore. | [`odluka/1992/294892/`](odluka/1992/294892/) | in force | 1 | 1992-04-22 | 1992-04-22 |
 | Odluka o kriterijumima i uslovima za razgraničenje troškova između Republike i opština po osnovu korišćenja poslovnog prostora od strane republičkih organa. | [`odluka/1992/294957/`](odluka/1992/294957/) | in force | 1 | 1992-01-16 | 1992-01-16 |
 | Odluka o jednokratnom davanju na imae naknade za godišnji odmor korisnicima penzija i invalidima rada za 1992.godinu. | [`odluka/1992/295118/`](odluka/1992/295118/) | in force | 1 | 1992-06-24 | 1992-06-24 |
@@ -1263,6 +1265,7 @@
 | Odluka o utvrđivanju visine procenta za usklađivanje novačnih naknada za mjesec mart 1994. godine | [`odluka/1994/294863/`](odluka/1994/294863/) | in force | 1 | 1994-06-30 | 1994-06-30 |
 | Odluka o rasporedu sredstava za finansiranje društvenih organizacija | [`odluka/1994/294943/`](odluka/1994/294943/) | in force | 1 | 1994-06-29 | 1994-06-29 |
 | Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec mart 1994. godine | [`odluka/1994/294979/`](odluka/1994/294979/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec april 1994. godine | [`odluka/1994/295438/`](odluka/1994/295438/) | in force | 1 | 1994-06-30 | 1994-06-30 |
 | Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne, invalidske i porodične penzije za mjesec decembar 1993. godine | [`odluka/1994/295881/`](odluka/1994/295881/) | in force | 1 | 1994-03-11 | 1994-03-11 |
 | Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec maj 1994. godine | [`odluka/1994/295918/`](odluka/1994/295918/) | in force | 1 | 1994-06-30 | 1994-06-30 |
 | Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec maj 1994. godine | [`odluka/1994/296085/`](odluka/1994/296085/) | in force | 1 | 1994-06-30 | 1994-06-30 |
@@ -1273,6 +1276,7 @@
 | Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec februar 1994. godine | [`odluka/1994/296556/`](odluka/1994/296556/) | in force | 1 | 1994-04-03 | 1994-04-03 |
 | Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec januar 1994. godine | [`odluka/1994/296585/`](odluka/1994/296585/) | in force | 1 | 1994-04-03 | 1994-04-03 |
 | Odluka o visini minimalne zarade i načinu obračuna zarada za korisnike javnih prihoda za avgust 1994. godine | [`odluka/1994/296586/`](odluka/1994/296586/) | in force | 1 | 1994-08-27 | 1994-08-27 |
+| Odluka o visini posebne naknade za drumska motorna vozila i njihova priključna vozila | [`odluka/1994/296588/`](odluka/1994/296588/) | in force | 1 | 1994-01-24 | 1994-01-24 |
 | Odluka o utvrđivanju visine procenta za usklađivanje dodatka za pomoć i njegu za mjesec mart 1994. godine | [`odluka/1994/296621/`](odluka/1994/296621/) | in force | 1 | 1994-06-30 | 1994-06-30 |
 | Odluka o utvrđivanju energetskog bilansa Crne Gore za II kvartal 1994. godine | [`odluka/1994/296787/`](odluka/1994/296787/) | in force | 1 | 1994-04-14 | 1994-04-14 |
 | Odluka o utvrđivanju visine procenta za usklađivanje najnižeg iznosa starosne, invalidske i porodične penzije za mjesec januar 1994. godine | [`odluka/1994/296793/`](odluka/1994/296793/) | in force | 1 | 1994-04-03 | 1994-04-03 |
@@ -1335,6 +1339,7 @@
 | Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec novembar 1994 | [`odluka/1995/294439/`](odluka/1995/294439/) | in force | 1 | 1995-01-10 | 1995-01-10 |
 | Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u oktobru 1995. godine u odnosu na avgust 1995. godine | [`odluka/1995/294472/`](odluka/1995/294472/) | in force | 1 | 1996-01-04 | 1996-01-04 |
 | Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec januar 1995. godine | [`odluka/1995/294484/`](odluka/1995/294484/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o utvrđivanju visine procenta za usklađivanje novčanih naknada za mjesec novembar 1994. godine | [`odluka/1995/294511/`](odluka/1995/294511/) | in force | 1 | 1995-01-10 | 1995-01-10 |
 | Odluka o tarifnim stavovima za prodaju električne energije na prenosnoj i distributivnoj mreži | [`odluka/1995/294524/`](odluka/1995/294524/) | in force | 1 | 1995-04-17 | 1995-04-17 |
 | Odluka o usklađivacu najvišeg iznosa penzije prema kretanju zarada (plata) u junu i julu 1995. godine | [`odluka/1995/294609/`](odluka/1995/294609/) | in force | 1 | 1995-10-30 | 1995-10-30 |
 | Odluka o utvrđivanju visine procenta za usklađivanje najvišeg iznosa penzije za mjesec maj 1995. godine | [`odluka/1995/294811/`](odluka/1995/294811/) | in force | 1 | 1995-07-15 | 1995-07-15 |
@@ -1351,6 +1356,8 @@
 | Odluka o izmjenama Odluke o ograničenju prometa naftnih derivata | [`odluka/1995/295403/`](odluka/1995/295403/) | in force | 1 | 1995-11-07 | 1995-11-07 |
 | Odluka o usklađivanju najnižeg iznosa penzije prema kretanju zarada (plata) u avgustu 1995. godine u odnosu na jul 1995. godine | [`odluka/1995/295435/`](odluka/1995/295435/) | in force | 1 | 1995-10-30 | 1995-10-30 |
 | Odluka o kriterijumima za uvođenje dežurstva i pripravnosti u zdravstvenim ustanovama Republike | [`odluka/1995/295512/`](odluka/1995/295512/) | in force | 1 | 1995-02-20 | 1995-02-20 |
+| Odluka o utvrđivanju najnižeg iznosa penzije za mjesec januar 1995. godine | [`odluka/1995/295514/`](odluka/1995/295514/) | in force | 1 | 1995-07-15 | 1995-07-15 |
+| Odluka o prestanku važenja Odluke o držanju depozita Republike kod ovlašćenih banaka | [`odluka/1995/295517/`](odluka/1995/295517/) | in force | 1 | 1995-12-27 | 1995-12-27 |
 | Odluka o usklađivanju najvišeg iznosa penzije prema kretanju zarada (plata) u avgustu 1995. godine u odnosu na jul 1995. godine | [`odluka/1995/295518/`](odluka/1995/295518/) | in force | 1 | 1995-10-30 | 1995-10-30 |
 | Odluka o utvrđivanju visine procenta za usklađivanje penzija za mjesec februar 1995. godine | [`odluka/1995/295552/`](odluka/1995/295552/) | in force | 1 | 1995-07-15 | 1995-07-15 |
 | Odluka o preuzimanju upravljanja građevinskim preduzećem "Primorje" Ulcinj | [`odluka/1995/295588/`](odluka/1995/295588/) | in force | 1 | 1995-01-10 | 1995-01-10 |
@@ -1627,6 +1634,7 @@
 | ODLUKA O USKLAĐIVANJU PENZIJA PREMA KRETANJU ZARADA (PLATA) U JULU 1998. GODINE U ODNOSU NA JUN 1998. GODINE | [`odluka/1998/294442/`](odluka/1998/294442/) | in force | 1 | 1998-10-27 | 1998-10-27 |
 | ODLUKA O USKLAĐIVANJU NAJVIŠEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U AVGUSTU 1998. GODINE U ODNOSU NA JUL 1998. GODINE | [`odluka/1998/294453/`](odluka/1998/294453/) | in force | 1 | 1998-10-27 | 1998-10-27 |
 | ODLUKA O USKLAĐIVANJU NAJVIŠEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U SEPTEMBRU 1998. GODINE U ODNOSU NA AVGUST 1998. GODINE | [`odluka/1998/294493/`](odluka/1998/294493/) | in force | 1 | 1999-01-08 | 1999-01-08 |
+| ODLUKA O VISINI POSEBNE NAKNADE ZA DRUMSKA MOTORNA VOZILA I NJIHOVA PRIKLJUČNA VOZILA | [`odluka/1998/294528/`](odluka/1998/294528/) | in force | 1 | 1998-09-05 | 1998-09-05 |
 | ODLUKA O DONOŠENJU PROSTORNOG PLANA PODRUČJA POSEBNE NAMJENE ZA NACIONALNI PARK "BIOGRADSKA GORA" | [`odluka/1998/294529/`](odluka/1998/294529/) | in force | 1 | 1998-12-31 | 1998-12-31 |
 | ODLUKA O USKLAĐIVANJU NAJVIŠEG IZNOSA PENZIJE PREMA KRETANJU ZARADA (PLATA) U NOVEMBRU 1998. GODINE U ODNOSU NA SEPTEMBAR 1998. GODINE | [`odluka/1998/294546/`](odluka/1998/294546/) | in force | 1 | 1999-01-08 | 1999-01-08 |
 | ODLUKA O USKLAĐIVANJU PENZIJA PREMA KRETANJU ZARADA (PLATA) U MARTU 1998. GODINE U ODNOSU NA JANUAR 1998. GODINE | [`odluka/1998/294600/`](odluka/1998/294600/) | in force | 1 | 1998-05-06 | 1998-05-06 |
@@ -9398,7 +9406,9 @@
 | Odluka o razrješenju jednog člana odbora direktora DOO " Vodovod i kanalizacija" Tivat | [`odluka/2016/294126/`](odluka/2016/294126/) | in force | 1 | 2016-06-07 | 2016-06-07 |
 | Odluka o donošenju Detaljnog urbanističkog plana za lokalitet "Kodre 1" u Ulcinju | [`odluka/2016/294151/`](odluka/2016/294151/) | in force | 1 | 2016-05-26 | 2016-05-26 |
 | Odluka o razrješenju članova Savjeta JU Sportska dvorana | [`odluka/2016/294153/`](odluka/2016/294153/) | in force | 1 | 2016-07-19 | 2016-07-19 |
+| Odluka o izboru dva potpredsjednika Skupštine Crne Gore 26. saziva | [`odluka/2016/294184/`](odluka/2016/294184/) | in force | 1 | 2016-11-24 | 2016-11-24 |
 | Odluka o raspisivanju izbora za odbornike u Skupštinu opštine Andrijevica | [`odluka/2016/294214/`](odluka/2016/294214/) | in force | 1 | 2016-07-27 | 2016-07-27 |
+| Odluka o raspodjeli ostvarene dobiti "Deponija" d.o.o. Podgorica u 2015. godini | [`odluka/2016/294242/`](odluka/2016/294242/) | in force | 1 | 2016-05-17 | 2016-05-17 |
 | Odluka o pristupanju postupku pribavljanja nepokretnosti za potrebe izgradnje javnih garaža | [`odluka/2016/294243/`](odluka/2016/294243/) | in force | 1 | 2017-01-05 | 2017-01-05 |
 | Odluka o izmjeni Odluke o imenovanju Etičke Komisije za službenike i namještenike | [`odluka/2016/294246/`](odluka/2016/294246/) | in force | 1 | 2016-11-25 | 2016-11-25 |
 | Odluka o davanju saglasnosti za sporazumno rješavanje imovinsko-pravnih odnosa između Glavnog grada - Podgorica i Lazović Aleksandra iz Podgorice | [`odluka/2016/294253/`](odluka/2016/294253/) | in force | 1 | 2017-01-05 | 2017-01-05 |
@@ -10632,6 +10642,7 @@
 | Odluka o izmjenama Odluke o zaradama lokalnih funkcionera u Opštini Bijelo Polje | [`odluka/2017/294089/`](odluka/2017/294089/) | in force | 1 | 2017-04-04 | 2017-04-04 |
 | Odluka o utvrđivanju javnog interesa za eksproprijaciju nepokretnosti za rekonstrukciju magistralnog puta M-21, obilaznica Bijelo Polje - Ribarevine | [`odluka/2017/294112/`](odluka/2017/294112/) | in force | 1 | 2017-11-30 | 2017-11-30 |
 | Odluka o imenovanju izvršnog direktora Društva sa ograničenom odgovornošću "Parking servis" Tivat | [`odluka/2017/294114/`](odluka/2017/294114/) | in force | 1 | 2017-07-07 | 2017-07-07 |
+| Odluka o izmjenama i dopunama odluke o komunalnom redu na teritoriji Opštine Budva | [`odluka/2017/294132/`](odluka/2017/294132/) | amending act | 1 | 2017-06-15 | 2017-06-15 |
 | Odluka o vraćanju na raspolaganje Crnoj Gori zemljišta za potrebe izgradnje autoputa BAR - BOLJARE | [`odluka/2017/294140/`](odluka/2017/294140/) | in force | 1 | 2017-04-21 | 2017-04-21 |
 | Odluka o davanju saglasnosti na Odluku o imenovanju potpredsjednika Opštine | [`odluka/2017/294141/`](odluka/2017/294141/) | in force | 1 | 2017-03-31 | 2017-03-31 |
 | Odluka o davanju saglasnosti na Rješenje predsjednika Opštine o razrješenju glavnog administratora Opštine Pljevlja | [`odluka/2017/294145/`](odluka/2017/294145/) | in force | 1 | 2017-03-23 | 2017-03-23 |
@@ -14638,6 +14649,7 @@
 | Odluka o usvajanju lokalnog akcionog plana za mlade 2020-2021 | [`odluka/2020/294255/`](odluka/2020/294255/) | in force | 1 | 2020-10-09 | 2020-10-09 |
 | Odluka o davanju saglasnosti na Ugovor o povjeravanju obavljanja komunalnih djelatnosti i korišćenju komunalne infrastrukture i drugih sredstava u svojini Glavnog grada Podgorica sa "Deponija" d.o.o. Podgorica | [`odluka/2020/294260/`](odluka/2020/294260/) | in force | 1 | 2020-05-28 | 2020-05-28 |
 | Odluka o privremenom davanju naziva ulica na području opštine Žabljak | [`odluka/2020/294264/`](odluka/2020/294264/) | in force | 1 | 2020-02-27 | 2020-02-27 |
+| Odluka o davanju na korišćenje nepokretnosti NVO KUD-u "Njegoš" Cetinje bez naknade | [`odluka/2020/294266/`](odluka/2020/294266/) | in force | 1 | 2020-06-20 | 2020-06-20 |
 | Odluka o potvrdi Odluke o dopuni Odluke o bližim kriterijumima za korišćenje sredstava tekuće i stalne budžetske rezerve | [`odluka/2020/294267/`](odluka/2020/294267/) | amending act | 1 | 2020-06-25 | 2020-06-25 |
 | Odluka o izmjeni Odluke o određivanju rukovodioca izrade Prostorno-urbanističkog plana Opštine Kotor i visini naknade za rukovodioca i stručni tim za izradu prostorno urbanističkog plana | [`odluka/2020/294268/`](odluka/2020/294268/) | in force | 1 | 2020-08-14 | 2020-08-14 |
 | Odluka o izmjenama i dopunama Odluke o postavljanju odnosno građenju i uklanjanju pomoćnih objekata na teritoriji Opštine Nikšić | [`odluka/2020/294282/`](odluka/2020/294282/) | amending act | 1 | 2021-01-05 | 2021-01-05 |
@@ -23848,14 +23860,17 @@
 | Pravila za poravnanje razlike između opravdanih i ostvarenih prihoda i utvrđenih troškova između licenciranih operatora distributivnog sistema | [`pravila/2026/399555/`](pravila/2026/399555/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Pravila za sprovođenje postupka otkrivanja, utvrđivanja i sprečavanja neovlašćenog korišćenja električne energije | [`pravila/2026/399770/`](pravila/2026/399770/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 
-## pravilnik (2880, of which 265 amending acts)
+## pravilnik (2886, of which 266 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Pravilnik o načinu isplate naknade za vrijeme porodiljskog odsustva . | [`pravilnik/1992/291744/`](pravilnik/1992/291744/) | in force | 1 | 1992-02-13 | 1992-02-13 |
 | Pravilnik o pohvalama , nagradama i vaspitnim mjerama za učenike osnovne škole. | [`pravilnik/1992/294495/`](pravilnik/1992/294495/) | in force | 1 | 1992-02-28 | 1992-02-28 |
 | Pravilnik o postupku ostvarivanja naknade za rad sa polovinom punog radnog vremena zbog njege teško oboljelog lica i naknade za vrijeme korišćenja produženog porodiljskog odsustva . | [`pravilnik/1992/294759/`](pravilnik/1992/294759/) | in force | 1 | 1992-02-13 | 1992-02-13 |
+| Pravilnik o sadržini i načinu sastavljanja poreskog bilansa za obveznike prihoda od samostalne djelatnosti. | [`pravilnik/1992/294884/`](pravilnik/1992/294884/) | in force | 1 | 1992-05-12 | 1992-05-12 |
 | Pravilnik o određivanju cijena obraz aca za isprave koje određuju lučke kapetanije. | [`pravilnik/1992/295615/`](pravilnik/1992/295615/) | in force | 1 | 1992-06-03 | 1992-06-03 |
+| Pravilnik o polaganju popravnih ,dopunskih,diferencijalnih i razrednih ispita u srednjoj školi. | [`pravilnik/1992/295621/`](pravilnik/1992/295621/) | amending act | 1 | 1992-02-28 | 1992-02-28 |
+| Pravilnik o visini i načinu plaćanja naknade za preglede i baždarenje čamaca,plovećih naprava ,skela i plutajućih objekata. | [`pravilnik/1992/295628/`](pravilnik/1992/295628/) | in force | 1 | 1992-05-02 | 1992-05-02 |
 | Pravilnik o izmjeni i dopuni Pravilnika o sadržini i načinu vođenja poslovnih knjiga i iskazivanju finansijskog rezultata kod obavljanja samostalne djelatnosti | [`pravilnik/1992/296005/`](pravilnik/1992/296005/) | amending act | 1 | 1992-06-17 | 1992-06-17 |
 | Pravilnik o određivanju cijena obrazaca za isprave koje izdaju lučke kapetanije. | [`pravilnik/1992/296247/`](pravilnik/1992/296247/) | in force | 1 | 1992-03-17 | 1992-03-17 |
 | Pravilnik o izmjeni Pravilnika o visini naknade koju vlasnici, odnosno korisnici automata za igre na sreću i zabavne igre uplaćuju prilikom podnošenja zahtjeva za plombiranje brojčanika. | [`pravilnik/1992/297266/`](pravilnik/1992/297266/) | in force | 1 | 1992-03-07 | 1992-03-07 |
@@ -23882,6 +23897,7 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o sadržini i načinu sastavljanja poreskog i konsolidovanog bilansa, obliku i sadržaju poreske prijave i obrascu izjave o izbjegavanju dvostrukog oporezivanja dividendi | [`pravilnik/1994/291808/`](pravilnik/1994/291808/) | amending act | 1 | 1994-03-11 | 1994-03-11 |
 | Pravilnik o izmjenama i dopunama Pravilnika o uslovima i načinu ostarivanja zdravstvene zaštite i drugih prava iz zdravstvenog osiguranja | [`pravilnik/1994/294645/`](pravilnik/1994/294645/) | amending act | 1 | 1994-09-30 | 1994-09-30 |
 | Pravilnik o stalnim sudskim tumačima | [`pravilnik/1994/294705/`](pravilnik/1994/294705/) | in force | 1 | 1994-05-24 | 1994-05-24 |
+| Pravilnik o kriterijumima za utvrđivanje naknade za pravo na eksploataciju i istraživanje mineralnih sirovina | [`pravilnik/1994/294709/`](pravilnik/1994/294709/) | in force | 1 | 1994-06-03 | 1994-06-03 |
 | Pravilnik o određivanju cijena obrazaca za isprave koje izdaju lučke kapetanije | [`pravilnik/1994/296590/`](pravilnik/1994/296590/) | in force | 1 | 1994-05-07 | 1994-05-07 |
 | Pravilnik o izmjeni Pravilnika o obrascu poreske prijave za utvrđivanje akontacionih poreza na prihode građana | [`pravilnik/1994/296789/`](pravilnik/1994/296789/) | in force | 1 | 1994-03-11 | 1994-03-11 |
 | Pravilnik o načinu i postupku dodjeljivanja specijalizacije | [`pravilnik/1994/297023/`](pravilnik/1994/297023/) | in force | 1 | 1994-09-30 | 1994-09-30 |
@@ -23913,6 +23929,7 @@
 | Pravilnik o programu i načinu polaganja stručnog ispita za turističkog vodiča | [`pravilnik/1995/295251/`](pravilnik/1995/295251/) | in force | 1 | 1996-01-05 | 1996-01-05 |
 | Pravilnik o uslovima koje treba da ispunjava stručni kadar za obavljanje djelatnosti iz oblasti turizma i ugostiteljstva | [`pravilnik/1995/295777/`](pravilnik/1995/295777/) | in force | 1 | 1995-10-31 | 1995-10-31 |
 | Pravilnik o uslovima koje treba da ispunjava stručni kadar neophodnodan za obavljanje djelatnosti u oblasti industrije i zanatstva | [`pravilnik/1995/296604/`](pravilnik/1995/296604/) | in force | 1 | 1995-10-31 | 1995-10-31 |
+| Pravilnik o sadržini zapisnika o izvršenom inspekcijskom pregledu poljoprivrednih, šumarskih, vodoprivrednih i veterinarskih inspektora | [`pravilnik/1995/296908/`](pravilnik/1995/296908/) | in force | 1 | 1995-09-29 | 1995-09-29 |
 | Pravilnik o obrascu službene legitimacije | [`pravilnik/1995/300812/`](pravilnik/1995/300812/) | in force | 1 | 1995-03-23 | 1995-03-23 |
 | Pravilnik o načinu i postupku vođenja registra izdavača | [`pravilnik/1995/301174/`](pravilnik/1995/301174/) | in force | 1 | 1995-12-02 | 1995-12-02 |
 | Pravilnik o službenoj legitimaciji ovlašćenog službenog lica Zavoda za izvršenje krivičnih sankcija | [`pravilnik/1995/301701/`](pravilnik/1995/301701/) | in force | 1 | 1995-04-08 | 1995-04-08 |
@@ -23938,6 +23955,7 @@
 | Pravilnik o vrstama objekata nautičkog turizma, minimalno-tehničkim uslovima i njihovoj kategorizaciji | [`pravilnik/1995/349484/`](pravilnik/1995/349484/) | in force | 1 | 1996-01-05 | 1996-01-05 |
 | Pravilnik o uslovima koje treba da ispunjava stručni kadar za obavljanje preduzetničke djelatnosti iz oblasti građevinarstva | [`pravilnik/1995/349726/`](pravilnik/1995/349726/) | in force | 1 | 1995-10-31 | 1995-10-31 |
 | Pravilnik o uređenju stočnih pijaca, sajmova, izložbi i dogona | [`pravilnik/1995/349814/`](pravilnik/1995/349814/) | in force | 1 | 1995-12-22 | 1995-12-22 |
+| Pravilnik o sadržini i obliku pismene pohvale | [`pravilnik/1996/295044/`](pravilnik/1996/295044/) | in force | 1 | 1996-08-04 | 1996-08-04 |
 | Pravilnik o određivanju jednostavnih djelatnosti i djelatnosti domaće radinosti | [`pravilnik/1996/295053/`](pravilnik/1996/295053/) | in force | 1 | 1996-06-21 | 1996-06-21 |
 | Pravilnik o načinu i postupku vršenja i ocjenjivanja probnog rada u državnim organima | [`pravilnik/1996/295467/`](pravilnik/1996/295467/) | in force | 1 | 1996-06-20 | 1996-06-20 |
 | Pravilnik o dopunama Pravilnika o sadržini i načinu vođenja poslovnih knjiga i iskazivanja finansijskog rezultata kod obavljanja samostalne djelatnosti | [`pravilnik/1996/295489/`](pravilnik/1996/295489/) | amending act | 1 | 1996-12-27 | 1996-12-27 |
@@ -27077,7 +27095,7 @@
 | Program podizanja spomen-obilježja | [`program/2026/399528/`](program/2026/399528/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Izmjene i dopune Programa mjera za podsticaj razvoja poljoprivrede za 2026. godinu | [`program/2026/399716/`](program/2026/399716/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## rjesenje (3563, of which 202 amending acts)
+## rjesenje (3565, of which 202 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -28406,6 +28424,7 @@
 | Rješenje o razrješenju člana Odbora direktora društva sa ograničenom odgovornošću " Akademija znanja " Budva | [`rjesenje/2017/294370/`](rjesenje/2017/294370/) | in force | 1 | 2017-02-07 | 2017-02-07 |
 | Rješenje o razrješenju i imenovanju predsjednika i člana odbora za imovinsko pravna raspolaganja Skupštine Opštine Herceg Novi | [`rjesenje/2017/294373/`](rjesenje/2017/294373/) | in force | 1 | 2017-08-03 | 2017-08-03 |
 | Rješenje o davanju saglasnosti za gradnju na UP 10-25 blok 10 u skladu sa DUP-om Babin do | [`rjesenje/2017/294375/`](rjesenje/2017/294375/) | in force | 1 | 2017-03-27 | 2017-03-27 |
+| Rješenje, broj: 01 - 249/5 | [`rjesenje/2017/294401/`](rjesenje/2017/294401/) | in force | 1 | 2017-03-24 | 2017-03-24 |
 | Rješenje o izmjeni Rješenja o imenovanju predsjednika i članova Savjeta za ravnopravnost polova | [`rjesenje/2017/308447/`](rjesenje/2017/308447/) | in force | 1 | 2017-12-22 | 2017-12-22 |
 | Rješenje o povučenim crnogorskim standardima i srodnim dokumentima | [`rjesenje/2017/308557/`](rjesenje/2017/308557/) | in force | 1 | 2017-05-17 | 2017-05-17 |
 | Rješenje o imenovanju članice Odbora za komunalno-stambenu djelatnost | [`rjesenje/2017/308849/`](rjesenje/2017/308849/) | in force | 1 | 2017-05-11 | 2017-05-11 |
@@ -28887,6 +28906,7 @@
 | Rješenje o standardu zanimanja brodski kormilar/brodska kormilarka | [`rjesenje/2019/294042/`](rjesenje/2019/294042/) | in force | 1 | 2019-03-05 | 2019-03-05 |
 | Rješenje o povučenim crnogorskim standardima i srodnim dokumentima | [`rjesenje/2019/294095/`](rjesenje/2019/294095/) | in force | 1 | 2019-07-12 | 2019-07-12 |
 | Rješenje o potvrđivanju baze podataka katastra nepokretnosti za KO Gornja Bukovica | [`rjesenje/2019/294294/`](rjesenje/2019/294294/) | in force | 1 | 2019-11-22 | 2019-11-22 |
+| Rješenje o standardu zanimanja veterinarski tehničar/veterinarska tehničarka životinja za uzgoj i proizvodnju hrane | [`rjesenje/2019/294387/`](rjesenje/2019/294387/) | in force | 1 | 2019-06-17 | 2019-06-17 |
 | Rješenje o standardu zanimanja kozmetički tehničar/kozmetička tehničarka za tretmane lica | [`rjesenje/2019/294391/`](rjesenje/2019/294391/) | in force | 1 | 2019-07-01 | 2019-07-01 |
 | Rješenje o standardu zanimanja tesar/tesarka | [`rjesenje/2019/308839/`](rjesenje/2019/308839/) | in force | 1 | 2019-06-17 | 2019-06-17 |
 | Rješenje o izmjeni Rješenja o imenovanju predsjednika i članova Savjeta za zaštitu životne sredine | [`rjesenje/2019/309560/`](rjesenje/2019/309560/) | in force | 1 | 2019-07-29 | 2019-07-29 |
@@ -30946,10 +30966,11 @@
 | Zakon o potvrđivanju Dodatnog protokola 7 o rješavanju sporova uz Sporazum o izmjeni i pristupanju Centralnoevropskom sporazumu o slobodnoj trgovini (CEFTA) | [`ugovor/2026/396797/`](ugovor/2026/396797/) | in force | 1 | 2026-08-13 | 2026-08-13 |
 | Odluka o objavljivanju Multilateralnog sporazuma nadležnih organa o automatskoj razmjeni informacija o finansijskim računima i dodatka Multilateralnom sporazumu nadležnih organa o automatskoj razmjeni informacija o finansijskim računima | [`ugovor/2026/398107/`](ugovor/2026/398107/) | in force | 1 | 2026-09-16 | 2026-09-16 |
 
-## uputstvo (188, of which 18 amending acts)
+## uputstvo (194, of which 18 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Uputstvo o obrascima za sprovođenje referenduma . | [`uputstvo/1992/295629/`](uputstvo/1992/295629/) | in force | 1 | 1992-02-21 | 1992-02-21 |
 | Uputstvo o načinu i postupku glasanja na referendumu učenika i studenata. | [`uputstvo/1992/295865/`](uputstvo/1992/295865/) | in force | 1 | 1992-02-24 | 1992-02-24 |
 | Uputstvo o načinu rukovanja i čuvanja materijala referenduma. | [`uputstvo/1992/295871/`](uputstvo/1992/295871/) | in force | 1 | 1992-02-21 | 1992-02-21 |
 | Uputstvo o jedinstvenom načinu utvrđivanja unutrašnje organizacije i sistematizacije organa državne uprave. | [`uputstvo/1992/295953/`](uputstvo/1992/295953/) | in force | 1 | 1992-03-17 | 1992-03-17 |
@@ -30963,7 +30984,10 @@
 | Uputstvo o bližim uslovima i načinu bezgotovinskog plaćanja i slučajevima prodaje proizvoda čije se plaćanje može vršiti mimo žiro računa | [`uputstvo/1994/349670/`](uputstvo/1994/349670/) | in force | 1 | 1994-06-03 | 1994-06-03 |
 | Uputstvo o uslovima za korišćenje povlastica za nabavku građevinskog materijala bez plaćanja opšteg poreza na promet | [`uputstvo/1994/349992/`](uputstvo/1994/349992/) | in force | 1 | 1994-08-04 | 1994-08-04 |
 | Uputstvo o načinu obračunavanja i uplate sredstava za finansirnje izgradnje elektroenergetskih objekata | [`uputstvo/1995/295127/`](uputstvo/1995/295127/) | in force | 1 | 1995-01-10 | 1995-01-10 |
+| Uputstvo o načinu vođenja evidencije o izvršenim inspekcijskim pregledima upravnih inspektora | [`uputstvo/1995/295140/`](uputstvo/1995/295140/) | in force | 1 | 1995-09-02 | 1995-09-02 |
+| Uputstvo o načinu vođenja evidencije o inspekcijskim pregledima inspektora za urbanizam | [`uputstvo/1995/295212/`](uputstvo/1995/295212/) | in force | 1 | 1995-04-22 | 1995-04-22 |
 | Uputstvo o načinu vođenja evidencije o isnpekcijskim pregledima koje vrše republički elektroenergetski i termoenergetski inspektori, inspektori za sistem veza, rudarski i geološki inspektori | [`uputstvo/1995/295891/`](uputstvo/1995/295891/) | in force | 1 | 1995-06-28 | 1995-06-28 |
+| Uputstvo o načinu isplate zarada, penzija i novčanih naknada po osnovu prava iz penzijsko-invalidskog osiguranja u RCG za decembar 1994. godine i januar-mart 1995. godine | [`uputstvo/1995/296871/`](uputstvo/1995/296871/) | in force | 1 | 1995-02-14 | 1995-02-14 |
 | Uputstvo o vođenju matičnih knjiga i o izdavanju izvoda i uvjerenja na osnovu tih knjiga | [`uputstvo/1995/299864/`](uputstvo/1995/299864/) | in force | 1 | 1995-06-27 | 1995-06-27 |
 | Uputstvo o načinu vođenja evidencije o iz vršenim inspekcijskim pregledima komunalnih inspektora | [`uputstvo/1995/300813/`](uputstvo/1995/300813/) | in force | 1 | 1995-06-28 | 1995-06-28 |
 | Uputstvo o načinu vođenja evidencije o izvršenim inspekcijskim pregledima koje vrše republički inspektori bezbjednosti plovidbe, za drumski saobraćaj, javne puteve i željeznički saobraćaj | [`uputstvo/1995/323957/`](uputstvo/1995/323957/) | in force | 1 | 1995-11-15 | 1995-11-15 |
@@ -30972,7 +30996,9 @@
 | Uputstvo o načinu obračuna poreza i doprinosa na lična primanja | [`uputstvo/1995/349179/`](uputstvo/1995/349179/) | in force | 1 | 1995-01-20 | 1995-01-20 |
 | Uputstvo o izmjeni Uputstva o načinu vođenja evidencije o izvršenim pregledima poljoprivrednih, šumarskih, vodoprivrednih i veterinarskih inspektora | [`uputstvo/1995/349502/`](uputstvo/1995/349502/) | in force | 1 | 1995-05-29 | 1995-05-29 |
 | Uputstvo o upućivanju na izdržavanje kazne zatvora osuđenih i prekršajno kažnjenih lica | [`uputstvo/1996/291802/`](uputstvo/1996/291802/) | in force | 1 | 1996-01-20 | 1996-01-20 |
+| Uputstvo o načinu vođenja evidencije o inspekcijskim pregledima ekoloških inspektora | [`uputstvo/1996/296067/`](uputstvo/1996/296067/) | in force | 1 | 1996-06-28 | 1996-06-28 |
 | Uputstvo o izvršenju smrtne kazne | [`uputstvo/1996/296766/`](uputstvo/1996/296766/) | in force | 1 | 1996-01-20 | 1996-01-20 |
+| Uputstvo o načinu vođenja evidencije o izvršenim inspekcijskim nadzorima prosvjetnih inspektora | [`uputstvo/1996/296905/`](uputstvo/1996/296905/) | in force | 1 | 1996-01-27 | 1996-01-27 |
 | Uputstvo o zastupanju kompanija koje se osiivaju i posluju pod posebnim uslovima | [`uputstvo/1996/349055/`](uputstvo/1996/349055/) | in force | 1 | 1996-12-27 | 1996-12-27 |
 | Uputstvo o sadržini i obliku obrazaca u postupku predlaganja kandidata | [`uputstvo/1996/364708/`](uputstvo/1996/364708/) | in force | 1 | 1996-08-06 | 1996-08-06 |
 | Uputstvo o načinu proglašenja izbornih lista, sadržaju, obliku i načinu isticanja zbirnih izbornih lista | [`uputstvo/1996/366591/`](uputstvo/1996/366591/) | in force | 1 | 1996-08-06 | 1996-08-06 |
@@ -31139,7 +31165,7 @@
 | Uputstvo o bližem načinu izvještavanja o podacima koje član međunarodne grupe povezanih pravnih lica u vezi poslovanja dostavlja organu uprave nadležnom za poslove poreza | [`uputstvo/2026/396663/`](uputstvo/2026/396663/) | in force | 1 | 2026-08-09 | 2026-08-09 |
 | Uputstvo o načinu unosa, ažuriranja, provjera i pristupa podacima iz Registra politički eksponiranih lica | [`uputstvo/2026/397090/`](uputstvo/2026/397090/) | in force | 1 | 2026-08-20 | 2026-08-20 |
 
-## uredba (840, of which 143 amending acts)
+## uredba (842, of which 144 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -31267,6 +31293,8 @@
 | Uredba o visini takse za registraciju kompanija koje se osnivaju i posluju pod posebnim uslovima | [`uredba/1996/294473/`](uredba/1996/294473/) | in force | 1 | 1996-10-17 | 1996-10-17 |
 | Uredba o izmjeni Uredbe o privremenoj izmjeni stope posebnog poreza na promet proizvoda | [`uredba/1996/294475/`](uredba/1996/294475/) | in force | 1 | 1996-05-10 | 1996-05-10 |
 | Uredba o stavljanju van snage Uredbe o usklađivanju visine kamatne stope koja se plaća na iznos poreza na promet koji nije uplaćen u zakonom propisanom roku | [`uredba/1996/294640/`](uredba/1996/294640/) | in force | 1 | 1996-05-01 | 1996-05-01 |
+| Uredba o dopuni Uredbe o zaradama, naknadama i drugim primanjima zaposlenih u Republici Crnoj Gori | [`uredba/1996/294891/`](uredba/1996/294891/) | amending act | 1 | 1996-05-01 | 1996-05-01 |
+| Uredba o visini takse za brodove, jahte i vazduhoplove | [`uredba/1996/295798/`](uredba/1996/295798/) | in force | 1 | 1996-10-17 | 1996-10-17 |
 | Uredba o izmjeni Uredbe o visini naknade za korišćenje podataka premjera, katastra nepokretnosti i usluga Republičkog zavoda za geodetske i imovinsko pravne poslove | [`uredba/1996/296261/`](uredba/1996/296261/) | in force | 1 | 1996-05-11 | 1996-05-11 |
 | Uredba o poslovanju kompanija koje se osnivaju i posluju pod posebnim uslovima | [`uredba/1996/296401/`](uredba/1996/296401/) | in force | 1 | 1996-10-17 | 1996-10-17 |
 | Uredba o dopunama Uredbe o unutrašnjoj organizaciji Direkcije javnih prihoda Republike Crne Gore | [`uredba/1996/296907/`](uredba/1996/296907/) | amending act | 1 | 1996-05-29 | 1996-05-29 |
