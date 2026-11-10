@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32505 acts, 32,507 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32506 acts, 32,508 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (881, of which 86 amending acts)
 
@@ -1150,7 +1150,7 @@
 | Naredba o vremenu u kojem aerodromi moraju biti otvoreni za vazdušni saobraćaj | [`naredba/2026/399378/`](naredba/2026/399378/) | in force | 1 | 2026-10-25 | 2026-10-25 |
 | Naredba o zabrani uvoza/unošenja pošiljaka nusproizvoda iz zemalja i objekata koji nisu uključeni na liste Evropske Unije | [`naredba/2026/399648/`](naredba/2026/399648/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## odluka (22320, of which 3140 amending acts)
+## odluka (22321, of which 3140 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -19123,6 +19123,7 @@
 | Odluka o podsticajima i investiranju u razvoj poljoprivrede Opštine Tuzi | [`odluka/2023/360369/`](odluka/2023/360369/) | in force | 1 | 2023-05-05 | 2023-05-05 |
 | Odluka o imenovanju predsjednika i članova odbora za društvene djelatnosti, medjuopštinsku i medjunarodnu saradnju | [`odluka/2023/360370/`](odluka/2023/360370/) | in force | 1 | 2023-04-11 | 2023-04-11 |
 | Odluka o imenovanju predsjednika i članova odbora za planiranje i uređenje prostora, komunalno-stambenu djelatnost, saobraćaj i zaštitu životne sredine | [`odluka/2023/360372/`](odluka/2023/360372/) | in force | 1 | 2023-04-11 | 2023-04-11 |
+| Odluka o imenovanju predsjednika i članova odbora za statut i propise | [`odluka/2023/360373/`](odluka/2023/360373/) | in force | 1 | 2023-04-11 | 2023-04-11 |
 | Odluka o zaštiti interesa građana Opštine Budva i obezbjeđivanju nesmetanog funkcionisanja organa lokalne uprave | [`odluka/2023/360377/`](odluka/2023/360377/) | in force | 1 | 2023-04-21 | 2023-04-21 |
 | Odluka o uspostavljanja službenosti radi polaganja elektroenergetskog kabla 3x (XNE49-A 1X150mm2 12/20Kv) | [`odluka/2023/360380/`](odluka/2023/360380/) | in force | 1 | 2023-05-06 | 2023-05-06 |
 | Odluka o uspostavljanja službenosti radi polaganja elektroenergetskog kabla (XHE49-A 1X240mm2) | [`odluka/2023/360381/`](odluka/2023/360381/) | in force | 1 | 2023-05-06 | 2023-05-06 |
