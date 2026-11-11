@@ -1,0 +1,2 @@
+Komisija za tržište kapitala (u daljem tekstu: Komisija) je na osnovu člana 30 stav 1, a u vezi sa čl. 158 st. 5, čl. 159 st. 2, čl. 210 st. 1 i čl. 365 st. 3 Zakona o tržištu kapitala ("Službeni list CG" br. 1/18, 69/25), na 204. sjednici održanoj 30.10.2026. godine donijela
+PRAVILA ZA STICANJE ODNOSNO POVEĆANJE KVALIFIKOVANOG UČEŠĆA U ORGANIZATORU TRŽIŠTA, INVESTICIONOM DRUŠTVU I CENTRALNOM KLIRINŠKOM DEPOZITARNOM DRUŠTVU

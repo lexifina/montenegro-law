@@ -1,0 +1,2 @@
+# Član 1
+Ovim pravilima se uređuju bliži sadržaj zahtjeva i dokumentacija koja se prilaže uz zahtjev za sticanje odnosno povećanje kvalifikovanog učešća u organizatoru tržišta, investicionom društvu i Centralnom klirinškom depozitarnom društvu (u daljem tekstu zajednički: Društvo) radi utvrđivanja ispunjenosti uslova za sticanje odnosno povećanje kvalifikovanog učešća i bliži kriterijumi za ocjenu kvalifikovanog učešća u Društvu.
