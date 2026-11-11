@@ -1,6 +1,6 @@
 # Every act in this repository
 
-34916 acts, 34,918 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+35216 acts, 35,218 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## akt (929, of which 89 amending acts)
 
@@ -25708,7 +25708,7 @@
 | Pravila o organizacionim zahtjevima i pravilima poslovnog ponašanja za obavljanje investicionih usluga i aktivnosti | [`pravila/2026/399818/`](pravila/2026/399818/) | in force | 1 | 2026-11-11 | 2026-11-11 |
 | Pravila za sticanje odnosno povećanje kvalifikovanog učešća u organizatoru tržišta, investicionom društvu i centralnom klirinškom depozitarnom društvu | [`pravila/2026/399820/`](pravila/2026/399820/) | in force | 1 | 2026-11-11 | 2026-11-11 |
 
-## pravilnik (3536, of which 293 amending acts)
+## pravilnik (3582, of which 295 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -28834,10 +28834,12 @@
 | Pravilnik o bližem sadržaju, načinu izrade i dostavljanju internog plana reagovanja na vanredni događaj | [`pravilnik/2026/391012/`](pravilnik/2026/391012/) | in force | 1 | 2026-03-07 | 2026-03-07 |
 | Pravilnik o bližim uslovima za biljnu i stočarsku organsku proizvodnju* | [`pravilnik/2026/391027/`](pravilnik/2026/391027/) | in force | 1 | 2026-03-13 | 2026-03-13 |
 | Pravilnik o bližim uslovima za obezbjeđivanje sljedljivosti organa za presađivanje* | [`pravilnik/2026/391036/`](pravilnik/2026/391036/) | in force | 1 | 2026-03-13 | 2026-03-13 |
+| Pravilnik o izmjeni i dopunama Pravilnika o bližim uslovima i načinu vršenja transporta organa za presađivanje* | [`pravilnik/2026/391039/`](pravilnik/2026/391039/) | amended, not consolidated | 1 | 2026-03-13 | 2026-03-13 |
 | Pravilnik o programu i načinu vrednovanja stručnog usavršavanja članova Komore arhitekata i planera Crne Gore | [`pravilnik/2026/391041/`](pravilnik/2026/391041/) | in force | 1 | 2026-03-12 | 2026-03-12 |
 | Pravilnik o izmjenama Pravilnika o službenoj legitimaciji i službenoj znački policijskog službenika | [`pravilnik/2026/391042/`](pravilnik/2026/391042/) | in force | 1 | 2026-03-06 | 2026-03-06 |
 | Pravilnik o izmjenama i dopunama Pravilnika o bližoj sadržini i načinu prenošenja informacija u slučaju razmjene organa* | [`pravilnik/2026/391046/`](pravilnik/2026/391046/) | amending act | 1 | 2026-03-13 | 2026-03-13 |
 | Pravilnik o sadržaju, načinu vođenja i obrascu evidencije o radnom vremenu lica koja obavljaju mobilnu djelatnost u drumskom prevozu | [`pravilnik/2026/391052/`](pravilnik/2026/391052/) | in force | 1 | 2026-03-12 | 2026-03-12 |
+| Pravilnik o izmjeni Pravilnika o obimu i vrsti podataka i informacija, načinu i uslovima za procjenu podobnosti i odabiru davaoca, obimu i vrsti laboratorijskih testiranja, kao i načinu praćenja zdravstvenog stanja živog davaoca organa* | [`pravilnik/2026/391054/`](pravilnik/2026/391054/) | amended, not consolidated | 1 | 2026-03-13 | 2026-03-13 |
 | Pravilnik o utvrđivanju Liste supstanci koje su bezbjedne za korišćenje u kozmetičkim proizvodima* | [`pravilnik/2026/391072/`](pravilnik/2026/391072/) | in force | 1 | 2026-03-05 | 2026-03-05 |
 | Pravilnik o obrascu dozvole za emisiju gasova sa efektom staklene bašte i načinu vođenja evidencije | [`pravilnik/2026/391288/`](pravilnik/2026/391288/) | in force | 1 | 2026-02-27 | 2026-02-27 |
 | Pravilnik o sadržini zahtjeva za izdavanje, izmjenu i obnovu dozvole za promet prekursora, dokumentaciji koja se prilaže uz zahtjev i sadržini dozvole za promet prekursora* | [`pravilnik/2026/391290/`](pravilnik/2026/391290/) | in force | 1 | 2026-02-20 | 2026-02-20 |
@@ -28847,15 +28849,20 @@
 | Pravilnik o sadržaju i načinu vođenja evidencije o upotrebi sredstava za zaštitu bilja* | [`pravilnik/2026/391357/`](pravilnik/2026/391357/) | in force | 1 | 2026-01-13 | 2026-01-13 |
 | Pravilnik o bližem načinu podnošenja zahtjeva, potrebnoj dokumentaciji i načinu preuzimanja rješenja o priznavanju inostrane obrazovne isprave | [`pravilnik/2026/391358/`](pravilnik/2026/391358/) | in force | 1 | 2026-01-31 | 2026-01-31 |
 | Pravilnik o uslovima za proizvodnju aktivnih supstanci za ljekove za humanu upotrebu | [`pravilnik/2026/391378/`](pravilnik/2026/391378/) | in force | 1 | 2026-02-28 | 2026-02-28 |
+| Pravilnik o sadržaju i načinu vođenja evidencije za blagajne i terminale, sadržaju i načinu dostavljanja mjesečnog izvještaja obračuna naknada za priređivanje igara klađenja i dokaza o izvršenoj uplati naknada za priređivanje igara klađenja | [`pravilnik/2026/391383/`](pravilnik/2026/391383/) | amended, not consolidated | 1 | 2026-03-10 | 2026-03-10 |
 | Pravilnik o bazi podataka o biogorivima i evidenciji verifikatora i subjekata verifikacije* | [`pravilnik/2026/391387/`](pravilnik/2026/391387/) | in force | 1 | 2026-03-10 | 2026-03-10 |
 | Pravilnik o udjelu, pravilima obračuna i načinu obračuna udjela energije iz obnovljivih izvora u sektoru saobraćaja i posebnim pravilima za biogoriva, biotečnosti i goriva iz biomase* | [`pravilnik/2026/391394/`](pravilnik/2026/391394/) | in force | 1 | 2026-03-10 | 2026-03-10 |
 | Pravilnik o bližoj sadržini, načinu korišćenja i čuvanja izjave krajnjeg korisnika o namjeni prekursora* | [`pravilnik/2026/391409/`](pravilnik/2026/391409/) | in force | 1 | 2026-02-20 | 2026-02-20 |
 | Pravilnik o pružanju usluga sa posebnom tarifom | [`pravilnik/2026/391431/`](pravilnik/2026/391431/) | in force | 1 | 2026-03-08 | 2026-03-08 |
+| Pravilnik o izmjeni Pravilnika o metodama za ispitivanje različitosti, uniformnosti i stabilnosti biljne sorte* | [`pravilnik/2026/391434/`](pravilnik/2026/391434/) | in force | 1 | 2026-01-13 | 2026-01-13 |
 | Pravilnik o tehničkim zahtjevima eko dizajna za uređaje za lokalno grijanje prostora i povezane opreme za regulaciju* | [`pravilnik/2026/391439/`](pravilnik/2026/391439/) | in force | 1 | 2026-02-11 | 2026-02-11 |
 | Pravilnik o sadržini zahtjeva za izdavanje, izmjenu i obnovu dozvole za proizvodnju prekursora, dokumentaciji koja se prilaže uz zahtjev i sadržini dozvole za proizvodnju prekursora* | [`pravilnik/2026/391441/`](pravilnik/2026/391441/) | in force | 1 | 2026-02-20 | 2026-02-20 |
 | Pravilnik o bližem izgledu zajedničkog loga i načinu korišćenja zajedničkog loga* | [`pravilnik/2026/391444/`](pravilnik/2026/391444/) | in force | 1 | 2026-03-03 | 2026-03-03 |
 | Pravilnik o sadržaju i načinu vođenja dnevne evidencije po svakom stolu za pojedinu vrstu igre, dnevne evidencije o napojnicama nakon zatvaranja stolova i evidencije turnira | [`pravilnik/2026/391448/`](pravilnik/2026/391448/) | in force | 1 | 2026-03-10 | 2026-03-10 |
 | Pravilnik o bližim uslovima za sprovođenje mjera dobre distributivne prakse za veterinarske ljekove* | [`pravilnik/2026/391461/`](pravilnik/2026/391461/) | in force | 1 | 2026-03-03 | 2026-03-03 |
+| Pravilnik o mjerama i načinu sprovođenja zaštite od nastanka povreda oštrim predmetima za zdravstvene radnike* | [`pravilnik/2026/391470/`](pravilnik/2026/391470/) | amended, not consolidated | 1 | 2026-02-23 | 2026-02-23 |
+| Pravilnik o bližem sadržaju mjesečnog izvještaja obračuna naknada za priređivanje igara na automatima i dokaza o izvršenoj uplati naknada za priređivanje igara na automatima | [`pravilnik/2026/391478/`](pravilnik/2026/391478/) | amended, not consolidated | 1 | 2026-03-10 | 2026-03-10 |
+| Pravilnik o obrascu mjesečne evidencije sa konačnim obračunom rezultata poslovanja za priređivanje igara na sreću putem interneta i dokazu o uplati mjesečne naknade za priređivanje igara na sreću putem interneta | [`pravilnik/2026/391479/`](pravilnik/2026/391479/) | amended, not consolidated | 1 | 2026-03-10 | 2026-03-10 |
 | Pravilnik o Spisku supstanci koje se mogu upotrijebiti u nedozvoljenoj proizvodnji opojnih droga i psihotropnih supstanci* | [`pravilnik/2026/391489/`](pravilnik/2026/391489/) | in force | 1 | 2026-02-20 | 2026-02-20 |
 | Pravilnik o uslovima za proizvodnju ljekova za humanu upotrebu | [`pravilnik/2026/391495/`](pravilnik/2026/391495/) | in force | 1 | 2026-02-28 | 2026-02-28 |
 | Pravilnik o izmjeni i dopunama Pravilnika o obimu i vrsti podataka i informacija, načinu i uslovima za procjenu podobnosti i odabiru davaoca, obimu i vrsti laboratorijskih testiranja, kao i načinu praćenja zdravstvenog stanja živog davaoca organa* | [`pravilnik/2026/391496/`](pravilnik/2026/391496/) | amending act | 1 | 2026-03-12 | 2026-03-12 |
@@ -28870,11 +28877,16 @@
 | Pravilnik o načinu i rokovima za sprovođenje mjera obezbjeđivanja očuvanja, zaštite i poboljšanja kvaliteta vode za kupanje | [`pravilnik/2026/391609/`](pravilnik/2026/391609/) | in force | 1 | 2026-02-24 | 2026-02-24 |
 | Pravilnik o bližem načinu podnošenja i obrascu mjesečne evidencije sa konačnim obračunom rezultata poslovanja za priređivanje igara na sreću u kazinu | [`pravilnik/2026/391627/`](pravilnik/2026/391627/) | in force | 1 | 2026-03-10 | 2026-03-10 |
 | Pravilnik o bližem sadržaju standardnih informacionih obrazaca za ugovore o turističkim uslugama | [`pravilnik/2026/391639/`](pravilnik/2026/391639/) | in force | 1 | 2026-02-26 | 2026-02-26 |
+| Pravilnik o izmjeni Pravilnika o metodama kontrole rezidua u životinjama i proizvodima životinjskog porijekla* | [`pravilnik/2026/391877/`](pravilnik/2026/391877/) | in force | 1 | 2026-03-21 | 2026-03-21 |
+| Pravilnik o dopunama Pravilnika o monitoringu rezidua u životinjama i proizvodima životinjskog porijekla* | [`pravilnik/2026/391879/`](pravilnik/2026/391879/) | amended, not consolidated | 1 | 2026-03-21 | 2026-03-21 |
 | Pravilnik o utvrđivanju Liste zabranjenih supstanci u kozmetičkim proizvodima* | [`pravilnik/2026/391906/`](pravilnik/2026/391906/) | in force | 1 | 2026-02-20 | 2026-02-20 |
 | Pravilnik o tehničkim i metrološkim uslovima i postupku ovlašćivanja lica za pripremu mjerila za ispitivanje tehničke ispravnosti motornih i priključnih vozila za ovjeravanje | [`pravilnik/2026/391908/`](pravilnik/2026/391908/) | in force | 1 | 2026-03-25 | 2026-03-25 |
 | Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja štetnih organizama biljem Calibrachoa spp., Petunia spp. i njihovim hibridima porijeklom iz Gvatemale* | [`pravilnik/2026/391912/`](pravilnik/2026/391912/) | in force | 1 | 2026-03-25 | 2026-03-25 |
+| Pravilnik o izmjeni Pravilnika o načinu, pravilima i postupcima letenja vazduhoplova i operativnim uslugama u vazdušnom saobraćaju | [`pravilnik/2026/391915/`](pravilnik/2026/391915/) | amended, not consolidated | 1 | 2026-03-25 | 2026-03-25 |
+| Pravilnik o načinu bodovanja kriterijuma za zapošljavanje nastavnika | [`pravilnik/2026/391916/`](pravilnik/2026/391916/) | amended, not consolidated | 1 | 2026-03-25 | 2026-03-25 |
 | Pravilnik o sadržaju, obrascu i načinu izdavanja potvrde o ostvarenom putovanju korisnika povlastice na putovanje | [`pravilnik/2026/391925/`](pravilnik/2026/391925/) | in force | 1 | 2026-03-17 | 2026-03-17 |
 | Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja štetnih organizama biljem Calibrachoa spp., Petunia spp. i njihovim hibridima porijeklom iz Kenije* | [`pravilnik/2026/391927/`](pravilnik/2026/391927/) | in force | 1 | 2026-03-25 | 2026-03-25 |
+| Pravilnik o izmjeni Pravilnika o maksimalno dozvoljenim količinama rezidua farmakološki aktivnih supstanci veterinarskih ljekova u proizvodima životinjskog porijekla* | [`pravilnik/2026/391928/`](pravilnik/2026/391928/) | amended, not consolidated | 1 | 2026-03-21 | 2026-03-21 |
 | Pravilnik o metodologiji sagledavanja kvaliteta upravljanja i unutrašnje kontrole u javnom sektoru | [`pravilnik/2026/391930/`](pravilnik/2026/391930/) | in force | 1 | 2026-03-21 | 2026-03-21 |
 | Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja, odomaćivanja i širenja štetnog organizma Anoplophora chinensis (Forster)* | [`pravilnik/2026/391932/`](pravilnik/2026/391932/) | in force | 1 | 2026-03-25 | 2026-03-25 |
 | Pravilnik o metrološkim zahtjevima za mjerila za mjerenje sile kočenja kod motornih vozila | [`pravilnik/2026/391935/`](pravilnik/2026/391935/) | in force | 1 | 2026-03-25 | 2026-03-25 |
@@ -28882,17 +28894,24 @@
 | Pravilnik o utvrđivanju Liste divljih vrsta ptica koje se mogu nuditi na prodaju žive ili mrtve, transportovati i držati radi prodaje i nuditi na prodaju | [`pravilnik/2026/391995/`](pravilnik/2026/391995/) | in force | 1 | 2026-03-28 | 2026-03-28 |
 | Pravilnik o sadržaju Plana bezbjednosti za uvoz, izvoz, tranzit i/ili prevoz radioaktivnih i/ili nuklearnih materijala | [`pravilnik/2026/391998/`](pravilnik/2026/391998/) | in force | 1 | 2026-03-28 | 2026-03-28 |
 | Pravilnik o izdavačkoj djelatnosti Inženjerske komore Crne Gore | [`pravilnik/2026/392146/`](pravilnik/2026/392146/) | in force | 1 | 2026-03-23 | 2026-03-23 |
+| Pravilnik o izmjenama i dopuni Pravilnika o bližim uslovima za pružanje i korišćenje, normativima i minimalnim standardima usluge smještaja u prihvatilištu - skloništu | [`pravilnik/2026/392253/`](pravilnik/2026/392253/) | amended, not consolidated | 1 | 2026-04-01 | 2026-04-01 |
+| Pravilnik o izmjeni Pravilnika o bližim uslovima za osnivanje ustanova u oblasti obrazovanja i vaspitanja | [`pravilnik/2026/392334/`](pravilnik/2026/392334/) | amended, not consolidated | 1 | 2026-04-02 | 2026-04-02 |
 | Pravilnik o sadržaju i načinu vođenja posebne evidencije o slučajevima prijavljene diskriminacije | [`pravilnik/2026/392348/`](pravilnik/2026/392348/) | in force | 1 | 2026-04-04 | 2026-04-04 |
 | Pravila o izdavanju dozvole za rad društvima za upravljanje dobrovoljnim penzionim fondovima i izdavanju dozvole za formiranje dobrovoljnog penzionog fonda | [`pravilnik/2026/392349/`](pravilnik/2026/392349/) | in force | 1 | 2026-04-04 | 2026-04-04 |
 | Pravilnik o bližem sadržaju i načinu sprovođenja policijske obuke | [`pravilnik/2026/392350/`](pravilnik/2026/392350/) | in force | 1 | 2026-03-28 | 2026-03-28 |
+| Pravilnik o dopuni Pravilnika o naknadama za rad Komisije za tržište kapitala - Cjenovnika | [`pravilnik/2026/392356/`](pravilnik/2026/392356/) | amended, not consolidated | 1 | 2026-04-04 | 2026-04-04 |
 | Pravilnik o fitosanitarnim mjerama za sprečavanje odomaćivanja i širenja štetnog organizma Anoplophora glabripennis (Motschulsky)* | [`pravilnik/2026/392362/`](pravilnik/2026/392362/) | in force | 1 | 2026-04-04 | 2026-04-04 |
+| Pravilnik o dopuni Pravilnika o zajedničkim projektima i uspostavljanju prvog zajedničkog projekta za sprovođenje Evropskog master plana | [`pravilnik/2026/392380/`](pravilnik/2026/392380/) | amending act | 1 | 2026-04-02 | 2026-04-02 |
+| Pravilnik o kriterijumima, načinu, uslovima i visini naknade za ostvarivanje prava na smještaj i ishranu u domu | [`pravilnik/2026/392397/`](pravilnik/2026/392397/) | amended, not consolidated | 1 | 2026-03-27 | 2026-03-27 |
 | Pravilnik o sadržaju, obrascu i specifikacijama potrebni za međusobnu povezanost elektronskih evidencija kartica vozača | [`pravilnik/2026/392401/`](pravilnik/2026/392401/) | in force | 1 | 2026-04-03 | 2026-04-03 |
+| Pravilnik o kriterijumima, načinu, uslovima i visini naknade za ostvarivanje prava na participaciju prevoza učenika i studenata | [`pravilnik/2026/392406/`](pravilnik/2026/392406/) | amended, not consolidated | 1 | 2026-03-27 | 2026-03-27 |
 | Pravilnik o službenoj legitimaciji ovlašćenog službenog lica Ministarstva pravde koje vrši kontrolu izvršenja kazni zatvora i mjera bezbjednosti | [`pravilnik/2026/392421/`](pravilnik/2026/392421/) | in force | 1 | 2026-04-01 | 2026-04-01 |
 | Pravilnik o bližim kriterijumima, visini i uslovima za dodjelu stipendija talentovanim učenicima osnovne i srednje škole | [`pravilnik/2026/392432/`](pravilnik/2026/392432/) | in force | 1 | 2026-03-27 | 2026-03-27 |
 | Pravilnik o tehničkim i organizacionim uslovima koji omogućavaju presrijetanje komunikacija | [`pravilnik/2026/392433/`](pravilnik/2026/392433/) | in force | 1 | 2026-03-20 | 2026-03-20 |
 | Pravilnik o uslovima koje treba da ispunjavaju članovi komisije i ispitivači za polaganje ispita za sticanje licence za pomorskog agenta, odnosno pomorskog agenta posrednika | [`pravilnik/2026/392436/`](pravilnik/2026/392436/) | in force | 1 | 2026-04-01 | 2026-04-01 |
 | Pravilnik o sadržaju i obrascu odobrenja za nošenje službenog oružja i municije van radnog vremena službenika obezbjeđenja u Upravi za izvršenje krivičnih sankcija | [`pravilnik/2026/392441/`](pravilnik/2026/392441/) | in force | 1 | 2026-04-01 | 2026-04-01 |
 | Pravilnik o izgledu i sadržaju obrasca službene legitimacije nadzornika | [`pravilnik/2026/392448/`](pravilnik/2026/392448/) | in force | 1 | 2026-03-25 | 2026-03-25 |
+| Pravilnik o izmjeni Pravilnika o označavanju sredstava za zaštitu bilja | [`pravilnik/2026/392532/`](pravilnik/2026/392532/) | in force | 1 | 2026-04-09 | 2026-04-09 |
 | Pravilnik o bližem sadržaju i obrascu zahtjeva, dokumentaciji koja se podnosi uz zahtjev i načinu i postupku izdavanja kartica | [`pravilnik/2026/392549/`](pravilnik/2026/392549/) | in force | 1 | 2026-04-09 | 2026-04-09 |
 | Pravilnik o bližim kriterijumima za vrednovanje ponuda na javnom tenderu | [`pravilnik/2026/392557/`](pravilnik/2026/392557/) | in force | 1 | 2026-04-09 | 2026-04-09 |
 | Pravilnik o programu i načinu polaganja stručnog ispita za obavljanje djelatnosti posredovanja u prometu i zakupu nepokretnosti | [`pravilnik/2026/392574/`](pravilnik/2026/392574/) | in force | 1 | 2026-04-09 | 2026-04-09 |
@@ -28935,6 +28954,8 @@
 | Pravilnik o bližem načinu vođenja i sadržaju Registra pružalaca računovodstvenih usluga | [`pravilnik/2026/393487/`](pravilnik/2026/393487/) | in force | 1 | 2026-04-30 | 2026-04-30 |
 | Pravilnik o bližem sadržaju Nacionalnog energetskog i klimatskog plana i smjernicama za određivanje ciljeva* | [`pravilnik/2026/393488/`](pravilnik/2026/393488/) | repealed, not consolidated | 1 | 2026-04-30 | 2026-04-30 |
 | Pravilnik o oznakama serije ili lota hrane* | [`pravilnik/2026/393490/`](pravilnik/2026/393490/) | in force | 1 | 2026-05-07 | 2026-05-07 |
+| Pravilnik o izmjeni Pravilnika o programu i načinu polaganja ispita za dobijanje licence za rad miritelja, odnosno arbitra, kao i o obrascu licence za rad | [`pravilnik/2026/393491/`](pravilnik/2026/393491/) | in force | 1 | 2026-05-07 | 2026-05-07 |
+| Pravilnik o utvrđivanju Programa efikasnosti i metoda obračuna naknada u okviru Jedinstvenog evropskog neba | [`pravilnik/2026/393492/`](pravilnik/2026/393492/) | amended, not consolidated | 1 | 2026-05-07 | 2026-05-07 |
 | Pravilnik o implementaciji Jedinstvenog evropskog neba | [`pravilnik/2026/393493/`](pravilnik/2026/393493/) | in force | 1 | 2026-05-07 | 2026-05-07 |
 | Pravilnik o sadržaju Listi štetnih organizama i bilja, biljnih proizvoda i drugih objekata i mjera⃰ | [`pravilnik/2026/393673/`](pravilnik/2026/393673/) | in force | 1 | 2026-05-12 | 2026-05-12 |
 | Pravilnik o sadržaju i načinu priznavanja isprava i znakova usaglašenosti i sadržaju i obrascu izjave o uzajamnom priznavanju proizvoda | [`pravilnik/2026/393746/`](pravilnik/2026/393746/) | in force | 1 | 2026-05-13 | 2026-05-13 |
@@ -28947,7 +28968,9 @@
 | Pravilnik o utvrđivanju praktičnih aranžmana za postupak odobravanja željezničkih vozila i postupak odobravanja tipa željezničkih vozila | [`pravilnik/2026/393756/`](pravilnik/2026/393756/) | in force | 1 | 2026-05-13 | 2026-05-13 |
 | Pravilnik o bližim uslovima koje treba da ispunjavaju objekti i oprema za držanje i uzgoj koka nosilja* | [`pravilnik/2026/393793/`](pravilnik/2026/393793/) | in force | 1 | 2026-05-14 | 2026-05-14 |
 | Pravilnik o kriterijumima i postupku dodjele nagrada pripadnicima dijaspore - iseljenicima i organizacijama dijaspore - iseljenika | [`pravilnik/2026/393914/`](pravilnik/2026/393914/) | in force | 1 | 2026-05-08 | 2026-05-08 |
+| Pravilnik o fitosanitarnim mjerama za iskorjenjivanje, sprečavanje odomaćivanja i širenja voćnih muva Bactrocera dorsalis (Hendel), Bactrocera latifrons (Hendel) i Bactrocera zonata (Saunders)* | [`pravilnik/2026/393915/`](pravilnik/2026/393915/) | amended, not consolidated | 1 | 2026-05-16 | 2026-05-16 |
 | Pravilnik o sadržini i načinu vođenja Registra članova Inženjerske komore Crne Gore | [`pravilnik/2026/393954/`](pravilnik/2026/393954/) | in force | 1 | 2026-05-11 | 2026-05-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o visini, načinu utvrđivanja i plaćanja naknada za pružanje usluga iz nadležnosti Agencije za audiovizuelne medijske usluge | [`pravilnik/2026/393969/`](pravilnik/2026/393969/) | amended, not consolidated | 1 | 2026-05-19 | 2026-05-19 |
 | Pravilnik o načinu organizovanja, sprovođenju i vrednovanju stručnog usavršavanja | [`pravilnik/2026/393970/`](pravilnik/2026/393970/) | in force | 1 | 2026-05-11 | 2026-05-11 |
 | Pravilnik o pripravničkom stažu zdravstvenih radnika sa kvalifikacijom srednjeg obrazovanja | [`pravilnik/2026/394168/`](pravilnik/2026/394168/) | in force | 1 | 2026-05-23 | 2026-05-23 |
 | Pravilnik o bližoj sadržini akta o osnivanju slobodne zone | [`pravilnik/2026/394169/`](pravilnik/2026/394169/) | in force | 1 | 2026-05-23 | 2026-05-23 |
@@ -28956,6 +28979,7 @@
 | Pravilnik o bližim uslovima, sadržini zahtjeva i postupku promjene operatora slobodne zone | [`pravilnik/2026/394172/`](pravilnik/2026/394172/) | in force | 1 | 2026-05-23 | 2026-05-23 |
 | Pravilnik o zaradama, naknadama zarada i drugim primanjima zaposlenih u Agenciji za željeznice | [`pravilnik/2026/394231/`](pravilnik/2026/394231/) | in force | 1 | 2026-05-15 | 2026-05-15 |
 | Pravilnik o izmjenama i dopunama Pravilnika o načinu vođenja i sadržini građevinskog dnevnika i građevinske knjige | [`pravilnik/2026/394270/`](pravilnik/2026/394270/) | amending act | 1 | 2026-05-18 | 2026-05-18 |
+| Pravilnik o izmjenama Pravilnika o iznosu naknade licu u službi u Vojsci Crne Gore upućenom na usavršavanje, obuku ili vojnu vježbu | [`pravilnik/2026/394271/`](pravilnik/2026/394271/) | amended, not consolidated | 1 | 2026-05-26 | 2026-05-26 |
 | Pravilnik o izmjeni Pravilnika o utvrđivanju ovlašćenih lica vojne policije | [`pravilnik/2026/394272/`](pravilnik/2026/394272/) | in force | 1 | 2026-05-26 | 2026-05-26 |
 | Pravilnik o izmjeni i dopunama Pravilnika o vizama i viznim obrascima | [`pravilnik/2026/394273/`](pravilnik/2026/394273/) | amending act | 1 | 2026-05-18 | 2026-05-18 |
 | Pravilnik o izmjeni i dopuni Pravilnika o metodologiji za proračun uštede emisija gasova sa efektom staklene bašte* | [`pravilnik/2026/394276/`](pravilnik/2026/394276/) | amending act | 1 | 2026-05-26 | 2026-05-26 |
@@ -28973,6 +28997,7 @@
 | Pravilnik o označavanju obuće* | [`pravilnik/2026/394473/`](pravilnik/2026/394473/) | in force | 1 | 2026-06-03 | 2026-06-03 |
 | Pravilnik o tehničkim zahtjevima za aerosolne raspršivače | [`pravilnik/2026/394474/`](pravilnik/2026/394474/) | in force | 1 | 2026-06-03 | 2026-06-03 |
 | Pravilnik o obilježavanju i označavanju tekstilnih proizvoda* | [`pravilnik/2026/394475/`](pravilnik/2026/394475/) | in force | 1 | 2026-06-03 | 2026-06-03 |
+| Pravilnik o izmjenama Pravilnika o načinu ovjere potpisa, rukopisa i prepisa | [`pravilnik/2026/394484/`](pravilnik/2026/394484/) | amended, not consolidated | 1 | 2026-06-03 | 2026-06-03 |
 | Pravilnik o izmjenama i dopunama Pravilnika o bližim uslovima koje moraju da ispunjavaju vozila u saobraćaju na putevima* | [`pravilnik/2026/394485/`](pravilnik/2026/394485/) | amending act | 1 | 2026-06-03 | 2026-06-03 |
 | Pravilnik o načinu prodaje imovine poreskog obveznika u postupku prinudne naplate | [`pravilnik/2026/394513/`](pravilnik/2026/394513/) | in force | 1 | 2026-06-05 | 2026-06-05 |
 | Pravilnik o tehničkim i organizacionim uslovima za preuzimanje zadržanih podataka | [`pravilnik/2026/394514/`](pravilnik/2026/394514/) | in force | 1 | 2026-06-05 | 2026-06-05 |
@@ -28992,6 +29017,7 @@
 | Pravilnik o tehničkim zahtjevima za bezbjednost liftova* | [`pravilnik/2026/394672/`](pravilnik/2026/394672/) | in force | 1 | 2026-06-12 | 2026-06-12 |
 | Pravilnik o tehničkim zahtjevima za jednostavne posude pod pritiskom* | [`pravilnik/2026/394673/`](pravilnik/2026/394673/) | in force | 1 | 2026-06-12 | 2026-06-12 |
 | Pravilnik o Listi poljoprivrednih proizvoda na koje se primjenjuju odredbe o uređenju tržišta | [`pravilnik/2026/394674/`](pravilnik/2026/394674/) | in force | 1 | 2026-06-12 | 2026-06-12 |
+| Pravilnik o izmjeni Pravilnika o programu osposobljavanja veterinara koji ispunjavaju minimalne uslove osposobljavanja za automatsko priznavanje dokaza o formalnim kvalifikacijama* | [`pravilnik/2026/394712/`](pravilnik/2026/394712/) | in force | 1 | 2026-06-13 | 2026-06-13 |
 | Pravilnik o izmjeni Pravilnika o popisu dokaza o formalnim kvalifikacijama za obavljanje veterinarske djelatnosti i referentnim datumima za njihovo priznavanje* | [`pravilnik/2026/394713/`](pravilnik/2026/394713/) | in force | 1 | 2026-06-13 | 2026-06-13 |
 | Pravilnik o organizaciji zajedničkog djelovanja kupaca-proizvođača i raspodjeli dijeljene električne energije | [`pravilnik/2026/394730/`](pravilnik/2026/394730/) | in force | 1 | 2026-06-16 | 2026-06-16 |
 | Pravilnik o utvrđivanju maksimalnih nivoa i metodama analize unakrsne kontaminacije u hrani za životinje* | [`pravilnik/2026/394731/`](pravilnik/2026/394731/) | in force | 1 | 2026-06-16 | 2026-06-16 |
@@ -29006,6 +29032,7 @@
 | Pravilnik o regulatornim tehničkim standardima za tehnička rješenja radi objektivne prezentacije investicionih preporuka ili drugih informacija koje preporučuju ili sugerišu investicionu strategiju i za objavljivanje posebnih interesa ili indikacija sukoba interesa | [`pravilnik/2026/394864/`](pravilnik/2026/394864/) | in force | 1 | 2026-06-19 | 2026-06-19 |
 | Pravilnik o utvrđivanju tehničkih standarda za precizan format insider lista i ažuriranje insider lista | [`pravilnik/2026/394865/`](pravilnik/2026/394865/) | in force | 1 | 2026-06-19 | 2026-06-19 |
 | Pravilnik o ostvarivanju prava na uvećani godišnji odmor zbog rada u posebnim uslovima | [`pravilnik/2026/394893/`](pravilnik/2026/394893/) | in force | 1 | 2026-06-20 | 2026-06-20 |
+| Pravilnik o načinu uzimanja uzoraka hrane, metodama laboratorijskih ispitivanja i načinu praćenja kontaminenata u hrani* | [`pravilnik/2026/394896/`](pravilnik/2026/394896/) | amended, not consolidated | 1 | 2026-06-20 | 2026-06-20 |
 | Pravilnik o minimalno-tehničkim uslovima u pogledu opreme i uređenja poslovnica turističkih agencija | [`pravilnik/2026/394897/`](pravilnik/2026/394897/) | in force | 1 | 2026-06-20 | 2026-06-20 |
 | Pravilnik o bocama kao mjernim posudama* | [`pravilnik/2026/394907/`](pravilnik/2026/394907/) | in force | 1 | 2026-06-20 | 2026-06-20 |
 | Pravilnik o izmjeni Pravilnika o Listi supstanci koje izazivaju visoku zabrinutost | [`pravilnik/2026/394908/`](pravilnik/2026/394908/) | in force | 1 | 2026-06-20 | 2026-06-20 |
@@ -29015,7 +29042,9 @@
 | Pravilnik o posebnim zahtjevima za službene kontrole i mjere koje se primjenjuju u slučajevima neusklađenosti ili sumnje na neusklađenost sa upotrebom farmakološki aktivnih supstanci* | [`pravilnik/2026/394976/`](pravilnik/2026/394976/) | in force | 1 | 2026-06-23 | 2026-06-23 |
 | Pravilnik o sportsko-rekreativnom ribolovu na moru | [`pravilnik/2026/394977/`](pravilnik/2026/394977/) | in force | 1 | 2026-06-23 | 2026-06-23 |
 | Pravilnik o obrascu, prenosu i registru dozvola za privredni ribolov | [`pravilnik/2026/394978/`](pravilnik/2026/394978/) | in force | 1 | 2026-06-23 | 2026-06-23 |
+| Pravilnik o načinu izrade, sadržini i ovjeri tehničke dokumentacije za građenje objekta | [`pravilnik/2026/395035/`](pravilnik/2026/395035/) | amended, not consolidated | 1 | 2026-06-24 | 2026-06-24 |
 | Pravilnik o bližim uslovima za zaštitu životinja tokom klanja* | [`pravilnik/2026/395037/`](pravilnik/2026/395037/) | in force | 1 | 2026-06-24 | 2026-06-24 |
+| Pravilnik o izmjeni Pravilnika o osposobljavanju, zvanjima i ovlašćenjima pomoraca* | [`pravilnik/2026/395255/`](pravilnik/2026/395255/) | amended, not consolidated | 1 | 2026-06-20 | 2026-06-20 |
 | Pravilnik o izmjeni Pravilnika o bližem načinu unosa podataka i načinu pristupa registrima dodijeljene državne pomoći i pomoći male vrijednosti | [`pravilnik/2026/395256/`](pravilnik/2026/395256/) | in force | 1 | 2026-06-27 | 2026-06-27 |
 | Pravilnik o izmjeni Pravilnika o obrascu prijave i načinu podnošenja prijave zainteresovane strane o sumnji da se radi o nezakonitoj ili neusklađenoj dodijeljenoj državnoj pomoći ili da se dodijeljena državna pomoć nenamjenski koristi | [`pravilnik/2026/395257/`](pravilnik/2026/395257/) | in force | 1 | 2026-06-27 | 2026-06-27 |
 | Pravilnik o tehničkim zahtjevima za uređaje na gasna goriva* | [`pravilnik/2026/395390/`](pravilnik/2026/395390/) | in force | 1 | 2026-07-02 | 2026-07-02 |
@@ -29039,8 +29068,10 @@
 | Pravilnik o metodologiji praćenja emisija gasova sa efektom staklene bašte i drugih relevantnih podataka iz brodova, upravljanju i kontroli podataka, sadržaju i izradi planova praćenja, izvještaja o emisijama i dokumenta o usklađenosti | [`pravilnik/2026/395550/`](pravilnik/2026/395550/) | in force | 1 | 2026-07-08 | 2026-07-08 |
 | Pravilnik o Listi vrsta životinja i grupe vrsta životinja, pravilima za sprječavanje i kontrolu bolesti, kao i kriterijumima koji se uzimaju u obzir pri utvrđivanju pravila za sprječavanje i kontrolu bolesti* | [`pravilnik/2026/395551/`](pravilnik/2026/395551/) | in force | 1 | 2026-07-08 | 2026-07-08 |
 | Pravilnik o Listi bolesti životinja* | [`pravilnik/2026/395552/`](pravilnik/2026/395552/) | in force | 1 | 2026-07-08 | 2026-07-08 |
+| Pravilnik o obavljanju dopunskog rada zdravstvenih radnika i zdravstvenih saradnika | [`pravilnik/2026/395560/`](pravilnik/2026/395560/) | amended, not consolidated | 1 | 2026-07-08 | 2026-07-08 |
 | Pravilnik o tehničkim zahtjevima za opremu lične zaštite* | [`pravilnik/2026/395612/`](pravilnik/2026/395612/) | in force | 1 | 2026-07-10 | 2026-07-10 |
 | Pravilnik o prethodno upakovanim proizvodima* | [`pravilnik/2026/395613/`](pravilnik/2026/395613/) | in force | 1 | 2026-07-10 | 2026-07-10 |
+| Pravilnik o načinu ispitivanja i postupku utvrđivanja da li je objekat ili dio objekta izgrađen u skladu sa aktom kojim se dozvoljava građenje | [`pravilnik/2026/395649/`](pravilnik/2026/395649/) | amended, not consolidated | 1 | 2026-07-11 | 2026-07-11 |
 | Pravilnik o listi skupova podataka velike vrijednosti i tehničkim uslovima za njihovu upotrebu | [`pravilnik/2026/395650/`](pravilnik/2026/395650/) | in force | 1 | 2026-07-07 | 2026-07-07 |
 | Pravilnik o dozvolama kojima se uređuju uslovi za ponovnu upotrebu informacija | [`pravilnik/2026/395651/`](pravilnik/2026/395651/) | in force | 1 | 2026-07-07 | 2026-07-07 |
 | Pravilnik o izmjeni Pravilnika o bližim uslovima za osnivanje ustanova u oblasti obrazovanja i vaspitanja | [`pravilnik/2026/395653/`](pravilnik/2026/395653/) | in force | 1 | 2026-07-11 | 2026-07-11 |
@@ -29062,6 +29093,7 @@
 | Pravilnik o mjerama zaštite od opasnosti od eksplozije, štetnog vazduha i požara | [`pravilnik/2026/395957/`](pravilnik/2026/395957/) | in force | 1 | 2026-07-23 | 2026-07-23 |
 | Pravilnik o načinu komunikacije u slučaju opasnosti, opremi i sredstvima za evakuaciju i spašavanje zaposlenih pri izvođenju rudarskih radova | [`pravilnik/2026/395958/`](pravilnik/2026/395958/) | in force | 1 | 2026-07-23 | 2026-07-23 |
 | Pravilnik o mjerama zaštite i zdravlja na radu prilikom upotrebe sredstava za rad* | [`pravilnik/2026/395959/`](pravilnik/2026/395959/) | in force | 1 | 2026-07-15 | 2026-07-15 |
+| Pravilnik o mjerama zaštite i zdravlja na radu u radnoj sredini i radnoj okolini* | [`pravilnik/2026/395960/`](pravilnik/2026/395960/) | amended, not consolidated | 1 | 2026-07-15 | 2026-07-15 |
 | Pravilnik o mjerama zaštite i zdravlja na radu od rizika izloženosti buci* | [`pravilnik/2026/395961/`](pravilnik/2026/395961/) | in force | 1 | 2026-07-15 | 2026-07-15 |
 | Pravilnik o upotrebi sredstava i opreme lične zaštite na radu | [`pravilnik/2026/395962/`](pravilnik/2026/395962/) | in force | 1 | 2026-07-15 | 2026-07-15 |
 | Pravilnik o mjerama zaštite i zdravlja na radu od rizika izloženosti hemijskim materijama | [`pravilnik/2026/395963/`](pravilnik/2026/395963/) | in force | 1 | 2026-07-15 | 2026-07-15 |
@@ -29074,6 +29106,7 @@
 | Pravilnik o mjerama zaštite i zdravlja na radu od rizika izloženosti vibracijama* | [`pravilnik/2026/396039/`](pravilnik/2026/396039/) | in force | 1 | 2026-07-16 | 2026-07-16 |
 | Pravilnik o mjerama zaštite i zdravlja na radu od rizika izloženosti azbestu* | [`pravilnik/2026/396040/`](pravilnik/2026/396040/) | in force | 1 | 2026-07-16 | 2026-07-16 |
 | Pravilnik o načinu vođenja i sadržaju evidencije o sukobu interesa u postupcima javnih nabavki | [`pravilnik/2026/396200/`](pravilnik/2026/396200/) | in force | 1 | 2026-07-17 | 2026-07-17 |
+| Pravilnik o načinu sprovođenja nadzora i bližim kriterijumima za vršenje kontrole u oblasti javnih nabavki | [`pravilnik/2026/396201/`](pravilnik/2026/396201/) | amended, not consolidated | 1 | 2026-07-17 | 2026-07-17 |
 | Pravilnik o izmjenama Pravilnika o obrascima za sprovođenje postupaka javnih nabavki | [`pravilnik/2026/396202/`](pravilnik/2026/396202/) | in force | 1 | 2026-07-17 | 2026-07-17 |
 | Pravilnik o uslovima koje treba da ispunjava brod radi pružanja medicinske pomoći članovima posade* | [`pravilnik/2026/396264/`](pravilnik/2026/396264/) | in force | 1 | 2026-07-29 | 2026-07-29 |
 | Pravilnik o formi, sadržaju i upotrebi plakata i brošura za informisanje putnika i korisnika poštanskih usluga o zabranama u vezi sa unošenjem bilja, biljnih proizvoda i drugih objekata u Crnu Goru* | [`pravilnik/2026/396265/`](pravilnik/2026/396265/) | in force | 1 | 2026-07-29 | 2026-07-29 |
@@ -29081,7 +29114,11 @@
 | Pravilnik o izmjenama Pravilnika o načinu izvještavanja o emisijama gasova sa efektom staklene bašte | [`pravilnik/2026/396417/`](pravilnik/2026/396417/) | in force | 1 | 2026-08-01 | 2026-08-01 |
 | Pravilnik o fitosanitarnim mjerama za sprečavanje unošenja štetnih organizama biljem Calibrachoa spp, Petunia spp. i njihovim hibridima porijeklom iz Kostarike* | [`pravilnik/2026/396418/`](pravilnik/2026/396418/) | in force | 1 | 2026-08-01 | 2026-08-01 |
 | Pravilnik o načinu označavanja za uzgojne supstrate i oplemenjivače zemljišta ekološkom oznakom* | [`pravilnik/2026/396419/`](pravilnik/2026/396419/) | in force | 1 | 2026-08-01 | 2026-08-01 |
+| Pravilnik o izmjeni Pravilnika o načinu izrade, sadržini i ovjeri tehničke dokumentacije za građenje objekta | [`pravilnik/2026/396420/`](pravilnik/2026/396420/) | amended, not consolidated | 1 | 2026-08-01 | 2026-08-01 |
+| Pravilnik o izmjeni Pravilnika o načinu bodovanja kriterijuma za zapošljavanje nastavnika | [`pravilnik/2026/396450/`](pravilnik/2026/396450/) | in force | 1 | 2026-07-27 | 2026-07-27 |
 | Pravilnik o Registru ribarske flote Crne Gore | [`pravilnik/2026/396456/`](pravilnik/2026/396456/) | in force | 1 | 2026-08-04 | 2026-08-04 |
+| Pravilnik o obrascu zahtjeva za upis u Registar posrednika | [`pravilnik/2026/396457/`](pravilnik/2026/396457/) | amended, not consolidated | 1 | 2026-08-04 | 2026-08-04 |
+| Pravilnik o izmjenama Pravilnika o građevinskim proizvodima | [`pravilnik/2026/396458/`](pravilnik/2026/396458/) | in force | 1 | 2026-08-04 | 2026-08-04 |
 | Pravilnik o zaštiti životinja tokom prevoza i bližim uslovima koje treba da ispunjavaju prevoznici i prevozno sredstvo za prevoz životinja* | [`pravilnik/2026/396534/`](pravilnik/2026/396534/) | in force | 1 | 2026-08-06 | 2026-08-06 |
 | Pravilnik o uslovima koje moraju da ispunjavaju radni vozovi za izdavanje odobrenja za saobraćaj | [`pravilnik/2026/396538/`](pravilnik/2026/396538/) | in force | 1 | 2026-08-06 | 2026-08-06 |
 | Pravilnik o kriterijumima za finansiranje usluga podrške za život u zajednici i savjetodavnih usluga, dinamici prenosa sredstava i sadržini godišnjeg plana usluga podrške za život u zajednici i savjetodavnih usluga | [`pravilnik/2026/396633/`](pravilnik/2026/396633/) | in force | 1 | 2026-08-07 | 2026-08-07 |
@@ -29159,6 +29196,7 @@
 | Pravilnik o programu i načinu sprovođenja obuke za sticanje posebnih znanja iz oblasti prava djeteta i o pravilima postupanja sa maloljetnicima kao učiniocima krivičnih djela i djecom kao učesnicima u krivičnom postupku | [`pravilnik/2026/398073/`](pravilnik/2026/398073/) | in force | 1 | 2026-09-19 | 2026-09-19 |
 | Pravilnik o sadržaju i načinu vođenja registra sertifikata za upravljanje vučnim vozilom | [`pravilnik/2026/398080/`](pravilnik/2026/398080/) | in force | 1 | 2026-09-19 | 2026-09-19 |
 | Pravilnik o sadržaju i načinu vođenja registra licenci za upravljanje vučnim vozilom | [`pravilnik/2026/398081/`](pravilnik/2026/398081/) | in force | 1 | 2026-09-19 | 2026-09-19 |
+| Pravilnik o izmjenama Pravilnika o sadržaju tehničkog dosijea i osnovnim podacima o biocidu | [`pravilnik/2026/398130/`](pravilnik/2026/398130/) | in force | 1 | 2026-09-22 | 2026-09-22 |
 | Pravilnik o aromama dima koje se upotrebljavaju ili su namijenjene za upotrebu u i na hrani* | [`pravilnik/2026/398131/`](pravilnik/2026/398131/) | in force | 1 | 2026-09-15 | 2026-09-15 |
 | Pravilnik o obliku, sadržaju, rokovima i načinu dostavljanja izvještaja o transakcijama sa finansijskim instrumentima izvršenim na regulisanom tržištu kojim upravlja organizator tržišta | [`pravilnik/2026/398133/`](pravilnik/2026/398133/) | in force | 1 | 2026-09-22 | 2026-09-22 |
 | Pravilnik o sadržaju zahtjeva i uslovima za izdavanje dozvole kod statusnih promjena investicionog društva | [`pravilnik/2026/398134/`](pravilnik/2026/398134/) | in force | 1 | 2026-09-22 | 2026-09-22 |
@@ -29193,6 +29231,7 @@
 | Pravilnik o utvrđivanju Liste zaštićenih divljih vrsta biljaka, životinja i gljiva i načinu ažuriranja liste | [`pravilnik/2026/398711/`](pravilnik/2026/398711/) | in force | 1 | 2026-10-02 | 2026-10-02 |
 | Pravilnik o bližem sadržaju prethodnog obavještavanja za izvoz hemikalija | [`pravilnik/2026/398713/`](pravilnik/2026/398713/) | in force | 1 | 2026-10-10 | 2026-10-10 |
 | Pravilnik o izmjeni Pravilnika o načinu raspisivanja i sprovođenja javnog konkursa za urbanističko, odnosno urbanističko-arhitektonsko idejno rješenje predviđeno planskim dokumentom | [`pravilnik/2026/398749/`](pravilnik/2026/398749/) | in force | 1 | 2026-10-05 | 2026-10-05 |
+| Pravilnik o izmjenama Pravilnika o Listi pravila državne pomoći | [`pravilnik/2026/398750/`](pravilnik/2026/398750/) | in force | 1 | 2026-10-13 | 2026-10-13 |
 | Pravilnik o izmjeni i dopunama Pravilnika o zajedničkim zahtjevima za pružaoce usluga upravljanja vazdušnim saobraćajem i usluga u vazdušnoj plovidbi i drugih mrežnih funkcija upravljanja vazdušnim saobraćajem i nadzoru nad njima | [`pravilnik/2026/398753/`](pravilnik/2026/398753/) | amending act | 1 | 2026-10-13 | 2026-10-13 |
 | Pravilnik o obrascima sertifikata o bezbjednosti za upravljanje željezničkom infrastrukturom, infrastrukturom industrijske željeznice i infrastrukturom lučke željeznice | [`pravilnik/2026/398754/`](pravilnik/2026/398754/) | in force | 1 | 2026-10-05 | 2026-10-05 |
 | Pravilnik o načinu izrade i sadržaju izvještaja o bezbjednosti hemikalije | [`pravilnik/2026/398830/`](pravilnik/2026/398830/) | in force | 1 | 2026-10-14 | 2026-10-14 |
@@ -29222,6 +29261,7 @@
 | Pravilnik o kriterijumima za izbor nezavisnog stručnjaka | [`pravilnik/2026/399220/`](pravilnik/2026/399220/) | in force | 1 | 2026-10-24 | 2026-10-24 |
 | Pravilnik o programu obuke u oblasti korporativnog upravljanja u privrednim društvima u vlasništvu države | [`pravilnik/2026/399221/`](pravilnik/2026/399221/) | in force | 1 | 2026-10-24 | 2026-10-24 |
 | Pravilnik o bližem načinu i postupku sprovođenja javnog konkursa i načinu utvrđivanja ispunjenosti kriterijuma za izbor kandidata za članove organa upravljanja u privrednim društvima u vlasništvu države | [`pravilnik/2026/399222/`](pravilnik/2026/399222/) | in force | 1 | 2026-10-24 | 2026-10-24 |
+| Pravilnik o izmjenama Pravilnika o obliku i sadržaju evidencije o plaćanju poreza na premije osiguranja | [`pravilnik/2026/399269/`](pravilnik/2026/399269/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 | Pravilnik o obrascu izvještaja o provjeri koncentracije markera u tečnom gorivu naftnog porijekla i biogorivu | [`pravilnik/2026/399270/`](pravilnik/2026/399270/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 | Pravilnik o bližem sadržaju i načinu vođenja registra skladišta tečnih goriva naftnog porijekla i biogoriva za sopstvene potrebe i obrascu zahtjeva za upis u registar skladišta tečnih goriva naftnog porijekla i biogoriva za sopstvene potrebe | [`pravilnik/2026/399271/`](pravilnik/2026/399271/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 | Pravilnik o sadržaju i obrascu registra sudskih vještaka i registra pravnih lica za vršenje vještačenja i legitimacije sudskih vještaka | [`pravilnik/2026/399374/`](pravilnik/2026/399374/) | in force | 1 | 2026-10-30 | 2026-10-30 |
@@ -29245,9 +29285,15 @@
 | Pravilnik o praćenju zoonoza i uzročnika zoonoza* | [`pravilnik/2026/399698/`](pravilnik/2026/399698/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 | Pravilnik o detaljnim pravilima o postupcima koji se sprovode tokom i nakon dokumentacijskog, identifikacijskog i fizičkog pregleda životinja i robe koje podliježu službenim kontrolama na graničnim kontrolnim mjestima* | [`pravilnik/2026/399699/`](pravilnik/2026/399699/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 | Pravilnik o korišćenju i raspodjeli sredstava Inženjerske komore Crne Gore | [`pravilnik/2026/399701/`](pravilnik/2026/399701/) | in force | 1 | 2026-10-30 | 2026-10-30 |
+| Pravilnik o izmjenama i dopunama Pravilnika o osposobljavanju, zvanjima i ovlašćenjima pomoraca* | [`pravilnik/2026/399749/`](pravilnik/2026/399749/) | amending act | 1 | 2026-11-03 | 2026-11-03 |
 | Pravilnik o ujednačenom sprovođenju službenih kontrola proizvoda životinjskog porijekla namijenjenih ishrani ljudi* | [`pravilnik/2026/399750/`](pravilnik/2026/399750/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 | Pravilnik o stručnoj kontroli i sertifikaciji u organskoj proizvodnji* | [`pravilnik/2026/399751/`](pravilnik/2026/399751/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 | Pravilnik o bližem sadržaju, obrascu i načinu vođenja evidencije o izvršenim vještačenjima | [`pravilnik/2026/399767/`](pravilnik/2026/399767/) | in force | 1 | 2026-11-10 | 2026-11-10 |
+| Pravilnik o bližim uslovima u pogledu prostora, video nadzora, opreme i alata za radionioce za tahografe | [`pravilnik/2026/399811/`](pravilnik/2026/399811/) | in force | 1 | 2026-11-11 | 2026-11-11 |
+| Pravilnik o sadržini akta o industrijskom kolosjeku i sadržini akta o industrijskoj i lučkoj željeznici | [`pravilnik/2026/399812/`](pravilnik/2026/399812/) | in force | 1 | 2026-11-11 | 2026-11-11 |
+| Pravilnik o tehničkoj specifikaciji interoperabilnosti podsistema - energija | [`pravilnik/2026/399813/`](pravilnik/2026/399813/) | in force | 1 | 2026-11-11 | 2026-11-11 |
+| Pravilnik o tehničkoj specifikaciji interoperabilnosti podsistema željeznička vozila - buka | [`pravilnik/2026/399814/`](pravilnik/2026/399814/) | in force | 1 | 2026-11-11 | 2026-11-11 |
+| Pravilnik o načinu dostavljanja podataka i metodologiji obračuna količine obaveznih rezervi naftnih derivata | [`pravilnik/2026/399968/`](pravilnik/2026/399968/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 
 ## proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj (1)
 
@@ -29255,7 +29301,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Proglašavam Zakon o izvršenju Odluke Ustavnog suda Crne Gore U-I broj 6/16 od 19. Aprila 2017. godine ("Službeni list CG", broj 31/17) | [`proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj/`](proglasavam-zakon-o-izvrsenju-odluke-ustavnog-suda-crne-gore-u-i-broj/) | in force | 1 | 2017-06-30 | 2017-06-30 |
 
-## program (333, of which 15 amending acts)
+## program (346, of which 16 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -29394,14 +29440,17 @@
 | Program mjera za podsticaj ruralnog i održivog razvoja za 2019. godinu | [`program/2019/312126/`](program/2019/312126/) | in force | 1 | 2019-08-06 | 2019-08-06 |
 | Program obaveznih imunizacija stanovništva protiv određenih zaraznih bolesti na teritoriji Crne Gore za 2019. godinu | [`program/2019/328994/`](program/2019/328994/) | in force | 1 | 2019-04-20 | 2019-04-20 |
 | Program o izmjenama i dopunama Programa podizanja spomenobilježja na teritoriji Opštine Bijelo Polje | [`program/2019/342999/`](program/2019/342999/) | amending act | 1 | 2019-08-06 | 2019-08-06 |
+| Program investicionih aktivnosti Opštine Budva za 2019. godinu | [`program/2019/375154/`](program/2019/375154/) | amended, not consolidated | 1 | 2019-01-23 | 2019-01-23 |
 | Program uređenja prostora Opštine Budva za 2019.godinu | [`program/2019/375198/`](program/2019/375198/) | in force | 1 | 2019-01-23 | 2019-01-23 |
 | Program podizanja spomen-obilježja na teritoriji Opštine Bijelo Polje | [`program/2019/375468/`](program/2019/375468/) | in force | 1 | 2019-02-02 | 2019-02-02 |
 | Program uređenja prostora opštine Bijelo Polje za 2019. godinu | [`program/2019/375479/`](program/2019/375479/) | in force | 1 | 2019-02-02 | 2019-02-02 |
+| Program podizanja spomen-obilježja za 2019. godinu | [`program/2019/375596/`](program/2019/375596/) | amended, not consolidated | 1 | 2019-03-01 | 2019-03-01 |
 | PROGRAM PODSTICANJA ZAPOŠLJAVANJA MLADIH U OPŠTINI NIKŠIĆ ZA 2019. GODINU | [`program/2019/375873/`](program/2019/375873/) | in force | 1 | 2019-02-28 | 2019-02-28 |
 | Program uređenja prostora Za 2019. god | [`program/2019/378550/`](program/2019/378550/) | in force | 1 | 2019-04-09 | 2019-04-09 |
 | Jednogodišnji program uređenja prostora za 2019. godinu | [`program/2019/378876/`](program/2019/378876/) | in force | 1 | 2019-04-16 | 2019-04-16 |
 | Program rada Skupštine opštine Mojkovac za 2019 godinu | [`program/2019/378916/`](program/2019/378916/) | in force | 1 | 2019-04-08 | 2019-04-08 |
 | Program rada Skupštine opštine Ulcinj za 2019. godinu | [`program/2019/378933/`](program/2019/378933/) | in force | 1 | 2019-04-16 | 2019-04-16 |
+| Program uređenja prostora za 2019. godinu | [`program/2019/379363/`](program/2019/379363/) | amended, not consolidated | 1 | 2019-05-21 | 2019-05-21 |
 | Program uređenja prostora opštine Kolašin za 2019. godinu | [`program/2019/379394/`](program/2019/379394/) | in force | 1 | 2019-06-26 | 2019-06-26 |
 | Program rada - Skupštine opštine Kolašin za 2019.godinu - | [`program/2019/379400/`](program/2019/379400/) | in force | 1 | 2019-06-26 | 2019-06-26 |
 | Lokalni program socijalnog stanovanja opštine Mojkovac za 2019-2020 | [`program/2019/379474/`](program/2019/379474/) | in force | 1 | 2019-07-06 | 2019-07-06 |
@@ -29509,6 +29558,7 @@
 | Izmjene i dopune Programa investicionih aktivnosti u Opštini Kotor za 2023. godinu | [`program/2023/362047/`](program/2023/362047/) | amending act | 1 | 2023-09-29 | 2023-09-29 |
 | Izmjene i dopune Programa uređenja prostora u Opštini Kotor za 2023. godinu | [`program/2023/362048/`](program/2023/362048/) | amending act | 1 | 2023-09-29 | 2023-09-29 |
 | Program rada Skupštine Opštine Mojkovac za 2023. godinu | [`program/2023/362171/`](program/2023/362171/) | in force | 1 | 2023-06-01 | 2023-06-01 |
+| Program mjera za podsticaj razvoja peduzetništva za 2023.godinu | [`program/2023/362458/`](program/2023/362458/) | amended, not consolidated | 1 | 2023-08-05 | 2023-08-05 |
 | Program mjera za podsticaj ruralnog i održivog razvoja za 2023. godinu | [`program/2023/362665/`](program/2023/362665/) | in force | 1 | 2023-08-05 | 2023-08-05 |
 | Program mjera za podsticaj razvoja poljoprivrede za 2023. godinu | [`program/2023/362675/`](program/2023/362675/) | in force | 1 | 2023-08-05 | 2023-08-05 |
 | Odluka o davanju saglasnosti na Plan i Program rada sa finansijskim planom JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju opštine Rožaje za 2023.godinu | [`program/2023/363300/`](program/2023/363300/) | in force | 1 | 2023-03-10 | 2023-03-10 |
@@ -29533,15 +29583,19 @@
 | Program uređenja prostora za 2024. godinu | [`program/2024/368698/`](program/2024/368698/) | in force | 1 | 2024-04-17 | 2024-04-17 |
 | Program rada Skupštine opštine Mojkovac za 2024. godinu | [`program/2024/368702/`](program/2024/368702/) | in force | 1 | 2024-04-25 | 2024-04-25 |
 | Program podizanja spomen-obilježja na području opštine Bar | [`program/2024/369888/`](program/2024/369888/) | in force | 1 | 2024-06-01 | 2024-06-01 |
+| Program podizanja spomen-obilježja na teritoriji Prijestonice Cetinje | [`program/2024/372495/`](program/2024/372495/) | amended, not consolidated | 1 | 2024-08-15 | 2024-08-15 |
 | Program podizanja spomen-obilježja u Opštini Tuzi | [`program/2024/375287/`](program/2024/375287/) | in force | 1 | 2024-11-21 | 2024-11-21 |
 | Program uređenja prostora Opštine Plužine za 2025. godinu | [`program/2024/376355/`](program/2024/376355/) | in force | 1 | 2025-01-08 | 2025-01-08 |
 | Program uređenja prostora Opštine Bijelo Polje za 2025. godinu | [`program/2024/376373/`](program/2024/376373/) | in force | 1 | 2025-01-08 | 2025-01-08 |
 | Program rada Skupštine opštine Nikšić za 2025. godinu | [`program/2024/376381/`](program/2024/376381/) | in force | 1 | 2024-12-31 | 2024-12-31 |
 | Program subvencija za pojedine kategorije putnika linijskog prevoza putnika i posebnog linijskog prevoza i za pojedine registrovane linije | [`program/2024/376599/`](program/2024/376599/) | in force | 1 | 2024-12-31 | 2024-12-31 |
 | Program rada Skupštine opštine Ulcinj za 2025. godinu | [`program/2025/376912/`](program/2025/376912/) | in force | 1 | 2025-01-28 | 2025-01-28 |
+| Program uređenja prostora Opštine Herceg Novi za 2025. godinu | [`program/2025/377090/`](program/2025/377090/) | amended, not consolidated | 1 | 2025-01-31 | 2025-01-31 |
 | Program uređenja prostora Opštine Budva za 2025. godinu | [`program/2025/379186/`](program/2025/379186/) | in force | 1 | 2025-02-27 | 2025-02-27 |
 | Program investicionih aktivnosti Opštine Budva za 2025. godinu | [`program/2025/379189/`](program/2025/379189/) | in force | 1 | 2025-02-27 | 2025-02-27 |
+| Program podizanja spomen-obilježja | [`program/2025/380112/`](program/2025/380112/) | amended, not consolidated | 1 | 2025-03-28 | 2025-03-28 |
 | Program podizanja spomen obilježja u 2024. godini | [`program/2025/380797/`](program/2025/380797/) | in force | 1 | 2025-03-31 | 2025-03-31 |
+| Program za podsticanje poljoprivredne proizvodnje u Opštini Nikšić za 2025. godinu | [`program/2025/380902/`](program/2025/380902/) | amended, not consolidated | 1 | 2025-04-16 | 2025-04-16 |
 | Program obavljanja komunalnih djelatnosti DOO "Otpadne vode"- Budva sa finansijskim planom za 2024. godinu | [`program/2025/380910/`](program/2025/380910/) | in force | 1 | 2025-04-19 | 2025-04-19 |
 | Program obavljanja komunalnih djelatnosti DOO "Otpadne vode"- Budva sa Finansijskim planom za 2025. godinu | [`program/2025/380931/`](program/2025/380931/) | in force | 1 | 2025-04-19 | 2025-04-19 |
 | Program uređenja prostora sa Programom urbane sanacije Opštine Kolašin za 2025. godinu | [`program/2025/380957/`](program/2025/380957/) | in force | 1 | 2025-04-08 | 2025-04-08 |
@@ -29572,9 +29626,13 @@
 | Program rada Skupštine opštine Ulcinj za 2026. godinu | [`program/2025/389609/`](program/2025/389609/) | in force | 1 | 2025-12-31 | 2025-12-31 |
 | Program uređenja prostora Opštine Plužine za 2026. godinu | [`program/2025/391395/`](program/2025/391395/) | in force | 1 | 2026-01-03 | 2026-01-03 |
 | Program podizanja spomen-obilježja u Opštini Rožaje | [`program/2025/391458/`](program/2025/391458/) | in force | 1 | 2025-12-26 | 2025-12-26 |
+| Program investicionih aktivnosti Opštine Budva za 2026. godinu | [`program/2026/389831/`](program/2026/389831/) | amended, not consolidated | 1 | 2026-01-12 | 2026-01-12 |
+| Program uređenja prostora Opštine Budva za 2026. godinu | [`program/2026/389846/`](program/2026/389846/) | amended, not consolidated | 1 | 2026-01-12 | 2026-01-12 |
 | Program uređenja prostora Opštine Tuzi za 2026. godinu | [`program/2026/392977/`](program/2026/392977/) | in force | 1 | 2026-04-17 | 2026-04-17 |
+| Program podizanja spomen - obilježja | [`program/2026/392986/`](program/2026/392986/) | amended, not consolidated | 1 | 2026-03-25 | 2026-03-25 |
 | Program uređenja prostora sa programom investicionih aktivnosti i programom urbane sanacije Opštine Kotor za 2026. godinu | [`program/2026/393013/`](program/2026/393013/) | in force | 1 | 2026-04-02 | 2026-04-02 |
 | Program uređenja prostora Opštine Danilovgrad za 2026. godinu | [`program/2026/393226/`](program/2026/393226/) | in force | 1 | 2026-04-24 | 2026-04-24 |
+| Program za podsticanje poljoprivredne proizvodnje u Opštini Nikšić za 2026. godinu | [`program/2026/393340/`](program/2026/393340/) | amended, not consolidated | 1 | 2026-05-02 | 2026-05-02 |
 | Program uređenja prostora Opštine Šavnik za 2026. godinu | [`program/2026/394088/`](program/2026/394088/) | in force | 1 | 2026-05-22 | 2026-05-22 |
 | Program uređenja prostora za 2026. godinu | [`program/2026/394407/`](program/2026/394407/) | in force | 1 | 2026-05-14 | 2026-05-14 |
 | Program mjera za podsticaj razvoja poljoprivrede za 2026.godinu | [`program/2026/394811/`](program/2026/394811/) | in force | 1 | 2026-06-05 | 2026-06-05 |
@@ -29592,8 +29650,9 @@
 | Program podizanja spomen-obilježja | [`program/2026/399513/`](program/2026/399513/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Program podizanja spomen-obilježja | [`program/2026/399528/`](program/2026/399528/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 | Izmjene i dopune Programa mjera za podsticaj razvoja poljoprivrede za 2026. godinu | [`program/2026/399716/`](program/2026/399716/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
+| Izmjene i dopune Programa uređenja prostora Opštine Budva za 2026. godinu | [`program/2026/399936/`](program/2026/399936/) | amending act | 1 | 2026-11-06 | 2026-11-06 |
 
-## rjesenje (3598, of which 203 amending acts)
+## rjesenje (3649, of which 203 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -29776,6 +29835,7 @@
 | Rjesenje o licenciranju organizatora obrazovanja odraslih "TRENING CENTAR - GASTRONOM KLUB VUKA MITROVICA" u Budvi za izvodjenje programa obrazovanja odraslih za zanimanja: pomocni kuvar, konobar, poslasticar, sobarica i recepcioner | [`rjesenje/2007/326351/`](rjesenje/2007/326351/) | in force | 1 | 2007-02-06 | 2007-02-06 |
 | Rješenje o licenciranju organizatora obrazovanja odraslih "Waves" u Budvi za izvođenje programa obrazovanja odraslih za engleski i italijanski jezik | [`rjesenje/2007/326842/`](rjesenje/2007/326842/) | in force | 1 | 2007-12-08 | 2007-12-08 |
 | Rjesenje o licenciranju organizatora obrazovanja odraslih "Institut za estetiku i kozmetiku" - D.O.O. "CHARME UNKUM" u Podgorici za izvodjenje programa obrazovanja odraslih za zanimanje: kozmeticar za njegu lica i tijela | [`rjesenje/2007/326976/`](rjesenje/2007/326976/) | in force | 1 | 2007-04-28 | 2007-04-28 |
+| Rjesenje o licenciranju organizatora obrazovanja odraslih "DOUBLE L - CENTAR ZA STRANE JEZIKE I PREVODJENJE" u Podgorici za edukaciju svih uzrasta u oblasti stranih jezika | [`rjesenje/2007/327756/`](rjesenje/2007/327756/) | amended, not consolidated | 1 | 2007-02-06 | 2007-02-06 |
 | Rješenje, broj: 01-1218 | [`rjesenje/2007/398012/`](rjesenje/2007/398012/) | in force | 1 | 2026-10-15 | 2026-10-15 |
 | Rjesenje o razrjesenju sa duznosti sefa kabineta - savjetnika Predsjednika Crne Gore | [`rjesenje/2008/291602/`](rjesenje/2008/291602/) | in force | 1 | 2008-05-23 | 2008-05-23 |
 | Rjesenje o izdavanju licence za rad Privatnoj ustanovi Auto - skoli "Marvel" - Tivat | [`rjesenje/2008/297418/`](rjesenje/2008/297418/) | in force | 1 | 2008-09-27 | 2008-09-27 |
@@ -30331,6 +30391,7 @@
 | Rješenje o razrješenju predsjednice Savjeta za predstavke i pritužbe | [`rjesenje/2013/315203/`](rjesenje/2013/315203/) | in force | 1 | 2013-08-08 | 2013-08-08 |
 | Rješenje o izdavanju licence za rad Agenciji za ljekove i medicinska sredstva, sa sjedištem u Podgorici, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2013/315926/`](rjesenje/2013/315926/) | in force | 1 | 2013-03-18 | 2013-03-18 |
 | Rješenje o izmjeni Rješenja o imenovanju Savjeta OJU "Muzeji" | [`rjesenje/2013/316239/`](rjesenje/2013/316239/) | in force | 1 | 2013-07-12 | 2013-07-12 |
+| Rješenje o izmjeni i dopuni Rješenja o obrazovanju Savjeta Diplomatske akademije | [`rjesenje/2013/316387/`](rjesenje/2013/316387/) | amended, not consolidated | 1 | 2013-03-08 | 2013-03-08 |
 | Rješenje o dopuni licence za rad Univerzitetu Crne Gore za postdiplomski specijalistički primijenjeni studijski program "Sportski menadžment", na Fakultetu za sport i fizičko vaspitanje u Nikšiću | [`rjesenje/2013/317072/`](rjesenje/2013/317072/) | amending act | 1 | 2013-09-10 | 2013-09-10 |
 | Rješenje Broj: 0101-470/1 | [`rjesenje/2013/317207/`](rjesenje/2013/317207/) | in force | 1 | 2013-08-08 | 2013-08-08 |
 | Rješenje, broj: 178 | [`rjesenje/2013/317232/`](rjesenje/2013/317232/) | in force | 1 | 2013-02-19 | 2013-02-19 |
@@ -30572,6 +30633,7 @@
 | Rješenje o imenovanju jednog člana Odbora za društvene djelatnosti | [`rjesenje/2015/310121/`](rjesenje/2015/310121/) | in force | 1 | 2015-05-29 | 2015-05-29 |
 | Rješenje o razrješenju člana Odbora direktora doo "Vodovod i kanalizacija" Budva | [`rjesenje/2015/310151/`](rjesenje/2015/310151/) | in force | 1 | 2015-10-22 | 2015-10-22 |
 | Rješenje o razrješenju i imenovanju člana Odbora za turizam i privredni razvoj Skupštine opštine Herceg Novi | [`rjesenje/2015/310402/`](rjesenje/2015/310402/) | in force | 1 | 2015-12-18 | 2015-12-18 |
+| Rješenje kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2015/310434/`](rjesenje/2015/310434/) | amended, not consolidated | 1 | 2015-06-05 | 2015-06-05 |
 | Rješenje o licenciranju | [`rjesenje/2015/310435/`](rjesenje/2015/310435/) | in force | 1 | 2015-11-04 | 2015-11-04 |
 | Rješenje, Broj: 0101-202/1 | [`rjesenje/2015/310485/`](rjesenje/2015/310485/) | in force | 1 | 2015-05-25 | 2015-05-25 |
 | Rješenje o imenovanju člana Odbora direktora doo "Sportsko rekreativni centar" Budva | [`rjesenje/2015/310541/`](rjesenje/2015/310541/) | in force | 1 | 2015-10-22 | 2015-10-22 |
@@ -30942,6 +31004,7 @@
 | Rješenje o imenovanju Odbora direktora DOO "Parking servis" Budva | [`rjesenje/2017/308907/`](rjesenje/2017/308907/) | in force | 1 | 2017-02-07 | 2017-02-07 |
 | Rješenje o imenovanju Žirija za dodjelu Nagrade "17 Septembar" | [`rjesenje/2017/308938/`](rjesenje/2017/308938/) | in force | 1 | 2017-06-29 | 2017-06-29 |
 | Rješenje o razrješenju člana savjeta Javne ustanove "Grad teatar" Budva | [`rjesenje/2017/309142/`](rjesenje/2017/309142/) | in force | 1 | 2017-10-10 | 2017-10-10 |
+| Rješenje o imenovanju opštinske izborne komisije | [`rjesenje/2017/309167/`](rjesenje/2017/309167/) | amended, not consolidated | 1 | 2017-02-07 | 2017-02-07 |
 | Rješenje o razrješenju jedne članice Odbora za planiranje i uređenje prostora i komunalno stambenu djelatnost | [`rjesenje/2017/309412/`](rjesenje/2017/309412/) | in force | 1 | 2017-04-13 | 2017-04-13 |
 | Rješenje o izdavanju licence Privatnoj predškolskoj ustanovi "Kockica", Podgorica | [`rjesenje/2017/309596/`](rjesenje/2017/309596/) | in force | 1 | 2017-05-08 | 2017-05-08 |
 | Rješenje o donesenim crnogorskim standardima i srodnim dokumentima | [`rjesenje/2017/309600/`](rjesenje/2017/309600/) | in force | 1 | 2017-12-18 | 2017-12-18 |
@@ -31547,6 +31610,7 @@
 | Rješenje o standardu zanimanja tehničar/tehničarka prodaje u veleprodaji | [`rjesenje/2019/332690/`](rjesenje/2019/332690/) | in force | 1 | 2019-04-09 | 2019-04-09 |
 | Rješenje o davanju saglasnosti Vaterpolo klubu "Budva- Bdvanska rivijera" za davanje u zakup poslovnog prostora | [`rjesenje/2019/375124/`](rjesenje/2019/375124/) | in force | 1 | 2019-01-23 | 2019-01-23 |
 | Rješenje o davanju saglasnosti na Odluku o imenovanju izvršnog direktora d.o.o. "Sportsko rekreativni centar Budva" | [`rjesenje/2019/375136/`](rjesenje/2019/375136/) | in force | 1 | 2018-12-27 | 2018-12-27 |
+| Rješenje o izmjeni i dopuni rješenja o imenovanju Opštinske izborne komisije | [`rjesenje/2019/375139/`](rjesenje/2019/375139/) | amended, not consolidated | 1 | 2018-12-28 | 2018-12-28 |
 | Rješenje o razrješenju i imenovanju člana Odbora za turizam i privredni razvoj | [`rjesenje/2019/375140/`](rjesenje/2019/375140/) | in force | 1 | 2018-12-24 | 2018-12-24 |
 | Rješenje broj 10-715/1 | [`rjesenje/2019/375142/`](rjesenje/2019/375142/) | in force | 1 | 2018-12-27 | 2018-12-27 |
 | Rješenje o imenovanju člana Odbora direktora društva sa ganičenom odgovornošću "Akademija znanja" Budva | [`rjesenje/2019/375146/`](rjesenje/2019/375146/) | in force | 1 | 2018-12-28 | 2018-12-28 |
@@ -31584,6 +31648,8 @@
 | Rješenje o imenovanju savjeta javne ustanove zavičajni muzej Pljevlja | [`rjesenje/2019/378524/`](rjesenje/2019/378524/) | in force | 1 | 2019-04-01 | 2019-04-01 |
 | Rješenje o imenovanju odbora direktora doo "Vodovod"Pljevlja | [`rjesenje/2019/378531/`](rjesenje/2019/378531/) | in force | 1 | 2019-04-01 | 2019-04-01 |
 | Rješenje o imenovanju savjeta javne ustanove umjetnička galerija "Vitomir Srbljanović" Pljevlja | [`rjesenje/2019/378558/`](rjesenje/2019/378558/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Rješenje o imenovanju odbora direktora doo "Lokalni putevi" Pljevlja | [`rjesenje/2019/378561/`](rjesenje/2019/378561/) | amended, not consolidated | 1 | 2019-04-01 | 2019-04-01 |
+| Rješenje o imenovanju odbora direktora doo "Grijanje"Pljevlja | [`rjesenje/2019/378565/`](rjesenje/2019/378565/) | amended, not consolidated | 1 | 2019-04-01 | 2019-04-01 |
 | Rješenje o imenovanju savjeta Javne ustanove narodna biblioteka "Stevan Samardžić" Pljevlja | [`rjesenje/2019/378587/`](rjesenje/2019/378587/) | in force | 1 | 2019-04-01 | 2019-04-01 |
 | Rješenje o imenovanju odbora direktora doo "Čistoća" Pljevlja | [`rjesenje/2019/378602/`](rjesenje/2019/378602/) | in force | 1 | 2019-04-01 | 2019-04-01 |
 | Rješenje o imenovanju predsjednice Odbora za Statut i propise | [`rjesenje/2019/378866/`](rjesenje/2019/378866/) | in force | 1 | 2019-03-29 | 2019-03-29 |
@@ -31883,6 +31949,7 @@
 | Rješenje o izdavanju licence Javnoj ustanovi Škola za osnovno muzičko obrazovanje, Kolašin, za područnu ustanovu Mojkovac | [`rjesenje/2020/328094/`](rjesenje/2020/328094/) | in force | 1 | 2020-10-05 | 2020-10-05 |
 | Rješenje o standardu zanimanja autoperač- podmazivač | [`rjesenje/2020/328165/`](rjesenje/2020/328165/) | in force | 1 | 2020-06-08 | 2020-06-08 |
 | Rješenje o standardu zanimanja pomoćnik/pomoćnica mehaničara motornih vozila | [`rjesenje/2020/328218/`](rjesenje/2020/328218/) | in force | 1 | 2020-06-08 | 2020-06-08 |
+| Rješenje o izmjenama Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2020/328325/`](rjesenje/2020/328325/) | amended, not consolidated | 1 | 2020-03-13 | 2020-03-13 |
 | Rješenje o izdavanju licence Javnoj ustanovi Srednja ekonomska škola "Mirko Vešović", iz Podgorice | [`rjesenje/2020/328489/`](rjesenje/2020/328489/) | in force | 1 | 2020-05-13 | 2020-05-13 |
 | Rješenje o izdavanju licence Javnoj ustanovi škola za osnovno muzičko obrazovanje, Bijelo Polje, za područnu ustanovu Rožaje | [`rjesenje/2020/328620/`](rjesenje/2020/328620/) | in force | 1 | 2020-10-05 | 2020-10-05 |
 | Rješenje o davanju saglasnosti za ustanovljavanje službenosti | [`rjesenje/2020/328666/`](rjesenje/2020/328666/) | in force | 1 | 2020-08-08 | 2020-08-08 |
@@ -31973,8 +32040,11 @@
 | Rješenje o davanju saglasnosti na Program rada i finansijski plan d.o.o. "Parking servis" Budva | [`rjesenje/2021/309986/`](rjesenje/2021/309986/) | in force | 1 | 2021-03-11 | 2021-03-11 |
 | Rješenje o razrješenju članova Skupštine doo "Vodacom" | [`rjesenje/2021/310076/`](rjesenje/2021/310076/) | in force | 1 | 2021-04-12 | 2021-04-12 |
 | Rješenje o imenovanju VD Sekretarke Skupštine Opštine Kotor | [`rjesenje/2021/310080/`](rjesenje/2021/310080/) | in force | 1 | 2021-08-16 | 2021-08-16 |
+| Rješenje o dopuni Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2021/310085/`](rjesenje/2021/310085/) | amended, not consolidated | 1 | 2021-09-07 | 2021-09-07 |
 | Rješenje o imenovanju dvije članice Upravnog odbora Javnog preduzeća Sportski centar "Nikšić" | [`rjesenje/2021/310269/`](rjesenje/2021/310269/) | in force | 1 | 2021-09-10 | 2021-09-10 |
+| Rješenje o imenovanju člana Savjeta OJU "Muzeji" Kotor | [`rjesenje/2021/310397/`](rjesenje/2021/310397/) | amended, not consolidated | 1 | 2021-08-18 | 2021-08-18 |
 | Rješenje o standardu zanimanja sobar/sobarica | [`rjesenje/2021/310477/`](rjesenje/2021/310477/) | in force | 1 | 2021-06-22 | 2021-06-22 |
+| Rješenje o imenovanju članova Skupštine Turističke organizacije Opštine Kotor | [`rjesenje/2021/310557/`](rjesenje/2021/310557/) | amended, not consolidated | 1 | 2021-04-16 | 2021-04-16 |
 | Rješenje o imenovanju članova Odbora direktora d.o.o. ,,Komunalne djelatnosti'' Ulcinj | [`rjesenje/2021/310563/`](rjesenje/2021/310563/) | in force | 1 | 2021-06-26 | 2021-06-26 |
 | Rješenje o standardu zanimanja mašinski tehničar/mašinska tehničarka grijanja, klimatizacije i ventilacije | [`rjesenje/2021/310764/`](rjesenje/2021/310764/) | in force | 1 | 2021-06-22 | 2021-06-22 |
 | Rješenje o imenovanju Odbora direktora Doo "Komunalne usluge" Pljevlja | [`rjesenje/2021/310786/`](rjesenje/2021/310786/) | in force | 1 | 2021-10-12 | 2021-10-12 |
@@ -31987,6 +32057,7 @@
 | Rješenje o imenovanju predsjednika i članova pravnog odbora JU Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju"- "Biseri" Budva | [`rjesenje/2021/311145/`](rjesenje/2021/311145/) | in force | 1 | 2021-03-11 | 2021-03-11 |
 | Rješenje o povučenim crnogorskim standardima i srodnim dokumentima | [`rjesenje/2021/311214/`](rjesenje/2021/311214/) | in force | 1 | 2021-07-01 | 2021-07-01 |
 | Rješenje o izdavanju licence Privatnoj ustanovi za učenje stranih jezika "AuraA centar" iz Budve | [`rjesenje/2021/311215/`](rjesenje/2021/311215/) | in force | 1 | 2021-01-27 | 2021-01-27 |
+| Rješenje o imenovanju Savjeta za zaštitu životne sredine | [`rjesenje/2021/311216/`](rjesenje/2021/311216/) | amended, not consolidated | 1 | 2021-01-20 | 2021-01-20 |
 | Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Herceg Novi | [`rjesenje/2021/311374/`](rjesenje/2021/311374/) | in force | 1 | 2021-09-22 | 2021-09-22 |
 | Rješenje broj: 10-040/21-475/1 | [`rjesenje/2021/311405/`](rjesenje/2021/311405/) | in force | 1 | 2021-07-12 | 2021-07-12 |
 | Rješenje o imenovanju Žirija za dodjelu nagrade "21. Novembar" | [`rjesenje/2021/311442/`](rjesenje/2021/311442/) | in force | 1 | 2021-11-09 | 2021-11-09 |
@@ -32034,6 +32105,7 @@
 | Rješenje o imenovanju v.d. izvršnog direktora društva sa ograničenom odgovornošću Regionalni edukativni centar za održivi razvoj i poljoprivredu za sjevernu regiju Crne Gore sa sjedištem u Andrijevici | [`rjesenje/2021/317794/`](rjesenje/2021/317794/) | in force | 1 | 2021-03-30 | 2021-03-30 |
 | Rješenje o imenovanju članova Savjeta OJU "Muzeji" Kotor | [`rjesenje/2021/317866/`](rjesenje/2021/317866/) | in force | 1 | 2021-01-20 | 2021-01-20 |
 | Rješenje o razrješenju članice i imenovanju člana Odbora za međuopštinsku i međunarodnu saradnju | [`rjesenje/2021/317949/`](rjesenje/2021/317949/) | in force | 1 | 2021-09-10 | 2021-09-10 |
+| Rješenje o dopuni Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2021/318252/`](rjesenje/2021/318252/) | amended, not consolidated | 1 | 2021-10-25 | 2021-10-25 |
 | Rješenje o standardu zanimanja stolar/stolarka za namještaj | [`rjesenje/2021/318253/`](rjesenje/2021/318253/) | in force | 1 | 2021-06-22 | 2021-06-22 |
 | Rješenje o imenovanju Savjeta za bezbijednost saobraćaja | [`rjesenje/2021/318387/`](rjesenje/2021/318387/) | in force | 1 | 2021-04-12 | 2021-04-12 |
 | Rješenje o imenovanju Odbora za planiranje i uređenje prostora i kominalno stambenu djelatnost | [`rjesenje/2021/318676/`](rjesenje/2021/318676/) | in force | 1 | 2021-01-20 | 2021-01-20 |
@@ -32051,6 +32123,7 @@
 | Rješenje o razrješenju člana Odbora za izbor i imenovanja | [`rjesenje/2021/320030/`](rjesenje/2021/320030/) | in force | 1 | 2021-02-22 | 2021-02-22 |
 | Rješenje o standardu zanimanja medicinski tehničar/medicinska tehničarka u patološkoj laboratoriji | [`rjesenje/2021/320031/`](rjesenje/2021/320031/) | in force | 1 | 2021-06-22 | 2021-06-22 |
 | Rješenje o izdavanju licence Institutu za javno zdravlje, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2021/320071/`](rjesenje/2021/320071/) | in force | 1 | 2021-07-29 | 2021-07-29 |
+| Rješenje o imenovanju članova Odbora direktora doo "Vodovod i kanalizacija Kotor" | [`rjesenje/2021/320096/`](rjesenje/2021/320096/) | amended, not consolidated | 1 | 2021-01-20 | 2021-01-20 |
 | Rješenje o razrješenju člana Upravnog odbora Javna ustanova "Dnevni centar za djecu i omladinu sa smetnjama i teškoćama u razvoju "Biseri" Budva | [`rjesenje/2021/320182/`](rjesenje/2021/320182/) | in force | 1 | 2021-07-12 | 2021-07-12 |
 | Rješenje o izdavanju licence Privatnoj ustanovi Obrazovni centar "British International School Arcadia Academy ", Kotor | [`rjesenje/2021/320212/`](rjesenje/2021/320212/) | in force | 1 | 2021-10-18 | 2021-10-18 |
 | Rješenje o imenovanju predsjednika i članova Savjeta JU "Narodna biblioteka" Budve | [`rjesenje/2021/320372/`](rjesenje/2021/320372/) | in force | 1 | 2021-03-11 | 2021-03-11 |
@@ -32117,6 +32190,7 @@
 | Rješenje o standardu zanimanja mašinski tehničar/mašinska tehničarka sistema iz obnovljivih izvora energije | [`rjesenje/2021/331776/`](rjesenje/2021/331776/) | in force | 1 | 2021-06-22 | 2021-06-22 |
 | Rješenje o davanju saglasnosti na Programe rada d.o.o. ,,Komunalno "- Budva za 2021. godinu Program održavanja čistoće javnih površina br. 01-2175 od 28.04.2021. godine, Program održavanja i rekonstrukcije javnih zelenih površina br. 01-2176 od 28.04.2021. godine, Program održavanja javne rasvjete na teritoriji opštine Budva br. 01-2177 od 28.04.2021. godine, Planirane troškove skloništa za napuštene životinje i troškovi dezinsekcije za 2021. godinu br. 01-2178 od 28.04.2021. godine | [`rjesenje/2021/332424/`](rjesenje/2021/332424/) | in force | 1 | 2021-07-12 | 2021-07-12 |
 | Rješenje o usklađivanju naknade za korišćenje građevinskog zemljišta za 2018, 2019 i 2020. godinu | [`rjesenje/2021/332502/`](rjesenje/2021/332502/) | in force | 1 | 2021-04-26 | 2021-04-26 |
+| Rješenje o imenovanju odbornika koji će u ime Predsjednika Opštine prisustvovati vjenčanjima | [`rjesenje/2021/332524/`](rjesenje/2021/332524/) | amended, not consolidated | 1 | 2021-01-20 | 2021-01-20 |
 | Rješenje o izmjeni i dopuni Rješenja o određivanju odbornika Skupštine opštine Budva koji će prisustvovati pri sklapanju braka ("Službeni list CG-Opštinski propisi", 43/20) | [`rjesenje/2021/333716/`](rjesenje/2021/333716/) | amending act | 1 | 2021-03-11 | 2021-03-11 |
 | Rješenje o izmjenama Rješenja o imenovanju Odbora direktora d.o.o. "Grijanje" Pljevlja | [`rjesenje/2021/339481/`](rjesenje/2021/339481/) | in force | 1 | 2021-04-22 | 2021-04-22 |
 | Rješenje o izmjenama Rješenja o imenovanju Savjeta JU Narodna biblioteka "Stevan Samardžić" Pljevlja | [`rjesenje/2021/339482/`](rjesenje/2021/339482/) | in force | 1 | 2021-04-30 | 2021-04-30 |
@@ -32160,6 +32234,7 @@
 | Rješenje o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću " Otpadne vode " Budva | [`rjesenje/2022/293646/`](rjesenje/2022/293646/) | amending act | 1 | 2021-12-31 | 2021-12-31 |
 | Rješenje o imenovanju predsjednika i članova Odbora za planiranje prostora i komunalno stambenu djelatnost | [`rjesenje/2022/293690/`](rjesenje/2022/293690/) | in force | 1 | 2022-06-23 | 2022-06-23 |
 | Rješenje, broj: 10-040/22-453/1 | [`rjesenje/2022/293729/`](rjesenje/2022/293729/) | in force | 1 | 2022-09-06 | 2022-09-06 |
+| Rješenje o dopuni Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na univerzitetu Crne Gore | [`rjesenje/2022/293764/`](rjesenje/2022/293764/) | amended, not consolidated | 1 | 2022-04-27 | 2022-04-27 |
 | Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola "Danilo Kiš", Budva | [`rjesenje/2022/293766/`](rjesenje/2022/293766/) | in force | 1 | 2022-03-02 | 2022-03-02 |
 | Rješenje o izdavanju licence za rad Privatnoj predškolskoj ustanovi "Mandarina i papagaj", Podgorica | [`rjesenje/2022/293842/`](rjesenje/2022/293842/) | in force | 1 | 2022-06-30 | 2022-06-30 |
 | Rješenje o prestanku mandata člana Savjeta za razvoj seoskog područja | [`rjesenje/2022/293881/`](rjesenje/2022/293881/) | in force | 1 | 2022-06-01 | 2022-06-01 |
@@ -32205,6 +32280,7 @@
 | Rješenje o imenovanju dva člana Odbora za izbor i imenovanja Skupštine Prijestonice Cetinje | [`rjesenje/2022/313662/`](rjesenje/2022/313662/) | in force | 1 | 2022-08-25 | 2022-08-25 |
 | Rješenje o imenovanju članova Upravnog odbora Ustanove ,,Radnički univerzitet’’ Herceg Novi | [`rjesenje/2022/314116/`](rjesenje/2022/314116/) | in force | 1 | 2022-04-07 | 2022-04-07 |
 | Rješenje o standardu zanimanja tehničar/tehničarka industrije aluminijuma | [`rjesenje/2022/314150/`](rjesenje/2022/314150/) | in force | 1 | 2022-06-16 | 2022-06-16 |
+| Rješenje o određivanju odbornika Skupštine Prijestonice Cetinje koji će prisustvovati sklapanju braka i zaključenju životnog partnerstva lica istog pola | [`rjesenje/2022/314165/`](rjesenje/2022/314165/) | amended, not consolidated | 1 | 2022-06-08 | 2022-06-08 |
 | Rješenje o izdavanju licence Javnoj ustanovi Srednja ekonomsko-ugostiteljska škola, Bar | [`rjesenje/2022/314177/`](rjesenje/2022/314177/) | in force | 1 | 2022-03-02 | 2022-03-02 |
 | Rješenje o imenovanju dva člana Odbora za društvene djelatnosti Skupštine Prijestonice Cetinje | [`rjesenje/2022/314598/`](rjesenje/2022/314598/) | in force | 1 | 2022-08-25 | 2022-08-25 |
 | Rješenje o imenovanju Odbora za izbor i imenovanja Skupštine Prijestonice Cetinje | [`rjesenje/2022/314603/`](rjesenje/2022/314603/) | in force | 1 | 2022-02-28 | 2022-02-28 |
@@ -32214,6 +32290,7 @@
 | Rješenje o imenovanju člana Vijeća za nacionalnu bezbjednost | [`rjesenje/2022/315183/`](rjesenje/2022/315183/) | in force | 1 | 2022-10-27 | 2022-10-27 |
 | Rješenje o izdavanju licence Privatnoj ustanovi organizatoru obrazovanja odraslih "Durmitor" iz Bijelog Polja | [`rjesenje/2022/315338/`](rjesenje/2022/315338/) | in force | 1 | 2022-09-12 | 2022-09-12 |
 | Rješenje o imenovanju predsjednika i članova Odbora za izbor i imenovanje | [`rjesenje/2022/315435/`](rjesenje/2022/315435/) | in force | 1 | 2022-06-16 | 2022-06-16 |
+| Rješenje o imenovanju Savjeta Javne ustanove "Polimski muzej" Berane | [`rjesenje/2022/315467/`](rjesenje/2022/315467/) | amended, not consolidated | 1 | 2022-10-31 | 2022-10-31 |
 | Rješenje o imenovanju člana Savjeta za razvoj seoskog područja | [`rjesenje/2022/315802/`](rjesenje/2022/315802/) | in force | 1 | 2022-08-25 | 2022-08-25 |
 | Rješenje o standardu zanimanja tehničar/tehničarka industrije čelika | [`rjesenje/2022/315822/`](rjesenje/2022/315822/) | in force | 1 | 2022-06-16 | 2022-06-16 |
 | Rješenje o izmjeni Rješenja o imenovanju predsjednika Odbora za vjerska pitanja | [`rjesenje/2022/316050/`](rjesenje/2022/316050/) | in force | 1 | 2022-05-25 | 2022-05-25 |
@@ -32221,9 +32298,11 @@
 | Rješenje o dopuni licence Fakultetu za pomorstvo i turizam, Bar, Univerzitet "Adriatik" | [`rjesenje/2022/316078/`](rjesenje/2022/316078/) | amending act | 1 | 2022-07-04 | 2022-07-04 |
 | Rješenje o razrješenju i imenovanju člana Odbora za planiranje i uređenje prostora i komunalno- stambenu djelatnost | [`rjesenje/2022/316332/`](rjesenje/2022/316332/) | in force | 1 | 2022-03-24 | 2022-03-24 |
 | Rješenje o davanju saglasnosti na Odluku o imenovanju izvršnog direktora D.O.O. "Mediteranski sportski centar" Budva | [`rjesenje/2022/316927/`](rjesenje/2022/316927/) | in force | 1 | 2022-09-06 | 2022-09-06 |
+| Rješenje o imenovanju Savjeta Javne ustanove "Centar za kulturu" Berane | [`rjesenje/2022/317088/`](rjesenje/2022/317088/) | amended, not consolidated | 1 | 2022-10-31 | 2022-10-31 |
 | Rješenje o davanju saglasnosti na Odluku o osnivanju Mjesne zajednice "Podkošljun" | [`rjesenje/2022/317129/`](rjesenje/2022/317129/) | in force | 1 | 2022-06-08 | 2022-06-08 |
 | Rješenje o priznavanju licence Javnoj ustanovi Dom učenika i studenata "Spasić-Mašera" Kotor | [`rjesenje/2022/317140/`](rjesenje/2022/317140/) | in force | 1 | 2022-03-14 | 2022-03-14 |
 | Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Rožaje | [`rjesenje/2022/317349/`](rjesenje/2022/317349/) | in force | 1 | 2022-03-02 | 2022-03-02 |
+| Rješenje o izmjeni Rješenja o imenovanju Savjeta za zaštitu životne sredine | [`rjesenje/2022/317443/`](rjesenje/2022/317443/) | amended, not consolidated | 1 | 2022-03-24 | 2022-03-24 |
 | Rješenje o izmjenama Rješenja o imenovan | [`rjesenje/2022/317606/`](rjesenje/2022/317606/) | in force | 1 | 2021-12-30 | 2021-12-30 |
 | Rješenje o imenovanju predsjednika i članova Savjeta za prava lica sa invaliditetom | [`rjesenje/2022/317698/`](rjesenje/2022/317698/) | in force | 1 | 2022-06-23 | 2022-06-23 |
 | Rešenje o davanju saglasnosti na cijene javnog vodosnadbijevanja, prihvatanje i odvođenje komunalnih otpadnih voda, prečišćavanje komunalnih otpadnih voda, kao i za crpljenje, odvoz i zbrinjavanje otpadnih voda iz septičkih jama za 2022. godinu | [`rjesenje/2022/318217/`](rjesenje/2022/318217/) | in force | 1 | 2022-04-14 | 2022-04-14 |
@@ -32345,6 +32424,7 @@
 | Rješenje o imenovanju izvršnog direktora D.O.O. "Parking servis" Berane | [`rjesenje/2022/332314/`](rjesenje/2022/332314/) | in force | 1 | 2022-08-12 | 2022-08-12 |
 | Rješenje o razrješenju i imenovanju člana Upravnog odbora Javne ustanove Dnevni centar za djecu sa smetnjama u razvoju i osobe sa invaliditetom Nikšić | [`rjesenje/2022/332527/`](rjesenje/2022/332527/) | in force | 1 | 2022-06-17 | 2022-06-17 |
 | Rješenje o postavljenju generalnog direktora Direktorata za normativno-pravne poslove, kadrovske i opšte poslove, drugostepeni postupak i nadzor državnih organa u Ministarstvu prosvjete, nauke, kulture i sporta | [`rjesenje/2022/332539/`](rjesenje/2022/332539/) | in force | 1 | 2022-02-01 | 2022-02-01 |
+| Rješenje o izmjeni rješenja o određivanju odbornika Skupštine Prijestonice Cetinje koji će prisustvovati sklapanju braka i zaključenju životnog partnerstva lica istog pola | [`rjesenje/2022/332679/`](rjesenje/2022/332679/) | amended, not consolidated | 1 | 2022-12-22 | 2022-12-22 |
 | Rešenje o davanju saglasnosti na Program rada sa finansijskim planom JU Centar za kulturu Žabljak za 2022 godinu | [`rjesenje/2022/332709/`](rjesenje/2022/332709/) | in force | 1 | 2021-12-29 | 2021-12-29 |
 | Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Bar | [`rjesenje/2022/332721/`](rjesenje/2022/332721/) | in force | 1 | 2022-03-07 | 2022-03-07 |
 | Rješenje o davanju saglasnosti na Odluku Odbora direktora Društva sa ograničenom odgovornošću ,,Čistoća'' Herceg Novi o izboru izvršnog direktora | [`rjesenje/2022/340748/`](rjesenje/2022/340748/) | in force | 1 | 2022-04-07 | 2022-04-07 |
@@ -32364,6 +32444,10 @@
 | Rješenje o izboru članova Savjeta za razvoj i zaštitu lokalne samouprave | [`rjesenje/2022/346070/`](rjesenje/2022/346070/) | in force | 1 | 2022-09-13 | 2022-09-13 |
 | Rješenje o imenovanju žirija za dodjelu nagrada i povelje Opštine Herceg Novi | [`rjesenje/2022/346837/`](rjesenje/2022/346837/) | in force | 1 | 2022-09-13 | 2022-09-13 |
 | Rješenje o razrješenju i imenovanju člana Savjeta za davanje predloga naziva naselja, ulica i trgova Skupštine opštine Herceg Novi | [`rjesenje/2022/347296/`](rjesenje/2022/347296/) | in force | 1 | 2022-10-24 | 2022-10-24 |
+| Rješenje o izmjeni Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2022/348073/`](rjesenje/2022/348073/) | amended, not consolidated | 1 | 2022-10-17 | 2022-10-17 |
+| Rješenje o izmjeni Rješenja o imenovanju Savjeta za zaštitu životne sredine | [`rjesenje/2022/348075/`](rjesenje/2022/348075/) | amended, not consolidated | 1 | 2022-11-29 | 2022-11-29 |
+| Rješenje o dopuni rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2022/348140/`](rjesenje/2022/348140/) | amended, not consolidated | 1 | 2022-07-04 | 2022-07-04 |
+| Rješenje o izmjeni Rješenja o imenovanju Savjeta za zaštitu životne sredine | [`rjesenje/2022/348918/`](rjesenje/2022/348918/) | amended, not consolidated | 1 | 2022-05-25 | 2022-05-25 |
 | Rješenje o izmjeni Rješenja o imenovanju Odbora za finansije, privredu i razvoj | [`rjesenje/2022/348945/`](rjesenje/2022/348945/) | in force | 1 | 2022-03-24 | 2022-03-24 |
 | Rješenje o razrešenju predsjednika i članova Savjeta Javne ustanove Centar za kulturu Žabljak | [`rjesenje/2023/291387/`](rjesenje/2023/291387/) | in force | 1 | 2022-12-26 | 2022-12-26 |
 | Rješenje o izmjeni Rješenja o imenovanju Opštinske izborne komisije | [`rjesenje/2023/293354/`](rjesenje/2023/293354/) | in force | 1 | 2023-02-08 | 2023-02-08 |
@@ -32398,6 +32482,8 @@
 | Rješenje o imenovanju predsjednika i članova Savjeta Javne ustanove Centar za kulturu Žabljak | [`rjesenje/2023/332073/`](rjesenje/2023/332073/) | in force | 1 | 2022-12-26 | 2022-12-26 |
 | Rješenje o imenovanju Savjeta za ruralni razvoj i poljoprivredu | [`rjesenje/2023/332169/`](rjesenje/2023/332169/) | in force | 1 | 2022-12-29 | 2022-12-29 |
 | Rješenje o izdavanju licence Fakultetu za menadžment Univerziteta Adriatik, Herceg Novi, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2023/332313/`](rjesenje/2023/332313/) | in force | 1 | 2022-12-28 | 2022-12-28 |
+| Rješenje o imenovanju predsjednika i članova Odbora za međuopštinsku i međunarodnu saradnju Skupštine opštine Zeta | [`rjesenje/2023/332364/`](rjesenje/2023/332364/) | amended, not consolidated | 1 | 2022-12-30 | 2022-12-30 |
+| Rješenje o imenovanju predsjednika i članova Odbora za statut i propise Skupštine Opštine Zeta | [`rjesenje/2023/332507/`](rjesenje/2023/332507/) | amended, not consolidated | 1 | 2022-12-30 | 2022-12-30 |
 | Rješenje o izdavanju licence Ekonomskom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2023/332587/`](rjesenje/2023/332587/) | in force | 1 | 2022-10-24 | 2022-10-24 |
 | Rješenje o izdavanju licence Institutu za strateške studije i projekcije, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2023/332616/`](rjesenje/2023/332616/) | in force | 1 | 2022-10-04 | 2022-10-04 |
 | Rješenje o imenovanju Savjeta za vjerska pitanja | [`rjesenje/2023/332820/`](rjesenje/2023/332820/) | in force | 1 | 2022-12-29 | 2022-12-29 |
@@ -32430,6 +32516,7 @@
 | Rješenje o izdavanju licence Javnoj ustanovi Viša stručna škola Policijska akademija, Danilovgrad | [`rjesenje/2023/360181/`](rjesenje/2023/360181/) | in force | 1 | 2023-05-08 | 2023-05-08 |
 | Rješenje o utvrđivanju minimalnog broja bodova potrebnih za upis u gimnaziju i četvorogodišnju stručnu školu za školsku 2023/24. godinu | [`rjesenje/2023/360188/`](rjesenje/2023/360188/) | in force | 1 | 2023-05-17 | 2023-05-17 |
 | Rješenje o izdavanju licence Univerzitetu Donja Gorica, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2023/360213/`](rjesenje/2023/360213/) | in force | 1 | 2023-02-27 | 2023-02-27 |
+| Rješenje o određivanju privremenog graničnog prelaza za pomorski međunarodni putnički saobraćaj na pristaništu u Ulcinju | [`rjesenje/2023/360248/`](rjesenje/2023/360248/) | amended, not consolidated | 1 | 2023-05-26 | 2023-05-26 |
 | Odluka o usklađivanju vrijednosti penzije za jedan lični bod od 1. maja 2023. godine | [`rjesenje/2023/360262/`](rjesenje/2023/360262/) | in force | 1 | 2023-06-17 | 2023-06-17 |
 | Odluka o usklađivanju nominalnog iznosa najniže penzije od 1. maja 2023. godine | [`rjesenje/2023/360265/`](rjesenje/2023/360265/) | in force | 1 | 2023-06-17 | 2023-06-17 |
 | Rješenje o razrješenju i imenovanju člana Odbora za izbor i imenovanja | [`rjesenje/2023/360388/`](rjesenje/2023/360388/) | in force | 1 | 2023-04-21 | 2023-04-21 |
@@ -32456,6 +32543,7 @@
 | Rješenje o prestanku mandata člana Odbora za finansije i privredni razvoj | [`rjesenje/2023/360608/`](rjesenje/2023/360608/) | in force | 1 | 2023-05-15 | 2023-05-15 |
 | Rješenje o dopuni licence privatnoj predškolskoj ustanovi "Artić Pinokio" - Podgorica | [`rjesenje/2023/360714/`](rjesenje/2023/360714/) | amending act | 1 | 2023-06-12 | 2023-06-12 |
 | Rješenje o dopuni licence Javnoj predškolskoj ustanovi "Boško Buha" − Rožaje | [`rjesenje/2023/360765/`](rjesenje/2023/360765/) | amending act | 1 | 2023-06-21 | 2023-06-21 |
+| Rješenje o dopuni Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2023/360766/`](rjesenje/2023/360766/) | amended, not consolidated | 1 | 2023-06-29 | 2023-06-29 |
 | Rješenje o izdavanju licence Javnoj ustanovi Viša stručna škola "Policijska akademija", Danilovgrad | [`rjesenje/2023/360783/`](rjesenje/2023/360783/) | in force | 1 | 2023-06-30 | 2023-06-30 |
 | Rješenje o izdavanju licence Privatnoj ustanovi organizatoru obrazovanja odraslih "Edukativni centar Arhimed", Podgorica | [`rjesenje/2023/360811/`](rjesenje/2023/360811/) | in force | 1 | 2023-05-29 | 2023-05-29 |
 | Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Vukosava Ivanović - Mašanović" - Bar | [`rjesenje/2023/360832/`](rjesenje/2023/360832/) | in force | 1 | 2023-07-03 | 2023-07-03 |
@@ -32579,6 +32667,7 @@
 | Rješenje o razrješenju članova Biroa za operativnu koordinaciju | [`rjesenje/2023/362949/`](rjesenje/2023/362949/) | in force | 1 | 2023-12-07 | 2023-12-07 |
 | Rješenje o standardu zanimanja restoranski konobar/restoranska konobarica | [`rjesenje/2023/363249/`](rjesenje/2023/363249/) | in force | 1 | 2023-05-03 | 2023-05-03 |
 | Rješenje o standardu zanimanja barista/ baristkinja | [`rjesenje/2023/363256/`](rjesenje/2023/363256/) | in force | 1 | 2023-05-03 | 2023-05-03 |
+| Rješenje o standardu zanimanja igrač/igračica klasičnog baleta | [`rjesenje/2023/363259/`](rjesenje/2023/363259/) | amended, not consolidated | 1 | 2023-12-06 | 2023-12-06 |
 | Rješenje o standardu zanimanja zdravstveni tehničar/zdravstvena tehničarka za rad u predškolskim ustanovama | [`rjesenje/2023/363268/`](rjesenje/2023/363268/) | in force | 1 | 2023-05-03 | 2023-05-03 |
 | Rješenje o izdavanju licence Javnoj predškolskoj ustanovi ,,Eko bajka", Pljevlja | [`rjesenje/2023/363270/`](rjesenje/2023/363270/) | in force | 1 | 2023-04-12 | 2023-04-12 |
 | Rješenje o standardu zanimanja servir/servirka | [`rjesenje/2023/363274/`](rjesenje/2023/363274/) | in force | 1 | 2023-05-03 | 2023-05-03 |
@@ -32657,6 +32746,7 @@
 | Rješenje o izdavanju licence Fakultetu za Crnogorski jezik i književnost, Cetinje, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2024/366670/`](rjesenje/2024/366670/) | in force | 1 | 2024-02-05 | 2024-02-05 |
 | Rješenje o izdavanju licence ustanovi "Center for Finance" d.o.o, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2024/366672/`](rjesenje/2024/366672/) | in force | 1 | 2023-12-27 | 2023-12-27 |
 | Rješenje o izdavanju licence Institutu za ljekove i medicinska sredstva, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2024/366677/`](rjesenje/2024/366677/) | in force | 1 | 2024-01-12 | 2024-01-12 |
+| Rješenje o dopuni Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2024/366683/`](rjesenje/2024/366683/) | amended, not consolidated | 1 | 2024-03-05 | 2024-03-05 |
 | Rešenje o davanju saglasnosti na cijenovnik usluga za javna, opšta i posebna parkirališta | [`rjesenje/2024/366831/`](rjesenje/2024/366831/) | in force | 1 | 2024-02-29 | 2024-02-29 |
 | Rešenje o davanju saglasnosti na imenovanje direktora Stručne službe Turističke organizacije Opštine Žabljak | [`rjesenje/2024/366834/`](rjesenje/2024/366834/) | in force | 1 | 2024-02-29 | 2024-02-29 |
 | Rješenje o razrješenju predsjednika i članova Savjeta Javne ustanove "Muzeji i galerije Budve" | [`rjesenje/2024/366905/`](rjesenje/2024/366905/) | in force | 1 | 2024-02-16 | 2024-02-16 |
@@ -32684,17 +32774,21 @@
 | Rješenje o izdavanju licence Privatnoj ustanovi "Gimnazija Podgorica", iz Podgorice | [`rjesenje/2024/370537/`](rjesenje/2024/370537/) | in force | 1 | 2024-06-20 | 2024-06-20 |
 | Rješenje o izdavanju licence Privatnoj ustanovi Auto škola "Rina", Budva | [`rjesenje/2024/370600/`](rjesenje/2024/370600/) | in force | 1 | 2024-06-05 | 2024-06-05 |
 | Rješenje o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Javno komunalno preduzeće" Zeta | [`rjesenje/2024/371168/`](rjesenje/2024/371168/) | in force | 1 | 2024-06-20 | 2024-06-20 |
+| Rješenje o izmjeni Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2024/371317/`](rjesenje/2024/371317/) | amended, not consolidated | 1 | 2024-07-03 | 2024-07-03 |
 | Rešenje, br: 01-016/24-336 | [`rjesenje/2024/372016/`](rjesenje/2024/372016/) | in force | 1 | 2024-07-11 | 2024-07-11 |
 | Rešenje o davanju saglasnosti na imenovanje izvršne direktorice DOO "Sportski centar Žabljak" Žabljak | [`rjesenje/2024/372040/`](rjesenje/2024/372040/) | in force | 1 | 2024-07-11 | 2024-07-11 |
 | Rešenje o davanju saglasnosti na Odluku o izboru izvršnog direktora DOO "Parking servis Žabljak" Žabljak | [`rjesenje/2024/372062/`](rjesenje/2024/372062/) | in force | 1 | 2024-07-11 | 2024-07-11 |
 | Rješenje o izdavanju dopune Licence Privatnoj ustanovi Obrazovni centar "Boka School International Institution", Herceg Novi | [`rjesenje/2024/372165/`](rjesenje/2024/372165/) | amending act | 1 | 2024-07-04 | 2024-07-04 |
+| Rješenje o izdavanju licence za rad Visokoj medicinskoj školi ICEPS, Kotor | [`rjesenje/2024/372300/`](rjesenje/2024/372300/) | amended, not consolidated | 1 | 2024-07-24 | 2024-07-24 |
 | Rješenje o izdavanju licence Privatnoj ustanovi organizatoru obrazovanja odraslih "Obrazovni centar Speak And Spell", Nikšić | [`rjesenje/2024/372328/`](rjesenje/2024/372328/) | in force | 1 | 2024-06-12 | 2024-06-12 |
 | Rješenje o izdavanju licence Fakultetu za informacione sisteme i tehnologije Univerziteta Donja Gorica, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2024/372447/`](rjesenje/2024/372447/) | in force | 1 | 2024-07-22 | 2024-07-22 |
 | Rješenje o izdavanju licence Javnoj zdravstvenoj ustanovi Kliničkom centru Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2024/372448/`](rjesenje/2024/372448/) | in force | 1 | 2024-07-22 | 2024-07-22 |
 | Rješenje o izdavanju licence Privatnoj ustanovi organizatoru obrazovanja odraslih "Edukativni centar Arhimed", Podgorica | [`rjesenje/2024/372450/`](rjesenje/2024/372450/) | in force | 1 | 2024-07-22 | 2024-07-22 |
 | Rješenje o izdavanju licence Fakultetu za prehrambenu tehnologiju, bezbjednost hrane i ekologiju Univerziteta Donja Gorica, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2024/372458/`](rjesenje/2024/372458/) | in force | 1 | 2024-07-22 | 2024-07-22 |
 | Rješenje o izdavanju licence Mašinskom fakultetu, Univerzitet Crne Gore, Podgorica | [`rjesenje/2024/372463/`](rjesenje/2024/372463/) | in force | 1 | 2024-07-30 | 2024-07-30 |
+| Rješenje o izmjeni rješenja o određivanju odbornika Skupštine Prijestonice Cetinje koji će prisustvovati sklapanju braka i zaključenju životnog partnerstva lica istog pola | [`rjesenje/2024/372472/`](rjesenje/2024/372472/) | amended, not consolidated | 1 | 2024-07-26 | 2024-07-26 |
 | Rješenje o razrješenju člana Savjeta Javne ustanove Narodna biblioteka i čitaonica "Njegoš" Cetinje | [`rjesenje/2024/372475/`](rjesenje/2024/372475/) | in force | 1 | 2024-07-26 | 2024-07-26 |
+| Rješenje o izmjenama i dopunama Rješenja o imenovanju Upravnog odbora JP "Centar za kulturu" Ulcinj | [`rjesenje/2024/372777/`](rjesenje/2024/372777/) | amended, not consolidated | 1 | 2024-07-26 | 2024-07-26 |
 | Rješenje o izmjenama i dopunama Rješenja o imenovanju Upravnog Odbora JP ,,Za očuvanje i zaštitu biodiverziteta, uzgoja i lova divljači i ribolov" Ulcinj | [`rjesenje/2024/372781/`](rjesenje/2024/372781/) | amending act | 1 | 2024-07-26 | 2024-07-26 |
 | Rješenje o izmjenama i dopunama Rješenja o imenovanju Odbora direktora D.O.O. ,,Parking Servis" Ulcinj | [`rjesenje/2024/372786/`](rjesenje/2024/372786/) | amending act | 1 | 2024-07-26 | 2024-07-26 |
 | Rješenje o izmjenama i dopunama Rješenja o imenovanju Odbora direktora D.O.O. ,,Komunalne djelatnosti" Ulcinj | [`rjesenje/2024/372791/`](rjesenje/2024/372791/) | amending act | 1 | 2024-07-26 | 2024-07-26 |
@@ -32774,6 +32868,7 @@
 | Rješenje o razrješenju članova Odbora direktora DOO "Sportsko-rekreativni centar" Budva | [`rjesenje/2025/380935/`](rjesenje/2025/380935/) | in force | 1 | 2025-04-02 | 2025-04-02 |
 | Rješenje, broj: 10-040/25-278/1 | [`rjesenje/2025/380936/`](rjesenje/2025/380936/) | in force | 1 | 2025-04-02 | 2025-04-02 |
 | Rješenje o imenovanju članova Odbora direktora DOO ,,Parking servis Budva" Budva | [`rjesenje/2025/380939/`](rjesenje/2025/380939/) | in force | 1 | 2025-04-02 | 2025-04-02 |
+| Rješenje o određivanju odbornika Skupštine opštine Budva koji će prisustvovati pri sklapanju braka i zaključenju životnog partnerstva lica istog pola | [`rjesenje/2025/380942/`](rjesenje/2025/380942/) | amended, not consolidated | 1 | 2025-04-02 | 2025-04-02 |
 | Rješenje o razrješenju članova Odbora direktora Društva sa ograničenom odgovornošću "Akademija znanja" Budva | [`rjesenje/2025/380944/`](rjesenje/2025/380944/) | in force | 1 | 2025-04-02 | 2025-04-02 |
 | Rješenje, broj: 10-040/25-276/1 | [`rjesenje/2025/380954/`](rjesenje/2025/380954/) | in force | 1 | 2025-04-02 | 2025-04-02 |
 | Rješenje, broj: 10-040/25-273/1 | [`rjesenje/2025/380956/`](rjesenje/2025/380956/) | in force | 1 | 2025-04-02 | 2025-04-02 |
@@ -32808,6 +32903,7 @@
 | Rješenje o izmjeni Rješenja o imenovanju Odbora za planiranje i uređenje prostora i komunalno- stambenu djelatnost | [`rjesenje/2025/381998/`](rjesenje/2025/381998/) | in force | 1 | 2025-05-13 | 2025-05-13 |
 | Rješenje o izmjeni Rješenja o imenovanju Odbora za statut i propise | [`rjesenje/2025/382001/`](rjesenje/2025/382001/) | in force | 1 | 2025-05-13 | 2025-05-13 |
 | Rješenje o utvrđivanju minimalnog broja bodova potrebnih za upis u gimnaziju i četvorogodišnju stručnu školu za školsku 2025/26. godinu | [`rjesenje/2025/382280/`](rjesenje/2025/382280/) | in force | 1 | 2025-05-16 | 2025-05-16 |
+| Rješenje o dopuni Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2025/382282/`](rjesenje/2025/382282/) | amended, not consolidated | 1 | 2025-05-20 | 2025-05-20 |
 | Rješenje o imenovanju Odbora za izbor i imenovanja | [`rjesenje/2025/382838/`](rjesenje/2025/382838/) | in force | 1 | 2025-06-03 | 2025-06-03 |
 | Rješenje o obrazovanju Odbora za izbor i imenovanja Skupštine opštine Herceg Novi | [`rjesenje/2025/382889/`](rjesenje/2025/382889/) | in force | 1 | 2025-06-09 | 2025-06-09 |
 | Rješenje o izdavanju licence Javnoj ustanovi Gimnazija "Panto Mališić", Berane | [`rjesenje/2025/382929/`](rjesenje/2025/382929/) | in force | 1 | 2025-06-02 | 2025-06-02 |
@@ -32865,6 +32961,8 @@
 | Rješenje o imenovanju Žirija za dodjelu nagrade "15. decembar" Opštine Tuzi za 2025. godinu | [`rjesenje/2025/385351/`](rjesenje/2025/385351/) | in force | 1 | 2025-09-29 | 2025-09-29 |
 | Rješenje o izdavanju licence Javnoj ustanovi Muzička škola, Tivat | [`rjesenje/2025/385547/`](rjesenje/2025/385547/) | in force | 1 | 2025-08-22 | 2025-08-22 |
 | Rješenje o izdavanju licence Privatnoj ustanovi auto škola "Rina", Budva | [`rjesenje/2025/385829/`](rjesenje/2025/385829/) | in force | 1 | 2025-10-13 | 2025-10-13 |
+| Rješenje o dopuni Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2025/385833/`](rjesenje/2025/385833/) | amended, not consolidated | 1 | 2025-10-02 | 2025-10-02 |
+| Rješenje o dopuni Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2025/385842/`](rjesenje/2025/385842/) | amended, not consolidated | 1 | 2025-10-21 | 2025-10-21 |
 | Rješenje o imenovanju Žirija za dodjelu nagrade "21. novembar" | [`rjesenje/2025/386225/`](rjesenje/2025/386225/) | in force | 1 | 2025-10-24 | 2025-10-24 |
 | Rješenje o imenovanju članova Skupštine Turističke organizacije Glavnog grada Podgorica | [`rjesenje/2025/386419/`](rjesenje/2025/386419/) | in force | 1 | 2025-11-17 | 2025-11-17 |
 | Rješenje o naknadama za rad Odbora direktora DOO "Komunalno" Budva | [`rjesenje/2025/386486/`](rjesenje/2025/386486/) | in force | 1 | 2025-11-12 | 2025-11-12 |
@@ -32896,6 +32994,7 @@
 | Rješenje o izdavanju licence Javnoj ustanovi Pomorska škola, Kotor | [`rjesenje/2025/387278/`](rjesenje/2025/387278/) | in force | 1 | 2025-06-10 | 2025-06-10 |
 | Rješenje o imenovanju Savjeta za ravnopravnost polova | [`rjesenje/2025/387279/`](rjesenje/2025/387279/) | in force | 1 | 2025-07-10 | 2025-07-10 |
 | Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Čistoća" Herceg Novi | [`rjesenje/2025/387280/`](rjesenje/2025/387280/) | in force | 1 | 2025-10-07 | 2025-10-07 |
+| Rješenje o izmjeni Rješenja o imenovanju Savjeta za davanje predloga naziva, naselja, ulica i trgova | [`rjesenje/2025/387289/`](rjesenje/2025/387289/) | amended, not consolidated | 1 | 2025-03-17 | 2025-03-17 |
 | Rješenje o izdavanju licence Javnoj ustanovi Gimnazija "Miloje Dobrašinović", Bijelo Polje | [`rjesenje/2025/387327/`](rjesenje/2025/387327/) | in force | 1 | 2025-06-03 | 2025-06-03 |
 | Rješenje o izmjeni Rješenja o imenovanju Savjeta za rodnu ravnopravnost | [`rjesenje/2025/387336/`](rjesenje/2025/387336/) | in force | 1 | 2025-08-06 | 2025-08-06 |
 | Rješenje o izmjeni Rješenja o imenovanju Savjeta za zaštitu životne sredine | [`rjesenje/2025/387344/`](rjesenje/2025/387344/) | in force | 1 | 2025-03-17 | 2025-03-17 |
@@ -32904,10 +33003,12 @@
 | Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Herceg Novi | [`rjesenje/2025/387380/`](rjesenje/2025/387380/) | in force | 1 | 2025-10-07 | 2025-10-07 |
 | Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola, Bijelo Polje | [`rjesenje/2025/387396/`](rjesenje/2025/387396/) | in force | 1 | 2025-06-09 | 2025-06-09 |
 | Rješenje o izdavanju licence Javnoj ustanovi Srednja mješovita škola, Andrijevica | [`rjesenje/2025/387430/`](rjesenje/2025/387430/) | in force | 1 | 2025-05-30 | 2025-05-30 |
+| Rješenje o izmjeni Rješenja o imenovanju Odbora za međuopštinsku i međunarodnu saradnju | [`rjesenje/2025/387445/`](rjesenje/2025/387445/) | amended, not consolidated | 1 | 2025-03-17 | 2025-03-17 |
 | Rješenje o izmjeni Rješenja o imenovanju Odbora za planiranje prostora i stambeno-komunalne djelatnosti | [`rjesenje/2025/387468/`](rjesenje/2025/387468/) | in force | 1 | 2025-08-06 | 2025-08-06 |
 | Rješenje o imenovanju člana Savjeta Javne ustanove "Polimski muzej" Berane | [`rjesenje/2025/387495/`](rjesenje/2025/387495/) | in force | 1 | 2025-03-19 | 2025-03-19 |
 | Rješenje o izdavanju licence Javnoj ustanovi Prva srednja stručna škola, Nikšić | [`rjesenje/2025/387498/`](rjesenje/2025/387498/) | in force | 1 | 2025-05-15 | 2025-05-15 |
 | Rješenje o imenovanju članova Odbora direktora "Parking servis Herceg Novi" DOO Herceg Novi | [`rjesenje/2025/387516/`](rjesenje/2025/387516/) | in force | 1 | 2025-10-07 | 2025-10-07 |
+| Rješenje o izmjeni Rješenja o imenovanju Odbora za društvene djelatnosti | [`rjesenje/2025/387518/`](rjesenje/2025/387518/) | amended, not consolidated | 1 | 2025-03-17 | 2025-03-17 |
 | Rješenje o izboru predstavnika Opštine Herceg Novi u Skupštini Turističke organizacije Opštine Herceg Novi | [`rjesenje/2025/387521/`](rjesenje/2025/387521/) | in force | 1 | 2025-10-07 | 2025-10-07 |
 | Rješenje o imenovanju Savjeta za zaštitu životne sredine | [`rjesenje/2025/387529/`](rjesenje/2025/387529/) | in force | 1 | 2025-07-10 | 2025-07-10 |
 | Rješenje o izmjeni Rješenja o određivanju odbornika koji će prisustvovati sklapanju braka | [`rjesenje/2025/387532/`](rjesenje/2025/387532/) | in force | 1 | 2025-03-17 | 2025-03-17 |
@@ -32923,6 +33024,7 @@
 | Rješenje o izmjeni Rješenja o imenovanju Savjeta za rodnu ravnopravnost | [`rjesenje/2025/387668/`](rjesenje/2025/387668/) | in force | 1 | 2025-08-06 | 2025-08-06 |
 | Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću - Društva za izgradnju vodovodne i kanalizacione infrastrukture u Opštini Herceg Novi | [`rjesenje/2025/387683/`](rjesenje/2025/387683/) | in force | 1 | 2025-10-07 | 2025-10-07 |
 | Rješenje o imenovanju predsjednika i članova Odbora za budžet, privredu i razvoj | [`rjesenje/2025/387742/`](rjesenje/2025/387742/) | in force | 1 | 2025-02-14 | 2025-02-14 |
+| Rješenje o imenovanju predsjednika i članova Odbora za međuopštinsku i međunarodnu saradnju | [`rjesenje/2025/387754/`](rjesenje/2025/387754/) | amended, not consolidated | 1 | 2025-02-14 | 2025-02-14 |
 | Rješenje o imenovanju Odbora za Statut i propise | [`rjesenje/2025/387759/`](rjesenje/2025/387759/) | in force | 1 | 2025-07-10 | 2025-07-10 |
 | Rješenje o imenovanju članova Odbora direktora Društva sa ograničenom odgovornošću "Agencija za izgradnju i razvoj Herceg Novi" | [`rjesenje/2025/387791/`](rjesenje/2025/387791/) | in force | 1 | 2025-10-07 | 2025-10-07 |
 | Rješenje, broj: 10-040/25-457/1 | [`rjesenje/2025/387801/`](rjesenje/2025/387801/) | in force | 1 | 2025-07-11 | 2025-07-11 |
@@ -32940,6 +33042,7 @@
 | Rješenje o izdavanju licence Javnoj ustanovi Srednja stručna škola "Vukadin Vukadinović", Berane | [`rjesenje/2025/387935/`](rjesenje/2025/387935/) | in force | 1 | 2025-06-09 | 2025-06-09 |
 | Rješenje o davanju saglasnosti na Odluku o izboru izvršnog direktora DOO "Akademija znanja" Budva | [`rjesenje/2025/387943/`](rjesenje/2025/387943/) | in force | 1 | 2025-07-11 | 2025-07-11 |
 | Rješenje o razrješenju Odbora direktora Društva sa ograničenom odgovornošću "Autobuska stanica" Nikšić | [`rjesenje/2025/387945/`](rjesenje/2025/387945/) | in force | 1 | 2025-08-11 | 2025-08-11 |
+| Rješenje o imenovanju predsjednika i članova Savjeta za davanje predloga naziva naselja, ulica i trgova | [`rjesenje/2025/387947/`](rjesenje/2025/387947/) | amended, not consolidated | 1 | 2025-02-14 | 2025-02-14 |
 | Rješenje o razrješenju Savjeta Javne ustanove Narodna biblioteka "Njegoš" Nikšić | [`rjesenje/2025/387977/`](rjesenje/2025/387977/) | in force | 1 | 2025-08-11 | 2025-08-11 |
 | Rješenje o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Agencija za projektovanje i planiranje" | [`rjesenje/2025/387988/`](rjesenje/2025/387988/) | in force | 1 | 2025-08-11 | 2025-08-11 |
 | Rješenje o imenovanju Odbora direktora Društva sa ograničenom odgovornošću "Autobuska stanica" Nikšić | [`rjesenje/2025/387995/`](rjesenje/2025/387995/) | in force | 1 | 2025-08-11 | 2025-08-11 |
@@ -33008,6 +33111,7 @@
 | Rješenje o naknadi troškova za rad Komisije za odabir projekta valorizacije kulturne baštine na teritoriji Opštine Ulcinj | [`rjesenje/2025/389628/`](rjesenje/2025/389628/) | in force | 1 | 2025-12-31 | 2025-12-31 |
 | Rješenje o naknadi za rad Odbora direktora DOO "Mediteranski sportski centar" Budva | [`rjesenje/2026/389821/`](rjesenje/2026/389821/) | in force | 1 | 2025-12-31 | 2025-12-31 |
 | Rješenje o naknadi za rad Odbora direktora DOO "Sportsko-rekreativni centar" Budva | [`rjesenje/2026/389826/`](rjesenje/2026/389826/) | in force | 1 | 2025-12-31 | 2025-12-31 |
+| Rješenje o izmjeni Rješenja o određivanju odbornika Skupštine opštine Budva koji će prisustvovati pri sklapanju braka i zaključenju životnog partnerstva lica istog pola ("Službeni list CG - Opštinski propisi", broj 15/25) | [`rjesenje/2026/389828/`](rjesenje/2026/389828/) | amended, not consolidated | 1 | 2025-12-31 | 2025-12-31 |
 | Rješenje o imenovanju Komisije za odabir projekata za valorizaciju kulturne baštine | [`rjesenje/2026/389834/`](rjesenje/2026/389834/) | in force | 1 | 2025-12-31 | 2025-12-31 |
 | Rješenje o razrješenju i imenovanju člana Odbora za društvene djalatnosti i međuopštinsku i međunarodnu saradnju | [`rjesenje/2026/389839/`](rjesenje/2026/389839/) | in force | 1 | 2025-12-31 | 2025-12-31 |
 | Rješenje o izdavanju licence Privatnoj ustanovi Auto škola "Lucky driver", Nikšić | [`rjesenje/2026/389877/`](rjesenje/2026/389877/) | in force | 1 | 2026-01-16 | 2026-01-16 |
@@ -33102,7 +33206,9 @@
 | Rješenje o javno važećem obrazovnom programu Nautički tehničar | [`rjesenje/2026/394738/`](rjesenje/2026/394738/) | in force | 1 | 2026-05-20 | 2026-05-20 |
 | Rješenje o javno važećem obrazovnom programu Brodomašinski tehničar | [`rjesenje/2026/394739/`](rjesenje/2026/394739/) | in force | 1 | 2026-05-20 | 2026-05-20 |
 | Rješenje o izdavanju licence Javnoj predškolskoj ustanovi "Ljubica Popović", Podgorica | [`rjesenje/2026/394740/`](rjesenje/2026/394740/) | in force | 1 | 2026-06-03 | 2026-06-03 |
+| Rješenje o izmjeni Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2026/394860/`](rjesenje/2026/394860/) | amended, not consolidated | 1 | 2026-06-04 | 2026-06-04 |
 | Rješenje o izdavanju licence Privatnom produženom boravku "Učitelj Miki", Podgorica | [`rjesenje/2026/394861/`](rjesenje/2026/394861/) | in force | 1 | 2026-06-05 | 2026-06-05 |
+| Rješenje o izmjeni Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2026/394898/`](rjesenje/2026/394898/) | amended, not consolidated | 1 | 2026-06-12 | 2026-06-12 |
 | Rješenje broj:10-040/26-244/1 | [`rjesenje/2026/395107/`](rjesenje/2026/395107/) | in force | 1 | 2026-06-02 | 2026-06-02 |
 | Rješenje o davanju saglasnosti na Odluku o imenovanju direktorice JU Dnevni centar "Biseri" Budva | [`rjesenje/2026/395110/`](rjesenje/2026/395110/) | in force | 1 | 2026-06-02 | 2026-06-02 |
 | Rješenje broj:10-040/26-247/1 | [`rjesenje/2026/395111/`](rjesenje/2026/395111/) | in force | 1 | 2026-06-02 | 2026-06-02 |
@@ -33170,6 +33276,7 @@
 | Rješenje o izdavanju licence Biotehničkom fakultetu Univerziteta Crne Gore, Podgorica, za obavljanje naučnoistraživačke djelatnosti | [`rjesenje/2026/398078/`](rjesenje/2026/398078/) | in force | 1 | 2026-08-27 | 2026-08-27 |
 | Rješenje o izdavanju licence Privatnom produženom boravku "Cool School", Podgorica | [`rjesenje/2026/398210/`](rjesenje/2026/398210/) | in force | 1 | 2026-09-08 | 2026-09-08 |
 | Rješenje o izdavanju licence Privatnoj ustanovi Auto škola "Zebra" Bijelo Polje | [`rjesenje/2026/398315/`](rjesenje/2026/398315/) | in force | 1 | 2026-09-11 | 2026-09-11 |
+| Rješenje o izmjeni Rješenja kojim se utvrđuje broj studenata za upis u prvu godinu studija na Univerzitetu Crne Gore | [`rjesenje/2026/398340/`](rjesenje/2026/398340/) | in force | 1 | 2026-09-17 | 2026-09-17 |
 | Rješenje o utvrđivanju naknada za rad članovima Odbora direktora Društva sa ograničenom odgovornošću "Mediteran reklame" Budva | [`rjesenje/2026/398403/`](rjesenje/2026/398403/) | in force | 1 | 2026-09-30 | 2026-09-30 |
 | Rješenje o imenovanju članova Skupštine Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Herceg Novi | [`rjesenje/2026/398421/`](rjesenje/2026/398421/) | in force | 1 | 2026-09-30 | 2026-09-30 |
 | Rješenje o imenovanju članova Skupštine Društva sa ograničenom odgovornošću "Društva za izgradnju vodovodne i kanalizacione infrastrukture u opštini Herceg Novi" Herceg Novi | [`rjesenje/2026/398423/`](rjesenje/2026/398423/) | in force | 1 | 2026-09-30 | 2026-09-30 |
@@ -33195,8 +33302,11 @@
 | Rješenje o izdavanju licence Privatnom produženom boravku "Kiddos Club", Podgorica | [`rjesenje/2026/399272/`](rjesenje/2026/399272/) | in force | 1 | 2026-09-29 | 2026-09-29 |
 | Rješenje o izdavanju licence Privatnom produženom boravku "Ananas kids class", Podgorica | [`rjesenje/2026/399454/`](rjesenje/2026/399454/) | in force | 1 | 2026-10-13 | 2026-10-13 |
 | Rješenje o imenovanju Žirija za dodjelu Nagrade "15. decembar" Opštine Tuzi za 2026. godinu | [`rjesenje/2026/399635/`](rjesenje/2026/399635/) | in force | 1 | 2026-10-28 | 2026-10-28 |
+| Rješenje o razrješenju Odbora direktora Društva sa ograničenom odgovornošću "Komunalno i vodovod" - Žabljak | [`rjesenje/2026/399952/`](rjesenje/2026/399952/) | in force | 1 | 2026-11-06 | 2026-11-06 |
+| Rješenje o razrješenju Odbora direktora Društva sa ograničenom odgovornošću "Parking servis Žabljak" - Žabljak | [`rjesenje/2026/399953/`](rjesenje/2026/399953/) | in force | 1 | 2026-11-06 | 2026-11-06 |
+| Rješenje o razrješenju Odbora direktora Društva sa ograničenom odgovornošću "Sportski centar Žabljak" - Žabljak | [`rjesenje/2026/399954/`](rjesenje/2026/399954/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## statut (149, of which 9 amending acts)
+## statut (180, of which 9 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -33207,19 +33317,25 @@
 | Statut o izmjenama i dopunama Statuta Privredne komore Crne Gore | [`statut/2005/348115/`](statut/2005/348115/) | amending act | 1 | 2006-01-05 | 2006-01-05 |
 | Statut LJekarske komore Crne Gore | [`statut/2006/300847/`](statut/2006/300847/) | in force | 1 | 2006-05-20 | 2006-05-20 |
 | Statut o izmjenama i dopunama Statuta Privredne komore Crne Gore | [`statut/2006/333392/`](statut/2006/333392/) | amending act | 1 | 2006-07-29 | 2006-07-29 |
+| Statut Instituta za standardizaciju Crne Gore | [`statut/2008/335352/`](statut/2008/335352/) | amended, not consolidated | 1 | 2008-05-14 | 2008-05-14 |
 | Statut Privredne komore Crne Gore | [`statut/2009/300984/`](statut/2009/300984/) | in force | 1 | 2009-09-19 | 2009-09-19 |
 | Statut Fonda penzijskog i invalidskog osiguranja Crne Gore | [`statut/2009/336038/`](statut/2009/336038/) | in force | 1 | 2009-06-06 | 2009-06-06 |
 | Statut Agencije za mirno rjesavanje radnih sporova | [`statut/2010/335458/`](statut/2010/335458/) | in force | 1 | 2010-05-07 | 2010-05-07 |
 | Statut opstine Mojkovac | [`statut/2010/343957/`](statut/2010/343957/) | in force | 1 | 2010-10-09 | 2010-10-09 |
 | Statut o izmjenama i dopunama Statuta Fonda penzijskog i invalidskog osiguranja Crne Gore | [`statut/2011/306330/`](statut/2011/306330/) | amending act | 1 | 2011-04-05 | 2011-04-05 |
 | Statut Opstine Rozaje | [`statut/2011/331042/`](statut/2011/331042/) | in force | 1 | 2011-03-22 | 2011-03-22 |
+| Statut drustva sa ogranicenom odgovornoscu "Crnogorski operator trzista elektricne energije" - Podgorica | [`statut/2011/334028/`](statut/2011/334028/) | amended, not consolidated | 1 | 2011-03-12 | 2011-03-12 |
+| Statut Notarske komore Crne Gore | [`statut/2011/335516/`](statut/2011/335516/) | amended, not consolidated | 1 | 2011-04-29 | 2011-04-29 |
 | Statut Novog duvanskog kombinata ad Podgorica | [`statut/2011/337468/`](statut/2011/337468/) | in force | 1 | 2011-11-17 | 2011-11-17 |
+| Statut Pošte Crne Gore AD-Podgorica | [`statut/2011/337555/`](statut/2011/337555/) | amended, not consolidated | 1 | 2011-12-23 | 2011-12-23 |
 | Statut Opstine Pljevlja (preciscen tekst) | [`statut/2011/340384/`](statut/2011/340384/) | in force | 1 | 2011-06-11 | 2011-06-11 |
 | Statut Opstine Bar | [`statut/2011/346381/`](statut/2011/346381/) | in force | 1 | 2011-02-23 | 2011-02-23 |
+| Statut Saveza sindikata Crne Gore | [`statut/2012/317285/`](statut/2012/317285/) | amended, not consolidated | 1 | 2012-01-19 | 2012-01-19 |
 | Statut Opštine Mojkovac (Prečišćen tekst) | [`statut/2012/342530/`](statut/2012/342530/) | in force | 1 | 2012-12-26 | 2012-12-26 |
 | Statut Agencije za nadzor osiguranja | [`statut/2013/308993/`](statut/2013/308993/) | in force | 1 | 2013-07-06 | 2013-07-06 |
 | Statut o izmjenama i dopunama Statuta Zavoda za zapošljavanje Crne Gore | [`statut/2013/332864/`](statut/2013/332864/) | amending act | 1 | 2013-10-30 | 2013-10-30 |
 | Statut Agencije za zaštitu konkurencije | [`statut/2013/333758/`](statut/2013/333758/) | in force | 1 | 2013-02-26 | 2013-02-26 |
+| Statut Akcionarskog društva za uslužne djelatnosti u vazdušnom saobraćaju "Aerodromi Crne Gore" | [`statut/2013/336396/`](statut/2013/336396/) | amended, not consolidated | 1 | 2013-08-15 | 2013-08-15 |
 | Statut Komisije za hartije od vrijednosti | [`statut/2013/337036/`](statut/2013/337036/) | in force | 1 | 2013-01-26 | 2013-01-26 |
 | Statut Javne ustanove Gradska biblioteka i čitaonica Herceg Novi | [`statut/2013/341868/`](statut/2013/341868/) | in force | 1 | 2013-01-19 | 2013-01-19 |
 | Statut Društva sa ograničenom odgovornošću "Komunalno" - Tivat | [`statut/2013/343800/`](statut/2013/343800/) | in force | 1 | 2013-11-16 | 2013-11-16 |
@@ -33232,6 +33348,8 @@
 | Statut NVO organizacije za zaštitu prava autora muzike Crne Gore - PAM CG | [`statut/2014/335074/`](statut/2014/335074/) | in force | 1 | 2014-05-24 | 2014-05-24 |
 | Statut Saveza sindikata Crne Gore | [`statut/2014/335809/`](statut/2014/335809/) | in force | 1 | 2014-08-01 | 2014-08-01 |
 | Statut Agencije za elektronske komunikacije i poštansku djelatnost | [`statut/2014/337059/`](statut/2014/337059/) | in force | 1 | 2014-02-01 | 2014-02-01 |
+| Statut Društva sa ograničenom odgovornošću "Mediteranski sportski centar" Budva | [`statut/2014/340273/`](statut/2014/340273/) | amended, not consolidated | 1 | 2014-05-24 | 2014-05-24 |
+| Statut Društva sa ograničenom odgovornošću "Sportsko rekreativni centar Budva" | [`statut/2014/340274/`](statut/2014/340274/) | amended, not consolidated | 1 | 2014-05-24 | 2014-05-24 |
 | Statut Opštine Gusinje | [`statut/2014/342755/`](statut/2014/342755/) | in force | 1 | 2014-09-12 | 2014-09-12 |
 | Statut Opštine Petnjica | [`statut/2014/346110/`](statut/2014/346110/) | in force | 1 | 2014-01-29 | 2014-01-29 |
 | Statut Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" - Andrijevica | [`statut/2014/346569/`](statut/2014/346569/) | in force | 1 | 2014-03-20 | 2014-03-20 |
@@ -33242,13 +33360,17 @@
 | Statut o izmjenama i dopunama Statuta Saveza sindikata Crne Gore | [`statut/2015/337588/`](statut/2015/337588/) | amending act | 1 | 2015-11-10 | 2015-11-10 |
 | Statut Agencije za sprječavanje korupcije | [`statut/2015/338030/`](statut/2015/338030/) | in force | 1 | 2015-11-26 | 2015-11-26 |
 | Statut Fonda za zaštitu depozita | [`statut/2015/338574/`](statut/2015/338574/) | in force | 1 | 2015-02-25 | 2015-02-25 |
+| Statut o izmjeni i dopuni Statuta Društva sa ograničenom odgovornošću "Sportsko rekreativni centar Budva" | [`statut/2015/346863/`](statut/2015/346863/) | amended, not consolidated | 1 | 2015-11-06 | 2015-11-06 |
 | Statut Turističke organizacije opštine Danilovgrad | [`statut/2015/347106/`](statut/2015/347106/) | in force | 1 | 2015-11-25 | 2015-11-25 |
+| Statut Društva sa ograničenom odgovornošću "Agencija za izgradnju i razvoj Berane" Berane | [`statut/2015/347799/`](statut/2015/347799/) | amended, not consolidated | 1 | 2015-10-30 | 2015-10-30 |
 | Statut Saveza sindikata Crne Gore | [`statut/2016/317897/`](statut/2016/317897/) | in force | 1 | 2016-05-28 | 2016-05-28 |
 | Statut o izmjenama Statuta Zavoda za zapošljavanje Crne Gore | [`statut/2016/335158/`](statut/2016/335158/) | in force | 1 | 2016-04-02 | 2016-04-02 |
 | Statut Javne Ustanove Centar za kulturu Tivat | [`statut/2016/342828/`](statut/2016/342828/) | in force | 1 | 2016-07-09 | 2016-07-09 |
 | Statut Društva sa ograničenom odgovornošću "Parking servis" Tivat | [`statut/2017/292157/`](statut/2017/292157/) | in force | 1 | 2017-05-13 | 2017-05-13 |
 | Statut Sindikalne organizacije Zavoda za izvršenje krivičnih sankcija Podgorica | [`statut/2017/313080/`](statut/2017/313080/) | in force | 1 | 2017-04-24 | 2017-04-24 |
+| Statut Komore fizioterapeuta Crne Gore | [`statut/2017/314034/`](statut/2017/314034/) | amended, not consolidated | 1 | 2017-07-14 | 2017-07-14 |
 | Statut Zajednice opština Crne Gore | [`statut/2017/314067/`](statut/2017/314067/) | in force | 1 | 2017-02-03 | 2017-02-03 |
+| Statut Društva sa ograničenom odgovornošću "Skijališta Crne Gore" | [`statut/2017/320312/`](statut/2017/320312/) | amended, not consolidated | 1 | 2017-12-26 | 2017-12-26 |
 | Statut o izmjenama Statuta Fonda penzijskog i invalidskog osiguranja Crne Gore | [`statut/2017/334161/`](statut/2017/334161/) | in force | 1 | 2017-03-04 | 2017-03-04 |
 | Statut Stomatološke komore Crne Gore | [`statut/2017/335343/`](statut/2017/335343/) | in force | 1 | 2017-05-13 | 2017-05-13 |
 | Statut Regulatorne agencije za energetiku | [`statut/2017/335996/`](statut/2017/335996/) | in force | 1 | 2017-06-16 | 2017-06-16 |
@@ -33256,13 +33378,17 @@
 | Statut Javne ustanove Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u opštini Danilovgrad | [`statut/2017/344201/`](statut/2017/344201/) | in force | 1 | 2017-07-06 | 2017-07-06 |
 | Statut opštine u okviru Glavnog grada- Tuzi | [`statut/2017/347432/`](statut/2017/347432/) | in force | 1 | 2017-09-11 | 2017-09-11 |
 | Statut Komisije za tržište kapitala | [`statut/2018/317759/`](statut/2018/317759/) | in force | 1 | 2018-03-28 | 2018-03-28 |
+| Statut Privredne komore Crne Gore | [`statut/2018/334586/`](statut/2018/334586/) | amended, not consolidated | 1 | 2018-04-07 | 2018-04-07 |
 | Statut Ljekarske komore Crne Gore | [`statut/2018/335883/`](statut/2018/335883/) | in force | 1 | 2018-06-01 | 2018-06-01 |
 | Statut Društva sa ograničenom odgovornošću za odvođenje i prečišćavanje otpadnih voda za Opštine Kotor i Tivat | [`statut/2018/339789/`](statut/2018/339789/) | in force | 1 | 2018-04-28 | 2018-04-28 |
 | Statut Opštine Bijelo Polje | [`statut/2018/341002/`](statut/2018/341002/) | in force | 1 | 2018-06-16 | 2018-06-16 |
 | Statut Društva sa ograničenom odgovornošću za odvođenje i prečišćavanje otpadnih voda za Opštine Kotor i Tivat | [`statut/2018/347699/`](statut/2018/347699/) | in force | 1 | 2018-02-02 | 2018-02-02 |
 | Statut Opštine Petnjica | [`statut/2018/377621/`](statut/2018/377621/) | in force | 1 | 2018-08-22 | 2018-08-22 |
+| Statut opštine Nikšić | [`statut/2018/377630/`](statut/2018/377630/) | amended, not consolidated | 1 | 2018-09-15 | 2018-09-15 |
+| Statut Opštine Mojkovac | [`statut/2018/377721/`](statut/2018/377721/) | amended, not consolidated | 1 | 2018-08-22 | 2018-08-22 |
 | Statut opštine Šavnik | [`statut/2018/377728/`](statut/2018/377728/) | in force | 1 | 2018-09-15 | 2018-09-15 |
 | Statut društva sa ograničenom odgovornošću "otpadne vode" - Budva | [`statut/2018/377776/`](statut/2018/377776/) | in force | 1 | 2018-09-18 | 2018-09-18 |
+| Statut Opštine Andrijevica | [`statut/2018/377795/`](statut/2018/377795/) | amended, not consolidated | 1 | 2018-09-26 | 2018-09-26 |
 | Statut Opštine Bar | [`statut/2018/377919/`](statut/2018/377919/) | in force | 1 | 2018-10-27 | 2018-10-27 |
 | Statut Opštine Berane | [`statut/2018/378173/`](statut/2018/378173/) | in force | 1 | 2018-12-01 | 2018-12-01 |
 | Statut Opštine Pljevlja | [`statut/2018/378267/`](statut/2018/378267/) | in force | 1 | 2018-12-25 | 2018-12-25 |
@@ -33273,6 +33399,9 @@
 | Odluka o davanju saglasnosti na Statut Javne ustanove "Centar za pružanje usluga iz oblasti socijalne i dječije zaštite, za Opštinu u okviru Glavnog grada - Golubovci" | [`statut/2019/311931/`](statut/2019/311931/) | in force | 1 | 2019-08-01 | 2019-08-01 |
 | Statut Društva sa ograničenom odgovornošću "Regionalni vodovod Crnogorsko primorje" | [`statut/2019/324557/`](statut/2019/324557/) | in force | 1 | 2019-07-30 | 2019-07-30 |
 | Statut Zavoda za zapošljavanje Crne Gore | [`statut/2019/331021/`](statut/2019/331021/) | in force | 1 | 2019-07-20 | 2019-07-20 |
+| Statut Opštine Herceg Novi | [`statut/2019/375202/`](statut/2019/375202/) | amended, not consolidated | 1 | 2019-01-17 | 2019-01-17 |
+| STATUT GLAVNOG GRADA | [`statut/2019/375631/`](statut/2019/375631/) | amended, not consolidated | 1 | 2019-03-01 | 2019-03-01 |
+| Statut Opštine Tuzi | [`statut/2019/379407/`](statut/2019/379407/) | amended, not consolidated | 1 | 2019-07-04 | 2019-07-04 |
 | Statut opštine Kolašin | [`statut/2019/379415/`](statut/2019/379415/) | in force | 1 | 2019-07-04 | 2019-07-04 |
 | Statut Turističke organizacije opštine Tivat | [`statut/2019/380149/`](statut/2019/380149/) | in force | 1 | 2019-09-24 | 2019-09-24 |
 | Statut opštine Ulcinj | [`statut/2019/380565/`](statut/2019/380565/) | in force | 1 | 2019-12-04 | 2019-12-04 |
@@ -33280,6 +33409,7 @@
 | Statut Opštine Kotor | [`statut/2019/388473/`](statut/2019/388473/) | in force | 1 | 2019-09-17 | 2019-09-17 |
 | Odluka o davanju saglasnosti na Odluku o izmjenama i dopunama Statuta Javne ustanove Centar za dnevni boravak djece sa smetnjama u razvoju i odraslih lica sa invaliditetom u Prijestonici | [`statut/2020/324827/`](statut/2020/324827/) | amending act | 1 | 2020-10-22 | 2020-10-22 |
 | Statut Fonda rada | [`statut/2020/333317/`](statut/2020/333317/) | in force | 1 | 2020-12-18 | 2020-12-18 |
+| Statut Fonda za zaštitu depozita | [`statut/2020/334576/`](statut/2020/334576/) | amended, not consolidated | 1 | 2020-03-26 | 2020-03-26 |
 | Statut komore fizioterapeuta Crne Gore | [`statut/2021/309960/`](statut/2021/309960/) | in force | 1 | 2021-03-13 | 2021-03-13 |
 | Statut Društva sa ograničenom odgovornošću "Sportsko - rekreativni centar" Bar | [`statut/2021/314506/`](statut/2021/314506/) | in force | 1 | 2021-12-29 | 2021-12-29 |
 | Statut društva sa ograničenom odgovornošću "Vodovod i kanalizacija″ Bar | [`statut/2021/317017/`](statut/2021/317017/) | in force | 1 | 2021-12-29 | 2021-12-29 |
@@ -33290,6 +33420,7 @@
 | Statut Društva sa ograničenom odgovornošću "MONTENEGRO WORKS" | [`statut/2021/339015/`](statut/2021/339015/) | in force | 1 | 2021-08-20 | 2021-08-20 |
 | Statut "Parka prirode Piva" d.o.o. | [`statut/2021/339992/`](statut/2021/339992/) | in force | 1 | 2021-06-05 | 2021-06-05 |
 | Statut opštine Petnjica | [`statut/2022/291961/`](statut/2022/291961/) | in force | 1 | 2022-04-20 | 2022-04-20 |
+| Statut Instituta za standardizaciju Crne Gore | [`statut/2022/310589/`](statut/2022/310589/) | amended, not consolidated | 1 | 2022-11-08 | 2022-11-08 |
 | Statut d.o.o. "Komunalno" Tivat | [`statut/2022/311270/`](statut/2022/311270/) | in force | 1 | 2022-05-14 | 2022-05-14 |
 | Statut Društva sa ograničenom odgovornošću "Sportsko rekreativni centar Budva" | [`statut/2022/313824/`](statut/2022/313824/) | in force | 1 | 2022-08-13 | 2022-08-13 |
 | Statut Farmaceutske komore Crne Gore | [`statut/2022/313869/`](statut/2022/313869/) | in force | 1 | 2022-03-12 | 2022-03-12 |
@@ -33297,7 +33428,9 @@
 | Statut Društva sa ograničenom odgovornošću "Sportsko rekreativni centar Budva" | [`statut/2022/316070/`](statut/2022/316070/) | in force | 1 | 2022-01-20 | 2022-01-20 |
 | Statut Društva sa ograničenom odgovornošću "Centar za ekotoksikološka ispitivanja" - Podgorica | [`statut/2022/316863/`](statut/2022/316863/) | in force | 1 | 2022-01-21 | 2022-01-21 |
 | Statut Društva sa ograničenom odgovornošću "Mediteranski sportski centar" Budva | [`statut/2022/318229/`](statut/2022/318229/) | in force | 1 | 2022-01-20 | 2022-01-20 |
+| Statut Agencije za mirno rješavanje radnih sporova | [`statut/2022/319662/`](statut/2022/319662/) | amended, not consolidated | 1 | 2022-08-05 | 2022-08-05 |
 | Statut Društva sa ograničenom odgovornošću "Mediteranski sportski centar" Budva | [`statut/2022/328970/`](statut/2022/328970/) | in force | 1 | 2022-08-13 | 2022-08-13 |
+| Statut Društva sa ograničenom odgovornošću "Autobuska stanica" Nikšić | [`statut/2022/329260/`](statut/2022/329260/) | amended, not consolidated | 1 | 2022-10-27 | 2022-10-27 |
 | Statut NVO Organizacija za zaštitu prava autora muzike Crne Gore - PAM CG | [`statut/2022/336347/`](statut/2022/336347/) | in force | 1 | 2022-04-23 | 2022-04-23 |
 | Statut Turističke organizacije Kolašin | [`statut/2022/340136/`](statut/2022/340136/) | in force | 1 | 2022-04-14 | 2022-04-14 |
 | Satut Društva sa ograničenom odgovornošću "Autobuska Stanica" Tivat | [`statut/2022/340741/`](statut/2022/340741/) | in force | 1 | 2022-05-07 | 2022-05-07 |
@@ -33312,12 +33445,16 @@
 | Statut | [`statut/2023/360857/`](statut/2023/360857/) | in force | 1 | 2023-09-13 | 2023-09-13 |
 | Statut Javne ustanove Kulturno - informativni centar "Zeta" | [`statut/2023/362148/`](statut/2023/362148/) | in force | 1 | 2023-10-10 | 2023-10-10 |
 | Statut Društva sa ograničenom odgovornošću "Project-Consulting" - Podgorica | [`statut/2023/362598/`](statut/2023/362598/) | in force | 1 | 2023-11-18 | 2023-11-18 |
+| Odluka o izmjenama Statuta Investiciono- razvojnog fonda Crne Gore a.d. | [`statut/2024/364582/`](statut/2024/364582/) | amended, not consolidated | 1 | 2024-02-03 | 2024-02-03 |
 | Statut društva sa ograničenom odgovornošću za promet roba i usluga "Montenegro Bonus" Cetinje | [`statut/2024/365167/`](statut/2024/365167/) | in force | 1 | 2024-02-08 | 2024-02-08 |
 | Statut Fonda za zdravstveno osiguranje Crne Gore | [`statut/2024/366175/`](statut/2024/366175/) | in force | 1 | 2024-03-01 | 2024-03-01 |
 | Statut Društva sa ograničenom odgovornošću "Parking servis Bar" Bar | [`statut/2024/369894/`](statut/2024/369894/) | in force | 1 | 2024-05-24 | 2024-05-24 |
 | Statut Centralne banke Crne Gore | [`statut/2024/372453/`](statut/2024/372453/) | in force | 1 | 2024-08-15 | 2024-08-15 |
+| Statut Agencije za sprečavanje korupcije | [`statut/2024/373149/`](statut/2024/373149/) | amended, not consolidated | 1 | 2024-08-20 | 2024-08-20 |
 | Statut Agencije za audiovizuelne medijske usluge | [`statut/2024/373153/`](statut/2024/373153/) | in force | 1 | 2024-08-31 | 2024-08-31 |
 | Statut Ljekarske komore Crne Gore | [`statut/2024/375037/`](statut/2024/375037/) | in force | 1 | 2024-11-30 | 2024-11-30 |
+| Statut Razvojne banke Crne Gore A.D. Podgorica | [`statut/2024/376036/`](statut/2024/376036/) | amended, not consolidated | 1 | 2024-12-26 | 2024-12-26 |
+| Statut Stomatološke komore Crne Gore | [`statut/2024/376264/`](statut/2024/376264/) | amended, not consolidated | 1 | 2025-01-08 | 2025-01-08 |
 | Statut Agencije za elektronske komunikacije i poštansku djelatnost | [`statut/2024/376268/`](statut/2024/376268/) | in force | 1 | 2025-01-08 | 2025-01-08 |
 | Statut Društva sa ograničenom odgovornošću "Biznis info centar" | [`statut/2024/376333/`](statut/2024/376333/) | in force | 1 | 2025-01-08 | 2025-01-08 |
 | Statut Stomatološke komore Crne Gore - prečišćeni tekst | [`statut/2025/380031/`](statut/2025/380031/) | in force | 1 | 2025-03-26 | 2025-03-26 |
@@ -33341,6 +33478,7 @@
 | Statut Društva sa ograničenom odgovornošću ,,Komunalno Plužine" | [`statut/2026/396171/`](statut/2026/396171/) | in force | 1 | 2026-07-24 | 2026-07-24 |
 | Statut Društva sa ograničenom odgovornošću "Vodovod i kanalizacija - Cetinje" | [`statut/2026/396365/`](statut/2026/396365/) | in force | 1 | 2026-07-23 | 2026-07-23 |
 | Statut Društva sa ograničenom odgovornošću "Agencija za razvoj i podršku poslovanju" | [`statut/2026/396367/`](statut/2026/396367/) | in force | 1 | 2026-07-23 | 2026-07-23 |
+| Statut Agencije za zaštitu konkurencije | [`statut/2026/397033/`](statut/2026/397033/) | amended, not consolidated | 1 | 2026-08-15 | 2026-08-15 |
 | Statut Ordena Knjaza Danila I Crnogorskog | [`statut/2026/397034/`](statut/2026/397034/) | in force | 1 | 2026-08-15 | 2026-08-15 |
 | Statut o izmjenama i dopunama Statuta Društva sa ograničenom odgovornošću "Komunalno stambeno" Herceg Novi | [`statut/2026/397159/`](statut/2026/397159/) | amending act | 1 | 2026-08-07 | 2026-08-07 |
 | Statut Opštine Bijelo Polje | [`statut/2026/397858/`](statut/2026/397858/) | in force | 1 | 2026-09-15 | 2026-09-15 |
@@ -33349,6 +33487,9 @@
 | Statut Društva sa ograničenom odgovornošću "Radio-difuzni centar" Podgorica | [`statut/2026/398359/`](statut/2026/398359/) | in force | 1 | 2026-09-30 | 2026-09-30 |
 | Statut Društva sa ograničenom odgovornošću za transport putnika i robe u vazdušnom saobraćaju "ToMontenegro" | [`statut/2026/398829/`](statut/2026/398829/) | in force | 1 | 2026-10-06 | 2026-10-06 |
 | Statut Društva sa ograničenom odgovornošću "Vodovod i kanalizacija" Nikšić | [`statut/2026/399535/`](statut/2026/399535/) | in force | 1 | 2026-11-03 | 2026-11-03 |
+| Statut Društva sa ograničenom odgovornošću "Komunalno i vodovod" Žabljak | [`statut/2026/399939/`](statut/2026/399939/) | in force | 1 | 2026-11-06 | 2026-11-06 |
+| Statut Društva sa ograničenom odgovornošću "Sportski centar Žabljak" Žabljak | [`statut/2026/399940/`](statut/2026/399940/) | in force | 1 | 2026-11-06 | 2026-11-06 |
+| Statut Društva sa ograničenom odgovornošću "Parking servis Žabljak" - Žabljak | [`statut/2026/399951/`](statut/2026/399951/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
 ## ugovor (142, of which 16 amending acts)
 
@@ -33497,7 +33638,7 @@
 | Zakon o potvrđivanju Dodatnog protokola 7 o rješavanju sporova uz Sporazum o izmjeni i pristupanju Centralnoevropskom sporazumu o slobodnoj trgovini (CEFTA) | [`ugovor/2026/396797/`](ugovor/2026/396797/) | in force | 1 | 2026-08-13 | 2026-08-13 |
 | Odluka o objavljivanju Multilateralnog sporazuma nadležnih organa o automatskoj razmjeni informacija o finansijskim računima i dodatka Multilateralnom sporazumu nadležnih organa o automatskoj razmjeni informacija o finansijskim računima | [`ugovor/2026/398107/`](ugovor/2026/398107/) | in force | 1 | 2026-09-16 | 2026-09-16 |
 
-## uputstvo (194, of which 18 amending acts)
+## uputstvo (209, of which 21 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -33593,9 +33734,13 @@
 | Uputstvo o nacinu realizacije isplate devizne stednje gradjana polozene kod ovlascenih banaka sa sjedistem van Republike Crne Gore | [`uputstvo/2007/298067/`](uputstvo/2007/298067/) | in force | 1 | 2007-04-05 | 2007-04-05 |
 | Uputstvo u vezi sa formiranjem posebne liste za trgovanje obveznicama Republike Crne Gore i jedinica lokalne samouprave | [`uputstvo/2007/305596/`](uputstvo/2007/305596/) | in force | 1 | 2007-02-13 | 2007-02-13 |
 | Uputstvo o vrsenju metroloskog nadzora | [`uputstvo/2007/307258/`](uputstvo/2007/307258/) | in force | 1 | 2007-01-19 | 2007-01-19 |
+| Uputstvo o posebnim mjerama carinskog nadzora pri stavljanju cigareta u postupak tranzita, izvoza i ponovnog izvoza Ispravka Zakona o dobrovoljnim penzionim fondovima | [`uputstvo/2007/326932/`](uputstvo/2007/326932/) | amended, not consolidated | 1 | 2007-03-20 | 2007-03-20 |
 | Uputstvo o dopuni Uputstva o sadrzaju i formi obrazaca izvjestaja koje mikrokreditne finansijske institucije dostavljaju Centralnoj banci Crne Gore | [`uputstvo/2007/348596/`](uputstvo/2007/348596/) | amending act | 1 | 2007-07-14 | 2007-07-14 |
 | Uputstvo za izradu Plana odbrane Crne Gore | [`uputstvo/2008/297931/`](uputstvo/2008/297931/) | in force | 1 | 2008-03-29 | 2008-03-29 |
+| Uputstvo o radu Drzavnog trezora | [`uputstvo/2008/299835/`](uputstvo/2008/299835/) | amended, not consolidated | 1 | 2008-12-27 | 2008-12-27 |
 | Uputstvo o sadrzini i obliku obrazaca za sprovodjenje izbornih radnji za izbor predsjednika Crne Gore | [`uputstvo/2008/300383/`](uputstvo/2008/300383/) | in force | 1 | 2008-02-21 | 2008-02-21 |
+| Uputstvo o sadrzaju zahtjeva za isplatu i nacinu realizacije isplate deviznih sredstava gradjana polozenih kod Dafiment banke AD Beograd i Banke privatne privrede DD Podgorica polozenih preko preduzeca Jugoskandik DD Beograd | [`uputstvo/2008/325441/`](uputstvo/2008/325441/) | amended, not consolidated | 1 | 2008-06-04 | 2008-06-04 |
+| Uputstvo o nacinu i postupku raspodjele sredstava Egalizacionog fonda opstinama | [`uputstvo/2008/335346/`](uputstvo/2008/335346/) | amended, not consolidated | 1 | 2008-04-25 | 2008-04-25 |
 | Uputstvo o izmjenama i dopunama Uputstva o radu Registra zaloga | [`uputstvo/2008/336719/`](uputstvo/2008/336719/) | amending act | 1 | 2008-07-25 | 2008-07-25 |
 | Uputstvo o sadrzaju, odnosno obrascu izvjestaja o prikupljenim i utrosenim sredstvima iz javnih i privatnih izvora za izbornu kampanju | [`uputstvo/2008/338204/`](uputstvo/2008/338204/) | in force | 1 | 2008-11-29 | 2008-11-29 |
 | Uputstvo o nacinu preusmjeravanja sredstava iz opstih prihoda Budzeta Crne Gore za finansiranje osnovne djelatnosti Javnog preduzeca Radio televizija Crne Gore | [`uputstvo/2009/327831/`](uputstvo/2009/327831/) | in force | 1 | 2009-01-21 | 2009-01-21 |
@@ -33604,9 +33749,11 @@
 | Uputstvo o nacinu vodjenja evidencije u inspekcijskom nadzoru koji vrsi Inspekcija za gradjevinarstvo | [`uputstvo/2010/326902/`](uputstvo/2010/326902/) | in force | 1 | 2010-03-31 | 2010-03-31 |
 | Uputstvo o primjeni odredaba Zakona o obligacionim odnosima u vezi sa uslovima i nacinu upisa vlasnistva na hartijama od vrijednosti po osnovu ugovora o vansudskom poravnanju i nacinu objavljivanja podataka o netrzisnim transakcijama | [`uputstvo/2010/338285/`](uputstvo/2010/338285/) | in force | 1 | 2010-12-31 | 2010-12-31 |
 | Uputstvo o velicini, izgledu i sadrzini sluzbene legitimacije kontrolora komisije za hartije od vrijednosti | [`uputstvo/2011/303217/`](uputstvo/2011/303217/) | in force | 1 | 2011-03-05 | 2011-03-05 |
+| Uputstvo o izmjenama i dopunama Uputstva o radu drzavnog trezora | [`uputstvo/2011/305236/`](uputstvo/2011/305236/) | amended, not consolidated | 1 | 2011-03-24 | 2011-03-24 |
 | Uputstvo o utvrdjivanju metodologije za izracunavanje indikativnog cilja poboljsanja energetske efikasnosti | [`uputstvo/2011/320868/`](uputstvo/2011/320868/) | in force | 1 | 2011-04-01 | 2011-04-01 |
 | Uputstvo o blizem nacinu vrsenja popisa pokretnih i nepokretnih stvari u drzavnoj svojini | [`uputstvo/2011/336619/`](uputstvo/2011/336619/) | in force | 1 | 2011-10-01 | 2011-10-01 |
 | Uputstvo za obracun bruto zarada | [`uputstvo/2011/337751/`](uputstvo/2011/337751/) | in force | 1 | 2011-01-21 | 2011-01-21 |
+| Uputstvo o izmjenama i dopuni Uputstva o radu državnog trezora | [`uputstvo/2012/303862/`](uputstvo/2012/303862/) | amended, not consolidated | 1 | 2012-04-04 | 2012-04-04 |
 | Uputstvo o načinu evidentiranja rezervacija za potencijalne kreditne gubitke, ispravki vrijednosti i otpisanih stavki bilansne aktive pri utvrđivanju početnog stanja u poslovnim knjigama banaka za 2013. godinu | [`uputstvo/2012/327268/`](uputstvo/2012/327268/) | in force | 1 | 2012-12-15 | 2012-12-15 |
 | Uputstvo o dopuni Uputstva o načinu i postupku raspodjele sredstava Egalizacionog fonda opštinama | [`uputstvo/2012/335814/`](uputstvo/2012/335814/) | amending act | 1 | 2012-06-08 | 2012-06-08 |
 | Uputstvo o sačinjavanju izvještaja o sprovedenoj analizi procjene uticaja propisa | [`uputstvo/2012/339095/`](uputstvo/2012/339095/) | in force | 1 | 2012-02-11 | 2012-02-11 |
@@ -33629,6 +33776,7 @@
 | Uputstvo za suzbijanje štetnog organizma Diabrotica virgifera virgifera Le Conte u područjima gdje je njeno prisustvo potvrđeno | [`uputstvo/2014/336677/`](uputstvo/2014/336677/) | in force | 1 | 2014-11-15 | 2014-11-15 |
 | Uputstvo o izmjeni Uputstva o načinu obračunavanja i plaćanja poreza i doprinosa iz i na lična primanja po osnovu zaposlenja | [`uputstvo/2015/309636/`](uputstvo/2015/309636/) | in force | 1 | 2015-01-17 | 2015-01-17 |
 | Uputstvo o izmjeni Uputstva o načinu obračunavanja i plaćanja poreza i doprinosa iz i na lična primanja po osnovu zaposlenja | [`uputstvo/2015/310940/`](uputstvo/2015/310940/) | in force | 1 | 2015-03-06 | 2015-03-06 |
+| Uputstvo o dopuni Uputstva o radu državnog trezora | [`uputstvo/2015/313464/`](uputstvo/2015/313464/) | amended, not consolidated | 1 | 2015-12-21 | 2015-12-21 |
 | Uputstvo o sadržini izvještaja o prilozima pravnih i fizičkih lica političkim subjektima u toku izborne kampanje | [`uputstvo/2015/319718/`](uputstvo/2015/319718/) | in force | 1 | 2015-04-03 | 2015-04-03 |
 | Uputstvo o sadržaju izvještaja i načinu izvještavanja o sistemu finansijskog upravljanja i kontrola | [`uputstvo/2015/321986/`](uputstvo/2015/321986/) | in force | 1 | 2015-07-18 | 2015-07-18 |
 | Uputstvo o obrascu izvještaja o porijeklu, visini i stukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora za izbornu kampanju za izbor Predsjednika Crne Gore | [`uputstvo/2015/336635/`](uputstvo/2015/336635/) | in force | 1 | 2015-08-08 | 2015-08-08 |
@@ -33650,6 +33798,8 @@
 | Uputstvo o metodologiji vršenja revizije uspjeha | [`uputstvo/2017/336531/`](uputstvo/2017/336531/) | in force | 1 | 2017-07-20 | 2017-07-20 |
 | Uputstvo o obrascu privremenog izvještaja o troškovima političkog subjekta | [`uputstvo/2018/329081/`](uputstvo/2018/329081/) | in force | 1 | 2018-01-19 | 2018-01-19 |
 | Uputstvo o obrascu izvještaja o porijeklu, visini i stukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora za izbornu kampanju | [`uputstvo/2018/337953/`](uputstvo/2018/337953/) | in force | 1 | 2018-01-19 | 2018-01-19 |
+| Uputstvo o izmjenama Uputstva o radu državnog trezora | [`uputstvo/2019/311260/`](uputstvo/2019/311260/) | amended, not consolidated | 1 | 2019-12-18 | 2019-12-18 |
+| Uputstvo o načinu vršenja kancelarijskog poslovanja | [`uputstvo/2019/320605/`](uputstvo/2019/320605/) | amended, not consolidated | 1 | 2020-01-01 | 2020-01-01 |
 | Uputstvo o izmjeni uputstva o načinu obračunavanja i plaćanja poreza i doprinosa iz i na lična primanja po osnovu zaposlenja | [`uputstvo/2019/332936/`](uputstvo/2019/332936/) | in force | 1 | 2019-03-16 | 2019-03-16 |
 | Uputstvo o sadržaju zahtjeva za dugoročno zaduživanje opština, privrednih društava, ustanova i drugih pravnih lica čiji je osnivač opština | [`uputstvo/2019/333785/`](uputstvo/2019/333785/) | in force | 1 | 2019-02-27 | 2019-02-27 |
 | Uputstvo o upotrebi faksimila fizioterapeuta | [`uputstvo/2019/335276/`](uputstvo/2019/335276/) | in force | 1 | 2019-04-23 | 2019-04-23 |
@@ -33678,9 +33828,13 @@
 | Uputstvo o izmjenama Uputstva o nacinu obracunavanja i placanja poreza i doprinosa iz i na licna primanja po osnovu zaposlenja | [`uputstvo/2022/336447/`](uputstvo/2022/336447/) | in force | 1 | 2022-01-12 | 2022-01-12 |
 | Uputstvo o postupku provjere ispunjenosti uslova za učešće privrednih subjekata registrovanih u Crnoj Gori za učešće u nabavkama za potrebe Sjeverno-atlantskog saveza | [`uputstvo/2023/324140/`](uputstvo/2023/324140/) | in force | 1 | 2023-03-30 | 2023-03-30 |
 | Uputstvo o izmjeni Uputstva o načinu obračuna zarade i naknade za vrijeme privremene spriječenosti za rad | [`uputstvo/2023/332695/`](uputstvo/2023/332695/) | in force | 1 | 2023-04-04 | 2023-04-04 |
+| Uputstvo o izmjenama i dopuni Uputstva o radu državnog trezora | [`uputstvo/2023/361944/`](uputstvo/2023/361944/) | amended, not consolidated | 1 | 2023-09-23 | 2023-09-23 |
+| Uputstvo o izmjenama i dopunama Uputstva o radu registra zaloga | [`uputstvo/2024/367740/`](uputstvo/2024/367740/) | amending act | 1 | 2024-04-04 | 2024-04-04 |
 | Uputstvo o sprovođenju preliminarne kontrole na rizike od korupcije | [`uputstvo/2024/372311/`](uputstvo/2024/372311/) | in force | 1 | 2024-08-09 | 2024-08-09 |
 | Uputstvo o izmjenama Uputstva o načinu obračunavanja i plaćanja poreza i doprinosa iz i na lična primanja po osnovu zaposlenja | [`uputstvo/2024/374308/`](uputstvo/2024/374308/) | in force | 1 | 2024-10-26 | 2024-10-26 |
 | Uputstvo o načinu i postupku isplate sredstava za eksproprisane nepokretnosti sa depozitnih računa za eksproprijaciju | [`uputstvo/2024/375975/`](uputstvo/2024/375975/) | in force | 1 | 2024-12-23 | 2024-12-23 |
+| Uputstvo o izmjeni Uputstva o načinu vršenja kancelarijskog poslovanja | [`uputstvo/2024/376261/`](uputstvo/2024/376261/) | amended, not consolidated | 1 | 2025-01-01 | 2025-01-01 |
+| Uputstvo o izmjenama i dopunama Uputstva o radu državnog trezora | [`uputstvo/2025/380034/`](uputstvo/2025/380034/) | amending act | 1 | 2025-03-26 | 2025-03-26 |
 | Uputstvo o bližem načinu izvještavanja i obrascu na osnovu Sporazuma između Vlade Crne Gore i Vlade Sjedinjenih Američkih Država na unapređenju ispunjavanja međunarodnih poreskih obaveza i sprovođenju FTCA | [`uputstvo/2025/386963/`](uputstvo/2025/386963/) | in force | 1 | 2025-12-13 | 2025-12-13 |
 | Uputstvo o obrascu izvještaja o porijeklu, visini i strukturi prikupljenih i utrošenih sredstava iz javnih i privatnih izvora za izbornu kampanju | [`uputstvo/2025/387018/`](uputstvo/2025/387018/) | in force | 1 | 2025-10-08 | 2025-10-08 |
 | Uputstvo o obrascu finansijskog plana i programa rada političkog subjekta | [`uputstvo/2025/387060/`](uputstvo/2025/387060/) | in force | 1 | 2025-10-08 | 2025-10-08 |
@@ -33693,10 +33847,12 @@
 | Uputstvo o načinu i metodu utvrđivanja i izračunavanja ekvivalenta subvencije | [`uputstvo/2026/391575/`](uputstvo/2026/391575/) | in force | 1 | 2026-01-13 | 2026-01-13 |
 | Uputstvo o izmjeni i dopunama Uputstva o načinu vršenja kancelarijskog poslovanja | [`uputstvo/2026/392705/`](uputstvo/2026/392705/) | amending act | 1 | 2026-04-02 | 2026-04-02 |
 | Uputstvo za mjerenje buke od elektroakustičkih i akustičkih uređaja u/iz ugostiteljskih objekata | [`uputstvo/2026/393094/`](uputstvo/2026/393094/) | in force | 1 | 2026-04-17 | 2026-04-17 |
+| Uputstvo o bližem načinu razmjene informacija kojima raspolaže organ uprave nadležan za poslove poreza sa nadležnim organom druge države | [`uputstvo/2026/393172/`](uputstvo/2026/393172/) | amended, not consolidated | 1 | 2026-04-25 | 2026-04-25 |
+| Uputstvo o izmjenama i dopunama Uputstva o bližem načinu razmjene informacija kojima raspolaže organ uprave nadležan za poslove poreza sa nadležnim organom druge države | [`uputstvo/2026/395695/`](uputstvo/2026/395695/) | amending act | 1 | 2026-07-14 | 2026-07-14 |
 | Uputstvo o bližem načinu izvještavanja o podacima koje član međunarodne grupe povezanih pravnih lica u vezi poslovanja dostavlja organu uprave nadležnom za poslove poreza | [`uputstvo/2026/396663/`](uputstvo/2026/396663/) | in force | 1 | 2026-08-09 | 2026-08-09 |
 | Uputstvo o načinu unosa, ažuriranja, provjera i pristupa podacima iz Registra politički eksponiranih lica | [`uputstvo/2026/397090/`](uputstvo/2026/397090/) | in force | 1 | 2026-08-20 | 2026-08-20 |
 
-## uredba (843, of which 144 amending acts)
+## uredba (987, of which 144 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -33754,6 +33910,7 @@
 | Uredba o prestanku važenja Uredbe o privremenom utvrđivanju blagajničkog maksimuma i načinu plaćanja gotovim novcem kod banaka, drugih finansijskih organizacija i drugih pravnih lica i radnji | [`uredba/1994/291735/`](uredba/1994/291735/) | in force | 1 | 1994-01-24 | 1994-01-24 |
 | Uredba o stavljanju van snage Uredbe o načinu obrazovanja cijena sredstava za higijenu u vrijeme trajanja sankcija Savjeta bezbjednosti OUN | [`uredba/1994/291754/`](uredba/1994/291754/) | in force | 1 | 1994-01-24 | 1994-01-24 |
 | Uredba o dopuni Uredbe o načinu snabdijevanja brašnom preduzeća u privatnoj svojini koja se bave proizvodnjom hljeba i peciva i načinu formiranja cijena tih proizvoda | [`uredba/1994/291855/`](uredba/1994/291855/) | amending act | 1 | 1994-03-17 | 1994-03-17 |
+| Uredba o određivanju cijena pšeničnog brašna i hljeba | [`uredba/1994/294547/`](uredba/1994/294547/) | amended, not consolidated | 1 | 1994-07-09 | 1994-07-09 |
 | Uredba o utvrđivanju iznosa administrativnih taksa | [`uredba/1994/295924/`](uredba/1994/295924/) | in force | 1 | 1994-03-10 | 1994-03-10 |
 | Uredba o izmjenama Uredbe o određivanju cijena mlijeka | [`uredba/1994/296184/`](uredba/1994/296184/) | in force | 1 | 1994-02-15 | 1994-02-15 |
 | Uredba o prestanku važenja Uredbe o privre.menom regulisanju menjačkih poslova na teritoriji Republike Crne Gore | [`uredba/1994/296478/`](uredba/1994/296478/) | in force | 1 | 1994-01-24 | 1994-01-24 |
@@ -33772,6 +33929,7 @@
 | Uredba o utvrđivanju visine kamatne stope koja se plaća na iznos neplaćenog ili neblagovremeno plaćenog poreza na promet | [`uredba/1994/345337/`](uredba/1994/345337/) | in force | 1 | 1994-03-17 | 1994-03-17 |
 | Uredba o izmjenama i dopunama Uredbe o naknadi troškova u sudskim postupcima | [`uredba/1994/345488/`](uredba/1994/345488/) | amending act | 1 | 1994-04-13 | 1994-04-13 |
 | Uredba o prestanku važenja Uredbe o načinu obrazovanja cijena jestivog biljnog ulja u vrijeme trajanja sankcija Savjeta bezbjednosti OUN | [`uredba/1994/348150/`](uredba/1994/348150/) | in force | 1 | 1994-01-24 | 1994-01-24 |
+| Uredba o izmjeni Uredbe o usklađivanju novčanih kazni za prekršaje | [`uredba/1994/348579/`](uredba/1994/348579/) | amended, not consolidated | 1 | 1994-01-18 | 1994-01-18 |
 | Uredba o izmjenama i dopunama Uredbe o zaradama, naknadama i drugim primanjima zaposlenim u RCG | [`uredba/1994/348659/`](uredba/1994/348659/) | amending act | 1 | 1994-06-03 | 1994-06-03 |
 | Uredba o obaveznoj proizvodnji osnovnih vrsta hljeba i brašna "T-500" (ili "T 850") nabavljenog od Republičke direkcije za robne rezerve | [`uredba/1994/348781/`](uredba/1994/348781/) | in force | 1 | 1994-07-09 | 1994-07-09 |
 | Uredba o stavljanju van snage Uredbe o načinu obrazovanja cijena uglja za industrijsku i široku potrošnju u vrijeme trajanja sankcija Savjeta bezbjednosti OUN | [`uredba/1994/348790/`](uredba/1994/348790/) | in force | 1 | 1994-01-24 | 1994-01-24 |
@@ -33806,6 +33964,7 @@
 | Uredba o izmjeni Uredbe o načinu obrazovanja cijena električne energije | [`uredba/1995/348340/`](uredba/1995/348340/) | in force | 1 | 1995-02-02 | 1995-02-02 |
 | Uredba o izmjenama i dopunama Uredbe o načinu isplate zarada, penzija i novčanih naknada po osnovu prava iz penzijsko-invalidskog osiguranja u RCG za decembar 1994. godine - mart 1995. godine | [`uredba/1995/348365/`](uredba/1995/348365/) | amending act | 1 | 1995-02-03 | 1995-02-03 |
 | Uredba o načinu obračunavanja i plaćanja poreza na promet duvanskih prerađevina, alkoholnih pića i kafe | [`uredba/1995/348484/`](uredba/1995/348484/) | in force | 1 | 1995-12-15 | 1995-12-15 |
+| Uredba o izmjenama Uredbe o određivanju cijena pšeničnog brašna i hljeba | [`uredba/1995/348747/`](uredba/1995/348747/) | amended, not consolidated | 1 | 1995-09-20 | 1995-09-20 |
 | Uredba o obaveznoj proizvodnji osnovnih vrsta hljeba iz brašna "T-500" ili "T-850" | [`uredba/1995/348822/`](uredba/1995/348822/) | in force | 1 | 1995-06-27 | 1995-06-27 |
 | Uredba o određivanju najvišeg nivoa cijena derivata nafte | [`uredba/1995/348879/`](uredba/1995/348879/) | in force | 1 | 1995-09-28 | 1995-09-28 |
 | Uredba o izmjenama Uredbe o određivanju cijena mlijeka | [`uredba/1995/348909/`](uredba/1995/348909/) | in force | 1 | 1995-09-28 | 1995-09-28 |
@@ -33830,17 +33989,20 @@
 | Uredba o poslovanju kompanija koje se osnivaju i posluju pod posebnim uslovima | [`uredba/1996/296401/`](uredba/1996/296401/) | in force | 1 | 1996-10-17 | 1996-10-17 |
 | Uredba o dopunama Uredbe o unutrašnjoj organizaciji Direkcije javnih prihoda Republike Crne Gore | [`uredba/1996/296907/`](uredba/1996/296907/) | amending act | 1 | 1996-05-29 | 1996-05-29 |
 | Uredba o izmjeni Uredbe o posebnoj republičkoj taksi za duvanske prerađevine i alkoholna i bezalkoholna pića | [`uredba/1996/323916/`](uredba/1996/323916/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/1996/344961/`](uredba/1996/344961/) | amended, not consolidated | 1 | 1996-05-01 | 1996-05-01 |
 | Uredba o reviziji računovodstvenih iskaza | [`uredba/1996/345132/`](uredba/1996/345132/) | in force | 1 | 1996-04-17 | 1996-04-17 |
 | Uredba o stavljanju van snage Uredbe o privremenoj posebnoj republičkoj taksi na usluge platnog prometa | [`uredba/1996/348136/`](uredba/1996/348136/) | in force | 1 | 1996-03-15 | 1996-03-15 |
 | Uredba o izmjeni Uredbe o obaveznoj registraciji motornih vozila iz Republike Srpske Krajine i Republike Srpske | [`uredba/1996/348366/`](uredba/1996/348366/) | in force | 1 | 1996-02-12 | 1996-02-12 |
 | Uredba o smanjenju visine kamatne stope koja se plaća na iznos poreza na promet koji nije uplaćen u zakonom propisanom roku | [`uredba/1996/348469/`](uredba/1996/348469/) | in force | 1 | 1996-07-27 | 1996-07-27 |
 | Uredba o priznanjima službenika u državnim organima | [`uredba/1996/348860/`](uredba/1996/348860/) | in force | 1 | 1996-07-26 | 1996-07-26 |
 | Uredba o izmjeni Uredbe o posebnom prihodu Republike, radi otklanjanja posledica primjene sankcija međunarodnih organizacija u prometu naftinih derivata | [`uredba/1996/349145/`](uredba/1996/349145/) | in force | 1 | 1996-12-31 | 1996-12-31 |
+| Uredba o izmjenama Uredbe o određivanju cijena pšeničnog brašna i hljeba | [`uredba/1996/349180/`](uredba/1996/349180/) | amended, not consolidated | 1 | 1996-01-20 | 1996-01-20 |
 | Uredba o izmjeni Uredbe o određivanju cijena mlijeka | [`uredba/1996/349225/`](uredba/1996/349225/) | in force | 1 | 1996-01-20 | 1996-01-20 |
 | Uredba o stavljanju van snage Uredbe o prometu robe na privremenim prodajnim mjestima | [`uredba/1996/349296/`](uredba/1996/349296/) | in force | 1 | 1996-02-24 | 1996-02-24 |
 | Uredba o usklađivanju iznosa boravišne takse | [`uredba/1996/349499/`](uredba/1996/349499/) | in force | 1 | 1996-03-22 | 1996-03-22 |
 | Uredba o izmjeni Uredbe o određivanju cijena mlijeka | [`uredba/1996/350084/`](uredba/1996/350084/) | in force | 1 | 1996-12-06 | 1996-12-06 |
 | Uredba o izmjenama Uredbe o određivanju cijena pšeničnog brašna i hljeba | [`uredba/1996/387922/`](uredba/1996/387922/) | in force | 1 | 1996-08-13 | 1996-08-13 |
+| Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/1996/387950/`](uredba/1996/387950/) | amended, not consolidated | 1 | 1996-08-06 | 1996-08-06 |
 | Uredba o izmjeni Uredbe o obavezi registracije motornih vozila iz bivših republika SFRJ koje nijesu u sastavu Savezne Republike Jugoslavije | [`uredba/1997/294815/`](uredba/1997/294815/) | in force | 1 | 1997-12-13 | 1997-12-13 |
 | Uredba o izmjeni Uredbe o obavezi regis-tracije motornih vozila iz bivših republika SFRJ koje nijesu u sastavu SRJ | [`uredba/1997/295454/`](uredba/1997/295454/) | in force | 1 | 1997-11-07 | 1997-11-07 |
 | Uredba o izmjeni Uredbe o posebnom prihodu Republike na promet naftnih derivata | [`uredba/1997/295503/`](uredba/1997/295503/) | in force | 1 | 1997-12-31 | 1997-12-31 |
@@ -33869,6 +34031,8 @@
 | UREDBA O IZMJENI UREDBE O ZARADAMA DRŽAVNIH SLUŽBENIKA | [`uredba/1998/295994/`](uredba/1998/295994/) | in force | 1 | 1998-03-31 | 1998-03-31 |
 | UREDBA O DOPUNAMA UREDBE O ORGANIZACIJI I NAČINU RADA DRŽAVNE UPRAVE | [`uredba/1998/333231/`](uredba/1998/333231/) | amending act | 1 | 1998-05-06 | 1998-05-06 |
 | UREDBA O IZMJENI UREDBE O POSEBNOM PRIHODU REPUBLIKE NA PROMET NAFTNIH DERIVATA | [`uredba/1998/333337/`](uredba/1998/333337/) | in force | 1 | 1998-10-24 | 1998-10-24 |
+| UREDBA O DOPUNI UREDBE O ORGANIZACIJI I NAČINU RADA DRŽAVNE UPRAVE | [`uredba/1998/348667/`](uredba/1998/348667/) | amended, not consolidated | 1 | 1998-07-16 | 1998-07-16 |
+| UREDBA O DOPUNAMA UREDBE O ORGANIZACIJI I NAČINU RADA DRŽAVNE UPRAVE | [`uredba/1998/348795/`](uredba/1998/348795/) | amended, not consolidated | 1 | 1998-11-04 | 1998-11-04 |
 | UREDBA O DOPUNAMA UREDBE O NAČINU UTVRĐIVANJA SPOSOBNOSTI ČAMACA ZA PLOVIDBU | [`uredba/1998/349071/`](uredba/1998/349071/) | amending act | 1 | 1998-03-25 | 1998-03-25 |
 | UREDBA O IZMJENI UREDBE O OBAVEZI REGISTRACIJE MOTORNIH VOZILA IZ BIVŠIH REPUBLIKA SFRJ KOJE NIJESU U SASTAVU SAVEZNE REPUBLIKE JUGOSLAVIJE | [`uredba/1998/349115/`](uredba/1998/349115/) | in force | 1 | 1998-03-18 | 1998-03-18 |
 | UREDBA O DOPUNAMA UREDBE O ZARADAMA, NAKNADAMA I DRUGIM PRIMANJIMA ZAPOSLENIH U REPUBLICI CRNOJ GORI | [`uredba/1998/349272/`](uredba/1998/349272/) | amending act | 1 | 1998-02-04 | 1998-02-04 |
@@ -33915,6 +34079,7 @@
 | Uredba o interventnom ispuštanju robe iz Republičkih robnih rezervi Crne Gore | [`uredba/1999/349166/`](uredba/1999/349166/) | in force | 1 | 1999-04-30 | 1999-04-30 |
 | Uredba o dopuni Uredbe o određivanju cijena osnovnih vrsta hljeba | [`uredba/1999/349237/`](uredba/1999/349237/) | amending act | 1 | 1999-11-11 | 1999-11-11 |
 | Uredba o povjeravanju javnih ovlašćenja iz Zakona o računovodstvu Savezu računovođa i revizora Crne Gore | [`uredba/1999/349244/`](uredba/1999/349244/) | in force | 1 | 2000-01-02 | 2000-01-02 |
+| Uredba o određivanju cijena mlijeka | [`uredba/1999/349528/`](uredba/1999/349528/) | amended, not consolidated | 1 | 1999-02-05 | 1999-02-05 |
 | Uredba o izmjenama Uredbe o određivanju cijena i strukture proizvodnje mlijeka | [`uredba/1999/349573/`](uredba/1999/349573/) | in force | 1 | 1999-11-23 | 1999-11-23 |
 | Uredba o izmjeni Uredbe o načinu obrazovanja cijena derivata nafte | [`uredba/1999/349915/`](uredba/1999/349915/) | in force | 1 | 1999-08-07 | 1999-08-07 |
 | Uredba o izmjeni Uredbe o posebnom prihodu Republike na promet naftnih derivata | [`uredba/1999/349916/`](uredba/1999/349916/) | in force | 1 | 1999-08-07 | 1999-08-07 |
@@ -34025,6 +34190,7 @@
 | Uredba o izdavanju doplatne postanske marke "Podizimo sume" | [`uredba/2002/348231/`](uredba/2002/348231/) | in force | 1 | 2002-03-05 | 2002-03-05 |
 | Uredba o izdavanju doplatne postanske marke "Mjesec borbe protiv raka" | [`uredba/2002/348249/`](uredba/2002/348249/) | in force | 1 | 2002-03-05 | 2002-03-05 |
 | Uredba o izmjenama Uredbe o nacinu obrazovanja cijena derivata nafte | [`uredba/2002/348385/`](uredba/2002/348385/) | in force | 1 | 2002-04-10 | 2002-04-10 |
+| Uredba o naknadi troskova u upravnom postupku | [`uredba/2002/348414/`](uredba/2002/348414/) | amended, not consolidated | 1 | 2002-11-19 | 2002-11-19 |
 | Uredba o primjeni propisa o penzijskom i invalidskom osiguranju | [`uredba/2002/348451/`](uredba/2002/348451/) | in force | 1 | 2002-01-31 | 2002-01-31 |
 | Uredba o nacinu preracunavanja postojecih neto zarada u bruto | [`uredba/2002/348881/`](uredba/2002/348881/) | in force | 1 | 2002-07-16 | 2002-07-16 |
 | Uredba o izmjeni Uredbe o privremenom uvodjenju dodatnog poreza na promet proizvoda i usluga | [`uredba/2002/348939/`](uredba/2002/348939/) | in force | 1 | 2002-06-30 | 2002-06-30 |
@@ -34070,16 +34236,19 @@
 | Uredba o načinu i uslovima za dodjelu koncesija za koriscenje poljoprivrednog zemljista u drzavnoj svojini | [`uredba/2004/349262/`](uredba/2004/349262/) | in force | 1 | 2004-03-27 | 2004-03-27 |
 | Uredba o dopuni Uredbe o odredjivanju iznosa prihoda na koje se ne placa porez na dohodak fizickih lica | [`uredba/2004/349286/`](uredba/2004/349286/) | amending act | 1 | 2004-06-26 | 2004-06-26 |
 | Uredba o izmjeni Uredbe o odredjivanju iznosa specificne i proporcionalne akcize na cigarete | [`uredba/2004/349770/`](uredba/2004/349770/) | in force | 1 | 2004-06-05 | 2004-06-05 |
+| Uredba o organizaciji i nacinu rada drzavne uprave | [`uredba/2004/349861/`](uredba/2004/349861/) | amended, not consolidated | 1 | 2004-08-17 | 2004-08-17 |
 | Uredba o povracaju dijela poreza na dodatu vrijednost naplacenog od gradjana u maloprodaji | [`uredba/2004/350054/`](uredba/2004/350054/) | in force | 1 | 2004-07-17 | 2004-07-17 |
 | Uredba o visini troskova prinudne naplate poreskih obaveza | [`uredba/2005/307029/`](uredba/2005/307029/) | in force | 1 | 2005-04-23 | 2005-04-23 |
 | Uredba o izdavanju uvjerenja koja prate robu pri izvozu, uvozu ili tranzitu | [`uredba/2005/307327/`](uredba/2005/307327/) | in force | 1 | 2005-07-18 | 2005-07-18 |
 | Uredba o prestanku vazenja Uredbe o naknadama za koriscenje puteva u postupcima tranzita robe preko teritorije Crne Gore | [`uredba/2005/307336/`](uredba/2005/307336/) | in force | 1 | 2005-06-24 | 2005-06-24 |
 | Uredba o izmjenama i dopunama Uredbe o Generalnom sekretarijatu Vlade Republike Crne Gore | [`uredba/2005/307499/`](uredba/2005/307499/) | amending act | 1 | 2005-10-06 | 2005-10-06 |
+| Uredba o obimu prava i standardima zdravstvene zastite iz obaveznog zdravstvenog osiguranja | [`uredba/2005/307619/`](uredba/2005/307619/) | amended, not consolidated | 1 | 2005-12-31 | 2005-12-31 |
 | Uredba o odredjivanju organa drzavne uprave nadleznih za davanje objasnjenja i misljenja u postupku sticanja prava svojine na nepokretnostima stranih lica koja obavljaju djelatnost na teritoriji Republike Crne Gore | [`uredba/2005/308927/`](uredba/2005/308927/) | in force | 1 | 2005-06-17 | 2005-06-17 |
 | Uredba o promjeni nacina obracunavanja i placanja akcize kod prometa duvanskih proizvoda sa Republikom Srbijom | [`uredba/2005/325341/`](uredba/2005/325341/) | in force | 1 | 2005-12-31 | 2005-12-31 |
 | Uredba o dopunama Uredbe o nacinu obracuna i utvrdjivanju visine sredstava koja se iz budzeta Republike obezbjedjuju Republickom fondu penzijskog i invalidskog osiguranja | [`uredba/2005/325680/`](uredba/2005/325680/) | amending act | 1 | 2005-04-14 | 2005-04-14 |
 | Uredba o izmjeni uredbe o odredjivanju iznosa prihoda na koje se ne placa porez na dohodak fizickih lica za 2005. godinu | [`uredba/2005/332944/`](uredba/2005/332944/) | in force | 1 | 2005-07-20 | 2005-07-20 |
 | Uredba o dodacima na zaradu drzavnih sluzbenika i namjestenika | [`uredba/2005/348392/`](uredba/2005/348392/) | in force | 1 | 2005-04-23 | 2005-04-23 |
+| Uredba o obiljezavanju duvanskih proizvoda i alkoholnih pica kontrolnim akciznim markicama | [`uredba/2005/348422/`](uredba/2005/348422/) | amended, not consolidated | 1 | 2005-12-31 | 2005-12-31 |
 | Uredba o kriterijumima za ocjenjivanje rada rukovodeceg lica u drzavnom organu | [`uredba/2005/349717/`](uredba/2005/349717/) | in force | 1 | 2005-05-06 | 2005-05-06 |
 | Uredba o izmjeni uredbe o naknadama i drugim primanjima drzavnih sluzbenika i namjestenika | [`uredba/2005/349736/`](uredba/2005/349736/) | in force | 1 | 2005-07-20 | 2005-07-20 |
 | Uredba o izmjeni i dopuni Uredbe o nacinu obrazovanja maksimalnih maloprodajnih cijena naftinih derivata | [`uredba/2005/349842/`](uredba/2005/349842/) | amending act | 1 | 2005-06-04 | 2005-06-04 |
@@ -34091,12 +34260,14 @@
 | Uredba o odredjivanju visine novcanih kazni propisanih Zakonom o metrologiji i Zakonom o tehnickim zahtjevima za proizvode i ocjenjivanju usaglasenosti proizvoda sa propisanim zahtjevima | [`uredba/2006/300507/`](uredba/2006/300507/) | in force | 1 | 2006-08-18 | 2006-08-18 |
 | Uredba o odredjivanju iznosa prihoda na koje se ne placa porez na dohodak fizickih lica za 2006.godinu | [`uredba/2006/325310/`](uredba/2006/325310/) | in force | 1 | 2006-01-18 | 2006-01-18 |
 | Uredba o nacinu izdavanja obveznica i postupku ostvarivanja prava na refundaciju bivsih vlasnika | [`uredba/2006/344986/`](uredba/2006/344986/) | in force | 1 | 2006-03-02 | 2006-03-02 |
+| Uredba o dopuni Uredbe o zastupniku Republike Crne Gore pred Evropskim sudom za ljudska prava | [`uredba/2006/348421/`](uredba/2006/348421/) | amended, not consolidated | 1 | 2007-01-03 | 2007-01-03 |
 | Uredba o prestanku vazenja Uredbe o zajednickom vrsenju trzisne, sanitarne, veterinarske, poljoprivredne i ekoloske inspekcijske kontrole u spoljnotrgovinskom prometu roba | [`uredba/2006/348476/`](uredba/2006/348476/) | in force | 1 | 2006-05-20 | 2006-05-20 |
 | Uredba o oslobadjanju od placanja poreza na promet upotrebljavanih putnickih i ostalih motornih vozila | [`uredba/2006/348502/`](uredba/2006/348502/) | in force | 1 | 2006-04-05 | 2006-04-05 |
 | Uredba o preuzimanju nadleznosti organa utvrdjene Zakonom i spoljnoj trgovini naoruzanjem, vojnom opremom i robom dvostruke namjene | [`uredba/2006/348561/`](uredba/2006/348561/) | in force | 1 | 2006-06-23 | 2006-06-23 |
 | Uredba o odrzavanju reda u lukama i na ostalim djelovima obalnog mora i unutrasnjim plovnim putevima | [`uredba/2006/348678/`](uredba/2006/348678/) | in force | 1 | 2006-07-08 | 2006-07-08 |
 | Uredba o minimumu procesa rada i nacinu njegovog obezbjedjivanja u javnim ustanovama kulture ciji je osnivac Republika | [`uredba/2006/348760/`](uredba/2006/348760/) | in force | 1 | 2006-08-01 | 2006-08-01 |
 | Uredba o dopuni Uredbe o naknadama i drugim primanjima drzavnih sluzbenika i namjestenika | [`uredba/2006/348775/`](uredba/2006/348775/) | amending act | 1 | 2006-11-24 | 2006-11-24 |
+| Uredba o zastupniku Republike Crne Gore pred Evropskim sudom za ljudska prava | [`uredba/2006/349022/`](uredba/2006/349022/) | amended, not consolidated | 1 | 2006-09-15 | 2006-09-15 |
 | Uredba o dopuni Uredbe o konverziji devizne stednje gradjana u obveznice | [`uredba/2006/349023/`](uredba/2006/349023/) | amending act | 1 | 2006-09-15 | 2006-09-15 |
 | Uredba o nacinu i uslovima dodjele koncesija za istrazivanje vodotoka i tehnoekonomsko koriscenje vodnog energetskog potencijala za proizvodnju elektricne energije u malim hidroelektranama | [`uredba/2006/349619/`](uredba/2006/349619/) | in force | 1 | 2006-11-24 | 2006-11-24 |
 | Uredba o olaksicama za placanje doprinosa za osiguranje poljoprivrednika | [`uredba/2006/349839/`](uredba/2006/349839/) | in force | 1 | 2006-01-26 | 2006-01-26 |
@@ -34108,9 +34279,13 @@
 | Uredba o upotrebi naziva Crna Gora u javnim ispravama | [`uredba/2007/334059/`](uredba/2007/334059/) | in force | 1 | 2007-12-22 | 2007-12-22 |
 | Uredba o izmjeni Uredbe o sadrzini centralnog registra obveznika poreza na dohodak, osiguranika i obveznika doprinosa za obavezno socijalno osiguranje i zastiti podataka | [`uredba/2007/344898/`](uredba/2007/344898/) | in force | 1 | 2007-02-24 | 2007-02-24 |
 | Uredba o blizim uslovima za izuzeca sporazuma po vrstama i odredjivanje vrsta sporazuma koji mogu biti izuzeti od zabrane | [`uredba/2007/345079/`](uredba/2007/345079/) | in force | 1 | 2007-02-24 | 2007-02-24 |
+| Uredba o projektima za koje se vrsi procjena uticaja na zivotnu sredinu | [`uredba/2007/348776/`](uredba/2007/348776/) | amended, not consolidated | 1 | 2007-04-12 | 2007-04-12 |
 | Uredba o dopunama Uredbe o nacinu obracuna i utvrdjivanju visine sredstava koja se iz budzeta Republike obezbjedjuju Republickom fondu penzijskog i invalidskog osiguranja | [`uredba/2007/349335/`](uredba/2007/349335/) | amending act | 1 | 2007-10-20 | 2007-10-20 |
 | Uredba o izmjenama i dopunama Uredbe za sprovodjenje Zakona o spoljnoj trgovini | [`uredba/2007/349365/`](uredba/2007/349365/) | amending act | 1 | 2007-07-31 | 2007-07-31 |
 | Uredba o nacinu sprovodjenja postupka javnog nadmetanja za dodjelu koncesije za autoput Bar - Boljare | [`uredba/2008/298418/`](uredba/2008/298418/) | in force | 1 | 2008-11-17 | 2008-11-17 |
+| Uredba o evidenciji tajnih podataka | [`uredba/2008/298869/`](uredba/2008/298869/) | amended, not consolidated | 1 | 2008-11-14 | 2008-11-14 |
+| Uredba o licima kojima se izdaje diplomatski i sluzbeni pasos | [`uredba/2008/298876/`](uredba/2008/298876/) | amended, not consolidated | 1 | 2008-07-19 | 2008-07-19 |
+| Uredba o vojno diplomatskim predstavnicima | [`uredba/2008/299473/`](uredba/2008/299473/) | amended, not consolidated | 1 | 2008-07-25 | 2008-07-25 |
 | Uredba o poreskim olaksicama za zaposljavanje odredjenih kategorija nezaposlenih lica | [`uredba/2008/304083/`](uredba/2008/304083/) | in force | 1 | 2008-05-14 | 2008-05-14 |
 | Uredba o prestanku vazenja Uredbe o dodacima na zaradu po osnovu tezih uslova rada drzavnih sluzbenika i namjestenika u pojedinim organima drzavne uprave | [`uredba/2008/305269/`](uredba/2008/305269/) | in force | 1 | 2008-02-16 | 2008-02-16 |
 | Uredba o vrstama aktivnosti i postrojenja za koje se izdaje integrisana dozvola | [`uredba/2008/306145/`](uredba/2008/306145/) | in force | 1 | 2008-02-09 | 2008-02-09 |
@@ -34136,14 +34311,21 @@
 | Uredba o dopuni Uredbe za sprovodjenje Carinskog zakona | [`uredba/2008/335928/`](uredba/2008/335928/) | amending act | 1 | 2008-06-28 | 2008-06-28 |
 | Uredba o utvrdjivanju poslova od posebnog znacaja za odbranu koji se u drzavnim organima i pravnim licima stite primjenom posebnih mjera bezbjednosti i kriterijumima za popunu radnih mjesta na kojima se ti poslovi obavljaju | [`uredba/2008/336159/`](uredba/2008/336159/) | in force | 1 | 2008-06-18 | 2008-06-18 |
 | Uredba o utvrdjivanju isplate godisnje rate obestecenja bivisim vlasnicima u novcanim sredstvima za 2008.godinu | [`uredba/2008/336324/`](uredba/2008/336324/) | in force | 1 | 2008-07-12 | 2008-07-12 |
+| Uredbu o izmjenama Uredbe o upotrebi poreske registar kase i nacinu evidentiranja prometa proizvoda, odnosno usluga preko registar kase | [`uredba/2008/336357/`](uredba/2008/336357/) | amended, not consolidated | 1 | 2008-06-28 | 2008-06-28 |
 | Uredba o konverziji devizne stednje gradjana u obveznice | [`uredba/2008/336358/`](uredba/2008/336358/) | in force | 1 | 2008-06-28 | 2008-06-28 |
 | Uredba o uskladjivanju nomenklature Carinske tarife za 2008. godinu | [`uredba/2008/336380/`](uredba/2008/336380/) | in force | 1 | 2008-01-17 | 2008-01-17 |
 | Uredba o konverziji obestecenja korisnika prava iz penzijskog i invalidskog osiguranja u obveznice i o nacinu i blizim uslovima realizacije obveznica | [`uredba/2008/336638/`](uredba/2008/336638/) | in force | 1 | 2008-08-08 | 2008-08-08 |
 | Uredba o kriterijumima za utvrdjivanje naknade za clanove Vijeca Arbitraznog odbora za vansudsko rjesavanje sporova potrosaca | [`uredba/2008/336738/`](uredba/2008/336738/) | in force | 1 | 2008-08-12 | 2008-08-12 |
+| Uredba o dopunama Uredbe o zastupniku Republike Crne Gore pred Evropskim sudom za ljudska prava | [`uredba/2008/336975/`](uredba/2008/336975/) | amended, not consolidated | 1 | 2008-01-25 | 2008-01-25 |
+| Uredba o povjeravanju dijela poslova Ministarstva za ekonomski razvoj Glavnom gradu-Podgorica | [`uredba/2008/337655/`](uredba/2008/337655/) | amended, not consolidated | 1 | 2008-10-21 | 2008-10-21 |
+| Uredba o kriterijumima za odredjivanje manifestacija i festivala od posebnog znacaja za kulturu Crne Gore | [`uredba/2008/338202/`](uredba/2008/338202/) | amended, not consolidated | 1 | 2008-11-29 | 2008-11-29 |
 | Uredba o izmjeni Uredbe o nacinu obrazovanja maksimalnih maloprodajnih cijena naftnih derivata | [`uredba/2008/338281/`](uredba/2008/338281/) | in force | 1 | 2008-12-10 | 2008-12-10 |
+| Uredba o izmjenama i dopunama Uredbe o zastupniku Republike Crne Gore pred Evropskim sudom za ljudska prava | [`uredba/2008/338517/`](uredba/2008/338517/) | amended, not consolidated | 1 | 2008-12-26 | 2008-12-26 |
 | Uredba o kriterijumima za odredjivanje najboljih dostupnih tehnika, za primjenu standarda kvaliteta, kao i za odredjivanje granicnih vrijednosti emisija u integrisanoj dozvoli | [`uredba/2008/338680/`](uredba/2008/338680/) | in force | 1 | 2008-02-09 | 2008-02-09 |
 | Uredba o sadrzini programa mjera prilagodjavanja rada postojeceg postrojenja ili aktivnosti propisanim uslovima | [`uredba/2008/338681/`](uredba/2008/338681/) | in force | 1 | 2008-02-09 | 2008-02-09 |
+| Uredba o izmjenama i dopunama Uredbe o obiljezavanju duvanskih proizvoda i alkoholnih pica kontrolnim akciznim markicama | [`uredba/2009/291575/`](uredba/2009/291575/) | amended, not consolidated | 1 | 2010-01-01 | 2010-01-01 |
 | Uredba o vjetroelektranama | [`uredba/2009/298943/`](uredba/2009/298943/) | in force | 1 | 2009-10-15 | 2009-10-15 |
+| Uredba o viznom rezimu | [`uredba/2009/301268/`](uredba/2009/301268/) | amended, not consolidated | 1 | 2009-03-19 | 2009-03-19 |
 | Uredba o nacinu vrsenja i sadrzaju unutrasnje kontrole nad sprovodjenjem mjera zastite tajnih podataka | [`uredba/2009/309094/`](uredba/2009/309094/) | in force | 1 | 2009-08-05 | 2009-08-05 |
 | Uredba o djelokrugu, sadrzaju i davaocu usluga certifikovanja elektronskih potpisa za organe uprave | [`uredba/2009/325826/`](uredba/2009/325826/) | in force | 1 | 2009-12-22 | 2009-12-22 |
 | Uredba o nacinu i postupku utvrdjivanja iznosa najpopularnije cijene cigareta | [`uredba/2009/335735/`](uredba/2009/335735/) | in force | 1 | 2009-05-06 | 2009-05-06 |
@@ -34151,40 +34333,69 @@
 | Uredba o sadrzaju i nacinu pripreme plana upravljanja vodama na vodnom podrucju rjecnog sliva ili na njegovom dijelu | [`uredba/2009/336233/`](uredba/2009/336233/) | in force | 1 | 2009-06-25 | 2009-06-25 |
 | Uredba o izmjeni Uredbe o odlozenom placanju carinskog duga | [`uredba/2009/336867/`](uredba/2009/336867/) | in force | 1 | 2009-07-29 | 2009-07-29 |
 | Uredba o posebnim mjerama zastite tajnih podataka od znacaja za odbranu zemlje | [`uredba/2009/337064/`](uredba/2009/337064/) | in force | 1 | 2009-08-05 | 2009-08-05 |
+| Uredba o uslovima za odlaganje naplate poreskih i neporeskih potrazivanja | [`uredba/2009/337947/`](uredba/2009/337947/) | amended, not consolidated | 1 | 2009-10-08 | 2009-10-08 |
 | Uredba o blizem nacinu sprovodjenja postupka javnog nadmetanja u otvorenom i dvostepenom postupku davanja koncesije | [`uredba/2009/338103/`](uredba/2009/338103/) | in force | 1 | 2009-10-15 | 2009-10-15 |
+| Uredba o izmjenama Uredbe o povjeravanju dijela poslova Ministarstva za ekonomski razvoj Glavnom gradu- Podgorica | [`uredba/2009/338299/`](uredba/2009/338299/) | amended, not consolidated | 1 | 2009-10-22 | 2009-10-22 |
+| Uredba o kriterijumima i nacinu dodjeljivanja statusa istaknuti kulturni stvaralac | [`uredba/2009/338452/`](uredba/2009/338452/) | amended, not consolidated | 1 | 2009-12-05 | 2009-12-05 |
 | Uredba o zakonskim mjerilima za koje je obavezno ovjeravanje, odnosno odobrenje tipa mjerila | [`uredba/2009/338531/`](uredba/2009/338531/) | in force | 1 | 2009-12-16 | 2009-12-16 |
+| Uredba o mjerama informacione bezbjednosti | [`uredba/2010/305781/`](uredba/2010/305781/) | amended, not consolidated | 1 | 2010-10-16 | 2010-10-16 |
 | Uredba o evidenciji ljudskih resursa za potrebe odbrane | [`uredba/2010/325903/`](uredba/2010/325903/) | in force | 1 | 2010-12-25 | 2010-12-25 |
 | Uredba o izmjenama Uredbe o nacinu obrazovanja maksimalnih maloprodajnih cijena naftnih derivata | [`uredba/2010/333001/`](uredba/2010/333001/) | in force | 1 | 2010-12-18 | 2010-12-18 |
 | Uredba o izmjenama Uredbe o nacinu organizovanja i izvrsavanja materijalne obaveze | [`uredba/2010/333186/`](uredba/2010/333186/) | in force | 1 | 2010-04-09 | 2010-04-09 |
+| Uredba o dopunama Uredbe o uslovima za odlaganje naplate poreskih i neporeskih potrazivanja | [`uredba/2010/333443/`](uredba/2010/333443/) | amended, not consolidated | 1 | 2010-10-29 | 2010-10-29 |
 | Uredba o nacinu razmjene informacija o proizvodima koji predstavljaju rizik | [`uredba/2010/334025/`](uredba/2010/334025/) | in force | 1 | 2010-03-20 | 2010-03-20 |
 | Uredba o standardima i uslovima koje moraju ispunjavati granicni prelazi | [`uredba/2010/334066/`](uredba/2010/334066/) | in force | 1 | 2010-03-13 | 2010-03-13 |
+| Uredba o izmjeni Uredbe o vojno diplomatskim predstavnicima | [`uredba/2010/334298/`](uredba/2010/334298/) | amended, not consolidated | 1 | 2010-04-09 | 2010-04-09 |
 | Uredba o uslovima za organizovanje javne i aukcijske prodaje robe | [`uredba/2010/334783/`](uredba/2010/334783/) | in force | 1 | 2010-01-23 | 2010-01-23 |
 | Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva uredjenja prostora i zastite zivotne sredine Glavnom gradu - Podgorica | [`uredba/2010/337657/`](uredba/2010/337657/) | in force | 1 | 2010-10-22 | 2010-10-22 |
 | Uredba o povjeravanju dijela poslova Ministarstva uredjenja prostora i zastite zivotne sredine Javnom preduzecu za upravljanje morskim dobrom Crne Gore i Javnom preduzecu za nacionalne parkove Crne Gore | [`uredba/2010/337799/`](uredba/2010/337799/) | in force | 1 | 2010-02-10 | 2010-02-10 |
+| Uredba o uskladjivanju nomenklature Carinske tarife za 2011. godinu | [`uredba/2010/338501/`](uredba/2010/338501/) | amended, not consolidated | 1 | 2011-01-07 | 2011-01-07 |
+| Uredba o kriterijumima i nacinu obracuna iznosa minimalne koncesione naknade za ustupanje prava na istrazivanje i eksploataciju mineralnih sirovina | [`uredba/2011/318862/`](uredba/2011/318862/) | amended, not consolidated | 1 | 2011-08-06 | 2011-08-06 |
+| Uredba o nacinu povracaja blokova i pristupu trecih lica upstream postrojenjima | [`uredba/2011/326640/`](uredba/2011/326640/) | amended, not consolidated | 1 | 2011-08-16 | 2011-08-16 |
 | Uredba o visini sredstava za sanaciju i rekultivaciju prostora na kojem se izvode rudarski radovi, nacinu obracunavanja, placanja i koriscenja tih sredstava | [`uredba/2011/326736/`](uredba/2011/326736/) | in force | 1 | 2011-11-05 | 2011-11-05 |
 | Uredba o obimu i strukturi nadzora nad radom vozaca, nacinu pripreme i sadrzaju programa nadzora, nacinu izvodjenja nadzornih ovlascenja i elementima nadzora na putu i prostorijama prevoznika | [`uredba/2011/327429/`](uredba/2011/327429/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Uredba o izmjenama i dopunama Uredbe o uslovima i nacinu koriscenja prevoznih sredstava u svojini Crne Gore | [`uredba/2011/330227/`](uredba/2011/330227/) | amended, not consolidated | 1 | 2011-12-08 | 2011-12-08 |
 | Uredba o prestanku primjene Uredbe o postupku za priznanje ziga | [`uredba/2011/332991/`](uredba/2011/332991/) | in force | 1 | 2011-10-29 | 2011-10-29 |
+| Uredba o odlozenom placanju carinskog duga | [`uredba/2011/333544/`](uredba/2011/333544/) | amended, not consolidated | 1 | 2011-02-19 | 2011-02-19 |
 | Uredba o nacinu i uslovima davanja poklona iz drzavne imovine kojom raspolaze Crna Gora | [`uredba/2011/333809/`](uredba/2011/333809/) | in force | 1 | 2011-02-26 | 2011-02-26 |
 | Uredba o izmjenama i dopunama uredbe o uspostavljanju mreze mjernih mjesta za pracenje kvaliteta vazduha | [`uredba/2011/334026/`](uredba/2011/334026/) | amending act | 1 | 2011-03-12 | 2011-03-12 |
 | Uredba o izmjenama Uredbe o naknadi troskova u sudskim postupcima | [`uredba/2011/334241/`](uredba/2011/334241/) | in force | 1 | 2011-03-19 | 2011-03-19 |
 | Uredba o nacinu obracuna posebne naknade na investicije za izgradnju objekata na teritoriji opstina Crnogorskog primorja | [`uredba/2011/335505/`](uredba/2011/335505/) | in force | 1 | 2011-06-02 | 2011-06-02 |
 | Uredba o minimumu procesa rada i načinu njegovog obezbjedjivanja u ustanovama javnog obrazovanja | [`uredba/2011/335988/`](uredba/2011/335988/) | in force | 1 | 2011-08-06 | 2011-08-06 |
 | Uredba o nacinu izdavanja, prenosenja i povlacenja garancija porijekla energije proizvedene iz obnovljivih izvora energije i visokoefikasne kogeneracije | [`uredba/2011/335998/`](uredba/2011/335998/) | in force | 1 | 2011-08-06 | 2011-08-06 |
+| Uredba o nacinu sticanja statusa i ostvarivanja prava povlascenog proizvodjaca elektricne energije | [`uredba/2011/336006/`](uredba/2011/336006/) | amended, not consolidated | 1 | 2011-08-06 | 2011-08-06 |
+| Uredba o nacinu izracunavanja indeksa razvijenosti jedinice lokalne samouprave | [`uredba/2011/336307/`](uredba/2011/336307/) | amended, not consolidated | 1 | 2011-08-23 | 2011-08-23 |
+| Uredba o izmjenama i dopunama Uredbe o viznom režimu | [`uredba/2011/337544/`](uredba/2011/337544/) | amended, not consolidated | 1 | 2011-12-31 | 2011-12-31 |
+| Uredba o izmjeni Uredbe o odloženom plaćanja carinskog duga | [`uredba/2011/337887/`](uredba/2011/337887/) | amended, not consolidated | 1 | 2011-12-31 | 2011-12-31 |
+| Uredbu o izmjeni Uredbe o načinu ostvarivanja prava raseljenih lica iz bivših jugoslovenskih republika i interno raseljenih lica sa Kosova koja borave u Crnoj Gori | [`uredba/2011/337983/`](uredba/2011/337983/) | amended, not consolidated | 1 | 2012-01-06 | 2012-01-06 |
 | Uredba o djelatnostima koje utiču ili mogu uticati na kvalitet vazduha | [`uredba/2012/302545/`](uredba/2012/302545/) | in force | 1 | 2012-12-15 | 2012-12-15 |
+| Uredba o uslovima i kriterijumima objavljivanja liste poreskih dužnika | [`uredba/2012/303943/`](uredba/2012/303943/) | amended, not consolidated | 1 | 2012-11-17 | 2012-11-17 |
+| Uredba o organizaciji i načinu rada državne uprave | [`uredba/2012/321800/`](uredba/2012/321800/) | amended, not consolidated | 1 | 2012-01-24 | 2012-01-24 |
+| Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2012/329514/`](uredba/2012/329514/) | amended, not consolidated | 1 | 2012-12-08 | 2012-12-08 |
+| Uredba o uspostavljanju unutrašnje revizije u javnom sektoru | [`uredba/2012/332643/`](uredba/2012/332643/) | amended, not consolidated | 1 | 2012-10-08 | 2012-10-08 |
 | Uredba o dopuni Uredbe o povjeravanju dijela poslova Uprave policije Prijestonici Cetinje i opštinama: Bar, Budva, Tivat, Kotor, Nikšić i Herceg Novi | [`uredba/2012/337084/`](uredba/2012/337084/) | amending act | 1 | 2012-10-08 | 2012-10-08 |
 | Uredba o načinu i postupku davanja u zakup privremeno oduzete imovine | [`uredba/2012/337261/`](uredba/2012/337261/) | in force | 1 | 2012-11-24 | 2012-11-24 |
 | Uredba o načinu i postupku prodaje privremeno oduzete nepokretne imovine | [`uredba/2012/337262/`](uredba/2012/337262/) | in force | 1 | 2012-11-24 | 2012-11-24 |
+| Uredba o dopuni Uredbe o uslovima i načinu korišćenja prevoznih sredstava u svojini Crne Gore | [`uredba/2012/337527/`](uredba/2012/337527/) | amended, not consolidated | 1 | 2012-12-29 | 2012-12-29 |
 | Odluka o utvrđivanju visine procenta za usklađivanje penzije za mjesec jun 1994. godine | [`uredba/2013/294634/`](uredba/2013/294634/) | in force | 1 | 2013-10-15 | 2013-10-15 |
 | Uredba o izmjenama i dopunama Uredbe o načinu isplate zarada i otalih ličnih primanja | [`uredba/2013/296828/`](uredba/2013/296828/) | amending act | 1 | 2013-10-15 | 2013-10-15 |
+| Uredba o izmjeni i dopuni Uredbe o projektima za koje se vrši procjena uticaja na životnu sredinu | [`uredba/2013/301437/`](uredba/2013/301437/) | amended, not consolidated | 1 | 2013-10-16 | 2013-10-16 |
 | Uredba o izmjeni Uredbe o uslovima i načinu korišćenja službenih zgrada i poslovnih prostorija u svojini Crne Gore | [`uredba/2013/305566/`](uredba/2013/305566/) | in force | 1 | 2013-04-27 | 2013-04-27 |
 | Uredba o prestanku važenja Uredbe o načinu i postupku ocjenjivanja probnog rada u državnim organima | [`uredba/2013/306109/`](uredba/2013/306109/) | in force | 1 | 2013-07-19 | 2013-07-19 |
 | Uredba o izmjeni Uredbe o odloženom plaćanju carinskog duga | [`uredba/2013/307906/`](uredba/2013/307906/) | in force | 1 | 2013-01-12 | 2013-01-12 |
+| Uredba o povjeravanju dijela poslova Ministarstva odrzivog razvoja i turizma Inzinjerskoj komori Crne gore | [`uredba/2013/307994/`](uredba/2013/307994/) | amended, not consolidated | 1 | 2013-07-09 | 2013-07-09 |
+| Uredba o izmjeni Uredbe o uslovima i načinu korišćenja objekata za reprezentativne potrebe u svojini Crne Gore | [`uredba/2013/308174/`](uredba/2013/308174/) | amended, not consolidated | 1 | 2013-04-27 | 2013-04-27 |
 | Uredba o prestanku važenja Uredbe o načinu i uslovima za dodjelu koncesija za vršenje geoloških istraživanja i eksploataciju mineralnih sirovina | [`uredba/2013/309298/`](uredba/2013/309298/) | in force | 1 | 2013-11-30 | 2013-11-30 |
+| Uredba o dopuni Uredbe o načinu vođenja kaznene evidencije | [`uredba/2013/313130/`](uredba/2013/313130/) | amended, not consolidated | 1 | 2013-03-09 | 2013-03-09 |
 | Uredba o visini troškova za tehnički pregled vozila | [`uredba/2013/315896/`](uredba/2013/315896/) | in force | 1 | 2013-04-06 | 2013-04-06 |
+| Uredba o postupku naplate poreskih potraživanja imovinom poreskog obveznika | [`uredba/2013/316744/`](uredba/2013/316744/) | amended, not consolidated | 1 | 2013-04-13 | 2013-04-13 |
 | Uredba o povjeravanju dijela poslova Ministarstva finansija Privrednoj komori Crne Gore | [`uredba/2013/318678/`](uredba/2013/318678/) | in force | 1 | 2013-02-12 | 2013-02-12 |
+| Uredba o notifikaciji tehničkih propisa, standarda, propisa o uslugama informatičkog društva i postupaka ocjene usaglašenosti | [`uredba/2013/332704/`](uredba/2013/332704/) | amended, not consolidated | 1 | 2013-03-01 | 2013-03-01 |
+| Uredba o dopunama Uredbe o obilježavanju duvanskih proizvoda i alkoholnih pića kontrolnim akciznim markicama | [`uredba/2013/333836/`](uredba/2013/333836/) | amended, not consolidated | 1 | 2013-03-01 | 2013-03-01 |
 | Uredba o dopuni Uredbe o načinu i postupku podnošenja prijave državne pomoći | [`uredba/2013/334123/`](uredba/2013/334123/) | amending act | 1 | 2013-03-09 | 2013-03-09 |
 | Uredba o mjerilima za razvrstavanje poslova radnih mjesta državnih službenika u zvanja u okviru nivoa i kategorija | [`uredba/2013/334129/`](uredba/2013/334129/) | in force | 1 | 2013-03-02 | 2013-03-02 |
 | Uredba o visini troškova pregleda uređaja i opreme za tehnički pregled vozila | [`uredba/2013/334252/`](uredba/2013/334252/) | in force | 1 | 2013-04-06 | 2013-04-06 |
+| Uredba o izmjenama i dopunama Uredbe o uslovima i načinu korišćenja prevoznih sredstava u svojini Crne Gore | [`uredba/2013/334349/`](uredba/2013/334349/) | amended, not consolidated | 1 | 2013-04-13 | 2013-04-13 |
 | Uredba o službenim zvanjima lokalnih službenika i namještenika i uslovima za njihovo vršenje u organima lokalne uprave | [`uredba/2013/334503/`](uredba/2013/334503/) | in force | 1 | 2013-03-30 | 2013-03-30 |
 | Uredba o prestanku važenja Uredbe o načinu izrade i donošenju tehničkih propisa i tehničkih specifikacija i registru tehničkih propisa | [`uredba/2013/334566/`](uredba/2013/334566/) | in force | 1 | 2013-04-20 | 2013-04-20 |
 | Uredba o izmjeni Uredbe o uslovima i načinu korišćenja prevoznih sredstava u svojini Crne Gore | [`uredba/2013/334792/`](uredba/2013/334792/) | in force | 1 | 2013-04-27 | 2013-04-27 |
@@ -34195,24 +34406,38 @@
 | Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2013. godinu - Agrobudžet | [`uredba/2013/335476/`](uredba/2013/335476/) | in force | 1 | 2013-06-22 | 2013-06-22 |
 | Uredba o mjerilima i načinu ocjenjivanja državnih službenika i namještenika | [`uredba/2013/335626/`](uredba/2013/335626/) | in force | 1 | 2013-07-19 | 2013-07-19 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2013. godinu | [`uredba/2013/335652/`](uredba/2013/335652/) | in force | 1 | 2013-07-13 | 2013-07-13 |
+| Uredbu o dopuni Uredbe o povjeravanju dijela poslova Uprave policije Glavnom gradu - Podgorica | [`uredba/2013/335656/`](uredba/2013/335656/) | amended, not consolidated | 1 | 2013-07-09 | 2013-07-09 |
+| Uredbu o dopuni Uredbe o povjeravanju dijela poslova Uprave policije Prijestonici Cetinje i opštinama Bar, Budva, Tivat, Kotor, Nikšić, Ulcinj i Herceg Novi | [`uredba/2013/335664/`](uredba/2013/335664/) | amended, not consolidated | 1 | 2013-07-09 | 2013-07-09 |
 | Uredba o izmjenama uredbe o vrstama unutrašnjih organizacionih jedinica i zvanjima službenika agencije za nacionalnu bezbjednost | [`uredba/2013/335845/`](uredba/2013/335845/) | in force | 1 | 2013-07-13 | 2013-07-13 |
 | Uredba o izmjenama i dopunama Uredbe o licima kojima se izdaje diplomatski i službeni pasoš | [`uredba/2013/336090/`](uredba/2013/336090/) | amending act | 1 | 2013-07-27 | 2013-07-27 |
 | Uredba o dopuni Uredbe o subvencijama za zapošljavanje određenih kategorija nezaposlenih lica | [`uredba/2013/336401/`](uredba/2013/336401/) | amending act | 1 | 2013-08-21 | 2013-08-21 |
 | Uredba o proceduri izrade i donošenja planskog dokumenta po skraćenom postupku | [`uredba/2013/336410/`](uredba/2013/336410/) | in force | 1 | 2013-08-13 | 2013-08-13 |
 | Uredba o dopuni uredbe o načinu vođenja kaznene evidencije | [`uredba/2013/337360/`](uredba/2013/337360/) | amending act | 1 | 2013-11-22 | 2013-11-22 |
+| Uredba o izmjeni i dopuni Uredbe o uslovima i kriterijumima objavljivanja liste poreskih dužnika | [`uredba/2013/337417/`](uredba/2013/337417/) | amended, not consolidated | 1 | 2013-11-23 | 2013-11-23 |
 | Uredba o izmjeni i dopunama Uredbe o uslovima za odlaganje naplate poreskih i neporeskih potraživanja | [`uredba/2013/337418/`](uredba/2013/337418/) | amending act | 1 | 2013-11-15 | 2013-11-15 |
 | Uredba o vrsti, bližem sadržaju, načinu pripreme, donošenja i metodologiji izrade programa stručnog osposobljavanja i usavršavanja državnih službenika i namještenika | [`uredba/2013/337651/`](uredba/2013/337651/) | in force | 1 | 2013-12-28 | 2013-12-28 |
+| Uredba o povjeravanju dijela poslova Uprave policije Glavnom gradu - Podgorica | [`uredba/2013/338705/`](uredba/2013/338705/) | amended, not consolidated | 1 | 2013-02-04 | 2013-02-04 |
+| Uredba o povjeravanju dijela poslova Uprave policije Prijestonici Cetinje i opštinama Bar, Budva, Tivat, Kotor, Kikšić, Ulcinj i Herceg Novi | [`uredba/2013/338706/`](uredba/2013/338706/) | amended, not consolidated | 1 | 2013-02-04 | 2013-02-04 |
 | Uredba o povjeravanju dijela poslova Uprave za inspekcijske poslove Opštini Budva | [`uredba/2014/292555/`](uredba/2014/292555/) | in force | 1 | 2014-12-19 | 2014-12-19 |
 | Uredba o grupnom izuzeću od zabrane horizontalnih sporazuma o istraživanju i razvoju | [`uredba/2014/302786/`](uredba/2014/302786/) | in force | 1 | 2014-03-22 | 2014-03-22 |
 | Uredba o izmjenama Uredbe o tarifi javnih izvršitelja | [`uredba/2014/303141/`](uredba/2014/303141/) | in force | 1 | 2014-03-30 | 2014-03-30 |
+| Uredba o izmjeni Uredbe o zastupniku Crne Gore pred Evropskim sudom za ljudska prava | [`uredba/2014/304448/`](uredba/2014/304448/) | amended, not consolidated | 1 | 2014-07-12 | 2014-07-12 |
 | Uredba o sadržini Plana mjera za obezbjeđenje integriteta javnih elektronskih komunikacionih mreža i korišćenje elektronskih komunikacionih usluga u vanrednim situacijama | [`uredba/2014/307110/`](uredba/2014/307110/) | in force | 1 | 2014-12-06 | 2014-12-06 |
 | Uredba o Carinskoj tarifi za 2014. godinu | [`uredba/2014/316158/`](uredba/2014/316158/) | in force | 1 | 2014-01-30 | 2014-01-30 |
 | Uredba o bližim kriterijumima, postupku i načinu raspodjele i korišćenja dozvola za slobodni prevoz putnika | [`uredba/2014/323635/`](uredba/2014/323635/) | in force | 1 | 2014-10-18 | 2014-10-18 |
+| Uredba o izmjeni Uredbe o povjeravanju poslova iz nadležnosti Ministarstva održivog razvoja i turizma Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za nacionalne parkove Crne Gore | [`uredba/2014/325633/`](uredba/2014/325633/) | amended, not consolidated | 1 | 2014-12-30 | 2014-12-30 |
 | Uredba o izmjeni Uredbe o subvencijama za zapošljavanje određenih kategorija nezaposlenih lica | [`uredba/2014/325707/`](uredba/2014/325707/) | in force | 1 | 2014-12-31 | 2014-12-31 |
 | Uredba o posebnim troškovima korišćenja arhivske građe i usluga državnog arhiva | [`uredba/2014/326211/`](uredba/2014/326211/) | in force | 1 | 2014-02-12 | 2014-02-12 |
 | Uredba o izmjeni i dopuni Uredbe o utvrđivanju radnih mjesta, odnosno poslova u organima državne uprave na kojima se staž osiguranja računa sa uvećanim trajanjem | [`uredba/2014/326788/`](uredba/2014/326788/) | amending act | 1 | 2014-08-30 | 2014-08-30 |
+| Uredba o dopuni Uredbe o postupku i kriterijumima za pretvaranje posebnih i zajedničkih djelova stambene zgrade u poslovne prostorije | [`uredba/2014/331618/`](uredba/2014/331618/) | amended, not consolidated | 1 | 2014-02-12 | 2014-02-12 |
+| Uredba o dopuni Uredbe o viznom režimu | [`uredba/2014/333261/`](uredba/2014/333261/) | amended, not consolidated | 1 | 2014-07-19 | 2014-07-19 |
 | Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2014. godinu - Agrobudžet | [`uredba/2014/333559/`](uredba/2014/333559/) | in force | 1 | 2014-03-12 | 2014-03-12 |
+| Uredba o načinu obračuna i plaćanja naknade za proizvodnju nafte i gasa | [`uredba/2014/333911/`](uredba/2014/333911/) | amended, not consolidated | 1 | 2014-03-22 | 2014-03-22 |
 | Uredba o grupnim izuzećima vertikalnih sporazuma od zabrane | [`uredba/2014/333922/`](uredba/2014/333922/) | in force | 1 | 2014-03-22 | 2014-03-22 |
+| Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata | [`uredba/2014/334283/`](uredba/2014/334283/) | amended, not consolidated | 1 | 2014-04-05 | 2014-04-05 |
+| Uredba o izmjenama Uredbe o obilježavanju duvanskih proizvoda i alkoholnih pića kontrolnim akciznim markicama | [`uredba/2014/334841/`](uredba/2014/334841/) | amended, not consolidated | 1 | 2014-04-25 | 2014-04-25 |
+| Uredba o izmjeni Uredbe o povjeravanju poslova iz nadležnosti Ministarstva održivog razvoja i turizma Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za Nacionalne parkove Crne Gore | [`uredba/2014/334897/`](uredba/2014/334897/) | amended, not consolidated | 1 | 2014-06-14 | 2014-06-14 |
+| Uredba o dopuni Uredbe o viznom režimu | [`uredba/2014/335053/`](uredba/2014/335053/) | amended, not consolidated | 1 | 2014-06-14 | 2014-06-14 |
 | Uredba o izmjeni Uredbe o načinu sticanja statusa i ostvarivanja prava povlašćenog proizvođača električne energije | [`uredba/2014/335348/`](uredba/2014/335348/) | in force | 1 | 2014-07-12 | 2014-07-12 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2014. godinu | [`uredba/2014/335349/`](uredba/2014/335349/) | in force | 1 | 2014-07-12 | 2014-07-12 |
 | Uredba o izmjeni Uredbe o Tarifnom sistemu za utvrđivanje podsticajne cijene električne energije iz obnovljivih izvora energije i visokoefikasne kogeneracije | [`uredba/2014/335501/`](uredba/2014/335501/) | in force | 1 | 2014-07-12 | 2014-07-12 |
@@ -34220,69 +34445,99 @@
 | Uredba o Nacionalnoj klasifikaciji obrazovanja | [`uredba/2014/335825/`](uredba/2014/335825/) | in force | 1 | 2014-07-19 | 2014-07-19 |
 | Uredba o dopuni Uredbe o utvrđivanju dužnosti, odnosno poslova na kojima se profesionalnim vojnim licima staž osiguranja računa sa uvećanim trajanjem | [`uredba/2014/335950/`](uredba/2014/335950/) | amending act | 1 | 2014-08-30 | 2014-08-30 |
 | Uredba o načinu i postupku vršenja kontrole izmirenja novčanih obaveza u komercijalnim transakcijama | [`uredba/2014/335951/`](uredba/2014/335951/) | in force | 1 | 2014-08-23 | 2014-08-23 |
+| Uredba o izmjeni Uredbe o zastupniku Crne Gore pred Evropskim sudom za ljudska prava | [`uredba/2014/335952/`](uredba/2014/335952/) | amended, not consolidated | 1 | 2014-08-22 | 2014-08-22 |
 | Uredba o načinu i uslovima čuvanja javne registraturske i arhivske građe | [`uredba/2014/336321/`](uredba/2014/336321/) | in force | 1 | 2014-01-29 | 2014-01-29 |
 | Uredba o izmjeni Uredbe o obliku, sadržaju, načinu vođenja i upotrebe Jedinstvene evidencije turističkog prometa | [`uredba/2014/336362/`](uredba/2014/336362/) | in force | 1 | 2014-09-20 | 2014-09-20 |
 | Uredba o načinu i bližim kriterijumima za utvrđivanje naknade za uspostavljeno pravo službenosti na nepokretnostima na skijaškom području | [`uredba/2014/336631/`](uredba/2014/336631/) | in force | 1 | 2014-11-15 | 2014-11-15 |
+| Uredba o dopuni Uredbe o povjeravanju dijela poslova Uprave policije Prijestonici Cetinje i opštinama: Bar, Budva, Tivat, Kotor, Nikšić, Ulcinj i Herceg Novi | [`uredba/2014/336822/`](uredba/2014/336822/) | amended, not consolidated | 1 | 2014-11-08 | 2014-11-08 |
+| Uredba o izmjenama i dopunama Uredbe o projektima za koje se vrši procjena uticaja na životnu sredinu | [`uredba/2014/337438/`](uredba/2014/337438/) | amended, not consolidated | 1 | 2014-12-27 | 2014-12-27 |
 | Uredba o odloženom plaćanju carinskog duga | [`uredba/2014/337496/`](uredba/2014/337496/) | in force | 1 | 2014-12-30 | 2014-12-30 |
 | Uredba o izmjenama i dopunama Uredbe o obilježavanju duvanskih proizvoda i alkoholnih pića kontrolnim akciznim markicama | [`uredba/2014/337663/`](uredba/2014/337663/) | amending act | 1 | 2014-12-30 | 2014-12-30 |
+| Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Inženjerskoj komori Crne Gore | [`uredba/2014/337750/`](uredba/2014/337750/) | amended, not consolidated | 1 | 2014-12-31 | 2014-12-31 |
 | Uredba o dopuni Uredbe o planiranju i uređenju prostora, izgradnji, rekonstrukciji i održavanju vojnih objekata u vojnom krugu | [`uredba/2014/337881/`](uredba/2014/337881/) | amending act | 1 | 2014-02-12 | 2014-02-12 |
 | Uredba o načinu i postupku utvrđivanja iznosa prosječne ponderisane maloprodajne cijene cigareta | [`uredba/2014/338874/`](uredba/2014/338874/) | in force | 1 | 2014-02-14 | 2014-02-14 |
 | Uredba o izmjenama i dopuni Uredbe o postupku i kriterijumima za pretvaranje posebnih i zajedničkih djelova stambene zgrade u poslovne prostorije | [`uredba/2014/348165/`](uredba/2014/348165/) | amending act | 1 | 2014-10-18 | 2014-10-18 |
+| Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Inženjerskoj komori Crne Gore | [`uredba/2014/348273/`](uredba/2014/348273/) | amended, not consolidated | 1 | 2014-07-09 | 2014-07-09 |
+| Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Inženjerskoj komori Crne Gore | [`uredba/2015/313703/`](uredba/2015/313703/) | amended, not consolidated | 1 | 2016-01-01 | 2016-01-01 |
+| Uredba o uslovima za spoljnotrgovinski promet neobrađenih dijamanata | [`uredba/2015/315857/`](uredba/2015/315857/) | amended, not consolidated | 1 | 2015-08-01 | 2015-08-01 |
 | Uredba o sadržaju i načinu vođenja podataka u Jedinstvenom informacionom sistemu za elektronsku razmjenu podataka | [`uredba/2015/316851/`](uredba/2015/316851/) | in force | 1 | 2015-08-05 | 2015-08-05 |
 | Uredba o podsticanju direktnih investicija | [`uredba/2015/320999/`](uredba/2015/320999/) | in force | 1 | 2015-03-07 | 2015-03-07 |
 | Uredba o dopunama Uredbe o mjerama informacione bezbjednosti | [`uredba/2015/322649/`](uredba/2015/322649/) | amending act | 1 | 2015-10-08 | 2015-10-08 |
 | Uredba o utvrđivanju vrste i vrijednosti nepokretnosti koju stranac posjeduje u Crnoj Gori | [`uredba/2015/323266/`](uredba/2015/323266/) | in force | 1 | 2015-11-03 | 2015-11-03 |
 | Uredba o izmjenama i dopuni Uredbe o tarifnom sistemu za utvrđivanje podsticajne cijene električne energije iz obnovljivih izvora energije i visokoefikasne kogeneracije | [`uredba/2015/328118/`](uredba/2015/328118/) | amending act | 1 | 2016-01-08 | 2016-01-08 |
 | Uredba o sadržaju i načinu korišćenja programskog rješenja za vođenje biračkog spiska | [`uredba/2015/330393/`](uredba/2015/330393/) | in force | 1 | 2015-09-19 | 2015-09-19 |
+| Uredba o organizaciji indirektnog upravljanja sprovođenja finansijske pomoći u okviru instrumenta pretpristupne podrške Evropske Unije (IPA II) | [`uredba/2015/331456/`](uredba/2015/331456/) | amended, not consolidated | 1 | 2015-09-08 | 2015-09-08 |
+| Uredba o izmjeni i dopuni Uredbe o viznom režimu | [`uredba/2015/333370/`](uredba/2015/333370/) | amended, not consolidated | 1 | 2015-03-18 | 2015-03-18 |
 | Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2015. godinu | [`uredba/2015/333581/`](uredba/2015/333581/) | in force | 1 | 2015-03-20 | 2015-03-20 |
 | Uredba o izmjenama Uredbe o uslovima i načinu korišćenja prevoznih sredstava u svojini Crne Gore | [`uredba/2015/333874/`](uredba/2015/333874/) | in force | 1 | 2015-03-20 | 2015-03-20 |
+| Uredba o izmjeni Uredbe o povjeravanju poslova iz nadležnosti Ministarstva održivog razvoja i turizma Javnom preduzeću za upravLjanje Morskim dobrom Crne Gore i Javnom preduzeću za nacionalne parkove Crne Gore | [`uredba/2015/334306/`](uredba/2015/334306/) | amended, not consolidated | 1 | 2015-04-03 | 2015-04-03 |
 | Uredba o utvrđivanju grupa proizvoda nad kojima se vrši nadzor na tržištu | [`uredba/2015/334713/`](uredba/2015/334713/) | in force | 1 | 2015-05-02 | 2015-05-02 |
 | Uredba o dopuni Uredbe o carinskoj tarifi za 2015. godinu | [`uredba/2015/334936/`](uredba/2015/334936/) | amending act | 1 | 2015-05-19 | 2015-05-19 |
 | Uredba o bližim uslovima koje treba da ispunjavaju materije ili predmeti koji nastaju iz proizvodnog procesa za sporedne proizvode | [`uredba/2015/335835/`](uredba/2015/335835/) | in force | 1 | 2015-06-20 | 2015-06-20 |
+| Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Inženjerskoj komori Crne Gore | [`uredba/2015/336077/`](uredba/2015/336077/) | amended, not consolidated | 1 | 2015-07-08 | 2015-07-08 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2015. godinu | [`uredba/2015/336124/`](uredba/2015/336124/) | in force | 1 | 2015-07-15 | 2015-07-15 |
 | Uredba o kriterijumima i postupku za utvrđivanje godišnjeg broja dozvola za privremeni boravak i rad stranaca | [`uredba/2015/336249/`](uredba/2015/336249/) | in force | 1 | 2016-01-01 | 2016-01-01 |
+| Uredba o uslovima za ustupanje i obavljanje poslova utvrđenih Nacionalnim programom zaštite potrošača i bližim kriterijumima, načinu i postupku finansiranja organizacija potrošača | [`uredba/2015/336431/`](uredba/2015/336431/) | amended, not consolidated | 1 | 2015-08-01 | 2015-08-01 |
 | Uredba o načinu rada, sadržaju i upravljanju portalom elektronske uprave | [`uredba/2015/336435/`](uredba/2015/336435/) | in force | 1 | 2015-07-29 | 2015-07-29 |
 | Uredba o pružanju poštanskih usluga i korišćenju poštanske mreže univerzalnog poštanskog operatora u slučaju vanrednih okolnosti | [`uredba/2015/336632/`](uredba/2015/336632/) | in force | 1 | 2015-08-08 | 2015-08-08 |
 | Uredba o kategorizaciji, klasifikaciji i označavanju željezničkih pruga | [`uredba/2015/336907/`](uredba/2015/336907/) | in force | 1 | 2015-09-16 | 2015-09-16 |
 | Uredba o bližem postupku i načinu sprovođenja istraživanja pomorskih nezgoda i nesreća | [`uredba/2015/336914/`](uredba/2015/336914/) | in force | 1 | 2015-09-19 | 2015-09-19 |
+| Uredba o načinu rada sistema brze razmjene informacija o proizvodima koji predstavljaju rizik | [`uredba/2015/337311/`](uredba/2015/337311/) | amended, not consolidated | 1 | 2015-10-15 | 2015-10-15 |
+| Uredba o bližim uslovima i načinu sprovođenja administrativnih i fizičkih mjera zaštite tajnih podataka | [`uredba/2015/337386/`](uredba/2015/337386/) | amended, not consolidated | 1 | 2015-10-03 | 2015-10-03 |
 | Uredba o izmjenama Uredbe o bližim kriterijumima i metodologiji za određivanje tržišne vrijednosti nepokretnosti | [`uredba/2015/338005/`](uredba/2015/338005/) | in force | 1 | 2015-11-26 | 2015-11-26 |
 | Uredba o podsticanju direktnih investicija | [`uredba/2015/338479/`](uredba/2015/338479/) | in force | 1 | 2015-12-31 | 2015-12-31 |
+| Uredba o izmjeni Uredbe o povjeravanju poslova iz nadležnosti Ministarstva održivog razvoja i turizma Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za Nacionalne parkove Crne Gore | [`uredba/2015/338678/`](uredba/2015/338678/) | amended, not consolidated | 1 | 2015-12-31 | 2015-12-31 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2016. godinu | [`uredba/2016/308321/`](uredba/2016/308321/) | in force | 1 | 2016-07-08 | 2016-07-08 |
+| Uredba o izmjeni i dopunama Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu | [`uredba/2016/310436/`](uredba/2016/310436/) | amended, not consolidated | 1 | 2016-07-29 | 2016-07-29 |
 | Uredba o Tarifi javnih izvršitelja | [`uredba/2016/311823/`](uredba/2016/311823/) | in force | 1 | 2016-01-23 | 2016-01-23 |
+| Uredba o grupama poslova i koeficijentima za zarade policijskih službenika | [`uredba/2016/312473/`](uredba/2016/312473/) | amended, not consolidated | 1 | 2016-04-27 | 2016-04-27 |
 | Uredba o izmjeni Uredbe o vojno-diplomatskim predstavnicima | [`uredba/2016/312504/`](uredba/2016/312504/) | in force | 1 | 2016-04-08 | 2016-04-08 |
 | Uredba o postupanju carinskog organa sa robom za koju postoji osnovana sumnja da povređuje prava intelektualne svojine | [`uredba/2016/315136/`](uredba/2016/315136/) | in force | 1 | 2016-08-09 | 2016-08-09 |
 | Uredba o izmjeni i dopuni Uredbe o utvrđivanju radnih mjesta, odnosno poslova u organima državne uprave na kojima se staž osiguranja računa sa uvećanim trajanjem | [`uredba/2016/316502/`](uredba/2016/316502/) | amending act | 1 | 2016-05-28 | 2016-05-28 |
 | Uredba o visini boravišne takse za plovne objekte nautičkog turizma | [`uredba/2016/319206/`](uredba/2016/319206/) | in force | 1 | 2016-02-24 | 2016-02-24 |
+| Uredba o biznis zonama | [`uredba/2016/319560/`](uredba/2016/319560/) | amended, not consolidated | 1 | 2016-12-21 | 2016-12-21 |
 | Uredba o izmjeni i dopunama Uredbe o načinu označavanja naziva naseLja, ulica, trgova i zgrada i sadržaju i načinu vođenja evidencije | [`uredba/2016/320085/`](uredba/2016/320085/) | amending act | 1 | 2016-10-20 | 2016-10-20 |
 | Uredba o vrstama supstanci koje se koriste za smanjivanje površinske kontaminacije sa proizvoda životinjskog porijekla | [`uredba/2016/328954/`](uredba/2016/328954/) | in force | 1 | 2017-01-03 | 2017-01-03 |
 | Uredba o zaradama i drugim primanjima vojno-diplomatskih predstavnika | [`uredba/2016/329480/`](uredba/2016/329480/) | in force | 1 | 2016-04-08 | 2016-04-08 |
 | Uredba o postupku javnog tendera za izdavanje odobrenja za proizvodnju duvanskih proizvoda | [`uredba/2016/330996/`](uredba/2016/330996/) | in force | 1 | 2016-02-06 | 2016-02-06 |
 | Uredba o izmjeni Uredbe o povjeravanju dijela poslova Uprave policije Glavnom gradu - Podgorica | [`uredba/2016/331917/`](uredba/2016/331917/) | in force | 1 | 2016-07-08 | 2016-07-08 |
+| Uredba o dopunama Uredbe o viznom režimu | [`uredba/2016/333982/`](uredba/2016/333982/) | amended, not consolidated | 1 | 2016-03-03 | 2016-03-03 |
+| Uredba o informisanju potrošača o hrani | [`uredba/2016/334124/`](uredba/2016/334124/) | amended, not consolidated | 1 | 2016-03-02 | 2016-03-02 |
 | Uredba o odloženom plaćanju carinskog duga | [`uredba/2016/334421/`](uredba/2016/334421/) | in force | 1 | 2016-03-11 | 2016-03-11 |
 | Uredba o dopuni Uredbe o prestanku primjene pojedinih podzakonskih akata | [`uredba/2016/335157/`](uredba/2016/335157/) | amending act | 1 | 2016-04-13 | 2016-04-13 |
 | Uredba o izmjeni Uredbe o načinu obavezne provjere sposobnosti, bližim kriterijumima i načinu ocjenjivanja kandidata za vršenje poslova radnog mjesta u državnom organu | [`uredba/2016/335474/`](uredba/2016/335474/) | in force | 1 | 2016-05-03 | 2016-05-03 |
 | Uredba o mjerama za sprječavanje trihinele kod ljudi | [`uredba/2016/335633/`](uredba/2016/335633/) | repealed, not consolidated | 1 | 2016-05-28 | 2016-05-28 |
 | Uredbu o zvanjima unutrašnjih revizora u javnom sektoru i raspoređivanju u grupu poslova | [`uredba/2016/335976/`](uredba/2016/335976/) | in force | 1 | 2016-06-17 | 2016-06-17 |
+| Uredba o izmjeni i dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2016/336315/`](uredba/2016/336315/) | amended, not consolidated | 1 | 2016-07-14 | 2016-07-14 |
+| Uredba o naknadi troškova zaposlenih u javnom sektoru | [`uredba/2016/336488/`](uredba/2016/336488/) | amended, not consolidated | 1 | 2016-06-30 | 2016-06-30 |
 | Uredba o izmjeni i dopuni Uredbe o kriterijumima i načinu obračuna iznosa minimalne koncesione naknade za ustupanje prava na istraživanje i eksploataciju mineralnih sirovina | [`uredba/2016/336489/`](uredba/2016/336489/) | amending act | 1 | 2016-07-08 | 2016-07-08 |
 | Uredba o povjeravanju dijela poslova uprave za inspekcijske poslove Opštini Budva | [`uredba/2016/337078/`](uredba/2016/337078/) | in force | 1 | 2016-08-09 | 2016-08-09 |
+| Uredba o zaradama lica u službi u Vojsci Crne Gore | [`uredba/2016/337192/`](uredba/2016/337192/) | amended, not consolidated | 1 | 2016-08-25 | 2016-08-25 |
 | Uredba o zvanjima, uslovima za sticanje zvanja i oznakama zvanja službenika obezbjeđenja u Zavodu za izvršenje krivičnih sankcija | [`uredba/2016/337598/`](uredba/2016/337598/) | in force | 1 | 2016-10-08 | 2016-10-08 |
 | Uredba o načinu praćenja nivoa dioksina u hrani | [`uredba/2016/338381/`](uredba/2016/338381/) | in force | 1 | 2016-12-03 | 2016-12-03 |
+| Uredba o izmjenama i dopunama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2016/338382/`](uredba/2016/338382/) | amended, not consolidated | 1 | 2016-11-25 | 2016-11-25 |
+| Uredba o izmjeni Uredbe o posebnim zahtjevima higijene za proizvode životinjskog porijekla | [`uredba/2016/338480/`](uredba/2016/338480/) | amended, not consolidated | 1 | 2017-01-03 | 2017-01-03 |
 | Uredba o načinu davanja u zakup privremeno oduzete imovinske koristi stečene kriminalnom djelatnošću odnosno pribavljene krivičnim djelom | [`uredba/2016/338575/`](uredba/2016/338575/) | in force | 1 | 2016-02-06 | 2016-02-06 |
 | Uredba o načinu prodaje privremeno oduzete nepokretne imovine stečene kriminalnom djelatnošću odnosno pribavljene krivičnim djelom | [`uredba/2016/338576/`](uredba/2016/338576/) | in force | 1 | 2016-02-06 | 2016-02-06 |
 | Uredba o mjerama za smanjivanje i sprečavanje kontaminacije soka od jabuke patulinom | [`uredba/2016/338623/`](uredba/2016/338623/) | in force | 1 | 2016-12-21 | 2016-12-21 |
 | Uredba o izmjeni Uredbe o prehrambenim aromama koje se mogu koristiti za hranu | [`uredba/2016/338692/`](uredba/2016/338692/) | in force | 1 | 2017-01-03 | 2017-01-03 |
+| Uredba o supstancama koje se mogu dodavati hrani za posebne prehrambene potrebe | [`uredba/2016/338701/`](uredba/2016/338701/) | amended, not consolidated | 1 | 2017-01-03 | 2017-01-03 |
+| Uredba o rekonstrukciji službenih zgrada | [`uredba/2016/338976/`](uredba/2016/338976/) | amended, not consolidated | 1 | 2016-02-19 | 2016-02-19 |
 | Uredba o izmjeni i dopuni Uredbe o informisanju potrošača o hrani | [`uredba/2016/348012/`](uredba/2016/348012/) | amending act | 1 | 2016-12-31 | 2016-12-31 |
 | Uredba o prestanku važenja Uredbe o Registru licenci za obavljanje privrednih djelatnosti | [`uredba/2017/291229/`](uredba/2017/291229/) | in force | 1 | 2017-03-04 | 2017-03-04 |
 | Uredba o kriterijumima za utvrđivanje visine naknada i premija za ostvarene sportske rezultate | [`uredba/2017/293341/`](uredba/2017/293341/) | in force | 1 | 2017-10-11 | 2017-10-11 |
 | Uredba o izmjenama Uredbe o zakonskim mjerilima za koja je obavezno ovjeravanje, odnosno odobrenje tipa mjerila | [`uredba/2017/293346/`](uredba/2017/293346/) | in force | 1 | 2017-03-08 | 2017-03-08 |
+| Uredba o izmjeni Uredbe o Vladi Crne Gore | [`uredba/2017/293883/`](uredba/2017/293883/) | amended, not consolidated | 1 | 2017-03-03 | 2017-03-03 |
 | Uredba o izmjeni Uredbe o načinu ostvarivanja prava raseljenih lica iz bivših jugoslovenskih republika i interno raseljenih lica sa Kosova koja borave u Crnoj Gori | [`uredba/2017/309466/`](uredba/2017/309466/) | in force | 1 | 2017-07-13 | 2017-07-13 |
 | Uredba o izmjeni Uredbe o povjeravanju poslova iz nadležnosti Ministarstva održivog razvoja i turizma Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za nacionalne parkove Crne Gore | [`uredba/2017/313233/`](uredba/2017/313233/) | in force | 1 | 2017-01-20 | 2017-01-20 |
 | Uredba o dopuni Uredbe o bližim kriterijumima i metodologiji za određivanje tržišne vrijednosti nepokretnosti | [`uredba/2017/320299/`](uredba/2017/320299/) | amending act | 1 | 2017-06-30 | 2017-06-30 |
 | Uredba o izmjenama Uredbe o Carinskoj tarifi za 2017. godinu | [`uredba/2017/322407/`](uredba/2017/322407/) | in force | 1 | 2017-07-12 | 2017-07-12 |
+| Uredba o maksimalno dozvoljenim količinama nepoželjnih supstanci u hrani za životinje | [`uredba/2017/323633/`](uredba/2017/323633/) | amended, not consolidated | 1 | 2017-05-20 | 2017-05-20 |
 | Uredba o izmjenama i dopuni Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2017/327611/`](uredba/2017/327611/) | amending act | 1 | 2017-10-20 | 2017-10-20 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2017. godinu | [`uredba/2017/327714/`](uredba/2017/327714/) | in force | 1 | 2017-07-20 | 2017-07-20 |
 | Uredba o utvrđivanju grupa proizvoda nad kojima se vrši nadzor na tržištu | [`uredba/2017/328816/`](uredba/2017/328816/) | in force | 1 | 2017-11-08 | 2017-11-08 |
 | Uredba o vrstama postupaka javnih nabavki i načinu njihovog sprovođenja za diplomatska i konzularna predstavništva Crne Gore u inostranstvu | [`uredba/2017/328866/`](uredba/2017/328866/) | in force | 1 | 2017-12-08 | 2017-12-08 |
+| Uredba o izmjeni i dopunama Uredbe o posebnim zahtjevima higijene za proizvode životinjskog porijekla | [`uredba/2017/329054/`](uredba/2017/329054/) | amended, not consolidated | 1 | 2017-09-23 | 2017-09-23 |
 | Uredba o sadržaju i načinu vođenja dokumentacione osnove i informacionog sistema i indikatorima za praćenje sprovođenja planskih dokumenata | [`uredba/2017/330861/`](uredba/2017/330861/) | in force | 1 | 2017-12-19 | 2017-12-19 |
 | Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2017. godinu - Agrobudžet | [`uredba/2017/333266/`](uredba/2017/333266/) | in force | 1 | 2017-02-16 | 2017-02-16 |
 | Uredba o načinu i uslovima stavljanja na tržište hrane za posebne prehrambene potrebe | [`uredba/2017/333571/`](uredba/2017/333571/) | in force | 1 | 2017-02-16 | 2017-02-16 |
@@ -34298,6 +34553,7 @@
 | Uredba o izmjenama Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko konzularnom predstavništvu | [`uredba/2017/336699/`](uredba/2017/336699/) | in force | 1 | 2017-07-12 | 2017-07-12 |
 | Uredba o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Inženjerskoj komori Crne Gore | [`uredba/2017/337147/`](uredba/2017/337147/) | in force | 1 | 2017-07-27 | 2017-07-27 |
 | Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Inženjerskoj komori Crne Gore | [`uredba/2017/337172/`](uredba/2017/337172/) | in force | 1 | 2017-01-20 | 2017-01-20 |
+| Uredba o izmjeni Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu | [`uredba/2017/337788/`](uredba/2017/337788/) | amended, not consolidated | 1 | 2017-01-24 | 2017-01-24 |
 | Uredba o minimalnoj sumi osiguranja od profesionalne odgovornosti u oblasti izgradnje objekata | [`uredba/2017/338088/`](uredba/2017/338088/) | in force | 1 | 2017-10-20 | 2017-10-20 |
 | Uredba o visini naknada za izdavanje urbanističko-tehničkih i tehničkih uslova | [`uredba/2017/338089/`](uredba/2017/338089/) | in force | 1 | 2017-10-20 | 2017-10-20 |
 | Uredba o vrstama prehrambenih enzima i uslovima za njihovo korišćenje u hrani | [`uredba/2017/338544/`](uredba/2017/338544/) | in force | 1 | 2017-12-13 | 2017-12-13 |
@@ -34305,28 +34561,46 @@
 | Uredba o izmjeni i dopuni Uredbe o uspostavljanju unutrašnje revizije u javnom sektoru | [`uredba/2017/338727/`](uredba/2017/338727/) | amending act | 1 | 2017-02-08 | 2017-02-08 |
 | Uredba o izmjenama i dopuni Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu | [`uredba/2017/338734/`](uredba/2017/338734/) | amending act | 1 | 2017-01-31 | 2017-01-31 |
 | Uredba o izmjeni Uredbe o carinskoj tarifi za 2018. godinu | [`uredba/2018/311540/`](uredba/2018/311540/) | in force | 1 | 2018-11-02 | 2018-11-02 |
+| Uredba o izmjeni Uredbe o higijeni hrane | [`uredba/2018/313876/`](uredba/2018/313876/) | amended, not consolidated | 1 | 2018-12-14 | 2018-12-14 |
+| Uredba o izmjeni Uredbe o maksimalno dozvoljenim količinama nepoželjnih supstanci u hrani za životinje | [`uredba/2018/314120/`](uredba/2018/314120/) | amended, not consolidated | 1 | 2018-06-30 | 2018-06-30 |
 | Uredba o dopuni Uredbe o obilježavanju duvanskih proizvoda i alkoholnih pića kontrolnim akciznim markicama | [`uredba/2018/314708/`](uredba/2018/314708/) | amending act | 1 | 2018-02-22 | 2018-02-22 |
+| Uredba o Carinskoj tarifi za 2018. godinu | [`uredba/2018/315369/`](uredba/2018/315369/) | amended, not consolidated | 1 | 2018-02-06 | 2018-02-06 |
+| Uredba o kriterijumima za utvrđivanje visine doživotne mjesečne naknade, stipendije, premije, sportske invalidnine, nagrade za sportistu godine i zaslužnog sportskog radnika | [`uredba/2018/315740/`](uredba/2018/315740/) | amended, not consolidated | 1 | 2018-08-18 | 2018-08-18 |
 | Uredba o izmjeni Uredbe o mikrobiološkim kriterijumima za bezbjednost hrane | [`uredba/2018/316017/`](uredba/2018/316017/) | in force | 1 | 2018-05-17 | 2018-05-17 |
+| Uredba o izmjeni Uredbe o posebnim zahtjevima higijene za proizvode životinjskog porijekla | [`uredba/2018/316622/`](uredba/2018/316622/) | amended, not consolidated | 1 | 2018-07-17 | 2018-07-17 |
 | Uredba o prestanku važenja Uredbe o raspoređivanju diplomatskih zvanja u grupu poslova | [`uredba/2018/318141/`](uredba/2018/318141/) | in force | 1 | 2018-02-28 | 2018-02-28 |
 | Uredba o visini novčane pomoći strancu koji traži međunarodnu zaštitu i azilantu i strancu pod supsidijarnom zaštitom | [`uredba/2018/319218/`](uredba/2018/319218/) | in force | 1 | 2018-05-05 | 2018-05-05 |
 | Uredba o uslovima, načinu sticanja i korišćenja logotipa nacionalnog brenda u javnom sektoru | [`uredba/2018/323296/`](uredba/2018/323296/) | in force | 1 | 2018-11-02 | 2018-11-02 |
 | Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2018. godinu - Agrobudžet | [`uredba/2018/324666/`](uredba/2018/324666/) | in force | 1 | 2018-02-09 | 2018-02-09 |
 | Uredba o izmjeni i dopunama Uredbe o objedinjavanju javnih nabavki robe i usluga | [`uredba/2018/328641/`](uredba/2018/328641/) | amending act | 1 | 2018-12-01 | 2018-12-01 |
 | Uredba o izmjenama i dopuni Uredbe o uspostavljanju mreže mjernih mjesta za praćenje kvaliteta vazduha | [`uredba/2018/329672/`](uredba/2018/329672/) | amending act | 1 | 2018-10-12 | 2018-10-12 |
+| Uredba o finansiranju projekata i programa nevladinih organizacija u oblastima od javnog interesa | [`uredba/2018/329850/`](uredba/2018/329850/) | amended, not consolidated | 1 | 2018-03-08 | 2018-03-08 |
 | Uredba o izmjenama i dopuni Uredbe o kancelarijskom poslovanju organa državne uprave | [`uredba/2018/329983/`](uredba/2018/329983/) | amending act | 1 | 2018-03-23 | 2018-03-23 |
+| Uredba o izmjenama Uredbe o projektima za koje se vrši procjena uticaja na životnu sredinu | [`uredba/2018/330063/`](uredba/2018/330063/) | amended, not consolidated | 1 | 2018-06-15 | 2018-06-15 |
+| Uredba o izmjenama Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu | [`uredba/2018/333100/`](uredba/2018/333100/) | amended, not consolidated | 1 | 2018-08-18 | 2018-08-18 |
 | Uredba o informisanju potrošača o hrani | [`uredba/2018/335011/`](uredba/2018/335011/) | in force | 1 | 2018-04-19 | 2018-04-19 |
 | Uredba o izmjeni Uredbe o visini naknade za korišćenje objekata sigurnosti plovidbe na plovnim putevima | [`uredba/2018/335243/`](uredba/2018/335243/) | in force | 1 | 2018-05-05 | 2018-05-05 |
+| Uredba o izmjenama i dopunama Uredbe o naknadi troškova zaposlenih u javnom sektoru | [`uredba/2018/335255/`](uredba/2018/335255/) | amended, not consolidated | 1 | 2018-05-05 | 2018-05-05 |
+| Uredba o dopuni Uredbe o Vladi Crne Gore | [`uredba/2018/335256/`](uredba/2018/335256/) | amended, not consolidated | 1 | 2018-04-27 | 2018-04-27 |
 | Uredba o izmjenama Uredbe o organizaciji decentralizovanog upravljanja Instrumentom pretpristupne pomoći Evropske unije | [`uredba/2018/336091/`](uredba/2018/336091/) | in force | 1 | 2018-05-22 | 2018-05-22 |
+| Uredba o izmjenama Uredbe o organizaciji indirektnog upravljanja sprovođenja finansijske pomoći u okviru Instrumenta pretpristupne podrške Evropske unije (IPA II) | [`uredba/2018/336092/`](uredba/2018/336092/) | amended, not consolidated | 1 | 2018-05-22 | 2018-05-22 |
+| Uredba o izboru predstavnika nevladinih organizacija u radna tijela organa državne uprave i sprovođenju javne rasprave u pripremi zakona i strategija | [`uredba/2018/336193/`](uredba/2018/336193/) | amended, not consolidated | 1 | 2018-07-06 | 2018-07-06 |
 | Uredba o određivanju rodova i službi u Vojsci Crne Gore | [`uredba/2018/336724/`](uredba/2018/336724/) | in force | 1 | 2018-07-11 | 2018-07-11 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2018. godinu | [`uredba/2018/336926/`](uredba/2018/336926/) | in force | 1 | 2018-07-12 | 2018-07-12 |
 | Uredba o kriterijumima i bližem načinu sprovođenja provjere znanja, sposobnosti, kompetencija i vještina za rad u državnim organima | [`uredba/2018/336986/`](uredba/2018/336986/) | in force | 1 | 2018-07-20 | 2018-07-20 |
 | Uredba o sadržaju, postupku i načinu pripreme i izmjene kadrovskog plana za organe državne uprave i službe Vlade | [`uredba/2018/336987/`](uredba/2018/336987/) | in force | 1 | 2018-07-20 | 2018-07-20 |
+| Uredba o izmjenama i dopunama Uredbe o zaradama lica u službi u Vojsci Crne Gore | [`uredba/2018/337117/`](uredba/2018/337117/) | amended, not consolidated | 1 | 2018-07-20 | 2018-07-20 |
 | Uredba o uslovima za odlaganje naplate poreskih i neporeskih potraživanja | [`uredba/2018/337177/`](uredba/2018/337177/) | in force | 1 | 2018-08-18 | 2018-08-18 |
 | Uredba o načinu i postupku izrade, usklađivanja i praćenja sprovođenja strateških dokumenata | [`uredba/2018/337305/`](uredba/2018/337305/) | in force | 1 | 2018-08-08 | 2018-08-08 |
 | Uredba o načinu izdavanja, prenošenja i povlačenja garancije porijekla električne energije proizvedene iz obnovljivih izvora energije i visokoefikasne kogeneracije | [`uredba/2018/337617/`](uredba/2018/337617/) | in force | 1 | 2018-09-29 | 2018-09-29 |
 | Uredba o postupku i načinu kofinansiranja projekata i programa nevladinih organizacija podržanih iz fondova Evropske unije | [`uredba/2018/337871/`](uredba/2018/337871/) | in force | 1 | 2018-10-12 | 2018-10-12 |
+| Uredba o izmjenama i dopuni Uredbe o načinu rada sistema brze razmjene informacija o proizvodima koji predstavljaju rizik | [`uredba/2018/338394/`](uredba/2018/338394/) | amended, not consolidated | 1 | 2018-11-21 | 2018-11-21 |
+| Uredba o zabranjenim odnosno dozvoljenim načinima upotrebe, proizvodnje i stavljanja na tržište hemikalija koje predstavljaju neprihvatljiv rizik po zdravlje ljudi i životnu sredinu | [`uredba/2018/338420/`](uredba/2018/338420/) | amended, not consolidated | 1 | 2018-11-08 | 2018-11-08 |
 | Uredba o izmjeni Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva ekonomije Javnoj ustanovi Zavod za geološka istraživanja | [`uredba/2018/338471/`](uredba/2018/338471/) | in force | 1 | 2018-12-25 | 2018-12-25 |
+| Uredba o izmjenama i dopunama Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu | [`uredba/2018/338581/`](uredba/2018/338581/) | amended, not consolidated | 1 | 2018-12-27 | 2018-12-27 |
 | Uredba o stručnom osposobljavanju i usavršavanju državnih službenika i namještenika | [`uredba/2018/338656/`](uredba/2018/338656/) | in force | 1 | 2018-12-15 | 2018-12-15 |
+| Uredba o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Javnom preduzeću za upravljanje Morskim dobrom Crne Gore i Javnom preduzeću za Nacionalne parkove Crne Gore | [`uredba/2018/338956/`](uredba/2018/338956/) | amended, not consolidated | 1 | 2019-01-08 | 2019-01-08 |
+| Uredba o izmjeni Uredbe o supstancama koje se mogu dodavati hrani za posebne prehrambene potrebe | [`uredba/2018/348210/`](uredba/2018/348210/) | amended, not consolidated | 1 | 2018-06-15 | 2018-06-15 |
 | Uredba o izmjenama Uredbe o organizaciji i načinu rada državne uprave | [`uredba/2018/348944/`](uredba/2018/348944/) | in force | 1 | 2018-04-27 | 2018-04-27 |
 | Uredba o izmjenama i dopunama Uredbe o uslovima za odobravanje statusa ovlašćenog privrednog subjekta na carinskom području Crne Gore | [`uredba/2019/313757/`](uredba/2019/313757/) | amending act | 1 | 2019-08-13 | 2019-08-13 |
 | Uredba o izmjeni Uredbe o načinu ostvarivanja i visini podsticajnih cijena za električnu energiju proizvedenu iz obnovljivih izvora i visokoefikasne kogeneracije | [`uredba/2019/313908/`](uredba/2019/313908/) | in force | 1 | 2019-07-27 | 2019-07-27 |
@@ -34334,25 +34608,40 @@
 | Uredba o izmjeni Uredbe o visini nagrade za rad i naknade troškova posrednika | [`uredba/2019/324867/`](uredba/2019/324867/) | in force | 1 | 2019-08-09 | 2019-08-09 |
 | Uredba o dodjeli sredstava za podsticanje direktnih investicija i unapređenje konkurentnosti privrede | [`uredba/2019/327991/`](uredba/2019/327991/) | in force | 1 | 2019-03-29 | 2019-03-29 |
 | Uredba o vrstama i načinu upotrebe carinskih obilježja | [`uredba/2019/328793/`](uredba/2019/328793/) | in force | 1 | 2019-04-27 | 2019-04-27 |
+| Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma jedinicama lokalne samouprave | [`uredba/2019/330330/`](uredba/2019/330330/) | amended, not consolidated | 1 | 2019-12-30 | 2019-12-30 |
 | Uredba o načinu i kriterijumima za korišćenje sredstava za socijalno stanovanje | [`uredba/2019/330501/`](uredba/2019/330501/) | in force | 1 | 2019-01-19 | 2019-01-19 |
 | Uredba o naplati poreskih potraživanja imovinom poreskih obveznika | [`uredba/2019/331767/`](uredba/2019/331767/) | in force | 1 | 2019-07-05 | 2019-07-05 |
 | Uredba o uslovima za priključenje proizvođača električne energije na prenosnu i distributivnu mrežu | [`uredba/2019/331813/`](uredba/2019/331813/) | in force | 1 | 2019-08-08 | 2019-08-08 |
 | Uredba o načinu, uslovima i vremenu davanja na korišćenje dobara nacionalnih parkova | [`uredba/2019/331849/`](uredba/2019/331849/) | in force | 1 | 2019-02-27 | 2019-02-27 |
+| Uredba o izmjenama i dopuni Uredbe o načinu izračunavanja indeksa razvijenosti jedinice lokalne samouprave | [`uredba/2019/332227/`](uredba/2019/332227/) | amended, not consolidated | 1 | 2019-12-26 | 2019-12-26 |
+| Uredba o kriterijumima za unutrašnju organizaciju i sistematizaciju poslova u organima državne uprave | [`uredba/2019/333891/`](uredba/2019/333891/) | amended, not consolidated | 1 | 2019-03-01 | 2019-03-01 |
 | Uredba o ocjenjivanju rada državnih službenika i namještenika | [`uredba/2019/334361/`](uredba/2019/334361/) | in force | 1 | 2019-03-15 | 2019-03-15 |
+| Uredba o visini naknade za izdavanje urbanističkih odnosno tehničkih uslova za privremene objekte utvrđene programom privremenih objekata | [`uredba/2019/334371/`](uredba/2019/334371/) | amended, not consolidated | 1 | 2019-03-23 | 2019-03-23 |
+| Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata | [`uredba/2019/334609/`](uredba/2019/334609/) | amended, not consolidated | 1 | 2019-04-06 | 2019-04-06 |
+| Uredba o dopuni Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma jedinicama lokalne samouprave | [`uredba/2019/335293/`](uredba/2019/335293/) | amended, not consolidated | 1 | 2019-05-23 | 2019-05-23 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2019. godinu | [`uredba/2019/336267/`](uredba/2019/336267/) | in force | 1 | 2019-07-12 | 2019-07-12 |
 | Uredba o minimalno-tehničkim uslovima i načinu pružanja pojedinih turističkih usluga koje uključuju sportsko-rekreativne i avanturističke aktivnosti | [`uredba/2019/336434/`](uredba/2019/336434/) | in force | 1 | 2019-07-13 | 2019-07-13 |
 | Uredba o načinu pretvaranja posebnog i zajedničkog dijela stambene zgrade u poslovnu prostoriju, odnosno poslovne prostorije u posebni ili zajednički dio stambene zgrade | [`uredba/2019/336641/`](uredba/2019/336641/) | in force | 1 | 2019-08-15 | 2019-08-15 |
 | Uredba o dopuni Uredbe o povjeravanju dijela poslova Uprave za inspekcijske poslove Glavnom gradu Podgorica i opštinama Andrijevica, Berane, Bijelo Polje, Gusinje, Kolašin, Mojkovac, Nikšić i Rožaje | [`uredba/2019/336652/`](uredba/2019/336652/) | amending act | 1 | 2019-08-07 | 2019-08-07 |
+| Uredba o izmjenama i dopunama uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći evropske unije (IPARD II program) | [`uredba/2019/336653/`](uredba/2019/336653/) | amended, not consolidated | 1 | 2019-08-07 | 2019-08-07 |
+| Uredba o kancelarijskom poslovanju organa državne uprave | [`uredba/2019/337021/`](uredba/2019/337021/) | amended, not consolidated | 1 | 2019-08-20 | 2019-08-20 |
 | Uredba o zahtjevima za stavljanje na tržište prirodne mineralne i izvorske vode* | [`uredba/2019/337144/`](uredba/2019/337144/) | in force | 1 | 2019-08-29 | 2019-08-29 |
 | Uredba o povjeravanju dijela poslova iz nadležnosti Ministarstva održivog razvoja i turizma Glavnom gradu Podgorica | [`uredba/2019/337236/`](uredba/2019/337236/) | in force | 1 | 2019-09-24 | 2019-09-24 |
 | Uredba o izmjeni Uredbe o visini naknade za izdavanje urbanističkih odnosno tehničkih uslova za privremene objekte utvrđene programom privremenih objekata | [`uredba/2019/337340/`](uredba/2019/337340/) | in force | 1 | 2019-09-10 | 2019-09-10 |
 | Uredba o uslovima, načinu i dinamici sprovođenja mjera agrarne politike za 2019. godinu - Agrobudžet | [`uredba/2019/337928/`](uredba/2019/337928/) | in force | 1 | 2019-02-07 | 2019-02-07 |
 | Uredba o povjeravanju dijela poslova iz nadležnosti Ministarstva održivog razvoja i turizma Opštini Budva | [`uredba/2019/338148/`](uredba/2019/338148/) | in force | 1 | 2020-01-08 | 2020-01-08 |
+| Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za nacionalne parkove Crne Gore | [`uredba/2019/338208/`](uredba/2019/338208/) | amended, not consolidated | 1 | 2019-12-30 | 2019-12-30 |
 | Uredba o izmjeni Uredbe o povjeravanju dijela poslova iz nadležnosti Ministarstva ekonomije Javnoj ustanovi Zavod za geološka istraživanja | [`uredba/2019/338357/`](uredba/2019/338357/) | in force | 1 | 2019-12-30 | 2019-12-30 |
 | Uredba o uslovima i načinu korišćenja genetički modifikovane hrane ili hrane za životinje | [`uredba/2019/339039/`](uredba/2019/339039/) | in force | 1 | 2019-02-16 | 2019-02-16 |
+| Uredbu o izmjenama i dopunama Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (ipard II program) | [`uredba/2020/309922/`](uredba/2020/309922/) | amended, not consolidated | 1 | 2020-02-14 | 2020-02-14 |
 | Uredba o prestanku važenja Uredbe o načinu vršenja kvalifikovanih usluga certifikovanja za organe državne uprave | [`uredba/2020/311193/`](uredba/2020/311193/) | in force | 1 | 2020-03-28 | 2020-03-28 |
 | Uredba o prenošenju poslova i zadataka finansijskog upravljanja i unutrašnjih kontrola u javnom sektoru | [`uredba/2020/313566/`](uredba/2020/313566/) | in force | 1 | 2020-08-10 | 2020-08-10 |
+| Uredba o bližim elementima i metodologiji za određivanje cijena komunalnih usluga | [`uredba/2020/314131/`](uredba/2020/314131/) | amended, not consolidated | 1 | 2020-06-20 | 2020-06-20 |
+| Uredba o izmjenama Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD II program) | [`uredba/2020/316910/`](uredba/2020/316910/) | amended, not consolidated | 1 | 2020-03-19 | 2020-03-19 |
 | Uredba o prestanku važenja Uredbe o načinu i postupku podnošenja prijave državne pomoći | [`uredba/2020/320610/`](uredba/2020/320610/) | in force | 1 | 2020-05-16 | 2020-05-16 |
+| Uredba o izmjenama i dopunama Uredbe o zaradama lica u službi u Vojsci Crne Gore | [`uredba/2020/330734/`](uredba/2020/330734/) | amended, not consolidated | 1 | 2020-08-29 | 2020-08-29 |
+| Uredba o izmjeni Uredbe o zabranjenim odnosno dozvoljenim načinima upotrebe, proizvodnje i stavljanja na tržište hemikalija koje predstavljaju neprihvatljiv rizik po zdravlje ljudi i životnu sredinu | [`uredba/2020/331221/`](uredba/2020/331221/) | amended, not consolidated | 1 | 2020-08-05 | 2020-08-05 |
+| Uredba o izmjeni i Dopuni uredbe o naknadi troškova zaposlenih u javnom sektoru | [`uredba/2020/332829/`](uredba/2020/332829/) | amended, not consolidated | 1 | 2020-11-14 | 2020-11-14 |
 | Uredba o dopuni Uredbe o visini naknade za korišćenje objekata sigurnosti plovidbe na plovnim putevima | [`uredba/2020/333173/`](uredba/2020/333173/) | amending act | 1 | 2020-10-25 | 2020-10-25 |
 | Uredba o visini nagrade za rad i naknade troškova medijatora i evaluatora spora | [`uredba/2020/333174/`](uredba/2020/333174/) | in force | 1 | 2020-10-25 | 2020-10-25 |
 | Uredba o izmjeni Uredbe o uniformi, oznakama zvanja i naoružanju policijskih službenika | [`uredba/2020/333233/`](uredba/2020/333233/) | in force | 1 | 2020-11-04 | 2020-11-04 |
@@ -34370,20 +34659,31 @@
 | Uredba o kriterijumima za izbor, pripremanje, obuku i opremanje pripadnika operativne jedinice za zaštitu i spašavanje i policije i zaposlenih u organima državne uprave za učešće u mirovnim misijama i drugim aktivnostima u inostranstvu | [`uredba/2020/337480/`](uredba/2020/337480/) | in force | 1 | 2020-06-20 | 2020-06-20 |
 | Uredba o utvrđivanju isplate obeštećenja bivšim vlasnicima oduzetih imovinskih prava u novčanim sredstvima za 2020. godinu | [`uredba/2020/337848/`](uredba/2020/337848/) | in force | 1 | 2020-07-16 | 2020-07-16 |
 | Uredba o bližim uslovima i načinu plaćanja administrativnih taksi elektronskim putem | [`uredba/2020/337849/`](uredba/2020/337849/) | in force | 1 | 2020-07-16 | 2020-07-16 |
+| Uredba o listi vojne opreme i proizvoda, postupku i načinu sprovođenja javnih nabavki u oblasti odbrane i bezbjednosti | [`uredba/2020/338221/`](uredba/2020/338221/) | amended, not consolidated | 1 | 2020-07-28 | 2020-07-28 |
+| Uredba o izmjenama i dopuni Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu | [`uredba/2020/338314/`](uredba/2020/338314/) | amended, not consolidated | 1 | 2020-02-01 | 2020-02-01 |
 | Uredba o načinu sprovođenja nabavki za diplomatska i konzularna predstavništva Crne Gore u inostranstvu | [`uredba/2020/339006/`](uredba/2020/339006/) | in force | 1 | 2020-09-09 | 2020-09-09 |
+| Uredba o dopuni Uredbe o prestanku važenja pojedinih podzakonskih akata | [`uredba/2020/339047/`](uredba/2020/339047/) | amended, not consolidated | 1 | 2020-10-10 | 2020-10-10 |
+| Uredba o izmjeni Uredbe o posebnom dodatku na osnovnu zaradu, posebnim naknadama troškova i drugim primanjima za vrijeme rada u diplomatsko-konzularnom predstavništvu | [`uredba/2020/348123/`](uredba/2020/348123/) | amended, not consolidated | 1 | 2020-12-31 | 2020-12-31 |
 | Uredba o izmjenama Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za nacionalne parkove Crne Gore | [`uredba/2020/363315/`](uredba/2020/363315/) | in force | 1 | 2020-12-04 | 2020-12-04 |
 | Uredba o prestanku važenja Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Glavnom gradu Podgorica | [`uredba/2021/313941/`](uredba/2021/313941/) | in force | 1 | 2021-02-27 | 2021-02-27 |
+| Uredba o izmjenama i dopunama Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (Ipard II Program) | [`uredba/2021/318192/`](uredba/2021/318192/) | amended, not consolidated | 1 | 2021-04-23 | 2021-04-23 |
+| Uredba o izmjeni Uredbe o povjeravanju dijela poslova Ministarstva ekologije, prostornog planiranja i urbanizma jedinicama lokalne samouprave | [`uredba/2021/319943/`](uredba/2021/319943/) | amended, not consolidated | 1 | 2021-12-30 | 2021-12-30 |
+| Uredba o uspostavljanju unutrašnje revizije u javnom sektoru | [`uredba/2021/320271/`](uredba/2021/320271/) | amended, not consolidated | 1 | 2021-09-18 | 2021-09-18 |
 | Uredba o izmjeni i dopunama Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD II program) | [`uredba/2021/324504/`](uredba/2021/324504/) | amending act | 1 | 2021-08-27 | 2021-08-27 |
 | Uredba o vazduhoplovnim aktivnostima za koje se ne dostavlja plan praćenja emisija gasova sa efektom staklene bašte | [`uredba/2021/324803/`](uredba/2021/324803/) | in force | 1 | 2021-07-24 | 2021-07-24 |
+| Uredba o izmjenama Uredbe o uslovima i kriterijumima objavljivanja liste poreskih dužnika | [`uredba/2021/327955/`](uredba/2021/327955/) | amended, not consolidated | 1 | 2021-07-16 | 2021-07-16 |
+| Uredba o izmjeni Uredbe o uslovima za spoljnotrgovinski promet neobrađenih dijamanata | [`uredba/2021/328137/`](uredba/2021/328137/) | amended, not consolidated | 1 | 2021-03-27 | 2021-03-27 |
 | Uredba o izmjenama Uredbe o bližem postupku očitavanja fiskalne memorije poreske registar kase | [`uredba/2021/328167/`](uredba/2021/328167/) | in force | 1 | 2021-04-22 | 2021-04-22 |
 | Uredba o prestanku važenja Uredbe o načinu i uslovima dodjele koncesija za istraživanje vodotoka i tehno-ekonomsko korišćenje vodnog energetskog potencijala za proizvodnju električne energije u malim hidroelektranama | [`uredba/2021/330054/`](uredba/2021/330054/) | in force | 1 | 2021-03-09 | 2021-03-09 |
 | Uredba o prestanku važenja Uredbe o brojnoj veličini, sastavu i načinu angažovanja aktivne rezerve Vojske Crne Gore | [`uredba/2021/330382/`](uredba/2021/330382/) | in force | 1 | 2021-12-29 | 2021-12-29 |
 | Uredba o izmjenama i dopuni Uredbe o realizaciji i postupku korišćenja sredstava iz instrumenta pretpristupne pomoći Evropske unije (IPARD II program) | [`uredba/2021/333871/`](uredba/2021/333871/) | amending act | 1 | 2021-11-05 | 2021-11-05 |
 | Uredba o načinu utvrđivanja naknade za korišćenje nepokretnosti u državnoj imovini | [`uredba/2021/333942/`](uredba/2021/333942/) | in force | 1 | 2021-12-29 | 2021-12-29 |
 | Uredba o izmjenama Uredbe o povjeravanju dijela poslova Ministarstva održivog razvoja i turizma Javnom preduzeću za upravljanje morskim dobrom Crne Gore i Javnom preduzeću za nacionalne parkove Crne Gore | [`uredba/2021/333973/`](uredba/2021/333973/) | in force | 1 | 2021-12-30 | 2021-12-30 |
+| Uredba o vitaminima, mineralima i drugim supstancama koje se mogu dodavati hrani* | [`uredba/2021/333986/`](uredba/2021/333986/) | amended, not consolidated | 1 | 2022-01-07 | 2022-01-07 |
 | Uredba o graničnim vrijednostima emisija iz postrojenja za sagorijevanje i načinu izračunavanja graničnih vrijednosti emisija za postrojenja koja koriste više vrsta goriva | [`uredba/2021/334076/`](uredba/2021/334076/) | in force | 1 | 2021-12-23 | 2021-12-23 |
 | Uredba o dopuni Uredbe o korišćenju zdravstvenih i nutritivnih tvrdnji prilikom označavanja, reklamiranja i prezentacije hrane* | [`uredba/2021/334083/`](uredba/2021/334083/) | amending act | 1 | 2021-12-30 | 2021-12-30 |
 | Uredba o tehničkim i drugim uslovima za korišćenje informaciono-komunikacione mreže i načinu upravljanja tom mrežom | [`uredba/2021/334101/`](uredba/2021/334101/) | in force | 1 | 2021-12-31 | 2021-12-31 |
+| Uredba o kriterijumima za formiranje maksimalnih cijena ljekova* | [`uredba/2021/334162/`](uredba/2021/334162/) | amended, not consolidated | 1 | 2021-12-24 | 2021-12-24 |
 | Uredba o izmjeni Uredbe o bližim kriterijumima i metodologiji za određivanje tržišne vrijednosti nepokretnosti | [`uredba/2021/334206/`](uredba/2021/334206/) | in force | 1 | 2021-12-29 | 2021-12-29 |
 | Uredba o uslovima za odlaganje naplate dospjelih poreskih i neporeskih potraživanja | [`uredba/2021/334492/`](uredba/2021/334492/) | in force | 1 | 2021-02-23 | 2021-02-23 |
 | Uredba o načinu sprovođenja nabavki za vojno-diplomatske predstavnike i jedinice Vojske Crne Gore u međunarodnim snagama i mirovnim misijama | [`uredba/2021/336317/`](uredba/2021/336317/) | in force | 1 | 2021-04-28 | 2021-04-28 |

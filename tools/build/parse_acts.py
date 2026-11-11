@@ -67,7 +67,29 @@ KINDS = {"Zakon": ("zakon", "law"), "Uredba": ("uredba", "decree"), "Pravilnik":
          "Statut": ("statut", "decree"), "Pravila": ("pravila", "decree"), "Poslovnik": ("poslovnik", "decree"),
          "Program": ("program", "decree"), "Plan": ("plan", "decree"), "Rješenje": ("rjesenje", "decree"),
          "Druga akta": ("akt", "decree"), "Potvrđeni međunarodni ugovori i obavještenja": ("ugovor", "treaty"),
-         "Drugi međunarodni ugovori i međunarodni akti": ("ugovor", "treaty")}
+         "Drugi međunarodni ugovori i međunarodni akti": ("ugovor", "treaty"),
+         # 2026-11-11 (deep): kinds read from the title where the PIS gives none of the above (title_kind)
+         "Ukaz": ("ukaz", "decree"), "Presuda": ("presuda", "decree")}
+# 2026-11-11 (deep): an act the PIS lists as "Neklasifikovan", with a numeric code ("4": Presidential decrees, Ukaz;
+# "89487621": municipal conclusions, Zaključak), as "Presude" (ECHR judgments) or with no kind: its kind is the first
+# word of its title, where that word is one of these (folded). Corrections (Ispravka) are not read so.
+TITLE_KINDS = {"odluka": "Odluka", "odluku": "Odluka", "rjesenje": "Rješenje", "rjesenja": "Rješenje",
+               "resenje": "Rješenje", "zakljucak": "Druga akta", "program": "Program", "pravilnik": "Pravilnik",
+               "zakon": "Zakon", "uredba": "Uredba", "statut": "Statut", "plan": "Plan", "naredba": "Naredba",
+               "uputstvo": "Uputstvo", "poslovnik": "Poslovnik", "ukaz": "Ukaz", "presuda": "Presuda",
+               "predmet": "Presuda"}
+UNCLASSIFIED = ("Neklasifikovan", "4", "89487621", "Presude", "")
+
+
+def title_kind(title: str, vrsta: str) -> str:
+    """The kind of an act the PIS does not classify (UNCLASSIFIED), from its title's first word; else vrsta."""
+    if vrsta not in UNCLASSIFIED:
+        return vrsta
+    w = re.split(r"[\s,;:.\-]+", fold(title).strip(), maxsplit=1)[0] if title.strip() else ""
+    k = TITLE_KINDS.get(w, vrsta)
+    if k == "Presuda" and vrsta != "Presude":
+        return vrsta   # "Predmet"/"Presuda" read as an ECHR judgment only where the PIS says Presude
+    return k
 # A later act's title naming another act as amended, corrected or repealed: "Zakon o izmjenama i dopunama Zakona o X",
 # "Ispravka Pravilnika o Y", "Zakon o prestanku važenja Zakona o Z".
 AMENDING = re.compile(r"\b(?:o\s+(?:izmjen\w*|dopun\w*|izmjeni|dopuni)(?:\s+i\s+(?:dopun\w*|izmjen\w*))?|ispravk\w*|"
@@ -481,7 +503,7 @@ RETRY = ("article_out_of_sequence", "last_article_not_in_force_clause", "in_forc
          "in_force_before_publication")
 # The third reading (2026-11-11, part 54): kinds dated by their publication day when their text has no in-force wording
 # at all (none of NO_CLAUSE_WORDS, folded, Cyrillic read as Latin). Normative kinds and treaties stay held instead.
-NO_CLAUSE_KINDS = ("rjesenje", "odluka", "akt", "program", "plan")
+NO_CLAUSE_KINDS = ("rjesenje", "odluka", "akt", "program", "plan", "ukaz", "presuda")
 NO_CLAUSE_WORDS = re.compile(r"stup\w*\s+na\s+snag|primjenj\w*\s+(?:se\s+)?od|primenj\w*\s+(?:se\s+)?od|\bvazi\s+od|"
                              r"pravn\w+\s+dejstv|proizvod\w*\s+dejstv")
 # Article headings as some PDFs print them: Cyrillic letters inside the Latin word ("Člаn 5"), the Č lost ("lan 5"),
@@ -916,6 +938,9 @@ def main():
     named_year: dict[int, int] = {}
     listed_items: dict[int, tuple] = {}   # id: (listing status, listing kind)
     issue_of: dict[int, str] = {}   # the issue each listed act was published in ("Službeni list Crne Gore, broj N/YYYY")
+    title_of: dict[int, str] = {}
+    key_count: dict[tuple, int] = defaultdict(int)
+    named_parts: set[str] = set()   # parts with an act labelled from later titles naming it (named_label)
     for f in sorted((src / "list").glob("*/*.html.gz")):
         for st, rest, i, y in cached(cache, used, "list", f, named_on):
             named[(st, rest)].add(i)
@@ -923,6 +948,14 @@ def main():
         for i, status, issue, vrsta in cached(cache, used, "items", f, list_items):
             issue_of.setdefault(i, issue)
             listed_items.setdefault(i, (status, vrsta))
+        # 2026-11-11 (deep): every listed title, and how many listed acts share each title key (named_label)
+        for i, t in cached(cache, used, "titles", f, lambda f_: [[x[0], x[1]] for x in listing_page(f_)]):
+            if i not in title_of:
+                title_of[i] = norm(t)
+                tm_ = re.match(r"^(\S+)\s+(.*)$", title_of[i])
+                k_ = tail_key(tm_.group(1), tm_.group(2)) if tm_ else None
+                if k_:
+                    key_count[k_] += 1
 
     parts: dict[str, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     alt_parts: set[str] = set()   # parts with an act read from an alternative text (alt/)
@@ -934,6 +967,8 @@ def main():
         title = ""
         amended_by = []
         alt_note = None
+        kind_note = None
+        named_label = False
         try:
             pf = src / "act" / str(i // 1000) / f"{i}.html.gz"
             m = cached(cache, used, "page", pf, page_meta)
@@ -950,9 +985,12 @@ def main():
             # the issue each was published in.
             amended_by = sorted((x for x in m.get("amended_by") or [] if x[0] != i), key=lambda x: issue_key(
                 issue_of.get(x[0], ""), x[0]))
-            if m["vrsta"] not in KINDS:
+            vrsta = title_kind(title, m["vrsta"])
+            if vrsta not in KINDS:
                 raise Hold("kind_not_built:" + m["vrsta"])
-            kind, law_kind = KINDS[m["vrsta"]]
+            kind, law_kind = KINDS[vrsta]
+            kind_note = (f"Its kind is read from its title (the PIS lists it as \"{m['vrsta'] or 'no kind'}\")."
+                         if vrsta != m["vrsta"] else None)
             if a.kinds and kind not in a.kinds.split(","):
                 raise Hold("kind_not_selected:" + kind)
             tm = re.match(r"^(\S+)\s+(.*)$", title)
@@ -974,12 +1012,25 @@ def main():
                                 earlier[o] = om["published"]
                         elif 0 < named_year.get(o, 0) < int(m["published"][:4]):
                             earlier[o] = f"issue year {named_year[o]}"
-                    if set(earlier) != others:
-                        raise Hold("named_as_amended:" + ",".join(map(str, sorted(others - set(earlier))[:5])))
-                    named_note = ("Not held back for the title" + ("s" if len(earlier) > 1 else "") + " naming an "
-                                  "act of its title as amended, corrected or repealed: " +
-                                  "; ".join(f"PIS {o} ({d})" for o, d in sorted(earlier.items())) + " appeared before "
-                                  f"this act (published {m['published']}), so names an earlier act of the same title.")
+                    naming = sorted(others - set(earlier))
+                    if naming:
+                        # 2026-11-11 (deep, Romania standard): an act whose title key no other listed act shares, named
+                        # by later titles as amended or corrected (not repealed), is published as enacted, labelled
+                        # "amended, not consolidated" with the naming acts as amended_by. Shared titles (which act a
+                        # naming title means is not certain) and repeals stay held back.
+                        if key_count.get(k, 0) != 1 or any(
+                                re.search(r"prestank\w* vazenja|stavljanj\w* van snage|ukidanj", fold(title_of.get(o, "")))
+                                for o in naming):
+                            raise Hold("named_as_amended:" + ",".join(map(str, naming[:5])))
+                        amended_by = [(o, title_of.get(o, "")) for o in sorted(naming, key=lambda x: issue_key(
+                            issue_of.get(x, ""), x))]
+                        named_label = True
+                    if earlier:
+                        named_note = ("Not held back for the title" + ("s" if len(earlier) > 1 else "") + " naming an "
+                                      "act of its title as amended, corrected or repealed: " +
+                                      "; ".join(f"PIS {o} ({d})" for o, d in sorted(earlier.items())) + " appeared "
+                                      f"before this act (published {m['published']}), so names an earlier act of the "
+                                      f"same title.")
             if not m["published"]:
                 raise Hold("no_publication_day")
             iss = re.search(r"broj\s+(\d+)\s*/\s*(\d{4})", m["issue"])
@@ -1084,6 +1135,12 @@ def main():
             note = close_note
         if alt_note:
             note = (note + " " if note else "") + alt_note
+        if kind_note:
+            note = (note + " " if note else "") + kind_note
+        if named_label:
+            note = (note + " " if note else "") + (
+                "The PIS lists no amending act for it, but later acts' titles name it as amended or corrected (no "
+                "other act in the PIS has its title): published as enacted, labelled amended, not consolidated.")
         if named_note:
             note = (note + " " if note else "") + named_note
         part = f"{part_no + (10 if amended_by else 0)}-{kind}-{year}"
@@ -1095,6 +1152,8 @@ def main():
                                      "restores": None, "note": None}
         if alt_note:
             alt_parts.add(part)
+        if named_label:
+            named_parts.add(part)
         parts[part]["acts"].append({
             "slug": slug, "short": title, "title": title, "url": PAGE.format(id=i), "first_law": slug,
             "earlier_laws": [],
@@ -1121,7 +1180,7 @@ def main():
             reason = m["hold"]
         elif not m["status"].startswith("Važe"):
             reason = "not_in_force:" + m["status"]
-        elif m["vrsta"] not in KINDS:
+        elif title_kind(norm(m.get("title", "")), m["vrsta"]) not in KINDS:
             reason = "kind_not_built:" + (m["vrsta"] or "none")
         elif m["amended"] and any(x != i for x, _ in m.get("amended_by") or []):
             reason = "amended_on_pis_text_not_fetched"
@@ -1228,6 +1287,13 @@ def main():
                 "Crne Gore, with the status 'amended, not consolidated' and the acts its page lists as amended_by "
                 "(their official links); later titles naming an act of the same title do not hold it back. Every "
                 "other check on its text and in-force day is the one its reading below applies.")
+        if name_ in named_parts:
+            p["decisions"].append(
+                "Some acts here are amended without the PIS listing their amending acts: later acts' titles name them "
+                "as amended or corrected ('Odluka o izmjenama Odluke o ...', 'Ispravka ...'), and no other act in the "
+                "PIS has the same title, so the naming is certain. They are published as enacted, labelled 'amended, "
+                "not consolidated', with the naming acts as amended_by; their version notes say so. Where several "
+                "acts share a title, or the naming title repeals, the act stays held back.")
         if name_ in alt_parts:
             p["decisions"].append(
                 "Where an act's PDF text layer is not its text (its font maps letters to wrong characters, or its pages "
