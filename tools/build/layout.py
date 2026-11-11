@@ -51,7 +51,9 @@ def assign(c: dict, known: dict[str, str]) -> None:
     """Give every act its folder: the recorded one, else its official identifier. Two acts may never share one."""
     seen: dict[str, str] = {}
     for a in c['acts']:
-        p = known.get(a['slug']) or act_path(a['slug'], a.get('title', ''))
+        # 2026-11-11 (croatia-deep): an act may name its own folder (Croatia's local acts: local/<unit>/<year>/<id>);
+        # acts without one are placed as before.
+        p = known.get(a['slug']) or a.get('folder') or act_path(a['slug'], a.get('title', ''))
         if p in seen and seen[p] != a['slug']:
             # Two corpus acts claim one identifier (a duplicate entry): keep publishing, the later one under alte/.
             print(f'layout: {a["slug"]} and {seen[p]} both claim {p}; {a["slug"]} filed under alte/', file=sys.stderr)

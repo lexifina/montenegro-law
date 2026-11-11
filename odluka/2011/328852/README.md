@@ -1,0 +1,24 @@
+# Odluka o izmjeni Odluke o odobravanju regulatorno dozvoljenog prihoda Elektroprivredi Crne Gore ad Nikšić za javnog snabdjevača broj 11/174-59 od 02.03.2011. godine
+
+Odluka o izmjeni Odluke o odobravanju regulatorno dozvoljenog prihoda Elektroprivredi Crne Gore ad Nikšić za javnog snabdjevača broj 11/174-59 od 02.03.2011. godine · 1 versions, from 2011-12-31 (latest in force: 2011-12-31) · <https://www.sluzbenilist.me/propisi/328852>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Tekst | [tekst.md](tekst.md) | 0 |  |
+
+Act id: `odluka-2011-328852` (tags `odluka-2011-328852/<day>`; `python tools/on.py <day> odluka-2011-328852`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Odluka o izmjeni Odluke o odobravanju regulatorno dozvoljenog prihoda Elektroprivredi Crne Gore AD Nikšić za javnog snabdjevača ("Službeni list CG", br. 13/11 i 61/11) (Službeni list Crne Gore, broj 31/2012)](https://www.sluzbenilist.me/propisi/349119)
+
+## Decisions made by hand
+
+- Acts the PIS marks in force (Važeći) whose page lists amending acts ('Izmjene i/ili dopune'). The PIS publishes no consolidated texts, so each is published as enacted, as printed in the Službeni list Crne Gore, with the status 'amended, not consolidated' and the acts its page lists as amended_by (their official links); later titles naming an act of the same title do not hold it back. Every other check on its text and in-force day is the one its reading below applies.
+- Each act's one version takes effect on the PIS 'Datum stupanja na snagu'; where the act's own final article counts its day from publication or names a date, the two must agree or the act is held back. A different application day (PIS 'Datum početka primjene') is noted on the version.
+- The President's promulgation decree printed above a law and the signatures are left out. Article captions are the second line of the article file ('## ...'); chapter and section headings are units of their own; an annex printed after the signature is one unit, its tables run on as lines.
+- The enacted date given is the publication day (the PIS gives no adoption day).

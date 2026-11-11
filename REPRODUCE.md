@@ -1,6 +1,6 @@
 # How this repository was made (Montenegro)
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -10,7 +10,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Skupština Crne Gore (Parliament) | <https://www.skupstina.me/me/ustav-crne-gore> | 2026-10-29 | Official texts, not protected by copyright |
 | Službeni list Crne Gore (PIS): laws in force, as published | <https://www.sluzbenilist.me/propisi?type=0&act=1> | 2026-11-02 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
 | Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-04 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
-| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-10 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
+| Službeni list Crne Gore (PIS): acts in force, as published | <https://www.sluzbenilist.me/propisi> | 2026-11-11 | Official texts, not protected by copyright (Zakon o autorskom i srodnim pravima) |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -18,21 +18,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 32231 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 32231 | |
+| 32535 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 32535 | |
 
-The build made 32537 commits:
+The build made 32837 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 32516 | first version of an act |
+| 32816 | first version of an act |
 | 21 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `buduce`: laws not yet in force on 2026-11-10.
+- 0 commits on the branch `buduce`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 32561 laws in the record.
-- 65055 tags.
+- 36064 laws in the record.
+- 65655 tags.
 
 ## Dates
 
@@ -44,7 +44,7 @@ When a law gives no date of its own, the default rule applies: Ustav Crne Gore a
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `d8835d4783292faa7fdff6d41992f2a51a49660a65c71884e423457115a101bd` (337686134 bytes).
+- Corpus: sha256 `acba6ee9af5e55e49f2d3a6b574b40ff46e17bfbd4802b292677dc8f0fb9cef3` (423376532 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `25c4d4ad1a400561b148aac78a08e20fe3cb39c7`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `0be88de7820b2dafe9f94fa40472a48776aa4cf5`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -56,7 +56,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (3189 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (4373 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
