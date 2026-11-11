@@ -1,0 +1,3 @@
+# Član 2
+U članu 10, poslije stava 1 dodaje se novi stav koji glasi:
+"Investiciono društvo koje je emitent hartija od vrijednosti uključenih u trgovanje na regulisanom tržištu u Crnoj Gori, obavezu sačinjavanja i dostavljanja godišnjeg finansijskog izvještaja izvršava u skladu sa članom 98 Zakona o tržištu kapitala i Pravilima o finansijskom izvještavanju emitenata ("Službeni list Crne Gore", br. 080/26). Dostavljanjem godišnjeg finansijskog izvještaja u skladu sa navedenim propisima smatra se ispunjenom obaveza dostavljanja godišnjih finansijskih izvještaja po ovom članu, u dijelu dokumentacije koja je obuhvaćena godišnjim finansijskim izvještajem emitenta."
