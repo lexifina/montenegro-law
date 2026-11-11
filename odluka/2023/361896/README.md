@@ -1,0 +1,28 @@
+# Odluka o dopuni Odluke o tarifama lučkih naknada i drugih usluga ("Službeni list Crne Gore", br. 026/22, 047/22, 091/22 od 19.08.2022)
+
+Odluka o dopuni Odluke o tarifama lučkih naknada i drugih usluga ("Službeni list Crne Gore", br. 026/22, 047/22, 091/22 od 19.08.2022) · 1 versions, from 2023-07-19 (latest in force: 2023-07-19) · <https://www.sluzbenilist.me/propisi/361896>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Tekst | [tekst.md](tekst.md) | 0 |  |
+
+Act id: `odluka-2023-361896` (tags `odluka-2023-361896/<day>`; `python tools/on.py <day> odluka-2023-361896`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Odluka o izmjeni i dopuni Odluke o tarifama lučkih naknada i drugih usluga ("Službeni list Crne Gore", br. 026/22 od 11.03.2022, 047/22 od 28.04.2022, 091/22 od 19.08.2022, 077/23 od 28.07.2023) (Službeni list Crne Gore, broj 21/2024)](https://www.sluzbenilist.me/propisi/366676)
+- [Odluka o izmjeni i dopuni Odluke o tarifama lučkih naknada i drugih usluga ("Službeni list Crne Gore", br. 026/22 od 11.3.2022, 047/22 od 28.4.2022, 091/22 od 19.8.2022, 077/23 od 28.7.2023, 021/24 od 12.3.2024) (Službeni list Crne Gore, broj 80/2024)](https://www.sluzbenilist.me/propisi/372795)
+- [Odluka o izmjeni i dopuni Odluke o tarifama lučkih naknada i drugih usluga ("Službeni list Crne Gore", br. 26/22, 47/22, 91/22, 77/23, 21/24, 80/24 od 16.08.2024) (Službeni list Crne Gore, broj 36/2025)](https://www.sluzbenilist.me/propisi/380838)
+- [Odluka o izmjeni Odluke o tarifama lučkih naknada i drugih usluga ("Službeni list Crne gore", br. 26/22, 47/22, 91/22, 77/23, 21/24, 80/24, 36/25 od 7.4.2025) (Službeni list Crne Gore, broj 74/2025)](https://www.sluzbenilist.me/propisi/383546)
+
+## Decisions made by hand
+
+- Acts the PIS marks in force (Važeći) whose page lists amending acts ('Izmjene i/ili dopune'). The PIS publishes no consolidated texts, so each is published as enacted, as printed in the Službeni list Crne Gore, with the status 'amended, not consolidated' and the acts its page lists as amended_by (their official links); later titles naming an act of the same title do not hold it back. Every other check on its text and in-force day is the one its reading below applies.
+- These are acts a first, strict reading holds back for their article numbering or their in-force day, completed by a second, closer reading: article headings printed with Cyrillic letters inside the Latin word, without a space, with a letter for a digit or run into the article's first sentence are read as headings only where the number is the one expected next; in an act that quotes no articles, a stray quotation mark does not hide its headings; articles numbered again from 1 after the signature and an annex mark stay in the annex.
+- Each act's one version takes effect on the PIS 'Datum stupanja na snagu' where the PIS gives one (the act's own clause must agree). Otherwise the day is read from the act's own in-force sentence ('Ovaj/Ova ... stupa na snagu', or the act named by its title): the publication day ('danom objavljivanja'), the n-th day after publication ('osmog dana od dana objavljivanja'), a stated date, or its adoption day ('danom donošenja'), taken from its own signature block and preamble, which must agree and fall within the year before publication. Every such sentence in the act must give the same day. An application day ('primjenjuje se od') is noted on the version and never read as the in-force day; any other wording keeps the act held back. A different application day in the PIS ('Datum početka primjene') is noted on the version.
+- The President's promulgation decree printed above a law and the signatures are left out. Article captions are the second line of the article file ('## ...'); chapter and section headings are units of their own; an annex printed after the signature is one unit, its tables run on as lines.
+- The enacted date given is the publication day (the PIS gives no adoption day), except for an act in force on its adoption day, where it is that day as read above.
