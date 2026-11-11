@@ -1,0 +1,31 @@
+# Odluka o određivanju lokacije sa elementima urbanističko-tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa
+
+Odluka o određivanju lokacije sa elementima urbanističko-tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa · 1 versions, from 2026-04-10 (latest in force: 2026-04-10) · <https://www.sluzbenilist.me/propisi/392966>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Uvod | [0-uvod.md](0-uvod.md) | 0 |  |
+| Član 1 | [clan-001.md](clan-001.md) | 0 |  |
+| Član 2 | [clan-002.md](clan-002.md) | 0 |  |
+| Član 3 | [clan-003.md](clan-003.md) | 0 |  |
+| Član 4 | [clan-004.md](clan-004.md) | 0 |  |
+| Član 5 | [clan-005.md](clan-005.md) | 0 |  |
+| Član 6 | [clan-006.md](clan-006.md) | 0 |  |
+| Prilog | [prilog.md](prilog.md) | 0 |  |
+
+Act id: `odluka-2026-392966` (tags `odluka-2026-392966/<day>`; `python tools/on.py <day> odluka-2026-392966`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Odluka o izmjeni Odluke o određivanju lokacije sa elementima urbanističko-tehničkih uslova za izradu tehničke dokumentacije za izgradnju lokalnog objekta od opšteg interesa broj 01-018/26-983/1 od 25. 3. 2026. godine ("Službeni list CG - Opštinski propisi", broj 14/26) (Službeni list Crne Gore, broj 21/2026)](https://www.sluzbenilist.me/propisi/394063)
+
+## Decisions made by hand
+
+- Acts the PIS marks in force (Važeći) whose page lists amending acts ('Izmjene i/ili dopune'). The PIS publishes no consolidated texts, so each is published as enacted, as printed in the Službeni list Crne Gore, with the status 'amended, not consolidated' and the acts its page lists as amended_by (their official links); later titles naming an act of the same title do not hold it back. Every other check on its text and in-force day is the one its reading below applies.
+- Each act's one version takes effect on the PIS 'Datum stupanja na snagu'; where the act's own final article counts its day from publication or names a date, the two must agree or the act is held back. A different application day (PIS 'Datum početka primjene') is noted on the version.
+- The President's promulgation decree printed above a law and the signatures are left out. Article captions are the second line of the article file ('## ...'); chapter and section headings are units of their own; an annex printed after the signature is one unit, its tables run on as lines.
+- The enacted date given is the publication day (the PIS gives no adoption day).

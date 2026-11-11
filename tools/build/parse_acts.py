@@ -925,6 +925,7 @@ def main():
             listed_items.setdefault(i, (status, vrsta))
 
     parts: dict[str, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
+    alt_parts: set[str] = set()   # parts with an act read from an alternative text (alt/)
     holds = []
     pdfs = sorted(int(f.name.split(".")[0]) for f in (src / "pdf").glob("*/*.json.gz"))
     for i in pdfs:
@@ -932,6 +933,7 @@ def main():
             continue
         title = ""
         amended_by = []
+        alt_note = None
         try:
             pf = src / "act" / str(i // 1000) / f"{i}.html.gz"
             m = cached(cache, used, "page", pf, page_meta)
@@ -987,6 +989,16 @@ def main():
                 raise Hold("ratification_not_built")
             amending = bool(re.search(r"\b(?:izmjen|dopun|izmjeni|dopuni)", fold(title)))
             pdf = src / "pdf" / str(i // 1000) / f"{i}.json.gz"
+            # 2026-11-11 (deep): an alternative text for an act whose PDF text layer is not its text (a font mapping
+            # letters to wrong characters, a scan): alt/<id//1000>/<id>.json.gz, same line format, with {"alt": {"method",
+            # "note"}}; the note goes on the version. Written only for acts held back for those reasons
+            # (scripts/montenegro-law/deep/ocr: glyphfix.py, ocr.py).
+            alt = src / "alt" / str(i // 1000) / f"{i}.json.gz"
+            alt_note = None
+            if alt.exists():
+                pdf = alt
+                alt_note = cached(cache, used, "alt", alt, lambda p_: json.loads(gzip.decompress(p_.read_bytes()).decode(
+                    "utf-8"))["alt"]["note"])
             units, n_art, sha = read_text(pdf, kind == "zakon", amending, cache)
             doc = {"sha256": sha}
             last_art = units[max(k for k in units if k.startswith("clan-"))]["text"] if n_art else ""
@@ -1070,6 +1082,8 @@ def main():
                                      "", close_note)
         elif close_note:
             note = close_note
+        if alt_note:
+            note = (note + " " if note else "") + alt_note
         if named_note:
             note = (note + " " if note else "") + named_note
         part = f"{part_no + (10 if amended_by else 0)}-{kind}-{year}"
@@ -1079,6 +1093,8 @@ def main():
                                                  m["published"]),
                                      "published": m["published"], "url": PAGE.format(id=i), "temporary_until": None,
                                      "restores": None, "note": None}
+        if alt_note:
+            alt_parts.add(part)
         parts[part]["acts"].append({
             "slug": slug, "short": title, "title": title, "url": PAGE.format(id=i), "first_law": slug,
             "earlier_laws": [],
@@ -1212,6 +1228,12 @@ def main():
                 "Crne Gore, with the status 'amended, not consolidated' and the acts its page lists as amended_by "
                 "(their official links); later titles naming an act of the same title do not hold it back. Every "
                 "other check on its text and in-force day is the one its reading below applies.")
+        if name_ in alt_parts:
+            p["decisions"].append(
+                "Where an act's PDF text layer is not its text (its font maps letters to wrong characters, or its pages "
+                "are scans), the act is read from an alternative text: the text layer with those characters mapped "
+                "back, every corrected word checked against the clean text layers, or OCR of the scanned pages. Its "
+                "version note says which; every other check is the same.")
         p["ai_use"] = ["none"]
         f = PARTS / f"{name_}.json"
         body = json.dumps(p, ensure_ascii=False, indent=1) + "\n"
